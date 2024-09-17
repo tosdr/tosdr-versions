@@ -1,5 +1,5 @@
   
-Privacy policy – G FUEL                                                                                                             
+Privacy policy – G FUEL                                                                                                       
 
 [Skip to content](#MainContent) 
 
@@ -200,7 +200,7 @@ View more
 * [Rewards](https://gfuel.com/pages/rewards)
 * [Flavor Quiz](https://gfuel.com/pages/flavor-quiz)
 
- [![Account Icon](//gfuel.com/cdn/shop/t/562/assets/fearfest-account-icon.png?v=76113951967063794631726499997) Log in](https://gfuel.com/account)[![Search Icon](//gfuel.com/cdn/shop/t/562/assets/fearfest-search-icon-black.png?v=145646052917047999211726499997) Search](https://gfuel.com/search) Site navigation [![Cart Icon](//gfuel.com/cdn/shop/t/562/assets/fearfest-cart-icon.png?v=118199243717223592911726499997) Cart](https://gfuel.com/cart)
+ [![Account Icon](//gfuel.com/cdn/shop/t/562/assets/fearfest-account-icon.png?v=50085873134992036791726595263) Log in](https://gfuel.com/account)[![Search Icon](//gfuel.com/cdn/shop/t/562/assets/fearfest-search-icon-black.png?v=145646052917047999211726499997) Search](https://gfuel.com/search)![Bloody Hamburger Menu Icon](//gfuel.com/cdn/shop/t/562/assets/bloody-hamburger-menu.png?v=100938276296294285901726583106) Site navigation [![Cart Icon](//gfuel.com/cdn/shop/t/562/assets/fearfest-cart-icon.png?v=54831520779337061261726595292) Cart](https://gfuel.com/cart)
 
   Search 
 
@@ -614,11 +614,11 @@ Rated 4.7 out of 5 stars
 
 2,874 Reviews
 
-4.3
+4.4
 
-Rated 4.3 out of 5 stars
+Rated 4.4 out of 5 stars
 
-35 Reviews
+37 Reviews
 
 4.7
 
@@ -642,19 +642,19 @@ Rated 4.7 out of 5 stars
 
 Rated 4.7 out of 5 stars
 
-2,051 Reviews
+2,052 Reviews
 
 4.5
 
 Rated 4.5 out of 5 stars
 
-38 Reviews
+39 Reviews
 
 4.4
 
 Rated 4.4 out of 5 stars
 
-1,756 Reviews
+1,758 Reviews
 
 4.7
 
@@ -666,4 +666,4 @@ Rated 4.7 out of 5 stars
 
 Rated 4.8 out of 5 stars
 
-1,872 Reviews
+1,873 Reviews
