@@ -2865,6 +2865,12 @@ Close panel
 1. [Home](https://sdbullion.com/ "Go to Home Page")
 2. chevron-right Returns & Refunds
 
+**Attention: sdbullion.com will undergo regular maintenance beginning at 12:15am EDT on Sept 17. The site will be unavailable during this time.**
+
+   Maintenance Notice
+
+Attention: sdbullion.com will undergo regular maintenance beginning at 12:15am EDT on Sept 17. The site will be unavailable during this time.
+
 Returns & Refunds
 =================
 
