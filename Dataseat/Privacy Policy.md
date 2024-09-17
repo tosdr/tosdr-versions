@@ -2,7 +2,7 @@
 
 [](#)
 
-[![Dataseat Mobile DSP](https://dataseat.com/wp-content/uploads/2024/06/dataseat-logo-1.png)![Dataseat Mobile DSP](https://dataseat.com/wp-content/uploads/2022/08/Dataseat-logo.png)![Dataseat Mobile DSP](https://dataseat.com/wp-content/uploads/2022/08/Dataseat-logo.png)](https://dataseat.com/)
+[![Dataseat Mobile DSP](https://dataseat.com/wp-content/uploads/2024/09/dataseat-logo-1.webp)![Dataseat Mobile DSP](https://dataseat.com/wp-content/uploads/2024/09/dataseat-logo-1.webp)![Dataseat Mobile DSP](https://dataseat.com/wp-content/uploads/2024/09/dataseat-logo-1.webp)](https://dataseat.com/)
 
 [](#sidewidgetarea)
 
