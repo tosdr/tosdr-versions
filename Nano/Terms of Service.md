@@ -17,6 +17,12 @@
 [#### News](https://nano.org/en/news)
 
 * [All](https://nano.org/en/news)
+* [Announcements](https://nano.org/en/news?category=announcements/1)
+* [Development](https://nano.org/en/news?category=development/4)
+* [Events](https://nano.org/en/news?category=events/2)
+* [Media](https://nano.org/en/news?category=media/5)
+* [Adoption](https://nano.org/en/news?category=adoption/38/-/3)
+* [Education](https://nano.org/en/news?category=education/6)
 
 [#### Hub](https://hub.nano.org/)
 
@@ -26,6 +32,14 @@
 * [Merchant Solutions](https://hub.nano.org/merchant-solutions)
 * [Trading](https://hub.nano.org/trading)
 * [Gaming](https://hub.nano.org/gaming)
+
+[#### Blog](https://nano.org/en/blog)
+
+[* All](https://nano.org/en/blog)* [Development](https://nano.org/en/blog/category/2/development)
+* [Community](https://nano.org/en/blog/category/4/community)
+* [Education](https://nano.org/en/blog/category/3/education)
+* [Nano Foundation](https://nano.org/en/blog/category/1/nano-foundation)
+* [Community Articles](https://nano.org/en/blog/category/5/community-articles)
 
 English
 
@@ -41,11 +55,15 @@ Learn More![Expand menu](/images/common/arrow-main-menu.svg)
 
 [News](https://nano.org/en/news)![Expand menu](/images/common/arrow-main-menu.svg)
 
-[* All](https://nano.org/en/news)
+[* All](https://nano.org/en/news)[* Announcements](https://nano.org/en/news?category=announcements/1)[* Development](https://nano.org/en/news?category=development/4)[* Events](https://nano.org/en/news?category=events/2)[* Media](https://nano.org/en/news?category=media/5)[* Adoption](https://nano.org/en/news?category=adoption/38/-/3)[* Education](https://nano.org/en/news?category=education/6)
 
 [Hub](https://hub.nano.org/)![Expand menu](/images/common/arrow-main-menu.svg)
 
 [* All](https://hub.nano.org/)[* Merchants](https://hub.nano.org/merchants)[* Wallets](https://hub.nano.org/wallets)[* Merchant Solutions](https://hub.nano.org/merchant-solutions)[* Trading](https://hub.nano.org/trading)[* Gaming](https://hub.nano.org/gaming)
+
+[Blog](https://nano.org/en/blog)![Expand menu](/images/common/arrow-main-menu.svg)
+
+[* All](https://nano.org/en/blog)[* Development](https://nano.org/en/blog/category/2/development)[* Community](https://nano.org/en/blog/category/4/community)[* Education](https://nano.org/en/blog/category/3/education)[* Nano Foundation](https://nano.org/en/blog/category/1/nano-foundation)[* Community Articles](https://nano.org/en/blog/category/5/community-articles)
 
 ![Switch locale](/images/common/globe.svg)
 
@@ -368,6 +386,12 @@ If you have any questions regarding this Policy, please contact us at [info@nano
 * [Connect With Us](https://nano.org/en/connect)
 
 [#### News](https://nano.org/en/blog)* [All](https://nano.org/en/news)
+* [Announcements](https://nano.org/en/news?category=announcements/1)
+* [Development](https://nano.org/en/news?category=development/4)
+* [Events](https://nano.org/en/news?category=events/2)
+* [Media](https://nano.org/en/news?category=media/5)
+* [Adoption](https://nano.org/en/news?category=adoption/38/-/3)
+* [Education](https://nano.org/en/news?category=education/6)
 
 [#### Hub](https://hub.nano.org/)
 
@@ -377,6 +401,15 @@ If you have any questions regarding this Policy, please contact us at [info@nano
 * [Merchant Solutions](https://hub.nano.org/merchant-solutions)
 * [Trading](https://hub.nano.org/trading)
 * [Gaming](https://hub.nano.org/gaming)
+
+[#### Blog](https://nano.org/en/blog)
+
+* [All](https://nano.org/en/blog)
+* [Development](https://nano.org/en/blog/category/2/development)
+* [Community](https://nano.org/en/blog/category/4/community)
+* [Education](https://nano.org/en/blog/category/3/education)
+* [Nano Foundation](https://nano.org/en/blog/category/1/nano-foundation)
+* [Community Articles](https://nano.org/en/blog/category/5/community-articles)
 
 Nano Foundation is not responsible for the content of external sites. See the external links section of our Terms of Use.
 
