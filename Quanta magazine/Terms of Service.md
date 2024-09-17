@@ -253,17 +253,17 @@ _By_ [Steve Nadis](https://www.quantamagazine.org/authors/nadis_steven)
 
 _By_ [Robin George Andrews](https://www.quantamagazine.org/authors/andrews_robin)
 
-[![Illustration of a gramophone with particles flying out of it.](https://www.quantamagazine.org/wp-content/uploads/2024/08/HiggsExplainer-crMicheleSclafani-Thumbnail.webp)](https://www.quantamagazine.org/how-the-higgs-field-actually-gives-mass-to-elementary-particles-20240903/)
-
-[#### How the Higgs Field (Actually) Gives Mass to Elementary Particles](https://www.quantamagazine.org/how-the-higgs-field-actually-gives-mass-to-elementary-particles-20240903/)
-
-_By_ [Matt Strassler](https://www.quantamagazine.org/authors/mattstrassler)
-
 [![Shapes forming an atom](https://www.quantamagazine.org/wp-content/uploads/2024/09/JoW-E17-Quantum-Thermodynamics-Peter-Greenwood-Thumbnail.jpg)](https://www.quantamagazine.org/can-thermodynamics-go-quantum-20240912/)
 
 [#### Can Thermodynamics Go Quantum?](https://www.quantamagazine.org/can-thermodynamics-go-quantum-20240912/)
 
 _By_ [Steven Strogatz](https://www.quantamagazine.org/authors/stevenstrogatz)
+
+[![Illustration of a gramophone with particles flying out of it.](https://www.quantamagazine.org/wp-content/uploads/2024/08/HiggsExplainer-crMicheleSclafani-Thumbnail.webp)](https://www.quantamagazine.org/how-the-higgs-field-actually-gives-mass-to-elementary-particles-20240903/)
+
+[#### How the Higgs Field (Actually) Gives Mass to Elementary Particles](https://www.quantamagazine.org/how-the-higgs-field-actually-gives-mass-to-elementary-particles-20240903/)
+
+_By_ [Matt Strassler](https://www.quantamagazine.org/authors/mattstrassler)
 
 The Quanta Newsletter
 
