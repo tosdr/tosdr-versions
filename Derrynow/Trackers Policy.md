@@ -302,13 +302,6 @@ IN PICTURES: Great day out at Quirky Corner Sustainable Fashion Fest
 [IN PICTURES: Great day out at Quirky Corner Sustainable Fashion Fest](https://www.derrynow.com/story-telling/pictures---videos/1606217/in-pictures-great-day-out-at-quirky-corner-sustainable-fashion-fest.html)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Derry Death Notices - Monday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Monday")](https://www.derrynow.com/news/deaths/1604422/derry-death-notices-monday-16th-september-2024.html)
-
-[Deaths](https://www.derrynow.com/section/977/deaths)
-
-[Derry Death Notices - Monday, 16th September 2024](https://www.derrynow.com/news/deaths/1604422/derry-death-notices-monday-16th-september-2024.html)
------------------------------------------------------------------------------------------------------------------------------------------------------
-
 [![IN PICTURES: Fantastic day for community in Derry with One World Festival](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Fantastic day for community in Derry with One World Festival")](https://www.derrynow.com/story-telling/pictures---videos/1606239/in-pictures-fantastic-day-for-community-in-derry-with-one-world-festival.html)
 
 IN PICTURES: Fantastic day for community in Derry with One World Festival
@@ -338,6 +331,15 @@ IN PICTURES: Fantastic day for community in Derry with One World Festival
 
 [Brother of murdered Co Derry farmer puts up £100,000 reward for information that leads to arrest and conviction of killer](https://www.derrynow.com/news/home/1606526/brother-of-murdered-co-derry-farmer-puts-up-100-000-reward-for-information-that-leads-to-arrest-and-conviction-of-killer.html)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Causeway Coast and Glens City Deal pause a 'kick in teeth' - East Derry MLA says](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Causeway Coast and Glens City Deal pause a 'kick in teeth' - East Derry MLA says")](https://www.derrynow.com/news/local-news/1606368/causeway-coast-and-glens-city-deal-pause-a-kick-in-teeth-east-derry-mla-says.html)
+
+East Derry MLA Cara Hunter
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Causeway Coast and Glens City Deal pause a 'kick in teeth' - East Derry MLA says](https://www.derrynow.com/news/local-news/1606368/causeway-coast-and-glens-city-deal-pause-a-kick-in-teeth-east-derry-mla-says.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
@@ -523,14 +525,30 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
-[![Finance minister blasts Government’s ‘deplorable’ handling of city deals funding](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Finance minister blasts Government’s ‘deplorable’ handling of city deals funding")](https://www.derrynow.com/news/local-news/1606536/finance-minister-blasts-governments-deplorable-handling-of-city-deals-funding.html)
+[![PSNI appeal for information following early morning attack on house in Dungiven](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PSNI appeal for information following early morning attack on house in Dungiven")](https://www.derrynow.com/news/home/1606786/psni-appeal-for-information-following-early-morning-attack-on-house-in-dungiven.html)
+
+The PSNI are investigating the attack.
+
+[Home](https://www.derrynow.com/)
+
+[PSNI appeal for information following early morning attack on house in Dungiven](https://www.derrynow.com/news/home/1606786/psni-appeal-for-information-following-early-morning-attack-on-house-in-dungiven.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Derry Death Notices - Tuesday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Tuesday")](https://www.derrynow.com/news/deaths/1606560/derry-death-notices-tuesday-17th-september-2024.html)
+
+[Deaths](https://www.derrynow.com/section/977/deaths)
+
+[Derry Death Notices - Tuesday, 17th September 2024](https://www.derrynow.com/news/deaths/1606560/derry-death-notices-tuesday-17th-september-2024.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Finance minister blasts Government’s ‘deplorable’ handling of city deals funding](https://www.derrynow.com/resizer/165/93/true/pa/2024_09_16/1726503909807_0.jpg--.jpg?1726503909981 "Finance minister blasts Government’s ‘deplorable’ handling of city deals funding")](https://www.derrynow.com/news/local-news/1606536/finance-minister-blasts-governments-deplorable-handling-of-city-deals-funding.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
 
 [Finance minister blasts Government’s ‘deplorable’ handling of city deals funding](https://www.derrynow.com/news/local-news/1606536/finance-minister-blasts-governments-deplorable-handling-of-city-deals-funding.html)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Foul smelling and tasting water is safe to drink – O’Dowd](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Foul smelling and tasting water is safe to drink – O’Dowd")](https://www.derrynow.com/news/local-news/1606534/foul-smelling-and-tasting-water-is-safe-to-drink-odowd.html)
+[![Foul smelling and tasting water is safe to drink – O’Dowd](https://www.derrynow.com/resizer/165/93/true/pa/2024_09_16/1726502716170_0_1726504061.jpg--.jpg?1726504062029 "Foul smelling and tasting water is safe to drink – O’Dowd")](https://www.derrynow.com/news/local-news/1606534/foul-smelling-and-tasting-water-is-safe-to-drink-odowd.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
 
@@ -550,22 +568,6 @@ Advertise with Us
 
 [Legacy Act court ruling ‘could have implications for protection of human rights’](https://www.derrynow.com/news/local-news/1606369/legacy-act-court-ruling-could-have-implications-for-protection-of-human-rights.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Causeway Coast and Glens City Deal pause a 'kick in teeth' - East Derry MLA says](https://www.derrynow.com/resizer/165/93/true/1573062300942.jpg--.jpg?1573062301139 "Causeway Coast and Glens City Deal pause a 'kick in teeth' - East Derry MLA says")](https://www.derrynow.com/news/local-news/1606368/causeway-coast-and-glens-city-deal-pause-a-kick-in-teeth-east-derry-mla-says.html)
-
-East Derry MLA Cara Hunter
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Causeway Coast and Glens City Deal pause a 'kick in teeth' - East Derry MLA says](https://www.derrynow.com/news/local-news/1606368/causeway-coast-and-glens-city-deal-pause-a-kick-in-teeth-east-derry-mla-says.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![ICRIR has the necessary teeth to probe Sean Brown murder – Benn](https://www.derrynow.com/resizer/165/93/true/2022_05_12/SEAN_BROWN-1652369570949_1726504687.jpeg--.jpeg?1726504687654 "ICRIR has the necessary teeth to probe Sean Brown murder – Benn")](https://www.derrynow.com/news/local-news/1606557/icrir-has-the-necessary-teeth-to-probe-sean-brown-murder-benn.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[ICRIR has the necessary teeth to probe Sean Brown murder – Benn](https://www.derrynow.com/news/local-news/1606557/icrir-has-the-necessary-teeth-to-probe-sean-brown-murder-benn.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
