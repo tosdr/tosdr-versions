@@ -250,7 +250,7 @@ false
 
 https://www.hp.com/cma/ng/lib/exceptions/privacy-banner.js
 
-https://www8.hp.com
+https://www.hp.com
 
 https://tracking-na.hawksearch.com/api/trackevent
 
@@ -585,7 +585,7 @@ Document Part No: 832555-001
 
 [Related links](javascript:void(0))
 
-[Laptop Care Packs | Warranty & Insurance](https://www.hp.com/us-en/shop/vwa/laptop-carepacks) [How to Factory Reset Your Windows...](https://www.hp.com/us-en/shop/tech-takes/how-to-factory-reset-windows-laptop) [How to Reset BIOS Settings on...](https://www.hp.com/us-en/shop/tech-takes/how-to-reset-bios-settings-on-windows-pcs) [HP Consumer Tech Support & Hardware](https://www.hp.com/us-en/services/consumer/services-overview.html) [HP+ Smart Printing System](https://www.hp.com/us-en/printers/hp-plus.html) [HP Care Pack - PC Repair, Extended Warranty & Support](https://www.hp.com/us-en/services/consumer/carepack-pc.html) [HP Wolf Security - Endpoint Security Solutions](https://www.hp.com/us-en/security/endpoint-security-solutions.html) [HP Care Pack - Printer Repair, Extended Warranty & Support](https://www.hp.com/us-en/services/consumer/carepack-print.html) [HP Fraud Alert: Protecting Yourself from Scams](https://www.hp.com/us-en/hpfraud-alert.html) [HP Computer Support Services - Commerical PC Support](https://www.hp.com/us-en/services/workforce-solutions/workforce-computing/support.html)
+[HP.com](https://www.hp.com/us-en/home.html) [HP Consumer Tech Support & Hardware](https://www.hp.com/us-en/services/consumer/services-overview.html) [HP+ Smart Printing System](https://www.hp.com/us-en/printers/hp-plus.html) [HP Care Pack - PC Repair, Extended Warranty & Support](https://www.hp.com/us-en/services/consumer/carepack-pc.html) [HP Wolf Security - Endpoint Security Solutions](https://www.hp.com/us-en/security/endpoint-security-solutions.html) [HP Care Pack - Printer Repair, Extended Warranty & Support](https://www.hp.com/us-en/services/consumer/carepack-print.html) [HP Fraud Alert: Protecting Yourself from Scams](https://www.hp.com/us-en/hpfraud-alert.html) [HP ZBook Power Mobile Workstation...](https://www.hp.com/us-en/shop/mdp/hp-zbook-15v-mobile-workstation-3074457345617298671--1#!&tab=vao) [HP Computer Support Services - Commerical PC Support](https://www.hp.com/us-en/services/workforce-solutions/workforce-computing/support.html) [HP EliteBook 860](https://www.hp.com/us-en/shop/pdp/hp-elitebook-860-g10-notebook-pc-customizable-6v8u8av-mb#!)
 
 Select Your Country/Region and Language
 ---------------------------------------
