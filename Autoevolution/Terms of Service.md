@@ -39,9 +39,9 @@ editorial \_
 
 coverstory \_
 
-[![2024 Dodge Charger Daytona Will Soon Drag Race Everybody in America, Comes Bearing Gifts](https://s1.cdn.autoevolution.com/images/news/2024-dodge-charger-daytona-will-soon-drag-race-everybody-in-america-comes-bearing-gifts-239882-5.jpg "2024 Dodge Charger Daytona Will Soon Drag Race Everybody in America, Comes Bearing Gifts")
+[![French Retro-Style Tiny House Reveals the Coziest Interior for Two](https://s1.cdn.autoevolution.com/images/news/french-retro-style-tiny-house-reveals-the-coziest-interior-for-two-239912-5.jpg "French Retro-Style Tiny House Reveals the Coziest Interior for Two")
 
-2024 Dodge Charger Daytona Will Soon Drag Race Everybody in America, Comes Bearing Gifts](https://www.autoevolution.com/news/2024-dodge-charger-daytona-will-soon-drag-race-everybody-in-america-comes-bearing-gifts-239882.html)
+French Retro-Style Tiny House Reveals the Coziest Interior for Two](https://www.autoevolution.com/news/french-retro-style-tiny-house-reveals-the-coziest-interior-for-two-239912.html)
 
 how-to \_
 
