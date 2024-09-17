@@ -240,21 +240,15 @@ Questions, comments and requests regarding this Privacy Policy are welcomed and 
   
 Please check back frequently to see any updates or changes to our privacy policy.
 
-#### Want to contribute ?
+### Priority Support
 
   
 
-[Submit your Article](https://www.dynu.com/Support/ContactUs)  
-  
+#### Priority Support is staffed with experienced technicians and is an immediate, hands on approach to solving your unique problems.
 
   
 
-[Suggest an Update](https://www.dynu.com/Support/ContactUs)  
-  
-
-  
-
-[Request an Article](https://www.dynu.com/Support/ContactUs)  
+[Get Priority Support](https://www.dynu.com/Membership)  
   
 
 ### News
