@@ -43,7 +43,7 @@ We Champion Freedom & Self-Reliance
         
         ###### 3-Month Emergency Survival Food Kit
         
-        3285 reviews](https://4patriots.com/products/3-month-survival-food-kit)
+        3286 reviews](https://4patriots.com/products/3-month-survival-food-kit)
         
     
 * [New Arrivals](https://4patriots.com/collections/newly-added)
@@ -101,7 +101,7 @@ We Champion Freedom & Self-Reliance
         
         ###### 3-Month Emergency Survival Food Kit
         
-        3285 reviews](https://4patriots.com/products/3-month-survival-food-kit)
+        3286 reviews](https://4patriots.com/products/3-month-survival-food-kit)
         
         [![ 4Patriots 4-Week Survival Food Kits individual pouches. 196 servings.](//4patriots.com/cdn/shop/products/4WK-ARRAY-192-SERVINGS-WHITE_360x.png?v=1680541659)
         
@@ -255,7 +255,7 @@ We Champion Freedom & Self-Reliance
         
         ###### 72-Hour Emergency Survival Food Kit
         
-        2246 reviews](https://4patriots.com/products/72-hour-survival-food-kit)
+        2247 reviews](https://4patriots.com/products/72-hour-survival-food-kit)
         
         [![ Food & Fire Emergency Cooking Bundle](//4patriots.com/cdn/shop/files/FOOD-FIRE-BUNDLE-PDP-ARRAY-2000x2000_64a9088f-0bdd-49ae-9e3a-222825d212e7_360x.jpg?v=1714588231)
         
