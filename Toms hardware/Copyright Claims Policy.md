@@ -100,7 +100,7 @@
 
 * TRENDING:
 * [Core Ultra 200V](https://hothardware.com/news/lunar-lake-launch-ifa-berlin)
-* [Snapdragon X Plus 8 Core](https://hothardware.com/news/snapdragon-8core-hands-on)
+* [PS5 Pro](https://hothardware.com/tags/ps5%20pro)
 * [AMD Ryzen AI 300](https://hothardware.com/reviews/asus-zenbook-s16-with-amd-ryzen-ai-review)
 * [ASUS ROG Ally X](https://hothardware.com/reviews/asus-rog-ally-x-review)
 * [Google Pixel 9](https://hothardware.com/news/google-unveils-pixel-9-pixel-watch-3-pixel-buds-2-pro)
