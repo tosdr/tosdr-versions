@@ -41,7 +41,7 @@
         * [Organize teams](https://www.teamup.com/organize-teams/)
         * [Schedule work](https://www.teamup.com/schedule-work/)
         * [Manage availability](https://www.teamup.com/manage-availability/)
-        * [Share events](https://blog.teamup.com/category/events/)
+        * [Share events](https://www.teamup.com/share-events/)
 * [Resources](#)
     * [EXPLORE](#)
         * [Embedded calendars](https://www.teamup.com/embedded-calendars-live/)
