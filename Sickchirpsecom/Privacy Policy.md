@@ -131,37 +131,49 @@ SEND
 
 #### Featured POSts
 
+[![](https://www.sickchirpse.com/wp-content/uploads/2024/09/janes-addiction-singer-apology.webp)](https://www.sickchirpse.com/lead-singer-of-janes-addiction-finally-apologises-after-sucker-punching-guitarist-mid-song/)
+
+### [Lead Singer Of Jane’s Addiction Finally Apologises After Sucker Punching Guitarist Mid-Song](https://www.sickchirpse.com/lead-singer-of-janes-addiction-finally-apologises-after-sucker-punching-guitarist-mid-song/)
+
+[Read More »](https://www.sickchirpse.com/lead-singer-of-janes-addiction-finally-apologises-after-sucker-punching-guitarist-mid-song/)
+
+[![](https://www.sickchirpse.com/wp-content/uploads/2024/09/carol-vorderman-jordan-peterson.jpg)](https://www.sickchirpse.com/carol-vorderman-shuts-down-lbc-caller-when-he-tries-to-quote-jordan-peterson-during-live-call-in/)
+
+### [Carol Vorderman Shuts Down LBC Caller When He Tries To Quote Jordan Peterson During Live Call-In](https://www.sickchirpse.com/carol-vorderman-shuts-down-lbc-caller-when-he-tries-to-quote-jordan-peterson-during-live-call-in/)
+
+[Read More »](https://www.sickchirpse.com/carol-vorderman-shuts-down-lbc-caller-when-he-tries-to-quote-jordan-peterson-during-live-call-in/)
+
+[![](https://www.sickchirpse.com/wp-content/uploads/2024/09/bear-cave-serbian-influencer.webp)](https://www.sickchirpse.com/unreal-footage-of-influencer-getting-trapped-in-a-bear-cave-just-as-bear-returns-home/)
+
+### [Unreal Footage Of Influencer Getting Trapped In A Bear Cave Just As Bear Returns Home](https://www.sickchirpse.com/unreal-footage-of-influencer-getting-trapped-in-a-bear-cave-just-as-bear-returns-home/)
+
+[Read More »](https://www.sickchirpse.com/unreal-footage-of-influencer-getting-trapped-in-a-bear-cave-just-as-bear-returns-home/)
+
+[![](https://www.sickchirpse.com/wp-content/uploads/2024/09/ptsd-brexit.jpg)](https://www.sickchirpse.com/i-was-diagnosed-with-ptsd-over-brexit-lib-dem-councillor-says/)
+
+### [‘I Was Diagnosed With PTSD Over Brexit’, Lib Dem Councillor Says](https://www.sickchirpse.com/i-was-diagnosed-with-ptsd-over-brexit-lib-dem-councillor-says/)
+
+[Read More »](https://www.sickchirpse.com/i-was-diagnosed-with-ptsd-over-brexit-lib-dem-councillor-says/)
+
 [![](https://www.sickchirpse.com/wp-content/uploads/2024/09/tate-mcrae.png)](https://www.sickchirpse.com/new-nsfw-music-video-by-pop-sensation-tate-mcrae-is-bringing-pop-back-to-the-2000s/)
 
 ### [New NSFW Music Video By Pop Sensation Tate McRae Is ‘Bringing Pop Back To The 2000s’](https://www.sickchirpse.com/new-nsfw-music-video-by-pop-sensation-tate-mcrae-is-bringing-pop-back-to-the-2000s/)
 
 [Read More »](https://www.sickchirpse.com/new-nsfw-music-video-by-pop-sensation-tate-mcrae-is-bringing-pop-back-to-the-2000s/)
 
-[![](https://www.sickchirpse.com/wp-content/uploads/2024/09/shakira.jpg)](https://www.sickchirpse.com/shakira-leaves-the-stage-after-people-were-filming-under-he-dress-as-she-danced-to-new-single/)
-
-### [Shakira Leaves The Stage After People Were Filming Under Her Dress As She Danced To New Single](https://www.sickchirpse.com/shakira-leaves-the-stage-after-people-were-filming-under-he-dress-as-she-danced-to-new-single/)
-
-[Read More »](https://www.sickchirpse.com/shakira-leaves-the-stage-after-people-were-filming-under-he-dress-as-she-danced-to-new-single/)
-
-[![](https://www.sickchirpse.com/wp-content/uploads/2024/09/corbyn-collective.webp)](https://www.sickchirpse.com/jeremy-corbyn-is-forming-a-new-left-wing-party-known-as-the-collective/)
-
-### [Jeremy Corbyn Is Forming A New Left-Wing Party Known As The ‘Collective’](https://www.sickchirpse.com/jeremy-corbyn-is-forming-a-new-left-wing-party-known-as-the-collective/)
-
-[Read More »](https://www.sickchirpse.com/jeremy-corbyn-is-forming-a-new-left-wing-party-known-as-the-collective/)
-
-[![](https://www.sickchirpse.com/wp-content/uploads/2024/09/janes-addiction-navarro.webp)](https://www.sickchirpse.com/janes-addiction-singer-perry-farrell-sucker-punches-guitarist-dave-navarro-as-reunion-gig-ends-in-chaos/)
-
-### [Jane’s Addiction Singer Perry Farrell Sucker Punches Guitarist Dave Navarro As Reunion Gig Ends In Chaos](https://www.sickchirpse.com/janes-addiction-singer-perry-farrell-sucker-punches-guitarist-dave-navarro-as-reunion-gig-ends-in-chaos/)
-
-[Read More »](https://www.sickchirpse.com/janes-addiction-singer-perry-farrell-sucker-punches-guitarist-dave-navarro-as-reunion-gig-ends-in-chaos/)
-
-[![](https://www.sickchirpse.com/wp-content/uploads/2024/09/36.jpg)](https://www.sickchirpse.com/worlds-most-monstrous-bodybuilder-known-as-the-mutant-dies-aged-36/)
-
-### [‘World’s Most Monstrous Bodybuilder’ Known As The Mutant Dies Aged 36](https://www.sickchirpse.com/worlds-most-monstrous-bodybuilder-known-as-the-mutant-dies-aged-36/)
-
-[Read More »](https://www.sickchirpse.com/worlds-most-monstrous-bodybuilder-known-as-the-mutant-dies-aged-36/)
-
 #### trending post
+
+[![](https://www.sickchirpse.com/wp-content/uploads/2024/09/janes-addiction-singer-apology.webp)](https://www.sickchirpse.com/lead-singer-of-janes-addiction-finally-apologises-after-sucker-punching-guitarist-mid-song/)
+
+### [Lead Singer Of Jane’s Addiction Finally Apologises After Sucker Punching Guitarist Mid-Song](https://www.sickchirpse.com/lead-singer-of-janes-addiction-finally-apologises-after-sucker-punching-guitarist-mid-song/)
+
+[Read More »](https://www.sickchirpse.com/lead-singer-of-janes-addiction-finally-apologises-after-sucker-punching-guitarist-mid-song/)
+
+[![](https://www.sickchirpse.com/wp-content/uploads/2024/09/ptsd-brexit.jpg)](https://www.sickchirpse.com/i-was-diagnosed-with-ptsd-over-brexit-lib-dem-councillor-says/)
+
+### [‘I Was Diagnosed With PTSD Over Brexit’, Lib Dem Councillor Says](https://www.sickchirpse.com/i-was-diagnosed-with-ptsd-over-brexit-lib-dem-councillor-says/)
+
+[Read More »](https://www.sickchirpse.com/i-was-diagnosed-with-ptsd-over-brexit-lib-dem-councillor-says/)
 
 [![](https://www.sickchirpse.com/wp-content/uploads/2024/09/corbyn-collective.webp)](https://www.sickchirpse.com/jeremy-corbyn-is-forming-a-new-left-wing-party-known-as-the-collective/)
 
@@ -180,18 +192,6 @@ SEND
 ### [Lottie Moss Had A Seizure After Overdosing On Ozempic For Weight Loss](https://www.sickchirpse.com/lottie-moss-had-a-seizure-after-overdosing-on-ozempic-for-weight-loss/)
 
 [Read More »](https://www.sickchirpse.com/lottie-moss-had-a-seizure-after-overdosing-on-ozempic-for-weight-loss/)
-
-[![](https://www.sickchirpse.com/wp-content/uploads/2024/09/saka.jpg)](https://www.sickchirpse.com/law-student-20-facing-jail-after-aiming-racial-slur-at-bukayo-saka-in-audio-message-on-social-media/)
-
-### [Law Student, 20, ‘Facing Jail After Aiming Racial Slur At Bukayo Saka In Audio Message On Social Media’](https://www.sickchirpse.com/law-student-20-facing-jail-after-aiming-racial-slur-at-bukayo-saka-in-audio-message-on-social-media/)
-
-[Read More »](https://www.sickchirpse.com/law-student-20-facing-jail-after-aiming-racial-slur-at-bukayo-saka-in-audio-message-on-social-media/)
-
-[![](https://www.sickchirpse.com/wp-content/uploads/2024/09/pharrell.jpg)](https://www.sickchirpse.com/a-peta-protester-tried-to-cause-a-scene-at-pharrells-movie-premiere-and-he-handled-it-like-an-absolute-pro/)
-
-### [A PETA Protester Tried To Cause A Scene At Pharrell’s Movie Premiere And He Handled It Like An Absolute Pro](https://www.sickchirpse.com/a-peta-protester-tried-to-cause-a-scene-at-pharrells-movie-premiere-and-he-handled-it-like-an-absolute-pro/)
-
-[Read More »](https://www.sickchirpse.com/a-peta-protester-tried-to-cause-a-scene-at-pharrells-movie-premiere-and-he-handled-it-like-an-absolute-pro/)
 
 Copyright 2023 © All rights Reserved.
 
