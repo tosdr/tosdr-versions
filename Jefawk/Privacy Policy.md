@@ -591,7 +591,7 @@ Last edited on 2024.Sep.11
 
 ### Some links 👀
 
-[Contact](https://jefawk.com/contact/index.html)[Contributors & Tools](https://jefawk.com/contributors-and-tools.html)[Frostnight Illustrations](https://frostnightillustrations.com/)[Haranutarie](https://haranutarie.com/)[Links Page](https://jefawk.com/links.html)
+[💬 Contact](https://jefawk.com/contact/index.html)[🥰 About us](https://jefawk.com/about-us.html)[👩‍🎨 Frostnight Illustrations](https://frostnightillustrations.com/)[📔 Haranutarie](https://haranutarie.com/)[🤗 Contributors & Tools](https://jefawk.com/contributors-and-tools.html)[🔗 Links Page](https://jefawk.com/links.html)
 
 ### More links 😱
 
@@ -599,7 +599,7 @@ Last edited on 2024.Sep.11
 
 ### Legal ⚖
 
-[About The Company](https://jefawk.com/legal/about-the-company.html)[Cancellation, Returns, and Withdrawals Policy](https://jefawk.com/legal/cancellation-policy.html)[EU Online Dispute Resolution](https://ec.europa.eu/consumers/odr/)[GDPR, Privacy policy, Terms and conditions](https://jefawk.com/privacy-policy.html)[Disclaimers](https://jefawk.com/legal/disclaimers.html)
+[💼 About The Company](https://jefawk.com/legal/about-the-company.html)[🚢 Shipping](https://jefawk.com/legal/shipping-policy.html)[🙅‍♀️ Cancellation, Returns, and Withdrawals Policy](https://jefawk.com/legal/cancellation-policy.html)[💢 EU Online Dispute Resolution](https://ec.europa.eu/consumers/odr/)[👁 GDPR, Privacy policy, Terms and conditions](https://jefawk.com/privacy-policy.html)[♻ Eco Policy and Recycling Information](https://jefawk.com/legal/eco-policy.html)[🧐 Disclaimers](https://jefawk.com/legal/disclaimers.html)
 
 ### Talk to us here 💬🗨
 
