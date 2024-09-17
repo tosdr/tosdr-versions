@@ -231,7 +231,7 @@ Voir plus Voir moins
 
 _**Qui est éligible à l’octroi de la compensation légale ?**_
 
-* Les clients ayant souscrit à un produit fixe (TV en pack, Internet ou téléphonie fixe) destiné aux consommateurs en cas d'interruption du service dans la zone où se trouve leur adresse d'installation ;
+* Les clients ayant souscrit à un produit Internet ou téléphonie fixe destiné aux consommateurs en cas d'interruption du service dans la zone où se trouve leur adresse d'installation ;
 * Les clients ayant souscrit à un abonnement mobile destiné aux consommateurs en cas d'interruption dans la zone où se trouve leur adresse de facturation ;
 * Les utilisateurs de cartes prépayées destinées aux consommateurs en cas d'interruption dans la zone où se trouve leur domicile.
 
