@@ -56,11 +56,6 @@ Search term
         * [Focus Topics](https://www.bertelsmann.com/corporate-responsibility/strategy/focus-topics/)
     * [Engagement](https://www.bertelsmann.com/corporate-responsibility/projects-worldwide/)
     * [Reporting](https://www.bertelsmann.com/corporate-responsibility/reporting/)
-        * [Chairman's Foreword](https://www.bertelsmann.com/corporate-responsibility/reporting/foreword/)
-        * [GRI 102 General Disclosures](https://www.bertelsmann.com/corporate-responsibility/reporting/gri-102-general-disclosures/)
-        * [GRI 200 Economic](https://www.bertelsmann.com/corporate-responsibility/reporting/gri-200-economic/)
-        * [GRI 300 Environmental](https://www.bertelsmann.com/corporate-responsibility/reporting/gri-300-environmental/)
-        * [GRI 400 Social](https://www.bertelsmann.com/corporate-responsibility/reporting/gri-400-social/)
 * [News & Media](https://www.bertelsmann.com/news-and-media/)
     * [News](https://www.bertelsmann.com/news-and-media/news/)
     * [Specials](https://www.bertelsmann.com/news-and-media/specials/)
@@ -499,6 +494,6 @@ Fax: +49 (0) 5241-80-62321
 
 © Bertelsmann SE & Co KGaA
 
-web-bertelsmann-i-0ff47a2f16a36621e
+web-bertelsmann-i-01ee505d8e3662a5d
 
 ![](/media/layout/images/icons/icon-mail.png)![](/media/layout/images/icons/icon-twitter.png)![](/media/layout/images/icons/icon-linkedin.png) ![](/media/layout/images/icons/icon-google-plus.png)![](/media/layout/images/icons/icon-xing.png)![](/media/layout/images/icons/icon-facebook.png) ![](/media/layout/images/icons/icon-youtube.png)
