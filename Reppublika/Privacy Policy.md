@@ -143,7 +143,7 @@ As of the 25th of May 2018, the responsible authority for any complaints regardi
 
 ​
 
-![ReppublikaLogoWhite.png](https://static.wixstatic.com/media/c61bc3_9f69bd3f98da4b3f93cddf8879930c99~mv2.png/v1/fill/w_312,h_60,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/ReppublikaLogoWhite.png)
+![ReppublikaLogoWhite.png](https://static.wixstatic.com/media/c61bc3_9f69bd3f98da4b3f93cddf8879930c99~mv2.png/v1/fill/w_77,h_15,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_auto/ReppublikaLogoWhite.png)
 
 ###### COMPANY
 
@@ -171,7 +171,7 @@ Reppublika Data Analytics & Technologies GmbH
 
 [\[email protected\]](https://www.reppublika.com/cdn-cgi/l/email-protection) 
 
-[![IAB_Austria.png](https://static.wixstatic.com/media/c61bc3_f85ade8b36554c7bbd10f68db48350c8~mv2.png/v1/fill/w_99,h_75,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/IAB_Austria.png)](https://www.bvdw.org/)
+[![IAB_Austria.png](https://static.wixstatic.com/media/c61bc3_f85ade8b36554c7bbd10f68db48350c8~mv2.png/v1/fill/w_99,h_75,al_c,q_85,usm_0.66_1.00_0.01,blur_3,enc_auto/IAB_Austria.png)](https://www.bvdw.org/)
 
 [](https://www.bvdw.org/)
 
