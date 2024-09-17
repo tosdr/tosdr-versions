@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/nieuws/ook-ufo-bij-obamas-tweede-inauguratie/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/gezondheid/ziekten-en-vaccins-nader-bekeken/ "Feeling Lucky? »")
 
 Algemene voorwaarden WantToKnow aanbiedingen
 ============================================
