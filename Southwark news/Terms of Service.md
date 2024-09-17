@@ -19,6 +19,18 @@
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![JD Wetherspoon has applied for a license at 50 Tooley Street. Image: Google](https://southwarknews.co.uk/wp-content/uploads/2024/09/JD-Wetherspoon-has-applied-for-a-license-at-50-Tooley-Street.-Image-Google-360x180.png)](https://southwarknews.co.uk/area/borough/wetherspoons-to-open-pub-in-former-london-dungeon/)
+    
+    ### [Wetherspoons to open pub in former London Dungeon](https://southwarknews.co.uk/area/borough/wetherspoons-to-open-pub-in-former-london-dungeon/)
+    
+    [![Left to right: Judith Butler, Nazanin Zagharri-Ratcliffe, Robert Popper](https://southwarknews.co.uk/wp-content/uploads/2024/09/Left-to-right-Judith-Butler-Nazanin-Zagharri-Ratcliffe-Robert-Popper-360x180.png)](https://southwarknews.co.uk/area/south-bank/southbank-centre-announces-winter-literature-season-line-up/)
+    
+    ### [Southbank Centre announces Winter Literature Season line-up](https://southwarknews.co.uk/area/south-bank/southbank-centre-announces-winter-literature-season-line-up/)
+    
+    [![The Stoney Street entrance to Borough Market. Credit: Southwark Liberal Democrats](https://southwarknews.co.uk/wp-content/uploads/2024/09/PXL_20240903_141010252.MP_-e1726565110180-360x180.jpeg)](https://southwarknews.co.uk/area/borough/1-million-anti-terrorism-barriers-for-borough-market-ditched-in-big-win-for-traders/)
+    
+    ### [£1 million anti-terrorism barriers for Borough Market ditched in ‘big win’ for traders](https://southwarknews.co.uk/area/borough/1-million-anti-terrorism-barriers-for-borough-market-ditched-in-big-win-for-traders/)
+    
     [![Southwark Council HQ on Tooley Street. Photo from Google Street View](https://southwarknews.co.uk/wp-content/uploads/2024/06/Southwark-Council-HQ-on-Tooley-Street.-Photo-from-Google-Street-View-1-360x180.jpg)](https://southwarknews.co.uk/area/southwark/unexpected-success-of-southwark-councils-green-investment-scheme-sees-new-funding-round-launched/)
     
     ### [Unexpected success of Southwark Council’s green investment scheme sees new funding round launched](https://southwarknews.co.uk/area/southwark/unexpected-success-of-southwark-councils-green-investment-scheme-sees-new-funding-round-launched/)
@@ -43,20 +55,6 @@
     [![Police would like to speak to the man pictured in connection with the incident. Image: British Transport Police](https://southwarknews.co.uk/wp-content/uploads/2024/09/Police-would-like-to-speak-to-the-man-pictured-in-connection-with-the-incident.-Image-British-Transport-Police-360x180.png)](https://southwarknews.co.uk/area/borough/police-investigating-masturbator-on-london-bridge-train/)
     
     ### [Police investigating ‘masturbator’ on London Bridge train](https://southwarknews.co.uk/area/borough/police-investigating-masturbator-on-london-bridge-train/)
-    
-    [![](https://southwarknews.co.uk/wp-content/uploads/2024/09/Mike-Victoria-sign-360x180.jpg)](https://southwarknews.co.uk/area/bermondsey/the-vics-mike-mckenna-a-big-bermondsey-character-whose-life-was-framed-around-promoting-the-good-work-of-others/)
-    
-    ### [The Vic’s Mike McKenna – a big Bermondsey character whose life was framed around promoting the good work of others](https://southwarknews.co.uk/area/bermondsey/the-vics-mike-mckenna-a-big-bermondsey-character-whose-life-was-framed-around-promoting-the-good-work-of-others/)
-    
-    [![Joel Victorious 
-    Photo from the Met](https://southwarknews.co.uk/wp-content/uploads/2024/09/JOELVICTORIOUS-jpeg-360x180.avif)](https://southwarknews.co.uk/area/southwark/man-who-hammer-attacked-woman-leaving-her-with-brain-damage-receives-life-sentence/)
-    
-    ### [Man who hammer-attacked woman leaving her with brain damage receives life sentence](https://southwarknews.co.uk/area/southwark/man-who-hammer-attacked-woman-leaving-her-with-brain-damage-receives-life-sentence/)
-    
-    [![Christine Rixon, 75, and Paul Rixon, 76, shown on Bromley High Street.
-    Photo by  Joe Coughlan.](https://southwarknews.co.uk/wp-content/uploads/2024/09/Christine-and-Paul-Rixon-360x180.jpg)](https://southwarknews.co.uk/area/south-london/pensioners-in-south-london-disgusted-by-governments-cut-to-winter-fuel-payments/)
-    
-    ### [Pensioners in South London ‘disgusted’ by Government’s cut to Winter Fuel Payments](https://southwarknews.co.uk/area/south-london/pensioners-in-south-london-disgusted-by-governments-cut-to-winter-fuel-payments/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [In depth history](https://southwarknews.co.uk/category/history/in-depth-history/)
@@ -102,6 +100,18 @@ View All Result
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![JD Wetherspoon has applied for a license at 50 Tooley Street. Image: Google](https://southwarknews.co.uk/wp-content/uploads/2024/09/JD-Wetherspoon-has-applied-for-a-license-at-50-Tooley-Street.-Image-Google-360x180.png)](https://southwarknews.co.uk/area/borough/wetherspoons-to-open-pub-in-former-london-dungeon/)
+    
+    ### [Wetherspoons to open pub in former London Dungeon](https://southwarknews.co.uk/area/borough/wetherspoons-to-open-pub-in-former-london-dungeon/)
+    
+    [![Left to right: Judith Butler, Nazanin Zagharri-Ratcliffe, Robert Popper](https://southwarknews.co.uk/wp-content/uploads/2024/09/Left-to-right-Judith-Butler-Nazanin-Zagharri-Ratcliffe-Robert-Popper-360x180.png)](https://southwarknews.co.uk/area/south-bank/southbank-centre-announces-winter-literature-season-line-up/)
+    
+    ### [Southbank Centre announces Winter Literature Season line-up](https://southwarknews.co.uk/area/south-bank/southbank-centre-announces-winter-literature-season-line-up/)
+    
+    [![The Stoney Street entrance to Borough Market. Credit: Southwark Liberal Democrats](https://southwarknews.co.uk/wp-content/uploads/2024/09/PXL_20240903_141010252.MP_-e1726565110180-360x180.jpeg)](https://southwarknews.co.uk/area/borough/1-million-anti-terrorism-barriers-for-borough-market-ditched-in-big-win-for-traders/)
+    
+    ### [£1 million anti-terrorism barriers for Borough Market ditched in ‘big win’ for traders](https://southwarknews.co.uk/area/borough/1-million-anti-terrorism-barriers-for-borough-market-ditched-in-big-win-for-traders/)
+    
     [![Southwark Council HQ on Tooley Street. Photo from Google Street View](https://southwarknews.co.uk/wp-content/uploads/2024/06/Southwark-Council-HQ-on-Tooley-Street.-Photo-from-Google-Street-View-1-360x180.jpg)](https://southwarknews.co.uk/area/southwark/unexpected-success-of-southwark-councils-green-investment-scheme-sees-new-funding-round-launched/)
     
     ### [Unexpected success of Southwark Council’s green investment scheme sees new funding round launched](https://southwarknews.co.uk/area/southwark/unexpected-success-of-southwark-councils-green-investment-scheme-sees-new-funding-round-launched/)
@@ -126,20 +136,6 @@ View All Result
     [![Police would like to speak to the man pictured in connection with the incident. Image: British Transport Police](https://southwarknews.co.uk/wp-content/uploads/2024/09/Police-would-like-to-speak-to-the-man-pictured-in-connection-with-the-incident.-Image-British-Transport-Police-360x180.png)](https://southwarknews.co.uk/area/borough/police-investigating-masturbator-on-london-bridge-train/)
     
     ### [Police investigating ‘masturbator’ on London Bridge train](https://southwarknews.co.uk/area/borough/police-investigating-masturbator-on-london-bridge-train/)
-    
-    [![](https://southwarknews.co.uk/wp-content/uploads/2024/09/Mike-Victoria-sign-360x180.jpg)](https://southwarknews.co.uk/area/bermondsey/the-vics-mike-mckenna-a-big-bermondsey-character-whose-life-was-framed-around-promoting-the-good-work-of-others/)
-    
-    ### [The Vic’s Mike McKenna – a big Bermondsey character whose life was framed around promoting the good work of others](https://southwarknews.co.uk/area/bermondsey/the-vics-mike-mckenna-a-big-bermondsey-character-whose-life-was-framed-around-promoting-the-good-work-of-others/)
-    
-    [![Joel Victorious 
-    Photo from the Met](https://southwarknews.co.uk/wp-content/uploads/2024/09/JOELVICTORIOUS-jpeg-360x180.avif)](https://southwarknews.co.uk/area/southwark/man-who-hammer-attacked-woman-leaving-her-with-brain-damage-receives-life-sentence/)
-    
-    ### [Man who hammer-attacked woman leaving her with brain damage receives life sentence](https://southwarknews.co.uk/area/southwark/man-who-hammer-attacked-woman-leaving-her-with-brain-damage-receives-life-sentence/)
-    
-    [![Christine Rixon, 75, and Paul Rixon, 76, shown on Bromley High Street.
-    Photo by  Joe Coughlan.](https://southwarknews.co.uk/wp-content/uploads/2024/09/Christine-and-Paul-Rixon-360x180.jpg)](https://southwarknews.co.uk/area/south-london/pensioners-in-south-london-disgusted-by-governments-cut-to-winter-fuel-payments/)
-    
-    ### [Pensioners in South London ‘disgusted’ by Government’s cut to Winter Fuel Payments](https://southwarknews.co.uk/area/south-london/pensioners-in-south-london-disgusted-by-governments-cut-to-winter-fuel-payments/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [In depth history](https://southwarknews.co.uk/category/history/in-depth-history/)
@@ -232,14 +228,31 @@ Image from Google Street View](https://southwarknews.co.uk/wp-content/uploads/20
 
 [16th September 2024](https://southwarknews.co.uk/sport/football/millwall/millwall-boss-gives-verdict-after-replacement-striker-inches-away-from-first-lions-goal/)
 
-[![Peckham Festival 
-- photo supplied](https://southwarknews.co.uk/wp-content/uploads/2024/09/PeckhamFestival-4206-120x86.jpg)](https://southwarknews.co.uk/area/peckham/peckham-festival-starts-on-friday-and-the-programme-of-events-is-massive/)
+[![A photo of the ship sailing in New York ®Alejandro Mallado Erbez](https://southwarknews.co.uk/wp-content/uploads/2024/09/Foto-Galeon-Nueva-York-2013-120x86.jpg)](https://southwarknews.co.uk/news/spanish-17th-century-galleon-will-soon-arrive-in-london/)
 
-### [Peckham Festival starts on Friday – and the programme of events is massive](https://southwarknews.co.uk/area/peckham/peckham-festival-starts-on-friday-and-the-programme-of-events-is-massive/)
+### [Spanish 17th-century galleon will soon arrive in London](https://southwarknews.co.uk/news/spanish-17th-century-galleon-will-soon-arrive-in-london/)
 
-[12th September 2024](https://southwarknews.co.uk/area/peckham/peckham-festival-starts-on-friday-and-the-programme-of-events-is-massive/)
+[14th September 2024](https://southwarknews.co.uk/news/spanish-17th-century-galleon-will-soon-arrive-in-london/)
 
 ### Featured Articles
+
+[![JD Wetherspoon has applied for a license at 50 Tooley Street. Image: Google](https://southwarknews.co.uk/wp-content/uploads/2024/09/JD-Wetherspoon-has-applied-for-a-license-at-50-Tooley-Street.-Image-Google-120x86.png)](https://southwarknews.co.uk/area/borough/wetherspoons-to-open-pub-in-former-london-dungeon/)
+
+### [Wetherspoons to open pub in former London Dungeon](https://southwarknews.co.uk/area/borough/wetherspoons-to-open-pub-in-former-london-dungeon/)
+
+[17th September 2024](https://southwarknews.co.uk/area/borough/wetherspoons-to-open-pub-in-former-london-dungeon/)
+
+[![Left to right: Judith Butler, Nazanin Zagharri-Ratcliffe, Robert Popper](https://southwarknews.co.uk/wp-content/uploads/2024/09/Left-to-right-Judith-Butler-Nazanin-Zagharri-Ratcliffe-Robert-Popper-120x86.png)](https://southwarknews.co.uk/area/south-bank/southbank-centre-announces-winter-literature-season-line-up/)
+
+### [Southbank Centre announces Winter Literature Season line-up](https://southwarknews.co.uk/area/south-bank/southbank-centre-announces-winter-literature-season-line-up/)
+
+[17th September 2024](https://southwarknews.co.uk/area/south-bank/southbank-centre-announces-winter-literature-season-line-up/)
+
+[![The Stoney Street entrance to Borough Market. Credit: Southwark Liberal Democrats](https://southwarknews.co.uk/wp-content/uploads/2024/09/PXL_20240903_141010252.MP_-e1726565110180-120x86.jpeg)](https://southwarknews.co.uk/area/borough/1-million-anti-terrorism-barriers-for-borough-market-ditched-in-big-win-for-traders/)
+
+### [£1 million anti-terrorism barriers for Borough Market ditched in ‘big win’ for traders](https://southwarknews.co.uk/area/borough/1-million-anti-terrorism-barriers-for-borough-market-ditched-in-big-win-for-traders/)
+
+[17th September 2024](https://southwarknews.co.uk/area/borough/1-million-anti-terrorism-barriers-for-borough-market-ditched-in-big-win-for-traders/)
 
 [![Southwark Council HQ on Tooley Street. Photo from Google Street View](https://southwarknews.co.uk/wp-content/uploads/2024/06/Southwark-Council-HQ-on-Tooley-Street.-Photo-from-Google-Street-View-1-120x86.jpg)](https://southwarknews.co.uk/area/southwark/unexpected-success-of-southwark-councils-green-investment-scheme-sees-new-funding-round-launched/)
 
@@ -259,24 +272,6 @@ Photo by Facundo Arrizabalaga/MyLondon](https://southwarknews.co.uk/wp-content/u
 ### [Former top council boss has been disqualified from driving for two years](https://southwarknews.co.uk/featured/former-top-council-boss-has-been-disqualified-from-driving-for-two-years/)
 
 [16th September 2024](https://southwarknews.co.uk/featured/former-top-council-boss-has-been-disqualified-from-driving-for-two-years/)
-
-[![The Walworth Society excitedly posted this photo of the coverings removed from the historic building. Credit: The Walworth Society](https://southwarknews.co.uk/wp-content/uploads/2024/09/boom-120x86.png)](https://southwarknews.co.uk/area/walworth/walworths-victorian-town-hall-now-worth-staggering-25-million-eleven-years-after-being-ravaged-by-devastating-fire-after-stunning-restoration/)
-
-### [Walworth’s Victorian town hall now worth staggering £25 million eleven years after being ravaged by devastating fire after stunning restoration](https://southwarknews.co.uk/area/walworth/walworths-victorian-town-hall-now-worth-staggering-25-million-eleven-years-after-being-ravaged-by-devastating-fire-after-stunning-restoration/)
-
-[16th September 2024](https://southwarknews.co.uk/area/walworth/walworths-victorian-town-hall-now-worth-staggering-25-million-eleven-years-after-being-ravaged-by-devastating-fire-after-stunning-restoration/)
-
-[![Emergency services attended the incident on Rye Lane, Peckham. Image: Google Maps](https://southwarknews.co.uk/wp-content/uploads/2024/09/Emergency-services-attended-the-incident-on-Rye-Lane-Peckham.-Image-Google-Maps-120x86.png)](https://southwarknews.co.uk/area/peckham/man-stabbed-on-peckham-high-street/)
-
-### [Man stabbed on Peckham high street](https://southwarknews.co.uk/area/peckham/man-stabbed-on-peckham-high-street/)
-
-[16th September 2024](https://southwarknews.co.uk/area/peckham/man-stabbed-on-peckham-high-street/)
-
-[![Police would like to speak to the man pictured in connection with the incident. Image: British Transport Police](https://southwarknews.co.uk/wp-content/uploads/2024/09/Police-would-like-to-speak-to-the-man-pictured-in-connection-with-the-incident.-Image-British-Transport-Police-120x86.png)](https://southwarknews.co.uk/area/borough/police-investigating-masturbator-on-london-bridge-train/)
-
-### [Police investigating ‘masturbator’ on London Bridge train](https://southwarknews.co.uk/area/borough/police-investigating-masturbator-on-london-bridge-train/)
-
-[16th September 2024](https://southwarknews.co.uk/area/borough/police-investigating-masturbator-on-london-bridge-train/)
 
 ### USEFUL PAGES
 
@@ -327,6 +322,10 @@ View All Result
 * [Lifestyle & Events](https://southlondon.co.uk/category/lifestyle/)
 * [Obituaries](https://southwarknews.co.uk/category/obituaries/)
 * [Public Notices](https://southlondon.co.uk/category/public-notices/)
+    * [All notices](https://southlondon.co.uk/category/public-notices/)
+    * [Southwark News Public Notices Portal](https://publicnoticeportal.uk/southwark-news)
+    * [Greenwich and Lewisham Public Notices Portal](https://publicnoticeportal.uk/greenwich-and-lewisham-weekender)
+    * [South London Weekly Public Notices Portal](https://publicnoticeportal.uk/south-london-weekly)
 * [More…](#)
     * [Our Story](https://southwarknews.co.uk/our-story/)
     * [Read our print products (Digital Editions)](https://issuu.com/communitymattersmedia)
