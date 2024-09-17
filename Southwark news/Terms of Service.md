@@ -207,24 +207,12 @@ Terms of Use
 
 [12th September 2024](https://southwarknews.co.uk/area/peckham/jamaican-patties-made-by-peckham-duo-will-now-be-sold-permanently-in-aldi/)
 
-[![L: Southwark Foodbank office, Peckham High Street. R: Empty shelves.](https://southwarknews.co.uk/wp-content/uploads/2024/09/Image-09-09-2024-at-16.41-120x86.jpg)](https://southwarknews.co.uk/area/peckham/peckham-food-bank-ransacked-overnight-leaving-struggling-families-in-crisis/)
-
-### [Peckham food bank ransacked overnight, leaving struggling families in crisis](https://southwarknews.co.uk/area/peckham/peckham-food-bank-ransacked-overnight-leaving-struggling-families-in-crisis/)
-
-[9th September 2024](https://southwarknews.co.uk/area/peckham/peckham-food-bank-ransacked-overnight-leaving-struggling-families-in-crisis/)
-
 [![Fenstanton Primary School in Tulse Hill, South London will close from September 2026 under council plans.
 Image from Google Street View](https://southwarknews.co.uk/wp-content/uploads/2024/09/Fenstanton-Primary-School-120x86.jpg)](https://southwarknews.co.uk/area/camberwell/two-south-london-primary-schools-set-to-close-while-four-more-will-be-merged/)
 
 ### [Two South London primary schools set to close while four more will be merged](https://southwarknews.co.uk/area/camberwell/two-south-london-primary-schools-set-to-close-while-four-more-will-be-merged/)
 
 [10th September 2024](https://southwarknews.co.uk/area/camberwell/two-south-london-primary-schools-set-to-close-while-four-more-will-be-merged/)
-
-[![Rotherhithe Tunnel (Hjamesberglen, Wiki Commons)](https://southwarknews.co.uk/wp-content/uploads/2024/03/Rotherhithe-Tunnel-car-on-fire-simulation-TfL-120x86.jpg)](https://southwarknews.co.uk/area/rotherhithe/major-congestion-whilst-rotherhithe-tunnel-is-closed-with-no-estimate-of-when-it-will-reopen/)
-
-### [Major congestion whilst Rotherhithe Tunnel is closed with ‘no estimate’ of when it will reopen](https://southwarknews.co.uk/area/rotherhithe/major-congestion-whilst-rotherhithe-tunnel-is-closed-with-no-estimate-of-when-it-will-reopen/)
-
-[10th September 2024](https://southwarknews.co.uk/area/rotherhithe/major-congestion-whilst-rotherhithe-tunnel-is-closed-with-no-estimate-of-when-it-will-reopen/)
 
 [![Josh Stephenson. Photo: Millwall FC](https://southwarknews.co.uk/wp-content/uploads/2024/09/Josh-Stephenson-120x86.jpg)](https://southwarknews.co.uk/sport/football/millwall/millwall-defender-set-to-complete-move-to-brentford/)
 
@@ -237,6 +225,19 @@ Image from Google Street View](https://southwarknews.co.uk/wp-content/uploads/20
 ### [‘I want to be coached by that guy’ – Millwall attacker gives insight into drawn-out transfer](https://southwarknews.co.uk/sport/football/millwall/i-want-to-be-coached-by-that-guy-millwall-attacker-gives-insight-into-drawn-out-transfer/)
 
 [12th September 2024](https://southwarknews.co.uk/sport/football/millwall/i-want-to-be-coached-by-that-guy-millwall-attacker-gives-insight-into-drawn-out-transfer/)
+
+[![Peckham Festival 
+- photo supplied](https://southwarknews.co.uk/wp-content/uploads/2024/09/PeckhamFestival-4206-120x86.jpg)](https://southwarknews.co.uk/area/peckham/peckham-festival-starts-on-friday-and-the-programme-of-events-is-massive/)
+
+### [Peckham Festival starts on Friday – and the programme of events is massive](https://southwarknews.co.uk/area/peckham/peckham-festival-starts-on-friday-and-the-programme-of-events-is-massive/)
+
+[12th September 2024](https://southwarknews.co.uk/area/peckham/peckham-festival-starts-on-friday-and-the-programme-of-events-is-massive/)
+
+[![Injured Josh Coburn. Image: Millwall FC](https://southwarknews.co.uk/wp-content/uploads/2024/09/Coburn-injury-vs-Luton-120x86.jpeg)](https://southwarknews.co.uk/sport/football/millwall/millwall-boss-gives-verdict-after-replacement-striker-inches-away-from-first-lions-goal/)
+
+### [Millwall boss gives verdict after replacement striker inches away from first Lions goal](https://southwarknews.co.uk/sport/football/millwall/millwall-boss-gives-verdict-after-replacement-striker-inches-away-from-first-lions-goal/)
+
+[16th September 2024](https://southwarknews.co.uk/sport/football/millwall/millwall-boss-gives-verdict-after-replacement-striker-inches-away-from-first-lions-goal/)
 
 ### Featured Articles
 
