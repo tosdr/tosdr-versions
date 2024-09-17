@@ -142,6 +142,20 @@ out of 5 based on
 
 ![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
 
+> Sep 16, 2024
+
+> First time to Cape Town
+
+> We are a group of ten friends traveling together to Cape Town for the first time. Safari.com was our top choice for travel agents. Leché and Tracy were incredibly helpful and prompt with our questions and bookings. The trip to Sanbona Wildlife Reserve was fantastic, and everything went off without a hitch. We highly recommend Safari.com for your safari plans!
+
+Joleen
+
+,
+
+ZA
+
+![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
+
 > Sep 15, 2024
 
 > Very responsive
@@ -251,20 +265,6 @@ Jim C
 ,
 
 AU
-
-![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
-
-> Sep 12, 2024
-
-> making it very difficult to get…
-
-> making it very difficult to get included transfer from Ulusaba lodge to Skukuza airport. the Lodge includes this Transfer, but Jayson said I have to contact the Lodge directly to set it up. He will not set it up for me.
-
-maeve
-
-,
-
-US
 
 VIP service
 
