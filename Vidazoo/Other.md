@@ -92,7 +92,7 @@ Client acknowledges and agrees that a breach of these Publisher Guidelines could
 
 [PreviousTerms and Conditions](https://vidazoo.gitbook.io/vidazoo-legal/terms-and-conditions)[NextData Processing Agreement - Publisher](https://vidazoo.gitbook.io/vidazoo-legal/data-protection-addendum)
 
-Last updated 19 days ago
+Last updated 20 days ago
 
 On this page
 
