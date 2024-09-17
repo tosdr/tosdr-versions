@@ -69,7 +69,7 @@ Welcome to TargetVideo. TargetVideo’s  websites (www.brid.tv, www.target-vide
 
 Name: TargetVideo GmbH
 
-Address:  Machtlfinger Str. 21, 81379 Munich
+Address: Koppstr. 16 | 81379 München
 
 Registration number: HRB 212247 (commercial register of the local court of Munich)
 
@@ -135,7 +135,7 @@ The Client shall keep his/her payment address, email address, bank account numbe
 * If the Client has an annual subscription, all subscription cancellations shall come into effect at the end of his/her current annual period.
 * The Client hereby authorizes TargetVideo to charge all incurred fees and overages regarding the designated payment form, and acknowledges that periodic fees and overages may be charged automatically and without a separate authorisation. By choosing a recurring payment plan, the Client acknowledges that such Products or Editions shall have an initial and recurring payment feature. Moreover, the Client shall accept responsibility for all recurring charges prior to the cancellation.
 
-**Native Player Services and Premium Demand Services**  
+**Native Player Services and Premium Demand Services**
 
 **Providing the Video Technology and Video Content**
 
@@ -197,7 +197,7 @@ In cases where the Client authorised a minor to use the Services, the Client ack
 
 The Client acknowledges and agrees that, by using the Services, he/she may be exposed to offensive, indecent or objectionable content. Moreover, the Client acknowledges and agrees that the Services and content may contain errors or omissions, and that TargetVideo shall neither screen nor review the content published in the Service, so as to determine whether it contains false, defamatory, offensive, indecent or objectionable material, or material containing errors or omissions. Under no circumstances shall TargetVideo be liable in any way for any Client’s or other third party’s content, including, but not limited to, any defamation, falsehood, error, or omission in any such content, or for any loss or any damage caused by the use or publication of any such content, posted, emailed or otherwise transmitted via the Services. TargetVideo does not guarantee that any content will be to Client’s satisfaction. Should the Client believe that content published in or through the TargetVideo Service contains defamatory material or violates these Terms and Conditions, he/she shall contact TargetVideo at once. The contact details are given below:
 
-Address: Machtlfinger Str. 21, 81379 Munich, Germany
+Address: Koppstr. 16 | 81379 München
 
 Tel.: +4989215490
 
@@ -278,7 +278,7 @@ TargetVideo shall respect the Intellectual Property Rights of others. However, T
 
 Any claim of infringement upon Intellectual Property Right shall be sent to TargetVideo’s Copyright Agent and/or General Counsel by mail,      or email as follows:
 
-Address: Machtlfinger Str. 21, 81379 Munich, Germany
+Address: Koppstr. 16 | 81379 München
 
 Tel.: +4989215490
 
