@@ -17,7 +17,8 @@ Menu
 * [Support](https://bearable.app/support/)
 * [Email us](mailto:support@bearable.app)
 
-#### Terms and Conditions
+Terms and Conditions
+====================
 
 ##### Last updated 20th Dec 2021  
 \- Updated registered office  
