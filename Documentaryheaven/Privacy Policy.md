@@ -136,31 +136,31 @@ Advertisement
 
 ###### Throwback Documentaries
 
-* [![Apollo Zero](/wp-content/thumbnails/2390-100x70.jpg?x53432)
+* [![CIA Secret Experiments](/wp-content/thumbnails/7065-100x70.jpg?x53432)
     
-    Apollo Zero
+    CIA Secret Experiments
     
-    Think about this: to date, only three countries have been able to put a man merely in Earth orbit – the United States, Russia, and China. That speaks to how difficult it is just to get into orbit. Nex](https://documentaryheaven.com/apollo-zero/ "Apollo Zero")
-* [![What Really Happened in Wuhan](/wp-content/thumbnails/16591-100x70.jpg?x53432)
+    It's the height of the Cold War and the United States government is desperate to combat the spread of Communism. The CIA launches a highly classified, top secret research program into the covert use o](https://documentaryheaven.com/cia-secret-experiments/ "CIA Secret Experiments")
+* [![Chances: The Women of Magdalene](/wp-content/thumbnails/1383-100x70.jpg?x53432)
     
-    What Really Happened in Wuhan
+    Chances: The Women of Magdalene
     
-    In this Sky News Australia special investigation, we delve into the origins of COVID-19 in an attempt to reveal what it was that really happened in Wuhan at the start of the global pandemic. We hear](https://documentaryheaven.com/what-really-happened-in-wuhan/ "What Really Happened in Wuhan")
-* [![Blood Coltan](/wp-content/thumbnails/1855-100x70.jpg?x53432)
+    InIspiring uplift abounds in "Chances: The Women of Magdalene," a slickly produced but unmistakably sincere docu about a femme Episcopalian priest's outreach program to rehabilitate Nashville prostitu](https://documentaryheaven.com/chances-the-women-of-magdalene/ "Chances: The Women of Magdalene")
+* [![Slavery By Another Name](/wp-content/thumbnails/6424-100x70.jpg?x53432)
     
-    Blood Coltan
+    Slavery By Another Name
     
-    The mobile phone is a remarkable piece of engineering. But look inside. There’s blood in this machine. There’s blood in this device because your mobile contains tiny electronic circuits, and they coul](https://documentaryheaven.com/blood-coltan/ "Blood Coltan")
-* [![The Coca-Cola Case](/wp-content/thumbnails/5616-100x70.jpg?x53432)
+    For most Americans this is entirely new history. Slavery by Another Name gives voice to the largely forgotten victims and perpetrators of forced labor and features their descendants living today.Sla](https://documentaryheaven.com/slavery-by-another-name/ "Slavery By Another Name")
+* [![Know your Mushrooms (2008)](/wp-content/thumbnails/2626-100x70.jpg?x53432)
     
-    The Coca-Cola Case
+    Know your Mushrooms (2008)
     
-    This feature length documentary present a searing indictment of the Coca-Cola empire and its alleged kidnapping, torture and murder of union leaders trying to improve working conditions in Colombia, G](https://documentaryheaven.com/the-coca-cola-case/ "The Coca-Cola Case")
-* [![Tibet: A Buddhist Trilogy](/wp-content/thumbnails/2336-100x70.jpg?x53432)
+    Ron Mann investigates the miraculous, near-secret world of fungi. Visionaries Gary Lincoff and Larry Evans lead us on a hunt for the wild mushroom and the deeper cultural experiences attached to the m](https://documentaryheaven.com/know-your-mushrooms-2008/ "Know your Mushrooms (2008)")
+* [![Beyond The Mat](/wp-content/thumbnails/6712-100x70.jpg?x53432)
     
-    Tibet: A Buddhist Trilogy
+    Beyond The Mat
     
-    Part I: The Dalai Lama, The Monasteries and the People. Filmed in the Dalai Lama’s residence in Dharamsala, North India, and in the re-built Sera Monastery, the second largest monastery of the old Tib](https://documentaryheaven.com/tibet-a-buddhist-trilogy/ "Tibet: A Buddhist Trilogy")
+    Beyond the Mat is a 1999 documentary directed by Barry W. Blaustein. The movie focuses on the lives of professional wrestlers outside of the ring, primarily Mick Foley, Terry Funk, and Jake Roberts, a](https://documentaryheaven.com/beyond-the-mat/ "Beyond The Mat")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
