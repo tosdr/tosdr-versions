@@ -92,6 +92,10 @@ Behind the news are values that drive people and nations. Explore them here.
 
 Recent Stories
 
+[Integrity
+
+### Venezuela’s future hangs on facts](https://www.csmonitor.com/Commentary/the-monitors-view/2024/0917/Venezuela-s-future-hangs-on-facts "Venezuela’s future hangs on facts")
+
 [Compassion
 
 ### Ukraine’s high ground in Russia](https://www.csmonitor.com/Commentary/the-monitors-view/2024/0916/Ukraine-s-high-ground-in-Russia "Ukraine’s high ground in Russia")
@@ -99,10 +103,6 @@ Recent Stories
 [Transformation
 
 ### Tango for all? How Argentine artists are upending stereotypes.](https://www.csmonitor.com/World/Americas/2024/0916/Tango-for-all-How-Argentine-artists-are-upending-stereotypes "Tango for all? How Argentine artists are upending stereotypes.")
-
-[Equality
-
-### The new kids in the huddle](https://www.csmonitor.com/Commentary/the-monitors-view/2024/0913/The-new-kids-in-the-huddle "The new kids in the huddle")
 
 [See all News & Values stories](https://www.csmonitor.com/values)
 
@@ -158,11 +158,11 @@ Regions
 
 Recent Stories
 
-[### Expanding possibilities for renters who want solar, and for animation in Africa](https://www.csmonitor.com/World/Points-of-Progress/2024/0916/German-apartment-solar-African-arts "Expanding possibilities for renters who want solar, and for animation in Africa")
+[### The Olympics are over. Should the Eiffel Tower keep wearing the rings?](https://www.csmonitor.com/World/Europe/2024/0917/paris-eiffel-tower-olympic-games-anne-hidalgo "The Olympics are over. Should the Eiffel Tower keep wearing the rings?")
 
-[### Tango for all? How Argentine artists are upending stereotypes.](https://www.csmonitor.com/World/Americas/2024/0916/Tango-for-all-How-Argentine-artists-are-upending-stereotypes "Tango for all? How Argentine artists are upending stereotypes.")
+[### A former prime minister facing military trial? Pakistan flirts with risky precedent.](https://www.csmonitor.com/World/Asia-South-Central/2024/0917/imran-khan-pakistan-military-court "A former prime minister facing military trial? Pakistan flirts with risky precedent.")
 
-[### Texas to follow Florida law that has patients report immigration status](https://www.csmonitor.com/USA/2024/0916/florida-texas-illegal-immigration-hospitals "Texas to follow Florida law that has patients report immigration status")
+[### Hispanics have lived in the US for centuries. Autumn events honor their stories.](https://www.csmonitor.com/USA/2024/0917/Hispanic-heritage-month-celebrations-latinx "Hispanics have lived in the US for centuries. Autumn events honor their stories.")
 
 * * *
 
