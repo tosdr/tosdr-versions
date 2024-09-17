@@ -157,6 +157,15 @@ For larger scale or public events we may share images with the event sponsors. A
 
 Please note that for images made available on the internet, the Raspberry Pi Foundation can cease to use your images, but it may still be possible to find them on the internet, and this is beyond our control. Where images have already been used in printed publications, it will not be possible for them to be withdrawn.
 
+**Code Editor For Education**
+
+Code Editor for Education is an integrated development environment designed to help make learning text-based programming simple and accessible for children aged 9 and up. It gives added classroom management functionality to educators who are Raspberry Pi Account holders. This means:
+
+* Student Accounts within Code Editor For Education are accounts created and managed by teachers in a School (ie the school identified during the sign up process) on behalf of their students.
+* RPF is not the data controller of any personal data associated with these accounts.
+* The School is responsible for this data and decides how this data is used. The School may provide RPF with information about its students in order for us to maintain, manage, and store Student Accounts. This is governed by a data sharing agreement between the School and RPF agreed as part of the terms of use.
+* To see what data is held and and how that data is processed and managed students should review their School’s privacy policy or contact them directly.
+
 3\. When we collect information from you
 ----------------------------------------
 
@@ -182,7 +191,7 @@ We may use the information as follows:
 * Ask you to participate in surveys
 * In our annual review and Trustee report
 * For research purposes
-* Research potential donors
+* Researching and due diligence of potential donors
 * Thank you for a donation
 * Send you newsletters (if you have opted in)
 * Publish images in our magazines, websites, social media or blogs
@@ -210,24 +219,22 @@ If you have any questions about how long we keep your information for, contact u
 
 #### **Table of retention periods**
 
-| Data Subject | Data Type | Retention |
-| --- | --- | --- |
-| Competition entrant  <br>  <br>Event or club attendee  <br>  <br>Raspberry Pi account holder  <br>  <br>Survey participant or interviewee<br><br>Potential donors | Personal Data & Special Category Data (see above) | Reviewed 3 years after the last evidence of involvement. Then we will either anonymise, delete or retain the data if we have a legal justification for keeping it any longer, for example, for safeguarding reasons.<br><br>If the information we have about you is considered part of RPF’s historical record, we will retain basic personal data, such as names, for 100 years. |
-| Club volunteer, leader or host | Personal Data | We will retain the following data indefinitely for safeguarding purposes:  <br><br>* Name<br>* Club affiliations<br>* Existence and dates of any background check<br>* Safeguarding module completions date<br>* Date of Birth<br>* Last recorded personal address or post code<br>* Whether any safeguarding incidents or concerns have been reported<br><br>Where we know a club is no longer running then all other volunteer data and information will be deleted after 6 years if there is no other evidence of engagement with the Foundation. |
-| Contractor or supplier    <br>  <br>Donors  <br>  <br>Organisations awarding grants or gifting donations  <br>  <br>Partner organisation | Personal Data | 6 years after the end of the year or accounting period in question (for legal and tax reasons). |
-| Emails received | Personal Data | Deleted automatically after a maximum of 10 years, unless separately preserved for other lawful reasons. |
-| Images/videos | Personal Data | As long as required. In some instances, 100-year retention is required to maintain RPF’s historical record. |
-| Members of RPF | Personal Data | In certain circumstances, we may retain relevant data for 10 years (Companies Act 2006). |
-| Visitor to our websites | Personal Data | The web service logs (containing IP addresses) are retained for 30 days of your visit, after which they are then archived for 1 year. |
-| Visitor to our office | Personal Data | CCTV images are kept for 31 days (unless retained for legal reasons) |
-| Unsuccessful job applicants | Personal Data | Application information kept for **1 year** to defend against claims and for as long as necessary in the event of a claim. |
+| Data Subject | Retention |
+| --- | --- |
+| Competition entrant  <br>  <br>Event or club attendee  <br>  <br>Raspberry Pi account holder  <br>  <br>Survey participant or interviewee<br><br>Potential donors | We will review your data 3 years after the last evidence of your engagement (e.g your last login or contact with us). We will then either anonymise, delete or retain the data if we have a legal justification for keeping it any longer, for example, for safeguarding reasons.  <br><br>If the information we have about you is considered part of RPF’s historical record, we will retain basic personal data, such as names, for 100 years.<br><br>  <br>Where a Raspberry Pi account holder is a teacher or administrator using the Code Editor For Education platform, we may retain this data indefinitely for safeguarding purposes. |
+| Club volunteer, leader or host | We will retain the following data indefinitely for safeguarding purposes:<br><br>* Name<br>* Club affiliations<br>* Existence and dates of any background check<br>* Safeguarding module completions date<br>* Date of Birth<br>* Last recorded personal address or post code<br>* Whether any safeguarding incidents or concerns have been reported<br><br>Where we know a club is no longer running then all other volunteer data and information will be deleted after 6 years if there is no other evidence of engagement with the Foundation. |
+| Contractor or supplier    <br>  <br>Donors  <br>  <br>Organisations awarding grants or gifting donations  <br>  <br>Partner organisation | 6 years after the end of the year or accounting period in question (for legal and tax reasons).  <br>  <br>However, in the case of donors to RPF who are legators, personal data will be retained for 6 years after the accounting period in which the legacy was received. |
+| Emails received | Deleted automatically after a maximum of 10 years, unless separately preserved for other lawful reasons. |
+| Images/videos | As long as required. In some instances, 100-year retention is required to maintain RPF’s historical record. |
+| Members of RPF | In certain circumstances, we may retain relevant data for 10 years (Companies Act 2006). |
+| Visitor to our websites | The web service logs (containing IP addresses) are retained for 30 days of your visit, after which they are then archived for 1 year. |
+| Visitor to our office | CCTV images are kept for 31 days (unless retained for legal reasons) |
+| Unsuccessful job applicants | Application information kept for **1 year** to defend against claims and for as long as necessary in the event of a claim. |
 
 6\. Anonymised data
 -------------------
 
-By definition, anonymised data is data that does not contain any information that can be used to identify an individual.
-
-Once we have anonymised data we are lawfully allowed to retain it for as long as we need it, with no formal justification.
+By definition, anonymised data is data that does not contain any information that can be used to identify an individual. Once we have anonymised data we are lawfully allowed to retain it for as long as we need it, with no formal justification.
 
 Anonymised data may be useful for analytical or statistical insight. We are most likely to retain anonymised data for research, analysis, and impact evaluation.
 
@@ -260,7 +267,7 @@ We take additional measures to protect this data by storing it in our Customer R
 
 We will never sell your information to any third party.
 
-As the information we collect about you will be stored on our IT infrastructure, it may also be shared for operational reasons with data processors Google Workspace (email, document management and storage services) and/or Salesforce (relationship management platform). The servers containing this information are located in the UK / EEA.
+As the information we collect about you will be stored on our IT infrastructure, it may also be shared for operational reasons with data processors Google Workspace (email, document management and storage services), Heroku-managed AWS instance (database storage and management) and/or Salesforce (relationship management platform). The servers containing this information are located in the UK / EEA.
 
 In some circumstances we may share limited personal information about you with other organisations, partners and sponsors with whom we are working on joint schemes, events, or products that you engage with. This is to make sure that the scheme, event or product is working as intended and that we are sticking to our agreements with our partner organisations. Where these third parties are not in the UK or European Economic Area, we make sure that it is safe to share your information with them, for example by including the EC’s Standard Contractual Clauses in our agreements with such third parties.
 
@@ -296,9 +303,9 @@ These cookies do not collect or store your personal information (for example, yo
 You have a right to ask us to restrict our processing of your information if:
 
 * You contest its accuracy and we need to verify whether it is accurate.
-* You ask us to restrict use of it instead of deleting it.
 * We no longer need the information for the purpose of processing, but you need it to establish or defend legal claims.
-* You have objected to processing of your information being necessary for the purposes of our legitimate interests. The restriction would apply while we carry out a balancing act between your rights and our legitimate interests. If you exercise your right to restrict processing, we would still need to process your information for the purpose of exercising or defending legal claims, for the purpose of protecting the rights of another person, or for public interest reasons.
+* You have objected to processing and we are considering whether we have a legitimate interests to do so nevertheless. The restriction would apply while we carry out a balancing act between your rights and our legitimate interests. If you exercise your right to restrict processing, we would still need to process your information for the purpose of exercising or defending legal claims, for the purpose of protecting the rights of another person, or for public interest reasons.
+* Your data has been unlawfully processed, but you object to us deleting your data and instead have requested the restriction of your data.
 
 #### **Exercising your rights**
 
@@ -323,7 +330,7 @@ Raspberry Pi Foundation
 Cambridge  
 CB2 1NT
 
-Policy updated: March 2024
+Policy updated: September 2024
 
 * [For educators](https://www.raspberrypi.org/teach)
 * [The Computing Curriculum](https://www.raspberrypi.org/curriculum)
