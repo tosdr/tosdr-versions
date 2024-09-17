@@ -308,19 +308,19 @@ n. Entire Agreement. This Agreement, together with the Additional Policies, cons
 
   
 
-![Partner](/content/images/content/strip/Strip-Charter.png)
+![Partner](/content/images/content/strip/medicoweb.com.png)
 
   
 
-![Partner](/content/images/content/strip/Strip-BMW.png)
+![Partner](/content/images/content/strip/mediastar.id.png)
 
   
 
-![Partner](/content/images/content/strip/Strip-certifyeu.png)
+![Partner](/content/images/content/strip/businesspcsupport.com.png)
 
   
 
-![Partner](/content/images/content/strip/Strip-Estructuras.png)
+![Partner](/content/images/content/strip/erp-sarajevo.com.png)
 
 ### News
 
