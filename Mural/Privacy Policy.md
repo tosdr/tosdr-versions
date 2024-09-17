@@ -74,7 +74,9 @@ Sign in
 
 [Contact sales](https://www.mural.co/contact-us/sales)
 
-[Sign up free](https://app.mural.co/signup)
+[‍
+
+Sign up free](https://app.mural.co/signup)
 
 Privacy Statement
 =================
