@@ -15,6 +15,11 @@
     
     [See All](https://www.coolthings.com/gadgets/)
     
+    [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/elgato-stream-deck-studio-professional-studio-broadcasts-32-buttons/)
+    
+    [Elgato Stream Deck Studio Upgrades the Accessory for Professional Studio Broadcasts](https://www.coolthings.com/elgato-stream-deck-studio-professional-studio-broadcasts-32-buttons/)
+    --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+    
     [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/sony-playstation-5-pro-4k-60-fps-gaming-ai-upscaling-advanced-ray-tracing/)
     
     [Sony Playstation 5 Pro Brings 4K 60FPS Gaming, AI Upscaling, and More](https://www.coolthings.com/sony-playstation-5-pro-4k-60-fps-gaming-ai-upscaling-advanced-ray-tracing/)
@@ -24,11 +29,6 @@
     
     [Apple Watch Series 10 Debuts the Slimmest Case and the Biggest Screen on Apple’s Wearable Yet](https://www.coolthings.com/apple-watch-series-10-slimmer-case-biggest-screen-neural-processor-smartwatch/)
     ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-    
-    [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/the-best-steam-deck-cases-to-protect-your-gaming-handheld/)
-    
-    [The Best Steam Deck Cases to Protect Your Gaming Handheld](https://www.coolthings.com/the-best-steam-deck-cases-to-protect-your-gaming-handheld/)
-    --------------------------------------------------------------------------------------------------------------------------------------------------
     
 * [GIFTS](http://www.coolthings.com/gifts/)
     
