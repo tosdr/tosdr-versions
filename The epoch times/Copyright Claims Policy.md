@@ -75,19 +75,19 @@
     * [China Insider](https://www.theepochtimes.com/c-china-insider)
     * [Crossroads](https://www.theepochtimes.com/c-crossroads)
 
-* [Bright](https://www.theepochtimes.com/page/bright)
-    * [Lifestyle](https://www.theepochtimes.com/bright/radiant-life)
-    * [Inspired](https://www.theepochtimes.com/bright/inspired)
-    * [Family & Education](https://www.theepochtimes.com/bright/family-education)
-    * [Personal Finance](https://www.theepochtimes.com/business/personal-finance)
-    * [American Essence](https://www.theepochtimes.com/bright/american-essence)
-* [Entertainment](https://www.theepochtimes.com/entertainment)
-    * [Film & TV](https://www.theepochtimes.com/entertainment/film-tv)
-    * [Entertainment News](https://www.theepochtimes.com/entertainment/entertainment-news)
-* [Health](https://www.theepochtimes.com/health)
-    * [Experts](https://www.theepochtimes.com/health/experts)
-    * [Conditions](https://www.theepochtimes.com/health/treatments)
-    * [Life & Wellness](https://www.theepochtimes.com/health/life-wellness)
+* [Bright](https://api-dev.theepochtimes.com/page/bright)
+    * [Lifestyle](https://api-dev.theepochtimes.com/bright/radiant-life)
+    * [Inspired](https://api-dev.theepochtimes.com/bright/inspired)
+    * [Family & Education](https://api-dev.theepochtimes.com/bright/family-education)
+    * [Personal Finance](https://api-dev.theepochtimes.com/business/personal-finance)
+    * [American Essence](https://api-dev.theepochtimes.com/bright/american-essence)
+* [Entertainment](https://api-dev.theepochtimes.com/entertainment)
+    * [Film & TV](https://api-dev.theepochtimes.com/entertainment/film-tv)
+    * [Entertainment News](https://api-dev.theepochtimes.com/entertainment/entertainment-news)
+* [Health](https://api-dev.theepochtimes.com/health)
+    * [Experts](https://api-dev.theepochtimes.com/health/experts)
+    * [Conditions](https://api-dev.theepochtimes.com/health/treatments)
+    * [Life & Wellness](https://api-dev.theepochtimes.com/health/life-wellness)
 * [Special Topics](https://www.theepochtimes.com/most-popular)
     * [Battlefields](https://www.theepochtimes.com/t-battlefields)
 
@@ -158,76 +158,76 @@ Please note that under Section 512(f) of the DMCA, any person who knowingly mate
 
 TOP NEWS
 
+* [An Updated Timeline of Trump Assassination Attempt at Golf Course](https://www.theepochtimes.com/us/an-updated-timeline-of-trump-assassination-attempt-at-golf-course-5725788)
+    
+    NEW By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
+    
+    [![An Updated Timeline of Trump Assassination Attempt at Golf Course](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![An Updated Timeline of Trump Assassination Attempt at Golf Course](https://img.theepochtimes.com/assets/uploads/2024/09/16/id5724921-Trump-assassination-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/an-updated-timeline-of-trump-assassination-attempt-at-golf-course-5725788)
+* [FTC Sued Over July Report Criticizing Pharmacy Middlemen](https://www.theepochtimes.com/us/ftc-sued-over-july-report-criticizing-pharmacy-middlemen-5725821)
+    
+    NEW By [Chase Smith](https://www.theepochtimes.com/author/chase-smith)
+    
+    [![FTC Sued Over July Report Criticizing Pharmacy Middlemen](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![FTC Sued Over July Report Criticizing Pharmacy Middlemen](https://img.theepochtimes.com/assets/uploads/2014/06/AP110721026778-205x123.jpg.webp)](https://www.theepochtimes.com/us/ftc-sued-over-july-report-criticizing-pharmacy-middlemen-5725821)
+* [Appeals Court Upholds Jeffrey Epstein Associate’s Sex Trafficking Conviction](https://www.theepochtimes.com/us/appeals-court-upholds-jeffrey-epstein-associates-sex-trafficking-conviction-5725791)
+    
+    2hr By [Zachary Stieber](https://www.theepochtimes.com/author/zachary-stieber)
+    
+    [![Appeals Court Upholds Jeffrey Epstein Associate’s Sex Trafficking Conviction](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Appeals Court Upholds Jeffrey Epstein Associate’s Sex Trafficking Conviction](https://img.theepochtimes.com/assets/uploads/2022/03/09/Ghislaine-Maxwell-edited-205x123.jpg.webp)](https://www.theepochtimes.com/us/appeals-court-upholds-jeffrey-epstein-associates-sex-trafficking-conviction-5725791)
+* [Judge Denies RFK Jr.’s Bid to Withdraw From Wisconsin Ballot](https://www.theepochtimes.com/us/judge-denies-rfk-jr-s-bid-to-withdraw-from-wisconsin-ballot-5725709)
+    
+    2hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
+    
+    [![Judge Denies RFK Jr.’s Bid to Withdraw From Wisconsin Ballot](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Judge Denies RFK Jr.’s Bid to Withdraw From Wisconsin Ballot](https://img.theepochtimes.com/assets/uploads/2024/09/11/id5721908-09102024-DSC08342-RFK-JR-205x123.jpg.webp)](https://www.theepochtimes.com/us/judge-denies-rfk-jr-s-bid-to-withdraw-from-wisconsin-ballot-5725709)
+* [Speaker Johnson Says He’ll Try to Pass Stopgap Spending Bill Despite Opposition](https://www.theepochtimes.com/us/speaker-johnson-says-hell-try-to-pass-stopgap-spending-bill-despite-opposition-5725691)
+    
+    3hr By [Arjun Singh](https://www.theepochtimes.com/author/arjun-singh)
+    
+    [![Speaker Johnson Says He’ll Try to Pass Stopgap Spending Bill Despite Opposition](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Speaker Johnson Says He’ll Try to Pass Stopgap Spending Bill Despite Opposition](https://img.theepochtimes.com/assets/uploads/2024/09/11/id5722508-GettyImages-2170520553-SB-205x123.jpg.webp)](https://www.theepochtimes.com/us/speaker-johnson-says-hell-try-to-pass-stopgap-spending-bill-despite-opposition-5725691)
+* [US Charges Employee of China’s State-Owned Aerospace Conglomerate With Phishing Scheme](https://www.theepochtimes.com/china/us-charges-employee-of-chinas-state-owned-aerospace-conglomerate-with-phishing-scheme-5725659)
+    
+    5hr By [Frank Fang](https://www.theepochtimes.com/author/frank-fang), Epoch Times
+    
+    [![US Charges Employee of China’s State-Owned Aerospace Conglomerate With Phishing Scheme](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![US Charges Employee of China’s State-Owned Aerospace Conglomerate With Phishing Scheme](https://img.theepochtimes.com/assets/uploads/2024/08/14/id5705621-07292024-DSC09128-DOJ-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/china/us-charges-employee-of-chinas-state-owned-aerospace-conglomerate-with-phishing-scheme-5725659)
+* [Local Lawmakers Condemn Brooklyn Attack on Falun Gong Practitioners](https://www.theepochtimes.com/us/local-lawmakers-condemn-brooklyn-attack-on-falun-gong-practitioners-5725630)
+    
+    5hr By [Eva Fu](https://www.theepochtimes.com/author/eva-fu) and [Catherine Yang](https://www.theepochtimes.com/author/catherine-yang)
+    
+    [![Local Lawmakers Condemn Brooklyn Attack on Falun Gong Practitioners](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Local Lawmakers Condemn Brooklyn Attack on Falun Gong Practitioners](https://img.theepochtimes.com/assets/uploads/2024/09/17/id5725922-e5d8a3457f8970570e48d9ed.jpg-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/local-lawmakers-condemn-brooklyn-attack-on-falun-gong-practitioners-5725630)
+* [Thousands Injured in Series of Pager Explosions Across Lebanon, Officials Say](https://www.theepochtimes.com/world/thousands-injured-in-series-of-mysterious-pager-explosions-across-lebanon-state-media-and-officials-say-5725688)
+    
+    5hr By [Ryan Morgan](https://www.theepochtimes.com/author/ryan-morgan)
+    
+    [![Thousands Injured in Series of Pager Explosions Across Lebanon, Officials Say](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Thousands Injured in Series of Pager Explosions Across Lebanon, Officials Say](https://img.theepochtimes.com/assets/uploads/2024/09/17/id5725781-GettyImages-2171810482.jpg-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/world/thousands-injured-in-series-of-mysterious-pager-explosions-across-lebanon-state-media-and-officials-say-5725688)
+* [Sean ‘Diddy’ Combs Indicted on Racketeering and Sex Trafficking Charges](https://www.theepochtimes.com/us/sean-diddy-combs-indicted-on-racketeering-and-sex-trafficking-charges-5725705)
+    
+    5hr By [Matt McGregor](https://www.theepochtimes.com/author/matt-mcgregor)
+    
+    [![Sean ‘Diddy’ Combs Indicted on Racketeering and Sex Trafficking Charges](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Sean ‘Diddy’ Combs Indicted on Racketeering and Sex Trafficking Charges](https://img.theepochtimes.com/assets/uploads/2024/09/17/id5725706-AP24261467731863-205x123.jpg.webp)](https://www.theepochtimes.com/us/sean-diddy-combs-indicted-on-racketeering-and-sex-trafficking-charges-5725705)
 * [Meta Launches Instagram Teen Accounts With New Safety Features, Parental Controls](https://www.theepochtimes.com/us/meta-launches-instagram-teen-accounts-with-new-safety-features-parental-controls-5725605)
     
-    1hr By [Chase Smith](https://www.theepochtimes.com/author/chase-smith)
+    7hr By [Chase Smith](https://www.theepochtimes.com/author/chase-smith)
     
     [![Meta Launches Instagram Teen Accounts With New Safety Features, Parental Controls](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Meta Launches Instagram Teen Accounts With New Safety Features, Parental Controls](https://img.theepochtimes.com/assets/uploads/2024/09/17/id5725719-GettyImages-883745980-OP-205x123.jpg)](https://www.theepochtimes.com/us/meta-launches-instagram-teen-accounts-with-new-safety-features-parental-controls-5725605)
-* [Death Toll Rises to 18 in Central Europe Floods](https://www.theepochtimes.com/world/death-toll-rises-to-18-in-central-europe-floods-5725560)
-    
-    4hr By [Owen Evans](https://www.theepochtimes.com/author/owen-evans)
-    
-    [![Death Toll Rises to 18 in Central Europe Floods](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Death Toll Rises to 18 in Central Europe Floods](https://img.theepochtimes.com/assets/uploads/2024/09/16/id5725058-2024-09-15T182142Z_1_LYNXMPEK8E06B_RTROPTP_4_EUROPE-WEATHER-CENTRAL-EUROPE-FLOODS-POLAND-205x123.jpg.webp)](https://www.theepochtimes.com/world/death-toll-rises-to-18-in-central-europe-floods-5725560)
-* [Secret Service Must Shift From Reactive to Readiness Model: Acting Director](https://www.theepochtimes.com/us/secret-service-must-shift-from-reactive-to-readiness-model-acting-director-5725536)
-    
-    5hr By [Stephen Katte](https://www.theepochtimes.com/author/stephen-katte)
-    
-    [![Secret Service Must Shift From Reactive to Readiness Model: Acting Director](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Secret Service Must Shift From Reactive to Readiness Model: Acting Director](https://img.theepochtimes.com/assets/uploads/2024/09/17/id5725595-GettyImages-2172457361.jpg-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/secret-service-must-shift-from-reactive-to-readiness-model-acting-director-5725536)
-* [Maduro Regime Intensifying Repression in Venezuela, Says UN Human Rights Report](https://www.theepochtimes.com/world/maduro-regime-intensifying-repression-in-venezuela-says-un-human-rights-report-5725549)
-    
-    5hr By [Chris Summers](https://www.theepochtimes.com/author/chris-summers)
-    
-    [![Maduro Regime Intensifying Repression in Venezuela, Says UN Human Rights Report](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Maduro Regime Intensifying Repression in Venezuela, Says UN Human Rights Report](https://img.theepochtimes.com/assets/uploads/2024/08/05/id5699937-GettyImages-2163819840-OP-205x123.jpg.webp)](https://www.theepochtimes.com/world/maduro-regime-intensifying-repression-in-venezuela-says-un-human-rights-report-5725549)
-* [A Beginner’s Guide to Muscle Building](https://www.theepochtimes.com/health/a-beginners-guide-to-muscle-building-5720832)
-    
-    6hr By [Sheramy Tsai](https://www.theepochtimes.com/author/sher-tsai)
-    
-    [![A Beginner’s Guide to Muscle Building](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![A Beginner’s Guide to Muscle Building](https://img.theepochtimes.com/assets/uploads/2024/09/11/id5722478-Shutterstock_1456653398-205x123.jpg.webp)](https://www.theepochtimes.com/health/a-beginners-guide-to-muscle-building-5720832)
-* [Trump Vows to End Taxes on Overtime. Here’s What It Means for the Economy](https://www.theepochtimes.com/us/trump-vows-to-end-taxes-on-overtime-heres-what-it-means-for-economy-5725017)
-    
-    7hr By [Andrew Moran](https://www.theepochtimes.com/author/andrew-moran)
-    
-    [![Trump Vows to End Taxes on Overtime. Here’s What It Means for the Economy](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Trump Vows to End Taxes on Overtime. Here’s What It Means for the Economy](https://img.theepochtimes.com/assets/uploads/2024/07/31/id5697546-GettyImages-1163303560-205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-vows-to-end-taxes-on-overtime-heres-what-it-means-for-economy-5725017)
-* [Pivotal Week for Markets: What to Expect From Fed Decision](https://www.theepochtimes.com/us/pivotal-week-for-markets-what-to-expect-from-fed-decision-2-post-5725339)
-    
-    7hr By [Andrew Moran](https://www.theepochtimes.com/author/andrew-moran)
-    
-    [![Pivotal Week for Markets: What to Expect From Fed Decision](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Pivotal Week for Markets: What to Expect From Fed Decision](https://img.theepochtimes.com/assets/uploads/2024/02/28/id5597174-Jerome-PowellKO-205x123.jpg.webp)](https://www.theepochtimes.com/us/pivotal-week-for-markets-what-to-expect-from-fed-decision-2-post-5725339)
-* [How Do I Vote by Mail and How Do I Track My Mail-In Ballot?](https://www.theepochtimes.com/us/how-do-i-vote-by-mail-and-how-do-i-track-my-mail-in-ballot-5725096)
-    
-    7hr By [Stacy Robinson](https://www.theepochtimes.com/author/stacy-robinson)
-    
-    [![How Do I Vote by Mail and How Do I Track My Mail-In Ballot?](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![How Do I Vote by Mail and How Do I Track My Mail-In Ballot?](https://img.theepochtimes.com/assets/uploads/2024/09/06/id5719613-texas-mail-in-ballot-2.jpg-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/how-do-i-vote-by-mail-and-how-do-i-track-my-mail-in-ballot-5725096)
-* [Czech Report Highlights CCP’s Covert Operations to Influence Academia and Politics](https://www.theepochtimes.com/china/czech-report-highlights-ccps-covert-operations-to-influence-academia-and-politics-5725203)
-    
-    7hr By [Dorothy Li](https://www.theepochtimes.com/author/dorothy-li)
-    
-    [![Czech Report Highlights CCP’s Covert Operations to Influence Academia and Politics](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Czech Report Highlights CCP’s Covert Operations to Influence Academia and Politics](https://img.theepochtimes.com/assets/uploads/2024/09/17/id5725606-GettyImages-938693414.jpg-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/china/czech-report-highlights-ccps-covert-operations-to-influence-academia-and-politics-5725203)
-* [Post-Pandemic Cultural Shift Drives School Absentee Crisis](https://www.theepochtimes.com/article/post-pandemic-cultural-shift-drives-school-absentee-crisis-5723856)
-    
-    7hr By [Aaron Gifford](https://www.theepochtimes.com/author/aaron-gifford)
-    
-    [![Post-Pandemic Cultural Shift Drives School Absentee Crisis](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Post-Pandemic Cultural Shift Drives School Absentee Crisis](https://img.theepochtimes.com/assets/uploads/2024/09/17/id5725616-GettyImages-1237663149-205x123.jpg.webp)](https://www.theepochtimes.com/article/post-pandemic-cultural-shift-drives-school-absentee-crisis-5723856)
+    ![Meta Launches Instagram Teen Accounts With New Safety Features, Parental Controls](https://img.theepochtimes.com/assets/uploads/2024/09/17/id5725719-GettyImages-883745980-OP-205x123.jpg.webp)](https://www.theepochtimes.com/us/meta-launches-instagram-teen-accounts-with-new-safety-features-parental-controls-5725605)
 
 [![The Epoch Times](https://www.theepochtimes.com/assets/themes/eet/images/logo_eet.svg)](https://www.theepochtimes.com/)
 
@@ -343,19 +343,19 @@ DOWNLOAD OUR APP
     * [China Insider](https://www.theepochtimes.com/c-china-insider)
     * [Crossroads](https://www.theepochtimes.com/c-crossroads)
 
-* [Bright](https://www.theepochtimes.com/page/bright)
-    * [Lifestyle](https://www.theepochtimes.com/bright/radiant-life)
-    * [Inspired](https://www.theepochtimes.com/bright/inspired)
-    * [Family & Education](https://www.theepochtimes.com/bright/family-education)
-    * [Personal Finance](https://www.theepochtimes.com/business/personal-finance)
-    * [American Essence](https://www.theepochtimes.com/bright/american-essence)
-* [Entertainment](https://www.theepochtimes.com/entertainment)
-    * [Film & TV](https://www.theepochtimes.com/entertainment/film-tv)
-    * [Entertainment News](https://www.theepochtimes.com/entertainment/entertainment-news)
-* [Health](https://www.theepochtimes.com/health)
-    * [Experts](https://www.theepochtimes.com/health/experts)
-    * [Conditions](https://www.theepochtimes.com/health/treatments)
-    * [Life & Wellness](https://www.theepochtimes.com/health/life-wellness)
+* [Bright](https://api-dev.theepochtimes.com/page/bright)
+    * [Lifestyle](https://api-dev.theepochtimes.com/bright/radiant-life)
+    * [Inspired](https://api-dev.theepochtimes.com/bright/inspired)
+    * [Family & Education](https://api-dev.theepochtimes.com/bright/family-education)
+    * [Personal Finance](https://api-dev.theepochtimes.com/business/personal-finance)
+    * [American Essence](https://api-dev.theepochtimes.com/bright/american-essence)
+* [Entertainment](https://api-dev.theepochtimes.com/entertainment)
+    * [Film & TV](https://api-dev.theepochtimes.com/entertainment/film-tv)
+    * [Entertainment News](https://api-dev.theepochtimes.com/entertainment/entertainment-news)
+* [Health](https://api-dev.theepochtimes.com/health)
+    * [Experts](https://api-dev.theepochtimes.com/health/experts)
+    * [Conditions](https://api-dev.theepochtimes.com/health/treatments)
+    * [Life & Wellness](https://api-dev.theepochtimes.com/health/life-wellness)
 * [Special Topics](https://www.theepochtimes.com/most-popular)
     * [Battlefields](https://www.theepochtimes.com/t-battlefields)
 
