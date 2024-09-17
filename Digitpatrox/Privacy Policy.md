@@ -20,16 +20,16 @@ Tuesday, September 17 2024
 
 Latest
 
-* [ITPro IBC2024 Best of Show award winner revealed](https://digitpatrox.com/itpro-ibc2024-best-of-show-award-winner-revealed/)
-* [Slack opens up to third-party AI ‘agents’ – Computerworld](https://digitpatrox.com/slack-opens-up-to-third-party-ai-agents-computerworld/)
-* [You Can Get This MacBook Pro on Sale for $400 Right Now](https://digitpatrox.com/you-can-get-this-macbook-pro-on-sale-for-400-right-now/)
-* [Vendor Spotlight: Guardz](https://digitpatrox.com/vendor-spotlight-guardz/)
-* [Windows 10 Home and Pro ISO files for 32- and 64-bit PCs ready for download](https://digitpatrox.com/windows-10-home-and-pro-iso-files-for-32-and-64-bit-pcs-ready-for-download/)
-* [Best Side-by-Side Refrigerators of 2024](https://digitpatrox.com/best-side-by-side-refrigerators-of-2024/)
-* [How to Use Game Mode on Your iPhone or iPad (and What It Does)](https://digitpatrox.com/how-to-use-game-mode-on-your-iphone-or-ipad-and-what-it-does/)
-* [Microsoft Microsoft 365 Copilot Wave 2 Adds Online Canvas Feature](https://digitpatrox.com/microsoft-microsoft-365-copilot-wave-2-adds-online-canvas-feature/)
-* [The copycats cometh — 3 Android phone makers announce iPhone 16-esque camera control buttons](https://digitpatrox.com/the-copycats-cometh-3-android-phone-makers-announce-iphone-16-esque-camera-control-buttons/)
-* [Tile’s new AirTag competitors now double as panic buttons](https://digitpatrox.com/tiles-new-airtag-competitors-now-double-as-panic-buttons/)
+* [Amazon’s next Prime Day sale is happening on October 8th and 9th](https://digitpatrox.com/amazons-next-prime-day-sale-is-happening-on-october-8th-and-9th/)
+* [Asura Codes (September 2024) | Beebom](https://digitpatrox.com/asura-codes-september-2024-beebom/)
+* [Microsoft revamps M365 Copilot chatbot with Pages shared ‘canvas’ – Computerworld](https://digitpatrox.com/microsoft-revamps-m365-copilot-chatbot-with-pages-shared-canvas-computerworld/)
+* [Wordle Answer for Today, September 17, 2024](https://digitpatrox.com/wordle-answer-for-today-september-17-2024/)
+* [Most Reliable New Sedans You Can Buy](https://digitpatrox.com/most-reliable-new-sedans-you-can-buy/)
+* [Microsoft Office 2024 Is Almost Here](https://digitpatrox.com/microsoft-office-2024-is-almost-here/)
+* [Is it a Safe Password Manager?](https://digitpatrox.com/is-it-a-safe-password-manager/)
+* [AC Milan vs Liverpool live streams: watch Champions League](https://digitpatrox.com/ac-milan-vs-liverpool-live-streams-watch-champions-league/)
+* [TikTok faces a skeptical panel of judges in its existential fight against the US government](https://digitpatrox.com/tiktok-faces-a-skeptical-panel-of-judges-in-its-existential-fight-against-the-us-government/)
+* [NYT Strands Today: Hints, Answers & Spangram for September 17](https://digitpatrox.com/nyt-strands-today-hints-answers-spangram-for-september-17/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,35 +171,35 @@ Popular Posts
     4 weeks ago
     
 
-* [![](https://cdn.mos.cms.futurecdn.net/iaZNYPKU7yyE9XsTDJFXsS-1200-80.jpg)](https://digitpatrox.com/itpro-ibc2024-best-of-show-award-winner-revealed/)
+* [![](https://cdn.vox-cdn.com/thumbor/YsSwJjeePniOk01QDHeAsuHaotg=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/23935558/acastro_STK103__01.jpg)](https://digitpatrox.com/amazons-next-prime-day-sale-is-happening-on-october-8th-and-9th/)
     
-    [ITPro IBC2024 Best of Show award winner revealed](https://digitpatrox.com/itpro-ibc2024-best-of-show-award-winner-revealed/)
+    [Amazon’s next Prime Day sale is happening on October 8th and 9th](https://digitpatrox.com/amazons-next-prime-day-sale-is-happening-on-october-8th-and-9th/)
     
-    1 hour ago
+    28 mins ago
     
-* [![](https://www.computerworld.com/wp-content/uploads/2024/09/3523812-0-97201600-1726513722-original.jpg?quality=50&strip=all&w=1024)](https://digitpatrox.com/slack-opens-up-to-third-party-ai-agents-computerworld/)
+* [![](https://beebom.com/wp-content/uploads/2024/09/Roblox-Asura-cover.jpg)](https://digitpatrox.com/asura-codes-september-2024-beebom/)
     
-    [Slack opens up to third-party AI ‘agents’ – Computerworld](https://digitpatrox.com/slack-opens-up-to-third-party-ai-agents-computerworld/)
+    [Asura Codes (September 2024) | Beebom](https://digitpatrox.com/asura-codes-september-2024-beebom/)
     
-    1 hour ago
+    29 mins ago
     
-* [![](https://lifehacker.com/imagery/articles/01J4ADX16KS8JBGYV1XZCE23EC/hero-image.fill.size_1200x675.png)](https://digitpatrox.com/you-can-get-this-macbook-pro-on-sale-for-400-right-now/)
+* [![](https://www.computerworld.com/wp-content/uploads/2024/09/3523720-0-85570500-1726502803-Copilot-Pages_UI.jpg?quality=50&strip=all&w=1024)](https://digitpatrox.com/microsoft-revamps-m365-copilot-chatbot-with-pages-shared-canvas-computerworld/)
     
-    [You Can Get This MacBook Pro on Sale for $400 Right Now](https://digitpatrox.com/you-can-get-this-macbook-pro-on-sale-for-400-right-now/)
-    
-    2 hours ago
-    
-* [![](https://cdn.comparitech.com/wp-content/uploads/2024/09/Guardz-Vendor-Spotlight.jpeg)](https://digitpatrox.com/vendor-spotlight-guardz/)
-    
-    [Vendor Spotlight: Guardz](https://digitpatrox.com/vendor-spotlight-guardz/)
+    [Microsoft revamps M365 Copilot chatbot with Pages shared ‘canvas’ – Computerworld](https://digitpatrox.com/microsoft-revamps-m365-copilot-chatbot-with-pages-shared-canvas-computerworld/)
     
     2 hours ago
     
-* [![](https://pureinfotech.com/wp-content/uploads/2015/07/windows-10-32-64-bit-download-hero-mauro-huculak.webp)](https://digitpatrox.com/windows-10-home-and-pro-iso-files-for-32-and-64-bit-pcs-ready-for-download/)
+* [![](https://lifehacker.com/imagery/articles/01J7V6T3E2CEJFSFBPVCB0RYD9/hero-image.fill.size_1200x675.jpg)](https://digitpatrox.com/wordle-answer-for-today-september-17-2024/)
     
-    [Windows 10 Home and Pro ISO files for 32- and 64-bit PCs ready for download](https://digitpatrox.com/windows-10-home-and-pro-iso-files-for-32-and-64-bit-pcs-ready-for-download/)
+    [Wordle Answer for Today, September 17, 2024](https://digitpatrox.com/wordle-answer-for-today-september-17-2024/)
     
-    2 hours ago
+    3 hours ago
+    
+* [![](https://article.images.consumerreports.org/image/upload/t_article_tout/v1726089915/prod/content/dam/CRO-Images-2024/Cars/CR-Car-InlineHero-Most-Reliable-New-Sedans-You-Can-Buy-0924)](https://digitpatrox.com/most-reliable-new-sedans-you-can-buy/)
+    
+    [Most Reliable New Sedans You Can Buy](https://digitpatrox.com/most-reliable-new-sedans-you-can-buy/)
+    
+    3 hours ago
     
 
 ![](https://digitpatrox.com/wp-content/uploads/2023/12/Digitpatrox-NEW-Logo-White.png)
@@ -208,48 +208,48 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [1 hour ago
+* [28 mins ago
     
-    ### ITPro IBC2024 Best of Show award winner revealed](https://digitpatrox.com/itpro-ibc2024-best-of-show-award-winner-revealed/)
-* [1 hour ago
+    ### Amazon’s next Prime Day sale is happening on October 8th and 9th](https://digitpatrox.com/amazons-next-prime-day-sale-is-happening-on-october-8th-and-9th/)
+* [29 mins ago
     
-    ### Slack opens up to third-party AI ‘agents’ – Computerworld](https://digitpatrox.com/slack-opens-up-to-third-party-ai-agents-computerworld/)
+    ### Asura Codes (September 2024) | Beebom](https://digitpatrox.com/asura-codes-september-2024-beebom/)
 * [2 hours ago
     
-    ### You Can Get This MacBook Pro on Sale for $400 Right Now](https://digitpatrox.com/you-can-get-this-macbook-pro-on-sale-for-400-right-now/)
+    ### Microsoft revamps M365 Copilot chatbot with Pages shared ‘canvas’ – Computerworld](https://digitpatrox.com/microsoft-revamps-m365-copilot-chatbot-with-pages-shared-canvas-computerworld/)
 
 Most Popular Topics
 
-* [3 weeks ago
+* [2 weeks ago
     
-    ### AI was responsible for the fake quotes in the Megalopolis trailer](https://digitpatrox.com/ai-was-responsible-for-the-fake-quotes-in-the-megalopolis-trailer/)
+    ### Hurry! My favorite Patagonia jacket ever is on sale for 30% off via REI](https://digitpatrox.com/hurry-my-favorite-patagonia-jacket-ever-is-on-sale-for-30-off-via-rei/)
 * [1 week ago
     
-    ### NYT Strands Today: Hints, Answers & Spangram for September 8](https://digitpatrox.com/nyt-strands-today-hints-answers-spangram-for-september-8/)
-* [4 weeks ago
+    ### Today’s Wordle Answer and Hints (September 9, 2024)](https://digitpatrox.com/todays-wordle-answer-and-hints-september-9-2024/)
+* [August 12, 2024
     
-    ### The Best Smartphone Deals for August 2024](https://digitpatrox.com/the-best-smartphone-deals-for-august-2024/)
+    ### In three or four years, ‘we won’t even talk about AI’ – Computerworld](https://digitpatrox.com/in-three-or-four-years-we-wont-even-talk-about-ai-computerworld/)
 
 Last Modified Topics
 
-* [2 hours ago
-    
-    ### How to Use Game Mode on Your iPhone or iPad (and What It Does)](https://digitpatrox.com/how-to-use-game-mode-on-your-iphone-or-ipad-and-what-it-does/)
-* [3 hours ago
-    
-    ### Microsoft Microsoft 365 Copilot Wave 2 Adds Online Canvas Feature](https://digitpatrox.com/microsoft-microsoft-365-copilot-wave-2-adds-online-canvas-feature/)
 * [4 hours ago
     
-    ### The copycats cometh — 3 Android phone makers announce iPhone 16-esque camera control buttons](https://digitpatrox.com/the-copycats-cometh-3-android-phone-makers-announce-iphone-16-esque-camera-control-buttons/)
+    ### Is it a Safe Password Manager?](https://digitpatrox.com/is-it-a-safe-password-manager/)
+* [5 hours ago
+    
+    ### AC Milan vs Liverpool live streams: watch Champions League](https://digitpatrox.com/ac-milan-vs-liverpool-live-streams-watch-champions-league/)
+* [5 hours ago
+    
+    ### TikTok faces a skeptical panel of judges in its existential fight against the US government](https://digitpatrox.com/tiktok-faces-a-skeptical-panel-of-judges-in-its-existential-fight-against-the-us-government/)
 
 Most Viewed Topics
 
 * [August 13, 2024
     
-    ### Best New-Car Deals – Consumer Reports](https://digitpatrox.com/best-new-car-deals-consumer-reports/)
-* [August 12, 2024
+    ### TikTok Is Pushing Old and False News as ”Breaking” Alerts](https://digitpatrox.com/tiktok-is-pushing-old-and-false-news-as-breaking-alerts/)
+* [3 weeks ago
     
-    ### How to enable Do Not Track on your web browser for Windows](https://digitpatrox.com/how-to-enable-do-not-track-on-your-web-browser-for-windows/)
+    ### Getting Your iPhone Repaired Could Ban You From Snapchat](https://digitpatrox.com/getting-your-iphone-repaired-could-ban-you-from-snapchat/)
 * [4 weeks ago
     
     ### Wordle Answer for Today, August 21, 2024](https://digitpatrox.com/wordle-answer-for-today-august-21-2024/)
