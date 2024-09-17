@@ -59,7 +59,6 @@
 Privacy Policy
 ==============
 
-* [Home](https://tcog.com/)
 * [Privacy Policy](https://tcog.com/privacy-policy/)
 
 Texoma Council of Governments values your privacy. Below is TCOG’s policy on what information is obtained on this website.
