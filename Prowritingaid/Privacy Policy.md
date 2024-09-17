@@ -13,15 +13,15 @@
 * [Reviews](https://prowritingaid.com/reviews)
 * [Pricing](https://prowritingaid.com/pricing)
 * [Use App](https://prowritingaid.com/en/Analysis/WebEditor/Go?redirectToDocs=true)
-* [Learn](https://prowritingaid.com/en/Blog/Categories)
+* [Learn](https://prowritingaid.com/blog)
     
-    [Blog](https://prowritingaid.com/en/Blog/Categories)[Grammar Guide](https://prowritingaid.com/en/GrammarGuide)[Community](https://community.prowritingaid.com/home)[Events](https://prowritingaid.com/online-creative-writing-classes)[FAQ](https://prowritingaid.com/en/App/FAQ)
+    [Blog](https://prowritingaid.com/blog)[Grammar Guide](https://prowritingaid.com/en/GrammarGuide)[Community](https://community.prowritingaid.com/home)[Events](https://prowritingaid.com/online-creative-writing-classes)[FAQ](https://help.prowritingaid.com/)
     
-* [Blog](https://prowritingaid.com/en/Blog/Categories)
+* [Blog](https://prowritingaid.com/blog)
 * [Grammar Guide](https://prowritingaid.com/en/GrammarGuide)
 * [Community](https://community.prowritingaid.com/home)
 * [Events](https://prowritingaid.com/online-creative-writing-classes)
-* [FAQ](https://prowritingaid.com/en/App/FAQ)
+* [FAQ](https://help.prowritingaid.com/)
 * [Log in](https://prowritingaid.com/en/Account/Login2)
 * [Sign up](https://prowritingaid.com/sign-up)
 
