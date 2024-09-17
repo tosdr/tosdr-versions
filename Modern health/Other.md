@@ -20,7 +20,7 @@ Company
 
 [About Us](https://www.modernhealth.com/about-us)[Press](https://www.modernhealth.com/press)[DEIB](https://www.modernhealth.com/deib)[Careers](https://www.modernhealth.com/careers)
 
-[Events](https://www.modernhealth.com/events)
+[Elevate](http://www.modernhealth.com/elevate#register)
 
 Login
 
