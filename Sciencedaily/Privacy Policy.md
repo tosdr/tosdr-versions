@@ -208,6 +208,8 @@ this hour
 
 * * *
 
+* [Seawater Into Fresh Water](https://www.sciencedaily.com/releases/2024/09/240911142056.htm)
+* [Securing Beer and Whiskey's Future](https://www.sciencedaily.com/releases/2024/09/240911112100.htm)
 * [Cosmology's Two Biggest Puzzles](https://www.sciencedaily.com/releases/2024/09/240913183504.htm)
 * [Huge Gamma-Ray Burst Collection](https://www.sciencedaily.com/releases/2024/09/240913003326.htm)
 * [Unprecedented Control of SIV Replication](https://www.sciencedaily.com/releases/2024/09/240912161720.htm)
@@ -216,8 +218,6 @@ this hour
 * [Folded or Cut, This Li-S Battery Keeps Going](https://www.sciencedaily.com/releases/2024/09/240913105258.htm)
 * [Bacteria Work Together in Difficult Conditions](https://www.sciencedaily.com/releases/2024/09/240913105250.htm)
 * [Could Invisibility Cloaks Become a Reality?](https://www.sciencedaily.com/releases/2024/09/240912135948.htm)
-* [Antifungal Resistance Is Growing](https://www.sciencedaily.com/releases/2024/09/240913003332.htm)
-* [Easter Island: Popular Theory Disproven](https://www.sciencedaily.com/releases/2024/09/240911112147.htm)
 
 Trending Topics
 ---------------
@@ -228,11 +228,11 @@ this week
 
 [HEALTH](https://www.sciencedaily.com/news/top/health/)
 
+[Heart Disease](https://www.sciencedaily.com/news/health_medicine/heart_disease/)
+
 [Obesity](https://www.sciencedaily.com/news/health_medicine/obesity/)
 
 [Diabetes](https://www.sciencedaily.com/news/health_medicine/diabetes/)
-
-[Heart Disease](https://www.sciencedaily.com/news/health_medicine/heart_disease/)
 
 [PHYSICAL & TECH](https://www.sciencedaily.com/news/top/technology/)
 
