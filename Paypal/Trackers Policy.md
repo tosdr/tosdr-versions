@@ -74,8 +74,6 @@ For more information on third-party advertising-related cookies, interest-based 
 
 California law requires us to let you know how we respond to web browser Do Not Track (DNT) signals. Because there currently isn't an industry or legal standard for recognizing or honoring DNT signals, we don't respond to them currently. We await the result of work by the privacy community and industry to determine when such a response is appropriate and what form it should take.
 
-[PayPal Logo](https://www.paypal.com/us/home)
-
 * [Help](https://www.paypal.com/us/cshelp/personal)
 * [Contact](https://www.paypal.com/us/smarthelp/contact-us)
 * [Fees](https://www.paypal.com/us/webapps/mpp/paypal-fees)
