@@ -259,6 +259,7 @@ Browse
         * [Monitor Mounts](https://www.maplin.co.uk/collections/monitor-mounts)
         * [Keyboards](https://www.maplin.co.uk/collections/keyboards)
         * [Mice](https://www.maplin.co.uk/collections/mice)
+        * [PC Speakers](https://www.maplin.co.uk/collections/pc-speakers)
         * [Card Readers](https://www.maplin.co.uk/collections/card-readers)
         * [External CD / DVD Drives](https://www.maplin.co.uk/collections/external-dvd-drives)
         
@@ -1055,6 +1056,7 @@ Browse
     * [Monitor Mounts](https://www.maplin.co.uk/collections/monitor-mounts)
     * [Keyboards](https://www.maplin.co.uk/collections/keyboards)
     * [Mice](https://www.maplin.co.uk/collections/mice)
+    * [PC Speakers](https://www.maplin.co.uk/collections/pc-speakers)
     * [Card Readers](https://www.maplin.co.uk/collections/card-readers)
     * [External CD / DVD Drives](https://www.maplin.co.uk/collections/external-dvd-drives)
     
