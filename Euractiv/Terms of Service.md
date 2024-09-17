@@ -424,9 +424,9 @@ Toggle navigation
     
     ##### Promoted Content
     
+    * [Future-proofing the EU’s road transport sector: a roadmap for policymaker action](https://www.euractiv.com/section/transport/opinion/future-proofing-the-eus-road-transport-sector-a-roadmap-for-policymaker-action/)
     * [Paving the Way: Fostering Affordable, Sustainable, and Safe Mobility for All](https://www.euractiv.com/section/transport/opinion/paving-the-way-fostering-affordable-sustainable-and-safe-mobility-for-all/)
     * [New multimodal infrastructure in CEE region to help EU meet its transport goals](https://www.euractiv.com/section/transport/opinion/new-multimodal-infrastructure-in-cee-region-to-help-eu-meet-its-transport-goals/)
-    * [Sustainable Journey: Navigating the Future of Aviation](https://www.euractiv.com/section/aviation/video/sustainable-journey-navigating-the-future-of-aviation/)
     
 
 1. [Home](https://www.euractiv.com/)
@@ -988,13 +988,13 @@ Languages: [Français](https://www.euractiv.fr/?post_type=page&p=179361) | [Deut
 * 1[China's green 'trojan horses' are starting to divide Europe](http://en.euractiv.eu/section/energy-environment/opinion/chinas-green-trojan-horses-are-starting-to-divide-europe/?utm_source=website&utm_campaign=popular)
 * 2[Poland backs ending EU benefits for Ukrainian men of fighting age](http://en.euractiv.eu/section/europe-s-east/news/poland-backs-ending-eu-benefits-for-ukrainian-men-of-fighting-age/?utm_source=website&utm_campaign=popular)
 * 3[French Commissioner Thierry Breton resigns over row with von der Leyen](http://en.euractiv.eu/section/defence-and-security/news/french-commissioner-thierry-breton-resigns-over-row-with-von-der-leyen/?utm_source=website&utm_campaign=popular)
-* 4['Reward those who serve our planet': Von der Leyen floats 'nature credits'](http://en.euractiv.eu/section/biodiversity/news/reward-those-who-serve-our-planet-von-der-leyen-floats-nature-credits/?utm_source=website&utm_campaign=popular)
-* 5[Austria’s biggest utility company to ditch Russian gas from 2025](http://en.euractiv.eu/section/energy-environment/news/austrias-biggest-utility-company-to-ditch-russian-gas-from-2025/?utm_source=website&utm_campaign=popular)
-* 6[NATO chief: Each country to decide if Ukraine can use its long-range missiles on Russia](http://en.euractiv.eu/section/global-europe/news/nato-chief-each-country-to-decide-if-ukraine-can-use-its-long-range-missiles-on-russia/?utm_source=website&utm_campaign=popular)
-* 7[European competitiveness in the energy transition: Shell's views for the next EU cycle](http://en.euractiv.eu/section/energy-environment/opinion/european-competitiveness-in-the-energy-transition-shells-views-for-the-next-eu-cycle/?utm_source=website&utm_campaign=popular)
-* 8[Stéphane Séjourné’s nomination brings key Macron ally to European Commission](http://en.euractiv.eu/section/politics/news/stephane-sejournes-nomination-brings-key-macron-ally-to-european-commission/?utm_source=website&utm_campaign=popular)
-* 9[New term, new EU foreign policy?](http://en.euractiv.eu/section/global-europe/news/new-term-new-eu-foreign-policy/?utm_source=website&utm_campaign=popular)
-* 10[New Dutch government unveils toughest asylum reform in history](http://en.euractiv.eu/section/politics/news/new-dutch-government-unveils-toughest-asylum-reform-in-history/?utm_source=website&utm_campaign=popular)
+* 4[NATO chief: Each country to decide if Ukraine can use its long-range missiles on Russia](http://en.euractiv.eu/section/global-europe/news/nato-chief-each-country-to-decide-if-ukraine-can-use-its-long-range-missiles-on-russia/?utm_source=website&utm_campaign=popular)
+* 5['Reward those who serve our planet': Von der Leyen floats 'nature credits'](http://en.euractiv.eu/section/biodiversity/news/reward-those-who-serve-our-planet-von-der-leyen-floats-nature-credits/?utm_source=website&utm_campaign=popular)
+* 6[Austria’s biggest utility company to ditch Russian gas from 2025](http://en.euractiv.eu/section/energy-environment/news/austrias-biggest-utility-company-to-ditch-russian-gas-from-2025/?utm_source=website&utm_campaign=popular)
+* 7[Von der Leyen unveils EU Commission top jobs, with some surprises](http://en.euractiv.eu/section/politics/news/von-der-leyen-unveils-eu-commission-top-jobs-with-some-surprises/?utm_source=website&utm_campaign=popular) 
+* 8[EU Commission rebuffs car industry calls to delay CO2 targets](http://en.euractiv.eu/section/electric-cars/news/eu-commission-rebuffs-car-industry-calls-to-delay-co2-targets/?utm_source=website&utm_campaign=popular)
+* 9[European competitiveness in the energy transition: Shell's views for the next EU cycle](http://en.euractiv.eu/section/energy-environment/opinion/european-competitiveness-in-the-energy-transition-shells-views-for-the-next-eu-cycle/?utm_source=website&utm_campaign=popular)
+* 10[Intel halts plans for flagship factories in Germany, Poland amid financial woes](http://en.euractiv.eu/section/industrial-strategy/news/intel-halts-plans-for-flagship-factories-in-germany-poland-amid-financial-woes/?utm_source=website&utm_campaign=popular)
 
 ###### Advertisement
 
