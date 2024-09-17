@@ -2,8 +2,6 @@
 
  
 
-[Log in](https://www.racing.com/plus)[Sign up](https://www.racing.com/plus/signup)
-
 Terms and Conditions
 ====================
 
