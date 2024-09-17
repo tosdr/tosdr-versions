@@ -1,7 +1,3 @@
-![](https://www.facebook.com/tr?id=1645271685681457&ev=PageView&noscript=1)              
-
-  
-
 * [fb](https://www.facebook.com/GoHealthyMale/)
 * [tw](https://twitter.com/GoHealthyMale)
 * [insta](https://www.instagram.com/gohealthymale/)
