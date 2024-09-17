@@ -128,39 +128,39 @@ Advertisement
     The Beginning and the End of the Universe
     
     Episode 1: The BeginingEmbarking on a cosmic journey, Professor Jim Al-Khalili transports us through the corridors of time to confront science's most profound inquiry: the genesis of the univers...](https://documentaryheaven.com/the-beginning-and-the-end-of-the-universe/ "The Beginning and the End of the Universe")
-* [![These Streets Are Watching](/wp-content/thumbnails/1269-100x70.jpg?x53432)
+* [![The War On Drugs: The Prison Industrial Complex](/wp-content/thumbnails/958-100x70.gif?x53432)
     
-    These Streets Are Watching
+    The War On Drugs: The Prison Industrial Complex
     
-    However, if nothing else, cop watch can and will and does inform citizens of their lefts as citizens. Informs citizens of what is proper police conduct and what is improper police conduct. Informs cit...](https://documentaryheaven.com/these-streets-are-watching/ "These Streets Are Watching")
+    The war on drugs has been going on for more than three decades. Today, nearly 500,000 Americans are imprisoned on drug charges. In 1980 the number was 50,000. Last year $40 billion in taxpayer dollars...](https://documentaryheaven.com/the-war-on-drugs-the-prison-industrial-complex/ "The War On Drugs: The Prison Industrial Complex")
 
 ###### Throwback Documentaries
 
-* [![Cops and Robbers](/wp-content/thumbnails/14080-100x70.jpg?x53432)
+* [![Apollo Zero](/wp-content/thumbnails/2390-100x70.jpg?x53432)
     
-    Cops and Robbers
+    Apollo Zero
     
-    Corey Pegues is Retired NYPD Commander turned author, he grew up in Jamaica, Queens during the 70's and 80's, a rough time for New York with regards to drug related crime. As a kid he played Cops and](https://documentaryheaven.com/cops-and-robbers/ "Cops and Robbers")
-* [![Valveman](/wp-content/thumbnails/2630-100x70.jpg?x53432)
+    Think about this: to date, only three countries have been able to put a man merely in Earth orbit – the United States, Russia, and China. That speaks to how difficult it is just to get into orbit. Nex](https://documentaryheaven.com/apollo-zero/ "Apollo Zero")
+* [![What Really Happened in Wuhan](/wp-content/thumbnails/16591-100x70.jpg?x53432)
     
-    Valveman
+    What Really Happened in Wuhan
     
-    Valveman is the story of one mans lifetime obsession vintage radio,told with warmth,humour and innovation. Gerald Wells is Valveman.his lifes work has been to amass one of the worlds largest collecti](https://documentaryheaven.com/valveman/ "Valveman")
-* [![Slavery: A Global Investigation](/wp-content/thumbnails/2420-100x70.jpg?x53432)
+    In this Sky News Australia special investigation, we delve into the origins of COVID-19 in an attempt to reveal what it was that really happened in Wuhan at the start of the global pandemic. We hear](https://documentaryheaven.com/what-really-happened-in-wuhan/ "What Really Happened in Wuhan")
+* [![Blood Coltan](/wp-content/thumbnails/1855-100x70.jpg?x53432)
     
-    Slavery: A Global Investigation
+    Blood Coltan
     
-    The global economy has created immense wealth in the West, but it has also spawned a sinister new market in slaves – in Africa, Asia and South America, and on our own doorsteps in the capitals of Brit](https://documentaryheaven.com/slavery-a-global-investigation/ "Slavery: A Global Investigation")
-* [![King: Dreamer](/wp-content/thumbnails/3658-100x70.jpg?x53432)
+    The mobile phone is a remarkable piece of engineering. But look inside. There’s blood in this machine. There’s blood in this device because your mobile contains tiny electronic circuits, and they coul](https://documentaryheaven.com/blood-coltan/ "Blood Coltan")
+* [![The Coca-Cola Case](/wp-content/thumbnails/5616-100x70.jpg?x53432)
     
-    King: Dreamer
+    The Coca-Cola Case
     
-    Tom Brokaw narrates this documentary on Martin Luther King Jr. For some of us, it’s hard to believe that Dr. King was assassinated 40 years ago this month at the age of 39. Dr. King knew he would die](https://documentaryheaven.com/king-dreamer/ "King: Dreamer")
-* [![American Grindhouse](/wp-content/thumbnails/5368-100x70.jpg?x53432)
+    This feature length documentary present a searing indictment of the Coca-Cola empire and its alleged kidnapping, torture and murder of union leaders trying to improve working conditions in Colombia, G](https://documentaryheaven.com/the-coca-cola-case/ "The Coca-Cola Case")
+* [![Tibet: A Buddhist Trilogy](/wp-content/thumbnails/2336-100x70.jpg?x53432)
     
-    American Grindhouse
+    Tibet: A Buddhist Trilogy
     
-    This documentary explores the hidden history of the American Exploitation Film. The movie digs deep into this often overlooked category of U.S. cinema and unearths the shameless and occasionally shock](https://documentaryheaven.com/american-grindhouse/ "American Grindhouse")
+    Part I: The Dalai Lama, The Monasteries and the People. Filmed in the Dalai Lama’s residence in Dharamsala, North India, and in the re-built Sera Monastery, the second largest monastery of the old Tib](https://documentaryheaven.com/tibet-a-buddhist-trilogy/ "Tibet: A Buddhist Trilogy")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
