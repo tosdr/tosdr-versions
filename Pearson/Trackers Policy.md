@@ -53,7 +53,7 @@ United States
         
         * [All K-12 School Support](https://www.pearson.com/en-us/schools/support.html)
         
-    * [K-12 Academic & CTE](https://www.pearson.com/en-us/schools/products-services/k12-academic-cte.html)
+    * [College Readiness & Career Education](https://www.pearson.com/en-us/schools/college-readiness-career-education.html)
         
         [Back to Schools](#)
         
@@ -64,10 +64,7 @@ United States
         
         ### Products & Services
         
-        * [AP, Honors & Electives](https://www.pearson.com/en-us/schools/products-services/k12-academic-cte.html)
-        * [CTE Pathways (K-12)](https://www.pearson.com/en-us/schools/products-services/k12-academic-cte/cte-pathways.html)
-        * [Dual Enrollment Programs](https://www.pearson.com/en-us/schools/products-services/k12-academic-cte/dual-enrollment-programs.html)
-        * [Results & Success Stories](https://www.pearson.com/en-us/schools/products-services/k12-academic-cte/results.html)
+        * [College Readiness & Career Education](https://www.pearson.com/en-us/schools/college-readiness-career-education.html)
         
         ### Get Support
         
