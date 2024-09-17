@@ -40,7 +40,6 @@
         * [Release Announcements](https://www.ccleaner.com/knowledge?c=release-announcement)
         * [Newsroom](https://newsroom.gendigital.com/ccleaner)
         * [Privacy Policy](https://www.ccleaner.com/legal/general-privacy-policy)
-        * [Data Factsheet](https://www.ccleaner.com/about/data-factsheet)
         * [Cookies Policy](https://www.ccleaner.com/about/cookies-policy)
         * [Terms of Use](https://www.ccleaner.com/about/terms-of-use)
         * [Supplier Guidelines](https://www.ccleaner.com/legal/supplier-guidelines)
