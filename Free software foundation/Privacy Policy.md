@@ -136,13 +136,13 @@ Enter your email address to receive our monthly newsletter, the
 
 [Recent blogs](https://www.fsf.org/blogs/recent-blog-posts)
 
+[Free software in the EU needs your help! Join the international effort before September 20](https://www.fsf.org/blogs/community/free-software-in-the-eu-needs-your-help)
+
 [Free software in the EU needs your help! Join the ongoing Digital Europe Freedom Programme consultation by September 20](https://www.fsf.org/blogs/community/support-needed-for-free-software-in-eu)
 
 [August GNU Spotlight with Amin Bandali](https://www.fsf.org/blogs/community/august-gnu-spotlight-with-amin-bandali "Fifteen new GNU releases in the last month (as of August 31, 2024):")
 
 [Join us in saying goodbye to our beloved office on August 16!](https://www.fsf.org/blogs/community/fsf-office-closing-party)
-
-[Call for volunteers: Help us with the GNU Press shop and new member mailings](https://www.fsf.org/blogs/community/help-us-with-the-gnu-press-shop-and-new-member-mailings)
 
 [Recent blogs - More…](https://www.fsf.org/blogs/recent-blog-posts)
 
