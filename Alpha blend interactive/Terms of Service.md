@@ -137,9 +137,12 @@ Rules, guidelines & ToS
         
         * [CVR Asset Info](https://documentation.abinteractive.net/cck/components/CVRAssetInfo/)
         * [Combat System](https://documentation.abinteractive.net/cck/components/Combat%20System/)
+        * [Control Point](https://documentation.abinteractive.net/cck/components/Control%20Point/)
         * [Damage](https://documentation.abinteractive.net/cck/components/Damage/)
         * [Game Instance Controller](https://documentation.abinteractive.net/cck/components/Game%20Instance%20Controller/)
+        * [Gun Controller](https://documentation.abinteractive.net/cck/components/Gun%20Controller/)
         * [Object Health](https://documentation.abinteractive.net/cck/components/Object%20Health/)
+        * [Score Board Controller](https://documentation.abinteractive.net/cck/components/Score%20Board%20Controller/)
         * [CVR Advanced Avatar Trigger Helper](https://documentation.abinteractive.net/cck/components/aas-trigger-helper/)
         * [CVR Advanced Avatar Trigger](https://documentation.abinteractive.net/cck/components/aas-trigger/)
         * [CVR Animator Driver](https://documentation.abinteractive.net/cck/components/animator-driver/)
