@@ -78,7 +78,6 @@ Microsoft Services Agreement
         * [Microsoft Rewards](https://www.microsoft.com/rewards)
         * [Free downloads & security](https://www.microsoft.com/en-us/download)
         * [Education](https://www.microsoft.com/en-us/education)
-        * [Gift cards](https://www.microsoft.com/en-us/store/b/gift-cards)
         * [Licensing](https://www.microsoft.com/licensing/)
         * [Unlocked stories](https://unlocked.microsoft.com/)
     * [View Sitemap](https://www.microsoft.com/en-us/sitemap.aspx)
