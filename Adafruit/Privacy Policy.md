@@ -404,9 +404,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ the future is not what it used to be”
+“ Nothing is work unless you'd rather be doing something else”
 
-[Laura Riding and Robert Graves](https://quoteinvestigator.com/2012/12/06/future-not-used/#return-note-4966-8)
+[George Halas](http://en.wikipedia.org/wiki/George_Halas)
 
 [](https://www.adafruit.com/about)
 
