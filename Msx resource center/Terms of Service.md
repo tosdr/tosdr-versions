@@ -153,10 +153,10 @@ Latest reactions
 
 Latest forum posts
 
+* [V9990 incomplete initialization on ASM Ghost'n'Goblins ?](https://www.msx.org/forum/msx-talk/software/v9990-incomplete-initialization-on-asm-ghostngoblins?page=5 "V9990 incomplete initialization on ASM Ghost'n'Goblins ?")
 * [WonderTANG! Who wants to juice up your MSX?](https://www.msx.org/forum/msx-talk/hardware/wondertang-who-wants-to-juice-up-your-msx?page=49 "WonderTANG! Who wants to juice up your MSX?")
 * [Penguin Adventure Remake - pre Alpha](https://www.msx.org/forum/msx-talk/general-discussion/penguin-adventure-remake-pre-alpha?page=1 "Penguin Adventure Remake - pre Alpha")
 * [Save MRC](https://www.msx.org/forum/msx-talk/msx-resource-center/save-mrc?page=3 "Save MRC ")
-* [V9990 incomplete initialization on ASM Ghost'n'Goblins ?](https://www.msx.org/forum/msx-talk/software/v9990-incomplete-initialization-on-asm-ghostngoblins?page=5 "V9990 incomplete initialization on ASM Ghost'n'Goblins ?")
 * [Please help testing upcoming openMSX release!](https://www.msx.org/forum/msx-talk/openmsx/please-help-testing-upcoming-openmsx-release?page=117 "Please help testing upcoming openMSX release!")
 * [Cannot write .dsk files to real floppy on MSX](https://www.msx.org/forum/msx-talk/hardware/cannot-write-dsk-files-to-real-floppy-on-msx?page=2 "Cannot write .dsk files to real floppy on MSX")
 * [Emulator / debugger recommendations for development on PC](https://www.msx.org/forum/msx-talk/development/emulator-debugger-recommendations-for-development-on-pc "Emulator / debugger recommendations for development on PC")
