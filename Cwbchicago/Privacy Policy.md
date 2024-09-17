@@ -242,35 +242,35 @@ We have included on the pages of this website a robots meta tag with the “noai
 
 This privacy policy was created in party by using [Termly’s Privacy Policy Generator](https://termly.io/products/privacy-policy-generator/?ftseo).
 
-[![](https://cwbchicago.com/wp-content/uploads/2024/09/5200-block-north-winthrop-326x245.jpg)](https://cwbchicago.com/2024/09/2-more-people-shot-in-edgewater-overnight-as-2023-victim-tally-exceeds-the-past-2-years-combined.html "2 more people shot in Edgewater overnight, as 2024 victim tally exceeds the past 2 years combined")
+[![](https://cwbchicago.com/wp-content/uploads/2024/09/Davenchia-Lewis-326x245.jpg)](https://cwbchicago.com/2024/09/serial-lululemon-robber-charged-after-cops-recognize-his-white-sox-tattoo-on-surveillance-video.html "Serial Lululemon robber charged after cops recognize his White Sox tattoo on surveillance video")
 
-Edgewater
+Lakeview
 
-### [2 more people shot in Edgewater overnight, as 2024 victim tally exceeds the past 2 years combined](https://cwbchicago.com/2024/09/2-more-people-shot-in-edgewater-overnight-as-2023-victim-tally-exceeds-the-past-2-years-combined.html "2 more people shot in Edgewater overnight, as 2024 victim tally exceeds the past 2 years combined")
+### [Serial Lululemon robber charged after cops recognize his White Sox tattoo on surveillance video](https://cwbchicago.com/2024/09/serial-lululemon-robber-charged-after-cops-recognize-his-white-sox-tattoo-on-surveillance-video.html "Serial Lululemon robber charged after cops recognize his White Sox tattoo on surveillance video")
 
-[September 14, 2024 9:26 AM](https://cwbchicago.com/2024/09)
+[September 15, 2024 9:45 AM](https://cwbchicago.com/2024/09)
 
-Two people were shot while “celebrating” on an Edgewater street overnight, Chicago police said. That brings the neighborhood’s shooting victim total for 2023 up to 16. That’s more people shot than during all of 2021 and 2022 combined.[](https://cwbchicago.com/2024/09/2-more-people-shot-in-edgewater-overnight-as-2023-victim-tally-exceeds-the-past-2-years-combined.html "2 more people shot in Edgewater overnight, as 2024 victim tally exceeds the past 2 years combined")
+A parolee has been charged with taking merchandise worth more than $30,000 during three raids on Lululemon stores in Lakeview and the West Loop.[](https://cwbchicago.com/2024/09/serial-lululemon-robber-charged-after-cops-recognize-his-white-sox-tattoo-on-surveillance-video.html "Serial Lululemon robber charged after cops recognize his White Sox tattoo on surveillance video")
 
-[![](https://cwbchicago.com/wp-content/uploads/2024/09/158-roosevelt-326x245.jpg)](https://cwbchicago.com/2024/09/cops-launch-homicide-investigation-after-3-are-ejected-in-south-loop-traffic-crash.html "Cops launch homicide investigation after 3 are ejected in South Loop traffic crash")
+[![](https://cwbchicago.com/wp-content/uploads/2024/09/1001-West-Belmont-map-chicago-326x245.jpg)](https://cwbchicago.com/2024/09/rideshare-passenger-and-man-shot-near-belmont-red-line-station.html "Rideshare passenger among 2 shot near Belmont Red Line station")
 
-South Loop
+Lakeview
 
-### [Cops launch homicide investigation after 3 are ejected in South Loop traffic crash](https://cwbchicago.com/2024/09/cops-launch-homicide-investigation-after-3-are-ejected-in-south-loop-traffic-crash.html "Cops launch homicide investigation after 3 are ejected in South Loop traffic crash")
+### [Rideshare passenger among 2 shot near Belmont Red Line station](https://cwbchicago.com/2024/09/rideshare-passenger-and-man-shot-near-belmont-red-line-station.html "Rideshare passenger among 2 shot near Belmont Red Line station")
 
-[September 14, 2024 8:09 AM](https://cwbchicago.com/2024/09)
+[September 15, 2024 6:41 AM](https://cwbchicago.com/2024/09)
 
-Chicago police are conducting a homicide investigation after a tow truck driver caused a fatal traffic crash in the South Loop overnight and fled the scene.[](https://cwbchicago.com/2024/09/cops-launch-homicide-investigation-after-3-are-ejected-in-south-loop-traffic-crash.html "Cops launch homicide investigation after 3 are ejected in South Loop traffic crash")
+A rideshare passenger suffered a graze wound to her forehead overnight in Lakeview.[](https://cwbchicago.com/2024/09/rideshare-passenger-and-man-shot-near-belmont-red-line-station.html "Rideshare passenger among 2 shot near Belmont Red Line station")
 
-[![](https://cwbchicago.com/wp-content/uploads/2024/09/wacker-326x245.jpg)](https://cwbchicago.com/2024/09/2-shot-near-michigan-avenue-bridge-during-mexican-independence-day-revelry.html "2 shot near Michigan Avenue Bridge during Mexican Independence Day revelry")
+[![](https://cwbchicago.com/wp-content/uploads/2024/09/UBER_LYFT_GUN-edited-326x245.jpg)](https://cwbchicago.com/2024/09/uber-lyft-drivers-have-been-robbed-8-times-on-the-same-chicago-street-police-say.html "Uber, Lyft drivers have been robbed 8 times on the same Chicago street, police say")
 
-Loop
+South Shore
 
-### [2 shot near Michigan Avenue Bridge during Mexican Independence Day revelry](https://cwbchicago.com/2024/09/2-shot-near-michigan-avenue-bridge-during-mexican-independence-day-revelry.html "2 shot near Michigan Avenue Bridge during Mexican Independence Day revelry")
+### [Uber, Lyft drivers have been robbed 8 times on the same Chicago street, police say](https://cwbchicago.com/2024/09/uber-lyft-drivers-have-been-robbed-8-times-on-the-same-chicago-street-police-say.html "Uber, Lyft drivers have been robbed 8 times on the same Chicago street, police say")
 
-[September 14, 2024 7:10 AM](https://cwbchicago.com/2024/09)
+[September 14, 2024 7:32 PM](https://cwbchicago.com/2024/09)
 
-Two people were shot as late-night revelers celebrated Mexican Independence Day weekend in the Loop early Saturday morning.[](https://cwbchicago.com/2024/09/2-shot-near-michigan-avenue-bridge-during-mexican-independence-day-revelry.html "2 shot near Michigan Avenue Bridge during Mexican Independence Day revelry")
+Police are out with a fresh warning that Lyft and Uber drivers will definitely want to keep in mind. It involves a series of robberies and thefts targeting rideshare drivers who accept calls for service on three blocks along the same South Shore street.[](https://cwbchicago.com/2024/09/uber-lyft-drivers-have-been-robbed-8-times-on-the-same-chicago-street-police-say.html "Uber, Lyft drivers have been robbed 8 times on the same Chicago street, police say")
 
 Search
 
@@ -384,6 +384,9 @@ CWBChicago was created in 2013 by five Chicagoans who had grown disheartened wit
 Our coverage area has expanded to cover other North Side neighborhoods. But our mission remains unchanged: To provide original public safety reporting with better context and greater detail than mainstream media outlets.
 
 ###### Other Places of Interest
+
+**[Cook County Record](https://cookcountyrecord.com/)**  
+Civil court filings and decisions
 
 **[Chicago Public Square](https://www.chicagopublicsquare.com/)**  
 Daily news roundup by Charlie Meyerson
