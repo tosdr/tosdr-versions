@@ -198,7 +198,15 @@ O Portal TNH1 não entra em contato com os ganhadores de qualquer promoção atr
 * [ÚLTIMAS](#ultimas "Ultimas")
 * [VÍDEOS](#videos "Videos")
 
-[![Cunhado suspeito de matar comerciante após traição é preso em esconderijo](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/c/9/csm_Cunhado_suspeito_de_matar_comerciante_apos_traicao_e_preso_em_esconderijo_-_foto_Reproducao_d92a98156f.jpg)
+[![Ator Mário Gomes é despejado da casa onde mora com a família, no RJ](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/a/b/csm_mario-gomes-despejado-residEncia-familia-reporducao-sandro-cardozo-extra_6a15080d97.jpg)
+
+foi para leilão
+
+foi para leilão
+
+Ator Mário Gomes é despejado da casa onde mora com a família, no RJ
+
+Ator Mário Gomes é despejado da casa onde mora com a família, no RJ](https://www.tnh1.com.br/noticia/nid/ator-mario-gomes-e-despejado-da-casa-onde-mora-com-a-familia-no-rj/ "Ator Mário Gomes é despejado da casa onde mora com a família, no RJ")[![Cunhado suspeito de matar comerciante após traição é preso em esconderijo](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/c/9/csm_Cunhado_suspeito_de_matar_comerciante_apos_traicao_e_preso_em_esconderijo_-_foto_Reproducao_d92a98156f.jpg)
 
 praia grande
 
@@ -206,65 +214,57 @@ praia grande
 
 Cunhado suspeito de matar comerciante após traição é preso em esconderijo
 
-Cunhado suspeito de matar comerciante após traição é preso em esconderijo](https://www.tnh1.com.br/noticia/nid/cunhado-suspeito-de-matar-comerciante-apos-traicao-e-preso-em-esconderijo/ "Cunhado suspeito de matar comerciante após traição é preso em esconderijo")[![Veja quem são os primeiros participantes confirmados em A Fazenda 16](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/7/b/csm_Camila_Moura_-_a_Fazenda_-_foto_Reproducao__Instagram_732e1e4d59.jpg)
+Cunhado suspeito de matar comerciante após traição é preso em esconderijo](https://www.tnh1.com.br/noticia/nid/cunhado-suspeito-de-matar-comerciante-apos-traicao-e-preso-em-esconderijo/ "Cunhado suspeito de matar comerciante após traição é preso em esconderijo")[![Projetado por sobrinha de Senna, maior arranha-céu do mundo é anunciado no Brasil ](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/4/0/csm_senna-toweer-balneario-camboriu-reproducao-fg-empreendimentos_4548d1f35c.jpg)
 
-reality show
+mais de 500 metros
 
-reality show
+mais de 500 metros
 
-Veja quem são os primeiros participantes confirmados em A Fazenda 16
+Projetado por sobrinha de Senna, maior arranha-céu do mundo é anunciado no Brasil
 
-Veja quem são os primeiros participantes confirmados em A Fazenda 16](https://www.tnh1.com.br/noticia/nid/veja-quem-sao-os-primeiros-participantes-confirmados-em-a-fazenda-16/ "Veja quem são os primeiros participantes confirmados em A Fazenda 16")[![Homem é ferido com dois tiros nas nádegas dentro de bar no Cleto Marques](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/6/1/csm_csm_UPA_Benedito_Bentes_-_foto_Secom_Alagoas__reproducao_34132c8016_da66dcbaab.jpeg)
+Projetado por sobrinha de Senna, maior arranha-céu do mundo é anunciado no Brasil](https://www.tnh1.com.br/noticia/nid/projetado-por-sobrinha-de-senna-maior-arranha-ceu-do-mundo-e-anunciado-no-brasil/ "Projetado por sobrinha de Senna, maior arranha-céu do mundo é anunciado no Brasil ")[![Duplicação de trechos remanescentes da BR-101 é retomada 20 anos depois](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/2/b/csm_obra-duplicacao-rodovia-alagoas-reproducao-agencia-alagoas_fdc35b3ae4.jpeg)
 
-Polícia
+segurança viária
 
-Polícia
+segurança viária
 
-Homem é ferido com dois tiros nas nádegas dentro de bar no Cleto Marques
+Duplicação de trechos remanescentes da BR-101 é retomada 20 anos depois
 
-Homem é ferido com dois tiros nas nádegas dentro de bar no Cleto Marques](https://www.tnh1.com.br/noticia/nid/homem-e-ferido-com-dois-tiros-nas-nadegas-dentro-de-bar-no-cleto-marques/ "Homem é ferido com dois tiros nas nádegas dentro de bar no Cleto Marques")[![Empresária que ‘descobriu’ cobras em foto na cachoeira diz que foi alertada por seguidor](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/3/7/csm_Gabriella_Oliveira_cobras_ao_ver_fotos_em_cachoeira_de_Alto_Paraiso_de_Goias__Foto_Arquivo_Pessoal_-_Gabriella_Oliveira_1f269316d7.jpg)
+Duplicação de trechos remanescentes da BR-101 é retomada 20 anos depois](https://www.tnh1.com.br/noticia/nid/duplicacao-de-trechos-remanescentes-da-br-101-e-retomada-20-anos-depois/ "Duplicação de trechos remanescentes da BR-101 é retomada 20 anos depois")
 
-"em choque"
+[![EUA divulgam foto inédita de submersível Titan após implosão; veja ](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/5/d/csm_sub-titan-ocean-gate-viraliza-reproducao-youtube_8c335ea1f7.jpg)
 
-"em choque"
+destroços
 
-Empresária que ‘descobriu’ cobras em foto na cachoeira diz que foi alertada por seguidor
+destroços
 
-Empresária que ‘descobriu’ cobras em foto na cachoeira diz que foi alertada por seguidor](https://www.tnh1.com.br/noticia/nid/empresaria-que-descobriu-cobras-em-foto-na-cachoeira-diz-que-foi-alertada-por-seguidor/ "Empresária que ‘descobriu’ cobras em foto na cachoeira diz que foi alertada por seguidor")
+EUA divulgam foto inédita de submersível Titan após implosão; veja
 
-[![Desfile estudantil celebra os 207 anos de Emancipação Política de Alagoas](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/a/2/csm_desfile-emancipacao-divulgacao_cff1990cd1.jpeg)
+EUA divulgam foto inédita de submersível Titan após implosão; veja](https://www.tnh1.com.br/noticia/nid/eua-divulgam-foto-inedita-de-submersivel-titan-apos-implosao-veja/ "EUA divulgam foto inédita de submersível Titan após implosão; veja ")[![Luiz Araújo tem lesão confirmada no Flamengo e vai passar por cirurgia](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/9/4/csm_luiz-araujo-rperoducao-marcelo-cortes-flamengo_63500a52ec.jpg)
 
-Solenidade
+Novo desfalque
 
-Solenidade
+Novo desfalque
 
-Desfile estudantil celebra os 207 anos de Emancipação Política de Alagoas
+Luiz Araújo tem lesão confirmada no Flamengo e vai passar por cirurgia
 
-Desfile estudantil celebra os 207 anos de Emancipação Política de Alagoas](https://www.tnh1.com.br/noticia/nid/desfile-estudantil-celebra-os-207-anos-de-emancipacao-politica-de-alagoas/ "Desfile estudantil celebra os 207 anos de Emancipação Política de Alagoas")[![Brasileiro postou vídeos no carro antes de acidente na França; 4 morreram](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/a/0/csm_carro-aparece-destruido-em-imagens-1726486862812_v2_750x421.png_53fa4a34d7.jpg)
+Luiz Araújo tem lesão confirmada no Flamengo e vai passar por cirurgia](https://www.tnh1.com.br/noticia/nid/luiz-araujo-tem-lesao-confirmada-no-flamengo-e-vai-passar-por-cirurgia/ "Luiz Araújo tem lesão confirmada no Flamengo e vai passar por cirurgia")[![Remédio para diabetes pode desacelerar envelhecimento, sugere estudo](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/c/c/csm_close-up-woman-s-hand-holding-blister-pack-with-medicines-wooden-desk__1__2b20d73d9e.jpg)
 
-bateu em árvore
+Saúde
 
-bateu em árvore
+Saúde
 
-Brasileiro postou vídeos no carro antes de acidente na França; 4 morreram
+Remédio para diabetes pode desacelerar envelhecimento, sugere estudo
 
-Brasileiro postou vídeos no carro antes de acidente na França; 4 morreram](https://www.tnh1.com.br/noticia/nid/brasileiro-postou-videos-no-carro-antes-de-acidente-na-franca-4-morreram/ "Brasileiro postou vídeos no carro antes de acidente na França; 4 morreram")[![Quem é a única filha mulher de Datena que está sendo atacada na web após polêmica envolvendo o pai](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/f/6/csm_filha-datena-atacada-redes-sociais-reproducao_50bc50fc28.jpg)
+Remédio para diabetes pode desacelerar envelhecimento, sugere estudo](https://www.tnh1.com.br/noticia/nid/remedio-para-diabetes-pode-desacelerar-envelhecimento-sugere-estudo/ "Remédio para diabetes pode desacelerar envelhecimento, sugere estudo")[![Após 4 anos, petição pede prisão perpétua para mãe que matou filha por motivo bizarro](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/6/6/csm_menina-morta-motivo-bizarro-reproducao-people_1f63b37cbc.jpg)
 
-35 anos
+Na Inglaterra
 
-35 anos
+Na Inglaterra
 
-Quem é a única filha mulher de Datena que está sendo atacada na web após polêmica envolvendo o pai
+Após 4 anos, petição pede prisão perpétua para mãe que matou filha por motivo bizarro
 
-Quem é a única filha mulher de Datena que está sendo atacada na web após polêmica envolvendo o pai](https://www.tnh1.com.br/noticia/nid/quem-e-a-unica-filha-mulher-de-datena-que-esta-sendo-atacada-na-web-apos-polemica-envolvendo-o-pai/ "Quem é a única filha mulher de Datena que está sendo atacada na web após polêmica envolvendo o pai")[![Tripulantes estão desaparecidos após naufrágio de navio de carga em PE](https://tnh1-cdn3.cworks.cloud/fileadmin/user_upload/tnh1/2024/09/16/1_navio_concordia-tripulacao-desparecidos-reproducao-arquivo-pessoal.jpg)
-
-cinco desaparecidos
-
-cinco desaparecidos
-
-Tripulantes estão desaparecidos após naufrágio de navio de carga em PE
-
-Tripulantes estão desaparecidos após naufrágio de navio de carga em PE](https://www.tnh1.com.br/noticia/nid/tripulantes-estao-desaparecidos-apos-naufragio-de-navio-de-carga-em-pe/ "Tripulantes estão desaparecidos após naufrágio de navio de carga em PE")
+Após 4 anos, petição pede prisão perpétua para mãe que matou filha por motivo bizarro](https://www.tnh1.com.br/noticia/nid/apos-4-anos-peticao-pede-prisao-perpetua-para-mae-que-matou-filha-por-motivo-bizarro/ "Após 4 anos, petição pede prisão perpétua para mãe que matou filha por motivo bizarro")
 
 [](https://www.tnh1.com.br/ "TNH1 logo")
 
