@@ -1,3 +1,5 @@
+[![](https://www.oo-software.com/images/p_icons/front/ood.png)**The new O&O Defrag 29:** Maximum performance for your PC – now with an integrated Startup Manager! More Info](https://www.oo-software.com/en/products/oodefrag?r=st)
+
  Toggle navigation
 
 * [](https://www.oo-software.com/en)
@@ -63,7 +65,7 @@
         * [Contact us How to contact O&O](https://www.oo-software.com/en/contact)
         
     
-* [Get your US$10 voucher](https://www.oo-software.com/en/newsletter?r=tn1.2.1)
+* [Get your US$10 voucher](https://www.oo-software.com/en/newsletter?r=tn1.2.2)
 
 O&O Software’s Privacy Policy
 =============================
