@@ -118,57 +118,57 @@ This policy is effective as of 29 June 2021.
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Instantaneous, Nicely Designed, Graphical Invoices
-> --------------------------------------------------
+> Integrated Debit Order Solution
+> -------------------------------
 > 
-> Selling backtracks and popular songs by South African artists in our online shop required an online invoicing system that sends instantaneous, nicely designed, graphical invoices in pdf format to clients that made realtime purchases on our site. InvoicesOnline.co.za provided us with the perfect solution, their API integration enabled our clients to view their invoices and account balance right in our site. We are very satisfied with InvoicesOnline.co.za.
+> We sell adsl bandwidth ranging from a single gig account, up to uncapped accounts. We use invoices online for all our invoicing needs - the invoices online API is integrated in our debit order system that runs on a monthly basis. All clients receive an invoice as soon as their account is debited, and on successful payment the payment is automatically recorded against their account. The system saves us a great deal of time and effort every month, and we recommend that you give it a try.
 
-Henry Venter
+Hugo van Sittert
 
-![valued client Bchange Online CC](https://www.invoicesonline.co.za/scripts/image.php?bid=8330&file=logo_300_100&type=&fe=9784db4810ac8c26be99f1742dbd5de9b254563da2c92d64918d757a5362ae0d&c=23426315)  
-Bchange Online CC
+![valued client Khiya Technology Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=5545&file=logo_300_100&type=&fe=2b9b936ff821199661983b92c4d8333afacae966df445126a3ad0cc0836ffb31&c=8312927)  
+Khiya Technology Solutions
 
-![valued client SafeTclip](https://www.invoicesonline.co.za/scripts/image.php?bid=8368&file=logo_300_100&type=&fe=9784db4810ac8c26be99f1742dbd5de9b254563da2c92d64918d757a5362ae0d&c=8855833)  
-SafeTclip
+![valued client TechnoDezi PTY(LTD)](https://www.invoicesonline.co.za/scripts/image.php?bid=2471&file=logo_300_100&type=&fe=2b9b936ff821199661983b92c4d8333afacae966df445126a3ad0cc0836ffb31&c=170611436)  
+TechnoDezi PTY(LTD)
 
-![valued client Konsortium Operations (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=294&file=logo_300_100&type=&fe=9784db4810ac8c26be99f1742dbd5de9b254563da2c92d64918d757a5362ae0d&c=163103993)  
-Konsortium Operations (PTY) LTD
+![valued client INVOICES/JOBCARDS ONLINE](https://www.invoicesonline.co.za/scripts/image.php?bid=6974&file=logo_300_100&type=&fe=2b9b936ff821199661983b92c4d8333afacae966df445126a3ad0cc0836ffb31&c=198741266)  
+INVOICES/JOBCARDS ONLINE
 
-![valued client Imhoff Equestrian Centre](https://www.invoicesonline.co.za/scripts/image.php?bid=7987&file=logo_300_100&type=&fe=9784db4810ac8c26be99f1742dbd5de9b254563da2c92d64918d757a5362ae0d&c=50777405)  
-Imhoff Equestrian Centre
+![valued client West Coast Horse Trails](https://www.invoicesonline.co.za/scripts/image.php?bid=7984&file=logo_300_100&type=&fe=2b9b936ff821199661983b92c4d8333afacae966df445126a3ad0cc0836ffb31&c=156044517)  
+West Coast Horse Trails
 
-![valued client One2b](https://www.invoicesonline.co.za/scripts/image.php?bid=4093&file=logo_300_100&type=&fe=9784db4810ac8c26be99f1742dbd5de9b254563da2c92d64918d757a5362ae0d&c=31677803)  
-One2b
+![valued client Tracknetics](https://www.invoicesonline.co.za/scripts/image.php?bid=8211&file=logo_300_100&type=&fe=2b9b936ff821199661983b92c4d8333afacae966df445126a3ad0cc0836ffb31&c=12237151)  
+Tracknetics
 
-![valued client OrgChart Hosting Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=658&file=logo_300_100&type=&fe=9784db4810ac8c26be99f1742dbd5de9b254563da2c92d64918d757a5362ae0d&c=62222906)  
-OrgChart Hosting Pty Ltd
+![valued client OptaServ](https://www.invoicesonline.co.za/scripts/image.php?bid=7689&file=logo_300_100&type=&fe=2b9b936ff821199661983b92c4d8333afacae966df445126a3ad0cc0836ffb31&c=209522425)  
+OptaServ
 
-![valued client Network Grey (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7333&file=logo_300_100&type=&fe=9784db4810ac8c26be99f1742dbd5de9b254563da2c92d64918d757a5362ae0d&c=172876841)  
-Network Grey (Pty) Ltd
+![valued client Skinz Printing & Branding ](https://www.invoicesonline.co.za/scripts/image.php?bid=6232&file=logo_300_100&type=&fe=2b9b936ff821199661983b92c4d8333afacae966df445126a3ad0cc0836ffb31&c=10106669)  
+Skinz Printing & Branding
 
-![valued client NEW BEGINNINGS DESIGNS](https://www.invoicesonline.co.za/scripts/image.php?bid=8177&file=logo_300_100&type=&fe=9784db4810ac8c26be99f1742dbd5de9b254563da2c92d64918d757a5362ae0d&c=93513973)  
-NEW BEGINNINGS DESIGNS
+![valued client Stevens Consulting](https://www.invoicesonline.co.za/scripts/image.php?bid=5551&file=logo_300_100&type=&fe=2b9b936ff821199661983b92c4d8333afacae966df445126a3ad0cc0836ffb31&c=27096621)  
+Stevens Consulting
 
-![valued client Dombieterfontein (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2351&file=logo_300_100&type=&fe=9784db4810ac8c26be99f1742dbd5de9b254563da2c92d64918d757a5362ae0d&c=199640347)  
-Dombieterfontein (PTY) LTD
+![valued client MOSELA GROUP Pty(ltd)](https://www.invoicesonline.co.za/scripts/image.php?bid=7624&file=logo_300_100&type=&fe=2b9b936ff821199661983b92c4d8333afacae966df445126a3ad0cc0836ffb31&c=18350063)  
+MOSELA GROUP Pty(ltd)
 
-![valued client M's Frozen Delights](https://www.invoicesonline.co.za/scripts/image.php?bid=7776&file=logo_300_100&type=&fe=9784db4810ac8c26be99f1742dbd5de9b254563da2c92d64918d757a5362ae0d&c=158840788)  
-M's Frozen Delights
+![valued client Leef in Afrikaans](https://www.invoicesonline.co.za/scripts/image.php?bid=7426&file=logo_300_100&type=&fe=2b9b936ff821199661983b92c4d8333afacae966df445126a3ad0cc0836ffb31&c=127934105)  
+Leef in Afrikaans
 
-![valued client Enhle Oarabile Kea](https://www.invoicesonline.co.za/scripts/image.php?bid=7451&file=logo_300_100&type=&fe=9784db4810ac8c26be99f1742dbd5de9b254563da2c92d64918d757a5362ae0d&c=145787196)  
-Enhle Oarabile Kea
+![valued client Secunda Signs T/A Local Print and Signs](https://www.invoicesonline.co.za/scripts/image.php?bid=8292&file=logo_300_100&type=&fe=2b9b936ff821199661983b92c4d8333afacae966df445126a3ad0cc0836ffb31&c=104105727)  
+Secunda Signs T/A Local Print and Signs
 
-![valued client McKaynine Mobility](https://www.invoicesonline.co.za/scripts/image.php?bid=8229&file=logo_300_100&type=&fe=9784db4810ac8c26be99f1742dbd5de9b254563da2c92d64918d757a5362ae0d&c=186995260)  
-McKaynine Mobility
+![valued client #DiGi3 Marketing & Design](https://www.invoicesonline.co.za/scripts/image.php?bid=3234&file=logo_300_100&type=&fe=2b9b936ff821199661983b92c4d8333afacae966df445126a3ad0cc0836ffb31&c=145173999)  
+#DiGi3 Marketing & Design
 
-![valued client RADIO TYGERBERG 104FM NPC](https://www.invoicesonline.co.za/scripts/image.php?bid=8595&file=logo_300_100&type=&fe=9784db4810ac8c26be99f1742dbd5de9b254563da2c92d64918d757a5362ae0d&c=122047557)  
-RADIO TYGERBERG 104FM NPC
+![valued client PROGRAPHIX PTY LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8509&file=logo_300_100&type=&fe=2b9b936ff821199661983b92c4d8333afacae966df445126a3ad0cc0836ffb31&c=55565397)  
+PROGRAPHIX PTY LTD
 
-![valued client Blue Bulls Rugby Coaches Association](https://www.invoicesonline.co.za/scripts/image.php?bid=8461&file=logo_300_100&type=&fe=9784db4810ac8c26be99f1742dbd5de9b254563da2c92d64918d757a5362ae0d&c=29707021)  
-Blue Bulls Rugby Coaches Association
+![valued client MONSTER SECURITY SERVICES](https://www.invoicesonline.co.za/scripts/image.php?bid=5438&file=logo_300_100&type=&fe=2b9b936ff821199661983b92c4d8333afacae966df445126a3ad0cc0836ffb31&c=103522761)  
+MONSTER SECURITY SERVICES
 
-![valued client IEMS (PTY) ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7805&file=logo_300_100&type=&fe=9784db4810ac8c26be99f1742dbd5de9b254563da2c92d64918d757a5362ae0d&c=14634200)  
-IEMS (PTY) ltd
+![valued client Meyer Towing & Recovery ](https://www.invoicesonline.co.za/scripts/image.php?bid=7983&file=logo_300_100&type=&fe=2b9b936ff821199661983b92c4d8333afacae966df445126a3ad0cc0836ffb31&c=68306384)  
+Meyer Towing & Recovery
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
