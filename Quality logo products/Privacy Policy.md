@@ -543,7 +543,7 @@ Launch Chat Online Modal
 * [Embroidery Color Matcher](https://www.qualitylogoproducts.com/what-thread-color-is-my-logo.htm "Embroidery Color Matcher")
 * [PMS Color Picker](https://www.qualitylogoproducts.com/what-color-is-my-logo.htm "Pantone Color Matcher")
 * [Free Font Preview Tool](https://www.qualitylogoproducts.com/free-font-preview-tool.htm "Free Font Preview Tool")
-* [Promo Color Guide](https://www.qualitylogoproducts.com/color-meaning.htm "Color Guide")
+* [" title="Color Guide">Promo Color Guide](https://www.qualitylogoproducts.com/%3Ca%20href=)
 
 ### Contact Us
 
