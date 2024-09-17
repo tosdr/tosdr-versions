@@ -118,7 +118,7 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [Pregnancy overhauls the brain. Here’s what that looks like](https://www.sciencenews.org/article/pregnancy-brain-overhauls-mother)
             
-            By [Laura Sanders](https://www.sciencenews.org/author/laura-sanders "Posts by Laura Sanders")11 hours ago
+            By [Laura Sanders](https://www.sciencenews.org/author/laura-sanders "Posts by Laura Sanders")18 hours ago
             
         * [Life](https://www.sciencenews.org/topic/life)
             
@@ -188,7 +188,7 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [How a dying star is similar to a lava lamp](https://www.sciencenews.org/article/dying-star-lava-lamp-convection)
             
-            By [Lisa Grossman](https://www.sciencenews.org/author/lisa-grossman "Posts by Lisa Grossman")13 hours ago
+            By [Lisa Grossman](https://www.sciencenews.org/author/lisa-grossman "Posts by Lisa Grossman")20 hours ago
             
         * [Planetary Science](https://www.sciencenews.org/topic/planetary-science)
             
