@@ -153,7 +153,7 @@ Marques : INDEX EDUCATION, INDEX-EDUCATION.NET, EDT, PRONOTE, PRONOTE.net, ProfN
   
 Tous les droits qui ne sont pas expressément concédés sont réservés par Index Éducation.  
 
-© Index Éducation 24.09.16
+© Index Éducation 24.09.17
 ==========================
 
 Choix du site
@@ -193,4 +193,4 @@ Légal Sites internet* [Mentions légales et conditions générales d'utilisatio
 Légal produits* [Conditions générales d'utilisation et de vente de nos logiciels](https://www.index-education.com/fr/conditions-generales-de-vente.php)
 * [Politique de protection des données personnelles](https://www.index-education.com/fr/politique-de-protection-des-donnees.php)
 
-INDEX ÉDUCATION | © 2024 \- B
+INDEX ÉDUCATION | © 2024 \- E
