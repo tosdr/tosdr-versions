@@ -401,35 +401,37 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
- [![Richardson police chase ends in Dallas after murder suspect shoots himself: police](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/snapshot-90.jpg?ve=1&tl=1)
+ [![DeSantis to sign executive order for Florida statewide prosecutor to investigate Trump assassination attempt](https://images.foxtv.com/static.fox35orlando.com/www.fox35orlando.com/content/uploads/2024/09/32/18/GettyImages-1488044820-scaled.jpg?ve=1&tl=1)
 
- ![Richardson police chase ends in Dallas after murder suspect shoots himself: police](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/592/333/snapshot-90.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/richardson-dallas-police-chase-75)
+ ![DeSantis to sign executive order for Florida statewide prosecutor to investigate Trump assassination attempt](https://images.foxtv.com/images.foxtv.com/static.fox35orlando.com/www.fox35orlando.com/content/uploads/2024/09/32/18/592/333/GettyImages-1488044820-scaled.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/florida-gov-desantis-speak-west-palm-beach-days-after-trump-assassination-attempt)
 
-### [Richardson police chase ends in Dallas after murder suspect shoots himself: police](https://www.fox4news.com/news/richardson-dallas-police-chase-75)
+Live Now
 
- [![Little Elm police investigating shooting at gas station near Braswell High School](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/Little-Elm-shooting-suspect-pic.jpg?ve=1&tl=1)
+### [DeSantis to sign executive order for Florida statewide prosecutor to investigate Trump assassination attempt](https://www.fox4news.com/news/florida-gov-desantis-speak-west-palm-beach-days-after-trump-assassination-attempt)
 
- ![Little Elm police investigating shooting at gas station near Braswell High School](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/592/333/Little-Elm-shooting-suspect-pic.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/little-elm-police-investigating-shooting-gas-station-near-braswell-high-school)
+ [![Superintendent's job on the line after Fort Worth ISD's accountability ratings fall](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/7395TZ-FWISD-SUPERINTENDENT-MEETING_00.00.01.02.jpg?ve=1&tl=1)
 
-### [Little Elm police investigating shooting at gas station near Braswell High School](https://www.fox4news.com/news/little-elm-police-investigating-shooting-gas-station-near-braswell-high-school)
+ ![Superintendent's job on the line after Fort Worth ISD's accountability ratings fall](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/592/333/7395TZ-FWISD-SUPERINTENDENT-MEETING_00.00.01.02.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/superintendents-fort-worth-isd-accountability-ratings)
 
- [![LIVE: La Porte pipeline fire near Spencer Highway causes road closures, evacuations, 4 total injuries reported](https://images.foxtv.com/static.fox26houston.com/www.fox26houston.com/content/uploads/2024/09/32/18/Pipeline-fire.jpg?ve=1&tl=1)
+### [Superintendent's job on the line after Fort Worth ISD's accountability ratings fall](https://www.fox4news.com/news/superintendents-fort-worth-isd-accountability-ratings)
 
- ![LIVE: La Porte pipeline fire near Spencer Highway causes road closures, evacuations, 4 total injuries reported](https://images.foxtv.com/images.foxtv.com/static.fox26houston.com/www.fox26houston.com/content/uploads/2024/09/32/18/592/333/Pipeline-fire.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/la-porte-pipeline-fire-near-spencer-highway-causes-road-closures-evacuations)
+ [![Majority of Americans don't know most First Amendment rights, survey finds](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/GettyImages-144085092.jpg?ve=1&tl=1)
 
-### ['NO TERRORISTIC ACTIVITY;' La Porte Pipeline fire continues to burn, authorities say incident is 'isolated'](https://www.fox4news.com/news/la-porte-pipeline-fire-near-spencer-highway-causes-road-closures-evacuations)
+ ![Majority of Americans don't know most First Amendment rights, survey finds](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/592/333/GettyImages-144085092.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/first-amendment-rights-constitution-day-survey-2024)
 
- [![Sean 'Diddy' Combs arrested following raids, human trafficking investigation](https://images.foxtv.com/static.fox5ny.com/www.fox5ny.com/content/uploads/2024/09/32/18/GettyImages-1780942198.jpg?ve=1&tl=1)
+### [Majority of Americans don't know most First Amendment rights, survey finds](https://www.fox4news.com/news/first-amendment-rights-constitution-day-survey-2024)
 
- ![Sean 'Diddy' Combs arrested following raids, human trafficking investigation](https://images.foxtv.com/images.foxtv.com/static.fox5ny.com/www.fox5ny.com/content/uploads/2024/09/32/18/592/333/GettyImages-1780942198.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/diddy-taken-federal-custody-reports)
+ [![School threats prompt changes for DeSoto High School homecoming game](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/V-DESOTO-VS-CORPUS-CHRISTI-MILLER_00.00.00.32.jpg?ve=1&tl=1)
 
-### [Sean 'Diddy' Combs arrested following raids, human trafficking investigation](https://www.fox4news.com/news/diddy-taken-federal-custody-reports)
+ ![School threats prompt changes for DeSoto High School homecoming game](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/592/333/V-DESOTO-VS-CORPUS-CHRISTI-MILLER_00.00.00.32.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/school-threats-desoto-high-school-homecoming-game)
 
- [![Biden speaks with Trump after 2nd assassination attempt, condemns violence](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/GettyImages-1252481749-a.jpg?ve=1&tl=1)
+### [School threats prompt changes for DeSoto High School homecoming game](https://www.fox4news.com/news/school-threats-desoto-high-school-homecoming-game)
 
- ![Biden speaks with Trump after 2nd assassination attempt, condemns violence](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/592/333/GettyImages-1252481749-a.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/biden-calls-trump-assassination-attempt)
+ [![Photos: Failed Trump assassin's vantage point was no secret – paparazzi have staked out tree line for years](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/Trump-Assassination-Attempt-Hole-in-fence_57.jpg?ve=1&tl=1)
 
-### [Biden speaks with Trump after 2nd assassination attempt, condemns violence](https://www.fox4news.com/news/biden-calls-trump-assassination-attempt)
+ ![Photos: Failed Trump assassin's vantage point was no secret – paparazzi have staked out tree line for years](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/592/333/Trump-Assassination-Attempt-Hole-in-fence_57.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/photos-failed-trump-assassination-attempt-vantage-point-golf-course-florida)
+
+### [Photos: Failed Trump assassin's vantage point was no secret – paparazzi have staked out tree line for years](https://www.fox4news.com/news/photos-failed-trump-assassination-attempt-vantage-point-golf-course-florida)
 
 ###### [News](https://www.fox4news.com/news)
 
