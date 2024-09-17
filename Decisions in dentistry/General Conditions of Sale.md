@@ -138,6 +138,13 @@ Provider ID# 317924
 
 [### decisionsindentistry](https://www.instagram.com/decisionsindentistry/ "@decisionsindentistry")
 
+[A new report from the Alabama Department of Public ![A new report from the Alabama Department of Public Health highlights alarming disparities in dental care access, especially in rural areas. High rates of tooth decay and a shortage of oral health professionals are leaving residents vulnerable, with children and seniors disproportionately affected. Link in bio.⁠
+⁠
+⁠
+---⁠
+⁠
+#dentistry #dentist #dental #smile #dentista #teeth #cosmeticdentistry #dentistryworld #dentalphotography #odonto #tooth #dentistrylife #orthodontics #dentalcare #dentalhygienist #dentalimplants #oralhealth #veneers #dentalstudent #dentalassistant #dentalclinic #dentistlife #dentalhygiene #teethwhitening #oralsurgery #dds #endodontics #continuingeducation #education](https://decisionsindentistry.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/C_-wh15MLtn/) 
+
 [Innovative sensor positioning solutions enhance de ![Innovative sensor positioning solutions enhance dental imaging comfort and accuracy. Read this clinical insights via the link in bio.⁠
 ⁠
 @pac_dent⁠
@@ -178,13 +185,6 @@ Link in bio.⁠
 ---⁠
 ⁠
 #dentistry #dentist #dental #smile #dentista #teeth #cosmeticdentistry #dentistryworld #dentalphotography #odonto #tooth #dentistrylife #orthodontics #dentalcare #dentalhygienist #dentalimplants #oralhealth #veneers #dentalstudent #dentalassistant #dentalclinic #dentistlife #dentalhygiene #teethwhitening #oralsurgery #dds #endodontics #continuingeducation #education](https://decisionsindentistry.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/C_yxje0shFr/) 
-
-[Artificial intelligence (AI) is making waves in de ![Artificial intelligence (AI) is making waves in dentistry, especially at the VA Greater Los Angeles Healthcare System, where researchers are pioneering a study to evaluate AI’s reliability in diagnosing dental issues. This groundbreaking initiative, aptly named “VALID,” aims to validate AI’s accuracy and trustworthiness in the clinical setting. Link in bio.⁠
-⁠
-⁠
----⁠
-⁠
-#dentistry #dentist #dental #smile #dentista #teeth #cosmeticdentistry #dentistryworld #dentalphotography #odonto #tooth #dentistrylife #orthodontics #dentalcare #dentalhygienist #dentalimplants #oralhealth #veneers #dentalstudent #dentalassistant #dentalclinic #dentistlife #dentalhygiene #teethwhitening #oralsurgery #dds #endodontics #continuingeducation #education](https://decisionsindentistry.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/C_DbW9esmah/) 
 
 [Load More](javascript:void(0);) [Follow on Instagram](https://www.instagram.com/decisionsindentistry/)
 
