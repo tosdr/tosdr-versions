@@ -205,6 +205,28 @@ Menü
     ===
     
 
+[BreakingNews
+
+Großeinsatz in Hamburg: Der nächste Abschiebe-Flieger
+
+Großeinsatz in Hamburg: Der nächste Abschiebe-Flieger
+
+Großeinsatz in Hamburg: Der nächste Abschiebe-Flieger
+
+Großeinsatz in Hamburg: Der nächste Abschiebe-Flieger
+
+Großeinsatz in Hamburg: Der nächste Abschiebe-Flieger
+
+Großeinsatz in Hamburg: Der nächste Abschiebe-Flieger
+
+Großeinsatz in Hamburg: Der nächste Abschiebe-Flieger
+
+Großeinsatz in Hamburg: Der nächste Abschiebe-Flieger
+
+Großeinsatz in Hamburg: Der nächste Abschiebe-Flieger
+
+Großeinsatz in Hamburg: Der nächste Abschiebe-Flieger](https://www.bild.de/news/grosseinsatz-in-hamburg-abgelehnte-asylbewerber-werden-ausgeflogen-66e967fb5eec914fde514274)
+
 ![](https://bild.met.vgwort.de/na/vgzm.2150080-5d2dc01ff1d2cd00016421a8)
 
  AGB: Nutzungsbedingungen für die digitalen Angebote von BILD
