@@ -1,4 +1,4 @@
-be\_ixf;ym\_202409 d\_16; ct\_50
+be\_ixf;ym\_202409 d\_17; ct\_50
 
 * be\_ixf; php\_sdk; php\_sdk\_1.4.26
 * https://cybersecurity.att.com/terms/website
@@ -170,9 +170,9 @@ be\_ixf;ym\_202409 d\_16; ct\_50
             
             Blog: Security Essentials
             
-            ##### Tackling the Unique Cybersecurity Challenges of Online Learning Platforms
+            ##### Physical Security In The Age Of Digital: Access Control System Vulnerabilities
             
-            [Learn more](https://cybersecurity.att.com/blogs/security-essentials/tackling-the-unique-cybersecurity-challenges-of-online-learning-platforms)
+            [Learn more](https://cybersecurity.att.com/blogs/security-essentials/physical-security-in-the-age-of-digital-access-control-system-vulnerabilities)
             
             [View all Blog posts](https://www.alienvault.com/blogs)
             
@@ -509,13 +509,13 @@ We welcome your questions and comments regarding these Terms of Use and anything
 
 From the Blog
 
-![Devin Partida](data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22150px%22%20height%3D%22150px%22%3E%3Crect%20fill%3D%22none%22%20width%3D%22150%22%20height%3D%22150%22%2F%3E%3C%2Fsvg%3E)
+![Karoline Gore](data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22150px%22%20height%3D%22150px%22%3E%3Crect%20fill%3D%22none%22%20width%3D%22150%22%20height%3D%22150%22%2F%3E%3C%2Fsvg%3E)
 
-#### Devin Partida
+#### Karoline Gore
 
-Sep 16, 2024
+Sep 17, 2024
 
-### [Tackling the Unique Cybersecurity Challenges of Online Learning Platforms](https://cybersecurity.att.com/blogs/security-essentials/tackling-the-unique-cybersecurity-challenges-of-online-learning-platforms)
+### [Physical Security In The Age Of Digital: Access Control System Vulnerabilities](https://cybersecurity.att.com/blogs/security-essentials/physical-security-in-the-age-of-digital-access-control-system-vulnerabilities)
 
 [Explore All Blog Posts ›](https://www.alienvault.com/blogs)
 
