@@ -277,15 +277,15 @@ Show Search
 * Copyright 2024 The Associated Press. All Rights Reserved.
     
 
-[Live updates: Donald Trump](https://apnews.com/live/trump-shooting-west-palm-beach-updates)
+[Donald Trump](https://apnews.com/live/trump-shooting-west-palm-beach-updates)
 
-[Emmy highlights](https://apnews.com/article/2024-emmy-awards-show-8588922c128c775092509b70a599a6d0)
+[‘Diddy’ arrested](https://apnews.com/article/sean-diddy-combs-arrested-93831d646c5cf36add77a91ba668ae84)
 
-[Tito Jackson dies](https://apnews.com/article/tito-jackson-dead-jackson-5-03d6bfb14b84b27d99f9c26411d83a8a)
+[Falcons beat Eagles](https://apnews.com/article/eagles-falcons-score-barkley-ae1d5f20e97d784ee104606be78bfc9a)
 
-[Titan submersible hearing](https://apnews.com/article/titan-submersible-implosion-hearing-2ae3c044e50a69647bd42cffe96c7f98)
+[Lunar eclipse](https://apnews.com/article/partial-lunar-eclipse-supermoon-ec0ef86aec1e8bf5c8b1a2ea1b104dfd)
 
-[AP Top 25](https://apnews.com/article/ap-top-25-50179e2ca80290fc81919aadbab2a593)
+[Titan submersible](https://apnews.com/article/titan-submersible-implosion-hearing-3e698a31c32d753b2d34e28900f65bdc)
 
 The Associated Press
 ====================
