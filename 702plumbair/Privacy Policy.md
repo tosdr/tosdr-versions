@@ -13,10 +13,11 @@ Call Us for Your Estimate! [702-447-0131](tel:7024470131)
 * [About Us](https://www.702plumbair.com/about-us/)
     
     * [Our Team](https://www.702plumbair.com/meet-the-team/)
-    * [Photo Gallery](https://www.702plumbair.com/photo-gallery/)
     * [Careers](https://www.702plumbair.com/about-us/careers/)
     * [Financing](https://www.702plumbair.com/about-us/financing/)
     * [Coupons](https://www.702plumbair.com/coupons/)
+    * [Photo Gallery](https://www.702plumbair.com/photo-gallery/)
+    * [Our Videos](https://www.702plumbair.com/video-center/)
     
 * [Plumbing Services](https://www.702plumbair.com/plumbing-services/)
     
@@ -53,13 +54,14 @@ Call Us for Your Estimate! [702-447-0131](tel:7024470131)
     
     * Main Menu
     * [Our Team](https://www.702plumbair.com/meet-the-team/)
-    * [Photo Gallery](https://www.702plumbair.com/photo-gallery/)
     * [Careers](https://www.702plumbair.com/about-us/careers/)
     * [Financing](https://www.702plumbair.com/about-us/financing/)
     * [Coupons](https://www.702plumbair.com/coupons/)
+    * [Photo Gallery](https://www.702plumbair.com/photo-gallery/)
+    * [Our Videos](https://www.702plumbair.com/video-center/)
     
-* [Specials](https://www.702plumbair.com/coupons/)
 * [Financing](https://www.702plumbair.com/about-us/financing/)
+* [Specials](https://www.702plumbair.com/coupons/)
 * [Plumbing Services](https://www.702plumbair.com/plumbing-services/)
     
     * Main Menu
@@ -200,6 +202,7 @@ Henderson, NV 89014
 * [HVAC Services](https://www.702plumbair.com/hvac-services/)
 * [Reviews](https://www.702plumbair.com/reviews/)
 * [Contact Us](https://www.702plumbair.com/contact-us/)
+* [Video Center](https://www.702plumbair.com/video-center/)
 
 **Follow Us**
 
