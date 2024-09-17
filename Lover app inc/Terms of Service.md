@@ -764,8 +764,8 @@ Contact Us
 
 [Privacy Poli](https://www.lover.io/privacy-policy)[cy](https://www.lover.io/privacy-policy)  | [Terms & Conditions](https://www.lover.io/terms-and-conditions)
 
-[![appstore.png](https://static.wixstatic.com/media/ddfc31_be573787160c495eb5d87e2020e032e1~mv2.png/v1/fill/w_144,h_48,al_c,q_85,usm_0.66_1.00_0.01,blur_3,enc_auto/appstore.png)](https://loverapp.onelink.me/ItN8/916f7a9b)
+[![appstore.png](https://static.wixstatic.com/media/ddfc31_be573787160c495eb5d87e2020e032e1~mv2.png/v1/fill/w_144,h_48,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/appstore.png)](https://loverapp.onelink.me/ItN8/916f7a9b)
 
-[![google-play-badge.png](https://static.wixstatic.com/media/f3a6b5_edd755684fb2424db91b66ea5790f66f~mv2.png/v1/fill/w_183,h_71,al_c,q_85,usm_0.66_1.00_0.01,blur_3,enc_auto/google-play-badge.png)](https://play.google.com/store/apps/details?id=io.lover.lover&hl=en&gl=US)
+[![google-play-badge.png](https://static.wixstatic.com/media/f3a6b5_edd755684fb2424db91b66ea5790f66f~mv2.png/v1/fill/w_184,h_71,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/google-play-badge.png)](https://play.google.com/store/apps/details?id=io.lover.lover&hl=en&gl=US)
 
 bottom of page
