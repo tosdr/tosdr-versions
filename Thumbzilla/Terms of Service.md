@@ -20,55 +20,55 @@ Categories
 * * [All](https://www.thumbzilla.com/categories/all)
     * [180°2,023](https://www.thumbzilla.com/categories/180-1)
         
-    * [2D89](https://www.thumbzilla.com/categories/2d)
+    * [2D166](https://www.thumbzilla.com/categories/2d)
         
     * [360°208](https://www.thumbzilla.com/categories/360-1)
         
     * [3D2,155](https://www.thumbzilla.com/categories/3d)
         
-    * [60FPS28,797](https://www.thumbzilla.com/categories/60fps-1)
+    * [60FPS28,807](https://www.thumbzilla.com/categories/60fps-1)
         
-    * [Amateur90,426](https://www.thumbzilla.com/categories/amateur)
+    * [Amateur90,441](https://www.thumbzilla.com/categories/amateur)
         
-    * [Anal39,436](https://www.thumbzilla.com/categories/anal)
+    * [Anal39,439](https://www.thumbzilla.com/categories/anal)
         
-    * [Arab900](https://www.thumbzilla.com/categories/arab)
+    * [Arab901](https://www.thumbzilla.com/categories/arab)
         
-    * [Asian15,536](https://www.thumbzilla.com/categories/asian)
+    * [Asian15,541](https://www.thumbzilla.com/categories/asian)
         
-    * [Babe94,416](https://www.thumbzilla.com/categories/babe)
+    * [Babe94,431](https://www.thumbzilla.com/categories/babe)
         
     * [Babysitter (18+)656](https://www.thumbzilla.com/categories/babysitter-18)
         
-    * [BBW4,542](https://www.thumbzilla.com/categories/bbw)
+    * [BBW4,543](https://www.thumbzilla.com/categories/bbw)
         
-    * [Behind The Scenes2,193](https://www.thumbzilla.com/categories/behind-the-scenes)
+    * [Behind The Scenes2,194](https://www.thumbzilla.com/categories/behind-the-scenes)
         
-    * [Big Ass73,294](https://www.thumbzilla.com/categories/big-ass)
+    * [Big Ass73,302](https://www.thumbzilla.com/categories/big-ass)
         
-    * [Big Dick74,697](https://www.thumbzilla.com/categories/big-dick)
+    * [Big Dick74,710](https://www.thumbzilla.com/categories/big-dick)
         
-    * [Big Tits96,894](https://www.thumbzilla.com/categories/big-tits)
+    * [Big Tits96,911](https://www.thumbzilla.com/categories/big-tits)
         
-    * [Bisexual Male2,962](https://www.thumbzilla.com/categories/bisexual-male)
+    * [Bisexual Male2,938](https://www.thumbzilla.com/categories/bisexual-male)
         
-    * [Blonde64,658](https://www.thumbzilla.com/categories/blonde)
+    * [Blonde64,668](https://www.thumbzilla.com/categories/blonde)
         
-    * [Blowjob93,183](https://www.thumbzilla.com/categories/blowjob)
+    * [Blowjob93,189](https://www.thumbzilla.com/categories/blowjob)
         
-    * [Bondage4,952](https://www.thumbzilla.com/categories/bondage)
+    * [Bondage4,953](https://www.thumbzilla.com/categories/bondage)
         
     * [Brazilian1,530](https://www.thumbzilla.com/categories/brazilian)
         
-    * [British5,052](https://www.thumbzilla.com/categories/british)
+    * [British5,053](https://www.thumbzilla.com/categories/british)
         
-    * [Brunette89,348](https://www.thumbzilla.com/categories/brunette)
+    * [Brunette89,356](https://www.thumbzilla.com/categories/brunette)
         
     * [Bukkake1,181](https://www.thumbzilla.com/categories/bukkake)
         
     * [Cartoon1,072](https://www.thumbzilla.com/categories/cartoon)
         
-    * [Casting5,659](https://www.thumbzilla.com/categories/casting)
+    * [Casting5,658](https://www.thumbzilla.com/categories/casting)
         
     * [Celebrity436](https://www.thumbzilla.com/categories/celebrity)
         
@@ -78,13 +78,13 @@ Categories
         
     * [Compilation8,138](https://www.thumbzilla.com/categories/compilation)
         
-    * [Cosplay3,837](https://www.thumbzilla.com/categories/cosplay)
+    * [Cosplay3,838](https://www.thumbzilla.com/categories/cosplay)
         
-    * [Creampie26,671](https://www.thumbzilla.com/categories/creampie)
+    * [Creampie26,674](https://www.thumbzilla.com/categories/creampie)
         
     * [Cuckold2,736](https://www.thumbzilla.com/categories/cuckold)
         
-    * [Cumshot56,526](https://www.thumbzilla.com/categories/cumshot)
+    * [Cumshot56,534](https://www.thumbzilla.com/categories/cumshot)
         
     * [Czech4,980](https://www.thumbzilla.com/categories/czech)
         
@@ -92,25 +92,25 @@ Categories
         
     * [Double Penetration5,120](https://www.thumbzilla.com/categories/double-penetration)
         
-    * [Ebony11,924](https://www.thumbzilla.com/categories/ebony)
+    * [Ebony11,923](https://www.thumbzilla.com/categories/ebony)
         
     * [Euro3,767](https://www.thumbzilla.com/categories/euro)
         
-    * [Exclusive40,942](https://www.thumbzilla.com/categories/exclusive)
+    * [Exclusive40,941](https://www.thumbzilla.com/categories/exclusive)
         
-    * [Feet5,088](https://www.thumbzilla.com/categories/feet)
+    * [Feet5,093](https://www.thumbzilla.com/categories/feet)
         
-    * [Female Orgasm26,934](https://www.thumbzilla.com/categories/female-orgasm)
+    * [Female Orgasm26,938](https://www.thumbzilla.com/categories/female-orgasm)
         
-    * [Fetish26,078](https://www.thumbzilla.com/categories/fetish)
+    * [Fetish26,081](https://www.thumbzilla.com/categories/fetish)
         
-    * [FFM5,561](https://www.thumbzilla.com/categories/ffm)
+    * [FFM5,565](https://www.thumbzilla.com/categories/ffm)
         
-    * [Fingering4,783](https://www.thumbzilla.com/categories/fingering)
+    * [Fingering4,784](https://www.thumbzilla.com/categories/fingering)
         
     * [Fisting2,129](https://www.thumbzilla.com/categories/fisting)
         
-    * [FMM8,889](https://www.thumbzilla.com/categories/fmm)
+    * [FMM3,593](https://www.thumbzilla.com/categories/fmm)
         
 * More\>
     
@@ -122,47 +122,47 @@ Categories
         
     * [Gangbang4,661](https://www.thumbzilla.com/categories/gangbang)
         
-    * [German4,929](https://www.thumbzilla.com/categories/german)
+    * [German4,930](https://www.thumbzilla.com/categories/german)
         
-    * [Handjob18,309](https://www.thumbzilla.com/categories/handjob)
+    * [Handjob18,314](https://www.thumbzilla.com/categories/handjob)
         
-    * [Hardcore111,951](https://www.thumbzilla.com/categories/hardcore)
+    * [Hardcore111,965](https://www.thumbzilla.com/categories/hardcore)
         
     * [Hentai647](https://www.thumbzilla.com/categories/hentai)
         
-    * [Indian1,391](https://www.thumbzilla.com/categories/indian)
+    * [Indian1,392](https://www.thumbzilla.com/categories/indian)
         
     * [Interactive345](https://www.thumbzilla.com/categories/interactive)
         
-    * [Interracial18,226](https://www.thumbzilla.com/categories/interracial)
+    * [Interracial18,227](https://www.thumbzilla.com/categories/interracial)
         
     * [Italian2,090](https://www.thumbzilla.com/categories/italian)
         
-    * [Japanese14,566](https://www.thumbzilla.com/categories/japanese)
+    * [Japanese14,568](https://www.thumbzilla.com/categories/japanese)
         
     * [Korean271](https://www.thumbzilla.com/categories/korean)
         
-    * [Latina17,900](https://www.thumbzilla.com/categories/latina)
+    * [Latina17,902](https://www.thumbzilla.com/categories/latina)
         
-    * [Lesbian21,405](https://www.thumbzilla.com/categories/lesbian)
+    * [Lesbian21,408](https://www.thumbzilla.com/categories/lesbian)
         
-    * [Massage6,284](https://www.thumbzilla.com/categories/massage)
+    * [Massage6,286](https://www.thumbzilla.com/categories/massage)
         
-    * [Masturbation35,768](https://www.thumbzilla.com/categories/masturbation)
+    * [Masturbation35,765](https://www.thumbzilla.com/categories/masturbation)
         
     * [Mature8,522](https://www.thumbzilla.com/categories/mature)
         
-    * [MILF49,935](https://www.thumbzilla.com/categories/milf)
+    * [MILF49,946](https://www.thumbzilla.com/categories/milf)
         
     * [Muscular Men3,901](https://www.thumbzilla.com/categories/muscular-men)
         
-    * [Music608](https://www.thumbzilla.com/categories/music)
+    * [Music609](https://www.thumbzilla.com/categories/music)
         
     * [Old/Young (18+)7,210](https://www.thumbzilla.com/categories/old-young-18)
         
     * [Orgy5,591](https://www.thumbzilla.com/categories/orgy)
         
-    * [Parody920](https://www.thumbzilla.com/categories/parody)
+    * [Parody877](https://www.thumbzilla.com/categories/parody)
         
     * [Party2,314](https://www.thumbzilla.com/categories/party)
         
@@ -170,35 +170,35 @@ Categories
         
     * [Popular With Women9,670](https://www.thumbzilla.com/categories/popular-with-women)
         
-    * [Pornstar154,692](https://www.thumbzilla.com/categories/pornstar)
+    * [Pornstar154,707](https://www.thumbzilla.com/categories/pornstar)
         
-    * [POV46,970](https://www.thumbzilla.com/categories/pov)
+    * [POV46,971](https://www.thumbzilla.com/categories/pov)
         
     * [POV525](https://www.thumbzilla.com/categories/pov-1)
         
-    * [Public14,019](https://www.thumbzilla.com/categories/public)
+    * [Public14,020](https://www.thumbzilla.com/categories/public)
         
-    * [Pussy Licking28,294](https://www.thumbzilla.com/categories/pussy-licking)
+    * [Pussy Licking28,296](https://www.thumbzilla.com/categories/pussy-licking)
         
-    * [Reality25,906](https://www.thumbzilla.com/categories/reality)
+    * [Reality25,910](https://www.thumbzilla.com/categories/reality)
         
-    * [Red Head14,456](https://www.thumbzilla.com/categories/red-head)
+    * [Red Head14,457](https://www.thumbzilla.com/categories/red-head)
         
-    * [Role Play11,011](https://www.thumbzilla.com/categories/role-play)
+    * [Role Play11,017](https://www.thumbzilla.com/categories/role-play)
         
-    * [Romantic8,288](https://www.thumbzilla.com/categories/romantic)
+    * [Romantic8,289](https://www.thumbzilla.com/categories/romantic)
         
-    * [Rough Sex25,396](https://www.thumbzilla.com/categories/rough-sex)
+    * [Rough Sex25,401](https://www.thumbzilla.com/categories/rough-sex)
         
-    * [Russian10,647](https://www.thumbzilla.com/categories/russian)
+    * [Russian10,649](https://www.thumbzilla.com/categories/russian)
         
     * [School (18+)2,367](https://www.thumbzilla.com/categories/school-18)
         
-    * [Scissoring5,324](https://www.thumbzilla.com/categories/scissoring)
+    * [Scissoring5,325](https://www.thumbzilla.com/categories/scissoring)
         
     * [SFW132](https://www.thumbzilla.com/categories/sfw)
         
-    * [Small Tits54,726](https://www.thumbzilla.com/categories/small-tits)
+    * [Small Tits54,738](https://www.thumbzilla.com/categories/small-tits)
         
     * [Smoking773](https://www.thumbzilla.com/categories/smoking)
         
@@ -208,17 +208,17 @@ Categories
         
     * [Squirt9,774](https://www.thumbzilla.com/categories/squirt)
         
-    * [Step Fantasy24,693](https://www.thumbzilla.com/categories/step-fantasy)
+    * [Step Fantasy24,698](https://www.thumbzilla.com/categories/step-fantasy)
         
     * [Strap On1,100](https://www.thumbzilla.com/categories/strap-on)
         
     * [Striptease2,531](https://www.thumbzilla.com/categories/striptease)
         
-    * [Tattooed Women12,843](https://www.thumbzilla.com/categories/tattooed-women)
+    * [Tattooed Women12,845](https://www.thumbzilla.com/categories/tattooed-women)
         
-    * [Teen (18+)94,800](https://www.thumbzilla.com/categories/teen-18-1)
+    * [Teen (18+)94,807](https://www.thumbzilla.com/categories/teen-18-1)
         
-    * [Threesome25,487](https://www.thumbzilla.com/categories/threesome)
+    * [Threesome25,493](https://www.thumbzilla.com/categories/threesome)
         
     * [Toys32,076](https://www.thumbzilla.com/categories/toys)
         
@@ -226,19 +226,19 @@ Categories
         
     * [Trans With Girl2,352](https://www.thumbzilla.com/categories/trans-with-girl)
         
-    * [Trans With Guy8,334](https://www.thumbzilla.com/categories/trans-with-guy)
+    * [Trans With Guy8,335](https://www.thumbzilla.com/categories/trans-with-guy)
         
-    * [Transgender35,740](https://www.thumbzilla.com/categories/transgender)
+    * [Transgender35,742](https://www.thumbzilla.com/categories/transgender)
         
     * [Uncensored135](https://www.thumbzilla.com/categories/uncensored)
         
     * [Uncensored122](https://www.thumbzilla.com/categories/uncensored-1)
         
-    * [Verified Amateurs74,232](https://www.thumbzilla.com/categories/verified-amateurs)
+    * [Verified Amateurs74,245](https://www.thumbzilla.com/categories/verified-amateurs)
         
-    * [Verified Couples15,484](https://www.thumbzilla.com/categories/verified-couples)
+    * [Verified Couples15,486](https://www.thumbzilla.com/categories/verified-couples)
         
-    * [Verified Models18,787](https://www.thumbzilla.com/categories/verified-models)
+    * [Verified Models18,788](https://www.thumbzilla.com/categories/verified-models)
         
     * [Vintage1,634](https://www.thumbzilla.com/categories/vintage)
         
@@ -246,7 +246,7 @@ Categories
         
     * [Voyeur137](https://www.thumbzilla.com/categories/voyeur)
         
-    * [Webcam3,567](https://www.thumbzilla.com/categories/webcam)
+    * [Webcam3,568](https://www.thumbzilla.com/categories/webcam)
         
 
 * Search Thumbzilla
@@ -1358,6 +1358,151 @@ More options on how you can customize our recommendations
 
 On the homepage for Thumbzilla, you can select the **Hamburger menu** icon, and you can turn on or off _Personalized Recommendations_. If you turn off this feature, the videos you watched and how you interacted with these videos don’t influence any content recommendations we show you.
 
+List of processors
+------------------
+
+**Last updated:** August 8, 2024
+
+Below is a list of our key processors, the purposes for which we use their services and their location:
+
+| **Processor name** | **Purpose** | **Location** |
+| --- | --- | --- |
+| 51 Degrees | Device Detection | United Kingdom |
+| Amazon Web Services | Providing hosting solutions | United States |
+| AppOptics (Solarwinds) | Maintenance and performance measurement for internal apps | United States |
+| Bugcrowd Inc. | Reporting bugs and vulnerabilities on our websites | United States |
+| Delight VR | Offer certain videos in virtual reality. | Germany |
+| DNS Made Easy | DNS Provider | United States |
+| Google Analytics | Web analytics service | United States |
+| Google Cloud | Providing hosting solutions and captcha service | United States |
+| Hotjar | Tracking UX interaction with product | Malta |
+| Maxmind | GeoIP and fraud detection | United States |
+| Reflected Networks | Providing hosting solutions /CDN | United States |
+| Zendesk, Inc | Customer support tool | United States |
+
+Cookie Notice
+=============
+
+**Last Modified:** August, 26 2024  
+
+This Cookie Notice applies for cookies and other similar technologies which may be placed when you visit different pages on [https://www.thumbzilla.com](https://www.thumbzilla.com/) (the “Website”) which is operated by Aylo Freesites Ltd (hereinafter “we” or “us”). In this Cookie Notice we explain what cookies are, how we use them and how you can manage them.  
+
+### What are cookies?  
+
+A cookie is a small piece of data that, when browsing a website, will ask your browser to collect and store on your computer or internet-compatible end user devices for example, smartphones and tablets (collectively “Computer”) in order to remember information about you, such as your language preference, online activity, or login credentials (collectively “cookies”).    
+
+First and Third-Party Cookies. The cookies set by us are called first party cookies. We also use third-party cookies, which are cookies from a domain different than our Website. Both types of cookies are text files made up of bits of information that websites use to collect your user data. First-party cookies are mostly used to improve your user experience by remembering user preferences and settings, also used to store information, such as usernames, passwords, and language preferences. Third-party cookies track your browsing history and activities so that we can show you targeted or personalized ads and marketing related to our content, products, and services.   
+
+Session and Persistent Cookies. Cookies can be either session cookies or persistent cookies. A session cookie expires automatically when you quit your browser. A persistent cookie will be saved on your Computer until it expires, or until you delete your cookies. Each cookie has a different expiration date; some may expire after a few minutes while others after some years.  
+
+### What are Local Storage Objects?   
+
+Local storage enables our Website to store information locally on your device. Local storage can be used to maintain preferences, a history of usage, or even the state or settings of a site or an app. Local storage may be used to improve your experience with our Website for example, by enabling features, remembering your preferences, and improving our Website’s functionality.     
+
+The main difference between Cookies and Local storage is how they function, cookies are sent to the webserver with your requests while Local storage can only be read by your browser.   
+
+### How we use cookies  
+
+We use cookies to make our Website work or to track what you've done on the Website so we can understand what you like in order to provide an enjoyable, customised experience. We also use cookies to help us develop and deliver better content, products and services tailored to your interests. 
+
+### Essential Cookies
+
+These are cookies necessary for the functioning of the Website and cannot be switched off in our systems as they enable core website functionality They are used to carry out the transmission of a communication (e.g. Load balancing cookies), provide you with the requested services or are set in response to actions made by you,  such as setting your privacy preferences (UI customization cookies).   
+
+|     |     |     |     |
+| --- | --- | --- | --- |
+| **Cookie Name** | **Purpose** | **Cookie Domain** | **Duration** |
+| **platform** | Is used for website to load the correct template for the user’s device | thumbzilla.com | 7 days |
+| **platform\_forced** | Is used for website to load the correct template for the user’s device as selected by the user | pornhub.com | 7 days |
+| **accessAgeDisclaimerTZ** | Saves the users' age disclaimer selection | thumbzilla.com | 1 year |
+| **accessPH** | Saves the users' age disclaimer selection for Utah users | pornhub.com | 1 year |
+| **flag\_limit\_timeout** | Allows the user to flag content | pornhub.com | 3 days |
+| **popShown** , **prerollShown** | Used to limit the rate of advertisements you see during your session | pornhub.com | Session |
+| **cookieConsent** | Stores user's cookie consent selection | thumbzilla.com | 1 year |
+| **cookiesBanner** | Shows the cookie banner to the user | thumbzilla.com | 7 days |
+| **cookieBannerState** | Is used to hide short banner version when user closes it till the next session. | pornhub.com | 1 year |
+
+You can set your browser to block these cookies, but that will cause some parts of the Website to not work. 
+
+### Functional Cookies 
+
+These cookies are set to implement additional functionalities or to enhance features and website performance. These cookies help us personalize and enhance your online experience on the Website. This type of cookies also allows us to recognize you when you return to the Website and to remember your choices. 
+
+|     |     |     |     |
+| --- | --- | --- | --- |
+| **Cookie Name** | **Purpose** | **Cookie Domain** | **Duration** |
+| **videoRated** | Stores the last 10 videos rated by the user | pornhub.com | Session |
+| **fg\_\*** | It is used for roll out a new feature to users | pornhub.com | 30 days |
+
+### Targeting/Advertising cookies  
+
+These cookies enable us to make the Website more relevant to your interests and to help us serve ads that might be of interest to you. The Website and our advertising partners set these cookies to provide behavioural advertising and define the number of ads that will be displayed to you. Collected data can be any type of browsing information necessary to understand your browsing habits.  
+
+If you choose to disable this type of cookies, you will still see advertisements, but they will be less relevant and will not be tailored to your interests.    
+
+|     |     |     |     |
+| --- | --- | --- | --- |
+| **Cookie Name** | **Purpose** | **Cookie Domain** | **Duration** |
+| **bs** | Provide tailored recommendations and searches to users | thumbzilla.com | 1 year |
+| **htjf-mobile** | This cookie is used to Hide the ad at the footer of the page when user reached a certain number of pageviews | pornhub.com   <br>pornhubpremium.com | 1 year |
+| **ua** | Sets a unique ID for the visitor, that allows third party advertisers to target the visitor with relevant advertisement | thumbzilla.com | 1 day |
+| **bsdd** | Provide tailored recommendations and searches to users | thumbzilla.com | 1 year |
+
+### Analytics cookies  
+
+These cookies allow us to recognize and count the number of users and to see how users use and explore the Website, for example they allow us to carry out statistical analysis of page use, interactions, and paths a user takes through the Website to improve the performance of our Website. This is known as ‘digital analytics,’ where this information allows us to know what content on our Website is the most and least popular.  Additionally, we use third party session recording technologies that help us better understand our users’ experience, however, the recording data is pseudonymized.  
+
+|     |     |     |     |
+| --- | --- | --- | --- |
+| **Cookie Name** | **Purpose** | **Cookie Domain** | **Duration** |
+| **\_ga** | Is set by Google Analytics and is used to distinguish unique users by assigning a randomly generated number as a client identifier | thumbzilla.com | 2 years |
+| **\_gid** | Is set by Google Analytics and is used to distinguish unique users by assigning a randomly generated number as a client identifier | thumbzilla.com | 1 day |
+| **\_ga\_ \*** | Is a specialized type of tracking software tool created by Google Analytics. It’s designed to help website owners measure and analyse how users interact with their site content | thumbzilla.com | 14 months |
+
+### Third Party Cookies  
+
+Third party cookies originate from a domain different to the Website. For example, when you visit the Website, some content or applications, including advertisements, may link to a third-party website.   
+
+These third parties may set cookies on your computer to collect information about you, such as your IP address or location, when you click to view, access, or use any of their features on the Website. Unless expressly stated otherwise, we do not share any personal information with these third parties or control how these third parties use their cookies, so we suggest you check their website to see how they're using them and how you can manage them. You can set your browser to refuse all third-party cookies, or to alert you when cookies are being sent. Our systems do not recognize browser “Do Not Track” signals.  
+
+### Google Analytics  
+
+We use Google as a service provider to collect and analyse information about how users use the Website, including by collecting website activity data through first-party cookies set by our domains, and third-party cookies set by Google. Because we activated IP anonymization for Google Analytics, Google will anonymize the last octet of a particular IP address and will not store your full IP address. Google will use the information only to provide Google Analytics services to us and will not use this information for other purposes. In addition, Pornhub uses Google Signals, which are also services provided by Google that help us to run remarketing campaigns, collect more accurate data, and understand in a better way how users engage with Pornhub on different devices (cross-device activity). Google Signals apply to Google users who accept personalized advertising on their Google accounts.  
+
+You can learn more on how Google uses data [here](https://policies.google.com/technologies/partner-sites). You can opt-out of Google Analytics by visiting the [Google Analytics opt-out page](https://tools.google.com/dlpage/gaoptout) or by accepting only essential cookies.  
+
+To view an overview of your Google Analytics cookie please go here:  
+
+ [https://support.google.com/analytics/answer/6004245](https://support.google.com/analytics/answer/6004245).  
+
+### Local Storage  
+
+|     |     |     |     |
+| --- | --- | --- | --- |
+| **Name** | **Purpose** | **Used** | **Type** |
+| **mgp\_player** | Are used to hold information about the media player of the website | First Party | Essential |
+| **enableStorage** | Detects if Local Storage works in browser | First Party | Essential |
+| **returnId** | Are used when the user navigates though information pages (e.g. Privacy Notice, DMCA) | First Party | Non-Essential |
+| **returnUrl** | Are used when the user navigates though information pages (e.g. Privacy Notice, DMCA) | First Party | Non-Essential |
+| **isReloaded** | Are used when the user navigates though information pages (e.g. Privacy Notice, DMCA) | First Party | Non-Essential |
+| **videoVote** | Is used on Mobile devices for modifying video's state of likes/dislikes when a user votes | First Party | Non-Essential |
+| **activeQuality** | Enables video's quality button functionality | First Party | Non-Essential |
+| **mgp\_player\*** | Are used to hold information about the media player of the website | First Party | Essential |
+
+### How To Control and Delete Cookies  
+
+_Cookie Banner_  
+
+You can use our cookie banner to accept all cookies or choose to accept only essential cookies. The cookie banner will record when and in which cookies you have consented to.  Your cookie banner selection will be saved only during each specific session.  
+
+_Manage Cookies Option_  
+
+Analytics, Functional and Targeting cookies can be switched on or off at any time by accessing the 'Manage Cookies' option located at the footer of the Website. However, if you choose not to accept these cookies, some functionalities of the Website may be disabled or your access to certain parts of the Website might be interrupted.   
+
+_Browser Settings_  
+
+You can set your browser to automatically accept all cookies (usually this set as default), to alert you when cookies are being used or not to allow the use of cookies. To manage and disable cookies through your browser, follow the instructions usually located within the “Help,” “Tools” or “Edit” menus in your browser. You can also delete Local Storage from your browser at any time you like by visiting your web browser settings. 
+
 RATING
 ------
 
@@ -1419,4 +1564,4 @@ Feedback / Commentaires
 
 © Thumbzilla 2024
 
-[Terms of Service](https://www.thumbzilla.com/information#terms) [CSAM Policy](https://www.thumbzilla.com/child-sexual-abuse-material-policy) [NCC Policy](https://www.thumbzilla.com/non-consensual-content-policy) [Privacy Policy](https://www.thumbzilla.com/information#privacy) [Content Removal](https://www.pornhub.com/content-removal) [DMCA](https://www.thumbzilla.com/information#dmca) [DMCA Takedown Form](https://www.thumbzilla.com/information#dmcaform) [2257](https://www.thumbzilla.com/information#statement) [EU DSA](https://www.thumbzilla.com/information#eu-dsa) [Recommender System Guidelines](https://www.thumbzilla.com/information#recommender)[](https://www.thumbzilla.com/information#rating)
+[Terms of Service](https://www.thumbzilla.com/information#terms) [CSAM Policy](https://www.thumbzilla.com/child-sexual-abuse-material-policy) [NCC Policy](https://www.thumbzilla.com/non-consensual-content-policy) [Privacy Policy](https://www.thumbzilla.com/information#privacy) [Content Removal](https://www.pornhub.com/content-removal) [DMCA](https://www.thumbzilla.com/information#dmca) [DMCA Takedown Form](https://www.thumbzilla.com/information#dmcaform) [2257](https://www.thumbzilla.com/information#statement) [EU DSA](https://www.thumbzilla.com/information#eu-dsa) [Recommender System Guidelines](https://www.thumbzilla.com/information#recommender) [DPA](https://www.thumbzilla.com/information#processors) [Cookie Notice](https://www.thumbzilla.com/information#cookie-notice)[](https://www.thumbzilla.com/information#rating)
