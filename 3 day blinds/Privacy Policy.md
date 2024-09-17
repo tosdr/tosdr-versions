@@ -3,11 +3,10 @@
 Privacy Policy
 ==============
 
-**Last Updated on: December 2022  
-Effective Date: December 2022**
+**Last Updated on: September 2024  
+Effective Date: December 2019**
 
-This Privacy Policy describes how 3 Day Blinds LLC, 3dayblinds.com and its affiliates (collectively, “3 Day Blinds,” “we,” “us,” or “our”) collects, uses, shares, and safeguards personal information. This Privacy Policy also tells you about your rights and choices with respect to your personal information, and how you can reach us to get answers to your questions. You can jump to particular topics by going to the headings below:  
-  
+This Privacy Policy describes how 3 Day Blinds LLC, 3dayblinds.com and our affiliates (collectively, “Company,” “we,” “us,” or “our”) collects, uses, shares, and safeguards personal information. This Privacy Policy also tells you about your rights and choices with respect to your personal information, and how you can reach us to get answers to your questions. If you are visually impaired, you may call our toll-free number at 866-930-0488 and request that we read the notice to you.  
 
 [Types Of Information We Collect](#Type_Of_Information_We_Collect)
 
@@ -25,7 +24,9 @@ This Privacy Policy describes how 3 Day Blinds LLC, 3dayblinds.com and its affil
 
 [Contact Information and Submitting Request](#Contact_Info)
 
-[California Information Sharing Disclosure](#California_Information_Sharing_Disclosure)
+[Additional Information on Disclosure](#Additional_information_On_Disclosure)
+
+[California Sensitive Information Disclosure](#California_Information_Sharing_Disclosure)
 
   
 **Types Of Information We Collect.**
@@ -37,12 +38,13 @@ Home Improvement Contract and Consultation Information
 ---------------------------------------------------------
 
 * We collect your name and contract information such as your email address, home address, phone number, and zip code
-* Primary Purpose for Collection and Use of Data: We use the information you provide to schedule an in-home consultation with a professional design consultant, to contact you regarding our products, or to reach out to you for customer service purposes. We use this information to fulfill our purchase or home improvement contract with you.
+* Primary Purpose for Collection and Use of Data: We use the information you provided to schedule an in-home consultation with a professional design consultant, to contact you regarding our products, or to reach out to you for customer service purposes. We use this information to fulfill our purchase or home improvement contract with you.
 
 Customer Information
 --------------------
 
-* We collect the name, and contact information, of our customers and their employees with whom we may interact.
+* We collect the name, and contact information, of our customers and their employees with whom we may interact.  
+    
 * Primary Purpose for Collection and Use of Data: We use this information to contact our customers and communicate with them concerning normal business administration such as projects, services, and billing, and to provide additional information regarding products.
 
 Cookies And First-Party Tracking
@@ -54,7 +56,7 @@ Cookies And First-Party Tracking
 Cookies And Third-Party Tracking
 --------------------------------
 
-* We may participate in behavior-based advertising, this means that a third party uses technology (e.g., a cookie) to collect information about your use of our website so that they can provide advertising about products and services tailored to your interests on our website, or on other websites. See our Cookies Section below for more information.
+* We may participate in behavior-based advertising, this means that a third party uses technology (e.g., a cookie) to collect information about your use of our website so that they can provide advertising about products and services tailored to your interests on our website, or on other websites. See our [Cookies Section](#Cookies) below for more information.
 * Primary Purpose for Collection and Use of Data: We use this technology to tailor advertising about products specifically to your interests. 
 
 Dealer And Partner Information
@@ -123,6 +125,12 @@ Sweepstakes Or Contests
 * When you participate in a sweepstakes or contest we collect information about you which includes contact information to notify you if you are selected.
 * Primary Purpose for Collection and Use of Data We use this information to, among other things, notify you if you are selected. In some contexts we are also required by law to collect information about those that enter into our sweepstakes, and we use this information to comply with those laws.
 
+Website Interactions
+--------------------
+
+* We use technology to monitor how you interact with our website. This may include which links you click on, or information that you type into our online forms. This may also include information about your device or browser.
+* Primary Purpose for Collection and Use of Data: We use this information to aid our understanding of how you interact with our website to better improve it, and to understand your preferences and interests in order to select offerings that you might find most useful. We also use this information to detect and prevent fraud.
+
 Website Logs
 ------------
 
@@ -164,7 +172,7 @@ Unless you clear these cookies from your browser, we may use this information to
 * Detect and defend against fraud and other risks to protect users and partners
 * Improve our products
 
-Controlling cookies. Most browsers allow you to control and erase cookies through their settings preferences. However, if you limit the ability of websites to set cookies, you may worsen your overall user experience, since it will no longer be personalized to you. Additionally, some features may work improperly or not at all. It may also stop you from saving customized settings. You also have the right to opt-out of online tracking based targeted advertising (e.g., cookies) by clicking the link here. 
+Controlling cookies. Most browsers allow you to control and erase cookies through their settings preferences. However, if you limit the ability of websites to set cookies, you may worsen your overall user experience, since it will no longer be personalized to you. Additionally, some features may work improperly or not at all. It may also stop you from saving customized settings. You also have the right to opt-out of online tracking based targeted advertising (e.g., cookies) by clicking the link.
 
 ### **Sharing Of Information.**
 
@@ -180,20 +188,19 @@ In addition to the specific situations discussed elsewhere in this policy, we di
 
 You can make the following choices regarding your personal information:
 
-1. Access to Your Personal Information. You may request access to your personal information by contacting us as discussed in this policy. If required by law, upon request, we will grant you reasonable access to the personal information that we have about you. Note that California residents may be entitled to ask us for a notice describing what categories of personal information (if any) we share with third parties or affiliates for direct marketing.[](https://hdug.exterro.net/portal/dsar.htm?target=3_Day_Blinds)
+1. Access to Your Personal Information. You may request access to your personal information by contacting us as discussed in this policy. If required by law, upon request, we will grant you reasonable access to the personal information that we have about you. In some jurisdictions and under limited circumstances, you may also request to receive access to your personal information in a portable, machine-readable format. Note that California residents may be entitled to ask us for a notice describing what categories of personal information (if any) we share with third parties or affiliates for direct marketing. Oregon residents may be entitled to ask us for a list of third parties we have shared information with during the processing activities.
 2. Changes to Your Personal Information. We rely on you to update and correct your personal information. If our website does not permit you to update or correct certain information, you can contact us at the address described below in order to request that your information be modified. You may ask us to correct information that is inaccurate or incomplete. Note that we may keep historical information in our backup files as permitted by law. 
 3. Deletion of Your Personal Information. Typically, we retain your personal information for the period necessary to fulfill the purposes outlined in this policy, unless a longer retention period is required or permitted by law. You may, however, request information about how long we keep a specific type of information, or request that we delete your personal information by contacting us as discussed in this policy. If required by law we will grant a request to delete information, but you should note that in many situations we must keep your personal information to comply with our legal obligations, resolve disputes, enforce our agreements, or for another one of our business purposes.  
       
       
     Deletion of Information in the PowerView® Mobile Application  
-    If you are only requesting deletion of the information collected by the PowerView Mobile Application, you can do so by using the automated form found at [https://www.powerviewmotorization.com/requestGDPRDelete](https://www.powerviewmotorization.com/requestGDPRDelete). Please note that this will only delete your information collected via that application.  
-    [](https://hdug.exterro.net/portal/dsar.htm?target=3_Day_Blinds)
-4. Opt-out of Targeted Advertising. You may opt-out of online tracking based targeted advertising (e.g., cookies) by clicking the “Do Not Share” link on the bottom of the homepage. 
-5. Objection to Certain Processing. You may object to our use or disclosure of your personal information by contacting us at the address described below.
-6. Online Tracking. We do not currently recognize automated browser signals regarding tracking mechanisms, which may include "Do Not Track" instructions.
-7. Promotional Emails. You may choose to provide us with your email address for the purpose of allowing us to send newsletters, surveys, offers, and other promotional materials to you, as well as targeted offers from third parties. You can stop receiving promotional emails by following the unsubscribe instructions in e-mails that you receive. If you decide not to receive promotional emails, we may still send you service-related communications.
-8. Promotional Mailings. If at any time you do not want to receive offers and/or circulars from us you can remove yourself from our mailing lists by emailing us (our contact information is below) with "NO SNAIL MAIL" in the subject line along with your name, address and zip code and we will remove you if required by law. Please note that our mailings are prepared in advance of their being sent. Although we will remove your name from our mailing list after receiving your request, you may still receive mailings from us that had been initiated prior to your name being removed. You may also still receive mailers from third parties containing information about the Company if the Company hired that party to send mailers to certain groups or markets. In those scenarios, the third party’s privacy policy applies.
-9. Revocation of Consent. If you revoke your consent for the processing of personal information then we may no longer be able to provide you services. In some cases, we may limit or deny your request to revoke consent if the law permits or requires us to do so, or if we are unable to adequately verify your identity. You may revoke consent to processing (where such processing is based upon consent) by contacting us at the address described below.
+    If you are only requesting deletion of the information collected by the PowerView Mobile Application, you can do so by using the automated form found at  [https://www.powerviewmotorization.com/requestGDPRDelete](https://www.powerviewmotorization.com/requestGDPRDelete). Please note that this will only delete your information collected via that application.  
+    
+4. Opt-out of Targeted Advertising. You may opt-out of online tracking based targeted advertising (e.g., cookies) or other forms of targeted advertising by clicking the “Do Not Sell or Share My Personal Information” link on the bottom of the homepage. Please note that if you change browsers or devices, or if you clear your browser’s cache, you may need to click the link again to apply your preferences. We also recognize [Global Privacy Control (GPC) signals](https://globalprivacycontrol.org/ "https://globalprivacycontrol.org/") enabled by customers on their web browser or web browser extension as valid opt-out requests where required by applicable law. Please note that your opt-out preference signal will be applied only to your current browser and device. For more information about GPC, please visit [Global Privacy Control](https://globalprivacycontrol.org/ "https://globalprivacycontrol.org/").
+5. Online Tracking. We do not currently recognize automated browser signals regarding tracking mechanisms, which may include "Do Not Track" instructions.
+6. Promotional Emails. You may choose to provide us with your email address for the purpose of allowing us to send newsletters, surveys, offers, and other promotional materials to you, as well as targeted offers from third parties. You can stop receiving promotional emails by following the unsubscribe instructions in e-mails that you receive. If you decide not to receive promotional emails, we may still send you service-related communications.
+7. Promotional Mailings. If at any time you do not want to receive offers and/or circulars from us you can remove yourself from our mailing lists by emailing us (our contact information is below) with "NO SNAIL MAIL" in the subject line along with your name, address and zip code and we will remove you if required by law. Please note that our mailings are prepared in advance of their being sent. Although we will remove your name from our mailing list after receiving your request, you may still receive mailings from us that had been initiated prior to your name being removed. You may also still receive mailers from third parties containing information about the Company if the Company hired that party to send mailers to certain groups or markets. In those scenarios, the third party’s privacy policy applies.
+8. Revocation of Consent. If you revoke your consent for the processing of personal information then we may no longer be able to provide you services. In some cases, we may limit or deny your request to revoke consent if the law permits or requires us to do so, or if we are unable to adequately verify your identity. You may revoke consent to processing (where such processing is based upon consent) by contacting us at the address described below.
 
 Please note, not all of the rights described above are absolute, and they do not apply in all circumstances. In some cases, we may limit or deny your request because the law permits us or requires us to do so, or if we are unable to adequately verify your identity. We will not discriminate against individuals who exercise their privacy rights under applicable law. 
 
@@ -201,7 +208,7 @@ _Submitting Requests_
 
 You may exercise the rights described above through our [request portal](https://hdug.exterro.net/portal/dsar.htm?target=3_Day_Blinds) or by contacting us as indicated in the “Contact Information” section below. If you disagree how we handled a request, you may appeal our decision by contacting us with the subject line “Appeal.” 
 
-Note that, as required by law, we will require you to prove your identity. We may verify your identity by phone call, email, or via our online identification tool available via our [request portal](https://hdug.exterro.net/portal/dsar.htm?target=3_Day_Blindshttps://hdug.exterro.net/portal/dsar.htm?target=3_Day_Blinds)  Depending on your request, we may ask for information such as your name, the last item you purchased from us, or the date of your last purchase from us. Our identification tool may also look at public records to verify your identity. We may also ask you to provide a signed declaration confirming your identity.
+Note that, as required by law, we will require you to prove your identity. We may verify your identity by phone call, email, or via our online identification tool available via our [request portal](https://hdug.exterro.net/portal/dsar.htm?target=3_Day_Blindshttps://hdug.exterro.net/portal/dsar.htm?target=3_Day_Blinds). Depending on your request, we may ask for information such as your name, the last item you purchased from us, or the date of your last purchase from us. Our identification tool may also look at public records to verify your identity. We may also ask you to provide a signed declaration confirming your identity.
 
 In some circumstances, you may designate an authorized agent to submit requests to exercise certain privacy rights on your behalf. We will require verification that you provided the authorized agent permission to make a request on your behalf. You must provide us with a copy of the signed permission you have given to the authorized agent to submit the request on your behalf and verify your own identity directly with us. If you are an authorized agent submitting a request on behalf of an individual you must attach a copy of the following information to the request:
 
@@ -223,7 +230,7 @@ The following additional information relates to our privacy practices:
 * Transmission of Information To Other Countries. Your information may be processed in a foreign country where privacy laws may be less stringent than the laws in your country. By submitting your personal information to us you agree to the transfer, storage and processing of your information in a country other than your country of residence including, but not necessarily limited to, the United States.
 * Third Party Applications/Websites. We have no control over the privacy practices of websites or applications that we do not own.
 * Changes To This Privacy Policy. We may change our privacy policy and practices over time. To the extent that our policy changes in a material way, the policy that was in place at the time that you submitted personal information to us will generally govern that information unless we receive your consent to the new privacy policy. Our privacy policy includes an “effective” and “last updated” date. The effective date refers to the date that the current version took effect. The last updated date refers to the date that the current version was last substantively modified.
-* Information for California Residents. California Civil Code Sections 1798.115(c), 1798.130(a)(5)(c), 1798.130(c), and 1798.140 indicate that organizations should disclose whether certain categories of information are collected, “sold” or transferred for an organization’s “business purpose” (as those terms are defined under California law). You can find a list of the categories of information that we collect and share below. Please note that because this list is comprehensive it may refer to types of information that we share about people other than yourself. If you would like more information concerning the categories of personal information (if any) we share with third parties or affiliates for those parties to use for direct marketing, please submit a written request to us using the information in the "Contact Information" section below. We do not discriminate against California residents who exercise any of their rights described in this Privacy Policy.
+* California Shine the Light If you would like more information concerning the categories of personal information (if any) we share with third parties or affiliates for those parties to use for direct marketing, please contact us as indicated in the “Contact Information” section below.
 * Accessibility. If you are visually impaired, you may call our toll-free number at 866-930-0488 and request that we read the notice to you.
 
 ### **Contact Information And Submitting Request**
@@ -242,21 +249,17 @@ Link to Request Portal: [Click Here](https://hdug.exterro.net/portal/dsar.htm?ta
 Toll Free Phone #: 866-930-048
 
 Effective Date: December, 2019  
-Last Updated Date: December, 2022
+Last Updated Date: September, 2024
 
-### CALIFORNIA INFORMATION SHARING DISCLOSURE  
+### **ADDITIONAL INFORMATION ON DISCLOSURE**  
 
-California Civil Code Sections 1798.115(c), 1798.130(a)(5)(c), 1798.130(c), and 1798.140 indicate that organizations should disclose whether the following categories of personal information are collected, disclosed for a business purpose, “sold” and/or “shared” (as those terms are defined under California law). We do not knowingly sell the personal information of minors under 16 years of age. The information below indicates the categories of personal information we collect and transfer in a variety of contexts. Please note that because this list is comprehensive, it may refer to types of information that we collect and share about people other than yourself. For example, while we transfer credit card or debit card numbers for our business purpose in order to process payments for orders placed with us, we do not collect or transfer credit card or debit card numbers of individuals that submit questions through our website’s “contact us” page.  
-  
-Note that any third party that we share your information with will provide the same or equal protection of your information as stated in this Privacy Policy. 
+Some laws, such as California Civil Code Sections 1798.115(c), 1798.130(a)(5)(c), 1798.130(c), and 1798.140, require that organizations disclose whether the following categories of personal information are shared with third parties. . We do not knowingly sell the personal information of minors under 16 years of age. The information below indicates the categories of personal information we collect and transfer in a variety of contexts.
 
-### CATEGORIES OF INFORMATION WE COLLECT
+The following provides examples of the categories of personal information that we collect from you and how we use and disclose that information. 
 
-The following provides examples of the categories of personal information that we collect from you and how we use that information. The following also describes the categories of sensitive personal information (as defined under California law) we collect and why. These sensitive categories will indicate whether we “sell” or “share” such information (as those terms are defined under California law). 
+### **Identifiers**
 
-**Identifiers**
-
-Such as name, postal address, phone number, unique personal identifier, online identifier, internet protocol (IP) address, device ID, email address, account name, signature, social security number, driver’s license number, passport number, or other similar identifiers.
+Such as name, postal address, phone number, unique personal identifier, online identifier, internet protocol (IP) address, device ID, email address, account name, signature, social security number, driver’s license number, passport number, or other similar identifiers .This information may be shared for behavioral advertising or processed for purposes of targeted advertising.  
 
 To Whom We Disclose Personal Information for Business Purposes:
 
@@ -382,3 +385,7 @@ To Whom We Disclose Personal Information for Business Purposes:
 * Government entities, law enforcement, lawyers, auditors, consultants and other parties as required by law  
     
 * Data analytics providers
+
+### CALIFORNIA SENSITIVE INFORMATION DISCLOSURE
+
+* We collect the following categories of sensitive personal information from applicants (as defined under California law): a consumer’s social security, driver’s license, state identification card, racial or ethnic origin, or passport number. This information is collected in order to process transactions, comply with laws, manage our business, or provide you with services. Note that we do not use such information for any purposes that are not identified within the California Privacy Rights Act Section 1798.121. We do not “sell” or “share” sensitive personal information for purposes of cross-context behavioral advertising.
