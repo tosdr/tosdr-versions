@@ -34,11 +34,11 @@ Login Stay logged in
 
 Latest Forum Topics
 
-* [What question do you want to ask AU? (11,480)](https://forum.nationstates.net/viewtopic.php?t=492529&f=25&view=unread#unread ""What question do you want to ask AU?" (11,480 posts)")
-* [Based on AN flag, what do they export… (379)](https://forum.nationstates.net/viewtopic.php?t=551783&f=25&view=unread#unread ""Based on AN flag, what do they export? (REVIVAL)" (379 posts)")
-* [Would you Live in AN'S (3,471)](https://forum.nationstates.net/viewtopic.php?t=546200&f=25&view=unread#unread ""Would you Live in AN'S" (3,471 posts)")
-* [The Collective Security League: OOC s… (6,357)](https://forum.nationstates.net/viewtopic.php?t=533133&f=5&view=unread#unread ""The Collective Security League: OOC signup" (6,357 posts)")
-* [NFL Football Thread 24-25: The Road t… (7,458)](https://forum.nationstates.net/viewtopic.php?t=527922&f=20&view=unread#unread ""NFL Football Thread 24-25: The Road to New Orleans!" (7,458 posts)")
+* [9/11 Memorial Day 2024 Discussion Thread (69)](https://forum.nationstates.net/viewtopic.php?t=555098&f=20&view=unread#unread ""9/11 Memorial Day 2024 Discussion Thread" (69 posts)")
+* [Change a Letter (1,913)](https://forum.nationstates.net/viewtopic.php?t=551994&f=25&view=unread#unread ""Change a Letter" (1,913 posts)")
+* [Guess Who BN Is! (4,075)](https://forum.nationstates.net/viewtopic.php?t=553505&f=25&view=unread#unread ""Guess Who BN Is!" (4,075 posts)")
+* [Rewrite AN's motto based on their...… (617)](https://forum.nationstates.net/viewtopic.php?t=542020&f=25&view=unread#unread ""Rewrite AN's motto based on their... banner?" (617 posts)")
+* [Your favorite part of AN’s forum sig XI (479)](https://forum.nationstates.net/viewtopic.php?t=555083&f=25&view=unread#unread ""Your favorite part of AN’s forum sig XI" (479 posts)")
 
 Advertisement
 
