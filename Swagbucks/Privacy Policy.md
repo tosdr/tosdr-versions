@@ -191,7 +191,7 @@ Show More > Show Less <
 * [Bath & Body Works Gift Card](https://www.swagbucks.com/p/prize/28543/Bath-Body-Works-25-Gift-Card "Bath & Body Works Gift Card")
 * [Bed, Bath, & Beyond Gift Card](https://www.swagbucks.com/rewards-store "Bed, Bath, & Beyond Gift Card")
 * [Best Buy Gift Card](https://www.swagbucks.com/p/prize/30502/Best-Buy-50-Gift-Card "Best Buy Gift Card")
-* [CryptoVoucher](https://www.swagbucks.com/p/prize/34380/Bitcoin-CryptoVoucher-30 "CryptoVoucher")
+* [CryptoVoucher](https://www.swagbucks.com/rewards-store "CryptoVoucher")
 * [Bloomin' Brands Gift Card](https://www.swagbucks.com/p/prize/33377/Bloomin-Brands-25-Gift-Card "Bloomin' Brands Gift Card")
 * [Bonefish Grill Gift Card](https://www.swagbucks.com/p/prize/33375/Bonefish-Grill-25-Gift-Card "Bonefish Grill Gift Card")
 * [Boscov's Gift Card](https://www.swagbucks.com/p/prize/28552/Boscov-s-25-Gift-Card "Boscov's Gift Card")
