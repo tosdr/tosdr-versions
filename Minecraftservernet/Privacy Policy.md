@@ -29,17 +29,15 @@ Version All 1.21.1 1.21 1.20.6 1.20.5 1.20.4 1.20.3 1.20.2 1.20.1 1.20 1.19.4 1.
 
 Active Servers
 
-[![kchscraft](plugins/MineCraft/icons/25x25xkchscraft_1658311151.png.pagespeed.ic.fnqNIplg0a.png)
+[![SkyKingdoms](plugins/MineCraft/icons/25x25xSkyKingdoms_1720407634.png.pagespeed.ic._J3-_Ygvrw.png)
 
-KCHS Craft](https://minecraft-server.net/details/kchscraft/ "KCHS Craft")[![Crackex_Network](plugins/MineCraft/icons/25x25xCrackex_Network_1719945700.png.pagespeed.ic.5lGRZnbn0U.jpg)
+Survival Update! - Sky Kingdoms](https://minecraft-server.net/details/SkyKingdoms/ "Survival Update! - Sky Kingdoms")[![StarlightVanilla](plugins/MineCraft/icons/25x25xStarlightVanilla_1709993469.png.pagespeed.ic.z7HQX3Tv5_.jpg)
 
-CrackexNet | NEW SURVIVAL + FREE RANK](https://minecraft-server.net/details/Crackex_Network/ "CrackexNet | NEW SURVIVAL + FREE RANK")[![WarpedRealm](plugins/MineCraft/icons/25x25xWarpedRealm_1639936703.png.pagespeed.ic.HQRaPf9joK.png)
+VPG | Modern Anarchy](https://minecraft-server.net/details/StarlightVanilla/ "VPG | Modern Anarchy")[![Niron](plugins/MineCraft/icons/Niron_1706892061.png.pagespeed.ce.IkJB58kMfF.png)
 
-WarpedRealm.com](https://minecraft-server.net/details/WarpedRealm/ "WarpedRealm.com")[![simplyvanilla](plugins/MineCraft/icons/25x25xsimplyvanilla_1724739126.png.pagespeed.ic.Cd50vz760y.jpg)
+Steinercraft - Vanilla-based Anarchy](https://minecraft-server.net/details/Niron/ "Steinercraft - Vanilla-based Anarchy") [Stormy Lagoon - Crossplay 1.21.1](https://minecraft-server.net/details/StormyLagoon/ "Stormy Lagoon - Crossplay 1.21.1")[![anarchyac](plugins/MineCraft/icons/25x25xanarchyac_1719165747.png.pagespeed.ic.kZQ7Exczo_.png)
 
-Simply Vanilla \[Anarchy with no hacks\]](https://minecraft-server.net/details/simplyvanilla/ "Simply Vanilla [Anarchy with no hacks]")[![SkyblockAnarchy](plugins/MineCraft/icons/25x25xSkyblockAnarchy_1680402377.png.pagespeed.ic.VilkXiVJ71.jpg)
-
-Skyblock Anarchy](https://minecraft-server.net/details/SkyblockAnarchy/ "Skyblock Anarchy")
+Anarchy](https://minecraft-server.net/details/anarchyac/ "Anarchy")
 
 1. [Minecraft Servers](https://minecraft-server.net/)
 2. Privacy Policy
@@ -142,4 +140,4 @@ Set
 * [Statistics](https://minecraft-server.net/overall-stats/ "Statistics")
 * [Contact](https://minecraft-server.net/contact/ "Contact")
 
-© Minecraft-Server.net 2024. All rights reserved. 'Minecraft' is a property of [Mojang](https://www.mojang.com/). You can buy [Minecraft here](https://www.minecraft.net/). 7 queries, time: 0.0654 - Created by [Debaucus](https://debauc.us/)
+© Minecraft-Server.net 2024. All rights reserved. 'Minecraft' is a property of [Mojang](https://www.mojang.com/). You can buy [Minecraft here](https://www.minecraft.net/). 7 queries, time: 0.05932 - Created by [Debaucus](https://debauc.us/)
