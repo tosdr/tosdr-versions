@@ -25,7 +25,7 @@ Kanalübersicht
 
 | Kanal | Impact | Engagement | Follower |
 | --- | --- | --- | --- |
-| [twitch<br><br>Datenschutz](https://nindo.de/datenschutz/stats/8ea0e790c6e89435bab21f9a427b0209458c939d) |     |     |     |
+| [twitch](https://www.twitch.tv/datenschutz)[Datenschutz](https://nindo.de/datenschutz/stats/8ea0e790c6e89435bab21f9a427b0209458c939d) |     |     |     |
 
 Netzwerk
 --------
@@ -34,12 +34,12 @@ Creator hat erwähnt
 
 Creator wurde erwähnt
 
-![Creator Netzwerk Vorschau](/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fnetwork.63e65d78.png&w=3840&q=75&dpl=dpl_ApNL8ewECPohNF2QTZU67T9PfXzz)Netzwerk Insights erhältst du nur mit Nindo Pro[Jetzt Demo vereinbaren](https://nindo.de/demo)
+![Creator Netzwerk Vorschau](/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fnetwork.63e65d78.png&w=3840&q=75&dpl=dpl_86mPn2fUBYczzDM3fmTWTxmqLQHQ)Netzwerk Insights erhältst du nur mit Nindo Pro[Jetzt Demo vereinbaren](https://nindo.de/demo)
 
 Erwähnte Brands
 ---------------
 
-![Creator Netzwerk Vorschau](/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fnetwork.63e65d78.png&w=3840&q=75&dpl=dpl_ApNL8ewECPohNF2QTZU67T9PfXzz)Netzwerk Insights erhältst du nur mit Nindo Pro[Jetzt Demo vereinbaren](https://nindo.de/demo)
+![Creator Netzwerk Vorschau](/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fnetwork.63e65d78.png&w=3840&q=75&dpl=dpl_86mPn2fUBYczzDM3fmTWTxmqLQHQ)Netzwerk Insights erhältst du nur mit Nindo Pro[Jetzt Demo vereinbaren](https://nindo.de/demo)
 
 * Plattform
 * [Instagram](https://nindo.de/features/instagram)
