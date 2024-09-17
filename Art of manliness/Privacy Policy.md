@@ -649,6 +649,12 @@ I agree to the [privacy policy](#) terms.
 
 ![podcast](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/podcast-2.jpg)
 
+[![podcast icon](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/podcast-icon.jpg)](https://www.artofmanliness.com/character/behavior/podcast-1023-is-self-control-overrated/)
+
+[Podcast #1,023
+
+###### Is Self-Control Overrated?](https://www.artofmanliness.com/character/behavior/podcast-1023-is-self-control-overrated/)
+
 [![podcast icon](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/podcast-icon.jpg)](https://www.artofmanliness.com/health-fitness/fitness/podcast-1021-you-were-born-to-run/)
 
 [Podcast #1,021
@@ -666,12 +672,6 @@ I agree to the [privacy policy](#) terms.
 [Podcast #1,019
 
 ###### 10 Philosophy-Inspired Challenges for Becoming a Better and Happier Man](https://www.artofmanliness.com/character/advice/podcast-1019-seriously-happy/)
-
-[![podcast icon](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/podcast-icon.jpg)](https://www.artofmanliness.com/people/relationships/podcast-865-how-to-win-friends-and-influence-people-in-the-21st-century/)
-
-[Podcast #865
-
-###### How to Win Friends and Influence People in the 21st Century](https://www.artofmanliness.com/people/relationships/podcast-865-how-to-win-friends-and-influence-people-in-the-21st-century/)
 
 [View all](https://www.artofmanliness.com/podcast/)
 
