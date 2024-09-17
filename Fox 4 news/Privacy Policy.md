@@ -401,35 +401,35 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
- [![Lyft unveils feature to help riders avoid surge pricing](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/Lyft-car.jpg?ve=1&tl=1)
+ [![Biden speaks with Trump after 2nd assassination attempt, condemns violence](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/GettyImages-1252481749-a.jpg?ve=1&tl=1)
 
- ![Lyft unveils feature to help riders avoid surge pricing](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/592/333/Lyft-car.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/lyft-feature-riders-surge-pricing)
+ ![Biden speaks with Trump after 2nd assassination attempt, condemns violence](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/592/333/GettyImages-1252481749-a.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/biden-calls-trump-assassination-attempt)
 
-### [Lyft unveils feature to help riders avoid surge pricing](https://www.fox4news.com/news/lyft-feature-riders-surge-pricing)
+### [Biden speaks with Trump after 2nd assassination attempt, condemns violence](https://www.fox4news.com/news/biden-calls-trump-assassination-attempt)
 
- [![New bill would ban sports betting ads during games, bets on college athletes](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/nfl-getty.jpg?ve=1&tl=1)
+ [![Dallas murder victim's family confronts killer in court: 'I'd blow your f---- head off!'](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/kevin-sheffield-victim-impact-states.png?ve=1&tl=1)
 
- ![New bill would ban sports betting ads during games, bets on college athletes](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/592/333/nfl-getty.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/new-bill-ban-sports-betting-ads-games-bets-college-athletes)
+ ![Dallas murder victim's family confronts killer in court: 'I'd blow your f---- head off!'](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/592/333/kevin-sheffield-victim-impact-states.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/kevin-sheffield-50-year-prison-sentence-murder-convicted-killer)
 
-### [New bill would ban sports betting ads during games, bets on college athletes](https://www.fox4news.com/news/new-bill-ban-sports-betting-ads-games-bets-college-athletes)
+### [Dallas murder victim's family confronts killer in court: 'I'd blow your f---- head off!'](https://www.fox4news.com/news/kevin-sheffield-50-year-prison-sentence-murder-convicted-killer)
 
- [![How to register to vote in Texas](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2020/11/32/18/GettyImages-1210216546.jpg?ve=1&tl=1)
+ [![Dallas has received 160 complaints about short-term rentals this year](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/P-LORI-SHORT-TERM-RENTAL-530P_KDFW1283_146_mxf_00.01.18.48.jpg?ve=1&tl=1)
 
- ![How to register to vote in Texas](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2020/11/32/18/592/333/GettyImages-1210216546.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/register-vote-texas-2024-election)
+ ![Dallas has received 160 complaints about short-term rentals this year](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/592/333/P-LORI-SHORT-TERM-RENTAL-530P_KDFW1283_146_mxf_00.01.18.48.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/dallas-short-term-rental-complaints)
 
-### [How to register to vote in Texas](https://www.fox4news.com/news/register-vote-texas-2024-election)
+### [Dallas has received 160 complaints about short-term rentals this year](https://www.fox4news.com/news/dallas-short-term-rental-complaints)
 
- [![WATCH: Body cam video shows deputies arresting Ryan Routh, alleged suspect in Trump assassination attempt](https://images.foxtv.com/static.fox13news.com/www.fox13news.com/content/uploads/2024/09/32/18/0CE2B23787EFBDF5A8ECC8AA224D57E8.jpg?ve=1&tl=1)
+ [![UNT Dallas hosts event to teach entrepreneurs about franchising opportunities](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/091624-jg-unt-dallas-franchise-week-5PKG-rabb-jgn__00.00.26.36.jpg?ve=1&tl=1)
 
- ![WATCH: Body cam video shows deputies arresting Ryan Routh, alleged suspect in Trump assassination attempt](https://images.foxtv.com/images.foxtv.com/static.fox13news.com/www.fox13news.com/content/uploads/2024/09/32/18/592/333/0CE2B23787EFBDF5A8ECC8AA224D57E8.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/watch-body-cam-video-shows-deputies-arresting-ryan-routh-alleged-suspect-trump-assassination-attempt)
+ ![UNT Dallas hosts event to teach entrepreneurs about franchising opportunities](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/592/333/091624-jg-unt-dallas-franchise-week-5PKG-rabb-jgn__00.00.26.36.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/unt-dallas-franchise-week)
 
-### [WATCH: Body cam video shows deputies arresting Ryan Routh, alleged suspect in Trump assassination attempt](https://www.fox4news.com/news/watch-body-cam-video-shows-deputies-arresting-ryan-routh-alleged-suspect-trump-assassination-attempt)
+### [UNT Dallas hosts event to teach entrepreneurs about franchising opportunities](https://www.fox4news.com/news/unt-dallas-franchise-week)
 
- [![LIVE: La Porte pipeline fire near Spencer Highway causes road closures, evacuations](https://images.foxtv.com/static.fox26houston.com/www.fox26houston.com/content/uploads/2024/09/32/18/CaptureWEWWSW.jpg?ve=1&tl=1)
+ [![Police chase ends near Richardson-Dallas border](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/snapshot-90.jpg?ve=1&tl=1)
 
- ![LIVE: La Porte pipeline fire near Spencer Highway causes road closures, evacuations](https://images.foxtv.com/images.foxtv.com/static.fox26houston.com/www.fox26houston.com/content/uploads/2024/09/32/18/592/333/CaptureWEWWSW.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/la-porte-pipeline-fire-near-spencer-highway-causes-road-closures-evacuations)
+ ![Police chase ends near Richardson-Dallas border](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/592/333/snapshot-90.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/richardson-dallas-police-chase-75)
 
-### [LIVE: La Porte pipeline fire near Spencer Highway causes road closures, evacuations](https://www.fox4news.com/news/la-porte-pipeline-fire-near-spencer-highway-causes-road-closures-evacuations)
+### [Police chase ends near Richardson-Dallas border](https://www.fox4news.com/news/richardson-dallas-police-chase-75)
 
 ###### [News](https://www.fox4news.com/news)
 
