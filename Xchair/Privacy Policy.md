@@ -88,7 +88,7 @@ Menu
         
         Learn About The Dynamic Variable Lumbar (DVL)® Support.](https://www.xchair.com/pages/ergonomics)
     
-* [Sale](https://www.xchair.com/collections/sale)
+* [Sale](https://www.xchair.com/collections/refurbished)
 
 * [BAG](https://www.xchair.com/cart)
 * [SIGN IN](https://www.xchair.com/account/login)
