@@ -387,8 +387,12 @@ Updated: April 26, 2021.
 
 Atlanta, GA
 
-66° Arthritis Index Neutral
+80° Arthritis Index Neutral
 
 [See More Details](https://www.arthritis.org/weather)
 
 Arthritis Foundation is a qualified 501(c)(3) EIN 58-1341679[](https://www.facebook.com/Arthritis.org/)[](https://www.instagram.com/arthritisfoundation/)[](https://www.linkedin.com/company/arthritis-foundation)[](https://twitter.com/ArthritisFdn)
+
+[I Want to Donate](https://www.arthritis.org/about-us/privacy-notice?form=FUNMPPXNHEF)
+
+[I Need Help](https://www.arthritis.org/helpline)
