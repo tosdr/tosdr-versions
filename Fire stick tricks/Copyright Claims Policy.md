@@ -85,11 +85,11 @@ Top VPNs
 
 #### Recent Posts
 
-* [How to Install Cumination Kodi Addon](https://www.firesticktricks.com/cumination-kodi-addon.html)
-* [How to Install Red Bull TV Kodi Addon (Official)](https://www.firesticktricks.com/red-bull-tv-kodi-addon.html)
-* [How to Install Nightwing Kodi Addon (All-in-One Addon)](https://www.firesticktricks.com/nightwing-kodi-addon.html)
-* [How to Install NewsOn Kodi Addon for Local News](https://www.firesticktricks.com/newson-kodi-addon.html)
-* [How to Install Megabox HD APK on FireStick (Movies & Shows)](https://www.firesticktricks.com/megbox-hd-firestick.html)
+* [How to Watch Anthony Joshua vs. Daniel Dubois on FireStick](https://www.firesticktricks.com/watch-anthony-joshua-vs-daniel-dubois-on-firestick.html)
+* [Streameast Domains Seized by Feds!](https://www.firesticktricks.com/streameast-domains-seized.html)
+* [How to AirPlay to FireStick from iPhone, iOS & Mac (2024)](https://www.firesticktricks.com/connect-airplay-to-firestick.html)
+* [5 Best (Totally Free) VPNs for FireStick (with Setup Guides)](https://www.firesticktricks.com/best-free-vpn-firestick.html)
+* [Streameast Appeals Against Domain Seizures](https://www.firesticktricks.com/streameast-appeal.html)
 
 [![Fire Stick Tricks](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%2059'%3E%3C/svg%3E)
 
