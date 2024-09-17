@@ -250,7 +250,7 @@ false
 
 https://www.hp.com/cma/ng/lib/exceptions/privacy-banner.js
 
-https://www8.hp.com
+https://www.hp.com
 
 https://tracking-na.hawksearch.com/api/trackevent
 
@@ -345,7 +345,7 @@ Computer Support](https://support.hp.com/us-en/computer "Computer Support")
 
 [Related links](javascript:void(0))
 
-[Shop Desktop Computers](https://www.hp.com/us-en/shop/cat/desktops) [How to Clear Browser History](https://www.hp.com/us-en/shop/tech-takes/how-to-clear-browser-history) [Computer Cookies: What They Are...](https://www.hp.com/us-en/shop/tech-takes/what-are-computer-cookies) [Uses and Applications for HP PageWide Industrial Presses](https://www.hp.com/us-en/commercial-industrial-printing/pagewide-corrugated/applications.html) [InkJet Presses for Corrugated Packaging](https://www.hp.com/us-en/commercial-industrial-printing/pagewide-corrugated-press.html) [Learn About Desktops & All-in-One Computers](https://www.hp.com/us-en/desktops-and-all-in-ones.html) [First Party vs Third Party Cookies...](https://www.hp.com/us-en/shop/tech-takes/first-party-vs-third-party-cookies) [Shop HP Monitors and Accessories](https://www.hp.com/us-en/shop/cat/accessories-88342--1) [HP PageWide T1195i Press –Digital Web Press for Printing Corrugated Boxes](https://www.hp.com/us-en/commercial-industrial-printing/pagewide-corrugated/t1195i-presses.html) [HP E27m G4 QHD USB-C Conferencing...](https://www.hp.com/us-en/shop/pdp/hp-e27m-g4-qhd-usb-c-conferencing-monitor)
+[Shop Laptops & 2-in-1 Computers](https://www.hp.com/us-en/shop/cat/laptops) [Shop HP Ink or Toner Cartridges](https://www.hp.com/us-en/shop/cat/ink--toner---paper) [HP Business Products](https://www.hp.com/us-en/shop/cat/business-solutions) [How to Clear Browser History](https://www.hp.com/us-en/shop/tech-takes/how-to-clear-browser-history) [Computer Cookies: What They Are...](https://www.hp.com/us-en/shop/tech-takes/what-are-computer-cookies) [HP PageWide T470S Press –Digital Web Press for Printing Corrugated Boxes](https://www.hp.com/us-en/commercial-industrial-printing/pagewide-corrugated/t470s-press.html) [Learn About Desktops & All-in-One Computers](https://www.hp.com/us-en/desktops-and-all-in-ones.html) [First Party vs Third Party Cookies...](https://www.hp.com/us-en/shop/tech-takes/first-party-vs-third-party-cookies) [HP® 81A Black LaserJet Toner Cartridge (CF281A)](https://store-prodlive-us.hpcloud.hp.com/us-en/shop/pdp/hp-81a-black-original-laserjet-toner-cartridge) [HP PageWide T1195i Press –Digital Web Press for Printing Corrugated Boxes](https://www.hp.com/us-en/commercial-industrial-printing/pagewide-corrugated/t1195i-presses.html)
 
 Select Your Country/Region and Language
 ---------------------------------------
