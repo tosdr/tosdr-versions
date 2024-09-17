@@ -1,6 +1,6 @@
 [![Wanderlog](/assets/logoWithText.png)](https://wanderlog.com/)
 
-* [Home](https://wanderlog.com/)
+* Home
 * [Travel guidesGuides](https://wanderlog.com/guides)
 * [Hotels](https://wanderlog.com/hotels)
 
