@@ -54,11 +54,11 @@
 
 [BREITBART](https://www.breitbart.com/ "Breitbart News Network")
 
-* [Debate Fallout](https://www.breitbart.com/tag/2024-presidential-election/)
+* [2nd Attempt](https://www.breitbart.com/tag/ryan-wesley-routh/)
+* [Taylor Swift](https://www.breitbart.com/tag/taylor-swift/)
 * [Springfield, OH](https://www.breitbart.com/tag/springfield/)
+* [Emmys](https://www.breitbart.com/tag/emmy-awards/)
 * [Google Ad Trial](https://www.breitbart.com/tag/google/)
-* [Tyreek Hill](https://www.breitbart.com/tag/tyreek-hill/)
-* [Brazil vs Musk](https://www.breitbart.com/tag/twitter/)
 * [Israel-Hamas War](https://www.breitbart.com/tag/israel/)
 
 Breitbart Privacy Policy
