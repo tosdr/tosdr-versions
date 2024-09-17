@@ -76,10 +76,6 @@ Search
 
 Search
 
-#### Exclusive
-
-[Would-be Trump assassin exploited security hole that Secret Service has known about for years — and the pictures prove it](https://nypost.com/2024/09/16/us-news/trump-gunman-exploited-security-hole-that-secret-service-has-known-for-years/)
-
 Terms Of Use
 ============
 
