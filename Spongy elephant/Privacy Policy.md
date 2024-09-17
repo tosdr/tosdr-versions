@@ -116,7 +116,3 @@ LCB Depot, 31 Rutland Street, Leicester, LE1 1RE.
 Spongy Elephant is an inclusive and collaborative professional development platform for schools that focuses on bite sized videos and short online training sessions.
 
 © Spongy Elephant 2024. All rights reserved
-
- [![en](//spongyelephstg.wpengine.com/wp-content/plugins/gtranslate/flags/16/en.png) English](#)
-
- [Cymraeg](# "Cymraeg") [English](# "English") [العربية](# "العربية") [Nederlands](# "Nederlands") [Français](# "Français") [Deutsch](# "Deutsch") [Italiano](# "Italiano") [Português](# "Português") [Español](# "Español")
