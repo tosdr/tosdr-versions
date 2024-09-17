@@ -14,19 +14,19 @@ Recommendations
 
 Audio
 
-* [![New Stories to Listen to](https://assets.penguinrandomhouse.com/wp-content/uploads/2024/08/28121215/PRH_New-Audio_site_1200x626_Sept2024.jpg)
+* [![Books To Read if You Love <i>Gilmore Girls</i>](https://assets.penguinrandomhouse.com/wp-content/uploads/2024/08/22142347/PRH_Site_1200x628_Gilmore.jpg)
     
-    New Stories to Listen to
+    Books To Read if You Love _Gilmore Girls_
     
-    Learn More >](https://www.penguinrandomhouse.com/the-read-down/new-in-audio/)
+    Read More >](https://www.penguinrandomhouse.com/the-read-down/books-like-gilmore-girls/)
 
 * * *
 
-* [![Browse All Our Lists, Essays, and Interviews](https://assets.penguinrandomhouse.com/wp-content/uploads/2024/02/05171902/content-archive-Homepage_600x314-nav.jpg)
+* [![How To Read More in 2024](https://assets.penguinrandomhouse.com/wp-content/uploads/2024/02/26151938/ReadMore_1200x628_600x314-nav.jpg)
     
-    Browse All Our Lists, Essays, and Interviews
+    How To Read More in 2024
     
-    See What We’re Reading >](https://www.penguinrandomhouse.com/content-archive/)
+    Learn More >](https://www.penguinrandomhouse.com/articles/how-to-read-more/)
 
 * * *
 
