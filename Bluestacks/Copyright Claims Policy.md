@@ -59,7 +59,7 @@ Campbell, CA 95008, USA
 * [Streaming](https://www.bluestacks.com/?page_id=82285)
     * [Streamer Academy](https://www.bluestacks.com/streamer-academy.html)
 * [About](https://www.bluestacks.com/about-us.html)
-* [BlueStacks](https://www.bluestacks.com/bluestacks-4.html)
+* [BlueStacks](https://www.bluestacks.com/?page_id=210772)
     * [How Does Bluestacks Work?](https://www.bluestacks.com/how-does-bluestacks-work.html)
     * [Android on PC](https://www.bluestacks.com/using-android-on-pc.html)
     * [BlueStacks 4 Performance](https://www.bluestacks.com/bluestacks-4/bluestacks-4-performance.html)
