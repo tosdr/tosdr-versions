@@ -1,26 +1,26 @@
-[![Logo](kiwinigger.png)](https://kiwifarms.st/)
+[![Logo](kiwianarchoautism.png)](https://kiwifarms.st/)
 
 [Alliance Against  
 Troons and  
 lolcows](https://kiwifarms.st/)
 
-The domain name encyclopediadramatica.wiki has been seized by sojak.party to an Arrest Warrant in EDF obtained by Coal as of DMCA takedown request and issued by Odili enforcement for the EDF.
+The domain name encyclopediadramatica.wiki has been seized by GOI a.k.a. GirlOnInternet to an Arrest Warrant in EDF obtained by KIWI as of a little bit trolling and issued by Cloudflare enforcement for the EDF.
 
   
 
-Conducting, financing, managing, supervising, directing, or owling all or part of site is federal crime.
+Conducting, financing, managing, supervising, directing, or owling all or part of Garbage site is crime against humanity.
 
   
 
-For persons engaged in the business of DMCA takedown request or intentionally misleading information, it is federal crime to knowingly accept, in connection with the participation of another person in unlawful DMCA takedown request or intentionally misleading information.
+For persons engaged in the business of a little bit trolling or Fags, it is crime against humanity to knowingly accept, in connection with the participation of another person in unlawful a little bit trolling or Fags.
 
   
 
-Violations of these laws carry criminal penalties of up to 1 day imprisonment and a fine of of up to 100000 EUR.
+Violations of these laws carry criminal penalties of up to 1 hour imprisonment and a fine of of up to 10000 USD.
 
   
 
-Properties, including domain names, used in violation of the provision of too much club pinguins fans or involved in intentionally misleading information are subject to forfeiture to the EU.
+Properties, including domain names, used in violation of the provision of Pedotroons or involved in Aifox being fag are subject to forfeiture to the United States.
 
   
 
