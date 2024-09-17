@@ -333,15 +333,15 @@ Advertise
 [Rich List](https://www.afr.com/rich-list)
 ------------------------------------------
 
-[![   ](https://static.ffx.io/images/$zoom_0.9819%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_254/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/245f265a2e799a3442c2102cf440621dc7bc0969)](https://www.afr.com/wealth/personal-finance/the-sad-and-lonely-lives-of-the-world-s-richest-kids-20240912-p5ka2i)
+[![Andrew Hagger, who previously worked for Andrew Forrest, is launching Famille Capital, which will service the ultra wealthy. ](https://static.ffx.io/images/$zoom_0.6263%2C$multiply_1%2C$ratio_1.777778%2C$width_1059%2C$x_1393%2C$y_463/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/55b894ceec6dade048c583f46280840affc10237)](https://www.afr.com/companies/financial-services/andrew-hagger-and-guy-debelle-in-new-advisory-firm-for-the-ultra-rich-20240917-p5kbav)
 
-### [The sad and lonely lives of the world’s richest kids](https://www.afr.com/wealth/personal-finance/the-sad-and-lonely-lives-of-the-world-s-richest-kids-20240912-p5ka2i)
+### [Andrew Hagger and Guy Debelle in new advisory firm for the ultra rich](https://www.afr.com/companies/financial-services/andrew-hagger-and-guy-debelle-in-new-advisory-firm-for-the-ultra-rich-20240917-p5kbav)
 
-* Kate Wills
+* Primrose Riordan
 
-* ### [Rich Listers snap up top equestrian centre for less than $30m](https://www.afr.com/property/commercial/rich-listers-snap-up-top-equestrian-centre-for-less-than-30m-20240916-p5kavu)
+* ### [The sad and lonely lives of the world’s richest kids](https://www.afr.com/wealth/personal-finance/the-sad-and-lonely-lives-of-the-world-s-richest-kids-20240912-p5ka2i)
     
-* ### [Family trust: Inside the Pratts’ legal soap opera](https://www.afr.com/work-and-careers/leaders/family-trust-inside-the-pratts-legal-soap-opera-20240827-p5k5sh)
+* ### [Rich Listers snap up top equestrian centre for less than $30m](https://www.afr.com/property/commercial/rich-listers-snap-up-top-equestrian-centre-for-less-than-30m-20240916-p5kavu)
     
 
 [The Australian Financial Review](https://www.afr.com/)
