@@ -12,7 +12,7 @@ MENÚ
 * [La Revista](https://www.eluniverso.com/larevista)
 * [Juegos](https://www.eluniverso.com/juegos/)
 
-16 de septiembre de 2024
+17 de septiembre de 2024
 
 [](https://www.eluniverso.com/ "Logo del universo")
 
