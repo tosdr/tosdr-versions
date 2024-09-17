@@ -97,30 +97,30 @@ Welcome! [Login](https://knowyourmeme.com/login) or [signup](https://knowyourmem
 * [Meme Insider](https://memeinsider.com/)
 * [Newsletter](https://knowyourmeme.com/newsletter)
 
-* [![street name real name video examples](https://i.kym-cdn.com/featured_items/icons/wide/000/025/902/snc.jpg "People Share Their 'Street Names' vs. Their Real Names In This Viral Trend")
+* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/025/907/squatterfp.jpg "What Is The 'Asian Andy Squatter Saga?' The IRL Streamer's Viral Squatter Eviction Livestreams Explained")
     
-    People Share Their 'Street Names' vs. Their Real Names In This Viral Trend](https://knowyourmeme.com/memes/whats-your-street-name-street-name-vs-real-name)
+    What Is The 'Asian Andy Squatter Saga?' The IRL Streamer's Viral Squatter Eviction Livestreams Explained](https://knowyourmeme.com/editorials/guides/what-is-the-asian-andy-squatter-saga-the-irl-streamers-viral-squatter-eviction-livestreams-explained)
     
-* [![Old <i>Mitchell and Webb</i> Sketch Becomes Prevalent In Current Era](https://i.kym-cdn.com/featured_items/icons/wide/000/025/901/ccvzrbwha9tx.jpg "The Classic 'Are We the Baddies?' Meme Aired On 'That Mitchell and Webb Look' Nearly 20 Years Ago Today")
+* [![There Are Going To Be Federal Agents Outside Your House If You Decide To Use This Meme Format](https://i.kym-cdn.com/featured_items/icons/wide/000/025/906/cover2.jpg "There Are Going To Be Federal Agents Outside Your House If You Decide To Use This Meme Format")
     
-    The Classic 'Are We the Baddies?' Meme Aired On 'That Mitchell and Webb Look' Nearly 20 Years Ago Today](https://knowyourmeme.com/memes/are-we-the-baddies)
+    There Are Going To Be Federal Agents Outside Your House If You Decide To Use This Meme Format](https://knowyourmeme.com/memes/this-shit-does-not-look-good-on-paper)
     
-* [![Member Berries](https://i.kym-cdn.com/featured_items/icons/wide/000/025/900/member_berries_meme_banner.jpg "It's Been Eight Years Since The 'Member Berries' Scene Aired On 'South Park'")
+* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/025/905/brolyboostcover1.jpg "What Is 'Broly Boost' And Why Shouldn't You Take It? The Viral 'Dragon Ball Z' Pill Memes Explained")
     
-    It's Been Eight Years Since The 'Member Berries' Scene Aired On 'South Park'](https://knowyourmeme.com/memes/member-berries)
+    What Is 'Broly Boost' And Why Shouldn't You Take It? The Viral 'Dragon Ball Z' Pill Memes Explained](https://knowyourmeme.com/editorials/guides/what-is-broly-boost-and-why-shouldnt-you-take-it-the-viral-dragon-ball-z-pill-memes-explained)
     
-* [![trump and laura loomer, left, meme, right](https://i.kym-cdn.com/featured_items/icons/wide/000/025/899/78d.jpg "Rumors Of An Affair Between Far-Right Activist 'Laura Loomer' And Former President 'Donald Trump' Go Viral")
+* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/025/904/NES_Peach_Sprite_Redraws.jpg "Why 'NES Peach' Has Suddenly Become A Meme Explained")
     
-    Rumors Of An Affair Between Far-Right Activist 'Laura Loomer' And Former President 'Donald Trump' Go Viral](https://knowyourmeme.com/memes/events/donald-trump-and-laura-loomer-affair-rumors)
+    Why 'NES Peach' Has Suddenly Become A Meme Explained](https://knowyourmeme.com/editorials/guides/why-nes-peach-has-suddenly-become-a-meme-explained)
     
-* [![This Printed-Out Picture A Therapist Gave To Their Client Is Making Rounds On Socials, And Nobody Can Even](https://i.kym-cdn.com/featured_items/icons/wide/000/025/898/cover8.jpg "This Printed-Out Picture A Therapist Gave To Their Client Is Making Rounds On Socials, And Nobody Can Even")
+* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/025/903/trump_loomer.jpg "Who Is Laura Loomer, And What's With The Rumors That She And Donald Trump Are Having An Affair? The Controversy Explained")
     
-    This Printed-Out Picture A Therapist Gave To Their Client Is Making Rounds On Socials, And Nobody Can Even](https://knowyourmeme.com/memes/my-therapist-gave-me-this-and-said-thats-you)
+    Who Is Laura Loomer, And What's With The Rumors That She And Donald Trump Are Having An Affair? The Controversy Explained](https://knowyourmeme.com/editorials/guides/who-is-laura-loomer-and-whats-with-the-rumors-that-she-and-donald-trump-are-having-an-affair-the-controversy-explained)
     
 
 ##### Also Trending:
 
-[September 2024 Trump Assassination Attempt](https://knowyourmeme.com/memes/events/september-2024-attempted-assassination-of-donald-trump "September 2024 Trump Assassination Attempt") [Trump July 2024 Shooting Staged Conspiracy Theory](https://knowyourmeme.com/memes/donald-trump-july-2024-shooting-was-staged-conspiracy-theory " Trump July 2024 Shooting Staged Conspiracy Theory") [Haitian Immigrants Eating Pets Hoax](https://knowyourmeme.com/memes/events/haitian-immigrants-eating-pets-and-geese-hoax "Haitian Immigrants Eating Pets Hoax") [NES Princess Peach Sprite Redraws](https://knowyourmeme.com/memes/nes-princess-peach-sprite-redraws "NES Princess Peach Sprite Redraws") [Brazilian Miku](https://knowyourmeme.com/memes/brazilian-miku "Brazilian Miku") [Donald Trump Julius Caesar Assassination](https://knowyourmeme.com/memes/events/donald-trump-julius-caesar-assassination "Donald Trump Julius Caesar Assassination")
+[September 2024 Trump Assassination Attempt](https://knowyourmeme.com/memes/events/september-2024-attempted-assassination-of-donald-trump "September 2024 Trump Assassination Attempt") [Asian Andy Squatter Saga](https://knowyourmeme.com/memes/events/asian-andy-squatter-saga "Asian Andy Squatter Saga") [Trump July 2024 Shooting Staged Conspiracy Theory](https://knowyourmeme.com/memes/donald-trump-july-2024-shooting-was-staged-conspiracy-theory " Trump July 2024 Shooting Staged Conspiracy Theory") [I HATE TAYLOR SWIFT!](https://knowyourmeme.com/memes/i-hate-taylor-swift "I HATE TAYLOR SWIFT!") [Think About What That Does to a Man](https://knowyourmeme.com/memes/think-about-what-that-does-to-a-man "Think About What That Does to a Man")
 
 Terms of Service and Use
 ========================
@@ -261,7 +261,7 @@ If you have any questions or concerns about these Terms of Service or the Websit
 **Legal Information:** [Know Your Meme ®](https://knowyourmeme.com/) is a trademark of [Literally Media Ltd.](https://literally.media/) By using this site, you are agreeing by the site's [terms of use](https://knowyourmeme.com/terms-of-service) and [privacy policy](https://knowyourmeme.com/privacy) and [DMCA policy](https://knowyourmeme.com/dmca).  
 © 2007-2024 [Literally Media Ltd.](https://literally.media/)
 
-### Yo! You must login or signup first!
+### Yo Yo! You must login or signup first!
 
 |     |     |
 | --- | --- |
