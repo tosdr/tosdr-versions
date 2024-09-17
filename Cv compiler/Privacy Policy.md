@@ -1741,6 +1741,8 @@ What do top resumes look like? Check out these expertly-written samples:
 
 [Referral Coordinator](https://cvcompiler.com/referral-coordinator-resume-examples)
 
+[Communications Director](https://cvcompiler.com/communications-director-resume-examples)
+
 ![Upload resume illustration](uploads-pre-acq/img/upload-illustration.svg)
 
 ### Upload  
