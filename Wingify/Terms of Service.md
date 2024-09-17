@@ -186,6 +186,10 @@
     
     Latest Blogs
     
+    [![](https://static.wingify.com/gcp/uploads/sites/3/2024/09/Feature-image-CRO-Perspectives-Chester-Ong.jpg?tr=w-60,h-50)
+    
+    Balancing UX and CRO Necessary for Product Improvement & Impactful Results](https://vwo.com/blog/balancing-ux-cro/)
+    
     [![](https://static.wingify.com/gcp/uploads/sites/3/2024/09/Feature-image-Uncovering-the-Top-50-Website-Traffic-Statistics-1-1.jpg?tr=w-60,h-50)
     
     Website Traffic Statistics: Uncovering the Top 50 Stats about Web Traffic](https://vwo.com/blog/website-traffic-statistics/)
@@ -201,10 +205,6 @@
     [![](https://static.wingify.com/gcp/uploads/sites/3/2024/08/Feature-image-CRO-Perspectives-Ilan-Hurwitz.jpg?tr=w-60,h-50)
     
     AI to Accelerate Research, Enabling Greater Focus on Strategy and Implementation](https://vwo.com/blog/cro-insights-ilan-hurwitz/)
-    
-    [![](https://static.wingify.com/gcp/uploads/sites/3/2024/08/Feature-image-CRO-Perspectives-Rafael-Damasceno-1.jpg?tr=w-60,h-50)
-    
-    Leadership Buy-in Essential for Successful Scaling of Testing Programs](https://vwo.com/blog/leadership-buy-in-essential-for-successful-scaling-of-testing-programs/)
     
     Featured Blogs
     
