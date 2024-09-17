@@ -53,10 +53,10 @@ Any claim relating to Packet Storm Security's web site shall be governed by the 
 Top Authors In Last 30 Days
 ---------------------------
 
-* [Red Hat](https://packetstormsecurity.com/files/authors/4676) 232 files
-* [indoushka](https://packetstormsecurity.com/files/authors/7697) 159 files
+* [Red Hat](https://packetstormsecurity.com/files/authors/4676) 246 files
+* [indoushka](https://packetstormsecurity.com/files/authors/7697) 169 files
 * [Jay Turla](https://packetstormsecurity.com/files/authors/9975) 150 files
-* [Ubuntu](https://packetstormsecurity.com/files/authors/3695) 64 files
+* [Ubuntu](https://packetstormsecurity.com/files/authors/3695) 73 files
 * [h00die](https://packetstormsecurity.com/files/authors/7166) 54 files
 * [juan vazquez](https://packetstormsecurity.com/files/authors/8993) 43 files
 * [sinn3r](https://packetstormsecurity.com/files/authors/7652) 41 files
@@ -69,6 +69,14 @@ Recent News
 
 [![News RSS Feed](https://packetstatic.com/img1514015884/bt_rss.gif)](https://rss.packetstormsecurity.com/news/)  
 
+[Predator Spyware Kingpins Added To US Sanctions List](https://packetstormsecurity.com/news/view/36346/Predator-Spyware-Kingpins-Added-To-US-Sanctions-List.html)
+
+Posted [Sep 17, 2024](https://packetstormsecurity.com/news/date/2024-09-17/ "14:53:56 UTC")
+
+tags | [headline](https://packetstormsecurity.com/news/tags/headline), [hacker](https://packetstormsecurity.com/news/tags/hacker), [government](https://packetstormsecurity.com/news/tags/government), [privacy](https://packetstormsecurity.com/news/tags/privacy), [spyware](https://packetstormsecurity.com/news/tags/spyware)
+
+[Favorite](https://packetstormsecurity.com/news/favorite/36346/) | [View](https://www.theregister.com/2024/09/17/predator_spyware_sanctions/)
+
 [TikTok Is Getting Its Day In Court](https://packetstormsecurity.com/news/view/36342/TikTok-Is-Getting-Its-Day-In-Court.html)
 
 Posted [Sep 16, 2024](https://packetstormsecurity.com/news/date/2024-09-16/ "13:57:38 UTC")
@@ -76,6 +84,38 @@ Posted [Sep 16, 2024](https://packetstormsecurity.com/news/date/2024-09-16/ "13:
 tags | [headline](https://packetstormsecurity.com/news/tags/headline), [government](https://packetstormsecurity.com/news/tags/government), [privacy](https://packetstormsecurity.com/news/tags/privacy), [usa](https://packetstormsecurity.com/news/tags/usa), [phone](https://packetstormsecurity.com/news/tags/phone), [china](https://packetstormsecurity.com/news/tags/china), [cyberwar](https://packetstormsecurity.com/news/tags/cyberwar), [spyware](https://packetstormsecurity.com/news/tags/spyware)
 
 [Favorite](https://packetstormsecurity.com/news/favorite/36342/) | [View](https://www.theguardian.com/technology/2024/sep/16/threatened-us-ban-against-tiktok-unconstitutional-platform-to-argue)
+
+[Ransomware Group Leaks Data Stolen From Kawasaki Motors](https://packetstormsecurity.com/news/view/36341/Ransomware-Group-Leaks-Data-Stolen-From-Kawasaki-Motors.html)
+
+Posted [Sep 16, 2024](https://packetstormsecurity.com/news/date/2024-09-16/ "13:57:36 UTC")
+
+tags | [headline](https://packetstormsecurity.com/news/tags/headline), [hacker](https://packetstormsecurity.com/news/tags/hacker), [privacy](https://packetstormsecurity.com/news/tags/privacy), [cybercrime](https://packetstormsecurity.com/news/tags/cybercrime), [data loss](https://packetstormsecurity.com/news/tags/data_loss), [cryptography](https://packetstormsecurity.com/news/tags/cryptography)
+
+[Favorite](https://packetstormsecurity.com/news/favorite/36341/) | [View](https://www.securityweek.com/ransomware-group-leaks-data-allegedly-stolen-from-kawasaki-motors/)
+
+[FBI, CISA Warn Of Fake Voter Data Hacking Claims](https://packetstormsecurity.com/news/view/36340/FBI-CISA-Warn-Of-Fake-Voter-Data-Hacking-Claims.html)
+
+Posted [Sep 16, 2024](https://packetstormsecurity.com/news/date/2024-09-16/ "13:57:30 UTC")
+
+tags | [headline](https://packetstormsecurity.com/news/tags/headline), [government](https://packetstormsecurity.com/news/tags/government), [usa](https://packetstormsecurity.com/news/tags/usa), [fraud](https://packetstormsecurity.com/news/tags/fraud)
+
+[Favorite](https://packetstormsecurity.com/news/favorite/36340/) | [View](https://www.securityweek.com/fbi-cisa-warn-of-fake-voter-data-hacking-claims/)
+
+[1.3 Million Android-Based TV Boxes Backdoored](https://packetstormsecurity.com/news/view/36339/1.3-Million-Android-Based-TV-Boxes-Backdoored.html)
+
+Posted [Sep 16, 2024](https://packetstormsecurity.com/news/date/2024-09-16/ "13:57:26 UTC")
+
+tags | [headline](https://packetstormsecurity.com/news/tags/headline), [hacker](https://packetstormsecurity.com/news/tags/hacker), [privacy](https://packetstormsecurity.com/news/tags/privacy), [malware](https://packetstormsecurity.com/news/tags/malware), [backdoor](https://packetstormsecurity.com/news/tags/backdoor)
+
+[Favorite](https://packetstormsecurity.com/news/favorite/36339/) | [View](https://arstechnica.com/security/2024/09/researchers-still-dont-know-how-1-3-million-android-streaming-boxes-were-backdoored/)
+
+[23andMe Settles Class Action Breach Lawsuit For $30 Million](https://packetstormsecurity.com/news/view/36338/23andMe-Settles-Class-Action-Breach-Lawsuit-For-30-Million.html)
+
+Posted [Sep 16, 2024](https://packetstormsecurity.com/news/date/2024-09-16/ "13:57:21 UTC")
+
+tags | [headline](https://packetstormsecurity.com/news/tags/headline), [hacker](https://packetstormsecurity.com/news/tags/hacker), [privacy](https://packetstormsecurity.com/news/tags/privacy), [data loss](https://packetstormsecurity.com/news/tags/data_loss)
+
+[Favorite](https://packetstormsecurity.com/news/favorite/36338/) | [View](https://www.theregister.com/2024/09/16/security_in_brief/)
 
 [Old WHOIS Domain Could Have Issued Fraudulent TLS/SSL Certs](https://packetstormsecurity.com/news/view/36337/Old-WHOIS-Domain-Could-Have-Issued-Fraudulent-TLS-SSL-Certs.html)
 
@@ -108,46 +148,6 @@ Posted [Sep 13, 2024](https://packetstormsecurity.com/news/date/2024-09-13/ "15:
 tags | [headline](https://packetstormsecurity.com/news/tags/headline), [hacker](https://packetstormsecurity.com/news/tags/hacker), [privacy](https://packetstormsecurity.com/news/tags/privacy), [data loss](https://packetstormsecurity.com/news/tags/data_loss)
 
 [Favorite](https://packetstormsecurity.com/news/favorite/36334/) | [View](https://www.theregister.com/2024/09/13/fortinet_data_loss/)
-
-[Cambodian Senator Sanctioned By US Over Cyber Scam Camps](https://packetstormsecurity.com/news/view/36333/Cambodian-Senator-Sanctioned-By-US-Over-Cyber-Scam-Camps.html)
-
-Posted [Sep 13, 2024](https://packetstormsecurity.com/news/date/2024-09-13/ "15:32:02 UTC")
-
-tags | [headline](https://packetstormsecurity.com/news/tags/headline), [government](https://packetstormsecurity.com/news/tags/government), [fraud](https://packetstormsecurity.com/news/tags/fraud)
-
-[Favorite](https://packetstormsecurity.com/news/favorite/36333/) | [View](https://www.theregister.com/2024/09/13/cambodian_senator_sanctioned_for_cyberscams/)
-
-[Apple Patches Vision Pro Vuln To Prevent GAZEploit Attacks](https://packetstormsecurity.com/news/view/36332/Apple-Patches-Vision-Pro-Vuln-To-Prevent-GAZEploit-Attacks.html)
-
-Posted [Sep 13, 2024](https://packetstormsecurity.com/news/date/2024-09-13/ "15:31:55 UTC")
-
-tags | [headline](https://packetstormsecurity.com/news/tags/headline), [flaw](https://packetstormsecurity.com/news/tags/flaw), [patch](https://packetstormsecurity.com/news/tags/patch), [apple](https://packetstormsecurity.com/news/tags/apple)
-
-[Favorite](https://packetstormsecurity.com/news/favorite/36332/) | [View](https://www.securityweek.com/apple-patches-vision-pro-vulnerability-to-prevent-gazeploit-attacks/)
-
-[Palo Alto Networks Patches Dozens Of Vulnerabilities](https://packetstormsecurity.com/news/view/36331/Palo-Alto-Networks-Patches-Dozens-Of-Vulnerabilities.html)
-
-Posted [Sep 12, 2024](https://packetstormsecurity.com/news/date/2024-09-12/ "14:12:11 UTC")
-
-tags | [headline](https://packetstormsecurity.com/news/tags/headline), [flaw](https://packetstormsecurity.com/news/tags/flaw), [patch](https://packetstormsecurity.com/news/tags/patch)
-
-[Favorite](https://packetstormsecurity.com/news/favorite/36331/) | [View](https://www.securityweek.com/palo-alto-networks-patches-dozens-of-vulnerabilities/)
-
-[Evasion Tactics Used By Cybercriminals To Fly Under The Radar](https://packetstormsecurity.com/news/view/36330/Evasion-Tactics-Used-By-Cybercriminals-To-Fly-Under-The-Radar.html)
-
-Posted [Sep 12, 2024](https://packetstormsecurity.com/news/date/2024-09-12/ "14:12:07 UTC")
-
-tags | [headline](https://packetstormsecurity.com/news/tags/headline), [hacker](https://packetstormsecurity.com/news/tags/hacker)
-
-[Favorite](https://packetstormsecurity.com/news/favorite/36330/) | [View](https://www.securityweek.com/evasion-tactics-used-by-cybercriminals-to-fly-under-the-radar/)
-
-[Hackers Use Cloud Services To Target Financial And Insurance Firms](https://packetstormsecurity.com/news/view/36329/Hackers-Use-Cloud-Services-To-Target-Financial-And-Insurance-Firms.html)
-
-Posted [Sep 12, 2024](https://packetstormsecurity.com/news/date/2024-09-12/ "14:12:02 UTC")
-
-tags | [headline](https://packetstormsecurity.com/news/tags/headline), [hacker](https://packetstormsecurity.com/news/tags/hacker), [bank](https://packetstormsecurity.com/news/tags/bank), [cybercrime](https://packetstormsecurity.com/news/tags/cybercrime), [fraud](https://packetstormsecurity.com/news/tags/fraud)
-
-[Favorite](https://packetstormsecurity.com/news/favorite/36329/) | [View](https://www.scmagazine.com/news/hackers-use-cloud-services-to-target-financial-and-insurance-firms)
 
 [View More News →](https://packetstormsecurity.com/news/)
 
@@ -193,4 +193,4 @@ Hosting By
 
 ![close](https://packetstatic.com/img1514015884/o_close.png)
 
-![](https://ssl.google-analytics.com/__utm.gif?utmwv=1.3&utmn=1124741332&utmcs=ISO-8859-1&utmsr=31337x31337&utmsc=32-bit&utmul=en-us&utmje=0&utmfl=-&utmcn=1&utmdt=Terms%20of%20Service%u2248%20Packet%20Storm&utmhn=packetstormsecurity.com&utmr=-&utmp=%2Flegal%2Ftos.html&utmac=UA-18885198-1&utmcc=__utma%3D32867617.1124741332.1726584942.1726584942.1726584942.1%3B%2B__utmz%3D32867617.1726584942.1.1.utmccn%3D(direct)%7Cutmcsr%3D(direct)%7Cutmcmd%3D(none))
+![](https://ssl.google-analytics.com/__utm.gif?utmwv=1.3&utmn=1459942189&utmcs=ISO-8859-1&utmsr=31337x31337&utmsc=32-bit&utmul=en-us&utmje=0&utmfl=-&utmcn=1&utmdt=Terms%20of%20Service%u2248%20Packet%20Storm&utmhn=packetstormsecurity.com&utmr=-&utmp=%2Flegal%2Ftos.html&utmac=UA-18885198-1&utmcc=__utma%3D32867617.1459942189.1726606704.1726606704.1726606704.1%3B%2B__utmz%3D32867617.1726606704.1.1.utmccn%3D(direct)%7Cutmcsr%3D(direct)%7Cutmcmd%3D(none))
