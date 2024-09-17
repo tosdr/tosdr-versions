@@ -30,13 +30,14 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/f6b27d34-7bf5-4344-9167-ebdc3674c228/20240914T005453/f6b27d34-7bf5-4344-9167-ebdc3674c228_16x9.jpg) ![](https://media.king5.com/assets/KING/images/f6b27d34-7bf5-4344-9167-ebdc3674c228/20240914T005453/f6b27d34-7bf5-4344-9167-ebdc3674c228_360x203.jpg)](https://www.king5.com/article/tech/science/aerospace/boeing/boeing-spending-cuts-machinists-strike/281-9bdf8a54-91c7-4d40-ba47-33000076fd5b)
+    *  [![](https://media.king5.com/assets/KING/images/8e3aacfd-1f8a-4d27-8f3b-ff9bf4d6f91f/20240917T020633/8e3aacfd-1f8a-4d27-8f3b-ff9bf4d6f91f_16x9.jpg) ![](https://media.king5.com/assets/KING/images/8e3aacfd-1f8a-4d27-8f3b-ff9bf4d6f91f/20240917T020633/8e3aacfd-1f8a-4d27-8f3b-ff9bf4d6f91f_360x203.jpg)](https://www.king5.com/article/news/local/family-advocates-call-for-maple-valley-hit-and-run-investigated-as-hate-crime/281-0e5b94bb-fc3a-427a-bed8-166ed27b92cd)
         
-        #### [Boeing considers temporary furloughs amid machinists strike](https://www.king5.com/article/tech/science/aerospace/boeing/boeing-spending-cuts-machinists-strike/281-9bdf8a54-91c7-4d40-ba47-33000076fd5b)
+        #### [Family and advocates call for Maple Valley hit-and-run to be investigated as a hate crime](https://www.king5.com/article/news/local/family-advocates-call-for-maple-valley-hit-and-run-investigated-as-hate-crime/281-0e5b94bb-fc3a-427a-bed8-166ed27b92cd) [![](https://media.king5.com/assets/KING/images/8e3aacfd-1f8a-4d27-8f3b-ff9bf4d6f91f/20240917T020633/8e3aacfd-1f8a-4d27-8f3b-ff9bf4d6f91f_16x9.jpg) ![](https://media.king5.com/assets/KING/images/8e3aacfd-1f8a-4d27-8f3b-ff9bf4d6f91f/20240917T020633/8e3aacfd-1f8a-4d27-8f3b-ff9bf4d6f91f_360x203.jpg)](https://www.king5.com/article/news/local/family-advocates-call-for-maple-valley-hit-and-run-investigated-as-hate-crime/281-0e5b94bb-fc3a-427a-bed8-166ed27b92cd)
         
-    *  [![](https://media.king5.com/assets/KING/images/b6381770-234e-4c74-9b77-deccf375628f/b6381770-234e-4c74-9b77-deccf375628f_16x9.jpg) ![](https://media.king5.com/assets/KING/images/b6381770-234e-4c74-9b77-deccf375628f/b6381770-234e-4c74-9b77-deccf375628f_360x203.jpg)](https://www.king5.com/article/entertainment/television/programs/evening/seattle-artist-intaglio-15th-century-technique-copper-printmaking-rembrandt-university-washington-art/281-4f2db53c-c24c-4a67-87e8-2985280b472b)
+        #### ['Breaks my heart': Family, advocates call for Maple Valley hit-and-run to be investigated as hate crime](https://www.king5.com/article/news/local/family-advocates-call-for-maple-valley-hit-and-run-investigated-as-hate-crime/281-0e5b94bb-fc3a-427a-bed8-166ed27b92cd)
+    *  [![](https://media.king5.com/assets/KING/images/05fafa1c-057c-4ec2-be53-3cdfdbc84340/20240917T013822/05fafa1c-057c-4ec2-be53-3cdfdbc84340_16x9.jpg) ![](https://media.king5.com/assets/KING/images/05fafa1c-057c-4ec2-be53-3cdfdbc84340/20240917T013822/05fafa1c-057c-4ec2-be53-3cdfdbc84340_360x203.jpg)](https://www.king5.com/article/news/local/bellingham/poverty-rate-skyrockets-bellingham/281-e52640d0-3d3d-4d11-a9c1-afb41ed2fc2c)
         
-        #### [Analog art is the future for Seattle artist practicing a 15th century technique](https://www.king5.com/article/entertainment/television/programs/evening/seattle-artist-intaglio-15th-century-technique-copper-printmaking-rembrandt-university-washington-art/281-4f2db53c-c24c-4a67-87e8-2985280b472b)
+        #### [Poverty rate skyrocketed in Bellingham last year, census data shows](https://www.king5.com/article/news/local/bellingham/poverty-rate-skyrockets-bellingham/281-e52640d0-3d3d-4d11-a9c1-afb41ed2fc2c)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -56,7 +57,7 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/2901620c-e0e1-4e05-a60c-03cf3297b315/20240916T193317/2901620c-e0e1-4e05-a60c-03cf3297b315_16x9.jpg) ![](https://media.king5.com/assets/KING/images/2901620c-e0e1-4e05-a60c-03cf3297b315/20240916T193317/2901620c-e0e1-4e05-a60c-03cf3297b315_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
+    *  [![](https://media.king5.com/assets/KING/images/6e50f7b1-1dab-4918-9f25-5f68b4dfebdf/20240917T005638/6e50f7b1-1dab-4918-9f25-5f68b4dfebdf_16x9.jpg) ![](https://media.king5.com/assets/KING/images/6e50f7b1-1dab-4918-9f25-5f68b4dfebdf/20240917T005638/6e50f7b1-1dab-4918-9f25-5f68b4dfebdf_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
         #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
@@ -95,9 +96,9 @@ Navigation
 
 Seattle, WA »
 
-65°
+67°
 
-![Partly Cloudy](/assets/shared-images/weather-icons/partly-cloudy-day_210x210.png)
+![Sunny](/assets/shared-images/weather-icons/clear-day_210x210.png)
 
 Seattle, WA »](https://www.king5.com/weather)
 
