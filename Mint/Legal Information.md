@@ -16,6 +16,7 @@
     
     * [For Accountants](https://www.intuit.com/accountants/)
     * [For Educators](https://www.intuit.com/solutions/education/)
+    * [For Enterprise](https://www.intuit.com/enterprise/)
     
 * Support and Blogs
     
@@ -106,6 +107,10 @@
     * [For Accountants](https://www.intuit.com/accountants/)
     
     * [For Educators](https://www.intuit.com/solutions/education/)
+    
+    * [For Enterprise
+        
+        New](https://www.intuit.com/enterprise/)
     
 * [Support and Blogs](https://www.intuit.com/support/)
     
