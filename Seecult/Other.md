@@ -322,11 +322,11 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 
 [Galerija umetnika](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")[](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/zampa-di-leone/zampa-di-leone-u-ub-quotsvetozar-markovicquot-47-192008/zampa-ub-sm2.jpg?itok=GtjyHxPD)](http://seecult.org/galerija/galerija-umetnika/zampa-di-leone/zampa-di-leone-u-ub-svetozar-markovic-47-192008)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/dragan-papic/7-fotki-iz-foldera-quotutisci-iz-srbijequot/utisci-iz-srbije-1.jpg?itok=2dwA-ykn)](http://seecult.org/galerija/galerija-umetnika/dragan-papic/7-fotki-iz-foldera-utisci-iz-srbije)
 
 [Foto galerija](http://seecult.org/galerija/foto-galerija "Foto galerija")[](http://seecult.org/galerija/foto-galerija "Foto galerija")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/tomaz-gorjup.jpg?itok=X5IaGSPl)](http://seecult.org/galerija/foto-galerija/foto-arhiva)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/festivali-koncerti-predstave-akcije/festivali/festival-nauke-2012/dscf9986.jpg?itok=x4b5VbMi)](http://seecult.org/galerija/foto-galerija/festivali-koncerti-predstave-akcije/festivali/festival-nauke-2012)
 
 * [Najčitanije](#news_1)
 * [Najnovije](#news_2)
@@ -342,6 +342,7 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 * [Preminula Jasna Tijardović Popović](http://seecult.org/vest/preminula-jasna-tijardovic-popovic)
 * [Najuži izbor za NIN-ovu nagradu za 2022.](http://seecult.org/vest/najuzi-izbor-za-nin-ovu-nagradu-za-2022)
 
+* [Urban režira Majstora i Margaritu](http://seecult.org/vest/urban-rezira-majstora-i-margaritu)
 * [Mateja Nikolić dobitnik nagrade Neda Depolo](http://seecult.org/vest/mateja-nikolic-dobitnik-nagrade-neda-depolo)
 * [Obnova Sremskih Karlovaca](http://seecult.org/vest/obnova-sremskih-karlovaca)
 * [Nauka i umetnost u Botaničkoj bašti](http://seecult.org/vest/nauka-i-umetnost-u-botanickoj-basti)
@@ -351,7 +352,6 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 * [Kuznjecova gošća EUPL festa](http://seecult.org/vest/kuznjecova-gosca-eupl-festa)
 * [Pripreme za 32. Memorijal Nadežde Petrović](http://seecult.org/vest/pripreme-za-32-memorijal-nadezde-petrovic)
 * [Sećanje na Jagoša Markovića](http://seecult.org/vest/secanje-na-jagosa-markovica)
-* [Pomoć za Sonju Kostić](http://seecult.org/vest/pomoc-za-sonju-kostic)
 
 * [Konkursi](#tab1_1)
 
