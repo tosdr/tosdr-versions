@@ -31,6 +31,277 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
+Este es el cronograma de abastecimiento de agua en Quito
+========================================================
+
+El cronograma de racionamiento de agua se inició desde el lunes 16 de septiembre de 2024.
+-----------------------------------------------------------------------------------------
+
+![Los horarios y fechas de los racionamientos de agua fueron publicados por la Epmaps.](https://www.elcomercio.com/wp-content/uploads/2024/09/Agua-racionamiento-en-Quito.jpg)
+
+El **Municipio** de **Quito** informó que, debido al verano extremadamente seco, se implementarán cronogramas de abastecimiento de agua potable en la capital[.](https://es.wikipedia.org/wiki/Abastecimiento_h%C3%ADdrico#:~:text=El%20abastecimiento%20h%C3%ADdrico%2C%20tambi%C3%A9n%20denominado,sistema%20de%20bombas%20y%20tuber%C3%ADas. "https://es.wikipedia.org/wiki/Abastecimiento_h%C3%ADdrico#:~:text=El%20abastecimiento%20h%C3%ADdrico%2C%20tambi%C3%A9n%20denominado,sistema%20de%20bombas%20y%20tuber%C3%ADas.")
+
+Más noticias
+------------
+
+* [Apagón programado dejará sin agua potable a Guayaquil](https://www.elcomercio.com/actualidad/guayaquil/apagon-nacional-guayaquil-duran-agua.html "Apagón programado dejará sin agua potable a Guayaquil")
+* [Escasez de lluvias afecta el suministro de agua en Quito](https://www.elcomercio.com/actualidad/quito/escasez-lluvias-afecta-suministro-agua-quito.html "Escasez de lluvias afecta el suministro de agua en Quito")
+* [Ausencia de lluvias significativas favorece formación de incendios forestales](https://www.elcomercio.com/actualidad/ecuador/ausencia-de-lluvias-significativas-favorece-formacion-de-incendios-forestales.html "Ausencia de lluvias significativas favorece formación de incendios forestales")
+
+Esta medida es necesaria para garantizar una distribución equitativa del **agua disponible**. A continuación, se detalla el **cronograma** de **abastecimiento**:
+
+Sectores afectados por la Planta Puengasí
+-----------------------------------------
+
+El cronograma de abastecimiento de agua comienza a regir desde las 19:00 del lunes 16 de septiembre de 2024. Los sectores atendidos por la Planta Puengasí serán los siguientes:
+
+> 📅 [#CronogramaDeAbasatecimiento](https://twitter.com/hashtag/CronogramaDeAbasatecimiento?src=hash&ref_src=twsrc%5Etfw) | Debido al verano extremadamente seco con 38 días sin lluvias, las altas temperaturas y el crecimiento poblacional, implementamos provisionalmente los cronogramas de abastecimiento de agua potable para ciertas zonas del Distrito Metropolitano de… [pic.twitter.com/dJtYPFHYPZ](https://t.co/dJtYPFHYPZ)
+> 
+> — Epmaps – Agua de Quito (@aguadequito) [September 17, 2024](https://twitter.com/aguadequito/status/1835842085708001557?ref_src=twsrc%5Etfw)
+
+Calendario de racionamiento del Tanque San Bartolo
+--------------------------------------------------
+
+En los sectores detallados a continuación, los cortes de agua se realizarán el lunes 16, martes 17 y miércoles 18 de septiembre, de 19:00 a 07:00. El domingo 22 de septiembre, el racionamiento será de 07:00 a 19:00.
+
+* Germán Ávila
+* San Agustín
+* Los Andes
+* Chimbacalle
+* México
+* Pío XII
+* El Camal
+* Doscientas Casas
+* San Bartolo
+* Eplicachima
+* Argelia Intermedia
+* Recreo (desde la calle Hermandad Ferroviaria al sur)
+* Clemencia (desde la calle Joaquín Gutiérrez al norte)
+* Ferroviaria Baja
+* Clemente Ballén
+* Tnte. Hugo Ortiz
+* El Calzado
+* 1 de Mayo
+* Barrionuevo
+* Los Arrayanes
+* Atahualpa
+* La Magdalena
+
+Calendario de racionamiento de los tanques Alpahuasi Alto, Guápulo, Itchimbía Medio y Argelia Alto
+--------------------------------------------------------------------------------------------------
+
+En los siguientes sectores, los cortes de agua se realizarán el jueves 19, viernes 20 y sábado 21 de septiembre, de 19:00 a 07:00.
+
+* González Suárez
+* Guápulo
+* Itchimbía
+* La Merced
+* San Roque
+* La Tola
+* San Marcos
+* La Loma
+* González Suárez (Centro Histórico)
+* San Sebastián
+* El Sena
+* México
+* Los Dos Puentes
+* Santa Ana
+* Villaflora
+* La Recoleta
+* El Camal
+* C.C. Recreo
+* Molinos
+* Luluncoto
+
+Calendario de racionamiento por los tanques Chachas Alto, San Isidro Bajo y Alto, Edén del Valle, Puengasí Alto
+---------------------------------------------------------------------------------------------------------------
+
+En los siguientes sectores, los cortes de agua serán el martes 17 y miércoles 18 de septiembre, de 07:00 a 19:00, y el domingo 22 de septiembre, de 19:00 a 07:00.
+
+* Miravalle
+* Edén del Valle
+* San Francisco
+* Puengasí Bajo
+* Las Mallas
+* Lupero
+* Chachas Alto
+* Monjas a Donoso
+* San José de Monjas
+* Forestal Alto
+* San Patricio
+* Santa Faz Conocoto
+* Puertas del Sol
+* Obreros Independientes 1, 2 y 3
+* Valle del Sur
+* Autopista General Rumiñahui (hasta el puente 3)
+* 28 de Noviembre
+* Lomas de Puengasí
+* 1 de Mayo
+* Monjas
+* Simón Bolívar
+* Madrigal
+* Mariano Hinojosa
+
+El último eclipse lunar de 2024 y la Superluna de Cosecha se podrán ver hoy 
+============================================================================
+
+Entre la noche del martes 17 de septiembre y la madrugada del miércoles 18, se podrá ver el último eclipse lunar de 2024.
+-------------------------------------------------------------------------------------------------------------------------
+
+![Esta noche se podrá disfrutar en Ecuador del último eclipse lunar de 2024 y la primera superluna del año. Foto: Freepik.](https://www.elcomercio.com/wp-content/uploads/2024/09/superluna-cosecha.jpg)
+
+Entre la noche del martes 17 de septiembre y la madrugada del miércoles 18, los **amantes de los eventos astronómicos** podrán disfrutar de un espectáculo triple en el cielo. Se trata del **último eclipse lunar de 2024** y la **primera superluna del año que coinciden con la Luna de Cosecha**. Este evento promete ser **uno de los más destacados del año** para los observadores del cielo, tan especial que la NASA estima que esta coincidencia no se volverá a dar hasta el 2033.
+
+### Más noticias
+
+* [(Video) Rosalía se molestó con la actitud de un fanático](https://www.elcomercio.com/afull/rosalia-artista-musica-acoso.html "https://www.elcomercio.com/afull/rosalia-artista-musica-acoso.html") 
+* [Hermano de Michael Jackson falleció a los 70 años](https://www.elcomercio.com/tendencias/entretenimiento/michael-jackson-tito-jackson-muerte.html "https://www.elcomercio.com/tendencias/entretenimiento/michael-jackson-tito-jackson-muerte.html")
+
+**Conoce qué es un eclipse parcial de luna** 
+---------------------------------------------
+
+Según el **[Observatorio Astronómico de Quito](https://oaq.epn.edu.ec/index.php/publicaciones/noticias-y-eventos/noticias-2024/650-boletin-de-prensa-eclipse-parcial-de-luna-y-superluna-de-cosecha "https://oaq.epn.edu.ec/index.php/publicaciones/noticias-y-eventos/noticias-2024/650-boletin-de-prensa-eclipse-parcial-de-luna-y-superluna-de-cosecha")**, un **eclipse parcial de Luna** se produce cuando **solo una fracción de la Luna entra en la umbra**, la zona más oscura de la sombra terrestre, mientras que el resto de la Luna pasa por la penumbra, la región de sombra parcial. Durante este fenómeno, los observadores podrán notar cómo una parte de la Luna se oscurece al atravesar la sombra de la Tierra. 
+
+ **La Superluna de Cosecha** 
+-----------------------------
+
+Siguiendo con el Observatorio Astronómico, la **Superluna de Cosecha** es un **fenómeno que ocurre cuando la Luna llena alcanza su punto más cercano a la Tierra en su órbita**, haciéndola lucir más grande y brillante de lo habitual. Este término, “Luna de Cosecha,” **se aplica a la Luna llena que ocurre más cerca del equinoccio de septiembre,** lo que proporciona **una luz extra durante las noches de cosecha**. 
+
+**La Luna llena, o plenilunio**, sucede cuando la Tierra se encuentra directamente entre el Sol y la Luna, y se crea un ángulo de elongación de 180° y resulta en **una iluminación total del 100%.** 
+
+En la noche del 17 de septiembre, **la Luna estará aproximadamente a 352 mil kilómetros de la Tierra**, y se generará una superluna. En ese momento, alcanzará una magnitud de -12.4 y **estará completamente iluminada.** La Superluna de Cosecha será un 7,8% más grande y un 15,4% más brillante que una Luna llena típica. 
+
+**Este fenómeno será visible toda la noche**, ya que la **salida de la Luna coincidirá con la puesta del Sol** y su **ocaso con la salida del Sol.** Durante este evento, **la Luna reflejará la luz solar hacia la Tierra**, al mostrar **su cara completamente iluminada**, lo que permitirá **observarla en su totalidad**. La Luna llena ocurre aproximadamente cada 29 días, para completar así el ciclo lunar. 
+
+**Detalles a tomar en cuenta** 
+-------------------------------
+
+Este fenómeno astronómico **será visible en varias regiones del mundo**, también en América del Sur, Norteamérica, Europa, África y algunas partes de Asia. **En Quito, el eclipse parcial de Luna seguirá el siguiente horario**, de acuerdo con información del Obervatorio: 
+
+* Inicio del eclipse penumbral: 7:41 pm. 
+
+* Inicio del eclipse parcial: 9:13 pm. 
+
+* Máximo del eclipse: 9:44 pm. 
+
+* Fin del eclipse parcial: 10:16 pm. 
+
+* Fin del eclipse penumbral: 11:47 pm. 
+
+Durante este evento, **la Luna tendrá una magnitud penumbral de 1.037**, que indica la proporción de la Luna en la penumbra de la Tierra, y una **magnitud umbral de 0.085**, que refleja la parte de la Luna oscurecida por la umbra terrestre. 
+
+**El Observatorio Astronómico de Quito estará abierto al público durante la noche del eclipse,** desde las 20:00 hasta las 22:30. Ofrecerá charlas informativas y la posibilidad de observar el fenómeno a través de sus telescopios electrónicos.  
+
+Así funciona el Pico y placa en Quito este martes 17 de septiembre
+==================================================================
+
+La medida del Pico y placa se aplica en ciertas horas con la intención de bajar la carga vehicular de Quito.
+------------------------------------------------------------------------------------------------------------
+
+![El Pico y placa es una medida que rige dentro de Quito](https://www.elcomercio.com/wp-content/uploads/2024/09/Pico-y-placa-en-Quito.jpg)
+
+La medida del **Pico y placa** sigue vigente en Quito para **restringir la movilidad** de ciertos vehículos un día de la semana, según el último dígito del registro metálico[.](https://es.wikipedia.org/wiki/Pico_y_placa "https://es.wikipedia.org/wiki/Pico_y_placa")
+
+Más noticias
+------------
+
+* [Concejo de Quito debate las sanciones por Pico y placa](https://www.elcomercio.com/actualidad/quito/sanciones-pico-placa-concejo-metropolitano-municipio-quito.html "Concejo de Quito debate las sanciones por Pico y placa")
+* [Controles de velocidad en Quito cambian de esquema, ¿pueden variar las sanciones?](https://www.elcomercio.com/actualidad/quito/exceso-velocidad-alcalde-quito-controles-sanciones.html "Controles de velocidad en Quito cambian de esquema, ¿pueden variar las sanciones?")
+* [Controles de exceso de velocidad se harán con este cronograma](https://www.elcomercio.com/actualidad/quito/controles-de-exceso-de-velocidad-cronograma.html "Controles de exceso de velocidad se harán con este cronograma")
+
+El personal de la Agencia Metropolitana de Tránsito (**AMT**) es responsable de supervisar el cumplimiento de la medida de Pico y Placa en Quito, regulando la circulación vehicular según las restricciones establecidas para mejorar el tráfico en la ciudad.
+
+El esquema de aplicación del Pico y placa
+-----------------------------------------
+
+En la mañana la medida se aplica en un **horario de 06:00 a 09:30 y** en la tarde, de **16:00 a 20:00**.
+
+Según el último dígito de la placa**, el cronograma es el siguiente:**
+
+* **Lunes:** placas terminadas en 1 y 2.
+* **Martes:** placas terminadas en 3 y 4.
+* **Miércoles:** placas terminadas en 5 y 6.
+* **Jueves:** placas terminadas en 7 y 8.
+* **Viernes:** placas terminadas en 9 y 0.
+
+Este martes, los vehículos con **placas terminadas en 3 y 4 n**o podrán circular dentro de Quito.
+
+Documentos necesarios para circular
+-----------------------------------
+
+Para circular, es esencial **tener la licencia y la matrícula** vigentes.
+
+Si tu licencia está caducada, **debes seguir estos pasos** para renovarla:
+
+* Generar una orden de pago en la página de la Agencia Nacional de Tránsito (ANT).
+* Cancelar el valor correspondiente, ya sea en línea o en puntos físicos de pago.
+* Obtener un turno para la emisión de la licencia en la agencia de tu preferencia.
+* Acercarte a la agencia 15 minutos antes de la hora asignada, presentar el turno impreso con la hora y día agendado.
+* Realizar la evaluación teórica.
+* Esperar la entrega de la nueva licencia.
+
+Si tu licencia está próxima a caducarse y tu turno es aún lejano, **puedes mostrar impreso el turno** cuando los agentes de tránsito te detengan.
+
+Colaboración ciudadana en el Pico y placa
+-----------------------------------------
+
+El **Municipio de Quito** insta a los conductores a cumplir con las **restricciones del Pico y placa** para mejorar el flujo vehicular en las horas pico.
+
+Planificar los recorridos y **verificar que todos los documentos** estén en regla es fundamental para evitar sanciones y garantizar una movilidad más eficiente.
+
+En conclusión, este martes, **los vehículos con placas terminadas en 3 y 4 no pueden circular** dentro de Quito. Asegúrate de tener tu licencia y matrícula vigentes para evitar [inconvenientes](https://es.wikipedia.org/wiki/Quito).
+
+Gobierno de Daniel Noboa anuncia nuevos apagones programados
+============================================================
+
+Los ecuatorianos vivirán un racionamiento eléctrico de 40 horas, dividido en cinco días.
+----------------------------------------------------------------------------------------
+
+![Ecuador enfrenta una crisis energética debido, en gran parte, a la falta de lluvias](https://www.elcomercio.com/wp-content/uploads/2024/09/apagon-as.jpg)
+
+  
+El presidente **Daniel Noboa**, a través de la Secretaría de Comunicación de Presidencia, informó que Ecuador sufrirá de nuevos **apagones** programados.
+
+### Más noticias
+
+* [ECU 911 hizo un anuncio respecto a los cortes de luz a escala nacional](https://www.elcomercio.com/actualidad/ecuador/ecu-911-hizo-un-anuncio-respecto-a-los-cortes-de-luz-a-escala-nacional.html "ECU 911 hizo un anuncio respecto a los cortes de luz a escala nacional")
+* [Cortes de luz provocarán suspensión de al menos 6 servicios este miércoles 18 de septiembre](https://www.elcomercio.com/actualidad/negocios/cortes-de-luz-provocaran-suspension-de-al-menos-6-servicios-este-miercoles-18-de-septiembre.html "Cortes de luz provocarán suspensión de al menos 6 servicios este miércoles 18 de septiembre")
+* [Gobierno declara toque de queda por cortes de luz a escala nacional](https://www.elcomercio.com/actualidad/seguridad/gobierno-declara-toque-queda-por-cortes-luz-a-escala-nacional.html "Gobierno declara toque de queda por cortes de luz a escala nacional")
+
+Según detalla el comunicado oficial del Ejecutivo difundido la noche de este lunes 16 de septiembre de 2024, el país enfrentará **32 horas** de cortes de luz la próxima semana.
+
+Días y horas de los cortes de luz
+---------------------------------
+
+La suspensión del servicio eléctrico se realizará el lunes 23, martes 24, miércoles 25 y jueves 26 de septiembre.
+
+El horario será similar al del primer apagón programado de este miércoles 18 de septiembre, de **22:00 a 06:00**.
+
+Presidencia aseguró que esta franja horaria de **ocho horas diarias** se escogió “con la finalidad de generar el menor impacto posible en las actividades productivas y el desarrollo de jornadas laborales”.
+
+Esta medida guarda relación con la emergencia eléctrica que enfrenta Ecuador.
+
+El Gobierno afirma que con estos cortes de luz obligatorios busca “manejar de forma responsable el control del sistema eléctrico”, en lo que consideran como “el peor estiaje de los últimos 61 años”.
+
+Instituciones públicas con teletrabajo
+--------------------------------------
+
+En el oficio, Presidencia manifestó que desde el Gobierno se continuarán “desplegando las acciones necesarias para precautelar la soberanía energética a **mediano plazo**“.
+
+Entre las acciones que la entidad menciona que se han implementado para reducir el impacto de esta crisis están:
+
+* Puesta en marcha de barco generador
+* Generadores permanentes de tierra
+* Aprobación de reglamentos para importación de gas natural
+* Complementación de infraestructura energética
+* Normativas que permiten generación del sector privado
+
+Así mismo, se implementará la **modalidad de teletrabajo** en el sector público el jueves 19 y viernes 20 de septiembre; como también el jueves 26 y viernes 27 de septiembre.
+
+> A la ciudadanía: [#ElNuevoEcuadorResuelve](https://twitter.com/hashtag/ElNuevoEcuadorResuelve?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/gfA60dPzFJ](https://t.co/gfA60dPzFJ)
+> 
+> — Presidencia Ecuador 🇪🇨 (@Presidencia\_Ec) [September 17, 2024](https://twitter.com/Presidencia_Ec/status/1835902030600196105?ref_src=twsrc%5Etfw)
+
 ¿Desintoxicación digital?
 =========================
 
@@ -995,216 +1266,4 @@ La calidez de los tapatíos hace que todos se sientan bienvenidos. La ciudad ofr
 5\. Austin, Estados Unidos
 --------------------------
 
-Austin brilla con una escena musical de Estados Unidos. La ciudad alberga numerosos clubes y bares. Los eventos musicales llenan las calles de energía. Los festivales atraen a artistas internacionales. La oferta de conciertos es variada y constante. Además, la comunidad apoya el arte con entusiasmo.  La evaluación resalta las áreas de **6th Street** y **Congress Avenue** como los principales epicentros de actividades nocturnas. 
-
-Deportivo Quito tiene DT para buscar el ascenso a la Serie B
-============================================================
-
-Deportivo Quito anunció a su nuevo cuerpo técnico para disputar la fase de ascenso nacional en la Segunda Categoría.
---------------------------------------------------------------------------------------------------------------------
-
-![José Pardo (segundo de izquierda a derecha) junto al cuerpo técnico que encabeza Carlos Castro (tercero de izquierda a derecha).](https://www.elcomercio.com/wp-content/uploads/2024/09/Diseno-sin-titulo-2024-09-16T191302.679.jpg)
-
-Después de que el **Deportivo Quito** ingresase a la fase nacional de la **Segunda Categoría** a raíz de la descalificación de dos clasificados de Pichincha, este anunció su cuerpo técnico. El equipo busca reconformarse para nuevo escenario luego de haber estado fuera de competencia.
-
-El equipo chulla ha vivido una serie de rocambolescos sucesos con el inicio de los cotejos eliminatorios para llegar a la **Serie B** a la vuelta de la esquina. La mañana de este lunes 16 de septiembre del 2024, misma fecha pactada para el sorteo de lo partido, se oficializó su participación y también logró presentar al **nuevo DT.**
-
-### Más noticias:
-
-* [Deportivo Quito ya tiene rival en el Ascenso Nacional](https://www.elcomercio.com/deportes/futbol/deportivo-quito-ya-tiene-rival-en-el-ascenso-nacional.html "Deportivo Quito ya tiene rival en el Ascenso Nacional")
-* [Independiente JFA reclama inclusión de Deportivo Quito en Ascenso Nacional](https://www.elcomercio.com/deportes/reclamo-independiente-jfa-deportivo-quito-segunda.html "Independiente JFA reclama inclusión de Deportivo Quito en ascenso nacional")
-* [Deportivo Quito jugará el torneo de ascenso a la Serie B](https://www.elcomercio.com/deportes/futbol/deportivo-quito-jugara-el-torneo-de-ascenso-a-la-serie-b.html "Deportivo Quito jugará el torneo de ascenso a la Serie B")
-
-De cara al nuevo y sorpresivo suceso, la ‘AKD’ consiguió arreglar con un entrenador ecuatoriano. **Carlos Castro**, exfutbolista ecuatoriano y ahora director técnico, será el encargado de dirigir al Deportivo Quito en su camino por volver a la división de plata del fútbol nacional.
-
-El cuerpo técnico de Castro estará acompañado por tres nombres más: **Édison Musuña**, preparador físico; **Misael Pino**, asistente técnico; y **Kléver Hernández**, preparador de arqueros.
-
-Castro reemplazará en el cargo a **Martín Mandra**, quien se despidió del equipo después de que, en un inicio, este no clasificara a la última fase del torneo provincial. El entrenador argentino, a su vez, se encuentra en el **Manta FC** de la Serie B.
-
-¿Por qué el Deportivo Quito participa en la fase nacional de Segunda Categoría?
--------------------------------------------------------------------------------
-
-El **Deportivo Quito** vio frustradas sus posibilidades de ascenso después de no clasificar ni siquiera el hexagonal final del campeonato de Pichincha. La primera etapa de dicho torneo se dividió entres grupos de los cuales pasaban los dos mejores[.](https://es.wikipedia.org/wiki/Sociedad_Deportivo_Quito "https://es.wikipedia.org/wiki/Sociedad_Deportivo_Quito")
-
-Dentro del hexagonal, los cuatro mejores tenían un cupo hacia la próxima ronda. Dado que no todos los clubes que clasificaron a nivel nacional contaban con la documentación requerida, **Pichincha** recibió dos lugares más.
-
-Aunque quienes debían beneficiarse de los dos nuevos cupos otorgados eran Independiente JFA y Patrón Mejía, estos no enviaron los papeles solicitados por la **Federación Ecuatoriana de Fútbol** (FEF) y **AFNA** a tiempo. En consecuencia, **Deportivo Quito y AV25**, los dos mejores terceros en la primera fase, estarán en las etapas nacionales.
-
-¿Cuál es el rival de Deportivo Quito?
--------------------------------------
-
-En el sorteo de los cruces de **Segunda Categoría**, el Deportivo Quito estuvo presente y conoció a su próximo rival. El inicio dentro del marco nacional para la escuadra azul y grana será frente al Santa Elena Sporting Club.
-
-Los equipos inician su camino desde los treintaidosavos de final y los dos clubes que asciendan pasarán por un total de **siete llaves**. Cada compromiso será a ida y vuelta.
-
-Caso Metástasis: Fiscalía hizo un pedido a la CNJ sobre los 37 procesados
-=========================================================================
-
-En el caso Metástasis, la Fiscalía presentó más de 300 elementos de convicción en el pedido a la CNJ sobre los 37 procesados.
------------------------------------------------------------------------------------------------------------------------------
-
-![En la audiencia del caso Metástasis la Fiscalía hizo un pedido a la CNJ.](https://www.elcomercio.com/wp-content/uploads/2024/09/Diseno-sin-titulo-13-1.jpg)
-
-En el Caso Metástasis, la Fiscalía General del Estado (FGE) hizo un pedido a la Corte Nacional de Justicia (CNJ) sobre los 37 procesados.
-
-En este caso, la Fiscalía investiga el delito de delincuencia organizada. Entre los procesados están: Ronny Aleaga, exasambleísta correísta y el exjuez de la CNJ, Wilman Terán.
-
-### Más noticias:
-
-* [Fiscalía expone cómo operaba Leandro Norero en el caso Metástasis](https://www.elcomercio.com/actualidad/seguridad/fiscalia-expone-como-operaba-leandro-norero-caso-metastasis.html "Fiscalía expone cómo operaba Leandro Norero en el caso Metástasis")
-* [Caso Metástasis: Wilman Terán, Ronny Aleaga y 35 más a audiencia preparatoria de juicio](https://www.elcomercio.com/actualidad/seguridad/caso-metastasis-wilman-teran-ronny-aleaga-35-mas-audiencia-preparatoria-juicio.html "Caso Metástasis: Wilman Terán, Ronny Aleaga y 35 más a audiencia preparatoria de juicio")
-
-Caso Metástasis: el pedido de la Fiscalía a la CNJ sobre los 37 procesados
---------------------------------------------------------------------------
-
-La Fiscalía General del Estado concluyó con la presentación de su dictamen acusatorio, fundamentado en 340 elementos de convicción, en el caso Metástasis.
-
-Solicitó que los 37 procesados sean llamados a juicio por su presunta participación en el delito de delincuencia organizada.
-
-Durante su intervención, el fiscal general del Estado subrogante, Wilson Toainga, individualizó la participación de cada uno de los imputados.
-
-Identificó a Fabián C., Cristian R., Xavier J. y Xavier N. como los presuntos líderes de la organización.
-
-Además, como presuntos colaboradores a: Marcel L., Ronny A., Wilman T., Ronald G., Johann M., Glenda O., Santiago Z.,
-
-También, José S., Carlos Z., María V., María A., John C., Víctor A., Doris O., Armando R., Ángel L., Fernando G., Edinn I., Pablo R..
-
-Carlos M., Katherine G., Claudia G., Myrian D., Armando F., Kevin P., Sofía G., César A., Braulio M., Ángel L., Jairo V., Elio A., Eduardo R. y Rommel T.
-
-En su exposición, Toainga explicó que, a raíz del asesinato de Leandro Norero, Fiscalía analizó sus dispositivos celulares.
-
-A través de los chats, la Fiscalía descubrió una red conformada por jueces, fiscales, secretarios, policías, guías penitenciarios y abogados en libre ejercicio.
-
-La red tenía como objetivo obtener seguridad, impunidad y libertad para Norero y sus familiares dentro de un proceso por lavado de activos seguido en su contra.
-
-Estas acciones habrían iniciado el 25 de mayo de 2022, cuando Leandro Norero, sus hermanos Israel N. y Johanna Z., y su esposa Lina R. fueron detenidos para investigaciones.
-
-Caso Metástasis: los elementos de convicción presentados por Fiscalía en el pedido a la CNJ
--------------------------------------------------------------------------------------------
-
-Según los elementos de convicción expuestos en la audiencia preparatoria de juicio, la presunta organización habría tenido varios frentes de acción: financiamiento, dirección y planificación; liderados por Cristian R., Fabián C., Xavier J. y Xavier N..
-
-Además, contaba con la colaboración del resto de los procesados, quienes cumplían actividades como vigilancia y seguimiento a la Fiscal del caso de lavado de activos, brindar información sobre acciones policiales, la entrega de sobornos y la toma de decisiones judiciales para beneficiar a Norero y sus familiares, y para recuperar los bienes incautados en el allanamiento a su domicilio.
-
-En este caso, doce personas ya fueron sentenciadas mediante procedimiento abreviado, luego de que aceptaran su participación en los hechos imputados.
-
-El juez Manuel Cabrera suspendió la audiencia preparatoria de juicio pasadas las 20:00, la reinstalará a las 8:30 de este martes 17 de septiembre.
-
-Gerente del Metro de Quito denunció reciente acto de vandalismo ante Fiscalía
-=============================================================================
-
-La Empresa Metro de Quito dio detalles de cómo sucedió el hecho.
-----------------------------------------------------------------
-
-![Juan Carlos Parra, gerente del Metro de Quito, durante la presentación de la denuncia](https://www.elcomercio.com/wp-content/uploads/2024/09/metro-gerente.jpg)
-
-El gerente general del Metro de Quito, **Juan Carlos Parra**, puso una denuncia ante la Fiscalía General del Estado por el **acto vandálico** que se registró en uno de los trenes.
-
-La acción legal presentada este lunes 16 de septiembre de 2024 se sustentó en un **informe** que preparó la Operadora Metro de Medellín Transdev.
-
-### Más noticias
-
-* [El Metro de Quito fue vandalizado otra vez](https://www.elcomercio.com/actualidad/quito/metro-quito-vandalizado-sanciones-tren.html "El Metro de Quito fue vandalizado otra vez")
-* [Ciudadano fue detenido por vandalizar una parada del Metro de Quito](https://www.elcomercio.com/actualidad/quito/ciudadano-parada-metro-quito-grafiti.html "Ciudadano fue detenido por vandalizar una parada del Metro de Quito")
-* [Metro de Quito superó los 40 millones de viajes](https://www.elcomercio.com/actualidad/quito/metro-de-quito-supero-40-millones-de-viajes.html "Metro de Quito superó los 40 millones de viajes")
-
-Según detalló el Metro de Quito, **dos desconocidos** que utilizaban gorras y mascarillas ingresaron a una zona no autorizada del servicio de transporte, alrededor de las **21:00** de este domingo 15 de septiembre.
-
-Los hombres **forzaron una puerta** de evacuación del túnel e irrumpieron en las vías.
-
-En menos de **dos minutos**, los sospechosos vandalizaron uno de los trenes con un **grafiti** de dos metros de largo.
-
-Desconocidos no fueron atrapados
---------------------------------
-
-Los operarios captaron el hecho a través de las **cámaras de vigilancia** del lugar, por lo que pudieron activar los protocolos de seguridad de inmediato.
-
-Esta alerta obligó a que otro de los trenes que estaba en operaciones se detenga por seguridad.
-
-Mientras, los desconocidos huyeron del sitio al percatarse que los agentes de seguridad del Metro se acercaban.
-
-El **tren afectado** fue trasladado hacia el centro de talleres, donde fue inspeccionado por personal de Criminalística de la **Policía Nacional**.
-
-La información del levantamiento de indicios, junto a otras pruebas, fueron añadidos en el informe de la operadora.
-
-La unidad se encuentra en proceso de **limpieza**; una vez se finalice con su restauración, el tren retornará al servicio.
-
-Las autoridades presumen que el acto de vandalismo puede estar relacionado con un **grupo** que se dedica a realizar estas irrupciones en otros sistemas de Metro, en **Sudamérica**.
-
-Gerente rechazó el acto vandálico
----------------------------------
-
-Sobre el tema, Juan Carlos Parra, aseguró que la seguridad de las estaciones fue reforzada.
-
-> 🚇 [#ElMetroDeQuitoRenace](https://twitter.com/hashtag/ElMetroDeQuitoRenace?src=hash&ref_src=twsrc%5Etfw) | El Metro de Quito prestó una denuncia formal ante la Fiscalía General del Estado para que se investigue y se de con los responsables del hecho vandálico registrado el pasado 15 de septiembre, en uno de los trenes. [#QuitoRenace](https://twitter.com/hashtag/QuitoRenace?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/mKrTMm06Pl](https://t.co/mKrTMm06Pl)
-> 
-> — Metro de Quito (@MetrodeQuito) [September 16, 2024](https://twitter.com/MetrodeQuito/status/1835791521334874193?ref_src=twsrc%5Etfw)
-
-“La Empresa ha venido tomando **acciones correctivas y preventivas** para que estos actos sean neutralizados, sin embargo, se requiere la acción de la Policía Nacional y Fiscalía para que se cierre el círculo y determinar las responsabilidades”, dijo el gerente.
-
-La denuncia fue presentada bajo el delito de **daño a bien ajeno**.
-
-Deportivo Quito ya tiene rival en el Ascenso Nacional
-=====================================================
-
-Deportivo Quito volverá a la competencia oficial en el 2024 y lo hará en el torneo de Asenso Nacional.
-------------------------------------------------------------------------------------------------------
-
-![Hinchas del Deportivo Quito en la Segunda Categoría de Pichincha en el 2024.](https://www.elcomercio.com/wp-content/uploads/2024/09/quito_rival_1.jpg)
-
-El 23 de junio de 2024 el **Deportivo Quito jugó su último partido en el grupo A** de la Segunda Categoría de Pichincha ante Rayo en el estadio Olímpico Atahualpa y ponía fin a su temporada.
-
-Para el **Deportivo Quito haber quedado en el tercer puesto significó** un verdadero fracaso al no superar esta etapa de la competencias.
-
-Sus directivos, cuerpo técnico, jugadores e hinchas esperaban que este sea el año del retorno a la Serie B para el 2025, pero vieron como ese objetivo se esfumaba.
-
-### Más noticias:
-
-* [Independiente JFA reclama inclusión de Deportivo Quito en ascenso nacional](https://www.elcomercio.com/deportes/reclamo-independiente-jfa-deportivo-quito-segunda.html "Independiente JFA reclama inclusión de Deportivo Quito en ascenso nacional")
-* [Tadej Pogacar sumó un nuevo título previo al Mundial de Ciclismo](https://www.elcomercio.com/deportes/ciclismo/tadej-pogacar-sumo-nuevo-titulo-previo-mundial-de-ciclismo.html "Tadej Pogacar sumó un nuevo título previo al Mundial de Ciclismo")
-* [Endrick, jugador del Real Madrid y Brasil, anuncia su matrimonio](https://www.elcomercio.com/deportes/endrick-matrimonio-real-madrid-brasil.html "Endrick, jugador del Real Madrid y Brasil, anuncia su matrimonio")
-
-Inesperadamente, el **Quito tendrá una nueva oportunidad de ascender** y fue incluido entre los 62 equipos que pelearán por uno de los cuatro cupos para ascender a la Serie B, puesto que Independiente JFA y el Patrón Mejía no presentaron la documentación respectiva para jugar el referido torneo.
-
-El cuadro de la ‘Plaza del Teatro’ no perdió tiempo y presentó este lunes 16 de septiembre a **Carlos Castro**, exjugador de Deportivo Quevedo, Deportivo Cuenca, Barcelona Sporting Club, El Nacional y Aucas, como su nuevo entrenador para enfrentar la competencia.
-
-Este mismo lunes la **Federación Ecuatoriana de Fútbol (FEF)**, organizadora del Torneo de Ascenso Nacional, realizó el sorteo de los treintaidosavos de final y marcó el camino de los equipos para intentar ascender de categoría.
-
-Treintaidosavos del Ascenso Nacional
-------------------------------------
-
-La Cantera FC vs. Guaranda FC  
-**Naranja Mekánica vs. Independiente Azogues  
-**Sportivo Loja vs. Primero de Mayo  
-**Deportivo Coca vs. 11 de Mayo  
-**Panamericana vs. Jipijapa FC  
-**Luz Valdivia FC vs. Bonita Banana  
-**San Camilo vs. New Sanfra  
-**Baños Ciudad de Fuego vs. La Unión  
-**Río Aguarico vs. Huancavilca  
-**Búhos vs. New Porto  
-**Patria vs. Aampetra  
-**Baldor Bermeo Cabrera vs. Atlético JBG  
-**Huaquillas FC vs. Filanbanco  
-**Miguel Iturralde vs. El Globo  
-**Cuenca Juniors vs. Deportivo Meridiano  
-**La Troncal FC vs. AV25  
-**22 de Julio FC vs. Exapromo Costa  
-**Olmedo vs. Liga Deportiva Cuenca  
-**Montúfar FC vs. Juventud Italiana  
-**Daquilema FC vs. La Concordia  
-**Aviced vs. Astillero FC  
-**Santa Elena Sumpa vs. Puerto Valle FC  
-**Deportivo Quevedo vs. 5 de Agosto  
-**San Elena SC vs. Deportivo Quito  
-**Deportivo Santo Domingo de los Tsáchilas vs. Everest  
-**INSUTEC vs. La Paz  
-**Liga de Portoviejo vs. Estrella Roja  
-**Mineros vs. Atlético Quinindé  
-**Udinese vs. Atlético Vinotinto  
-**Ecuagenera vs. Atlético Kin  
-**Liga de Macas vs. Toreros FC  
-**La Cantera de Pastaza vs. Cantera Orense**
-
-No te pierdas – El Confesionario con Iván Vallejo
--------------------------------------------------
+Austin brilla con una escena musical de Estados Unidos. La ciudad alberga numerosos clubes y bares. Los eventos musicales llenan las calles de energía. Los festivales atraen a artistas internacionales. La oferta de conciertos es variada y constante. Además, la comunidad apoya el arte con entusiasmo.  La evaluación resalta las áreas de **6th Street** y **Congress Avenue** como los principales epicentros de actividades nocturnas.
