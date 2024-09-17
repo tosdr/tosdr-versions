@@ -197,57 +197,57 @@ Note: If at any time you should have any concern regarding security, privacy or 
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Instantaneous, Nicely Designed, Graphical Invoices
-> --------------------------------------------------
+> Fast, Accurate & Easy to Use
+> ----------------------------
 > 
-> Selling backtracks and popular songs by South African artists in our online shop required an online invoicing system that sends instantaneous, nicely designed, graphical invoices in pdf format to clients that made realtime purchases on our site. InvoicesOnline.co.za provided us with the perfect solution, their API integration enabled our clients to view their invoices and account balance right in our site. We are very satisfied with InvoicesOnline.co.za.
+> Small Business Management System or SBMS, now rebranded as Invoices Online is an online invoicing system developed by the same guys that developed our site, we use it and honestly recommend it to all people who have dynamic sites, or want an online invoicing solution.  The invoicing application is fast, accurate, easy to use, and it really enhances the online experience of our clients.
 
-Henry Venter
+Jannie Schutte - myFinance-Online.co.za
 
-![valued client Digifax (Pty) Ltd trading as Digirent](https://www.invoicesonline.co.za/scripts/image.php?bid=571&file=logo_300_100&type=&fe=f2d22a20f4f33c4e74a511ba5f9d9ddfb1fd6274f2b73e3f1dab3a40d9f79a57&c=162300559)  
-Digifax (Pty) Ltd trading as Digirent
+![valued client Salvage Genie](https://www.invoicesonline.co.za/scripts/image.php?bid=5867&file=logo_300_100&type=&fe=9784db4810ac8c26be99f1742dbd5de9b254563da2c92d64918d757a5362ae0d&c=193488719)  
+Salvage Genie
 
-![valued client Adele Jordaan T/A Joyful Noise Music Room](https://www.invoicesonline.co.za/scripts/image.php?bid=7958&file=logo_300_100&type=&fe=f2d22a20f4f33c4e74a511ba5f9d9ddfb1fd6274f2b73e3f1dab3a40d9f79a57&c=132193788)  
-Adele Jordaan T/A Joyful Noise Music Room
+![valued client Echo Recording Studio cc](https://www.invoicesonline.co.za/scripts/image.php?bid=225&file=logo_300_100&type=&fe=9784db4810ac8c26be99f1742dbd5de9b254563da2c92d64918d757a5362ae0d&c=123873746)  
+Echo Recording Studio cc
 
-![valued client Goju-Ryu Pretoria East](https://www.invoicesonline.co.za/scripts/image.php?bid=8346&file=logo_300_100&type=&fe=f2d22a20f4f33c4e74a511ba5f9d9ddfb1fd6274f2b73e3f1dab3a40d9f79a57&c=174858379)  
-Goju-Ryu Pretoria East
+![valued client TurboFibre](https://www.invoicesonline.co.za/scripts/image.php?bid=6535&file=logo_300_100&type=&fe=9784db4810ac8c26be99f1742dbd5de9b254563da2c92d64918d757a5362ae0d&c=40158580)  
+TurboFibre
 
-![valued client Import Maaw](https://www.invoicesonline.co.za/scripts/image.php?bid=6159&file=logo_300_100&type=&fe=f2d22a20f4f33c4e74a511ba5f9d9ddfb1fd6274f2b73e3f1dab3a40d9f79a57&c=2608439)  
-Import Maaw
+![valued client Hydroworld T/A Milliqua](https://www.invoicesonline.co.za/scripts/image.php?bid=3671&file=logo_300_100&type=&fe=9784db4810ac8c26be99f1742dbd5de9b254563da2c92d64918d757a5362ae0d&c=88162073)  
+Hydroworld T/A Milliqua
 
-![valued client Van Der Merwe Olieverspreiders](https://www.invoicesonline.co.za/scripts/image.php?bid=8554&file=logo_300_100&type=&fe=f2d22a20f4f33c4e74a511ba5f9d9ddfb1fd6274f2b73e3f1dab3a40d9f79a57&c=150215139)  
-Van Der Merwe Olieverspreiders
+![valued client Druce Digital](https://www.invoicesonline.co.za/scripts/image.php?bid=7901&file=logo_300_100&type=&fe=9784db4810ac8c26be99f1742dbd5de9b254563da2c92d64918d757a5362ae0d&c=18407918)  
+Druce Digital
 
-![valued client Wiselink Broadband Dundee](https://www.invoicesonline.co.za/scripts/image.php?bid=5399&file=logo_300_100&type=&fe=f2d22a20f4f33c4e74a511ba5f9d9ddfb1fd6274f2b73e3f1dab3a40d9f79a57&c=26568358)  
-Wiselink Broadband Dundee
+![valued client Sarabi ](https://www.invoicesonline.co.za/scripts/image.php?bid=5430&file=logo_300_100&type=&fe=9784db4810ac8c26be99f1742dbd5de9b254563da2c92d64918d757a5362ae0d&c=99975717)  
+Sarabi
 
-![valued client Stories4Kids (Pty) Ltd t/a Storietyd](https://www.invoicesonline.co.za/scripts/image.php?bid=2162&file=logo_300_100&type=&fe=f2d22a20f4f33c4e74a511ba5f9d9ddfb1fd6274f2b73e3f1dab3a40d9f79a57&c=47072376)  
-Stories4Kids (Pty) Ltd t/a Storietyd
+![valued client MOSELA GROUP Pty(ltd)](https://www.invoicesonline.co.za/scripts/image.php?bid=7624&file=logo_300_100&type=&fe=9784db4810ac8c26be99f1742dbd5de9b254563da2c92d64918d757a5362ae0d&c=37818224)  
+MOSELA GROUP Pty(ltd)
 
-![valued client IEMS (PTY) ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7805&file=logo_300_100&type=&fe=f2d22a20f4f33c4e74a511ba5f9d9ddfb1fd6274f2b73e3f1dab3a40d9f79a57&c=9159857)  
-IEMS (PTY) ltd
+![valued client Imhoff Equestrian Centre](https://www.invoicesonline.co.za/scripts/image.php?bid=7987&file=logo_300_100&type=&fe=9784db4810ac8c26be99f1742dbd5de9b254563da2c92d64918d757a5362ae0d&c=193566180)  
+Imhoff Equestrian Centre
 
-![valued client Karino Merinos ( PTY ) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2349&file=logo_300_100&type=&fe=f2d22a20f4f33c4e74a511ba5f9d9ddfb1fd6274f2b73e3f1dab3a40d9f79a57&c=14103330)  
-Karino Merinos ( PTY ) LTD
+![valued client Know Informatics](https://www.invoicesonline.co.za/scripts/image.php?bid=6598&file=logo_300_100&type=&fe=9784db4810ac8c26be99f1742dbd5de9b254563da2c92d64918d757a5362ae0d&c=174380292)  
+Know Informatics
 
-![valued client Testpro Laboratory (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5981&file=logo_300_100&type=&fe=f2d22a20f4f33c4e74a511ba5f9d9ddfb1fd6274f2b73e3f1dab3a40d9f79a57&c=27289306)  
-Testpro Laboratory (Pty) Ltd
+![valued client Multi CNC Solutions CC](https://www.invoicesonline.co.za/scripts/image.php?bid=4422&file=logo_300_100&type=&fe=9784db4810ac8c26be99f1742dbd5de9b254563da2c92d64918d757a5362ae0d&c=98210156)  
+Multi CNC Solutions CC
 
-![valued client TRACKFORCE (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=1722&file=logo_300_100&type=&fe=f2d22a20f4f33c4e74a511ba5f9d9ddfb1fd6274f2b73e3f1dab3a40d9f79a57&c=63520657)  
-TRACKFORCE (Pty) Ltd
-
-![valued client United Paintball Federation](https://www.invoicesonline.co.za/scripts/image.php?bid=7016&file=logo_300_100&type=&fe=f2d22a20f4f33c4e74a511ba5f9d9ddfb1fd6274f2b73e3f1dab3a40d9f79a57&c=78882266)  
-United Paintball Federation
-
-![valued client Oukraal Merino's](https://www.invoicesonline.co.za/scripts/image.php?bid=3971&file=logo_300_100&type=&fe=f2d22a20f4f33c4e74a511ba5f9d9ddfb1fd6274f2b73e3f1dab3a40d9f79a57&c=71530647)  
-Oukraal Merino's
-
-![valued client Tantra Sound and Lightz](https://www.invoicesonline.co.za/scripts/image.php?bid=1208&file=logo_300_100&type=&fe=f2d22a20f4f33c4e74a511ba5f9d9ddfb1fd6274f2b73e3f1dab3a40d9f79a57&c=139866294)  
+![valued client Tantra Sound and Lightz](https://www.invoicesonline.co.za/scripts/image.php?bid=1208&file=logo_300_100&type=&fe=9784db4810ac8c26be99f1742dbd5de9b254563da2c92d64918d757a5362ae0d&c=110985308)  
 Tantra Sound and Lightz
 
-![valued client CGHK Enterprises (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8288&file=logo_300_100&type=&fe=f2d22a20f4f33c4e74a511ba5f9d9ddfb1fd6274f2b73e3f1dab3a40d9f79a57&c=55287148)  
-CGHK Enterprises (PTY) LTD
+![valued client MONSTER SECURITY GUARDING](https://www.invoicesonline.co.za/scripts/image.php?bid=7801&file=logo_300_100&type=&fe=9784db4810ac8c26be99f1742dbd5de9b254563da2c92d64918d757a5362ae0d&c=124068409)  
+MONSTER SECURITY GUARDING
+
+![valued client VIV'S TRUCKS (Pty) Ltd. (651)](https://www.invoicesonline.co.za/scripts/image.php?bid=6481&file=logo_300_100&type=&fe=9784db4810ac8c26be99f1742dbd5de9b254563da2c92d64918d757a5362ae0d&c=165320210)  
+VIV'S TRUCKS (Pty) Ltd. (651)
+
+![valued client Leef in Afrikaans](https://www.invoicesonline.co.za/scripts/image.php?bid=7426&file=logo_300_100&type=&fe=9784db4810ac8c26be99f1742dbd5de9b254563da2c92d64918d757a5362ae0d&c=58898998)  
+Leef in Afrikaans
+
+![valued client SA Security Brokerz (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5188&file=logo_300_100&type=&fe=9784db4810ac8c26be99f1742dbd5de9b254563da2c92d64918d757a5362ae0d&c=16178916)  
+SA Security Brokerz (Pty) Ltd
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
