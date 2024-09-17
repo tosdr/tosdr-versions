@@ -31,6 +31,806 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
+¿Desintoxicación digital?
+=========================
+
+El Ministerio de Educación estudia el uso de los celulares en las aulas. Una consulta con los actores y un contrato socio-educativo obligatorio es urgente.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+![Imagen generada en Ideogram y editada en Adobe Firefly, con el prompt: El celular en el centro de las preocupaciones de estudiantes, padres, docentes y autoridades. Sus dedos índices se dirigen a un móvil ubicado en el centro.](https://www.elcomercio.com/wp-content/uploads/2024/09/desintoxicacion-digital-celular-telefono-educacion.jpg)
+
+El debate se ha iniciado en el Ecuador. El Diario El Comercio en su [editorial del 31 de agosto 2024](https://www.elcomercio.com/opinion/editorial/uso-celulares-clases-ecuador.html "https://www.elcomercio.com/opinion/editorial/uso-celulares-clases-ecuador.html"), sostiene que **“la posible prohibición del uso de celulares en las aulas ecuatorianas es un tema complejo que requiere un análisis profundo, equilibrado y técnico, despojado del tinte político**. Es esencial encontrar un equilibrio que permita aprovechar las ventajas tecnológicas sin comprometer la seguridad y el bienestar de los estudiantes. La decisión final deberá considerar las opiniones de todos los actores implicados y buscar el mejor interés para la educación y el desarrollo integral de los jóvenes ecuatorianos”.
+
+**El celular en el escenario**
+------------------------------
+
+**El teléfono móvil -DynaTAC- fue creado en 1970**. Desde entonces, su desarrollo ha sido impresionante, gracias a la **comunicación inalámbrica, la conectividad y la popularidad masiva.** 
+
+**El celular comercial fue el Motorola DynaTAC 8000X, promovido en 1983.** Pesado, grande y costoso, el celular fue el comienzo de la era de la telefonía móvil (primero analógica y lenta), que luego se transformó en liviano, pequeño y barato, que superó la débil transmisión de voz con nuevas aplicaciones gracias a la Internet, cámara de fotos y datos (hoy, digital y de alta velocidad). **El celular es una computadora de bolsillo, que utiliza el 68% de la población mundial.** 
+
+**El reinado de las aplicaciones**
+----------------------------------
+
+Con la llegada de esta herramienta tecnológica a la cotidianidad, la humanidad vive una revolución inédita cuya consigna es clara: **conectar a la gente en cualquier lugar del planeta, a través de dispositivos que buscan enlaces instantáneos mediante procedimientos sencillos.** ¡Basta un clic para comunicarse!
+
+**Esta maravilla de la civilización audiovisual no es neutra, inofensiva o aséptica.** ¡Hay intencionalidades! La producción y distribución de las computadoras de bolsillo responden a la lógica del mercado, atribuida a grandes empresas transnacionales y ejércitos de programadores, que gobiernan la **“Big Data”** -una serie de robots, alimentados por algoritmos e inteligencia artificial-, que registran los **“me gusta”** y crean redes de consumidores. 
+
+**Las aplicaciones son joyas que usan los ciudadanos de todo el orbe convertidos en clientes**, quienes utilizan sus dispositivos para hacer compras online, pagar en tiendas, descargar juegos, ver contenido audiovisual y comunicarse con otras personas a través de la mensajería instantánea.
+
+**Existen recomendaciones para un uso responsable del celular y evitar posibles alteraciones en la salud y en el medio ambiente, pero en general no se aplican.**
+
+**Sociedad de las cuatro pantallas**
+------------------------------------
+
+La Fundación Telefónica ha sido pionera en adoptar una política de educación digital, que podría ser la alternativa para enfrentar los retos del impacto de las cuatro pantallas, en los niños jóvenes**: la televisión, el ordenador, el video juego y el celular**. Sus investigaciones y propuestas son puntos de inflexión para admitir la “vulnerabilidad digital” y las posibles estrategias para aminorar sus amenazas.
+
+**“Este informe presenta evidencias sobre la “Sociedad de las Cuatro Pantallas**”, en el entramado social latinoamericano de la segunda década del siglo XXI”. En el contexto ecuatoriano, “la investigación realizada por Fundación Telefónica en Ecuador, conocida como **“Generaciones Interactivas”,** se centró en el uso de las cuatro pantallas (Internet, celular, videojuegos y televisión) **entre niños y adolescentes de 6 a 18 años**. Aquí los resultados más destacados:
+
+**Celulares.** La pantalla más utilizada, con un 87% de los niños y adolescentes usándolos para hacer y recibir llamadas, un 74% para enviar mensajes de texto, y un 59% para escuchar música.
+
+**Internet.** Utilizado principalmente para la comunicación y el entretenimiento. La mayoría de los jóvenes acceden a redes sociales y plataformas de video.
+
+**Videojuegos.** Un 55% de los encuestados juega en sus dispositivos, destacando la popularidad de esta actividad entre los adolescentes.
+
+**Televisión.** Aunque sigue siendo relevante, su uso ha disminuido en comparación con las otras pantallas, ya que los jóvenes prefieren contenido a demanda en plataformas digitales.
+
+El estudio también reveló que el uso de estas tecnologías tiene un **impacto significativo en el ámbito escolar y familiar**, fomentando tanto oportunidades educativas como desafíos en la gestión del tiempo y la atención.
+
+**Las Naciones Unidas opinan**
+------------------------------
+
+Para la ONU el uso de los teléfonos móviles es un problema de salud mundial. En la actualidad existen 5.000 millones de suscripciones de teléfonos móviles. 
+
+**Hay evidencias científicas sobre los efectos adversos en la salud por la exposición a los campos magnéticos creados por las radiofrecuencias de estos aparatos.** Un estudio reveló indicios que el uso por más de 30 minutos diarios podría ser dañino a los cerebros de niños y adolescentes**. La recomendación concreta es que los niños menores de 13 años no tengan celular, ni redes sociales.**
+
+La **UNESCO**, organismo de las Naciones Unidas para la Educación, la Ciencia y la Cultura, **recomienda evitar su uso en las escuelas y citó una investigación, según el cual las notificaciones desconcentran a los estudiantes, que pueden tardar hasta 20 minutos en volver a centrarse en el aprendizaje.**
+
+Según el último informe GEM 2023 de la UNESCO sobre educación y tecnología, que revisa las políticas educativas de 211 países del mundo, **“los datos de evaluaciones internacionales a gran escala, como los proporcionados por el Programa para la Evaluación Internacional de Alumnos (PISA), sugieren una relación negativa entre el uso excesivo de las TIC y el rendimiento de los estudiantes”.**
+
+**Los celulares y sus impactos**
+--------------------------------
+
+En el ámbito pedagógico, el uso exagerado de **los celulares distrae la atención de los alumnos en las aulas, que provoca la disminución del rendimiento escolar.**
+
+A esta situación se añaden **riesgos severos**: el peligro de adicción; el acoso sexual manifestado en delitos que atentan a la integridad moral de los estudiantes, y a la utilización clandestina de estos dispositivos que deforman la mente y los valores de niños y adolescentes, mediante pornografía, trata de personas y aplicaciones sin controles.
+
+Hay posiciones radicales tomadas por países que han prohibido los móviles en primaria y secundaria. **Veinte minutos -se recomienda- es el tiempo que tarda un alumno en recuperar la atención cada vez que le llega una notificación al móvil cuando está en clase.**
+
+“Aunque no es lo más grave: **la posibilidad de hacer vídeos y fotos a otros compañeros, el visionado de contenido inapropiado, potenciales suicidios y el uso excesivo de las redes sociales preocupan a familias y docentes, que han exigido la aprobación de leyes para prohibir su uso en las aulas. Y lo han logrado”**.
+
+Francia prohibió en 2018 el celular en las aulas. Siguieron Finlandia, Suecia, Grecia e Italia, que dejaron la prohibición en manos de los profesores. Países Bajos introducirá la prohibición en 2024. Según **Environmental Health Trust**, otros países como Israel, China, Australia, Ontario, Ghana, Ruanda y Uganda también los prohibieron. Aunque, según la organización, **“menos de uno de cada cuatro países de todo el mundo ha prohibido el uso de teléfonos inteligentes en las escuelas”.** 
+
+¡La desintoxicación digital comenzó en el mundo!
+
+**El caso del Ecuador**
+-----------------------
+
+**El Ministerio de Educación debe realizar una consulta** mediante mesas técnicas, con carácter interdisciplinario y la participación de los estudiantes, docentes, padres de familia y expertos. Puntos a considerar son, entre otros: **partir de un enfoque integral, es decir, que no se analice exclusivamente el uso de celulares en las aulas, sino también en el ámbito familiar y cotidiano.** La relación familia-centro educativo es clave; asimismo, la salud mental, la seguridad e integridad de los estudiantes. 
+
+También es necesario regular el uso positivo de las tabletas, computadoras y otras herramientas tecnológicas, para potenciar los aprendizajes. En este sentido**, el ejemplo de los profesores y padres de familia será significativo,** para aplicar estrategias seguras, prácticas y consensuadas entre los actores, **sobre la base de un manual de manejo -no códigos, por favor-,** que se fundamenten en la **educación de la responsabilidad con planes pilotos y resultados verificables.**
+
+Los impactos reales de la sequía aún estamos por descubrir
+==========================================================
+
+Los gobiernos y la ciudadanía deben entender que no es tema coyuntural, sino puede convertirse en un problema frecuente y hay que prepararse.
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/09/SEQUIA-16092024.jpg)
+
+Los efectos de la sequía van más allá de **Ecuador** y de la **generación eléctrica**. Es un problema severo y significativo para toda Latinoamérica.
+
+Este estiaje pone otra vez en debate el cambio climático y la gestión ineficiente de los recursos hídricos.
+
+> El Gobierno ecuatoriano está preocupado por los 67 días que no se registran lluvias de importancia en Cuenca. Eso ocasionó que las reservas se reduzcan a una velocidad de casi un metro diario en la presa de la **hidroeléctrica Mazar**. El tercer estiaje en 12 meses.
+
+Una preocupación muy válida por todos los efectos que implicarán los nuevos racionamientos eléctricos, pero el tema va más allá.
+
+El suministro de agua potable y los alimentos son temas que también deben preocuparnos.
+
+En los **mercados de Cuenca,** el precio de las verduras y frutas sube. Los vendedores atribuyen ese aumento a la falta de lluvias.
+
+La **sequía** no solo reduce la cantidad de agua disponible para el riego, sino que también incrementa la competencia por los recursos hídricos entre diferentes sectores.
+
+El **consumo doméstico** está afectado. Las autoridades de Cuenca pidieron que la ciudadanía ahorre un 20%. En los primeros días se logró el 10%. Pero si la sequía se prolonga, los cortes de seis a ochos horas se concretarán.
+
+Y los problemas se repiten en otras regiones. La sequía en **Bogotá** ha llevado a que los embalses que abastecen a la ciudad estén en niveles críticos. Y la crisis no es solo consecuencia de la falta de lluvias, sino también del **crecimiento urbano y la deforestación.**
+
+Lo que hoy ocurre debe llevarnos a un nuevo nivel de conciencia. A largo plazo, las sequías contribuirán a un ciclo vicioso de **pobreza y desestabilización económica.**
+
+Sin una respuesta adecuada de los gobiernos con políticas efectivas para mitigar el impacto de estos fenómenos climáticos, es probable que los productores agrícolas abandonen sus actividades y los racionamientos de energía eléctrica y agua sean más frecuentes.
+
+Cartas a Quito / 17 de septiembre de 2024
+=========================================
+
+Estas son las cartas a Quito de este martes 17 de septiembre de 2024
+--------------------------------------------------------------------
+
+![Cartas a Quito. Foto: Archivo / EL COMERCIO](https://www.elcomercio.com/wp-content/uploads/2024/04/CARTAS-A-QUITO-1.jpg)
+
+Construyendo un ambiente armónico en el aula
+--------------------------------------------
+
+La convivencia en el aula es fundamental para el aprendizaje y el desarrollo personal de los estudiantes. Un ambiente respetuoso y colaborativo no solo fomenta la educación, sino que también prepara a los jóvenes para interactuar en la sociedad. Establecer normas claras es el primer paso hacia esto.
+
+Las normas de convivencia deben ser simples y accesibles. Desde el respeto mutuo, hasta la puntualidad, estas pautas ayudan a crear un marco donde todos se sientan seguros y cómodos. Cada estudiante debe comprender que su comportamiento afecta a sus compañeros y al ambiente de aprendizaje.
+
+Es crucial que estas normas se formulen en conjunto con los estudiantes. Al involucrarlos en el proceso, se promueve un sentido de pertenencia y responsabilidad. Cuando los jóvenes participan en la creación de las reglas, es más probable que las respeten y las hagan suyas.
+
+Además, estas normas deben ser consistentes y aplicadas con equidad. Situaciones como el acoso, la discriminación o la falta de respeto deben ser abordadas de inmediato. Esto no solo protege a los afectados, sino que también refuerza la importancia de un ambiente sano para todos.
+
+La comunicación es esencial en la convivencia. Fomentar un espacio donde los estudiantes puedan expresar sus emociones y opiniones contribuye a la resolución pacífica de conflictos. Las herramientas de mediación pueden ser útiles para que los jóvenes aprendan a dialogar y negociar sus diferencias.
+
+Es importante reconocer y celebrar los logros colectivos. Un aula donde se comparten éxitos y aprendizajes fortalece el sentido de comunidad. Las dinámicas grupales y los proyectos en equipo crean lazos que trascienden las páginas de un libro.
+
+Roberto Camana-Fiallos
+
+Resolvido, descubrido y también rompido
+---------------------------------------
+
+Hemos escuchado, con estupor, cómo dos asambleístas que respaldan al presidente Noboa, alardean de una mala formación, académica y familiar, al utilizar, sin ningún empacho, ante las cámaras, expresiones reñidas con la gramática como “resolvido” y “descubrido”. ¡Y están encargados de escribir leyes! Ojalá no hayan “escribido” todavía ninguna.
+
+Se ha vuelto pan de cada día en nuestro país, el tener que presenciar los productos de una pésima educación.
+
+Hace poco tiempo, cuando Wilman Terán ostentaba todavía la presidencia del Consejo de la Judicatura, lo escuché en una entrevista en Radio Morena de Guayaquil, repetir, por dos ocasiones en la misma entrevista, otro dislate anti gramática: “rompido”. Del mismo tipo de los cometidos por los dos asambleístas mencionados en primer lugar.
+
+Es preocupante que los perpetradores de estos ataques al idioma, ocupen cargos de relevancia, los unos en el cuerpo legislativo, y el otro, como presidente del Consejo de la Judicatura, cargo recibido por ser, nada más ni nada menos, el delegado del Corte Nacional de Justicia.
+
+Estos hechos no hacen más que confirmar la degradación de la educación en el Ecuador, la falta de lectura como práctica normal de cualquier actor de la sociedad, la deficiencia de los hogares en complementar la educación formal.
+
+¿Dónde están las universidades que los formaron (a aquellos que tuvieron una educación universitaria)?
+
+Desde hace muchos años he venido sosteniendo que una manera de corregir este problema, es que las universidades que formaron a quienes delinquen de manera flagrante (y el agredir el idioma es una manera de delinquir, especialmente en las profesiones que privilegian el uso de la palabra, como la de leyes), deben recibir de las universidades que los formaron ya sea la suspensión o el retiro de los títulos otorgados. Probablemente, no lo hagan porque, de hacerlo, nos quedaríamos casi sin profesionales.
+
+Para cualquier profesional es una falta de dignidad el no actualizar, de manera permanente, sus conocimientos, y, el no ampliar sus mentes con la expansión de un bagaje cultural acorde a sus prácticas profesionales.
+
+¿Dónde están los Colegios Profesionales que ven comprometidos sus prestigios y el del resto de afiliados, con estas prácticas indecentes?
+
+Es obvio que un profesional que utilice mal el idioma, peor si es abogado o periodista, que tienen la obligación de manejar bien el idioma, es una verdadera vergüenza para su clase profesional, pero los gremios se quedan callados, mostrando complicidad o espíritu de cuerpo malentendido, sin percatarse que el país nos bridó la oportunidad, en muchos casos casi gratuita (en las universidades públicas) de tener una profesión.
+
+Pero esto no para allí. Los profesores primarios, en gran parte afiliados a un partido dogmático, les importa un comino la calidad de la educación, lo que quieren es, precisamente, tener caldo de cultivo para mantener la ignorancia, único medio de tener dogmáticos y fanáticos. Y qué decir de los gobiernos, insensible a la necesidad de crecimiento de las personas.
+
+José M. Jalil Haas
+
+Bernardo Bertolucci, su vacilante itinerario
+============================================
+
+Bertolucci, el cineasta que recreó su presente hilvanando con el pasado, con una rebeldía lírica inédita en el cine.
+--------------------------------------------------------------------------------------------------------------------
+
+![Marco Antonio Rodríguez, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Marco-Antonio-Rodriguez-1.jpg)
+
+“Sé bien que estoy en el fondo de la fosa;/ que todo aquello que toco ya he tocado…/ que doy vueltas de un lado a otro por la tierra como una bestia enjaulada;/ que de tantas cuerdas que tengo he terminado por tirar de una sola…/ que adoro la **luz** solo si no ofrece **esperanza**”, Pier Paolo Pasolini.
+
+Bertolucci (1941-2018) fue su discípulo –tenía 20 años cuando fue **asistente** en la dirección de la ópera prima de Pasolini– no solo en su oficio de **cineasta**, sino en el diseño de su **estructura humana** (la pasión por sus **ideales marxistas**, su iracundia contra el sistema, su fervor por la **poesía**). Bertolucci, el **cineasta** que recreó su presente hilvanando con el pasado, con una **rebeldía** lírica inédita en el **cine**.
+
+Entre el ayer y el mañana
+-------------------------
+
+Hipocondríaco, ciclotímico, ambicioso, arriesgado. Después de un tiempo atado a una silla de ruedas, murió a los 77 años, dejando una veintena de películas, tres o cuatro que lo consagraron como uno de los **maestros** del cine de oro italiano. El **poeta** que lo habitó entretejió parte de su obra. Si alguna palabra describe su ser íntimo es la de alguien que buscó siempre la **perfección**, pero esta es tan solo un **espejismo**.
+
+En 1970 filmó _La estrategia de la araña_, basada en un cuento de Jorge Luis Borges y _El conformista_, adaptación de la novela de Alberto Moravia. Filme de excepcional resolución, narra la **historia** de un personaje pusilánime –con **memorable interpretación** de Jean-Louis Trintignant–, prosélito del régimen fascista de Mussolini, a quien se le dispuso matar a su antiguo **maestro** de **filosofía**, enemigo del tirano.
+
+“Era un **marxista**, con todo el amor, toda la **pasión** y toda la **desesperación** de un burgués que elige el marxismo”, confesó. Testigo del **estrepitoso fracaso** de la aplicación de esta **ideología**, convencido de que es “imposible construir un mundo de idénticos” y aceptando jugosas ofertas del **imperialismo**, terminó su vida como el último _hippie_, defendiendo la **Revolución de Mayo** del 68. Pero junio fue la gran **decepción** y julio el regreso a la rutina, a la **explotación**, al **consumismo**… “Es imposible cambiar el mundo”, profirió; él que perteneció a una generación que creyó salvar el mundo mediante el **cine**.
+
+Si por alguna cinta será recordado es por su _Último tango en París_, de la que hay solo admiradores y **detractores**. Su protagonista es un hombre sin nombre. Nadie habla ni hablará del **personaje**, sino de Marlon Brando, en la más rutilante actuación de su **carrera**. Él es el **filme**, y su histórica representación acarreó los nombres de Bertolucci, María Schneider y del fotógrafo Vitorio Storaro. La influencia de Francis Bacon es poderosa en esta **película**.
+
+_El último tango en París_ fue ideada y concretada en el **período** más apropiado: el decenio de los 70, tiempo de la **liberación cinematográfica** de la temática sexual. Controvertible y controvertida **postulación** sobre el poder, el **erotismo** y el rol que cumplen la mujer y el hombre en la tierra. Un hombre cercano a los 50 años, transpirando dolor y **amargura** por la muerte de su pareja, establece una relación con una joven, y lleva el **erotismo** a su ser fundamental, allí, donde turbadoramente, como advierte **George Bataille**, este se abraza con la muerte.
+
+La escena de la sodomización de la amante incendió los **medios comunicacionales**. ¿Ocurrió este acto? Oleadas lo afirman, otros lo niegan. Acaso la única verdad es que la escena se urdió sin que supiera la actriz, quien vivió traumatizada por el resto de su existencia: paciente constante de psiquiátricos por su **drogadicción** y sus intentos de **suicidio**.
+
+La carne como último reducto del dolor que causa el vacío, la **perversión** del poder, el corrosivo desahogo de un **hombre consumido**. ¿“La **película erótica** más poderosa que se ha realizado”? Cada quien tiene su respuesta. En todo caso, _El último tango en París_ es una brutal **propuesta** de degradación de la mujer, así un **grupúsculo** de comentaristas haya querido reivindicar este acto como un símbolo de **liberación**. “Fui despreciable porque no le dijimos nada a María, dijo arrepentido Bertolucci. La engañamos porque quería que reaccionara como una niña y no como una actriz”.
+
+Filme angustioso, **desolado** y **convulso**, donde los **seres humanos** danzan como **fantoches** al son del **saxofón** y el _jazz_, en espacios ciegos donde se ha difuminado el sentido de la vida.
+
+“Sentí que la gente salía con miedo después de ver la **película**”, dijo Pauline Kael, reputada crítica de cine. Tal vez. Al fin y al cabo el tiempo solo desbarata la piel, pero el miedo estruja el **alma** y nos humilla.
+
+_El último tango en París_: la **historia** de un hombre que no lidia contra el **mundo**, sino contra algo más grande, su hartazgo del **mundo**.
+
+Gobernar para hoy y mañana
+==========================
+
+Combatir la desigualdad entre bienestar y malestar de los ecuatorianos, es algo que nadie se opondrá en la campaña electoral.
+-----------------------------------------------------------------------------------------------------------------------------
+
+![Washington Herrera, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Washington-Herrera-1.jpg)
+
+Estamos ante una **situación inédita** en el devenir político del **Ecuador**, que obliga al gobierno a tomar medidas que sean buenas para hoy, pero también para mañana. **Noboa** debe pensar dos veces para toda decisión que haga hasta mayo/25. O debe meditar tres veces porque también es un **candidato** para el período 2025-2029.
+
+Lo primero es movilizar a la economía que está estancada, para lo cual, con mucho **pragmatismo**, debe convocar a las **élites** **económicas** que sí tienen recursos para invertir, mediante compromisos racionales que desaten a la inercia. Esto debe ser apoyado por todas las **fuerzas políticas** que buscarán opción de **poder** para el nuevo **período presidencial**. Las **fuerzas sociales** apoyarán porque el aumento de la **producción** aumentará los puestos de **trabajo** formal.
+
+Lo segundo es racionalizar el **gasto fiscal** y levantar más **recursos fiscales**, para reforzar nuestra débil **posición internacional**, que mejore el **riesgo** **país** a los niveles de Perú y Colombia, para atraer el **crédito** y la **inversión**, tanto de **capitales nacionales** como **extranjeros**.
+
+Combatir la desigualdad entre **bienestar** y malestar de los **ecuatorianos**, es algo que nadie se opondrá en la **campaña electoral,** porque junto a lo anterior, conviene también al próximo gobierno. En este esfuerzo cabe una posición seria, exenta de **populismos** y de **ofertas irreales**. Decir y hacer lo que se puede con los **recursos escasos** que tenemos confiere **credibilidad** al **gobernante**.
+
+El **gobierno actual** debe reforzar su **equipo**, que trabaje con respeto al **contradictor** y con el **pragmatismo** fecundo, en un  momento en que los **extremismos** pueden destruir el **país**. Para todo esto quedan siete meses, tiempo precioso para encausar a la **política** hacia el servicio a los **ciudadanos**, minimizando los **rencores** y **venganzas** y trabajando en función de los intereses superiores de la **Nación**.
+
+¿Cuántos incendios forestales tuvo Quito y cuál fue su daño?
+============================================================
+
+Los Bomberos de Quito presentaron las cifras que dejaron los incendios forestales durante la época seca de verano.
+------------------------------------------------------------------------------------------------------------------
+
+![Los Bomberos de Quito atendieron cerca de 300 incendios forestales en los últimos 75 días](https://www.elcomercio.com/wp-content/uploads/2024/09/incendio-quito-a.jpg)
+
+El Cuerpo de **Bomberos de Quito** presentó un informe de su trabajo realizado durante las emergencias de **incendios forestales** registrados en los últimos meses.
+
+El documento recoge las cifras que dejaron las alertas atendidas en la época seca de verano, entre **julio** y el **14 de septiembre d**e 2024.
+
+### Más noticias
+
+* [Nuevo incendio forestal en el sector La Toglla, en el cerro Ilaló de Quito](https://www.elcomercio.com/actualidad/nuevo-incendio-forestal-en-el-sector-la-toglla-en-el-cerro-ilalo-de-quito.html "Nuevo incendio forestal en el sector La Toglla, en el cerro Ilaló de Quito")
+* [¿Cuántas hectáreas fueron afectadas por los incendios forestales en Quito?](https://www.elcomercio.com/actualidad/quito/hectareas-afectadas-incendios-quito.html "¿Cuántas hectáreas fueron afectadas por los incendios forestales en Quito?")
+* [Se invertirá 1 millón de dólares en zonas afectadas por incendios forestales](https://www.elcomercio.com/actualidad/quito/inversion-1-millon-dolares-zonas-afectadas-incendios-forestales.html "Se invertirá 1 millón de dólares en zonas afectadas por incendios forestales")
+
+Según la información compartida por la ‘Casaca Roja’, en total, Quito enfrentó **285 incendios** en estos 75 días.
+
+Para combatir el fuego en estos puntos calientes fue necesario el despliegue de **250 colaboradores** y 50 vehículos forestales, quienes partieron desde 28 estaciones operativas.
+
+Zonas con más incendios registrados
+-----------------------------------
+
+Los Bomberos detallaron cuáles son las **administraciones zonales** que registraron más incendios forestales.
+
+Estas fueron:
+
+* **La Delicia**: 54 emergencias
+* Tumbaco: 52 emergencias
+* Eugenio Espejo: 49 emergencias
+* Valle de Los Chillos: 39 emergencias
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/09/image-9-1024x562.png)
+
+Sin embargo, al medir la afectación por **hectáreas**, el daño fue mayor en otros sitios de Quito:
+
+* **Tumbaco**: 573 hectáreas
+* Eugenio Espejo: 552 hectáreas
+* Valle de Los Chillos: 409 hectáreas
+* Quitumbe: 128 hectáreas
+
+En la **época seca** de verano de este 2024, un total de **1 767 hectáreas** de vegetación fueron destruidas.
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/09/image-10-1024x565.png)
+
+¿Cuáles fueron los incendios forestales más grandes?
+----------------------------------------------------
+
+Según el reporte de los Bomberos, estos fueron los **cinco incendios forestales** que mayores afectaciones provocaron en estos días:
+
+* **Pifo (Itulcachi)**: 412 hectáreas
+* Pintag (Sincholagua): 289 hectáreas
+* Rumipamba (Colinas Pichincha): 210 hectáreas
+* Nayón (Nayón Centro): 164 hectáreas
+* Guamaní (Atacazo): 110 hectáreas
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/09/image-11-1024x566.png)
+
+¿Cuáles fueron las causas de los incendios forestales?
+------------------------------------------------------
+
+Los Bomberos también explicaron las principales causas por las que se produjeron los 285 incendios forestales en la ciudad.
+
+**Tres de cada 10 incendios** fueron provocados deliberadamente; mientras que la quema agrícola fue la principal razón para su combustión.
+
+* **Quema agrícola**: 40,7%
+* Provocado: 30,18%
+* Quema descontrolada de desechos: 23,16%
+* Fogatas: 5,61%
+* Natural: 0,35%
+
+Emergencias no superaron la capacidad operativa
+-----------------------------------------------
+
+Finalmente, la entidad aseguró que pese a recibir **1 140 alertas** entre julio, agosto y septiembre, su capacidad operativa no se vio superada.
+
+“Todas las emergencias fueron atendidas efectivamente”, afirmó la entidad.
+
+Los Bomberos cuentan con **795 miembros** para atender las emergencias; y **217** uniformados para atención prehospitalaria.
+
+Además de **158 unidades vehiculares**, que incluyen 48 automotores contra incendios, 17 vehículos especiales, 15 ambulancias y un helicóptero.
+
+Durante la época seca, **67 personas de apoyo** se sumaron a los trabajos, entre brigadistas, operadores y guias.
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/09/image-12-1024x581.png)
+
+Plan de Restauración Ecosistémica
+---------------------------------
+
+El **Municipio de Quito** anunció que pondrá en marcha el Plan de Restauración Ecosistémica a partir del inicio de la época lluviosa.
+
+Para este proyecto, el Cabildo invertirá **un millón de dólare**s.
+
+El plan incluye la **recuperación de las áreas afectadas**, la restauración, la reforestación y la reasignación de otros espacios.
+
+Además, establece tres ejes para la intervención dentro de las áreas afectadas por incendios forestales: reforestación, protección y cercado, y dispersión de semillas nativas.
+
+Linchamiento en Cayambe, ¿aplica como justicia indígena?
+========================================================
+
+Juristas destacan límites de la justicia indígena y critican fallos en el manejo policial del caso en Cayambe.
+--------------------------------------------------------------------------------------------------------------
+
+![La comunidad Kichwas de Peguche sancionó a tres delincuentes según la justicia indígena en 2019.](https://www.elcomercio.com/wp-content/uploads/2024/09/peguche.png)
+
+En el cantón **Cayambe**, una persona fue linchada por un **grupo de comunero**s, tras ser señalada como responsable de la desaparición y **muerte de un ciudadan**o de la localidad.
+
+El hecho fue registrado en videos que circularon en **redes sociales**, donde se observa cómo la víctima fue golpeada y, posteriormente, colgada frente al edificio municipal.
+
+### Más noticias
+
+* [Juez toma medidas contra el otro involucrado en la muerte del chofer de Cayambe](https://www.elcomercio.com/actualidad/seguridad/juez-toma-medidas-contra-el-otro-involucrado-en-la-muerte-del-chofer-de-cayambe.html "Juez toma medidas contra el otro involucrado en la muerte del chofer de Cayambe")
+* [Lo que se sabe del hombre colgado en el parque de Cayambe](https://www.elcomercio.com/actualidad/seguridad/lo-que-se-sabe-hombre-colgado-parque-cayambe.html "Lo que se sabe del hombre colgado en el parque de Cayambe")
+* [Un hombre fue linchado y colgado en el parque central de Cayambe](https://www.elcomercio.com/actualidad/un-hombre-fue-linchado-y-colgado-en-el-parque-central-de-cayambe.html "Un hombre fue linchado y colgado en el parque central de Cayambe")
+
+Las a**utoridades policiales confirmaron que la persona linchada había sido retenida previamente** por la comunidad y que, aunque inicialmente fue entregada a las autoridades, los comuneros la recuperaron a la fuerza.
+
+El comandante de la Policía Nacional, **Víctor Hugo Zárat**e, informó que la desaparición fue denunciada el 12 de septiembre y que el cuerpo del desaparecido fue encontrado en el **sector de Oyacoto**, sepultado.
+
+> 🎥 [#AHORA](https://twitter.com/hashtag/AHORA?src=hash&ref_src=twsrc%5Etfw) ||  
+>   
+> En [#RuedaDePrensa](https://twitter.com/hashtag/RuedaDePrensa?src=hash&ref_src=twsrc%5Etfw) informamos las operaciones realizadas por el [#BloqueDeSeguridad](https://twitter.com/hashtag/BloqueDeSeguridad?src=hash&ref_src=twsrc%5Etfw) a escala nacional.  
+>   
+> 👉Participan: Ministra del Interior [@Palencia3Monica](https://twitter.com/Palencia3Monica?ref_src=twsrc%5Etfw); [@CmdtPoliciaEc](https://twitter.com/CmdtPoliciaEc?ref_src=twsrc%5Etfw) [#GraDVíctorZárate](https://twitter.com/hashtag/GraDV%C3%ADctorZ%C3%A1rate?src=hash&ref_src=twsrc%5Etfw) y Jefe del Comando Conjunto de [#FFAA](https://twitter.com/hashtag/FFAA?src=hash&ref_src=twsrc%5Etfw), [#AlmJaimeVela](https://twitter.com/hashtag/AlmJaimeVela?src=hash&ref_src=twsrc%5Etfw).  
+>   
+> 🔴Sigue la transmisión… [pic.twitter.com/6bs2CTjkxJ](https://t.co/6bs2CTjkxJ)
+> 
+> — Policía Ecuador (@PoliciaEcuador) [September 16, 2024](https://twitter.com/PoliciaEcuador/status/1835697973432345087?ref_src=twsrc%5Etfw)
+
+La **Fiscalía General del Estado** abrió una investigación sobre la desaparición y muerte del ciudadano, así como sobre los responsables del linchamiento.
+
+Justicia indígena y sistema penal en debate
+-------------------------------------------
+
+**María del Mar Gallegos**, coordinadora de la Maestría en Derecho Procesal Penal de la UIDE, enfatizó que el linchamiento no puede ser considerado **justicia indígena**. Señaló que “la justicia indígena en el Ecuador es reconocida constitucionalmente y tiene la misma dimensión que la justicia ordinaria”. También acotó que está limitada a ciertos casos y siempre debe respetar el **debido proceso**.
+
+“Lo que se vio en Cayambe es lo que se considera un **linchamiento o venganza privada**“, añadió, subrayando que la justicia indígena no contempla la pena de **muerte ni permite la violación de la dignidad humana**.
+
+Gallegos también resaltó las deficiencias del sistema penal ecuatoriano, lo que lleva a que la población no confíe en las **instituciones estatales**. “La gente ya no **percibe al sistema como justo ni eficiente**, y esto es preocupante”, expresó.
+
+Opiniones coinciden en la ilegalidad del linchamiento
+-----------------------------------------------------
+
+El abogado constitucionalista **Edison Guarango** coincidió con Gallegos en que los hechos de Cayambe no pueden calificarse como justicia indígena. Guarango explicó que el artículo 171 de la Constitución establece que la justicia indígena debe regirse por tradiciones ancestrales.
+
+Además, Guarango cree que la justicia indígena no puede ser aplicada en casos de delitos contra la vida, como lo dictaminó la **Corte Constitucional** en el caso La Cocha.
+
+> Lo que se sabe del hombre colgado en el parque de Cayambe [https://t.co/XX7TRvshkv](https://t.co/XX7TRvshkv) [pic.twitter.com/6yTPhW0zFO](https://t.co/6yTPhW0zFO)
+> 
+> — Nadia Perilla (@NadiaPerilla) [September 15, 2024](https://twitter.com/NadiaPerilla/status/1835329052443291964?ref_src=twsrc%5Etfw)
+
+Para Guarango, la intervención de l**a Policía** fue otro de los puntos críticos. “La policía no debía entregar a la persona. En casos de asesinato, debe intervenir la **justicia ordinaria**“, señaló, refiriéndose al incumplimiento del debido proceso.
+
+Además, Guarango enfatizó que la **Fiscalía** debería investigar este hecho mediante un proceso penal que incluya las fases de investigación, formulación de cargos y las demás establecidas por el **Código Orgánico Integral Penal** (COIP).
+
+Reconocimiento del pluralismo jurídico
+--------------------------------------
+
+Por su parte, **Cinara Zea**, abogada penalista, destacó la importancia del pluralismo jurídico en Ecuador. En el mismo se reconoce el derecho de las **comunidades indígenas** a aplicar sus propias normas y procedimientos judiciales. Según Zea, el **artículo 171 de la Constitución** es clave para garantizar la coexistencia de dos sistemas de justicia en el país el ordinario y el indígena.
+
+Sin embargo, Zea subrayó que esta coexistencia debe respetar los **derechos humanos internacionalmente reconocidos** y mantenerse dentro del marco constitucional. “El ejercicio de la justicia indígena debe llevarse a cabo en **pleno respeto a los principios fundamentales**, lo que refuerza la protección de la dignidad humana”, apuntó.
+
+¿Cuál fue la sentencia del caso La Cocha?
+-----------------------------------------
+
+La **Corte Constitucional**, mediante su sentencia del 30 de julio de 2014, resolvió una **acción extraordinaria de protección** presentada por **Víctor O**. en contra de decisiones de la justicia indígena del pueblo de Panzaleo, en la provincia de Cotopaxi.
+
+El caso estaba relacionado con el asesinato de su hermano Marco Antonio Olivo Palio, ocurrido en mayo de 2010. Las **autoridades indígenas habían juzgado y sancionado** a cinco jóvenes de la comunidad implicados en el hecho.
+
+El demandante solicitaba que se respetaran las decisiones de la **justicia indígena**, pero también denunciaba la interferencia de las autoridades de **justicia ordinaria**. Entre los argumentos presentados, se mencionó el derecho de las comunidades indígenas a ejercer su jurisdicción. Esto según sus tradiciones ancestrales, amparadas por el artículo 171 de la **Constitución del Ecuador y el Convenio 169 de la OIT**.
+
+Asimismo, se argumentó que las sanciones impuestas, basadas en la **cosmovisión indígena, no constituían violaciones a los derechos humanos**.
+
+La Corte Constitucional, al analizar el caso, **destacó la importancia de la justicia indígena en el contexto de un Estado plurinacional e intercultural**. Sin embargo, la Corte subrayó que la jurisdicción indígena debe tomar decisiones compatibles con los derechos humanos reconocidos en la Constitución.
+
+Fragmentación municipal en Ecuador, un reto político y económico ¿Qué pasa en otros países?
+===========================================================================================
+
+La división municipal del país es un reto en términos de representación política y desarrollo local
+---------------------------------------------------------------------------------------------------
+
+![Imagen generada en Ideogram de un cantón tradicional pequeño y en la parte de atrás se visualiza una ciudad grande y moderna.](https://www.elcomercio.com/wp-content/uploads/2024/09/Diseno-sin-titulo-32.jpg)
+
+**Pablo Sexto**, ubicado en **Morona Santiago**, es el cantón más pequeño del **Ecuador**. Con apenas **2 380 personas**, esta localidad junto con otras **148** tienen algo en común: su población no supera los **50 mil habitantes.** Está **fragmentación municipal** que vive el país- desde los años 80- sigue siendo un desafío en términos de **representación política** y **desarrollo local económico.**
+
+Este conjunto de 149 municipios representa el 67,4% del territorio ecuatoriano. En los últimos 14 años (2010-2024), apenas 14 jurisdicciones superaron los 50 mil habitantes.
+
+Más noticias
+------------
+
+* [La inscripción para elecciones 2025 empieza con incumplimientos](https://www.elcomercio.com/actualidad/politica/inscripcion-elecciones-2025-impedimentos-brechas.html "La inscripción para elecciones 2025 empieza con incumplimientos")
+* [CNE convocó oficialmente a las elecciones 2025](https://www.elcomercio.com/actualidad/politica/cne-convoco-oficialmente-a-las-elecciones-2025.html "CNE convocó oficialmente a las elecciones 2025")
+
+Para dimensionar su tamaño en términos poblacionales se puede ver, por ejemplo, que Pablo Sexto es ocho veces menor que Guayaquil, el cantón más grande del país, con **2,9 millones de habitantes**.
+
+En la Sierra, Loja y Azuay tienen más fragmentación
+---------------------------------------------------
+
+Loja y Azuay son una muestra significativa de la concentración de pequeños cantones. En Loja, 15 de 16 cantones tienen menos de **50 mil habitantes**. **Quilanga**, **Olmedo**, **Chaguarpamba** y **Sozoranga** destacan por no superar los 10 mil habitantes.
+
+Para **Juan Carlos Santin**, alcalde de **Quilanga**, uno de los retos de los cantones pequeños es la **limitación económica**. En su caso- reconoce- que aprendió a ‘tocar puertas’ al gobierno central y buscar recursos en ministerios, asociaciones y embajadas para financiar los proyectos locales.
+
+Otros dos problemas que identifica: la falta de representación política y que los gobiernos de turno favorezcan a grandes ciudades. Ahí se concentra la votación y el apoyo político.
+
+En Azuay, a excepción de Cuenca, **14** tienen menos de **50 mil habitantes.** En **El Pan**, **Guachapala**, **Oña**, **San Fernando**, **Pucará** y **Sevilla de Oro**– los más pequeños-, incluso, su población se ha reducido y afrontan más desafíos económicos.
+
+La alcaldesa de San Fernando, **María Aurelia Sarmiento**, reconoce que la **dispersión poblacional** y los **limitados ingresos** dificultan la mejora de los servicios públicos y el desarrollo económico. San Fernando, pasó de 3 991 a **3 760 habitantes** entre 2010 y 2024. Ahora se implementa estrategias para retener a los jóvenes mediante la promoción de la educación técnica, el emprendimiento y actividades culturales.
+
+En toda la Sierra, de 91 cantones, 69 registran menos de 50 mil personas. Es decir el **76%.**
+
+[![Dashboard 1 ](https://public.tableau.com/static/images/Po/Poblacinencantones/Dashboard1/1_rss.png)](#)
+
+   
+
+### 83% de cantones amazónicos, con menos de 50 mil habitantes
+
+Las seis provincias amazónicas tienen cantones con menos de 50 mil personas. Estas representan 83% (34 de 41). Morona Santiago y Zamora Chinchipe sobresalen.
+
+De 12 cantones de Morona, 11 acogen a poblaciones reducidas, entre ellas está Pablo Sexto, San Juan Bosco y Logroño. Las tres jurisdicciones tienen menos de 10 mil residentes. En Zamora, cinco de nueve localidades muestran un panorama similar.
+
+En la Costa, apenas El Oro tiene cinco cantones con menos de 10 mil personas. El **50% de los 86** cantones del Litoral tienen menos de 50 mil personas.
+
+**¿Qué establece el marco legal sobre cantones pequeños?**
+----------------------------------------------------------
+
+La **Constitución** ecuatoriana, en su artículo 1, establece: “El Ecuador es un Estado constitucional de derechos y justicia, social, democrático, soberano, independiente, unitario, **intercultural**, **plurinacional** y laico. Se organiza en forma de república y **se gobierna** de manera **descentralizada**”.
+
+Con este enfoque de modelo de Estado, en 2010, se promulga el **Código Orgánico de Organización Territorial, Autonomía y Descentralización (Cootad)** que subraya el principio de **autonomía** para gobiernos locales, en los arts. 5 y 6, así como en el art. 238 de la Constitución. En ese entonces ya había 163 cantones con menos de 50 mil habitantes.
+
+El 21 de enero de 2014, la Asamblea reformó el art. 22 del COOTAD. Ahí se estableció que para **crear cantones** se debe tener al menos **50 mil** habitantes y mínimo **12 mil** residentes en la futura cabecera cantonal. No obstante, en el último inciso del art. se exceptuó a cantones de **zonas fronterizas** y **amazónicos**, donde se requiere un mínimo de **10 mil habitantes**.
+
+Esta excepción responde al principio de autonomía y al derecho de los pueblos a decidir, según el art. 249 de la Constitución. Este artículo da atención preferencial a los cantones ubicados total o parcialmente en una **franja fronteriza de 40 km**. Esto con el objetivo de promover una cultura de paz y desarrollo económico en esas regiones.
+
+Sevilla Don Bosco, en proceso de cantonización
+----------------------------------------------
+
+Bajo estos principios y por su ubicación, la parroquia **Sevilla Don Bosco**, en Morona Santiago, votó a favor de su [cantonización](https://www.comunicacion.gob.ec/el-presidente-lasso-cumple-con-su-palabra-sevilla-de-don-bosco-avanza-hacia-su-cantonizacion/ "https://www.comunicacion.gob.ec/el-presidente-lasso-cumple-con-su-palabra-sevilla-de-don-bosco-avanza-hacia-su-cantonizacion/") en consulta popular. La decisión de convertirla en cantón también está respaldada por las leyes de Desarrollo Fronterizo y la Circunscripción Territorial Amazónica. Sin embargo, para que se convierta en cantón, aún se necesita que la Asamblea apruebe el proyecto de ley de cantonización en un segundo debate.
+
+En 5 países latinos también hay fragmentación municipal
+-------------------------------------------------------
+
+Ecuador no es un caso aislado en cuanto a la fragmentación municipal. EL COMERCIO revisó los datos de cinco países de América Latina, que también presentan una notable división administrativa en términos de población.
+
+En **Bolivia**, con una población de 11,3 millones de habitantes, existen 340 municipios. De estos, en 57 hay menos de cinco mil personas.
+
+**Paraguay**, con 7,5 millones de habitantes, tiene 263 municipios distribuidos en 17 departamentos. El 90% tiene menos de 50 mil habitantes. Esto lo corroborara la Organización Paraguaya de Cooperación Intermunicipal.
+
+**Honduras**, un país de 9,8 millones, también presenta alta fragmentación. El país se divide en 18 departamentos con 298 municipios. 88% tiene menos de 50 mil habitantes.
+
+En **Perú** hay 1 874 gobiernos locales. Uno de cada tres tiene menos de dos mil habitantes.
+
+> “Con dos mil habitantes no se puede fomentar una economía local o territorial; son solo 400 familias. Las economías se desarrollan con conglomerados de población y actividades mucho mayores”.
+
+Esto lo dijo Raúl Molina, exviceministro de Gobernanza Territorial de **Perú**.
+
+En **Chile**, con cerca de 20 millones de habitantes, la población está distribuida en 16 regiones, 56 provincias y 346 comunas. Apenas 27,4% de comunas (95) tienen más de 50 mil personas, sobre todo en la Región Metropolitana de Santiago.
+
+**El Salvador redujo de 262 a 44 municipios** 
+----------------------------------------------
+
+A partir de mayo de 2024, en **El Salvador**, los municipios se redujeron de 262 a 44. Con esto se buscó un ahorro de 250 millones de dólares anuales. El objetivo es aumentar la inversión en el desarrollo local.
+
+El país seguirá dividido en 14 departamentos y los 262 municipios se reconfiguraron en “distritos municipales”. Ahí se mantendrán tradiciones religiosas y culturales existentes.
+
+Tres enfoques
+-------------
+
+**“Cada cantón tiene el derecho** de decidir su modelo de desarrollo”
+---------------------------------------------------------------------
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/09/IMG_20240916_223026.jpg)
+
+_**Karín Jaramillo. Directora jurídica de la Asociación de Municipalidades del Ecuador**_
+
+La abogada Karín Jaramillo defiende la existencia de municipios pequeños basándose en el principio de autodeterminación de los pueblos. Argumenta que cada cantón tiene el derecho de decidir su propio modelo de desarrollo económico, social y cultural sin interferencias del gobierno central.
+
+Aunque reconoce que los pequeños cantones enfrentan dificultades significativas, como retrasos en el pago de asignaciones y una restricción constitucional que les impide recibir más recursos. También lidian con nóminas infladas, por lo que destinan más presupuesto a gasto corriente.
+
+Además enfrentan la necesidad de asignar recursos a áreas fuera de su competencia, como la seguridad. Si bien tienen la opción de mancomunarse para mejorar los servicios reconoce que corren el riesgo de quedar mal con los pagos, por falta de recursos.
+
+“**La estructura territorial del país fomenta una representación política centrada en caciques locales**“
+---------------------------------------------------------------------------------------------------------
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/09/IMG_20240916_230302.jpg)
+
+_**Fernando Carrión**. **Arquitecto y urbanista**_
+
+Fernando Carrión atribuye el aumento de cantones pequeños en Ecuador-desde el regreso a la democracia en 1979- al **clientelismo político**.
+
+Califica de **ilegales** los municipios que no cumplen con requisitos mínimos demográficos y considera que esto afecta negativamente al **sistema de representación política,** que sigue siendo **fragmentado y problemático**.
+
+Carrión critica la estructura territorial del país, con 24 provincias, 221 cantones y 1 140 parroquias, señalando que fomenta una representación centrada en **caciques locales** y contribuye a una fragmentación política general. Esto se refleja en la elección de presidentes y vicepresidentes de 17 organizaciones políticas y una Asamblea Nacional también fragmentada.
+
+Además, los cantones pequeños enfrentan altos gastos en sueldos y administración, con recursos limitados para inversión.
+
+Carrión propone racionalizar el número de cantones mediante la fusión para hacerlos más eficientes, como en la reforma de **El Salvador.** Esto permitiría una mejor administración y mayor inversión en áreas esenciales como agua potable y alcantarillado, evitando la dispersión de recursos en gasto corriente. La consolidación de municipios favorecería una representación política más efectiva y el desarrollo económico local.
+
+“En la práctica estos municipios dependen del gobierno central. Esto fomenta el clientelismo político”
+------------------------------------------------------------------------------------------------------
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/09/Screenshot_2024-09-16-22-42-55-301-edit_com.facebook.katana.jpg)
+
+**_Marco Salamea. Sociólogo de la U. del Azuay_**
+
+Marco Salamea sostiene que los gobiernos autónomos descentralizados en Ecuador carecen de verdadera autonomía y descentralización. A pesar del término “autónomo”, en la práctica estos gobiernos dependen del Gobierno central, especialmente en lo económico. Esta dependencia fomenta el **clientelismo político**, donde las transferencias de recursos están condicionadas a favores políticos, fortaleciendo la dependencia de los municipios del poder central.
+
+Salamea critica la proliferación de cantones pequeños, resultado de decisiones políticas en las décadas de 1980, 1990 y principios de 2000, que favorecieron **intereses electorales**. Muchas parroquias se convirtieron en cantones sin tener la población o infraestructura adecuada, aumentando la burocracia y los costos administrativos. Esta proliferación reduce los recursos para invertir en servicios básicos y afecta su capacidad para atender las necesidades locales.
+
+Además, la **migración interna y externa** dejó a estos cantones con poblaciones cada vez menores y no cumplen con el requisito mínimo de 50 mil habitantes. A esto Salamea considera una **aberración política**. Aunque la legislación actual endureció los requisitos para la cantonización, no se puede revertir la conversión de las parroquias ya realizadas.
+
+Salamea sugiere que los cantones pequeños colaboren en mancomunidad, compartiendo servicios como la recolección de basura y bomberos, para optimizar recursos y mejorar la gestión pública.
+
+TCE da paso a recurso presentado por consejeros de la ‘Liga Azul’ del Cpccs
+===========================================================================
+
+Dos consejeros principales y dos suplentes de la 'Liga Azul' del Cpccs fueron destituidos en sentencia de primera instancia del TCE.
+------------------------------------------------------------------------------------------------------------------------------------
+
+![Los consejeros de la 'Liga Azul' del Cpccs continúan en funciones, mientras procede recurso en el TCE.](https://www.elcomercio.com/wp-content/uploads/2024/07/FOTOS-WEB-2024-07-17T181120.562.jpg)
+
+El **Tribunal Contencioso Electoral (TCE)** dio paso a un recurso presentado por los consejeros de la **‘Liga Azul’** del **Consejo de Participación Ciudadana y Control Social (Cpccs)**.
+
+Dos consejeros principales y dos suplentes de la ‘Liga Azul’, afines al **correísmo**, fueron destituidos por el TCE, en primera instancia.
+
+### Más noticias:
+
+* [TCE emite sentencia sobre consejeros de la ‘Liga Azul’ del Cpccs, afines al correísmo](https://www.elcomercio.com/actualidad/politica/tce-emite-sentencia-consejeros-liga-azul-cpccs-afines-correismo.html "TCE emite sentencia sobre consejeros de la ‘Liga Azul’ del Cpccs, afines al correísmo")
+* [Cpccs aprobó reglamento del concurso para Fiscal General del Estado](https://www.elcomercio.com/actualidad/politica/cpccs-aprobo-reglamento-concurso-fiscal-general-estado.html "Cpccs aprobó reglamento del concurso para Fiscal General del Estado")
+
+El pasado 3 de septiembre, el juez **Fernando Muñoz** declaró la responsalidad de **Augusto Verduga y Yadira Saltos**; así como de **Eduardo Loor y Viélka Párraga** en el cometimiento de infracción electoral muy grave.
+
+Los denunciantes, **Santiago Becdach y Pamela Troya**, excandidatos al Cpccs, les acusaron de tener el auspicio de una organización política.
+
+La organización en referencia era el movimiento del correísmo, Revolución Ciudadana (RC).
+
+Por esta razón, dispuso el pago de 60 salarios básicos unificados, la destitución del cargo para los dos primeros como principales y la exclusión de la lista de consejeros alternos del Cpccs de los dos segundos.
+
+TCE dio paso a recurso presentado por consejeros de la ‘Liga Azul’ de Cpccs
+---------------------------------------------------------------------------
+
+El TCE resolvió conceder los recursos de apelación interpuestos por los abogados de Eduardo Franco Loor y de Vielka Párraga, consejeros suplentes del Cpccs.
+
+Loor y Párraga presentaron estos recursos el 6 de septiembre de 2024.
+
+Además, concedió los recursos de apelación interpuestos por los abogados de Yadira Saltos y Augusto Verduga, consejeros principales del Cpccs.
+
+Los consejeros presentaron estos recursos el 13 de septiembre de 2024.
+
+Los denunciantes reaccionaron a la decisión del TCE sobre los consejeros de la ‘Liga Azul’ del Cpccs
+----------------------------------------------------------------------------------------------------
+
+**Pamela Troya y Santiago Becdach**, excandidatos a consejeros del Cpccs y denunciantes de la ‘Liga Azul’, reaccionaron a la acción del TCE.
+
+Becdach señaló: “No esperaba un acto de decencia y que se allanen a la sentencia aceptando la trampa”.
+
+Y agregó: “Siendo así, informo que he sido notificado con el auto que concede la apelación a los denunciados de la Liga Azul, estaré atento a la conformación del tribunal”.
+
+> 🚨No esperaba un acto de decencia y que se allanen a la sentencia aceptando la trampa!  
+>   
+> Siendo así, informo que he sido notificado con el auto que concede la apelación a los denunciados de la [#LigaAzul](https://twitter.com/hashtag/LigaAzul?src=hash&ref_src=twsrc%5Etfw) estaré atento a la conformación del tribunal. ⬇️ [pic.twitter.com/pWhx0m8zrk](https://t.co/pWhx0m8zrk)
+> 
+> — Santiago Becdach (@Sbecdach) [September 17, 2024](https://twitter.com/Sbecdach/status/1835850825299558869?ref_src=twsrc%5Etfw)
+
+(Video) Temeraria acción de un conductor causa indignación en Guayaquil
+=======================================================================
+
+El alcalde Aquiles Alvarez hizo un pedido tras conocer del imprudente acto.
+---------------------------------------------------------------------------
+
+![Un hombre fue arrastrado varios metros por un carro que se movilizaba a gran velocidad](https://www.elcomercio.com/wp-content/uploads/2024/09/carro-guayaquil.jpg)
+
+Una **temeraria acción** realizada por un imprudente conductor quedó registrada en un **video** ciudadano.
+
+En las imágenes difundidas por redes sociales se observa a un hombre sostenerse del **capó** de un vehículo, mientras es **arrastrado a gran velocidad** por la vía Perimetral, en Guayaquil.
+
+### Más noticias
+
+* [Gerente del Metro de Quito denunció reciente acto de vandalismo ante Fiscalía](https://www.elcomercio.com/actualidad/quito/gerente-metro-quito-denuncia-vandalismo.html "Gerente del Metro de Quito denunció reciente acto de vandalismo ante Fiscalía")
+* [Av. Simón Bolívar, cerrada por siniestro de bus escolar](https://www.elcomercio.com/actualidad/quito/simon-bolivar-cerrada-siniestro-bus-escolar.html "Av. Simón Bolívar, cerrada por siniestro de bus escolar")
+* [Quito tendrá un visualizador de siniestros de tránsito](https://www.elcomercio.com/actualidad/quito/siniestros-transito-visualizador-amt-plataforma.html "Quito tendrá un visualizador de siniestros de tránsito")
+
+Según se conoció extraoficialmente, el hombre y el conductor **se habrían chocado** minutos antes.
+
+El afectado se bajó de su vehículo para reclamarle a la otra persona por los gastos del **siniestro** que habría provocado.
+
+El conductor habría ignorado los pedidos del hombre y habría tratado de **huir**.
+
+Para evitarlo, el ciudadano se colocó al frente del automotor rojo, sin embargo, a quien lo conducía no le importó arriesgar la vida de esta persona y **aceleró**.
+
+Según testigos del hecho, luego de unos metros de arrastrarlo, el vehículo frenó bruscamente para provocar la **caída del hombre**.
+
+El ciudadano quedó golpeado a un costado de la vía y requirió **asistencia médica**.
+
+Esta alerta ingresó al **ECU 911**, pasadas las 06:30 de este lunes 16 de septiembre de 2024.
+
+En el video se aprecia el lado izquierdo frontal del automotor con rastros del **golpe**.
+
+El vehículo consta en la Agencia Nacional de Tránsito (**ANT**) a nombre de Jessica A.
+
+Aquiles Alvarez solicitó ubicar al imprudente conductor
+-------------------------------------------------------
+
+La imprudencia del hecho provocó el **rechazo** de la ciudadanía y autoridades.
+
+Usuarios en redes sociales piden que se localice al conductor del automóvil y se lo **sancione** drásticamente.
+
+El alcalde de Guayaquil, **Aquiles Alvarez**, se refirió al video.
+
+A través de su red social X solicitó a **Fernando Cornejo**, presidente de la Empresa Municipal para la Gestión de Riesgos y Control de Seguridad de Guayaquil (Segura) que se ubique al conductor.
+
+“**Cáiganle con todo**“, enfatizó el funcionario.
+
+Al pedido, Cornejo respondió: “De inmediato, Alcalde”.
+
+> GTM-6554.  
+> Por favor, [@segura\_ep](https://twitter.com/segura_ep?ref_src=twsrc%5Etfw) , ubiquémoslo. [@FernandCornejoV](https://twitter.com/FernandCornejoV?ref_src=twsrc%5Etfw) [@Ing\_Anchundia](https://twitter.com/Ing_Anchundia?ref_src=twsrc%5Etfw) – cáiganle con todo. [https://t.co/GzJSr39YUN](https://t.co/GzJSr39YUN) [pic.twitter.com/Y8UhiFyMBM](https://t.co/Y8UhiFyMBM)
+> 
+> — Aquiles Alvarez Henriques (@aquilesalvarez) [September 17, 2024](https://twitter.com/aquilesalvarez/status/1835854602375151776?ref_src=twsrc%5Etfw)
+
+Miguel Parrales es el goleador de la segunda etapa de la Liga Pro
+=================================================================
+
+Miguel Parrales vive un segundo semestre a puro gol con Orense. Dejó atrás el mal primer semestre con Liga de Quito.
+--------------------------------------------------------------------------------------------------------------------
+
+![Miguel Parrales con la camiseta de Orense en la segunda etapa de la Liga Pro 2024.](https://www.elcomercio.com/wp-content/uploads/2024/09/parrales_goleador_1.jpg)
+
+El delantero ecuatoriano **Miguel Parrales (Orense)** y el uruguayo Octavio Rivero (Barcelona Sporting Club) son los dos goleadores de la segunda etapa de la Liga Pro 2024 y tienen a sus equipos en la parte alta de la tabla de posiciones. 
+
+Los goles de **Parrales le han permitido a Orense alcanzar la segunda posición** en la tabla con 13 puntos, solo dos menos que Liga de Quito, el puntero y principal candidato para ganar la etapa y jugar las finales contra Independiente del Valle. 
+
+### Más noticias:
+
+* [Damián Díaz marcó un golazo de tiro libre con Banfield](https://www.elcomercio.com/deportes/futbol/damian-diaz-gol-banfield-argentina.html "Damián Díaz marcó un golazo de tiro libre con Banfield")
+* [Futbolista juvenil fallece en pelea durante un partido en Paraguay](https://www.elcomercio.com/deportes/futbolista-juvenil-paraguay-muerte-pelea-conmocion.html "Futbolista juvenil fallece en pelea durante un partido en Paraguay")
+* [Alisha Lehmann critica diferencia salarial entre el fútbol femenino y masculino](https://www.elcomercio.com/deportes/futbol/alisha-lehmann-salario-douglas-luiz.html "Alisha Lehmann critica diferencia salarial entre el fútbol femenino y masculino")
+
+Los goles de Rivero son los que sostienen las esperanzas de los **hinchas de Barcelona Sporting Club por pelear por la etapa.** Son cuartos con 12 puntos y aún creen que es posible mantenerse en la pugna. 
+
+Ambos jugadores son los goleadores de la segunda etapa y su promedio goleador supera al de Alex Arce, delantero de LDU y máximo goleador del torneo, que en esta etapa tiene cuatro tantos. 
+
+Parrales y Rivero en un mano a mano
+-----------------------------------
+
+Parrales renació futbolísticamente en Orense **luego de un primer semestre para el olvido con Liga**, donde no gozó de minutos y no puedo anotar un solo tanto. 
+
+El jugador manabita le anotó a Aucas (2), Barcelona SC (2), Deportivo Cuenca (1), Imbabura (1) y Universidad Católica (1). Solo Emelec se salvó de su olfato goleador. 
+
+Marca un gol cada 58 minutos, el mejor de toda la segunda etapa. 
+
+**Rivero tiene seis goles en igual número de partidos**. Macará (2), Imbabura (1), Independiente Del Valle (1), Orense (1) y Universidad Católica (1) recibieron goles del uruguayo. 
+
+Solo ante Liga de Quito no anotó. El promedio de goles es uno cada 90 minutos. 
+
+![Octavio Rivero, delantero de Barcelona Sporting Club.](https://www.elcomercio.com/wp-content/uploads/2024/09/parrales_goleador_3-1024x683.jpg)
+
+Octavio Rivero, delantero de Barcelona Sporting Club.
+
+Arce, Klimowicz, Magnín y Armas siguen en la lista 
+---------------------------------------------------
+
+**Alex Arce** es el goleador de la Liga Pro con 18 tantos. En la primera etapa hizo 14 y en la segunda lleva cuatro. 
+
+El último gol fue en la tercera fecha ante Aucas y **lleva tres más sin anotar**: Libertad, Barcelona e Imbabura se salvaron de la letalidad del paraguayo. 
+
+El promedio goleador es de un tanto cada 124 minutos en la segunda etapa. 
+
+La **revelación es Luca Klimowicz con Imbabura**. Llegó para la segunda etapa desde Instituto de Córdoba y ya tiene cuatro tantos en seis partidos.  
+
+En el debut le marcó a BSC en el Olímpico de Ibarra. Luego gritó gol contra Cumbayá en el Olímpico Atahualpa y **finalmente un doblete contra Liga de Quito** en Ibarra. 
+
+Su promedio goleador es de un tanto cada 109 minutos.
+
+Pablo Magnín es lo más rescatable del **Deportivo Cuenca que solo tiene un punto en la segunda etapa**. El argentino tiene 13 goles en el año y cuatro en este segundo semestre.
+
+Anota un gol cada 134 minutos.
+
+Diego **Armas sumó su cuarto gol en la etapa** y el décimo en todo el año con la camiseta de Técnico Universitario.
+
+Su promedio de gol es de 129 minutos. 
+
+![Luca Klimowicz, delantero de Imbabura.](https://www.elcomercio.com/wp-content/uploads/2024/09/parrales_goleador_2-1024x683.jpg)
+
+Luca Klimowicz, delantero de Imbabura.
+
+No te pierdas – El Confesionario con Iván Vallejo
+-------------------------------------------------
+
+Estados Unidos entrega 39 millones de dólares a Ecuador ¿Cuál es el objetivo?
+=============================================================================
+
+Estados Unidos y Ecuador firmaron un convenio por seguridad y justicia días atrás.
+----------------------------------------------------------------------------------
+
+![Usaid entregó 39 millones de dólares a Ecuador, a través de convenio.](https://www.elcomercio.com/wp-content/uploads/2024/09/Diseno-sin-titulo-14-1.jpg)
+
+**Estados Unidos**, a través de la **Agencia para el Desarrollo Internacional** (**Usaid**), entregó 39,17 millones de dólares a **Ecuador**[.](https://es.wikipedia.org/wiki/Agencia_de_los_Estados_Unidos_para_el_Desarrollo_Internacional)
+
+El convenio se firmó este lunes 16 de septiembre de 2024.
+
+### Más noticias:
+
+* [Estados Unidos y Ecuador firmaron un convenio ¿En qué consiste?](https://www.elcomercio.com/actualidad/politica/estados-unidos-y-ecuador-firmaron-un-convenio-en-que-consiste.html "Estados Unidos y Ecuador firmaron un convenio ¿En qué consiste?")
+* [Daniel Noboa presentará proyecto para reformar la Constitución sobre bases militares extranjeras](https://www.elcomercio.com/actualidad/politica/daniel-noboa-proyecto-reformar-constitucion-bases-militares-extranjeras.html "Daniel Noboa presentará proyecto para reformar la Constitución sobre bases militares extranjeras")
+
+Se trata del  el séptimo **documento de Asignación de Recursos bajo el Convenio de Donación de Objetivos de Desarrollo (DOAG)**, vigente hasta 2030.
+
+El objetivo de la entrega de 39 millones de dólares por parte de Estados Unidos a Ecuador
+-----------------------------------------------------------------------------------------
+
+Los 39 millones de dólares entregados por Estados Unidos, a través de la Usaid, a Ecuador serán utilizados para fortalecer la gobernanza inclusiva y democrática.
+
+La canciller Gabriela Sommerfeld señaló que esta cooperación no es solo con el presente, sino una inversión para el futuro.
+
+“**A través de proyectos que apoyan la transparencia, la participación ciudadana, el cuidado del medio ambiente** y la creación de oportunidades económicas”, señaló la Canciller.
+
+El embajador de los Estados Unidos en el Ecuador, Art Brown, manifestó que Ecuador es un socio estratégico para su país y estos fondos son parte del compromiso de su gobierno para trabajar por un país más democrático.  
+
+Los dos países firmaron un acuerdo para seguridad y justicia
+------------------------------------------------------------
+
+Tres días atrás, Estados Unidos firmó un convenio de cooperación bilateral en seguridad por 25 millones de dólares con el Ecuador.
+
+El fin de este acuerdo es fortalecer la asistencia técnica, las capacidades institucionales y equipamiento para las instituciones de seguridad y justicia del país.
+
+La Oficina de Antinarcóticos y Aplicación de la Ley (INL, por sus siglas en inglés) gestionó el convenio.
+
+Se enfocará en consolidar las instituciones democráticas para contrarrestar al crimen organizado, promover la seguridad ciudadana y la aplicación de la ley, y fortalecer el Estado de Derecho.  
+
+“Nuestro compromiso con la seguridad de los ecuatorianos se materializa en el convenio de cooperación que permitirá una inversión de 25 millones de dólares”, dijo Brown.  
+
+Técnico Universitario aprieta la tabla de posiciones de la Liga Pro
+===================================================================
+
+Técnico Universitario ganó, Libertad se complicó y Liga de Quito sigue como líder de la segunda etapa de la Liga Pro 2024.
+--------------------------------------------------------------------------------------------------------------------------
+
+![Diego Armas celebra un gol marcado con Técnico Universitario en la Liga Pro 2024.](https://www.elcomercio.com/wp-content/uploads/2024/09/tecnico_tabla_1.jpg)
+
+En un entretenido partido, **Técnico Universitario** hizo respetar su condición de local y le ganó 3-0 a Libertad de Loja en el cierre de la sexta fecha de la segunda etapa de la Liga Pro.
+
+El encuentro entre **Técnico Universitario y Libertad** se jugó la noche del lunes 16 de septiembre de 2024 en el estadio Bellavista de Ambato, ante una presencia aceptable de hinchas que llegaron a este escenario.
+
+### Más noticias:
+
+* [Gonzalo Plata recibe a un gigante continental en Copa Libertadores](https://www.elcomercio.com/deportes/copa-libertadores-gonzalo-plata-flamengo-penarol.html "Gonzalo Plata recibe a un gigante continental en Copa Libertadores")
+* [Damián Díaz marcó un golazo de tiro libre con Banfield](https://www.elcomercio.com/deportes/futbol/damian-diaz-gol-banfield-argentina.html "Damián Díaz marcó un golazo de tiro libre con Banfield")
+* [Futbolista juvenil fallece en pelea durante un partido en Paraguay](https://www.elcomercio.com/deportes/futbolista-juvenil-paraguay-muerte-pelea-conmocion.html "Futbolista juvenil fallece en pelea durante un partido en Paraguay")
+
+**Diego Armas**, a los 41 minutos, dio un paso al frente y anotó el 1-0 para Técnico Universitario con un certero golpe de cabeza que no pudo ser rechazado por Eduardo Bores, la gran figura de los lojanos en esta jornada.
+
+Para Armas es el décimo gol en la temporada y se confirmó como la máxima figura de los ambateños y se mezcló entre los goleadores del torneo, **por detrás del argentino del Deportivo Cuenca, Pablo Magnín** (13); el colombiano de Independiente del Valle, Jeison Medina (13); y el paraguayo de Liga de Quito, Alex Arce (18).
+
+A los 54 minutos los **lojanos llegaron al empate con un tanto de Diego Ávila**, pero no subió al marcador por una posición adelantada que detectó el VAR, tras cinco minutos de demora para tomar la decisión final ante la expectativa de jugadores, entrenadores e hinchas.
+
+El 2-0 llegó a los 64 minutos con un nuevo **golpe de cabeza del argentino Sergio González** para sellar el marcador y una noche de sonrisas para el ‘Rodillo rojo’.
+
+La goleada se concretó con un golazo de Elvis Pata a los 71 minutos. El mediocampista sacó un fortísimo remate desde fuera del área para sorprender a Bores y registrar el 3-0.
+
+El cierre estuvo marcado por la expulsión de Glendys Mina, jugador de los visitantes.
+
+Técnico Universitario escaló a la **séptima posición en la tabla de posiciones de la segunda etapa con 10 puntos** y un gol diferencia positivo de +4, mientras que en la tabla acumulada ocupa el puesto 11 con 26 unidades.
+
+**Libertad se queda en la posición 12 con 7 puntos**, mientras que en la acumulada sigue en la última casilla con tan solo 11 puntos y cada vez más cerca de descender a la Liga Pro Serie B.
+
+![Eduardo Bores, arquero de Libertad de Loja.](https://www.elcomercio.com/wp-content/uploads/2024/09/tecnico_tabla_2-1024x683.jpg)
+
+Eduardo Bores, arquero de Libertad de Loja.
+
+Liga de Quito lidera la etapa
+-----------------------------
+
+Pese a la derrota de **4-0 ante Imbabura en el Olímpico de Ibarra**, Liga conserva el liderato en la tabla con 15 puntos y un gol diferencia positivo de +8.
+
+Orense no pasó del empate 2-2 contra **Universidad Católica en el 9 de Mayo** y sumó 13 puntos para ser el principal perseguidor de los capitalinos.
+
+**Independiente del Valle y Barcelona Sporting Club** se reparte el tercer y cuarto puesto, respectivamente, con 12 puntos, pero con un mejor gol diferencia para los rayados.
+
+Los primeros cinco puestos se completan con el sorprendente **Mushuc Runa que sumó 11 puntos** y está a la expectativa para seguir escalando y arañar un cupo a un torneo internacional.
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/09/tabla_fecha_6-819x1024.jpg)
+
+No te pierdas – El Confesionario con Iván Vallejo
+-------------------------------------------------
+
 Criador de gallos de peleas enfrentará una fuerte sanción, en Quito
 ===================================================================
 
@@ -46,8 +846,8 @@ Según detalló la entidad, el domingo 15 de septiembre de 2024, el hombre **ent
 ### Más noticias
 
 * [Gerente del Metro de Quito denunció reciente acto de vandalismo ante Fiscalía](https://www.elcomercio.com/actualidad/quito/gerente-metro-quito-denuncia-vandalismo.html "Gerente del Metro de Quito denunció reciente acto de vandalismo ante Fiscalía")
-* [El Metro de Quito fue vandalizado otra vez](https://www.elcomercio.com/actualidad/quito/metro-quito-vandalizado-sanciones-tren.html "El Metro de Quito fue vandalizado otra vez")
 * [Escasez de lluvias afecta el suministro de agua en Quito](https://www.elcomercio.com/actualidad/quito/escasez-lluvias-afecta-suministro-agua-quito.html "Escasez de lluvias afecta el suministro de agua en Quito")
+* [El embalse de la hidroeléctrica Mazar bajó 20 metros](https://www.elcomercio.com/actualidad/negocios/hidroelectrica-mazar-perdio-metros-embalse.html "El embalse de la hidroeléctrica Mazar bajó 20 metros")
 
 Las autoridades de la AMC, Unidad de Bienestar Animal (**UBA**) y Policía Nacional encontraron **22 gallos** y 10 gallinas.
 
@@ -61,8 +861,8 @@ Este tipo de actividades están catalogadas como una **infracción muy grave**; 
 > 
 > — Agencia Metropolitana de Control (@amcquito) [September 16, 2024](https://twitter.com/amcquito/status/1835495787419099268?ref_src=twsrc%5Etfw)
 
-Centro de rehabilitación fue clausurado
----------------------------------------
+AMC clausuró un centro de rehabilitación por irregularidades
+------------------------------------------------------------
 
 En un operativo nocturno realizado el viernes 13 de septiembre, la AMC clausuró un **centro de rehabilitación** ubicado en el barrio Lucha de los Pobres.
 
@@ -288,6 +1088,8 @@ Además, contaba con la colaboración del resto de los procesados, quienes cumpl
 
 En este caso, doce personas ya fueron sentenciadas mediante procedimiento abreviado, luego de que aceptaran su participación en los hechos imputados.
 
+El juez Manuel Cabrera suspendió la audiencia preparatoria de juicio pasadas las 20:00, la reinstalará a las 8:30 de este martes 17 de septiembre.
+
 Gerente del Metro de Quito denunció reciente acto de vandalismo ante Fiscalía
 =============================================================================
 
@@ -406,658 +1208,3 @@ La Cantera FC vs. Guaranda FC
 
 No te pierdas – El Confesionario con Iván Vallejo
 -------------------------------------------------
-
-Cuatro demostraciones de poder latino en los Emmy 2024
-======================================================
-
-Los actores John Leguizamo, Gael García Bernal, Diego Luna, Sofía Vergara y otros representaron la diversidad latina en los Emmy 2024.
---------------------------------------------------------------------------------------------------------------------------------------
-
-![Sofía Vergara estuvo nominada a los Emmy 2024. Foto: EFE](https://www.elcomercio.com/wp-content/uploads/2024/09/emmy2024-El-comercio.jpg)
-
-**John Leguizamo** dijo lo que muchos han pensado por años de la TV. Aprovechó la entrega de los **Premios Emmy 2024** para hacerlo.
-
-Ofreció un apasionado discurso sobre la falta de representación latina en la industria televisiva. Recordó cómo, durante años, aceptó los limitados roles que se le ofrecían sin protestar.
-
-### Más noticias
-
-* **[‘La Sustancia’ y el retorno del horror corporal](https://www.elcomercio.com/tendencias/cine/la-sustancia-y-el-retorno-del-horror-corporal.html "https://www.elcomercio.com/tendencias/cine/la-sustancia-y-el-retorno-del-horror-corporal.html")**
-* **[Meryl Streep y Martin Short alimentan rumores de romance](https://www.elcomercio.com/afull/meryl-streep-martin-short-romance-emmys-2024.html "https://www.elcomercio.com/afull/meryl-streep-martin-short-romance-emmys-2024.html")**
-
-“Durante años, no me queje de los limitados papeles que se ofrecían a los míos: El bombón picante, el amante latino, la criada, el pandillero… Resulta que no quejarse no cambia nada”, dijo.
-
-El caso de un neoyorkino en el papel de un cubano
--------------------------------------------------
-
-![El actor John Leguizamo da su discurso en los Emmy 2024. Foto: EFE](https://www.elcomercio.com/wp-content/uploads/2024/09/emmy2024-El-comercio-2-1024x683.jpg)
-
-El actor John Leguizamo da su discurso en los Emmy 2024. Foto: EFE
-
-John Leguizamo ha luchado por años por la inclusión de actores de color y en la entrega de los Emmy destacó cómo, desde su juventud, no veía a personas latinas representadas en la pantalla.
-
-“Todo el mundo nos interpretaba, menos nosotros, expuso, poniendo como ejemplo al actor **[Al Pacino](https://es.wikipedia.org/wiki/Al_Pacino "https://es.wikipedia.org/wiki/Al_Pacino")** que encarnó a un mafioso cubano como Tony Montana en la película ‘Scarface’ o a la actriz **[Natalie Wood](https://es.wikipedia.org/wiki/Natalie_Wood "https://es.wikipedia.org/wiki/Natalie_Wood")** dando vida a la puertorriqueña María en ‘**[West Side Story](https://es.wikipedia.org/wiki/West_Side_Story_(musical) "https://es.wikipedia.org/wiki/West_Side_Story_(musical)")**‘.
-
-La nominación de la colombiana Sofía Vergara
---------------------------------------------
-
-![Sofía Vergara estuvo nominada a los Emmy 2024. Foto: EFE](https://www.elcomercio.com/wp-content/uploads/2024/09/emmy2024-El-comercio-1024x683.jpg)
-
-Sofía Vergara estuvo nominada a los Emmy 2024. Foto: EFE
-
-**[Sofía Vergara](https://www.instagram.com/sofiavergara/?hl=es "https://www.instagram.com/sofiavergara/?hl=es")** hizo historia en los Premios Emmy 2024 y emocionó a los latinos en todo el mundo. Aunque no se llevó el galardón, su destacada interpretación en **la serie de Netflix ‘Griselda**‘ le valió una nominación envidiable.
-
-Justamente, en su discurso Leguizamo destacó a **Vergara** y a **Selena Gomez** entre los nominados de la noche, junto con la **histórica elección de** **Cris Abrego como presidente de la Academia**, pero dejó claro que queda camino pendiente.
-
-Necesitamos más de historias de grupos excluidos negros, asiáticos judíos, árabes, LGBTQ+ y discapacitados y esta noche es la prueba de que nuestra industria está progresando, reivindicó leguizamo. Lee **[aquí](https://lanotadeldia.mx/news/discurso-de-john-leguizamo-en-los-emmy-sobre-la-diversidad-el-texto-completo/63499/ "https://lanotadeldia.mx/news/discurso-de-john-leguizamo-en-los-emmy-sobre-la-diversidad-el-texto-completo/63499/")** el discurso completo de John Leguizamo en los Emmy 2024.
-
-La actriz de ‘The Bear’ le ganó a Meryl Streep
-----------------------------------------------
-
-![La actriz Liza Colón-Zayas ganó un Emmy. Foto: EFE](https://www.elcomercio.com/wp-content/uploads/2024/09/emmy2024-El-comercio-1-1024x683.jpg)
-
-La actriz Liza Colón-Zayas ganó un Emmy. Foto: EFE
-
-La **actriz Liza Colón-Zayas** también se subió a la tendencia de Leguizamo. Recogió su galardón admitiendo que no había escrito un discurso a pesar de la insistencia de su esposo porque no creía que fuera posible ganar frente a actrices como **[Meryl Streep](https://www.imdb.com/name/nm0000658/ "https://www.imdb.com/name/nm0000658/")** y otras.
-
-**Liza Colón-Zayas** es **Tina Marrero en la serie ‘The Bear’** y ganó como el premio a mejor actriz de reparto.
-
-### Mira **[aquí](https://www.elcomercio.com/tendencias/shogun-the-bear-hacks-y-bebe-reno-las-mas-ganadoras-de-los-premios-emmy.html "https://www.elcomercio.com/tendencias/shogun-the-bear-hacks-y-bebe-reno-las-mas-ganadoras-de-los-premios-emmy.html")** todos los ganadores de los Emmys 2024.
-
-Aprovechó la ocasión para lanzar un mensaje político de cara a las próximas elecciones de Estados Unidos 2024. “A todas las latinas que me están mirando sigan creyendo y voten, voten por sus derechos”, expresó.
-
-Gael García Bernal y Diego Luna hablaron en español
----------------------------------------------------
-
-![Foto: EFE](https://www.elcomercio.com/wp-content/uploads/2024/09/emmy2024-El-comercio-3-1024x683.jpg)
-
-Foto: EFE
-
-La cereza del pastel fueron los amigos actores **Diego Luna y Gael García Bernal**: hablaron en español. “Buenas noches, bienvenidas y bienvenidos, a los Emmys”, dijo provocando una gran ovación entre el público.
-
-“Un saludo a quienes hablan español en esta sala y a las y los más de 50 millones que hablan español en este país, continuó Luna. Así se representó a la comunidad latina en la entrega de los Premios Emmy 2024”.
-
-Instituciones públicas requieren permiso para publicidad, ¿desde cuándo?
-========================================================================
-
-Las instituciones públicas deber realizar el trámite para la autorización frente a las elecciones 2025.
--------------------------------------------------------------------------------------------------------
-
-![Instituciones públicas deben contar con autorización para difundir publicidad.](https://www.elcomercio.com/wp-content/uploads/2024/09/publicidad-instituciones-publicas.jpg)
-
-El calendario para las **elecciones 2025** en Ecuador sigue corriendo. Además de la inscripción de las candidaturas, del 13 de septiembre al 2 de octubre de 2024, hay otros pasos[.](https://es.wikipedia.org/wiki/Ecuador)[](https://es.wikipedia.org/wiki/Ecuador)
-
-Las votaciones serán el **9 de febrero**. Los ecuatorianos deberán elegir las cabezas de la Presidencia, Vicepresidencia, Asamblea Nacional y Parlamento Andino.
-
-### Más noticias
-
-* [Inscripción de candidatos a elecciones 2025 es en línea, ¿por qué van al CNE?](https://www.elcomercio.com/actualidad/politica/inscripcion-candidatos-elecciones-2025-en-linea-cne.html?source=Internal&ref=Latest%20News%20Widget%20-%20Front)
-* [La inscripción para elecciones 2025 empieza con incumplimientos](https://www.elcomercio.com/actualidad/politica/inscripcion-elecciones-2025-impedimentos-brechas.html "La inscripción para elecciones 2025 empieza con incumplimientos")
-* [CNE aprobó la convocatoria para las elecciones 2025](https://www.elcomercio.com/actualidad/politica/cne-aprobo-convocatoria-elecciones-2025.html "CNE aprobó la convocatoria para las elecciones 2025")
-* [¿Cuándo estarán en firme las candidaturas para las elecciones de 2025?](https://www.elcomercio.com/actualidad/politica/cuando-estaran-en-firme-las-candidaturas-para-elecciones-2025.html "¿Cuándo estarán en firme las candidaturas para las elecciones de 2025?")
-* [CNE estableció las reglas para el exit poll en las elecciones generales 2025](https://www.elcomercio.com/actualidad/politica/cne-reglamento-exit-poll-elecciones-generales-2025.html "CNE estableció las reglas para el exit poll en las elecciones generales 2025")
-
-> IMPORTANTE 🇪🇨  
->   
-> 📌 Las listas de candidaturas que participen en las [#Elecciones2025Ec](https://twitter.com/hashtag/Elecciones2025Ec?src=hash&ref_src=twsrc%5Etfw), deben provenir de procesos de democracia interna y cumplir con los principios de:  
->   
-> ✅ paridad  
-> ✅ alternabilidad  
-> ✅ secuencialidad  
-> ✅ inclusión  
->   
-> 💻 La [#InscripciónCandidaturasEc](https://twitter.com/hashtag/Inscripci%C3%B3nCandidaturasEc?src=hash&ref_src=twsrc%5Etfw) se realizará… [pic.twitter.com/tliCgLGPqf](https://t.co/tliCgLGPqf)
-> 
-> — cnegobec (@cnegobec) [September 16, 2024](https://twitter.com/cnegobec/status/1835677804081377332?ref_src=twsrc%5Etfw)
-
-Elecciones 2025 y pasos para instituciones
-------------------------------------------
-
-Tras las inscripciones de las candidaturas habrá un proceso de evaluación, así como el tiempo para posibles impugnaciones. Es decir, los postulantes oficiales se conocerán el **30 de diciembre de 2024**.
-
-La **campaña electoral** se extenderá del 5 de enero al 6 de febrero. El 19 de enero, se llevará a cabo el primer simulacro electoral y el debate presidencial.  
-
-El 26 de enero será el segundo simulacro de las **elecciones 2025**. El 6 de febrero, las votaciones serán para las personas privadas de la libertad sin sentencia ejecutoriada. El 7 de ese mismo mes, el turno llegará para el voto en casa.  
-
-La convocatoria
----------------
-
-La convocatoria a las **elecciones 2025** se lanzó oficialmente el 12 de septiembre de 2024. Con este paso, las instituciones públicas deben cumplir con ciertos pasos.
-
-Entre esos se encuentra el trámite para la difusión de publicidad. El **CNE** informó que requieren autorización para compartir el material en radio, televisión, medios digitales, vallas publicitarias, prensa escrita y otros medios impresos.
-
-> IMPORTANTE 🔴  
->   
-> Desde hoy, lunes 16 de septiembre, [#PagaTusMultasEnLínea](https://twitter.com/hashtag/PagaTusMultasEnL%C3%ADnea?src=hash&ref_src=twsrc%5Etfw). 💻  
->   
-> También puedes hacerlo de manera presencial 📍a través de depósito en Bancos y Cooperativas a 🇪🇨 escala nacional, comercios minoristas y entidades aliadas a la red Facilito. [#ServiciosEnLíneaCNE](https://twitter.com/hashtag/ServiciosEnL%C3%ADneaCNE?src=hash&ref_src=twsrc%5Etfw) 📱 [pic.twitter.com/0ZU8PYzARt](https://t.co/0ZU8PYzARt)
-> 
-> — cnegobec (@cnegobec) [September 16, 2024](https://twitter.com/cnegobec/status/1835770860126310850?ref_src=twsrc%5Etfw)
-
-Los pasos para el permiso
--------------------------
-
-Las **entidades públicas** deben solicitar la autorización a través de un trámite en las 24 delegaciones provinciales electorales, en la Dirección Nacional de Promoción Electoral o en la Secretaría General del organismo electoral.
-
-El formato de solicitud de **autorización** para empezar el trámite está disponible en la página web del [CNE](https://www.cne.gob.ec/)
-
-La normativa electoral define en qué casos está permitida la difusión de información por parte de las **instituciones públicas**.
-
-Se da paso en caso de **grave conmoción interna**, catástrofes naturales u otras situaciones excepcionales.
-
-La convocatoria a las **elecciones 2025** se lanzó oficialmente el 12 de septiembre de 2024. Con este paso, las instituciones públicas deben cumplir con ciertos pasos.
-
-ECU 911 hizo un anuncio respecto a los cortes de luz a escala nacional
-======================================================================
-
-El ECU 911 tomó una decisión respecto a la disposición del Gobierno de los cortes de luz para el miércoles 18 y jueves 19 de septiembre.
-----------------------------------------------------------------------------------------------------------------------------------------
-
-![El ECU 911 se refirió a los cortes de luz a escala nacional.](https://www.elcomercio.com/wp-content/uploads/2024/09/Diseno-sin-titulo-12.jpg)
-
-El **Servicio Integrado de Seguridad ECU 911** hizo un anuncio respecto a los **cortes de luz** a escala nacional, que ocurrirán el **miércoles 18 y el jueves 19 de septiembre de 2024**.
-
-El corte de luz nacional durará ocho horas, desde las 22:00 del miércoles hasta las 6:00 del jueves.
-
-### Más noticias:
-
-* [Cortes de luz provocarán suspensión de al menos 6 servicios este miércoles 18 de septiembre](https://www.elcomercio.com/actualidad/negocios/cortes-de-luz-provocaran-suspension-de-al-menos-6-servicios-este-miercoles-18-de-septiembre.html "Cortes de luz provocarán suspensión de al menos 6 servicios este miércoles 18 de septiembre")
-* [Cambios en horarios de clases por los cortes de luz en Ecuador](https://www.elcomercio.com/actualidad/cambios-en-horarios-de-clases-por-los-cortes-de-luz-en-ecuador.html "Cambios en horarios de clases por los cortes de luz en Ecuador")
-* [Gobierno declara toque de queda por cortes de luz a escala nacional](https://www.elcomercio.com/actualidad/seguridad/gobierno-declara-toque-queda-por-cortes-luz-a-escala-nacional.html "Gobierno declara toque de queda por cortes de luz a escala nacional")
-
-El Gobierno anunció la suspensión del servicio eléctrico en todo el país en las fechas y horarios mencionados por mantenimientos.
-
-Además, ordenó **toque de queda**, como medida de seguridad ciudadana.
-
-El anuncio del ECU 911 respecto a los cortes de luz a escala nacional
----------------------------------------------------------------------
-
-El ECU 911 informó que **atenderá las llamadas de emergencia** durante el corte de luz nacional
-
-Anunció que garantizará la atención y coordinación de todas las llamadas de emergencia que pudieran surgir durante la suspensión del servicio eléctrico.
-
-Se mantendrá el servicio en sus **16 centros en todo el país**, puesto que cuenta con un sistema de respaldo de energía que trabaja de manera ininterrumpida.
-
-“El ECU 911 dispone de personal altamente capacitado, que brindará el soporte técnico respectivo, ante cualquier posible incidente”, agregó el Servicio, en un comunicado.
-
-Además, en coordinación con la **Empresa Pública CNT EP**, se mantendrá el funcionamiento del sistema troncalizado de radiocomunicaciones.
-
-Esto permitirá la coordinación de las situaciones de emergencia reportadas por la ciudadanía.  
-
-Juan Usma debutó y se lo dedicó a su fallecida madre
-====================================================
-
-Juan Usma es parte de un grupo de jugadores juveniles que entrenan con el primer plantel de Barcelona en el 2024.
------------------------------------------------------------------------------------------------------------------
-
-![Juan Usma el día de su debut con Barcelona Sporting Club en el 2024.](https://www.elcomercio.com/wp-content/uploads/2024/09/usma_bsc_1.jpg)
-
-**Juan Usma** debutó con el número 33 en su espalda con el primer plantel de Barcelona Sporting Club el domingo 15 de septiembre de 2024 en el estadio Monumental de Guayaquil. 
-
-El debut de **Juan Usma fue ante Macará de Ambato** en la sexta fecha de la segunda etapa de la Liga Pro, que se saldó con un triunfo para Barcelona SC por 2-1 con un doblete del delantero uruguayo Octavio Rivero. 
-
-### Más noticias:
-
-* [Liga de Quito perdió el invicto, pero se mantiene como líder](https://www.elcomercio.com/deportes/futbol/liga-de-quito-perdio-el-invicto-pero-se-mantiene-como-lider.html "Liga de Quito perdió el invicto, pero se mantiene como líder")
-* [El nuevo formato de la Champions League debuta con unos partidazos](https://www.elcomercio.com/deportes/futbol/nuevo-formato-de-la-champions-league-debuta-con-partidazos.html "El nuevo formato de la Champions League debuta con unos partidazos")
-* [Barcelona SC retoma el rumbo en Liga Pro, ¿cuándo será su próximo partido?](https://www.elcomercio.com/deportes/barcelonasc-retoma-el-rumbo-en-liga-pro-cuando-sera-su-proximo-partido.html "Barcelona SC retoma el rumbo en Liga Pro, ¿cuándo será su próximo partido?")
-
-**Usma jugó los primeros 45 minutos** y fue reemplazado por Byron Castillo, uno de los jugadores más experimentados del plantel que llegó en el segundo semestre de 2024 como refuerzo desde Peñarol de Uruguay. 
-
-El sitio especializado **SofaScore le dio una calificación de 6.6 puntos**. El detalle indica que tocó el balón 20 veces, acertó 12 de 16 pases llegando al 75% de efectividad, dio un pase largo, recibió una falta y logró un remate. 
-
-Usma es parte del **grupo de juveniles que Barcelona promueve desde sus categorías formativas**, como parte del proyecto de ‘refundación’ que promueven a menos de un año de cumplir los 100 años de fundación institucional. 
-
-Otro de los juveniles que estuvo en cancha fue Jandry Gómez, también de 18 años, que reemplazó a Alex Rangel y dejó buenas sensaciones en el mundo de los canarios.
-
-El juvenil ya debutó con los canarios en la primera fecha de la **primera etapa contra Imbabura en el Monumental**. Contra el mismo equipo volvió a sumar minutos en el Olímpico de Ibarra.
-
-![Foto: X BSC.](https://www.elcomercio.com/wp-content/uploads/2024/09/usma_bsc_2-1024x683.jpg)
-
-Foto: X BSC.
-
-¿Quién es Juan Usma? 
----------------------
-
-**Juan José Usma Cortes** nació en Gualaceo, provincia del Azuay, el 24 de abril de 2006. Tiene 18 años y se desempeña como mediocampista. 
-
-Llegó a Barcelona SC a los 12 años y realizó todo el **proceso de formación hasta debutar en el primer equipo de la mano de Ariel Holan**, entrenador argentino conocido por dar espacio a los jugadores canteranos. 
-
-“Yo tengo un propósito y es el de sacar adelante a mi familia (…). **Estoy feliz y se lo dedico a mi mamá que está en el cielo**“, declaró emocionado Usma ante los medios de comunicación que lo buscaron en la zona mixta del estadio Monumental. 
-
-“Juan (Usma) lo hizo muy bien en el primer tiempo, puso pases gol y se lo notó muy tranquilo con el balón (…) Esto es un proceso (…) esto es paso a paso” dijo Holan en rueda de prensa. 
-
-El entrenador recalcó que **Usma es parte de un grupo de 23 jugadores juveniles** que trabajan en el primer plantel. Serán utilizados conforme lo requiere la institución en lo que resta de la temporada 2024.
-
-En la séptima fecha, Barcelona visitará al Deportivo Cuenca en la séptima fecha en el estadio Alejandro Serrano Aguilar. Será el sábado 21, desde las 19:00.
-
-> "Tengo un propósito que es sacar adelante a mi familia, quería debutar y hoy se me dio la oportunidad, estoy agradecido con Dios y con mi mamá que está en el cielo"  
->   
-> Juan Usma 👏👏👏 [pic.twitter.com/5MGZ2tqYL5](https://t.co/5MGZ2tqYL5)
-> 
-> — Fútbol 17 ⚽ (@Futbol17\_ec) [September 16, 2024](https://twitter.com/Futbol17_ec/status/1835481501003092187?ref_src=twsrc%5Etfw)
-
-No te pierdas – El Confesionario con Iván Vallejo
--------------------------------------------------
-
-Ever Hugo Almeida sueña con volver a El Nacional
-================================================
-
-El DT Ever Hugo Almeida, leyenda en El Nacional, se refirió a la escuadra y a sus deseos en el futuro con respecto a su carrera y el club.
-------------------------------------------------------------------------------------------------------------------------------------------
-
-![Ever Hugo Almeida, DT de Mushuc Runa, durante su segundo ciclo en El Nacional.](https://www.elcomercio.com/wp-content/uploads/2024/09/Diseno-sin-titulo-2024-09-16T173157.172.jpg)
-
-**Ever Hugo Almeida**, histórico DT de El Nacional que a día de hoy se desempeña en Mushuc Runa, se refirió al club del cual es leyenda. El estratega paraguayo expresó su deseo de, en un futuro, reencontrarse con el elenco y retornar a él.
-
-En medio de la primera etapa de la **Liga Pro**, el entrenador paraguayo fue cesado de sus funciones después de dos años en el club. Tras su salida, **Marcelo Zuleta** -quien se encontraba como director deportivo- asumió el cargo de entrenador.
-
-### Más noticias:
-
-* [Liga de Quito reveló precios de boletos para el partido ante El Nacional](https://www.elcomercio.com/deportes/futbol/liga-de-quito-revelo-precios-de-boletos-para-el-partido-ante-el-nacional.html "Liga de Quito reveló precios de boletos para el partido ante El Nacional")
-* [El Nacional remonta y va a cuartos de Copa Ecuador](https://www.elcomercio.com/deportes/partido-el-nacional-santo-domingo-copa-ecuador.html "El Nacional remonta y va a cuartos de Copa Ecuador")
-* [Hinchas de Emelec explotan tras derrota ante El Nacional](https://www.elcomercio.com/deportes/hinchas-emelec-reaccion-el-nacional.html "Hinchas de Emelec explotan tras derrota ante El Nacional")
-
-Una vez que se firmó la salida de Almeida y su cuerpo técnico, **Mushuc Runa** le ofreció tomar el equipo y este aceptó. Con él a cargo, el ‘**Ponchito**‘ tuvo un alza en su rendimiento y se encuentra en la quinta posición de la segunda etapa del torneo.
-
-A pesar de su salida, el estratega guarda gratos recuerdos del **club criollo**, pues antes de su última estancia ya lo había dirigido. Asimismo, a su buen presente también le acompaña un sentimiento en torno al **‘Bi-Tri’.**
-
-El Nacional, en el corazón de Ever Hugo Almeida
------------------------------------------------
-
-En una entrevista con la radio Mundo Deportivo, Almeida habló sobre su último ciclo con la escuadra militar. Allí, este mostró su postura con respecto a **El Nacional**, el porvenir de su carrera y la relación actual con respecto a sus pagos[.](https://en.wikipedia.org/wiki/C.D._El_Nacional "https://en.wikipedia.org/wiki/C.D._El_Nacional")
-
-“**Se tienen que dar una serie de situaciones, pero tengo la esperanza de que algún día podamos volver a El Nacional (…) Con todo el corazón regresaría, es un equipo que lo tenemos dentro**“, señaló el estratega.
-
-**Almeida** también manifestó que la escuadra se encuentra al día con respecto a sus honorarios y ha cumplido la cuota.
-
-El último entrenador ganador del ‘Bi-Tri’
------------------------------------------
-
-Las dos etapas de **Ever Hugo Almeida** con El Nacional corresponden a los ciclos de las campañas 2005-2006-2007 y 2022-2023-2024. En la primera consiguió un **bicampeonato**, en la segunda tomó al club en la Serie B, lo ascendió y devolvió a la **Copa Libertadores** después de seis años.
-
-“En cuatro años y medio que estuvimos en **El Nacional** (en los dos periodos) tenemos tres campeonatos. Hemos cumplido con la gente. Pese a que muchos, no sé por qué, no valoran ese campeonato de la **Serie B**, eso fue importantísimo… quizá con más valor que los otros (torneos) porque se devolvió al equipo adonde debe estar siempre”, señaló.
-
-Apagón programado dejará sin agua potable a Guayaquil
-=====================================================
-
-Las empresas de agua potable de Guayaquil y Durán detallaron los horarios de los cortes del servicio.
------------------------------------------------------------------------------------------------------
-
-![El corte de luz programado afectará directamente la producción y distribución del agua potable](https://www.elcomercio.com/wp-content/uploads/2024/09/agua-gua.jpg)
-
-La Empresa de Agua Potable **Interagua** informó que su servicio será interrumpido temporalmente en **Guayaquil**.
-
-Según detalló la entidad a través de un comunicado oficial, la suspensión del servicio de agua potable se realizará este **miércoles 18 y jueves 19 de septiembre**.
-
-### Más noticias
-
-* [Cortes de luz provocarán suspensión de al menos 6 servicios este miércoles 18 de septiembre](https://www.elcomercio.com/actualidad/negocios/cortes-de-luz-provocaran-suspension-de-al-menos-6-servicios-este-miercoles-18-de-septiembre.html "Cortes de luz provocarán suspensión de al menos 6 servicios este miércoles 18 de septiembre")
-* [Cambios en horarios de clases por los cortes de luz en Ecuador](https://www.elcomercio.com/actualidad/cambios-en-horarios-de-clases-por-los-cortes-de-luz-en-ecuador.html "Cambios en horarios de clases por los cortes de luz en Ecuador")
-* [Gobierno declara toque de queda por cortes de luz a escala nacional](https://www.elcomercio.com/actualidad/seguridad/gobierno-declara-toque-queda-por-cortes-luz-a-escala-nacional.html "Gobierno declara toque de queda por cortes de luz a escala nacional")
-
-Esto, debido al **apagón nacional** programado por la Corporación Eléctrica del Ecuador (Celec) para las 22:00 del miércoles hasta las 06:00 del jueves.
-
-“Estas actividades afectarán directamente la producción y distribución de agua potable en Guayaquil y sus parroquias rurales”, aseguró Interagua.
-
-La empresa también recomendó a la ciudadanía **abastecerse de agua** para que cubran sus necesidades del **jueves**.
-
-Si bien, Interagua no detalló la hora en la que el suministro retornará, explicó que el **restablecimiento** de agua potable tomará un tiempo adicional al corte de luz.
-
-Este tiempo “variará para cada sector de la ciudad”, indicó la empresa.
-
-El reinicio de las plantas potables en Guayaquil requiere mover **1 200 000 toneladas de agua** a través de 6 500 kilómetros de tuberías que comprende la red de la ciudad, detalló Interagua.
-
-### Parroquias rurales de Guayaquil
-
-El servicio de agua potable será suspendido en las **16 parroquias urbanas** que tiene Guayaquil, y en sus otras cinco rurales.
-
-Las **parroquias rurales** de la ciudad son:
-
-* Juan Gómez Rendón (Progreso)
-* Puná
-* Tenguel
-* Posorja
-* El Morro
-
-> 🚨 ATENCIÓN GUAYAQUIL Y PARROQUIAS RURALES 🚨  
->   
-> Debido a la suspensión del servicio eléctrico nacional del 18 al 19 de septiembre, el suministro de agua potable se verá afectado.  
->   
-> ⚠️ Recomendamos:  
-> – Abastecerse de agua para el jueves 19 [pic.twitter.com/S3Zeab27NE](https://t.co/S3Zeab27NE)
-> 
-> — Interagua C. Ltda (@interagua) [September 16, 2024](https://twitter.com/interagua/status/1835776741136068652?ref_src=twsrc%5Etfw)
-
-Durán tampoco tendrá agua potable
----------------------------------
-
-La Empresa Municipal de Agua Potable y Alcantarillado de Durán (**Emapad**) hizo un anuncio similar.
-
-La Emapad informó que los cortes de luz para este miércoles y jueves afectarán la producción de los pozos de agua en El **Chobo**.
-
-El circuito norte tendrá una distribución con **baja presión** la noche del miércoles.
-
-Mientras que en mañana del jueves, el suministro **se suspenderá por completo** “ya que se procederá con los protocolos de encendido de los siete pozos y la respectiva recuperación de los niveles de agua”, manifestó la empresa.  
-
-> Ante el corte de energía programado a nivel nacional entre las 22h00 del miércoles 18 de septiembre, y las 6h00 del jueves 19 de septiembre, informamos a la ciudadanía👇🏼[@CHONILLOec](https://twitter.com/CHONILLOec?ref_src=twsrc%5Etfw)[#PrimeroEsElAgua](https://twitter.com/hashtag/PrimeroEsElAgua?src=hash&ref_src=twsrc%5Etfw)💧 [pic.twitter.com/qewdHqsV3E](https://t.co/qewdHqsV3E)
-> 
-> — EMAPAD-EP (@EMAPAD\_EP) [September 16, 2024](https://twitter.com/EMAPAD_EP/status/1835760900734894352?ref_src=twsrc%5Etfw)
-
-Sospechoso de intentar asesinar a Trump estuvo al acecho durante casi 12 horas en Florida
-=========================================================================================
-
-Ryan Routh cuenta con varios antecedentes penales en Carolina del Norte.
-------------------------------------------------------------------------
-
-![Fotografía divulgada por la Oficina del Alguacil del condado de Martin donde se muestra el momento del arresto de Ryan Routh, sospechoso de intentar asesinar al expresidente Donald Trump, la tarde del domingo en las afueras de un club de golf propiedad de Trump en Palm Beach, Florida. EFE/Alguacil Condado Martin](https://www.elcomercio.com/wp-content/uploads/2024/09/rss-efed81a6243341361df74417ea4f85f175cffb2c45fw.jpg)
-
-**Ryan Routh**, acusado este lunes 16 de septiembre de dos cargos federales relacionados con armas de fuego, estuvo durante casi 12 horas al acecho para supuestamente **intentar asesinar** al expresidente de EE.UU., [Donald Trump](https://www.elcomercio.com/actualidad/trump-responsabiliza-retorica-comunista-posible-nuevo-intento-asesinato.html "https://www.elcomercio.com/actualidad/trump-responsabiliza-retorica-comunista-posible-nuevo-intento-asesinato.html").
-
-![El sheriff Ric Bradshaw (d) del condado de Palm Beach habla junto al agente especial a cargo Jeffrey B. Veltri (i) de la oficina de campo del FBI en Miami, durante una conferencia de prensa sobre el intento de asesinato del expresidente Donald Trump. EFE/EPA/CRISTOBAL HERRERA-ULASHKEVICH
-](https://www.elcomercio.com/wp-content/uploads/2024/09/rss-efe6aeaeb6bb9f6d345ee3007ad7b89b2cabe50ae3ew-1000x667.jpg)
-
-De acuerdo a la Fiscalía federal, que lo señala por posesión de un arma de fuego siendo un delincuente convicto y posesión de un arma de fuego con un **número de serie borrado**, el hombre había estado circulando desde la 1:59 , es decir por casi 12 horas, en las inmediaciones del campo de golf.
-
-[https://www.elcomercio.com/wp-content/uploads/2024/09/rss-efebef31fa1-848f-4da9-a35d-af3578acb2a1-hd-web.mp4](https://www.elcomercio.com/wp-content/uploads/2024/09/rss-efebef31fa1-848f-4da9-a35d-af3578acb2a1-hd-web.mp4)
-
-El hecho, ocurrido en la tarde del domingo en un club de golf en Palm Beach de propiedad de Trump, y que el FBI investiga como “un intento de asesinato”, también es investigado por las autoridades de Florida, según informó el gobernador de ese estado, Ron DeSantis.
-
-Routh, quien cuenta con varios antecedentes penales en Carolina del Norte, incluida una condena en 2002 por “posesión de un arma de muerte y destrucción masiva”, la cual le impedía volver a portar un arma de fuego, afronta un máximo de 20 años en prisión y medio millón de dólares en multas.
-
-Routh, un desencantado de Trump
--------------------------------
-
-A diferencia de Butler, donde el republicano resultó herido en una oreja por uno de los disparos, en esta ocasión el sospechoso, Ryan Wesley Routh, **no llegó a apretar el gatillo** desde su escondite detrás de unos arbustos, ya que fue divisado por un agente del Servicio Secreto que le disparó y motivó su huida.
-
-El sospechoso fue detenido unos 45 minutos después de que escapara del campo de golf, mientras conducía su camioneta rumbo al norte por una **carretera interestatal.**
-
-En el lugar donde se encontraba Routh, entre los arbustos, dejó el arma, un rifle de asalto AR-47 con mira telescópica, dos mochilas y una cámara deportiva GoPro.
-
-El sospechoso, que podría afrontar más **cargos federales y estatales**, había votado por el republicano en 2016, pero se encontraba “decepcionado” de su mandato y en los últimos meses había declarado en redes sociales su firme defensa de Ucrania y hasta viajó a ese país para tratar de enrolarse en su Ejército y luchar contra los rusos.
-
-“Yo y el mundo esperábamos que el presidente Trump fuera diferente y mejor que cuando era candidato, pero todos estábamos muy decepcionados y parece que estás empeorando… **Me alegraré cuando te vayas”,** llegó a escribir en internet.
-
-Según datos oficiales, Routh votó de forma presencial por los demócratas en las elecciones primarias de 2024 en Carolina del Norte, estado donde nació, fue a la universidad y pasó mayor parte de su vida, si bien su dirección actual es en Hawai, donde trabaja en construcción.
-
-Routh deberá presentarse nuevamente en la corte el próximo lunes para una audiencia de fianza, y el 30 de septiembre para la de lectura de cargos.
-
-Ataque en Manta genera ajustes en estrategias de Bloque de Seguridad
-====================================================================
-
-Hechos delictivos orillan al Bloque de Seguridad a desarrollar nuevas acciones.
--------------------------------------------------------------------------------
-
-![El Bloque de Seguridad se pronunció este 16 de septiembre de 2024.](https://www.elcomercio.com/wp-content/uploads/2024/09/bloque-de-seguridad-manta.jpg)
-
-Atentados y homicidios son parte del panorama que se mantiene en poblados de Manabí, Guayas, entre otros puntos de **Ecuador**. **Manta** es uno de los sitios intervenidos por policías y militares[.](https://es.wikipedia.org/wiki/Ecuador)[](https://es.wikipedia.org/wiki/Ecuador)
-
-Este lunes, 16 de septiembre de 2024, el **Bloque de Seguridad**, que está desplegado en zonas consideradas en riesgo, informó sobre acciones realizadas y los ajustes.
-
-### Más noticias
-
-* [Salinas y Manta viven escenas de terror por ataques armados e incendio de un vehículo](https://www.elcomercio.com/actualidad/seguridad/salinas-y-manta-viven-escenas-de-terror-por-ataques-armados-e-incendio-de-un-vehiculo.html)
-* [Policía Nacional captura a nueve presuntos integrantes de Los Lobos](https://www.elcomercio.com/actualidad/seguridad/policia-nacional-captura-a-nueve-presuntos-integrantes-de-los-lobos.html "Policía Nacional captura a nueve presuntos integrantes de Los Lobos")
-* [En Quito, los siniestros de tránsito provocan más muertes que los crímenes violentos](https://www.elcomercio.com/actualidad/quito/en-quito-los-siniestros-de-transito-provocan-mas-muertes-que-los-crimenes-violentos.html "En Quito, los siniestros de tránsito provocan más muertes que los crímenes violentos")
-* [Juez toma medidas contra el otro involucrado en la muerte del chofer de Cayambe](http://Juez toma medidas contra el otro involucrado en la muerte del chofer de Cayambe)
-
-> 🚨[#ATENCIÓN](https://twitter.com/hashtag/ATENCI%C3%93N?src=hash&ref_src=twsrc%5Etfw)  
-> Inicia la [#RuedaDePrensa](https://twitter.com/hashtag/RuedaDePrensa?src=hash&ref_src=twsrc%5Etfw) para informar sobre las operaciones semanales realizadas por el [#BloqueDeSeguridad](https://twitter.com/hashtag/BloqueDeSeguridad?src=hash&ref_src=twsrc%5Etfw) a escala nacional.  
->   
-> Sigue la rueda de prensa en vivo ⬇️[https://t.co/z0OrdNYG4w](https://t.co/z0OrdNYG4w)
-> 
-> — Ministerio del Interior Ecuador 🇪🇨 (@MinInteriorEc) [September 16, 2024](https://twitter.com/MinInteriorEc/status/1835696251477614655?ref_src=twsrc%5Etfw)
-
-La violencia en Manta y otros puntos
-------------------------------------
-
-Este domingo, 15 de septiembre de 2024, presuntos delincuentes prendieron fuego a un auto. Este se estrelló contra una casa. Este hecho se dio en el barrio **Las Vegas**, en la parroquia **Eloy Alfaro**, en **Manta**.
-
-Este hecho violento no es el único reportado en **Manta**, incluyendo homicidios.
-
-No obstante, este 16 de septiembre, **Mónica Palencia**, ministra del Interior, en rueda de prensa, informó que desde la intervención del **Bloque de Seguridad** hay una **reducción del 37% de homicidios intencionales**.
-
-Eso entre junio y el 15 de septiembre de 2024, en comparación al mismo período de 2023, pasando de **75 a 47 hechos violentos**.
-
-A escala nacional, en cambio, **Palencia** reportó que en el comparativo de 2024 y 2023, entre el 1 de enero y el 15 de septiembre, la baja fue del 17%.
-
-Acciones anunciadas para el cantón manabita
--------------------------------------------
-
-Desde el **Bloque de Seguridad** indicaron que, este 16 de septiembre de 2024, se reunirían para evaluar y ajustar estrategias, coordinando con **Fuerzas Armadas y Policía Nacional**.
-
-Una de las estrategias será realizar cercos para prevenir que las **actividades delictivas** se sigan expandiendo.
-
-**Manta** es parte de los tres territorios intervenidos por el **Bloque de Seguridad**. A esta localidad se suman Durán y Los Ríos.
-
-Violencia en Monte Sinaí
-------------------------
-
-**Monte Sinaí**, en Guayas, es otro de los puntos donde se produjeron hechos violentos durante el fin de semana.
-
-El **Bloque de Seguridad** informó que, mediante uso legítimo de la fuerza, una operación militar en el sitio dejó tres presuntos delincuentes abatidos.
-
-> ¡Por medio del Uso Legítimo de la Fuerza, operación militar en Monte Sinaí dejó 3 presuntos delincuentes abatidos!  
->   
-> ➡️Tras un gran despliegue militar, realizando un control de armas, municiones y explosivos, militares identificaron un vehículo que intentó huir, haciendo caso… [pic.twitter.com/a7X42oa2ba](https://t.co/a7X42oa2ba)
-> 
-> — Ministerio de Defensa Nacional del Ecuador (@DefensaEc) [September 16, 2024](https://twitter.com/DefensaEc/status/1835754054435102967?ref_src=twsrc%5Etfw)
-
-El hecho ocurrió este domingo, 15 de septiembre de 2024, cuando personal militar desplegó acciones para precautelar la **seguridad**.
-
-Los tres presuntos integrantes de **grupos de delincuencia organizada** atentaron contra los elementos militares. Uno más resultó herido.
-
-Los argumentos
---------------
-
-Los militares realizaban un operativo de control de **armas, municiones y explosivos**, cuando detectaron un vehículo sospechoso que no acató la disposición de detenerse. Los ocupantes del automotor abrieron fuego contra los efectivos.
-
-Se inició una persecución, en la que también intervino Aeropolicial, el **Grupo de Operaciones Especiales (GOE)**, motorizados y Criminalística de la **Policía Nacional**.
-
-Desde el **Bloque de Seguridad** informaron que la presencia militar y policial, así como el uso de tanquetas y helicópteros, se mantendrá en el sector hasta nuevo aviso.
-
-Alisha Lehmann critica diferencia salarial entre el fútbol femenino y masculino
-===============================================================================
-
-Alisha Lehmann fue la principal contratación del equipo femenino de la Juventus en el verano de 2024. Juega como delantera.
----------------------------------------------------------------------------------------------------------------------------
-
-![Alisha Lehmann con la Juventus de Turín en la temporada 2024.](https://www.elcomercio.com/wp-content/uploads/2024/09/lemhan_salario_2.jpg)
-
-**Alisha Lehmann (Suiza) y Douglas Luiz (Brasil)** no solo comparten una relación sentimental, sino que también en el mercado de fichajes del reciente verano europeo ficharon por la Juventus de Italia.
-
-Lehmann fue **contratada hasta junio de 2027 por una cifra no revelada**, mientras que Luiz firmó hasta junio de 2029 a cambio de más de 55 millones de dólares más variantes que elevan su valor final.
-
-### Más noticias:
-
-* [Barcelona SC gana](https://www.elcomercio.com/deportes/futbol/barcelonasc-macara-resultado-ligapro-tabla-posiciones.html "Barcelona SC gana al Macará y vuelve a la pelea por la etapa") [](https://www.elcomercio.com/deportes/futbol/barcelonasc-macara-resultado-ligapro-tabla-posiciones.html "Barcelona SC gana al Macará y vuelve a la pelea por la etapa")[al Macará y vuelve a la pelea por la etapa](https://www.elcomercio.com/deportes/futbol/barcelonasc-macara-resultado-ligapro-tabla-posiciones.html "Barcelona SC gana al Macará y vuelve a la pelea por la etapa")
-* [Gonzalo Plata brilla en Flamengo tras un debut auspicioso](https://www.elcomercio.com/deportes/futbol/gonzalo-plata-flamengo-debut-brasil-vasco.html "Gonzalo Plata brilla en Flamengo tras un debut auspicioso")
-* [Deportivo Quito jugará el torneo de ascenso a la Serie B](https://www.elcomercio.com/deportes/futbol/deportivo-quito-jugara-el-torneo-de-ascenso-a-la-serie-b.html "Deportivo Quito jugará el torneo de ascenso a la Serie B")
-
-Ambos deportistas dejaron la **disciplina del Aston Villa para mudarse a Turín** con un impacto mediático que alborotó las tranquilidad de las redes sociales de los italianos, especialmente del equipo femenino que encontró en la jugadora un nuevo imán para atraer a más seguidores en sus cuentas oficiales.
-
-Cuenta con más de **17 millones de seguidores en Instagram y 10 millones en TikTok**, incluso por encima de equipos Juventus (cinco veces campeonas de Italia), Barcelona (vigentes campeonas de Europa) y Real Madrid femenil (equipo más popular del mundo), que unidas no llegan al número de la jugadora.
-
-“Es un sueño estar en el mismo club que él. Hemos ido jugando en ciudades diferentes y ahora es maravilloso poder coincidir”, declaró Lehmann en la presentación con la Juventus, tras ser consultada sobre el hecho de ser contratada por el mismo club de su pareja, en julio pasado.
-
-El nombre de Lehmann volvió a la primera plana tras una **entrevista concedida a La Gazzetta dello Sport**, donde critica abiertamente la diferencia abismal de salarios que existe entre hombres y mujeres.
-
-![Foto: Instagram de la deportista.](https://www.elcomercio.com/wp-content/uploads/2024/09/lemhan_salario_1-1024x683.jpg)
-
-Foto: Instagram de la deportista.
-
-Alisha Lehmann y sus explosivas declaraciones
----------------------------------------------
-
-“A todos les gustaría tener el mismo salario. A menudo hablo con Douglas en casa sobre esto y le digo que no es justo: **hacemos el mismo trabajo, pero te pagan cien veces más que a mí**“, dijo la deportista sobre la remuneración que reciben los dos por jugar al fútbol.
-
-“Es algo que me afecta porque soy mujer. Obviamente, el camino que tenemos aún queda mucho por recorrer porque quizás nunca habrá igualdad salarial. **Tendrá que haber una voluntad muy fuerte para hacer un cambio en esta dirección**“, agregó sobre lo que tendría que pasar para que la equiparación salarial se haga efectiva.
-
-Criticó el hecho que existe una percepción negativa sobre el fútbol femenino de algunos sectores  
-que aún no le dan el reconocimiento y el trato que se merece.
-
-“Si alguien viene a mí con chistes sobre el fútbol femenino, siempre le pregunto: ‘¿**Alguna vez has visto un partido**?’ (…) No sé por qué la gente todavía piensa así. Estamos en 2024 y tal vez algunos todavía viven detrás de las montañas o de los árboles, no lo sé”, sostuvo.
-
-Sobre su popularidad en redes sociales, comentó que las usa para “**mostrar el fútbol y la cotidianidad de su vida**“, donde realiza todas las actividades que una “persona normal” y no siente que no tiene una vida de “estrella”.
-
-Más noticias – El Confesionario con Iván Vallejo
-------------------------------------------------
-
-‘La Sustancia’ y el retorno del horror corporal
-===============================================
-
-'La Sustancia' de Coralie Fargeat explora la obsesión con la juventud y los estándares de belleza, combinando horror corporal con crítica social en un relato cautivador.
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-![La actriz Demi Moore encarna a Elisabeth Sparkle.](https://www.elcomercio.com/wp-content/uploads/2024/09/The-Substance.jpg)
-
-**‘La Sustancia’ (The Substance)** es la película ganadora del premio al mejor guion en el **Festival de Cannes de 2024.** Coralie Fargeat dirige esta cinta de horror corporal que cuenta con las actuaciones de **Demi Moore y Margaret Qualley**.
-
-Así, el horror corporal parece haber regresado con fuerza, ya sea con **‘Titane’ (2021), ‘Crímenes del futuro (2022)’, ‘Muerte infinita’ (2023) y, desde luego, ‘La Sustancia’**. Fargeat usa este subgénero para tocar las fibras del espectador, utilizando la deformación del cuerpo para reforzar su mensaje.
-
-El hilo de ‘La sustancia’
--------------------------
-
-La película cuenta la historia de una celebridad que, al cumplir 50 años, es despedida. **Elisabeth Sparkle**, interpretada por Demi Moore, recibe la oportunidad de probar una nueva droga del mercado negro que le permitirá convertirse en una versión más joven de sí misma.
-
-Moore regresa a la gran pantalla por todo lo alto. La legendaria actriz vuelve a mostrar su habilidad para comandar cada escena, lo que contrasta con momentos que revelan la fragilidad de su personaje; desnudándose, a veces de forma literal, ante un espejo que proyecta una imagen que a su personaje no le termina de cuadrar.
-
-**Margaret Qualley** no se queda atrás; la joven actriz está teniendo un año increíble. Habiendo codirigido y protagonizado el video musical de la banda Bleachers en enero, su colaboración con **Ethan Coen** en **‘El amor es un viaje en trineo al infierno’** (2024) y, más recientemente, su aparición en [‘Tipos de gentileza’](https://www.elcomercio.com/afull/cine-y-series/tipos-gentileza-cines-critica.html "‘Tipos de gentileza’ tiene tres historias distintas y un mismo elenco") (2024) de **Yorgos Lanthimos.**
-
-Qualley interpreta a Sue, la versión joven de **Elisabeth Sparkle**. En la película, explota su _sex-appeal_, revelando la irónica e incontrolable hambre por el estrellato de su personaje, así como sus quiebres emocionales ante la posibilidad de no cumplir con los estándares de belleza que le imponen.
-
-El luego de los planos
-----------------------
-
-Fargeat juega constantemente con los planos holandeses y prioriza lentes angulares que distorsionan a los personajes. Planta desde el inicio las semillas de momentos que nos harán cuestionar nuestra dieta, retratando la comida de tal forma que nunca querrás volver a ver una pierna de pollo. Y es que la Sustancia juguetea con muchas ideas, principalmente con nuestra enfermiza obsesión con la juventud. Y, lejos de sentirse como un sermón, encuentra un fantástico equilibrio entre lo ridículamente cómico y lo espantosamente incómodo.
-
-La peligrosa fusión entre nuestro pavor a la muerte y nuestro instinto de supervivencia se ve representada en Elisabeth Sparkle. El envejecer está prohibido en este mundo de pantallas, pero para las mujeres lo está aún más. No es difícil encontrar historias de actrices que, tras cumplir cierta edad, dejaron de recibir papeles.
-
-Así, Fargeat retrata el lado más nocivo de la masculinidad. No toda figura masculina es un villano, pero son demasiados los villanos en situación de poder, y esos hombres determinan el valor de Elisabeth Sparkle y también el de Sue.
-
-En ambas podemos ver el reflejo de nuestra inseguridad, impuesta por los estándares de belleza de nuestra sociedad. Tal vez nosotros solo recurrimos a la crema antiarrugas, pero el principio es el mismo, y Fargeat nos pone el dedo en la llaga.
-
-Y podría parecer excesivo, pero nuestra fijación con la juventud es tal que muchos estarían dispuestos a partirse el lomo con tal de recuperarla. La Sustancia nos invita a preguntarnos, de manera divertida y algo macabra: ¿y si todos somos simplemente un montón de carne y huesos en este mundo innecesariamente cruel?
-
-### Más noticias:
-
-* [Se acerca el cumpleaños de Batman](https://www.elcomercio.com/tendencias/cultura/batman-cumpleanos-85-batmanday.html)
-* [‘Los Goonies’ regresan con secuela y elenco original](https://www.elcomercio.com/tendencias/cine/goonies-cine-peliculas-secuela.html)
-* [Disney enfrenta demanda por ‘revivir’ digitalmente al actor Peter Cushing](https://www.elcomercio.com/afull/disney-demanda-peter-cushing.html) 
-
-‘The Substance’ (La Sustancia)
-------------------------------
-
-**Director:** [Coralie Fargeat](https://en.wikipedia.org/wiki/Coralie_Fargeat)
-
-**Reparto:** [Demi Moore](https://en.wikipedia.org/wiki/Demi_Moore), [Margaret Qualley](https://en.wikipedia.org/wiki/Margaret_Qualley), [Dennis Quaid](https://en.wikipedia.org/wiki/Dennis_Quaid)…
-
-**Año:** 2024
-
-**Plataforma:** En cines
-
-**Calificación:** Muy buena
-
-Octavio Rivero, el delantero que ilusiona a los hinchas de Barcelona SC
-=======================================================================
-
-Un nuevo goleador ha llegado a Barcelona SC y, poco a poco, se está ganando el corazón de los aficionados.
-----------------------------------------------------------------------------------------------------------
-
-![Octavio Rivero es el goleador de Barcelona SC en la segunda etapa de la Liga Pro.](https://www.elcomercio.com/wp-content/uploads/2024/09/ENDRICK-PALMEIRAS-2024-09-16T160842.651.jpg)
-
-**Octavio** **Rivero** arribó a **Barcelona SC** para el segundo semestre de 2024 rodeado de dudas e incertidumbre, ya que tenía la difícil tarea de reemplazar a Francisco Fydriszewski, uno de los mejores delanteros que había llegado al ‘Ídolo’ en los últimos años.
-
-Además de la presión que rodeaba esa posición clave, su edad y su bajo registro goleador en las últimas temporadas no generaban grandes expectativas entre los hinchas barcelonistas.
-
-### Más noticias:
-
-* [Barcelona SC retoma el rumbo en Liga Pro, ¿cuándo será su próximo partido?](https://www.elcomercio.com/deportes/barcelonasc-retoma-el-rumbo-en-liga-pro-cuando-sera-su-proximo-partido.html "Barcelona SC retoma el rumbo en Liga Pro, ¿cuándo será su próximo partido?")
-* [Barcelona SC gana al Macará y vuelve a la pelea por la etapa](https://www.elcomercio.com/deportes/futbol/barcelonasc-macara-resultado-ligapro-tabla-posiciones.html "Barcelona SC gana al Macará y vuelve a la pelea por la etapa")
-* [Octavio Rivero le dio el triunfo a Barcelona SC sobre Universidad Católica](https://www.elcomercio.com/deportes/futbol/barcelonasc-universidad-catolica-partido-resultado-ligapro.html "Octavio Rivero le dio el triunfo a Barcelona SC sobre Universidad Católica")
-
-Sin embargo, el ariete uruguayo, **a base de garra, entrega y, sobre todo, goles**, se está ganando a la afición, logrando que no se extrañe tanto la sensible baja del ‘Polaco’.
-
-Octavio Rivero, garantía de goles en Barcelona SC
--------------------------------------------------
-
-**Octavio Rivero e**s uno de los delanteros con mejor ritmo en la segunda etapa de la Liga Pro. Con apenas seis partidos disputados en el torneo ecuatoriano, ya se ha metido entre los **máximos goleadores**.
-
-El uruguayo ha marcado en cinco de los seis partidos que ha jugado.
-
-Su primera anotación fue en su debut en la **Liga Pro** contra Imbabura. Luego, le convirtió a Independiente del Valle, Orense, Universidad Católica, y sus más recientes goles llegaron en el encuentro contra Macará, en el que anotó por duplicado.
-
-Su **promedio goleador es impresionante**, ya que en el campeonato ecuatoriano registra un gol por partido.
-
-A nivel general, Rivero suma seis goles en nueve partidos, aunque no ha podido marcar en la Copa Sudamericana ni en la Copa Ecuador, torneos de los que **Barcelona SC** ya ha sido eliminado.
-
-¿Cuál será su próxima víctima?
-------------------------------
-
-El siguiente rival de Barcelona SC, y posible próxima víctima del delantero charrúa, será **Deportivo** **Cuenca**, en un partido correspondiente a la séptima jornada de la segunda etapa de la Liga Pro.
-
-El encuentro se disputará el sábado 21 de septiembre, a las 19:00, en el Estadio Alejandro Serrano Aguilar.
-
-Este compromiso será una dura prueba para **Barcelona SC,** ya que los morlacos están urgidos de sumar puntos, con apenas una unidad en esta segunda etapa, y corren peligro de descender en la tabla acumulada.
-
-Donald Trump lanza video contra Kamala Harris con el tema Juliana qué mala eres
-===============================================================================
-
-El estribillo de Qué mala Kamala hace eco de Juliana, la canción éxito del dominicano Cuco Valoy.
--------------------------------------------------------------------------------------------------
-
-![Donald Trump durante una rueda de prensa.](https://www.elcomercio.com/wp-content/uploads/2024/09/Donald-cut-25-junio.webp)
-
-La campaña del expresidente [Donald Trump](https://www.elcomercio.com/actualidad/trump-responsabiliza-retorica-comunista-posible-nuevo-intento-asesinato.html "https://www.elcomercio.com/actualidad/trump-responsabiliza-retorica-comunista-posible-nuevo-intento-asesinato.html") lanzó Qué mala Kamala, una canción a ritmo de salsa dirigida a los votantes latinos, un electorado clave que podría inclinar la balanza en los resultados de las elecciones de noviembre próximo de 2024.
-
-### Más noticias
-
-* [Jefa de la campaña de Kamala Harris advierte sobre la retórica de Donald Trump](https://www.elcomercio.com/actualidad/mundo/jefa-campana-harris-advierte-retorica-de-trump.html "Jefa de la campaña de Kamala Harris advierte sobre la retórica de Donald Trump ")
-* [Kamala Harris y Donald Trump son respaldados por varias celebridades](https://www.elcomercio.com/actualidad/mundo/kamala-harris-donald-trump-son-respaldados-varias-celebridades.html "Kamala Harris y Donald Trump son respaldados por varias celebridades")
-* [Kamala Harris aventaja a Donald Trump entre latinos](https://www.elcomercio.com/actualidad/mundo/kamala-harris-aventaja-a-donald-trump-entre-latinos.html "Kamala Harris aventaja a Donald Trump entre latinos")
-
-El video lanzado en coincidencia con el inicio de las **celebraciones del Mes de la Herencia Hispana** en EE.UU. hace parte de los esfuerzos de la **campaña republicana** por captar a este electorado que. Aunque no es monolítico, según las última encuesta de BSP Research se ha decantado por la vicepresidenta Kamala Harris con un 57 %.
-
-El estribillo de **Qué mala Kamala** hace eco de **Juliana,** la canción éxito del dominicano Cuco Valoy, que junto a su coro cantaba “Juliana qué mala eres, qué mala eres Juliana”.
-
-En el video aparece Trump manejando un **carro de golf** y diciendo que tiene una buena lista de música antes de reproducir el tema, que incluye varias imágenes de la vicepresidenta de Estados Unidos, **Kamala Harris, riendo a carcajadas.**
-
-En un comunicado, Jaime Florez, director de comunicaciones hispanas de la campaña de Trump y del Partido Republicano, cargó contra la **candidata demócrata Harris** al asegurar que “está tratando de traer las mismas políticas comunistas fallidas del Gobierno de Joe Biden”.
-
-“El expresidente Trump protegerá el sueño americano y hará que la vida vuelva a ser asequible para nuestras familias”, dijo Florez, y agregó que durante todo el mes que se celebra la Herencia Hispana- Desde este domingo a octubre 15- se compartirán mensajes relacionados con la comunidad latina.
-
-En junio pasado, la campaña republicana lanzó **‘Latin American for Trump’,** una coalición con latinos destacados en todos los campos, incluidos la industria, el comercio, la educación, los deportes, la fe, las comunicaciones y funcionarios electos.
-
-Harris también va con videos
-----------------------------
-
-Harris no se queda atrás y este fin de semana lanzó el video ‘Luchadora’, dirigido a hombres latinos, en el que se destaca la labor de la demócrata para mejorar la situación en la frontera y su trabajo como fiscal en la lucha contra los cárteles, traficantes de personas y bandas internacionales.
-
-No obstante, ambos partidos deberán **ampliar sus esfuerzos para conquistar el electorado hispano,** que este año alcanzará en noviembre un “récord” de 17,5 millones de votantes latinos, según las proyecciones de la Asociación Nacional de Funcionarios Electos y Designados (Naleo).
-
-Cortes de luz provocarán suspensión de al menos 6 servicios este miércoles 18 de septiembre
-===========================================================================================
-
-El presidente Daniel Noboa dispuso un mantenimiento preventivo en el Sistema Nacional de Transmisión y redes eléctricas, que implicará una suspensión del servicios
--------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-![El servicio de luz se suspenderá desde desde las 22:00 del miércoles 18 de septiembre, hasta las 06:00 del jueves 19. Foto: Pexels](https://www.elcomercio.com/wp-content/uploads/2024/09/apagon.jpg)
-
-El Gobierno de **Daniel Noboa** anunció que la noche del miércoles 18 de septiembre de 2024 se suspenderá el servicio de luz a escala nacional desde las 22:00 hasta las 06:00 del jueves 19 de septiembre.
-
-Durante este período se realizará un mantenimiento preventivo en todas las instalaciones del Sistema Nacional de Transmisión y redes de distribución de energía eléctrica[.](https://es.wikipedia.org/wiki/Ecuador "https://es.wikipedia.org/wiki/Ecuador")
-
-### Más noticias
-
-* [Gobierno declara toque de queda por cortes de luz a escala nacional](https://www.elcomercio.com/actualidad/seguridad/gobierno-declara-toque-queda-por-cortes-luz-a-escala-nacional.html "Gobierno declara toque de queda por cortes de luz a escala nacional")
-* [Daniel Noboa dispone corte de luz nacional por mantenimientos](https://www.elcomercio.com/actualidad/ecuador/daniel-noboa-corte-de-luz-nacional-por-mantenimiento-apagon.html "Daniel Noboa dispone corte de luz nacional por mantenimientos")
-* [El embalse de Mazar se acerca a su nivel crítico, ¿habrá cortes de luz?](https://www.elcomercio.com/actualidad/negocios/embalse-mazar-nivel-critico-cortes-de-luz-ecuador.html "El embalse de Mazar se acerca a su nivel crítico, ¿habrá cortes de luz?")
-
-Así estarán estos servicios durante los cortes de luz
------------------------------------------------------
-
-1. **Alumbrado público**. La iluminación de las vías del país se verá afectada durante el corte de luz de ocho horas anunciado por el Gobierno. Las vías permanecerán oscuras, ya que no se puede separar el servicio de alumbrado público de las residencias, explicó **Ricardo Buitrón**, experto en el tema energético.
-2. **Servicio de telefonía celular e internet.** Durante el corte de luz habrá interrupciones en los servicios de telefonía móvil e Internet. La razón es que la electricidad es vital para el funcionamiento de las redes de telecomunicaciones. Las bases de estas redes cuentan con baterías, sin embargo, su autonomía es de entre 4-6 horas máximo. Pero, con todo el Ecuador a oscuras, las baterías no darán abasto por más de 1 hora.
-3. **Hospitales, maternidad y clínicas del país.** Se prevé que las aéreas críticas de los 134 hospitales y maternidades públicos trabajen con normalidad durante la suspensión de energía. Por lo general, las casas de salud tienen sus propios generadores para abastecer sus áreas críticas como emergencia, unidad de cuidados intensivos, neonatología, centro quirúrgico, obstetricia, radiología, laboratorio, entre otras. Mientras que, las áreas administrativas, hospitalización y las áreas no críticas no contarán con energía.
-4. **Cárceles del Ecuador.** Las 35 centros de privación de libertad del Ecuador cuentan con protocolos establecidos que se aplicarán durante el corte de luz anunciado para la noche de este miércoles y madrugada del jueves próximo. Estos centros carcelarios albergan a más de 30 000 privados de libertad.
-5. **Clases nocturnas.** Las instituciones educativas que brindan ofertas educativas en las modalidades presencial y semipresencial en horario nocturno, deberán anticipar la salida de los estudiantes. Es decir, con el tope máximo de las 20:00.
-6. **Seguridad y toque de queda.** Durante el corte de luz, el Ministerio de Gobierno anunció un toque de queda, aunque no especificó el horario del mismo. Durante las ocho horas de suspensión de energía estarán desplegados 70 000 uniformados en todo el país para brindar seguridad.
