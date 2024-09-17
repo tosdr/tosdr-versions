@@ -305,43 +305,43 @@ Advertise
 [BOSS Financial Review](https://www.afr.com/boss)
 -------------------------------------------------
 
-[![Pilbara Minerals chief Dale  Henderson is a competitive beast. ](https://static.ffx.io/images/$zoom_0.2783%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_612%2C$y_175/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/169d7931d0cee4ee8be063561539f888f9e708f4)](https://www.afr.com/work-and-careers/leaders/meet-the-lithium-high-climber-taking-on-the-short-sellers-20240828-p5k5y7)
+[![ ](https://static.ffx.io/images/$zoom_0.6623%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/13720cd435a985d8297e1478446d8c5fe0b876cc)](https://www.afr.com/work-and-careers/leaders/what-this-ceo-learnt-from-mike-cannon-brookes-and-scott-farquhar-20240913-p5kach)
 
-### [Meet the lithium high-climber taking on the short sellers](https://www.afr.com/work-and-careers/leaders/meet-the-lithium-high-climber-taking-on-the-short-sellers-20240828-p5k5y7)
+### [What this CEO learnt from Mike Cannon-Brookes and Scott Farquhar](https://www.afr.com/work-and-careers/leaders/what-this-ceo-learnt-from-mike-cannon-brookes-and-scott-farquhar-20240913-p5kach)
 
-* Brad Thompson
+* Sally Patten and Lap Phan
 
-* ### [The one family rule these married co-CEOs (and ex-EY execs) stick to](https://www.afr.com/work-and-careers/leaders/the-one-family-rule-these-married-co-ceos-stick-to-20240814-p5k2eh)
+* ### [Meet the lithium high-climber taking on the short sellers](https://www.afr.com/work-and-careers/leaders/meet-the-lithium-high-climber-taking-on-the-short-sellers-20240828-p5k5y7)
     
-* ### [Why doubling down on KPIs could hurt your bottom line](https://www.afr.com/work-and-careers/management/why-doubling-down-on-kpis-could-hurt-your-bottom-line-20240808-p5k0uf)
+* ### [The one family rule these married co-CEOs (and ex-EY execs) stick to](https://www.afr.com/work-and-careers/leaders/the-one-family-rule-these-married-co-ceos-stick-to-20240814-p5k2eh)
     
 
 [Life & Leisure](https://www.afr.com/life-and-leisure)
 ------------------------------------------------------
 
-[![ ](https://static.ffx.io/images/$zoom_0.3313%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_102/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/6571391075cdabc25b6680b79efbe2e7055c798a)](https://www.afr.com/life-and-luxury/fashion-and-style/do-these-1275-pants-live-up-to-the-hype-20240717-p5juh4)
+[![ ](https://static.ffx.io/images/$zoom_0.7575%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_705%2C$y_463/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/dbcb0104fd9286656133f89b33655e896c68229e)](https://www.afr.com/technology/new-asus-notebook-falls-short-of-great-expectations-20240912-p5k9z0)
 
-### [Do these $1275 pants live up to the hype?](https://www.afr.com/life-and-luxury/fashion-and-style/do-these-1275-pants-live-up-to-the-hype-20240717-p5juh4)
+### [New Asus notebook falls short of great expectations](https://www.afr.com/technology/new-asus-notebook-falls-short-of-great-expectations-20240912-p5k9z0)
 
-* Lauren Sams
+* John Davidson
 
-* ### [The sublime Greek island a ferry ride away from the madding crowds](https://www.afr.com/life-and-luxury/travel/the-sublime-greek-island-a-ferry-ride-away-from-the-madding-crowds-20240705-p5jrhg)
+* ### [Raised on STEM subjects, this tech leader finally has a use for art](https://www.afr.com/life-and-luxury/health-and-wellness/raised-on-stem-subjects-this-tech-leader-finally-has-a-use-for-art-20240910-p5k9b2)
     
-* ### [Spring to it with a beaded butterfly bag and other fresh treats](https://www.afr.com/life-and-luxury/fashion-and-style/spring-to-it-with-a-beaded-butterfly-bag-and-other-fresh-treats-20240827-p5k5sf)
+* ### [Heaven scent or mouldy stinker? Exclusive aromas are getting ‘out there’](https://www.afr.com/life-and-luxury/fashion-and-style/heaven-scent-or-mouldy-stinker-exclusive-aromas-are-getting-out-there-20240902-p5k77h)
     
 
 [Rich List](https://www.afr.com/rich-list)
 ------------------------------------------
 
-[![Boneo Park hosts some of the country’s premier equestrian events.](https://static.ffx.io/images/$zoom_0.9977%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_514%2C$y_201/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/4572a68f4678a00c5b20e8d4ca67bb8e5b323424)](https://www.afr.com/property/commercial/rich-listers-snap-up-top-equestrian-centre-for-less-than-30m-20240916-p5kavu)
+[![   ](https://static.ffx.io/images/$zoom_0.9819%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_254/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/245f265a2e799a3442c2102cf440621dc7bc0969)](https://www.afr.com/wealth/personal-finance/the-sad-and-lonely-lives-of-the-world-s-richest-kids-20240912-p5ka2i)
 
-### [Rich Listers snap up top equestrian centre for less than $30m](https://www.afr.com/property/commercial/rich-listers-snap-up-top-equestrian-centre-for-less-than-30m-20240916-p5kavu)
+### [The sad and lonely lives of the world’s richest kids](https://www.afr.com/wealth/personal-finance/the-sad-and-lonely-lives-of-the-world-s-richest-kids-20240912-p5ka2i)
 
-* Larry Schlesinger
+* Kate Wills
 
-* ### [Family trust: Inside the Pratts’ legal soap opera](https://www.afr.com/work-and-careers/leaders/family-trust-inside-the-pratts-legal-soap-opera-20240827-p5k5sh)
+* ### [Rich Listers snap up top equestrian centre for less than $30m](https://www.afr.com/property/commercial/rich-listers-snap-up-top-equestrian-centre-for-less-than-30m-20240916-p5kavu)
     
-* ### [This ex-Macquarie banker toned up Brazil – and made a fortune](https://www.afr.com/wealth/people/this-ex-macquarie-banker-toned-up-brazil-and-made-a-fortune-20240731-p5jy4t)
+* ### [Family trust: Inside the Pratts’ legal soap opera](https://www.afr.com/work-and-careers/leaders/family-trust-inside-the-pratts-legal-soap-opera-20240827-p5k5sh)
     
 
 [The Australian Financial Review](https://www.afr.com/)
