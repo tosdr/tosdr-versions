@@ -276,15 +276,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-“Pensieve” is made up of two words: French for “to think” (“penser”) and an English synonym of “strainer” (“sieve”). A Pensieve strains your thoughts!
+The first autographed copy of Harry Potter and the Half-Blood Prince was shipped across the Atlantic in a trunk and taken via armored truck to a secret location.
 
 ### Potter History
 
-February 10, 2008 – Jim Dale wins a Grammy Award for his reading of the Harry Potter and the Deathly Hallows audiobook.
+January 9, 2006 – The IMAX version of Harry Potter and the Goblet of Fire is revealed to be the highest-grossing IMAX film ever.
 
 ### Potter Quote
 
-“I can, you know, do math and stuff.”
+“Only this morning, for instance, I took a wrong turning on the way to the bathroom and found myself in a beautifully proportioned room I have never seen before, containing a really rather magnificent collection of chamber pots. When I went back to investigate more closely, I discovered that the room had vanished.”
 
 [](#)
 
