@@ -315,6 +315,14 @@ Europe's leading entertainment brand
     
     A trip down memory lane: Milestones from the past three years of the RTL United journey, strengthening RTL as Europe’s leading entertainment brand.](https://www.rtlgroup.com/en/media/overview/press-releases-and-news/Happy-birthday-RTL-United/)
     
+* [![slide-Péter Kolosi on RTL Hungary's autumn programming](/.galleries/images/Peter-Kolosi-interview_Quote-card_16-9.jpg?__scale=undefined&description=)
+    
+    Péter Kolosi on RTL Hungary's autumn programming
+    
+    17.09.2024
+    
+    From returning formats to the Champions League: Péter Kolosi, Chief Content Officer of RTL Hungary, discusses the 2024 autumn programming.](https://www.rtlgroup.com/en/media/overview/press-releases-and-news/Peter-Kolosi-on-RTL-Hungarys-autumn-programming/)
+    
 * [![slide-Stefan Raab signs deal with RTL Deutschland](/.galleries/images/Stefan-Raab_16-9.jpg?__scale=undefined&description=)
     
     Stefan Raab signs deal with RTL Deutschland
@@ -330,14 +338,6 @@ Europe's leading entertainment brand
     10.09.2024
     
     Modernity meets history and sustainability: RTL Hungary has moved part of its operations to a newly renovated building in downtown Budapest.](https://www.rtlgroup.com/en/media/overview/press-releases-and-news/A-new-home-for-RTL-Hungary/)
-    
-* [![slide-RTL Deutschland expands partnership with Vodafone](/.galleries/images/RTL-Deutschland-Vodafone_16-9.jpg?__scale=undefined&description=)
-    
-    RTL Deutschland expands partnership with Vodafone
-    
-    13.09.2024
-    
-    RTL Deutschland extends its partnership with Vodafone to offer content across streaming and linear TV to customers in Germany.](https://www.rtlgroup.com/en/media/overview/press-releases-and-news/RTL-Deutschland-expands-partnership-with-Vodafone/)
     
 * [![slide-RTL Deutschland's 2024 Sustainability Week](/.galleries/images/Sustainability-week-2024_16-9.jpg?__scale=undefined&description=)
     
