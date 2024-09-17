@@ -126,7 +126,7 @@ Originally adapted from the [WordPress Terms of Service](http://en.wordpress.com
 
 * [Home](https://community.e.foundation/)
 * [Categories](https://community.e.foundation/categories)
-* [FAQ/Guidelines](https://community.e.foundation/guidelines)
+* [Guidelines](https://community.e.foundation/guidelines)
 * [Terms of Service](https://community.e.foundation/tos)
 * [Privacy Policy](https://community.e.foundation/privacy)
 
