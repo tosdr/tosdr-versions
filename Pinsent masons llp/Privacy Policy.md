@@ -867,7 +867,7 @@ The data protection and marketing provisions of the Pinsent Masons Standard Term
     
     We explain below any essential differences in how personal data is processed by our international offices.
     
-    ### South Africa
+    #### South Africa
     
     Where our South Africa office provides legal or other services to you or where your personal information is processed in South Africa by us, then, in compliance with data protection law applicable in South Africa, we process personal information relating to identifiable existing legal entities in the same manner as described for the processing of personal data of individuals in this policy.
     
