@@ -125,6 +125,7 @@ Tailor your telecommunications experience to fit your lifestyle with Telecel's f
 * Personal
 * Business
 * About Us
+* Vacancies
 
 * Help & Support
 * Find a shop
