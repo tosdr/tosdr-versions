@@ -78,6 +78,8 @@ Rechercher sur Le Parisien
 * [International](https://www.leparisien.fr/international/)
     
     * [Présidentielle américaine 2024](https://www.leparisien.fr/international/etats-unis/)
+    * [Donald Trump](https://www.leparisien.fr/international/etats-unis/donald-trump/)
+    * [Kamala Harris](https://www.leparisien.fr/international/etats-unis/kamala-harris/)
     * [Guerre Israël-Hamas](https://www.leparisien.fr/international/israel/)
     * [Guerre en Ukraine](https://www.leparisien.fr/crise-ukraine-russie/)
     
