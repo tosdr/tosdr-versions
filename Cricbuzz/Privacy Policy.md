@@ -78,7 +78,7 @@ AllLive NowToday
     
     25th Match
     
-* [Canada vs Nepal  LIVE](https://www.cricbuzz.com/live-cricket-scores/106953/can-vs-nep-26th-match-icc-cwc-league-two-2023-27 "Canada v Nepal, 26th Match - Live")
+* [Canada vs Nepal](https://www.cricbuzz.com/live-cricket-scores/106953/can-vs-nep-26th-match-icc-cwc-league-two-2023-27 "Canada v Nepal, 26th Match - CAN Won")
     
     26th Match
     
@@ -106,11 +106,9 @@ AllLive NowToday
     
     18th Match
     
-* T20 Blast
+* [Trinbago Knight Riders vs Guyana Amazon Warriors](https://www.cricbuzz.com/live-cricket-scores/92856/tkr-vs-gaw-19th-match-cpl-2024 "Trinbago Knight Riders v Guyana Amazon Warriors, 19th Match - Upcoming")
     
-    [Somerset vs Gloucestershire](https://www.cricbuzz.com/live-cricket-scores/85260/som-vs-gloucs-final-t20-blast "Somerset v Gloucestershire, Final - GLOUCS Won")
-    
-    Final
+    19th Match
     
 * DOMESTIC
     
@@ -126,15 +124,7 @@ AllLive NowToday
     
 * County Division 1
     
-    [Warwickshire vs Essex](https://www.cricbuzz.com/live-cricket-scores/84509/warks-vs-ess-65th-match-county-division-1 "Warwickshire v Essex, 65th Match - Preview")
-    
-    65th Match
-    
-* [Surrey vs Durham](https://www.cricbuzz.com/live-cricket-scores/84502/sur-vs-dur-64th-match-county-division-1 "Surrey v Durham, 64th Match - Preview")
-    
-    64th Match
-    
-* [Lancashire vs Somerset](https://www.cricbuzz.com/live-cricket-scores/84499/lancs-vs-som-63rd-match-county-division-1 "Lancashire v Somerset, 63rd Match - Preview")
+    [Lancashire vs Somerset](https://www.cricbuzz.com/live-cricket-scores/84499/lancs-vs-som-63rd-match-county-division-1 "Lancashire v Somerset, 63rd Match - Preview")
     
     63rd Match
     
@@ -146,9 +136,21 @@ AllLive NowToday
     
     61st Match
     
+* [Warwickshire vs Essex](https://www.cricbuzz.com/live-cricket-scores/84509/warks-vs-ess-65th-match-county-division-1 "Warwickshire v Essex, 65th Match - Preview")
+    
+    65th Match
+    
+* [Surrey vs Durham](https://www.cricbuzz.com/live-cricket-scores/84502/sur-vs-dur-64th-match-county-division-1 "Surrey v Durham, 64th Match - Preview")
+    
+    64th Match
+    
 * County Division 2
     
-    [Gloucestershire vs Sussex](https://www.cricbuzz.com/live-cricket-scores/85528/gloucs-vs-sus-51st-match-county-division-2 "Gloucestershire v Sussex, 51st Match - Preview")
+    [Northamptonshire vs Leicestershire](https://www.cricbuzz.com/live-cricket-scores/85535/nhnts-vs-leic-52nd-match-county-division-2 "Northamptonshire v Leicestershire, 52nd Match - Preview")
+    
+    52nd Match
+    
+* [Gloucestershire vs Sussex](https://www.cricbuzz.com/live-cricket-scores/85528/gloucs-vs-sus-51st-match-county-division-2 "Gloucestershire v Sussex, 51st Match - Preview")
     
     51st Match
     
@@ -159,10 +161,6 @@ AllLive NowToday
 * [Derbyshire vs Middlesex](https://www.cricbuzz.com/live-cricket-scores/85517/derby-vs-mdx-49th-match-county-division-2 "Derbyshire v Middlesex, 49th Match - Preview")
     
     49th Match
-    
-* [Northamptonshire vs Leicestershire](https://www.cricbuzz.com/live-cricket-scores/85535/nhnts-vs-leic-52nd-match-county-division-2 "Northamptonshire v Leicestershire, 52nd Match - Preview")
-    
-    52nd Match
     
 * South Africa v Sri Lanka
     
@@ -527,31 +525,31 @@ This Privacy Policy (the “**Privacy Policy**”) serves to inform you of our p
 
 [Bangladesh rely on Shadman to keep his 'head' steady](https://www.cricbuzz.com/cricket-news/131639/bangladesh-rely-on-shadman-to-keep-his-head-steady "Bangladesh rely on Shadman to keep his 'head' steady ")
 
-4h ago
+10h ago
 
   [](https://www.cricbuzz.com/cricket-news/131638/oshada-fernando-returns-for-new-zealand-tests "Oshada Fernando returns for New Zealand Tests")
 
 [Oshada Fernando returns for New Zealand Tests](https://www.cricbuzz.com/cricket-news/131638/oshada-fernando-returns-for-new-zealand-tests "Oshada Fernando returns for New Zealand Tests")
 
-11h ago
+17h ago
 
   [](https://www.cricbuzz.com/cricket-news/131637/green-all-round-efforts-in-vain-as-kings-secure-comfortable-win "Green all-round efforts in vain as Kings secure comfortable win")
 
 [Green all-round efforts in vain as Kings secure comfortable win](https://www.cricbuzz.com/cricket-news/131637/green-all-round-efforts-in-vain-as-kings-secure-comfortable-win "Green all-round efforts in vain as Kings secure comfortable win")
 
-14h ago
+20h ago
 
   [](https://www.cricbuzz.com/cricket-news/131636/can-kuldeep-be-the-ace-when-the-pack-shuffles "Can Kuldeep be the ace when the pack shuffles?")
 
 [Can Kuldeep be the ace when the pack shuffles?](https://www.cricbuzz.com/cricket-news/131636/can-kuldeep-be-the-ace-when-the-pack-shuffles "Can Kuldeep be the ace when the pack shuffles?")
 
-17h ago
+23h ago
 
   [](https://www.cricbuzz.com/cricket-news/131635/akhilesh-bodugum-spinning-his-own-theory-of-evolution "Akhilesh Bodugum spinning his own theory of evolution")
 
 [Akhilesh Bodugum spinning his own theory of evolution](https://www.cricbuzz.com/cricket-news/131635/akhilesh-bodugum-spinning-his-own-theory-of-evolution "Akhilesh Bodugum spinning his own theory of evolution")
 
-18h ago
+1d ago
 
   [](https://www.cricbuzz.com/cricket-news/131634/series-decider-abandoned-after-persistent-rain "Series decider abandoned after persistent rain")
 
