@@ -1743,6 +1743,8 @@ What do top resumes look like? Check out these expertly-written samples:
 
 [Communications Director](https://cvcompiler.com/communications-director-resume-examples)
 
+[Director of Events](https://cvcompiler.com/director-of-events-resume-examples)
+
 ![Upload resume illustration](uploads-pre-acq/img/upload-illustration.svg)
 
 ### Upload  
