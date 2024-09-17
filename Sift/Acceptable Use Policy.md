@@ -65,19 +65,13 @@
         * [Patents](https://sift.com/patents)
 * Resources
     
-    * [FIBR | Fraud Industry Benchmarking Resource](https://sift.com/fibr-fraud-industry-benchmarking-resource)
     * [All Resources](https://sift.com/resources)
-    * [BY USE CASE](https://sift.com/aup#)
-    * [Payment Fraud](https://sift.com/resources?use_case=payment-fraud-type)
-    * [Chargeback Fraud](https://sift.com/resources?use_case=chargeback-disputes-type)
-    * [Account Fraud](https://sift.com/resources?use_case=ato-type)
-    * [Content Abuse](https://sift.com/resources?use_case=spam-type)
-    * [Fraud Intelligence Center](https://sift.com/fraud-center)
     * [Blog](https://sift.com/blog)
-    * [Trust & Safety University](https://sift.com/trust-safety-university)
-    * [Get a Demo](https://sift.com/demo)
+    * [Case Studies](https://sift.com/resources/case-studies)
+    * [FIBR | Fraud Industry Benchmarking Resource](https://sift.com/fibr-fraud-industry-benchmarking-resource)
     * [For Developers](https://developers.sift.com/)
-    * [Support](https://sift.com/contact-support)
+    * [Fraud Intelligence Center](https://sift.com/fraud-center)
+    * [Trust & Safety University](https://sift.com/trust-safety-university)
 * Company
     
     * [About Us](https://sift.com/company)
@@ -86,6 +80,7 @@
     * [Leadership](https://sift.com/company#leadership)
     * [Investors](https://sift.com/investors)
     * [Brand Center](https://sift.com/brand-center)
+    * [Support](https://sift.com/contact-support)
     * [Contact Us](https://sift.com/contact-us)
     * [Careers](https://sift.com/careers)
         
