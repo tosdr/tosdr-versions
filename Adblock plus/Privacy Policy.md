@@ -1,4 +1,4 @@
- [![Adblock Plus logo in navigation menu](/img/adblockplus-logo-color.svg?1200581041)](https://adblockplus.org/en/)[![Top menu toggle](/img/menu-toggle-black.svg?1200581041)](#)
+ [![Adblock Plus logo in navigation menu](/img/adblockplus-logo-color.svg?4020135725)](https://adblockplus.org/en/)[![Top menu toggle](/img/menu-toggle-black.svg?4020135725)](#)
 
 * [Download](https://adblockplus.org/en/download)
 * [About](https://adblockplus.org/en/about)
@@ -753,15 +753,16 @@ January 2023
 
 * [Source Code](https://gitlab.com/adblockinc/ext/adblockplus)
 * [Tools](https://adblockplus.org/en/tools)
+* [Careers at eyeo GmbH](https://eyeo.com/careers)
 * [Partner Integrations](https://adblockplus.org/en/partner-integrations)
 
 ##### Follow us on
 
-* [![Twitter glyphicon](/img/footer-twitter-glyphicon.png?1200581041)](https://twitter.com/AdblockPlus "Follow Adblock Plus on Twitter")
-* [![YouTube glyphicon](/img/footer-youtube-glyphicon.png?1200581041)](https://www.youtube.com/user/AdblockPlusOfficial "Subscribe to Adblock Plus on YouTube")
-* [![Facebook glyphicon](/img/footer-facebook-glyphicon.png?1200581041)](https://www.facebook.com/adblockplus "Follow Adblock Plus on Facebook")
-* [![Instagram glyphicon](/img/footer-instagram-glyphicon.png?1200581041)](https://www.instagram.com/adblockplus/ "Follow Adblock Plus on Instagram")
-* [![VK glyphicon](/img/footer-vk-glyphicon.png?1200581041)](https://vk.com/adblockplusofficial "Follow Adblock Plus on VK")
+* [![Twitter glyphicon](/img/footer-twitter-glyphicon.png?4020135725)](https://twitter.com/AdblockPlus "Follow Adblock Plus on Twitter")
+* [![YouTube glyphicon](/img/footer-youtube-glyphicon.png?4020135725)](https://www.youtube.com/user/AdblockPlusOfficial "Subscribe to Adblock Plus on YouTube")
+* [![Facebook glyphicon](/img/footer-facebook-glyphicon.png?4020135725)](https://www.facebook.com/adblockplus "Follow Adblock Plus on Facebook")
+* [![Instagram glyphicon](/img/footer-instagram-glyphicon.png?4020135725)](https://www.instagram.com/adblockplus/ "Follow Adblock Plus on Instagram")
+* [![VK glyphicon](/img/footer-vk-glyphicon.png?4020135725)](https://vk.com/adblockplusofficial "Follow Adblock Plus on VK")
 
 Copyright © 2023 All rights reserved. Adblock Plus® is a registered trademark of [eyeo GmbH](https://eyeo.com/).
 
