@@ -461,27 +461,11 @@
     
 * [Business](https://www.fiverr.com/categories/business?source=category_tree)
     
-    * Financial Services
-        
-    * [Accounting Services](https://www.fiverr.com/categories/finance/accounting-services?source=category_tree)
-    * [Tax Consulting](https://www.fiverr.com/categories/finance/tax-consulting?source=category_tree)
-    * [Financial Planning & Analysis](https://www.fiverr.com/categories/finance/financial-planning-and-analysis?source=category_tree)
-    * [Corporate Finance](https://www.fiverr.com/categories/finance/corporate-finance?source=category_tree)
-    * [Personal Finance](https://www.fiverr.com/categories/finance/personal-finance?source=category_tree)
-    * [Fundraising](https://www.fiverr.com/categories/finance/fundraising?source=category_tree)
-    
-    * [Legal Services](https://www.fiverr.com/categories/business/legal-consulting-services?source=category_tree)
-    * [Applications & Registrations](https://www.fiverr.com/categories/business/legal-consulting-services/applications-registrations?source=category_tree)
-    * [Legal Documents & Contracts](https://www.fiverr.com/categories/business/legal-consulting-services/legal-documents?source=category_tree)
-    * [Legal Review](https://www.fiverr.com/categories/business/legal-consulting-services/legal-review?source=category_tree)
-    * [Legal Research](https://www.fiverr.com/categories/business/legal-consulting-services/legal-research?source=category_tree)
-    
     * Business Management
         
     * [Business Registration](https://www.fiverr.com/categories/business/legal-consulting-services/business-registration?source=category_tree)
     * [Business Plans](https://www.fiverr.com/categories/business/business-plans?source=category_tree)
     * [Business Consulting](https://www.fiverr.com/categories/business/business-tips?source=category_tree)
-    * [Sustainability Consulting](https://www.fiverr.com/categories/business/sustainability-consulting?source=category_tree)
     * [HR Consulting](https://www.fiverr.com/categories/business/hr-consulting?source=category_tree)
     * [Market Research](https://www.fiverr.com/categories/business/market-research-reports?source=category_tree)
     * [Presentations](https://www.fiverr.com/categories/business/online-presentations?source=category_tree)
@@ -492,8 +476,12 @@
     * [AI Strategy](https://www.fiverr.com/categories/business/ai-consulting/ai-strategy?source=category_tree)
     * [AI Lessons](https://www.fiverr.com/categories/business/ai-consulting/ai-lessons?source=category_tree)
     
+    * [Legal Services](https://www.fiverr.com/categories/business/legal-consulting-services?source=category_tree)
+    * [Applications & Registrations](https://www.fiverr.com/categories/business/legal-consulting-services/applications-registrations?source=category_tree)
+    * [Legal Documents & Contracts](https://www.fiverr.com/categories/business/legal-consulting-services/legal-documents?source=category_tree)
+    * [Legal Research](https://www.fiverr.com/categories/business/legal-consulting-services/legal-research?source=category_tree)
+    
     * [E-Commerce Management](https://www.fiverr.com/categories/business/ecommerce-management?source=category_tree)
-    * [Product Research](https://www.fiverr.com/categories/business/ecommerce-management/product-research?source=category_tree)
     * [Store Management](https://www.fiverr.com/categories/business/ecommerce-management/store-management?source=category_tree)
     * [Amazon Experts](https://www.fiverr.com/categories/business/buy/ecommerce-management/amazon?source=category_tree&ref=platform%3Aamazon)
     * [Shopify Experts](https://www.fiverr.com/categories/business/buy/ecommerce-management/shopify?source=category_tree&ref=platform%3Ashopify)
@@ -502,10 +490,7 @@
     * [Data & Business Intelligence](https://www.fiverr.com/categories/data?source=category_tree)
     * [Data Visualization](https://www.fiverr.com/categories/data/data-visualization?source=category_tree)
     * [Data Analytics](https://www.fiverr.com/categories/data/data-analytics?source=category_tree)
-    * [Data Processing](https://www.fiverr.com/categories/data/data-processing?source=category_tree)
-    * [Data Entry](https://www.fiverr.com/categories/data/data-entry?source=category_tree)
     * [Data Scraping](https://www.fiverr.com/categories/data/data-mining?source=category_tree)
-    * [Data Cleaning](https://www.fiverr.com/categories/data/data-cleaning?source=category_tree)
     
     * Sales & Customer Care
         
@@ -526,58 +511,42 @@
     * [Product Management](https://www.fiverr.com/categories/business/product-management?source=category_tree)
     * [Event Management](https://www.fiverr.com/categories/business/event-management?source=category_tree)
     
-* [Consulting](https://www.fiverr.com/categories/consulting-services)
+* [Finance](https://www.fiverr.com/categories/finance?source=category_tree)
     
-    * Business Consultants
-        
-    * [Legal Consulting](https://www.fiverr.com/categories/business/legal-consulting-services?source=category_tree&ref=seller_level%3Atop_rated_seller%2Clevel_two_seller)
-    * [Business Consulting](https://www.fiverr.com/categories/business/business-tips?source=category_tree&ref=seller_level%3Atop_rated_seller%2Clevel_two_seller)
-    * [HR Consulting](https://www.fiverr.com/categories/business/hr-consulting?source=category_tree&ref=seller_level%3Atop_rated_seller%2Clevel_two_seller)
-    * [AI Consulting](https://www.fiverr.com/categories/business/ai-consulting?source=category_tree&ref=seller_level%3Atop_rated_seller%2Clevel_two_seller)
-    * [Business Plans](https://www.fiverr.com/categories/business/business-plans?source=category_tree&ref=seller_level%3Atop_rated_seller%2Clevel_two_seller)
-    * [E-commerce Consulting](https://www.fiverr.com/categories/business/ecommerce-management/ecommerce-consultation?source=category_tree&ref=seller_level%3Atop_rated_seller%2Clevel_two_seller)
+    * [Accounting Services](https://www.fiverr.com/categories/finance/accounting-services?source=category_tree)
+    * [Fractional CFO Services](https://www.fiverr.com/categories/finance/accounting-services/fractional-cfo?source=category_tree)
+    * [Financial Reporting](https://www.fiverr.com/categories/finance/accounting-services/financial-reporting-services?source=category_tree)
+    * [Bookkeeping](https://www.fiverr.com/categories/finance/accounting-services/bookkeeping?source=category_tree)
+    * [Payroll Management](https://www.fiverr.com/categories/finance/accounting-services/payroll-management?source=category_tree)
     
-    * Marketing Strategy
-        
-    * [Marketing Strategy](https://www.fiverr.com/categories/online-marketing/marketing-strategy?source=category_tree&ref=seller_level%3Atop_rated_seller%2Clevel_two_seller)
-    * [Content Strategy](https://www.fiverr.com/categories/writing-translation/content-strategy?source=category_tree&ref=seller_level%3Atop_rated_seller%2Clevel_two_seller)
-    * [Social Media Strategy](https://www.fiverr.com/categories/online-marketing/social-marketing/social-media-strategy?source=category_tree&ref=seller_level%3Atop_rated_seller%2Clevel_two_seller)
-    * [Influencers Strategy](https://www.fiverr.com/categories/online-marketing/influencer-marketing/strategy-research?source=category_tree&ref=seller_level%3Atop_rated_seller%2Clevel_two_seller)
-    * [Video Marketing Consulting](https://www.fiverr.com/categories/online-marketing/online-video-marketing/consultation-audience-research?source=category_tree&ref=seller_level%3Atop_rated_seller%2Clevel_two_seller)
-    * [SEM Strategy](https://www.fiverr.com/categories/online-marketing/search-engine-marketing?source=category_tree&ref=seller_level%3Atop_rated_seller%2Clevel_two_seller)
-    * [PR Strategy](https://www.fiverr.com/categories/online-marketing/public-relations?source=category_tree&ref=seller_level%3Atop_rated_seller%2Clevel_two_seller)
+    * [Tax Consulting](https://www.fiverr.com/categories/finance/tax-consulting?source=category_tree)
+    * [Tax Returns](https://www.fiverr.com/categories/finance/tax-consulting/tax-returns?source=category_tree)
+    * [Tax Identification Services](https://www.fiverr.com/categories/finance/tax-consulting/tax-identification-services?source=category_tree)
+    * [Tax Planning](https://www.fiverr.com/categories/finance/tax-consulting/tax-planning?source=category_tree)
+    * [Tax Compliance](https://www.fiverr.com/categories/finance/tax-consulting?source=category_tree)
+    * [Tax Exemptions](https://www.fiverr.com/categories/finance/tax-consulting/tax-exemptions?source=category_tree)
     
-    * Data Consulting
-        
-    * [Data Analytics Consulting](https://www.fiverr.com/categories/data/data-analytics/consulting?source=category_tree&ref=seller_level%3Atop_rated_seller%2Clevel_two_seller)
-    * [Databases Consulting](https://www.fiverr.com/categories/data/databases/consulting?source=category_tree&ref=seller_level%3Atop_rated_seller%2Clevel_two_seller)
-    * [Data Visualization Consulting](https://www.fiverr.com/categories/data/data-visualization/consulting?source=category_tree&ref=seller_level%3Atop_rated_seller%2Clevel_two_seller)
+    * [Corporate Finance](https://www.fiverr.com/categories/finance/corporate-finance?source=category_tree)
+    * [Due Diligence](https://www.fiverr.com/categories/finance/corporate-finance/due-diligence?source=category_tree)
+    * [Valuation](https://www.fiverr.com/categories/finance/corporate-finance/valuation?source=category_tree)
+    * [Mergers & Acquisitions Advisory](https://www.fiverr.com/categories/finance/corporate-finance/mergers-and-acquisitions?source=category_tree)
+    * [Corporate Finance Strategy](https://www.fiverr.com/categories/finance/corporate-finance/corporate-finance-strategy?source=category_tree)
     
-    * Coaching & Advice
-        
-    * [Career Counseling](https://www.fiverr.com/categories/lifestyle/career-counseling?source=category_tree&ref=seller_level%3Atop_rated_seller%2Clevel_two_seller)
-    * [Life Coaching](https://www.fiverr.com/categories/lifestyle/life-coaching?source=category_tree&ref=seller_level%3Atop_rated_seller%2Clevel_two_seller)
-    * [Game Coaching](https://www.fiverr.com/categories/lifestyle/gaming/game-coaching?source=category_tree&ref=seller_level%3Atop_rated_seller%2Clevel_two_seller)
-    * [Styling & Beauty Advice](https://www.fiverr.com/categories/lifestyle/personal-stylists?source=category_tree&ref=seller_level%3Atop_rated_seller%2Clevel_two_seller)
-    * [Travel Advice](https://www.fiverr.com/categories/lifestyle/traveling/local-advisors?source=category_tree&ref=seller_level%3Atop_rated_seller%2Clevel_two_seller)
-    * [Nutrition Coachingnew](https://www.fiverr.com/categories/lifestyle/nutrition/nutrition-coaching?source=category_tree&ref=seller_level%3Atop_rated_seller%2Clevel_two_seller)
-    * [Mindfulness Coachingnew](https://www.fiverr.com/categories/lifestyle/wellness/mindfulness-coaching?source=category_tree&ref=seller_level%3Atop_rated_seller%2Clevel_two_seller)
+    * [Financial Planning & Analysis](https://www.fiverr.com/categories/finance/financial-planning-and-analysis?source=category_tree)
+    * [Budgeting and Forecasting](https://www.fiverr.com/categories/finance/financial-planning-and-analysis?source=category_tree)
+    * [Financial Modeling](https://www.fiverr.com/categories/finance/financial-planning-and-analysis/financial-modeling?source=category_tree)
+    * [Cost Analysis](https://www.fiverr.com/categories/finance/financial-planning-and-analysis/cost-analysis?source=category_tree)
+    * [Stock Analysis](https://www.fiverr.com/categories/finance/financial-planning-and-analysis/stock-analysis?source=category_tree)
     
-    * Tech Consulting
-        
-    * [Website Consulting](https://www.fiverr.com/categories/programming-tech/website-maintenance/consultation?source=category_tree&ref=seller_level%3Atop_rated_seller%2Clevel_two_seller)
-    * [Mobile App Consulting](https://www.fiverr.com/categories/programming-tech/mobile-app-maintenance/consultation?source=category_tree&ref=seller_level%3Atop_rated_seller%2Clevel_two_seller)
-    * [Game Development Consulting](https://www.fiverr.com/categories/programming-tech/game-development/consultation?source=category_tree&ref=seller_level%3Atop_rated_seller%2Clevel_two_seller)
-    * [Software Development Consulting](https://www.fiverr.com/categories/programming-tech/software-development/help-consultation?source=category_tree&ref=seller_level%3Atop_rated_seller%2Clevel_two_seller)
-    * [Cybersecurity Consulting](https://www.fiverr.com/categories/programming-tech/cybersecurity-data-protection/consultation?source=category_tree&ref=pro%3Aany)
+    * [Personal Finance & Wealth Management](https://www.fiverr.com/categories/finance/personal-finance?source=category_tree)
+    * [Personal Budget Management](https://www.fiverr.com/categories/finance/personal-finance/personal-budget?source=category_tree)
+    * [Investments Advisory](https://www.fiverr.com/categories/finance/personal-finance/investments-advisory?source=category_tree)
+    * [Online Trading Lessons](https://www.fiverr.com/categories/finance/personal-finance/online-trading-lessons?source=category_tree)
     
-    * Mentorship
-        
-    * [Marketing Mentorship](https://www.fiverr.com/categories/online-marketing/marketing-tips-and-advice?source=category_tree&ref=seller_level%3Atop_rated_seller%2Clevel_two_seller)
-    * [Design Mentorship](https://www.fiverr.com/categories/graphics-design/design-advice?source=category_tree&ref=seller_level%3Atop_rated_seller%2Clevel_two_seller)
-    * [Writing Mentorship](https://www.fiverr.com/categories/writing-translation/writing-tips-and-advice?source=category_tree&ref=seller_level%3Atop_rated_seller%2Clevel_two_seller)
-    * [Video Mentorship](https://www.fiverr.com/categories/video-animation/video-advice?source=category_tree&ref=seller_level%3Atop_rated_seller%2Clevel_two_seller)
-    * [Music Mentorship](https://www.fiverr.com/categories/music-audio/advice?source=category_tree&ref=seller_level%3Atop_rated_seller%2Clevel_two_seller)
+    * [Fundraising](https://www.fiverr.com/categories/finance/fundraising?source=category_tree)
+    * [Investors Sourcing](https://www.fiverr.com/categories/finance/fundraising/investors-sourcing?source=category_tree)
+    * [Funding Pitch Presentations](https://www.fiverr.com/categories/finance/fundraising/funding-pitch-presentations?source=category_tree)
+    * [Fundraising Consultation](https://www.fiverr.com/categories/finance/fundraising/fundraising-consultation?source=category_tree)
     
 * [AI Services](https://www.fiverr.com/categories/ai-services)
     
@@ -671,6 +640,88 @@
     * [Greeting Cards & Videos](https://www.fiverr.com/categories/lifestyle/greeting-cards-videos-online?source=category_tree)
     * [Embroidery Digitizingnew](https://www.fiverr.com/categories/lifestyle/embroidery-digitizing?source=category_tree)
     * [Other](https://www.fiverr.com/categories/lifestyle/lifestyle-services?source=category_tree)
+    
+* [Consulting](https://www.fiverr.com/categories/consulting-services)
+    
+    * Business Consultants
+        
+    * [Legal Consulting](https://www.fiverr.com/categories/business/legal-consulting-services?source=category_tree&ref=seller_level%3Atop_rated_seller%2Clevel_two_seller)
+    * [Business Consulting](https://www.fiverr.com/categories/business/business-tips?source=category_tree&ref=seller_level%3Atop_rated_seller%2Clevel_two_seller)
+    * [HR Consulting](https://www.fiverr.com/categories/business/hr-consulting?source=category_tree&ref=seller_level%3Atop_rated_seller%2Clevel_two_seller)
+    * [AI Consulting](https://www.fiverr.com/categories/business/ai-consulting?source=category_tree&ref=seller_level%3Atop_rated_seller%2Clevel_two_seller)
+    * [Business Plans](https://www.fiverr.com/categories/business/business-plans?source=category_tree&ref=seller_level%3Atop_rated_seller%2Clevel_two_seller)
+    * [E-commerce Consulting](https://www.fiverr.com/categories/business/ecommerce-management/ecommerce-consultation?source=category_tree&ref=seller_level%3Atop_rated_seller%2Clevel_two_seller)
+    
+    * Marketing Strategy
+        
+    * [Marketing Strategy](https://www.fiverr.com/categories/online-marketing/marketing-strategy?source=category_tree&ref=seller_level%3Atop_rated_seller%2Clevel_two_seller)
+    * [Content Strategy](https://www.fiverr.com/categories/writing-translation/content-strategy?source=category_tree&ref=seller_level%3Atop_rated_seller%2Clevel_two_seller)
+    * [Social Media Strategy](https://www.fiverr.com/categories/online-marketing/social-marketing/social-media-strategy?source=category_tree&ref=seller_level%3Atop_rated_seller%2Clevel_two_seller)
+    * [Influencers Strategy](https://www.fiverr.com/categories/online-marketing/influencer-marketing/strategy-research?source=category_tree&ref=seller_level%3Atop_rated_seller%2Clevel_two_seller)
+    * [Video Marketing Consulting](https://www.fiverr.com/categories/online-marketing/online-video-marketing/consultation-audience-research?source=category_tree&ref=seller_level%3Atop_rated_seller%2Clevel_two_seller)
+    * [SEM Strategy](https://www.fiverr.com/categories/online-marketing/search-engine-marketing?source=category_tree&ref=seller_level%3Atop_rated_seller%2Clevel_two_seller)
+    * [PR Strategy](https://www.fiverr.com/categories/online-marketing/public-relations?source=category_tree&ref=seller_level%3Atop_rated_seller%2Clevel_two_seller)
+    
+    * Data Consulting
+        
+    * [Data Analytics Consulting](https://www.fiverr.com/categories/data/data-analytics/consulting?source=category_tree&ref=seller_level%3Atop_rated_seller%2Clevel_two_seller)
+    * [Databases Consulting](https://www.fiverr.com/categories/data/databases/consulting?source=category_tree&ref=seller_level%3Atop_rated_seller%2Clevel_two_seller)
+    * [Data Visualization Consulting](https://www.fiverr.com/categories/data/data-visualization/consulting?source=category_tree&ref=seller_level%3Atop_rated_seller%2Clevel_two_seller)
+    
+    * Coaching & Advice
+        
+    * [Career Counseling](https://www.fiverr.com/categories/lifestyle/career-counseling?source=category_tree&ref=seller_level%3Atop_rated_seller%2Clevel_two_seller)
+    * [Life Coaching](https://www.fiverr.com/categories/lifestyle/life-coaching?source=category_tree&ref=seller_level%3Atop_rated_seller%2Clevel_two_seller)
+    * [Game Coaching](https://www.fiverr.com/categories/lifestyle/gaming/game-coaching?source=category_tree&ref=seller_level%3Atop_rated_seller%2Clevel_two_seller)
+    * [Styling & Beauty Advice](https://www.fiverr.com/categories/lifestyle/personal-stylists?source=category_tree&ref=seller_level%3Atop_rated_seller%2Clevel_two_seller)
+    * [Travel Advice](https://www.fiverr.com/categories/lifestyle/traveling/local-advisors?source=category_tree&ref=seller_level%3Atop_rated_seller%2Clevel_two_seller)
+    * [Nutrition Coachingnew](https://www.fiverr.com/categories/lifestyle/nutrition/nutrition-coaching?source=category_tree&ref=seller_level%3Atop_rated_seller%2Clevel_two_seller)
+    * [Mindfulness Coachingnew](https://www.fiverr.com/categories/lifestyle/wellness/mindfulness-coaching?source=category_tree&ref=seller_level%3Atop_rated_seller%2Clevel_two_seller)
+    
+    * Tech Consulting
+        
+    * [Website Consulting](https://www.fiverr.com/categories/programming-tech/website-maintenance/consultation?source=category_tree&ref=seller_level%3Atop_rated_seller%2Clevel_two_seller)
+    * [Mobile App Consulting](https://www.fiverr.com/categories/programming-tech/mobile-app-maintenance/consultation?source=category_tree&ref=seller_level%3Atop_rated_seller%2Clevel_two_seller)
+    * [Game Development Consulting](https://www.fiverr.com/categories/programming-tech/game-development/consultation?source=category_tree&ref=seller_level%3Atop_rated_seller%2Clevel_two_seller)
+    * [Software Development Consulting](https://www.fiverr.com/categories/programming-tech/software-development/help-consultation?source=category_tree&ref=seller_level%3Atop_rated_seller%2Clevel_two_seller)
+    * [Cybersecurity Consulting](https://www.fiverr.com/categories/programming-tech/cybersecurity-data-protection/consultation?source=category_tree&ref=pro%3Aany)
+    
+    * Mentorship
+        
+    * [Marketing Mentorship](https://www.fiverr.com/categories/online-marketing/marketing-tips-and-advice?source=category_tree&ref=seller_level%3Atop_rated_seller%2Clevel_two_seller)
+    * [Design Mentorship](https://www.fiverr.com/categories/graphics-design/design-advice?source=category_tree&ref=seller_level%3Atop_rated_seller%2Clevel_two_seller)
+    * [Writing Mentorship](https://www.fiverr.com/categories/writing-translation/writing-tips-and-advice?source=category_tree&ref=seller_level%3Atop_rated_seller%2Clevel_two_seller)
+    * [Video Mentorship](https://www.fiverr.com/categories/video-animation/video-advice?source=category_tree&ref=seller_level%3Atop_rated_seller%2Clevel_two_seller)
+    * [Music Mentorship](https://www.fiverr.com/categories/music-audio/advice?source=category_tree&ref=seller_level%3Atop_rated_seller%2Clevel_two_seller)
+    
+* [Photography](https://www.fiverr.com/categories/photography?source=category_tree)
+    
+    * Products & Lifestyle
+        
+    * [Product Photographers](https://www.fiverr.com/categories/photography/product-photographers?source=category_tree)
+    * [Food Photographers](https://www.fiverr.com/categories/photography/food-photographers?source=category_tree)
+    * [Lifestyle & Fashion Photographers](https://www.fiverr.com/categories/photography/lifestyle-fashion-photographers?source=category_tree)
+    
+    * People & Scenes
+        
+    * [Portrait Photographers](https://www.fiverr.com/categories/photography/portrait-photographers?source=category_tree)
+    * [Event Photographers](https://www.fiverr.com/categories/photography/event-photographers?source=category_tree)
+    * [Real Estate Photographers](https://www.fiverr.com/categories/photography/real-estate-photographers?source=category_tree)
+    * [Scenic Photographers](https://www.fiverr.com/categories/photography/scenic-photographers?source=category_tree)
+    
+    * Local Photography
+        
+    * [Photographers in New York](https://www.fiverr.com/cp/photographers-in-new-york)
+    * [Photographers in Los Angeles](https://www.fiverr.com/cp/photographers-in-los-angeles)
+    * [Photographers in London](https://www.fiverr.com/cp/photographers-in-london)
+    * [Photographers in Paris](https://www.fiverr.com/cp/photographers-in-paris)
+    * [All Cities](https://www.fiverr.com/cp/local-photography-stores)
+    
+    * Miscellaneous
+        
+    * [Photography Classes](https://www.creativelive.com/catalog/photography?utm_source=fiverr&utm_medium=referral&utm_campaign=verticals&utm_content=navbar)
+    * [Photo Preset Creationnew](https://www.fiverr.com/categories/photography/photo-preset-creation?source=category_tree)
+    * [Other](https://www.fiverr.com/categories/photography/photography-services?source=category_tree)
     
 
 [Join Fiverr](https://www.fiverr.com/join)
@@ -1089,25 +1140,10 @@ Browse categories
     
     Business
     
-    * Financial Services
-    * [Accounting Services](https://www.fiverr.com/categories/finance/accounting-services?source=category_tree)
-    * [Tax Consulting](https://www.fiverr.com/categories/finance/tax-consulting?source=category_tree)
-    * [Financial Planning & Analysis](https://www.fiverr.com/categories/finance/financial-planning-and-analysis?source=category_tree)
-    * [Corporate Finance](https://www.fiverr.com/categories/finance/corporate-finance?source=category_tree)
-    * [Personal Finance](https://www.fiverr.com/categories/finance/personal-finance?source=category_tree)
-    * [Fundraising](https://www.fiverr.com/categories/finance/fundraising?source=category_tree)
-    
-    * [Legal Services](https://www.fiverr.com/categories/business/legal-consulting-services?source=category_tree)
-    * [Applications & Registrations](https://www.fiverr.com/categories/business/legal-consulting-services/applications-registrations?source=category_tree)
-    * [Legal Documents & Contracts](https://www.fiverr.com/categories/business/legal-consulting-services/legal-documents?source=category_tree)
-    * [Legal Review](https://www.fiverr.com/categories/business/legal-consulting-services/legal-review?source=category_tree)
-    * [Legal Research](https://www.fiverr.com/categories/business/legal-consulting-services/legal-research?source=category_tree)
-    
     * Business Management
     * [Business Registration](https://www.fiverr.com/categories/business/legal-consulting-services/business-registration?source=category_tree)
     * [Business Plans](https://www.fiverr.com/categories/business/business-plans?source=category_tree)
     * [Business Consulting](https://www.fiverr.com/categories/business/business-tips?source=category_tree)
-    * [Sustainability Consulting](https://www.fiverr.com/categories/business/sustainability-consulting?source=category_tree)
     * [HR Consulting](https://www.fiverr.com/categories/business/hr-consulting?source=category_tree)
     * [Market Research](https://www.fiverr.com/categories/business/market-research-reports?source=category_tree)
     * [Presentations](https://www.fiverr.com/categories/business/online-presentations?source=category_tree)
@@ -1118,8 +1154,12 @@ Browse categories
     * [AI Strategy](https://www.fiverr.com/categories/business/ai-consulting/ai-strategy?source=category_tree)
     * [AI Lessons](https://www.fiverr.com/categories/business/ai-consulting/ai-lessons?source=category_tree)
     
+    * [Legal Services](https://www.fiverr.com/categories/business/legal-consulting-services?source=category_tree)
+    * [Applications & Registrations](https://www.fiverr.com/categories/business/legal-consulting-services/applications-registrations?source=category_tree)
+    * [Legal Documents & Contracts](https://www.fiverr.com/categories/business/legal-consulting-services/legal-documents?source=category_tree)
+    * [Legal Research](https://www.fiverr.com/categories/business/legal-consulting-services/legal-research?source=category_tree)
+    
     * [E-Commerce Management](https://www.fiverr.com/categories/business/ecommerce-management?source=category_tree)
-    * [Product Research](https://www.fiverr.com/categories/business/ecommerce-management/product-research?source=category_tree)
     * [Store Management](https://www.fiverr.com/categories/business/ecommerce-management/store-management?source=category_tree)
     * [Amazon Experts](https://www.fiverr.com/categories/business/buy/ecommerce-management/amazon?source=category_tree&ref=platform%3Aamazon)
     * [Shopify Experts](https://www.fiverr.com/categories/business/buy/ecommerce-management/shopify?source=category_tree&ref=platform%3Ashopify)
@@ -1128,10 +1168,7 @@ Browse categories
     * [Data & Business Intelligence](https://www.fiverr.com/categories/data?source=category_tree)
     * [Data Visualization](https://www.fiverr.com/categories/data/data-visualization?source=category_tree)
     * [Data Analytics](https://www.fiverr.com/categories/data/data-analytics?source=category_tree)
-    * [Data Processing](https://www.fiverr.com/categories/data/data-processing?source=category_tree)
-    * [Data Entry](https://www.fiverr.com/categories/data/data-entry?source=category_tree)
     * [Data Scraping](https://www.fiverr.com/categories/data/data-mining?source=category_tree)
-    * [Data Cleaning](https://www.fiverr.com/categories/data/data-cleaning?source=category_tree)
     
     * Sales & Customer Care
     * [Sales](https://www.fiverr.com/categories/business/sales?source=category_tree)
@@ -1149,54 +1186,44 @@ Browse categories
     * [Product Management](https://www.fiverr.com/categories/business/product-management?source=category_tree)
     * [Event Management](https://www.fiverr.com/categories/business/event-management?source=category_tree)
     
-* Consulting
+* Finance
     
-    Consulting
+    Finance
     
-    * Business Consultants
-    * [Legal Consulting](https://www.fiverr.com/categories/business/legal-consulting-services?source=category_tree&ref=seller_level%3Atop_rated_seller%2Clevel_two_seller)
-    * [Business Consulting](https://www.fiverr.com/categories/business/business-tips?source=category_tree&ref=seller_level%3Atop_rated_seller%2Clevel_two_seller)
-    * [HR Consulting](https://www.fiverr.com/categories/business/hr-consulting?source=category_tree&ref=seller_level%3Atop_rated_seller%2Clevel_two_seller)
-    * [AI Consulting](https://www.fiverr.com/categories/business/ai-consulting?source=category_tree&ref=seller_level%3Atop_rated_seller%2Clevel_two_seller)
-    * [Business Plans](https://www.fiverr.com/categories/business/business-plans?source=category_tree&ref=seller_level%3Atop_rated_seller%2Clevel_two_seller)
-    * [E-commerce Consulting](https://www.fiverr.com/categories/business/ecommerce-management/ecommerce-consultation?source=category_tree&ref=seller_level%3Atop_rated_seller%2Clevel_two_seller)
+    * [Accounting Services](https://www.fiverr.com/categories/finance/accounting-services?source=category_tree)
+    * [Fractional CFO Services](https://www.fiverr.com/categories/finance/accounting-services/fractional-cfo?source=category_tree)
+    * [Financial Reporting](https://www.fiverr.com/categories/finance/accounting-services/financial-reporting-services?source=category_tree)
+    * [Bookkeeping](https://www.fiverr.com/categories/finance/accounting-services/bookkeeping?source=category_tree)
+    * [Payroll Management](https://www.fiverr.com/categories/finance/accounting-services/payroll-management?source=category_tree)
     
-    * Marketing Strategy
-    * [Marketing Strategy](https://www.fiverr.com/categories/online-marketing/marketing-strategy?source=category_tree&ref=seller_level%3Atop_rated_seller%2Clevel_two_seller)
-    * [Content Strategy](https://www.fiverr.com/categories/writing-translation/content-strategy?source=category_tree&ref=seller_level%3Atop_rated_seller%2Clevel_two_seller)
-    * [Social Media Strategy](https://www.fiverr.com/categories/online-marketing/social-marketing/social-media-strategy?source=category_tree&ref=seller_level%3Atop_rated_seller%2Clevel_two_seller)
-    * [Influencers Strategy](https://www.fiverr.com/categories/online-marketing/influencer-marketing/strategy-research?source=category_tree&ref=seller_level%3Atop_rated_seller%2Clevel_two_seller)
-    * [Video Marketing Consulting](https://www.fiverr.com/categories/online-marketing/online-video-marketing/consultation-audience-research?source=category_tree&ref=seller_level%3Atop_rated_seller%2Clevel_two_seller)
-    * [SEM Strategy](https://www.fiverr.com/categories/online-marketing/search-engine-marketing?source=category_tree&ref=seller_level%3Atop_rated_seller%2Clevel_two_seller)
-    * [PR Strategy](https://www.fiverr.com/categories/online-marketing/public-relations?source=category_tree&ref=seller_level%3Atop_rated_seller%2Clevel_two_seller)
+    * [Tax Consulting](https://www.fiverr.com/categories/finance/tax-consulting?source=category_tree)
+    * [Tax Returns](https://www.fiverr.com/categories/finance/tax-consulting/tax-returns?source=category_tree)
+    * [Tax Identification Services](https://www.fiverr.com/categories/finance/tax-consulting/tax-identification-services?source=category_tree)
+    * [Tax Planning](https://www.fiverr.com/categories/finance/tax-consulting/tax-planning?source=category_tree)
+    * [Tax Compliance](https://www.fiverr.com/categories/finance/tax-consulting?source=category_tree)
+    * [Tax Exemptions](https://www.fiverr.com/categories/finance/tax-consulting/tax-exemptions?source=category_tree)
     
-    * Data Consulting
-    * [Data Analytics Consulting](https://www.fiverr.com/categories/data/data-analytics/consulting?source=category_tree&ref=seller_level%3Atop_rated_seller%2Clevel_two_seller)
-    * [Databases Consulting](https://www.fiverr.com/categories/data/databases/consulting?source=category_tree&ref=seller_level%3Atop_rated_seller%2Clevel_two_seller)
-    * [Data Visualization Consulting](https://www.fiverr.com/categories/data/data-visualization/consulting?source=category_tree&ref=seller_level%3Atop_rated_seller%2Clevel_two_seller)
+    * [Corporate Finance](https://www.fiverr.com/categories/finance/corporate-finance?source=category_tree)
+    * [Due Diligence](https://www.fiverr.com/categories/finance/corporate-finance/due-diligence?source=category_tree)
+    * [Valuation](https://www.fiverr.com/categories/finance/corporate-finance/valuation?source=category_tree)
+    * [Mergers & Acquisitions Advisory](https://www.fiverr.com/categories/finance/corporate-finance/mergers-and-acquisitions?source=category_tree)
+    * [Corporate Finance Strategy](https://www.fiverr.com/categories/finance/corporate-finance/corporate-finance-strategy?source=category_tree)
     
-    * Coaching & Advice
-    * [Career Counseling](https://www.fiverr.com/categories/lifestyle/career-counseling?source=category_tree&ref=seller_level%3Atop_rated_seller%2Clevel_two_seller)
-    * [Life Coaching](https://www.fiverr.com/categories/lifestyle/life-coaching?source=category_tree&ref=seller_level%3Atop_rated_seller%2Clevel_two_seller)
-    * [Game Coaching](https://www.fiverr.com/categories/lifestyle/gaming/game-coaching?source=category_tree&ref=seller_level%3Atop_rated_seller%2Clevel_two_seller)
-    * [Styling & Beauty Advice](https://www.fiverr.com/categories/lifestyle/personal-stylists?source=category_tree&ref=seller_level%3Atop_rated_seller%2Clevel_two_seller)
-    * [Travel Advice](https://www.fiverr.com/categories/lifestyle/traveling/local-advisors?source=category_tree&ref=seller_level%3Atop_rated_seller%2Clevel_two_seller)
-    * [Nutrition CoachingNew](https://www.fiverr.com/categories/lifestyle/nutrition/nutrition-coaching?source=category_tree&ref=seller_level%3Atop_rated_seller%2Clevel_two_seller)
-    * [Mindfulness CoachingNew](https://www.fiverr.com/categories/lifestyle/wellness/mindfulness-coaching?source=category_tree&ref=seller_level%3Atop_rated_seller%2Clevel_two_seller)
+    * [Financial Planning & Analysis](https://www.fiverr.com/categories/finance/financial-planning-and-analysis?source=category_tree)
+    * [Budgeting and Forecasting](https://www.fiverr.com/categories/finance/financial-planning-and-analysis?source=category_tree)
+    * [Financial Modeling](https://www.fiverr.com/categories/finance/financial-planning-and-analysis/financial-modeling?source=category_tree)
+    * [Cost Analysis](https://www.fiverr.com/categories/finance/financial-planning-and-analysis/cost-analysis?source=category_tree)
+    * [Stock Analysis](https://www.fiverr.com/categories/finance/financial-planning-and-analysis/stock-analysis?source=category_tree)
     
-    * Tech Consulting
-    * [Website Consulting](https://www.fiverr.com/categories/programming-tech/website-maintenance/consultation?source=category_tree&ref=seller_level%3Atop_rated_seller%2Clevel_two_seller)
-    * [Mobile App Consulting](https://www.fiverr.com/categories/programming-tech/mobile-app-maintenance/consultation?source=category_tree&ref=seller_level%3Atop_rated_seller%2Clevel_two_seller)
-    * [Game Development Consulting](https://www.fiverr.com/categories/programming-tech/game-development/consultation?source=category_tree&ref=seller_level%3Atop_rated_seller%2Clevel_two_seller)
-    * [Software Development Consulting](https://www.fiverr.com/categories/programming-tech/software-development/help-consultation?source=category_tree&ref=seller_level%3Atop_rated_seller%2Clevel_two_seller)
-    * [Cybersecurity Consulting](https://www.fiverr.com/categories/programming-tech/cybersecurity-data-protection/consultation?source=category_tree&ref=pro%3Aany)
+    * [Personal Finance & Wealth Management](https://www.fiverr.com/categories/finance/personal-finance?source=category_tree)
+    * [Personal Budget Management](https://www.fiverr.com/categories/finance/personal-finance/personal-budget?source=category_tree)
+    * [Investments Advisory](https://www.fiverr.com/categories/finance/personal-finance/investments-advisory?source=category_tree)
+    * [Online Trading Lessons](https://www.fiverr.com/categories/finance/personal-finance/online-trading-lessons?source=category_tree)
     
-    * Mentorship
-    * [Marketing Mentorship](https://www.fiverr.com/categories/online-marketing/marketing-tips-and-advice?source=category_tree&ref=seller_level%3Atop_rated_seller%2Clevel_two_seller)
-    * [Design Mentorship](https://www.fiverr.com/categories/graphics-design/design-advice?source=category_tree&ref=seller_level%3Atop_rated_seller%2Clevel_two_seller)
-    * [Writing Mentorship](https://www.fiverr.com/categories/writing-translation/writing-tips-and-advice?source=category_tree&ref=seller_level%3Atop_rated_seller%2Clevel_two_seller)
-    * [Video Mentorship](https://www.fiverr.com/categories/video-animation/video-advice?source=category_tree&ref=seller_level%3Atop_rated_seller%2Clevel_two_seller)
-    * [Music Mentorship](https://www.fiverr.com/categories/music-audio/advice?source=category_tree&ref=seller_level%3Atop_rated_seller%2Clevel_two_seller)
+    * [Fundraising](https://www.fiverr.com/categories/finance/fundraising?source=category_tree)
+    * [Investors Sourcing](https://www.fiverr.com/categories/finance/fundraising/investors-sourcing?source=category_tree)
+    * [Funding Pitch Presentations](https://www.fiverr.com/categories/finance/fundraising/funding-pitch-presentations?source=category_tree)
+    * [Fundraising Consultation](https://www.fiverr.com/categories/finance/fundraising/fundraising-consultation?source=category_tree)
     
 * AI Services
     
@@ -1282,6 +1309,82 @@ Browse categories
     * [Greeting Cards & Videos](https://www.fiverr.com/categories/lifestyle/greeting-cards-videos-online?source=category_tree)
     * [Embroidery DigitizingNew](https://www.fiverr.com/categories/lifestyle/embroidery-digitizing?source=category_tree)
     * [Other](https://www.fiverr.com/categories/lifestyle/lifestyle-services?source=category_tree)
+    
+* Consulting
+    
+    Consulting
+    
+    * Business Consultants
+    * [Legal Consulting](https://www.fiverr.com/categories/business/legal-consulting-services?source=category_tree&ref=seller_level%3Atop_rated_seller%2Clevel_two_seller)
+    * [Business Consulting](https://www.fiverr.com/categories/business/business-tips?source=category_tree&ref=seller_level%3Atop_rated_seller%2Clevel_two_seller)
+    * [HR Consulting](https://www.fiverr.com/categories/business/hr-consulting?source=category_tree&ref=seller_level%3Atop_rated_seller%2Clevel_two_seller)
+    * [AI Consulting](https://www.fiverr.com/categories/business/ai-consulting?source=category_tree&ref=seller_level%3Atop_rated_seller%2Clevel_two_seller)
+    * [Business Plans](https://www.fiverr.com/categories/business/business-plans?source=category_tree&ref=seller_level%3Atop_rated_seller%2Clevel_two_seller)
+    * [E-commerce Consulting](https://www.fiverr.com/categories/business/ecommerce-management/ecommerce-consultation?source=category_tree&ref=seller_level%3Atop_rated_seller%2Clevel_two_seller)
+    
+    * Marketing Strategy
+    * [Marketing Strategy](https://www.fiverr.com/categories/online-marketing/marketing-strategy?source=category_tree&ref=seller_level%3Atop_rated_seller%2Clevel_two_seller)
+    * [Content Strategy](https://www.fiverr.com/categories/writing-translation/content-strategy?source=category_tree&ref=seller_level%3Atop_rated_seller%2Clevel_two_seller)
+    * [Social Media Strategy](https://www.fiverr.com/categories/online-marketing/social-marketing/social-media-strategy?source=category_tree&ref=seller_level%3Atop_rated_seller%2Clevel_two_seller)
+    * [Influencers Strategy](https://www.fiverr.com/categories/online-marketing/influencer-marketing/strategy-research?source=category_tree&ref=seller_level%3Atop_rated_seller%2Clevel_two_seller)
+    * [Video Marketing Consulting](https://www.fiverr.com/categories/online-marketing/online-video-marketing/consultation-audience-research?source=category_tree&ref=seller_level%3Atop_rated_seller%2Clevel_two_seller)
+    * [SEM Strategy](https://www.fiverr.com/categories/online-marketing/search-engine-marketing?source=category_tree&ref=seller_level%3Atop_rated_seller%2Clevel_two_seller)
+    * [PR Strategy](https://www.fiverr.com/categories/online-marketing/public-relations?source=category_tree&ref=seller_level%3Atop_rated_seller%2Clevel_two_seller)
+    
+    * Data Consulting
+    * [Data Analytics Consulting](https://www.fiverr.com/categories/data/data-analytics/consulting?source=category_tree&ref=seller_level%3Atop_rated_seller%2Clevel_two_seller)
+    * [Databases Consulting](https://www.fiverr.com/categories/data/databases/consulting?source=category_tree&ref=seller_level%3Atop_rated_seller%2Clevel_two_seller)
+    * [Data Visualization Consulting](https://www.fiverr.com/categories/data/data-visualization/consulting?source=category_tree&ref=seller_level%3Atop_rated_seller%2Clevel_two_seller)
+    
+    * Coaching & Advice
+    * [Career Counseling](https://www.fiverr.com/categories/lifestyle/career-counseling?source=category_tree&ref=seller_level%3Atop_rated_seller%2Clevel_two_seller)
+    * [Life Coaching](https://www.fiverr.com/categories/lifestyle/life-coaching?source=category_tree&ref=seller_level%3Atop_rated_seller%2Clevel_two_seller)
+    * [Game Coaching](https://www.fiverr.com/categories/lifestyle/gaming/game-coaching?source=category_tree&ref=seller_level%3Atop_rated_seller%2Clevel_two_seller)
+    * [Styling & Beauty Advice](https://www.fiverr.com/categories/lifestyle/personal-stylists?source=category_tree&ref=seller_level%3Atop_rated_seller%2Clevel_two_seller)
+    * [Travel Advice](https://www.fiverr.com/categories/lifestyle/traveling/local-advisors?source=category_tree&ref=seller_level%3Atop_rated_seller%2Clevel_two_seller)
+    * [Nutrition CoachingNew](https://www.fiverr.com/categories/lifestyle/nutrition/nutrition-coaching?source=category_tree&ref=seller_level%3Atop_rated_seller%2Clevel_two_seller)
+    * [Mindfulness CoachingNew](https://www.fiverr.com/categories/lifestyle/wellness/mindfulness-coaching?source=category_tree&ref=seller_level%3Atop_rated_seller%2Clevel_two_seller)
+    
+    * Tech Consulting
+    * [Website Consulting](https://www.fiverr.com/categories/programming-tech/website-maintenance/consultation?source=category_tree&ref=seller_level%3Atop_rated_seller%2Clevel_two_seller)
+    * [Mobile App Consulting](https://www.fiverr.com/categories/programming-tech/mobile-app-maintenance/consultation?source=category_tree&ref=seller_level%3Atop_rated_seller%2Clevel_two_seller)
+    * [Game Development Consulting](https://www.fiverr.com/categories/programming-tech/game-development/consultation?source=category_tree&ref=seller_level%3Atop_rated_seller%2Clevel_two_seller)
+    * [Software Development Consulting](https://www.fiverr.com/categories/programming-tech/software-development/help-consultation?source=category_tree&ref=seller_level%3Atop_rated_seller%2Clevel_two_seller)
+    * [Cybersecurity Consulting](https://www.fiverr.com/categories/programming-tech/cybersecurity-data-protection/consultation?source=category_tree&ref=pro%3Aany)
+    
+    * Mentorship
+    * [Marketing Mentorship](https://www.fiverr.com/categories/online-marketing/marketing-tips-and-advice?source=category_tree&ref=seller_level%3Atop_rated_seller%2Clevel_two_seller)
+    * [Design Mentorship](https://www.fiverr.com/categories/graphics-design/design-advice?source=category_tree&ref=seller_level%3Atop_rated_seller%2Clevel_two_seller)
+    * [Writing Mentorship](https://www.fiverr.com/categories/writing-translation/writing-tips-and-advice?source=category_tree&ref=seller_level%3Atop_rated_seller%2Clevel_two_seller)
+    * [Video Mentorship](https://www.fiverr.com/categories/video-animation/video-advice?source=category_tree&ref=seller_level%3Atop_rated_seller%2Clevel_two_seller)
+    * [Music Mentorship](https://www.fiverr.com/categories/music-audio/advice?source=category_tree&ref=seller_level%3Atop_rated_seller%2Clevel_two_seller)
+    
+* Photography
+    
+    Photography
+    
+    * Products & Lifestyle
+    * [Product Photographers](https://www.fiverr.com/categories/photography/product-photographers?source=category_tree)
+    * [Food Photographers](https://www.fiverr.com/categories/photography/food-photographers?source=category_tree)
+    * [Lifestyle & Fashion Photographers](https://www.fiverr.com/categories/photography/lifestyle-fashion-photographers?source=category_tree)
+    
+    * People & Scenes
+    * [Portrait Photographers](https://www.fiverr.com/categories/photography/portrait-photographers?source=category_tree)
+    * [Event Photographers](https://www.fiverr.com/categories/photography/event-photographers?source=category_tree)
+    * [Real Estate Photographers](https://www.fiverr.com/categories/photography/real-estate-photographers?source=category_tree)
+    * [Scenic Photographers](https://www.fiverr.com/categories/photography/scenic-photographers?source=category_tree)
+    
+    * Local Photography
+    * [Photographers in New York](https://www.fiverr.com/cp/photographers-in-new-york)
+    * [Photographers in Los Angeles](https://www.fiverr.com/cp/photographers-in-los-angeles)
+    * [Photographers in London](https://www.fiverr.com/cp/photographers-in-london)
+    * [Photographers in Paris](https://www.fiverr.com/cp/photographers-in-paris)
+    * [All Cities](https://www.fiverr.com/cp/local-photography-stores)
+    
+    * Miscellaneous
+    * [Photography Classes](https://www.creativelive.com/catalog/photography?utm_source=fiverr&utm_medium=referral&utm_campaign=verticals&utm_content=navbar)
+    * [Photo Preset CreationNew](https://www.fiverr.com/categories/photography/photo-preset-creation?source=category_tree)
+    * [Other](https://www.fiverr.com/categories/photography/photography-services?source=category_tree)
     
 
 Explore
