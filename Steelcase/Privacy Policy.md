@@ -201,7 +201,7 @@ Unless otherwise stated, Steelcase Inc. and, for those in the European Economic 
     * [Suppliers](https://www.steelcase.com/our-suppliers/)
     * [Supplier Diversity](https://www.steelcase.com/our-suppliers/#supplier-diversity_introduction)
 * [Customer Care](#)
-    * [Site Feedback](mailto:support@steelcasebrands.zendesk.com)
+    * Site Feedback
     * [Frequently Asked Questions](https://www.steelcase.com/frequently-asked-questions/)
     * [User Manuals](https://www.steelcase.com/resources/documents/)
     * [Warranty](https://www.steelcase.com/warranty/)
