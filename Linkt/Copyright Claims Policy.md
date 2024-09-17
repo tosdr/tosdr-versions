@@ -172,7 +172,7 @@ Legal
 Transurban Hardship Policy
 ==========================
 
-Last updated 12 July 2024
+Last updated 12 July 2024 | Print as PDF
 
 * * *
 
