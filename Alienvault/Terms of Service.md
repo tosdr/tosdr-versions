@@ -128,9 +128,9 @@ be\_ixf;ym\_202409 d\_17; ct\_50
             
             Solution Brief
             
-            ##### LevelBlue Managed Threat Detection and Response for Government
+            ##### Introducing LevelBlue. Cybersecurity. Simplified.
             
-            [Learn more](https://cyber.levelblue.com/m/5602dd156749d021/original/SB-MTDR-for-Gov.pdf)
+            [Learn more](https://cyber.levelblue.com/m/4a1fe39cf66df595/original/SB-LevelBlue-Overview.pdf)
             
             [View all Solution Briefs](https://www.alienvault.com/resource-center#content_solution-brief)
             
