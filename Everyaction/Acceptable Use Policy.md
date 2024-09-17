@@ -494,6 +494,16 @@ Powering CorporationsEducational institutionsEnergyFinancial institutionsFoundat
 
 who power Animal welfareArts & cultureDisaster reliefDiversity, equity, inclusion & belonging (DEIB)EducationEnvironmental changeFaith-basedHealthcareHuman servicesSocial justiceVolunteerismWorkplace developmentsocial impact
 
+![Foundry Ministries beneficiary telling his story.](/sites/default/files/styles/carousel_square_450x450_/public/2024-09/foundry-ministries-header-photo.png.webp?itok=kkLPXPw0)
+
+**Finding a new life after substance use disorder**
+
+Foundry Ministries helps people overcome life controlling problems such as substance use, homelessness, mental health disparities, and generational poverty.
+
+[Read their story onFinding a new life after substance use disorder](https://www.everyaction.com/case-studies/finding-new-life-after-substance-use-disorder)
+
+Impact Powered by:
+
 ![Family who has benefitted from Home Repair Services](/sites/default/files/styles/carousel_square_450x450_/public/2024-09/bonterra-home-repair-services_header-photo.jpg.webp?itok=PZyT7o1Z)
 
 **45 years of safer homes and stronger communities**
@@ -556,16 +566,6 @@ Impact Powered by:
 Learn how Northern Virginia Mental Health Foundation is delivering last-resort funding to address homelessness and job loss.
 
 [Read their story onRestoring hope with ‘last resort’ grants](https://www.everyaction.com/case-studies/restoring-hope-last-resort-grants) 
-
-Impact Powered by:
-
-![Staff of Mid-Shore Council on Family Violence](/sites/default/files/styles/carousel_square_450x450_/public/2024-07/midshore-midshore-header-image.png.webp?itok=PD948rEE)
-
-**Empowering victims to self-sufficiency**
-
-For over 40 years, Mid-Shore Council on Family Violence (MSCFV) has been a safe haven for domestic violence victims in rural Maryland.
-
-[Read their story onEmpowering victims to self-sufficiency](https://www.everyaction.com/case-studies/empowering-victims-self-sufficiency)
 
 Impact Powered by:
 
