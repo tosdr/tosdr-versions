@@ -197,57 +197,63 @@ Note: If at any time you should have any concern regarding security, privacy or 
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Saving time, saving money
-> -------------------------
+> Impossible to run our businesses without IO
+> -------------------------------------------
 > 
-> Thanks to Invoices Online, administration of our client accounts went from an absolute nightmare, to an exciting and pleasurable couple of hours every Friday.  The system just makes everything so quick and easy.
+> IO is an integral part of our day to day business. It allows me complete control and overview functionality, while still enabling franchise owners to run their various franchises without interruption.  
+>   
+> At Storietyd.co.za - a bookclub for Afrikaans children, with thousands of members - all our billing is automated, automated invoices, automated debit orders, automated payment allocation, and so forth. Administration would be an absolute nightmare without IO.  
+>   
+> We are suppliers of bulk educational products to schools, our reps in the field use IO for quotes, invoicing and managing debtors, directly from their smartphones / tablets.  
+>   
+> We are extremely satisfied with Invoices Online, and would certainly recommend that you try it out.
 
-Cornel Erasmus - TELA Loss Adjusters & Assessors
+Kobus Venter
 
-![valued client Kainos  (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6111&file=logo_300_100&type=&fe=dafe46bce6a4faac09aa20bcd13f5f05aecd5395080f49d3a2e2c15ee77089c7&c=138602622)  
-Kainos (Pty) Ltd
+![valued client WIP Digital Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=1603&file=logo_300_100&type=&fe=ef958836eaeaaec01265ea52ebb87a7a25e60232c25a59bb9172829400a54650&c=204145715)  
+WIP Digital Solutions
 
-![valued client SafeTclip](https://www.invoicesonline.co.za/scripts/image.php?bid=8368&file=logo_300_100&type=&fe=dafe46bce6a4faac09aa20bcd13f5f05aecd5395080f49d3a2e2c15ee77089c7&c=66096713)  
-SafeTclip
+![valued client Cpower Projects t/a Pro Pure Water ](https://www.invoicesonline.co.za/scripts/image.php?bid=7742&file=logo_300_100&type=&fe=ef958836eaeaaec01265ea52ebb87a7a25e60232c25a59bb9172829400a54650&c=200145736)  
+Cpower Projects t/a Pro Pure Water
 
-![valued client Norton Medical & Consult - Namibia](https://www.invoicesonline.co.za/scripts/image.php?bid=7934&file=logo_300_100&type=&fe=dafe46bce6a4faac09aa20bcd13f5f05aecd5395080f49d3a2e2c15ee77089c7&c=213890282)  
+![valued client Bloem Rugby Academy PTY (Ltd)](https://www.invoicesonline.co.za/scripts/image.php?bid=6451&file=logo_300_100&type=&fe=ef958836eaeaaec01265ea52ebb87a7a25e60232c25a59bb9172829400a54650&c=205151032)  
+Bloem Rugby Academy PTY (Ltd)
+
+![valued client ELLIE'S CLEANING CHICKS](https://www.invoicesonline.co.za/scripts/image.php?bid=6490&file=logo_300_100&type=&fe=ef958836eaeaaec01265ea52ebb87a7a25e60232c25a59bb9172829400a54650&c=71737988)  
+ELLIE'S CLEANING CHICKS
+
+![valued client Waterfinatics Swim School](https://www.invoicesonline.co.za/scripts/image.php?bid=2587&file=logo_300_100&type=&fe=ef958836eaeaaec01265ea52ebb87a7a25e60232c25a59bb9172829400a54650&c=85946697)  
+Waterfinatics Swim School
+
+![valued client Electro-Heat](https://www.invoicesonline.co.za/scripts/image.php?bid=8547&file=logo_300_100&type=&fe=ef958836eaeaaec01265ea52ebb87a7a25e60232c25a59bb9172829400a54650&c=189827615)  
+Electro-Heat
+
+![valued client MONSTER SECURITY SERVICES](https://www.invoicesonline.co.za/scripts/image.php?bid=5438&file=logo_300_100&type=&fe=ef958836eaeaaec01265ea52ebb87a7a25e60232c25a59bb9172829400a54650&c=154875155)  
+MONSTER SECURITY SERVICES
+
+![valued client Norton Medical & Consult - Namibia](https://www.invoicesonline.co.za/scripts/image.php?bid=7934&file=logo_300_100&type=&fe=ef958836eaeaaec01265ea52ebb87a7a25e60232c25a59bb9172829400a54650&c=184030783)  
 Norton Medical & Consult - Namibia
 
-![valued client One2b](https://www.invoicesonline.co.za/scripts/image.php?bid=4093&file=logo_300_100&type=&fe=dafe46bce6a4faac09aa20bcd13f5f05aecd5395080f49d3a2e2c15ee77089c7&c=144803978)  
-One2b
+![valued client Goju Ryu Karate Centre](https://www.invoicesonline.co.za/scripts/image.php?bid=2827&file=logo_300_100&type=&fe=ef958836eaeaaec01265ea52ebb87a7a25e60232c25a59bb9172829400a54650&c=145827950)  
+Goju Ryu Karate Centre
 
-![valued client Three Moons Emporium](https://www.invoicesonline.co.za/scripts/image.php?bid=7645&file=logo_300_100&type=&fe=dafe46bce6a4faac09aa20bcd13f5f05aecd5395080f49d3a2e2c15ee77089c7&c=172390417)  
-Three Moons Emporium
+![valued client Oukraal Merino's](https://www.invoicesonline.co.za/scripts/image.php?bid=3971&file=logo_300_100&type=&fe=ef958836eaeaaec01265ea52ebb87a7a25e60232c25a59bb9172829400a54650&c=145178466)  
+Oukraal Merino's
 
-![valued client Kaylas Creations](https://www.invoicesonline.co.za/scripts/image.php?bid=7957&file=logo_300_100&type=&fe=dafe46bce6a4faac09aa20bcd13f5f05aecd5395080f49d3a2e2c15ee77089c7&c=54183021)  
-Kaylas Creations
+![valued client MR Compressors& Industrial Supplies](https://www.invoicesonline.co.za/scripts/image.php?bid=7893&file=logo_300_100&type=&fe=ef958836eaeaaec01265ea52ebb87a7a25e60232c25a59bb9172829400a54650&c=3976087)  
+MR Compressors& Industrial Supplies
 
-![valued client Itroniq (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8072&file=logo_300_100&type=&fe=dafe46bce6a4faac09aa20bcd13f5f05aecd5395080f49d3a2e2c15ee77089c7&c=127081890)  
-Itroniq (Pty) Ltd
+![valued client Westside Car Audio CC](https://www.invoicesonline.co.za/scripts/image.php?bid=7028&file=logo_300_100&type=&fe=ef958836eaeaaec01265ea52ebb87a7a25e60232c25a59bb9172829400a54650&c=3751630)  
+Westside Car Audio CC
 
-![valued client CGHK Enterprises (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8288&file=logo_300_100&type=&fe=dafe46bce6a4faac09aa20bcd13f5f05aecd5395080f49d3a2e2c15ee77089c7&c=79722918)  
-CGHK Enterprises (PTY) LTD
+![valued client INVOICES/JOBCARDS ONLINE](https://www.invoicesonline.co.za/scripts/image.php?bid=6974&file=logo_300_100&type=&fe=ef958836eaeaaec01265ea52ebb87a7a25e60232c25a59bb9172829400a54650&c=141049455)  
+INVOICES/JOBCARDS ONLINE
 
-![valued client Printo](https://www.invoicesonline.co.za/scripts/image.php?bid=7618&file=logo_300_100&type=&fe=dafe46bce6a4faac09aa20bcd13f5f05aecd5395080f49d3a2e2c15ee77089c7&c=105520326)  
-Printo
+![valued client Tracknetics](https://www.invoicesonline.co.za/scripts/image.php?bid=8211&file=logo_300_100&type=&fe=ef958836eaeaaec01265ea52ebb87a7a25e60232c25a59bb9172829400a54650&c=43194683)  
+Tracknetics
 
-![valued client Creative Characters](https://www.invoicesonline.co.za/scripts/image.php?bid=6877&file=logo_300_100&type=&fe=dafe46bce6a4faac09aa20bcd13f5f05aecd5395080f49d3a2e2c15ee77089c7&c=78922748)  
-Creative Characters
-
-![valued client OrgChart Hosting Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=658&file=logo_300_100&type=&fe=dafe46bce6a4faac09aa20bcd13f5f05aecd5395080f49d3a2e2c15ee77089c7&c=164916817)  
-OrgChart Hosting Pty Ltd
-
-![valued client BD Maintenance](https://www.invoicesonline.co.za/scripts/image.php?bid=4541&file=logo_300_100&type=&fe=dafe46bce6a4faac09aa20bcd13f5f05aecd5395080f49d3a2e2c15ee77089c7&c=31126251)  
-BD Maintenance
-
-![valued client NGB HOLDINGS PTY LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=6918&file=logo_300_100&type=&fe=dafe46bce6a4faac09aa20bcd13f5f05aecd5395080f49d3a2e2c15ee77089c7&c=100073000)  
-NGB HOLDINGS PTY LTD
-
-![valued client High Point Marketing CC t/a Leads For Africa](https://www.invoicesonline.co.za/scripts/image.php?bid=6845&file=logo_300_100&type=&fe=dafe46bce6a4faac09aa20bcd13f5f05aecd5395080f49d3a2e2c15ee77089c7&c=173634877)  
-High Point Marketing CC t/a Leads For Africa
-
-![valued client Stevens Consulting](https://www.invoicesonline.co.za/scripts/image.php?bid=5551&file=logo_300_100&type=&fe=dafe46bce6a4faac09aa20bcd13f5f05aecd5395080f49d3a2e2c15ee77089c7&c=195446626)  
-Stevens Consulting
+![valued client Brilliant Roof Products](https://www.invoicesonline.co.za/scripts/image.php?bid=8079&file=logo_300_100&type=&fe=ef958836eaeaaec01265ea52ebb87a7a25e60232c25a59bb9172829400a54650&c=128006237)  
+Brilliant Roof Products
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
