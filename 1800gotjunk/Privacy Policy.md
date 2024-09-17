@@ -576,6 +576,14 @@ Sign up for our emails and get exclusive benefits
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
+Easy to talk to.
+
+Treb Ghenz Calgary 14/09/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
 Amazing service,!on time and did a great job for me. John and his partner were very courteous and efficient. Great job. Highly recommend.
 
 Dennis Church Calgary 14/09/2024
@@ -587,14 +595,6 @@ Dennis Church Calgary 14/09/2024
 Great people.
 
 Yves Rusi Calgary 14/09/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
-Easy to talk to.
-
-Treb Ghenz Calgary 14/09/2024
 
 ![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
 
@@ -632,6 +632,14 @@ Malcolm Propp Calgary 12/09/2024
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
+Came same day. They were polite and professional. Thank you for the great service!
+
+Liesa Evans Calgary 11/09/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
 Great guys and easy experience
 
 Honour Calgary 11/09/2024
@@ -648,9 +656,9 @@ Gail Singer Calgary 11/09/2024
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
-Came same day. They were polite and professional. Thank you for the great service!
+Quick, courteous and clean service.
 
-Liesa Evans Calgary 11/09/2024
+Robert Hill Calgary 10/09/2024
 
 ![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
 
@@ -675,14 +683,6 @@ lorne stasiuk Calgary 10/09/2024
 Guys were great! Very nice :)
 
 Darnelle Noel Calgary 10/09/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
-Quick, courteous and clean service.
-
-Robert Hill Calgary 10/09/2024
 
 ![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
 
@@ -952,17 +952,17 @@ Andrew Little LA Metro 13/09/2024
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
-Ethan and Rex were professional and efficient and did a great job for us.
+AJ and Luis were awesome! They did a quick and thorough job getting years of things out. Highly recommended.
 
-Mister Ed Wisconsin 13/09/2024
+Paulo Almas Austin 13/09/2024
 
 ![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
-AJ and Luis were awesome! They did a quick and thorough job getting years of things out. Highly recommended.
+Ethan and Rex were professional and efficient and did a great job for us.
 
-Paulo Almas Austin 13/09/2024
+Mister Ed Wisconsin 13/09/2024
 
 ![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
 
