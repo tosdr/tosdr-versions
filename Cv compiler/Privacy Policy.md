@@ -1745,6 +1745,8 @@ What do top resumes look like? Check out these expertly-written samples:
 
 [Director of Events](https://cvcompiler.com/director-of-events-resume-examples)
 
+[HR Operations Manager](https://cvcompiler.com/hr-operations-manager-resume-examples)
+
 ![Upload resume illustration](uploads-pre-acq/img/upload-illustration.svg)
 
 ### Upload  
