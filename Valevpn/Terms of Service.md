@@ -13,7 +13,7 @@ top of page
 
 Use tab to navigate through the menu items.
 
-[](https://www.valevpn.com/)
+[![](https://static.wixstatic.com/media/ac61b9_c5f60be3a9b64b8ab5f88b0f191d3eba~mv2.gif/v1/fill/w_200,h_100,al_c,blur_3,pstr/ezgif_com-gif-maker%20(2)_gif.gif)](https://www.valevpn.com/)
 
 ValeVPN Terms & Conditions
 --------------------------
