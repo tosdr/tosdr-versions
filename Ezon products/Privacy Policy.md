@@ -9,6 +9,7 @@
 * [About](https://ezonpro.com/about/)
 * Learn
     * [Product Quiz](https://ezonpro.com/product-quiz/)
+    * [Verify My Size](https://ezonpro.com/sizing/)
     * [Seatbelt Routing Guide](https://ezonpro.com/seatbelt-guide/)
     * [FAQ](https://ezonpro.com/faq/)
 * Resources
