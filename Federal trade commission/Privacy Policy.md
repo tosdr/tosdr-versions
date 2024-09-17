@@ -224,9 +224,9 @@ Main Menu Mega
     
     [Press Release](https://www.ftc.gov/news-events/news/press-releases)
     
-    ### [FTC Sends More Than $2.6 Million to Consumers Harmed by FloatMe’s Deceptive and Discriminatory Lending Practices](https://www.ftc.gov/news-events/news/press-releases/2024/09/ftc-sends-more-26-million-consumers-harmed-floatmes-deceptive-discriminatory-lending-practices)
+    ### [FTC Orders Shut Down Unauthorized Billing and Credit Card Laundering Schemes, Require Turn Over of Assets Valued at Approximately $40 Million](https://www.ftc.gov/news-events/news/press-releases/2024/09/ftc-orders-shut-down-unauthorized-billing-credit-card-laundering-schemes-require-turn-over-assets)
     
-    September 16, 2024
+    September 17, 2024
     
     [View News and Events](https://www.ftc.gov/news-events)
     
