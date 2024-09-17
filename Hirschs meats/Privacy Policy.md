@@ -63,7 +63,7 @@ Close this module
 
 Unlock Exclusive Savings with Hirsch’s Grill Packs! 🌟
 
-**Build Your Dream Grill Pack:**![](https://stg-hirschsmeatsi-temp.kinsta.cloud/wp-content/uploads/2024/08/hirsm-logo.png)
+**Build Your Dream Grill Pack:**![](https://www.hirschsmeats.com/wp-content/uploads/2024/09/hirsm-logo.png)
 
 * **Mix and Match:** Choose any six (6) different meats, 3 lbs. each.
 * **Expertly Prepared:** Custom cut, wrapped, and Pre-frozen for your convenience
