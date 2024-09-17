@@ -30,13 +30,16 @@ Navigation
     
     Latest News Stories
     
+    *  [![](https://media.king5.com/assets/KING/images/25f10a5b-9913-4f62-be92-5fbbedc05294/20240917T134919/25f10a5b-9913-4f62-be92-5fbbedc05294_16x9.jpg) ![](https://media.king5.com/assets/KING/images/25f10a5b-9913-4f62-be92-5fbbedc05294/20240917T134919/25f10a5b-9913-4f62-be92-5fbbedc05294_360x203.jpg)](https://www.king5.com/article/news/local/washington-states-cannabis-industry-federal-reclassification/281-76dc062c-3242-4e6e-8b5a-fde4eb179053)
+        
+        #### [Washington state's cannabis industry braces for change as federal reclassification considered](https://www.king5.com/article/news/local/washington-states-cannabis-industry-federal-reclassification/281-76dc062c-3242-4e6e-8b5a-fde4eb179053) [![](https://media.king5.com/assets/KING/images/25f10a5b-9913-4f62-be92-5fbbedc05294/20240917T134919/25f10a5b-9913-4f62-be92-5fbbedc05294_16x9.jpg) ![](https://media.king5.com/assets/KING/images/25f10a5b-9913-4f62-be92-5fbbedc05294/20240917T134919/25f10a5b-9913-4f62-be92-5fbbedc05294_360x203.jpg)](https://www.king5.com/article/news/local/washington-states-cannabis-industry-federal-reclassification/281-76dc062c-3242-4e6e-8b5a-fde4eb179053)
+        
+        #### [Cannabis industry braces for change as federal reclassification is considered](https://www.king5.com/article/news/local/washington-states-cannabis-industry-federal-reclassification/281-76dc062c-3242-4e6e-8b5a-fde4eb179053) [![](https://media.king5.com/assets/KING/images/25f10a5b-9913-4f62-be92-5fbbedc05294/20240917T134919/25f10a5b-9913-4f62-be92-5fbbedc05294_16x9.jpg) ![](https://media.king5.com/assets/KING/images/25f10a5b-9913-4f62-be92-5fbbedc05294/20240917T134919/25f10a5b-9913-4f62-be92-5fbbedc05294_360x203.jpg)](https://www.king5.com/article/news/local/washington-states-cannabis-industry-federal-reclassification/281-76dc062c-3242-4e6e-8b5a-fde4eb179053)
+        
+        #### [Mixed feelings define local cannabis industry's views of possible reclassification](https://www.king5.com/article/news/local/washington-states-cannabis-industry-federal-reclassification/281-76dc062c-3242-4e6e-8b5a-fde4eb179053)
     *  [![](https://media.king5.com/assets/KING/images/15c2141a-617d-4cd1-9393-5a7ede7f3a27/20240917T062107/15c2141a-617d-4cd1-9393-5a7ede7f3a27_16x9.jpg) ![](https://media.king5.com/assets/KING/images/15c2141a-617d-4cd1-9393-5a7ede7f3a27/20240917T062107/15c2141a-617d-4cd1-9393-5a7ede7f3a27_360x203.jpg)](https://www.king5.com/article/news/local/community-raises-thousands-capitol-hill-business-owner-recovering-violent-robbery/281-917fbd05-1984-48a5-8de6-e43fb5b4140f)
         
         #### [Community raises thousands to support Capitol Hill business owner recovering after violent robbery](https://www.king5.com/article/news/local/community-raises-thousands-capitol-hill-business-owner-recovering-violent-robbery/281-917fbd05-1984-48a5-8de6-e43fb5b4140f)
-        
-    *  [![](https://media.king5.com/assets/KING/images/b62f407d-3e59-4400-a296-fd27d21d14b2/20240917T051906/b62f407d-3e59-4400-a296-fd27d21d14b2_16x9.jpg) ![](https://media.king5.com/assets/KING/images/b62f407d-3e59-4400-a296-fd27d21d14b2/20240917T051906/b62f407d-3e59-4400-a296-fd27d21d14b2_360x203.jpg)](https://www.king5.com/article/news/local/amazon-new-return-to-office-mandate-impact-seattle-economy-housing-market-employees/281-a4417ca5-4b04-45c2-afd5-2c35af658ac2)
-        
-        #### [How Amazon's new return-to-office mandate could impact Seattle's economy, housing market and employees](https://www.king5.com/article/news/local/amazon-new-return-to-office-mandate-impact-seattle-economy-housing-market-employees/281-a4417ca5-4b04-45c2-afd5-2c35af658ac2)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -56,13 +59,13 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/6e50f7b1-1dab-4918-9f25-5f68b4dfebdf/20240917T005638/6e50f7b1-1dab-4918-9f25-5f68b4dfebdf_16x9.jpg) ![](https://media.king5.com/assets/KING/images/6e50f7b1-1dab-4918-9f25-5f68b4dfebdf/20240917T005638/6e50f7b1-1dab-4918-9f25-5f68b4dfebdf_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
+    *  [![](https://media.king5.com/assets/KING/images/34613e61-73ec-45a3-a481-3a71ff898f4f/20240917T115756/34613e61-73ec-45a3-a481-3a71ff898f4f_16x9.jpg) ![](https://media.king5.com/assets/KING/images/34613e61-73ec-45a3-a481-3a71ff898f4f/20240917T115756/34613e61-73ec-45a3-a481-3a71ff898f4f_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
         #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
-    *  [![](https://media.king5.com/assets/KING/images/c733d3d2-9961-4b0e-b39d-66b87200f533/20240812T163342/c733d3d2-9961-4b0e-b39d-66b87200f533_16x9.jpg) ![](https://media.king5.com/assets/KING/images/c733d3d2-9961-4b0e-b39d-66b87200f533/20240812T163342/c733d3d2-9961-4b0e-b39d-66b87200f533_360x203.jpg)](https://www.king5.com/article/weather/weather-blog/northern-lights-may-be-visible-in-western-washington/281-155d6662-e596-4e30-94f7-d4e43461db47)
+    *  [![](https://media.king5.com/assets/CCT/images/e52e645e-0b91-4f26-ba6f-40ba70997361/20240917T114315/e52e645e-0b91-4f26-ba6f-40ba70997361_16x9.jpg) ![](https://media.king5.com/assets/CCT/images/e52e645e-0b91-4f26-ba6f-40ba70997361/20240917T114315/e52e645e-0b91-4f26-ba6f-40ba70997361_360x203.jpg)](https://www.king5.com/article/news/nation-world/september-2024-full-moon-harvest-moon-partial-eclipse-supermoon-time/507-d36e7dcc-254f-4a7b-852b-640017b8e713)
         
-        #### [Northern lights possible in western Washington Monday night](https://www.king5.com/article/weather/weather-blog/northern-lights-may-be-visible-in-western-washington/281-155d6662-e596-4e30-94f7-d4e43461db47)
+        #### [What time is Tuesday's partial lunar eclipse?](https://www.king5.com/article/news/nation-world/september-2024-full-moon-harvest-moon-partial-eclipse-supermoon-time/507-d36e7dcc-254f-4a7b-852b-640017b8e713)
         
     
 * [Sports](https://www.king5.com/sports)
@@ -95,9 +98,9 @@ Navigation
 
 Seattle, WA »
 
-57°
+56°
 
-![Clear](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
+![Cloudy](/assets/shared-images/weather-icons/cloudy-day_210x210.png)
 
 Seattle, WA »](https://www.king5.com/weather)
 
