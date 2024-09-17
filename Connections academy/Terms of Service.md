@@ -433,6 +433,7 @@ LiveLesson sessions may be recorded and used for instructional and demonstrativ
 * [](https://twitter.com/connectionsacad)
 * [](https://www.youtube.com/connectionsacademy)
 * [](https://www.instagram.com/connectionsacademy/)
+* [](https://www.tiktok.com/@connectionsacademy)
 
 [Find Your School](#FIZI)
 
