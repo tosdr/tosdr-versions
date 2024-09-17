@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-5c9bc06a154e86c09cc55615d3cbc88f
+115ef9152a3677715fdfff1e25eb0b69
 
 [](# "Expand for more options")[](# "Search")
 
@@ -142,11 +142,11 @@ Terms and Conditions
 
 ### Featured Product
 
-[![26 mm by 7 mm vintage Czech glass teardrop beads](https://sojourner.biz/images/cache/glass/GL0168.200.jpg)](https://sojourner.biz/beads/glass/26-mm-by-7-mm-vintage-czech-glass-teardrop-beads.html "26 mm by 7 mm vintage Czech glass teardrop beads")
+[![12 mm by 10 Australian thunder egg beads](https://sojourner.biz/images/cache/stone/STN061.200.jpg)](https://sojourner.biz/beads/stone-m-z/other-stones/12-mm-by-10-australian-thunder-egg-beads.html "12 mm by 10 Australian thunder egg beads")
 
-#### [26 mm by 7 mm vintage Czech glass teardrop beads](https://sojourner.biz/beads/glass/26-mm-by-7-mm-vintage-czech-glass-teardrop-beads.html "26 mm by 7 mm vintage Czech glass teardrop beads")
+#### [12 mm by 10 Australian thunder egg beads](https://sojourner.biz/beads/stone-m-z/other-stones/12-mm-by-10-australian-thunder-egg-beads.html "12 mm by 10 Australian thunder egg beads")
 
-$9.00
+$56.00
 
 ### Best Sellers
 
