@@ -105,14 +105,14 @@ Get the most out of your ergonomic support with a video on how to properly use o
 
 [Learn More](https://youtube.com/shorts/UbOcTMg4a4I?si=AIqa0GjC16pzd8nT)
 
-![](//orbitalsupportsystems.com/cdn/shop/files/FullSizeRender_3_9df97cac-c16b-4d88-946e-ece18b180e1b.jpg?v=1701467854&width=1080)
+[![](//orbitalsupportsystems.com/cdn/shop/files/FullSizeRender_3_9df97cac-c16b-4d88-946e-ece18b180e1b.jpg?v=1701467854&width=1080)](https://orbitalsupportsystems.com/pages/trade-shows)
 
 Upcoming Conferences and Trade Shows
 ------------------------------------
 
 Visit our booth at the next conference or trade show!
 
-Learn More
+[Learn More](https://orbitalsupportsystems.com/pages/trade-shows)
 
 Connect With Us!
 
