@@ -731,7 +731,7 @@ Questions & Queries
 * [English](https://now.gg/terms-and-privacy.html)
 * [中文 – 繁體](https://now.gg/tw/terms-and-privacy.html)
 * [한국어](https://now.gg/ko/terms-and-privacy.html)
-* [日本語](https://now.gg/ja/terms-and-privacy.html)
+* [日本語](https://now.gg/ja/index.html)
 * [中文 – 简体](https://now.gg/cn/terms-and-privacy.html)
 
 English
