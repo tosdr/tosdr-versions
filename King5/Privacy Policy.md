@@ -30,16 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/25f10a5b-9913-4f62-be92-5fbbedc05294/20240917T134919/25f10a5b-9913-4f62-be92-5fbbedc05294_16x9.jpg) ![](https://media.king5.com/assets/KING/images/25f10a5b-9913-4f62-be92-5fbbedc05294/20240917T134919/25f10a5b-9913-4f62-be92-5fbbedc05294_360x203.jpg)](https://www.king5.com/article/news/local/washington-states-cannabis-industry-federal-reclassification/281-76dc062c-3242-4e6e-8b5a-fde4eb179053)
+    *  [![](https://media.king5.com/assets/KING/images/a77d57f9-72f1-4ff5-81e8-27a8f4322094/a77d57f9-72f1-4ff5-81e8-27a8f4322094_16x9.jpg) ![](https://media.king5.com/assets/KING/images/a77d57f9-72f1-4ff5-81e8-27a8f4322094/a77d57f9-72f1-4ff5-81e8-27a8f4322094_360x203.jpg)](https://www.king5.com/article/entertainment/events/when-does-washington-state-fair-end-2024/281-81e8b65d-c979-4ff5-a8ba-2f2e4b527e28)
         
-        #### [Washington state's cannabis industry braces for change as federal reclassification considered](https://www.king5.com/article/news/local/washington-states-cannabis-industry-federal-reclassification/281-76dc062c-3242-4e6e-8b5a-fde4eb179053) [![](https://media.king5.com/assets/KING/images/25f10a5b-9913-4f62-be92-5fbbedc05294/20240917T134919/25f10a5b-9913-4f62-be92-5fbbedc05294_16x9.jpg) ![](https://media.king5.com/assets/KING/images/25f10a5b-9913-4f62-be92-5fbbedc05294/20240917T134919/25f10a5b-9913-4f62-be92-5fbbedc05294_360x203.jpg)](https://www.king5.com/article/news/local/washington-states-cannabis-industry-federal-reclassification/281-76dc062c-3242-4e6e-8b5a-fde4eb179053)
+        #### [When does the Washington State Fair end?](https://www.king5.com/article/entertainment/events/when-does-washington-state-fair-end-2024/281-81e8b65d-c979-4ff5-a8ba-2f2e4b527e28)
         
-        #### [Cannabis industry braces for change as federal reclassification is considered](https://www.king5.com/article/news/local/washington-states-cannabis-industry-federal-reclassification/281-76dc062c-3242-4e6e-8b5a-fde4eb179053) [![](https://media.king5.com/assets/KING/images/25f10a5b-9913-4f62-be92-5fbbedc05294/20240917T134919/25f10a5b-9913-4f62-be92-5fbbedc05294_16x9.jpg) ![](https://media.king5.com/assets/KING/images/25f10a5b-9913-4f62-be92-5fbbedc05294/20240917T134919/25f10a5b-9913-4f62-be92-5fbbedc05294_360x203.jpg)](https://www.king5.com/article/news/local/washington-states-cannabis-industry-federal-reclassification/281-76dc062c-3242-4e6e-8b5a-fde4eb179053)
+    *  [![](https://media.king5.com/assets/KING/images/2c529a20-dc41-4899-9932-4272dbb87af7/20240911T132455/2c529a20-dc41-4899-9932-4272dbb87af7_16x9.jpg) ![](https://media.king5.com/assets/KING/images/2c529a20-dc41-4899-9932-4272dbb87af7/20240911T132455/2c529a20-dc41-4899-9932-4272dbb87af7_360x203.jpg)](https://www.king5.com/article/news/crime/suspect-bothell-sexual-assault-charged-child-molestation/281-20bcaf49-605e-4e8f-bb96-2912cc618f06)
         
-        #### [Mixed feelings define local cannabis industry's views of possible reclassification](https://www.king5.com/article/news/local/washington-states-cannabis-industry-federal-reclassification/281-76dc062c-3242-4e6e-8b5a-fde4eb179053)
-    *  [![](https://media.king5.com/assets/KING/images/15c2141a-617d-4cd1-9393-5a7ede7f3a27/20240917T062107/15c2141a-617d-4cd1-9393-5a7ede7f3a27_16x9.jpg) ![](https://media.king5.com/assets/KING/images/15c2141a-617d-4cd1-9393-5a7ede7f3a27/20240917T062107/15c2141a-617d-4cd1-9393-5a7ede7f3a27_360x203.jpg)](https://www.king5.com/article/news/local/community-raises-thousands-capitol-hill-business-owner-recovering-violent-robbery/281-917fbd05-1984-48a5-8de6-e43fb5b4140f)
-        
-        #### [Community raises thousands to support Capitol Hill business owner recovering after violent robbery](https://www.king5.com/article/news/local/community-raises-thousands-capitol-hill-business-owner-recovering-violent-robbery/281-917fbd05-1984-48a5-8de6-e43fb5b4140f)
+        #### [Suspect in Bothell sexual assault charged with child molestation, burglary](https://www.king5.com/article/news/crime/suspect-bothell-sexual-assault-charged-child-molestation/281-20bcaf49-605e-4e8f-bb96-2912cc618f06)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -98,7 +95,7 @@ Navigation
 
 Seattle, WA »
 
-56°
+62°
 
 ![Cloudy](/assets/shared-images/weather-icons/cloudy-day_210x210.png)
 
