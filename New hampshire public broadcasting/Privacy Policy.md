@@ -188,11 +188,11 @@ NHPBS inspires one million Granite Staters each month with engaging and trusted 
 * [**Episode 2 Preview** | Moonflower Murders](https://video.nhpbs.org/video/episode-2-preview-xr98p7?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Preview** | Jazz Music Awards 2023](https://video.nhpbs.org/video/preview-4evwgt?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Silence in Sikeston Love & Grief for a Young, Black Father** | Local, USA](https://video.nhpbs.org/video/local-usa-silence-in-sikeston-love-grief-young-black-father?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**The role of celebrity endorsements in modern politics** | PBS News Hour](https://video.nhpbs.org/video/star-power-1726428190?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**A Brief But Spectacular take on multigenerational housing** | PBS News Hour](https://video.nhpbs.org/video/brief-but-spectacular-1726511970?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**Vote 2024 Table Talk** | Milwaukee PBS Specials](https://video.nhpbs.org/video/vote-2024-table-talk-pkgews?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**Trailer Wild Hogs and Saffron** | Independent Lens](https://video.nhpbs.org/video/trailer-wild-hogs-and-saffron-7xdydw?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**"South Korea's Adoption Reckoning" - Preview** | FRONTLINE](https://video.nhpbs.org/video/south-koreas-adoption-reckoning-preview?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Vetting Candidates** | The State We're In](https://video.nhpbs.org/video/vetting-candidates-laf8jc?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**Kevin Hassett** | Firing Line](https://video.nhpbs.org/video/kevin-hassett-u7vonu?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**full episode, 9/13/24** | Washington Week with The Atlantic](https://video.nhpbs.org/video/washington-week-with-the-atlantic-full-episode-91324-3cnurw?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 
 **FCC Public File Info**: [WENH](https://publicfiles.fcc.gov/tv-profile/wenh-tv) | [WLED](https://publicfiles.fcc.gov/tv-profile/wled-tv) | [WEKW](https://publicfiles.fcc.gov/tv-profile/wekw-tv) | [EEO Public File Report](https://publicfiles.fcc.gov/tv-profile/wenh-tv/equal-employment-opportunity-records/additional-documents/eeo-public-file-reports/5d0f4964-7b9d-41c3-c658-a55a34730f8a/) | For assistance, please email [themailbox@nhpbs.org](mailto:themailbox@nhpbs.org)
 
