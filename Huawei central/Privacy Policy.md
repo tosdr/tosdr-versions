@@ -65,6 +65,9 @@ Huawei Central
     
 * [Wearables](https://www.huaweicentral.com/category/wearables/)
     
+    * [![Huawei smartwatch EDD-B39](https://www.huaweicentral.com/wp-content/uploads/2024/09/Smartwatch-400x240.jpg)
+        
+        Huawei certifies new smartwatch EDD-B39 with satellite SMS feature](https://www.huaweicentral.com/huawei-certifies-new-smartwatch-edd-b39-with-satellite-sms-feature/)
     * [![Huawei Watch GT 5 live video](https://www.huaweicentral.com/wp-content/uploads/2024/09/Watch-GT-5-video-400x240.jpg)
         
         Huawei Watch GT 5 live unboxing video leaked before official release](https://www.huaweicentral.com/huawei-watch-gt-5-live-unboxing-video-leaked-before-official-release/)
@@ -77,9 +80,6 @@ Huawei Central
     * [![Huawei Watch GT 5 first look](https://www.huaweicentral.com/wp-content/uploads/2024/09/Watch-GT-5-image-400x240.jpg)
         
         This could be our first look at Huawei Watch GT 5](https://www.huaweicentral.com/this-could-be-our-first-look-at-huawei-watch-gt-5/)
-    * [![Huawei Watch Fit 3 September 2024 update](https://www.huaweicentral.com/wp-content/uploads/2024/09/Watch-Fit-3-400x240.jpg)
-        
-        Huawei Watch Fit 3 gets September 2024 improvements update](https://www.huaweicentral.com/huawei-watch-fit-3-gets-september-2024-improvements-update/)
     
 * [Contact Us](https://www.huaweicentral.com/contact/)
 
