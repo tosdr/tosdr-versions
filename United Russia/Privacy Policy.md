@@ -299,6 +299,38 @@
 
 [Все новости](https://er.ru/activity/news)
 
+[![«Молодая Гвардия Единой России» доставила воду спецслужбам и жителям Станично-Луганского района, пострадавшим от пожара](https://cdn.er.ru/img/stubs/small/1.jpg)](https://er.ru/activity/news/molodaya-gvardiya-edinoj-rossii-dostavila-vodu-specsluzhbam-i-zhitelyam-stanichno-luganskogo-rajona-postradavshim-ot-pozhara)
+
+[«Молодая Гвардия Единой России» доставила воду спецслужбам и жителям Станично-Луганского района, пострадавшим от пожара](https://er.ru/activity/news/molodaya-gvardiya-edinoj-rossii-dostavila-vodu-specsluzhbam-i-zhitelyam-stanichno-luganskogo-rajona-postradavshim-ot-pozhara)
+
+[#МГЕР](https://er.ru/activity/news?tags%5B0%5D=47) [#Луганская Народная Республика](https://er.ru/activity/news?tags%5B0%5D=126130) [#пожары](https://er.ru/activity/news?tags%5B0%5D=165) [#ЧС](https://er.ru/activity/news?tags%5B0%5D=2991) [#ЕРпомогает](https://er.ru/activity/news?tags%5B0%5D=147285)
+
+Сегодня 12:49
+
+[![Анна Кузнецова: «Единая Россия» в осеннюю сессию продолжит работу по поддержке семей и защите материнства и детства](https://cdn.er.ru/media/news/September2024/KvHN6F0P0bMec2SITUN5-small.jpg)](https://er.ru/activity/news/anna-kuznecova-edinaya-rossiya-v-osennyuyu-sessiyu-prodolzhit-rabotu-po-podderzhke-semej-i-zashite-materinstva-i-detstva)
+
+[Анна Кузнецова: «Единая Россия» в осеннюю сессию продолжит работу по поддержке семей и защите материнства и детства](https://er.ru/activity/news/anna-kuznecova-edinaya-rossiya-v-osennyuyu-sessiyu-prodolzhit-rabotu-po-podderzhke-semej-i-zashite-materinstva-i-detstva)
+
+[#Кузнецова](https://er.ru/activity/news?tags%5B0%5D=4127) [#фракцияЕР](https://er.ru/activity/news?tags%5B0%5D=126717) [#семьисдетьми](https://er.ru/activity/news?tags%5B0%5D=136562) [#маткапитал](https://er.ru/activity/news?tags%5B0%5D=4187) [#социальныеинициативы](https://er.ru/activity/news?tags%5B0%5D=140070) [#поддержкасемейсдетьми](https://er.ru/activity/news?tags%5B0%5D=143839) [#семьиучастниковСВО](https://er.ru/activity/news?tags%5B0%5D=1093476) [#льготнаяипотека](https://er.ru/activity/news?tags%5B0%5D=136631) [#социальныеобязательства](https://er.ru/activity/news?tags%5B0%5D=123666) [#бюджет](https://er.ru/activity/news?tags%5B0%5D=112) [#нацпроекты](https://er.ru/activity/news?tags%5B0%5D=127007)
+
+Сегодня 11:31
+
+[![Александр Жуков: Особенность бюджета на предстоящую трёхлетку – усиление поддержки регионов](https://cdn.er.ru/media/news/September2024/xEUu0IyKGOKs9pzNykie-small.jpg)](https://er.ru/activity/news/aleksandr-zhukov-osobennost-byudzheta-na-predstoyashuyu-tryohletku-usilenie-podderzhki-regionov)
+
+[Александр Жуков: Особенность бюджета на предстоящую трёхлетку – усиление поддержки регионов](https://er.ru/activity/news/aleksandr-zhukov-osobennost-byudzheta-na-predstoyashuyu-tryohletku-usilenie-podderzhki-regionov)
+
+[#Жуков](https://er.ru/activity/news?tags%5B0%5D=824) [#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#ФракцияЕР](https://er.ru/activity/news?tags%5B0%5D=1090016) [#законодательство](https://er.ru/activity/news?tags%5B0%5D=692) [#бюджет](https://er.ru/activity/news?tags%5B0%5D=112)
+
+Сегодня 11:28
+
+[![Дмитрий Вяткин: «Единая Россия» прорабатывает с Правительством 15 законодательных инициатив по поддержке участников СВО](https://cdn.er.ru/media/news/September2024/rI6Rx77o1NwyjhBrV1on-small.jpg)](https://er.ru/activity/news/dmitrij-vyatkin-edinaya-rossiya-prorabatyvaet-s-pravitelstvom-15-zakonodatelnyh-iniciativ-po-podderzhke-uchastnikov-svo)
+
+[Дмитрий Вяткин: «Единая Россия» прорабатывает с Правительством 15 законодательных инициатив по поддержке участников СВО](https://er.ru/activity/news/dmitrij-vyatkin-edinaya-rossiya-prorabatyvaet-s-pravitelstvom-15-zakonodatelnyh-iniciativ-po-podderzhke-uchastnikov-svo)
+
+[#Вяткин](https://er.ru/activity/news?tags%5B0%5D=1653) [#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#законопроект](https://er.ru/activity/news?tags%5B0%5D=116) [#законотворчество](https://er.ru/activity/news?tags%5B0%5D=10327) [#СВО](https://er.ru/activity/news?tags%5B0%5D=1092872) [#спецоперация](https://er.ru/activity/news?tags%5B0%5D=1092566) [#поддержкавоеннослужащих](https://er.ru/activity/news?tags%5B0%5D=1094152) [#поддержкасемейвоеннослужащих](https://er.ru/activity/news?tags%5B0%5D=1093581)
+
+Сегодня 11:12
+
 [![«Единая Россия» и фонд «Наша Правда» передали в военный госпиталь им. Вишневского аппарат УЗИ](https://cdn.er.ru/media/news/September2024/ViQQsJNfytIKf4DIP6iA-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-i-fond-nasha-pravda-peredali-v-voennyj-gospital-im-vishnevskogo-apparat-uzi)
 
 [«Единая Россия» и фонд «Наша Правда» передали в военный госпиталь им. Вишневского аппарат УЗИ](https://er.ru/activity/news/edinaya-rossiya-i-fond-nasha-pravda-peredali-v-voennyj-gospital-im-vishnevskogo-apparat-uzi)
@@ -312,38 +344,6 @@
 [«Единая Россия» и МГЕР помогают пострадавшим от пожаров жителям ЛНР](https://er.ru/activity/news/edinaya-rossiya-i-mger-pomogayut-postradavshim-ot-pozharov-zhitelyam-lnr)
 
 [#Луганская Народная Республика](https://er.ru/activity/news?tags%5B0%5D=126130) [#пожары](https://er.ru/activity/news?tags%5B0%5D=165) [#МГЕР](https://er.ru/activity/news?tags%5B0%5D=38581) [#МолодаяГвардияЕдинойРоссии](https://er.ru/activity/news?tags%5B0%5D=1094676) [#МолодаяГвардия](https://er.ru/activity/news?tags%5B0%5D=106617) [#поддержка](https://er.ru/activity/news?tags%5B0%5D=519) [#Голубович](https://er.ru/activity/news?tags%5B0%5D=1093502) [#Водолацкий](https://er.ru/activity/news?tags%5B0%5D=8468)
-
-16.09.24
-
-[![МГЕР и «Волонтёрская Рота» продолжают гуманитарную миссию в Рыльском районе Курской области](https://cdn.er.ru/media/news/September2024/x2A9RZ47Yaw7KdUHYTDG-small.jpg)](https://er.ru/activity/news/mger-i-volontyorskaya-rota-prodolzhayut-gumanitarnuyu-missiyu-v-rylskom-rajone-kurskoj-oblasti)
-
-[МГЕР и «Волонтёрская Рота» продолжают гуманитарную миссию в Рыльском районе Курской области](https://er.ru/activity/news/mger-i-volontyorskaya-rota-prodolzhayut-gumanitarnuyu-missiyu-v-rylskom-rajone-kurskoj-oblasti)
-
-[#Курская область](https://er.ru/activity/news?tags%5B0%5D=579) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#МГЕР](https://er.ru/activity/news?tags%5B0%5D=47) [#МолодаяГвардия](https://er.ru/activity/news?tags%5B0%5D=106617) [#ВолонтерскаяРота](https://er.ru/activity/news?tags%5B0%5D=131631) [#помощьвоеннослужащим](https://er.ru/activity/news?tags%5B0%5D=1093164) [#сборгумпомощи](https://er.ru/activity/news?tags%5B0%5D=1093180) [#гумпомощь](https://er.ru/activity/news?tags%5B0%5D=8562) [#гуманитарнаямиссия](https://er.ru/activity/news?tags%5B0%5D=1092899) [#Потапов](https://er.ru/activity/news?tags%5B0%5D=19123)
-
-16.09.24
-
-[![Более 4,5 тысяч волонтёров МГЕР и «Волонтёрской Роты» прошли через гуманитарную миссию в новых регионах](https://cdn.er.ru/media/news/September2024/QsvOArL5p1ZhRiymlzHS-small.jpg)](https://er.ru/activity/news/bolee-4-5-tysyach-volontyorov-mger-i-volontyorskoj-roty-proshli-cherez-gumanitarnuyu-missiyu-v-novyh-regionah)
-
-[Более 4,5 тысяч волонтёров МГЕР и «Волонтёрской Роты» прошли через гуманитарную миссию в новых регионах](https://er.ru/activity/news/bolee-4-5-tysyach-volontyorov-mger-i-volontyorskoj-roty-proshli-cherez-gumanitarnuyu-missiyu-v-novyh-regionah)
-
-[#МГЕР](https://er.ru/activity/news?tags%5B0%5D=47) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#волонтерскаярота](https://er.ru/activity/news?tags%5B0%5D=1090569) [#Демидов](https://er.ru/activity/news?tags%5B0%5D=8672) [#волонтерство](https://er.ru/activity/news?tags%5B0%5D=19443) [#гуманитарнаямиссия](https://er.ru/activity/news?tags%5B0%5D=1092899)
-
-16.09.24
-
-[![Анна Кузнецова: За неделю приёмов граждан по вопросам правовой поддержки в «Единую Россию» обратились более 10 тысяч человек](https://cdn.er.ru/media/news/September2024/BEtvvuqDiBymQ7ak4r4C-small.jfif)](https://er.ru/activity/news/anna-kuznecova-za-nedelyu-priyomov-grazhdan-po-voprosam-pravovoj-podderzhki-v-edinuyu-rossiyu-obratilis-bolee-10-tysyach-chelovek)
-
-[Анна Кузнецова: За неделю приёмов граждан по вопросам правовой поддержки в «Единую Россию» обратились более 10 тысяч человек](https://er.ru/activity/news/anna-kuznecova-za-nedelyu-priyomov-grazhdan-po-voprosam-pravovoj-podderzhki-v-edinuyu-rossiyu-obratilis-bolee-10-tysyach-chelovek)
-
-[#Кузнецова](https://er.ru/activity/news?tags%5B0%5D=4127) [#неделяприемов](https://er.ru/activity/news?tags%5B0%5D=113281) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#правоваяподдержка](https://er.ru/activity/news?tags%5B0%5D=1092958) [#Воронежская область](https://er.ru/activity/news?tags%5B0%5D=1166) [#Чеченская Республика](https://er.ru/activity/news?tags%5B0%5D=1090169)
-
-16.09.24
-
-[![Владимир Якушев: Ключевая задача «Единой России» в осеннюю сессию – работа над бюджетом и отражением в нём положений народной программы партии](https://cdn.er.ru/media/news/September2024/STJhaqu39gBMb53mj95a-small.jpg)](https://er.ru/activity/news/vladimir-yakushev-klyuchevaya-zadacha-edinoj-rossii-v-osennyuyu-sessiyu-rabota-nad-byudzhetom-i-otrazheniem-v-nyom-polozhenij-narodnoj-programmy-partii)
-
-[Владимир Якушев: Ключевая задача «Единой России» в осеннюю сессию – работа над бюджетом и отражением в нём положений народной программы партии](https://er.ru/activity/news/vladimir-yakushev-klyuchevaya-zadacha-edinoj-rossii-v-osennyuyu-sessiyu-rabota-nad-byudzhetom-i-otrazheniem-v-nyom-polozhenij-narodnoj-programmy-partii)
-
-[#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#фракцияЕР](https://er.ru/activity/news?tags%5B0%5D=110930) [#осенняясессия](https://er.ru/activity/news?tags%5B0%5D=121119) [#бюджет](https://er.ru/activity/news?tags%5B0%5D=112) [#социальныеинициативы](https://er.ru/activity/news?tags%5B0%5D=140070)
 
 16.09.24
 
