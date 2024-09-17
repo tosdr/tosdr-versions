@@ -491,6 +491,7 @@ Residents of California, Colorado, and Virginia should read our [Supplemental P
 * [](https://twitter.com/connectionsacad)
 * [](https://www.youtube.com/connectionsacademy)
 * [](https://www.instagram.com/connectionsacademy/)
+* [](https://www.tiktok.com/@connectionsacademy)
 
 [Find Your School](#FIZI)
 
