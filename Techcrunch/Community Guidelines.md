@@ -98,11 +98,11 @@ Trending Tech Topics
 --------------------
 
 * [iOS 18](https://techcrunch.com/2024/09/16/ios-18-is-now-available-to-download/)
-* [ChatGPT o1](https://techcrunch.com/2024/09/13/first-impressions-of-chatgpt-o1-an-ai-designed-to-overthink-it/)
-* [TikTok Ban](https://techcrunch.com/2024/09/16/as-tiktok-ban-heads-to-court-bytedances-lemon8-surges/)
+* [Snap Spectacles](https://techcrunch.com/2024/09/17/snaps-extremely-large-spectacles-bring-impressive-ar-to-developers-at-99-a-month/)
+* [Mistral Free Tier](https://techcrunch.com/2024/09/17/mistral-launches-a-free-tier-for-developers-to-test-its-ai-models/)
 * [Apple AirPods 4](https://techcrunch.com/2024/09/16/apple-airpods-4-with-active-noise-cancellation-review/)
-* [Flappy Bird](https://techcrunch.com/2024/09/15/flappy-birds-creator-disavows-official-new-version-of-the-game/)
-* [Tech Layoffs](https://techcrunch.com/2024/09/12/tech-layoffs-2024-list/)
+* [Mozilla Exits The Fediverse](https://techcrunch.com/2024/09/17/mozilla-exits-the-fediverse-and-will-shutter-its-mastodon-server-in-december/)
+* [Tech Layoffs](https://techcrunch.com/2024/09/17/tech-layoffs-2024-list/)
 * [ChatGPT](https://techcrunch.com/2024/09/12/chatgpt-everything-to-know-about-the-ai-chatbot/)
 
 * [Facebook](https://www.facebook.com/techcrunch)
