@@ -136,31 +136,31 @@ Advertisement
 
 ###### Throwback Documentaries
 
-* [![CIA Secret Experiments](/wp-content/thumbnails/7065-100x70.jpg?x53432)
+* [![Synth Britannia](/wp-content/thumbnails/3383-100x70.jpg?x53432)
     
-    CIA Secret Experiments
+    Synth Britannia
     
-    It's the height of the Cold War and the United States government is desperate to combat the spread of Communism. The CIA launches a highly classified, top secret research program into the covert use o](https://documentaryheaven.com/cia-secret-experiments/ "CIA Secret Experiments")
-* [![Chances: The Women of Magdalene](/wp-content/thumbnails/1383-100x70.jpg?x53432)
+    Documentary following a generation of post-punk musicians who took the synthesiser from the experimental fringes to the centre of the pop stage.In the late 1970s, small pockets of electronic artists](https://documentaryheaven.com/synth-britannia/ "Synth Britannia")
+* [![Robbo vs Banksy: Graffiti Wars](/wp-content/thumbnails/14649-100x70.jpg?x53432)
     
-    Chances: The Women of Magdalene
+    Robbo vs Banksy: Graffiti Wars
     
-    InIspiring uplift abounds in "Chances: The Women of Magdalene," a slickly produced but unmistakably sincere docu about a femme Episcopalian priest's outreach program to rehabilitate Nashville prostitu](https://documentaryheaven.com/chances-the-women-of-magdalene/ "Chances: The Women of Magdalene")
-* [![Slavery By Another Name](/wp-content/thumbnails/6424-100x70.jpg?x53432)
+    The man is described by some as the most important figure in counter culture art and the chances are you have never heard of him. Most of his work no longer exists and was painted illegally in the fir](https://documentaryheaven.com/robbo-vs-banksy-graffiti-wars/ "Robbo vs Banksy: Graffiti Wars")
+* [![Story of Korean War in Colour](/wp-content/thumbnails/7088-100x70.jpg?x53432)
     
-    Slavery By Another Name
+    Story of Korean War in Colour
     
-    For most Americans this is entirely new history. Slavery by Another Name gives voice to the largely forgotten victims and perpetrators of forced labor and features their descendants living today.Sla](https://documentaryheaven.com/slavery-by-another-name/ "Slavery By Another Name")
-* [![Know your Mushrooms (2008)](/wp-content/thumbnails/2626-100x70.jpg?x53432)
+    June 25th 2010, marked the 60th anniversary of the outbreak of a merciless conflict that brought the world to the brink of nuclear armageddon and scarred a nation so deeply that it is still bitterly d](https://documentaryheaven.com/story-of-korean-war-in-colour/ "Story of Korean War in Colour")
+* [![Netanyahu At War](/wp-content/thumbnails/10654-100x70.jpg?x53432)
     
-    Know your Mushrooms (2008)
+    Netanyahu At War
     
-    Ron Mann investigates the miraculous, near-secret world of fungi. Visionaries Gary Lincoff and Larry Evans lead us on a hunt for the wild mushroom and the deeper cultural experiences attached to the m](https://documentaryheaven.com/know-your-mushrooms-2008/ "Know your Mushrooms (2008)")
-* [![Beyond The Mat](/wp-content/thumbnails/6712-100x70.jpg?x53432)
+    The United States and Israel have historic ties which run quite deep but in this two hour PBS Frontline special "Netanyahu at War" we examine Benjamin Netanyahu, the Israeli Prime Ministers rise](https://documentaryheaven.com/netanyahu-at-war/ "Netanyahu At War")
+* [![The Weather Underground (2003)](/wp-content/thumbnails/1523-100x70.jpg?x53432)
     
-    Beyond The Mat
+    The Weather Underground (2003)
     
-    Beyond the Mat is a 1999 documentary directed by Barry W. Blaustein. The movie focuses on the lives of professional wrestlers outside of the ring, primarily Mick Foley, Terry Funk, and Jake Roberts, a](https://documentaryheaven.com/beyond-the-mat/ "Beyond The Mat")
+    This film tells the unbelievable story of the weathermen the group of 70s radicals who fueled by outrage over the vietnam war & racism in america went underground throughout much of the decade to](https://documentaryheaven.com/the-weather-underground-2003/ "The Weather Underground (2003)")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
