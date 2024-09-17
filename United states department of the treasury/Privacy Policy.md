@@ -557,6 +557,10 @@ MENU MENU
     [Press Releases](https://home.treasury.gov/news/press-releases)
     ---------------------------------------------------------------
     
+    September 17, 2024
+    
+    [U.S. Department of the Treasury Awards Over $7 Million to Arizona to Help Small Businesses Grow and Hire](https://home.treasury.gov/news/press-releases/jy2585)
+    
     September 16, 2024
     
     [Treasury Sanctions Georgian Officials and Extremists for Serious Human Rights Abuse](https://home.treasury.gov/news/press-releases/jy2580)
@@ -565,26 +569,22 @@ MENU MENU
     
     [Treasury Sanctions Enablers of the Intellexa Commercial Spyware Consortium](https://home.treasury.gov/news/press-releases/jy2581)
     
-    September 13, 2024
-    
-    [U.S. Department of the Treasury Issues Proposed Rules Supporting Expanded Tribal General Welfare for Tribal Communities](https://home.treasury.gov/news/press-releases/jy2579)
-    
     [View All Press Releases](https://home.treasury.gov/news/press-releases "View all Press Releases")
     
     [Remarks and Statements](https://home.treasury.gov/news/press-releases/statements-remarks)
     ------------------------------------------------------------------------------------------
     
+    September 17, 2024
+    
+    [Remarks by Under Secretary for Domestic Finance Nellie Liang at the Georgetown University Financial Markets Quality Conference](https://home.treasury.gov/news/press-releases/jy2584)
+    
+    September 17, 2024
+    
+    [Remarks by Acting Assistant Secretary for Financial Institutions Laurie Schaffer at The Geneva Association’s Programme on Regulation and Supervision (PROGRES) Seminar 2024](https://home.treasury.gov/news/press-releases/jy2583)
+    
     September 10, 2024
     
     [Joint Statement on the U.S.-UK Financial Regulatory Working Group](https://home.treasury.gov/news/press-releases/jy2569)
-    
-    September 9, 2024
-    
-    [Remarks by Treasury Department’s Counselor for Racial Equity Janis Bowdler at the Treasury Advisory Committee on Racial Equity Fall Meeting](https://home.treasury.gov/news/press-releases/jy2582)
-    
-    September 6, 2024
-    
-    [Remarks by Secretary of the Treasury Janet L. Yellen in Austin, Texas](https://home.treasury.gov/news/press-releases/jy2564)
     
     [View All Remarks and Statements](https://home.treasury.gov/news/press-releases/statements-remarks "View all Remarks and Statements")
     
