@@ -32,9 +32,8 @@ Navigation
     
     *  [![](https://media.tegna-media.com/assets/WQAD/images/ecf6af29-3057-41c2-8835-4d77afa1d2b7/20240917T022840/ecf6af29-3057-41c2-8835-4d77afa1d2b7_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/ecf6af29-3057-41c2-8835-4d77afa1d2b7/20240917T022840/ecf6af29-3057-41c2-8835-4d77afa1d2b7_360x203.jpg)](https://www.wqad.com/article/news/local/every-county-in-illinois-now-has-911-service/526-cb720a2f-34db-407e-a940-139cf6f7b986)
         
-        #### [Every county in Illinois now has 911 service](https://www.wqad.com/article/news/local/every-county-in-illinois-now-has-911-service/526-cb720a2f-34db-407e-a940-139cf6f7b986) [![](https://media.tegna-media.com/assets/WQAD/images/ecf6af29-3057-41c2-8835-4d77afa1d2b7/20240917T022840/ecf6af29-3057-41c2-8835-4d77afa1d2b7_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/ecf6af29-3057-41c2-8835-4d77afa1d2b7/20240917T022840/ecf6af29-3057-41c2-8835-4d77afa1d2b7_360x203.jpg)](https://www.wqad.com/article/news/local/every-county-in-illinois-now-has-911-service/526-cb720a2f-34db-407e-a940-139cf6f7b986)
+        #### [Every county in Illinois now has 911 service](https://www.wqad.com/article/news/local/every-county-in-illinois-now-has-911-service/526-cb720a2f-34db-407e-a940-139cf6f7b986)
         
-        #### [The last Illinois county without 911 service is now covered](https://www.wqad.com/article/news/local/every-county-in-illinois-now-has-911-service/526-cb720a2f-34db-407e-a940-139cf6f7b986)
     *  [![](https://media.tegna-media.com/assets/WQAD/images/a6d40ccc-0408-4479-bc49-a9cb1107b078/20240916T224536/a6d40ccc-0408-4479-bc49-a9cb1107b078_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/a6d40ccc-0408-4479-bc49-a9cb1107b078/20240916T224536/a6d40ccc-0408-4479-bc49-a9cb1107b078_360x203.jpg)](https://www.wqad.com/article/news/local/moline-house-fire-displaces-7/526-65b3dc6b-f732-4e07-87ec-aabe56505a8a)
         
         #### [Moline house fire displaces 7 people](https://www.wqad.com/article/news/local/moline-house-fire-displaces-7/526-65b3dc6b-f732-4e07-87ec-aabe56505a8a)
@@ -87,7 +86,7 @@ Navigation
 
 Davenport, IA »
 
-69°
+60°
 
 ![Clear](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
 
