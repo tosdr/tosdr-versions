@@ -19,9 +19,6 @@ Pour accéder à toutes les fonctionnalités de ce site, vous devez activer Java
 * [SHOP](https://app.pole-emotion.ch/boutique)
 * [PASS Découverte](https://app.pole-emotion.ch/pass-decouverte)
 
-Week-end du Jeûne de samedi à lundi nos profs sont off  
-Reprise mardi en pleine forme ! ❤️👀💚😄
-
 Conditions générales d'utilisation
 ==================================
 
