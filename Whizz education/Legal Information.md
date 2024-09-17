@@ -93,3 +93,5 @@ Contact Us
 © 2024 Whizz Education Limited | One Kingdom Street, Paddington Central London, W2 6BD, United Kingdom.
 
 [Eco](https://whizz.com/eco/) | [Legal](https://whizz.com/legal/) | [Cookies & Privacy Policy](https://whizz.com/privacy-policy/) | Website Design by [Red Giraffe](https://red-giraffe.com/)
+
+Scroll to Top
