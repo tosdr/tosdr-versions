@@ -1,8 +1,8 @@
-[Log in to AVG MyAccount](https://account.avg.com/?migration&utm_campaign=myaccount_web_menu) [Blog](https://www.avg.com/en/signal) [![](https://static2.avg.com/10003914/web/i/avg/img/components/languageselector/arrow-down.svg)](javascript:void();)
+[Log in to AVG MyAccount](https://account.avg.com/?migration&utm_campaign=myaccount_web_menu) [Blog](https://www.avg.com/en/signal) [![](https://static2.avg.com/10003915/web/i/avg/img/components/languageselector/arrow-down.svg)](javascript:void();)
 
-![menu](https://static2.avg.com/10003914/web/i/components/menu-mobile.svg)
+![menu](https://static2.avg.com/10003915/web/i/components/menu-mobile.svg)
 
-[![AVG logo](https://static2.avg.com/10003914/web/i/other/avg-logo-v2.png)](https://www.avg.com/en-us/homepage)
+[![AVG logo](https://static2.avg.com/10003915/web/i/other/avg-logo-v2.png)](https://www.avg.com/en-us/homepage)
 
 [Skip to content](#body-inner)
 
@@ -84,7 +84,7 @@
     * [Business Support & Contact](https://support.avg.com/business?l=en)
     * [Installation Files](https://www.avg.com/en-us/installation-files-business)
 
-[Log in to AVG MyAccount](https://myaccount.avg.com/my-account-login) [Blog](https://www.avg.com/en/signal) [English ![](https://static2.avg.com/10003914/web/i/avg/img/components/languageselector/arrow-down.svg)](javascript:void();) 
+[Log in to AVG MyAccount](https://myaccount.avg.com/my-account-login) [Blog](https://www.avg.com/en/signal) [English ![](https://static2.avg.com/10003915/web/i/avg/img/components/languageselector/arrow-down.svg)](javascript:void();) 
 
 [< Back to AVG Policies](https://www.avg.com/en-us/policies)
 
@@ -173,7 +173,7 @@ Vendor grants to you a non-exclusive license to use the Solution and the Documen
 
 This Section 2A sets out some important provisions relating to the way your auto-renewing subscription functions. Further important provisions (such as your ‘right of withdrawal’) are set out in the terms made available by the entity from which you purchased the Solution (“_Distributor_”) and accepted by you as governing your subscription.
 
-2A.1 Your subscription will automatically renew, and you will be notified in advance of the renewal. Please note that the renewal price may be different to the price you paid for the existing Subscription Period, and the notification in advance of the renewal will include how much the subsequent Subscription Period will cost, when you will be charged and how long the subsequent Subscription Period will last.
+2A.1 Your subscription will automatically renew, and for annual subscriptions you will be notified in advance of the renewal. Please note that the renewal price may be different to the price you paid for the existing Subscription Period, and the notification in advance of the renewal will include how much the subsequent Subscription Period will cost, when you will be charged and how long the subsequent Subscription Period will last.
 
 2A.2 Unless otherwise cancelled, the Distributor will attempt to take payment from you (using your saved credit card or bank account details), for the subsequent Subscription Period, up to thirty five (35) days in advance of the renewal date.
 
@@ -568,11 +568,11 @@ The following special terms apply to certain Solutions. If these special terms c
 * [LinkedIn](http://www.linkedin.com/company/avg)
 * [YouTube](https://www.youtube.com/user/officialAVG)
 
-[English ![](https://static2.avg.com/10003914/web/i/avg/img/components/languageselector/arrow-down.svg)](javascript:void();) 
+[English ![](https://static2.avg.com/10003915/web/i/avg/img/components/languageselector/arrow-down.svg)](javascript:void();) 
 
 [Log in to AVG MyAccount](https://account.avg.com/?migration&utm_campaign=myaccount_web_footer)
 
-[Privacy](https://www.avg.com/en-us/privacy) | [Report vulnerability](https://www.avast.com/coordinated-vulnerability-disclosure) | [Contact security](https://www.avast.com/bug-bounty) | [License agreements](https://www.avg.com/en-us/eula)  | [Modern Slavery Statement](https://static2.avg.com/10003914/web/o/legal/Avast-Modern-Slavery-Statement-2022.pdf) | [Cookies](https://www.avg.com/en-us/cookies)  | [Accessibility Statement](https://www.avg.com/accessibility-policy) | [Do not sell or share my info](https://www.avg.com/do-not-sell) | [Subscription details](https://www.avg.com/en-us/subscription-details) |  
+[Privacy](https://www.avg.com/en-us/privacy) | [Report vulnerability](https://www.avast.com/coordinated-vulnerability-disclosure) | [Contact security](https://www.avast.com/bug-bounty) | [License agreements](https://www.avg.com/en-us/eula)  | [Modern Slavery Statement](https://static2.avg.com/10003915/web/o/legal/Avast-Modern-Slavery-Statement-2022.pdf) | [Cookies](https://www.avg.com/en-us/cookies)  | [Accessibility Statement](https://www.avg.com/accessibility-policy) | [Do not sell or share my info](https://www.avg.com/do-not-sell) | [Subscription details](https://www.avg.com/en-us/subscription-details) |  
   [All third party trademarks are the property of their respective owners.](https://www.avg.com/en-us/trademarks) | © 2024 Gen Digital Inc. All rights reserved.
 
 [Skip to content](#body-inner) [Skip to menu](#navigation-links)
