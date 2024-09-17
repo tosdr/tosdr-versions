@@ -287,6 +287,10 @@ Show Search
 
 [AP Top 25](https://apnews.com/article/ap-top-25-50179e2ca80290fc81919aadbab2a593)
 
+Breaking News [The suspect in Sunday's apparent assassination attempt did not have a line of sight on Donald Trump and never fired his weapon, the Secret Service says.](https://apnews.com/live/trump-shooting-west-palm-beach-updates#https://apnews.com/live/trump-shooting-west-palm-beach-updates)
+
+Close
+
 The Associated Press
 ====================
 
