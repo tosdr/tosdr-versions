@@ -60,7 +60,6 @@ International Arcade Museum® — Killer List of Videogames®
     * [Museum Of Obsolete Technology](https://www.arcade-museum.com/moot)
 * [Arcade Map](#)
     * [Arcade Map](https://www.arcade-museum.com/map)
-    * [Locations](https://www.arcade-museum.com/location/list)
     * [Location Chains](https://www.arcade-museum.com/location/chain/list)
 * [Tech](#)
     * [Tech Center](https://www.arcade-museum.com/tech-center)
