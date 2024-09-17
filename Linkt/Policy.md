@@ -172,7 +172,7 @@ Legal
 Transurban Credit Reporting Policy
 ==================================
 
-_Last updated: 21 January 2022_
+_Last updated: 21 January 2022_ | Print as PDF
 
 * * *
 
