@@ -24,6 +24,8 @@
         * * [CodeleaksThe only solution that detects AI-generated code, plagiarized and modified source code, and provides essential licensing details.](https://copyleaks.com/codeleaks)
         * * [AI Adoption and Perspectives in Education, 2024
                 
+                ![polygon-blue](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201%201'%3E%3C/svg%3E)
+                
                 ![polygon-blue](https://copyleaks.com/wp-content/uploads/2024/04/polygon-blue.svg)
                 
                 This analysis explores the opinions of 1,000 students & 250 teachers on adopting artificial intelligence within education.](https://copyleaks.com/blog/bridging-the-gap-ai-adoption-and-perspectives-in-education-2024)
@@ -60,13 +62,17 @@
         * * [News & MediaThe go-to spot for recent Copyleaks announcements, updates, news, and other media features.](https://copyleaks.com/about-us/media)
         * * [AI Testing MethodologiesLearn the different testing methodologies used to gauge the accuracy of the AI Detector.](https://copyleaks.com/ai-content-detector/testing-methodology)
         * * [Help CenterGet the support you need regarding integration, platforms, dashboards, and more.](https://help.copyleaks.com/)
-        * * [![Hand touching a digital space](https://copyleaks.com/wp-content/uploads/2024/08/What-Is-AI-ExploringArtificial-Intelligenceand-ItsApplications.webp)](https://copyleaks.com/blog/what-is-ai-exploring-artificial-intelligence)
+        * * [![Lines of code](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201000%20419'%3E%3C/svg%3E)
+                
+                ![Lines of code](https://copyleaks.com/wp-content/uploads/2024/08/CodeleaksHeader.webp)](https://copyleaks.com/blog/why-we-launched-codeleaks)
+                
+                [Why We Launched Codeleaks](https://copyleaks.com/blog/why-we-launched-codeleaks)
+                
+                [![Hand touching a digital space](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201000%20419'%3E%3C/svg%3E)
+                
+                ![Hand touching a digital space](https://copyleaks.com/wp-content/uploads/2024/08/What-Is-AI-ExploringArtificial-Intelligenceand-ItsApplications.webp)](https://copyleaks.com/blog/what-is-ai-exploring-artificial-intelligence)
                 
                 [What Is AI? Exploring Artificial Intelligence and Its Applications](https://copyleaks.com/blog/what-is-ai-exploring-artificial-intelligence)
-                
-                [![Globe on top of a book](https://copyleaks.com/wp-content/uploads/2024/09/GlobeFeatureImage.webp)](https://copyleaks.com/blog/accuracy-of-ai-detection-models-for-non-native-english-speakers)
-                
-                [The Accuracy of AI Detection Models for Non-Native English Speakers](https://copyleaks.com/blog/accuracy-of-ai-detection-models-for-non-native-english-speakers)
                 
     * * * #### Learn
                 
@@ -134,7 +140,7 @@
     Portuguese](https://copyleaks.com/pt/privacy-policy/ "Portuguese")
     
 
-[Home](https://staging.copyleaks.com/) 〉 **Privacy Policy**
+[Home](https://copyleaks.com/) 〉 **Privacy Policy**
 
 Privacy Statement
 =================
