@@ -30,14 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/8e3aacfd-1f8a-4d27-8f3b-ff9bf4d6f91f/20240917T020633/8e3aacfd-1f8a-4d27-8f3b-ff9bf4d6f91f_16x9.jpg) ![](https://media.king5.com/assets/KING/images/8e3aacfd-1f8a-4d27-8f3b-ff9bf4d6f91f/20240917T020633/8e3aacfd-1f8a-4d27-8f3b-ff9bf4d6f91f_360x203.jpg)](https://www.king5.com/article/news/local/family-advocates-call-for-maple-valley-hit-and-run-investigated-as-hate-crime/281-0e5b94bb-fc3a-427a-bed8-166ed27b92cd)
+    *  [![](https://media.king5.com/assets/KING/images/15c2141a-617d-4cd1-9393-5a7ede7f3a27/20240917T062107/15c2141a-617d-4cd1-9393-5a7ede7f3a27_16x9.jpg) ![](https://media.king5.com/assets/KING/images/15c2141a-617d-4cd1-9393-5a7ede7f3a27/20240917T062107/15c2141a-617d-4cd1-9393-5a7ede7f3a27_360x203.jpg)](https://www.king5.com/article/news/local/community-raises-thousands-capitol-hill-business-owner-recovering-violent-robbery/281-917fbd05-1984-48a5-8de6-e43fb5b4140f)
         
-        #### [Family and advocates call for Maple Valley hit-and-run to be investigated as a hate crime](https://www.king5.com/article/news/local/family-advocates-call-for-maple-valley-hit-and-run-investigated-as-hate-crime/281-0e5b94bb-fc3a-427a-bed8-166ed27b92cd) [![](https://media.king5.com/assets/KING/images/8e3aacfd-1f8a-4d27-8f3b-ff9bf4d6f91f/20240917T020633/8e3aacfd-1f8a-4d27-8f3b-ff9bf4d6f91f_16x9.jpg) ![](https://media.king5.com/assets/KING/images/8e3aacfd-1f8a-4d27-8f3b-ff9bf4d6f91f/20240917T020633/8e3aacfd-1f8a-4d27-8f3b-ff9bf4d6f91f_360x203.jpg)](https://www.king5.com/article/news/local/family-advocates-call-for-maple-valley-hit-and-run-investigated-as-hate-crime/281-0e5b94bb-fc3a-427a-bed8-166ed27b92cd)
+        #### [Community raises thousands to support Capitol Hill business owner recovering after violent robbery](https://www.king5.com/article/news/local/community-raises-thousands-capitol-hill-business-owner-recovering-violent-robbery/281-917fbd05-1984-48a5-8de6-e43fb5b4140f)
         
-        #### ['Breaks my heart': Family, advocates call for Maple Valley hit-and-run to be investigated as hate crime](https://www.king5.com/article/news/local/family-advocates-call-for-maple-valley-hit-and-run-investigated-as-hate-crime/281-0e5b94bb-fc3a-427a-bed8-166ed27b92cd)
-    *  [![](https://media.king5.com/assets/KING/images/05fafa1c-057c-4ec2-be53-3cdfdbc84340/20240917T013822/05fafa1c-057c-4ec2-be53-3cdfdbc84340_16x9.jpg) ![](https://media.king5.com/assets/KING/images/05fafa1c-057c-4ec2-be53-3cdfdbc84340/20240917T013822/05fafa1c-057c-4ec2-be53-3cdfdbc84340_360x203.jpg)](https://www.king5.com/article/news/local/bellingham/poverty-rate-skyrockets-bellingham/281-e52640d0-3d3d-4d11-a9c1-afb41ed2fc2c)
+    *  [![](https://media.king5.com/assets/KING/images/b62f407d-3e59-4400-a296-fd27d21d14b2/20240917T051906/b62f407d-3e59-4400-a296-fd27d21d14b2_16x9.jpg) ![](https://media.king5.com/assets/KING/images/b62f407d-3e59-4400-a296-fd27d21d14b2/20240917T051906/b62f407d-3e59-4400-a296-fd27d21d14b2_360x203.jpg)](https://www.king5.com/article/news/local/amazon-new-return-to-office-mandate-impact-seattle-economy-housing-market-employees/281-a4417ca5-4b04-45c2-afd5-2c35af658ac2)
         
-        #### [Poverty rate skyrocketed in Bellingham last year, census data shows](https://www.king5.com/article/news/local/bellingham/poverty-rate-skyrockets-bellingham/281-e52640d0-3d3d-4d11-a9c1-afb41ed2fc2c)
+        #### [How Amazon's new return-to-office mandate could impact Seattle's economy, housing market and employees](https://www.king5.com/article/news/local/amazon-new-return-to-office-mandate-impact-seattle-economy-housing-market-employees/281-a4417ca5-4b04-45c2-afd5-2c35af658ac2)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -96,9 +95,9 @@ Navigation
 
 Seattle, WA »
 
-67°
+57°
 
-![Sunny](/assets/shared-images/weather-icons/clear-day_210x210.png)
+![Clear](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
 
 Seattle, WA »](https://www.king5.com/weather)
 
