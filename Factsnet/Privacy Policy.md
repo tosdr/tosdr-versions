@@ -208,21 +208,21 @@ Turn Your Curiosity Into Discovery
 
 Latest Facts
 
-[![40 Facts About Astros Vs Angels ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22100%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/lifestyle/sports/40-facts-about-astros-vs-angels/)
+[![50 Facts About Sean Connery ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%2284%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/celebrity/50-facts-about-sean-connery/)
 
-Sports
+Celebrity
 
-15 Sep 2024
+17 Sep 2024
 
-[40 Facts About Astros Vs Angels](https://facts.net/lifestyle/sports/40-facts-about-astros-vs-angels/)
+[50 Facts About Sean Connery](https://facts.net/celebrity/50-facts-about-sean-connery/)
 
-[![35 Facts About Jacob Wetterling ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22113%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/society-and-social-sciences/35-facts-about-jacob-wetterling/)
+[![40 Facts About Lila Rose ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%2284%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/history/people/40-facts-about-lila-rose/)
 
-Society & Social Sciences
+People
 
-15 Sep 2024
+17 Sep 2024
 
-[35 Facts About Jacob Wetterling](https://facts.net/society-and-social-sciences/35-facts-about-jacob-wetterling/)
+[40 Facts About Lila Rose](https://facts.net/history/people/40-facts-about-lila-rose/)
 
 [Home](https://facts.net/) [Privacy Policy](https://facts.net/privacy-policy/)
 
