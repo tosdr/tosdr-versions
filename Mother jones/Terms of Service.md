@@ -8,10 +8,10 @@
 
 *  
     
-* [Harris’ Climate Action](https://www.motherjones.com/environment/2024/09/kamala-harris-climate-patriotism/)
-* [Trump Assassination Attempt](https://www.motherjones.com/politics/2024/09/shots-fired-trump-assassination-attempt/)
-* [JD Vance](https://www.motherjones.com/politics/2024/09/jd-vance-keeps-doubling-down-on-racist-lies-about-springfield/)
-* [“Republicans for Harris”](https://www.motherjones.com/politics/2024/09/republicans-for-harris-reagan-staff/)
+* [2024 Presidential Election](https://www.motherjones.com/politics/2024/09/trump-pandemic-amnesia/)
+* [Abortion Bans](https://www.motherjones.com/politics/2024/09/a-georgia-woman-has-died-after-an-abortion-ban-delayed-lifesaving-care/)
+* [Trump](https://www.motherjones.com/politics/2024/09/trump-assassination-attempt-blame-rhetoric-palm-beach-florida/)
+* [Kamala Harris](https://www.motherjones.com/politics/2024/09/harris-platform-disabled-workers-sub-minimum-wage-prisons/)
 
 * [Newsletters](https://www.motherjones.com/newsletters/?mj_oac=dropdown_nav)
 * [Politics](https://www.motherjones.com/politics/)
@@ -27,10 +27,10 @@
 
 *  
     
-* [Harris’ Climate Action](https://www.motherjones.com/environment/2024/09/kamala-harris-climate-patriotism/)
-* [Trump Assassination Attempt](https://www.motherjones.com/politics/2024/09/shots-fired-trump-assassination-attempt/)
-* [JD Vance](https://www.motherjones.com/politics/2024/09/jd-vance-keeps-doubling-down-on-racist-lies-about-springfield/)
-* [“Republicans for Harris”](https://www.motherjones.com/politics/2024/09/republicans-for-harris-reagan-staff/)
+* [2024 Presidential Election](https://www.motherjones.com/politics/2024/09/trump-pandemic-amnesia/)
+* [Abortion Bans](https://www.motherjones.com/politics/2024/09/a-georgia-woman-has-died-after-an-abortion-ban-delayed-lifesaving-care/)
+* [Trump](https://www.motherjones.com/politics/2024/09/trump-assassination-attempt-blame-rhetoric-palm-beach-florida/)
+* [Kamala Harris](https://www.motherjones.com/politics/2024/09/harris-platform-disabled-workers-sub-minimum-wage-prisons/)
 
 [Subscribe to our magazine](https://secure.motherjones.com/flex/MOJ/SUBS/?p=SEGHOP&c=SEGHOC&d=SEGHOD&f=SEGHOF "Subscribe")
 
