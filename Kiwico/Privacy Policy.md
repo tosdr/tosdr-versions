@@ -102,7 +102,7 @@ Select oneAustraliaAustriaBelgiumBulgariaCanadaCroatiaCyprusCzech RepublicDenmar
 
 Currency
 
-Select oneUSD ($)CAD (CA$)AUD (A$)NZD (NZ$)GBP (£)EUR (€)HKD (HK$)SGD (S$)YEN (¥)WON (₩)
+Select oneUSD ($)CAD (CA$)AUD (A$)NZD (NZ$)GBP (£)EUR (€)HKD (HK$)SGD (S$)YEN (¥)WON (₩)RON (lei)CHF (Fr)PLN (zł)NOK (kr)ILS (₪)ISK (kr)HUF (Ft)DKK (kr)BGN (лв)
 
 [Share KiwiCo, Get $10!![Sketch of a present graphic](https://icdn.kiwico.com/site/panda/sample-crates/module/icon-present.svg)](https://www.kiwico.com/refer-a-friend)
 
@@ -622,7 +622,7 @@ Select oneAustraliaAustriaBelgiumBulgariaCanadaCroatiaCyprusCzech RepublicDenmar
 
 Currency
 
-Select oneUSD ($)CAD (CA$)AUD (A$)NZD (NZ$)GBP (£)EUR (€)HKD (HK$)SGD (S$)YEN (¥)WON (₩)
+Select oneUSD ($)CAD (CA$)AUD (A$)NZD (NZ$)GBP (£)EUR (€)HKD (HK$)SGD (S$)YEN (¥)WON (₩)RON (lei)CHF (Fr)PLN (zł)NOK (kr)ILS (₪)ISK (kr)HUF (Ft)DKK (kr)BGN (лв)
 
 * [![](https://icdn.kiwico.com/site/icons/fb-white.png)](https://www.facebook.com/KiwiCo)
 * [![](https://icdn.kiwico.com/site/icons/insta-white.png)](https://instagram.com/kiwico_inc)
