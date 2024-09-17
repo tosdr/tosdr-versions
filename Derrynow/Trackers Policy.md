@@ -259,24 +259,6 @@ Advertise with Us
 
 Most Popular
 
-[![IN PICTURES: Great day out at Quirky Corner Sustainable Fashion Fest](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Great day out at Quirky Corner Sustainable Fashion Fest")](https://www.derrynow.com/story-telling/pictures---videos/1606217/in-pictures-great-day-out-at-quirky-corner-sustainable-fashion-fest.html)
-
-IN PICTURES: Great day out at Quirky Corner Sustainable Fashion Fest
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[IN PICTURES: Great day out at Quirky Corner Sustainable Fashion Fest](https://www.derrynow.com/story-telling/pictures---videos/1606217/in-pictures-great-day-out-at-quirky-corner-sustainable-fashion-fest.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Coffin of Noah Karran at the teenagers funeral (Credit: Thomas Heaney)](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Coffin of Noah Karran at the teenagers funeral (Credit: Thomas Heaney)")](https://www.derrynow.com/news/derry-news/1606372/derry-teenager-noah-karran-has-left-a-legacy-of-goodness-mourners-told-at-funeral.html)
-
-Coffin of Noah Karran at the teenagers funeral (Credit: Thomas Heaney)
-
-[Derry News](https://www.derrynow.com/section/999/derry-news)
-
-[Derry teenager Noah Karran has 'left a legacy of goodness' mourners told at funeral](https://www.derrynow.com/news/derry-news/1606372/derry-teenager-noah-karran-has-left-a-legacy-of-goodness-mourners-told-at-funeral.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 [![Throwback Tuesday: Out and About @ charity quiz in Rafters (2012)](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Throwback Tuesday: Out and About @ charity quiz in Rafters (2012)")](https://www.derrynow.com/story-telling/pictures---videos/1606561/throwback-tuesday-out-and-about-charity-quiz-in-rafters-2012.html)
 
 [Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
@@ -284,37 +266,14 @@ Coffin of Noah Karran at the teenagers funeral (Credit: Thomas Heaney)
 [Throwback Tuesday: Out and About @ charity quiz in Rafters (2012)](https://www.derrynow.com/story-telling/pictures---videos/1606561/throwback-tuesday-out-and-about-charity-quiz-in-rafters-2012.html)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![IN PICTURES: Fantastic day for community in Derry with One World Festival](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Fantastic day for community in Derry with One World Festival")](https://www.derrynow.com/story-telling/pictures---videos/1606239/in-pictures-fantastic-day-for-community-in-derry-with-one-world-festival.html)
+[![Police investigating circumstances surrounding sudden death of a man in Derry](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Police investigating circumstances surrounding sudden death of a man in Derry")](https://www.derrynow.com/news/local-news/1607330/police-investigating-circumstances-surrounding-sudden-death-of-a-man-in-derry.html)
 
-IN PICTURES: Fantastic day for community in Derry with One World Festival
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[IN PICTURES: Fantastic day for community in Derry with One World Festival](https://www.derrynow.com/story-telling/pictures---videos/1606239/in-pictures-fantastic-day-for-community-in-derry-with-one-world-festival.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Brother of murdered Co Derry farmer puts up £100,000 reward for information that leads to arrest and conviction of killer](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Brother of murdered Co Derry farmer puts up £100,000 reward for information that leads to arrest and conviction of killer")](https://www.derrynow.com/news/home/1606526/brother-of-murdered-co-derry-farmer-puts-up-100-000-reward-for-information-that-leads-to-arrest-and-conviction-of-killer.html)
-
-[Home](https://www.derrynow.com/)
-
-[Brother of murdered Co Derry farmer puts up £100,000 reward for information that leads to arrest and conviction of killer](https://www.derrynow.com/news/home/1606526/brother-of-murdered-co-derry-farmer-puts-up-100-000-reward-for-information-that-leads-to-arrest-and-conviction-of-killer.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry Death Notices - Tuesday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Tuesday")](https://www.derrynow.com/news/deaths/1606560/derry-death-notices-tuesday-17th-september-2024.html)
-
-[Deaths](https://www.derrynow.com/section/977/deaths)
-
-[Derry Death Notices - Tuesday, 17th September 2024](https://www.derrynow.com/news/deaths/1606560/derry-death-notices-tuesday-17th-september-2024.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Causeway Coast and Glens City Deal pause a 'kick in teeth' - East Derry MLA says](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Causeway Coast and Glens City Deal pause a 'kick in teeth' - East Derry MLA says")](https://www.derrynow.com/news/local-news/1606368/causeway-coast-and-glens-city-deal-pause-a-kick-in-teeth-east-derry-mla-says.html)
-
-East Derry MLA Cara Hunter
+PSNI
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[Causeway Coast and Glens City Deal pause a 'kick in teeth' - East Derry MLA says](https://www.derrynow.com/news/local-news/1606368/causeway-coast-and-glens-city-deal-pause-a-kick-in-teeth-east-derry-mla-says.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Police investigating circumstances surrounding sudden death of a man in Derry](https://www.derrynow.com/news/local-news/1607330/police-investigating-circumstances-surrounding-sudden-death-of-a-man-in-derry.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Man charged with threatening to kill his uncle and dog](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man charged with threatening to kill his uncle and dog")](https://www.derrynow.com/news/local-news/1607117/man-charged-with-threatening-to-kill-his-uncle-and-dog.html)
 
@@ -322,6 +281,13 @@ East Derry MLA Cara Hunter
 
 [Man charged with threatening to kill his uncle and dog](https://www.derrynow.com/news/local-news/1607117/man-charged-with-threatening-to-kill-his-uncle-and-dog.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Derry Death Notices - Tuesday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Tuesday")](https://www.derrynow.com/news/deaths/1606560/derry-death-notices-tuesday-17th-september-2024.html)
+
+[Deaths](https://www.derrynow.com/section/977/deaths)
+
+[Derry Death Notices - Tuesday, 17th September 2024](https://www.derrynow.com/news/deaths/1606560/derry-death-notices-tuesday-17th-september-2024.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![PSNI appeal for information following early morning attack on house in Dungiven](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PSNI appeal for information following early morning attack on house in Dungiven")](https://www.derrynow.com/news/home/1606786/psni-appeal-for-information-following-early-morning-attack-on-house-in-dungiven.html)
 
@@ -332,12 +298,46 @@ The PSNI are investigating the attack.
 [PSNI appeal for information following early morning attack on house in Dungiven](https://www.derrynow.com/news/home/1606786/psni-appeal-for-information-following-early-morning-attack-on-house-in-dungiven.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Foul smelling and tasting water is safe to drink – O’Dowd](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Foul smelling and tasting water is safe to drink – O’Dowd")](https://www.derrynow.com/news/local-news/1606534/foul-smelling-and-tasting-water-is-safe-to-drink-odowd.html)
+[![Derry mental health charity to close due to lack of governmental support](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry mental health charity to close due to lack of governmental support")](https://www.derrynow.com/news/local-news/1606852/derry-mental-health-charity-to-close-due-to-lack-of-governmental-support.html)
+
+MAN has had to close due to a lack of funding
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[Foul smelling and tasting water is safe to drink – O’Dowd](https://www.derrynow.com/news/local-news/1606534/foul-smelling-and-tasting-water-is-safe-to-drink-odowd.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Derry mental health charity to close due to lack of governmental support](https://www.derrynow.com/news/local-news/1606852/derry-mental-health-charity-to-close-due-to-lack-of-governmental-support.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Registered sex offender jailed at Derry court for failing to register address change with police](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Registered sex offender jailed at Derry court for failing to register address change with police")](https://www.derrynow.com/news/local-news/1607116/registered-sex-offender-jailed-at-derry-court-for-failing-to-register-address-change-with-police.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Registered sex offender jailed at Derry court for failing to register address change with police](https://www.derrynow.com/news/local-news/1607116/registered-sex-offender-jailed-at-derry-court-for-failing-to-register-address-change-with-police.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Suspended sentence for man who 'lashed out' at police in Derry city centre](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Suspended sentence for man who 'lashed out' at police in Derry city centre")](https://www.derrynow.com/news/local-news/1607109/suspended-sentence-for-man-who-lashed-out-at-police-in-derry-city-centre.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Suspended sentence for man who 'lashed out' at police in Derry city centre](https://www.derrynow.com/news/local-news/1607109/suspended-sentence-for-man-who-lashed-out-at-police-in-derry-city-centre.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Diffin Event in memory of Odhran Archie O'Connor](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Diffin Event in memory of Odhran Archie O'Connor")](https://www.derrynow.com/news/county-derry-post/1606403/diffin-event-to-be-held-in-nuttscorner-raceway-in-memory-of-county-derry-man.html)
+
+Diffin Event in memory of Odhran Archie O'Connor
+
+[County Derry Post](https://www.derrynow.com/section/1000/county-derry-post)
+
+[Diffin event to be held in Nuttscorner raceway in memory of County Derry man](https://www.derrynow.com/news/county-derry-post/1606403/diffin-event-to-be-held-in-nuttscorner-raceway-in-memory-of-county-derry-man.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Ballymaguigan](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Ballymaguigan")](https://www.derrynow.com/news/derry-sport/1606883/seven-goal-ballymaguigan-cruise-into-intermediate-final-with-victory-over-ballerin.html)
+
+Ballymaguigan defeated Ballerin last night.
+
+[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
+
+[Seven-goal Ballymaguigan cruise into Intermediate final with victory over Ballerin](https://www.derrynow.com/news/derry-sport/1606883/seven-goal-ballymaguigan-cruise-into-intermediate-final-with-victory-over-ballerin.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
@@ -523,51 +523,55 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
-[![Registered sex offender jailed at Derry court for failing to register address change with police](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Registered sex offender jailed at Derry court for failing to register address change with police")](https://www.derrynow.com/news/local-news/1607116/registered-sex-offender-jailed-at-derry-court-for-failing-to-register-address-change-with-police.html)
+[![Government must lift funding pause on city deals – Archibald](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Government must lift funding pause on city deals – Archibald")](https://www.derrynow.com/news/local-news/1607431/government-must-lift-funding-pause-on-city-deals-archibald.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[Registered sex offender jailed at Derry court for failing to register address change with police](https://www.derrynow.com/news/local-news/1607116/registered-sex-offender-jailed-at-derry-court-for-failing-to-register-address-change-with-police.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Government must lift funding pause on city deals – Archibald](https://www.derrynow.com/news/local-news/1607431/government-must-lift-funding-pause-on-city-deals-archibald.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Suspended sentence for man who 'lashed out' at police in Derry city centre](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Suspended sentence for man who 'lashed out' at police in Derry city centre")](https://www.derrynow.com/news/local-news/1607109/suspended-sentence-for-man-who-lashed-out-at-police-in-derry-city-centre.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Suspended sentence for man who 'lashed out' at police in Derry city centre](https://www.derrynow.com/news/local-news/1607109/suspended-sentence-for-man-who-lashed-out-at-police-in-derry-city-centre.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![County Derry prison received over 1400 complaints from prisoners last year](https://www.derrynow.com/resizer/165/93/true/pa/2024_02_08/1707350711377_0.jpg--.jpg?1707350711725 "County Derry prison received over 1400 complaints from prisoners last year")](https://www.derrynow.com/news/county-derry-post/1606885/county-derry-prison-received-over-1400-complaints-from-prisoners-last-year.html)
-
-[County Derry Post](https://www.derrynow.com/section/1000/county-derry-post)
-
-[County Derry prison received over 1400 complaints from prisoners last year](https://www.derrynow.com/news/county-derry-post/1606885/county-derry-prison-received-over-1400-complaints-from-prisoners-last-year.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Man charged with threatening to kill his uncle and dog](https://www.derrynow.com/resizer/165/93/true/2024_04_04/Derry-courthouse.jpg--derry_courthouse-1712223605087.jpg--.jpg?1712223605116 "Man charged with threatening to kill his uncle and dog")](https://www.derrynow.com/news/local-news/1607117/man-charged-with-threatening-to-kill-his-uncle-and-dog.html)
+[![Bewitching new Derry Halloween programme unveiled by Mayor](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Bewitching new Derry Halloween programme unveiled by Mayor")](https://www.derrynow.com/news/local-news/1607450/bewitching-new-derry-halloween-programme-unveiled-by-mayor.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[Man charged with threatening to kill his uncle and dog](https://www.derrynow.com/news/local-news/1607117/man-charged-with-threatening-to-kill-his-uncle-and-dog.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Bewitching new Derry Halloween programme unveiled by Mayor](https://www.derrynow.com/news/local-news/1607450/bewitching-new-derry-halloween-programme-unveiled-by-mayor.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Relief for Lavey as Bellaghy rue wides](https://www.derrynow.com/resizer/165/93/true/2024_09_17/Lavey_s_A.McPeak_Bellaghy_s_Laoise_Mc_Erlean-1726571135718.jpg--.jpg?1726571137584 "Relief for Lavey as Bellaghy rue wides")](https://www.derrynow.com/news/derry-sport/1607082/relief-for-lavey-as-bellaghy-rue-wides.html)
+[![Derry Mayor speaks at 53rd annual Congressional Black Caucus Foundation conference](https://www.derrynow.com/resizer/165/93/true/2024_09_17/pro-PZCT2NMB-1726587954969.jpeg--.jpeg?1726587955736 "Derry Mayor speaks at 53rd annual Congressional Black Caucus Foundation conference")](https://www.derrynow.com/news/derry-city-and-strabane-district-council/1607430/derry-mayor-speaks-at-53rd-annual-congressional-black-caucus-foundation-conference.html)
 
-Lavey's A McPeak breaks away from Bellaghy's Laoise Mc Erlean. Pic by Sideline Photography.
+Mayor of Derry and Strabane, Councillor Lilian Seenoi Barr, pictured with delegates at the 53rd Annual Congressional Black Caucus Foundation (CBCF) Legislative Conference
 
-[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
+[Derry City and Strabane District Council](https://www.derrynow.com/section/2722/derry-city-and-strabane-district-council)
 
-[Relief for Lavey as Bellaghy rue wides](https://www.derrynow.com/news/derry-sport/1607082/relief-for-lavey-as-bellaghy-rue-wides.html)
----------------------------------------------------------------------------------------------------------------------------------------
+[Derry Mayor speaks at 53rd annual Congressional Black Caucus Foundation conference](https://www.derrynow.com/news/derry-city-and-strabane-district-council/1607430/derry-mayor-speaks-at-53rd-annual-congressional-black-caucus-foundation-conference.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Derry Masters turn back the years to retain All Ireland Intermediate Shield](https://www.derrynow.com/resizer/165/93/true/2024_09_17/Masters_2-1726570492068_1726570627.jpg--.jpg?1726570627029 "Derry Masters turn back the years to retain All Ireland Intermediate Shield")](https://www.derrynow.com/news/derry-sport/1607063/derry-masters-turn-back-the-years-to-retain-all-ireland-intermediate-shield.html)
+[![Derry's Dunluce Family Centre receives funding boost from Assets Recovery Scheme](https://www.derrynow.com/resizer/165/93/true/2024_09_17/Dunluce1_Sept_24-1726587586877.JPG--.JPG?1726587588853 "Derry's Dunluce Family Centre receives funding boost from Assets Recovery Scheme")](https://www.derrynow.com/news/local-news/1607418/derry-s-dunluce-family-centre-receives-funding-boost-from-assets-recovery-scheme.html)
 
-Derry captain Kevin McGuckian receives the All-Ireland Shield.
+Justice Minister Naomi Long is pictured at Dunluce Family Centre with Brian McNechtain, Chairperson; and Margaret McCann, Manager; during a visit to the centre in Ballymagroarty.
 
-[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
+[Local News](https://www.derrynow.com/section/975/news)
 
-[Derry Masters turn back the years to retain All Ireland Intermediate Shield](https://www.derrynow.com/news/derry-sport/1607063/derry-masters-turn-back-the-years-to-retain-all-ireland-intermediate-shield.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Derry's Dunluce Family Centre receives funding boost from Assets Recovery Scheme](https://www.derrynow.com/news/local-news/1607418/derry-s-dunluce-family-centre-receives-funding-boost-from-assets-recovery-scheme.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Arlene Arkinson family 'gutted' as Glenfin search for her body ends](https://www.derrynow.com/resizer/165/93/true/2024_09_17/Donegal_Live_image_-_2024-09-17T143236.352-1726580050831.png--.png?1726580050880 "Arlene Arkinson family 'gutted' as Glenfin search for her body ends")](https://www.derrynow.com/news/local-news/1607367/arlene-arkinson-family-gutted-as-glenfin-search-for-her-body-ends.html)
+
+The scene at Ballybobaneen Forest in Glenfin where a search took place for the remains of Arlene Arkinson (inset)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Arlene Arkinson family 'gutted' as Glenfin search for her body ends](https://www.derrynow.com/news/local-news/1607367/arlene-arkinson-family-gutted-as-glenfin-search-for-her-body-ends.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Suspension of Growth Deal for Causeway Coast and Glens Borough Council 'undermines hard work' of local stakeholders in Dungiven](https://www.derrynow.com/resizer/165/93/true/2024_09_17/CCGBC_GROWTH_DEAL_SIGNING_HEADS_OF_TERMS-1726585394164.jpg--.jpg?1726585394186 "Suspension of Growth Deal for Causeway Coast and Glens Borough Council 'undermines hard work' of local stakeholders in Dungiven")](https://www.derrynow.com/news/home/1607369/suspension-of-growth-deal-for-causeway-coast-and-glens-borough-council-undermines-hard-work-of-local-stakeholders-in-dungiven.html)
+
+Pictured at the signing of head of terms earlier this year.
+
+[Home](https://www.derrynow.com/)
+
+[Suspension of Growth Deal for Causeway Coast and Glens Borough Council 'undermines hard work' of local stakeholders in Dungiven](https://www.derrynow.com/news/home/1607369/suspension-of-growth-deal-for-causeway-coast-and-glens-borough-council-undermines-hard-work-of-local-stakeholders-in-dungiven.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
