@@ -242,6 +242,8 @@ Join us and share the message of reuse
 * [Instagram](https://instagram.com/jococups)
 * [Facebook](https://facebook.com/jococups)
 
+[Coffee: the ultimate wingman ☕️ #vibe #coffee ![Coffee: the ultimate wingman ☕️ #vibe #coffee #friends #wingman](https://jococups.com/usa/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/DAASd1hSI7E/) 
+
 [Fun Facts.. Did you know Leopard Spots Are Called ![Fun Facts.. Did you know Leopard Spots Are Called Rosettes #funfacts #velvertgripstraw #utilitycup #12oz #sandstone](https://jococups.com/usa/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/C_cLYGbyC19/) 
 
 [Antibacterial olive wood lid The hand-crafted Ital ![Antibacterial olive wood lid
@@ -252,9 +254,6 @@ The hand-crafted Italian wood lid is non-porous, naturally antibacterial and odo
 ["Sippin' on sunshine and coffee." #4oz #coffee #cl !["Sippin' on sunshine and coffee." #4oz #coffee #classic #style #fashion #love](https://jococups.com/usa/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/C-6yK3FyajJ/) 
 
 [Where would you rather be? 🏝️ #tropical #isla ![Where would you rather be? 🏝️ #tropical #island #dream #holiday #takemeanywhere](https://jococups.com/usa/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/C-3zJH-SJ74/) 
-
-[Im Back!! The 4oz is for lovers of the Espresso, ![Im Back!! The 4oz is for lovers of the 
-Espresso, Macchiato, Piccolo, Tea piccolo or even for your little ones as they enjoy a babycino. #coffee #machine #home #4oz #12oz #plasticfree #takeaway](https://jococups.com/usa/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/C-rWauoyCHI/) 
 
 Keep informed on new releases and subscriber exclusives
 
