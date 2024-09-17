@@ -1,11 +1,3 @@
-We and our partners use cookies and similar technologies to understand how you use our site and to improve your experience. This includes providing, analysing and enhancing site functionality and usage, enabling social features, and personalising advertisements, content and our services. By clicking "Reject All", you will reject all cookies except for strictly necessary cookies. [Cookies Policy](https://www.viki.com/legal/cookies)
-
-Cookie Settings
-
-Accept All
-
-Reject All
-
 * [![Rakuten Viki](https://1.vikiplatform.com/cms-uploads/uncategorized/Viki-logo-blue-268w_1716530859_879.png)](https://www.viki.com/)
 * * [Community](https://contribute.viki.com/)
     * [Apps](https://www.viki.com/apps)
