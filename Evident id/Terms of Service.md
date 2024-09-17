@@ -438,4 +438,7 @@ Contact
 
 © 2024 Evident ID Inc. All rights reserved.
 
-* [Vendors & Suppliers](https://www.evidentid.com/products/onboarding-vendors-and-suppliers/)
+* [Privacy Policy](https://www.evidentid.com/privacy-policy/)
+* [Terms & Conditions](https://www.evidentid.com/terms-of-use/)
+* [Cookie Policy](https://www.evidentid.com/cookie-policy/)
+* [California Privacy Rights](https://www.evidentid.com/privacy-policy/#California-Privacy-Rights)
