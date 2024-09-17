@@ -122,6 +122,7 @@ Last Updated: November 15, 2011.
 
 ### Top Opinion
 
+*      [Ian Haworth Democrats: Vote for Us and the Shooting Stops](https://patriotpost.us/opinion/110318-democrats-vote-for-us-and-the-shooting-stops-2024-09-17)
 *      [Christine Flowers We Need to Return to the World of Sept. 12, 2001](https://patriotpost.us/opinion/110304-we-need-to-return-to-the-world-of-sept-12-2001-2024-09-17)
 *      [Cal Thomas Socialized Medicine: The Consequences](https://patriotpost.us/opinion/110300-socialized-medicine-the-consequences-2024-09-17)
 *      [Gary Bauer Hatred of Trump Inspires Assassins!](https://patriotpost.us/opinion/110299-hatred-of-trump-inspires-assassins-2024-09-17)
@@ -145,9 +146,11 @@ Last Updated: November 15, 2011.
 
 [END OF WATCH](https://patriotpost.us/end-of-watch)
 
-[![](https://img.patriotpost.us/01J5RS2YKRTNS1580CS7YVV0SF.jpeg)
+[Wear Your Patriotism on Your Sleeve
 
-![](https://img.patriotpost.us/01J5RSAEYEKZ8DRMMYMBSNCWNH.jpeg)](https://patriotpostshop.com/collections/featured-products)
+ 
+
+Shop Now](https://patriotpostshop.com/)
 
 ### The Foundation
 
