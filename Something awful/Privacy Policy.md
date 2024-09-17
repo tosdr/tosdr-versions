@@ -205,23 +205,25 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [Will They Fly a Plane into Our House?](https://www.somethingawful.com/photoshop-phriday/will-they-fly/1/)
-* [Dinos with Hairdos!](https://www.somethingawful.com/comedy-goldmine/dinosaur-hairstyles-makeover/1/)
-* [Thank Goodness For Hero Dog](https://www.somethingawful.com/news/hero-dog-newspaper/)
-* [Hard Sell For A Hard Shell](https://www.somethingawful.com/news/hard-sell-for/)
+* [Jon Bon Jovi: Alive](https://www.somethingawful.com/photoshop-phriday/bon-jovi-dead/1/)
+* [Misinterpreted Items from the News!](https://www.somethingawful.com/comedy-goldmine/misinterpreted-items-from/1/)
+* [The Big Ten List of Little People](https://www.somethingawful.com/news/top-ten-midgets/1/)
+* [AwfulVision: That's Racist!](https://www.somethingawful.com/awfulvision/racist-manboobs-cougar/1/)
+* [How to Convince Your Loved Ones to Support the Protests](https://www.somethingawful.com/news/protestconvincing/)
 
 ### Popular Threads
 
-* ![](https://fi.somethingawful.com/forums/posticons/byob-grumpy.gif) [What's it like being on an extremely long flight?](http://forums.somethingawful.com/showthread.php?threadid=4070540 "What's it like being on an extremely long flight?")
 * ![](https://fi.somethingawful.com/forums/posticons/lan-europe.gif) [Harry Potter is just British Naruto](http://forums.somethingawful.com/showthread.php?threadid=4070542 "Harry Potter is just British Naruto")
+* ![](https://fi.somethingawful.com/forums/posticons/cspam-yeshahahayes.gif) [Diddy was arrested by the feds](http://forums.somethingawful.com/showthread.php?threadid=4070546 "Diddy was arrested by the feds")
+* ![](https://fi.somethingawful.com/forums/posticons/byob-grumpy.gif) [What's it like being on an extremely long flight?](http://forums.somethingawful.com/showthread.php?threadid=4070540 "What's it like being on an extremely long flight?")
 
 ### Random Articles
 
-* [Smile, Everyone! (Part 1 of 2)](https://www.somethingawful.com/comedy-goldmine/smile-everybody/1/)
-* [Editable Encyclopedia Featured Article: The Monty Hall Problem](https://www.somethingawful.com/news/monty-hall-problem/)
-* [Steve Jobs Health Updates For Apple Employees](https://www.somethingawful.com/news/jobs-apple-health/)
-* [Hate Is A Strong Word](https://www.somethingawful.com/garbage-day/plain-white-ts/)
-* [Sponsored Content](https://www.somethingawful.com/news/sponsored-content-parody/)
+* [Big Dog T-Shirt Fan Art](https://www.somethingawful.com/comedy-goldmine/big-dogs-shirts/1/)
+* [Canoe](https://www.somethingawful.com/awful-movie-database/canoe/)
+* [Diganta's World: Indian Humor](https://www.somethingawful.com/awful-links/awful-link-2455/)
+* [Candidate Questions Overlooked by the Associated Press](https://www.somethingawful.com/news/gravel-campaign-president/1/)
+* [Subj: I WANT MY DEPOSIT BACK](https://www.somethingawful.com/news/roamin-dad-47/)
 
 [Random!](https://www.somethingawful.com/random/)
 
