@@ -241,6 +241,8 @@ How to manage your preferences regarding interest-based advertising
 
 To manage your preferences regarding interest-based advertising on our websites, please click “Cookie Settings” at the bottom of the page for our cookie consent management tool.
 
+To manage your preferences on our mobile app, select **More** on the app’s navigation menu, then **Privacy and lega**l, and go to **Privacy settings**.
+
 As part of our commitment to fair information practices, Scotiabank is a participant and supporter of the Digital Advertising Alliance of Canada's "AdChoices" program and adheres to the DAAC Canadian Self-Regulatory Principles for Online Behavioural Advertising.  
 
 AdChoices is a self-regulatory program that requires participating companies to include an AdChoices icon in any ads that use interest-based advertising. It's intended to provide consumers with greater transparency around interest-based advertising and to give them the ability to manage preferences around this type of advertising. You can learn more at [www.youradchoices.ca](http://www.youradchoices.ca/). You can also click on the AdChoices icon which appears at the bottom (or top) of our websites or ads.
@@ -286,9 +288,9 @@ Letter: Privacy Office c/o the Escalated Customer Concerns Office, Scotiabank
 44 King Street West  
 Toronto ON M5H 1H1
 
-[![](/content/scotiabank/ca/en/about/contact-us/privacy/privacy-cookies/_jcr_content/main-par/section_container_50/section-container-par/image_copy.img.png/1711140622824.png)](https://www.scotiabank.com/content/dam/gtb/documents/Scotiabank-Digital-Privacy-and-Interest-Based-Advertising-Policy.pdf)
+[![](/content/scotiabank/ca/en/about/contact-us/privacy/privacy-cookies/_jcr_content/main-par/section_container_50/section-container-par/image_copy.img.png/1726171629692.png)](https://www.scotiabank.com/content/dam/scotiabank/canada/common/documents/Scotiabank-Digital-Privacy-and-Interest-Based-Advertising-Policy.pdf)
 
-[Scotiabank Digital Privacy and Interest-Based Advertising Policy](https://www.scotiabank.com/content/dam/gtb/documents/Scotiabank-Digital-Privacy-and-Interest-Based-Advertising-Policy.pdf "digital privacy policies")
+[Scotiabank Digital Privacy and Interest-Based Advertising Policy](https://www.scotiabank.com/content/dam/scotiabank/canada/common/documents/Scotiabank-Digital-Privacy-and-Interest-Based-Advertising-Policy.pdf "digital privacy policies")
 
 Call Scotiabank
 ---------------
