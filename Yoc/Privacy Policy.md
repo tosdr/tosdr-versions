@@ -1,270 +1,259 @@
-* Unsere Produkte
+* Our Products
     
-* Unsere Technologie
+* Our Technology
     
-* [Resources](https://yoc.com/resources-de)
-* Unternehmen
+* [Resources](https://yoc.com/resources)
+* Company
     
 
-### Unsere Produkte
+### Our Products
 
-### Unsere Technologie
+### Our Technology
 
-[Resources](https://yoc.com/resources-de)
+[Resources](https://yoc.com/resources)
 
-### Unternehmen
+### Company
 
 [de
 
-en](https://yoc.com/en)Contact
+en](https://yoc.com/de)Contact
 
 [de
 
-en](https://yoc.com/en)Contact
+en](https://yoc.com/de)Contact
 
-Datenschutzerklärung
-====================
+PRIVACY STATEMENT
+=================
 
-I. Kontakt
+I. CONTACT
 ----------
 
-Diese Hinweise gelten für die Datenverarbeitungen durch:
+This information relates to data processing by:
 
-**YOC AG**
+YOC AG 
 
-Greifswalder Str. 212
+Greifswalder Str. 212 10405
 
-10405 Berlin
+Berlin Germany
 
-Deutschland
+Tel.:   +49 (0)30 726162 0 Fax:   
 
-Telefon:        +49 (0)30 726162 0
++49 (0)30 726162 222 
 
-Telefax:        +49 (0)30 726162 222
+Email: [**info@yoc.com**](mailto:info@yoc.com)
 
-E-Mail:          [info@yoc.com](mailto:info@yoc.com)
-
-Der Datenschutzbeauftragte der YOC AG ist
+The YOC AG **data protection officer** is
 
 **ePrivacy GmbH**
 
-Vertreten durch Prof. Dr. Christoph Bauer
+Represented by Prof. Dr. Christoph Bauer
 
 Burchardstraße 14
 
 20095 Hamburg
 
-Deutschland
+Germany
 
-Kontakt: [privacy@yoc.com](mailto:privacy@yoc.com)
+Contact: [**privacy@yoc.com**](mailto:privacy@yoc.com)
 
-II. Verarbeitung personenbezogener Daten sowie Art und Zweck
-------------------------------------------------------------
+II. Processing of personal data, method and purpose
+---------------------------------------------------
 
-### 1\. Beim Besuch unserer Website
+### 1\. When you visit our website
 
-Beim Aufrufen unserer Website [**https://yoc.com/de/**](https://yoc.com/de/) werden durch den auf Ihrem Endgerät zum Einsatz kommenden Browser automatisch Informationen an den Server unserer Website gesendet. Diese Informationen werden temporär in einem sog. Logfile gespeichert. Folgende Informationen werden dabei ohne Ihr Zutun erhoben und gespeichert und nach 7 Tagen automatisch aus den Logfiles gelöscht:
+When you visit our website [**https://yoc.com/**](https://yoc.com/) the browser on your device automatically sends information to the server of our website. This information is temporarily stored in a so-called log file.  The following information is collected and stored without your intervention and automatically deleted from the log files after 7 days:
 
-* IP-Adresse des anfragenden Rechners (obfuskiert),
-* Datum und Uhrzeit des Zugriffs,
-* Name und URL der abgerufenen Datei,
-* Website, von der aus der Zugriff erfolgt (Referrer-URL),
-* Betriebssystem des anfragenden Rechners
-* Browsertyp und –version sowie weitere durch den Browser übermittelte Informationen (wie das Betriebssystem Ihres Rechners).
+* the IP address of the requesting computer (obfuscated),
+* the date and time of access
+* the name and URL of the retrieved file,
+* the website from which access is made (referrer URL),
+* the operating system of the requesting computer
+* the browser type and version, and other information transmitted by the browser (such as your computer’s operating system).
 
-Die genannten Daten werden durch uns zu folgenden Zwecke verarbeitet:
+The above-mentioned data is processed by us for the following purposes: to ensure a smooth connection for the website, to ensure user-friendly use of our website for evaluation of system security and stability, to detect and prevent attacks on our website, for continuous improvement of the website and for statistical and administrative purposes The legal basis for data processing is Art. 6 Section 1 f GDPR.  Our legitimate interest follows from the purposes of the data processing listed above.
 
-* zur Gewährleistung eines reibungslosen Verbindungsaufbaus der Website,
-* zur Gewährleistung einer komfortablen Nutzung unserer Website,
-* zur Auswertung der Systemsicherheit und -stabilität,
-* zur Erkennung und Verhinderung von Angriffen auf unsere Website,
-* zur kontinuierlichen Verbesserung der Website sowie
-* zu weiteren statistischen und administrativen Zwecken.
+In addition, we use cookies and analysis services when you visit our website. Further explanations can be found under Sections IV and V of this privacy policy.
 
-Die Rechtsgrundlage für die Datenverarbeitung ist Art. 6 Abs. 1 S. 1 lit. f DSGVO. Unser berechtigtes Interesse folgt aus oben aufgelisteten Zwecken der Datenverarbeitung.
+### 2\. In the context of using our contact form
 
-Darüber hinaus setzen wir beim Besuch unserer Website Cookies sowie Analysedienste ein. Nähere Erläuterungen dazu erhalten Sie unter den (Ziffer IV und V) dieser Datenschutzerklärung.
+You can send us general enquiries using the contact form provided on our site.  In addition to your message, we will ask you to provide
 
-### 2\. Im Rahmen der Nutzung unseres Kontaktformulars
+* your first and last name
+* the name of your company
+* a valid email address and
+* a telephone number.
 
-Sie können allgemeine Anfragen über das auf unserer Seite bereitgestellte Kontaktformular an uns versenden. Hierbei fragen wir neben Ihrer Nachricht
+Further personal information is not collected unless you provide this information voluntarily as part of the message.
 
-* Ihren Vor- und Nachnamen
-* den Namen Ihres Unternehmens
-* eine gültige E-Mail-Adresse und
-* eine Telefonnummer
+In answering your inquiry we make use of the
 
-Darüber hinausgehende personenbezogene Angaben werden nicht erfasst, es sei denn, diese Angaben werden von Ihnen freiwillig im Rahmen der Nachricht gemacht.
+Office 365 Cloud by Microsoft, from Microsoft from Microsoft Corporation, One Microsoft Way, Redmond, WA 98052-6399, USA
 
-Im Rahmen der Beantwortung Ihrer Anfrage bedienen wir uns der
+to which we transmit the data collected within the scope of the contact form.  In order to process your request, an external email service provider must be commissioned. The commissioning is in accordance with Art.  6 Section 1 f GDPR on the basis of our legitimate interest in being able to process your enquiries. We have signed a data processing agreement with Microsoft to use the Office 365 Cloud.  Through this contract, Microsoft warrants that the data will be processed in accordance with the General Data Protection Regulation and that the rights of the data subject will be protected.  In addition, Office 365 Cloud is certified by reliable security standards, including ISO 27001 and ISO 27018, with no data transfer to countries outside the EEA.
 
-Office 365 Cloud von Microsoft von Microsoft Corporation**,** One Microsoft Way, Redmond, WA 98052-6399, USA
+The data will be processed for the purpose of contacting us upon your request and on the basis of Art.  6 Section 1 b GDPR  or to safeguard our legitimate interests in accordance with 6 Section 1 f GDPR .  Our legitimate interest is to be able to respond to inquiries from our customers and thus guarantee a functioning customer service.
 
-an die wir die im Rahmen des Kontaktformulars erhobenen Daten übermitteln. Für die Bearbeitung Ihrer Anfrage ist die Beauftragung eines externen E-Mail Dienstleisters erforderlich. Die Inanspruchnahme erfolgt gemäß Art. 6 Abs. 1 S. 1 lit. f DSGVO aufgrund unseres berechtigten Interesses, Ihre Anfragen bearbeiten zu können. Wir haben mit Microsoft einen Auftragsverarbeitungsvertrag für die Verwendung der Office 365 Cloud abgeschlossen. Durch diesen Vertrag versichert Microsoft, die Daten im Einklang mit der Datenschutzgrundverordnung zu verarbeiten und den Schutz der Rechte der betroffenen Person gewährleisten. Zudem ist Office 365 Cloud durch zuverlässige Sicherheitsstandards zertifiziert, darunter ISO 27001 sowie ISO 27018. Eine Datenübermittlung in Staaten außerhalb des EWR findet dabei grundsätzlich nicht statt.
+The personal data collected by us for the use of the contact form will be deleted after your request has been dealt with, unless we have to keep it available because of the nature of your request or we are obliged to store it for a longer period of time in accordance with Art. 6 Section 1 c GDPR due to tax and commercial law storage and documentation obligations, (e.g. Commercial, Criminal, Tax Code).
 
-Die Datenverarbeitung zum Zwecke der Kontaktaufnahme mit uns erfolgt auf Ihre Anfrage hin und auf Grundlage von Art. 6 Abs. 1 S. 1 lit. b DSGVO bzw. zur Wahrung unserer berechtigten Interessen gemäß Art. 6 Abs. 1 S. 1 lit. f DSGVO. Unser berechtigtes Interesse liegt darin, auf Anfragen unserer Kunden reagieren zu können und so einen funktionierenden Kundenservice zu gewährleisten.
+### 3\. In connection with our newsletters
 
-Die für die Benutzung des Kontaktformulars von uns erhobenen personenbezogenen Daten werden nach Erledigung der von Ihnen gestellten Anfrage gelöscht, es sei denn, dass wir diese wegen der Art Ihrer Anfrage vorhalten müssen oder wir nach Artikel 6 Abs. 1 S. 1 lit. c DSGVO aufgrund von steuer- und handelsrechtlichen Aufbewahrungs- und Dokumentationspflichten (aus HGB, StGB oder AO) zu einer längeren Speicherung verpflichtet sind.
+If you have entered your name, the name of your company and a valid email address on our website, we will use this personal data to send you our newsletter. It will be sent upon your request and is based on Art. 6 Section 1 f GDPR and our legitimate interests to inform you about current news of YOC AG (advertising).
 
-### 3\. Im Zusammenhang mit unseren Newslettern
+We send our newsletter via the service
 
-Wenn Sie auf unserer Website Ihren Namen, den Namen Ihres Unternehmens und eine gültige E-Mail Adresse eingegeben haben, verwenden wir diese personenbezogenen Daten, um Ihnen unseren Newsletter zuzusenden. Die Zusendung erfolgt auf Ihre Anfrage und basiert auf Art. 6 Abs. 1 S. 1 lit. f DSGVO und unseren berechtigten Interessen, Sie über aktuelle Neuigkeiten der YOC AG (Werbung) zu informieren.
+MailChimp from The Rocket Science Group, LLC, 675 Ponce de Leon Ave NE, Suite 5000, Atlanta, GA 30308 USA (“MailChimp”).
 
-Wir versenden unseren Newsletter mittels des Dienstes
+The email addresses of our newsletter recipients are stored on our behalf on the servers of MailChimp in the USA.
 
-MailChimp von The Rocket Science Group, LLC, 675 Ponce de Leon Ave NE, Suite 5000, Atlanta, GA 30308 USA („MailChimp“).
+MailChimp uses this information to send and evaluate the newsletter on our behalf. For this purpose, we have concluded a data processing agreement with MailChimp. With this contract MailChimp warrants that it processes the data in accordance with the GDPR and guarantees the protection of the rights of the data subject.
 
-Die E-Mail-Adressen unserer Newsletterempfänger werden in unserem Auftrag auf den Servern von MailChimp in den USA gespeichert.
+MailChimp warrants that personal data is comprehensively protected against unauthorized access. MailChimp itself does not use the data of our newsletter recipients to contact them itself or passes the data on to third parties. As a company based in the USA, MailChimp complies with the data protection regulations of the “US Privacy Shield” and is registered with the “US Privacy Shield” programme of the US Department of Commerce.
 
-MailChimp verwendet diese Informationen zum Versand und zur Auswertung der Newsletter in unserem Auftrag. Wir haben dazu mit MailChimp einen Auftragsverarbeitungsvertrag abgeschlossen. Durch diesen Vertrag versichert MailChimp, dass sie die Daten im Einklang mit der Datenschutzgrundverordnung verarbeiten und den Schutz der Rechte der betroffenen Person gewährleisten.
+MailChimp also offers statistical evaluation possibilities of usage data using cookies, such as determining whether a newsletter has been opened, when it was opened and which links are clicked. The evaluations also serve to identify the reading habits of the users and allow us to adapt our content or to send different content according to the interests of our users.
 
-MailChimp versichert, dass personenbezogene Daten umfassend vor unerlaubten Zugriffen geschützt sind. MailChimp selbst nutzt die Daten unserer Newsletterempfänger nicht, um diese selbst anzuschreiben oder gibt die Daten an Dritte weiter. Als Unternehmen mit Sitz in den USA beachtet MailChimp die Datenschutzbestimmungen des „US-Privacy-Shield“ und ist beim „US-Privacy-Shield“-Programm des US-Handelsministeriums registriert.
+You can unsubscribe from our newsletter at any time, without giving reasons, via a link at the end of each newsletter.  Alternatively, you can also inform us by sending an email to [**newsletter@yoc.com**](mailto:newsletter@yoc.com) that you no longer wish to receive newsletters from us. Your personal data processed in this context and exclusively for the purposes of sending newsletters will be deleted immediately after cancellation. However, we record the fact that you have objected and your email address in order not to inadvertently send you newsletters in the future.
 
-MailChimp bietet auch statistische Auswertungsmöglichkeiten von Nutzungsdaten mittels Cookies, wie z.B. die Feststellung, ob ein Newsletter geöffnet wurde, wann er geöffnet wurde und welche Links geklickt werden. Die Auswertungen dienen auch dazu, die Lesegewohnheiten der Nutzer zu erkennen und erlaubt es uns, unsere Inhalte anzupassen oder verschiedene Inhalte entsprechend den Interessen unserer Nutzer zu versenden.
+III. Disclosure of data to third parties
+----------------------------------------
 
-Sie können sich jederzeit, ohne Angabe von Gründen von unserem Newsletter über einen Link am Ende eines jeden Newsletters abmelden. Alternativ können Sie uns auch per Mail an [newsletter@yoc.com](mailto:newsletter@yoc.com) darüber informieren, dass Sie keine Newsletter von uns (mehr) erhalten möchten. Ihre in diesem Zusammenhang und ausschließlich für die Zwecke des Newsletterversands verarbeiteten personenbezogenen Daten werden nach Abmeldung unverzüglich gelöscht, jedoch halten wir die Tatsache, dass Sie widersprochen haben und Ihre E-Mail Adresse vor, um Ihnen in Zukunft nicht versehentlich Newsletter zukommen zu lassen.
+In particular, to the extent permitted by law and required by Art.  6 Section 1 b GDPR for the processing of contractual relationships with you, your personal data will be passed on to third parties.
 
-III. Weitergabe von Daten an Dritte
------------------------------------
+Furthermore, we will only pass on your personal data to third parties if:
 
-Insbesondere soweit dies gesetzlich zulässig und nach Art. 6 Abs. 1 S. 1 lit. b DSGVO für die Abwicklung von Vertragsverhältnissen mit Ihnen erforderlich ist, werden Ihre personenbezogenen Daten an Dritte weitergegeben.
-
-Darüber hinaus geben wir Ihre persönlichen Daten nur an Dritte weiter, wenn:
-
-* sie Ihre nach Art. 6 Abs. 1 S. 1 lit. a DSGVO ausdrückliche Einwilligung dazu erteilt haben,
-* für den Fall, dass für die Weitergabe nach Art. 6 Abs. 1 S. 1 lit. c DSGVO eine gesetzliche Verpflichtung besteht, sowie
-* die Weitergabe nach Art. 6 Abs. 1 S. 1 lit. f DSGVO zur Geltendmachung, Ausübung oder Verteidigung von Rechtsansprüchen erforderlich ist und kein Grund zur Annahme besteht, dass Sie ein überwiegendes schutzwürdiges Interesse an der Nichtweitergabe Ihrer Daten haben.
+* you have given your express consent in accordance with Art. 6 Section 1 a GDPR,
+* in the event that a legal obligation exists for the transfer in accordance with Art.  6 Section 1 c GDPR, and
+* disclosure in accordance with Art. 6 Section 1 f GDPR is necessary to assert, exercise or defend legal claims and there is no reason to assume that you have an overriding interest worthy of protection in not disclosing your data.
 
 IV. Cookies
 -----------
 
-### 1\. Was sind cookies
+### 1\. What are cookies
 
-Wir setzen auf unserer Seite Cookies ein. Hierbei handelt es sich um kleine Dateien, die Ihr Browser automatisch erstellt und die auf Ihrem Endgerät (Laptop, Tablet, Smartphone o.ä.) gespeichert werden, wenn Sie unsere Seite besuchen. Cookies richten auf Ihrem Endgerät keinen Schaden an, enthalten keine Viren, Trojaner oder sonstige Schadsoftware.
+We use cookies on our site. These are small files that your browser automatically creates and that are stored on your device (laptop, tablet, smartphone, etc.) when you visit our site. Cookies do no damage to your end device, and do not contain viruses, Trojans or other malware.
 
-In dem Cookie werden Informationen abgelegt, die sich jeweils im Zusammenhang mit dem spezifisch eingesetzten Endgerät ergeben. Dies bedeutet jedoch nicht, dass wir dadurch unmittelbar Kenntnis von Ihrer Identität erhalten.
+Information is stored in the cookie that results in each case in connection with the specifically used terminal device. However, this does not mean that we directly become aware of your identity.
 
-Der Einsatz von Cookies dient einerseits dazu, die Nutzung unseres Angebots für Sie angenehmer zu gestalten. Diese werden nach Verlassen unserer Seite automatisch gelöscht.
+The use of cookies serves on the one hand to make the use of our offer more pleasant for you. They will be deleted automatically after you leave our website.
 
-Darüber hinaus setzen wir ebenfalls zur Optimierung der Benutzerfreundlichkeit temporäre, sogenannte Comfort-Cookies ein, die für einen bestimmten festgelegten Zeitraum auf Ihrem Endgerät gespeichert werden. Besuchen Sie unsere Seite erneut, um unsere Dienste in Anspruch zu nehmen, wird automatisch erkannt, dass Sie bereits bei uns waren und welche Eingaben und Einstellungen sie getätigt haben, um diese nicht noch einmal eingeben zu müssen. In der Regel werden diese nach maximal 30 Tagen gelöscht. Lediglich solche Comfort-Cookies, die Spracheinstellungen betreffen speichern diese 365 Tage.
+In addition, to optimize user-friendliness, we also use temporary, so-called comfort cookies, which are stored on your terminal device for a certain specified period of time. If you visit our site again to use our services, it will automatically recognize that you have already been with us and what entries and settings you have made, so that you do not have to enter them again. As a rule, these are deleted after a maximum of 30 days. Only those comfort cookies that concern language settings are saved for 365 days.
 
-Zum anderen setzten wir im Rahmen von Drittanbieter-Tools Cookies, um die Nutzung unserer Website statistisch zu erfassen und zum Zwecke der Optimierung unseres Angebotes für Sie auszuwerten (siehe unter V). Diese Analyse- und Tracking Cookies ermöglichen es uns, bei einem erneuten Besuch unserer Seite automatisch zu erkennen, dass Sie bereits bei uns waren. Diese Cookies werden nach einer jeweils definierten Zeit automatisch gelöscht.
+We also use cookies as part of third-party tools to statistically record the use of our website and to evaluate it for you for the purpose of optimizing our offer (see V). These analysis and tracking cookies enable us to automatically recognize when you return to our site that you have already been with us. These cookies are automatically deleted after a defined period of time.
 
-### 2\. Auf welchen Rechtsgrundlagen beruht die Verarbeitung mithilfe von Cookies
+### 2\. What is the legal basis for processing based on cookies?
 
-Die durch Cookies verarbeiteten Daten sind für die genannten Zwecke zur Wahrung unserer berechtigten Interessen an der Analyse, Optimierung und wirtschaftlichen Betriebs unseres Angebots erforderlich.
+The data processed by cookies is required for the above-mentioned purposes in order to safeguard our legitimate interests in the analysis, optimization and economic operation of our services.
 
-YOC nutzt Cookies für die Auslieferung personalisierter Werbung. Diese Cookies können durch den Aufruf des folgenden Links deaktiviert werden: [https://t.visx.net/opt-out](https://t.visx.net/opt-out).
+YOC uses cookies to deliver personalised advertising. These cookies can be deactivated by clicking on the following link: [**https://t.visx.net/opt-out**](https://t.visx.net/opt-out)**.**
 
-### 3\. Welche Opt-Out Optionen habe ich?
+### 3\. What opt-out options do you have?
 
-Die meisten Browser akzeptieren Cookies automatisch. Sie können Ihren Browser jedoch so konfigurieren, dass keine Cookies auf Ihrem Computer gespeichert werden oder stets ein Hinweis erscheint, bevor ein neuer Cookie angelegt wird.
+Most browsers automatically accept cookies. However, you can configure your browser so that no cookies are stored on your computer, or a message always appears before a new cookie is created.
 
-Die vollständige Deaktivierung von Cookies kann jedoch dazu führen, dass Sie nicht alle Funktionen unserer Website nutzen können. Eine Anleitung zur Abschaltung von Cookies in Ihrem Browser finden Sie in der Hilfe-Funktion Ihres Browsers oder unter den folgenden Links:
+However, the complete deactivation of cookies can lead to the fact that you cannot use all functions of our website. Instructions for deactivating cookies in your browser can be found in the help function of your browser or under the following links:
 
-[](https://www.tecchannel.de/a/internet-explorer-9-do-not-track-header-aktivieren,2037920)[**Mozilla FireFox**](https://support.mozilla.org/de/kb/wie-verhindere-ich-dass-websites-mich-verfolgen)
+[**Mozilla FireFox**](https://support.mozilla.org/en-US/kb/how-do-i-turn-do-not-track-feature)
 
-[**Google Chrome**](https://support.google.com/chrome/answer/2790761?co=GENIE.Platform%3DDesktop&hl=de)
+[**Google Chrome**](https://support.google.com/chrome/answer/2790761)
 
-[**Microsoft Edge**](https://www.randombrick.de/windows-10-microsoft-edge-do-not-track-aktivieren/)
+[**Microsoft Edge**](https://privacy.microsoft.com/en-us/windows-10-microsoft-edge-and-privacy)
 
-[**Opera**](http://help.opera.com/Windows/12.10/de/notrack.html)
+[**Opera**](http://help.opera.com/Windows/12.10/en/notrack.html)
 
-[**Safari**](http://www.maclife.de/tipps-tricks/iphone/ios-7-do-not-track-funktion-safari-fuer-mehr-datenschutz-aktivieren)
+[**Safari**](https://www.cultofmac.com/256690/enable-do-not-track-block-cookies-for-better-mobile-safari-privacy-ios-tips/)
 
-[**Microsoft Internet Explorer 11**](https://support.microsoft.com/de-de/help/17288/windows-internet-explorer-11-use-do-not-track)
+[**Microsoft Internet Explorer 11**](https://support.microsoft.com/en-gb/help/17288/windows-internet-explorer-11-use-do-not-track)
 
-[**Microsoft Internet Explorer 10**](https://www.drwindows.de/windows-anleitungen-faq/61099-do-not-track-internet-explorer-10-windows.html)
+[**Microsoft Internet Explorer 10**](https://www.guidingtech.com/17277/enable-do-not-track-specific-websites-internet-explorer-10/)
 
-[**Microsoft Internet Explorer 9**](https://www.tecchannel.de/a/internet-explorer-9-do-not-track-header-aktivieren,2037920)
+[**Microsoft Internet Explorer 9**](https://www.howtogeek.com/102502/how-to-optimize-internet-explorer-9-for-maximum-privacy/)[](https://support.google.com/chrome/answer/2790761)
 
-Sie können auch durch entsprechende Tools bzw. Browser-Add-ons, den Einsatz von Pixel auf unseren Seiten unterbinden (z.B. durch das Add-on „AdBlock“).
+You can also use appropriate tools or browser add-ons to prevent the use of pixels on our pages (e.g. the “AdBlock” add-on).
 
-Weitere Opt-Out-Möglichkeiten finden Sie in den folgenden Informationen über die von uns eingesetzten Tracking- und Targeting Maßnahmen.
+Further opt-out options can be found in the following information about the tracking and targeting measures we use.
 
-### 4\. Einsatz des Consent Screens
+### 4\. Use of Consent Screen
 
-Auf unserer Website haben wir das Einwilligungs-Management-Tool „consentmanager“ ([**www.consentmanager.net**](http://www.consentmanager.net/)) der Jaohawi AB (Håltgelvågen 1b, 72348 Västerås, Schweden, info@consentmanager.net) eingebunden, um Einwilligungen für die Datenverarbeitung bzw. den Einsatz von Cookies oder vergleichbaren Funktionen abzufragen. Mithilfe von „consentmanager“ besteht so die Möglichkeit, Ihr Einverständnis für bestimmte Funktionalitäten unserer Website, z.B. zum Zwecke der Einbindung externer Elemente, Einbindung von Streaming-Inhalten, statistischen Analyse, Reichweitenmessung und personalisierten Werbung zu erteilen oder abzulehnen. Es kann eine Zustimmung für sämtliche oder einzelne Funktionen erteilt oder abgelehnt werden. Diese Einstellungen können auch im Nachhinein erneut angepasst werden. Zweck der Einbindung von „consentmanager“ ist es, den Nutzern unserer Website die Entscheidung über die vorgenannten Dinge zu überlassen und im Rahmen der weiteren Nutzung unserer Website die Möglichkeit zu bieten, bereits vorgenommene Einstellungen zu ändern. Im Zuge der Nutzung von „consentmanager“ werden personenbezogene Daten sowie Informationen der verwendeten Endgeräte wie die IP-Adresse verarbeitet. 
+On our website, we have integrated the consent management tool “consentmanager” ([**www.consentmanager.net**](http://www.consentmanager.net/)) of Jaohawi AB (Håltgelvågen 1b, 72348 Västerås, Sweden, info@consentmanager.net) to request consent for data processing or the use of cookies or similar functions. With the help of “consentmanager”, it is thus possible to give or refuse your consent for certain functionalities of our website, e.g. for the purpose of integrating external elements, integrating streaming content, statistical analysis, reach measurement and personalized advertising. Consent can be given or rejected for all or individual functions. These settings can be adjusted again afterwards. The purpose of integrating “consentmanager” is to allow the users of our website to decide on the aforementioned matters and, in the course of further use of our website, to offer the possibility of changing settings that have already been made. In the course of using “consentmanager”, personal data as well as information of the end devices used, such as the IP address, are processed.
 
-Rechtsgrundlage für die Verarbeitung ist Art. 6 Abs. 1 S. 1 lit. c) i.V.m. Art. 6 Abs 3 S. 1 lit. a) i.V.m. Art. 7 Abs. 1 DSGVO sowie hilfsweise lit. f). Wir helfen mit der Verarbeitung der Daten unseren Kunden (nach DSGVO der Verantwortliche) bei der Erfüllung ihrer rechtlichen Verpflichtungen (z.B. Nachweispflicht). Unsere berechtigten Interessen an der Verarbeitung liegen in der Speicherung der Nutzereinstellungen und Präferenzen in Bezug auf den Einsatz von Cookies und weiteren Funktionalitäten. „Consentmanager“ speichert Ihre Daten solange Ihre Nutzereinstellungen aktiv sind. Nach zwei Jahren nach Vornahme der Nutzereinstellungen erfolgt eine erneute Abfrage der Zustimmung. Die vorgenommenen Nutzereinstellungen werden dann erneut für diesen Zeitraum gespeichert. 
+The legal basis for the processing is Art. 6 para. 1 p. 1 lit. c) in conjunction with. Art. 6 para. 3 p. 1 lit. a) in conjunction with. Art. 7 para. 1 DSGVO and alternatively lit. f). By processing the data, we help our customers (according to DSGVO the responsible party) to fulfill their legal obligations (e.g. obligation to provide evidence). Our legitimate interests in the processing lie in the storage of user settings and preferences in relation to the use of cookies and other functionalities. “Consentmanager” stores your data as long as your user settings are active. Two years after the user settings have been made, you will be asked for your consent again. The user settings made will then be stored again for this period.
 
-Sie können Widerspruch gegen die Verarbeitung einlegen. Ihr Widerspruchsrecht besteht bei Gründen, die sich aus Ihrer besonderen Situation ergeben. Zwecks Widerspruchs wenden Sie sich bitte via E-Mail an [**info@consentmanager.net**](mailto:info@consentmanager.net).
+You can object to the processing. Your right to object exists for reasons arising from your particular situation. For the purpose of objection, please get in touch via e-mail at [**info@consentmanager.net**](mailto:info@consentmanager.net).
 
-V. Tracking mit Google Analytics
---------------------------------
+V. Tracking with Google Analytics
+---------------------------------
 
-Die im Folgenden aufgeführten und von uns eingesetzten Tracking- Maßnahmen werden auf der Grundlage des Art. 6 Abs. 1 S. 1 lit. f DSGVO durchgeführt.
+The tracking measures listed below and used by us are carried out on the basis of Art.  6 Section 1 f GDPR.
 
-Mit den zum Einsatz kommenden Tracking-Maßnahmen wollen wir eine bedarfsgerechte Gestaltung und die fortlaufende Optimierung unserer Website sicherstellen. Zum anderen setzen wir die Tracking-Maßnahmen ein, um die Nutzung unserer Website statistisch zu erfassen. Die jeweiligen Datenverarbeitungszwecke und Datenkategorien sind aus der Beschreibung der entsprechenden Tracking-Tools zu entnehmen.
+With the tracking measures used, we want to ensure that our website is designed to meet requirements and is continually optimised.  We also use the tracking measures to statistically record the use of our website.  The respective data processing purposes and data categories can be found in the description of the corresponding tracking tools.
 
-Wir nutzen auf unserer Website Google Analytics, einen Webanalysedienst der Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA (im Folgenden: „Google“). In diesem Zusammenhang werden pseudonymisierte Nutzungsprofile erstellt und Cookies (s. unter IV1) verwendet. Die durch den Cookie erzeugten Informationen über Ihre Benutzung dieser Website wie
+We use Google Analytics, a web analysis service of Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA (hereinafter:  “Google“). In this context, pseudonymized user profiles are created and cookies (see IV1) are used. The information generated by the cookie about your use of this website, such as
 
-* Browser-Typ/-Version,
-* verwendetes Betriebssystem,
-* Referrer-URL (die zuvor besuchte Seite),
-* Hostname des zugreifenden Rechners (IP-Adresse),
-* Uhrzeit der Serveranfrage,
+* browser type/version,
+* the operating system used,
+* the referrer URL (the previously visited website),
+* the host name of the accessing computer (IP address),
+* time of the server request,
 
-werden an einen Server von Google in den USA übertragen und dort gespeichert. Google beachtet die Datenschutzbestimmungen des „US-Privacy-Shield“ und ist beim „US-Privacy Shield“-Programm des US-Handelsministeriums registriert.
+is transferred to a Google server in the USA and stored there. Google complies with the data protection regulations of the “US Privacy Shield” and is registered with the “US Privacy Shield” programme of the US Department of Commerce.
 
-Zusätzlich haben wir über den Einsatz einen Auftragsverarbeitungsvertrag für die Verwendung von Google Analytics abgeschlossen. Durch diesen Vertrag versichert Google, dass sie die Daten im Einklang mit der Datenschutzgrundverordnung verarbeiten und den Schutz der Rechte der betroffenen Person gewährleisten.
+In addition, we have concluded a data processing agreement for the use of Google Analytics.  Through this contract, Google undertakes that it will process the data in accordance with the GDPR and guarantees the protection of the rights of the data subject.
 
-Die Informationen werden verwendet, um die Nutzung der Website auszuwerten, um Reports über die Websiteaktivitäten zusammenzustellen und um weitere mit der Websitenutzung und der Internetnutzung verbundene Dienstleistungen zu Zwecken der Marktforschung und bedarfsgerechten Gestaltung dieser Internetseiten zu erbringen.
+The information is used to evaluate the use of the website, to compile reports on website activities and to provide further services associated with the use of the website and the Internet for the purposes of market research and demand-oriented design of these Internet pages.
 
-Auch werden diese Informationen gegebenenfalls an Dritte übertragen, sofern dies gesetzlich vorgeschrieben ist oder soweit Dritte diese Daten im Auftrag verarbeiten. Es wird in keinem Fall Ihre IP-Adresse mit anderen Daten von Google zusammengeführt. Die IP-Adressen werden anonymisiert, so dass eine Zuordnung nicht möglich ist (IP-Masking).
+This information may also be transferred to third parties if this is required by law or if third parties process this data on behalf of the company.  Under no circumstances will your IP address be merged with other data by Google.  The IP addresses are anonymized so that an assignment is not possible (IP masking).
 
-Alternativ zum [**Browser-Add-on**](https://tools.google.com/dlpage/gaoptout?hl=de), insbesondere bei Browsern auf mobilen Endgeräten, können Sie die Erfassung durch Google Analytics zudem verhindern, indem Sie auf diesen [**Link**](https://yoc.com/privacy/%C2%A0[/google_analytics_optout]) klicken. Es wird ein Opt-out-Cookie gesetzt, das die zukünftige Erfassung Ihrer Daten beim Besuch dieser Website verhindert. Der Opt-out-Cookie gilt nur in diesem Browser und nur für unsere Website und wird auf Ihrem Gerät abgelegt. Löschen Sie die Cookies in diesem Browser, müssen Sie das Opt-out-Cookie erneut setzen.
+As an alternative to the [**browser add-on**](https://tools.google.com/dlpage/gaoptout?hl=en), especially for browsers on mobile devices, you can also prevent Google Analytics from collecting data by clicking on this [**link**](https://yoc.com/privacy/[/google_analytics_optout]). An opt-out cookie is set to prevent future collection of your data when you visit this website.  The opt-out cookie is only valid in this browser and only for our website and is stored on your device.  If you delete the cookies in this browser, you must set the opt-out cookie again.
 
-Weitere Informationen zum Datenschutz im Zusammenhang mit Google Analytics finden Sie etwa in der [**Google Analytics-Hilfe**](https://support.google.com/analytics/answer/6004245?hl=de.)**.**
+For more information about privacy in connection with Google Analytics, please visit the Google Analytics Help Center.
 
-Zudem setzen wir auch Google Optimize ein. Hierbei handelt es sich um einen Webanalysedienst der Google LLC, welcher in Google Analytics integriert ist. Google Optimize ermöglicht es uns, A/B- und Multivarianten-Tests durchzuführen. Damit können wir erfahren, welche Version unserer Website den Nutzern eher gefällt. Weitere Informationen zu diesem Dienst finden Sie [**hier**](https://support.google.com/360suite/optimize).
+We also use Google Optimize.  This is a web analysis service of Google LLC, which is integrated into Google Analytics.  Google Optimize allows us to perform A/B and multi-variant tests. This shows us which version of our website is more appealing to users. Further information about this service can be found [**here**](https://support.google.com/360suite/optimize).
 
-VI. Betroffenenrechte
----------------------
+VI. the rights of data subjects
+-------------------------------
 
-Sie haben das Recht:
+You have the right:
 
-* gemäß Art. 7 Abs. 3 DSGVO Ihre einmal erteilte Einwilligung jederzeit gegenüber uns zu widerrufen. Dies hat zur Folge, dass wir die Datenverarbeitung, die auf dieser Einwilligung beruhte, für die Zukunft nicht mehr fortführen dürfen;
-* gemäß Art. 15 DSGVO Auskunft über Ihre von uns verarbeiteten personenbezogenen Daten zu verlangen. Insbesondere können Sie Auskunft über die Verarbeitungszwecke, die Kategorie der personenbezogenen Daten, die Kategorien von Empfängern, gegenüber denen Ihre Daten offengelegt wurden oder werden, die geplante Speicherdauer, das Bestehen eines Rechts auf Berichtigung, Löschung, Einschränkung der Verarbeitung oder Widerspruch, das Bestehen eines Beschwerderechts, die Herkunft ihrer Daten, sofern diese nicht bei uns erhoben wurden, sowie über das Bestehen einer automatisierten Entscheidungsfindung einschließlich Profiling und ggf. aussagekräftigen Informationen zu deren Einzelheiten verlangen;
-* gemäß Art. 16 DSGVO unverzüglich die Berichtigung unrichtiger oder Vervollständigung Ihrer bei uns gespeicherten personenbezogenen Daten zu verlangen;
-* gemäß Art. 17 DSGVO die Löschung Ihrer bei uns gespeicherten personenbezogenen Daten zu verlangen, soweit nicht die Verarbeitung zur Ausübung des Rechts auf freie Meinungsäußerung und Information, zur Erfüllung einer rechtlichen Verpflichtung, aus Gründen des öffentlichen Interesses oder zur Geltendmachung, Ausübung oder Verteidigung von Rechtsansprüchen erforderlich ist;
-* gemäß Art. 18 DSGVO die Einschränkung der Verarbeitung Ihrer personenbezogenen Daten zu verlangen, soweit die Richtigkeit der Daten von Ihnen bestritten wird, die Verarbeitung unrechtmäßig ist, Sie aber deren Löschung ablehnen und wir die Daten nicht mehr benötigen, Sie jedoch diese zur Geltendmachung, Ausübung oder Verteidigung von Rechtsansprüchen benötigen oder Sie gemäß Art. 21 DSGVO Widerspruch gegen die Verarbeitung eingelegt haben;
-* gemäß Art. 20 DSGVO Ihre personenbezogenen Daten, die Sie uns bereitgestellt haben, in einem strukturierten, gängigen und maschinenlesebaren Format zu erhalten oder die Übermittlung an einen anderen Verantwortlichen zu verlangen und
-* gemäß Art. 77 DSGVO sich bei einer Aufsichtsbehörde zu beschweren. In der Regel können Sie sich hierfür an die Aufsichtsbehörde ihres üblichen Aufenthaltsortes oder Arbeitsplatzes oder unseres Unternehmenssitzes wenden.
+* in accordance with Art. 7 Section 3 GDPR, to revoke your consent to us at any time.  As a result, we will no longer be allowed to continue processing data based on this consent in the future;
+* You can also request information about your personal data processed by us in accordance with Art. 15 GDPR . In particular, you may request information about the purposes of processing, the category of personal data, the categories of recipients to whom your data have been or will be disclosed, the planned storage period, the existence of a right to rectification, deletion, restriction of processing or objection, the existence of a right of appeal, the origin of your data, if it has not been collected by us, and the existence of automated decision-making including profiling and, if applicable, meaningful information on the relevant details.
+* In accordance with Art. 16 GDPR,  you can demand without delay the correction of incorrect or complete personal data stored by us,
+* or the deletion of your personal data stored with us in accordance with Art. 17 GDPR, unless the processing is necessary to exercise the right to freedom of expression and information, to fulfil a legal obligation, for reasons of public interest or to assert, exercise or defend legal claims.
+* In accordance with Art. 18 GDPR,  you can require us to restrict the processing of your personal data if you dispute the accuracy of the data, if the processing is unlawful but you refuse to delete the data, if we no longer need the data but you need it to assert, exercise or defend legal claims, or if you have filed an objection to the processing in accordance with Art. 21 GDPR.
+* You also have the right to receive the personal data which you have provided to us n a structured, current and machine-readable format in accordance with Art. 20 GDPR , or to request its smission to another responsible party
+* and to complain to a supervisory authority in accordance with Art. 77 GDPR . As a rule, you can contact the supervisory authority of your usual place of residence or workplace or our company headquarters.
 
-Zur Geltendmachung ihrer Betroffenenrechte gegenüber uns, wenden Sie sich an privacy@yoc.com.
+To assert your rights against us, please contact privacy@yoc.com
 
-VII. Widerspruchsrecht
-----------------------
+VII. right of objection
+-----------------------
 
-**Sofern Ihre personenbezogenen Daten auf Grundlage von berechtigten Interessen gemäß Art. 6 Abs. 1 S. 1 lit. f DSGVO verarbeitet werden, haben Sie das Recht, gemäß Art. 21 DSGVO Widerspruch gegen die Verarbeitung Ihrer personenbezogenen Daten einzulegen, soweit dafür Gründe vorliegen, die sich aus Ihrer besonderen Situation ergeben oder sich der Widerspruch gegen Direktwerbung richtet. Im letzteren Fall haben Sie ein generelles Widerspruchsrecht, das ohne Angabe einer besonderen Situation von uns umgesetzt wird.**
+**If your personal data is processed on the basis of legitimate interests in accordance with Art.** **6 Section 1 f GDPR, you have the right in accordance with Art.** **21 GDPR to object to the processing of your personal data if there is justification for this arising from your special situation, or of you do not wish to receive direct advertising.** **In the latter case you have a general right of objection, which we will respond to without the existence of a special situation.**
 
-**Möchten Sie von Ihrem Widerspruchsrecht Gebrauch machen, genügt eine E-Mail an privacy@yoc.com**
+**If you wish to assert your right of rejection, simply send an email to  privacy @yoc.com**
 
-VIII. Datensicherheit
----------------------
+VIII. data security
+-------------------
 
-Alle von Ihnen persönlich übermittelten Daten werden mit dem allgemein üblichen und sicheren Standard TLS (Transport Layer Security) verschlüsselt übertragen. TLS ist ein sicherer und erprobter Standard, der z.B. auch beim Onlinebanking Verwendung findet. Sie erkennen eine sichere TLS-Verbindung unter anderem an dem angehängten s am http (also https://..) in der Adressleiste Ihres Browsers oder am Schloss-Symbol im oberen Bereich Ihres Browsers.
+All data transmitted by you personally is encrypted using the generally accepted and secure TLS (Transport Layer Security) standard. TLS is a secure and proven standard that is also used in online banking, for example. You can recognize a secure TLS connection by the attached s on the http (i.e. https://..) in the address bar of your browser or by the padlock symbol at the top of your browser.
 
-Wir bedienen uns im Übrigen geeigneter technischer und organisatorischer Sicherheitsmaßnahmen, um Ihre Daten gegen zufällige oder vorsätzliche Manipulationen, teilweisen oder vollständigen Verlust, Zerstörung oder gegen den unbefugten Zugriff Dritter zu schützen. Unsere Sicherheitsmaßnahmen werden entsprechend der technologischen Entwicklung fortlaufend verbessert.
+We also use suitable technical and organizational security measures to protect your data against accidental or intentional manipulation, partial or complete loss, destruction or unauthorised access by third parties. Our security measures are continuously improved in line with technological developments.
 
-IX. Aktualität und Änderung dieser Datenschutzerklärung
--------------------------------------------------------
+IX. Up-to-date status and amendment of this privacy policy
+----------------------------------------------------------
 
-Diese Datenschutzerklärung ist aktuell gültig und hat den Stand Mai 2018.
+This privacy policy is currently valid and is valid from May 2018.
 
-Durch die Weiterentwicklung unserer Website und Angebote darüber oder aufgrund geänderter gesetzlicher bzw. behördlicher Vorgaben kann es notwendig werden, diese Datenschutzerklärung zu ändern. Die jeweils aktuelle Datenschutzerklärung kann jederzeit auf der Website unter
+Due to the further development of our website and offers above or due to changed legal or official requirements, it may become necessary to change this privacy policy.  The latest version of our privacy policy can be viewed at any time on our website under
 
-[**https://yoc.com/de/datenschutz/**](https://yoc.com/de/datenschutz/)
+[**https://yoc.com/privacy**](https://yoc.com/privacy/)
 
-von Ihnen abgerufen und ausgedruckt werden.
+and printed out.
 
-[Unsere Produkte](https://yoc.com/produktuebersicht)
+[Our Products](https://yoc.com/products-overview)
 
-* [YOC Universal Display Solution](https://yoc.com/products/yoc-universal-display-solution)
+* [YOC Universal Display Solutions](https://yoc.com/products/yoc-universal-display-solution)
 * [YOC Universal Video Solution](https://yoc.com/products/yoc-universal-video-solution)
 * [YOC Mystery Ad®](https://yoc.com/products/yoc-mystery-ad)
-* [YOC Unterstitial Ad®](https://yoc.com/products/understitial-ad)
+* [YOC Understitial Ad®](https://yoc.com/products/yoc-understitial-ad)
 * [YOC Mystery Scroller®](https://yoc.com/products/yoc-mystery-scroller)
 * [YOC Branded Takeover](https://yoc.com/products/yoc-branded-takeover-)
 * [YOC Skin](https://yoc.com/products/yoc-skin)
@@ -272,40 +261,40 @@ von Ihnen abgerufen und ausgedruckt werden.
 * [YOC Zoom Ad](https://yoc.com/products/yoc-zoom-ad)
 * [YOC Inline Video Ad](https://yoc.com/products/yoc-inline-video-ad)
 
-[Unsere Technologie](https://yoc.com/technologie)
+[Our Technology](https://yoc.com/our-technology)
 
-* [VIS.X® Plattform](https://yoc.com/visx-plattform)
+* [VIS.X® Platform](https://yoc.com/visx-plattform)
 * [Publishing Partner](https://yoc.com/publishing-partner-de)
-* [VIS.X® Identity Intelligence](https://yoc.com/visx-identity-intelligence-de)
+* [VIS.X® Identity Intelligence](https://yoc.com/visx-identity-intelligence-en)
 
-[Ressourcen](https://yoc.com/resources-de)
+[Resources](https://yoc.com/resources)
 
-* [Research Studies](https://yoc.com/resources-de)
-* [Whitepaper](https://yoc.com/resources-de)
-* [Case Studies](https://yoc.com/resources-de)
+* [Research Studies](https://yoc.com/resources)
+* [Whitepaper](https://yoc.com/resources)
+* [Case Studies](https://yoc.com/resources)
 * [YOC Showroom](https://showroom-staging.yoc.com/website/dZ6U-Ol8B-aUMH)
 
-[Unternehmen](https://yoc.com/unternehmen)
+[Company](https://yoc.com/unternehmen)
 
-* [Über YOC](https://yoc.com/unternehmen)
-* [Karriere](https://yoc.com/karriere)
-* [Kontakt](https://yoc.com/kontakt)
-* [Verträge](https://yoc.com/contracts)
+* [About YOC](https://yoc.com/unternehmen)
+* [Career](https://yoc.com/karriere)
+* [Contact](https://yoc.com/kontakt)
+* [Contracts](https://yoc.com/contracts)
 
 [Investor Relations](https://yoc.com/investor-relations)
 
-* [YOC Aktie](https://yoc.com/yoc-share)
+* [YOC Share](https://yoc.com/yoc-share)
 * [News](https://yoc.com/ir-news)
-* [YOC im Überblick](https://yoc.com/yoc-at-a-glance)
-* [Finanzberichte](https://yoc.com/ir-financial-report)
-* [Management & Corporate Governance](https://yoc.com/management-corporate-governance-de)
-* [Analystenempfehlungen](https://yoc.com/ir-analyst--recommandations)
-* [Hauptversammlung](https://yoc.com/ir-annual-shareholder)
-* [Finanzkalender](https://yoc.com/financial-calendar)
+* [YOC at a glance](https://yoc.com/yoc-at-a-glance)
+* [Financial Reports](https://yoc.com/ir-financial-reports)
+* [Management & Corporate Governance](https://yoc.com/management-corporate-governance-en)
+* [Analyst Recommendations](https://yoc.com/ir-analyst--recommandations)
+* [Annual Shareholder Meeting](https://yoc.com/ir-annual-shareholder)
+* [Financial Calendar](https://yoc.com/financial-calender)
 
 ![logo-dark](https://yoc.com/media/yoc logo-1.svg)
 
-[Datenschutzerklärung](https://yoc.com/legal)[Kontakt](https://yoc.com/kontakt)[Impressum](https://yoc.com/impressum)[Login](https://hub.yoc.com/)
+[Privacy Policy](https://yoc.com/privacy)[Contact](https://yoc.com/kontakt)[Imprint](https://yoc.com/imprint)[Login](https://hub.yoc.com/)
 
 [![linkedin](https://yoc.com/media/Vector.svg)](https://www.linkedin.com/company/38324)[![instagram](https://yoc.com/media/Social Icons.svg)](https://www.instagram.com/yoc_group/)[![youtube](https://yoc.com/media/Vector-1.svg)](https://www.youtube.com/@YOCgroup)[![facebook](https://yoc.com/media/Vector-2.svg)](https://www.facebook.com/YOCGroup)
 
@@ -313,17 +302,17 @@ Newsletter
 
 [![logo-dark](https://yoc.com/media/yoc logo-1.svg)](https://yoc.com/de)
 
-### Unsere Produkte
+### Our Products
 
-### Unsere Technologie
+### Our Technology
 
-### Ressourcen
+### Resources
 
-### Unternehmen
+### Company
 
 ### Investor Relations
 
-[Datenschutzerklärung](https://yoc.com/legal)[Kontakt](https://yoc.com/kontakt)[Impressum](https://yoc.com/impressum)[Login](https://hub.yoc.com/)
+[Privacy Policy](https://yoc.com/privacy)[Contact](https://yoc.com/kontakt)[Imprint](https://yoc.com/imprint)[Login](https://hub.yoc.com/)
 
 Newsletter
 
