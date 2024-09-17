@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/overige/mind-control/aids-het-grote-medische-bedrog/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/overige/een-missie-met-een-omweg/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
