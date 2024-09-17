@@ -316,7 +316,7 @@ If You have any questions about these Terms or otherwise need to contact Us for 
 * [Diversity & Inclusion](https://www.gene.com/diversity-inclusion)
 * [Advancing Inclusive Research](https://www.gene.com/diversity-inclusion/advancing-inclusive-research)
 * [Health Equity](https://www.gene.com/diversity-inclusion/health-equity)
-* [Fostering Belonging](https://www.gene.com/diversity-inclusion/foster-belonging)
+* [Fostering Belonging](https://www.gene.com/diversity-inclusion/fostering-belonging)
 * [Transforming Society](https://www.gene.com/diversity-inclusion/transforming-society)
 * [Our Diversity & Inclusion Report](https://www.gene.com/diversity-inclusion/di-report)
 
