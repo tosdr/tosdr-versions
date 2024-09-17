@@ -188,7 +188,7 @@ Hi
     * BACK
     * [All Products](https://www.smithbrothersfarms.com/all-products)
         
-    * [New! (65)](https://www.smithbrothersfarms.com/featured-products)
+    * [New! (69)](https://www.smithbrothersfarms.com/featured-products)
         
     * [On Sale (25)](https://www.smithbrothersfarms.com/on-special)
         
@@ -264,7 +264,7 @@ Hi
         * [Prepared Produce (6)](https://www.smithbrothersfarms.com/prepped)
             
         
-    * [Bakery (60)](https://www.smithbrothersfarms.com/bakery)
+    * [Bakery (61)](https://www.smithbrothersfarms.com/bakery)
         
         * BACK
         * [Bread & Buns (23)](https://www.smithbrothersfarms.com/bread)
@@ -277,7 +277,7 @@ Hi
             
         * [Muffins & Scones (7)](https://www.smithbrothersfarms.com/muffins)
             
-        * [Treats (3)](https://www.smithbrothersfarms.com/desserts)
+        * [Treats (4)](https://www.smithbrothersfarms.com/desserts)
             
         
     * [Meat (48)](https://www.smithbrothersfarms.com/meat-poultry)
@@ -306,10 +306,10 @@ Hi
         * [Sauces (6)](https://www.smithbrothersfarms.com/sauces-and-soups)
             
         
-    * [Coffee, Juice & Tea (43)](https://www.smithbrothersfarms.com/coffee-juice-tea)
+    * [Coffee, Juice & Tea (44)](https://www.smithbrothersfarms.com/coffee-juice-tea)
         
         * BACK
-        * [Juice & Tea (19)](https://www.smithbrothersfarms.com/juice-3)
+        * [Juice & Tea (20)](https://www.smithbrothersfarms.com/juice-3)
             
         * [Coffee (24)](https://www.smithbrothersfarms.com/coffee-2)
             
