@@ -148,6 +148,29 @@ For further information regarding the applicable laws, regulations, and policies
 
 [![ISO 9001:2015 + AS9120B Certified Supplier](https://aerobasegroup.com/public/images/AS9120_ISO_9001.png "ISO 9001:2015 + AS9120B")](https://aerobasegroup.com/quality)
 
+#### Defense News
+
+* [Emphasis on electronic warfare a must, Air Force secretary says](https://www.defensenews.com/air/2024/09/17/emphasis-on-electronic-warfare-a-must-air-force-secretary-says/)  
+    09/17/24 11:09am  
+    
+    Personnel set up antennas at Vandenberg Space Force Base, California. The Air Force and Space Force are placing a greater emphasis on electronic warfare. (Tech. Sgt. Luke Kitterman/Space Force)
+    
+* [Austria flaunts air power, considers purchasing new trainer jets](https://www.defensenews.com/smr/air-warfare/2024/09/17/austria-flaunts-air-power-considers-purchasing-new-trainer-jets/)  
+    09/17/24 10:00am  
+    
+    People attend the "Airpower 24" air show in Zeltweg, Austria, on September 6, 2024. (Erwin Scheriau/APA/AFP via Getty Images)
+    
+* [How US Air Force special ops is allowing airmen the ‘freedom to fail’](https://www.defensenews.com/smr/air-warfare/2024/09/16/how-air-force-special-ops-is-allowing-airmen-the-freedom-to-fail/)  
+    09/17/24 09:00am  
+    
+    A 27th Special Operations Wing airman at Naval Air Station Fallon, Nevada, Aug. 5, 2024. (Staff Sgt. Kevin Williams/U.S. Air Force)
+    
+* [New missile allows Marine pilots to strike far, avoid air defenses](https://www.defensenews.com/air/2024/09/17/new-missile-allows-marine-pilots-to-strike-far-avoid-air-defenses/)  
+    09/17/24 08:00am  
+    
+    Marines with Marine Fighter Attack Squadron 232 load an AGM-158A joint air-to-surface standoff missile on an F/A-18 Hornet. (Lance Cpl. Jennifer Sanchez)
+    
+
 Recent parts by keyword  
 
 The AeroBase Group Family ..
