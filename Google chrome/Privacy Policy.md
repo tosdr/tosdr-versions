@@ -3,25 +3,25 @@
 Get Chrome for Windows
 ======================
 
-For Windows 10 32-bit.
+For Windows 10 32-bit
 
-For Windows 11/10 64-bit.
+For Windows 11/10 64-bit
 
-For Windows 11 ARM.
+For Windows 11 ARM
 
-For Windows XP/Vista.
-
-![](/chrome/static/images/icon-warning.svg)
-
-This device won’t receive updates because Google Chrome no longer supports your operating system.
-
-For Windows 8.1/8/7 32-bit.
+For Windows XP/Vista
 
 ![](/chrome/static/images/icon-warning.svg)
 
 This device won’t receive updates because Google Chrome no longer supports your operating system.
 
-For Windows 8.1/8/7 64-bit.
+For Windows 8.1/8/7 32-bit
+
+![](/chrome/static/images/icon-warning.svg)
+
+This device won’t receive updates because Google Chrome no longer supports your operating system.
+
+For Windows 8.1/8/7 64-bit
 
 ![](/chrome/static/images/icon-warning.svg)
 
@@ -30,7 +30,7 @@ This device won’t receive updates because Google Chrome no longer supports you
 Get Chrome for Mac
 ==================
 
-For macOS 10.15 or later.
+For macOS 11 or later.
 
 This computer will no longer receive Google Chrome updates because macOS 10.6 - 10.12 are no longer supported.
 
@@ -41,6 +41,12 @@ This computer will no longer receive Google Chrome updates because macOS 10.6 - 
 This computer will no longer receive Google Chrome updates because macOS 10.6 - 10.12 are no longer supported.
 
 For macOS 10.13/10.14  
+
+![](/chrome/static/images/icon-warning.svg)
+
+This device won’t receive updates because Google Chrome no longer supports your operating system.
+
+For macOS 10.15  
 
 ![](/chrome/static/images/icon-warning.svg)
 
@@ -95,7 +101,7 @@ Download for another desktop OS
 * [Windows 11/10 64-bit](#)
 * [Windows 10 32-bit](#)
 * [Windows 11 ARM](#)
-* [macOS 10.15 or later](#)
+* [macOS 11 or later](#)
 * [Linux](#)
 
 Frozen versions
@@ -109,6 +115,7 @@ Frozen versions
 * [Mac 10.10](#)
 * [Mac 10.11 - 10.12](#)
 * [Mac 10.13 - 10.14](#)
+* [Mac 10.15](#)
 
 Looks like you’re already using Chrome browser. Nice!
 =====================================================
