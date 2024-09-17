@@ -315,9 +315,9 @@ Toggle navigation
     
     ##### Promoted Content
     
+    * [Hidden Heroes: How microorganisms are shaping Europe’s future](https://www.euractiv.com/section/health-consumers/opinion/hidden-heroes-how-microorganisms-are-shaping-europes-future/)
     * [Unlocking Access: Implementing Innovative Policies to Remove Barriers to Fertility Treatment](https://www.euractiv.com/section/health-consumers/opinion/unlocking-access-implementing-innovative-policies-to-remove-barriers-to-fertility-treatment/)
     * [Inclusion is still a problem in museums, an app is trying to fill the gap](https://www.euractiv.com/section/digital/opinion/inclusion-is-still-a-problem-in-museums-an-app-is-trying-to-fill-the-gap/)
-    * [Europe-China cooperation in personalised medicine: paving the way for a scientific common path](https://www.euractiv.com/section/health-consumers/opinion/europe-china-cooperation-in-personalised-medicine-paving-the-way-for-a-scientific-common-path/)
     
 * [Politics](https://www.euractiv.com/sections/politics/)
     
@@ -987,14 +987,14 @@ Languages: [Français](https://www.euractiv.fr/?post_type=page&p=179361) | [Deut
 
 * 1[China's green 'trojan horses' are starting to divide Europe](http://en.euractiv.eu/section/energy-environment/opinion/chinas-green-trojan-horses-are-starting-to-divide-europe/?utm_source=website&utm_campaign=popular)
 * 2[Poland backs ending EU benefits for Ukrainian men of fighting age](http://en.euractiv.eu/section/europe-s-east/news/poland-backs-ending-eu-benefits-for-ukrainian-men-of-fighting-age/?utm_source=website&utm_campaign=popular)
-* 3[Brazil asks EU to hold off on implementing deforestation law](http://en.euractiv.eu/section/agriculture-food/news/brazil-asks-eu-to-hold-off-on-implementing-deforestation-law/?utm_source=website&utm_campaign=popular)
-* 4[French Commissioner Thierry Breton resigns over row with von der Leyen](http://en.euractiv.eu/section/defence-and-security/news/french-commissioner-thierry-breton-resigns-over-row-with-von-der-leyen/?utm_source=website&utm_campaign=popular)
-* 5[EU court says Hungary broke competition rules by fixing food prices](http://en.euractiv.eu/section/agriculture-food/news/eu-court-says-hungary-broke-competition-rules-by-fixing-food-prices/?utm_source=website&utm_campaign=popular)
-* 6['Reward those who serve our planet': Von der Leyen floats 'nature credits'](http://en.euractiv.eu/section/biodiversity/news/reward-those-who-serve-our-planet-von-der-leyen-floats-nature-credits/?utm_source=website&utm_campaign=popular)
-* 7[Austria’s biggest utility company to ditch Russian gas from 2025](http://en.euractiv.eu/section/energy-environment/news/austrias-biggest-utility-company-to-ditch-russian-gas-from-2025/?utm_source=website&utm_campaign=popular)
-* 8[China uses LinkedIn to recruit academics for espionage, Czech intelligence warns](http://en.euractiv.eu/section/politics/news/china-uses-linkedin-to-recruit-academics-for-espionage-czech-intelligence-warns/?utm_source=website&utm_campaign=popular)
-* 9[New term, new EU foreign policy?](http://en.euractiv.eu/section/global-europe/news/new-term-new-eu-foreign-policy/?utm_source=website&utm_campaign=popular)
-* 10[New Dutch government unveils toughest asylum reform in history](http://en.euractiv.eu/section/politics/news/new-dutch-government-unveils-toughest-asylum-reform-in-history/?utm_source=website&utm_campaign=popular)
+* 3[French Commissioner Thierry Breton resigns over row with von der Leyen](http://en.euractiv.eu/section/defence-and-security/news/french-commissioner-thierry-breton-resigns-over-row-with-von-der-leyen/?utm_source=website&utm_campaign=popular)
+* 4[EU court says Hungary broke competition rules by fixing food prices](http://en.euractiv.eu/section/agriculture-food/news/eu-court-says-hungary-broke-competition-rules-by-fixing-food-prices/?utm_source=website&utm_campaign=popular)
+* 5['Reward those who serve our planet': Von der Leyen floats 'nature credits'](http://en.euractiv.eu/section/biodiversity/news/reward-those-who-serve-our-planet-von-der-leyen-floats-nature-credits/?utm_source=website&utm_campaign=popular)
+* 6[Austria’s biggest utility company to ditch Russian gas from 2025](http://en.euractiv.eu/section/energy-environment/news/austrias-biggest-utility-company-to-ditch-russian-gas-from-2025/?utm_source=website&utm_campaign=popular)
+* 7[China uses LinkedIn to recruit academics for espionage, Czech intelligence warns](http://en.euractiv.eu/section/politics/news/china-uses-linkedin-to-recruit-academics-for-espionage-czech-intelligence-warns/?utm_source=website&utm_campaign=popular)
+* 8[New term, new EU foreign policy?](http://en.euractiv.eu/section/global-europe/news/new-term-new-eu-foreign-policy/?utm_source=website&utm_campaign=popular)
+* 9[New Dutch government unveils toughest asylum reform in history](http://en.euractiv.eu/section/politics/news/new-dutch-government-unveils-toughest-asylum-reform-in-history/?utm_source=website&utm_campaign=popular)
+* 10[France's Barnier walks on eggshells in agreeing new immigration policy](http://en.euractiv.eu/section/migration/news/frances-barnier-walks-on-eggshells-in-agreeing-new-immigration-policy/?utm_source=website&utm_campaign=popular)
 
 ###### Advertisement
 
