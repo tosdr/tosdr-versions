@@ -212,7 +212,7 @@ If you have questions or concerns about this Policy, please contact Network18 at
 
 ![](https://images.news18.com/ibnlive/uploads/2021/07/1627283897_news18_logo-1200x800.jpg)
 
-Sep 17, 2024
+Sep 18, 2024
 
 [View All](https://www.news18.com/short-news/)
 
