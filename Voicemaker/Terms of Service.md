@@ -356,7 +356,7 @@ Phone: +1 415 662 8550
 * [GDPR Policy](https://voicemaker.in/gdpr-policy)
 * [Security Policy](https://voicemaker.in/security)
 
-© Copyright Voicemaker Technologies Pvt. Ltd., All rights reserved.
+©  Voicemaker Technologies Pvt. Ltd. All rights reserved.
 
 [](https://www.facebook.com/voicemaker.in)[](https://twitter.com/voicemaker_in)[](https://www.linkedin.com/company/voicemakerin)[](https://instagram.com/voicemaker.in)
 
