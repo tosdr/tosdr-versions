@@ -176,7 +176,7 @@ _email_
 
 Select a Case Type
 
-Select a Case Type3M Earplugs9/11 Victim Compensation FundAuto Accident LawsuitBirth InjuryCamp LejeuneClergy AbuseElmironFirefighting FoamHair Relaxer LawsuitHernia MeshMedical Malpractice LawsuitNEC Infant FormulaNursing Home AbuseParagardParaquatPFAS ContaminationPhilips CPAP MachinePowerportRoundupSemaglutideSexual Misconduct LawsuitSocial Media AddictionSunscreenTalcum PowderTexas StormVideo Game AddictionXeljanzZantacOther
+Select a Case Type3M Earplugs9/11 Victim Compensation FundAuto Accident LawsuitBirth InjuryCamp LejeuneClergy AbuseDacthal Herbicide LawsuitElmironFirefighting FoamHair Relaxer LawsuitHernia MeshMedical Malpractice LawsuitNEC Infant FormulaNursing Home AbuseParagardParaquatPFAS ContaminationPhilips CPAP MachinePowerportRoundupSemaglutideSexual Misconduct LawsuitSocial Media AddictionSunscreenTalcum PowderTexas StormVideo Game AddictionXeljanzZantacOther
 
 Case Typecase type
 
