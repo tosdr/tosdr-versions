@@ -1,4 +1,4 @@
-![](https://www.facebook.com/tr?id=939959689678239&ev=PageView&noscript=1)     ≡ Privacy Policy 》 Her Beauty                                                    
+![](https://www.facebook.com/tr?id=939959689678239&ev=PageView&noscript=1)     ≡ Privacy Policy 》 Her Beauty                                                   
 
 [![Site stats](//www.shinystat.com/cgi-bin/shinystat.cgi?USER=SS-44258713-3958a)](https://www.shinystat.com/)
 
@@ -111,11 +111,11 @@ If you have any questions or suggestions regarding this privacy policy, please f
 
 Advertisements
 
+[TikTok’s “Very Demure, Very Mindful” Trend: The Sarcastic Phenomenon That Has Us in Stitches ![](https://img-cdn.herbeauty.co/wp-content/uploads/2024/09/demure-cover.jpg)](https://herbeauty.co/entertainment/tiktok-s-very-demure-very-mindful-trend-the-sarcastic-phenomenon-that-has-us-in-stitches/) 
+
 [Fuller-Bust (DD+) Bloggers You Need in Your Feed Right Now: Part 2 ![](https://img-cdn.herbeauty.co/wp-content/uploads/2024/09/cover-7.jpg)](https://herbeauty.co/entertainment/fuller-bust-dd-bloggers-you-need-in-your-feed-right-now-part-2/) 
 
 [What Does It Mean When Women Cross Their Legs? ![](https://img-cdn.herbeauty.co/wp-content/uploads/2024/09/1-1.jpg)](https://herbeauty.co/lifestyle/what-does-it-mean-when-women-cross-their-legs/) 
-
-[Hottest Hair Trends for Autumn 2024 According to Pinterest ![](https://img-cdn.herbeauty.co/wp-content/uploads/2024/09/cover-4.jpg)](https://herbeauty.co/beauty/hottest-hair-trends-for-autumn-2024-according-to-pinterest/) 
 
 Advertisements
 
