@@ -92,6 +92,7 @@ Toggle Navigation
     * [R-Series Spine & Leaf](#tab725)
     * [X-Series Spine & Leaf](#tab726)
     * [Programmable](#tab727)
+    * [800G Solutions](#tab1615)
     * [400G Solutions](#tab728)
     * [Flexible 10G & 1G Leaf](#tab729)
     * [Network Observability](#tab1324)
@@ -149,6 +150,7 @@ Toggle Navigation
     * [7130 Applications](#tab490)
     * [7130 Developer](#tab548)
     
+    * [7060X6 Series](#tab1587)
     * [7060X5 Series](#tab1185)
     * [7060X Series](#tab1184)
     
@@ -199,8 +201,10 @@ Toggle Navigation
         
         ![](/assets/images/product/Hyperscale-Data-Center.jpg)
         
+    * [7700R4 Series](https://www.arista.com/en/products/7700r4-series)
     * [7368X4 & 7060X4 Series](#tab754)
     * [7260X3 Series](https://www.arista.com/en/products/7060x-series)
+    * [7060X6 Series](https://www.arista.com/en/products/7060x6-series)
     * [7060X5 Series](https://www.arista.com/en/products/7060x5-series)
     * [7060X2 & 7060X Series](https://www.arista.com/en/products/7060x-series)
     
@@ -242,16 +246,23 @@ Toggle Navigation
     * [7170 Series](https://www.arista.com/en/products/7170-series)
     * [7130 Series](#tab810)
     
+    * [7800R4 Series](https://www.arista.com/en/products/7800r4-series)
+    * [7700R4 Series](https://www.arista.com/en/products/7700r4-series)
+    * [7060X6 Series](https://www.arista.com/en/products/7060x6-series)
+    
     * [400G Solutions](https://www.arista.com/en/products/400g-solutions)
         
         ![](/assets/images/product/400G.jpg)
         
+    * [7800R4 Series](https://www.arista.com/en/products/7800r4-series)
     * [7800R3 Series](https://www.arista.com/en/products/7800r3-series)
+    * [7700R4 Series](https://www.arista.com/en/products/7700r4-series)
     * [7500R3 Series](https://www.arista.com/en/products/7500r3-series)
     * [7388X5 Series](https://www.arista.com/en/products/7388x5-series)
     * [7368X4 Series](https://www.arista.com/en/products/7368x4-series)
     * [7358X4 Series](https://www.arista.com/en/products/7358x4-series)
     * [7280R3 Series](https://www.arista.com/en/products/7280r3-series)
+    * [7060X6 Series](https://www.arista.com/en/products/7060x6-series)
     * [7060X5 Series](https://www.arista.com/en/products/7060x5-series)
     * [7060X4 Series](https://www.arista.com/en/products/7060x-series)
     * [7050X4 Series](https://www.arista.com/en/products/7050x4-series)
@@ -370,6 +381,10 @@ Toggle Navigation
     * [IP Cores](https://www.arista.com/en/products/7130-ip-cores)
     * [Development Kits](https://www.arista.com/en/products/7130-development-kits)
     
+    * [7060X6 Series Overview](https://www.arista.com/en/products/7060x6-series)Best of breed 800G solutions optimized for AI workloads and hyperscale cloud environments
+    * [7060X6 Quick Look](https://www.arista.com/en/products/7060x6-series-quick-look)
+    * [7060X6 Data Sheet](https://www.arista.com/assets/data/pdf/Datasheets/7060X6-Datasheet.pdf)
+    
     * [7060X5 Series Overview](https://www.arista.com/en/products/7060x5-series)High Performance 400G solutions for hyperscale cloud networks and I/O intensive environments
         
         [![](/assets/images/video/400G-Expanded-Video.png)](https://www.youtube.com/embed/8QLWpKvkbEw?rel=0&wmode=transparent&modestbranding=1&showinfo=0)
@@ -429,6 +444,7 @@ Toggle Navigation
         
         ![](/assets/images/product/UCN-Spine-Routing.jpg)
         
+    * [7800R4 Series](https://www.arista.com/en/products/7800r4-series)
     * [7800R3 Series](https://www.arista.com/en/products/7800r3-series)
     * [7500R3 Series](https://www.arista.com/en/products/7500r3-series)
     * [7280R3 Modular Series](https://www.arista.com/products/7280r3-series/7280r3-modular)
