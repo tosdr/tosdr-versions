@@ -538,11 +538,6 @@ Kaiserstr. 89
 
 ### Externe Veranstaltungen
 
-**Monday, 16 Sep 2024**  
-[29th European Symposium on Research in Computer Security (ESORICS)](https://secuso.aifb.kit.edu/english/77.php/event/51708#calendar_top)
-
-* * *
-
 **Monday, 30 Sep 2024**  
 [EuroUSEC - The 2024 European Symposium on Usable Security](https://secuso.aifb.kit.edu/english/77.php/event/52794#calendar_top)
 
