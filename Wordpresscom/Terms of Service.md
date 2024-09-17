@@ -479,6 +479,6 @@ Automattic may assign its rights under the Agreement without condition. You may 
 * [Do Not Sell or Share My Personal Information](#)
 * [Privacy Notice for California Users](https://automattic.com/privacy/#california-consumer-privacy-act-ccpa)
 
-An [Automattic](https://automattic.com/) Production
+An [Automattic](https://automattic.com/) Invention
 
 ![](https://pixel.wp.com/b.gif?v=noscript)
