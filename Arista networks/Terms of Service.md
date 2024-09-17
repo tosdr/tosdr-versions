@@ -65,6 +65,7 @@ Toggle Navigation
     
     * [Platforms Overview](https://www.arista.com/en/products/platforms)
     * [7800 Series](#tab588)
+    * [7700 Series](#tab1575)
     * [7500 Series](#tab23)
     * [7300 Series](#tab24)
     * [7280 Series](#tab25)
@@ -114,12 +115,11 @@ Toggle Navigation
     
     [Back](#)
     
-    * [7800R3 Series Overview](https://www.arista.com/en/products/7800r3-series)Modular 100/400G Spine Switches
-        
-        [![](/assets/images/video/Introducing-the-7800R-Series.jpg)](https://www.youtube.com/embed/Z8VGvGuYw04?rel=0&wmode=transparent&modestbranding=1&showinfo=0)
-        
-    * [7800R3 Quick Look](https://www.arista.com/en/products/7800r3-series-network-switch-quick-look)
-    * [7800R3 Data Sheet](https://www.arista.com/assets/data/pdf/Datasheets/7800R3-Data-Sheet.pdf)
+    * [7800R4 Series](#tab1551)
+    * [7800R3 Series](#tab1566)
+    
+    * [7700R4 Series Overview](https://www.arista.com/en/products/7700r4-series)
+    * [7700R4 Data Sheet](https://www.arista.com/assets/data/pdf/Datasheets/7700R4-Distributed-Etherlink-Switch-Datasheet.pdf)
     
     * [7500R3 Series](#tab592)
     * [7500R Series](#tab66)
@@ -277,6 +277,16 @@ Toggle Navigation
     * [Security Services](https://www.arista.com/en/products/security-services)
     
     [Back](#)
+    
+    * [7800R4 Series Overview](https://www.arista.com/en/products/7800r4-series)
+    * [7800R4 Data Sheet](https://www.arista.com/assets/data/pdf/Datasheets/7800R4-Series-AI-Spine-Datasheet.pdf)
+    
+    * [7800R3 Series Overview](https://www.arista.com/en/products/7800r3-series)Modular 100/400G Spine Switches
+        
+        [![](/assets/images/video/Introducing-the-7800R-Series.jpg)](https://www.youtube.com/embed/Z8VGvGuYw04?rel=0&wmode=transparent&modestbranding=1&showinfo=0)
+        
+    * [7800R3 Quick Look](https://www.arista.com/en/products/7800r3-series-network-switch-quick-look)
+    * [7800R3 Data Sheet](https://www.arista.com/assets/data/pdf/Datasheets/7800R3-Data-Sheet.pdf)
     
     * [7500R3 Series Overview](https://www.arista.com/en/products/7500r3-series)Modular 100/400G Spine Switches
         
