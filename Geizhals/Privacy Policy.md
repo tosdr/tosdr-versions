@@ -585,13 +585,12 @@ Geizhals Netzwerk
 Partnerseiten
 -------------
 
+* [tarife.at](https://www.tarife.at/)
 * [heise online](https://www.heise.de/)
 * [ComputerBase](https://www.computerbase.de/)
-* [PC Games Hardware](https://www.pcgameshardware.de/)
+* [PCGH](https://www.pcgameshardware.de/)
 * [WinFuture](https://winfuture.de/)
 * [Golem.de](https://www.golem.de/)
-* [compera](https://www.compera.at/)
-* [tarife.at](https://www.tarife.at/)
 
 ### © Preisvergleich Internet Services AG
 
