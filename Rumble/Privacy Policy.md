@@ -192,9 +192,7 @@ Longboat Key, Florida 34228, USA
 
 [Rumble logo](https://rumble.com/)
 
-Go Ad-Free
-
-Sign In Sign Up
+Go Ad-Free Sign In Sign Up
 
 Go Ad-Free
 
@@ -204,131 +202,125 @@ Go Ad-Free
 
 ### Featured Channels Featured
 
-[The Dan Bongino Show
+[Redacted News
 
-153K](https://rumble.com/v5f9nzx-who-was-the-alleged-assassin-working-with-ep.-2330-09172024.html "The Dan Bongino Show")
-
-[Steven Crowder
-
-54.5K](https://rumble.com/v5f9quj--why-mainstream-media-already-moved-on-from-trump-assassination-attempt-gue.html "Steven Crowder")
+16.4K](https://rumble.com/v5fb5mj-here-we-go-middle-east-about-to-explode-diddy-arrested-trump-shooter-groome.html "Redacted News")
 
 [Bannons War Room
 
-15.3K](https://rumble.com/v5e9jyl-live-u.s.-senate.html "Bannons War Room")
-
-[Badlands Media
-
-7.07K](https://rumble.com/v5f8xe5-badlands-daily-tuesday-september-17-2024.html "Badlands Media")
-
-[NEWSMAX
-
-5.29K](https://rumble.com/v3szvdl-newsmax2-live-on-rumble.html "NEWSMAX")
-
-[The Rubin Report
-
-3.93K](https://rumble.com/v5fa119-this-reaction-to-trump-assassination-is-a-new-low-with-co-host-vivek-ramasw.html "The Rubin Report")
+11.9K](https://rumble.com/v5e9khd-live-u.s.-house-of-representatives.html "Bannons War Room")
 
 [Akademiks
 
-3.63K](https://rumble.com/v5fa3bh-diddy-indictment-unsealed.-freakoffs-extortion-arson-kdnapping-witness-tame.html "Akademiks")
+4.87K](https://rumble.com/v5fa3bh-diddy-indictment-unsealed.-freakoffs-extortion-arson-kdnapping-witness-tame.html "Akademiks")
+
+[NEWSMAX
+
+3.78K](https://rumble.com/v3szvdl-newsmax2-live-on-rumble.html "NEWSMAX")
+
+[Due Dissidence
+
+1.3K](https://rumble.com/v5f9qlh-hillary-floats-prosecuting-speech-trump-suspect-details-emerge-final-red-li.html "Due Dissidence")
 
 [Lofi Girl
 
-381](https://rumble.com/v2o2oe5-synthwave-radio-beats-to-chillgame-to.html "Lofi Girl")
+357](https://rumble.com/v2o2oe5-synthwave-radio-beats-to-chillgame-to.html "Lofi Girl")
 
 [barstoolsports
 
-367](https://rumble.com/v5f9m4d-kms-live-september-17-2024.html "barstoolsports")
-
-[Geeks + Gamers
-
-274](https://rumble.com/v5fa56s-agatha-all-along-is-the-gayest-marvel-project-ever-disney-said-no-to-lgbtq-.html "Geeks + Gamers")
-
-[The Kirk Minihane Show
-
-260](https://rumble.com/v5f9m4d-kms-live-september-17-2024.html "The Kirk Minihane Show")
+121](https://rumble.com/v5faq9t-mostly-sports-college-football-dynasty-league-week-9-session-2.html "barstoolsports")
 
 [Mostly Sports With Mark Titus and Brandon Walker
 
-101](https://rumble.com/v5f7bkx-mostly-sports-with-mark-titus-and-brandon-walker-presented-by-jgermeister-e.html "Mostly Sports With Mark Titus and Brandon Walker")
+116](https://rumble.com/v5faq9t-mostly-sports-college-football-dynasty-league-week-9-session-2.html "Mostly Sports With Mark Titus and Brandon Walker")
+
+[Mike Crispi
+
+37](https://rumble.com/v5fa9r9-media-covers-up-trump-shooting.html "Mike Crispi")
 
 [Major League Fishing
 
-76](https://rumble.com/v5ep1cd-live-general-tire-team-series-heritage-cup-day-3.html "Major League Fishing")
+26](https://rumble.com/v5ep1cd-live-general-tire-team-series-heritage-cup-day-3.html "Major League Fishing")
 
-[Mets Podcast - We Gotta Believe](https://rumble.com/c/wegottabelievemetspodcast "Mets Podcast - We Gotta Believe")
+[Kim Iversen](https://rumble.com/c/KimIversen "Kim Iversen")
 
-[After Skool](https://rumble.com/c/AfterSkool "After Skool")
+[Sundae Conversation](https://rumble.com/c/SundaeConversation "Sundae Conversation")
 
-[Robert F. Kennedy Jr.](https://rumble.com/c/RFKjr "Robert F. Kennedy Jr.")
-
-[Shaun Attwood](https://rumble.com/c/ShaunAttwood "Shaun Attwood")
+[Jersey Jerry](https://rumble.com/c/jerseyjerry "Jersey Jerry")
 
 [VIVA TV](https://rumble.com/c/VivaTV "VIVA TV")
 
-[Out & About](https://rumble.com/c/OutAndAbout "Out & About")
+[Theo Von](https://rumble.com/c/TheoVon "Theo Von")
 
-[Russell Brand](https://rumble.com/c/russellbrand "Russell Brand")
+[Who's the Biggest A\*\*Hole?](https://rumble.com/c/WhosTheBiggestAHole "Who's the Biggest A**Hole?")
 
-[Candace Owens Podcast](https://rumble.com/c/CandaceOwensPodcast "Candace Owens Podcast")
+[Sean Hannity](https://rumble.com/c/SeanHannity "Sean Hannity")
 
-[SNEAKO](https://rumble.com/c/SNEAKO "SNEAKO")
+[New York Post](https://rumble.com/c/NYPost "New York Post")
 
-[Mike Crispi](https://rumble.com/c/crispi "Mike Crispi")
+[Barstool U](https://rumble.com/c/BarstoolU "Barstool U")
 
-[Frank the Tank Fleming](https://rumble.com/c/FrankTheTankFleming "Frank the Tank Fleming")
+[World Poker Tour](https://rumble.com/c/WorldPokerTour "World Poker Tour")
 
-[Amateur Hour](https://rumble.com/c/amateurhourgolf "Amateur Hour")
+[Macrodosing w/ PFT & Arian Foster](https://rumble.com/c/MacrodosingWithPFTAndArianFoster "Macrodosing w/ PFT & Arian Foster")
 
-[TruthStream with Joe and Scott](https://rumble.com/c/TruthStream "TruthStream with Joe and Scott")
+[The Why Files](https://rumble.com/c/TheWhyFiles "The Why Files")
 
-[Boho Beautiful Yoga](https://rumble.com/c/BohoBeautiful "Boho Beautiful Yoga")
+[Anthony Pompliano](https://rumble.com/c/AnthonyPompliano "Anthony Pompliano")
 
-[Pardon My Take](https://rumble.com/c/PardonMyTake "Pardon My Take")
+[Stool Streams](https://rumble.com/c/stoolstreams "Stool Streams")
 
-[Ben Shapiro](https://rumble.com/c/BenShapiro "Ben Shapiro")
+[Howard Lutnick](https://rumble.com/c/HowardLutnick "Howard Lutnick")
 
-[Dani Jackel](https://rumble.com/c/DaniJackel "Dani Jackel")
+[LockPickingLawyer](https://rumble.com/c/LockPickingLawyer "LockPickingLawyer")
 
-[Rebel News](https://rumble.com/c/RebelNews "Rebel News")
+[One Bite Pizza Reviews](https://rumble.com/c/OneBitePizzaReviews "One Bite Pizza Reviews")
 
-[The Big Jackpot](https://rumble.com/c/TheBigJackpot "The Big Jackpot")
+[The Pat Bev Podcast with Rone](https://rumble.com/c/ThePatBevPodcastWithRone "The Pat Bev Podcast with Rone")
 
-[Winston Marshall](https://rumble.com/c/WinstonMarshall "Winston Marshall")
+[Rough N' Rowdy](https://rumble.com/c/RoughNRowdy "Rough N' Rowdy")
 
-[Matt Kim](https://rumble.com/c/FreeMattKim "Matt Kim")
+[Power Slap](https://rumble.com/c/powerslap "Power Slap")
 
-[The Wonton Don](https://rumble.com/c/TheWontonDon "The Wonton Don")
+[Barstool Gametime](https://rumble.com/c/BarstoolGametime "Barstool Gametime")
 
-[JustKiddingNews](https://rumble.com/c/JustKiddingNews "JustKiddingNews")
+[Tucker Carlson](https://rumble.com/c/TuckerCarlson "Tucker Carlson")
 
-[Candace Show Podcast](https://rumble.com/c/RealCandaceO "Candace Show Podcast")
-
-[FULL SEND PODCAST](https://rumble.com/c/FULLSENDPODCAST "FULL SEND PODCAST")
-
-[Wake Up Mintzy](https://rumble.com/c/Barstoolmintzyofficial "Wake Up Mintzy")
-
-[Daily Caller News Foundation](https://rumble.com/c/DailyCallerNewsFoundation "Daily Caller News Foundation")
-
-[Fore Play Golf](https://rumble.com/c/ForeplayGolf "Fore Play Golf")
-
-[The Charlie Kirk Show](https://rumble.com/c/CharlieKirk "The Charlie Kirk Show")
-
-[Ghosts and Grit With Jack Osbourne Podcast](https://rumble.com/c/JackOsbourne "Ghosts and Grit With Jack Osbourne Podcast")
-
-[Alexis Wilkins](https://rumble.com/c/alexiswilkins "Alexis Wilkins")
-
-[Jerry After Dark](https://rumble.com/c/JerryAfterDark "Jerry After Dark")
+[OUT OF ORDER](https://rumble.com/c/OutofOrderrr "OUT OF ORDER")
 
 [DanScavino45](https://rumble.com/user/DanScavino45 "DanScavino45")
 
-[Lights, Camera, Barstool](https://rumble.com/c/LightsCameraBarstool "Lights, Camera, Barstool")
+[Matt Kohrs](https://rumble.com/c/MattKohrs "Matt Kohrs")
 
-[United Fight League](https://rumble.com/c/UnitedFightLeague "United Fight League")
+[Barstool Baseball](https://rumble.com/c/BarstoolBaseball "Barstool Baseball")
 
-[UnHerd](https://rumble.com/c/UnHerd "UnHerd")
+[BarstoolX](https://rumble.com/c/BarstoolX "BarstoolX")
 
-[Spittin' Chiclets](https://rumble.com/c/SpittinChiclets "Spittin' Chiclets")
+[The Rich Dad Channel](https://rumble.com/c/TheRichDadChannel "The Rich Dad Channel")
+
+[UnchartedX](https://rumble.com/c/UnchartedX "UnchartedX")
+
+[After Skool](https://rumble.com/c/AfterSkool "After Skool")
+
+[THE SHOW CALEB SHOW](https://rumble.com/c/TheShowCalebShow "THE SHOW CALEB SHOW")
+
+[FULL SEND PODCAST](https://rumble.com/c/FULLSENDPODCAST "FULL SEND PODCAST")
+
+[Dr Steve Turley](https://rumble.com/c/DrSteveTurley "Dr Steve Turley")
+
+[The Big Jackpot](https://rumble.com/c/TheBigJackpot "The Big Jackpot")
+
+[The Kirk Minihane Show](https://rumble.com/c/thekirkminihaneshow "The Kirk Minihane Show")
+
+[Chicks in the Office](https://rumble.com/c/ChicksInTheOffice "Chicks in the Office")
+
+[Vivek Ramaswamy](https://rumble.com/c/VivekRamaswamy "Vivek Ramaswamy")
+
+[Peter Santenello](https://rumble.com/c/PeterSantenello "Peter Santenello")
+
+[usefulidiots](https://rumble.com/c/usefulidiots "usefulidiots")
+
+[Bitcoin Magazine](https://rumble.com/c/BitcoinMagazine "Bitcoin Magazine")
 
 ### Theme
 
