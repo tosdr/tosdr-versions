@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/inspiratie/meelezen/de-12-geboden-voor-zelfliefde/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/nieuws/dagboek-van-een-verontruste-moeder/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
