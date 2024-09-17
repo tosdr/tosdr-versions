@@ -244,7 +244,7 @@ Benutzerkonto
 * [Außergewöhnliche Erlebnistage](https://www.jochen-schweizer.de/erlebnistage/l/7ncx1)
 * [Aktivitäten nach Region](https://www.jochen-schweizer.de/aktivitaeten-nach-region/l/sv786)
 
-**Stand: April 2024**
+**Stand: September 2024**
 
 Die nachfolgenden Datenschutzhinweise gelten für die Webseite jochen-schweizer.de ("Online-Angebot").
 
@@ -608,7 +608,11 @@ Eine aktuelle Liste und die entsprechende Möglichkeit zum Widerruf finden Sie h
 
 **emarsys**
 
-Auf unserer Website werden Technologie der Emarsys eMarketing Systems GmbH, Märzstrasse 1, A-1150 Wien, eingesetzt. Hierbei werden bei einem Besuch der Website auch Cookies von Emarsys auf Ihrer Festplatte gespeichert. Diese Cookies unterstützen uns dabei, das Internetangebot und die Website für Sie interessanter zu gestalten und unsere E-Mail-Newsletter zu verbessern, insbesondere indem wir unsere Informationen und Angebote an die individuellen Interessen und Bedürfnisse der Nutzer anpassen. Die Datenschutzbestimmungen können Sie hier einsehen: [https://www.emarsys.com/de/privacy-policy/](https://www.emarsys.com/de/privacy-policy/).
+Auf unserer Website werden Technologie der Emarsys eMarketing Systems GmbH, Märzstrasse 1, A-1150 Wien, eingesetzt. Hierbei werden bei einem Besuch der Website auch Cookies von Emarsys auf Ihrer Festplatte gespeichert. Diese Cookies unterstützen uns dabei, das Internetangebot und die Website für Sie interessanter zu gestalten und unsere E-Mail-Newsletter zu verbessern, insbesondere indem wir unsere Informationen und Angebote an die individuellen Interessen und Bedürfnisse der Nutzer anpassen. Die Datenschutzbestimmungen können Sie hier einsehen: [https://www.emarsys.com/de/privacy-policy/](https://www.emarsys.com/de/privacy-policy/).  
+  
+**esome**
+
+Diese Webseite verwendet den Dienst Esome zur effektiven Planung, Erstellung und Verwaltung von Social-Media-Kampagnen. Esome ist ein Dienst von esome advertising technologies GmbH, Hohe Bleichen 11, 20354 Hamburg, Deutschland. Im Rahmen der Nutzung von Esome können personenbezogene Daten erhoben, verarbeitet und genutzt werden. Der Zweck, der Umfang und die weitere Verarbeitung und Nutzung der Daten durch Esome sowie Ihre diesbezüglichen Rechte und Einstellungsmöglichkeiten zum Schutz Ihrer Privatsphäre entnehmen Sie bitte den Datenschutzbestimmungen von Esome unter [https://www.esome.com/datenschutz](https://www.esome.com/datenschutz).
 
 **Facebook Pixel, Facebook Conversion API und Website Custom Audience** 
 
@@ -693,8 +697,7 @@ RECHTSGRUNDLAGE: Die Nutzung von LinkedIn Insight erfolgt auf Grundlage von Art.
 
 WIDERSPRUCH: Um das Insight-Tag auf unserer Webseite zu deaktivieren („Opt-out“), klicken Sie bitte am Ende dieser Seite auf Cookie Einstellungen und deaktivieren dort das Tool.
 
-Der Analyse des Nutzungsverhaltens sowie der zielgerichteten Werbung durch LinkedIn können Sie unter folgendem Link widersprechen: [https://www.linkedin.com/psettings/guest-controls/retargeting-opt-out](https://www.linkedin.com/psettings/guest-controls/retargeting-opt-out). Des Weiteren können Mitglieder von LinkedIn die Nutzung ihrer personenbezogenen Daten zu Werbezwecken in den Kontoeinstellungen steuern. Um einer Verknüpfung von auf unserer Website erhobenen Daten durch LinkedIn und Ihrem LinkedIn Account zu vermeiden, müssen Sie sich aus Ihrem LinkedIn-Account ausloggen bevor Sie unsere Website aufsuchen.  
-​​​​​​​
+Der Analyse des Nutzungsverhaltens sowie der zielgerichteten Werbung durch LinkedIn können Sie unter folgendem Link widersprechen: [https://www.linkedin.com/psettings/guest-controls/retargeting-opt-out](https://www.linkedin.com/psettings/guest-controls/retargeting-opt-out). Des Weiteren können Mitglieder von LinkedIn die Nutzung ihrer personenbezogenen Daten zu Werbezwecken in den Kontoeinstellungen steuern. Um einer Verknüpfung von auf unserer Website erhobenen Daten durch LinkedIn und Ihrem LinkedIn Account zu vermeiden, müssen Sie sich aus Ihrem LinkedIn-Account ausloggen bevor Sie unsere Website aufsuchen.
 
 **Microsoft Advertising**
 
