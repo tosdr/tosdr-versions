@@ -4,6 +4,10 @@
 
 [Back to school sale with .COLLEGE 📚 Register your school for only $1.99 until 9/30/24!](https://www.dynadot.com/domain/college?utm_source=Promobar&utm_campaign=COLLEGE%20Promobar%20Sept%202024&utm_medium=college&drefid=4579)
 
+**SITE MAINTENANCE:** Save your work. Site will be down in 01:48
+
+**SITE MAINTENANCE:** Save your work. Site will be down in 01:48
+
 [](https://www.dynadot.com/)
 
 * Domains  
@@ -99,7 +103,7 @@ Support
 
 Help Center
 
-**Chat** : Online
+**Chat** : Busy
 
 [Tickets](https://www.dynadot.com/account/ticket/open.html)
 
@@ -248,7 +252,7 @@ Support
 
 Help Center
 
-Chat: Online
+Chat: Busy
 
 [Tickets](https://www.dynadot.com/account/ticket/open.html)
 
