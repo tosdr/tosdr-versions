@@ -205,25 +205,25 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [Mechs in Art](https://www.somethingawful.com/photoshop-phriday/mechs-in-art/1/)
-* [Children's Books](https://www.somethingawful.com/photoshop-phriday/childrens-books2/1/)
-* [Cuckold Place](https://www.somethingawful.com/weekend-web/cuckold-place/1/)
-* [Choose Your Own Adventure Books That Never Quite Made It](https://www.somethingawful.com/comedy-goldmine/choose-your-own/1/)
-* [Weird Beards!](https://www.somethingawful.com/photoshop-phriday/upside-down-beards/1/)
+* [DickFlash.com](https://www.somethingawful.com/weekend-web/flashing-forum/1/)
+* [AOL Search Log Special, Part 2](https://www.somethingawful.com/weekend-web/aol-search-log-2/1/)
+* [SEA OF DOGS](https://www.somethingawful.com/news/sea-dog-classifieds/)
+* [Best Names For Boats II](https://www.somethingawful.com/news/funny-boat-names/)
+* [Let's Protest!](https://www.somethingawful.com/comedy-goldmine/lets-protest-offensive/1/)
 
 ### Popular Threads
 
-* ![](https://fi.somethingawful.com/forums/posticons/cspam-yeshahahayes.gif) [Diddy was arrested by the feds](http://forums.somethingawful.com/showthread.php?threadid=4070546 "Diddy was arrested by the feds")
-* ![](https://fi.somethingawful.com/forums/posticons/byob-grumpy.gif) [What's it like being on an extremely long flight?](http://forums.somethingawful.com/showthread.php?threadid=4070540 "What's it like being on an extremely long flight?")
 * ![](https://fi.somethingawful.com/forums/posticons/lan-europe.gif) [Harry Potter is just British Naruto](http://forums.somethingawful.com/showthread.php?threadid=4070542 "Harry Potter is just British Naruto")
+* ![](https://fi.somethingawful.com/forums/posticons/byob-grumpy.gif) [What's it like being on an extremely long flight?](http://forums.somethingawful.com/showthread.php?threadid=4070540 "What's it like being on an extremely long flight?")
+* ![](https://fi.somethingawful.com/forums/posticons/cspam-yeshahahayes.gif) [Diddy was arrested by the feds](http://forums.somethingawful.com/showthread.php?threadid=4070546 "Diddy was arrested by the feds")
 
 ### Random Articles
 
-* [Gaming Guyz 6: Winter Olympics](https://www.somethingawful.com/flash-tub/gaming-guyz-6/)
-* [This Wasn't A Good Idea](https://www.somethingawful.com/daily-dirt/for-a-friend/)
-* [Skittlescam](https://www.somethingawful.com/awful-links/awful-link-1442/)
-* [Nerdcore Revisited](https://www.somethingawful.com/garbage-day/nerdcore-mcrouter-8bitboys/1/)
-* [Denis Dyack's Many Concerns](https://www.somethingawful.com/video-game-article/denis-dyack-concerns/)
+* [EXCLUSIVE: A More Deeper Look at the PlayStation 5](https://www.somethingawful.com/news/playstation-plstnffffive-console/)
+* [Monumental Mishaps](https://www.somethingawful.com/photoshop-phriday/monumental-mishaps/1/)
+* [Groomed to Kill: Beards and Moustaches of Fury](https://www.somethingawful.com/news/groomed-kill-beards/)
+* [Terrible God Damn Comic Book Movies: Days of Future Past](https://www.somethingawful.com/news/future-comicbook-movies/1/)
+* [My ePenis is Bigger Than Your ePenis](https://www.somethingawful.com/news/my-epenis-bigger/)
 
 [Random!](https://www.somethingawful.com/random/)
 
