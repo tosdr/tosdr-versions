@@ -34,8 +34,8 @@ Menu
     Products
     
     Veeam Data Platform Self-managed data protection for hybrid  
-    and multi-cloud data Veeam Data Cloud Cloud-native backup and storage  
-    services for M365 & Azure Workload Specific Solutions for individual applications Solutions By Business Type Solutions for Enterprise, Small Businesses  
+    and multi-cloud data Veeam Data Cloud Veeam-hosted backup and cloud storage  
+    services for M365 & Azure  Workload Specific Solutions for individual applications Solutions By Business Type Solutions for Enterprise, Small Businesses  
     and Service Providers Free Community Editions
     
     Veeam Data Platform Self-managed data protection for hybrid  
@@ -67,6 +67,7 @@ Menu
     * [Find a Reseller](https://www.veeam.com/partners/find-a-partner.html?ad=menu-products-vdp)
     * [Managed Backup & DR Services](https://www.veeam.com/solutions/managed-services/managed-backup-dr-services.html?ad=menu-products-vdp)
     * [Buy Online](https://store.veeam.com/1620/purl-store?ad=menu-products-vdp)
+    * [Kubernetes Pricing](https://www.veeam.com/products/cloud/kubernetes-backup/pricing.html?ad=menu-products-vdp)
     
            ![Menu VDP diagram](https://cdn.veeam.com/content/dam/veeam/en/public/images/menu_vdp_diagramm.png.web.1920.1920.webp?ck=1724339356191)
     
@@ -77,8 +78,8 @@ Menu
     
     [Get Report](https://www.veeam.com/gartner-magic-quadrant.html?ad=menu-products-vdp-banner)
     
-    Veeam Data Cloud Cloud-native backup and storage  
-    services for M365 & Azure
+    Veeam Data Cloud Veeam-hosted backup and cloud storage  
+    services for M365 & Azure 
     
     Veeam Data Cloud
     
@@ -126,6 +127,7 @@ Menu
     * [Veeam Data Cloud Purchasing Options](https://www.veeam.com/products/veeam-data-cloud/purchasing-options.html?ad=menu-products-workloads)
     * [Find a Reseller](https://www.veeam.com/partners/find-a-partner.html?ad=menu-products-workloads)
     * [Managed Backup & DR Services](https://www.veeam.com/solutions/managed-services/managed-backup-dr-services.html?ad=menu-products-workloads)
+    * [Kubernetes Pricing](https://www.veeam.com/products/cloud/kubernetes-backup/pricing.html?ad=menu-products-workloads)
     * [Buy Online](https://store.veeam.com/1620/purl-store?ad=menu-products-workloads)
     
     Solutions By Business Type Solutions for Enterprise, Small Businesses  
