@@ -2,7 +2,7 @@ We’re sorry, but our website doesn’t work properly without JavaScript enable
 
             Privacy Policy                                     
 
-[![PetMeds](/on/demandware.static/Sites-1800petmeds-Site/-/default/dwe48b4d0f/images/newlogo_v1.svg)](https://www.1800petmeds.com/ "PetMeds Home")
+[![PetMeds](/on/demandware.static/Sites-1800petmeds-Site/-/default/dw3953a09b/images/newlogo_v1.svg)](https://www.1800petmeds.com/ "PetMeds Home")
 
 Products Education 
 
@@ -31,7 +31,7 @@ Popular Searches
 
 MENU CLOSE
 
-[![PetMeds](/on/demandware.static/Sites-1800petmeds-Site/-/default/dwe48b4d0f/images/newlogo_v1.svg)](https://www.1800petmeds.com/ "PetMeds Home")
+[![PetMeds](/on/demandware.static/Sites-1800petmeds-Site/-/default/dw3953a09b/images/newlogo_v1.svg)](https://www.1800petmeds.com/ "PetMeds Home")
 
 [Sign In](https://www.1800petmeds.com/login)
 
@@ -455,7 +455,7 @@ Close ×
 
 Navigation [×](javascript:void(0))
 
-* ![](/on/demandware.static/Sites-1800petmeds-Site/-/default/dwc5de30be/images/dog.svg)[Dog](#)
+* ![](/on/demandware.static/Sites-1800petmeds-Site/-/default/dwd21e7c27/images/dog.svg)[Dog](#)
     * [BackDog](#)
     * [All Dog Products](https://www.1800petmeds.com/search?prefn1=species&prefv1=Dog)
     * [Flea & Tick](#)
@@ -607,7 +607,7 @@ Navigation [×](javascript:void(0))
     * [Allergy Relief](https://www.1800petmeds.com/allergy+relief-cat71.html?prefn1=species&prefv1=Dog)
     * [Dog](https://www.1800petmeds.com/dog-cat5060012.html?prefn1=species&prefv1=Dog)
     * [Cat](https://www.1800petmeds.com/cat-cat5060011.html?prefn1=species&prefv1=Dog)
-* ![](/on/demandware.static/Sites-1800petmeds-Site/-/default/dw22e53bcf/images/cat.svg)[Cat](#)
+* ![](/on/demandware.static/Sites-1800petmeds-Site/-/default/dwe6f0a7c4/images/cat.svg)[Cat](#)
     * [BackCat](#)
     * [All Cat Products](https://www.1800petmeds.com/search?prefn1=species&prefv1=Cat)
     * [Flea & Tick](#)
@@ -759,7 +759,7 @@ Navigation [×](javascript:void(0))
     * [Allergy Relief](https://www.1800petmeds.com/allergy+relief-cat71.html?prefn1=species&prefv1=Cat)
     * [Dog](https://www.1800petmeds.com/dog-cat5060012.html?prefn1=species&prefv1=Cat)
     * [Cat](https://www.1800petmeds.com/cat-cat5060011.html?prefn1=species&prefv1=Cat)
-* ![](/on/demandware.static/Sites-1800petmeds-Site/-/default/dw2423b9c8/images/horse.svg)[Horse](https://www.1800petmeds.com/horse-cat5160032.html)
+* ![](/on/demandware.static/Sites-1800petmeds-Site/-/default/dw15d0a728/images/horse.svg)[Horse](https://www.1800petmeds.com/horse-cat5160032.html)
     * [BackHorse](#)
     * [All Horse Products](https://www.1800petmeds.com/horse-cat5160032.html)
     * [Anxiety](https://www.1800petmeds.com/horse+anxiety-cat5160028.html?prefn1=species&prefv1=Horse)
@@ -773,7 +773,7 @@ Navigation [×](javascript:void(0))
     * [Training Aids](https://www.1800petmeds.com/horse+training+aids-cat5160027.html?prefn1=species&prefv1=Horse)
     * [Vitamins & Supplements](https://www.1800petmeds.com/horse+vitamins+++supplements-cat5160035.html?prefn1=species&prefv1=Horse)
     * [Dewormers](https://www.1800petmeds.com/horse+wormers-cat5160022.html?prefn1=species&prefv1=Horse)
-* ![food-icon](/on/demandware.static/Sites-1800petmeds-Site/-/default/dwb79dcb21/images/food-icon.svg) [Shop Food](#)
+* ![food-icon](/on/demandware.static/Sites-1800petmeds-Site/-/default/dwca0ba9f6/images/food-icon.svg) [Shop Food](#)
     * [BackShop Food](#)
     * [Dog Food](https://www.1800petmeds.com/food-cat78.html?prefn1=species&prefv1=Dog)
         * [BackDog Food](#)
@@ -813,11 +813,11 @@ Navigation [×](javascript:void(0))
         * [Dr. Marty](https://www.1800petmeds.com/food-cat78.html?prefn1=brand&prefv1=Dr.%20Marty)
         * [Forza10](https://www.1800petmeds.com/food-cat78.html?prefn1=brand&prefv1=Forza10)
         
-* ![](/on/demandware.static/Sites-1800petmeds-Site/-/default/dwdaa1c639/images/brands.svg) [Shop By Brand](#)
+* ![](/on/demandware.static/Sites-1800petmeds-Site/-/default/dwbeb2e39c/images/brands.svg) [Shop By Brand](#)
     * [BackShop By Brand](#)
     
     * [View All Brands](https://www.1800petmeds.com/all-brands?cgid=root)
-* ![](/on/demandware.static/Sites-1800petmeds-Site/-/default/dw2c1f7bb4/images/conditions.svg) [Shop By Condition](#)
+* ![](/on/demandware.static/Sites-1800petmeds-Site/-/default/dweee5afb5/images/conditions.svg) [Shop By Condition](#)
     * [BackShop By Condition](#)
     * [Allergy Relief](https://www.1800petmeds.com/allergy+relief-cat71.html)
     * [Anxiety](https://www.1800petmeds.com/anxiety-cat75.html)
@@ -840,13 +840,13 @@ Navigation [×](javascript:void(0))
     * [Urinary Tract & Kidneys](https://www.1800petmeds.com/urinary+tract+++kidneys-cat94.html)
     * [Weight Loss & Management](https://www.1800petmeds.com/weight+loss+++management-cat240009.html)
     * [View Conditions A-Z](https://www.1800petmeds.com/all-conditions)
-* ![](/on/demandware.static/Sites-1800petmeds-Site/-/default/dw9b7dc3af/images/shoppingtag.svg) [Today's Deals](#)
+* ![](/on/demandware.static/Sites-1800petmeds-Site/-/default/dw1be624ea/images/shoppingtag.svg) [Today's Deals](#)
     * [BackToday's Deals](#)
     * [Save 35% on Food with AutoShip](https://www.1800petmeds.com/get-35-off-food-with-autoship.html)
     
-* ![](/on/demandware.static/Sites-1800petmeds-Site/-/default/dwc1139b7e/images/book.svg) [Pet Health Advice](https://www.1800petmeds.com/education)
-* ![](/on/demandware.static/Sites-1800petmeds-Site/-/default/dw7d302383/images/livestream.svg) [Talk to a vet](https://www.petmeds.com/vetlive)
-* ![](/on/demandware.static/Sites-1800petmeds-Site/-/default/dw0c5a6afc/images/pumpkin/pet-insurance.svg) [Learn About Pet Insurance](https://www.1800petmeds.com/petmeds-insurance-services)
+* ![](/on/demandware.static/Sites-1800petmeds-Site/-/default/dwe1f4dd5f/images/book.svg) [Pet Health Advice](https://www.1800petmeds.com/education)
+* ![](/on/demandware.static/Sites-1800petmeds-Site/-/default/dw6c8f94aa/images/livestream.svg) [Talk to a vet](https://www.petmeds.com/vetlive)
+* ![](/on/demandware.static/Sites-1800petmeds-Site/-/default/dw716cb9e3/images/pumpkin/pet-insurance.svg) [Learn About Pet Insurance](https://www.1800petmeds.com/petmeds-insurance-services)
 
 [Contact Us](https://www.1800petmeds.com/help.html) [My Account](https://www.1800petmeds.com/mypetmed) [My Appointments](https://www.1800petmeds.com/appointments) [Quick Reorder](https://www.1800petmeds.com/home) [Cart](https://www.1800petmeds.com/cart) [Already a customer? Sign In](https://www.1800petmeds.com/login)
 
@@ -1034,7 +1034,7 @@ Prior to honoring your request, the Company will make a reasonable attempt to ve
 
 Last updated February 13, 2024
 
- [![](/on/demandware.static/Sites-1800petmeds-Site/-/default/dw7b76065f/images/white-caret-up.svg) TOP](#top-of-page)
+ [![](/on/demandware.static/Sites-1800petmeds-Site/-/default/dwf3b86851/images/white-caret-up.svg) TOP](#top-of-page)
 
 Contact Us
 ----------
