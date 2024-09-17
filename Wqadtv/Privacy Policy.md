@@ -30,13 +30,14 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.tegna-media.com/assets/WNEP/images/f47e35ac-6fbe-42b7-8fad-97c5eb5eb342/f47e35ac-6fbe-42b7-8fad-97c5eb5eb342_16x9.jpg) ![](https://media.tegna-media.com/assets/WNEP/images/f47e35ac-6fbe-42b7-8fad-97c5eb5eb342/f47e35ac-6fbe-42b7-8fad-97c5eb5eb342_360x203.jpg)](https://www.wqad.com/article/news/local/public-safety/power-outage-davenport-midamerican/526-35f2e47c-b69f-4370-8c79-e0b2db3ae0a6)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/ecf6af29-3057-41c2-8835-4d77afa1d2b7/20240917T022840/ecf6af29-3057-41c2-8835-4d77afa1d2b7_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/ecf6af29-3057-41c2-8835-4d77afa1d2b7/20240917T022840/ecf6af29-3057-41c2-8835-4d77afa1d2b7_360x203.jpg)](https://www.wqad.com/article/news/local/every-county-in-illinois-now-has-911-service/526-cb720a2f-34db-407e-a940-139cf6f7b986)
         
-        #### [Thousands of MidAmerican customers lose power in Davenport Monday morning](https://www.wqad.com/article/news/local/public-safety/power-outage-davenport-midamerican/526-35f2e47c-b69f-4370-8c79-e0b2db3ae0a6)
+        #### [Every county in Illinois now has 911 service](https://www.wqad.com/article/news/local/every-county-in-illinois-now-has-911-service/526-cb720a2f-34db-407e-a940-139cf6f7b986) [![](https://media.tegna-media.com/assets/WQAD/images/ecf6af29-3057-41c2-8835-4d77afa1d2b7/20240917T022840/ecf6af29-3057-41c2-8835-4d77afa1d2b7_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/ecf6af29-3057-41c2-8835-4d77afa1d2b7/20240917T022840/ecf6af29-3057-41c2-8835-4d77afa1d2b7_360x203.jpg)](https://www.wqad.com/article/news/local/every-county-in-illinois-now-has-911-service/526-cb720a2f-34db-407e-a940-139cf6f7b986)
         
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/dc43c520-5bfe-4b11-b2dd-2c9771bfd057/dc43c520-5bfe-4b11-b2dd-2c9771bfd057_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/dc43c520-5bfe-4b11-b2dd-2c9771bfd057/dc43c520-5bfe-4b11-b2dd-2c9771bfd057_360x203.jpg)](https://www.wqad.com/article/news/local/public-safety/active-boil-order-quad-cities-region/526-a30b1950-412f-4da4-bbd1-8b9cc7f56990)
+        #### [The last Illinois county without 911 service is now covered](https://www.wqad.com/article/news/local/every-county-in-illinois-now-has-911-service/526-cb720a2f-34db-407e-a940-139cf6f7b986)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/a6d40ccc-0408-4479-bc49-a9cb1107b078/20240916T224536/a6d40ccc-0408-4479-bc49-a9cb1107b078_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/a6d40ccc-0408-4479-bc49-a9cb1107b078/20240916T224536/a6d40ccc-0408-4479-bc49-a9cb1107b078_360x203.jpg)](https://www.wqad.com/article/news/local/moline-house-fire-displaces-7/526-65b3dc6b-f732-4e07-87ec-aabe56505a8a)
         
-        #### [Boil orders in the Quad Cities region](https://www.wqad.com/article/news/local/public-safety/active-boil-order-quad-cities-region/526-a30b1950-412f-4da4-bbd1-8b9cc7f56990)
+        #### [Moline house fire displaces 7 people](https://www.wqad.com/article/news/local/moline-house-fire-displaces-7/526-65b3dc6b-f732-4e07-87ec-aabe56505a8a)
         
     
 * [Weather](https://www.wqad.com/weather)
@@ -56,13 +57,13 @@ Navigation
     
     Latest Weather Stories
     
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/eb12132f-725f-4d75-a61c-53208e3bc185/20240916T225817/eb12132f-725f-4d75-a61c-53208e3bc185_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/eb12132f-725f-4d75-a61c-53208e3bc185/20240916T225817/eb12132f-725f-4d75-a61c-53208e3bc185_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+        
+        #### [Warm, summery weather to continue this week](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+        
     *  [![](https://media.tegna-media.com/assets/CCT/images/e541080c-0fb0-4cd9-9e04-967d0df575fb/20240916T133310/e541080c-0fb0-4cd9-9e04-967d0df575fb_16x9.jpg) ![](https://media.tegna-media.com/assets/CCT/images/e541080c-0fb0-4cd9-9e04-967d0df575fb/20240916T133310/e541080c-0fb0-4cd9-9e04-967d0df575fb_360x203.jpg)](https://www.wqad.com/article/news/nation-world/tropical-storm-conditions-expected-parts-of-the-carolinas/507-e0c724a0-fbfd-437c-9cbf-f1ed0939a051)
         
         #### [Tropical storm conditions expected for parts of the Carolinas as disturbance approaches coast](https://www.wqad.com/article/news/nation-world/tropical-storm-conditions-expected-parts-of-the-carolinas/507-e0c724a0-fbfd-437c-9cbf-f1ed0939a051)
-        
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/6ee99cbd-9a38-41e6-9b09-a1b6d837b14b/20240916T121310/6ee99cbd-9a38-41e6-9b09-a1b6d837b14b_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/6ee99cbd-9a38-41e6-9b09-a1b6d837b14b/20240916T121310/6ee99cbd-9a38-41e6-9b09-a1b6d837b14b_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
-        
-        #### [A few more 90s ahead this week](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
     
 * [Sports](https://www.wqad.com/sports)
@@ -86,9 +87,9 @@ Navigation
 
 Davenport, IA »
 
-84°
+69°
 
-![Fair](/assets/shared-images/weather-icons/mostly-sunny-day_210x210.png)
+![Clear](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
 
 Davenport, IA »](https://www.wqad.com/weather)
 
