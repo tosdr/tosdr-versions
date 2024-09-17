@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-1e7aded29b475073479bfa367e60069e
+2ed260f3c650e69a5ad97b5e130f7273
 
 [](# "Expand for more options")[](# "Search")
 
@@ -171,11 +171,11 @@ Sojourner may revise this policy as needed by updating this posting.
 
 ### Featured Product
 
-[![10 mm by 8 mm white irregular pearls](https://www.sojourner.biz/images/cache/pearls/PE0188.200.jpg)](https://www.sojourner.biz/beads/pearls/10-mm-by-8-mm-white-irregular-pearls.html "10 mm by 8 mm white irregular pearls")
+[![Pearl and lily earrings](https://www.sojourner.biz/images/cache/E0044.200.jpg)](https://www.sojourner.biz/jewelry/earrings/pearl-and-lily-earrings.html "Pearl and lily earrings")
 
-#### [10 mm by 8 mm white irregular pearls](https://www.sojourner.biz/beads/pearls/10-mm-by-8-mm-white-irregular-pearls.html "10 mm by 8 mm white irregular pearls")
+#### [Pearl and lily earrings](https://www.sojourner.biz/jewelry/earrings/pearl-and-lily-earrings.html "Pearl and lily earrings")
 
-$25.00
+$35.00
 
 ### Best Sellers
 
