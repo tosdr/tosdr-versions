@@ -104,6 +104,16 @@ Sep 12 2024
 
 By **[Carolyn D. Gorman](https://admin.mi52siterestore.com/person/carolyn-d-gorman/)** Read time **39 mins** [Read More](https://admin.mi52siterestore.com/article/school-based-mental-health-initiatives-challenges-and-considerations-for-policymakers/)
 
+    ![](https://media4.manhattan-institute.org/wp-content/uploads/scandal-incompetence-puts-adams-at-risk-of-irrelevance.jpg)[](https://admin.mi52siterestore.com/article/scandal-leaves-eric-adams-at-risk-of-irrelevance-as-nycs-quality-of-life-declines/ "Read More")
+
+Commentary Cities, Governance New York, New York City
+
+Sep 15 2024
+
+[Scandal Leaves Eric Adams at Risk of Irrelevance as NYC’s Quality of Life Declines](https://admin.mi52siterestore.com/article/scandal-leaves-eric-adams-at-risk-of-irrelevance-as-nycs-quality-of-life-declines/)
+
+By **[Nicole Gelinas](https://admin.mi52siterestore.com/person/nicole-gelinas/)** Read time **1 min** [Read More](https://admin.mi52siterestore.com/article/scandal-leaves-eric-adams-at-risk-of-irrelevance-as-nycs-quality-of-life-declines/)
+
     ![](https://media4.manhattan-institute.org/wp-content/uploads/blame-the-biden-admin-for-venezuelan-gangs-migrants-taking-over-aurora-colorado.jpg)[](https://admin.mi52siterestore.com/article/blame-the-biden-admin-for-venezuelan-gangs-migrants-taking-over-aurora-colorado/ "Read More")
 
 Commentary Governance, Public Safety Immigration, Crime Control
@@ -133,16 +143,6 @@ Sep 12 2024
 [NYC Needs to Stop Worrying about NYPD Optics and Just Pick the Overall Best Cop](https://admin.mi52siterestore.com/article/nyc-needs-to-stop-worrying-about-nypd-optics-and-just-pick-the-overall-best-cop/)
 
 By **[Hannah E. Meyers](https://admin.mi52siterestore.com/person/hannah-e-meyers/)** Read time **2 mins** [Read More](https://admin.mi52siterestore.com/article/nyc-needs-to-stop-worrying-about-nypd-optics-and-just-pick-the-overall-best-cop/)
-
-    ![](https://media4.manhattan-institute.org/wp-content/uploads/at-some-elite-universities-affirmative-action-ruling-leaves-little-impact-on-racial-makeup-prompting-scrutiny.jpg)[](https://admin.mi52siterestore.com/article/at-some-elite-universities-affirmative-action-ruling-leaves-little-impact-on-racial-makeup-prompting-scrutiny/ "Read More")
-
-Commentary Education Higher Ed, Supreme Court
-
-Sep 12 2024
-
-[At Some Elite Universities, Affirmative Action Ruling Leaves Little Impact on Racial Makeup, Prompting Scrutiny](https://admin.mi52siterestore.com/article/at-some-elite-universities-affirmative-action-ruling-leaves-little-impact-on-racial-makeup-prompting-scrutiny/)
-
-By **[Lexi Boccuzzi](https://admin.mi52siterestore.com/person/lexi-boccuzzi/)** Read time **2 mins** [Read More](https://admin.mi52siterestore.com/article/at-some-elite-universities-affirmative-action-ruling-leaves-little-impact-on-racial-makeup-prompting-scrutiny/)
 
 Our Policy Areas
 ----------------
