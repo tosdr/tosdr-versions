@@ -69,6 +69,7 @@
     * Open Source for Business
         
         * [Business Value of Open Source](https://www.eclipse.org/org/value/)
+        * [Professional Services](https://www.eclipse.org/os4biz/services/)
         * [Open Source Program Offices](https://www.eclipse.org/os4biz/ospo/)
         
     * What's Happening
@@ -173,6 +174,7 @@ The Eclipse community consists of individual developers and organisations spanni
 Open Source for Business
 
 * [Business Value of Open Source](https://www.eclipse.org/org/value/)
+* [Professional Services](https://www.eclipse.org/os4biz/services/)
 * [Open Source Program Offices](https://www.eclipse.org/os4biz/ospo/)
 
 What's Happening
