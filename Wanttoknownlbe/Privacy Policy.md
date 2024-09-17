@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/wetenschap/energie/anitas-miraculeuze-bde/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/inspiratie/meelezen/de-12-geboden-voor-zelfliefde/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
