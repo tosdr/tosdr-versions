@@ -273,17 +273,17 @@ This field is for validation purposes and should be left unchanged.
 
 #### Frequently Asked Questions
 
-[![What percentage of lung nodules turn out to be cancer?](https://www.pintas.com/wp-content/uploads/2020/07/lung-cancer-what-percentage-of-lung-nodules-turn-out-to-be-cancer.jpg "What Percentage of Lung Nodules Turn Out to Be Cancer?")](https://www.pintas.com/practice-areas/lung-cancer/what-percentage-of-lung-nodules-turn-out-to-be-cancer/ "What Percentage of Lung Nodules Turn Out to Be Cancer?")
+[![Alternative ovarian cancer treatments](https://www.pintas.com/wp-content/uploads/2020/04/johnson-and-johnson-talcum-powder-lawsuit-lawyer-alternative-ovarian-cancer-treatments.jpg "Alternative Ovarian Cancer Treatments")](https://www.pintas.com/johnson-and-johnson-talcum-powder-lawsuit-lawyer/alternative-ovarian-cancer-treatments/ "Alternative Ovarian Cancer Treatments")
 
-[#### What Percentage of Lung Nodules Turn Out to Be Cancer?](https://www.pintas.com/practice-areas/lung-cancer/what-percentage-of-lung-nodules-turn-out-to-be-cancer/)
+[#### Alternative Ovarian Cancer Treatments](https://www.pintas.com/johnson-and-johnson-talcum-powder-lawsuit-lawyer/alternative-ovarian-cancer-treatments/)
 
-[![What are the warning signs of elder abuse and neglect?](https://www.pintas.com/wp-content/uploads/2020/09/nursing-home-abuse-lawyer-what-are-the-warning-signs-of-elder-abuse-and-neglect-scaled.jpg "What Are the Warning Signs of Elder Abuse and Neglect?")](https://www.pintas.com/faq/what-are-the-warning-signs-of-elder-abuse-and-neglect/ "What Are the Warning Signs of Elder Abuse and Neglect?")
+[![What is advanced mesothelioma?](https://www.pintas.com/wp-content/uploads/2020/10/lung-cancer-mesothelioma-lawyer-what-is-advanced-mesothelioma-scaled.jpg "What Is Advanced Mesothelioma?")](https://www.pintas.com/practice-areas/lung-cancer/mesothelioma/what-is-advanced-mesothelioma "What Is Advanced Mesothelioma?")
 
-[#### What Are the Warning Signs of Elder Abuse and Neglect?](https://www.pintas.com/faq/what-are-the-warning-signs-of-elder-abuse-and-neglect/)
+[#### What Is Advanced Mesothelioma?](https://www.pintas.com/practice-areas/lung-cancer/mesothelioma/what-is-advanced-mesothelioma)
 
-[![Can a lung transplant cure lung cancer?](https://www.pintas.com/wp-content/uploads/2020/05/lung-cancer-can-a-lung-transplant-cure-lung-cancer.jpg "Can a Lung Transplant Cure Lung Cancer?")](https://www.pintas.com/practice-areas/lung-cancer/can-a-lung-transplant-cure-lung-cancer/ "Can a Lung Transplant Cure Lung Cancer?")
+[![Have mormon church officials sexually abused children?](https://www.pintas.com/wp-content/uploads/2023/04/general-mormom-3-300x225.jpg "Have Mormon Church Officials Sexually Abused Children?")](https://www.pintas.com/lawsuit/mormon-church-sex-abuse/has-the-mormon-church-sexually-abused-children/ "Have Mormon Church Officials Sexually Abused Children?")
 
-[#### Can a Lung Transplant Cure Lung Cancer?](https://www.pintas.com/practice-areas/lung-cancer/can-a-lung-transplant-cure-lung-cancer/)
+[#### Have Mormon Church Officials Sexually Abused Children?](https://www.pintas.com/lawsuit/mormon-church-sex-abuse/has-the-mormon-church-sexually-abused-children/)
 
 ### Injured?  
 Tell Us What Happened.
