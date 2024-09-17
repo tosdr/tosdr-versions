@@ -27,7 +27,7 @@
     
     For installers
     
-    [System builder](https://enphase.com/installers/systems) [System estimator](https://estimator.enphase.com/) [Module calculator](https://enphase.com/installers/microinverters/calculator) [Become an installer](https://enphase.com/installers/signup)
+    [System builder](https://enphase.com/installers/systems) [System estimator](https://estimator.enphase.com/) [Module calculator](https://enphase.com/installers/microinverters/calculator)
     
 * [](javascript:void(0);)
 * [ESG](https://enphase.com/company/sustainability)
@@ -512,6 +512,8 @@ Enphase Installer Network Terms and Conditions
 
 [Spain](https://enphase.com/legal/installer-network-terms-conditions-spain)
 
+[Brazil](https://enphase.com/legal/brazil)
+
 Questions? Contact us. We’ll help you build your system, today.
 
 [Get Enphase](https://start.enphase.com/form-enph/?lsid=692)
@@ -655,7 +657,7 @@ Your session expired. Please login again to continue to purchase.
     * [NEM 3.0](https://enphase.com/installers/nem3)
     * [Commercial](https://enphase.com/installers/commercial)
     * [Critical updates](https://enphase.com/installers/updates)
-    * [Storage](https://enphase.com/installers/storage)
+    * [Storage](https://enphase.com/installers/storage/gen2)
     
 * Support
     
