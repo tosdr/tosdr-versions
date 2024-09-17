@@ -123,11 +123,11 @@ If you have any more questions regarding privacy matters while using our site, p
     
 * ### [The Tyrant (2024)](https://dramanice.ws/the-tyrant-2024/)
     
+* ### [Serendipity’s Embrace (2024)](https://dramanice.ws/serendipity-s-embrace-2024/)
+    
 * ### [No Way Out: The Roulette (2024)](https://dramanice.ws/no-way-out-the-roulette-2024/)
     
 * ### [Romance in the House (2024)](https://dramanice.ws/romance-in-the-house-2024/)
-    
-* ### [Serendipity’s Embrace (2024)](https://dramanice.ws/serendipity-s-embrace-2024/)
     
 * ### [Lost You Forever Season 2 (2024)](https://dramanice.ws/lost-you-forever-season-2-2024/)
     
@@ -158,6 +158,18 @@ If you have any more questions regarding privacy matters while using our site, p
 
 [View More](https://ww2.dramacool9.ac/tag/most-popular/ "View More Popular Dramas")
 
+* ### [Wuju Bakery (2023) Ep 6](https://dramanice.ws/wuju-bakery-2023-episode-6/ "Wuju Bakery (2023) Ep 6")
+    
+* ### [LTNS (2024) Ep 7](https://dramanice.ws/ltns-2024-episode-7/ "LTNS (2024) Ep 7")
+    
+* ### [Wuju Bakery (2023) Ep 7](https://dramanice.ws/wuju-bakery-2023-episode-7/ "Wuju Bakery (2023) Ep 7")
+    
+* ### [LTNS (2024) Ep 8](https://dramanice.ws/ltns-2024-episode-8/ "LTNS (2024) Ep 8")
+    
+* ### [Wuju Bakery (2023) Ep 8](https://dramanice.ws/wuju-bakery-2023-episode-8/ "Wuju Bakery (2023) Ep 8")
+    
+* ### [LTNS (2024) Ep 9](https://dramanice.ws/ltns-2024-episode-9/ "LTNS (2024) Ep 9")
+    
 * ### [LTNS (2024) Ep 10](https://dramanice.ws/ltns-2024-episode-10/ "LTNS (2024) Ep 10")
     
 * ### [LTNS (2024) Ep 11](https://dramanice.ws/ltns-2024-episode-11/ "LTNS (2024) Ep 11")
@@ -165,18 +177,6 @@ If you have any more questions regarding privacy matters while using our site, p
 * ### [LTNS (2024) Ep 12](https://dramanice.ws/ltns-2024-episode-12/ "LTNS (2024) Ep 12")
     
 * ### [LTNS (2024) Ep 13](https://dramanice.ws/ltns-2024-episode-13/ "LTNS (2024) Ep 13")
-    
-* ### [LTNS (2024) Ep 14](https://dramanice.ws/ltns-2024-episode-14/ "LTNS (2024) Ep 14")
-    
-* ### [LTNS (2024) Ep 15](https://dramanice.ws/ltns-2024-episode-15/ "LTNS (2024) Ep 15")
-    
-* ### [LTNS (2024) Ep 16](https://dramanice.ws/ltns-2024-episode-16/ "LTNS (2024) Ep 16")
-    
-* ### [Wuju Bakery (2023) Ep 1](https://dramanice.ws/wuju-bakery-2023-episode-1/ "Wuju Bakery (2023) Ep 1")
-    
-* ### [Wuju Bakery (2023) Ep 2](https://dramanice.ws/wuju-bakery-2023-episode-2/ "Wuju Bakery (2023) Ep 2")
-    
-* ### [Wuju Bakery (2023) Ep 3](https://dramanice.ws/wuju-bakery-2023-episode-3/ "Wuju Bakery (2023) Ep 3")
     
 
 [View More](https://ww2.dramacool9.ac/category/upcoming-episodes/ "View All Upcoming Episodes")
