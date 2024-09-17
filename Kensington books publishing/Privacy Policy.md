@@ -22,19 +22,19 @@ Audio
 
 * * *
 
-* [![Browse All Our Lists, Essays, and Interviews](https://assets.penguinrandomhouse.com/wp-content/uploads/2024/02/05171902/content-archive-Homepage_600x314-nav.jpg)
+* [![Books To Read if You Love <i>Gilmore Girls</i>](https://assets.penguinrandomhouse.com/wp-content/uploads/2024/08/22142347/PRH_Site_1200x628_Gilmore.jpg)
     
-    Browse All Our Lists, Essays, and Interviews
+    Books To Read if You Love _Gilmore Girls_
     
-    See What We’re Reading >](https://www.penguinrandomhouse.com/content-archive/)
+    Read More >](https://www.penguinrandomhouse.com/the-read-down/books-like-gilmore-girls/)
 
 * * *
 
-* [![Join Our Authors for Upcoming Events](https://assets.penguinrandomhouse.com/wp-content/uploads/2024/02/05171722/Author-Events-Module_600x314-nav.jpg)
+* [![How To Read More in 2024](https://assets.penguinrandomhouse.com/wp-content/uploads/2024/02/26151938/ReadMore_1200x628_600x314-nav.jpg)
     
-    Join Our Authors for Upcoming Events
+    How To Read More in 2024
     
-    Learn More >](https://www.penguinrandomhouse.com/authors/events/)
+    Learn More >](https://www.penguinrandomhouse.com/articles/how-to-read-more/)
 
 * <
     
