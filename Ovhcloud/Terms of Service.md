@@ -570,7 +570,7 @@ Log in to order, manage your products and services, and track your orders.
         * Use Cases
         * Use Cases
             
-            * [Migrate to the cloud](https://www.ovhcloud.com/en-ie/hosted-private-cloud/uc-cloud-migration/)
+            * [Migrate to the cloud](https://www.ovhcloud.com/en-ie/solutions/uc-cloud-migration/)
             * [Hybrid cloud & Multi Cloud](https://www.ovhcloud.com/en-ie/solutions/uc-hybrid-multi-cloud/)
             * [App Modernization](https://www.ovhcloud.com/en-ie/solutions/uc-app-modernization/)
             * [Cloud Native App](https://www.ovhcloud.com/en-ie/solutions/uc-cloud-native-app/)
@@ -742,7 +742,7 @@ Back to top
     * Status
     * [Whois](https://www.ovhcloud.com/en-ie/domains/whois/)
     * Domain contact
-    * [Report abuse (abuse@ovh.net)](https://www.ovh.com/abuse/#!/)
+    * Report abuse (abuse@ovh.net)
     * [WHOIS information disclosure request](https://www.ovhcloud.com/en-ie/whois-disclosure/)
     
 
