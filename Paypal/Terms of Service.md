@@ -1154,8 +1154,6 @@ In complying with the applicable data protection laws, we will each:
 
 Any personal data you collect in connection with the PayPal services (and not otherwise generated, collected, or obtained by you through a customer’s separate relationship with you outside the use of the PayPal services) will be used by you only to the limited extent that is necessary and relevant to the PayPal services and for no other purpose unless you have obtained the prior express consent of the customer.
 
-[PayPal Logo](https://www.paypal.com/us/home)
-
 * [Help](https://www.paypal.com/us/cshelp/personal)
 * [Contact](https://www.paypal.com/us/smarthelp/contact-us)
 * [Fees](https://www.paypal.com/us/webapps/mpp/paypal-fees)
