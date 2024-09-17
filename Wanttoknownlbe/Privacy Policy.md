@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/gezondheid/zuster-teresa-forcades-luidt-de-bel-inzake-de-griep/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/nieuws/de-zegepreek-van-nigel-farage-heerlijk/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
