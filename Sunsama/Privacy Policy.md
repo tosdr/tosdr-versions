@@ -104,7 +104,7 @@ Apps
 
 Integrations
 
-[Asana](https://sunsama.com/integrations/asana)[ClickUp](https://sunsama.com/integrations/clickup)[GitHub](https://sunsama.com/integrations/github)[Gmail](https://sunsama.com/integrations/gmail)[Jira](https://sunsama.com/integrations/jira)[Linear](https://sunsama.com/integrations/linear)[Monday](https://sunsama.com/integrations/monday-com)[Notion](https://sunsama.com/integrations/notion)[Outlook](https://sunsama.com/integrations/outlook)[Slack](https://sunsama.com/integrations/slack)[Teams](https://sunsama.com/integrations/microsoft-teams)[Todoist](https://sunsama.com/integrations/todoist)[Trello](https://sunsama.com/integrations/trello)[Zapier](https://sunsama.com/integrations/zapier)
+[Asana](https://sunsama.com/integrations/asana)[ClickUp](https://sunsama.com/integrations/clickup)[GitHub](https://sunsama.com/integrations/github)[Gmail](https://sunsama.com/integrations/gmail)[Jira](https://sunsama.com/integrations/jira)[Linear](https://sunsama.com/integrations/linear)[Monday](https://sunsama.com/integrations/monday-com)[Notion](https://sunsama.com/integrations/notion)[Outlook](https://sunsama.com/integrations/outlook)[Slack](https://sunsama.com/integrations/slack)[Teams](https://sunsama.com/integrations/microsoft-teams)[Todoist](https://sunsama.com/integrations/todoist)[Toggl](https://sunsama.com/integrations/toggle-integration)[Trello](https://sunsama.com/integrations/trello)[Zapier](https://sunsama.com/integrations/zapier)
 
 Team
 
