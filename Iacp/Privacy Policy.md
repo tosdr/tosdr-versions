@@ -26,7 +26,7 @@ Close* [About ![](/themes/iacp/images/icons/arrow-circle-right-blue.svg)](#)
     Close* Events
     * [Annual Conference & Expo](https://www.theiacpconference.org/)
     * [Technology Conference](https://www.theiacp.org/tech-conference)
-    * [Impaired Driving and Traffic Safety Conference](https://www.theiacp.org/IDTSconference)
+    * [Impaired Driving and Traffic Safety Conference](https://www.theiacp.org/IDTSConference)
     * [Officer Safety and Wellness Conference](https://www.theiacp.org/OSWConference)
     * [All Events](https://www.theiacp.org/all-events)
     * Training
