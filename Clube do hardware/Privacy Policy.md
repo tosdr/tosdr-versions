@@ -134,6 +134,96 @@ Política de privacidade
 
 * ### Últimos tópicos
     
+    * [![Matosfv](https://www.clubedohardware.com.br/uploads/members/monthly_2021_09/WIN_20210901_08_43_51_Pro.thumb.jpg.22eab52b379ebb21234cce381666d4e6.jpg)](https://www.clubedohardware.com.br/profile/666325-matosfv/ "Ir ao perfil de Matosfv")
+        
+        0
+        
+        [Alimentar fita de LED](https://www.clubedohardware.com.br/forums/topic/1697615-alimentar-fita-de-led/?do=getNewComment "Alimentar fita de LED")
+        
+        [Eletrônica](https://www.clubedohardware.com.br/forums/forum/30-eletr%C3%B4nica/ "Eletrônica")  
+        Por [Matosfv](https://www.clubedohardware.com.br/profile/666325-matosfv/ "Ir ao perfil de Matosfv")  
+        agora
+        
+    * [![thiagooterolima](https://www.clubedohardware.com.br/uploads/members/monthly_2024_04/imported-photo-1243212.thumb.png.9510f432dca22b1ec7615d0101035a11.png)](https://www.clubedohardware.com.br/profile/1243212-thiagooterolima/ "Ir ao perfil de thiagooterolima")
+        
+        0
+        
+        [Empenar placa de Vídeo](https://www.clubedohardware.com.br/forums/topic/1697614-empenar-placa-de-v%C3%ADdeo/?do=getNewComment "Empenar placa de Vídeo")
+        
+        [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
+        Por [thiagooterolima](https://www.clubedohardware.com.br/profile/1243212-thiagooterolima/ "Ir ao perfil de thiagooterolima")  
+        18 minutos atrás
+        
+    * [![ViFe](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23c47a62%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EV%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1247837-vife/ "Ir ao perfil de ViFe")
+        
+        2
+        
+        [É possível montar conjunto AM4 por R$ 1.500?](https://www.clubedohardware.com.br/forums/topic/1697613-%C3%A9-poss%C3%ADvel-montar-conjunto-am4-por-r-1500/?do=getNewComment "É possível montar conjunto AM4 por R$ 1.500?")
+        
+        [Montagem e upgrade de computadores de mesa](https://www.clubedohardware.com.br/forums/forum/93-montagem-e-upgrade-de-computadores-de-mesa/ "Montagem e upgrade de computadores de mesa")  
+        Por [ViFe](https://www.clubedohardware.com.br/profile/1247837-vife/ "Ir ao perfil de ViFe")  
+        33 minutos atrás
+        
+    * [![DFD](https://www.clubedohardware.com.br/uploads/members/profile/photo-390133.gif)](https://www.clubedohardware.com.br/profile/390133-dfd/ "Ir ao perfil de DFD")
+        
+        0
+        
+        [Melhores teclados ABNT2, um teclado para a todos governar.](https://www.clubedohardware.com.br/forums/topic/1697612-melhores-teclados-abnt2-um-teclado-para-a-todos-governar/?do=getNewComment "Melhores teclados ABNT2, um teclado para a todos governar.")
+        
+        [Teclados, mouses e controles para jogos](https://www.clubedohardware.com.br/forums/forum/62-teclados-mouses-e-controles-para-jogos/ "Teclados, mouses e controles para jogos")  
+        Por [DFD](https://www.clubedohardware.com.br/profile/390133-dfd/ "Ir ao perfil de DFD")  
+        34 minutos atrás
+        
+    * [![ReiMonteroRlK](https://www.clubedohardware.com.br/uploads/members/monthly_2024_09/imported-photo-1253223.thumb.png.aaa553db19392af3cb4ca9d2ba8852ec.png)](https://www.clubedohardware.com.br/profile/1253223-reimonterorlk/ "Ir ao perfil de ReiMonteroRlK")
+        
+        0
+        
+        [Melhor xeon para placa de vídeo GeForce GTX 1060 6gb](https://www.clubedohardware.com.br/forums/topic/1697611-melhor-xeon-para-placa-de-v%C3%ADdeo-geforce-gtx-1060-6gb/?do=getNewComment "Melhor xeon para placa de vídeo GeForce GTX 1060 6gb")
+        
+        [Processadores](https://www.clubedohardware.com.br/forums/forum/43-processadores/ "Processadores")  
+        Por [ReiMonteroRlK](https://www.clubedohardware.com.br/profile/1253223-reimonterorlk/ "Ir ao perfil de ReiMonteroRlK")  
+        46 minutos atrás
+        
+    * [![Wellzin](https://www.clubedohardware.com.br/uploads/members/monthly_2024_09/imported-photo-1252476.thumb.png.c22450f36f0fdd178c9facdbf7c99f77.png)](https://www.clubedohardware.com.br/profile/1252476-wellzin/ "Ir ao perfil de Wellzin")
+        
+        2
+        
+        [Ventoinha da Radeon RX 6600M só funciona no driver 22.10.3 e anteriores](https://www.clubedohardware.com.br/forums/topic/1697610-ventoinha-da-radeon-rx-6600m-s%C3%B3-funciona-no-driver-22103-e-anteriores/?do=getNewComment "Ventoinha da Radeon RX 6600M só funciona no driver 22.10.3 e anteriores")
+        
+        [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
+        Por [Wellzin](https://www.clubedohardware.com.br/profile/1252476-wellzin/ "Ir ao perfil de Wellzin")  
+        47 minutos atrás
+        
+    * [![Leonardompx](https://www.clubedohardware.com.br/uploads/members/monthly_2024_09/imported-photo-1253221.thumb.jpeg.bd5237bf64f9ef8f2eea6f2b8591059c.jpeg)](https://www.clubedohardware.com.br/profile/1253221-leonardompx/ "Ir ao perfil de Leonardompx")
+        
+        2
+        
+        [Radeon RX 580 funciona na H110?](https://www.clubedohardware.com.br/forums/topic/1697608-radeon-rx-580-funciona-na-h110/?do=getNewComment "Radeon RX 580 funciona na H110?")
+        
+        [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
+        Por [Leonardompx](https://www.clubedohardware.com.br/profile/1253221-leonardompx/ "Ir ao perfil de Leonardompx")  
+        2 horas atrás
+        
+    * [![Traumacore](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/imported-photo-1251549.thumb.jpeg.74fcd49ed8227018a453fa1066d7ab2a.jpeg)](https://www.clubedohardware.com.br/profile/1251549-traumacore/ "Ir ao perfil de Traumacore")
+        
+        6
+        
+        [Baixo uso do Core I5 12400F e Radeon RX 6600 no Tower of Fantasy](https://www.clubedohardware.com.br/forums/topic/1697607-baixo-uso-do-core-i5-12400f-e-radeon-rx-6600-no-tower-of-fantasy/?do=getNewComment "Baixo uso do Core I5 12400F e Radeon RX 6600 no Tower of Fantasy")
+        
+        [Problemas de desempenho](https://www.clubedohardware.com.br/forums/forum/256-problemas-de-desempenho/ "Problemas de desempenho")  
+        Por [Traumacore](https://www.clubedohardware.com.br/profile/1251549-traumacore/ "Ir ao perfil de Traumacore")  
+        2 horas atrás
+        
+    * [![Thyagossz](https://www.clubedohardware.com.br/uploads/members/monthly_2024_09/imported-photo-1253219.thumb.png.c0876c77cb0dc5d297e289700ffd5de4.png)](https://www.clubedohardware.com.br/profile/1253219-thyagossz/ "Ir ao perfil de Thyagossz")
+        
+        1
+        
+        [Kit upgrade com placa-mãe, processador de memória RAM até R$ 3.000](https://www.clubedohardware.com.br/forums/topic/1697606-kit-upgrade-com-placa-m%C3%A3e-processador-de-mem%C3%B3ria-ram-at%C3%A9-r-3000/?do=getNewComment "Kit upgrade com placa-mãe, processador de memória RAM até R$ 3.000")
+        
+        [Montagem e upgrade de computadores de mesa](https://www.clubedohardware.com.br/forums/forum/93-montagem-e-upgrade-de-computadores-de-mesa/ "Montagem e upgrade de computadores de mesa")  
+        Por [Thyagossz](https://www.clubedohardware.com.br/profile/1253219-thyagossz/ "Ir ao perfil de Thyagossz")  
+        2 horas atrás
+        
     * [![Shelbyx027](https://www.clubedohardware.com.br/uploads/members/monthly_2024_09/imported-photo-1253217.thumb.png.798a846f552435c3acd180ed5fe97a07.png)](https://www.clubedohardware.com.br/profile/1253217-shelbyx027/ "Ir ao perfil de Shelbyx027")
         
         0
@@ -142,97 +232,7 @@ Política de privacidade
         
         [Fontes e energia](https://www.clubedohardware.com.br/forums/forum/153-fontes-e-energia/ "Fontes e energia")  
         Por [Shelbyx027](https://www.clubedohardware.com.br/profile/1253217-shelbyx027/ "Ir ao perfil de Shelbyx027")  
-        1 hora atrás
-        
-    * [![Fernando Cantalejo](https://www.clubedohardware.com.br/uploads/members/monthly_2024_09/imported-photo-1253216.thumb.jpeg.035d5e016b273be6046ec7e202870143.jpeg)](https://www.clubedohardware.com.br/profile/1253216-fernando-cantalejo/ "Ir ao perfil de Fernando Cantalejo")
-        
-        0
-        
-        [Processador só funciona com um slot](https://www.clubedohardware.com.br/forums/topic/1697603-processador-s%C3%B3-funciona-com-um-slot/?do=getNewComment "Processador só funciona com um slot")
-        
-        [Processadores](https://www.clubedohardware.com.br/forums/forum/43-processadores/ "Processadores")  
-        Por [Fernando Cantalejo](https://www.clubedohardware.com.br/profile/1253216-fernando-cantalejo/ "Ir ao perfil de Fernando Cantalejo")  
-        2 horas atrás
-        
-    * [![leomitasz](https://www.clubedohardware.com.br/uploads/members/monthly_2024_09/imported-photo-1252673.thumb.png.64125dfd825d411aeca8bf994a91a4d2.png)](https://www.clubedohardware.com.br/profile/1252673-leomitasz/ "Ir ao perfil de leomitasz")
-        
-        1
-        
-        [Gostaria de saber como ativar RGB das fans na Placa-Mãe MSI B550M Pro-VDH WIFI](https://www.clubedohardware.com.br/forums/topic/1697602-gostaria-de-saber-como-ativar-rgb-das-fans-na-placa-m%C3%A3e-msi-b550m-pro-vdh-wifi/?do=getNewComment "Gostaria de saber como ativar RGB das fans na Placa-Mãe MSI B550M Pro-VDH WIFI")
-        
-        [Placas-mãe](https://www.clubedohardware.com.br/forums/forum/28-placas-m%C3%A3e/ "Placas-mãe")  
-        Por [leomitasz](https://www.clubedohardware.com.br/profile/1252673-leomitasz/ "Ir ao perfil de leomitasz")  
-        2 horas atrás
-        
-    * [![Thais027](https://www.clubedohardware.com.br/uploads/members/monthly_2024_09/imported-photo-1253214.thumb.jpeg.77274b20615fb81706a0b17b283606ac.jpeg)](https://www.clubedohardware.com.br/profile/1253214-thais027/ "Ir ao perfil de Thais027")
-        
-        0
-        
-        [Superaquecimento após colocar water cooler](https://www.clubedohardware.com.br/forums/topic/1697601-superaquecimento-ap%C3%B3s-colocar-water-cooler/?do=getNewComment "Superaquecimento após colocar water cooler")
-        
-        [Refrigeração e superaquecimento](https://www.clubedohardware.com.br/forums/forum/155-refrigera%C3%A7%C3%A3o-e-superaquecimento/ "Refrigeração e superaquecimento")  
-        Por [Thais027](https://www.clubedohardware.com.br/profile/1253214-thais027/ "Ir ao perfil de Thais027")  
-        3 horas atrás
-        
-    * [![SparkBr](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%236279c4%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3ES%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/761625-sparkbr/ "Ir ao perfil de SparkBr")
-        
-        0
-        
-        [PC para Trabalho e Jogos](https://www.clubedohardware.com.br/forums/topic/1697600-pc-para-trabalho-e-jogos/?do=getNewComment "PC para Trabalho e Jogos")
-        
-        [Montagem e upgrade de computadores de mesa](https://www.clubedohardware.com.br/forums/forum/93-montagem-e-upgrade-de-computadores-de-mesa/ "Montagem e upgrade de computadores de mesa")  
-        Por [SparkBr](https://www.clubedohardware.com.br/profile/761625-sparkbr/ "Ir ao perfil de SparkBr")  
-        4 horas atrás
-        
-    * [![Vivente29](https://www.clubedohardware.com.br/uploads/members/monthly_2024_09/imported-photo-1253159.thumb.png.203eefff976f4c082ed58648677097bf.png)](https://www.clubedohardware.com.br/profile/1253159-vivente29/ "Ir ao perfil de Vivente29")
-        
-        0
-        
-        [Qual fonte para GeForce RTX 4060Ti e Ryzen 7 5700X3D?](https://www.clubedohardware.com.br/forums/topic/1697599-qual-fonte-para-geforce-rtx-4060ti-e-ryzen-7-5700x3d/?do=getNewComment "Qual fonte para GeForce RTX 4060Ti e Ryzen 7 5700X3D?")
-        
-        [Fontes e energia](https://www.clubedohardware.com.br/forums/forum/153-fontes-e-energia/ "Fontes e energia")  
-        Por [Vivente29](https://www.clubedohardware.com.br/profile/1253159-vivente29/ "Ir ao perfil de Vivente29")  
-        5 horas atrás
-        
-    * [![Rian-cesar](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/imported-photo-1246387.thumb.jpeg.4aa35317e4b9f00e10b617523afe9450.jpeg)](https://www.clubedohardware.com.br/profile/1246387-rian-cesar/ "Ir ao perfil de Rian-cesar")
-        
-        0
-        
-        [PC entra no windows só com 1 ou 2 procees cores](https://www.clubedohardware.com.br/forums/topic/1697597-pc-entra-no-windows-s%C3%B3-com-1-ou-2-procees-cores/?do=getNewComment "PC entra no windows só com 1 ou 2 procees cores")
-        
-        [Processadores](https://www.clubedohardware.com.br/forums/forum/43-processadores/ "Processadores")  
-        Por [Rian-cesar](https://www.clubedohardware.com.br/profile/1246387-rian-cesar/ "Ir ao perfil de Rian-cesar")  
-        5 horas atrás
-        
-    * [![Gustavo Valente](https://www.clubedohardware.com.br/uploads/members/monthly_2023_10/download_compressed.thumb.png.827a89a5035bf0796ae5c3a9a71d8d78.png)](https://www.clubedohardware.com.br/profile/1083585-gustavo-valente/ "Ir ao perfil de Gustavo Valente")
-        
-        0
-        
-        [Barulho saindo da placa de Vídeo](https://www.clubedohardware.com.br/forums/topic/1697596-barulho-saindo-da-placa-de-v%C3%ADdeo/?do=getNewComment "Barulho saindo da placa de Vídeo")
-        
-        [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
-        Por [Gustavo Valente](https://www.clubedohardware.com.br/profile/1083585-gustavo-valente/ "Ir ao perfil de Gustavo Valente")  
-        5 horas atrás
-        
-    * [![RM30](https://www.clubedohardware.com.br/uploads/members/monthly_2021_09/317328653_Snoopy5kb.thumb.png.1c6696b8fd313f7633fd81cb656be988.png)](https://www.clubedohardware.com.br/profile/1172064-rm30/ "Ir ao perfil de RM30")
-        
-        0
-        
-        [Ventilador/fan da GTX 1060 6GB prendendo/endurecido](https://www.clubedohardware.com.br/forums/topic/1697591-ventiladorfan-da-gtx-1060-6gb-prendendoendurecido/?do=getNewComment "Ventilador/fan da GTX 1060 6GB prendendo/endurecido")
-        
-        [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
-        Por [RM30](https://www.clubedohardware.com.br/profile/1172064-rm30/ "Ir ao perfil de RM30")  
-        5 horas atrás
-        
-    * [![douglas m rocha](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%2362c4a5%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EDM%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1191914-douglas-m-rocha/ "Ir ao perfil de douglas m rocha")
-        
-        0
-        
-        [Jogo Tomb raider 2013 alto uso de CPU](https://www.clubedohardware.com.br/forums/topic/1697587-jogo-tomb-raider-2013-alto-uso-de-cpu/?do=getNewComment "Jogo Tomb raider 2013 alto uso de CPU")
-        
-        [Jogos](https://www.clubedohardware.com.br/forums/forum/104-jogos/ "Jogos")  
-        Por [douglas m rocha](https://www.clubedohardware.com.br/profile/1191914-douglas-m-rocha/ "Ir ao perfil de douglas m rocha")  
-        6 horas atrás
+        7 horas atrás
         
     
 
@@ -390,10 +390,10 @@ Clube do Hardware [Powered by Invision Community](https://www.invisioncommunity.
 
 * Criar novo...
 
-[![Ebook grátis: Aprenda a ler resistores e capacitores!](https://www.clubedohardware.com.br/uploads/attachments/monthly_2021_01/Aprenda_a_Ler_Resistores_e_Capacitores-capa-3d-newsletter.thumb.jpg.8e89ae55e5231cd11f4fddb26b4d3aeb.jpg)](http://bit.ly/aprenda-resitores-capacitores "Ebook grátis: Aprenda a ler resistores e capacitores!")
+[![GRÁTIS: ebook Redes Wi-Fi – 2ª Edição](https://www.clubedohardware.com.br/uploads/attachments/monthly_2023_04/redes-wifi2-capa-popup.jpg.808b72677a2bc3ea7b77c0c66fe6308b.jpg)](https://bit.ly/redes-wi-fi "GRÁTIS: ebook Redes Wi-Fi – 2ª Edição")
 
 **EBOOK GRÁTIS!**
 
-[**CLIQUE AQUI E BAIXE AGORA MESMO!**](http://bit.ly/aprenda-resitores-capacitores "Ebook grátis: Aprenda a ler resistores e capacitores!")
+[**CLIQUE AQUI E BAIXE AGORA MESMO!**](https://bit.ly/redes-wi-fi "GRÁTIS: ebook Redes Wi-Fi – 2ª Edição")
 
 ![](https://www.facebook.com/tr?id=1945334499261173&ev=PageView&noscript=1)
