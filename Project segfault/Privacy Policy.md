@@ -73,4 +73,4 @@ To remove data that has been stored in the website's database, you can use the [
 
 [Released under the AGPLv3 on GitHub.](https://github.com/iv-org/invidious/blob/master/LICENSE) [View JavaScript license information.](https://invidious.projectsegfau.lt/licenses) [View privacy policy.](https://invidious.projectsegfau.lt/privacy)
 
-[Donate](https://invidious.io/donate/) Current version: 2024.08.26-4782a67 @ master
+[Donate](https://invidious.io/donate/) Current version: 2024.09.17-cec3cfb @ master
