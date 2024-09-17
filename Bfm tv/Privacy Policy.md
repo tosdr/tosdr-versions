@@ -6,7 +6,6 @@ Radio](https://www.bfmtv.com/en-direct/bfm-radio/ "Direct Radio")[![Direct tv](/
 
 DirectTV](https://www.bfmtv.com/en-direct/ "Direct tv")
 
-*  [Paris 2024](https://rmcsport.bfmtv.com/jeux-olympiques/ "Paris 2024")
 * [Vidéos](https://www.bfmtv.com/videos/ "Vidéos")
 * [Politique](https://www.bfmtv.com/politique/ "Politique")
 * [Police-Justice](https://www.bfmtv.com/police-justice/ "Police-Justice")
@@ -14,6 +13,7 @@ DirectTV](https://www.bfmtv.com/en-direct/ "Direct tv")
 * [Société](https://www.bfmtv.com/societe/ "Société")
 * [Économie](https://www.bfmtv.com/economie/ "Économie")
 * [Tech](https://www.bfmtv.com/tech/ "Tech")
+* [Auto](https://www.bfmtv.com/auto/ "Auto")
 * [Sport](https://rmcsport.bfmtv.com/ "Sport")
 * [Santé](https://www.bfmtv.com/sante/ "Santé")
 * [People](https://www.bfmtv.com/people/ "People")
@@ -36,7 +36,6 @@ Replay BFMTV](https://www.rmcbfmplay.com/chaine/bfm-tv?subMenuId=RefMenuItem::rm
 
 À la une
 
-* [Paris 2024](https://rmcsport.bfmtv.com/jeux-olympiques/ "Paris 2024")
 * [Élection américaine 2024](https://www.bfmtv.com/international/amerique-nord/etats-unis/elections-americaines/ "Élection américaine 2024")
 
 Parcourir
@@ -329,9 +328,9 @@ _Date dernière mise à jour : Juin 2024_
 Les plus lus
 ------------
 
-1. [![Croquis d'audience montrant Dominique Pelicot quittant la salle son box du tribunal d'Avignon, le 11 septembre 2024](https://images.bfmtv.com/WC-L2eXiSEqL_KrJxMZYrTSTicg=/0x93:768x525/300x0/images/Croquis-d-audience-montrant-Dominique-Pelicot-quittant-la-salle-son-box-du-tribunal-d-Avignon-le-11-septembre-2024-1934842.jpg)
+1. [![Croquis d'audience montrant Dominique Pelicot quittant la salle son box du tribunal d'Avignon, le 11 septembre 2024](https://images.bfmtv.com/wVuWKrfrzdcnDi9z0WY_TzbiXvY=/0x93:768x525/300x0/images/Croquis-d-audience-montrant-Dominique-Pelicot-quittant-la-salle-son-box-du-tribunal-d-Avignon-le-11-septembre-2024-1934842.webp)
     
-    ![Croquis d'audience montrant Dominique Pelicot quittant la salle son box du tribunal d'Avignon, le 11 septembre 2024](https://images.bfmtv.com/WC-L2eXiSEqL_KrJxMZYrTSTicg=/0x93:768x525/300x0/images/Croquis-d-audience-montrant-Dominique-Pelicot-quittant-la-salle-son-box-du-tribunal-d-Avignon-le-11-septembre-2024-1934842.jpg)
+    ![Croquis d'audience montrant Dominique Pelicot quittant la salle son box du tribunal d'Avignon, le 11 septembre 2024](https://images.bfmtv.com/wVuWKrfrzdcnDi9z0WY_TzbiXvY=/0x93:768x525/300x0/images/Croquis-d-audience-montrant-Dominique-Pelicot-quittant-la-salle-son-box-du-tribunal-d-Avignon-le-11-septembre-2024-1934842.webp)
     
     ### Une prise en charge de Dominique Pelicot "retardée"? Comment sont soignés les détenus en France](https://www.bfmtv.com/police-justice/une-prise-en-charge-de-dominique-pelicot-retardee-comment-sont-soignes-les-detenus-en-france_AV-202409160830.html "Une prise en charge de Dominique Pelicot "retardée"? Comment sont soignés les détenus en France")
 2. [### Comment expliquer l'intensité et l'ampleur de la tempête Boris qui dévaste une partie de l'Europe](https://www.bfmtv.com/international/europe/comment-expliquer-l-intensite-et-l-ampleur-de-la-tempete-boris-qui-devaste-une-partie-de-l-europe_AV-202409160987.html "Comment expliquer l'intensité et l'ampleur de la tempête Boris qui dévaste une partie de l'Europe")
