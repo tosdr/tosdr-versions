@@ -210,11 +210,11 @@ Recently Played
 
 |     |
 | --- |
-| Dust On The BottleDavid Lee Murphy<br><br>4:57am |
-| Where It'S AtDustin Lynch<br><br>4:53am |
-| Miles On ItKane Brown Ft Marshmello<br><br>4:50am |
-| Pink SkiesZach Bryan<br><br>4:47am |
-| I Ain'T Sayin'Jordan Davis<br><br>4:44am |
+| The Good OnesGabby Barrett<br><br>11:40am |
+| Tucson Too LateJordan Davis<br><br>11:37am |
+| Lies, Lies, LiesMorgan Wallen<br><br>11:34am |
+| World On FireNate Smith<br><br>11:31am |
+| Friends In Low PlacesGarth Brooks<br><br>11:27am |
 
 [View Full Playlist](https://www.987thebull.com/recently-played)
 
@@ -370,9 +370,9 @@ Top 40 • Eastern
 
 Top 40 • Pacific NW
 
-[![Bay Country Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/BayCountry-BothFrequencies-DK%20(2).png)](https://www.kbaycountry.com/)
+[![Latino 106.3 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBMG.png)](https://www.latinosaltlake.com/)
 
-Country • Western
+Spanish • Western
 
 [](https://www.alphamediausa.com/)
 
