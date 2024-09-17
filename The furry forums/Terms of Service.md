@@ -17,12 +17,12 @@ Login with username, password and session length
 News:
 -----
 
-**Any thread that is unlocked** is free to be posted in! Threads are not considered "dead" until they are locked.
+All forum announcements and updates are posted [here](https://www.thefurryforum.com/forums/index.php?board=17.0)!
 
   
   
 
-[![Juliet](adverts/juliet.png "Juliet")](https://www.furaffinity.net/user/julietthewhitewitch)
+[![WingedZephyr](adverts/zeph.gif "WingedZephyr")](http://www.furaffinity.net/user/wingedzephyr)
 
   
 
