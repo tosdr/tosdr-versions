@@ -21,7 +21,7 @@
 * [Trainings By StateExpand](#)
     * [Utah](https://respons-ability.net/digital-citizenship-training-in-utah/)
     * [New Mexico](https://respons-ability.net/digital-citizenship-training-in-new-mexico/)
-* [Shop](https://respons-ability.net/books-on-digital-citizenship/)
+* [Shop](https://respons-ability.net/shop/)
 
 [Contact Us](https://respons-ability.net/contact)
 
@@ -189,4 +189,4 @@ Effective as of November 02, 2022
     
     * [Utah](https://respons-ability.net/digital-citizenship-training-in-utah/)
     * [New Mexico](https://respons-ability.net/digital-citizenship-training-in-new-mexico/)
-* [Shop](https://respons-ability.net/books-on-digital-citizenship/)
+* [Shop](https://respons-ability.net/shop/)
