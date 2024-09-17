@@ -148,29 +148,6 @@ For further information regarding the applicable laws, regulations, and policies
 
 [![ISO 9001:2015 + AS9120B Certified Supplier](https://aerobasegroup.com/public/images/AS9120_ISO_9001.png "ISO 9001:2015 + AS9120B")](https://aerobasegroup.com/quality)
 
-#### Defense News
-
-* [AC-130J lands at Kirtland as US Air Force streamlines gunship training](https://www.defensenews.com/air/2024/09/16/ac-130j-lands-at-kirtland-as-us-air-force-streamlines-gunship-training/)  
-    09/16/24 07:00pm  
-    
-    The 58th Special Operations Wing at Kirtland Air Force Base, New Mexico, celebrated the arrival of the AC-130J Ghostrider in a Sept. 5 ceremony. (Senior Airman Karissa Dick/U.S. Air Force)
-    
-* [Houthi rebels claim they shot down another US MQ-9 Reaper drone](https://www.defensenews.com/news/your-military/2024/09/16/houthi-rebels-claim-they-shot-down-another-us-mq-9-reaper-drone/)  
-    09/16/24 01:04pm  
-    
-    A Reaper drone flies during training in Nevada. Yemen's Houthi rebels claim they downed another Reaper drone. (Senior Airman Haley Stevens/U.S. Air Force)
-    
-* [New Zealand Air Force receives first Super Hercules cargo plane](https://www.defensenews.com/global/asia-pacific/2024/09/16/new-zealand-air-force-receives-first-super-hercules-cargo-plane/)  
-    09/16/24 12:31pm  
-    
-    The first C-130J-30 Super Hercules transport aircraft of the Royal New Zealand Air Force arrived Air Force Base Auckland, Whenuapai, on Sept. 4, 2024. (NZDF)
-    
-* [Personnel shortages may force US Air Force pilots to fly non-fighters](https://www.defensenews.com/smr/air-warfare/2024/09/16/personnel-shortages-may-force-us-air-force-pilots-to-fly-non-fighters/)  
-    09/16/24 10:00am  
-    
-    Instructor pilots and a student fly a training sortie in two T-38C Talons, August 2024. (Senior Airman Ashley Crist/U.S. Air Force)
-    
-
 Recent parts by keyword  
 
 The AeroBase Group Family ..
