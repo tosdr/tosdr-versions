@@ -68,6 +68,16 @@ FOX SCORES
     | BRI | –   |
     
     Match Centre](https://www.foxsports.com.au/afl/match-centre/AFL20242702)
+* [AFL Women's
+    
+    17/9 19:15 AEST
+    
+    |     |     |
+    | --- | --- |
+    | COL | –   |
+    | WCE | –   |
+    
+    Match Centre](https://www.foxsports.com.au/afl/aflw/match-centre/AFLW20240401)
 * Netball
     
 * Women's Tests
@@ -79,16 +89,38 @@ FOX SCORES
     | AUS | –   |
     | ENG | –   |
     
+* Cricket
+    
+* [Women's T20I
+    
+    RSA won by 10 runs
+    
+    |     |     |
+    | --- | --- |
+    | PAK | 5 /122 |
+    | RSA | 4 /132 |
+    
+    Match Centre](https://www.foxsports.com.au/cricket/match-centre/WT20I20241501)
+* [Men's ODI
+    
+    CAN won by 103 runs
+    
+    |     |     |
+    | --- | --- |
+    | CAN | 8 /253 |
+    | NEP | 150 |
+    
+    Match Centre](https://www.foxsports.com.au/cricket/match-centre/ODI20240501)
 * NFL
     
 * [NFL
     
-    17/9 10:15 AEST
+    Half Time
     
     |     |     |
     | --- | --- |
-    | PHI | –   |
-    | ATL | –   |
+    | PHI | 7   |
+    | ATL | 6   |
     
     Match Centre](https://www.foxsports.com.au/gridiron/nfl/match-centre/NFL2024-250216)
 * Motorsport
@@ -125,6 +157,16 @@ FOX SCORES
     | NZL | –   |
     
     Match Centre](https://www.foxsports.com.au/rugby/the-rugby-championship/match-centre/RTN20240501)
+* [Rugby Champs
+    
+    22/9 7:00 AEST
+    
+    |     |     |
+    | --- | --- |
+    | ARG | –   |
+    | RSA | –   |
+    
+    Match Centre](https://www.foxsports.com.au/rugby/the-rugby-championship/match-centre/RTN20240502)
 
 [Go to All Scores](https://www.foxsports.com.au/score-centre/)
 
