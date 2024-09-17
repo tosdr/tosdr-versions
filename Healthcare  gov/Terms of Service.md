@@ -60,6 +60,7 @@ Search icon
         * [Health coverage & your taxes](https://www.healthcare.gov/taxes)
         * [Tax Form 1095-A](https://www.healthcare.gov/tax-form-1095)
         * ['Reconcile' tax credit](https://www.healthcare.gov/taxes-reconciling)
+    * [Browse all topics](https://www.healthcare.gov/topics)
 * [Get Answers](https://www.healthcare.gov/get-answers)
 
 * [Español](https://www.cuidadodesalud.gov/es/terms-and-conditions/)
@@ -127,11 +128,11 @@ Taxes
 
 Featured
 
-![parents holding baby](/assets/learn/static/featured/parents-with-baby-resized.jpg "parents holding baby")
+![](/assets/learn/static/featured/smiling-friends-group.jpg "Smiling group of friends")
 
-Find out if you qualify for a Special Enrollment Period
+2025 Open Enrollment starts soon
 
-[Open Enrollment is over, but you may still be able to get or change health coverage for this year.](https://www.healthcare.gov/coverage-outside-open-enrollment/your-options/)
+[Open Enrollment for 2025 runs November 1, 2024–January 15, 2025. Get Open Enrollment tips.](https://www.healthcare.gov/quick-guide/)
 
 [Get Answers](https://www.healthcare.gov/get-answers/)
 
@@ -140,11 +141,11 @@ Search
 Terms & Conditions
 ==================
 
-[Email](mailto:?subject=Terms%20%26%20Conditions&body=https%3A%2F%2Fwww.healthcare.gov%2Fterms-and-conditions%2F)Print
+[Email this pageEmail](mailto:?subject=Terms%20%26%20Conditions&body=https%3A%2F%2Fwww.healthcare.gov%2Fterms-and-conditions%2F)Print this pagePrint
 
 So that HealthCare.gov remains accurate and available to you and all other visitors, we monitor network traffic to identify unauthorized attempts to upload or change information or otherwise cause damage to this web service. Use of HealthCare.gov constitutes consent to such monitoring and auditing. Unauthorized attempts to upload information and/or change information on this website are strictly prohibited and are subject to prosecution under the Computer Fraud and Abuse Act of 1986 and Title 18 U.S.C. Sec.1001 and 1030.
 
-[Email](mailto:?subject=Terms%20%26%20Conditions&body=https%3A%2F%2Fwww.healthcare.gov%2Fterms-and-conditions%2F)Print
+[Email this pageEmail](mailto:?subject=Terms%20%26%20Conditions&body=https%3A%2F%2Fwww.healthcare.gov%2Fterms-and-conditions%2F)Print this pagePrint
 
 [Back to top](#top)
 
