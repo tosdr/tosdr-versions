@@ -176,6 +176,14 @@ See also: [BCG's privacy policy](https://www.comedy.co.uk/info/privacy/)
 
 ### See also
 
+[![Mark Thomas. Credit: Alex Brenner](https://cdn.comedy.co.uk/images/library/people/300x200/m/mark_thomas_england_and_son.jpg "Mark Thomas. Credit: Alex Brenner")](https://www.comedy.co.uk/live/circuit_training/mark-thomas-2024-interview/) Live
+
+[Circuit Training: The Mark Thomas Back-to-Comedy Project](https://www.comedy.co.uk/live/circuit_training/mark-thomas-2024-interview/)
+
+[![Katie Norris](https://cdn.comedy.co.uk/images/library/people/300x200/k/katie_norris_farm.jpg "Katie Norris")](https://www.comedy.co.uk/live/random8/katie-norris/) Live
+
+[Random 8: Katie Norris](https://www.comedy.co.uk/live/random8/katie-norris/)
+
 [![Clockwise. Brian Stimpson (John Cleese)](https://cdn.comedy.co.uk/images/library/comedies/300x200/c/clockwise_watch.jpg "Clockwise. Brian Stimpson (John Cleese)")](https://www.comedy.co.uk/features/comedy-rewind/clockwise/) Features
 
 [Comedy Rewind: Keeping time with Clockwise](https://www.comedy.co.uk/features/comedy-rewind/clockwise/)
@@ -183,14 +191,6 @@ See also: [BCG's privacy policy](https://www.comedy.co.uk/info/privacy/)
 [![Emma Doran](https://cdn.comedy.co.uk/images/library/people/300x200/e/emma_doran.jpg "Emma Doran")](https://www.comedy.co.uk/live/fgwg/emma-doran/) Live
 
 [First Gig, Worst Gig: Emma Doran](https://www.comedy.co.uk/live/fgwg/emma-doran/)
-
-[![Chris McCausland](https://cdn.comedy.co.uk/images/library/people/300x200/c/chris_mccausland_strictly_b.jpg "Chris McCausland")](https://www.comedy.co.uk/people/features/chris-mccausland-sarah-hadland-strictly-interview/) People
-
-[Chris McCausland and Sarah Hadland on Strictly Come Dancing](https://www.comedy.co.uk/people/features/chris-mccausland-sarah-hadland-strictly-interview/)
-
-[![Potted Panto. Image shows left to right: Daniel Clarkson, Jefferson Turner. Credit: Geraint Lewis](https://cdn.comedy.co.uk/images/library/misc/300x200/p/potted_panto.jpg "Potted Panto. Image shows left to right: Daniel Clarkson, Jefferson Turner. Credit: Geraint Lewis")](https://www.comedy.co.uk/live/features/potted-panto-interview/) Live
-
-[Preparing a perfect Potted Panto: Interview with Daniel Clarkson and Jefferson Turner](https://www.comedy.co.uk/live/features/potted-panto-interview/)
 
 #### Subscribe to our newsletters
 
