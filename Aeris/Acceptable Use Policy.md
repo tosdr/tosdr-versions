@@ -16,9 +16,7 @@ On Demand Webinar: Getting IoT Security Right [Watch it now](https://info.aeris.
 
 Search
 
-[![Aeris](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20200%2050'%3E%3C/svg%3E)
-
-![Aeris](https://www.aeris.com/wp-content/uploads/2022/01/aeris-logo.svg)](https://www.aeris.com/)
+[![Aeris](https://www.aeris.com/wp-content/uploads/2022/01/aeris-logo.svg)](https://www.aeris.com/)
 
 * [Secure IoT Platforms](https://www.aeris.com/iot/)
     * * * [Secure IoT Platforms](https://www.aeris.com/iot/)
@@ -163,7 +161,7 @@ Sign up to receive weekly roundups of the latest news and trends with IoT Connec
 
 Email Address(Required)
 
-Comments
+Email
 
 This field is for validation purposes and should be left unchanged.
 
@@ -226,28 +224,3 @@ This field is for validation purposes and should be left unchanged.
 [Visit our Facebook page](https://www.facebook.com/AerisCommunications/) [Visit our Twitter page](https://twitter.com/AerisM2M?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor) [Visit our Linkedin page](https://www.linkedin.com/company/aeris-communications)
 
 [Back to top](#)
-
-Join Aeris Partner Network
---------------------------
-
-First Name\*(Required)
-
-Last Name\*(Required)
-
-Company Name\*(Required)
-
-Job Title\*(Required)
-
-Business Email\*(Required)
-
-Phone Number\*(Required)
-
-Country\*(Required)
-
-United StatesUnited KingdomCanadaIndiaAfghanistanAland IslandsAlbaniaAlgeriaAndorraAngolaAnguillaAntarcticaAntigua and BarbudaArgentinaArmeniaArubaAustraliaAustriaAzerbaijanBahamasBahrainBangladeshBarbadosBelarusBelgiumBelizeBeninBermudaBhutanBolivia, Plurinational State ofBonaire, Sint Eustatius and SabaBosnia and HerzegovinaBotswanaBouvet IslandBrazilBritish Indian Ocean TerritoryBrunei DarussalamBulgariaBurkina FasoBurundiCambodiaCameroonCape VerdeCayman IslandsCentral African RepublicChadChileChinaChristmas IslandCocos (Keeling) IslandsColombiaComorosCongoCongo, the Democratic Republic of theCook IslandsCosta RicaCote d'IvoireCroatiaCubaCuraçaoCyprusCzech RepublicDenmarkDjiboutiDominicaDominican RepublicEcuadorEgyptEl SalvadorEquatorial GuineaEritreaEstoniaEthiopiaFalkland Islands (Malvinas)Faroe IslandsFijiFinlandFranceFrench GuianaFrench PolynesiaFrench Southern TerritoriesGabonGambiaGeorgiaGermanyGhanaGibraltarGreeceGreenlandGrenadaGuadeloupeGuatemalaGuernseyGuineaGuinea-BissauGuyanaHaitiHeard Island and McDonald IslandsHoly See (Vatican City State)HondurasHungaryIcelandIndonesiaIran, Islamic Republic ofIraqIrelandIsle of ManIsraelItalyJamaicaJapanJerseyJordanKazakhstanKenyaKiribatiKorea, Democratic People's Republic ofKorea, Republic ofKuwaitKyrgyzstanLao People's Democratic RepublicLatviaLebanonLesothoLiberiaLibyaLiechtensteinLithuaniaLuxembourgMacaoMacedonia, the former Yugoslav Republic ofMadagascarMalawiMalaysiaMaldivesMaliMaltaMartiniqueMauritaniaMauritiusMayotteMexicoMoldova, Republic ofMonacoMongoliaMontenegroMontserratMoroccoMozambiqueMyanmarNamibiaNauruNepalNetherlandsNew CaledoniaNew ZealandNicaraguaNigerNigeriaNiueNorfolk IslandNorwayOmanPakistanPalestinePanamaPapua New GuineaParaguayPeruPhilippinesPitcairnPolandPortugalQatarReunionRomaniaRussian FederationRwandaSaint BarthélemySaint Helena, Ascension and Tristan da CunhaSaint Kitts and NevisSaint LuciaSaint Martin (French part)Saint Pierre and MiquelonSaint Vincent and the GrenadinesSamoaSan MarinoSao Tome and PrincipeSaudi ArabiaSenegalSerbiaSeychellesSierra LeoneSingaporeSint Maarten (Dutch part)SlovakiaSloveniaSolomon IslandsSomaliaSouth AfricaSouth Georgia and the South Sandwich IslandsSouth SudanSpainSri LankaSudanSurinameSvalbard and Jan MayenSwazilandSwedenSwitzerlandSyrian Arab RepublicTaiwanTajikistanTanzania, United Republic ofThailandTimor-LesteTogoTokelauTongaTrinidad and TobagoTunisiaTurkeyTurkmenistanTurks and Caicos IslandsTuvaluUgandaUkraineUnited Arab EmiratesUruguayUzbekistanVanuatuVenezuela, Bolivarian Republic ofVietnamVirgin Islands, BritishWallis and FutunaWestern SaharaYemenZambiaZimbabwe
-
-Message\*(Required)
-
-       
-
-Δ
