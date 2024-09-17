@@ -6,7 +6,7 @@ Cancel
 
 * It seems that there's no more results to display.
 
-* About us [Contact us](https://www.quadient.com/en/contact-us)[eShop](https://shop.quadient.com/)[Myquadient](https://www.myquadient.com/US/en_US/CustomerLogin)
+* About us [Myquadient](https://www.myquadient.com/US/en_US/CustomerLogin) [Contact us](https://www.quadient.com/en/contact-us)[eShop](https://shop.quadient.com/)
     
     ![English](/images/icon-us.png)
     
