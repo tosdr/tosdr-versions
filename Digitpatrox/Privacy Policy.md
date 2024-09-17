@@ -16,20 +16,20 @@
 * [Switch skin](# "Switch skin")
 * [Search for](#)
 
-Monday, September 16 2024
+Tuesday, September 17 2024
 
 Latest
 
-* [T-Mobile’s VM logs allegedly leaked in 20 GB Capgemini data breach](https://digitpatrox.com/t-mobiles-vm-logs-allegedly-leaked-in-20-gb-capgemini-data-breach/)
-* [How macOS Sequoia can help you at work – Computerworld](https://digitpatrox.com/how-macos-sequoia-can-help-you-at-work-computerworld/)
-* [You Can Get a Membership to BJ’s for Practically Free Right Now](https://digitpatrox.com/you-can-get-a-membership-to-bjs-for-practically-free-right-now/)
-* [David’s Bridal notifies staff and customers of data breach following two ransomware attacks](https://digitpatrox.com/davids-bridal-notifies-staff-and-customers-of-data-breach-following-two-ransomware-attacks/)
-* [How to check if an app is 64-bit or 32-bit on Windows 11, 10](https://digitpatrox.com/how-to-check-if-an-app-is-64-bit-or-32-bit-on-windows-11-10/)
-* [Best Double Strollers of 2024](https://digitpatrox.com/best-double-strollers-of-2024/)
-* [Microsoft Edge Isn’t Getting That Cool Redesign](https://digitpatrox.com/microsoft-edge-isnt-getting-that-cool-redesign/)
-* [What is a cloud server?](https://digitpatrox.com/what-is-a-cloud-server/)
-* [DuckDuckGo Joins AI Chat, Promises Enhanced Anonymity](https://digitpatrox.com/duckduckgo-joins-ai-chat-promises-enhanced-anonymity/)
-* [Swiss Safe 2-in-1 Roadside Car Emergency Kit review](https://digitpatrox.com/swiss-safe-2-in-1-roadside-car-emergency-kit-review/)
+* [ITPro IBC2024 Best of Show award winner revealed](https://digitpatrox.com/itpro-ibc2024-best-of-show-award-winner-revealed/)
+* [Slack opens up to third-party AI ‘agents’ – Computerworld](https://digitpatrox.com/slack-opens-up-to-third-party-ai-agents-computerworld/)
+* [You Can Get This MacBook Pro on Sale for $400 Right Now](https://digitpatrox.com/you-can-get-this-macbook-pro-on-sale-for-400-right-now/)
+* [Vendor Spotlight: Guardz](https://digitpatrox.com/vendor-spotlight-guardz/)
+* [Windows 10 Home and Pro ISO files for 32- and 64-bit PCs ready for download](https://digitpatrox.com/windows-10-home-and-pro-iso-files-for-32-and-64-bit-pcs-ready-for-download/)
+* [Best Side-by-Side Refrigerators of 2024](https://digitpatrox.com/best-side-by-side-refrigerators-of-2024/)
+* [How to Use Game Mode on Your iPhone or iPad (and What It Does)](https://digitpatrox.com/how-to-use-game-mode-on-your-iphone-or-ipad-and-what-it-does/)
+* [Microsoft Microsoft 365 Copilot Wave 2 Adds Online Canvas Feature](https://digitpatrox.com/microsoft-microsoft-365-copilot-wave-2-adds-online-canvas-feature/)
+* [The copycats cometh — 3 Android phone makers announce iPhone 16-esque camera control buttons](https://digitpatrox.com/the-copycats-cometh-3-android-phone-makers-announce-iphone-16-esque-camera-control-buttons/)
+* [Tile’s new AirTag competitors now double as panic buttons](https://digitpatrox.com/tiles-new-airtag-competitors-now-double-as-panic-buttons/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,35 +171,35 @@ Popular Posts
     4 weeks ago
     
 
-* [![](https://cdn.mos.cms.futurecdn.net/j4WJqHzN3GRQ9JZFiaSYPi-1200-80.jpg)](https://digitpatrox.com/t-mobiles-vm-logs-allegedly-leaked-in-20-gb-capgemini-data-breach/)
+* [![](https://cdn.mos.cms.futurecdn.net/iaZNYPKU7yyE9XsTDJFXsS-1200-80.jpg)](https://digitpatrox.com/itpro-ibc2024-best-of-show-award-winner-revealed/)
     
-    [T-Mobile’s VM logs allegedly leaked in 20 GB Capgemini data breach](https://digitpatrox.com/t-mobiles-vm-logs-allegedly-leaked-in-20-gb-capgemini-data-breach/)
-    
-    8 mins ago
-    
-* [![](https://www.computerworld.com/wp-content/uploads/2024/09/3523727-0-99161700-1726509638-Apple-WWDC24-macOS-Sequoia-hero-240610.jpg?quality=50&strip=all&w=1024)](https://digitpatrox.com/how-macos-sequoia-can-help-you-at-work-computerworld/)
-    
-    [How macOS Sequoia can help you at work – Computerworld](https://digitpatrox.com/how-macos-sequoia-can-help-you-at-work-computerworld/)
-    
-    31 mins ago
-    
-* [![](https://lifehacker.com/imagery/articles/01J023D5V43DCCBAGZQ9TF76VD/hero-image.fill.size_1200x675.jpg)](https://digitpatrox.com/you-can-get-a-membership-to-bjs-for-practically-free-right-now/)
-    
-    [You Can Get a Membership to BJ’s for Practically Free Right Now](https://digitpatrox.com/you-can-get-a-membership-to-bjs-for-practically-free-right-now/)
-    
-    56 mins ago
-    
-* [![](https://cdn.comparitech.com/wp-content/uploads/2024/09/davids-bridal-data-breach.jpg)](https://digitpatrox.com/davids-bridal-notifies-staff-and-customers-of-data-breach-following-two-ransomware-attacks/)
-    
-    [David’s Bridal notifies staff and customers of data breach following two ransomware attacks](https://digitpatrox.com/davids-bridal-notifies-staff-and-customers-of-data-breach-following-two-ransomware-attacks/)
+    [ITPro IBC2024 Best of Show award winner revealed](https://digitpatrox.com/itpro-ibc2024-best-of-show-award-winner-revealed/)
     
     1 hour ago
     
-* [![](https://pureinfotech.com/wp-content/uploads/2020/05/windows-11-check-app-32-64-bit-hero-mauro-huculak.webp)](https://digitpatrox.com/how-to-check-if-an-app-is-64-bit-or-32-bit-on-windows-11-10/)
+* [![](https://www.computerworld.com/wp-content/uploads/2024/09/3523812-0-97201600-1726513722-original.jpg?quality=50&strip=all&w=1024)](https://digitpatrox.com/slack-opens-up-to-third-party-ai-agents-computerworld/)
     
-    [How to check if an app is 64-bit or 32-bit on Windows 11, 10](https://digitpatrox.com/how-to-check-if-an-app-is-64-bit-or-32-bit-on-windows-11-10/)
+    [Slack opens up to third-party AI ‘agents’ – Computerworld](https://digitpatrox.com/slack-opens-up-to-third-party-ai-agents-computerworld/)
     
     1 hour ago
+    
+* [![](https://lifehacker.com/imagery/articles/01J4ADX16KS8JBGYV1XZCE23EC/hero-image.fill.size_1200x675.png)](https://digitpatrox.com/you-can-get-this-macbook-pro-on-sale-for-400-right-now/)
+    
+    [You Can Get This MacBook Pro on Sale for $400 Right Now](https://digitpatrox.com/you-can-get-this-macbook-pro-on-sale-for-400-right-now/)
+    
+    2 hours ago
+    
+* [![](https://cdn.comparitech.com/wp-content/uploads/2024/09/Guardz-Vendor-Spotlight.jpeg)](https://digitpatrox.com/vendor-spotlight-guardz/)
+    
+    [Vendor Spotlight: Guardz](https://digitpatrox.com/vendor-spotlight-guardz/)
+    
+    2 hours ago
+    
+* [![](https://pureinfotech.com/wp-content/uploads/2015/07/windows-10-32-64-bit-download-hero-mauro-huculak.webp)](https://digitpatrox.com/windows-10-home-and-pro-iso-files-for-32-and-64-bit-pcs-ready-for-download/)
+    
+    [Windows 10 Home and Pro ISO files for 32- and 64-bit PCs ready for download](https://digitpatrox.com/windows-10-home-and-pro-iso-files-for-32-and-64-bit-pcs-ready-for-download/)
+    
+    2 hours ago
     
 
 ![](https://digitpatrox.com/wp-content/uploads/2023/12/Digitpatrox-NEW-Logo-White.png)
@@ -208,48 +208,48 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [8 mins ago
+* [1 hour ago
     
-    ### T-Mobile’s VM logs allegedly leaked in 20 GB Capgemini data breach](https://digitpatrox.com/t-mobiles-vm-logs-allegedly-leaked-in-20-gb-capgemini-data-breach/)
-* [31 mins ago
+    ### ITPro IBC2024 Best of Show award winner revealed](https://digitpatrox.com/itpro-ibc2024-best-of-show-award-winner-revealed/)
+* [1 hour ago
     
-    ### How macOS Sequoia can help you at work – Computerworld](https://digitpatrox.com/how-macos-sequoia-can-help-you-at-work-computerworld/)
-* [56 mins ago
+    ### Slack opens up to third-party AI ‘agents’ – Computerworld](https://digitpatrox.com/slack-opens-up-to-third-party-ai-agents-computerworld/)
+* [2 hours ago
     
-    ### You Can Get a Membership to BJ’s for Practically Free Right Now](https://digitpatrox.com/you-can-get-a-membership-to-bjs-for-practically-free-right-now/)
+    ### You Can Get This MacBook Pro on Sale for $400 Right Now](https://digitpatrox.com/you-can-get-this-macbook-pro-on-sale-for-400-right-now/)
 
 Most Popular Topics
 
 * [3 weeks ago
     
-    ### Today’s Wordle Answer and Hints (August 28, 2024)](https://digitpatrox.com/todays-wordle-answer-and-hints-august-28-2024/)
-* [3 weeks ago
+    ### AI was responsible for the fake quotes in the Megalopolis trailer](https://digitpatrox.com/ai-was-responsible-for-the-fake-quotes-in-the-megalopolis-trailer/)
+* [1 week ago
     
-    ### Arc Search Browser Is Coming to Android Very Soon](https://digitpatrox.com/arc-search-browser-is-coming-to-android-very-soon/)
+    ### NYT Strands Today: Hints, Answers & Spangram for September 8](https://digitpatrox.com/nyt-strands-today-hints-answers-spangram-for-september-8/)
 * [4 weeks ago
     
-    ### Amazon discontinues Echo Show 8 Photos Edition less than a year after launch](https://digitpatrox.com/amazon-discontinues-echo-show-8-photos-edition-less-than-a-year-after-launch/)
+    ### The Best Smartphone Deals for August 2024](https://digitpatrox.com/the-best-smartphone-deals-for-august-2024/)
 
 Last Modified Topics
 
-* [1 hour ago
-    
-    ### Microsoft Edge Isn’t Getting That Cool Redesign](https://digitpatrox.com/microsoft-edge-isnt-getting-that-cool-redesign/)
 * [2 hours ago
     
-    ### What is a cloud server?](https://digitpatrox.com/what-is-a-cloud-server/)
-* [2 hours ago
+    ### How to Use Game Mode on Your iPhone or iPad (and What It Does)](https://digitpatrox.com/how-to-use-game-mode-on-your-iphone-or-ipad-and-what-it-does/)
+* [3 hours ago
     
-    ### DuckDuckGo Joins AI Chat, Promises Enhanced Anonymity](https://digitpatrox.com/duckduckgo-joins-ai-chat-promises-enhanced-anonymity/)
+    ### Microsoft Microsoft 365 Copilot Wave 2 Adds Online Canvas Feature](https://digitpatrox.com/microsoft-microsoft-365-copilot-wave-2-adds-online-canvas-feature/)
+* [4 hours ago
+    
+    ### The copycats cometh — 3 Android phone makers announce iPhone 16-esque camera control buttons](https://digitpatrox.com/the-copycats-cometh-3-android-phone-makers-announce-iphone-16-esque-camera-control-buttons/)
 
 Most Viewed Topics
 
 * [August 13, 2024
     
-    ### How to manage a road trip move](https://digitpatrox.com/how-to-manage-a-road-trip-move/)
-* [3 weeks ago
+    ### Best New-Car Deals – Consumer Reports](https://digitpatrox.com/best-new-car-deals-consumer-reports/)
+* [August 12, 2024
     
-    ### Getting Your iPhone Repaired Could Ban You From Snapchat](https://digitpatrox.com/getting-your-iphone-repaired-could-ban-you-from-snapchat/)
+    ### How to enable Do Not Track on your web browser for Windows](https://digitpatrox.com/how-to-enable-do-not-track-on-your-web-browser-for-windows/)
 * [4 weeks ago
     
     ### Wordle Answer for Today, August 21, 2024](https://digitpatrox.com/wordle-answer-for-today-august-21-2024/)
