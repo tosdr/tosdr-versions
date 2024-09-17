@@ -30,7 +30,7 @@ Subscribe
 
  ![Search](/theme_japantimes/images/search_icon.svg)
 
-* [Shohei Ohtani](https://www.japantimes.co.jp/tag/shohei-ohtani/ "Shohei Ohtani")
+* ['Shogun'](https://www.japantimes.co.jp/tag/shogun/ "'Shogun'")
 * [LDP RACE](https://www.japantimes.co.jp/tag/ldp/ "LDP RACE")
 * [Special series: Boiling Point](https://www.japantimes.co.jp/boiling-point/ "Special series: Boiling Point")
 * [Latest News](https://www.japantimes.co.jp/latest-news/ "Latest News")
@@ -479,9 +479,13 @@ Revised June 1, 2022
 
   [![Activists hold up symbolic eye masks during a protest against deepfake porn in Seoul on Aug. 30. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/13/420717.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Activists hold up symbolic eye masks during a protest against deepfake porn in Seoul on Aug. 30. ")](https://www.japantimes.co.jp/commentary/2024/09/13/world/south-korea-deepfake-porn-crisis/ "South Korea is facing deepfake porn crisis")
 
-[Floods bring travel chaos and damage across central Europe](https://www.japantimes.co.jp/news/2024/09/16/world/travel-damage-european-floods/ "Floods bring travel chaos and damage across central Europe")
+[‘The people I’d seen in kimono didn’t have as much melanin as I do’](https://www.japantimes.co.jp/community/2024/09/16/our-lives/kimono-instructor-license-black-women-japan/ "‘The people I’d seen in kimono didn’t have as much melanin as I do’")
 
-  [![A road is flooded after heavy rainfall in the municipality of Neulengbach, in northeast Austria, on Sunday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/16/421899.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "A road is flooded after heavy rainfall in the municipality of Neulengbach, in northeast Austria, on Sunday.")](https://www.japantimes.co.jp/news/2024/09/16/world/travel-damage-european-floods/ "Floods bring travel chaos and damage across central Europe")
+  [![American Kara Harris is on the verge of attaining a high-level certification in the world of kimono — and may possibly be the first Black woman to do so.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/13/421162.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "American Kara Harris is on the verge of attaining a high-level certification in the world of kimono — and may possibly be the first Black woman to do so.")](https://www.japantimes.co.jp/community/2024/09/16/our-lives/kimono-instructor-license-black-women-japan/ "‘The people I’d seen in kimono didn’t have as much melanin as I do’")
+
+[‘Shogun’ and the painstaking art of ‘getting it right’](https://www.japantimes.co.jp/culture/2024/09/16/tv-streaming/shogun-emmys-authentic-portrayal/ "‘Shogun’ and the painstaking art of ‘getting it right’")
+
+  [![Hiroyuki Sanada and the cast and crew of "Shogun" accept the award for best drama series at the 76th Primetime Emmy Awards in Los Angeles, California.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/16/422080.JPG?v=3.1&w=400&q=100&f=jpg&t=1.2 "Hiroyuki Sanada and the cast and crew of "Shogun" accept the award for best drama series at the 76th Primetime Emmy Awards in Los Angeles, California.")](https://www.japantimes.co.jp/culture/2024/09/16/tv-streaming/shogun-emmys-authentic-portrayal/ "‘Shogun’ and the painstaking art of ‘getting it right’")
 
 [Chris Broad's new bar puts cocktails first, YouTube second](https://www.japantimes.co.jp/life/2024/09/15/food-drink/lost-bar-chris-broad-abroad-in-japan-shibuya/ "Chris Broad's new bar puts cocktails first, YouTube second")
 
@@ -498,10 +502,6 @@ Revised June 1, 2022
 [New mouse models can boost Japan's drug development: National Cancer Center](https://www.japantimes.co.jp/news/2024/09/13/japan/science-health/cancer-drug-development/ "New mouse models can boost Japan's drug development: National Cancer Center")
 
   [![Hiroyuki Mano, director of the National Cancer Center Japan's (NCC) research institute, explains  on Wednesday the use of mice bearing patients' cancer tissues to screen drug candidates for their efficacy.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/13/421474.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Hiroyuki Mano, director of the National Cancer Center Japan's (NCC) research institute, explains  on Wednesday the use of mice bearing patients' cancer tissues to screen drug candidates for their efficacy.")](https://www.japantimes.co.jp/news/2024/09/13/japan/science-health/cancer-drug-development/ "New mouse models can boost Japan's drug development: National Cancer Center")
-
-[Scientists win Ig Nobel for discovering anal breathing in mammals](https://www.japantimes.co.jp/news/2024/09/13/japan/science-health/ig-nobel-prize-winner/ "Scientists win Ig Nobel for discovering anal breathing in mammals")
-
-  [![Takanori Takebe (behind the lectern) speaks after his team of researchers and he were awarded the Ig Nobel Prize in physiology at the Massachusetts Institute of Technology in Cambridge, Massachusetts, on Thursday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/13/421513.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Takanori Takebe (behind the lectern) speaks after his team of researchers and he were awarded the Ig Nobel Prize in physiology at the Massachusetts Institute of Technology in Cambridge, Massachusetts, on Thursday.")](https://www.japantimes.co.jp/news/2024/09/13/japan/science-health/ig-nobel-prize-winner/ "Scientists win Ig Nobel for discovering anal breathing in mammals")
 
 Podcast
 -------
@@ -564,19 +564,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
-[Sri Lanka's leftist leader turns from bullets to ballots](https://www.japantimes.co.jp/news/2024/09/16/asia-pacific/politics/sri-lanka-leftist-candidate/ "Sri Lanka's leftist leader turns from bullets to ballots")
+[Iran president pledges to stop morality police confronting women](https://www.japantimes.co.jp/news/2024/09/17/world/iran-morality-police-women/ "Iran president pledges to stop morality police confronting women")
 
-10 hours ago
+38 mins ago
 
-[Surviving a climate disaster isn’t likely to change how you vote](https://www.japantimes.co.jp/news/2024/09/16/world/politics/climate-disasters-voting/ "Surviving a climate disaster isn’t likely to change how you vote")
+[Superbugs death toll could swell by millions over coming years](https://www.japantimes.co.jp/news/2024/09/17/world/science-health/superbugs-death-toll-millions/ "Superbugs death toll could swell by millions over coming years")
 
-11 hours ago
+58 mins ago
 
-[First person convicted under Hong Kong's new national security law](https://www.japantimes.co.jp/news/2024/09/16/asia-pacific/crime-legal/hong-kong-security-law-t-shirt/ "First person convicted under Hong Kong's new national security law")
+[Raising awareness key to Japan's new residential road speed limit](https://www.japantimes.co.jp/news/2024/09/17/japan/japan-new-residential-road-speed-limit/ "Raising awareness key to Japan's new residential road speed limit")
 
-[Philippines vows continued presence after South China Sea reef pullout](https://www.japantimes.co.jp/news/2024/09/16/asia-pacific/philippine-ship-withdrawn-south-china-sea/ "Philippines vows continued presence after South China Sea reef pullout")
+1 hours ago
 
-[Mitsubishi Heavy cancels H2A rocket launch for the second time](https://www.japantimes.co.jp/news/2024/09/16/japan/rocket-launch-postponed/ "Mitsubishi Heavy cancels H2A rocket launch for the second time")
+[How Intel lost the Sony PlayStation business](https://www.japantimes.co.jp/business/2024/09/17/tech/intel-lost-sony-playstation-contract/ "How Intel lost the Sony PlayStation business")
+
+1 hours ago
+
+[Suspect in second Trump assassination attempt had criminal history](https://www.japantimes.co.jp/news/2024/09/17/world/crime-legal/trump-assassination-criminal-history/ "Suspect in second Trump assassination attempt had criminal history")
+
+1 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
