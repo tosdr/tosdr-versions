@@ -276,15 +276,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-Despite Natalia Tena’s first audition being described as “a disaster,” she still landed the role of Nymphadora Tonks.
+Shirley Henderson was aged 35 at the time that she first played Moaning Myrtle. She is the oldest actor to play a Hogwarts student in the Harry Potter films.
 
 ### Potter History
 
-December 21, 2006 – The title for the final book is released: Harry Potter and the Deathly Hallows.
+November 19, 2005 – Harry Potter and the Goblet of Fire film grosses $36 million on opening day and $101 million during opening weekend.
 
 ### Potter Quote
 
-“What is it about my presence in your home that displeases you, Lucius?”
+“Of course it is happening inside your head, Harry, but why on earth should that mean it is not real?”
 
 [](#)
 
