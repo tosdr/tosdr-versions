@@ -8,7 +8,7 @@
 
    [Skip to Content](#main-content) [Skip to Navigation](#masthead)
 
-[Buy 2 Get 1 Free! Home & Poo](https://www.poopourri.com/collections/all-products)
+[Buy 2 Get 1 Free! Home & Poo](https://www.poopourri.com/collections/fallb2g1)
 
 [![~Pourri](//pourri.com/cdn/shop/t/774/assets/pourri--logo-150.gif?v=92675186479064556311726510098)](https://www.poopourri.com/)
 
