@@ -1,22 +1,5 @@
 [Skip to main content](#main-content)
 
-![Google Translate](https://www.gstatic.com/images/branding/product/1x/translate_24dp.png)
-
-Original text
-=============
-
-Contribute a better translation
-
-* * *
-
-Translate Afrikaans Albanian Amharic Arabic Armenian Azerbaijani Basque Belarusian Bengali Bosnian Bulgarian Catalan Cebuano Chichewa Chinese (Simplified) Chinese (Traditional) Corsican Croatian Czech Danish Dutch Esperanto Estonian Filipino Finnish French Frisian Galician Georgian German Greek Gujarati Haitian Creole Hausa Hawaiian Hebrew Hindi Hmong Hungarian Icelandic Igbo Indonesian Irish Italian Japanese Javanese Kannada Kazakh Khmer Kinyarwanda Korean Kurdish (Kurmanji) Kyrgyz Lao Latin Latvian Lithuanian Luxembourgish Macedonian Malagasy Malay Malayalam Maltese Maori Marathi Mongolian Myanmar (Burmese) Nepali Norwegian Odia (Oriya) Pashto Persian Polish Portuguese Punjabi Romanian Russian Samoan Scots Gaelic Serbian Sesotho Shona Sindhi Sinhala Slovak Slovenian Somali Spanish Sundanese Swahili Swedish Tajik Tamil Tatar Telugu Thai Turkish Turkmen Ukrainian Urdu Uyghur Uzbek Vietnamese Welsh Xhosa Yiddish Yoruba Zulu Translate Afrikaans Albanian Amharic Arabic Armenian Azerbaijani Basque Belarusian Bengali Bosnian Bulgarian Catalan Cebuano Chichewa Chinese (Simplified) Chinese (Traditional) Corsican Croatian Czech Danish Dutch Esperanto Estonian Filipino Finnish French Frisian Galician Georgian German Greek Gujarati Haitian Creole Hausa Hawaiian Hebrew Hindi Hmong Hungarian Icelandic Igbo Indonesian Irish Italian Japanese Javanese Kannada Kazakh Khmer Kinyarwanda Korean Kurdish (Kurmanji) Kyrgyz Lao Latin Latvian Lithuanian Luxembourgish Macedonian Malagasy Malay Malayalam Maltese Maori Marathi Mongolian Myanmar (Burmese) Nepali Norwegian Odia (Oriya) Pashto Persian Polish Portuguese Punjabi Romanian Russian Samoan Scots Gaelic Serbian Sesotho Shona Sindhi Sinhala Slovak Slovenian Somali Spanish Sundanese Swahili Swedish Tajik Tamil Tatar Telugu Thai Turkish Turkmen Ukrainian Urdu Uyghur Uzbek Vietnamese Welsh Xhosa Yiddish Yoruba Zulu
-
-Powered by [![Google Translate](https://www.gstatic.com/images/branding/googlelogo/1x/googlelogo_color_42x16dp.png)Translate](https://translate.google.com/)
-
-Powered by [![Google Translate](https://www.gstatic.com/images/branding/googlelogo/1x/googlelogo_color_42x16dp.png)Translate](https://translate.google.com/)
-
-Translate English Afrikaans Albanian Arabic Armenian Azerbaijani Basque Belarusian Bengali Bosnian Bulgarian Catalan Cebuano Chinese (Simplified) Chinese (Traditional) Croatian Czech Danish Dutch Esperanto Estonian Filipino Finnish French Galician Georgian German Greek Gujarati Haitian Creole Hausa Hebrew Hindi Hmong Hungarian Icelandic Igbo Indonesian Irish Italian Japanese Javanese Kannada Khmer Korean Lao Latin Latvian Lithuanian Macedonian Malay Maltese Maori Marathi Mongolian Nepali Norwegian Persian Polish Portuguese Punjabi Romanian Russian Serbian Slovak Slovenian Somali Spanish Swahili Swedish Tamil Telugu Thai Turkish Ukrainian Urdu Vietnamese Welsh Yiddish Yoruba Zulu
-
 [Use my current location](#)
 
 Website Terms of Use and Conditions
