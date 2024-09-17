@@ -597,12 +597,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [bel-finanz.de: Dubioses Fest­geld](https://www.test.de/bel-finanzde-Dubioses-Festgeld-6051673-0/ "bel-finanz.de - Dubioses Festgeld")
-* [Ärger mit der Post: „Verfehlungen sollten finanzielle Konsequenzen haben“](https://www.test.de/Aerger-mit-der-Post-Verfehlungen-sollten-finanzielle-Konsequenzen-haben-5979613-0/ "Ärger mit der Post - „Verfehlungen sollten finanzielle Konsequenzen haben“")
-* [Internetanbieter im Vergleich: Stadt, Land, Daten­fluss – bei welchem Provider stimmt das Tempo?](https://www.test.de/Internetanbieter-im-Vergleich-Stadt-Land-Datenfluss-10-Provider-im-Vergleich-6104862-0/ "Internetanbieter im Vergleich - Stadt, Land, Datenfluss – bei welchem Provider stimmt das Tempo?")
-* [Investieren in Künst­liche Intelligenz: ETF oder Zertifikate – der Check](https://www.test.de/Investieren-in-Kuenstliche-Intelligenz-ETF-oder-Zertifikate-der-Check-5981554-0/ "Investieren in Künstliche Intelligenz - ETF oder Zertifikate – der Check")
-* [Gut essen mit der Stiftung Warentest: Kotelett mit Papaya](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Kotelett-mit-Papaya-6064358-0/ "Gut essen mit der Stiftung Warentest - Kotelett mit Papaya")
-* [E-Growing: Fest­nahmen bei der Platt­form Juicyfields](https://www.test.de/E-Growing-Festnahmen-bei-der-Plattform-Juicyfields-6113321-0/ "E-Growing - Festnahmen bei der Plattform Juicyfields")
+* [Ärger mit der Post­bank: Geld verschwunden, mieser Service – wie Post­bank-Kunden sich wehren können](https://www.test.de/Postbank-IT-Probleme-Kundenbeschwerden-6043637-0/ "Ärger mit der Postbank - Geld verschwunden, mieser Service – wie Postbank-Kunden sich wehren können")
+* [Geld­anlage mit Fonds und ETF: Kurs­raketen? Uninteres­sant!](https://www.test.de/Geldanlage-mit-Fonds-und-ETF-Kursraketen-Uninteressant-6120154-0/ "Geldanlage mit Fonds und ETF - Kursraketen? Uninteressant!")
+* [Tracking in Google Chrome: Über­wachung im Namen der Privatsphäre](https://www.test.de/Tracking-in-Google-Chrome-Ueberwachung-im-Namen-der-Privatsphaere-6049018-0/ "Tracking in Google Chrome - Überwachung im Namen der Privatsphäre")
+* [Strom­mess­geräte im Test: Diese Geräte entlarven Strom­fresser](https://www.test.de/Strommessgeraete-im-Test-1781202-0/ "Strommessgeräte im Test - Diese Geräte entlarven Stromfresser")
+* [L&G Gerd Kommer Multifactor Equity ETF: Breite Streuung und etwas Weihrauch](https://www.test.de/LG-Gerd-Kommer-Multifactor-Equity-ETF-Breite-Streuung-und-etwas-Weihrauch-6029520-0/ "L&G Gerd Kommer Multifactor Equity ETF - Breite Streuung und etwas Weihrauch")
+* [Resilienz in Krisen­zeiten: Wie Sie lernen, gelassen zu bleiben](https://www.test.de/Resilienz-in-Krisenzeiten-Wie-Sie-lernen-gelassen-zu-bleiben-5936282-0/ "Resilienz in Krisenzeiten - Wie Sie lernen, gelassen zu bleiben")
 
 Fußbereich
 
@@ -2737,12 +2737,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [bel-finanz.de: Dubioses Fest­geld](https://www.test.de/bel-finanzde-Dubioses-Festgeld-6051673-0/ "bel-finanz.de - Dubioses Festgeld")
-* [Ärger mit der Post: „Verfehlungen sollten finanzielle Konsequenzen haben“](https://www.test.de/Aerger-mit-der-Post-Verfehlungen-sollten-finanzielle-Konsequenzen-haben-5979613-0/ "Ärger mit der Post - „Verfehlungen sollten finanzielle Konsequenzen haben“")
-* [Internetanbieter im Vergleich: Stadt, Land, Daten­fluss – bei welchem Provider stimmt das Tempo?](https://www.test.de/Internetanbieter-im-Vergleich-Stadt-Land-Datenfluss-10-Provider-im-Vergleich-6104862-0/ "Internetanbieter im Vergleich - Stadt, Land, Datenfluss – bei welchem Provider stimmt das Tempo?")
-* [Investieren in Künst­liche Intelligenz: ETF oder Zertifikate – der Check](https://www.test.de/Investieren-in-Kuenstliche-Intelligenz-ETF-oder-Zertifikate-der-Check-5981554-0/ "Investieren in Künstliche Intelligenz - ETF oder Zertifikate – der Check")
-* [Gut essen mit der Stiftung Warentest: Kotelett mit Papaya](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Kotelett-mit-Papaya-6064358-0/ "Gut essen mit der Stiftung Warentest - Kotelett mit Papaya")
-* [E-Growing: Fest­nahmen bei der Platt­form Juicyfields](https://www.test.de/E-Growing-Festnahmen-bei-der-Plattform-Juicyfields-6113321-0/ "E-Growing - Festnahmen bei der Plattform Juicyfields")
+* [Ärger mit der Post­bank: Geld verschwunden, mieser Service – wie Post­bank-Kunden sich wehren können](https://www.test.de/Postbank-IT-Probleme-Kundenbeschwerden-6043637-0/ "Ärger mit der Postbank - Geld verschwunden, mieser Service – wie Postbank-Kunden sich wehren können")
+* [Geld­anlage mit Fonds und ETF: Kurs­raketen? Uninteres­sant!](https://www.test.de/Geldanlage-mit-Fonds-und-ETF-Kursraketen-Uninteressant-6120154-0/ "Geldanlage mit Fonds und ETF - Kursraketen? Uninteressant!")
+* [Tracking in Google Chrome: Über­wachung im Namen der Privatsphäre](https://www.test.de/Tracking-in-Google-Chrome-Ueberwachung-im-Namen-der-Privatsphaere-6049018-0/ "Tracking in Google Chrome - Überwachung im Namen der Privatsphäre")
+* [Strom­mess­geräte im Test: Diese Geräte entlarven Strom­fresser](https://www.test.de/Strommessgeraete-im-Test-1781202-0/ "Strommessgeräte im Test - Diese Geräte entlarven Stromfresser")
+* [L&G Gerd Kommer Multifactor Equity ETF: Breite Streuung und etwas Weihrauch](https://www.test.de/LG-Gerd-Kommer-Multifactor-Equity-ETF-Breite-Streuung-und-etwas-Weihrauch-6029520-0/ "L&G Gerd Kommer Multifactor Equity ETF - Breite Streuung und etwas Weihrauch")
+* [Resilienz in Krisen­zeiten: Wie Sie lernen, gelassen zu bleiben](https://www.test.de/Resilienz-in-Krisenzeiten-Wie-Sie-lernen-gelassen-zu-bleiben-5936282-0/ "Resilienz in Krisenzeiten - Wie Sie lernen, gelassen zu bleiben")
 
 Jetzt anmelden und 10% Rabatt auf die test.de-Flatrate im ersten Jahr erhalten!
 
@@ -2795,12 +2795,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [bel-finanz.de: Dubioses Fest­geld](https://www.test.de/bel-finanzde-Dubioses-Festgeld-6051673-0/ "bel-finanz.de - Dubioses Festgeld")
-* [Ärger mit der Post: „Verfehlungen sollten finanzielle Konsequenzen haben“](https://www.test.de/Aerger-mit-der-Post-Verfehlungen-sollten-finanzielle-Konsequenzen-haben-5979613-0/ "Ärger mit der Post - „Verfehlungen sollten finanzielle Konsequenzen haben“")
-* [Internetanbieter im Vergleich: Stadt, Land, Daten­fluss – bei welchem Provider stimmt das Tempo?](https://www.test.de/Internetanbieter-im-Vergleich-Stadt-Land-Datenfluss-10-Provider-im-Vergleich-6104862-0/ "Internetanbieter im Vergleich - Stadt, Land, Datenfluss – bei welchem Provider stimmt das Tempo?")
-* [Investieren in Künst­liche Intelligenz: ETF oder Zertifikate – der Check](https://www.test.de/Investieren-in-Kuenstliche-Intelligenz-ETF-oder-Zertifikate-der-Check-5981554-0/ "Investieren in Künstliche Intelligenz - ETF oder Zertifikate – der Check")
-* [Gut essen mit der Stiftung Warentest: Kotelett mit Papaya](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Kotelett-mit-Papaya-6064358-0/ "Gut essen mit der Stiftung Warentest - Kotelett mit Papaya")
-* [E-Growing: Fest­nahmen bei der Platt­form Juicyfields](https://www.test.de/E-Growing-Festnahmen-bei-der-Plattform-Juicyfields-6113321-0/ "E-Growing - Festnahmen bei der Plattform Juicyfields")
+* [Ärger mit der Post­bank: Geld verschwunden, mieser Service – wie Post­bank-Kunden sich wehren können](https://www.test.de/Postbank-IT-Probleme-Kundenbeschwerden-6043637-0/ "Ärger mit der Postbank - Geld verschwunden, mieser Service – wie Postbank-Kunden sich wehren können")
+* [Geld­anlage mit Fonds und ETF: Kurs­raketen? Uninteres­sant!](https://www.test.de/Geldanlage-mit-Fonds-und-ETF-Kursraketen-Uninteressant-6120154-0/ "Geldanlage mit Fonds und ETF - Kursraketen? Uninteressant!")
+* [Tracking in Google Chrome: Über­wachung im Namen der Privatsphäre](https://www.test.de/Tracking-in-Google-Chrome-Ueberwachung-im-Namen-der-Privatsphaere-6049018-0/ "Tracking in Google Chrome - Überwachung im Namen der Privatsphäre")
+* [Strom­mess­geräte im Test: Diese Geräte entlarven Strom­fresser](https://www.test.de/Strommessgeraete-im-Test-1781202-0/ "Strommessgeräte im Test - Diese Geräte entlarven Stromfresser")
+* [L&G Gerd Kommer Multifactor Equity ETF: Breite Streuung und etwas Weihrauch](https://www.test.de/LG-Gerd-Kommer-Multifactor-Equity-ETF-Breite-Streuung-und-etwas-Weihrauch-6029520-0/ "L&G Gerd Kommer Multifactor Equity ETF - Breite Streuung und etwas Weihrauch")
+* [Resilienz in Krisen­zeiten: Wie Sie lernen, gelassen zu bleiben](https://www.test.de/Resilienz-in-Krisenzeiten-Wie-Sie-lernen-gelassen-zu-bleiben-5936282-0/ "Resilienz in Krisenzeiten - Wie Sie lernen, gelassen zu bleiben")
 
 Neueste Tests
 
@@ -2813,12 +2813,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [bel-finanz.de: Dubioses Fest­geld](https://www.test.de/bel-finanzde-Dubioses-Festgeld-6051673-0/ "bel-finanz.de - Dubioses Festgeld")
-* [Ärger mit der Post: „Verfehlungen sollten finanzielle Konsequenzen haben“](https://www.test.de/Aerger-mit-der-Post-Verfehlungen-sollten-finanzielle-Konsequenzen-haben-5979613-0/ "Ärger mit der Post - „Verfehlungen sollten finanzielle Konsequenzen haben“")
-* [Internetanbieter im Vergleich: Stadt, Land, Daten­fluss – bei welchem Provider stimmt das Tempo?](https://www.test.de/Internetanbieter-im-Vergleich-Stadt-Land-Datenfluss-10-Provider-im-Vergleich-6104862-0/ "Internetanbieter im Vergleich - Stadt, Land, Datenfluss – bei welchem Provider stimmt das Tempo?")
-* [Investieren in Künst­liche Intelligenz: ETF oder Zertifikate – der Check](https://www.test.de/Investieren-in-Kuenstliche-Intelligenz-ETF-oder-Zertifikate-der-Check-5981554-0/ "Investieren in Künstliche Intelligenz - ETF oder Zertifikate – der Check")
-* [Gut essen mit der Stiftung Warentest: Kotelett mit Papaya](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Kotelett-mit-Papaya-6064358-0/ "Gut essen mit der Stiftung Warentest - Kotelett mit Papaya")
-* [E-Growing: Fest­nahmen bei der Platt­form Juicyfields](https://www.test.de/E-Growing-Festnahmen-bei-der-Plattform-Juicyfields-6113321-0/ "E-Growing - Festnahmen bei der Plattform Juicyfields")
+* [Ärger mit der Post­bank: Geld verschwunden, mieser Service – wie Post­bank-Kunden sich wehren können](https://www.test.de/Postbank-IT-Probleme-Kundenbeschwerden-6043637-0/ "Ärger mit der Postbank - Geld verschwunden, mieser Service – wie Postbank-Kunden sich wehren können")
+* [Geld­anlage mit Fonds und ETF: Kurs­raketen? Uninteres­sant!](https://www.test.de/Geldanlage-mit-Fonds-und-ETF-Kursraketen-Uninteressant-6120154-0/ "Geldanlage mit Fonds und ETF - Kursraketen? Uninteressant!")
+* [Tracking in Google Chrome: Über­wachung im Namen der Privatsphäre](https://www.test.de/Tracking-in-Google-Chrome-Ueberwachung-im-Namen-der-Privatsphaere-6049018-0/ "Tracking in Google Chrome - Überwachung im Namen der Privatsphäre")
+* [Strom­mess­geräte im Test: Diese Geräte entlarven Strom­fresser](https://www.test.de/Strommessgeraete-im-Test-1781202-0/ "Strommessgeräte im Test - Diese Geräte entlarven Stromfresser")
+* [L&G Gerd Kommer Multifactor Equity ETF: Breite Streuung und etwas Weihrauch](https://www.test.de/LG-Gerd-Kommer-Multifactor-Equity-ETF-Breite-Streuung-und-etwas-Weihrauch-6029520-0/ "L&G Gerd Kommer Multifactor Equity ETF - Breite Streuung und etwas Weihrauch")
+* [Resilienz in Krisen­zeiten: Wie Sie lernen, gelassen zu bleiben](https://www.test.de/Resilienz-in-Krisenzeiten-Wie-Sie-lernen-gelassen-zu-bleiben-5936282-0/ "Resilienz in Krisenzeiten - Wie Sie lernen, gelassen zu bleiben")
 
 Service Stiftung Warentest
 
