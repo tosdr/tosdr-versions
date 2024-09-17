@@ -1073,7 +1073,7 @@ The domain name www.1mg.com, an internet based portal and 1MG mobile application
 
 The Company respects the intellectual property rights of all individuals and entities **(“Persons”)**. and for that strictly prohibits its third party service providers and all other third parties from using the Website to sell, distribute, circulate, post, upload or in any other manner deal with any information, data or content that infringes upon the intellectual property including copyrights and trademarks of any Persons .
 
-In the event, You believe that Your intellectual property has been infringed upon by any material made available on the Website, You should notify the Website by sending an e-mail at ([\[email protected\]](https://www.1mg.com/cdn-cgi/l/email-protection)) (**“Claim"**). You must also include the following information in Your Claim:
+In the event, You believe that Your intellectual property has been infringed upon by any material made available on the Website, You should notify the Website by sending an e-mail at (communication@1mg.com) (**“Claim"**). You must also include the following information in Your Claim:
 
 1. The URL(s) through which the claimed infringing material is made available on the Website;
 2. Identification or description of the claimed infringing material;
