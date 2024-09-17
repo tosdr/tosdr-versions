@@ -1,6 +1,6 @@
-![](https://www.facebook.com/tr?id=781049163457265&ev=PageView&noscript=1)        
+![](https://www.facebook.com/tr?id=781049163457265&ev=PageView&noscript=1)          
 
-            
+             
 
 [Skip to content](#MainContent)
 
@@ -63,7 +63,7 @@
         
     * [Camel Milk Benefits](https://aadvikfoods.com/products/camel-milk-powder)
     * [Goat Milk Benefits](https://aadvikfoods.com/products/goat-milk-powder)
-    * [Corporate Gifting](https://aadvikfoods.com/pages/gifitng)
+    * [Corporate Gifting](https://aadvikfoods.com/pages/gifting)
     
 
 [Log in](https://shopify.com/63037538544/account?locale=en)
@@ -114,7 +114,7 @@
         
     * [Camel Milk Benefits](https://aadvikfoods.com/products/camel-milk-powder)
     * [Goat Milk Benefits](https://aadvikfoods.com/products/goat-milk-powder)
-    * [Corporate Gifting](https://aadvikfoods.com/pages/gifitng)
+    * [Corporate Gifting](https://aadvikfoods.com/pages/gifting)
     
 
  Search [Log in](https://shopify.com/63037538544/account?locale=en) [Cart](https://aadvikfoods.com/cart)
@@ -147,7 +147,7 @@ Goat Milk Ghee
 
 ### [Goat Milk Powder | Pure & Natural | 200g](https://aadvikfoods.com/products/goat-milk-powder)
 
-Rs. 1,299.00Rs. 1,262.00
+₹ 1,299.00₹ 1,262.00
 
 Buy Now
 
@@ -155,7 +155,7 @@ Buy Now
 
 ### [Camel Milk Powder | Pure and Natural | Sachets](https://aadvikfoods.com/products/camel-milk-powder-sachets)
 
-Rs. 1,449.00Rs. 1,423.00
+₹ 1,449.00₹ 1,423.00
 
 Buy Now
 
@@ -163,7 +163,7 @@ Buy Now
 
 ### [Camel Milk Powder | Pure & Natural](https://aadvikfoods.com/products/camel-milk-powder?variant=42579809698032)
 
-Rs. 1,349.00Rs. 1,312.00
+₹ 1,349.00₹ 1,312.00
 
 Buy Now
 
@@ -188,7 +188,7 @@ Sale Off
 
 ### [Camel Milk Chocolate | Classic । 70g](https://aadvikfoods.com/products/camel-milk-chocolates)
 
-Rs. 299.00Rs. 290.00
+₹ 299.00₹ 290.00
 
 Add To Cart
 
@@ -198,7 +198,7 @@ Sale Off
 
 ### [Camel Milk Chocolate | Roasted Almond । 70g](https://aadvikfoods.com/products/camel-milk-chocolate-roasted-almond)
 
-Rs. 299.00Rs. 269.00
+₹ 299.00₹ 269.00
 
 Add To Cart
 
@@ -208,7 +208,7 @@ Sale Off
 
 ### [Goat Milk Chocolate | Roasted Hazelnut | 70g](https://aadvikfoods.com/products/goat-milk-chocolate-roasted-hazelnut-70g)
 
-Rs. 299.00Rs. 269.00
+₹ 299.00₹ 269.00
 
 Add To Cart
 
@@ -218,7 +218,7 @@ Sale Off
 
 ### [Goat Milk Chocolate | Cranberry | 70g](https://aadvikfoods.com/products/goat-milk-chocolate-cranberry-70g)
 
-Rs. 299.00Rs. 269.00
+₹ 299.00₹ 269.00
 
 Add To Cart
 
@@ -229,7 +229,7 @@ Soap
 
 ### [Goat Milk Soap |100g | Orange and Lemon](https://aadvikfoods.com/products/goat-milk-soap-orange-lemon)
 
-Rs. 149.00Rs. 124.00
+₹ 149.00₹ 124.00
 
 Buy Now
 
@@ -237,7 +237,7 @@ Buy Now
 
 ### [Camel Milk Soap । Neem & Tulsi | 100gm](https://aadvikfoods.com/products/camel-milk-soap-neem-tulsi)
 
-Rs. 149.00Rs. 124.00
+₹ 149.00₹ 124.00
 
 Buy Now
 
@@ -245,7 +245,7 @@ Buy Now
 
 ### [Camel Milk Soap । With Charcoal Patchouli Oil | 100gm](https://aadvikfoods.com/products/camel-milk-soap-charcoal-patchouli)
 
-Rs. 149.00Rs. 124.00
+₹ 149.00₹ 124.00
 
 Buy Now
 
@@ -253,7 +253,7 @@ Buy Now
 
 ### [Donkey Milk Soap with Green Tea Infusion 100gm](https://aadvikfoods.com/products/donkey-milk-soap-100gm)
 
-Rs. 399.00Rs. 384.00
+₹ 399.00₹ 384.00
 
 Buy Now
 
