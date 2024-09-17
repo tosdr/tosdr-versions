@@ -12,6 +12,7 @@
     * [Protecting Farm Animals](https://www.aspca.org/protecting-farm-animals)
     * [Advancing Horse Welfare](https://www.aspca.org/advancing-horse-welfare)
     * [ASPCA Grants](https://www.aspca.org/grants)
+    * [Veterinary Services Nationwide](https://www.aspca.org/veterinary-services)
 * Local  
     Services
     * [New York City](https://www.aspca.org/nyc)
@@ -40,6 +41,7 @@ Primary Nav Menu
     * [Protecting Farm Animals](https://www.aspca.org/protecting-farm-animals)
     * [Advancing Horse Welfare](https://www.aspca.org/advancing-horse-welfare)
     * [ASPCA Grants](https://www.aspca.org/grants)
+    * [Veterinary Services Nationwide](https://www.aspca.org/veterinary-services)
 * Local Services
     * [New York City](https://www.aspca.org/nyc)
     * [Los Angeles](https://www.aspca.org/los-angeles-initiative)
