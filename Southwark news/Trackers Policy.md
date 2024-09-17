@@ -19,6 +19,18 @@
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![Neil Coyle has managed to see the funny side of the situation but insists MPs' safety remains a serious issue](https://southwarknews.co.uk/wp-content/uploads/2024/09/Neil-Coyle-has-managed-to-see-the-funny-side-of-the-situation-but-insists-MPs-safety-remains-a-serious-issue-360x180.png)](https://southwarknews.co.uk/area/bermondsey/furious-mp-neil-coyle-searching-for-gollum-lookalike-and-says-he-must-apologise-for-egging-his-office/)
+    
+    ### [Furious MP Neil Coyle searching for ‘Gollum lookalike’ and says he must apologise for egging his office](https://southwarknews.co.uk/area/bermondsey/furious-mp-neil-coyle-searching-for-gollum-lookalike-and-says-he-must-apologise-for-egging-his-office/)
+    
+    [![Credit: LFB](https://southwarknews.co.uk/wp-content/uploads/2024/06/stock-fire-engines-1-london-fire-brigade-360x180.jpeg)](https://southwarknews.co.uk/area/peckham/twenty-tonnes-of-recyclable-waste-destroyed-in-fire-off-old-kent-road/)
+    
+    ### [Twenty tonnes of recyclable waste destroyed in fire off Old Kent Road](https://southwarknews.co.uk/area/peckham/twenty-tonnes-of-recyclable-waste-destroyed-in-fire-off-old-kent-road/)
+    
+    [![The Rising SE1 founders Simon Burke and Piers Greenlees.](https://southwarknews.co.uk/wp-content/uploads/2024/04/Founder-Simon-Burke-and-Piers-Greenlees-360x180.jpeg)](https://southwarknews.co.uk/area/bermondsey/londons-first-lgbtq-cinema-is-set-to-open-in-a-bermondsey/)
+    
+    ### [London’s first LGBTQ+ cinema is set to open in a Bermondsey](https://southwarknews.co.uk/area/bermondsey/londons-first-lgbtq-cinema-is-set-to-open-in-a-bermondsey/)
+    
     [![JD Wetherspoon has applied for a license at 50 Tooley Street. Image: Google](https://southwarknews.co.uk/wp-content/uploads/2024/09/JD-Wetherspoon-has-applied-for-a-license-at-50-Tooley-Street.-Image-Google-360x180.png)](https://southwarknews.co.uk/area/borough/wetherspoons-to-open-pub-in-former-london-dungeon/)
     
     ### [Wetherspoons to open pub in former London Dungeon](https://southwarknews.co.uk/area/borough/wetherspoons-to-open-pub-in-former-london-dungeon/)
@@ -43,18 +55,6 @@
     Photo by Facundo Arrizabalaga/MyLondon](https://southwarknews.co.uk/wp-content/uploads/2024/09/Bayo-Dosunmu-ex-chief-executive-of-Lambeth-Council-360x180.jpg)](https://southwarknews.co.uk/featured/former-top-council-boss-has-been-disqualified-from-driving-for-two-years/)
     
     ### [Former top council boss has been disqualified from driving for two years](https://southwarknews.co.uk/featured/former-top-council-boss-has-been-disqualified-from-driving-for-two-years/)
-    
-    [![The Walworth Society excitedly posted this photo of the coverings removed from the historic building. Credit: The Walworth Society](https://southwarknews.co.uk/wp-content/uploads/2024/09/boom-360x180.png)](https://southwarknews.co.uk/area/walworth/walworths-victorian-town-hall-now-worth-staggering-25-million-eleven-years-after-being-ravaged-by-devastating-fire-after-stunning-restoration/)
-    
-    ### [Walworth’s Victorian town hall now worth staggering £25 million eleven years after being ravaged by devastating fire after stunning restoration](https://southwarknews.co.uk/area/walworth/walworths-victorian-town-hall-now-worth-staggering-25-million-eleven-years-after-being-ravaged-by-devastating-fire-after-stunning-restoration/)
-    
-    [![Emergency services attended the incident on Rye Lane, Peckham. Image: Google Maps](https://southwarknews.co.uk/wp-content/uploads/2024/09/Emergency-services-attended-the-incident-on-Rye-Lane-Peckham.-Image-Google-Maps-360x180.png)](https://southwarknews.co.uk/area/peckham/man-stabbed-on-peckham-high-street/)
-    
-    ### [Man stabbed on Peckham high street](https://southwarknews.co.uk/area/peckham/man-stabbed-on-peckham-high-street/)
-    
-    [![Police would like to speak to the man pictured in connection with the incident. Image: British Transport Police](https://southwarknews.co.uk/wp-content/uploads/2024/09/Police-would-like-to-speak-to-the-man-pictured-in-connection-with-the-incident.-Image-British-Transport-Police-360x180.png)](https://southwarknews.co.uk/area/borough/police-investigating-masturbator-on-london-bridge-train/)
-    
-    ### [Police investigating ‘masturbator’ on London Bridge train](https://southwarknews.co.uk/area/borough/police-investigating-masturbator-on-london-bridge-train/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [In depth history](https://southwarknews.co.uk/category/history/in-depth-history/)
@@ -100,6 +100,18 @@ View All Result
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![Neil Coyle has managed to see the funny side of the situation but insists MPs' safety remains a serious issue](https://southwarknews.co.uk/wp-content/uploads/2024/09/Neil-Coyle-has-managed-to-see-the-funny-side-of-the-situation-but-insists-MPs-safety-remains-a-serious-issue-360x180.png)](https://southwarknews.co.uk/area/bermondsey/furious-mp-neil-coyle-searching-for-gollum-lookalike-and-says-he-must-apologise-for-egging-his-office/)
+    
+    ### [Furious MP Neil Coyle searching for ‘Gollum lookalike’ and says he must apologise for egging his office](https://southwarknews.co.uk/area/bermondsey/furious-mp-neil-coyle-searching-for-gollum-lookalike-and-says-he-must-apologise-for-egging-his-office/)
+    
+    [![Credit: LFB](https://southwarknews.co.uk/wp-content/uploads/2024/06/stock-fire-engines-1-london-fire-brigade-360x180.jpeg)](https://southwarknews.co.uk/area/peckham/twenty-tonnes-of-recyclable-waste-destroyed-in-fire-off-old-kent-road/)
+    
+    ### [Twenty tonnes of recyclable waste destroyed in fire off Old Kent Road](https://southwarknews.co.uk/area/peckham/twenty-tonnes-of-recyclable-waste-destroyed-in-fire-off-old-kent-road/)
+    
+    [![The Rising SE1 founders Simon Burke and Piers Greenlees.](https://southwarknews.co.uk/wp-content/uploads/2024/04/Founder-Simon-Burke-and-Piers-Greenlees-360x180.jpeg)](https://southwarknews.co.uk/area/bermondsey/londons-first-lgbtq-cinema-is-set-to-open-in-a-bermondsey/)
+    
+    ### [London’s first LGBTQ+ cinema is set to open in a Bermondsey](https://southwarknews.co.uk/area/bermondsey/londons-first-lgbtq-cinema-is-set-to-open-in-a-bermondsey/)
+    
     [![JD Wetherspoon has applied for a license at 50 Tooley Street. Image: Google](https://southwarknews.co.uk/wp-content/uploads/2024/09/JD-Wetherspoon-has-applied-for-a-license-at-50-Tooley-Street.-Image-Google-360x180.png)](https://southwarknews.co.uk/area/borough/wetherspoons-to-open-pub-in-former-london-dungeon/)
     
     ### [Wetherspoons to open pub in former London Dungeon](https://southwarknews.co.uk/area/borough/wetherspoons-to-open-pub-in-former-london-dungeon/)
@@ -124,18 +136,6 @@ View All Result
     Photo by Facundo Arrizabalaga/MyLondon](https://southwarknews.co.uk/wp-content/uploads/2024/09/Bayo-Dosunmu-ex-chief-executive-of-Lambeth-Council-360x180.jpg)](https://southwarknews.co.uk/featured/former-top-council-boss-has-been-disqualified-from-driving-for-two-years/)
     
     ### [Former top council boss has been disqualified from driving for two years](https://southwarknews.co.uk/featured/former-top-council-boss-has-been-disqualified-from-driving-for-two-years/)
-    
-    [![The Walworth Society excitedly posted this photo of the coverings removed from the historic building. Credit: The Walworth Society](https://southwarknews.co.uk/wp-content/uploads/2024/09/boom-360x180.png)](https://southwarknews.co.uk/area/walworth/walworths-victorian-town-hall-now-worth-staggering-25-million-eleven-years-after-being-ravaged-by-devastating-fire-after-stunning-restoration/)
-    
-    ### [Walworth’s Victorian town hall now worth staggering £25 million eleven years after being ravaged by devastating fire after stunning restoration](https://southwarknews.co.uk/area/walworth/walworths-victorian-town-hall-now-worth-staggering-25-million-eleven-years-after-being-ravaged-by-devastating-fire-after-stunning-restoration/)
-    
-    [![Emergency services attended the incident on Rye Lane, Peckham. Image: Google Maps](https://southwarknews.co.uk/wp-content/uploads/2024/09/Emergency-services-attended-the-incident-on-Rye-Lane-Peckham.-Image-Google-Maps-360x180.png)](https://southwarknews.co.uk/area/peckham/man-stabbed-on-peckham-high-street/)
-    
-    ### [Man stabbed on Peckham high street](https://southwarknews.co.uk/area/peckham/man-stabbed-on-peckham-high-street/)
-    
-    [![Police would like to speak to the man pictured in connection with the incident. Image: British Transport Police](https://southwarknews.co.uk/wp-content/uploads/2024/09/Police-would-like-to-speak-to-the-man-pictured-in-connection-with-the-incident.-Image-British-Transport-Police-360x180.png)](https://southwarknews.co.uk/area/borough/police-investigating-masturbator-on-london-bridge-train/)
-    
-    ### [Police investigating ‘masturbator’ on London Bridge train](https://southwarknews.co.uk/area/borough/police-investigating-masturbator-on-london-bridge-train/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [In depth history](https://southwarknews.co.uk/category/history/in-depth-history/)
@@ -232,6 +232,24 @@ Image from Google Street View](https://southwarknews.co.uk/wp-content/uploads/20
 
 ### Featured Articles
 
+[![Neil Coyle has managed to see the funny side of the situation but insists MPs' safety remains a serious issue](https://southwarknews.co.uk/wp-content/uploads/2024/09/Neil-Coyle-has-managed-to-see-the-funny-side-of-the-situation-but-insists-MPs-safety-remains-a-serious-issue-120x86.png)](https://southwarknews.co.uk/area/bermondsey/furious-mp-neil-coyle-searching-for-gollum-lookalike-and-says-he-must-apologise-for-egging-his-office/)
+
+### [Furious MP Neil Coyle searching for ‘Gollum lookalike’ and says he must apologise for egging his office](https://southwarknews.co.uk/area/bermondsey/furious-mp-neil-coyle-searching-for-gollum-lookalike-and-says-he-must-apologise-for-egging-his-office/)
+
+[17th September 2024](https://southwarknews.co.uk/area/bermondsey/furious-mp-neil-coyle-searching-for-gollum-lookalike-and-says-he-must-apologise-for-egging-his-office/)
+
+[![Credit: LFB](https://southwarknews.co.uk/wp-content/uploads/2024/06/stock-fire-engines-1-london-fire-brigade-120x86.jpeg)](https://southwarknews.co.uk/area/peckham/twenty-tonnes-of-recyclable-waste-destroyed-in-fire-off-old-kent-road/)
+
+### [Twenty tonnes of recyclable waste destroyed in fire off Old Kent Road](https://southwarknews.co.uk/area/peckham/twenty-tonnes-of-recyclable-waste-destroyed-in-fire-off-old-kent-road/)
+
+[17th September 2024](https://southwarknews.co.uk/area/peckham/twenty-tonnes-of-recyclable-waste-destroyed-in-fire-off-old-kent-road/)
+
+[![The Rising SE1 founders Simon Burke and Piers Greenlees.](https://southwarknews.co.uk/wp-content/uploads/2024/04/Founder-Simon-Burke-and-Piers-Greenlees-120x86.jpeg)](https://southwarknews.co.uk/area/bermondsey/londons-first-lgbtq-cinema-is-set-to-open-in-a-bermondsey/)
+
+### [London’s first LGBTQ+ cinema is set to open in a Bermondsey](https://southwarknews.co.uk/area/bermondsey/londons-first-lgbtq-cinema-is-set-to-open-in-a-bermondsey/)
+
+[17th September 2024](https://southwarknews.co.uk/area/bermondsey/londons-first-lgbtq-cinema-is-set-to-open-in-a-bermondsey/)
+
 [![JD Wetherspoon has applied for a license at 50 Tooley Street. Image: Google](https://southwarknews.co.uk/wp-content/uploads/2024/09/JD-Wetherspoon-has-applied-for-a-license-at-50-Tooley-Street.-Image-Google-120x86.png)](https://southwarknews.co.uk/area/borough/wetherspoons-to-open-pub-in-former-london-dungeon/)
 
 ### [Wetherspoons to open pub in former London Dungeon](https://southwarknews.co.uk/area/borough/wetherspoons-to-open-pub-in-former-london-dungeon/)
@@ -249,25 +267,6 @@ Image from Google Street View](https://southwarknews.co.uk/wp-content/uploads/20
 ### [£1 million anti-terrorism barriers for Borough Market ditched in ‘big win’ for traders](https://southwarknews.co.uk/area/borough/1-million-anti-terrorism-barriers-for-borough-market-ditched-in-big-win-for-traders/)
 
 [17th September 2024](https://southwarknews.co.uk/area/borough/1-million-anti-terrorism-barriers-for-borough-market-ditched-in-big-win-for-traders/)
-
-[![Southwark Council HQ on Tooley Street. Photo from Google Street View](https://southwarknews.co.uk/wp-content/uploads/2024/06/Southwark-Council-HQ-on-Tooley-Street.-Photo-from-Google-Street-View-1-120x86.jpg)](https://southwarknews.co.uk/area/southwark/unexpected-success-of-southwark-councils-green-investment-scheme-sees-new-funding-round-launched/)
-
-### [Unexpected success of Southwark Council’s green investment scheme sees new funding round launched](https://southwarknews.co.uk/area/southwark/unexpected-success-of-southwark-councils-green-investment-scheme-sees-new-funding-round-launched/)
-
-[16th September 2024](https://southwarknews.co.uk/area/southwark/unexpected-success-of-southwark-councils-green-investment-scheme-sees-new-funding-round-launched/)
-
-[![Miatta Fahnbulleh (second from left) visited the store to thank workers.](https://southwarknews.co.uk/wp-content/uploads/2024/09/Southwark-Food-Bank-Morrisons-1-1-120x86.png)](https://southwarknews.co.uk/area/peckham/morrisons-supermarket-becomes-latest-donor-to-burgled-peckham-food-bank-with-1000-contribution/)
-
-### [Morrisons supermarket becomes latest donor to burgled Peckham food bank with £1,000 contribution](https://southwarknews.co.uk/area/peckham/morrisons-supermarket-becomes-latest-donor-to-burgled-peckham-food-bank-with-1000-contribution/)
-
-[16th September 2024](https://southwarknews.co.uk/area/peckham/morrisons-supermarket-becomes-latest-donor-to-burgled-peckham-food-bank-with-1000-contribution/)
-
-[![Bayo Dosunmu 
-Photo by Facundo Arrizabalaga/MyLondon](https://southwarknews.co.uk/wp-content/uploads/2024/09/Bayo-Dosunmu-ex-chief-executive-of-Lambeth-Council-120x86.jpg)](https://southwarknews.co.uk/featured/former-top-council-boss-has-been-disqualified-from-driving-for-two-years/)
-
-### [Former top council boss has been disqualified from driving for two years](https://southwarknews.co.uk/featured/former-top-council-boss-has-been-disqualified-from-driving-for-two-years/)
-
-[16th September 2024](https://southwarknews.co.uk/featured/former-top-council-boss-has-been-disqualified-from-driving-for-two-years/)
 
 ### USEFUL PAGES
 
