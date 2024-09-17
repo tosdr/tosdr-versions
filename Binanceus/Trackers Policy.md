@@ -12,22 +12,18 @@
 * [Log In](https://www.binance.us/login)
 * [Sign Up](https://www.binance.us/register)
 
-Binance.US Cookie Policy
-========================
+COOKIE POLICY
+=============
 
-Last Updated: January 20, 2023
+Last Updated: September 16, 2024
+================================
 
-Introduction
-============
-
-This Cookie Policy explains how BAM Trading Services Inc. d/b/a Binance.US (“our,” “we,” or “**BAM**” ) uses cookies and similar technologies when you visit our website at [binance.us](https://www.binance.us/) or any other websites, pages, features, or content we own or operate (collectively, the “Sites”) or when you use the Binance.US mobile app (collectively, the “Services”). This policy explains what cookies are, how and why we use them, and how you can exercise your options to limit our use of cookies.
+This Cookie Policy explains how BAM Trading Services Inc. d/b/a Binance.US (“our,” “we,” or “**BAM**” ) uses cookies and similar technologies when you visit our website at [binance.us](https://www.binance.us/) or any other websites, pages, features, or content we own or operate (collectively, the “Sites”) or when you use the Binance.US mobile app (collectively, the “Services”). This policy explains what cookies are, how and why we use them, and how you can exercise your options to limit our use of cookies. For more information on our privacy practices, please visit our Privacy Policy.
 
 Cookies and Other Technologies
 ==============================
 
-A cookie is a small data file that is stored on your computer or other device when you visit certain websites. Cookies help to track user-specific information and activities to ensure a consistent and efficient experience for visitors, and perform essential functions such as allowing users to register for an account and remain logged in. Cookies may be set by the site that you are visiting (known as “first party cookies”), or by third parties, such as those who serve content or provide advertising or analytics services on the website (“third party cookies”). For general information about cookies (including how to disable/enable them), visit [https://allaboutcookies.org/](https://allaboutcookies.org/) .
-
-We may also employ other technologies including tracking pixels and code snippets that interact with external services to record online behaviors.
+A cookie is a small data file that is stored on your computer or other device when you visit certain websites. Cookies help to track user-specific information and activities to ensure a consistent and efficient experience for visitors, and perform essential functions such as allowing users to register for an account and remain logged in. Cookies may be set by the site that you are visiting (known as “first party cookies”), or by third parties, such as those who serve content or provide advertising or analytics services on the website (“third party cookies”). For general information about cookies (including how to disable/enable them), visit [https://allaboutcookies.org/](https://allaboutcookies.org/). We may also employ other technologies including tracking pixels and code snippets that interact with external services to record online behaviors; we refer to cookies, pixels, and other similar technologies as “cookies” herein.
 
 How We Use Cookies
 ==================
@@ -39,18 +35,21 @@ Categories of Cookies
 
 We use the following types of cookies:
 
-1. **Strictly Necessary Cookies**. These cookies are essential for our website and services to perform basic functions and are necessary for us to operate certain features.
-2. **Preference and Functionality Cookies**. These cookies enable our website to remember information about your preferences such as your selected language.
-3. **Analytics Cookies**. These cookies help us understand how visitors interact with our website by collecting and reporting information about your visit, including the pages viewed and time spent on the website.
-4. **Advertising and Marketing Cookies**. These cookies are used to remember a visitor to our website in order to display ads that are relevant and engaging to you on other websites, as well as limit the number of times you see an advertisement. These cookies also help us measure our advertising or email marketing campaigns’ effectiveness. You can learn more about how to opt out of these cookie uses below.
+* **Necessary Cookies**. These cookies are essential for our website and services to perform basic functions and are necessary for us to operate certain features.
+* **Functional Cookies**. These cookies enable our website to remember information about your preferences such as your selected language.
+* **Analytics Cookies**. These cookies help us understand how visitors interact with our website by collecting and reporting information about your visit, including the pages viewed and time spent on the website.
+* **Performance Cookies**. These cookies are used to understand and analyze the key performance indexes of our website which helps in delivering a better user experience for visitors.
+* **Advertisement Cookies.**. These cookies are used to remember a visitor to our website in order to display ads that are relevant and engaging to you on other websites, as well as limit the number of times you see an advertisement. These cookies also help us measure our advertising or email marketing campaigns’ effectiveness. You can learn more about how to opt out of these cookie uses below.
 
 How to Opt Out of Our Cookie Use
 ================================
 
 You can opt out of cookie use in the following ways:
 
-1. **Through your browser**. You can adjust your browser settings so that your browser blocks all or some cookies. You can also delete cookies that have already been placed. Please note that our website or Services may not recognize automated browser signals regarding tracking mechanisms, such as “do not track” instructions.
-2. **With each of our vendors individually**. The following are vendors with advertising and marketing cookies that our website uses and a link to each vendor’s opt out page:
+* **Via our cookie preference center**. You can modify your consent preferences related to our use of cookies via our cookie preferences center.
+* **Through your browser**. You can adjust your browser settings so that your browser blocks all or some cookies. You can also delete cookies that have already been placed. Please note that our website or Services may not recognize automated browser signals regarding tracking mechanisms, such as “do not track” instructions.
+* **Through industry-wide opt-out mechanisms**. Consumers can submit an industry-wide opt-out request for interest-based advertising through the Digital Advertising Alliance’s (DAA) opt-out website which can be found at optout.aboutads.info.
+* **With each of our vendors individually**. The following are vendors with advertising and marketing cookies that our website uses and a link to each vendor’s opt out page:
 
 Analytics Cookies
 
@@ -62,9 +61,21 @@ Microsoft Analytics
 
 [Microsoft Privacy Statement](https://privacy.microsoft.com/en-US/privacystatement)
 
+RudderStack
+
+[RudderStack Privacy Policy](https://www.rudderstack.com/privacy-policy/)
+
+Fullstory
+
+[Fullstory Privacy Statement](https://www.fullstory.com/legal/privacy-policy/)
+
+Onclusive
+
+[Onclusive Privacy Policy](https://onclusive.com/legal/privacy-policy/)
+
 Advertising Cookies
 
-Google
+Youtube (Google)
 
 [Google Advertising Opt Out](https://support.google.com/ads/answer/2662922?hl=en-GB)
 
@@ -80,15 +91,21 @@ Pinterest
 
 [Pinterest Personalization and Data center](https://help.pinterest.com/en/article/personalization-and-data)
 
-Snap
-
-[Snapchat Ad Preferences](https://support.snapchat.com/en-US/a/advertising-preferences)
-
 TikTok
 
 [TikTok Personalized Ad Preferences](https://support.tiktok.com/en/account-and-privacy/personalized-ads-and-data/personalization-and-data)
 
-Analytics Cookies
+X (formerly known as Twitter)
+
+[X Opt Out](https://help.twitter.com/en/safety-and-security/privacy-controls-for-tailored-ads)
+
+Snap
+
+[Snapchat Advertising Preferences](https://help.snapchat.com/hc/en-us/articles/7012345515796-How-do-I-change-my-advertising-and-interest-preferences-on-Snapchat)
+
+AppNexus (Xandr)
+
+[Xandr Privacy Center](https://monetize.xandr.com/privacy-center/)
 
 Other Cookies
 
@@ -100,17 +117,18 @@ Reddit
 
 [Reddit Privacy Settings](https://www.reddit.com/settings/privacy)
 
-While we do not believe we “sell” your personal information (as defined by the California Consumer Privacy Act (CCPA)) to Quora or Reddit for marketing purposes, given the broad language of the CCPA, the Quora and Reddit cookies placed on our website may be interpreted as a “sale” of your personal information. You may choose to opt out of these cookies by exercising an industry-wide opt-out mechanism (detailed below) or by changing your preferences with Quora and Reddit.
+Our analytics cookies vendors are ‘Service Providers’ as defined under CCPA and are contractually prohibited from selling or sharing the personal data, or otherwise retaining, using, or disclosing personal information for any purpose other than providing their services to us.
 
-5. **Through industry-wide opt-out mechanisms**. Consumers can submit an industry-wide opt-out request for interest-based advertising through the Digital Advertising Alliance’s (DAA) opt-out website which can be found at [optout.aboutads.info.](https://optout.aboutads.info/?c=2&lang=EN)
+  
+
+While we do not “sell” your personal information for monetary consideration to the above advertising providers, given the broad language of the California Consumer Privacy Act (CCPA), the advertising cookies we enable to be used on our website may be considered as a “sale or “share” of your personal information as defined by the CCPA. You may choose to opt out of these cookies by exercising an industry-wide opt-out mechanism (detailed above) or by changing your preferences directly with the above providers.
 
 App Tracking
 ============
 
-The Binance.US app uses software codes provided by our business partners (software development kits or SDKs) that let our software interact with the services those partners provide. Sometimes these interactions will involve that business partner collecting some information from the device on which the software is run.
+The Binance.US app uses software codes provided by our mobile application business partners (software development kits or SDKs) that let our mobile application software interact with the services those partners provide. Sometimes these interactions will involve that business partner collecting some information from the device on which the software is run.
 
-To view our app privacy disclosure:
------------------------------------
+**To view our app privacy disclosure:**
 
 On iOS:
 
@@ -120,8 +138,7 @@ On Android:
 
 * Open **Google Play**. Browse or use the search bar to find the Binance.US app. Click on the app. Under **Data safety**, you’ll find a summary of the app’s data safety practices. For more detail, tap **See details**.
 
-To opt out of tracking:
------------------------
+**To opt out of ‘tracking’ through your mobile operating system:**
 
 On iOS:
 
@@ -140,7 +157,15 @@ We may revise this Cookie Policy from time to time. If we make any changes, we w
 Contact Us
 ==========
 
-For more information about our use of cookies, please contact us at [privacy@binance.us](mailto:privacy@binance.us)
+For more information about our use of cookies, please contact us at [privacy@binance.us](mailto:privacy@binance.us) or at our mailing address below:
+
+Attn: Privacy
+
+BAM Trading Services Inc.
+
+252 NW 29th Street, Suite 905
+
+Miami, FL 33127
 
 * ### Company
     
