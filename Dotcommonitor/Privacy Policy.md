@@ -388,7 +388,7 @@ Resources
 * [Learn](https://www.dotcom-monitor.com/learn/)
 * [Glossary](https://www.dotcom-monitor.com/learn/glossary/)
 * [Website Monitoring Guide](https://www.dotcom-monitor.com/learn/glossary/website-monitoring/)
-* [Synthetic Monitoring Guide](https://www.dotcom-monitor.com/synthetic-monitoring/)
+* [Synthetic Monitoring Guide](https://www.dotcom-monitor.com/learn/what-is-synthetic-monitoring/)
 * [Women in Computing](https://www.loadview-testing.com/scholarship/)
 
 Menu
@@ -399,7 +399,7 @@ Menu
 * [Learn](https://www.dotcom-monitor.com/learn/)
 * [Glossary](https://www.dotcom-monitor.com/learn/glossary/)
 * [Website Monitoring Guide](https://www.dotcom-monitor.com/learn/glossary/website-monitoring/)
-* [Synthetic Monitoring Guide](https://www.dotcom-monitor.com/synthetic-monitoring/)
+* [Synthetic Monitoring Guide](https://www.dotcom-monitor.com/learn/what-is-synthetic-monitoring/)
 * [Women in Computing](https://www.loadview-testing.com/scholarship/)
 
 [Web Services Monitoring](https://www.dotcom-monitor.com/solutions/web-services-monitoring/)
@@ -450,7 +450,7 @@ Company
 * [Contact Us](https://www.dotcom-monitor.com/contact/)
 * [Knowledge Base](https://www.dotcom-monitor.com/wiki/)
 * [System Status Updates](https://status.dotcom-monitor.com/)
-* [Partners and Integrations](https://www.dotcom-monitor.com/features/integrations/)
+* [Partners and Integrations](https://www.dotcom-monitor.com/integrations/)
 * [Professional Services](https://www.dotcom-monitor.com/professional-services/)
 * [Our Blog](https://www.dotcom-monitor.com/blog/)
 
@@ -460,7 +460,7 @@ Menu
 * [Contact Us](https://www.dotcom-monitor.com/contact/)
 * [Knowledge Base](https://www.dotcom-monitor.com/wiki/)
 * [System Status Updates](https://status.dotcom-monitor.com/)
-* [Partners and Integrations](https://www.dotcom-monitor.com/features/integrations/)
+* [Partners and Integrations](https://www.dotcom-monitor.com/integrations/)
 * [Professional Services](https://www.dotcom-monitor.com/professional-services/)
 * [Our Blog](https://www.dotcom-monitor.com/blog/)
 
@@ -522,7 +522,7 @@ Company
 * [Contact Us](https://www.dotcom-monitor.com/contact/)
 * [Knowledge Base](https://www.dotcom-monitor.com/wiki/)
 * [System Status Updates](https://status.dotcom-monitor.com/)
-* [Partners and Integrations](https://www.dotcom-monitor.com/features/integrations/)
+* [Partners and Integrations](https://www.dotcom-monitor.com/integrations/)
 * [Professional Services](https://www.dotcom-monitor.com/professional-services/)
 * [Our Blog](https://www.dotcom-monitor.com/blog/)
 
@@ -530,7 +530,7 @@ Company
 * [Contact Us](https://www.dotcom-monitor.com/contact/)
 * [Knowledge Base](https://www.dotcom-monitor.com/wiki/)
 * [System Status Updates](https://status.dotcom-monitor.com/)
-* [Partners and Integrations](https://www.dotcom-monitor.com/features/integrations/)
+* [Partners and Integrations](https://www.dotcom-monitor.com/integrations/)
 * [Professional Services](https://www.dotcom-monitor.com/professional-services/)
 * [Our Blog](https://www.dotcom-monitor.com/blog/)
 
@@ -542,7 +542,7 @@ RESOURCES
 * [Learn](https://www.dotcom-monitor.com/learn/)
 * [Glossary](https://www.dotcom-monitor.com/learn/glossary/)
 * [Website Monitoring Guide](https://www.dotcom-monitor.com/learn/glossary/website-monitoring/)
-* [Synthetic Monitoring Guide](https://www.dotcom-monitor.com/synthetic-monitoring/)
+* [Synthetic Monitoring Guide](https://www.dotcom-monitor.com/learn/what-is-synthetic-monitoring/)
 * [Women in Computing](https://www.loadview-testing.com/scholarship/)
 
 Menu
@@ -553,7 +553,7 @@ Menu
 * [Learn](https://www.dotcom-monitor.com/learn/)
 * [Glossary](https://www.dotcom-monitor.com/learn/glossary/)
 * [Website Monitoring Guide](https://www.dotcom-monitor.com/learn/glossary/website-monitoring/)
-* [Synthetic Monitoring Guide](https://www.dotcom-monitor.com/synthetic-monitoring/)
+* [Synthetic Monitoring Guide](https://www.dotcom-monitor.com/learn/what-is-synthetic-monitoring/)
 * [Women in Computing](https://www.loadview-testing.com/scholarship/)
 
 WEB SERVICES
