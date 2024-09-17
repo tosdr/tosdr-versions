@@ -283,9 +283,9 @@ Your partner in trust transformation
 
 ### Resources
 
+* [Mastering first-party data: The complete playbook for marketers](https://www.onetrust.com/resources/ultimate-guide-to-first-party-data-ebook/)
 * [Tech risk & compliance masterclass: An evidence-based approach to building by-design risk and compliance practices](https://www.onetrust.com/resources/tech-risk-and-compliance-masterclass-an-evidence-based-approach-to-building-by-design-risk-and-compliance-practices-webinar/)
 * [Global regulatory update: Recent privacy developments and compliance trends](https://www.onetrust.com/resources/global-regulatory-update-recent-privacy-developments-and-compliance-trends-webinar/)
-* [From reactive to proactive: Transforming your ethics & compliance program](https://www.onetrust.com/resources/from-reactive-to-proactive-transforming-your-ethics-and-compliance-program-webinar/)
 
 ### Platform
 
