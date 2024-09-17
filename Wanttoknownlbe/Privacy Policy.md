@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/nieuws/dagboek-van-een-verontruste-moeder/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/gezondheid/zuster-teresa-forcades-luidt-de-bel-inzake-de-griep/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
