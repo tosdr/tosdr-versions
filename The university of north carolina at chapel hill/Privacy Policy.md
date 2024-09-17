@@ -94,12 +94,12 @@ Hide Main Navigation Menu
 
 ### Featured
 
-* [![](https://www.unc.edu/wp-content/uploads/2024/09/ProvostAI-250x141.jpg)
+* [![](https://www.unc.edu/wp-content/uploads/2024/09/HERO-Ackland-250x141.png)
     
-    Provost’s Office announces new AI initiatives](https://www.unc.edu/posts/2024/09/16/provosts-office-announces-new-ai-initiatives/)
-* [![](https://www.unc.edu/wp-content/uploads/2024/09/DAA_V3-250x141.png)
+    Gift expands Ackland’s conservation efforts](https://www.unc.edu/posts/2024/09/17/gift-expands-acklands-conservation-efforts/)
+* [![](https://www.unc.edu/wp-content/uploads/2023/09/fluHERO-250x141.png)
     
-    4 selected for Distinguished Alumni Awards](https://www.unc.edu/posts/2024/09/16/4-selected-for-distinguished-alumni-awards/)
+    How to get a flu vaccination at Carolina](https://www.unc.edu/posts/2024/09/17/how-to-get-a-flu-vaccination-at-carolina/)
 
 About the University
 
@@ -477,7 +477,7 @@ Please contact [privacy@unc.edu](mailto:privacy@unc.edu) for more information on
 
  [LinkedIn](https://www.linkedin.com/sharing/share-offsite/?mini=true&url=%url%&title=%title%)
 
- [Email](https://www.unc.edu/wp-admin/admin-ajax.php?action=has_email_social_modal&permalink=%url%&nonce=9b5cfd0cac&text=%prefix%%text%%suffix%&post_id=0&type=%type%)
+ [Email](https://www.unc.edu/wp-admin/admin-ajax.php?action=has_email_social_modal&permalink=%url%&nonce=17ec2cf3d2&text=%prefix%%text%%suffix%&post_id=0&type=%type%)
 
 ### Share on Mastodon
 
