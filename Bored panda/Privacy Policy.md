@@ -234,7 +234,7 @@ Agree
     
 * [](javascript:void(0);)
     
-* [_Add post form top_ Add post](https://www.boredpanda.com/add-new-post/)
+* [_Add post form top_](https://www.boredpanda.com/add-new-post/ "Add post")
 * [Log in](javascript:void(0);)
 
 * [Featured](https://www.boredpanda.com/)
