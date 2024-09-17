@@ -33,6 +33,7 @@ MyData
     * [Making Sense of Wallets 2: Anticipating Public Sector Demand](https://mydata.org/event/making-sense-of-wallets-2-anticipating-public-sector-demand/)
     * [Webinars](https://mydata.org/event_cat/webinar/)
 * [News](https://mydata.org/updates/)
+    * [Member Opportunities Board](https://mydata.org/member-opportunities/)
 
 * [Login](https://mydata.org/member-login/)
 * [Show Search](#header-search-wrap)
