@@ -113,7 +113,7 @@ If you would like more information about any of the above, please do not hesitat
 
 Click here to go back to the frontpage.
 
-This is version 1.16.0 of CardGames.io.
+This is version 1.17.0 of CardGames.io.
 
 Game failed to load
 -------------------
