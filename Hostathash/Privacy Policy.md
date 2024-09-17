@@ -1,13 +1,11 @@
-![fbpx](https://www.facebook.com/tr?id=1301061163606085&ev=PageView&noscript=1) 
+![fbpx](https://www.facebook.com/tr?id=1301061163606085&ev=PageView&noscript=1)    
 
 WhatsApp: +1-3523898104 [support@hostathash.com](mailto:support@hostathash.com)
 
 * Already have an Account ?
 * [Login](https://my.hostathash.com/clientarea.php)
 
-[![HostatHash](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNjgiIGhlaWdodD0iNDAiIHZpZXdCb3g9IjAgMCAxNjggNDAiPjxyZWN0IHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIGZpbGw9IiNjZmQ0ZGIiLz48L3N2Zz4=)
-
-![HostatHash](https://hostathash.com/wp-content/uploads/2019/01/small-logo.png)](https://hostathash.com/)
+[![HostatHash](https://hostathash.com/wp-content/uploads/2019/01/small-logo.png)](https://hostathash.com/)
 
 * [Home](https://hostathash.com/)
 * Domain
@@ -123,11 +121,6 @@ We do not disclose your information without your consent except as provided for 
 
 You can review and update your personally identifiable information by logging into your account and managing your profile settings. Alternatively, you can send us an email at **support@hostathash.com**, with the specific request to update your personally identifiable information in our records. However, we may not be able to update all the requested information in case it violates any applicable law. Some information may be un-editable without creating a new user account.
 
-### **Google user data**
-
-We have sig-in with Google implemented on our website to make it easy for our clients to signup and sign-in.  
-We take privacy and security seriously so when accessing Google user data, the our application only collects and stores the email address of the primary Google account which is only used to create your user account. Beyond that, we do not need any of your personal data. Although we have access to personal information that you make public, we assure that no data is collected or stored in our database. We respect our users privacy hence we do not share any of your data with third-parties. We aim to provide our customers with a reliable and secure hosting environment and we strictly follow Google’s data usage policies to protect the privacy and confidentiality of the user data we access and store.
-
 ### **Data Security**
 
 We have implemented strong human and technological safeguards to prevent loss or misuse of your information so collected through your use of this Website or Website service. However, despite our best efforts, there cannot be a foolproof mechanism to prevent loss or unauthorized access to sensitive information stored on our servers by hackers due to rapid advancement in technology. For all such accidental or inadvertent data loss, the Company shall not be liable to anyone.
@@ -156,7 +149,7 @@ We will consider all requests and provide our response within the time period st
 
 In case you still have any questions or privacy concerns on the Website, please contact us at **support@hostathash.com** We shall strive to answer all your queries at our earliest administrative convenience.
 
-Last Updated: 08 November 2023
+Last Updated: 8 June 2018
 
 #### Hosting Packages
 
@@ -191,6 +184,10 @@ Last Updated: 08 November 2023
   
 
 * [Facebook](https://www.facebook.com/HostatHash)
-* [X](https://twitter.com/HostatHash)
+* [Twitter](https://twitter.com/HostatHash)
 
-© Copyright 2017-2023 HostatHash | All Rights Reserved | [Terms of Service](https://hostathash.com/terms-of-service/) | [Privacy Policy](https://hostathash.com/privacy-policy/) | [Refund Policy](https://hostathash.com/refund-policy/)
+© Copyright 2017-2021 HostatHash | All Rights Reserved
+
+        
+
+We use cookies to ensure that we give you the best experience on our website. If you continue to use this site we will assume that you are happy with it.[Ok](#)[Privacy policy](https://hostathash.com/privacy-policy/)[](javascript:void(0);)
