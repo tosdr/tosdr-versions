@@ -133,6 +133,6 @@ These Terms will be governed by and construed in accordance with the laws of the
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-Thank you once again for your prompt and excellent service! You guys have the best customer service I have ever seen…by a LOT! ;-)
+FANTASTIC - Thank you very much, I can now receive BBC iPlayer without being blocked
 
-Chelsea Madison
+Ray Sydney Brown
