@@ -1,60 +1,95 @@
-[![Site Logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20768%20169'%3E%3C/svg%3E)
+WATCH NOW: [Uncovering Hidden Risks in Your Third-Party Risk Management Program](https://www.evidentid.com/resources/uncovering-hidden-risks-in-your-third-party-risk-management-program/)
 
-![Site Logo](https://www.evidentid.com/wp-content/uploads/2024/04/evident-id-logo-alt.svg)](https://www.evidentid.com/)
+[](#)
 
-* [Solutions](https://www.evidentid.com/)
-    * [COLUMN 1](#)
-        * [Platform OverviewEvident’s Third Party Risk Management Platform revolutionizes the exchange of third party risk data.](https://www.evidentid.com/third-party-risk-management-platform/)
-        * [Insurance VerificationSimply the process of managing and vetting COIs to stay protected against third party risks.](https://www.evidentid.com/products/insurance-verification/)
-        * [The Evident NetworkThe Evident Network goes beyond just verifying vendors.](https://www.evidentid.com/the-evident-network/)
-* [Customer Stories](https://www.evidentid.com/case-studies-real-results/)
-* [Learning Center](https://www.evidentid.com/insurance-verification-news/)
-    * [COLUMN 1](#)
-        * [Blog](https://www.evidentid.com/resource-category/blog/)
-        * [Webinars](https://www.evidentid.com/resource-category/webinars/)
-        * [Videos](https://www.evidentid.com/resource-category/videos/)
-        * [Reports](https://www.evidentid.com/resource-category/reports/)
-    * [COLUMN 2](#)
-        * [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20700%20467'%3E%3C/svg%3E)
-            
-            ![](https://www.evidentid.com/wp-content/uploads/2024/03/Media-Liability-Insurance-Coverage-700x467.jpg)
-            
-            Learning CenterKnowledge and information straight from the industry experts.](https://www.evidentid.com/resource-category/blog/)
-        * [Learning Center](https://www.evidentid.com/resource-category/blog/)
-* [Company](https://www.evidentid.com/)
-    * [COLUMN 1](#)
-        * [About Us](https://www.evidentid.com/about-us/)
-        * [Careers](https://www.evidentid.com/careers/)
-        * [News](https://www.evidentid.com/resource-category/news/)
-    * [COLUMN 2](#)
-        * [![person on phone working on insurance verification](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20700%20372'%3E%3C/svg%3E)
-            
-            ![person on phone working on insurance verification](https://www.evidentid.com/wp-content/uploads/2021/06/insurance-verification-news-EvidentID-hero-1-700x372.jpeg)
-            
-            CompanyEvident Surpasses 4 Million Members on The Evident Network](https://www.evidentid.com/about-us/)
-        * [Read More](https://www.evidentid.com/resources/evident-surpasses-4-million-members-on-the-evident-network/)
-
-* [Partners](https://www.evidentid.com/partners/)
-* [Support](https://www.evidentid.com/support/)
-* [Request a Demo](https://www.evidentid.com/request-a-demo/)
-
-[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20150%2033'%3E%3C/svg%3E)
-
-![](https://www.evidentid.com/wp-content/uploads/2024/04/evident-id-logo-alt.svg)](https://www.evidentid.com/)
+[![](https://www.evidentid.com/wp-content/uploads/2024/07/evident-id-logo-alt.svg)](https://www.evidentid.com/)
 
 * [Solutions](#)
-    * [Platform Overview](https://www.evidentid.com/third-party-risk-management-platform/)
-    * [The Evident Network](https://www.evidentid.com/the-evident-network/)
-* [Customer Stories](https://www.evidentid.com/case-studies-real-results/)
+    * * * #### OUR SOLUTIONS
+                
+                * [Platform OverviewRevolutionize the exchange of third-party risk data to better inform your risk management program](https://www.evidentid.com/third-party-risk-management-platform/)
+                * [Evident NetworkEvident brings all of your third parties together in our network of over 4 million verified members.](https://www.evidentid.com/the-evident-network/)
+                
+        * * #### USE CASES
+                
+                * [COI Tracking](https://www.evidentid.com/use-cases/coi-tracking/)
+                * [Third-Party Lifecycle Management](https://www.evidentid.com/use-cases/third-party-lifecycle-management/)
+                * [Due Diligence](https://www.evidentid.com/use-cases/due-diligence/)
+                * [Contractual Risk Transfer](https://www.evidentid.com/use-cases/contractual-risk-transfer/)
+                
+        * * [![](https://www.evidentid.com/wp-content/uploads/2024/09/Certificate-Of-Insurance-mistakes-300x200.jpg)
+                
+                ### How Automated Risk Transfer Transformed Risk Management at a Fortune 100 Grocery Retailer
+                
+                Transform vendor risk management with automated credentialing, boosting efficiency, and freeing time for strategic initiatives.
+                
+                Learn More](https://www.evidentid.com/resources/automated-vendor-credentialing/)
+                
+* [Products](#)
+    * * * #### ONBOARDING
+                
+                * [For Vendors & SuppliersEnsure the reliability and compliance of your third party network](https://www.evidentid.com/products/onboarding-vendors-and-suppliers/)
+                
+        * * #### DILIGENCE
+                
+                * [For Vendors and SuppliersStreamline your verification process and mitigate potential risks](https://www.evidentid.com/products/due-diligence-for-vendors-and-suppliers/)
+                * [For Local Service ProvidersAutomate and streamline your provider’s due diligence process](https://www.evidentid.com/products/due-diligence-for-local-service-providers/)
+                * [For Activity ProvidersMeet the highest standards of safety, compliance, and reliability](https://www.evidentid.com/products/due-diligence-for-activity-providers/)
+                * [For Home SharingEnsure thorough host vetting and compliance](https://www.evidentid.com/products/due-diligence-for-home-sharing/)
+                * [For Care ProvidersEnsure care providers meet your standards](https://www.evidentid.com/products/due-diligence-for-care-providers/)
+                
+        * * #### RISK TRANSFER
+                
+                * [For Vendors and Suppliers](https://www.evidentid.com/products/risk-transfer-for-vendors-and-suppliers/)
+                * [For Subcontractors](https://www.evidentid.com/products/risk-transfer-for-subcontractors/)
+                * [For Borrowers](https://www.evidentid.com/products/risk-transfer-for-borrowers/)
+                * [For Motor Carriers](https://www.evidentid.com/products/risk-transfer-for-motor-carriers/)
+                * [For Franchisees](https://www.evidentid.com/products/risk-transfer-for-franchisees/)
+                * [For Equipment Renters](https://www.evidentid.com/products/risk-transfer-for-equipment-renters/)
+                * [For Commercial Tenants](https://www.evidentid.com/products/risk-transfer-for-commercial-tenants/)
+                
+* [Who Benefits](#)
+    * * * #### FOR TEAMS
+                
+                * [Risk Management](https://www.evidentid.com/teams/risk-management/)
+                * [Trust & Safety](https://www.evidentid.com/teams/trust-and-safety-teams/)
+                * [Procurement](https://www.evidentid.com/teams/procurement-teams/)
+                * [Finance](https://www.evidentid.com/teams/finance-teams/)
+                * [Operations](https://www.evidentid.com/teams/operations-teams/)
+                
+        * * #### BY INDUSTRY
+                
+                * [Construction](https://www.evidentid.com/industry/construction/)
+                * [Finance](https://www.evidentid.com/industry/financial-services/)
+                * [Hospitality](https://www.evidentid.com/industry/hospitality/)
+                * [Manufacturing](https://www.evidentid.com/industry/manufacturing/)
+                * [Municipalities](https://www.evidentid.com/industry/municipalities/)
+                * [Real Estate](https://www.evidentid.com/industry/real-estate/)
+                * [Retail](https://www.evidentid.com/industry/retail/)
+                * [Transportation](https://www.evidentid.com/industry/transportation/)
+                
+        * * [![resource](https://www.evidentid.com/wp-content/uploads/2024/07/resource-dummy-300x200.jpg)
+                
+                ### Benchmark Report on Third-Party Insurance Coverage
+                
+                Our ongoing research exposes the inadequacies of many credentialing programs, leaving organizations exposed to significant risks.
+                
+                Read More](https://www.evidentid.com/resources/benchmark-report-on-third-party-insurance-coverage/)
+                
+* [Customer Stories](https://www.evidentid.com/case-studies/)
 * [Learning Center](#)
-    * [Blog](https://www.evidentid.com/resource-category/blog/)
-    * [Webinars](https://www.evidentid.com/resource-category/webinars/)
-    * [Videos](https://www.evidentid.com/resource-category/videos/)
-    * [Reports](https://www.evidentid.com/resource-category/reports/)
-* [Company](#)
-    * [About Us](https://www.evidentid.com/about-us/)
-    * [Careers](https://www.evidentid.com/careers/)
-    * [News](https://www.evidentid.com/resource-category/news/)
+    * * * * [Blogs](https://www.evidentid.com/resources/?keyword=&topics=&types=blog)
+                * [Video](https://www.evidentid.com/resources/?keyword=&topics=&types=videos)
+                * [Reports](https://www.evidentid.com/resources/?keyword=&topics=&types=reports)
+                * [Webinars](https://www.evidentid.com/resources/?keyword=&topics=&types=webinars)
+                * [White Papers](https://www.evidentid.com/resources/?keyword=&topics=&types=white-paper)
+                
+        * * [![](https://www.evidentid.com/wp-content/uploads/2024/07/Groupmenu-300x160.jpg)
+                
+                Explore all resources in Evident's Learning Center.
+                
+                View All Resources](https://www.evidentid.com/learning-center/)
+                
 * [Partners](https://www.evidentid.com/partners/)
 * [Support](https://www.evidentid.com/support/)
 * [Request a Demo](https://www.evidentid.com/request-a-demo/)
@@ -62,7 +97,7 @@
 Terms of Use
 ============
 
-Date Last Revised: August 24, 2021
+_Date Last Revised: August 24, 2021_
 
 Welcome to Evident! Evident ID, Inc. (“Evident”, “we”, “us”, or “our”) operates evidentid.com and other related web addresses (the “Site” or “Sites”) and the Evident mobile application (the “App”) that allow our users (each user, “You”) to share information securely such that recipients can easily verify the authenticity of the information, as well as a number of related services enabled via the Site and App (collectively, the “Services”). The following terms and conditions, which include our Privacy Policy (together the “Terms”) form a binding agreement between You and us regarding Your use of the Site, the App and the Services (collectively, the “Evident Properties”). Some features of the Services may require You to accept additional terms and conditions (“Additional Terms”) before You receive access to the feature. These Terms include the Additional Terms, but solely with respect to that particular feature, and the Additional Terms control over any conflicting provisions in these Terms.
 
@@ -72,7 +107,7 @@ THESE TERMS CONTAIN A DISPUTE RESOLUTION AND ARBITRATION PROVISION, INCLUDING A 
 
 EVIDENT MAY MAKE CHANGES TO THESE TERMS OR THE EVIDENT PROPERTIES AT ANY TIME. EVIDENT WILL POST NOTICE OF THE UPDATED TERMS AT WWW.EVIDENTID.COM. YOUR CONTINUED USE OF THE EVIDENT PROPERTIES AFTER SUCH CHANGES HAVE BEEN POSTED WILL SIGNIFY YOUR ASSENT TO AND ACCEPTANCE OF THE REVISED TERMS OR MODIFIED EVIDENT PROPERTIES. IF YOU OBJECT TO ANY SUCH MODIFICATIONS, YOUR SOLE RECOURSE SHALL BE TO CEASE USING THE EVIDENT PROPERTIES.
 
-### 1\. OUR SERVICES
+### 1\. Our Services
 
 a. Description. Our Services consist of secure platform, mobile and web interfaces that enable You to securely share Your information in a way that allows others (“Relying Parties”) to easily verify the authenticity of Your information. Relying Parties will request that You share Your information through the Services when You conduct a transaction with them (e.g., registering for access to their website).
 
@@ -84,7 +119,7 @@ d. Stored Data. We allow You to upload certain types of data about Yourself, inc
 
 e. Sharing Data. We allow Relying Parties using the Service to request that You share Your Stored Data with such Relying Parties. IF YOU ELECT TO SHARE YOUR STORED DATA WITH A RELYING PARTY, YOU CONSENT TO US PROVIDING SUCH RELYING PARTY WITH YOUR STORED DATA THROUGH OUR SERVICES AND YOU REAFFIRM THE ACCURACY AND CURRENCY OF THE SHARED DATA. WHILE OUR AGREEMENTS WITH RELYING PARTIES REQUIRE THEM TO COMPLY WITH APPLICABLE LAWS IN THE USE OF OUR SERVICES, EVIDENT DOES NOT CONTROL RELYING PARTIES’ USE OF YOUR STORED DATA THAT YOU ELECT TO SHARE WITH THEM. YOU ARE SOLELY RESPONSIBLE FOR YOUR ARRANGEMENTS WITH RELYING PARTIES, AS WELL AS UNDERSTANDING AND COMPLYING WITH ANY AGREEMENTS YOU ENTER INTO WITH THEM AND ALL OF THEIR POLICIES, TERMS AND CONDITIONS THAT RELATE TO THEIR USE OF YOUR STORED DATA.
 
-### 2\. OUR APP
+### 2\. Our App
 
 a. Availability. You acknowledge and agree that the availability of the App may be dependent on a third party service such as the Apple App Store or Google Play Store (“App Store”) and that Your use of the App is subject to the terms in the “App Stores” section. You acknowledge and agree You must have a mobile device that is compatible with the Service. We do not warrant that the App will be compatible with Your mobile device.
 
@@ -92,7 +127,7 @@ b. Updates. You acknowledge that we may from time to time issue updated versions
 
 c. Wireless Access. In order to use the App, You must have access to a wireless network, and You agree to pay all fees associated with such access.
 
-### 3\. OWNERSHIP
+### 3\. Ownership
 
 a. Your Content. The Service allows You to post, upload to, or otherwise make available on the Evident Properties, content, data, information, or other materials, including Your Stored Data (collectively, “Your Content”). You grant us a non-exclusive, royalty-free, fully paid, fully sublicenseable, transferable, worldwide license, to reproduce and digitally transmit and use Your Content for the purpose of providing You the Services. For avoidance of doubt, Your Content does not include Aggregated Statistics or Feedback (both as defined below), and Evident retains all ownership rights in and to such Aggregated Statistics and Feedback.
 
@@ -110,7 +145,7 @@ The foregoing license grant is not a sale of the App or any copy thereof, and we
 
 e. Aggregated Statistics. We may collect and use information in a de-identified manner about the use of the Services, and other information input into the Evident Properties by You or pertaining to You, including to compile statistical and performance information related to the provision and operation of the Services (“Aggregated Statistics”). As between You and us, all right, title and interest in the Aggregated Statistics and all intellectual property rights therein, belong to and are retained solely by us. You acknowledge that we will be compiling and using Aggregated Statistics and You agree that we may: (a) make such Aggregated Statistics publicly available, and (b) use such information except as prohibited by applicable law.
 
-### 4\. GENERAL RULES OF USER CONDUCT
+### 4\. General Rules of User Conduct
 
 We invite You to use the Evident Properties for legitimate purposes only. You are responsible for complying with these Terms when You use or access the Evident Properties. You represent and warrant that You will not:
 
@@ -148,11 +183,11 @@ p. Mirror or frame the Site or any content, place pop-up windows over its pages,
 
 q. Use any automatic, electronic or manual process to harvest, mine, or extract information from the Evident Properties (including without limitation robots, spiders, or scripts)
 
-### 5\. FEEDBACK
+### 5\. Feedback
 
 You agree that the submission by You of any ideas, thoughts, criticism, suggested improvements or other feedback related to Evident, or the Evident Properties (collectively “Feedback”), is at Your own risk and that Evident has no obligation (including without limitation any obligation of confidentiality) with respect to such Feedback. You represent and warrant that You have all rights necessary to submit the Feedback. You hereby assign all right, title, and interest in, and we are free to use, without any attribution or compensation to You, any ideas, know-how, concepts, techniques, or other intellectual property and proprietary rights contained in the Feedback, whether or not patentable, for any purpose whatsoever, including but not limited to, developing, manufacturing, having manufactured, licensing, marketing, and selling, directly or indirectly, products and services using such Feedback. You understand and agree that we are not obligated to use, display, reproduce, or distribute any such ideas, know-how, concepts, or techniques contained in the Feedback, and You have no right to compel such use, display, reproduction, or distribution.
 
-### 6\. APP STORES
+### 6\. App Stores
 
 The following additional terms and conditions apply with respect to any App that we provide to You designed for use on an Apple iOS-powered mobile device (an “iOS App”):
 
@@ -182,11 +217,11 @@ k. Google is only a provider of the Android Market where You obtained the Androi
 
 l. You acknowledge and agree that Google is a third-party beneficiary to the Terms as they relate to our Android App.
 
-### 7\. PRIVACY POLICY
+### 7\. Privacy Policy
 
 We value Your privacy and want to be sure You fully understand how we collect, use, and disclose information. To understand our practices and Your rights regarding any personal data in Your Content or that we receive through the Evident Properties, please review our Privacy Policy, available at https://www.evidentid.com/privacy-policy/. In addition to these Terms, the current version of our Privacy Policy (which we may update from time to time) governs Your Subscription and use of our Services.
 
-### 8\. FEES AND PURCHASE TERMS
+### 8\. Fees and Purchase Terms
 
 a. Fees. Certain features available through Evident Properties are available at no cost to You. Services that require payment (“Premium Services”) are clearly indicated in the Evident Properties and require Your consent.
 
@@ -206,7 +241,7 @@ h. Free Trials and Other Promotions. Certain Evident services are available at n
 
 i. Disputes. You must notify us in writing within seven (7) days after receiving Your Payment Provider statement if You dispute any of our charges on that statement, or such dispute will be deemed waived. Billing disputes should be notified to the following address: [support@evidentid.com](mailto:support@evidentid.com).
 
-### 9\. TERMINATION
+### 9\. Termination
 
 a. Term. These Terms will commence as of the date You accept them (as described in the preamble above) and remain in full force and effect while You use the Evident Properties, unless terminated earlier in accordance with the terms herein.
 
@@ -216,7 +251,7 @@ c. Termination of Services by You. If You want to terminate the Services provide
 
 d. Effect of Termination. Termination of any Service includes removal of access to such Service and barring of further use of the Service (unless You re-subscribe). Termination of all Services may also include deletion of any of Your Account Credentials, Stored Data and all related information, files and content associated with or inside Your Account. Please note that any termination of the Services will not delete any Stored Data on Your device and/or computer, and You are solely responsible for the deletion of such Stored Data. Evident will not have any liability whatsoever to You for any suspension or termination, including deletion of Your Stored Data. All provisions of these Terms which by their nature should survive, shall survive termination of Services, including, without limitation, ownership provisions, warranty disclaimers, limitation of liability, indemnities, Arbitration Provision, general terms, and representations made by You.
 
-### 10\. REMEDIES
+### 10\. Remedies
 
 a. Violations. If Evident becomes aware of any possible violations by You of the Terms, Evident reserves the right to investigate such violations. If, as a result of the investigation, we believe that improper or criminal activity has occurred, we reserve the right to refer the matter to, and to cooperate with, any and all applicable legal authorities. We are entitled, except to the extent prohibited by applicable law, to disclose any information or materials on or in the Evident Properties, including Stored Data, in our possession in connection with Your use of the Evident Properties, to (1) comply with applicable laws, legal process or governmental request; (2) enforce these Terms, (3) respond to any claims that Stored Data violates the rights of third parties, (4) respond to Your requests for customer service, or (5) protect the rights, property or personal safety of Evident, users of the Evident Properties or the public, and all enforcement or other government officials, as Evident in its sole discretion believes to be necessary or appropriate.
 
@@ -236,7 +271,7 @@ b. Breach. In the event that Evident determines, in its sole discretion, that Yo
 
 c. No Subsequent Registration. If Your registration(s) with or ability to access the Evident Properties is discontinued by Evident due to Your violation of any portion of the Terms, then You agree that You shall not attempt to re-register with or access the Evident Properties through use of a different email or otherwise, and You acknowledge that You will not be entitled to receive a refund for fees related to those Evident Properties to which Your access has been terminated. In the event that You violate the immediately preceding sentence, Evident reserves the right, in its sole discretion, to immediately take any or all of the actions set forth herein without any notice or warning to You.
 
-### 11\. BACKGROUND AND OTHER CONSUMER REPORTS
+### 11\. Background and Other Consumer Reports
 
 By using the Evident Properties, You hereby acknowledge and agree that we have the right, but not the obligation, to use Evident or a third-party consumer reporting agency and other third party service providers to run periodic background and other consumer reports (collectively, “Reports”) on You in connection with Your use of the Services.
 
@@ -244,7 +279,7 @@ You understand and agree that we may utilize the information from these Reports 
 
 BY AGREEING TO THESE TERMS AND USING THE EVIDENT PROPERTIES, YOU AGREE TO ALLOW US TO PRODUCE THESE REPORTS. YOU ACKNOWLEDGE AND AGREE THAT WE MAY PROVIDE PART OR ALL OF THE INFORMATION FROM THESE REPORTS TO RELYING PARTIES IF YOU ELECT TO SHARE YOUR STORED DATA WITH SUCH RELYING PARTY.
 
-### 12\. DISCLAIMER OF WARRANTIES
+### 12\. Disclaimer of Warranties
 
 THE EVIDENT PROPERTIES ARE PROVIDED “AS IS” AND “WITH ALL FAULTS” AND THE ENTIRE RISK AS TO THE QUALITY AND PERFORMANCE OF THE EVIDENT PROPERTIES IS WITH YOU.
 
@@ -252,25 +287,25 @@ WE EXPRESSLY DISCLAIM ALL WARRANTIES OF ANY KIND (EXPRESS, IMPLIED OR STATUTORY)
 
 THIS MEANS THAT WE DO NOT PROMISE YOU THAT THE EVIDENT PROPERTIES ARE FREE OF PROBLEMS. Without limiting the generality of the foregoing, we make no warranty that the Evident Properties will meet Your requirements or that the Evident Properties will be uninterrupted, timely, secure, or error free or that defects in the Evident Properties will be corrected. We make no warranty as to the results that may be obtained from the use of the Evident Properties or as to the accuracy or reliability of any information obtained through the Evident Properties. No advice or information, whether oral or written, obtained by You through the Evident Properties or from us or our subsidiaries/other affiliated companies shall create any warranty. We disclaim all equitable indemnities.
 
-### 13\. LIMITATION OF LIABILITY
+### 13\. Limitation of Liability
 
 WE SHALL NOT BE LIABLE TO YOU FOR ANY DAMAGES RESULTING FROM YOUR DISPLAYING, COPYING, OR DOWNLOADING ANY MATERIALS TO OR FROM THE EVIDENT PROPERTIES. TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL WE BE LIABLE TO YOU FOR ANY INDIRECT, EXTRAORDINARY, EXEMPLARY, PUNITIVE, SPECIAL, INCIDENTAL, OR CONSEQUENTIAL DAMAGES (INCLUDING LOSS OF DATA, REVENUE, PROFITS, USE OR OTHER ECONOMIC ADVANTAGE) HOWEVER ARISING, REGARDLESS OF WHETHER SOUNDING IN CONTRACT, TORT (INCLUDING NEGLIGENCE) OR OTHERWISE, EVEN IF WE KNOW THERE IS A POSSIBILITY OF SUCH DAMAGE. IN NO EVENT WILL OUR TOTAL LIABILITY TO YOU FOR ALL DAMAGES, LOSSES OR CAUSES OF ACTION EXCEED THE AMOUNT PAID BY YOU FOR OUR SERVICES DURING THE SIX (6) MONTH PERIOD IMMEDIATELY PRECEDING THE INCIDENT GIVING RISE TO THE CLAIM, OR, IF YOU HAVE NOT PAID US FOR THE USE OF OUR SERVICES DURING SUCH PERIOD, THE AMOUNT OF $50.
 
 We are not responsible for the conduct, whether online or offline, of any user of Evident Properties or any Relying Party. Moreover, we do not assume and expressly disclaim any liability that may result from the use of information provided on the Evident Properties.
 
-### 14\. FORCE MAJEURE
+### 14\. Force Majeure
 
 Under no circumstances will Evident or our licensors be held liable for any delay or failure in performance resulting directly or indirectly from acts of nature, forces, or causes beyond our reasonable control, including, without limitation, Internet failures, computer equipment failures, telecommunication equipment failures, other equipment failures, electrical power failures, strikes, labor disputes, riots, insurrections, civil disturbances, shortages of labor or materials, fires, floods, storms, explosions, acts of God, war, governmental actions, orders of domestic or foreign courts or tribunals, endemics, pandemics, national or global emergencies or non-performance of third parties.
 
-### 15\. INDEMNIFICATION
+### 15\. Indemnification
 
 You agree to defend, indemnify and hold us harmless if You violate these Terms and that violation results in harm or liability for us, including but not limited to, if You provide us with false, inaccurate or incomplete Stored Data. You also agree to pay any damages that we may end up having to pay as a result of Your violation, including but not limited to any damages to any Relying Party. You alone are responsible for any violation of these Terms by You. We reserve the right to assume the exclusive defense and control of any matter otherwise subject to indemnification by You and, in such case, You agree to cooperate with our defense of such claim at your own cost.
 
-### 16\. LINKS TO THIRD-PARTY SITES
+### 16\. Links to Third-Party Sites
 
 We sometimes provide links to third-party websites on the Evident Properties. If You use these links, You will leave the Evident Properties. We are not obligated to review any third-party websites that You link to from the Evident Properties, we do not control any of the third-party websites, and we are not responsible for any of the third-party websites (or the products, services, or content available through any of them). Thus, we do not endorse or make any representations about such third-party websites, any information, software, products, services, or materials found there or any results that may be obtained from using them. If You decide to access any of the third-party websites linked to from the Evident Properties, You do this entirely at Your own risk and You must follow the privacy policies and terms and conditions for those third-party websites. Certain areas of the Evident Properties may allow You to interact and/or conduct transactions with one or more third-party websites, and, if applicable, allow You to configure Your privacy settings in that third-party website account to permit Your activities on the Evident Properties to be shared with Your contacts in Your third-party site account.
 
-### 17\. DISPUTE RESOLUTION AND ARBITRATION; CLASS ACTION WAIVER (THIS “ARBITRATION PROVISION”)
+### 17\. Dispute Resolution and Arbitration; Class Action Waiver (this “Arbitration Provision”)
 
 **Please Read This Arbitration Provision Carefully. It Affects Your Legal Rights.**
 
@@ -302,104 +337,105 @@ d. Severability. If any clause within this Arbitration Provision (other than the
 
 e. Continuation. This Arbitration Provision shall survive the termination of Your use of the Evident Properties. Notwithstanding any provision in this Agreement to the contrary, we agree that if we make any change to this Arbitration Provision (other than a change to the Notice Address), You may reject any such change and require us to adhere to the language in this Arbitration Provision if a dispute between us arises.
 
-### 18\. LOCAL LAWS; EXPORT CONTROL
+### 18\. Local Laws; Export Control
 
 We control and operate the Evident Properties from our headquarters in the United States of America and the entirety of the Evident Properties may not be appropriate or available for use in other locations. IF YOU USE THE EVIDENT PROPERTIES OUTSIDE THE UNITED STATES OF AMERICA, YOU ARE SOLELY RESPONSIBLE FOR FOLLOWING APPLICABLE LOCAL LAWS, AND YOU CONSENT TO THE TRANSFER TO AND STORAGE AND PROCESSING OF YOUR CONTENT IN THE U.S.
 
 You may not use, export, import, or transfer the Evident Properties except as authorized by U.S. law, the laws of the jurisdiction in which You obtained the Evident Properties, and any other applicable laws. In particular, but without limitation, the Evident Properties may not be exported or re-exported (a) into any United States embargoed countries, or (b) to anyone on the U.S. Treasury Department’s list of Specially Designated Nationals or the U.S. Department of Commerce’s Denied Person’s List or Entity List. By using the Evident Properties, You represent and warrant that (i) You are not located in a country that is subject to a U.S. Government embargo, or that has been designated by the U.S. Government as a “terrorist supporting” country and (ii) You are not listed on any U.S. Government list of prohibited or restricted parties. You also will not use the Evident Properties for any purpose prohibited by U.S. law, including the development, design, manufacture or production of missiles, nuclear, chemical or biological weapons. You acknowledge and agree that products, services or technology provided by Evident are subject to the export control laws and regulations of the United States. You shall comply with these laws and regulations and shall not, without prior U.S. government authorization, export, re-export, or transfer the Evident products, services or technology, either directly or indirectly, to any country in violation of such laws and regulations.
 
-### 19\. GENERAL TERMS
+### 19\. General Terms
 
 Except for the applicable exceptions as noted in the Arbitration Provision, these Terms and the relationship between You and Evident will be governed at all times by applicable federal law and the laws of the State of Georgia without giving effect to any choice of laws principles that would require the application of the laws of a different country or state. You consent to personal jurisdiction and venue for any litigation in Fulton County, Georgia.
 
 These Terms are personal to You, and You may not transfer, assign or delegate Your right and/or duties under these Terms to anyone else and any attempted assignment or delegation is void. If any of these Terms are deemed inconsistent with applicable law, then such term(s) shall be interpreted to reflect the intentions of the parties, and no other terms will be modified. Any delay or failure to exercise or enforce any right or provision of these Terms will not constitute a waiver of such right or provision. These Terms are the entire agreement between You and us and, therefore, supersede all prior or contemporaneous negotiations, discussions or agreements between You and us about the Evident Properties.
 
-### 20\. NOTICE AND CONTACT
+### 20\. Notice and Contact
 
 We may give notice to You by email, a posting on any Evident Property, or other reasonable means. You must give notice to us in writing via email to [support@evidentid.com](mailto:support@evidentid.com) or as otherwise expressly provided.
 
 If You have any questions about these Terms or otherwise need to contact us for any reason, You can reach us by email at [support@evidentid.com](mailto:support@evidentid.com).
 
-Reduce Third Party Risk with Automated Insurance Verification
--------------------------------------------------------------
-
-[Request a demo](https://www.evidentid.com/contact-sales/)
-
-* [Request a Demo](https://www.evidentid.com/request-a-demo/)
+[Request a Demo](https://www.evidentid.com/request-a-demo/)
 
 * [](https://www.facebook.com/evidentid/)
 * [](https://twitter.com/EvidentID)
 * [](https://www.linkedin.com/company/evident-id-inc./)
 * [](https://www.instagram.com/evidentid/)
 
+[![](https://www.evidentid.com/wp-content/uploads/2024/07/evident-id-logo-alt.svg)](https://www.evidentid.com/)
+
 2810 N Church St  
 Suite 95997  
-Wilmington, Delaware 19802-4447  
-[contact@evidentid.com](mailto:contact@evidentid.com)  
+Wilmington, Delaware 19802-4447
+
+[contact@evidentid.com](mailto:contact@evidentid.com)
+
 [+1.877.832.5298](tel:+1.877.832.5298)
 
-#### Support Contact
+##### Products
 
-[Submit Request](https://www.evidentid.com/support/)
+Onboarding
 
-* [Solutions](#)
-    * [Platform Overview](https://www.evidentid.com/third-party-risk-management-platform/)
-    * [The Evident Network](https://www.evidentid.com/the-evident-network/)
-* [Products](#)
-    * [Insurance Verification](https://www.evidentid.com/products/insurance-verification/)
-    * [Identity Verification](https://www.evidentid.com/products/identity-verification/)
-    * [Background Checks](https://www.evidentid.com/products/background-checks/)
-    * [Business Verification](https://www.evidentid.com/products/business-verification/)
-* [Customer Stories](#)
-    * [Customer Stories](https://www.evidentid.com/case-studies-real-results/)
-* [Learning Center](#)
-    * [Blog](https://www.evidentid.com/resource-category/blog/)
-    * [Videos](https://www.evidentid.com/resource-category/videos/)
-    * [Reports](https://www.evidentid.com/resource-category/reports/)
-    * [Webinars](https://www.evidentid.com/resource-category/webinars/)
+* [Vendors & Suppliers](https://www.evidentid.com/products/onboarding-vendors-and-suppliers/)
 
-* [Industries](#)
-    * [Commercial Lending](https://www.evidentid.com/solutions/commercial-lending-insurance-verification/)
-    * [Construction](https://www.evidentid.com/solutions/construction-insurance-verification/)
-    * [Enterprises](https://www.evidentid.com/solutions/enterprises-insurance-verification/)
-    * [Franchises](https://www.evidentid.com/solutions/franchise-insurance-verification-fulfillment/)
-    * [Government & Municipalities](https://www.evidentid.com/solutions/government/)
-    * [Grocery Stores](https://www.evidentid.com/solutions/grocery-insurance-verification/)
-    * [Logistics](https://www.evidentid.com/solutions/logistics-insurance-verification/)
-    * [Manufacturers](https://www.evidentid.com/solutions/manufacturers/)
-    * [Retail](https://www.evidentid.com/solutions/retail-insurance-verification/)
-    * [Staffing](https://www.evidentid.com/solutions/staffing-insurance-verification/)
-    * [Supply Chain](https://www.evidentid.com/solutions/supply-chain-insurance-verification/)
-    * [Transportation](https://www.evidentid.com/solutions/transportation-verification/)
-    * [Broker Solutions](https://www.evidentid.com/brokers/)
-    * [Carrier Solutions](https://www.evidentid.com/carriers/)
-* [Company](#)
-    * [About Us](https://www.evidentid.com/about-us/)
-    * [Careers](https://www.evidentid.com/careers/)
-    * [News](https://www.evidentid.com/resource-category/news/)
+Due Diligence
 
-* [For Businesses](#)
-    * [More About Our Products](https://www.evidentid.com/products/)
-    * [Get Support](https://www.evidentid.com/support/customer/)
-    * [Report Security Issue](mailto:security@evidentid.com)
-* [For Applicants](#)
-    * [About Personal Data](https://www.evidentid.com/applicants/)
-    * [3rd Party Verification Support](https://www.evidentid.com/support/third-party-verification/)
-* [For Developers](#)
-    * [API Documentation](https://www.evidentid.com/api-documentation-developers/)
-    * [Developer Support](https://www.evidentid.com/support/developer/)
+* [Vendors and Suppliers](https://www.evidentid.com/products/due-diligence-for-vendors-and-suppliers/)
+* [Local Service Providers](https://www.evidentid.com/products/due-diligence-for-local-service-providers/)
+* [Home Sharing](https://www.evidentid.com/products/due-diligence-for-home-sharing/)
+* [Care Providers](https://www.evidentid.com/products/due-diligence-for-care-providers/)
 
-[![Evident | Automated Verification to Reduce Risk](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20150%2033'%3E%3C/svg%3E)
+Risk Transfer
 
-![Evident | Automated Verification to Reduce Risk](https://www.evidentid.com/wp-content/themes/evident/assets/src/img/logo-reversed.png)](https://www.evidentid.com/)
+* [Vendors and Suppliers](https://www.evidentid.com/products/risk-transfer-for-vendors-and-suppliers/)
+* [Subcontractors](https://www.evidentid.com/products/risk-transfer-for-subcontractors/)
+* [Borrowers](https://www.evidentid.com/products/risk-transfer-for-borrowers/)
+* [Motor Carriers](https://www.evidentid.com/products/risk-transfer-for-motor-carriers/)
+* [Franchisees](https://www.evidentid.com/products/risk-transfer-for-franchisees/)
+* [Equipment Renters](https://www.evidentid.com/products/risk-transfer-for-equipment-renters/)
+* [Commercial Tenants](https://www.evidentid.com/products/risk-transfer-for-commercial-tenants/)
 
-* [Privacy Policy](https://www.evidentid.com/privacy-policy/)
-* [Terms & Conditions](https://www.evidentid.com/terms-of-use/)
-* [Cookie Policy](https://www.evidentid.com/cookie-policy/)
-* [California Privacy Rights](https://www.evidentid.com/privacy-policy/#California-Privacy-Rights)
+Industries
 
-©2024 Evident ID, Inc. All rights reserved.
+* [Construction](https://www.evidentid.com/industry/construction/)
+* [Hospitality](https://www.evidentid.com/industry/hospitality/)
+* [Manufacturing](https://www.evidentid.com/industry/manufacturing/)
+* [Municipalities](https://www.evidentid.com/industry/municipalities/)
+* [Real Estate](https://www.evidentid.com/industry/real-estate/)
+* [Retail](https://www.evidentid.com/industry/retail/)
+* [Transportation](https://www.evidentid.com/industry/transportation/)
+* [Finance](https://www.evidentid.com/industry/financial-services/)
 
-[](#close)
+Teams
 
-[](#close)
+* [Risk Management](https://www.evidentid.com/teams/risk-management/)
+* [Trust and Safety](https://www.evidentid.com/teams/trust-and-safety-teams/)
+* [Procurement](https://www.evidentid.com/teams/procurement-teams/)
+* [Finance](https://www.evidentid.com/teams/finance-teams/)
+* [Operations](https://www.evidentid.com/teams/operations-teams/)
+
+Learning Center
+
+* [Blog](https://www.evidentid.com/resources/?keyword=&topics=&types=blog)
+* [Videos](https://www.evidentid.com/resources/?keyword=&topics=&types=videos)
+* [Reports](https://www.evidentid.com/resources/?keyword=&topics=&types=reports)
+* [Case Studies](https://www.evidentid.com/case-studies/)
+* [Webinars](https://www.evidentid.com/resources/?keyword=&topics=&types=webinars)
+* [Whitepapers](https://www.evidentid.com/resources/?keyword=&topics=&types=white-paper)
+
+Company
+
+* [About Us](https://www.evidentid.com/about-us/)
+* [Careers](https://www.evidentid.com/careers/)
+* [Partners](https://www.evidentid.com/partners/)
+* [News & Press](https://www.evidentid.com/news-press/)
+
+Contact
+
+* [Request a Demo](https://www.evidentid.com/request-a-demo/)
+* [Support](https://www.evidentid.com/support/)
+* [Contact Us](https://www.evidentid.com/contact-us/)
+
+© 2024 Evident ID Inc. All rights reserved.
+
+* [Vendors & Suppliers](https://www.evidentid.com/products/onboarding-vendors-and-suppliers/)
