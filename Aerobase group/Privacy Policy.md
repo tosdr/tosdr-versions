@@ -200,6 +200,11 @@ This document was last updated on January 1, 2014
 
 #### Defense News
 
+* [AC-130J lands at Kirtland as US Air Force streamlines gunship training](https://www.defensenews.com/air/2024/09/16/ac-130j-lands-at-kirtland-as-us-air-force-streamlines-gunship-training/)  
+    09/16/24 07:00pm  
+    
+    The 58th Special Operations Wing at Kirtland Air Force Base, New Mexico, celebrated the arrival of the AC-130J Ghostrider in a Sept. 5 ceremony. (Senior Airman Karissa Dick/U.S. Air Force)
+    
 * [Houthi rebels claim they shot down another US MQ-9 Reaper drone](https://www.defensenews.com/news/your-military/2024/09/16/houthi-rebels-claim-they-shot-down-another-us-mq-9-reaper-drone/)  
     09/16/24 01:04pm  
     
@@ -214,11 +219,6 @@ This document was last updated on January 1, 2014
     09/16/24 10:00am  
     
     Instructor pilots and a student fly a training sortie in two T-38C Talons, August 2024. (Senior Airman Ashley Crist/U.S. Air Force)
-    
-* [US Air Force plans to bed down 25 F-35s in FY26, report says](https://www.defensenews.com/smr/air-warfare/2024/09/16/us-air-force-plans-to-bed-down-25-f-35s-in-fy26-report-says/)  
-    09/16/24 09:00am  
-    
-    The U.S. Air Force plans to bed down 25 F-35As in fiscal 2026, according to a DOD report outlining the number of fighters the service intends to field through FY29. (Staff Sgt. Andrew Lee/U.S. Air Force)
     
 
 Recent parts by keyword  
