@@ -323,6 +323,7 @@ Share This Article
 
 ### Internet Filtering & Security
 
+* [Gamer Security | Protect and Play Safer](https://www.safesearchkids.com/gamer-security/)
 * [Biometric Security and Its Uncharted Pitfalls](https://www.safesearchkids.com/the-future-of-biometric-security-and-its-uncharted-pitfalls/)
 * [Teaching Kids About Cybersecurity](https://www.safesearchkids.com/teaching-kids-about-cybersecurity-engaging-methods-for-young-minds/)
 * [Common Scams to Be Prepared For – Part 1](https://www.safesearchkids.com/common-scams-to-be-aware-of-and-prepare-for-part-1/)
