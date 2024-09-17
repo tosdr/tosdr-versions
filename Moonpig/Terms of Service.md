@@ -265,6 +265,7 @@ Menu
     
     * [Hotel Chocolat](https://www.moonpig.com/uk/gifts/hotel-chocolat/)
     * [Virgin Wines](https://www.moonpig.com/uk/gifts/alcohol/virgin-wines/)
+    * [Buyagift](https://www.moonpig.com/uk/gifts/experience-gifts/buy-a-gift/)
     * [Lindt](https://www.moonpig.com/uk/gifts/food/lindt-chocolate/)
     * [Maltesers & M&M's](https://www.moonpig.com/uk/gifts/mars/)
     * [Tatty Teddy](https://www.moonpig.com/uk/gifts/tatty-teddy/)
