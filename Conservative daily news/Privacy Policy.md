@@ -2,14 +2,14 @@ Tuesday, September 17 2024
 
 Breaking News
 
-* [We Are Different, and the Left Keeps Attacking Us For It](https://www.conservativedailynews.com/2024/09/we-are-different-and-the-left-keeps-attacking-us-for-it/)
-* [Police Release Bodycam Footage Of Arrest Of Alleged Would-Be Trump Assassin](https://www.conservativedailynews.com/2024/09/police-release-bodycam-footage-of-arrest-of-alleged-would-be-trump-assassin/)
-* [Strengthening Candidate Security With Campaign Funds Is A Common Sense Solution](https://www.conservativedailynews.com/2024/09/strengthening-candidate-security-with-campaign-funds-is-a-common-sense-solution/)
-* [Ukraine Distances Itself From Would-Be Trump Shooter Who Said He’d ‘Die’ For Kyiv](https://www.conservativedailynews.com/2024/09/ukraine-distances-itself-from-would-be-trump-shooter-who-said-hed-die-for-kyiv/)
-* [CNN’s Harry Enten Warns Harris Currently In Polling ‘Danger Zone’](https://www.conservativedailynews.com/2024/09/cnns-harry-enten-warns-harris-currently-in-polling-danger-zone/)
-* [MSNBC Anchor Says Trump Should Tone Down Rhetoric After Potential Second Assassination Attempt](https://www.conservativedailynews.com/2024/09/msnbc-anchor-says-trump-should-tone-down-rhetoric-after-potential-second-assassination-attempt/)
-* [Medal of Honor Monday: Navy Cmdr. Arthur M. Preston](https://www.conservativedailynews.com/2024/09/medal-of-honor-monday-navy-cmdr-arthur-m-preston/)
-* [President Joe Biden’s Schedule for Monday, September 16, 2024](https://www.conservativedailynews.com/2024/09/president-joe-bidens-schedule-for-monday-september-16-2024/)
+* [BP Dumping Key Green Energy Business](https://www.conservativedailynews.com/2024/09/bp-dumping-key-green-energy-business/)
+* [FBI Tipped Off About Suspected Trump Gunman Ryan Wesley Routh’s Firearm Possession In 2019](https://www.conservativedailynews.com/2024/09/fbi-tipped-off-about-suspected-trump-gunman-ryan-wesley-rouths-firearm-possession-in-2019/)
+* [Trump Is Trailing Harris In Key Demographic — But There Is Still Hope He Can Make Up Ground](https://www.conservativedailynews.com/2024/09/trump-is-trailing-harris-in-key-demographic-but-there-is-still-hope-he-can-make-up-ground/)
+* [Dem Senators Push For Gargantuan Rate Cut As Election Day Draws Near](https://www.conservativedailynews.com/2024/09/dem-senators-push-for-gargantuan-rate-cut-as-election-day-draws-near/)
+* [Supreme Court’s Move To Gut Administrative State Tees Up Trouble For Biden’s Green Power Plant Rules](https://www.conservativedailynews.com/2024/09/supreme-courts-move-to-gut-administrative-state-tees-up-trouble-for-bidens-green-power-plant-rules/)
+* [Springfield, Ohio, Small Town America And Kamala’s Open Border](https://www.conservativedailynews.com/2024/09/springfield-ohio-small-town-america-and-kamalas-open-border/)
+* [President Joe Biden’s Schedule for Tuesday, September 17, 2024](https://www.conservativedailynews.com/2024/09/president-joe-bidens-schedule-for-tuesday-september-17-2024/)
+* [White House Press Briefing with Karine Jean-Pierre – 9/17/24](https://www.conservativedailynews.com/2024/09/white-house-press-briefing-with-karine-jean-pierre-9-17-24/)
 
 * [Sidebar](#)
 * [Random Article](https://www.conservativedailynews.com/privacy-policy/?random-post=1 "Random Article")
@@ -126,57 +126,60 @@ Created using the Donation Thermometer plugin https://wordpress.org/plugins/dona
 
 Recent Posts
 
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/09/IMG_5599-220x150.jpeg)](https://www.conservativedailynews.com/2024/09/we-are-different-and-the-left-keeps-attacking-us-for-it/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2023/11/Wind-Turbine-Wind-Power-broken-burning-220x150.jpg)](https://www.conservativedailynews.com/2024/09/bp-dumping-key-green-energy-business/)
     
-    [We Are Different, and the Left Keeps Attacking Us For It](https://www.conservativedailynews.com/2024/09/we-are-different-and-the-left-keeps-attacking-us-for-it/)
+    [BP Dumping Key Green Energy Business](https://www.conservativedailynews.com/2024/09/bp-dumping-key-green-energy-business/)
     
-    September 16, 2024
+    September 17, 2024
     
-* [![Donald Trump assassination attempt](https://www.conservativedailynews.com/wp-content/uploads/2024/09/stg091624dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/09/the-target/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2023/08/shock-ashamed-questioning-embarrassed-judgemental-1-220x150.jpg)](https://www.conservativedailynews.com/2024/09/fbi-tipped-off-about-suspected-trump-gunman-ryan-wesley-rouths-firearm-possession-in-2019/)
     
-    [The Target](https://www.conservativedailynews.com/2024/09/the-target/)
+    [FBI Tipped Off About Suspected Trump Gunman Ryan Wesley Routh’s Firearm Possession In 2019](https://www.conservativedailynews.com/2024/09/fbi-tipped-off-about-suspected-trump-gunman-ryan-wesley-rouths-firearm-possession-in-2019/)
     
-    September 16, 2024
+    September 17, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/09/Bodycam-arrest-of-Ryan-Wesley-Routh-220x150.jpg)](https://www.conservativedailynews.com/2024/09/police-release-bodycam-footage-of-arrest-of-alleged-would-be-trump-assassin/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2019/04/Thinking-woman.jpg)](https://www.conservativedailynews.com/2024/09/trump-is-trailing-harris-in-key-demographic-but-there-is-still-hope-he-can-make-up-ground/)
     
-    [Police Release Bodycam Footage Of Arrest Of Alleged Would-Be Trump Assassin](https://www.conservativedailynews.com/2024/09/police-release-bodycam-footage-of-arrest-of-alleged-would-be-trump-assassin/)
+    [Trump Is Trailing Harris In Key Demographic — But There Is Still Hope He Can Make Up Ground](https://www.conservativedailynews.com/2024/09/trump-is-trailing-harris-in-key-demographic-but-there-is-still-hope-he-can-make-up-ground/)
     
-    September 16, 2024
+    September 17, 2024
     
-* [![Donald Trump after assassination attempt](https://www.conservativedailynews.com/wp-content/uploads/2024/07/IMG_5218-220x150.jpeg)](https://www.conservativedailynews.com/2024/09/strengthening-candidate-security-with-campaign-funds-is-a-common-sense-solution/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2021/11/Federal-Reserve-220x150.jfif)](https://www.conservativedailynews.com/2024/09/dem-senators-push-for-gargantuan-rate-cut-as-election-day-draws-near/)
     
-    [Strengthening Candidate Security With Campaign Funds Is A Common Sense Solution](https://www.conservativedailynews.com/2024/09/strengthening-candidate-security-with-campaign-funds-is-a-common-sense-solution/)
+    [Dem Senators Push For Gargantuan Rate Cut As Election Day Draws Near](https://www.conservativedailynews.com/2024/09/dem-senators-push-for-gargantuan-rate-cut-as-election-day-draws-near/)
     
-    September 16, 2024
+    September 17, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2017/07/ukrainemap-600-x-300.jpg)](https://www.conservativedailynews.com/2024/09/ukraine-distances-itself-from-would-be-trump-shooter-who-said-hed-die-for-kyiv/)
+* [![Joe Biden not sure signing considering confused sad upset](https://www.conservativedailynews.com/wp-content/uploads/2021/12/Joe-Biden-not-sure-signing-considering-confused-220x150.png)](https://www.conservativedailynews.com/2024/09/supreme-courts-move-to-gut-administrative-state-tees-up-trouble-for-bidens-green-power-plant-rules/)
     
-    [Ukraine Distances Itself From Would-Be Trump Shooter Who Said He’d ‘Die’ For Kyiv](https://www.conservativedailynews.com/2024/09/ukraine-distances-itself-from-would-be-trump-shooter-who-said-hed-die-for-kyiv/)
+    [Supreme Court’s Move To Gut Administrative State Tees Up Trouble For Biden’s Green Power Plant Rules](https://www.conservativedailynews.com/2024/09/supreme-courts-move-to-gut-administrative-state-tees-up-trouble-for-bidens-green-power-plant-rules/)
     
-    September 16, 2024
+    September 17, 2024
     
-* [![Bidenomics](https://www.conservativedailynews.com/wp-content/uploads/2023/08/stg082123dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/09/missed-car-credit-card-payments-surge-as-biden-era-inflation-continues-to-decimate-american-bank-accounts/)
+* [![Kamala Harris illegal immigration border crisis 2024 election](https://www.conservativedailynews.com/wp-content/uploads/2024/07/stg072524dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/09/springfield-ohio-small-town-america-and-kamalas-open-border/)
     
-    [Missed Car, Credit Card Payments Surge As Biden-Era Inflation Continues To Decimate American Bank Accounts](https://www.conservativedailynews.com/2024/09/missed-car-credit-card-payments-surge-as-biden-era-inflation-continues-to-decimate-american-bank-accounts/)
+    [Springfield, Ohio, Small Town America And Kamala’s Open Border](https://www.conservativedailynews.com/2024/09/springfield-ohio-small-town-america-and-kamalas-open-border/)
     
-    September 16, 2024
+    September 17, 2024
     
-* [![Kamala Harris 2024 election Stuck](https://www.conservativedailynews.com/wp-content/uploads/2024/08/stg082124dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/09/cnns-harry-enten-warns-harris-currently-in-polling-danger-zone/)
+* [![Kamala Harris Joe Biden dangerous rhetoric](https://www.conservativedailynews.com/wp-content/uploads/2024/09/stg091724dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/09/dangerous-rhetoric/)
     
-    [CNN’s Harry Enten Warns Harris Currently In Polling ‘Danger Zone’](https://www.conservativedailynews.com/2024/09/cnns-harry-enten-warns-harris-currently-in-polling-danger-zone/)
+    [Dangerous Rhetoric](https://www.conservativedailynews.com/2024/09/dangerous-rhetoric/)
     
-    September 16, 2024
+    September 17, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2022/09/MSDNC-MSNBC-Media-Bias-220x150.png)](https://www.conservativedailynews.com/2024/09/msnbc-anchor-says-trump-should-tone-down-rhetoric-after-potential-second-assassination-attempt/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2022/11/Dennis-Prager-220x150.jpg)](https://www.conservativedailynews.com/2024/09/the-reasons-young-women-embrace-the-left-do-not-reflect-well-on-those-women/)
     
-    [MSNBC Anchor Says Trump Should Tone Down Rhetoric After Potential Second Assassination Attempt](https://www.conservativedailynews.com/2024/09/msnbc-anchor-says-trump-should-tone-down-rhetoric-after-potential-second-assassination-attempt/)
+    [The Reasons Young Women Embrace the Left Do Not Reflect Well on Those Women](https://www.conservativedailynews.com/2024/09/the-reasons-young-women-embrace-the-left-do-not-reflect-well-on-those-women/)
     
-    September 16, 2024
+    September 17, 2024
     
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
 
+* [President Trump needs Tier One military protection](https://www.thegunpage.com/president-trump-needs-tier-one-military-protection/10610611)
+* [Former NCAA Rifle Athlete JT Schnering Gets The Nod To Be The Manager Of CMP’s Competition Center In Alabama](https://www.thegunpage.com/former-ncaa-rifle-athlete-jt-schnering-gets-the-nod-to-be-the-manager-of-cmps-competition-center-in-alabama/10610609)
+* [Thurman Randle: An Amazing Smallbore Rifle Competitor](https://www.thegunpage.com/thurman-randle-an-amazing-smallbore-rifle-competitor/10610610)
 * [Best Pistol for Concealed Carry](https://www.thegunpage.com/best-pistol-for-concealed-carry/10610605)
 * [POTD: IPSC Rifle World Shoot 2024 – Johan Hansen](https://www.thegunpage.com/potd-ipsc-rifle-world-shoot-2024-johan-hansen/10610606)
 * [The Rimfire Report: Did the U.S. Military Sleep on the American-180?](https://www.thegunpage.com/the-rimfire-report-did-the-u-s-military-sleep-on-the-american-180/10610607)
@@ -184,9 +187,6 @@ Recent Posts
 * [Latest would-be presidential assassin violated multiple gun-control laws](https://www.thegunpage.com/latest-would-be-presidential-assassin-violated-multiple-gun-control-laws/10610598)
 * [The Nickel-and-Diming of Gun Owners in California](https://www.thegunpage.com/the-nickel-and-diming-of-gun-owners-in-california/10610595)
 * [Ruger Celebrates Its 75th Anniversary With Commemorative 10/22s](https://www.thegunpage.com/ruger-celebrates-its-75th-anniversary-with-commemorative-10-22s/10610602)
-* [Galco Triton 3.0 IWB Holster Available For Sig Sauer P365](https://www.thegunpage.com/galco-triton-3-0-iwb-holster-available-for-sig-sauer-p365/10610597)
-* [New Jersey Cop Accidentally Shoots Himself During Training](https://www.thegunpage.com/new-jersey-cop-accidentally-shoots-himself-during-training/10610593)
-* [Geissele Announces 12.5” and 13.9” Super Duty Variants](https://www.thegunpage.com/geissele-announces-12-5-and-13-9-super-duty-variants/10610589)
 
 [![ Conservative Political Blogs](https://blog.feedspot.com/wp-content/uploads/2016/12/conservative_political_216px.png?x58297)](https://blog.feedspot.com/conservative_political_blogs/ "Conservative Political Blogs")
 
@@ -228,6 +228,7 @@ Contact Us
 
 Recent Comments
 
+* Gary D. Chambers on [We Are Different, and the Left Keeps Attacking Us For It](https://www.conservativedailynews.com/2024/09/we-are-different-and-the-left-keeps-attacking-us-for-it/#comment-782156)
 * charles wilkins on [Tip of the Iceberg](https://www.conservativedailynews.com/2024/09/tip-of-the-iceberg/#comment-782148)
 * Missy B on [MSNBC Anchor Says Trump Should Tone Down Rhetoric After Potential Second Assassination Attempt](https://www.conservativedailynews.com/2024/09/msnbc-anchor-says-trump-should-tone-down-rhetoric-after-potential-second-assassination-attempt/#comment-782143)
 * charles wilkins on [Definition of Insanity](https://www.conservativedailynews.com/2024/09/definition-of-insanity/#comment-782133)
@@ -236,7 +237,6 @@ Recent Comments
 * Dr. Ramon Argila deTorres y Sandoval on [The Independents Won The Debate](https://www.conservativedailynews.com/2024/09/the-independents-won-the-debate/#comment-782083)
 * Nathan Z. Solomon on [Trump Should Propose a 15% Single Tax Rate for All](https://www.conservativedailynews.com/2024/09/trump-should-propose-a-15-single-tax-rate-for-all/#comment-782014)
 * Sara on [Kamala Harris Will Shut Down X If Elected](https://www.conservativedailynews.com/2024/09/kamala-harris-will-shut-down-x-if-elected/#comment-782013)
-* Michael Busler on [Trump Should Propose a 15% Single Tax Rate for All](https://www.conservativedailynews.com/2024/09/trump-should-propose-a-15-single-tax-rate-for-all/#comment-782007)
 
 [Close](#)
 
