@@ -66,7 +66,7 @@ Any e-mail addresses are not used or collected for any purpose other than notify
 
 ### Look at this!
 
-[![Political giving by issue sectors](/assets/Images/teasers/small/IssueSectorIEs.JPG)](http://www.cfinst.org/pdf/state/Malbin-et-al_APSA2018_Paper_IE-State-2006-2016_working-paper.pdf)
+[![Private Prison Industry  State-Level Contributions, 2016-2017](/assets/Images/teasers/small/Private-prison.JPG)](https://www.followthemoney.org/research/institute-reports/private-prisons-principally-profit-oriented-and-politically-pliable)
 
   [See More Visualizations](https://www.followthemoney.org/look-at-this)
 
