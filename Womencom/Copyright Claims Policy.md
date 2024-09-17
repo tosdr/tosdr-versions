@@ -56,34 +56,46 @@
     
     By Emily Hutchinson [Read More](https://www.women.com/1665299/love-lessons-learned-taylor-swift/)
     
-* *  [![Halloween-inspired nails](https://www.women.com/img/gallery/5-halloween-inspired-manicures-for-short-nails/intro-1726494767.jpg)](https://www.women.com/1662530/halloween-inspired-manicures-short-nails/)
-        
-        [Beauty](https://www.women.com/category/beauty/)
-        
-        [Beauty](https://www.women.com/category/beauty/) By Amanda Chatel
-        
-        ### [5 Halloween-Inspired Manicures For Short Nails](https://www.women.com/1662530/halloween-inspired-manicures-short-nails/)
-        
-        You don't need witch-like claws to embrace the spooky vibes of Halloween. We've got all the inspo for a wickedly good manicure on short nails.
-        
-        By Amanda Chatel [Read More](https://www.women.com/1662530/halloween-inspired-manicures-short-nails/)
-        
-    *  [![Katie Holmes on the red carpet](https://www.women.com/img/gallery/katie-holmes-style-transformation-from-dawsons-creek-to-nyc/intro-1725914096.jpg)](https://www.women.com/1662919/katie-holmes-style-transformation/)
+* *  [![](https://www.women.com/img/gallery/how-to-steal-the-witchy-90s-aesthetic-from-practical-magic/intro-1726509329.jpg)](https://www.women.com/1665826/steal-witchy-90s-aesthetic-practical-magic/)
         
         [Fashion](https://www.women.com/category/fashion/)
         
-        [Fashion](https://www.women.com/category/fashion/) By Emily Hutchinson
+        [Fashion](https://www.women.com/category/fashion/) By Amanda Chatel
         
-        ### [Katie Holmes' Style Transformation From Dawson's Creek To NYC](https://www.women.com/1662919/katie-holmes-style-transformation/)
+        ### [How To Steal The Witchy '90s Aesthetic From Practical Magic](https://www.women.com/1665826/steal-witchy-90s-aesthetic-practical-magic/)
         
-        Since the '90s, Katie Holmes has been known for her simple, classic style. Here is how her fashion has evolved through the years.
+        The iconic looks in 90s movie "Practical Magic" are the perfect fashion inspo for fall. Embrace the witchy aesthetic with vintage jewelry and velvet.
         
-        By Emily Hutchinson [Read More](https://www.women.com/1662919/katie-holmes-style-transformation/)
+        By Amanda Chatel [Read More](https://www.women.com/1665826/steal-witchy-90s-aesthetic-practical-magic/)
+        
+    *  [![](https://www.women.com/img/gallery/6-celebrity-memoirs-that-are-actually-great-well-written-books/intro-1726506825.jpg)](https://www.women.com/1665746/celebrity-memoirs-great-well-written-books/)
+        
+        [Living](https://www.women.com/category/living/)
+        
+        [Living](https://www.women.com/category/living/) By Bernadette Roe
+        
+        ### [6 Celebrity Memoirs That Are Actually Great, Well-Written Books](https://www.women.com/1665746/celebrity-memoirs-great-well-written-books/)
+        
+        Celebrity memoirs can range from really good to really bad. Among the best are recollections by Paris Hilton, Viola Davis, and Tom Felton.
+        
+        By Bernadette Roe [Read More](https://www.women.com/1665746/celebrity-memoirs-great-well-written-books/)
         
 
 More Stories
 ------------
 
+*  [![Halloween-inspired nails](https://www.women.com/img/gallery/5-halloween-inspired-manicures-for-short-nails/intro-1726494767.jpg)](https://www.women.com/1662530/halloween-inspired-manicures-short-nails/)
+    
+    [Beauty](https://www.women.com/category/beauty/)
+    
+    [Beauty](https://www.women.com/category/beauty/) By Amanda Chatel
+    
+    ### [5 Halloween-Inspired Manicures For Short Nails](https://www.women.com/1662530/halloween-inspired-manicures-short-nails/)
+    
+    You don't need witch-like claws to embrace the spooky vibes of Halloween. We've got all the inspo for a wickedly good manicure on short nails.
+    
+    By Amanda Chatel [Read More](https://www.women.com/1662530/halloween-inspired-manicures-short-nails/)
+    
 *  [![Selena Gomez](https://www.women.com/img/gallery/selena-gomezs-choice-to-avoid-high-risk-pregnancy-shows-us-another-way-of-prioritizing-motherhood/intro-1726081971.jpg)](https://www.women.com/1662558/celebs-honest-about-fertility-struggles/)
     
     [Politics](https://www.women.com/category/politics/)
@@ -95,6 +107,18 @@ More Stories
     There are of millions of people pursuing alternative methods for having children, and Selena Gomez is proudly one of them.
     
     By Amanda Chatel [Read More](https://www.women.com/1662558/celebs-honest-about-fertility-struggles/)
+    
+*  [![Katie Holmes on the red carpet](https://www.women.com/img/gallery/katie-holmes-style-transformation-from-dawsons-creek-to-nyc/intro-1725914096.jpg)](https://www.women.com/1662919/katie-holmes-style-transformation/)
+    
+    [Fashion](https://www.women.com/category/fashion/)
+    
+    [Fashion](https://www.women.com/category/fashion/) By Emily Hutchinson
+    
+    ### [Katie Holmes' Style Transformation From Dawson's Creek To NYC](https://www.women.com/1662919/katie-holmes-style-transformation/)
+    
+    Since the '90s, Katie Holmes has been known for her simple, classic style. Here is how her fashion has evolved through the years.
+    
+    By Emily Hutchinson [Read More](https://www.women.com/1662919/katie-holmes-style-transformation/)
     
 *  [![The Bouqs on Shark Tank](https://www.women.com/img/gallery/heres-what-went-down-with-the-bouqs-company-after-shark-tank/intro-1726498446.jpg)](https://www.women.com/1664226/what-went-down-with-the-bouqs-company-after-shark-tan/)
     
@@ -383,30 +407,6 @@ More Stories
     See how we paint our nails with simple, classy colors? We don't need a lot of flashy glitter or embellishments. Our manicures are mindful and demure.
     
     By Amanda Chatel [Read More](https://www.women.com/1656269/cutesy-demure-nail-ideas/)
-    
-*  [![Winona Ryder at an event](https://www.women.com/img/gallery/5-winona-ryder-outfits-that-prove-shes-still-the-reigning-queen-of-grunge-style/intro-1725376988.jpg)](https://www.women.com/1656007/winona-ryder-outfits-prove-still-reigning-queen-grunge-style/)
-    
-    [Fashion](https://www.women.com/category/fashion/)
-    
-    [Fashion](https://www.women.com/category/fashion/) By Bernadette Roe
-    
-    ### [5 Winona Ryder Outfits That Prove She's Still The Reigning Queen Of Grunge Style](https://www.women.com/1656007/winona-ryder-outfits-prove-still-reigning-queen-grunge-style/)
-    
-    Back in the '90s, Winona Ryder became known for her iconic goth girl fashion. Now, decades later, she's wowing fans with some of her grungiest looks yet.
-    
-    By Bernadette Roe [Read More](https://www.women.com/1656007/winona-ryder-outfits-prove-still-reigning-queen-grunge-style/)
-    
-*  [![Jennifer Lopez posing](https://www.women.com/img/gallery/5-times-jennifer-lopez-nailed-trends-while-staying-true-to-her-sexy-style/intro-1725045652.jpg)](https://www.women.com/1654495/times-jennifer-lopez-nailed-trends-staying-true-sexy-style/)
-    
-    [Fashion](https://www.women.com/category/fashion/)
-    
-    [Fashion](https://www.women.com/category/fashion/) By Emily Hutchinson
-    
-    ### [5 Times Jennifer Lopez Nailed Trends While Staying True To Her Sexy Style](https://www.women.com/1654495/times-jennifer-lopez-nailed-trends-staying-true-sexy-style/)
-    
-    Jennifer Lopez knows how to merge what's hot with her own style, repeatedly blending timelessness and trendiness. But how does she do it?
-    
-    By Emily Hutchinson [Read More](https://www.women.com/1654495/times-jennifer-lopez-nailed-trends-staying-true-sexy-style/)
     
 
 Back
