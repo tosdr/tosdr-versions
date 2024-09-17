@@ -219,6 +219,8 @@ De voorwaarden voor Vraag & Aanbod zijn onderbracht in [losse aanvullende voorwa
 
 9.5 Bepaalde hyperlinks of ingevoegde afbeeldingen op de Website leiden naar door derden beheerde, externe websites. Tweakers is niet verantwoordelijk voor de inhoud en het functioneren van deze externe websites, noch voor de kwaliteit van eventuele software, producten of diensten die daarop worden aangeboden en aanvaardt daarvoor geen aansprakelijkheid. Het [privacybeleid](https://tweakers.net/info/algemene-voorwaarden/privacy/ "Privacy Policy Tweakers.net") van Tweakers is niet van toepassing op persoonsgegevens die via deze externe websites worden verzameld.
 
+9.6 Tweakers maakt gebruik van de YouTube API dienst. Door toestemming te geven voor het doeleinde Social Media, ga je akkoord met de [Servicevoorwaarden](https://www.youtube.com/t/terms) van YouTube en de [Privacy Policy](https://www.google.com/policies/privacy) van Google voor het gebruik van deze API.
+
 ### 10 Licentie en intellectuele eigendom
 
 10.1 Met inachtneming van hetgeen is bepaald in deze Algemene Voorwaarden, behoudt het Lid in beginsel de auteursrechten en andere intellectuele eigendomsrechten op de door hem geplaatste Content.
@@ -278,7 +280,7 @@ De voorwaarden voor Vraag & Aanbod zijn onderbracht in [losse aanvullende voorwa
 
 15.5 Op deze Algemene Voorwaarden, alle overeenkomsten, abonnementen en (rechts)handelingen tussen Tweakers en het Lid, is bij uitsluiting Nederlands recht van toepassing.
 
-_Deze Algemene Voorwaarden zijn voor het laatst gewijzigd op 18 juli 2024._
+_Deze Algemene Voorwaarden zijn voor het laatst gewijzigd op 17 september 2024._
 
 * * *
 
