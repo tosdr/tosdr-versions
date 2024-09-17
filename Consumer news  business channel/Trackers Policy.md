@@ -64,7 +64,7 @@ Last Updated: February 28, 2023
 
 English
 
-[![Printer Friendly, PDF & Email](//cdn.printfriendly.com/buttons/printfriendly-pdf-button-nobg.png)](https://www.printfriendly.com/print?url=https://www.nbcuniversal.com/taxonomy/term/200?intake=Universal_Pictures_Home_Entertainment%27 "Printer Friendly, PDF & Email")
+[![Printer Friendly, PDF & Email](//cdn.printfriendly.com/buttons/printfriendly-pdf-button-nobg.png)](https://www.printfriendly.com/print?url=https://www.nbcuniversal.com/taxonomy/term/56?cid=eml_tsl_20190423 "Printer Friendly, PDF & Email")
 
 Cookie Notice
 =============
