@@ -124,6 +124,6 @@ If you have questions about (or suggestions for!) this policy, please [contact u
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-Dear team, thanks very much for providing the Belgian proxy to me. It's been useful to me and I love it. Please, continue supporting this country in the future. You'll see me again. You do a great job.
+I have been very happy with the Foxy Proxy service.
 
-R P A Van Renterghem
+Rachel Ash-Bernal, M.D.
