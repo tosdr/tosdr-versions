@@ -289,26 +289,27 @@ Location
             
         * [Technology](https://www.gsk.com/en-gb/careers/experienced-professionals/technology/)
         
-    * [Early talent](https://www.gsk.com/en-gb/careers/early-talent/)
+    * [Early careers](https://www.gsk.com/en-gb/careers/early-careers/)
         
-        Careers [Early talent](https://www.gsk.com/en-gb/careers/early-talent/)
+        Careers [Early careers](https://www.gsk.com/en-gb/careers/early-careers/)
         
-        * [Kickstart your career](https://www.gsk.com/en-gb/careers/early-talent/kickstart-your-career/)
-        * [Apprentice programmes](https://www.gsk.com/en-gb/careers/early-talent/apprentice-programmes/)
-        * [Work experience, placements and internships](https://www.gsk.com/en-gb/careers/early-talent/work-experience-placements-and-internships/)
-        * [Future leaders graduate programme](https://www.gsk.com/en-gb/careers/early-talent/future-leaders-graduate-programme/)
+        * [Application process](https://www.gsk.com/en-gb/careers/early-careers/application-process/)
+        * [Apprentice programmes](https://www.gsk.com/en-gb/careers/early-careers/apprentice-programmes/)
+        * [Internships and placements](https://www.gsk.com/en-gb/careers/early-careers/internships-and-placements/)
+        * [Graduate programme](https://www.gsk.com/en-gb/careers/early-careers/graduate-programme/)
             
-            Early talent [Future leaders graduate programme](https://www.gsk.com/en-gb/careers/early-talent/future-leaders-graduate-programme/)
+            Early careers [Graduate programme](https://www.gsk.com/en-gb/careers/early-careers/graduate-programme/)
             
-            * [Business operations](https://www.gsk.com/en-gb/careers/early-talent/future-leaders-graduate-programme/business-operations/)
-            * [Engineering](https://www.gsk.com/en-gb/careers/early-talent/future-leaders-graduate-programme/engineering/)
-            * [Manufacturing Operations, Quality & Supply Chain](https://www.gsk.com/en-gb/careers/early-talent/future-leaders-graduate-programme/manufacturing-operations-quality-supply-chain/)
-            * [Marketing and sales](https://www.gsk.com/en-gb/careers/early-talent/future-leaders-graduate-programme/marketing-and-sales/)
-            * [Research and development](https://www.gsk.com/en-gb/careers/early-talent/future-leaders-graduate-programme/research-and-development/)
-            * [Technology](https://www.gsk.com/en-gb/careers/early-talent/future-leaders-graduate-programme/technology/)
-            * [Manufacturing Sciences & Technology](https://www.gsk.com/en-gb/careers/early-talent/future-leaders-graduate-programme/manufacturing-sciences-technology/)
+            * [Business operations](https://www.gsk.com/en-gb/careers/early-careers/graduate-programme/business-operations/)
+            * [Engineering](https://www.gsk.com/en-gb/careers/early-careers/graduate-programme/engineering/)
+            * [Manufacturing operations, Quality, Supply chain, Environment health & safety (EHS)](https://www.gsk.com/en-gb/careers/early-careers/graduate-programme/manufacturing-operations-quality-supply-chain-environment-health-safety/)
+            * [Commercial](https://www.gsk.com/en-gb/careers/early-careers/graduate-programme/commercial/)
+            * [Research and development](https://www.gsk.com/en-gb/careers/early-careers/graduate-programme/research-development/)
+            * [Digital & tech](https://www.gsk.com/en-gb/careers/early-careers/graduate-programme/digital-tech/)
+            * [Manufacturing sciences & technology](https://www.gsk.com/en-gb/careers/early-careers/graduate-programme/manufacturing-sciences-technology/)
             
-        * [Post graduate opportunities](https://www.gsk.com/en-gb/careers/early-talent/post-graduate-opportunities/)
+        * [Post graduate opportunities](https://www.gsk.com/en-gb/careers/early-careers/post-graduate-opportunities/)
+        * [Frequently asked questions](https://www.gsk.com/en-gb/careers/early-careers/frequently-asked-questions/)
         
     * [Veterans](https://www.gsk.com/en-gb/careers/veterans/)
     * [Our global and regional hubs](https://www.gsk.com/en-gb/careers/our-global-and-regional-hubs/)
@@ -316,7 +317,6 @@ Location
         
         Careers [How we hire](https://www.gsk.com/en-gb/careers/how-we-hire/)
         
-        * [Frequently asked questions](https://www.gsk.com/en-gb/careers/how-we-hire/frequently-asked-questions/)
         * [Fraudulent internet recruitment activities](https://www.gsk.com/en-gb/careers/how-we-hire/fraudulent-internet-recruitment-activities/)
         
     
