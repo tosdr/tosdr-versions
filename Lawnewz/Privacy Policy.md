@@ -258,25 +258,25 @@ New York, NY 10001
 Top of Today
 ------------
 
-1. [![Carly Gregg listens to opening statements on Sept. 16, 2024 in Rankin County, Mississippi (Law&Crime).](https://am21.mediaite.com/lc/cnt/uploads/2024/09/Carly-Gregg-opening-statements-432x243.jpg)](https://lawandcrime.com/high-profile/i-put-3-in-my-mom-and-i-got-3-more-waiting-for-my-stepdad-teen-boasted-of-murdering-mother-invited-friend-to-see-body-and-asked-if-she-was-squeamish-prosecutor-says/)
+1. [![Tiffanie Lucas with sons Jayden and Maurice](https://am24.mediaite.com/lc/cnt/uploads/2024/09/Lucas-432x243.jpg)](https://lawandcrime.com/crime/tiffanie-lucas-mom-charged-with-murdering-sons-claims-insanity-but-fit-to-stand-trial/)
     
-    ### ['I put 3 in my mom and I got 3 more waiting for my stepdad': Teen boasted of murdering mother, invited friend to see body and asked if she was 'squeamish,' prosecutor says](https://lawandcrime.com/high-profile/i-put-3-in-my-mom-and-i-got-3-more-waiting-for-my-stepdad-teen-boasted-of-murdering-mother-invited-friend-to-see-body-and-asked-if-she-was-squeamish-prosecutor-says/)
+    ### [Mom who claimed she was 'so stupid' and shot 2 young sons in the head in bedroom by 'accident' now says she was legally insane](https://lawandcrime.com/crime/tiffanie-lucas-mom-charged-with-murdering-sons-claims-insanity-but-fit-to-stand-trial/)
     
-2. [![Keoni Ellis](https://am23.mediaite.com/lc/cnt/uploads/2024/09/Keoni-Ellis-432x243.jpg)](https://lawandcrime.com/crime/preschool-worker-pinched-3-year-old-boy-with-autism-in-the-groin-claimed-mom-gave-her-permission-to-punish-him-police/)
+2. [![Tyrone Berry](https://am22.mediaite.com/lc/cnt/uploads/2024/09/Tyrone-Berry-432x243.jpg)](https://lawandcrime.com/crime/sex-trafficker-dumped-girl-at-walmart-because-she-wasnt-making-enough-money-after-forcing-her-to-have-sex-with-his-brother-known-as-big-face-tulu-police/)
     
-    ### [Preschool worker pinched 3-year-old boy with autism in the groin, claimed mom gave her permission to 'punish him': Police](https://lawandcrime.com/crime/preschool-worker-pinched-3-year-old-boy-with-autism-in-the-groin-claimed-mom-gave-her-permission-to-punish-him-police/)
+    ### [Sex trafficker dumped girl at Walmart because she wasn't making enough money after forcing her to have sex with his brother known as 'Big Face Tulu': Police](https://lawandcrime.com/crime/sex-trafficker-dumped-girl-at-walmart-because-she-wasnt-making-enough-money-after-forcing-her-to-have-sex-with-his-brother-known-as-big-face-tulu-police/)
     
-3. [![Robert Dickson](https://am23.mediaite.com/lc/cnt/uploads/2024/09/Robert-Dickson-432x243.jpg)](https://lawandcrime.com/crime/he-shot-at-me-first-son-blew-away-his-own-father-in-a-bedroom-closet-with-a-shotgun-on-a-sunday-afternoon-without-legal-justification-and-called-911-cops-say/)
+3. [![Donald Trump speaks as White House Chief of Staff Mark Meadows (R) listens from the South Lawn of the White House July 29, 2020. (Photo by Alex Wong/Getty Images.)](https://am24.mediaite.com/lc/cnt/uploads/2022/04/GettyImages-1262332931-copy-432x243.jpg)](https://lawandcrime.com/high-profile/mark-meadows-loses-again-in-federal-court-removal-bid-this-time-in-arizona/)
     
-    ### ['He shot at me first': Son blew away his own father in a bedroom closet with a shotgun on a Sunday afternoon 'without legal justification' and called 911, cops say](https://lawandcrime.com/crime/he-shot-at-me-first-son-blew-away-his-own-father-in-a-bedroom-closet-with-a-shotgun-on-a-sunday-afternoon-without-legal-justification-and-called-911-cops-say/)
+    ### [Judge slams Mark Meadows for 'artful alteration' of Jack Smith's words, rejects argument that Arizona fake electors case is just about 'receiving' texts as Trump's 'gatekeeper'](https://lawandcrime.com/high-profile/mark-meadows-loses-again-in-federal-court-removal-bid-this-time-in-arizona/)
     
-4. [![Background: The home where Jalen Whitlock was shot to death during her child's birthday party (KHOU/YouTube). Inset: Jalin Foreman (Houston Police Department).](https://am21.mediaite.com/lc/cnt/uploads/2024/09/Jalen-Whitlock-Jalin-Foreman-432x243.jpg)](https://lawandcrime.com/crime/lets-finish-this-father-interrupts-6-year-old-daughters-birthday-party-to-fatally-shoot-her-mother-in-the-face-police-say/)
+4. [![Sayra and Cledir Barros](https://am22.mediaite.com/lc/cnt/uploads/2024/09/Sayra-and-Cledir-Barros-432x243.jpg)](https://lawandcrime.com/crime/he-failed-father-left-wife-alone-to-use-wooden-rolling-pin-to-beat-their-8-year-old-daughter-to-death-for-not-doing-homework-jury-concludes/)
     
-    ### ['Let's finish this': Father interrupts 6-year-old daughter's birthday party to fatally shoot her mother in the face, police say](https://lawandcrime.com/crime/lets-finish-this-father-interrupts-6-year-old-daughters-birthday-party-to-fatally-shoot-her-mother-in-the-face-police-say/)
+    ### ['He failed': Father left wife alone to use wooden rolling pin to beat their 8-year-old daughter to death for not doing homework, jury concludes](https://lawandcrime.com/crime/he-failed-father-left-wife-alone-to-use-wooden-rolling-pin-to-beat-their-8-year-old-daughter-to-death-for-not-doing-homework-jury-concludes/)
     
-5. [![Rudy Giuliani, Joe Biden](https://am21.mediaite.com/lc/cnt/uploads/2023/10/Rudy-Giuliani-Joe-Biden-432x243.jpg)](https://lawandcrime.com/high-profile/rudy-giuliani-defamation-lawsuit-against-joe-biden-dismissed/)
+5. [![Ashley Smylie, Carly Gregg](https://am24.mediaite.com/lc/cnt/uploads/2024/09/Ashley-Smylie-Carly-Gregg-432x243.jpg)](https://lawandcrime.com/crime/carly-gregg-accused-of-murdering-mom-at-age-14-faces-trial-in-mississippi/)
     
-    ### ['Utterly failed': Federal judge throws out Rudy Giuliani's defamation suit against Joe Biden for calling him a 'Russian pawn' during Trump debate](https://lawandcrime.com/high-profile/rudy-giuliani-defamation-lawsuit-against-joe-biden-dismissed/)
+    ### ['She killed her mom!': 15-year-old daughter loses it in court as bodycam shows inconsolable stepdad telling deputies he found wife shot in the face at home](https://lawandcrime.com/crime/carly-gregg-accused-of-murdering-mom-at-age-14-faces-trial-in-mississippi/)
     
 
 [](http://eepurl.com/c89Jdb)
