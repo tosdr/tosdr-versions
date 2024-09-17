@@ -136,13 +136,13 @@ Enter your email address to receive our monthly newsletter, the
 
 [Recent blogs](https://www.fsf.org/blogs/recent-blog-posts)
 
+[Free software in the EU needs your help! Join the ongoing Digital Europe Freedom Programme consultation by September 20](https://www.fsf.org/blogs/community/support-needed-for-free-software-in-eu)
+
 [August GNU Spotlight with Amin Bandali](https://www.fsf.org/blogs/community/august-gnu-spotlight-with-amin-bandali "Fifteen new GNU releases in the last month (as of August 31, 2024):")
 
 [Join us in saying goodbye to our beloved office on August 16!](https://www.fsf.org/blogs/community/fsf-office-closing-party)
 
 [Call for volunteers: Help us with the GNU Press shop and new member mailings](https://www.fsf.org/blogs/community/help-us-with-the-gnu-press-shop-and-new-member-mailings)
-
-[July GNU Spotlight with Amin Bandali: Nineteen new GNU releases!](https://www.fsf.org/blogs/community/july-gnu-spotlight-with-amin-bandali)
 
 [Recent blogs - More…](https://www.fsf.org/blogs/recent-blog-posts)
 
@@ -150,7 +150,7 @@ Enter your email address to receive our monthly newsletter, the
 
 [Upcoming Events](https://www.fsf.org/events)
 
- [![Event](https://www.fsf.org/static/fsforg/css/img/newsitem_icon.gif) Pick up some Sourceware infrastructure tips and tricks with Ian Kelling at GNU Cauldron in Prague on September 16](https://www.fsf.org/events/ian-kelling-at-gnu-cauldron-2024) Sep 14, 2024 - Sep 16, 2024
+ [![Event C source code](https://www.fsf.org/static/fsforg/css/img/newsitem_icon.gif) Free Software Directory meeting on IRC: Friday, September 20, starting at 12:00 EDT (16:00 UTC)](https://www.fsf.org/events/fsd-2024-09-20-irc " Join the FSF and friends on Friday, September 20 from 12:00 to 15:00 EDT (16:00 to 19:00 UTC) to help improve the Free Software Directory. ") Sep 20, 2024 12:00 PM - 03:00 PM — #fsf on libera.chat
 
 [Previous events…](https://www.fsf.org/events/aggregator/previous)
 
