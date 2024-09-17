@@ -228,7 +228,7 @@ Apps
 
 Integrations
 
-[Asana](https://www.sunsama.com/integrations/asana)[ClickUp](https://www.sunsama.com/integrations/clickup)[GitHub](https://www.sunsama.com/integrations/github)[Gmail](https://www.sunsama.com/integrations/gmail)[Jira](https://www.sunsama.com/integrations/jira)[Linear](https://www.sunsama.com/integrations/linear)[Monday](https://www.sunsama.com/integrations/monday-com)[Notion](https://www.sunsama.com/integrations/notion)[Outlook](https://www.sunsama.com/integrations/outlook)[Slack](https://www.sunsama.com/integrations/slack)[Teams](https://www.sunsama.com/integrations/microsoft-teams)[Todoist](https://www.sunsama.com/integrations/todoist)[Trello](https://www.sunsama.com/integrations/trello)[Zapier](https://www.sunsama.com/integrations/zapier)
+[Asana](https://www.sunsama.com/integrations/asana)[ClickUp](https://www.sunsama.com/integrations/clickup)[GitHub](https://www.sunsama.com/integrations/github)[Gmail](https://www.sunsama.com/integrations/gmail)[Jira](https://www.sunsama.com/integrations/jira)[Linear](https://www.sunsama.com/integrations/linear)[Monday](https://www.sunsama.com/integrations/monday-com)[Notion](https://www.sunsama.com/integrations/notion)[Outlook](https://www.sunsama.com/integrations/outlook)[Slack](https://www.sunsama.com/integrations/slack)[Teams](https://www.sunsama.com/integrations/microsoft-teams)[Todoist](https://www.sunsama.com/integrations/todoist)[Toggl](https://www.sunsama.com/integrations/toggle-integration)[Trello](https://www.sunsama.com/integrations/trello)[Zapier](https://www.sunsama.com/integrations/zapier)
 
 Team
 
