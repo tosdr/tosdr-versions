@@ -158,76 +158,76 @@ Please note that under Section 512(f) of the DMCA, any person who knowingly mate
 
 TOP NEWS
 
-* [Trump Vows to End Taxes on Overtime. Here’s What It Means for Economy](https://www.theepochtimes.com/us/trump-vows-to-end-taxes-on-overtime-heres-what-it-means-for-economy-5725017)
+* [Meta Launches Instagram Teen Accounts With New Safety Features, Parental Controls](https://www.theepochtimes.com/us/meta-launches-instagram-teen-accounts-with-new-safety-features-parental-controls-5725605)
     
-    NEW By [Andrew Moran](https://www.theepochtimes.com/author/andrew-moran)
+    1hr By [Chase Smith](https://www.theepochtimes.com/author/chase-smith)
     
-    [![Trump Vows to End Taxes on Overtime. Here’s What It Means for Economy](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Meta Launches Instagram Teen Accounts With New Safety Features, Parental Controls](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Trump Vows to End Taxes on Overtime. Here’s What It Means for Economy](https://img.theepochtimes.com/assets/uploads/2024/07/31/id5697546-GettyImages-1163303560-205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-vows-to-end-taxes-on-overtime-heres-what-it-means-for-economy-5725017)
+    ![Meta Launches Instagram Teen Accounts With New Safety Features, Parental Controls](https://img.theepochtimes.com/assets/uploads/2024/09/17/id5725719-GettyImages-883745980-OP-205x123.jpg)](https://www.theepochtimes.com/us/meta-launches-instagram-teen-accounts-with-new-safety-features-parental-controls-5725605)
+* [Death Toll Rises to 18 in Central Europe Floods](https://www.theepochtimes.com/world/death-toll-rises-to-18-in-central-europe-floods-5725560)
+    
+    4hr By [Owen Evans](https://www.theepochtimes.com/author/owen-evans)
+    
+    [![Death Toll Rises to 18 in Central Europe Floods](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Death Toll Rises to 18 in Central Europe Floods](https://img.theepochtimes.com/assets/uploads/2024/09/16/id5725058-2024-09-15T182142Z_1_LYNXMPEK8E06B_RTROPTP_4_EUROPE-WEATHER-CENTRAL-EUROPE-FLOODS-POLAND-205x123.jpg.webp)](https://www.theepochtimes.com/world/death-toll-rises-to-18-in-central-europe-floods-5725560)
+* [Secret Service Must Shift From Reactive to Readiness Model: Acting Director](https://www.theepochtimes.com/us/secret-service-must-shift-from-reactive-to-readiness-model-acting-director-5725536)
+    
+    5hr By [Stephen Katte](https://www.theepochtimes.com/author/stephen-katte)
+    
+    [![Secret Service Must Shift From Reactive to Readiness Model: Acting Director](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Secret Service Must Shift From Reactive to Readiness Model: Acting Director](https://img.theepochtimes.com/assets/uploads/2024/09/17/id5725595-GettyImages-2172457361.jpg-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/secret-service-must-shift-from-reactive-to-readiness-model-acting-director-5725536)
+* [Maduro Regime Intensifying Repression in Venezuela, Says UN Human Rights Report](https://www.theepochtimes.com/world/maduro-regime-intensifying-repression-in-venezuela-says-un-human-rights-report-5725549)
+    
+    5hr By [Chris Summers](https://www.theepochtimes.com/author/chris-summers)
+    
+    [![Maduro Regime Intensifying Repression in Venezuela, Says UN Human Rights Report](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Maduro Regime Intensifying Repression in Venezuela, Says UN Human Rights Report](https://img.theepochtimes.com/assets/uploads/2024/08/05/id5699937-GettyImages-2163819840-OP-205x123.jpg.webp)](https://www.theepochtimes.com/world/maduro-regime-intensifying-repression-in-venezuela-says-un-human-rights-report-5725549)
+* [A Beginner’s Guide to Muscle Building](https://www.theepochtimes.com/health/a-beginners-guide-to-muscle-building-5720832)
+    
+    6hr By [Sheramy Tsai](https://www.theepochtimes.com/author/sher-tsai)
+    
+    [![A Beginner’s Guide to Muscle Building](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![A Beginner’s Guide to Muscle Building](https://img.theepochtimes.com/assets/uploads/2024/09/11/id5722478-Shutterstock_1456653398-205x123.jpg.webp)](https://www.theepochtimes.com/health/a-beginners-guide-to-muscle-building-5720832)
+* [Trump Vows to End Taxes on Overtime. Here’s What It Means for the Economy](https://www.theepochtimes.com/us/trump-vows-to-end-taxes-on-overtime-heres-what-it-means-for-economy-5725017)
+    
+    7hr By [Andrew Moran](https://www.theepochtimes.com/author/andrew-moran)
+    
+    [![Trump Vows to End Taxes on Overtime. Here’s What It Means for the Economy](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Trump Vows to End Taxes on Overtime. Here’s What It Means for the Economy](https://img.theepochtimes.com/assets/uploads/2024/07/31/id5697546-GettyImages-1163303560-205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-vows-to-end-taxes-on-overtime-heres-what-it-means-for-economy-5725017)
 * [Pivotal Week for Markets: What to Expect From Fed Decision](https://www.theepochtimes.com/us/pivotal-week-for-markets-what-to-expect-from-fed-decision-2-post-5725339)
     
-    NEW By [Andrew Moran](https://www.theepochtimes.com/author/andrew-moran)
+    7hr By [Andrew Moran](https://www.theepochtimes.com/author/andrew-moran)
     
     [![Pivotal Week for Markets: What to Expect From Fed Decision](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Pivotal Week for Markets: What to Expect From Fed Decision](https://img.theepochtimes.com/assets/uploads/2024/02/28/id5597174-Jerome-PowellKO-205x123.jpg.webp)](https://www.theepochtimes.com/us/pivotal-week-for-markets-what-to-expect-from-fed-decision-2-post-5725339)
 * [How Do I Vote by Mail and How Do I Track My Mail-In Ballot?](https://www.theepochtimes.com/us/how-do-i-vote-by-mail-and-how-do-i-track-my-mail-in-ballot-5725096)
     
-    NEW By [Stacy Robinson](https://www.theepochtimes.com/author/stacy-robinson)
+    7hr By [Stacy Robinson](https://www.theepochtimes.com/author/stacy-robinson)
     
     [![How Do I Vote by Mail and How Do I Track My Mail-In Ballot?](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![How Do I Vote by Mail and How Do I Track My Mail-In Ballot?](https://img.theepochtimes.com/assets/uploads/2024/09/06/id5719613-texas-mail-in-ballot-2.jpg-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/how-do-i-vote-by-mail-and-how-do-i-track-my-mail-in-ballot-5725096)
 * [Czech Report Highlights CCP’s Covert Operations to Influence Academia and Politics](https://www.theepochtimes.com/china/czech-report-highlights-ccps-covert-operations-to-influence-academia-and-politics-5725203)
     
-    NEW By [Dorothy Li](https://www.theepochtimes.com/author/dorothy-li)
+    7hr By [Dorothy Li](https://www.theepochtimes.com/author/dorothy-li)
     
     [![Czech Report Highlights CCP’s Covert Operations to Influence Academia and Politics](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Czech Report Highlights CCP’s Covert Operations to Influence Academia and Politics](https://img.theepochtimes.com/assets/uploads/2024/09/16/id5725219-GettyImages-938693414-205x123.jpg.webp)](https://www.theepochtimes.com/china/czech-report-highlights-ccps-covert-operations-to-influence-academia-and-politics-5725203)
+    ![Czech Report Highlights CCP’s Covert Operations to Influence Academia and Politics](https://img.theepochtimes.com/assets/uploads/2024/09/17/id5725606-GettyImages-938693414.jpg-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/china/czech-report-highlights-ccps-covert-operations-to-influence-academia-and-politics-5725203)
 * [Post-Pandemic Cultural Shift Drives School Absentee Crisis](https://www.theepochtimes.com/article/post-pandemic-cultural-shift-drives-school-absentee-crisis-5723856)
     
-    NEW By [Aaron Gifford](https://www.theepochtimes.com/author/aaron-gifford)
+    7hr By [Aaron Gifford](https://www.theepochtimes.com/author/aaron-gifford)
     
     [![Post-Pandemic Cultural Shift Drives School Absentee Crisis](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Post-Pandemic Cultural Shift Drives School Absentee Crisis](https://img.theepochtimes.com/assets/uploads/2024/09/16/id5725216-GettyImages-1237663149-205x123.jpg.webp)](https://www.theepochtimes.com/article/post-pandemic-cultural-shift-drives-school-absentee-crisis-5723856)
-* [Lawmaker Warns of Rising Trend of ‘Hostage Diplomacy’ After China Releases US Citizen](https://www.theepochtimes.com/china/lawmaker-warns-of-rising-trend-of-hostage-diplomacy-after-china-releases-us-citizen-5724948)
-    
-    NEW By [Frank Fang](https://www.theepochtimes.com/author/frank-fang), Epoch Times
-    
-    [![Lawmaker Warns of Rising Trend of ‘Hostage Diplomacy’ After China Releases US Citizen](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Lawmaker Warns of Rising Trend of ‘Hostage Diplomacy’ After China Releases US Citizen](https://img.theepochtimes.com/assets/uploads/2024/05/27/id5657820-10112023-DSC07220-McCaul-LSEdit.jpg-205x123.webp)](https://www.theepochtimes.com/china/lawmaker-warns-of-rising-trend-of-hostage-diplomacy-after-china-releases-us-citizen-5724948)
-* [Congress May Pass More Funding for Secret Service After Trump Assassination Attempt](https://www.theepochtimes.com/us/congress-may-pass-more-funding-for-secret-service-after-trump-assassination-attempt-5725174)
-    
-    NEW By [Arjun Singh](https://www.theepochtimes.com/author/arjun-singh)
-    
-    [![Congress May Pass More Funding for Secret Service After Trump Assassination Attempt](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Congress May Pass More Funding for Secret Service After Trump Assassination Attempt](https://img.theepochtimes.com/assets/uploads/2024/09/16/id5725268-GettyImages-1249593543-205x123.jpg.webp)](https://www.theepochtimes.com/us/congress-may-pass-more-funding-for-secret-service-after-trump-assassination-attempt-5725174)
-* [90 Percent of Registered Voters Believe America Is in a ‘Retirement Savings Crisis’: Survey](https://www.theepochtimes.com/business/90-percent-of-registered-voters-believe-america-is-in-a-retirement-savings-crisis-survey-5725159)
-    
-    NEW By [Mary Prenon](https://www.theepochtimes.com/author/mary-prenon)
-    
-    [![90 Percent of Registered Voters Believe America Is in a ‘Retirement Savings Crisis’: Survey](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![90 Percent of Registered Voters Believe America Is in a ‘Retirement Savings Crisis’: Survey](https://img.theepochtimes.com/assets/uploads/2024/06/10/id5665938-Pensionshutterstock_2381235951-205x123.jpeg.webp)](https://www.theepochtimes.com/business/90-percent-of-registered-voters-believe-america-is-in-a-retirement-savings-crisis-survey-5725159)
-* [Sean ‘Diddy’ Combs Arrested in New York](https://www.theepochtimes.com/us/sean-diddy-combs-arrested-in-new-york-5725489)
-    
-    6hr By [Caden Pearson](https://www.theepochtimes.com/author/caden-pearson)
-    
-    [![Sean ‘Diddy’ Combs Arrested in New York](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Sean ‘Diddy’ Combs Arrested in New York](https://img.theepochtimes.com/assets/uploads/2024/05/17/id5652245-Sean-205x123.jpg.webp)](https://www.theepochtimes.com/us/sean-diddy-combs-arrested-in-new-york-5725489)
-* [Trump Recounts Assassination Attempt, Praises Secret Service in Interview](https://www.theepochtimes.com/us/trump-recounts-assassination-attempt-praises-secret-service-in-interview-5725394)
-    
-    7hr By [Joseph Lord](https://www.theepochtimes.com/author/joseph-lord)
-    
-    [![Trump Recounts Assassination Attempt, Praises Secret Service in Interview](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Trump Recounts Assassination Attempt, Praises Secret Service in Interview](https://img.theepochtimes.com/assets/uploads/2024/09/14/id5724310-GettyImages-2171767229-Donald-Trump-OP-205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-recounts-assassination-attempt-praises-secret-service-in-interview-5725394)
+    ![Post-Pandemic Cultural Shift Drives School Absentee Crisis](https://img.theepochtimes.com/assets/uploads/2024/09/17/id5725616-GettyImages-1237663149-205x123.jpg.webp)](https://www.theepochtimes.com/article/post-pandemic-cultural-shift-drives-school-absentee-crisis-5723856)
 
 [![The Epoch Times](https://www.theepochtimes.com/assets/themes/eet/images/logo_eet.svg)](https://www.theepochtimes.com/)
 
