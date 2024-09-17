@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-2ed260f3c650e69a5ad97b5e130f7273
+e1cf700485dc577e29afb3b68c773183
 
 [](# "Expand for more options")[](# "Search")
 
@@ -171,11 +171,11 @@ Sojourner may revise this policy as needed by updating this posting.
 
 ### Featured Product
 
-[![Pearl and lily earrings](https://www.sojourner.biz/images/cache/E0044.200.jpg)](https://www.sojourner.biz/jewelry/earrings/pearl-and-lily-earrings.html "Pearl and lily earrings")
+[![10 mm round purple polka dot Czech discs](https://www.sojourner.biz/images/cache/glass/GL0007.200.jpg)](https://www.sojourner.biz/beads/glass/10-mm-round-purple-polka-dot-czech-discs.html "10 mm round purple polka dot Czech discs")
 
-#### [Pearl and lily earrings](https://www.sojourner.biz/jewelry/earrings/pearl-and-lily-earrings.html "Pearl and lily earrings")
+#### [10 mm round purple polka dot Czech discs](https://www.sojourner.biz/beads/glass/10-mm-round-purple-polka-dot-czech-discs.html "10 mm round purple polka dot Czech discs")
 
-$35.00
+$10.00
 
 ### Best Sellers
 
