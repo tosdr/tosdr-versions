@@ -50,9 +50,7 @@ powered by Stable Diffusion AI
 [Terms](https://dezgo.com/terms) - [Privacy](https://dezgo.com/privacy) - [Open RAIL-M License](https://dezgo.com/license)  
 Privacy Manager
 
-\- **The cutting-edge [Flux model](https://dezgo.com/model/flux_1_schnell) is now available on Dezgo!** Enjoy better prompt adherence, improved image quality for different image styles and the ability to generate text.  
-\- To celebrate, use the **FLUXGO5** coupon for a $5 discount on orders of at least $20 until Sep 16.  
-\- **Win up to $100 in Dezgo credits** by sharing your best Flux-generated images on our Discord contest here: [Join now](https://discord.gg/UHfTvFt9)
+Last week to **Win up to $100 in Dezgo credits** by sharing your best images generated with the brand new Flux model in our Discord contest here: [Join Now](https://discord.gg/RQrGpUhPhx)
 
 ### TERMS OF SERVICE
 
