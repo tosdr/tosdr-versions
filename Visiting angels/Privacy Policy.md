@@ -260,15 +260,15 @@ Or write to us at: 937 Haverford Road Suite 200, Bryn Mawr PA 19010
 
  related  categories
 
-[How to Plan for End of Life Care](https://www.visitingangels.com/knowledge-center/preparing-loved-ones/how-to-plan-for-end-of-life-care/470)
+[Alzheimer’s Care: Helping To Manage Sundowner’s Syndrome](https://www.visitingangels.com/knowledge-center/senior-health-and-well-being/alzheimers-care-helping-to-manage-sundowners-syndrome/478)
 
-[Social Isolation May Transform Brain, Increase Stress](https://www.visitingangels.com/knowledge-center/why-in-home-care/social-isolation-may-transform-brain-increase-stress/376)
+[6 Tips to Help Your Loved One Keep Track of Medication](https://www.visitingangels.com/knowledge-center/care-options/6-tips-to-help-your-loved-one-keep-track-of-medication/82)
 
-[Paranoia in the Elderly: Will it Warrant Additional Care?](https://www.visitingangels.com/knowledge-center/senior-health-and-well-being/paranoia-in-the-elderly-will-it-warrant-additional-care/370)
+[Recognizing the Signs Your Parents Need Assisted Living Care](https://www.visitingangels.com/knowledge-center/care-options/recognizing-the-signs-your-parents-need-assisted-living-care/67)
 
-[“What Is Alzheimer’s?”: 3 Ways of Understanding Alzheimer’s Disease](https://www.visitingangels.com/knowledge-center/family-caregiver-support/what-is-alzheimers-3-ways-of-understanding-alzheimers-disease/347)
+[Homecare Assistance: A Cure for Senior Loneliness](https://www.visitingangels.com/knowledge-center/why-in-home-care/homecare-assistance-a-cure-for-senior-loneliness/475)
 
-[Important Resources Your Veteran Loved One Can Use, Including Home Care](https://www.visitingangels.com/knowledge-center/selecting-care/important-resources-your-veteran-loved-one-can-use-including-home-care/334)
+[Understanding the Different Kinds of Senior Care Available](https://www.visitingangels.com/knowledge-center/care-options/understanding-the-different-kinds-of-senior-care-available/282)
 
 * [Care Options](https://www.visitingangels.com/knowledge-center/care-options)
 * [Selecting Care](https://www.visitingangels.com/knowledge-center/selecting-care)
