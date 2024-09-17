@@ -146,9 +146,9 @@ If you would like to quote more than 20 percent of an article, please contact us
 
   [![Activists hold up symbolic eye masks during a protest against deepfake porn in Seoul on Aug. 30. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/13/420717.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Activists hold up symbolic eye masks during a protest against deepfake porn in Seoul on Aug. 30. ")](https://www.japantimes.co.jp/commentary/2024/09/13/world/south-korea-deepfake-porn-crisis/ "South Korea is facing deepfake porn crisis")
 
-[‘The people I’d seen in kimono didn’t have as much melanin as I do’](https://www.japantimes.co.jp/community/2024/09/16/our-lives/kimono-instructor-license-black-women-japan/ "‘The people I’d seen in kimono didn’t have as much melanin as I do’")
+[Second assassination attempt on Trump is latest jolt in chaotic campaign](https://www.japantimes.co.jp/news/2024/09/16/world/politics/trump-new-assassination-suspect/ "Second assassination attempt on Trump is latest jolt in chaotic campaign")
 
-  [![American Kara Harris is on the verge of attaining a high-level certification in the world of kimono — and may possibly be the first Black woman to do so.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/13/421162.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "American Kara Harris is on the verge of attaining a high-level certification in the world of kimono — and may possibly be the first Black woman to do so.")](https://www.japantimes.co.jp/community/2024/09/16/our-lives/kimono-instructor-license-black-women-japan/ "‘The people I’d seen in kimono didn’t have as much melanin as I do’")
+  [![U.S. Secret Service and Homeland Security agents check a former home of a Ryan Routh, a suspect in an alleged assassination attempt on former U.S. President Donald Trump, in Greensboro, North Carolina, on Sunday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/16/421973.JPG?v=3.1&w=400&q=100&f=jpg&t=1.2 "U.S. Secret Service and Homeland Security agents check a former home of a Ryan Routh, a suspect in an alleged assassination attempt on former U.S. President Donald Trump, in Greensboro, North Carolina, on Sunday.")](https://www.japantimes.co.jp/news/2024/09/16/world/politics/trump-new-assassination-suspect/ "Second assassination attempt on Trump is latest jolt in chaotic campaign")
 
 Editors' Picks
 --------------
@@ -183,13 +183,11 @@ By [Catherine Thorbecke](https://www.japantimes.co.jp/author/5823/catherine-thor
 
   [![Activists hold up symbolic eye masks during a protest against deepfake porn in Seoul on Aug. 30. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/13/420717.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Activists hold up symbolic eye masks during a protest against deepfake porn in Seoul on Aug. 30. ")](https://www.japantimes.co.jp/commentary/2024/09/13/world/south-korea-deepfake-porn-crisis/ "South Korea is facing deepfake porn crisis")
 
-[COMMUNITY](https://www.japantimes.co.jp/community/ "COMMUNITY")
+[WORLD](https://www.japantimes.co.jp/news/world/ "WORLD")
 
-[‘The people I’d seen in kimono didn’t have as much melanin as I do’](https://www.japantimes.co.jp/community/2024/09/16/our-lives/kimono-instructor-license-black-women-japan/ "‘The people I’d seen in kimono didn’t have as much melanin as I do’")
+[Second assassination attempt on Trump is latest jolt in chaotic campaign](https://www.japantimes.co.jp/news/2024/09/16/world/politics/trump-new-assassination-suspect/ "Second assassination attempt on Trump is latest jolt in chaotic campaign")
 
-By [Baye McNeil](https://www.japantimes.co.jp/author/264/baye-mcneil/ "Baye McNeil")  
-
-  [![American Kara Harris is on the verge of attaining a high-level certification in the world of kimono — and may possibly be the first Black woman to do so.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/13/421162.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "American Kara Harris is on the verge of attaining a high-level certification in the world of kimono — and may possibly be the first Black woman to do so.")](https://www.japantimes.co.jp/community/2024/09/16/our-lives/kimono-instructor-license-black-women-japan/ "‘The people I’d seen in kimono didn’t have as much melanin as I do’")
+  [![U.S. Secret Service and Homeland Security agents check a former home of a Ryan Routh, a suspect in an alleged assassination attempt on former U.S. President Donald Trump, in Greensboro, North Carolina, on Sunday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/16/421973.JPG?v=3.1&w=400&q=100&f=jpg&t=1.2 "U.S. Secret Service and Homeland Security agents check a former home of a Ryan Routh, a suspect in an alleged assassination attempt on former U.S. President Donald Trump, in Greensboro, North Carolina, on Sunday.")](https://www.japantimes.co.jp/news/2024/09/16/world/politics/trump-new-assassination-suspect/ "Second assassination attempt on Trump is latest jolt in chaotic campaign")
 
 Podcast
 -------
@@ -210,9 +208,9 @@ By [Alex K.T. Martin](https://www.japantimes.co.jp/author/219/alex-kt-martin/ "A
 SUSTAINABLE JAPAN
 -----------------
 
-[Sasakawa works for a sustainable blue economy](https://sustainable.japantimes.com/magazine/vol39/39-01?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "Sasakawa works for a sustainable blue economy")
+[Azabudai Hills, Tokyo’s green new downtown ‘village’](https://sustainable.japantimes.com/unraveling/26?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=2 "Azabudai Hills, Tokyo’s green new downtown ‘village’")
 
-[![Sasakawa works for a sustainable blue economy](https://wp.japantimes.co.jp/wp-content/uploads/2024/08/img_magazine_39_01_01-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol39/39-01?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "Sasakawa works for a sustainable blue economy")
+[![Azabudai Hills, Tokyo’s green new downtown ‘village’](https://wp.japantimes.co.jp/wp-content/uploads/2024/07/img_unraveling_26_01-200x200.jpg)](https://sustainable.japantimes.com/unraveling/26?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=2 "Azabudai Hills, Tokyo’s green new downtown ‘village’")
 
 SPECIAL SUPPLEMENTS [![note](/theme_japantimes/images/icon_note.png)](javascript:; "Note")
 ------------------------------------------------------------------------------------------
@@ -252,23 +250,23 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
-[Iran president pledges to stop morality police confronting women](https://www.japantimes.co.jp/news/2024/09/17/world/iran-morality-police-women/ "Iran president pledges to stop morality police confronting women")
+[LDP presidential hopefuls lay out priorities for PM in online debate](https://www.japantimes.co.jp/news/2024/09/17/japan/politics/ldp-debate-about-priorities/ "LDP presidential hopefuls lay out priorities for PM in online debate")
 
-37 mins ago
+22 mins ago
 
-[Superbugs death toll could swell by millions over coming years](https://www.japantimes.co.jp/news/2024/09/17/world/science-health/superbugs-death-toll-millions/ "Superbugs death toll could swell by millions over coming years")
+[Deaths among elderly people using electric wheelchairs on the rise](https://www.japantimes.co.jp/news/2024/09/17/japan/elderly-electric-wheelchairs/ "Deaths among elderly people using electric wheelchairs on the rise")
 
-57 mins ago
+25 mins ago
 
-[Raising awareness key to Japan's new residential road speed limit](https://www.japantimes.co.jp/news/2024/09/17/japan/japan-new-residential-road-speed-limit/ "Raising awareness key to Japan's new residential road speed limit")
+[Japanese average land price rises for third consecutive year](https://www.japantimes.co.jp/business/2024/09/17/economy/japan-land-prices/ "Japanese average land price rises for third consecutive year")
 
-1 hours ago
+49 mins ago
 
-[How Intel lost the Sony PlayStation business](https://www.japantimes.co.jp/business/2024/09/17/tech/intel-lost-sony-playstation-contract/ "How Intel lost the Sony PlayStation business")
+[U.S. gathers arsenal of anti-ship weapons to counter China](https://www.japantimes.co.jp/news/2024/09/17/asia-pacific/politics/us-anti-ship-weapons-china/ "U.S. gathers arsenal of anti-ship weapons to counter China")
 
-1 hours ago
+58 mins ago
 
-[Suspect in second Trump assassination attempt had criminal history](https://www.japantimes.co.jp/news/2024/09/17/world/crime-legal/trump-assassination-criminal-history/ "Suspect in second Trump assassination attempt had criminal history")
+[Japan's arctic research vessel Mirai reaches sea ice area](https://www.japantimes.co.jp/news/2024/09/17/japan/science-health/japan-arctic-research-vessel-in-sea-ice/ "Japan's arctic research vessel Mirai reaches sea ice area")
 
 1 hours ago
 
