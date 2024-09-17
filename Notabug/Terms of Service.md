@@ -2,7 +2,7 @@ Please enable JavaScript in your browser!
 
  [![](/img/favicon.png)](https://notabug.org/)[Home](https://notabug.org/) [Explore](https://notabug.org/explore/repos) [Help](https://notabug.org/help)
 
-[Register](https://notabug.org/user/sign_up) [Sign In](https://notabug.org/user/login?redirect_to=%2ftos)
+[Sign In](https://notabug.org/user/login?redirect_to=%2ftos)
 
 Terms of Service
 ----------------
