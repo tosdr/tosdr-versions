@@ -158,76 +158,76 @@ Please note that under Section 512(f) of the DMCA, any person who knowingly mate
 
 TOP NEWS
 
+* [Sean ‘Diddy’ Combs Arrested in New York](https://www.theepochtimes.com/us/sean-diddy-combs-arrested-in-new-york-5725489)
+    
+    NEW By [Caden Pearson](https://www.theepochtimes.com/author/caden-pearson)
+    
+    [![Sean ‘Diddy’ Combs Arrested in New York](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Sean ‘Diddy’ Combs Arrested in New York](https://img.theepochtimes.com/assets/uploads/2024/05/17/id5652245-Sean-205x123.jpg.webp)](https://www.theepochtimes.com/us/sean-diddy-combs-arrested-in-new-york-5725489)
+* [Trump Recounts Assassination Attempt, Praises Secret Service in Interview](https://www.theepochtimes.com/us/trump-recounts-assassination-attempt-praises-secret-service-in-interview-5725394)
+    
+    1hr By [Joseph Lord](https://www.theepochtimes.com/author/joseph-lord)
+    
+    [![Trump Recounts Assassination Attempt, Praises Secret Service in Interview](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Trump Recounts Assassination Attempt, Praises Secret Service in Interview](https://img.theepochtimes.com/assets/uploads/2024/09/14/id5724310-GettyImages-2171767229-Donald-Trump-OP-205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-recounts-assassination-attempt-praises-secret-service-in-interview-5725394)
+* [Top Election Officials Tell Congress Voter Roll Accuracy Is Improving but Other Issues Remain](https://www.theepochtimes.com/us/top-election-officials-tell-congress-voter-roll-accuracy-is-improving-but-other-issues-remain-5724319)
+    
+    2hr By [Steven Kovac](https://www.theepochtimes.com/author/steven-kovac)
+    
+    [![Top Election Officials Tell Congress Voter Roll Accuracy Is Improving but Other Issues Remain](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Top Election Officials Tell Congress Voter Roll Accuracy Is Improving but Other Issues Remain](https://img.theepochtimes.com/assets/uploads/2024/08/15/id5706018-08142024-DSC06904-US-Capitol-building-205x123.jpg.webp)](https://www.theepochtimes.com/us/top-election-officials-tell-congress-voter-roll-accuracy-is-improving-but-other-issues-remain-5724319)
+* [Day in Photos: A Brazilian Blaze, Trump Assassination Attempt, and European Floods](https://www.theepochtimes.com/article/day-in-photos-a-brazilian-blaze-trump-assassination-attempt-and-european-floods-5720993)
+    
+    4hr By [Epoch Times Staff](https://www.theepochtimes.com/author/epoch-times-staff)
+    
+    [![Day in Photos: A Brazilian Blaze, Trump Assassination Attempt, and European Floods](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Day in Photos: A Brazilian Blaze, Trump Assassination Attempt, and European Floods](https://img.theepochtimes.com/assets/uploads/2024/09/16/id5725176-GettyImages-2171670802-2-205x123.jpg.webp)](https://www.theepochtimes.com/article/day-in-photos-a-brazilian-blaze-trump-assassination-attempt-and-european-floods-5720993)
+* [2nd Apparent Assassination Attempt on Trump Provokes Calls for Tighter Security](https://www.theepochtimes.com/us/second-apparent-assassination-attempt-on-trump-provokes-calls-for-tighter-security-5725074)
+    
+    5hr By [Janice Hisle](https://www.theepochtimes.com/reporter/janice-hisle)
+    
+    [![2nd Apparent Assassination Attempt on Trump Provokes Calls for Tighter Security](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![2nd Apparent Assassination Attempt on Trump Provokes Calls for Tighter Security](https://img.theepochtimes.com/assets/uploads/2024/09/16/id5725087-GettyImages-2167846419-205x123.jpg.webp)](https://www.theepochtimes.com/us/second-apparent-assassination-attempt-on-trump-provokes-calls-for-tighter-security-5725074)
+* [Microplastics Found in Human Brain for the First Time](https://www.theepochtimes.com/health/microplastics-found-in-human-brain-for-the-first-time-5724970)
+    
+    5hr By [Cara Michelle Miller](https://www.theepochtimes.com/author/cara-michelle-miller)
+    
+    [![Microplastics Found in Human Brain for the First Time](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Microplastics Found in Human Brain for the First Time](https://img.theepochtimes.com/assets/uploads/2024/09/16/id5725271-shutterstock_2360520189_microplastic_clothes_clothing_plastic_microplastics-205x123.jpg.webp)](https://www.theepochtimes.com/health/microplastics-found-in-human-brain-for-the-first-time-5724970)
+* [2nd Trump Assassination Attempt Suspect Was Subject of 2019 FBI Tip: Special Agent](https://www.theepochtimes.com/us/2nd-trump-assassination-attempt-suspect-was-subject-of-2019-fbi-tip-special-agent-5725224)
+    
+    6hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
+    
+    [![2nd Trump Assassination Attempt Suspect Was Subject of 2019 FBI Tip: Special Agent](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![2nd Trump Assassination Attempt Suspect Was Subject of 2019 FBI Tip: Special Agent](https://img.theepochtimes.com/assets/uploads/2024/09/16/id5725088-spdpsaudapsuapdsusadpasudpsadu-205x123.jpg.webp)](https://www.theepochtimes.com/us/2nd-trump-assassination-attempt-suspect-was-subject-of-2019-fbi-tip-special-agent-5725224)
 * [Harris Meets With Teamsters Union, Seeking Endorsement](https://www.theepochtimes.com/us/harris-meets-with-teamsters-union-seeking-endorsement-5725092)
     
-    NEW By [Jacob Burg](https://www.theepochtimes.com/author/jacob-burg)
+    6hr By [Jacob Burg](https://www.theepochtimes.com/author/jacob-burg)
     
     [![Harris Meets With Teamsters Union, Seeking Endorsement](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Harris Meets With Teamsters Union, Seeking Endorsement](https://img.theepochtimes.com/assets/uploads/2024/02/23/id5593521-GettyImages-1975627130-OP-205x123.jpg.webp)](https://www.theepochtimes.com/us/harris-meets-with-teamsters-union-seeking-endorsement-5725092)
 * [India’s Security Adviser, China’s Foreign Minister Agree to Redouble Disengagement Effort Along Disputed Border](https://www.theepochtimes.com/world/indias-security-adviser-chinas-foreign-minister-agree-to-redouble-disengagement-effort-along-disputed-border-5723769)
     
-    NEW By [Venus Upadhayaya](https://www.theepochtimes.com/author/venus-upadhayaya), Epoch Times
+    6hr By [Venus Upadhayaya](https://www.theepochtimes.com/author/venus-upadhayaya), Epoch Times
     
     [![India’s Security Adviser, China’s Foreign Minister Agree to Redouble Disengagement Effort Along Disputed Border](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![India’s Security Adviser, China’s Foreign Minister Agree to Redouble Disengagement Effort Along Disputed Border](https://img.theepochtimes.com/assets/uploads/2024/03/14/id5607321-India-border-soldiers-OP-205x123.jpg.webp)](https://www.theepochtimes.com/world/indias-security-adviser-chinas-foreign-minister-agree-to-redouble-disengagement-effort-along-disputed-border-5723769)
 * [Court Seems Skeptical of TikTok’s Challenge to Forced Divestment Law](https://www.theepochtimes.com/us/court-seems-skeptical-of-tiktoks-challenge-to-forced-divestment-law-5724927)
     
-    NEW By [Sam Dorman](https://www.theepochtimes.com/author/sam-dorman)
+    7hr By [Sam Dorman](https://www.theepochtimes.com/author/sam-dorman)
     
     [![Court Seems Skeptical of TikTok’s Challenge to Forced Divestment Law](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Court Seems Skeptical of TikTok’s Challenge to Forced Divestment Law](https://img.theepochtimes.com/assets/uploads/2024/04/27/id5638906-2024-04-26T203301Z_3_LYNXNPEK3P0QV_RTROPTP_3_KENYA-TIKTOK-205x123.jpg.webp)](https://www.theepochtimes.com/us/court-seems-skeptical-of-tiktoks-challenge-to-forced-divestment-law-5724927)
-* [Walgreens Agrees to Pay $107 Million to Settle Allegations of Falsely Billing Medicare, Medicaid](https://www.theepochtimes.com/us/walgreens-agrees-to-pay-107-million-to-settle-allegations-of-falsely-billing-medicare-medicaid-5725068)
-    
-    2hr By [Chase Smith](https://www.theepochtimes.com/author/chase-smith)
-    
-    [![Walgreens Agrees to Pay $107 Million to Settle Allegations of Falsely Billing Medicare, Medicaid](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Walgreens Agrees to Pay $107 Million to Settle Allegations of Falsely Billing Medicare, Medicaid](https://img.theepochtimes.com/assets/uploads/2024/09/16/id5725235-GettyImages-1767504444-OP-205x123.jpg.webp)](https://www.theepochtimes.com/us/walgreens-agrees-to-pay-107-million-to-settle-allegations-of-falsely-billing-medicare-medicaid-5725068)
-* [Boeing Freezes Hiring, Warns of Possible Layoffs Amid Machinist Strike](https://www.theepochtimes.com/business/boeing-freezes-hiring-warns-of-possible-layoffs-amid-machinist-strike-5725036)
-    
-    2hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
-    
-    [![Boeing Freezes Hiring, Warns of Possible Layoffs Amid Machinist Strike](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Boeing Freezes Hiring, Warns of Possible Layoffs Amid Machinist Strike](https://img.theepochtimes.com/assets/uploads/2024/09/13/id5724004-GettyImages-2170940748-205x123.jpg.webp)](https://www.theepochtimes.com/business/boeing-freezes-hiring-warns-of-possible-layoffs-amid-machinist-strike-5725036)
-* [Man in Apparent 2nd Assassination Attempt on Trump Charged With Federal Gun Crimes](https://www.theepochtimes.com/us/man-in-apparent-2nd-assassination-attempt-on-trump-charged-with-federal-gun-crimes-5725045)
-    
-    3hr By [Samantha Flom](https://www.theepochtimes.com/author/samantha-flom)
-    
-    [![Man in Apparent 2nd Assassination Attempt on Trump Charged With Federal Gun Crimes](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Man in Apparent 2nd Assassination Attempt on Trump Charged With Federal Gun Crimes](https://img.theepochtimes.com/assets/uploads/2024/09/16/id5725192-Ryan-Wesley-Routh-in-Ukraine-2022.jpeg-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/man-in-apparent-2nd-assassination-attempt-on-trump-charged-with-federal-gun-crimes-5725045)
-* [Russian Army to Add 180,000 Soldiers, 1 Year Ahead of Schedule](https://www.theepochtimes.com/world/russian-army-to-add-180000-soldiers-1-year-ahead-of-schedule-5724955)
-    
-    4hr By [Chris Summers](https://www.theepochtimes.com/author/chris-summers)
-    
-    [![Russian Army to Add 180,000 Soldiers, 1 Year Ahead of Schedule](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Russian Army to Add 180,000 Soldiers, 1 Year Ahead of Schedule](https://img.theepochtimes.com/assets/uploads/2024/09/16/id5725193-Russian-soldiers.jpg-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/world/russian-army-to-add-180000-soldiers-1-year-ahead-of-schedule-5724955)
-* [UK’s Starmer Visits Rome to Discuss Migration with Meloni](https://www.theepochtimes.com/world/uks-starmer-visits-rome-to-discuss-migration-with-meloni-5724901)
-    
-    5hr By [Guy Birchall](https://www.theepochtimes.com/author/guy-birchall)
-    
-    [![UK’s Starmer Visits Rome to Discuss Migration with Meloni](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![UK’s Starmer Visits Rome to Discuss Migration with Meloni](https://img.theepochtimes.com/assets/uploads/2024/09/16/id5725046-2024-09-16T105441Z_1_LYNXMPEK8F0B9_RTROPTP_4_ITALY-BRITAIN.jpg-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/world/uks-starmer-visits-rome-to-discuss-migration-with-meloni-5724901)
-* [23andMe Proposes $30 Million Payment for Data Breach](https://www.theepochtimes.com/business/23andme-proposes-30-million-payment-for-data-breach-5725008)
-    
-    5hr By [Naveen Athrappully](https://www.theepochtimes.com/author/naveen-athrappully)
-    
-    [![23andMe Proposes $30 Million Payment for Data Breach](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![23andMe Proposes $30 Million Payment for Data Breach](https://img.theepochtimes.com/assets/uploads/2024/09/16/id5725047-GettyImages-1978236895.jpg-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/business/23andme-proposes-30-million-payment-for-data-breach-5725008)
-* [Biden Says Secret Service Needs ‘More Help’ After 2nd Trump Assassination Attempt](https://www.theepochtimes.com/us/biden-says-secret-service-needs-more-help-after-2nd-trump-assassination-attempt-5724958)
-    
-    7hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
-    
-    [![Biden Says Secret Service Needs ‘More Help’ After 2nd Trump Assassination Attempt](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Biden Says Secret Service Needs ‘More Help’ After 2nd Trump Assassination Attempt](https://img.theepochtimes.com/assets/uploads/2024/09/16/id5725238-Biden-GettyImages-2171667315-205x123.jpg)](https://www.theepochtimes.com/us/biden-says-secret-service-needs-more-help-after-2nd-trump-assassination-attempt-5724958)
 
 [![The Epoch Times](https://www.theepochtimes.com/assets/themes/eet/images/logo_eet.svg)](https://www.theepochtimes.com/)
 
