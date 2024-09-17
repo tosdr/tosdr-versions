@@ -30,14 +30,18 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.tegna-media.com/assets/WTOL/images/b388c9d3-f0b3-4455-9f68-5229a718ed9a/b388c9d3-f0b3-4455-9f68-5229a718ed9a_16x9.jpg) ![](https://media.tegna-media.com/assets/WTOL/images/b388c9d3-f0b3-4455-9f68-5229a718ed9a/b388c9d3-f0b3-4455-9f68-5229a718ed9a_360x203.jpg)](https://www.wqad.com/article/news/local/man-shot-rock-island-monday-night/526-4e09221d-0cd3-4f35-9b90-ba54dd104e63)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/bf723300-3e88-489d-9a51-ab45c35ea79e/20240917T215310/bf723300-3e88-489d-9a51-ab45c35ea79e_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/bf723300-3e88-489d-9a51-ab45c35ea79e/20240917T215310/bf723300-3e88-489d-9a51-ab45c35ea79e_360x203.jpg)](https://www.wqad.com/article/news/local/davenport-new-city-administrator-selected/526-06e2a462-fbb7-469c-a553-803d525a0203)
         
-        #### [Man shot in Rock Island Monday night near Riverside Liquor](https://www.wqad.com/article/news/local/man-shot-rock-island-monday-night/526-4e09221d-0cd3-4f35-9b90-ba54dd104e63)
+        #### [Davenport announces new city administrator](https://www.wqad.com/article/news/local/davenport-new-city-administrator-selected/526-06e2a462-fbb7-469c-a553-803d525a0203) [![](https://media.tegna-media.com/assets/WQAD/images/bf723300-3e88-489d-9a51-ab45c35ea79e/20240917T215310/bf723300-3e88-489d-9a51-ab45c35ea79e_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/bf723300-3e88-489d-9a51-ab45c35ea79e/20240917T215310/bf723300-3e88-489d-9a51-ab45c35ea79e_360x203.jpg)](https://www.wqad.com/article/news/local/davenport-new-city-administrator-selected/526-06e2a462-fbb7-469c-a553-803d525a0203)
         
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/ecf6af29-3057-41c2-8835-4d77afa1d2b7/20240917T022840/ecf6af29-3057-41c2-8835-4d77afa1d2b7_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/ecf6af29-3057-41c2-8835-4d77afa1d2b7/20240917T022840/ecf6af29-3057-41c2-8835-4d77afa1d2b7_360x203.jpg)](https://www.wqad.com/article/news/local/every-county-in-illinois-now-has-911-service/526-cb720a2f-34db-407e-a940-139cf6f7b986)
+        #### [City of Davenport selects new city administrator](https://www.wqad.com/article/news/local/davenport-new-city-administrator-selected/526-06e2a462-fbb7-469c-a553-803d525a0203)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/d97e090b-67ae-476c-ba49-2f6c11107f16/d97e090b-67ae-476c-ba49-2f6c11107f16_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/d97e090b-67ae-476c-ba49-2f6c11107f16/d97e090b-67ae-476c-ba49-2f6c11107f16_360x203.jpg)](https://www.wqad.com/article/news/local/2-people-injured-rollover-crash-scott-county/526-2680bc78-f47c-4a99-b8af-11ee23c9011b)
         
-        #### [Every county in Illinois now has 911 service](https://www.wqad.com/article/news/local/every-county-in-illinois-now-has-911-service/526-cb720a2f-34db-407e-a940-139cf6f7b986)
+        #### [2 people injured in rollover crash in Scott County](https://www.wqad.com/article/news/local/2-people-injured-rollover-crash-scott-county/526-2680bc78-f47c-4a99-b8af-11ee23c9011b) [![](https://media.tegna-media.com/assets/WQAD/images/d97e090b-67ae-476c-ba49-2f6c11107f16/d97e090b-67ae-476c-ba49-2f6c11107f16_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/d97e090b-67ae-476c-ba49-2f6c11107f16/d97e090b-67ae-476c-ba49-2f6c11107f16_360x203.jpg)](https://www.wqad.com/article/news/local/2-people-injured-rollover-crash-scott-county/526-2680bc78-f47c-4a99-b8af-11ee23c9011b)
         
+        #### [2 people injured in Scott County crash](https://www.wqad.com/article/news/local/2-people-injured-rollover-crash-scott-county/526-2680bc78-f47c-4a99-b8af-11ee23c9011b) [![](https://media.tegna-media.com/assets/WQAD/images/d97e090b-67ae-476c-ba49-2f6c11107f16/d97e090b-67ae-476c-ba49-2f6c11107f16_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/d97e090b-67ae-476c-ba49-2f6c11107f16/d97e090b-67ae-476c-ba49-2f6c11107f16_360x203.jpg)](https://www.wqad.com/article/news/local/2-people-injured-rollover-crash-scott-county/526-2680bc78-f47c-4a99-b8af-11ee23c9011b)
+        
+        #### [Rollover crash in Scott County injures 2](https://www.wqad.com/article/news/local/2-people-injured-rollover-crash-scott-county/526-2680bc78-f47c-4a99-b8af-11ee23c9011b)
     
 * [Weather](https://www.wqad.com/weather)
     
@@ -86,7 +90,7 @@ Navigation
 
 Davenport, IA »
 
-80°
+86°
 
 ![Sunny](/assets/shared-images/weather-icons/clear-day_210x210.png)
 
