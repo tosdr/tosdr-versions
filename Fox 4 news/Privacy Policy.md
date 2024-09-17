@@ -401,35 +401,35 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
+ [![Richardson police chase ends in Dallas after murder suspect shoots himself: police](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/snapshot-90.jpg?ve=1&tl=1)
+
+ ![Richardson police chase ends in Dallas after murder suspect shoots himself: police](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/592/333/snapshot-90.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/richardson-dallas-police-chase-75)
+
+### [Richardson police chase ends in Dallas after murder suspect shoots himself: police](https://www.fox4news.com/news/richardson-dallas-police-chase-75)
+
+ [![Little Elm police investigating shooting at gas station near Braswell High School](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/Little-Elm-shooting-suspect-pic.jpg?ve=1&tl=1)
+
+ ![Little Elm police investigating shooting at gas station near Braswell High School](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/592/333/Little-Elm-shooting-suspect-pic.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/little-elm-police-investigating-shooting-gas-station-near-braswell-high-school)
+
+### [Little Elm police investigating shooting at gas station near Braswell High School](https://www.fox4news.com/news/little-elm-police-investigating-shooting-gas-station-near-braswell-high-school)
+
+ [![LIVE: La Porte pipeline fire near Spencer Highway causes road closures, evacuations, 4 total injuries reported](https://images.foxtv.com/static.fox26houston.com/www.fox26houston.com/content/uploads/2024/09/32/18/Pipeline-fire.jpg?ve=1&tl=1)
+
+ ![LIVE: La Porte pipeline fire near Spencer Highway causes road closures, evacuations, 4 total injuries reported](https://images.foxtv.com/images.foxtv.com/static.fox26houston.com/www.fox26houston.com/content/uploads/2024/09/32/18/592/333/Pipeline-fire.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/la-porte-pipeline-fire-near-spencer-highway-causes-road-closures-evacuations)
+
+### ['NO TERRORISTIC ACTIVITY;' La Porte Pipeline fire continues to burn, authorities say incident is 'isolated'](https://www.fox4news.com/news/la-porte-pipeline-fire-near-spencer-highway-causes-road-closures-evacuations)
+
+ [![Sean 'Diddy' Combs arrested following raids, human trafficking investigation](https://images.foxtv.com/static.fox5ny.com/www.fox5ny.com/content/uploads/2024/09/32/18/GettyImages-1780942198.jpg?ve=1&tl=1)
+
+ ![Sean 'Diddy' Combs arrested following raids, human trafficking investigation](https://images.foxtv.com/images.foxtv.com/static.fox5ny.com/www.fox5ny.com/content/uploads/2024/09/32/18/592/333/GettyImages-1780942198.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/diddy-taken-federal-custody-reports)
+
+### [Sean 'Diddy' Combs arrested following raids, human trafficking investigation](https://www.fox4news.com/news/diddy-taken-federal-custody-reports)
+
  [![Biden speaks with Trump after 2nd assassination attempt, condemns violence](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/GettyImages-1252481749-a.jpg?ve=1&tl=1)
 
  ![Biden speaks with Trump after 2nd assassination attempt, condemns violence](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/592/333/GettyImages-1252481749-a.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/biden-calls-trump-assassination-attempt)
 
 ### [Biden speaks with Trump after 2nd assassination attempt, condemns violence](https://www.fox4news.com/news/biden-calls-trump-assassination-attempt)
-
- [![Dallas murder victim's family confronts killer in court: 'I'd blow your f---- head off!'](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/kevin-sheffield-victim-impact-states.png?ve=1&tl=1)
-
- ![Dallas murder victim's family confronts killer in court: 'I'd blow your f---- head off!'](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/592/333/kevin-sheffield-victim-impact-states.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/kevin-sheffield-50-year-prison-sentence-murder-convicted-killer)
-
-### [Dallas murder victim's family confronts killer in court: 'I'd blow your f---- head off!'](https://www.fox4news.com/news/kevin-sheffield-50-year-prison-sentence-murder-convicted-killer)
-
- [![Dallas has received 160 complaints about short-term rentals this year](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/P-LORI-SHORT-TERM-RENTAL-530P_KDFW1283_146_mxf_00.01.18.48.jpg?ve=1&tl=1)
-
- ![Dallas has received 160 complaints about short-term rentals this year](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/592/333/P-LORI-SHORT-TERM-RENTAL-530P_KDFW1283_146_mxf_00.01.18.48.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/dallas-short-term-rental-complaints)
-
-### [Dallas has received 160 complaints about short-term rentals this year](https://www.fox4news.com/news/dallas-short-term-rental-complaints)
-
- [![UNT Dallas hosts event to teach entrepreneurs about franchising opportunities](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/091624-jg-unt-dallas-franchise-week-5PKG-rabb-jgn__00.00.26.36.jpg?ve=1&tl=1)
-
- ![UNT Dallas hosts event to teach entrepreneurs about franchising opportunities](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/592/333/091624-jg-unt-dallas-franchise-week-5PKG-rabb-jgn__00.00.26.36.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/unt-dallas-franchise-week)
-
-### [UNT Dallas hosts event to teach entrepreneurs about franchising opportunities](https://www.fox4news.com/news/unt-dallas-franchise-week)
-
- [![Police chase ends near Richardson-Dallas border](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/snapshot-90.jpg?ve=1&tl=1)
-
- ![Police chase ends near Richardson-Dallas border](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/592/333/snapshot-90.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/richardson-dallas-police-chase-75)
-
-### [Police chase ends near Richardson-Dallas border](https://www.fox4news.com/news/richardson-dallas-police-chase-75)
 
 ###### [News](https://www.fox4news.com/news)
 
