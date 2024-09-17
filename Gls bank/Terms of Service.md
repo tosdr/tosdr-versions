@@ -309,7 +309,6 @@
         Aktuelles
         
         * [Übersicht: Aktuelles](https://www.gls.de/gls-bank/aktuelles/)
-        * [Veranstaltungen](https://www.gls.de/gls-bank/aktuelles/veranstaltungen/)
         * [Neuigkeiten](https://www.gls.de/gls-bank/aktuelles/neuigkeiten/)
         * [GLS Bank Magazin](https://blog.gls.de/)
         * [Presse](https://www.gls.de/gls-bank/aktuelles/presse/)
