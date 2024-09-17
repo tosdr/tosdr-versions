@@ -91,7 +91,7 @@ Sections
     * [Cartoons](https://www.telegraph.co.uk/opinion/cartoons/)
 * [Ukraine](https://www.telegraph.co.uk/russia-ukraine-war/)
     * [Ukraine home](https://www.telegraph.co.uk/russia-ukraine-war/)
-    * [Daily podcast](https://www.telegraph.co.uk/world-news/2024/09/06/ukraine-russia-kursk-war-advance/)
+    * [Daily podcast](https://www.telegraph.co.uk/news/2022/03/02/russia-ukraine-war-listen-daily-podcast/)
     * [Daily newsletter](https://www.telegraph.co.uk/secure/newsletter/dispatches)
 * [US election](https://www.telegraph.co.uk/us-election/)
 * [Travel](https://www.telegraph.co.uk/travel/)
