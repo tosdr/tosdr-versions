@@ -61,7 +61,7 @@ Middle & High School
 
 [Online Classes: AoPS Online](https://artofproblemsolving.com/) [In-person: AoPS Academy](https://aopsacademy.org/)
 
-Math competition season is approaching fast!  Have you [enrolled in a contest preparation class](https://artofproblemsolving.com/school/schedule)?
+Intro to Physics kicks off tomorrow! [Reserve your spot now](https://artofproblemsolving.com/school/course/intro-physics)!
 
 JavaScript is not enabled. JavaScript is required to fully utilize the site.
 
