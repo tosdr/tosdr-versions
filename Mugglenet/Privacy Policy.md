@@ -276,15 +276,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-The Grangers and Potters were originally supposed to be neighbors in Godric’s Hollow.
+Despite Natalia Tena’s first audition being described as “a disaster,” she still landed the role of Nymphadora Tonks.
 
 ### Potter History
 
-June 1, 2007 – It is revealed that the Harry Potter theme park will cost upwards of $295 million to build.
+December 21, 2006 – The title for the final book is released: Harry Potter and the Deathly Hallows.
 
 ### Potter Quote
 
-“Draco, Draco, you are not a killer.”
+“What is it about my presence in your home that displeases you, Lucius?”
 
 [](#)
 
