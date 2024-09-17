@@ -1,7 +1,9 @@
 ![](https://assets-6.mxplay.com/static/mxoneweb/desktop/images/icons/logo.svg)
 
-User Agreement
+User Agreement\*
 
+\*Note: These terms are in the process of being updated further to a transaction pursuant to which Amazon Content LLC is acquiring certain assets from MX Media & Entertainment Pte. Ltd.. During this period, if you have any questions, please feel free to reach out to us at [support@mxplayer.in](mailto:support@mxplayer.in)  
+  
 MX Media & Entertainment Pte. Ltd., having its office at 71 Robinson Road, #14-01, Singapore 068895, Company Registration No. 201901278W (“MX Player”, “we”, “us” or “our”), owns/ operates ‘over the top” on demand digital application/services under the brand name “MX Player”, one of the fastest growing on demand streaming services in the world the “Service(s)”.  
   
 This user agreement (“User Agreement”) shall be read in conjunction and together with the [Privacy Policy](https://www.mxplayer.in/privacy-policy) which forms an integral part of the User Agreement between MX Player and you (“User”, “You” or “Your”) in relation to Your access to use of the Services. The Service shall also mean and include the Subscription Service (as defined hereunder), if opted by User.  
