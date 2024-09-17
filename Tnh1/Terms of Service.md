@@ -18,95 +18,15 @@
 
 [Leia tudo sobre Maceió](https://www.tnh1.com.br/noticias/editoria/maceio/ "Ir para Maceió")
 
-   [![Dois homens são presos após serem flagrados furtando tapetes de grama na orla de Maceió](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/1/0/csm_Central_de_Flagrantes__Maceio_-_foto_SSPAL_9459ad0c4c.jpg)
-
-Na Praia do Pontal
-
-Dois homens são presos após serem flagrados furtando tapetes de grama na orla de Maceió](https://www.tnh1.com.br/noticia/nid/dois-homens-sao-presos-apos-serem-flagrados-furtando-tapetes-de-grama-na-orla-de-maceio/ "Dois homens são presos após serem flagrados furtando tapetes de grama na orla de Maceió")   [![Vinte bairros de Maceió devem ter fornecimento d'água afetado nesta terça-feira, 17](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/c/6/csm_sistema_pratagy_ascom_87765be2cc.jpg)
+   [![Saiba mais sobre cada um dos cinco finalistas](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/2/1/csm_CAPA_FINALISTAS_ae592f36b1.jpg)
 
 Maceió
 
-Vinte bairros de Maceió devem ter fornecimento d'água afetado nesta terça-feira, 17](https://www.tnh1.com.br/noticia/nid/vinte-bairros-de-maceio-devem-ter-fornecimento-dagua-afetado-nesta-terca-feira-17/ "Vinte bairros de Maceió devem ter fornecimento d'água afetado nesta terça-feira, 17")   [![Banhista salta de emissário submarino, não consegue voltar e é resgatado por bombeiros](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/c/6/csm_emissario-casal_-_foto_Divulgacao_49ae7f080d.jpg)
-
-Praia da Avenida
-
-Banhista salta de emissário submarino, não consegue voltar e é resgatado por bombeiros](https://www.tnh1.com.br/noticia/nid/banhista-salta-de-emissario-submarino-nao-consegue-voltar-e-e-resgatado-por-bombeiros/ "Banhista salta de emissário submarino, não consegue voltar e é resgatado por bombeiros")   [![Vídeo: motociclista fica ferido após bater em poste na Avenida Juca Sampaio](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/3/a/csm_acidente_moto_barro_duro_f0c963ed48.jpg)
-
-vítima socorrida
-
-Vídeo: motociclista fica ferido após bater em poste na Avenida Juca Sampaio](https://www.tnh1.com.br/noticia/nid/video-motociclista-fica-ferido-apos-bater-em-poste-na-avenida-juca-sampaio/ "Vídeo: motociclista fica ferido após bater em poste na Avenida Juca Sampaio")   [![Mulher encontra marido morto a tiros dentro de casa em residencial no Benedito Bentes](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/4/2/csm_csm_csm_IML_IC_-_Assessoria_788299d465_a0c9ce6a3a_6960fae54a.jpeg)
-
-na madrugada
-
-Mulher encontra marido morto a tiros dentro de casa em residencial no Benedito Bentes](https://www.tnh1.com.br/noticia/nid/mulher-encontra-marido-morto-a-tiros-dentro-de-casa-em-residencial-no-benedito-bentes/ "Mulher encontra marido morto a tiros dentro de casa em residencial no Benedito Bentes")   [![Educação de Maceió convoca mais 125 aprovados no Processo Seletivo Simplificado](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/0/4/csm_convocados-educacao-maceio-foto-assessoria_0af81b24ea.jpeg)
-
-Veja lista
-
-Educação de Maceió convoca mais 125 aprovados no Processo Seletivo Simplificado](https://www.tnh1.com.br/noticia/nid/educacao-de-maceio-convoca-mais-125-aprovados-no-processo-seletivo-simplificado/ "Educação de Maceió convoca mais 125 aprovados no Processo Seletivo Simplificado")
+Saiba mais sobre cada um dos cinco finalistas](https://www.tnh1.com.br/conteudo/noticia/nid/saiba-mais-sobre-cada-um-dos-cinco-finalistas/ "Saiba mais sobre cada um dos cinco finalistas")
 
 [Alagoas](https://www.tnh1.com.br/noticias/editoria/alagoas/ "Alagoas")
 
-Últimas de Alagoas
-
-[Leia tudo sobre Alagoas](https://www.tnh1.com.br/noticias/editoria/alagoas/ "Ir para Alagoas")
-
-   [![Desfile estudantil celebra os 207 anos de Emancipação Política de Alagoas](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/a/2/csm_desfile-emancipacao-divulgacao_56c71a5e74.jpeg)
-
-Solenidade
-
-Desfile estudantil celebra os 207 anos de Emancipação Política de Alagoas](https://www.tnh1.com.br/noticia/nid/desfile-estudantil-celebra-os-207-anos-de-emancipacao-politica-de-alagoas/ "Desfile estudantil celebra os 207 anos de Emancipação Política de Alagoas")   [![Duplicação de trechos remanescentes da BR-101 é retomada 20 anos depois](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/2/b/csm_obra-duplicacao-rodovia-alagoas-reproducao-agencia-alagoas_940d661dec.jpeg)
-
-segurança viária
-
-Duplicação de trechos remanescentes da BR-101 é retomada 20 anos depois](https://www.tnh1.com.br/noticia/nid/duplicacao-de-trechos-remanescentes-da-br-101-e-retomada-20-anos-depois/ "Duplicação de trechos remanescentes da BR-101 é retomada 20 anos depois")   [![Vídeo: centenas de peixes são encontrados mortos em praia no Litoral Norte de Alagoas](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/2/1/csm_centenas-peixes-econtrados-mortos-reproducao_3829d7ee9e.jpeg)
-
-Segundo registro
-
-Vídeo: centenas de peixes são encontrados mortos em praia no Litoral Norte de Alagoas](https://www.tnh1.com.br/noticia/nid/video-centenas-de-peixes-sao-encontrados-mortos-em-praia-no-litoral-norte-de-alagoas/ "Vídeo: centenas de peixes são encontrados mortos em praia no Litoral Norte de Alagoas")   [![Corpo de homem é encontrado boiando por pescadores em lago, em Arapiraca](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/7/0/csm_CORPO-LAGO-ARAPIRACA-REPRODUCAO_81a53d0880.jpeg)
-
-sem identificação
-
-Corpo de homem é encontrado boiando por pescadores em lago, em Arapiraca](https://www.tnh1.com.br/noticia/nid/corpo-de-homem-e-encontrado-boiando-por-pescadores-em-lago-em-arapiraca/ "Corpo de homem é encontrado boiando por pescadores em lago, em Arapiraca")   [![Menino de 6 anos morre atropelado por carro ao andar de bicicleta em São Miguel dos Milagres](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/0/9/csm_atropelamento-crianca-sao-miguel-milagres-reproducao_9cad01f552.jpeg)
-
-Trânsito
-
-Menino de 6 anos morre atropelado por carro ao andar de bicicleta em São Miguel dos Milagres](https://www.tnh1.com.br/noticia/nid/menino-de-6-anos-morre-atropelado-por-carro-ao-andar-de-bicicleta-em-sao-miguel-dos-milagres/ "Menino de 6 anos morre atropelado por carro ao andar de bicicleta em São Miguel dos Milagres")   [![Confira os resultados do Alagoas dá Sorte deste domingo (15)](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/9/a/csm_csm_csm_ALAGOAS_DA_SORTE_0070ad69ae__3__f98bd4eda6_10c94654c6.jpg)
-
-premiados
-
-Confira os resultados do Alagoas dá Sorte deste domingo (15)](https://www.tnh1.com.br/noticia/nid/confira-os-resultados-do-alagoas-da-sorte-deste-domingo-15-1/ "Confira os resultados do Alagoas dá Sorte deste domingo (15)")
-
 [Polícia](https://www.tnh1.com.br/noticias/editoria/policia/ "Polícia")
-
-Últimas de Polícia
-
-[Leia tudo sobre Polícia](https://www.tnh1.com.br/noticias/editoria/policia/ "Ir para Polícia")
-
-   [![Dois homens são presos após serem flagrados furtando tapetes de grama na orla de Maceió](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/1/0/csm_Central_de_Flagrantes__Maceio_-_foto_SSPAL_9459ad0c4c.jpg)
-
-Na Praia do Pontal
-
-Dois homens são presos após serem flagrados furtando tapetes de grama na orla de Maceió](https://www.tnh1.com.br/noticia/nid/dois-homens-sao-presos-apos-serem-flagrados-furtando-tapetes-de-grama-na-orla-de-maceio/ "Dois homens são presos após serem flagrados furtando tapetes de grama na orla de Maceió")   [![Homem tenta furtar bicicleta e termina preso no Centro de Maceió](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/b/7/csm_Ronda_no_Bairro_-_furto_Centro_-_608800ec72.jpeg)
-
-ronda no bairro
-
-Homem tenta furtar bicicleta e termina preso no Centro de Maceió](https://www.tnh1.com.br/noticia/nid/homem-tenta-furtar-bicicleta-e-termina-preso-no-centro-de-maceio/ "Homem tenta furtar bicicleta e termina preso no Centro de Maceió")   [![Homem é ferido com dois tiros nas nádegas dentro de bar no Cleto Marques](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/6/1/csm_csm_UPA_Benedito_Bentes_-_foto_Secom_Alagoas__reproducao_34132c8016_d2288c86be.jpeg)
-
-Polícia
-
-Homem é ferido com dois tiros nas nádegas dentro de bar no Cleto Marques](https://www.tnh1.com.br/noticia/nid/homem-e-ferido-com-dois-tiros-nas-nadegas-dentro-de-bar-no-cleto-marques/ "Homem é ferido com dois tiros nas nádegas dentro de bar no Cleto Marques")   [![Embriaguez: motorista bate em outro carro e é preso ao tentar subornar policiais em Maceió](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/1/b/csm_Central_de_Flagrantes__Maceio_-_foto_SSPAL_a09a66da25.jpg)
-
-no trapiche
-
-Embriaguez: motorista bate em outro carro e é preso ao tentar subornar policiais em Maceió](https://www.tnh1.com.br/noticia/nid/embriaguez-motorista-bate-em-outro-carro-e-e-preso-ao-tentar-subornar-policiais-em-maceio/ "Embriaguez: motorista bate em outro carro e é preso ao tentar subornar policiais em Maceió")   [![Polícia apreende 23 armas de fogo e mais de 11 kg de drogas em uma semana](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/4/c/csm_policia-militar-apreende-23-armas-de-fogo-e-mais-de-11-kg-de-drogas-em-uma-semana_04acf29076.jpg)
-
-EM ALAGOAS
-
-Polícia apreende 23 armas de fogo e mais de 11 kg de drogas em uma semana](https://www.tnh1.com.br/noticia/nid/policia-apreende-23-armas-de-fogo-e-mais-de-11-kg-de-drogas-em-uma-semana/ "Polícia apreende 23 armas de fogo e mais de 11 kg de drogas em uma semana")   [![Homem é agredido com arma branca ao tentar impedir esposa de bater em filha de 2 anos](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/a/b/csm_Hospital-Emergencia-Agreste_65ce0a2e9f.png)
-
-em arapiraca
-
-Homem é agredido com arma branca ao tentar impedir esposa de bater em filha de 2 anos](https://www.tnh1.com.br/noticia/nid/homem-e-agredido-com-arma-branca-ao-tentar-impedir-esposa-de-bater-em-filha-de-2-anos/ "Homem é agredido com arma branca ao tentar impedir esposa de bater em filha de 2 anos")
 
 [Blogs](https://www.tnh1.com.br/blogs/ "Blogs")
 
@@ -115,16 +35,6 @@ Homem é agredido com arma branca ao tentar impedir esposa de bater em filha de 
 [TV](https://www.tnh1.com.br/videos/ "TV ")
 
 [Pessoas&Negócios](https://www.tnh1.com.br/a-lideranca-que-voce-escolheu/noticias/editoria/pessoas-negocios/ "Pessoas&Negócios")
-
-Últimas de Pessoas&Negócios
-
-[Leia tudo sobre Pessoas&Negócios](https://www.tnh1.com.br/a-lideranca-que-voce-escolheu/noticias/editoria/pessoas-negocios/ "Ir para Pessoas&Negócios")
-
-   [![Uninassau Maceió recebe selo "OAB Indica" por excelência no ensino de Direito](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/d/0/csm_UNINASSAU_SELO_OAB___2__f9527de421.jpg)
-
-Pessoas & Negócios
-
-Uninassau Maceió recebe selo "OAB Indica" por excelência no ensino de Direito](https://www.tnh1.com.br/noticia/nid/uninassau-maceio-recebe-selo-oab-indica-por-excelencia-no-ensino-de-direito/ "Uninassau Maceió recebe selo "OAB Indica" por excelência no ensino de Direito")
 
 [Pajuçara.com](https://pajucara.tnh1.com.br/ "Pajuçara.com")
 
@@ -232,39 +142,39 @@ Remédio para diabetes pode desacelerar envelhecimento, sugere estudo
 
 Remédio para diabetes pode desacelerar envelhecimento, sugere estudo](https://www.tnh1.com.br/noticia/nid/remedio-para-diabetes-pode-desacelerar-envelhecimento-sugere-estudo/ "Remédio para diabetes pode desacelerar envelhecimento, sugere estudo")
 
-[![EUA divulgam foto inédita de submersível Titan após implosão; veja ](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/5/d/csm_sub-titan-ocean-gate-viraliza-reproducao-youtube_8c335ea1f7.jpg)
+[![HGE procura por familiares de paciente que deu entrada na última sexta-feira (13)](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/c/9/csm_hge-procura-por-familiares-de-paciente-que-foi-admitido-na-unidade-na-sexta-feira_a16bd02b21.jpg)
 
-destroços
+vítima de acidente
 
-destroços
+vítima de acidente
 
-EUA divulgam foto inédita de submersível Titan após implosão; veja
+HGE procura por familiares de paciente que deu entrada na última sexta-feira (13)
 
-EUA divulgam foto inédita de submersível Titan após implosão; veja](https://www.tnh1.com.br/noticia/nid/eua-divulgam-foto-inedita-de-submersivel-titan-apos-implosao-veja/ "EUA divulgam foto inédita de submersível Titan após implosão; veja ")[![Luiz Araújo tem lesão confirmada no Flamengo e vai passar por cirurgia](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/9/4/csm_luiz-araujo-rperoducao-marcelo-cortes-flamengo_63500a52ec.jpg)
+HGE procura por familiares de paciente que deu entrada na última sexta-feira (13)](https://www.tnh1.com.br/noticia/nid/hge-procura-por-familiares-de-paciente-que-deu-entrada-na-ultima-sexta-feira-13/ "HGE procura por familiares de paciente que deu entrada na última sexta-feira (13)")[![Datena diz que Marçal fez cena em caso da cadeirada](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/4/2/csm_datena_e_marcal_reproducao-tv_cultura_63cd2ca2e1.jpg)
 
-Novo desfalque
+briga em debate
 
-Novo desfalque
+briga em debate
 
-Luiz Araújo tem lesão confirmada no Flamengo e vai passar por cirurgia
+Datena diz que Marçal fez cena em caso da cadeirada
 
-Luiz Araújo tem lesão confirmada no Flamengo e vai passar por cirurgia](https://www.tnh1.com.br/noticia/nid/luiz-araujo-tem-lesao-confirmada-no-flamengo-e-vai-passar-por-cirurgia/ "Luiz Araújo tem lesão confirmada no Flamengo e vai passar por cirurgia")[![Remédio para diabetes pode desacelerar envelhecimento, sugere estudo](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/c/c/csm_close-up-woman-s-hand-holding-blister-pack-with-medicines-wooden-desk__1__2b20d73d9e.jpg)
+Datena diz que Marçal fez cena em caso da cadeirada](https://www.tnh1.com.br/noticia/nid/datena-diz-que-marcal-fez-cena-em-caso-da-cadeirada/ "Datena diz que Marçal fez cena em caso da cadeirada")[![Novas imagens mostram Datena jogando cadeira contra Marçal; assista](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/8/f/csm_agressao_datena_marcal_-_foto_reproducao_video_b2b93a9a76.png)
 
-Saúde
+Candidatos em SP
 
-Saúde
+Candidatos em SP
 
-Remédio para diabetes pode desacelerar envelhecimento, sugere estudo
+Novas imagens mostram Datena jogando cadeira contra Marçal; assista
 
-Remédio para diabetes pode desacelerar envelhecimento, sugere estudo](https://www.tnh1.com.br/noticia/nid/remedio-para-diabetes-pode-desacelerar-envelhecimento-sugere-estudo/ "Remédio para diabetes pode desacelerar envelhecimento, sugere estudo")[![Após 4 anos, petição pede prisão perpétua para mãe que matou filha por motivo bizarro](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/6/6/csm_menina-morta-motivo-bizarro-reproducao-people_1f63b37cbc.jpg)
+Novas imagens mostram Datena jogando cadeira contra Marçal; assista](https://www.tnh1.com.br/noticia/nid/novas-imagens-mostram-datena-jogando-cadeira-contra-marcal-assista/ "Novas imagens mostram Datena jogando cadeira contra Marçal; assista")[![Conmebol terá gesto para denunciar racismo e jogos podem ser suspensos](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/c/3/csm_taca_da_libertadores_divulgacao_conmebol_b65eac7b74.jpg)
 
-Na Inglaterra
+novo protocolo
 
-Na Inglaterra
+novo protocolo
 
-Após 4 anos, petição pede prisão perpétua para mãe que matou filha por motivo bizarro
+Conmebol terá gesto para denunciar racismo e jogos podem ser suspensos
 
-Após 4 anos, petição pede prisão perpétua para mãe que matou filha por motivo bizarro](https://www.tnh1.com.br/noticia/nid/apos-4-anos-peticao-pede-prisao-perpetua-para-mae-que-matou-filha-por-motivo-bizarro/ "Após 4 anos, petição pede prisão perpétua para mãe que matou filha por motivo bizarro")
+Conmebol terá gesto para denunciar racismo e jogos podem ser suspensos](https://www.tnh1.com.br/noticia/nid/conmebol-tera-gesto-para-denunciar-racismo-e-jogos-podem-ser-suspensos/ "Conmebol terá gesto para denunciar racismo e jogos podem ser suspensos")
 
 [](https://www.tnh1.com.br/ "TNH1 logo")
 
