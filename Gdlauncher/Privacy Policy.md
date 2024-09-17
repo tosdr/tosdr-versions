@@ -242,7 +242,7 @@ File metadata and controls
 
 738 lines (736 loc) · 37.1 KB
 
-[Raw](https://github.com/gorilla-devs/GDLauncher/raw/master/src/common/components/PrivacyPolicy.js)
+[Raw](https://github.com/gorilla-devs/GDLauncher/raw/refs/heads/master/src/common/components/PrivacyPolicy.js)
 
 1
 
