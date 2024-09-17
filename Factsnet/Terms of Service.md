@@ -208,21 +208,21 @@ Turn Your Curiosity Into Discovery
 
 Latest Facts
 
-[![50 Facts About The Movie Civil War 2024 ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%2284%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/movie/50-facts-about-the-movie-civil-war-2024/)
+[![40 Facts About Mark Kilroy ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22100%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/history/people/40-facts-about-mark-kilroy/)
 
-Movie
+People
 
-16 Sep 2024
+17 Sep 2024
 
-[50 Facts About The Movie Civil War 2024](https://facts.net/movie/50-facts-about-the-movie-civil-war-2024/)
+[40 Facts About Mark Kilroy](https://facts.net/history/people/40-facts-about-mark-kilroy/)
 
-[![35 Facts About Interracial Couples ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22100%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/society-and-social-sciences/35-facts-about-interracial-couples/)
+[![40 Facts About Llandudno ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%2284%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/world/cities/40-facts-about-llandudno/)
 
-Society & Social Sciences
+Cities
 
-16 Sep 2024
+17 Sep 2024
 
-[35 Facts About Interracial Couples](https://facts.net/society-and-social-sciences/35-facts-about-interracial-couples/)
+[40 Facts About Llandudno](https://facts.net/world/cities/40-facts-about-llandudno/)
 
 [Home](https://facts.net/) [Terms](https://facts.net/terms/)
 
