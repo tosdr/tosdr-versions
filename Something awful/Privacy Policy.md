@@ -205,25 +205,25 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [Jon Bon Jovi: Alive](https://www.somethingawful.com/photoshop-phriday/bon-jovi-dead/1/)
-* [Misinterpreted Items from the News!](https://www.somethingawful.com/comedy-goldmine/misinterpreted-items-from/1/)
-* [The Big Ten List of Little People](https://www.somethingawful.com/news/top-ten-midgets/1/)
-* [AwfulVision: That's Racist!](https://www.somethingawful.com/awfulvision/racist-manboobs-cougar/1/)
-* [How to Convince Your Loved Ones to Support the Protests](https://www.somethingawful.com/news/protestconvincing/)
+* [Mechs in Art](https://www.somethingawful.com/photoshop-phriday/mechs-in-art/1/)
+* [Children's Books](https://www.somethingawful.com/photoshop-phriday/childrens-books2/1/)
+* [Cuckold Place](https://www.somethingawful.com/weekend-web/cuckold-place/1/)
+* [Choose Your Own Adventure Books That Never Quite Made It](https://www.somethingawful.com/comedy-goldmine/choose-your-own/1/)
+* [Weird Beards!](https://www.somethingawful.com/photoshop-phriday/upside-down-beards/1/)
 
 ### Popular Threads
 
-* ![](https://fi.somethingawful.com/forums/posticons/lan-europe.gif) [Harry Potter is just British Naruto](http://forums.somethingawful.com/showthread.php?threadid=4070542 "Harry Potter is just British Naruto")
 * ![](https://fi.somethingawful.com/forums/posticons/cspam-yeshahahayes.gif) [Diddy was arrested by the feds](http://forums.somethingawful.com/showthread.php?threadid=4070546 "Diddy was arrested by the feds")
 * ![](https://fi.somethingawful.com/forums/posticons/byob-grumpy.gif) [What's it like being on an extremely long flight?](http://forums.somethingawful.com/showthread.php?threadid=4070540 "What's it like being on an extremely long flight?")
+* ![](https://fi.somethingawful.com/forums/posticons/lan-europe.gif) [Harry Potter is just British Naruto](http://forums.somethingawful.com/showthread.php?threadid=4070542 "Harry Potter is just British Naruto")
 
 ### Random Articles
 
-* [Big Dog T-Shirt Fan Art](https://www.somethingawful.com/comedy-goldmine/big-dogs-shirts/1/)
-* [Canoe](https://www.somethingawful.com/awful-movie-database/canoe/)
-* [Diganta's World: Indian Humor](https://www.somethingawful.com/awful-links/awful-link-2455/)
-* [Candidate Questions Overlooked by the Associated Press](https://www.somethingawful.com/news/gravel-campaign-president/1/)
-* [Subj: I WANT MY DEPOSIT BACK](https://www.somethingawful.com/news/roamin-dad-47/)
+* [Gaming Guyz 6: Winter Olympics](https://www.somethingawful.com/flash-tub/gaming-guyz-6/)
+* [This Wasn't A Good Idea](https://www.somethingawful.com/daily-dirt/for-a-friend/)
+* [Skittlescam](https://www.somethingawful.com/awful-links/awful-link-1442/)
+* [Nerdcore Revisited](https://www.somethingawful.com/garbage-day/nerdcore-mcrouter-8bitboys/1/)
+* [Denis Dyack's Many Concerns](https://www.somethingawful.com/video-game-article/denis-dyack-concerns/)
 
 [Random!](https://www.somethingawful.com/random/)
 
