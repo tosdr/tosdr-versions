@@ -401,37 +401,35 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
- [![DeSantis to sign executive order for Florida statewide prosecutor to investigate Trump assassination attempt](https://images.foxtv.com/static.fox35orlando.com/www.fox35orlando.com/content/uploads/2024/09/32/18/GettyImages-1488044820-scaled.jpg?ve=1&tl=1)
+ [![Big Boy locomotive chugging through North Texas this week](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/06/32/18/GettyImages-1334738287.jpg?ve=1&tl=1)
 
- ![DeSantis to sign executive order for Florida statewide prosecutor to investigate Trump assassination attempt](https://images.foxtv.com/images.foxtv.com/static.fox35orlando.com/www.fox35orlando.com/content/uploads/2024/09/32/18/592/333/GettyImages-1488044820-scaled.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/florida-gov-desantis-speak-west-palm-beach-days-after-trump-assassination-attempt)
+ ![Big Boy locomotive chugging through North Texas this week](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/06/32/18/592/333/GettyImages-1334738287.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/big-boy-dallas-union-pacific-locomotive)
 
-Live Now
+### [Big Boy locomotive chugging through North Texas this week](https://www.fox4news.com/news/big-boy-dallas-union-pacific-locomotive)
 
-### [DeSantis to sign executive order for Florida statewide prosecutor to investigate Trump assassination attempt](https://www.fox4news.com/news/florida-gov-desantis-speak-west-palm-beach-days-after-trump-assassination-attempt)
+ [![Fort Worth women accused in human smuggling case](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/smuggling.jpg?ve=1&tl=1)
 
- [![Superintendent's job on the line after Fort Worth ISD's accountability ratings fall](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/7395TZ-FWISD-SUPERINTENDENT-MEETING_00.00.01.02.jpg?ve=1&tl=1)
+ ![Fort Worth women accused in human smuggling case](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/592/333/smuggling.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/fort-worth-vanessa-guiterrez-crisol-bernice-reyes)
 
- ![Superintendent's job on the line after Fort Worth ISD's accountability ratings fall](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/592/333/7395TZ-FWISD-SUPERINTENDENT-MEETING_00.00.01.02.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/superintendents-fort-worth-isd-accountability-ratings)
+### [Fort Worth women accused in human smuggling case](https://www.fox4news.com/news/fort-worth-vanessa-guiterrez-crisol-bernice-reyes)
 
-### [Superintendent's job on the line after Fort Worth ISD's accountability ratings fall](https://www.fox4news.com/news/superintendents-fort-worth-isd-accountability-ratings)
+ [![Harris in Philadelphia: Vice president returns after presidential debate with Trump](https://images.foxtv.com/static.fox29.com/www.fox29.com/content/uploads/2024/09/32/18/GettyImages-2171261400.jpg?ve=1&tl=1)
 
- [![Majority of Americans don't know most First Amendment rights, survey finds](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/GettyImages-144085092.jpg?ve=1&tl=1)
+ ![Harris in Philadelphia: Vice president returns after presidential debate with Trump](https://images.foxtv.com/images.foxtv.com/static.fox29.com/www.fox29.com/content/uploads/2024/09/32/18/592/333/GettyImages-2171261400.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/harris-philadelphia-vice-president-returns-after-presidential-debate-trump)
 
- ![Majority of Americans don't know most First Amendment rights, survey finds](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/592/333/GettyImages-144085092.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/first-amendment-rights-constitution-day-survey-2024)
+### [Harris in Philadelphia: Vice president returns after presidential debate with Trump](https://www.fox4news.com/news/harris-philadelphia-vice-president-returns-after-presidential-debate-trump)
 
-### [Majority of Americans don't know most First Amendment rights, survey finds](https://www.fox4news.com/news/first-amendment-rights-constitution-day-survey-2024)
+ [![Little Elm shooting suspect in custody, police say](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/091724-SKY-4-TUE-1242-KDFWEME002_12_42_20_mpg_00.16.44.36.jpg?ve=1&tl=1)
 
- [![School threats prompt changes for DeSoto High School homecoming game](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/V-DESOTO-VS-CORPUS-CHRISTI-MILLER_00.00.00.32.jpg?ve=1&tl=1)
+ ![Little Elm shooting suspect in custody, police say](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/592/333/091724-SKY-4-TUE-1242-KDFWEME002_12_42_20_mpg_00.16.44.36.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/little-elm-shooting-suspect-custody-police-say)
 
- ![School threats prompt changes for DeSoto High School homecoming game](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/592/333/V-DESOTO-VS-CORPUS-CHRISTI-MILLER_00.00.00.32.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/school-threats-desoto-high-school-homecoming-game)
+### [Little Elm shooting suspect in custody, police say](https://www.fox4news.com/news/little-elm-shooting-suspect-custody-police-say)
 
-### [School threats prompt changes for DeSoto High School homecoming game](https://www.fox4news.com/news/school-threats-desoto-high-school-homecoming-game)
+ [![Yellowstone's Cole Hauser meets with fans at Fort Worth Walmart](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/Cole-Hauser-Coffee-WFAA_mxf_07.55.50.11.jpg?ve=1&tl=1)
 
- [![Photos: Failed Trump assassin's vantage point was no secret – paparazzi have staked out tree line for years](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/Trump-Assassination-Attempt-Hole-in-fence_57.jpg?ve=1&tl=1)
+ ![Yellowstone's Cole Hauser meets with fans at Fort Worth Walmart](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/592/333/Cole-Hauser-Coffee-WFAA_mxf_07.55.50.11.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/yellowstones-cole-hauser-meets-fans-fort-worth-walmart)
 
- ![Photos: Failed Trump assassin's vantage point was no secret – paparazzi have staked out tree line for years](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/592/333/Trump-Assassination-Attempt-Hole-in-fence_57.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/photos-failed-trump-assassination-attempt-vantage-point-golf-course-florida)
-
-### [Photos: Failed Trump assassin's vantage point was no secret – paparazzi have staked out tree line for years](https://www.fox4news.com/news/photos-failed-trump-assassination-attempt-vantage-point-golf-course-florida)
+### [Yellowstone's Cole Hauser meets with fans at Fort Worth Walmart](https://www.fox4news.com/news/yellowstones-cole-hauser-meets-fans-fort-worth-walmart)
 
 ###### [News](https://www.fox4news.com/news)
 
