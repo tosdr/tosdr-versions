@@ -42,6 +42,8 @@ Menu
     
 * [Religion](https://apnews.com/religion)
     
+* [Español](https://apnews.com/hub/noticias)
+    
 * [AP Buyline Personal Finance](https://apnews.com/buyline-personal-finance/)
     
 * [AP Buyline Shopping](https://apnews.com/buyline-shopping/)
@@ -133,6 +135,8 @@ Menu
     * [Lifestyle](https://apnews.com/lifestyle)
         
     * [Religion](https://apnews.com/religion)
+        
+    * [Español](https://apnews.com/hub/noticias)
         
     * [AP Buyline Personal Finance](https://apnews.com/buyline-personal-finance/)
         
@@ -230,6 +234,8 @@ Show Search
     
 * [Religion](https://apnews.com/religion)
     
+* [Español](https://apnews.com/hub/noticias)
+    
 * [AP Buyline Personal Finance](https://apnews.com/buyline-personal-finance/)
     
 * [AP Buyline Shopping](https://apnews.com/buyline-shopping/)
@@ -277,13 +283,13 @@ Show Search
 * Copyright 2024 The Associated Press. All Rights Reserved.
     
 
+[Live: ‘Diddy’ indicted](https://apnews.com/live/diddy-combs-arrest-indictment-updates)
+
+[Pagers explode in Lebanon, Syria](https://apnews.com/article/lebanon-hezbollah-israel-exploding-pagers-8893a09816410959b6fe94aec124461b)
+
 [Donald Trump](https://apnews.com/live/trump-shooting-west-palm-beach-updates)
 
-[‘Diddy’ arrested](https://apnews.com/article/sean-diddy-combs-arrested-93831d646c5cf36add77a91ba668ae84)
-
-[Falcons beat Eagles](https://apnews.com/article/eagles-falcons-score-barkley-ae1d5f20e97d784ee104606be78bfc9a)
-
-[Lunar eclipse](https://apnews.com/article/partial-lunar-eclipse-supermoon-ec0ef86aec1e8bf5c8b1a2ea1b104dfd)
+[France rape trial](https://apnews.com/article/france-rape-trial-drugged-pelicot-943400b83a8b111bcd42a0fb23a1cfda)
 
 [Titan submersible](https://apnews.com/article/titan-submersible-implosion-hearing-3e698a31c32d753b2d34e28900f65bdc)
 
