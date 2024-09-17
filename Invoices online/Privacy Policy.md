@@ -118,63 +118,57 @@ This policy is effective as of 29 June 2021.
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Impossible to run our businesses without IO
-> -------------------------------------------
+> Instantaneous, Nicely Designed, Graphical Invoices
+> --------------------------------------------------
 > 
-> IO is an integral part of our day to day business. It allows me complete control and overview functionality, while still enabling franchise owners to run their various franchises without interruption.  
->   
-> At Storietyd.co.za - a bookclub for Afrikaans children, with thousands of members - all our billing is automated, automated invoices, automated debit orders, automated payment allocation, and so forth. Administration would be an absolute nightmare without IO.  
->   
-> We are suppliers of bulk educational products to schools, our reps in the field use IO for quotes, invoicing and managing debtors, directly from their smartphones / tablets.  
->   
-> We are extremely satisfied with Invoices Online, and would certainly recommend that you try it out.
+> Selling backtracks and popular songs by South African artists in our online shop required an online invoicing system that sends instantaneous, nicely designed, graphical invoices in pdf format to clients that made realtime purchases on our site. InvoicesOnline.co.za provided us with the perfect solution, their API integration enabled our clients to view their invoices and account balance right in our site. We are very satisfied with InvoicesOnline.co.za.
 
-Kobus Venter
+Henry Venter
 
-![valued client BD Maintenance](https://www.invoicesonline.co.za/scripts/image.php?bid=4541&file=logo_300_100&type=&fe=0101da66e1f80f9ab135a642cb875c1c5409c04cdc10fb2b953cc670f81b315f&c=144763047)  
-BD Maintenance
+![valued client Bchange Online CC](https://www.invoicesonline.co.za/scripts/image.php?bid=8330&file=logo_300_100&type=&fe=9784db4810ac8c26be99f1742dbd5de9b254563da2c92d64918d757a5362ae0d&c=23426315)  
+Bchange Online CC
 
-![valued client J.M. HUMAN RESOURCES](https://www.invoicesonline.co.za/scripts/image.php?bid=4626&file=logo_300_100&type=&fe=0101da66e1f80f9ab135a642cb875c1c5409c04cdc10fb2b953cc670f81b315f&c=35807750)  
-J.M. HUMAN RESOURCES
+![valued client SafeTclip](https://www.invoicesonline.co.za/scripts/image.php?bid=8368&file=logo_300_100&type=&fe=9784db4810ac8c26be99f1742dbd5de9b254563da2c92d64918d757a5362ae0d&c=8855833)  
+SafeTclip
 
-![valued client Highlands Auto Engineering](https://www.invoicesonline.co.za/scripts/image.php?bid=8553&file=logo_300_100&type=&fe=0101da66e1f80f9ab135a642cb875c1c5409c04cdc10fb2b953cc670f81b315f&c=94525042)  
-Highlands Auto Engineering
+![valued client Konsortium Operations (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=294&file=logo_300_100&type=&fe=9784db4810ac8c26be99f1742dbd5de9b254563da2c92d64918d757a5362ae0d&c=163103993)  
+Konsortium Operations (PTY) LTD
 
-![valued client CGHK Enterprises (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8288&file=logo_300_100&type=&fe=0101da66e1f80f9ab135a642cb875c1c5409c04cdc10fb2b953cc670f81b315f&c=194552652)  
-CGHK Enterprises (PTY) LTD
-
-![valued client VIV'S TRUCKS (Pty) Ltd. (117)](https://www.invoicesonline.co.za/scripts/image.php?bid=6320&file=logo_300_100&type=&fe=0101da66e1f80f9ab135a642cb875c1c5409c04cdc10fb2b953cc670f81b315f&c=3562392)  
-VIV'S TRUCKS (Pty) Ltd. (117)
-
-![valued client Desygn](https://www.invoicesonline.co.za/scripts/image.php?bid=7855&file=logo_300_100&type=&fe=0101da66e1f80f9ab135a642cb875c1c5409c04cdc10fb2b953cc670f81b315f&c=78931418)  
-Desygn
-
-![valued client Bloem Rugby Academy PTY (Ltd)](https://www.invoicesonline.co.za/scripts/image.php?bid=6451&file=logo_300_100&type=&fe=0101da66e1f80f9ab135a642cb875c1c5409c04cdc10fb2b953cc670f81b315f&c=196327534)  
-Bloem Rugby Academy PTY (Ltd)
-
-![valued client SR Travel Services](https://www.invoicesonline.co.za/scripts/image.php?bid=7537&file=logo_300_100&type=&fe=0101da66e1f80f9ab135a642cb875c1c5409c04cdc10fb2b953cc670f81b315f&c=98997890)  
-SR Travel Services
-
-![valued client Cape Adventure Zone](https://www.invoicesonline.co.za/scripts/image.php?bid=2185&file=logo_300_100&type=&fe=0101da66e1f80f9ab135a642cb875c1c5409c04cdc10fb2b953cc670f81b315f&c=193791260)  
-Cape Adventure Zone
-
-![valued client MOSELA GROUP Pty(ltd)](https://www.invoicesonline.co.za/scripts/image.php?bid=7624&file=logo_300_100&type=&fe=0101da66e1f80f9ab135a642cb875c1c5409c04cdc10fb2b953cc670f81b315f&c=74145134)  
-MOSELA GROUP Pty(ltd)
-
-![valued client Forgotten Goods (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8623&file=logo_300_100&type=&fe=0101da66e1f80f9ab135a642cb875c1c5409c04cdc10fb2b953cc670f81b315f&c=41513304)  
-Forgotten Goods (Pty) Ltd
-
-![valued client M's Frozen Delights](https://www.invoicesonline.co.za/scripts/image.php?bid=7776&file=logo_300_100&type=&fe=0101da66e1f80f9ab135a642cb875c1c5409c04cdc10fb2b953cc670f81b315f&c=10155448)  
-M's Frozen Delights
-
-![valued client Wiselink Broadband Dundee](https://www.invoicesonline.co.za/scripts/image.php?bid=5399&file=logo_300_100&type=&fe=0101da66e1f80f9ab135a642cb875c1c5409c04cdc10fb2b953cc670f81b315f&c=35221280)  
-Wiselink Broadband Dundee
-
-![valued client Imhoff Equestrian Centre](https://www.invoicesonline.co.za/scripts/image.php?bid=7987&file=logo_300_100&type=&fe=0101da66e1f80f9ab135a642cb875c1c5409c04cdc10fb2b953cc670f81b315f&c=161521823)  
+![valued client Imhoff Equestrian Centre](https://www.invoicesonline.co.za/scripts/image.php?bid=7987&file=logo_300_100&type=&fe=9784db4810ac8c26be99f1742dbd5de9b254563da2c92d64918d757a5362ae0d&c=50777405)  
 Imhoff Equestrian Centre
 
-![valued client Iurus Inc ](https://www.invoicesonline.co.za/scripts/image.php?bid=6286&file=logo_300_100&type=&fe=0101da66e1f80f9ab135a642cb875c1c5409c04cdc10fb2b953cc670f81b315f&c=44952117)  
-Iurus Inc
+![valued client One2b](https://www.invoicesonline.co.za/scripts/image.php?bid=4093&file=logo_300_100&type=&fe=9784db4810ac8c26be99f1742dbd5de9b254563da2c92d64918d757a5362ae0d&c=31677803)  
+One2b
+
+![valued client OrgChart Hosting Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=658&file=logo_300_100&type=&fe=9784db4810ac8c26be99f1742dbd5de9b254563da2c92d64918d757a5362ae0d&c=62222906)  
+OrgChart Hosting Pty Ltd
+
+![valued client Network Grey (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7333&file=logo_300_100&type=&fe=9784db4810ac8c26be99f1742dbd5de9b254563da2c92d64918d757a5362ae0d&c=172876841)  
+Network Grey (Pty) Ltd
+
+![valued client NEW BEGINNINGS DESIGNS](https://www.invoicesonline.co.za/scripts/image.php?bid=8177&file=logo_300_100&type=&fe=9784db4810ac8c26be99f1742dbd5de9b254563da2c92d64918d757a5362ae0d&c=93513973)  
+NEW BEGINNINGS DESIGNS
+
+![valued client Dombieterfontein (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2351&file=logo_300_100&type=&fe=9784db4810ac8c26be99f1742dbd5de9b254563da2c92d64918d757a5362ae0d&c=199640347)  
+Dombieterfontein (PTY) LTD
+
+![valued client M's Frozen Delights](https://www.invoicesonline.co.za/scripts/image.php?bid=7776&file=logo_300_100&type=&fe=9784db4810ac8c26be99f1742dbd5de9b254563da2c92d64918d757a5362ae0d&c=158840788)  
+M's Frozen Delights
+
+![valued client Enhle Oarabile Kea](https://www.invoicesonline.co.za/scripts/image.php?bid=7451&file=logo_300_100&type=&fe=9784db4810ac8c26be99f1742dbd5de9b254563da2c92d64918d757a5362ae0d&c=145787196)  
+Enhle Oarabile Kea
+
+![valued client McKaynine Mobility](https://www.invoicesonline.co.za/scripts/image.php?bid=8229&file=logo_300_100&type=&fe=9784db4810ac8c26be99f1742dbd5de9b254563da2c92d64918d757a5362ae0d&c=186995260)  
+McKaynine Mobility
+
+![valued client RADIO TYGERBERG 104FM NPC](https://www.invoicesonline.co.za/scripts/image.php?bid=8595&file=logo_300_100&type=&fe=9784db4810ac8c26be99f1742dbd5de9b254563da2c92d64918d757a5362ae0d&c=122047557)  
+RADIO TYGERBERG 104FM NPC
+
+![valued client Blue Bulls Rugby Coaches Association](https://www.invoicesonline.co.za/scripts/image.php?bid=8461&file=logo_300_100&type=&fe=9784db4810ac8c26be99f1742dbd5de9b254563da2c92d64918d757a5362ae0d&c=29707021)  
+Blue Bulls Rugby Coaches Association
+
+![valued client IEMS (PTY) ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7805&file=logo_300_100&type=&fe=9784db4810ac8c26be99f1742dbd5de9b254563da2c92d64918d757a5362ae0d&c=14634200)  
+IEMS (PTY) ltd
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
