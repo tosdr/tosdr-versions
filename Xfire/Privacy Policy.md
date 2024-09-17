@@ -36,16 +36,6 @@ About Xfire
 
 [](#)
 
-[![Xfire](https://www.xfire.com/wp-content/uploads/2023/09/xfire-red-logo.png)](https://www.xfire.com/)
-
-Straight-shooting video game news
-
-[](#)
-
- Search
-
-[](#)
-
 [![Xfire](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20147%2070'%3E%3C/svg%3E)
 
 ![Xfire](https://www.xfire.com/wp-content/uploads/2020/11/xfire-red-logo.png)](https://www.xfire.com/)
@@ -53,6 +43,8 @@ Straight-shooting video game news
 [](#)
 
  Search
+
+Straight-shooting video game news & reviews
 
 Privacy Policy
 ==============
