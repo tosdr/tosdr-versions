@@ -108,7 +108,7 @@ Voicemaker refers to Yedap Technologies LLC. and its wholly-owned subsidiary Voi
 * [GDPR Policy](https://voicemaker.in/gdpr-policy)
 * [Security Policy](https://voicemaker.in/security)
 
-© Copyright 2023 Voicemaker Technologies Pvt. Ltd., All rights reserved.
+© Copyright Voicemaker Technologies Pvt. Ltd., All rights reserved.
 
 [](https://www.facebook.com/voicemaker.in)[](https://twitter.com/voicemaker_in)[](https://www.linkedin.com/company/voicemakerin)[](https://instagram.com/voicemaker.in)
 
