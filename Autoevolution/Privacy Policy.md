@@ -39,9 +39,9 @@ editorial \_
 
 coverstory \_
 
-[![French Retro-Style Tiny House Reveals the Coziest Interior for Two](https://s1.cdn.autoevolution.com/images/news/french-retro-style-tiny-house-reveals-the-coziest-interior-for-two-239912-5.jpg "French Retro-Style Tiny House Reveals the Coziest Interior for Two")
+[![The Mondo Is a Remarkably Spacious and Cozy Tiny Home for Couples Looking To Downsize](https://s1.cdn.autoevolution.com/images/news/the-mondo-is-a-remarkably-spacious-and-cozy-tiny-home-for-couples-looking-to-downsize-239916-5.jpg "The Mondo Is a Remarkably Spacious and Cozy Tiny Home for Couples Looking To Downsize")
 
-French Retro-Style Tiny House Reveals the Coziest Interior for Two](https://www.autoevolution.com/news/french-retro-style-tiny-house-reveals-the-coziest-interior-for-two-239912.html)
+The Mondo Is a Remarkably Spacious and Cozy Tiny Home for Couples Looking To Downsize](https://www.autoevolution.com/news/the-mondo-is-a-remarkably-spacious-and-cozy-tiny-home-for-couples-looking-to-downsize-239916.html)
 
 how-to \_
 
