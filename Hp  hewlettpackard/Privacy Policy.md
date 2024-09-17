@@ -190,7 +190,7 @@ false
 
 https://www.hp.com/cma/ng/lib/exceptions/privacy-banner.js
 
-https://www8.hp.com
+https://www.hp.com
 
 https://tracking-na.hawksearch.com/api/trackevent
 
