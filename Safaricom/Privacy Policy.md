@@ -142,6 +142,34 @@ out of 5 based on
 
 ![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
 
+> Sep 17, 2024
+
+> Thanks to Keith!
+
+> Keith was prompt, thorough and efficient. He was available as and when needed, answering all the questions I had, and guiding us along the way.
+
+Anuscka Du Plessis Ellis
+
+,
+
+ZA
+
+![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
+
+> Sep 17, 2024
+
+> This Travel Firm is Ready for You!
+
+> We have completed the preliminary reservations with this amazing travel firm. Thank God they exist! We would never have been able to figure out how to put the pieces of our trip to AFRICA together without them. They are patient, caring, detailed, and responsive to communications…something you expect, but do not always receive when service is involved. Connect with them via email if you are even thinking about going to Africa. Cheers!
+
+Michael J Russ
+
+,
+
+US
+
+![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
+
 > Sep 16, 2024
 
 > First time to Cape Town
@@ -237,34 +265,6 @@ Jodi Wernikoff
 ,
 
 US
-
-![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
-
-> Sep 13, 2024
-
-> South Africa Here We Come!!!
-
-> We had the inclination to take Rovos Rail through part of South Africa and found Safari.com online. Nicole Van der Merwe, the friendly agent who connected with us was amazing! We connected on WhatsApp and were handled with absolute care. Nicole answered our questions in detail and within one day, were were booked on the train in the Royal Suite! We look forward to completing the additional details of our fabulous train/safari trip with her! As we have never been to SA, Nicole and Safari.com took away ALL of the concerns we had about making our trip a reality. to tell you the truth, it has been a long time since we have been treated this way by such a wonderful travel firm. Safari.com makes makes traveling to SA simple! We look forward to having them assist us with the additional details.
-
-Michael J. Russ
-
-,
-
-US
-
-![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
-
-> Sep 13, 2024
-
-> Jayson is polite and knowledgeable…Highly recommend
-
-> Jayson was a polite and knowledgeable person. He was never 'pushy' and gave us a lot of options. He was very understanding when we had to 'delay' our plans due to an aging mother-in-laws health and wellbeing. We have every intention of pursuing our dream of visiting Africa in the 2025/26 season and we will certainly be in-touch with Jayson. Many thanks to Jayson
-
-Jim C
-
-,
-
-AU
 
 VIP service
 
