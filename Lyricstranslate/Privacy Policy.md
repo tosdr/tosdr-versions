@@ -107,67 +107,67 @@ Russia is waging a disgraceful war on Ukraine.     Stand With Ukraine!
 
 Site activity
 
-[![Sailor PokeMoon2](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1399679-1688215899.jpg)](https://lyricstranslate.com/en/translator/sailor-pokemoon2 "Sailor PokeMoon2")
+[![Hoang Nguyen Ngo](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1597949-1699165030.jpg)](https://lyricstranslate.com/en/translator/hoang-nguyen-ngo "Hoang Nguyen Ngo")
+
+New translation
+
+[Red Army Choir - Там, вдали за рекой (Tam, vdali za rekoyi)](https://lyricstranslate.com/en/red-army-choir-tam-vdali-za-rekoyi-vietnamese)
+
+Russian → Vietnamese
+
+[![Baran-29](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1454896-1656511190.jpg)](https://lyricstranslate.com/en/translator/baran-29 "Baran-29")
+
+New translation
+
+[Ayten Alpman - Kimbilir Kim Var Yanında](https://lyricstranslate.com/en/ayten-alpman-kimbilir-kim-var-yaninda-english)
+
+Turkish → English
+
+[![Bhavana Mishra](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1628808-1726551075.jpg)](https://lyricstranslate.com/en/translator/bhavana-mishra "Bhavana Mishra")
+
+New song
+
+[Faizan Nizam Ansari - Tera naam mila](https://lyricstranslate.com/en/faizan-nizam-ansari-tera-naam-mila-lyrics)
+
+Hindi
+
+[![Bhavana Mishra](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1628808-1726551075.jpg)](https://lyricstranslate.com/en/translator/bhavana-mishra "Bhavana Mishra")
 
 New request
 
-[The Beatles - Can't Buy Me Love](https://lyricstranslate.com/en/request/cant-buy-me-love-0)
+[Faizan Nizam Ansari - तेरा नाम मिला (Tera naam mila)](https://lyricstranslate.com/en/request/tera-naam-mila)
 
-English → Bulgarian
+Hindi → English
 
-[![Eddie Gund 1](https://lyricstranslate.com/files/styles/micro/public/avatar-default-u.png)](https://lyricstranslate.com/en/translator/eddie-gund-1 "Eddie Gund 1")
+[![victorianovak](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1274653-1638061224.jpg)](https://lyricstranslate.com/en/translator/victorianovak "victorianovak")
 
-New song
+New collection
 
-[Liv Moon - Free Your Soul](https://lyricstranslate.com/en/liv-moon-free-your-soul-lyrics)
+[Pesadilla fatal (1991)](https://lyricstranslate.com/en/collection/pesadilla-fatal-1991)
 
-English
+[![robinofsherwood17021981](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1199762-1607435630.jpg)](https://lyricstranslate.com/en/translator/robinofsherwood17021981 "robinofsherwood17021981")
 
-[![Eddie Gund 1](https://lyricstranslate.com/files/styles/micro/public/avatar-default-u.png)](https://lyricstranslate.com/en/translator/eddie-gund-1 "Eddie Gund 1")
+New translation
 
-New request
+[Kehlani - Next 2 U](https://lyricstranslate.com/en/kehlani-next-2-u-german)
 
-[Liv Moon - Free Your Soul](https://lyricstranslate.com/en/request/free-your-soul)
+English → German
 
-English → English
+[![Hoang Nguyen Ngo](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1597949-1699165030.jpg)](https://lyricstranslate.com/en/translator/hoang-nguyen-ngo "Hoang Nguyen Ngo")
 
-[![Sailor PokeMoon2](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1399679-1688215899.jpg)](https://lyricstranslate.com/en/translator/sailor-pokemoon2 "Sailor PokeMoon2")
+New translation
 
-New song
+[Oleg Gazmanov - Два орла (Dva orla)](https://lyricstranslate.com/en/oleg-gazmanov-dva-orla-vietnamese)
 
-[Kidz Bop Kids - Can’t Buy Me Love](https://lyricstranslate.com/en/kidz-bop-kids-cant-buy-me-love-lyrics)
+Russian → Vietnamese
 
-English
+[![Valeriu Raut](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1118259-1658638924.jpg)](https://lyricstranslate.com/en/translator/valeriu-raut "Valeriu Raut")
 
-[![Sailor PokeMoon2](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1399679-1688215899.jpg)](https://lyricstranslate.com/en/translator/sailor-pokemoon2 "Sailor PokeMoon2")
+New translation
 
-New comment
+[Alexander Pushkin - Чёрная шаль (Chyornaya shal')](https://lyricstranslate.com/en/alexander-pushkin-chyornaya-shal-spanish)
 
-https://lyricstranslate.com/en/...  [more](https://lyricstranslate.com/en/comment/1165207#comment-1165207)
-
-[![tn1gm](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1539455-1653774677.png)](https://lyricstranslate.com/en/translator/tn1gm "tn1gm")
-
-New song
-
-[My Little Pony: Friendship Is Magic (OST) - Sagan om Kirinen \[A Kirin Tale\]](https://lyricstranslate.com/en/my-little-pony-friendshi-sagan-om-kirinen-kirin-lyrics)
-
-Swedish
-
-[![Sailor PokeMoon2](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1399679-1688215899.jpg)](https://lyricstranslate.com/en/translator/sailor-pokemoon2 "Sailor PokeMoon2")
-
-New song
-
-[Kidz Bop Kids - Blackbird](https://lyricstranslate.com/en/kidz-bop-kids-blackbird-lyrics)
-
-English
-
-[![ftetranslator](https://lyricstranslate.com/files/styles/micro/public/avatar-default-u.png)](https://lyricstranslate.com/en/translator/ftetranslator "ftetranslator")
-
-New request
-
-[Police Dog Carl (OST) - 走れ風のように (Hashire kaze no youni)](https://lyricstranslate.com/en/request/%E8%B5%B0%E3%82%8C%E9%A2%A8%E3%81%AE%E3%82%88%E3%81%86%E3%81%AB)
-
-Japanese → Italian
+Russian → Spanish
 
 [LyricsTranslate.com](https://lyricstranslate.com/) – the world's largest repository of lyrics translations
 
