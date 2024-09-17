@@ -514,15 +514,6 @@ Enjoy relief from aches as pressure on your body is reduced
 
 Create your own customized sleep position for rejuvenating rest
 
-Built in the usa
-----------------
-
-* ﻿﻿Durable hardwood frame is guaranteed for life
-* ﻿﻿Overstuffed microfiber Dacron fill for extreme comfort
-* Every stress point is double-doweled and glued for durability
-* ﻿﻿Built to last, with heavy-gauge springs and 10-gauge steel lifting mechanism
-* ﻿﻿Backed by a limited lifetime warranty
-
 ### You may also like
 
 Sale
@@ -544,7 +535,7 @@ icon-X "Close (esc)"
 
 Rated 4.8 out of 5 stars
 
-Based on 58 reviews
+Based on 59 reviews
 
 5
 
@@ -558,9 +549,9 @@ Total 5 star reviews: 47
 
 Rated out of 5 stars
 
-11
+12
 
-Total 4 star reviews: 11
+Total 4 star reviews: 12
 
 3
 
@@ -588,23 +579,49 @@ Total 1 star reviews: 0
 
 **100%**would recommend this product
 
-Product QualityRated 4.8 on a scale of 1 to 5
+Product QualityRated 4.7 on a scale of 1 to 5
 
 Poor Excellent
 
 * 
 * 
 
-Reviews 58(tab expanded) Questions (tab collapsed)
+Reviews 59(tab expanded) Questions (tab collapsed)
 
 Filters
 
 [Write a Review (Opens in a new window)](https://okendo.reviews/?subscriberId=8621a839-7b05-4bd3-a484-ab0b23489b38&productId=shopify-7199302877267&locale=en)
 
-58 reviews
+59 reviews
 
 Sort Most RecentOldestMost HelpfulPhotos & VideosHighest RatingLowest RatingLeast Helpful
 
+* **G D.**
+    
+    Verified Buyer
+    
+    I recommend this product
+    
+    **Product Standouts** Quality Fabric, Warmth & Massage
+    
+    Rated 4 out of 5 stars
+    
+    September 15, 2024
+    
+    Good info to know
+    
+    I’m liking the chair so far, just received a week ago. It is a deep seat and I wish the foot portion was longer as aggravates my Achilles tendon where it ends. Love the genuine leather, so doesn’t peel. Info I wish I had known would be When I ordered online I was told it had to be made when I called in a few weeks. It shipped from Oregon, came in a crate made in China six weeks later. This would be important to put on the website.
+    
+    Read More
+    
+    Product QualityRated 4.0 on a scale of 1 to 5
+    
+    Poor Excellent
+    
+    Was this helpful?
+    
+    Yes, this review was helpful 0 people voted yesNo, this review was not helpful 0 people voted no
+    
 * **Thom H.**
     
     Verified Reviewer
@@ -746,36 +763,12 @@ Sort Most RecentOldestMost HelpfulPhotos & VideosHighest RatingLowest RatingLeas
     
     * The Journey Team
     
-* **Gayle Varnell, PhD, APRN, C.**
-    
-    I recommend this product
-    
-    **Product Standouts** Easy to Sleep in, Comfort, Independence , Quality Fabric
-    
-    Rated 5 out of 5 stars
-    
-    January 11, 2024
-    
-    Little did I Know!
-    
-    I purchased a sleep chair for my mother when she moved in with us and it was wonderful . Mom lived to be 100 before she died. The chair helped me care for her. That was over 6 years ago. The heater no longer works and hopefully I can get a new one, but on Christmas Day I fell and had very serious injuries breaking my right knee cap. It took eleven days before I had surgery and then I was discharged the day of surgery to come home to a house not euipped to care for me. The chair has been amazing asset. As an APRN, I appreciate that I can get up on my own without needing assistance. Nobody even asked me about my ability to ambulate on my own. Everyone could benefit from a chair like this, I am getting a good night sleep and would encourage others my age to invest in one before you need it. It was a life safer and helped me to keep my independence. Thank you.
-    
-    Read More
-    
-    Product QualityRated 5.0 on a scale of 1 to 5
-    
-    Poor Excellent
-    
-    Was this helpful?
-    
-    Yes, this review was helpful 50 people voted yesNo, this review was not helpful 4 people voted no
-    
 
 Loading...
 
 Loading...
 
-[Show More](https://www.perfectsleepchair.com/privacy-policy/?okeReviewsNextUrl=https%253A%252F%252F5i27ysv3j8.execute-api.us-west-2.amazonaws.com%252Fprod%252Fstores%252F8621a839-7b05-4bd3-a484-ab0b23489b38%252Fproducts%252Fshopify-7199302877267%252Freviews%253Flimit%253D5%2526orderBy%253Ddate%252520desc%2526lastEvaluated%253D%25257B%252522subscriberId%252522%25253A%2525228621a839-7b05-4bd3-a484-ab0b23489b38%252522%25252C%252522dateCreated%252522%25253A%2525222024-01-11T21%25253A24%25253A08.956Z%252522%25252C%252522subscriberId_productId%252522%25253A%2525228621a839-7b05-4bd3-a484-ab0b23489b38%25253Ashopify-7199302877267%252522%25252C%252522reviewId%252522%25253A%25252280c49c72-56ef-45a5-b76c-d48fb48a05a4%252522%25257D&okeReviewsPageNum=2)
+[Show More](https://www.perfectsleepchair.com/privacy-policy/?okeReviewsNextUrl=https%253A%252F%252F5i27ysv3j8.execute-api.us-west-2.amazonaws.com%252Fprod%252Fstores%252F8621a839-7b05-4bd3-a484-ab0b23489b38%252Fproducts%252Fshopify-7199302877267%252Freviews%253Flimit%253D5%2526orderBy%253Ddate%252520desc%2526lastEvaluated%253D%25257B%252522subscriberId%252522%25253A%2525228621a839-7b05-4bd3-a484-ab0b23489b38%252522%25252C%252522dateCreated%252522%25253A%2525222024-03-16T18%25253A26%25253A22.766Z%252522%25252C%252522subscriberId_productId%252522%25253A%2525228621a839-7b05-4bd3-a484-ab0b23489b38%25253Ashopify-7199302877267%252522%25252C%252522reviewId%252522%25253A%2525225d0e54b3-c6c5-4b1f-a724-7554226c4689%252522%25257D&okeReviewsPageNum=2)
 
 Reviews LoadedReviews Added
 
@@ -812,6 +805,7 @@ Get in Touch
 
 Get in Touch
 
+* [Customer Service: 1-800-958-8324](tel:18009588324)
 * [Email Customer Service](mailto:CS@shopjourney.com)
 * [**Sales hours:**](#)
 * [M-F 9am - 7pm EST  
@@ -857,4 +851,4 @@ icon-X icon-chevron
 
 icon-X
 
-Ultimate Perfect Sleep Chair: Comfort, Lift & Massage for Seniors - Journey Health & Lifestyle
+Perfect Sleep Chair: Comfort, Lift & Massage for Seniors - Journey Health & Lifestyle
