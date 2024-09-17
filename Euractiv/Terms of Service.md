@@ -212,6 +212,7 @@ Toggle navigation
     ##### Events
     
     * 24 September - [Media Partnership - Smart siting: Unlocking Europe's Solar and Wind Potential](https://events.euractiv.com/event/info/media-partnership-smart-siting-unlocking-europes-solar-and-wind-potential)
+    * 13 November - [The path to the climate neutrality of district heating systems - Solutions, regulations, technologies](https://events.euractiv.com/event/info/the-path-to-the-climate-neutrality-of-district-heating-systems-solutions-regulations-technologies)
     
     ##### Promoted Content
     
@@ -989,8 +990,8 @@ Languages: [Français](https://www.euractiv.fr/?post_type=page&p=179361) | [Deut
 * 3[Brazil asks EU to hold off on implementing deforestation law](http://en.euractiv.eu/section/agriculture-food/news/brazil-asks-eu-to-hold-off-on-implementing-deforestation-law/?utm_source=website&utm_campaign=popular)
 * 4[French Commissioner Thierry Breton resigns over row with von der Leyen](http://en.euractiv.eu/section/defence-and-security/news/french-commissioner-thierry-breton-resigns-over-row-with-von-der-leyen/?utm_source=website&utm_campaign=popular)
 * 5[EU court says Hungary broke competition rules by fixing food prices](http://en.euractiv.eu/section/agriculture-food/news/eu-court-says-hungary-broke-competition-rules-by-fixing-food-prices/?utm_source=website&utm_campaign=popular)
-* 6[Austria’s biggest utility company to ditch Russian gas from 2025](http://en.euractiv.eu/section/energy-environment/news/austrias-biggest-utility-company-to-ditch-russian-gas-from-2025/?utm_source=website&utm_campaign=popular)
-* 7['Reward those who serve our planet': Von der Leyen floats 'nature credits'](http://en.euractiv.eu/section/biodiversity/news/reward-those-who-serve-our-planet-von-der-leyen-floats-nature-credits/?utm_source=website&utm_campaign=popular)
+* 6['Reward those who serve our planet': Von der Leyen floats 'nature credits'](http://en.euractiv.eu/section/biodiversity/news/reward-those-who-serve-our-planet-von-der-leyen-floats-nature-credits/?utm_source=website&utm_campaign=popular)
+* 7[Austria’s biggest utility company to ditch Russian gas from 2025](http://en.euractiv.eu/section/energy-environment/news/austrias-biggest-utility-company-to-ditch-russian-gas-from-2025/?utm_source=website&utm_campaign=popular)
 * 8[China uses LinkedIn to recruit academics for espionage, Czech intelligence warns](http://en.euractiv.eu/section/politics/news/china-uses-linkedin-to-recruit-academics-for-espionage-czech-intelligence-warns/?utm_source=website&utm_campaign=popular)
 * 9[New term, new EU foreign policy?](http://en.euractiv.eu/section/global-europe/news/new-term-new-eu-foreign-policy/?utm_source=website&utm_campaign=popular)
 * 10[New Dutch government unveils toughest asylum reform in history](http://en.euractiv.eu/section/politics/news/new-dutch-government-unveils-toughest-asylum-reform-in-history/?utm_source=website&utm_campaign=popular)
