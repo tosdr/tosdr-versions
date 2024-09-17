@@ -891,11 +891,11 @@ skip to main content
     
     * AI
         
-        [Smarter AI For All](https://www.lenovo.com/us/en/solutions/ai/) [AI-Powered Digital Workplace Solutions](https://www.lenovo.com/us/en/solutions/digital-workplace) [AI PCs](https://www.lenovo.com/us/en/business/ai-laptops/) [Hybrid AI](https://www.lenovo.com/us/en/servers-storage/solutions/ai/) [Neptune Liquid Cooling](https://www.lenovo.com/us/en/servers-storage/neptune/) [AI Services](https://www.lenovo.com/us/en/services/professional-services-ai) [Lenovo AI Innovators](https://www.lenovo.com/us/en/servers-storage/alliance/ai-innovators/) [Smarter AI Success Stories](https://www.lenovo.com/us/en/case-studies-customer-success-stories/ai-success-story/)
+        [Smarter AI For All](https://www.lenovo.com/us/en/solutions/ai/) [AI-Powered Digital Workplace Solutions](https://www.lenovo.com/us/en/solutions/digital-workplace) [AI PCs](https://www.lenovo.com/us/en/business/ai-laptops/) [Hybrid AI](https://www.lenovo.com/us/en/servers-storage/solutions/ai/) [Neptune Liquid Cooling](https://www.lenovo.com/us/en/servers-storage/neptune/) [AI Services](https://www.lenovo.com/us/en/services/ai-services/) [Lenovo AI Innovators](https://www.lenovo.com/us/en/servers-storage/alliance/ai-innovators/) [Smarter AI Success Stories](https://www.lenovo.com/us/en/case-studies-customer-success-stories/ai-success-story/)
     
-* [Digital Workplace](https://techtoday.lenovo.com/us/en/digital-workplace-solutions)
+* [Digital Workplace](https://www.lenovo.com/us/en/solutions/digital-workplace/)
     
-    * [Digital Workplace Solutions](https://techtoday.lenovo.com/us/en/digital-workplace-solutions) [Virtual Desktop Infrastructure](https://www.lenovo.com/us/en/servers-storage/solutions/client-virtualization/) [Smart Collaboration](https://techtoday.lenovo.com/us/en/smart-collaboration)
+    * [Digital Workplace Solutions](https://www.lenovo.com/us/en/solutions/digital-workplace/) [Virtual Desktop Infrastructure](https://www.lenovo.com/us/en/servers-storage/solutions/client-virtualization/) [Smart Collaboration](https://techtoday.lenovo.com/us/en/smart-collaboration)
     
 * [Hybrid Cloud](https://www.lenovo.com/us/en/servers-storage/solutions/hybrid-cloud/)
     
@@ -912,7 +912,7 @@ skip to main content
     
 * [TruScale](https://techtoday.lenovo.com/us/en/truscale)
     
-    * [TruScale](https://techtoday.lenovo.com/us/en/truscale) [TruScale IaaS](https://www.lenovo.com/us/en/servers-storage/solutions/truscale-infrastructure-services) [TruScale DaaS](https://techtoday.lenovo.com/us/en/truscale-daas) [TruScale Data Management](https://techtoday.lenovo.com/us/en/solutions/iaas/truscale-data-management) [TruScale HPC](https://techtoday.lenovo.com/us/en/solutions/iaas/truscale-hpc) [TruScale Infinte Storage](https://techtoday.lenovo.com/us/en/solutions/iaas/truscale-data-management/infinite-storage) [TruScale DaaS Calculator](https://techtoday.lenovo.com/us/en/truscale-daas-calculator)
+    * [TruScale](https://techtoday.lenovo.com/us/en/truscale) [TruScale Backup with Veeam](https://www.lenovo.com/us/en/solutions/truscale/truscale-backup-with-veeam/) [TruScale DaaS](https://techtoday.lenovo.com/us/en/truscale-daas) [TruScale DaaS Calculator](https://techtoday.lenovo.com/us/en/truscale-daas-calculator) [TruScale Data Management](https://www.lenovo.com/us/en/solutions/truscale/truscale-for-data-management/) [TruScale HPC](https://techtoday.lenovo.com/us/en/solutions/iaas/truscale-hpc) [TruScale IaaS](https://www.lenovo.com/us/en/servers-storage/solutions/truscale-infrastructure-services) [TruScale for Storage](https://www.lenovo.com/us/en/solutions/truscale/truscale-for-storage/)
     
 * [Solutions by Industry](https://www.lenovo.com/us/en/solutions/industry)
     
@@ -943,7 +943,7 @@ skip to main content
 * [Consumer Services](https://www.lenovo.com/us/en/services/consumer-services/)
 * [Advisory Services](https://www.lenovo.com/us/en/services/advisory-services/)
     
-    * [Advisory Services](https://www.lenovo.com/us/en/services/advisory-services/) [Sustainability Workshop](https://techtoday.lenovo.com/us/en/sustainability-solutions) [AI](https://www.lenovo.com/us/en/services/professional-services-ai)
+    * [Advisory Services](https://www.lenovo.com/us/en/services/advisory-services/) [Sustainability Workshop](https://techtoday.lenovo.com/us/en/sustainability-solutions) [AI](https://www.lenovo.com/us/en/services/ai-services/)
     
 * [Deployment Services](https://www.lenovo.com/us/en/services/deployment-services/)
     
@@ -952,7 +952,7 @@ skip to main content
 * [Managed Services](https://www.lenovo.com/us/en/services/managed-services/)
     
     * [Managed Services](https://www.lenovo.com/us/en/services/managed-services/) [Digital Workplace Solutions  
-        Managed Services](https://techtoday.lenovo.com/us/en/solutions/digital-workplace) [Managed Services for  
+        Managed Services](https://www.lenovo.com/us/en/solutions/digital-workplace/) [Managed Services for  
         Collaboration Suite](https://techtoday.lenovo.com/us/en/ldi-plus-managed-services) [Lenovo Device Intelligence  
         Plus Managed Services](https://techtoday.lenovo.com/us/en/cloud-solutions)
     
@@ -1313,6 +1313,6 @@ Please select a Country / Region
 
 Compare  ()
 
-removeAll _x_
+_x_
 
 Call
