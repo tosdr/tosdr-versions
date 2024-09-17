@@ -34,11 +34,11 @@ Login Stay logged in
 
 Latest Forum Topics
 
-* [Change a Letter (1,925)](https://forum.nationstates.net/viewtopic.php?t=551994&f=25&view=unread#unread ""Change a Letter" (1,925 posts)")
-* [2023 Israel–Hamas War Thread mk3 (7,066)](https://forum.nationstates.net/viewtopic.php?t=549839&f=20&view=unread#unread ""2023 Israel–Hamas War Thread mk3" (7,066 posts)")
-* [Is AN’s flag a flag? (7,628)](https://forum.nationstates.net/viewtopic.php?t=495404&f=25&view=unread#unread ""Is AN’s flag a flag?" (7,628 posts)")
-* [Is AU A Liberal, Centrist, or Conserv… (203)](https://forum.nationstates.net/viewtopic.php?t=555272&f=25&view=unread#unread ""Is AU A Liberal, Centrist, or Conservative?" (203 posts)")
-* [Cats vs Dogs (56)](https://forum.nationstates.net/viewtopic.php?t=554944&f=20&view=unread#unread ""Cats vs Dogs" (56 posts)")
+* [Commend or Condemn AN II (568)](https://forum.nationstates.net/viewtopic.php?t=553545&f=25&view=unread#unread ""Commend or Condemn AN II" (568 posts)")
+* [Does pineapple belong on pizza? (148)](https://forum.nationstates.net/viewtopic.php?t=554902&f=20&view=unread#unread ""Does pineapple belong on pizza?" (148 posts)")
+* [American Politics: Another Attempt Av… (6,739)](https://forum.nationstates.net/viewtopic.php?t=553897&f=20&view=unread#unread ""American Politics: Another Attempt Avoided" (6,739 posts)")
+* [rate an's card collection (11)](https://forum.nationstates.net/viewtopic.php?t=555405&f=25&view=unread#unread ""rate an's card collection" (11 posts)")
+* [Dinner in Kshatra (IC, closed) (43)](https://forum.nationstates.net/viewtopic.php?t=554763&f=5&view=unread#unread ""Dinner in Kshatra (IC, closed)" (43 posts)")
 
 Advertisement
 
