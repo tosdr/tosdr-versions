@@ -268,13 +268,6 @@ WHAT WE STAND FOR
 
 ### Intuit believes everyone should have the opportunity to prosper and we never stop working to find new innovative ways to make that possible.
 
-FAST FACTS
-
-Intuit’s impact by the numbers
-------------------------------
-
-Here’s what being a customer-focused company has allowed us to accomplish
-
 How Intuit powers prosperity for customers
 ------------------------------------------
 
@@ -284,8 +277,6 @@ Intuit news
 Please add children elements
 
 1 of 1
-
-POWERING PROSPERITY TOGETHER
 
 Company
 
