@@ -9,7 +9,6 @@ Lesezeichen
 
 * [Startseite](https://www.zeit.de/index)
 
-* [Neu: Politisches Feuilleton](https://www.zeit.de/politisches-feuilleton/index)
 * [Exklusive Artikel](https://www.zeit.de/exklusive-zeit-artikel)
 
 * [Politik](https://www.zeit.de/politik/index)
@@ -21,6 +20,7 @@ Lesezeichen
 * [Gesellschaft](https://www.zeit.de/gesellschaft/index)
 * [Arbeit](https://www.zeit.de/arbeit/index)
 * [Kultur](https://www.zeit.de/kultur/index)
+* [Politisches Feuilleton](https://www.zeit.de/politisches-feuilleton/index)
 * [Campus](https://www.zeit.de/campus/index)
 * [Wissen](https://www.zeit.de/wissen/index)
 * [ze.tt](https://www.zeit.de/zett/index)
@@ -32,6 +32,8 @@ Lesezeichen
 * [Sinn](https://www.zeit.de/sinn/index)
 * [Sport](https://www.zeit.de/sport/index)
 * [Hamburg](https://www.zeit.de/hamburg/index)
+* [Österreich](https://www.zeit.de/oesterreich/index)
+* [Schweiz](https://www.zeit.de/schweiz/index)
 * [Green](https://www.zeit.de/green/index)
 
 * [Podcasts](https://www.zeit.de/podcasts/index)
@@ -59,11 +61,11 @@ Studium
 
 Karriere
 
-* [Jobs im ZEIT ONLINE Stellenmarkt](https://jobs.zeit.de/?wt_zmc=fix.int.zonpmr.zeitde.topnav.suma.link.x.x&utm_medium=fix&utm_source=zeitde_zonpmr_int&utm_campaign=topnav&utm_content=job_link_x_x)
-* [BOA Berufstest](https://boa.zeit.de/?wt_zmc=fix.int.zonpmr.zeitde.topnav.sit.link.x.x&utm_medium=fix&utm_source=zeitde_zonpmr_int&utm_campaign=topnav&utm_content=boa_link_x_x)
-* [Academics](https://academics.de/?wt_zmc=fix.int.zonpmr.zeitde.topnav.suma.link.x.x&utm_medium=fix&utm_source=zeitde_zonpmr_int&utm_campaign=topnav&utm_content=academics_link_x_x)
-* [academics.com](https://academics.com/?wt_zmc=fix.int.zonpmr.zeitde.topnav.che.link.x.x&utm_medium=fix&utm_source=zeitde_zonpmr_int&utm_campaign=topnav&utm_content=academicscom_link_x_x)
-* [GoodJobs](https://goodjobs.eu/?wt_zmc=fix.int.zonpmr.zeitde.topnav.bot.link.x.x&utm_medium=fix&utm_source=zeitde_zonpmr_int&utm_campaign=topnav&utm_content=good_jobs_x_x)
+* [Jobs im ZEIT ONLINE Stellenmarkt](https://jobs.zeit.de/)
+* [BOA Berufstest](https://boa.zeit.de/)
+* [Academics](https://academics.de/)
+* [academics.com](https://academics.com/)
+* [GoodJobs](https://goodjobs.eu/)
 * [e-fellows.net](https://e-fellows.net/)
 
 Verlagsangebote
@@ -75,6 +77,7 @@ Verlagsangebote
 
 Anzeigen
 
+* [Der Weg zum Marathon](https://www.zeit.de/angebote/zeit-magazin/marathon-is-a-teamsport/index)
 * [Reisepodcast: Überm Berg](https://www.zeit.de/angebote/zeit-magazin/ueberm-berg-reisepodcast/geschichte/index)
 * [Beliebteste Arbeitgeber 2024](https://www.zeit.de/arbeit/angebote/most-wanted-employer/index)
 * [Gemeinsam für Demokratie](https://cmk.zeit.de/cms/hub/13121/anzeige/dm-drogerie-markt-gmbh)
