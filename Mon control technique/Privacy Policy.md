@@ -14,7 +14,7 @@
     * [En quoi consiste le contrôle technique ?](https://www.moncontroletechnique.fr/le-controle-technique-auto)
     * [Préparez votre contrôle](https://www.moncontroletechnique.fr/preparer-votre-controle-technique)
     
-    * [FAQ](https://www.moncontroletechnique.fr/faq-controle-technique-0)
+    * [FAQ](https://www.moncontroletechnique.fr/faq-controle-technique)
     * [Ce qui a changé sur le contrôle technique](https://www.moncontroletechnique.fr/le-nouveau-controle-technique-en-quelques-mots)
     
     Découvrez la règlementation  
@@ -27,7 +27,7 @@
     * [Contrôle technique véhicules particuliers](https://www.moncontroletechnique.fr/le-controle-technique-en-bref)
     * [En quoi consiste le contrôle technique ?](https://www.moncontroletechnique.fr/le-controle-technique-auto)
     * [Préparez votre contrôle](https://www.moncontroletechnique.fr/preparer-votre-controle-technique)
-    * [FAQ](https://www.moncontroletechnique.fr/faq-controle-technique-0)
+    * [FAQ](https://www.moncontroletechnique.fr/faq-controle-technique)
     * [Ce qui a changé sur le contrôle technique](https://www.moncontroletechnique.fr/le-nouveau-controle-technique-en-quelques-mots)
     
 * [Modifier / Supprimer un RDV ![Icone modification/suppression](/themes/custom/mct/assets/img/icons/double-arrow.svg)](https://www.moncontroletechnique.fr/annulation_rdv) 
