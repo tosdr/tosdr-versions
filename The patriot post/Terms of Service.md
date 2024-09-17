@@ -203,6 +203,7 @@ All users and subscribers of Web site agree to abide by and comply with these "S
 
 ### Top Opinion
 
+*      [Ian Haworth Democrats: Vote for Us and the Shooting Stops](https://patriotpost.us/opinion/110318-democrats-vote-for-us-and-the-shooting-stops-2024-09-17)
 *      [Christine Flowers We Need to Return to the World of Sept. 12, 2001](https://patriotpost.us/opinion/110304-we-need-to-return-to-the-world-of-sept-12-2001-2024-09-17)
 *      [Cal Thomas Socialized Medicine: The Consequences](https://patriotpost.us/opinion/110300-socialized-medicine-the-consequences-2024-09-17)
 *      [Gary Bauer Hatred of Trump Inspires Assassins!](https://patriotpost.us/opinion/110299-hatred-of-trump-inspires-assassins-2024-09-17)
@@ -226,7 +227,7 @@ All users and subscribers of Web site agree to abide by and comply with these "S
 
 [END OF WATCH](https://patriotpost.us/end-of-watch)
 
-[![](https://img.patriotpost.us/01J7Y4A5HWF0E5433AX1CKK1JD.jpeg)](https://patriotpostshop.com/collections/american-liberty-collection)
+[![](https://img.patriotpost.us/01J7K6RDZ8X6NRRKWH4N6BV0AY.jpeg)](https://patriotpostshop.com/collections/featured-products)
 
 ### The Foundation
 
