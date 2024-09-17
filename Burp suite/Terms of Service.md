@@ -1,5 +1,3 @@
-[**Unlock enhanced API scanning with Burp Suite Enterprise Edition**  –  Learn more](https://portswigger.net/blog/unlock-enhanced-api-scanning-with-burp-suite)
-
 [](https://portswigger.net/)
 
 [Login](https://portswigger.net/users)
