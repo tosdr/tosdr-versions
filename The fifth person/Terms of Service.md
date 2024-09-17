@@ -1,4 +1,4 @@
-Tuesday, September 17 2024
+Wednesday, September 18 2024
 
 * [About](https://fifthperson.com/about/)
 * [Charity](https://fifthperson.com/charity/)
@@ -136,7 +136,7 @@ Quick Guides
     
     [Net profit vs. free cash flow: Which metric matters most?](https://fifthperson.com/net-profit-vs-free-cash-flow/)
     
-    15 hours ago
+    21 hours ago
     
 * [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
