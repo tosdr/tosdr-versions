@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/overige/wat-weet-trump-regering-meer-over-mh17/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/politiek/obamas-geboorte-akte-wel-degelijk-vals/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
