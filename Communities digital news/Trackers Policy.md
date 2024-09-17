@@ -26,41 +26,43 @@ Search for:
 
 ### [TOP STORIES](https://www.commdiginews.com/category/top-stories/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/03/SG-Biden-Harris-Trump-1200x630.jpg)](https://americanwirenews.com/trump-pulls-no-punches-says-rhetoric-from-kamala-and-biden-causing-me-to-be-shot-at/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-govdewine-1200-x-628-1200x630.jpg)](https://americanwirenews.com/bomb-threats-that-media-blamed-on-trump-supporters-were-hoaxes-came-from-overseas-ohio-gov-says/)
 
-[Trump pulls no punches, says rhetoric from Kamala Harris and Biden ‘causing me to be shot at’](https://americanwirenews.com/trump-pulls-no-punches-says-rhetoric-from-kamala-and-biden-causing-me-to-be-shot-at/)
+[Bomb threats that media blamed on Trump supporters were hoaxes, came from overseas, Ohio gov. says](https://americanwirenews.com/bomb-threats-that-media-blamed-on-trump-supporters-were-hoaxes-came-from-overseas-ohio-gov-says/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-veltri-1200x630.jpg)](https://americanwirenews.com/fbis-miami-field-office-chief-who-spoke-on-second-assassination-attempt-a-notorious-trump-hater/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-clinton-musk-1200x630.jpg)](https://americanwirenews.com/hillary-clinton-suggests-musk-wants-to-rape-taylor-swift/)
 
-[FBI’s Miami field office chief who spoke on second assassination attempt ‘a notorious Trump hater’](https://americanwirenews.com/fbis-miami-field-office-chief-who-spoke-on-second-assassination-attempt-a-notorious-trump-hater/)
+[Hillary Clinton suggests Musk wants to ‘rape’ Taylor Swift](https://americanwirenews.com/hillary-clinton-suggests-musk-wants-to-rape-taylor-swift/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-musk-biden-harris-1200x630.jpg)](https://americanwirenews.com/elon-musk-scrubs-post-made-in-jest-wondering-why-trump-is-the-only-target-of-assassins/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/02/SG-Criminal-Illegal-Alien-1200x630.jpg)](https://americanwirenews.com/migrant-influencer-who-urged-illegal-aliens-to-be-squatters-gets-deported/)
 
-[Elon Musk scrubs post made ‘in jest’ wondering why Trump is the only target of assassins](https://americanwirenews.com/elon-musk-scrubs-post-made-in-jest-wondering-why-trump-is-the-only-target-of-assassins/)
+[Migrant influencer who urged illegal aliens to be squatters gets deported](https://americanwirenews.com/migrant-influencer-who-urged-illegal-aliens-to-be-squatters-gets-deported/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2022/07/SG-Trump-Golf-1200x630.png)](https://americanwirenews.com/in-trouble-time-magazine-cover-featuring-trump-on-a-golf-course-sets-off-social-media/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/gettyimages-1497315470-1200x630.jpg)](https://americanwirenews.com/nba-team-condemns-hurtful-and-offensive-comments-about-haitians/)
 
-[‘In Trouble’: Time Magazine cover featuring Trump on a golf course sets off social media](https://americanwirenews.com/in-trouble-time-magazine-cover-featuring-trump-on-a-golf-course-sets-off-social-media/)
+(Megan Briggs/Getty Images)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-martin-county-sheriffs-office-donald-trump-ryan-wesley-routh-split-1200x630.jpg)](https://americanwirenews.com/former-fbi-asst-director-raises-scary-prospect-ryan-routh-had-inside-info-on-trump-schedule/)
+[NBA team condemns ‘hurtful and offensive’ comments about Haitians](https://americanwirenews.com/nba-team-condemns-hurtful-and-offensive-comments-about-haitians/)
 
-[Former FBI asst. director raises ‘scary’ prospect Ryan Routh had inside info on Trump schedule](https://americanwirenews.com/former-fbi-asst-director-raises-scary-prospect-ryan-routh-had-inside-info-on-trump-schedule/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/05/sg-demhakeem-1200-x-628-1200x630.jpg)](https://americanwirenews.com/house-minority-leader-hakeem-jeffries-makes-defiant-statement-after-second-assassination-attempt/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-bartiromo-cotton-1200x630.jpg)](https://americanwirenews.com/sen-cotton-quips-kamala-fixing-the-border-is-like-oj-promising-to-find-the-real-killer/)
+[House Minority Leader Hakeem Jeffries makes defiant statement after second assassination attempt](https://americanwirenews.com/house-minority-leader-hakeem-jeffries-makes-defiant-statement-after-second-assassination-attempt/)
 
-[Sen. Cotton quips Kamala fixing the border is like OJ ‘promising to find the real killer’](https://americanwirenews.com/sen-cotton-quips-kamala-fixing-the-border-is-like-oj-promising-to-find-the-real-killer/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/rf-pexels-passport-1200x630.jpg)](https://americanwirenews.com/uk-to-start-charging-fee-for-travelers-to-visit-country/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-routh-interviews-1200x630.jpg)](https://americanwirenews.com/social-media-posts-of-2nd-trump-gunman-echo-dem-talking-points-draws-in-elon-musk/)
+[UK to start charging fee for travelers to visit country](https://americanwirenews.com/uk-to-start-charging-fee-for-travelers-to-visit-country/)
 
-[Social media posts of 2nd Trump gunman echo Dem talking points, draws in Elon Musk](https://americanwirenews.com/social-media-posts-of-2nd-trump-gunman-echo-dem-talking-points-draws-in-elon-musk/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/02/SG-Amazon-1200x630.png)](https://americanwirenews.com/amazon-ceo-orders-entitled-workers-back-to-the-office-for-5-day-work-week/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-brian-pannebecker-1200x630.jpg)](https://americanwirenews.com/auto-workers-for-trump-leader-claims-thousands-of-union-members-could-dump-dems-over-green-agenda/)
+[Amazon CEO orders entitled workers back to the office for 5 day work week](https://americanwirenews.com/amazon-ceo-orders-entitled-workers-back-to-the-office-for-5-day-work-week/)
 
-[‘Auto Workers for Trump’ leader claims thousands of union members could dump Dems over green agenda](https://americanwirenews.com/auto-workers-for-trump-leader-claims-thousands-of-union-members-could-dump-dems-over-green-agenda/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-flperpwalk-1200-x-628-1200x630.jpg)](https://americanwirenews.com/11-year-old-florida-student-arrested-after-boasting-about-arsenal-of-weapons-kill-list/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-trump-jr-1200x630.jpg)
+[11-year-old Florida student arrested after boasting about arsenal of weapons, ‘kill list’](https://americanwirenews.com/11-year-old-florida-student-arrested-after-boasting-about-arsenal-of-weapons-kill-list/)
 
-### Don Jr reveals impact of telling his kids about people out to kill grandpa: ‘No person should have to do this’](https://americanwirenews.com/don-jr-reveals-impact-of-telling-his-kids-about-people-out-to-kill-grandpa-no-person-should-have-to-do-this/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-outnumbered3-1200-x-628-1200x630.jpg)
+
+### Dems have put Republicans in the ‘Hitler box’ and now ‘anything is justified’](https://americanwirenews.com/dems-have-put-republicans-in-the-hitler-box-and-now-anything-is-justified/)
 
 [THE WIRE...](https://americanwirenews.com/category/the-wire/)
 
@@ -77,6 +79,28 @@ Search for:
 ### [‘Beat makes me feel some type of way’: Social media goes wild over viral ‘Eat The Cat’ Trump remix](https://americanwirenews.com/beat-makes-me-feel-some-type-of-way-social-media-goes-wild-over-viral-eat-the-cat-trump-remix/)
 
 ### [LATEST](https://www.commdiginews.com/category/latest/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-rrouth-1200-x-628-220x180.jpg)](https://americanwirenews.com/would-be-trump-assassin-kept-a-whole-live-horse-in-the-house-neighbor-reveals-weirdness/)
+
+[Would-be Trump assassin kept a ‘whole live horse’ in the house, neighbor reveals weirdness](https://americanwirenews.com/would-be-trump-assassin-kept-a-whole-live-horse-in-the-house-neighbor-reveals-weirdness/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-plaskett-220x180.jpg)](https://americanwirenews.com/trump-needs-to-be-shot-slip-resurfaces-amid-second-attempt-on-trumps-life/)
+
+[‘Trump needs to be shot’ slip resurfaces amid second attempt on Trump’s life](https://americanwirenews.com/trump-needs-to-be-shot-slip-resurfaces-amid-second-attempt-on-trumps-life/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2022/03/RF-Getty-oops-surprised-delete-shocked-regret-e1622126785748-220x180.jpg)](https://americanwirenews.com/the-most-absurd-headlines-about-assassination-attempt-on-trump-dont-come-from-the-babylon-bee/)
+
+[The MOST absurd headlines about assassination attempt on Trump don’t come from the Babylon Bee!](https://americanwirenews.com/the-most-absurd-headlines-about-assassination-attempt-on-trump-dont-come-from-the-babylon-bee/)
+
+Getty Images
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-ron-desantis-220x180.png)](https://americanwirenews.com/desantis-shows-chops-rejects-feds-who-are-prosecuting-trump-also-investigating-attempt-on-his-life/)
+
+[DeSantis shows chops, rejects feds who are prosecuting Trump also investigating attempt on his life](https://americanwirenews.com/desantis-shows-chops-rejects-feds-who-are-prosecuting-trump-also-investigating-attempt-on-his-life/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-harris-sign-220x180.jpg)](https://americanwirenews.com/ohio-sheriff-tracks-kamala-harris-yard-signs-so-he-can-send-illegal-immigrants-to-homes-if-she-wins/)
+
+[Ohio sheriff tracks Kamala Harris yard signs so he can send illegal immigrants to homes if she wins](https://americanwirenews.com/ohio-sheriff-tracks-kamala-harris-yard-signs-so-he-can-send-illegal-immigrants-to-homes-if-she-wins/)
 
 [![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-chapman-220x180.jpg)](https://americanwirenews.com/ex-nba-star-implores-media-to-ignore-2nd-attempt-on-trumps-life-stay-focused-on-cats-in-ohio/)
 
@@ -155,26 +179,6 @@ Search for:
 [![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-joe-biden-1-220x180.png)](https://americanwirenews.com/you-dont-talk-to-a-dog-that-way-angry-biden-snaps-at-reporter-who-asks-him-a-question/)
 
 [‘You don’t talk to a dog that way’: Angry Biden snaps at reporter who asks him a question](https://americanwirenews.com/you-dont-talk-to-a-dog-that-way-angry-biden-snaps-at-reporter-who-asks-him-a-question/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-kamala-nytimes-split-1200-x-628-220x180.jpg)](https://americanwirenews.com/ny-times-says-election-results-may-take-days-warns-against-false-impression-of-winner/)
-
-[NY Times says election results may take days, warns against ‘false impression’ of winner](https://americanwirenews.com/ny-times-says-election-results-may-take-days-warns-against-false-impression-of-winner/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-luna-220x180.jpg)](https://americanwirenews.com/i-know-where-she-lives-anna-paulina-luna-points-to-dem-opponent-over-doxxing-other-threats/)
-
-[‘I know where she lives’: Anna Paulina Luna points to Dem opponent over doxxing, other threats](https://americanwirenews.com/i-know-where-she-lives-anna-paulina-luna-points-to-dem-opponent-over-doxxing-other-threats/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-rick-wilson-220x180.png)](https://americanwirenews.com/trump-wants-someone-to-be-killed-rick-wilson-ups-dangerous-rhetoric-in-backing-haitian-migrants/)
-
-[‘Trump wants someone to be killed’: Rick Wilson ups dangerous rhetoric in backing Haitian migrants](https://americanwirenews.com/trump-wants-someone-to-be-killed-rick-wilson-ups-dangerous-rhetoric-in-backing-haitian-migrants/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-harris-1-220x180.jpg)](https://americanwirenews.com/unprepared-for-office-kamala-harris-comes-off-as-empty-vessel-in-first-solo-interview/)
-
-[‘Unprepared for office’: Kamala Harris comes off as empty vessel in first solo interview](https://americanwirenews.com/unprepared-for-office-kamala-harris-comes-off-as-empty-vessel-in-first-solo-interview/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-trump-beck-split-1200-x-628-220x180.jpg)](https://americanwirenews.com/glenn-beck-says-arena-show-with-energetic-trump-likely-he-is-so-different-since-he-was-shot/)
-
-[Glenn Beck says ‘arena show’ with energetic Trump likely: ‘He is so different since he was shot’](https://americanwirenews.com/glenn-beck-says-arena-show-with-energetic-trump-likely-he-is-so-different-since-he-was-shot/)
 
 Start today! **Enjoy the REAL news** at your fingertips. You could be getting the best stories in your inbox twice a day.
 
