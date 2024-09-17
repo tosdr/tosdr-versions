@@ -84,7 +84,7 @@ Pour découvrir l'école et t'aider à choisir la ou les disciplines qui te fero
 À ne pas manquer en ce moment!
 ------------------------------
 
-[![image Cuisses-Abdos-Fessiers](/storage/highlights/58947/highlight.webp?v=244247)
+[![image Cuisses-Abdos-Fessiers](/storage/highlights/58947/highlight.webp?v=454791)
 
 ##### Cuisses-Abdos-Fessiers
 
@@ -92,7 +92,7 @@ mer. 18 septembre 2024 - **20:30** à Crissier salle 2
 
 Tonifies tes abdominaux, gagne en fermeté et galbe ton fessier grâce à une large gamme de mouvement qui...](https://app.pole-emotion.ch/cours/58947)[](https://app.pole-emotion.ch/evjf)
 
-[![image pour Pensez aux Enterrements Vie de Jeunes Filles](/storage/highlights/newsflash/highlight.webp?v=246032)](https://app.pole-emotion.ch/evjf)
+[![image pour Pensez aux Enterrements Vie de Jeunes Filles](/storage/highlights/newsflash/highlight.webp?v=456616)](https://app.pole-emotion.ch/evjf)
 
 [##### Pensez aux Enterrements Vie de Jeunes Filles](https://app.pole-emotion.ch/evjf)
 
