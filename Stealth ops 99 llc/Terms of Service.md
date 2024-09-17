@@ -22,7 +22,7 @@
 
 **Here's how:**
 
-**Contact our friendly customer concierge team at 866-721-1050 or send an email to [\[email protected\]](https://tactical.stealthops99.com/cdn-cgi/l/email-protection) .**
+**Contact our friendly customer concierge team at (888) 983-0047 or send an email to [\[email protected\]](https://tactical.stealthops99.com/cdn-cgi/l/email-protection) .**
 
 **They will verify your order (give them your name and order ID)**
 
@@ -34,7 +34,7 @@
 
 **Return policy – if for any reason you are not satisfied, or just want to exchange it for credit towards a quality Stealth Ops 99 LLC product, you are fully guaranteed by our 60-day return/exchange period.**
 
-**Cancellation policy — Customers can cancel their order any time, simply call 866-721-1050 or email to [\[email protected\]](https://tactical.stealthops99.com/cdn-cgi/l/email-protection).**
+**Cancellation policy — Customers can cancel their order any time, simply call (888) 983-0047 or email to [\[email protected\]](https://tactical.stealthops99.com/cdn-cgi/l/email-protection).**
 
 **\--------------------------**
 
