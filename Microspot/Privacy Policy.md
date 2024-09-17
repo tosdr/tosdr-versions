@@ -64,7 +64,7 @@ Vous avez désactivé JavaScript dans votre navigateur. Veuillez activer JavaScr
 Recherche de succursale
 -----------------------
 
-![Direction de la succursale](/medien/id/marketing/filialleiter/7048.jpg)
+![Direction de la succursale](/medien/id/marketing/filialleiter/2876.jpg)
 
 Nous vous conseillons volontiers.
 
@@ -113,10 +113,6 @@ NPU explique : Le moteur de l'IA](https://www.microspot.ch/fr/cms/npu-explique)
 
 Gaming](https://www.microspot.ch/fr/cms/gaming)
 
-[![80x80_Icon_Pool.png](/medias/80x80-Icon-Pool.png?context=bWFzdGVyfGNtc3wxNTYzfGltYWdlL3BuZ3xhRGMyTDJoalpTODRNSGc0TUY5SlkyOXVYMUJ2YjJ3dWNHNW5VM1JoWjJWa2IzQjBhVzFwZW1Wa0x6Z3dlRGd3WDBsamIyNWZVRzl2YkM1d2JtZFRkR0ZuWldSdmNIUnBiV2w2WldRfGMzM2Q4YWIzMjRjNzk2YmFkYzk5NjU4ZmI4M2ViNzFjODVjNGM1MDY0ZGJlOGMzMWMwODdjODlmZjBhODA4OWM)
-
-Piscine](https://www.microspot.ch/fr/cms/piscines-pataugeoires)
-
 [![80x80_Icon_Grill.png](/medias/80x80-Icon-Grill.png?context=bWFzdGVyfGNtc3w1NTR8aW1hZ2UvcG5nfGFEbGxMMmhrT0M4NE1IZzRNRjlKWTI5dVgwZHlhV3hzTG5CdVoxTjBZV2RsWkc5d2RHbHRhWHBsWkM4NE1IZzRNRjlKWTI5dVgwZHlhV3hzTG5CdVoxTjBZV2RsWkc5d2RHbHRhWHBsWkF8YjgzNGVjMzgxNDI5ZWUzYWQyNWUxMjRiNjEwM2IzOTRmNGZhOTNjYTNhMTg5M2U2ODQzMjYwZmVkNDkxNTBmOA)
 
 Le temps du barbecue](https://www.microspot.ch/fr/cms/grill-time)
@@ -124,6 +120,10 @@ Le temps du barbecue](https://www.microspot.ch/fr/cms/grill-time)
 [![80x80_Icon_Raumklima.png](/medias/80x80-Icon-Raumklima.png?context=bWFzdGVyfGNtc3w2OTR8aW1hZ2UvcG5nfGFHRXhMMmd6TWk4NE1IZzRNRjlKWTI5dVgxSmhkVzFyYkdsdFlTNXdibWRUZEdGblpXUnZjSFJwYldsNlpXUXZPREI0T0RCZlNXTnZibDlTWVhWdGEyeHBiV0V1Y0c1blUzUmhaMlZrYjNCMGFXMXBlbVZrfDE5NGZhNjJjN2FjNDkyNzc5MzhmYzQ0NzMwM2EyY2Q3MGE5M2I2MmQ1YTViYzI0MzMzOWI4ZjJjNzcxZTM2YmE)
 
 Climat intérieur](https://www.microspot.ch/fr/cms/air-ambiant)
+
+[![80x80_Icon_Gadgets.png](/medias/80x80-Icon-Gadgets.png?context=bWFzdGVyfGNtc3w0Mjd8aW1hZ2UvcG5nfGFEZGxMMmhoWWk4NE1IZzRNRjlKWTI5dVgwZGhaR2RsZEhNdWNHNW5VM1JoWjJWa2IzQjBhVzFwZW1Wa0x6Z3dlRGd3WDBsamIyNWZSMkZrWjJWMGN5NXdibWRUZEdGblpXUnZjSFJwYldsNlpXUXw5ZGY3Y2EyNmFkOTZhZDdiODJjYzc5NzVjOGJkNTY5ZjMwOTdkNWIwNWM1MjEyMWE5NzE1YjI4ZWRiZTJlNGI1)
+
+Gadgets](https://www.microspot.ch/fr/cms/gadget)
 
 [![80x80_I24_Icons_016_Baby.png](/medias/80x80-I24-Icons-016-Baby.png?context=bWFzdGVyfGNtc3wxMTYyfGltYWdlL3BuZ3xhRGN4TDJnMFlpODRNSGc0TUY5Sk1qUmZTV052Ym5OZk1ERTJYMEpoWW5rdWNHNW5VM1JoWjJWa2IzQjBhVzFwZW1Wa0x6Z3dlRGd3WDBreU5GOUpZMjl1YzE4d01UWmZRbUZpZVM1d2JtZFRkR0ZuWldSdmNIUnBiV2w2WldRfDRkY2YxMjIzZDE2ZmQ0OWI2ZDA5Zjk1YzIyNjU2ODAwNTkwMjUxYTAzM2M4Njk4ZWExYzkwMGNlMWMzMDA3ZTY)
 
@@ -207,17 +207,17 @@ Inscrivez-vous à notre newsletter et soyez parmi les premiers à être informé
 Achetez comme vous aimez
 ------------------------
 
+[Frais de port gratuits pour livraison
+
+à domicile dès CHF 49.-](https://helpcenter.interdiscount.ch/s/?c__cun=Delivery_Collection&c__cl=Lieferung%20%26%20Abholung&language=fr)
+
 [Commandé aujourd'hui avant 20h
 
 livré le lendemain](https://helpcenter.interdiscount.ch/s/?c__cun=Delivery_Collection&c__cl=Lieferung%20%26%20Abholung&language=fr)
 
-[Garantie Plus
+[Retrait gratuit
 
-prolongation de 24 mois de la garantie du fabricant](https://www.microspot.ch/fr/cms/service/garantie-plus)
-
-[Frais de port gratuits pour livraison
-
-à domicile dès CHF 49.-](https://helpcenter.interdiscount.ch/s/?c__cun=Delivery_Collection&c__cl=Lieferung%20%26%20Abholung&language=fr)
+dans tous les magasins](https://helpcenter.interdiscount.ch/s/?c__cun=Delivery_Collection&c__cl=Lieferung%20%26%20Abholung&language=fr)
 
 interdiscount.ch
 
