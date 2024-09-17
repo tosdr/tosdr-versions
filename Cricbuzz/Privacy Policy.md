@@ -54,7 +54,13 @@ AllLive NowToday
 
 * INTERNATIONAL
     
-    England v Australia, 2024
+    Bangladesh v India 2024
+    
+    [India vs Bangladesh](https://www.cricbuzz.com/live-cricket-scores/100220/ind-vs-ban-1st-test-bangladesh-v-india-2024 "India v Bangladesh, 1st Test - Upcoming")
+    
+    1st Test
+    
+* England v Australia, 2024
     
     [England vs Australia](https://www.cricbuzz.com/live-cricket-scores/76542/eng-vs-aus-3rd-t20i-england-v-australia-2024 "England v Australia, 3rd T20I - Abandon")
     
@@ -94,11 +100,7 @@ AllLive NowToday
     
     CPL 2024
     
-    [Barbados Royals vs Guyana Amazon Warriors](https://www.cricbuzz.com/live-cricket-scores/92840/br-vs-gaw-16th-match-cpl-2024 "Barbados Royals v Guyana Amazon Warriors, 16th Match - BR Won")
-    
-    16th Match
-    
-* [Saint Lucia Kings vs Antigua and Barbuda Falcons](https://www.cricbuzz.com/live-cricket-scores/92849/slk-vs-abf-17th-match-cpl-2024 "Saint Lucia Kings v Antigua and Barbuda Falcons, 17th Match - SLK Won")
+    [Saint Lucia Kings vs Antigua and Barbuda Falcons](https://www.cricbuzz.com/live-cricket-scores/92849/slk-vs-abf-17th-match-cpl-2024 "Saint Lucia Kings v Antigua and Barbuda Falcons, 17th Match - SLK Won")
     
     17th Match
     
@@ -122,9 +124,25 @@ AllLive NowToday
     
     3rd Match
     
+* [India A vs India C](https://www.cricbuzz.com/live-cricket-scores/104234/inda-vs-indc-6th-match-duleep-trophy "India A v India C, 6th Match - Upcoming")
+    
+    6th Match
+    
+* [India B vs India D](https://www.cricbuzz.com/live-cricket-scores/104226/indb-vs-indd-5th-match-duleep-trophy "India B v India D, 5th Match - Upcoming")
+    
+    5th Match
+    
 * County Division 1
     
-    [Lancashire vs Somerset](https://www.cricbuzz.com/live-cricket-scores/84499/lancs-vs-som-63rd-match-county-division-1 "Lancashire v Somerset, 63rd Match - Preview")
+    [Warwickshire vs Essex](https://www.cricbuzz.com/live-cricket-scores/84509/warks-vs-ess-65th-match-county-division-1 "Warwickshire v Essex, 65th Match - Preview")
+    
+    65th Match
+    
+* [Surrey vs Durham](https://www.cricbuzz.com/live-cricket-scores/84502/sur-vs-dur-64th-match-county-division-1 "Surrey v Durham, 64th Match - Preview")
+    
+    64th Match
+    
+* [Lancashire vs Somerset](https://www.cricbuzz.com/live-cricket-scores/84499/lancs-vs-som-63rd-match-county-division-1 "Lancashire v Somerset, 63rd Match - Preview")
     
     63rd Match
     
@@ -135,14 +153,6 @@ AllLive NowToday
 * [Hampshire vs Worcestershire](https://www.cricbuzz.com/live-cricket-scores/84485/ham-vs-worcs-61st-match-county-division-1 "Hampshire v Worcestershire, 61st Match - Preview")
     
     61st Match
-    
-* [Warwickshire vs Essex](https://www.cricbuzz.com/live-cricket-scores/84509/warks-vs-ess-65th-match-county-division-1 "Warwickshire v Essex, 65th Match - Preview")
-    
-    65th Match
-    
-* [Surrey vs Durham](https://www.cricbuzz.com/live-cricket-scores/84502/sur-vs-dur-64th-match-county-division-1 "Surrey v Durham, 64th Match - Preview")
-    
-    64th Match
     
 * County Division 2
     
@@ -521,39 +531,39 @@ This Privacy Policy (the “**Privacy Policy**”) serves to inform you of our p
 
 #### LATEST NEWS
 
+  [](https://www.cricbuzz.com/cricket-news/131641/south-africa-womens-tour-of-pakistan-2024-series-digest "South Africa Women's tour of Pakistan, 2024 - Series Digest ")
+
+[South Africa Women's tour of Pakistan, 2024 - Series Digest](https://www.cricbuzz.com/cricket-news/131641/south-africa-womens-tour-of-pakistan-2024-series-digest "South Africa Women's tour of Pakistan, 2024 - Series Digest ")
+
+4h ago
+
+  [](https://www.cricbuzz.com/cricket-news/131640/icc-cricket-world-cup-league-two-2023-27-series-digest "ICC Cricket World Cup League Two 2023-27 - Series Digest ")
+
+[ICC Cricket World Cup League Two 2023-27 - Series Digest](https://www.cricbuzz.com/cricket-news/131640/icc-cricket-world-cup-league-two-2023-27-series-digest "ICC Cricket World Cup League Two 2023-27 - Series Digest ")
+
+5h ago
+
   [](https://www.cricbuzz.com/cricket-news/131639/bangladesh-rely-on-shadman-to-keep-his-head-steady "Bangladesh rely on Shadman to keep his 'head' steady ")
 
 [Bangladesh rely on Shadman to keep his 'head' steady](https://www.cricbuzz.com/cricket-news/131639/bangladesh-rely-on-shadman-to-keep-his-head-steady "Bangladesh rely on Shadman to keep his 'head' steady ")
 
-10h ago
+16h ago
 
   [](https://www.cricbuzz.com/cricket-news/131638/oshada-fernando-returns-for-new-zealand-tests "Oshada Fernando returns for New Zealand Tests")
 
 [Oshada Fernando returns for New Zealand Tests](https://www.cricbuzz.com/cricket-news/131638/oshada-fernando-returns-for-new-zealand-tests "Oshada Fernando returns for New Zealand Tests")
 
-17h ago
+23h ago
 
   [](https://www.cricbuzz.com/cricket-news/131637/green-all-round-efforts-in-vain-as-kings-secure-comfortable-win "Green all-round efforts in vain as Kings secure comfortable win")
 
 [Green all-round efforts in vain as Kings secure comfortable win](https://www.cricbuzz.com/cricket-news/131637/green-all-round-efforts-in-vain-as-kings-secure-comfortable-win "Green all-round efforts in vain as Kings secure comfortable win")
 
-20h ago
+1d ago
 
   [](https://www.cricbuzz.com/cricket-news/131636/can-kuldeep-be-the-ace-when-the-pack-shuffles "Can Kuldeep be the ace when the pack shuffles?")
 
 [Can Kuldeep be the ace when the pack shuffles?](https://www.cricbuzz.com/cricket-news/131636/can-kuldeep-be-the-ace-when-the-pack-shuffles "Can Kuldeep be the ace when the pack shuffles?")
-
-23h ago
-
-  [](https://www.cricbuzz.com/cricket-news/131635/akhilesh-bodugum-spinning-his-own-theory-of-evolution "Akhilesh Bodugum spinning his own theory of evolution")
-
-[Akhilesh Bodugum spinning his own theory of evolution](https://www.cricbuzz.com/cricket-news/131635/akhilesh-bodugum-spinning-his-own-theory-of-evolution "Akhilesh Bodugum spinning his own theory of evolution")
-
-1d ago
-
-  [](https://www.cricbuzz.com/cricket-news/131634/series-decider-abandoned-after-persistent-rain "Series decider abandoned after persistent rain")
-
-[Series decider abandoned after persistent rain](https://www.cricbuzz.com/cricket-news/131634/series-decider-abandoned-after-persistent-rain "Series decider abandoned after persistent rain")
 
 1d ago
 
