@@ -20,16 +20,16 @@ Tuesday, September 17 2024
 
 Latest
 
-* [Swiss supercomputer Alps comes online, aimed at complex AI development](https://digitpatrox.com/swiss-supercomputer-alps-comes-online-aimed-at-complex-ai-development/)
-* [Master IT Fundamentals With This CompTIA Certification Prep Bundle](https://digitpatrox.com/master-it-fundamentals-with-this-comptia-certification-prep-bundle/)
-* [Forget October Prime Day — every Fire TV Stick is on sale now from just $19](https://digitpatrox.com/forget-october-prime-day-every-fire-tv-stick-is-on-sale-now-from-just-19/)
-* [Why didn’t Apple do more to update the AirPods Max?](https://digitpatrox.com/why-didnt-apple-do-more-to-update-the-airpods-max/)
-* [OpenAI Confirms ChatGPT Did Message Users First, But It Won’t Anymore](https://digitpatrox.com/openai-confirms-chatgpt-did-message-users-first-but-it-wont-anymore/)
-* [Vendor Spotlight: SuperOps](https://digitpatrox.com/vendor-spotlight-superops/)
-* [The Biggest New iOS 18 Now on Your iPhone](https://digitpatrox.com/the-biggest-new-ios-18-now-on-your-iphone/)
-* [Vendor Spotlight: Zoho](https://digitpatrox.com/vendor-spotlight-zoho/)
-* [Best Bike Helmets of 2024](https://digitpatrox.com/best-bike-helmets-of-2024/)
-* [I Wish Android Phones Had This](https://digitpatrox.com/i-wish-android-phones-had-this/)
+* [How to disable Lock Screen on Windows 10](https://digitpatrox.com/how-to-disable-lock-screen-on-windows-10/)
+* [The Downsides of Disinfecting Wipes](https://digitpatrox.com/the-downsides-of-disinfecting-wipes/)
+* [I Have One Subscription for Hundreds of Mac Apps—Should You?](https://digitpatrox.com/i-have-one-subscription-for-hundreds-of-mac-apps-should-you/)
+* [Securing your business with education and training](https://digitpatrox.com/securing-your-business-with-education-and-training/)
+* [Australian IT Spending to Surge in 2025: Cybersecurity & AI Focus](https://digitpatrox.com/australian-it-spending-to-surge-in-2025-cybersecurity-ai-focus/)
+* [Early Prime Day sale live on Amazon apparel — shop jeans, sweaters and more from $10](https://digitpatrox.com/early-prime-day-sale-live-on-amazon-apparel-shop-jeans-sweaters-and-more-from-10/)
+* [How to use macOS Terminal and what it’s useful for](https://digitpatrox.com/how-to-use-macos-terminal-and-what-its-useful-for/)
+* [Exploding pagers kill at least eight and injure thousands in an attack on Hezbollah](https://digitpatrox.com/exploding-pagers-kill-at-least-eight-and-injure-thousands-in-an-attack-on-hezbollah/)
+* [How to Unhide Apps on iPhone in iOS 18](https://digitpatrox.com/how-to-unhide-apps-on-iphone-in-ios-18/)
+* [Medusa ransomware gang claims responsibility for cyber attack on Providence, RI schools](https://digitpatrox.com/medusa-ransomware-gang-claims-responsibility-for-cyber-attack-on-providence-ri-schools/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,35 +171,35 @@ Popular Posts
     4 weeks ago
     
 
-* [![](https://cdn.mos.cms.futurecdn.net/aAXQtPwrU5SDa4qDbjF8J8-1200-80.jpg)](https://digitpatrox.com/swiss-supercomputer-alps-comes-online-aimed-at-complex-ai-development/)
+* [![](https://pureinfotech.com/wp-content/uploads/2023/10/windows-10-disable-lock-screen-hero-mauro-huculak.webp)](https://digitpatrox.com/how-to-disable-lock-screen-on-windows-10/)
     
-    [Swiss supercomputer Alps comes online, aimed at complex AI development](https://digitpatrox.com/swiss-supercomputer-alps-comes-online-aimed-at-complex-ai-development/)
+    [How to disable Lock Screen on Windows 10](https://digitpatrox.com/how-to-disable-lock-screen-on-windows-10/)
     
-    24 mins ago
+    16 mins ago
     
-* [![](https://assets.techrepublic.com/uploads/2024/09/tra_20240910-the-all-in-one-comptia-certifications-prep-courses-bundle.jpg)](https://digitpatrox.com/master-it-fundamentals-with-this-comptia-certification-prep-bundle/)
+* [![](https://article.images.consumerreports.org/image/upload/t_article_tout/v1725552920/prod/content/dam/CRO-Images-2024/Health/CR-Health-InlineHero-Why-Parents-Should-Be-Cautious-When-Using-Household-Disinfectants-0924)](https://digitpatrox.com/the-downsides-of-disinfecting-wipes/)
     
-    [Master IT Fundamentals With This CompTIA Certification Prep Bundle](https://digitpatrox.com/master-it-fundamentals-with-this-comptia-certification-prep-bundle/)
+    [The Downsides of Disinfecting Wipes](https://digitpatrox.com/the-downsides-of-disinfecting-wipes/)
     
     25 mins ago
     
-* [![](https://cdn.mos.cms.futurecdn.net/b5KuEZPDt6wXK2zj5mrFDQ-1200-80.jpg)](https://digitpatrox.com/forget-october-prime-day-every-fire-tv-stick-is-on-sale-now-from-just-19/)
+* [![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/09/a-macbook-with-the-setapp-logo-and-some-apps-in-the-background.jpg)](https://digitpatrox.com/i-have-one-subscription-for-hundreds-of-mac-apps-should-you/)
     
-    [Forget October Prime Day — every Fire TV Stick is on sale now from just $19](https://digitpatrox.com/forget-october-prime-day-every-fire-tv-stick-is-on-sale-now-from-just-19/)
+    [I Have One Subscription for Hundreds of Mac Apps—Should You?](https://digitpatrox.com/i-have-one-subscription-for-hundreds-of-mac-apps-should-you/)
     
-    43 mins ago
+    26 mins ago
     
-* [![](https://cdn.vox-cdn.com/thumbor/5Fg2WoApmhaDFTj5-vzuTiN5OLo=/0x0:4726x3027/1200x628/filters:focal(2363x1514:2364x1515)/cdn.vox-cdn.com/uploads/chorus_asset/file/25617254/Sleeping_on_AirPods_Max.png)](https://digitpatrox.com/why-didnt-apple-do-more-to-update-the-airpods-max/)
+* [![](https://cdn.mos.cms.futurecdn.net/LSRN86rKvdXginPCasTAiG-1200-80.jpg)](https://digitpatrox.com/securing-your-business-with-education-and-training/)
     
-    [Why didn’t Apple do more to update the AirPods Max?](https://digitpatrox.com/why-didnt-apple-do-more-to-update-the-airpods-max/)
+    [Securing your business with education and training](https://digitpatrox.com/securing-your-business-with-education-and-training/)
     
-    2 hours ago
+    1 hour ago
     
-* [![](https://beebom.com/wp-content/uploads/2024/09/chatgpt-initiated-conversation-with-a-reddit-user.jpeg)](https://digitpatrox.com/openai-confirms-chatgpt-did-message-users-first-but-it-wont-anymore/)
+* [![](https://assets.techrepublic.com/uploads/2024/09/tr_20240917-australian-it-spending-gartner-it-spending-forecast.jpg)](https://digitpatrox.com/australian-it-spending-to-surge-in-2025-cybersecurity-ai-focus/)
     
-    [OpenAI Confirms ChatGPT Did Message Users First, But It Won’t Anymore](https://digitpatrox.com/openai-confirms-chatgpt-did-message-users-first-but-it-wont-anymore/)
+    [Australian IT Spending to Surge in 2025: Cybersecurity & AI Focus](https://digitpatrox.com/australian-it-spending-to-surge-in-2025-cybersecurity-ai-focus/)
     
-    2 hours ago
+    1 hour ago
     
 
 ![](https://digitpatrox.com/wp-content/uploads/2023/12/Digitpatrox-NEW-Logo-White.png)
@@ -208,48 +208,48 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [24 mins ago
+* [16 mins ago
     
-    ### Swiss supercomputer Alps comes online, aimed at complex AI development](https://digitpatrox.com/swiss-supercomputer-alps-comes-online-aimed-at-complex-ai-development/)
+    ### How to disable Lock Screen on Windows 10](https://digitpatrox.com/how-to-disable-lock-screen-on-windows-10/)
 * [25 mins ago
     
-    ### Master IT Fundamentals With This CompTIA Certification Prep Bundle](https://digitpatrox.com/master-it-fundamentals-with-this-comptia-certification-prep-bundle/)
-* [43 mins ago
+    ### The Downsides of Disinfecting Wipes](https://digitpatrox.com/the-downsides-of-disinfecting-wipes/)
+* [26 mins ago
     
-    ### Forget October Prime Day — every Fire TV Stick is on sale now from just $19](https://digitpatrox.com/forget-october-prime-day-every-fire-tv-stick-is-on-sale-now-from-just-19/)
+    ### I Have One Subscription for Hundreds of Mac Apps—Should You?](https://digitpatrox.com/i-have-one-subscription-for-hundreds-of-mac-apps-should-you/)
 
 Most Popular Topics
 
-* [3 weeks ago
+* [5 days ago
     
-    ### How to protect your privacy in Windows 10 – Computerworld](https://digitpatrox.com/how-to-protect-your-privacy-in-windows-10-computerworld/)
+    ### How to install Microsoft Edge on Linux](https://digitpatrox.com/how-to-install-microsoft-edge-on-linux/)
 * [4 weeks ago
     
-    ### Download our remote IT support tools enterprise buyer’s guide](https://digitpatrox.com/download-our-remote-it-support-tools-enterprise-buyers-guide/)
-* [1 week ago
+    ### It’s Time to Order Compost and Mulch](https://digitpatrox.com/its-time-to-order-compost-and-mulch/)
+* [2 weeks ago
     
-    ### Google and DOJ’s ad tech fight is all about control](https://digitpatrox.com/google-and-dojs-ad-tech-fight-is-all-about-control/)
+    ### Sony’s New MDR-M1 Headphones Give You Studio-Quality Sound](https://digitpatrox.com/sonys-new-mdr-m1-headphones-give-you-studio-quality-sound/)
 
 Last Modified Topics
 
-* [4 hours ago
+* [3 hours ago
     
-    ### The Biggest New iOS 18 Now on Your iPhone](https://digitpatrox.com/the-biggest-new-ios-18-now-on-your-iphone/)
-* [4 hours ago
+    ### How to use macOS Terminal and what it’s useful for](https://digitpatrox.com/how-to-use-macos-terminal-and-what-its-useful-for/)
+* [3 hours ago
     
-    ### Vendor Spotlight: Zoho](https://digitpatrox.com/vendor-spotlight-zoho/)
-* [4 hours ago
+    ### Exploding pagers kill at least eight and injure thousands in an attack on Hezbollah](https://digitpatrox.com/exploding-pagers-kill-at-least-eight-and-injure-thousands-in-an-attack-on-hezbollah/)
+* [3 hours ago
     
-    ### Best Bike Helmets of 2024](https://digitpatrox.com/best-bike-helmets-of-2024/)
+    ### How to Unhide Apps on iPhone in iOS 18](https://digitpatrox.com/how-to-unhide-apps-on-iphone-in-ios-18/)
 
 Most Viewed Topics
 
-* [August 11, 2024
-    
-    ### US citizen charged with aiding North Korean hackers moonlighting as tech workers](https://digitpatrox.com/us-citizen-charged-with-aiding-north-korean-hackers-moonlighting-as-tech-workers/)
 * [August 13, 2024
     
-    ### TikTok Is Pushing Old and False News as ”Breaking” Alerts](https://digitpatrox.com/tiktok-is-pushing-old-and-false-news-as-breaking-alerts/)
+    ### Best New-Car Deals – Consumer Reports](https://digitpatrox.com/best-new-car-deals-consumer-reports/)
+* [August 13, 2024
+    
+    ### How to manage a road trip move](https://digitpatrox.com/how-to-manage-a-road-trip-move/)
 * [4 weeks ago
     
     ### Wordle Answer for Today, August 21, 2024](https://digitpatrox.com/wordle-answer-for-today-august-21-2024/)
