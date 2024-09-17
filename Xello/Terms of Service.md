@@ -50,7 +50,7 @@ This field is for validation purposes and should be left unchanged.
 
 ![xello-logo-3](//xello.world/wp-content/uploads/xello-logo.svg)](https://xello.world/en/)
 
-[Sign In](https://login.xello.world/) [Contact Sales](https://xello.world/en/demorequest/)
+[Sign In](https://login.xello.world/) [Demo Request](https://xello.world/en/demorequest/)
 
 * [How it Works](#)
     
@@ -86,7 +86,7 @@ This field is for validation purposes and should be left unchanged.
     
 
 * [Sign In](https://login.xello.world/)
-* [Contact Sales](https://xello.world/en/demorequest/)
+* [Demo Request](https://xello.world/en/demorequest/)
 
 Xello Terms of Service
 ----------------------
