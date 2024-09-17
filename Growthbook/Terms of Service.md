@@ -6,7 +6,7 @@ Product
 
 Solutions
 
-[For Fintech](https://www.growthbook.io/solutions/fintech)[For Edtech](https://www.growthbook.io/solutions/edtech)
+[For Fintech](https://www.growthbook.io/solutions/fintech)[For Health Tech](https://www.growthbook.io/solutions/health-tech)[For Ed-Tech](https://www.growthbook.io/solutions/edtech)
 
 Resources
 
