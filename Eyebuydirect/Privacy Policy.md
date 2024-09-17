@@ -28,11 +28,11 @@
     
     [Eco Friendly![Eco Friendly](https://img.ebdcdn.com/cms/eco_frindly_icon_update_66c789cf2e.gif)](https://www.eyebuydirect.com/collections/sustainability "Eco Friendly")
     
-    [![Out West](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    [![The Essentials Collection](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
     
-    ![Out West](https://img.ebdcdn.com/cms/Top_Nav_320_424_56bcec9687.jpg?q=85&seo=out-west)
+    ![The Essentials Collection](https://img.ebdcdn.com/cms/Top_Nav_320_424_c4a2174a7d.jpg?q=85&seo=the-essentials)
     
-    Out West](https://www.eyebuydirect.com/collections/out-west "Out West")[![Tan France x eyebuydirect](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    The Essentials](https://www.eyebuydirect.com/collections/the-essentials "The Essentials")[![Tan France x eyebuydirect](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
     
     ![Tan France x eyebuydirect](https://img.ebdcdn.com/cms/Top_Nav_320_424_72b63d1c13.jpg?q=85&seo=tan-france-x-eyebuydirect)
     
