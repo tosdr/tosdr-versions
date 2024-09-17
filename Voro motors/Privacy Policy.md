@@ -1,6 +1,6 @@
 [Skip to main content](#skip-main)
 
-Scooters and Bikes ship within 1 business day
+Due to payment gateway issues, for credit/debit card payments, please use Paypal/Klarna and select pay in full using your Visa/Master Card.
 
 Menu [![VORO MOTORS](//www.voromotors.com/cdn/shop/files/logo_white_410x.png?v=1613759451)](https://www.voromotors.com/ "VORO MOTORS")
 
@@ -116,7 +116,7 @@ Menu [![VORO MOTORS](//www.voromotors.com/cdn/shop/files/logo_white_410x.png?v=1
         * [Contact Us](https://www.voromotors.com/pages/contact-us)
     *  [](#)
 * [Community](https://forum.voromotors.com/public/)
-* [Login](https://www.voromotors.com/customer_identity/redirect?locale=en)
+* [Login](https://account.voromotors.com/?locale=en)
 * English
     
     * English
@@ -130,7 +130,7 @@ Menu [![VORO MOTORS](//www.voromotors.com/cdn/shop/files/logo_white_410x.png?v=1
     * EUR
     * JPY
 
-Scooters and Bikes ship within 1 business day
+Due to payment gateway issues, for credit/debit card payments, please use Paypal/Klarna and select pay in full using your Visa/Master Card.
 
 * [](https://www.facebook.com/voromotors/?hc_ref=ARQt5oqSRDb3O_2dEeqJf59C-0aG1zH3i68aiYoxYjZddTaL3EBY2I-npawa3-pm4zY&fref=nf&__xts__[0]=68.ARBnR8fjq1PI-62n0AGbymqjO7N1yW0RJu0-fc_uFFEiwGCxljiit_Cqr9RcgQSywZ9gXhwCLM9rWCyHk9BtF7kd7J4Zp0ay3rj9-wuGn6FvpyK3pQhZGnD_jRYFDPhgQg00Bahz2QH9qjJcsbvnGurdzantzaIoLXFjQBUesFZQ0hu5P2V_m0jsAFF4-spGlFIhonboGzEhhvyK8m22L7XU_fmStWE3-GWxJdGVI_aPRBfTJm_42V5uqUk46OE1wIRkFnysjCUacVYdvKvPdzGJEbjV7nBu6FdQhyTA0F8ochmKtT8_epk&__tn__=kC-R "VORO MOTORS on Facebook")
 * [](https://www.youtube.com/c/VOROMOTORS?sub_confirmation=1 "VORO MOTORS on YouTube")
@@ -622,6 +622,6 @@ English
 
 © 2024 [VORO MOTORS](https://www.voromotors.com/).
 
-American Express Apple Pay Diners Club Discover Meta Pay Google Pay Mastercard PayPal Shop Pay Venmo Visa
+PayPal Venmo
 
  Search
