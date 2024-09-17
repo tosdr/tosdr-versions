@@ -85,11 +85,11 @@ Top downloads
 
 Latest releases
 
+* [Boomertrix](https://www.myabandonware.com/game/boomertrix-rxf)
+* [Vette!](https://www.myabandonware.com/game/vette-sv)
+* [Battle Rage](https://www.myabandonware.com/game/battle-rage-rxe)
 * [Kickle Cubicle](https://www.myabandonware.com/game/kickle-cubicle-9mt)
 * [SegaSonic The Hedgehog](https://www.myabandonware.com/game/segasonic-the-hedgehog-sdr)
-* [Sky Chuter](https://www.myabandonware.com/game/sky-chuter-sdq)
-* [Sindbad Mystery](https://www.myabandonware.com/game/sindbad-mystery-sdp)
-* [Side Trak](https://www.myabandonware.com/game/side-trak-sdo)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [Facebook](https://www.facebook.com/myabandonware) or [X (Twitter)](https://x.com/myabandonware)
