@@ -2,14 +2,14 @@ Tuesday, September 17 2024
 
 Breaking News
 
+* [12 Democrats Warn Biden’s Natural Gas Freeze Could End Up Undermining Ukraine](https://www.conservativedailynews.com/2024/09/12-democrats-warn-bidens-natural-gas-freeze-could-end-up-undermining-ukraine/)
+* [Secret Service Head Admits Need For ‘Paradigm Shift’ In Presidential Protection After Second Assassination Attempt On Trump](https://www.conservativedailynews.com/2024/09/secret-service-head-admits-need-for-paradigm-shift-in-presidential-protection-after-second-assassination-attempt-on-trump/)
+* [Shoplifting And Vehicle Thefts Soared As Haitian Migrants Poured Into Ohio Town, Police Data Shows](https://www.conservativedailynews.com/2024/09/shoplifting-and-vehicle-thefts-soared-as-haitian-migrants-poured-into-ohio-town-police-data-shows/)
 * [BP Dumping Key Green Energy Business](https://www.conservativedailynews.com/2024/09/bp-dumping-key-green-energy-business/)
 * [FBI Tipped Off About Suspected Trump Gunman Ryan Wesley Routh’s Firearm Possession In 2019](https://www.conservativedailynews.com/2024/09/fbi-tipped-off-about-suspected-trump-gunman-ryan-wesley-rouths-firearm-possession-in-2019/)
 * [Trump Is Trailing Harris In Key Demographic — But There Is Still Hope He Can Make Up Ground](https://www.conservativedailynews.com/2024/09/trump-is-trailing-harris-in-key-demographic-but-there-is-still-hope-he-can-make-up-ground/)
 * [Dem Senators Push For Gargantuan Rate Cut As Election Day Draws Near](https://www.conservativedailynews.com/2024/09/dem-senators-push-for-gargantuan-rate-cut-as-election-day-draws-near/)
 * [Supreme Court’s Move To Gut Administrative State Tees Up Trouble For Biden’s Green Power Plant Rules](https://www.conservativedailynews.com/2024/09/supreme-courts-move-to-gut-administrative-state-tees-up-trouble-for-bidens-green-power-plant-rules/)
-* [Springfield, Ohio, Small Town America And Kamala’s Open Border](https://www.conservativedailynews.com/2024/09/springfield-ohio-small-town-america-and-kamalas-open-border/)
-* [President Joe Biden’s Schedule for Tuesday, September 17, 2024](https://www.conservativedailynews.com/2024/09/president-joe-bidens-schedule-for-tuesday-september-17-2024/)
-* [White House Press Briefing with Karine Jean-Pierre – 9/17/24](https://www.conservativedailynews.com/2024/09/white-house-press-briefing-with-karine-jean-pierre-9-17-24/)
 
 * [Sidebar](#)
 * [Random Article](https://www.conservativedailynews.com/privacy-policy/?random-post=1 "Random Article")
@@ -111,21 +111,49 @@ Your donations help us purchase content, pay for servers, and reduce advertising
 
 Created using the Donation Thermometer plugin https://wordpress.org/plugins/donation-thermometer/.47%
 
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2022/11/Dennis-Prager-220x150.jpg)](https://www.conservativedailynews.com/2024/09/the-reasons-young-women-embrace-the-left-do-not-reflect-well-on-those-women/)
+    
+    [The Reasons Young Women Embrace the Left Do Not Reflect Well on Those Women](https://www.conservativedailynews.com/2024/09/the-reasons-young-women-embrace-the-left-do-not-reflect-well-on-those-women/)
+    
+    September 17, 2024
+    
 * [![](https://www.conservativedailynews.com/wp-content/uploads/2024/09/Bodycam-arrest-of-Ryan-Wesley-Routh-220x150.jpg)](https://www.conservativedailynews.com/2024/09/police-release-bodycam-footage-of-arrest-of-alleged-would-be-trump-assassin/)
     
     [Police Release Bodycam Footage Of Arrest Of Alleged Would-Be Trump Assassin](https://www.conservativedailynews.com/2024/09/police-release-bodycam-footage-of-arrest-of-alleged-would-be-trump-assassin/)
     
     September 16, 2024
     
-* [![Bills unpaid past due broke](https://www.conservativedailynews.com/wp-content/uploads/2023/09/past-due-unpaid-bills-220x150.jpg)](https://www.conservativedailynews.com/2024/09/ibm-vice-chairman-says-consumers-are-under-enormous-pressure-warns-of-economic-softness/)
-    
-    [IBM Vice Chairman Says Consumers Are ‘Under Enormous Pressure,’ Warns Of Economic ‘Softness’](https://www.conservativedailynews.com/2024/09/ibm-vice-chairman-says-consumers-are-under-enormous-pressure-warns-of-economic-softness/)
-    
-    September 15, 2024
-    
 
 Recent Posts
 
+* [![gas prices energy policy biden admin](https://www.conservativedailynews.com/wp-content/uploads/2022/06/mrz061622dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/09/12-democrats-warn-bidens-natural-gas-freeze-could-end-up-undermining-ukraine/)
+    
+    [12 Democrats Warn Biden’s Natural Gas Freeze Could End Up Undermining Ukraine](https://www.conservativedailynews.com/2024/09/12-democrats-warn-bidens-natural-gas-freeze-could-end-up-undermining-ukraine/)
+    
+    September 17, 2024
+    
+* [![Supreme Court](https://www.conservativedailynews.com/wp-content/uploads/2022/05/01-SCOTUS-Integri-LA-1080-220x150.jpg)](https://www.conservativedailynews.com/2024/09/court-watchers-point-to-supreme-courts-liberal-wing-as-likely-culprit-behind-latest-leak/)
+    
+    [Court Watchers Point To Supreme Court’s Liberal Wing As Likely Culprit Behind Latest Leak](https://www.conservativedailynews.com/2024/09/court-watchers-point-to-supreme-courts-liberal-wing-as-likely-culprit-behind-latest-leak/)
+    
+    September 17, 2024
+    
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/09/Second-assassination-attempt-on-Trump-220x150.jpg)](https://www.conservativedailynews.com/2024/09/secret-service-head-admits-need-for-paradigm-shift-in-presidential-protection-after-second-assassination-attempt-on-trump/)
+    
+    [Secret Service Head Admits Need For ‘Paradigm Shift’ In Presidential Protection After Second Assassination Attempt On Trump](https://www.conservativedailynews.com/2024/09/secret-service-head-admits-need-for-paradigm-shift-in-presidential-protection-after-second-assassination-attempt-on-trump/)
+    
+    September 17, 2024
+    
+* [NOAA Launches Probe Into RFK Jr. Over Dead Whale Carcass](https://www.conservativedailynews.com/2024/09/noaa-launches-probe-into-rfk-jr-over-dead-whale-carcass/)
+    
+    September 17, 2024
+    
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2022/11/512px-Do_Not_Cross_Crime_Scene-220x150.jpg)](https://www.conservativedailynews.com/2024/09/shoplifting-and-vehicle-thefts-soared-as-haitian-migrants-poured-into-ohio-town-police-data-shows/)
+    
+    [Shoplifting And Vehicle Thefts Soared As Haitian Migrants Poured Into Ohio Town, Police Data Shows](https://www.conservativedailynews.com/2024/09/shoplifting-and-vehicle-thefts-soared-as-haitian-migrants-poured-into-ohio-town-police-data-shows/)
+    
+    September 17, 2024
+    
 * [![](https://www.conservativedailynews.com/wp-content/uploads/2023/11/Wind-Turbine-Wind-Power-broken-burning-220x150.jpg)](https://www.conservativedailynews.com/2024/09/bp-dumping-key-green-energy-business/)
     
     [BP Dumping Key Green Energy Business](https://www.conservativedailynews.com/2024/09/bp-dumping-key-green-energy-business/)
@@ -144,49 +172,19 @@ Recent Posts
     
     September 17, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2021/11/Federal-Reserve-220x150.jfif)](https://www.conservativedailynews.com/2024/09/dem-senators-push-for-gargantuan-rate-cut-as-election-day-draws-near/)
-    
-    [Dem Senators Push For Gargantuan Rate Cut As Election Day Draws Near](https://www.conservativedailynews.com/2024/09/dem-senators-push-for-gargantuan-rate-cut-as-election-day-draws-near/)
-    
-    September 17, 2024
-    
-* [![Joe Biden not sure signing considering confused sad upset](https://www.conservativedailynews.com/wp-content/uploads/2021/12/Joe-Biden-not-sure-signing-considering-confused-220x150.png)](https://www.conservativedailynews.com/2024/09/supreme-courts-move-to-gut-administrative-state-tees-up-trouble-for-bidens-green-power-plant-rules/)
-    
-    [Supreme Court’s Move To Gut Administrative State Tees Up Trouble For Biden’s Green Power Plant Rules](https://www.conservativedailynews.com/2024/09/supreme-courts-move-to-gut-administrative-state-tees-up-trouble-for-bidens-green-power-plant-rules/)
-    
-    September 17, 2024
-    
-* [![Kamala Harris illegal immigration border crisis 2024 election](https://www.conservativedailynews.com/wp-content/uploads/2024/07/stg072524dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/09/springfield-ohio-small-town-america-and-kamalas-open-border/)
-    
-    [Springfield, Ohio, Small Town America And Kamala’s Open Border](https://www.conservativedailynews.com/2024/09/springfield-ohio-small-town-america-and-kamalas-open-border/)
-    
-    September 17, 2024
-    
-* [![Kamala Harris Joe Biden dangerous rhetoric](https://www.conservativedailynews.com/wp-content/uploads/2024/09/stg091724dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/09/dangerous-rhetoric/)
-    
-    [Dangerous Rhetoric](https://www.conservativedailynews.com/2024/09/dangerous-rhetoric/)
-    
-    September 17, 2024
-    
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2022/11/Dennis-Prager-220x150.jpg)](https://www.conservativedailynews.com/2024/09/the-reasons-young-women-embrace-the-left-do-not-reflect-well-on-those-women/)
-    
-    [The Reasons Young Women Embrace the Left Do Not Reflect Well on Those Women](https://www.conservativedailynews.com/2024/09/the-reasons-young-women-embrace-the-left-do-not-reflect-well-on-those-women/)
-    
-    September 17, 2024
-    
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
 
+* [Indicted: Rapper Sean “Diddy” Combs Alleged to Have Used Guns to Intimidate Victims, Force Participants in Sex Parties](https://www.thegunpage.com/indicted-rapper-sean-diddy-combs-alleged-to-have-used-guns-to-intimidate-victims-force-participants-in-sex-parties/10610624)
+* [Latest Would-Be Trump Assassin Broke Numerous Gun Laws](https://www.thegunpage.com/latest-would-be-trump-assassin-broke-numerous-gun-laws/10610622)
+* [OH: Stop The Binary Trigger Ban](https://www.thegunpage.com/oh-stop-the-binary-trigger-ban/10610618)
+* [GOA Urges Public to Avoid Sharing Mass Murderer’s Names, Images](https://www.thegunpage.com/goa-urges-public-to-avoid-sharing-mass-murderers-names-images/10610619)
+* [New Compact Pulsar Axion XG30 and XG35 Thermal Monoculars](https://www.thegunpage.com/new-compact-pulsar-axion-xg30-and-xg35-thermal-monoculars/10610626)
+* [New Hampshire vs. Massachusetts, An Argument for National Reciprocity](https://www.thegunpage.com/new-hampshire-vs-massachusetts-an-argument-for-national-reciprocity/10610617)
+* [Return of the Colt Viper In .357 Magnum](https://www.thegunpage.com/return-of-the-colt-viper-in-357-magnum/10610615)
+* [Kentucky Lawmaker Pushes Waiting Period Following I-75 Shooting](https://www.thegunpage.com/kentucky-lawmaker-pushes-waiting-period-following-i-75-shooting/10610613)
 * [President Trump needs Tier One military protection](https://www.thegunpage.com/president-trump-needs-tier-one-military-protection/10610611)
 * [Former NCAA Rifle Athlete JT Schnering Gets The Nod To Be The Manager Of CMP’s Competition Center In Alabama](https://www.thegunpage.com/former-ncaa-rifle-athlete-jt-schnering-gets-the-nod-to-be-the-manager-of-cmps-competition-center-in-alabama/10610609)
-* [Thurman Randle: An Amazing Smallbore Rifle Competitor](https://www.thegunpage.com/thurman-randle-an-amazing-smallbore-rifle-competitor/10610610)
-* [Best Pistol for Concealed Carry](https://www.thegunpage.com/best-pistol-for-concealed-carry/10610605)
-* [POTD: IPSC Rifle World Shoot 2024 – Johan Hansen](https://www.thegunpage.com/potd-ipsc-rifle-world-shoot-2024-johan-hansen/10610606)
-* [The Rimfire Report: Did the U.S. Military Sleep on the American-180?](https://www.thegunpage.com/the-rimfire-report-did-the-u-s-military-sleep-on-the-american-180/10610607)
-* [Kamala’s Fast Flip-Flops On Guns](https://www.thegunpage.com/kamalas-fast-flip-flops-on-guns/10610600)
-* [Latest would-be presidential assassin violated multiple gun-control laws](https://www.thegunpage.com/latest-would-be-presidential-assassin-violated-multiple-gun-control-laws/10610598)
-* [The Nickel-and-Diming of Gun Owners in California](https://www.thegunpage.com/the-nickel-and-diming-of-gun-owners-in-california/10610595)
-* [Ruger Celebrates Its 75th Anniversary With Commemorative 10/22s](https://www.thegunpage.com/ruger-celebrates-its-75th-anniversary-with-commemorative-10-22s/10610602)
 
 [![ Conservative Political Blogs](https://blog.feedspot.com/wp-content/uploads/2016/12/conservative_political_216px.png?x58297)](https://blog.feedspot.com/conservative_political_blogs/ "Conservative Political Blogs")
 
