@@ -7,7 +7,7 @@ Utility
     * [ALA Connect](https://connect.ala.org/home "ALA Connect")
     * [ALA Websites](https://www.ala.org/aboutala/sitesdirectory "ALA Websites")
     * [Job Board](https://joblist.ala.org/ "Job Board")
-* [Join | Renew](https://idpv3.ala.org/idp/profile/SAML2/Redirect/SSO "Join | Renew")
+* [Join | Renew](https://my.ala.org/store/dues.aspx "Join | Renew")
 * [Donate](https://www.ala.org/donate "Donate")
 * [Login](https://www.ala.org/saml_login?destination=/privacypolicy "Login")
 
@@ -22,7 +22,7 @@ Utility
     * [ALA Connect](https://connect.ala.org/home "ALA Connect")
     * [ALA Websites](https://www.ala.org/aboutala/sitesdirectory "ALA Websites")
     * [Job Board](https://joblist.ala.org/ "Job Board")
-* [Join | Renew](https://idpv3.ala.org/idp/profile/SAML2/Redirect/SSO "Join | Renew")
+* [Join | Renew](https://my.ala.org/store/dues.aspx "Join | Renew")
 * [Donate](https://www.ala.org/donate "Donate")
 * [Login](https://www.ala.org/saml_login?destination=/privacypolicy "Login")
 
