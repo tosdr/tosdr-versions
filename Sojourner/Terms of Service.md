@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-115ef9152a3677715fdfff1e25eb0b69
+167c5553d76ca617dd95ee25b494de52
 
 [](# "Expand for more options")[](# "Search")
 
@@ -142,11 +142,11 @@ Terms and Conditions
 
 ### Featured Product
 
-[![12 mm by 10 Australian thunder egg beads](https://sojourner.biz/images/cache/stone/STN061.200.jpg)](https://sojourner.biz/beads/stone-m-z/other-stones/12-mm-by-10-australian-thunder-egg-beads.html "12 mm by 10 Australian thunder egg beads")
+[![Ancient carnelian necklace](https://sojourner.biz/images/cache/jewelry/N0084.200.jpg)](https://sojourner.biz/jewelry/necklaces/ancient-carnelian-necklace.html "Ancient carnelian necklace")
 
-#### [12 mm by 10 Australian thunder egg beads](https://sojourner.biz/beads/stone-m-z/other-stones/12-mm-by-10-australian-thunder-egg-beads.html "12 mm by 10 Australian thunder egg beads")
+#### [Ancient carnelian necklace](https://sojourner.biz/jewelry/necklaces/ancient-carnelian-necklace.html "Ancient carnelian necklace")
 
-$56.00
+$120.00
 
 ### Best Sellers
 
