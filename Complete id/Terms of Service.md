@@ -25,7 +25,7 @@
     * [Credit Monitoring](https://www.completeid.com/how-complete-id-works/credit-monitoring/)
     * [Identity Restoration](https://www.completeid.com/how-complete-id-works/identity-restoration/)
     * [Digital Privacy](https://www.completeid.com/how-complete-id-works/digital-privacy/)
-    * [Digital Identity Manager](https://www.completeid.com/how-complete-id-works/digital-identity-manager/)
+    * [Digital Identity Manager™](https://www.completeid.com/how-complete-id-works/digital-identity-manager/)
     
 * [Features](https://www.completeid.com/features/)
 * [About Us](https://www.completeid.com/about-us/)
@@ -42,7 +42,7 @@
     * [Credit Monitoring](https://www.completeid.com/how-complete-id-works/credit-monitoring/)
     * [Identity Restoration](https://www.completeid.com/how-complete-id-works/identity-restoration/)
     * [Digital Privacy](https://www.completeid.com/how-complete-id-works/digital-privacy/)
-    * [Digital Identity Manager](https://www.completeid.com/how-complete-id-works/digital-identity-manager/)
+    * [Digital Identity Manager™](https://www.completeid.com/how-complete-id-works/digital-identity-manager/)
 * [Features](https://www.completeid.com/features/)
 * [About Us](https://www.completeid.com/about-us/)
     * [Frequently Asked Questions](https://www.completeid.com/frequently-asked-questions/)
@@ -51,7 +51,7 @@
 CSID® Terms and Conditions
 ==========================
 
-_Effective Date: August 9, 2024_
+_Effective Date: September 16, 2024_
 
 THESE ARE THE TERMS OF OUR AGREEMENT WITH EACH OTHER. ALL OF IT IS IMPORTANT SO TAKE A FEW MINUTES TO READ IT CAREFULLY. BY ENROLLING AND USING CSID’S SERVICES, YOU ACKNOWLEDGE THAT YOU HAVE READ, UNDERSTOOD, AND AGREE TO THESE TERMS AND CONDITIONS.
 
@@ -268,7 +268,7 @@ You agree and understand that you are responsible for maintaining the confidenti
 3. The Terms of Use constitute the whole legal agreement between you and us and govern your use of the Services (but excluding any services which we may provide to you under a separate written agreement), and completely replace any prior agreements between you and us in relation to the Services.
 4. Except as otherwise provided, we may send any notices to you to the most recent e-mail address you have provided to us or, if you have not provided an e-mail address, to any e-mail or postal address that we believe is your address. If you wish to update your registration information, please log in to your account and update your information.
 
-_Effective Date: August 9, 2024_
+_Effective Date: September 16, 2024_
 
 _Copyright 2024 CSIdentity® Corporation d/b/a Complete ID All rights reserved_
 
