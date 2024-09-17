@@ -222,18 +222,18 @@ Image from Google Street View](https://southwarknews.co.uk/wp-content/uploads/20
 
 [12th September 2024](https://southwarknews.co.uk/sport/football/millwall/i-want-to-be-coached-by-that-guy-millwall-attacker-gives-insight-into-drawn-out-transfer/)
 
+[![Injured Josh Coburn. Image: Millwall FC](https://southwarknews.co.uk/wp-content/uploads/2024/09/Coburn-injury-vs-Luton-120x86.jpeg)](https://southwarknews.co.uk/sport/football/millwall/millwall-boss-gives-verdict-after-replacement-striker-inches-away-from-first-lions-goal/)
+
+### [Millwall boss gives verdict after replacement striker inches away from first Lions goal](https://southwarknews.co.uk/sport/football/millwall/millwall-boss-gives-verdict-after-replacement-striker-inches-away-from-first-lions-goal/)
+
+[16th September 2024](https://southwarknews.co.uk/sport/football/millwall/millwall-boss-gives-verdict-after-replacement-striker-inches-away-from-first-lions-goal/)
+
 [![Peckham Festival 
 - photo supplied](https://southwarknews.co.uk/wp-content/uploads/2024/09/PeckhamFestival-4206-120x86.jpg)](https://southwarknews.co.uk/area/peckham/peckham-festival-starts-on-friday-and-the-programme-of-events-is-massive/)
 
 ### [Peckham Festival starts on Friday – and the programme of events is massive](https://southwarknews.co.uk/area/peckham/peckham-festival-starts-on-friday-and-the-programme-of-events-is-massive/)
 
 [12th September 2024](https://southwarknews.co.uk/area/peckham/peckham-festival-starts-on-friday-and-the-programme-of-events-is-massive/)
-
-[![Injured Josh Coburn. Image: Millwall FC](https://southwarknews.co.uk/wp-content/uploads/2024/09/Coburn-injury-vs-Luton-120x86.jpeg)](https://southwarknews.co.uk/sport/football/millwall/millwall-boss-gives-verdict-after-replacement-striker-inches-away-from-first-lions-goal/)
-
-### [Millwall boss gives verdict after replacement striker inches away from first Lions goal](https://southwarknews.co.uk/sport/football/millwall/millwall-boss-gives-verdict-after-replacement-striker-inches-away-from-first-lions-goal/)
-
-[16th September 2024](https://southwarknews.co.uk/sport/football/millwall/millwall-boss-gives-verdict-after-replacement-striker-inches-away-from-first-lions-goal/)
 
 ### Featured Articles
 
