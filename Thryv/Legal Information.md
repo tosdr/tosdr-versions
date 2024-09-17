@@ -100,7 +100,7 @@
                 
             * [Unlimited Onboarding & Support](https://www.thryv.com/service-and-support/)
             * [Competitor Comparison](https://www.thryv.com/compare/)
-            * [Reviews & Testimonials](https://www.thryv.com/reviews/)
+            * [Customer Reviews](https://www.thryv.com/reviews/)
             * [Integrations](https://www.thryv.com/marketplace/#integrations)
         
         * [Talk to an Expert](#)
