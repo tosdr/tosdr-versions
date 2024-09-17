@@ -81,6 +81,7 @@ Specific details on Cookies[](#specific-details-on-cookies)
 | Product, Website | gp-analytical | Strictly Necessary | Stores and indicates cookie consent preferences of an user for a certain category | 1 year | No  |     |
 | Product, Website | gp-necessary | Strictly Necessary | Stores and indicates cookie consent preferences of an user for a certain category | 1 year | No  |     |
 | Product, Website | gp-targeting | Strictly Necessary | Stores and indicates cookie consent preferences of an user for a certain category | 1 year | No  |     |
+| Product | gitpod\_hashed\_user\_id | Strictly Necessary | Used to identify the user in Gitpod. | 1 year | No  |     |
 | Website | \_gcl\_au | Targeting/Marketing | Used by Google Ad sense to store and track conversions and advertising efficiency | 3 months | Yes | [https://policies.google.com/privacy?hl=en](https://policies.google.com/privacy?hl=en) |
 | Website | _tld_ | Targeting/Marketing | Used to track users across multiple website in order to present relevant advertisement | Session | No  |     |
 | Website | VISITOR\_INFO1\_LIVE | Targeting/Marketing | Tries to estimate the users’ bandwidth on pages with integrated YouTube videos | 6 months | Yes | [https://policies.google.com/privacy?hl=en](https://policies.google.com/privacy?hl=en) |
