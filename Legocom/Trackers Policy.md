@@ -19,7 +19,7 @@
 1. [LEGO.com](https://www.lego.com/en-us "LEGO.com")
 2. [Legal](https://www.lego.com/en-us/legal "Legal")
 3. [Cookies](https://www.lego.com/en-us/legal/cookies "Cookies")
-4. [LEGO® Cookie Policy](https://www.lego.com/cookies/cookie-policy "LEGO® Cookie Policy")
+4. LEGO® Cookie Policy
 
 LEGO® Cookie Policy
 ===================
