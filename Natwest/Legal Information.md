@@ -180,28 +180,26 @@ NatWest Group
         
     * [Investments](https://personal.natwest.com/investments.html)
         
-        * Investments
+        * Invest with us
             
             1. [View all our Invest accounts](https://personal.natwest.com/investments.html)
-            2. [Stocks and Shares ISA](https://personal.natwest.com/investments/natwest-invest.html)
-            3. [General Investment Account](https://personal.natwest.com/investments/natwest-invest.html)
-            4. [Personal Pension](https://personal.natwest.com/investments/pensions.html)
+            2. [Stocks and Shares ISA](https://personal.natwest.com/investments/stocks-and-shares-isa.html)
+            3. [General Investment Account](https://personal.natwest.com/personal/investments/stocks-and-shares-isa.html#options)
+            4. [Pensions](https://personal.natwest.com/investments/pensions.html)
             5. [Junior ISA](https://personal.natwest.com/investments/junior-isa.html)
             6. [Ready-made funds](https://personal.natwest.com/investments/five-ready-made-funds.html)
             7. [Fund performance](https://personal.natwest.com/investments/existing-customers/personal-portfolio-funds.html)
-            8. [Understanding investments](https://personal.natwest.com/investments/our-insights.html)
-        * Already investing with us?
-            
-            1. [Log in to NatWest Invest](https://invest.natwest.com/Root/Login)
-            2. [Manage your investments](https://personal.natwest.com/investments/existing-customers.html)
-            3. [Manage your Child Trust Fund](https://personal.natwest.com/investments/existing-customers/Child_Trust_Fund.html)
-            4. [Key customer documents](https://personal.natwest.com/investments/existing-customers/Key_Customer_Documents.html)
-        * Help with investments
+        * Investment support
             
             1. [Investing for beginners](https://personal.natwest.com/personal/investments/our-insights.html#beginners)
             2. [Experienced investors](https://personal.natwest.com/personal/investments/our-insights.html#experienced)
             3. [Future planning](https://personal.natwest.com/personal/investments/our-insights.html#ahead)
             4. [Market updates](https://personal.natwest.com/personal/investments/our-insights.html#explore)
+        * Already investing with us
+            
+            1. [Log in to NatWest Invest](https://invest.natwest.com/Root/Login?)
+            2. [About your investments](https://personal.natwest.com/investments/existing-customers.html)
+            3. [Key customer documents](https://personal.natwest.com/investments/existing-customers/Key_Customer_Documents.html)
         
     * [Credit cards](https://personal.natwest.com/credit-cards.html)
         
@@ -496,6 +494,8 @@ NatWest Group
     * [Banking near me](https://personal.natwest.com/banking-with-natwest/other-ways-to-bank-with-natwest/natwest-banking-near-me.html)
         
     * [All the ways you can bank with us](https://personal.natwest.com/banking-with-natwest.html)
+        
+    * [Access to cash](https://personal.natwest.com/banking-with-natwest/access-to-cash.html)
         
     
 * [Climate](https://personal.natwest.com/climate.html)
