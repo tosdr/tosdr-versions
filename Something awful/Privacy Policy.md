@@ -205,23 +205,23 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [Lost Word of Jenny: Gamer Girls in the Making](https://www.somethingawful.com/rom-pit/lost-word-jenny/)
-* [Exteel - Stupid Anime Robots](https://www.somethingawful.com/mmo-roulette/exteel/1/)
-* [Clash at Demonhead](https://www.somethingawful.com/rom-pit/clash-demonhead/1/)
-* [Swamp Thing](https://www.somethingawful.com/rom-pit/nes-swamp-thing/)
-* [Godzilla - Monster of Monsters!](https://www.somethingawful.com/rom-pit/godzilla-monster/)
+* [Will They Fly a Plane into Our House?](https://www.somethingawful.com/photoshop-phriday/will-they-fly/1/)
+* [Dinos with Hairdos!](https://www.somethingawful.com/comedy-goldmine/dinosaur-hairstyles-makeover/1/)
+* [Thank Goodness For Hero Dog](https://www.somethingawful.com/news/hero-dog-newspaper/)
+* [Hard Sell For A Hard Shell](https://www.somethingawful.com/news/hard-sell-for/)
 
 ### Popular Threads
 
-* ![](https://fi.somethingawful.com/forums/posticons/icons-08/poll.png) [One's gotta go](http://forums.somethingawful.com/showthread.php?threadid=4070489 "One's gotta go")
+* ![](https://fi.somethingawful.com/forums/posticons/byob-grumpy.gif) [What's it like being on an extremely long flight?](http://forums.somethingawful.com/showthread.php?threadid=4070540 "What's it like being on an extremely long flight?")
+* ![](https://fi.somethingawful.com/forums/posticons/lan-europe.gif) [Harry Potter is just British Naruto](http://forums.somethingawful.com/showthread.php?threadid=4070542 "Harry Potter is just British Naruto")
 
 ### Random Articles
 
-* [Old Games On New TVs: The Sega Dreamcast](https://www.somethingawful.com/video-game-article/dreamcast-gdemu-ossc/)
-* [The Reificant: Collapse](https://www.somethingawful.com/news/reificant-liminal-states/1/)
-* [T.A. Hamilton (Thanks again, wit!)](https://www.somethingawful.com/awful-links/ta-hamilton-magic/)
-* [The Official Ricky Martin Website](https://www.somethingawful.com/awful-links/awful-link-3284/)
-* [Hey, Corporations! Get your Covid19 and BLM Ads out of the Cool Zone!](https://www.somethingawful.com/news/coolzone/)
+* [Smile, Everyone! (Part 1 of 2)](https://www.somethingawful.com/comedy-goldmine/smile-everybody/1/)
+* [Editable Encyclopedia Featured Article: The Monty Hall Problem](https://www.somethingawful.com/news/monty-hall-problem/)
+* [Steve Jobs Health Updates For Apple Employees](https://www.somethingawful.com/news/jobs-apple-health/)
+* [Hate Is A Strong Word](https://www.somethingawful.com/garbage-day/plain-white-ts/)
+* [Sponsored Content](https://www.somethingawful.com/news/sponsored-content-parody/)
 
 [Random!](https://www.somethingawful.com/random/)
 
