@@ -398,11 +398,11 @@ The future of Coursera’s only credible alternative for universities rests in t
 
 ##### Latest
 
-1. [1000s of Free Digital Marketing Courses](https://www.classcentral.com/report/digital-marketing-online-courses-moocs/)
-2. [10 Best Data Analysis Courses for 2024: From Data to Insights](https://www.classcentral.com/report/best-data-analysis-courses/)
-3. [Replacing Bad Study Habits with Effective Learning Techniques](https://www.classcentral.com/report/study-habits/)
-4. [\[2024\] 1800+ Coursera Courses Still Completely Free](https://www.classcentral.com/report/coursera-free-online-courses/)
-5. [7 Best Autodesk Maya Courses for 2024: Exploring 3D Animation](https://www.classcentral.com/report/best-autodesk-maya-courses/)
+1. [\[2024\] 450+ Google Cloud Certification Training Courses](https://www.classcentral.com/report/google-cloud-certification-training-courses/)
+2. [1000s of Free Digital Marketing Courses](https://www.classcentral.com/report/digital-marketing-online-courses-moocs/)
+3. [10 Best Data Analysis Courses for 2024: From Data to Insights](https://www.classcentral.com/report/best-data-analysis-courses/)
+4. [Replacing Bad Study Habits with Effective Learning Techniques](https://www.classcentral.com/report/study-habits/)
+5. [\[2024\] 1800+ Coursera Courses Still Completely Free](https://www.classcentral.com/report/coursera-free-online-courses/)
 
 [Visit _The Report_](https://www.classcentral.com/report/)
 
@@ -413,38 +413,38 @@ The future of Coursera’s only credible alternative for universities rests in t
 Most common
 -----------
 
-1. java
+1. English
     
-2. excel
+2. law
     
-3. web development
+3. finance
     
 
 Popular subjects
 ----------------
 
-1. [Communication Skills
+1. [Language Learning
     
-    3,716 courses](https://www.classcentral.com/subject/communication-skills)
-2. [Project Management
+    1,873 courses](https://www.classcentral.com/subject/language-learning)
+2. [Communication Skills
     
-    3,652 courses](https://www.classcentral.com/subject/project-management)
-3. [Language Learning
+    3,788 courses](https://www.classcentral.com/subject/communication-skills)
+3. [Microsoft Excel
     
-    1,848 courses](https://www.classcentral.com/subject/language-learning)
+    1,651 courses](https://www.classcentral.com/subject/microsoft-excel)
 
 Popular courses
 ---------------
 
-1. [FinTech Ethics and Risks
+1. [Crisis Resource Management
     
-    The University of Hong Kong](https://www.classcentral.com/course/fintech-university-of-hong-kong-fintech-ethics-an-11392)
-2. [Mining Massive Datasets
+    Columbia University](https://www.classcentral.com/course/crisis-resource-management-columbia-university-cr-21613)
+2. [Build a Modern Computer from First Principles: From Nand to Tetris (Project-Centered Course)
     
-    Stanford University](https://www.classcentral.com/course/mining-stanford-university-mining-massive-dataset-2406)
-3. [The Science of the Solar System
+    Hebrew University of Jerusalem](https://www.classcentral.com/course/build-a-computer-3234)
+3. [Tsinghua Chinese: Start Talking with 1.3 Billion People
     
-    California Institute of Technology](https://www.classcentral.com/course/solarsystem-1813)
+    Tsinghua University](https://www.classcentral.com/course/language-tsinghua-university-tsinghua-chinese-sta-5426)
 
 ![](https://ccweb.imgix.net/https%3A%2F%2Fwww.classcentral.com%2Fimages%2Flists%2Flist-empty.png?auto=format&ixlib=php-4.1.0&w=100&s=d64b43c1b6dcf041e56fce6ac1794fcf)
 
