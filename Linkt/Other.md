@@ -169,7 +169,7 @@ Legal
 
 [Legal](https://www.linkt.com.au/legal/brisbane.html)
 
-Last updated 21 January 2022
+Last updated 21 January 2022 | Print as PDF
 
 * * *
 
