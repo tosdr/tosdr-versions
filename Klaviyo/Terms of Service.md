@@ -32,7 +32,7 @@ Community BFCM Challenge 2024: Enter to win $150 gift card!
 
 ![Community Manager](https://uploads-us-west-2.insided.com/klaviyo-en/attachment/9f033269-0104-436f-83e0-ae33d1594720_thumb.png "Community Manager")](https://community.klaviyo.com/members/stephen-trumble-4206)
 
-17 days ago
+18 days ago
 
 * [Home](https://community.klaviyo.com/)
 * Terms
