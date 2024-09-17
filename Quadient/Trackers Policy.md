@@ -6,7 +6,7 @@ Cancel
 
 * It seems that there's no more results to display.
 
-* About us Support [Contact us](https://www.quadient.com/en/contact-us)[eShop](https://shop.quadient.com/)[Myquadient](https://www.quadient.com/en/myquadient)
+* About us Support [Myquadient](https://www.quadient.com/en/myquadient) [Contact us](https://www.quadient.com/en/contact-us)[eShop](https://shop.quadient.com/)
     
     ![English](/images/icon-us.png)
     
@@ -66,7 +66,6 @@ Choose your language [Chinese](https://www.quadient.com/cn) [Dutch](https://www.
     
 * Customer Communications AP Automation AR Automation Mailing Solutions Resources About us Support Contact us Languages
 * [](https://www.myquadient.com/US/en_US/Shop)
-* [](https://www.myquadient.com/US/en_US/CustomerLogin)
 
 Customer Communications [Inspire Evolve
 
