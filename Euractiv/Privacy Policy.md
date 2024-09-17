@@ -216,9 +216,9 @@ Toggle navigation
     
     ##### Promoted Content
     
+    * [The new EU political cycle must renew the momentum for CCU techs](https://www.euractiv.com/section/energy-environment/opinion/the-new-eu-political-cycle-must-renew-the-momentum-for-ccu-techs/)
     * [European competitiveness in the energy transition: Shell’s views for the next EU cycle](https://www.euractiv.com/section/energy-environment/opinion/european-competitiveness-in-the-energy-transition-shells-views-for-the-next-eu-cycle/)
     * [Time for the flat glass industry’s decarbonization efforts to pay off](https://www.euractiv.com/section/energy-environment/opinion/time-for-the-flat-glass-industrys-decarbonization-efforts-to-pay-off/)
-    * [A Letter for the Future of Packaging](https://www.euractiv.com/section/energy-environment/opinion/a-letter-for-the-future-of-packaging/)
     
 * [Global Europe](https://www.euractiv.com/sections/global-europe/)
     
@@ -818,13 +818,13 @@ If you have any questions about this Privacy Policy, please contact us:
 * 1[China's green 'trojan horses' are starting to divide Europe](http://en.euractiv.eu/section/energy-environment/opinion/chinas-green-trojan-horses-are-starting-to-divide-europe/?utm_source=website&utm_campaign=popular)
 * 2[Poland backs ending EU benefits for Ukrainian men of fighting age](http://en.euractiv.eu/section/europe-s-east/news/poland-backs-ending-eu-benefits-for-ukrainian-men-of-fighting-age/?utm_source=website&utm_campaign=popular)
 * 3[French Commissioner Thierry Breton resigns over row with von der Leyen](http://en.euractiv.eu/section/defence-and-security/news/french-commissioner-thierry-breton-resigns-over-row-with-von-der-leyen/?utm_source=website&utm_campaign=popular)
-* 4[EU court says Hungary broke competition rules by fixing food prices](http://en.euractiv.eu/section/agriculture-food/news/eu-court-says-hungary-broke-competition-rules-by-fixing-food-prices/?utm_source=website&utm_campaign=popular)
-* 5['Reward those who serve our planet': Von der Leyen floats 'nature credits'](http://en.euractiv.eu/section/biodiversity/news/reward-those-who-serve-our-planet-von-der-leyen-floats-nature-credits/?utm_source=website&utm_campaign=popular)
-* 6[Austria’s biggest utility company to ditch Russian gas from 2025](http://en.euractiv.eu/section/energy-environment/news/austrias-biggest-utility-company-to-ditch-russian-gas-from-2025/?utm_source=website&utm_campaign=popular)
-* 7[China uses LinkedIn to recruit academics for espionage, Czech intelligence warns](http://en.euractiv.eu/section/politics/news/china-uses-linkedin-to-recruit-academics-for-espionage-czech-intelligence-warns/?utm_source=website&utm_campaign=popular)
-* 8[New term, new EU foreign policy?](http://en.euractiv.eu/section/global-europe/news/new-term-new-eu-foreign-policy/?utm_source=website&utm_campaign=popular)
-* 9[New Dutch government unveils toughest asylum reform in history](http://en.euractiv.eu/section/politics/news/new-dutch-government-unveils-toughest-asylum-reform-in-history/?utm_source=website&utm_campaign=popular)
-* 10[France's Barnier walks on eggshells in agreeing new immigration policy](http://en.euractiv.eu/section/migration/news/frances-barnier-walks-on-eggshells-in-agreeing-new-immigration-policy/?utm_source=website&utm_campaign=popular)
+* 4['Reward those who serve our planet': Von der Leyen floats 'nature credits'](http://en.euractiv.eu/section/biodiversity/news/reward-those-who-serve-our-planet-von-der-leyen-floats-nature-credits/?utm_source=website&utm_campaign=popular)
+* 5[Austria’s biggest utility company to ditch Russian gas from 2025](http://en.euractiv.eu/section/energy-environment/news/austrias-biggest-utility-company-to-ditch-russian-gas-from-2025/?utm_source=website&utm_campaign=popular)
+* 6[NATO chief: Each country to decide if Ukraine can use its long-range missiles on Russia](http://en.euractiv.eu/section/global-europe/news/nato-chief-each-country-to-decide-if-ukraine-can-use-its-long-range-missiles-on-russia/?utm_source=website&utm_campaign=popular)
+* 7[European competitiveness in the energy transition: Shell's views for the next EU cycle](http://en.euractiv.eu/section/energy-environment/opinion/european-competitiveness-in-the-energy-transition-shells-views-for-the-next-eu-cycle/?utm_source=website&utm_campaign=popular)
+* 8[Stéphane Séjourné’s nomination brings key Macron ally to European Commission](http://en.euractiv.eu/section/politics/news/stephane-sejournes-nomination-brings-key-macron-ally-to-european-commission/?utm_source=website&utm_campaign=popular)
+* 9[New term, new EU foreign policy?](http://en.euractiv.eu/section/global-europe/news/new-term-new-eu-foreign-policy/?utm_source=website&utm_campaign=popular)
+* 10[New Dutch government unveils toughest asylum reform in history](http://en.euractiv.eu/section/politics/news/new-dutch-government-unveils-toughest-asylum-reform-in-history/?utm_source=website&utm_campaign=popular)
 
 ###### Advertisement
 
