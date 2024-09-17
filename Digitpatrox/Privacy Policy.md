@@ -20,16 +20,16 @@ Tuesday, September 17 2024
 
 Latest
 
-* [Amazon’s next Prime Day sale is happening on October 8th and 9th](https://digitpatrox.com/amazons-next-prime-day-sale-is-happening-on-october-8th-and-9th/)
-* [Asura Codes (September 2024) | Beebom](https://digitpatrox.com/asura-codes-september-2024-beebom/)
-* [Microsoft revamps M365 Copilot chatbot with Pages shared ‘canvas’ – Computerworld](https://digitpatrox.com/microsoft-revamps-m365-copilot-chatbot-with-pages-shared-canvas-computerworld/)
-* [Wordle Answer for Today, September 17, 2024](https://digitpatrox.com/wordle-answer-for-today-september-17-2024/)
-* [Most Reliable New Sedans You Can Buy](https://digitpatrox.com/most-reliable-new-sedans-you-can-buy/)
-* [Microsoft Office 2024 Is Almost Here](https://digitpatrox.com/microsoft-office-2024-is-almost-here/)
-* [Is it a Safe Password Manager?](https://digitpatrox.com/is-it-a-safe-password-manager/)
-* [AC Milan vs Liverpool live streams: watch Champions League](https://digitpatrox.com/ac-milan-vs-liverpool-live-streams-watch-champions-league/)
-* [TikTok faces a skeptical panel of judges in its existential fight against the US government](https://digitpatrox.com/tiktok-faces-a-skeptical-panel-of-judges-in-its-existential-fight-against-the-us-government/)
-* [NYT Strands Today: Hints, Answers & Spangram for September 17](https://digitpatrox.com/nyt-strands-today-hints-answers-spangram-for-september-17/)
+* [Swiss supercomputer Alps comes online, aimed at complex AI development](https://digitpatrox.com/swiss-supercomputer-alps-comes-online-aimed-at-complex-ai-development/)
+* [Master IT Fundamentals With This CompTIA Certification Prep Bundle](https://digitpatrox.com/master-it-fundamentals-with-this-comptia-certification-prep-bundle/)
+* [Forget October Prime Day — every Fire TV Stick is on sale now from just $19](https://digitpatrox.com/forget-october-prime-day-every-fire-tv-stick-is-on-sale-now-from-just-19/)
+* [Why didn’t Apple do more to update the AirPods Max?](https://digitpatrox.com/why-didnt-apple-do-more-to-update-the-airpods-max/)
+* [OpenAI Confirms ChatGPT Did Message Users First, But It Won’t Anymore](https://digitpatrox.com/openai-confirms-chatgpt-did-message-users-first-but-it-wont-anymore/)
+* [Vendor Spotlight: SuperOps](https://digitpatrox.com/vendor-spotlight-superops/)
+* [The Biggest New iOS 18 Now on Your iPhone](https://digitpatrox.com/the-biggest-new-ios-18-now-on-your-iphone/)
+* [Vendor Spotlight: Zoho](https://digitpatrox.com/vendor-spotlight-zoho/)
+* [Best Bike Helmets of 2024](https://digitpatrox.com/best-bike-helmets-of-2024/)
+* [I Wish Android Phones Had This](https://digitpatrox.com/i-wish-android-phones-had-this/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -111,15 +111,15 @@ Popular Posts
     
     August 13, 2024
     
-* [![](https://lifehacker.com/imagery/articles/01J51NBQK2F33EBVNPZ0WBPATC/hero-image.fill.size_1200x675.jpg)](https://digitpatrox.com/wordle-answer-for-today-august-13-2024/)
-    
-    [Wordle Answer for Today, August 13, 2024](https://digitpatrox.com/wordle-answer-for-today-august-13-2024/)
-    
-    August 13, 2024
-    
 * [![](https://cdn.mos.cms.futurecdn.net/3DY7Vc5uHmrRZqZmTkL2RB-1200-80.jpg)](https://digitpatrox.com/iphone-16-mass-production-begins-and-its-packing-a-new-display-heres-what-we-know/)
     
     [iPhone 16 mass production begins, and it’s packing a new display — here’s what we know](https://digitpatrox.com/iphone-16-mass-production-begins-and-its-packing-a-new-display-heres-what-we-know/)
+    
+    August 13, 2024
+    
+* [![](https://lifehacker.com/imagery/articles/01J51NBQK2F33EBVNPZ0WBPATC/hero-image.fill.size_1200x675.jpg)](https://digitpatrox.com/wordle-answer-for-today-august-13-2024/)
+    
+    [Wordle Answer for Today, August 13, 2024](https://digitpatrox.com/wordle-answer-for-today-august-13-2024/)
     
     August 13, 2024
     
@@ -146,15 +146,15 @@ Popular Posts
     
     August 13, 2024
     
-* [![](https://lifehacker.com/imagery/articles/01J51NBQK2F33EBVNPZ0WBPATC/hero-image.fill.size_1200x675.jpg)](https://digitpatrox.com/wordle-answer-for-today-august-13-2024/)
-    
-    [Wordle Answer for Today, August 13, 2024](https://digitpatrox.com/wordle-answer-for-today-august-13-2024/)
-    
-    August 13, 2024
-    
 * [![](https://cdn.mos.cms.futurecdn.net/3DY7Vc5uHmrRZqZmTkL2RB-1200-80.jpg)](https://digitpatrox.com/iphone-16-mass-production-begins-and-its-packing-a-new-display-heres-what-we-know/)
     
     [iPhone 16 mass production begins, and it’s packing a new display — here’s what we know](https://digitpatrox.com/iphone-16-mass-production-begins-and-its-packing-a-new-display-heres-what-we-know/)
+    
+    August 13, 2024
+    
+* [![](https://lifehacker.com/imagery/articles/01J51NBQK2F33EBVNPZ0WBPATC/hero-image.fill.size_1200x675.jpg)](https://digitpatrox.com/wordle-answer-for-today-august-13-2024/)
+    
+    [Wordle Answer for Today, August 13, 2024](https://digitpatrox.com/wordle-answer-for-today-august-13-2024/)
     
     August 13, 2024
     
@@ -171,35 +171,35 @@ Popular Posts
     4 weeks ago
     
 
-* [![](https://cdn.vox-cdn.com/thumbor/YsSwJjeePniOk01QDHeAsuHaotg=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/23935558/acastro_STK103__01.jpg)](https://digitpatrox.com/amazons-next-prime-day-sale-is-happening-on-october-8th-and-9th/)
+* [![](https://cdn.mos.cms.futurecdn.net/aAXQtPwrU5SDa4qDbjF8J8-1200-80.jpg)](https://digitpatrox.com/swiss-supercomputer-alps-comes-online-aimed-at-complex-ai-development/)
     
-    [Amazon’s next Prime Day sale is happening on October 8th and 9th](https://digitpatrox.com/amazons-next-prime-day-sale-is-happening-on-october-8th-and-9th/)
+    [Swiss supercomputer Alps comes online, aimed at complex AI development](https://digitpatrox.com/swiss-supercomputer-alps-comes-online-aimed-at-complex-ai-development/)
     
-    28 mins ago
+    24 mins ago
     
-* [![](https://beebom.com/wp-content/uploads/2024/09/Roblox-Asura-cover.jpg)](https://digitpatrox.com/asura-codes-september-2024-beebom/)
+* [![](https://assets.techrepublic.com/uploads/2024/09/tra_20240910-the-all-in-one-comptia-certifications-prep-courses-bundle.jpg)](https://digitpatrox.com/master-it-fundamentals-with-this-comptia-certification-prep-bundle/)
     
-    [Asura Codes (September 2024) | Beebom](https://digitpatrox.com/asura-codes-september-2024-beebom/)
+    [Master IT Fundamentals With This CompTIA Certification Prep Bundle](https://digitpatrox.com/master-it-fundamentals-with-this-comptia-certification-prep-bundle/)
     
-    29 mins ago
+    25 mins ago
     
-* [![](https://www.computerworld.com/wp-content/uploads/2024/09/3523720-0-85570500-1726502803-Copilot-Pages_UI.jpg?quality=50&strip=all&w=1024)](https://digitpatrox.com/microsoft-revamps-m365-copilot-chatbot-with-pages-shared-canvas-computerworld/)
+* [![](https://cdn.mos.cms.futurecdn.net/b5KuEZPDt6wXK2zj5mrFDQ-1200-80.jpg)](https://digitpatrox.com/forget-october-prime-day-every-fire-tv-stick-is-on-sale-now-from-just-19/)
     
-    [Microsoft revamps M365 Copilot chatbot with Pages shared ‘canvas’ – Computerworld](https://digitpatrox.com/microsoft-revamps-m365-copilot-chatbot-with-pages-shared-canvas-computerworld/)
+    [Forget October Prime Day — every Fire TV Stick is on sale now from just $19](https://digitpatrox.com/forget-october-prime-day-every-fire-tv-stick-is-on-sale-now-from-just-19/)
+    
+    43 mins ago
+    
+* [![](https://cdn.vox-cdn.com/thumbor/5Fg2WoApmhaDFTj5-vzuTiN5OLo=/0x0:4726x3027/1200x628/filters:focal(2363x1514:2364x1515)/cdn.vox-cdn.com/uploads/chorus_asset/file/25617254/Sleeping_on_AirPods_Max.png)](https://digitpatrox.com/why-didnt-apple-do-more-to-update-the-airpods-max/)
+    
+    [Why didn’t Apple do more to update the AirPods Max?](https://digitpatrox.com/why-didnt-apple-do-more-to-update-the-airpods-max/)
     
     2 hours ago
     
-* [![](https://lifehacker.com/imagery/articles/01J7V6T3E2CEJFSFBPVCB0RYD9/hero-image.fill.size_1200x675.jpg)](https://digitpatrox.com/wordle-answer-for-today-september-17-2024/)
+* [![](https://beebom.com/wp-content/uploads/2024/09/chatgpt-initiated-conversation-with-a-reddit-user.jpeg)](https://digitpatrox.com/openai-confirms-chatgpt-did-message-users-first-but-it-wont-anymore/)
     
-    [Wordle Answer for Today, September 17, 2024](https://digitpatrox.com/wordle-answer-for-today-september-17-2024/)
+    [OpenAI Confirms ChatGPT Did Message Users First, But It Won’t Anymore](https://digitpatrox.com/openai-confirms-chatgpt-did-message-users-first-but-it-wont-anymore/)
     
-    3 hours ago
-    
-* [![](https://article.images.consumerreports.org/image/upload/t_article_tout/v1726089915/prod/content/dam/CRO-Images-2024/Cars/CR-Car-InlineHero-Most-Reliable-New-Sedans-You-Can-Buy-0924)](https://digitpatrox.com/most-reliable-new-sedans-you-can-buy/)
-    
-    [Most Reliable New Sedans You Can Buy](https://digitpatrox.com/most-reliable-new-sedans-you-can-buy/)
-    
-    3 hours ago
+    2 hours ago
     
 
 ![](https://digitpatrox.com/wp-content/uploads/2023/12/Digitpatrox-NEW-Logo-White.png)
@@ -208,48 +208,48 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [28 mins ago
+* [24 mins ago
     
-    ### Amazon’s next Prime Day sale is happening on October 8th and 9th](https://digitpatrox.com/amazons-next-prime-day-sale-is-happening-on-october-8th-and-9th/)
-* [29 mins ago
+    ### Swiss supercomputer Alps comes online, aimed at complex AI development](https://digitpatrox.com/swiss-supercomputer-alps-comes-online-aimed-at-complex-ai-development/)
+* [25 mins ago
     
-    ### Asura Codes (September 2024) | Beebom](https://digitpatrox.com/asura-codes-september-2024-beebom/)
-* [2 hours ago
+    ### Master IT Fundamentals With This CompTIA Certification Prep Bundle](https://digitpatrox.com/master-it-fundamentals-with-this-comptia-certification-prep-bundle/)
+* [43 mins ago
     
-    ### Microsoft revamps M365 Copilot chatbot with Pages shared ‘canvas’ – Computerworld](https://digitpatrox.com/microsoft-revamps-m365-copilot-chatbot-with-pages-shared-canvas-computerworld/)
+    ### Forget October Prime Day — every Fire TV Stick is on sale now from just $19](https://digitpatrox.com/forget-october-prime-day-every-fire-tv-stick-is-on-sale-now-from-just-19/)
 
 Most Popular Topics
 
-* [2 weeks ago
+* [3 weeks ago
     
-    ### Hurry! My favorite Patagonia jacket ever is on sale for 30% off via REI](https://digitpatrox.com/hurry-my-favorite-patagonia-jacket-ever-is-on-sale-for-30-off-via-rei/)
+    ### How to protect your privacy in Windows 10 – Computerworld](https://digitpatrox.com/how-to-protect-your-privacy-in-windows-10-computerworld/)
+* [4 weeks ago
+    
+    ### Download our remote IT support tools enterprise buyer’s guide](https://digitpatrox.com/download-our-remote-it-support-tools-enterprise-buyers-guide/)
 * [1 week ago
     
-    ### Today’s Wordle Answer and Hints (September 9, 2024)](https://digitpatrox.com/todays-wordle-answer-and-hints-september-9-2024/)
-* [August 12, 2024
-    
-    ### In three or four years, ‘we won’t even talk about AI’ – Computerworld](https://digitpatrox.com/in-three-or-four-years-we-wont-even-talk-about-ai-computerworld/)
+    ### Google and DOJ’s ad tech fight is all about control](https://digitpatrox.com/google-and-dojs-ad-tech-fight-is-all-about-control/)
 
 Last Modified Topics
 
 * [4 hours ago
     
-    ### Is it a Safe Password Manager?](https://digitpatrox.com/is-it-a-safe-password-manager/)
-* [5 hours ago
+    ### The Biggest New iOS 18 Now on Your iPhone](https://digitpatrox.com/the-biggest-new-ios-18-now-on-your-iphone/)
+* [4 hours ago
     
-    ### AC Milan vs Liverpool live streams: watch Champions League](https://digitpatrox.com/ac-milan-vs-liverpool-live-streams-watch-champions-league/)
-* [5 hours ago
+    ### Vendor Spotlight: Zoho](https://digitpatrox.com/vendor-spotlight-zoho/)
+* [4 hours ago
     
-    ### TikTok faces a skeptical panel of judges in its existential fight against the US government](https://digitpatrox.com/tiktok-faces-a-skeptical-panel-of-judges-in-its-existential-fight-against-the-us-government/)
+    ### Best Bike Helmets of 2024](https://digitpatrox.com/best-bike-helmets-of-2024/)
 
 Most Viewed Topics
 
+* [August 11, 2024
+    
+    ### US citizen charged with aiding North Korean hackers moonlighting as tech workers](https://digitpatrox.com/us-citizen-charged-with-aiding-north-korean-hackers-moonlighting-as-tech-workers/)
 * [August 13, 2024
     
     ### TikTok Is Pushing Old and False News as ”Breaking” Alerts](https://digitpatrox.com/tiktok-is-pushing-old-and-false-news-as-breaking-alerts/)
-* [3 weeks ago
-    
-    ### Getting Your iPhone Repaired Could Ban You From Snapchat](https://digitpatrox.com/getting-your-iphone-repaired-could-ban-you-from-snapchat/)
 * [4 weeks ago
     
     ### Wordle Answer for Today, August 21, 2024](https://digitpatrox.com/wordle-answer-for-today-august-21-2024/)
