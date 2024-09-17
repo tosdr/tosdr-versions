@@ -274,19 +274,7 @@
         
     * [Business](#)
         
-        [Trends & Insights](#)
-        
-        [Market Pulse](https://www.equifax.com/business/trends-insights/marketpulse/) [Market Pulse Credit Trends](https://www.equifax.com/business/trends-insights/market-pulse-credit-trends/) [Market Pulse Podcast](https://www.equifax.com/business/trends-insights/podcast/) [Recession Readiness Insights](https://www.equifax.com/business/trends-insights/recession-readiness-insights/) [Digital Marketing Solutions](https://www.equifax.com/business/trends-insights/digital-marketing/)
-        
-        [View All Trends & Insights](https://www.equifax.com/business/trends-insights/)
-        
         [Resources](https://www.equifax.com/all-resources/) [Blog](https://www.equifax.com/business/insights/) [API Developer Portal](https://developer.equifax.com/) [Events](https://www.equifax.com/business/events/)
-        
-        ##### Market Pulse
-        
-        Economic and credit insights.
-        
-        [View Market Pulse](https://www.equifax.com/business/trends-insights/marketpulse/)
         
     
 * [About Us](#)
