@@ -1,7 +1,7 @@
 Terms & Conditions of Use
 =========================
 
-Last Revised: August 23, 2020
+Last Revised: September 11, 2024
 
 Welcome to [www.powtoon.com](https://www.powtoon.com/), (the **"Site"**). The Site is operated by Powtoon Limited, a company incorporated under the laws of United Kingdom and situated in 28 Church Road, London, HA7 4XR (herein referred to as either: **"Powtoon"** or **"we"** in accordance with these Terms and Conditions of Use (herein referred to as **"Terms"**.
 
@@ -165,7 +165,9 @@ Welcome to [www.powtoon.com](https://www.powtoon.com/), (the **"Site"**). The Si
         
 7. #### Cancellation and Refund Policy
     
-    You are entitled to cancel your subscription and request a refund within 14 days of activating your subscription, in accordance with and subject to the statutory protection for consumers under the UK Consumer Contracts Regulations 2014 (the “Regulations”). Refunds will be processed to users within thirty (30) days of initiating the refund process unless otherwise notified to the user. Refunds will however not be provided to users who have used our AI features in the product more than five times within the first 14 days of purchasing a subscription. Once the 14-day period has elapsed, no refunds will be issued for any reason related to the usage of AI features within the product. If you have any questions or concerns regarding our refund policy, please contact our customer support team for further assistance.
+    1. **Subscription :** You are entitled to cancel your subscription and request a refund within 14 days of activating your subscription, in accordance with and subject to the statutory protection for consumers under the UK Consumer Contracts Regulations 2014 (the “Regulations”). Refunds will be processed to users within thirty (30) days of initiating the refund process unless otherwise notified to the user. Refunds will however not be provided to users who have used our AI features in the product more than five times within the first 14 days of purchasing a subscription. Once the 14-day period has elapsed, no refunds will be issued for any reason related to the usage of AI features within the product.
+    2. **Credit Packages :** All purchases of credit packages are final, non-refundable, and non-transferable under any circumstances.
+    3. If you have any questions or concerns regarding our refund policy, please contact our customer support team for further assistance.
     
 8. #### User Content
     
