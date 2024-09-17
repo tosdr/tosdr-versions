@@ -250,7 +250,7 @@ false
 
 https://www.hp.com/cma/ng/lib/exceptions/privacy-banner.js
 
-https://www8.hp.com
+https://www.hp.com
 
 https://tracking-na.hawksearch.com/api/trackevent
 
@@ -392,7 +392,7 @@ In cooperation with the U.S. Consumer Product Safety Commission and other safety
 
 [Related links](javascript:void(0))
 
-[How to Connect Printer to...](https://www.hp.com/us-en/shop/tech-takes/how-to-connect-printer-to-computer) [10 Best Free Photo Printing...](https://www.hp.com/us-en/shop/tech-takes/best-free-photo-printing-software) [HP Printer Software Download: How...](https://www.hp.com/us-en/shop/tech-takes/how-to-download-and-install-latest-hp-printer-software) [HP LaserJet Pro M404dn](https://www.hp.com/us-en/shop/pdp/hp-laserjet-pro-m404dn) [How to Print from Google Android...](https://www.hp.com/us-en/shop/tech-takes/how-to-print-from-google-android-phone) [HP Wolf Security - Endpoint Security Solutions](https://www.hp.com/us-en/security/endpoint-security-solutions.html) [HP Amplify Partner Program](https://www.hp.com/us-en/solutions/hp-amplify-partner-program.html) [Is Instant Ink Worth It? Top...](https://www.hp.com/us-en/shop/tech-takes/is-instant-ink-worth-it) [What is HP+](https://www.hp.com/us-en/shop/tech-takes/what-is-hp-plus-benefits) [What is HP Support Assistant?](https://www.hp.com/us-en/shop/tech-takes/what-is-hp-support-assistant)
+[How to Connect Printer to...](https://www.hp.com/us-en/shop/tech-takes/how-to-connect-printer-to-computer) [10 Best Free Photo Printing...](https://www.hp.com/us-en/shop/tech-takes/best-free-photo-printing-software) [HP Printer Software Download: How...](https://www.hp.com/us-en/shop/tech-takes/how-to-download-and-install-latest-hp-printer-software) [How to Print from Google Android...](https://www.hp.com/us-en/shop/tech-takes/how-to-print-from-google-android-phone) [HP Wolf Security - Endpoint Security Solutions](https://www.hp.com/us-en/security/endpoint-security-solutions.html) [HP Amplify Partner Program](https://www.hp.com/us-en/solutions/hp-amplify-partner-program.html) [Is Instant Ink Worth It? Top...](https://www.hp.com/us-en/shop/tech-takes/is-instant-ink-worth-it) [HP Large-format Printers and Plotters – HP Click Printing Software](https://www.hp.com/us-en/printers/large-format/click.html) [What is HP+](https://www.hp.com/us-en/shop/tech-takes/what-is-hp-plus-benefits) [What is HP Support Assistant?](https://www.hp.com/us-en/shop/tech-takes/what-is-hp-support-assistant)
 
 Select Your Country/Region and Language
 ---------------------------------------
