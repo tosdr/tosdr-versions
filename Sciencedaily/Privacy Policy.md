@@ -12,7 +12,7 @@ Your source for the latest research news
 
 ScienceDaily
 
-**September 16, 2024**
+**September 17, 2024**
 
 * * *
 
@@ -208,16 +208,16 @@ this hour
 
 * * *
 
+* [Compact Muon Solenoid Experiment: W Boson Mass](https://www.sciencedaily.com/releases/2024/09/240917130327.htm)
+* ['Food Theft' Among Seabirds Spreads Avian Flu](https://www.sciencedaily.com/releases/2024/09/240916115428.htm)
+* [Compact and Portable Nuclear Clocks](https://www.sciencedaily.com/releases/2024/09/240913105307.htm)
+* [Cutting Smartphone Use Ups Work Satisfaction](https://www.sciencedaily.com/releases/2024/09/240917125409.htm)
+* [Coffee May Protect Against CVD, Diabetes](https://www.sciencedaily.com/releases/2024/09/240917125341.htm)
+* [Wobble from Mars Could Be Sign of Dark Matter](https://www.sciencedaily.com/releases/2024/09/240917125338.htm)
+* [More Black Holes Than Expected in Early Universe](https://www.sciencedaily.com/releases/2024/09/240917125315.htm)
+* [Van Gogh's Sky Is Alive With Real-World Physics](https://www.sciencedaily.com/releases/2024/09/240917125301.htm)
 * [Black Hole 'Starving' Host Galaxy to Death](https://www.sciencedaily.com/releases/2024/09/240916115510.htm)
 * [Clovis Great Lakes Campsite 13,000 Years Ago](https://www.sciencedaily.com/releases/2024/09/240911175944.htm)
-* [AI Models Scored Higher Than 3/4 of Real ...](https://www.sciencedaily.com/releases/2024/09/240916153435.htm)
-* [Genomics Reveals Sled Dogs' Siberian Lineage](https://www.sciencedaily.com/releases/2024/09/240916115530.htm)
-* [Seawater Into Fresh Water](https://www.sciencedaily.com/releases/2024/09/240911142056.htm)
-* [Securing Beer and Whiskey's Future](https://www.sciencedaily.com/releases/2024/09/240911112100.htm)
-* [Cosmology's Two Biggest Puzzles](https://www.sciencedaily.com/releases/2024/09/240913183504.htm)
-* [Huge Gamma-Ray Burst Collection](https://www.sciencedaily.com/releases/2024/09/240913003326.htm)
-* [Unprecedented Control of SIV Replication](https://www.sciencedaily.com/releases/2024/09/240912161720.htm)
-* [Carbon Sequestration in the Deep Ocean](https://www.sciencedaily.com/releases/2024/09/240912142350.htm)
 
 Trending Topics
 ---------------
@@ -228,27 +228,27 @@ this week
 
 [HEALTH](https://www.sciencedaily.com/news/top/health/)
 
-[Heart Disease](https://www.sciencedaily.com/news/health_medicine/heart_disease/)
+[Diabetes](https://www.sciencedaily.com/news/health_medicine/diabetes/)
+
+[Leukemia](https://www.sciencedaily.com/news/health_medicine/leukemia/)
 
 [Obesity](https://www.sciencedaily.com/news/health_medicine/obesity/)
 
-[Diabetes](https://www.sciencedaily.com/news/health_medicine/diabetes/)
-
 [PHYSICAL & TECH](https://www.sciencedaily.com/news/top/technology/)
 
+[Quantum Physics](https://www.sciencedaily.com/news/matter_energy/quantum_physics/)
+
+[Graphene](https://www.sciencedaily.com/news/matter_energy/graphene/)
+
 [Materials Science](https://www.sciencedaily.com/news/matter_energy/materials_science/)
-
-[Construction](https://www.sciencedaily.com/news/matter_energy/construction/)
-
-[Engineering and Construction](https://www.sciencedaily.com/news/matter_energy/engineering_and_construction/)
 
 [ENVIRONMENT](https://www.sciencedaily.com/news/top/environment/)
 
 [Botany](https://www.sciencedaily.com/news/plants_animals/botany/)
 
-[Developmental Biology](https://www.sciencedaily.com/news/plants_animals/developmental_biology/)
+[Organic](https://www.sciencedaily.com/news/plants_animals/organic/)
 
-[Landslides](https://www.sciencedaily.com/news/earth_climate/landslides/)
+[Developmental Biology](https://www.sciencedaily.com/news/plants_animals/developmental_biology/)
 
   
 
