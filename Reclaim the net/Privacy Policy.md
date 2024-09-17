@@ -19,7 +19,7 @@
 * [Donate](https://donorbox.org/reclaim-the-net)
     
 
-[![](https://reclaimthenet.org/wp-content/uploads/2020/04/reclaim-the-net-logo.png)](https://reclaimthenet.org/)
+[![Reclaim The Net Logo](https://reclaimthenet.org/wp-content/uploads/2020/04/reclaim-the-net-logo.png)](https://reclaimthenet.org/)
 
 [Subscribe](https://reclaimthenet.org/join)
 
@@ -145,9 +145,9 @@ Updated September 10, 2019.
 * [RSS](https://reclaimthenet.org/feed)
 * [Privacy](https://reclaimthenet.org/privacy)
 
-![](https://reclaimthenet.org/wp-content/uploads/2020/03/ORIGINAL-LOGO-good-variation-300x106.png)
+![Reclaim The Net Logo](https://reclaimthenet.org/wp-content/uploads/2020/03/ORIGINAL-LOGO-good-variation-300x106.png)
 
-[![](https://reclaimthenet.org/wp-content/uploads/2020/04/reclaim-merch.png)](https://shop.reclaimthenet.org/)
+[![Reclaim The Net merchandise.](https://reclaimthenet.org/wp-content/uploads/2020/04/reclaim-merch.png)](https://shop.reclaimthenet.org/)
 
 [](#elementor-action%3Aaction%3Dpopup%3Aclose%26settings%3DeyJkb19ub3Rfc2hvd19hZ2FpbiI6IiJ9)
 
