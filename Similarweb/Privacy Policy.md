@@ -381,7 +381,7 @@ Follow us on:
 
 [6 E 32nd St, New York, NY 10016, 8 Floor](https://maps.app.goo.gl/bRdHcBbdvVRWnW1z6)
 
-[Get our free extension](https://addons.mozilla.org/firefox/addon/similarweb-sites-recommendatio)
+[Get our free extension](https://chromewebstore.google.com/detail/similarweb-traffic-rank-w/hoklmmgfnpapgjgcpechhaamimifchmp)
 
 * Rankings
     
