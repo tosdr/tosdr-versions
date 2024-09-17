@@ -56,7 +56,7 @@ Search
 
 [![Home](images/logos/21/logo_white.jpg?v=1696508508227 "Home")](https://www.derrynow.com/)
 
-16 Sept 2024
+17 Sept 2024
 
 * [Home
     
@@ -268,13 +268,6 @@ Coffin of Noah Karran at the teenagers funeral (Credit: Thomas Heaney)
 [Derry teenager Noah Karran has 'left a legacy of goodness' mourners told at funeral](https://www.derrynow.com/news/derry-news/1606372/derry-teenager-noah-karran-has-left-a-legacy-of-goodness-mourners-told-at-funeral.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![IN PICTURES: Martin McGuinness Peace Foundation Chieftain's Walk in Derry](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Martin McGuinness Peace Foundation Chieftain's Walk in Derry")](https://www.derrynow.com/story-telling/pictures---videos/1606244/in-pictures-martin-mcguinness-peace-foundation-chieftain-s-walk-in-derry.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[IN PICTURES: Martin McGuinness Peace Foundation Chieftain's Walk in Derry](https://www.derrynow.com/story-telling/pictures---videos/1606244/in-pictures-martin-mcguinness-peace-foundation-chieftain-s-walk-in-derry.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 [![Taoiseach to announce €7.6 million initiative to link Wild Atlantic Way to Northern Ireland Causeway Coastal Route](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Taoiseach to announce €7.6 million initiative to link Wild Atlantic Way to Northern Ireland Causeway Coastal Route")](https://www.derrynow.com/news/local-news/1606007/taoiseach-to-announce-7-6-million-initiative-to-link-wild-atlantic-way-to-northern-ireland-causeway-coastal-route.html)
 
 Taoiseach to announce €7.6 million initiative to link Wild Atlantic Way to Northern Ireland Causeway Coastal Route
@@ -293,12 +286,37 @@ Derry Court
 [Derry man (30) pleas guilty to 12 charges of possessing indecent images of children](https://www.derrynow.com/news/local-news/1606159/derry-man-30-pleas-guilty-to-12-charges-ofpossessing-indecent-images-of-children.html)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+[![IN PICTURES: Martin McGuinness Peace Foundation Chieftain's Walk in Derry](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Martin McGuinness Peace Foundation Chieftain's Walk in Derry")](https://www.derrynow.com/story-telling/pictures---videos/1606244/in-pictures-martin-mcguinness-peace-foundation-chieftain-s-walk-in-derry.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[IN PICTURES: Martin McGuinness Peace Foundation Chieftain's Walk in Derry](https://www.derrynow.com/story-telling/pictures---videos/1606244/in-pictures-martin-mcguinness-peace-foundation-chieftain-s-walk-in-derry.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![IN PICTURES: Great day out at Quirky Corner Sustainable Fashion Fest](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Great day out at Quirky Corner Sustainable Fashion Fest")](https://www.derrynow.com/story-telling/pictures---videos/1606217/in-pictures-great-day-out-at-quirky-corner-sustainable-fashion-fest.html)
+
+IN PICTURES: Great day out at Quirky Corner Sustainable Fashion Fest
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[IN PICTURES: Great day out at Quirky Corner Sustainable Fashion Fest](https://www.derrynow.com/story-telling/pictures---videos/1606217/in-pictures-great-day-out-at-quirky-corner-sustainable-fashion-fest.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 [![Derry Death Notices - Monday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Monday")](https://www.derrynow.com/news/deaths/1604422/derry-death-notices-monday-16th-september-2024.html)
 
 [Deaths](https://www.derrynow.com/section/977/deaths)
 
 [Derry Death Notices - Monday, 16th September 2024](https://www.derrynow.com/news/deaths/1604422/derry-death-notices-monday-16th-september-2024.html)
 -----------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![IN PICTURES: Fantastic day for community in Derry with One World Festival](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Fantastic day for community in Derry with One World Festival")](https://www.derrynow.com/story-telling/pictures---videos/1606239/in-pictures-fantastic-day-for-community-in-derry-with-one-world-festival.html)
+
+IN PICTURES: Fantastic day for community in Derry with One World Festival
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[IN PICTURES: Fantastic day for community in Derry with One World Festival](https://www.derrynow.com/story-telling/pictures---videos/1606239/in-pictures-fantastic-day-for-community-in-derry-with-one-world-festival.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Bail refused for Derry man charged with possession of Romanian AKM assault rifle](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Bail refused for Derry man charged with possession of Romanian AKM assault rifle")](https://www.derrynow.com/news/local-news/1606181/bail-refused-for-derry-man-charged-with-possession-of-romanian-akm-assault-rifle.html)
 
@@ -314,30 +332,12 @@ Derry Court
 [Suspended sentence for Belfast man who assaulted his son outside Derry PSNI station](https://www.derrynow.com/news/local-news/1606103/suspended-sentence-for-belfast-man-who-assaulted-his-son-outside-derry-psni-station.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![IN PICTURES: Fantastic day for community in Derry with One World Festival](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Fantastic day for community in Derry with One World Festival")](https://www.derrynow.com/story-telling/pictures---videos/1606239/in-pictures-fantastic-day-for-community-in-derry-with-one-world-festival.html)
+[![Brother of murdered Co Derry farmer puts up £100,000 reward for information that leads to arrest and conviction of killer](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Brother of murdered Co Derry farmer puts up £100,000 reward for information that leads to arrest and conviction of killer")](https://www.derrynow.com/news/home/1606526/brother-of-murdered-co-derry-farmer-puts-up-100-000-reward-for-information-that-leads-to-arrest-and-conviction-of-killer.html)
 
-IN PICTURES: Fantastic day for community in Derry with One World Festival
+[Home](https://www.derrynow.com/)
 
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[IN PICTURES: Fantastic day for community in Derry with One World Festival](https://www.derrynow.com/story-telling/pictures---videos/1606239/in-pictures-fantastic-day-for-community-in-derry-with-one-world-festival.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![IN PICTURES: Great day out at Quirky Corner Sustainable Fashion Fest](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Great day out at Quirky Corner Sustainable Fashion Fest")](https://www.derrynow.com/story-telling/pictures---videos/1606217/in-pictures-great-day-out-at-quirky-corner-sustainable-fashion-fest.html)
-
-IN PICTURES: Great day out at Quirky Corner Sustainable Fashion Fest
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[IN PICTURES: Great day out at Quirky Corner Sustainable Fashion Fest](https://www.derrynow.com/story-telling/pictures---videos/1606217/in-pictures-great-day-out-at-quirky-corner-sustainable-fashion-fest.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![IN PICTURES: Don Boscos FC pay tribute after youth player Kían Dawson-Kirk's death](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Don Boscos FC pay tribute after youth player Kían Dawson-Kirk's death")](https://www.derrynow.com/story-telling/pictures---videos/1606237/in-pictures-don-boscos-fc-pay-tribute-after-youth-player-kian-dawson-kirk-s-death.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[IN PICTURES: Don Boscos FC pay tribute after youth player Kían Dawson-Kirk's death](https://www.derrynow.com/story-telling/pictures---videos/1606237/in-pictures-don-boscos-fc-pay-tribute-after-youth-player-kian-dawson-kirk-s-death.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Brother of murdered Co Derry farmer puts up £100,000 reward for information that leads to arrest and conviction of killer](https://www.derrynow.com/news/home/1606526/brother-of-murdered-co-derry-farmer-puts-up-100-000-reward-for-information-that-leads-to-arrest-and-conviction-of-killer.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
