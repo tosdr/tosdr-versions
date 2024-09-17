@@ -24,6 +24,7 @@ Language
     
     [View Full Menu](https://www.mcdonalds.com/us/en-us/full-menu.html)
     
+    *      [![](https://s7d1.scene7.com/is/image/mcdonalds/MenuCategoryImage_160x160:menu-category?resmode=sharp2)Genshin Impact Meal](https://www.mcdonalds.com/us/en-us/full-menu/mcdonalds-genshin-impact.html)
     *      [![](https://s7d1.scene7.com/is/image/mcdonalds/MealDeal_NavigationImage_160x160v1:menu-category?resmode=sharp2)Meal Deals](https://www.mcdonalds.com/us/en-us/full-menu/5-dollar-meals.html)
     *      [![](https://s7d1.scene7.com/is/image/mcdonalds/breakfast_300x300:menu-category?resmode=sharp2)Breakfast](https://www.mcdonalds.com/us/en-us/full-menu/breakfast.html)
     *      [![](https://s7d1.scene7.com/is/image/mcdonalds/LeftRail_BurgersPCP_160x160:menu-category?resmode=sharp2)Burgers](https://www.mcdonalds.com/us/en-us/full-menu/burgers.html)
@@ -74,6 +75,7 @@ Language
     
     [View Full Menu](https://www.mcdonalds.com/us/en-us/full-menu.html)
     
+    *      [![](https://s7d1.scene7.com/is/image/mcdonalds/MenuCategoryImage_160x160:menu-category?resmode=sharp2)Genshin Impact Meal](https://www.mcdonalds.com/us/en-us/full-menu/mcdonalds-genshin-impact.html)
     *      [![](https://s7d1.scene7.com/is/image/mcdonalds/MealDeal_NavigationImage_160x160v1:menu-category?resmode=sharp2)Meal Deals](https://www.mcdonalds.com/us/en-us/full-menu/5-dollar-meals.html)
     *      [![](https://s7d1.scene7.com/is/image/mcdonalds/breakfast_300x300:menu-category?resmode=sharp2)Breakfast](https://www.mcdonalds.com/us/en-us/full-menu/breakfast.html)
     *      [![](https://s7d1.scene7.com/is/image/mcdonalds/LeftRail_BurgersPCP_160x160:menu-category?resmode=sharp2)Burgers](https://www.mcdonalds.com/us/en-us/full-menu/burgers.html)
