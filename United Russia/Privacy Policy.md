@@ -305,7 +305,7 @@
 
 [#Станкевич](https://er.ru/activity/news?tags%5B0%5D=30771) [#фракцияЕР](https://er.ru/activity/news?tags%5B0%5D=110930) [#ТЭК](https://er.ru/activity/news?tags%5B0%5D=1363) [#БПЛА](https://er.ru/activity/news?tags%5B0%5D=1094194) [#законодательнаяинициативаЕР](https://er.ru/activity/news?tags%5B0%5D=152136) [#инфраструктура](https://er.ru/activity/news?tags%5B0%5D=1129)
 
-Сегодня 15:10
+17.09.24
 
 [![Госдума приняла в первом чтении законопроект «Единой России» о защите пользователей платных интернет-подписок](https://cdn.er.ru/media/news/September2024/daw054EycNpNBoY0sPXL-small.jpg)](https://er.ru/activity/news/gosduma-prinyala-v-pervom-chtenii-zakonoproekt-edinoj-rossii-o-zashite-polzovatelej-platnyh-internet-podpisok)
 
@@ -313,7 +313,7 @@
 
 [#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#Немкин](https://er.ru/activity/news?tags%5B0%5D=1092473) [#цифровыеподписки](https://er.ru/activity/news?tags%5B0%5D=1094420) [#законопроекты](https://er.ru/activity/news?tags%5B0%5D=863)
 
-Сегодня 14:49
+17.09.24
 
 [![Депутаты фракции «Единой России» избраны председателями ряда комитетов Госдумы](https://cdn.er.ru/media/news/September2024/Lj3MncYST4IPiknS2dkF-small.jfif)](https://er.ru/activity/news/deputaty-frakcii-edinoj-rossii-izbrany-predsedatelyami-ryada-komitetov-gosdumy)
 
@@ -321,7 +321,7 @@
 
 [#Матыцин](https://er.ru/activity/news?tags%5B0%5D=143995) [#Казакова](https://er.ru/activity/news?tags%5B0%5D=30356) [#Белых](https://er.ru/activity/news?tags%5B0%5D=9569) [#Шульгинов](https://er.ru/activity/news?tags%5B0%5D=1095570) [#фракцияЕР](https://er.ru/activity/news?tags%5B0%5D=126717)
 
-Сегодня 13:58
+17.09.24
 
 [![Депутат Госдумы от «Единой России» Виктория Абрамченко избрана вице-спикером Госдумы](https://cdn.er.ru/media/news/September2024/SLaxerKw9Amxk4GdGgIT-small.jpg)](https://er.ru/activity/news/deputat-gosdumy-ot-edinoj-rossii-viktoriya-abramchenko-izbrana-vice-spikerom-gosdumy)
 
@@ -329,7 +329,7 @@
 
 [#Абрамченко](https://er.ru/activity/news?tags%5B0%5D=88828) [#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#вице-спикер](https://er.ru/activity/news?tags%5B0%5D=8985) [#избрание](https://er.ru/activity/news?tags%5B0%5D=416) [#фракцияЕР](https://er.ru/activity/news?tags%5B0%5D=110930)
 
-Сегодня 13:51
+17.09.24
 
 [![«Молодая Гвардия Единой России» доставила воду спецслужбам и жителям Станично-Луганского района, пострадавшим от пожара](https://cdn.er.ru/media/news/September2024/m11FqeQfIDCq7fgyBUMF-small.jpg)](https://er.ru/activity/news/molodaya-gvardiya-edinoj-rossii-dostavila-vodu-specsluzhbam-i-zhitelyam-stanichno-luganskogo-rajona-postradavshim-ot-pozhara)
 
@@ -337,7 +337,7 @@
 
 [#МГЕР](https://er.ru/activity/news?tags%5B0%5D=47) [#Луганская Народная Республика](https://er.ru/activity/news?tags%5B0%5D=126130) [#пожары](https://er.ru/activity/news?tags%5B0%5D=165) [#ЧС](https://er.ru/activity/news?tags%5B0%5D=2991) [#ЕРпомогает](https://er.ru/activity/news?tags%5B0%5D=147285)
 
-Сегодня 12:49
+17.09.24
 
 [![«Единая Россия» дала старт Всероссийской акции помощи бездомным животным «Лучший друг»](https://cdn.er.ru/media/news/September2024/OLdEMBXMl1Anf3zeMjmd-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-dala-start-vserossijskoj-akcii-pomoshi-bezdomnym-zhivotnym-luchshij-drug)
 
@@ -345,7 +345,7 @@
 
 [#Занко](https://er.ru/activity/news?tags%5B0%5D=1092667) [#лучшийдруг](https://er.ru/activity/news?tags%5B0%5D=136321) [#акция](https://er.ru/activity/news?tags%5B0%5D=238) [#приютдляживотных](https://er.ru/activity/news?tags%5B0%5D=126585) [#ЕРпомогает](https://er.ru/activity/news?tags%5B0%5D=146978) [#Защитаживотногомира](https://er.ru/activity/news?tags%5B0%5D=1092835) [#партпроекты](https://er.ru/activity/news?tags%5B0%5D=1090407)
 
-Сегодня 12:00
+17.09.24
 
 ![Сайт президента РФ](https://cdn.er.ru/media/sites/July2020/7T7J24LxtsdGGJVk1lL0.jpg)
 
