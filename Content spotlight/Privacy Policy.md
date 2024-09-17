@@ -64,11 +64,11 @@ Copyright © Content Spotlight 2023
 Recent Posts
 ------------
 
+* [Content Writing in Kolkata | Leading writing agency](https://contentspotlight.org/content-writing-in-kolkata-leading-writing-agency/)
 * [Content Writing in India | How to write engaging content](https://contentspotlight.org/content-writing-in-india-how-to-write-engaging-content/)
 * [Types of SEO and how it can improve your Search Engine Rankings](https://contentspotlight.org/types-of-seo-and-how-it-can-improve-your-search-engine-rankings/)
 * [Best SEO companies in 2024](https://contentspotlight.org/best-seo-companies-in-2024/)
 * [How to choose an SEO agency](https://contentspotlight.org/how-seo-can-improve-your-search-engine-ranking/)
-* [Top Content marketing Agencies in India](https://contentspotlight.org/top-content-marketing-agencies-in-india/)
 
 ### Web Safety
 
