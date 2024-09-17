@@ -6,7 +6,6 @@ Radio](https://www.bfmtv.com/en-direct/bfm-radio/ "Direct Radio")[![Direct tv](/
 
 DirectTV](https://www.bfmtv.com/en-direct/ "Direct tv")
 
-*  [Paris 2024](https://rmcsport.bfmtv.com/jeux-olympiques/ "Paris 2024")
 * [Vidéos](https://www.bfmtv.com/videos/ "Vidéos")
 * [Politique](https://www.bfmtv.com/politique/ "Politique")
 * [Police-Justice](https://www.bfmtv.com/police-justice/ "Police-Justice")
@@ -14,6 +13,7 @@ DirectTV](https://www.bfmtv.com/en-direct/ "Direct tv")
 * [Société](https://www.bfmtv.com/societe/ "Société")
 * [Économie](https://www.bfmtv.com/economie/ "Économie")
 * [Tech](https://www.bfmtv.com/tech/ "Tech")
+* [Auto](https://www.bfmtv.com/auto/ "Auto")
 * [Sport](https://rmcsport.bfmtv.com/ "Sport")
 * [Santé](https://www.bfmtv.com/sante/ "Santé")
 * [People](https://www.bfmtv.com/people/ "People")
@@ -36,7 +36,6 @@ Replay BFMTV](https://www.rmcbfmplay.com/chaine/bfm-tv?subMenuId=RefMenuItem::rm
 
 À la une
 
-* [Paris 2024](https://rmcsport.bfmtv.com/jeux-olympiques/ "Paris 2024")
 * [Élection américaine 2024](https://www.bfmtv.com/international/amerique-nord/etats-unis/elections-americaines/ "Élection américaine 2024")
 
 Parcourir
@@ -398,15 +397,15 @@ _La liste ci-dessus n’est pas une liste exhaustive car elle ne comprend pas le
 Les plus lus
 ------------
 
-1. [![Une voiture de police devant le Trump International Golf Club, à Palm Beach en Floride, le dimanche 15 septembre 2024](https://images.bfmtv.com/j30Bygy4zXM0H1WXqKKrLZU_6-0=/0x0:1920x1080/300x0/images/Une-voiture-de-police-devant-le-Trump-International-Golf-Club-a-Palm-Beach-en-Floride-le-dimanche-15-septembre-2024-1937603.jpg)
+1. [![Croquis d'audience montrant Dominique Pelicot quittant la salle son box du tribunal d'Avignon, le 11 septembre 2024](https://images.bfmtv.com/wVuWKrfrzdcnDi9z0WY_TzbiXvY=/0x93:768x525/300x0/images/Croquis-d-audience-montrant-Dominique-Pelicot-quittant-la-salle-son-box-du-tribunal-d-Avignon-le-11-septembre-2024-1934842.webp)
     
-    ![Une voiture de police devant le Trump International Golf Club, à Palm Beach en Floride, le dimanche 15 septembre 2024](https://images.bfmtv.com/j30Bygy4zXM0H1WXqKKrLZU_6-0=/0x0:1920x1080/300x0/images/Une-voiture-de-police-devant-le-Trump-International-Golf-Club-a-Palm-Beach-en-Floride-le-dimanche-15-septembre-2024-1937603.jpg)
+    ![Croquis d'audience montrant Dominique Pelicot quittant la salle son box du tribunal d'Avignon, le 11 septembre 2024](https://images.bfmtv.com/wVuWKrfrzdcnDi9z0WY_TzbiXvY=/0x93:768x525/300x0/images/Croquis-d-audience-montrant-Dominique-Pelicot-quittant-la-salle-son-box-du-tribunal-d-Avignon-le-11-septembre-2024-1934842.webp)
     
-    ### Donald Trump: enquête du FBI, suspect... Ce que l'on sait sur les tirs entendus à proximité du candidat républicain](https://www.bfmtv.com/international/amerique-nord/etats-unis/donald-trump-enquete-du-fbi-suspect-ce-que-l-on-sait-sur-les-tirs-entendus-a-proximite-du-candidat-republicain_AV-202409160037.html "Donald Trump: enquête du FBI, suspect... Ce que l'on sait sur les tirs entendus à proximité du candidat républicain")
-2. [### Tirs près de Donald Trump: qui est Ryan Wesley Routh, le suspect interpellé en Floride?](https://www.bfmtv.com/international/amerique-nord/etats-unis/tirs-pres-de-donald-trump-qui-est-ryan-wesley-routh-le-suspect-interpelle-en-floride_AV-202409160127.html "Tirs près de Donald Trump: qui est Ryan Wesley Routh, le suspect interpellé en Floride?")
-3. [### "Ça peut être n'importe qui autour de nous": à Mazan, les habitants entre stupeur et suspicion](https://www.bfmtv.com/police-justice/proces/ca-peut-etre-n-importe-qui-autour-de-nous-a-mazan-les-habitants-entre-stupeur-et-le-suspicion_AV-202409150272.html ""Ça peut être n'importe qui autour de nous": à Mazan, les habitants entre stupeur et suspicion")
-4. [### "Tout ça, c’est derrière moi": Booba annonce la fin de son combat contre le business des influenceurs](https://www.bfmtv.com/tech/tout-ca-c-est-derriere-moi-booba-annonce-la-fin-de-son-combat-contre-le-business-des-influenceurs_AN-202409150391.html ""Tout ça, c’est derrière moi": Booba annonce la fin de son combat contre le business des influenceurs")
-5. [### Attention à cette tendance TikTok qui pourrait entraîner des contaminations bactériennes de vos aliments](https://rmc.bfmtv.com/conso/alimentation/attention-a-cette-tendance-tik-tok-qui-pourrait-entrainer-des-contaminations-bacteriennes-de-vos-aliments_AV-202409160223.html "Attention à cette tendance TikTok qui pourrait entraîner des contaminations bactériennes de vos aliments")
+    ### Une prise en charge de Dominique Pelicot "retardée"? Comment sont soignés les détenus en France](https://www.bfmtv.com/police-justice/une-prise-en-charge-de-dominique-pelicot-retardee-comment-sont-soignes-les-detenus-en-france_AV-202409160830.html "Une prise en charge de Dominique Pelicot "retardée"? Comment sont soignés les détenus en France")
+2. [### Comment expliquer l'intensité et l'ampleur de la tempête Boris qui dévaste une partie de l'Europe](https://www.bfmtv.com/international/europe/comment-expliquer-l-intensite-et-l-ampleur-de-la-tempete-boris-qui-devaste-une-partie-de-l-europe_AV-202409160987.html "Comment expliquer l'intensité et l'ampleur de la tempête Boris qui dévaste une partie de l'Europe")
+3. [### Tentative d'assassinat présumée de Donald Trump: des conséquences sur l'élection présidentielle?](https://www.bfmtv.com/international/amerique-nord/etats-unis/elections-americaines/tentative-d-assassinat-presumee-de-donald-trump-des-consequences-sur-l-election-presidentielle_AV-202409170141.html "Tentative d'assassinat présumée de Donald Trump: des conséquences sur l'élection présidentielle?")
+4. [### "Tout va bien": les derniers mots des membres du Titan, le submersible qui a implosé près du Titanic](https://www.bfmtv.com/international/tout-va-bien-les-derniers-mots-des-membres-du-titan-le-submersible-qui-a-implose-pres-du-titanic_AN-202409160870.html ""Tout va bien": les derniers mots des membres du Titan, le submersible qui a implosé près du Titanic")
+5. [### Le rappeur américain Sean Combs, alias P. Diddy, arrêté à New York](https://www.bfmtv.com/people/le-rappeur-americain-sean-combs-alias-p-diddy-arrete-a-new-york_AN-202409170046.html "Le rappeur américain Sean Combs, alias P. Diddy, arrêté à New York")
 
 ![BFMTV](/assets/v6/images/BFMTV.848c19e09c92f3ced2163a1a0399be11.svg "BFMTV")
 
