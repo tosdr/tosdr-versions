@@ -65,6 +65,7 @@ Log into Online Banking
         * [Digital Wallet](https://www.communityfirstfl.org/personal-banking/online-banking/digital-wallet)
         * [Credit Card Tools](https://www.communityfirstfl.org/personal-banking/online-banking/credit-card-tools)
         * [Personal Financial Management Tool](https://www.communityfirstfl.org/personal-banking/online-banking/personal-financial-management-tool)
+    * [Refer a Friend\*](https://refer.communityfirstfl.org/)
 * [Business Banking](#)
     * Back
     * [Business Banking Options](https://www.communityfirstfl.org/business-banking)
@@ -117,8 +118,8 @@ Log into Online Banking
         * [Savings, Money Markets, IRAs Rates](https://www.communityfirstfl.org/resources/rates/savings,-money-markets,-iras-rates)
     * * [Tools](https://www.communityfirstfl.org/resources/tools)
         * [Overview](https://www.communityfirstfl.org/resources/tools)
-        * [moveUP Financial Wellness](https://www.communityfirstfl.org/resources/tools/moveup-financial-program)
         * [Calculators](https://www.communityfirstfl.org/resources/tools/calculators)
+        * [moveUP Financial Wellness](https://www.communityfirstfl.org/resources/tools/moveup-financial-program)
         * [Fraud Prevention and Security](https://www.communityfirstfl.org/resources/tools/fraud-prevention-and-security)
         * [FedNow](https://www.communityfirstfl.org/resources/tools/fednow)
     * [CU Rewards](https://www.communityfirstfl.org/resources/cu-rewards)
