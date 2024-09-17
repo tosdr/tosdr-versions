@@ -124,6 +124,6 @@ If you have questions about (or suggestions for!) this policy, please [contact u
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-I have been very happy with the Foxy Proxy service.
+I think foxy proxy offers a great service. I will definitely be setting up a subscription in the future and I have already recommended it to all my expat friends.
 
-Rachel Ash-Bernal, M.D.
+Darren Smalley
