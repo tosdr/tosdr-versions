@@ -1,14 +1,14 @@
-![](https://pixelcounter.marca.com/pixelcontabilizacion/pixelcontabilizacion.gifctl?r=http%3A%2F%2Fwww%2Emarca%2Ecom%2Fcorporativo%2Fterminos%2Dcondiciones%2Duso%2Ehtml&s=marca&d=ZuiVEAoAAvYAAABggsU)
+![](https://pixelcounter.marca.com/pixelcontabilizacion/pixelcontabilizacion.gifctl?r=http%3A%2F%2Fwww%2Emarca%2Ecom%2Fcorporativo%2Fterminos%2Dcondiciones%2Duso%2Ehtml&s=marca&d=Zujo7QoAAvUAAABhTZU)
 
 * Es noticia:
-* [Almería - Castellón](https://www.marca.com/futbol/laliga-hypermotion/almeria-castellon/2024/09/16/01_0102_20240916_1564_2500-directo.html)
 * [Sorteo Copa Rey](https://www.marca.com/futbol/copa-rey/2024/09/16/66e7f905e2704e03758b458b.html)
 * [Rayo - Osasuna](https://www.marca.com/futbol/laliga-ea-sports/rayo-osasuna/2024/09/16/01_0101_20240916_184_450-directo.html)
 * [Formato Champions](https://www.marca.com/futbol/champions-league/2024/09/16/66e8129622601d785e8b458a.html)
+* [Real Madrid - Stuttgart](https://www.marca.com/futbol/champions-league/2024/09/16/66e81503e2704ebaad8b457e.html)
 * [Palou Andretti](https://www.marca.com/motor/indycar/2024/09/16/66e8773aca4741e4028b4592.html)
 * [Manu Tenorio](https://www.marca.com/tiramillas/television/2024/09/16/66e86790e2704eae848b45b0.html)
 * [Sinner Djokovic](https://www.marca.com/tenis/2024/09/16/66e8463346163fc17c8b4574.html)
-* [Real Madrid](https://www.marca.com/baloncesto/acb/2024/09/16/real-madrid-barca-favoritos-obligados-venimos-ganar.html)
+* [Ancelotti](https://www.marca.com/futbol/real-madrid/2024/09/16/66e7193e46163f4d7f8b4573.html)
 * [Niño Becerra](https://www.marca.com/tiramillas/actualidad/economia/2024/09/16/66e845c6268e3e3e6b8b459c.html)
 * [Horarios MotoGP Emilia Romagna](https://www.marca.com/motor/motogp/gp-emilia-romagna/2024/09/15/66e71729268e3eda6c8b457f.html)
 * [Horarios F1 GP Singapur](https://www.marca.com/motor/formula1/gp-singapur/2024/09/15/66e7093a22601db2608b458f.html)
