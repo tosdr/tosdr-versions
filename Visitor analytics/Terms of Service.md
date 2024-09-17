@@ -53,11 +53,11 @@
     * [SaaS Platforms](https://www.visitor-analytics.io/en/white-label/saas-platforms "SaaS Platforms")
     * [Agencies & Consultancies](https://www.visitor-analytics.io/en/white-label/agencies-consultancies "Agencies & Consultancies")
 * [Blog](https://www.visitor-analytics.io/en/blog "Blog")![](/fileadmin/twipla/typo3-website-theme/template/images/icons/down-arrow.svg)
+    * [What Is A Data Breach? Definition, Types, Examples](https://www.visitor-analytics.io/en/blog/data-breach "What Is A Data Breach? Definition, Types, Examples")
     * [Data Lifecycle: Where Do Data Bytes Go When They Die?](https://www.visitor-analytics.io/en/blog/data-lifecycle "Data Lifecycle: Where Do Data Bytes Go When They Die?")
     * [Interview: Tony Moroney on Digital Disruption, Transformation, and Generative AI](https://www.visitor-analytics.io/en/blog/interview-tony-moroney-digital-disruption-transformation-generative-ai "Interview: Tony Moroney on Digital Disruption, Transformation, and Generative AI")
     * [Data Privacy vs. Data Security: Can They Coexist?](https://www.visitor-analytics.io/en/blog/data-privacy-vs-data-security "Data Privacy vs. Data Security: Can They Coexist?")
     * [Website Intelligence News Roundup August 2024](https://www.visitor-analytics.io/en/blog/website-intelligence-news-roundup-august-2024 "Website Intelligence News Roundup August 2024")
-    * [What is Data Privacy](https://www.visitor-analytics.io/en/blog/what-is-data-privacy "What is Data Privacy")
     
 * [Resources](https://www.visitor-analytics.io/en/support)![](/fileadmin/twipla/typo3-website-theme/template/images/icons/down-arrow.svg)
     
