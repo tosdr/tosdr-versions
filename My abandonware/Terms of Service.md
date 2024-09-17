@@ -85,20 +85,20 @@ Top downloads
 
 Latest releases
 
-* [Kyros](https://www.myabandonware.com/game/kyros-6ik)
-* [Karate Champ](https://www.myabandonware.com/game/karate-champ-5ux)
-* [Kangaroo](https://www.myabandonware.com/game/kangaroo-ack)
-* [Liquid Kids](https://www.myabandonware.com/game/liquid-kids-kqr)
-* [Lode Runner](https://www.myabandonware.com/game/lode-runner-xt)
+* [Space Invaders: Part II](https://www.myabandonware.com/game/space-invaders-part-ii-sdh)
+* [Space Invaders II](https://www.myabandonware.com/game/space-invaders-ii-sdg)
+* [Space Force](https://www.myabandonware.com/game/space-force-sde)
+* [Space Encounters](https://www.myabandonware.com/game/space-encounters-sdd)
+* [Space Cyclone](https://www.myabandonware.com/game/space-cyclone-sdc)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [Facebook](https://www.facebook.com/myabandonware) or [X (Twitter)](https://x.com/myabandonware)
 
 Screenshots needed
 
-* [Adventure](https://www.myabandonware.com/game/adventure-nx8)
-* [Minky Monkey](https://www.myabandonware.com/game/minky-monkey-rul)
-* [ZURK V: The Dungeon Master](https://www.myabandonware.com/game/zurk-v-the-dungeon-master-r5w)
+* [Extreme Angler](https://www.myabandonware.com/game/extreme-angler-i4h)
+* [Superkid](https://www.myabandonware.com/game/superkid-om8)
+* [Gunplay](https://www.myabandonware.com/game/gunplay-mo2)
 
 Read our [screenshot tutorial](https://www.myabandonware.com/screenshots/)
 
