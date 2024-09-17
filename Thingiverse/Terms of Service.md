@@ -112,7 +112,7 @@
     [Open a support case](https://support.ultimaker.com/s/contactsupport) [Register your device](https://support.ultimaker.com/s/contactsupport?tabset-c788a=3) [Software](https://www.makerbot.com/3d-printers/apps/makerbot-print/download/)
     
 
-[Request a quote](https://www.makerbot.com/quote-request)
+[Request a quote](https://www.makerbot.com/quote-request) [Buy now](https://store.ultimaker.com/3d-printers/sketch-series)
 
 [](#) 
 
@@ -124,7 +124,7 @@
 
 [](https://store.ultimaker.com/checkout/cart)
 
-[Request a quote](https://www.makerbot.com/quote-request)
+[Request a quote](https://www.makerbot.com/quote-request) [Buy now](https://store.ultimaker.com/3d-printers/sketch-series)
 
 MAKERBOT TERMS OF USE
 =====================
