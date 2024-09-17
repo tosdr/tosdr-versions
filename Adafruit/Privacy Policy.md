@@ -404,9 +404,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ Nothing is work unless you'd rather be doing something else”
+“ An expert is a person who has made all the mistakes that can be made in a very narrow field”
 
-[George Halas](http://en.wikipedia.org/wiki/George_Halas)
+[Niels Bohr](https://en.wikipedia.org/wiki/Niels_Bohr)
 
 [](https://www.adafruit.com/about)
 
