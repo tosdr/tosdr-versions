@@ -89,38 +89,16 @@ FOX SCORES
     | AUS | –   |
     | ENG | –   |
     
-* Cricket
-    
-* [Women's T20I
-    
-    RSA won by 10 runs
-    
-    |     |     |
-    | --- | --- |
-    | PAK | 5 /122 |
-    | RSA | 4 /132 |
-    
-    Match Centre](https://www.foxsports.com.au/cricket/match-centre/WT20I20241501)
-* [Men's ODI
-    
-    CAN won by 103 runs
-    
-    |     |     |
-    | --- | --- |
-    | CAN | 8 /253 |
-    | NEP | 150 |
-    
-    Match Centre](https://www.foxsports.com.au/cricket/match-centre/ODI20240501)
 * NFL
     
 * [NFL
     
-    Half Time
+    Full Time
     
     |     |     |
     | --- | --- |
-    | PHI | 7   |
-    | ATL | 6   |
+    | PHI | 21  |
+    | ATL | 22  |
     
     Match Centre](https://www.foxsports.com.au/gridiron/nfl/match-centre/NFL2024-250216)
 * Motorsport
@@ -903,7 +881,7 @@ FOX SCORES
 
 [Fox sports](https://www.foxsports.com.au/)
 
-[Scores](https://www.foxsports.com.au/score-centre/live-now)
+[Scores](https://www.foxsports.com.au/score-centre)
 
 * [Video](https://www.foxsports.com.au/video)
 * [NRL](https://www.foxsports.com.au/nrl)
