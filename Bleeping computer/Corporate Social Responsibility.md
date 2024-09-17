@@ -302,19 +302,16 @@ BleepingComputer.com has partnered with [StackCommerce](https://stackcommerce.co
 
 If you have any questions or concerns regarding these policies, please free to contact us here: [https://www.bleepingcomputer.com/contact/](https://www.bleepingcomputer.com/contact/)
 
-[![Mandiant mWise Conference 2024](https://www.bleepstatic.com/c/m/mandiant/registration-general_mwise-anywhere.jpg)](https://www.bleepingcomputer.com/mgo/62/)
+[![Mandiant mWise Conference 2024](https://www.bleepstatic.com/c/m/mandiant/registration-general_nobody-miss.jpg)](https://www.bleepingcomputer.com/mgo/63/)
 
 Popular Stories
 
-* [![Kiosk](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    Malware locks browser in kiosk mode to steal Google credentials](https://www.bleepingcomputer.com/news/security/malware-locks-browser-in-kiosk-mode-to-steal-google-credentials/)
-* [![CISA](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    FBI tells public to ignore false claims of hacked voter data](https://www.bleepingcomputer.com/news/security/fbi-tells-public-to-ignore-false-claims-of-hacked-voter-data/)
 * [![CISA](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     CISA warns of Windows flaw used in infostealer malware attacks](https://www.bleepingcomputer.com/news/security/cisa-warns-of-windows-flaw-used-in-infostealer-malware-attacks/)
+* [![Microsoft Office](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    Microsoft rolls out Office LTSC 2024 for Windows and Mac](https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-office-ltsc-2024-for-windows-and-mac/)
 * [![D-Link](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     D-Link fixes critical RCE, hardcoded password flaws in WiFi 6 routers](https://www.bleepingcomputer.com/news/security/d-link-fixes-critical-rce-hardcoded-password-flaws-in-wifi-6-routers/)
