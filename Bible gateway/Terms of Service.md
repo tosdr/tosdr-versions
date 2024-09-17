@@ -41,11 +41,11 @@ account
     * [Deals](https://faithgateway.com/collections/biblegateway-special-deals?utm_source=bg&utm_medium=referral&utm_campaign=nav_deals)
     * [More](https://faithgateway.com/?utm_source=bg&utm_medium=referral&utm_campaign=nav_more)
 
-[BEST VALUE in digital Bible study. Start for FREE.](https://www.biblegateway.com/plus/?utm_source=bg&promo=study15&utm_medium=alert_mobile&utm_campaign=bgplus_alert_value1010)
+[A Verse of the Day in your inbox? Yes, please!](https://www.biblegateway.com/landing/verse-of-the-day/?utm_source=bg&utm_medium=alert_mobile&utm_campaign=alert_votdinbox716)
 
 close
 
-[Save 15% for life for an EVEN BETTER VALUE! Start your Bible study with a Bible Gateway Plus FREE trial today.](https://www.biblegateway.com/plus/?utm_source=bg&promo=study15&utm_medium=alert&utm_campaign=bgplus_alert_bgplus_fy25_backtobiblestudy_value15off)
+[Send yourself back to school! Study the Bible with access to 50+ premium resources in BibleGateway+ with over $3,100 in valuable resources!](https://www.biblegateway.com/plus/?utm_source=bg&promo=study15&utm_medium=alert&utm_campaign=bgplus_alert_bgplus_fy25_backtobiblestudy_schoolvalue3100)
 
 close
 
