@@ -30,7 +30,7 @@ Subscribe
 
  ![Search](/theme_japantimes/images/search_icon.svg)
 
-* [Shohei Ohtani](https://www.japantimes.co.jp/tag/shohei-ohtani/ "Shohei Ohtani")
+* ['Shogun'](https://www.japantimes.co.jp/tag/shogun/ "'Shogun'")
 * [LDP RACE](https://www.japantimes.co.jp/tag/ldp/ "LDP RACE")
 * [Special series: Boiling Point](https://www.japantimes.co.jp/boiling-point/ "Special series: Boiling Point")
 * [Latest News](https://www.japantimes.co.jp/latest-news/ "Latest News")
@@ -146,9 +146,9 @@ If you would like to quote more than 20 percent of an article, please contact us
 
   [![Activists hold up symbolic eye masks during a protest against deepfake porn in Seoul on Aug. 30. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/13/420717.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Activists hold up symbolic eye masks during a protest against deepfake porn in Seoul on Aug. 30. ")](https://www.japantimes.co.jp/commentary/2024/09/13/world/south-korea-deepfake-porn-crisis/ "South Korea is facing deepfake porn crisis")
 
-[Floods bring travel chaos and damage across central Europe](https://www.japantimes.co.jp/news/2024/09/16/world/travel-damage-european-floods/ "Floods bring travel chaos and damage across central Europe")
+[‘The people I’d seen in kimono didn’t have as much melanin as I do’](https://www.japantimes.co.jp/community/2024/09/16/our-lives/kimono-instructor-license-black-women-japan/ "‘The people I’d seen in kimono didn’t have as much melanin as I do’")
 
-  [![A road is flooded after heavy rainfall in the municipality of Neulengbach, in northeast Austria, on Sunday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/16/421899.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "A road is flooded after heavy rainfall in the municipality of Neulengbach, in northeast Austria, on Sunday.")](https://www.japantimes.co.jp/news/2024/09/16/world/travel-damage-european-floods/ "Floods bring travel chaos and damage across central Europe")
+  [![American Kara Harris is on the verge of attaining a high-level certification in the world of kimono — and may possibly be the first Black woman to do so.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/13/421162.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "American Kara Harris is on the verge of attaining a high-level certification in the world of kimono — and may possibly be the first Black woman to do so.")](https://www.japantimes.co.jp/community/2024/09/16/our-lives/kimono-instructor-license-black-women-japan/ "‘The people I’d seen in kimono didn’t have as much melanin as I do’")
 
 Editors' Picks
 --------------
@@ -183,13 +183,13 @@ By [Catherine Thorbecke](https://www.japantimes.co.jp/author/5823/catherine-thor
 
   [![Activists hold up symbolic eye masks during a protest against deepfake porn in Seoul on Aug. 30. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/13/420717.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Activists hold up symbolic eye masks during a protest against deepfake porn in Seoul on Aug. 30. ")](https://www.japantimes.co.jp/commentary/2024/09/13/world/south-korea-deepfake-porn-crisis/ "South Korea is facing deepfake porn crisis")
 
-[WORLD](https://www.japantimes.co.jp/news/world/ "WORLD")
+[COMMUNITY](https://www.japantimes.co.jp/community/ "COMMUNITY")
 
-[Floods bring travel chaos and damage across central Europe](https://www.japantimes.co.jp/news/2024/09/16/world/travel-damage-european-floods/ "Floods bring travel chaos and damage across central Europe")
+[‘The people I’d seen in kimono didn’t have as much melanin as I do’](https://www.japantimes.co.jp/community/2024/09/16/our-lives/kimono-instructor-license-black-women-japan/ "‘The people I’d seen in kimono didn’t have as much melanin as I do’")
 
-By [Marton Eder](https://www.japantimes.co.jp/author/2585/marton-eder/ "Marton Eder") and [Agnieszka Barteczko](https://www.japantimes.co.jp/author/6026/agnieszka-barteczko/ "Agnieszka Barteczko")  
+By [Baye McNeil](https://www.japantimes.co.jp/author/264/baye-mcneil/ "Baye McNeil")  
 
-  [![A road is flooded after heavy rainfall in the municipality of Neulengbach, in northeast Austria, on Sunday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/16/421899.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "A road is flooded after heavy rainfall in the municipality of Neulengbach, in northeast Austria, on Sunday.")](https://www.japantimes.co.jp/news/2024/09/16/world/travel-damage-european-floods/ "Floods bring travel chaos and damage across central Europe")
+  [![American Kara Harris is on the verge of attaining a high-level certification in the world of kimono — and may possibly be the first Black woman to do so.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/13/421162.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "American Kara Harris is on the verge of attaining a high-level certification in the world of kimono — and may possibly be the first Black woman to do so.")](https://www.japantimes.co.jp/community/2024/09/16/our-lives/kimono-instructor-license-black-women-japan/ "‘The people I’d seen in kimono didn’t have as much melanin as I do’")
 
 Podcast
 -------
@@ -252,19 +252,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
-[Sri Lanka's leftist leader turns from bullets to ballots](https://www.japantimes.co.jp/news/2024/09/16/asia-pacific/politics/sri-lanka-leftist-candidate/ "Sri Lanka's leftist leader turns from bullets to ballots")
+[Iran president pledges to stop morality police confronting women](https://www.japantimes.co.jp/news/2024/09/17/world/iran-morality-police-women/ "Iran president pledges to stop morality police confronting women")
 
-10 hours ago
+37 mins ago
 
-[Surviving a climate disaster isn’t likely to change how you vote](https://www.japantimes.co.jp/news/2024/09/16/world/politics/climate-disasters-voting/ "Surviving a climate disaster isn’t likely to change how you vote")
+[Superbugs death toll could swell by millions over coming years](https://www.japantimes.co.jp/news/2024/09/17/world/science-health/superbugs-death-toll-millions/ "Superbugs death toll could swell by millions over coming years")
 
-11 hours ago
+57 mins ago
 
-[First person convicted under Hong Kong's new national security law](https://www.japantimes.co.jp/news/2024/09/16/asia-pacific/crime-legal/hong-kong-security-law-t-shirt/ "First person convicted under Hong Kong's new national security law")
+[Raising awareness key to Japan's new residential road speed limit](https://www.japantimes.co.jp/news/2024/09/17/japan/japan-new-residential-road-speed-limit/ "Raising awareness key to Japan's new residential road speed limit")
 
-[Philippines vows continued presence after South China Sea reef pullout](https://www.japantimes.co.jp/news/2024/09/16/asia-pacific/philippine-ship-withdrawn-south-china-sea/ "Philippines vows continued presence after South China Sea reef pullout")
+1 hours ago
 
-[Mitsubishi Heavy cancels H2A rocket launch for the second time](https://www.japantimes.co.jp/news/2024/09/16/japan/rocket-launch-postponed/ "Mitsubishi Heavy cancels H2A rocket launch for the second time")
+[How Intel lost the Sony PlayStation business](https://www.japantimes.co.jp/business/2024/09/17/tech/intel-lost-sony-playstation-contract/ "How Intel lost the Sony PlayStation business")
+
+1 hours ago
+
+[Suspect in second Trump assassination attempt had criminal history](https://www.japantimes.co.jp/news/2024/09/17/world/crime-legal/trump-assassination-criminal-history/ "Suspect in second Trump assassination attempt had criminal history")
+
+1 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
