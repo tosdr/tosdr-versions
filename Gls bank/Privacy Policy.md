@@ -1,224 +1,345 @@
-[![GLS Bank](/assets/dist/img/content/gls_logo_23.svg "GLS Bank")](https://www.gls.de/privatkunden/ "GLS Bank")
+[![Zur Startseite der GLS Gemeinschaftsbank eG](/media/Bilder/Logos/GLSB_Logo_Farbe_sRGB.svg)](https://www.gls.de/ "Zur Startseite der GLS Bank")
 
-[Privatkund\*in](https://www.gls.de/privatkunden/ "Privatkunden")[Unternehmen & Institutionen](https://www.gls.de/unternehmen-institutionen/ "Unternehmen & Institutionen")[Gemeinnützige Kunden](https://www.gls.de/gemeinnuetzige-kunden/ "Gemeinnützige Kunden")
+* [Privatkund\*in](https://www.gls.de/privatkunden/)
+* [Unternehmen](https://www.gls.de/unternehmen/)
+* [Gemeinnützig](https://www.gls.de/gemeinnuetzige-kunden/)
 
-[Privatkund\*in](https://www.gls.de/privatkunden/ "Privatkunden")[Unternehmen & Institutionen](https://www.gls.de/unternehmen-institutionen/ "Unternehmen & Institutionen")[Gemeinnützige Kunden](https://www.gls.de/gemeinnuetzige-kunden/ "Gemeinnützige Kunden")
+* Barrierearmut
+* Suche
+    
+    ### Suche
+    
+    Beste Ergebnisse Angebote Fragen & Antworten Formulare & Infocenter Aktuelles Termine Unsere Kunden Inhalt
+    
+    #### Hier scheint nichts zu sein.  
+    Probieren Sie eine synonyme Suchanfrage.
+    
+    #### Was suchen Sie?  
+    Wir warten gespannt auf Ihre Eingabe.
+    
+    [Alle Ergebnisse anzeigen](#)
+    
+* Service
+    
+    * [Selfservice](https://www.gls.de/gls-bank/service/selfservice/)
+    * [Allgemeiner Service](https://www.gls.de/gls-bank/service/)
+    
+* Login
+    
+    * [Onlinebanking](https://www.gls-online-filiale.de/services_cloud/portal)
+    * [OnlineInvest](https://gls.anlegen.meininvest.de/dashboard)
+    
+* Menü
 
-* [Nachhaltig](https://www.gls.de/privatkunden/nachhaltig/ "Nachhaltig")
+[Konto eröffnen](https://www.gls.de/konten-karten/konten/girokonto/)
+
+[![Zur Startseite der GLS Gemeinschaftsbank eG](/media/Bilder/Logos/GLSB_Logo_Farbe_sRGB.svg)](https://www.gls.de/ "Zur Startseite der GLS Bank")
+
+* [Konten & Karten](https://www.gls.de/konten-karten/)
     
-    * [Zurück zur Übersicht](# "Zurück")
-    * [Nachhaltig](https://www.gls.de/privatkunden/nachhaltig/ "Nachhaltig")
-    * [Wirkung](https://www.gls.de/privatkunden/nachhaltig/wirkung/ "Wirkung - sozial und ökologisch positiv")
+    Konten & Karten
+    
+    * [Übersicht: Konten & Karten](https://www.gls.de/konten-karten/)
+    * [Konten](https://www.gls.de/konten-karten/konten/)
         
-        * [Zurück zu Nachhaltig](#)
-        * [Wirkung](https://www.gls.de/privatkunden/nachhaltig/wirkung/ "Wirkung")
-        * [Bildung und Kultur](https://www.gls.de/privatkunden/nachhaltig/wirkung/bildung-und-kultur/)
-        * [Ernährung](https://www.gls.de/privatkunden/nachhaltig/wirkung/ernaehrung/)
-        * [Erneuerbare Energien](https://www.gls.de/privatkunden/nachhaltig/wirkung/erneuerbare-energien/)
-        * [Nachhaltige Wirtschaft](https://www.gls.de/privatkunden/nachhaltig/wirkung/nachhaltige-wirtschaft/)
-        * [Soziales und Gesundheit](https://www.gls.de/privatkunden/nachhaltig/wirkung/soziales-und-gesundheit/)
-        * [Wohnen](https://www.gls.de/privatkunden/nachhaltig/wirkung/wohnen/)
+        Konten
         
-    * [Wo wirkt mein Geld](https://www.gls.de/privatkunden/nachhaltig/wo-wirkt-mein-geld/ "Wo wirkt mein Geld - Für die Menschen")
-    * [Warum GLS Bank?](https://www.gls.de/privatkunden/nachhaltig/warum-gls-bank/ "Warum GLS Bank? - Warum GLS Bank?")
-    * [Nachhaltigkeitsbezogene Offenlegung](https://www.gls.de/privatkunden/nachhaltig/nachhaltigkeitsbezogene-offenlegung/ "Nachhaltigkeitsbezogene Offenlegung - ")
-    
-     [![Die Illustration zeigt Menschen im Dialog miteinander. Im Vordergrund stehen Windräder und Häuser mit PV-Anlagen.](/media/_processed_/9/f/csm_Teaser_530x380_812b2b0af1.jpg "GLS_Bank_Nachhaltigkeitsbericht_2023") Nachhaltig](https://nachhaltigkeitsbericht.gls.de/ "GLS Nachhaltigkeitsbericht")
-    
-    Lesen Sie unseren [Nachhaltigkeitsbericht](https://nachhaltigkeitsbericht.gls.de/ "GLS Nachhaltigkeitsbericht") 
-    
-* [Konto & Karten](https://www.gls.de/privatkunden/konto-karten/ "Konto & Karten")
-    
-    * [Zurück zur Übersicht](# "Zurück")
-    * [Konto & Karten](https://www.gls.de/privatkunden/konto-karten/ "Konto & Karten")
-    * [GLS Konto](https://www.gls.de/privatkunden/konto-karten/gls-girokonto/ "GLS Girokonto - Für nachhaltige Bankgeschäfte")
-    * [GLS Konto Mitglied](https://www.gls.de/privatkunden/konto-karten/gls-konto-mitglied/ "GLS Konto Mitglied - ")
-    * [GLS Gemeinschaftskonto](https://www.gls.de/privatkunden/konto-karten/gls-gemeinschaftskonto/ "GLS Gemeinschaftskonto - Gemeinschaftskonto - Das perfekte nachhaltige Konto für Zwei!")
-    * [GLS Karten & mobiles Bezahlen](https://www.gls.de/privatkunden/konto-karten/gls-karten-mobiles-bezahlen/ "GLS Karten & mobiles Bezahlen - alles auf Grün")
-    * [Onlinebanking](https://www.gls.de/privatkunden/konto-karten/onlinebanking/ "Onlinebanking - Für jede*n das Passende")
+        * [Übersicht: Konten](https://www.gls.de/konten-karten/konten/)
+        * [Girokonto](https://www.gls.de/konten-karten/konten/girokonto/)
+        * [Mitglieder Konto](https://www.gls.de/konten-karten/konten/konto-mitglied/)
+        * [Gemeinschaftskonto](https://www.gls.de/konten-karten/konten/gemeinschaftskonto/)
+        * [Geschäftskonto](https://www.gls.de/konten-karten/konten/geschaeftskonto/)
+        * [Konto für Gemeinnützige](https://www.gls.de/konten-karten/konten/konto-gemeinnuetzige/)
+        * [Konto für Selbstständige](https://www.gls.de/konten-karten/konten/konto-fuer-selbststaendige/)
+        * [Kontowechselservice](https://www.gls.de/konten-karten/konten/kontowechsel/)
         
-        * [Zurück zu Konto & Karten](#)
-        * [Onlinebanking](https://www.gls.de/privatkunden/konto-karten/onlinebanking/ "Onlinebanking")
-        * [GLS Banking Apps](https://www.gls.de/privatkunden/konto-karten/onlinebanking/gls-banking-apps/)
-        * [SecureGo plus](https://www.gls.de/privatkunden/konto-karten/onlinebanking/securego-plus/)
-        * [Sicherheitshinweise Onlinebanking](https://www.gls.de/privatkunden/konto-karten/onlinebanking/sicherheitshinweise-onlinebanking/)
-        * [SEPA-Zahlungsverkehr](https://www.gls.de/privatkunden/konto-karten/onlinebanking/sepa-zahlungsverkehr/)
-        * [Auslandszahlungsverkehr](https://www.gls.de/privatkunden/konto-karten/onlinebanking/auslandszahlungsverkehr/)
+        Barrierearmut
         
-    
-     [![GLS Mitgliedern gehört eine Bank](/media/_processed_/a/0/csm_GLS-Mitgliedern-gehoert-eine-nachhaltige-Bank-335x185_20974b96da.jpg "GLS Mitgliedern gehört eine nachhaltige Bank") Werden Sie Mitglied](https://www.gls.de/privatkunden/konto-karten/gls-konto-mitglied/)
-    
-    ... und Ihnen gehört ein Teil der ersten nachhaltigen Bank. [Mehr erfahren](https://www.gls.de/privatkunden/konto-karten/gls-konto-mitglied/ "GLS Mitglied werden")
-    
-* [Investieren](https://www.gls.de/privatkunden/investieren/ "Investieren")
-    
-    * [Zurück zur Übersicht](# "Zurück")
-    * [Investieren](https://www.gls.de/privatkunden/investieren/ "Investieren")
-    * [Mitglied werden - GLS Bank Anteile](https://www.gls.de/privatkunden/investieren/gls-bank-anteile-gls-mitgliedschaft/ "GLS Bank Anteile –  GLS Mitgliedschaft - Und Ihnen gehört die Bank")
-    * [Nachrangige Einlage](https://www.gls.de/privatkunden/investieren/nachrangige-einlage/ "Nachrangige Einlage - ")
-    * [Digital investieren](https://www.gls.de/privatkunden/investieren/digital-investieren/ "Digital investieren - ganz bequem")
+    * [Karten](https://www.gls.de/konten-karten/karten/)
         
-        * [Zurück zu Investieren](#)
-        * [Digital investieren](https://www.gls.de/privatkunden/investieren/digital-investieren/ "Digital investieren")
-        * [GLS onlineInvest](https://www.gls.de/privatkunden/investieren/digital-investieren/gls-onlineinvest/)
-        * [GLS Crowd](https://www.gls.de/privatkunden/investieren/digital-investieren/gls-crowd/)
+        Karten
         
-    * [Fonds](https://www.gls.de/privatkunden/investieren/fonds/ "Fonds - nachhaltig investieren")
+        * [Übersicht: Karten](https://www.gls.de/konten-karten/karten/)
+        * [BankCard](https://www.gls.de/konten-karten/karten/bankcard/)
+        * [Kreditkarten](https://www.gls.de/konten-karten/karten/kreditkarte/)
+        * [Firmenkreditkarte](https://www.gls.de/konten-karten/karten/firmenkreditkarte/)
+        * [Apple Pay](https://www.gls.de/konten-karten/karten/apple-pay/)
         
-        * [Zurück zu Investieren](#)
-        * [Fonds](https://www.gls.de/privatkunden/investieren/fonds/ "Fonds")
-        * [GLS Bank Aktienfonds](https://www.gls.de/privatkunden/investieren/fonds/gls-bank-aktienfonds/)
-        * [GLS Bank Klimafonds](https://www.gls.de/privatkunden/investieren/fonds/gls-bank-klimafonds/)
-        * [GLS AI - Mikrofinanzfonds](https://www.gls.de/privatkunden/investieren/fonds/gls-ai-mikrofinanzfonds/)
-        * [GLS Bank Rentenfonds](https://www.gls.de/privatkunden/investieren/fonds/gls-bank-rentenfonds/)
-        * [Kinder Perspektivenfonds](https://www.gls.de/privatkunden/investieren/fonds/kinder-perspektivenfonds/)
-        * [B.A.U.M. Fair Future Fonds](https://www.gls.de/privatkunden/investieren/fonds/baum-fair-future-fonds/)
-        * [BFS Nachhaltigkeitsfonds Ertrag](https://www.gls.de/privatkunden/investieren/fonds/bfs-nachhaltigkeitsfonds-ertrag/)
-        * [BFS Nachhaltigkeitsfonds Green Bonds](https://www.gls.de/privatkunden/investieren/fonds/bfs-nachhaltigkeitsfonds-green-bonds/)
-        * [FairWorldFonds](https://www.gls.de/privatkunden/investieren/fonds/fairworldfonds/)
+        Barrierearmut
         
-    * [Anleihen](https://www.gls.de/privatkunden/investieren/anleihen/ "Anleihen - nachhaltig beteiligen")
-    * [Nachhaltiges GLS Depot](https://www.gls.de/privatkunden/investieren/nachhaltiges-gls-depot/ "GLS Depot - Wertpapiere sinnvoll verwahren")
+    * [Banking](https://www.gls.de/konten-karten/banking/)
         
-        * [Zurück zu Investieren](#)
-        * [GLS Depot](https://www.gls.de/privatkunden/investieren/nachhaltiges-gls-depot/ "GLS Depot")
-        * [Depotwechselservice](https://www.gls.de/privatkunden/investieren/nachhaltiges-gls-depot/gls-depotwechsel/)
+        Banking
         
-    * [Vermögen](https://www.gls.de/privatkunden/investieren/vermoegen/ "Vermögen - Begleitung oder Verwaltung")
-    
-     [![Beratung per Video](/media/_processed_/5/a/csm_GLS-Bank-persoenliche-Beratung-per-Video-530x380_611ad89bdd.jpg "Videoberatung") Persönliche Beratung](https://kontoeroeffnung.gls.de/gls-terminanfrage-anlageberatung.html "Beratungstermin anfragen")
-    
-    Fragen Sie an. Wir rufen zurück und vereinbaren einen Termin. [Anfragen](https://kontoeroeffnung.gls.de/gls-terminanfrage-anlageberatung.html "Persönliche Beratung anfragen")
-    
-* [Sparen](https://www.gls.de/privatkunden/sparen/ "Sparen")
-    
-    * [Zurück zur Übersicht](# "Zurück")
-    * [Sparen](https://www.gls.de/privatkunden/sparen/ "Sparen")
-    * [GLS Tagesgeldkonto](https://www.gls.de/privatkunden/sparen/gls-tagesgeldkonto/ "Tagesgeldkonto - jederzeit verfügbar")
-    * [GLS Tagesgeldkonto Mitglied](https://www.gls.de/privatkunden/sparen/gls-tagesgeldkonto-mitglied/ "GLS Tagesgeldkonto Mitglied - ")
-    * [GLS Festgeld](https://www.gls.de/privatkunden/sparen/festgeld/ "Festgeld - kurz und sicher")
-    * [GLS Sparbrief](https://www.gls.de/privatkunden/sparen/gls-sparbrief/ "Sparbriefe im Überblick - langfristig und wirksam")
+        * [Übersicht: Banking](https://www.gls.de/konten-karten/banking/)
+        * [GLS Banking App](https://www.gls.de/konten-karten/banking/banking-app/)
+        * [Banking für Firmenkunden](https://www.gls.de/konten-karten/banking/zahlungssysteme-banking/)
+        * [SecureGo plus](https://www.gls.de/konten-karten/banking/securego-plus/)
+        * [Sicherheitshinweise Onlinebanking](https://www.gls.de/konten-karten/banking/sicherheitshinweise-onlinebanking/)
         
-        * [Zurück zu Sparen](#)
-        * [Sparbriefe im Überblick](https://www.gls.de/privatkunden/sparen/gls-sparbrief/ "Sparbriefe im Überblick")
-        * [GLS Sparbrief - 2, 3, 5 Jahre](https://www.gls.de/privatkunden/sparen/gls-sparbrief/gls-sparbrief-2-3-5-jahre/)
-        * [GLS Sparbrief - Energiewende](https://www.gls.de/privatkunden/sparen/gls-sparbrief/gls-sparbrief-energiewende/)
-        * [GLS Sparbrief - Soziales & Gesundheit](https://www.gls.de/privatkunden/sparen/gls-sparbrief/gls-sparbrief-soziales-gesundheit/)
+        Barrierearmut
         
-    * [GLS Projektsparbrief](https://www.gls.de/privatkunden/sparen/gls-projektsparbrief/ "Projektsparbrief - Zinsen spenden")
+    * [Zahlungsverkehr](https://www.gls.de/konten-karten/zahlungsverkehr/)
         
-        * [Zurück zu Sparen](#)
-        * [Projektsparbrief](https://www.gls.de/privatkunden/sparen/gls-projektsparbrief/ "Projektsparbrief")
-        * [Projektsparbrief Living Lakes\_s](https://www.gls.de/privatkunden/sparen/gls-projektsparbrief/projektsparbrief-living-lakes-s/)
-        * [Projektsparbrief Junge Deutsche Philharmonie](https://www.gls.de/privatkunden/sparen/gls-projektsparbrief/projektsparbrief-junge-deutsche-philharmonie/)
-        * [Projektsparbrief Hinz & Kunzt](https://www.gls.de/privatkunden/sparen/gls-projektsparbrief/projektsparbrief-hinz-kunzt/)
-        * [Projektsparbrief Entwicklung](https://www.gls.de/privatkunden/sparen/gls-projektsparbrief/projektsparbrief-entwicklung/)
-        * [Projektsparbrief Saatgutfonds](https://www.gls.de/privatkunden/sparen/gls-projektsparbrief/projektsparbrief-saatgutfonds/)
+        Zahlungsverkehr
         
-    * [Mitglied werden - GLS Bank Anteile](https://www.gls.de/privatkunden/investieren/gls-bank-anteile-gls-mitgliedschaft/ "Mitglied werden - GLS Bank Anteile - ")
-    * [Bausparen](https://www.gls.de/privatkunden/bauen/bausparen/ "Bausparen - ")
-    
-     [![blaues Rechteck](/media/_processed_/b/9/csm_tagesgeldkontomitglied-335x185_33663fea82.jpg "Jubiläumasangebot GLS Tagesgeldkonto Mitglied 2% p. a.") Jetzt neu: das GLS Tagesgeldkonto Mitglied](https://www.gls.de/privatkunden/sparen/gls-tagesgeldkonto-mitglied/ "GLS Tagesgeldkonto Mitglied")
-    
-    Aktuell 2 % Zins p. a. – unser Dank an alle GLS Mitglieder. [Mehr erfahren](https://www.gls.de/privatkunden/sparen/gls-tagesgeldkonto-mitglied/ "GLS Tagesgeldkonto Mitglied")
-    
-* [Finanzierung](https://www.gls.de/privatkunden/finanzieren/ "Übersicht über private Finanzierung bei der GLS Bank")
-    
-    * [Zurück zur Übersicht](# "Zurück")
-    * [Finanzierung](https://www.gls.de/privatkunden/finanzieren/ "Übersicht über private Finanzierung bei der GLS Bank")
-    * [Bauen](https://www.gls.de/privatkunden/finanzieren/bauen/ "Bauen - Bau, Kauf, Sanierung - nachhaltig finanziert")
-    * [Baufinanzierung](https://www.gls.de/privatkunden/finanzieren/baufinanzierung/ "Baufinanzierung - die eigenen vier Wände nachhaltig finanziert")
-    * [Bausparen](https://www.gls.de/privatkunden/finanzieren/bausparen/ "Bausparen - Zum Bauen, Modernisieren oder Kaufen")
-    * [Baugruppen](https://www.gls.de/privatkunden/finanzieren/baugruppen/ "Baugruppen - Gemeinsam bauen, einzeln finanzieren")
-    * [Ökologische Sanierung](https://www.gls.de/privatkunden/finanzieren/oekologische-sanierung/ "Ökologische Sanierung - Eigenheim modernisieren - nachhaltig finanzieren")
-    * [Photovoltaik](https://www.gls.de/privatkunden/finanzieren/photovoltaik/ "Photovoltaik - Energiewende auf dem eigenen Dach nachhaltig finanziert")
-    * [Tiny House](https://www.gls.de/privatkunden/finanzieren/tiny-house/ "Tiny House - Leben im Mini Haus - nachhaltig finanziert")
-    * [Elektroauto](https://www.gls.de/privatkunden/finanzieren/elektroauto/ "Elektroauto - Mobilitätswende nachhaltig finanziert")
-    
-     [![Illu zum GLS Solarrechner: Photovoltaikanlage, Wärmepumpe und Fördermittelradar ](/media/_processed_/f/7/csm_illu-gls-bank-solarrechner-waermepumpe-beratung-foerdermittel-radar-355x185_b75144e08e.gif "GLS Solarrechner | Solarexpose für Photovoltaikanlagen mit Wärmepumpenberatung und Förderradar") PV-Anlage geplant?](https://www.gls.de/unternehmen-institutionen/solarkonzept/ "zum kostenlosen GLS Solar-Rechner")
-    
-    Schritt für Schritt zu Ihrem kostenlosen Solar-Expose samt Wärmepumpenberatung und Förderradar. [Zum GLS Solar-Rechner](https://www.gls.de/unternehmen-institutionen/solarkonzept/ "Zum GLS Solar-Rechner")
-    
-* [Vorsorgen](https://www.gls.de/privatkunden/vorsorgen/ "Vorsorgen")
-    
-    * [Zurück zur Übersicht](# "Zurück")
-    * [Vorsorgen](https://www.gls.de/privatkunden/vorsorgen/ "Vorsorgen")
-    * [Risiken absichern](https://www.gls.de/privatkunden/vorsorgen/risiken-absichern/ "Risiken absichern - vorausschauend nachhaltig")
+        * [Übersicht: Zahlungsverkehr](https://www.gls.de/konten-karten/zahlungsverkehr/)
+        * [Beratung anfragen](https://www.gls.de/konten-karten/zahlungsverkehr/beratung-zahlungsverkehr/)
+        * [SEPA-Zahlungsverkehr](https://www.gls.de/konten-karten/zahlungsverkehr/sepa-zahlungsverkehr/)
+        * [Auslandszahlungsverkehr](https://www.gls.de/konten-karten/zahlungsverkehr/auslandszahlungsverkehr/)
+        * [PoS Bezahlterminals](https://www.gls.de/konten-karten/zahlungsverkehr/bezahlterminals/)
+        * [eSpende für Gemeinnützige](https://www.gls.de/konten-karten/zahlungsverkehr/e-spende/)
         
-        * [Zurück zu Vorsorgen](#)
-        * [Risiken absichern](https://www.gls.de/privatkunden/vorsorgen/risiken-absichern/ "Risiken absichern")
-        * [Risiko-Lebensversicherung](https://www.gls.de/privatkunden/vorsorgen/risiken-absichern/risiko-lebensversicherung/)
-        * [Berufsunfähigkeitsversicherung](https://www.gls.de/privatkunden/vorsorgen/risiken-absichern/berufsunfaehigkeitsversicherung/)
-        * [Risiken versichern mit R+V](https://www.gls.de/privatkunden/vorsorgen/risiken-absichern/risiken-versichern-mit-r-v/)
-        
-    * [Gesundheit erhalten](https://www.gls.de/privatkunden/vorsorgen/gesundheit-erhalten/ "Gesundheit erhalten - fördern und erhalten")
-    * [Fürs Alter vorsorgen](https://www.gls.de/privatkunden/vorsorgen/fuers-alter-vorsorgen/ "Fürs Alter vorsorgen - privat, betrieblich, staatlich gefördert")
-        
-        * [Zurück zu Vorsorgen](#)
-        * [Fürs Alter vorsorgen](https://www.gls.de/privatkunden/vorsorgen/fuers-alter-vorsorgen/ "Fürs Alter vorsorgen")
-        * [Private Rente](https://www.gls.de/privatkunden/vorsorgen/fuers-alter-vorsorgen/private-rente/)
-        * [Basis-Rente](https://www.gls.de/privatkunden/vorsorgen/fuers-alter-vorsorgen/basis-rente/)
-        * [Betriebliche Altersvorsorge](https://www.gls.de/privatkunden/vorsorgen/fuers-alter-vorsorgen/betriebliche-altersvorsorge/)
-        * [Sofortrente](https://www.gls.de/privatkunden/vorsorgen/fuers-alter-vorsorgen/gls-sofortrente/)
+        Barrierearmut
         
     
-     [![Männlich gelesene Person schiebt weiblich gelesene Person in einer Schubkarre auf einem Bauernhofnn schiebt Frau in GLS Sparen: verzinst, sicher, nachhaltig](/media/_processed_/d/0/csm_sparen-mit-der-gls-bank-wirkt-nachhaltig-positiv-335x185_1ba8ddea68.jpg "GLS Sparen: verzinst, sicher, nachhaltig") GLS Sparen: bis zu 2,8 % Zins p.a.](https://www.gls.de/privatkunden/sparen/ "GLS Sparen")
+    [![Weiblich gelesene Person auf dem Fahrrad](/media/_processed_/3/6/csm_sparen-78A2713-_2e2747a195.jpg "Wechsle jetzt zur sozial-ökologischen GLS Bank")](https://www.gls.de/konten-karten/konten/kontowechsel/)
     
-    [Mehr erfahren](https://www.gls.de/privatkunden/sparen/ "GLS Sparen mit Zins")
+    Kontowechsel
     
-* [Service & Aktuelles](https://www.gls.de/privatkunden/service-aktuelles/ "Service & Aktuelles")
+    [Einfach jetzt wechseln](https://www.gls.de/konten-karten/konten/kontowechsel/)
     
-    * [Zurück zur Übersicht](# "Zurück")
-    * [Service & Aktuelles](https://www.gls.de/privatkunden/service-aktuelles/ "Service & Aktuelles")
-    * [Kontakt](https://www.gls.de/privatkunden/service-aktuelles/kontakt/ "Kontakt - wir sind für Sie da")
-    * [Service](https://www.gls.de/privatkunden/service-aktuelles/service/ "Service - hier finden Sie Hilfe")
-    * [Fragen & Antworten](https://www.gls.de/privatkunden/service-aktuelles/fragen-antworten/ "Fragen & Antworten - ")
-    * [Formular & Infocenter](https://www.gls.de/privatkunden/service-aktuelles/formular-infocenter/ "Formular & Infocenter - wichtige Unterlagen")
-    * [Neuigkeiten](https://www.gls.de/privatkunden/service-aktuelles/neuigkeiten/ "Neuigkeiten von der GLS Bank - ")
-    * [Veranstaltungen](https://www.gls.de/privatkunden/service-aktuelles/veranstaltungen/ "Veranstaltungen - GLS Bank erleben")
-    * [Karriere](https://www.gls.de/privatkunden/service-aktuelles/karriere/ "Karriere - Arbeit mit Sinn")
+    Barrierearmut
     
-     [![Frau mit Headset symbolisiert telefonische Beratung der GLS Bank](/media/_processed_/4/2/csm_beratung-telefon-335x185_4819d12b64.jpg "Telefonische Kundenberatung der GLS Bank") Arbeit mit Sinn](https://www.gls.de/privatkunden/ueber-die-gls-bank/karriere/ "Jetzt bewerben")
+* [Sparen & Investieren](https://www.gls.de/sparen-investieren/)
     
-    Wir suchen neue Kolleg\*innen, die mit uns das nachhaltige Bankgeschäft vorantreiben.  
-    [Mehr erfahren](https://www.gls.de/privatkunden/ueber-die-gls-bank/karriere/)
+    Sparen & Investieren
+    
+    * [Übersicht: Sparen & Investieren](https://www.gls.de/sparen-investieren/)
+    * [Sparen](https://www.gls.de/sparen-investieren/sparen/)
+        
+        Sparen
+        
+        * [Übersicht: Sparen](https://www.gls.de/sparen-investieren/sparen/)
+        * [GLS Anteile zeichnen](https://www.gls.de/sparen-investieren/investieren/gls-anteile/)
+        * [Tagesgeldkonto](https://www.gls.de/sparen-investieren/sparen/tagesgeldkonto/)
+        * [Tagesgeldkonto Mitglied](https://www.gls.de/sparen-investieren/sparen/tagesgeldkonto-mitglied/)
+        * [Festgeld](https://www.gls.de/sparen-investieren/sparen/festgeld/)
+        * [Sparbrief](https://www.gls.de/sparen-investieren/sparen/sparbrief/)
+        * [Projektsparbrief](https://www.gls.de/sparen-investieren/sparen/projektsparbrief/)
+        
+        Barrierearmut
+        
+    * [Investieren](https://www.gls.de/sparen-investieren/investieren/)
+        
+        Investieren
+        
+        * [Übersicht: Investieren](https://www.gls.de/sparen-investieren/investieren/)
+        * [GLS Anteile zeichnen](https://www.gls.de/sparen-investieren/investieren/gls-anteile/)
+        * [GLS onlineInvest](https://www.gls.de/sparen-investieren/investieren/gls-onlineinvest/)
+        * [Fonds](https://www.gls.de/sparen-investieren/investieren/fonds/)
+        * [Anleihen](https://www.gls.de/sparen-investieren/investieren/anleihen/)
+        * [Nachrangige Einlage](https://www.gls.de/sparen-investieren/investieren/nachrangige-einlage/)
+        * [Vermögensberatung](https://www.gls.de/sparen-investieren/investieren/vermoegen/)
+        * [Stiftungskapital](https://www.gls.de/sparen-investieren/investieren/stiftungskapital/)
+        * [GLS Crowd](https://www.gls.de/sparen-investieren/investieren/gls-crowd/)
+        * [GLS Depot](https://www.gls.de/sparen-investieren/investieren/gls-depot/)
+        
+        Barrierearmut
+        
+    
+    [![](/media/_processed_/6/b/csm_anlegen-oekonomisch-530x380_c97f3c4ae9.jpg)](https://www.gls.de/sparen-investieren/ziele/wirksam-anlegen/ "Wirksam Geld anlegen")
+    
+    Wie anlegen?
+    
+    Es gibt viele Wege, Geld sinnvoll und wirksam anzulegen. [Mehr Informationen](https://www.gls.de/sparen-investieren/ziele/wirksam-anlegen/)
+    
+    Barrierearmut
+    
+* [Finanzieren](https://www.gls.de/finanzieren/)
+    
+    Finanzieren
+    
+    * [Übersicht: Finanzieren](https://www.gls.de/finanzieren/)
+    * [Privat bauen](https://www.gls.de/finanzieren/privat-bauen/)
+        
+        Privat bauen
+        
+        * [Übersicht: Privat bauen](https://www.gls.de/finanzieren/privat-bauen/)
+        * [Baufinanzierung](https://www.gls.de/finanzieren/privat-bauen/baufinanzierung/)
+        * [Bausparen](https://www.gls.de/finanzieren/privat-bauen/bausparen/)
+        * [Ökologische Sanierung](https://www.gls.de/finanzieren/privat-bauen/oekologische-sanierung/)
+        * [Baugruppen](https://www.gls.de/finanzieren/privat-bauen/baugruppen/)
+        
+        Barrierearmut
+        
+    * [Privatkredit](https://www.gls.de/finanzieren/privatkredite/)
+        
+        Privatkredit
+        
+        * [Übersicht: Privatkredit](https://www.gls.de/finanzieren/privatkredite/)
+        * [Tiny House](https://www.gls.de/finanzieren/privatkredite/tiny-house/)
+        * [Photovoltaik](https://www.gls.de/finanzieren/privatkredite/photovoltaik/)
+        * [Elektroauto](https://www.gls.de/finanzieren/privatkredite/elektroauto/)
+        
+        Barrierearmut
+        
+    * [Unternehmenskredit](https://www.gls.de/finanzieren/unternehmenskredite/)
+        
+        Unternehmenskredit
+        
+        * [Übersicht: Unternehmenskredit](https://www.gls.de/finanzieren/unternehmenskredite/)
+        * [Finanzierungslösungen für Unternehmen](https://www.gls.de/finanzieren/unternehmenskredite/finanzierungsloesungen-unternehmen/)
+        * [Gemeinschaftsfinanzierung](https://www.gls.de/finanzieren/unternehmenskredite/gemeinschaftsfinanzierungen/)
+        * [Anleihe](https://www.gls.de/finanzieren/unternehmenskredite/anleihe/)
+        * [Beteiligungen über GLS BAG](https://www.gls-beteiligung.de/)
+        * [Schenkgemeinschaft](https://www.gls.de/finanzieren/unternehmenskredite/schenkgemeinschaft/)
+        * [Bürgschaftsdarlehen](https://www.gls.de/finanzieren/unternehmenskredite/buergschaftsdarlehen/)
+        * [Crowdfinanzierung](https://www.gls.de/finanzieren/unternehmenskredite/crowdfinanzierung/)
+        
+        Barrierearmut
+        
+    * [Branchenexpertise](https://www.gls.de/finanzieren/branchen/)
+        
+        Branchenexpertise
+        
+        * [Übersicht: Branchenexpertise](https://www.gls.de/finanzieren/branchen/)
+        * [Erneuerbare Energien](https://www.gls.de/finanzieren/branchen/erneuerbare-energien/)
+        * [Nachhaltige Immobilien](https://www.gls.de/finanzieren/branchen/nachhaltige-immobilie/)
+        * [Nachhaltige Wirtschaft](https://www.gls.de/finanzieren/branchen/nachhaltige-wirtschaft/)
+        * [Holzbau](https://www.gls.de/finanzieren/branchen/holzbau/)
+        * [Wohnprojekte](https://www.gls.de/finanzieren/branchen/wohnen/)
+        * [Ernährung](https://www.gls.de/finanzieren/branchen/ernaehrung/)
+        * [Soziales & Gesundheit](https://www.gls.de/finanzieren/branchen/soziales-gesundheit/)
+        * [Bildung & Kultur](https://www.gls.de/finanzieren/branchen/bildung-kultur/)
+        
+        Barrierearmut
+        
+    
+    [![Kitas und Schulen bauen - aus Holz](/media/_processed_/9/1/csm_bauabschlussfest_530x380_ba1c7df41b.jpg "Kitas und Schulen bauen aus Holz - digitale GLS Bank Veranstaltung im September 24")](https://www.gls.de/gls-bank/aktuelles/veranstaltungen/digital/praxisbeispiele-und-finanzierungsmoumlglichkeiten/)
+    
+    Schulen und Kitas bauen mit Holz
+    
+    Digitale GLS Bank Veranstaltung am 25.9.2024 um 14:30 Uhr [Jetzt anmelden](https://www.gls.de/gls-bank/aktuelles/veranstaltungen/digital/praxisbeispiele-und-finanzierungsmoumlglichkeiten/)
+    
+    Barrierearmut
+    
+* [Vorsorgen](https://www.gls.de/vorsorgen/)
+    
+    Vorsorgen
+    
+    * [Übersicht: Vorsorgen](https://www.gls.de/vorsorgen/)
+    * [Nachhaltige Altersvorsorge](https://www.gls.de/vorsorgen/altersvorsorge/)
+        
+        Nachhaltige Altersvorsorge
+        
+        * [Übersicht: Nachhaltige Altersvorsorge](https://www.gls.de/vorsorgen/altersvorsorge/)
+        * [Betriebliche Altersvorsorge](https://www.gls.de/vorsorgen/altersvorsorge/betriebliche-altersvorsorge/)
+        * [Basis-Rente](https://www.gls.de/vorsorgen/altersvorsorge/basis-rente/)
+        * [Private Rente](https://www.gls.de/vorsorgen/altersvorsorge/private-rente/)
+        * [Sofortrente](https://www.gls.de/vorsorgen/altersvorsorge/sofortrente/)
+        
+        Barrierearmut
+        
+    * [Absicherung, Haus & Recht](https://www.gls.de/vorsorgen/absicherung/)
+        
+        Absicherung, Haus & Recht
+        
+        * [Übersicht: Absicherung, Haus & Recht](https://www.gls.de/vorsorgen/absicherung/)
+        * [Berufsunfähigkeit](https://www.gls.de/vorsorgen/absicherung/berufsunfaehigkeitsversicherung/)
+        * [Risiko-Lebensversicherung](https://www.gls.de/vorsorgen/absicherung/risiko-lebensversicherung/)
+        
+        Barrierearmut
+        
+    * [Gesundheit & Pflege](https://www.gls.de/vorsorgen/gesundheit-pflege/krankenbeihilfe/)
+        
+        Gesundheit & Pflege
+        
+        * [Übersicht: Gesundheit & Pflege](https://www.gls.de/vorsorgen/gesundheit-pflege/krankenbeihilfe/)
+        * [Beihilfe Hannoversche Kassen](https://www.gls.de/vorsorgen/gesundheit-pflege/krankenbeihilfe/)
+        
+        Barrierearmut
+        
+    
+    [![Weiblich gelesene Person mit weißen Haaren ernte gemüse im Garten](/media/_processed_/c/a/csm_Vorsorgen-Hof-Praedikow_3f8e1e946c.jpg "Vorsorgen mit sozial-ökologischen Angeboten der GLS Bank")](https://www.gls.de/vorsorgen/altersvorsorge/ "Rentenangebote sozial-ökologisch")
+    
+    Jetzt für die Rente vorsorgen
+    
+    [Mehr erfahren](https://www.gls.de/sparen-investieren/sparen/ "Rentenangebote sozial-ökologisch")
+    
+    Barrierearmut
+    
+* [Nachhaltigkeit & Über uns](https://www.gls.de/gls-bank/)
+    
+    Nachhaltigkeit & Über uns
+    
+    * [Übersicht: Nachhaltigkeit & Über uns](https://www.gls.de/gls-bank/)
+    * [Nachhaltigkeit](https://www.gls.de/gls-bank/nachhaltigkeit/)
+        
+        Nachhaltigkeit
+        
+        * [Übersicht: Nachhaltigkeit](https://www.gls.de/gls-bank/nachhaltigkeit/)
+        * [Wo wirkt die GLS?](https://www.gls.de/gls-bank/nachhaltigkeit/wo-wirkt-die-gls/)
+        * [Die GLS Zukunftsbilder](https://www.gls.de/gls-bank/nachhaltigkeit/gls-zukunftsbilder/)
+        * [Warum GLS Bank?](https://www.gls.de/gls-bank/nachhaltigkeit/warum-gls-bank/)
+        * [Nachhaltigkeitsbezogene Offenlegung](https://www.gls.de/gls-bank/nachhaltigkeit/nachhaltigkeitsbezogene-offenlegung/)
+        
+        Barrierearmut
+        
+    * [Über uns](https://www.gls.de/gls-bank/ueber-uns/)
+        
+        Über uns
+        
+        * [Übersicht: Über uns](https://www.gls.de/gls-bank/ueber-uns/)
+        * [Standorte](https://www.gls.de/gls-bank/ueber-uns/standorte/)
+        * [Geschichte](https://www.gls.de/gls-bank/ueber-uns/geschichte/)
+        * [Zahlen & Fakten](https://www.gls.de/gls-bank/ueber-uns/zahlen-fakten/)
+        * [Politische Forderungen](https://www.gls.de/gls-bank/ueber-uns/politische-forderungen/)
+        * [Auszeichnungen](https://www.gls.de/gls-bank/ueber-uns/auszeichnungen/)
+        * [GLS Gruppe und Kooperationspartner](https://www.gls.de/gls-bank/ueber-uns/gruppe-kooperationspartner/)
+        * [Karriere](https://www.gls.de/gls-bank/ueber-uns/karriere/)
+        
+        Barrierearmut
+        
+    * [Service](https://www.gls.de/gls-bank/service/)
+        
+        Service
+        
+        * [Übersicht: Service](https://www.gls.de/gls-bank/service/)
+        * [Selfservice](https://www.gls.de/gls-bank/service/selfservice/)
+        * [Kontakt](https://www.gls.de/gls-bank/service/kontakt/)
+        * [Formular & Infocenter](https://www.gls.de/gls-bank/service/formular-infocenter/)
+        * [Fragen & Antworten](https://www.gls.de/gls-bank/service/fragen-antworten/)
+        * [Standorte](https://www.gls.de/gls-bank/ueber-uns/standorte/)
+        
+        Barrierearmut
+        
+    * [Aktuelles](https://www.gls.de/gls-bank/aktuelles/)
+        
+        Aktuelles
+        
+        * [Übersicht: Aktuelles](https://www.gls.de/gls-bank/aktuelles/)
+        * [Veranstaltungen](https://www.gls.de/gls-bank/aktuelles/veranstaltungen/)
+        * [Neuigkeiten](https://www.gls.de/gls-bank/aktuelles/neuigkeiten/)
+        * [GLS Bank Magazin](https://blog.gls.de/)
+        * [Presse](https://www.gls.de/gls-bank/aktuelles/presse/)
+        * [Karriere](https://www.gls.de/gls-bank/ueber-uns/karriere/)
+        * [Bankspiegel Kundenmagazin](https://www.gls.de/gls-bank/aktuelles/bankspiegel/)
+        * [Sinnmacher - Magazin für Unternehmer\*innen](https://www.gls.de/gls-bank/aktuelles/sinnmacher/)
+        * [Videos](https://www.gls.de/videos/)
+        * [Newsletter](https://www.gls.de/services/newsletter/)
+        
+        Barrierearmut
+        
+    
+    [![Die Illustration zeigt Menschen in Interaktion miteinander. Im Vordergrund stehen Windräder und Häuser mit PV-Anlagen.](/media/_processed_/e/8/csm_GLS-Nachhaltigkeitsbericht-2023-V2-335x185_eeb9d1337f.jpg)](https://nachhaltigkeitsbericht.gls.de/ "zum GLS Nachhaltigkeitsbericht")
+    
+    GLS Nachhaltigkeitsbericht
+    
+    [Erfahre spannende Details](https://nachhaltigkeitsbericht.gls.de/ "Zum GLS Nachhaltigkeitsbericht")
+    
+    Barrierearmut
     
 
-[Neu hier?](#)
+*  [![Icon für die Seite Privatkund*in](/media/Bilder/Grafik/Leistungen-Icons-CD-neu/Privatkund_in.svg) Privatkund\*in](https://www.gls.de/privatkunden/)
+*  [![Icon für die Seite Unternehmen](/media/Bilder/Grafik/Leistungen-Icons-CD-neu/Unternehmen.svg) Unternehmen](https://www.gls.de/unternehmen/)
+*  [![Icon für die Seite Gemeinnützig](/media/Bilder/Grafik/Leistungen-Icons-CD-neu/Gemeinnuetzig.svg) Gemeinnützig](https://www.gls.de/gemeinnuetzige-kunden/)
 
-[Konto eröffnen](https://www.gls.de/privatkunden/konto-karten/ "GLS Konto eröffnen")
+Barrierearmut
 
-[GLS Mitglied werden](https://www.gls.de/privatkunden/investieren/gls-bank-anteile-gls-mitgliedschaft/ "GLS Mitglied werden")
+[Konto eröffnen](https://www.gls.de/konten-karten/konten/girokonto/)
 
-[Nachhaltig Geld anlegen](https://www.gls.de/privatkunden/investieren/digital-investieren/gls-onlineinvest/ "Nachhaltig Geld anlegen")
-
-#### Hier scheint nichts zu sein.  
-Probieren Sie eine synonyme Suchanfrage.
-
-#### Was suchen Sie?  
-Wir warten gespannt auf Ihre Eingabe.
-
-[Alle Ergebnisse anzeigen](#)
-
-### Suche
-
-Beste Ergebnisse Angebote Fragen & Antworten Formulare & Infocenter Aktuelles Termine Unsere Kunden Inhalt
-
-[Neu hier?](#)
-
-[Konto eröffnen](https://www.gls.de/privatkunden/konto-karten/ "GLS Konto eröffnen")
-
-[GLS Mitglied werden](https://www.gls.de/privatkunden/investieren/gls-bank-anteile-gls-mitgliedschaft/ "GLS Mitglied werden")
-
-[Nachhaltig Geld anlegen](https://www.gls.de/privatkunden/investieren/digital-investieren/gls-onlineinvest/ "Nachhaltig Geld anlegen")
-
-[Onlinebanking](# "Zum Onlinebanking")
-
-[GLS Onlinebanking Login](https://www.gls-online-filiale.de/services_cloud/portal "Zum Onlinebanking")
-
-[Selfservice](https://www.gls.de/privatkunden/selfservice/ "Zum GLS Selfservice")
-
-[GLS onlineInvest Login](https://gls.anlegen.meininvest.de/dashboard "Zum GLS Online Invest")
+[Konto eröffnen](https://www.gls.de/konten-karten/konten/girokonto/)
 
 Die Datenschutzerklärung der GLS Gemeinschaftsbank eG
 =====================================================
@@ -945,7 +1066,7 @@ Externe Links kennzeichnen wir mit diesem [Icon](http://www.gls.de/). Wenn Sie a
 Social Media
 ------------
 
-[Präsenzen in sozialen Netzwerken (Social Media)](#q4050240713)
+[Präsenzen in sozialen Netzwerken (Social Media)](#q4050288350)
 
 Wir unterhalten Onlinepräsenzen innerhalb sozialer Netzwerke, um mit unseren Kund\*innen, Interessent\*innen und Nutzer\*innen zu kommunizieren und sie dort über unsere Ziele, Anliegen und Leistungen zu informieren.
 
@@ -969,44 +1090,35 @@ Kontaktanfragen und Kommunikation; Feedback (z.B. Sammeln von Feedback via Onli
 **Rechtsgrundlagen**  
 Berechtigte Interessen (Art. 6 Abs. 1 S. 1 lit. f. DSGVO); Einwilligung (Art. 6 Abs. 1 S. 1 lit. a. DSGVO)
 
-**Weitere Hinweise zu Verarbeitungsprozessen, Verfahren und Diensten**
+Weitere Hinweise zu Verarbeitungsprozessen, Verfahren und Diensten
 
-**Instagram**  
-Soziales Netzwerk; Dienstanbieter: Instagram Inc., 1601 Willow Road, Menlo Park, CA, 94025, USA; Website: [https://www.instagram.com](https://www.instagram.com/); Datenschutzerklärung: [https://instagram.com/about/legal/privacy](https://instagram.com/about/legal/privacy)
+**Mastodon:** Online-Profil innerhalb des dezentralen sozialen Netzwerks Mastodon auf der Mastodon-Instanz ruhr.social; Dienstanbieter: 9elements GmbH, Kortumstraße 19-21, 44787 Bochum; Website: [ruhr.social](https://ruhr.social/); Datenschutzerklärung: [https://ruhr.social/privacy-policy](https://ruhr.social/privacy-policy).
 
-**Facebook-Seiten**  
-Profile innerhalb des sozialen Netzwerks Facebook  
-Wir sind gemeinsam mit Meta Platforms Ireland Limited für die Erhebung (jedoch nicht die weitere Verarbeitung) von Daten der Besucher\*innen unserer Facebook-Seite (sog. "Fanpage") verantwortlich. Zu diesen Daten gehören Informationen zu den Arten von Inhalten, die Nutzer\*innen sich ansehen oder mit denen sie interagieren, oder die von ihnen vorgenommenen Handlungen (siehe unter „Von dir und anderen getätigte und bereitgestellte Dinge“ in der Facebook-Datenrichtlinie: [https://www.facebook.com/policy](https://www.facebook.com/policy) ), sowie Informationen über die von den Nutzer\*innen genutzten Geräte (z. B. IP-Adressen, Betriebssystem, Browsertyp, Spracheinstellungen, Cookie-Daten; siehe unter „Geräteinformationen“ in der Facebook-Datenrichtlinie: [https://www.facebook.com/policy](https://www.facebook.com/policy)). Wie in der Facebook-Datenrichtlinie unter „Wie verwenden wir diese Informationen?“ erläutert, erhebt und verwendet Facebook Informationen auch, um Analysedienste, so genannte "Seiten-Insights", für Seitenbetreiber bereitzustellen, damit diese Erkenntnisse darüber erhalten, wie Personen mit ihren Seiten und mit den mit ihnen verbundenen Inhalten interagieren. Wir haben mit Facebook eine spezielle Vereinbarung abgeschlossen ("Informationen zu Seiten-Insights", [https://www.facebook.com/legal/terms/page\_controller\_addendum](https://www.facebook.com/legal/terms/page_controller_addendum)), in der insbesondere geregelt wird, welche Sicherheitsmaßnahmen Facebook beachten muss und in der Facebook sich bereit erklärt hat die Betroffenenrechte zu erfüllen (d.h. Nutzer\*innen können z.B. Auskünfte oder Löschungsanfragen direkt an Facebook richten).
+**Bluesky:** Dezentralisiertes Social-Media-Netzwerk - ermöglicht das Erstellen, Teilen und Kommentieren von Inhalten sowie das Folgen von Nutzerprofilen; Dienstanbieter: Bluesky, PBLLC., Seattle, USA, support@bsky.app; Rechtsgrundlagen: Berechtigte Interessen (Art. 6 Abs. 1 S. 1 lit. f) DSGVO); Website: [bsky.social](https://bsky.social/); Datenschutzerklärung: [https://bsky.social/about/support/privacy-policy](https://bsky.social/about/support/privacy-policy).
 
-Die Rechte der Nutzer\*innen (insbesondere auf Auskunft, Löschung, Widerspruch und Beschwerde bei zuständiger Aufsichtsbehörde) werden durch die Vereinbarungen mit Facebook nicht eingeschränkt.  
-Weitere Hinweise finden sich in den "Informationen zu Seiten-Insights" ([https://www.facebook.com/legal/terms/information\_about\_page\_insights\_data](https://www.facebook.com/legal/terms/information_about_page_insights_data)); Dienstanbieter: Meta Platforms Ireland Limited, 4 Grand Canal Square, Grand Canal Harbour, Dublin 2, Irland; Website: [https://www.facebook.com;](https://www.facebook.com;/) Datenschutzerklärung: [https://www.facebook.com/about/privacy](https://www.facebook.com/about/privacy); Standardvertragsklauseln (Gewährleistung Datenschutzniveau bei Verarbeitung in Drittländern): [https://www.facebook.com/legal/EU\_data\_transfer\_addendum](https://www.facebook.com/legal/EU_data_transfer_addendum); Weitere Informationen: Vereinbarung gemeinsamer Verantwortlichkeit: [https://www.facebook.com/legal/terms/information\_about\_page\_insights\_data](https://www.facebook.com/legal/terms/information_about_page_insights_data).
+**Instagram:** Soziales Netzwerk, ermöglicht das Teilen von Fotos und Videos, das Kommentieren und Favorisieren von Beiträgen, Nachrichtenversand, Abonnieren von Profilen und Seiten; Dienstanbieter: Meta Platforms Ireland Limited, Merrion Road, Dublin 4, D04 X2K5, Irland; Rechtsgrundlagen: Berechtigte Interessen (Art. 6 Abs. 1 S. 1 lit. f) DSGVO); Website: [www.instagram.com](https://www.instagram.com/); Datenschutzerklärung: [https://privacycenter.instagram.com/policy/](https://privacycenter.instagram.com/policy/) ; Grundlage Drittlandtransfers: Data Privacy Framework (DPF).
 
-**Facebook-Veranstaltungen**  
-Veranstaltungssprofile innerhalb des sozialen Netzwerks Facebook  
-Wir nutzen die Funktion "Veranstaltungen" der Facebook-Plattform, um auf Veranstaltungen und Termine hinzuweisen sowie, um mit den Nutzer\*innen (Teilnehmenden und Interessent\*innen) in Kontakt zu treten sowie um Informationen austauschen zu können. Hierbei verarbeiten wir personenbezogene Daten der Nutzer\*innen unserer Veranstaltungsseiten, soweit dies zum Zweck der Veranstaltung-Seite sowie deren Moderation erforderlich ist. Diese Daten umfassen Angaben zu Vor- und Nachnamen, sowie publizierte oder privat mitgeteilte Inhalte, als auch Werte zum Status der Teilnahme als auch die Zeitangaben zu den vorgenannten Daten. Ferner verweisen wir auf die Verarbeitung von Daten der Nutzer\*innen durch Facebook selbst. Zu diesen Daten gehören Informationen zu den Arten von Inhalten, die Nutzer\*innen sich ansehen oder mit denen sie interagieren, oder die von ihnen vorgenommenen Handlungen (siehe unter „Von dir und anderen getätigte und bereitgestellte Dinge“ in der Facebook-Datenrichtlinie: [https://www.facebook.com/policy](https://www.facebook.com/policy)), sowie Informationen über die von den Nutzer\*innen genutzten Geräte (z. B. IPAdressen, Betriebssystem, Browsertyp, Spracheinstellungen, Cookie-Daten; siehe unter „Geräteinformationen“ in der Facebook-Datenrichtlinie: [https://www.facebook.com/policy](https://www.facebook.com/policy)). Wie in der Facebook-Datenrichtlinie unter „Wie verwenden wir diese Informationen?“ erläutert, erhebt und verwendet Facebook Informationen auch, um Analysedienste, so genannte "Insights", für Veranstaltungsanbieter bereitzustellen, damit diese Erkenntnisse darüber erhalten, wie Personen mit ihren Veranstaltungsseiten und mit den mit ihnen verbundenen Inhalten interagieren; Dienstanbieter: Meta Platforms Ireland Limited, 4 Grand Canal Square, Grand Canal Harbour, Dublin 2, Irland; Website: [https://www.facebook.com](https://www.facebook.com/); Datenschutzerklärung: [https://www.facebook.com/about/privacy](https://www.facebook.com/about/privacy); Auftragsverarbeitungsvertrag: [https://www.facebook.com/legal/terms/dataprocessing](https://www.facebook.com/legal/terms/dataprocessing); Standardvertragsklauseln (Gewährleistung Datenschutzniveau bei Verarbeitung in Drittländern): [https://www.facebook.com/legal/EU\_data\_transfer\_addendum](https://www.facebook.com/legal/EU_data_transfer_addendum.)
+**Facebook-Seiten:** Profile innerhalb des sozialen Netzwerks Facebook - Wir sind gemeinsam mit Meta Platforms Ireland Limited für die Erhebung (jedoch nicht die weitere Verarbeitung) von Daten der Besucher unserer Facebook-Seite (sog. "Fanpage") verantwortlich. Zu diesen Daten gehören Informationen zu den Arten von Inhalten, die Nutzer\*innen sich ansehen oder mit denen sie interagieren, oder die von ihnen vorgenommenen Handlungen (siehe unter „Von dir und anderen getätigte und bereitgestellte Dinge" in der Facebook-Datenrichtlinie: [https://www.facebook.com/privacy/policy/](https://www.facebook.com/privacy/policy/) ), sowie Informationen über die von den Nutzern genutzten Geräte (z. B. IP-Adressen, Betriebssystem, Browsertyp, Spracheinstellungen, Cookie-Daten; siehe unter „Geräteinformationen" in der Facebook-Datenrichtlinie: [https://www.facebook.com/privacy/policy/](https://www.facebook.com/privacy/policy/) ). Wie in der Facebook-Datenrichtlinie unter „Wie verwenden wir diese Informationen?" erläutert, erhebt und verwendet Facebook Informationen auch, um Analysedienste, so genannte "Seiten-Insights", für Seitenbetreiber bereitzustellen, damit diese Erkenntnisse darüber erhalten, wie Personen mit ihren Seiten und mit den mit ihnen verbundenen Inhalten interagieren. Wir haben mit Facebook eine spezielle Vereinbarung abgeschlossen ("Informationen zu Seiten-Insights", [https://www.facebook.com/legal/terms/page\_controller\_addendum](https://www.facebook.com/legal/terms/page_controller_addendum) ), in der insbesondere geregelt wird, welche Sicherheitsmaßnahmen Facebook beachten muss und in der Facebook sich bereit erklärt hat die Betroffenenrechte zu erfüllen (d. h. Nutzer\*innen können z. B. Auskünfte oder Löschungsanfragen direkt an Facebook richten). Die Rechte der Nutzer\*innen (insbesondere auf Auskunft, Löschung, Widerspruch und Beschwerde bei zuständiger Aufsichtsbehörde), werden durch die Vereinbarungen mit Facebook nicht eingeschränkt. Weitere Hinweise finden sich in den "Informationen zu Seiten-Insights" ([https://www.facebook.com/legal/terms/information\_about\_page\_insights\_data](https://www.facebook.com/legal/terms/information_about_page_insights_data) ). Die gemeinsame Verantwortlichkeit beschränkt sich auf die Erhebung durch und Übermittlung von Daten an Meta Platforms Ireland Limited, ein Unternehmen mit Sitz in der EU. Die weitere Verarbeitung der Daten liegt in der alleinigen Verantwortung von Meta Platforms Ireland Limited, was insbesondere die Übermittlung der Daten an die Muttergesellschaft Meta Platforms, Inc. in den USA betrifft; Dienstanbieter: Meta Platforms Ireland Limited, Merrion Road, Dublin 4, D04 X2K5, Irland; Rechtsgrundlagen: Berechtigte Interessen (Art. 6 Abs. 1 S. 1 lit. f) DSGVO); Website: [https://www.facebook.com](https://www.facebook.com/) ; Datenschutzerklärung: [https://www.facebook.com/privacy/policy/](https://www.facebook.com/privacy/policy/) ; Grundlage Drittlandtransfers: Data Privacy Framework (DPF).
 
-**LinkedIn**  
-Soziales Netzwerk; Dienstanbieter: LinkedIn Ireland Unlimited Company, Wilton Place, Dublin 2, Irland; Website: [https://www.linkedin.com;](https://www.linkedin.com;/) Datenschutzerklärung: [https://www.linkedin.com/legal/privacy-policy](https://www.linkedin.com/legal/privacy-policy); Auftragsverarbeitungsvertrag: [https://legal.linkedin.com/dpa](https://legal.linkedin.com/dpa); Standardvertragsklauseln (Gewährleistung Datenschutzniveau bei  
-Verarbeitung in Drittländern): [https://legal.linkedin.com/dpa](https://legal.linkedin.com/dpa); Widerspruchsmöglichkeit (Opt-Out): [https://www.linkedin.com/psettings/guest-controls/retargeting-opt-out](https://www.linkedin.com/psettings/guest-controls/retargeting-opt-out) 
+**Facebook-Veranstaltungen**: Veranstaltungssprofile innerhalb des sozialen Netzwerks Facebook - Wir nutzen die Funktion "Veranstaltungen" der Facebook-Plattform, um auf Veranstaltungen und Termine hinzuweisen sowie, um mit den Nutzern (Teilnehmern und Interessenten) in Kontakt zu treten sowie um Informationen austauschen zu können. Hierbei verarbeiten wir personenbezogene Daten der Nutzer\*innen unserer Veranstaltungsseiten, soweit dies zum Zweck der Veranstaltung-Seite sowie deren Moderation erforderlich ist. Diese Daten umfassen Angaben zu Vor- und Nachnamen, sowie publizierte oder privat mitgeteilte Inhalte, als auch Werte zum Status der Teilnahme als auch die Zeitangaben zu den vorgenannten Daten. Ferner verweisen wir auf die Verarbeitung von Daten der Nutzer\*innen durch Facebook selbst. Zu diesen Daten gehören Informationen zu den Arten von Inhalten, die Nutzer\*innen sich ansehen oder mit denen sie interagieren, oder die von ihnen vorgenommenen Handlungen (siehe unter „Von dir und anderen getätigte und bereitgestellte Dinge" in der Facebook-Datenrichtlinie: [https://www.facebook.com/privacy/policy/](https://www.facebook.com/privacy/policy/) ), sowie Informationen über die von den Nutzern genutzten Geräte (z. B. IP-Adressen, Betriebssystem, Browsertyp, Spracheinstellungen, Cookie-Daten; siehe unter „Geräteinformationen" in der Facebook-Datenrichtlinie: [https://www.facebook.com/privacy/policy/](https://www.facebook.com/privacy/policy/) ). Wie in der Facebook-Datenrichtlinie unter „Wie verwenden wir diese Informationen?" erläutert, erhebt und verwendet Facebook Informationen auch, um Analysedienste, so genannte "Insights", für Veranstaltungsanbieter bereitzustellen, damit diese Erkenntnisse darüber erhalten, wie Personen mit ihren Veranstaltungsseiten und mit den mit ihnen verbundenen Inhalten interagieren; Dienstanbieter: Meta Platforms Ireland Limited, Merrion Road, Dublin 4, D04 X2K5, Irland; Rechtsgrundlagen: Berechtigte Interessen (Art. 6 Abs. 1 S. 1 lit. f) DSGVO); Website: [www.facebook.com](https://www.facebook.com/); Datenschutzerklärung: [https://www.facebook.com/privacy/policy/](https://www.facebook.com/privacy/policy); Grundlage Drittlandtransfers: Data Privacy Framework (DPF).
 
-**Pinterest**  
-Soziales Netzwerk; Dienstanbieter: Pinterest Inc., 635 High Street, Palo Alto, CA, 94301, USA,; Website: [https://www.pinterest.com;](https://www.pinterest.com;/) Datenschutzerklärung:  [https://about.pinterest.com/de/privacy-policy](https://about.pinterest.com/de/privacy-policy);   
-Weitere Informationen: Pinterest Anhang zum Datenaustausch (ANHANG A): [https://business.pinterest.com/de/pinterest-advertising-services-agreement/](https://business.pinterest.com/de/pinterest-advertising-services-agreement/) 
+**LinkedIn:** Soziales Netzwerk - Wir sind gemeinsam mit LinkedIn Irland Unlimited Company für die Erhebung (jedoch nicht die weitere Verarbeitung) von Daten der Besucher, die zu Zwecken der Erstellung der „Page-Insights" (Statistiken) unserer LinkedIn-Profile erstellt werden, verantwortlich.   
+Zu diesen Daten gehören Informationen zu den Arten von Inhalten, die Nutzer\*innen sich ansehen oder mit denen sie interagieren, oder die von ihnen vorgenommenen Handlungen sowie Informationen über die von den Nutzern genutzten Geräte (z. B. IP-Adressen, Betriebssystem, Browsertyp, Spracheinstellungen, Cookie-Daten) und Angaben aus dem Profil der  Nutzer\*innen, wie Berufsfunktion, Land, Branche, Hierarchieebene, Unternehmensgröße und Beschäftigungsstatus. Datenschutzinformationen zur Verarbeitung von Daten der Nutzer\*innen durch LinkedIn können den Datenschutzhinweisen von LinkedIn entnommen werden: [https://www.linkedin.com/legal/privacy-policy](https://www.linkedin.com/legal/privacy-policy)    
+Wir haben mit LinkedIn Irland eine spezielle Vereinbarung abgeschlossen ("Page Insights Joint Controller Addendum (the ‚Addendum‘)", [https://legal.linkedin.com/pages-joint-controller-addendum](https://legal.linkedin.com/pages-joint-controller-addendum)), in der insbesondere geregelt wird, welche Sicherheitsmaßnahmen LinkedIn beachten muss und in der LinkedIn sich bereit erklärt hat die Betroffenenrechte zu erfüllen (d. h. Nutzer\*innen können z. B. Auskünfte oder Löschungsanfragen direkt an LinkedIn richten). Die Rechte der Nutzer\*innen (insbesondere auf Auskunft, Löschung, Widerspruch und Beschwerde bei zuständiger Aufsichtsbehörde), werden durch die Vereinbarungen mit LinkedIn nicht eingeschränkt. Die gemeinsame Verantwortlichkeit beschränkt sich auf die Erhebung der Daten durch und die Übermittlung an die Ireland Unlimited Company, ein Unternehmen mit Sitz in der EU. Die weitere Verarbeitung der Daten obliegt ausschließlich der Ireland Unlimited Company, was insbesondere die Übermittlung der Daten an die Muttergesellschaft LinkedIn Corporation in den USA betrifft; Dienstanbieter: LinkedIn Ireland Unlimited Company, Wilton Place, Dublin 2, Irland; Rechtsgrundlagen: Berechtigte Interessen (Art. 6 Abs. 1 S. 1 lit. f) DSGVO); Website: [www.linkedin.com](https://www.linkedin.com/); Datenschutzerklärung: [https://www.linkedin.com/legal/privacy-policy](https://www.linkedin.com/legal/privacy-policy) ; Grundlage Drittlandtransfers: Data Privacy Framework (DPF); Widerspruchsmöglichkeit (Opt-Out): [https://www.linkedin.com/psettings/guest-controls/retargeting-opt-out](https://www.linkedin.com/psettings/guest-controls/retargeting-opt-out) .
 
-**Twitter**  
-Soziales Netzwerk; Dienstanbieter: Twitter International Company, One Cumberland Place, Fenian Street, Dublin 2 D02 AX07, Irland, Mutterunternehmen: Twitter Inc., 1355 Market Street, Suite 900, San Francisco, CA 94103, USA; Datenschutzerklärung: [https://twitter.com/privacy](https://twitter.com/privacy), (Settings: [https://twitter.com/personalization](https://twitter.com/personalization))
+**Pinterest:** Soziales Netzwerk, ermöglicht das Teilen von Fotos, Kommentieren, Favorisieren und Kuratieren von Beiträgen, Nachrichtenversand, Abonnieren von Profilen; Dienstanbieter: Pinterest Europe Limited, 2nd Floor, Palmerston House, Fenian Street, Dublin 2, Irland; Rechtsgrundlagen: Berechtigte Interessen (Art. 6 Abs. 1 S. 1 lit. f) DSGVO); Website: [https://www.pinterest.com](https://www.pinterest.com/) ; Datenschutzerklärung: [https://policy.pinterest.com/de/privacy-policy](https://policy.pinterest.com/de/privacy-policy).
 
-**Vimeo**  
-Soziales Netzwerk und Videoplattform; Dienstanbieter: Vimeo Inc., Attention: Legal Department, 555 West 18th Street New York, New York 10011, USA; Website: [https://vimeo.com;](https://vimeo.com;/) Datenschutzerklärung: [https://vimeo.com/privacy](https://vimeo.com/privacy)   
-  
-**YouTube**  
-Soziales Netzwerk und Videoplattform; Dienstanbieter: Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Irland, Mutterunternehmen: Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA; Datenschutzerklärung: [https://policies.google.com/privacy](https://policies.google.com/privacy); Widerspruchsmöglichkeit (Opt-Out): [https://adssettings.google.com/authenticated](https://adssettings.google.com/authenticated) 
+**Threads:** Soziales Netzwerk; Dienstanbieter: Meta Platforms Ireland Limited, Merrion Road, Dublin 4, D04 X2K5, Irland; Rechtsgrundlagen: Berechtigte Interessen (Art. 6 Abs. 1 S. 1 lit. f) DSGVO); Website: [https://www.threads.net/](https://www.threads.net/); Datenschutzerklärung: [https://help.instagram.com/515230437301944](https://help.instagram.com/515230437301944).
 
-**Xing**  
-Soziales Netzwerk; Dienstanbieter: XING AG, Dammtorstraße 29-32, 20354 Hamburg, Deutschland; Website: [https://www.xing.de;](https://www.xing.de;/) Datenschutzerklärung: [https://privacy.xing.com/de/datenschutzerklaerung](https://privacy.xing.com/de/datenschutzerklaerung) 
+**X**: Soziales Netzwerk; Dienstanbieter: Twitter International Company, One Cumberland Place, Fenian Street, Dublin 2 D02 AX07, Irland; Rechtsgrundlagen: Berechtigte Interessen (Art. 6 Abs. 1 S. 1 lit. f) DSGVO); Website: [https://x.com](https://x.com/); Datenschutzerklärung: [https://x.com/de/privacy](https://x.com/de/privacy).
 
-**Mastodon**  
-Mastodon/Fediverse (ruhr.social / Instanz von [9elements](https://9elements.com/)) - Datenschutzerklärung/Opt-Out: [https://ruhr.social/terms](https://ruhr.social/terms)
+**YouTube**: Soziales Netzwerk und Videoplattform; Dienstanbieter: Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Irland; Rechtsgrundlagen: Berechtigte Interessen (Art. 6 Abs. 1 S. 1 lit. f) DSGVO); Datenschutzerklärung: [https://policies.google.com/privacy](https://policies.google.com/privacy); Grundlage Drittlandtransfers: Data Privacy Framework (DPF); Widerspruchsmöglichkeit (Opt-Out): [https://myadcenter.google.com/personalizationoff](https://myadcenter.google.com/personalizationoff).
+
+**Xing**: Soziales Netzwerk; Dienstanbieter: New Work SE, Am Strandkai 1, 20457 Hamburg, Deutschland; Rechtsgrundlagen: Berechtigte Interessen (Art. 6 Abs. 1 S. 1 lit. f) DSGVO); Website: [https://www.xing.com/](https://www.xing.com/); Datenschutzerklärung: [https://privacy.xing.com/de/datenschutzerklaerung](https://privacy.xing.com/de/datenschutzerklaerung).
+
+**Vimeo**: Soziales Netzwerk und Videoplattform; Dienstanbieter: Vimeo Inc., Attention: Legal Department, 555 West 18th Street New York, New York 10011, USA; Rechtsgrundlagen: Berechtigte Interessen (Art. 6 Abs. 1 S. 1 lit. f) DSGVO); Website: [https://vimeo.com](https://vimeo.com/); Datenschutzerklärung: [https://vimeo.com/privacy](https://vimeo.com/privacy).
+
+**SocialHub**: Social-Media- und Community-Management, Kommunikation mit Nutzern und Analysefunktionen; Dienstanbieter: maloon GmbH, Schütterlettenweg 4, 85053 Ingolstadt, Deutschland; Rechtsgrundlagen: Berechtigte Interessen (Art. 6 Abs. 1 S. 1 lit. f) DSGVO); Website: [https://socialhub.io/](https://socialhub.io/); Datenschutzerklärung: [https://socialhub.io/datenschutz/](https://socialhub.io/datenschutz/)
 
 [Social-Media-Buttons](#q4050240494)
 
@@ -1086,109 +1198,87 @@ Wir bitten Sie, sich regelmäßig über den Inhalt unserer Datenschutzerklärung
 
 Sofern wir in dieser Datenschutzerklärung Adressen und Kontaktinformationen von Unternehmen und Organisationen angeben, bitten wir zu beachten, dass die Adressen sich über die Zeit ändern können und bitten die Angaben vor Kontaktaufnahme zu prüfen.
 
-* [Privatkunden](https://www.gls.de/privatkunden/)
-* [Datenschutz](https://www.gls.de/privatkunden/datenschutz/)
+* [Datenschutz](https://www.gls.de/datenschutz/)
 
-Kontakt
+### So erreichst Du uns
 
-* [_Kontakt_](https://www.gls.de/privatkunden/kontakt/ "Kontakt")
-* [_Newsletter_](https://www.gls.de/privatkunden/newsletter/ "Newsletter")
-* [_Veranstaltungen_](https://www.gls.de/privatkunden/gls-bank/aktuelles/termine/ "Veranstaltungen")
+Der schnellste Weg
 
-**Social Media**
+[Selfservice](https://www.gls.de/gls-bank/service/selfservice/ "Vieles kannst du mit unserem Selfservice schnell selbst erledigen")
 
-* [](https://blog.gls.de/ "GLS Bank Blog")
-* [](https://www.youtube.com/channel/UC_7WAi381nNUFf34xkSCsnQ "GLS Bank auf YouTube")
-* [](https://ruhr.social/@glsbank "GLS Bank auf Mastodon")
-* [](https://www.linkedin.com/company/glsbank/ "GLS Bank auf LinkedIn")
-* [](https://www.xing.com/pages/glsbank "GLS Bank auf Xing")
-* [](https://www.facebook.com/glsbank/ "GLS Bank auf Facebook")
-* [](https://bsky.app/profile/glsbank.bsky.social "GLS Bank auf Bluesky")
-* [](https://www.instagram.com/glsbank/ "GLS Bank auf Instagram")
-* [![Global Alliance for Banking on Values](/assets/dist/img/icons/GABV-Round.png "Global Alliance for Banking on Values")](https://www.gls.de/privatkunden/gls-bank/gls-netzwerk/gabv/)
+<clipPath id="clip0\_2059\_6429"> <rect width="20" height="20" fill="white"></rect> </clipPath> Postfach im [Onlinebanking](https://www.gls-online-filiale.de/services_cloud/portal "Direkt zu Deinem Postfach im GLS Onlinebanking - mit deinen Login-Daten")
 
-**So erreichen Sie uns**
+Fragen zum Onlinebanking
 
-Die schnellsten Wege:  
-[Selfservice](https://www.gls.de/privatkunden/selfservice/) oder eine Nachricht über Ihr [GLS Onlinebanking Postfach](https://www.gls-online-filiale.de/services_cloud/portal "GLS Onlinebanking").
+<clipPath id="clip0\_2059\_6439"> <rect width="20" height="20" fill="white" transform="translate(0.666992)"></rect> </clipPath> [+49 234 5797 444](tel:+492345797444 "Fragen zum Onlinebanking? Ruf an unter +49 234 5797 444")
 
-[+49 234 5797 100](tel:+492345797100) [+49 234 5797 222](tel:+492345797222)
+|     |     |
+| --- | --- |
+| Mo – Fr | 08:00 – 20:00 Uhr |
+| Sa  | 09:00 – 14:00 Uhr |
 
-[Kontakt](https://www.gls.de/privatkunden/kontakt/ "Kontakt") [Filiale finden](https://www.gls.de/privatkunden/gls-bank/standorte/ "Filiale finden")
+Serviceanfragen
 
-**Anrufzeiten**
+<clipPath id="clip0\_2059\_6439"> <rect width="20" height="20" fill="white" transform="translate(0.666992)"></rect> </clipPath> [+49 234 5797 100](tel:+492345797100 "Fragen zu unseren Angeboten, Deinen Konten oder allgemein? Ruf an unter +49 234 5797 100")
 
-Mo bis Do: 08:30 – 17:00 Uhr  
-Fr: 08:30 – 16:00 Uhr
+|     |     |
+| --- | --- |
+| Mo – Do | 08:30 – 17:00 Uhr |
+| Fr  | 08:30 – 16:00 Uhr |
 
-#### Fragen zum GLS Onlinebanking?
+Filialen & Postadresse
 
-Mo bis Fr: 08:00 – 20:00 Uhr  
-Sa: 09:00 – 14:00 Uhr  
-+49 234 5797 444
-
-**Postanschrift**
+[Filiale finden](https://www.gls.de/gls-bank/ueber-uns/standorte/ "7 GLS Standorte in Deutschland")
 
 GLS Gemeinschaftsbank eG  
-44774 Bochum
+44774 Bochum  
+  
+BIC: GENODEM1GLS
 
-_BIC:_ GENODEM1GLS
+Folge uns
+
+ [![Icon Blog](/media/Footer-Elemente/blog.svg "GLS Bank Magazin")](https://blog.gls.de/ "GLS Bank Magazin")[![Icon Facebook](/media/Footer-Elemente/facebook.svg "GLS Bank auf Facebook")](https://www.facebook.com/glsbank/ "GLS Bank auf Facebook")[![Icon Instagram](/media/Footer-Elemente/instagram.svg "GLS Bank auf Instagram")](https://www.instagram.com/glsbank/)[![Icon Linkedin](/media/Footer-Elemente/linkedin.svg "GLS Bank auf Linkedin")](https://www.linkedin.com/company/glsbank/ "GLS Bank auf Linkedin")[![Icon mastodon](/media/Footer-Elemente/mastodon.svg "GLS Bank auf mastodon")](https://ruhr.social/@glsbank "GLS Bank auf mastodon")[![Icon Threads](/media/Footer-Elemente/threads.svg "GLS Bank auf Threads")](https://www.threads.net/@glsbank "Die GLS Bank auf Threads")[![Icon Youtube](/media/Footer-Elemente/youtube.svg "GLS Bank auf Youtube")](https://www.youtube.com/@glsbank)[![Icon Xing](/media/Footer-Elemente/xing.svg "GLS Bank auf Xing")](https://www.xing.com/pages/glsbank)[![Icon Bluesky](/media/Footer-Elemente/bluesky.svg "GLS Bank auf Bluesky")](https://bsky.app/profile/glsbank.bsky.social)[![Logo GABV](/media/Bilder/Logos/GABV_Primary-Logo-Lockup_White.svg " Mitglied der Global Alliance for Banking on Values")](https://www.gls.de/gls-bank/ueber-uns/gls-netzwerk/gabv/)
+
+* Services
+    
+    * [Banking App](https://www.gls.de/konten-karten/banking/banking-app/)
+    * [Selfservice](https://www.gls.de/gls-bank/service/selfservice/)
+    * [Onlinebanking Login](https://www.gls-online-filiale.de/services_cloud/portal)
+    * [FAQ](https://www.gls.de/gls-bank/service/fragen-antworten/)
+    * [Kontakt](https://www.gls.de/gls-bank/service/kontakt/)
+    * [Newsletter](https://www.gls.de/services/newsletter/)
+    * [GLS Bank Magazin](https://blog.gls.de/)
+    
+* Unsere Angebote
+    
+    * [Girokonto](https://www.gls.de/konten-karten/konten/girokonto/)
+    * [Mitgliederkonto](https://www.gls.de/konten-karten/konten/konto-mitglied/)
+    * [Festgeld](https://www.gls.de/sparen-investieren/sparen/festgeld/)
+    * [Tagesgeldkonto](https://www.gls.de/sparen-investieren/sparen/tagesgeldkonto/)
+    * [Finanzieren](https://www.gls.de/finanzieren/)
+    
+* Über uns
+    
+    * [Wo wirkt die GLS?](https://www.gls.de/gls-bank/nachhaltigkeit/wo-wirkt-die-gls/)
+    * [Weitersagen](https://www.gls.de/weitersagen/)
+    * [Veranstaltungen](https://www.gls.de/gls-bank/aktuelles/veranstaltungen/)
+    * [Filiale finden](https://www.gls.de/gls-bank/ueber-uns/standorte/)
+    * [Presse](https://www.gls.de/gls-bank/aktuelles/presse/)
+    * [Karriere](https://www.gls.de/gls-bank/ueber-uns/karriere/)
+    * [English](https://www.gls.de/ueber-uns/english/)
+    
+
+GLS Kundenmagazin
+
+[![Titelbild Bankspiegel](/media/_processed_/b/5/csm_bankspiegel_a1d82f48da.jpg "GLS Kundenmagazin")](https://www.gls.de/gls-bank/aktuelles/bankspiegel/)
+
+Sozial-ökologisch seit 1974
+---------------------------
 
 © 2024 GLS Gemeinschaftsbank eG
 
-* [Impressum](https://www.gls.de/privatkunden/impressum/ "Impressum")
-* [Datenschutz](https://www.gls.de/privatkunden/datenschutz/ "Datenschutz")
-* [AGB](https://www.gls.de/privatkunden/agb/ "AGB")
-* [Presse](https://www.gls.de/privatkunden/gls-bank/aktuelles/presse/ "Presse")
-* [Karriere](https://www.gls.de/privatkunden/karriere/ "Karriere")
-* [Newsletter](https://www.gls.de/privatkunden/newsletter/ "Newsletter")
-* [Konditionen & Preise](https://www.gls.de/privatkunden/konditionen-preise/ "Konditionen & Preise")
-* [English](https://www.gls.de/privatkunden/english/ "English")
+* [Impressum](https://www.gls.de/impressum/)
+* [Datenschutz](https://www.gls.de/datenschutz/)
+* [AGB](https://www.gls.de/agb/)
+* [Konditionen & Preise](https://www.gls.de/konditionen-preise/)
 * Cookies
-
-Über die GLS Bank
-
-**Geld ist für die Menschen da**
-
-* **Auf einen Blick**
-* [Über uns](https://www.gls.de/privatkunden/gls-bank/ueber-uns/ "Über uns")
-* [GLS Nachhaltigkeit](https://www.gls.de/privatkunden/gls-bank/gls-nachhaltigkeit/ "GLS Nachhaltigkeit")
-* [Politische Forderungen](https://www.gls.de/privatkunden/gls-bank/politische-forderungen/ "Politische Forderungen")
-* [Zahlen & Fakten](https://www.gls.de/privatkunden/gls-bank/zahlen-fakten/ "Zahlen & Fakten")
-* [Auszeichnungen](https://www.gls.de/privatkunden/gls-bank/auszeichnungen/ "Auszeichnungen")
-* [GLS Gruppe und Kooperationspartner](https://www.gls.de/privatkunden/gls-bank/auf-einen-blick/gls-gruppe-und-kooperationspartner/ "GLS Gruppe und Kooperationspartner")
-* [Standorte](https://www.gls.de/privatkunden/gls-bank/standorte/ "Standorte")
-
-* **Einblicke**
-* [GLS Netzwerk](https://www.gls.de/privatkunden/ueber-die-gls-bank/gls-netzwerk/ "GLS Netzwerk")
-* [Gremien](https://www.gls.de/privatkunden/gls-bank/gremien/ "Gremien")
-* [Bankspiegel - Kundenmagazin](https://www.gls.de/privatkunden/bankspiegel/ "Bankspiegel - Kundenmagazin")
-
-* **Aktuelles**
-* [Termine & Neuigkeiten](https://www.gls.de/privatkunden/gls-bank/aktuelles/termine-neuigkeiten/ "Aktuelles")
-* [Presse](https://www.gls.de/privatkunden/gls-bank/aktuelles/presse/ "Presse")
-* [Stellenanzeigen](https://www.gls.de/privatkunden/gls-bank/aktuelles/stellenanzeigen/ "Stellenanzeigen")
-
-[**GLS Bank-Blog**
-
-Geschichten, Menschen, Ideen](https://blog.gls.de/ "GLS Bank-Blog")
-
-[**GLS Treuhand e. V.**
-
-Schenken, Stiften und Vererben](https://www.gls-treuhand.de/ "GLS Treuhand e. V.")
-
-[**GLS Bank Stiftung**
-
-Für ein menschliches Bankwesen](https://glsbankstiftung.gls-treuhand.de/ "GLS Bank Stiftung")
-
-[**GLS Mobility GmbH**
-
-Für eine bedarfsgerechte, ökologische Mobilität](https://www.gls-mobility.de/ "GLS Mobility GmbH")
-
-[**GLS Crowdfunding GmbH**
-
-Direktinvestitionen mit Wirkung](https://www.gls-crowd.de/willkommen/#pk_campaign=gls-ik "GLS Crowdfunding GmbH")
-
-[**GLS Investment Management GmbH**
-
-Für strenge nachhaltige Fonds](https://www.gls-investments.de/ "GLS Investment Management GmbH")
