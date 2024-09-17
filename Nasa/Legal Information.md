@@ -269,7 +269,7 @@ article 5 days ago](https://www.nasa.gov/missions/station/nasas-spacex-crew-9-to
 
 ### Station Science Top News: September 13, 2024
 
-article 19 hours ago](https://www.nasa.gov/centers-and-facilities/johnson/station-science-top-news-september-13-2024/)[![NASA’s Artemis II Crew Uses Iceland Terrain for Lunar Training](https://science.nasa.gov/wp-content/uploads/2024/09/iceland-artemisiitraining-b.jpg)
+article 1 day ago](https://www.nasa.gov/centers-and-facilities/johnson/station-science-top-news-september-13-2024/)[![NASA’s Artemis II Crew Uses Iceland Terrain for Lunar Training](https://science.nasa.gov/wp-content/uploads/2024/09/iceland-artemisiitraining-b.jpg)
 
 4 min read
 
@@ -285,29 +285,35 @@ article 5 days ago](https://www.nasa.gov/missions/station/nasas-spacex-crew-9-to
 
 ### Highlights
 
-[![Screen capture of the My NASA Data homepage. Graphic has a blue background with an image of the Earth and rows across half of the picture representing water, sea ice, forests, clouds, and lava. Words at the top list the content categories.](https://www.nasa.gov/wp-content/uploads/2024/09/1-my-nasa-data-homepage.png?w=1024)
+[![A gold coral that looks like a hand with all fingers reaching upwards grows in teal water, on a rock covered in light brown algae.](https://www.nasa.gov/wp-content/uploads/2024/08/oceanos2024loiacono-1878.jpg?w=1024)
+
+5 min read
+
+### Ocean Science Missions and Projects
+
+article 1 hour ago](https://www.nasa.gov/general/ocean-science-missions-and-projects/)[![Screen capture of the My NASA Data homepage. Graphic has a blue background with an image of the Earth and rows across half of the picture representing water, sea ice, forests, clouds, and lava. Words at the top list the content categories.](https://www.nasa.gov/wp-content/uploads/2024/09/1-my-nasa-data-homepage.png?w=1024)
 
 4 min read
 
 ### Going Back-to-School with NASA Data
 
-article 20 hours ago](https://www.nasa.gov/learning-resources/for-educators/going-back-to-school-with-nasa-data/)[![Amendment 48: A.5 Carbon Cycle Science Final Text and Due Dates.](https://science.nasa.gov/wp-content/uploads/2023/06/co2-gmao-202102-lrg.jpg)
+article 1 day ago](https://www.nasa.gov/earth/going-back-to-school-with-nasa-data/)[![Amendment 48: A.5 Carbon Cycle Science Final Text and Due Dates.](https://science.nasa.gov/wp-content/uploads/2023/06/co2-gmao-202102-lrg.jpg)
 
 2 min read
 
 ### Amendment 48: A.5 Carbon Cycle Science Final Text and Due Dates.
 
-article 21 hours ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-48-a-5-carbon-cycle-science-final-text-and-due-dates/)[![This map shows global temperature anomalies in 2024.](https://www.nasa.gov/wp-content/uploads/2024/09/gistemp-aug2024-map-no-text.png?w=1024)
-
-5 min read
-
-### NASA Finds Summer 2024 Hottest to Date
-
-article 6 days ago](https://www.nasa.gov/earth/nasa-finds-summer-2024-hottest-to-date/)
+article 1 day ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-48-a-5-carbon-cycle-science-final-text-and-due-dates/)
 
 ### Highlights
 
-[![Solar Storms and Flares](https://science.nasa.gov/wp-content/uploads/2024/06/x-flare-may-8-2024-131-171-red-crop2.jpg)
+[![Artist’s concept depicts NASA’s Europa Clipper spacecraft in orbit around Jupiter](https://www.nasa.gov/wp-content/uploads/2024/08/e3-pia26068-europa-clipper-spacecraft-stylized-illustration.jpg?w=1024)
+
+6 min read
+
+### 8 Things to Know About NASA’s Mission to an Ocean Moon of Jupiter
+
+article 5 hours ago](https://www.nasa.gov/missions/europa-clipper/8-things-to-know-about-nasas-mission-to-an-ocean-moon-of-jupiter/)[![Solar Storms and Flares](https://science.nasa.gov/wp-content/uploads/2024/06/x-flare-may-8-2024-131-171-red-crop2.jpg)
 
 2 min read
 
@@ -319,57 +325,51 @@ article 4 days ago](https://science.nasa.gov/sun/solar-storms-and-flares/)[![NAS
 
 ### NASA’s Artemis II Crew Uses Iceland Terrain for Lunar Training
 
-article 4 days ago](https://science.nasa.gov/missions/artemis/nasas-artemis-ii-crew-uses-iceland-terrain-for-lunar-training/)[![Amendment 47: DRAFT F.12 Artemis IV Deployed Instruments Program Released for Community Comment.](https://science.nasa.gov/wp-content/uploads/2024/08/sp-astronaut.jpg)
-
-2 min read
-
-### Amendment 47: DRAFT F.12 Artemis IV Deployed Instruments Program Released for Community Comment.
-
-article 4 days ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-47-draft-f-12-artemis-iv-deployed-instruments-program-released-for-community-comment/)
+article 4 days ago](https://science.nasa.gov/missions/artemis/nasas-artemis-ii-crew-uses-iceland-terrain-for-lunar-training/)
 
 ### Featured
 
-[![Hubble Examines a Spiral Star Factory](https://science.nasa.gov/wp-content/uploads/2024/09/hubble-ngc5668-potw2437a.jpg)
+[![the Roman spacecraft bus](https://www.nasa.gov/wp-content/uploads/2024/09/spacecraft-001.jpg?w=1024)
+
+5 min read
+
+### NASA Completes Spacecraft to Transport, Support Roman Space Telescope
+
+article 5 hours ago](https://www.nasa.gov/missions/roman-space-telescope/nasa-completes-spacecraft-to-transport-support-roman-space-telescope/)[![NASA’s Hubble Finds More Black Holes than Expected in the Early Universe](https://science.nasa.gov/wp-content/uploads/2024/09/hubble-hudf-blackholes-stsci-01j6yyrz61qn4exe2hx9dxzj9s.png)
+
+4 min read
+
+### NASA’s Hubble Finds More Black Holes than Expected in the Early Universe
+
+article 6 hours ago](https://science.nasa.gov/missions/hubble/nasas-hubble-finds-more-black-holes-than-expected-in-the-early-universe/)[![Hubble Examines a Spiral Star Factory](https://science.nasa.gov/wp-content/uploads/2024/09/hubble-ngc5668-potw2437a.jpg)
 
 2 min read
 
 ### Hubble Examines a Spiral Star Factory
 
-article 4 days ago](https://science.nasa.gov/missions/hubble/hubble-examines-a-spiral-star-factory/)[![NASA’s Webb Peers into the Extreme Outer Galaxy](https://science.nasa.gov/wp-content/uploads/2024/09/webb-stsci-01j5nskg3dw0f4pp1dvzw20rf2-4k.png)
-
-5 min read
-
-### NASA’s Webb Peers into the Extreme Outer Galaxy
-
-article 5 days ago](https://science.nasa.gov/missions/webb/nasas-webb-peers-into-the-extreme-outer-galaxy/)[![NASA’s Hubble, Chandra Find Supermassive Black Hole Duo](https://science.nasa.gov/wp-content/uploads/2024/09/hubble-olmstedart-dualagns-stsci-01j29xxpbeg2tqnkcnd6d7z4yn.jpg)
-
-5 min read
-
-### NASA’s Hubble, Chandra Find Supermassive Black Hole Duo
-
-article 1 week ago](https://science.nasa.gov/missions/hubble/nasas-hubble-chandra-find-supermassive-black-hole-duo/)
+article 4 days ago](https://science.nasa.gov/missions/hubble/hubble-examines-a-spiral-star-factory/)
 
 ### Highlights
 
-[![Amendment 48: A.5 Carbon Cycle Science Final Text and Due Dates.](https://science.nasa.gov/wp-content/uploads/2023/06/co2-gmao-202102-lrg.jpg)
+[![A gold coral that looks like a hand with all fingers reaching upwards grows in teal water, on a rock covered in light brown algae.](https://www.nasa.gov/wp-content/uploads/2024/08/oceanos2024loiacono-1878.jpg?w=1024)
 
-2 min read
+5 min read
 
-### Amendment 48: A.5 Carbon Cycle Science Final Text and Due Dates.
+### Ocean Science Missions and Projects
 
-article 21 hours ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-48-a-5-carbon-cycle-science-final-text-and-due-dates/)[![Aura at 20 Years](https://science.nasa.gov/wp-content/uploads/2024/09/figure-1.jpg)
+article 1 hour ago](https://www.nasa.gov/general/ocean-science-missions-and-projects/)[![ICESat-2 Hosts Third Applications Workshop](https://science.nasa.gov/wp-content/uploads/2024/08/icesat2-figure-1.png)
 
-14 min read
+16 min read
 
-### Aura at 20 Years
+### ICESat-2 Hosts Third Applications Workshop
 
-article 21 hours ago](https://science.nasa.gov/science-research/earth-science/aura-at-20-years/)[![Solar Storms and Flares](https://science.nasa.gov/wp-content/uploads/2024/06/x-flare-may-8-2024-131-171-red-crop2.jpg)
+article 2 hours ago](https://science.nasa.gov/science-research/earth-science/icesat-2-hosts-third-applications-workshop/)[![Amendment 49: A.55 Decadal Survey Incubation Program: Science and Technology Final Text and Due Dates](https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000002/GSFC_20171208_Archive_e000002~large.jpg)
 
-2 min read
+1 min read
 
-### Solar Storms and Flares
+### Amendment 49: A.55 Decadal Survey Incubation Program: Science and Technology Final Text and Due Dates
 
-article 4 days ago](https://science.nasa.gov/sun/solar-storms-and-flares/)
+article 4 hours ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-49-a-55-decadal-survey-incubation-program-science-and-technology-final-text-and-due-dates/)
 
 ### Highlights
 
@@ -379,13 +379,13 @@ article 4 days ago](https://science.nasa.gov/sun/solar-storms-and-flares/)
 
 ### 65 Years Ago: First Powered Flight of the X-15 Hypersonic Rocket Plane 
 
-article 1 hour ago](https://www.nasa.gov/history/65-years-ago-first-powered-flight-of-the-x-15-hypersonic-rocket-plane/)[![Graphic shows a possible future General Electric jet engine with exposed fan blades in front of a cut-away-interior view of its core mechanisms -- all part of NASA's HyTEC research project.](https://www.nasa.gov/wp-content/uploads/2024/05/hytec-illustration.png?w=1024)
+article 7 hours ago](https://www.nasa.gov/history/65-years-ago-first-powered-flight-of-the-x-15-hypersonic-rocket-plane/)[![Graphic shows a possible future General Electric jet engine with exposed fan blades in front of a cut-away-interior view of its core mechanisms -- all part of NASA's HyTEC research project.](https://www.nasa.gov/wp-content/uploads/2024/05/hytec-illustration.png?w=1024)
 
 3 min read
 
 ### NASA, GE Aerospace Advancing Hybrid-Electric Airliners with HyTEC
 
-article 4 hours ago](https://www.nasa.gov/aeronautics/nasa-ge-hybrid-electric-research-092024/)[![An up-close view of ice that covers propeller blades inside the Icing Research Tunnel.](https://www.nasa.gov/wp-content/uploads/2024/08/grc-2023-c-02525.jpg?w=1024)
+article 10 hours ago](https://www.nasa.gov/aeronautics/nasa-ge-hybrid-electric-research-092024/)[![An up-close view of ice that covers propeller blades inside the Icing Research Tunnel.](https://www.nasa.gov/wp-content/uploads/2024/08/grc-2023-c-02525.jpg?w=1024)
 
 5 min read
 
@@ -395,25 +395,25 @@ article 2 weeks ago](https://www.nasa.gov/centers-and-facilities/glenn/nasa-tunn
 
 ### Highlights
 
-[![Artemis I communications and navigation milestones](https://www.nasa.gov/wp-content/uploads/2022/08/artemis-i-comm-nav-milestones-abbr.png?w=1024)
+[![Amendment 49: A.55 Decadal Survey Incubation Program: Science and Technology Final Text and Due Dates](https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000002/GSFC_20171208_Archive_e000002~large.jpg)
+
+1 min read
+
+### Amendment 49: A.55 Decadal Survey Incubation Program: Science and Technology Final Text and Due Dates
+
+article 4 hours ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-49-a-55-decadal-survey-incubation-program-science-and-technology-final-text-and-due-dates/)[![the Roman spacecraft bus](https://www.nasa.gov/wp-content/uploads/2024/09/spacecraft-001.jpg?w=1024)
+
+5 min read
+
+### NASA Completes Spacecraft to Transport, Support Roman Space Telescope
+
+article 5 hours ago](https://www.nasa.gov/missions/roman-space-telescope/nasa-completes-spacecraft-to-transport-support-roman-space-telescope/)[![Artemis I communications and navigation milestones](https://www.nasa.gov/wp-content/uploads/2022/08/artemis-i-comm-nav-milestones-abbr.png?w=1024)
 
 1 min read
 
 ### SCaN Lunar Support
 
-article 4 days ago](https://www.nasa.gov/communicating-with-missions/scan-lunar-support/)[![Amendment 47: DRAFT F.12 Artemis IV Deployed Instruments Program Released for Community Comment.](https://science.nasa.gov/wp-content/uploads/2024/08/sp-astronaut.jpg)
-
-2 min read
-
-### Amendment 47: DRAFT F.12 Artemis IV Deployed Instruments Program Released for Community Comment.
-
-article 4 days ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-47-draft-f-12-artemis-iv-deployed-instruments-program-released-for-community-comment/)[![A 3D printer at RPM Innovations’ facility additively manufactures a funnel-shaped aerospike rocket engine nozzle](https://www.nasa.gov/wp-content/uploads/2024/09/printing-chamber.jpg?w=1024)
-
-2 min read
-
-### Printed Engines Propel the Next Industrial Revolution
-
-article 5 days ago](https://www.nasa.gov/technology/tech-transfer-spinoffs/printed-engines-propel-the-next-industrial-revolution/)
+article 4 days ago](https://www.nasa.gov/communicating-with-missions/scan-lunar-support/)
 
 ### Featured
 
@@ -423,13 +423,13 @@ article 5 days ago](https://www.nasa.gov/technology/tech-transfer-spinoffs/print
 
 ### Going Back-to-School with NASA Data
 
-article 20 hours ago](https://www.nasa.gov/learning-resources/for-educators/going-back-to-school-with-nasa-data/)[![](https://www.nasa.gov/wp-content/uploads/2024/09/52573356957-8ecef477bd-k.jpg?w=1024)
+article 1 day ago](https://www.nasa.gov/earth/going-back-to-school-with-nasa-data/)[![](https://www.nasa.gov/wp-content/uploads/2024/09/52573356957-8ecef477bd-k.jpg?w=1024)
 
 3 min read
 
 ### NASA Mobilizes Resource for HBCU Scholars, Highlighted at Conference
 
-article 24 hours ago](https://www.nasa.gov/learning-resources/nasa-mobilizes-resource-for-hbcu-scholars-highlighted-at-conference/)[![This image — developed by a team of artists from the Advanced Concepts Lab at NASA’s Langley Research Center — features astronauts performing science on the surface of the Moon and Mars. The team developed the image with a blend of digital 2D illustration and 3D techniques to mimic a retro science fiction painting.](https://www.nasa.gov/wp-content/uploads/2024/09/7-sciencetechnology-lores.png?w=1024)
+article 1 day ago](https://www.nasa.gov/learning-resources/nasa-mobilizes-resource-for-hbcu-scholars-highlighted-at-conference/)[![This image — developed by a team of artists from the Advanced Concepts Lab at NASA’s Langley Research Center — features astronauts performing science on the surface of the Moon and Mars. The team developed the image with a blend of digital 2D illustration and 3D techniques to mimic a retro science fiction painting.](https://www.nasa.gov/wp-content/uploads/2024/09/7-sciencetechnology-lores.png?w=1024)
 
 1 min read
 
@@ -457,7 +457,7 @@ article 5 days ago](https://www.nasa.gov/directorates/stmd/prizes-challenges-cro
 
 ### 15 Years Ago: Japan launches HTV-1, its First Resupply Mission to the Space Station
 
-article 7 days ago](https://www.nasa.gov/history/15-years-ago-japan-launches-htv-1-its-first-resupply-mission-to-the-space-station/)
+article 1 week ago](https://www.nasa.gov/history/15-years-ago-japan-launches-htv-1-its-first-resupply-mission-to-the-space-station/)
 
 ### Highlights
 
