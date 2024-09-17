@@ -309,7 +309,6 @@ Advertise
 
 ### [Tabcorp CEO Gill McLachlan orders staff back to office five days a week](https://www.afr.com/work-and-careers/workplace/tabcorp-ceo-gill-mclachlan-orders-staff-back-to-office-five-days-a-week-20240909-p5k8xt)
 
-* 40 mins ago
 * Euan Black and Patrick Durkin
 
 * ### [What this CEO learnt from Mike Cannon-Brookes and Scott Farquhar](https://www.afr.com/work-and-careers/leaders/what-this-ceo-learnt-from-mike-cannon-brookes-and-scott-farquhar-20240913-p5kach)
