@@ -101,60 +101,6 @@ If you have any questions about our privacy policy, please [contact us](mailto:w
 
 Return to our [subscription form](https://www.icr.org/subscriptions).
 
-More Days of Praise
-
-[![](/i/articles/dop/DOP_Logo_328_116.jpg)](https://www.icr.org/article/what-began-at-philippi)
-
-[What Began at Philippi](https://www.icr.org/article/what-began-at-philippi/)
-
-“Paul and Timotheus, the servants of Jesus Christ, to all the saints in Christ Jesus which are at Philippi...Grace be unto you, and peace,...
-
-BY: [JOHN D. MORRIS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=26)
-
-[![](/i/articles/dop/DOP_Logo_328_116.jpg)](https://www.icr.org/article/no-vision)
-
-[No Vision](https://www.icr.org/article/no-vision/)
-
-“Where there is no vision, the people perish: but he that keepeth the law, happy is he.” (Proverbs 29:18) The “vision”...
-
-BY: [HENRY M. MORRIS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=23)
-
-[![](/i/articles/dop/DOP_Logo_328_116.jpg)](https://www.icr.org/article/the-self-life)
-
-[The Self Life](https://www.icr.org/article/the-self-life/)
-
-“O wretched man that I am! who shall deliver me from the body of this death?” (Romans 7:24) This despondent cry follows Paul’s...
-
-BY: [HENRY M. MORRIS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=23)
-
-Shop Related Products
-
-[![](https://cdn.shoplightspeed.com/shops/601440/files/10472129/file.jpg)
-
-Scientific Creationism](https://store.icr.org/dr-henry-morris-scientific-creationism.html)
-
-$14.99
-
-[](https://store.icr.org/.html)
-
-$
-
-[![](https://cdn.shoplightspeed.com/shops/601440/files/10475689/file.jpg)
-
-The Remarkable Wisdom of Solomon](https://store.icr.org/dr-henry-morris-the-remarkable-wisdom-of-solomon.html)
-
-$13.99
-
-[![](https://cdn.shoplightspeed.com/shops/601440/files/10474599/file.jpg)
-
-The Biblical Basis for Modern Science](https://store.icr.org/dr-henry-morris-the-biblical-basis-for-modern-scie.html)
-
-$19.99
-
-[](https://store.icr.org/.html)
-
-$
-
 [![Institute for Creation Research](/i/icr-logo-final-h-rev3-100.png)](https://www.icr.org/)[![ICR Discovery Center for Science and Earth History](/i/DC_Logo_Footer_2.png)](http://discoverycenter.icr.org/)
 
 [About  Us](https://www.icr.org/discover)[News](https://www.icr.org/news)[Publications](https://www.icr.org/icr-magazines)[Media](https://www.icr.org/video)[Events](https://www.icr.org/events)[Give](https://www.icr.org/donate)[Store](https://store.icr.org/)[Education](http://www.icr.edu/)
