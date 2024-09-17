@@ -133,6 +133,6 @@ These Terms will be governed by and construed in accordance with the laws of the
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-Totally satisfied - renewed my subscription, and went to FoxyProxy Plus.
+Your support like this is why I'm a FoxyProxy customer.
 
-Len Schultz
+Simon Kay
