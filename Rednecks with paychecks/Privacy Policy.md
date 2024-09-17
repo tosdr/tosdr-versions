@@ -39,7 +39,7 @@ All such third parties are prohibited from using your personal information excep
 
 ​
 
-[![rwp_logo_outline_red_no_border.png](https://static.wixstatic.com/media/611fb8_1343fd3c4ac645939c126a086538458f~mv2.png/v1/fill/w_221,h_154,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/rwp_logo_outline_red_no_border.png)](https://www.redneckswithpaychecks.com/)
+[![rwp_logo_outline_red_no_border.png](https://static.wixstatic.com/media/611fb8_1343fd3c4ac645939c126a086538458f~mv2.png/v1/fill/w_53,h_39,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_auto/rwp_logo_outline_red_no_border.png)](https://www.redneckswithpaychecks.com/)
 
 * [](https://www.facebook.com/Redneckswithpaychecksoffroad/)
 * [](http://twitter.com/RWPoffroad)
