@@ -139,7 +139,7 @@ Inspire Adapt: Automated PDF Accessibility Solution
 
 Rapidly adapt your documents for universal access](https://www.quadient.com/en/resources/inspire-adapt-automated-pdf-accessibility-solution)
 
-[![Grid image of the IDC Marketscape Worldwide Accounts Payable Automation Software for Small Businesses](https://backend.quadient.com/files/default/2024-09/idc_marketscape_0.jpg "Grid image of the IDC Marketscape Worldwide Accounts Payable Automation Software for Small Businesses")
+[![Grid image of the IDC Marketscape Worldwide Accounts Payable Automation Software for Small Businesses](https://backend.quadient.com/files/default/2024-08/idc_marketscape_-_accounts_payable_-_high-res_image_1.png "Grid image of the IDC Marketscape Worldwide Accounts Payable Automation Software for Small Businesses")
 
 IDC MarketScape: Worldwide Accounts Payable Automation Software for Small Businesses
 
