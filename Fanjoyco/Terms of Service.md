@@ -1,4 +1,4 @@
-                 
+                
 
 [![Fanjoy](//fanjoy.co/cdn/shop/files/Fanjoy_Logo_v3_Black-use_0a125238-7535-47a2-8b57-75fbca51ad73_1000x1000.png?v=1630032270)
 
@@ -208,5 +208,3 @@ Amazon American Express Diners Club Discover Meta Pay Google Pay Mastercard PayP
 
 * [© 2024, Fanjoy](https://fanjoy.co/)
 * [](https://www.shopify.com/?utm_campaign=poweredby&utm_medium=shopify&utm_source=onlinestore)
-
-{"themeColor":"#574cd5","iconColor":"#574cd5","showLogo":false,"topBottomPosition":20,"rightLeftPosition":20,"iconSize":"large","iconCustomSize":40,"position":"bottom-right"}
