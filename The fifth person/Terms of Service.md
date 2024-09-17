@@ -132,6 +132,14 @@ Quick Guides
 
 * [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
+    ![](https://fifthperson.com/wp-content/uploads/2024/09/chart-220x150.jpg)](https://fifthperson.com/net-profit-vs-free-cash-flow/)
+    
+    [Net profit vs. free cash flow: Which metric matters most?](https://fifthperson.com/net-profit-vs-free-cash-flow/)
+    
+    3 hours ago
+    
+* [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
     ![](https://fifthperson.com/wp-content/uploads/2020/09/gloves-220x150.jpg)](https://fifthperson.com/2024-hartalega-agm/)
     
     [10 things I learned from the 2024 Hartalega AGM](https://fifthperson.com/2024-hartalega-agm/)
@@ -144,7 +152,7 @@ Quick Guides
     
     [4 best places to stash your U.S. dollars](https://fifthperson.com/best-places-to-stash-us-dollars/)
     
-    7 days ago
+    1 week ago
     
 * [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
@@ -201,14 +209,6 @@ Quick Guides
     [Nike’s 30% stock plunge: Can the sportswear giant regain its crown?](https://fifthperson.com/nike-stock-plunge-sportswear-giant-regain-crown/)
     
     August 15, 2024
-    
-* [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    ![](https://fifthperson.com/wp-content/uploads/2023/05/apple-220x150.jpg)](https://fifthperson.com/apple-q3-2024-earnings-apple-intelligence/)
-    
-    [Apple Q3 2024 earnings call: Services and Apple Intelligence lead the way](https://fifthperson.com/apple-q3-2024-earnings-apple-intelligence/)
-    
-    August 13, 2024
     
 
 * [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
@@ -292,6 +292,14 @@ Quick Guides
     February 18, 2020
     
 
+* [![Photo of DANIEL](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    ![Photo of DANIEL](https://secure.gravatar.com/avatar/0adfaa699c1ad753a09aa1ab561c95a5?s=70&d=mm&r=g)](https://fifthperson.com/best-sp-500-etf-to-buy/#comment-676080)
+    
+    [DANIEL](https://fifthperson.com/best-sp-500-etf-to-buy/#comment-676080)
+    
+    Darren, thanks for the article. Q1: Can you advise if it's t...
+    
 * [![Photo of Edmund Ng](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     ![Photo of Edmund Ng](https://secure.gravatar.com/avatar/6c87c4d2b391399d5eb121b2d3ab7759?s=70&d=mm&r=g)](https://fifthperson.com/trusts-a-powerful-financial-planning-tool-for-any-net-worth/#comment-675833)
@@ -375,14 +383,6 @@ Quick Guides
     [NN](https://fifthperson.com/how-to-buy-us-shares-in-singapore/#comment-675095)
     
     Hi Adam, I recently used Interactive Brokers to do a manual...
-    
-* [![Photo of greg](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    ![Photo of greg](https://secure.gravatar.com/avatar/bcc2ef9e4d3433d9c862bfc9edd21691?s=70&d=mm&r=g)](https://fifthperson.com/3-companies-own-us-soft-drink-market/#comment-674805)
-    
-    [greg](https://fifthperson.com/3-companies-own-us-soft-drink-market/#comment-674805)
-    
-    nanoparticles in coke is criminal...
     
 
 Advertisement
