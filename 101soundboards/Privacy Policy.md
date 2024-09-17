@@ -37,13 +37,13 @@
 
  ![](/img/hamburger.svg)[![101soundboards.com — Have Fun Playing Sound Clips site logo. Click to return to homepage](https://www.101soundboards.com/img/101soundboards-logo.svg)](https://www.101soundboards.com/)
 
-[* Home](https://www.101soundboards.com/)[* Search](https://www.101soundboards.com/search)[* Funny](https://www.101soundboards.com/?sort=funny#sort_filters)[* Hot](https://www.101soundboards.com/?sort=hits_random#sort_filters)[* Popular](https://www.101soundboards.com/?sort=hits_recent#sort_filters)[* Categories](https://www.101soundboards.com/tags)[* AI Voices](https://www.101soundboards.com/tts)[* New](https://www.101soundboards.com/?sort=created#sort_filters)[* Help](https://www.101soundboards.com/pages/about)* More
+[* Home](https://www.101soundboards.com/)[* Search](https://www.101soundboards.com/search)[* Funny](https://www.101soundboards.com/featured/funny#sort_filters)[* Hot](https://www.101soundboards.com/featured/hot#sort_filters)[* Popular](https://www.101soundboards.com/featured/popular#sort_filters)[* Categories](https://www.101soundboards.com/tags)[* AI Voices](https://www.101soundboards.com/tts)[* New](https://www.101soundboards.com/featured/created#sort_filters)[* Help](https://www.101soundboards.com/pages/about)* More
     
     [Text-to-Speech AI Voices](https://www.101soundboards.com/tts) [TikTok TTS Voice](https://www.101soundboards.com/boards/72272-tiktok-tts-official-tiktok-lady-computer-voice) [Ghostface Voice](https://www.101soundboards.com/boards/72298-ghostface-scream-tts-computer-ai-voice) [TikTok Song Generators](https://www.101soundboards.com/tts#song_generators) [AI Sound FX Generator](https://www.101soundboards.com/terminal) [My TTS Phrases](https://www.101soundboards.com/tts/me)
     
     [iOS and Android Apps](https://www.101soundboards.com/pages/app?referrer=https%3A%2F%2Fwww.101soundboards.com%2Fpages%2Fabout) [Alexa](https://www.101soundboards.com/pages/app?referrer=https%3A%2F%2Fwww.101soundboards.com%2Fpages%2Fabout) [![Twitter](/img/twitter-round.svg) Twitter](https://twitter.com/101soundboards "Twitter") [Discord Bot](https://www.101soundboards.com/pages/discordbot) [Free Audio Editor](https://www.101soundboards.com/pages/editor) [Privacy](https://www.101soundboards.com/pages/about#privacy) [Donate](https://www.101soundboards.com/pages/donate) [Sticker Shop](https://shop.101soundboards.com/) [Merch](https://www.101soundboards.com/pages/donate#merch)
     
-    [Latest Boards](https://www.101soundboards.com/?sort=updated#sort_filters "Most recently added and updated soundboards") [Elites Leaderboard](https://www.101soundboards.com/elites)
+    [Latest Boards](https://www.101soundboards.com/featured/updated#sort_filters "Most recently added and updated soundboards") [Elites Leaderboard](https://www.101soundboards.com/elites)
     
     [Feature Suggestions & Bugs](https://www.101soundboards.com/pages/about#feature-suggestions-and-bugs "<strongSsuggest a new feature or report a bug")
     
