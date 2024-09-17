@@ -158,76 +158,76 @@ Please note that under Section 512(f) of the DMCA, any person who knowingly mate
 
 TOP NEWS
 
+* [Trump Vows to End Taxes on Overtime. Here’s What It Means for Economy](https://www.theepochtimes.com/us/trump-vows-to-end-taxes-on-overtime-heres-what-it-means-for-economy-5725017)
+    
+    NEW By [Andrew Moran](https://www.theepochtimes.com/author/andrew-moran)
+    
+    [![Trump Vows to End Taxes on Overtime. Here’s What It Means for Economy](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Trump Vows to End Taxes on Overtime. Here’s What It Means for Economy](https://img.theepochtimes.com/assets/uploads/2024/07/31/id5697546-GettyImages-1163303560-205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-vows-to-end-taxes-on-overtime-heres-what-it-means-for-economy-5725017)
+* [Pivotal Week for Markets: What to Expect From Fed Decision](https://www.theepochtimes.com/us/pivotal-week-for-markets-what-to-expect-from-fed-decision-2-post-5725339)
+    
+    NEW By [Andrew Moran](https://www.theepochtimes.com/author/andrew-moran)
+    
+    [![Pivotal Week for Markets: What to Expect From Fed Decision](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Pivotal Week for Markets: What to Expect From Fed Decision](https://img.theepochtimes.com/assets/uploads/2024/02/28/id5597174-Jerome-PowellKO-205x123.jpg.webp)](https://www.theepochtimes.com/us/pivotal-week-for-markets-what-to-expect-from-fed-decision-2-post-5725339)
+* [How Do I Vote by Mail and How Do I Track My Mail-In Ballot?](https://www.theepochtimes.com/us/how-do-i-vote-by-mail-and-how-do-i-track-my-mail-in-ballot-5725096)
+    
+    NEW By [Stacy Robinson](https://www.theepochtimes.com/author/stacy-robinson)
+    
+    [![How Do I Vote by Mail and How Do I Track My Mail-In Ballot?](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![How Do I Vote by Mail and How Do I Track My Mail-In Ballot?](https://img.theepochtimes.com/assets/uploads/2024/09/06/id5719613-texas-mail-in-ballot-2.jpg-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/how-do-i-vote-by-mail-and-how-do-i-track-my-mail-in-ballot-5725096)
+* [Czech Report Highlights CCP’s Covert Operations to Influence Academia and Politics](https://www.theepochtimes.com/china/czech-report-highlights-ccps-covert-operations-to-influence-academia-and-politics-5725203)
+    
+    NEW By [Dorothy Li](https://www.theepochtimes.com/author/dorothy-li)
+    
+    [![Czech Report Highlights CCP’s Covert Operations to Influence Academia and Politics](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Czech Report Highlights CCP’s Covert Operations to Influence Academia and Politics](https://img.theepochtimes.com/assets/uploads/2024/09/16/id5725219-GettyImages-938693414-205x123.jpg.webp)](https://www.theepochtimes.com/china/czech-report-highlights-ccps-covert-operations-to-influence-academia-and-politics-5725203)
+* [Post-Pandemic Cultural Shift Drives School Absentee Crisis](https://www.theepochtimes.com/article/post-pandemic-cultural-shift-drives-school-absentee-crisis-5723856)
+    
+    NEW By [Aaron Gifford](https://www.theepochtimes.com/author/aaron-gifford)
+    
+    [![Post-Pandemic Cultural Shift Drives School Absentee Crisis](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Post-Pandemic Cultural Shift Drives School Absentee Crisis](https://img.theepochtimes.com/assets/uploads/2024/09/16/id5725216-GettyImages-1237663149-205x123.jpg.webp)](https://www.theepochtimes.com/article/post-pandemic-cultural-shift-drives-school-absentee-crisis-5723856)
+* [Lawmaker Warns of Rising Trend of ‘Hostage Diplomacy’ After China Releases US Citizen](https://www.theepochtimes.com/china/lawmaker-warns-of-rising-trend-of-hostage-diplomacy-after-china-releases-us-citizen-5724948)
+    
+    NEW By [Frank Fang](https://www.theepochtimes.com/author/frank-fang), Epoch Times
+    
+    [![Lawmaker Warns of Rising Trend of ‘Hostage Diplomacy’ After China Releases US Citizen](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Lawmaker Warns of Rising Trend of ‘Hostage Diplomacy’ After China Releases US Citizen](https://img.theepochtimes.com/assets/uploads/2024/05/27/id5657820-10112023-DSC07220-McCaul-LSEdit.jpg-205x123.webp)](https://www.theepochtimes.com/china/lawmaker-warns-of-rising-trend-of-hostage-diplomacy-after-china-releases-us-citizen-5724948)
+* [Congress May Pass More Funding for Secret Service After Trump Assassination Attempt](https://www.theepochtimes.com/us/congress-may-pass-more-funding-for-secret-service-after-trump-assassination-attempt-5725174)
+    
+    NEW By [Arjun Singh](https://www.theepochtimes.com/author/arjun-singh)
+    
+    [![Congress May Pass More Funding for Secret Service After Trump Assassination Attempt](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Congress May Pass More Funding for Secret Service After Trump Assassination Attempt](https://img.theepochtimes.com/assets/uploads/2024/09/16/id5725268-GettyImages-1249593543-205x123.jpg.webp)](https://www.theepochtimes.com/us/congress-may-pass-more-funding-for-secret-service-after-trump-assassination-attempt-5725174)
+* [90 Percent of Registered Voters Believe America Is in a ‘Retirement Savings Crisis’: Survey](https://www.theepochtimes.com/business/90-percent-of-registered-voters-believe-america-is-in-a-retirement-savings-crisis-survey-5725159)
+    
+    NEW By [Mary Prenon](https://www.theepochtimes.com/author/mary-prenon)
+    
+    [![90 Percent of Registered Voters Believe America Is in a ‘Retirement Savings Crisis’: Survey](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![90 Percent of Registered Voters Believe America Is in a ‘Retirement Savings Crisis’: Survey](https://img.theepochtimes.com/assets/uploads/2024/06/10/id5665938-Pensionshutterstock_2381235951-205x123.jpeg.webp)](https://www.theepochtimes.com/business/90-percent-of-registered-voters-believe-america-is-in-a-retirement-savings-crisis-survey-5725159)
 * [Sean ‘Diddy’ Combs Arrested in New York](https://www.theepochtimes.com/us/sean-diddy-combs-arrested-in-new-york-5725489)
     
-    NEW By [Caden Pearson](https://www.theepochtimes.com/author/caden-pearson)
+    6hr By [Caden Pearson](https://www.theepochtimes.com/author/caden-pearson)
     
     [![Sean ‘Diddy’ Combs Arrested in New York](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Sean ‘Diddy’ Combs Arrested in New York](https://img.theepochtimes.com/assets/uploads/2024/05/17/id5652245-Sean-205x123.jpg.webp)](https://www.theepochtimes.com/us/sean-diddy-combs-arrested-in-new-york-5725489)
 * [Trump Recounts Assassination Attempt, Praises Secret Service in Interview](https://www.theepochtimes.com/us/trump-recounts-assassination-attempt-praises-secret-service-in-interview-5725394)
     
-    1hr By [Joseph Lord](https://www.theepochtimes.com/author/joseph-lord)
+    7hr By [Joseph Lord](https://www.theepochtimes.com/author/joseph-lord)
     
     [![Trump Recounts Assassination Attempt, Praises Secret Service in Interview](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Trump Recounts Assassination Attempt, Praises Secret Service in Interview](https://img.theepochtimes.com/assets/uploads/2024/09/14/id5724310-GettyImages-2171767229-Donald-Trump-OP-205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-recounts-assassination-attempt-praises-secret-service-in-interview-5725394)
-* [Top Election Officials Tell Congress Voter Roll Accuracy Is Improving but Other Issues Remain](https://www.theepochtimes.com/us/top-election-officials-tell-congress-voter-roll-accuracy-is-improving-but-other-issues-remain-5724319)
-    
-    2hr By [Steven Kovac](https://www.theepochtimes.com/author/steven-kovac)
-    
-    [![Top Election Officials Tell Congress Voter Roll Accuracy Is Improving but Other Issues Remain](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Top Election Officials Tell Congress Voter Roll Accuracy Is Improving but Other Issues Remain](https://img.theepochtimes.com/assets/uploads/2024/08/15/id5706018-08142024-DSC06904-US-Capitol-building-205x123.jpg.webp)](https://www.theepochtimes.com/us/top-election-officials-tell-congress-voter-roll-accuracy-is-improving-but-other-issues-remain-5724319)
-* [Day in Photos: A Brazilian Blaze, Trump Assassination Attempt, and European Floods](https://www.theepochtimes.com/article/day-in-photos-a-brazilian-blaze-trump-assassination-attempt-and-european-floods-5720993)
-    
-    4hr By [Epoch Times Staff](https://www.theepochtimes.com/author/epoch-times-staff)
-    
-    [![Day in Photos: A Brazilian Blaze, Trump Assassination Attempt, and European Floods](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Day in Photos: A Brazilian Blaze, Trump Assassination Attempt, and European Floods](https://img.theepochtimes.com/assets/uploads/2024/09/16/id5725176-GettyImages-2171670802-2-205x123.jpg.webp)](https://www.theepochtimes.com/article/day-in-photos-a-brazilian-blaze-trump-assassination-attempt-and-european-floods-5720993)
-* [2nd Apparent Assassination Attempt on Trump Provokes Calls for Tighter Security](https://www.theepochtimes.com/us/second-apparent-assassination-attempt-on-trump-provokes-calls-for-tighter-security-5725074)
-    
-    5hr By [Janice Hisle](https://www.theepochtimes.com/reporter/janice-hisle)
-    
-    [![2nd Apparent Assassination Attempt on Trump Provokes Calls for Tighter Security](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![2nd Apparent Assassination Attempt on Trump Provokes Calls for Tighter Security](https://img.theepochtimes.com/assets/uploads/2024/09/16/id5725087-GettyImages-2167846419-205x123.jpg.webp)](https://www.theepochtimes.com/us/second-apparent-assassination-attempt-on-trump-provokes-calls-for-tighter-security-5725074)
-* [Microplastics Found in Human Brain for the First Time](https://www.theepochtimes.com/health/microplastics-found-in-human-brain-for-the-first-time-5724970)
-    
-    5hr By [Cara Michelle Miller](https://www.theepochtimes.com/author/cara-michelle-miller)
-    
-    [![Microplastics Found in Human Brain for the First Time](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Microplastics Found in Human Brain for the First Time](https://img.theepochtimes.com/assets/uploads/2024/09/16/id5725271-shutterstock_2360520189_microplastic_clothes_clothing_plastic_microplastics-205x123.jpg.webp)](https://www.theepochtimes.com/health/microplastics-found-in-human-brain-for-the-first-time-5724970)
-* [2nd Trump Assassination Attempt Suspect Was Subject of 2019 FBI Tip: Special Agent](https://www.theepochtimes.com/us/2nd-trump-assassination-attempt-suspect-was-subject-of-2019-fbi-tip-special-agent-5725224)
-    
-    6hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
-    
-    [![2nd Trump Assassination Attempt Suspect Was Subject of 2019 FBI Tip: Special Agent](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![2nd Trump Assassination Attempt Suspect Was Subject of 2019 FBI Tip: Special Agent](https://img.theepochtimes.com/assets/uploads/2024/09/16/id5725088-spdpsaudapsuapdsusadpasudpsadu-205x123.jpg.webp)](https://www.theepochtimes.com/us/2nd-trump-assassination-attempt-suspect-was-subject-of-2019-fbi-tip-special-agent-5725224)
-* [Harris Meets With Teamsters Union, Seeking Endorsement](https://www.theepochtimes.com/us/harris-meets-with-teamsters-union-seeking-endorsement-5725092)
-    
-    6hr By [Jacob Burg](https://www.theepochtimes.com/author/jacob-burg)
-    
-    [![Harris Meets With Teamsters Union, Seeking Endorsement](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Harris Meets With Teamsters Union, Seeking Endorsement](https://img.theepochtimes.com/assets/uploads/2024/02/23/id5593521-GettyImages-1975627130-OP-205x123.jpg.webp)](https://www.theepochtimes.com/us/harris-meets-with-teamsters-union-seeking-endorsement-5725092)
-* [India’s Security Adviser, China’s Foreign Minister Agree to Redouble Disengagement Effort Along Disputed Border](https://www.theepochtimes.com/world/indias-security-adviser-chinas-foreign-minister-agree-to-redouble-disengagement-effort-along-disputed-border-5723769)
-    
-    6hr By [Venus Upadhayaya](https://www.theepochtimes.com/author/venus-upadhayaya), Epoch Times
-    
-    [![India’s Security Adviser, China’s Foreign Minister Agree to Redouble Disengagement Effort Along Disputed Border](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![India’s Security Adviser, China’s Foreign Minister Agree to Redouble Disengagement Effort Along Disputed Border](https://img.theepochtimes.com/assets/uploads/2024/03/14/id5607321-India-border-soldiers-OP-205x123.jpg.webp)](https://www.theepochtimes.com/world/indias-security-adviser-chinas-foreign-minister-agree-to-redouble-disengagement-effort-along-disputed-border-5723769)
-* [Court Seems Skeptical of TikTok’s Challenge to Forced Divestment Law](https://www.theepochtimes.com/us/court-seems-skeptical-of-tiktoks-challenge-to-forced-divestment-law-5724927)
-    
-    7hr By [Sam Dorman](https://www.theepochtimes.com/author/sam-dorman)
-    
-    [![Court Seems Skeptical of TikTok’s Challenge to Forced Divestment Law](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Court Seems Skeptical of TikTok’s Challenge to Forced Divestment Law](https://img.theepochtimes.com/assets/uploads/2024/04/27/id5638906-2024-04-26T203301Z_3_LYNXNPEK3P0QV_RTROPTP_3_KENYA-TIKTOK-205x123.jpg.webp)](https://www.theepochtimes.com/us/court-seems-skeptical-of-tiktoks-challenge-to-forced-divestment-law-5724927)
 
 [![The Epoch Times](https://www.theepochtimes.com/assets/themes/eet/images/logo_eet.svg)](https://www.theepochtimes.com/)
 
