@@ -2,14 +2,14 @@ Monday, September 16 2024
 
 Breaking News
 
+* [Police Release Bodycam Footage Of Arrest Of Alleged Would-Be Trump Assassin](https://www.conservativedailynews.com/2024/09/police-release-bodycam-footage-of-arrest-of-alleged-would-be-trump-assassin/)
+* [Strengthening Candidate Security With Campaign Funds Is A Common Sense Solution](https://www.conservativedailynews.com/2024/09/strengthening-candidate-security-with-campaign-funds-is-a-common-sense-solution/)
+* [Ukraine Distances Itself From Would-Be Trump Shooter Who Said He’d ‘Die’ For Kyiv](https://www.conservativedailynews.com/2024/09/ukraine-distances-itself-from-would-be-trump-shooter-who-said-hed-die-for-kyiv/)
+* [CNN’s Harry Enten Warns Harris Currently In Polling ‘Danger Zone’](https://www.conservativedailynews.com/2024/09/cnns-harry-enten-warns-harris-currently-in-polling-danger-zone/)
 * [MSNBC Anchor Says Trump Should Tone Down Rhetoric After Potential Second Assassination Attempt](https://www.conservativedailynews.com/2024/09/msnbc-anchor-says-trump-should-tone-down-rhetoric-after-potential-second-assassination-attempt/)
 * [Medal of Honor Monday: Navy Cmdr. Arthur M. Preston](https://www.conservativedailynews.com/2024/09/medal-of-honor-monday-navy-cmdr-arthur-m-preston/)
 * [President Joe Biden’s Schedule for Monday, September 16, 2024](https://www.conservativedailynews.com/2024/09/president-joe-bidens-schedule-for-monday-september-16-2024/)
 * [Trump’s Legal Battles Have Slowed To A Crawl As Election Becomes ‘Largest Jury Verdict In History’](https://www.conservativedailynews.com/2024/09/trumps-legal-battles-have-slowed-to-a-crawl-as-election-becomes-largest-jury-verdict-in-history/)
-* [Harris Doesn’t Want To Talk About EVs – It’s Easy To Understand Why](https://www.conservativedailynews.com/2024/09/harris-doesnt-want-to-talk-about-evs-its-easy-to-understand-why/)
-* [Companies Are Getting Back To Business And Backing Away From DEI](https://www.conservativedailynews.com/2024/09/companies-are-getting-back-to-business-and-backing-away-from-dei/)
-* [The Truth About Kamala Harris’s Gun Policy](https://www.conservativedailynews.com/2024/09/the-truth-about-kamala-harriss-gun-policy/)
-* [IBM Vice Chairman Says Consumers Are ‘Under Enormous Pressure,’ Warns Of Economic ‘Softness’](https://www.conservativedailynews.com/2024/09/ibm-vice-chairman-says-consumers-are-under-enormous-pressure-warns-of-economic-softness/)
 
 * [Sidebar](#)
 * [Random Article](https://www.conservativedailynews.com/privacy-policy/?random-post=1 "Random Article")
@@ -111,21 +111,57 @@ Your donations help us purchase content, pay for servers, and reduce advertising
 
 Created using the Donation Thermometer plugin https://wordpress.org/plugins/donation-thermometer/.47%
 
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/09/Bodycam-arrest-of-Ryan-Wesley-Routh-220x150.jpg)](https://www.conservativedailynews.com/2024/09/police-release-bodycam-footage-of-arrest-of-alleged-would-be-trump-assassin/)
+    
+    [Police Release Bodycam Footage Of Arrest Of Alleged Would-Be Trump Assassin](https://www.conservativedailynews.com/2024/09/police-release-bodycam-footage-of-arrest-of-alleged-would-be-trump-assassin/)
+    
+    September 16, 2024
+    
 * [![Bills unpaid past due broke](https://www.conservativedailynews.com/wp-content/uploads/2023/09/past-due-unpaid-bills-220x150.jpg)](https://www.conservativedailynews.com/2024/09/ibm-vice-chairman-says-consumers-are-under-enormous-pressure-warns-of-economic-softness/)
     
     [IBM Vice Chairman Says Consumers Are ‘Under Enormous Pressure,’ Warns Of Economic ‘Softness’](https://www.conservativedailynews.com/2024/09/ibm-vice-chairman-says-consumers-are-under-enormous-pressure-warns-of-economic-softness/)
     
     September 15, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/09/Second-Trump-assassination-attempt-220x150.jpg)](https://www.conservativedailynews.com/2024/09/secret-service-local-officials-speak-on-apparent-second-trump-assassination-attempt/)
-    
-    [Secret Service, Local Officials Speak On Apparent Second Trump Assassination Attempt](https://www.conservativedailynews.com/2024/09/secret-service-local-officials-speak-on-apparent-second-trump-assassination-attempt/)
-    
-    September 15, 2024
-    
 
 Recent Posts
 
+* [![Donald Trump assassination attempt](https://www.conservativedailynews.com/wp-content/uploads/2024/09/stg091624dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/09/the-target/)
+    
+    [The Target](https://www.conservativedailynews.com/2024/09/the-target/)
+    
+    September 16, 2024
+    
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/09/Bodycam-arrest-of-Ryan-Wesley-Routh-220x150.jpg)](https://www.conservativedailynews.com/2024/09/police-release-bodycam-footage-of-arrest-of-alleged-would-be-trump-assassin/)
+    
+    [Police Release Bodycam Footage Of Arrest Of Alleged Would-Be Trump Assassin](https://www.conservativedailynews.com/2024/09/police-release-bodycam-footage-of-arrest-of-alleged-would-be-trump-assassin/)
+    
+    September 16, 2024
+    
+* [![Donald Trump after assassination attempt](https://www.conservativedailynews.com/wp-content/uploads/2024/07/IMG_5218-220x150.jpeg)](https://www.conservativedailynews.com/2024/09/strengthening-candidate-security-with-campaign-funds-is-a-common-sense-solution/)
+    
+    [Strengthening Candidate Security With Campaign Funds Is A Common Sense Solution](https://www.conservativedailynews.com/2024/09/strengthening-candidate-security-with-campaign-funds-is-a-common-sense-solution/)
+    
+    September 16, 2024
+    
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2017/07/ukrainemap-600-x-300.jpg)](https://www.conservativedailynews.com/2024/09/ukraine-distances-itself-from-would-be-trump-shooter-who-said-hed-die-for-kyiv/)
+    
+    [Ukraine Distances Itself From Would-Be Trump Shooter Who Said He’d ‘Die’ For Kyiv](https://www.conservativedailynews.com/2024/09/ukraine-distances-itself-from-would-be-trump-shooter-who-said-hed-die-for-kyiv/)
+    
+    September 16, 2024
+    
+* [![Bidenomics](https://www.conservativedailynews.com/wp-content/uploads/2023/08/stg082123dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/09/missed-car-credit-card-payments-surge-as-biden-era-inflation-continues-to-decimate-american-bank-accounts/)
+    
+    [Missed Car, Credit Card Payments Surge As Biden-Era Inflation Continues To Decimate American Bank Accounts](https://www.conservativedailynews.com/2024/09/missed-car-credit-card-payments-surge-as-biden-era-inflation-continues-to-decimate-american-bank-accounts/)
+    
+    September 16, 2024
+    
+* [![Kamala Harris 2024 election Stuck](https://www.conservativedailynews.com/wp-content/uploads/2024/08/stg082124dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/09/cnns-harry-enten-warns-harris-currently-in-polling-danger-zone/)
+    
+    [CNN’s Harry Enten Warns Harris Currently In Polling ‘Danger Zone’](https://www.conservativedailynews.com/2024/09/cnns-harry-enten-warns-harris-currently-in-polling-danger-zone/)
+    
+    September 16, 2024
+    
 * [![](https://www.conservativedailynews.com/wp-content/uploads/2022/09/MSDNC-MSNBC-Media-Bias-220x150.png)](https://www.conservativedailynews.com/2024/09/msnbc-anchor-says-trump-should-tone-down-rhetoric-after-potential-second-assassination-attempt/)
     
     [MSNBC Anchor Says Trump Should Tone Down Rhetoric After Potential Second Assassination Attempt](https://www.conservativedailynews.com/2024/09/msnbc-anchor-says-trump-should-tone-down-rhetoric-after-potential-second-assassination-attempt/)
@@ -138,55 +174,19 @@ Recent Posts
     
     September 16, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/09/471219-N-D0439-039M-220x150.jpg)](https://www.conservativedailynews.com/2024/09/medal-of-honor-monday-navy-cmdr-arthur-m-preston/)
-    
-    [Medal of Honor Monday: Navy Cmdr. Arthur M. Preston](https://www.conservativedailynews.com/2024/09/medal-of-honor-monday-navy-cmdr-arthur-m-preston/)
-    
-    September 16, 2024
-    
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2022/03/JOe-Biden-speech-14-220x150.png)](https://www.conservativedailynews.com/2024/09/president-joe-bidens-schedule-for-monday-september-16-2024/)
-    
-    [President Joe Biden’s Schedule for Monday, September 16, 2024](https://www.conservativedailynews.com/2024/09/president-joe-bidens-schedule-for-monday-september-16-2024/)
-    
-    September 16, 2024
-    
-* [![Joe Biden economy inflation](https://www.conservativedailynews.com/wp-content/uploads/2022/11/gv112722dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/09/groceries-got-you-groaning-heres-how-to-save-without-starving/)
-    
-    [Groceries Got You Groaning? Here’s How to Save Without Starving](https://www.conservativedailynews.com/2024/09/groceries-got-you-groaning-heres-how-to-save-without-starving/)
-    
-    September 16, 2024
-    
-* [![Kamala Harris Karl Marx Marxism Communism economic policy](https://www.conservativedailynews.com/wp-content/uploads/2024/08/gv082124dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/09/one-of-kamala-harris-tax-proposals-could-be-an-economic-doomsday-device-experts-say/)
-    
-    [One Of Kamala Harris’ Tax Proposals Could Be ‘An Economic Doomsday Device,’ Experts Say](https://www.conservativedailynews.com/2024/09/one-of-kamala-harris-tax-proposals-could-be-an-economic-doomsday-device-experts-say/)
-    
-    September 15, 2024
-    
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2019/10/Lady-Justice-Peaking.jpg)](https://www.conservativedailynews.com/2024/09/trumps-legal-battles-have-slowed-to-a-crawl-as-election-becomes-largest-jury-verdict-in-history/)
-    
-    [Trump’s Legal Battles Have Slowed To A Crawl As Election Becomes ‘Largest Jury Verdict In History’](https://www.conservativedailynews.com/2024/09/trumps-legal-battles-have-slowed-to-a-crawl-as-election-becomes-largest-jury-verdict-in-history/)
-    
-    September 15, 2024
-    
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2023/08/gv081723dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/09/harris-doesnt-want-to-talk-about-evs-its-easy-to-understand-why/)
-    
-    [Harris Doesn’t Want To Talk About EVs – It’s Easy To Understand Why](https://www.conservativedailynews.com/2024/09/harris-doesnt-want-to-talk-about-evs-its-easy-to-understand-why/)
-    
-    September 15, 2024
-    
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
 
+* [Best Pistol for Concealed Carry](https://www.thegunpage.com/best-pistol-for-concealed-carry/10610605)
+* [POTD: IPSC Rifle World Shoot 2024 – Johan Hansen](https://www.thegunpage.com/potd-ipsc-rifle-world-shoot-2024-johan-hansen/10610606)
+* [The Rimfire Report: Did the U.S. Military Sleep on the American-180?](https://www.thegunpage.com/the-rimfire-report-did-the-u-s-military-sleep-on-the-american-180/10610607)
+* [Kamala’s Fast Flip-Flops On Guns](https://www.thegunpage.com/kamalas-fast-flip-flops-on-guns/10610600)
+* [Latest would-be presidential assassin violated multiple gun-control laws](https://www.thegunpage.com/latest-would-be-presidential-assassin-violated-multiple-gun-control-laws/10610598)
+* [The Nickel-and-Diming of Gun Owners in California](https://www.thegunpage.com/the-nickel-and-diming-of-gun-owners-in-california/10610595)
+* [Ruger Celebrates Its 75th Anniversary With Commemorative 10/22s](https://www.thegunpage.com/ruger-celebrates-its-75th-anniversary-with-commemorative-10-22s/10610602)
+* [Galco Triton 3.0 IWB Holster Available For Sig Sauer P365](https://www.thegunpage.com/galco-triton-3-0-iwb-holster-available-for-sig-sauer-p365/10610597)
 * [New Jersey Cop Accidentally Shoots Himself During Training](https://www.thegunpage.com/new-jersey-cop-accidentally-shoots-himself-during-training/10610593)
 * [Geissele Announces 12.5” and 13.9” Super Duty Variants](https://www.thegunpage.com/geissele-announces-12-5-and-13-9-super-duty-variants/10610589)
-* [Bill of Rights To Grant Unrestricted Firearm Freedom Proposed in Alberta](https://www.thegunpage.com/bill-of-rights-to-grant-unrestricted-firearm-freedom-proposed-in-alberta/10610584)
-* [TFB Weekly Web Deals 106: Deals for September 16th, 2024](https://www.thegunpage.com/tfb-weekly-web-deals-106-deals-for-september-16th-2024/10610590)
-* [Ignorance With A Platform: Reading This Op-Ed Will Make You Dumber](https://www.thegunpage.com/ignorance-with-a-platform-reading-this-op-ed-will-make-you-dumber/10610581)
-* [All About The Inaugural Simulator Matches At 2024 CMP National Air Gun Events](https://www.thegunpage.com/all-about-the-inaugural-simulator-matches-at-2024-cmp-national-air-gun-events/10610591)
-* [Springfield Armory Donates SA-16A2 Rifles To Hillsdale College For Modern American Riflery Class](https://www.thegunpage.com/springfield-armory-donates-sa-16a2-rifles-to-hillsdale-college-for-modern-american-riflery-class/10610592)
-* [Review: Mecanik MO3 Red-Dot Optic](https://www.thegunpage.com/review-mecanik-mo3-red-dot-optic/10610588)
-* [Blue State Hunters Slam Environmental Initiative To Curtail ‘Trophy Hunting’](https://www.thegunpage.com/blue-state-hunters-slam-environmental-initiative-to-curtail-trophy-hunting/10610578)
-* [The Truth About Kamala Harris’s Gun Policy](https://www.thegunpage.com/the-truth-about-kamala-harriss-gun-policy/10610579)
 
 [![ Conservative Political Blogs](https://blog.feedspot.com/wp-content/uploads/2016/12/conservative_political_216px.png?x58297)](https://blog.feedspot.com/conservative_political_blogs/ "Conservative Political Blogs")
 
@@ -228,6 +228,8 @@ Contact Us
 
 Recent Comments
 
+* charles wilkins on [Tip of the Iceberg](https://www.conservativedailynews.com/2024/09/tip-of-the-iceberg/#comment-782148)
+* Missy B on [MSNBC Anchor Says Trump Should Tone Down Rhetoric After Potential Second Assassination Attempt](https://www.conservativedailynews.com/2024/09/msnbc-anchor-says-trump-should-tone-down-rhetoric-after-potential-second-assassination-attempt/#comment-782143)
 * charles wilkins on [Definition of Insanity](https://www.conservativedailynews.com/2024/09/definition-of-insanity/#comment-782133)
 * charles wilkins on [Harris Asked How She Will Make Life Affordable, Immediately Pivots To Word Salad About Middle Class Upbringing, Lawns](https://www.conservativedailynews.com/2024/09/harris-asked-how-she-will-make-life-affordable-immediately-pivots-to-word-salad-about-middle-class-upbringing-lawns/#comment-782116)
 * charles wilkins on [Victor Davis Hanson Suggests Harris Seeking Second Debate Signals She’s Shaken By ‘Internal Polls’](https://www.conservativedailynews.com/2024/09/victor-davis-hanson-suggests-harris-seeking-second-debate-signals-shes-shaken-by-internal-polls/#comment-782115)
@@ -235,8 +237,6 @@ Recent Comments
 * Nathan Z. Solomon on [Trump Should Propose a 15% Single Tax Rate for All](https://www.conservativedailynews.com/2024/09/trump-should-propose-a-15-single-tax-rate-for-all/#comment-782014)
 * Sara on [Kamala Harris Will Shut Down X If Elected](https://www.conservativedailynews.com/2024/09/kamala-harris-will-shut-down-x-if-elected/#comment-782013)
 * Michael Busler on [Trump Should Propose a 15% Single Tax Rate for All](https://www.conservativedailynews.com/2024/09/trump-should-propose-a-15-single-tax-rate-for-all/#comment-782007)
-* kaycee on [What Do Nancy Pelosi And The Vatican Have In Common?](https://www.conservativedailynews.com/2024/09/what-do-nancy-pelosi-and-the-vatican-have-in-common/#comment-782003)
-* KayCee on [What Do Nancy Pelosi And The Vatican Have In Common?](https://www.conservativedailynews.com/2024/09/what-do-nancy-pelosi-and-the-vatican-have-in-common/#comment-782002)
 
 [Close](#)
 
