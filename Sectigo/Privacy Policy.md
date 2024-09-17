@@ -70,6 +70,7 @@ Other Products
 * [Website Backup & Recovery](https://www.sectigo.com/ssl-certificates-tls/code-guard-website-backup)
 * [HackerGuardian PCI Scanning](https://www.sectigo.com/ssl-certificates-tls/pci-scanning)
 * [eIDAS Solutions](https://www.sectigo.com/eidas-products)
+* eIDAS pour les plateformes publiques
 
 Sectigo Certificate Manager (SCM) Pro
 
@@ -142,11 +143,11 @@ Resource Library
 
 [Root Causes Podcast Series](https://www.sectigo.com/root-causes-podcast)
 
+* [Root Causes 420: New Side Channel Attack Against YubiKeys](https://www.sectigo.com/resource-library/root-causes-420-new-side-channel-attack-against-yubikeys)
 * [Root Causes 419 - What Happens to Vendors Who Don't Support ACME When 90-day Certificates Come?](https://www.sectigo.com/resource-library/root-causes-419-what-happens-to-vendors-who-dont-support-acme-when-90-day-certificates-come)
 * [Root Causes 418: Moving from Cryptographic Homogeneity to Cryptographic Heterogeneity](https://www.sectigo.com/resource-library/root-causes-418-moving-from-cryptographic-homogeneity-to-cryptographic-heterogeneity)
 * [Root Causes 417: Introducing pkimetal, the PKI Meta-linter](https://www.sectigo.com/resource-library/root-causes-417-introducing-pkimetal-the-pki-meta-linter)
 * [Root Causes 416: SSL Subscriber Uses a Restraining Order to Prevent Revocation](https://www.sectigo.com/resource-library/root-causes-416-ssl-subscriber-uses-a-restraining-order-to-prevent-revocation)
-* [Root Causes 415: What Can I Do with These New FIPS PQC Standards?](https://www.sectigo.com/resource-library/root-causes-415-what-can-i-do-with-these-new-fips-pqc-standards)
 
 The total economic impact™ of Sectigo Certificate Manager
 
@@ -186,6 +187,7 @@ Login
     * [Website Backup & Recovery](https://www.sectigo.com/ssl-certificates-tls/code-guard-website-backup)
     * [HackerGuardian PCI Scanning](https://www.sectigo.com/ssl-certificates-tls/pci-scanning)
     * [eIDAS Solutions](https://www.sectigo.com/eidas-products)
+    * eIDAS pour les plateformes publiques
     
 * Enterprise
     
@@ -235,11 +237,11 @@ Login
     * [Upcoming Webinars](https://www.sectigo.com/resource-library/webinars)
     * [Webinar: How mature is your Certificate Lifecycle Management?](https://www.sectigo.com/resource-library/clm-maturity-how-mature-is-your-certificate-management-webinar)
     * [Root Causes Podcast Series](https://www.sectigo.com/root-causes-podcast)
+    * [Root Causes 420: New Side Channel Attack Against YubiKeys](https://www.sectigo.com/resource-library/root-causes-420-new-side-channel-attack-against-yubikeys)
     * [Root Causes 419 - What Happens to Vendors Who Don't Support ACME When 90-day Certificates Come?](https://www.sectigo.com/resource-library/root-causes-419-what-happens-to-vendors-who-dont-support-acme-when-90-day-certificates-come)
     * [Root Causes 418: Moving from Cryptographic Homogeneity to Cryptographic Heterogeneity](https://www.sectigo.com/resource-library/root-causes-418-moving-from-cryptographic-homogeneity-to-cryptographic-heterogeneity)
     * [Root Causes 417: Introducing pkimetal, the PKI Meta-linter](https://www.sectigo.com/resource-library/root-causes-417-introducing-pkimetal-the-pki-meta-linter)
     * [Root Causes 416: SSL Subscriber Uses a Restraining Order to Prevent Revocation](https://www.sectigo.com/resource-library/root-causes-416-ssl-subscriber-uses-a-restraining-order-to-prevent-revocation)
-    * [Root Causes 415: What Can I Do with These New FIPS PQC Standards?](https://www.sectigo.com/resource-library/root-causes-415-what-can-i-do-with-these-new-fips-pqc-standards)
     
 
 *  #}
