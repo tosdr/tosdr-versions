@@ -273,17 +273,17 @@ This field is for validation purposes and should be left unchanged.
 
 #### Frequently Asked Questions
 
-[![Alternative ovarian cancer treatments](https://www.pintas.com/wp-content/uploads/2020/04/johnson-and-johnson-talcum-powder-lawsuit-lawyer-alternative-ovarian-cancer-treatments.jpg "Alternative Ovarian Cancer Treatments")](https://www.pintas.com/johnson-and-johnson-talcum-powder-lawsuit-lawyer/alternative-ovarian-cancer-treatments/ "Alternative Ovarian Cancer Treatments")
+[![Serious head injuries from falls at assisted living facilities](https://www.pintas.com/wp-content/uploads/2021/03/elderly-lady-sitting-on-floor-after-a-fall-300x200.jpg "Serious Head Injuries From Falls at Assisted Living Facilities")](https://www.pintas.com/faq/can-falls-at-assisted-livings-lead-to-serious-head-injuries/ "Serious Head Injuries From Falls at Assisted Living Facilities")
 
-[#### Alternative Ovarian Cancer Treatments](https://www.pintas.com/johnson-and-johnson-talcum-powder-lawsuit-lawyer/alternative-ovarian-cancer-treatments/)
+[#### Serious Head Injuries From Falls at Assisted Living Facilities](https://www.pintas.com/faq/can-falls-at-assisted-livings-lead-to-serious-head-injuries/)
 
-[![What is advanced mesothelioma?](https://www.pintas.com/wp-content/uploads/2020/10/lung-cancer-mesothelioma-lawyer-what-is-advanced-mesothelioma-scaled.jpg "What Is Advanced Mesothelioma?")](https://www.pintas.com/practice-areas/lung-cancer/mesothelioma/what-is-advanced-mesothelioma "What Is Advanced Mesothelioma?")
+[![How do you file a lawsuit against a nursing home for abuse or neglect?](https://www.pintas.com/wp-content/uploads/2020/09/faqs-how-do-you-file-a-lawsuit-against-a-nursing-home-for-abuse-or-neglect.jpg "How Do You File a Lawsuit Against a Nursing Home For Abuse Or Neglect?")](https://www.pintas.com/faq/how-do-you-file-a-lawsuit-against-a-nursing-home-for-abuse-or-neglect/ "How Do You File a Lawsuit Against a Nursing Home For Abuse Or Neglect?")
 
-[#### What Is Advanced Mesothelioma?](https://www.pintas.com/practice-areas/lung-cancer/mesothelioma/what-is-advanced-mesothelioma)
+[#### How Do You File a Lawsuit Against a Nursing Home For Abuse Or Neglect?](https://www.pintas.com/faq/how-do-you-file-a-lawsuit-against-a-nursing-home-for-abuse-or-neglect/)
 
-[![Have mormon church officials sexually abused children?](https://www.pintas.com/wp-content/uploads/2023/04/general-mormom-3-300x225.jpg "Have Mormon Church Officials Sexually Abused Children?")](https://www.pintas.com/lawsuit/mormon-church-sex-abuse/has-the-mormon-church-sexually-abused-children/ "Have Mormon Church Officials Sexually Abused Children?")
+[![Is there a recall on johnson & johnson baby products?](https://www.pintas.com/wp-content/uploads/2020/07/talcum-powder-is-there-a-recall-on-johnson-johnson-baby-products.jpg "Is There a Recall on Johnson & Johnson Baby Products?")](https://www.pintas.com/lawsuit/johnson-and-johnson-talcum-powder/are-johnson-and-johnson-baby-products-recalled "Is There a Recall on Johnson & Johnson Baby Products?")
 
-[#### Have Mormon Church Officials Sexually Abused Children?](https://www.pintas.com/lawsuit/mormon-church-sex-abuse/has-the-mormon-church-sexually-abused-children/)
+[#### Is There a Recall on Johnson & Johnson Baby Products?](https://www.pintas.com/lawsuit/johnson-and-johnson-talcum-powder/are-johnson-and-johnson-baby-products-recalled)
 
 ### Injured?  
 Tell Us What Happened.
