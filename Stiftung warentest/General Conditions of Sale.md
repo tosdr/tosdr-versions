@@ -597,12 +597,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Ärger mit der Post­bank: Geld verschwunden, mieser Service – wie Post­bank-Kunden sich wehren können](https://www.test.de/Postbank-IT-Probleme-Kundenbeschwerden-6043637-0/ "Ärger mit der Postbank - Geld verschwunden, mieser Service – wie Postbank-Kunden sich wehren können")
-* [Geld­anlage mit Fonds und ETF: Kurs­raketen? Uninteres­sant!](https://www.test.de/Geldanlage-mit-Fonds-und-ETF-Kursraketen-Uninteressant-6120154-0/ "Geldanlage mit Fonds und ETF - Kursraketen? Uninteressant!")
-* [Tracking in Google Chrome: Über­wachung im Namen der Privatsphäre](https://www.test.de/Tracking-in-Google-Chrome-Ueberwachung-im-Namen-der-Privatsphaere-6049018-0/ "Tracking in Google Chrome - Überwachung im Namen der Privatsphäre")
-* [Strom­mess­geräte im Test: Diese Geräte entlarven Strom­fresser](https://www.test.de/Strommessgeraete-im-Test-1781202-0/ "Strommessgeräte im Test - Diese Geräte entlarven Stromfresser")
-* [L&G Gerd Kommer Multifactor Equity ETF: Breite Streuung und etwas Weihrauch](https://www.test.de/LG-Gerd-Kommer-Multifactor-Equity-ETF-Breite-Streuung-und-etwas-Weihrauch-6029520-0/ "L&G Gerd Kommer Multifactor Equity ETF - Breite Streuung und etwas Weihrauch")
-* [Resilienz in Krisen­zeiten: Wie Sie lernen, gelassen zu bleiben](https://www.test.de/Resilienz-in-Krisenzeiten-Wie-Sie-lernen-gelassen-zu-bleiben-5936282-0/ "Resilienz in Krisenzeiten - Wie Sie lernen, gelassen zu bleiben")
+* [Geld­anlage mit ETF: Viel zu wissen hilft nicht unbe­dingt viel](https://www.test.de/Geldanlage-mit-ETF-Viel-zu-wissen-hilft-nicht-unbedingt-viel-6083347-0/ "Geldanlage mit ETF - Viel zu wissen hilft nicht unbedingt viel")
+* [Kreuz­linienlaser im Test: Moderne Alternative zur Wasser­waage](https://www.test.de/Kreuzlinienlaser-im-Test-Moderne-Alternative-zur-Wasserwaage-5936879-0/ "Kreuzlinienlaser im Test - Moderne Alternative zur Wasserwaage")
+* [Green-Vest: TV-Beitrag mit Finanz­minister gefälscht](https://www.test.de/Green-Vest-TV-Beitrag-mit-Finanzminister-gefaelscht-6119456-0/ "Green-Vest - TV-Beitrag mit Finanzminister gefälscht")
+* [Steiner+Company: Neue Führung, alte Probleme](https://www.test.de/SteinerCompany-Neue-Fuehrung-alte-Probleme-5926551-0/ "Steiner+Company - Neue Führung, alte Probleme")
+* [Bitcoin Apex: Bericht über Peter Maffay gefälscht](https://www.test.de/Bitcoin-Apex-Bericht-ueber-Peter-Maffay-gefaelscht-6111514-0/ "Bitcoin Apex - Bericht über Peter Maffay gefälscht")
+* [Kranken­versicherung für Studierende: Zum Uni-Start richtig kranken­versichert](https://www.test.de/Krankenversicherung-fuer-Studierende-6057464-0/ "Krankenversicherung für Studierende - Zum Uni-Start richtig krankenversichert")
 
 Fußbereich
 
@@ -2737,12 +2737,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Ärger mit der Post­bank: Geld verschwunden, mieser Service – wie Post­bank-Kunden sich wehren können](https://www.test.de/Postbank-IT-Probleme-Kundenbeschwerden-6043637-0/ "Ärger mit der Postbank - Geld verschwunden, mieser Service – wie Postbank-Kunden sich wehren können")
-* [Geld­anlage mit Fonds und ETF: Kurs­raketen? Uninteres­sant!](https://www.test.de/Geldanlage-mit-Fonds-und-ETF-Kursraketen-Uninteressant-6120154-0/ "Geldanlage mit Fonds und ETF - Kursraketen? Uninteressant!")
-* [Tracking in Google Chrome: Über­wachung im Namen der Privatsphäre](https://www.test.de/Tracking-in-Google-Chrome-Ueberwachung-im-Namen-der-Privatsphaere-6049018-0/ "Tracking in Google Chrome - Überwachung im Namen der Privatsphäre")
-* [Strom­mess­geräte im Test: Diese Geräte entlarven Strom­fresser](https://www.test.de/Strommessgeraete-im-Test-1781202-0/ "Strommessgeräte im Test - Diese Geräte entlarven Stromfresser")
-* [L&G Gerd Kommer Multifactor Equity ETF: Breite Streuung und etwas Weihrauch](https://www.test.de/LG-Gerd-Kommer-Multifactor-Equity-ETF-Breite-Streuung-und-etwas-Weihrauch-6029520-0/ "L&G Gerd Kommer Multifactor Equity ETF - Breite Streuung und etwas Weihrauch")
-* [Resilienz in Krisen­zeiten: Wie Sie lernen, gelassen zu bleiben](https://www.test.de/Resilienz-in-Krisenzeiten-Wie-Sie-lernen-gelassen-zu-bleiben-5936282-0/ "Resilienz in Krisenzeiten - Wie Sie lernen, gelassen zu bleiben")
+* [Geld­anlage mit ETF: Viel zu wissen hilft nicht unbe­dingt viel](https://www.test.de/Geldanlage-mit-ETF-Viel-zu-wissen-hilft-nicht-unbedingt-viel-6083347-0/ "Geldanlage mit ETF - Viel zu wissen hilft nicht unbedingt viel")
+* [Kreuz­linienlaser im Test: Moderne Alternative zur Wasser­waage](https://www.test.de/Kreuzlinienlaser-im-Test-Moderne-Alternative-zur-Wasserwaage-5936879-0/ "Kreuzlinienlaser im Test - Moderne Alternative zur Wasserwaage")
+* [Green-Vest: TV-Beitrag mit Finanz­minister gefälscht](https://www.test.de/Green-Vest-TV-Beitrag-mit-Finanzminister-gefaelscht-6119456-0/ "Green-Vest - TV-Beitrag mit Finanzminister gefälscht")
+* [Steiner+Company: Neue Führung, alte Probleme](https://www.test.de/SteinerCompany-Neue-Fuehrung-alte-Probleme-5926551-0/ "Steiner+Company - Neue Führung, alte Probleme")
+* [Bitcoin Apex: Bericht über Peter Maffay gefälscht](https://www.test.de/Bitcoin-Apex-Bericht-ueber-Peter-Maffay-gefaelscht-6111514-0/ "Bitcoin Apex - Bericht über Peter Maffay gefälscht")
+* [Kranken­versicherung für Studierende: Zum Uni-Start richtig kranken­versichert](https://www.test.de/Krankenversicherung-fuer-Studierende-6057464-0/ "Krankenversicherung für Studierende - Zum Uni-Start richtig krankenversichert")
 
 Jetzt anmelden und 10% Rabatt auf die test.de-Flatrate im ersten Jahr erhalten!
 
@@ -2795,12 +2795,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Ärger mit der Post­bank: Geld verschwunden, mieser Service – wie Post­bank-Kunden sich wehren können](https://www.test.de/Postbank-IT-Probleme-Kundenbeschwerden-6043637-0/ "Ärger mit der Postbank - Geld verschwunden, mieser Service – wie Postbank-Kunden sich wehren können")
-* [Geld­anlage mit Fonds und ETF: Kurs­raketen? Uninteres­sant!](https://www.test.de/Geldanlage-mit-Fonds-und-ETF-Kursraketen-Uninteressant-6120154-0/ "Geldanlage mit Fonds und ETF - Kursraketen? Uninteressant!")
-* [Tracking in Google Chrome: Über­wachung im Namen der Privatsphäre](https://www.test.de/Tracking-in-Google-Chrome-Ueberwachung-im-Namen-der-Privatsphaere-6049018-0/ "Tracking in Google Chrome - Überwachung im Namen der Privatsphäre")
-* [Strom­mess­geräte im Test: Diese Geräte entlarven Strom­fresser](https://www.test.de/Strommessgeraete-im-Test-1781202-0/ "Strommessgeräte im Test - Diese Geräte entlarven Stromfresser")
-* [L&G Gerd Kommer Multifactor Equity ETF: Breite Streuung und etwas Weihrauch](https://www.test.de/LG-Gerd-Kommer-Multifactor-Equity-ETF-Breite-Streuung-und-etwas-Weihrauch-6029520-0/ "L&G Gerd Kommer Multifactor Equity ETF - Breite Streuung und etwas Weihrauch")
-* [Resilienz in Krisen­zeiten: Wie Sie lernen, gelassen zu bleiben](https://www.test.de/Resilienz-in-Krisenzeiten-Wie-Sie-lernen-gelassen-zu-bleiben-5936282-0/ "Resilienz in Krisenzeiten - Wie Sie lernen, gelassen zu bleiben")
+* [Geld­anlage mit ETF: Viel zu wissen hilft nicht unbe­dingt viel](https://www.test.de/Geldanlage-mit-ETF-Viel-zu-wissen-hilft-nicht-unbedingt-viel-6083347-0/ "Geldanlage mit ETF - Viel zu wissen hilft nicht unbedingt viel")
+* [Kreuz­linienlaser im Test: Moderne Alternative zur Wasser­waage](https://www.test.de/Kreuzlinienlaser-im-Test-Moderne-Alternative-zur-Wasserwaage-5936879-0/ "Kreuzlinienlaser im Test - Moderne Alternative zur Wasserwaage")
+* [Green-Vest: TV-Beitrag mit Finanz­minister gefälscht](https://www.test.de/Green-Vest-TV-Beitrag-mit-Finanzminister-gefaelscht-6119456-0/ "Green-Vest - TV-Beitrag mit Finanzminister gefälscht")
+* [Steiner+Company: Neue Führung, alte Probleme](https://www.test.de/SteinerCompany-Neue-Fuehrung-alte-Probleme-5926551-0/ "Steiner+Company - Neue Führung, alte Probleme")
+* [Bitcoin Apex: Bericht über Peter Maffay gefälscht](https://www.test.de/Bitcoin-Apex-Bericht-ueber-Peter-Maffay-gefaelscht-6111514-0/ "Bitcoin Apex - Bericht über Peter Maffay gefälscht")
+* [Kranken­versicherung für Studierende: Zum Uni-Start richtig kranken­versichert](https://www.test.de/Krankenversicherung-fuer-Studierende-6057464-0/ "Krankenversicherung für Studierende - Zum Uni-Start richtig krankenversichert")
 
 Neueste Tests
 
@@ -2813,12 +2813,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Ärger mit der Post­bank: Geld verschwunden, mieser Service – wie Post­bank-Kunden sich wehren können](https://www.test.de/Postbank-IT-Probleme-Kundenbeschwerden-6043637-0/ "Ärger mit der Postbank - Geld verschwunden, mieser Service – wie Postbank-Kunden sich wehren können")
-* [Geld­anlage mit Fonds und ETF: Kurs­raketen? Uninteres­sant!](https://www.test.de/Geldanlage-mit-Fonds-und-ETF-Kursraketen-Uninteressant-6120154-0/ "Geldanlage mit Fonds und ETF - Kursraketen? Uninteressant!")
-* [Tracking in Google Chrome: Über­wachung im Namen der Privatsphäre](https://www.test.de/Tracking-in-Google-Chrome-Ueberwachung-im-Namen-der-Privatsphaere-6049018-0/ "Tracking in Google Chrome - Überwachung im Namen der Privatsphäre")
-* [Strom­mess­geräte im Test: Diese Geräte entlarven Strom­fresser](https://www.test.de/Strommessgeraete-im-Test-1781202-0/ "Strommessgeräte im Test - Diese Geräte entlarven Stromfresser")
-* [L&G Gerd Kommer Multifactor Equity ETF: Breite Streuung und etwas Weihrauch](https://www.test.de/LG-Gerd-Kommer-Multifactor-Equity-ETF-Breite-Streuung-und-etwas-Weihrauch-6029520-0/ "L&G Gerd Kommer Multifactor Equity ETF - Breite Streuung und etwas Weihrauch")
-* [Resilienz in Krisen­zeiten: Wie Sie lernen, gelassen zu bleiben](https://www.test.de/Resilienz-in-Krisenzeiten-Wie-Sie-lernen-gelassen-zu-bleiben-5936282-0/ "Resilienz in Krisenzeiten - Wie Sie lernen, gelassen zu bleiben")
+* [Geld­anlage mit ETF: Viel zu wissen hilft nicht unbe­dingt viel](https://www.test.de/Geldanlage-mit-ETF-Viel-zu-wissen-hilft-nicht-unbedingt-viel-6083347-0/ "Geldanlage mit ETF - Viel zu wissen hilft nicht unbedingt viel")
+* [Kreuz­linienlaser im Test: Moderne Alternative zur Wasser­waage](https://www.test.de/Kreuzlinienlaser-im-Test-Moderne-Alternative-zur-Wasserwaage-5936879-0/ "Kreuzlinienlaser im Test - Moderne Alternative zur Wasserwaage")
+* [Green-Vest: TV-Beitrag mit Finanz­minister gefälscht](https://www.test.de/Green-Vest-TV-Beitrag-mit-Finanzminister-gefaelscht-6119456-0/ "Green-Vest - TV-Beitrag mit Finanzminister gefälscht")
+* [Steiner+Company: Neue Führung, alte Probleme](https://www.test.de/SteinerCompany-Neue-Fuehrung-alte-Probleme-5926551-0/ "Steiner+Company - Neue Führung, alte Probleme")
+* [Bitcoin Apex: Bericht über Peter Maffay gefälscht](https://www.test.de/Bitcoin-Apex-Bericht-ueber-Peter-Maffay-gefaelscht-6111514-0/ "Bitcoin Apex - Bericht über Peter Maffay gefälscht")
+* [Kranken­versicherung für Studierende: Zum Uni-Start richtig kranken­versichert](https://www.test.de/Krankenversicherung-fuer-Studierende-6057464-0/ "Krankenversicherung für Studierende - Zum Uni-Start richtig krankenversichert")
 
 Service Stiftung Warentest
 
