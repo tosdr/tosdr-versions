@@ -566,23 +566,17 @@ Latest News
 
 [Japan to conduct mock cyberattack tests on local governments](https://www.japantimes.co.jp/news/2024/09/17/japan/japan-mock-cyberattacks/ "Japan to conduct mock cyberattack tests on local governments")
 
-3 hours ago
+9 hours ago
 
 [7-Eleven parent's new security rating won't affect a buyout, minister says](https://www.japantimes.co.jp/business/2024/09/17/companies/seven-eleven-new-security-rating/ "7-Eleven parent's new security rating won't affect a buyout, minister says")
 
-3 hours ago
+9 hours ago
 
 [LDP presidential hopefuls lay out priorities for PM in online debate](https://www.japantimes.co.jp/news/2024/09/17/japan/politics/ldp-debate-about-priorities/ "LDP presidential hopefuls lay out priorities for PM in online debate")
 
-6 hours ago
-
 [Deaths among elderly people using electric wheelchairs on the rise](https://www.japantimes.co.jp/news/2024/09/17/japan/elderly-electric-wheelchairs/ "Deaths among elderly people using electric wheelchairs on the rise")
 
-6 hours ago
-
 [Japanese average land price rises for third consecutive year](https://www.japantimes.co.jp/business/2024/09/17/economy/japan-land-prices/ "Japanese average land price rises for third consecutive year")
-
-6 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
