@@ -1,16 +1,16 @@
-![Close](//pcdn-www.pcloud.com/Zqr/images/lazy-load.png)
+![Close](//pcdn-www.pcloud.com/ZYr/images/lazy-load.png)
 
-[pCloud Secure Cloud Storage](https://www.pcloud.com/) ![pCloud - Cloud Storage](https://pcdn-my.pcloud.com/Zqr/img/header/logo.png "pCloud - Cloud Storage")
+[pCloud Secure Cloud Storage](https://www.pcloud.com/) ![pCloud - Cloud Storage](https://pcdn-my.pcloud.com/ZYr/img/header/logo.png "pCloud - Cloud Storage")
 
-*  [![](//pcdn-www.pcloud.com/Zqr/images/left-micro/menu-download.svg) Download](https://www.pcloud.com/download-free-online-cloud-file-storage.html)
-*  [![](//pcdn-www.pcloud.com/Zqr/images/left-micro/menu-pricing.svg) Pricing ![DropDown](//pcdn-www.pcloud.com/Zqr/images/drop-down-icon.svg)](https://www.pcloud.com/cloud-storage-pricing-plans.html?period=lifetime) 
+*  [![](//pcdn-www.pcloud.com/ZYr/images/left-micro/menu-download.svg) Download](https://www.pcloud.com/download-free-online-cloud-file-storage.html)
+*  [![](//pcdn-www.pcloud.com/ZYr/images/left-micro/menu-pricing.svg) Pricing ![DropDown](//pcdn-www.pcloud.com/ZYr/images/drop-down-icon.svg)](https://www.pcloud.com/cloud-storage-pricing-plans.html?period=lifetime) 
     
     [Individual PlanPOPULAR](https://www.pcloud.com/cloud-storage-pricing-plans.html) [Family Plan(up to 5 users)](https://www.pcloud.com/family.html) [Business Plan(3+ users)](https://www.pcloud.com/business.html)
     
-*  [![](//pcdn-www.pcloud.com/Zqr/images/left-micro/menu-encryption.svg) Encryption](https://www.pcloud.com/encrypted-cloud-storage.html)
-*  [![](//pcdn-www.pcloud.com/Zqr/images/left-micro/menu-pass.svg) pCloud Pass](https://www.pcloud.com/pass.html)
-*  [![](//pcdn-www.pcloud.com/Zqr/images/left-micro/menu-faq.svg) f.a.q](https://www.pcloud.com/help.html)
-*  [![](//pcdn-www.pcloud.com/Zqr/images/left-micro/menu-contact.svg) Contact Us](https://www.pcloud.com/company/contactus.html)
+*  [![](//pcdn-www.pcloud.com/ZYr/images/left-micro/menu-encryption.svg) Encryption](https://www.pcloud.com/encrypted-cloud-storage.html)
+*  [![](//pcdn-www.pcloud.com/ZYr/images/left-micro/menu-pass.svg) pCloud Pass](https://www.pcloud.com/pass.html)
+*  [![](//pcdn-www.pcloud.com/ZYr/images/left-micro/menu-faq.svg) f.a.q](https://www.pcloud.com/help.html)
+*  [![](//pcdn-www.pcloud.com/ZYr/images/left-micro/menu-contact.svg) Contact Us](https://www.pcloud.com/company/contactus.html)
 
 * [Sign in](javascript:;)
 
@@ -27,12 +27,12 @@ Terms of Use
 
 Categories
 
-* Terms and Conditions ![Arrow](//pcdn-www.pcloud.com/Zqr/images/micro-mob-arrow.png)
-*   [![Inactive](//pcdn-www.pcloud.com/Zqr/images/left-micro/business-default.png) ![Active](//pcdn-www.pcloud.com/Zqr/images/left-micro/business-active.png) Terms and Conditions](https://www.pcloud.com/terms_and_conditions.html)
-*   [![Inactive](//pcdn-www.pcloud.com/Zqr/images/left-micro/business-default.png) ![Active](//pcdn-www.pcloud.com/Zqr/images/left-micro/business-active.png) Privacy Policy](https://www.pcloud.com/privacy_policy.html)
-*   [![Inactive](//pcdn-www.pcloud.com/Zqr/images/left-micro/business-default.png) ![Active](//pcdn-www.pcloud.com/Zqr/images/left-micro/business-active.png) Intellectual Property Policy](https://www.pcloud.com/int_pr_policy.html)
-*   [![Inactive](//pcdn-www.pcloud.com/Zqr/images/left-micro/business-default.png) ![Active](//pcdn-www.pcloud.com/Zqr/images/left-micro/business-active.png) Business Agreement](https://www.pcloud.com/business_agreement.html)
-*   [![Inactive](//pcdn-www.pcloud.com/Zqr/images/left-micro/business-default.png) ![Active](//pcdn-www.pcloud.com/Zqr/images/left-micro/business-active.png) Affiliate Program Terms and Conditions](https://www.pcloud.com/affiliate_terms.html)
+* Terms and Conditions ![Arrow](//pcdn-www.pcloud.com/ZYr/images/micro-mob-arrow.png)
+*   [![Inactive](//pcdn-www.pcloud.com/ZYr/images/left-micro/business-default.png) ![Active](//pcdn-www.pcloud.com/ZYr/images/left-micro/business-active.png) Terms and Conditions](https://www.pcloud.com/terms_and_conditions.html)
+*   [![Inactive](//pcdn-www.pcloud.com/ZYr/images/left-micro/business-default.png) ![Active](//pcdn-www.pcloud.com/ZYr/images/left-micro/business-active.png) Privacy Policy](https://www.pcloud.com/privacy_policy.html)
+*   [![Inactive](//pcdn-www.pcloud.com/ZYr/images/left-micro/business-default.png) ![Active](//pcdn-www.pcloud.com/ZYr/images/left-micro/business-active.png) Intellectual Property Policy](https://www.pcloud.com/int_pr_policy.html)
+*   [![Inactive](//pcdn-www.pcloud.com/ZYr/images/left-micro/business-default.png) ![Active](//pcdn-www.pcloud.com/ZYr/images/left-micro/business-active.png) Business Agreement](https://www.pcloud.com/business_agreement.html)
+*   [![Inactive](//pcdn-www.pcloud.com/ZYr/images/left-micro/business-default.png) ![Active](//pcdn-www.pcloud.com/ZYr/images/left-micro/business-active.png) Affiliate Program Terms and Conditions](https://www.pcloud.com/affiliate_terms.html)
 
 Terms and Conditions
 ====================
@@ -301,7 +301,7 @@ These Terms, together with the Privacy Policy and any Additional Terms, as they 
 
 _Revised: **4 April 2024**_
 
-### ![Pointer](//pcdn-www.pcloud.com/Zqr/images/newsletter-pointer.png)pCloud
+### ![Pointer](//pcdn-www.pcloud.com/ZYr/images/newsletter-pointer.png)pCloud
 
 * [Download](https://www.pcloud.com/download-free-online-cloud-file-storage.html)
 * [Pricing](https://www.pcloud.com/cloud-storage-pricing-plans.html?period=lifetime)
@@ -311,7 +311,7 @@ _Revised: **4 April 2024**_
 * [Family](https://www.pcloud.com/family.html)
 * [Transfer](https://transfer.pcloud.com/)
 
-### ![Pointer](//pcdn-www.pcloud.com/Zqr/images/newsletter-pointer.png)Features
+### ![Pointer](//pcdn-www.pcloud.com/ZYr/images/newsletter-pointer.png)Features
 
 * [File Management](https://www.pcloud.com/features/file-management.html)
 * [Sharing](https://www.pcloud.com/features/file-sharing.html)
@@ -320,7 +320,7 @@ _Revised: **4 April 2024**_
 * [Backup](https://www.pcloud.com/backup.html)
 * [Digital Asset Management](https://www.pcloud.com/digital-asset-management.html)
 
-### ![Pointer](//pcdn-www.pcloud.com/Zqr/images/newsletter-pointer.png)Company
+### ![Pointer](//pcdn-www.pcloud.com/ZYr/images/newsletter-pointer.png)Company
 
 * [About us](https://www.pcloud.com/company/about.html)
 * [Data Regions](https://www.pcloud.com/data-regions.html)
@@ -329,14 +329,14 @@ _Revised: **4 April 2024**_
 * [Testimonials](https://www.pcloud.com/testimonials.html)
 * [The pCloud Blog](https://blog.pcloud.com/)
 
-### ![Pointer](//pcdn-www.pcloud.com/Zqr/images/newsletter-pointer.png)Help Center
+### ![Pointer](//pcdn-www.pcloud.com/ZYr/images/newsletter-pointer.png)Help Center
 
 * [F.A.Q.](https://www.pcloud.com/help.html)
 * [Privacy Options](https://www.pcloud.com/help/privacy.html)
 * [Contact Us](https://www.pcloud.com/company/contactus.html)
 * [Release Notes](https://www.pcloud.com/release-notes/windows.html)
 
-### ![Pointer](//pcdn-www.pcloud.com/Zqr/images/newsletter-pointer.png)Community
+### ![Pointer](//pcdn-www.pcloud.com/ZYr/images/newsletter-pointer.png)Community
 
 * [Affiliate Program](https://www.pcloud.com/affiliate.html)
 * [pCloud Resellers](https://www.pcloud.com/reseller.html)
@@ -344,7 +344,7 @@ _Revised: **4 April 2024**_
 
 Follow Us
 
- [![facebook](//pcdn-www.pcloud.com/Zqr/images/lazy-load.png)](https://www.facebook.com/pCloudapp)[![instagram](//pcdn-www.pcloud.com/Zqr/images/lazy-load.png)](https://www.instagram.com/pcloud/)[![twitter](//pcdn-www.pcloud.com/Zqr/images/lazy-load.png)](https://twitter.com/pCloudapp)[![youtube](//pcdn-www.pcloud.com/Zqr/images/lazy-load.png)](https://www.youtube.com/channel/UCdiQK9arQfrgtxAclns9p2g)
+ [![facebook](//pcdn-www.pcloud.com/ZYr/images/lazy-load.png)](https://www.facebook.com/pCloudapp)[![instagram](//pcdn-www.pcloud.com/ZYr/images/lazy-load.png)](https://www.instagram.com/pcloud/)[![twitter](//pcdn-www.pcloud.com/ZYr/images/lazy-load.png)](https://twitter.com/pCloudapp)[![youtube](//pcdn-www.pcloud.com/ZYr/images/lazy-load.png)](https://www.youtube.com/channel/UCdiQK9arQfrgtxAclns9p2g)
 
 © 2024 pCloud International AG
 
