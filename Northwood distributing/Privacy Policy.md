@@ -104,7 +104,7 @@
 * [Botanicals](https://northwoodcandlesupply.com/collections/botanicals)
 * [All Collections](https://northwoodcandlesupply.com/collections)
 
-[Log in](https://northwoodcandlesupply.com/customer_identity/redirect?locale=en)
+[Log in](https://northwood-candle-supply.myshopify.com/customer_identity/redirect?locale=en)
 
 [Favourites (0)](https://northwoodcandlesupply.com/pages/wishlist " Favourites")
 
@@ -114,7 +114,7 @@
 * [TikTok](https://www.tiktok.com/@northwooddistributing)
 * [pinterest.com/northwoodcandle](https://www.pinterest.com/northwoodcandle/)
 
-[![NorthWood Distributing](//northwoodcandlesupply.com/cdn/shop/files/logo_for_site_header.png?v=1713628323&width=600)](https://northwoodcandlesupply.com/)
+[![NorthWood Distributing](//northwood-candle-supply.myshopify.com/cdn/shop/files/logo_for_site_header.png?v=1713628323&width=600)](https://northwoodcandlesupply.com/)
 
 * [Home](https://northwoodcandlesupply.com/)
 * Fragrance Oils
@@ -206,7 +206,7 @@
 
 Search
 
- Search [Log in](https://northwoodcandlesupply.com/customer_identity/redirect?locale=en) [Favourites 0](https://northwoodcandlesupply.com/pages/wishlist "Favourites") [Shopping bag](https://northwoodcandlesupply.com/cart)
+ Search [Log in](https://northwood-candle-supply.myshopify.com/customer_identity/redirect?locale=en) [Favourites 0](https://northwoodcandlesupply.com/pages/wishlist "Favourites") [Shopping bag](https://northwoodcandlesupply.com/cart)
 
 Item added to your cart
 -----------------------
