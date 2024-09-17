@@ -116,7 +116,7 @@ We will provide the information we have within 30 days of receiving your request
 [DOWNLOADS](https://www.identrust.com/support/downloads)
 --------------------------------------------------------
 
-[![BR Code Signing Seal by WebTrust](/sites/default/files/styles/accreditation_footer_slider_images/public/gallery/BRCodeSigning.png.webp?itok=F-XgfA6M)](https://www.cpacanada.ca/webtrustseal?sealid=11220)
+[![BR Code Signing Seal by WebTrust](/sites/default/files/styles/accreditation_footer_slider_images/public/gallery/Web%20Trust%20BR%20CodeSigning.png.webp?itok=-loA9BiH)](https://www.cpacanada.ca/webtrustseal?sealid=11484)
 
 [![BBB logo](/sites/default/files/styles/accreditation_footer_slider_images/public/gallery/accred_bus_7469%20Transparent-he75xl_0.png.webp?itok=FYd2stw0)](https://bit.ly/bbb-identrust)
 
@@ -130,11 +130,11 @@ We will provide the information we have within 30 days of receiving your request
 
 [![DirectTrust EHNAC Accredited](/sites/default/files/styles/accreditation_footer_slider_images/public/gallery/EHNAC%20Logo_A_DTAAP_CA%20Transparent-29b5rm_0.png.webp?itok=LZ759Z3m)](https://www.ehnac.org/)
 
-[![Authorities Web Trust General Logo](/sites/default/files/styles/accreditation_footer_slider_images/public/gallery/CertAuthWebTrust.png.webp?itok=5Ww4phbG)](https://www.cpacanada.ca/webtrustseal?sealid=11217)
+[![Authorities Web Trust General Logo](/sites/default/files/styles/accreditation_footer_slider_images/public/gallery/WebTrust_CertificationAuthorities.png.webp?itok=QpWQVI9r)](https://www.cpacanada.ca/webtrustseal?sealid=11481)
 
-[![Web Trust BR - SSL](/sites/default/files/styles/accreditation_footer_slider_images/public/gallery/BR-SSL.png.webp?itok=e5Y4A3SC)](https://www.cpacanada.ca/webtrustseal?sealid=11218)
+[![Web Trust BR - SSL](/sites/default/files/styles/accreditation_footer_slider_images/public/gallery/WebTrust_BR-SSL.png.webp?itok=dwijMr0J)](https://www.cpacanada.ca/webtrustseal?sealid=11482)
 
-[![WebTrust Extended Validation](/sites/default/files/styles/accreditation_footer_slider_images/public/gallery/WebTrustEV_0.png.webp?itok=d4lLXFXt)](https://www.cpacanada.ca/webtrustseal?sealid=11219)
+[![WebTrust Extended Validation Seal](/sites/default/files/styles/accreditation_footer_slider_images/public/gallery/WebTrust_ExtendedValidation.png.webp?itok=mqRZhBLW)](https://www.cpacanada.ca/webtrustseal?sealid=11483)
 
 * **[Industries & Communities](https://www.identrust.com/my-buying-community)**
 * [Banking & Finance](https://www.identrust.com/my-buying-community/banking-and-finance)
