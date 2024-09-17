@@ -297,6 +297,12 @@ Close Menu
         * [Outreach / Ambulatory](https://www.labcorp.com/organizations/hospitals/outreach)
         * [Federally Qualified Health Centers (FQHCs)](https://www.labcorp.com/organizations/hospitals/federally-qualified-health-centers)
         
+        [Lab Management & Partnerships](https://www.labcorp.com/lab-management-partnerships) Toggle Lab Management & Partnerships
+        
+        * [Lab Certifications & Accreditations](https://www.labcorp.com/providers/lab-certifications-accreditations)
+        * [Quality Story](https://www.labcorp.com/providers/provider-resources/LabQuality)
+        * [Lab Leader Resources](https://www.labcorp.com/lab-management-partnerships/laboratory-leader-resources)
+        
         [Managed Care Health Plans](https://www.labcorp.com/organizations/managed-care) Toggle Managed Care Health Plans
         
         * [Gaps in Care Management](https://www.labcorp.com/health-systems-organizations/managed-care/gaps-care)
@@ -306,7 +312,7 @@ Close Menu
         
         [Lab Data Integrations & Tools](https://www.labcorp.com/organizations/data) Toggle Lab Data Integrations & Tools
         
-        * [Technology & EMR/EHR Integrations](https://www.labcorp.com/organizations/data/diagnostic-assistant)
+        * [Technology EMR/EHR Integrations](https://www.labcorp.com/organizations/data/diagnostic-assistant)
         * [Data Insights & Analysis](https://www.labcorp.com/organizations/data/insights-analysis)
         
         [Employee Wellness & Testing](https://www.labcorp.com/health-systems-organizations/employers) Toggle Employee Wellness & Testing
@@ -322,11 +328,6 @@ Close Menu
         * [K-12 COVID-19](https://www.labcorp.com/coronavirus-disease-covid-19/organizations/return-school)
         * [Public Health Services](https://www.cddmedical.com/BusinessSectors/PublicHealth)
         * [Department of Defense](https://www.cddmedical.com/BusinessSectors/USDepartmentOfDefense)
-        
-        [Environmental Testing](https://www.labcorp.com/industries) Toggle Environmental Testing
-        
-        * [Crop Protection Products](https://www.labcorp.com/industries/crop-protection)
-        * [Chemical Products](https://www.labcorp.com/industries/chemical)
         
         Health Systems & Organizations
         
@@ -371,6 +372,11 @@ Close Menu
         
         * [Sponsored Testing](https://biopharma.labcorp.com/data-technology/sponsored-testing.html)
         * [Data & AI](https://biopharma.labcorp.com/services/data-technology.html)
+        
+        [Environmental Testing](https://www.labcorp.com/industries) Toggle Environmental Testing
+        
+        * [Crop Protection Products](https://www.labcorp.com/industries/crop-protection.html)
+        * [Chemical Products](https://www.labcorp.com/industries/chemical.html)
         
         [Product & Molecule Testing](https://biopharma.labcorp.com/industry-solutions/by-product.html) Toggle Product & Molecule Testing
         
