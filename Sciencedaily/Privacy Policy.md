@@ -208,16 +208,16 @@ this hour
 
 * * *
 
+* [Black Hole 'Starving' Host Galaxy to Death](https://www.sciencedaily.com/releases/2024/09/240916115510.htm)
+* [Clovis Great Lakes Campsite 13,000 Years Ago](https://www.sciencedaily.com/releases/2024/09/240911175944.htm)
+* [AI Models Scored Higher Than 3/4 of Real ...](https://www.sciencedaily.com/releases/2024/09/240916153435.htm)
+* [Genomics Reveals Sled Dogs' Siberian Lineage](https://www.sciencedaily.com/releases/2024/09/240916115530.htm)
 * [Seawater Into Fresh Water](https://www.sciencedaily.com/releases/2024/09/240911142056.htm)
 * [Securing Beer and Whiskey's Future](https://www.sciencedaily.com/releases/2024/09/240911112100.htm)
 * [Cosmology's Two Biggest Puzzles](https://www.sciencedaily.com/releases/2024/09/240913183504.htm)
 * [Huge Gamma-Ray Burst Collection](https://www.sciencedaily.com/releases/2024/09/240913003326.htm)
 * [Unprecedented Control of SIV Replication](https://www.sciencedaily.com/releases/2024/09/240912161720.htm)
 * [Carbon Sequestration in the Deep Ocean](https://www.sciencedaily.com/releases/2024/09/240912142350.htm)
-* [Plant-Plant Interactions](https://www.sciencedaily.com/releases/2024/09/240913105324.htm)
-* [Folded or Cut, This Li-S Battery Keeps Going](https://www.sciencedaily.com/releases/2024/09/240913105258.htm)
-* [Bacteria Work Together in Difficult Conditions](https://www.sciencedaily.com/releases/2024/09/240913105250.htm)
-* [Could Invisibility Cloaks Become a Reality?](https://www.sciencedaily.com/releases/2024/09/240912135948.htm)
 
 Trending Topics
 ---------------
@@ -248,7 +248,7 @@ this week
 
 [Developmental Biology](https://www.sciencedaily.com/news/plants_animals/developmental_biology/)
 
-[Genetics](https://www.sciencedaily.com/news/plants_animals/genetics/)
+[Landslides](https://www.sciencedaily.com/news/earth_climate/landslides/)
 
   
 
