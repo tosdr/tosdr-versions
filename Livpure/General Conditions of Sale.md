@@ -546,9 +546,7 @@ For a full description on how we process and keep safe your personal data, pleas
 
 Save & Continue
 
- 
-
-×
+var queryForm = function(settings){ var reset = settings && settings.reset ? settings.reset : false; var self = window.location.toString(); var querystring = self.split("?"); if (querystring.length > 1) { var pairs = querystring\[1\].split("&"); for (i in pairs) { var keyval = pairs\[i\].split("="); if (reset || sessionStorage.getItem(keyval\[0\]) === null) { sessionStorage.setItem(keyval\[0\], decodeURIComponent(keyval\[1\])); } } } var hiddenFields = document.querySelectorAll("input\[type=hidden\], input\[type=text\]"); for (var i=0; i  ×
 
 ![](https://cdn.shopify.com/s/files/1/0414/1357/4809/files/livpure-com-pop-up-banner-1.jpg?v=1702444416)
 
