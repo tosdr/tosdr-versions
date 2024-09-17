@@ -34,11 +34,11 @@ Login Stay logged in
 
 Latest Forum Topics
 
-* [2023 Israel–Hamas War Thread mk3 (7,035)](https://forum.nationstates.net/viewtopic.php?t=549839&f=20&view=unread#unread ""2023 Israel–Hamas War Thread mk3" (7,035 posts)")
-* [Is AU A Liberal, Centrist, or Conserv… (175)](https://forum.nationstates.net/viewtopic.php?t=555272&f=25&view=unread#unread ""Is AU A Liberal, Centrist, or Conservative?" (175 posts)")
-* [NationVision 39 | Tolosa, País Occitans (47)](https://forum.nationstates.net/viewtopic.php?t=554683&f=4&view=unread#unread ""NationVision 39 | Tolosa, País Occitans" (47 posts)")
-* [Fries or Chips? (66)](https://forum.nationstates.net/viewtopic.php?t=555304&f=20&view=unread#unread ""Fries or Chips?" (66 posts)")
-* [Internal and International Incidents… (4,261)](https://forum.nationstates.net/viewtopic.php?t=525784&f=5&view=unread#unread ""Internal and International Incidents [OOC • OPEN]" (4,261 posts)")
+* [What question do you want to ask AU? (11,480)](https://forum.nationstates.net/viewtopic.php?t=492529&f=25&view=unread#unread ""What question do you want to ask AU?" (11,480 posts)")
+* [Based on AN flag, what do they export… (379)](https://forum.nationstates.net/viewtopic.php?t=551783&f=25&view=unread#unread ""Based on AN flag, what do they export? (REVIVAL)" (379 posts)")
+* [Would you Live in AN'S (3,471)](https://forum.nationstates.net/viewtopic.php?t=546200&f=25&view=unread#unread ""Would you Live in AN'S" (3,471 posts)")
+* [The Collective Security League: OOC s… (6,357)](https://forum.nationstates.net/viewtopic.php?t=533133&f=5&view=unread#unread ""The Collective Security League: OOC signup" (6,357 posts)")
+* [NFL Football Thread 24-25: The Road t… (7,458)](https://forum.nationstates.net/viewtopic.php?t=527922&f=20&view=unread#unread ""NFL Football Thread 24-25: The Road to New Orleans!" (7,458 posts)")
 
 Advertisement
 
