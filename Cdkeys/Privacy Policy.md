@@ -598,13 +598,13 @@ To view games that are valid in your region ‘%1’, click here
     
      Buy Now
     
-5.    [![Frostpunk 2 - Deluxe Edition PC](https://cdn.cdkeys.com/245x340/media/catalog/product/f/r/frostpunk_2_-_deluxe_edition_.jpg)   No 5. \-41%
+5.    [![Frostpunk 2 - Deluxe Edition PC](https://cdn.cdkeys.com/245x340/media/catalog/product/f/r/frostpunk_2_-_deluxe_edition_.jpg)   No 5. \-40%
     
     Pre-order](https://www.cdkeys.com/pc/frostpunk-2-deluxe-edition-pc-steam)
     
     **[Frostpunk 2 - Deluxe Edition PC](https://www.cdkeys.com/pc/frostpunk-2-deluxe-edition-pc-steam "Frostpunk 2 - Deluxe Edition PC")**
     
-    Special Price $48.59 RRP $82.79
+    Special Price $49.99 RRP $82.79
     
     [Add to Wish List](# "Add to Wish List")
     
