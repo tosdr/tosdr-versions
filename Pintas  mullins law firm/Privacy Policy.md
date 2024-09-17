@@ -263,7 +263,7 @@ Select State\*AlabamaAlaskaArizonaArkansasCaliforniaColoradoConnecticutDelawareD
 
 Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. They may contact me by email or telephone (including phone calls, text messages, autodialed / auto-selected or pre-recorded calls). I understand that message and data rates may apply and that consent to such contact is not required for use of these services. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), [Anti Fraud Policy](https://www.pintas.com/anti-fraud-policy/)[Anti Fraud Policy](https://www.pintas.com/anti-fraud-policy-pr/) and [online Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/), including its mandatory arbitration provision. I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
 
-Name
+Comments
 
 This field is for validation purposes and should be left unchanged.
 
@@ -273,17 +273,17 @@ This field is for validation purposes and should be left unchanged.
 
 #### Frequently Asked Questions
 
-[![Serious head injuries from falls at assisted living facilities](https://www.pintas.com/wp-content/uploads/2021/03/elderly-lady-sitting-on-floor-after-a-fall-300x200.jpg "Serious Head Injuries From Falls at Assisted Living Facilities")](https://www.pintas.com/faq/can-falls-at-assisted-livings-lead-to-serious-head-injuries/ "Serious Head Injuries From Falls at Assisted Living Facilities")
+[![What is mesothelioma caused by?](https://www.pintas.com/wp-content/uploads/2020/07/mesothelioma-what-is-mesothelioma-caused-by.jpg "What Is Mesothelioma Caused By?")](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/what-is-mesothelioma-caused-by/ "What Is Mesothelioma Caused By?")
 
-[#### Serious Head Injuries From Falls at Assisted Living Facilities](https://www.pintas.com/faq/can-falls-at-assisted-livings-lead-to-serious-head-injuries/)
+[#### What Is Mesothelioma Caused By?](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/what-is-mesothelioma-caused-by/)
 
-[![How do you file a lawsuit against a nursing home for abuse or neglect?](https://www.pintas.com/wp-content/uploads/2020/09/faqs-how-do-you-file-a-lawsuit-against-a-nursing-home-for-abuse-or-neglect.jpg "How Do You File a Lawsuit Against a Nursing Home For Abuse Or Neglect?")](https://www.pintas.com/faq/how-do-you-file-a-lawsuit-against-a-nursing-home-for-abuse-or-neglect/ "How Do You File a Lawsuit Against a Nursing Home For Abuse Or Neglect?")
+[![Is roundup safe for home use?](https://www.pintas.com/wp-content/uploads/2020/07/lung-cancer-is-roundup-safe-for-home-use.jpg "Is Roundup Safe for Home Use?")](https://www.pintas.com/lawsuit/roundup-weed-killer/is-roundup-safe-for-home-use/ "Is Roundup Safe for Home Use?")
 
-[#### How Do You File a Lawsuit Against a Nursing Home For Abuse Or Neglect?](https://www.pintas.com/faq/how-do-you-file-a-lawsuit-against-a-nursing-home-for-abuse-or-neglect/)
+[#### Is Roundup Safe for Home Use?](https://www.pintas.com/lawsuit/roundup-weed-killer/is-roundup-safe-for-home-use/)
 
-[![Is there a recall on johnson & johnson baby products?](https://www.pintas.com/wp-content/uploads/2020/07/talcum-powder-is-there-a-recall-on-johnson-johnson-baby-products.jpg "Is There a Recall on Johnson & Johnson Baby Products?")](https://www.pintas.com/lawsuit/johnson-and-johnson-talcum-powder/are-johnson-and-johnson-baby-products-recalled "Is There a Recall on Johnson & Johnson Baby Products?")
+[![What are the signs and symptoms of asbestos exposure?](https://www.pintas.com/wp-content/uploads/2020/02/lung-cancer-what-are-the-signs-and-symptoms-of-asbestos-exposure.jpg "What Are the Signs and Symptoms of Asbestos Exposure?")](https://www.pintas.com/practice-areas/lung-cancer/symptoms-of-asbestos-exposure "What Are the Signs and Symptoms of Asbestos Exposure?")
 
-[#### Is There a Recall on Johnson & Johnson Baby Products?](https://www.pintas.com/lawsuit/johnson-and-johnson-talcum-powder/are-johnson-and-johnson-baby-products-recalled)
+[#### What Are the Signs and Symptoms of Asbestos Exposure?](https://www.pintas.com/practice-areas/lung-cancer/symptoms-of-asbestos-exposure)
 
 ### Injured?  
 Tell Us What Happened.
@@ -306,7 +306,7 @@ message
 
 Yes. Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. They may contact me by email or telephone (including phone calls, text messages, autodialed / auto-selected or pre-recorded calls). I understand that message and data rates may apply and that consent to such contact is not required for use of these services. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/), [Anti Fraud Policy](https://www.pintas.com/anti-fraud-policy/) and [online Terms](https://www.pintas.com/website-terms-of-use/), including its mandatory arbitration provision.
 
-Email
+Comments
 
 This field is for validation purposes and should be left unchanged.
 
