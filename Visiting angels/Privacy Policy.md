@@ -260,15 +260,15 @@ Or write to us at: 937 Haverford Road Suite 200, Bryn Mawr PA 19010
 
  related  categories
 
-[Alzheimer’s Care: Helping To Manage Sundowner’s Syndrome](https://www.visitingangels.com/knowledge-center/senior-health-and-well-being/alzheimers-care-helping-to-manage-sundowners-syndrome/478)
+[How to Avoid Senior Isolation and Loneliness](https://www.visitingangels.com/knowledge-center/senior-health-and-well-being/how-to-avoid-senior-isolation-and-loneliness/316)
 
-[6 Tips to Help Your Loved One Keep Track of Medication](https://www.visitingangels.com/knowledge-center/care-options/6-tips-to-help-your-loved-one-keep-track-of-medication/82)
+[Veterans Choice Program Can Be a Life Saver](https://www.visitingangels.com/knowledge-center/care-options/veterans-choice-program-can-be-a-life-saver/349)
 
-[Recognizing the Signs Your Parents Need Assisted Living Care](https://www.visitingangels.com/knowledge-center/care-options/recognizing-the-signs-your-parents-need-assisted-living-care/67)
+[How a Professional Caregiver Can Help Manage Your Senior's Medications](https://www.visitingangels.com/knowledge-center/senior-health-and-well-being/how-a-professional-caregiver-can-help-manage-your-seniors-medications/346)
 
-[Homecare Assistance: A Cure for Senior Loneliness](https://www.visitingangels.com/knowledge-center/why-in-home-care/homecare-assistance-a-cure-for-senior-loneliness/475)
+[Why Your Dad Can’t Take Care of Mom Alone](https://www.visitingangels.com/knowledge-center/care-options/why-your-dad-cant-take-care-of-mom-alone/320)
 
-[Understanding the Different Kinds of Senior Care Available](https://www.visitingangels.com/knowledge-center/care-options/understanding-the-different-kinds-of-senior-care-available/282)
+[How Palliative Care is Different Than Hospice](https://www.visitingangels.com/knowledge-center/care-options/how-palliative-care-is-different-than-hospice/301)
 
 * [Care Options](https://www.visitingangels.com/knowledge-center/care-options)
 * [Selecting Care](https://www.visitingangels.com/knowledge-center/selecting-care)
