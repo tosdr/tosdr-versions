@@ -70,7 +70,7 @@ Search for anything
 * [Training and Events](https://www.thecdi.net/training-and-events)
     * [Careers calendar](https://www.thecdi.net/training-and-events/careers-calendar)
     * [National Research Conference](https://www.thecdi.net/training-and-events/national-research-conference)
-    * [CDI Conference](https://www.thecdi.net/training-and-events/national-conference)
+    * [CDI National Conference](https://www.thecdi.net/training-and-events/national-conference)
     * [Scottish Student Conference](https://www.thecdi.net/training-and-events/student-conference-scotland)
     * [Student Conference (England and Wales)](https://www.thecdi.net/training-and-events/student-conference-(england-and-wales))
     * [UK Career Development Awards](https://www.thecdi.net/training-and-events/uk-career-development-awards)
