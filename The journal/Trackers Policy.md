@@ -314,7 +314,6 @@ Journal Media
 Our Network
 
 * [The 42](https://www.the42.ie/)
-* [Noteworthy](https://www.noteworthy.ie/)
 * [FactCheck Knowledge Bank](https://www.factchecking.ie/)
 
 Terms & Legal Notices
@@ -347,7 +346,6 @@ Journal Media
 Our Network
 
 * [The Journal](https://www.thejournal.ie/)
-* [Noteworthy](https://www.noteworthy.ie/)
 * [FactCheck Knowledge Bank](https://www.factchecking.ie/)
 
 Terms & Legal Notices
