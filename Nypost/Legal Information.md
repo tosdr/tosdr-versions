@@ -76,10 +76,6 @@ Search
 
 Search
 
-#### Breaking News
-
-[Sean 'Diddy' Combs arrested in NYC amid sex trafficking investigation](https://nypost.com/2024/09/16/us-news/sean-diddy-combs-arrested-in-nyc-amid-sex-trafficking-investigation/)
-
 Privacy Notice Highlights
 =========================
 
