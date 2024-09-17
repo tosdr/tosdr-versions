@@ -1,6 +1,6 @@
 [We asked users to rate their rides. They ratted out their furry friends. ![](/img/arrow-disclose.svg)](https://transitapp.com/rats) 
 
-[![](/img/4.0/logos/transit.svg)](https://transitapp.com/)[Vision](https://manifesto.transitapp.com/en/vision)[Regions](https://transitapp.com/region)[Partners](https://transitapp.com/partners)[Blog](https://transitapp.com/blog)
+[![](/img/4.0/logos/transit.svg)](https://transitapp.com/)[Vision](https://transitapp.com/en/vision)[Regions](https://transitapp.com/en/region)[Partners](https://transitapp.com/partners)[Blog](https://transitapp.com/blog)
 
 Privacy Policy
 ==============
@@ -157,9 +157,9 @@ This Privacy Policy was last updated on August 18, 2020.
 
 [![](/img/4.0/logos/transit.svg)](https://transitapp.com/)
 
-[Hello](https://transitapp.com/)[Regions](https://transitapp.com/region)[APIs](https://transitapp.com/apis)[Blog](https://transitapp.com/blog)[Press](https://transitapp.com/press)[Help](https://transitapp.com/faqlink)
+[Hello](https://transitapp.com/)[Regions](https://transitapp.com/en/region)[APIs](https://transitapp.com/apis)[Blog](https://transitapp.com/blog)[Press](https://transitapp.com/press)[Help](https://transitapp.com/faqlink)
 
-[About](https://manifesto.transitapp.com/en/vision)[Vision](https://manifesto.transitapp.com/en/vision)[Team](https://manifesto.transitapp.com/en/team)[Jobs](https://manifesto.transitapp.com/en/jobs)[Privacy](https://transitapp.com/privacy)[Terms of Use](https://transitapp.com/terms)
+[About](https://transitapp.com/en/vision)[Vision](https://transitapp.com/en/vision)[Team](https://transitapp.com/en/team)[Jobs](https://transitapp.com/en/jobs)[Privacy](https://transitapp.com/privacy)[Terms of Use](https://transitapp.com/terms)
 
 [Partners](https://transitapp.com/partners)[Cities & Transit Agencies](https://transitapp.com/partners/agencies)[Mobile Payments](https://transitapp.com/partners/payments)[Bikes & Scooters](https://transitapp.com/partners/micromobility)[Ridehail & Carshare](https://transitapp.com/partners/carshare-ridehail)[Data](https://transitapp.com/partners/data)
 
