@@ -108,10 +108,11 @@
         ---------------------------------------------------------
         
         * [News](https://www.mpi-hd.mpg.de/mpi/en/public-relations/news "News")
-        * [Public Events](https://www.mpi-hd.mpg.de/mpi/en/press-and-public-relations/public-events "Public Events")
+        * [Public events](https://www.mpi-hd.mpg.de/mpi/en/public/translate-to-english-oeffentliche-veranstaltungen "Public events")
         * [Reports and Information Material](https://www.mpi-hd.mpg.de/mpi/en/public/reports-and-information-material "Reports and Information Material")
         
         * [Guided Tours](https://www.mpi-hd.mpg.de/mpi/en/public/guided-tours "Guided Tours")
+        * [Saturday Morning Physics](https://www.mpi-hd.mpg.de/mpi/en/press-and-public-relations/public-events "Saturday Morning Physics")
         * [Information for School Students](https://www.mpi-hd.mpg.de/mpi/en/public-relations/information-for "Information for School Students")
         
 * [Career](#)
@@ -543,8 +544,8 @@ Als betroffene Person, deren personenbezogene Daten im Rahmen der oben genannten
         * [Phone Directory](https://www.mpi-hd.mpg.de/mpi/en/institute/contact/phone-directory "Phone Directory")
     * [History](https://www.mpi-hd.mpg.de/mpi/en/institute/history "History")
 * [Public](https://www.mpi-hd.mpg.de/mpi/en/public "Public")
-    * [Öffentliche Veranstaltungen](https://www.mpi-hd.mpg.de/mpi/en/oeffentlichkeit/oeffentliche-veranstaltungen "Öffentliche Veranstaltungen")
-        * [Public Events](https://www.mpi-hd.mpg.de/mpi/en/press-and-public-relations/public-events "Public Events")
+    * [Public events](https://www.mpi-hd.mpg.de/mpi/en/public/translate-to-english-oeffentliche-veranstaltungen "Public events")
+        * [Saturday Morning Physics](https://www.mpi-hd.mpg.de/mpi/en/press-and-public-relations/public-events "Saturday Morning Physics")
         * [„Die Formel des Widerstands“ – Lesung/Buchvorstellung mit Astrid Viciano](https://www.mpi-hd.mpg.de/mpi/en/presse-und-oeffentlichkeit/oeffentliche-veranstaltungen/die-formel-des-widerstands-lesung/buchvorstellung-mit-astrid-viciano "„Die Formel des Widerstands“ – Lesung/Buchvorstellung mit Astrid Viciano")
     * [News](https://www.mpi-hd.mpg.de/mpi/en/public-relations/news "News")
     * [Reports and Information Material](https://www.mpi-hd.mpg.de/mpi/en/public/reports-and-information-material "Reports and Information Material")
