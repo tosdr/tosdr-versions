@@ -85,11 +85,11 @@ Top downloads
 
 Latest releases
 
-* [Space Invaders: Part II](https://www.myabandonware.com/game/space-invaders-part-ii-sdh)
-* [Space Invaders II](https://www.myabandonware.com/game/space-invaders-ii-sdg)
-* [Space Force](https://www.myabandonware.com/game/space-force-sde)
-* [Space Encounters](https://www.myabandonware.com/game/space-encounters-sdd)
-* [Space Cyclone](https://www.myabandonware.com/game/space-cyclone-sdc)
+* [Kickle Cubicle](https://www.myabandonware.com/game/kickle-cubicle-9mt)
+* [SegaSonic The Hedgehog](https://www.myabandonware.com/game/segasonic-the-hedgehog-sdr)
+* [Sky Chuter](https://www.myabandonware.com/game/sky-chuter-sdq)
+* [Sindbad Mystery](https://www.myabandonware.com/game/sindbad-mystery-sdp)
+* [Side Trak](https://www.myabandonware.com/game/side-trak-sdo)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [Facebook](https://www.facebook.com/myabandonware) or [X (Twitter)](https://x.com/myabandonware)
