@@ -136,31 +136,31 @@ Advertisement
 
 ###### Throwback Documentaries
 
-* [![American Philosopher](/wp-content/thumbnails/5607-100x70.png?x53432)
+* [![Cops and Robbers](/wp-content/thumbnails/14080-100x70.jpg?x53432)
     
-    American Philosopher
+    Cops and Robbers
     
-    Who dares think a nation? What is the status of philosophy in a nation founded by philosophers? What are the risks of practicing philosophy in America? Does America have a "native" philosophy? Eight s](https://documentaryheaven.com/american-philosopher/ "American Philosopher")
-* [![Muhammad Ali: Through the Eyes of the World](/wp-content/thumbnails/11992-100x70.jpg?x53432)
+    Corey Pegues is Retired NYPD Commander turned author, he grew up in Jamaica, Queens during the 70's and 80's, a rough time for New York with regards to drug related crime. As a kid he played Cops and](https://documentaryheaven.com/cops-and-robbers/ "Cops and Robbers")
+* [![Valveman](/wp-content/thumbnails/2630-100x70.jpg?x53432)
     
-    Muhammad Ali: Through the Eyes of the World
+    Valveman
     
-    One of the greatest sporting figures of all time has sadly passed away at the age of 74 (June 3 2016), he had been suffering from a respiratory illness, a condition that was complicated by Parkinson's](https://documentaryheaven.com/muhammad-ali-through-eyes-world/ "Muhammad Ali: Through the Eyes of the World")
-* [![TikTok’s Dark Side](/wp-content/thumbnails/16588-100x70.jpg?x53432)
+    Valveman is the story of one mans lifetime obsession vintage radio,told with warmth,humour and innovation. Gerald Wells is Valveman.his lifes work has been to amass one of the worlds largest collecti](https://documentaryheaven.com/valveman/ "Valveman")
+* [![Slavery: A Global Investigation](/wp-content/thumbnails/2420-100x70.jpg?x53432)
     
-    TikTok’s Dark Side
+    Slavery: A Global Investigation
     
-    The Chinese social media platform known as TikTok has changed the way we interact with the internet. It has become the most popular app in the world, filled with fishing videos, cooking, skits, singi](https://documentaryheaven.com/tiktoks-dark-side/ "TikTok’s Dark Side")
-* [![Life: Reptiles and Amphibians](/wp-content/thumbnails/5953-100x70.jpg?x53432)
+    The global economy has created immense wealth in the West, but it has also spawned a sinister new market in slaves – in Africa, Asia and South America, and on our own doorsteps in the capitals of Brit](https://documentaryheaven.com/slavery-a-global-investigation/ "Slavery: A Global Investigation")
+* [![King: Dreamer](/wp-content/thumbnails/3658-100x70.jpg?x53432)
     
-    Life: Reptiles and Amphibians
+    King: Dreamer
     
-    Reptilians survive from the age of the Saurians, but if many look Ancient that's because their early and sometimes relatively recent adaptations to widely varied conditions worldwide still work admira](https://documentaryheaven.com/life-reptiles-and-amphibians/ "Life: Reptiles and Amphibians")
-* [![Dawn of Humanity](/wp-content/thumbnails/11926-100x70.jpg?x53432)
+    Tom Brokaw narrates this documentary on Martin Luther King Jr. For some of us, it’s hard to believe that Dr. King was assassinated 40 years ago this month at the age of 39. Dr. King knew he would die](https://documentaryheaven.com/king-dreamer/ "King: Dreamer")
+* [![American Grindhouse](/wp-content/thumbnails/5368-100x70.jpg?x53432)
     
-    Dawn of Humanity
+    American Grindhouse
     
-    What is it that makes us human and where do we come from? Ever since Charles Darwin put forward the idea that we evolved from apes scientists have wondered about those first creatures that left the ap](https://documentaryheaven.com/dawn-of-humanity/ "Dawn of Humanity")
+    This documentary explores the hidden history of the American Exploitation Film. The movie digs deep into this often overlooked category of U.S. cinema and unearths the shameless and occasionally shock](https://documentaryheaven.com/american-grindhouse/ "American Grindhouse")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
