@@ -157,9 +157,9 @@ Online Banking](https://app.starlingbank.com/)
     
     Blog & News
     
-    * [Blog
+    * [Noteworthy
         
-        Articles on money, plus the latest news on our products](https://www.starlingbank.com/blog/)
+        Articles on money mastery and real-life money truths](https://www.starlingbank.com/blog/)
     * [Newsroom
         
         The latest press releases](https://www.starlingbank.com/media/)
