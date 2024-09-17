@@ -70,12 +70,12 @@ FOX SCORES
     Match Centre](https://www.foxsports.com.au/afl/match-centre/AFL20242702)
 * [AFL Women's
     
-    17/9 19:15 AEST
+    Complete
     
     |     |     |
     | --- | --- |
-    | COL | –   |
-    | WCE | –   |
+    | COL | 3.1.19 |
+    | WCE | 5.6.36 |
     
     Match Centre](https://www.foxsports.com.au/afl/aflw/match-centre/AFLW20240401)
 * Netball
@@ -881,7 +881,7 @@ FOX SCORES
 
 [Fox sports](https://www.foxsports.com.au/)
 
-[Scores](https://www.foxsports.com.au/score-centre)
+[Scores](https://www.foxsports.com.au/score-centre/live-now)
 
 * [Video](https://www.foxsports.com.au/video)
 * [NRL](https://www.foxsports.com.au/nrl)
