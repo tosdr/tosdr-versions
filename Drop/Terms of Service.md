@@ -3,13 +3,13 @@ Here are the [instructions on how to enable JavaScript in your web browser](http
 
 [Click to view our Accessibility Statement or contact us with accessibility-related questions](https://drop.com/accessibility)
 
-[Drop Signature Series Rocky Board
+[Drop Signature Series Gemstone Keyboards
 
-For our biggest Rocky Bird fans.
+Emerald. Amethyst. Garnet.
 
-SHOP NOW
+Shop Now
 
-_keyboard\_arrow\_right_](https://drop.com/buy/drop-signature-series-rocky-board)
+_keyboard\_arrow\_right_](https://drop.com/buy/drop-signature-series-gemstone-keyboards)
 
 Free Standard Shipping in the US on orders over $99
 
