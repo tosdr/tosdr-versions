@@ -49,7 +49,7 @@
     [Download options](https://bitwarden.com/download/)[View documentation](https://bitwarden.com/help/)[Bitwarden Authenticator](https://bitwarden.com/products/authenticator/)
     
 * [Pricing](https://bitwarden.com/pricing/business/)
-* [Download](https://bitwarden.com/download/#downloads-mobile)
+* [Downloads](https://bitwarden.com/download/#downloads-mobile)
 * [Developers](https://bitwarden.com/developers/)
 * Resources
     
@@ -68,7 +68,7 @@
 * Products
     
 * [Pricing](https://bitwarden.com/pricing/business/)
-* [Download](https://bitwarden.com/download/)
+* [Downloads](https://bitwarden.com/download/)
 * [Developers](https://bitwarden.com/developers/)
 * Resources
     
