@@ -52,7 +52,7 @@ Radar & Maps
 News & Media
 ------------
 
-[Top Weather Stories](https://weather.com/news/weather/video/flower-shop-floats-away-poland-deadly-flood-europe)[Hurricane Central](https://weather.com/storms/hurricane-central)[Science & Environment](https://weather.com/science/environment)[Space & Skywatching](https://weather.com/science/space)[Safety & Prep](https://weather.com/safety/index)[Videos](https://weather.com/news/weather/video/flower-shop-floats-away-poland-deadly-flood-europe)
+[Top Weather Stories](https://weather.com/news/weather/video/officers-detonate-explosives-to-patch-levee)[Hurricane Central](https://weather.com/storms/hurricane-central)[Science & Environment](https://weather.com/science/environment)[Space & Skywatching](https://weather.com/science/space)[Safety & Prep](https://weather.com/safety/index)[Videos](https://weather.com/news/weather/video/officers-detonate-explosives-to-patch-levee)
 
 Products
 --------
@@ -83,7 +83,7 @@ Arrow Left
 
 Arrow Right
 
-[Today](#noloc_/weather/today/l/)[Hourly](#noloc_/weather/hourbyhour/l/)[10 Day](#noloc_/weather/tenday/l/)[Weekend](#noloc_/weather/weekend/l/)[Monthly](#noloc_/weather/monthly/l/)[Radar](#noloc_/weather/radar/interactive/l/)[VideoVideo](https://weather.com/news/weather/video/flower-shop-floats-away-poland-deadly-flood-europe)
+[Today](#noloc_/weather/today/l/)[Hourly](#noloc_/weather/hourbyhour/l/)[10 Day](#noloc_/weather/tenday/l/)[Weekend](#noloc_/weather/weekend/l/)[Monthly](#noloc_/weather/monthly/l/)[Radar](#noloc_/weather/radar/interactive/l/)[VideoVideo](https://weather.com/news/weather/video/officers-detonate-explosives-to-patch-levee)
 
 More ForecastsMoreArrow down
 
