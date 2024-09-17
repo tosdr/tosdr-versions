@@ -322,11 +322,11 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 
 [Galerija umetnika](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")[](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/zoran-popovic-escapism/zoran-popovic-stripovicartoons-karikaturecaricatures/zoran-popovic-strip/one-more-face-rasa-todosijevic.jpg?itok=H4g_YKaf)](http://seecult.org/galerija/galerija-umetnika/zoran-popovic-escapism/zoran-popovic-stripovicartoons-0)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/zampa-di-leone/zampa-di-leone-u-ub-quotsvetozar-markovicquot-47-192008/zampa-ub-sm2.jpg?itok=GtjyHxPD)](http://seecult.org/galerija/galerija-umetnika/zampa-di-leone/zampa-di-leone-u-ub-svetozar-markovic-47-192008)
 
 [Foto galerija](http://seecult.org/galerija/foto-galerija "Foto galerija")[](http://seecult.org/galerija/foto-galerija "Foto galerija")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/dobra-stara-prosta-vremena.jpg?itok=Pi1RxwFM)](http://seecult.org/galerija/foto-galerija/foto-arhiva)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/tomaz-gorjup.jpg?itok=X5IaGSPl)](http://seecult.org/galerija/foto-galerija/foto-arhiva)
 
 * [Najčitanije](#news_1)
 * [Najnovije](#news_2)
@@ -342,16 +342,16 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 * [Preminula Jasna Tijardović Popović](http://seecult.org/vest/preminula-jasna-tijardovic-popovic)
 * [Najuži izbor za NIN-ovu nagradu za 2022.](http://seecult.org/vest/najuzi-izbor-za-nin-ovu-nagradu-za-2022)
 
+* [Mateja Nikolić dobitnik nagrade Neda Depolo](http://seecult.org/vest/mateja-nikolic-dobitnik-nagrade-neda-depolo)
+* [Obnova Sremskih Karlovaca](http://seecult.org/vest/obnova-sremskih-karlovaca)
+* [Nauka i umetnost u Botaničkoj bašti](http://seecult.org/vest/nauka-i-umetnost-u-botanickoj-basti)
+* [Tragikomičan pogled na duh palanke](http://seecult.org/vest/tragikomican-pogled-na-duh-palanke)
 * [Sudbina pojedinca u fokusu revije rumunskog filma](http://seecult.org/vest/sudbina-pojedinca-u-fokusu-revije-rumunskog-filma)
 * [Pomereni redosled Iljovskog u Legatu Čolaković](http://seecult.org/vest/pomereni-redosled-iljovskog-u-legatu-colakovic)
 * [Kuznjecova gošća EUPL festa](http://seecult.org/vest/kuznjecova-gosca-eupl-festa)
 * [Pripreme za 32. Memorijal Nadežde Petrović](http://seecult.org/vest/pripreme-za-32-memorijal-nadezde-petrovic)
 * [Sećanje na Jagoša Markovića](http://seecult.org/vest/secanje-na-jagosa-markovica)
 * [Pomoć za Sonju Kostić](http://seecult.org/vest/pomoc-za-sonju-kostic)
-* [Književni izbor Štefica Cvek za 2024.](http://seecult.org/vest/knjizevni-izbor-stefica-cvek-za-2024)
-* [Forenzika kolektivnog pamćenja](http://seecult.org/vest/forenzika-kolektivnog-pamcenja)
-* [Očuvanje prirode - spoj etike i estetike na 58. Bitefu](http://seecult.org/vest/ocuvanje-prirode-spoj-etike-i-estetike-na-58-bitefu)
-* [Ostvarenje veličanstvenog sna](http://seecult.org/vest/ostvarenje-velicanstvenog-sna)
 
 * [Konkursi](#tab1_1)
 
