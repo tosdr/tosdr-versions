@@ -55,9 +55,9 @@
 [BREITBART](https://www.breitbart.com/ "Breitbart News Network")
 
 * [2nd Attempt](https://www.breitbart.com/tag/ryan-wesley-routh/)
+* [Hater Hillary](https://www.breitbart.com/tag/hillary-clinton/)
 * [Taylor Swift](https://www.breitbart.com/tag/taylor-swift/)
 * [Springfield, OH](https://www.breitbart.com/tag/springfield/)
-* [Emmys](https://www.breitbart.com/tag/emmy-awards/)
 * [Google Ad Trial](https://www.breitbart.com/tag/google/)
 * [Israel-Hamas War](https://www.breitbart.com/tag/israel/)
 
