@@ -1,8 +1,6 @@
-![](https://www.facebook.com/tr?id=1631310827106969&ev=PageView&noscript=1)              
+![](https://www.facebook.com/tr?id=1631310827106969&ev=PageView&noscript=1)               
 
  
-
-[Log in](https://www.racing.com/plus)[Sign up](https://www.racing.com/plus/signup)
 
 Privacy Policy
 ==============
