@@ -30,7 +30,7 @@ Go to next offer
 Terms and Policies
 ==================
 
-[Privacy Policy](https://www.fandango.com/policies/privacy-policy) Terms and Policies [Terms of Use](https://www.fandango.com/policies/terms-of-use) [Ticket and Concessions Policy](https://www.fandango.com/policies/movie-ticket-policy) [Promo Code Policy](https://www.fandango.com/policies/promo-code-policy) [Gift Card Terms](https://www.fandango.com/policies/gift-card-terms) [Cookie Notice](https://www.fandango.com/policies/cookies-and-tracking) [Fandango at Home Policy](https://www.fandango.com/policies/vudu-policy) [FanRewards Program Terms](https://www.fandango.com/policies/fanrewards-terms)
+[Privacy Policy](https://www.fandango.com/policies/privacy-policy) Terms and Policies [Terms of Use](https://www.fandango.com/policies/terms-of-use) [Ticket and Concessions Policy](https://www.fandango.com/policies/movie-ticket-policy) [Promo Code Policy](https://www.fandango.com/policies/promo-code-policy) [Gift Card Terms](https://www.fandango.com/policies/gift-card-terms) [Cookie Notice](https://www.fandango.com/policies/cookies-and-tracking) [Fandango at Home Policy](https://www.fandango.com/policies/vudu-policy) [FanRewards Program Terms](https://www.fandango.com/policies/fanrewards-terms) [FanClub Terms](https://www.fandango.com/policies/fanclub-terms)
 
 **Terms and Policies**
 
