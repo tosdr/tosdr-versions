@@ -21,6 +21,8 @@ Services
 
 [Internal Scrutiny](https://www.schoolbusinessservices.co.uk/finance-support/internal-scrutiny-and-returns)
 
+[Interim Finance Support](https://www.schoolbusinessservices.co.uk/interim-absence-and-vacancy-cover)
+
 Other Services
 --------------
 
@@ -30,7 +32,7 @@ Other Services
 
 [Training](https://www.schoolbusinessservices.co.uk/training)
 
-[Leadership Consultancy](https://www.schoolbusinessservices.co.uk/leadership-consultancy-service)
+[Leadership Consultancy](https://www.schoolbusinessservices.co.uk/leadership-consultancy)
 
 [Governance & Compliance](https://www.schoolbusinessservices.co.uk/judicium-governance-and-compliance)
 
@@ -89,7 +91,7 @@ Financial Planning & Forecasting Software
     * [Judicium Governance & Compliance](https://www.schoolbusinessservices.co.uk/judicium-governance-and-compliance)
     * [Thrive Approach](https://www.schoolbusinessservices.co.uk/thrive-approach)
     * [Finance and Accounting for Independent Schools](https://www.schoolbusinessservices.co.uk/finance-and-accounting-independent-schools)
-    * [ICT Support Services copy](https://www.schoolbusinessservices.co.uk/interim-absence-and-vacancy-cover)
+    * [Interim Finance Support](https://www.schoolbusinessservices.co.uk/interim-absence-and-vacancy-cover)
 * [SBS Financial Planner](https://www.schoolbusinessservices.co.uk/SBS-Financial-Planner)
 * [Content Hub](https://www.schoolbusinessservices.co.uk/content-hub)
 * [About](https://www.schoolbusinessservices.co.uk/about-us)
