@@ -21,7 +21,7 @@
 
 * EN
     
-* [](https://community.klaviyo.com/topic/new?fid=64)
+* [](https://community.klaviyo.com/topic/new)
 * [](#)
 
 * [Home](https://community.klaviyo.com/)
