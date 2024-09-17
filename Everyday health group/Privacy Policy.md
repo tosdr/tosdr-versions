@@ -42,9 +42,9 @@ Explore wellness and self-care topics for your physical and mental well-being.
 
 [See All](https://www.everydayhealth.com/wellness/)
 
-[Acupuncture](https://www.everydayhealth.com/acupuncture/)[Bug Bites](https://www.everydayhealth.com/skin-and-beauty-photos/how-to-identify-common-bug-bites.aspx)[Ceramides](https://www.everydayhealth.com/healthy-skin/ceramides/guide/)[Dehydration](https://www.everydayhealth.com/dehydration/)[Fitness and Exercise](https://www.everydayhealth.com/fitness/all-articles/)[Food & Diet](https://www.everydayhealth.com/lifestyle/food/)[Healthy Recipes](https://www.everydayhealth.com/healthy-recipes/)
+[Acupuncture](https://www.everydayhealth.com/acupuncture/)[Bug Bites](https://www.everydayhealth.com/bug-bites/)[Ceramides](https://www.everydayhealth.com/healthy-skin/ceramides/guide/)[Dehydration](https://www.everydayhealth.com/dehydration/)[Fitness and Exercise](https://www.everydayhealth.com/fitness/all-articles/)[Food & Diet](https://www.everydayhealth.com/lifestyle/food/)[Healthy Recipes](https://www.everydayhealth.com/healthy-recipes/)
 
-[Ketogenic Diet](https://www.everydayhealth.com/ketogenic-diet/)[Meditation](https://www.everydayhealth.com/meditation/all-articles/)[Mediterranean Diet](https://www.everydayhealth.com/mediterranean-diet/)[Self-Care](https://www.everydayhealth.com/self-care/)[Stress](https://www.everydayhealth.com/stress/)[Weight Loss](https://www.everydayhealth.com/weight-loss/)[Yoga](https://www.everydayhealth.com/yoga/guide/)
+[Ketogenic Diet](https://www.everydayhealth.com/ketogenic-diet/)[Meditation](https://www.everydayhealth.com/meditation/)[Mediterranean Diet](https://www.everydayhealth.com/mediterranean-diet/)[Self-Care](https://www.everydayhealth.com/self-care/)[Stress](https://www.everydayhealth.com/stress/)[Weight Loss](https://www.everydayhealth.com/weight-loss/)[Yoga](https://www.everydayhealth.com/yoga/guide/)
 
 News
 
