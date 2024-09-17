@@ -70,6 +70,12 @@ Latest news
 
 [All articles](https://www.aenetworks.tv/news)
 
+    [![evision x Hearst Networks](https://hearstnetworkscorp.s3.eu-west-2.amazonaws.com/s3fs-public/styles/card_tablet/public/2024-09/Hearst%20Networks%20x%20evision%20Release%20Image%20jpg.jpg?VersionId=Mtoz2g1VJs6YYa_ltCb7MxO8ToDZ2iHS&itok=WzUXiTWz)
+
+17 September 2024
+
+### EVISION AND HEARST NETWORKS EMEA FORM STRATEGIC PARTNERSHIP TO ENRICH VIEWER EXPERIENCE](https://www.aenetworks.tv/news/evision-and-hearst-networks-emea-form-strategic-partnership-enrich-viewer-experience)
+
     [![Hearst Networks EMEA](https://hearstnetworkscorp.s3.eu-west-2.amazonaws.com/s3fs-public/styles/card_tablet/public/2024-09/Hearst_1920x1080px_1.jpg?VersionId=osYNAwVo71UUOUv8amW7CL8Jc5n2lKK.&itok=ABJ6ZdEg)
 
 12 September 2024
@@ -87,12 +93,6 @@ Latest news
 10 September 2024
 
 ### A+E NETWORKS EMEA ANNOUNCES BRAND REFRESH FOR CRIME+INVESTIGATION® CHANNEL ACROSS EMEA](https://www.aenetworks.tv/news/ae-networks-emea-announces-brand-refresh-crimeinvestigationr-channel-across-emea)
-
-    [![Plex UI Screen ](https://hearstnetworkscorp.s3.eu-west-2.amazonaws.com/s3fs-public/styles/card_tablet/public/2024-08/Plex%20A%2BE%20Networks%20%20CD_4.jpg?VersionId=rUAUoJC5fkM1MsW1Eb_Ks.zJITh_6gfw&itok=kZ4KYA0j)
-
-27 August 2024
-
-### A+E NETWORKS EMEA PARTNERS WITH STREAMING MEDIA COMPANY PLEX TO OFFER POPULAR UK AND US CONTENT IN THE UK](https://www.aenetworks.tv/news/uk/ae-networks-emea-partners-streaming-media-company-plex-offer-popular-uk-and-us-content-uk)
 
 Corporate
 ---------
