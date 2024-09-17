@@ -344,7 +344,7 @@ Effective as of December 22, 2022
   
 **[Job Openings](https://www.accepted.com/about-us/job-openings)**
 
-[![bbb](https://www.accepted.com/hs-fs/hub/58291/file-14794599-gif/images/bbb.gif?width=61&height=96&name=bbb.gif)](https://www.bbb.org/us/ca/los-angeles/profile/educational-consultant/acceptedcom-1216-13154708#sealclick) [![Stamp of AIGAC Excellence](https://www.accepted.com/hs-fs/hubfs/aigac-circle-1.png?width=96&height=96&name=aigac-circle-1.png "Stamp of AIGAC Excellence")](https://www.collegeconsensus.com/rankings/best-college-admissions-consultants/)![CC-BEST-college-admissions-consultants_3_3-300x300](https://www.accepted.com/hs-fs/hubfs/CC-BEST-college-admissions-consultants_3_3-300x300.png?width=96&name=CC-BEST-college-admissions-consultants_3_3-300x300.png)
+[![bbb](https://www.accepted.com/hs-fs/hub/58291/file-14794599-gif/images/bbb.gif?width=61&height=96&name=bbb.gif)](https://www.bbb.org/us/ca/los-angeles/profile/educational-consultant/acceptedcom-1216-13154708#sealclick) [![Stamp of AIGAC Excellence](https://www.accepted.com/hs-fs/hubfs/aigac-circle-1.png?width=96&height=96&name=aigac-circle-1.png "Stamp of AIGAC Excellence")](https://www.collegeconsensus.com/rankings/best-college-admissions-consultants/)![BEST COLLEGE ADMISSION CONSULTANTS BADGE](https://www.accepted.com/hs-fs/hubfs/BEST%20COLLEGE%20ADMISSION%20CONSULTANTS%20BADGE.png?width=96&height=81&name=BEST%20COLLEGE%20ADMISSION%20CONSULTANTS%20BADGE.png)
 
 Accepted.com 117 Kendrick Street, Ste 300, Needham MA, 02494-2722 +1 (310) 815-9553  
 © 2023 Accepted.
