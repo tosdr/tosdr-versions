@@ -181,8 +181,12 @@ on hotel stays.](https://www.southwesthotels.com/?label=SWA-GSUBNAV-OFFERS-HOTEL
 * [Donate Points](https://www.southwest.com/html/rapidrewards/promotions/donate-points-charity.html?clk=GSUBNAV-RR-DONATEPOINTS)
 * [Email Subscriptions](https://www.southwest.com/myaccount/preferences/communication/subscriptions/edit?clk=GSUBNAV-RR-EMAILSUBS)
 
-[Wanna rake in a trip this fall?Earn 50,000  
-points.Learn more](https://creditcards.chase.com/a1/southwest/AEP50kPlus624?REF=FULLSITE&clk=CB190860&CELL=6PLT&cbid=CB190860)
+[![Limited-time offer](/swa-resources/images/promotions/LTO-red-eyebrow.png)Earn 50K 85,000  
+points.Points worth up to  
+**3 round trips** in  
+continental U.S.\*Learn more\*Offer ends 10/9/24. 3 RT flgts. based on avg. WGA  
+fares from June 2024 published service in continental  
+U.S. Terms apply.](https://creditcards.chase.com/a1/southwest/AEP85kPlus924?REF=FULLSITE&clk=CB394761&CELL=6PLT&cbid=CB394761)
 
 ×
 
