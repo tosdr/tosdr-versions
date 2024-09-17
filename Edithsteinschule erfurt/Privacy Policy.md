@@ -335,6 +335,26 @@ Im Rahmen der Verbesserung der Sicherheit sowohl für die hier gespeicherten Dat
 
 19.30 Uhr Elternsprechersitzung in der Aula
 
+**15.10.2024**
+
+18.30 Uhr Schulkonferenz im Raum 3.12
+
+**16.10.2024**
+
+verkürzter Unterricht ab 1. Stunde wegen pädagogischen Konferenzen
+
+**17.10.2024**
+
+ab 13.00 Uhr Berufsbörse für 9d/10abcd/11abcd
+
+**01.11.2024**
+
+schulfreier Tag
+
+**06.11.2024**
+
+14.00 – 18.00 Uhr Elternsprechtag (Terminvereinbarung ab 21.10.2024 übers Sekretariat möglich)
+
 ![](https://www.ess-erfurt.de/wp-content/uploads/Service/Logo_Praxissemesterschule_2023-24-002.png)
 
 ![](/wp-content/uploads/Layout/Schullogo-black.png)Edith-Stein-Schule Erfurt
