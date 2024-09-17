@@ -1,4 +1,4 @@
-[![cropped-logo.png](https://bearable.app/wp-content/uploads/2020/11/cropped-logo.png "cropped-logo.png")](https://bearable.app/)
+[![Bearable Logo](https://bearable.app/wp-content/uploads/2020/11/cropped-logo.png "cropped-logo.png")](https://bearable.app/)
 
 [Bearable](https://bearable.app/)
 ---------------------------------
@@ -17,7 +17,8 @@ Menu
 * [Support](https://bearable.app/support/)
 * [Email us](mailto:support@bearable.app)
 
-#### Privacy Policy
+Privacy Policy
+==============
 
 ##### Last updated 8th July 2022.  
 _Updated to clarify that as a UK company,_ we’re not required to have to comply with US criminal subpoenas requesting disclosure of data.
@@ -61,8 +62,7 @@ To register an account, you have to enter your email address and choose a passwo
 
 There are **two main purposes** for which we process personal data and the type of data that is processed to fulfil each purpose:
 
-**1\. To provide our services and understand your needs**
-=========================================================
+### **1\. To provide our services and understand your needs**
 
 First and foremost it is vital for us to stress that we do not and will never sell any personal data about you to third parties.  However you may still feel uncomfortable storing health information to a connected device.  Therefore, you should consider the safety and privacy of your personal data before using the Bearable app generally, and utilising the export feature of the app specifically.  You should refrain from sharing or exporting data unless you are certain that the receiving email address is authorised, credible, and secure.
 
@@ -87,8 +87,7 @@ Through our use of cookies (see below) and if you consent, we collect IP address
 
 The amount we collect has been minimised wherever possible to respect your privacy.
 
-**2\. To deliver personalised insights** 
-=========================================
+### **2\. To deliver personalised insights** 
 
 The data you track in Bearable about your health and activities is considered _sensitive personal data_.  Bearable does not store sensitive personal data without your explicit consent.  It is only when you give us explicit consent by creating a Bearable account, and giving us your consent declaration, that we start storing  health data that you choose to provide  on our secured servers.
 
@@ -108,8 +107,7 @@ You may also allow us to connect to third-party services, such as Apple HealthKi
 
 It’s important to clarify that your health data is encrypted on our services and the only personal data it is attached to is your email address. 
 
-**Principles of Processing**
-============================
+### **Principles of Processing**
 
 **Data minimization and purpose limitation.** We will not process Personal Data in a way that is incompatible with the purposes for which it has been collected or subsequently authorized by you or collect any Personal Data that is not needed for the mentioned purposes. For any new purpose of processing we will ask your separate consent. 
 
@@ -161,15 +159,13 @@ Data Security
 
 We apply security measures to protect against the misuse, loss, and/or alteration of personal data under our control.  Though we cannot ensure or guarantee that misuse, loss or alteration of information will never occur, we use all reasonable efforts to prevent it and keep our security methods and systems under close review.  Although we make good faith efforts to store all personal information entered into the App in a secure operating environment that is not available to the public, we cannot guarantee complete security. We cannot and do not guarantee that our security measures will prevent third party “hackers” from illegally accessing our site or App and obtaining access to content or information thereon.
 
-**How Bearable stores your personal data**
-==========================================
+### **How Bearable stores your personal data**
 
 If you have an account with Bearable, your personal profile data (email address) is stored separately from your health (mood, symptoms, medication, your customised health factors) data and your service settings. This allows us to ensure the highest possible level of privacy for your health data. Your password is stored using one-way encryption (“hashing” plus “salting”).
 
 Your data is transmitted between your device and Bearable’s servers using the HTTPS protocol for encryption. HTTPS is the same technology used to create secure connections for your web browser and is indicated by a padlock icon in the URL bar of your browser.
 
-**Disclosure of your personal data** 
-=====================================
+### **Disclosure of your personal data** 
 
 We will share some of your personal data with third parties outside Bearable only where it is strictly necessary to provide our services to you, where required by law, where we have another legitimate interest to do so or where you specifically consent to it.  We will always seek legal advice prior to sharing this data and would always seek to disclose the minimum information necessary.  Personal data may be shared in the following circumstances:
 
@@ -181,8 +177,7 @@ We will share some of your personal data with third parties outside Bearable onl
 * to seek legal advice from Bearable’s external lawyers or in connection with litigation with a third party; or
 * in connection with the sale, purchase or merger of our business. 
 
-**Bearable’s recommendations for protecting your personal data**
-================================================================
+### **Bearable’s recommendations for protecting your personal data**
 
 We believe the biggest threat to the security and privacy of your personal data is if someone, probably someone you know, gains access to any of your devices. The data you enter into Bearable is private and it should stay that way. We have outlined some ways to keep your devices secure below.
 
@@ -228,7 +223,7 @@ Your data is safely stored on the secure Firestore database, which automatically
 
 The location of our Firestore is EU-West3 (Frankfurt, Germany).
 
-The Google Privacy Policy is available at [https://policies.google.com/privacy.](https://policies.google.com/privacy.)
+The Google Privacy Policy is available at [https://policies.google.com/privacy.](https://policies.google.com/privacy)
 
 For more information on app crash data, go to the information provided by Crashlytics at [https://try.crashlytics.com/terms/privacy-policy.pdf.](https://try.crashlytics.com/terms/privacy-policy.pdf.)
 
@@ -341,9 +336,7 @@ The Bearable App uses AppsFlyer, an analysis service offered by AppsFlyer Inc, 1
 
 You can object to the future collection and storage of your data by AppsFlyer at any time by following the corresponding instructions at [https://www.appsflyer.com/optout.](https://www.appsflyer.com/optout.)
 
-  
-
-Facebook  
+Facebook
 
 In our app, we use the Software Development Kit (SDK) from Facebook Inc. (Facebook), 1601 S. California Ave, Palo Alto, CA 94304, USA. 
 
@@ -351,9 +344,9 @@ In Bearable’s mobile application (App), we use the Software Development Kit (S
 
 By using the App, you consent to have non-personal data used and processed by Facebook as described above.
 
-You can find out more information about the Facebook SDK under iOS at [https://developers.facebook.com/docs/ios](https://developers.facebook.com/docs/ios). For Android here: [https://developers.facebook.com/docs/and](https://developers.facebook.com/docs/and).  
+You can find out more information about the Facebook SDK under iOS at [https://developers.facebook.com/docs/ios](https://developers.facebook.com/docs/ios). For Android here: [https://developers.facebook.com/docs/and](https://developers.facebook.com/docs/android/getting-started/).  
 
-You can withdraw your consent to use of this cookie at any time, however you will be unable to use the App.  
+You can withdraw your consent to use of this cookie at any time, however you will be unable to use the App.
 
 Marketing, Communications, Surveys and newsletter activities
 
@@ -422,7 +415,7 @@ Menu
 [Bearable](https://bearable.app/)
 ---------------------------------
 
-[![](https://bearable.app/wp-content/uploads/2020/11/cropped-logo.png)](https://bearable.app/)
+[![Bearable Logo](https://bearable.app/wp-content/uploads/2020/11/cropped-logo.png)](https://bearable.app/)
 
 ©2024 Bearable Ltd
 
