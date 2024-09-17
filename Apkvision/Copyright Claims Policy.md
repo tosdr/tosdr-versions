@@ -6,7 +6,7 @@
 * [Games](https://apkvision.org/games/)
 * [Apps](https://apkvision.org/app/)
 * [MOD APK](https://apkvision.org/mod/)
-* [Request](https://apkvision.org/request/)
+* [Order table](https://apkvision.org/request/)
 
 Dark mode
 
