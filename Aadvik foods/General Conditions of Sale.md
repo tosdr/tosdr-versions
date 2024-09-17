@@ -1,6 +1,6 @@
-![](https://www.facebook.com/tr?id=781049163457265&ev=PageView&noscript=1)        
+![](https://www.facebook.com/tr?id=781049163457265&ev=PageView&noscript=1)          
 
-             
+            
 
 [Skip to content](#MainContent)
 
@@ -63,7 +63,7 @@
         
     * [Camel Milk Benefits](https://aadvikfoods.com/products/camel-milk-powder)
     * [Goat Milk Benefits](https://aadvikfoods.com/products/goat-milk-powder)
-    * [Corporate Gifting](https://aadvikfoods.com/pages/gifitng)
+    * [Corporate Gifting](https://aadvikfoods.com/pages/gifting)
     
 
 [Log in](https://shopify.com/63037538544/account?locale=en)
@@ -113,7 +113,7 @@
         
     * [Camel Milk Benefits](https://aadvikfoods.com/products/camel-milk-powder)
     * [Goat Milk Benefits](https://aadvikfoods.com/products/goat-milk-powder)
-    * [Corporate Gifting](https://aadvikfoods.com/pages/gifitng)
+    * [Corporate Gifting](https://aadvikfoods.com/pages/gifting)
     
 
  Search [Log in](https://shopify.com/63037538544/account?locale=en) [Cart](https://aadvikfoods.com/cart)
@@ -126,8 +126,6 @@ Item added to your cart
 Check out
 
 Continue shopping
-
-[Home](https://aadvikfoods.com/ "Home") › Refund policy
 
 Refund policy
 =============
