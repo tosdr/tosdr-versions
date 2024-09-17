@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/inspiratie/alles-maar-even-groenwassen/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/nieuws/ook-ufo-bij-obamas-tweede-inauguratie/ "Feeling Lucky? »")
 
 Algemene voorwaarden WantToKnow aanbiedingen
 ============================================
