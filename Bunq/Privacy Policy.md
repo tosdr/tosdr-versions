@@ -77,18 +77,6 @@ All
 
 [Information Sheets](https://www.bunq.com/assets/media/legal/en/documents/information-sheets)
 
-[![](https://framerusercontent.com/images/R0LcO6NqpZTJjHILi6boqxmLw.svg)
-
-### Operational Resilience Policy
-
-![](https://framerusercontent.com/images/SMryyYe6l5qQvFLgWtjTDUnn0k.svg)](https://www.bunq.com/assets/media/legal/en/documents/operational-resilience-policy)
-
-[![](https://framerusercontent.com/images/J4i5bKR08B4tTV2n6q0RO19A.svg)
-
-### Pricing Sheet
-
-![](https://framerusercontent.com/images/SMryyYe6l5qQvFLgWtjTDUnn0k.svg)](https://www.bunq.com/assets/media/legal/en/documents/pricing)
-
 [![](https://framerusercontent.com/images/aCy9LjRkdr4DgnV7jLOmwa2L8.svg)
 
 ### Personal Account T&C
@@ -101,41 +89,53 @@ All
 
 ![](https://framerusercontent.com/images/SMryyYe6l5qQvFLgWtjTDUnn0k.svg)](https://www.bunq.com/assets/media/legal/en/documents/business-account)
 
-[![](https://framerusercontent.com/images/R0LcO6NqpZTJjHILi6boqxmLw.svg)
+[![](https://framerusercontent.com/images/aCy9LjRkdr4DgnV7jLOmwa2L8.svg)
 
-### Privacy Policy
+### API T&C
 
-![](https://framerusercontent.com/images/SMryyYe6l5qQvFLgWtjTDUnn0k.svg)](https://www.bunq.com/assets/media/legal/en/documents/privacy)
+![](https://framerusercontent.com/images/SMryyYe6l5qQvFLgWtjTDUnn0k.svg)](https://www.bunq.com/assets/media/legal/en/documents/api)
 
-[![](https://framerusercontent.com/images/R0LcO6NqpZTJjHILi6boqxmLw.svg)
+[![](https://framerusercontent.com/images/aCy9LjRkdr4DgnV7jLOmwa2L8.svg)
 
-### Cookie Statement
+### App Directory T&C
 
-![](https://framerusercontent.com/images/SMryyYe6l5qQvFLgWtjTDUnn0k.svg)](https://www.bunq.com/assets/media/legal/en/documents/cookies)
+![](https://framerusercontent.com/images/SMryyYe6l5qQvFLgWtjTDUnn0k.svg)](https://www.bunq.com/assets/media/legal/en/documents/app-directory)
 
-[![](https://framerusercontent.com/images/R0LcO6NqpZTJjHILi6boqxmLw.svg)
+[![](https://framerusercontent.com/images/aCy9LjRkdr4DgnV7jLOmwa2L8.svg)
 
-### Data Classification Policy
+### bunq.com T&C
 
-![](https://framerusercontent.com/images/SMryyYe6l5qQvFLgWtjTDUnn0k.svg)](https://www.bunq.com/assets/media/legal/en/documents/data-classification-policy)
+![](https://framerusercontent.com/images/SMryyYe6l5qQvFLgWtjTDUnn0k.svg)](https://www.bunq.com/assets/media/legal/en/documents/website)
 
-[![](https://framerusercontent.com/images/J4i5bKR08B4tTV2n6q0RO19A.svg)
+[![](https://framerusercontent.com/images/aCy9LjRkdr4DgnV7jLOmwa2L8.svg)
 
-### Depositor Information Sheet
+### bunq.me T&C
 
-![](https://framerusercontent.com/images/SMryyYe6l5qQvFLgWtjTDUnn0k.svg)](https://www.bunq.com/assets/media/legal/en/documents/dgs)
+![](https://framerusercontent.com/images/SMryyYe6l5qQvFLgWtjTDUnn0k.svg)](https://www.bunq.com/assets/media/legal/en/documents/bunq-me)
 
-[![](https://framerusercontent.com/images/R0LcO6NqpZTJjHILi6boqxmLw.svg)
+[![](https://framerusercontent.com/images/aCy9LjRkdr4DgnV7jLOmwa2L8.svg)
 
-### Environmental, Social and Governance Policy
+### Developer Website T&C
 
-![](https://framerusercontent.com/images/SMryyYe6l5qQvFLgWtjTDUnn0k.svg)](https://www.bunq.com/assets/media/legal/en/documents/environmental-social-and-governance)
+![](https://framerusercontent.com/images/SMryyYe6l5qQvFLgWtjTDUnn0k.svg)](https://www.bunq.com/assets/media/legal/en/documents/developer-website)
 
-[![](https://framerusercontent.com/images/J4i5bKR08B4tTV2n6q0RO19A.svg)
+[![](https://framerusercontent.com/images/aCy9LjRkdr4DgnV7jLOmwa2L8.svg)
 
-### Suspecting Fraud Information Sheet
+### iDIN T&C
 
-![](https://framerusercontent.com/images/SMryyYe6l5qQvFLgWtjTDUnn0k.svg)](https://www.bunq.com/assets/media/legal/en/documents/suspect-fraud)
+![](https://framerusercontent.com/images/SMryyYe6l5qQvFLgWtjTDUnn0k.svg)](https://www.bunq.com/assets/media/legal/en/documents/idin)
+
+[![](https://framerusercontent.com/images/aCy9LjRkdr4DgnV7jLOmwa2L8.svg)
+
+### Mastercard Chargeback T&C
+
+![](https://framerusercontent.com/images/SMryyYe6l5qQvFLgWtjTDUnn0k.svg)](https://www.bunq.com/assets/media/legal/en/documents/chargeback)
+
+[![](https://framerusercontent.com/images/aCy9LjRkdr4DgnV7jLOmwa2L8.svg)
+
+### Mobile Wallet T&C
+
+![](https://framerusercontent.com/images/SMryyYe6l5qQvFLgWtjTDUnn0k.svg)](https://www.bunq.com/assets/media/legal/en/documents/mobile-wallet)
 
 Load more
 
@@ -151,18 +151,6 @@ All
 
 [Information Sheets](https://www.bunq.com/assets/media/legal/en/documents/information-sheets)
 
-[![](https://framerusercontent.com/images/R0LcO6NqpZTJjHILi6boqxmLw.svg)
-
-### Operational Resilience Policy
-
-![](https://framerusercontent.com/images/SMryyYe6l5qQvFLgWtjTDUnn0k.svg)](https://www.bunq.com/assets/media/legal/en/documents/operational-resilience-policy)
-
-[![](https://framerusercontent.com/images/J4i5bKR08B4tTV2n6q0RO19A.svg)
-
-### Pricing Sheet
-
-![](https://framerusercontent.com/images/SMryyYe6l5qQvFLgWtjTDUnn0k.svg)](https://www.bunq.com/assets/media/legal/en/documents/pricing)
-
 [![](https://framerusercontent.com/images/aCy9LjRkdr4DgnV7jLOmwa2L8.svg)
 
 ### Personal Account T&C
@@ -175,41 +163,53 @@ All
 
 ![](https://framerusercontent.com/images/SMryyYe6l5qQvFLgWtjTDUnn0k.svg)](https://www.bunq.com/assets/media/legal/en/documents/business-account)
 
-[![](https://framerusercontent.com/images/R0LcO6NqpZTJjHILi6boqxmLw.svg)
+[![](https://framerusercontent.com/images/aCy9LjRkdr4DgnV7jLOmwa2L8.svg)
 
-### Privacy Policy
+### API T&C
 
-![](https://framerusercontent.com/images/SMryyYe6l5qQvFLgWtjTDUnn0k.svg)](https://www.bunq.com/assets/media/legal/en/documents/privacy)
+![](https://framerusercontent.com/images/SMryyYe6l5qQvFLgWtjTDUnn0k.svg)](https://www.bunq.com/assets/media/legal/en/documents/api)
 
-[![](https://framerusercontent.com/images/R0LcO6NqpZTJjHILi6boqxmLw.svg)
+[![](https://framerusercontent.com/images/aCy9LjRkdr4DgnV7jLOmwa2L8.svg)
 
-### Cookie Statement
+### App Directory T&C
 
-![](https://framerusercontent.com/images/SMryyYe6l5qQvFLgWtjTDUnn0k.svg)](https://www.bunq.com/assets/media/legal/en/documents/cookies)
+![](https://framerusercontent.com/images/SMryyYe6l5qQvFLgWtjTDUnn0k.svg)](https://www.bunq.com/assets/media/legal/en/documents/app-directory)
 
-[![](https://framerusercontent.com/images/R0LcO6NqpZTJjHILi6boqxmLw.svg)
+[![](https://framerusercontent.com/images/aCy9LjRkdr4DgnV7jLOmwa2L8.svg)
 
-### Data Classification Policy
+### bunq.com T&C
 
-![](https://framerusercontent.com/images/SMryyYe6l5qQvFLgWtjTDUnn0k.svg)](https://www.bunq.com/assets/media/legal/en/documents/data-classification-policy)
+![](https://framerusercontent.com/images/SMryyYe6l5qQvFLgWtjTDUnn0k.svg)](https://www.bunq.com/assets/media/legal/en/documents/website)
 
-[![](https://framerusercontent.com/images/J4i5bKR08B4tTV2n6q0RO19A.svg)
+[![](https://framerusercontent.com/images/aCy9LjRkdr4DgnV7jLOmwa2L8.svg)
 
-### Depositor Information Sheet
+### bunq.me T&C
 
-![](https://framerusercontent.com/images/SMryyYe6l5qQvFLgWtjTDUnn0k.svg)](https://www.bunq.com/assets/media/legal/en/documents/dgs)
+![](https://framerusercontent.com/images/SMryyYe6l5qQvFLgWtjTDUnn0k.svg)](https://www.bunq.com/assets/media/legal/en/documents/bunq-me)
 
-[![](https://framerusercontent.com/images/R0LcO6NqpZTJjHILi6boqxmLw.svg)
+[![](https://framerusercontent.com/images/aCy9LjRkdr4DgnV7jLOmwa2L8.svg)
 
-### Environmental, Social and Governance Policy
+### Developer Website T&C
 
-![](https://framerusercontent.com/images/SMryyYe6l5qQvFLgWtjTDUnn0k.svg)](https://www.bunq.com/assets/media/legal/en/documents/environmental-social-and-governance)
+![](https://framerusercontent.com/images/SMryyYe6l5qQvFLgWtjTDUnn0k.svg)](https://www.bunq.com/assets/media/legal/en/documents/developer-website)
 
-[![](https://framerusercontent.com/images/J4i5bKR08B4tTV2n6q0RO19A.svg)
+[![](https://framerusercontent.com/images/aCy9LjRkdr4DgnV7jLOmwa2L8.svg)
 
-### Suspecting Fraud Information Sheet
+### iDIN T&C
 
-![](https://framerusercontent.com/images/SMryyYe6l5qQvFLgWtjTDUnn0k.svg)](https://www.bunq.com/assets/media/legal/en/documents/suspect-fraud)
+![](https://framerusercontent.com/images/SMryyYe6l5qQvFLgWtjTDUnn0k.svg)](https://www.bunq.com/assets/media/legal/en/documents/idin)
+
+[![](https://framerusercontent.com/images/aCy9LjRkdr4DgnV7jLOmwa2L8.svg)
+
+### Mastercard Chargeback T&C
+
+![](https://framerusercontent.com/images/SMryyYe6l5qQvFLgWtjTDUnn0k.svg)](https://www.bunq.com/assets/media/legal/en/documents/chargeback)
+
+[![](https://framerusercontent.com/images/aCy9LjRkdr4DgnV7jLOmwa2L8.svg)
+
+### Mobile Wallet T&C
+
+![](https://framerusercontent.com/images/SMryyYe6l5qQvFLgWtjTDUnn0k.svg)](https://www.bunq.com/assets/media/legal/en/documents/mobile-wallet)
 
 Load more
 
@@ -224,18 +224,6 @@ All
 [Reports & Statements](https://www.bunq.com/assets/media/legal/en/documents/reports-statements)
 
 [Information Sheets](https://www.bunq.com/assets/media/legal/en/documents/information-sheets)
-
-[![](https://framerusercontent.com/images/R0LcO6NqpZTJjHILi6boqxmLw.svg)
-
-![](https://framerusercontent.com/images/SMryyYe6l5qQvFLgWtjTDUnn0k.svg)
-
-### Operational Resilience Policy](https://www.bunq.com/assets/media/legal/en/documents/operational-resilience-policy)
-
-[![](https://framerusercontent.com/images/J4i5bKR08B4tTV2n6q0RO19A.svg)
-
-![](https://framerusercontent.com/images/SMryyYe6l5qQvFLgWtjTDUnn0k.svg)
-
-### Pricing Sheet](https://www.bunq.com/assets/media/legal/en/documents/pricing)
 
 [![](https://framerusercontent.com/images/aCy9LjRkdr4DgnV7jLOmwa2L8.svg)
 
@@ -249,41 +237,53 @@ All
 
 ### Business Account T&C](https://www.bunq.com/assets/media/legal/en/documents/business-account)
 
-[![](https://framerusercontent.com/images/R0LcO6NqpZTJjHILi6boqxmLw.svg)
+[![](https://framerusercontent.com/images/aCy9LjRkdr4DgnV7jLOmwa2L8.svg)
 
 ![](https://framerusercontent.com/images/SMryyYe6l5qQvFLgWtjTDUnn0k.svg)
 
-### Privacy Policy](https://www.bunq.com/assets/media/legal/en/documents/privacy)
+### API T&C](https://www.bunq.com/assets/media/legal/en/documents/api)
 
-[![](https://framerusercontent.com/images/R0LcO6NqpZTJjHILi6boqxmLw.svg)
-
-![](https://framerusercontent.com/images/SMryyYe6l5qQvFLgWtjTDUnn0k.svg)
-
-### Cookie Statement](https://www.bunq.com/assets/media/legal/en/documents/cookies)
-
-[![](https://framerusercontent.com/images/R0LcO6NqpZTJjHILi6boqxmLw.svg)
+[![](https://framerusercontent.com/images/aCy9LjRkdr4DgnV7jLOmwa2L8.svg)
 
 ![](https://framerusercontent.com/images/SMryyYe6l5qQvFLgWtjTDUnn0k.svg)
 
-### Data Classification Policy](https://www.bunq.com/assets/media/legal/en/documents/data-classification-policy)
+### App Directory T&C](https://www.bunq.com/assets/media/legal/en/documents/app-directory)
 
-[![](https://framerusercontent.com/images/J4i5bKR08B4tTV2n6q0RO19A.svg)
-
-![](https://framerusercontent.com/images/SMryyYe6l5qQvFLgWtjTDUnn0k.svg)
-
-### Depositor Information Sheet](https://www.bunq.com/assets/media/legal/en/documents/dgs)
-
-[![](https://framerusercontent.com/images/R0LcO6NqpZTJjHILi6boqxmLw.svg)
+[![](https://framerusercontent.com/images/aCy9LjRkdr4DgnV7jLOmwa2L8.svg)
 
 ![](https://framerusercontent.com/images/SMryyYe6l5qQvFLgWtjTDUnn0k.svg)
 
-### Environmental, Social and Governance Policy](https://www.bunq.com/assets/media/legal/en/documents/environmental-social-and-governance)
+### bunq.com T&C](https://www.bunq.com/assets/media/legal/en/documents/website)
 
-[![](https://framerusercontent.com/images/J4i5bKR08B4tTV2n6q0RO19A.svg)
+[![](https://framerusercontent.com/images/aCy9LjRkdr4DgnV7jLOmwa2L8.svg)
 
 ![](https://framerusercontent.com/images/SMryyYe6l5qQvFLgWtjTDUnn0k.svg)
 
-### Suspecting Fraud Information Sheet](https://www.bunq.com/assets/media/legal/en/documents/suspect-fraud)
+### bunq.me T&C](https://www.bunq.com/assets/media/legal/en/documents/bunq-me)
+
+[![](https://framerusercontent.com/images/aCy9LjRkdr4DgnV7jLOmwa2L8.svg)
+
+![](https://framerusercontent.com/images/SMryyYe6l5qQvFLgWtjTDUnn0k.svg)
+
+### Developer Website T&C](https://www.bunq.com/assets/media/legal/en/documents/developer-website)
+
+[![](https://framerusercontent.com/images/aCy9LjRkdr4DgnV7jLOmwa2L8.svg)
+
+![](https://framerusercontent.com/images/SMryyYe6l5qQvFLgWtjTDUnn0k.svg)
+
+### iDIN T&C](https://www.bunq.com/assets/media/legal/en/documents/idin)
+
+[![](https://framerusercontent.com/images/aCy9LjRkdr4DgnV7jLOmwa2L8.svg)
+
+![](https://framerusercontent.com/images/SMryyYe6l5qQvFLgWtjTDUnn0k.svg)
+
+### Mastercard Chargeback T&C](https://www.bunq.com/assets/media/legal/en/documents/chargeback)
+
+[![](https://framerusercontent.com/images/aCy9LjRkdr4DgnV7jLOmwa2L8.svg)
+
+![](https://framerusercontent.com/images/SMryyYe6l5qQvFLgWtjTDUnn0k.svg)
+
+### Mobile Wallet T&C](https://www.bunq.com/assets/media/legal/en/documents/mobile-wallet)
 
 Load more
 
