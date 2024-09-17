@@ -299,7 +299,39 @@
 
 [Все новости](https://er.ru/activity/news)
 
-[![«Молодая Гвардия Единой России» доставила воду спецслужбам и жителям Станично-Луганского района, пострадавшим от пожара](https://cdn.er.ru/img/stubs/small/1.jpg)](https://er.ru/activity/news/molodaya-gvardiya-edinoj-rossii-dostavila-vodu-specsluzhbam-i-zhitelyam-stanichno-luganskogo-rajona-postradavshim-ot-pozhara)
+[![Госдума приняла в первом чтении законопроект «Единой России» об усилении защиты объектов ТЭК и транспортной инфраструктуры от атак беспилотников](https://cdn.er.ru/media/news/September2024/welrQ7TOScsjm4ZHlyMJ-small.jpg)](https://er.ru/activity/news/gosduma-prinyala-v-pervom-chtenii-zakonoproekt-edinoj-rossii-ob-usilenii-zashity-obektov-tek-i-transportnoj-infrastruktury-ot-atak-bespilotnikov)
+
+[Госдума приняла в первом чтении законопроект «Единой России» об усилении защиты объектов ТЭК и транспортной инфраструктуры от атак беспилотников](https://er.ru/activity/news/gosduma-prinyala-v-pervom-chtenii-zakonoproekt-edinoj-rossii-ob-usilenii-zashity-obektov-tek-i-transportnoj-infrastruktury-ot-atak-bespilotnikov)
+
+[#Станкевич](https://er.ru/activity/news?tags%5B0%5D=30771) [#фракцияЕР](https://er.ru/activity/news?tags%5B0%5D=110930) [#ТЭК](https://er.ru/activity/news?tags%5B0%5D=1363) [#БПЛА](https://er.ru/activity/news?tags%5B0%5D=1094194) [#законодательнаяинициативаЕР](https://er.ru/activity/news?tags%5B0%5D=152136) [#инфраструктура](https://er.ru/activity/news?tags%5B0%5D=1129)
+
+Сегодня 15:10
+
+[![Госдума приняла в первом чтении законопроект «Единой России» о защите пользователей платных интернет-подписок](https://cdn.er.ru/media/news/September2024/daw054EycNpNBoY0sPXL-small.jpg)](https://er.ru/activity/news/gosduma-prinyala-v-pervom-chtenii-zakonoproekt-edinoj-rossii-o-zashite-polzovatelej-platnyh-internet-podpisok)
+
+[Госдума приняла в первом чтении законопроект «Единой России» о защите пользователей платных интернет-подписок](https://er.ru/activity/news/gosduma-prinyala-v-pervom-chtenii-zakonoproekt-edinoj-rossii-o-zashite-polzovatelej-platnyh-internet-podpisok)
+
+[#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#Немкин](https://er.ru/activity/news?tags%5B0%5D=1092473) [#цифровыеподписки](https://er.ru/activity/news?tags%5B0%5D=1094420) [#законопроекты](https://er.ru/activity/news?tags%5B0%5D=863)
+
+Сегодня 14:49
+
+[![Депутаты фракции «Единой России» избраны председателями ряда комитетов Госдумы](https://cdn.er.ru/media/news/September2024/Lj3MncYST4IPiknS2dkF-small.jfif)](https://er.ru/activity/news/deputaty-frakcii-edinoj-rossii-izbrany-predsedatelyami-ryada-komitetov-gosdumy)
+
+[Депутаты фракции «Единой России» избраны председателями ряда комитетов Госдумы](https://er.ru/activity/news/deputaty-frakcii-edinoj-rossii-izbrany-predsedatelyami-ryada-komitetov-gosdumy)
+
+[#Матыцин](https://er.ru/activity/news?tags%5B0%5D=143995) [#Казакова](https://er.ru/activity/news?tags%5B0%5D=30356) [#Белых](https://er.ru/activity/news?tags%5B0%5D=9569) [#Шульгинов](https://er.ru/activity/news?tags%5B0%5D=1095570) [#фракцияЕР](https://er.ru/activity/news?tags%5B0%5D=126717)
+
+Сегодня 13:58
+
+[![Депутат Госдумы от «Единой России» Виктория Абрамченко избрана вице-спикером Госдумы](https://cdn.er.ru/media/news/September2024/SLaxerKw9Amxk4GdGgIT-small.jpg)](https://er.ru/activity/news/deputat-gosdumy-ot-edinoj-rossii-viktoriya-abramchenko-izbrana-vice-spikerom-gosdumy)
+
+[Депутат Госдумы от «Единой России» Виктория Абрамченко избрана вице-спикером Госдумы](https://er.ru/activity/news/deputat-gosdumy-ot-edinoj-rossii-viktoriya-abramchenko-izbrana-vice-spikerom-gosdumy)
+
+[#Абрамченко](https://er.ru/activity/news?tags%5B0%5D=88828) [#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#вице-спикер](https://er.ru/activity/news?tags%5B0%5D=8985) [#избрание](https://er.ru/activity/news?tags%5B0%5D=416) [#фракцияЕР](https://er.ru/activity/news?tags%5B0%5D=110930)
+
+Сегодня 13:51
+
+[![«Молодая Гвардия Единой России» доставила воду спецслужбам и жителям Станично-Луганского района, пострадавшим от пожара](https://cdn.er.ru/media/news/September2024/m11FqeQfIDCq7fgyBUMF-small.jpg)](https://er.ru/activity/news/molodaya-gvardiya-edinoj-rossii-dostavila-vodu-specsluzhbam-i-zhitelyam-stanichno-luganskogo-rajona-postradavshim-ot-pozhara)
 
 [«Молодая Гвардия Единой России» доставила воду спецслужбам и жителям Станично-Луганского района, пострадавшим от пожара](https://er.ru/activity/news/molodaya-gvardiya-edinoj-rossii-dostavila-vodu-specsluzhbam-i-zhitelyam-stanichno-luganskogo-rajona-postradavshim-ot-pozhara)
 
@@ -307,45 +339,13 @@
 
 Сегодня 12:49
 
-[![Анна Кузнецова: «Единая Россия» в осеннюю сессию продолжит работу по поддержке семей и защите материнства и детства](https://cdn.er.ru/media/news/September2024/KvHN6F0P0bMec2SITUN5-small.jpg)](https://er.ru/activity/news/anna-kuznecova-edinaya-rossiya-v-osennyuyu-sessiyu-prodolzhit-rabotu-po-podderzhke-semej-i-zashite-materinstva-i-detstva)
+[![«Единая Россия» дала старт Всероссийской акции помощи бездомным животным «Лучший друг»](https://cdn.er.ru/media/news/September2024/OLdEMBXMl1Anf3zeMjmd-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-dala-start-vserossijskoj-akcii-pomoshi-bezdomnym-zhivotnym-luchshij-drug)
 
-[Анна Кузнецова: «Единая Россия» в осеннюю сессию продолжит работу по поддержке семей и защите материнства и детства](https://er.ru/activity/news/anna-kuznecova-edinaya-rossiya-v-osennyuyu-sessiyu-prodolzhit-rabotu-po-podderzhke-semej-i-zashite-materinstva-i-detstva)
+[«Единая Россия» дала старт Всероссийской акции помощи бездомным животным «Лучший друг»](https://er.ru/activity/news/edinaya-rossiya-dala-start-vserossijskoj-akcii-pomoshi-bezdomnym-zhivotnym-luchshij-drug)
 
-[#Кузнецова](https://er.ru/activity/news?tags%5B0%5D=4127) [#фракцияЕР](https://er.ru/activity/news?tags%5B0%5D=126717) [#семьисдетьми](https://er.ru/activity/news?tags%5B0%5D=136562) [#маткапитал](https://er.ru/activity/news?tags%5B0%5D=4187) [#социальныеинициативы](https://er.ru/activity/news?tags%5B0%5D=140070) [#поддержкасемейсдетьми](https://er.ru/activity/news?tags%5B0%5D=143839) [#семьиучастниковСВО](https://er.ru/activity/news?tags%5B0%5D=1093476) [#льготнаяипотека](https://er.ru/activity/news?tags%5B0%5D=136631) [#социальныеобязательства](https://er.ru/activity/news?tags%5B0%5D=123666) [#бюджет](https://er.ru/activity/news?tags%5B0%5D=112) [#нацпроекты](https://er.ru/activity/news?tags%5B0%5D=127007)
+[#Занко](https://er.ru/activity/news?tags%5B0%5D=1092667) [#лучшийдруг](https://er.ru/activity/news?tags%5B0%5D=136321) [#акция](https://er.ru/activity/news?tags%5B0%5D=238) [#приютдляживотных](https://er.ru/activity/news?tags%5B0%5D=126585) [#ЕРпомогает](https://er.ru/activity/news?tags%5B0%5D=146978) [#Защитаживотногомира](https://er.ru/activity/news?tags%5B0%5D=1092835) [#партпроекты](https://er.ru/activity/news?tags%5B0%5D=1090407)
 
-Сегодня 11:31
-
-[![Александр Жуков: Особенность бюджета на предстоящую трёхлетку – усиление поддержки регионов](https://cdn.er.ru/media/news/September2024/xEUu0IyKGOKs9pzNykie-small.jpg)](https://er.ru/activity/news/aleksandr-zhukov-osobennost-byudzheta-na-predstoyashuyu-tryohletku-usilenie-podderzhki-regionov)
-
-[Александр Жуков: Особенность бюджета на предстоящую трёхлетку – усиление поддержки регионов](https://er.ru/activity/news/aleksandr-zhukov-osobennost-byudzheta-na-predstoyashuyu-tryohletku-usilenie-podderzhki-regionov)
-
-[#Жуков](https://er.ru/activity/news?tags%5B0%5D=824) [#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#ФракцияЕР](https://er.ru/activity/news?tags%5B0%5D=1090016) [#законодательство](https://er.ru/activity/news?tags%5B0%5D=692) [#бюджет](https://er.ru/activity/news?tags%5B0%5D=112)
-
-Сегодня 11:28
-
-[![Дмитрий Вяткин: «Единая Россия» прорабатывает с Правительством 15 законодательных инициатив по поддержке участников СВО](https://cdn.er.ru/media/news/September2024/rI6Rx77o1NwyjhBrV1on-small.jpg)](https://er.ru/activity/news/dmitrij-vyatkin-edinaya-rossiya-prorabatyvaet-s-pravitelstvom-15-zakonodatelnyh-iniciativ-po-podderzhke-uchastnikov-svo)
-
-[Дмитрий Вяткин: «Единая Россия» прорабатывает с Правительством 15 законодательных инициатив по поддержке участников СВО](https://er.ru/activity/news/dmitrij-vyatkin-edinaya-rossiya-prorabatyvaet-s-pravitelstvom-15-zakonodatelnyh-iniciativ-po-podderzhke-uchastnikov-svo)
-
-[#Вяткин](https://er.ru/activity/news?tags%5B0%5D=1653) [#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#законопроект](https://er.ru/activity/news?tags%5B0%5D=116) [#законотворчество](https://er.ru/activity/news?tags%5B0%5D=10327) [#СВО](https://er.ru/activity/news?tags%5B0%5D=1092872) [#спецоперация](https://er.ru/activity/news?tags%5B0%5D=1092566) [#поддержкавоеннослужащих](https://er.ru/activity/news?tags%5B0%5D=1094152) [#поддержкасемейвоеннослужащих](https://er.ru/activity/news?tags%5B0%5D=1093581)
-
-Сегодня 11:12
-
-[![«Единая Россия» и фонд «Наша Правда» передали в военный госпиталь им. Вишневского аппарат УЗИ](https://cdn.er.ru/media/news/September2024/ViQQsJNfytIKf4DIP6iA-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-i-fond-nasha-pravda-peredali-v-voennyj-gospital-im-vishnevskogo-apparat-uzi)
-
-[«Единая Россия» и фонд «Наша Правда» передали в военный госпиталь им. Вишневского аппарат УЗИ](https://er.ru/activity/news/edinaya-rossiya-i-fond-nasha-pravda-peredali-v-voennyj-gospital-im-vishnevskogo-apparat-uzi)
-
-[#Лантратова](https://er.ru/activity/news?tags%5B0%5D=1607) [#Стенякина](https://er.ru/activity/news?tags%5B0%5D=26293) [#военныйгоспиталь](https://er.ru/activity/news?tags%5B0%5D=150403) [#медоборудование](https://er.ru/activity/news?tags%5B0%5D=141228) [#реабилитация](https://er.ru/activity/news?tags%5B0%5D=3765)
-
-16.09.24
-
-[![«Единая Россия» и МГЕР помогают пострадавшим от пожаров жителям ЛНР](https://cdn.er.ru/media/news/September2024/QCpwjmOp3Uh7dfU1HdyM-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-i-mger-pomogayut-postradavshim-ot-pozharov-zhitelyam-lnr)
-
-[«Единая Россия» и МГЕР помогают пострадавшим от пожаров жителям ЛНР](https://er.ru/activity/news/edinaya-rossiya-i-mger-pomogayut-postradavshim-ot-pozharov-zhitelyam-lnr)
-
-[#Луганская Народная Республика](https://er.ru/activity/news?tags%5B0%5D=126130) [#пожары](https://er.ru/activity/news?tags%5B0%5D=165) [#МГЕР](https://er.ru/activity/news?tags%5B0%5D=38581) [#МолодаяГвардияЕдинойРоссии](https://er.ru/activity/news?tags%5B0%5D=1094676) [#МолодаяГвардия](https://er.ru/activity/news?tags%5B0%5D=106617) [#поддержка](https://er.ru/activity/news?tags%5B0%5D=519) [#Голубович](https://er.ru/activity/news?tags%5B0%5D=1093502) [#Водолацкий](https://er.ru/activity/news?tags%5B0%5D=8468)
-
-16.09.24
+Сегодня 12:00
 
 ![Сайт президента РФ](https://cdn.er.ru/media/sites/July2020/7T7J24LxtsdGGJVk1lL0.jpg)
 
