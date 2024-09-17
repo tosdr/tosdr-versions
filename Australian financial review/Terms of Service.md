@@ -305,15 +305,16 @@ Advertise
 [BOSS Financial Review](https://www.afr.com/boss)
 -------------------------------------------------
 
-[![ ](https://static.ffx.io/images/$zoom_0.6623%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/13720cd435a985d8297e1478446d8c5fe0b876cc)](https://www.afr.com/work-and-careers/leaders/what-this-ceo-learnt-from-mike-cannon-brookes-and-scott-farquhar-20240913-p5kach)
+[![Tabcorp chief executive Gillon McLachlan has ordered staff back to the office five days a week.](https://static.ffx.io/images/$zoom_0.529%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_136%2C$y_5/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/0c019a24f752c195182e2deaa510b121dc105721)](https://www.afr.com/work-and-careers/workplace/tabcorp-ceo-gill-mclachlan-orders-staff-back-to-office-five-days-a-week-20240909-p5k8xt)
 
-### [What this CEO learnt from Mike Cannon-Brookes and Scott Farquhar](https://www.afr.com/work-and-careers/leaders/what-this-ceo-learnt-from-mike-cannon-brookes-and-scott-farquhar-20240913-p5kach)
+### [Tabcorp CEO Gill McLachlan orders staff back to office five days a week](https://www.afr.com/work-and-careers/workplace/tabcorp-ceo-gill-mclachlan-orders-staff-back-to-office-five-days-a-week-20240909-p5k8xt)
 
-* Sally Patten and Lap Phan
+* 40 mins ago
+* Euan Black and Patrick Durkin
 
-* ### [Meet the lithium high-climber taking on the short sellers](https://www.afr.com/work-and-careers/leaders/meet-the-lithium-high-climber-taking-on-the-short-sellers-20240828-p5k5y7)
+* ### [What this CEO learnt from Mike Cannon-Brookes and Scott Farquhar](https://www.afr.com/work-and-careers/leaders/what-this-ceo-learnt-from-mike-cannon-brookes-and-scott-farquhar-20240913-p5kach)
     
-* ### [The one family rule these married co-CEOs (and ex-EY execs) stick to](https://www.afr.com/work-and-careers/leaders/the-one-family-rule-these-married-co-ceos-stick-to-20240814-p5k2eh)
+* ### [Meet the lithium high-climber taking on the short sellers](https://www.afr.com/work-and-careers/leaders/meet-the-lithium-high-climber-taking-on-the-short-sellers-20240828-p5k5y7)
     
 
 [Life & Leisure](https://www.afr.com/life-and-leisure)
@@ -321,7 +322,7 @@ Advertise
 
 [![ ](https://static.ffx.io/images/$zoom_0.7575%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_705%2C$y_463/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/dbcb0104fd9286656133f89b33655e896c68229e)](https://www.afr.com/technology/new-asus-notebook-falls-short-of-great-expectations-20240912-p5k9z0)
 
-### [New Asus notebook falls short of great expectations](https://www.afr.com/technology/new-asus-notebook-falls-short-of-great-expectations-20240912-p5k9z0)
+### [New notebook falls short of great expectations](https://www.afr.com/technology/new-asus-notebook-falls-short-of-great-expectations-20240912-p5k9z0)
 
 * John Davidson
 
