@@ -39,9 +39,9 @@ editorial \_
 
 coverstory \_
 
-[![Desert-Inspired 'Agave' Camper Van Ticks All the Right Boxes for Full-Time Van Life](https://s1.cdn.autoevolution.com/images/news/desert-inspired-agave-camper-van-ticks-all-the-right-boxes-for-full-time-van-life-239870-5.jpg "Desert-Inspired 'Agave' Camper Van Ticks All the Right Boxes for Full-Time Van Life")
+[![2024 Dodge Charger Daytona Will Soon Drag Race Everybody in America, Comes Bearing Gifts](https://s1.cdn.autoevolution.com/images/news/2024-dodge-charger-daytona-will-soon-drag-race-everybody-in-america-comes-bearing-gifts-239882-5.jpg "2024 Dodge Charger Daytona Will Soon Drag Race Everybody in America, Comes Bearing Gifts")
 
-Desert-Inspired 'Agave' Camper Van Ticks All the Right Boxes for Full-Time Van Life](https://www.autoevolution.com/news/desert-inspired-agave-camper-van-ticks-all-the-right-boxes-for-full-time-van-life-239870.html)
+2024 Dodge Charger Daytona Will Soon Drag Race Everybody in America, Comes Bearing Gifts](https://www.autoevolution.com/news/2024-dodge-charger-daytona-will-soon-drag-race-everybody-in-america-comes-bearing-gifts-239882.html)
 
 how-to \_
 
