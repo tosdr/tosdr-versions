@@ -504,6 +504,8 @@ OPM SORN Central-23 FEHB Program Enrollment ([89 FR 72902](https://www.federalre
 
 OPM SORN Central-26 FEDVIP FLTCIP FSAFEDS Records ([87 FR 36889](https://www.federalregister.gov/documents/2022/06/21/2022-13216/privacy-act-of-1974-system-of-records "OPM SORN Central-26 FEDVIP FLTCIP FSAFEDS Records (87 FR 36889)"))
 
+OPM SORN Central-27 FEHB Disputed Claims and Complaints Records ([87 FR 49891](https://www.federalregister.gov/documents/2022/08/12/2022-17392/privacy-act-of-1974-system-of-records))
+
 [OPM SORN CENTRAL-X-Federal Competency Assessment Tool](https://www.opm.gov/information-management/privacy-policy/sorn/opm-sorn-central-x-federal-competency-assessment-tool.pdf "OPM SORN CENTRAL-X-Federal Competency Assessment Tool")
 
 [OPM SORN GOVT-1 General Personnel Records](https://www.opm.gov/information-management/privacy-policy/sorn/opm-sorn-govt-1-general-personnel-records.pdf "OPM SORN GOVT-1 General Personnel Records")
