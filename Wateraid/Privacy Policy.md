@@ -95,11 +95,9 @@ Because we want to demonstrate our commitment to your privacy, this Privacy Poli
 
 What information we collect and how we use that information:
 
-We collect two types of information, Standard Web server traffic pattern information, and information collected through our registration forms and when you make a donation via the Web site. Standard web server traffic pattern information is comprised of general traffic, site usage, and length of stay information which is collected and stored in log files. This type of information is shared externally, if at all, only on an aggregated basis.
+We collect two types of information, standard web server traffic pattern information, and information collected through our registration forms and when you make a donation via the Web site. Standard web server traffic pattern information is comprised of general traffic, site usage, and length of stay information, clicks and other metrics of interaction, which is collected and stored in log files. This type of information is shared externally, if at all, only on an aggregated basis for analytics purposes.
 
 Our registration forms require users to give us contact information that may include name, email address, format preference (HTML vs. Text), mailing address, phone numbers, interests, and similar information. We use this information to contact you should there be a question about your donation and we also use this information to personalize communications to you to keep you informed about our programs and progress. We will use your email address to contact you about our programs unless you opt out in accordance with this Policy. We do not request or store sensitive information from our visitors, such as credit card or social security numbers. WaterAid America may keep a record of which links you click within emails in order to gauge the effectiveness of email marketing.
-
-Like many other non-profits, WaterAid America shares basic user information with other non-profits to better serve our users and the mission. If you do not wish to share this information, you may opt out by contacting us at [\[email protected\]](https://www.wateraid.org/cdn-cgi/l/email-protection).
 
 If you do not wish to receive these communications, or if you would like to change the frequency or types of communications you receive from us, simply click the unsubscribe link in any email or contact us and we will be pleased to respect your wishes.
 
@@ -159,7 +157,7 @@ Your California privacy rights:
 
 If you are a resident of California, you are entitled to request the following information which we will provide to you free of charge:
 
-A list of the types of personal information which we disclose to third-parties for direct marketing purposes in the preceding calendar year;
+ - A list of the types of personal information which we disclose to third-parties for direct marketing purposes in the preceding calendar year;
 
 The names and addresses of all third parties that receive personal information in these categories from us in the preceding calendar year and examples of the products or services marketed by these businesses.
 
