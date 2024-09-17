@@ -72,8 +72,8 @@
     * [Music](https://www.epsomcollege.org.uk/learning/music/)
     * [Sport](https://www.epsomcollege.org.uk/learning/sport/)
     * [Clubs, Societies & Activities](https://www.epsomcollege.org.uk/learning/clubs-societies-activities/)
-    * [Exam Results & Destinations](https://www.epsomcollege.org.uk/learning/exam-results-destinations/)
     * [Careers & Higher Education](https://www.epsomcollege.org.uk/learning/careers-higher-education/)
+    * [Exam Results & Destinations](https://www.epsomcollege.org.uk/learning/exam-results-destinations/)
     * [Academic Support](https://www.epsomcollege.org.uk/learning/academic-support/)
     
 
@@ -101,12 +101,7 @@
     * [Calendar](https://www.epsomcollege.org.uk/whats-on/calendar/)
     * [Fixtures](https://www.epsomcollege.org.uk/whats-on/fixtures/)
     * [Results](https://www.epsomcollege.org.uk/whats-on/results/)
-    * [Conferences](https://www.epsomcollege.org.uk/whats-on/conferences/)
-        * [AI in Education: Cut Through The Noise](https://www.epsomcollege.org.uk/whats-on/conferences/ai-in-education-cut-through-the-noise/)
-        * [AI In Education](https://www.epsomcollege.org.uk/whats-on/conferences/ai-in-education/)
-        * [Character Education](https://www.epsomcollege.org.uk/whats-on/conferences/character-education/)
-        * [Mental Health & Wellbeing Conference](https://www.epsomcollege.org.uk/whats-on/conferences/mental-health-wellbeing-conference/)
-    * [Summer Camps](https://www.epsomcollege.org.uk/whats-on/summer-camps/)
+    * [Summer & Easter Holiday Camps](https://www.epsomcollege.org.uk/whats-on/summer-camps/)
     
 
 * [Back](#)
@@ -146,7 +141,7 @@ Our website address is: https://www.epsomcollege.org.uk.
 
 This policy explains how Epsom College collects and uses information via its website. Please click on the following links for more information on how the College uses information about pupils and parents.
 
-[Privacy Notice for Parents](https://www.epsomcollege.org.uk/download/1871/?tmstv=1726558556) [Privacy Notice for Pupils](https://www.epsomcollege.org.uk/download/1874/?tmstv=1726558556) [Privacy Notice for Customers & Suppliers](https://www.epsomcollege.org.uk/download/1868/?tmstv=1726558556) [Privacy Notice for Alumni](https://www.epsomcollege.org.uk/download/1865/?tmstv=1726558556)
+[Privacy Notice for Parents](https://www.epsomcollege.org.uk/download/1871/?tmstv=1726580103) [Privacy Notice for Pupils](https://www.epsomcollege.org.uk/download/1874/?tmstv=1726580103) [Privacy Notice for Customers & Suppliers](https://www.epsomcollege.org.uk/download/1868/?tmstv=1726580103) [Privacy Notice for Alumni](https://www.epsomcollege.org.uk/download/1865/?tmstv=1726580103)
 
 For further information, to receive support or make a complaint relating to the College’s use of your personal data please contact our Bursar, Mr Paul Ratcliffe at [bursar@epsomcollege.org.uk](mailto:bursar@epsomcollege.org.uk)
 
