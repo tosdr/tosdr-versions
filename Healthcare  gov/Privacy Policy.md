@@ -60,6 +60,7 @@ Search icon
         * [Health coverage & your taxes](https://www.healthcare.gov/taxes)
         * [Tax Form 1095-A](https://www.healthcare.gov/tax-form-1095)
         * ['Reconcile' tax credit](https://www.healthcare.gov/taxes-reconciling)
+    * [Browse all topics](https://www.healthcare.gov/topics)
 * [Get Answers](https://www.healthcare.gov/get-answers)
 
 * [Español](https://www.cuidadodesalud.gov/es/privacy/)
@@ -127,11 +128,11 @@ Taxes
 
 Featured
 
-![parents holding baby](/assets/learn/static/featured/parents-with-baby-resized.jpg "parents holding baby")
+![](/assets/learn/static/featured/smiling-friends-group.jpg "Smiling group of friends")
 
-Find out if you qualify for a Special Enrollment Period
+2025 Open Enrollment starts soon
 
-[Open Enrollment is over, but you may still be able to get or change health coverage for this year.](https://www.healthcare.gov/coverage-outside-open-enrollment/your-options/)
+[Open Enrollment for 2025 runs November 1, 2024–January 15, 2025. Get Open Enrollment tips.](https://www.healthcare.gov/quick-guide/)
 
 [Get Answers](https://www.healthcare.gov/get-answers/)
 
@@ -140,7 +141,7 @@ Search
 Health Insurance Marketplace® Privacy Policy
 ============================================
 
-[Email](mailto:?subject=Health%20Insurance%20Marketplace%C2%AE%20Privacy%20Policy&body=https%3A%2F%2Fwww.healthcare.gov%2Fprivacy%2F)Print
+[Email this pageEmail](mailto:?subject=Health%20Insurance%20Marketplace%C2%AE%20Privacy%20Policy&body=https%3A%2F%2Fwww.healthcare.gov%2Fprivacy%2F)Print this pagePrint
 
 Protecting your privacy is very important to us. We’re telling you about our privacy policy so you know what information we collect, why we collect it, and what we do with it. This privacy notice is for HealthCare.gov, CuidadoDeSalud.gov, and other HealthCare.gov subdomains such as LocalHelp.HealthCare.gov. These sites are referred to as the "Health Insurance Marketplace®" or simply "Marketplace" throughout the rest of this notice and are maintained and operated by the Centers for Medicare & Medicaid Services (CMS). This privacy notice aligns with the CMS [Privacy Policy](https://www.cms.gov/privacy).
 
@@ -567,7 +568,7 @@ If you would like more information about the application of the Privacy Act at C
 
 Updated: July 29, 2024
 
-[Email](mailto:?subject=Health%20Insurance%20Marketplace%C2%AE%20Privacy%20Policy&body=https%3A%2F%2Fwww.healthcare.gov%2Fprivacy%2F)Print
+[Email this pageEmail](mailto:?subject=Health%20Insurance%20Marketplace%C2%AE%20Privacy%20Policy&body=https%3A%2F%2Fwww.healthcare.gov%2Fprivacy%2F)Print this pagePrint
 
 [Back to top](#top)
 
