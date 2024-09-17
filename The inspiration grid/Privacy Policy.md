@@ -291,6 +291,18 @@ Latest
 inspiration
 -----------
 
+![](https://inspgr.id/app/uploads/2024/09/art-kwangho-shin-feature.jpg)
+
+[](https://theinspirationgrid.com/expressive-portrait-paintings-by-kwangho-shin/)
+
+### Expressive Portrait Paintings by KwangHo Shin
+
+![](https://inspgr.id/app/uploads/2024/09/photography-darius-voncel-feature.jpg)
+
+[](https://theinspirationgrid.com/beauty-photography-by-darius-voncel/)
+
+### Beauty Photography by Darius Voncel
+
 ![](https://inspgr.id/app/uploads/2024/09/typography-gabriel-pang-feature.jpg)
 
 [](https://theinspirationgrid.com/food-type-typographic-creations-by-gabriel-pang/)
@@ -326,18 +338,6 @@ inspiration
 [](https://theinspirationgrid.com/handcrafted-metal-leather-engravings-by-stacey-grace/)
 
 ### Handcrafted Metal & Leather Engravings by Stacey Grace
-
-![](https://inspgr.id/app/uploads/2024/09/illustration-marysia-june-feature.jpg)
-
-[](https://theinspirationgrid.com/mystical-stories-illustrations-by-marysia-june/)
-
-### Mystical Stories: Illustrations by Marysia June
-
-![](https://inspgr.id/app/uploads/2024/09/art-dustin-yellin-feature.jpg)
-
-[](https://theinspirationgrid.com/pyschogeographies-sculptural-glass-collages-by-dustin-yellin/)
-
-### Psychogeographies: Sculptural Glass Collages by Dustin Yellin
 
 Awesome products for creatives
 ------------------------------
