@@ -305,14 +305,16 @@ The place for ready-to-use ESL lesson plans for teaching online and offline.
 
 ### New Lessons
 
+* [How good is your memory?](https://eslbrains.com/how-good-is-your-memory/ "How good is your memory?")
 * [Ethical dilemmas in science](https://eslbrains.com/ethical-dilemmas-in-science/ "Ethical dilemmas in science")
 * [How about a tattoo?](https://eslbrains.com/how-about-a-tattoo/ "How about a tattoo?")
 * [In a league of your own](https://eslbrains.com/in-a-league-of-your-own/ "In a league of your own")
-* [At your own risk](https://eslbrains.com/at-your-own-risk/ "At your own risk")
 
 © ESL Brains 2023
 
 [](https://www.instagram.com/esl_brains)[](https://facebook.com/ted4esl)
+
+![](https://www.facebook.com/tr?id=185525776077626&ev=PageView&noscript=1&cd%5Bpage_title%5D=Terms+and+Conditions&cd%5Bpost_type%5D=page&cd%5Bpost_id%5D=7643&cd%5Bplugin%5D=PixelYourSite&cd%5Buser_role%5D=guest&cd%5Bevent_url%5D=eslbrains.com%2Fterms-and-conditions%2F)
 
                           
 
