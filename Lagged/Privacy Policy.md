@@ -249,9 +249,9 @@ Games you might like
 
 [Minecraft Online](https://lagged.com/en/g/minecraft-online) ![Minecraft Online Game](https://imgs2.dab3games.com/minecraft-game-online-ft.png)
 
-[Temple Adventure](https://lagged.com/en/g/temple-adventure) ![Temple Adventure Game](https://imgs2.dab3games.com/tomb-run-2.png) top rated
-
 [Stair Race 3D](https://lagged.com/en/g/stair-race-3d) ![Stair Race 3D Game](https://imgs2.dab3games.com/stair-race-3d-game-ft.png)
+
+[Temple Adventure](https://lagged.com/en/g/temple-adventure) ![Temple Adventure Game](https://imgs2.dab3games.com/tomb-run-2.png) top rated
 
 [Lagged.com](https://lagged.com/ "Lagged.com")
 
