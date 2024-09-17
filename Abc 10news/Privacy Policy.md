@@ -1,6 +1,6 @@
                  
 
-       
+      
 
 [![KGTV - San Diego, California ](https://ewscripps.brightspotcdn.com/dims4/default/8fa2f92/2147483647/strip/true/crop/313x133+0+0/resize/313x133!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2F1d%2F31%2Fc7873a9e4593b872000d91a92e80%2Fmain-logo.png)](https://www.10news.com/)
 
