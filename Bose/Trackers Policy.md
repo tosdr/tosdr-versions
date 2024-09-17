@@ -1,8 +1,6 @@
-[Skip to main content](#maincontent) [Skip to footer content](#footercontent)
+[Skip to main content](#maincontent) [Skip to Support Chat](#) [Skip to footer content](#footercontent) [Skip to Accessibility Statement](https://www.bose.com/legal/accessibility)
 
 Vibe more, pause less with Ultra Open Earbuds. [Shop](https://www.bose.com/ULT-HEADPHONEOPN.html)
-
-Enter our diamond-studded giveaway. [Learn more.](https://www.bose.com/60th-anniversary-diamond-giveaway)
 
 Sign up for texts & get an extra 10% off Certified Refurbished products. [Sign up](https://cloud.email.bose.com/sms-sign-up).
 
@@ -184,7 +182,7 @@ ULTRA OPEN EARBUDS
 
 ### Hear it all. All the time.](https://www.bose.com/en_us/legal/p/ULT-HEADPHONEOPN.html "Shop")
 
-[![Bose](/on/demandware.static/Sites-Bose_US-Site/-/default/dwf37c584d/images/logo.svg)](https://www.bose.com/home "Bose Home")
+[![Bose](/on/demandware.static/Sites-Bose_US-Site/-/default/dw2d50f876/images/logo.svg)](https://www.bose.com/home "Bose Home")
 
 [](https://www.bose.com/login?oauthProvider=Azure-AD-B2C "Sign In/Join my Bose")[](https://www.bose.com/wishlist "Wish list")
 
