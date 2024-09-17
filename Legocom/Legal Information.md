@@ -19,7 +19,7 @@
 1. [LEGO.com](https://www.lego.com/en-us "LEGO.com")
 2. [Legal](https://www.lego.com/en-us/legal "Legal")
 3. [Notices & Policies](https://www.lego.com/en-us/legal/notices-and-policies "Notices & Policies")
-4. [Legal Notice](https://www.lego.com/notices-and-policies/legal-notice "Legal Notice")
+4. Legal Notice
 
 Legal Notice
 ============
