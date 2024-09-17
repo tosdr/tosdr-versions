@@ -14,7 +14,7 @@
 
 * [ ]  Shop Toggle Shop Menu
     
-    [Mattresses](https://www.tempurpedic.com/shop-mattresses/ "Shop ")[Bed Bases](https://www.tempurpedic.com/bases-and-foundations/ "Shop ")[Pillows](https://www.tempurpedic.com/shop-pillows/ "Shop ")[Toppers](https://www.tempurpedic.com/other-products/tempur-toppers/ "Shop ")[Bedding](https://www.tempurpedic.com/bedding/ "Shop ")[More from Tempur](https://www.tempurpedic.com/other-products/ "Shop ")[](https://www.tempurpedic.com/shop-mattresses/breeze-closeouts/ "Shop ")
+    [Mattresses](https://www.tempurpedic.com/shop-mattresses/ "Shop ")[Bed Bases](https://www.tempurpedic.com/bases-and-foundations/ "Shop ")[Pillows](https://www.tempurpedic.com/shop-pillows/ "Shop ")[Toppers](https://www.tempurpedic.com/other-products/tempur-toppers/ "Shop ")[Bedding](https://www.tempurpedic.com/bedding/ "Shop ")[More from Tempur](https://www.tempurpedic.com/other-products/ "Shop ")[](https://www.tempurpedic.com/other-products/tempur-toppers/ "Shop ")
     
 * [ ]  Explore Toggle Explore Menu
     
@@ -35,7 +35,7 @@ Mattresses](https://www.tempurpedic.com/shop-mattresses/)[$300 Gift
 
 ![Tempur Adjustable Base](https://assets-www.tempurpedic.com/media/images/368x160_NavBasesV2.width-300.png)
 
-Bed Bases](https://www.tempurpedic.com/bases-and-foundations/)[BOGO
+Bed Bases](https://www.tempurpedic.com/bases-and-foundations/)[2 for $99
 
 ![Tempur-Cloud Adjustable Pillow](https://assets-www.tempurpedic.com/media/images/368x160_NavPillows.width-300.png)
 
@@ -43,13 +43,11 @@ Pillows](https://www.tempurpedic.com/shop-pillows/)[Save 40%
 
 ![The corner of a mattress topper held up to show zipped cover](https://assets-www.tempurpedic.com/media/images/ToppersMobileNavV4.width-300.png)
 
-Toppers](https://www.tempurpedic.com/other-products/tempur-toppers/)[Save 25%
+Toppers](https://www.tempurpedic.com/other-products/tempur-toppers/)[Save up to 50%
 
 ![Tempur Sheet sets](https://assets-www.tempurpedic.com/media/images/368x160_NavBedding.width-300.png)
 
-Bedding](https://www.tempurpedic.com/bedding/)[Save 15%
-
-![Tempur Office Chair](https://assets-www.tempurpedic.com/media/images/368x160_NavAccessories.width-300.png)
+Bedding](https://www.tempurpedic.com/bedding/)[![Tempur Office Chair](https://assets-www.tempurpedic.com/media/images/368x160_NavAccessories.width-300.png)
 
 Accessories](https://www.tempurpedic.com/other-products/)
 
@@ -63,14 +61,12 @@ Accessories](https://www.tempurpedic.com/other-products/)
     
     Finance](https://www.tempurpedic.com/finance-your-purchase/)
 
-Featured
---------
+Most Popular
+------------
 
-[Save 30%
+[![ProAdapt Hybrid Mattress](https://assets-www.tempurpedic.com/media/images/ProAdaptMedHybrid3Q.width-300.jpg)
 
-![breeze° Closeout Mobile Shop Nav](https://assets-www.tempurpedic.com/media/images/061523_Breeze_Closeout_ShopNavTile-Mobile.width-300.jpg)
-
-2023 breeze° Closeout models](https://www.tempurpedic.com/shop-mattresses/breeze-closeouts/)
+ProAdapt® Hybrid](https://www.tempurpedic.com/shop-mattresses/adapt-collection/v/2618/)
 
 * [![](https://assets-www.tempurpedic.com/media/images/OrdersNavVPV3_pRH2D75.original_1.original.png)
     
@@ -85,85 +81,19 @@ Featured
 Special Offers
 --------------
 
-[![a cloud mattress with the bag that it ships in standing up against it](https://assets-www.tempurpedic.com/media/images/Offer3MobileNavV3.original.width-300.png)
-
-###### Ends Monday
-
-Save 30%
-
-TEMPUR-Cloud® Mattress](https://www.tempurpedic.com/shop-mattresses/tempur-cloud-mattress/)[![tempur essential mattress](https://assets-www.tempurpedic.com/media/images/Essential_Mattress_Compare_900x510.width-300.png)
-
-###### Ends Monday
-
-Save 30%
-
-on TEMPUR-Essential™
-
-mattress](https://www.tempurpedic.com/shop-mattresses/tempur-essential/)[![Two stacked Cloud Pillows](https://assets-www.tempurpedic.com/media/images/CloudOfferMobileNavV3.width-300.png)
-
-###### Ends Monday
-
-Buy One, Get One Free
-
-select Tempur-Pedic® Pillows](https://www.tempurpedic.com/pillows)[![Cloud pillow with sheets on top](https://assets-www.tempurpedic.com/media/images/TPUC_300GWP.width-300.png)
-
-###### Ends Monday
-
-Buy One, Get One Free
-
-Pillows & Sheets
-
-Bundles](https://www.tempurpedic.com/shop-pillows/)[![Bundle And Save 300 accessories sheets and pillows](https://assets-www.tempurpedic.com/media/images/BundleAndSave_Module_1.width-300.png)
-
-###### Ends Today
-
-$300 in Free Accessories
-
-with Adapt® & Breeze® mattress purchases
-
-use code 300FREE](https://www.tempurpedic.com/shop-mattresses/)[![a topper supreme rolled](https://assets-www.tempurpedic.com/media/images/Offer1MobileNavV4.original.width-300.png)
+[![a topper supreme rolled](https://assets-www.tempurpedic.com/media/images/Offer1MobileNavV4.original.width-300.png)
 
 ###### Limited-Time Offer
 
 Save 40%
 
-TEMPUR-Cloud® Topper](https://www.tempurpedic.com/other-products/tempur-toppers/)[![a topper supreme rolled](https://assets-www.tempurpedic.com/media/images/Offer1MobileNavV4.original.width-300.png)
-
-###### Ends Monday
-
-Save 40%
-
-TEMPUR-Adapt® Topper](https://www.tempurpedic.com/other-products/tempur-adapt-topper2/)[![Stack of Cloud pillows](https://assets-www.tempurpedic.com/media/images/Cloud_Pillows_SOFO.width-300.png)
-
-###### Ends Monday
-
-Save 25%
-
-select Tempur-Pedic® Pillows](https://www.tempurpedic.com/pillows)[![two cloud adjustable pillows stacked on one another](https://assets-www.tempurpedic.com/media/images/CloudOfferMobileNavV4.width-300.jpg)
+TEMPUR-Cloud® Topper](https://www.tempurpedic.com/other-products/tempur-toppers/)[![two cloud adjustable pillows stacked on one another](https://assets-www.tempurpedic.com/media/images/CloudOfferMobileNavV4.width-300.jpg)
 
 ###### Special Offer
 
 Pillow Bundles
 
-starting at 2 for $69](https://www.tempurpedic.com/pillows)[![two cloud adjustable pillows stacked on one another](https://assets-www.tempurpedic.com/media/images/CloudOfferMobileNavV4.width-300.jpg)
-
-###### Special Offer
-
-Pillow Bundles
-
-starting at 2 for $69](https://www.tempurpedic.com/pillows)[![sheet stack mobile nav offer link](https://assets-www.tempurpedic.com/media/images/Sheetshrthdf.original.width-300.png)
-
-###### Ends Monday
-
-Save 25%
-
-on premium bedding](https://www.tempurpedic.com/bedding/)[![Office Chair](https://assets-www.tempurpedic.com/media/images/Offer_Tile_Image_-_Office_Chair_.width-300.png)
-
-###### Ends Monday
-
-Save 15%
-
-TEMPUR-Lumbar Support™ Office Chair](https://www.tempurpedic.com/other-products/tempur-premium-office-chair/v/3911/)[![ProAir sheet stack](https://assets-www.tempurpedic.com/media/images/ProAir.width-300.png)
+starting at 2 for $69](https://www.tempurpedic.com/pillows)[![ProAir sheet stack](https://assets-www.tempurpedic.com/media/images/ProAir.width-300.png)
 
 ###### Limited-Time Offer
 
