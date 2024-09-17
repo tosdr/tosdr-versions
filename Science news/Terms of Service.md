@@ -118,7 +118,7 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [Projectile pollen helps this flower edge out reproductive competition](https://www.sciencenews.org/article/projectile-pollen-flower-competition)
             
-            By [Nala Rogers](https://www.sciencenews.org/author/nala-rogers "Posts by Nala Rogers")2 hours ago
+            By [Nala Rogers](https://www.sciencenews.org/author/nala-rogers "Posts by Nala Rogers")8 hours ago
             
         * [Neuroscience](https://www.sciencenews.org/topic/neuroscience)
             
@@ -161,7 +161,13 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
         * [Materials Science](https://www.sciencenews.org/topic/materials-science)
         * [Quantum Physics](https://www.sciencenews.org/topic/quantum-physics)
         * [Particle Physics](https://www.sciencenews.org/topic/particle-physics)
-    * * [Quantum Physics](https://www.sciencenews.org/topic/quantum-physics)
+    * * [Physics](https://www.sciencenews.org/topic/physics)
+            
+            ### [How to spot tiny black holes that might pass through the solar system](https://www.sciencenews.org/article/primordial-black-holes-solar-system) 
+            
+            By [Emily Conover](https://www.sciencenews.org/author/emily-conover "Posts by Emily Conover")6 hours ago
+            
+        * [Quantum Physics](https://www.sciencenews.org/topic/quantum-physics)
             
             ### [A quantum computer corrected its own errors, improving its calculations](https://www.sciencenews.org/article/quantum-computer-error-correction) 
             
@@ -173,18 +179,18 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             By [Erin Garcia de Jesús](https://www.sciencenews.org/author/erin-garcia-de-jesus "Posts by Erin Garcia de Jesús")September 6, 2024
             
-        * [Physics](https://www.sciencenews.org/topic/physics)
-            
-            ### [A nuclear clock prototype hints at ultraprecise timekeeping](https://www.sciencenews.org/article/nuclear-clock-ultraprecise-timekeeping) 
-            
-            By [Emily Conover](https://www.sciencenews.org/author/emily-conover "Posts by Emily Conover")September 4, 2024
-            
 * [Space](https://www.sciencenews.org/topic/space)
     * [Space](https://www.sciencenews.org/topic/space)
         * [Astronomy](https://www.sciencenews.org/topic/astronomy)
         * [Planetary Science](https://www.sciencenews.org/topic/planetary-science)
         * [Cosmology](https://www.sciencenews.org/topic/cosmology)
-    * * [Space](https://www.sciencenews.org/topic/space)
+    * * [Physics](https://www.sciencenews.org/topic/physics)
+            
+            ### [How to spot tiny black holes that might pass through the solar system](https://www.sciencenews.org/article/primordial-black-holes-solar-system) 
+            
+            By [Emily Conover](https://www.sciencenews.org/author/emily-conover "Posts by Emily Conover")6 hours ago
+            
+        * [Space](https://www.sciencenews.org/topic/space)
             
             ### [How a dying star is similar to a lava lamp](https://www.sciencenews.org/article/dying-star-lava-lamp-convection)
             
@@ -195,12 +201,6 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             ### [Scientists find a long-sought electric field in Earth’s atmosphere](https://www.sciencenews.org/article/electric-field-in-earths-atmosphere)
             
             By [Lisa Grossman](https://www.sciencenews.org/author/lisa-grossman "Posts by Lisa Grossman")September 13, 2024
-            
-        * [Cosmology](https://www.sciencenews.org/topic/cosmology)
-            
-            ### [In an epic cosmology clash, rival scientists begin to find common ground](https://www.sciencenews.org/article/cosmology-expansion-universe) 
-            
-            By [Emily Conover](https://www.sciencenews.org/author/emily-conover "Posts by Emily Conover")September 4, 2024
             
 
 Terms of Service
