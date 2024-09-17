@@ -1,5 +1,3 @@
-[Chat with us](https://www.livechat.com/chat-with/17817894/), powered by [LiveChat](https://www.livechat.com/?welcome)
-
 [](https://buyist.com/Home)
 
 [Log In](https://buyist.app/login)
@@ -38,6 +36,10 @@ This Privacy Policy (“**Privacy Policy**”) is an integral part of, and is in
 12\. **OPTING-OUT FROM RECEIVING COMMUNICATIONS**. You may opt-out from having your personal information used for certain purposes. For example, if you no longer wish to receive any promotional or other communications from us, you may opt-out by emailing us at [support@buyist.com](mailto:support@buyist.com).  
   
 13\. **QUESTIONS OR ADDITIONAL INFORMATION**. If you have any questions regarding Buyist, this Privacy Policy, or any other matters, please email us at: [support@buyist.com](mailto:support@buyist.com).  
+
+  
+
+When you visit or log in to our website, cookies and similar technologies may be used by our online data partners or vendors to associate these activities with other personal information they or others have about you, including by association with your email or home address. We (or service providers on our behalf) may then send communications and marketing to these email or home addresses. You may opt out of receiving this advertising by visiting [https://app.retention.com/optout](https://app.retention.com/optout)  
 
   
 
