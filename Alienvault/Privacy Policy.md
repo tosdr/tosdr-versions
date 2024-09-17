@@ -3,6 +3,7 @@
 *     
     
 * [Blog](https://www.alienvault.com/blogs)
+* [Events](https://www.alienvault.com/newsroom/events)
 * [Contact](https://www.alienvault.com/contact)
 * [Support](https://www.alienvault.com/support)
 
@@ -38,7 +39,7 @@
             
             * [USM Anywhere](https://www.alienvault.com/xdr)
             * [XDR for MSSPs](https://www.alienvault.com/products/usm-for-mssp)
-            * [TDR for Government](https://www.alienvault.com/products/threat-detection-and-responses-for-government)
+            * [TDR for Government](https://www.alienvault.com/xdr/tdr-for-government)
             * [BlueApps/Integrations](https://www.alienvault.com/blueapps)
             
         * [Endpoint Management Manage and secure your endpoint devices](https://www.alienvault.com/endpoint-security)
@@ -265,7 +266,7 @@ Extended Detection and Response
 
 * [USM Anywhere](https://www.alienvault.com/xdr)
 * [XDR for MSSPs](https://www.alienvault.com/products/usm-for-mssp)
-* [TDR for Government](https://www.alienvault.com/products/threat-detection-and-responses-for-government)
+* [TDR for Government](https://www.alienvault.com/xdr/tdr-for-government)
 * [BlueApps/Integrations](https://www.alienvault.com/blueapps)
 
 [Back to Products & Services](#)
