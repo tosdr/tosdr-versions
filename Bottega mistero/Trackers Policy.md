@@ -18,7 +18,7 @@ Alza il velo della realtà per portare alla luce curiosità, misteri, eventi gro
 * [Shop](https://www.bottegamistero.com/shop/)
 * [Donazioni](https://www.bottegamistero.com/donazioni/)
 
-[](https://www.bottegamistero.com/emoscambio-la-misteriosa-setta-del-sesso/ "Mostra un articolo casuale")
+[](https://www.bottegamistero.com/invia-nome-marte-prossima-missione-rover-nasa/ "Mostra un articolo casuale")
 
 [](https://www.bottegamistero.com/privacy-policy/ "Privacy policy")
 
