@@ -208,21 +208,21 @@ Turn Your Curiosity Into Discovery
 
 Latest Facts
 
-[![50 Facts About Sean Connery ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%2284%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/celebrity/50-facts-about-sean-connery/)
+[![50 Facts About Tantra Massage ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22100%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/fitness-and-wellbeing/50-facts-about-tantra-massage/)
 
-Celebrity
-
-17 Sep 2024
-
-[50 Facts About Sean Connery](https://facts.net/celebrity/50-facts-about-sean-connery/)
-
-[![40 Facts About Lila Rose ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%2284%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/history/people/40-facts-about-lila-rose/)
-
-People
+Fitness & Wellbeing
 
 17 Sep 2024
 
-[40 Facts About Lila Rose](https://facts.net/history/people/40-facts-about-lila-rose/)
+[50 Facts About Tantra Massage](https://facts.net/fitness-and-wellbeing/50-facts-about-tantra-massage/)
+
+[![27 Facts About Pet Lovers ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22100%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/nature/animals/27-facts-about-pet-lovers/)
+
+Animals
+
+17 Sep 2024
+
+[27 Facts About Pet Lovers](https://facts.net/nature/animals/27-facts-about-pet-lovers/)
 
 [Home](https://facts.net/) [Privacy Policy](https://facts.net/privacy-policy/)
 
