@@ -36,18 +36,18 @@
         
         Port of Seattle hit by Rhysida ransomware in August attack](https://www.bleepingcomputer.com/news/security/port-of-seattle-says-rhysida-ransomware-was-behind-august-attack/)
     
-    * [![Save over 50% with a refurbished iPad Pro 4th generation](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    * [![Cloudflare outage cuts off access to websites in some regions](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Save over 50% with a refurbished iPad Pro 4th generation](https://www.bleepingcomputer.com/offer/deals/save-over-50-percent-with-a-refurbished-ipad-pro-4th-generation/)
-    * [![Over 1,000 ServiceNow instances found leaking corporate KB data](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        Cloudflare outage cuts off access to websites in some regions](https://www.bleepingcomputer.com/news/technology/cloudflare-outage-cuts-off-access-to-websites-in-some-regions/)
+    * [![Pay once for 2TB cloud storage at FileJump that lasts for life](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Over 1,000 ServiceNow instances found leaking corporate KB data](https://www.bleepingcomputer.com/news/security/over-1-000-servicenow-instances-found-leaking-corporate-kb-data/)
-    * [![Microsoft fixes bug crashing Microsoft 365 apps when typing](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        Pay once for 2TB cloud storage at FileJump that lasts for life](https://www.bleepingcomputer.com/offer/deals/pay-once-for-2tb-cloud-storage-at-filejump-that-lasts-for-life/)
+    * [![AT&T pays $13 million FCC settlement over 2023 data breach](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Microsoft fixes bug crashing Microsoft 365 apps when typing](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-crashing-microsoft-365-apps-when-typing/)
-    * [![CISA warns of Windows flaw used in infostealer malware attacks](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        AT&T pays $13 million FCC settlement over 2023 data breach](https://www.bleepingcomputer.com/news/security/atandt-pays-13-million-fcc-settlement-over-2023-data-breach/)
+    * [![CISA urges software devs to weed out XSS vulnerabilities](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        CISA warns of Windows flaw used in infostealer malware attacks](https://www.bleepingcomputer.com/news/security/cisa-warns-of-windows-flaw-used-in-infostealer-malware-attacks/)
+        CISA urges software devs to weed out XSS vulnerabilities](https://www.bleepingcomputer.com/news/security/cisa-urges-software-devs-to-weed-out-xss-vulnerabilities/)
     
 * [Tutorials](https://www.bleepingcomputer.com/tutorials/)
     
@@ -352,15 +352,15 @@ Melville, NY 11747**
 
 Popular Stories
 
+* [![Data Leak](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    Over 1,000 ServiceNow instances found leaking corporate KB data](https://www.bleepingcomputer.com/news/security/over-1-000-servicenow-instances-found-leaking-corporate-kb-data/)
 * [![CISA](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     CISA warns of Windows flaw used in infostealer malware attacks](https://www.bleepingcomputer.com/news/security/cisa-warns-of-windows-flaw-used-in-infostealer-malware-attacks/)
 * [![Microsoft Office](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     Microsoft rolls out Office LTSC 2024 for Windows and Mac](https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-office-ltsc-2024-for-windows-and-mac/)
-* [![Google Chrome](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    Chrome switching to NIST-approved ML-KEM quantum encryption](https://www.bleepingcomputer.com/news/security/chrome-switching-to-nist-approved-ml-kem-quantum-encryption/)
 
 ##### Follow us:
 
