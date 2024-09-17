@@ -120,6 +120,10 @@ Please visit Epsilon's Privacy Policy for more information about how we collect 
 * [Privacy Notice for Epsilon.Com](https://legal.epsilon.com/latam/latam-website-privacy-notice)
 * [Privacy Notice for Epsilon.Com (PT)](https://legal.epsilon.com/latam/latam-website-privacy-notice-pt)
 
+### Middle East
+
+* [Middle East Services and Products Privacy Policy](https://legal.epsilon.com/me/privacy-policy-services)
+
 [](https://twitter.com/epsilonmktg)[](https://www.linkedin.com/company/epsilon)[](https://www.facebook.com/EpsilonMarketing)
 
 Select a region (US)United States中国Deutschland日本EMEAAPACUnited KingdomFrance
