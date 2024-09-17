@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-ea6a561293901c502548f70e59752d3e
+1e7aded29b475073479bfa367e60069e
 
 [](# "Expand for more options")[](# "Search")
 
@@ -171,11 +171,11 @@ Sojourner may revise this policy as needed by updating this posting.
 
 ### Featured Product
 
-[![5 mm white oval pearls](https://www.sojourner.biz/images/cache/pearls/PE0161.200.jpg)](https://www.sojourner.biz/beads/pearls/5-mm-white-oval-pearls.html "5 mm white oval pearls")
+[![10 mm by 8 mm white irregular pearls](https://www.sojourner.biz/images/cache/pearls/PE0188.200.jpg)](https://www.sojourner.biz/beads/pearls/10-mm-by-8-mm-white-irregular-pearls.html "10 mm by 8 mm white irregular pearls")
 
-#### [5 mm white oval pearls](https://www.sojourner.biz/beads/pearls/5-mm-white-oval-pearls.html "5 mm white oval pearls")
+#### [10 mm by 8 mm white irregular pearls](https://www.sojourner.biz/beads/pearls/10-mm-by-8-mm-white-irregular-pearls.html "10 mm by 8 mm white irregular pearls")
 
-$11.00
+$25.00
 
 ### Best Sellers
 
