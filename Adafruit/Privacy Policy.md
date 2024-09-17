@@ -180,9 +180,8 @@ As a requirement for using the Google Ads advertisement platform, Adafruit.com h
 
 The analytics and advertising service providers we use that may track you across sites and services are:
 
-|     |     |     |     |
-| --- | --- | --- | --- |
 | Service Name | Purpose(s) | Privacy policy | Manage Settings (opt-out) |
+| --- | --- | --- | --- |
 | Google Analytics | web analytics service | [Google Analytics privacy policy](https://support.google.com/analytics/answer/6004245?hl=en) | [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout) |
 | Google Adwords | online advertising service, analytics | [Google Adwords privacy policy](https://www.google.com/policies/technologies/ads/) | See association links below. |
 | Facebook | online advertising service | [Facebook privacy policy](https://www.facebook.com/privacy/explanation) | [Facebook Ads Settings](https://www.facebook.com/settings?tab=ads)<br><br>See association links below. |
@@ -197,9 +196,8 @@ Europe: European Digital Advertising Alliance ([Your Online Choices information]
 
 Other third-party service providers we use:
 
-|     |     |     |
-| --- | --- | --- |
 | Service Name | Function on adafruit.com | Privacy policy |
+| --- | --- | --- |
 | Cloudflare | Content Delivery Network | [Cloudflare privacy policy](https://www.cloudflare.com/security-policy/) |
 | Amazon S3 | Static File Hosting | [Amazon Web Services privacy policy](https://aws.amazon.com/privacy/) |
 | Automattic | site statistics and anti-spam services | [Automattic privacy policy](https://automattic.com/privacy/) |
@@ -406,9 +404,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ Elegance is not a dispensable luxury but a quality that decides between success and failure”
+“ the future is not what it used to be”
 
-[Edsger Dijkstra](http://en.wikipedia.org/wiki/Edsger_W._Dijkstra)
+[Laura Riding and Robert Graves](https://quoteinvestigator.com/2012/12/06/future-not-used/#return-note-4966-8)
 
 [](https://www.adafruit.com/about)
 
