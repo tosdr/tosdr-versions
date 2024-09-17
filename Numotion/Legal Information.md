@@ -11,8 +11,8 @@
 
 [Search](#search)
 
-[![Numotion](/getmedia/fad3da1c-8672-48e9-9767-9ebb727d313a/logo-numotion-2021?width=174)](https://www.numotion.com/)
-=====================================================================================================================
+[![Numotion](/getmedia/faa7a957-10f3-49a5-a20f-3c763b69269a/Numotion_mobility-independence-start-here_CMYK)](https://www.numotion.com/)
+=======================================================================================================================================
 
 * [Products & Services](https://www.numotion.com/products-services)
     * [Adult Wheelchairs & Products](https://www.numotion.com/products-services/adults)
