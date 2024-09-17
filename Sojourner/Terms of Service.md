@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-167c5553d76ca617dd95ee25b494de52
+39131f9d0f6d3bb01a01910a7182003d
 
 [](# "Expand for more options")[](# "Search")
 
@@ -142,11 +142,11 @@ Terms and Conditions
 
 ### Featured Product
 
-[![Ancient carnelian necklace](https://sojourner.biz/images/cache/jewelry/N0084.200.jpg)](https://sojourner.biz/jewelry/necklaces/ancient-carnelian-necklace.html "Ancient carnelian necklace")
+[![Two-ring German mosaic clasp](https://sojourner.biz/images/cache/SKU0397front.200.jpg)](https://sojourner.biz/clasps/glass/two-ring-german-mosaic-clasp.html "Two-ring German mosaic clasp")
 
-#### [Ancient carnelian necklace](https://sojourner.biz/jewelry/necklaces/ancient-carnelian-necklace.html "Ancient carnelian necklace")
+#### [Two-ring German mosaic clasp](https://sojourner.biz/clasps/glass/two-ring-german-mosaic-clasp.html "Two-ring German mosaic clasp")
 
-$120.00
+$43.00
 
 ### Best Sellers
 
