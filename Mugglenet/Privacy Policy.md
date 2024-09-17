@@ -276,15 +276,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-The first autographed copy of Harry Potter and the Half-Blood Prince was shipped across the Atlantic in a trunk and taken via armored truck to a secret location.
+The Grangers and Potters were originally supposed to be neighbors in Godric’s Hollow.
 
 ### Potter History
 
-January 9, 2006 – The IMAX version of Harry Potter and the Goblet of Fire is revealed to be the highest-grossing IMAX film ever.
+June 1, 2007 – It is revealed that the Harry Potter theme park will cost upwards of $295 million to build.
 
 ### Potter Quote
 
-“Only this morning, for instance, I took a wrong turning on the way to the bathroom and found myself in a beautifully proportioned room I have never seen before, containing a really rather magnificent collection of chamber pots. When I went back to investigate more closely, I discovered that the room had vanished.”
+“Draco, Draco, you are not a killer.”
 
 [](#)
 
