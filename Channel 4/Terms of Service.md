@@ -55,6 +55,7 @@
         * [Channel 4 Streaming Website Accessibility Statement](https://www.channel4.com/4viewers/accessibility/channel-4-streaming-website-accessibility-statement)
         * [Channel 4 Streaming iOS App Accessibility Statement](https://www.channel4.com/4viewers/accessibility/ios-digital-accessibility-statement)
         * [Channel 4 Streaming Android App Accessibility Statement](https://www.channel4.com/4viewers/accessibility/android-digital-accessibility-statement)
+        * [Channel 4 Streaming FAQs](https://www.channel4.com/4viewers/accessibility/general-faq)
         
     
 * [Take Part](#)
@@ -105,13 +106,13 @@
     
 * [C4 Investigations](https://www.channel4.com/4viewers/c4IU)
 * [Loneliness](https://www.channel4.com/4viewers/loneliness)
+* [Contact us](https://www.channel4.com/4viewers/contact-us)
 * [FAQs](https://www.channel4.com/4viewers/faqs)
     
     * [Channel 4 streaming - Website and Apps](https://www.channel4.com/4viewers/faqs/category/36)
     * [Other Channel 4 websites](https://www.channel4.com/4viewers/faqs/category/31)
     * [Our TV channels](https://www.channel4.com/4viewers/faqs/category/26)
     
-* [Contact us](https://www.channel4.com/4viewers/contact-us)
 
 * Our Policies
     * [Policies Overview](https://www.channel4.com/4viewers/policies-overview)
