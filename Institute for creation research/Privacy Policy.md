@@ -101,6 +101,90 @@ If you have any questions about our privacy policy, please [contact us](mailto:w
 
 Return to our [subscription form](https://www.icr.org/subscriptions).
 
+More The Universe Was Created Recently
+
+[![](/i/Main%20Stage%20-%201400x1050/hotjupiterexoplanet-1400x1050)](https://www.icr.org/article/hot-jupiter-exoplanet)
+
+[New Exoplanet's Year Is Just 16 Hours](https://www.icr.org/article/hot-jupiter-exoplanet/)
+
+A team from the Massachusetts Institute of Technology (MIT) used NASA’s Transiting Exoplanet Survey Satellite (TESS) to discover a gas giant in another...
+
+BY: [JAKE HEBERT, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=218)
+
+[![](/i/Main%20Stage%20-%201400x1050/lunareclipse-1400x1050-MainPage.jpg)](https://www.icr.org/article/meteorite-impact-observed-during-lunar-eclipse)
+
+[Meteorite Impact Observed During Lunar Eclipse](https://www.icr.org/article/meteorite-impact-observed-during-lunar-eclipse/)
+
+On January 21, 2019, during a total lunar eclipse, astronomers and amateur stargazers alike saw a small meteorite strike the lunar surface.1 The...
+
+BY: [JAKE HEBERT, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=218)
+
+[![](/i/stage_248/wackyastronomy-stage.jpg)](https://www.icr.org/article/three-discoveries-mystify-astronomers)
+
+[Three Discoveries Mystify Astronomers](https://www.icr.org/article/three-discoveries-mystify-astronomers/)
+
+Secular astronomers recently described three bizarre discoveries that challenge mainstream ideas of an evolving universe. The newly discovered massive...
+
+BY: [BRIAN THOMAS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=201)
+
+More Back to Genesis
+
+[![](/i/articles/af/Main%20Stage%20-%201400x1050/created_cuttlebone.jpg)](https://www.icr.org/article/created-cuttlebones-sweet-spot)
+
+[Created Cuttlebone's Sweet Spot](https://www.icr.org/article/created-cuttlebones-sweet-spot/)
+
+God created Earth during the creation week just thousands of years ago. This includes its marvelous oceans—128 million square miles of salt water....
+
+BY: [FRANK SHERWIN, D.SC. (HON.)](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=32)
+
+[![](/i/articles/af/Main%20Stage%20-%201400x1050/building_flying_machine.jpg)](https://www.icr.org/article/building-a-perfectly-optimal-flying-machine)
+
+[Building a Perfectly Optimal Flying Machine](https://www.icr.org/article/building-a-perfectly-optimal-flying-machine/)
+
+For thousands of years, people have dreamed of flying because they witnessed birds and knew it was possible. Inspired by a study of birds, the Wright...
+
+BY: [MICHAEL STAMP](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=220)
+
+[![](/i/articles/af/Main%20Stage%20-%201400x1050/ancient_sahara.jpg)](https://www.icr.org/article/ancient-sahara-was-wetter-than-expected)
+
+[Ancient Sahara Was Wetter Than Expected](https://www.icr.org/article/ancient-sahara-was-wetter-than-expected/)
+
+New research has again confirmed the predictions of creation scientists. The Sahara Desert wasn’t always a dry, desolate place. Right after the...
+
+BY: [TIM CLAREY, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=176)
+
+Shop Related Products
+
+[![](https://cdn.shoplightspeed.com/shops/601440/files/10475649/file.jpg)
+
+The Remarkable Record of Job](https://store.icr.org/dr-henry-morris-the-remarkable-record-of-job.html)
+
+$9.99
+
+[![](https://cdn.shoplightspeed.com/shops/601440/files/10475689/file.jpg)
+
+The Remarkable Wisdom of Solomon](https://store.icr.org/dr-henry-morris-the-remarkable-wisdom-of-solomon.html)
+
+$13.99
+
+[![](https://cdn.shoplightspeed.com/shops/601440/files/10473887/file.jpg)
+
+Christian Education for the Real World](https://store.icr.org/dr-henry-morris-christian-education-for-the-real-w.html)
+
+$10.99
+
+[![](https://cdn.shoplightspeed.com/shops/601440/files/10474441/file.jpg)
+
+The Beginning of the World](https://store.icr.org/dr-henry-morris-the-beginning-of-the-world.html)
+
+$10.99
+
+[![](https://cdn.shoplightspeed.com/shops/601440/files/10474089/file.jpg)
+
+Defending the Faith](https://store.icr.org/dr-henry-morris-defending-the-faith.html)
+
+$12.99
+
 [![Institute for Creation Research](/i/icr-logo-final-h-rev3-100.png)](https://www.icr.org/)[![ICR Discovery Center for Science and Earth History](/i/DC_Logo_Footer_2.png)](http://discoverycenter.icr.org/)
 
 [About  Us](https://www.icr.org/discover)[News](https://www.icr.org/news)[Publications](https://www.icr.org/icr-magazines)[Media](https://www.icr.org/video)[Events](https://www.icr.org/events)[Give](https://www.icr.org/donate)[Store](https://store.icr.org/)[Education](http://www.icr.edu/)
