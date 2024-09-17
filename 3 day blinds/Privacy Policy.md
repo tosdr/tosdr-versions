@@ -172,7 +172,7 @@ Unless you clear these cookies from your browser, we may use this information to
 * Detect and defend against fraud and other risks to protect users and partners
 * Improve our products
 
-Controlling cookies. Most browsers allow you to control and erase cookies through their settings preferences. However, if you limit the ability of websites to set cookies, you may worsen your overall user experience, since it will no longer be personalized to you. Additionally, some features may work improperly or not at all. It may also stop you from saving customized settings. You also have the right to opt-out of online tracking based targeted advertising (e.g., cookies) by clicking the link.
+Controlling cookies. Most browsers allow you to control and erase cookies through their settings preferences. However, if you limit the ability of websites to set cookies, you may worsen your overall user experience, since it will no longer be personalized to you. Additionally, some features may work improperly or not at all. It may also stop you from saving customized settings. You also have the right to opt-out of online tracking based targeted advertising (e.g., cookies) by clicking the link in the footer of this website. 
 
 ### **Sharing Of Information.**
 
