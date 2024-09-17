@@ -36,18 +36,18 @@
         
         Port of Seattle hit by Rhysida ransomware in August attack](https://www.bleepingcomputer.com/news/security/port-of-seattle-says-rhysida-ransomware-was-behind-august-attack/)
     
+    * [![Save over 50% with a refurbished iPad Pro 4th generation](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        Save over 50% with a refurbished iPad Pro 4th generation](https://www.bleepingcomputer.com/offer/deals/save-over-50-percent-with-a-refurbished-ipad-pro-4th-generation/)
+    * [![Over 1,000 ServiceNow instances found leaking corporate KB data](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        Over 1,000 ServiceNow instances found leaking corporate KB data](https://www.bleepingcomputer.com/news/security/over-1-000-servicenow-instances-found-leaking-corporate-kb-data/)
     * [![Microsoft fixes bug crashing Microsoft 365 apps when typing](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         Microsoft fixes bug crashing Microsoft 365 apps when typing](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-crashing-microsoft-365-apps-when-typing/)
     * [![CISA warns of Windows flaw used in infostealer malware attacks](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         CISA warns of Windows flaw used in infostealer malware attacks](https://www.bleepingcomputer.com/news/security/cisa-warns-of-windows-flaw-used-in-infostealer-malware-attacks/)
-    * [![Exploit code released for critical Ivanti RCE flaw, patch now](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        Exploit code released for critical Ivanti RCE flaw, patch now](https://www.bleepingcomputer.com/news/security/exploit-code-released-for-critical-ivanti-rce-flaw-patch-now/)
-    * [![Microsoft rolls out Office LTSC 2024 for Windows and Mac](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        Microsoft rolls out Office LTSC 2024 for Windows and Mac](https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-office-ltsc-2024-for-windows-and-mac/)
     
 * [Tutorials](https://www.bleepingcomputer.com/tutorials/)
     
@@ -352,18 +352,15 @@ Melville, NY 11747**
 
 Popular Stories
 
-* [![Kiosk](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    Malware locks browser in kiosk mode to steal Google credentials](https://www.bleepingcomputer.com/news/security/malware-locks-browser-in-kiosk-mode-to-steal-google-credentials/)
-* [![CISA](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    FBI tells public to ignore false claims of hacked voter data](https://www.bleepingcomputer.com/news/security/fbi-tells-public-to-ignore-false-claims-of-hacked-voter-data/)
 * [![CISA](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     CISA warns of Windows flaw used in infostealer malware attacks](https://www.bleepingcomputer.com/news/security/cisa-warns-of-windows-flaw-used-in-infostealer-malware-attacks/)
-* [![D-Link](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+* [![Microsoft Office](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
-    D-Link fixes critical RCE, hardcoded password flaws in WiFi 6 routers](https://www.bleepingcomputer.com/news/security/d-link-fixes-critical-rce-hardcoded-password-flaws-in-wifi-6-routers/)
+    Microsoft rolls out Office LTSC 2024 for Windows and Mac](https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-office-ltsc-2024-for-windows-and-mac/)
+* [![Google Chrome](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    Chrome switching to NIST-approved ML-KEM quantum encryption](https://www.bleepingcomputer.com/news/security/chrome-switching-to-nist-approved-ml-kem-quantum-encryption/)
 
 ##### Follow us:
 
