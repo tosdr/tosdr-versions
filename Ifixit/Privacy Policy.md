@@ -577,7 +577,7 @@ If you have any questions about this Privacy Policy, please [contact us](https:/
 
 **View Statistics:**
 
-Past 24 Hours: 18
+Past 24 Hours: 10
 
 Past 7 Days: 139
 
