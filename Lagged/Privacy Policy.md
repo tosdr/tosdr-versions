@@ -247,9 +247,9 @@ Games you might like
 
 [Poppy Playtime Chapter 2](https://lagged.com/en/g/poppy-playtime-chapter-2) ![Poppy Playtime Chapter 2 Game](https://imgs2.dab3games.com/poppy-playtime-ch2-ft.png)
 
-[Temple Adventure](https://lagged.com/en/g/temple-adventure) ![Temple Adventure Game](https://imgs2.dab3games.com/tomb-run-2.png) top rated
-
 [Minecraft Online](https://lagged.com/en/g/minecraft-online) ![Minecraft Online Game](https://imgs2.dab3games.com/minecraft-game-online-ft.png)
+
+[Temple Adventure](https://lagged.com/en/g/temple-adventure) ![Temple Adventure Game](https://imgs2.dab3games.com/tomb-run-2.png) top rated
 
 [Stair Race 3D](https://lagged.com/en/g/stair-race-3d) ![Stair Race 3D Game](https://imgs2.dab3games.com/stair-race-3d-game-ft.png)
 
