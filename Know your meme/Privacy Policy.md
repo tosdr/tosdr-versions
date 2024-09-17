@@ -120,7 +120,7 @@ Welcome! [Login](https://knowyourmeme.com/login) or [signup](https://knowyourmem
 
 ##### Also Trending:
 
-[September 2024 Trump Assassination Attempt](https://knowyourmeme.com/memes/events/september-2024-attempted-assassination-of-donald-trump "September 2024 Trump Assassination Attempt") [Flemish Giant Rabbit](https://knowyourmeme.com/memes/flemish-giant-rabbit "Flemish Giant Rabbit")
+[September 2024 Trump Assassination Attempt](https://knowyourmeme.com/memes/events/september-2024-attempted-assassination-of-donald-trump "September 2024 Trump Assassination Attempt")
 
 Privacy Policy
 ==============
