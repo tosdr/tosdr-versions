@@ -223,6 +223,16 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
     
     [https://mgml.si/sl/mestni-muzej](https://mgml.si/sl/mestni-muzej)
     
+    [10:00 Ritam francuske kulture 2024](javascript:void(0);)
+    
+    **19.04.2024 | 10:00**
+    
+    **RITAM FRANCUSKE KULTURE 2024** (18.4.-8.12.2024.)
+    
+    [**PROGRAM**](https://www.institutfrancais.rs/ritam-francuske-kulture/)
+    
+    [http://www.institutfrancais.rs](http://www.institutfrancais.rs/)
+    
     [10:00 Neopaženo ob cesti. Grafična tehnika Marjana Pogačnika, LJ](javascript:void(0);)
     
     **19.04.2024 | 10:00**
@@ -234,16 +244,6 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
     avtorji razstave: Tina Buh, Admir Ganić, Andrej Smrekar
     
     [https://www.ng-slo.si/si](https://www.ng-slo.si/si)
-    
-    [10:00 Ritam francuske kulture 2024](javascript:void(0);)
-    
-    **19.04.2024 | 10:00**
-    
-    **RITAM FRANCUSKE KULTURE 2024** (18.4.-8.12.2024.)
-    
-    [**PROGRAM**](https://www.institutfrancais.rs/ritam-francuske-kulture/)
-    
-    [http://www.institutfrancais.rs](http://www.institutfrancais.rs/)
     
     [10:00 Tisja Kljaković Braić, ZG](javascript:void(0);)
     
@@ -322,11 +322,11 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 
 [Galerija umetnika](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")[](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/dragan-ilic/dragan-ilic-retribution-odmazda/retribution/odmazda-london/hyde-park-003.jpg?itok=r6tXZIfL)](http://seecult.org/galerija/galerija-umetnika/dragan-ilic/dragan-ilic-retribution-odmazda/retributionodmazda-london)
+[![Zoran Popović, Filmkonzept: Kopf/ Kreis 1968](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/zoran-popovic-escapism/zoran-popovic-film/glava/krug-1968/txt-001.jpg?itok=MMvZX5D4)](http://seecult.org/galerija/galerija-umetnika/zoran-popovic-escapism/zoran-popovic-film/glavakrug-1968)
 
 [Foto galerija](http://seecult.org/galerija/foto-galerija "Foto galerija")[](http://seecult.org/galerija/foto-galerija "Foto galerija")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/pixies.jpg?itok=AgRvUcVc)](http://seecult.org/galerija/foto-galerija/foto-arhiva)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/breda-beban.jpg?itok=1U9bxckA)](http://seecult.org/galerija/foto-galerija/foto-arhiva)
 
 * [Najčitanije](#news_1)
 * [Najnovije](#news_2)
@@ -342,6 +342,7 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 * [Preminula Jasna Tijardović Popović](http://seecult.org/vest/preminula-jasna-tijardovic-popovic)
 * [Najuži izbor za NIN-ovu nagradu za 2022.](http://seecult.org/vest/najuzi-izbor-za-nin-ovu-nagradu-za-2022)
 
+* [Sudbina pojedinca u fokusu revije rumunskog filma](http://seecult.org/vest/sudbina-pojedinca-u-fokusu-revije-rumunskog-filma)
 * [Pomereni redosled Iljovskog u Legatu Čolaković](http://seecult.org/vest/pomereni-redosled-iljovskog-u-legatu-colakovic)
 * [Kuznjecova gošća EUPL festa](http://seecult.org/vest/kuznjecova-gosca-eupl-festa)
 * [Pripreme za 32. Memorijal Nadežde Petrović](http://seecult.org/vest/pripreme-za-32-memorijal-nadezde-petrovic)
@@ -351,7 +352,6 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 * [Forenzika kolektivnog pamćenja](http://seecult.org/vest/forenzika-kolektivnog-pamcenja)
 * [Očuvanje prirode - spoj etike i estetike na 58. Bitefu](http://seecult.org/vest/ocuvanje-prirode-spoj-etike-i-estetike-na-58-bitefu)
 * [Ostvarenje veličanstvenog sna](http://seecult.org/vest/ostvarenje-velicanstvenog-sna)
-* [Ilija Bosilj u Švajcarskoj](http://seecult.org/vest/ilija-bosilj-u-svajcarskoj)
 
 * [Konkursi](#tab1_1)
 
