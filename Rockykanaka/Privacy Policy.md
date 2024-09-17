@@ -1,7 +1,7 @@
 ![](https://www.facebook.com/tr?id=181373849168743&ev=PageView
 &noscript=1)              
 
-* [Treats](https://rockykanaka.com/collections)
+* [Treats](https://rockykanaka.com/collections/all-treats)
     
     Expand submenu Treats Collapse submenu Treats
     
@@ -27,7 +27,7 @@ Site navigation
 
 [![RockyKanaka](//www.shoprockykanaka.com/cdn/shop/files/rocky_logo_260x.png?v=1686719816)](https://rockykanaka.com/)
 
-* [Treats](https://rockykanaka.com/collections)
+* [Treats](https://rockykanaka.com/collections/all-treats)
     * [Jerky](https://rockykanaka.com/collections/jerky)
     * [Chews](https://rockykanaka.com/collections/chew)
 * [Merch](https://rockykanaka.com/collections/merch-by-rocky-kanaka)
