@@ -191,7 +191,7 @@ All users and subscribers of Web site agree to abide by and comply with these "S
 
 ### Memesters Union
 
-     [](https://patriotpost.us/memes/110270-build-then-fix-2024-09-16)
+     [](https://patriotpost.us/memes/110289-the-bloodiest-day-2024-09-17)
 
 * [More Memes >](https://patriotpost.us/memes)
 
@@ -224,7 +224,9 @@ All users and subscribers of Web site agree to abide by and comply with these "S
 
 [END OF WATCH](https://patriotpost.us/end-of-watch)
 
-[![](https://img.patriotpost.us/01J7Y4A5HWF0E5433AX1CKK1JD.jpeg)](https://patriotpostshop.com/collections/american-liberty-collection)
+[![](https://img.patriotpost.us/01J5RS2YKRTNS1580CS7YVV0SF.jpeg)
+
+![](https://img.patriotpost.us/01J5RSAEYEKZ8DRMMYMBSNCWNH.jpeg)](https://patriotpostshop.com/collections/featured-products)
 
 ### The Foundation
 
