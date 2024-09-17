@@ -1,6 +1,4 @@
-[![MyCase logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20173%2039'%3E%3C/svg%3E)
-
-![MyCase logo](https://www.mycase.com/wp-content/themes/mycase/library/img/mycase-logo.svg)](https://www.mycase.com/)
+[![MyCase logo](https://www.mycase.com/wp-content/themes/mycase/library/img/mycase-logo.svg)](https://www.mycase.com/)
 
 * [Product](https://www.mycase.com/privacy)
     
@@ -8,29 +6,19 @@
     
     Featured
     
-    [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E)
-    
-    ![](https://www.mycase.com/wp-content/uploads/2024/05/arrow-right-long-sharp-light.svg)
+    [![](https://www.mycase.com/wp-content/uploads/2024/05/arrow-right-long-sharp-light.svg)
     
     ### 2024 Legal Industry Report
     
     Explore the technology trends of the legal industry with our annual 2024 Legal Industry Trends Report.
     
-    ![Legal Industry Report 2024](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20400%20265'%3E%3C/svg%3E)
-    
-    ![Legal Industry Report 2024](https://www.mycase.com/wp-content/uploads/2024/06/nav-thumb-report-copy.webp)](https://www.mycase.com/reports/2024-legal-industry-report/)[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E)
-    
-    ![](https://www.mycase.com/wp-content/uploads/2024/05/arrow-right-long-sharp-light.svg)
+    ![Legal Industry Report 2024](https://www.mycase.com/wp-content/uploads/2024/06/nav-thumb-report-copy.webp)](https://www.mycase.com/reports/2024-legal-industry-report/)[![](https://www.mycase.com/wp-content/uploads/2024/05/arrow-right-long-sharp-light.svg)
     
     ### Time Savings Calculator
     
     Discover how much time your firm can save with MyCase using our Time Savings Calculator.](https://www.mycase.com/resources/time-savings-calculator/)
     
-    ![Client Intake & Lead Management](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20120%2096'%3E%3C/svg%3E)
-    
-    ![Client Intake & Lead Management](https://www.mycase.com/wp-content/uploads/2024/05/user-plus-sharp-light.svg)
-    
-    [Client Intake & Lead Management](https://www.mycase.com/products/client-intake-lead-management/)
+    ![Client Intake & Lead Management](https://www.mycase.com/wp-content/uploads/2024/05/user-plus-sharp-light.svg) [Client Intake & Lead Management](https://www.mycase.com/products/client-intake-lead-management/)
     
     [Client Intake Forms](https://www.mycase.com/features/client-intake-forms/)
     
@@ -40,11 +28,7 @@
     
     [Law Firm Websites](https://www.mycase.com/features/law-firm-website-design/)
     
-    ![Case Management](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20108%2096'%3E%3C/svg%3E)
-    
-    ![Case Management](https://www.mycase.com/wp-content/uploads/2024/05/folders-sharp-light.svg)
-    
-    [Case Management](https://www.mycase.com/products/case-management/)
+    ![Case Management](https://www.mycase.com/wp-content/uploads/2024/05/folders-sharp-light.svg) [Case Management](https://www.mycase.com/products/case-management/)
     
     [Calendaring](https://www.mycase.com/features/calendaring/)
     
@@ -56,11 +40,7 @@
     
     [Advanced Document Automation](https://www.mycase.com/features/advanced-document-automation/)
     
-    ![Billing & Payments](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20108%2096'%3E%3C/svg%3E)
-    
-    ![Billing & Payments](https://www.mycase.com/wp-content/uploads/2024/05/calendar-clock-sharp-light.svg)
-    
-    [Billing & Payments](https://www.mycase.com/products/legal-billing-software/)
+    ![Billing & Payments](https://www.mycase.com/wp-content/uploads/2024/05/calendar-clock-sharp-light.svg) [Billing & Payments](https://www.mycase.com/products/legal-billing-software/)
     
     [Billing & Invoicing](https://www.mycase.com/features/legal-invoicing-software/)
     
@@ -70,29 +50,17 @@
     
     [LawPay Payments](https://www.mycase.com/features/legal-payments-software/)
     
-    ![Client Communications](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20120%2096'%3E%3C/svg%3E)
-    
-    ![Client Communications](https://www.mycase.com/wp-content/uploads/2024/05/messages-sharp-light.svg)
-    
-    [Client Communications](https://www.mycase.com/products/client-communications/)
+    ![Client Communications](https://www.mycase.com/wp-content/uploads/2024/05/messages-sharp-light.svg) [Client Communications](https://www.mycase.com/products/client-communications/)
     
     [Client Portal](https://www.mycase.com/features/client-portal/)
     
     [Built-In Text Messaging](https://www.mycase.com/features/centralized-text-messaging/)
     
-    ![Legal AI Software](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E)
-    
-    ![Legal AI Software](https://www.mycase.com/wp-content/uploads/2024/05/sparkles-sharp-light.svg)
-    
-    [Legal AI](https://www.mycase.com/products/legal-ai-software/)
+    ![Legal AI Software](https://www.mycase.com/wp-content/uploads/2024/05/sparkles-sharp-light.svg) [Legal AI](https://www.mycase.com/products/legal-ai-software/)
     
     [AI Writing Assistant](https://www.mycase.com/features/ai-legal-writing-assistant/)
     
-    ![Financial Management](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E)
-    
-    ![Financial Management](https://www.mycase.com/wp-content/uploads/2024/05/chart-pie-simple-sharp-light.svg)
-    
-    [Financial Management](https://www.mycase.com/products/law-firm-financial-management/)
+    ![Financial Management](https://www.mycase.com/wp-content/uploads/2024/05/chart-pie-simple-sharp-light.svg) [Financial Management](https://www.mycase.com/products/law-firm-financial-management/)
     
     [Spend Management](https://www.mycase.com/features/legal-spend-management-software/)
     
@@ -100,11 +68,7 @@
     
     [Legal Accounting](https://www.mycase.com/features/legal-accounting-software/)
     
-    ![Powerful Integrations](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E)
-    
-    ![Powerful Integrations](https://www.mycase.com/wp-content/uploads/2024/05/arrows-rotate-sharp-light.svg)
-    
-    [Powerful Integrations](https://mycase.com/integrations/)
+    ![Powerful Integrations](https://www.mycase.com/wp-content/uploads/2024/05/arrows-rotate-sharp-light.svg) [Powerful Integrations](https://mycase.com/integrations/)
     
     [Zapier](https://mycase.com/integrations/zapier/)
     
@@ -126,19 +90,13 @@
     
     Featured
     
-    [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E)
-    
-    ![](https://www.mycase.com/wp-content/uploads/2024/05/arrow-right-long-sharp-light.svg)
+    [![](https://www.mycase.com/wp-content/uploads/2024/05/arrow-right-long-sharp-light.svg)
     
     ### 2024 Legal Industry Report
     
     Explore the technology trends of the legal industry with our annual 2024 Legal Industry Trends Report.
     
-    ![Legal Industry Report 2024](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20400%20265'%3E%3C/svg%3E)
-    
-    ![Legal Industry Report 2024](https://www.mycase.com/wp-content/uploads/2024/06/nav-thumb-report-copy.webp)](https://www.mycase.com/reports/2024-legal-industry-report/)[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E)
-    
-    ![](https://www.mycase.com/wp-content/uploads/2024/05/arrow-right-long-sharp-light.svg)
+    ![Legal Industry Report 2024](https://www.mycase.com/wp-content/uploads/2024/06/nav-thumb-report-copy.webp)](https://www.mycase.com/reports/2024-legal-industry-report/)[![](https://www.mycase.com/wp-content/uploads/2024/05/arrow-right-long-sharp-light.svg)
     
     ### Time Savings Calculator
     
@@ -204,15 +162,11 @@
     
     Resources by Topic
     
-    ![Blog](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2020%2020'%3E%3C/svg%3E)
-    
     ![Blog](https://www.mycase.com/wp-content/uploads/2022/02/icon-blog.svg)
     
     [Blog](https://www.mycase.com/blog/)
     
     Explore tips for running your law firm efficiently.
-    
-    ![Guides](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2023%2022'%3E%3C/svg%3E)
     
     ![Guides](https://www.mycase.com/wp-content/uploads/2022/02/icon-guides.svg)
     
@@ -220,15 +174,11 @@
     
     Elevate your practice with detailed handbooks.
     
-    ![Case Studies](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2023%2023'%3E%3C/svg%3E)
-    
     ![Case Studies](https://www.mycase.com/wp-content/uploads/2022/02/icon-cs.svg)
     
     [Case Studies](https://www.mycase.com/case-studies/)
     
     Apply competitive strategies used by successful lawyers.
-    
-    ![Time Savings Calculator](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2025%2023'%3E%3C/svg%3E)
     
     ![Time Savings Calculator](https://www.mycase.com/wp-content/uploads/2024/03/icon-billing.svg)
     
@@ -236,23 +186,17 @@
     
     See how much your firm can save by using MyCase.
     
-    ![Videos](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2024%2014'%3E%3C/svg%3E)
-    
     ![Videos](https://www.mycase.com/wp-content/uploads/2022/02/icon-videos.svg)
     
     [Videos](https://www.mycase.com/videos/)
     
     Watch educational content crafted specifically for attorneys.
     
-    ![Webinars](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2025%2017'%3E%3C/svg%3E)
-    
     ![Webinars](https://www.mycase.com/wp-content/uploads/2022/02/icon-webinars.svg)
     
     [Webinars](https://www.mycase.com/webinars/)
     
     Get essential insider insights from legal experts.
-    
-    ![Reports](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2023%2022'%3E%3C/svg%3E)
     
     ![Reports](https://www.mycase.com/wp-content/uploads/2022/11/Report-01.svg)
     
@@ -265,8 +209,6 @@
     2024 Benchmark Report 1: Law Firm Finances
     
     Explore the challenges legal practices face when addressing expenses, retainers, as well as solutions that can scale your firm with confidence.
-    
-    ![Law Firm Finances](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%20157'%3E%3C/svg%3E)
     
     ![Law Firm Finances](https://www.mycase.com/wp-content/uploads/2024/05/LPMC-LandingPage-BenchmarkReport-Part1-1200x628-OpenGraph-300x157.png)](https://www.mycase.com/reports/2024-benchmark-report-finances/) 
     
