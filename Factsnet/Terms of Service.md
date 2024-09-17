@@ -208,21 +208,21 @@ Turn Your Curiosity Into Discovery
 
 Latest Facts
 
-[![40 Facts About Mark Kilroy ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22100%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/history/people/40-facts-about-mark-kilroy/)
+[![50 Facts About Thai Massage ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22100%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/fitness-and-wellbeing/50-facts-about-thai-massage/)
 
-People
-
-17 Sep 2024
-
-[40 Facts About Mark Kilroy](https://facts.net/history/people/40-facts-about-mark-kilroy/)
-
-[![40 Facts About Llandudno ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%2284%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/world/cities/40-facts-about-llandudno/)
-
-Cities
+Fitness & Wellbeing
 
 17 Sep 2024
 
-[40 Facts About Llandudno](https://facts.net/world/cities/40-facts-about-llandudno/)
+[50 Facts About Thai Massage](https://facts.net/fitness-and-wellbeing/50-facts-about-thai-massage/)
+
+[![37 Facts About Peace Village North Korea ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%2284%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/world/countries/37-facts-about-peace-village-north-korea/)
+
+Countries
+
+17 Sep 2024
+
+[37 Facts About Peace Village North Korea](https://facts.net/world/countries/37-facts-about-peace-village-north-korea/)
 
 [Home](https://facts.net/) [Terms](https://facts.net/terms/)
 
