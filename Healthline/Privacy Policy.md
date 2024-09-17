@@ -7,14 +7,6 @@
 
 Subscribe
 
-[#### Digestive Health](https://www.healthline.com/digestive-health)
-
-* [The Basics](https://www.healthline.com/digestive-health/basics)
-* [Crohn’s Treatment](https://www.healthline.com/digestive-health/crohns-treatment)
-* [UC Treatment](https://www.healthline.com/digestive-health/ulcerative-colitis-treatment)
-* [What to Eat](https://www.healthline.com/digestive-health/diet)
-* [Prevention and Lifestyle](https://www.healthline.com/digestive-health/prevention)
-
 Privacy Policy
 ==============
 
