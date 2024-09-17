@@ -818,12 +818,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Katzenkranken­versicherung im Test (12/2022): Kranken­versicherung für Katzen](https://www.test.de/Katzenkrankenversicherung-im-Test-122022-Krankenversicherung-fuer-Katzen-5935066-0/ "Katzenkrankenversicherung im Test (12/2022) - Krankenversicherung für Katzen")
-* [Stereo-Funk­laut­sprecher im Test: Mit dem zweiten hört man besser](https://www.test.de/Stereo-Funklautsprecher-im-Test-6094686-0/ "Stereo-Funklautsprecher im Test - Mit dem zweiten hört man besser")
-* [ELTIF: Grün investieren mit europäischen Lang­frist­fonds](https://www.test.de/ELTIF-Gruen-investieren-mit-europaeischen-Langfristfonds-5965690-0/ "ELTIF - Grün investieren mit europäischen Langfristfonds")
-* [Fonds: Misch­fonds aus unserem Dauer­test](https://www.test.de/Fonds-Mischfonds-aus-unserem-Dauertest-6144136-0/ "Fonds - Mischfonds aus unserem Dauertest")
-* [Invasive Art: Lieber keinen Kirschlor­beer pflanzen](https://www.test.de/Invasive-Art-Lieber-keinen-Kirschlorbeer-pflanzen-6133142-0/ "Invasive Art - Lieber keinen Kirschlorbeer pflanzen")
-* [E-Growing: Fest­nahmen bei der Platt­form Juicyfields](https://www.test.de/E-Growing-Festnahmen-bei-der-Plattform-Juicyfields-6113321-0/ "E-Growing - Festnahmen bei der Plattform Juicyfields")
+* [Dubioses Fest­geld: Bel-Finanz fehlt Zulassung](https://www.test.de/Dubioses-Festgeld-Bel-Finanz-ohne-Zulassung-6045716-0/ "Dubioses Festgeld - Bel-Finanz fehlt Zulassung")
+* [Zinsen: Anla­geplatt­form Zinspilot wird schritt­weise geschlossen](https://www.test.de/Zinsen-Anlageplattform-Zinspilot-wird-schrittweise-geschlossen-6108493-0/ "Zinsen - Anlageplattform Zinspilot wird schrittweise geschlossen")
+* [Erben­gemeinschaft: Wer seine Eltern pflegt, bekommt mehr](https://www.test.de/Erbengemeinschaft-Wer-seine-Eltern-pflegt-bekommt-mehr-5942443-0/ "Erbengemeinschaft - Wer seine Eltern pflegt, bekommt mehr")
+* [Gesetzliche Krankenkassen: Globuli könnten doch bleiben](https://www.test.de/Gesetzliche-Krankenkassen-Keine-Globuli-mehr-6092530-0/ "Gesetzliche Krankenkassen - Globuli könnten doch bleiben")
+* [Project-Gruppe: Auszahlungen an Anleger gestoppt](https://www.test.de/Project-Gruppe-Auszahlungen-an-Anleger-gestoppt-6044635-0/ "Project-Gruppe - Auszahlungen an Anleger gestoppt")
+* [Swiss Gold Treu­hand: Gefälschte Belege für Rohgold­bestände](https://www.test.de/Swiss-Gold-Treuhand-Gefaelschte-Belege-fuer-Rohgoldbestaende-6119238-0/ "Swiss Gold Treuhand - Gefälschte Belege für Rohgoldbestände")
 
 Fußbereich
 
@@ -3863,12 +3863,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Katzenkranken­versicherung im Test (12/2022): Kranken­versicherung für Katzen](https://www.test.de/Katzenkrankenversicherung-im-Test-122022-Krankenversicherung-fuer-Katzen-5935066-0/ "Katzenkrankenversicherung im Test (12/2022) - Krankenversicherung für Katzen")
-* [Stereo-Funk­laut­sprecher im Test: Mit dem zweiten hört man besser](https://www.test.de/Stereo-Funklautsprecher-im-Test-6094686-0/ "Stereo-Funklautsprecher im Test - Mit dem zweiten hört man besser")
-* [ELTIF: Grün investieren mit europäischen Lang­frist­fonds](https://www.test.de/ELTIF-Gruen-investieren-mit-europaeischen-Langfristfonds-5965690-0/ "ELTIF - Grün investieren mit europäischen Langfristfonds")
-* [Fonds: Misch­fonds aus unserem Dauer­test](https://www.test.de/Fonds-Mischfonds-aus-unserem-Dauertest-6144136-0/ "Fonds - Mischfonds aus unserem Dauertest")
-* [Invasive Art: Lieber keinen Kirschlor­beer pflanzen](https://www.test.de/Invasive-Art-Lieber-keinen-Kirschlorbeer-pflanzen-6133142-0/ "Invasive Art - Lieber keinen Kirschlorbeer pflanzen")
-* [E-Growing: Fest­nahmen bei der Platt­form Juicyfields](https://www.test.de/E-Growing-Festnahmen-bei-der-Plattform-Juicyfields-6113321-0/ "E-Growing - Festnahmen bei der Plattform Juicyfields")
+* [Dubioses Fest­geld: Bel-Finanz fehlt Zulassung](https://www.test.de/Dubioses-Festgeld-Bel-Finanz-ohne-Zulassung-6045716-0/ "Dubioses Festgeld - Bel-Finanz fehlt Zulassung")
+* [Zinsen: Anla­geplatt­form Zinspilot wird schritt­weise geschlossen](https://www.test.de/Zinsen-Anlageplattform-Zinspilot-wird-schrittweise-geschlossen-6108493-0/ "Zinsen - Anlageplattform Zinspilot wird schrittweise geschlossen")
+* [Erben­gemeinschaft: Wer seine Eltern pflegt, bekommt mehr](https://www.test.de/Erbengemeinschaft-Wer-seine-Eltern-pflegt-bekommt-mehr-5942443-0/ "Erbengemeinschaft - Wer seine Eltern pflegt, bekommt mehr")
+* [Gesetzliche Krankenkassen: Globuli könnten doch bleiben](https://www.test.de/Gesetzliche-Krankenkassen-Keine-Globuli-mehr-6092530-0/ "Gesetzliche Krankenkassen - Globuli könnten doch bleiben")
+* [Project-Gruppe: Auszahlungen an Anleger gestoppt](https://www.test.de/Project-Gruppe-Auszahlungen-an-Anleger-gestoppt-6044635-0/ "Project-Gruppe - Auszahlungen an Anleger gestoppt")
+* [Swiss Gold Treu­hand: Gefälschte Belege für Rohgold­bestände](https://www.test.de/Swiss-Gold-Treuhand-Gefaelschte-Belege-fuer-Rohgoldbestaende-6119238-0/ "Swiss Gold Treuhand - Gefälschte Belege für Rohgoldbestände")
 
 Weitere spannende Themen
 
@@ -3883,12 +3883,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Katzenkranken­versicherung im Test (12/2022): Kranken­versicherung für Katzen](https://www.test.de/Katzenkrankenversicherung-im-Test-122022-Krankenversicherung-fuer-Katzen-5935066-0/ "Katzenkrankenversicherung im Test (12/2022) - Krankenversicherung für Katzen")
-* [Stereo-Funk­laut­sprecher im Test: Mit dem zweiten hört man besser](https://www.test.de/Stereo-Funklautsprecher-im-Test-6094686-0/ "Stereo-Funklautsprecher im Test - Mit dem zweiten hört man besser")
-* [ELTIF: Grün investieren mit europäischen Lang­frist­fonds](https://www.test.de/ELTIF-Gruen-investieren-mit-europaeischen-Langfristfonds-5965690-0/ "ELTIF - Grün investieren mit europäischen Langfristfonds")
-* [Fonds: Misch­fonds aus unserem Dauer­test](https://www.test.de/Fonds-Mischfonds-aus-unserem-Dauertest-6144136-0/ "Fonds - Mischfonds aus unserem Dauertest")
-* [Invasive Art: Lieber keinen Kirschlor­beer pflanzen](https://www.test.de/Invasive-Art-Lieber-keinen-Kirschlorbeer-pflanzen-6133142-0/ "Invasive Art - Lieber keinen Kirschlorbeer pflanzen")
-* [E-Growing: Fest­nahmen bei der Platt­form Juicyfields](https://www.test.de/E-Growing-Festnahmen-bei-der-Plattform-Juicyfields-6113321-0/ "E-Growing - Festnahmen bei der Plattform Juicyfields")
+* [Dubioses Fest­geld: Bel-Finanz fehlt Zulassung](https://www.test.de/Dubioses-Festgeld-Bel-Finanz-ohne-Zulassung-6045716-0/ "Dubioses Festgeld - Bel-Finanz fehlt Zulassung")
+* [Zinsen: Anla­geplatt­form Zinspilot wird schritt­weise geschlossen](https://www.test.de/Zinsen-Anlageplattform-Zinspilot-wird-schrittweise-geschlossen-6108493-0/ "Zinsen - Anlageplattform Zinspilot wird schrittweise geschlossen")
+* [Erben­gemeinschaft: Wer seine Eltern pflegt, bekommt mehr](https://www.test.de/Erbengemeinschaft-Wer-seine-Eltern-pflegt-bekommt-mehr-5942443-0/ "Erbengemeinschaft - Wer seine Eltern pflegt, bekommt mehr")
+* [Gesetzliche Krankenkassen: Globuli könnten doch bleiben](https://www.test.de/Gesetzliche-Krankenkassen-Keine-Globuli-mehr-6092530-0/ "Gesetzliche Krankenkassen - Globuli könnten doch bleiben")
+* [Project-Gruppe: Auszahlungen an Anleger gestoppt](https://www.test.de/Project-Gruppe-Auszahlungen-an-Anleger-gestoppt-6044635-0/ "Project-Gruppe - Auszahlungen an Anleger gestoppt")
+* [Swiss Gold Treu­hand: Gefälschte Belege für Rohgold­bestände](https://www.test.de/Swiss-Gold-Treuhand-Gefaelschte-Belege-fuer-Rohgoldbestaende-6119238-0/ "Swiss Gold Treuhand - Gefälschte Belege für Rohgoldbestände")
 
 Neueste Tests
 
@@ -3901,12 +3901,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Katzenkranken­versicherung im Test (12/2022): Kranken­versicherung für Katzen](https://www.test.de/Katzenkrankenversicherung-im-Test-122022-Krankenversicherung-fuer-Katzen-5935066-0/ "Katzenkrankenversicherung im Test (12/2022) - Krankenversicherung für Katzen")
-* [Stereo-Funk­laut­sprecher im Test: Mit dem zweiten hört man besser](https://www.test.de/Stereo-Funklautsprecher-im-Test-6094686-0/ "Stereo-Funklautsprecher im Test - Mit dem zweiten hört man besser")
-* [ELTIF: Grün investieren mit europäischen Lang­frist­fonds](https://www.test.de/ELTIF-Gruen-investieren-mit-europaeischen-Langfristfonds-5965690-0/ "ELTIF - Grün investieren mit europäischen Langfristfonds")
-* [Fonds: Misch­fonds aus unserem Dauer­test](https://www.test.de/Fonds-Mischfonds-aus-unserem-Dauertest-6144136-0/ "Fonds - Mischfonds aus unserem Dauertest")
-* [Invasive Art: Lieber keinen Kirschlor­beer pflanzen](https://www.test.de/Invasive-Art-Lieber-keinen-Kirschlorbeer-pflanzen-6133142-0/ "Invasive Art - Lieber keinen Kirschlorbeer pflanzen")
-* [E-Growing: Fest­nahmen bei der Platt­form Juicyfields](https://www.test.de/E-Growing-Festnahmen-bei-der-Plattform-Juicyfields-6113321-0/ "E-Growing - Festnahmen bei der Plattform Juicyfields")
+* [Dubioses Fest­geld: Bel-Finanz fehlt Zulassung](https://www.test.de/Dubioses-Festgeld-Bel-Finanz-ohne-Zulassung-6045716-0/ "Dubioses Festgeld - Bel-Finanz fehlt Zulassung")
+* [Zinsen: Anla­geplatt­form Zinspilot wird schritt­weise geschlossen](https://www.test.de/Zinsen-Anlageplattform-Zinspilot-wird-schrittweise-geschlossen-6108493-0/ "Zinsen - Anlageplattform Zinspilot wird schrittweise geschlossen")
+* [Erben­gemeinschaft: Wer seine Eltern pflegt, bekommt mehr](https://www.test.de/Erbengemeinschaft-Wer-seine-Eltern-pflegt-bekommt-mehr-5942443-0/ "Erbengemeinschaft - Wer seine Eltern pflegt, bekommt mehr")
+* [Gesetzliche Krankenkassen: Globuli könnten doch bleiben](https://www.test.de/Gesetzliche-Krankenkassen-Keine-Globuli-mehr-6092530-0/ "Gesetzliche Krankenkassen - Globuli könnten doch bleiben")
+* [Project-Gruppe: Auszahlungen an Anleger gestoppt](https://www.test.de/Project-Gruppe-Auszahlungen-an-Anleger-gestoppt-6044635-0/ "Project-Gruppe - Auszahlungen an Anleger gestoppt")
+* [Swiss Gold Treu­hand: Gefälschte Belege für Rohgold­bestände](https://www.test.de/Swiss-Gold-Treuhand-Gefaelschte-Belege-fuer-Rohgoldbestaende-6119238-0/ "Swiss Gold Treuhand - Gefälschte Belege für Rohgoldbestände")
 
 Service Stiftung Warentest
 
