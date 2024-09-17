@@ -2,7 +2,7 @@
 
 ![](https://www.bms.com/assets/bms/us/en-us/images/bristol-myers-squibb-new-logo.png)
 
-[Our medicines](https://www.bms.com/patient-and-caregivers/our-medicines.html) [Our stories](https://www.bms.com/life-and-science.html) [Investors](https://www.bms.com/investors.html)
+[Our medicines](https://www.bms.com/patient-and-caregivers/our-medicines.html) [Our science](https://www.bms.com/about-us/our-science.html) [Our stories](https://www.bms.com/life-and-science.html)
 
 [![bms](/assets/bms/us/en-us/logos/bms-rebrand-logo.svg "null")](https://www.bms.com/ "bms") [Skip to main content](#main-content)
 
@@ -356,13 +356,15 @@ About us _Next Page Icon_
 
 [Leadership](https://www.bms.com/about-us/leadership.html)
 
+[Our science](https://www.bms.com/about-us/our-science.html)
+
 [Global Inclusion & Diversity](https://www.bms.com/about-us/global-diversity-and-inclusion.html)
 
 [Our impact](https://www.bms.com/about-us/our-impact.html)
 
-[Contact us](https://www.bms.com/about-us/contact-us.html)
-
 [Working at BMS](https://www.bms.com/about-us/working-at-bms.html)
+
+[Contact us](https://www.bms.com/about-us/contact-us.html)
 
 Related links
 
