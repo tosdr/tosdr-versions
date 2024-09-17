@@ -1,6 +1,6 @@
 [Skip to content](#main)
 
-Please take our 6-minute community [survey](https://www.w3.org/news/2024/w3c-opens-community-wide-survey/) on how we fulfill our mission for the world-wide web.
+Watch online on 26 September at 1-2am UTC the [W3C@30](https://www.w3.org/2024/09/TPAC/w3c-30.html) talks - 'From impact to imperative'
 
 * [日本語ホームページJapanese website](https://www.w3.org/ja/)
 * [简体中文首页Chinese website](https://www.w3.org/zh-hans/)
