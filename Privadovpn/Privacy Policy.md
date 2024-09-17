@@ -91,7 +91,7 @@ PrivadoVPN Privacy Policy
 
   
 
-#### **Last Updated:** July 23, 2024
+#### **Last Updated:** September 17, 2024
 
 PrivadoVPN Key Privacy Facts
 
@@ -128,7 +128,7 @@ When you use our Services, we may collect the following information:
 * **Desktop & Mobile Applications:** We collect information regarding which application version(s) you have activated for troubleshooting and assisting with support issues. We may also collect anonymous, aggregate statistics, such as the type of operating systems and devices that are most commonly used, including total number of installs, total number of uninstalls and the number of active users over a period of time.
 * **Desktop & Mobile Analytics Software:** We use self-hosted Sentry crash reporting tools to send us crash reports so we can provide bug fixes and address technical issues rapidly.
 * **Mobile Identifiers:** We use mobile identifiers provided by iOS and Android devices. These identifiers do not contain your email address or name. Mobile identifiers provide us with statistics related to marketing or channel partners. Users may turn-off or reset Mobile Identifiers at any time. iOS users should review Apple’s support page at [support.apple.com/en-us/HT205223](https://support.apple.com/en-us/HT205223). Android users should review Google’s support page at [support.google.com/android/answer/3118621?hl=en](https://support.google.com/android/answer/3118621?hl=en).
-* **Android Device Location Data:** Location permissions are required to use the Privado TrustedNetwork feature on Android. If enabled, the Privado Android app must access the device location data to identify the network connected for evaluation by TrustedNetwork. Location data is used locally and never transmitted off device.
+* **Android Device Location Data:** Location permissions are required to use the Privado TrustedNetwork feature on Android. If enabled, the PrivadoVPN Android application will access the device location data to identify the WiFi network SSID (Service Set Identifier) connected for evaluation by TrustedNetwork. This location data, specifically the WiFi network SSID, is accessed regularly in the background by the application, only ever stored locally and never transmitted off device.
 
   
 
