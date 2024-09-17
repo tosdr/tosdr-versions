@@ -35,6 +35,7 @@ MENUMENU
     * [Transvaginal Mesh Lawsuit](https://theguardianlegalnetwork.com/defective-medical-devices/transvaginal-mesh/)
 * [Product Liability](https://theguardianlegalnetwork.com/product-liability/)
     * [3M Earplugs Lawsuit](https://theguardianlegalnetwork.com/product-liability/3m-earplugs/)
+    * [Dacthal Herbicide Lawsuit](https://theguardianlegalnetwork.com/product-liability/dacthal-herbicide-lawsuit/)
     * [Firefighting Foam Lawsuit](https://theguardianlegalnetwork.com/product-liability/firefighting-foam/)
     * [Hair Relaxer Lawsuit](https://theguardianlegalnetwork.com/product-liability/hair-relaxer-lawsuit/)
     * [Juul Lawsuit](https://theguardianlegalnetwork.com/product-liability/juul/)
