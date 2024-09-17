@@ -37,7 +37,7 @@ Search
 TERMS OF SERVICE
 ================
 
-Updated March 21, 2023
+Updated September 17, 2024
 
 OVERVIEW
 --------
@@ -97,6 +97,8 @@ Products will be shipped via the shipping option you select at the time of purch
 The cost to ship Products that you purchase through the Site is calculated on a “per order,” “per item,” or “per pound” basis and is based on the shipping option selected by you or us at the time of purchase. We will ship, working by ourselves or through third-party fulfillment centers, the Products to the address designated by you so long as such address is complete and complies with the shipping restrictions contained on the Site. All transactions are made pursuant to a shipping contract and, as a result, risk of loss and title for the Product passes to you upon delivery of the Product to the carrier. Lost Product or Product returned as undeliverable will be replaced or reshipped to you only after you pay relevant replacement or shipping fees.
 
 We will send you an email when your order has shipped and you may review your order and shipping information on your Account. Any delivery dates provided by us are estimates. Currently, we ship to the US only. You are responsible for keeping your account and shipping information accurate and up-to-date and any address changes for a month’s Subscription box must be made by the 15th of the month by 11:59pm PST to be valid for that month’s box.
+
+When gifting a product through our site, you may have the option to include a personalized gift message for the recipient. If you provide the recipient's email address during the checkout process, the gift message will be delivered via email. In cases where an email address is not provided but a physical mailing address is provided, the gift message will be sent in the form of a postcard to the recipient's mailing address.
 
 If we guarantee delivery of Product by a certain date, we may provide a refund of any Delivery Fees associated with delivery of that Product if Product does not arrive by the guaranteed delivery date, subject to the following terms and requirements: (1) The ordered Product is covered by the delivery date guarantee; (2) the ordered Product is shipping to an eligible address; (3) the Product order is placed before any deadline associated with the guaranteed delivery date; and (4) the customer's credit card or debit card must also be successfully charged before the deadline associated with the guaranteed delivery date.
 
