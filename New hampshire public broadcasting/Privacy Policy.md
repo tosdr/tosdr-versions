@@ -191,8 +191,8 @@ NHPBS inspires one million Granite Staters each month with engaging and trusted 
 * [**A Brief But Spectacular take on multigenerational housing** | PBS News Hour](https://video.nhpbs.org/video/brief-but-spectacular-1726511970?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Vote 2024 Table Talk** | Milwaukee PBS Specials](https://video.nhpbs.org/video/vote-2024-table-talk-pkgews?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Trailer Wild Hogs and Saffron** | Independent Lens](https://video.nhpbs.org/video/trailer-wild-hogs-and-saffron-7xdydw?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**September 16, 2024** | Amanpour and Company](https://video.nhpbs.org/video/september-16-2024-0duzwt?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**"South Korea's Adoption Reckoning" - Preview** | FRONTLINE](https://video.nhpbs.org/video/south-koreas-adoption-reckoning-preview?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**Vetting Candidates** | The State We're In](https://video.nhpbs.org/video/vetting-candidates-laf8jc?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 
 **FCC Public File Info**: [WENH](https://publicfiles.fcc.gov/tv-profile/wenh-tv) | [WLED](https://publicfiles.fcc.gov/tv-profile/wled-tv) | [WEKW](https://publicfiles.fcc.gov/tv-profile/wekw-tv) | [EEO Public File Report](https://publicfiles.fcc.gov/tv-profile/wenh-tv/equal-employment-opportunity-records/additional-documents/eeo-public-file-reports/5d0f4964-7b9d-41c3-c658-a55a34730f8a/) | For assistance, please email [themailbox@nhpbs.org](mailto:themailbox@nhpbs.org)
 
