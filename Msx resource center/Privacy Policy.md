@@ -13,7 +13,7 @@
     * [ARCHIVE](https://www.msx.org/archive)
 * [FORUM](https://www.msx.org/forum)
     * [MSX TALK](https://www.msx.org/forum/msx-talk)
-    * [DEBATES EN ESPAÑOL](https://www.msx.org/forum/debates-en-espa-ol)
+    * [DEBATES EN ESPAÑOL](https://www.msx.org/forum/debates-en-espagnol)
     * [MULTILINGUAL FORUMS](https://www.msx.org/forum/multilingual-forums-1)
 * [WIKI](http://www.msx.org/wiki/)
     * [INDEX](http://www.msx.org/wiki/)
@@ -150,14 +150,14 @@ Latest reactions
 
 Latest forum posts
 
+* [Cannot see symbols in the openMSX debugger](https://www.msx.org/forum/msx-talk/openmsx/cannot-see-symbols-in-the-openmsx-debugger "Cannot see symbols in the openMSX debugger")
 * [V9990 incomplete initialization on ASM Ghost'n'Goblins ?](https://www.msx.org/forum/msx-talk/software/v9990-incomplete-initialization-on-asm-ghostngoblins?page=5 "V9990 incomplete initialization on ASM Ghost'n'Goblins ?")
-* [WonderTANG! Who wants to juice up your MSX?](https://www.msx.org/forum/msx-talk/hardware/wondertang-who-wants-to-juice-up-your-msx?page=49 "WonderTANG! Who wants to juice up your MSX?")
+* [WonderTANG! Who wants to juice up your MSX?](https://www.msx.org/forum/msx-talk/hardware/wondertang-who-wants-to-juice-up-your-msx?page=50 "WonderTANG! Who wants to juice up your MSX?")
 * [Penguin Adventure Remake - pre Alpha](https://www.msx.org/forum/msx-talk/general-discussion/penguin-adventure-remake-pre-alpha?page=1 "Penguin Adventure Remake - pre Alpha")
 * [Save MRC](https://www.msx.org/forum/msx-talk/msx-resource-center/save-mrc?page=3 "Save MRC ")
 * [Please help testing upcoming openMSX release!](https://www.msx.org/forum/msx-talk/openmsx/please-help-testing-upcoming-openmsx-release?page=117 "Please help testing upcoming openMSX release!")
 * [Cannot write .dsk files to real floppy on MSX](https://www.msx.org/forum/msx-talk/hardware/cannot-write-dsk-files-to-real-floppy-on-msx?page=2 "Cannot write .dsk files to real floppy on MSX")
 * [Emulator / debugger recommendations for development on PC](https://www.msx.org/forum/msx-talk/development/emulator-debugger-recommendations-for-development-on-pc "Emulator / debugger recommendations for development on PC")
-* [Cannot see symbols in the openMSX debugger](https://www.msx.org/forum/msx-talk/openmsx/cannot-see-symbols-in-the-openmsx-debugger "Cannot see symbols in the openMSX debugger")
 * [The Big MegaFlashROM SCC+ SD Topic](https://www.msx.org/forum/msx-talk/hardware/big-megaflashrom-scc-sd-topic?page=99 "The Big MegaFlashROM SCC+ SD Topic")
 * [MSX2 - RBG Video output not working](https://www.msx.org/forum/msx-talk/hardware/msx2-rbg-video-output-not-working?page=1 "MSX2 - RBG Video output not working")
 * [Game development: MSX vs Amiga](https://www.msx.org/forum/msx-talk/general-discussion/game-development-msx-vs-amiga?page=3 "Game development: MSX vs Amiga")
@@ -170,7 +170,7 @@ News headlines
 
 * [MSX and Networking book crowdfunding](https://www.msx.org/news/en/new-book-about-msx-and-networking-crowdfunding-campaign "MSX and Networking book crowdfunding")
 * [MSX UK fun day](https://www.msx.org/news/en/msx-uk-fun-day "MSX UK fun day")
-* [Hype OPL3](https://www.msx.org/news/en/hypeopl "Hype OPL3")
+* [Hype OPL3](https://www.msx.org/news/en/hypeopl3 "Hype OPL3")
 * [Fruit Mazes and Pallo](https://www.msx.org/news/en/pallo-a-new-game-for-your-msx2 "Fruit Mazes and Pallo")
 * [MSX Fair Nijmegen 2025](https://www.msx.org/news/en/march-8-2025-20th-msx-fair-nijmegen "MSX Fair Nijmegen 2025")
 * [Shockwave2 and Audiowave new batches](https://www.msx.org/news/en/opl4-shockwave-2-ready-delivery "Shockwave2 and Audiowave new batches")
