@@ -1,12 +1,10 @@
  
 
-                                                                                                                      
+                                                                                              
 
 ![](https://certify.alexametrics.com/atrk.gif?account=M/Puq154He20NE)
 
-     
-
-  
+          
 
 [Skip to Content](#content)
 
