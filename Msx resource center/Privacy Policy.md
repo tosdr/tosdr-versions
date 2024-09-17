@@ -137,6 +137,7 @@ MSX Music player
 
 Latest reactions
 
+* [I-Logic](https://www.msx.org/news/software/en/i-logic "I-Logic")
 * [MSX UK fun day](https://www.msx.org/news/en/msx-uk-fun-day "MSX UK fun day")
 * [Rambo MSX2 remake announced](https://www.msx.org/news/en/rambo-msx2-remake "Rambo MSX2 remake announced")
 * [HD Menu 3.2](https://www.msx.org/downloads/utilities/msx-dos-2/hd-menu-32 "HD Menu 3.2")
@@ -146,23 +147,22 @@ Latest reactions
 * [SofaRun 8.0 has been released](https://www.msx.org/news/en/sofarun-80-has-been-released "SofaRun 8.0 has been released")
 * [Málaga MSX meeting 2024](https://www.msx.org/news/events/en/m%C3%A1laga-msx-meeting-2024 "Málaga MSX meeting 2024")
 * [Carnivore2+ is now available for purchasing!](https://www.msx.org/news/en/carnivore2-is-now-available-for-purchasing "Carnivore2+ is now available for purchasing!")
-* [MSX Pico - multi Flash ROM cartridge](https://www.msx.org/news/hardware/en/msx-pico-cartridge "MSX Pico - multi Flash ROM cartridge")
 
 Latest forum posts
 
+* [Carnivore2 : First impressions and bugs...](https://www.msx.org/forum/msx-talk/hardware/carnivore2-first-impressions-and-bugs?page=54 "Carnivore2 : First impressions and bugs...")
+* [Penguin Adventure Remake - pre Alpha](https://www.msx.org/forum/msx-talk/general-discussion/penguin-adventure-remake-pre-alpha?page=1 "Penguin Adventure Remake - pre Alpha")
+* [Cannot see symbols in the openMSX debugger](https://www.msx.org/forum/msx-talk/openmsx/cannot-see-symbols-in-the-openmsx-debugger "Cannot see symbols in the openMSX debugger")
 * [Emulator / debugger recommendations for development on PC](https://www.msx.org/forum/msx-talk/development/emulator-debugger-recommendations-for-development-on-pc "Emulator / debugger recommendations for development on PC")
 * [vFM (virtual Full Music) MSX universal audio Cartridge](https://www.msx.org/forum/msx-talk/hardware/vfm-virtual-full-music-msx-universal-audio-cartridge?page=5 "vFM (virtual Full Music) MSX universal audio Cartridge")
-* [Cannot see symbols in the openMSX debugger](https://www.msx.org/forum/msx-talk/openmsx/cannot-see-symbols-in-the-openmsx-debugger "Cannot see symbols in the openMSX debugger")
 * [V9990 incomplete initialization on ASM Ghost'n'Goblins ?](https://www.msx.org/forum/msx-talk/software/v9990-incomplete-initialization-on-asm-ghostngoblins?page=5 "V9990 incomplete initialization on ASM Ghost'n'Goblins ?")
 * [WonderTANG! Who wants to juice up your MSX?](https://www.msx.org/forum/msx-talk/hardware/wondertang-who-wants-to-juice-up-your-msx?page=50 "WonderTANG! Who wants to juice up your MSX?")
-* [Penguin Adventure Remake - pre Alpha](https://www.msx.org/forum/msx-talk/general-discussion/penguin-adventure-remake-pre-alpha?page=1 "Penguin Adventure Remake - pre Alpha")
 * [Save MRC](https://www.msx.org/forum/msx-talk/msx-resource-center/save-mrc?page=3 "Save MRC ")
 * [Please help testing upcoming openMSX release!](https://www.msx.org/forum/msx-talk/openmsx/please-help-testing-upcoming-openmsx-release?page=117 "Please help testing upcoming openMSX release!")
 * [Cannot write .dsk files to real floppy on MSX](https://www.msx.org/forum/msx-talk/hardware/cannot-write-dsk-files-to-real-floppy-on-msx?page=2 "Cannot write .dsk files to real floppy on MSX")
 * [The Big MegaFlashROM SCC+ SD Topic](https://www.msx.org/forum/msx-talk/hardware/big-megaflashrom-scc-sd-topic?page=99 "The Big MegaFlashROM SCC+ SD Topic")
 * [MSX2 - RBG Video output not working](https://www.msx.org/forum/msx-talk/hardware/msx2-rbg-video-output-not-working?page=1 "MSX2 - RBG Video output not working")
 * [Game development: MSX vs Amiga](https://www.msx.org/forum/msx-talk/general-discussion/game-development-msx-vs-amiga?page=3 "Game development: MSX vs Amiga")
-* [GORILLA.BAS for MSX](https://www.msx.org/forum/msx-talk/software/gorillabas-for-msx "GORILLA.BAS for MSX")
 
 [](https://www.msx.org/forum/)[More forum topics](https://www.msx.org/forum/)
 
