@@ -479,29 +479,29 @@ Revised June 1, 2022
 
   [![Activists hold up symbolic eye masks during a protest against deepfake porn in Seoul on Aug. 30. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/13/420717.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Activists hold up symbolic eye masks during a protest against deepfake porn in Seoul on Aug. 30. ")](https://www.japantimes.co.jp/commentary/2024/09/13/world/south-korea-deepfake-porn-crisis/ "South Korea is facing deepfake porn crisis")
 
-[‘The people I’d seen in kimono didn’t have as much melanin as I do’](https://www.japantimes.co.jp/community/2024/09/16/our-lives/kimono-instructor-license-black-women-japan/ "‘The people I’d seen in kimono didn’t have as much melanin as I do’")
+[Second assassination attempt on Trump is latest jolt in chaotic campaign](https://www.japantimes.co.jp/news/2024/09/16/world/politics/trump-new-assassination-suspect/ "Second assassination attempt on Trump is latest jolt in chaotic campaign")
 
-  [![American Kara Harris is on the verge of attaining a high-level certification in the world of kimono — and may possibly be the first Black woman to do so.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/13/421162.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "American Kara Harris is on the verge of attaining a high-level certification in the world of kimono — and may possibly be the first Black woman to do so.")](https://www.japantimes.co.jp/community/2024/09/16/our-lives/kimono-instructor-license-black-women-japan/ "‘The people I’d seen in kimono didn’t have as much melanin as I do’")
+  [![U.S. Secret Service and Homeland Security agents check a former home of a Ryan Routh, a suspect in an alleged assassination attempt on former U.S. President Donald Trump, in Greensboro, North Carolina, on Sunday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/16/421973.JPG?v=3.1&w=400&q=100&f=jpg&t=1.2 "U.S. Secret Service and Homeland Security agents check a former home of a Ryan Routh, a suspect in an alleged assassination attempt on former U.S. President Donald Trump, in Greensboro, North Carolina, on Sunday.")](https://www.japantimes.co.jp/news/2024/09/16/world/politics/trump-new-assassination-suspect/ "Second assassination attempt on Trump is latest jolt in chaotic campaign")
 
-[‘Shogun’ and the painstaking art of ‘getting it right’](https://www.japantimes.co.jp/culture/2024/09/16/tv-streaming/shogun-emmys-authentic-portrayal/ "‘Shogun’ and the painstaking art of ‘getting it right’")
+['Shogun' becomes first non-English-language winner of best drama Emmy](https://www.japantimes.co.jp/culture/2024/09/16/tv-streaming/emmy-awards-shogun/ "'Shogun' becomes first non-English-language winner of best drama Emmy")
 
-  [![Hiroyuki Sanada and the cast and crew of "Shogun" accept the award for best drama series at the 76th Primetime Emmy Awards in Los Angeles, California.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/16/422080.JPG?v=3.1&w=400&q=100&f=jpg&t=1.2 "Hiroyuki Sanada and the cast and crew of "Shogun" accept the award for best drama series at the 76th Primetime Emmy Awards in Los Angeles, California.")](https://www.japantimes.co.jp/culture/2024/09/16/tv-streaming/shogun-emmys-authentic-portrayal/ "‘Shogun’ and the painstaking art of ‘getting it right’")
+  [![Japanese actress Anna Sawai, winner of the outstanding lead actress in a drama series award for "Shogun," and Japanese actor Hiroyuki Sanada, winner of the outstanding lead actor in a drama series award for the show, pose in the press room during the 76th Emmy Awards in Los Angeles on Sunday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/16/421939.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Japanese actress Anna Sawai, winner of the outstanding lead actress in a drama series award for "Shogun," and Japanese actor Hiroyuki Sanada, winner of the outstanding lead actor in a drama series award for the show, pose in the press room during the 76th Emmy Awards in Los Angeles on Sunday.")](https://www.japantimes.co.jp/culture/2024/09/16/tv-streaming/emmy-awards-shogun/ "'Shogun' becomes first non-English-language winner of best drama Emmy")
 
 [Chris Broad's new bar puts cocktails first, YouTube second](https://www.japantimes.co.jp/life/2024/09/15/food-drink/lost-bar-chris-broad-abroad-in-japan-shibuya/ "Chris Broad's new bar puts cocktails first, YouTube second")
 
   [![A self-proclaimed lover of great cocktails, YouTuber Chris Broad says his new Shibuya watering hole is more a place to get yourself a solid drink than it is anything related to his social media career.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/13/421419.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "A self-proclaimed lover of great cocktails, YouTuber Chris Broad says his new Shibuya watering hole is more a place to get yourself a solid drink than it is anything related to his social media career.")](https://www.japantimes.co.jp/life/2024/09/15/food-drink/lost-bar-chris-broad-abroad-in-japan-shibuya/ "Chris Broad's new bar puts cocktails first, YouTube second")
 
-[LDP presidential hopefuls outline approach to U.S. and China concerns](https://www.japantimes.co.jp/news/2024/09/15/japan/politics/ldp-presidential-hopefuls-us-china/ "LDP presidential hopefuls outline approach to U.S. and China concerns")
+[In LDP presidential poll, three kingmakers hold all the cards](https://www.japantimes.co.jp/news/2024/09/16/japan/politics/ldp-kingmakers/ "In LDP presidential poll, three kingmakers hold all the cards")
 
-  [![Candidates for Japan's ruling Liberal Democratic Party presidential election stand together onstage at the Japan National Press Club in Tokyo on Saturday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/14/421694.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Candidates for Japan's ruling Liberal Democratic Party presidential election stand together onstage at the Japan National Press Club in Tokyo on Saturday.")](https://www.japantimes.co.jp/news/2024/09/15/japan/politics/ldp-presidential-hopefuls-us-china/ "LDP presidential hopefuls outline approach to U.S. and China concerns")
+  [![Prime Minister Fumio Kishida speaks at the Liberal Democratic Party headquarters in Tokyo in January as former Prime Minister Yoshihide Suga (left) looks on.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/16/421885.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Prime Minister Fumio Kishida speaks at the Liberal Democratic Party headquarters in Tokyo in January as former Prime Minister Yoshihide Suga (left) looks on.")](https://www.japantimes.co.jp/news/2024/09/16/japan/politics/ldp-kingmakers/ "In LDP presidential poll, three kingmakers hold all the cards")
+
+[How China’s dominance of solar and batteries is impacting Japan’s energy transition](https://www.japantimes.co.jp/environment/2024/09/16/energy/china-supply-chain-energy-transition/ "How China’s dominance of solar and batteries is impacting Japan’s energy transition")
+
+  [![Solar panels and wind turbines at a power plant in Hami in China's Xinjiang region. The U.S. and other countries have described China’s actions against Uyghurs in the Xinjiang region, a key cog in the cleantech supply chain, as a genocidal campaign aimed at erasing an entire culture.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/16/421263.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Solar panels and wind turbines at a power plant in Hami in China's Xinjiang region. The U.S. and other countries have described China’s actions against Uyghurs in the Xinjiang region, a key cog in the cleantech supply chain, as a genocidal campaign aimed at erasing an entire culture.")](https://www.japantimes.co.jp/environment/2024/09/16/energy/china-supply-chain-energy-transition/ "How China’s dominance of solar and batteries is impacting Japan’s energy transition")
 
 [Tokyo’s top fashion showcase pushes rising stars to the world stage](https://www.japantimes.co.jp/life/2024/09/14/style-design/rakuten-fashion-week-tokyo-2024/ "Tokyo’s top fashion showcase pushes rising stars to the world stage")
 
   [![A model displays a creation by Japanese designer Norio Surikabe during a runway show on Sept. 6 for the latest edition of Rakuten Fashion Week Tokyo.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/13/420996.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "A model displays a creation by Japanese designer Norio Surikabe during a runway show on Sept. 6 for the latest edition of Rakuten Fashion Week Tokyo.")](https://www.japantimes.co.jp/life/2024/09/14/style-design/rakuten-fashion-week-tokyo-2024/ "Tokyo’s top fashion showcase pushes rising stars to the world stage")
-
-[New mouse models can boost Japan's drug development: National Cancer Center](https://www.japantimes.co.jp/news/2024/09/13/japan/science-health/cancer-drug-development/ "New mouse models can boost Japan's drug development: National Cancer Center")
-
-  [![Hiroyuki Mano, director of the National Cancer Center Japan's (NCC) research institute, explains  on Wednesday the use of mice bearing patients' cancer tissues to screen drug candidates for their efficacy.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/13/421474.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Hiroyuki Mano, director of the National Cancer Center Japan's (NCC) research institute, explains  on Wednesday the use of mice bearing patients' cancer tissues to screen drug candidates for their efficacy.")](https://www.japantimes.co.jp/news/2024/09/13/japan/science-health/cancer-drug-development/ "New mouse models can boost Japan's drug development: National Cancer Center")
 
 Podcast
 -------
@@ -564,23 +564,23 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
-[Iran president pledges to stop morality police confronting women](https://www.japantimes.co.jp/news/2024/09/17/world/iran-morality-police-women/ "Iran president pledges to stop morality police confronting women")
+[LDP presidential hopefuls lay out priorities for PM in online debate](https://www.japantimes.co.jp/news/2024/09/17/japan/politics/ldp-debate-about-priorities/ "LDP presidential hopefuls lay out priorities for PM in online debate")
 
-38 mins ago
+22 mins ago
 
-[Superbugs death toll could swell by millions over coming years](https://www.japantimes.co.jp/news/2024/09/17/world/science-health/superbugs-death-toll-millions/ "Superbugs death toll could swell by millions over coming years")
+[Deaths among elderly people using electric wheelchairs on the rise](https://www.japantimes.co.jp/news/2024/09/17/japan/elderly-electric-wheelchairs/ "Deaths among elderly people using electric wheelchairs on the rise")
+
+25 mins ago
+
+[Japanese average land price rises for third consecutive year](https://www.japantimes.co.jp/business/2024/09/17/economy/japan-land-prices/ "Japanese average land price rises for third consecutive year")
+
+49 mins ago
+
+[U.S. gathers arsenal of anti-ship weapons to counter China](https://www.japantimes.co.jp/news/2024/09/17/asia-pacific/politics/us-anti-ship-weapons-china/ "U.S. gathers arsenal of anti-ship weapons to counter China")
 
 58 mins ago
 
-[Raising awareness key to Japan's new residential road speed limit](https://www.japantimes.co.jp/news/2024/09/17/japan/japan-new-residential-road-speed-limit/ "Raising awareness key to Japan's new residential road speed limit")
-
-1 hours ago
-
-[How Intel lost the Sony PlayStation business](https://www.japantimes.co.jp/business/2024/09/17/tech/intel-lost-sony-playstation-contract/ "How Intel lost the Sony PlayStation business")
-
-1 hours ago
-
-[Suspect in second Trump assassination attempt had criminal history](https://www.japantimes.co.jp/news/2024/09/17/world/crime-legal/trump-assassination-criminal-history/ "Suspect in second Trump assassination attempt had criminal history")
+[Japan's arctic research vessel Mirai reaches sea ice area](https://www.japantimes.co.jp/news/2024/09/17/japan/science-health/japan-arctic-research-vessel-in-sea-ice/ "Japan's arctic research vessel Mirai reaches sea ice area")
 
 1 hours ago
 
