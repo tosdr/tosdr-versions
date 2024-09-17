@@ -214,10 +214,10 @@ Homepage](https://atos.net/en)
         * [Media Resources](https://atos.net/en/newsroom/media-resources)
         * [Media Contacts](https://atos.net/en/newsroom#contacts)
         
-        16 September 2024
+        17 September 2024
         
-        Availability of the adjusted draft accelerated safeguard plan
-        -------------------------------------------------------------
+        Eviden upgrades the performance of Sweden’s Berzelius AI supercomputer for the second time
+        ------------------------------------------------------------------------------------------
         
     * [Awards](https://atos.net/en/newsroom/awards)˅
         
