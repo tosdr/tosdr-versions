@@ -38,6 +38,12 @@ Main navigation
             * [BMC](https://www.flexera.com/solutions/cmdb-data-quality/bmc)
             * [Adobe](https://www.flexera.com/solutions/vendor/adobe)
     
+    ### Achieve more through a united FinOps and ITAM function
+    
+    The future is hybrid. Break down the walls between ITAM and FinOps to drive more revenue, more customer growth and more innovation.
+    
+    [Discover More](https://www.flexera.com/resources/hybrid-itam-finops)
+    
 * Products
     * Column 1
         * [Flexera One](https://www.flexera.com/products/flexera-one)
@@ -54,6 +60,12 @@ Main navigation
             * [Application Readiness](https://www.flexera.com/products/adminstudio)
             * [All products](https://www.flexera.com/products)
             * [All Snow products](https://www.flexera.com/products/snow)
+    
+    ### Flexera 2024 State of the Cloud Report
+    
+    What do transformative initiatives such as GenAI, machine learning and sustainability mean for the cloud? Check out the 2024 State of the Cloud Report to find the answer as well as all the latest cloud computing trends.
+    
+    [View Report](https://info.flexera.com/CM-REPORT-State-of-the-Cloud?lead_source=Website%20Visitor&id=Flexera.com-Resources)
     
 * Success
     * Column 1
@@ -72,6 +84,12 @@ Main navigation
             * [Flexera community](https://community.flexera.com/)
             * [Snow community](https://community.snowsoftware.com/s/)
     
+    ### Insights from Gartner®
+    
+    Find a curated series of actionable and objective insights for IT executives and their teams. Get expert insights from valued analysts, courtesy of Flexera.
+    
+    [Discover More](https://www.flexera.com/resources/gartner-analyst-research)
+    
 * Resources
     * Column 1
         * [Resources](https://www.flexera.com/resources)
@@ -88,6 +106,12 @@ Main navigation
             * [Glossary](https://www.flexera.com/resources/glossary)
             * [Demos & trials](https://www.flexera.com/resources?type%5Bdemo-trials%5D=demo-trials)
             * [Business value calculator](https://www.flexera.com/resources/business-value-calculator)
+    
+    ### Flexera 2024 State of ITAM Report
+    
+    How are ITAM professionals optimizing IT assets? Check out the 2024 State of ITAM Report to discover the latest trends.
+    
+    [View Report](https://info.flexera.com/ITAM-REPORT-State-of-IT-Asset-Management?lead_source=Website%20Visitor&id=Flexera.com-Resources)
     
 * About
     * Column 1
@@ -108,6 +132,12 @@ Main navigation
             * Social responsibility
                 * [ESG](https://www.flexera.com/about-us/environmental-social-governance)
                 * [Diversity](https://www.flexera.com/about-us/diversity)
+    
+    ### More value with technology intelligence
+    
+    The unparalleled synergy of Flexera and Snow provides the Technology Intelligence you need for more efficiency, insight and governance than ever before.
+    
+    [Discover More](https://www.flexera.com/more-value-with-technology-intelligence)
     
 
 Search 
