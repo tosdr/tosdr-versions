@@ -3,7 +3,7 @@
 Please confirm that you and not a robot are sending requests
 ============================================================
 
-We're sorry, but it looks like requests sent from your device are automated.   [Why might this happen?](https://yandex.com/support/smart-captcha/problems.html?form-unique_key=fd296608-9d36dbd9-ad1a7914-8627eab9)
+We're sorry, but it looks like requests sent from your device are automated.   [Why might this happen?](https://yandex.com/support/smart-captcha/problems.html?form-unique_key=40fd4e85-89ef3384-ffc3cf50-a8181bb0)
 
 JavaScript is disabled. After checkbox you will have additional check. [How to enable JavaScript?](https://yandex.com/support/common/browsers-settings/browsers-java-js-settings.html)
 
@@ -11,10 +11,10 @@ I'm not a robot Press to continue
 
 [SmartCaptcha by Yandex Cloud](https://cloud.yandex.com/services/smartcaptcha?utm_source=captcha&utm_medium=chbx&utm_campaign=security)
 
-If you have any problems, please use the [feedback form](https://yandex.com/support/smart-captcha/problems.html?form-unique_key=fd296608-9d36dbd9-ad1a7914-8627eab9)
+If you have any problems, please use the [feedback form](https://yandex.com/support/smart-captcha/problems.html?form-unique_key=40fd4e85-89ef3384-ffc3cf50-a8181bb0)
 
-fd296608-9d36dbd9-ad1a7914-8627eab9:1726545767
+40fd4e85-89ef3384-ffc3cf50-a8181bb0:1726567915
 
 ![](https://mc.yandex.ru/watch/10630330?ut=noindex)
 
-![](https://adfstat.yandex.ru/captcha?req_id=1726545767236547-14928444505084859623-balancer-l7leveler-kubr-yp-sas-130-BAL&unique_key=fd296608-9d36dbd9-ad1a7914-8627eab9)
+![](https://adfstat.yandex.ru/captcha?req_id=1726567915381070-807975079430757646-balancer-l7leveler-kubr-yp-vla-150-BAL&unique_key=40fd4e85-89ef3384-ffc3cf50-a8181bb0)
