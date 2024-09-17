@@ -1,7 +1,8 @@
-Monday, September 16 2024
+Tuesday, September 17 2024
 
 Breaking News
 
+* [We Are Different, and the Left Keeps Attacking Us For It](https://www.conservativedailynews.com/2024/09/we-are-different-and-the-left-keeps-attacking-us-for-it/)
 * [Police Release Bodycam Footage Of Arrest Of Alleged Would-Be Trump Assassin](https://www.conservativedailynews.com/2024/09/police-release-bodycam-footage-of-arrest-of-alleged-would-be-trump-assassin/)
 * [Strengthening Candidate Security With Campaign Funds Is A Common Sense Solution](https://www.conservativedailynews.com/2024/09/strengthening-candidate-security-with-campaign-funds-is-a-common-sense-solution/)
 * [Ukraine Distances Itself From Would-Be Trump Shooter Who Said He’d ‘Die’ For Kyiv](https://www.conservativedailynews.com/2024/09/ukraine-distances-itself-from-would-be-trump-shooter-who-said-hed-die-for-kyiv/)
@@ -9,7 +10,6 @@ Breaking News
 * [MSNBC Anchor Says Trump Should Tone Down Rhetoric After Potential Second Assassination Attempt](https://www.conservativedailynews.com/2024/09/msnbc-anchor-says-trump-should-tone-down-rhetoric-after-potential-second-assassination-attempt/)
 * [Medal of Honor Monday: Navy Cmdr. Arthur M. Preston](https://www.conservativedailynews.com/2024/09/medal-of-honor-monday-navy-cmdr-arthur-m-preston/)
 * [President Joe Biden’s Schedule for Monday, September 16, 2024](https://www.conservativedailynews.com/2024/09/president-joe-bidens-schedule-for-monday-september-16-2024/)
-* [Trump’s Legal Battles Have Slowed To A Crawl As Election Becomes ‘Largest Jury Verdict In History’](https://www.conservativedailynews.com/2024/09/trumps-legal-battles-have-slowed-to-a-crawl-as-election-becomes-largest-jury-verdict-in-history/)
 
 * [Sidebar](#)
 * [Random Article](https://www.conservativedailynews.com/privacy-policy/?random-post=1 "Random Article")
@@ -126,6 +126,12 @@ Created using the Donation Thermometer plugin https://wordpress.org/plugins/dona
 
 Recent Posts
 
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/09/IMG_5599-220x150.jpeg)](https://www.conservativedailynews.com/2024/09/we-are-different-and-the-left-keeps-attacking-us-for-it/)
+    
+    [We Are Different, and the Left Keeps Attacking Us For It](https://www.conservativedailynews.com/2024/09/we-are-different-and-the-left-keeps-attacking-us-for-it/)
+    
+    September 16, 2024
+    
 * [![Donald Trump assassination attempt](https://www.conservativedailynews.com/wp-content/uploads/2024/09/stg091624dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/09/the-target/)
     
     [The Target](https://www.conservativedailynews.com/2024/09/the-target/)
@@ -165,12 +171,6 @@ Recent Posts
 * [![](https://www.conservativedailynews.com/wp-content/uploads/2022/09/MSDNC-MSNBC-Media-Bias-220x150.png)](https://www.conservativedailynews.com/2024/09/msnbc-anchor-says-trump-should-tone-down-rhetoric-after-potential-second-assassination-attempt/)
     
     [MSNBC Anchor Says Trump Should Tone Down Rhetoric After Potential Second Assassination Attempt](https://www.conservativedailynews.com/2024/09/msnbc-anchor-says-trump-should-tone-down-rhetoric-after-potential-second-assassination-attempt/)
-    
-    September 16, 2024
-    
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2023/04/Donald-Trump-Fox-interview-1-220x150.png)](https://www.conservativedailynews.com/2024/09/trump-is-very-specific-about-his-economic-plans/)
-    
-    [Trump Is Very Specific About His Economic Plans](https://www.conservativedailynews.com/2024/09/trump-is-very-specific-about-his-economic-plans/)
     
     September 16, 2024
     
