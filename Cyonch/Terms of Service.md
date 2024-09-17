@@ -1,3 +1,5 @@
+**Vorsicht Phishing:** Momentan versenden Kriminelle gefälschte E-Mails an cyon-Kundschaft. [Mehr erfahren.](https://status.cyon.info/incidents/613)
+
  [![cyon logo](/svg/cyon-logo.svg) cyon](https://www.cyon.ch/)
 
 * Hosting
