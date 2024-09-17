@@ -9,7 +9,7 @@
     
 * | Links
     
-    [About](https://www.lesslikely.com/about/) [Projects](https://www.lesslikely.com/projects) [Blog Roll](https://www.lesslikely.com/projects/blog-roll) [Contact](https://www.lesslikely.com/contact/)
+    [About](https://www.lesslikely.com/about/) [Projects](https://www.lesslikely.com/projects) [Blog Roll](https://www.lesslikely.com/projects/blog-roll) [Contact](https://www.lesslikely.com/contact/) [admin](https://www.lesslikely.com/admin)
     
 * [](#modalSearch)
 
@@ -87,6 +87,8 @@ Code
   
 
  [![](/images/HomeLogo.gif) Powered by stochastic processes.](https://www.lesslikely.com/build)
+
+    
 
       
 
