@@ -263,7 +263,7 @@ Navigation
 Conditions générales de vente et d’utilisation
 ==============================================
 
-Version du 29 juillet 2024
+Version du 17 septembre 2024
 
 Informations légales
 
@@ -549,7 +549,7 @@ L’utilisation de « codes promos » permet à l’Abonné soit de bénéficier
   
 La durée des tarifs promotionnels est précisée dans l’offre d’abonnement et ne saurait être supérieure à un (1) an. Au-delà de cette première période, l’Abonné continuera de bénéficier de remises substantielles dégressives appliquées par pallier annuel durant les quatre (4) années suivantes.  
   
-Le prix des Hors-Série est un prix unitaire indiqué lors de l’achat auquel s’ajoute des frais de livraison dont le tarif sera calculé en fonction du nombre total de Hors-Séries commandés dans une seule et même commande. Le prix total (Hors-Série(s) et frais de livraison) est payable en une seule fois. Le Hors-Série sera livré par voie postale à l’adresse indiquée lors de la commande, dans un délai pouvant aller jusqu’à trois semaines suivant la date d’achat.
+Le prix des Hors-Série ou des produits proposés dans la boutique éphémère dédiée aux 80 ans du Parisien sont des prix unitaires indiqués lors de l’achat auxquels s’ajoutent des frais de livraison précisés lors de la validation du panier. La boutique en ligne du Site ne permettant pas de cumuler plusieurs produits dans un seul et même panier, que ce soit pour une commande de Hors-Série ou de produits vendus dans la boutique éphémère dédiée aux 80 ans du Parisien, si l’Utilisateur souhaite commander plusieurs produits, il devra valider autant de panier que de produits souhaités. Toutefois, l’Utilisateur a la possibilité de contacter directement le Service Client dont les coordonnées sont disponibles à l’article 18.3 ci-après pour effectuer une commande globale.
 
 9.2 Conditions de paiement
 --------------------------
@@ -578,6 +578,13 @@ Conformément à l’article L.121-21 du Code de la Consommation, l’Abonné di
 Pour toute commande de Hors-Série à l’unité, l’Utilisateur dispose d’un délai de quatorze jours à compter de la réception des Hors-Séries pour exercer votre droit de rétractation. Après communication de la décision d'exercer son droit de rétractation dans ce délai de 14 jours, l’Utilisateur dispose d'un autre délai de 14 jours pour renvoyer le ou les Hors-Séries concernés par la rétractation. Les retours sont à effectuer dans leur état d'origine et complets permettant leur recommercialisation à l'état neuf. En cas de dépréciation de l’Hors-Série, votre responsabilité peut être engagée.  
   
 Le bulletin de rétractation est fourni à l’Abonné dans les présentes CGV/CGU. En cas d'exercice du droit de rétractation, la Société procédera au remboursement des sommes versées (y compris les frais de livraison relatif à l'envoi initial) au plus tard dans les 14 jours à compter de la date à laquelle la Société est informée de la décision de l’Utilisateur de se rétracter. Cette date de remboursement pouvant être différée jusqu'au retour du ou des Hors-Série(s) correspondant. Il est expressément précisé que les coûts directs de renvoi restent à la charge de l’Utilisateur et ne seront pas inclus dans le montant du remboursement susvisé.
+
+10.3 Dans le cadre d’un achat sur la boutique éphémère dédiée aux 80 ans du Parisien
+------------------------------------------------------------------------------------
+
+Pour toute commande au sein de la boutique éphémère dédiée aux 80 ans du Parisien, l’Utilisateur dispose d’un délai de quatorze jours à compter de la réception de sa commande pour exercer votreson droit de rétractation. Après communication de la décision d'exercer son droit de rétractation dans ce délai de 14 jours, l’Utilisateur dispose d'un autre délai de 14 jours pour renvoyer le ou les produit(s) concerné(s) par la rétractation. Les retours sont à effectuer dans leur état d'origine et complets permettant leur recommercialisation à l'état neuf. En cas de dépréciation de d’un ou plusieurs produits, votre responsabilité peut être engagée.  
+  
+Le bulletin de rétractation est fourni à l’Abonné dans les présentes CGV/CGU. En cas d'exercice du droit de rétractation, la Société procédera au remboursement des sommes versées (y compris les frais de livraison relatif à l’envoi initial) au plus tard dans les 14 jours à compter de la date à laquelle la Société est informée de la décision de l’Utilisateur de se rétracter. Cette date de remboursement pouvant être différée jusqu'au retour du ou produit(s) correspondant(s). Il est expressément précisé que les coûts directs de renvoi restent à la charge de l’Utilisateur et ne seront pas inclus dans le montant du remboursement susvisé.
 
 11\. Propriété Intellectuelle de la Société sur les Supports Numériques – Politique de fouille des données
 
@@ -790,6 +797,7 @@ Conditions : Compléter et signer ce formulaire. L’envoyer par lettre recomman
   
 Je soussigné(e) (Nom du Client) \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ vous notifie par la présente ma rétractation au contrat d’Abonnement portant sur (Nom de l’Offre d’Abonnement)\_\_\_\_\_\_\_\_\_\_\_\_  
 Ou de ma commande de Hors-Série intitulé (précisez les titres correspondant)  
+Ou de ma commande au sein de la boutique éphémère dédiée aux 80 ans du Parisien (préciser les articles retournés)  
   
   
 Date de la commande \_\_/\_\_/\_\_  
