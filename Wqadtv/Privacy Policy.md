@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
+    *  [![](https://media.tegna-media.com/assets/WTOL/images/b388c9d3-f0b3-4455-9f68-5229a718ed9a/b388c9d3-f0b3-4455-9f68-5229a718ed9a_16x9.jpg) ![](https://media.tegna-media.com/assets/WTOL/images/b388c9d3-f0b3-4455-9f68-5229a718ed9a/b388c9d3-f0b3-4455-9f68-5229a718ed9a_360x203.jpg)](https://www.wqad.com/article/news/local/man-shot-rock-island-monday-night/526-4e09221d-0cd3-4f35-9b90-ba54dd104e63)
+        
+        #### [Man shot in Rock Island Monday night near Riverside Liquor](https://www.wqad.com/article/news/local/man-shot-rock-island-monday-night/526-4e09221d-0cd3-4f35-9b90-ba54dd104e63)
+        
     *  [![](https://media.tegna-media.com/assets/WQAD/images/ecf6af29-3057-41c2-8835-4d77afa1d2b7/20240917T022840/ecf6af29-3057-41c2-8835-4d77afa1d2b7_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/ecf6af29-3057-41c2-8835-4d77afa1d2b7/20240917T022840/ecf6af29-3057-41c2-8835-4d77afa1d2b7_360x203.jpg)](https://www.wqad.com/article/news/local/every-county-in-illinois-now-has-911-service/526-cb720a2f-34db-407e-a940-139cf6f7b986)
         
         #### [Every county in Illinois now has 911 service](https://www.wqad.com/article/news/local/every-county-in-illinois-now-has-911-service/526-cb720a2f-34db-407e-a940-139cf6f7b986)
-        
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/a6d40ccc-0408-4479-bc49-a9cb1107b078/20240916T224536/a6d40ccc-0408-4479-bc49-a9cb1107b078_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/a6d40ccc-0408-4479-bc49-a9cb1107b078/20240916T224536/a6d40ccc-0408-4479-bc49-a9cb1107b078_360x203.jpg)](https://www.wqad.com/article/news/local/moline-house-fire-displaces-7/526-65b3dc6b-f732-4e07-87ec-aabe56505a8a)
-        
-        #### [Moline house fire displaces 7 people](https://www.wqad.com/article/news/local/moline-house-fire-displaces-7/526-65b3dc6b-f732-4e07-87ec-aabe56505a8a)
         
     
 * [Weather](https://www.wqad.com/weather)
@@ -56,13 +56,13 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/eb12132f-725f-4d75-a61c-53208e3bc185/20240916T225817/eb12132f-725f-4d75-a61c-53208e3bc185_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/eb12132f-725f-4d75-a61c-53208e3bc185/20240916T225817/eb12132f-725f-4d75-a61c-53208e3bc185_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+    *  [![](https://media.tegna-media.com/assets/CCT/images/d00a961c-caa2-480f-ba2e-99225d0d742c/20240917T150049/d00a961c-caa2-480f-ba2e-99225d0d742c_16x9.jpg) ![](https://media.tegna-media.com/assets/CCT/images/d00a961c-caa2-480f-ba2e-99225d0d742c/20240917T150049/d00a961c-caa2-480f-ba2e-99225d0d742c_360x203.jpg)](https://www.wqad.com/article/news/nation-world/central-europe-flooding-romania-poland-czech-republic-austria/507-4de628f8-338d-48fa-a3b0-6519cf9a5243)
         
-        #### [Warm, summery weather to continue this week](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+        #### [Central Europe flooding leaves 16 dead in Romania, Poland, Czech Republic and Austria](https://www.wqad.com/article/news/nation-world/central-europe-flooding-romania-poland-czech-republic-austria/507-4de628f8-338d-48fa-a3b0-6519cf9a5243)
         
-    *  [![](https://media.tegna-media.com/assets/CCT/images/e541080c-0fb0-4cd9-9e04-967d0df575fb/20240916T133310/e541080c-0fb0-4cd9-9e04-967d0df575fb_16x9.jpg) ![](https://media.tegna-media.com/assets/CCT/images/e541080c-0fb0-4cd9-9e04-967d0df575fb/20240916T133310/e541080c-0fb0-4cd9-9e04-967d0df575fb_360x203.jpg)](https://www.wqad.com/article/news/nation-world/tropical-storm-conditions-expected-parts-of-the-carolinas/507-e0c724a0-fbfd-437c-9cbf-f1ed0939a051)
+    *  [![](https://media.tegna-media.com/assets/CCT/images/e52e645e-0b91-4f26-ba6f-40ba70997361/20240917T114315/e52e645e-0b91-4f26-ba6f-40ba70997361_16x9.jpg) ![](https://media.tegna-media.com/assets/CCT/images/e52e645e-0b91-4f26-ba6f-40ba70997361/20240917T114315/e52e645e-0b91-4f26-ba6f-40ba70997361_360x203.jpg)](https://www.wqad.com/article/news/nation-world/september-2024-full-moon-harvest-moon-partial-eclipse-supermoon-time/507-d36e7dcc-254f-4a7b-852b-640017b8e713)
         
-        #### [Tropical storm conditions expected for parts of the Carolinas as disturbance approaches coast](https://www.wqad.com/article/news/nation-world/tropical-storm-conditions-expected-parts-of-the-carolinas/507-e0c724a0-fbfd-437c-9cbf-f1ed0939a051)
+        #### [What time is Tuesday's partial lunar eclipse?](https://www.wqad.com/article/news/nation-world/september-2024-full-moon-harvest-moon-partial-eclipse-supermoon-time/507-d36e7dcc-254f-4a7b-852b-640017b8e713)
         
     
 * [Sports](https://www.wqad.com/sports)
@@ -86,9 +86,9 @@ Navigation
 
 Davenport, IA »
 
-60°
+80°
 
-![Clear](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
+![Sunny](/assets/shared-images/weather-icons/clear-day_210x210.png)
 
 Davenport, IA »](https://www.wqad.com/weather)
 
