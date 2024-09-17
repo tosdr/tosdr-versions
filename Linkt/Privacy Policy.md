@@ -172,7 +172,7 @@ Legal
 Linkt Europcar Offer Privacy Collection Statement
 =================================================
 
-_Last updated: 7 September 2023_
+_Last updated: 7 September 2023_ | Print as PDF
 
 Your personal information will be collected by the entity within Transurban (as described in our Privacy Policy referred to below) that trades as Linkt in the State that you are located in (**_Linkt_**, **_we_**, **_us_** or **_our_**). The relevant Transurban entity is Queensland Motorways Management Pty Ltd (ABN 86 010 630 921). We collect and hold personal information about you in order to provide you with Linkt Rewards offers from CLA Trading Pty Limited trading as Europcar (**_Europcar_**) and for the purposes otherwise set out in our Privacy Policy at [www.linkt.com.au/legal/policies/transurban-privacy-policy](https://www.linkt.com.au/legal/policies/transurban-privacy-policy).
 
