@@ -161,4 +161,4 @@ Our Accreditations:
 
 [](https://www.linkedin.com/company/eras)[](https://twitter.com/eras_ltd)
 
-[Privacy Policy](https://www.eras.co.uk/policies/privacy) Cookies Policy © 2024 eras Ltd®. All rights reserved.
+[Privacy Policy](https://www.eras.co.uk/policies/privacy) Cookies Policy [Modern Slavery Statement](https://www.eras.co.uk/policies/modern-slavery) © 2024 eras Ltd®. All rights reserved.
