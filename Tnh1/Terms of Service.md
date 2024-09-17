@@ -206,15 +206,7 @@ foi para leilão
 
 Ator Mário Gomes é despejado da casa onde mora com a família, no RJ
 
-Ator Mário Gomes é despejado da casa onde mora com a família, no RJ](https://www.tnh1.com.br/noticia/nid/ator-mario-gomes-e-despejado-da-casa-onde-mora-com-a-familia-no-rj/ "Ator Mário Gomes é despejado da casa onde mora com a família, no RJ")[![Cunhado suspeito de matar comerciante após traição é preso em esconderijo](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/c/9/csm_Cunhado_suspeito_de_matar_comerciante_apos_traicao_e_preso_em_esconderijo_-_foto_Reproducao_d92a98156f.jpg)
-
-praia grande
-
-praia grande
-
-Cunhado suspeito de matar comerciante após traição é preso em esconderijo
-
-Cunhado suspeito de matar comerciante após traição é preso em esconderijo](https://www.tnh1.com.br/noticia/nid/cunhado-suspeito-de-matar-comerciante-apos-traicao-e-preso-em-esconderijo/ "Cunhado suspeito de matar comerciante após traição é preso em esconderijo")[![Projetado por sobrinha de Senna, maior arranha-céu do mundo é anunciado no Brasil ](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/4/0/csm_senna-toweer-balneario-camboriu-reproducao-fg-empreendimentos_4548d1f35c.jpg)
+Ator Mário Gomes é despejado da casa onde mora com a família, no RJ](https://www.tnh1.com.br/noticia/nid/ator-mario-gomes-e-despejado-da-casa-onde-mora-com-a-familia-no-rj/ "Ator Mário Gomes é despejado da casa onde mora com a família, no RJ")[![Projetado por sobrinha de Senna, maior arranha-céu do mundo é anunciado no Brasil ](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/4/0/csm_senna-toweer-balneario-camboriu-reproducao-fg-empreendimentos_4548d1f35c.jpg)
 
 mais de 500 metros
 
@@ -222,7 +214,7 @@ mais de 500 metros
 
 Projetado por sobrinha de Senna, maior arranha-céu do mundo é anunciado no Brasil
 
-Projetado por sobrinha de Senna, maior arranha-céu do mundo é anunciado no Brasil](https://www.tnh1.com.br/noticia/nid/projetado-por-sobrinha-de-senna-maior-arranha-ceu-do-mundo-e-anunciado-no-brasil/ "Projetado por sobrinha de Senna, maior arranha-céu do mundo é anunciado no Brasil ")[![Duplicação de trechos remanescentes da BR-101 é retomada 20 anos depois](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/2/b/csm_obra-duplicacao-rodovia-alagoas-reproducao-agencia-alagoas_fdc35b3ae4.jpeg)
+Projetado por sobrinha de Senna, maior arranha-céu do mundo é anunciado no Brasil](https://www.tnh1.com.br/noticia/nid/projetado-por-sobrinha-de-senna-maior-arranha-ceu-do-mundo-e-anunciado-no-brasil/ "Projetado por sobrinha de Senna, maior arranha-céu do mundo é anunciado no Brasil ")[![Duplicação de trechos remanescentes da BR-101 é retomada 20 anos depois](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/2/b/csm_obra-duplicacao-rodovia-alagoas-reproducao-agencia-alagoas_fdc35b3ae4.jpeg)
 
 segurança viária
 
@@ -230,7 +222,15 @@ segurança viária
 
 Duplicação de trechos remanescentes da BR-101 é retomada 20 anos depois
 
-Duplicação de trechos remanescentes da BR-101 é retomada 20 anos depois](https://www.tnh1.com.br/noticia/nid/duplicacao-de-trechos-remanescentes-da-br-101-e-retomada-20-anos-depois/ "Duplicação de trechos remanescentes da BR-101 é retomada 20 anos depois")
+Duplicação de trechos remanescentes da BR-101 é retomada 20 anos depois](https://www.tnh1.com.br/noticia/nid/duplicacao-de-trechos-remanescentes-da-br-101-e-retomada-20-anos-depois/ "Duplicação de trechos remanescentes da BR-101 é retomada 20 anos depois")[![Remédio para diabetes pode desacelerar envelhecimento, sugere estudo](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/c/c/csm_close-up-woman-s-hand-holding-blister-pack-with-medicines-wooden-desk__1__2b20d73d9e.jpg)
+
+Saúde
+
+Saúde
+
+Remédio para diabetes pode desacelerar envelhecimento, sugere estudo
+
+Remédio para diabetes pode desacelerar envelhecimento, sugere estudo](https://www.tnh1.com.br/noticia/nid/remedio-para-diabetes-pode-desacelerar-envelhecimento-sugere-estudo/ "Remédio para diabetes pode desacelerar envelhecimento, sugere estudo")
 
 [![EUA divulgam foto inédita de submersível Titan após implosão; veja ](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/5/d/csm_sub-titan-ocean-gate-viraliza-reproducao-youtube_8c335ea1f7.jpg)
 
