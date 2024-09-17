@@ -247,9 +247,7 @@ These Terms of Use apply to the use of the Service by ROMEO BV. Please read thes
 
 #### Follow Us
 
-* [instagram](https://www.instagram.com/planetromeo/ "Instagram")
 * [tiktok](https://www.tiktok.com/@romeo_app "TikTok")
-* [facebook](https://www.facebook.com/PlanetRomeo "Facebook")
 * [youtube](https://www.youtube.com/c/ROMEOTV "YouTube")
 
 * [About](https://www.romeo.com/en/about)
