@@ -287,6 +287,18 @@ PARAGOULD, AR 72450
 Check Out Our Blog
 ------------------
 
+[![Cartoon-style image of a person wearing glasses standing in front of two large scales. One scale is labeled 'Good Debt' with symbols like a house, graduation cap, and small business sign. The other scale is labeled 'Bad Debt' with items such as credit cards, shopping bags, and a car loan. The character looks thoughtful, emphasizing the concept of distinguishing between good and bad debt.](https://creditnerds.com/wp-content/uploads/2024/09/Good-v-Bad-Debt-30x30.webp)](https://creditnerds.com/good-debt-vs-bad-debt-whats-the-difference/)
+
+[Credit](https://creditnerds.com/category/credit/)
+
+September 16, 2024
+
+#### [Good Debt vs. Bad Debt: What’s the Difference?](https://creditnerds.com/good-debt-vs-bad-debt-whats-the-difference/)
+
+Good Debt vs. Bad Debt: What’s the Difference? Debt is often viewed negatively, but not all debt is necessarily bad. In fact, some debts can actually help you achieve financial goals. The key is understanding the nuances of good debt vs. bad debt: what’s the difference? Knowing when to borrow and when to avoid debt …
+
+[Read More](https://creditnerds.com/good-debt-vs-bad-debt-whats-the-difference/)
+
 [![Cartoon-style image of a person wearing glasses, holding a piggy bank and a checklist labeled '8 Ways to Make Extra Money.' The character stands in front of festive holiday decorations, including a Christmas tree, wrapped gifts, and falling snowflakes, conveying a fun and energetic holiday theme.](https://creditnerds.com/wp-content/uploads/2024/09/Make-extra-money-30x30.webp)](https://creditnerds.com/8-best-ways-to-make-extra-money-for-the-holidays/)
 
 [Credit](https://creditnerds.com/category/credit/)
@@ -382,18 +394,6 @@ August 28, 2024
 Your home is your castle, but sometimes it can feel more like a money pit. Fortunately, there are many ways to save money and reduce home-related expenses. From budgeting to reducing utility usage, making simple changes can lead to significant savings. Below are 20 practical ways to save money at home. Some require an upfront …
 
 [Read More](https://creditnerds.com/ways-to-save-money-at-home/)
-
-[![A semi-realistic cartoony image of a person with short brown hair and glasses, looking at a credit report on a computer screen with a concerned expression. The screen displays a red warning sign with the word 'Delinquency' highlighted. The desk is cluttered with bills, a calculator, and a notepad, and the background features a bookshelf, a clock on the wall, and a small plant, creating a home office setting.](https://creditnerds.com/wp-content/uploads/2024/08/Deliquency-30x30.webp)](https://creditnerds.com/what-is-a-delinquency-on-a-credit-report/)
-
-[Credit](https://creditnerds.com/category/credit/)
-
-August 27, 2024
-
-#### [What Is a Delinquency on a Credit Report?](https://creditnerds.com/what-is-a-delinquency-on-a-credit-report/)
-
-Wondering, "What is a delinquency on a credit report?" A delinquency occurs when you fail to pay at least the minimum amount due on your account by the specified due date. Missing this payment can lead to immediate consequences, such as late fees. If the payment remains overdue for 30 days or more, it could …
-
-[Read More](https://creditnerds.com/what-is-a-delinquency-on-a-credit-report/)
 
 ![](https://creditnerds.com/wp-content/uploads/2023/12/small-logo-white-30x30.png)
 
