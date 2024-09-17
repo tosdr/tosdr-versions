@@ -1,4 +1,4 @@
-Contact Sales
+Demo Request
 
 Tell us a bit more so we can match you to a state-level expert who'll tailor a conversation to meet your needs. All fields required\*
 
@@ -40,7 +40,7 @@ What career development services do you provide and to whom?\*
 
 What can we help you with today?\*
 
-Email
+Name
 
 This field is for validation purposes and should be left unchanged.
 
