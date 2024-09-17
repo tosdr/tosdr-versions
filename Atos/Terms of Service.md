@@ -214,10 +214,10 @@ Homepage](https://atos.net/en)
         * [Media Resources](https://atos.net/en/newsroom/media-resources)
         * [Media Contacts](https://atos.net/en/newsroom#contacts)
         
-        3 September 2024
+        16 September 2024
         
-        Eviden helps optimize Electric Vehicle Manufacturing through the European e-BEAT Project
-        ----------------------------------------------------------------------------------------
+        Availability of the adjusted draft accelerated safeguard plan
+        -------------------------------------------------------------
         
     * [Awards](https://atos.net/en/newsroom/awards)˅
         
