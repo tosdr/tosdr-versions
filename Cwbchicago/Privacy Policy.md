@@ -242,35 +242,35 @@ We have included on the pages of this website a robots meta tag with the “noai
 
 This privacy policy was created in party by using [Termly’s Privacy Policy Generator](https://termly.io/products/privacy-policy-generator/?ftseo).
 
-[![](https://cwbchicago.com/wp-content/uploads/2024/09/Torrence-Franklin-Andre-Prescott-and-Terrell-Herron-326x245.jpg)](https://cwbchicago.com/2024/09/3-charged-with-armed-robbery-after-victim-takes-picture-of-their-license-plate-and-police-chopper-tracks-it-down.html "3 charged with armed robbery after victim takes picture of their license plate and police chopper tracks it down")
+[![](https://cwbchicago.com/wp-content/uploads/2024/09/5200-block-north-winthrop-326x245.jpg)](https://cwbchicago.com/2024/09/2-more-people-shot-in-edgewater-overnight-as-2023-victim-tally-exceeds-the-past-2-years-combined.html "2 more people shot in Edgewater overnight, as 2024 victim tally exceeds the past 2 years combined")
 
-Lincoln Park
+Edgewater
 
-### [3 charged with armed robbery after victim takes picture of their license plate and police chopper tracks it down](https://cwbchicago.com/2024/09/3-charged-with-armed-robbery-after-victim-takes-picture-of-their-license-plate-and-police-chopper-tracks-it-down.html "3 charged with armed robbery after victim takes picture of their license plate and police chopper tracks it down")
+### [2 more people shot in Edgewater overnight, as 2024 victim tally exceeds the past 2 years combined](https://cwbchicago.com/2024/09/2-more-people-shot-in-edgewater-overnight-as-2023-victim-tally-exceeds-the-past-2-years-combined.html "2 more people shot in Edgewater overnight, as 2024 victim tally exceeds the past 2 years combined")
 
-[September 13, 2024 12:47 PM](https://cwbchicago.com/2024/09)
+[September 14, 2024 9:26 AM](https://cwbchicago.com/2024/09)
 
-Three men face felony charges after they allegedly robbed a woman at gunpoint at a busy Lincoln Park shopping plaza.[](https://cwbchicago.com/2024/09/3-charged-with-armed-robbery-after-victim-takes-picture-of-their-license-plate-and-police-chopper-tracks-it-down.html "3 charged with armed robbery after victim takes picture of their license plate and police chopper tracks it down")
+Two people were shot while “celebrating” on an Edgewater street overnight, Chicago police said. That brings the neighborhood’s shooting victim total for 2023 up to 16. That’s more people shot than during all of 2021 and 2022 combined.[](https://cwbchicago.com/2024/09/2-more-people-shot-in-edgewater-overnight-as-2023-victim-tally-exceeds-the-past-2-years-combined.html "2 more people shot in Edgewater overnight, as 2024 victim tally exceeds the past 2 years combined")
 
-[![](https://cwbchicago.com/wp-content/uploads/2024/09/14th-district-award-326x245.jpg)](https://cwbchicago.com/2024/09/cops-honored-for-their-response-to-violent-armed-robbery-in-logan-square.html "Cops honored for their response to violent armed robbery in Logan Square")
+[![](https://cwbchicago.com/wp-content/uploads/2024/09/158-roosevelt-326x245.jpg)](https://cwbchicago.com/2024/09/cops-launch-homicide-investigation-after-3-are-ejected-in-south-loop-traffic-crash.html "Cops launch homicide investigation after 3 are ejected in South Loop traffic crash")
 
-Logan Square
+South Loop
 
-### [Cops honored for their response to violent armed robbery in Logan Square](https://cwbchicago.com/2024/09/cops-honored-for-their-response-to-violent-armed-robbery-in-logan-square.html "Cops honored for their response to violent armed robbery in Logan Square")
+### [Cops launch homicide investigation after 3 are ejected in South Loop traffic crash](https://cwbchicago.com/2024/09/cops-launch-homicide-investigation-after-3-are-ejected-in-south-loop-traffic-crash.html "Cops launch homicide investigation after 3 are ejected in South Loop traffic crash")
 
-[September 13, 2024 11:07 AM](https://cwbchicago.com/2024/09)
+[September 14, 2024 8:09 AM](https://cwbchicago.com/2024/09)
 
-A group of Chicago cops who tracked down and arrested two robbers who fired shots while mugging a woman in Logan Square this spring are being honored for their efforts.[](https://cwbchicago.com/2024/09/cops-honored-for-their-response-to-violent-armed-robbery-in-logan-square.html "Cops honored for their response to violent armed robbery in Logan Square")
+Chicago police are conducting a homicide investigation after a tow truck driver caused a fatal traffic crash in the South Loop overnight and fled the scene.[](https://cwbchicago.com/2024/09/cops-launch-homicide-investigation-after-3-are-ejected-in-south-loop-traffic-crash.html "Cops launch homicide investigation after 3 are ejected in South Loop traffic crash")
 
-[![](https://cwbchicago.com/wp-content/uploads/2024/09/Michael-Perkins-326x245.jpg)](https://cwbchicago.com/2024/09/sex-offender-kidnapped-nurse-from-hospital-parking-lot-forced-her-to-withdraw-cash-from-atm-prosecutors.html "Sex offender kidnapped nurse from hospital parking lot, forced her to withdraw cash from ATM: prosecutors")
+[![](https://cwbchicago.com/wp-content/uploads/2024/09/wacker-326x245.jpg)](https://cwbchicago.com/2024/09/2-shot-near-michigan-avenue-bridge-during-mexican-independence-day-revelry.html "2 shot near Michigan Avenue Bridge during Mexican Independence Day revelry")
 
-Ukrainian Village
+Loop
 
-### [Sex offender kidnapped nurse from hospital parking lot, forced her to withdraw cash from ATM: prosecutors](https://cwbchicago.com/2024/09/sex-offender-kidnapped-nurse-from-hospital-parking-lot-forced-her-to-withdraw-cash-from-atm-prosecutors.html "Sex offender kidnapped nurse from hospital parking lot, forced her to withdraw cash from ATM: prosecutors")
+### [2 shot near Michigan Avenue Bridge during Mexican Independence Day revelry](https://cwbchicago.com/2024/09/2-shot-near-michigan-avenue-bridge-during-mexican-independence-day-revelry.html "2 shot near Michigan Avenue Bridge during Mexican Independence Day revelry")
 
-[September 12, 2024 8:09 PM](https://cwbchicago.com/2024/09)
+[September 14, 2024 7:10 AM](https://cwbchicago.com/2024/09)
 
-A convicted sex offender with a long, violent criminal history is now accused of randomly kidnapping a nurse from a Ukrainian Village hospital parking lot and robbing her at knifepoint.[](https://cwbchicago.com/2024/09/sex-offender-kidnapped-nurse-from-hospital-parking-lot-forced-her-to-withdraw-cash-from-atm-prosecutors.html "Sex offender kidnapped nurse from hospital parking lot, forced her to withdraw cash from ATM: prosecutors")
+Two people were shot as late-night revelers celebrated Mexican Independence Day weekend in the Loop early Saturday morning.[](https://cwbchicago.com/2024/09/2-shot-near-michigan-avenue-bridge-during-mexican-independence-day-revelry.html "2 shot near Michigan Avenue Bridge during Mexican Independence Day revelry")
 
 Search
 
