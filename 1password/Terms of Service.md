@@ -332,6 +332,8 @@ In addition, 1Password and the Customer shall comply with all applicable laws, r
 Change Log
 ----------
 
+2024-09-12: We added language to address our XAM Service.
+
 2024-08-19: We added language to address our XAM Service.
 
 2021-09-23: We added Terms of Service for Business Customers.
