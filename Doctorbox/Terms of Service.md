@@ -3,7 +3,7 @@
 * Leistungen
 * Gesundheitsportal
 * Über uns
-* [Business-Angebot](https://www.doctorbox.de/business)
+* [Partner Angebote](https://www.doctorbox.de/business)
 
 [![Hilfe](https://a.storyblok.com/f/183125/18x18/06c83f484b/help-icon.svg?v15082023)](https://www.doctorbox.de/hilfe/)
 
