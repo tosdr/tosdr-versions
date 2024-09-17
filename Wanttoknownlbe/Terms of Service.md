@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/hoofdartikelen/mysterieuze-krachten-van-piramide-structuren/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/inspiratie/alles-maar-even-groenwassen/ "Feeling Lucky? »")
 
 Algemene voorwaarden WantToKnow aanbiedingen
 ============================================
