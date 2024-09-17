@@ -1,5 +1,9 @@
 [Skip to content](#MainContent)
 
+### Pay as low as $20/month with ![Affirm logo](//www.xchair.com/cdn/shop/files/affirm-logo-2x.png?v=1689888394&width=1024) financing || [Shop Now](https://www.xchair.com/collections/office-chairs "Office Chairs")
+
+### 844-492-4247
+
 [](https://www.xchair.com/)
 
 X-Chair
@@ -18,12 +22,12 @@ Menu
     * [All Office Chairs](https://www.xchair.com/collections/office-chairs)
     * [Office Chairs for Teams](https://www.xchair.com/pages/bulksales)
     
-    *       [![](data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1 1'%3E%3C/svg%3E)
-        
-        The Labor Day Sale is Here!](https://www.xchair.com/collections/office-chairs)
     *       [![Woman in the office working at desk in X-tech ](data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1 1'%3E%3C/svg%3E)
         
         Style And Comfort For All.](https://www.xchair.com/collections/office-chairs)
+    *       [![Reef blue X-Tech chair at home office](data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1 1'%3E%3C/svg%3E)
+        
+        Featured: X-Tech Ultimate Executive Office Chair](https://www.xchair.com/products/xtech-ultimate-executive-office-chair)
     
 * [Desks & Tables](https://www.xchair.com/collections/tables-desks)
     
@@ -66,7 +70,7 @@ Menu
     
     *       [![](data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1 1'%3E%3C/svg%3E)
         
-        Cooling, Heating & Massage Tech Included for Free!](https://www.xchair.com/collections/accessories)
+        Upgrade with ELEMAX™.](https://www.xchair.com/products/elemax-cooling-heat-and-massage-unit)
     
 * [Why X-Chair](https://www.xchair.com/pages/about-us)
     
