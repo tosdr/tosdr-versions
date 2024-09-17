@@ -73,11 +73,11 @@
 
 MBFC News
 
+* [September 17, 2024 | Meta Bans Russian State Media from Its Platforms](https://mediabiasfactcheck.com/2024/09/17/meta-bans-russian-state-media-from-its-platforms/ "Meta Bans Russian State Media from Its Platforms")
+* [September 17, 2024 | MBFC’s Daily Vetted Fact Checks for 09/17/2024](https://mediabiasfactcheck.com/2024/09/17/mbfcs-daily-vetted-fact-checks-for-09-17-2024/ "MBFC’s Daily Vetted Fact Checks for 09/17/2024")
+* [September 16, 2024 | MBFC’s Daily Vetted Fact Checks for 09/16/2024](https://mediabiasfactcheck.com/2024/09/16/mbfcs-daily-vetted-fact-checks-for-09-16-2024/ "MBFC’s Daily Vetted Fact Checks for 09/16/2024")
+* [September 15, 2024 | MBFC’s Daily Vetted Fact Checks for 09/15/2024 (Weekend Edition)](https://mediabiasfactcheck.com/2024/09/15/mbfcs-daily-vetted-fact-checks-for-09-15-2024-weekend-edition/ "MBFC’s Daily Vetted Fact Checks for 09/15/2024 (Weekend Edition)")
 * [September 14, 2024 | MBFC’s Weekly Media Literacy Quiz Covering the Week of Sep 8th – Sep 14th](https://mediabiasfactcheck.com/2024/09/14/mbfcs-weekly-media-literacy-quiz-covering-the-week-of-sep-8th-sep-14th/ "MBFC’s Weekly Media Literacy Quiz Covering the Week of Sep 8th – Sep 14th")
-* [September 14, 2024 | MBFC’s Daily Vetted Fact Checks for 09/14/2024 (Weekend Edition)](https://mediabiasfactcheck.com/2024/09/14/mbfcs-daily-vetted-fact-checks-for-09-14-2024-weekend-edition/ "MBFC’s Daily Vetted Fact Checks for 09/14/2024 (Weekend Edition)")
-* [September 13, 2024 | MBFC’s Daily Vetted Fact Checks for 09/13/2024](https://mediabiasfactcheck.com/2024/09/13/mbfcs-daily-vetted-fact-checks-for-09-13-2024/ "MBFC’s Daily Vetted Fact Checks for 09/13/2024")
-* [September 12, 2024 | Trump Calls for Punishment of ABC News Over Debate Moderation](https://mediabiasfactcheck.com/2024/09/12/trump-calls-for-punishment-of-abc-news-over-debate-moderation/ "Trump Calls for Punishment of ABC News Over Debate Moderation")
-* [September 12, 2024 | MBFC’s Daily Vetted Fact Checks for 09/12/2024](https://mediabiasfactcheck.com/2024/09/12/mbfcs-daily-vetted-fact-checks-for-09-12-2024/ "MBFC’s Daily Vetted Fact Checks for 09/12/2024")
 
 Search for:  
 
@@ -141,74 +141,74 @@ Last Updated on October 18, 2018 by Media Bias Fact Check
 
 #### Recently Added Sources or Pages
 
-* [Gravesend Messenger – Bias and Credibility](https://mediabiasfactcheck.com/gravesend-messenger-bias/)
+* [Frontiers in Global Women’s Health – Bias and Credibility](https://mediabiasfactcheck.com/frontiers-in-global-womens-health-bias/)
     
-    September 14, 2024
+    September 17, 2024
     
-* [Laura Loomer Bias Rating](https://mediabiasfactcheck.com/laura-loomer-bias-rating/)
+* [The Mighty – Bias and Credibility](https://mediabiasfactcheck.com/the-mighty-bias-and-credibility/)
     
-    September 14, 2024
+    September 16, 2024
     
-* [East Montgomery Times – Bias and Credibility](https://mediabiasfactcheck.com/east-montgomery-times-bias-and-credibility/)
+* [Iosco County News-Herald – Bias and Credibility](https://mediabiasfactcheck.com/iosco-county-news-herald-bias/)
     
-    September 14, 2024
+    September 16, 2024
     
-* [Loomered.com – Bias and Credibility](https://mediabiasfactcheck.com/loomered-com-bias-and-credibility/)
+* [The Mirror U.S. – Bias and Credibility](https://mediabiasfactcheck.com/the-mirror-u-s-bias-and-credibility/)
     
-    September 14, 2024
+    September 16, 2024
     
-* [Utah Standard News – Bias and Credibility](https://mediabiasfactcheck.com/utah-standard-news-bias-and-credibility/)
+* [The Local (Germany) – Bias and Credibility](https://mediabiasfactcheck.com/the-local-germany-bias/)
     
-    September 13, 2024
+    September 16, 2024
     
-* [WBUH – NPR – Brewster – Bias and Credibility](https://mediabiasfactcheck.com/wbuh-npr-brewster-bias/)
+* [Glengariff Group – Bias and Credibility](https://mediabiasfactcheck.com/glengariff-group-bias-and-credibility/)
     
-    September 13, 2024
+    September 16, 2024
     
-* [Canberra Times – Bias and Credibility](https://mediabiasfactcheck.com/canberra-times-bias-and-credibility/)
+* [Statehouse News Bureau – Bias and Credibility](https://mediabiasfactcheck.com/statehouse-news-bureau-bias-and-credibility/)
     
-    September 13, 2024
+    September 15, 2024
     
-* [Flatwater Free Press – Bias and Credibility](https://mediabiasfactcheck.com/flatwater-free-press-bias/)
+* [Bendigo Advertiser – Bias and Credibility](https://mediabiasfactcheck.com/bendigo-advertiser-bias/)
     
-    September 13, 2024
+    September 15, 2024
     
 
 #### Recently Updated Pages
 
-* [Least Biased](https://mediabiasfactcheck.com/center/ "View Least Biased") - September 14, 2024
+* [Electoral College Simulation Data](https://mediabiasfactcheck.com/electoral-college-simulation-data/ "View Electoral College Simulation Data") - September 17, 2024
     
-* [Gravesend Messenger – Bias and Credibility](https://mediabiasfactcheck.com/gravesend-messenger-bias/ "View Gravesend Messenger – Bias and Credibility") - September 14, 2024
+* [Pro-Science](https://mediabiasfactcheck.com/pro-science/ "View Pro-Science") - September 17, 2024
     
-* [Journalist Bias](https://mediabiasfactcheck.com/journalist-bias/ "View Journalist Bias") - September 14, 2024
+* [Frontiers in Global Women’s Health – Bias and Credibility](https://mediabiasfactcheck.com/frontiers-in-global-womens-health-bias/ "View Frontiers in Global Women’s Health – Bias and Credibility") - September 17, 2024
     
-* [Laura Loomer Bias Rating](https://mediabiasfactcheck.com/laura-loomer-bias-rating/ "View Laura Loomer Bias Rating") - September 14, 2024
+* [Left-Center Bias](https://mediabiasfactcheck.com/leftcenter/ "View Left-Center Bias") - September 16, 2024
     
-* [Questionable Sources](https://mediabiasfactcheck.com/fake-news/ "View Questionable Sources") - September 14, 2024
+* [The Mighty – Bias and Credibility](https://mediabiasfactcheck.com/the-mighty-bias-and-credibility/ "View The Mighty – Bias and Credibility") - September 16, 2024
     
-* [East Montgomery Times – Bias and Credibility](https://mediabiasfactcheck.com/east-montgomery-times-bias-and-credibility/ "View East Montgomery Times – Bias and Credibility") - September 14, 2024
+* [Least Biased](https://mediabiasfactcheck.com/center/ "View Least Biased") - September 16, 2024
     
-* [Electoral College Simulation Data](https://mediabiasfactcheck.com/electoral-college-simulation-data/ "View Electoral College Simulation Data") - September 14, 2024
+* [Iosco County News-Herald – Bias and Credibility](https://mediabiasfactcheck.com/iosco-county-news-herald-bias/ "View Iosco County News-Herald – Bias and Credibility") - September 16, 2024
     
-* [Loomered.com – Bias and Credibility](https://mediabiasfactcheck.com/loomered-com-bias-and-credibility/ "View Loomered.com – Bias and Credibility") - September 14, 2024
+* [The Mirror U.S. – Bias and Credibility](https://mediabiasfactcheck.com/the-mirror-u-s-bias-and-credibility/ "View The Mirror U.S. – Bias and Credibility") - September 16, 2024
     
-* [Alexander City Outlook – Bias and Credibility](https://mediabiasfactcheck.com/alexander-city-outlook-bias/ "View Alexander City Outlook – Bias and Credibility") - September 13, 2024
+* [The Local (Germany) – Bias and Credibility](https://mediabiasfactcheck.com/the-local-germany-bias/ "View The Local (Germany) – Bias and Credibility") - September 16, 2024
     
-* [Aldergrove Star – Bias and Credibility](https://mediabiasfactcheck.com/aldergrove-star-bias/ "View Aldergrove Star – Bias and Credibility") - September 13, 2024
+* [Glengariff Group – Bias and Credibility](https://mediabiasfactcheck.com/glengariff-group-bias-and-credibility/ "View Glengariff Group – Bias and Credibility") - September 16, 2024
     
 
 #### Today’s Top Page Views
 
 * [Media Bias/Fact Check News](https://mediabiasfactcheck.com/)
-* [Leading Report - Bias and Credibility](https://mediabiasfactcheck.com/leading-report-bias/)
+* [Daily Mail - Bias and Credibility](https://mediabiasfactcheck.com/daily-mail/)
+* [Big Village Polling - Bias and Credibility](https://mediabiasfactcheck.com/big-village-polling-bias-and-credibility/)
 * [Least Biased](https://mediabiasfactcheck.com/center/)
+* [AtlasIntel Polling - Bias and Credibility](https://mediabiasfactcheck.com/atlasintel-polling-bias-and-credibility/)
 * [Fox News (foxnews.com) - Bias and Credibility](https://mediabiasfactcheck.com/fox-news-bias/)
-* [Filtered Search](https://mediabiasfactcheck.com/filtered-search/)
+* [MBFC's Daily Vetted Fact Checks for 09/16/2024](https://mediabiasfactcheck.com/2024/09/16/mbfcs-daily-vetted-fact-checks-for-09-16-2024/)
+* [TFPP Wire - Bias and Credibility](https://mediabiasfactcheck.com/tfpp-wire-bias/)
 * [CNN - Bias and Credibility](https://mediabiasfactcheck.com/left/cnn-bias/)
-* [MBFC's Daily Vetted Fact Checks for 09/13/2024](https://mediabiasfactcheck.com/2024/09/13/mbfcs-daily-vetted-fact-checks-for-09-13-2024/)
-* [ABC News - Bias and Credibility](https://mediabiasfactcheck.com/abc-news/)
-* [New York Times - Bias and Credibility](https://mediabiasfactcheck.com/new-york-times/)
-* [FactChecking the Harris-Trump Debate](https://mediabiasfactcheck.com/2024/09/11/factchecking-the-harris-trump-debate/)
+* [Filtered Search](https://mediabiasfactcheck.com/filtered-search/)
 
 #### Subscribe via Email
 
