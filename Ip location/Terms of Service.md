@@ -195,16 +195,16 @@ This agreement shall be governed by and interpreted and enforced in accordance w
 * [Social Media (60)](https://www.iplocation.net/blog/category/social-media)
 * [Social Media Marketing (36)](https://www.iplocation.net/blog/category/social-media-marketing)
 * [Software (139)](https://www.iplocation.net/blog/category/software)
-* [Software Development (128)](https://www.iplocation.net/blog/category/software-development)
+* [Software Development (129)](https://www.iplocation.net/blog/category/software-development)
 * [Software Testing (5)](https://www.iplocation.net/blog/category/software-testing)
 * [Mobile App Development (2)](https://www.iplocation.net/blog/category/mobile-app-development)
 * [Technology (48)](https://www.iplocation.net/blog/category/technology)
 * [Information Technology (8)](https://www.iplocation.net/blog/category/information-technology)
 * [Travel (16)](https://www.iplocation.net/blog/category/travel)
-* [World Wide Web (148)](https://www.iplocation.net/blog/category/web)
+* [World Wide Web (149)](https://www.iplocation.net/blog/category/web)
 * [Search Engine Optimization (53)](https://www.iplocation.net/blog/category/seo)
 * [Web Hosting (22)](https://www.iplocation.net/blog/category/web-hosting)
-* [Web Design (9)](https://www.iplocation.net/blog/category/web-design)
+* [Web Design (10)](https://www.iplocation.net/blog/category/web-design)
 
 ### About Us
 
