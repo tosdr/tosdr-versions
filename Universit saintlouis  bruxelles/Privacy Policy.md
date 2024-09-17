@@ -20,28 +20,7 @@ Universit&eacute; Saint-Louis - Bruxelles
 
 [](https://www.usaintlouis.be/)
 
-* Accès rapide sur
-    
-
 * ![](images/9903.jpg) [UCLouvain Saint-Louis Bruxelles](https://uclouvain.be/fr/sites/saint-louis-bruxelles)
-    
-* ![](images/9903.jpg) [Enseignement](https://www.usaintlouis.be/sl/enseignement_prog2022.html)
-    
-* ![](images/9903.jpg) [Recherche](https://www.usaintlouis.be/sl/733.html)
-    
-* ![](images/9903.jpg) [International](https://uclouvain.be/fr/sites/saint-louis-bruxelles/international.html)
-    
-
-* Accès rapide pour
-    
-
-* ![](images/9903.jpg) [Futur·es étudiant·es](https://uclouvain.be/fr/sites/saint-louis-bruxelles/rhetos.html)
-    
-* ![](images/9903.jpg) [Etudiant·es](https://uclouvain.be/fr/sites/saint-louis-bruxelles/je-suis-etudiant.html)
-    
-* ![](images/9903.jpg) [Alumni](https://www.usaintlouis.be/sl/612.html)
-    
-* ![](images/9903.jpg) [Journalistes](https://www.usaintlouis.be/sl/735.html)
     
 
 Politique de protection des données
