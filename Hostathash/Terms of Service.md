@@ -1,11 +1,13 @@
-![fbpx](https://www.facebook.com/tr?id=1301061163606085&ev=PageView&noscript=1)    
+![fbpx](https://www.facebook.com/tr?id=1301061163606085&ev=PageView&noscript=1) 
 
 WhatsApp: +1-3523898104 [support@hostathash.com](mailto:support@hostathash.com)
 
 * Already have an Account ?
 * [Login](https://my.hostathash.com/clientarea.php)
 
-[![HostatHash](https://hostathash.com/wp-content/uploads/2019/01/small-logo.png)](https://hostathash.com/)
+[![HostatHash](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNjgiIGhlaWdodD0iNDAiIHZpZXdCb3g9IjAgMCAxNjggNDAiPjxyZWN0IHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIGZpbGw9IiNjZmQ0ZGIiLz48L3N2Zz4=)
+
+![HostatHash](https://hostathash.com/wp-content/uploads/2019/01/small-logo.png)](https://hostathash.com/)
 
 * [Home](https://hostathash.com/)
 * Domain
@@ -198,6 +200,10 @@ We reserve the right to no longer provide you our service or block service parti
 **Bulk mailing** or any other action performed which is Illegal, the owner of the hosting account will held responsible.  
 It is the account holder responsibility to ensure that his/her account is not being used to violate our TOS. 
 
+**Late Payments & Late fees**
+
+Payments which are overdue for more than 4 days will have late fee added.
+
 **Paypal Payments**
 
 If payment is made using PayPal, you agree that you’ll follow our TOS and in case your service is suspended due to violation of TOS, we are not liable to pay you a refund in any condition
@@ -263,10 +269,6 @@ Last updated on : 22-05-2021
   
 
 * [Facebook](https://www.facebook.com/HostatHash)
-* [Twitter](https://twitter.com/HostatHash)
+* [X](https://twitter.com/HostatHash)
 
-© Copyright 2017-2021 HostatHash | All Rights Reserved
-
-        
-
-We use cookies to ensure that we give you the best experience on our website. If you continue to use this site we will assume that you are happy with it.[Ok](#)[Privacy policy](https://hostathash.com/privacy-policy/)[](javascript:void(0);)
+© Copyright 2017-2023 HostatHash | All Rights Reserved | [Terms of Service](https://hostathash.com/terms-of-service/) | [Privacy Policy](https://hostathash.com/privacy-policy/) | [Refund Policy](https://hostathash.com/refund-policy/)
