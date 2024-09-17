@@ -25,7 +25,7 @@
     * [Credit Monitoring](https://www.completeid.com/how-complete-id-works/credit-monitoring/)
     * [Identity Restoration](https://www.completeid.com/how-complete-id-works/identity-restoration/)
     * [Digital Privacy](https://www.completeid.com/how-complete-id-works/digital-privacy/)
-    * [Digital Identity Manager](https://www.completeid.com/how-complete-id-works/digital-identity-manager/)
+    * [Digital Identity Manager™](https://www.completeid.com/how-complete-id-works/digital-identity-manager/)
     
 * [Features](https://www.completeid.com/features/)
 * [About Us](https://www.completeid.com/about-us/)
@@ -42,7 +42,7 @@
     * [Credit Monitoring](https://www.completeid.com/how-complete-id-works/credit-monitoring/)
     * [Identity Restoration](https://www.completeid.com/how-complete-id-works/identity-restoration/)
     * [Digital Privacy](https://www.completeid.com/how-complete-id-works/digital-privacy/)
-    * [Digital Identity Manager](https://www.completeid.com/how-complete-id-works/digital-identity-manager/)
+    * [Digital Identity Manager™](https://www.completeid.com/how-complete-id-works/digital-identity-manager/)
 * [Features](https://www.completeid.com/features/)
 * [About Us](https://www.completeid.com/about-us/)
     * [Frequently Asked Questions](https://www.completeid.com/frequently-asked-questions/)
@@ -51,7 +51,7 @@
 Complete ID Privacy Policy
 ==========================
 
-_Effective Date: September 4, 2024_
+_Effective Date: September 2, 2024_
 
 * [Summary](#summary)
 * [Personal Information We Collect](#personal-information-we-collect)
@@ -228,7 +228,7 @@ The Site is not directed to individuals under the age of eighteen (18), and we r
 
 When you close your account or otherwise cease to be our customer, we may continue to use and share your and/or family plan member(s) information as described in this Policy. We will not share any information that we have collected about our customers with unaffiliated third parties except as permitted or required by law.
 
-_Effective Date: September 4, 2024_
+_Effective Date: September 2, 2024_
 
 [](#)
 
