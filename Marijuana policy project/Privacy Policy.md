@@ -288,6 +288,12 @@ From time to time, MPP may work with third-party consultants or other service pr
 Recent news
 -----------
 
+[![Both Major-Party Presidential Candidates Signal Support for Cannabis Policy Reform: Where Trump and Harris Stand on Legalization](/assets/components/phpthumbof/cache/Presidential%20Blog%20Post.be935d8f50a0438fce152e84b230e724.png)](https://blog.mpp.org/general/both-major-party-presidential-candidates-signal-support-for-cannabis-policy-reform-where-trump-and-harris-stand-on-legalization/)
+
+[Both Major-Party Presidential Candidates Signal Support for Cannabis Policy Reform: Where Trump and Harris Stand on Legalization ...](https://blog.mpp.org/general/both-major-party-presidential-candidates-signal-support-for-cannabis-policy-reform-where-trump-and-harris-stand-on-legalization/)
+
+Sep 17, 2024
+
 [![Cannabis Across the Country: A Look at Regional Legalization Trends](/assets/components/phpthumbof/cache/CannabisAcrosstheCountry.72bc7dc6c8a934771e11aaa56c861ea1.png)](https://blog.mpp.org/general/cannabis-across-the-country-a-look-at-regional-legalization-trends/)
 
 [Cannabis Across the Country: A Look at Regional Legalization Trends ...](https://blog.mpp.org/general/cannabis-across-the-country-a-look-at-regional-legalization-trends/)
@@ -312,16 +318,10 @@ May 20, 2024
 
 May 15, 2024
 
-[![Hawai'i: Ask Gov. Green to sign cannabis justice bills!](/assets/components/phpthumbof/cache/hi.92a04c188f5f7482ea2f39cb9de73ed0.jpg)](https://blog.mpp.org/general/hawaii-ask-gov-green-to-sign-cannabis-justice-bills/)
-
-[Hawai'i: Ask Gov. Green to sign cannabis justice bills! ...](https://blog.mpp.org/general/hawaii-ask-gov-green-to-sign-cannabis-justice-bills/)
-
-Apr 25, 2024
-
 Tags
 ----
 
-[Medical Marijuana (489)](https://blog.mpp.org/archive/tags/medical-marijuana/ "Medical Marijuana") [legalization (388)](https://blog.mpp.org/archive/tags/legalization/ "legalization") [Tax and Regulate (351)](https://blog.mpp.org/archive/tags/tax-and-regulate/ "Tax and Regulate") [medical cannabis (320)](https://blog.mpp.org/archive/tags/medical-cannabis/ "medical cannabis") [decriminalization (256)](https://blog.mpp.org/archive/tags/decriminalization/ "decriminalization") [patients (203)](https://blog.mpp.org/archive/tags/patients/ "patients") [California (195)](https://blog.mpp.org/archive/tags/california/ "California") [New Hampshire (162)](https://blog.mpp.org/archive/tags/new-hampshire/ "New Hampshire") [Colorado (156)](https://blog.mpp.org/archive/tags/colorado/ "Colorado") [cannabis legalization (153)](https://blog.mpp.org/archive/tags/cannabis-legalization/ "cannabis legalization") [cannabis regulation (128)](https://blog.mpp.org/archive/tags/cannabis-regulation/ "cannabis regulation") [marijuana (126)](https://blog.mpp.org/archive/tags/marijuana/ "marijuana") [Vermont (109)](https://blog.mpp.org/archive/tags/vermont/ "Vermont") [dispensaries (104)](https://blog.mpp.org/archive/tags/dispensaries/ "dispensaries") [possession (100)](https://blog.mpp.org/archive/tags/possession/ "possession") [Congress (99)](https://blog.mpp.org/archive/tags/congress/ "Congress") [Maryland (94)](https://blog.mpp.org/archive/tags/maryland/ "Maryland") [DEA (91)](https://blog.mpp.org/archive/tags/dea/ "DEA") [Prohibition (90)](https://blog.mpp.org/archive/tags/prohibition/ "Prohibition") [NH (90)](https://blog.mpp.org/archive/tags/nh/ "NH")
+[Medical Marijuana (489)](https://blog.mpp.org/archive/tags/medical-marijuana/ "Medical Marijuana") [legalization (388)](https://blog.mpp.org/archive/tags/legalization/ "legalization") [Tax and Regulate (351)](https://blog.mpp.org/archive/tags/tax-and-regulate/ "Tax and Regulate") [medical cannabis (320)](https://blog.mpp.org/archive/tags/medical-cannabis/ "medical cannabis") [decriminalization (256)](https://blog.mpp.org/archive/tags/decriminalization/ "decriminalization") [patients (203)](https://blog.mpp.org/archive/tags/patients/ "patients") [California (195)](https://blog.mpp.org/archive/tags/california/ "California") [New Hampshire (162)](https://blog.mpp.org/archive/tags/new-hampshire/ "New Hampshire") [Colorado (156)](https://blog.mpp.org/archive/tags/colorado/ "Colorado") [cannabis legalization (153)](https://blog.mpp.org/archive/tags/cannabis-legalization/ "cannabis legalization") [cannabis regulation (128)](https://blog.mpp.org/archive/tags/cannabis-regulation/ "cannabis regulation") [marijuana (126)](https://blog.mpp.org/archive/tags/marijuana/ "marijuana") [Vermont (109)](https://blog.mpp.org/archive/tags/vermont/ "Vermont") [dispensaries (104)](https://blog.mpp.org/archive/tags/dispensaries/ "dispensaries") [possession (100)](https://blog.mpp.org/archive/tags/possession/ "possession") [Congress (99)](https://blog.mpp.org/archive/tags/congress/ "Congress") [Maryland (94)](https://blog.mpp.org/archive/tags/maryland/ "Maryland") [DEA (91)](https://blog.mpp.org/archive/tags/dea/ "DEA") [NH (90)](https://blog.mpp.org/archive/tags/nh/ "NH") [Prohibition (90)](https://blog.mpp.org/archive/tags/prohibition/ "Prohibition")
 
 [![MPP 25th Anniversary T-Shirt](/assets/components/phpthumbof/cache/mpp25_tshirt_sb_ad.8718aeb6c426ee505bcb0f81dc0e7488.jpg)](https://www.kannabiskingsapparel.com/products/mpp-25th-anniversary-tshirt)
 
