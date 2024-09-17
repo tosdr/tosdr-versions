@@ -29,13 +29,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.kagstv.com/assets/KHOU/images/fb60edf4-974c-4cc5-a4d7-3bb9b38ffead/20240916T181117/fb60edf4-974c-4cc5-a4d7-3bb9b38ffead_16x9.jpg) ![](https://media.kagstv.com/assets/KHOU/images/fb60edf4-974c-4cc5-a4d7-3bb9b38ffead/20240916T181117/fb60edf4-974c-4cc5-a4d7-3bb9b38ffead_360x203.jpg)](https://www.kagstv.com/article/news/local/la-porte-pipeline-fire-evacuations-brookglen-spencer-highway-luella-canada/285-1967e745-6d8c-420e-ab56-a65e4d98a8e0)
+    *  [![](https://media.kagstv.com/assets/KCEN/images/1145194d-c267-4b43-bc57-feb05f3f58b1/1145194d-c267-4b43-bc57-feb05f3f58b1_16x9.jpg) ![](https://media.kagstv.com/assets/KCEN/images/1145194d-c267-4b43-bc57-feb05f3f58b1/1145194d-c267-4b43-bc57-feb05f3f58b1_360x203.jpg)](https://www.kagstv.com/article/news/crime/cameron-man-pleads-guilty-beating-7-year-old-daughter/500-f206756b-9ff3-4076-9d7e-2ea387db8053)
         
-        #### ['Devastating to see this in the back of my yard' | Residents near Deer Park pipeline fire watch anxiously](https://www.kagstv.com/article/news/local/la-porte-pipeline-fire-evacuations-brookglen-spencer-highway-luella-canada/285-1967e745-6d8c-420e-ab56-a65e4d98a8e0)
+        #### [Cameron man pleads guilty to 3rd degree felony for injuring a child](https://www.kagstv.com/article/news/crime/cameron-man-pleads-guilty-beating-7-year-old-daughter/500-f206756b-9ff3-4076-9d7e-2ea387db8053)
         
-    *  [![](https://media.kagstv.com/assets/KENS/images/dfd221e9-346c-45fe-b049-de11c376de4f/20240916T023752/dfd221e9-346c-45fe-b049-de11c376de4f_16x9.jpg) ![](https://media.kagstv.com/assets/KENS/images/dfd221e9-346c-45fe-b049-de11c376de4f/20240916T023752/dfd221e9-346c-45fe-b049-de11c376de4f_360x203.jpg)](https://www.kagstv.com/article/news/local/san-antonio-teen-dog-homeless-job-family-shelter-bee-pawsitive-husky-rescue-community/273-bd362dc5-e325-4f1e-893c-9a2366eff9f4)
+    *  [![](https://media.kagstv.com/assets/KHOU/images/acae8d2f-0c51-4d70-b4bd-c4ea5b2d313b/20240916T184323/acae8d2f-0c51-4d70-b4bd-c4ea5b2d313b_16x9.jpg) ![](https://media.kagstv.com/assets/KHOU/images/acae8d2f-0c51-4d70-b4bd-c4ea5b2d313b/20240916T184323/acae8d2f-0c51-4d70-b4bd-c4ea5b2d313b_360x203.jpg)](https://www.kagstv.com/article/news/local/pipeline-fire-spencer-highway-la-porte-texas/285-0a30fb6b-bfa7-40a6-995f-00a463372487)
         
-        #### ['He's my son' | Homeless teen chooses to be with his dog on the streets, after shelter says he can't bring dog along](https://www.kagstv.com/article/news/local/san-antonio-teen-dog-homeless-job-family-shelter-bee-pawsitive-husky-rescue-community/273-bd362dc5-e325-4f1e-893c-9a2366eff9f4)
+        #### [Large pipeline fire continues to burn in Deer Park | What we know right now](https://www.kagstv.com/article/news/local/pipeline-fire-spencer-highway-la-porte-texas/285-0a30fb6b-bfa7-40a6-995f-00a463372487)
         
     
 * [Weather](https://www.kagstv.com/weather/)
@@ -86,9 +86,9 @@ Navigation
 
 Bryan, TX »
 
-94°
+83°
 
-![Sunny](/assets/shared-images/weather-icons/clear-day_210x210.png)
+![Clear](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
 
 Bryan, TX »](https://www.kagstv.com/weather)
 
