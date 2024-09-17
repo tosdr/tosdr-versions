@@ -114,7 +114,7 @@ BlockSite privacy policy and data collection practices.
 **BlockSite – Privacy Policy for Website, Mobile App, and Desktop App**
 -----------------------------------------------------------------------
 
-__\[Last updated: May 1, 2024\]__
+__\[Last updated: September 17, 2024\]__
 
 ### **Introduction**
 
@@ -276,7 +276,7 @@ Where provided under applicable law (e.g., within the European Union and United 
 
 * To confirm with us whether your Personal Information is processed, and if it is, to request access to the Personal Information processed, the purpose of the processing, and the recipients or categories of recipients of your Personal Information. 
 * To rectify inaccurate or incomplete Personal Information concerning you. We encourage you to review your information on the BlockSite Services regularly to ensure that it is accurate and up to date. 
-* In certain circumstances, to ask us to erase Personal Information concerning you;
+* In certain circumstances, to ask us to erase Personal Information concerning you; (i.e., delete your Personal Information);
 * To request that we restrict the processing of your Personal Information in certain circumstances.
 * To object to the processing of your Personal Information, where we are relying on a legitimate interest for such processing.
 * To object to us processing your Personal Information for direct marketing purposes.
@@ -285,7 +285,7 @@ Where provided under applicable law (e.g., within the European Union and United 
 
 Note that where your Personal Information has been de-identified, we will not be able to identify you or comply with some of the rights mentioned above. These rights do not apply to de-identified information. Additionally, these rights are not absolute and may therefore be subject to applicable exceptions, such as the interest of other individuals, in order to preserve that information for anticipated litigation or demands from a regulator.
 
-If you wish to exercise any of these rights, please contact our Data Protection Officer at: dpo@blocksite.co. Note that we may request proof of your identity, and we reserve the right to charge a fee where permitted by law, such as in circumstances where your request is deemed to be excessive. You may have the right to lodge a complaint with a data protection authority, subject to applicable law (as is the case in the European Union and the UK). You can find information on the relevant EU data protection authorities [here](https://edpb.europa.eu/about-edpb/about-edpb/members_en#member-at) and the UK Information Commissioner’s Office [here](https://ico.org.uk/global/contact-us/contact-us-public/). 
+If you wish to exercise any of these rights, including the right to request that we delete your Personal Information and data please contact our Data Protection Officer at: [dpo@blocksite.co](mailto:dpo@blocksite.co). Note that we may request proof of your identity, and we reserve the right to charge a fee where permitted by law, such as in circumstances where your request is deemed to be excessive. You can also choose to delete your account and the data associated with your account by submitting a request to do so [here](https://user.blocksite.co/settings/account). You may have the right to lodge a complaint with a data protection authority, subject to applicable law (as is the case in the European Union and the UK). You can find information on the relevant EU data protection authorities [here](https://edpb.europa.eu/about-edpb/about-edpb/members_en#member-at) and the UK Information Commissioner’s Office [here](https://ico.org.uk/global/contact-us/contact-us-public/).
 
 10. **USE BY CHILDREN**
 
@@ -359,7 +359,7 @@ We do not sell or share sensitive Personal Information, nor do we sell or share 
 
 **Submitting CCPA Requests**. California residents      may exercise the      rights described above via the methods described below     : 
 
-* **Right to Know, Delete, and Correct**: California residents may submit CCPA requests to access/know, delete, and correct Personal Information by contacting us at [dpo@blocksite.co](mailto:dpo@blocksite.co).
+* Right to Know, Delete, and Correct: California residents may submit CCPA requests to access/know, delete, and correct Personal Information by contacting us at dpo@blocksite.co.  You can also choose to delete your account and the data associated with your account by submitting a request to do so here.
 
 When you submit a request, we will take steps to verify your identity and request by matching the information provided by you with the information we have in our records. In some cases, we may request additional information in order to verify your identity, or where necessary to process your request. If we are unable to verify your identity after a good faith attempt, we may deny the request and, if so, will explain the basis for the denial.
 
