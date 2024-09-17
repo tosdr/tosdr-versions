@@ -18,15 +18,95 @@
 
 [Leia tudo sobre Maceió](https://www.tnh1.com.br/noticias/editoria/maceio/ "Ir para Maceió")
 
-   [![Saiba mais sobre cada um dos cinco finalistas](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/2/1/csm_CAPA_FINALISTAS_ae592f36b1.jpg)
+   [![Caso Ana Beatriz: familiares protestam na porta de delegacia e pedem justiça ](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/0/e/csm_familiares-ana-beatriz-protesto-foto-Monica-Ermirio_481ab37e3d.jpeg)
 
 Maceió
 
-Saiba mais sobre cada um dos cinco finalistas](https://www.tnh1.com.br/conteudo/noticia/nid/saiba-mais-sobre-cada-um-dos-cinco-finalistas/ "Saiba mais sobre cada um dos cinco finalistas")
+Caso Ana Beatriz: familiares protestam na porta de delegacia e pedem justiça](https://www.tnh1.com.br/noticia/nid/caso-ana-beatriz-familiares-protestam-na-porta-de-delegacia-e-pedem-justica/ "Caso Ana Beatriz: familiares protestam na porta de delegacia e pedem justiça ")   [![Hospital da Cidade já realizou mais de 90 mil procedimentos](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/2/9/csm_Hospital_da_Cidade_ja_realizou_mais_de_90_mil_procedimentos2_ba2f10df6e.jpeg)
+
+Maceió
+
+Hospital da Cidade já realizou mais de 90 mil procedimentos](https://www.tnh1.com.br/noticia/nid/hospital-da-cidade-ja-realizou-mais-de-90-mil-procedimentos/ "Hospital da Cidade já realizou mais de 90 mil procedimentos")   [![Suspeito de matar Ana Beatriz é filho de PM e teria usado arma do pai no crime](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/6/a/csm_operacao_prisao_suspeito_ana_beatriz_foto_reproducao_pc_85ba65fe21.jpeg)
+
+investigações
+
+Suspeito de matar Ana Beatriz é filho de PM e teria usado arma do pai no crime](https://www.tnh1.com.br/noticia/nid/suspeito-de-matar-ana-beatriz-e-filho-de-pm-e-teria-usado-arma-do-pai-no-crime/ "Suspeito de matar Ana Beatriz é filho de PM e teria usado arma do pai no crime")   [![Homem sofre descarga elétrica em cima de andaime no Jaraguá](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/7/4/csm_vitima-choque-eletrico-jaragua_f9729e1a8d.jpg)
+
+Foi socorrido
+
+Homem sofre descarga elétrica em cima de andaime no Jaraguá](https://www.tnh1.com.br/noticia/nid/homem-sofre-descarga-eletrica-em-cima-de-andaime-no-jaragua/ "Homem sofre descarga elétrica em cima de andaime no Jaraguá")   [![Viagem no tempo: vídeo produzido por designer com uso de IA mostra como era Maceió no passado](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/0/8/csm_IA_Maceio_no_passado_-_foto_reproducao_video_9a6c3364eb.png)
+
+Assista
+
+Viagem no tempo: vídeo produzido por designer com uso de IA mostra como era Maceió no passado](https://www.tnh1.com.br/noticia/nid/viagem-no-tempo-video-produzido-por-designer-com-uso-de-ia-mostra-como-era-maceio-no-passado/ "Viagem no tempo: vídeo produzido por designer com uso de IA mostra como era Maceió no passado")   [![UNINASSAU Maceió promove Mostra Campus para 2.500 estudantes](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/0/a/csm_uninassau-mostra-campus-2023_be6cbeb4d3.jpg)
+
+Dias 18 e 19
+
+UNINASSAU Maceió promove Mostra Campus para 2.500 estudantes](https://www.tnh1.com.br/noticia/nid/uninassau-maceio-promove-mostra-campus-para-2500-estudantes/ "UNINASSAU Maceió promove Mostra Campus para 2.500 estudantes")
 
 [Alagoas](https://www.tnh1.com.br/noticias/editoria/alagoas/ "Alagoas")
 
+Últimas de Alagoas
+
+[Leia tudo sobre Alagoas](https://www.tnh1.com.br/noticias/editoria/alagoas/ "Ir para Alagoas")
+
+   [![Governo do Estado diploma três novos patrimônios vivos de Alagoas](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/c/1/csm_governo-do-estado-diploma-tres-novos-patrimonios-vivos-de-alagoas_e5e42bd909.jpeg)
+
+Cultura
+
+Governo do Estado diploma três novos patrimônios vivos de Alagoas](https://www.tnh1.com.br/noticia/nid/governo-do-estado-diploma-tres-novos-patrimonios-vivos-de-alagoas/ "Governo do Estado diploma três novos patrimônios vivos de Alagoas")   [![Polícia Militar prende suspeitos e apreende armas e drogas em Piranhas e Arapiraca](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/7/0/csm_guarnicoes-da-pm-predem-suspeitos-com-armas-de-fogo-em-piranhas-e-arapiraca_544446e4f8.jpg)
+
+Alagoas
+
+Polícia Militar prende suspeitos e apreende armas e drogas em Piranhas e Arapiraca](https://www.tnh1.com.br/noticia/nid/policia-militar-prende-suspeitos-e-apreende-armas-e-drogas-em-piranhas-e-arapiraca/ "Polícia Militar prende suspeitos e apreende armas e drogas em Piranhas e Arapiraca")   [![Cases alagoanos são classificados para premiação nacional](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/6/0/csm_PREMIO_SER_HUMANO_482782c8d0.png)
+
+Alagoas
+
+Cases alagoanos são classificados para premiação nacional](https://www.tnh1.com.br/noticia/nid/cases-alagoanos-sao-classificados-para-premiacao-nacional/ "Cases alagoanos são classificados para premiação nacional")   [![HGE procura por familiares de paciente que deu entrada na última sexta-feira (13)](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/c/9/csm_hge-procura-por-familiares-de-paciente-que-foi-admitido-na-unidade-na-sexta-feira_b302874ecd.jpg)
+
+vítima de acidente
+
+HGE procura por familiares de paciente que deu entrada na última sexta-feira (13)](https://www.tnh1.com.br/noticia/nid/hge-procura-por-familiares-de-paciente-que-deu-entrada-na-ultima-sexta-feira-13/ "HGE procura por familiares de paciente que deu entrada na última sexta-feira (13)")   [![Cinco casos de violência doméstica são registrados em Alagoas durante o feriado](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/b/9/csm_violencia_contra_a_mulher-agencia-brasil_b41768433d.jpg)
+
+Em 12 horas
+
+Cinco casos de violência doméstica são registrados em Alagoas durante o feriado](https://www.tnh1.com.br/noticia/nid/cinco-casos-de-violencia-domestica-sao-registrados-em-alagoas-durante-o-feriado/ "Cinco casos de violência doméstica são registrados em Alagoas durante o feriado")   [![Desfile estudantil celebra os 207 anos de Emancipação Política de Alagoas](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/a/2/csm_desfile-emancipacao-divulgacao_56c71a5e74.jpeg)
+
+Solenidade
+
+Desfile estudantil celebra os 207 anos de Emancipação Política de Alagoas](https://www.tnh1.com.br/noticia/nid/desfile-estudantil-celebra-os-207-anos-de-emancipacao-politica-de-alagoas/ "Desfile estudantil celebra os 207 anos de Emancipação Política de Alagoas")
+
 [Polícia](https://www.tnh1.com.br/noticias/editoria/policia/ "Polícia")
+
+Últimas de Polícia
+
+[Leia tudo sobre Polícia](https://www.tnh1.com.br/noticias/editoria/policia/ "Ir para Polícia")
+
+   [![Suspeito de matar Ana Beatriz já foi condenado por outro crime em 2023](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/c/6/csm_homem-suspeito-morte-adolescente-ana-beatriz-reproducao-pc-al_39645c7f62.png)
+
+Justiça
+
+Suspeito de matar Ana Beatriz já foi condenado por outro crime em 2023](https://www.tnh1.com.br/noticia/nid/suspeito-de-matar-ana-beatriz-ja-foi-condenado-por-outro-crime-em-2023/ "Suspeito de matar Ana Beatriz já foi condenado por outro crime em 2023")   [![Traficante alagoano é flagrado pela polícia ostentando em praia do Rio de Janeiro; veja fotos](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/e/3/csm_Still_Territorios_do_crime_d7bdc35c5f.png)
+
+vida de luxo
+
+Traficante alagoano é flagrado pela polícia ostentando em praia do Rio de Janeiro; veja fotos](https://www.tnh1.com.br/noticia/nid/traficante-alagoano-e-flagrado-pela-policia-ostentando-em-praia-do-rio-de-janeiro-veja-fotos/ "Traficante alagoano é flagrado pela polícia ostentando em praia do Rio de Janeiro; veja fotos")   [![Polícia Militar prende suspeitos e apreende armas e drogas em Piranhas e Arapiraca](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/7/0/csm_guarnicoes-da-pm-predem-suspeitos-com-armas-de-fogo-em-piranhas-e-arapiraca_544446e4f8.jpg)
+
+Alagoas
+
+Polícia Militar prende suspeitos e apreende armas e drogas em Piranhas e Arapiraca](https://www.tnh1.com.br/noticia/nid/policia-militar-prende-suspeitos-e-apreende-armas-e-drogas-em-piranhas-e-arapiraca/ "Polícia Militar prende suspeitos e apreende armas e drogas em Piranhas e Arapiraca")   [!['Serial killer': polícia investiga se suspeito de matar adolescente é assassino em série](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/8/a/csm_prisao_de_suspeito_de_matar_ana_beatriz_reproducao_video_111d123fc7.png)
+
+Polícia
+
+'Serial killer': polícia investiga se suspeito de matar adolescente é assassino em série](https://www.tnh1.com.br/noticia/nid/serial-killer-policia-investiga-se-suspeito-de-matar-adolescente-e-assassino-em-serie/ "'Serial killer': polícia investiga se suspeito de matar adolescente é assassino em série")   [![Suspeito de matar Ana Beatriz é filho de PM e teria usado arma do pai no crime](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/6/a/csm_operacao_prisao_suspeito_ana_beatriz_foto_reproducao_pc_85ba65fe21.jpeg)
+
+investigações
+
+Suspeito de matar Ana Beatriz é filho de PM e teria usado arma do pai no crime](https://www.tnh1.com.br/noticia/nid/suspeito-de-matar-ana-beatriz-e-filho-de-pm-e-teria-usado-arma-do-pai-no-crime/ "Suspeito de matar Ana Beatriz é filho de PM e teria usado arma do pai no crime")   [![Polícia tenta localizar mulher que furtou apartamento enquanto homem dormia na Ponta Verde ](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/d/b/csm_Captura_de_tela_2024-09-17_104521_6b823375d0.png)
+
+novas imagens
+
+Polícia tenta localizar mulher que furtou apartamento enquanto homem dormia na Ponta Verde](https://www.tnh1.com.br/noticia/nid/policia-tenta-localizar-mulher-que-furtou-apartamento-enquanto-homem-dormia-na-ponta-verde/ "Polícia tenta localizar mulher que furtou apartamento enquanto homem dormia na Ponta Verde ") 
 
 [Blogs](https://www.tnh1.com.br/blogs/ "Blogs")
 
@@ -35,6 +115,16 @@ Saiba mais sobre cada um dos cinco finalistas](https://www.tnh1.com.br/conteudo/
 [TV](https://www.tnh1.com.br/videos/ "TV ")
 
 [Pessoas&Negócios](https://www.tnh1.com.br/a-lideranca-que-voce-escolheu/noticias/editoria/pessoas-negocios/ "Pessoas&Negócios")
+
+Últimas de Pessoas&Negócios
+
+[Leia tudo sobre Pessoas&Negócios](https://www.tnh1.com.br/a-lideranca-que-voce-escolheu/noticias/editoria/pessoas-negocios/ "Ir para Pessoas&Negócios")
+
+   [![Uninassau Maceió recebe selo "OAB Indica" por excelência no ensino de Direito](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/d/0/csm_UNINASSAU_SELO_OAB___2__f9527de421.jpg)
+
+Pessoas & Negócios
+
+Uninassau Maceió recebe selo "OAB Indica" por excelência no ensino de Direito](https://www.tnh1.com.br/noticia/nid/uninassau-maceio-recebe-selo-oab-indica-por-excelencia-no-ensino-de-direito/ "Uninassau Maceió recebe selo "OAB Indica" por excelência no ensino de Direito")
 
 [Pajuçara.com](https://pajucara.tnh1.com.br/ "Pajuçara.com")
 
@@ -124,15 +214,7 @@ mais de 500 metros
 
 Projetado por sobrinha de Senna, maior arranha-céu do mundo é anunciado no Brasil
 
-Projetado por sobrinha de Senna, maior arranha-céu do mundo é anunciado no Brasil](https://www.tnh1.com.br/noticia/nid/projetado-por-sobrinha-de-senna-maior-arranha-ceu-do-mundo-e-anunciado-no-brasil/ "Projetado por sobrinha de Senna, maior arranha-céu do mundo é anunciado no Brasil ")[![Duplicação de trechos remanescentes da BR-101 é retomada 20 anos depois](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/2/b/csm_obra-duplicacao-rodovia-alagoas-reproducao-agencia-alagoas_fdc35b3ae4.jpeg)
-
-segurança viária
-
-segurança viária
-
-Duplicação de trechos remanescentes da BR-101 é retomada 20 anos depois
-
-Duplicação de trechos remanescentes da BR-101 é retomada 20 anos depois](https://www.tnh1.com.br/noticia/nid/duplicacao-de-trechos-remanescentes-da-br-101-e-retomada-20-anos-depois/ "Duplicação de trechos remanescentes da BR-101 é retomada 20 anos depois")[![Remédio para diabetes pode desacelerar envelhecimento, sugere estudo](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/c/c/csm_close-up-woman-s-hand-holding-blister-pack-with-medicines-wooden-desk__1__2b20d73d9e.jpg)
+Projetado por sobrinha de Senna, maior arranha-céu do mundo é anunciado no Brasil](https://www.tnh1.com.br/noticia/nid/projetado-por-sobrinha-de-senna-maior-arranha-ceu-do-mundo-e-anunciado-no-brasil/ "Projetado por sobrinha de Senna, maior arranha-céu do mundo é anunciado no Brasil ")[![Remédio para diabetes pode desacelerar envelhecimento, sugere estudo](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/c/c/csm_close-up-woman-s-hand-holding-blister-pack-with-medicines-wooden-desk__1__2b20d73d9e.jpg)
 
 Saúde
 
@@ -140,41 +222,49 @@ Saúde
 
 Remédio para diabetes pode desacelerar envelhecimento, sugere estudo
 
-Remédio para diabetes pode desacelerar envelhecimento, sugere estudo](https://www.tnh1.com.br/noticia/nid/remedio-para-diabetes-pode-desacelerar-envelhecimento-sugere-estudo/ "Remédio para diabetes pode desacelerar envelhecimento, sugere estudo")
+Remédio para diabetes pode desacelerar envelhecimento, sugere estudo](https://www.tnh1.com.br/noticia/nid/remedio-para-diabetes-pode-desacelerar-envelhecimento-sugere-estudo/ "Remédio para diabetes pode desacelerar envelhecimento, sugere estudo")[![Duplicação de trechos remanescentes da BR-101 é retomada 20 anos depois](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/2/b/csm_obra-duplicacao-rodovia-alagoas-reproducao-agencia-alagoas_fdc35b3ae4.jpeg)
 
-[![HGE procura por familiares de paciente que deu entrada na última sexta-feira (13)](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/c/9/csm_hge-procura-por-familiares-de-paciente-que-foi-admitido-na-unidade-na-sexta-feira_a16bd02b21.jpg)
+segurança viária
 
-vítima de acidente
+segurança viária
 
-vítima de acidente
+Duplicação de trechos remanescentes da BR-101 é retomada 20 anos depois
 
-HGE procura por familiares de paciente que deu entrada na última sexta-feira (13)
+Duplicação de trechos remanescentes da BR-101 é retomada 20 anos depois](https://www.tnh1.com.br/noticia/nid/duplicacao-de-trechos-remanescentes-da-br-101-e-retomada-20-anos-depois/ "Duplicação de trechos remanescentes da BR-101 é retomada 20 anos depois")
 
-HGE procura por familiares de paciente que deu entrada na última sexta-feira (13)](https://www.tnh1.com.br/noticia/nid/hge-procura-por-familiares-de-paciente-que-deu-entrada-na-ultima-sexta-feira-13/ "HGE procura por familiares de paciente que deu entrada na última sexta-feira (13)")[![Datena diz que Marçal fez cena em caso da cadeirada](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/4/2/csm_datena_e_marcal_reproducao-tv_cultura_63cd2ca2e1.jpg)
+[![Suspeito de matar Ana Beatriz já foi condenado por outro crime em 2023](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/c/6/csm_homem-suspeito-morte-adolescente-ana-beatriz-reproducao-pc-al_b6d65ebe2c.png)
 
-briga em debate
+Justiça
 
-briga em debate
+Justiça
 
-Datena diz que Marçal fez cena em caso da cadeirada
+Suspeito de matar Ana Beatriz já foi condenado por outro crime em 2023
 
-Datena diz que Marçal fez cena em caso da cadeirada](https://www.tnh1.com.br/noticia/nid/datena-diz-que-marcal-fez-cena-em-caso-da-cadeirada/ "Datena diz que Marçal fez cena em caso da cadeirada")[![Novas imagens mostram Datena jogando cadeira contra Marçal; assista](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/8/f/csm_agressao_datena_marcal_-_foto_reproducao_video_b2b93a9a76.png)
+Suspeito de matar Ana Beatriz já foi condenado por outro crime em 2023](https://www.tnh1.com.br/noticia/nid/suspeito-de-matar-ana-beatriz-ja-foi-condenado-por-outro-crime-em-2023/ "Suspeito de matar Ana Beatriz já foi condenado por outro crime em 2023")[![Traficante alagoano é flagrado pela polícia ostentando em praia do Rio de Janeiro; veja fotos](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/e/3/csm_Still_Territorios_do_crime_9763e2056c.png)
 
-Candidatos em SP
+vida de luxo
 
-Candidatos em SP
+vida de luxo
 
-Novas imagens mostram Datena jogando cadeira contra Marçal; assista
+Traficante alagoano é flagrado pela polícia ostentando em praia do Rio de Janeiro; veja fotos
 
-Novas imagens mostram Datena jogando cadeira contra Marçal; assista](https://www.tnh1.com.br/noticia/nid/novas-imagens-mostram-datena-jogando-cadeira-contra-marcal-assista/ "Novas imagens mostram Datena jogando cadeira contra Marçal; assista")[![Conmebol terá gesto para denunciar racismo e jogos podem ser suspensos](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/c/3/csm_taca_da_libertadores_divulgacao_conmebol_b65eac7b74.jpg)
+Traficante alagoano é flagrado pela polícia ostentando em praia do Rio de Janeiro; veja fotos](https://www.tnh1.com.br/noticia/nid/traficante-alagoano-e-flagrado-pela-policia-ostentando-em-praia-do-rio-de-janeiro-veja-fotos/ "Traficante alagoano é flagrado pela polícia ostentando em praia do Rio de Janeiro; veja fotos")[![Toffoli é internado com inflamação nos pulmões](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/f/0/csm_Dias_Toffoli_2aec272fda.jpg)
 
-novo protocolo
+Brasil
 
-novo protocolo
+Brasil
 
-Conmebol terá gesto para denunciar racismo e jogos podem ser suspensos
+Toffoli é internado com inflamação nos pulmões
 
-Conmebol terá gesto para denunciar racismo e jogos podem ser suspensos](https://www.tnh1.com.br/noticia/nid/conmebol-tera-gesto-para-denunciar-racismo-e-jogos-podem-ser-suspensos/ "Conmebol terá gesto para denunciar racismo e jogos podem ser suspensos")
+Toffoli é internado com inflamação nos pulmões](https://www.tnh1.com.br/noticia/nid/toffoli-e-internado-com-inflamacao-nos-pulmoes/ "Toffoli é internado com inflamação nos pulmões")[![Correios abrem período de adesão a Programa de Desligamento Voluntário](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/1/1/csm_Correios_Agencia_Brasil2_94d190be4e.jpg)
+
+Brasil
+
+Brasil
+
+Correios abrem período de adesão a Programa de Desligamento Voluntário
+
+Correios abrem período de adesão a Programa de Desligamento Voluntário](https://www.tnh1.com.br/noticia/nid/correios-abrem-periodo-de-adesao-a-programa-de-desligamento-voluntario/ "Correios abrem período de adesão a Programa de Desligamento Voluntário")
 
 [](https://www.tnh1.com.br/ "TNH1 logo")
 
