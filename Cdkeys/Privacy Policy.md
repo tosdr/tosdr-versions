@@ -580,7 +580,7 @@ To view games that are valid in your region ‘%1’, click here
     
     **[Squad PC](https://www.cdkeys.com/pc/squad-pc-steam "Squad PC ")**
     
-    Special Price $24.99 RRP $52.59
+    Special Price $25.59 RRP $52.59
     
     [Add to Wish List](# "Add to Wish List")
     
