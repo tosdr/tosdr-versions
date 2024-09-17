@@ -118,57 +118,57 @@ This policy is effective as of 29 June 2021.
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Integrated Debit Order Solution
-> -------------------------------
+> Fast, Accurate & Easy to Use
+> ----------------------------
 > 
-> We sell adsl bandwidth ranging from a single gig account, up to uncapped accounts. We use invoices online for all our invoicing needs - the invoices online API is integrated in our debit order system that runs on a monthly basis. All clients receive an invoice as soon as their account is debited, and on successful payment the payment is automatically recorded against their account. The system saves us a great deal of time and effort every month, and we recommend that you give it a try.
+> Small Business Management System or SBMS, now rebranded as Invoices Online is an online invoicing system developed by the same guys that developed our site, we use it and honestly recommend it to all people who have dynamic sites, or want an online invoicing solution.  The invoicing application is fast, accurate, easy to use, and it really enhances the online experience of our clients.
 
-Hugo van Sittert
+Jannie Schutte - myFinance-Online.co.za
 
-![valued client Khiya Technology Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=5545&file=logo_300_100&type=&fe=2b9b936ff821199661983b92c4d8333afacae966df445126a3ad0cc0836ffb31&c=8312927)  
-Khiya Technology Solutions
+![valued client McKaynine Mobility](https://www.invoicesonline.co.za/scripts/image.php?bid=8229&file=logo_300_100&type=&fe=503bfb042f883d24bdb54b6bac0f0bcc4e61767c644c27f076278cd4f7c01b55&c=5492018)  
+McKaynine Mobility
 
-![valued client TechnoDezi PTY(LTD)](https://www.invoicesonline.co.za/scripts/image.php?bid=2471&file=logo_300_100&type=&fe=2b9b936ff821199661983b92c4d8333afacae966df445126a3ad0cc0836ffb31&c=170611436)  
-TechnoDezi PTY(LTD)
+![valued client Imhoff Equestrian Centre](https://www.invoicesonline.co.za/scripts/image.php?bid=7987&file=logo_300_100&type=&fe=503bfb042f883d24bdb54b6bac0f0bcc4e61767c644c27f076278cd4f7c01b55&c=52877978)  
+Imhoff Equestrian Centre
 
-![valued client INVOICES/JOBCARDS ONLINE](https://www.invoicesonline.co.za/scripts/image.php?bid=6974&file=logo_300_100&type=&fe=2b9b936ff821199661983b92c4d8333afacae966df445126a3ad0cc0836ffb31&c=198741266)  
-INVOICES/JOBCARDS ONLINE
+![valued client SLOANE STAR MEAT MARKET](https://www.invoicesonline.co.za/scripts/image.php?bid=1748&file=logo_300_100&type=&fe=503bfb042f883d24bdb54b6bac0f0bcc4e61767c644c27f076278cd4f7c01b55&c=54048571)  
+SLOANE STAR MEAT MARKET
 
-![valued client West Coast Horse Trails](https://www.invoicesonline.co.za/scripts/image.php?bid=7984&file=logo_300_100&type=&fe=2b9b936ff821199661983b92c4d8333afacae966df445126a3ad0cc0836ffb31&c=156044517)  
-West Coast Horse Trails
+![valued client Brilliant Roof Products](https://www.invoicesonline.co.za/scripts/image.php?bid=8079&file=logo_300_100&type=&fe=503bfb042f883d24bdb54b6bac0f0bcc4e61767c644c27f076278cd4f7c01b55&c=202553821)  
+Brilliant Roof Products
 
-![valued client Tracknetics](https://www.invoicesonline.co.za/scripts/image.php?bid=8211&file=logo_300_100&type=&fe=2b9b936ff821199661983b92c4d8333afacae966df445126a3ad0cc0836ffb31&c=12237151)  
-Tracknetics
+![valued client OrgChart Hosting Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=658&file=logo_300_100&type=&fe=503bfb042f883d24bdb54b6bac0f0bcc4e61767c644c27f076278cd4f7c01b55&c=142766399)  
+OrgChart Hosting Pty Ltd
 
-![valued client OptaServ](https://www.invoicesonline.co.za/scripts/image.php?bid=7689&file=logo_300_100&type=&fe=2b9b936ff821199661983b92c4d8333afacae966df445126a3ad0cc0836ffb31&c=209522425)  
-OptaServ
+![valued client Durbanville Classifieds (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8122&file=logo_300_100&type=&fe=503bfb042f883d24bdb54b6bac0f0bcc4e61767c644c27f076278cd4f7c01b55&c=146780623)  
+Durbanville Classifieds (Pty) Ltd
 
-![valued client Skinz Printing & Branding ](https://www.invoicesonline.co.za/scripts/image.php?bid=6232&file=logo_300_100&type=&fe=2b9b936ff821199661983b92c4d8333afacae966df445126a3ad0cc0836ffb31&c=10106669)  
-Skinz Printing & Branding
-
-![valued client Stevens Consulting](https://www.invoicesonline.co.za/scripts/image.php?bid=5551&file=logo_300_100&type=&fe=2b9b936ff821199661983b92c4d8333afacae966df445126a3ad0cc0836ffb31&c=27096621)  
-Stevens Consulting
-
-![valued client MOSELA GROUP Pty(ltd)](https://www.invoicesonline.co.za/scripts/image.php?bid=7624&file=logo_300_100&type=&fe=2b9b936ff821199661983b92c4d8333afacae966df445126a3ad0cc0836ffb31&c=18350063)  
+![valued client MOSELA GROUP Pty(ltd)](https://www.invoicesonline.co.za/scripts/image.php?bid=7624&file=logo_300_100&type=&fe=503bfb042f883d24bdb54b6bac0f0bcc4e61767c644c27f076278cd4f7c01b55&c=131013148)  
 MOSELA GROUP Pty(ltd)
 
-![valued client Leef in Afrikaans](https://www.invoicesonline.co.za/scripts/image.php?bid=7426&file=logo_300_100&type=&fe=2b9b936ff821199661983b92c4d8333afacae966df445126a3ad0cc0836ffb31&c=127934105)  
-Leef in Afrikaans
+![valued client Digifax Pty) Ltd t/a Findfish](https://www.invoicesonline.co.za/scripts/image.php?bid=1295&file=logo_300_100&type=&fe=503bfb042f883d24bdb54b6bac0f0bcc4e61767c644c27f076278cd4f7c01b55&c=161338238)  
+Digifax Pty) Ltd t/a Findfish
 
-![valued client Secunda Signs T/A Local Print and Signs](https://www.invoicesonline.co.za/scripts/image.php?bid=8292&file=logo_300_100&type=&fe=2b9b936ff821199661983b92c4d8333afacae966df445126a3ad0cc0836ffb31&c=104105727)  
-Secunda Signs T/A Local Print and Signs
+![valued client Salvage Genie](https://www.invoicesonline.co.za/scripts/image.php?bid=5867&file=logo_300_100&type=&fe=503bfb042f883d24bdb54b6bac0f0bcc4e61767c644c27f076278cd4f7c01b55&c=147365573)  
+Salvage Genie
 
-![valued client #DiGi3 Marketing & Design](https://www.invoicesonline.co.za/scripts/image.php?bid=3234&file=logo_300_100&type=&fe=2b9b936ff821199661983b92c4d8333afacae966df445126a3ad0cc0836ffb31&c=145173999)  
-#DiGi3 Marketing & Design
+![valued client Redlum Group (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8254&file=logo_300_100&type=&fe=503bfb042f883d24bdb54b6bac0f0bcc4e61767c644c27f076278cd4f7c01b55&c=24144777)  
+Redlum Group (Pty) Ltd
 
-![valued client PROGRAPHIX PTY LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8509&file=logo_300_100&type=&fe=2b9b936ff821199661983b92c4d8333afacae966df445126a3ad0cc0836ffb31&c=55565397)  
-PROGRAPHIX PTY LTD
+![valued client Goju-Ryu Pretoria East](https://www.invoicesonline.co.za/scripts/image.php?bid=8346&file=logo_300_100&type=&fe=503bfb042f883d24bdb54b6bac0f0bcc4e61767c644c27f076278cd4f7c01b55&c=93620631)  
+Goju-Ryu Pretoria East
 
-![valued client MONSTER SECURITY SERVICES](https://www.invoicesonline.co.za/scripts/image.php?bid=5438&file=logo_300_100&type=&fe=2b9b936ff821199661983b92c4d8333afacae966df445126a3ad0cc0836ffb31&c=103522761)  
-MONSTER SECURITY SERVICES
+![valued client NJR ICT Services (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6292&file=logo_300_100&type=&fe=503bfb042f883d24bdb54b6bac0f0bcc4e61767c644c27f076278cd4f7c01b55&c=54678177)  
+NJR ICT Services (Pty) Ltd
 
-![valued client Meyer Towing & Recovery ](https://www.invoicesonline.co.za/scripts/image.php?bid=7983&file=logo_300_100&type=&fe=2b9b936ff821199661983b92c4d8333afacae966df445126a3ad0cc0836ffb31&c=68306384)  
-Meyer Towing & Recovery
+![valued client Hydroworld T/A Milliqua](https://www.invoicesonline.co.za/scripts/image.php?bid=3671&file=logo_300_100&type=&fe=503bfb042f883d24bdb54b6bac0f0bcc4e61767c644c27f076278cd4f7c01b55&c=114223324)  
+Hydroworld T/A Milliqua
+
+![valued client Gemini-IT Group](https://www.invoicesonline.co.za/scripts/image.php?bid=8156&file=logo_300_100&type=&fe=503bfb042f883d24bdb54b6bac0f0bcc4e61767c644c27f076278cd4f7c01b55&c=193582096)  
+Gemini-IT Group
+
+![valued client Cape Adventure Zone](https://www.invoicesonline.co.za/scripts/image.php?bid=2185&file=logo_300_100&type=&fe=503bfb042f883d24bdb54b6bac0f0bcc4e61767c644c27f076278cd4f7c01b55&c=199918588)  
+Cape Adventure Zone
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
