@@ -499,6 +499,13 @@ _Last updated: March 24, 2023_
 2. As explained in Blueboard’s terms of service, you can only use the Crypto Wallet Service if permitted under the laws of your jurisdiction. Please make sure that your use of the Crypto Wallet Service is in compliance with all laws, rules, and regulations that apply to you. It is your responsibility to determine what, if any, taxes apply to your Cryptocurrency transactions, and it is your responsibility to report and remit the correct tax to the appropriate tax authority where applicable. Neither Opera nor Blueboard is not responsible for determining whether taxes apply to your transactions or for collecting, reporting, withholding, or remitting any taxes arising from any of your transactions.
     
 
+GX.Gear
+
+GX.Gear
+-------
+
+Gx.gear is an online store provided by our affiliate, Opera Software Poland Sp. z o.o., which is solely responsible for its operation. Use of the Gx.gear service is subject to these [Terms of Service](https://legal.opera.com/terms/gxgear/).
+
 Hype Messaging Service
 
 Hype Messaging Service
