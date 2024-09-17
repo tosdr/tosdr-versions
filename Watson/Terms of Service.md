@@ -1,4 +1,4 @@
-[![watson](https://www.watson.ch/fr/_watsui/static/img/logos/logo_watson_navi_ch.png)](https://www.watson.ch/fr/)[![pluie modérée](https://www.watson.ch/fr/_watsui/static/img/weather/w-17.svg)9°](https://www.watson.ch/fr/o/meteo)
+[![watson](https://www.watson.ch/fr/_watsui/static/img/logos/logo_watson_navi_ch.png)](https://www.watson.ch/fr/)[![faible pluie](https://www.watson.ch/fr/_watsui/static/img/weather/w-16.svg)11°](https://www.watson.ch/fr/o/meteo)
 
 [DE](https://www.watson.ch/) | [FR](https://www.watson.ch/fr/)
 
@@ -55,25 +55,25 @@
 
 Thèmes du moment
 
-* [Musique](https://www.watson.ch/fr/musique/)
 * [Justice](https://www.watson.ch/fr/justice/)
-* [Rap](https://www.watson.ch/fr/rap/)
-* [Santé](https://www.watson.ch/fr/sante/)
+* [WhatsApp](https://www.watson.ch/fr/whatsapp/)
+* [Téléphone](https://www.watson.ch/fr/telephone/)
+* [Confédération](https://www.watson.ch/fr/confederation/)
+* [Technologie](https://www.watson.ch/fr/technologie/)
+* [Hockey sur glace](https://www.watson.ch/fr/hockey-sur-glace/)
+* [CFF](https://www.watson.ch/fr/cff/)
+* [présidentielle américaine](https://www.watson.ch/fr/presidentielle-americaine/)
 * [Donald Trump](https://www.watson.ch/fr/donald-trump/)
 * [Football](https://www.watson.ch/fr/football/)
-* [Hockey sur glace](https://www.watson.ch/fr/hockey-sur-glace/)
-* [Union Européenne](https://www.watson.ch/fr/union-europeenne/)
-* [armes](https://www.watson.ch/fr/armes/)
-* [Guerre contre l'Ukraine](https://www.watson.ch/fr/guerre-contre-l-ukraine/)
-* [présidentielle américaine](https://www.watson.ch/fr/presidentielle-americaine/)
-* [People](https://www.watson.ch/fr/people/)
-* [Texas](https://www.watson.ch/fr/texas/)
-* [Animaux](https://www.watson.ch/fr/animaux/)
 * [Russie](https://www.watson.ch/fr/russie/)
+* [Culture](https://www.watson.ch/fr/culture/)
+* [Entreprise](https://www.watson.ch/fr/entreprise/)
+* [Banques](https://www.watson.ch/fr/banques/)
 * [AVS](https://www.watson.ch/fr/avs/)
 * [mort](https://www.watson.ch/fr/mort/)
+* [Genève](https://www.watson.ch/fr/geneve/)
+* [Europe](https://www.watson.ch/fr/europe/)
 * [Allemagne](https://www.watson.ch/fr/allemagne/)
-* [France](https://www.watson.ch/fr/france/)
 * [Etats-Unis](https://www.watson.ch/fr/etats-unis/)
 * [Tous les thèmes](https://www.watson.ch/fr/u/tag_list)
 
