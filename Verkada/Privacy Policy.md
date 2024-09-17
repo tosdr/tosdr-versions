@@ -407,9 +407,9 @@ This Privacy Policy does not apply to information we process as a data processor
 * Company
     
     * [About](https://www.verkada.com/about/)
+    * [Platform SLA](https://www.verkada.com/support/sla/)
     * [Careers](https://www.verkada.com/careers/)
     * [Trust](https://www.verkada.com/trust/)
-    * [Platform SLA](https://www.verkada.com/support/sla/)
     * [Verkada Gives](https://www.verkada.com/gives/)
     * [Pricing](https://www.verkada.com/pricing/)
     * [Patents](https://www.verkada.com/patents/)
