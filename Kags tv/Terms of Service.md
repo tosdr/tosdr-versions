@@ -35,7 +35,7 @@ Navigation
         
     *  [![](https://media.kagstv.com/assets/KHOU/images/acae8d2f-0c51-4d70-b4bd-c4ea5b2d313b/20240916T184323/acae8d2f-0c51-4d70-b4bd-c4ea5b2d313b_16x9.jpg) ![](https://media.kagstv.com/assets/KHOU/images/acae8d2f-0c51-4d70-b4bd-c4ea5b2d313b/20240916T184323/acae8d2f-0c51-4d70-b4bd-c4ea5b2d313b_360x203.jpg)](https://www.kagstv.com/article/news/local/pipeline-fire-spencer-highway-la-porte-texas/285-0a30fb6b-bfa7-40a6-995f-00a463372487)
         
-        #### [Large pipeline fire continues to burn in Deer Park | What we know right now](https://www.kagstv.com/article/news/local/pipeline-fire-spencer-highway-la-porte-texas/285-0a30fb6b-bfa7-40a6-995f-00a463372487)
+        #### [Pipeline fire continues to burn in Deer Park | What we know right now](https://www.kagstv.com/article/news/local/pipeline-fire-spencer-highway-la-porte-texas/285-0a30fb6b-bfa7-40a6-995f-00a463372487)
         
     
 * [Weather](https://www.kagstv.com/weather/)
@@ -50,13 +50,13 @@ Navigation
     
     Latest Weather Stories
     
+    *  [![](https://media.kagstv.com/assets/CCT/images/e52e645e-0b91-4f26-ba6f-40ba70997361/20240917T114315/e52e645e-0b91-4f26-ba6f-40ba70997361_16x9.jpg) ![](https://media.kagstv.com/assets/CCT/images/e52e645e-0b91-4f26-ba6f-40ba70997361/20240917T114315/e52e645e-0b91-4f26-ba6f-40ba70997361_360x203.jpg)](https://www.kagstv.com/article/news/nation-world/september-2024-full-moon-harvest-moon-partial-eclipse-supermoon-time/507-d36e7dcc-254f-4a7b-852b-640017b8e713)
+        
+        #### [What time is Tuesday's partial lunar eclipse?](https://www.kagstv.com/article/news/nation-world/september-2024-full-moon-harvest-moon-partial-eclipse-supermoon-time/507-d36e7dcc-254f-4a7b-852b-640017b8e713)
+        
     *  [![](https://media.kagstv.com/assets/CCT/images/e541080c-0fb0-4cd9-9e04-967d0df575fb/20240916T133310/e541080c-0fb0-4cd9-9e04-967d0df575fb_16x9.jpg) ![](https://media.kagstv.com/assets/CCT/images/e541080c-0fb0-4cd9-9e04-967d0df575fb/20240916T133310/e541080c-0fb0-4cd9-9e04-967d0df575fb_360x203.jpg)](https://www.kagstv.com/article/news/nation-world/tropical-storm-conditions-expected-parts-of-the-carolinas/507-e0c724a0-fbfd-437c-9cbf-f1ed0939a051)
         
         #### [Tropical storm conditions expected for parts of the Carolinas as disturbance approaches coast](https://www.kagstv.com/article/news/nation-world/tropical-storm-conditions-expected-parts-of-the-carolinas/507-e0c724a0-fbfd-437c-9cbf-f1ed0939a051)
-        
-    *  [![](https://media.kagstv.com/assets/CCT/images/b19ce186-e13f-4d38-8d95-fcacbd385ae3/20240818T162111/b19ce186-e13f-4d38-8d95-fcacbd385ae3_16x9.jpg) ![](https://media.kagstv.com/assets/CCT/images/b19ce186-e13f-4d38-8d95-fcacbd385ae3/20240818T162111/b19ce186-e13f-4d38-8d95-fcacbd385ae3_360x203.jpg)](https://www.kagstv.com/article/news/nation-world/full-moon-supermoon-lunar-eclipse-harvest-moon/507-27188f92-97c9-4f20-beea-2cd4b0c14fba)
-        
-        #### [The next full moon will also feature a lunar eclipse. Here's when to look up](https://www.kagstv.com/article/news/nation-world/full-moon-supermoon-lunar-eclipse-harvest-moon/507-27188f92-97c9-4f20-beea-2cd4b0c14fba)
         
     
 * [Sports](https://www.kagstv.com/sports)
@@ -86,9 +86,9 @@ Navigation
 
 Bryan, TX »
 
-74°
+78°
 
-![Clear](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
+![Partly Cloudy](/assets/shared-images/weather-icons/partly-cloudy-day_210x210.png)
 
 Bryan, TX »](https://www.kagstv.com/weather)
 
