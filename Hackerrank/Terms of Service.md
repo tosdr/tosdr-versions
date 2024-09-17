@@ -121,6 +121,7 @@ Discover the universities with top developer talent. Based on 860,000 student te
 * [Log in](https://www.hackerrank.com/access-account/)
 
 * [For developers](https://www.hackerrank.com/dashboard/)
+* [Log in](https://www.hackerrank.com/access-account/)
 * [Request demo](https://www.hackerrank.com/request-demo/)
 * [Sign up](https://www.hackerrank.com/get-started/)
 
