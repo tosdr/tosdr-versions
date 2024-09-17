@@ -259,7 +259,7 @@ article 4 days ago](https://science.nasa.gov/missions/hubble/hubble-examines-a-s
 
 ### NASA’s SpaceX Crew-9 to Conduct Space Station Research
 
-article 4 days ago](https://www.nasa.gov/missions/station/nasas-spacex-crew-9-to-conduct-space-station-research/)
+article 5 days ago](https://www.nasa.gov/missions/station/nasas-spacex-crew-9-to-conduct-space-station-research/)
 
 ### Highlights
 
@@ -269,7 +269,7 @@ article 4 days ago](https://www.nasa.gov/missions/station/nasas-spacex-crew-9-to
 
 ### Station Science Top News: September 13, 2024
 
-article 10 hours ago](https://www.nasa.gov/centers-and-facilities/johnson/station-science-top-news-september-13-2024/)[![NASA’s Artemis II Crew Uses Iceland Terrain for Lunar Training](https://science.nasa.gov/wp-content/uploads/2024/09/iceland-artemisiitraining-b.jpg)
+article 19 hours ago](https://www.nasa.gov/centers-and-facilities/johnson/station-science-top-news-september-13-2024/)[![NASA’s Artemis II Crew Uses Iceland Terrain for Lunar Training](https://science.nasa.gov/wp-content/uploads/2024/09/iceland-artemisiitraining-b.jpg)
 
 4 min read
 
@@ -281,7 +281,7 @@ article 4 days ago](https://science.nasa.gov/missions/artemis/nasas-artemis-ii-c
 
 ### NASA’s SpaceX Crew-9 to Conduct Space Station Research
 
-article 4 days ago](https://www.nasa.gov/missions/station/nasas-spacex-crew-9-to-conduct-space-station-research/)
+article 5 days ago](https://www.nasa.gov/missions/station/nasas-spacex-crew-9-to-conduct-space-station-research/)
 
 ### Highlights
 
@@ -291,19 +291,19 @@ article 4 days ago](https://www.nasa.gov/missions/station/nasas-spacex-crew-9-to
 
 ### Going Back-to-School with NASA Data
 
-article 11 hours ago](https://www.nasa.gov/learning-resources/for-educators/going-back-to-school-with-nasa-data/)[![Amendment 48: A.5 Carbon Cycle Science Final Text and Due Dates.](https://science.nasa.gov/wp-content/uploads/2023/06/co2-gmao-202102-lrg.jpg)
+article 20 hours ago](https://www.nasa.gov/learning-resources/for-educators/going-back-to-school-with-nasa-data/)[![Amendment 48: A.5 Carbon Cycle Science Final Text and Due Dates.](https://science.nasa.gov/wp-content/uploads/2023/06/co2-gmao-202102-lrg.jpg)
 
 2 min read
 
 ### Amendment 48: A.5 Carbon Cycle Science Final Text and Due Dates.
 
-article 12 hours ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-48-a-5-carbon-cycle-science-final-text-and-due-dates/)[![This map shows global temperature anomalies in 2024.](https://www.nasa.gov/wp-content/uploads/2024/09/gistemp-aug2024-map-no-text.png?w=1024)
+article 21 hours ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-48-a-5-carbon-cycle-science-final-text-and-due-dates/)[![This map shows global temperature anomalies in 2024.](https://www.nasa.gov/wp-content/uploads/2024/09/gistemp-aug2024-map-no-text.png?w=1024)
 
 5 min read
 
 ### NASA Finds Summer 2024 Hottest to Date
 
-article 5 days ago](https://www.nasa.gov/earth/nasa-finds-summer-2024-hottest-to-date/)
+article 6 days ago](https://www.nasa.gov/earth/nasa-finds-summer-2024-hottest-to-date/)
 
 ### Highlights
 
@@ -313,7 +313,7 @@ article 5 days ago](https://www.nasa.gov/earth/nasa-finds-summer-2024-hottest-to
 
 ### Solar Storms and Flares
 
-article 3 days ago](https://science.nasa.gov/sun/solar-storms-and-flares/)[![NASA’s Artemis II Crew Uses Iceland Terrain for Lunar Training](https://science.nasa.gov/wp-content/uploads/2024/09/iceland-artemisiitraining-b.jpg)
+article 4 days ago](https://science.nasa.gov/sun/solar-storms-and-flares/)[![NASA’s Artemis II Crew Uses Iceland Terrain for Lunar Training](https://science.nasa.gov/wp-content/uploads/2024/09/iceland-artemisiitraining-b.jpg)
 
 4 min read
 
@@ -357,41 +357,41 @@ article 1 week ago](https://science.nasa.gov/missions/hubble/nasas-hubble-chandr
 
 ### Amendment 48: A.5 Carbon Cycle Science Final Text and Due Dates.
 
-article 12 hours ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-48-a-5-carbon-cycle-science-final-text-and-due-dates/)[![Aura at 20 Years](https://science.nasa.gov/wp-content/uploads/2024/09/figure-1.jpg)
+article 21 hours ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-48-a-5-carbon-cycle-science-final-text-and-due-dates/)[![Aura at 20 Years](https://science.nasa.gov/wp-content/uploads/2024/09/figure-1.jpg)
 
 14 min read
 
 ### Aura at 20 Years
 
-article 12 hours ago](https://science.nasa.gov/science-research/earth-science/aura-at-20-years/)[![Solar Storms and Flares](https://science.nasa.gov/wp-content/uploads/2024/06/x-flare-may-8-2024-131-171-red-crop2.jpg)
+article 21 hours ago](https://science.nasa.gov/science-research/earth-science/aura-at-20-years/)[![Solar Storms and Flares](https://science.nasa.gov/wp-content/uploads/2024/06/x-flare-may-8-2024-131-171-red-crop2.jpg)
 
 2 min read
 
 ### Solar Storms and Flares
 
-article 3 days ago](https://science.nasa.gov/sun/solar-storms-and-flares/)
+article 4 days ago](https://science.nasa.gov/sun/solar-storms-and-flares/)
 
 ### Highlights
 
-[![An up-close view of ice that covers propeller blades inside the Icing Research Tunnel.](https://www.nasa.gov/wp-content/uploads/2024/08/grc-2023-c-02525.jpg?w=1024)
+[![Pilot A. Scott Crossfield has ignited all eight of the X-15’s engines to begin the powered flight.](https://www.nasa.gov/wp-content/uploads/2024/09/x-15-first-powered-flight-14-under-power-naa.jpeg?w=541)
+
+8 min read
+
+### 65 Years Ago: First Powered Flight of the X-15 Hypersonic Rocket Plane 
+
+article 1 hour ago](https://www.nasa.gov/history/65-years-ago-first-powered-flight-of-the-x-15-hypersonic-rocket-plane/)[![Graphic shows a possible future General Electric jet engine with exposed fan blades in front of a cut-away-interior view of its core mechanisms -- all part of NASA's HyTEC research project.](https://www.nasa.gov/wp-content/uploads/2024/05/hytec-illustration.png?w=1024)
+
+3 min read
+
+### NASA, GE Aerospace Advancing Hybrid-Electric Airliners with HyTEC
+
+article 4 hours ago](https://www.nasa.gov/aeronautics/nasa-ge-hybrid-electric-research-092024/)[![An up-close view of ice that covers propeller blades inside the Icing Research Tunnel.](https://www.nasa.gov/wp-content/uploads/2024/08/grc-2023-c-02525.jpg?w=1024)
 
 5 min read
 
 ### NASA Tunnel Generates Decades of Icy Aircraft Safety Data
 
-article 2 weeks ago](https://www.nasa.gov/centers-and-facilities/glenn/nasa-tunnel-generates-decades-of-icy-aircraft-safety-data/)[![A four-engine turboprop aircraft in a red and white livery takes off from a runway on its way to be modified into a hybrid electric aircraft. Other airplanes can be seen in the distance.](https://www.nasa.gov/wp-content/uploads/2024/08/lrc-2024-h1-p-epfd-0634-1.jpg?w=1024)
-
-4 min read
-
-### Research Plane Dons New Colors for NASA Hybrid Electric Flight Tests 
-
-article 2 weeks ago](https://www.nasa.gov/aeronautics/hybrid-electric-aircrafts-new-colors/)[![A white Gulfstream IV airplane flies to the left of the frame over a tan desert landscape below and blue mountain ranges in the back of the image. The plane’s tail features the NASA logo, and its wings have winglets. Visible in the lower right third of the image, directly behind the airplane’s wingtip is the Mojave Air and Space Port in Mojave, California. ](https://images-assets.nasa.gov/image/AFRC2024-0101-12/AFRC2024-0101-12~large.jpg?w=1920&h=1280&fit=clip&crop=faces%2Cfocalpoint)
-
-2 min read
-
-### NASA G-IV Plane Will Carry Next-Generation Science Instrument
-
-article 3 weeks ago](https://www.nasa.gov/centers-and-facilities/armstrong/nasa-g-iv-plane-will-carry-next-generation-science-instrument/)
+article 2 weeks ago](https://www.nasa.gov/centers-and-facilities/glenn/nasa-tunnel-generates-decades-of-icy-aircraft-safety-data/)
 
 ### Highlights
 
@@ -413,7 +413,7 @@ article 4 days ago](https://science.nasa.gov/researchers/solicitations/roses-202
 
 ### Printed Engines Propel the Next Industrial Revolution
 
-article 4 days ago](https://www.nasa.gov/technology/tech-transfer-spinoffs/printed-engines-propel-the-next-industrial-revolution/)
+article 5 days ago](https://www.nasa.gov/technology/tech-transfer-spinoffs/printed-engines-propel-the-next-industrial-revolution/)
 
 ### Featured
 
@@ -423,13 +423,13 @@ article 4 days ago](https://www.nasa.gov/technology/tech-transfer-spinoffs/print
 
 ### Going Back-to-School with NASA Data
 
-article 11 hours ago](https://www.nasa.gov/learning-resources/for-educators/going-back-to-school-with-nasa-data/)[![](https://www.nasa.gov/wp-content/uploads/2024/09/52573356957-8ecef477bd-k.jpg?w=1024)
+article 20 hours ago](https://www.nasa.gov/learning-resources/for-educators/going-back-to-school-with-nasa-data/)[![](https://www.nasa.gov/wp-content/uploads/2024/09/52573356957-8ecef477bd-k.jpg?w=1024)
 
 3 min read
 
 ### NASA Mobilizes Resource for HBCU Scholars, Highlighted at Conference
 
-article 15 hours ago](https://www.nasa.gov/learning-resources/nasa-mobilizes-resource-for-hbcu-scholars-highlighted-at-conference/)[![This image — developed by a team of artists from the Advanced Concepts Lab at NASA’s Langley Research Center — features astronauts performing science on the surface of the Moon and Mars. The team developed the image with a blend of digital 2D illustration and 3D techniques to mimic a retro science fiction painting.](https://www.nasa.gov/wp-content/uploads/2024/09/7-sciencetechnology-lores.png?w=1024)
+article 24 hours ago](https://www.nasa.gov/learning-resources/nasa-mobilizes-resource-for-hbcu-scholars-highlighted-at-conference/)[![This image — developed by a team of artists from the Advanced Concepts Lab at NASA’s Langley Research Center — features astronauts performing science on the surface of the Moon and Mars. The team developed the image with a blend of digital 2D illustration and 3D techniques to mimic a retro science fiction painting.](https://www.nasa.gov/wp-content/uploads/2024/09/7-sciencetechnology-lores.png?w=1024)
 
 1 min read
 
@@ -445,7 +445,7 @@ article 5 days ago](https://www.nasa.gov/directorates/stmd/prizes-challenges-cro
 
 ### Printed Engines Propel the Next Industrial Revolution
 
-article 4 days ago](https://www.nasa.gov/technology/tech-transfer-spinoffs/printed-engines-propel-the-next-industrial-revolution/)[![This image — developed by a team of artists from the Advanced Concepts Lab at NASA’s Langley Research Center — features astronauts performing science on the surface of the Moon and Mars. The team developed the image with a blend of digital 2D illustration and 3D techniques to mimic a retro science fiction painting.](https://www.nasa.gov/wp-content/uploads/2024/09/7-sciencetechnology-lores.png?w=1024)
+article 5 days ago](https://www.nasa.gov/technology/tech-transfer-spinoffs/printed-engines-propel-the-next-industrial-revolution/)[![This image — developed by a team of artists from the Advanced Concepts Lab at NASA’s Langley Research Center — features astronauts performing science on the surface of the Moon and Mars. The team developed the image with a blend of digital 2D illustration and 3D techniques to mimic a retro science fiction painting.](https://www.nasa.gov/wp-content/uploads/2024/09/7-sciencetechnology-lores.png?w=1024)
 
 1 min read
 
@@ -457,7 +457,7 @@ article 5 days ago](https://www.nasa.gov/directorates/stmd/prizes-challenges-cro
 
 ### 15 Years Ago: Japan launches HTV-1, its First Resupply Mission to the Space Station
 
-article 6 days ago](https://www.nasa.gov/history/15-years-ago-japan-launches-htv-1-its-first-resupply-mission-to-the-space-station/)
+article 7 days ago](https://www.nasa.gov/history/15-years-ago-japan-launches-htv-1-its-first-resupply-mission-to-the-space-station/)
 
 ### Highlights
 
