@@ -95,6 +95,9 @@
     * [Managed Application Security
         
         MANAGED DAST](https://www.rapid7.com/services/managed-services/managed-appsec/)
+    * [Continuous Red Teaming
+        
+        VECTOR COMMAND](https://www.rapid7.com/services/continuous-red-team-service/)
     * [Penetration Testing Services
         
         TEST YOUR DEFENSES](https://www.rapid7.com/services/security-consulting/penetration-testing-services/)
@@ -301,6 +304,9 @@
     * [Managed Application Security
         
         MANAGED DAST](https://www.rapid7.com/services/managed-services/managed-appsec/)
+    * [Continuous Red Teaming
+        
+        VECTOR COMMAND](https://www.rapid7.com/services/continuous-red-team-service/)
     * [Penetration Testing Services
         
         TEST YOUR DEFENSES](https://www.rapid7.com/services/security-consulting/penetration-testing-services/)
