@@ -46,7 +46,7 @@ Shopping List
             
         * [Fresh Sausage](https://www.aldi.us/products/fresh-meat-seafood/fresh-sausage/ "Shop for fresh sausage at ALDI. Discover a variety of quality fresh meat and seafood products at affordable prices when you shop at ALDI. Learn more.")
             
-        * [Fresh Seafood](https://www.aldi.us/products/fresh-meat-seafood/fresh-seafood/ "Shop for fresh seafood at ALDI. Discover a variety of quality fresh meat add seafood products at affordable prices when you shop at ALDI. Learn more.")
+        * [Fresh Seafood](https://www.aldi.us/products/fresh-meat-seafood/fresh-seafood/ "Shop for fresh seafood at ALDI. Discover a variety of quality fresh meat and seafood products at affordable prices when you shop at ALDI. Learn more.")
             
         
     * [Expand MenuCollapse Menu](https://www.aldi.us/products/deli/#main-nav)[Deli](https://www.aldi.us/products/deli/ "Explore Deli, dips & hummus, prepared meals & sides, take & bake pizzas, lunch meat and deli meat. Shop for quality deli products and save money on groceries at your local ALDI.")
