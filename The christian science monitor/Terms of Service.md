@@ -92,17 +92,17 @@ Behind the news are values that drive people and nations. Explore them here.
 
 Recent Stories
 
+[Generosity
+
+### Reviving the spirit of giving](https://www.csmonitor.com/Commentary/the-monitors-view/2024/0918/Reviving-the-spirit-of-giving "Reviving the spirit of giving")
+
+[Prosperity
+
+### How an overlooked county landed the new FBI headquarters and tech jobs](https://www.csmonitor.com/USA/2024/0918/prince-george-s-county-maryland-jobs-FBI "How an overlooked county landed the new FBI headquarters and tech jobs")
+
 [Fairness
 
 ### Special treatment? How judges are handling Trump ahead of election.](https://www.csmonitor.com/USA/Justice/2024/0917/judges-trump-criminal-lawsuits-election "Special treatment? How judges are handling Trump ahead of election.")
-
-[Integrity
-
-### Venezuela’s future hangs on facts](https://www.csmonitor.com/Commentary/the-monitors-view/2024/0917/Venezuela-s-future-hangs-on-facts "Venezuela’s future hangs on facts")
-
-[Compassion
-
-### Ukraine’s high ground in Russia](https://www.csmonitor.com/Commentary/the-monitors-view/2024/0916/Ukraine-s-high-ground-in-Russia "Ukraine’s high ground in Russia")
 
 [See all News & Values stories](https://www.csmonitor.com/values)
 
@@ -158,11 +158,11 @@ Regions
 
 Recent Stories
 
-[### Special treatment? How judges are handling Trump ahead of election.](https://www.csmonitor.com/USA/Justice/2024/0917/judges-trump-criminal-lawsuits-election "Special treatment? How judges are handling Trump ahead of election.")
+[### What the pager attack in Lebanon means for Israel-Hezbollah conflict](https://www.csmonitor.com/World/Middle-East/2024/0918/exploding-pagers-israel-hezbollah-lebanon-attack "What the pager attack in Lebanon means for Israel-Hezbollah conflict")
 
-[### The Olympics are over. Should the Eiffel Tower keep wearing the rings?](https://www.csmonitor.com/World/Europe/2024/0917/paris-eiffel-tower-olympic-games-anne-hidalgo "The Olympics are over. Should the Eiffel Tower keep wearing the rings?")
+[### Why Kashmir’s local election could usher in a new political era](https://www.csmonitor.com/World/Asia-South-Central/2024/0918/Kashmir-legislative-assembly-elections "Why Kashmir’s local election could usher in a new political era")
 
-[### A former prime minister facing military trial? Pakistan flirts with risky precedent.](https://www.csmonitor.com/World/Asia-South-Central/2024/0917/imran-khan-pakistan-military-court "A former prime minister facing military trial? Pakistan flirts with risky precedent.")
+[### How an overlooked county landed the new FBI headquarters and tech jobs](https://www.csmonitor.com/USA/2024/0918/prince-george-s-county-maryland-jobs-FBI "How an overlooked county landed the new FBI headquarters and tech jobs")
 
 * * *
 
