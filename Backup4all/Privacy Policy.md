@@ -301,15 +301,15 @@ We develop software that matters since 1999. These are our products: Backup4all/
 * [Forum](https://forum.backup4all.com/)
 * [Blog](https://blog.backup4all.com/)
 
-* [Using Backup4all - FAQ 9](https://www.backup4all.com/using-backup4all-faq-9-kb.html)  
+* [How to back up data files from Tiscali using ...](https://www.backup4all.com/how-to-back-up-data-files-from-tiscali-using-backup4all-kb.html)  
     
-* [How to create an incremental backup](https://www.backup4all.com/how-to-create-an-incremental-backup-kb.html)  
-    
-* [How to backup your data to HubiC](https://www.backup4all.com/how-to-backup-your-data-to-hubic-kb.html)  
+* [How to back up data files from vCloud Air usi ...](https://www.backup4all.com/how-to-back-up-data-files-from-vcloud-air-using-backup4all-kb.html)  
     
 * [How to back up data files from dinCloud using ...](https://www.backup4all.com/how-to-back-up-data-files-from-dincloud-using-backup4all-kb.html)  
     
-* [How to back up data files from Zettagrid usin ...](https://www.backup4all.com/how-to-back-up-data-files-from-zettagrid-using-backup4all-kb.html)  
+* [How to create a full backup](https://www.backup4all.com/how-to-create-a-full-backup-kb.html)  
+    
+* [How to create a continuous backup](https://www.backup4all.com/how-to-create-a-continuous-backup-kb.html)  
     
 
 Choose language:
