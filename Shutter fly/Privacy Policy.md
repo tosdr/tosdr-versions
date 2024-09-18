@@ -29,8 +29,8 @@ Privacy Notice
 
 SHUTTERFLY ONLINE PRIVACY AND SECURITY
 
-Last Modified: September 6, 2024
---------------------------------
+Last Modified: September 18, 2024
+---------------------------------
 
 At Shutterfly, our purpose is to help our customers capture, preserve, and share life’s important moments through professional and personal photography, and personalized products. We are equally committed to respecting your privacy.
 
@@ -194,7 +194,7 @@ The laws of California, Colorado, Connecticut, Montana, Oregon, Texas, Utah or V
 * The right to update or correct any personal information which is out of date or incorrect; and
 * The right to be free from discrimination based on your exercise of your privacy rights.
 
-To exercise your rights pursuant to this Supplemental Notice with respect to Shutterfly, please use the [**Shutterfly data privacy tool for customers**](https://www.shutterfly.com/ccpa-form/?view=requestInfoForm), the [**Shutterfly data privacy tool with no sign-in**](https://www.shutterfly.com/ccpa-form/), or call (844) 535-3299. **Note that use of our online data privacy tools will resolve your requests more quickly than phone requests.**
+To exercise your rights pursuant to this Supplemental Notice with respect to Shutterfly, please use the [**Shutterfly data privacy tool for customers**](https://www.shutterfly.com/ccpa-form/?view=requestInfoForm), the [**Shutterfly data privacy tool with no sign-in**](https://www.shutterfly.com/ccpa-form/), or call (866) 793-7793. **Note that use of our online data privacy tools will resolve your requests more quickly than phone requests.**
 
 We cannot respond to your request to access or delete information unless we are able to both verify your identity or authority to make the request and confirm the personal information relates to you and/or your household. If you have an account on any of our Sites and Apps, we will verify your identity by having you log in to your account. If you do not have an account on our Sites and Apps, we will attempt to verify your request by asking you to provide identifying information that we will match to information in our files. We will only use information you provide in your request for the purpose of verifying your identity or authority to make the request. You can also designate an authorized agent to make a request on your behalf. Your agent will need to provide a Power of Attorney authorizing the agent to act on your behalf, or will need to complete the same verification procedures that would be required for a request submitted by you directly, and provide information that allows us to verify your authorization. If you would like to appeal a decision related to a request to exercise your rights under this Supplemental Notice, please contact us at the phone numbers, online forms, or email address listed above.
 
