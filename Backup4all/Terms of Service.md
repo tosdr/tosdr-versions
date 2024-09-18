@@ -139,15 +139,15 @@ We develop software that matters since 1999. These are our products: Backup4all/
 * [Forum](https://forum.backup4all.com/)
 * [Blog](https://blog.backup4all.com/)
 
-* [Using Backup4all - FAQ 10](https://www.backup4all.com/using-backup4all-faq-10-kb.html)  
+* [How to backup your data to Wasabi](https://www.backup4all.com/how-to-backup-your-data-to-wasabi-kb.html)  
     
-* [Back up your smartphone or tablet using Backu ...](https://www.backup4all.com/back-up-your-smartphone-tablet-using-backup4all-kb.html)  
+* [How to restore a backup job created with a Ba ...](https://www.backup4all.com/how-to-restore-a-backup-job-created-with-a-backup4all-plugin-kb.html)  
     
-* [How to back up data files from NiftyClouds us ...](https://www.backup4all.com/how-to-back-up-data-files-from-niftyclouds-using-backup4all-kb.html)  
+* [What is a Mirror Backup?](https://www.backup4all.com/mirror-backup-kb.html)  
     
-* [Why the mirror files are not deleted from des ...](https://www.backup4all.com/why-the-mirror-files-are-not-deleted-from-destination-kb.html)  
+* [How to backup your data to HiDrive](https://www.backup4all.com/how-to-backup-your-data-to-hidrive-kb.html)  
     
-* [How to upgrade from FBackup to Backup4all](https://www.backup4all.com/how-to-upgrade-from-fbackup-to-backup4all-kb.html)  
+* [How to backup your data to Hitachi](https://www.backup4all.com/how-to-backup-your-data-to-hitachi-kb.html)  
     
 
 Choose language:
