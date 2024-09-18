@@ -128,39 +128,39 @@ Advertisement
     The Beginning and the End of the Universe
     
     Episode 1: The BeginingEmbarking on a cosmic journey, Professor Jim Al-Khalili transports us through the corridors of time to confront science's most profound inquiry: the genesis of the univers...](https://documentaryheaven.com/the-beginning-and-the-end-of-the-universe/ "The Beginning and the End of the Universe")
-* [![The War On Drugs: The Prison Industrial Complex](/wp-content/thumbnails/958-100x70.gif?x53432)
+* [![These Streets Are Watching](/wp-content/thumbnails/1269-100x70.jpg?x53432)
     
-    The War On Drugs: The Prison Industrial Complex
+    These Streets Are Watching
     
-    The war on drugs has been going on for more than three decades. Today, nearly 500,000 Americans are imprisoned on drug charges. In 1980 the number was 50,000. Last year $40 billion in taxpayer dollars...](https://documentaryheaven.com/the-war-on-drugs-the-prison-industrial-complex/ "The War On Drugs: The Prison Industrial Complex")
+    However, if nothing else, cop watch can and will and does inform citizens of their lefts as citizens. Informs citizens of what is proper police conduct and what is improper police conduct. Informs cit...](https://documentaryheaven.com/these-streets-are-watching/ "These Streets Are Watching")
 
 ###### Throwback Documentaries
 
-* [![Synth Britannia](/wp-content/thumbnails/3383-100x70.jpg?x53432)
+* [![The Riddle of Antimatter](/wp-content/thumbnails/6210-100x70.jpg?x53432)
     
-    Synth Britannia
+    The Riddle of Antimatter
     
-    Documentary following a generation of post-punk musicians who took the synthesiser from the experimental fringes to the centre of the pop stage.In the late 1970s, small pockets of electronic artists](https://documentaryheaven.com/synth-britannia/ "Synth Britannia")
-* [![Robbo vs Banksy: Graffiti Wars](/wp-content/thumbnails/14649-100x70.jpg?x53432)
+    Explore one of the deepest mysteries about the origin of our universe. According to standard theory, the early moments of the universe were marked by the explosive contact between subatomic particles](https://documentaryheaven.com/the-riddle-of-antimatter/ "The Riddle of Antimatter")
+* [![Zombies](/wp-content/thumbnails/12651-100x70.jpg?x53432)
     
-    Robbo vs Banksy: Graffiti Wars
+    Zombies
     
-    The man is described by some as the most important figure in counter culture art and the chances are you have never heard of him. Most of his work no longer exists and was painted illegally in the fir](https://documentaryheaven.com/robbo-vs-banksy-graffiti-wars/ "Robbo vs Banksy: Graffiti Wars")
-* [![Story of Korean War in Colour](/wp-content/thumbnails/7088-100x70.jpg?x53432)
+    The trouble with zombies is that they keep coming back, whether you shoot or maim them it doesn't really matter, unless you destroy the head they just keep coming. The living dead seem to saturate cin](https://documentaryheaven.com/zombies/ "Zombies")
+* [![Murder in the Sky Flight MH17](/wp-content/thumbnails/9660-100x70.jpg?x53432)
     
-    Story of Korean War in Colour
+    Murder in the Sky Flight MH17
     
-    June 25th 2010, marked the 60th anniversary of the outbreak of a merciless conflict that brought the world to the brink of nuclear armageddon and scarred a nation so deeply that it is still bitterly d](https://documentaryheaven.com/story-of-korean-war-in-colour/ "Story of Korean War in Colour")
-* [![Netanyahu At War](/wp-content/thumbnails/10654-100x70.jpg?x53432)
+    A passenger plane explodes in the sky, smoking charred metal and bodies strewn across the countryside, soft toys, suitcases and passports litter the ground. This details the crash site of Ma](https://documentaryheaven.com/murder-sky-flight-mh17/ "Murder in the Sky Flight MH17")
+* [![Ice Hotel](/wp-content/thumbnails/890-100x70.jpg?x53432)
     
-    Netanyahu At War
+    Ice Hotel
     
-    The United States and Israel have historic ties which run quite deep but in this two hour PBS Frontline special "Netanyahu at War" we examine Benjamin Netanyahu, the Israeli Prime Ministers rise](https://documentaryheaven.com/netanyahu-at-war/ "Netanyahu At War")
-* [![The Weather Underground (2003)](/wp-content/thumbnails/1523-100x70.jpg?x53432)
+    The Ice Hotel of Sweden is the biggest hotel in the world that is built entirely by ice and snow. This hotel is the brainchild of two close friends who are specialized in Ice architecture, Arne Bergh](https://documentaryheaven.com/ice-hotel/ "Ice Hotel")
+* [![A History of Syria](/wp-content/thumbnails/7605-100x70.jpg?x53432)
     
-    The Weather Underground (2003)
+    A History of Syria
     
-    This film tells the unbelievable story of the weathermen the group of 70s radicals who fueled by outrage over the vietnam war & racism in america went underground throughout much of the decade to](https://documentaryheaven.com/the-weather-underground-2003/ "The Weather Underground (2003)")
+    Robin Barnwell, who directed and produced 'A History of Syria with Dan Snow', explains the challenges of filiming amid the conflict, and describes the spirit of the Syrian people he met.The Syrian A](https://documentaryheaven.com/history-of-syria/ "A History of Syria")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
