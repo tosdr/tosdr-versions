@@ -475,13 +475,13 @@ Revised June 1, 2022
 
   [![Yamaha Motor said it would not comment on an alleged knife attack on its president as it is a private matter and the investigation is ongoing.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/17/422115.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Yamaha Motor said it would not comment on an alleged knife attack on its president as it is a private matter and the investigation is ongoing.")](https://www.japantimes.co.jp/news/2024/09/17/japan/crime-legal/yamaha-motor-pres-knife-attack/ "Yamaha Motor president slashed with knife by daughter")
 
+[Japan set to hold rates steady as yen rallies and LDP candidates stump](https://www.japantimes.co.jp/business/2024/09/17/economy/boj-preview-september-2024/ "Japan set to hold rates steady as yen rallies and LDP candidates stump")
+
+  [![The Bank of Japan is holding its policy board meeting this week.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/17/422217.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "The Bank of Japan is holding its policy board meeting this week.")](https://www.japantimes.co.jp/business/2024/09/17/economy/boj-preview-september-2024/ "Japan set to hold rates steady as yen rallies and LDP candidates stump")
+
 [How Intel lost the Sony PlayStation business](https://www.japantimes.co.jp/business/2024/09/17/tech/intel-lost-sony-playstation-contract/ "How Intel lost the Sony PlayStation business")
 
   [![Intel in 2022 lost out on a contract to design and fabricate the chip for Sony’s next-generation PlayStation 6.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/17/422101.JPG?v=3.1&w=400&q=100&f=jpg&t=1.2 "Intel in 2022 lost out on a contract to design and fabricate the chip for Sony’s next-generation PlayStation 6.")](https://www.japantimes.co.jp/business/2024/09/17/tech/intel-lost-sony-playstation-contract/ "How Intel lost the Sony PlayStation business")
-
-[The real-world inspirations behind 'Shogun' are a shinkansen away](https://www.japantimes.co.jp/life/2024/09/17/travel/shogun-osaka-castle-travel-historical-sites/ "The real-world inspirations behind 'Shogun' are a shinkansen away")
-
-  [![The first season of 'Shogun' wraps up just prior to the 1600 Battle of Sekigahara, where Tokugawa Ieyasu (Yoshii Toranaga in the TV show) faced off against Ishida Mitsunari (Ishido Kazunari) to determine the new ruler of Japan.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/16/421573.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "The first season of 'Shogun' wraps up just prior to the 1600 Battle of Sekigahara, where Tokugawa Ieyasu (Yoshii Toranaga in the TV show) faced off against Ishida Mitsunari (Ishido Kazunari) to determine the new ruler of Japan.")](https://www.japantimes.co.jp/life/2024/09/17/travel/shogun-osaka-castle-travel-historical-sites/ "The real-world inspirations behind 'Shogun' are a shinkansen away")
 
 [‘Shogun’ and the painstaking art of ‘getting it right’](https://www.japantimes.co.jp/culture/2024/09/16/tv-streaming/shogun-emmys-authentic-portrayal/ "‘Shogun’ and the painstaking art of ‘getting it right’")
 
@@ -564,23 +564,23 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
-[New high-profile chip plants driving up nearby land prices across Japan](https://www.japantimes.co.jp/business/2024/09/18/companies/chip-plants-land-prices/ "New high-profile chip plants driving up nearby land prices across Japan")
-
-45 mins ago
-
-[Russia steps up disinformation ops against Harris campaign: Microsoft](https://www.japantimes.co.jp/news/2024/09/18/world/politics/russia-disinformation-harris-microsoft/ "Russia steps up disinformation ops against Harris campaign: Microsoft")
-
-47 mins ago
-
-[University of Tokyo students submit petition against tuition hike](https://www.japantimes.co.jp/news/2024/09/18/japan/society/university-of-tokyo-tuition-hike/ "University of Tokyo students submit petition against tuition hike")
+[Puberulic acid confirmed as source of _beni kōji_ health issues](https://www.japantimes.co.jp/news/2024/09/18/japan/science-health/beni-koji-puberulic-acid-to-blame/ "Puberulic acid confirmed as source of beni kōji health issues")
 
 1 hours ago
 
-[U.S. probes uranium imports from China amid concerns over Russian ban](https://www.japantimes.co.jp/news/2024/09/18/asia-pacific/politics/us-uranium-china-russian-ban/ "U.S. probes uranium imports from China amid concerns over Russian ban")
+[Ishii to head Komeito in first leadership change in 15 years](https://www.japantimes.co.jp/news/2024/09/18/japan/politics/komeito-new-head/ "Ishii to head Komeito in first leadership change in 15 years")
 
 1 hours ago
 
-[Sean 'Diddy' Combs pleads not guilty to sex trafficking; judge denies bail](https://www.japantimes.co.jp/news/2024/09/18/world/crime-legal/diddy-combs-sex-trafficking-bail-denied/ "Sean 'Diddy' Combs pleads not guilty to sex trafficking; judge denies bail")
+[LDP leader candidates split on separate surnames for married couples](https://www.japantimes.co.jp/news/2024/09/18/japan/politics/ldp-separate-surnames/ "LDP leader candidates split on separate surnames for married couples")
+
+1 hours ago
+
+[How Asia is bracing for Fed’s imminent shift to rate cuts](https://www.japantimes.co.jp/business/2024/09/18/economy/asia-fed-shift-rate-cuts/ "How Asia is bracing for Fed’s imminent shift to rate cuts")
+
+1 hours ago
+
+[Chinese carrier sails between Japanese islands near Taiwan for first time](https://www.japantimes.co.jp/news/2024/09/18/japan/china-aircraft-carrier-japan-yonaguni/ "Chinese carrier sails between Japanese islands near Taiwan for first time")
 
 1 hours ago
 
