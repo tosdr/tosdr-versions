@@ -1751,6 +1751,8 @@ What do top resumes look like? Check out these expertly-written samples:
 
 [GCP](https://cvcompiler.com/gcp-resume-examples)
 
+[Product Analyst](https://cvcompiler.com/product-analyst-resume-examples)
+
 ![Upload resume illustration](uploads-pre-acq/img/upload-illustration.svg)
 
 ### Upload  
