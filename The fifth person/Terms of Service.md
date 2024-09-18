@@ -132,6 +132,8 @@ Quick Guides
 
 * [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
+    ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
     ![](https://fifthperson.com/wp-content/uploads/2024/09/chart-220x150.jpg)](https://fifthperson.com/net-profit-vs-free-cash-flow/)
     
     [Net profit vs. free cash flow: Which metric matters most?](https://fifthperson.com/net-profit-vs-free-cash-flow/)
@@ -148,6 +150,8 @@ Quick Guides
     
 * [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
+    ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
     ![](https://fifthperson.com/wp-content/uploads/2022/11/USD-220x150.jpg)](https://fifthperson.com/best-places-to-stash-us-dollars/)
     
     [4 best places to stash your U.S. dollars](https://fifthperson.com/best-places-to-stash-us-dollars/)
@@ -156,6 +160,8 @@ Quick Guides
     
 * [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
+    ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
     ![](https://fifthperson.com/wp-content/uploads/2024/09/nvidia-220x150.jpg)](https://fifthperson.com/nvidia-q2-2025-earnings-call/)
     
     [Nvidia Q2 2025 earnings call: AI and data centers continue to push growth](https://fifthperson.com/nvidia-q2-2025-earnings-call/)
@@ -163,6 +169,8 @@ Quick Guides
     2 weeks ago
     
 * [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     ![](https://fifthperson.com/wp-content/uploads/2024/09/trust-220x150.jpg)](https://fifthperson.com/trusts-a-powerful-financial-planning-tool-for-any-net-worth/)
     
@@ -180,6 +188,8 @@ Quick Guides
     
 * [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
+    ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
     ![](https://fifthperson.com/wp-content/uploads/2020/09/microsoft-corp-220x150.jpg)](https://fifthperson.com/microsoft-q4-2024-earnings/)
     
     [Microsoft Q4 2024 earnings fuelled by AI and cloud growth](https://fifthperson.com/microsoft-q4-2024-earnings/)
@@ -187,6 +197,8 @@ Quick Guides
     3 weeks ago
     
 * [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     ![](https://fifthperson.com/wp-content/uploads/2019/09/amazon.jpg)](https://fifthperson.com/amazon-q2-2024-earnings-call/)
     
@@ -196,11 +208,13 @@ Quick Guides
     
 * [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
+    ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
     ![](https://fifthperson.com/wp-content/uploads/2019/08/vivocity.jpg)](https://fifthperson.com/2024-mapletree-pan-asia-commercial-trust-agm/)
     
     [8 things I learned from the 2024 Mapletree Pan Asia Commercial Trust AGM](https://fifthperson.com/2024-mapletree-pan-asia-commercial-trust-agm/)
     
-    4 weeks ago
+    August 19, 2024
     
 * [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
@@ -213,59 +227,33 @@ Quick Guides
 
 * [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
-    ![](https://fifthperson.com/wp-content/uploads/2016/12/SGX.jpg)](https://fifthperson.com/how-to-open-a-brokerage-account-in-singapore/)
+    ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
-    [How to open a brokerage account in Singapore and choose the right broker (updated 2024)](https://fifthperson.com/how-to-open-a-brokerage-account-in-singapore/)
+    ![](https://fifthperson.com/wp-content/uploads/2019/08/vivocity.jpg)](https://fifthperson.com/2024-mapletree-pan-asia-commercial-trust-agm/)
     
-    January 2, 2024
+    [8 things I learned from the 2024 Mapletree Pan Asia Commercial Trust AGM](https://fifthperson.com/2024-mapletree-pan-asia-commercial-trust-agm/)
     
-* [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    ![](https://fifthperson.com/wp-content/uploads/2018/01/kuala-lumpur-1-220x150.jpg)](https://fifthperson.com/buy-shares-malaysia-open-malaysian-brokerage-account/)
-    
-    [How to buy shares in Malaysia and open a Malaysian brokerage account (Updated 2024)](https://fifthperson.com/buy-shares-malaysia-open-malaysian-brokerage-account/)
-    
-    February 2, 2024
+    August 19, 2024
     
 * [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
-    ![](https://fifthperson.com/wp-content/uploads/2019/10/usa.jpg)](https://fifthperson.com/how-to-buy-us-shares-in-singapore/)
+    ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
-    [How to buy U.S. shares in Singapore and open a U.S. brokerage account (updated 2024)](https://fifthperson.com/how-to-buy-us-shares-in-singapore/)
+    ![](https://fifthperson.com/wp-content/uploads/2022/11/USD-220x150.jpg)](https://fifthperson.com/best-places-to-stash-us-dollars/)
     
-    January 8, 2024
+    [4 best places to stash your U.S. dollars](https://fifthperson.com/best-places-to-stash-us-dollars/)
     
-* [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    ![](https://fifthperson.com/wp-content/uploads/2017/06/save.jpg)](https://fifthperson.com/saving-just-11-day-can-make-millionaire/)
-    
-    [How saving just $11 a day can make you a millionaire](https://fifthperson.com/saving-just-11-day-can-make-millionaire/)
-    
-    June 23, 2017
+    1 week ago
     
 * [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
-    ![](https://fifthperson.com/wp-content/uploads/2020/04/bull-bear.jpg)](https://fifthperson.com/invest-10000-covid-19-crash/)
+    ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
-    [Here’s how I’d invest $10,000 during this COVID-19 crash](https://fifthperson.com/invest-10000-covid-19-crash/)
+    ![](https://fifthperson.com/wp-content/uploads/2024/09/trust-220x150.jpg)](https://fifthperson.com/trusts-a-powerful-financial-planning-tool-for-any-net-worth/)
     
-    April 9, 2020
+    [Trusts: A powerful financial planning tool for any net worth](https://fifthperson.com/trusts-a-powerful-financial-planning-tool-for-any-net-worth/)
     
-* [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    ![](https://fifthperson.com/wp-content/uploads/2017/09/singapore.jpg)](https://fifthperson.com/how-to-start-investing-in-singapore-a-practical-guide-for-beginners/)
-    
-    [How to start investing in Singapore: A practical guide for beginners (updated 2024)](https://fifthperson.com/how-to-start-investing-in-singapore-a-practical-guide-for-beginners/)
-    
-    January 14, 2024
-    
-* [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    ![](https://fifthperson.com/wp-content/uploads/2022/04/cimb-clicks-220x150.jpg)](https://fifthperson.com/open-singapore-bank-account-malaysians/)
-    
-    [How to open a Singapore bank account for Malaysians](https://fifthperson.com/open-singapore-bank-account-malaysians/)
-    
-    April 8, 2022
+    2 weeks ago
     
 * [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
@@ -277,19 +265,59 @@ Quick Guides
     
 * [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
-    ![](https://fifthperson.com/wp-content/uploads/2017/04/meeting.jpg)](https://fifthperson.com/5-reasons-why-you-should-attend-annual-general-meetings/)
+    ![](https://fifthperson.com/wp-content/uploads/2022/09/starbucks-220x150.jpg)](https://fifthperson.com/starbucks-operates-like-a-bank/)
     
-    [5 reasons why you should attend annual general meetings if you’re an investor](https://fifthperson.com/5-reasons-why-you-should-attend-annual-general-meetings/)
+    [How Starbucks secretly operates like a bank](https://fifthperson.com/starbucks-operates-like-a-bank/)
     
-    April 23, 2019
+    September 13, 2022
     
 * [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
-    ![](https://fifthperson.com/wp-content/uploads/2019/02/Singapore-1.jpg)](https://fifthperson.com/top-10-singapore-reits-that-made-you-money-if-you-invested-from-their-ipo/)
+    ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
-    [Top 10 Singapore REITs that made you money if you invested from their IPOs (updated 2020)](https://fifthperson.com/top-10-singapore-reits-that-made-you-money-if-you-invested-from-their-ipo/)
+    ![](https://fifthperson.com/wp-content/uploads/2019/09/amazon.jpg)](https://fifthperson.com/amazon-q2-2024-earnings-call/)
     
-    February 18, 2020
+    [Amazon Q2 2024 earnings call: Strong performance across all segments](https://fifthperson.com/amazon-q2-2024-earnings-call/)
+    
+    4 weeks ago
+    
+* [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    ![](https://fifthperson.com/wp-content/uploads/2024/09/chart-220x150.jpg)](https://fifthperson.com/net-profit-vs-free-cash-flow/)
+    
+    [Net profit vs. free cash flow: Which metric matters most?](https://fifthperson.com/net-profit-vs-free-cash-flow/)
+    
+    1 day ago
+    
+* [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    ![](https://fifthperson.com/wp-content/uploads/2024/09/nvidia-220x150.jpg)](https://fifthperson.com/nvidia-q2-2025-earnings-call/)
+    
+    [Nvidia Q2 2025 earnings call: AI and data centers continue to push growth](https://fifthperson.com/nvidia-q2-2025-earnings-call/)
+    
+    2 weeks ago
+    
+* [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    ![](https://fifthperson.com/wp-content/uploads/2020/09/microsoft-corp-220x150.jpg)](https://fifthperson.com/microsoft-q4-2024-earnings/)
+    
+    [Microsoft Q4 2024 earnings fuelled by AI and cloud growth](https://fifthperson.com/microsoft-q4-2024-earnings/)
+    
+    3 weeks ago
+    
+* [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    ![](https://fifthperson.com/wp-content/uploads/2023/02/coca-cola-220x150.jpg)](https://fifthperson.com/3-companies-own-us-soft-drink-market/)
+    
+    [These 3 companies own the U.S. soft drink market](https://fifthperson.com/3-companies-own-us-soft-drink-market/)
+    
+    February 3, 2023
     
 
 * [![Photo of DANIEL](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
