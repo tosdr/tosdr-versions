@@ -56,13 +56,13 @@ Featured stories
 
 [![ ](https://images.everydayhealth.com/react-component-images/image-src-placeholder-16x9288625876.png)
 
+![ ](https://images.everydayhealth.com/images/news/fda-approves-lillys-ebglyss-12-older-atopic-dermatitis-1440x810.jpg)
+
+Ebglyss, a New Biologic Treatment for Eczema, Gets FDA Approval](https://www.everydayhealth.com/skin-conditions/ebglyss-new-biologic-treatment-for-eczema-fda-approval/)[![ ](https://images.everydayhealth.com/react-component-images/image-src-placeholder-16x9288625876.png)
+
 ![ ](https://images.everydayhealth.com/images/news/vyvanse-supply-increase-adhd-med-shortage-1440x810.jpg)
 
 U.S. Permits Increase in Vyvanse Production Amid ADHD Drug Shortage](https://www.everydayhealth.com/mental-health-conditions/us-permits-increased-vyvanse-production-amid-adhd-drug-shortage/)[![ ](https://images.everydayhealth.com/react-component-images/image-src-placeholder-16x9288625876.png)
-
-![ ](https://images.everydayhealth.com/images/news/obesity-drug-prevents-covid-deaths-wegovy-study-1440x810.jpg)
-
-Wegovy May Reduce the Risk of Death From COVID-19, Study Suggests](https://www.everydayhealth.com/coronavirus/wegovy-may-reduce-the-risk-of-dying-from-covid/)[![ ](https://images.everydayhealth.com/react-component-images/image-src-placeholder-16x9288625876.png)
 
 ![ ](https://images.everydayhealth.com/images/news/fda-approves-updated-covid-vaccines-fall-2024-1440x810.jpg)
 
