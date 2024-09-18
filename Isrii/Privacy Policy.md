@@ -73,6 +73,11 @@ McLean, VA 22101 USA
 
 [Privacy Policy](https://isrii.org/privacy-policy)
 
+### Follow Us
+
+* [X](https://x.com/theisrii)
+* [Facebook](https://www.facebook.com/TheISRII/)
+
 Copyright © 2024 — International Society for Research on Internet Interventions (ISRII)
 
 [Scroll To Top](#)
