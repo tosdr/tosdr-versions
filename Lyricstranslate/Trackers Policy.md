@@ -137,67 +137,69 @@ Russia is waging a disgraceful war on Ukraine.     Stand With Ukraine!
 
 Site activity
 
-[![robinofsherwood17021981](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1199762-1607435630.jpg)](https://lyricstranslate.com/en/translator/robinofsherwood17021981 "robinofsherwood17021981")
-
-New translation
-
-[Hasse Andersson - Änglahund](https://lyricstranslate.com/en/hasse-andersson-anglahund-german)
-
-Swedish → German
-
-[![PyrotechnicMutt](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1548990-1664577677.png)](https://lyricstranslate.com/en/translator/pyrotechnicmutt "PyrotechnicMutt")
-
-New translation
-
-[The Kira Justice - Camisa De Força (O Monstro Em Mim)](https://lyricstranslate.com/en/kira-justice-camisa-de-forca-o-monstr-english)
-
-Portuguese → English
-
-[![PyrotechnicMutt](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1548990-1664577677.png)](https://lyricstranslate.com/en/translator/pyrotechnicmutt "PyrotechnicMutt")
-
-New translation
-
-[The Kira Justice - Combustível Do Meu Ódio](https://lyricstranslate.com/en/kira-justice-combustivel-do-meu-odio-english)
-
-Portuguese → English
-
-[![Lukas Skully](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1388200-1554974371.jpg)](https://lyricstranslate.com/en/translator/lukas-skully "Lukas Skully")
-
-New translation
-
-[Megadeth - 1000 Times Goodbye](https://lyricstranslate.com/en/megadeth-1000-times-goodbye-slovak)
-
-English → Slovak
-
-[![PyrotechnicMutt](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1548990-1664577677.png)](https://lyricstranslate.com/en/translator/pyrotechnicmutt "PyrotechnicMutt")
-
-New translation
-
-[The Kira Justice - Portões de Hades](https://lyricstranslate.com/en/kira-justice-portoes-de-hades-english)
-
-Portuguese → English
-
-[![blazestarr](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1607043-1716103007.png)](https://lyricstranslate.com/en/translator/blazestarr "blazestarr")
-
-New comment
-
-https://tr.wikipedia.org/wiki/Ayşe\_karşılaması ...  [more](https://lyricstranslate.com/en/comment/1165389#comment-1165389)
-
-[![владелец](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1447202-1680603655.jpg)](https://lyricstranslate.com/en/translator/%D0%B2%D0%BB%D0%B0%D0%B4%D0%B5%D0%BB%D0%B5%D1%86 "владелец")
+[![SLOR](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1456124-1713023678.jpg)](https://lyricstranslate.com/en/translator/slor "SLOR")
 
 New song
 
-[The McGuire Sisters - Sincerely](https://lyricstranslate.com/en/mcguire-sisters-sincerely-lyrics)
+[Legend Choi - JUST DO IT](https://lyricstranslate.com/en/legend-choi-just-do-it-lyrics)
 
 English
 
-[![Elian E.](https://lyricstranslate.com/files/styles/micro/public/avatar-default-u.png)](https://lyricstranslate.com/en/translator/elian-e "Elian E.")
+[![NyQuil](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1314993-1558167393.jpg)](https://lyricstranslate.com/en/translator/nyquil "NyQuil")
+
+New song
+
+[Johann Strauss (Sohn) - Wiener Blut, Akt I: Duett von Graf und Joseph (Du süßes Zuckertäuberl mein).](https://lyricstranslate.com/en/johann-strauss-sohn-wiener-blut-akt-i-duett-lyrics)
+
+German
+
+[![Thomas222](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1310118-1706205100.jpg)](https://lyricstranslate.com/en/translator/thomas222 "Thomas222")
+
+New translation
+
+[Chava Alberstein - שיר ליל שבת (Shir Leil Shabat)](https://lyricstranslate.com/en/chava-alberstein-shir-leil-shabat-transliteration)
+
+Hebrew → Transliteration
+
+[![SLOR](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1456124-1713023678.jpg)](https://lyricstranslate.com/en/translator/slor "SLOR")
+
+New song
+
+[Love of Nirvana (OST) - 月落谣](https://lyricstranslate.com/en/love-nirvana-ost-yue-luo-yao-lyrics)
+
+Chinese
+
+[![Tvoya Lyubov](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1595505-1697103183.jpg)](https://lyricstranslate.com/en/translator/tvoya-lyubov "Tvoya Lyubov")
+
+New song
+
+[Akmal' - Бесишь](https://lyricstranslate.com/en/akmal-besish-lyrics)
+
+Russian
+
+[![Maro Jackson](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1441136-1720683543.jpg)](https://lyricstranslate.com/en/translator/maro-jackson "Maro Jackson")
+
+New song
+
+[Zedd - Dream Brother](https://lyricstranslate.com/en/zedd-dream-brother-lyrics)
+
+English
+
+[![maluca](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1206376-1574120991.gif)](https://lyricstranslate.com/en/translator/maluca "maluca")
 
 New request
 
-[Eddy Mitchell - M'man](https://lyricstranslate.com/en/request/mman-0)
+[Paulina Braun - Curik A Hejm](https://lyricstranslate.com/en/request/curik-hejm)
 
-French → German
+Polish → English
+
+[![Άγγελος Ζαχαρίου](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1480425-1671177249.png)](https://lyricstranslate.com/en/translator/%CE%AC%CE%B3%CE%B3%CE%B5%CE%BB%CE%BF%CF%82-%CE%B6%CE%B1%CF%87%CE%B1%CF%81%CE%AF%CE%BF%CF%85 "Άγγελος Ζαχαρίου")
+
+New translation
+
+[SICARIO - Isos](https://lyricstranslate.com/en/sicario-isos-french)
+
+Greek → French
 
 [LyricsTranslate.com](https://lyricstranslate.com/) – the world's largest repository of lyrics translations
 
