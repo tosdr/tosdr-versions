@@ -205,25 +205,27 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [That Insidious Beast: Field Dominance](https://www.somethingawful.com/news/insidious-beast-london/1/)
-* [No Limit Album Covers](https://www.somethingawful.com/photoshop-phriday/no-limit-albums/1/)
-* [A Very Star Wars Valentines](https://www.somethingawful.com/photoshop-phriday/very-star-wars/1/)
-* [Vampiyaz](https://www.somethingawful.com/movie-reviews/vampiyaz/1/)
+* [What's That CSI Doing This Time?](https://www.somethingawful.com/comedy-goldmine/csi-mspaint/1/)
+* [Sci-Fi vs. Fantasy](https://www.somethingawful.com/photoshop-phriday/scifi-vs-fantasy/1/)
+* [Contest Results: The SA T-Shirt Contest](https://www.somethingawful.com/feature-articles/contest-results-sa/1/)
+* [Everything I Say is Correct](https://www.somethingawful.com/feature-articles/everything-say-correct/1/)
+* [Baby Movies](https://www.somethingawful.com/photoshop-phriday/baby-movies/1/)
 
 ### Popular Threads
 
+* ![](https://fi.somethingawful.com/forums/posticons/anime-hm7.gif) [When did Buffalo Wild Wings get this shitty?](http://forums.somethingawful.com/showthread.php?threadid=4070629 "When did Buffalo Wild Wings get this shitty?")
 * ![](https://fi.somethingawful.com/forums/posticons/byob-gents.gif) [Who is the least creepy celebrity?](http://forums.somethingawful.com/showthread.php?threadid=4070612 "Who is the least creepy celebrity?")
-* ![](https://fi.somethingawful.com/forums/posticons/byob-grumpy.gif) [What's it like being on an extremely short flight?](http://forums.somethingawful.com/showthread.php?threadid=4070619 "What's it like being on an extremely short flight?")
-* ![](https://fi.somethingawful.com/forums/posticons/LF-article.gif) [Jazzed on this sick ass test I saw advertised on youtube](http://forums.somethingawful.com/showthread.php?threadid=4070606 "Jazzed on this sick ass test I saw advertised on youtube")
 * ![](https://fi.somethingawful.com/forums/posticons/byob-grumpy.gif) [Whats it like being in an extremely long fight?](http://forums.somethingawful.com/showthread.php?threadid=4070598 "Whats it like being in an extremely long fight?")
+* ![](https://fi.somethingawful.com/forums/posticons/LF-article.gif) [Jazzed on this sick ass test I saw advertised on youtube](http://forums.somethingawful.com/showthread.php?threadid=4070606 "Jazzed on this sick ass test I saw advertised on youtube")
+* ![](https://fi.somethingawful.com/forums/posticons/byob-grumpy.gif) [What's it like being on an extremely short flight?](http://forums.somethingawful.com/showthread.php?threadid=4070619 "What's it like being on an extremely short flight?")
 
 ### Random Articles
 
-* [Been Longin' for Bin Laden](https://www.somethingawful.com/news/new-bin-laden/1/)
-* [Juggernaut for Quake 2](https://www.somethingawful.com/game-reviews/juggernaut-for-quake/)
-* [I Hate You Page 164](https://www.somethingawful.com/cliff-yablonski/i-hate-you-164/)
-* [G2k's Star Trek vs. Star Wars Tech Assessment](https://www.somethingawful.com/awful-links/awful-link-1227/)
-* [The Spin Zone](https://www.somethingawful.com/awful-links/awful-link-2927/)
+* [WWF Buys WCW!](https://www.somethingawful.com/news/wwf-buys-wcw/)
+* [Article: Ragnarok Online: Then and Now](https://www.somethingawful.com/feature-articles/article-ragnarok-online/1/)
+* [Flames From Review of Radiohead - Amnesiac](https://www.somethingawful.com/truth-media-flames/flames-from-review/1/)
+* [Neck Brace Art Appreciation Klub](https://www.somethingawful.com/awful-links/awful-link-1565/)
+* [A Memo From George Lucas](https://www.somethingawful.com/news/memo-from-george/)
 
 [Random!](https://www.somethingawful.com/random/)
 
