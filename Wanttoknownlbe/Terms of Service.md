@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/inspiratie/gastcolumns/hoe-onschuldig-is-een-fopspeen/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/overige/waarom-je-niet-moet-geloven-wat-er-in-de-krant-staat/ "Feeling Lucky? »")
 
 Algemene voorwaarden WantToKnow aanbiedingen
 ============================================
