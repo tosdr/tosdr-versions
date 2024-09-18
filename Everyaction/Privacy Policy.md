@@ -504,6 +504,8 @@ Foundry Ministries helps people overcome life controlling problems such as subst
 
 Impact Powered by:
 
+* Case Management
+
 ![Family who has benefitted from Home Repair Services](/sites/default/files/styles/carousel_square_450x450_/public/2024-09/bonterra-home-repair-services_header-photo.jpg.webp?itok=PZyT7o1Z)
 
 **45 years of safer homes and stronger communities**
@@ -523,6 +525,8 @@ Learn how Wilmington Alliance utilized technology to address inequity within its
 [Read their story onEmpowering entrepreneurship to build the local economy](https://www.everyaction.com/case-studies/empowering-entrepreneurship-build-local-economy) 
 
 Impact Powered by:
+
+* Case Management
 
 ![Catholic Social Services workers stand together with arms over each other's shoulders](/sites/default/files/styles/carousel_square_450x450_/public/2024-08/catholic-social-services-of-ak_header-photo_0.png.webp?itok=9goOnu_F)
 
