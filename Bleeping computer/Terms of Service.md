@@ -23,31 +23,31 @@
     * [Featured](#nfeatured)
     * [Latest](#nlatest)
     
-    * [![Windows vulnerability abused braille “spaces” in zero-day attacks](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    * [![PKfail Secure Boot bypass remains a significant risk two months later](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Windows vulnerability abused braille “spaces” in zero-day attacks](https://www.bleepingcomputer.com/news/security/windows-vulnerability-abused-braille-spaces-in-zero-day-attacks/)
-    * [![TfL requires in-person password resets for 30,000 employees after hack](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        PKfail Secure Boot bypass remains a significant risk two months later](https://www.bleepingcomputer.com/news/security/pkfail-secure-boot-bypass-remains-a-significant-risk-two-months-later/)
+    * [![Temu denies breach after hacker claims theft of 87 million data records](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        TfL requires in-person password resets for 30,000 employees after hack](https://www.bleepingcomputer.com/news/security/tfl-requires-in-person-password-resets-for-30-000-employees-after-hack/)
-    * [![23andMe to pay $30 million in genetics data breach settlement](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        Temu denies breach after hacker claims theft of 87 million data records](https://www.bleepingcomputer.com/news/security/temu-denies-breach-after-hacker-claims-theft-of-87-million-data-records/)
+    * [![Ransomware gangs now abuse Microsoft Azure tool for data theft](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        23andMe to pay $30 million in genetics data breach settlement](https://www.bleepingcomputer.com/news/security/23andme-to-pay-30-million-in-genetics-data-breach-settlement/)
-    * [![Port of Seattle hit by Rhysida ransomware in August attack](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        Ransomware gangs now abuse Microsoft Azure tool for data theft](https://www.bleepingcomputer.com/news/security/ransomware-gangs-now-abuse-microsoft-azure-tool-for-data-theft/)
+    * [![Over 1,000 ServiceNow instances found leaking corporate KB data](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Port of Seattle hit by Rhysida ransomware in August attack](https://www.bleepingcomputer.com/news/security/port-of-seattle-says-rhysida-ransomware-was-behind-august-attack/)
+        Over 1,000 ServiceNow instances found leaking corporate KB data](https://www.bleepingcomputer.com/news/security/over-1-000-servicenow-instances-found-leaking-corporate-kb-data/)
     
+    * [![Temu denies breach after hacker claims theft of 87 million data records](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        Temu denies breach after hacker claims theft of 87 million data records](https://www.bleepingcomputer.com/news/security/temu-denies-breach-after-hacker-claims-theft-of-87-million-data-records/)
+    * [![Broadcom fixes critical RCE bug in VMware vCenter Server](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        Broadcom fixes critical RCE bug in VMware vCenter Server](https://www.bleepingcomputer.com/news/security/broadcom-fixes-critical-rce-bug-in-vmware-vcenter-server/)
+    * [![Construction firms breached in brute force attacks on accounting software](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        Construction firms breached in brute force attacks on accounting software](https://www.bleepingcomputer.com/news/security/construction-firms-breached-in-brute-force-attacks-on-accounting-software/)
     * [![Cloudflare outage cuts off access to websites in some regions](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         Cloudflare outage cuts off access to websites in some regions](https://www.bleepingcomputer.com/news/technology/cloudflare-outage-cuts-off-access-to-websites-in-some-regions/)
-    * [![Pay once for 2TB cloud storage at FileJump that lasts for life](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        Pay once for 2TB cloud storage at FileJump that lasts for life](https://www.bleepingcomputer.com/offer/deals/pay-once-for-2tb-cloud-storage-at-filejump-that-lasts-for-life/)
-    * [![AT&T pays $13 million FCC settlement over 2023 data breach](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        AT&T pays $13 million FCC settlement over 2023 data breach](https://www.bleepingcomputer.com/news/security/atandt-pays-13-million-fcc-settlement-over-2023-data-breach/)
-    * [![CISA urges software devs to weed out XSS vulnerabilities](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        CISA urges software devs to weed out XSS vulnerabilities](https://www.bleepingcomputer.com/news/security/cisa-urges-software-devs-to-weed-out-xss-vulnerabilities/)
     
 * [Tutorials](https://www.bleepingcomputer.com/tutorials/)
     
@@ -352,9 +352,9 @@ Melville, NY 11747**
 
 Popular Stories
 
-* [![Data Leak](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+* [![Windows red](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
-    Over 1,000 ServiceNow instances found leaking corporate KB data](https://www.bleepingcomputer.com/news/security/over-1-000-servicenow-instances-found-leaking-corporate-kb-data/)
+    Windows vulnerability abused braille “spaces” in zero-day attacks](https://www.bleepingcomputer.com/news/security/windows-vulnerability-abused-braille-spaces-in-zero-day-attacks/)
 * [![CISA](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     CISA warns of Windows flaw used in infostealer malware attacks](https://www.bleepingcomputer.com/news/security/cisa-warns-of-windows-flaw-used-in-infostealer-malware-attacks/)
