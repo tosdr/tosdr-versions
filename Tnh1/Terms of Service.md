@@ -18,15 +18,95 @@
 
 [Leia tudo sobre Maceió](https://www.tnh1.com.br/noticias/editoria/maceio/ "Ir para Maceió")
 
-   [![Saiba mais sobre cada um dos cinco finalistas](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/2/1/csm_CAPA_FINALISTAS_ae592f36b1.jpg)
+   [![Festival Massayó Gospel leva três dias de fé e adoração no Jaraguá; veja programação](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/7/d/csm_massayo_gospel_675c1b268a.jpeg)
 
 Maceió
 
-Saiba mais sobre cada um dos cinco finalistas](https://www.tnh1.com.br/conteudo/noticia/nid/saiba-mais-sobre-cada-um-dos-cinco-finalistas/ "Saiba mais sobre cada um dos cinco finalistas")
+Festival Massayó Gospel leva três dias de fé e adoração no Jaraguá; veja programação](https://www.tnh1.com.br/noticia/nid/festival-massayo-gospel-leva-tres-dias-de-fe-e-adoracao-no-jaragua-veja-programacao/ "Festival Massayó Gospel leva três dias de fé e adoração no Jaraguá; veja programação")   [![Motociclista morre após se chocar com carro e ser atropelado por caminhão, no Barro Duro](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/2/2/csm_motociclista-morre-atropelado-barro-duro__2__10537dca17.jpg)
+
+Av. Juca Sampaio
+
+Motociclista morre após se chocar com carro e ser atropelado por caminhão, no Barro Duro](https://www.tnh1.com.br/noticia/nid/motociclista-morre-apos-se-chocar-com-carro-e-ser-atropelado-por-caminhao-no-barro-duro/ "Motociclista morre após se chocar com carro e ser atropelado por caminhão, no Barro Duro")   [![Jacaré é flagrado por moradores andando em calçada no bairro do Bebedouro](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/7/a/csm_Jacare-flagrado-bebedouro_1ea166d99c.jpg)
+
+Veja vídeo
+
+Jacaré é flagrado por moradores andando em calçada no bairro do Bebedouro](https://www.tnh1.com.br/noticia/nid/jacare-e-flagrado-por-moradores-andando-em-calcada-no-bairro-do-bebedouro/ "Jacaré é flagrado por moradores andando em calçada no bairro do Bebedouro")   [![Novas denúncias contra preso por estelionato mostram prejuízo de R$ 17 mil para lojas de shoppings](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/2/4/csm_prisao-estelionato-divulgacao_3f25234b56.jpg)
+
+Investigado
+
+Novas denúncias contra preso por estelionato mostram prejuízo de R$ 17 mil para lojas de shoppings](https://www.tnh1.com.br/noticia/nid/novas-denuncias-contra-preso-por-estelionato-mostram-prejuizo-de-r-17-mil-para-lojas-de-shoppings/ "Novas denúncias contra preso por estelionato mostram prejuízo de R$ 17 mil para lojas de shoppings")   [![Homem rouba celular alegando estar bêbado e dá aparelho de presente para companheira](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/7/e/csm_homem-rouba-celular-bebad_4983ea6d99.jpg)
+
+Em Maceió
+
+Homem rouba celular alegando estar bêbado e dá aparelho de presente para companheira](https://www.tnh1.com.br/noticia/nid/homem-rouba-celular-alegando-estar-bebado-e-da-aparelho-de-presente-para-companheira/ "Homem rouba celular alegando estar bêbado e dá aparelho de presente para companheira")   [![Mulher é presa por invadir apartamento enquanto dono dormia e furtar objetos de valor](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/5/0/csm_mulher-invadiu-apartamento-ponta-verde_709958690d.jpg)
+
+Na Pajuçara
+
+Mulher é presa por invadir apartamento enquanto dono dormia e furtar objetos de valor](https://www.tnh1.com.br/noticia/nid/mulher-e-presa-por-invadir-apartamento-enquanto-dono-dormia-e-furtar-objetos-de-valor/ "Mulher é presa por invadir apartamento enquanto dono dormia e furtar objetos de valor")
 
 [Alagoas](https://www.tnh1.com.br/noticias/editoria/alagoas/ "Alagoas")
 
+Últimas de Alagoas
+
+[Leia tudo sobre Alagoas](https://www.tnh1.com.br/noticias/editoria/alagoas/ "Ir para Alagoas")
+
+   [![Senador Rui Palmeira: juiz eleitoral condena prefeita  e cassa registro de candidato à prefeitura](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/7/c/csm_csm_Senador-Rui-Palmeira-ascom_9c363eb8f8_ed5efc79bd.jpg)
+
+PROMOÇÃO PESSOAL
+
+Senador Rui Palmeira: juiz eleitoral condena prefeita e cassa registro de candidato à prefeitura](https://www.tnh1.com.br/noticia/nid/senador-rui-palmeira-juiz-eleitoral-condena-prefeita-e-cassa-registro-de-candidato-a-prefeitura/ "Senador Rui Palmeira: juiz eleitoral condena prefeita  e cassa registro de candidato à prefeitura")   [![Governo do Estado diploma três novos patrimônios vivos de Alagoas](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/c/1/csm_governo-do-estado-diploma-tres-novos-patrimonios-vivos-de-alagoas_e5e42bd909.jpeg)
+
+Cultura
+
+Governo do Estado diploma três novos patrimônios vivos de Alagoas](https://www.tnh1.com.br/noticia/nid/governo-do-estado-diploma-tres-novos-patrimonios-vivos-de-alagoas/ "Governo do Estado diploma três novos patrimônios vivos de Alagoas")   [![Polícia Militar prende suspeitos e apreende armas e drogas em Piranhas e Arapiraca](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/7/0/csm_guarnicoes-da-pm-predem-suspeitos-com-armas-de-fogo-em-piranhas-e-arapiraca_544446e4f8.jpg)
+
+Alagoas
+
+Polícia Militar prende suspeitos e apreende armas e drogas em Piranhas e Arapiraca](https://www.tnh1.com.br/noticia/nid/policia-militar-prende-suspeitos-e-apreende-armas-e-drogas-em-piranhas-e-arapiraca/ "Polícia Militar prende suspeitos e apreende armas e drogas em Piranhas e Arapiraca")   [![Cases alagoanos são classificados para premiação nacional](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/6/0/csm_PREMIO_SER_HUMANO_482782c8d0.png)
+
+Alagoas
+
+Cases alagoanos são classificados para premiação nacional](https://www.tnh1.com.br/noticia/nid/cases-alagoanos-sao-classificados-para-premiacao-nacional/ "Cases alagoanos são classificados para premiação nacional")   [![HGE procura por familiares de paciente que deu entrada na última sexta-feira (13)](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/c/9/csm_hge-procura-por-familiares-de-paciente-que-foi-admitido-na-unidade-na-sexta-feira_b302874ecd.jpg)
+
+vítima de acidente
+
+HGE procura por familiares de paciente que deu entrada na última sexta-feira (13)](https://www.tnh1.com.br/noticia/nid/hge-procura-por-familiares-de-paciente-que-deu-entrada-na-ultima-sexta-feira-13/ "HGE procura por familiares de paciente que deu entrada na última sexta-feira (13)")   [![Cinco casos de violência doméstica são registrados em Alagoas durante o feriado](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/b/9/csm_violencia_contra_a_mulher-agencia-brasil_b41768433d.jpg)
+
+Em 12 horas
+
+Cinco casos de violência doméstica são registrados em Alagoas durante o feriado](https://www.tnh1.com.br/noticia/nid/cinco-casos-de-violencia-domestica-sao-registrados-em-alagoas-durante-o-feriado/ "Cinco casos de violência doméstica são registrados em Alagoas durante o feriado")
+
 [Polícia](https://www.tnh1.com.br/noticias/editoria/policia/ "Polícia")
+
+Últimas de Polícia
+
+[Leia tudo sobre Polícia](https://www.tnh1.com.br/noticias/editoria/policia/ "Ir para Polícia")
+
+   [![Diretor de escola é investigado após enviar foto íntima para aluna de 13 anos; veja imagens ](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/6/1/csm_print-conversas-diretor-aluna-reproducao_cf94710b60.jpeg)
+
+RIO LARGO
+
+Diretor de escola é investigado após enviar foto íntima para aluna de 13 anos; veja imagens](https://www.tnh1.com.br/noticia/nid/diretor-de-escola-e-investigado-apos-enviar-foto-intima-para-aluna-de-13-anos-veja-imagens/ "Diretor de escola é investigado após enviar foto íntima para aluna de 13 anos; veja imagens ")   [![Promotores se posicionam sobre prisão de delegado: "Grave conduta jamais esperada"](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/1/e/csm_Promotores_Kleber_Valadares_e_Lidia_Malta_-_foto_Reproducao_MPAL_eaafdeb3bc.jpg)
+
+kleber malaquias
+
+Promotores se posicionam sobre prisão de delegado: "Grave conduta jamais esperada"](https://www.tnh1.com.br/noticia/nid/promotores-se-posicionam-sobre-prisao-de-delegado-grave-conduta-jamais-esperada/ "Promotores se posicionam sobre prisão de delegado: "Grave conduta jamais esperada"")   [![Operação da PF mira suspeito de assediar criança alagoana a gravar e publicar vídeos sensuais](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/5/4/csm_policia_federal_7684d7c2a9.jpeg)
+
+'grooming'
+
+Operação da PF mira suspeito de assediar criança alagoana a gravar e publicar vídeos sensuais](https://www.tnh1.com.br/noticia/nid/operacao-da-pf-mira-suspeito-de-assediar-crianca-alagoana-a-gravar-e-publicar-videos-sensuais/ "Operação da PF mira suspeito de assediar criança alagoana a gravar e publicar vídeos sensuais")   [![Entidades classificam prisão de delegado Daniel Mayer como 'fruto de equívoco' ](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/4/0/csm_Delegado_Daniel_Mayer_PC_-_foto_Reproducao_-_TV_Pajucara_95c9b9a26f.jpg)
+
+confira na íntegra
+
+Entidades classificam prisão de delegado Daniel Mayer como 'fruto de equívoco'](https://www.tnh1.com.br/noticia/nid/entidades-classificam-prisao-de-delegado-daniel-mayer-como-fruto-de-equivoco/ "Entidades classificam prisão de delegado Daniel Mayer como 'fruto de equívoco' ")   [![Delegado é preso em Maceió suspeito de prejudicar investigação da morte de empresário](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/2/6/csm_WhatsApp_Image_2024-09-18_at_10.05.50_906c01ad4a.jpeg)
+
+caso kleber malaquias
+
+Delegado é preso em Maceió suspeito de prejudicar investigação da morte de empresário](https://www.tnh1.com.br/noticia/nid/delegado-e-preso-em-maceio-suspeito-de-prejudicar-investigacao-da-morte-de-empresario/ "Delegado é preso em Maceió suspeito de prejudicar investigação da morte de empresário")   [![Novas denúncias contra preso por estelionato mostram prejuízo de R$ 17 mil para lojas de shoppings](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/2/4/csm_prisao-estelionato-divulgacao_3f25234b56.jpg)
+
+Investigado
+
+Novas denúncias contra preso por estelionato mostram prejuízo de R$ 17 mil para lojas de shoppings](https://www.tnh1.com.br/noticia/nid/novas-denuncias-contra-preso-por-estelionato-mostram-prejuizo-de-r-17-mil-para-lojas-de-shoppings/ "Novas denúncias contra preso por estelionato mostram prejuízo de R$ 17 mil para lojas de shoppings")
 
 [Blogs](https://www.tnh1.com.br/blogs/ "Blogs")
 
@@ -35,6 +115,16 @@ Saiba mais sobre cada um dos cinco finalistas](https://www.tnh1.com.br/conteudo/
 [TV](https://www.tnh1.com.br/videos/ "TV ")
 
 [Pessoas&Negócios](https://www.tnh1.com.br/a-lideranca-que-voce-escolheu/noticias/editoria/pessoas-negocios/ "Pessoas&Negócios")
+
+Últimas de Pessoas&Negócios
+
+[Leia tudo sobre Pessoas&Negócios](https://www.tnh1.com.br/a-lideranca-que-voce-escolheu/noticias/editoria/pessoas-negocios/ "Ir para Pessoas&Negócios")
+
+   [![Uninassau Maceió recebe selo "OAB Indica" por excelência no ensino de Direito](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/d/0/csm_UNINASSAU_SELO_OAB___2__f9527de421.jpg)
+
+Pessoas & Negócios
+
+Uninassau Maceió recebe selo "OAB Indica" por excelência no ensino de Direito](https://www.tnh1.com.br/noticia/nid/uninassau-maceio-recebe-selo-oab-indica-por-excelencia-no-ensino-de-direito/ "Uninassau Maceió recebe selo "OAB Indica" por excelência no ensino de Direito")
 
 [Pajuçara.com](https://pajucara.tnh1.com.br/ "Pajuçara.com")
 
@@ -116,15 +206,7 @@ O Portal TNH1 não entra em contato com os ganhadores de qualquer promoção atr
 
 Ator explica como lida com as reações das pessoas à sua doença rara no dia a dia
 
-Ator explica como lida com as reações das pessoas à sua doença rara no dia a dia](https://www.tnh1.com.br/noticia/nid/ator-explica-como-lida-com-as-reacoes-das-pessoas-a-sua-doenca-rara-no-dia-a-dia/ "Ator explica como lida com as reações das pessoas à sua doença rara no dia a dia")[![Suspeito de matar Ana Beatriz é filho de PM e teria usado arma do pai no crime](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/6/a/csm_operacao_prisao_suspeito_ana_beatriz_foto_reproducao_pc_61fc324d2c.jpeg)
-
-investigações
-
-investigações
-
-Suspeito de matar Ana Beatriz é filho de PM e teria usado arma do pai no crime
-
-Suspeito de matar Ana Beatriz é filho de PM e teria usado arma do pai no crime](https://www.tnh1.com.br/noticia/nid/suspeito-de-matar-ana-beatriz-e-filho-de-pm-e-teria-usado-arma-do-pai-no-crime/ "Suspeito de matar Ana Beatriz é filho de PM e teria usado arma do pai no crime")[![Delegado é preso em Maceió suspeito de prejudicar investigação da morte de empresário](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/2/6/csm_WhatsApp_Image_2024-09-18_at_10.05.50_14914ca6ba.jpeg)
+Ator explica como lida com as reações das pessoas à sua doença rara no dia a dia](https://www.tnh1.com.br/noticia/nid/ator-explica-como-lida-com-as-reacoes-das-pessoas-a-sua-doenca-rara-no-dia-a-dia/ "Ator explica como lida com as reações das pessoas à sua doença rara no dia a dia")[![Delegado é preso em Maceió suspeito de prejudicar investigação da morte de empresário](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/2/6/csm_WhatsApp_Image_2024-09-18_at_10.05.50_14914ca6ba.jpeg)
 
 caso kleber malaquias
 
@@ -132,7 +214,15 @@ caso kleber malaquias
 
 Delegado é preso em Maceió suspeito de prejudicar investigação da morte de empresário
 
-Delegado é preso em Maceió suspeito de prejudicar investigação da morte de empresário](https://www.tnh1.com.br/noticia/nid/delegado-e-preso-em-maceio-suspeito-de-prejudicar-investigacao-da-morte-de-empresario/ "Delegado é preso em Maceió suspeito de prejudicar investigação da morte de empresário")[![Caso Ana Beatriz: suspeito de perseguir e matar adolescente de 13 anos é preso em Maceió](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/a/1/csm_Menina_de_13_anos_e_baleada_em_Maceio_-_foto_Reproducao_ec76ee516d.jpg)
+Delegado é preso em Maceió suspeito de prejudicar investigação da morte de empresário](https://www.tnh1.com.br/noticia/nid/delegado-e-preso-em-maceio-suspeito-de-prejudicar-investigacao-da-morte-de-empresario/ "Delegado é preso em Maceió suspeito de prejudicar investigação da morte de empresário")[![Suspeito de matar Ana Beatriz é filho de PM e teria usado arma do pai no crime](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/6/a/csm_operacao_prisao_suspeito_ana_beatriz_foto_reproducao_pc_61fc324d2c.jpeg)
+
+investigações
+
+investigações
+
+Suspeito de matar Ana Beatriz é filho de PM e teria usado arma do pai no crime
+
+Suspeito de matar Ana Beatriz é filho de PM e teria usado arma do pai no crime](https://www.tnh1.com.br/noticia/nid/suspeito-de-matar-ana-beatriz-e-filho-de-pm-e-teria-usado-arma-do-pai-no-crime/ "Suspeito de matar Ana Beatriz é filho de PM e teria usado arma do pai no crime")[![Caso Ana Beatriz: suspeito de perseguir e matar adolescente de 13 anos é preso em Maceió](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/a/1/csm_Menina_de_13_anos_e_baleada_em_Maceio_-_foto_Reproducao_ec76ee516d.jpg)
 
 Na Ponta Grossa
 
@@ -142,39 +232,39 @@ Caso Ana Beatriz: suspeito de perseguir e matar adolescente de 13 anos é preso 
 
 Caso Ana Beatriz: suspeito de perseguir e matar adolescente de 13 anos é preso em Maceió](https://www.tnh1.com.br/noticia/nid/caso-ana-beatriz-suspeito-de-perseguir-e-matar-adolescente-de-13-anos-e-preso-em-maceio/ "Caso Ana Beatriz: suspeito de perseguir e matar adolescente de 13 anos é preso em Maceió")
 
-[![Força Nacional combaterá incêndios florestais em seis estados](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/7/1/csm_incendio_amazonia_dfeb0c2e5d.png)
+[![Diretor de escola é investigado após enviar foto íntima para aluna de 13 anos; veja imagens ](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/6/1/csm_print-conversas-diretor-aluna-reproducao_f99fdc12d4.jpeg)
 
-Brasil
+RIO LARGO
 
-Brasil
+RIO LARGO
 
-Força Nacional combaterá incêndios florestais em seis estados
+Diretor de escola é investigado após enviar foto íntima para aluna de 13 anos; veja imagens
 
-Força Nacional combaterá incêndios florestais em seis estados](https://www.tnh1.com.br/noticia/nid/forca-nacional-combatera-incendios-florestais-em-seis-estados/ "Força Nacional combaterá incêndios florestais em seis estados")[![Número de mortos por ataque de pager sobe para 12, diz ministro da saúde libanês](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/5/d/csm_pager_que_explodiu_reproducao_redes_sociais_1db23f0687.jpg)
+Diretor de escola é investigado após enviar foto íntima para aluna de 13 anos; veja imagens](https://www.tnh1.com.br/noticia/nid/diretor-de-escola-e-investigado-apos-enviar-foto-intima-para-aluna-de-13-anos-veja-imagens/ "Diretor de escola é investigado após enviar foto íntima para aluna de 13 anos; veja imagens ")[![Carne bovina, charque e linguiça: fiscalização apreende 90kg de alimentos estragados no Jacintinho](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/5/e/csm_carne-estragada-fiscalizacao-visa-reproducao_9e8f44255c.jpeg)
 
-criança no meio
+EM MACEIÓ
 
-criança no meio
+EM MACEIÓ
 
-Número de mortos por ataque de pager sobe para 12, diz ministro da saúde libanês
+Carne bovina, charque e linguiça: fiscalização apreende 90kg de alimentos estragados no Jacintinho
 
-Número de mortos por ataque de pager sobe para 12, diz ministro da saúde libanês](https://www.tnh1.com.br/noticia/nid/numero-de-mortos-por-ataque-de-pager-sobe-para-12-diz-ministro-da-saude-libanes/ "Número de mortos por ataque de pager sobe para 12, diz ministro da saúde libanês")[![Por que anulação de partida é tão difícil no STJD e remete à 'Máfia do Apito'](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/e/0/csm_unrecognizable-referee-showing-yellow-card__1__e150c12dc1.jpg)
+Carne bovina, charque e linguiça: fiscalização apreende 90kg de alimentos estragados no Jacintinho](https://www.tnh1.com.br/noticia/nid/carne-bovina-charque-e-linguica-fiscalizacao-apreende-90kg-de-alimentos-estragados-no-jacintinho/ "Carne bovina, charque e linguiça: fiscalização apreende 90kg de alimentos estragados no Jacintinho")[![Longa alagoano é pré-selecionado para o Oscar de Melhor Filme Internacional](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/8/3/csm_longa-alagoano-sem-coracao-e-pre-selecionado-para-o-oscar-de-melhor-filme-internacional_e4c9125556.jpg)
 
-ENTENDA
+Cinema
 
-ENTENDA
+Cinema
 
-Por que anulação de partida é tão difícil no STJD e remete à 'Máfia do Apito'
+Longa alagoano é pré-selecionado para o Oscar de Melhor Filme Internacional
 
-Por que anulação de partida é tão difícil no STJD e remete à 'Máfia do Apito'](https://www.tnh1.com.br/noticia/nid/por-que-anulacao-de-partida-e-tao-dificil-no-stjd-e-remete-a-mafia-do-apito/ "Por que anulação de partida é tão difícil no STJD e remete à 'Máfia do Apito'")[![Ex-Botafogo e São Paulo curte aposentadoria e vira cantor de pagode em SP](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/a/6/csm_maicosuel-ex-botafogo-sao-paulo-e-atletico-mg-virou-vocalista-de-grupo-de-pagode-no-interior-de-sao-paulo_b24fed1e12.jpg)
+Longa alagoano é pré-selecionado para o Oscar de Melhor Filme Internacional](https://www.tnh1.com.br/noticia/nid/longa-alagoano-e-pre-selecionado-para-o-oscar-de-melhor-filme-internacional/ "Longa alagoano é pré-selecionado para o Oscar de Melhor Filme Internacional")[![Aluna de 10 anos morre após sentir dor de cabeça, dor abdominal e vomitar em escola](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/f/3/csm_menina-10_anos-morreu-apassou--mal-escola-parana-redes-sociais_0c124e8491.jpg)
 
-aposentou em 2019
+NO PARANÁ
 
-aposentou em 2019
+NO PARANÁ
 
-Ex-Botafogo e São Paulo curte aposentadoria e vira cantor de pagode em SP
+Aluna de 10 anos morre após sentir dor de cabeça, dor abdominal e vomitar em escola
 
-Ex-Botafogo e São Paulo curte aposentadoria e vira cantor de pagode em SP](https://www.tnh1.com.br/noticia/nid/ex-botafogo-e-sao-paulo-curte-aposentadoria-e-vira-cantor-de-pagode-em-sp/ "Ex-Botafogo e São Paulo curte aposentadoria e vira cantor de pagode em SP")
+Aluna de 10 anos morre após sentir dor de cabeça, dor abdominal e vomitar em escola](https://www.tnh1.com.br/noticia/nid/aluna-de-10-anos-morre-apos-sentir-dor-de-cabeca-dor-abdominal-e-vomitar-em-escola/ "Aluna de 10 anos morre após sentir dor de cabeça, dor abdominal e vomitar em escola")
 
 [](https://www.tnh1.com.br/ "TNH1 logo")
 
