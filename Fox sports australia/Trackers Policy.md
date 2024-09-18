@@ -101,6 +101,16 @@ FOX SCORES
     | BAN | –   |
     
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/TEST2024-250101)
+* [Women's T20I
+    
+    19/9 19:10 AEST
+    
+    |     |     |
+    | --- | --- |
+    | AUS | –   |
+    | NZL | –   |
+    
+    Match Centre](https://www.foxsports.com.au/cricket/match-centre/WT20I2024-250101)
 * Motorsport
     
 * [Formula 1
@@ -123,6 +133,18 @@ FOX SCORES
     |     |
     
     Race Centre](https://www.foxsports.com.au/motorsport/moto-gp/race-centre?meetingid=709)
+* Basketball
+    
+* [NBL
+    
+    19/9 20:30 AEST
+    
+    |     |     |
+    | --- | --- |
+    | MEL | –   |
+    | TAS | –   |
+    
+    Match Centre](https://www.foxsports.com.au/basketball/nbl/match-centre/NBL2024-25010001)
 * Rugby
     
 * [Rugby Champs
