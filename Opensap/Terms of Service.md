@@ -6,6 +6,8 @@ Javascript must be enabled for the correct page display
 
 Chat now
 
+![](/etc.clientlibs/sapdx/front-layer/dist/resources/assets/images/HeroPlaceholder.svg)
+
 Terms of Use for SAP Websites  
 
 ================================
