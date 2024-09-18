@@ -118,61 +118,63 @@ This policy is effective as of 29 June 2021.
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Wish I started ages ago!
-> ------------------------
+> Impossible to run our businesses without IO
+> -------------------------------------------
 > 
-> I just want to compliment you and your team for an amazing back office software.
-> 
-> I have been struggling with a proper invoicing solution for six months now (to make time each month)
-> 
-> I just wish I started using Invoices Online ages ago.
+> IO is an integral part of our day to day business. It allows me complete control and overview functionality, while still enabling franchise owners to run their various franchises without interruption.  
+>   
+> At Storietyd.co.za - a bookclub for Afrikaans children, with thousands of members - all our billing is automated, automated invoices, automated debit orders, automated payment allocation, and so forth. Administration would be an absolute nightmare without IO.  
+>   
+> We are suppliers of bulk educational products to schools, our reps in the field use IO for quotes, invoicing and managing debtors, directly from their smartphones / tablets.  
+>   
+> We are extremely satisfied with Invoices Online, and would certainly recommend that you try it out.
 
-Terri Winfield
+Kobus Venter
 
-![valued client SLOANE STAR MEAT MARKET](https://www.invoicesonline.co.za/scripts/image.php?bid=1748&file=logo_300_100&type=&fe=4333e59bb22e9152fe6638cb16027070920b66bf8faea5029b11f588b8dfe0c7&c=108139252)  
-SLOANE STAR MEAT MARKET
-
-![valued client Moremi Kitchens Rustenburg ](https://www.invoicesonline.co.za/scripts/image.php?bid=6362&file=logo_300_100&type=&fe=4333e59bb22e9152fe6638cb16027070920b66bf8faea5029b11f588b8dfe0c7&c=119790482)  
-Moremi Kitchens Rustenburg
-
-![valued client Sarabi ](https://www.invoicesonline.co.za/scripts/image.php?bid=5430&file=logo_300_100&type=&fe=4333e59bb22e9152fe6638cb16027070920b66bf8faea5029b11f588b8dfe0c7&c=105495441)  
-Sarabi
-
-![valued client Echo Recording Studio cc](https://www.invoicesonline.co.za/scripts/image.php?bid=225&file=logo_300_100&type=&fe=4333e59bb22e9152fe6638cb16027070920b66bf8faea5029b11f588b8dfe0c7&c=87278365)  
-Echo Recording Studio cc
-
-![valued client J.M. HUMAN RESOURCES](https://www.invoicesonline.co.za/scripts/image.php?bid=4626&file=logo_300_100&type=&fe=4333e59bb22e9152fe6638cb16027070920b66bf8faea5029b11f588b8dfe0c7&c=4637405)  
-J.M. HUMAN RESOURCES
-
-![valued client VIR Electrical (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=7991&file=logo_300_100&type=&fe=4333e59bb22e9152fe6638cb16027070920b66bf8faea5029b11f588b8dfe0c7&c=130396906)  
-VIR Electrical (PTY) LTD
-
-![valued client BEE SURE CONSULTING (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8110&file=logo_300_100&type=&fe=4333e59bb22e9152fe6638cb16027070920b66bf8faea5029b11f588b8dfe0c7&c=158207025)  
-BEE SURE CONSULTING (PTY) LTD
-
-![valued client Import Maaw](https://www.invoicesonline.co.za/scripts/image.php?bid=6159&file=logo_300_100&type=&fe=4333e59bb22e9152fe6638cb16027070920b66bf8faea5029b11f588b8dfe0c7&c=149956648)  
-Import Maaw
-
-![valued client Peter Salvage Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7407&file=logo_300_100&type=&fe=4333e59bb22e9152fe6638cb16027070920b66bf8faea5029b11f588b8dfe0c7&c=73640437)  
-Peter Salvage Pty Ltd
-
-![valued client PROGRAPHIX PTY LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8509&file=logo_300_100&type=&fe=4333e59bb22e9152fe6638cb16027070920b66bf8faea5029b11f588b8dfe0c7&c=192937123)  
-PROGRAPHIX PTY LTD
-
-![valued client Lindani Protection Services & Projects](https://www.invoicesonline.co.za/scripts/image.php?bid=8265&file=logo_300_100&type=&fe=4333e59bb22e9152fe6638cb16027070920b66bf8faea5029b11f588b8dfe0c7&c=209014406)  
-Lindani Protection Services & Projects
-
-![valued client ARCHITEK PTY LTD ](https://www.invoicesonline.co.za/scripts/image.php?bid=8208&file=logo_300_100&type=&fe=4333e59bb22e9152fe6638cb16027070920b66bf8faea5029b11f588b8dfe0c7&c=178870042)  
-ARCHITEK PTY LTD
-
-![valued client Kaylas Creations](https://www.invoicesonline.co.za/scripts/image.php?bid=7957&file=logo_300_100&type=&fe=4333e59bb22e9152fe6638cb16027070920b66bf8faea5029b11f588b8dfe0c7&c=7753250)  
-Kaylas Creations
-
-![valued client Little Nutty Professors](https://www.invoicesonline.co.za/scripts/image.php?bid=4826&file=logo_300_100&type=&fe=4333e59bb22e9152fe6638cb16027070920b66bf8faea5029b11f588b8dfe0c7&c=205439071)  
+![valued client Little Nutty Professors](https://www.invoicesonline.co.za/scripts/image.php?bid=4826&file=logo_300_100&type=&fe=c76075b16b0b3890fed7f6267e67fd62ed7c8acf4a5f11332ab2ffcfa9218c99&c=115279683)  
 Little Nutty Professors
 
-![valued client NEW BEGINNINGS DESIGNS](https://www.invoicesonline.co.za/scripts/image.php?bid=8177&file=logo_300_100&type=&fe=4333e59bb22e9152fe6638cb16027070920b66bf8faea5029b11f588b8dfe0c7&c=85929410)  
-NEW BEGINNINGS DESIGNS
+![valued client Calonet ](https://www.invoicesonline.co.za/scripts/image.php?bid=3324&file=logo_300_100&type=&fe=c76075b16b0b3890fed7f6267e67fd62ed7c8acf4a5f11332ab2ffcfa9218c99&c=35211687)  
+Calonet
+
+![valued client BD Maintenance](https://www.invoicesonline.co.za/scripts/image.php?bid=4541&file=logo_300_100&type=&fe=c76075b16b0b3890fed7f6267e67fd62ed7c8acf4a5f11332ab2ffcfa9218c99&c=77543436)  
+BD Maintenance
+
+![valued client Meyer Towing & Recovery ](https://www.invoicesonline.co.za/scripts/image.php?bid=7983&file=logo_300_100&type=&fe=c76075b16b0b3890fed7f6267e67fd62ed7c8acf4a5f11332ab2ffcfa9218c99&c=80271156)  
+Meyer Towing & Recovery
+
+![valued client Goju-Ryu Pretoria East](https://www.invoicesonline.co.za/scripts/image.php?bid=8346&file=logo_300_100&type=&fe=c76075b16b0b3890fed7f6267e67fd62ed7c8acf4a5f11332ab2ffcfa9218c99&c=184062932)  
+Goju-Ryu Pretoria East
+
+![valued client Fox Alarms & Security](https://www.invoicesonline.co.za/scripts/image.php?bid=4937&file=logo_300_100&type=&fe=c76075b16b0b3890fed7f6267e67fd62ed7c8acf4a5f11332ab2ffcfa9218c99&c=190830153)  
+Fox Alarms & Security
+
+![valued client Glass and Allied Industries](https://www.invoicesonline.co.za/scripts/image.php?bid=1634&file=logo_300_100&type=&fe=c76075b16b0b3890fed7f6267e67fd62ed7c8acf4a5f11332ab2ffcfa9218c99&c=187521792)  
+Glass and Allied Industries
+
+![valued client UniTech Solutions Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8063&file=logo_300_100&type=&fe=c76075b16b0b3890fed7f6267e67fd62ed7c8acf4a5f11332ab2ffcfa9218c99&c=135989797)  
+UniTech Solutions Pty Ltd
+
+![valued client Henry's Home Renovations](https://www.invoicesonline.co.za/scripts/image.php?bid=1221&file=logo_300_100&type=&fe=c76075b16b0b3890fed7f6267e67fd62ed7c8acf4a5f11332ab2ffcfa9218c99&c=204448387)  
+Henry's Home Renovations
+
+![valued client MONSTER SECURITY GUARDING](https://www.invoicesonline.co.za/scripts/image.php?bid=7801&file=logo_300_100&type=&fe=c76075b16b0b3890fed7f6267e67fd62ed7c8acf4a5f11332ab2ffcfa9218c99&c=81667127)  
+MONSTER SECURITY GUARDING
+
+![valued client VIV'S TRUCKS (Pty) Ltd. (117)](https://www.invoicesonline.co.za/scripts/image.php?bid=6320&file=logo_300_100&type=&fe=c76075b16b0b3890fed7f6267e67fd62ed7c8acf4a5f11332ab2ffcfa9218c99&c=66653993)  
+VIV'S TRUCKS (Pty) Ltd. (117)
+
+![valued client SMART GUY PCS (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8162&file=logo_300_100&type=&fe=c76075b16b0b3890fed7f6267e67fd62ed7c8acf4a5f11332ab2ffcfa9218c99&c=203954637)  
+SMART GUY PCS (PTY) LTD
+
+![valued client Roamfree Boerdery (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2350&file=logo_300_100&type=&fe=c76075b16b0b3890fed7f6267e67fd62ed7c8acf4a5f11332ab2ffcfa9218c99&c=89887458)  
+Roamfree Boerdery (PTY) LTD
+
+![valued client MONSTER CONNECT (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=6772&file=logo_300_100&type=&fe=c76075b16b0b3890fed7f6267e67fd62ed7c8acf4a5f11332ab2ffcfa9218c99&c=121594517)  
+MONSTER CONNECT (PTY) LTD
+
+![valued client Skinz Printing & Branding ](https://www.invoicesonline.co.za/scripts/image.php?bid=6232&file=logo_300_100&type=&fe=c76075b16b0b3890fed7f6267e67fd62ed7c8acf4a5f11332ab2ffcfa9218c99&c=44980689)  
+Skinz Printing & Branding
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
