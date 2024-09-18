@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/boeken/de-avonturen-van-jonathan-gullible/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/nieuws/britse-overheid-big-pharma-wees-open/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
