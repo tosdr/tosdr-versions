@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
+    *  [![](https://media.king5.com/assets/KING/images/a9e4ee26-5419-4e42-8b62-84bf7a349aec/20240918T021826/a9e4ee26-5419-4e42-8b62-84bf7a349aec_16x9.jpg) ![](https://media.king5.com/assets/KING/images/a9e4ee26-5419-4e42-8b62-84bf7a349aec/20240918T021826/a9e4ee26-5419-4e42-8b62-84bf7a349aec_360x203.jpg)](https://www.king5.com/article/news/local/church-jesus-christ-latter-day-saints-temple-will-be-built-in-federal-way/281-b4dfc5a1-5c48-4af7-b9fd-0d96c469696a)
+        
+        #### [New Church of Jesus Christ of Latter-Day Saints temple will be built in Federal Way](https://www.king5.com/article/news/local/church-jesus-christ-latter-day-saints-temple-will-be-built-in-federal-way/281-b4dfc5a1-5c48-4af7-b9fd-0d96c469696a)
+        
     *  [![](https://media.king5.com/assets/KING/images/4c085f15-2c2d-4d1b-ab05-6c4c8641eea8/20240814T200232/4c085f15-2c2d-4d1b-ab05-6c4c8641eea8_16x9.jpg) ![](https://media.king5.com/assets/KING/images/4c085f15-2c2d-4d1b-ab05-6c4c8641eea8/20240814T200232/4c085f15-2c2d-4d1b-ab05-6c4c8641eea8_360x203.jpg)](https://www.king5.com/article/news/local/seattle/soda-soap-ordinance-stay-out-of-drug-area-of-prostitution-zones-seattle/281-073e3777-63a6-46bd-a7d8-41f870b9a539)
         
         #### [Seattle City Council approves 'stay out' zones for people with drug, prostitution arrests](https://www.king5.com/article/news/local/seattle/soda-soap-ordinance-stay-out-of-drug-area-of-prostitution-zones-seattle/281-073e3777-63a6-46bd-a7d8-41f870b9a539)
-        
-    *  [![](https://media.king5.com/assets/KING/images/7ca14c3e-a088-44a5-9c62-1682a2950de6/20240918T040930/7ca14c3e-a088-44a5-9c62-1682a2950de6_16x9.jpg) ![](https://media.king5.com/assets/KING/images/7ca14c3e-a088-44a5-9c62-1682a2950de6/20240918T040930/7ca14c3e-a088-44a5-9c62-1682a2950de6_360x203.jpg)](https://www.king5.com/article/news/local/washington-couple-dies-vacation-maui/281-26f74114-5bf3-47b5-85f4-c84f9df5f76b)
-        
-        #### [Washington couple dies while on vacation in Maui](https://www.king5.com/article/news/local/washington-couple-dies-vacation-maui/281-26f74114-5bf3-47b5-85f4-c84f9df5f76b)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -56,7 +56,7 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/5de6f6f7-77fe-47ac-937a-f17e56b420d6/20240918T011819/5de6f6f7-77fe-47ac-937a-f17e56b420d6_16x9.jpg) ![](https://media.king5.com/assets/KING/images/5de6f6f7-77fe-47ac-937a-f17e56b420d6/20240918T011819/5de6f6f7-77fe-47ac-937a-f17e56b420d6_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
+    *  [![](https://media.king5.com/assets/KING/images/c3c2adc2-36c7-438a-8005-64a6426998e8/20240918T120121/c3c2adc2-36c7-438a-8005-64a6426998e8_16x9.jpg) ![](https://media.king5.com/assets/KING/images/c3c2adc2-36c7-438a-8005-64a6426998e8/20240918T120121/c3c2adc2-36c7-438a-8005-64a6426998e8_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
         #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
@@ -97,7 +97,7 @@ Seattle, WA »
 
 60°
 
-![Cloudy](/assets/shared-images/weather-icons/cloudy-night_210x210.png)
+![Cloudy](/assets/shared-images/weather-icons/cloudy-day_210x210.png)
 
 Seattle, WA »](https://www.king5.com/weather)
 
