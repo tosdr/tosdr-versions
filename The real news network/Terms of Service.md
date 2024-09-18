@@ -99,7 +99,7 @@ Trending Posts
 * [The latest theories on how Rey Rivera died don't point to the rooftop](https://therealnews.com/the-latest-theories-on-how-rey-rivera-died-dont-point-to-the-rooftop)
 * [Unmarked Sacramento gang unit cops stop, arrest father and child at gunpoint](https://therealnews.com/unmarked-sacramento-gang-unit-cops-stop-arrest-father-and-child-at-gunpoint)
 * [Is anyone in power responsible for anything?](https://therealnews.com/is-anyone-in-power-responsible-for-anything)
-* [California is about to execute an innocent Black man](https://therealnews.com/california-is-about-to-execute-an-innocent-black-man)
+* [Into the maelstrom: Can French democracy survive its political crisis?](https://therealnews.com/into-the-maelstrom-can-french-democracy-survive-its-political-crisis)
 
 Close
 
@@ -163,7 +163,7 @@ Trending Posts
 * [The latest theories on how Rey Rivera died don't point to the rooftop](https://therealnews.com/the-latest-theories-on-how-rey-rivera-died-dont-point-to-the-rooftop)
 * [Unmarked Sacramento gang unit cops stop, arrest father and child at gunpoint](https://therealnews.com/unmarked-sacramento-gang-unit-cops-stop-arrest-father-and-child-at-gunpoint)
 * [Is anyone in power responsible for anything?](https://therealnews.com/is-anyone-in-power-responsible-for-anything)
-* [California is about to execute an innocent Black man](https://therealnews.com/california-is-about-to-execute-an-innocent-black-man)
+* [Into the maelstrom: Can French democracy survive its political crisis?](https://therealnews.com/into-the-maelstrom-can-french-democracy-survive-its-political-crisis)
 
 [Skip to content](#main)
 
@@ -362,7 +362,7 @@ Trending Posts
 * [The latest theories on how Rey Rivera died don't point to the rooftop](https://therealnews.com/the-latest-theories-on-how-rey-rivera-died-dont-point-to-the-rooftop)
 * [Unmarked Sacramento gang unit cops stop, arrest father and child at gunpoint](https://therealnews.com/unmarked-sacramento-gang-unit-cops-stop-arrest-father-and-child-at-gunpoint)
 * [Is anyone in power responsible for anything?](https://therealnews.com/is-anyone-in-power-responsible-for-anything)
-* [California is about to execute an innocent Black man](https://therealnews.com/california-is-about-to-execute-an-innocent-black-man)
+* [Into the maelstrom: Can French democracy survive its political crisis?](https://therealnews.com/into-the-maelstrom-can-french-democracy-survive-its-political-crisis)
 
 [![The Real News Network](https://i0.wp.com/therealnews.com/wp-content/uploads/2022/08/lockup-duochrome-bright-1.png?fit=3000%2C595&ssl=1)](https://therealnews.com/)
 
