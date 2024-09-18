@@ -1,12 +1,12 @@
   
 
-[![Logo](kiwinigger.png)](https://kiwifarms.st/)
+[![Logo](kiwi2.svg)](https://kiwifarms.st/)
 
 [Alliance Against  
 Troons and  
 lolcows](https://kiwifarms.st/)
 
-This unfunny website Is No Longer Available Due to Pedotroons.  
+This public toilet Is No Longer Available Due to Aifox being fag.  
 You Will Be Redirected To [EncyclopediaDramatica Info](https://encyclopediadramatica.info/) In 10 Seconds
 
   
