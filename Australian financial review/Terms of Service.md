@@ -319,21 +319,21 @@ Advertise
 [Life & Leisure](https://www.afr.com/life-and-leisure)
 ------------------------------------------------------
 
-[![ ](https://static.ffx.io/images/$zoom_0.7575%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_705%2C$y_463/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/dbcb0104fd9286656133f89b33655e896c68229e)](https://www.afr.com/technology/new-asus-notebook-falls-short-of-great-expectations-20240912-p5k9z0)
+[![Cisco Tschurtschenthaler and George Gorrow at Sea Sea Hotel, Crescent Head.](https://static.ffx.io/images/$zoom_0.2242%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_429/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/2c21ee83565c56a5bc4e1008c971dde4c790c9ec)](https://www.afr.com/life-and-luxury/travel/sea-sea-hotel-aims-for-win-win-blend-of-old-cool-and-new-vogue-20240909-p5k95g)
 
-### [New notebook falls short of great expectations](https://www.afr.com/technology/new-asus-notebook-falls-short-of-great-expectations-20240912-p5k9z0)
+### [Sea Sea hotel aims for win win blend of old cool and new vogue](https://www.afr.com/life-and-luxury/travel/sea-sea-hotel-aims-for-win-win-blend-of-old-cool-and-new-vogue-20240909-p5k95g)
 
-* John Davidson
+* Eugenie Kelly
 
-* ### [Raised on STEM subjects, this tech leader finally has a use for art](https://www.afr.com/life-and-luxury/health-and-wellness/raised-on-stem-subjects-this-tech-leader-finally-has-a-use-for-art-20240910-p5k9b2)
+* ### [Why social media makes you a candidate for addiction](https://www.afr.com/life-and-luxury/health-and-wellness/why-social-media-makes-us-all-candidates-for-addiction-20240903-p5k7gn)
     
-* ### [Heaven scent or mouldy stinker? Exclusive aromas are getting ‘out there’](https://www.afr.com/life-and-luxury/fashion-and-style/heaven-scent-or-mouldy-stinker-exclusive-aromas-are-getting-out-there-20240902-p5k77h)
+* ### [This new $3499 notebook falls short of great expectations](https://www.afr.com/technology/new-asus-notebook-falls-short-of-great-expectations-20240912-p5k9z0)
     
 
 [Rich List](https://www.afr.com/rich-list)
 ------------------------------------------
 
-[![Andrew Hagger, who previously worked for Andrew Forrest, is launching Famille Capital, which will service the ultra wealthy. ](https://static.ffx.io/images/$zoom_0.6263%2C$multiply_1%2C$ratio_1.777778%2C$width_1059%2C$x_1393%2C$y_463/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/55b894ceec6dade048c583f46280840affc10237)](https://www.afr.com/companies/financial-services/andrew-hagger-and-guy-debelle-in-new-advisory-firm-for-the-ultra-rich-20240917-p5kbav)
+[![ ](https://static.ffx.io/images/$zoom_0.6393%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_101%2C$y_15/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/994ec0f8a2bdd9c1ad7bb32c1a20e4260be7075e)](https://www.afr.com/companies/financial-services/andrew-hagger-and-guy-debelle-in-new-advisory-firm-for-the-ultra-rich-20240917-p5kbav)
 
 ### [Andrew Hagger and Guy Debelle in new advisory firm for the ultra rich](https://www.afr.com/companies/financial-services/andrew-hagger-and-guy-debelle-in-new-advisory-firm-for-the-ultra-rich-20240917-p5kbav)
 
