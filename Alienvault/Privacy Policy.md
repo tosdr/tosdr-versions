@@ -31,6 +31,7 @@
             
             * [Managed Endpoint Security with SentinelOne](https://www.alienvault.com/endpoint-security/managed-endpoint-security)
             * [Managed Threat Detection and Response](https://www.alienvault.com/products/managed-threat-detection-and-response)
+            * [MTDR for Government](https://www.alienvault.com/mdr/mtdr-for-government)
             * [Managed Vulnerability Program​](https://www.alienvault.com/products/managed-vulnerability-program)
             * [Incident Readiness](https://www.alienvault.com/incident-readiness)
             * [Incident Response](https://www.alienvault.com/incident-response)
@@ -122,9 +123,9 @@
             
             Solution Brief
             
-            ##### Introducing LevelBlue. Cybersecurity. Simplified.
+            ##### LevelBlue Managed Threat Detection and Response for Government
             
-            [Learn more](https://cyber.levelblue.com/m/4a1fe39cf66df595/original/SB-LevelBlue-Overview.pdf)
+            [Learn more](https://cyber.levelblue.com/m/5602dd156749d021/original/SB-MTDR-for-Gov.pdf)
             
             [View all Solution Briefs](https://www.alienvault.com/resource-center#content_solution-brief)
             
@@ -256,6 +257,7 @@ Managed Detection and Response
 
 * [Managed Endpoint Security with SentinelOne](https://www.alienvault.com/endpoint-security/managed-endpoint-security)
 * [Managed Threat Detection and Response](https://www.alienvault.com/products/managed-threat-detection-and-response)
+* [MTDR for Government](https://www.alienvault.com/mdr/mtdr-for-government)
 * [Managed Vulnerability Program​](https://www.alienvault.com/products/managed-vulnerability-program)
 * [Incident Readiness](https://www.alienvault.com/incident-readiness)
 * [Incident Response](https://www.alienvault.com/incident-response)
