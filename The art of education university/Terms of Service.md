@@ -384,17 +384,27 @@ Search
     
     Learn More](https://theartofeducation.edu/magazine/)
     
+    [![The Art of Ed Community](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    ![The Art of Ed Community](https://theartofeducation.edu/wp-content/uploads/2024/09/aoeu-community.png)
+    
+    The Art of Ed Community
+    
+    Connect with K-12 art educators worldwide in a new, dynamic online space. Share ideas, get support, and find inspiration—all for free.
+    
+    Join Now](https://community.theartofeducation.edu/?_gl=1*155in91*_gcl_au*MTEzMzQ1NDI2Mi4xNzI2NjY5MTE0*_ga*MjY1OTY3NDM5LjE3MjY2NjkxMTQ.*_ga_0GR1NG16GD*MTcyNjY4Mjc3OC4yLjEuMTcyNjY4MzAxMy4wLjAuODAyOTc1OTg3)
+    
     [![](https://theartofeducation.edu/wp-content/uploads/2023/01/now-conference-icon.svg)NOW Conference
     
     Join our virtual conference and interact in real time with thousands of art teachers about the most relevant topics in art education.
     
     Learn More](https://theartofeducation.edu/now/)
     
-    [![](https://theartofeducation.edu/wp-content/uploads/2023/01/magazine-media-icon.svg)Magazine & Media
+    [![](https://theartofeducation.edu/wp-content/uploads/2023/01/graduate-courses-icon.svg)Graduate Courses
     
-    Tune into voices from your community with articles, podcasts, videos, social media, and more.
+    Earn graduate credit while spending time with top art educators who are as passionate about the same topics as you are.
     
-    Learn More](https://theartofeducation.edu/magazine/)
+    Learn More](https://theartofeducation.edu/courses/)
     
     [![](https://theartofeducation.edu/wp-content/uploads/2023/01/masters-degree-icon.svg)Degree Programs
     
@@ -402,11 +412,11 @@ Search
     
     Learn More](https://theartofeducation.edu/masters/)
     
-    [![](https://theartofeducation.edu/wp-content/uploads/2023/01/graduate-courses-icon.svg)Graduate Courses
+    [![](https://theartofeducation.edu/wp-content/uploads/2023/01/magazine-media-icon.svg)Magazine & Media
     
-    Earn graduate credit while spending time with top art educators who are as passionate about the same topics as you are.
+    Tune into voices from your community with articles, podcasts, videos, social media, and more.
     
-    Learn More](https://theartofeducation.edu/courses/)
+    Learn More](https://theartofeducation.edu/magazine/)
     
     [](https://theartofeducation.edu/now/?utm_source=aoeu-web&utm_medium=mega-menu&utm_campaign=win25now&utm_content=offerings-now)![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
