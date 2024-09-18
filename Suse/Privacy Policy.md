@@ -2,7 +2,7 @@ Legal
 =====
 
 * [Privacy Policy](https://www.suse.com/company/legal/)
-* [Anti bribery and corruption](https://links.imagerelay.com/cdn/3404/ql/9c6c57a6ed784afe8ff4d2124a2938c0/suse-anti-bribery-and-anti-corruption-policy.pdf)
+* [Anti bribery and corruption](https://links.imagerelay.com/cdn/3404/ql/642e7775a02144d6abb6591530def51b/suse-anti-bribery-and-anti-corruption-policy.pdf)
 * [Code of Business Ethics](https://links.imagerelay.com/cdn/3404/ql/6548e40358aa4c95869a0b2ba870c480/SUSE-COBE.pdf)
 * [Compliance Charter](https://www.suse.com/company/legal/compliance-charter/)
 * [Cookie Usage Policy](https://www.suse.com/company/legal/cookies-policy/)
