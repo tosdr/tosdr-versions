@@ -259,29 +259,29 @@ article 5 days ago](https://science.nasa.gov/missions/hubble/hubble-examines-a-s
 
 ### NASA’s SpaceX Crew-9 to Conduct Space Station Research
 
-article 5 days ago](https://www.nasa.gov/missions/station/nasas-spacex-crew-9-to-conduct-space-station-research/)
+article 6 days ago](https://www.nasa.gov/missions/station/nasas-spacex-crew-9-to-conduct-space-station-research/)
 
 ### Highlights
 
-[![Two astronauts float inside a densely packed laboratory module on the International Space Station, surrounded by a complex array of scientific equipment, cables, and instruments.](https://www.nasa.gov/wp-content/uploads/2024/09/iss043e099306orig.jpg?w=1024)
+[![NASA astronaut and Expedition 71 Flight Engineer Tracy C. Dyson smiles for a portrait in the vestibule between the Kibo laboratory module and the Harmony module aboard the International Space Station.](https://www.nasa.gov/wp-content/uploads/2024/08/iss071e547724.jpg?w=1024)
+
+4 min read
+
+### NASA Astronaut Tracy C. Dyson’s Scientific Mission aboard Space Station
+
+article 2 mins ago](https://www.nasa.gov/missions/station/iss-research/nasa-astronaut-tracy-c-dyson-scientific-mission-aboard-space-station/)[![Two astronauts float inside a densely packed laboratory module on the International Space Station, surrounded by a complex array of scientific equipment, cables, and instruments.](https://www.nasa.gov/wp-content/uploads/2024/09/iss043e099306orig.jpg?w=1024)
 
 3 min read
 
 ### Station Science Top News: September 13, 2024
 
-article 1 day ago](https://www.nasa.gov/centers-and-facilities/johnson/station-science-top-news-september-13-2024/)[![NASA’s Artemis II Crew Uses Iceland Terrain for Lunar Training](https://science.nasa.gov/wp-content/uploads/2024/09/iceland-artemisiitraining-b.jpg)
+article 2 days ago](https://www.nasa.gov/centers-and-facilities/johnson/station-science-top-news-september-13-2024/)[![NASA’s Artemis II Crew Uses Iceland Terrain for Lunar Training](https://science.nasa.gov/wp-content/uploads/2024/09/iceland-artemisiitraining-b.jpg)
 
 4 min read
 
 ### NASA’s Artemis II Crew Uses Iceland Terrain for Lunar Training
 
-article 5 days ago](https://science.nasa.gov/missions/artemis/nasas-artemis-ii-crew-uses-iceland-terrain-for-lunar-training/)[![: NICER’s X-ray concentrators are dark circles in eight staggered rows covering this image. Each one is divided into six segments, like a sliced pie, by its sunshade. The concentrators rest in a white frame of the telescope.](https://www.nasa.gov/wp-content/uploads/2024/08/crew-9-nicer-iss069e051526.jpg?w=1024)
-
-4 min read
-
-### NASA’s SpaceX Crew-9 to Conduct Space Station Research
-
-article 5 days ago](https://www.nasa.gov/missions/station/nasas-spacex-crew-9-to-conduct-space-station-research/)
+article 5 days ago](https://science.nasa.gov/missions/artemis/nasas-artemis-ii-crew-uses-iceland-terrain-for-lunar-training/)
 
 ### Highlights
 
@@ -291,19 +291,19 @@ article 5 days ago](https://www.nasa.gov/missions/station/nasas-spacex-crew-9-to
 
 ### Going Back-to-School with NASA Data
 
-article 1 day ago](https://www.nasa.gov/earth/going-back-to-school-with-nasa-data/)[![Amendment 48: A.5 Carbon Cycle Science Final Text and Due Dates.](https://science.nasa.gov/wp-content/uploads/2023/06/co2-gmao-202102-lrg.jpg)
+article 2 days ago](https://www.nasa.gov/earth/going-back-to-school-with-nasa-data/)[![Amendment 48: A.5 Carbon Cycle Science Final Text and Due Dates.](https://science.nasa.gov/wp-content/uploads/2023/06/co2-gmao-202102-lrg.jpg)
 
 2 min read
 
 ### Amendment 48: A.5 Carbon Cycle Science Final Text and Due Dates.
 
-article 1 day ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-48-a-5-carbon-cycle-science-final-text-and-due-dates/)[![This map shows global temperature anomalies in 2024.](https://www.nasa.gov/wp-content/uploads/2024/09/gistemp-aug2024-map-no-text.png?w=1024)
+article 2 days ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-48-a-5-carbon-cycle-science-final-text-and-due-dates/)[![This map shows global temperature anomalies in 2024.](https://www.nasa.gov/wp-content/uploads/2024/09/gistemp-aug2024-map-no-text.png?w=1024)
 
 5 min read
 
 ### NASA Finds Summer 2024 Hottest to Date
 
-article 6 days ago](https://www.nasa.gov/earth/nasa-finds-summer-2024-hottest-to-date/)
+article 7 days ago](https://www.nasa.gov/earth/nasa-finds-summer-2024-hottest-to-date/)
 
 ### Highlights
 
@@ -313,13 +313,13 @@ article 6 days ago](https://www.nasa.gov/earth/nasa-finds-summer-2024-hottest-to
 
 ### 8 Things to Know About NASA’s Mission to an Ocean Moon of Jupiter
 
-article 14 hours ago](https://www.nasa.gov/missions/europa-clipper/8-things-to-know-about-nasas-mission-to-an-ocean-moon-of-jupiter/)[![Solar Storms and Flares](https://science.nasa.gov/wp-content/uploads/2024/06/x-flare-may-8-2024-131-171-red-crop2.jpg)
+article 22 hours ago](https://www.nasa.gov/missions/europa-clipper/8-things-to-know-about-nasas-mission-to-an-ocean-moon-of-jupiter/)[![Solar Storms and Flares](https://science.nasa.gov/wp-content/uploads/2024/06/x-flare-may-8-2024-131-171-red-crop2.jpg)
 
 2 min read
 
 ### Solar Storms and Flares
 
-article 4 days ago](https://science.nasa.gov/sun/solar-storms-and-flares/)[![NASA’s Artemis II Crew Uses Iceland Terrain for Lunar Training](https://science.nasa.gov/wp-content/uploads/2024/09/iceland-artemisiitraining-b.jpg)
+article 5 days ago](https://science.nasa.gov/sun/solar-storms-and-flares/)[![NASA’s Artemis II Crew Uses Iceland Terrain for Lunar Training](https://science.nasa.gov/wp-content/uploads/2024/09/iceland-artemisiitraining-b.jpg)
 
 4 min read
 
@@ -335,13 +335,13 @@ article 5 days ago](https://science.nasa.gov/missions/artemis/nasas-artemis-ii-c
 
 ### NASA Completes Spacecraft to Transport, Support Roman Space Telescope
 
-article 14 hours ago](https://www.nasa.gov/missions/roman-space-telescope/nasa-completes-spacecraft-to-transport-support-roman-space-telescope/)[![NASA’s Hubble Finds More Black Holes than Expected in the Early Universe](https://science.nasa.gov/wp-content/uploads/2024/09/hubble-hudf-blackholes-stsci-01j6yyrz61qn4exe2hx9dxzj9s.png)
+article 22 hours ago](https://www.nasa.gov/missions/roman-space-telescope/nasa-completes-spacecraft-to-transport-support-roman-space-telescope/)[![NASA’s Hubble Finds More Black Holes than Expected in the Early Universe](https://science.nasa.gov/wp-content/uploads/2024/09/hubble-hudf-blackholes-stsci-01j6yyrz61qn4exe2hx9dxzj9s.png)
 
 4 min read
 
 ### NASA’s Hubble Finds More Black Holes than Expected in the Early Universe
 
-article 15 hours ago](https://science.nasa.gov/missions/hubble/nasas-hubble-finds-more-black-holes-than-expected-in-the-early-universe/)[![Hubble Examines a Spiral Star Factory](https://science.nasa.gov/wp-content/uploads/2024/09/hubble-ngc5668-potw2437a.jpg)
+article 23 hours ago](https://science.nasa.gov/missions/hubble/nasas-hubble-finds-more-black-holes-than-expected-in-the-early-universe/)[![Hubble Examines a Spiral Star Factory](https://science.nasa.gov/wp-content/uploads/2024/09/hubble-ngc5668-potw2437a.jpg)
 
 2 min read
 
@@ -357,19 +357,19 @@ article 5 days ago](https://science.nasa.gov/missions/hubble/hubble-examines-a-s
 
 ### ICESat-2 Hosts Third Applications Workshop
 
-article 11 hours ago](https://science.nasa.gov/science-research/earth-science/icesat-2-hosts-third-applications-workshop/)[![Amendment 49: A.55 Decadal Survey Incubation Program: Science and Technology Final Text and Due Dates](https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000002/GSFC_20171208_Archive_e000002~large.jpg)
+article 19 hours ago](https://science.nasa.gov/science-research/earth-science/icesat-2-hosts-third-applications-workshop/)[![Amendment 49: A.55 Decadal Survey Incubation Program: Science and Technology Final Text and Due Dates](https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000002/GSFC_20171208_Archive_e000002~large.jpg)
 
 1 min read
 
 ### Amendment 49: A.55 Decadal Survey Incubation Program: Science and Technology Final Text and Due Dates
 
-article 13 hours ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-49-a-55-decadal-survey-incubation-program-science-and-technology-final-text-and-due-dates/)[![Celebrating the First Earth Day Event at NASA Headquarters](https://science.nasa.gov/wp-content/uploads/2024/09/mainphoto.jpg)
+article 21 hours ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-49-a-55-decadal-survey-incubation-program-science-and-technology-final-text-and-due-dates/)[![Celebrating the First Earth Day Event at NASA Headquarters](https://science.nasa.gov/wp-content/uploads/2024/09/mainphoto.jpg)
 
 4 min read
 
 ### Celebrating the First Earth Day Event at NASA Headquarters
 
-article 14 hours ago](https://science.nasa.gov/science-research/earth-science/celebrating-the-first-earth-day-event-at-nasa-headquarters/)
+article 22 hours ago](https://science.nasa.gov/science-research/earth-science/celebrating-the-first-earth-day-event-at-nasa-headquarters/)
 
 ### Highlights
 
@@ -379,13 +379,13 @@ article 14 hours ago](https://science.nasa.gov/science-research/earth-science/ce
 
 ### 65 Years Ago: First Powered Flight of the X-15 Hypersonic Rocket Plane 
 
-article 16 hours ago](https://www.nasa.gov/history/65-years-ago-first-powered-flight-of-the-x-15-hypersonic-rocket-plane/)[![Graphic shows a possible future General Electric jet engine with exposed fan blades in front of a cut-away-interior view of its core mechanisms -- all part of NASA's HyTEC research project.](https://www.nasa.gov/wp-content/uploads/2024/05/hytec-illustration.png?w=1024)
+article 1 day ago](https://www.nasa.gov/history/65-years-ago-first-powered-flight-of-the-x-15-hypersonic-rocket-plane/)[![Graphic shows a possible future General Electric jet engine with exposed fan blades in front of a cut-away-interior view of its core mechanisms -- all part of NASA's HyTEC research project.](https://www.nasa.gov/wp-content/uploads/2024/05/hytec-illustration.png?w=1024)
 
 3 min read
 
 ### NASA, GE Aerospace Advancing Hybrid-Electric Airliners with HyTEC
 
-article 19 hours ago](https://www.nasa.gov/aeronautics/nasa-ge-hybrid-electric-research-092024/)[![An up-close view of ice that covers propeller blades inside the Icing Research Tunnel.](https://www.nasa.gov/wp-content/uploads/2024/08/grc-2023-c-02525.jpg?w=1024)
+article 1 day ago](https://www.nasa.gov/aeronautics/nasa-ge-hybrid-electric-research-092024/)[![An up-close view of ice that covers propeller blades inside the Icing Research Tunnel.](https://www.nasa.gov/wp-content/uploads/2024/08/grc-2023-c-02525.jpg?w=1024)
 
 5 min read
 
@@ -395,25 +395,25 @@ article 2 weeks ago](https://www.nasa.gov/centers-and-facilities/glenn/nasa-tunn
 
 ### Highlights
 
-[![An Apollo astronaut preparing to climb the ladder into the lunar module's ascent stage, his spacesuit is covered in lunar dust.](https://images-assets.nasa.gov/image/as17-134-20481/as17-134-20481~large.jpg?w=1920&h=1920&fit=clip&crop=faces%2Cfocalpoint)
+[![](https://www.nasa.gov/wp-content/uploads/2024/09/image-819d21.jpeg?w=1024)
+
+5 min read
+
+### Reinventing the Clock: NASA’s New Tech for Space Timekeeping
+
+article 1 hour ago](https://www.nasa.gov/technology/goddard-tech/reinventing-the-clock-nasas-new-tech-for-space-timekeeping/)[![An Apollo astronaut preparing to climb the ladder into the lunar module's ascent stage, his spacesuit is covered in lunar dust.](https://images-assets.nasa.gov/image/as17-134-20481/as17-134-20481~large.jpg?w=1920&h=1920&fit=clip&crop=faces%2Cfocalpoint)
 
 3 min read
 
 ### Measuring Moon Dust to Fight Air Pollution
 
-article 8 hours ago](https://www.nasa.gov/technology/tech-transfer-spinoffs/measuring-moon-dust-to-fight-air-pollution-2/)[![Amendment 49: A.55 Decadal Survey Incubation Program: Science and Technology Final Text and Due Dates](https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000002/GSFC_20171208_Archive_e000002~large.jpg)
+article 16 hours ago](https://www.nasa.gov/technology/tech-transfer-spinoffs/measuring-moon-dust-to-fight-air-pollution-2/)[![Amendment 49: A.55 Decadal Survey Incubation Program: Science and Technology Final Text and Due Dates](https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000002/GSFC_20171208_Archive_e000002~large.jpg)
 
 1 min read
 
 ### Amendment 49: A.55 Decadal Survey Incubation Program: Science and Technology Final Text and Due Dates
 
-article 13 hours ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-49-a-55-decadal-survey-incubation-program-science-and-technology-final-text-and-due-dates/)[![the Roman spacecraft bus](https://www.nasa.gov/wp-content/uploads/2024/09/spacecraft-001.jpg?w=1024)
-
-5 min read
-
-### NASA Completes Spacecraft to Transport, Support Roman Space Telescope
-
-article 14 hours ago](https://www.nasa.gov/missions/roman-space-telescope/nasa-completes-spacecraft-to-transport-support-roman-space-telescope/)
+article 21 hours ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-49-a-55-decadal-survey-incubation-program-science-and-technology-final-text-and-due-dates/)
 
 ### Featured
 
@@ -423,7 +423,7 @@ article 14 hours ago](https://www.nasa.gov/missions/roman-space-telescope/nasa-c
 
 ### Going Back-to-School with NASA Data
 
-article 1 day ago](https://www.nasa.gov/earth/going-back-to-school-with-nasa-data/)[![](https://www.nasa.gov/wp-content/uploads/2024/09/52573356957-8ecef477bd-k.jpg?w=1024)
+article 2 days ago](https://www.nasa.gov/earth/going-back-to-school-with-nasa-data/)[![](https://www.nasa.gov/wp-content/uploads/2024/09/52573356957-8ecef477bd-k.jpg?w=1024)
 
 3 min read
 
@@ -445,7 +445,7 @@ article 6 days ago](https://www.nasa.gov/directorates/stmd/prizes-challenges-cro
 
 ### Printed Engines Propel the Next Industrial Revolution
 
-article 5 days ago](https://www.nasa.gov/technology/tech-transfer-spinoffs/printed-engines-propel-the-next-industrial-revolution/)[![This image — developed by a team of artists from the Advanced Concepts Lab at NASA’s Langley Research Center — features astronauts performing science on the surface of the Moon and Mars. The team developed the image with a blend of digital 2D illustration and 3D techniques to mimic a retro science fiction painting.](https://www.nasa.gov/wp-content/uploads/2024/09/7-sciencetechnology-lores.png?w=1024)
+article 6 days ago](https://www.nasa.gov/technology/tech-transfer-spinoffs/printed-engines-propel-the-next-industrial-revolution/)[![This image — developed by a team of artists from the Advanced Concepts Lab at NASA’s Langley Research Center — features astronauts performing science on the surface of the Moon and Mars. The team developed the image with a blend of digital 2D illustration and 3D techniques to mimic a retro science fiction painting.](https://www.nasa.gov/wp-content/uploads/2024/09/7-sciencetechnology-lores.png?w=1024)
 
 1 min read
 
