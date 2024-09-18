@@ -1,4 +1,15 @@
-Tuesday, September 17 2024
+Wednesday, September 18 2024
+
+Breaking News
+
+* [Hunter Biden’s Attorneys Ask Judge To Delay Sentencing So Biden-Harris Admin Officials Can ‘Submit Letters’ of Support](https://www.conservativedailynews.com/2024/09/hunter-bidens-attorneys-ask-judge-to-delay-sentencing-so-biden-harris-admin-officials-can-submit-letters-of-support/)
+* [Swing State’s School Choice Programs Are Helping Thousands Of Families — Dems Want To End It](https://www.conservativedailynews.com/2024/09/swing-states-school-choice-programs-are-helping-thousands-of-families-dems-want-to-end-it/)
+* [Speech Actually Can Be Violence When Weaponized by Democrats](https://www.conservativedailynews.com/2024/09/speech-actually-can-be-violence-when-weaponized-by-democrats/)
+* [Religious Group Slams Insurance Giant For ‘Woke Politics,’ Underwriting Gender Ideologues](https://www.conservativedailynews.com/2024/09/religious-group-slams-insurance-giant-for-woke-politics-underwriting-gender-ideologues/)
+* [ABC’s ‘World News Tonight’ Ratings Tank After Hosts’ ‘One-Sided’ Moderating Of Trump-Harris Debate](https://www.conservativedailynews.com/2024/09/abcs-world-news-tonight-ratings-tank-after-hosts-one-sided-moderating-of-trump-harris-debate/)
+* [The IRS Must Be Awfully Excited About A Potential Kamala Harris Presidency](https://www.conservativedailynews.com/2024/09/the-irs-must-be-awfully-excited-about-a-potential-kamala-harris-presidency/)
+* [The Democrats, the Media and Would-be Trump Assassin Ryan Routh](https://www.conservativedailynews.com/2024/09/the-democrats-the-media-and-would-be-trump-assassin-ryan-routh/)
+* [12 Democrats Warn Biden’s Natural Gas Freeze Could End Up Undermining Ukraine](https://www.conservativedailynews.com/2024/09/12-democrats-warn-bidens-natural-gas-freeze-could-end-up-undermining-ukraine/)
 
 * [Sidebar](#)
 * [Random Article](https://www.conservativedailynews.com/privacy-policy/?random-post=1 "Random Article")
@@ -106,64 +117,65 @@ Created using the Donation Thermometer plugin https://wordpress.org/plugins/dona
     
     September 17, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/09/Bodycam-arrest-of-Ryan-Wesley-Routh-220x150.jpg)](https://www.conservativedailynews.com/2024/09/police-release-bodycam-footage-of-arrest-of-alleged-would-be-trump-assassin/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/09/IMG_5599-220x150.jpeg)](https://www.conservativedailynews.com/2024/09/we-are-different-and-the-left-keeps-attacking-us-for-it/)
     
-    [Police Release Bodycam Footage Of Arrest Of Alleged Would-Be Trump Assassin](https://www.conservativedailynews.com/2024/09/police-release-bodycam-footage-of-arrest-of-alleged-would-be-trump-assassin/)
+    [We Are Different, and the Left Keeps Attacking Us For It](https://www.conservativedailynews.com/2024/09/we-are-different-and-the-left-keeps-attacking-us-for-it/)
     
     September 16, 2024
     
 
 Recent Posts
 
-* [![gas prices energy policy biden admin](https://www.conservativedailynews.com/wp-content/uploads/2022/06/mrz061622dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/09/12-democrats-warn-bidens-natural-gas-freeze-could-end-up-undermining-ukraine/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2023/07/gv072623dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/09/hunter-bidens-attorneys-ask-judge-to-delay-sentencing-so-biden-harris-admin-officials-can-submit-letters-of-support/)
     
-    [12 Democrats Warn Biden’s Natural Gas Freeze Could End Up Undermining Ukraine](https://www.conservativedailynews.com/2024/09/12-democrats-warn-bidens-natural-gas-freeze-could-end-up-undermining-ukraine/)
-    
-    September 17, 2024
-    
-* [![Supreme Court](https://www.conservativedailynews.com/wp-content/uploads/2022/05/01-SCOTUS-Integri-LA-1080-220x150.jpg)](https://www.conservativedailynews.com/2024/09/court-watchers-point-to-supreme-courts-liberal-wing-as-likely-culprit-behind-latest-leak/)
-    
-    [Court Watchers Point To Supreme Court’s Liberal Wing As Likely Culprit Behind Latest Leak](https://www.conservativedailynews.com/2024/09/court-watchers-point-to-supreme-courts-liberal-wing-as-likely-culprit-behind-latest-leak/)
+    [Hunter Biden’s Attorneys Ask Judge To Delay Sentencing So Biden-Harris Admin Officials Can ‘Submit Letters’ of Support](https://www.conservativedailynews.com/2024/09/hunter-bidens-attorneys-ask-judge-to-delay-sentencing-so-biden-harris-admin-officials-can-submit-letters-of-support/)
     
     September 17, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/09/Second-assassination-attempt-on-Trump-220x150.jpg)](https://www.conservativedailynews.com/2024/09/secret-service-head-admits-need-for-paradigm-shift-in-presidential-protection-after-second-assassination-attempt-on-trump/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2021/10/Chlidren-in-classroom-220x150.png)](https://www.conservativedailynews.com/2024/09/swing-states-school-choice-programs-are-helping-thousands-of-families-dems-want-to-end-it/)
     
-    [Secret Service Head Admits Need For ‘Paradigm Shift’ In Presidential Protection After Second Assassination Attempt On Trump](https://www.conservativedailynews.com/2024/09/secret-service-head-admits-need-for-paradigm-shift-in-presidential-protection-after-second-assassination-attempt-on-trump/)
-    
-    September 17, 2024
-    
-* [NOAA Launches Probe Into RFK Jr. Over Dead Whale Carcass](https://www.conservativedailynews.com/2024/09/noaa-launches-probe-into-rfk-jr-over-dead-whale-carcass/)
+    [Swing State’s School Choice Programs Are Helping Thousands Of Families — Dems Want To End It](https://www.conservativedailynews.com/2024/09/swing-states-school-choice-programs-are-helping-thousands-of-families-dems-want-to-end-it/)
     
     September 17, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2022/11/512px-Do_Not_Cross_Crime_Scene-220x150.jpg)](https://www.conservativedailynews.com/2024/09/shoplifting-and-vehicle-thefts-soared-as-haitian-migrants-poured-into-ohio-town-police-data-shows/)
-    
-    [Shoplifting And Vehicle Thefts Soared As Haitian Migrants Poured Into Ohio Town, Police Data Shows](https://www.conservativedailynews.com/2024/09/shoplifting-and-vehicle-thefts-soared-as-haitian-migrants-poured-into-ohio-town-police-data-shows/)
+* [Caption This…](https://www.conservativedailynews.com/2024/09/caption-this/)
     
     September 17, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2023/11/Wind-Turbine-Wind-Power-broken-burning-220x150.jpg)](https://www.conservativedailynews.com/2024/09/bp-dumping-key-green-energy-business/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/09/03-sinkingpolic-ci-1080-220x150.jpg)](https://www.conservativedailynews.com/2024/09/speech-actually-can-be-violence-when-weaponized-by-democrats/)
     
-    [BP Dumping Key Green Energy Business](https://www.conservativedailynews.com/2024/09/bp-dumping-key-green-energy-business/)
-    
-    September 17, 2024
-    
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2023/08/shock-ashamed-questioning-embarrassed-judgemental-1-220x150.jpg)](https://www.conservativedailynews.com/2024/09/fbi-tipped-off-about-suspected-trump-gunman-ryan-wesley-rouths-firearm-possession-in-2019/)
-    
-    [FBI Tipped Off About Suspected Trump Gunman Ryan Wesley Routh’s Firearm Possession In 2019](https://www.conservativedailynews.com/2024/09/fbi-tipped-off-about-suspected-trump-gunman-ryan-wesley-rouths-firearm-possession-in-2019/)
+    [Speech Actually Can Be Violence When Weaponized by Democrats](https://www.conservativedailynews.com/2024/09/speech-actually-can-be-violence-when-weaponized-by-democrats/)
     
     September 17, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2019/04/Thinking-woman.jpg)](https://www.conservativedailynews.com/2024/09/trump-is-trailing-harris-in-key-demographic-but-there-is-still-hope-he-can-make-up-ground/)
+* [![Nationwide Insurance Hates America](https://www.conservativedailynews.com/wp-content/uploads/2024/09/Nationwide-Insurance-Hates-America-220x150.jpg)](https://www.conservativedailynews.com/2024/09/religious-group-slams-insurance-giant-for-woke-politics-underwriting-gender-ideologues/)
     
-    [Trump Is Trailing Harris In Key Demographic — But There Is Still Hope He Can Make Up Ground](https://www.conservativedailynews.com/2024/09/trump-is-trailing-harris-in-key-demographic-but-there-is-still-hope-he-can-make-up-ground/)
+    [Religious Group Slams Insurance Giant For ‘Woke Politics,’ Underwriting Gender Ideologues](https://www.conservativedailynews.com/2024/09/religious-group-slams-insurance-giant-for-woke-politics-underwriting-gender-ideologues/)
+    
+    September 17, 2024
+    
+* [![Kamala Harris ABC News Media Bias](https://www.conservativedailynews.com/wp-content/uploads/2024/09/stg091224dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/09/abcs-world-news-tonight-ratings-tank-after-hosts-one-sided-moderating-of-trump-harris-debate/)
+    
+    [ABC’s ‘World News Tonight’ Ratings Tank After Hosts’ ‘One-Sided’ Moderating Of Trump-Harris Debate](https://www.conservativedailynews.com/2024/09/abcs-world-news-tonight-ratings-tank-after-hosts-one-sided-moderating-of-trump-harris-debate/)
+    
+    September 17, 2024
+    
+* [![The IRS, Taxes, Tax Day](https://www.conservativedailynews.com/wp-content/uploads/2024/04/mrz041524dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/09/the-irs-must-be-awfully-excited-about-a-potential-kamala-harris-presidency/)
+    
+    [The IRS Must Be Awfully Excited About A Potential Kamala Harris Presidency](https://www.conservativedailynews.com/2024/09/the-irs-must-be-awfully-excited-about-a-potential-kamala-harris-presidency/)
+    
+    September 17, 2024
+    
+* [![Kamala Harris Joe Biden dangerous rhetoric](https://www.conservativedailynews.com/wp-content/uploads/2024/09/stg091724dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/09/the-democrats-the-media-and-would-be-trump-assassin-ryan-routh/)
+    
+    [The Democrats, the Media and Would-be Trump Assassin Ryan Routh](https://www.conservativedailynews.com/2024/09/the-democrats-the-media-and-would-be-trump-assassin-ryan-routh/)
     
     September 17, 2024
     
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
 
+* [TFB Interview: Kyle Litzie – World Champion – IPSC Rifle World Shoot](https://www.thegunpage.com/tfb-interview-kyle-litzie-world-champion-ipsc-rifle-world-shoot/10610633)
 * [POTD: National Icelandic Police With SIG Sauer MCX](https://www.thegunpage.com/potd-national-icelandic-police-with-sig-sauer-mcx/10610630)
 * [Ruger LC Charger 5.7: Review](https://www.thegunpage.com/ruger-lc-charger-5-7-review/10610628)
 * [Indicted: Rapper Sean “Diddy” Combs Alleged to Have Used Guns to Intimidate Victims, Force Participants in Sex Parties](https://www.thegunpage.com/indicted-rapper-sean-diddy-combs-alleged-to-have-used-guns-to-intimidate-victims-force-participants-in-sex-parties/10610624)
@@ -173,7 +185,6 @@ Recent Posts
 * [GOA Urges Public to Avoid Sharing Mass Murderer’s Names, Images](https://www.thegunpage.com/goa-urges-public-to-avoid-sharing-mass-murderers-names-images/10610619)
 * [New Compact Pulsar Axion XG30 and XG35 Thermal Monoculars](https://www.thegunpage.com/new-compact-pulsar-axion-xg30-and-xg35-thermal-monoculars/10610626)
 * [New Hampshire vs. Massachusetts, An Argument for National Reciprocity](https://www.thegunpage.com/new-hampshire-vs-massachusetts-an-argument-for-national-reciprocity/10610617)
-* [Kentucky Lawmaker Pushes Waiting Period Following I-75 Shooting](https://www.thegunpage.com/kentucky-lawmaker-pushes-waiting-period-following-i-75-shooting/10610613)
 
 [![ Conservative Political Blogs](https://blog.feedspot.com/wp-content/uploads/2016/12/conservative_political_216px.png?x58297)](https://blog.feedspot.com/conservative_political_blogs/ "Conservative Political Blogs")
 
@@ -212,6 +223,18 @@ Contact Us
 * [Facebook](https://www.facebook.com/ConservativeDailyNews/)
 * [Twitter](https://twitter.com/CDNPosts)
 * [Telegram](https://t.me/CDNMedia)
+
+Recent Comments
+
+* KayCee on [Dazed and Confused](https://www.conservativedailynews.com/2024/09/dazed-and-confused-3/#comment-782173)
+* KayCee on [The Reasons Young Women Embrace the Left Do Not Reflect Well on Those Women](https://www.conservativedailynews.com/2024/09/the-reasons-young-women-embrace-the-left-do-not-reflect-well-on-those-women/#comment-782172)
+* Jeff L. on [The Democrats, the Media and Would-be Trump Assassin Ryan Routh](https://www.conservativedailynews.com/2024/09/the-democrats-the-media-and-would-be-trump-assassin-ryan-routh/#comment-782171)
+* Gary D. Chambers on [We Are Different, and the Left Keeps Attacking Us For It](https://www.conservativedailynews.com/2024/09/we-are-different-and-the-left-keeps-attacking-us-for-it/#comment-782156)
+* charles wilkins on [Tip of the Iceberg](https://www.conservativedailynews.com/2024/09/tip-of-the-iceberg/#comment-782148)
+* Missy B on [MSNBC Anchor Says Trump Should Tone Down Rhetoric After Potential Second Assassination Attempt](https://www.conservativedailynews.com/2024/09/msnbc-anchor-says-trump-should-tone-down-rhetoric-after-potential-second-assassination-attempt/#comment-782143)
+* charles wilkins on [Definition of Insanity](https://www.conservativedailynews.com/2024/09/definition-of-insanity/#comment-782133)
+* charles wilkins on [Harris Asked How She Will Make Life Affordable, Immediately Pivots To Word Salad About Middle Class Upbringing, Lawns](https://www.conservativedailynews.com/2024/09/harris-asked-how-she-will-make-life-affordable-immediately-pivots-to-word-salad-about-middle-class-upbringing-lawns/#comment-782116)
+* charles wilkins on [Victor Davis Hanson Suggests Harris Seeking Second Debate Signals She’s Shaken By ‘Internal Polls’](https://www.conservativedailynews.com/2024/09/victor-davis-hanson-suggests-harris-seeking-second-debate-signals-shes-shaken-by-internal-polls/#comment-782115)
 
 [Close](#)
 
