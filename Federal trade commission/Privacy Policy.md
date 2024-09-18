@@ -224,9 +224,9 @@ Main Menu Mega
     
     [Press Release](https://www.ftc.gov/news-events/news/press-releases)
     
-    ### [FTC Orders Shut Down Unauthorized Billing and Credit Card Laundering Schemes, Require Turn Over of Assets Valued at Approximately $40 Million](https://www.ftc.gov/news-events/news/press-releases/2024/09/ftc-orders-shut-down-unauthorized-billing-credit-card-laundering-schemes-require-turn-over-assets)
+    ### [FTC Sends Refunds to Consumers Harmed by CafePress’s Data Security Failures](https://www.ftc.gov/news-events/news/press-releases/2024/09/ftc-sends-refunds-consumers-harmed-cafepresss-data-security-failures)
     
-    September 17, 2024
+    September 18, 2024
     
     [View News and Events](https://www.ftc.gov/news-events)
     
