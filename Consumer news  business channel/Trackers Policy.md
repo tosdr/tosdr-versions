@@ -36,7 +36,7 @@ NBCU Privacy Center
 * [California Notice](https://www.nbcuniversal.com/privacy/california-consumer-privacy-act)
 * [Privacy FAQs](https://www.nbcuniversal.com/privacy/privacy-faqs)
 
-Last Updated: February 28, 2023
+Last Updated: September 18, 2024
 
 * English
 * Ceština
@@ -64,7 +64,7 @@ Last Updated: February 28, 2023
 
 English
 
-[![Printer Friendly, PDF & Email](//cdn.printfriendly.com/buttons/printfriendly-pdf-button-nobg.png)](https://www.printfriendly.com/print?url=https://www.nbcuniversal.com/taxonomy/term/59 "Printer Friendly, PDF & Email")
+[![Printer Friendly, PDF & Email](//cdn.printfriendly.com/buttons/printfriendly-pdf-button-nobg.png)](https://www.printfriendly.com/print?url=https://www.nbcuniversal.com/node/9821 "Printer Friendly, PDF & Email")
 
 Cookie Notice
 =============
@@ -78,7 +78,7 @@ WHAT ARE COOKIES AND HOW ARE THEY USED?
 
  ![WHAT ARE COOKIES AND HOW ARE THEY USED?](/themes/custom/universal/images/icon__chevron--down.svg) ![WHAT ARE COOKIES AND HOW ARE THEY USED?](/themes/custom/universal/images/icon__chevron--up.svg)
 
-Like many companies, we use cookies (small text files placed on your computer or device) and other tracking technologies on the Services (referred to together from this point forward as “Cookies”, unless otherwise stated), including HTTP cookies, HTML5 and Flash local storage/flash cookies, web beacons/GIFs, embedded scripts, ETags/cache browsers, and software development kits. 
+Like many companies, we use cookies (small text files placed on your computer or device) and other tracking technologies on the Services (referred to together from this point forward as “Cookies”, unless otherwise stated), including HTTP cookies, HTML5 and Flash local storage/flash cookies, web beacons/GIFs, embedded scripts, ETags/cache browsers, and software development kits. To learn more about cookies and other tracking technologies, visit [About Identifiers](https://www.aboutidentifiers.org/).
 
 **First-party Cookies**
 
@@ -93,15 +93,11 @@ Certain third parties may place their Cookies on your device and use them to rec
 The Services use the following types of first and third-party Cookies for these purposes:
 
 * **Strictly Necessary Cookies:** These Cookies are required for Service functionality, including for system administration, security and fraud prevention, and to enable any purchasing capabilities. You can set your browser to block these Cookies, but some parts of the site may not function properly.
-
 * **Information Storage and Access:** These Cookies allow us and our partners to store and access information on the device, such as device identifiers.     
-
 * **Measurement and Analytics:** These Cookies collect data regarding your usage of and performance of the Services, apply market research to generate audiences, and measure the delivery and effectiveness of content and advertising. We and our third-party vendors use these Cookies to perform analytics, so we can improve the content and user experience, develop new products and services, and for statistical purposes. They are also used to recognize you and provide further insights across platforms and devices for the above purposes.
-
 * **Personalization Cookies:** These Cookies enable us to provide certain features, such as determining if you are a first-time visitor, capping message frequency, remembering choices you have made (e.g., your language preferences, time zone), and assist you with logging in after registration (including across platforms and devices).  These Cookies also allow your device to receive and send information, so you can see and interact with ads and content.
     * **Content Selection and Delivery Cookies:** Data collected under this category can also be used to select and deliver personalized content, such as news articles and videos.
     * **Ad Selection and Delivery Cookies:** These Cookies are used to collect data about your browsing habits, your use of the Services, your preferences, and your interaction with advertisements across platforms and devices for the purpose of delivering interest-based advertising content on the Services and on third-party sites. Third-party sites and services also use interest-based Advertising Cookies to deliver content, including advertisements relevant to your interests on the Services and third-party services. If you reject these Cookies, you may see contextual advertising that may be less relevant to you.
-
 * **Social Media Cookies:** These Cookies are set by social media platforms on the Services to enable you to share content with your friends and networks. Social media platforms have the ability to track your online activity outside of the Services. This may impact the content and messages you see on other services you visit.
 
 We and third parties may associate Measurement And Analytics Cookies, Personalization Cookies, Content Selection, Delivery Cookies, and Reporting, Ad Selection, Delivery and Reporting Cookies, and Social Media Cookies with other information we have about you.
