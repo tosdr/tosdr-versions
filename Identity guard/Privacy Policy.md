@@ -426,7 +426,7 @@ September 1, 2023: Reflected new capabilities of the Aura services
 
 [![Download on the App Store](https://cdn.prod.website-files.com/607724b2ae76e535db9552ff/621ed13afc9b66f951f246ef_appstore.svg)](https://apps.apple.com/us/app/aura-protect-your-identity/id1547735089)[![Get it on Google Play](https://cdn.prod.website-files.com/607724b2ae76e535db9552ff/621ed13af2bd35b1e7edf2ec_googleplay.svg)](https://play.google.com/store/apps/details?id=com.aura.suite)
 
-[Help](https://www.identityguard.com/help)[Digital Security 101](https://www.identityguard.com/digital-security-101)[Contact](https://www.identityguard.com/contact)[Corporate Responsibility](https://www.identityguard.com/aura-cares)
+[Help](https://help.aura.com/s/)[Digital Security 101](https://www.identityguard.com/digital-security-101)[Contact](https://www.identityguard.com/contact)[Corporate Responsibility](https://www.identityguard.com/aura-cares)
 
 Corporate Responsibility
 
