@@ -391,7 +391,7 @@ Explore Our Bestsellers
 
 Bestseller
 
-35% Kit Savings](https://www.blueland.com/products/the-clean-suite)
+34% Kit Savings](https://www.blueland.com/products/the-clean-suite)
 
 [Clean Suite Kit](https://www.blueland.com/products/the-clean-suite)$98
 
