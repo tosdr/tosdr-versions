@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/politiek/obamas-geboorte-akte-wel-degelijk-vals/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/gezondheid/fluoride-hoe-gek-moet-het-worden/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
