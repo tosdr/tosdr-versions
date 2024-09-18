@@ -94,6 +94,7 @@ Information ->](https://wire.com/en/license-information)
 * [Compliance](https://wire.com/en/compliance)
 * [Emergency Collaboration](https://wire.com/en/emergency-communication)
 * [Restricted Environments](https://wire-com.sandbox.hs-sites-eu1.com/en/restricted-environments)
+* [Integrations](https://wire.com/en/integrations)
 * [Non-Profit Organizations](https://wire.com/en/non-profit-organizations)
 
 ### Resources
