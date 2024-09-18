@@ -20,7 +20,7 @@ privacy
 
  ![Search](/theme_japantimes/images/search_icon.svg)
 
-[September 18, 2024](https://www.japantimes.co.jp/archive/2024/09/18/ "archive page")
+[September 19, 2024](https://www.japantimes.co.jp/archive/2024/09/19/ "archive page")
 
  [![The Japan Times](/theme_japantimes/images/logo-white-2.png)](https://www.japantimes.co.jp/ "The Japan Times")
 
@@ -463,25 +463,25 @@ Revised June 1, 2022
 
 * Editors' Picks
 
-['Shogun' becomes first non-English-language winner of best drama Emmy](https://www.japantimes.co.jp/culture/2024/09/16/tv-streaming/emmy-awards-shogun/ "'Shogun' becomes first non-English-language winner of best drama Emmy")
-
-  [![Japanese actress Anna Sawai, winner of the outstanding lead actress in a drama series award for "Shogun," and Japanese actor Hiroyuki Sanada, winner of the outstanding lead actor in a drama series award for the show, pose in the press room during the 76th Emmy Awards in Los Angeles on Sunday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/16/421939.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Japanese actress Anna Sawai, winner of the outstanding lead actress in a drama series award for "Shogun," and Japanese actor Hiroyuki Sanada, winner of the outstanding lead actor in a drama series award for the show, pose in the press room during the 76th Emmy Awards in Los Angeles on Sunday.")](https://www.japantimes.co.jp/culture/2024/09/16/tv-streaming/emmy-awards-shogun/ "'Shogun' becomes first non-English-language winner of best drama Emmy")
-
-[Chris Broad's new bar puts cocktails first, YouTube second](https://www.japantimes.co.jp/life/2024/09/15/food-drink/lost-bar-chris-broad-abroad-in-japan-shibuya/ "Chris Broad's new bar puts cocktails first, YouTube second")
-
-  [![A self-proclaimed lover of great cocktails, YouTuber Chris Broad says his new Shibuya watering hole is more a place to get yourself a solid drink than it is anything related to his social media career.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/13/421419.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "A self-proclaimed lover of great cocktails, YouTuber Chris Broad says his new Shibuya watering hole is more a place to get yourself a solid drink than it is anything related to his social media career.")](https://www.japantimes.co.jp/life/2024/09/15/food-drink/lost-bar-chris-broad-abroad-in-japan-shibuya/ "Chris Broad's new bar puts cocktails first, YouTube second")
-
-[Yamaha Motor president slashed with knife by daughter](https://www.japantimes.co.jp/news/2024/09/17/japan/crime-legal/yamaha-motor-pres-knife-attack/ "Yamaha Motor president slashed with knife by daughter")
-
-  [![Yamaha Motor said it would not comment on an alleged knife attack on its president as it is a private matter and the investigation is ongoing.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/17/422115.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Yamaha Motor said it would not comment on an alleged knife attack on its president as it is a private matter and the investigation is ongoing.")](https://www.japantimes.co.jp/news/2024/09/17/japan/crime-legal/yamaha-motor-pres-knife-attack/ "Yamaha Motor president slashed with knife by daughter")
-
 [Japan set to hold rates steady as yen rallies and LDP candidates stump](https://www.japantimes.co.jp/business/2024/09/17/economy/boj-preview-september-2024/ "Japan set to hold rates steady as yen rallies and LDP candidates stump")
 
   [![The Bank of Japan is holding its policy board meeting this week.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/17/422217.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "The Bank of Japan is holding its policy board meeting this week.")](https://www.japantimes.co.jp/business/2024/09/17/economy/boj-preview-september-2024/ "Japan set to hold rates steady as yen rallies and LDP candidates stump")
 
+[Deaths among elderly people using electric wheelchairs on the rise](https://www.japantimes.co.jp/news/2024/09/17/japan/elderly-electric-wheelchairs/ "Deaths among elderly people using electric wheelchairs on the rise")
+
+  [![A re-creation of a scene in which an electric wheelchair tire has become stuck in a gutter](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/17/422220.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "A re-creation of a scene in which an electric wheelchair tire has become stuck in a gutter")](https://www.japantimes.co.jp/news/2024/09/17/japan/elderly-electric-wheelchairs/ "Deaths among elderly people using electric wheelchairs on the rise")
+
 [How Intel lost the Sony PlayStation business](https://www.japantimes.co.jp/business/2024/09/17/tech/intel-lost-sony-playstation-contract/ "How Intel lost the Sony PlayStation business")
 
   [![Intel in 2022 lost out on a contract to design and fabricate the chip for Sony’s next-generation PlayStation 6.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/17/422101.JPG?v=3.1&w=400&q=100&f=jpg&t=1.2 "Intel in 2022 lost out on a contract to design and fabricate the chip for Sony’s next-generation PlayStation 6.")](https://www.japantimes.co.jp/business/2024/09/17/tech/intel-lost-sony-playstation-contract/ "How Intel lost the Sony PlayStation business")
+
+[Mount Fuji restrictions reduce dangerous overnight climbs](https://www.japantimes.co.jp/news/2024/09/17/japan/mount-fuji-restrictions-results/ "Mount Fuji restrictions reduce dangerous overnight climbs")
+
+  [![Hikers pass through a temporary gate set up at the fifth station of the Yoshida Trail on Mount Fuji in Yamanashi Prefecture in July.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/17/422121.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Hikers pass through a temporary gate set up at the fifth station of the Yoshida Trail on Mount Fuji in Yamanashi Prefecture in July.")](https://www.japantimes.co.jp/news/2024/09/17/japan/mount-fuji-restrictions-results/ "Mount Fuji restrictions reduce dangerous overnight climbs")
+
+[LDP presidential hopefuls lay out priorities for PM in online debate](https://www.japantimes.co.jp/news/2024/09/17/japan/politics/ldp-debate-about-priorities/ "LDP presidential hopefuls lay out priorities for PM in online debate")
+
+  [![Candidates for the Liberal Democratic Party presidential election take part in a debate in Tokyo on Saturday. On Monday evening, they took part in an online debate, during which they each made a case for what the top priority should be for Japan's next prime minister.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/17/422245.JPG?v=3.1&w=400&q=100&f=jpg&t=1.2 "Candidates for the Liberal Democratic Party presidential election take part in a debate in Tokyo on Saturday. On Monday evening, they took part in an online debate, during which they each made a case for what the top priority should be for Japan's next prime minister.")](https://www.japantimes.co.jp/news/2024/09/17/japan/politics/ldp-debate-about-priorities/ "LDP presidential hopefuls lay out priorities for PM in online debate")
 
 [‘Shogun’ and the painstaking art of ‘getting it right’](https://www.japantimes.co.jp/culture/2024/09/16/tv-streaming/shogun-emmys-authentic-portrayal/ "‘Shogun’ and the painstaking art of ‘getting it right’")
 
@@ -564,25 +564,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
+[Mitsubishi to provide H3 rockets for France's Eutelsat from 2027](https://www.japantimes.co.jp/business/2024/09/18/mitsubishi-eutelsat-h3/ "Mitsubishi to provide H3 rockets for France's Eutelsat from 2027")
+
+2 hours ago
+
+[Taiwanese and Hungarian firms deny making Hezbollah pagers](https://www.japantimes.co.jp/news/2024/09/18/world/hezbollah-pagers-taiwan-hungary/ "Taiwanese and Hungarian firms deny making Hezbollah pagers")
+
+3 hours ago
+
+[Overseas visitors hit record high for August at 2.9 million](https://www.japantimes.co.jp/news/2024/09/18/japan/august-visitor-numbers/ "Overseas visitors hit record high for August at 2.9 million")
+
+4 hours ago
+
 [Puberulic acid confirmed as source of _beni kōji_ health issues](https://www.japantimes.co.jp/news/2024/09/18/japan/science-health/beni-koji-puberulic-acid-to-blame/ "Puberulic acid confirmed as source of beni kōji health issues")
 
-1 hours ago
+7 hours ago
 
 [Ishii to head Komeito in first leadership change in 15 years](https://www.japantimes.co.jp/news/2024/09/18/japan/politics/komeito-new-head/ "Ishii to head Komeito in first leadership change in 15 years")
 
-1 hours ago
-
-[LDP leader candidates split on separate surnames for married couples](https://www.japantimes.co.jp/news/2024/09/18/japan/politics/ldp-separate-surnames/ "LDP leader candidates split on separate surnames for married couples")
-
-1 hours ago
-
-[How Asia is bracing for Fed’s imminent shift to rate cuts](https://www.japantimes.co.jp/business/2024/09/18/economy/asia-fed-shift-rate-cuts/ "How Asia is bracing for Fed’s imminent shift to rate cuts")
-
-1 hours ago
-
-[Chinese carrier sails between Japanese islands near Taiwan for first time](https://www.japantimes.co.jp/news/2024/09/18/japan/china-aircraft-carrier-japan-yonaguni/ "Chinese carrier sails between Japanese islands near Taiwan for first time")
-
-1 hours ago
+7 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
