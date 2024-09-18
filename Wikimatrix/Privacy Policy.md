@@ -16,8 +16,6 @@ Compare Them All](https://www.wikimatrix.org/)
 
 [![](/display/7/468_60/2b487300a7fe2c89e4e66959c3ef5014)](http://www.kontextwork.de/?ad=wm)
 
-[![](/display/7/250_250/dde7487b7647ca4726370c5e7dad2d9a)](https://drupal-wiki.com/de/?wikimatrix=wm1g)
-
 Privacy Policy
 ==============
 
