@@ -469,7 +469,7 @@ Sherman Oaks, CA 91403
 
 ![TubeBuddy logo](/wp-content/themes/luis/assets/images/logo_dark_bg.svg)
 
-Our mission is to become your best buddy in the creator economy so you can rely on us to help you grow.
+Our Mission is to make you and the rest of the YouTube Community a happier, more productive bunch.
 
 * [YouTube
     
@@ -488,7 +488,7 @@ Our mission is to become your best buddy in the creator economy so you can rely 
     
     ADD US ON](https://www.linkedin.com/company/tubebuddy-com/)
 
-Made with   ![TubeBuddy Love](/wp-content/themes/luis/assets/images/social_media/heart.svg)   by TubeBuddy as part of [BENlabs](https://www.benlabs.com/)
+Made with   ![TubeBuddy Love](/wp-content/themes/luis/assets/images/social_media/heart.svg)   and part of [BENlabs](https://www.benlabs.com/)
 
 * [Terms Of Use](https://www.tubebuddy.com/termsofuse)
 * [Privacy](https://www.tubebuddy.com/privacy)
