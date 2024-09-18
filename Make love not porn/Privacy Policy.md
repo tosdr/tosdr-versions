@@ -5,8 +5,6 @@ Toggle navigation menu[![Make Love Not Porn](/build/_assets/logo-BF3LB7Y4.webp)M
 * Share Social Sex
 * Learn More
 
-Toggle theme
-
 [Sign in](https://makelovenotporn.tv/login)[Sign up
 
 Create Account](https://makelovenotporn.tv/register)
@@ -157,4 +155,4 @@ Pro-sex. Pro-porn. Pro-knowing the difference.
 
 © 2024 MakeLoveNotPorn. All rights reserved.
 
-Version: ec7c288 - production
+Version: dfc5c11 - production
