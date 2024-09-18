@@ -210,11 +210,11 @@ Recently Played
 
 |     |
 | --- |
-| Need A FavorJelly Roll<br><br>4:57am |
-| Gonna Love YouParmalee<br><br>4:54am |
-| Shes CountryJason Aldean<br><br>4:50am |
-| Whatcha See Is Whatcha GetChris Janson<br><br>4:48am |
-| One Bad HabitTim Mcgraw<br><br>4:40am |
+| I Am Not OkayJelly Roll<br><br>11:38am |
+| Whiskey On YouNate Smith<br><br>11:35am |
+| CowgirlsMorgan Wallen Ft Ernest<br><br>11:32am |
+| Ain'T No Love In OklahomaLuke Combs<br><br>11:28am |
+| Last NameCarrie Underwood<br><br>11:24am |
 
 [View Full Playlist](https://www.987thebull.com/recently-played)
 
@@ -358,21 +358,21 @@ State
 Featured Brands
 ---------------
 
-[![Live 95.5 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBFF.png)](https://www.live955.com/)
+[![Latino 106.3 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBMG.png)](https://www.latinosaltlake.com/)
 
-Top 40 • Pacific NW
+Spanish • Western
 
-[![Bay Country Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/BayCountry-BothFrequencies-DK%20(2).png)](https://www.kbaycountry.com/)
+[![98.5 The Bull Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KDES.png)](https://www.985thebull.com/)
 
 Country • Western
+
+[![Panhandle Sports Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/KVWE-Logo-RedBlack-Dk.png)](https://www.panhandlesportsstar.com/)
+
+Sports • Midwest
 
 [![News-Talk 1480 WHBC Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WHBCAM.png)](https://www.whbc.com/)
 
 News Talk • Eastern
-
-[![Latino 106.3 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBMG.png)](https://www.latinosaltlake.com/)
-
-Spanish • Western
 
 [](https://www.alphamediausa.com/)
 
