@@ -40,7 +40,8 @@
     
     * [Training](https://www.ncfe.org.uk/qualifications/delivery-support/training/)
         * [Professional Development Week](https://www.ncfe.org.uk/qualifications/delivery-support/professional-development-support/)
-        * [Request training and support visits](https://www.ncfe.org.uk/qualifications/delivery-support/training/request-support-visits/)
+        * [Request bespoke training](https://www.ncfe.org.uk/qualifications/delivery-support/training/request-bespoke-training/)
+        * [Request support visits](https://www.ncfe.org.uk/qualifications/preparing-for-eqa/request-eqa-support-visit/)
         * [Upcoming training events](https://www.ncfe.org.uk/qualifications/preparing-for-eqa/iqa-training/)
     * [E-portfolio](https://www.ncfe.org.uk/qualifications/delivery-support/e-portfolio/)
         
@@ -99,6 +100,8 @@
     * [Direct claim status (DCS)](https://www.ncfe.org.uk/qualifications/preparing-for-eqa/direct-claims-status/)
         * [Transferring DCS](https://www.ncfe.org.uk/qualifications/preparing-for-eqa/direct-claims-status/transferring-dcs/)
     * [Request a support visit](https://www.ncfe.org.uk/qualifications/preparing-for-eqa/request-eqa-support-visit/)
+        
+    * [Request bespoke training](https://www.ncfe.org.uk/qualifications/delivery-support/training/request-bespoke-training/)
         
     * [Assessor training](https://www.ncfe.org.uk/qualifications/preparing-for-eqa/assessor-training/)
         
