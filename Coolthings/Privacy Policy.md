@@ -95,6 +95,11 @@
     
     [See All](https://www.coolthings.com/house/)
     
+    [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/the-best-wi-fi-wireless-speakers-to-enjoy-room-filling-sound-in-your-home/)
+    
+    [The Best Wi-Fi Wireless Speakers to Enjoy Room-Filling Sound in Your Home](https://www.coolthings.com/the-best-wi-fi-wireless-speakers-to-enjoy-room-filling-sound-in-your-home/)
+    ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+    
     [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/the-best-kamado-grills-to-bring-versatile-fuel-efficient-cooking-to-your-backyard/)
     
     [The Best Kamado Grills to Bring Versatile, Fuel-Efficient Cooking to Your Backyard](https://www.coolthings.com/the-best-kamado-grills-to-bring-versatile-fuel-efficient-cooking-to-your-backyard/)
@@ -104,11 +109,6 @@
     
     [Morphy Richards Ductless Portable AC Eliminates the Need to Expel Hot Air from the AC](https://www.coolthings.com/morphy-richards-ductless-portable-ac-airconditioner-vent-free/)
     ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-    
-    [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/glasst-unpaint-peelable-architectural-paint-dries-into-elastic-film/)
-    
-    [Glasst Unpaint Lets You Paint Your House in One Color and Peel it All Off When You Get Bored](https://www.coolthings.com/glasst-unpaint-peelable-architectural-paint-dries-into-elastic-film/)
-    -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
     
     * [FURNITURE](https://www.coolthings.com/house/furniture/)
     * [KITCHEN](https://www.coolthings.com/kitchen-dining/)
