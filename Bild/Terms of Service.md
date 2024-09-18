@@ -205,28 +205,6 @@ Menü
     ===
     
 
-[BreakingNews
-
-Wieder Explosion in Köln
-
-Wieder Explosion in Köln
-
-Wieder Explosion in Köln
-
-Wieder Explosion in Köln
-
-Wieder Explosion in Köln
-
-Wieder Explosion in Köln
-
-Wieder Explosion in Köln
-
-Wieder Explosion in Köln
-
-Wieder Explosion in Köln
-
-Wieder Explosion in Köln](https://www.bild.de/news/medienberichte-wieder-explosion-in-koeln-66ea6047a833da18957d8de0)
-
 ![](https://bild.met.vgwort.de/na/vgzm.2150080-5d2dc01ff1d2cd00016421a8)
 
  AGB: Nutzungsbedingungen für die digitalen Angebote von BILD
