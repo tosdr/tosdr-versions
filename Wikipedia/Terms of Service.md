@@ -1,4 +1,4 @@
-[Translate this page](https://wikimediafoundation.org/w/index.php?title=Special:Translate&group=page-Policy%3ATerms+of+Use&action=page&filter= "Special:Translate")
+[Translate this page](https://wikimediafoundation.org/w/index.php?title=Special:Translate&group=page-Policy%3ATerms+of+Use&action=page&filter=&action_source=translate_page "Special:Translate")
 
 Other languages:
 
@@ -93,7 +93,7 @@ Other languages:
 * [मराठी](https://wikimediafoundation.org/wiki/Policy:Terms_of_Use/mr "Policy:Terms of Use/mr (19% translated)")
 * [हिन्दी](https://wikimediafoundation.org/wiki/Policy:Terms_of_Use/hi "Policy:Terms of Use/hi (94% translated)")
 * [অসমীয়া](https://wikimediafoundation.org/wiki/Policy:Terms_of_Use/as "Policy:Terms of Use/as (0% translated)")
-* [বাংলা](https://wikimediafoundation.org/wiki/Policy:Terms_of_Use/bn "Policy:Terms of Use/bn (20% translated)")
+* [বাংলা](https://wikimediafoundation.org/wiki/Policy:Terms_of_Use/bn "Policy:Terms of Use/bn (28% translated)")
 * [ਪੰਜਾਬੀ](https://wikimediafoundation.org/wiki/Policy:Terms_of_Use/pa "Policy:Terms of Use/pa (23% translated)")
 * [ગુજરાતી](https://wikimediafoundation.org/wiki/Policy:Terms_of_Use/gu "Policy:Terms of Use/gu (9% translated)")
 * [தமிழ்](https://wikimediafoundation.org/wiki/Policy:Terms_of_Use/ta "Policy:Terms of Use/ta (6% translated)")
