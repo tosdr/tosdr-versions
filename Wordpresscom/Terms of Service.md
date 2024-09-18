@@ -50,7 +50,7 @@ Index
 Terms of Service
 
 * _Last Updated: June 18, 2024_
-* [**Change log**](https://wordpress.com/tos-change-log)
+* [Change log](https://wordpress.com/tos-change-log)
 * [Print friendly version](https://en.support.wordpress.com/wp-content/uploads/2024/06/tos-june-18-2024.pdf)
 
 The Gist
@@ -515,6 +515,6 @@ Automattic may assign its rights under the Agreement without condition. You may 
 * [Do Not Sell or Share My Personal Information](#)
 * [Privacy Notice for California Users](https://automattic.com/privacy/#california-consumer-privacy-act-ccpa)
 
-An [Automattic](https://automattic.com/) Opus
+An [Automattic](https://automattic.com/) Invention
 
 ![](https://pixel.wp.com/b.gif?v=noscript)
