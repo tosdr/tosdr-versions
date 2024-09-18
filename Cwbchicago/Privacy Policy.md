@@ -242,6 +242,16 @@ We have included on the pages of this website a robots meta tag with the “noai
 
 This privacy policy was created in party by using [Termly’s Privacy Policy Generator](https://termly.io/products/privacy-policy-generator/?ftseo).
 
+[![](https://cwbchicago.com/wp-content/uploads/2024/09/2300-block-west-eastwood-chicago-326x245.jpg)](https://cwbchicago.com/2024/09/16-year-old-shot-near-western-brown-line-station.html "16-year-old shot near Western Brown Line station")
+
+Lincoln Square
+
+### [16-year-old shot near Western Brown Line station](https://cwbchicago.com/2024/09/16-year-old-shot-near-western-brown-line-station.html "16-year-old shot near Western Brown Line station")
+
+[September 16, 2024 7:13 AM](https://cwbchicago.com/2024/09)
+
+A 16-year-old boy was shot in Lincoln Square on Sunday evening, Chicago police said.[](https://cwbchicago.com/2024/09/16-year-old-shot-near-western-brown-line-station.html "16-year-old shot near Western Brown Line station")
+
 [![](https://cwbchicago.com/wp-content/uploads/2024/09/3100-W-Luis-Munoz-Marin-326x245.jpg)](https://cwbchicago.com/2024/09/gang-fight-leaves-1-dead-2-injured-inside-humboldt-park.html "Gang fight leaves 1 dead, 2 injured inside Humboldt Park")
 
 Humboldt Park
@@ -261,16 +271,6 @@ Lakeview
 [September 15, 2024 9:45 AM](https://cwbchicago.com/2024/09)
 
 A parolee has been charged with taking merchandise worth more than $30,000 during three raids on Lululemon stores in Lakeview and the West Loop.[](https://cwbchicago.com/2024/09/serial-lululemon-robber-charged-after-cops-recognize-his-white-sox-tattoo-on-surveillance-video.html "Serial Lululemon robber charged after cops recognize his White Sox tattoo on surveillance video")
-
-[![](https://cwbchicago.com/wp-content/uploads/2024/09/1001-West-Belmont-map-chicago-326x245.jpg)](https://cwbchicago.com/2024/09/rideshare-passenger-and-man-shot-near-belmont-red-line-station.html "Rideshare passenger among 2 shot near Belmont Red Line station")
-
-Lakeview
-
-### [Rideshare passenger among 2 shot near Belmont Red Line station](https://cwbchicago.com/2024/09/rideshare-passenger-and-man-shot-near-belmont-red-line-station.html "Rideshare passenger among 2 shot near Belmont Red Line station")
-
-[September 15, 2024 6:41 AM](https://cwbchicago.com/2024/09)
-
-A rideshare passenger suffered a graze wound to her forehead overnight in Lakeview.[](https://cwbchicago.com/2024/09/rideshare-passenger-and-man-shot-near-belmont-red-line-station.html "Rideshare passenger among 2 shot near Belmont Red Line station")
 
 Search
 
