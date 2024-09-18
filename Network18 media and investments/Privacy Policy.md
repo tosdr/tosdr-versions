@@ -77,14 +77,14 @@ CHANGE LANGUAGE
 * [Astrology](https://www.news18.com/astrology/)
 * [Studio18](https://www.news18.com/studio18/)
 
-[Latest News](https://www.news18.com/news/)[Elections](https://www.news18.com/elections/)[US Elections](https://www.news18.com/topics/us-election-2024/)[Showsha](https://www.news18.com/entertainment/)[ISL 2024-25](https://www.news18.com/football/indian-super-league/)[EPL 2024](https://www.news18.com/football/epl-english-premier-league/)[Movie Reviews](https://www.news18.com/entertainment/movie-reviews/)[Podcast](https://www.news18.com/podcast/)[Explainers](https://www.news18.com/explainers/)[Sports](https://www.news18.com/sports/)[Tech](https://www.news18.com/tech/)[Auto](https://www.news18.com/auto/)[Photos](https://www.news18.com/photogallery/)
+[Latest News](https://www.news18.com/news/)[Elections](https://www.news18.com/elections/)[US Elections](https://www.news18.com/topics/us-election-2024/)[Showsha](https://www.news18.com/entertainment/)[ISL 2024-25](https://www.news18.com/football/indian-super-league/)[EPL 2024-25](https://www.news18.com/football/epl-english-premier-league/)[Movie Reviews](https://www.news18.com/entertainment/movie-reviews/)[Podcast](https://www.news18.com/podcast/)[Explainers](https://www.news18.com/explainers/)[Sports](https://www.news18.com/sports/)[Tech](https://www.news18.com/tech/)[Auto](https://www.news18.com/auto/)[Photos](https://www.news18.com/photogallery/)
 
 * [Latest News](https://www.news18.com/news/)
 * [Elections](https://www.news18.com/elections/)
 * [US Elections](https://www.news18.com/topics/us-election-2024/)
 * [Showsha](https://www.news18.com/entertainment/)
 * [ISL 2024-25](https://www.news18.com/football/indian-super-league/)
-* [EPL 2024](https://www.news18.com/football/epl-english-premier-league/)
+* [EPL 2024-25](https://www.news18.com/football/epl-english-premier-league/)
 * [Movie Reviews](https://www.news18.com/entertainment/movie-reviews/)
 * [Podcast](https://www.news18.com/podcast/)
 * [Explainers](https://www.news18.com/explainers/)
