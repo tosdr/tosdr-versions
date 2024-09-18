@@ -231,9 +231,9 @@ Games you might like
 
 [Draw This 2](https://lagged.com/en/g/drawthis2) ![Draw This 2 Game](https://imgs2.dab3games.com/draw-this-2-game-ft.png)
 
-[Choir](https://lagged.com/en/g/choir) ![Choir Game](https://imgs2.dab3games.com/choir-big.png)
-
 [Lemon Opera](https://lagged.com/en/g/lemon-opera) ![Lemon Opera Game](https://imgs2.dab3games.com/lemon-opera-ft.png)
+
+[Choir](https://lagged.com/en/g/choir) ![Choir Game](https://imgs2.dab3games.com/choir-big.png)
 
 [Magic Piano Tiles](https://lagged.com/en/g/magic-piano-tiles) ![Magic Piano Tiles Game](https://imgs2.dab3games.com/magic-piano-tiles-ft17.png)
 
@@ -241,9 +241,9 @@ Games you might like
 
 [Thief Puzzle](https://lagged.com/en/g/thief-puzzle) ![Thief Puzzle Game](https://imgs2.dab3games.com/thief-puzzle-game-online-big.png) top rated
 
-[Stretchy Snacks](https://lagged.com/en/g/stretchy-snacks) ![Stretchy Snacks Game](https://imgs2.dab3games.com/stretchy-snacks-big.png)
-
 [Toilet Race](https://lagged.com/en/g/toilet-race) ![Toilet Race Game](https://imgs2.dab3games.com/toilet-race-game-big.png)
+
+[Stretchy Snacks](https://lagged.com/en/g/stretchy-snacks) ![Stretchy Snacks Game](https://imgs2.dab3games.com/stretchy-snacks-big.png)
 
 [Minecraft Online](https://lagged.com/en/g/minecraft-online) ![Minecraft Online Game](https://imgs2.dab3games.com/minecraft-game-online-ft.png)
 
@@ -251,7 +251,7 @@ Games you might like
 
 [Poppy Playtime Chapter 2](https://lagged.com/en/g/poppy-playtime-chapter-2) ![Poppy Playtime Chapter 2 Game](https://imgs2.dab3games.com/poppy-playtime-ch2-ft.png)
 
-[Marble Run 3D](https://lagged.com/en/g/marble-run-3d739) ![Marble Run 3D Game](https://imgs2.dab3games.com/marble-run-3d-ft1942.png)
+[Suika Game: Watermelon](https://lagged.com/en/g/suika-game-watermelon) ![Suika Game: Watermelon Game](https://imgs2.dab3games.com/suika-game-watermelon-ft32.png) top rated
 
 [Lagged.com](https://lagged.com/ "Lagged.com")
 
