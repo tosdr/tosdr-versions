@@ -718,6 +718,15 @@ Powered By
 
 ### Other top stories on FutureLearn
 
+* [![data scientist at work](https://cdn-wordpress-info.futurelearn.com/wp-content/uploads/Untitled-design-89-150x150.png)](https://www.futurelearn.com/info/blog/data-science-degree-guide)
+    
+    [A complete guide to data science degrees](https://www.futurelearn.com/info/blog/data-science-degree-guide)
+    -----------------------------------------------------------------------------------------------------------
+    
+    Thinking about taking an online data science degree to learn specialist knowledge and improve your …
+    
+    Category: [Data Science](https://www.futurelearn.com/info/data-science), [Degrees](https://www.futurelearn.com/info/faq/degrees)
+    
 * [![two students in class](https://cdn-wordpress-info.futurelearn.com/wp-content/uploads/Untitled-design-88-150x150.png)](https://www.futurelearn.com/info/blog/embrace-multilingual-education)
     
     [How to embrace multilingual education](https://www.futurelearn.com/info/blog/embrace-multilingual-education)
@@ -742,15 +751,6 @@ Powered By
     Thinking about taking an online economics degree to learn specialist knowledge and improve your career …
     
     Category: [Degrees](https://www.futurelearn.com/info/faq/degrees)
-    
-* [![healthcare student](https://cdn-wordpress-info.futurelearn.com/wp-content/uploads/Untitled-design-85-150x150.png)](https://www.futurelearn.com/info/blog/healthcare-masters-degree-types)
-    
-    [Types of master’s degrees in healthcare](https://www.futurelearn.com/info/blog/healthcare-masters-degree-types)
-    ----------------------------------------------------------------------------------------------------------------
-    
-    Discover the most popular master’s degrees in healthcare, and find out how one can help …
-    
-    Category: [Degrees](https://www.futurelearn.com/info/faq/degrees), [Healthcare & Medicine](https://www.futurelearn.com/info/healthcare-medicine)
     
 
 ### Register for free to receive relevant updates on courses and news from FutureLearn.
