@@ -111,10 +111,8 @@
     * [Health Care](https://www.paycom.com/who-we-help/health-care/)
     * [Hospitality](https://www.paycom.com/who-we-help/hospitality/)
     * [Manufacturing](https://www.paycom.com/who-we-help/manufacturing/)
-    * [Nonprofits](https://www.paycom.com/who-we-help/nonprofits/)
     * [Professional Services](https://www.paycom.com/who-we-help/professional-services/)
     * [Retailers](https://www.paycom.com/who-we-help/retailers/)
-    * [Supply Chain](https://www.paycom.com/who-we-help/supply-chain/)
     * [Technology](https://www.paycom.com/who-we-help/technology/)
     
 * [About Us](https://www.paycom.com/about/)
@@ -246,12 +244,10 @@
     * [Franchises](https://www.paycom.com/who-we-help/franchises/)
     * [Health Care](https://www.paycom.com/who-we-help/health-care/)
     * [Hospitality](https://www.paycom.com/who-we-help/hospitality/)
-    * [Manufacturing](https://www.paycom.com/who-we-help/manufacturing/)
     
-    * [Nonprofits](https://www.paycom.com/who-we-help/nonprofits/)
+    * [Manufacturing](https://www.paycom.com/who-we-help/manufacturing/)
     * [Professional Services](https://www.paycom.com/who-we-help/professional-services/)
     * [Retailers](https://www.paycom.com/who-we-help/retailers/)
-    * [Supply Chain](https://www.paycom.com/who-we-help/supply-chain/)
     * [Technology](https://www.paycom.com/who-we-help/technology/)
     
     * [Payroll](https://www.paycom.com/who-we-help/enterprise-business/payroll-software/)
