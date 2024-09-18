@@ -235,7 +235,7 @@ Sponsored
 ### Support & Services
 
 * [Visit our Support Center](https://www.bestbuy.com/support)
-* [Shop with an Expert](https://www.bestbuy.com/services/triage/shopping)
+* [Connect with an Expert](https://www.bestbuy.com/services/triage/shopping)
 * [Schedule a Service](https://www.bestbuy.com/services/triage/home)
 * [Manage an Appointment](https://www.bestbuy.com/dossier/service/appointmentfinder)
 * [Protection & Support Plans](https://www.bestbuy.com/site/electronics/services/pcmcat1528819595254.c?id=pcmcat1528819595254)
