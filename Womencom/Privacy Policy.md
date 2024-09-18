@@ -43,47 +43,71 @@
 * [Newsletter](https://subscribe.women.com/newsletter "Newsletter")
 * [Advertise](https://static.com/advertise "Advertise")
 
-*  [![Taylor Swift on the red carpet](https://www.women.com/img/gallery/6-love-lessons-weve-learned-from-taylor-swift/intro-1726249267.jpg)](https://www.women.com/1665299/love-lessons-learned-taylor-swift/)
+*  [![Kylie Jenner and Timotheé Chalamet at an event](https://www.women.com/img/gallery/red-flags-in-kylie-jenner-and-timothe-chalamets-relationship/intro-1726508612.jpg)](https://www.women.com/1665832/red-flags-kylie-jenner-timothee-chalamet-relationship/)
     
     [Relationships](https://www.women.com/category/relationships/)
     
-    [Relationships](https://www.women.com/category/relationships/) By Emily Hutchinson
+    [Relationships](https://www.women.com/category/relationships/) By Bernadette Roe
     
-    [6 Love Lessons We've Learned From Taylor Swift](https://www.women.com/1665299/love-lessons-learned-taylor-swift/)
-    ==================================================================================================================
+    [Red Flags In Kylie Jenner And Timotheé Chalamet's Relationship](https://www.women.com/1665832/red-flags-kylie-jenner-timothee-chalamet-relationship/)
+    ======================================================================================================================================================
     
-    Along with giving us music to relate to, Taylor Swift has taught fans around the world countless lessons about love and heartbreak.
+    Kylie Jenner and Timothee Chalamet might seem like the perfect Hollywood couple, but a closer look at the pair's relationship reveals some glaring red flags.
     
-    By Emily Hutchinson [Read More](https://www.women.com/1665299/love-lessons-learned-taylor-swift/)
+    By Bernadette Roe [Read More](https://www.women.com/1665832/red-flags-kylie-jenner-timothee-chalamet-relationship/)
     
-* *  [![](https://www.women.com/img/gallery/how-to-steal-the-witchy-90s-aesthetic-from-practical-magic/intro-1726509329.jpg)](https://www.women.com/1665826/steal-witchy-90s-aesthetic-practical-magic/)
+* *  [![Joe Jonas with Sophie Turner](https://www.women.com/img/gallery/sophie-turner-is-stepping-up-her-style-game-post-joe-jonas-divorce/intro-1726617067.jpg)](https://www.women.com/1667245/sophie-turner-style-post-divorce-joe-jonas/)
         
         [Fashion](https://www.women.com/category/fashion/)
         
-        [Fashion](https://www.women.com/category/fashion/) By Amanda Chatel
+        [Fashion](https://www.women.com/category/fashion/) By Emily Hutchinson
         
-        ### [How To Steal The Witchy '90s Aesthetic From Practical Magic](https://www.women.com/1665826/steal-witchy-90s-aesthetic-practical-magic/)
+        ### [Sophie Turner Is Stepping Up Her Style Game Post-Joe Jonas Divorce](https://www.women.com/1667245/sophie-turner-style-post-divorce-joe-jonas/)
         
-        The iconic looks in 90s movie "Practical Magic" are the perfect fashion inspo for fall. Embrace the witchy aesthetic with vintage jewelry and velvet.
+        After divorcing Joe Jonas, Sophie Turner is burnin' up on the fashion scene. Here's how the actor's style has evolved after her relationship.
         
-        By Amanda Chatel [Read More](https://www.women.com/1665826/steal-witchy-90s-aesthetic-practical-magic/)
+        By Emily Hutchinson [Read More](https://www.women.com/1667245/sophie-turner-style-post-divorce-joe-jonas/)
         
-    *  [![](https://www.women.com/img/gallery/6-celebrity-memoirs-that-are-actually-great-well-written-books/intro-1726506825.jpg)](https://www.women.com/1665746/celebrity-memoirs-great-well-written-books/)
+    *  [![Taylor Swift on the red carpet](https://www.women.com/img/gallery/6-love-lessons-weve-learned-from-taylor-swift/intro-1726249267.jpg)](https://www.women.com/1665299/love-lessons-learned-taylor-swift/)
         
-        [Living](https://www.women.com/category/living/)
+        [Relationships](https://www.women.com/category/relationships/)
         
-        [Living](https://www.women.com/category/living/) By Bernadette Roe
+        [Relationships](https://www.women.com/category/relationships/) By Emily Hutchinson
         
-        ### [6 Celebrity Memoirs That Are Actually Great, Well-Written Books](https://www.women.com/1665746/celebrity-memoirs-great-well-written-books/)
+        ### [6 Love Lessons We've Learned From Taylor Swift](https://www.women.com/1665299/love-lessons-learned-taylor-swift/)
         
-        Celebrity memoirs can range from really good to really bad. Among the best are recollections by Paris Hilton, Viola Davis, and Tom Felton.
+        Along with giving us music to relate to, Taylor Swift has taught fans around the world countless lessons about love and heartbreak.
         
-        By Bernadette Roe [Read More](https://www.women.com/1665746/celebrity-memoirs-great-well-written-books/)
+        By Emily Hutchinson [Read More](https://www.women.com/1665299/love-lessons-learned-taylor-swift/)
         
 
 More Stories
 ------------
 
+*  [![practical magic](https://www.women.com/img/gallery/how-to-steal-the-witchy-90s-aesthetic-from-practical-magic/intro-1726509329.jpg)](https://www.women.com/1665826/steal-witchy-90s-aesthetic-practical-magic/)
+    
+    [Fashion](https://www.women.com/category/fashion/)
+    
+    [Fashion](https://www.women.com/category/fashion/) By Amanda Chatel
+    
+    ### [How To Steal The Witchy '90s Aesthetic From Practical Magic](https://www.women.com/1665826/steal-witchy-90s-aesthetic-practical-magic/)
+    
+    The iconic looks in 90s movie "Practical Magic" are the perfect fashion inspo for fall. Embrace the witchy aesthetic with vintage jewelry and velvet.
+    
+    By Amanda Chatel [Read More](https://www.women.com/1665826/steal-witchy-90s-aesthetic-practical-magic/)
+    
+*  [![Paris Hilton at an event](https://www.women.com/img/gallery/6-celebrity-memoirs-that-are-actually-great-well-written-books/intro-1726506825.jpg)](https://www.women.com/1665746/celebrity-memoirs-great-well-written-books/)
+    
+    [Living](https://www.women.com/category/living/)
+    
+    [Living](https://www.women.com/category/living/) By Bernadette Roe
+    
+    ### [6 Celebrity Memoirs That Are Actually Great, Well-Written Books](https://www.women.com/1665746/celebrity-memoirs-great-well-written-books/)
+    
+    Celebrity memoirs can range from really good to really bad. Among the best are recollections by Paris Hilton, Viola Davis, and Tom Felton.
+    
+    By Bernadette Roe [Read More](https://www.women.com/1665746/celebrity-memoirs-great-well-written-books/)
+    
 *  [![Halloween-inspired nails](https://www.women.com/img/gallery/5-halloween-inspired-manicures-for-short-nails/intro-1726494767.jpg)](https://www.women.com/1662530/halloween-inspired-manicures-short-nails/)
     
     [Beauty](https://www.women.com/category/beauty/)
@@ -383,30 +407,6 @@ More Stories
     While Jenna Ortega looks gorgeous in any shade, she thrives in black -- which is fortunate, because she's got styling the goth hue down to a science.
     
     By Emily Hutchinson [Read More](https://www.women.com/1656588/jenna-ortega-goth-glam-red-carpet-looks/)
-    
-*  [![Gently Soap on YouTube](https://www.women.com/img/gallery/heres-what-went-down-with-gently-soap-after-shark-tank/intro-1725407519.jpg)](https://www.women.com/1656561/what-went-down-with-gently-soap-after-shark-tank/)
-    
-    [Beauty](https://www.women.com/category/beauty/)
-    
-    [Beauty](https://www.women.com/category/beauty/) By Bernadette Roe
-    
-    ### [Here's What Went Down With Gently Soap After Shark Tank](https://www.women.com/1656561/what-went-down-with-gently-soap-after-shark-tank/)
-    
-    Kristen Dunning found an effective and natural way to soothe her skin and eczema, and wanted to do the same for others. Thus, Gently was born.
-    
-    By Bernadette Roe [Read More](https://www.women.com/1656561/what-went-down-with-gently-soap-after-shark-tank/)
-    
-*  [![cutesy and demure manicure](https://www.women.com/img/gallery/x-cutesy-demure-nail-ideas-we-love/intro-1725390426.jpg)](https://www.women.com/1656269/cutesy-demure-nail-ideas/)
-    
-    [Beauty](https://www.women.com/category/beauty/)
-    
-    [Beauty](https://www.women.com/category/beauty/) By Amanda Chatel
-    
-    ### [5 Cutesy, Demure Nail Ideas We Love](https://www.women.com/1656269/cutesy-demure-nail-ideas/)
-    
-    See how we paint our nails with simple, classy colors? We don't need a lot of flashy glitter or embellishments. Our manicures are mindful and demure.
-    
-    By Amanda Chatel [Read More](https://www.women.com/1656269/cutesy-demure-nail-ideas/)
     
 
 Back
