@@ -116,7 +116,7 @@ Menu [![VORO MOTORS](//www.voromotors.com/cdn/shop/files/logo_white_410x.png?v=1
         * [Contact Us](https://www.voromotors.com/pages/contact-us)
     *  [](#)
 * [Community](https://forum.voromotors.com/public/)
-* [Login](https://account.voromotors.com/?locale=en)
+* [Login](https://www.voromotors.com/customer_identity/redirect?locale=en)
 * English
     
     * English
@@ -622,6 +622,6 @@ English
 
 © 2024 [VORO MOTORS](https://www.voromotors.com/).
 
-PayPal Venmo
+American Express Diners Club Discover Mastercard PayPal Shop Pay Venmo Visa
 
  Search
