@@ -21,7 +21,7 @@ Using information available, combined with skills acquired, can help make good d
 [Free Sphero Session: Cross-Curricular Learning with BOLT+ on 10/2! Attend for a chance to win a BOLT+. Register Now >](https://sphero.zoom.us/webinar/register/9317259816716/WN_WMJZnnITRAWckeZy2J0gsw#/registration)
 
 * Shop
-* Teacher Resources
+* Educator Resources
 * Funding & Grants
 * Sphero Global Challenge
 
@@ -59,7 +59,7 @@ Back
 
 Back
 
-* [Teacher Resources](https://sphero.com/pages/educators)
+* [Educator Resources](https://sphero.com/pages/educators)
 * Sphero Central
 * [Lessons & Resources](https://edu.sphero.com/landing)
 * [indi](https://edu.sphero.com/indi)
@@ -170,7 +170,7 @@ Cart/Quote](https://sphero.com/cart)
     * [High School](https://sphero.com/collections/all/grade_high-school)
     
     * [Shop All](https://sphero.com/collections/all)
-* [Teacher Resources](https://sphero.com/pages/educators)
+* [Educator Resources](https://sphero.com/pages/educators)
     * Sphero Central
     * [Lessons & Resources](https://edu.sphero.com/landing)
     * [indi](https://edu.sphero.com/indi)
