@@ -343,7 +343,7 @@ Stay in touch
 * [Linkedin ![Go To Linkedin](/sites/default/files/styles/footer_icon/public/footer/icon-menu/linkedin_0.png.webp?itok=oWwIb-bE "Linkedin")](https://www.linkedin.com/school/universita-bocconi/) 
 * [Youtube ![Go to Youtube](/sites/default/files/styles/footer_icon/public/footer/icon-menu/youtube.png.webp?itok=8F3uxcIQ "Youtube")](https://www.youtube.com/user/UniBocconi) 
 * [Instagram ![Go to Instagram](/sites/default/files/styles/footer_icon/public/footer/icon-menu/instagram_0.png.webp?itok=T4tCicO3 "Instagram")](https://www.instagram.com/unibocconi/) 
-* [Tiktok ![Go to Tiktok](/sites/default/files/styles/footer_icon/public/footer/icon-menu/tiktok.png.webp?itok=d1yjTdEa "Tiktok")](https://www.tiktok.com/@unibocconi/) 
+* [Tiktok ![Go to Tiktok](/sites/default/files/styles/footer_icon/public/footer/icon-menu/tiktok.png.webp?VersionId=0W7_H00nRnjsHdyp0KJ1pM5Q6q91J_p5&itok=d1yjTdEa "Tiktok")](https://www.tiktok.com/@unibocconi/) 
 * [Weechat ![Go to Weechat](/sites/default/files/styles/footer_icon/public/footer/icon-menu/wechat_0.png.webp?VersionId=IDR8phqUToLxsnsz2jym..L33wqj0f_G&itok=C_uORqlC "Weechat")](https://weechat.org/) 
 
 Listen to our podcast
