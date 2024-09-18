@@ -205,24 +205,25 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [Profiles in Scourging II: Scourge Harder](https://www.somethingawful.com/news/wright-osama-buchanan/1/)
-* [Edges2Cats! \[And Shoes, And Facades, And Handbags...\]](https://www.somethingawful.com/photoshop-phriday/pix2pix-generated-images/)
-* [Yahoo Answers, Colbert Nation, and Christian Teen Forum](https://www.somethingawful.com/weekend-web/answers-colbert-christians/1/)
-* [Cutelette 2: CUT3L3TT3](https://www.somethingawful.com/flash-tub/cutelette-2-cartoon/)
-* [Apple's Last Great Computer: The Plastic MacBook](https://www.somethingawful.com/news/macbook-plastic-apple/)
+* [That Insidious Beast: Field Dominance](https://www.somethingawful.com/news/insidious-beast-london/1/)
+* [No Limit Album Covers](https://www.somethingawful.com/photoshop-phriday/no-limit-albums/1/)
+* [A Very Star Wars Valentines](https://www.somethingawful.com/photoshop-phriday/very-star-wars/1/)
+* [Vampiyaz](https://www.somethingawful.com/movie-reviews/vampiyaz/1/)
 
 ### Popular Threads
 
+* ![](https://fi.somethingawful.com/forums/posticons/byob-gents.gif) [Who is the least creepy celebrity?](http://forums.somethingawful.com/showthread.php?threadid=4070612 "Who is the least creepy celebrity?")
+* ![](https://fi.somethingawful.com/forums/posticons/byob-grumpy.gif) [What's it like being on an extremely short flight?](http://forums.somethingawful.com/showthread.php?threadid=4070619 "What's it like being on an extremely short flight?")
 * ![](https://fi.somethingawful.com/forums/posticons/LF-article.gif) [Jazzed on this sick ass test I saw advertised on youtube](http://forums.somethingawful.com/showthread.php?threadid=4070606 "Jazzed on this sick ass test I saw advertised on youtube")
 * ![](https://fi.somethingawful.com/forums/posticons/byob-grumpy.gif) [Whats it like being in an extremely long fight?](http://forums.somethingawful.com/showthread.php?threadid=4070598 "Whats it like being in an extremely long fight?")
 
 ### Random Articles
 
-* [TruthMedia Review: Star Wars Episode Two: Attack of The Clones](https://www.somethingawful.com/truth-media-reviews/truthmedia-review-star/)
-* [Blue Stripe: The Life and Times of a Replicator Repairman](https://www.somethingawful.com/news/blue-stripe-life/)
-* [Duke Nukem Forever Will Turn You into a Stripper](https://www.somethingawful.com/feature-articles/duke-nukem-stripper/)
-* [A Message From Toad](https://www.somethingawful.com/video-game-article/toad-president-message/)
-* [State Og Update: 12.04.04](https://www.somethingawful.com/state-og/state-og-update-92/)
+* [Been Longin' for Bin Laden](https://www.somethingawful.com/news/new-bin-laden/1/)
+* [Juggernaut for Quake 2](https://www.somethingawful.com/game-reviews/juggernaut-for-quake/)
+* [I Hate You Page 164](https://www.somethingawful.com/cliff-yablonski/i-hate-you-164/)
+* [G2k's Star Trek vs. Star Wars Tech Assessment](https://www.somethingawful.com/awful-links/awful-link-1227/)
+* [The Spin Zone](https://www.somethingawful.com/awful-links/awful-link-2927/)
 
 [Random!](https://www.somethingawful.com/random/)
 
