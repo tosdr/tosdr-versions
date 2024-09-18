@@ -19,6 +19,18 @@
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![Stock image (London Fire Brigade)](https://southwarknews.co.uk/wp-content/uploads/2024/09/stock-logo-fire-engine-2-london-fire-brigade-360x180.jpg)](https://southwarknews.co.uk/area/dulwich/flat-catches-fire-in-east-dulwich/)
+    
+    ### [Flat catches fire in East Dulwich](https://southwarknews.co.uk/area/dulwich/flat-catches-fire-in-east-dulwich/)
+    
+    [![Locals did a double take as Madame Tussauds London’s Prince Harry figure was spotted at the Duke of Sussex pub in Peckam (4)](https://southwarknews.co.uk/wp-content/uploads/2024/09/Locals-did-a-double-take-as-Madame-Tussauds-Londons-Prince-Harry-figure-was-spotted-at-the-Duke-of-Sussex-pub-in-Peckam-4-360x180.jpeg)](https://southwarknews.co.uk/area/peckham/prince-harry-and-meghan-markle-waxworks-escapes-from-madame-tussauds-for-birthday-pint-at-peckham-pub/)
+    
+    ### [Prince Harry waxwork escapes from Madame Tussauds for birthday pint at Peckham pub](https://southwarknews.co.uk/area/peckham/prince-harry-and-meghan-markle-waxworks-escapes-from-madame-tussauds-for-birthday-pint-at-peckham-pub/)
+    
+    [![CCTV footage shared by the farm showed a figure dumping a bag on the farm. Credit: Surrey Docks Farm](https://southwarknews.co.uk/wp-content/uploads/2024/09/CCTV-footage-shared-by-the-farm-showed-a-figure-dumping-a-bag-on-the-farm.-Credit-Surrey-Docks-Farm-360x180.png)](https://southwarknews.co.uk/area/rotherhithe/pets-abandoned-at-rotherhithe-farm-killed-by-foxes/)
+    
+    ### [Pets abandoned at Rotherhithe farm killed by foxes](https://southwarknews.co.uk/area/rotherhithe/pets-abandoned-at-rotherhithe-farm-killed-by-foxes/)
+    
     [![England footballing heros John Stones and Peter Shilton attended The Salvation Army's annual Partnership Trophy in 2023](https://southwarknews.co.uk/wp-content/uploads/2024/09/England-footballing-heros-John-Stones-and-Peter-Shilton-attended-The-Salvation-Armys-annual-Partnership-Trophy-in-2023-360x180.jpeg)](https://southwarknews.co.uk/area/camberwell/homeless-camberwell-teens-to-play-in-football-tournament-admired-by-pep-guardiola/)
     
     ### [Homeless Camberwell teens to play in football tournament admired by Pep Guardiola](https://southwarknews.co.uk/area/camberwell/homeless-camberwell-teens-to-play-in-football-tournament-admired-by-pep-guardiola/)
@@ -42,18 +54,6 @@
     [![Left to right: Judith Butler, Nazanin Zagharri-Ratcliffe, Robert Popper](https://southwarknews.co.uk/wp-content/uploads/2024/09/Left-to-right-Judith-Butler-Nazanin-Zagharri-Ratcliffe-Robert-Popper-360x180.png)](https://southwarknews.co.uk/area/south-bank/southbank-centre-announces-winter-literature-season-line-up/)
     
     ### [Southbank Centre announces Winter Literature Season line-up](https://southwarknews.co.uk/area/south-bank/southbank-centre-announces-winter-literature-season-line-up/)
-    
-    [![The Stoney Street entrance to Borough Market. Credit: Southwark Liberal Democrats](https://southwarknews.co.uk/wp-content/uploads/2024/09/PXL_20240903_141010252.MP_-e1726565110180-360x180.jpeg)](https://southwarknews.co.uk/area/borough/1-million-anti-terrorism-barriers-for-borough-market-ditched-in-big-win-for-traders/)
-    
-    ### [£1 million anti-terrorism barriers for Borough Market ditched in ‘big win’ for traders](https://southwarknews.co.uk/area/borough/1-million-anti-terrorism-barriers-for-borough-market-ditched-in-big-win-for-traders/)
-    
-    [![Southwark Council HQ on Tooley Street. Photo from Google Street View](https://southwarknews.co.uk/wp-content/uploads/2024/06/Southwark-Council-HQ-on-Tooley-Street.-Photo-from-Google-Street-View-1-360x180.jpg)](https://southwarknews.co.uk/area/southwark/unexpected-success-of-southwark-councils-green-investment-scheme-sees-new-funding-round-launched/)
-    
-    ### [Unexpected success of Southwark Council’s green investment scheme sees new funding round launched](https://southwarknews.co.uk/area/southwark/unexpected-success-of-southwark-councils-green-investment-scheme-sees-new-funding-round-launched/)
-    
-    [![Miatta Fahnbulleh (second from left) visited the store to thank workers.](https://southwarknews.co.uk/wp-content/uploads/2024/09/Southwark-Food-Bank-Morrisons-1-1-360x180.png)](https://southwarknews.co.uk/area/peckham/morrisons-supermarket-becomes-latest-donor-to-burgled-peckham-food-bank-with-1000-contribution/)
-    
-    ### [Morrisons supermarket becomes latest donor to burgled Peckham food bank with £1,000 contribution](https://southwarknews.co.uk/area/peckham/morrisons-supermarket-becomes-latest-donor-to-burgled-peckham-food-bank-with-1000-contribution/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [In depth history](https://southwarknews.co.uk/category/history/in-depth-history/)
@@ -99,6 +99,18 @@ View All Result
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![Stock image (London Fire Brigade)](https://southwarknews.co.uk/wp-content/uploads/2024/09/stock-logo-fire-engine-2-london-fire-brigade-360x180.jpg)](https://southwarknews.co.uk/area/dulwich/flat-catches-fire-in-east-dulwich/)
+    
+    ### [Flat catches fire in East Dulwich](https://southwarknews.co.uk/area/dulwich/flat-catches-fire-in-east-dulwich/)
+    
+    [![Locals did a double take as Madame Tussauds London’s Prince Harry figure was spotted at the Duke of Sussex pub in Peckam (4)](https://southwarknews.co.uk/wp-content/uploads/2024/09/Locals-did-a-double-take-as-Madame-Tussauds-Londons-Prince-Harry-figure-was-spotted-at-the-Duke-of-Sussex-pub-in-Peckam-4-360x180.jpeg)](https://southwarknews.co.uk/area/peckham/prince-harry-and-meghan-markle-waxworks-escapes-from-madame-tussauds-for-birthday-pint-at-peckham-pub/)
+    
+    ### [Prince Harry waxwork escapes from Madame Tussauds for birthday pint at Peckham pub](https://southwarknews.co.uk/area/peckham/prince-harry-and-meghan-markle-waxworks-escapes-from-madame-tussauds-for-birthday-pint-at-peckham-pub/)
+    
+    [![CCTV footage shared by the farm showed a figure dumping a bag on the farm. Credit: Surrey Docks Farm](https://southwarknews.co.uk/wp-content/uploads/2024/09/CCTV-footage-shared-by-the-farm-showed-a-figure-dumping-a-bag-on-the-farm.-Credit-Surrey-Docks-Farm-360x180.png)](https://southwarknews.co.uk/area/rotherhithe/pets-abandoned-at-rotherhithe-farm-killed-by-foxes/)
+    
+    ### [Pets abandoned at Rotherhithe farm killed by foxes](https://southwarknews.co.uk/area/rotherhithe/pets-abandoned-at-rotherhithe-farm-killed-by-foxes/)
+    
     [![England footballing heros John Stones and Peter Shilton attended The Salvation Army's annual Partnership Trophy in 2023](https://southwarknews.co.uk/wp-content/uploads/2024/09/England-footballing-heros-John-Stones-and-Peter-Shilton-attended-The-Salvation-Armys-annual-Partnership-Trophy-in-2023-360x180.jpeg)](https://southwarknews.co.uk/area/camberwell/homeless-camberwell-teens-to-play-in-football-tournament-admired-by-pep-guardiola/)
     
     ### [Homeless Camberwell teens to play in football tournament admired by Pep Guardiola](https://southwarknews.co.uk/area/camberwell/homeless-camberwell-teens-to-play-in-football-tournament-admired-by-pep-guardiola/)
@@ -122,18 +134,6 @@ View All Result
     [![Left to right: Judith Butler, Nazanin Zagharri-Ratcliffe, Robert Popper](https://southwarknews.co.uk/wp-content/uploads/2024/09/Left-to-right-Judith-Butler-Nazanin-Zagharri-Ratcliffe-Robert-Popper-360x180.png)](https://southwarknews.co.uk/area/south-bank/southbank-centre-announces-winter-literature-season-line-up/)
     
     ### [Southbank Centre announces Winter Literature Season line-up](https://southwarknews.co.uk/area/south-bank/southbank-centre-announces-winter-literature-season-line-up/)
-    
-    [![The Stoney Street entrance to Borough Market. Credit: Southwark Liberal Democrats](https://southwarknews.co.uk/wp-content/uploads/2024/09/PXL_20240903_141010252.MP_-e1726565110180-360x180.jpeg)](https://southwarknews.co.uk/area/borough/1-million-anti-terrorism-barriers-for-borough-market-ditched-in-big-win-for-traders/)
-    
-    ### [£1 million anti-terrorism barriers for Borough Market ditched in ‘big win’ for traders](https://southwarknews.co.uk/area/borough/1-million-anti-terrorism-barriers-for-borough-market-ditched-in-big-win-for-traders/)
-    
-    [![Southwark Council HQ on Tooley Street. Photo from Google Street View](https://southwarknews.co.uk/wp-content/uploads/2024/06/Southwark-Council-HQ-on-Tooley-Street.-Photo-from-Google-Street-View-1-360x180.jpg)](https://southwarknews.co.uk/area/southwark/unexpected-success-of-southwark-councils-green-investment-scheme-sees-new-funding-round-launched/)
-    
-    ### [Unexpected success of Southwark Council’s green investment scheme sees new funding round launched](https://southwarknews.co.uk/area/southwark/unexpected-success-of-southwark-councils-green-investment-scheme-sees-new-funding-round-launched/)
-    
-    [![Miatta Fahnbulleh (second from left) visited the store to thank workers.](https://southwarknews.co.uk/wp-content/uploads/2024/09/Southwark-Food-Bank-Morrisons-1-1-360x180.png)](https://southwarknews.co.uk/area/peckham/morrisons-supermarket-becomes-latest-donor-to-burgled-peckham-food-bank-with-1000-contribution/)
-    
-    ### [Morrisons supermarket becomes latest donor to burgled Peckham food bank with £1,000 contribution](https://southwarknews.co.uk/area/peckham/morrisons-supermarket-becomes-latest-donor-to-burgled-peckham-food-bank-with-1000-contribution/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [In depth history](https://southwarknews.co.uk/category/history/in-depth-history/)
@@ -366,14 +366,26 @@ Website
 
 [12th September 2024](https://southwarknews.co.uk/area/peckham/peckham-festival-starts-on-friday-and-the-programme-of-events-is-massive/)
 
-[![Fenstanton Primary School in Tulse Hill, South London will close from September 2026 under council plans.
-Image from Google Street View](https://southwarknews.co.uk/wp-content/uploads/2024/09/Fenstanton-Primary-School-120x86.jpg)](https://southwarknews.co.uk/area/camberwell/two-south-london-primary-schools-set-to-close-while-four-more-will-be-merged/)
+[![Christine Rixon, 75, and Paul Rixon, 76, shown on Bromley High Street.
+Photo by  Joe Coughlan.](https://southwarknews.co.uk/wp-content/uploads/2024/09/Christine-and-Paul-Rixon-120x86.jpg)](https://southwarknews.co.uk/area/south-london/pensioners-in-south-london-disgusted-by-governments-cut-to-winter-fuel-payments/)
 
-### [Two South London primary schools set to close while four more will be merged](https://southwarknews.co.uk/area/camberwell/two-south-london-primary-schools-set-to-close-while-four-more-will-be-merged/)
+### [Pensioners in South London ‘disgusted’ by Government’s cut to Winter Fuel Payments](https://southwarknews.co.uk/area/south-london/pensioners-in-south-london-disgusted-by-governments-cut-to-winter-fuel-payments/)
 
-[10th September 2024](https://southwarknews.co.uk/area/camberwell/two-south-london-primary-schools-set-to-close-while-four-more-will-be-merged/)
+[15th September 2024](https://southwarknews.co.uk/area/south-london/pensioners-in-south-london-disgusted-by-governments-cut-to-winter-fuel-payments/)
 
 ### Featured Articles
+
+[![Locals did a double take as Madame Tussauds London’s Prince Harry figure was spotted at the Duke of Sussex pub in Peckam (4)](https://southwarknews.co.uk/wp-content/uploads/2024/09/Locals-did-a-double-take-as-Madame-Tussauds-Londons-Prince-Harry-figure-was-spotted-at-the-Duke-of-Sussex-pub-in-Peckam-4-120x86.jpeg)](https://southwarknews.co.uk/area/peckham/prince-harry-and-meghan-markle-waxworks-escapes-from-madame-tussauds-for-birthday-pint-at-peckham-pub/)
+
+### [Prince Harry waxwork escapes from Madame Tussauds for birthday pint at Peckham pub](https://southwarknews.co.uk/area/peckham/prince-harry-and-meghan-markle-waxworks-escapes-from-madame-tussauds-for-birthday-pint-at-peckham-pub/)
+
+[18th September 2024](https://southwarknews.co.uk/area/peckham/prince-harry-and-meghan-markle-waxworks-escapes-from-madame-tussauds-for-birthday-pint-at-peckham-pub/)
+
+[![CCTV footage shared by the farm showed a figure dumping a bag on the farm. Credit: Surrey Docks Farm](https://southwarknews.co.uk/wp-content/uploads/2024/09/CCTV-footage-shared-by-the-farm-showed-a-figure-dumping-a-bag-on-the-farm.-Credit-Surrey-Docks-Farm-120x86.png)](https://southwarknews.co.uk/area/rotherhithe/pets-abandoned-at-rotherhithe-farm-killed-by-foxes/)
+
+### [Pets abandoned at Rotherhithe farm killed by foxes](https://southwarknews.co.uk/area/rotherhithe/pets-abandoned-at-rotherhithe-farm-killed-by-foxes/)
+
+[18th September 2024](https://southwarknews.co.uk/area/rotherhithe/pets-abandoned-at-rotherhithe-farm-killed-by-foxes/)
 
 [![England footballing heros John Stones and Peter Shilton attended The Salvation Army's annual Partnership Trophy in 2023](https://southwarknews.co.uk/wp-content/uploads/2024/09/England-footballing-heros-John-Stones-and-Peter-Shilton-attended-The-Salvation-Armys-annual-Partnership-Trophy-in-2023-120x86.jpeg)](https://southwarknews.co.uk/area/camberwell/homeless-camberwell-teens-to-play-in-football-tournament-admired-by-pep-guardiola/)
 
@@ -398,18 +410,6 @@ Image from Google Street View](https://southwarknews.co.uk/wp-content/uploads/20
 ### [London’s first LGBTQ+ cinema is set to open in a Bermondsey](https://southwarknews.co.uk/area/bermondsey/londons-first-lgbtq-cinema-is-set-to-open-in-a-bermondsey/)
 
 [17th September 2024](https://southwarknews.co.uk/area/bermondsey/londons-first-lgbtq-cinema-is-set-to-open-in-a-bermondsey/)
-
-[![JD Wetherspoon has applied for a license at 50 Tooley Street. Image: Google](https://southwarknews.co.uk/wp-content/uploads/2024/09/JD-Wetherspoon-has-applied-for-a-license-at-50-Tooley-Street.-Image-Google-120x86.png)](https://southwarknews.co.uk/area/borough/wetherspoons-to-open-pub-in-former-london-dungeon/)
-
-### [Wetherspoons to open pub in former London Dungeon](https://southwarknews.co.uk/area/borough/wetherspoons-to-open-pub-in-former-london-dungeon/)
-
-[17th September 2024](https://southwarknews.co.uk/area/borough/wetherspoons-to-open-pub-in-former-london-dungeon/)
-
-[![Left to right: Judith Butler, Nazanin Zagharri-Ratcliffe, Robert Popper](https://southwarknews.co.uk/wp-content/uploads/2024/09/Left-to-right-Judith-Butler-Nazanin-Zagharri-Ratcliffe-Robert-Popper-120x86.png)](https://southwarknews.co.uk/area/south-bank/southbank-centre-announces-winter-literature-season-line-up/)
-
-### [Southbank Centre announces Winter Literature Season line-up](https://southwarknews.co.uk/area/south-bank/southbank-centre-announces-winter-literature-season-line-up/)
-
-[17th September 2024](https://southwarknews.co.uk/area/south-bank/southbank-centre-announces-winter-literature-season-line-up/)
 
 ### USEFUL PAGES
 
