@@ -228,11 +228,11 @@ It's Not News, It's Fark
 
 [Report](https://www.fark.com/farkback/)
 
-Want to see behind the curtain? Try
+If you like these links, you'll love
 
 ![TotalFark](https://img.fark.net/images/2017/site/totalfark_logo_2017.png)
 
-It's how we feed the squirrel
+All the submissions, none of the calories.
 
 [learn more](https://www.fark.com/farq/about/#What_is_TotalFark) | [sign up](https://www.fark.com/totalfarksignup)
 
@@ -332,16 +332,16 @@ Also on Fark
 
 |     |     |
 | --- | --- |
-| [Main](https://www.fark.com/) | [Schoolboy who liked Minecraft and may have been bullied goes on knife-and-hammer rampage during physics class, wounding four, one gravely. Apparently it's hard for a teenager to buy an AR-15 in Russia](https://www.fark.com/goto/13397218) ( [dailymail.co.uk](https://www.fark.com/goto/13397218) ) » [(0 comments)](https://www.fark.com/comments/13397218/Schoolboy-who-liked-Minecraft-may-have-been-bullied-goes-on-knife-hammer-rampage-during-physics-class-wounding-four-one-gravely-Apparently-its-hard-for-a-teenager-to-buy-an-AR-15-in-Russia) |
-| [Discussion](https://www.fark.com/discussion/) | [The Tuesday Night Science Channel Discussion Thread, 9PM Eastern](https://www.fark.com/goto/13396338) ( [fark.com](https://www.fark.com/goto/13396338) ) » [(78 comments)](https://www.fark.com/comments/13396338/The-Tuesday-Night-Science-Channel-Discussion-Thread-9PM-Eastern) |
-| [Sports](https://www.fark.com/sports/) | [Jerry actually thinks the Cowboys will make the playoffs this year](https://www.fark.com/goto/13396984) ( [nbcsports.com](https://www.fark.com/goto/13396984) ) » [(11 comments)](https://www.fark.com/comments/13396984/Jerry-actually-thinks-Cowboys-will-make-playoffs-this-year) |
-| [Business](https://www.fark.com/business/) | [Southern Baptist Convention selling its Nashville headquarters to cover legal fees, judgments for several sexual assault, harassment cases involving its president, other officials](https://www.fark.com/goto/13397196) ( [al.com](https://www.fark.com/goto/13397196) ) » [(6 comments)](https://www.fark.com/comments/13397196/Southern-Baptist-Convention-selling-its-Nashville-headquarters-to-cover-legal-fees-judgments-for-several-sexual-assault-harassment-cases-involving-its-president-other-officials) |
-| [STEM](https://www.fark.com/stem/) | [Jiggity](https://www.fark.com/goto/13396628) ( [wired2fish.com](https://www.fark.com/goto/13396628) ) » [(4 comments)](https://www.fark.com/comments/13396628/Jiggity) |
-| [Entertainment](https://www.fark.com/entertainment/) | [And LOTS of butt stuff](https://www.fark.com/goto/13397244) ( [yahoo.com](https://www.fark.com/goto/13397244) ) » [(3 comments)](https://www.fark.com/comments/13397244/And-LOTS-of-butt-stuff) |
-| [Fandom](https://www.fark.com/fandom/) | [Men in Black could have been much, much worse](https://www.fark.com/goto/13397216) ( [hollywoodreporter.com](https://www.fark.com/goto/13397216) ) » [(10 comments)](https://www.fark.com/comments/13397216/Men-in-Black-could-have-been-much-much-worse) |
+| [Main](https://www.fark.com/) | [People are dying to go to Neptune Memorial Reef](https://www.fark.com/goto/13397274) ( [clickorlando.com](https://www.fark.com/goto/13397274) ) » [(5 comments)](https://www.fark.com/comments/13397274/People-are-dying-to-go-to-Neptune-Memorial-Reef) |
+| [Discussion](https://www.fark.com/discussion/) | ["I love my new family but my boyfriend's ex-wife is threatening to ruin it all. What do?"](https://www.fark.com/goto/13397404) ( [slate.com](https://www.fark.com/goto/13397404) ) » [(4 comments)](https://www.fark.com/comments/13397404/I-love-my-new-family-but-my-boyfriends-ex-wife-is-threatening-to-ruin-it-all-What-do) |
+| [Sports](https://www.fark.com/sports/) | [When she sees the ring and lingerie he's sure she'll say yes this time](https://www.fark.com/goto/13397114) ( [kstp.com](https://www.fark.com/goto/13397114) ) » [(7 comments)](https://www.fark.com/comments/13397114/When-she-sees-ring-lingerie-hes-sure-shell-say-yes-this-time) |
+| [Business](https://www.fark.com/business/) | [The product will likely outlast a nuclear apocalypse, but the producer might not](https://www.fark.com/goto/13397278) ( [denvergazette.com](https://www.fark.com/goto/13397278) ) » [(4 comments)](https://www.fark.com/comments/13397278/The-product-will-likely-outlast-a-nuclear-apocalypse-but-producer-might-not) |
+| [STEM](https://www.fark.com/stem/) | [It really depends on your plug](https://www.fark.com/goto/13397306) ( [lifehacker.com](https://www.fark.com/goto/13397306) ) » [(3 comments)](https://www.fark.com/comments/13397306/It-really-depends-on-your-plug) |
+| [Entertainment](https://www.fark.com/entertainment/) | [Slate writer laments that the 47th season of Survivor just doesn't have the magic anymore of seasons 1-46](https://www.fark.com/goto/13397440) ( [slate.com](https://www.fark.com/goto/13397440) ) » [(3 comments)](https://www.fark.com/comments/13397440/Slate-writer-laments-that-47th-season-of-Survivor-just-doesnt-have-magic-anymore-of-seasons-1-46) |
+| [Fandom](https://www.fark.com/fandom/) | [Sony: Announces PS5 Pro, Physical drive scalpers: Now entering the chat](https://www.fark.com/goto/13397296) ( [gamesradar.com](https://www.fark.com/goto/13397296) ) » [(2 comments)](https://www.fark.com/comments/13397296/Sony-Announces-PS5-Pro-Physical-drive-scalpers-Now-entering-chat) |
 | [D'awww](https://www.fark.com/dawww/) | [So glad I wore my brown shorts today](https://www.fark.com/goto/13396968) ( [wfsb.com](https://www.fark.com/goto/13396968) ) » [(4 comments)](https://www.fark.com/comments/13396968/So-glad-I-wore-my-brown-shorts-today) |
-| [Food](https://www.fark.com/food/) | [Beer's best friend](https://www.fark.com/goto/13396978) ( [scitechdaily.com](https://www.fark.com/goto/13396978) ) » [(12 comments)](https://www.fark.com/comments/13396978/Beers-best-friend) |
-| [Politics](https://www.fark.com/politics/) | [Multiple Tucson rally goers onstage with Trump suffered eye injuries for unknown reasons](https://www.fark.com/goto/13397232) ( [kvoa.com](https://www.fark.com/goto/13397232) ) » [(21 comments)](https://www.fark.com/comments/13397232/Multiple-Tucson-rally-goers-onstage-with-Trump-suffered-eye-injuries-for-unknown-reasons) |
+| [Food](https://www.fark.com/food/) | [If you're in Atlanta and someone says Pho Cue to you, either they haven't heard it closed, or they aren't actually saying Pho Cue](https://www.fark.com/goto/13397174) ( [roughdraftatlanta.com](https://www.fark.com/goto/13397174) ) » [(4 comments)](https://www.fark.com/comments/13397174/If-youre-in-Atlanta-someone-says-Pho-Cue-to-you-either-they-havent-heard-it-closed-they-arent-actually-saying-Pho-Cue) |
+| [Politics](https://www.fark.com/politics/) | [In other news, the DEA has offices in China](https://www.fark.com/goto/13397292) ( [apnews.com](https://www.fark.com/goto/13397292) ) » [(9 comments)](https://www.fark.com/comments/13397292/In-other-news-DEA-has-offices-in-China) |
 
 * Fark :: [Main](https://www.fark.com/) | [Discussion](https://www.fark.com/discussion/) | [Sports](https://www.fark.com/sports/) | [Business](https://www.fark.com/business/) | [STEM](https://www.fark.com/stem/) | [Entertainment](https://www.fark.com/entertainment/) | [Fandom](https://www.fark.com/fandom/) | [D'awww](https://www.fark.com/dawww/) | [Food](https://www.fark.com/food/) | [Politics](https://www.fark.com/politics/)
 * Total Fark :: [TotalFark](https://total.fark.com/) | [TF Live](https://total.fark.com/live/) | [TF Advice](https://total.fark.com/advice/) | [TF Discussion](https://total.fark.com/tfdiscussion/) | [Commented](https://total.fark.com/commented/) | [Top Voted](https://total.fark.com/linkvote/) | [Greenlit](https://total.fark.com/greenlit/)
@@ -351,7 +351,7 @@ Also on Fark
 
 [Submit a Link »](https://www.fark.com/submit/)
 
-Copyright © 1999 - 2024 Fark, Inc | Last updated: Sep 18 2024 02:42:53  
+Copyright © 1999 - 2024 Fark, Inc | Last updated: Sep 18 2024 08:42:40  
 [Contact Us via Farkback](https://www.fark.com/farkback)  |  [Report a bug/error msg](https://www.fark.com/farkback/error)  |  [Terms of service/legal/privacy policy](https://www.fark.com/farq/legal)  |  [Do Not Sell or Share My Personal Information](javascript:void(0))  
 ![](https://www.fark.com/ll)
 
