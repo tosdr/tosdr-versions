@@ -26,18 +26,16 @@
     
 * [Topics](https://www.barstoolsports.com/privacy-policy#topics)
     
-    [![Barstool Golf Time](https://chumley.barstoolsports.com/union/2024/08/09/blog_896x694.b37c8f94.jpg?crop=896%3A672%2Csmart&format=pjpg&width=3840&auto=webp&quality=85%2C75)](https://apps.apple.com/app/apple-store/id1550158305?pt=1548021&ct=bsdisplay&mt=8)
+    [![Barstool Sports Store](https://chumley.barstoolsports.com/union/2024/09/17/BarstoolSports.4cd18d23.jpg?crop=896%3A672%2Csmart&format=pjpg&width=3840&auto=webp&quality=85%2C75)](https://store.barstoolsports.com/)
     
     #### Featured
     
-    * [NEW: SKLZ](https://store.barstoolsports.com/collections/sklz-x-barstool-golf?utm_source=barstoolsports&utm_medium=referral&utm_campaign=referral_barstoolsports_site_placement_trending_topics_bar_sklz)
     * [Barstool Sports Apps](https://www.barstoolsports.com/download)
     * [Barstool.TV](https://barstool.tv/?utm_source=barstoolsports&utm_medium=referral&utm_campaign=referral_barstoolsports_site_placement_trending_topics_hover_featuredtopicblog)
     * [Rough N' Rowdy](https://buyrnr.com/?)
     * [Stella Blue Coffee](https://stellabluecoffee.com/?utm_source=stellabluecoffee.com&utm_medium=referral&utm_campaign=referral_stellabluecoffee.com_site_placement_trending_topics_hover_stellabluecoffee)
     * [Pardon My Cheesesteak](https://www.pardonmycheesesteak.com/?utm_source=barstoolsports&utm_medium=referral&utm_campaign=referral_barstoolsports_site_placement_trending_topics_hover_featuredtopicblog)
     * [Barstool Golf Time](https://barstoolgolftime.com/?utm_source=barstoolsports&utm_medium=referral&utm_campaign=referral_barstoolsports_site_placement_trending_topics_hover_featuredtopicblog)
-    * [Wicked Tea](https://drinkpiratewater.com/find-pirate-water/?utm_source=Barstool+site+serve&utm_medium=Trending&utm_id=Wicked+Tea+Launch+Display)
     * [Daily Dozen Trivia](https://www.dailydozentrivia.com/)
     
     #### Cities
@@ -103,6 +101,7 @@
     
     * [New](https://store.barstoolsports.com/collections/new-arrivals?utm_source=barstoolsports&utm_medium=referral&utm_campaign=referral_barstoolsports_site_placement_trending_topics_hover_newarrivals)
     * [Best Sellers](https://store.barstoolsports.com/collections/best-sellers-page)
+    * [Football Season](https://store.barstoolsports.com/collections/football)
     * [Shady Rays](https://store.barstoolsports.com/collections/shady-rays)
     * [Barstool x Muck](https://store.barstoolsports.com/products/barstool-sports-x-muckster-lite-clogs?variant=41784961171553)
     * [Miss Peaches](https://store.barstoolsports.com/collections/miss-peaches)
