@@ -322,11 +322,11 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 
 [Galerija umetnika](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")[](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")
 
-[![Minut cutanja povodom smrti Julija Knifera, Beograd, januar 2005. ](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/zoran-popovic-escapism/zoran-popovic-dokumenti/documents/knifer-mazestik-2.jpg?itok=684c7-_p)](http://seecult.org/galerija/galerija-umetnika/zoran-popovic-escapism/zoran-popovic-dokumentidocuments)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/dragan-ilic/people-i-dont-no-20-something/people-i-dont-houston/hjuston.jpg?itok=doHPNdww)](http://seecult.org/galerija/galerija-umetnika/dragan-ilic/people-i-dont-no-20-something/people-i-dont-houston)
 
 [Foto galerija](http://seecult.org/galerija/foto-galerija "Foto galerija")[](http://seecult.org/galerija/foto-galerija "Foto galerija")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/arhitekt.jpg?itok=7Z2cbkko)](http://seecult.org/galerija/foto-galerija/foto-arhiva)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/digitalizacija/jugoslovenska-kinoteka/kinoteka-digi7.jpg?itok=WiC1IVZE)](http://seecult.org/galerija/foto-galerija/digitalizacija/jugoslovenska-kinoteka)
 
 * [Najčitanije](#news_1)
 * [Najnovije](#news_2)
