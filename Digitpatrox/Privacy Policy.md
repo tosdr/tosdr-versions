@@ -20,16 +20,16 @@ Wednesday, September 18 2024
 
 Latest
 
+* [Sam Altman exits OpenAI commission for AI safety to create ‘independent’ oversight – Computerworld](https://digitpatrox.com/sam-altman-exits-openai-commission-for-ai-safety-to-create-independent-oversight-computerworld/)
+* [Wordle Answer for Today, September 18, 2024](https://digitpatrox.com/wordle-answer-for-today-september-18-2024/)
+* [Best Refrigerator Brands – Consumer Reports](https://digitpatrox.com/best-refrigerator-brands-consumer-reports/)
+* [The Best Apple Watches of 2024](https://digitpatrox.com/the-best-apple-watches-of-2024/)
+* [Amazon demands staff return to the office five days per week – even as employees argue against current RTO measures](https://digitpatrox.com/amazon-demands-staff-return-to-the-office-five-days-per-week-even-as-employees-argue-against-current-rto-measures/)
+* [Best International Merchant Accounts for Secure Global Payments](https://digitpatrox.com/best-international-merchant-accounts-for-secure-global-payments/)
+* [Coventry City vs Tottenham: how to live stream Carabao Cup](https://digitpatrox.com/coventry-city-vs-tottenham-how-to-live-stream-carabao-cup/)
+* [Mickey 17’s first trailer is light in tone, heavy on dead Robert Pattinsons](https://digitpatrox.com/mickey-17s-first-trailer-is-light-in-tone-heavy-on-dead-robert-pattinsons/)
+* [Today’s Wordle Answer and Hints (September 18, 2024)](https://digitpatrox.com/todays-wordle-answer-and-hints-september-18-2024/)
 * [OpenAI Strawberry: What is o1-preview and what can it do?](https://digitpatrox.com/openai-strawberry-what-is-o1-preview-and-what-can-it-do/)
-* [How Apple’s quiet visionOS update hints at its plans – Computerworld](https://digitpatrox.com/how-apples-quiet-visionos-update-hints-at-its-plans-computerworld/)
-* [Target’s ‘Circle Week’ Sale Starts Before Amazon’s October Prime Day](https://digitpatrox.com/targets-circle-week-sale-starts-before-amazons-october-prime-day/)
-* [Windows 11 24H2 release date set for September 24 (early) and October 8, 2024 (official)](https://digitpatrox.com/windows-11-24h2-release-date-set-for-september-24-early-and-october-8-2024-official/)
-* [Coolest Things Your iPhone Can Do With iOS 18 with iOS 18](https://digitpatrox.com/coolest-things-your-iphone-can-do-with-ios-18-with-ios-18/)
-* [How to See Who Is Following You on Facebook](https://digitpatrox.com/how-to-see-who-is-following-you-on-facebook/)
-* [Salesforce CEO wants to “break the hypnosis coming from vendors” on AI](https://digitpatrox.com/salesforce-ceo-wants-to-break-the-hypnosis-coming-from-vendors-on-ai/)
-* [The 6 Best Software Testing Courses in 2024](https://digitpatrox.com/the-6-best-software-testing-courses-in-2024/)
-* [How to watch ‘Agatha All Along’ online, Disney plus deal](https://digitpatrox.com/how-to-watch-agatha-all-along-online-disney-plus-deal/)
-* [In defense of the iPhone Action Button](https://digitpatrox.com/in-defense-of-the-iphone-action-button/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,35 +171,35 @@ Popular Posts
     4 weeks ago
     
 
-* [![](https://cdn.mos.cms.futurecdn.net/9944EGjar5x4f7f2oC6yL6-1200-80.jpg)](https://digitpatrox.com/openai-strawberry-what-is-o1-preview-and-what-can-it-do/)
+* [![](https://www.computerworld.com/wp-content/uploads/2024/09/3526546-0-00569800-1726625579-shutterstock_editorial_2253221991.jpg?quality=50&strip=all&w=1024)](https://digitpatrox.com/sam-altman-exits-openai-commission-for-ai-safety-to-create-independent-oversight-computerworld/)
     
-    [OpenAI Strawberry: What is o1-preview and what can it do?](https://digitpatrox.com/openai-strawberry-what-is-o1-preview-and-what-can-it-do/)
+    [Sam Altman exits OpenAI commission for AI safety to create ‘independent’ oversight – Computerworld](https://digitpatrox.com/sam-altman-exits-openai-commission-for-ai-safety-to-create-independent-oversight-computerworld/)
     
-    3 mins ago
+    12 mins ago
     
-* [![](https://www.computerworld.com/wp-content/uploads/2024/09/3526338-0-08694000-1726588900-Apple-visionOS-2-Persona-enhancements.jpg?quality=50&strip=all&w=1024)](https://digitpatrox.com/how-apples-quiet-visionos-update-hints-at-its-plans-computerworld/)
+* [![](https://lifehacker.com/imagery/articles/01J7V78BHARK91A10NS2RJZ233/hero-image.fill.size_1200x675.jpg)](https://digitpatrox.com/wordle-answer-for-today-september-18-2024/)
     
-    [How Apple’s quiet visionOS update hints at its plans – Computerworld](https://digitpatrox.com/how-apples-quiet-visionos-update-hints-at-its-plans-computerworld/)
+    [Wordle Answer for Today, September 18, 2024](https://digitpatrox.com/wordle-answer-for-today-september-18-2024/)
     
-    26 mins ago
+    37 mins ago
     
-* [![](https://lifehacker.com/imagery/articles/01J80XWD0Y6E9JF228XBNC0S0M/hero-image.fill.size_1200x675.jpg)](https://digitpatrox.com/targets-circle-week-sale-starts-before-amazons-october-prime-day/)
+* [![](https://article.images.consumerreports.org/image/upload/t_article_tout/v1711467069/prod/content/dam/CRO-Images-2024/Appliances/CR-Appliances-Inlinehero-best-fridge-brands-0324)](https://digitpatrox.com/best-refrigerator-brands-consumer-reports/)
     
-    [Target’s ‘Circle Week’ Sale Starts Before Amazon’s October Prime Day](https://digitpatrox.com/targets-circle-week-sale-starts-before-amazons-october-prime-day/)
-    
-    51 mins ago
-    
-* [![](https://pureinfotech.com/wp-content/uploads/2024/09/windows-11-24h2-final-version-hero-mauro-huculak.webp)](https://digitpatrox.com/windows-11-24h2-release-date-set-for-september-24-early-and-october-8-2024-official/)
-    
-    [Windows 11 24H2 release date set for September 24 (early) and October 8, 2024 (official)](https://digitpatrox.com/windows-11-24h2-release-date-set-for-september-24-early-and-october-8-2024-official/)
+    [Best Refrigerator Brands – Consumer Reports](https://digitpatrox.com/best-refrigerator-brands-consumer-reports/)
     
     1 hour ago
     
-* [![](https://article.images.consumerreports.org/image/upload/t_article_tout/v1726511698/prod/content/dam/CRO-Images-2024/Electronics/CR-Electronics-InlineHero-Coolest-New-Features-ios-18-0924-v2)](https://digitpatrox.com/coolest-things-your-iphone-can-do-with-ios-18-with-ios-18/)
+* [![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/11/apple-watch-ultra-alpine-loop-1.jpg)](https://digitpatrox.com/the-best-apple-watches-of-2024/)
     
-    [Coolest Things Your iPhone Can Do With iOS 18 with iOS 18](https://digitpatrox.com/coolest-things-your-iphone-can-do-with-ios-18-with-ios-18/)
+    [The Best Apple Watches of 2024](https://digitpatrox.com/the-best-apple-watches-of-2024/)
     
     1 hour ago
+    
+* [![](https://cdn.mos.cms.futurecdn.net/aWUZX3ZU2xEvVh83QL2EnS-1200-80.jpg)](https://digitpatrox.com/amazon-demands-staff-return-to-the-office-five-days-per-week-even-as-employees-argue-against-current-rto-measures/)
+    
+    [Amazon demands staff return to the office five days per week – even as employees argue against current RTO measures](https://digitpatrox.com/amazon-demands-staff-return-to-the-office-five-days-per-week-even-as-employees-argue-against-current-rto-measures/)
+    
+    2 hours ago
     
 
 ![](https://digitpatrox.com/wp-content/uploads/2023/12/Digitpatrox-NEW-Logo-White.png)
@@ -208,51 +208,51 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [3 mins ago
+* [12 mins ago
     
-    ### OpenAI Strawberry: What is o1-preview and what can it do?](https://digitpatrox.com/openai-strawberry-what-is-o1-preview-and-what-can-it-do/)
-* [26 mins ago
+    ### Sam Altman exits OpenAI commission for AI safety to create ‘independent’ oversight – Computerworld](https://digitpatrox.com/sam-altman-exits-openai-commission-for-ai-safety-to-create-independent-oversight-computerworld/)
+* [37 mins ago
     
-    ### How Apple’s quiet visionOS update hints at its plans – Computerworld](https://digitpatrox.com/how-apples-quiet-visionos-update-hints-at-its-plans-computerworld/)
-* [51 mins ago
+    ### Wordle Answer for Today, September 18, 2024](https://digitpatrox.com/wordle-answer-for-today-september-18-2024/)
+* [1 hour ago
     
-    ### Target’s ‘Circle Week’ Sale Starts Before Amazon’s October Prime Day](https://digitpatrox.com/targets-circle-week-sale-starts-before-amazons-october-prime-day/)
+    ### Best Refrigerator Brands – Consumer Reports](https://digitpatrox.com/best-refrigerator-brands-consumer-reports/)
 
 Most Popular Topics
 
-* [1 week ago
+* [2 weeks ago
     
-    ### 5 best movies like ‘Beetlejuice Beetlejuice’ to stream now](https://digitpatrox.com/5-best-movies-like-beetlejuice-beetlejuice-to-stream-now/)
-* [4 weeks ago
+    ### Why I Wish I Started Using OneDrive Sooner](https://digitpatrox.com/why-i-wish-i-started-using-onedrive-sooner/)
+* [2 weeks ago
     
-    ### Apple Vision Pro fails to ignite business interest – Computerworld](https://digitpatrox.com/apple-vision-pro-fails-to-ignite-business-interest-computerworld/)
-* [August 17, 2024
+    ### A cyber criminal group behind an MFA bypass operation promised hackers “profit within minutes” – they’re now facing lengthy jail sentences](https://digitpatrox.com/a-cyber-criminal-group-behind-an-mfa-bypass-operation-promised-hackers-profit-within-minutes-theyre-now-facing-lengthy-jail-sentences/)
+* [2 weeks ago
     
-    ### Microsoft rolls out Face Check selfie verification system – Computerworld](https://digitpatrox.com/microsoft-rolls-out-face-check-selfie-verification-system-computerworld/)
+    ### Hulu confirms its best show is returning for another season — and now is the perfect time to binge-watch](https://digitpatrox.com/hulu-confirms-its-best-show-is-returning-for-another-season-and-now-is-the-perfect-time-to-binge-watch/)
 
 Last Modified Topics
 
 * [2 hours ago
     
-    ### Salesforce CEO wants to “break the hypnosis coming from vendors” on AI](https://digitpatrox.com/salesforce-ceo-wants-to-break-the-hypnosis-coming-from-vendors-on-ai/)
-* [2 hours ago
-    
-    ### The 6 Best Software Testing Courses in 2024](https://digitpatrox.com/the-6-best-software-testing-courses-in-2024/)
+    ### Coventry City vs Tottenham: how to live stream Carabao Cup](https://digitpatrox.com/coventry-city-vs-tottenham-how-to-live-stream-carabao-cup/)
 * [3 hours ago
     
-    ### How to watch ‘Agatha All Along’ online, Disney plus deal](https://digitpatrox.com/how-to-watch-agatha-all-along-online-disney-plus-deal/)
+    ### Mickey 17’s first trailer is light in tone, heavy on dead Robert Pattinsons](https://digitpatrox.com/mickey-17s-first-trailer-is-light-in-tone-heavy-on-dead-robert-pattinsons/)
+* [3 hours ago
+    
+    ### Today’s Wordle Answer and Hints (September 18, 2024)](https://digitpatrox.com/todays-wordle-answer-and-hints-september-18-2024/)
 
 Most Viewed Topics
 
-* [August 11, 2024
+* [3 weeks ago
     
-    ### US citizen charged with aiding North Korean hackers moonlighting as tech workers](https://digitpatrox.com/us-citizen-charged-with-aiding-north-korean-hackers-moonlighting-as-tech-workers/)
-* [August 13, 2024
-    
-    ### TikTok Is Pushing Old and False News as ”Breaking” Alerts](https://digitpatrox.com/tiktok-is-pushing-old-and-false-news-as-breaking-alerts/)
+    ### Getting Your iPhone Repaired Could Ban You From Snapchat](https://digitpatrox.com/getting-your-iphone-repaired-could-ban-you-from-snapchat/)
 * [August 13, 2024
     
     ### How to manage a road trip move](https://digitpatrox.com/how-to-manage-a-road-trip-move/)
+* [4 weeks ago
+    
+    ### Wordle Answer for Today, August 21, 2024](https://digitpatrox.com/wordle-answer-for-today-august-21-2024/)
 
 © Copyright 2018 - 2024, All Rights Reserved
 
