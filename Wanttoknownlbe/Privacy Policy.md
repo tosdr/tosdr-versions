@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/nieuws/de-zegepreek-van-nigel-farage-heerlijk/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/nieuws/franse-dna-onderzoekster-en-astronaute-doet-zelfmoordpoging-wat-heeft-ze-ontdekt/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
