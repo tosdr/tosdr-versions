@@ -358,6 +358,16 @@ For good and valuable consideration, the receipt and sufficiency of which is her
 
 [Archived ToS](https://www.dnsfilter.com/terms-of-service-archived)
 
+[![Ensuring Safety from Digital Threats in Educational Environments](https://www.dnsfilter.com/hs-fs/hubfs/newsroom_ensuringsafetyfromdigitalthreatsineducationalenvironments1.webp?width=500&height=190&name=newsroom_ensuringsafetyfromdigitalthreatsineducationalenvironments1.webp)
+
+Posted on September 18, 2024 by Kory Underdown
+
+ **
+
+Ensuring Safety from Digital Threats in Educational Environments
+
+**](https://www.dnsfilter.com/blog/cipa-filtering-media-literacy-in-education)
+
 [![Creating an Over-the-Counter Cyber Defense Program](https://www.dnsfilter.com/hs-fs/hubfs/creatinganover_the_countercyberdefenseprogram1.webp?width=500&height=190&name=creatinganover_the_countercyberdefenseprogram1.webp)
 
 Posted on August 13, 2024 by TK Keanini
@@ -377,16 +387,6 @@ Posted on July 24, 2024 by TK Keanini
 Fool me once, shame on not using DNS protection
 
 **](https://www.dnsfilter.com/blog/shame-not-using-dns-protection)
-
-[![Lookalike Crowdstrike Domains Discovered by DNSFilter to Date](https://www.dnsfilter.com/hs-fs/hubfs/newsroom_lookalikecrowdstrikedomainsdiscoveredbydnsfiltertodate1.webp?width=500&height=190&name=newsroom_lookalikecrowdstrikedomainsdiscoveredbydnsfiltertodate1.webp)
-
-Posted on July 22, 2024 by Will Strafach
-
- **
-
-Lookalike Crowdstrike Domains Discovered by DNSFilter to Date
-
-**](https://www.dnsfilter.com/blog/crowdstrike-lookalike-domains)
 
 ![dnsfilter logo dark dns protection](https://www.dnsfilter.com/hubfs/raw_assets/public/Dnsfilter_March2023/images/5fda16a63a8939e688d5cc59_Layer%201.svg "dnsfilter logo dark dns protection")
 
