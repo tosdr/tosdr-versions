@@ -109,7 +109,7 @@ Back to top
 * [Tech Ready Illinois](https://techready.uillinois.edu/)
 * [Fun Facts](https://www.illinois.gov/about/fun-facts.html)
 
-[](https://www.facebook.com/GovPritzker)[](https://www.instagram.com/GovPritzker/)
+[](https://www.facebook.com/GovPritzker)[](https://twitter.com/GovPritzker)[](https://www.instagram.com/GovPritzker/)
 
 * [Web Accessibility](http://www.dhs.state.il.us/page.aspx?item=32765)
 * [Missing & Exploited Children](http://www.missingkids.com/)
