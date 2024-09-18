@@ -66,9 +66,9 @@ Any e-mail addresses are not used or collected for any purpose other than notify
 
 ### Look at this!
 
-[![2013 Elections Overview](/assets/Images/teasers/small/LegCandbyStatus.png)](http://www.followthemoney.org/research/institute-reports/2013-elections-overview/)
+[![monsanto](/assets/logos/MonsantoStateContributions2007-2012.png)](http://www.followthemoney.org/research/institute-research/names-in-the-news-monsanto)
 
-Successful incumbent candidates dominated 2013 fundraising.
+Monsanto has taken a keen interest in ballot measures.
 
   [See More Visualizations](https://www.followthemoney.org/look-at-this)
 
