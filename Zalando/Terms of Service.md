@@ -565,9 +565,9 @@ Aanbevelingen
 
 Jouw merken en creators
 
-Fashionupdates
-
 Aanbiedingen en sales
+
+Fashionupdates
 
 Bevestiging beschikbaarheidsupdate
 
