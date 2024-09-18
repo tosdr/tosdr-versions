@@ -232,39 +232,39 @@ Duplicação de trechos remanescentes da BR-101 é retomada 20 anos depois
 
 Duplicação de trechos remanescentes da BR-101 é retomada 20 anos depois](https://www.tnh1.com.br/noticia/nid/duplicacao-de-trechos-remanescentes-da-br-101-e-retomada-20-anos-depois/ "Duplicação de trechos remanescentes da BR-101 é retomada 20 anos depois")
 
-[![Suspeito de matar Ana Beatriz já foi condenado por outro crime em 2023](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/c/6/csm_homem-suspeito-morte-adolescente-ana-beatriz-reproducao-pc-al_b6d65ebe2c.png)
+[![Ator explica como lida com as reações das pessoas à sua doença rara no dia a dia](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/2/7/csm_ator-britanico-reproducao-redes-sociais_8bde67629f.jpg)
 
-Justiça
+39 anos
 
-Justiça
+39 anos
 
-Suspeito de matar Ana Beatriz já foi condenado por outro crime em 2023
+Ator explica como lida com as reações das pessoas à sua doença rara no dia a dia
 
-Suspeito de matar Ana Beatriz já foi condenado por outro crime em 2023](https://www.tnh1.com.br/noticia/nid/suspeito-de-matar-ana-beatriz-ja-foi-condenado-por-outro-crime-em-2023/ "Suspeito de matar Ana Beatriz já foi condenado por outro crime em 2023")[![Traficante alagoano é flagrado pela polícia ostentando em praia do Rio de Janeiro; veja fotos](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/e/3/csm_Still_Territorios_do_crime_9763e2056c.png)
+Ator explica como lida com as reações das pessoas à sua doença rara no dia a dia](https://www.tnh1.com.br/noticia/nid/ator-explica-como-lida-com-as-reacoes-das-pessoas-a-sua-doenca-rara-no-dia-a-dia/ "Ator explica como lida com as reações das pessoas à sua doença rara no dia a dia")[![Contas de Adolescente: Instagram vai mudar configurações para menores de 16 anos](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/e/c/csm_instagram-reproducao-pexels-pixabay_9b9b5c1b3b.png)
 
-vida de luxo
+redes sociais
 
-vida de luxo
+redes sociais
 
-Traficante alagoano é flagrado pela polícia ostentando em praia do Rio de Janeiro; veja fotos
+Contas de Adolescente: Instagram vai mudar configurações para menores de 16 anos
 
-Traficante alagoano é flagrado pela polícia ostentando em praia do Rio de Janeiro; veja fotos](https://www.tnh1.com.br/noticia/nid/traficante-alagoano-e-flagrado-pela-policia-ostentando-em-praia-do-rio-de-janeiro-veja-fotos/ "Traficante alagoano é flagrado pela polícia ostentando em praia do Rio de Janeiro; veja fotos")[![Toffoli é internado com inflamação nos pulmões](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/f/0/csm_Dias_Toffoli_2aec272fda.jpg)
+Contas de Adolescente: Instagram vai mudar configurações para menores de 16 anos](https://www.tnh1.com.br/noticia/nid/contas-de-adolescente-instagram-vai-mudar-configuracoes-para-menores-de-16-anos/ "Contas de Adolescente: Instagram vai mudar configurações para menores de 16 anos")[![Caixa anuncia patrocínio milionário a Comitê Olímpico do Brasil; veja valor ](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/8/9/csm_basquete-COB-reproducao_683f7bc477.jpg)
 
-Brasil
+ganhou reforço
 
-Brasil
+ganhou reforço
 
-Toffoli é internado com inflamação nos pulmões
+Caixa anuncia patrocínio milionário a Comitê Olímpico do Brasil; veja valor
 
-Toffoli é internado com inflamação nos pulmões](https://www.tnh1.com.br/noticia/nid/toffoli-e-internado-com-inflamacao-nos-pulmoes/ "Toffoli é internado com inflamação nos pulmões")[![Correios abrem período de adesão a Programa de Desligamento Voluntário](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/1/1/csm_Correios_Agencia_Brasil2_94d190be4e.jpg)
+Caixa anuncia patrocínio milionário a Comitê Olímpico do Brasil; veja valor](https://www.tnh1.com.br/noticia/nid/caixa-anuncia-patrocinio-milionario-a-comite-olimpico-do-brasil-veja-valor/ "Caixa anuncia patrocínio milionário a Comitê Olímpico do Brasil; veja valor ")[![Quem inventou o horário de verão, que pode voltar a ser adotado no Brasil?](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/1/9/csm_relogio-reproducao-pixabay_314bb349e6.jpg)
 
-Brasil
+adiantou relógio
 
-Brasil
+adiantou relógio
 
-Correios abrem período de adesão a Programa de Desligamento Voluntário
+Quem inventou o horário de verão, que pode voltar a ser adotado no Brasil?
 
-Correios abrem período de adesão a Programa de Desligamento Voluntário](https://www.tnh1.com.br/noticia/nid/correios-abrem-periodo-de-adesao-a-programa-de-desligamento-voluntario/ "Correios abrem período de adesão a Programa de Desligamento Voluntário")
+Quem inventou o horário de verão, que pode voltar a ser adotado no Brasil?](https://www.tnh1.com.br/noticia/nid/quem-inventou-o-horario-de-verao-que-pode-voltar-a-ser-adotado-no-brasil/ "Quem inventou o horário de verão, que pode voltar a ser adotado no Brasil?")
 
 [](https://www.tnh1.com.br/ "TNH1 logo")
 
