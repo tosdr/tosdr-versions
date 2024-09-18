@@ -78,7 +78,7 @@ Search
 
 #### Breaking News
 
-[Hezbollah vows ‘harsh’ revenge as death toll rises to 12 in exploding pager blasts that injured thousands](https://nypost.com/2024/09/18/world-news/death-toll-rises-to-12-in-lebanon-exploding-pager-blasts-that-wounded-thousands/)
+[Fed slashes interest rates by half a percentage point](https://nypost.com/2024/09/18/business/fed-slashes-interest-rates-by-half-a-percentage-point-in-bid-to-avert-slowdown/)
 
 Terms Of Use
 ============
@@ -331,7 +331,7 @@ If a Dispute is a Covered Dispute, the Mandatory Dispute Resolution Provisions f
         * [Media Kit](https://advertising.nypost.com/)
         * [Contact](https://advertising.nypost.com/contact-us/)
 
-© 2024 NYP Holdings, Inc. All Rights Reserved [Terms of Use](https://nypost.com/terms/) [Membership Terms](https://nypost.com/membership-terms/) [Privacy Notice](https://nypost.com/privacy/) [Sitemap](https://nypost.com/sitemap/)
+© 2024 NYP Holdings, Inc. All Rights Reserved
 
 * * *
 
