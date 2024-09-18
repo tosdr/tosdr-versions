@@ -99,13 +99,9 @@ Resources
     
     Learn how to use Holded with the help of our experts.](https://www.holded.com/webinars)
 
-English
-
-[Log in](https://app.holded.com/login)[Start for free](https://app.holded.com/signup?lang=en)
+[Log in](https://app.holded.com/login)[Book a demo](https://app.holded.com/demo?lang=en)[Start for free](https://app.holded.com/signup?lang=en)
 
 [Holded![](https://storage.googleapis.com/landing-strapi-v4/assets/svg/logo_holded-qMwQDtfE85rbQYwgBwaJYY.svg)](https://www.holded.com/)
-
-[Start for free](https://app.holded.com/signup?lang=en)
 
 Open Menu
 
