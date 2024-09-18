@@ -208,8 +208,6 @@ Cookies
 | ^FPGCLGB$ | Google Ads | MARKETING | Used by Google Ads. | 90 days |
 | FPID | Google Analytics | ANALYTICS | This cookie is used by Google Analytics to recognize visitors. | 2 years |
 | FPLC | Google Analytics | ANALYTICS | Used by Google Analytics | 20 hours |
-| freeMonthPromo | Lucid Software Inc | ESSENTIAL | Used to apply a promotion on payment upgrade. | 1 day |
-| freeTwoWeeksPromo | Lucid Software Inc | ESSENTIAL | Promotion on payment upgrade | 1 day |
 | ^\_ga$ | Google Analytics | ANALYTICS | Main cookie used by Google Analytics, enables a service to distinguish one visitor from another and lasts for 2 years. Any site that implements Google Analytics, including Google services, uses the ‘\_ga’ cookie. Each ‘\_ga’ cookie is unique to the specific property, so it cannot be used to track a given user or browser across unrelated websites. | 2 Years |
 | \_ga | Gainsight Inc | ANALYTICS | Google Analytics cookie - A uniquely generated identifier used for visitor tracking, data used by Customer Success Management team internally to help make informed decisions about the community. | 2 years |
 | \_ga\_.\* | Google LLC | ANALYTICS | Main cookie used by Google Analytics, enables a service to distinguish one visitor from another and lasts for 2 years. Any site that implements Google Analytics, including Google services, uses the ‘\_ga’ cookie. Each ‘\_ga’ cookie is unique to the specific property, so it cannot be used to track a given user or browser across unrelated websites. | 2 years |
