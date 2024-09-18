@@ -404,9 +404,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ If you get, give. If you learn, teach”
+“ Simplicity is a great virtue but it requires hard work to achieve it and education to appreciate it. And to make matters worse: complexity sells better”
 
-[Maya Angelou](http://en.wikipedia.org/wiki/Maya_Angelou)
+[Edsger W. Dijkstra](http://en.wikipedia.org/wiki/Edsger_W._Dijkstra)
 
 [](https://www.adafruit.com/about)
 
