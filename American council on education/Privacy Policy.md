@@ -331,7 +331,7 @@ Page Content
 
 * ACE's Mission
     
-    ACE is a membership organization that mobilizes the higher education community to shape effective public policy and foster innovative, high-quality practice.
+    ACE leads higher education with a united vision for the future, galvanizing our members to make change. The Council collaborates across the sector to design solutions for today’s challenges, serves the needs of a diverse student population, shapes effective public policy, and promotes a more inclusive future.
     
 
 * American Council on Education
