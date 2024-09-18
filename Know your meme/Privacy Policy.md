@@ -97,30 +97,30 @@ Welcome! [Login](https://knowyourmeme.com/login) or [signup](https://knowyourmem
 * [Meme Insider](https://memeinsider.com/)
 * [Newsletter](https://knowyourmeme.com/newsletter)
 
-* [!["Cash Me Ousside Howbow Dah??"](https://i.kym-cdn.com/featured_items/icons/wide/000/025/910/image.png "On This Day Eight Years Ago The ‘Cash Me Ousside’ Girl Became A Viral Meme On The Internet")
+* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/025/928/cover7.jpg "Who Is Moo-Deng The Baby Hippo? The Story Of The Adorable Thai Hippo That Took Over The Internet")
     
-    On This Day Eight Years Ago The ‘Cash Me Ousside’ Girl Became A Viral Meme On The Internet](https://knowyourmeme.com/memes/cash-me-ousside-howbow-dah)
+    Who Is Moo-Deng The Baby Hippo? The Story Of The Adorable Thai Hippo That Took Over The Internet](https://knowyourmeme.com/editorials/guides/who-is-moo-deng-the-baby-hippo-the-story-of-the-adorable-thai-hippo-that-took-over-the-internet)
     
-* [![NES Princess Peach Sprite Redraws is a pixel art trend on X (formerly Twitter) and BlueSky that redraws the sprite of Princess Peach from the 1985 NES game Super Mario Bros. in different styles. The trend started in early-mid September of 2024, and has also led to other artists drawing these redesigns as modern digital art. The trend also inspired some artists to draw humorous interpretations of NES sprite Princess Peach, sometimes depicting her with a big Popeye-like chin and finger guns.](https://i.kym-cdn.com/featured_items/icons/wide/000/025/909/NES_Peach_Sprite_Redraws.jpg "NES Sprite Princess Peach Is Getting Unofficial Redesigns From Pixel Artists Online")
+* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/025/927/cover2.jpg "The Cat That Sparked The 'Haitian Migrants Eating Pets' Rumor Was Found Chilling In Its Owner's Basement")
     
-    NES Sprite Princess Peach Is Getting Unofficial Redesigns From Pixel Artists Online](https://knowyourmeme.com/memes/nes-princess-peach-sprite-redraws)
+    The Cat That Sparked The 'Haitian Migrants Eating Pets' Rumor Was Found Chilling In Its Owner's Basement](https://knowyourmeme.com/news/the-cat-that-sparked-the-haitian-migrants-eating-pets-rumor-has-been-found)
     
-* [![Jeb Lost Election, Won Memer's Hearts](https://i.kym-cdn.com/featured_items/icons/wide/000/025/908/Screen_Shot_2017-08-17_at_3.57.59_PM.jpg "Eight Years Ago Today, Jeb Bush Unofficially Won Every US State In The Election")
+* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/025/926/gatekeeping_yuri_meme_cover.jpg "What Does 'Gatekeeping Yuri' Mean? The Parody Images Meme Explained")
     
-    Eight Years Ago Today, Jeb Bush Unofficially Won Every US State In The Election](https://knowyourmeme.com/memes/jeb-wins-jeb-bush-flawless-victory)
+    What Does 'Gatekeeping Yuri' Mean? The Parody Images Meme Explained](https://knowyourmeme.com/editorials/guides/what-does-gatekeeping-yuri-mean-the-parody-images-meme-explained)
     
-* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/025/907/squatterfp.jpg "What Is The 'Asian Andy Squatter Saga?' The IRL Streamer's Viral Squatter Eviction Livestreams Explained")
+* [![Fake School Shooting Trend TikTok.](https://i.kym-cdn.com/featured_items/icons/wide/000/025/925/school_shooting_trend.jpg "A Wave Of Fake School Shooting Threats Has Spread Across The U.S. As Local Law Enforcements Become Overwhelmed By School Shutdowns")
     
-    What Is The 'Asian Andy Squatter Saga?' The IRL Streamer's Viral Squatter Eviction Livestreams Explained](https://knowyourmeme.com/editorials/guides/what-is-the-asian-andy-squatter-saga-the-irl-streamers-viral-squatter-eviction-livestreams-explained)
+    A Wave Of Fake School Shooting Threats Has Spread Across The U.S. As Local Law Enforcements Become Overwhelmed By School Shutdowns](https://knowyourmeme.com/memes/events/fake-school-shooting-trend)
     
-* [![There Are Going To Be Federal Agents Outside Your House If You Decide To Use This Meme Format](https://i.kym-cdn.com/featured_items/icons/wide/000/025/906/cover2.jpg "There Are Going To Be Federal Agents Outside Your House If You Decide To Use This Meme Format")
+* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/025/924/balkan_breakfast_newsfeed.jpg "What's A 'Balkan Breakfast?' The Meme And TikTok Trend About How Balkans Eat Breakfast Explained")
     
-    There Are Going To Be Federal Agents Outside Your House If You Decide To Use This Meme Format](https://knowyourmeme.com/memes/this-shit-does-not-look-good-on-paper)
+    What's A 'Balkan Breakfast?' The Meme And TikTok Trend About How Balkans Eat Breakfast Explained](https://knowyourmeme.com/editorials/guides/whats-a-balkan-breakfast-the-meme-and-tiktok-trend-about-how-balkans-eat-breakfast-explained)
     
 
 ##### Also Trending:
 
-[Fake School Shooting Trend](https://knowyourmeme.com/memes/events/fake-school-shooting-trend "Fake School Shooting Trend") [2024 Pager Attack on Hezbollah](https://knowyourmeme.com/memes/events/2024-pager-attack-on-hezbollah "2024 Pager Attack on Hezbollah") [September 2024 Trump Assassination Attempt](https://knowyourmeme.com/memes/events/september-2024-attempted-assassination-of-donald-trump "September 2024 Trump Assassination Attempt")
+[Pager and Radio Attacks on Hezbollah](https://knowyourmeme.com/memes/events/2024-pager-and-radio-attacks-on-hezbollah "Pager and Radio Attacks on Hezbollah") [September 2024 Trump Assassination Attempt](https://knowyourmeme.com/memes/events/september-2024-attempted-assassination-of-donald-trump "September 2024 Trump Assassination Attempt") [Fake School Shooting Trend](https://knowyourmeme.com/memes/events/fake-school-shooting-trend "Fake School Shooting Trend") [MrBeast, KSI and Logan Paul's "Lunchly"](https://knowyourmeme.com/memes/subcultures/mrbeast-ksi-and-logan-pauls-lunchly "MrBeast, KSI and Logan Paul's "Lunchly"") [Moo-Deng the Baby Hippo](https://knowyourmeme.com/memes/moo-deng-the-baby-hippo "Moo-Deng the Baby Hippo") [Tropes In Media Tier List](https://knowyourmeme.com/memes/tropes-in-media-tier-list "Tropes In Media Tier List") ["Put a Girl On" Prank](https://knowyourmeme.com/memes/put-a-girl-on-taco-bell-phone-prank ""Put a Girl On" Prank") [MrBeast-Amazon "Beast Games" Lawsuit](https://knowyourmeme.com/memes/events/mrbeast-and-amazons-beast-games-lawsuit "MrBeast-Amazon "Beast Games" Lawsuit") [Awesome Lesbian Couple](https://knowyourmeme.com/memes/awesome-lesbian-couple "Awesome Lesbian Couple")
 
 Privacy Policy
 ==============
@@ -316,7 +316,7 @@ Please be sure to include your information in any correspondence to us so that w
 **Legal Information:** [Know Your Meme ®](https://knowyourmeme.com/) is a trademark of [Literally Media Ltd.](https://literally.media/) By using this site, you are agreeing by the site's [terms of use](https://knowyourmeme.com/terms-of-service) and [privacy policy](https://knowyourmeme.com/privacy) and [DMCA policy](https://knowyourmeme.com/dmca).  
 © 2007-2024 [Literally Media Ltd.](https://literally.media/)
 
-### Howdy! You must login or signup first!
+### Sup! You must login or signup first!
 
 |     |     |
 | --- | --- |
