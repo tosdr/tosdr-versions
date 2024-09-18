@@ -175,7 +175,7 @@ Quick Guides
     
     [Net profit vs. free cash flow: Which metric matters most?](https://fifthperson.com/net-profit-vs-free-cash-flow/)
     
-    21 hours ago
+    1 day ago
     
 * [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
