@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/a77d57f9-72f1-4ff5-81e8-27a8f4322094/a77d57f9-72f1-4ff5-81e8-27a8f4322094_16x9.jpg) ![](https://media.king5.com/assets/KING/images/a77d57f9-72f1-4ff5-81e8-27a8f4322094/a77d57f9-72f1-4ff5-81e8-27a8f4322094_360x203.jpg)](https://www.king5.com/article/entertainment/events/when-does-washington-state-fair-end-2024/281-81e8b65d-c979-4ff5-a8ba-2f2e4b527e28)
+    *  [![](https://media.king5.com/assets/KING/images/25f10a5b-9913-4f62-be92-5fbbedc05294/20240917T134919/25f10a5b-9913-4f62-be92-5fbbedc05294_16x9.jpg) ![](https://media.king5.com/assets/KING/images/25f10a5b-9913-4f62-be92-5fbbedc05294/20240917T134919/25f10a5b-9913-4f62-be92-5fbbedc05294_360x203.jpg)](https://www.king5.com/article/news/local/washington-states-cannabis-industry-federal-reclassification/281-76dc062c-3242-4e6e-8b5a-fde4eb179053)
         
-        #### [When does the Washington State Fair end?](https://www.king5.com/article/entertainment/events/when-does-washington-state-fair-end-2024/281-81e8b65d-c979-4ff5-a8ba-2f2e4b527e28)
+        #### [Washington state's cannabis industry braces for change as federal reclassification considered](https://www.king5.com/article/news/local/washington-states-cannabis-industry-federal-reclassification/281-76dc062c-3242-4e6e-8b5a-fde4eb179053)
         
-    *  [![](https://media.king5.com/assets/KING/images/2c529a20-dc41-4899-9932-4272dbb87af7/20240911T132455/2c529a20-dc41-4899-9932-4272dbb87af7_16x9.jpg) ![](https://media.king5.com/assets/KING/images/2c529a20-dc41-4899-9932-4272dbb87af7/20240911T132455/2c529a20-dc41-4899-9932-4272dbb87af7_360x203.jpg)](https://www.king5.com/article/news/crime/suspect-bothell-sexual-assault-charged-child-molestation/281-20bcaf49-605e-4e8f-bb96-2912cc618f06)
+    *  [![](https://media.king5.com/assets/KING/images/8f39f47d-c742-4172-bb68-ec22b2f9c220/20240918T012641/8f39f47d-c742-4172-bb68-ec22b2f9c220_16x9.jpg) ![](https://media.king5.com/assets/KING/images/8f39f47d-c742-4172-bb68-ec22b2f9c220/20240918T012641/8f39f47d-c742-4172-bb68-ec22b2f9c220_360x203.jpg)](https://www.king5.com/article/news/local/new-amazon-return-to-office-policy-impact-traffic/281-82610b81-843f-41f2-a68c-8ee834247e57)
         
-        #### [Suspect in Bothell sexual assault charged with child molestation, burglary](https://www.king5.com/article/news/crime/suspect-bothell-sexual-assault-charged-child-molestation/281-20bcaf49-605e-4e8f-bb96-2912cc618f06)
+        #### [New Amazon return-to-office policy expected to impact traffic](https://www.king5.com/article/news/local/new-amazon-return-to-office-policy-impact-traffic/281-82610b81-843f-41f2-a68c-8ee834247e57)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -56,13 +56,13 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/34613e61-73ec-45a3-a481-3a71ff898f4f/20240917T115756/34613e61-73ec-45a3-a481-3a71ff898f4f_16x9.jpg) ![](https://media.king5.com/assets/KING/images/34613e61-73ec-45a3-a481-3a71ff898f4f/20240917T115756/34613e61-73ec-45a3-a481-3a71ff898f4f_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
-        
-        #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
-        
     *  [![](https://media.king5.com/assets/CCT/images/e52e645e-0b91-4f26-ba6f-40ba70997361/20240917T114315/e52e645e-0b91-4f26-ba6f-40ba70997361_16x9.jpg) ![](https://media.king5.com/assets/CCT/images/e52e645e-0b91-4f26-ba6f-40ba70997361/20240917T114315/e52e645e-0b91-4f26-ba6f-40ba70997361_360x203.jpg)](https://www.king5.com/article/news/nation-world/september-2024-full-moon-harvest-moon-partial-eclipse-supermoon-time/507-d36e7dcc-254f-4a7b-852b-640017b8e713)
         
         #### [What time is Tuesday's partial lunar eclipse?](https://www.king5.com/article/news/nation-world/september-2024-full-moon-harvest-moon-partial-eclipse-supermoon-time/507-d36e7dcc-254f-4a7b-852b-640017b8e713)
+        
+    *  [![](https://media.king5.com/assets/KING/images/5de6f6f7-77fe-47ac-937a-f17e56b420d6/20240918T011819/5de6f6f7-77fe-47ac-937a-f17e56b420d6_16x9.jpg) ![](https://media.king5.com/assets/KING/images/5de6f6f7-77fe-47ac-937a-f17e56b420d6/20240918T011819/5de6f6f7-77fe-47ac-937a-f17e56b420d6_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
+        
+        #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
     
 * [Sports](https://www.king5.com/sports)
@@ -97,7 +97,7 @@ Seattle, WA »
 
 62°
 
-![Cloudy](/assets/shared-images/weather-icons/cloudy-day_210x210.png)
+![Cloudy](/assets/shared-images/weather-icons/cloudy-night_210x210.png)
 
 Seattle, WA »](https://www.king5.com/weather)
 
