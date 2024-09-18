@@ -197,61 +197,63 @@ Note: If at any time you should have any concern regarding security, privacy or 
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Wish I started ages ago!
-> ------------------------
+> Impossible to run our businesses without IO
+> -------------------------------------------
 > 
-> I just want to compliment you and your team for an amazing back office software.
-> 
-> I have been struggling with a proper invoicing solution for six months now (to make time each month)
-> 
-> I just wish I started using Invoices Online ages ago.
+> IO is an integral part of our day to day business. It allows me complete control and overview functionality, while still enabling franchise owners to run their various franchises without interruption.  
+>   
+> At Storietyd.co.za - a bookclub for Afrikaans children, with thousands of members - all our billing is automated, automated invoices, automated debit orders, automated payment allocation, and so forth. Administration would be an absolute nightmare without IO.  
+>   
+> We are suppliers of bulk educational products to schools, our reps in the field use IO for quotes, invoicing and managing debtors, directly from their smartphones / tablets.  
+>   
+> We are extremely satisfied with Invoices Online, and would certainly recommend that you try it out.
 
-Terri Winfield
+Kobus Venter
 
-![valued client Digifax (Pty) Ltd T/A SecurityHyper](https://www.invoicesonline.co.za/scripts/image.php?bid=3135&file=logo_300_100&type=&fe=c76075b16b0b3890fed7f6267e67fd62ed7c8acf4a5f11332ab2ffcfa9218c99&c=109202039)  
-Digifax (Pty) Ltd T/A SecurityHyper
+![valued client SAUL ATHOL ACRES RENTAL](https://www.invoicesonline.co.za/scripts/image.php?bid=8430&file=logo_300_100&type=&fe=27722013d173b474c1823a05cbb6c6ea176d8a595aa2e4781173cfbd2251c911&c=61245080)  
+SAUL ATHOL ACRES RENTAL
 
-![valued client Dr V Naik Consult](https://www.invoicesonline.co.za/scripts/image.php?bid=4810&file=logo_300_100&type=&fe=c76075b16b0b3890fed7f6267e67fd62ed7c8acf4a5f11332ab2ffcfa9218c99&c=47301099)  
-Dr V Naik Consult
+![valued client MOSELA GROUP Pty(ltd)](https://www.invoicesonline.co.za/scripts/image.php?bid=7624&file=logo_300_100&type=&fe=27722013d173b474c1823a05cbb6c6ea176d8a595aa2e4781173cfbd2251c911&c=136118772)  
+MOSELA GROUP Pty(ltd)
 
-![valued client Sarabi ](https://www.invoicesonline.co.za/scripts/image.php?bid=5430&file=logo_300_100&type=&fe=c76075b16b0b3890fed7f6267e67fd62ed7c8acf4a5f11332ab2ffcfa9218c99&c=13618594)  
-Sarabi
+![valued client Redlum Group (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8254&file=logo_300_100&type=&fe=27722013d173b474c1823a05cbb6c6ea176d8a595aa2e4781173cfbd2251c911&c=27506403)  
+Redlum Group (Pty) Ltd
 
-![valued client National Elite Security Services (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=6096&file=logo_300_100&type=&fe=c76075b16b0b3890fed7f6267e67fd62ed7c8acf4a5f11332ab2ffcfa9218c99&c=168785432)  
-National Elite Security Services (PTY) LTD
+![valued client VIR Electrical (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=7991&file=logo_300_100&type=&fe=27722013d173b474c1823a05cbb6c6ea176d8a595aa2e4781173cfbd2251c911&c=63452053)  
+VIR Electrical (PTY) LTD
 
-![valued client Digifax (Pty) Ltd trading as Digirent](https://www.invoicesonline.co.za/scripts/image.php?bid=571&file=logo_300_100&type=&fe=c76075b16b0b3890fed7f6267e67fd62ed7c8acf4a5f11332ab2ffcfa9218c99&c=89787490)  
-Digifax (Pty) Ltd trading as Digirent
+![valued client OrgChart Hosting Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=658&file=logo_300_100&type=&fe=27722013d173b474c1823a05cbb6c6ea176d8a595aa2e4781173cfbd2251c911&c=22346859)  
+OrgChart Hosting Pty Ltd
 
-![valued client Oak Tree Immigration](https://www.invoicesonline.co.za/scripts/image.php?bid=6695&file=logo_300_100&type=&fe=c76075b16b0b3890fed7f6267e67fd62ed7c8acf4a5f11332ab2ffcfa9218c99&c=60433905)  
-Oak Tree Immigration
+![valued client VIV'S TRUCKS (Pty) Ltd. (651)](https://www.invoicesonline.co.za/scripts/image.php?bid=6481&file=logo_300_100&type=&fe=27722013d173b474c1823a05cbb6c6ea176d8a595aa2e4781173cfbd2251c911&c=109932730)  
+VIV'S TRUCKS (Pty) Ltd. (651)
 
-![valued client Dombieterfontein (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2351&file=logo_300_100&type=&fe=c76075b16b0b3890fed7f6267e67fd62ed7c8acf4a5f11332ab2ffcfa9218c99&c=64749431)  
-Dombieterfontein (PTY) LTD
+![valued client Wiselink Broadband Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=4072&file=logo_300_100&type=&fe=27722013d173b474c1823a05cbb6c6ea176d8a595aa2e4781173cfbd2251c911&c=146873091)  
+Wiselink Broadband Pty Ltd
 
-![valued client High Point Marketing CC t/a Leads For Africa](https://www.invoicesonline.co.za/scripts/image.php?bid=6845&file=logo_300_100&type=&fe=c76075b16b0b3890fed7f6267e67fd62ed7c8acf4a5f11332ab2ffcfa9218c99&c=114138237)  
-High Point Marketing CC t/a Leads For Africa
+![valued client LEONARD](https://www.invoicesonline.co.za/scripts/image.php?bid=4785&file=logo_300_100&type=&fe=27722013d173b474c1823a05cbb6c6ea176d8a595aa2e4781173cfbd2251c911&c=38449940)  
+LEONARD
 
-![valued client CBR Verwe/Paints](https://www.invoicesonline.co.za/scripts/image.php?bid=6574&file=logo_300_100&type=&fe=c76075b16b0b3890fed7f6267e67fd62ed7c8acf4a5f11332ab2ffcfa9218c99&c=175725044)  
-CBR Verwe/Paints
+![valued client NIMAWELL  ](https://www.invoicesonline.co.za/scripts/image.php?bid=6419&file=logo_300_100&type=&fe=27722013d173b474c1823a05cbb6c6ea176d8a595aa2e4781173cfbd2251c911&c=17762180)  
+NIMAWELL
 
-![valued client Kainos  (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6111&file=logo_300_100&type=&fe=c76075b16b0b3890fed7f6267e67fd62ed7c8acf4a5f11332ab2ffcfa9218c99&c=147866340)  
-Kainos (Pty) Ltd
+![valued client Laurinda Pretorius Spraak en Drama Ateljee](https://www.invoicesonline.co.za/scripts/image.php?bid=7561&file=logo_300_100&type=&fe=27722013d173b474c1823a05cbb6c6ea176d8a595aa2e4781173cfbd2251c911&c=70286212)  
+Laurinda Pretorius Spraak en Drama Ateljee
 
-![valued client De light Investments(Pty)Ltd trading as Serene Memorials](https://www.invoicesonline.co.za/scripts/image.php?bid=6723&file=logo_300_100&type=&fe=c76075b16b0b3890fed7f6267e67fd62ed7c8acf4a5f11332ab2ffcfa9218c99&c=58438151)  
-De light Investments(Pty)Ltd trading as Serene Memorials
+![valued client webb it services](https://www.invoicesonline.co.za/scripts/image.php?bid=7007&file=logo_300_100&type=&fe=27722013d173b474c1823a05cbb6c6ea176d8a595aa2e4781173cfbd2251c911&c=25036401)  
+webb it services
 
-![valued client Cooper Logistics (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=1974&file=logo_300_100&type=&fe=c76075b16b0b3890fed7f6267e67fd62ed7c8acf4a5f11332ab2ffcfa9218c99&c=200063996)  
-Cooper Logistics (Pty) Ltd
+![valued client Henry's Home Renovations](https://www.invoicesonline.co.za/scripts/image.php?bid=1221&file=logo_300_100&type=&fe=27722013d173b474c1823a05cbb6c6ea176d8a595aa2e4781173cfbd2251c911&c=25275193)  
+Henry's Home Renovations
 
-![valued client SLOANE STAR MEAT MARKET](https://www.invoicesonline.co.za/scripts/image.php?bid=1748&file=logo_300_100&type=&fe=c76075b16b0b3890fed7f6267e67fd62ed7c8acf4a5f11332ab2ffcfa9218c99&c=181108030)  
-SLOANE STAR MEAT MARKET
+![valued client Calonet ](https://www.invoicesonline.co.za/scripts/image.php?bid=3324&file=logo_300_100&type=&fe=27722013d173b474c1823a05cbb6c6ea176d8a595aa2e4781173cfbd2251c911&c=29831374)  
+Calonet
 
-![valued client Oukraal Merino's](https://www.invoicesonline.co.za/scripts/image.php?bid=3971&file=logo_300_100&type=&fe=c76075b16b0b3890fed7f6267e67fd62ed7c8acf4a5f11332ab2ffcfa9218c99&c=62108676)  
-Oukraal Merino's
+![valued client Adele Jordaan T/A Joyful Noise Music Room](https://www.invoicesonline.co.za/scripts/image.php?bid=7958&file=logo_300_100&type=&fe=27722013d173b474c1823a05cbb6c6ea176d8a595aa2e4781173cfbd2251c911&c=41326047)  
+Adele Jordaan T/A Joyful Noise Music Room
 
-![valued client NJR ICT Services (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6292&file=logo_300_100&type=&fe=c76075b16b0b3890fed7f6267e67fd62ed7c8acf4a5f11332ab2ffcfa9218c99&c=145075023)  
-NJR ICT Services (Pty) Ltd
+![valued client Fox Alarms & Security](https://www.invoicesonline.co.za/scripts/image.php?bid=4937&file=logo_300_100&type=&fe=27722013d173b474c1823a05cbb6c6ea176d8a595aa2e4781173cfbd2251c911&c=126620400)  
+Fox Alarms & Security
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
