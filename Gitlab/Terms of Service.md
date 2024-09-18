@@ -1505,6 +1505,7 @@
                 * [ ]  [Business Continuity Plan](https://handbook.gitlab.com/handbook/business-technology/entapps-documentation/policies/gitlab-business-continuity-plan/)
             * [ ]  [Procedures](https://handbook.gitlab.com/handbook/business-technology/entapps-documentation/procedures/)
         * [ ]  [Enterprise Applications READMEs](https://handbook.gitlab.com/handbook/business-technology/readmes/)
+            * [ ]  [David Kim README](https://handbook.gitlab.com/handbook/business-technology/readmes/david-kim/)
             * [ ]  [Marc Di Sabatino's README](https://handbook.gitlab.com/handbook/business-technology/readmes/marc-disabatino/)
         * [ ]  [Infrastructure Reference Links](https://handbook.gitlab.com/handbook/business-technology/engineering/infrastructure/reference-links/)
         * [ ]  [Organizational Structure](https://handbook.gitlab.com/handbook/business-technology/enterprise-applications/)
