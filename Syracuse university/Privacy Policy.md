@@ -386,6 +386,7 @@ Information for
 * [Accreditation](https://middlestates.syr.edu/)
 * [Title IX](https://www.syracuse.edu/title-ix/)
 * [Accessibility](https://www.syracuse.edu/about/accessibility/)
+* [Privacy Policy](https://www.syracuse.edu/privacy-policy/)
 
 Login
 -----
