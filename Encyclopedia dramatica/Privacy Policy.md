@@ -1,12 +1,12 @@
   
 
-[![Logo](kiwianarchoautism.png)](https://kiwifarms.st/)
+[![Logo](kiwinigger.png)](https://kiwifarms.st/)
 
 [Alliance Against  
 Troons and  
 lolcows](https://kiwifarms.st/)
 
-This Website Is No Longer Available Due to luck of mentally mature administration.  
+This Garbage site Is No Longer Available Due to luck of mentally mature administration.  
 You Will Be Redirected To [EncyclopediaDramatica Info](https://encyclopediadramatica.info/) In 10 Seconds
 
   
