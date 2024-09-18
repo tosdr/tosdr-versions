@@ -2,6 +2,7 @@ Wednesday, September 18 2024
 
 Breaking News
 
+* [CBS News’ Dem Ties Exposed Ahead Of Network Hosting Vance-Walz Debate](https://www.conservativedailynews.com/2024/09/cbs-news-dem-ties-exposed-ahead-of-network-hosting-vance-walz-debate/)
 * [President Joe Biden’s Schedule for Wednesday, September 18, 2024](https://www.conservativedailynews.com/2024/09/president-joe-bidens-schedule-for-wednesday-september-18-2024/)
 * [White House Press Briefing with Karine Jean-Pierre – 9/18/24](https://www.conservativedailynews.com/2024/09/white-house-press-briefing-with-karine-jean-pierre-9-18-24/)
 * [America In The Age Of Stupidity: Just Think If We Had A Fair And Honest Media](https://www.conservativedailynews.com/2024/09/america-in-the-age-of-stupidity-just-think-if-we-had-a-fair-and-honest-media/)
@@ -9,7 +10,6 @@ Breaking News
 * [Hunter Biden’s Attorneys Ask Judge To Delay Sentencing So Biden-Harris Admin Officials Can ‘Submit Letters’ of Support](https://www.conservativedailynews.com/2024/09/hunter-bidens-attorneys-ask-judge-to-delay-sentencing-so-biden-harris-admin-officials-can-submit-letters-of-support/)
 * [Swing State’s School Choice Programs Are Helping Thousands Of Families — Dems Want To End It](https://www.conservativedailynews.com/2024/09/swing-states-school-choice-programs-are-helping-thousands-of-families-dems-want-to-end-it/)
 * [Speech Actually Can Be Violence When Weaponized by Democrats](https://www.conservativedailynews.com/2024/09/speech-actually-can-be-violence-when-weaponized-by-democrats/)
-* [Religious Group Slams Insurance Giant For ‘Woke Politics,’ Underwriting Gender Ideologues](https://www.conservativedailynews.com/2024/09/religious-group-slams-insurance-giant-for-woke-politics-underwriting-gender-ideologues/)
 
 * [Sidebar](#)
 * [Random Article](https://www.conservativedailynews.com/privacy-policy/?random-post=1 "Random Article")
@@ -111,21 +111,27 @@ Your donations help us purchase content, pay for servers, and reduce advertising
 
 Created using the Donation Thermometer plugin https://wordpress.org/plugins/donation-thermometer/.47%
 
+* [![Kamala Harris 2024 election](https://www.conservativedailynews.com/wp-content/uploads/2024/07/stg072624dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/09/cbs-news-dem-ties-exposed-ahead-of-network-hosting-vance-walz-debate/)
+    
+    [CBS News’ Dem Ties Exposed Ahead Of Network Hosting Vance-Walz Debate](https://www.conservativedailynews.com/2024/09/cbs-news-dem-ties-exposed-ahead-of-network-hosting-vance-walz-debate/)
+    
+    September 18, 2024
+    
 * [![](https://www.conservativedailynews.com/wp-content/uploads/2022/11/Dennis-Prager-220x150.jpg)](https://www.conservativedailynews.com/2024/09/the-reasons-young-women-embrace-the-left-do-not-reflect-well-on-those-women/)
     
     [The Reasons Young Women Embrace the Left Do Not Reflect Well on Those Women](https://www.conservativedailynews.com/2024/09/the-reasons-young-women-embrace-the-left-do-not-reflect-well-on-those-women/)
     
     September 17, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/09/IMG_5599-220x150.jpeg)](https://www.conservativedailynews.com/2024/09/we-are-different-and-the-left-keeps-attacking-us-for-it/)
-    
-    [We Are Different, and the Left Keeps Attacking Us For It](https://www.conservativedailynews.com/2024/09/we-are-different-and-the-left-keeps-attacking-us-for-it/)
-    
-    September 16, 2024
-    
 
 Recent Posts
 
+* [![Kamala Harris 2024 election](https://www.conservativedailynews.com/wp-content/uploads/2024/07/stg072624dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/09/cbs-news-dem-ties-exposed-ahead-of-network-hosting-vance-walz-debate/)
+    
+    [CBS News’ Dem Ties Exposed Ahead Of Network Hosting Vance-Walz Debate](https://www.conservativedailynews.com/2024/09/cbs-news-dem-ties-exposed-ahead-of-network-hosting-vance-walz-debate/)
+    
+    September 18, 2024
+    
 * [![Democrats woke gender ideology](https://www.conservativedailynews.com/wp-content/uploads/2023/06/01-wokethroat-sm-1080a.jpg)](https://www.conservativedailynews.com/2024/09/state-department-paying-for-play-where-god-is-bisexual-and-communists-are-good-in-bid-to-push-lgbt-rights-abroad/)
     
     [State Department Paying For Play Where God Is Bisexual And Communists Are Good In Bid To Push LGBT Rights Abroad](https://www.conservativedailynews.com/2024/09/state-department-paying-for-play-where-god-is-bisexual-and-communists-are-good-in-bid-to-push-lgbt-rights-abroad/)
@@ -168,25 +174,19 @@ Recent Posts
     
     September 18, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/09/Press-220x150.png)](https://www.conservativedailynews.com/2024/09/america-in-the-age-of-stupidity-just-think-if-we-had-a-fair-and-honest-media/)
-    
-    [America In The Age Of Stupidity: Just Think If We Had A Fair And Honest Media](https://www.conservativedailynews.com/2024/09/america-in-the-age-of-stupidity-just-think-if-we-had-a-fair-and-honest-media/)
-    
-    September 18, 2024
-    
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
 
+* [Best Cleaning Kits to Keep Your Guns Running Smoothly](https://www.thegunpage.com/best-cleaning-kits-to-keep-your-guns-running-smoothly/10610649)
+* [Kimber Announces The New R7 Mako Carbon Compact](https://www.thegunpage.com/kimber-announces-the-new-r7-mako-carbon-compact/10610644)
+* [Date Set For Court Review Of Florida’s Young Adult Gun Purchase Ban](https://www.thegunpage.com/date-set-for-court-review-of-floridas-young-adult-gun-purchase-ban/10610640)
+* [Strike Industries Pistol Linear Compensator](https://www.thegunpage.com/strike-industries-pistol-linear-compensator/10610645)
 * [Judge Rules Memphis Anti-Gun Questions Can Appear On November Ballot](https://www.thegunpage.com/judge-rules-memphis-anti-gun-questions-can-appear-on-november-ballot/10610636)
+* [Winchester Announces New 21 Sharp Rimfire Cartridge](https://www.thegunpage.com/winchester-announces-new-21-sharp-rimfire-cartridge/10610643)
+* [20 Great Photos From The 2024 NRA National Matches](https://www.thegunpage.com/20-great-photos-from-the-2024-nra-national-matches/10610639)
 * [Preview: Armasight Contractor 640 2.3-9.2X 35 mm Thermal Optic](https://www.thegunpage.com/preview-armasight-contractor-640-2-3-9-2x-35-mm-thermal-optic/10610635)
 * [TFB Interview: Kyle Litzie – World Champion – IPSC Rifle World Shoot](https://www.thegunpage.com/tfb-interview-kyle-litzie-world-champion-ipsc-rifle-world-shoot/10610633)
 * [POTD: National Icelandic Police With SIG Sauer MCX](https://www.thegunpage.com/potd-national-icelandic-police-with-sig-sauer-mcx/10610630)
-* [Ruger LC Charger 5.7: Review](https://www.thegunpage.com/ruger-lc-charger-5-7-review/10610628)
-* [Indicted: Rapper Sean “Diddy” Combs Alleged to Have Used Guns to Intimidate Victims, Force Participants in Sex Parties](https://www.thegunpage.com/indicted-rapper-sean-diddy-combs-alleged-to-have-used-guns-to-intimidate-victims-force-participants-in-sex-parties/10610624)
-* [The Ukrainian .57 HL Cartridge and Integrally Suppressed Rifle](https://www.thegunpage.com/the-ukrainian-57-hl-cartridge-and-integrally-suppressed-rifle/10610627)
-* [Latest Would-Be Trump Assassin Broke Numerous Gun Laws](https://www.thegunpage.com/latest-would-be-trump-assassin-broke-numerous-gun-laws/10610622)
-* [OH: Stop The Binary Trigger Ban](https://www.thegunpage.com/oh-stop-the-binary-trigger-ban/10610618)
-* [GOA Urges Public to Avoid Sharing Mass Murderer’s Names, Images](https://www.thegunpage.com/goa-urges-public-to-avoid-sharing-mass-murderers-names-images/10610619)
 
 [![ Conservative Political Blogs](https://blog.feedspot.com/wp-content/uploads/2016/12/conservative_political_216px.png?x58297)](https://blog.feedspot.com/conservative_political_blogs/ "Conservative Political Blogs")
 
