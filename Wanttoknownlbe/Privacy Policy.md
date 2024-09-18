@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/nieuws/franse-dna-onderzoekster-en-astronaute-doet-zelfmoordpoging-wat-heeft-ze-ontdekt/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/gezondheid/vaccinaties-gezondheid/iedere-vrouw-op-aarde-een-hpv-vaccin/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
