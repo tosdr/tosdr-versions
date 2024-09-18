@@ -187,10 +187,10 @@ Newsletter Signup
 
 ![Red Star Icon](https://cdn.returningveterans.org/images/site/star_red.png)[### Wall of Honor
 
-![Tom McCutcheon](https://cdn.returningveterans.org/images/honor/13_McCutcheon.jpg)  
+![Jim Dawson](https://cdn.returningveterans.org/images/honor/12_Dawson.jpg)  
 
-**In Honor of Tom McCutcheon**  
-United States Marine Corps  
+**In Honor of Jim Dawson**  
+United States Navy  
 Submitted by Messiah Lutheran Church, Vancouver Wa](https://returningveterans.org/wall-of-honor/ "Visit the Wall of Honor")
 
 Returning Veterans Project
@@ -238,5 +238,5 @@ _The appearance of U.S. Department of Defense (DoD) visual information does not 
 ![](https://dc.ads.linkedin.com/collect/?pid=576569&fmt=gif)
 
 https://returningveterans.org/about/privacy-statement/  
-Printed 9/18/24 - 2:21:15  
+Printed 9/18/24 - 8:19:31  
 © 2024 Returning Veterans Project
