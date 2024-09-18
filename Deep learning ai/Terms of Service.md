@@ -1,4 +1,4 @@
-🌟 New Course! Enroll in [Multimodal RAG: Chat with Videos](https://bit.ly/4efHjSG)
+🌟 It's live on Coursera! Enroll in the [Data Engineering Professional Certificate](https://bit.ly/3Xv80vO) now
 
 [](https://www.deeplearning.ai/)
 
