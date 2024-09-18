@@ -168,17 +168,17 @@ By Theme
 
 Latest Real Weddings
 
+[![Tushika and Prateek](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8XQ8AAnsBfKyAV94AAAAASUVORK5CYII=)
+
+![Tushika and Prateek](https://image.wedmegood.com/resized/250X/uploads/images/d535d54cb2144c24a18ad4933fe688f3realwedding/Prateek&Tushika_Wedding2546.jpg?crop=364,147,1360,765)
+
+Tushika and Prateek (Dubai)](https://www.wedmegood.com/real_wedding/detail/tushika-and-prateek-dubai-punjabi-sikh-wedding-4391)
+
 [![Sheetal and Akhil](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8XQ8AAnsBfKyAV94AAAAASUVORK5CYII=)
 
 ![Sheetal and Akhil](https://image.wedmegood.com/resized/250X/uploads/images/79a21d14edc1414081cd5c6a64b08913realwedding/A+S-515Large.jpeg?crop=151,151,1012,569)
 
 Sheetal and Akhil (Canada)](https://www.wedmegood.com/real_wedding/detail/sheetal-and-akhil-canada-gujarati-wedding-4387)
-
-[![Krithika and Akash](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8XQ8AAnsBfKyAV94AAAAASUVORK5CYII=)
-
-![Krithika and Akash](https://image.wedmegood.com/resized/250X/uploads/images/a921a53c09ac45d8aecbb0be558fd670realwedding/88A3FFE0-DBF0-48CD-97F1-6AA22D910591.jpeg?crop=252,123,1450,815)
-
-Krithika and Akash (Hyderabad)](https://www.wedmegood.com/real_wedding/detail/krithika-and-akash-hyderabad-telugu-wedding-4386)
 
 Browse by Category
 
