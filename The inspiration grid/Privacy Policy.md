@@ -291,6 +291,18 @@ Latest
 inspiration
 -----------
 
+![](https://inspgr.id/app/uploads/2024/09/architecture-caymus-suisun-feature.jpg)
+
+[](https://theinspirationgrid.com/caymus-suisun-winery-by-bohlin-cywinski-jackson/)
+
+### Caymus-Suisun Winery by Bohlin Cywinski Jackson
+
+![](https://inspgr.id/app/uploads/2024/09/illustration-birgit-palma-feature.jpg)
+
+[](https://theinspirationgrid.com/editorial-illustrations-by-birgit-palma-daniel-triendl/)
+
+### Editorial Illustrations by Birgit Palma & Daniel Triendl
+
 ![](https://inspgr.id/app/uploads/2024/09/art-kwangho-shin-feature.jpg)
 
 [](https://theinspirationgrid.com/expressive-portrait-paintings-by-kwangho-shin/)
@@ -326,18 +338,6 @@ inspiration
 [](https://theinspirationgrid.com/west-of-tibet-striking-photos-by-rain-look/)
 
 ### West of Tibet: Striking Photos by Rain Look
-
-![](https://inspgr.id/app/uploads/2024/09/illustration-antonio-caparo-feature.jpg)
-
-[](https://theinspirationgrid.com/gorgeous-illustrated-stories-by-antonio-caparo/)
-
-### Gorgeous Illustrated Stories by Antonio Caparo
-
-![](https://inspgr.id/app/uploads/2024/09/art-stacey-grace-feature.jpg)
-
-[](https://theinspirationgrid.com/handcrafted-metal-leather-engravings-by-stacey-grace/)
-
-### Handcrafted Metal & Leather Engravings by Stacey Grace
 
 Awesome products for creatives
 ------------------------------
