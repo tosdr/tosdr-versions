@@ -90,11 +90,11 @@ Learn more about our enterprise solution and get a demo from our sales team.](ht
 
 **Read our latest content**
 
-![](https://cdn.prod.website-files.com/65fde10e62e6a7603e92222e/66e482390dd0010afd4cc003__ultimate-ecommerce-seo-guide-grow-organically.png)
+![](https://cdn.prod.website-files.com/65fde10e62e6a7603e92222e/66eb23832a92c7f0801b05b7_join-clearco-partner-program.png)
 
-###### The Ultimate Ecommerce SEO Guide: How to Grow Your Brand Organically
+###### Join Clearco’s Partner Program
 
-[Read now >](https://clear.co/blog/ultimate-ecommerce-seo-guide-grow-organically)
+[Read now >](https://clear.co/blog/join-clearco-partner-program)
 
 [Sign In](http://my.clearbanc.com/login)[Get Funding](http://my.clearbanc.com/signup)
 
