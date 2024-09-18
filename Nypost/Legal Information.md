@@ -76,10 +76,6 @@ Search
 
 Search
 
-#### Live updates
-
-[Sean 'Diddy' Combs pleads not guilty to sex-trafficking charges](https://nypost.com/2024/09/17/us-news/sean-diddy-combs-arrested-live-updates-from-nyc-court-appearance/)
-
 Privacy Notice Highlights
 =========================
 
