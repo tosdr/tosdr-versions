@@ -27,7 +27,7 @@
 
 Terms of Use
 
-LAST UPDATED: June 29, 2023
+LAST UPDATED: September 18, 2024
 
 Table of Contents
 -----------------
@@ -266,7 +266,7 @@ Text the keyword HELP to our longcode to return customer care contact informatio
 
 _Customer Care_
 
-If you are experiencing any problems, please visit [https://support.shutterfly.com/s/](https://support.shutterfly.com/s/) or contact Customer Service at 1 (877) 284-9610.
+If you are experiencing any problems, please visit [https://support.shutterfly.com/s/](https://support.shutterfly.com/s/) or contact Customer Service at 1 (877) 846-5515.
 
 #### **Shutterfly Video Plan**
 
