@@ -3,6 +3,8 @@ Welcome to Gaia! :: Gaia Online PRIVACY POLICY – Effective April 5, 2016
 
 [Gaia Home](https://www.gaiaonline.com/ "Return to the Gaia Homepage")
 
+  [![](//u1cdn.gaiaonline.com/mfs/index/adminupload/d1e05c881332.png)](https://www.gaiaonline.com/gaiaevent/greatheights "Great Heights")
+
 [Login](https://www.gaiaonline.com/auth/?_gaia_t_=4952 "Login to Gaia") [Register](https://www.gaiaonline.com/register/?v=c&_gaia_t_=4950 "Create a free account now")
 
  Remember Me
@@ -11,13 +13,13 @@ Log In
 
 [Forgot your login?](https://www.gaiaonline.com/account/sendpass/ "Forgot your username/password?")
 
-625a9e97c1d781729a1d87785f66c882625a9e97c1d781729a1d87785f66c882625a9e97c1d781729a1d87785f66c882cd6be98275685fa469478ee725927ca6
+8df34e952373ff176c54b5a60993dc7173ec508f9e9fb87b4a8d1cb4914f45e373ec508f9e9fb87b4a8d1cb4914f45e38df34e952373ff176c54b5a60993dc71
 
 * [My Gaia](https://www.gaiaonline.com/register/?v=c&&redirect=https%3A%2F%2Fwww.gaiaonline.com%2Fmygaia%2F)
 
 * [GCash](https://www.gaiaonline.com/register/?v=c&&redirect=https%3A%2F%2Fwww.gaiaonline.com%2Fpayments%2F%3F_gaia_t_%3D8608)
 
-* [Shops](https://www.gaiaonline.com/market/)
+* [Shops !](https://www.gaiaonline.com/market/)
 
 * [Forums](https://www.gaiaonline.com/forum/)
 
@@ -343,9 +345,9 @@ Get Items
 
 More Items
 
-* [Deals & New Items](https://www.gaiaonline.com/deals/)
+* [Deals & New Items](https://www.gaiaonline.com/deals)
     
-    Find new items, and discounts
+    2 new deals & 1 new item released!
     
 * [Premium Items](https://www.gaiaonline.com/register/?v=c&&redirect=https%3A%2F%2Fwww.gaiaonline.com%2Fpremiumitems%2F)
     
@@ -539,4 +541,4 @@ Play with Platinum
 
 [More](https://www.gaiaonline.com/world/)
 
-![](//www.gaiaonline.com/internal/dev_t.php?ip=2682231380&sip=169153838&pid=15100&cls=info.legal.&tm=1726667422) ![](https://www.gaiaonline.com/internal/mkt_t.php?mid[]=354&tm=1726667422)
+![](https://www.gaiaonline.com/internal/mkt_t.php?mid[]=354&tm=1726688806)
