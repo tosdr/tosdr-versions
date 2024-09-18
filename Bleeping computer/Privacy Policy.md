@@ -439,12 +439,12 @@ Tel: +1-646-980-4190
 
 Popular Stories
 
-* [![Windows red](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    Windows vulnerability abused braille “spaces” in zero-day attacks](https://www.bleepingcomputer.com/news/security/windows-vulnerability-abused-braille-spaces-in-zero-day-attacks/)
 * [![CISA](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     CISA warns of Windows flaw used in infostealer malware attacks](https://www.bleepingcomputer.com/news/security/cisa-warns-of-windows-flaw-used-in-infostealer-malware-attacks/)
+* [![Cloudflare](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    Cloudflare outage cuts off access to websites in some regions](https://www.bleepingcomputer.com/news/technology/cloudflare-outage-cuts-off-access-to-websites-in-some-regions/)
 * [![Microsoft Office](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     Microsoft rolls out Office LTSC 2024 for Windows and Mac](https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-office-ltsc-2024-for-windows-and-mac/)
