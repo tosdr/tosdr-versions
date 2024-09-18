@@ -1,6 +1,6 @@
-**Sketch 100** — Everything new in 3 minutes. [Learn more](https://www.sketch.com/blog/version-100/)
+**New: Smart Animate** — Bring movement to your prototypes. [Learn more](https://www.sketch.com/blog/smart-animate/)
 
-[**Sketch 100** — Everything new in 3 minutes. Learn more](#)
+[**New: Smart Animate** — Bring movement to your prototypes. Learn more](https://www.sketch.com/blog/smart-animate/)
 
 [Skip Navigation](#content)
 
@@ -29,11 +29,11 @@ Menu
     
     What’s New
     
-    * [Version 100 is available to download](https://www.sketch.com/updates/#version-100-is-available-to-download)
-    * [Scroll areas in prototypes](https://www.sketch.com/updates/#scroll-areas-in-prototypes)
-    * [Hover, press and toggle triggers](https://www.sketch.com/updates/#hover-press-and-toggle-triggers)
-    * [View prototypes at Full Width](https://www.sketch.com/updates/#view-prototypes-at-full-width)
-    * [New sharing options for prototypes](https://www.sketch.com/updates/#new-sharing-options-for-prototypes)
+    * [Smart Animate](https://www.sketch.com/updates/#smart-animate)
+    * [Easy Library swaps](https://www.sketch.com/updates/#easy-library-swaps)
+    * [Color Variables in gradients](https://www.sketch.com/updates/#color-variables-in-gradients)
+    * [A cleaner, fresher web app UI](https://www.sketch.com/updates/#a-cleaner-fresher-web-app-ui)
+    * [Export any asset from the web app](https://www.sketch.com/updates/#export-any-asset-from-the-web-app)
     
     [See all updates](https://www.sketch.com/updates/)
     
