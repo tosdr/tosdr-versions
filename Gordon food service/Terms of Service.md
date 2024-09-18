@@ -360,7 +360,7 @@ Search  Search
 
 ### [Our **Shows**](https://gfs.com/inspired/food-shows/)
 
-[![](https://gfs.com/wp-content/uploads/2022/07/nav-vegetables_1080x600-1024x569.png)](https://gfs.com/inspired/trends-ideas/)
+[![Frequently Asked Questions](https://gfs.com/wp-content/uploads/2022/07/nav-vegetables_1080x600-1024x569.png)](https://gfs.com/inspired/trends-ideas/)
 
 ### [Trends & **Ideas**](https://gfs.com/inspired/trends-ideas/)
 
