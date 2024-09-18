@@ -1753,6 +1753,8 @@ What do top resumes look like? Check out these expertly-written samples:
 
 [Product Analyst](https://cvcompiler.com/product-analyst-resume-examples)
 
+[Marketing Project Manager](https://cvcompiler.com/marketing-project-manager-resume-examples)
+
 ![Upload resume illustration](uploads-pre-acq/img/upload-illustration.svg)
 
 ### Upload  
