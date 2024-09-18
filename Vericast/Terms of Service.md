@@ -267,3 +267,5 @@ San Antonio, TX 78256
 [Terms of Use](https://www.vericast.com/terms-of-use/)
 
 [Do Not Sell or Share My Information](https://hch.service-now.com/privacy?id=anon_csmr_privacy)
+
+Vericast is focused on financial institutions. Looking for other industry solutions?       [Click Here >](http://www.rrd.com/)
