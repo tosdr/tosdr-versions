@@ -134,105 +134,105 @@ Política de privacidade
 
 * ### Últimos tópicos
     
-    * [![PedroHenrique Aires](https://www.clubedohardware.com.br/uploads/members/monthly_2024_04/imported-photo-1123877.thumb.png.f33711bffadb77888062c2463fe2d84b.png)](https://www.clubedohardware.com.br/profile/1123877-pedrohenrique-aires/ "Ir ao perfil de PedroHenrique Aires")
-        
-        2
-        
-        [Um topo de linha antigo usado/reformado ou um A15 5g novo?](https://www.clubedohardware.com.br/forums/topic/1697665-um-topo-de-linha-antigo-usadoreformado-ou-um-a15-5g-novo/?do=getNewComment "Um topo de linha antigo usado/reformado ou um A15 5g novo?")
-        
-        [Smartphones, celulares, tablets e apps](https://www.clubedohardware.com.br/forums/forum/195-smartphones-celulares-tablets-e-apps/ "Smartphones, celulares, tablets e apps")  
-        Por [PedroHenrique Aires](https://www.clubedohardware.com.br/profile/1123877-pedrohenrique-aires/ "Ir ao perfil de PedroHenrique Aires")  
-        50 minutos atrás
-        
-    * [![Lucasbdias](https://www.clubedohardware.com.br/uploads/members/monthly_2024_09/imported-photo-1253263.thumb.jpeg.16f6c0e2abfee5516e8601251a634474.jpeg)](https://www.clubedohardware.com.br/profile/1253263-lucasbdias/ "Ir ao perfil de Lucasbdias")
+    * [![Kauã Brandon](https://www.clubedohardware.com.br/uploads/members/monthly_2024_09/imported-photo-1253279.thumb.png.339e0680075060b22fd9d3d2c6044600.png)](https://www.clubedohardware.com.br/profile/1253279-kau%C3%A3-brandon/ "Ir ao perfil de Kauã Brandon")
         
         0
         
-        [Qual placa-mãe devo comprar ?](https://www.clubedohardware.com.br/forums/topic/1697663-qual-placa-m%C3%A3e-devo-comprar/?do=getNewComment "Qual placa-mãe devo comprar ?")
+        [Fonte de 650W aguenta uma RX 6800 xt ou RX 7800 xt?](https://www.clubedohardware.com.br/forums/topic/1697683-fonte-de-650w-aguenta-uma-rx-6800-xt-ou-rx-7800-xt/?do=getNewComment "Fonte de 650W aguenta uma RX 6800 xt ou RX 7800 xt?")
         
-        [Placas-mãe](https://www.clubedohardware.com.br/forums/forum/28-placas-m%C3%A3e/ "Placas-mãe")  
-        Por [Lucasbdias](https://www.clubedohardware.com.br/profile/1253263-lucasbdias/ "Ir ao perfil de Lucasbdias")  
-        55 minutos atrás
-        
-    * [![paulo v. duarte](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23c46462%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EPV%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1253262-paulo-v-duarte/ "Ir ao perfil de paulo v. duarte")
-        
-        0
-        
-        [pc reiniciando erro Kernel-power 41](https://www.clubedohardware.com.br/forums/topic/1697662-pc-reiniciando-erro-kernel-power-41/?do=getNewComment "pc reiniciando erro Kernel-power 41")
-        
-        [Computador reiniciando](https://www.clubedohardware.com.br/forums/forum/121-computador-reiniciando/ "Computador reiniciando")  
-        Por [paulo v. duarte](https://www.clubedohardware.com.br/profile/1253262-paulo-v-duarte/ "Ir ao perfil de paulo v. duarte")  
-        58 minutos atrás
-        
-    * [![Izaqui - Hardware](https://www.clubedohardware.com.br/uploads/members/monthly_2024_07/imported-photo-1231244.thumb.jpeg.c8d690d59a0c7927101b5d3e031d14b9.jpeg)](https://www.clubedohardware.com.br/profile/1231244-izaqui-hardware/ "Ir ao perfil de Izaqui - Hardware")
-        
-        0
-        
-        [Acer aspire 5 A515-51G Não reconhece SSD na formatação.](https://www.clubedohardware.com.br/forums/topic/1697661-acer-aspire-5-a515-51g-n%C3%A3o-reconhece-ssd-na-formata%C3%A7%C3%A3o/?do=getNewComment "Acer aspire 5 A515-51G Não reconhece SSD na formatação.")
-        
-        [Notebooks](https://www.clubedohardware.com.br/forums/forum/156-notebooks/ "Notebooks")  
-        Por [Izaqui - Hardware](https://www.clubedohardware.com.br/profile/1231244-izaqui-hardware/ "Ir ao perfil de Izaqui - Hardware")  
-        1 hora atrás
-        
-    * [![Louiss](https://www.clubedohardware.com.br/uploads/members/monthly_2024_07/D_NQ_NP_955628-MLM77151895649_062024-O.thumb.jpeg.78a228289061099d7cb0fabb4d100c15.jpeg)](https://www.clubedohardware.com.br/profile/1250400-louiss/ "Ir ao perfil de Louiss")
-        
-        0
-        
-        [Onde achar HDs antigos?](https://www.clubedohardware.com.br/forums/topic/1697660-onde-achar-hds-antigos/?do=getNewComment "Onde achar HDs antigos?")
-        
-        [HD, SSD e NAS](https://www.clubedohardware.com.br/forums/forum/31-hd-ssd-e-nas/ "HD, SSD e NAS")  
-        Por [Louiss](https://www.clubedohardware.com.br/profile/1250400-louiss/ "Ir ao perfil de Louiss")  
-        1 hora atrás
-        
-    * [![LawzinVL](https://www.clubedohardware.com.br/uploads/members/monthly_2024_09/imported-photo-1253256.thumb.png.2fe83732b9ca0e02307788cbdf02cc4e.png)](https://www.clubedohardware.com.br/profile/1253256-lawzinvl/ "Ir ao perfil de LawzinVL")
-        
-        0
-        
-        Outro [Nada sobre Plugins Bukkit no BR](https://www.clubedohardware.com.br/forums/topic/1697659-nada-sobre-plugins-bukkit-no-br/?do=getNewComment "Nada sobre Plugins Bukkit no BR")
-        
-        [Java/Android SDK](https://www.clubedohardware.com.br/forums/forum/176-javaandroid-sdk/ "Java/Android SDK")  
-        Por [LawzinVL](https://www.clubedohardware.com.br/profile/1253256-lawzinvl/ "Ir ao perfil de LawzinVL")  
-        1 hora atrás
-        
-    * [![GamerTube](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/imported-photo-1251777.thumb.png.e1683dd5f0894f1987fc960c91b5a200.png)](https://www.clubedohardware.com.br/profile/1251777-gamertube/ "Ir ao perfil de GamerTube")
-        
-        0
-        
-        [Ter um cabo de 4 pinos tendo apenas 3 fios nele e perigoso?](https://www.clubedohardware.com.br/forums/topic/1697658-ter-um-cabo-de-4-pinos-tendo-apenas-3-fios-nele-e-perigoso/?do=getNewComment "Ter um cabo de 4 pinos tendo apenas 3 fios nele e perigoso?")
-        
-        [Gabinetes e casemod](https://www.clubedohardware.com.br/forums/forum/81-gabinetes-e-casemod/ "Gabinetes e casemod")  
-        Por [GamerTube](https://www.clubedohardware.com.br/profile/1251777-gamertube/ "Ir ao perfil de GamerTube")  
+        [Fontes e energia](https://www.clubedohardware.com.br/forums/forum/153-fontes-e-energia/ "Fontes e energia")  
+        Por [Kauã Brandon](https://www.clubedohardware.com.br/profile/1253279-kau%C3%A3-brandon/ "Ir ao perfil de Kauã Brandon")  
         2 horas atrás
         
-    * [![Shelbyx027](https://www.clubedohardware.com.br/uploads/members/monthly_2024_09/imported-photo-1253217.thumb.png.798a846f552435c3acd180ed5fe97a07.png)](https://www.clubedohardware.com.br/profile/1253217-shelbyx027/ "Ir ao perfil de Shelbyx027")
+    * [![Tiago 1093](https://www.clubedohardware.com.br/uploads/members/monthly_2024_09/imported-photo-1253277.thumb.jpeg.0efa6a2079af2742e1ed68ce163dc2a8.jpeg)](https://www.clubedohardware.com.br/profile/1253277-tiago-1093/ "Ir ao perfil de Tiago 1093")
+        
+        0
+        
+        [Meu PC Roda quais placas de Vídeo?](https://www.clubedohardware.com.br/forums/topic/1697682-meu-pc-roda-quais-placas-de-v%C3%ADdeo/?do=getNewComment "Meu PC Roda quais placas de Vídeo?")
+        
+        [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
+        Por [Tiago 1093](https://www.clubedohardware.com.br/profile/1253277-tiago-1093/ "Ir ao perfil de Tiago 1093")  
+        2 horas atrás
+        
+    * [![reokat](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%238d62c4%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3ER%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1236251-reokat/ "Ir ao perfil de reokat")
+        
+        0
+        
+        [Algo causando coil whine e fps baixo na placa de Vídeo quando jogando.](https://www.clubedohardware.com.br/forums/topic/1697680-algo-causando-coil-whine-e-fps-baixo-na-placa-de-v%C3%ADdeo-quando-jogando/?do=getNewComment "Algo causando coil whine e fps baixo na placa de Vídeo quando jogando.")
+        
+        [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
+        Por [reokat](https://www.clubedohardware.com.br/profile/1236251-reokat/ "Ir ao perfil de reokat")  
+        3 horas atrás
+        
+    * [![cristhyanhard](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23626fc4%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EC%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1230502-cristhyanhard/ "Ir ao perfil de cristhyanhard")
+        
+        0
+        
+        [Essa fonte aguenta a placa ?](https://www.clubedohardware.com.br/forums/topic/1697679-essa-fonte-aguenta-a-placa/?do=getNewComment "Essa fonte aguenta a placa ?")
+        
+        [Fontes e energia](https://www.clubedohardware.com.br/forums/forum/153-fontes-e-energia/ "Fontes e energia")  
+        Por [cristhyanhard](https://www.clubedohardware.com.br/profile/1230502-cristhyanhard/ "Ir ao perfil de cristhyanhard")  
+        3 horas atrás
+        
+    * [![hyboro](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/pc-gamer-thumb-ts56rack6f6u.thumb.webp.31138354b0dda1ecf820e93c6966c574.webp)](https://www.clubedohardware.com.br/profile/1091302-hyboro/ "Ir ao perfil de hyboro")
+        
+        0
+        
+        [qual notebook devo comprar?](https://www.clubedohardware.com.br/forums/topic/1697678-qual-notebook-devo-comprar/?do=getNewComment "qual notebook devo comprar?")
+        
+        [Notebooks](https://www.clubedohardware.com.br/forums/forum/156-notebooks/ "Notebooks")  
+        Por [hyboro](https://www.clubedohardware.com.br/profile/1091302-hyboro/ "Ir ao perfil de hyboro")  
+        4 horas atrás
+        
+    * [![Estevixx](https://www.clubedohardware.com.br/uploads/members/monthly_2024_09/imported-photo-1253264.thumb.png.8b2fb371b1fde917e9e28f05973afe8d.png)](https://www.clubedohardware.com.br/profile/1253264-estevixx/ "Ir ao perfil de Estevixx")
         
         1
         
-        [Fonte boa para um i5 8400 e 1660 super](https://www.clubedohardware.com.br/forums/topic/1697657-fonte-boa-para-um-i5-8400-e-1660-super/?do=getNewComment "Fonte boa para um i5 8400 e 1660 super")
+        [Estou postando o meu setup, esse setup está bom para jogos e trabalho?](https://www.clubedohardware.com.br/forums/topic/1697677-estou-postando-o-meu-setup-esse-setup-est%C3%A1-bom-para-jogos-e-trabalho/?do=getNewComment "Estou postando o meu setup, esse setup está bom para jogos e trabalho?")
         
-        [Fontes e energia](https://www.clubedohardware.com.br/forums/forum/153-fontes-e-energia/ "Fontes e energia")  
-        Por [Shelbyx027](https://www.clubedohardware.com.br/profile/1253217-shelbyx027/ "Ir ao perfil de Shelbyx027")  
-        2 horas atrás
+        [Montagem e upgrade de computadores de mesa](https://www.clubedohardware.com.br/forums/forum/93-montagem-e-upgrade-de-computadores-de-mesa/ "Montagem e upgrade de computadores de mesa")  
+        Por [Estevixx](https://www.clubedohardware.com.br/profile/1253264-estevixx/ "Ir ao perfil de Estevixx")  
+        5 horas atrás
         
-    * [![Saulomaisbr](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%239dc462%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3ES%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1155177-saulomaisbr/ "Ir ao perfil de Saulomaisbr")
+    * [![gustavo nj](https://www.clubedohardware.com.br/uploads/members/monthly_2024_09/imported-photo-1253245.thumb.jpeg.63914bf1a512ac211464f3b08fd84275.jpeg)](https://www.clubedohardware.com.br/profile/1253245-gustavo-nj/ "Ir ao perfil de gustavo nj")
+        
+        1
+        
+        [Não consigo fazer o computador reconhecer o segundo monitor.](https://www.clubedohardware.com.br/forums/topic/1697676-n%C3%A3o-consigo-fazer-o-computador-reconhecer-o-segundo-monitor/?do=getNewComment "Não consigo fazer o computador reconhecer  o segundo monitor.")
+        
+        [Placas-mãe](https://www.clubedohardware.com.br/forums/forum/28-placas-m%C3%A3e/ "Placas-mãe")  
+        Por [gustavo nj](https://www.clubedohardware.com.br/profile/1253245-gustavo-nj/ "Ir ao perfil de gustavo nj")  
+        5 horas atrás
+        
+    * [![Catjard](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/imported-photo-1238936.thumb.png.9a356abd193847fc6e80702c207c3091.png)](https://www.clubedohardware.com.br/profile/1238936-catjard/ "Ir ao perfil de Catjard")
         
         0
         
-        [curso de inglês para programadores](https://www.clubedohardware.com.br/forums/topic/1697656-curso-de-ingl%C3%AAs-para-programadores/?do=getNewComment "curso de inglês para programadores")
-        
-        [Estudos e mercado de trabalho](https://www.clubedohardware.com.br/forums/forum/59-estudos-e-mercado-de-trabalho/ "Estudos e mercado de trabalho")  
-        Por [Saulomaisbr](https://www.clubedohardware.com.br/profile/1155177-saulomaisbr/ "Ir ao perfil de Saulomaisbr")  
-        2 horas atrás
-        
-    * [![Gus.Almeida](https://www.clubedohardware.com.br/uploads/members/monthly_2024_09/imported-photo-1253253.thumb.png.56865c1677fb8359f8e58b68c9f81e9e.png)](https://www.clubedohardware.com.br/profile/1253253-gusalmeida/ "Ir ao perfil de Gus.Almeida")
-        
-        3
-        
-        [Bom PC?: Gigabyte B550M K, Ryzen 5 5600X, 16GB e Radeon RX 6600?](https://www.clubedohardware.com.br/forums/topic/1697654-bom-pc-gigabyte-b550m-k-ryzen-5-5600x-16gb-e-radeon-rx-6600/?do=getNewComment "Bom PC?: Gigabyte B550M K, Ryzen 5 5600X, 16GB e Radeon RX 6600?")
+        [computador para realidade virtual](https://www.clubedohardware.com.br/forums/topic/1697675-computador-para-realidade-virtual/?do=getNewComment "computador para realidade virtual")
         
         [Montagem e upgrade de computadores de mesa](https://www.clubedohardware.com.br/forums/forum/93-montagem-e-upgrade-de-computadores-de-mesa/ "Montagem e upgrade de computadores de mesa")  
-        Por [Gus.Almeida](https://www.clubedohardware.com.br/profile/1253253-gusalmeida/ "Ir ao perfil de Gus.Almeida")  
-        4 horas atrás
+        Por [Catjard](https://www.clubedohardware.com.br/profile/1238936-catjard/ "Ir ao perfil de Catjard")  
+        5 horas atrás
+        
+    * [![Lunner](https://www.clubedohardware.com.br/uploads/members/monthly_2024_09/EVUd3JVWAAIGos7(1).thumb.jpg.3a305c3d3f5642709fce78d9d3faf3fd.jpg)](https://www.clubedohardware.com.br/profile/1253270-lunner/ "Ir ao perfil de Lunner")
+        
+        0
+        
+        [Podem verificar se é uma boa composição de peças?](https://www.clubedohardware.com.br/forums/topic/1697674-podem-verificar-se-%C3%A9-uma-boa-composi%C3%A7%C3%A3o-de-pe%C3%A7as/?do=getNewComment "Podem verificar se é uma boa composição de peças?")
+        
+        [Montagem e upgrade de computadores de mesa](https://www.clubedohardware.com.br/forums/forum/93-montagem-e-upgrade-de-computadores-de-mesa/ "Montagem e upgrade de computadores de mesa")  
+        Por [Lunner](https://www.clubedohardware.com.br/profile/1253270-lunner/ "Ir ao perfil de Lunner")  
+        5 horas atrás
+        
+    * [![HenriqueV5](https://www.clubedohardware.com.br/uploads/members/monthly_2023_02/avatar-min.thumb.png.57f90b1c8d5eb8bdebace28f9464ae39.png)](https://www.clubedohardware.com.br/profile/1212542-henriquev5/ "Ir ao perfil de HenriqueV5")
+        
+        0
+        
+        [Internet SKY Fibra presta?](https://www.clubedohardware.com.br/forums/topic/1697673-internet-sky-fibra-presta/?do=getNewComment "Internet SKY Fibra presta?")
+        
+        [Redes e Internet](https://www.clubedohardware.com.br/forums/forum/171-redes-e-internet/ "Redes e Internet")  
+        Por [HenriqueV5](https://www.clubedohardware.com.br/profile/1212542-henriquev5/ "Ir ao perfil de HenriqueV5")  
+        5 horas atrás
         
     
 
