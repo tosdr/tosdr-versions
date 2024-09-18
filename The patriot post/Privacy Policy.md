@@ -110,13 +110,13 @@ Last Updated: November 15, 2011.
 
 ### Memesters Union
 
-     [](https://patriotpost.us/memes/110289-the-bloodiest-day-2024-09-17)
+     [](https://patriotpost.us/memes/110325-air-force-day-2024-09-18)
 
 * [More Memes >](https://patriotpost.us/memes)
 
 ### Cartoons
 
-     [](https://patriotpost.us/cartoons/34229)
+     [](https://patriotpost.us/cartoons/34236)
 
 * [More Cartoons >](https://patriotpost.us/cartoons)
 
@@ -130,9 +130,6 @@ Last Updated: November 15, 2011.
 *      [Victor Joecks The Left’s Best Defense of Harris Is Denial](https://patriotpost.us/opinion/110296-the-lefts-best-defense-of-harris-is-denial-2024-09-17)
 *      [Daniel McCarthy When Character Assassination Becomes the Real Thing](https://patriotpost.us/opinion/110294-when-character-assassination-becomes-the-real-thing-2024-09-17)
 *      [Dennis Prager The Reasons Young Women Embrace the Left Do Not Reflect Well on These Women](https://patriotpost.us/opinion/110293-the-reasons-young-women-embrace-the-left-do-not-reflect-well-on-these-women-2024-09-17)
-*      [Guest Commentary The Demos’ ‘Ranked Choice Vote’ Subversion Scheme](https://patriotpost.us/opinion/110305-the-demos-ranked-choice-vote-subversion-scheme-2024-09-17)
-*      [The Washington Stand Deceptive and Trustworthy Responses to Current Political Divisiveness](https://patriotpost.us/opinion/110303-deceptive-and-trustworthy-responses-to-current-political-divisiveness-2024-09-17)
-*      [The Babylon Bee Kamala Safe and in Stable Condition After Attempted Interview](https://patriotpost.us/opinion/110302-kamala-safe-and-in-stable-condition-after-attempted-interview-2024-09-17)
 
 * [More Opinion >](https://patriotpost.us/opinion)
 
@@ -146,7 +143,9 @@ Last Updated: November 15, 2011.
 
 [END OF WATCH](https://patriotpost.us/end-of-watch)
 
-No MSM Churn No Clickbait Junk No Advertising
+[![](https://img.patriotpost.us/01J5RS2YKRTNS1580CS7YVV0SF.jpeg)
+
+![](https://img.patriotpost.us/01J5RSAEYEKZ8DRMMYMBSNCWNH.jpeg)](https://patriotpostshop.com/collections/featured-products)
 
 ### The Foundation
 
