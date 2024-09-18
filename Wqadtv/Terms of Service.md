@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/eaa90dd7-a08e-40df-ae90-95298f0fcb63/eaa90dd7-a08e-40df-ae90-95298f0fcb63_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/eaa90dd7-a08e-40df-ae90-95298f0fcb63/eaa90dd7-a08e-40df-ae90-95298f0fcb63_360x203.jpg)](https://www.wqad.com/article/news/local/fugitive-apprehended-monroe-county-victor-farris/526-8ea4527d-6597-4857-970e-04dccc38433a)
+    *  [![](https://media.tegna-media.com/assets/WTOL/images/dfdb5506-dbc4-4426-b3fc-9ee997869fd5/dfdb5506-dbc4-4426-b3fc-9ee997869fd5_16x9.jpg) ![](https://media.tegna-media.com/assets/WTOL/images/dfdb5506-dbc4-4426-b3fc-9ee997869fd5/dfdb5506-dbc4-4426-b3fc-9ee997869fd5_360x203.jpg)](https://www.wqad.com/article/news/local/davenport-police-search-missing-man/526-7ff237c4-4288-403a-98be-a022fe8aaf21)
         
-        #### [Fugitive arrested in Monroe County after nearly two weeks on the run](https://www.wqad.com/article/news/local/fugitive-apprehended-monroe-county-victor-farris/526-8ea4527d-6597-4857-970e-04dccc38433a)
+        #### [Missing Davenport man found](https://www.wqad.com/article/news/local/davenport-police-search-missing-man/526-7ff237c4-4288-403a-98be-a022fe8aaf21)
         
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/b2d10790-e927-434c-8d77-c8a05f93a334/20240918T023507/b2d10790-e927-434c-8d77-c8a05f93a334_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/b2d10790-e927-434c-8d77-c8a05f93a334/20240918T023507/b2d10790-e927-434c-8d77-c8a05f93a334_360x203.jpg)](https://www.wqad.com/article/news/local/davenport-restores-general-public-comment-committee-of-the-whole-meetings/526-022994ea-6413-40a1-9bb9-3530d5054647)
+    *  [![](https://media.tegna-media.com/assets/WNEP/images/c018d4e9-3dd4-4d2a-9e1d-0f5718e91e56/c018d4e9-3dd4-4d2a-9e1d-0f5718e91e56_16x9.png) ![](https://media.tegna-media.com/assets/WNEP/images/c018d4e9-3dd4-4d2a-9e1d-0f5718e91e56/c018d4e9-3dd4-4d2a-9e1d-0f5718e91e56_360x203.png)](https://www.wqad.com/article/traffic/west-liberty-muscatine-crash/526-ea14c02d-a27c-4d87-89a9-c9ff4e25339d)
         
-        #### [Public comment is back at Davenport's Committee of the Whole meetings](https://www.wqad.com/article/news/local/davenport-restores-general-public-comment-committee-of-the-whole-meetings/526-022994ea-6413-40a1-9bb9-3530d5054647)
+        #### [1 dead, 2 injured in West Liberty crash](https://www.wqad.com/article/traffic/west-liberty-muscatine-crash/526-ea14c02d-a27c-4d87-89a9-c9ff4e25339d)
         
     
 * [Weather](https://www.wqad.com/weather)
@@ -56,13 +56,13 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/ca93b427-2503-4622-98d0-7ea8a5a14f5b/20240917T231126/ca93b427-2503-4622-98d0-7ea8a5a14f5b_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/ca93b427-2503-4622-98d0-7ea8a5a14f5b/20240917T231126/ca93b427-2503-4622-98d0-7ea8a5a14f5b_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/daaebd14-c02f-4777-982b-67701e0d036f/20240918T134904/daaebd14-c02f-4777-982b-67701e0d036f_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/daaebd14-c02f-4777-982b-67701e0d036f/20240918T134904/daaebd14-c02f-4777-982b-67701e0d036f_360x203.jpg)](https://www.wqad.com/video/news/live_breaking/ask-andrew-live-episode-1/526-edcd839a-9189-4088-800e-a5cf184394ab)
         
-        #### [Warm, summery weather continues to close out the work week](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+        #### [Ask Andrew Live](https://www.wqad.com/video/news/live_breaking/ask-andrew-live-episode-1/526-edcd839a-9189-4088-800e-a5cf184394ab)
         
-    *  [![](https://media.tegna-media.com/assets/CCT/images/d00a961c-caa2-480f-ba2e-99225d0d742c/20240917T150049/d00a961c-caa2-480f-ba2e-99225d0d742c_16x9.jpg) ![](https://media.tegna-media.com/assets/CCT/images/d00a961c-caa2-480f-ba2e-99225d0d742c/20240917T150049/d00a961c-caa2-480f-ba2e-99225d0d742c_360x203.jpg)](https://www.wqad.com/article/news/nation-world/central-europe-flooding-romania-poland-czech-republic-austria/507-4de628f8-338d-48fa-a3b0-6519cf9a5243)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/f580e14f-cc1c-4480-8716-a2ef1f67a1da/20240918T121315/f580e14f-cc1c-4480-8716-a2ef1f67a1da_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/f580e14f-cc1c-4480-8716-a2ef1f67a1da/20240918T121315/f580e14f-cc1c-4480-8716-a2ef1f67a1da_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
-        #### [Central Europe flooding leaves 16 dead in Romania, Poland, Czech Republic and Austria](https://www.wqad.com/article/news/nation-world/central-europe-flooding-romania-poland-czech-republic-austria/507-4de628f8-338d-48fa-a3b0-6519cf9a5243)
+        #### [80s hang on for a few more days](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
     
 * [Sports](https://www.wqad.com/sports)
@@ -86,9 +86,9 @@ Navigation
 
 Davenport, IA »
 
-56°
+79°
 
-![Clear](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
+![Sunny](/assets/shared-images/weather-icons/clear-day_210x210.png)
 
 Davenport, IA »](https://www.wqad.com/weather)
 
