@@ -76,6 +76,10 @@ Search
 
 Search
 
+#### Breaking News
+
+[Hezbollah vows ‘harsh’ revenge as death toll rises to 12 in exploding pager blasts that injured thousands](https://nypost.com/2024/09/18/world-news/death-toll-rises-to-12-in-lebanon-exploding-pager-blasts-that-wounded-thousands/)
+
 Privacy Notice Highlights
 =========================
 
