@@ -87,7 +87,13 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
         * [Health & Medicine](https://www.sciencenews.org/topic/health-medicine)
         * [Archaeology](https://www.sciencenews.org/topic/archaeology)
         * [Psychology](https://www.sciencenews.org/topic/psychology)
-    * * [Health & Medicine](https://www.sciencenews.org/topic/health-medicine)
+    * * [Anthropology](https://www.sciencenews.org/topic/anthropology)
+            
+            ### [Fossils of an extinct animal may have inspired this cave art drawing](https://www.sciencenews.org/article/fossils-extinct-animal-cave-art)
+            
+            By [Bruce Bower](https://www.sciencenews.org/author/bruce-bower "Posts by Bruce Bower")3 hours ago
+            
+        * [Health & Medicine](https://www.sciencenews.org/topic/health-medicine)
             
             ### [Can taking ashwagandha supplements improve health?](https://www.sciencenews.org/article/does-ashwagandha-improve-health)
             
@@ -98,12 +104,6 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             ### [Ancient DNA unveils a previously unknown line of Neandertals](https://www.sciencenews.org/article/ancient-dna-unveils-unknown-neandertals)
             
             By [Bruce Bower](https://www.sciencenews.org/author/bruce-bower "Posts by Bruce Bower")September 11, 2024
-            
-        * [Health & Medicine](https://www.sciencenews.org/topic/health-medicine)
-            
-            ### [California droughts may help valley fever spread](https://www.sciencenews.org/article/valley-fever-fungus-california-drought)
-            
-            By [Erin Garcia de Jesús](https://www.sciencenews.org/author/erin-garcia-de-jesus "Posts by Erin Garcia de Jesús")September 11, 2024
             
 * [Life](https://www.sciencenews.org/topic/life)
     * [Life](https://www.sciencenews.org/topic/life)
@@ -116,21 +116,21 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
         * [Microbes](https://www.sciencenews.org/topic/microbes)
     * * [Neuroscience](https://www.sciencenews.org/topic/neuroscience)
             
+            ### [Some healthy fish have bacteria in their brains](https://www.sciencenews.org/article/fish-brain-bacteria)
+            
+            By [Erin Garcia de Jesús](https://www.sciencenews.org/author/erin-garcia-de-jesus "Posts by Erin Garcia de Jesús")3 hours ago
+            
+        * [Neuroscience](https://www.sciencenews.org/topic/neuroscience)
+            
             ### [Mitochondria can sneak DNA into the nuclei of brain cells](https://www.sciencenews.org/article/mitochondria-insertions-brain-cells)
             
-            By [Claudia López Lloreda](https://www.sciencenews.org/author/claudia-lopez-lloreda "Posts by Claudia López Lloreda")3 hours ago
+            By [Claudia López Lloreda](https://www.sciencenews.org/author/claudia-lopez-lloreda "Posts by Claudia López Lloreda")9 hours ago
             
         * [Plants](https://www.sciencenews.org/topic/plants)
             
             ### [Projectile pollen helps this flower edge out reproductive competition](https://www.sciencenews.org/article/projectile-pollen-flower-competition)
             
             By [Nala Rogers](https://www.sciencenews.org/author/nala-rogers "Posts by Nala Rogers")September 17, 2024
-            
-        * [Neuroscience](https://www.sciencenews.org/topic/neuroscience)
-            
-            ### [Pregnancy overhauls the brain. Here’s what that looks like](https://www.sciencenews.org/article/pregnancy-brain-overhauls-mother)
-            
-            By [Laura Sanders](https://www.sciencenews.org/author/laura-sanders "Posts by Laura Sanders")September 16, 2024
             
 * [Earth](https://www.sciencenews.org/topic/earth)
     * [Earth](https://www.sciencenews.org/topic/earth)
@@ -161,11 +161,17 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
         * [Materials Science](https://www.sciencenews.org/topic/materials-science)
         * [Quantum Physics](https://www.sciencenews.org/topic/quantum-physics)
         * [Particle Physics](https://www.sciencenews.org/topic/particle-physics)
-    * * [Physics](https://www.sciencenews.org/topic/physics)
+    * * [Particle Physics](https://www.sciencenews.org/topic/particle-physics)
+            
+            ### [The Large Hadron Collider exposes quarks’ quantum entanglement](https://www.sciencenews.org/article/quarks-quantum-entanglement)
+            
+            By [Emily Conover](https://www.sciencenews.org/author/emily-conover "Posts by Emily Conover")6 hours ago
+            
+        * [Physics](https://www.sciencenews.org/topic/physics)
             
             ### [How to spot tiny black holes that might pass through the solar system](https://www.sciencenews.org/article/primordial-black-holes-solar-system) 
             
-            By [Emily Conover](https://www.sciencenews.org/author/emily-conover "Posts by Emily Conover")24 hours ago
+            By [Emily Conover](https://www.sciencenews.org/author/emily-conover "Posts by Emily Conover")September 17, 2024
             
         * [Quantum Physics](https://www.sciencenews.org/topic/quantum-physics)
             
@@ -173,34 +179,28 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             By [Emily Conover](https://www.sciencenews.org/author/emily-conover "Posts by Emily Conover")September 10, 2024
             
-        * [Health & Medicine](https://www.sciencenews.org/topic/health-medicine)
-            
-            ### [50 years ago, some of plastic’s toxic hazards were exposed](https://www.sciencenews.org/article/50-years-ago-plastic-hazard)
-            
-            By [Erin Garcia de Jesús](https://www.sciencenews.org/author/erin-garcia-de-jesus "Posts by Erin Garcia de Jesús")September 6, 2024
-            
 * [Space](https://www.sciencenews.org/topic/space)
     * [Space](https://www.sciencenews.org/topic/space)
         * [Astronomy](https://www.sciencenews.org/topic/astronomy)
         * [Planetary Science](https://www.sciencenews.org/topic/planetary-science)
         * [Cosmology](https://www.sciencenews.org/topic/cosmology)
-    * * [Physics](https://www.sciencenews.org/topic/physics)
+    * * [Space](https://www.sciencenews.org/topic/space)
+            
+            ### [Meet Porphyrion, the largest pair of black hole jets ever seen](https://www.sciencenews.org/article/universe-largest-black-hole-jets)
+            
+            By [Lisa Grossman](https://www.sciencenews.org/author/lisa-grossman "Posts by Lisa Grossman")6 hours ago
+            
+        * [Physics](https://www.sciencenews.org/topic/physics)
             
             ### [How to spot tiny black holes that might pass through the solar system](https://www.sciencenews.org/article/primordial-black-holes-solar-system) 
             
-            By [Emily Conover](https://www.sciencenews.org/author/emily-conover "Posts by Emily Conover")24 hours ago
+            By [Emily Conover](https://www.sciencenews.org/author/emily-conover "Posts by Emily Conover")September 17, 2024
             
         * [Space](https://www.sciencenews.org/topic/space)
             
             ### [How a dying star is similar to a lava lamp](https://www.sciencenews.org/article/dying-star-lava-lamp-convection)
             
             By [Lisa Grossman](https://www.sciencenews.org/author/lisa-grossman "Posts by Lisa Grossman")September 16, 2024
-            
-        * [Planetary Science](https://www.sciencenews.org/topic/planetary-science)
-            
-            ### [Scientists find a long-sought electric field in Earth’s atmosphere](https://www.sciencenews.org/article/electric-field-in-earths-atmosphere)
-            
-            By [Lisa Grossman](https://www.sciencenews.org/author/lisa-grossman "Posts by Lisa Grossman")September 13, 2024
             
 
 Privacy Policy
