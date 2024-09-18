@@ -34,11 +34,10 @@ Login Stay logged in
 
 Latest Forum Topics
 
-* [Say a random sentence (8,487)](https://forum.nationstates.net/viewtopic.php?t=514647&f=25&view=unread#unread ""Say a random sentence" (8,487 posts)")
-* [Transformers: Electric Trepidation (7,536)](https://forum.nationstates.net/viewtopic.php?t=548040&f=20&view=unread#unread ""Transformers: Electric Trepidation" (7,536 posts)")
-* [STRANGE NEW WORLD (2024 ALT-HISTORY R… (236)](https://forum.nationstates.net/viewtopic.php?t=554877&f=31&view=unread#unread ""STRANGE NEW WORLD (2024 ALT-HISTORY RP) - OOC" (236 posts)")
-* [The Seal and Logo Request Thread (8,480)](https://forum.nationstates.net/viewtopic.php?t=418198&f=23&view=unread#unread ""The Seal and Logo Request Thread" (8,480 posts)")
-* [Geography Game II (10,056)](https://forum.nationstates.net/viewtopic.php?t=529733&f=25&view=unread#unread ""Geography Game II" (10,056 posts)")
+* [Ukrainian War VII: Kursk, Act II (5,233)](https://forum.nationstates.net/viewtopic.php?t=551126&f=20&view=unread#unread ""Ukrainian War VII: Kursk, Act II" (5,233 posts)")
+* [At The Tides Of War \[PT2M Alt-Hist RP… (7)](https://forum.nationstates.net/viewtopic.php?t=555399&f=31&view=unread#unread ""At The Tides Of War [PT2M Alt-Hist RP — IC]" (7 posts)")
+* [Is AN or AAN more well known/Famous? (547)](https://forum.nationstates.net/viewtopic.php?t=554643&f=25&view=unread#unread ""Is AN or AAN more well known/Famous?" (547 posts)")
+* [Favorite line from AN's Factbooks II (11,315)](https://forum.nationstates.net/viewtopic.php?t=510652&f=25&view=unread#unread ""Favorite line from AN's Factbooks II" (11,315 posts)")
 
 Advertisement
 
