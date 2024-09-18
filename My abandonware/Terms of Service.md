@@ -85,20 +85,20 @@ Top downloads
 
 Latest releases
 
-* [Jr. Pac-Man](https://www.myabandonware.com/game/jr-pac-man-gu)
-* [Robot Rescue](https://www.myabandonware.com/game/robot-rescue-rxg)
-* [Boomertrix](https://www.myabandonware.com/game/boomertrix-rxf)
-* [Vette!](https://www.myabandonware.com/game/vette-sv)
-* [Battle Rage](https://www.myabandonware.com/game/battle-rage-rxe)
+* [Safari](https://www.myabandonware.com/game/safari-se0)
+* [Sharpshooter](https://www.myabandonware.com/game/sharpshooter-sdy)
+* [Rotary Fighter](https://www.myabandonware.com/game/rotary-fighter-sdx)
+* [Shark Treasure](https://www.myabandonware.com/game/shark-treasure-sdw)
+* [Rolling Crash](https://www.myabandonware.com/game/rolling-crash-sdv)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [Facebook](https://www.facebook.com/myabandonware) or [X (Twitter)](https://x.com/myabandonware)
 
 Screenshots needed
 
-* [Extreme Angler](https://www.myabandonware.com/game/extreme-angler-i4h)
-* [Superkid](https://www.myabandonware.com/game/superkid-om8)
-* [Gunplay](https://www.myabandonware.com/game/gunplay-mo2)
+* [Stickybear: Math](https://www.myabandonware.com/game/stickybear-math-pk4)
+* [Stack Columns](https://www.myabandonware.com/game/stack-columns-rmo)
+* [Skipper & Skeeto: Treasure Quiz](https://www.myabandonware.com/game/skipper-skeeto-treasure-quiz-l3k)
 
 Read our [screenshot tutorial](https://www.myabandonware.com/screenshots/)
 
