@@ -222,9 +222,9 @@ Lobby Jackpots
 
 5\. Lobby jackpot prizes are awarded as a real money balance with no wagering restrictions, except when won while playing with a deposit bonus or cashback. In such cases, wagering requirements of the respective bonus apply. 
 
-[Fair Go Lobby](https://cdk.fairgoplus.com/Lobby.aspx?SkinId=1&show=login "log in to fair go casino")
+[Fair Go Lobby](https://www.fairgoplus.com/login "log in to fair go casino")
 
-[Create an account](https://cdk.fairgoplus.com/Lobby.aspx?SkinId=1&show=signup "sign up")
+[Create an account](https://www.fairgoplus.com/signup "sign up")
 
 [Promotions](https://www.fairgoplus.com/promotions "promotions")
 
@@ -258,7 +258,7 @@ Lobby Jackpots
 
 [Real Cash Pokies](https://www.fairgoplus.com/the-difference-between-real-cash-pokies-and-free-games "The difference between real cash pokies and free games")
 
-[Fair Go Bonuses](https://www.fairgocasinobonuses.com/ "Fair Go Bonuses")
+[Fair Go Bonuses](https://www.bonusfairgo.com/ "Fair Go Bonuses")
 
 [Free Pokies](https://www.fairgoplus.com/10-free-pokies-at-fair-go-casino "What are Fair Go Free pokies?")
 
@@ -288,7 +288,7 @@ Lobby Jackpots
 
 [Sitemap](https://www.fairgoplus.com/sitemap.xml "sitemap")
 
-[Twitter](https://twitter.com/FairGoCasino "Follow us on Twitter")
+[Twitter](https://x.com/FairGoCasino "Follow us on Twitter")
 
 [10 best pokies at Fair Go](https://www.fairgoplus.com/10-free-pokies-at-fair-go-casino "Follow us on Twitter")
 
