@@ -128,39 +128,39 @@ Advertisement
     The Beginning and the End of the Universe
     
     Episode 1: The BeginingEmbarking on a cosmic journey, Professor Jim Al-Khalili transports us through the corridors of time to confront science's most profound inquiry: the genesis of the univers...](https://documentaryheaven.com/the-beginning-and-the-end-of-the-universe/ "The Beginning and the End of the Universe")
-* [![National Security Alert](/wp-content/thumbnails/933-100x70.jpg?x53432)
+* [![The War On Drugs: The Prison Industrial Complex](/wp-content/thumbnails/958-100x70.gif?x53432)
     
-    National Security Alert
+    The War On Drugs: The Prison Industrial Complex
     
-    In 2006 Citizen Investigation Team launched an independent investigation into the act of terrorism which took place at the Pentagon on September 11, 2001. This exhaustive three-year inquest involved ...](https://documentaryheaven.com/national-security-alert/ "National Security Alert")
+    The war on drugs has been going on for more than three decades. Today, nearly 500,000 Americans are imprisoned on drug charges. In 1980 the number was 50,000. Last year $40 billion in taxpayer dollars...](https://documentaryheaven.com/the-war-on-drugs-the-prison-industrial-complex/ "The War On Drugs: The Prison Industrial Complex")
 
 ###### Throwback Documentaries
 
-* [![From Russia With Hate](/wp-content/thumbnails/4201-100x70.jpg?x53432)
+* [![Hy.poth.e.sis](/wp-content/thumbnails/7070-100x70.jpg?x53432)
     
-    From Russia With Hate
+    Hy.poth.e.sis
     
-    An insight into the world of the Russian Neo Nazi gangs.](https://documentaryheaven.com/from-russia-with-hate/ "From Russia With Hate")
-* [![Diary of a Porn Virgin](/wp-content/thumbnails/3958-100x70.png?x53432)
+    Hy.poth.e.sis is a documentary film that follows physics professor Steven E. Jones during a pivotal point in his life. In 2005, Steven went public with a controversial theory regarding the collapse o](https://documentaryheaven.com/hypothesis/ "Hy.poth.e.sis")
+* [![The Story of Science: Can We Have Unlimited Power?](/wp-content/thumbnails/3676)
     
-    Diary of a Porn Virgin
+    The Story of Science: Can We Have Unlimited Power?
     
-    Pornography in Britain has entered the mainstream. As this documentary reveals, there is now no taboo when it comes to working in the porn industry in the UK.From a 38-year-old wife, mother and su](https://documentaryheaven.com/diary-of-a-porn-virgin/ "Diary of a Porn Virgin")
-* [![Remembering the 911 Demolitions](/wp-content/thumbnails/4176-100x70.jpg?x53432)
+    We are the most power-hungry generation that has ever lived. This film tells the story of how that power has been harnessed – from wind, steam and from inside the atom. In the early years the drive fo](https://documentaryheaven.com/the-story-of-science-can-we-have-unlimited-power/ "The Story of Science: Can We Have Unlimited Power?")
+* [![The World’s Strictest Parents](/wp-content/thumbnails/6291-100x70.jpg?x53432)
     
-    Remembering the 911 Demolitions
+    The World’s Strictest Parents
     
-    Meet The Truth 2 Year Anniversary Show. September 11 2001, A look at the day before, the insider trading, the physics of a concrete and steel structure collapse, and the Solomon Building, also known](https://documentaryheaven.com/remembering-the-911-demolitions/ "Remembering the 911 Demolitions")
-* [![CIA Secret Experiments](/wp-content/thumbnails/7065-100x70.jpg?x53432)
+    Unruly teenagers are sent abroad to live with strict families in an experiment to find out the right way to bring up a child. These series document the journey of unruly teens from different families](https://documentaryheaven.com/the-worlds-strictest-parents/ "The World’s Strictest Parents")
+* [![Living on Mars](/wp-content/thumbnails/4155-100x70.jpg?x53432)
     
-    CIA Secret Experiments
+    Living on Mars
     
-    It's the height of the Cold War and the United States government is desperate to combat the spread of Communism. The CIA launches a highly classified, top secret research program into the covert use o](https://documentaryheaven.com/cia-secret-experiments/ "CIA Secret Experiments")
-* [![Playing God](/wp-content/thumbnails/6390-100x70.jpg?x53432)
+    The notion of bringing Mars to life – transforming a cold, dry, uninhabitable desert into a living planet – is called terraforming, it has been around for almost a century. Initially just a science fi](https://documentaryheaven.com/living-on-mars/ "Living on Mars")
+* [![The Cola Wars](/wp-content/thumbnails/14516-100x70.jpg?x53432)
     
-    Playing God
+    The Cola Wars
     
-    Adam Rutherford meets a new creature created by American scientists, the spider-goat. It is part goat, part spider, and its milk can be used to create artificial spider’s web.It is part of a new f](https://documentaryheaven.com/playing-god/ "Playing God")
+    The soft drink industry is a 100 million dollar juggernaut, the Coca Cola Company and Pepsi Co. control vast empires which reach into practically every corner of the globe. Through huge networks of bo](https://documentaryheaven.com/cola-wars/ "The Cola Wars")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
