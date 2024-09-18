@@ -59,7 +59,7 @@ Topics
 Special Features
 ----------------
 
-[All Special Features](https://www.theregister.com/special_features) [VMware Explore](https://www.theregister.com/special_features/vmware_explore) [Blackhat and DEF CON](https://www.theregister.com/special_features/blackhat_and_defcon) [Cloud Infrastructure Month](https://www.theregister.com/special_features/cloud_infrastructure_month) [Malware Month](https://www.theregister.com/special_features/malware_month) [The Reg in Space](https://www.theregister.com/special_features/the_reg_in_space) [Spotlight on RSA](https://www.theregister.com/special_features/spotlight_on_rsa)
+[All Special Features](https://www.theregister.com/special_features) [Cybersecurity Month](https://www.theregister.com/special_features/cybersecurity_month) [VMware Explore](https://www.theregister.com/special_features/vmware_explore) [Blackhat and DEF CON](https://www.theregister.com/special_features/blackhat_and_defcon) [Cloud Infrastructure Month](https://www.theregister.com/special_features/cloud_infrastructure_month) [Malware Month](https://www.theregister.com/special_features/malware_month) [The Reg in Space](https://www.theregister.com/special_features/the_reg_in_space) [Spotlight on RSA](https://www.theregister.com/special_features/spotlight_on_rsa)
 
 Vendor Voice
 ------------
