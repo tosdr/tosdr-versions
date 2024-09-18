@@ -317,7 +317,7 @@ Most popular certifications
 
 ![Scott Horn, CEO of ACI Learning](/static/5cbc24bddfd4942a8b6992ff4845f379/220dd/scott_horn_aci_learning_ceo_7a389567a9.png)
 
-Scott Horn
+c
 
 ACI Learning CEO
 
@@ -347,7 +347,7 @@ Channel & Reseller
 
 Transform your experience and integrate with our unique evolving library of Audit, Cybersecurity, and Information Technology courses.
 
-[Connect with us](https://www.itpro.tv/channel-reseller#contact-sales)
+[Connect with us](https://www.itpro.tv/channel-reseller/#contact-sales)
 
 Individual learners
 
