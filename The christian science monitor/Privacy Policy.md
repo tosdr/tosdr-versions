@@ -92,6 +92,10 @@ Behind the news are values that drive people and nations. Explore them here.
 
 Recent Stories
 
+[Fairness
+
+### Special treatment? How judges are handling Trump ahead of election.](https://www.csmonitor.com/USA/Justice/2024/0917/judges-trump-criminal-lawsuits-election "Special treatment? How judges are handling Trump ahead of election.")
+
 [Integrity
 
 ### Venezuela’s future hangs on facts](https://www.csmonitor.com/Commentary/the-monitors-view/2024/0917/Venezuela-s-future-hangs-on-facts "Venezuela’s future hangs on facts")
@@ -99,10 +103,6 @@ Recent Stories
 [Compassion
 
 ### Ukraine’s high ground in Russia](https://www.csmonitor.com/Commentary/the-monitors-view/2024/0916/Ukraine-s-high-ground-in-Russia "Ukraine’s high ground in Russia")
-
-[Transformation
-
-### Tango for all? How Argentine artists are upending stereotypes.](https://www.csmonitor.com/World/Americas/2024/0916/Tango-for-all-How-Argentine-artists-are-upending-stereotypes "Tango for all? How Argentine artists are upending stereotypes.")
 
 [See all News & Values stories](https://www.csmonitor.com/values)
 
@@ -140,11 +140,11 @@ More
 
 Monitor Daily
 
-September 16, 2024
+September 17, 2024
 
-The need for a new kind of alertness
+Rings around the Eiffel Tower
 
-A second attempt to assassinate former President Donald Trump raises questions the world is struggling to answer. The United States is not alone. Europe faces a spike in political violence, too. How do nations turn down the tone of political apocalypse at a time of significant change?  Christa Case Bryant notes something important today – an increased alertness among those entrusted to protect politicians in the U.S. It is not too much to say that a similar mental alertness is needed among all of us to recognize that anger and hatred are their own forms of violence.
+Paris is once again buzzing about the Olympics. Yes, Parisians understand that the once-dreaded Games that became a monthlong joyfest are now in the history books. But does that mean the party has to end?Mayor Anne Hidalgo thinks not. Her ask: to make permanent the iconic Olympic rings’ presence on the even more iconic Eiffel Tower. That idea is driving what one might call a very spirited debate. Check out Colette Davidson’s lively story today and see where you land.
 
 [Listen to or read today's issue](https://www.csmonitor.com/Daily)
 
@@ -158,11 +158,11 @@ Regions
 
 Recent Stories
 
+[### Special treatment? How judges are handling Trump ahead of election.](https://www.csmonitor.com/USA/Justice/2024/0917/judges-trump-criminal-lawsuits-election "Special treatment? How judges are handling Trump ahead of election.")
+
 [### The Olympics are over. Should the Eiffel Tower keep wearing the rings?](https://www.csmonitor.com/World/Europe/2024/0917/paris-eiffel-tower-olympic-games-anne-hidalgo "The Olympics are over. Should the Eiffel Tower keep wearing the rings?")
 
 [### A former prime minister facing military trial? Pakistan flirts with risky precedent.](https://www.csmonitor.com/World/Asia-South-Central/2024/0917/imran-khan-pakistan-military-court "A former prime minister facing military trial? Pakistan flirts with risky precedent.")
-
-[### Hispanics have lived in the US for centuries. Autumn events honor their stories.](https://www.csmonitor.com/USA/2024/0917/Hispanic-heritage-month-celebrations-latinx "Hispanics have lived in the US for centuries. Autumn events honor their stories.")
 
 * * *
 
