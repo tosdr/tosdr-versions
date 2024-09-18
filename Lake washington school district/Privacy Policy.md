@@ -109,6 +109,7 @@ mobile-district-nav
         
         * [Choice Schools](https://www.lwsd.org/programs/choice-schools)
         * [Emerson K-12](https://emersonk12.lwsd.org/)
+        * [Old Redmond Schoolhouse(opens in new window/tab)](https://orsh.lwsd.org/)
         * [Preschool](https://www.lwsd.org/programs/preschool)
         * [Transition Academy](https://www.lwsd.org/programs/transition-academy)
         * [WANIC](https://wanic.lwsd.org/)
@@ -399,6 +400,7 @@ our schools
     
     * [Choice Schools](https://www.lwsd.org/programs/choice-schools)
     * [Emerson K-12](https://emersonk12.lwsd.org/)
+    * [Old Redmond Schoolhouse(opens in new window/tab)](https://orsh.lwsd.org/)
     * [Preschool](https://www.lwsd.org/programs/preschool)
     * [Transition Academy](https://www.lwsd.org/programs/transition-academy)
     * [WANIC](https://wanic.lwsd.org/)
@@ -437,6 +439,7 @@ student-nav
         * [Attendance Areas](https://www.lwsd.org/students-families/families/attendance-areas)
         * [Before & After School Program](https://www.lwsd.org/programs/before-after-school-care)
         * [Breakfast & Lunch Menus](https://www.lwsd.org/students-families/families/breakfast-lunch-menus)
+        * [Canvas](https://www.lwsd.org/students-families/families/canvas)
         * [How to Waive Extra-Curricular Fees](https://www.lwsd.org/students-families/families/how-to-waive-extra-curricular-fees)
         * [School & Bus Finder](https://www.lwsd.org/services/transportation)
         * [School Hours](https://www.lwsd.org/students-families/families/school-hours)
@@ -446,7 +449,6 @@ student-nav
         * [School Supply Lists](https://www.lwsd.org/students-families/families/school-supply-lists)
         * [Transfer Options](https://www.lwsd.org/students-families/families/transfer-options)
         * [Welcome Event for New & International Families](https://www.lwsd.org/students-families/families/welcome-event)
-        * [Canvas](https://www.lwsd.org/students-families/families/canvas)
         
     
 
@@ -590,9 +592,6 @@ Breadcrumb
 ----------
 
 * Privacy Policy
-
-Privacy Policy
-==============
 
 Privacy Policy
 ==============
