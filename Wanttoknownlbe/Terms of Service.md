@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/nieuws/wat-we-nu-weer-onder-ogen-kregen/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/nieuws/slecht-gehumeurd-waarschijnlijk-vochttekort/ "Feeling Lucky? »")
 
 Algemene voorwaarden WantToKnow aanbiedingen
 ============================================
