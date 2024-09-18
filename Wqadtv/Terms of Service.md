@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.tegna-media.com/assets/WTOL/images/dfdb5506-dbc4-4426-b3fc-9ee997869fd5/dfdb5506-dbc4-4426-b3fc-9ee997869fd5_16x9.jpg) ![](https://media.tegna-media.com/assets/WTOL/images/dfdb5506-dbc4-4426-b3fc-9ee997869fd5/dfdb5506-dbc4-4426-b3fc-9ee997869fd5_360x203.jpg)](https://www.wqad.com/article/news/local/davenport-police-search-missing-man/526-7ff237c4-4288-403a-98be-a022fe8aaf21)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/ac578f20-4d6a-4218-8ed6-0e6db5067f52/20240918T145841/ac578f20-4d6a-4218-8ed6-0e6db5067f52_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/ac578f20-4d6a-4218-8ed6-0e6db5067f52/20240918T145841/ac578f20-4d6a-4218-8ed6-0e6db5067f52_360x203.jpg)](https://www.wqad.com/article/news/local/the-current/current-reads-moline-public-library-3-most-popular-books/526-fbaf0c50-332b-4877-9020-1df838fa253e)
         
-        #### [Missing Davenport man found](https://www.wqad.com/article/news/local/davenport-police-search-missing-man/526-7ff237c4-4288-403a-98be-a022fe8aaf21)
+        #### [Current Reads: Dive into fall with these 3 picks from the Moline librarians](https://www.wqad.com/article/news/local/the-current/current-reads-moline-public-library-3-most-popular-books/526-fbaf0c50-332b-4877-9020-1df838fa253e)
         
-    *  [![](https://media.tegna-media.com/assets/WNEP/images/c018d4e9-3dd4-4d2a-9e1d-0f5718e91e56/c018d4e9-3dd4-4d2a-9e1d-0f5718e91e56_16x9.png) ![](https://media.tegna-media.com/assets/WNEP/images/c018d4e9-3dd4-4d2a-9e1d-0f5718e91e56/c018d4e9-3dd4-4d2a-9e1d-0f5718e91e56_360x203.png)](https://www.wqad.com/article/traffic/west-liberty-muscatine-crash/526-ea14c02d-a27c-4d87-89a9-c9ff4e25339d)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/92e8f0ea-f318-4b4b-8775-41c3bd72711a/20240723T163302/92e8f0ea-f318-4b4b-8775-41c3bd72711a_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/92e8f0ea-f318-4b4b-8775-41c3bd72711a/20240723T163302/92e8f0ea-f318-4b4b-8775-41c3bd72711a_360x203.jpg)](https://www.wqad.com/article/news/crime/north-park-mall-shooting-davenport-rock-island-man-arrested-in-connection/526-3a731258-b479-4589-ae7d-707d2f71078b)
         
-        #### [1 dead, 2 injured in West Liberty crash](https://www.wqad.com/article/traffic/west-liberty-muscatine-crash/526-ea14c02d-a27c-4d87-89a9-c9ff4e25339d)
+        #### [Rock Island man arrested in connection to NorthPark Mall shooting](https://www.wqad.com/article/news/crime/north-park-mall-shooting-davenport-rock-island-man-arrested-in-connection/526-3a731258-b479-4589-ae7d-707d2f71078b)
         
     
 * [Weather](https://www.wqad.com/weather)
@@ -56,13 +56,13 @@ Navigation
     
     Latest Weather Stories
     
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/f580e14f-cc1c-4480-8716-a2ef1f67a1da/20240918T121315/f580e14f-cc1c-4480-8716-a2ef1f67a1da_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/f580e14f-cc1c-4480-8716-a2ef1f67a1da/20240918T121315/f580e14f-cc1c-4480-8716-a2ef1f67a1da_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+        
+        #### [Few more days of summer warmth](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+        
     *  [![](https://media.tegna-media.com/assets/WQAD/images/daaebd14-c02f-4777-982b-67701e0d036f/20240918T134904/daaebd14-c02f-4777-982b-67701e0d036f_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/daaebd14-c02f-4777-982b-67701e0d036f/20240918T134904/daaebd14-c02f-4777-982b-67701e0d036f_360x203.jpg)](https://www.wqad.com/video/news/live_breaking/ask-andrew-live-episode-1/526-edcd839a-9189-4088-800e-a5cf184394ab)
         
         #### [Ask Andrew Live](https://www.wqad.com/video/news/live_breaking/ask-andrew-live-episode-1/526-edcd839a-9189-4088-800e-a5cf184394ab)
-        
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/f580e14f-cc1c-4480-8716-a2ef1f67a1da/20240918T121315/f580e14f-cc1c-4480-8716-a2ef1f67a1da_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/f580e14f-cc1c-4480-8716-a2ef1f67a1da/20240918T121315/f580e14f-cc1c-4480-8716-a2ef1f67a1da_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
-        
-        #### [80s hang on for a few more days](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
     
 * [Sports](https://www.wqad.com/sports)
@@ -86,7 +86,7 @@ Navigation
 
 Davenport, IA »
 
-79°
+84°
 
 ![Sunny](/assets/shared-images/weather-icons/clear-day_210x210.png)
 
