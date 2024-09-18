@@ -165,31 +165,39 @@ Legal
 HubSpot Data Processing Agreement
 ---------------------------------
 
-Last Modified: June 4, 2024
+Last Modified: September 18, 2024
 
-_\[_Need a signed copy (including the full text of the SCCs, UK Addendum, and Sub-Processors)_? Click [here.](https://742851.fs1.hubspotusercontent-na1.net/hubfs/742851/HubSpot%20DPA%20-%204June2024%20signed%20SCC_UK.pdf)\]_
+_\[_Need a signed copy (including the full text of the SCCs, UK Addendum, and Sub-Processors)_? Click [here.](https://742851.fs1.hubspotusercontent-na1.net/hubfs/742851/HubSpot%20DPA%2018%20September%202024%20Signed%20SCC_UK.pdf)\]_
 
-This HubSpot Data Processing Agreement and its Annexes (“DPA”) reflects the parties’ agreement with respect to the Processing of Personal Data by us on behalf of you in connection with the HubSpot Subscription Services under the [HubSpot Customer Terms of Service](https://legal.hubspot.com/terms-of-service) available at [https://legal.hubspot.com/terms-of-service](https://legal.hubspot.com/terms-of-service) between you and us (also referred to in this DPA as the “Agreement”). 
+This HubSpot Data Processing Agreement and its Annexes (“DPA”) This HubSpot Data Processing Agreement and its Annexes (“DPA”) is incorporated into and forms part of the [HubSpot Customer Terms of Service](https://legal.hubspot.com/terms-of-service) between you and us (the “Agreement”). This DPA reflects the parties’ agreement with respect to (i) the Processing of Customer Personal Data by us as a Processor on your behalf, and (ii) the Processing of Controller Personal Data by each party as a Controller in connection with our enrichment products and your use of the HubSpot tracking code. 
 
-This DPA is supplemental to, and forms an integral part of, the Agreement and is effective upon its incorporation into the Agreement, which may be specified in the Agreement, an Order Form or an executed amendment to the Agreement. In case of any conflict or inconsistency with the terms of the Agreement, this DPA will take precedence over the terms of the Agreement to the extent of such conflict or inconsistency.
+In case of any conflict or inconsistency with the terms of the Agreement, this DPA will take precedence over other terms in the Agreement to the extent of such conflict or inconsistency. 
 
-We update these terms from time to time. If you have an active HubSpot subscription, we will let you know when we do via email (if you have subscribed to receive email notifications via the link in our [General Terms](https://legal.hubspot.com/terms-of-service)) or via in-app notification. You can find archived versions of the DPA in our archives at [https://legal.hubspot.com/legal-stuff/archive](https://legal.hubspot.com/legal-stuff/archive).
+Sections 3 through 9 of this DPA apply solely to the extent that HubSpot is a Processor of Customer Personal Data in connection with the Subscription Services. 
+
+Section 10 applies solely to the extent that Customer uses our enrichment products or the HubSpot Tracking Code with Intent data sharing enabled, and each party is considered a Controller under Data Protection Laws.
+
+We update these terms from time to time. If you have an active HubSpot subscription, we will let you know when we do through an in-app notice (or via email if you have subscribed to receive email notifications via the link in our General Terms). You can find archived versions of the DPA in our archives at [https://legal.hubspot.com/legal-stuff/archive](https://legal.hubspot.com/legal-stuff/archive).
 
 The term of this DPA will follow the term of the Agreement. Terms not otherwise defined in this DPA will have the meaning as set forth in the Agreement.
 
 1. [Definitions](#Definitions)
 2. [Customer Responsibilities](#Customer-Responsibilities)
-3. [HubSpot Obligations](#HubSpot-Obligations)
+3. [HubSpot Obligations as a Processor](#HubSpot-Obligations)
 4. [Data Subject Requests](#Data-Subject-Requests)
 5. [Sub-Processors](#Sub-Processors)[](#_ibaqbyalqoln)
 6. [Data Transfers](#Data-Transfers)[](#_tf88yy73gc3b)
 7. [Demonstration of Compliance](#Demonstration-of-Compliance)
 8. [Additional Provisions for European Data](#Additional-Provisions-European-Data)
 9. [Additional Provisions for California Personal Information](#Additional-Provisions-for-California-Personal-Info)
-10. [General Provisions](#General-Provisions)
-11. [Parties to this DPA](#Parties-to-DPA)
+10. [Controller-to-Controller Terms](#Controller-to-Controller-Terms)
+11. [Transfer Mechanisms](#Transfer-Mechanisms)
+12. [General Provisions](#General-Provisions)
+13. [Parties to this DPA](#Parties-to-DPA)
 
-[Annex 1 - Details of Processing](#Annex1-Details-of-Processing)
+[Annex 1(A) - Details of Processing-HubSpot As Processor](#Annex-1A)
+
+[Annex 1(B) - Details of Processing - HubSpot as Controller](#Annex-1B)
 
 [Annex 2 - Security Measures](#Annex2-Security-Measures)
 
@@ -198,184 +206,205 @@ The term of this DPA will follow the term of the Agreement. Terms not otherwise 
 **1.** **Definitions**
 ----------------------
 
-“California Personal Information” means Personal Data that is subject to the protection of the CCPA.
+“California Personal Information” means Customer Personal Data that is subject to the protection of the CCPA.
 
 "CCPA" means California Civil Code Sec. 1798.100 et seq. (also known as the California Consumer Privacy Act of 2018, as amended by the California Privacy Rights Act of 2020 or "CPRA").
 
 "Consumer," "Business," "Sell," "Service Provider," and "Share" will have the meanings given to them in the CCPA. 
 
-“Controller” means the natural or legal person, public authority, agency or other body which, alone or jointly with others, determines the purposes and means of the Processing of Personal Data.
+“Controller” means the natural or legal person, public authority, agency or other body which, alone or jointly with others, determines the purposes and means of Processing Personal Data.
 
-"Data Privacy Framework" means the EU-U.S. Data Privacy Framework, the Swiss-U.S. Data Privacy Framework and the UK Extension to the EU-U.S. Data Privacy Framework self-certification programs (as applicable) operated by the U.S. Department of Commerce; as may be amended, superseded or replaced.
+"Controller Personal Data" means Personal Data that each party Processes as a Controller in connection with the enrichment products or the HubSpot Tracking Code, and each party is considered a Controller under Data Protection Laws.
 
-“Data Privacy Framework Principles” means the Principles and Supplemental Principles contained in the relevant Data Privacy Framework; as may be amended, superseded or replaced.
+“Customer Personal Data” means Personal Data contained within Customer Data that HubSpot Processes as a Processor on behalf of Customer.
 
-“Data Protection Laws” means all applicable worldwide legislation relating to data protection and privacy which applies to the respective party in the role of Processing Personal Data in question under the Agreement, including without limitation European Data Protection Laws, the CCPA and other applicable U.S. federal and state privacy laws, and the data protection and privacy laws of Australia, Singapore, and Japan, in each case as amended, repealed, consolidated or replaced from time to time.
+“Customer Personal Data Breach” means a breach of security leading to the accidental or unlawful destruction, loss, alteration, unauthorized disclosure of, or access to, Customer Personal Data transmitted, stored, or otherwise Processed by us and/or our Sub-Processors in connection with the provision of the Subscription Services. "Customer Personal Data Breach" will not include unsuccessful attempts or activities that do not compromise the security of Customer Personal Data, including unsuccessful log-in attempts, pings, port scans, denial of service attacks, and other network attacks on firewalls or networked systems.
+
+"Data Privacy Framework" means the EU-U.S. Data Privacy Framework, the Swiss-U.S. Data Privacy Framework and the UK Extension to the EU-U.S. Data Privacy Framework self-certification programs (as applicable) operated by the U.S. Department of Commerce; as may be amended, superseded, or replaced.  
+“Data Privacy Framework Principles” means the Principles and Supplemental Principles contained in the relevant Data Privacy Framework; as may be amended, superseded, or replaced.
+
+“Data Protection Laws” means all applicable worldwide legislation relating to data protection and privacy which applies to the Processing of Personal Data under the Agreement, including without limitation European Data Protection Laws, the CCPA, and other applicable U.S. federal and state privacy laws, and the data protection and privacy laws of Australia, Canada, Singapore, India, and Japan, in each case as amended, repealed, consolidated, or replaced from time to time.
 
 “Data Subject” means the individual to whom Personal Data relates.
 
-"Europe" means the European Union, the European Economic Area and/or their member states, Switzerland and the United Kingdom. 
+"Europe" means the European Union, the European Economic Area and/or their member states, Switzerland, and the United Kingdom. 
 
-“European Data” means Personal Data that is subject to the protection of European Data Protection Laws.
+“European Data” means Customer Personal Data that is subject to the protection of European Data Protection Laws.
 
-"European Data Protection Laws" means data protection laws applicable in Europe, including: (i) Regulation 2016/679 of the European Parliament and of the Council on the protection of natural persons with regard to the processing of personal data and on the free movement of such data (General Data Protection Regulation) ("GDPR"); (ii) Directive 2002/58/EC concerning the processing of personal data and the protection of privacy in the electronic communications sector; and (iii) applicable national implementations of (i) and (ii); or (iii) GDPR as it forms parts of the United Kingdom domestic law by virtue of Section 3 of the European Union (Withdrawal) Act 2018 ("UK GDPR"); and (iv) Swiss Federal Data Protection Act and its Ordinance ("Swiss DPA"); in each case, as may be amended, superseded or replaced.  
+"European Data Protection Laws" means data protection laws applicable in Europe, including: (i) Regulation 2016/679 of the European Parliament and of the Council on the protection of natural persons with regard to the processing of Personal Data and on the free movement of such data (General Data Protection Regulation) ("GDPR"); (ii) Directive 2002/58/EC concerning the processing of Personal Data and the protection of privacy in the electronic communications sector; and (iii) applicable national implementations of (i) and (ii); or (iii) GDPR as it forms parts of the United Kingdom domestic law by virtue of Section 3 of the European Union (Withdrawal) Act 2018 ("UK GDPR"); and (iv) Swiss Federal Data Protection Act and its Ordinance ("Swiss DPA"); in each case, as may be amended, superseded, or replaced.  
 
-“Instructions” means the written, documented instructions issued by a Controller to a Processor, and directing the same to perform a specific or general action with regard to Personal Data (including, but not limited to, depersonalizing, blocking, deletion, making available).
+“Instructions” means the written, documented instructions issued by Customer to HubSpot, and directing HubSpot to perform a specific or general action with regard to Customer Personal Data (including, but not limited to, depersonalizing, blocking, deletion, and making available).
 
-"Permitted Affiliates" means any of your Affiliates that (i) are permitted to use the Subscription Services pursuant to the Agreement, but have not signed their own separate agreement with us and are not a “Customer” as defined under the Agreement, (ii) qualify as a Controller of Personal Data Processed by us, and (iii) are subject to European Data Protection Laws.
+"Permitted Affiliates" means any of your Affiliates that (i) are permitted to use the Subscription Services pursuant to the Agreement, but have not signed their own separate agreement with us and are not a “Customer” as defined under the Agreement, (ii) qualify as a Controller of Customer Personal Data or Controller Personal Data, and (iii) are subject to European Data Protection Laws.
 
-“Personal Data” means any information relating to an identified or identifiable individual where (i) such information is contained within Customer Data; and (ii) is protected similarly as personal data, personal information, or personally identifiable information under applicable Data Protection Laws.
+“Personal Data” means any information relating to an identified or identifiable individual where such information is protected similarly as personal data, personal information, or personally identifiable information under Data Protection Laws.
 
-“Personal Data Breach” means a breach of security leading to the accidental or unlawful destruction, loss, alteration, unauthorized disclosure of, or access to, Personal Data transmitted, stored or otherwise Processed by us and/or our Sub-Processors in connection with the provision of the Subscription Services. "Personal Data Breach" will not include unsuccessful attempts or activities that do not compromise the security of Personal Data, including unsuccessful log-in attempts, pings, port scans, denial of service attacks, and other network attacks on firewalls or networked systems.
+“Processing” means any operation or set of operations which is performed on Personal Data, encompassing the collection, recording, organization, structuring, storage, adaptation or alteration, retrieval, consultation, use, disclosure by transmission, dissemination or otherwise making available, alignment or combination, restriction or erasure of Personal Data. The terms “Process,” “Processes,” and “Processed” will be construed accordingly.
 
-“Processing” means any operation or set of operations which is performed on Personal Data, encompassing the collection, recording, organization, structuring, storage, adaptation or alteration, retrieval, consultation, use, disclosure by transmission, dissemination or otherwise making available, alignment or combination, restriction or erasure of Personal Data. The terms “Process”, “Processes” and “Processed” will be construed accordingly.
+“Processor” means a natural or legal person, public authority, agency, or other body which Processes Personal Data on behalf of the Controller.
 
-“Processor” means a natural or legal person, public authority, agency or other body which Processes Personal Data on behalf of the Controller.
+"Restricted Transfer” means transfer of Personal Data originating from Europe to a country that does not provide an adequate level of protection within the meaning of applicable European Data Protection Laws.
 
-“Standard Contractual Clauses” means the standard contractual clauses annexed to the European Commission’s Decision (EU) 2021/914 of 4 June 2021 currently found at [https://eur-lex.europa.eu/eli/dec\_impl/2021/914](https://eur-lex.europa.eu/eli/dec_impl/2021/914), as may be amended, superseded or replaced.
+“Standard Contractual Clauses” means the standard contractual clauses annexed to the European Commission’s Decision (EU) 2021/914 of 4 June 2021 currently found at [https://eur-lex.europa.eu/eli/dec\_impl/2021/914](https://eur-lex.europa.eu/eli/dec_impl/2021/914), as may be amended, superseded, or replaced.
 
-“Sub-Processor” means any Processor engaged by us or our Affiliates to assist in fulfilling our obligations with respect to the provision of the Subscription Services under the Agreement.  Sub-Processors may include third parties or our Affiliates but will exclude any HubSpot employee or consultant.  
+“Sub-Processor” means any Processor engaged by us or our Affiliates to assist in fulfilling our obligations with respect to the Processing of Customer Personal Data under the Agreement. Sub-Processors may include third parties or our Affiliates but will exclude any HubSpot employee or consultant.  
 
 “UK Addendum” means the International Data Transfer Addendum issued by the UK Information Commissioner under section 119A(1) of the Data Protection Act 2018 currently found at [https://ico.org.uk/media/for-organisations/documents/4019539/international-data-transfer-addendum.pdf](https://ico.org.uk/media/for-organisations/documents/4019539/international-data-transfer-addendum.pdf), as may be amended, superseded, or replaced.
 
 2\. Customer Responsibilities
 -----------------------------
 
-a. Compliance with Laws. Within the scope of the Agreement and in its use of the services, you will be responsible for complying with all requirements that apply to it under applicable Data Protection Laws with respect to its Processing of Personal Data and the Instructions it issues to us.
+a. Compliance with Laws. Within the scope of the Agreement and your use of the services, you will be responsible for complying with all requirements that apply to you under Data Protection Laws with respect to your Processing of Personal Data.
 
-In particular but without prejudice to the generality of the foregoing, you acknowledge and agree that you will be solely responsible for: (i) the accuracy, quality, and legality of Customer Data and the means by which you acquired Personal Data; (ii) complying with all necessary transparency and lawfulness requirements under applicable Data Protection Laws for the collection and use of the Personal Data, including obtaining any necessary consents and authorizations (particularly for use by Customer for marketing purposes); (iii) ensuring you have the right to transfer, or provide access to, the Personal Data to us for Processing in accordance with the terms of the Agreement (including this DPA); (iv) ensuring that your Instructions to us regarding the Processing of Personal Data comply with applicable laws, including Data Protection Laws; and (v) complying with all laws (including Data Protection Laws) applicable to any emails or other content created, sent or managed through the Subscription Services, including those relating to obtaining consents (where required) to send emails, the content of the emails and its email deployment practices. You will inform us without undue delay if you are not able to comply with your responsibilities under this 'Compliance with Laws' section or applicable Data Protection Laws.
+In particular but without prejudice to the generality of the foregoing, you acknowledge and agree that you will be solely responsible for: (i) the accuracy, quality, and legality of Customer Personal Data and the means by which you acquired such data; (ii) complying with all necessary transparency and lawfulness requirements under Data Protection Laws for the collection and use of Customer Personal Data, including providing adequate notices, obtaining any necessary consents and authorizations, and honoring opt-out preferences (particularly for use by Customer for marketing purposes); (iii) ensuring you have the right to transfer, or provide access to, the Customer Personal Data to us for Processing in accordance with the terms of the Agreement (including this DPA); (iv) complying with all laws applicable to any emails or other content created, sent, or managed through the Subscription Services (including those relating to obtaining consents to send emails, the content of emails, and email deployment practices); and (v) ensuring that your use of Controller Personal Data complies with Data Protection Laws and is strictly limited to the purposes set out in the Agreement (including this DPA). You will inform us without undue delay if you are not able to comply with your responsibilities under this 'Compliance with Laws' section or Data Protection Laws.
 
-b. Controller Instructions. The  parties agree that the Agreement (including this DPA), together with your use of the Subscription Service in accordance with the Agreement, constitute your complete Instructions to us in relation to the Processing of Personal Data, so long as you may provide additional instructions during the Subscription Term that are consistent with the Agreement, the nature and lawful use of the Subscription Service.
+  
+b. Customer Instructions. You are responsible for ensuring that your Instructions to us regarding the Processing of Customer Personal Data comply with applicable laws, including Data Protection Laws. The parties agree that the Agreement (including this DPA), together with your use of the Subscription Service in accordance with the Agreement, constitute your complete Instructions to us in relation to HubSpot’s Processing of Customer Personal Data, so long as you may provide additional instructions during the Subscription Term that are consistent with the Agreement and the nature and lawful use of the Subscription Service.
 
-c. Security. You are responsible for independently determining whether the data security provided for in the Subscription Service adequately meets your obligations under applicable Data Protection Laws. You are also responsible for your secure use of the Subscription Service, including protecting the security of Personal Data in transit to and from the Subscription Service (including to securely backup or encrypt any such Personal Data).
+  
+c. Security. You are responsible for independently determining whether the data security provided for in the Subscription Service adequately meets your obligations under Data Protection Laws. You are also responsible for your secure use of the Subscription Service, including protecting the security of Personal Data in transit to and from the Subscription Service (including to securely backup or encrypt such data).
 
-**3\. HubSpot Obligations**
+**3\. HubSpot Obligations as a Processor** 
 
-a. Compliance with Instructions. We will only Process Personal Data for the purposes described in this DPA or as otherwise agreed within the scope of your lawful Instructions, except where and to the extent otherwise required by applicable law. We are not responsible for compliance with any Data Protection Laws applicable to you or your industry that are not generally applicable to us.
+a. Compliance with Instructions. We will only Process Customer Personal Data for the purposes described in this DPA or as otherwise agreed within the scope of your lawful Instructions, except where and to the extent otherwise required by applicable law. We are not responsible for compliance with any Data Protection Laws applicable to you or your industry that are not generally applicable to us.
 
-b. Conflict of Laws. If we become aware that we cannot Process Personal Data in accordance with your Instructions due to a legal requirement under any applicable law, we will (i) promptly notify you of that legal requirement to the extent permitted by the applicable law; and (ii) where necessary, cease all Processing (other than merely storing and maintaining the security of the affected Personal Data) until such time as you issue new Instructions with which we are able to comply. If this provision is invoked, we will not be liable to you under the Agreement for any failure to perform the applicable Subscription Services until such time as you issue new lawful Instructions with regard to the Processing.
+b. Conflict of Laws. If we become aware that we cannot Process Customer Personal Data in accordance with your Instructions due to a legal requirement under any applicable law, we will (i) promptly notify you of that legal requirement to the extent permitted by the applicable law; and (ii) where necessary, cease all Processing (other than merely storing and maintaining the security of the affected Customer Personal Data) until such time as you issue new Instructions with which we are able to comply. If this provision is invoked, we will not be liable to you under the Agreement for any failure to perform the applicable Subscription Services until such time as you issue new lawful Instructions with regard to the Processing.
 
-c. Security. We will implement and maintain appropriate technical and organizational measures to protect Personal Data from Personal Data Breaches, as described under Annex 2 to this DPA ("Security Measures"). Notwithstanding any provision to the contrary, we may modify or update the Security Measures at our discretion provided that such modification or update does not result in a material degradation in the protection offered by the Security Measures. 
+c. Security. We will implement and maintain appropriate technical and organizational measures to protect Customer Personal Data from Customer Personal Data Breaches, as described under Annex 2 to this DPA ("Security Measures"). Notwithstanding any provision to the contrary, we may modify or update the Security Measures at our discretion provided that such modification or update does not result in a material degradation in the protection offered by the Security Measures. 
 
-d. Confidentiality. We will ensure that any personnel whom we authorize to Process Personal Data on our behalf is subject to appropriate confidentiality obligations (whether a contractual or statutory duty) with respect to that Personal Data.
+d. Confidentiality. We will ensure that any personnel whom we authorize to Process Customer Personal Data on our behalf is subject to appropriate confidentiality obligations (whether a contractual or statutory duty) with respect to that Customer Personal Data.  
+e. Customer Personal Data Breaches. We will notify you without undue delay after we become aware of any Customer Personal Data Breach and will provide timely information relating to the Customer Personal Data Breach as it becomes known or reasonably requested by you. At your request, we will promptly provide you with such reasonable assistance as necessary to enable you to notify relevant Customer Personal Data Breaches to competent authorities and/or affected Data Subjects, if you are required to do so under Data Protection Laws.
 
-e. Personal Data Breaches. We will notify you without undue delay after we become aware of any Personal Data Breach and will provide timely information relating to the Personal Data Breach as it becomes known or reasonably requested by you. At your request, we will promptly provide you with such reasonable assistance as necessary to enable you to notify relevant Personal Data Breaches to competent authorities and/or affected Data Subjects, if you are required to do so under Data Protection Laws.
+f. Deletion or Return of Customer Personal Data. We will delete or return all Customer Data, including Customer Personal Data (including copies thereof) Processed pursuant to this DPA, on termination or expiration of your Subscription Service in accordance with the procedures set out in our [Product Specific Terms](https://legal.hubspot.com/product-specific-terms). This term will apply except where we are required by applicable law to retain some or all of the Customer Data, or where we have archived Customer Data on back-up systems, which data we will securely isolate and protect from any further Processing and delete in accordance with our deletion practices. You may request the deletion of your HubSpot account after expiration or termination of your subscription by following the steps at [https://knowledge.hubspot.com/account/how-do-i-cancel-my-hubspot-account .](https://knowledge.hubspot.com/account/how-do-i-cancel-my-hubspot-account)
 
-f. Deletion or Return of Personal Data. We will delete or return all Customer Data, including Personal Data (including copies thereof) Processed pursuant to this DPA, on termination or expiration of your Subscription Service in accordance with the procedures set out in our [Product Specific Terms](https://legal.hubspot.com/product-specific-terms). This term will apply except where we are required by applicable law to retain some or all of the Customer Data, or where we have archived Customer Data on back-up systems, which data we will securely isolate and protect from any further Processing and delete in accordance with our deletion practices. You may request the deletion of your HubSpot account after expiration or termination of your subscription by sending a request using our privacy request form at [https://preferences.hubspot.com/privacy](https://preferences.hubspot.com/privacy).  
-
-We strongly recommend retrieving your Customer Data prior to the end of your Subscription Term by following the instructions at the following knowledge base articles: "[Export your Content and Data](https://knowledge.hubspot.com/account-management/export-your-content-and-data?_gl=1*9u83or*_ga*MjE5NzY5NTg3LjE3MTYzMTU1ODY.*_ga_LXTM6CQ0XK*MTcxNjMxNTU4NS4xLjEuMTcxNjMxNTYwMS40NC4wLjA.)"; "[Export your Records](https://knowledge.hubspot.com/import-and-export/export-records?_gl=1*js5xf5*_ga*MjE5NzY5NTg3LjE3MTYzMTU1ODY.*_ga_LXTM6CQ0XK*MTcxNjMxNTU4NS4xLjEuMTcxNjMxNTYwMS40NC4wLjA.)"; "[Export your Ad Performance Data](https://knowledge.hubspot.com/ads/export-your-ads-campaign-data?_gl=1*js5xf5*_ga*MjE5NzY5NTg3LjE3MTYzMTU1ODY.*_ga_LXTM6CQ0XK*MTcxNjMxNTU4NS4xLjEuMTcxNjMxNTYwMS40NC4wLjA.)"; "[Export your Marketing Email Performance Data](https://knowledge.hubspot.com/marketing-email/how-do-i-export-my-overall-email-performance-data?_gl=1*js5xf5*_ga*MjE5NzY5NTg3LjE3MTYzMTU1ODY.*_ga_LXTM6CQ0XK*MTcxNjMxNTU4NS4xLjEuMTcxNjMxNTYwMS40NC4wLjA.)"; "[Perform a permanent delete in HubSpot](https://knowledge.hubspot.com/privacy-and-consent/how-do-i-perform-a-gdpr-delete-in-hubspot?_gl=1*1t7gbvj*_ga*MjE5NzY5NTg3LjE3MTYzMTU1ODY.*_ga_LXTM6CQ0XK*MTcxNjMxNTU4NS4xLjEuMTcxNjMxNTYwMS40NC4wLjA.)."
-
+We strongly recommend retrieving your Customer Data prior to the end of your Subscription Term by following the instructions at the following knowledge base articles: "[Export your Content and Data](https://knowledge.hubspot.com/account-management/export-your-content-and-data?_gl=1*9u83or*_ga*MjE5NzY5NTg3LjE3MTYzMTU1ODY.*_ga_LXTM6CQ0XK*MTcxNjMxNTU4NS4xLjEuMTcxNjMxNTYwMS40NC4wLjA.)"; "[Export your Records](https://knowledge.hubspot.com/import-and-export/export-records?_gl=1*js5xf5*_ga*MjE5NzY5NTg3LjE3MTYzMTU1ODY.*_ga_LXTM6CQ0XK*MTcxNjMxNTU4NS4xLjEuMTcxNjMxNTYwMS40NC4wLjA.)"; "[Export your Ad Performance Data](https://knowledge.hubspot.com/ads/export-your-ads-campaign-data?_gl=1*js5xf5*_ga*MjE5NzY5NTg3LjE3MTYzMTU1ODY.*_ga_LXTM6CQ0XK*MTcxNjMxNTU4NS4xLjEuMTcxNjMxNTYwMS40NC4wLjA.)"; "[Export your Marketing Email Performance Data](https://knowledge.hubspot.com/marketing-email/how-do-i-export-my-overall-email-performance-data?_gl=1*js5xf5*_ga*MjE5NzY5NTg3LjE3MTYzMTU1ODY.*_ga_LXTM6CQ0XK*MTcxNjMxNTU4NS4xLjEuMTcxNjMxNTYwMS40NC4wLjA.)"; "[Perform a permanent delete in HubSpot](https://knowledge.hubspot.com/privacy-and-consent/how-do-i-perform-a-gdpr-delete-in-hubspot?_gl=1*1t7gbvj*_ga*MjE5NzY5NTg3LjE3MTYzMTU1ODY.*_ga_LXTM6CQ0XK*MTcxNjMxNTU4NS4xLjEuMTcxNjMxNTYwMS40NC4wLjA.)."  
 If you need help retrieving your Customer Data during the Subscription Term, we will provide reasonable assistance to you, at your cost, and in accordance with the ‘Confidentiality’ section of the [General Terms](https://legal.hubspot.com/terms-of-service).  
 
 **4\. Data Subject Requests**
 
-The Subscription Service provides you with a number of controls that you can use to retrieve, correct, delete or restrict Personal Data, which you can use to assist it in connection with its obligations under Data Protection Laws, including your obligations relating to responding to requests from Data Subjects to exercise their rights under applicable Data Protection Laws ("Data Subject Requests"). 
+The Subscription Service provides you with a number of controls that you can use to retrieve, correct, delete, or restrict Customer Personal Data, which you can use to assist you in connection with your obligations under Data Protection Laws, including your obligations relating to responding to requests from Data Subjects to exercise their rights under Data Protection Laws ("Data Subject Requests"). 
 
-To the extent that you are unable to independently address a Data Subject Request through the Subscription Service, then upon your written request we will provide reasonable assistance to you to respond to any Data Subject Requests or requests from data protection authorities relating to the Processing of Personal Data under the Agreement. You will reimburse us for the commercially reasonable costs arising from this assistance.
+To the extent that you are unable to independently address a Data Subject Request through the Subscription Service, then upon your written request we will provide reasonable assistance to you to respond to any Data Subject Requests or requests from data protection authorities relating to the Processing of Customer Personal Data under the Agreement. You will reimburse us for the commercially reasonable costs arising from this assistance.
 
-If a Data Subject Request or other communication regarding the Processing of Personal Data under the Agreement is made directly to us, we will promptly inform you and will advise the Data Subject to submit their request to you. You will be solely responsible for responding substantively to any such Data Subject Requests or communications involving Personal Data.
+If a Data Subject Request or other communication regarding the Processing of Customer Personal Data under the Agreement is made directly to us, we will promptly inform you and will advise the Data Subject to submit their request to you. You will be solely responsible for responding substantively to any such Data Subject Requests or communications involving Customer Personal Data.
 
 **5\. Sub-Processors**
 
-You agree we may engage Sub-Processors to Process Personal Data on your behalf, and we do so in three ways. First, we may engage Sub-Processors to assist us with hosting and infrastructure. Second, we may engage with Sub-Processors to support product features and integrations. Third, we may engage with HubSpot Affiliates as Sub-Processors for service and support. Some Sub-Processors will apply to you as default, and some Sub-Processors will apply only if you opt-in.
+You agree we may engage Sub-Processors to Process Customer Personal Data on your behalf, and we do so in three ways. First, we may engage Sub-Processors to assist us with hosting and infrastructure. Second, we may engage with Sub-Processors to support product features and integrations. Third, we may engage with HubSpot Affiliates as Sub-Processors for service and support. Some Sub-Processors will apply to you as default, and some Sub-Processors will apply only if you opt in.
 
-We have currently appointed, as Sub-Processors, the third parties and HubSpot Affiliates listed in Annex 3 to this DPA. You may subscribe to receive notifications by email if we add or replace any Sub-Processors  by completing the form available at [https://legal.hubspot.com/subscribe-subprocessor-updates](https://legal.hubspot.com/subscribe-subprocessor-updates). If you opt-in to receive such email, we will notify you at least 30 days prior to any such change.
+We have currently appointed, as Sub-Processors, the third parties and HubSpot Affiliates listed in Annex 3 to this DPA. You may subscribe to receive notifications by email if we make changes to the HubSpot Sub-Processors Page by completing the form available at [https://legal.hubspot.com/subscribe-subprocessor-updates](https://legal.hubspot.com/subscribe-subprocessor-updates). If you opt in to receive such email, we will notify you at least 30 days prior to any such change.
 
-We will give you the opportunity to object to the engagement of new Sub-Processors on reasonable grounds relating to the protection of Personal Data within 30 days of notifying you. If you do notify us of such an objection, the parties will discuss your concerns in good faith with a view to achieving a commercially reasonable resolution. If no such resolution can be reached, we will, at our sole discretion, either not appoint the new Sub-Processor, or permit you to suspend or terminate the affected Subscription Service in accordance with the termination provisions of the Agreement without liability to either party (but without prejudice to any fees incurred by you prior to suspension or termination). 
+We will give you the opportunity to object to the engagement of new Sub-Processors on reasonable grounds relating to the protection of Customer Personal Data within 30 days of notifying you. If you do notify us of such an objection, the parties will discuss your concerns in good faith with a view to achieving a commercially reasonable resolution. If no such resolution can be reached, we will, at our sole discretion, either not appoint the new Sub-Processor, or permit you to suspend or terminate the affected Subscription Service in accordance with the termination provisions of the Agreement without liability to either party (but without prejudice to any fees incurred by you prior to suspension or termination). 
 
-Where we engage Sub-Processors, we will impose data protection terms on the Sub-Processors that provide at least the same level of protection for Personal Data as those in this DPA, to the extent applicable to the nature of the services provided by such Sub-Processors. We will remain responsible for each Sub-Processor’s compliance with the obligations of this DPA and for any acts or omissions of such Sub-Processor that cause us to breach any of its obligations under this DPA.
+Where we engage Sub-Processors, we will impose data protection terms on the Sub-Processors that provide at least the same level of protection for Customer Personal Data as those in this DPA, to the extent applicable to the nature of the services provided by such Sub-Processors. We will remain responsible for each Sub-Processor’s compliance with the obligations of this DPA and for any acts or omissions of such Sub-Processor that cause us to breach any of its obligations under this DPA.
 
 **6\. Data Transfers**
 
-You acknowledge and agree that we may access and Process Personal Data on a global basis as necessary to provide the Subscription Service in accordance with the Agreement, and in particular that Personal Data may be transferred to and Processed by HubSpot, Inc. in the United States and to other jurisdictions where HubSpot Affiliates and Sub-Processors have operations. Wherever Personal Data is transferred outside its country of origin, each party will ensure such transfers are made in compliance with the requirements of Data Protection Laws.
+You acknowledge and agree that we may access and Process Customer Personal Data on a global basis as necessary to provide the Subscription Service in accordance with the Agreement, and in particular that Personal Data may be transferred to and Processed by HubSpot, Inc. in the United States and to other jurisdictions where HubSpot Affiliates and Sub-Processors have operations. Wherever Customer Personal Data is transferred outside its country of origin, each party will ensure such transfers are made in compliance with the requirements of Data Protection Laws.
 
 **7\. Demonstration of Compliance**
 
-We will make all information reasonably necessary to demonstrate compliance with this DPA available to you and allow for and contribute to audits, including inspections conducted by you or your auditor in order to assess compliance with this DPA, where required by applicable law. You acknowledge and agree that you will exercise your audit rights under this DPA by instructing us to comply with the audit measures described in this 'Demonstration of Compliance' section. You acknowledge that the Subscription Service is hosted by our hosting Sub-Processors who maintain independently validated security programs (including SOC 2 and ISO 27001) and that our systems are audited annually as part of SOC 2 compliance and regularly tested by independent third party penetration testing firms. Upon request, we will supply (on a confidential basis) our SOC 2 report and summary copies of our penetration testing report(s) to you so that you can verify our compliance with this DPA. You may download copies of these documents from HubSpot’s Security website at [trust.hubspot.com](http://trust.hubspot.com/).  Further, at your written request, we will provide written responses (on a confidential basis) to all reasonable requests for information made by you necessary to confirm our compliance with this DPA, provided that you will not exercise this right more than once per calendar year unless you have reasonable grounds to suspect non-compliance with the DPA.
+We will make all information reasonably necessary to demonstrate compliance with this DPA available to you and allow for and contribute to audits, including inspections conducted by you or your auditor in order to assess compliance with this DPA, where required by applicable law. You acknowledge and agree that you will exercise your audit rights under this DPA by instructing us to comply with the audit measures described in this 'Demonstration of Compliance' section. You acknowledge that the Subscription Service is hosted by our hosting Sub-Processors who maintain independently validated security programs (including SOC 2 and ISO 27001) and that our systems are audited annually as part of SOC 2 compliance and regularly tested by independent third party penetration testing firms. Upon request, we will supply (on a confidential basis) our SOC 2 report and summary copies of our penetration testing report(s) to you so that you can verify our compliance with this DPA. You may download copies of these documents from HubSpot’s Security website at [trust.hubspot.com](http://trust.hubspot.com/). Further, at your written request, we will provide written responses (on a confidential basis) to all reasonable requests for information made by you necessary to confirm our compliance with this DPA, provided that you will not exercise this right more than once per calendar year unless you have reasonable grounds to suspect noncompliance with the DPA.
 
 **8\. Additional Provisions for European Data**
 
-a. Scope. This 'Additional Provisions for European Data' section will apply only with respect to European Data.
+a. Scope. This 'Additional Provisions for European Data' section will apply only with respect to European Data that HubSpot Processes on your behalf under the Agreement.
 
-b. Roles of the Parties. When Processing European Data in accordance with your Instructions, the parties acknowledge and agree that you are acting as the Controller of European Data (either as the Controller, or as a Processor on behalf of another Controller) and we are the Processor under the Agreement.
+b. Roles of the Parties. When Processing European Data in accordance with your Instructions, the parties acknowledge and agree that you are acting either as the Controller, or as a Processor on behalf of another Controller, and we are the Processor under the Agreement.
 
 c. Instructions. If we believe that your Instruction infringes European Data Protection Laws (where applicable), we will inform you without delay.
 
-d. Data Protection Impact Assessments and Consultation with Supervisory Authorities. To the extent that the required information is reasonably available to us, and you do not otherwise have access to the required information, we will provide reasonable assistance to you with any data protection impact assessments, and prior consultations with supervisory authorities  (for example, the French Data Protection Agency (CNIL), the Berlin Data Protection Authority (BlnBDI) and the UK Information Commissioner's Office (ICO)) or other competent data privacy authorities to the extent required by European Data Protection Laws.
+d. Data Protection Impact Assessments and Consultation with Supervisory Authorities. To the extent that the required information is reasonably available to us, and you do not otherwise have access to the required information, we will provide reasonable assistance to you with any data protection impact assessments, and prior consultations with supervisory authorities (for example, the French Data Protection Agency (CNIL), the Berlin Data Protection Authority (BlnBDI) and the UK Information Commissioner's Office (ICO)) or other competent data privacy authorities to the extent required by European Data Protection Laws.
 
-f. Transfer Mechanisms for Data Transfers. 
-
-(A) HubSpot will not transfer European Data to any country or recipient not recognized as providing an adequate level of protection for Personal Data (within the meaning of applicable European Data Protection Laws), unless it first takes all such measures as are necessary to ensure the transfer is in compliance with applicable European Data Protection Laws. Such measures may include (without limitation) (i) transferring such data to a recipient that is covered by a suitable framework or other legally adequate transfer mechanism recognized by the relevant authorities or courts as providing an adequate level of protection for Personal Data, including the Data Privacy Framework; (ii) to a recipient that has achieved binding corporate rules authorization in accordance with European Data Protection Laws; or (iii) to a recipient that has executed the Standard Contractual Clauses in each case as adopted or approved in accordance with applicable European Data Protection Laws.
-
-(B) You acknowledge that in connection with the performance of the Subscription Services, HubSpot, Inc. is a recipient of European Data in the United States. To the extent that HubSpot, Inc. receives European Data in the United States, HubSpot, Inc. will comply with the following:
-
-(1) Data Privacy Framework. HubSpot, Inc. will use the Data Privacy Framework to lawfully receive European Data in the United States and ensure that it provides at least the same level of protection to such European Data as is required by the Data Privacy Framework Principles and will let you know if it is unable to comply with this requirement.  
-  
- (2) Standard Contractual Clauses. If European Data Protection Laws require that appropriate safeguards are put in place (for example, if the Data Privacy Framework does not cover the transfer to HubSpot, Inc. and/or the Data Privacy Framework is invalidated), the Standard Contractual Clauses will be incorporated by reference and form part of the Agreement as follows:
-
-(a) In relation to European Data that is subject to the GDPR (i) Customer is the "data exporter" and HubSpot, Inc. is the "data importer"; (ii) the Module Two terms apply to the extent the Customer is a Controller of European Data and the Module Three terms apply to the extent the Customer is a Processor of European Data; (iii) in Clause 7, the optional docking clause applies; (iv) in Clause 9, Option 2 applies and changes to Sub-Processors will be notified in accordance with the ‘Sub-Processors’ section of this DPA; (v) in Clause 11, the optional language is deleted; (vi) in Clauses 17 and 18, the parties agree that the governing law and forum for disputes for the Standard Contractual Clauses will be determined in accordance with the 'Contracting Entity; Applicable Law; Notice’ section of the Jurisdiction Specific Terms or, if such section does not specify an EU Member State, the Republic of Ireland (without reference to conflicts of law principles); (vii) the Annexes of the Standard Contractual Clauses will be deemed completed with the information set out in the Annexes of this DPA; (viii) the supervisory authority that will act as competent supervisory authority will be determined in accordance with GDPR; and (ix) if and to the extent the Standard Contractual Clauses conflict with any provision of this DPA the Standard Contractual Clauses will prevail to the extent of such conflict.
-
-(b) In relation to European Data that is subject to the UK GDPR, the Standard Contractual Clauses will apply in accordance with sub-section (a) and the following modifications (i) the Standard Contractual Clauses will be modified and interpreted in accordance with the UK Addendum, which will be incorporated by reference and form an integral part of the Agreement; (ii) Tables 1, 2 and 3 of the UK Addendum will be deemed completed with the information set out in the Annexes of this DPA and Table 4 will be deemed completed by selecting “neither party”; and (iii) any conflict between the terms of the Standard Contractual Clauses and the UK Addendum will be resolved in accordance with Section 10 and Section 11 of the UK Addendum.
-
-(c) In relation to European Data that is subject to the Swiss DPA, the Standard Contractual Clauses will apply in accordance with sub-section (a) and the following modifications (i) references to "Regulation (EU) 2016/679" will be interpreted as references to the Swiss DPA; (ii) references to "EU", "Union" and "Member State law" will be interpreted as references to Swiss law; and (iii) references to the "competent supervisory authority" and "competent courts" will be replaced with the "the Swiss Federal Data Protection and Information Commissioner " and the "relevant courts in Switzerland".
-
-(d) You agree that by complying with our obligations under the 'Sub-Processors' section of this DPA, HubSpot, Inc. fulfills its obligations under Section 9 of the Standard Contractual Clauses. For the purposes of Clause 9(c) of the Standard Contractual Clauses, you acknowledge that we may be restricted from disclosing Sub-Processor agreements but we will use reasonable efforts to require any Sub-Processor we appoint to permit it to disclose the Sub-Processor agreement to you and will provide (on a confidential basis) all information we reasonably can. You also acknowledge and agree that you will exercise your audit rights under Clause 8.9 of the Standard Contractual Clauses by instructing us to comply with the measures described in the 'Demonstration of Compliance' section of this DPA. 
-
-(e) Where the HubSpot contracting entity under the Agreement is not HubSpot, Inc., such contracting entity (not HubSpot, Inc.) will remain fully and solely responsible and liable to you for the performance of the Standard Contractual Clauses by HubSpot, Inc., and you will direct any instructions, claims or enquiries in relation to the Standard Contractual Clauses to such contracting entity. If HubSpot cannot comply with its obligations under the Standard Contractual Clauses or is breach of any warranties under the Standard Contractual Clauses or UK Addendum (as applicable) for any reason, and you intend to suspend the transfer of European Data to HubSpot or terminate the Standard Contractual Clauses ,or UK Addendum, you agree to provide us with reasonable notice to enable us to cure such non-compliance and reasonably cooperate with us to identify what additional safeguards, if any, may be implemented to remedy such non-compliance. If we have not or cannot cure the non-compliance, you may suspend or terminate the affected part of the Subscription Service in accordance with the Agreement without liability to either party (but without prejudice to any fees you have incurred prior to such suspension or termination).
-
-(C) Alternative Transfer Mechanism. In the event that HubSpot is required to adopt an alternative transfer mechanism for European Data, in addition to or other than the mechanisms described in sub-section (B) above, such alternative transfer mechanism will apply automatically instead of the mechanisms described in this DPA (but only to the extent such alternative transfer mechanism complies with European Data Protection Laws), and you agree to execute such other documents or take such action as may be reasonably necessary to give legal effect such alternative transfer mechanism.
+f. Data Transfers. HubSpot will not transfer European Data to any country or recipient not recognized as providing an adequate level of protection for Customer Personal Data (within the meaning of applicable European Data Protection Laws), unless it first takes all such measures as are necessary to ensure the transfer is in compliance with applicable European Data Protection Laws. Such measures may include (without limitation) (i) transferring such data to a recipient that is covered by a suitable framework or other legally adequate transfer mechanism recognized by the relevant authorities or courts as providing an adequate level of protection for Customer Personal Data, including the Data Privacy Framework; (ii) to a recipient that has achieved binding corporate rules authorization in accordance with European Data Protection Laws; or (iii) to a recipient that has executed the Standard Contractual Clauses in each case as adopted or approved in accordance with applicable European Data Protection Laws.
 
 **9\. Additional Provisions for California Personal Information**
 
-a. Scope. The 'Additional Provisions for California Personal Information' section of the DPA will apply only with respect to California Personal Information.
+a. Scope. The 'Additional Provisions for California Personal Information' section of the DPA will apply only with respect to California Personal Information that HubSpot Processes on your behalf under the Agreement.
 
 b. Roles of the Parties. When processing California Personal Information in accordance with your Instructions, the parties acknowledge and agree that you are a Business and we are a Service Provider for the purposes of the CCPA.
 
-c. Responsibilities. We certify that we will Process California Personal Information as a Service Provider strictly for the purpose of performing the Subscription Services and Consulting Services under the Agreement  (the "Business Purpose") or as otherwise permitted by the CCPA, including as described in the 'Usage Data' section of our Privacy Policy.  Further, we certify we i) will not Sell or Share California Personal Information; (ii) will not Process California Personal Information outside the direct business relationship between the parties, unless required by applicable law; and (iii) will not combine the California Personal Information included in Customer Data with personal information that we collect or receive from another source (other than information we receive from another source in connection with our obligations as a Service Provider under the Agreement).
+c. Responsibilities. We certify that we will Process California Personal Information as a Service Provider strictly for the purpose of performing the Subscription Services and Consulting Services under the Agreement (the "Business Purpose") or as otherwise permitted by the CCPA, including as described in the 'Usage Data' section of our Privacy Policy. Further, we certify that we will not (i) Sell or Share California Personal Information; (ii) Process California Personal Information outside the direct business relationship between the parties, unless required by applicable law; or (iii) combine California Personal Information included in Customer Data with Personal Data that we collect or receive from another source (other than information we receive from another source in connection with our obligations as a Service Provider under the Agreement).
 
-d. Compliance. We will (i) comply with obligations applicable to us as a Service Provider under the CCPA and (ii) provide California Personal Information with the same level of privacy protection as is required by the CCPA. We will notify you if we make a determination that we can no longer meet our obligations as a Service Provider under the CCPA.
+d. Compliance. We will (i) comply with the obligations applicable to us as a Service Provider under the CCPA; (ii) provide the same level of protection for California Personal Information as is required by the CCPA; and (iii) notify you if we make a determination that we can no longer meet our obligations as a Service Provider under the CCPA.
 
-e. CCPA Audits. You will have the right to take reasonable and appropriate steps to help ensure that we use California Personal Information in a manner consistent with Customer’s obligations under the CCPA. Upon notice, you will have the right to take reasonable and appropriate steps in accordance with the Agreement to stop and remediate unauthorized use of California Personal Information. 
+e. CCPA Audits. You will have the right to take reasonable and appropriate steps to help ensure that we use California Personal Information in a manner consistent with your obligations under the CCPA. Upon notice, you will have the right to take reasonable and appropriate steps in accordance with the Agreement to stop and remediate unauthorized use of California Personal Information. 
 
-f. Not a Sale. The parties acknowledge and agree that the disclosure of California Personal Information by the Customer to HubSpot does not form part of any monetary or other valuable consideration exchanged between the parties.
+f. Not a Sale. The parties acknowledge and agree that the disclosure of California Personal Information by Customer to HubSpot does not form part of any monetary or other valuable consideration exchanged between the parties.
 
-**10\. General Provisions**
+**10\. Controller-to-Controller Terms**
+
+a. Scope. This 'Controller-to-Controller Terms' section will apply to the extent that the parties Process Controller Personal Data in connection with Customer’s uses of our enrichment products and the HubSpot Tracking Code. 
+
+b. Role of the Parties. The parties acknowledge and agree that they act as Controllers of Controller Personal Data and will comply with their respective obligations under Data Protection Laws when Processing Controller Personal Data. For clarity, nothing in the Agreement or this 'Controller-to-Controller Terms' section shall restrict HubSpot in any way from collecting, using, or sharing data that HubSpot would otherwise Process independently of Customer's use of the Subscription Services, including our enrichment products. 
+
+c. Compliance with Laws. Each party will ensure that the Controller Personal Data it shares or makes available to the other party has been collected in compliance with Data Protection Laws, including (i) providing adequate notices and obtaining any required consents from Data Subjects; (ii) establishing a lawful basis for its Processing of Controller Personal Data; (iii) implementing appropriate technical and organizational measures to protect Controller Personal Data; and (iv) complying with any reporting obligations concerning personal data breaches involving Controller Personal Data. As between the parties, Customer is responsible for providing all necessary notices, consents, and opt-out mechanisms for the use of the HubSpot Tracking Code, and ensuring that its website discloses the use of third-party tracking technology in compliance with Data Protection Laws. If a Data Subject contacts either party to exercise their rights under Data Protection Laws, the contacted party shall either fulfill the request directly or, if this is not feasible, promptly notify and coordinate with the other party to ensure the request is fulfilled in accordance with Data Protection Laws. Customer agrees to delete Enrichment Outputs (as defined under HubSpot’s [Product Specific Terms](https://legal.hubspot.com/product-specific-terms)) if Customer determines that Customer does not have any independent lawful basis (or substantively similar terms) for Processing such data under Data Protection Laws.
+
+d. Demonstration of Compliance.  If either party receives any complaint, notice, or communication from a supervisory authority or other governmental authority which relates to the other party's: (i) Processing of Controller Personal Data; or (ii) potential failure to comply with Data Protection Laws with respect to the Processing of Controller Personal Data, that party shall direct the supervisory authority or governmental authority to the other party and, in the case of intertwined obligations, claims, or Controller Personal Data at issue, shall provide reasonable assistance to the other party in responding to the supervisory authority or governmental authority.
+
+e. Security.  We will implement and maintain reasonable security measures to protect Controller Personal Data. All Controller Personal Data is protected using appropriate physical, technical, and organizational measures. For more on security at HubSpot, please see [https://trust.hubspot.com](https://trust.hubspot.com/). 
+
+f. CCPA Compliance.  To the extent that the CCPA applies to the Processing of Controller Personal Data, each party acknowledges and agrees that: (i) such Controller Personal Data is made available to the other party solely for the limited and specified purposes set forth in the Agreement; (ii) the party receiving such Controller Personal Data shall comply with and provide the same level of privacy protection as is required by the CCPA; (iii) the party receiving such Controller Personal Data shall promptly notify the other party if it determines it can no longer meet its obligations under the CCPA; and (iv) the party providing such Controller Personal Data shall have the right, upon reasonable notice, to take reasonable and appropriate steps to ensure that the receiving party uses the Controller Personal Data in a manner consistent with its obligations under the CCPA and stop and remediate unauthorized uses of the Controller Personal Data.
+
+**11\. Transfer Mechanisms**
+
+Where the transfer of Customer Personal Data or Controller Personal Data between the parties involves a Restricted Transfer and European Data Protection Laws require putting in place appropriate safeguards, HubSpot and Customer will comply with the following:
+
+a. Data Privacy Framework. HubSpot, Inc. participates in and certifies compliance with the Data Privacy Framework. Where and to the extent the Data Privacy Framework applies, HubSpot, Inc will use the Data Privacy Framework to lawfully receive Customer Personal Data and Controller Personal Data in the United States and will provide at least the same level of protection to such data as is required by the Data Privacy Framework Principles. We will inform you if we are unable to comply with this requirement.
+
+b. Standard Contractual Clauses. If European Data Protection Laws require that appropriate safeguards are put in place (for example, if the Data Privacy Framework does not cover the transfer and/or the Data Privacy Framework is invalidated), the Standard Contractual Clauses will be incorporated by reference and form part of the Agreement as follows:
+
+(A) In relation to Customer Personal Data that HubSpot Processes as a Processor (i) the Module Two terms apply to the extent Customer is a Controller and the Module Three terms apply to the extent Customer is a Processor of Customer Personal Data; (ii) in Clause 7, the optional docking clause applies; (iii) in Clause 9, Option 2 applies and changes to Sub-Processors will be notified in accordance with the ‘Sub-Processors’ section of this DPA; (iv) in Clause 11, the optional language is deleted; (v) in Clauses 17 and 18, the parties agree that the governing law and forum for disputes for the Standard Contractual Clauses will be determined in accordance with the 'Contracting Entity; Applicable Law; Notice’ section of the Jurisdiction Specific Terms or, if such section does not specify an EU Member State, the Republic of Ireland (without reference to conflicts of law principles); (vi) the Annexes of the Standard Contractual Clauses will be deemed completed with the information set out in the Annexes of this DPA; and (vii) the supervisory authority that will act as competent supervisory authority will be determined in accordance with GDPR.
+
+(B) In relation to Controller Personal Data for which HubSpot and Customer are each a Controller (i) the Module One terms apply; (ii) in Clause 7, the optional docking clause applies; (iii) in Clause 11, the optional language is deleted; (iv) in Clauses 17 and 18, the parties agree that the governing law and forum for disputes for the Standard Contractual Clauses will be determined in accordance with the 'Contracting Entity; Applicable Law; Notice’ section of the Jurisdiction Specific Terms or, if such section does not specify an EU Member State, the Republic of Ireland (without reference to conflicts of law principles); (v) the Annexes of the Standard Contractual Clauses will be deemed completed with the information set out in the Annexes of this DPA; and (vi) the supervisory authority that will act as competent supervisory authority will be the Irish Data Protection Commission.
+
+(C) In relation to Customer Personal Data and Controller Personal Data that is subject to the UK GDPR, the Standard Contractual Clauses will apply in accordance with sub-section (A) and the following modifications (i) the Standard Contractual Clauses will be modified and interpreted in accordance with the UK Addendum, which will be incorporated by reference and form an integral part of the Agreement; (ii) Tables 1, 2 and 3 of the UK Addendum will be deemed completed with the information set out in the Annexes of this DPA and Table 4 will be deemed completed by selecting “neither party”; and (iii) any conflict between the terms of the Standard Contractual Clauses and the UK Addendum will be resolved in accordance with Section 10 and Section 11 of the UK Addendum.
+
+(D) In relation to Customer Personal Data and Controller Personal Data that is subject to the Swiss DPA, the Standard Contractual Clauses will apply in accordance with sub-section (A) and the following modifications (i) references to "Regulation (EU) 2016/679" will be interpreted as references to the Swiss DPA; (ii) references to "EU," "Union," and "Member State law" will be interpreted as references to Swiss law; and (iii) references to the "competent supervisory authority" and "competent courts" will be replaced with the "the Swiss Federal Data Protection and Information Commissioner" and the "relevant courts in Switzerland."
+
+(E)  In relation to Customer Personal Data that HubSpot Processes as a Processor, you agree that by complying with our obligations under the 'Sub-Processors' section of this DPA, HubSpot, Inc. fulfills its obligations under Section 9 of the Standard Contractual Clauses. For the purposes of Clause 9(c) of the Standard Contractual Clauses, you acknowledge that we may be restricted from disclosing Sub-Processor agreements but we will use reasonable efforts to require any Sub-Processor we appoint to permit it to disclose the Sub-Processor agreement to you and will provide (on a confidential basis) all information we reasonably can. You also acknowledge and agree that you will exercise your audit rights under Clause 8.9 of the Standard Contractual Clauses by instructing us to comply with the measures described in the 'Demonstration of Compliance' section of this DPA. 
+
+(F) If and to the extent the Standard Contractual Clauses conflict with any provision of this DPA, the Standard Contractual Clauses will prevail to the extent of such conflict. Where the HubSpot contracting entity under the Agreement is not HubSpot, Inc., such contracting entity (not HubSpot, Inc.) will remain fully and solely responsible and liable to you for the performance of the Standard Contractual Clauses by HubSpot, Inc., and you will direct any instructions, claims or enquiries in relation to the Standard Contractual Clauses to such contracting entity. If HubSpot cannot comply with its obligations under the Standard Contractual Clauses for any reason, and you intend to suspend or terminate the transfer of Personal Data to HubSpot, you agree to provide us with reasonable notice to enable us to cure such non-compliance and reasonably cooperate with us to identify what additional safeguards, if any, may be implemented to remedy such noncompliance. If we have not or cannot cure the non-compliance, you may suspend or terminate the affected part of the Subscription Service in accordance with the Agreement without liability to either party (but without prejudice to any fees you have incurred prior to such suspension or termination). 
+
+c. Alternative Transfer Mechanism. In the event that HubSpot is required to adopt an alternative transfer mechanism under European Data Protection Laws, in addition to or other than the mechanisms described above, such alternative transfer mechanism will apply automatically instead of the mechanisms described in this DPA (but only to the extent such alternative transfer mechanism complies with European Data Protection Laws), and you agree to execute such other documents or take such action as may be reasonably necessary to give legal effect such alternative transfer mechanism.
+
+**12\. General Provisions**
 
 a. Amendments. Notwithstanding anything else to the contrary in the Agreement and without prejudice to the ‘Compliance with Instructions’ or ‘Security’ sections of this DPA, we reserve the right to make any updates and changes to this DPA and the terms that apply in the ‘Amendment; No Waiver’ section of the [General Terms](https://legal.hubspot.com/terms-of-service) will apply.
 
 b. Severability. If any individual provisions of this DPA are determined to be invalid or unenforceable, the validity and enforceability of the other provisions of this DPA will not be affected.
 
-c. Limitation of Liability. Each party and each of their Affiliates' liability, taken in aggregate,  arising out of or related to this DPA (including any other DPAs between the parties) and the Standard Contractual Clauses, where applicable, whether in contract, tort or under any other theory of liability, will be subject to the limitations and exclusions of liability set out in the 'Limitation of Liability' section of the [General Terms](https://legal.hubspot.com/terms-of-service) and any reference in such section to the liability of a party means aggregate liability of that party and all of its Affiliates under the Agreement (including this DPA).  For the avoidance of doubt, if HubSpot, Inc. is not a party to the Agreement, the ‘Limitation of Liability’ section of the [General Terms](https://legal.hubspot.com/terms-of-service) will apply as between you and HubSpot, Inc., and in such respect any references to ‘HubSpot’, ‘we’, ‘us’ or ‘our’ will include both HubSpot, Inc. and the HubSpot entity that is a party to the Agreement. In no event will either party's liability be limited with respect to any individual's data protection rights under this DPA (including any other DPAs between the parties and the Standard Contractual Clauses, where applicable) or otherwise.
+c. Limitation of Liability. Each party and each of their Affiliates' liability, taken in aggregate, arising out of or related to this DPA (including any other data processing agreements between the parties) and the Standard Contractual Clauses, where applicable, whether in contract, tort or under any other theory of liability, will be subject to the limitations and exclusions of liability set out in the 'Limitation of Liability' section of the [General Terms](https://legal.hubspot.com/terms-of-service) and any reference in such section to the liability of a party means aggregate liability of that party and all of its Affiliates under the Agreement (including this DPA).  For the avoidance of doubt, if HubSpot, Inc. is not a party to the Agreement, the ‘Limitation of Liability’ section of the [General Terms](https://legal.hubspot.com/terms-of-service) will apply as between you and HubSpot, Inc., and in such respect any references to ‘HubSpot’, ‘we’, ‘us’ or ‘our’ will include both HubSpot, Inc. and the HubSpot entity that is a party to the Agreement. In no event will either party's liability be limited with respect to any individual's data protection rights under this DPA (including any other DPAs between the parties and the Standard Contractual Clauses, where applicable) or otherwise.
 
 d. Governing Law. This DPA will be governed by and construed in accordance with the ‘Contracting Entity; ‘Applicable Law; Notice’ sections of the Jurisdiction Specific Terms, unless required otherwise by Data Protection Laws.
 
-**11\. Parties to this DPA**
+**13\. Parties to this DPA**
 
-a. Permitted Affiliates. By signing the Agreement, you enter into this DPA (including, where applicable, the Standard Contractual Clauses) on behalf of yourself and in the name and on behalf of your Permitted Affiliates. For the purposes of this DPA only, and except where indicated otherwise, the terms “Customer”, “you” and “your” will include you and such Permitted Affiliates.
+a. Permitted Affiliates. By signing the Agreement, you enter into this DPA (including, where applicable, the Standard Contractual Clauses) on behalf of yourself and in the name and on behalf of your Permitted Affiliates. For the purposes of this DPA only, and except where indicated otherwise, the terms “Customer, “you,” and “your” will include you and such Permitted Affiliates.
 
 b. Authorization. The legal entity agreeing to this DPA as Customer represents that it is authorized to agree to and enter into this DPA for and on behalf of itself and, as applicable, each of its Permitted Affiliates.
 
 c. Remedies. The parties agree that (i) solely the Customer entity that is the contracting party to the Agreement will exercise any right or seek any remedy any Permitted Affiliate may have under this DPA on behalf of its Affiliates, and (ii) the Customer entity that is the contracting party to the Agreement will exercise any such rights under this DPA not separately for each Permitted Affiliate individually but in a combined manner for itself and all of its Permitted Affiliates together. The Customer entity that is the contracting entity is responsible for coordinating all Instructions, authorizations and communications with us under the DPA and will be entitled to make and receive any communications related to this DPA on behalf of its Permitted Affiliates.  
 
-d. Other rights. The parties agree that you will, when reviewing our compliance with this DPA pursuant to the ‘Demonstration of Compliance’ section, take all reasonable measures to limit any impact on us and our Affiliates by combining several audit requests carried out on behalf of the Customer entity that is the contracting party to the Agreement and all of its Permitted Affiliates in one single audit.
+d. Other Rights. The parties agree that you will, when reviewing our compliance with this DPA pursuant to the ‘Demonstration of Compliance’ section, take all reasonable measures to limit any impact on us and our Affiliates by combining several audit requests carried out on behalf of the Customer entity that is the contracting party to the Agreement and all of its Permitted Affiliates in one single audit.
 
-**Annex 1 - Details of Processing**
+**Annex 1A - Details of Processing - HubSpot as Processor**
 
-**A. List of Parties**
+A. List of Parties
 
-**Data exporter:**
+Data exporter:
 
 Name: The Customer, as defined in the HubSpot Customer Terms of Service (on behalf of itself and Permitted Affiliates) 
 
 Address: The Customer's address, as set out in the Order Form
 
-Contact person’s name, position and contact details: The Customer's contact details, as set out in the Order Form and/or as set out in the Customer’s HubSpot Account
+Contact person’s name, position and contact details: The Customer's contact details, as set out in the Order Form and/or as set out in the Customer’s HubSpot account
 
-Activities relevant to the data transferred under these Clauses: Processing of Personal Data in connection with Customer's use of the HubSpot Subscription Services under the HubSpot Customer Terms of Service
+Activities relevant to the data transferred under these Clauses: Processing of Customer Personal Data in connection with Customer's use of the HubSpot Subscription Services under the HubSpot Customer Terms of Service
 
 Role (controller/processor): Controller (either as the Controller; or acting in the capacity of a Controller, as a Processor, on behalf of another Controller)
 
-**Data importer:**
+Data importer:
 
 Name: HubSpot, Inc.
 
@@ -383,48 +412,91 @@ Address: Two Canal Park, Cambridge, MA 02141, USA 
 
 Contact person’s name, position and contact details: Nicholas Knoop, Data Protection Officer, HubSpot, Inc., Two Canal Park, Cambridge, MA 02141 USA
 
-Activities relevant to the data transferred under these Clauses: Processing of Personal Data in connection with Customer's use of the HubSpot Subscription Services under the HubSpot Customer Terms of Service
+Activities relevant to the data transferred under these Clauses: Processing of Customer Personal Data in connection with Customer's use of the HubSpot Subscription Services under the HubSpot Customer Terms of Service
 
 Role (controller/processor): Processor
 
-**B.  Description of Transfer**
+B.  Description of Transfer  
+Categories of Data Subjects whose Personal Data is Transferred
 
-**Categories of Data Subjects whose Personal Data is Transferred**
+You may submit Customer Personal Data in the course of using the Subscription Service, the extent of which is determined and controlled by you in your sole discretion, and which may include, but is not limited to Customer Personal Data relating to the following categories of Data Subjects:
 
-You may submit Personal Data in the course of using the Subscription Service, the extent of which is determined and controlled by you in your sole discretion, and which may include, but is not limited to Personal Data relating to the following categories of Data Subjects:
+Your Contacts and other end users including your employees, contractors, collaborators, customers, prospects, suppliers and subcontractors. Data Subjects may also include individuals attempting to communicate with or transfer Customer Personal Data to your end users.
 
-Your Contacts and other end users including your employees, contractors, collaborators, customers, prospects, suppliers and subcontractors. Data Subjects may also include individuals attempting to communicate with or transfer Personal Data to your end users.
-
-**Categories of Personal Data Transferred**
-
+Categories of Personal Data Transferred  
 You may submit Personal Data to the Subscription Services, the extent of which is determined and controlled by you in your sole discretion, and which may include but is not limited to the following categories of Personal Data: 
 
-1\. Contact Information (as defined in the [General Terms](https://legal.hubspot.com/terms-of-service)).  
+1\. Contact Information (as defined in the General Terms).  
 2\. Any other Personal Data submitted by, sent to, or received by you, or your end users, via the Subscription Service.
 
-**Sensitive Data transferred and applied restrictions or safeguards**
-
+Sensitive Data Transferred and Applied Restrictions or Safeguards  
 The processing of Sensitive Data is subject to the scope limitations, restrictions, and safeguards mutually agreed upon by the parties, as reflected in the Agreement.
 
-**Frequency of the transfer**
-
+Frequency of the Transfer:  
 Continuous
 
-**Nature of the Processing**
-
-Personal Data will be Processed in accordance with the Agreement (including this DPA) and may be subject to the following Processing activities: 
+Nature of the Processing  
+Customer Personal Data will be Processed in accordance with the Agreement (including this DPA) and may be subject to the following Processing activities: 
 
 1\. Storage and other Processing necessary to provide, maintain and improve the Subscription Services provided to you; and/or
 
-2\. Disclosure in accordance with the Agreement (including this DPA) and/or as compelled by applicable laws.
+2\. Disclosure in accordance with the Agreement (including this DPA) and/or as compelled by applicable laws.  
 
-**Purpose of the transfer and further processing**
+Purpose of the Transfer and Further Processing
 
-We will Process Personal Data as necessary to provide the Subscription Services pursuant to the Agreement, as further specified in the Order Form, and as further instructed by you in your use of the Subscription Services.
+We will Process Customer Personal Data as necessary to provide the Subscription Services pursuant to the Agreement, as further specified in the Order Form, and as further instructed by you in your use of the Subscription Services.
 
-**Period for which Personal Data will be retained**
+Period for which Personal Data will be retained
 
-Subject to the 'Deletion or Return of Personal Data' section of this DPA, we will Process Personal Data for the duration of the Agreement, unless otherwise agreed in writing.
+Subject to the 'Deletion or Return of Customer Personal Data' section of this DPA, we will Process Customer Personal Data for the duration of the Agreement, unless otherwise agreed in writing.
+
+**Annex 1B - Details of Processing - HubSpot as Controller**
+
+A. List of Parties  
+Data exporter/importer: Customer
+
+Name: The Customer, as defined in the HubSpot Customer Terms of Service (on behalf of itself and Permitted Affiliates) 
+
+Address: The Customer's address, as set out in the Order Form
+
+Contact person’s name, position, and contact details, including email: The Customer’s contact details, as set out in the Order Form and/or as set out in the Customer’s HubSpot account
+
+Activities relevant to the data transferred under these Clauses: Processing of Controller Personal Data in connection with Customer’s use of enrichment products and the HubSpot Tracking Code
+
+Role (controller/processor): Controller
+
+Data exporter/importer: HubSpot, Inc.
+
+Name: HubSpot, Inc.
+
+Address: Two Canal Park, Cambridge, MA 02141, USA
+
+Contact person’s name, position, and contact details: Nicholas Knoop, Data Protection Officer, HubSpot, Inc., Two Canal Park, Cambridge, MA 02141 USA
+
+Activities relevant to the data transferred under these Clauses: Processing of Controller Personal Data in connection with Customer’s use of enrichment products and the HubSpot tracking code  
+  
+Role (controller/processor): Controller
+
+B. Description of Transfer
+
+Categories of Data Subjects whose Personal Data is Transferred:   
+Individuals associated with a company or other institution
+
+Categories of Personal Data Transferred:   
+Professional data, which may include, but is not limited to, first and last name, business email address, business employer, business role, professional title, IP address, online identifiers, and other similar information
+
+Sensitive Data Transferred and Applied Restrictions or Safeguards:   
+The parties do not anticipate the transfer of sensitive data. 
+
+Frequency of the Transfer:   
+Continuous
+
+Nature of the Processing:   
+Controller Personal Data will be Processed in accordance with the Agreement and may be subject to the following Processing activities: (1) storage and other Processing of Website Data (such as IP addresses and other online identifiers) and Professional Enrichment Data (such as business email addresses) by HubSpot necessary to provide, maintain, append, improve, and develop HubSpot’s commercial dataset and the Subscription Services; and/or(2) disclosure in accordance with the Agreement and/or as compelled by applicable laws.
+
+Purpose(s) of the Transfer and Further Processing:   
+Controller Personal Data will be transferred for the purposes contemplated in the Agreement, including to provide Customer with business information and to provide, maintain, append, improve, enhance, and develop HubSpot’s commercial dataset and the Subscription Services.  
+Period for which Personal Data will be Retained: Controller Personal Data will be Processed and retained by the parties in accordance with their respective data retention policies or as otherwise set out under the Agreement.
 
 **Annex 2 - Security Measures**
 
