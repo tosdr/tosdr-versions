@@ -186,7 +186,7 @@ Main Menu
 * [](https://www.youtube.com/user/toursgonewild)
 * [](https://www.pinterest.com/toursgonewild/)
 
-* Where to Asia    Turkey    United Arab Emirates Central America    Costa Rica Europe    Croatia    Czech Republic    France    Germany    Greece    Hungary    Iceland    Italy    Netherlands    Portugal    Spain    Turkey    United Kingdom North America    United States South America    Argentina    Brazil    Chile    Colombia    Peru    Uruguay
+* Where to Asia    Turkey    United Arab Emirates Central America    Costa Rica Europe    Croatia    Czech Republic    France    Germany    Greece    Hungary    Iceland    Italy    Netherlands    Portugal    Spain    Turkey    United Kingdom North America    Mexico    United States South America    Argentina    Brazil    Chile    Colombia    Peru    Uruguay
 * Dates April August December February January July June March May November October September
 * Ideal Length 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30
 * Travel Style Adventure Bachelor Bachelorette Beach Celebrations City Escape Classic Explorer Festivals Group Luxury Nature Romantic Honeymoon Sport Trip Addons VIP Nightlife YOLO
@@ -365,7 +365,7 @@ Get a Price Quote
 * More Details: (customization, desired experience, etc)
     
 * 
-* Email
+* Phone
     
     This field is for validation purposes and should be left unchanged.
     
