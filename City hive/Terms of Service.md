@@ -71,7 +71,33 @@
     
     [Get a Demo](https://www.cityhive.net/distributors/get-a-demo)
     
-* [Suppliers](https://www.cityhive.net/suppliers/)
+* [Suppliers](https://www.cityhive.net/suppliers)
+    
+    Suppliers
+    ---------
+    
+    Maintain brand integrity and grow brand loyalty with tools to manage product data and implement measurable, branded sales and marketing campaigns.
+    
+    Solutions
+    
+    * [PIM](https://www.cityhive.net/suppliers/pim)
+    
+    Info
+    ----
+    
+    * [Pricing](https://www.cityhive.net/suppliers/pricing)
+    
+    Help
+    ----
+    
+    * [Contact a Customer Success Professional](https://www.cityhive.net/suppliers/contact-cs/)
+    
+    [Login](https://suppliers.cityhive.net/)
+    
+    [Sign Up](https://suppliers.cityhive.net/signup.html)
+    
+    [Get a Demo](https://www.cityhive.net/suppliers/get-a-demo)
+    
 * [Partners](https://www.cityhive.net/partners/)
 * [City Hive](https://www.cityhive.net/)
     
@@ -128,7 +154,7 @@ Terms Of Service
 * [Distributors](https://www.cityhive.net/distributors/terms-of-service/)
 * [Suppliers](https://www.cityhive.net/suppliers/terms-of-service/)
 
-### Retailers
+### [Retailers](https://www.cityhive.net/retailers)
 
 ### SOLUTIONS
 
@@ -145,7 +171,7 @@ Terms Of Service
 * [New Features](https://www.cityhive.net/retailers/new-features/)
 * [Sign Up](https://merchants.cityhive.net/signup.html?mref=cityhive)
 
-### Distributors
+### [Distributors](https://www.cityhive.net/distributors)
 
 ### SOLUTIONS
 
@@ -160,9 +186,16 @@ Terms Of Service
 * [Onboarding](https://www.cityhive.net/distributors/onboarding/)
 * [Sign Up](https://www.cityhive.net/distributors/sign-up/)
 
-### Suppliers
+### [Suppliers](https://www.cityhive.net/suppliers)
+
+### SOLUTIONS
 
 * [Overview](https://www.cityhive.net/suppliers/)
+* [PIM](https://www.cityhive.net/suppliers/pim)
+
+### Info
+
+* [Pricing](https://www.cityhive.net/suppliers/pricing)
 * [Get a Demo](https://www.cityhive.net/suppliers/get-a-demo/)
 * [Sign Up](https://suppliers.cityhive.net/signup.html)
 
