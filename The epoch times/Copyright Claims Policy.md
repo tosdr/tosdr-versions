@@ -158,76 +158,76 @@ Please note that under Section 512(f) of the DMCA, any person who knowingly mate
 
 TOP NEWS
 
+* [Day in Photos: Fires in Portugal, Exploding Pagers, and Voting in India](https://www.theepochtimes.com/article/day-in-photos-fires-in-portugal-exploding-pagers-and-voting-in-india-5721003)
+    
+    NEW By [Epoch Times Staff](https://www.theepochtimes.com/author/epoch-times-staff)
+    
+    [![Day in Photos: Fires in Portugal, Exploding Pagers, and Voting in India](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Day in Photos: Fires in Portugal, Exploding Pagers, and Voting in India](https://img.theepochtimes.com/assets/uploads/2024/09/18/id5726467-GettyImages-2172006220-OP-205x123.jpg.webp)](https://www.theepochtimes.com/article/day-in-photos-fires-in-portugal-exploding-pagers-and-voting-in-india-5721003)
+* [Teamsters Union Makes No Endorsement for President](https://www.theepochtimes.com/us/teamsters-union-makes-no-endorsement-for-president-5725794)
+    
+    2hr By [Jacob Burg](https://www.theepochtimes.com/author/jacob-burg)
+    
+    [![Teamsters Union Makes No Endorsement for President](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Teamsters Union Makes No Endorsement for President](https://img.theepochtimes.com/assets/uploads/2024/02/23/id5593521-GettyImages-1975627130-OP-205x123.jpg.webp)](https://www.theepochtimes.com/us/teamsters-union-makes-no-endorsement-for-president-5725794)
+* [Blinken Says US Not Involved in Hezbollah Pager Attacks, Urges Restraint Amid Cease-Fire Talks](https://www.theepochtimes.com/us/blinken-says-us-not-involved-in-hezbollah-pager-attacks-urges-restraint-amid-cease-fire-talks-5726337)
+    
+    3hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
+    
+    [![Blinken Says US Not Involved in Hezbollah Pager Attacks, Urges Restraint Amid Cease-Fire Talks](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Blinken Says US Not Involved in Hezbollah Pager Attacks, Urges Restraint Amid Cease-Fire Talks](https://img.theepochtimes.com/assets/uploads/2024/09/18/id5726492-Blinken-Egypt-pager-LebanonKO-205x123.jpg.webp)](https://www.theepochtimes.com/us/blinken-says-us-not-involved-in-hezbollah-pager-attacks-urges-restraint-amid-cease-fire-talks-5726337)
+* [FBI Director Confirms ‘Full Force’ Investigation Into Apparent 2nd Trump Assassination Attempt](https://www.theepochtimes.com/us/fbi-director-confirms-full-force-investigation-into-apparent-2nd-trump-assassination-attempt-5726336)
+    
+    4hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
+    
+    [![FBI Director Confirms ‘Full Force’ Investigation Into Apparent 2nd Trump Assassination Attempt](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![FBI Director Confirms ‘Full Force’ Investigation Into Apparent 2nd Trump Assassination Attempt](https://img.theepochtimes.com/assets/uploads/2024/03/12/id5605482-FBI-Wray-testify-GettyImages-2068291409-205x123.jpg.webp)](https://www.theepochtimes.com/us/fbi-director-confirms-full-force-investigation-into-apparent-2nd-trump-assassination-attempt-5726336)
+* [Police Confirm No Explosives Found Near Trump’s NY Rally, Person Detained](https://www.theepochtimes.com/us/no-explosives-found-near-trumps-ny-rally-person-detained-police-5726325)
+    
+    6hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
+    
+    [![Police Confirm No Explosives Found Near Trump’s NY Rally, Person Detained](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Police Confirm No Explosives Found Near Trump’s NY Rally, Person Detained](https://img.theepochtimes.com/assets/uploads/2024/09/18/id5726242-GettyImages-2172740180-2.jpg-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/no-explosives-found-near-trumps-ny-rally-person-detained-police-5726325)
 * [Americans Can Now Renew Their Passports Online: Everything You Need to Know](https://www.theepochtimes.com/us/americans-can-now-renew-their-passports-online-everything-you-need-to-know-5726274)
     
-    NEW By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
+    6hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
     
     [![Americans Can Now Renew Their Passports Online: Everything You Need to Know](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Americans Can Now Renew Their Passports Online: Everything You Need to Know](https://img.theepochtimes.com/assets/uploads/2024/06/19/id5671603-passport.jpg-sb-205x123.jpg.webp)](https://www.theepochtimes.com/us/americans-can-now-renew-their-passports-online-everything-you-need-to-know-5726274)
 * [Second Wave of Explosions Hits Communications Devices Across Lebanon](https://www.theepochtimes.com/world/second-wave-of-explosions-hits-communications-devices-across-lebanon-5726302)
     
-    NEW By [Owen Evans](https://www.theepochtimes.com/author/owen-evans)
+    6hr By [Owen Evans](https://www.theepochtimes.com/author/owen-evans) and [Ryan Morgan](https://www.theepochtimes.com/author/ryan-morgan)
     
     [![Second Wave of Explosions Hits Communications Devices Across Lebanon](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Second Wave of Explosions Hits Communications Devices Across Lebanon](https://img.theepochtimes.com/assets/uploads/2022/07/18/id5726164-Pager-lebanon2-205x123.jpg.webp)](https://www.theepochtimes.com/world/second-wave-of-explosions-hits-communications-devices-across-lebanon-5726302)
-* [The Complex Story of Folate and Age](https://www.theepochtimes.com/health/the-complex-story-of-folate-and-age-5718612)
-    
-    NEW By [Theresa Sam Houghton](https://www.theepochtimes.com/author/theresa-sam-houghton)
-    
-    [![The Complex Story of Folate and Age](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![The Complex Story of Folate and Age](https://img.theepochtimes.com/assets/uploads/2024/09/17/id5725772-Shutterstock_532050646-205x123.jpg.webp)](https://www.theepochtimes.com/health/the-complex-story-of-folate-and-age-5718612)
-* [Trump Says He’ll Restore SALT Deduction, Lower Taxes Ahead of Long Island Rally](https://www.theepochtimes.com/us/trump-says-hell-restore-salt-deduction-lower-taxes-ahead-of-long-island-rally-5726022)
-    
-    2hr By [Caden Pearson](https://www.theepochtimes.com/author/caden-pearson)
-    
-    [![Trump Says He’ll Restore SALT Deduction, Lower Taxes Ahead of Long Island Rally](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Trump Says He’ll Restore SALT Deduction, Lower Taxes Ahead of Long Island Rally](https://img.theepochtimes.com/assets/uploads/2024/09/14/id5724309-GettyImages-2170958618-Donald-Trump-OP-205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-says-hell-restore-salt-deduction-lower-taxes-ahead-of-long-island-rally-5726022)
+    ![Second Wave of Explosions Hits Communications Devices Across Lebanon](https://img.theepochtimes.com/assets/uploads/2024/09/18/id5726511-Lebanon-explosion.jpg-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/world/second-wave-of-explosions-hits-communications-devices-across-lebanon-5726302)
 * [Mortgage Applications Rise Amid Fed Rate Cut Prediction](https://www.theepochtimes.com/business/mortgage-applications-rise-amid-fed-rate-cut-prediction-5726188)
     
-    3hr By [Naveen Athrappully](https://www.theepochtimes.com/author/naveen-athrappully)
+    9hr By [Naveen Athrappully](https://www.theepochtimes.com/author/naveen-athrappully)
     
     [![Mortgage Applications Rise Amid Fed Rate Cut Prediction](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Mortgage Applications Rise Amid Fed Rate Cut Prediction](https://img.theepochtimes.com/assets/uploads/2024/06/24/id5674249-GettyImages-2154182627_web-205x123.jpg.webp)](https://www.theepochtimes.com/business/mortgage-applications-rise-amid-fed-rate-cut-prediction-5726188)
 * [Arizona Officials Find Nearly 100,000 Voters Didn’t Provide Proof of Citizenship](https://www.theepochtimes.com/us/arizona-officials-find-flaw-in-proof-of-citizenship-for-nearly-100000-voters-5726184)
     
-    4hr By [Zachary Stieber](https://www.theepochtimes.com/author/zachary-stieber)
+    10hr By [Zachary Stieber](https://www.theepochtimes.com/author/zachary-stieber)
     
     [![Arizona Officials Find Nearly 100,000 Voters Didn’t Provide Proof of Citizenship](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Arizona Officials Find Nearly 100,000 Voters Didn’t Provide Proof of Citizenship](https://img.theepochtimes.com/assets/uploads/2024/07/02/id5678969-GettyImages-1440312402KO-205x123.jpg.webp)](https://www.theepochtimes.com/us/arizona-officials-find-flaw-in-proof-of-citizenship-for-nearly-100000-voters-5726184)
 * [Exploding Pagers Made in Hungary, Says Taiwanese Firm](https://www.theepochtimes.com/world/exploding-pagers-made-in-hungary-says-taiwanese-firm-5726156)
     
-    5hr By [Owen Evans](https://www.theepochtimes.com/author/owen-evans)
+    10hr By [Owen Evans](https://www.theepochtimes.com/author/owen-evans)
     
     [![Exploding Pagers Made in Hungary, Says Taiwanese Firm](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Exploding Pagers Made in Hungary, Says Taiwanese Firm](https://img.theepochtimes.com/assets/uploads/2024/09/18/id5726153-2024-09-18T034451Z_1_LYNXMPEK8H02P_RTROPTP_4_ISRAEL-PALESTINAINS-HEZBOLLAH-GOLD-APOLLO-205x123.jpg.webp)](https://www.theepochtimes.com/world/exploding-pagers-made-in-hungary-says-taiwanese-firm-5726156)
-* [Finland Calls for End to Single Nation Veto on UN Security Council](https://www.theepochtimes.com/world/finland-calls-for-end-to-single-nation-veto-on-un-security-council-5726154)
-    
-    5hr By [Guy Birchall](https://www.theepochtimes.com/author/guy-birchall)
-    
-    [![Finland Calls for End to Single Nation Veto on UN Security Council](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Finland Calls for End to Single Nation Veto on UN Security Council](https://img.theepochtimes.com/assets/uploads/2024/01/29/id5575692-Finland-election-AP24028714834899-205x123.jpg.webp)](https://www.theepochtimes.com/world/finland-calls-for-end-to-single-nation-veto-on-un-security-council-5726154)
-* [Hezbollah Exploding Pagers: What We Know So Far](https://www.theepochtimes.com/world/hezbollah-exploding-pagers-what-we-know-so-far-5726146)
-    
-    6hr By [Chris Summers](https://www.theepochtimes.com/author/chris-summers)
-    
-    [![Hezbollah Exploding Pagers: What We Know So Far](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Hezbollah Exploding Pagers: What We Know So Far](https://img.theepochtimes.com/assets/uploads/2022/07/18/id5726165-Pager-lebanon-205x123.jpg.webp)](https://www.theepochtimes.com/world/hezbollah-exploding-pagers-what-we-know-so-far-5726146)
-* [Why Raspberries Are the New Heart-Healthy Superfruit](https://www.theepochtimes.com/health/why-raspberries-are-the-new-heart-healthy-superfruit-5720612)
-    
-    6hr By [Zena le Roux](https://www.theepochtimes.com/author/zena-le-roux)
-    
-    [![Why Raspberries Are the New Heart-Healthy Superfruit](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Why Raspberries Are the New Heart-Healthy Superfruit](https://img.theepochtimes.com/assets/uploads/2024/09/17/id5726013-shutterstock_2118789176-205x123.jpg.webp)](https://www.theepochtimes.com/health/why-raspberries-are-the-new-heart-healthy-superfruit-5720612)
 
 [![The Epoch Times](https://www.theepochtimes.com/assets/themes/eet/images/logo_eet.svg)](https://www.theepochtimes.com/)
 
