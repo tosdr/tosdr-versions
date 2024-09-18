@@ -135,12 +135,12 @@ Just in
 
 * [The growth of Australia's flexible office in 2024](https://independentaustralia.net/article-display/the-growth-of-australias-flexible-office-in-2024,18626 "Permanent Link : The growth of Australia's flexible office in 2024")
 * [Business is booming — defying newsroom doom and gloom](https://independentaustralia.net/article-display/business-is-booming-defying-newsroom-doom-and-gloom,18981 "Permanent Link : Business is booming — defying newsroom doom and gloom")
+* [EDITORIAL: Donald Trump and the voters of America](https://independentaustralia.net/article-display/editorial-donald-trump-and-the-voters-of-america,18992 "Permanent Link : EDITORIAL: Donald Trump and the voters of America")
 * [Colac Council creates chaos by controlling media criticism](https://independentaustralia.net/article-display/colac-council-creates-chaos-by-controlling-media-criticism,18990 "Permanent Link : Colac Council creates chaos by controlling media criticism")
 * [Presidential Election to determine future of Australia-U.S. relations](https://independentaustralia.net/article-display/presidential-election-to-determine-future-of-australia-us-relations,18988 "Permanent Link : Presidential Election to determine future of Australia-U.S. relations")
 * [Australia's data-driven future will transform economy and workforce](https://independentaustralia.net/article-display/australias-data-driven-future-will-transform-economy-and-workforce,18987 "Permanent Link : Australia's data-driven future will transform economy and workforce")
+* [Donald Trump and the voters of America](https://independentaustralia.net/article-display/donald-trump-and-the-voters-of-america,18993 "Permanent Link : Donald Trump and the voters of America")
 * [AAT drowning with appeals against student visa refusals](https://independentaustralia.net/article-display/aat-drowning-with-appeals-against-student-visa-refusals,18986 "Permanent Link : AAT drowning with appeals against student visa refusals")
-* [Opposition plans to scrap worker safeguards](https://independentaustralia.net/article-display/opposition-plans-to-scrap-worker-safeguards,18985 "Permanent Link : Opposition plans to scrap worker safeguards")
-* [Telling the truth about Trump has never been more important](https://independentaustralia.net/article-display/telling-the-truth-about-trump-has-never-been-more-important,18984 "Permanent Link : Telling the truth about Trump has never been more important")
 
 [![](https://independent-australia.myshopify.com/cdn/shop/files/2024MagCover1_aff90a98-8997-4ca5-8e59-d49c1b50ea32_large.jpg?v=1698989656)](https://independent-australia.myshopify.com/collections/magazines-and-newspapers/products/copy-of-2024-ia-print-magazine-subscriber-advance-order-discounted-price-1)
 
