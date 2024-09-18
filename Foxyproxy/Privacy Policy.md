@@ -124,6 +124,6 @@ If you have questions about (or suggestions for!) this policy, please [contact u
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-Brilliant service, already renewed.
+Seems like you guys really care about your clients, which is refreshing.
 
-Ulrich Goost
+Jenny Schenker
