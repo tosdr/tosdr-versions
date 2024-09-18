@@ -76,7 +76,7 @@ article4 days ago](https://science.nasa.gov/missions/artemis/nasas-artemis-ii-cr
 
 ### NASA’s Webb Peers into the Extreme Outer Galaxy
 
-article5 days ago](https://science.nasa.gov/missions/webb/nasas-webb-peers-into-the-extreme-outer-galaxy/)[![What’s Up: September 2024 Skywatching Tips from NASA](https://science.nasa.gov/wp-content/uploads/2023/06/observing-credit-nasa-marshall-space-flight-center.jpg)
+article6 days ago](https://science.nasa.gov/missions/webb/nasas-webb-peers-into-the-extreme-outer-galaxy/)[![What’s Up: September 2024 Skywatching Tips from NASA](https://science.nasa.gov/wp-content/uploads/2023/06/observing-credit-nasa-marshall-space-flight-center.jpg)
 
 6 min read
 
@@ -253,7 +253,7 @@ article 4 days ago](https://science.nasa.gov/missions/artemis/nasas-artemis-ii-c
 
 ### Hubble Examines a Spiral Star Factory
 
-article 4 days ago](https://science.nasa.gov/missions/hubble/hubble-examines-a-spiral-star-factory/)[![: NICER’s X-ray concentrators are dark circles in eight staggered rows covering this image. Each one is divided into six segments, like a sliced pie, by its sunshade. The concentrators rest in a white frame of the telescope.](https://www.nasa.gov/wp-content/uploads/2024/08/crew-9-nicer-iss069e051526.jpg?w=1024)
+article 5 days ago](https://science.nasa.gov/missions/hubble/hubble-examines-a-spiral-star-factory/)[![: NICER’s X-ray concentrators are dark circles in eight staggered rows covering this image. Each one is divided into six segments, like a sliced pie, by its sunshade. The concentrators rest in a white frame of the telescope.](https://www.nasa.gov/wp-content/uploads/2024/08/crew-9-nicer-iss069e051526.jpg?w=1024)
 
 4 min read
 
@@ -285,13 +285,7 @@ article 5 days ago](https://www.nasa.gov/missions/station/nasas-spacex-crew-9-to
 
 ### Highlights
 
-[![A gold coral that looks like a hand with all fingers reaching upwards grows in teal water, on a rock covered in light brown algae.](https://www.nasa.gov/wp-content/uploads/2024/08/oceanos2024loiacono-1878.jpg?w=1024)
-
-5 min read
-
-### Ocean Science Missions and Projects
-
-article 1 hour ago](https://www.nasa.gov/general/ocean-science-missions-and-projects/)[![Screen capture of the My NASA Data homepage. Graphic has a blue background with an image of the Earth and rows across half of the picture representing water, sea ice, forests, clouds, and lava. Words at the top list the content categories.](https://www.nasa.gov/wp-content/uploads/2024/09/1-my-nasa-data-homepage.png?w=1024)
+[![Screen capture of the My NASA Data homepage. Graphic has a blue background with an image of the Earth and rows across half of the picture representing water, sea ice, forests, clouds, and lava. Words at the top list the content categories.](https://www.nasa.gov/wp-content/uploads/2024/09/1-my-nasa-data-homepage.png?w=1024)
 
 4 min read
 
@@ -303,7 +297,13 @@ article 1 day ago](https://www.nasa.gov/earth/going-back-to-school-with-nasa-dat
 
 ### Amendment 48: A.5 Carbon Cycle Science Final Text and Due Dates.
 
-article 1 day ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-48-a-5-carbon-cycle-science-final-text-and-due-dates/)
+article 1 day ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-48-a-5-carbon-cycle-science-final-text-and-due-dates/)[![This map shows global temperature anomalies in 2024.](https://www.nasa.gov/wp-content/uploads/2024/09/gistemp-aug2024-map-no-text.png?w=1024)
+
+5 min read
+
+### NASA Finds Summer 2024 Hottest to Date
+
+article 6 days ago](https://www.nasa.gov/earth/nasa-finds-summer-2024-hottest-to-date/)
 
 ### Highlights
 
@@ -313,7 +313,7 @@ article 1 day ago](https://science.nasa.gov/researchers/solicitations/roses-2024
 
 ### 8 Things to Know About NASA’s Mission to an Ocean Moon of Jupiter
 
-article 5 hours ago](https://www.nasa.gov/missions/europa-clipper/8-things-to-know-about-nasas-mission-to-an-ocean-moon-of-jupiter/)[![Solar Storms and Flares](https://science.nasa.gov/wp-content/uploads/2024/06/x-flare-may-8-2024-131-171-red-crop2.jpg)
+article 11 hours ago](https://www.nasa.gov/missions/europa-clipper/8-things-to-know-about-nasas-mission-to-an-ocean-moon-of-jupiter/)[![Solar Storms and Flares](https://science.nasa.gov/wp-content/uploads/2024/06/x-flare-may-8-2024-131-171-red-crop2.jpg)
 
 2 min read
 
@@ -335,41 +335,41 @@ article 4 days ago](https://science.nasa.gov/missions/artemis/nasas-artemis-ii-c
 
 ### NASA Completes Spacecraft to Transport, Support Roman Space Telescope
 
-article 5 hours ago](https://www.nasa.gov/missions/roman-space-telescope/nasa-completes-spacecraft-to-transport-support-roman-space-telescope/)[![NASA’s Hubble Finds More Black Holes than Expected in the Early Universe](https://science.nasa.gov/wp-content/uploads/2024/09/hubble-hudf-blackholes-stsci-01j6yyrz61qn4exe2hx9dxzj9s.png)
+article 11 hours ago](https://www.nasa.gov/missions/roman-space-telescope/nasa-completes-spacecraft-to-transport-support-roman-space-telescope/)[![NASA’s Hubble Finds More Black Holes than Expected in the Early Universe](https://science.nasa.gov/wp-content/uploads/2024/09/hubble-hudf-blackholes-stsci-01j6yyrz61qn4exe2hx9dxzj9s.png)
 
 4 min read
 
 ### NASA’s Hubble Finds More Black Holes than Expected in the Early Universe
 
-article 6 hours ago](https://science.nasa.gov/missions/hubble/nasas-hubble-finds-more-black-holes-than-expected-in-the-early-universe/)[![Hubble Examines a Spiral Star Factory](https://science.nasa.gov/wp-content/uploads/2024/09/hubble-ngc5668-potw2437a.jpg)
+article 12 hours ago](https://science.nasa.gov/missions/hubble/nasas-hubble-finds-more-black-holes-than-expected-in-the-early-universe/)[![Hubble Examines a Spiral Star Factory](https://science.nasa.gov/wp-content/uploads/2024/09/hubble-ngc5668-potw2437a.jpg)
 
 2 min read
 
 ### Hubble Examines a Spiral Star Factory
 
-article 4 days ago](https://science.nasa.gov/missions/hubble/hubble-examines-a-spiral-star-factory/)
+article 5 days ago](https://science.nasa.gov/missions/hubble/hubble-examines-a-spiral-star-factory/)
 
 ### Highlights
 
-[![A gold coral that looks like a hand with all fingers reaching upwards grows in teal water, on a rock covered in light brown algae.](https://www.nasa.gov/wp-content/uploads/2024/08/oceanos2024loiacono-1878.jpg?w=1024)
-
-5 min read
-
-### Ocean Science Missions and Projects
-
-article 1 hour ago](https://www.nasa.gov/general/ocean-science-missions-and-projects/)[![ICESat-2 Hosts Third Applications Workshop](https://science.nasa.gov/wp-content/uploads/2024/08/icesat2-figure-1.png)
+[![ICESat-2 Hosts Third Applications Workshop](https://science.nasa.gov/wp-content/uploads/2024/08/icesat2-figure-1.png)
 
 16 min read
 
 ### ICESat-2 Hosts Third Applications Workshop
 
-article 2 hours ago](https://science.nasa.gov/science-research/earth-science/icesat-2-hosts-third-applications-workshop/)[![Amendment 49: A.55 Decadal Survey Incubation Program: Science and Technology Final Text and Due Dates](https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000002/GSFC_20171208_Archive_e000002~large.jpg)
+article 8 hours ago](https://science.nasa.gov/science-research/earth-science/icesat-2-hosts-third-applications-workshop/)[![Amendment 49: A.55 Decadal Survey Incubation Program: Science and Technology Final Text and Due Dates](https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000002/GSFC_20171208_Archive_e000002~large.jpg)
 
 1 min read
 
 ### Amendment 49: A.55 Decadal Survey Incubation Program: Science and Technology Final Text and Due Dates
 
-article 4 hours ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-49-a-55-decadal-survey-incubation-program-science-and-technology-final-text-and-due-dates/)
+article 10 hours ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-49-a-55-decadal-survey-incubation-program-science-and-technology-final-text-and-due-dates/)[![Celebrating the First Earth Day Event at NASA Headquarters](https://science.nasa.gov/wp-content/uploads/2024/09/mainphoto.jpg)
+
+4 min read
+
+### Celebrating the First Earth Day Event at NASA Headquarters
+
+article 11 hours ago](https://science.nasa.gov/science-research/earth-science/celebrating-the-first-earth-day-event-at-nasa-headquarters/)
 
 ### Highlights
 
@@ -379,13 +379,13 @@ article 4 hours ago](https://science.nasa.gov/researchers/solicitations/roses-20
 
 ### 65 Years Ago: First Powered Flight of the X-15 Hypersonic Rocket Plane 
 
-article 7 hours ago](https://www.nasa.gov/history/65-years-ago-first-powered-flight-of-the-x-15-hypersonic-rocket-plane/)[![Graphic shows a possible future General Electric jet engine with exposed fan blades in front of a cut-away-interior view of its core mechanisms -- all part of NASA's HyTEC research project.](https://www.nasa.gov/wp-content/uploads/2024/05/hytec-illustration.png?w=1024)
+article 13 hours ago](https://www.nasa.gov/history/65-years-ago-first-powered-flight-of-the-x-15-hypersonic-rocket-plane/)[![Graphic shows a possible future General Electric jet engine with exposed fan blades in front of a cut-away-interior view of its core mechanisms -- all part of NASA's HyTEC research project.](https://www.nasa.gov/wp-content/uploads/2024/05/hytec-illustration.png?w=1024)
 
 3 min read
 
 ### NASA, GE Aerospace Advancing Hybrid-Electric Airliners with HyTEC
 
-article 10 hours ago](https://www.nasa.gov/aeronautics/nasa-ge-hybrid-electric-research-092024/)[![An up-close view of ice that covers propeller blades inside the Icing Research Tunnel.](https://www.nasa.gov/wp-content/uploads/2024/08/grc-2023-c-02525.jpg?w=1024)
+article 16 hours ago](https://www.nasa.gov/aeronautics/nasa-ge-hybrid-electric-research-092024/)[![An up-close view of ice that covers propeller blades inside the Icing Research Tunnel.](https://www.nasa.gov/wp-content/uploads/2024/08/grc-2023-c-02525.jpg?w=1024)
 
 5 min read
 
@@ -395,25 +395,25 @@ article 2 weeks ago](https://www.nasa.gov/centers-and-facilities/glenn/nasa-tunn
 
 ### Highlights
 
-[![Amendment 49: A.55 Decadal Survey Incubation Program: Science and Technology Final Text and Due Dates](https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000002/GSFC_20171208_Archive_e000002~large.jpg)
+[![An Apollo astronaut preparing to climb the ladder into the lunar module's ascent stage, his spacesuit is covered in lunar dust.](https://images-assets.nasa.gov/image/as17-134-20481/as17-134-20481~large.jpg?w=1920&h=1920&fit=clip&crop=faces%2Cfocalpoint)
+
+3 min read
+
+### Measuring Moon Dust to Fight Air Pollution
+
+article 5 hours ago](https://www.nasa.gov/technology/tech-transfer-spinoffs/measuring-moon-dust-to-fight-air-pollution-2/)[![Amendment 49: A.55 Decadal Survey Incubation Program: Science and Technology Final Text and Due Dates](https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000002/GSFC_20171208_Archive_e000002~large.jpg)
 
 1 min read
 
 ### Amendment 49: A.55 Decadal Survey Incubation Program: Science and Technology Final Text and Due Dates
 
-article 4 hours ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-49-a-55-decadal-survey-incubation-program-science-and-technology-final-text-and-due-dates/)[![the Roman spacecraft bus](https://www.nasa.gov/wp-content/uploads/2024/09/spacecraft-001.jpg?w=1024)
+article 10 hours ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-49-a-55-decadal-survey-incubation-program-science-and-technology-final-text-and-due-dates/)[![the Roman spacecraft bus](https://www.nasa.gov/wp-content/uploads/2024/09/spacecraft-001.jpg?w=1024)
 
 5 min read
 
 ### NASA Completes Spacecraft to Transport, Support Roman Space Telescope
 
-article 5 hours ago](https://www.nasa.gov/missions/roman-space-telescope/nasa-completes-spacecraft-to-transport-support-roman-space-telescope/)[![Artemis I communications and navigation milestones](https://www.nasa.gov/wp-content/uploads/2022/08/artemis-i-comm-nav-milestones-abbr.png?w=1024)
-
-1 min read
-
-### SCaN Lunar Support
-
-article 4 days ago](https://www.nasa.gov/communicating-with-missions/scan-lunar-support/)
+article 11 hours ago](https://www.nasa.gov/missions/roman-space-telescope/nasa-completes-spacecraft-to-transport-support-roman-space-telescope/)
 
 ### Featured
 
