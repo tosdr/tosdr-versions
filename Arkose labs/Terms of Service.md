@@ -375,4 +375,4 @@ Join our Webinar with Datos Insights about Defending the Enterprise: Collaborati
 
                                                   
 
-https://www.arkoselabs.com/arkose-university/sign-up/
+https://developer.arkoselabs.com/
