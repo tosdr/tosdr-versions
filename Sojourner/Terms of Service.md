@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-769eca486a85bc8effa090b57d3ab1c1
+d2e8f352b2c0a84d9a5dbb3a91619e93
 
 [](# "Expand for more options")[](# "Search")
 
@@ -142,11 +142,11 @@ Terms and Conditions
 
 ### Featured Product
 
-[![Faux coral clasp](https://sojourner.biz/images/cache/SKU0308-1front.200.jpg)](https://sojourner.biz/clasps/faux-stone/faux-coral-clasp.html "Faux coral clasp")
+[![17 mm by 12 mm vintage Czech glass twisted oval beads](https://sojourner.biz/images/cache/glass/GL0173.200.jpg)](https://sojourner.biz/beads/glass/17-mm-by-12-mm-vintage-czech-glass-twisted-oval-beads.html "17 mm by 12 mm vintage Czech glass twisted oval beads")
 
-#### [Faux coral clasp](https://sojourner.biz/clasps/faux-stone/faux-coral-clasp.html "Faux coral clasp")
+#### [17 mm by 12 mm vintage Czech glass twisted oval beads](https://sojourner.biz/beads/glass/17-mm-by-12-mm-vintage-czech-glass-twisted-oval-beads.html "17 mm by 12 mm vintage Czech glass twisted oval beads")
 
-$45.00
+$14.00
 
 ### Best Sellers
 
@@ -166,10 +166,10 @@ $45.00
     $15.00
 8. [Red bar clasp](https://sojourner.biz/clasps/glass/red-bar-clasp.html "Red bar clasp")  
     $23.00
-9. [Citrine clasp](https://sojourner.biz/clasps/faux-stone/citrine-clasp.html "Citrine clasp")  
-    $26.00
-10. [Mother-of-pearl box clasp](https://sojourner.biz/clasps/pearl/mother-of-pearl-box-clasp.html "Mother-of-pearl box clasp")  
+9. [Mother-of-pearl box clasp](https://sojourner.biz/clasps/pearl/mother-of-pearl-box-clasp.html "Mother-of-pearl box clasp")  
     $17.00
+10. [Citrine clasp](https://sojourner.biz/clasps/faux-stone/citrine-clasp.html "Citrine clasp")  
+    $26.00
 
 [Top](#)
 
