@@ -137,7 +137,7 @@ Suchen
             * [Girokonten](https://www.test.de/Girokonto-im-Test-5069390-0/)
             * [Wertpapierdepots](https://www.test.de/Depotkosten-im-Vergleich-4864312-0/)
             * [Kreditkarten](https://www.test.de/Kreditkarten-im-Vergleich-5238561-0/)
-            * [Nachhaltige Fonds](https://www.test.de/Ethisch-oekologische-Fonds-So-legen-Sie-sauber-an-4741500-0/)
+            * [Nachhaltige Fonds](https://www.test.de/nachhaltige-fonds-etf-test-4741500-0/)
             
             Geldanlage & Privatfinanzen
             
@@ -809,21 +809,21 @@ Weitere spannende Themen
 
 Neueste Tests
 
+* [Fonds und ETF im Vergleich: Hier finden Sie die besten Fonds für Ihr Portfolio](https://www.test.de/Fonds-im-Test-Fuenf-Punkte-fuer-die-Besten-4331006-0/ "Fonds und ETF im Vergleich - Hier finden Sie die besten Fonds für Ihr Portfolio")
+* [Nach­haltige Fonds und ETF: Warum wir grüne Fonds jetzt strenger testen](https://www.test.de/nachhaltige-fonds-etf-test-4741500-0/ "Nachhaltige Fonds und ETF - Warum wir grüne Fonds jetzt strenger testen")
 * [Tiefkühlpizza im Test: Italien für zu Hause](https://www.test.de/tiefkuehlpizza-salami-im-test-4830454-0/ "Tiefkühlpizza im Test - Italien für zu Hause")
 * [Körperfett­waagen im Test: Einige leisten sich fette Mess­fehler](https://www.test.de/koerperfettwaage-test-4645874-0/ "Körperfettwaagen im Test - Einige leisten sich fette Messfehler")
 * [Fernseher im Test: Gutes Bild und guter Ton – geht günstig](https://www.test.de/Fernseher-im-Test-1629201-0/ "Fernseher im Test - Gutes Bild und guter Ton – geht günstig")
 * [Kreditkarten im Vergleich: Mit dieser Kreditkarte liegen Sie richtig](https://www.test.de/Kreditkarten-im-Vergleich-5238561-0/ "Kreditkarten im Vergleich - Mit dieser Kreditkarte liegen Sie richtig")
-* [Bluetooth-Kopf­hörer im Test: Kopf­hörer mit gutem Sound und Akku](https://www.test.de/Bluetooth-Kopfhoerer-Test-4378783-0/ "Bluetooth-Kopfhörer im Test - Kopfhörer mit gutem Sound und Akku")
-* [ETF-Sparplan-Vergleich: So einfach und günstig geht ETF-Sparen](https://www.test.de/ETF-Sparplan-Vergleich-5015866-0/ "ETF-Sparplan-Vergleich - So einfach und günstig geht ETF-Sparen")
 
 test.de entdecken
 
-* [Essen und Getränke zum Mitnehmen: Weg frei für mehr Mehrweg](https://www.test.de/Essen-und-Getraenke-zum-Mitnehmen-Weg-frei-fuer-mehr-Mehrweg-5944591-0/ "Essen und Getränke zum Mitnehmen - Weg frei für mehr Mehrweg")
-* [Lang­zeit-Auslands­kranken­versicherung im Vergleich: Gut abge­sichert auf langen Reisen](https://www.test.de/Langzeit-Auslandskrankenversicherung-im-Vergleich-5988609-0/ "Langzeit-Auslandskrankenversicherung im Vergleich - Gut abgesichert auf langen Reisen")
-* [Schnell­test E-Ink-Monitore: Lesen wie auf Papier](https://www.test.de/Schnelltest-E-Ink-Monitore-Lesen-wie-auf-Papier-6000137-0/ "Schnelltest E-Ink-Monitore - Lesen wie auf Papier")
-* [Sommerreifen im Test: Die besten Sommerreifen aus den ADAC-Tests](https://www.test.de/Test-Sommerreifen-Die-besten-Sommerreifen-aus-den-ADAC-Tests-6045628-0/ "Sommerreifen im Test - Die besten Sommerreifen aus den ADAC-Tests")
-* [Private Kranken­versicherung: Stan­dard­tarif, Basis­tarif, Notlagen­tarif](https://www.test.de/PKV-Standardtarif-Basistarif-Notlagentarif-5883838-0/ "Private Krankenversicherung - Standardtarif, Basistarif, Notlagentarif")
-* [Verpackungs­ärger: CD Milde Seife, 100 Gramm](https://www.test.de/Verpackungsaerger-CD-Milde-Seife-100-Gramm-5944699-0/ "Verpackungsärger - CD Milde Seife, 100 Gramm")
+* [Wasch­trockner im Test: Waschen und trocknen in einem](https://www.test.de/Waschtrockner-im-Test-Waschen-und-trocknen-in-einem-6047701-0/ "Waschtrockner im Test - Waschen und trocknen in einem")
+* [MSCI World ETF: Welt­index zurück nach Schwächephase](https://www.test.de/MSCI-World-ETF-Weltindex-zurueck-nach-Schwaechephase-6064539-0/ "MSCI World ETF - Weltindex zurück nach Schwächephase")
+* [Kinder­roller im Test: Sieben sind echte Rock‘n Roller](https://www.test.de/Kinderroller-im-Test-5936182-0/ "Kinderroller im Test - Sieben sind echte Rock‘n Roller")
+* [Linsen- und Kicher­erbsen-Chips im Test: Leichte Konkurrenz für Kartoffel­chips](https://www.test.de/Linsen-und-Kicherbsen-Chips-im-Test-5959980-0/ "Linsen- und Kichererbsen-Chips im Test - Leichte Konkurrenz für Kartoffelchips")
+* [Dubioses Fest­geld: Webseite Zinsbox ist unseriös](https://www.test.de/Dubioses-Festgeld-Webseite-Zinsbox-ist-unserioes-6149417-0/ "Dubioses Festgeld - Webseite Zinsbox ist unseriös")
+* [Gut essen mit der Stiftung Warentest: Klassischer Stollen](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Klassischer-Stollen-5937562-0/ "Gut essen mit der Stiftung Warentest - Klassischer Stollen")
 
 Fußbereich
 
@@ -1052,7 +1052,7 @@ Suchen
             * [Girokonten](https://www.test.de/Girokonto-im-Test-5069390-0/)
             * [Wertpapierdepots](https://www.test.de/Depotkosten-im-Vergleich-4864312-0/)
             * [Kreditkarten](https://www.test.de/Kreditkarten-im-Vergleich-5238561-0/)
-            * [Nachhaltige Fonds](https://www.test.de/Ethisch-oekologische-Fonds-So-legen-Sie-sauber-an-4741500-0/)
+            * [Nachhaltige Fonds](https://www.test.de/nachhaltige-fonds-etf-test-4741500-0/)
             
             Geldanlage & Privatfinanzen
             
@@ -1405,7 +1405,7 @@ Suchen
             * [Girokonten](https://www.test.de/Girokonto-im-Test-5069390-0/)
             * [Wertpapierdepots](https://www.test.de/Depotkosten-im-Vergleich-4864312-0/)
             * [Kreditkarten](https://www.test.de/Kreditkarten-im-Vergleich-5238561-0/)
-            * [Nachhaltige Fonds](https://www.test.de/Ethisch-oekologische-Fonds-So-legen-Sie-sauber-an-4741500-0/)
+            * [Nachhaltige Fonds](https://www.test.de/nachhaltige-fonds-etf-test-4741500-0/)
             
             Geldanlage & Privatfinanzen
             
@@ -1741,7 +1741,7 @@ Suchen
             * [Girokonten](https://www.test.de/Girokonto-im-Test-5069390-0/)
             * [Wertpapierdepots](https://www.test.de/Depotkosten-im-Vergleich-4864312-0/)
             * [Kreditkarten](https://www.test.de/Kreditkarten-im-Vergleich-5238561-0/)
-            * [Nachhaltige Fonds](https://www.test.de/Ethisch-oekologische-Fonds-So-legen-Sie-sauber-an-4741500-0/)
+            * [Nachhaltige Fonds](https://www.test.de/nachhaltige-fonds-etf-test-4741500-0/)
             
             Geldanlage & Privatfinanzen
             
@@ -2052,7 +2052,7 @@ Meistgelesene Tests & Themen
 * [Girokonten](https://www.test.de/Girokonto-im-Test-5069390-0/)
 * [Wertpapierdepots](https://www.test.de/Depotkosten-im-Vergleich-4864312-0/)
 * [Kreditkarten](https://www.test.de/Kreditkarten-im-Vergleich-5238561-0/)
-* [Nachhaltige Fonds](https://www.test.de/Ethisch-oekologische-Fonds-So-legen-Sie-sauber-an-4741500-0/)
+* [Nachhaltige Fonds](https://www.test.de/nachhaltige-fonds-etf-test-4741500-0/)
 
 Meistgelesene Tests & Themen
 
@@ -2061,7 +2061,7 @@ Meistgelesene Tests & Themen
 * [Girokonten](https://www.test.de/Girokonto-im-Test-5069390-0/)
 * [Wertpapierdepots](https://www.test.de/Depotkosten-im-Vergleich-4864312-0/)
 * [Kreditkarten](https://www.test.de/Kreditkarten-im-Vergleich-5238561-0/)
-* [Nachhaltige Fonds](https://www.test.de/Ethisch-oekologische-Fonds-So-legen-Sie-sauber-an-4741500-0/)
+* [Nachhaltige Fonds](https://www.test.de/nachhaltige-fonds-etf-test-4741500-0/)
 
 Meistgelesene Tests & Themen
 
@@ -3854,59 +3854,59 @@ Weitere spannende Themen
 
 Neueste Tests
 
+* [Fonds und ETF im Vergleich: Hier finden Sie die besten Fonds für Ihr Portfolio](https://www.test.de/Fonds-im-Test-Fuenf-Punkte-fuer-die-Besten-4331006-0/ "Fonds und ETF im Vergleich - Hier finden Sie die besten Fonds für Ihr Portfolio")
+* [Nach­haltige Fonds und ETF: Warum wir grüne Fonds jetzt strenger testen](https://www.test.de/nachhaltige-fonds-etf-test-4741500-0/ "Nachhaltige Fonds und ETF - Warum wir grüne Fonds jetzt strenger testen")
 * [Tiefkühlpizza im Test: Italien für zu Hause](https://www.test.de/tiefkuehlpizza-salami-im-test-4830454-0/ "Tiefkühlpizza im Test - Italien für zu Hause")
 * [Körperfett­waagen im Test: Einige leisten sich fette Mess­fehler](https://www.test.de/koerperfettwaage-test-4645874-0/ "Körperfettwaagen im Test - Einige leisten sich fette Messfehler")
 * [Fernseher im Test: Gutes Bild und guter Ton – geht günstig](https://www.test.de/Fernseher-im-Test-1629201-0/ "Fernseher im Test - Gutes Bild und guter Ton – geht günstig")
 * [Kreditkarten im Vergleich: Mit dieser Kreditkarte liegen Sie richtig](https://www.test.de/Kreditkarten-im-Vergleich-5238561-0/ "Kreditkarten im Vergleich - Mit dieser Kreditkarte liegen Sie richtig")
-* [Bluetooth-Kopf­hörer im Test: Kopf­hörer mit gutem Sound und Akku](https://www.test.de/Bluetooth-Kopfhoerer-Test-4378783-0/ "Bluetooth-Kopfhörer im Test - Kopfhörer mit gutem Sound und Akku")
-* [ETF-Sparplan-Vergleich: So einfach und günstig geht ETF-Sparen](https://www.test.de/ETF-Sparplan-Vergleich-5015866-0/ "ETF-Sparplan-Vergleich - So einfach und günstig geht ETF-Sparen")
 
 test.de entdecken
 
-* [Essen und Getränke zum Mitnehmen: Weg frei für mehr Mehrweg](https://www.test.de/Essen-und-Getraenke-zum-Mitnehmen-Weg-frei-fuer-mehr-Mehrweg-5944591-0/ "Essen und Getränke zum Mitnehmen - Weg frei für mehr Mehrweg")
-* [Lang­zeit-Auslands­kranken­versicherung im Vergleich: Gut abge­sichert auf langen Reisen](https://www.test.de/Langzeit-Auslandskrankenversicherung-im-Vergleich-5988609-0/ "Langzeit-Auslandskrankenversicherung im Vergleich - Gut abgesichert auf langen Reisen")
-* [Schnell­test E-Ink-Monitore: Lesen wie auf Papier](https://www.test.de/Schnelltest-E-Ink-Monitore-Lesen-wie-auf-Papier-6000137-0/ "Schnelltest E-Ink-Monitore - Lesen wie auf Papier")
-* [Sommerreifen im Test: Die besten Sommerreifen aus den ADAC-Tests](https://www.test.de/Test-Sommerreifen-Die-besten-Sommerreifen-aus-den-ADAC-Tests-6045628-0/ "Sommerreifen im Test - Die besten Sommerreifen aus den ADAC-Tests")
-* [Private Kranken­versicherung: Stan­dard­tarif, Basis­tarif, Notlagen­tarif](https://www.test.de/PKV-Standardtarif-Basistarif-Notlagentarif-5883838-0/ "Private Krankenversicherung - Standardtarif, Basistarif, Notlagentarif")
-* [Verpackungs­ärger: CD Milde Seife, 100 Gramm](https://www.test.de/Verpackungsaerger-CD-Milde-Seife-100-Gramm-5944699-0/ "Verpackungsärger - CD Milde Seife, 100 Gramm")
+* [Wasch­trockner im Test: Waschen und trocknen in einem](https://www.test.de/Waschtrockner-im-Test-Waschen-und-trocknen-in-einem-6047701-0/ "Waschtrockner im Test - Waschen und trocknen in einem")
+* [MSCI World ETF: Welt­index zurück nach Schwächephase](https://www.test.de/MSCI-World-ETF-Weltindex-zurueck-nach-Schwaechephase-6064539-0/ "MSCI World ETF - Weltindex zurück nach Schwächephase")
+* [Kinder­roller im Test: Sieben sind echte Rock‘n Roller](https://www.test.de/Kinderroller-im-Test-5936182-0/ "Kinderroller im Test - Sieben sind echte Rock‘n Roller")
+* [Linsen- und Kicher­erbsen-Chips im Test: Leichte Konkurrenz für Kartoffel­chips](https://www.test.de/Linsen-und-Kicherbsen-Chips-im-Test-5959980-0/ "Linsen- und Kichererbsen-Chips im Test - Leichte Konkurrenz für Kartoffelchips")
+* [Dubioses Fest­geld: Webseite Zinsbox ist unseriös](https://www.test.de/Dubioses-Festgeld-Webseite-Zinsbox-ist-unserioes-6149417-0/ "Dubioses Festgeld - Webseite Zinsbox ist unseriös")
+* [Gut essen mit der Stiftung Warentest: Klassischer Stollen](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Klassischer-Stollen-5937562-0/ "Gut essen mit der Stiftung Warentest - Klassischer Stollen")
 
 Weitere spannende Themen
 
 Neueste Tests
 
+* [Fonds und ETF im Vergleich: Hier finden Sie die besten Fonds für Ihr Portfolio](https://www.test.de/Fonds-im-Test-Fuenf-Punkte-fuer-die-Besten-4331006-0/ "Fonds und ETF im Vergleich - Hier finden Sie die besten Fonds für Ihr Portfolio")
+* [Nach­haltige Fonds und ETF: Warum wir grüne Fonds jetzt strenger testen](https://www.test.de/nachhaltige-fonds-etf-test-4741500-0/ "Nachhaltige Fonds und ETF - Warum wir grüne Fonds jetzt strenger testen")
 * [Tiefkühlpizza im Test: Italien für zu Hause](https://www.test.de/tiefkuehlpizza-salami-im-test-4830454-0/ "Tiefkühlpizza im Test - Italien für zu Hause")
 * [Körperfett­waagen im Test: Einige leisten sich fette Mess­fehler](https://www.test.de/koerperfettwaage-test-4645874-0/ "Körperfettwaagen im Test - Einige leisten sich fette Messfehler")
 * [Fernseher im Test: Gutes Bild und guter Ton – geht günstig](https://www.test.de/Fernseher-im-Test-1629201-0/ "Fernseher im Test - Gutes Bild und guter Ton – geht günstig")
 * [Kreditkarten im Vergleich: Mit dieser Kreditkarte liegen Sie richtig](https://www.test.de/Kreditkarten-im-Vergleich-5238561-0/ "Kreditkarten im Vergleich - Mit dieser Kreditkarte liegen Sie richtig")
-* [Bluetooth-Kopf­hörer im Test: Kopf­hörer mit gutem Sound und Akku](https://www.test.de/Bluetooth-Kopfhoerer-Test-4378783-0/ "Bluetooth-Kopfhörer im Test - Kopfhörer mit gutem Sound und Akku")
-* [ETF-Sparplan-Vergleich: So einfach und günstig geht ETF-Sparen](https://www.test.de/ETF-Sparplan-Vergleich-5015866-0/ "ETF-Sparplan-Vergleich - So einfach und günstig geht ETF-Sparen")
 
 test.de entdecken
 
-* [Essen und Getränke zum Mitnehmen: Weg frei für mehr Mehrweg](https://www.test.de/Essen-und-Getraenke-zum-Mitnehmen-Weg-frei-fuer-mehr-Mehrweg-5944591-0/ "Essen und Getränke zum Mitnehmen - Weg frei für mehr Mehrweg")
-* [Lang­zeit-Auslands­kranken­versicherung im Vergleich: Gut abge­sichert auf langen Reisen](https://www.test.de/Langzeit-Auslandskrankenversicherung-im-Vergleich-5988609-0/ "Langzeit-Auslandskrankenversicherung im Vergleich - Gut abgesichert auf langen Reisen")
-* [Schnell­test E-Ink-Monitore: Lesen wie auf Papier](https://www.test.de/Schnelltest-E-Ink-Monitore-Lesen-wie-auf-Papier-6000137-0/ "Schnelltest E-Ink-Monitore - Lesen wie auf Papier")
-* [Sommerreifen im Test: Die besten Sommerreifen aus den ADAC-Tests](https://www.test.de/Test-Sommerreifen-Die-besten-Sommerreifen-aus-den-ADAC-Tests-6045628-0/ "Sommerreifen im Test - Die besten Sommerreifen aus den ADAC-Tests")
-* [Private Kranken­versicherung: Stan­dard­tarif, Basis­tarif, Notlagen­tarif](https://www.test.de/PKV-Standardtarif-Basistarif-Notlagentarif-5883838-0/ "Private Krankenversicherung - Standardtarif, Basistarif, Notlagentarif")
-* [Verpackungs­ärger: CD Milde Seife, 100 Gramm](https://www.test.de/Verpackungsaerger-CD-Milde-Seife-100-Gramm-5944699-0/ "Verpackungsärger - CD Milde Seife, 100 Gramm")
+* [Wasch­trockner im Test: Waschen und trocknen in einem](https://www.test.de/Waschtrockner-im-Test-Waschen-und-trocknen-in-einem-6047701-0/ "Waschtrockner im Test - Waschen und trocknen in einem")
+* [MSCI World ETF: Welt­index zurück nach Schwächephase](https://www.test.de/MSCI-World-ETF-Weltindex-zurueck-nach-Schwaechephase-6064539-0/ "MSCI World ETF - Weltindex zurück nach Schwächephase")
+* [Kinder­roller im Test: Sieben sind echte Rock‘n Roller](https://www.test.de/Kinderroller-im-Test-5936182-0/ "Kinderroller im Test - Sieben sind echte Rock‘n Roller")
+* [Linsen- und Kicher­erbsen-Chips im Test: Leichte Konkurrenz für Kartoffel­chips](https://www.test.de/Linsen-und-Kicherbsen-Chips-im-Test-5959980-0/ "Linsen- und Kichererbsen-Chips im Test - Leichte Konkurrenz für Kartoffelchips")
+* [Dubioses Fest­geld: Webseite Zinsbox ist unseriös](https://www.test.de/Dubioses-Festgeld-Webseite-Zinsbox-ist-unserioes-6149417-0/ "Dubioses Festgeld - Webseite Zinsbox ist unseriös")
+* [Gut essen mit der Stiftung Warentest: Klassischer Stollen](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Klassischer-Stollen-5937562-0/ "Gut essen mit der Stiftung Warentest - Klassischer Stollen")
 
 Neueste Tests
 
+* [Fonds und ETF im Vergleich: Hier finden Sie die besten Fonds für Ihr Portfolio](https://www.test.de/Fonds-im-Test-Fuenf-Punkte-fuer-die-Besten-4331006-0/ "Fonds und ETF im Vergleich - Hier finden Sie die besten Fonds für Ihr Portfolio")
+* [Nach­haltige Fonds und ETF: Warum wir grüne Fonds jetzt strenger testen](https://www.test.de/nachhaltige-fonds-etf-test-4741500-0/ "Nachhaltige Fonds und ETF - Warum wir grüne Fonds jetzt strenger testen")
 * [Tiefkühlpizza im Test: Italien für zu Hause](https://www.test.de/tiefkuehlpizza-salami-im-test-4830454-0/ "Tiefkühlpizza im Test - Italien für zu Hause")
 * [Körperfett­waagen im Test: Einige leisten sich fette Mess­fehler](https://www.test.de/koerperfettwaage-test-4645874-0/ "Körperfettwaagen im Test - Einige leisten sich fette Messfehler")
 * [Fernseher im Test: Gutes Bild und guter Ton – geht günstig](https://www.test.de/Fernseher-im-Test-1629201-0/ "Fernseher im Test - Gutes Bild und guter Ton – geht günstig")
 * [Kreditkarten im Vergleich: Mit dieser Kreditkarte liegen Sie richtig](https://www.test.de/Kreditkarten-im-Vergleich-5238561-0/ "Kreditkarten im Vergleich - Mit dieser Kreditkarte liegen Sie richtig")
-* [Bluetooth-Kopf­hörer im Test: Kopf­hörer mit gutem Sound und Akku](https://www.test.de/Bluetooth-Kopfhoerer-Test-4378783-0/ "Bluetooth-Kopfhörer im Test - Kopfhörer mit gutem Sound und Akku")
-* [ETF-Sparplan-Vergleich: So einfach und günstig geht ETF-Sparen](https://www.test.de/ETF-Sparplan-Vergleich-5015866-0/ "ETF-Sparplan-Vergleich - So einfach und günstig geht ETF-Sparen")
 
 test.de entdecken
 
-* [Essen und Getränke zum Mitnehmen: Weg frei für mehr Mehrweg](https://www.test.de/Essen-und-Getraenke-zum-Mitnehmen-Weg-frei-fuer-mehr-Mehrweg-5944591-0/ "Essen und Getränke zum Mitnehmen - Weg frei für mehr Mehrweg")
-* [Lang­zeit-Auslands­kranken­versicherung im Vergleich: Gut abge­sichert auf langen Reisen](https://www.test.de/Langzeit-Auslandskrankenversicherung-im-Vergleich-5988609-0/ "Langzeit-Auslandskrankenversicherung im Vergleich - Gut abgesichert auf langen Reisen")
-* [Schnell­test E-Ink-Monitore: Lesen wie auf Papier](https://www.test.de/Schnelltest-E-Ink-Monitore-Lesen-wie-auf-Papier-6000137-0/ "Schnelltest E-Ink-Monitore - Lesen wie auf Papier")
-* [Sommerreifen im Test: Die besten Sommerreifen aus den ADAC-Tests](https://www.test.de/Test-Sommerreifen-Die-besten-Sommerreifen-aus-den-ADAC-Tests-6045628-0/ "Sommerreifen im Test - Die besten Sommerreifen aus den ADAC-Tests")
-* [Private Kranken­versicherung: Stan­dard­tarif, Basis­tarif, Notlagen­tarif](https://www.test.de/PKV-Standardtarif-Basistarif-Notlagentarif-5883838-0/ "Private Krankenversicherung - Standardtarif, Basistarif, Notlagentarif")
-* [Verpackungs­ärger: CD Milde Seife, 100 Gramm](https://www.test.de/Verpackungsaerger-CD-Milde-Seife-100-Gramm-5944699-0/ "Verpackungsärger - CD Milde Seife, 100 Gramm")
+* [Wasch­trockner im Test: Waschen und trocknen in einem](https://www.test.de/Waschtrockner-im-Test-Waschen-und-trocknen-in-einem-6047701-0/ "Waschtrockner im Test - Waschen und trocknen in einem")
+* [MSCI World ETF: Welt­index zurück nach Schwächephase](https://www.test.de/MSCI-World-ETF-Weltindex-zurueck-nach-Schwaechephase-6064539-0/ "MSCI World ETF - Weltindex zurück nach Schwächephase")
+* [Kinder­roller im Test: Sieben sind echte Rock‘n Roller](https://www.test.de/Kinderroller-im-Test-5936182-0/ "Kinderroller im Test - Sieben sind echte Rock‘n Roller")
+* [Linsen- und Kicher­erbsen-Chips im Test: Leichte Konkurrenz für Kartoffel­chips](https://www.test.de/Linsen-und-Kicherbsen-Chips-im-Test-5959980-0/ "Linsen- und Kichererbsen-Chips im Test - Leichte Konkurrenz für Kartoffelchips")
+* [Dubioses Fest­geld: Webseite Zinsbox ist unseriös](https://www.test.de/Dubioses-Festgeld-Webseite-Zinsbox-ist-unserioes-6149417-0/ "Dubioses Festgeld - Webseite Zinsbox ist unseriös")
+* [Gut essen mit der Stiftung Warentest: Klassischer Stollen](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Klassischer-Stollen-5937562-0/ "Gut essen mit der Stiftung Warentest - Klassischer Stollen")
 
 Service Stiftung Warentest
 
