@@ -8,10 +8,10 @@
 
 *  
     
-* [2024 Presidential Election](https://www.motherjones.com/politics/2024/09/trump-pandemic-amnesia/)
-* [Abortion Bans](https://www.motherjones.com/politics/2024/09/a-georgia-woman-has-died-after-an-abortion-ban-delayed-lifesaving-care/)
-* [Trump](https://www.motherjones.com/politics/2024/09/trump-assassination-attempt-blame-rhetoric-palm-beach-florida/)
-* [Kamala Harris](https://www.motherjones.com/politics/2024/09/harris-platform-disabled-workers-sub-minimum-wage-prisons/)
+* [Donald Trump](https://www.motherjones.com/politics/2024/09/harris-blames-georgia-mothers-death-on-trump-abortion-bans/)
+* [JD Vance](https://www.motherjones.com/politics/2024/09/jd-vance-just-decried-political-violence-but-he-endorsed-a-book-celebrating-it/)
+* [Reproductive Rights](https://www.motherjones.com/politics/2024/09/republicans-ivf-bill-blocked-again-trump-fertilization/)
+* [Kamala Harris](https://www.motherjones.com/politics/2024/09/kamala-harris-israel-gaza-questions/)
 
 * [Newsletters](https://www.motherjones.com/newsletters/?mj_oac=dropdown_nav)
 * [Politics](https://www.motherjones.com/politics/)
@@ -27,10 +27,10 @@
 
 *  
     
-* [2024 Presidential Election](https://www.motherjones.com/politics/2024/09/trump-pandemic-amnesia/)
-* [Abortion Bans](https://www.motherjones.com/politics/2024/09/a-georgia-woman-has-died-after-an-abortion-ban-delayed-lifesaving-care/)
-* [Trump](https://www.motherjones.com/politics/2024/09/trump-assassination-attempt-blame-rhetoric-palm-beach-florida/)
-* [Kamala Harris](https://www.motherjones.com/politics/2024/09/harris-platform-disabled-workers-sub-minimum-wage-prisons/)
+* [Donald Trump](https://www.motherjones.com/politics/2024/09/harris-blames-georgia-mothers-death-on-trump-abortion-bans/)
+* [JD Vance](https://www.motherjones.com/politics/2024/09/jd-vance-just-decried-political-violence-but-he-endorsed-a-book-celebrating-it/)
+* [Reproductive Rights](https://www.motherjones.com/politics/2024/09/republicans-ivf-bill-blocked-again-trump-fertilization/)
+* [Kamala Harris](https://www.motherjones.com/politics/2024/09/kamala-harris-israel-gaza-questions/)
 
 [Subscribe to our magazine](https://secure.motherjones.com/flex/MOJ/SUBS/?p=SEGHOP&c=SEGHOC&d=SEGHOD&f=SEGHOF "Subscribe")
 
