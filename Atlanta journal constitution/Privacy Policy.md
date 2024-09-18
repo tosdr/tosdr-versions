@@ -1,3 +1,5 @@
+[Exclusive: AJC poll finds Kamala Harris and Donald Trump are locked in a tight race in Georgia](https://www.ajc.com/politics/ajc-poll-finds-kamala-harris-and-donald-trump-are-locked-in-a-tight-race-in-georgia/C5CQ6742V5AHVIDUVQ77LQ7YMY/)
+
 [![ajc logo](/pf/resources/logos/AJC/logo-full-redesign.svg?d=1677)![ajc logo](/pf/resources/logos/AJC/logo-short.svg?d=1677)](https://www.ajc.com/)
 
 Log In
@@ -14,6 +16,7 @@ Log In
 [Frequently Asked Questions
 --------------------------](https://www.ajc.com/frequently-asked-questions)
 
+* [A.M. ATL Newsletter](https://www.ajc.com/news/am-atl-a-new-poll-of-georgia-voters/MKEMGX2Q3VHGLBBHW25D3DFLA4/)
 * [Georgia School Shooting](https://www.ajc.com/news/georgia-school-shooting/)
 * [Politically Georgia](https://www.ajc.com/politics/politics-blog/)
 * [High School Sports](https://www.ajc.com/sports/high-school/)
