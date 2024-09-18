@@ -197,57 +197,61 @@ Note: If at any time you should have any concern regarding security, privacy or 
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Integrated Debit Order Solution
-> -------------------------------
+> Wish I started ages ago!
+> ------------------------
 > 
-> We sell adsl bandwidth ranging from a single gig account, up to uncapped accounts. We use invoices online for all our invoicing needs - the invoices online API is integrated in our debit order system that runs on a monthly basis. All clients receive an invoice as soon as their account is debited, and on successful payment the payment is automatically recorded against their account. The system saves us a great deal of time and effort every month, and we recommend that you give it a try.
+> I just want to compliment you and your team for an amazing back office software.
+> 
+> I have been struggling with a proper invoicing solution for six months now (to make time each month)
+> 
+> I just wish I started using Invoices Online ages ago.
 
-Hugo van Sittert
+Terri Winfield
 
-![valued client Import Maaw](https://www.invoicesonline.co.za/scripts/image.php?bid=6159&file=logo_300_100&type=&fe=0cf6bbad6ca399e826ac96bff9d30951802539a82a30e172a53db8560c35cba1&c=116927411)  
-Import Maaw
+![valued client Digifax (Pty) Ltd T/A SecurityHyper](https://www.invoicesonline.co.za/scripts/image.php?bid=3135&file=logo_300_100&type=&fe=c76075b16b0b3890fed7f6267e67fd62ed7c8acf4a5f11332ab2ffcfa9218c99&c=109202039)  
+Digifax (Pty) Ltd T/A SecurityHyper
 
-![valued client GF CASTELYN Trading as ELECTROPRINT ARMATURE REWINDERS](https://www.invoicesonline.co.za/scripts/image.php?bid=3194&file=logo_300_100&type=&fe=0cf6bbad6ca399e826ac96bff9d30951802539a82a30e172a53db8560c35cba1&c=177937079)  
-GF CASTELYN Trading as ELECTROPRINT ARMATURE REWINDERS
-
-![valued client Adele Jordaan T/A Joyful Noise Music Room](https://www.invoicesonline.co.za/scripts/image.php?bid=7958&file=logo_300_100&type=&fe=0cf6bbad6ca399e826ac96bff9d30951802539a82a30e172a53db8560c35cba1&c=17218394)  
-Adele Jordaan T/A Joyful Noise Music Room
-
-![valued client National Elite Security Services (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=6096&file=logo_300_100&type=&fe=0cf6bbad6ca399e826ac96bff9d30951802539a82a30e172a53db8560c35cba1&c=113443529)  
-National Elite Security Services (PTY) LTD
-
-![valued client TurboFibre](https://www.invoicesonline.co.za/scripts/image.php?bid=6535&file=logo_300_100&type=&fe=0cf6bbad6ca399e826ac96bff9d30951802539a82a30e172a53db8560c35cba1&c=210413939)  
-TurboFibre
-
-![valued client Dr V Naik Consult](https://www.invoicesonline.co.za/scripts/image.php?bid=4810&file=logo_300_100&type=&fe=0cf6bbad6ca399e826ac96bff9d30951802539a82a30e172a53db8560c35cba1&c=72351095)  
+![valued client Dr V Naik Consult](https://www.invoicesonline.co.za/scripts/image.php?bid=4810&file=logo_300_100&type=&fe=c76075b16b0b3890fed7f6267e67fd62ed7c8acf4a5f11332ab2ffcfa9218c99&c=47301099)  
 Dr V Naik Consult
 
-![valued client Cooper Power South Africa (Pty) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2012&file=logo_300_100&type=&fe=0cf6bbad6ca399e826ac96bff9d30951802539a82a30e172a53db8560c35cba1&c=45120105)  
-Cooper Power South Africa (Pty) LTD
+![valued client Sarabi ](https://www.invoicesonline.co.za/scripts/image.php?bid=5430&file=logo_300_100&type=&fe=c76075b16b0b3890fed7f6267e67fd62ed7c8acf4a5f11332ab2ffcfa9218c99&c=13618594)  
+Sarabi
 
-![valued client SLOANE STAR MEAT MARKET](https://www.invoicesonline.co.za/scripts/image.php?bid=1748&file=logo_300_100&type=&fe=0cf6bbad6ca399e826ac96bff9d30951802539a82a30e172a53db8560c35cba1&c=179133747)  
-SLOANE STAR MEAT MARKET
+![valued client National Elite Security Services (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=6096&file=logo_300_100&type=&fe=c76075b16b0b3890fed7f6267e67fd62ed7c8acf4a5f11332ab2ffcfa9218c99&c=168785432)  
+National Elite Security Services (PTY) LTD
 
-![valued client MR Compressors& Industrial Supplies](https://www.invoicesonline.co.za/scripts/image.php?bid=7893&file=logo_300_100&type=&fe=0cf6bbad6ca399e826ac96bff9d30951802539a82a30e172a53db8560c35cba1&c=98356897)  
-MR Compressors& Industrial Supplies
+![valued client Digifax (Pty) Ltd trading as Digirent](https://www.invoicesonline.co.za/scripts/image.php?bid=571&file=logo_300_100&type=&fe=c76075b16b0b3890fed7f6267e67fd62ed7c8acf4a5f11332ab2ffcfa9218c99&c=89787490)  
+Digifax (Pty) Ltd trading as Digirent
 
-![valued client PROGRAPHIX PTY LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8509&file=logo_300_100&type=&fe=0cf6bbad6ca399e826ac96bff9d30951802539a82a30e172a53db8560c35cba1&c=38262263)  
-PROGRAPHIX PTY LTD
+![valued client Oak Tree Immigration](https://www.invoicesonline.co.za/scripts/image.php?bid=6695&file=logo_300_100&type=&fe=c76075b16b0b3890fed7f6267e67fd62ed7c8acf4a5f11332ab2ffcfa9218c99&c=60433905)  
+Oak Tree Immigration
 
-![valued client Cooper Logistics (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=1974&file=logo_300_100&type=&fe=0cf6bbad6ca399e826ac96bff9d30951802539a82a30e172a53db8560c35cba1&c=22617146)  
+![valued client Dombieterfontein (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2351&file=logo_300_100&type=&fe=c76075b16b0b3890fed7f6267e67fd62ed7c8acf4a5f11332ab2ffcfa9218c99&c=64749431)  
+Dombieterfontein (PTY) LTD
+
+![valued client High Point Marketing CC t/a Leads For Africa](https://www.invoicesonline.co.za/scripts/image.php?bid=6845&file=logo_300_100&type=&fe=c76075b16b0b3890fed7f6267e67fd62ed7c8acf4a5f11332ab2ffcfa9218c99&c=114138237)  
+High Point Marketing CC t/a Leads For Africa
+
+![valued client CBR Verwe/Paints](https://www.invoicesonline.co.za/scripts/image.php?bid=6574&file=logo_300_100&type=&fe=c76075b16b0b3890fed7f6267e67fd62ed7c8acf4a5f11332ab2ffcfa9218c99&c=175725044)  
+CBR Verwe/Paints
+
+![valued client Kainos  (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6111&file=logo_300_100&type=&fe=c76075b16b0b3890fed7f6267e67fd62ed7c8acf4a5f11332ab2ffcfa9218c99&c=147866340)  
+Kainos (Pty) Ltd
+
+![valued client De light Investments(Pty)Ltd trading as Serene Memorials](https://www.invoicesonline.co.za/scripts/image.php?bid=6723&file=logo_300_100&type=&fe=c76075b16b0b3890fed7f6267e67fd62ed7c8acf4a5f11332ab2ffcfa9218c99&c=58438151)  
+De light Investments(Pty)Ltd trading as Serene Memorials
+
+![valued client Cooper Logistics (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=1974&file=logo_300_100&type=&fe=c76075b16b0b3890fed7f6267e67fd62ed7c8acf4a5f11332ab2ffcfa9218c99&c=200063996)  
 Cooper Logistics (Pty) Ltd
 
-![valued client Leef in Afrikaans](https://www.invoicesonline.co.za/scripts/image.php?bid=7426&file=logo_300_100&type=&fe=0cf6bbad6ca399e826ac96bff9d30951802539a82a30e172a53db8560c35cba1&c=173860292)  
-Leef in Afrikaans
+![valued client SLOANE STAR MEAT MARKET](https://www.invoicesonline.co.za/scripts/image.php?bid=1748&file=logo_300_100&type=&fe=c76075b16b0b3890fed7f6267e67fd62ed7c8acf4a5f11332ab2ffcfa9218c99&c=181108030)  
+SLOANE STAR MEAT MARKET
 
-![valued client Lion Software Develepment](https://www.invoicesonline.co.za/scripts/image.php?bid=7097&file=logo_300_100&type=&fe=0cf6bbad6ca399e826ac96bff9d30951802539a82a30e172a53db8560c35cba1&c=55289905)  
-Lion Software Develepment
+![valued client Oukraal Merino's](https://www.invoicesonline.co.za/scripts/image.php?bid=3971&file=logo_300_100&type=&fe=c76075b16b0b3890fed7f6267e67fd62ed7c8acf4a5f11332ab2ffcfa9218c99&c=62108676)  
+Oukraal Merino's
 
-![valued client Secunda Signs T/A Local Print and Signs](https://www.invoicesonline.co.za/scripts/image.php?bid=8292&file=logo_300_100&type=&fe=0cf6bbad6ca399e826ac96bff9d30951802539a82a30e172a53db8560c35cba1&c=68567668)  
-Secunda Signs T/A Local Print and Signs
-
-![valued client Entidee Enterprise PTY (ltd)](https://www.invoicesonline.co.za/scripts/image.php?bid=4344&file=logo_300_100&type=&fe=0cf6bbad6ca399e826ac96bff9d30951802539a82a30e172a53db8560c35cba1&c=143901183)  
-Entidee Enterprise PTY (ltd)
+![valued client NJR ICT Services (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6292&file=logo_300_100&type=&fe=c76075b16b0b3890fed7f6267e67fd62ed7c8acf4a5f11332ab2ffcfa9218c99&c=145075023)  
+NJR ICT Services (Pty) Ltd
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
