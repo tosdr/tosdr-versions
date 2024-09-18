@@ -159,7 +159,7 @@ Legal
     * [Europcar Discount Terms and Conditions](https://www.linkt.com.au/legal/rewards/europcar/brisbane.html)
     * [Star Car Wash Discount Terms and Conditions](https://www.linkt.com.au/legal/rewards/starcarwash/brisbane.html)
     * [Fuel Offer Discount Terms and Conditions](https://www.linkt.com.au/legal/rewards/fuel-offer/brisbane.html)
-    * [Customer Rewards Terms and Conditions](https://www.linkt.com.au/legal/rewards/customer-rewards/brisbane.html)
+    * [Linkt Rewards Terms and Conditions](https://www.linkt.com.au/legal/rewards/customer-rewards/brisbane.html)
     * [mycar Terms and Conditions](https://www.linkt.com.au/legal/rewards/mycar/brisbane.html)
     * [Fuel Up Your Savings Terms and Conditions](https://www.linkt.com.au/legal/rewards/fuel-up-your-savings/brisbane.html)
     * [Charge up your savings Terms and Conditions](https://www.linkt.com.au/legal/rewards/charge-up-your-savings/brisbane.html)
