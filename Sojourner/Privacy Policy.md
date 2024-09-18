@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-415dcce17aeb738d991db937da84fbb0
+c5f824027402aaeaae358775ae93977c
 
 [](# "Expand for more options")[](# "Search")
 
@@ -171,11 +171,11 @@ Sojourner may revise this policy as needed by updating this posting.
 
 ### Featured Product
 
-[![Black and amber chevrons](https://www.sojourner.biz/images/cache/glass/VB0041.200.jpg)](https://www.sojourner.biz/beads/glass/black-and-amber-chevrons.html "Black and amber chevrons")
+[![10 mm by 6 mm top-drilled dark orange vintage glass leaves](https://www.sojourner.biz/images/cache/glass/GL0209.200.jpg)](https://www.sojourner.biz/beads/glass/10-mm-by-6-mm-top-drilled-dark-orange-vintage-glass-leaves.html "10 mm by 6 mm top-drilled dark orange vintage glass leaves")
 
-#### [Black and amber chevrons](https://www.sojourner.biz/beads/glass/black-and-amber-chevrons.html "Black and amber chevrons")
+#### [10 mm by 6 mm top-drilled dark orange vintage glass leaves](https://www.sojourner.biz/beads/glass/10-mm-by-6-mm-top-drilled-dark-orange-vintage-glass-leaves.html "10 mm by 6 mm top-drilled dark orange vintage glass leaves")
 
-$7.50
+$4.00
 
 ### Best Sellers
 
