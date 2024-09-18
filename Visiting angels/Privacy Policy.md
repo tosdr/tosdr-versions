@@ -260,15 +260,15 @@ Or write to us at: 937 Haverford Road Suite 200, Bryn Mawr PA 19010
 
  related  categories
 
-[What is Long-Distance Caregiving from Visiting Angels?](https://www.visitingangels.com/knowledge-center/selecting-care/what-is-long-distance-caregiving-from-visiting-angels/324)
+[What You Should Do Now When Your Elderly Parent Starts Getting Lost](https://www.visitingangels.com/knowledge-center/selecting-care/what-you-should-do-now-when-your-elderly-parent-starts-getting-lost/317)
 
-[Wake Up Call: What I Saw at My Friend's Mom's Funeral](https://www.visitingangels.com/knowledge-center/preparing-loved-ones/wake-up-call-what-i-saw-at-my-friends-moms-funeral/350)
+[3 Reasons Why Elderly Socialization is Critical](https://www.visitingangels.com/knowledge-center/senior-health-and-well-being/3-reasons-why-elderly-socialization-is-critical/3)
 
-[Uprooting an Aging Loved One: What to Know](https://www.visitingangels.com/knowledge-center/selecting-care/uprooting-an-aging-loved-one-what-to-know/337)
+[Professional Home Care Can Help Older Adults Manage a Heart Condition](https://www.visitingangels.com/knowledge-center/senior-health-and-well-being/professional-home-care-can-help-older-adults-manage-a-heart-condition/479)
 
-[How a Professional Caregiver Can Help Manage Your Senior's Medications](https://www.visitingangels.com/knowledge-center/senior-health-and-well-being/how-a-professional-caregiver-can-help-manage-your-seniors-medications/346)
+[“What Is Alzheimer’s?”: 3 Ways of Understanding Alzheimer’s Disease](https://www.visitingangels.com/knowledge-center/family-caregiver-support/what-is-alzheimers-3-ways-of-understanding-alzheimers-disease/347)
 
-[If You Don’t Know What Palliative Care Is, You Should](https://www.visitingangels.com/knowledge-center/care-options/if-you-dont-know-what-palliative-care-is-you-should/335)
+[Coordinating Family and Professional Care](https://www.visitingangels.com/knowledge-center/care-options/coordinating-family-and-professional-care/115)
 
 * [Care Options](https://www.visitingangels.com/knowledge-center/care-options)
 * [Selecting Care](https://www.visitingangels.com/knowledge-center/selecting-care)
