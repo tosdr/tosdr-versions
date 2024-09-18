@@ -10,7 +10,7 @@
 
 [![University of the People Logo](https://www.uopeople.edu/wp-content/uploads/2022/05/logo-uop.webp "logo-uop")](https://www.uopeople.edu/)
 
-[Apply Now](https://go.uopeople.edu/admission-application.html)
+* [Apply Now](https://go.uopeople.edu/admission-application.html)
 
 * [Academic Programs](https://www.uopeople.edu/programs/)
     
