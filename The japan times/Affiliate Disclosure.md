@@ -20,7 +20,7 @@ link policy
 
  ![Search](/theme_japantimes/images/search_icon.svg)
 
-[September 18, 2024](https://www.japantimes.co.jp/archive/2024/09/18/ "archive page")
+[September 19, 2024](https://www.japantimes.co.jp/archive/2024/09/19/ "archive page")
 
  [![The Japan Times](/theme_japantimes/images/logo-white-2.png)](https://www.japantimes.co.jp/ "The Japan Times")
 
@@ -252,25 +252,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
+[Mitsubishi to provide H3 rockets for France's Eutelsat from 2027](https://www.japantimes.co.jp/business/2024/09/18/mitsubishi-eutelsat-h3/ "Mitsubishi to provide H3 rockets for France's Eutelsat from 2027")
+
+2 hours ago
+
+[Taiwanese and Hungarian firms deny making Hezbollah pagers](https://www.japantimes.co.jp/news/2024/09/18/world/hezbollah-pagers-taiwan-hungary/ "Taiwanese and Hungarian firms deny making Hezbollah pagers")
+
+3 hours ago
+
+[Overseas visitors hit record high for August at 2.9 million](https://www.japantimes.co.jp/news/2024/09/18/japan/august-visitor-numbers/ "Overseas visitors hit record high for August at 2.9 million")
+
+4 hours ago
+
 [Puberulic acid confirmed as source of _beni kōji_ health issues](https://www.japantimes.co.jp/news/2024/09/18/japan/science-health/beni-koji-puberulic-acid-to-blame/ "Puberulic acid confirmed as source of beni kōji health issues")
 
-1 hours ago
+7 hours ago
 
 [Ishii to head Komeito in first leadership change in 15 years](https://www.japantimes.co.jp/news/2024/09/18/japan/politics/komeito-new-head/ "Ishii to head Komeito in first leadership change in 15 years")
 
-1 hours ago
-
-[LDP leader candidates split on separate surnames for married couples](https://www.japantimes.co.jp/news/2024/09/18/japan/politics/ldp-separate-surnames/ "LDP leader candidates split on separate surnames for married couples")
-
-1 hours ago
-
-[How Asia is bracing for Fed’s imminent shift to rate cuts](https://www.japantimes.co.jp/business/2024/09/18/economy/asia-fed-shift-rate-cuts/ "How Asia is bracing for Fed’s imminent shift to rate cuts")
-
-1 hours ago
-
-[Chinese carrier sails between Japanese islands near Taiwan for first time](https://www.japantimes.co.jp/news/2024/09/18/japan/china-aircraft-carrier-japan-yonaguni/ "Chinese carrier sails between Japanese islands near Taiwan for first time")
-
-1 hours ago
+7 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
