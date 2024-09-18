@@ -1,7 +1,7 @@
 * [Home](https://www.foodpanda.com/)
 * [About](https://www.foodpanda.com/about-foodpanda/)
 * [Newsroom](https://www.foodpanda.com/newsroom)
-* [panda ads](https://www.foodpanda.com/panda-ads/)
+* [panda ads](https://pandaads.foodpanda.com/)
 * [Contact](https://www.foodpanda.com/contact/)
 * [Careers](https://careers.foodpanda.com/)
 * [Choose location](#)
