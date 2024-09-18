@@ -354,7 +354,7 @@ Back
 
 [Try now](https://www.loom.com/try)
 
- [![Atlassian logo](/assets/img/icons/imkt/imkt-navbar__charlie-logo.svg?cdnVersion=2247)](https://www.atlassian.com/ "Visit the Atlassian homepage")[Legal](https://www.loom.com/legal)
+ [![Atlassian logo](/assets/img/icons/imkt/imkt-navbar__charlie-logo.svg?cdnVersion=2252)](https://www.atlassian.com/ "Visit the Atlassian homepage")[Legal](https://www.loom.com/legal)
 
 * [Legal information](https://www.loom.com/legal)
 * [Privacy Policy](https://www.loom.com/legal/privacy-policy)
@@ -532,7 +532,7 @@ How long we keep information
 
 How long we keep information we collect about you depends on the type of information, as described in further detail below.  After such time, we will either delete or de-identify your information or, if this is not possible (for example, because the information has been stored in backup archives), then we will securely store your information and isolate it from any further use until deletion is possible.  
 
-_**Account information**_: We retain your account information for as long as your account is active and a reasonable period thereafter in case you decide to re-activate the Services.  aWe also retain some of your information as necessary to comply with our legal obligations, to resolve disputes, to enforce our agreements, to support business operations, and to continue to develop and improve our Services. Where we retain information for Service improvement and development, we take steps to eliminate information that directly identifies you, and we only use the information to uncover collective insights about the use of our Services, not to specifically analyze personal characteristics about you.  
+_**Account information**_: We retain your account information for as long as your account is active and a reasonable period thereafter in case you decide to re-activate the Services.  We also retain some of your information as necessary to comply with our legal obligations, to resolve disputes, to enforce our agreements, to support business operations, and to continue to develop and improve our Services. Where we retain information for Service improvement and development, we take steps to eliminate information that directly identifies you, and we only use the information to uncover collective insights about the use of our Services, not to specifically analyze personal characteristics about you.  
 
 _**Information you share on the Services**_: If your account is deactivated or disabled, some of your information and the content you have provided will remain in order to allow your team members or other users to make full use of the Services.  For example, we continue to display messages you sent to the users that received them and continue to display content you provided, but when requested details that can identify you will be removed. 
 
@@ -764,7 +764,7 @@ Subscribe to receive notifications from us about updates to our legal terms (inc
 
 [Sign up for updates](https://privacy.atlassian.net/servicedesk/customer/portal/1/group/1/create/39)
 
-![](https://wac-cdn.atlassian.com/dam/jcr:9c4bf443-5045-4ff9-a48d-36ae466f3ced/logos-atlassian-mini-icon-onecolor-blue.svg?cdnVersion=2247)
+![](https://wac-cdn.atlassian.com/dam/jcr:9c4bf443-5045-4ff9-a48d-36ae466f3ced/logos-atlassian-mini-icon-onecolor-blue.svg?cdnVersion=2252)
 
 [Company](https://www.loom.com/company)
 
