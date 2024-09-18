@@ -96,9 +96,9 @@ Choose Your Destination: Algeria Antigua & Barbuda Argentina Australia Austria B
 * [Real Estate Listings](https://www.expatexchange.com/realestate "Real Estate International")
 * [More Resources](https://www.expatexchange.com/expatresources "More Resources")
 
-[![William Russell](https://www.expatexchange.com/banner/william-russell-728.jpg)](https://refer.william-russell.com/l/ExpatExchang?utm_source=c97b6b9f-d9df-eb11-bacb-000d3abeeeb5&utm_medium=affiliate&utm_term=introducer-expat-exchange&utm_campaign=5e6a0875-d9df-eb11-bacb-000d3abeeeb5&utm_content=47002-DESKTOP-leader-leaderad-vrs-A-Global-leader)
+[![Cigna Global Health](https://www.expatexchange.com/banner/Cigna_Global_Seniors_728_90.jpg)](https://cignaglobal.7eer.net/em76Z?sharedid=46624-DESKTOP-leader-leaderad-vrs-A-Global-leader)
 
-[![William Russell](https://www.expatexchange.com/banner/william-russell-300.jpg)](https://refer.william-russell.com/l/ExpatExchang?utm_source=c97b6b9f-d9df-eb11-bacb-000d3abeeeb5&utm_medium=affiliate&utm_term=introducer-expat-exchange&utm_campaign=5e6a0875-d9df-eb11-bacb-000d3abeeeb5&utm_content=47002-MOBILE-leader-leaderad-vrs-A-Global-leader)
+[![Cigna Global Health](https://www.expatexchange.com/banner/Cigna_Global_Intl_Life_300_250.png)](https://cignaglobal.7eer.net/em76Z?sharedid=46624-MOBILE-leader-leaderad-vrs-A-Global-leader)
 
 Privacy Policy
 ==============
@@ -439,17 +439,17 @@ Based on the applicable laws of your country, you may have the right to request 
 
 This privacy policy was created using Termly's [Privacy Policy Generator](https://termly.io/products/privacy-policy-generator/).
 
-[![SJB Global](https://www.expatexchange.com/images/expat_finance_sjb_couple.jpg)](https://www.expatexchange.com/partnerdirect/182/87039-DESKTOP-cbar-vrs-A-hicontent-Global-62)
+[![Cigna Global Health](https://www.expatexchange.com/images/cigna_surfer_fb.jpg)](https://cignaglobal.7eer.net/em76Z?sharedid=64655-DESKTOP-cbar-vrs-A-hicontent-Global-62)
 
-[SJB Global](https://www.expatexchange.com/partnerdirect/182/87039-DESKTOP-cbar-vrs-A-hicontent-Global-62)
+[Cigna Global Health](https://cignaglobal.7eer.net/em76Z?sharedid=64655-DESKTOP-cbar-vrs-A-hicontent-Global-62)
 
-SJB Global is a top-rated financial advisory firm specializing in expat financial advice worldwide, offering retirement planning & tax-efficient solutions with a regressive fee model.  
-[Learn More](https://www.expatexchange.com/partnerdirect/182/87039-DESKTOP-cbar-vrs-A-hicontent-Global-62 "Learn More")
+Get a quote in 2 minutes from our partner, Cigna Global Health.  
+[Get Quote](https://cignaglobal.7eer.net/em76Z?sharedid=64655-DESKTOP-cbar-vrs-A-hicontent-Global-62 "Get Quote")
 
-[![SJB Global](https://www.expatexchange.com/images/expat_finance_sjb_couple.jpg)](https://www.expatexchange.com/partnerdirect/182/87039-MOBILE-cbar-vrs-A-hicontent-Global-62)[SJB Global](https://www.expatexchange.com/partnerdirect/182/87039-MOBILE-cbar-vrs-A-hicontent-Global-62)
+[![Cigna Global Health](https://www.expatexchange.com/images/cigna_surfer_fb.jpg)](https://cignaglobal.7eer.net/em76Z?sharedid=64655-MOBILE-cbar-vrs-A-hicontent-Global-62)[Cigna Global Health](https://cignaglobal.7eer.net/em76Z?sharedid=64655-MOBILE-cbar-vrs-A-hicontent-Global-62)
 
-SJB Global is a top-rated financial advisory firm specializing in expat financial advice worldwide, offering retirement planning & tax-efficient solutions with a regressive fee model.  
-[Learn More](https://www.expatexchange.com/partnerdirect/182/87039-MOBILE-cbar-vrs-A-hicontent-Global-62 "Learn More")
+Get a quote in 2 minutes from our partner, Cigna Global Health.  
+[Get Quote](https://cignaglobal.7eer.net/em76Z?sharedid=64655-MOBILE-cbar-vrs-A-hicontent-Global-62 "Get Quote")
 
 How do I use Expat Exchange?  
 You'll gain access to the best information and features when you [join our site](https://www.expatexchange.com/jointhecommunity "Join Expat Exchange") (it's free). Then, choose your destination and you'll find many of these features for your country:  
