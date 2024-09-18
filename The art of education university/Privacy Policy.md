@@ -673,6 +673,10 @@ Search
     Earn 15 PD hours during this multi-day virtual event.
     
 * [Magazine & Media](https://theartofeducation.edu/magazine/)
+    * [Articles](https://theartofeducation.edu/magazine/)
+    * [Podcasts](https://theartofeducation.edu/podcasts/)
+    * [Videos](https://theartofeducation.edu/videos/)
+    * [Community](https://community.theartofeducation.edu/)
 * About
     * [Overview](https://theartofeducation.edu/about/)
     * [Work with Us](https://theartofeducation.edu/work-with-aoe/)
@@ -680,7 +684,9 @@ Search
     * [News](https://theartofeducation.edu/about/#news)
     * [Center for the Advancement of Art Education](https://theartofeducation.edu/center-for-the-advancement-of-art-education/)
 * [Store](http://artofed.info/store)
-* [Help Center](https://help.theartofeducation.edu/)
+* Support
+    * [Help Center](https://help.theartofeducation.edu/)
+    * [Community](https://community.theartofeducation.edu/)
 
 [Login](https://app.theartofeducation.edu/)
 
@@ -831,6 +837,7 @@ Main: [515.650.3198](tel:515-650-3198)
 
 #### Social
 
+* [![](https://theartofeducation.edu/wp-content/themes/aoeu/dist/images/aoeu-palette-social-icon.svg)Community](https://community.theartofeducation.edu/)
 * [Facebook](https://www.facebook.com/theartofed/)
 * [Twitter](https://twitter.com/theartofed)
 * [Instagram](https://instagram.com/theartofed)
