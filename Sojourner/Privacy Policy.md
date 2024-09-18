@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-c5f824027402aaeaae358775ae93977c
+ab306fd266905673bf27b9b8f0a3ef8b
 
 [](# "Expand for more options")[](# "Search")
 
@@ -171,11 +171,11 @@ Sojourner may revise this policy as needed by updating this posting.
 
 ### Featured Product
 
-[![10 mm by 6 mm top-drilled dark orange vintage glass leaves](https://www.sojourner.biz/images/cache/glass/GL0209.200.jpg)](https://www.sojourner.biz/beads/glass/10-mm-by-6-mm-top-drilled-dark-orange-vintage-glass-leaves.html "10 mm by 6 mm top-drilled dark orange vintage glass leaves")
+[![6 mm white potato pearls](https://www.sojourner.biz/images/cache/pearls/PE0044.200.jpg)](https://www.sojourner.biz/beads/pearls/6-mm-white-potato-pearls.html "6 mm white potato pearls")
 
-#### [10 mm by 6 mm top-drilled dark orange vintage glass leaves](https://www.sojourner.biz/beads/glass/10-mm-by-6-mm-top-drilled-dark-orange-vintage-glass-leaves.html "10 mm by 6 mm top-drilled dark orange vintage glass leaves")
+#### [6 mm white potato pearls](https://www.sojourner.biz/beads/pearls/6-mm-white-potato-pearls.html "6 mm white potato pearls")
 
-$4.00
+$40.00
 
 ### Best Sellers
 
@@ -195,10 +195,10 @@ $4.00
     $15.00
 8. [Red bar clasp](https://www.sojourner.biz/clasps/glass/red-bar-clasp.html "Red bar clasp")  
     $23.00
-9. [Citrine clasp](https://www.sojourner.biz/clasps/faux-stone/citrine-clasp.html "Citrine clasp")  
-    $26.00
-10. [Mother-of-pearl box clasp](https://www.sojourner.biz/clasps/pearl/mother-of-pearl-box-clasp.html "Mother-of-pearl box clasp")  
+9. [Mother-of-pearl box clasp](https://www.sojourner.biz/clasps/pearl/mother-of-pearl-box-clasp.html "Mother-of-pearl box clasp")  
     $17.00
+10. [Citrine clasp](https://www.sojourner.biz/clasps/faux-stone/citrine-clasp.html "Citrine clasp")  
+    $26.00
 
 [Top](#)
 
