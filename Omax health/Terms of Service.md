@@ -1,6 +1,8 @@
-![](https://www.facebook.com/tr?id=811491626833587&ev=PageView&noscript=1)         
+![](https://www.facebook.com/tr?id=811491626833587&ev=PageView&noscript=1)   
 
-Terms & Conditions – Omax Health - Omax Health                                  
+    
+
+Terms & Conditions – Omax Health - Omax Health                                        
 
 FREE U.S. SHIPPING ON ALL ORDERS
 
@@ -301,13 +303,13 @@ Go to product page
 
 ### Let customers speak for us
 
-[3383 reviews](https://omaxhealth.com/pages/reviews)
+[3384 reviews](https://omaxhealth.com/pages/reviews)
 
 [Write a review](#)
 
 91%
 
-(3064)
+(3065)
 
 5%
 
@@ -325,7 +327,21 @@ Go to product page
 
 (53)
 
-2182
+2183
+
+M
+
+[CryoFreeze® Hemp CBD Roll-On | Regular](https://omaxhealth.com/products/omax-cryofreeze-cbd-roll-on#judgeme_product_reviews)
+
+Mike P.
+
+**Cbd roll on**
+
+My wife and I have been using the Omax cbd roll on for about six months.  
+She uses them for her knees and I use it for my shoulder.  
+We absolutely love this product as it gives us pain relief.  
+We have purchased this product 3-4 times and we will continue to use it in the.  
+Thank you Omar!
 
 V
 
@@ -344,17 +360,5 @@ Kim P.
 **Amazing results!**
 
 I love this product! It is so easy to use and begins working immediately! It brings great relief to my muscles and provides total comfort!
-
-R
-
-[CryoFreeze® Hemp CBD Roll-On | Regular](https://omaxhealth.com/products/omax-cryofreeze-cbd-roll-on#judgeme_product_reviews)
-
-Ray A.
-
-**Pain Canceled**
-
-Learned about Omax Health from The Dan Bongino Show and thought it’s worth a try. Having had back and neck fusion surgery, both shoulders replaced along with a hip replacement MANY TOPICAL PAIN RELIEVERS have been tried with no appreciable pain relief. UNTIL OMAC ROLLON MIRACLE IN A TUBE!! This product has proved since day one to be an almost instant pain relief! THRILLED TO HAVE FOUND YOU!!!
-
-[](https://judgeme.imgix.net/omax-health/1725741320__image__original.jpg?auto=format)
 
 Load More
