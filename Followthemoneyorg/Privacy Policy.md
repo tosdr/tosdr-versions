@@ -66,9 +66,9 @@ Any e-mail addresses are not used or collected for any purpose other than notify
 
 ### Look at this!
 
-[![reynolds 2011-12](/assets/logos/ReynoldsAmericanByRecipient2011-12.png)](http://www.followthemoney.org/research/institute-research/big-tobacco-wins-tax-battles)
+[![2013 Elections Overview](/assets/Images/teasers/small/LegCandbyStatus.png)](http://www.followthemoney.org/research/institute-reports/2013-elections-overview/)
 
-Look at this tobacco giant’s giving.
+Successful incumbent candidates dominated 2013 fundraising.
 
   [See More Visualizations](https://www.followthemoney.org/look-at-this)
 
