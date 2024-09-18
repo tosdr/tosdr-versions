@@ -137,7 +137,7 @@ Suchen
             * [Girokonten](https://www.test.de/Girokonto-im-Test-5069390-0/)
             * [Wertpapierdepots](https://www.test.de/Depotkosten-im-Vergleich-4864312-0/)
             * [Kreditkarten](https://www.test.de/Kreditkarten-im-Vergleich-5238561-0/)
-            * [Nachhaltige Fonds](https://www.test.de/Ethisch-oekologische-Fonds-So-legen-Sie-sauber-an-4741500-0/)
+            * [Nachhaltige Fonds](https://www.test.de/nachhaltige-fonds-etf-test-4741500-0/)
             
             Geldanlage & Privatfinanzen
             
@@ -588,21 +588,21 @@ Weitere spannende Themen
 
 Neueste Tests
 
+* [Fonds und ETF im Vergleich: Hier finden Sie die besten Fonds für Ihr Portfolio](https://www.test.de/Fonds-im-Test-Fuenf-Punkte-fuer-die-Besten-4331006-0/ "Fonds und ETF im Vergleich - Hier finden Sie die besten Fonds für Ihr Portfolio")
+* [Nach­haltige Fonds und ETF: Warum wir grüne Fonds jetzt strenger testen](https://www.test.de/nachhaltige-fonds-etf-test-4741500-0/ "Nachhaltige Fonds und ETF - Warum wir grüne Fonds jetzt strenger testen")
 * [Tiefkühlpizza im Test: Italien für zu Hause](https://www.test.de/tiefkuehlpizza-salami-im-test-4830454-0/ "Tiefkühlpizza im Test - Italien für zu Hause")
 * [Körperfett­waagen im Test: Einige leisten sich fette Mess­fehler](https://www.test.de/koerperfettwaage-test-4645874-0/ "Körperfettwaagen im Test - Einige leisten sich fette Messfehler")
 * [Fernseher im Test: Gutes Bild und guter Ton – geht günstig](https://www.test.de/Fernseher-im-Test-1629201-0/ "Fernseher im Test - Gutes Bild und guter Ton – geht günstig")
 * [Kreditkarten im Vergleich: Mit dieser Kreditkarte liegen Sie richtig](https://www.test.de/Kreditkarten-im-Vergleich-5238561-0/ "Kreditkarten im Vergleich - Mit dieser Kreditkarte liegen Sie richtig")
-* [Bluetooth-Kopf­hörer im Test: Kopf­hörer mit gutem Sound und Akku](https://www.test.de/Bluetooth-Kopfhoerer-Test-4378783-0/ "Bluetooth-Kopfhörer im Test - Kopfhörer mit gutem Sound und Akku")
-* [ETF-Sparplan-Vergleich: So einfach und günstig geht ETF-Sparen](https://www.test.de/ETF-Sparplan-Vergleich-5015866-0/ "ETF-Sparplan-Vergleich - So einfach und günstig geht ETF-Sparen")
 
 test.de entdecken
 
-* [Geld­anlage mit ETF: Viel zu wissen hilft nicht unbe­dingt viel](https://www.test.de/Geldanlage-mit-ETF-Viel-zu-wissen-hilft-nicht-unbedingt-viel-6083347-0/ "Geldanlage mit ETF - Viel zu wissen hilft nicht unbedingt viel")
-* [Kreuz­linienlaser im Test: Moderne Alternative zur Wasser­waage](https://www.test.de/Kreuzlinienlaser-im-Test-Moderne-Alternative-zur-Wasserwaage-5936879-0/ "Kreuzlinienlaser im Test - Moderne Alternative zur Wasserwaage")
-* [Green-Vest: TV-Beitrag mit Finanz­minister gefälscht](https://www.test.de/Green-Vest-TV-Beitrag-mit-Finanzminister-gefaelscht-6119456-0/ "Green-Vest - TV-Beitrag mit Finanzminister gefälscht")
-* [Steiner+Company: Neue Führung, alte Probleme](https://www.test.de/SteinerCompany-Neue-Fuehrung-alte-Probleme-5926551-0/ "Steiner+Company - Neue Führung, alte Probleme")
-* [Bitcoin Apex: Bericht über Peter Maffay gefälscht](https://www.test.de/Bitcoin-Apex-Bericht-ueber-Peter-Maffay-gefaelscht-6111514-0/ "Bitcoin Apex - Bericht über Peter Maffay gefälscht")
-* [Kranken­versicherung für Studierende: Zum Uni-Start richtig kranken­versichert](https://www.test.de/Krankenversicherung-fuer-Studierende-6057464-0/ "Krankenversicherung für Studierende - Zum Uni-Start richtig krankenversichert")
+* [Jugend testet 2024: Ausgezeichnete Talente](https://www.test.de/Jugend-testet-2024-Ausgezeichnete-Talente-6125303-0/ "Jugend testet 2024 - Ausgezeichnete Talente")
+* [Pizza­öfen im Test: Zu Hause italienisch genießen](https://www.test.de/Pizzaoefen-im-Test-Zu-Hause-italienisch-geniessen-6024589-0/ "Pizzaöfen im Test - Zu Hause italienisch genießen")
+* [Pizza­öfen im Test: Zu Hause italienisch genießen](https://www.test.de/Pizzaoefen-im-Test-Zu-Hause-italienisch-geniessen-6024589-0/ "Pizzaöfen im Test - Zu Hause italienisch genießen")
+* [Jugend testet 2023: Drei Mal Gold für den Test-Nach­wuchs](https://www.test.de/Jugend-testet-2023-Drei-Mal-Gold-fuer-den-Test-Nachwuchs-6008280-0/ "Jugend testet 2023 - Drei Mal Gold für den Test-Nachwuchs")
+* [Verpackungs­ärger: Invisible Serum super UV, Garnier Ambre Solaire](https://www.test.de/Verpackungsaerger-Invisible-Serum-super-UV-Garnier-Ambre-Solaire-6038426-0/ "Verpackungsärger - Invisible Serum super UV, Garnier Ambre Solaire")
+* [Gut essen mit der Stiftung Warentest: Tom-Kha-Gai-Frikassee](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Tom-Kha-Gai-Frikassee-6070656-0/ "Gut essen mit der Stiftung Warentest - Tom-Kha-Gai-Frikassee")
 
 Fußbereich
 
@@ -831,7 +831,7 @@ Suchen
             * [Girokonten](https://www.test.de/Girokonto-im-Test-5069390-0/)
             * [Wertpapierdepots](https://www.test.de/Depotkosten-im-Vergleich-4864312-0/)
             * [Kreditkarten](https://www.test.de/Kreditkarten-im-Vergleich-5238561-0/)
-            * [Nachhaltige Fonds](https://www.test.de/Ethisch-oekologische-Fonds-So-legen-Sie-sauber-an-4741500-0/)
+            * [Nachhaltige Fonds](https://www.test.de/nachhaltige-fonds-etf-test-4741500-0/)
             
             Geldanlage & Privatfinanzen
             
@@ -1184,7 +1184,7 @@ Suchen
             * [Girokonten](https://www.test.de/Girokonto-im-Test-5069390-0/)
             * [Wertpapierdepots](https://www.test.de/Depotkosten-im-Vergleich-4864312-0/)
             * [Kreditkarten](https://www.test.de/Kreditkarten-im-Vergleich-5238561-0/)
-            * [Nachhaltige Fonds](https://www.test.de/Ethisch-oekologische-Fonds-So-legen-Sie-sauber-an-4741500-0/)
+            * [Nachhaltige Fonds](https://www.test.de/nachhaltige-fonds-etf-test-4741500-0/)
             
             Geldanlage & Privatfinanzen
             
@@ -1520,7 +1520,7 @@ Suchen
             * [Girokonten](https://www.test.de/Girokonto-im-Test-5069390-0/)
             * [Wertpapierdepots](https://www.test.de/Depotkosten-im-Vergleich-4864312-0/)
             * [Kreditkarten](https://www.test.de/Kreditkarten-im-Vergleich-5238561-0/)
-            * [Nachhaltige Fonds](https://www.test.de/Ethisch-oekologische-Fonds-So-legen-Sie-sauber-an-4741500-0/)
+            * [Nachhaltige Fonds](https://www.test.de/nachhaltige-fonds-etf-test-4741500-0/)
             
             Geldanlage & Privatfinanzen
             
@@ -1831,7 +1831,7 @@ Meistgelesene Tests & Themen
 * [Girokonten](https://www.test.de/Girokonto-im-Test-5069390-0/)
 * [Wertpapierdepots](https://www.test.de/Depotkosten-im-Vergleich-4864312-0/)
 * [Kreditkarten](https://www.test.de/Kreditkarten-im-Vergleich-5238561-0/)
-* [Nachhaltige Fonds](https://www.test.de/Ethisch-oekologische-Fonds-So-legen-Sie-sauber-an-4741500-0/)
+* [Nachhaltige Fonds](https://www.test.de/nachhaltige-fonds-etf-test-4741500-0/)
 
 Meistgelesene Tests & Themen
 
@@ -1840,7 +1840,7 @@ Meistgelesene Tests & Themen
 * [Girokonten](https://www.test.de/Girokonto-im-Test-5069390-0/)
 * [Wertpapierdepots](https://www.test.de/Depotkosten-im-Vergleich-4864312-0/)
 * [Kreditkarten](https://www.test.de/Kreditkarten-im-Vergleich-5238561-0/)
-* [Nachhaltige Fonds](https://www.test.de/Ethisch-oekologische-Fonds-So-legen-Sie-sauber-an-4741500-0/)
+* [Nachhaltige Fonds](https://www.test.de/nachhaltige-fonds-etf-test-4741500-0/)
 
 Meistgelesene Tests & Themen
 
@@ -2728,21 +2728,21 @@ Weitere spannende Themen
 
 Neueste Tests
 
+* [Fonds und ETF im Vergleich: Hier finden Sie die besten Fonds für Ihr Portfolio](https://www.test.de/Fonds-im-Test-Fuenf-Punkte-fuer-die-Besten-4331006-0/ "Fonds und ETF im Vergleich - Hier finden Sie die besten Fonds für Ihr Portfolio")
+* [Nach­haltige Fonds und ETF: Warum wir grüne Fonds jetzt strenger testen](https://www.test.de/nachhaltige-fonds-etf-test-4741500-0/ "Nachhaltige Fonds und ETF - Warum wir grüne Fonds jetzt strenger testen")
 * [Tiefkühlpizza im Test: Italien für zu Hause](https://www.test.de/tiefkuehlpizza-salami-im-test-4830454-0/ "Tiefkühlpizza im Test - Italien für zu Hause")
 * [Körperfett­waagen im Test: Einige leisten sich fette Mess­fehler](https://www.test.de/koerperfettwaage-test-4645874-0/ "Körperfettwaagen im Test - Einige leisten sich fette Messfehler")
 * [Fernseher im Test: Gutes Bild und guter Ton – geht günstig](https://www.test.de/Fernseher-im-Test-1629201-0/ "Fernseher im Test - Gutes Bild und guter Ton – geht günstig")
 * [Kreditkarten im Vergleich: Mit dieser Kreditkarte liegen Sie richtig](https://www.test.de/Kreditkarten-im-Vergleich-5238561-0/ "Kreditkarten im Vergleich - Mit dieser Kreditkarte liegen Sie richtig")
-* [Bluetooth-Kopf­hörer im Test: Kopf­hörer mit gutem Sound und Akku](https://www.test.de/Bluetooth-Kopfhoerer-Test-4378783-0/ "Bluetooth-Kopfhörer im Test - Kopfhörer mit gutem Sound und Akku")
-* [ETF-Sparplan-Vergleich: So einfach und günstig geht ETF-Sparen](https://www.test.de/ETF-Sparplan-Vergleich-5015866-0/ "ETF-Sparplan-Vergleich - So einfach und günstig geht ETF-Sparen")
 
 test.de entdecken
 
-* [Geld­anlage mit ETF: Viel zu wissen hilft nicht unbe­dingt viel](https://www.test.de/Geldanlage-mit-ETF-Viel-zu-wissen-hilft-nicht-unbedingt-viel-6083347-0/ "Geldanlage mit ETF - Viel zu wissen hilft nicht unbedingt viel")
-* [Kreuz­linienlaser im Test: Moderne Alternative zur Wasser­waage](https://www.test.de/Kreuzlinienlaser-im-Test-Moderne-Alternative-zur-Wasserwaage-5936879-0/ "Kreuzlinienlaser im Test - Moderne Alternative zur Wasserwaage")
-* [Green-Vest: TV-Beitrag mit Finanz­minister gefälscht](https://www.test.de/Green-Vest-TV-Beitrag-mit-Finanzminister-gefaelscht-6119456-0/ "Green-Vest - TV-Beitrag mit Finanzminister gefälscht")
-* [Steiner+Company: Neue Führung, alte Probleme](https://www.test.de/SteinerCompany-Neue-Fuehrung-alte-Probleme-5926551-0/ "Steiner+Company - Neue Führung, alte Probleme")
-* [Bitcoin Apex: Bericht über Peter Maffay gefälscht](https://www.test.de/Bitcoin-Apex-Bericht-ueber-Peter-Maffay-gefaelscht-6111514-0/ "Bitcoin Apex - Bericht über Peter Maffay gefälscht")
-* [Kranken­versicherung für Studierende: Zum Uni-Start richtig kranken­versichert](https://www.test.de/Krankenversicherung-fuer-Studierende-6057464-0/ "Krankenversicherung für Studierende - Zum Uni-Start richtig krankenversichert")
+* [Jugend testet 2024: Ausgezeichnete Talente](https://www.test.de/Jugend-testet-2024-Ausgezeichnete-Talente-6125303-0/ "Jugend testet 2024 - Ausgezeichnete Talente")
+* [Pizza­öfen im Test: Zu Hause italienisch genießen](https://www.test.de/Pizzaoefen-im-Test-Zu-Hause-italienisch-geniessen-6024589-0/ "Pizzaöfen im Test - Zu Hause italienisch genießen")
+* [Pizza­öfen im Test: Zu Hause italienisch genießen](https://www.test.de/Pizzaoefen-im-Test-Zu-Hause-italienisch-geniessen-6024589-0/ "Pizzaöfen im Test - Zu Hause italienisch genießen")
+* [Jugend testet 2023: Drei Mal Gold für den Test-Nach­wuchs](https://www.test.de/Jugend-testet-2023-Drei-Mal-Gold-fuer-den-Test-Nachwuchs-6008280-0/ "Jugend testet 2023 - Drei Mal Gold für den Test-Nachwuchs")
+* [Verpackungs­ärger: Invisible Serum super UV, Garnier Ambre Solaire](https://www.test.de/Verpackungsaerger-Invisible-Serum-super-UV-Garnier-Ambre-Solaire-6038426-0/ "Verpackungsärger - Invisible Serum super UV, Garnier Ambre Solaire")
+* [Gut essen mit der Stiftung Warentest: Tom-Kha-Gai-Frikassee](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Tom-Kha-Gai-Frikassee-6070656-0/ "Gut essen mit der Stiftung Warentest - Tom-Kha-Gai-Frikassee")
 
 Jetzt anmelden und 10% Rabatt auf die test.de-Flatrate im ersten Jahr erhalten!
 
@@ -2786,39 +2786,39 @@ Weitere spannende Themen
 
 Neueste Tests
 
+* [Fonds und ETF im Vergleich: Hier finden Sie die besten Fonds für Ihr Portfolio](https://www.test.de/Fonds-im-Test-Fuenf-Punkte-fuer-die-Besten-4331006-0/ "Fonds und ETF im Vergleich - Hier finden Sie die besten Fonds für Ihr Portfolio")
+* [Nach­haltige Fonds und ETF: Warum wir grüne Fonds jetzt strenger testen](https://www.test.de/nachhaltige-fonds-etf-test-4741500-0/ "Nachhaltige Fonds und ETF - Warum wir grüne Fonds jetzt strenger testen")
 * [Tiefkühlpizza im Test: Italien für zu Hause](https://www.test.de/tiefkuehlpizza-salami-im-test-4830454-0/ "Tiefkühlpizza im Test - Italien für zu Hause")
 * [Körperfett­waagen im Test: Einige leisten sich fette Mess­fehler](https://www.test.de/koerperfettwaage-test-4645874-0/ "Körperfettwaagen im Test - Einige leisten sich fette Messfehler")
 * [Fernseher im Test: Gutes Bild und guter Ton – geht günstig](https://www.test.de/Fernseher-im-Test-1629201-0/ "Fernseher im Test - Gutes Bild und guter Ton – geht günstig")
 * [Kreditkarten im Vergleich: Mit dieser Kreditkarte liegen Sie richtig](https://www.test.de/Kreditkarten-im-Vergleich-5238561-0/ "Kreditkarten im Vergleich - Mit dieser Kreditkarte liegen Sie richtig")
-* [Bluetooth-Kopf­hörer im Test: Kopf­hörer mit gutem Sound und Akku](https://www.test.de/Bluetooth-Kopfhoerer-Test-4378783-0/ "Bluetooth-Kopfhörer im Test - Kopfhörer mit gutem Sound und Akku")
-* [ETF-Sparplan-Vergleich: So einfach und günstig geht ETF-Sparen](https://www.test.de/ETF-Sparplan-Vergleich-5015866-0/ "ETF-Sparplan-Vergleich - So einfach und günstig geht ETF-Sparen")
 
 test.de entdecken
 
-* [Geld­anlage mit ETF: Viel zu wissen hilft nicht unbe­dingt viel](https://www.test.de/Geldanlage-mit-ETF-Viel-zu-wissen-hilft-nicht-unbedingt-viel-6083347-0/ "Geldanlage mit ETF - Viel zu wissen hilft nicht unbedingt viel")
-* [Kreuz­linienlaser im Test: Moderne Alternative zur Wasser­waage](https://www.test.de/Kreuzlinienlaser-im-Test-Moderne-Alternative-zur-Wasserwaage-5936879-0/ "Kreuzlinienlaser im Test - Moderne Alternative zur Wasserwaage")
-* [Green-Vest: TV-Beitrag mit Finanz­minister gefälscht](https://www.test.de/Green-Vest-TV-Beitrag-mit-Finanzminister-gefaelscht-6119456-0/ "Green-Vest - TV-Beitrag mit Finanzminister gefälscht")
-* [Steiner+Company: Neue Führung, alte Probleme](https://www.test.de/SteinerCompany-Neue-Fuehrung-alte-Probleme-5926551-0/ "Steiner+Company - Neue Führung, alte Probleme")
-* [Bitcoin Apex: Bericht über Peter Maffay gefälscht](https://www.test.de/Bitcoin-Apex-Bericht-ueber-Peter-Maffay-gefaelscht-6111514-0/ "Bitcoin Apex - Bericht über Peter Maffay gefälscht")
-* [Kranken­versicherung für Studierende: Zum Uni-Start richtig kranken­versichert](https://www.test.de/Krankenversicherung-fuer-Studierende-6057464-0/ "Krankenversicherung für Studierende - Zum Uni-Start richtig krankenversichert")
+* [Jugend testet 2024: Ausgezeichnete Talente](https://www.test.de/Jugend-testet-2024-Ausgezeichnete-Talente-6125303-0/ "Jugend testet 2024 - Ausgezeichnete Talente")
+* [Pizza­öfen im Test: Zu Hause italienisch genießen](https://www.test.de/Pizzaoefen-im-Test-Zu-Hause-italienisch-geniessen-6024589-0/ "Pizzaöfen im Test - Zu Hause italienisch genießen")
+* [Pizza­öfen im Test: Zu Hause italienisch genießen](https://www.test.de/Pizzaoefen-im-Test-Zu-Hause-italienisch-geniessen-6024589-0/ "Pizzaöfen im Test - Zu Hause italienisch genießen")
+* [Jugend testet 2023: Drei Mal Gold für den Test-Nach­wuchs](https://www.test.de/Jugend-testet-2023-Drei-Mal-Gold-fuer-den-Test-Nachwuchs-6008280-0/ "Jugend testet 2023 - Drei Mal Gold für den Test-Nachwuchs")
+* [Verpackungs­ärger: Invisible Serum super UV, Garnier Ambre Solaire](https://www.test.de/Verpackungsaerger-Invisible-Serum-super-UV-Garnier-Ambre-Solaire-6038426-0/ "Verpackungsärger - Invisible Serum super UV, Garnier Ambre Solaire")
+* [Gut essen mit der Stiftung Warentest: Tom-Kha-Gai-Frikassee](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Tom-Kha-Gai-Frikassee-6070656-0/ "Gut essen mit der Stiftung Warentest - Tom-Kha-Gai-Frikassee")
 
 Neueste Tests
 
+* [Fonds und ETF im Vergleich: Hier finden Sie die besten Fonds für Ihr Portfolio](https://www.test.de/Fonds-im-Test-Fuenf-Punkte-fuer-die-Besten-4331006-0/ "Fonds und ETF im Vergleich - Hier finden Sie die besten Fonds für Ihr Portfolio")
+* [Nach­haltige Fonds und ETF: Warum wir grüne Fonds jetzt strenger testen](https://www.test.de/nachhaltige-fonds-etf-test-4741500-0/ "Nachhaltige Fonds und ETF - Warum wir grüne Fonds jetzt strenger testen")
 * [Tiefkühlpizza im Test: Italien für zu Hause](https://www.test.de/tiefkuehlpizza-salami-im-test-4830454-0/ "Tiefkühlpizza im Test - Italien für zu Hause")
 * [Körperfett­waagen im Test: Einige leisten sich fette Mess­fehler](https://www.test.de/koerperfettwaage-test-4645874-0/ "Körperfettwaagen im Test - Einige leisten sich fette Messfehler")
 * [Fernseher im Test: Gutes Bild und guter Ton – geht günstig](https://www.test.de/Fernseher-im-Test-1629201-0/ "Fernseher im Test - Gutes Bild und guter Ton – geht günstig")
 * [Kreditkarten im Vergleich: Mit dieser Kreditkarte liegen Sie richtig](https://www.test.de/Kreditkarten-im-Vergleich-5238561-0/ "Kreditkarten im Vergleich - Mit dieser Kreditkarte liegen Sie richtig")
-* [Bluetooth-Kopf­hörer im Test: Kopf­hörer mit gutem Sound und Akku](https://www.test.de/Bluetooth-Kopfhoerer-Test-4378783-0/ "Bluetooth-Kopfhörer im Test - Kopfhörer mit gutem Sound und Akku")
-* [ETF-Sparplan-Vergleich: So einfach und günstig geht ETF-Sparen](https://www.test.de/ETF-Sparplan-Vergleich-5015866-0/ "ETF-Sparplan-Vergleich - So einfach und günstig geht ETF-Sparen")
 
 test.de entdecken
 
-* [Geld­anlage mit ETF: Viel zu wissen hilft nicht unbe­dingt viel](https://www.test.de/Geldanlage-mit-ETF-Viel-zu-wissen-hilft-nicht-unbedingt-viel-6083347-0/ "Geldanlage mit ETF - Viel zu wissen hilft nicht unbedingt viel")
-* [Kreuz­linienlaser im Test: Moderne Alternative zur Wasser­waage](https://www.test.de/Kreuzlinienlaser-im-Test-Moderne-Alternative-zur-Wasserwaage-5936879-0/ "Kreuzlinienlaser im Test - Moderne Alternative zur Wasserwaage")
-* [Green-Vest: TV-Beitrag mit Finanz­minister gefälscht](https://www.test.de/Green-Vest-TV-Beitrag-mit-Finanzminister-gefaelscht-6119456-0/ "Green-Vest - TV-Beitrag mit Finanzminister gefälscht")
-* [Steiner+Company: Neue Führung, alte Probleme](https://www.test.de/SteinerCompany-Neue-Fuehrung-alte-Probleme-5926551-0/ "Steiner+Company - Neue Führung, alte Probleme")
-* [Bitcoin Apex: Bericht über Peter Maffay gefälscht](https://www.test.de/Bitcoin-Apex-Bericht-ueber-Peter-Maffay-gefaelscht-6111514-0/ "Bitcoin Apex - Bericht über Peter Maffay gefälscht")
-* [Kranken­versicherung für Studierende: Zum Uni-Start richtig kranken­versichert](https://www.test.de/Krankenversicherung-fuer-Studierende-6057464-0/ "Krankenversicherung für Studierende - Zum Uni-Start richtig krankenversichert")
+* [Jugend testet 2024: Ausgezeichnete Talente](https://www.test.de/Jugend-testet-2024-Ausgezeichnete-Talente-6125303-0/ "Jugend testet 2024 - Ausgezeichnete Talente")
+* [Pizza­öfen im Test: Zu Hause italienisch genießen](https://www.test.de/Pizzaoefen-im-Test-Zu-Hause-italienisch-geniessen-6024589-0/ "Pizzaöfen im Test - Zu Hause italienisch genießen")
+* [Pizza­öfen im Test: Zu Hause italienisch genießen](https://www.test.de/Pizzaoefen-im-Test-Zu-Hause-italienisch-geniessen-6024589-0/ "Pizzaöfen im Test - Zu Hause italienisch genießen")
+* [Jugend testet 2023: Drei Mal Gold für den Test-Nach­wuchs](https://www.test.de/Jugend-testet-2023-Drei-Mal-Gold-fuer-den-Test-Nachwuchs-6008280-0/ "Jugend testet 2023 - Drei Mal Gold für den Test-Nachwuchs")
+* [Verpackungs­ärger: Invisible Serum super UV, Garnier Ambre Solaire](https://www.test.de/Verpackungsaerger-Invisible-Serum-super-UV-Garnier-Ambre-Solaire-6038426-0/ "Verpackungsärger - Invisible Serum super UV, Garnier Ambre Solaire")
+* [Gut essen mit der Stiftung Warentest: Tom-Kha-Gai-Frikassee](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Tom-Kha-Gai-Frikassee-6070656-0/ "Gut essen mit der Stiftung Warentest - Tom-Kha-Gai-Frikassee")
 
 Service Stiftung Warentest
 
