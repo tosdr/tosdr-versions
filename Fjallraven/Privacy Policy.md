@@ -280,7 +280,7 @@ Asia
     
 * EXPERIENCES
     
-    * [Show all](https://experience.fjallraven.com/us/en-us?id=a6b3788f-3099-4172-9903-697b5ae8db5c)
+    * [Show all](https://experience.fjallraven.com/us/en-us?id=b6fd7f97-a0f3-4e1e-930c-ffa9618ff65f)
     * [Foxtrail](https://foxtrail.fjallraven.com/)
     * [Classic](https://classic.fjallraven.com/)
     * [Polar](https://experience.fjallraven.com/polar)
@@ -438,7 +438,7 @@ Asia
         
     * EXPERIENCES
         
-        * [Show all](https://experience.fjallraven.com/us/en-us?id=a6b3788f-3099-4172-9903-697b5ae8db5c)
+        * [Show all](https://experience.fjallraven.com/us/en-us?id=b6fd7f97-a0f3-4e1e-930c-ffa9618ff65f)
         * [Foxtrail](https://foxtrail.fjallraven.com/)
         * [Classic](https://classic.fjallraven.com/)
         * [Polar](https://experience.fjallraven.com/polar)
@@ -806,7 +806,7 @@ Discover
 Discover
 
 * [Fjällräven Experience](https://experience.fjallraven.com/us/en-us)
-* [Fjällräven Polar](https://experience.fjallraven.com/polar/2024?id=a6b3788f-3099-4172-9903-697b5ae8db5c)
+* [Fjällräven Polar](https://experience.fjallraven.com/polar/2024?id=b6fd7f97-a0f3-4e1e-930c-ffa9618ff65f)
 * [Fjällräven Classic](https://classic.fjallraven.com/)
 * [Our Community](https://www.fjallraven.com/us/en-us/our-community/)
 * [Do Not Sell or Share My Personal Information](#)
