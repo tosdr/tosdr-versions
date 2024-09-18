@@ -1,6 +1,8 @@
-![LinkedIn](https://px.ads.linkedin.com/collect/?pid=5479425&fmt=gif)
+![LinkedIn](https://px.ads.linkedin.com/collect/?pid=6377498&fmt=gif)
 
 [](https://codeium.com/)
+
+[Docs](https://docs.codeium.com/)
 
 Open Product optionsProduct
 
