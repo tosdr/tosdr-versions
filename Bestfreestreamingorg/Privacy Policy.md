@@ -2,7 +2,7 @@
 free  
 streaming.org](https://www.bestfreestreaming.org/)
 
-[bestfreestreaming](https://www.bestfreestreaming.org/)
+[bestfreestreaming.org](https://www.bestfreestreaming.org/)
 
 [Movies](https://www.bestfreestreaming.org/best-free-streaming/movies.html) [Tv shows](https://www.bestfreestreaming.org/best-free-streaming/tv-shows.html) [Anime](https://www.bestfreestreaming.org/best-free-streaming/anime.html)
 
@@ -13,11 +13,11 @@ Terms of use
 
 ##### Introduction:
 
-Welcome to BestFreeStreaming.org, a blog and directory providing information about various free streaming sites. Before using our website, please read and understand the terms outlined in this document. By continuing to use BestFreeStreaming.org, you agree to the following terms.
+Welcome to BestFreeStreaming.org, a blog providing information about various free streaming sites. Before using our website, please read and understand the terms outlined in this document. By continuing to use BestFreeStreaming.org, you agree to the following terms.
 
 ##### Nature of BestFreeStreaming.org:
 
-BestFreeStreaming.org is a platform that operates solely as a blog and directory. We do not host any video files or function as a streaming service.
+BestFreeStreaming.org is a platform that operates solely as a blog. We do not host any video files or function as a streaming service.
 
 ##### Links to Third-Party Websites:
 
@@ -58,6 +58,6 @@ BFS uses Cloudflare [Web Analytics](https://www.cloudflare.com/web-analytics/) t
 * [Tv shows](https://www.bestfreestreaming.org/best-free-streaming/tv-shows.html)
 * [Anime](https://www.bestfreestreaming.org/best-free-streaming/anime.html)
 
-[bestfreestreaming](#top)
+[bestfreestreaming.org](#top)
 
-Disclaimer: BestFreeStreaming.org is a blog and a directory; it does not host video files or operate as a streaming service. BFS provides links to third-party sites for informational purposes. Users are urged to read and understand our [terms](https://www.bestfreestreaming.org/terms.html) before accessing external content.
+Disclaimer: BestFreeStreaming.org is a blog; it does not host video files or operate as a streaming service. BFS provides links to third-party sites for informational purposes. Users are urged to read and understand our [terms](https://www.bestfreestreaming.org/terms.html) before accessing external content.
