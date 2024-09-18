@@ -566,23 +566,19 @@ Latest News
 
 [Mitsubishi to provide H3 rockets for France's Eutelsat from 2027](https://www.japantimes.co.jp/business/2024/09/18/mitsubishi-eutelsat-h3/ "Mitsubishi to provide H3 rockets for France's Eutelsat from 2027")
 
-2 hours ago
+8 hours ago
 
 [Taiwanese and Hungarian firms deny making Hezbollah pagers](https://www.japantimes.co.jp/news/2024/09/18/world/hezbollah-pagers-taiwan-hungary/ "Taiwanese and Hungarian firms deny making Hezbollah pagers")
 
-3 hours ago
+9 hours ago
 
 [Overseas visitors hit record high for August at 2.9 million](https://www.japantimes.co.jp/news/2024/09/18/japan/august-visitor-numbers/ "Overseas visitors hit record high for August at 2.9 million")
 
-4 hours ago
+10 hours ago
 
 [Puberulic acid confirmed as source of _beni kōji_ health issues](https://www.japantimes.co.jp/news/2024/09/18/japan/science-health/beni-koji-puberulic-acid-to-blame/ "Puberulic acid confirmed as source of beni kōji health issues")
 
-7 hours ago
-
 [Ishii to head Komeito in first leadership change in 15 years](https://www.japantimes.co.jp/news/2024/09/18/japan/politics/komeito-new-head/ "Ishii to head Komeito in first leadership change in 15 years")
-
-7 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
