@@ -48,7 +48,7 @@ SEARCH
 
 [My Account](https://www.cricbuzz.com/premium-subscription/user/account-info "My Account") Sign Out
 
-[MATCHES](https://www.cricbuzz.com/cricket-match/live-scores)[SNP vs BR - Ings Break](https://www.cricbuzz.com/live-cricket-scores/92851/snp-vs-br-18th-match-caribbean-premier-league-2024 "St Kitts and Nevis Patriots v Barbados Royals, 18th Match - Ings Break")[SL vs NZ - Preview](https://www.cricbuzz.com/live-cricket-scores/105962/sl-vs-nz-1st-test-new-zealand-tour-of-sri-lanka-2024 "Sri Lanka v New Zealand, 1st Test - Preview")[AFG vs RSA - Preview](https://www.cricbuzz.com/live-cricket-scores/103843/afg-vs-rsa-1st-odi-afghanistan-v-south-africa-in-uae-2024 "Afghanistan v South Africa, 1st ODI - Preview")[SLK vs ABF - SLK Won](https://www.cricbuzz.com/live-cricket-scores/92849/slk-vs-abf-17th-match-caribbean-premier-league-2024 "Saint Lucia Kings v Antigua and Barbuda Falcons, 17th Match - SLK Won")[INDA vs INDD - INDA Won](https://www.cricbuzz.com/live-cricket-scores/104212/inda-vs-indd-3rd-match-duleep-trophy-2024 "India A v India D, 3rd Match - INDA Won")
+[MATCHES](https://www.cricbuzz.com/cricket-match/live-scores)[SL vs NZ - Live](https://www.cricbuzz.com/live-cricket-scores/105962/sl-vs-nz-1st-test-new-zealand-tour-of-sri-lanka-2024 "Sri Lanka v New Zealand, 1st Test - Live")[SNP vs BR - BR Won](https://www.cricbuzz.com/live-cricket-scores/92851/snp-vs-br-18th-match-caribbean-premier-league-2024 "St Kitts and Nevis Patriots v Barbados Royals, 18th Match - BR Won")[AFG vs RSA - Preview](https://www.cricbuzz.com/live-cricket-scores/103843/afg-vs-rsa-1st-odi-afghanistan-v-south-africa-in-uae-2024 "Afghanistan v South Africa, 1st ODI - Preview")[TKR vs GAW - Preview](https://www.cricbuzz.com/live-cricket-scores/92856/tkr-vs-gaw-19th-match-caribbean-premier-league-2024 "Trinbago Knight Riders v Guyana Amazon Warriors, 19th Match - Preview")[UAE vs USA - Toss](https://www.cricbuzz.com/live-cricket-scores/106961/uae-vs-usa-27th-match-icc-cricket-world-cup-league-two-2023-27 "United Arab Emirates v United States, 27th Match - Toss")
 
 AllLive NowToday
 
@@ -68,7 +68,7 @@ AllLive NowToday
     
 * NZ tour of SL
     
-    [Sri Lanka vs New Zealand](https://www.cricbuzz.com/live-cricket-scores/105962/sl-vs-nz-1st-test-nz-tour-of-sl "Sri Lanka v New Zealand, 1st Test - Preview")
+    [Sri Lanka vs New Zealand  LIVE](https://www.cricbuzz.com/live-cricket-scores/105962/sl-vs-nz-1st-test-nz-tour-of-sl "Sri Lanka v New Zealand, 1st Test - Live")
     
     1st Test
     
@@ -88,7 +88,7 @@ AllLive NowToday
     
     26th Match
     
-* [United Arab Emirates vs United States](https://www.cricbuzz.com/live-cricket-scores/106961/uae-vs-usa-27th-match-icc-cwc-league-two-2023-27 "United Arab Emirates v United States, 27th Match - Preview")
+* [United Arab Emirates vs United States](https://www.cricbuzz.com/live-cricket-scores/106961/uae-vs-usa-27th-match-icc-cwc-league-two-2023-27 "United Arab Emirates v United States, 27th Match - Toss")
     
     27th Match
     
@@ -100,11 +100,7 @@ AllLive NowToday
     
     CPL 2024
     
-    [Saint Lucia Kings vs Antigua and Barbuda Falcons](https://www.cricbuzz.com/live-cricket-scores/92849/slk-vs-abf-17th-match-cpl-2024 "Saint Lucia Kings v Antigua and Barbuda Falcons, 17th Match - SLK Won")
-    
-    17th Match
-    
-* [St Kitts and Nevis Patriots vs Barbados Royals](https://www.cricbuzz.com/live-cricket-scores/92851/snp-vs-br-18th-match-cpl-2024 "St Kitts and Nevis Patriots v Barbados Royals, 18th Match - Ings Break")
+    [St Kitts and Nevis Patriots vs Barbados Royals](https://www.cricbuzz.com/live-cricket-scores/92851/snp-vs-br-18th-match-cpl-2024 "St Kitts and Nevis Patriots v Barbados Royals, 18th Match - BR Won")
     
     18th Match
     
@@ -120,13 +116,13 @@ AllLive NowToday
     
     Duleep Trophy
     
-    [India A vs India C](https://www.cricbuzz.com/live-cricket-scores/104234/inda-vs-indc-6th-match-duleep-trophy "India A v India C, 6th Match - Upcoming")
-    
-    6th Match
-    
-* [India B vs India D](https://www.cricbuzz.com/live-cricket-scores/104226/indb-vs-indd-5th-match-duleep-trophy "India B v India D, 5th Match - Upcoming")
+    [India B vs India D](https://www.cricbuzz.com/live-cricket-scores/104226/indb-vs-indd-5th-match-duleep-trophy "India B v India D, 5th Match - Upcoming")
     
     5th Match
+    
+* [India A vs India C](https://www.cricbuzz.com/live-cricket-scores/104234/inda-vs-indc-6th-match-duleep-trophy "India A v India C, 6th Match - Upcoming")
+    
+    6th Match
     
 * County Division 1
     
@@ -152,21 +148,21 @@ AllLive NowToday
     
 * County Division 2
     
-    [Yorkshire vs Glamorgan](https://www.cricbuzz.com/live-cricket-scores/85524/yorks-vs-glam-50th-match-county-division-2 "Yorkshire v Glamorgan, 50th Match - Stumps")
-    
-    50th Match
-    
-* [Derbyshire vs Middlesex](https://www.cricbuzz.com/live-cricket-scores/85517/derby-vs-mdx-49th-match-county-division-2 "Derbyshire v Middlesex, 49th Match - Stumps")
-    
-    49th Match
-    
-* [Leicestershire vs Northamptonshire](https://www.cricbuzz.com/live-cricket-scores/85535/leic-vs-nhnts-52nd-match-county-division-2 "Leicestershire v Northamptonshire, 52nd Match - Stumps")
+    [Leicestershire vs Northamptonshire](https://www.cricbuzz.com/live-cricket-scores/85535/leic-vs-nhnts-52nd-match-county-division-2 "Leicestershire v Northamptonshire, 52nd Match - Stumps")
     
     52nd Match
     
 * [Gloucestershire vs Sussex](https://www.cricbuzz.com/live-cricket-scores/85528/gloucs-vs-sus-51st-match-county-division-2 "Gloucestershire v Sussex, 51st Match - Stumps")
     
     51st Match
+    
+* [Yorkshire vs Glamorgan](https://www.cricbuzz.com/live-cricket-scores/85524/yorks-vs-glam-50th-match-county-division-2 "Yorkshire v Glamorgan, 50th Match - Stumps")
+    
+    50th Match
+    
+* [Derbyshire vs Middlesex](https://www.cricbuzz.com/live-cricket-scores/85517/derby-vs-mdx-49th-match-county-division-2 "Derbyshire v Middlesex, 49th Match - Stumps")
+    
+    49th Match
     
 * South Africa v Sri Lanka
     
@@ -185,6 +181,10 @@ AllLive NowToday
 * [Pakistan Women vs South Africa Women](https://www.cricbuzz.com/live-cricket-scores/106417/pakw-vs-rsaw-2nd-t20i-south-africa-women-tour-of-pakistan "Pakistan Women v South Africa Women, 2nd T20I - Preview")
     
     2nd T20I
+    
+* [Pakistan Women vs South Africa Women](https://www.cricbuzz.com/live-cricket-scores/106425/pakw-vs-rsaw-3rd-t20i-south-africa-women-tour-of-pakistan "Pakistan Women v South Africa Women, 3rd T20I - Upcoming")
+    
+    3rd T20I
     
 * Australia Women v New Zealand Women
     
@@ -499,41 +499,41 @@ This Privacy Policy (the “**Privacy Policy**”) serves to inform you of our p
 
 #### LATEST NEWS
 
+  [](https://www.cricbuzz.com/cricket-news/131652/sri-lanka-steady-after-orourkes-early-strikes "Sri Lanka steady after ORourke's early strikes")
+
+[Sri Lanka steady after ORourke's early strikes](https://www.cricbuzz.com/cricket-news/131652/sri-lanka-steady-after-orourkes-early-strikes "Sri Lanka steady after ORourke's early strikes")
+
+7m ago
+
+  [](https://www.cricbuzz.com/cricket-news/131651/cpl-2024-rakheem-cornwall-de-kock-strengthen-barbados-royals-stay-at-the-top "Cornwall, de Kock power Royals to playoffs")
+
+[Cornwall, de Kock power Royals to playoffs](https://www.cricbuzz.com/cricket-news/131651/cpl-2024-rakheem-cornwall-de-kock-strengthen-barbados-royals-stay-at-the-top "Cornwall, de Kock power Royals to playoffs")
+
+4h ago
+
   [](https://www.cricbuzz.com/cricket-news/131650/context-of-cruelty-hangs-over-afghanistan-south-africa-series "Context of cruelty hangs over Afghanistan-South Africa series")
 
 [Context of cruelty hangs over Afghanistan-South Africa series](https://www.cricbuzz.com/cricket-news/131650/context-of-cruelty-hangs-over-afghanistan-south-africa-series "Context of cruelty hangs over Afghanistan-South Africa series")
 
-8h ago
+14h ago
 
   [](https://www.cricbuzz.com/cricket-news/131649/buoyed-sri-lanka-aim-to-topple-undercooked-new-zealand "Buoyed Sri Lanka aim to topple undercooked New Zealand")
 
 [Buoyed Sri Lanka aim to topple undercooked New Zealand](https://www.cricbuzz.com/cricket-news/131649/buoyed-sri-lanka-aim-to-topple-undercooked-new-zealand "Buoyed Sri Lanka aim to topple undercooked New Zealand")
 
-10h ago
+16h ago
 
   [](https://www.cricbuzz.com/cricket-news/131648/grounded-rana-on-the-upward-curve-believes-andre-adams "Grounded Rana on the upward curve believes Andre Adams")
 
 [Grounded Rana on the upward curve believes Andre Adams](https://www.cricbuzz.com/cricket-news/131648/grounded-rana-on-the-upward-curve-believes-andre-adams "Grounded Rana on the upward curve believes Andre Adams")
 
-11h ago
+17h ago
 
   [](https://www.cricbuzz.com/cricket-news/131647/rahul-has-rohits-backing-and-messaging-to-flourish-in-test-cricket "Rahul has Rohit's backing and messaging to 'flourish' in Test cricket")
 
 [Rahul has Rohit's backing and messaging to 'flourish' in Test cricket](https://www.cricbuzz.com/cricket-news/131647/rahul-has-rohits-backing-and-messaging-to-flourish-in-test-cricket "Rahul has Rohit's backing and messaging to 'flourish' in Test cricket")
 
-12h ago
-
-  [](https://www.cricbuzz.com/cricket-news/131646/wtc-scenarios-india-favourites-for-third-straight-final-bangladesh-sri-lanka-stay-in-hunt "WTC scenarios: India favourites for third straight final; Bangladesh, Sri Lanka stay in hunt")
-
-[WTC scenarios: India favourites for third straight final; Bangladesh, Sri Lanka stay in hunt](https://www.cricbuzz.com/cricket-news/131646/wtc-scenarios-india-favourites-for-third-straight-final-bangladesh-sri-lanka-stay-in-hunt "WTC scenarios: India favourites for third straight final; Bangladesh, Sri Lanka stay in hunt")
-
-13h ago
-
-  [](https://www.cricbuzz.com/cricket-news/131645/indias-test-season-of-reacquaintances-to-red-ball-rhythms-and-workload-management "India's Test season: Of reacquaintances to red-ball rhythms and workload management")
-
-[India's Test season: Of reacquaintances to red-ball rhythms and workload management](https://www.cricbuzz.com/cricket-news/131645/indias-test-season-of-reacquaintances-to-red-ball-rhythms-and-workload-management "India's Test season: Of reacquaintances to red-ball rhythms and workload management")
-
-13h ago
+18h ago
 
 [More News](https://www.cricbuzz.com/cricket-news "Click to view more News")
 
