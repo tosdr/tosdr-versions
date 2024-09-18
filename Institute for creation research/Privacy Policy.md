@@ -101,67 +101,91 @@ If you have any questions about our privacy policy, please [contact us](mailto:w
 
 Return to our [subscription form](https://www.icr.org/subscriptions).
 
-More Creation Science Update
+More Historical Accuracy
 
-[![](/i/Main%20Stage%20-%201400x1050/butterfliesremember_1400x1050.jpg)](https://www.icr.org/article/butterflies-remember)
+[![](/i/wide/the_exodus_wide.jpg)](https://www.icr.org/article/encore-presentation-patterns-evidence)
 
-[Butterflies Can Remember](https://www.icr.org/article/butterflies-remember/)
+[Encore Presentation of Patterns of Evidence: Exodus](https://www.icr.org/article/encore-presentation-patterns-evidence/)
 
-Gone are the days when many people (biologists included) saw insects as simple creatures that did little more than reproduce, eat, and grow—with...
+The Exodus is one of the best-known narratives in the Bible. It details the Israelites' escape from Egypt after centuries of slavery, Moses'...
 
-BY: [FRANK SHERWIN, D.SC. (HON.)](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=32)
+BY: [JAKE HEBERT, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=218)
 
-[![](/i/Main%20Stage%20-%201400x1050/brainscomplexity_1400x1050.jpg)](https://www.icr.org/article/cognitive-map-brain-complexity)
+[![](/i/wide/genesis_history_wide.jpg)](https://www.icr.org/article/reviewing-is-genesis-history)
 
-[The Cognitive Map: An Incredible Display of the Brain&r.,.](https://www.icr.org/article/cognitive-map-brain-complexity/)
+[Reviewing 'Is Genesis History?'](https://www.icr.org/article/reviewing-is-genesis-history/)
 
-To be spatially capable creatures, humans need their brains to tell them 1) where things are in relation to themselves and 2) where everything is in...
+by Jake Hebert, Ph.D., and Brian Thomas, M.S.\* On Thursday, February 23, select movie theaters around the country presented a special...
 
-BY: [JONATHAN K. CORRADO, PH.D., P. E.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=251)
+BY:  [VARIOUS AUTHORS](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=35)
 
-[![](/i/Main%20Stage%20-%201400x1050/OctoEvol_1400x1050)](https://www.icr.org/article/octopus-evol)
+[![](/i/articles/af/out_of_ararat_wide.jpg)](https://www.icr.org/article/out-ararat)
 
-[Dubious Views on Octopus Evolution](https://www.icr.org/article/octopus-evol/)
+[Out of Ararat?](https://www.icr.org/article/out-ararat/)
 
-The octopus is one of the most amazing animals in God’s creation.1 Now, A new paper in Genome Biology and Evolution indicates...
+Paleoanthropologists are not usually known for shying away from discord, debate, or disagreement. Yet for several decades there has been near-unanimity...
 
-BY: [FRANK SHERWIN, D.SC. (HON.)](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=32)
+BY: [WILLIAM A. HOESCH, M.S.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=58)
+
+More Creation Q&A
+
+[![](/i/articles/af/Main%20Stage%20-%201400x1050/how_do_hominids_fit.jpg)](https://www.icr.org/article/how-do-hominids-fit-with-the-bible)
+
+[How Do Hominids Fit with the Bible?](https://www.icr.org/article/how-do-hominids-fit-with-the-bible/)
+
+A recent survey showed that the most persuasive argument for evolution comes from the iconic drawing of the apes-to-man parade.1 This popular...
+
+BY: [BRIAN THOMAS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=201)
+
+[![](/i/articles/af/Main%20Stage%20-%201400x1050/HowPrepareCreationMInistry.jpg)](https://www.icr.org/article/how-do-i-prepare-for-creation-ministry)
+
+[How Do I Prepare for Creation Ministry?](https://www.icr.org/article/how-do-i-prepare-for-creation-ministry/)
+
+Many of today’s creation researchers can testify that information from the Institute for Creation Research sparked a burning, lifelong passion...
+
+BY: [JAKE HEBERT, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=218)
+
+[![](/i/articles/af/Main%20Stage%20-%201400x1050/is_genesis_history.jpg)](https://www.icr.org/article/is-genesis-1-11-actual-history)
+
+[Is Genesis 1â€“11 Actual History?](https://www.icr.org/article/is-genesis-1-11-actual-history/)
+
+The early chapters of Genesis contradict ancient history as portrayed in public schools, television, and movies. For example, our culture insists humans...
+
+BY: [BRIAN THOMAS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=201)
 
 Shop Related Products
-
-[![](https://cdn.shoplightspeed.com/shops/601440/files/13216497/file.jpg)
-
-Scientific Evidences for Creation - Download](https://store.icr.org/mr-frank-sherwin-scientific-evidences-for-11389225.html)
-
-$4.99
-
-$9.99
-
-[![](https://cdn.shoplightspeed.com/shops/601440/files/9373127/file.jpg)
-
-Scientific Evidences for Creation](https://store.icr.org/mr-frank-sherwin-scientific-evidences-for-creation.html)
-
-$7.99
-
-$9.99
-
-[![](https://cdn.shoplightspeed.com/shops/601440/files/8285455/file.jpg)
-
-The Mighty, Wonderful Oceans](https://store.icr.org/the-mighty-wonderful-oceans.html)
-
-$7.99
-
-$9.99
-
-[![](https://cdn.shoplightspeed.com/shops/601440/files/57800317/file.jpg)
-
-Scientific Evidences for Creation 2](https://store.icr.org/scientific-evidences-for-creation.html)
-
-$12.99
 
 [](https://store.icr.org/.html)
 
 $
+
+[![](https://cdn.shoplightspeed.com/shops/601440/files/5202651/file.jpg)
+
+The Fossil Record](https://store.icr.org/dr-john-morris-the-fossil-record.html)
+
+$19.99
+
+[![](https://cdn.shoplightspeed.com/shops/601440/files/15818899/file.jpg)
+
+The Fossil Record - eBook](https://store.icr.org/the-fossil-record-ebook.html)
+
+$9.99
+
+$19.99
+
+[![](https://cdn.shoplightspeed.com/shops/601440/files/32803/file.jpg)
+
+The Young Earth](https://store.icr.org/dr-john-morris-the-young-earth.html)
+
+$19.99
+
+[![](https://cdn.shoplightspeed.com/shops/601440/files/10027359/file.jpg)
+
+The Global Flood](https://store.icr.org/dr-john-morris-the-global-flood.html)
+
+$14.99
+
+$19.99
 
 [![Institute for Creation Research](/i/icr-logo-final-h-rev3-100.png)](https://www.icr.org/)[![ICR Discovery Center for Science and Earth History](/i/DC_Logo_Footer_2.png)](http://discoverycenter.icr.org/)
 
