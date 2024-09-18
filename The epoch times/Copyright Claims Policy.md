@@ -75,19 +75,19 @@
     * [China Insider](https://www.theepochtimes.com/c-china-insider)
     * [Crossroads](https://www.theepochtimes.com/c-crossroads)
 
-* [Bright](https://api-dev.theepochtimes.com/page/bright)
-    * [Lifestyle](https://api-dev.theepochtimes.com/bright/radiant-life)
-    * [Inspired](https://api-dev.theepochtimes.com/bright/inspired)
-    * [Family & Education](https://api-dev.theepochtimes.com/bright/family-education)
-    * [Personal Finance](https://api-dev.theepochtimes.com/business/personal-finance)
-    * [American Essence](https://api-dev.theepochtimes.com/bright/american-essence)
-* [Entertainment](https://api-dev.theepochtimes.com/entertainment)
-    * [Film & TV](https://api-dev.theepochtimes.com/entertainment/film-tv)
-    * [Entertainment News](https://api-dev.theepochtimes.com/entertainment/entertainment-news)
-* [Health](https://api-dev.theepochtimes.com/health)
-    * [Experts](https://api-dev.theepochtimes.com/health/experts)
-    * [Conditions](https://api-dev.theepochtimes.com/health/treatments)
-    * [Life & Wellness](https://api-dev.theepochtimes.com/health/life-wellness)
+* [Bright](https://www.theepochtimes.com/page/bright)
+    * [Lifestyle](https://www.theepochtimes.com/bright/radiant-life)
+    * [Inspired](https://www.theepochtimes.com/bright/inspired)
+    * [Family & Education](https://www.theepochtimes.com/bright/family-education)
+    * [Personal Finance](https://www.theepochtimes.com/business/personal-finance)
+    * [American Essence](https://www.theepochtimes.com/bright/american-essence)
+* [Entertainment](https://www.theepochtimes.com/entertainment)
+    * [Film & TV](https://www.theepochtimes.com/entertainment/film-tv)
+    * [Entertainment News](https://www.theepochtimes.com/entertainment/entertainment-news)
+* [Health](https://www.theepochtimes.com/health)
+    * [Experts](https://www.theepochtimes.com/health/experts)
+    * [Conditions](https://www.theepochtimes.com/health/treatments)
+    * [Life & Wellness](https://www.theepochtimes.com/health/life-wellness)
 * [Special Topics](https://www.theepochtimes.com/most-popular)
     * [Battlefields](https://www.theepochtimes.com/t-battlefields)
 
@@ -158,76 +158,76 @@ Please note that under Section 512(f) of the DMCA, any person who knowingly mate
 
 TOP NEWS
 
-* [An Updated Timeline of Trump Assassination Attempt at Golf Course](https://www.theepochtimes.com/us/an-updated-timeline-of-trump-assassination-attempt-at-golf-course-5725788)
+* [Trump Speaks in Michigan After Second Assassination Attempt](https://www.theepochtimes.com/us/trump-speaks-in-michigan-after-second-assassination-attempt-5726039)
     
-    NEW By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
+    NEW By [Nathan Worcester](https://www.theepochtimes.com/author/nathan-worcester)
     
-    [![An Updated Timeline of Trump Assassination Attempt at Golf Course](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Trump Speaks in Michigan After Second Assassination Attempt](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![An Updated Timeline of Trump Assassination Attempt at Golf Course](https://img.theepochtimes.com/assets/uploads/2024/09/16/id5724921-Trump-assassination-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/an-updated-timeline-of-trump-assassination-attempt-at-golf-course-5725788)
-* [FTC Sued Over July Report Criticizing Pharmacy Middlemen](https://www.theepochtimes.com/us/ftc-sued-over-july-report-criticizing-pharmacy-middlemen-5725821)
+    ![Trump Speaks in Michigan After Second Assassination Attempt](https://img.theepochtimes.com/assets/uploads/2024/09/18/id5726114-GettyImages-2172740180-2-205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-speaks-in-michigan-after-second-assassination-attempt-5726039)
+* [The 2nd Trump Assassination Attempt: What’s Known So Far](https://www.theepochtimes.com/article/the-2nd-trump-assassination-attempt-whats-known-so-far-5725915)
     
-    NEW By [Chase Smith](https://www.theepochtimes.com/author/chase-smith)
+    NEW By [Samantha Flom](https://www.theepochtimes.com/author/samantha-flom)
     
-    [![FTC Sued Over July Report Criticizing Pharmacy Middlemen](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![The 2nd Trump Assassination Attempt: What’s Known So Far](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![FTC Sued Over July Report Criticizing Pharmacy Middlemen](https://img.theepochtimes.com/assets/uploads/2014/06/AP110721026778-205x123.jpg.webp)](https://www.theepochtimes.com/us/ftc-sued-over-july-report-criticizing-pharmacy-middlemen-5725821)
-* [Appeals Court Upholds Jeffrey Epstein Associate’s Sex Trafficking Conviction](https://www.theepochtimes.com/us/appeals-court-upholds-jeffrey-epstein-associates-sex-trafficking-conviction-5725791)
+    ![The 2nd Trump Assassination Attempt: What’s Known So Far](https://img.theepochtimes.com/assets/uploads/2024/09/17/id5725950-Trump-Golf-Assassin-1-205x123.jpg.webp)](https://www.theepochtimes.com/article/the-2nd-trump-assassination-attempt-whats-known-so-far-5725915)
+* [2nd Trump Assassination Attempt Raises New Security Questions](https://www.theepochtimes.com/us/2nd-trump-assassination-attempt-raises-new-security-questions-5725877)
     
-    2hr By [Zachary Stieber](https://www.theepochtimes.com/author/zachary-stieber)
+    3hr By [Janice Hisle](https://www.theepochtimes.com/reporter/janice-hisle)
     
-    [![Appeals Court Upholds Jeffrey Epstein Associate’s Sex Trafficking Conviction](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![2nd Trump Assassination Attempt Raises New Security Questions](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Appeals Court Upholds Jeffrey Epstein Associate’s Sex Trafficking Conviction](https://img.theepochtimes.com/assets/uploads/2022/03/09/Ghislaine-Maxwell-edited-205x123.jpg.webp)](https://www.theepochtimes.com/us/appeals-court-upholds-jeffrey-epstein-associates-sex-trafficking-conviction-5725791)
-* [Judge Denies RFK Jr.’s Bid to Withdraw From Wisconsin Ballot](https://www.theepochtimes.com/us/judge-denies-rfk-jr-s-bid-to-withdraw-from-wisconsin-ballot-5725709)
+    ![2nd Trump Assassination Attempt Raises New Security Questions](https://img.theepochtimes.com/assets/uploads/2024/09/15/id5724703-GettyImages-2171582602-205x123.jpg.webp)](https://www.theepochtimes.com/us/2nd-trump-assassination-attempt-raises-new-security-questions-5725877)
+* [Russian Election Interference Efforts Targeting Harris Campaign: Microsoft](https://www.theepochtimes.com/us/russian-election-interference-efforts-targeting-harris-campaign-microsoft-5725981)
     
-    2hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
+    3hr By [Andrew Thornebrooke](https://www.theepochtimes.com/author/andrew-thornebrooke)
     
-    [![Judge Denies RFK Jr.’s Bid to Withdraw From Wisconsin Ballot](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Russian Election Interference Efforts Targeting Harris Campaign: Microsoft](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Judge Denies RFK Jr.’s Bid to Withdraw From Wisconsin Ballot](https://img.theepochtimes.com/assets/uploads/2024/09/11/id5721908-09102024-DSC08342-RFK-JR-205x123.jpg.webp)](https://www.theepochtimes.com/us/judge-denies-rfk-jr-s-bid-to-withdraw-from-wisconsin-ballot-5725709)
-* [Speaker Johnson Says He’ll Try to Pass Stopgap Spending Bill Despite Opposition](https://www.theepochtimes.com/us/speaker-johnson-says-hell-try-to-pass-stopgap-spending-bill-despite-opposition-5725691)
+    ![Russian Election Interference Efforts Targeting Harris Campaign: Microsoft](https://img.theepochtimes.com/assets/uploads/2024/08/23/id5712047-GettyImages-1244584327_1KO-205x123.jpg.webp)](https://www.theepochtimes.com/us/russian-election-interference-efforts-targeting-harris-campaign-microsoft-5725981)
+* [Oregon Tribes Sue Federal Government in Bid to Delay Offshore Wind Auction](https://www.theepochtimes.com/us/oregon-tribes-sue-federal-government-in-bid-to-delay-offshore-wind-auction-5725754)
     
-    3hr By [Arjun Singh](https://www.theepochtimes.com/author/arjun-singh)
+    4hr By [Scottie Barnes](https://www.theepochtimes.com/author/scottie-barnes)
     
-    [![Speaker Johnson Says He’ll Try to Pass Stopgap Spending Bill Despite Opposition](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Oregon Tribes Sue Federal Government in Bid to Delay Offshore Wind Auction](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Speaker Johnson Says He’ll Try to Pass Stopgap Spending Bill Despite Opposition](https://img.theepochtimes.com/assets/uploads/2024/09/11/id5722508-GettyImages-2170520553-SB-205x123.jpg.webp)](https://www.theepochtimes.com/us/speaker-johnson-says-hell-try-to-pass-stopgap-spending-bill-despite-opposition-5725691)
-* [US Charges Employee of China’s State-Owned Aerospace Conglomerate With Phishing Scheme](https://www.theepochtimes.com/china/us-charges-employee-of-chinas-state-owned-aerospace-conglomerate-with-phishing-scheme-5725659)
+    ![Oregon Tribes Sue Federal Government in Bid to Delay Offshore Wind Auction](https://img.theepochtimes.com/assets/uploads/2024/03/27/id5616018-GettyImages-2097681547-205x123.jpg.webp)](https://www.theepochtimes.com/us/oregon-tribes-sue-federal-government-in-bid-to-delay-offshore-wind-auction-5725754)
+* [Charges Against Alleged Chinese Military Hacker Unsealed](https://www.theepochtimes.com/us/charges-against-alleged-chinese-military-hacker-unsealed-5725822)
     
-    5hr By [Frank Fang](https://www.theepochtimes.com/author/frank-fang), Epoch Times
+    5hr By [Catherine Yang](https://www.theepochtimes.com/author/catherine-yang), Epoch Times
     
-    [![US Charges Employee of China’s State-Owned Aerospace Conglomerate With Phishing Scheme](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Charges Against Alleged Chinese Military Hacker Unsealed](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![US Charges Employee of China’s State-Owned Aerospace Conglomerate With Phishing Scheme](https://img.theepochtimes.com/assets/uploads/2024/08/14/id5705621-07292024-DSC09128-DOJ-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/china/us-charges-employee-of-chinas-state-owned-aerospace-conglomerate-with-phishing-scheme-5725659)
-* [Local Lawmakers Condemn Brooklyn Attack on Falun Gong Practitioners](https://www.theepochtimes.com/us/local-lawmakers-condemn-brooklyn-attack-on-falun-gong-practitioners-5725630)
+    ![Charges Against Alleged Chinese Military Hacker Unsealed](https://img.theepochtimes.com/assets/uploads/2024/07/29/id5695801-07292024-DSC05993-DOJ-205x123.jpg.webp)](https://www.theepochtimes.com/us/charges-against-alleged-chinese-military-hacker-unsealed-5725822)
+* [Drug-Resistant Superbugs Forecast to Kill Tens of Millions by 2050, Study Warns](https://www.theepochtimes.com/us/drug-resistant-superbugs-forecast-to-kill-tens-of-millions-by-2050-study-warns-5725840)
     
-    5hr By [Eva Fu](https://www.theepochtimes.com/author/eva-fu) and [Catherine Yang](https://www.theepochtimes.com/author/catherine-yang)
+    5hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
     
-    [![Local Lawmakers Condemn Brooklyn Attack on Falun Gong Practitioners](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Drug-Resistant Superbugs Forecast to Kill Tens of Millions by 2050, Study Warns](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Local Lawmakers Condemn Brooklyn Attack on Falun Gong Practitioners](https://img.theepochtimes.com/assets/uploads/2024/09/17/id5725922-e5d8a3457f8970570e48d9ed.jpg-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/local-lawmakers-condemn-brooklyn-attack-on-falun-gong-practitioners-5725630)
-* [Thousands Injured in Series of Pager Explosions Across Lebanon, Officials Say](https://www.theepochtimes.com/world/thousands-injured-in-series-of-mysterious-pager-explosions-across-lebanon-state-media-and-officials-say-5725688)
+    ![Drug-Resistant Superbugs Forecast to Kill Tens of Millions by 2050, Study Warns](https://img.theepochtimes.com/assets/uploads/2023/05/04/id5241488-prescription-medication-205x123.jpeg.webp)](https://www.theepochtimes.com/us/drug-resistant-superbugs-forecast-to-kill-tens-of-millions-by-2050-study-warns-5725840)
+* [Man With Ties to Iran Pleads Not Guilty in Assassination Plot Against US Politicians](https://www.theepochtimes.com/us/man-with-ties-to-iran-pleads-not-guilty-in-assassination-plot-against-us-politicians-5725864)
     
-    5hr By [Ryan Morgan](https://www.theepochtimes.com/author/ryan-morgan)
+    5hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
     
-    [![Thousands Injured in Series of Pager Explosions Across Lebanon, Officials Say](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Man With Ties to Iran Pleads Not Guilty in Assassination Plot Against US Politicians](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Thousands Injured in Series of Pager Explosions Across Lebanon, Officials Say](https://img.theepochtimes.com/assets/uploads/2024/09/17/id5725781-GettyImages-2171810482.jpg-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/world/thousands-injured-in-series-of-mysterious-pager-explosions-across-lebanon-state-media-and-officials-say-5725688)
-* [Sean ‘Diddy’ Combs Indicted on Racketeering and Sex Trafficking Charges](https://www.theepochtimes.com/us/sean-diddy-combs-indicted-on-racketeering-and-sex-trafficking-charges-5725705)
+    ![Man With Ties to Iran Pleads Not Guilty in Assassination Plot Against US Politicians](https://img.theepochtimes.com/assets/uploads/2024/05/07/id5645337-FBI-CaliforniaKO-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/man-with-ties-to-iran-pleads-not-guilty-in-assassination-plot-against-us-politicians-5725864)
+* [Ohio AG Warns Springfield Not ‘Set Up’ to Have Thousands of Immigrants](https://www.theepochtimes.com/us/ohio-ag-warns-springfield-not-set-up-to-have-thousands-of-immigrants-5725848)
     
-    5hr By [Matt McGregor](https://www.theepochtimes.com/author/matt-mcgregor)
+    6hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
     
-    [![Sean ‘Diddy’ Combs Indicted on Racketeering and Sex Trafficking Charges](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Ohio AG Warns Springfield Not ‘Set Up’ to Have Thousands of Immigrants](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Sean ‘Diddy’ Combs Indicted on Racketeering and Sex Trafficking Charges](https://img.theepochtimes.com/assets/uploads/2024/09/17/id5725706-AP24261467731863-205x123.jpg.webp)](https://www.theepochtimes.com/us/sean-diddy-combs-indicted-on-racketeering-and-sex-trafficking-charges-5725705)
-* [Meta Launches Instagram Teen Accounts With New Safety Features, Parental Controls](https://www.theepochtimes.com/us/meta-launches-instagram-teen-accounts-with-new-safety-features-parental-controls-5725605)
+    ![Ohio AG Warns Springfield Not ‘Set Up’ to Have Thousands of Immigrants](https://img.theepochtimes.com/assets/uploads/2024/09/17/id5725413-Springfield-Ohio-GettyImages-2171699536-205x123.jpg.webp)](https://www.theepochtimes.com/us/ohio-ag-warns-springfield-not-set-up-to-have-thousands-of-immigrants-5725848)
+* [Day in Photos: European Floods, A Full Moon in Gaza, and a Dutch Royal Greeting](https://www.theepochtimes.com/article/day-in-photos-european-floods-a-full-moon-in-gaza-and-a-dutch-royal-greeting-5720999)
     
-    7hr By [Chase Smith](https://www.theepochtimes.com/author/chase-smith)
+    6hr By [Epoch Times Staff](https://www.theepochtimes.com/author/epoch-times-staff)
     
-    [![Meta Launches Instagram Teen Accounts With New Safety Features, Parental Controls](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Day in Photos: European Floods, A Full Moon in Gaza, and a Dutch Royal Greeting](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Meta Launches Instagram Teen Accounts With New Safety Features, Parental Controls](https://img.theepochtimes.com/assets/uploads/2024/09/17/id5725719-GettyImages-883745980-OP-205x123.jpg.webp)](https://www.theepochtimes.com/us/meta-launches-instagram-teen-accounts-with-new-safety-features-parental-controls-5725605)
+    ![Day in Photos: European Floods, A Full Moon in Gaza, and a Dutch Royal Greeting](https://img.theepochtimes.com/assets/uploads/2024/09/17/id5725910-GettyImages-2171820563-OP-205x123.jpg.webp)](https://www.theepochtimes.com/article/day-in-photos-european-floods-a-full-moon-in-gaza-and-a-dutch-royal-greeting-5720999)
 
 [![The Epoch Times](https://www.theepochtimes.com/assets/themes/eet/images/logo_eet.svg)](https://www.theepochtimes.com/)
 
@@ -343,19 +343,19 @@ DOWNLOAD OUR APP
     * [China Insider](https://www.theepochtimes.com/c-china-insider)
     * [Crossroads](https://www.theepochtimes.com/c-crossroads)
 
-* [Bright](https://api-dev.theepochtimes.com/page/bright)
-    * [Lifestyle](https://api-dev.theepochtimes.com/bright/radiant-life)
-    * [Inspired](https://api-dev.theepochtimes.com/bright/inspired)
-    * [Family & Education](https://api-dev.theepochtimes.com/bright/family-education)
-    * [Personal Finance](https://api-dev.theepochtimes.com/business/personal-finance)
-    * [American Essence](https://api-dev.theepochtimes.com/bright/american-essence)
-* [Entertainment](https://api-dev.theepochtimes.com/entertainment)
-    * [Film & TV](https://api-dev.theepochtimes.com/entertainment/film-tv)
-    * [Entertainment News](https://api-dev.theepochtimes.com/entertainment/entertainment-news)
-* [Health](https://api-dev.theepochtimes.com/health)
-    * [Experts](https://api-dev.theepochtimes.com/health/experts)
-    * [Conditions](https://api-dev.theepochtimes.com/health/treatments)
-    * [Life & Wellness](https://api-dev.theepochtimes.com/health/life-wellness)
+* [Bright](https://www.theepochtimes.com/page/bright)
+    * [Lifestyle](https://www.theepochtimes.com/bright/radiant-life)
+    * [Inspired](https://www.theepochtimes.com/bright/inspired)
+    * [Family & Education](https://www.theepochtimes.com/bright/family-education)
+    * [Personal Finance](https://www.theepochtimes.com/business/personal-finance)
+    * [American Essence](https://www.theepochtimes.com/bright/american-essence)
+* [Entertainment](https://www.theepochtimes.com/entertainment)
+    * [Film & TV](https://www.theepochtimes.com/entertainment/film-tv)
+    * [Entertainment News](https://www.theepochtimes.com/entertainment/entertainment-news)
+* [Health](https://www.theepochtimes.com/health)
+    * [Experts](https://www.theepochtimes.com/health/experts)
+    * [Conditions](https://www.theepochtimes.com/health/treatments)
+    * [Life & Wellness](https://www.theepochtimes.com/health/life-wellness)
 * [Special Topics](https://www.theepochtimes.com/most-popular)
     * [Battlefields](https://www.theepochtimes.com/t-battlefields)
 
