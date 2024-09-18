@@ -3,8 +3,6 @@ Welcome to Gaia! :: Terms of Service – Effective Date December 16, 2013
 
 [Gaia Home](https://www.gaiaonline.com/ "Return to the Gaia Homepage")
 
-  [![](//u1cdn.gaiaonline.com/mfs/index/adminupload/4b36efc4da3f.gif)](https://www.gaiaonline.com/forum/t.113992572 "Avatar Chat")
-
 [Login](https://www.gaiaonline.com/auth/?_gaia_t_=4952 "Login to Gaia") [Register](https://www.gaiaonline.com/register/?v=c&_gaia_t_=4950 "Create a free account now")
 
  Remember Me
@@ -13,7 +11,7 @@ Log In
 
 [Forgot your login?](https://www.gaiaonline.com/account/sendpass/ "Forgot your username/password?")
 
-5c3673ca63be9d9c5784bbf6831ca83252b8dd73bc9717715cf7f56de6ccf6725c3673ca63be9d9c5784bbf6831ca832
+b46767f79a03156319f89671b7569d35775f1bcacb0c5f7fc54a263baadee71bb46767f79a03156319f89671b7569d35
 
 * [My Gaia](https://www.gaiaonline.com/register/?v=c&&redirect=https%3A%2F%2Fwww.gaiaonline.com%2Fmygaia%2F)
 
@@ -531,4 +529,4 @@ Play with Platinum
 
 [More](https://www.gaiaonline.com/world/)
 
-![](https://www.gaiaonline.com/internal/mkt_t.php?mid[]=354&tm=1726624168)
+![](https://www.gaiaonline.com/internal/mkt_t.php?mid[]=354&tm=1726645745)
