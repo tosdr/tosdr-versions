@@ -1749,6 +1749,8 @@ What do top resumes look like? Check out these expertly-written samples:
 
 [Quality Control Specialist](https://cvcompiler.com/quality-control-specialist-resume-examples)
 
+[GCP](https://cvcompiler.com/gcp-resume-examples)
+
 ![Upload resume illustration](uploads-pre-acq/img/upload-illustration.svg)
 
 ### Upload  
