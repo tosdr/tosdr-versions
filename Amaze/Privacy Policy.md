@@ -4,7 +4,7 @@
 
  
 
-* [English-US](https://amaze.org/us/)
+* [English-USA](https://amaze.org/us/)
 * [عربي (Arabic)](https://amaze.org/arabic/)
 * [Afrikaans](https://amaze.org/africa/afrikaans/)
 * [Հայերեն (Armenian)](https://amaze.org/armenian/)
@@ -55,7 +55,7 @@
 * [Shqip (Albanian)](https://amaze.org/albanian/)
 * [සිංහල (Sinhala)](https://amaze.org/sinhala/)
 * [Slovenčine (Slovak)](https://amaze.org/slovak/)
-* [ᜏᜒᜃᜅ᜔ ᜆᜄᜎᜓᜄ᜔ (Tagalog)](https://ugatngkalusugan.org/)
+* [ᜏᜒᜃᜅ᜔ ᜆᜄᜎᜓᜄ᜔ (Tagalog)](https://amaze.org/tagalog/)
 * [தமிழ் (Tamil)](https://amaze.org/tamil/)
 * [ภาษาไทย (Thai)](https://amaze.org/thai/)
 * [Türkçe (Turkish)](https://amaze.org/turkish/)
@@ -76,7 +76,6 @@
 
 * About
     * [What is AMAZE?](https://amaze.org/what-is-amaze/)
-    * [Jobs](https://amaze.org/jobs/)
     * [Our Team](https://amaze.org/our-team/)
     * [Partners](https://amaze.org/partners/)
     * [Praise for AMAZE](https://amaze.org/praise-for-amaze/)
