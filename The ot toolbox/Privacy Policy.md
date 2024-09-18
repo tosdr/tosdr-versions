@@ -72,11 +72,11 @@ MENUMENU
                 * [Activities to Improve Smooth Visual Pursuits](https://www.theottoolbox.com/activities-smooth-pursuits/)
                 * [What is Visual Scanning](https://www.theottoolbox.com/what-is-visual-scanning/)
                 * [Classroom Accommodations for Visual Impairments](https://www.theottoolbox.com/visual-impairment-accommodations/)
-        * * [![Picture of person reaching over their head. Words read: "Crossing midline treatment activities"](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        * * [![Images of babies. Text reads Primitive Relaxes and occupational therapy](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
                 
-                ![Picture of person reaching over their head. Words read: "Crossing midline treatment activities"](https://www.theottoolbox.com/wp-content/uploads/2022/07/crossing-midline-occupational-therapy-treatment.png)](https://www.theottoolbox.com/crossing-midline-march-gross-motor/)
+                ![Images of babies. Text reads Primitive Relaxes and occupational therapy](https://www.theottoolbox.com/wp-content/uploads/2021/04/primitive-reflexes-occupational-therapy.png)](https://www.theottoolbox.com/retained-primitive-reflexes-child-development/)
                 
-                #### [Crossing Midline Activities](https://www.theottoolbox.com/crossing-midline-march-gross-motor/)
+                #### [Retained Primitive Reflexes & Child Development](https://www.theottoolbox.com/retained-primitive-reflexes-child-development/)
                 
 * [Free Resources](https://www.theottoolbox.com/category/free-resources/)
 * [The Shop](https://www.theottoolbox.com/shop/)
