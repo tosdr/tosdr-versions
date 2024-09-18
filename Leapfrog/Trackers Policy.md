@@ -249,9 +249,9 @@ If you choose to disable cookies, certain features of the Services may not be av
 ##### Connect With Us
 
 * [![Facebook](//t7.leapfrog.com/images/cq-png-alpha-no-resize/social_fb.png)](https://www.facebook.com/LeapFrog "Facebook")
+* [![Pinterest](//t7.leapfrog.com/images/cq-png-alpha-no-resize/social_pinterest.png)](https://www.pinterest.com/leapfroginc "Pinterest")
 * [![Twitter](https://t7.leapfrog.com/images/s/social_twitter.png)](https://www.x.com/LeapFrog "Twitter")
 * [![YouTube](//t7.leapfrog.com/images/cq-png-alpha-no-resize/social_youtube.png)](https://www.youtube.com/LeapFrogOfficialSite "YouTube")
-* [![Pinterest](//t7.leapfrog.com/images/cq-png-alpha-no-resize/social_pinterest.png)](https://www.pinterest.com/leapfroginc "Pinterest")
 * [![Instagram](https://t7.leapfrog.com/images/s/social_instagram.png)](https://www.instagram.com/leapfrogofficial/ "Instagram")
 
 ##### Be the first to know
