@@ -70,7 +70,6 @@ Other Products
 * [Website Backup & Recovery](https://www.sectigo.com/ssl-certificates-tls/code-guard-website-backup)
 * [HackerGuardian PCI Scanning](https://www.sectigo.com/ssl-certificates-tls/pci-scanning)
 * [eIDAS Solutions](https://www.sectigo.com/eidas-products)
-* eIDAS pour les plateformes publiques
 
 Sectigo Certificate Manager (SCM) Pro
 
@@ -187,7 +186,6 @@ Login
     * [Website Backup & Recovery](https://www.sectigo.com/ssl-certificates-tls/code-guard-website-backup)
     * [HackerGuardian PCI Scanning](https://www.sectigo.com/ssl-certificates-tls/pci-scanning)
     * [eIDAS Solutions](https://www.sectigo.com/eidas-products)
-    * eIDAS pour les plateformes publiques
     
 * Enterprise
     
