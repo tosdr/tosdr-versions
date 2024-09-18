@@ -183,7 +183,7 @@ The term of this DPA will follow the term of the Agreement. Terms not otherwise 
 
 1. [Definitions](#Definitions)
 2. [Customer Responsibilities](#Customer-Responsibilities)
-3. [HubSpot Obligations as a Processor](#HubSpot-Obligations)
+3. [HubSpot Obligations as Processor](#HubSpot-Obligations)
 4. [Data Subject Requests](#Data-Subject-Requests)
 5. [Sub-Processors](#Sub-Processors)[](#_ibaqbyalqoln)
 6. [Data Transfers](#Data-Transfers)[](#_tf88yy73gc3b)
@@ -264,7 +264,7 @@ b. Customer Instructions. You are responsible for ensuring that your Instruction
   
 c. Security. You are responsible for independently determining whether the data security provided for in the Subscription Service adequately meets your obligations under Data Protection Laws. You are also responsible for your secure use of the Subscription Service, including protecting the security of Personal Data in transit to and from the Subscription Service (including to securely backup or encrypt such data).
 
-**3\. HubSpot Obligations as a Processor** 
+**3\. HubSpot Obligations as Processor** 
 
 a. Compliance with Instructions. We will only Process Customer Personal Data for the purposes described in this DPA or as otherwise agreed within the scope of your lawful Instructions, except where and to the extent otherwise required by applicable law. We are not responsible for compliance with any Data Protection Laws applicable to you or your industry that are not generally applicable to us.
 
@@ -275,7 +275,7 @@ c. Security. We will implement and maintain appropriate technical and organizati
 d. Confidentiality. We will ensure that any personnel whom we authorize to Process Customer Personal Data on our behalf is subject to appropriate confidentiality obligations (whether a contractual or statutory duty) with respect to that Customer Personal Data.  
 e. Customer Personal Data Breaches. We will notify you without undue delay after we become aware of any Customer Personal Data Breach and will provide timely information relating to the Customer Personal Data Breach as it becomes known or reasonably requested by you. At your request, we will promptly provide you with such reasonable assistance as necessary to enable you to notify relevant Customer Personal Data Breaches to competent authorities and/or affected Data Subjects, if you are required to do so under Data Protection Laws.
 
-f. Deletion or Return of Customer Personal Data. We will delete or return all Customer Data, including Customer Personal Data (including copies thereof) Processed pursuant to this DPA, on termination or expiration of your Subscription Service in accordance with the procedures set out in our [Product Specific Terms](https://legal.hubspot.com/product-specific-terms). This term will apply except where we are required by applicable law to retain some or all of the Customer Data, or where we have archived Customer Data on back-up systems, which data we will securely isolate and protect from any further Processing and delete in accordance with our deletion practices. You may request the deletion of your HubSpot account after expiration or termination of your subscription by following the steps at [https://knowledge.hubspot.com/account/how-do-i-cancel-my-hubspot-account .](https://knowledge.hubspot.com/account/how-do-i-cancel-my-hubspot-account)
+e. Deletion or Return of Customer Personal Data. We will delete or return all Customer Data, including Customer Personal Data (including copies thereof) Processed pursuant to this DPA, on termination or expiration of your Subscription Service in accordance with the procedures set out in our [Product Specific Terms](https://legal.hubspot.com/product-specific-terms). This term will apply except where we are required by applicable law to retain some or all of the Customer Data, or where we have archived Customer Data on back-up systems, which data we will securely isolate and protect from any further Processing and delete in accordance with our deletion practices. You may request the deletion of your HubSpot account after expiration or termination of your subscription by following the steps at [https://knowledge.hubspot.com/account/how-do-i-cancel-my-hubspot-account .](https://knowledge.hubspot.com/account/how-do-i-cancel-my-hubspot-account)
 
 We strongly recommend retrieving your Customer Data prior to the end of your Subscription Term by following the instructions at the following knowledge base articles: "[Export your Content and Data](https://knowledge.hubspot.com/account-management/export-your-content-and-data?_gl=1*9u83or*_ga*MjE5NzY5NTg3LjE3MTYzMTU1ODY.*_ga_LXTM6CQ0XK*MTcxNjMxNTU4NS4xLjEuMTcxNjMxNTYwMS40NC4wLjA.)"; "[Export your Records](https://knowledge.hubspot.com/import-and-export/export-records?_gl=1*js5xf5*_ga*MjE5NzY5NTg3LjE3MTYzMTU1ODY.*_ga_LXTM6CQ0XK*MTcxNjMxNTU4NS4xLjEuMTcxNjMxNTYwMS40NC4wLjA.)"; "[Export your Ad Performance Data](https://knowledge.hubspot.com/ads/export-your-ads-campaign-data?_gl=1*js5xf5*_ga*MjE5NzY5NTg3LjE3MTYzMTU1ODY.*_ga_LXTM6CQ0XK*MTcxNjMxNTU4NS4xLjEuMTcxNjMxNTYwMS40NC4wLjA.)"; "[Export your Marketing Email Performance Data](https://knowledge.hubspot.com/marketing-email/how-do-i-export-my-overall-email-performance-data?_gl=1*js5xf5*_ga*MjE5NzY5NTg3LjE3MTYzMTU1ODY.*_ga_LXTM6CQ0XK*MTcxNjMxNTU4NS4xLjEuMTcxNjMxNTYwMS40NC4wLjA.)"; "[Perform a permanent delete in HubSpot](https://knowledge.hubspot.com/privacy-and-consent/how-do-i-perform-a-gdpr-delete-in-hubspot?_gl=1*1t7gbvj*_ga*MjE5NzY5NTg3LjE3MTYzMTU1ODY.*_ga_LXTM6CQ0XK*MTcxNjMxNTU4NS4xLjEuMTcxNjMxNTYwMS40NC4wLjA.)."  
 If you need help retrieving your Customer Data during the Subscription Term, we will provide reasonable assistance to you, at your cost, and in accordance with the ‘Confidentiality’ section of the [General Terms](https://legal.hubspot.com/terms-of-service).  
@@ -426,7 +426,7 @@ Your Contacts and other end users including your employees, contractors, collabo
 Categories of Personal Data Transferred  
 You may submit Personal Data to the Subscription Services, the extent of which is determined and controlled by you in your sole discretion, and which may include but is not limited to the following categories of Personal Data: 
 
-1\. Contact Information (as defined in the General Terms).  
+1\. Contact Information (as defined in the [General Terms](https://legal.hubspot.com/terms-of-service)).  
 2\. Any other Personal Data submitted by, sent to, or received by you, or your end users, via the Subscription Service.
 
 Sensitive Data Transferred and Applied Restrictions or Safeguards  
@@ -514,7 +514,7 @@ Outsourced processing: We host our Service with outsourced cloud infrastructure 
 
 Physical and environmental security: We host our product infrastructure with multi-tenant, outsourced infrastructure providers. We do not own or maintain hardware located at the outsourced infrastructure providers’ data centers. Production servers and client-facing applications are logically and physically secured from our internal corporate information systems. The infrastructure providers' physical and environmental security controls are audited for SOC 2 Type II and ISO 27001 compliance, among other certifications.
 
-Authentication: We implement a uniform password policy for our customer products. Customers who interact with the products via the user interface must authenticate before accessing non-public customer data.
+Authentication: We implement a uniform password policy for our customer products. Customers who interact with the products via the user interface must authenticate before accessing Customer Personal Data in their HubSpot account.
 
 Authorization: Customer Data is stored in multi-tenant storage systems accessible to Customers via only application user interfaces and application programming interfaces. Customers are not allowed direct access to the underlying application infrastructure. The authorization model in each of our products is designed to ensure that only the appropriately assigned individuals can access relevant features, views, and customization options. Authorization to data sets is performed through validating the user’s permissions against the attributes associated with each data set.
 
