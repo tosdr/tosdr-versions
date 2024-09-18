@@ -15,7 +15,7 @@
     
     ###### NEED
     
-    * [Community Engagement](https://www.edsby.com/solutions/community-engagement/)
+    * [Family Engagement](https://www.edsby.com/solutions/community-engagement/)
     * [Learning Management](https://www.edsby.com/solutions/learning-management-lms/)
     * [Assessment & Reporting](https://www.edsby.com/solutions/assessment-reporting/)
     * [Analytics](https://www.edsby.com/solutions/edsby-for-analytics/)
