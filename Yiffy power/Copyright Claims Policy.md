@@ -17,7 +17,6 @@ Yiff party Premium has now available for Bi-annual ! 🎉 [SUB NOW](https://yiff
 * [Feral](https://yiff-party.com/genre/feral/)
 * [Gif](https://yiff-party.com/category/yiff-gif/)
 * [AI](https://yiff-party.com/category/yiff-ai/)
-* [🆕 Comics](https://yiff-comics.com/?ref=YP)
 
 [](https://yiff-party.com/category/yiff-ai-premium/)
 
@@ -32,7 +31,6 @@ Yiff party Premium has now available for Bi-annual ! 🎉 [SUB NOW](https://yiff
 * [Feral](https://yiff-party.com/genre/feral/)
 * [Gif](https://yiff-party.com/category/yiff-gif/)
 * [AI](https://yiff-party.com/category/yiff-ai/)
-* [🆕 Comics](https://yiff-comics.com/?ref=YP)
 
 DMCA Yiff-Party.com
 ===================
@@ -79,7 +77,7 @@ Latest commented posts
 
 [kat (guys will literally see this and type and etc) created by softkathrin](https://yiff-party.com/yiff/kat-guys-will-literally-see-this-and-type-and-etc-created-by-softkathrin/)
 
-0 864 1
+0 881 1
 
 August 20, 2024
 
@@ -87,7 +85,7 @@ August 20, 2024
 
 [roxanne wolf (five nights at freddy’s: security breach and etc) created by yokaiduck](https://yiff-party.com/yiff/roxanne-wolf-five-nights-at-freddys-security-breach-and-etc-created-by-yokaiduck/)
 
-0 952 1
+0 967 1
 
 August 24, 2024
 
@@ -95,15 +93,15 @@ August 24, 2024
 
 [elena and elin (mythology) created by psychorodent](https://yiff-party.com/yiff/elena-and-elin-mythology-created-by-psychorodent/)
 
-0 378 1
+0 395 1
 
 August 24, 2024
 
-[](https://yiff-party.com/yiff/peregrina-errata-created-by-personalami/)
+[](https://yiff-party.com/yiff/directed-by-mirrormirage/)
 
-[peregrina errata created by personalami](https://yiff-party.com/yiff/peregrina-errata-created-by-personalami/)
+[directed by mirrormirage](https://yiff-party.com/yiff/directed-by-mirrormirage/)
 
-0 71 0
+0 93 0
 
 August 19, 2024
 
