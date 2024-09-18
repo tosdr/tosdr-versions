@@ -401,6 +401,24 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
+ [![Dallas chain reaction crash survivor thankful to be alive after wreck claims 4 lives](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/P-AMELIA-I45-SIMPSON-STUART-RD-CRASH-9P_KDFW17c2_7_00.01.24.42.jpg?ve=1&tl=1)
+
+ ![Dallas chain reaction crash survivor thankful to be alive after wreck claims 4 lives](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/592/333/P-AMELIA-I45-SIMPSON-STUART-RD-CRASH-9P_KDFW17c2_7_00.01.24.42.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/dallas-chain-reaction-crash-survivor-thankful-be-alive-after-wreck-claims-4-lives)
+
+### [Dallas chain reaction crash survivor thankful to be alive after wreck claims 4 lives](https://www.fox4news.com/news/dallas-chain-reaction-crash-survivor-thankful-be-alive-after-wreck-claims-4-lives)
+
+ [![Murdered Kaufman County woman's stolen car at center of deadly Richardson police chase](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/richardson-police-chase.png?ve=1&tl=1)
+
+ ![Murdered Kaufman County woman's stolen car at center of deadly Richardson police chase](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/592/333/richardson-police-chase.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/murdered-kaufman-county-womans-stolen-car-center-deadly-richardson-police-chase)
+
+### [Murdered Kaufman County woman's stolen car at center of deadly Richardson police chase](https://www.fox4news.com/news/murdered-kaufman-county-womans-stolen-car-center-deadly-richardson-police-chase)
+
+ [![Diddy headed to jail, to be held without bail in sex trafficking case](https://images.foxtv.com/static.fox5ny.com/www.fox5ny.com/content/uploads/2024/05/32/18/GettyImages-1780945546.jpg?ve=1&tl=1)
+
+ ![Diddy headed to jail, to be held without bail in sex trafficking case](https://images.foxtv.com/images.foxtv.com/static.fox5ny.com/www.fox5ny.com/content/uploads/2024/05/32/18/592/333/GettyImages-1780945546.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/nyc-diddy-sean-combs-arrested-federal-indictment)
+
+### [Diddy headed to jail, to be held without bail in sex trafficking case](https://www.fox4news.com/news/nyc-diddy-sean-combs-arrested-federal-indictment)
+
  [![Developers, city questioned about duplexes built in violation of Elm Thicket zoning rules](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/091724-jg-ellum-thicket-vs-city-zoning-5PKG-brown-_00.00.35.50.jpg?ve=1&tl=1)
 
  ![Developers, city questioned about duplexes built in violation of Elm Thicket zoning rules](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/592/333/091724-jg-ellum-thicket-vs-city-zoning-5PKG-brown-_00.00.35.50.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/elm-thicket-ellum-thicket-zoning-update-sept-17)
@@ -412,24 +430,6 @@ Please note that, in some instances, we may decline to honor your request where,
  ![Cabin pressure issue on Delta flight causes ear pain, bloody noses for passengers](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/592/333/GettyImages-2166796107.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/delta-flight-cabin-pressure)
 
 ### [Cabin pressure issue on Delta flight causes ear pain, bloody noses for passengers](https://www.fox4news.com/news/delta-flight-cabin-pressure)
-
- [![Kratom drink 'New Brew' banned in some states; here's why](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/GettyImages-1347090018.jpg?ve=1&tl=1)
-
- ![Kratom drink 'New Brew' banned in some states; here's why](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/592/333/GettyImages-1347090018.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/kratom-drink-new-brew-banned-some-states-heres-why)
-
-### [Kratom drink 'New Brew' banned in some states; here's why](https://www.fox4news.com/news/kratom-drink-new-brew-banned-some-states-heres-why)
-
- [![Donald Trump meets with Florida deputies who detained alleged assassination suspect: 'I'm still here'](https://images.foxtv.com/static.fox35orlando.com/www.fox35orlando.com/content/uploads/2024/09/32/18/Donald-Trump-Martin-County.jpg?ve=1&tl=1)
-
- ![Donald Trump meets with Florida deputies who detained alleged assassination suspect: 'I'm still here'](https://images.foxtv.com/images.foxtv.com/static.fox35orlando.com/www.fox35orlando.com/content/uploads/2024/09/32/18/592/333/Donald-Trump-Martin-County.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/donald-trump-meets-florida-deputies-who-detained-alleged-assassination-suspect-im-still-here)
-
-### [Donald Trump meets with Florida deputies who detained alleged assassination suspect: 'I'm still here'](https://www.fox4news.com/news/donald-trump-meets-florida-deputies-who-detained-alleged-assassination-suspect-im-still-here)
-
- [![Not just salary: New listing ranks best and worst states for teachers](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/Teaching.jpg?ve=1&tl=1)
-
- ![Not just salary: New listing ranks best and worst states for teachers](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/592/333/Teaching.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/not-just-salary-new-listing-ranks-best-worst-states-teachers)
-
-### [Not just salary: New listing ranks best and worst states for teachers](https://www.fox4news.com/news/not-just-salary-new-listing-ranks-best-worst-states-teachers)
 
 ###### [News](https://www.fox4news.com/news)
 
