@@ -269,7 +269,7 @@ article 6 days ago](https://www.nasa.gov/missions/station/nasas-spacex-crew-9-to
 
 ### NASA Astronaut Tracy C. Dyson’s Scientific Mission aboard Space Station
 
-article 2 mins ago](https://www.nasa.gov/missions/station/iss-research/nasa-astronaut-tracy-c-dyson-scientific-mission-aboard-space-station/)[![Two astronauts float inside a densely packed laboratory module on the International Space Station, surrounded by a complex array of scientific equipment, cables, and instruments.](https://www.nasa.gov/wp-content/uploads/2024/09/iss043e099306orig.jpg?w=1024)
+article 6 hours ago](https://www.nasa.gov/missions/station/iss-research/nasa-astronaut-tracy-c-dyson-scientific-mission-aboard-space-station/)[![Two astronauts float inside a densely packed laboratory module on the International Space Station, surrounded by a complex array of scientific equipment, cables, and instruments.](https://www.nasa.gov/wp-content/uploads/2024/09/iss043e099306orig.jpg?w=1024)
 
 3 min read
 
@@ -313,7 +313,7 @@ article 7 days ago](https://www.nasa.gov/earth/nasa-finds-summer-2024-hottest-to
 
 ### 8 Things to Know About NASA’s Mission to an Ocean Moon of Jupiter
 
-article 22 hours ago](https://www.nasa.gov/missions/europa-clipper/8-things-to-know-about-nasas-mission-to-an-ocean-moon-of-jupiter/)[![Solar Storms and Flares](https://science.nasa.gov/wp-content/uploads/2024/06/x-flare-may-8-2024-131-171-red-crop2.jpg)
+article 1 day ago](https://www.nasa.gov/missions/europa-clipper/8-things-to-know-about-nasas-mission-to-an-ocean-moon-of-jupiter/)[![Solar Storms and Flares](https://science.nasa.gov/wp-content/uploads/2024/06/x-flare-may-8-2024-131-171-red-crop2.jpg)
 
 2 min read
 
@@ -329,47 +329,47 @@ article 5 days ago](https://science.nasa.gov/missions/artemis/nasas-artemis-ii-c
 
 ### Featured
 
-[![the Roman spacecraft bus](https://www.nasa.gov/wp-content/uploads/2024/09/spacecraft-001.jpg?w=1024)
+[![NASA’s Webb Provides Another Look Into Galactic Collisions](https://science.nasa.gov/wp-content/uploads/2024/09/webb-stsci-01j7493cj4zg05r3txkm6be0s6-2k.png)
+
+4 min read
+
+### NASA’s Webb Provides Another Look Into Galactic Collisions
+
+article 5 hours ago](https://science.nasa.gov/missions/webb/nasas-webb-provides-another-look-into-galactic-collisions/)[![the Roman spacecraft bus](https://www.nasa.gov/wp-content/uploads/2024/09/spacecraft-001.jpg?w=1024)
 
 5 min read
 
 ### NASA Completes Spacecraft to Transport, Support Roman Space Telescope
 
-article 22 hours ago](https://www.nasa.gov/missions/roman-space-telescope/nasa-completes-spacecraft-to-transport-support-roman-space-telescope/)[![NASA’s Hubble Finds More Black Holes than Expected in the Early Universe](https://science.nasa.gov/wp-content/uploads/2024/09/hubble-hudf-blackholes-stsci-01j6yyrz61qn4exe2hx9dxzj9s.png)
+article 1 day ago](https://www.nasa.gov/missions/roman-space-telescope/nasa-completes-spacecraft-to-transport-support-roman-space-telescope/)[![NASA’s Hubble Finds More Black Holes than Expected in the Early Universe](https://science.nasa.gov/wp-content/uploads/2024/09/hubble-hudf-blackholes-stsci-01j6yyrz61qn4exe2hx9dxzj9s.png)
 
 4 min read
 
 ### NASA’s Hubble Finds More Black Holes than Expected in the Early Universe
 
-article 23 hours ago](https://science.nasa.gov/missions/hubble/nasas-hubble-finds-more-black-holes-than-expected-in-the-early-universe/)[![Hubble Examines a Spiral Star Factory](https://science.nasa.gov/wp-content/uploads/2024/09/hubble-ngc5668-potw2437a.jpg)
-
-2 min read
-
-### Hubble Examines a Spiral Star Factory
-
-article 5 days ago](https://science.nasa.gov/missions/hubble/hubble-examines-a-spiral-star-factory/)
+article 1 day ago](https://science.nasa.gov/missions/hubble/nasas-hubble-finds-more-black-holes-than-expected-in-the-early-universe/)
 
 ### Highlights
 
-[![ICESat-2 Hosts Third Applications Workshop](https://science.nasa.gov/wp-content/uploads/2024/08/icesat2-figure-1.png)
+[![NASA’s Webb Provides Another Look Into Galactic Collisions](https://science.nasa.gov/wp-content/uploads/2024/09/webb-stsci-01j7493cj4zg05r3txkm6be0s6-2k.png)
+
+4 min read
+
+### NASA’s Webb Provides Another Look Into Galactic Collisions
+
+article 5 hours ago](https://science.nasa.gov/missions/webb/nasas-webb-provides-another-look-into-galactic-collisions/)[![ICESat-2 Hosts Third Applications Workshop](https://science.nasa.gov/wp-content/uploads/2024/08/icesat2-figure-1.png)
 
 16 min read
 
 ### ICESat-2 Hosts Third Applications Workshop
 
-article 19 hours ago](https://science.nasa.gov/science-research/earth-science/icesat-2-hosts-third-applications-workshop/)[![Amendment 49: A.55 Decadal Survey Incubation Program: Science and Technology Final Text and Due Dates](https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000002/GSFC_20171208_Archive_e000002~large.jpg)
+article 1 day ago](https://science.nasa.gov/science-research/earth-science/icesat-2-hosts-third-applications-workshop/)[![Amendment 49: A.55 Decadal Survey Incubation Program: Science and Technology Final Text and Due Dates](https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000002/GSFC_20171208_Archive_e000002~large.jpg)
 
 1 min read
 
 ### Amendment 49: A.55 Decadal Survey Incubation Program: Science and Technology Final Text and Due Dates
 
-article 21 hours ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-49-a-55-decadal-survey-incubation-program-science-and-technology-final-text-and-due-dates/)[![Celebrating the First Earth Day Event at NASA Headquarters](https://science.nasa.gov/wp-content/uploads/2024/09/mainphoto.jpg)
-
-4 min read
-
-### Celebrating the First Earth Day Event at NASA Headquarters
-
-article 22 hours ago](https://science.nasa.gov/science-research/earth-science/celebrating-the-first-earth-day-event-at-nasa-headquarters/)
+article 1 day ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-49-a-55-decadal-survey-incubation-program-science-and-technology-final-text-and-due-dates/)
 
 ### Highlights
 
@@ -401,19 +401,19 @@ article 2 weeks ago](https://www.nasa.gov/centers-and-facilities/glenn/nasa-tunn
 
 ### Reinventing the Clock: NASA’s New Tech for Space Timekeeping
 
-article 1 hour ago](https://www.nasa.gov/technology/goddard-tech/reinventing-the-clock-nasas-new-tech-for-space-timekeeping/)[![An Apollo astronaut preparing to climb the ladder into the lunar module's ascent stage, his spacesuit is covered in lunar dust.](https://images-assets.nasa.gov/image/as17-134-20481/as17-134-20481~large.jpg?w=1920&h=1920&fit=clip&crop=faces%2Cfocalpoint)
+article 7 hours ago](https://www.nasa.gov/technology/goddard-tech/reinventing-the-clock-nasas-new-tech-for-space-timekeeping/)[![An Apollo astronaut preparing to climb the ladder into the lunar module's ascent stage, his spacesuit is covered in lunar dust.](https://images-assets.nasa.gov/image/as17-134-20481/as17-134-20481~large.jpg?w=1920&h=1920&fit=clip&crop=faces%2Cfocalpoint)
 
 3 min read
 
 ### Measuring Moon Dust to Fight Air Pollution
 
-article 16 hours ago](https://www.nasa.gov/technology/tech-transfer-spinoffs/measuring-moon-dust-to-fight-air-pollution-2/)[![Amendment 49: A.55 Decadal Survey Incubation Program: Science and Technology Final Text and Due Dates](https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000002/GSFC_20171208_Archive_e000002~large.jpg)
+article 22 hours ago](https://www.nasa.gov/technology/tech-transfer-spinoffs/measuring-moon-dust-to-fight-air-pollution-2/)[![Amendment 49: A.55 Decadal Survey Incubation Program: Science and Technology Final Text and Due Dates](https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000002/GSFC_20171208_Archive_e000002~large.jpg)
 
 1 min read
 
 ### Amendment 49: A.55 Decadal Survey Incubation Program: Science and Technology Final Text and Due Dates
 
-article 21 hours ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-49-a-55-decadal-survey-incubation-program-science-and-technology-final-text-and-due-dates/)
+article 1 day ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-49-a-55-decadal-survey-incubation-program-science-and-technology-final-text-and-due-dates/)
 
 ### Featured
 
