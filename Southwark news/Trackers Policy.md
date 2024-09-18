@@ -19,6 +19,10 @@
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![England footballing heros John Stones and Peter Shilton attended The Salvation Army's annual Partnership Trophy in 2023](https://southwarknews.co.uk/wp-content/uploads/2024/09/England-footballing-heros-John-Stones-and-Peter-Shilton-attended-The-Salvation-Armys-annual-Partnership-Trophy-in-2023-360x180.jpeg)](https://southwarknews.co.uk/area/camberwell/homeless-camberwell-teens-to-play-in-football-tournament-admired-by-pep-guardiola/)
+    
+    ### [Homeless Camberwell teens to play in football tournament admired by Pep Guardiola](https://southwarknews.co.uk/area/camberwell/homeless-camberwell-teens-to-play-in-football-tournament-admired-by-pep-guardiola/)
+    
     [![Neil Coyle has managed to see the funny side of the situation but insists MPs' safety remains a serious issue](https://southwarknews.co.uk/wp-content/uploads/2024/09/Neil-Coyle-has-managed-to-see-the-funny-side-of-the-situation-but-insists-MPs-safety-remains-a-serious-issue-360x180.png)](https://southwarknews.co.uk/area/bermondsey/furious-mp-neil-coyle-searching-for-gollum-lookalike-and-says-he-must-apologise-for-egging-his-office/)
     
     ### [Furious MP Neil Coyle searching for ‘Gollum lookalike’ and says he must apologise for egging his office](https://southwarknews.co.uk/area/bermondsey/furious-mp-neil-coyle-searching-for-gollum-lookalike-and-says-he-must-apologise-for-egging-his-office/)
@@ -50,11 +54,6 @@
     [![Miatta Fahnbulleh (second from left) visited the store to thank workers.](https://southwarknews.co.uk/wp-content/uploads/2024/09/Southwark-Food-Bank-Morrisons-1-1-360x180.png)](https://southwarknews.co.uk/area/peckham/morrisons-supermarket-becomes-latest-donor-to-burgled-peckham-food-bank-with-1000-contribution/)
     
     ### [Morrisons supermarket becomes latest donor to burgled Peckham food bank with £1,000 contribution](https://southwarknews.co.uk/area/peckham/morrisons-supermarket-becomes-latest-donor-to-burgled-peckham-food-bank-with-1000-contribution/)
-    
-    [![Bayo Dosunmu 
-    Photo by Facundo Arrizabalaga/MyLondon](https://southwarknews.co.uk/wp-content/uploads/2024/09/Bayo-Dosunmu-ex-chief-executive-of-Lambeth-Council-360x180.jpg)](https://southwarknews.co.uk/featured/former-top-council-boss-has-been-disqualified-from-driving-for-two-years/)
-    
-    ### [Former top council boss has been disqualified from driving for two years](https://southwarknews.co.uk/featured/former-top-council-boss-has-been-disqualified-from-driving-for-two-years/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [In depth history](https://southwarknews.co.uk/category/history/in-depth-history/)
@@ -100,6 +99,10 @@ View All Result
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![England footballing heros John Stones and Peter Shilton attended The Salvation Army's annual Partnership Trophy in 2023](https://southwarknews.co.uk/wp-content/uploads/2024/09/England-footballing-heros-John-Stones-and-Peter-Shilton-attended-The-Salvation-Armys-annual-Partnership-Trophy-in-2023-360x180.jpeg)](https://southwarknews.co.uk/area/camberwell/homeless-camberwell-teens-to-play-in-football-tournament-admired-by-pep-guardiola/)
+    
+    ### [Homeless Camberwell teens to play in football tournament admired by Pep Guardiola](https://southwarknews.co.uk/area/camberwell/homeless-camberwell-teens-to-play-in-football-tournament-admired-by-pep-guardiola/)
+    
     [![Neil Coyle has managed to see the funny side of the situation but insists MPs' safety remains a serious issue](https://southwarknews.co.uk/wp-content/uploads/2024/09/Neil-Coyle-has-managed-to-see-the-funny-side-of-the-situation-but-insists-MPs-safety-remains-a-serious-issue-360x180.png)](https://southwarknews.co.uk/area/bermondsey/furious-mp-neil-coyle-searching-for-gollum-lookalike-and-says-he-must-apologise-for-egging-his-office/)
     
     ### [Furious MP Neil Coyle searching for ‘Gollum lookalike’ and says he must apologise for egging his office](https://southwarknews.co.uk/area/bermondsey/furious-mp-neil-coyle-searching-for-gollum-lookalike-and-says-he-must-apologise-for-egging-his-office/)
@@ -131,11 +134,6 @@ View All Result
     [![Miatta Fahnbulleh (second from left) visited the store to thank workers.](https://southwarknews.co.uk/wp-content/uploads/2024/09/Southwark-Food-Bank-Morrisons-1-1-360x180.png)](https://southwarknews.co.uk/area/peckham/morrisons-supermarket-becomes-latest-donor-to-burgled-peckham-food-bank-with-1000-contribution/)
     
     ### [Morrisons supermarket becomes latest donor to burgled Peckham food bank with £1,000 contribution](https://southwarknews.co.uk/area/peckham/morrisons-supermarket-becomes-latest-donor-to-burgled-peckham-food-bank-with-1000-contribution/)
-    
-    [![Bayo Dosunmu 
-    Photo by Facundo Arrizabalaga/MyLondon](https://southwarknews.co.uk/wp-content/uploads/2024/09/Bayo-Dosunmu-ex-chief-executive-of-Lambeth-Council-360x180.jpg)](https://southwarknews.co.uk/featured/former-top-council-boss-has-been-disqualified-from-driving-for-two-years/)
-    
-    ### [Former top council boss has been disqualified from driving for two years](https://southwarknews.co.uk/featured/former-top-council-boss-has-been-disqualified-from-driving-for-two-years/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [In depth history](https://southwarknews.co.uk/category/history/in-depth-history/)
@@ -233,6 +231,12 @@ Image from Google Street View](https://southwarknews.co.uk/wp-content/uploads/20
 
 ### Featured Articles
 
+[![England footballing heros John Stones and Peter Shilton attended The Salvation Army's annual Partnership Trophy in 2023](https://southwarknews.co.uk/wp-content/uploads/2024/09/England-footballing-heros-John-Stones-and-Peter-Shilton-attended-The-Salvation-Armys-annual-Partnership-Trophy-in-2023-120x86.jpeg)](https://southwarknews.co.uk/area/camberwell/homeless-camberwell-teens-to-play-in-football-tournament-admired-by-pep-guardiola/)
+
+### [Homeless Camberwell teens to play in football tournament admired by Pep Guardiola](https://southwarknews.co.uk/area/camberwell/homeless-camberwell-teens-to-play-in-football-tournament-admired-by-pep-guardiola/)
+
+[18th September 2024](https://southwarknews.co.uk/area/camberwell/homeless-camberwell-teens-to-play-in-football-tournament-admired-by-pep-guardiola/)
+
 [![Neil Coyle has managed to see the funny side of the situation but insists MPs' safety remains a serious issue](https://southwarknews.co.uk/wp-content/uploads/2024/09/Neil-Coyle-has-managed-to-see-the-funny-side-of-the-situation-but-insists-MPs-safety-remains-a-serious-issue-120x86.png)](https://southwarknews.co.uk/area/bermondsey/furious-mp-neil-coyle-searching-for-gollum-lookalike-and-says-he-must-apologise-for-egging-his-office/)
 
 ### [Furious MP Neil Coyle searching for ‘Gollum lookalike’ and says he must apologise for egging his office](https://southwarknews.co.uk/area/bermondsey/furious-mp-neil-coyle-searching-for-gollum-lookalike-and-says-he-must-apologise-for-egging-his-office/)
@@ -262,12 +266,6 @@ Image from Google Street View](https://southwarknews.co.uk/wp-content/uploads/20
 ### [Southbank Centre announces Winter Literature Season line-up](https://southwarknews.co.uk/area/south-bank/southbank-centre-announces-winter-literature-season-line-up/)
 
 [17th September 2024](https://southwarknews.co.uk/area/south-bank/southbank-centre-announces-winter-literature-season-line-up/)
-
-[![The Stoney Street entrance to Borough Market. Credit: Southwark Liberal Democrats](https://southwarknews.co.uk/wp-content/uploads/2024/09/PXL_20240903_141010252.MP_-e1726565110180-120x86.jpeg)](https://southwarknews.co.uk/area/borough/1-million-anti-terrorism-barriers-for-borough-market-ditched-in-big-win-for-traders/)
-
-### [£1 million anti-terrorism barriers for Borough Market ditched in ‘big win’ for traders](https://southwarknews.co.uk/area/borough/1-million-anti-terrorism-barriers-for-borough-market-ditched-in-big-win-for-traders/)
-
-[17th September 2024](https://southwarknews.co.uk/area/borough/1-million-anti-terrorism-barriers-for-borough-market-ditched-in-big-win-for-traders/)
 
 ### USEFUL PAGES
 
