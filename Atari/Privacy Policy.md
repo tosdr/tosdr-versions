@@ -567,13 +567,13 @@ Includes the NEW Wireless CX78+ Gamepad
 NEW RELEASES
 ------------
 
-[![](files/Image4-Lifestyle.png)
+[![](files/Valhalla2_Final_Keyart_sample_21f621ba-e199-4112-812a-60187db50112.jpg)
 
-### Super Pocket Atari Edition
+### Volgarr the Viking II - Physical Edition
 
-The popular 50-game handheld from HyperMegaTech returns, Atari style! 
+More than a decade after Volgarr the Viking’s chaotic, challenging debut, the barbarian king’s story continues in an uncompromising new form.
 
-Pre-Order Today](https://www.atari.com/products/super-pocket-atari-edition)[![](files/Product_Image_abea9221-7178-4364-9526-7d5870fc8671.png)
+Pre-Order Today](https://atari.com/products/volgarr-the-viking-ii)[![](files/Product_Image_abea9221-7178-4364-9526-7d5870fc8671.png)
 
 ### YARS RISING
 
