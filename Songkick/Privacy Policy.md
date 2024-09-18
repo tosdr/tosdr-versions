@@ -5,8 +5,6 @@
         
         *  [![Lucinda Williams Concert Tickets - 2024 Tour Dates](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Lucinda Williams  
             White Eagle Hall](https://www.songkick.com/concerts/42164992-lucinda-williams-at-white-eagle-hall)
-        *  [![The Dracu-Las (NJ) Concert Tickets - 2024 Tour Dates](//assets.sk-static.com/images/default_images/thumb/default-artist.png) The Dracu-Las (NJ)  
-            White Eagle Hall](https://www.songkick.com/concerts/42140044-draculas-nj-at-white-eagle-hall)
         
         [](https://www.songkick.com/metro-areas/4690-us-jersey-city)See all Jersey City concerts ([Change location](https://www.songkick.com/session/filter_metro_area))  
           
