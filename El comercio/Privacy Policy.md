@@ -31,6 +31,589 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
+La reforma constitucional, un debate necesario
+==============================================
+
+El Presidente sometió al control de materia a su propuesta de reforma de la Carta Magna ante la Corte Constitucional
+--------------------------------------------------------------------------------------------------------------------
+
+![La Corte Constitucional recibió el proyecto del Ejecutivo para reformar el artículo 5 de la Constitución.](https://www.elcomercio.com/wp-content/uploads/2024/09/Untitled-design-18.jpg)
+
+El reciente anuncio del presidente Daniel Noboa de impulsar una **reforma constitucional** para modificar el artículo 5 de la **Constitución** ha impulsado un **debate necesario en Ecuador**. El artículo prohíbe la instalación de bases militares extranjeras en territorio ecuatoriano y permitió el cierre de la base estadounidense en Manta. No obstante, la realidad del país ha cambiado, y la propuesta del Ejecutivo apunta precisamente a responder a esas **nuevas amenazas**[.](https://es.wikipedia.org/wiki/Reforma_constitucional "https://es.wikipedia.org/wiki/Reforma_constitucional")
+
+Desde que en 2009 se puso fin a la presencia militar estadounidense en **Manta**, el contexto regional e internacional ha evidenciado que la simple **ausencia de bases extranjeras** no garantiza una mayor autonomía ni seguridad. El Ejecutivo ha sido claro en este punto: la retirada de las tropas estadounidenses no trajo la soberanía esperada. Por el contrario, afirma que Ecuador se ha vuelto más **vulnerable** ante amenazas transnacionales como el narcotráfico y el crimen organizado.
+
+> La propuesta de reforma impulsada por el Gobierno no puede ser vista como una simple cuestión de presencia militar extranjera. Se trata de un tema mucho más amplio que involucra la seguridad de los ciudadanos y la capacidad del país para hacer frente a las amenazas del crimen organizado.
+
+El presidente utiliza un lenguaje contundente al señalar que la salida de las fuerzas estadounidenses de Manta fue, en sus [palabras](https://www.elcomercio.com/actualidad/politica/daniel-noboa-pide-control-constitucional-tema-bases-extranjeras-cc.html), “el primer pacto con el crimen transnacional”. Esta afirmación, aunque polémica, resalta una **realidad innegable**: el aumento de la criminalidad y el narcotráfico en el país ha puesto en jaque la seguridad ciudadana. En este sentido, plantea que el **debate** sobre la soberanía no debe centrarse únicamente en la presencia de bases extranjeras, sino en la capacidad del país para enfrentar **amenazas** que no respetan fronteras.
+
+En este escenario, la **cooperación** **internacional** en materia de seguridad no solo es deseable, sino necesaria. La pregunta es si esa cooperación debe incluir la presencia física de fuerzas extranjeras en suelo ecuatoriano. Para el Ejecutivo, la respuesta es afirmativa, siempre y cuando se establezcan los controles y acuerdos necesarios para proteger la soberanía nacional.
+
+El proyecto de reforma presentado ante la **Corte Constitucional** para su control constitucional es un primer paso en lo que seguramente será un largo y complejo proceso. Sin embargo, el verdadero debate se desarrollará en la arena política y social, donde se deberán sopesar los riesgos y beneficios de la medida.
+
+La propuesta de reforma impulsada por el Gobierno no puede ser vista como una simple cuestión de presencia militar extranjera. Se trata de un **tema mucho más amplio** que involucra la seguridad de los ciudadanos y la capacidad del país para hacer frente a las amenazas del crimen organizado.
+
+Los responsables
+================
+
+No existe ley que establezca la responsabilidad personal y pecuniaria de los causantes del actual estado de descomposición de la República.
+-------------------------------------------------------------------------------------------------------------------------------------------
+
+![Francisco Rosales Ramos, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Francisco-Rosales-Ramos.jpg)
+
+El país debe tener presentes los nombres de los **asambleístas** que redactaron la **constitución** de **Montecristi**, principal causante del **caos institucional** que vive la nación. Una **carta política**, extensa, farragosa, inconsistente, contradictoria, mentirosa, fraudulenta -pues incluye normas que jamás se discutieron ni aprobaron-y extranjerizante, ya que fue inspirada por dos profesores españoles que recolonizaron a algunos **países** de **América Latina** embobados con el azote llamado **Socialismo** del **Siglo XXI.**
+
+Tiene 440 artículos, 31 disposiciones transitorias y 35 artículos adicionales del **régimen transitorio** que, en total, ocupan 173 páginas del **Registro Oficial.** Este mamotreto ha descoyuntado a la **nación** con normas tan torpes como crear 5 poderes o funciones en lugar de las tres –**Legislativo**, **Ejecutivo** y **Judicial**– que vienen desde **Montesquieu** y son propios de las **democracias** estructuradas. Creó ese engendro maligno que es el **Consejo de Participación Ciudadana y Control Social,** cuyo dominio los **políticos** se pelean a dentelladas para tener cooptadas las **autoridades** de **control**. La **reelección** indefinida del **jefe de Estado**, que se convierte en **dictadura** disfrazada. O el **trasplante** incompleto y tonto de una **institución** propia de los **sistemas parlamentarios** que permite disolver el **órgano legislativo** y llamar a elecciones generales para apenas completar el período interrumpido. U otras tan intrascendentes como denominar **Corte Nacional,** a la tradicional **Corte Suprema**, **Consejo Nacional Electoral,** al **Tribunal Supremo Electoral**, **Asamblea** al **Congreso**, etcétera.
+
+El espacio de este comentario sería insuficiente para apenas enumerar los **defectos** de la **Constitución** de 2008 que, según sus autores, debía durar 300 años, pero que pronto ellos mismos impulsaron sus **reformas**.
+
+Con mala fe se dice que fue el **pueblo**, con una **votación** de más del 63% de los **sufragios** quien la aprobó, pero se oculta que menos del 1% de los votantes siquiera la leyó, menos la estudió y la comprendió. La enorme mayoría acudió a las **urnas** embobadas por los encantadores de serpientes que proclamaban la excelsitud del documento de **Montecristi**, que sería la piedra angular del nuevo **Ecuador**.
+
+No existe **ley** que establezca la **responsabilidad personal** y pecuniaria de los causantes del actual **estado** de descomposición de la **República**, pero al menos es mandatorio no olvidar sus nombres para escarnio público en esta hora de **trastorno nacional**.
+
+Cartas a Quito / 18 de septiembre de 2024
+=========================================
+
+Estas son las cartas a Quito de este miércoles 18 de septiembre de 2024
+-----------------------------------------------------------------------
+
+![Cartas a Quito. Foto: Archivo / EL COMERCIO](https://www.elcomercio.com/wp-content/uploads/2024/04/CARTAS-A-QUITO-1.jpg)
+
+Mago prodigioso que lo desaparece todo
+--------------------------------------
+
+Se llama John Christopher Pólit Estévez, hijo de Carlos Pólit Faggioni, ex contralor del Ecuador fugado en EE. UU. Cuando José Conceicao Santos, pagador de los sobornos de Odebrecht, le preguntó a Carlos Pólit, cómo hace para ocultar tanto efectivo, el pícaro contestó: “Mi hijo John trabaja en Bancos y está en contacto con personas expertas en desaparecer dinero”. Cuando se iba a dictar la sentencia a Carlos Pólit el 9 de septiembre, la fiscalía de Estados Unidos le pidió a la jueza que la difiera para el 27 de septiembre, puesto que John Pólit hijo está acusado de los mismos delitos de su padre, conspiración para lavado de activos y podría en ese lapso deshacerse de los bienes mal adquiridos. Los Pólit lavaron dinero registrando compañías en Florida a nombre de sus socios sin que estos conocieran los delitos. Entre 2010 y 2014 recibieron en sobornos 8 millones de dólares y cuando la policía detuvo a John, el mago sacó del bolsillo 14 millones y pagó para defenderse desde su casa, mientras, por otro lado, la justicia ordenó la devolución de los otros 14 millones que dio Pólit padre cuando se inició su juicio. Las millonadas exhibidas por los Pólit nos pertenecen a todos los ecuatorianos y fueron recolectadas en los casi 15 años que Carlos fungió de Contralor General del Estado con notas de 100 sobre 100 conferidas por Correa.
+
+Los acusadores han pedido una sentencia de 19 años y 7 meses de cárcel para Carlos Pólit, mientras la defensa ha solicitado clemencia de 7 años por estar viejo y ser ‘buena gente’. La bondad de Carlos Pólit quedó demostrada a cabalidad, cuando en abril de 2017 enjuició por calumnia a la Comisión Nacional Anticorrupción que le acusó de irregularidades en la compra de los terrenos para la construcción de la Refinería del Pacífico que jamás se construyó, pero en la cual se gastaron 1500 millones solo en nivelar el terreno. La jueza Karen Matamoros condenó a Simón Espinosa, Julio Cesar Trujillo, Jorge Rodríguez, Fernando Vega, Isabel Robalino, María de Lourdes Arboleda, Byron Celi, Germán Rodas y Ramiro Román, a 1 año de prisión, abuso consentido por otro correista, el honrado fiscal Galo Chiriboga. Al final, Pólit retiró la acusación y ‘perdonó’ a los infractores. En los últimos días, los medios han informado de la promesa que le hizo el doctor Felipe Rodríguez Moreno, hijo de Jorge Rodríguez -uno de los condenados- a Carlos Pólit: “Estaré presente y te miraré a los ojos cuando seas condenado en los EE. UU.”. Sabemos que allí está. Los delincuentes Pólit son los vívidos exponentes de la podredumbre que azota al Ecuador. Carlos, que fue nombrado Contralor para cuidar los dineros del pueblo y recibió elogios y diplomas de reconocimiento por su honradez, que felizmente le están siendo retirados, se robó los dineros del pueblo y huyó cobardemente a gozar de sus beneficios, amparado, cuando no, de la impunidad otorgada por 20 años a todos los correistas malhechores. John, su hijo, ayudo eficazmente a su padre a dilapidar la plata mal habida, para lo cual no tuvo inconveniente en convertirse en el mago que hacía desaparecer todo el efectivo -no aceptaba cheques- que rondaba sus sueños. Dice el proverbio: “De tal palo, tal astilla”. A John, el joven y adinerado mago, le cae como anillo al dedo la sentencia que se hará efectiva en las próximas semanas y que coincidirá con los encendidos discursos de los candidatos a la presidencia, testaferros de Correa, ponderando la honradez, tijereteando la impunidad y enseñando las manos limpias, las mentes lúcidas y los corazones ardientes, a los contados parias que van quedando para vergüenza de la Patria.
+
+Carlos Mosquera Benalcázar
+
+Recordando a Burke
+==================
+
+La prohibición del mandato imperativo es inherente a la democracia de representación.
+-------------------------------------------------------------------------------------
+
+![Ramiro Rivera Molina, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Ramiro-Rivera-Molina.jpg)
+
+En el tránsito entre el **_Antiguo Régimen_** y la **democracia**, se prohibió el denominado «**mandato imperativo**». Tiempo de la **Revolución francesa** que trae la idea de la nación, y de la **soberanía popular**. El Irlandés **Edmund Burke**, escribió un año después del acontecimiento mencionado, un libro que agitó un intenso debate: _«**Reflexiones sobre la Revolución Francesa»**._ Pero no les sugiero ni espero que lo lean, sus ojos fijos en los dispositivos electrónicos no lo permitirán. A quienes estudian y se dedican a la **política**, si les queda tiempo para pensar, les insinúo leer algo más digerible y corto: su «_Discurso a los electores de Bristol de 1774_», dirigido a quienes lo habían elegido miembro de la **Cámara de los Comunes**.
+
+En su alocución a sus **electores** les señala la importancia de la **opinión** de los **votantes** y que el elegido debe considerarlo. Pero les advierte, en su cara, que no cabían «_**instrucciones imperativas**_». En pocas palabras, que no debía acatar lo que debía decir y cómo votar. Las ideas de la **democracia** **moderna**, naciente, ya abrazaban la **filosofía** del **mandato libre** y la importancia del **juicio** y la conciencia del elegido. Por cierto, pensando en el bien general y no en el interés de los **votantes** del distrito. El **parlamentario**, se supone, representaba al concepto de **nación** y al bien general. No a sus clientes.
+
+**Burke** dirá que el **Parlamento** no es la sede **embajadores** de tal o cual interés, obligado a defender y cuidar como un agente o abogado. Que en la asamblea se debe tomar en cuenta el **interés común**, los intereses del conjunto de la **sociedad.** No una **agenda local**, el pedido del barrio y menos someterse, como ahora, a las pasiones y alucinaciones de quien lo colocó en la lista. Por algo sería que en la **Constitución** **francesa** de 1791 decía que los representantes, aún elegidos por los departamentos, lo serán del conjunto de la nación. Y no se les puede imponer mandato alguno. La **soberanía** radicaba en la **nación**. La **prohibición** del **mandato** **imperativo** es inherente a la **democracia** de representación. Para Sartori, no es _«un chico de recados»._
+
+**Burke** lo dijo de una linda manera: «_Cuando los **líderes** optan por convertirse en postores de la subasta de **popularidad**, su talento no será de utilidad para la construcción del Estado: se convertirán en aduladores, en lugar de legisladores…»_. Serán, como ciertos **asambleístas** de ahora, motivados por la simpleza, fatuos en el alarido, mansos hacia el pastor y caudillo. Dóciles en el establo de la obediencia. 
+
+Mateo, hijo de Karime Borja, falleció dejando una inspiradora historia
+======================================================================
+
+La exreina de Guayaquil inspiró a otros padres con su lucha tras el accidente que sufrió su pequeño.
+----------------------------------------------------------------------------------------------------
+
+![Karime y Mateo durante un viaje a la playa](https://www.elcomercio.com/wp-content/uploads/2024/09/karime.jpg)
+
+**Mateo**, hijo de la reconocida exreina de Guayaquil, **Karime Borja**, falleció este martes 17 de septiembre de 2024.
+
+La historia de **superación** de ambos conmovió a Ecuador en los últimos años.
+
+### Más noticias
+
+* [Juan Usma debutó y se lo dedicó a su fallecida madre](https://www.elcomercio.com/deportes/futbol/juan-usma-debut-barcelona-ligapro.html "Juan Usma debutó y se lo dedicó a su fallecida madre")
+* [Mariah Carey, ‘rota’ tras perder a su madre y hermana el mismo día](https://www.elcomercio.com/tendencias/entretenimiento/mariah-carey-rota-tras-perder-a-su-madre-y-a-su-hermana-el-mismo-dia.html "Mariah Carey, ‘rota’ tras perder a su madre y hermana el mismo día")
+* [Daniel Pintado cumplió una conmovedora promesa con su madre tras Juegos Olímpicos](https://www.elcomercio.com/deportes/daniel-pintado-promesa-mama-juegos-olimpicos.html "Daniel Pintado cumplió una conmovedora promesa con su madre tras Juegos Olímpicos")
+
+Karime ganó el concurso a reina de la ciudad en 2018. Luego de unos meses quedó embarazada.
+
+Cuando quiso dejar la corona en manos de la virreina, como lo exigía el certamen de belleza, recibió el **apoyo** de la ciudadanía y de las autoridades.
+
+La entonces alcaldesa Cynthia Viteri solicitó que, como un caso excepcional, continúe su reinado hasta el final del periodo.
+
+En ese año de trabajos, su cercanía con las **causas sociales** hicieron que se ganara el aprecio de la gente.
+
+Trágico accidente cambió la vida de Mateo y Karime
+--------------------------------------------------
+
+Luego de dos años de dar a luz, su vida tuvo un giro inesperado en su nueva faceta de madre.
+
+El 21 de noviembre de 2021, la familia se encontraba en una **piscina**.
+
+El pequeño Mateo cayó al agua y estuvo **a punto de ahogarse**, tras permanecer varios minutos en el estanque.
+
+El niño fue rescatado, pero los **15 minutos** que se mantuvo sin signos vitales le complicaron su estado de salud.
+
+Los paramédicos lograron revivirlo y lo trasladaron hacia un hospital.
+
+Desde ese día, Mateo no pudo recuperarse y tuvo que ser inducido en **coma**.
+
+Su cerebro desarrolló una **isquemia por hipoxia**, esto significa que no recibía suficiente suministro de sangre y oxígeno.
+
+En 2022, el pequeño abandonó el hospital y **retornó a casa**; sin embargo, tenía que realizar visitas permanentes mientras continuaba con su tratamiento.
+
+> [Ver esta publicación en Instagram](https://www.instagram.com/p/C8_HManMqM_/?utm_source=ig_embed&utm_campaign=loading)
+> 
+> [Una publicación compartida por Karime Borja Ansaldo (@karimeborja)](https://www.instagram.com/p/C8_HManMqM_/?utm_source=ig_embed&utm_campaign=loading)
+
+Su historia de vida inspiró a otros padres
+------------------------------------------
+
+Karime compartía a través de sus **redes sociales** la historia de superación de su hijo.
+
+En imágenes y videos compartía la **evolución de Mateo**, sus gustos y sus cuidados; ganándose la admiración de la gente que aplaudía sus demostraciones de amor.
+
+De a poco, el trágico accidente se convirtió en un **relato de inspiración** para otros padres que sufrían enfermedades similares en sus hijos.
+
+Karime creó **Cara a cara con mi peor pesadilla**, en mayo de 2022. Un podcast en el que contó cómo lo sucedido le cambió su vida.
+
+Antes de la partida de Mateo, Karime le dedico unas sentidas **palabras de amor** en un posteo de Instagram.
+
+“Amo cuidar de ti, me llena el alma tener el privilegio de que mientras tú decidas seguir en esta tierra de mi mano, el tiempo que Dios nos regale, yo puedo agarrarte fuerte, amarte, cuidarte mucho y obvio ponerte bien guapizizimo”.
+
+Este último mensaje se compartió el 8 de septiembre.
+
+“Te amo Mateo más que a mi propia vida, **hasta la eternidad**“, finalizó la madre.
+
+> [Ver esta publicación en Instagram](https://www.instagram.com/reel/C_rm9T0NmHH/?utm_source=ig_embed&utm_campaign=loading)
+> 
+> [Una publicación compartida por Karime Borja Ansaldo (@karimeborja)](https://www.instagram.com/reel/C_rm9T0NmHH/?utm_source=ig_embed&utm_campaign=loading)
+
+Se analizan condiciones de hipotecarios VIP y VIS
+=================================================
+
+Se realizan mesas de trabajo para analizar la solicitud de revisión de la tasa de interés de los créditos VIS y VIP.
+--------------------------------------------------------------------------------------------------------------------
+
+![Los créditos VIS y VIP se utilizan para vivienda.](https://www.elcomercio.com/wp-content/uploads/2024/09/casas.jpg)
+
+Se realizan **mesas de trabajo** para analizar la solicitud de revisión de la tasa de interés de los créditos hipotecarios del programa **vivienda de interés social** (VIS) y de **interés público** (VIP). Los préstamos para la compra de casas de este segmento tienen un interés preferencial del 4,99%.
+
+### Más noticias
+
+* [Así puede actualizar su formulario de gastos personales para el SRI](https://www.elcomercio.com/actualidad/negocios/asi-puede-actualizar-su-formulario-de-gastos-personales-para-el-sri.html "Así puede actualizar su formulario de gastos personales para el SRI")
+* [Estos son los impuestos que más ingresos le dan al Ecuador](https://www.elcomercio.com/actualidad/negocios/recaudacion-impuestos-sri-ingresos-ecuador-iva-renta.html "Estos son los impuestos que más ingresos le dan al Ecuador")
+* [Demanda de créditos baja y hay más morosidad, ¿cómo afectan a los ecuatorianos?](https://www.elcomercio.com/actualidad/negocios/demanda-creditos-baja-mas-morosidad-afectan-ecuatorianos-sistema-financiero.html "Demanda de créditos baja y hay más morosidad, ¿cómo afectan a los ecuatorianos?")
+
+Esta es la tasa en **créditos hipotecarios** más baja del mercado, ya que cuenta con un **subsidio estatal.** Este programa permite acceder a viviendas nuevas al 4,99% de interés a 25 años de plazo y con el 5% de entrada. El interés regular para la compra de viviendas está entre 10,59% y 11,54%.
+
+El monto de la **tasa de interés preferencial** podría cambiar, ya que las entidades privadas que participan de este programa solicitaron la revisión de las condiciones actuales. El Miduvi aún no tiene una fecha para emitir un **pronunciamiento final** para esta solicitud.
+
+¿Cómo funciona este programa?
+-----------------------------
+
+El **subsidio estatal se financia a través de un fideicomiso.** El mismo que cuenta con apoyo de organismos internacionales como el Banco Interamericano de Desarrollo (BID) y de la CAF-Banco de Desarrollo de América Latina.
+
+Las **entidades financieras privadas** entregan los créditos hipotecarios. Del monto del crédito, el 32% viene del fideicomiso al 0,01% de interés, mientras que el 68% restante lo entrega la entidad financiera privada y a quién se le paga el 9% de interés fijo. Sumado los intereses sale 4,99%.
+
+Sin embargo, las **entidades financieras** señalan que esta tasa no es suficiente para generar rentabilidad, y sugiere un incremento de dos puntos porcentuales, lo que llevaría la tasa al 6,99% para el cliente final. Mientras tanto, las entidades financieras recibirían un 11% de interés fijo.
+
+Tasa de interés
+---------------
+
+**Joan Proaño**, vicepresidente de Constructores Positivos, señaló que incrementar la tasa de interés anual en dos puntos porcentuales no es la solución adecuada. “Entendemos que el **banco necesita generar rentabilidad.** Pero no estamos de acuerdo con este aumento, porque no solo afectaría a los futuros compradores, sino también a aquellos que ya han adquirido viviendas bajo este programa.
+
+“Las personas que compraron viviendas con el crédito del 4,99% tendían que ajustar sus cuotas y pagar un 20% más”, señaló Proaño. En este grupo serían afectadas cerca de **40 000 familias** que han comprado viviendas con el programa VIS y VIP, desde 2019, cuando se inició el programa.
+
+Además, afectaría las **precalificaciones** de crédito de todas las promesas de compra – ventas, que están vigentes. Estos compromisos se hacen sobre unidades de vivienda que están en proyectos, es decir, que aún no están construidas. Al momento de la entrega debería hacerse una revisión del estado financiero del cliente para ver si califica a un crédito con la tasa más alta.
+
+El posible incremento del interés afectaría también las futuras compras de vivienda de este segmento, ya que **menos personas podrían acceder a préstamos** que, además, serán más costosos.
+
+Con la posibilidad de menos clientes, el sector de la construcción también revisaría sus **inversiones**, lo que afectaría el empleo y la economía, en general, agregó Poaño.
+
+¿A quiénes se aplica la tasa de interés preferencial?
+-----------------------------------------------------
+
+La tasa de 4,99% aplica para la compra de una **primera vivienda nueva**. El monto máximo de crédito **hipotecario VIS** es de hasta 178 salarios básicos unificados (SBU). Es decir, que para este 2024 se puede adquirir una vivienda de hasta 81 880 dólares, con este tipo de crédito.
+
+Mientras que, el monto máximo para el crédito **hipotecario VIP** es de entre 178,01 y 229 SBU. Esto quiere decir que con este crédito en 2024 se puede acceder a una vivienda de hasta 105 340 dólares.
+
+Posibles alternativas
+---------------------
+
+Desde **Constructores Positivos** se plantea que, en lugar de alzar la tasa de interés, el Gobierno incremente el porcentaje de subsidio de forma momentánea. Es decir, que en lugar de entregar el 32% del monto, entregue el 48%, y con eso los bancos tendrían más rentabilidad.
+
+Por su parte, el Miduvi señaló que el objetivo es **maximizar el alcance del programa** y alcanzar a más personas que lo necesitan. “En consecuencia, las alternativas que están en evaluación van a procurar que no exista afectación de cara al ciudadano”.
+
+Sector de la construcción
+-------------------------
+
+Según un informe del Servicio de Rentas Internas (SRI), las **ventas por actividades inmobiliarias cayeron** un 3,5 % en los primeros seis meses de 2024, en comparación con el mismo período del año pasado. Ya que, entre enero y junio de 2024, el sector inmobiliario generó **ventas** por 1 448 millones de dólares, mientras que, en el mismo período de 2023, las ventas fueron de 1 500 millones de dólares.
+
+El programa de vivienda con la tasa de interés preferencial nació en 2019. El objetivo de la tasa de interés reducida es que más familias tengan **acceso a vivienda** y apoyar al sector de la construcción.
+
+Quejas del correísmo contra tres legisladores a trámite ¿Cuáles son los motivos?
+================================================================================
+
+El correísmo en la Asamblea presentó las quejas contra los tres legisladores en torno a un mismo tema.
+------------------------------------------------------------------------------------------------------
+
+![César Umaginga es uno de los tres legisladores contra los que el correísmo presentó quejas.](https://www.elcomercio.com/wp-content/uploads/2024/09/Diseno-sin-titulo-19.jpg)
+
+Las quejas del correísmo contra tres legisladores van a trámite en la Asamblea Nacional.
+
+El Consejo de Administración Legislativa (CAL) calificó las quejas del correísmo la noche de este martes 17 de septiembre de 2024.
+
+### Más noticias:
+
+* [‘Apagón’ en la Asamblea provocó agresiva reacción de Esteban Torres](https://www.elcomercio.com/actualidad/politica/esteban-torres-apagon-asamblea-pitos-simios.html "‘Apagón’ en la Asamblea provocó agresiva reacción de Esteban Torres")
+* [Pleno de la Asamblea tomó una resolución sobre juicio político contra Diana Salazar](https://www.elcomercio.com/actualidad/politica/pleno-asamblea-resolucion-juicio-politico-diana-salazar.html "Pleno de la Asamblea tomó una resolución sobre juicio político contra Diana Salazar")
+* [Fiscalización decidió sobre el juicio político contra Diana Salazar y otros, en medio del caos](https://www.elcomercio.com/actualidad/politica/fiscalizacion-conocer-juicio-politico-contra-diana-salazar-otros-caos.html "Fiscalización decidió sobre el juicio político contra Diana Salazar y otros, en medio del caos")
+
+Las asambleístas correístas Jhajaira Urresta, Arisdely Parrales y Paola Cabezas presentaron quejas contra Lenin Rogel, César Umajinga e Inés Alarcón, afines al oficialismo.
+
+Motivos de las quejas del correísmo contra tres legisladores
+------------------------------------------------------------
+
+En la queja presentada contra Inés Alarcón se argumenta que la asambleísta calificó, a través de medios de comunicación, el pasado 6 de septiembre de 2024, al proceso de juicio político contra la Fiscal General del Estado como “Narco Juicio”, “lo que lesiona el prestigio de la institución, según el artículo 170 de la LOFL”, según el documento.
+
+Con relación a la queja presentada contra Lenin Rogel, se argumenta que el legislador, en el marco de la sesión 074 de la Comisión de Fiscalización, el lunes 9 de septiembre de 2024, violentó los deberes éticos de la actividad parlamentaria al votar de forma contraria a lo resuelto por el Pleno de la Asamblea Nacional, irrespetando su institucionalidad.
+
+En la queja contra César Umajinga se menciona que el legislador, al tener una investigación previa en proceso en la Fiscalía General del Estado, debía principalizar a su suplente o alterno para que asista a la sesión antes mencionada y consigne su voto, al no hacerlo vulneró la Ley Orgánica de la Función Legislativa y la Constitución.
+
+El CAL dispuso que se notifique a los legisladores para que en el plazo máximo de tres días contesten la queja presentada en su contra.
+
+La Superluna de Cosecha iluminó el cielo de Ecuador
+===================================================
+
+La Luna se mostró más brillante y grande que de costumbre, este martes 17 de septiembre.
+----------------------------------------------------------------------------------------
+
+![Así se vio la Superluna de Cosecha en Ecuador esta noche](https://www.elcomercio.com/wp-content/uploads/2024/09/luna-cosecha.jpg)
+
+Ecuador disfrutó la noche de este martes 17 de septiembre de 2024 de un increíble **espectáculo astronómico**.
+
+La **Superluna de Cosecha**, que coincide con el último eclipse de este año, fue vista desde varios puntos del país.
+
+### Más noticias
+
+* [Último eclipse lunar de 2024 fue visto desde Ecuador](https://www.elcomercio.com/tendencias/ciencia/eclipse-lunar-superluna-cosecha-astronomia.html "Último eclipse lunar de 2024 fue visto desde Ecuador")
+* [Estos son los países más afectados por los incendios en septiembre 2024](https://www.elcomercio.com/actualidad/mundo/paises-afectados-incendios.html "Estos son los países más afectados por los incendios en septiembre 2024")
+* [Las cinco ciudades con la mejor vida nocturna](https://www.elcomercio.com/actualidad/mundo/10-ciudades-mejor-vida-nocturna.html "Las cinco ciudades con la mejor vida nocturna")
+
+En **Quito**, por ejemplo, el único astro natural de la Tierra se mostró más **grande y brillante** de lo normal.
+
+El **cielo despejado** colaboró para que los ciudadanos hayan evidenciado su imponencia.
+
+El **Observatorio Astronómico de Quito** abrió sus puertas al público durante la noche del eclipse, desde las 20:00 hasta las 22:30.
+
+Los aficionados a los fenómenos astronómicos recibieron charlas informativas, además de la posibilidad de observar el fenómeno a través de sus **telescopios electrónicos**.  
+
+> [Ver esta publicación en Instagram](https://www.instagram.com/p/DACto-5t10T/?utm_source=ig_embed&utm_campaign=loading)
+> 
+> [Una publicación compartida por El Comercio de Ecuador (@elcomerciocom)](https://www.instagram.com/p/DACto-5t10T/?utm_source=ig_embed&utm_campaign=loading)
+
+¿Qué es la Superluna de Cosecha?
+--------------------------------
+
+La **Superluna de Cosecha** es un fenómeno astronómico que ocurre cuando una **luna llena** coincide con el momento en que la Luna está más cerca de la Tierra en su órbita elíptica.
+
+Este acontecimiento simula que la Luna se vea más grande y brillante de lo normal.
+
+Esta luna llena recibe el nombre de “Luna de Cosecha” porque tradicionalmente ocurre cerca del **equinoccio de otoño** (en el hemisferio norte), un momento clave para la cosecha de cultivos.
+
+Durante este periodo, la luz de la luna llena iluminaba los campos hasta más tarde en la noche, lo que facilitaba a los agricultores trabajar más tiempo recolectando sus **cultivos**.
+
+Cuando ambos eventos coinciden, como en una Superluna de Cosecha, la Luna se ve especialmente impresionante, permitiendo que su significado se valore tanto en lo científico como en lo **cultural**.
+
+La NASA estima que esta coincidencia, no se volverá a dar hasta dentro de 9 años, en **2033**.  
+
+  
+
+Deportivo Quito tiene un largo camino para volver a la Serie B
+==============================================================
+
+El Deportivo Quito vuelve a abrigar las esperanzas de ascender a la Serie B. La última vez en esa categoría fue en 2016.
+------------------------------------------------------------------------------------------------------------------------
+
+![Jugadores del Deportivo Quito en la Segunda Categoría de Pichincha en el 2024.](https://www.elcomercio.com/wp-content/uploads/2024/09/quito_serie_b_1.jpg)
+
+Seis etapas y 11 partidos son los que tiene que superar el **Deportivo Quito para regresar a la Liga Pro Serie B** de Ecuador en el 2025, un sueño que sus hinchas abrazan con más fuerza todas las temporadas. 
+
+El primer ‘milagro’ para el Deportivo Quito se dio en la **mesa de la Federación Ecuatoriana de Fútbol (FEF)**, organizadora del Torneo del Ascenso Nacional, que abrió la puerta para su ingreso a la competición.
+
+### Más noticias:
+
+* [Patrón Mejía respalda a JFA y se suma a quejas por Deportivo Quito](https://www.elcomercio.com/deportes/deportivo-quito-patron-mejia-segunda-categoria.html "Patrón Mejía respalda a JFA y se suma a quejas por Deportivo Quito")
+* [El Confesionario de EL](https://www.elcomercio.com/deportes/futbol/confesionario-el-comercio-invitados-deportistas.html "El Confesionario de EL COMERCIO también se escucha en podcast") [COMERCIO](https://www.elcomercio.com/deportes/futbol/confesionario-el-comercio-invitados-deportistas.html "El Confesionario de EL COMERCIO también se escucha en podcast") [también se escucha en podcast](https://www.elcomercio.com/deportes/futbol/confesionario-el-comercio-invitados-deportistas.html "El Confesionario de EL COMERCIO también se escucha en podcast")
+* [Mateo Villagómez es el primer automovilista ecuatoriano obtener un título en Europa](https://www.elcomercio.com/deportes/mateo-villagomez-campeon-francia-primer-ecuatoriano-piloto.html "Mateo Villagómez es el primer automovilista ecuatoriano obtener un título en Europa")
+
+El Quito en el campeonato de **Segunda Categoría de Pichincha** quedó en el tercer puesto de la tabla de posiciones del grupo A, con lo que puso fin a su temporada deportiva y el sueño de volver a la Serie B. 
+
+Sus hinchas y dirigentes ya proyectaban el 2025 y contaban los meses para regresar a la competencia, pero de un momento a otro la FEF **los incluyó en el grupo de 64 equipos que competirán** por uno de los dos cupos que otorga el Ascenso Nacional. 
+
+El argumento de la FEF fue que el **Independiente JFA y el Patrón Mejía**, por no completar todos los requisitos requeridos para participar en el referido torneo, se quedaban al margen. 
+
+Solventados estos temas administrativos se publicó el cuadro de participantes por provincia: Guayas (8), Manabí (7), **Pichincha (6), Azuay (5), Santa Elena (4), Cañar (3), El Oro (3)**, Esmeraldas (3), Los Ríos (3), Chimborazo (3), Bolívar (2), Pastaza (2), Santo Domingo de los Tsáchilas (2), Tungurahua (2), Zamora Chinchipe (2), Carchi (1), Loja (1), Morona Santiago (1), Orellana (1) y Sucumbíos (1).  
+
+El sorteo de los treintaidosavos de final dejó listas las llaves que se jugarán en partidos de ida y vuelta para conocer a los clasificados en cada etapa hasta llegar a la gran final, que se jugará en una sede por definirse. 
+
+El calendario que debe recorrer el Deportivo Quito
+--------------------------------------------------
+
+El Deportivo Quito quedó emparejado en la **llave 24 junto a Santa Elena Sporting Club**, uno de los cuatro representantes de la provincia de Santa Elena, junto a Luz Valdivia, Huancavilca y Santa Elena Sumpa. 
+
+El partido de ida se jugará en Quito el 28 o 29 de septiembre en un estadio que está por definirse, mientras que la revancha será el 5 o 6 de octubre en Santa Elena. 
+
+La FEF dio a conocer en un boletín oficial que, **una vez que concluya la fase de los 32avos de final**, se llevará a cabo una nueva sesión ampliada de la Comisión de Competencias de Fútbol Profesional, para sortear las llaves de los dieciseisavos de final. 
+
+Los que sí está definidas son las fechas en las que se disputarán cada una de las etapas:
+
+16avos de final: 12 de octubre (ida)/19 de octubre (vuelta).
+
+**8avos de final: 26 de octubre (ida)/2 de noviembre (vuelta).**
+
+4tos de final: 9 de noviembre (ida)/16 de noviembre (vuelta).
+
+**Semifinales: 23 de noviembre (ida)/30 de noviembre (vuelta).**
+
+Final única/7 de diciembre.
+
+Las llaves del Ascenso Nacional
+-------------------------------
+
+No te pierdas - El Confesionario
+--------------------------------
+
+‘Apagón’ en la Asamblea provocó dura reacción de Esteban Torres
+===============================================================
+
+Esteban Torres criticó el 'apagón' y los pitos en la Asamblea.
+--------------------------------------------------------------
+
+![Esteban Torres reaccionó al 'apagón' y los pitos en la Asamblea.](https://www.elcomercio.com/wp-content/uploads/2024/09/Diseno-sin-titulo-18-1.jpg)
+
+Esteban Torres, viceministro de Gobierno, reaccionó al ‘apagón’ y pitos en el Pleno de la Asamblea Nacional, este martes 17 de septiembre.
+
+La **Empresa Eléctrica Quito (EEQ)** se pronunció sobre lo ocurrido en el sistema eléctrico del Legislativo, a pocas horas de que se dé el primer corte de luz programado a escala nacional por el Gobierno, por la crisis energética.
+
+### Más noticias:
+
+* [Cortes de luz afectarán las redes de telefonía móvil e Internet de esta manera](https://www.elcomercio.com/actualidad/negocios/cortes-de-luz-afectara-redes-telefonia-movil-internet-ecuador.html "Cortes de luz afectarán las redes de telefonía móvil e Internet de esta manera")
+* [Estos son los servicios públicos que atenderán con normalidad, pese al teletrabajo y cortes de luz](https://www.elcomercio.com/actualidad/ecuador/servicios-publicos-atenderan-normalidad-garantizados-pese-teletrabajo-cortes-luz.html "Estos son los servicios públicos que atenderán con normalidad, pese al teletrabajo y cortes de luz")
+
+En la sesión del Pleno de hoy, sorpresivamente, las luces fueron apagadas; mientras las computadoras seguían prendidas.
+
+Inmediatamente, los legisladores empezaron a silbar con pitos y a iluminar el espacio con las linternas de sus celulares.
+
+El presidente de la Asamblea, **Henry Kronfle**, leía en voz alta un documento, entre las risas de unos y el asombro de otros legisladores.
+
+La reacción de Esteban Torres al ‘apagón’ y los pitos en la Asamblea
+--------------------------------------------------------------------
+
+Esteban Torres respondió en su cuenta de X al ‘apagón’ y los pitos en el Pleno de la Asamblea.
+
+El funcionario gubernamental señaló que “apagan las luces a propósito (…).
+
+Torres reiteró que Ecuador enfrenta el peor estiaje en 61 años, “pero para ellos esto es un chiste”.
+
+“En la Asamblea pasada a una expresidenta se le investigó penalmente por apagar las luces del Plenario”, agregó.
+
+En un tuit posterior calificó de “**circo**” la acción de la Asamblea.
+
+“Todo fue un show y un circo, en la peor crisis de sequía en 61 años”, sostuvo.
+
+“No se burlan del Gobierno, se burlan de los ecuatorianos. Estos mismos te van a pedir el voto el 2025. ¡No lo olvides!”, añadió.
+
+> Ecuatorianos, juzguen ustedes esta payasada:  
+>   
+> Apagan las luces a propósito (las computadoras siguen prendidas) y como simios gritan al son del chiste y la burla.  
+>   
+> Ecuador enfrenta el peor estiaje en 61 años pero para ellos esto es un chiste.  
+>   
+> En la Asamblea pasada a una… [pic.twitter.com/gBUFEst3bX](https://t.co/gBUFEst3bX)
+> 
+> — Esteban Torres Cobo (@etorrescobo) [September 17, 2024](https://twitter.com/etorrescobo/status/1836159640289137076?ref_src=twsrc%5Etfw)
+
+La Empresa Eléctrica Quito se pronunció sobre el ‘apagón’ en la Asamblea
+------------------------------------------------------------------------
+
+La **Empresa Eléctrica Quito (EEQ)** se pronunció tras el “apagón” en la Asamblea.
+
+La EEQ comunicó que “el sistema eléctrico funciona con normalidad” y que esto confirma que “se trató de un daño interno”.
+
+El personal operativo de la Empresa ingresó a la cámara de transformación del establecimiento, ante un reporte por falta de servicio en la Asamblea.
+
+> En atención a un reporte por falta de servicio en la [@AsambleaEcuador](https://twitter.com/AsambleaEcuador?ref_src=twsrc%5Etfw), personal operativo de la [#EEQ](https://twitter.com/hashtag/EEQ?src=hash&ref_src=twsrc%5Etfw) ingresó a la cámara de transformación del establecimiento y verificó que el sistema eléctrico funciona con normalidad, lo cual confirma que se trató de un daño interno. [pic.twitter.com/4VCCQF4H3l](https://t.co/4VCCQF4H3l)
+> 
+> — Empresa Eléctrica Quito (@ElectricaQuito) [September 17, 2024](https://twitter.com/ElectricaQuito/status/1836178470717493298?ref_src=twsrc%5Etfw)
+
+Último eclipse lunar de 2024 fue visto desde Ecuador
+====================================================
+
+El último eclipse lunar fue visto la noche del martes 17 de septiembre.
+-----------------------------------------------------------------------
+
+![Eclipse lunar desde Ecuador, la noche de este martes 17 de septiembre](https://www.elcomercio.com/wp-content/uploads/2024/09/eclipse-lunar.jpg)
+
+Entre la noche del martes 17 de septiembre y la madrugada del miércoles 18, los **amantes de los eventos astronómicos** podrán disfrutar de un espectáculo triple en el cielo.
+
+Se trata del **último eclipse lunar de 2024** y la **primera superluna del año que coinciden con la Luna de Cosecha**. Este evento es **uno de los más destacados del año** para los observadores del cielo, tan especial que la NASA estima que esta coincidencia no se volverá a dar hasta el 2033.
+
+### Más noticias
+
+* [(Video) Rosalía se molestó con la actitud de un fanático](https://www.elcomercio.com/afull/rosalia-artista-musica-acoso.html "https://www.elcomercio.com/afull/rosalia-artista-musica-acoso.html") 
+* [Hermano de Michael Jackson falleció a los 70 años](https://www.elcomercio.com/tendencias/entretenimiento/michael-jackson-tito-jackson-muerte.html "https://www.elcomercio.com/tendencias/entretenimiento/michael-jackson-tito-jackson-muerte.html")
+
+**Conoce qué es un eclipse parcial de luna** 
+---------------------------------------------
+
+Según el **[Observatorio Astronómico de Quito](https://oaq.epn.edu.ec/index.php/publicaciones/noticias-y-eventos/noticias-2024/650-boletin-de-prensa-eclipse-parcial-de-luna-y-superluna-de-cosecha "https://oaq.epn.edu.ec/index.php/publicaciones/noticias-y-eventos/noticias-2024/650-boletin-de-prensa-eclipse-parcial-de-luna-y-superluna-de-cosecha")**, un **eclipse parcial de Luna** se produce cuando **solo una fracción de la Luna entra en la umbra**, la zona más oscura de la sombra terrestre, mientras que el resto de la Luna pasa por la penumbra, la región de sombra parcial. Durante este fenómeno, los observadores podrán notar cómo una parte de la Luna se oscurece al atravesar la sombra de la Tierra. 
+
+ **La Superluna de Cosecha** 
+-----------------------------
+
+Siguiendo con el Observatorio Astronómico, la **Superluna de Cosecha** es un **fenómeno que ocurre cuando la Luna llena alcanza su punto más cercano a la Tierra en su órbita**, haciéndola lucir más grande y brillante de lo habitual. Este término, “Luna de Cosecha,” **se aplica a la Luna llena que ocurre más cerca del equinoccio de septiembre,** lo que proporciona **una luz extra durante las noches de cosecha**. 
+
+**La Luna llena, o plenilunio**, sucede cuando la Tierra se encuentra directamente entre el Sol y la Luna, y se crea un ángulo de elongación de 180° y resulta en **una iluminación total del 100%.** 
+
+En la noche del 17 de septiembre, **la Luna estará aproximadamente a 352 mil kilómetros de la Tierra**, y se generará una superluna. En ese momento, alcanzará una magnitud de -12.4 y **estará completamente iluminada.** La Superluna de Cosecha será un 7,8% más grande y un 15,4% más brillante que una Luna llena típica. 
+
+**Este fenómeno será visible toda la noche**, ya que la **salida de la Luna coincidirá con la puesta del Sol** y su **ocaso con la salida del Sol.** Durante este evento, **la Luna reflejará la luz solar hacia la Tierra**, al mostrar **su cara completamente iluminada**, lo que permitirá **observarla en su totalidad**. La Luna llena ocurre aproximadamente cada 29 días, para completar así el ciclo lunar. 
+
+**Detalles a tomar en cuenta** 
+-------------------------------
+
+Este fenómeno astronómico **será visible en varias regiones del mundo**, también en América del Sur, Norteamérica, Europa, África y algunas partes de Asia. **En Quito, el eclipse parcial de Luna seguirá el siguiente horario**, de acuerdo con información del Obervatorio: 
+
+* Inicio del eclipse penumbral: 7:41 pm. 
+
+* Inicio del eclipse parcial: 9:13 pm. 
+
+* Máximo del eclipse: 9:44 pm. 
+
+* Fin del eclipse parcial: 10:16 pm. 
+
+* Fin del eclipse penumbral: 11:47 pm. 
+
+Durante este evento, **la Luna tendrá una magnitud penumbral de 1.037**, que indica la proporción de la Luna en la penumbra de la Tierra, y una **magnitud umbral de 0.085**, que refleja la parte de la Luna oscurecida por la umbra terrestre. 
+
+**El Observatorio Astronómico de Quito estará abierto al público durante la noche del eclipse,** desde las 20:00 hasta las 22:30. Ofrecerá charlas informativas y la posibilidad de observar el fenómeno a través de sus telescopios electrónicos.  
+
+Barcelona Sporting Club tiene 17 juveniles en el primer plantel
+===============================================================
+
+Barcelona Sporting Club regresa su mirada a su cantera y promovió un grupo de talentosos juveniles al primer plantel.
+---------------------------------------------------------------------------------------------------------------------
+
+![Jandry Gómez con Barcelona Sporting Club en el 2024.](https://www.elcomercio.com/wp-content/uploads/2024/09/barcelona_juveniles_1.jpg)
+
+**Barcelona Sporting Club**, con su presidente Antonio Álvarez a la cabeza, se autoimpuso una ‘regla’  de tener jugadores juveniles en el primer plantel para la temporada 2024 y con mayo énfasis en el 2025, año de su centenario. 
+
+Según Álvarez, **Barcelona SC vivirá un proceso de “refundación”** en lo administrativo y deportivo dando mayor cabida a los jugadores juveniles, aspecto que no es común en el cuadro canario a lo largo de su historia. 
+
+### Más noticias:
+
+* [Jugador rechaza a la Selección de Ecuador por Chile](https://www.elcomercio.com/deportes/seleccion-ecuador-chile-juan-francisco-rossel.html "Jugador rechaza a la Selección de Ecuador por Chile")
+* [Sean O’Malley vs. Marlon ‘Chito’ Vera, ¿habrá una tercera pelea?](https://www.elcomercio.com/deportes/artes-marciales/sean-omalley-vs-marlon-chito-vera-habra-tercera-pelea.html "Sean O’Malley vs. Marlon ‘Chito’ Vera, ¿habrá una tercera pelea?")
+* [José Francisco Cevallos critica la gestión de Emelec](https://www.elcomercio.com/deportes/futbol/jose-francisco-cevallos-critica-la-gestion-de-emelec.html "José Francisco Cevallos critica la gestión de Emelec")
+
+El pasado 12 de septiembre explicó que “involucrarán” 17 juveniles en el primer plantel, tres estarán constantemente entre los 23 convocados para los partidos de la Primera División y se proyecta que sumen 300 minutos por etapa bajo el actual formato de la Liga Pro.
+
+Con este enfoque **los amarillos afrontan lo que resta de la segunda etapa de la Liga Pro** que ya agotó seis jornadas.
+
+En la tabla de posiciones marchan en el cuarto lugar con 12 puntos con opciones de pelearla en las nueve fechas que aún restan. 
+
+En la sexta fecha ante Macará la principal novedad de BSC fue la **presencia en el equipo titular de Juan Usma**. Jugó 45 minutos.
+
+En el segundo tiempo fue reemplazado por **Jandry Gómez**, otro de los juveniles que cuenta con la confianza del entrenador argentino Ariel Holan. 
+
+Los dos mediocampistas **tienen 18 años y se formaron en la cantera de Barcelona SC**.
+
+Ahora gozan de los primeros minutos en el primer plantel con el respaldo de los exigentes hinchas. 
+
+Allen Obando, el juvenil más promocionado
+-----------------------------------------
+
+Allen Obando tiene 18 años, es delantero, ha sido seleccionado de Ecuador en las categorías juveniles, con Mundial incluido; y de la absoluta, y suma minutos con BSC desde el 2022.
+
+Según Transfermarkt, **Obando tiene un valor de mercado de más de un millón de dólares**.
+
+Su nombre ha estado vinculado a rumores que lo han puesto en la órbita de clubes como el Paris Saint-Germain de Francia y el Barcelona de España. 
+
+Lo cierto es que continúa en el cuadro guayaquileño. Cuenta con 17 partidos jugados y dos goles en 590 minutos acumulados en cancha. 
+
+En esta segunda etapa aún no suma minutos y **está tapado por el uruguayo Octavio Rivero**, goleador del equipo con seis goles en la misma cantidad de partidos disputados. 
+
+En el último juego ante Macará **reapareció entre los convocados y estuvo en el banco de suplentes** los 90 minutos, luego de haber estado concentrado con la Selección de Ecuador en la doble fecha de eliminatorias al Mundial 2026. 
+
+Fue parte del grupo de cuatro jugadores ‘invitados’ a entrenar por parte de Sebastián Beccacece, junto con el arquero **Alexis Villa (Independiente Juniors)**, Yaimar Medina (Independiente Del Valle) y Mateo Viera (Macará).  
+
+En el plantel hay 17 juveniles que entrenan con el primer plantel y esperan su oportunidad para debutar con la camiseta amarilla.
+
+Las caras nuevas de Barcelona SC
+--------------------------------
+
+No te pierdas - El Confesionario
+--------------------------------
+
+Trabajos en vía que une Manabí con Santa Elena comenzaron
+=========================================================
+
+El presidente Daniel Noboa y el ministro Roberto Luque constataron los primeros trabajos en la carretera.
+---------------------------------------------------------------------------------------------------------
+
+![Los trabajos en la vía La Entrada-Manta se realizarán en tres tramos](https://www.elcomercio.com/wp-content/uploads/2024/09/via-manta.jpg)
+
+El Gobierno Nacional dio inició a los trabajos de **rehabilitación** de la vía E-15, que une a las provincias de Santa Elena con Manabí.
+
+En el evento de inauguración realizado este martes 17 de septiembre de 2024 estuvieron presentes el Presidente de Ecuador, **Daniel Noboa**, y su ministro de Transporte, **Roberto Luque**.
+
+### Más noticias
+
+* [Guayas cuenta con financiamiento del Banco Mundial para adecentar vías rurales](https://www.elcomercio.com/actualidad/guayas-ya-tiene-financiamiento-para-adecentar-vias-rurales.html "Guayas cuenta con financiamiento del Banco Mundial para adecentar vías rurales")
+* [Propuesta de Daniel Noboa sobre bases militares extranjeras debe seguir varios pasos](https://www.elcomercio.com/actualidad/politica/propuesta-daniel-noboa-bases-militares-extranjeras.html "Propuesta de Daniel Noboa sobre bases militares extranjeras debe seguir varios pasos")
+* [Apagones bajarán la capacidad productiva a dos tercios ¿A cuánto ascienden las pérdidas?](https://www.elcomercio.com/actualidad/apagones-bajaran-la-capacidad-productiva-a-dos-tercios-a-cuanto-ascienden-las-perdidas.html "Apagones bajarán la capacidad productiva  a dos tercios ¿A cuánto ascienden las pérdidas?")
+
+Los funcionarios constataron los primeros trabajos en el tramo de la carretera **La Entrada–Manta**.
+
+La rehabilitación vial se realizará en **139,7 kilómetros**, con una inversión que alcanza los **19,8 millones** de dólares.
+
+Los trabajos se ejecutarán por **tramos**:
+
+* La Entrada – Puerto Cayo (66,27 km)
+* Puerto Cayo – San Mateo (67,46 km)
+* San Mateo – Manta (longitud 6,24 km)
+
+Según las previsiones del Gobierno, la obra debería estar lista para **mayo de 2025**.
+
+Noboa: ‘la vieja política se robó, escondió y negoció el progreso del país’
+---------------------------------------------------------------------------
+
+Durante su intervención, el presidente Daniel Noboa afirmó que este proyecto beneficiará directamente a más de **530 000 habitantes**.
+
+Mientras que de forma indirecta, alrededor de **dos millones de personas** utilizarán esta vía para turismo y comercio.
+
+“Ambas provincias potencializarán su desarrollo y mejorarán la calidad de vida de la población”, dijo el jefe de Estado.
+
+Noboa aprovechó su discurso para referirse a los gobiernos anteriores.
+
+Aseguró que en estos lugares “aún impacta lo que la vieja política **se robó, escondió y negoció** a cuestas del progreso del país”.
+
+> [#Manabí](https://twitter.com/hashtag/Manab%C3%AD?src=hash&ref_src=twsrc%5Etfw) El presidente [@DanielNoboaOk](https://twitter.com/DanielNoboaOk?ref_src=twsrc%5Etfw) junto al ministro [@RobertoLuqueN](https://twitter.com/RobertoLuqueN?ref_src=twsrc%5Etfw) participaron en el inicio de los trabajos de rehabilitación de la vía E15, tramo La Entrada-Manta de 139,7 km. Tiene una inversión de USD 19.8 millones y beneficia directamente a más de 530 mil habitantes. [pic.twitter.com/XIDSrfxYOO](https://t.co/XIDSrfxYOO)
+> 
+> — Ministerio de Transporte y Obras Públicas 🇪🇨 (@ObrasPublicasEc) [September 17, 2024](https://twitter.com/ObrasPublicasEc/status/1836108801751015475?ref_src=twsrc%5Etfw)
+
+“Los políticos que fracasaron saben que ustedes **ya no comen cuento**, saben que ustedes ven el esfuerzo que hace este gobierno para salir del hueco en el que nos dejaron”, enfatizó.
+
+Por su parte, el ministro **Roberto Luque** intervino con un estilo similar.
+
+“No solo se trata de arrancar con obras nuevas, sino también destrabar **obras iniciadas e inconclusas** (…) como por ejemplo, la vía Manta-Rocafuerte, el Palacio Municipal de Portoviejo, o el paso lateral de Salinas”, mencionó.
+
+> 📹 | Con el mejoramiento de la vía La Entrada – Manta, reducimos los tiempos de traslado, promovemos el turismo e impulsamos el comercio de la zona. [#ElNuevoEcuadorResuelve](https://twitter.com/hashtag/ElNuevoEcuadorResuelve?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/k1BdgrzrTa](https://t.co/k1BdgrzrTa)
+> 
+> — Ministerio de Transporte y Obras Públicas 🇪🇨 (@ObrasPublicasEc) [September 17, 2024](https://twitter.com/ObrasPublicasEc/status/1836152577114677595?ref_src=twsrc%5Etfw)
+
+Este tipo de intervenciones han sido **recurrentes** durante los 10 meses que el nuevo gobierno va en el cargo.
+
+Paso lateral Santa Elena – Salinas
+----------------------------------
+
+En otro proyecto de rehabilitación vial, el Presidente y el Ministro recorrieron este lunes 16 de septiembre las obras que se realizan en el **paso lateral** Santa Elena – La Libertad – Salinas.
+
+En esta obra, el primer tramo de 14,5 kilómetros ya está culminado mientras que el segundo, de 7,15 kilómetros tiene un avance del 70%, detalló el Gobierno.
+
+El mantenimiento de este tramo tiene una inversión que supera los **23 millones de dólares**.
+
+Según Luque, “en tres meses el paso lateral de Salinas estará listo para abrir la temporada playera”.
+
 Un procesado tras balacera del fin de semana en Monte Sinaí ¿Qué delito investiga Fiscalía?
 ===========================================================================================
 
@@ -371,694 +954,3 @@ Además, agregó que las operadoras han desplegado el mayor contingente para man
 
 El sector de telecomunicaciones se suma a las iniciativas de autoabastecimiento privado y medidas de ahorro de energía. “Agradecemos su comprensión ante estos eventos de fuerza mayor que tienen un impacto directo en la prestación de los servicios públicos de telecomunicaciones y ratificamos  
 nuestro compromiso con la conectividad del Ecuador”, finalizó.
-
-Apagones bajarán la capacidad productiva a dos tercios ¿A cuánto ascienden las pérdidas?
-========================================================================================
-
-Cámaras de Industrias, Producción y Empleo y Comercio de Quito cuantificaron el impacto del corte de luz
---------------------------------------------------------------------------------------------------------
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/09/Diseno-sin-titulo_20240917_175022_0000.jpg)
-
-La mayoría de industrias en Ecuador operan con tres turnos de trabajo. Esto significa que la eliminación del turno de madrugada, como resultado de los apagones, reducirá su capacidad productiva a dos tercios.
-
-Más noticias
-------------
-
-* [Estos son los servicios públicos que atenderán con normalidad, pese al teletrabajo y cortes de luz](https://www.elcomercio.com/actualidad/ecuador/servicios-publicos-atenderan-normalidad-garantizados-pese-teletrabajo-cortes-luz.html "Estos son los servicios públicos que atenderán con normalidad, pese al teletrabajo y cortes de luz")
-* [Ecovía y Trolebús modificarán sus horarios por cortes de luz](https://www.elcomercio.com/actualidad/quito/ecovia-trolebus-modificaran-horarios-por-cortes-de-luz.html "Ecovía y Trolebús modificarán sus horarios por cortes de luz")
-
-Esto generará una pérdida considerable y afectará los niveles de producción y la competitividad del país.
-
-Este es el tercer periodo de apagones que Ecuador enfrentará en menos de un año. Los cortes de fines de 2023 y de abril de 2024 fueron los últimos.
-
-A diferencia de los racionamientos anteriores, que se realizaron durante el día y en horarios segmentados por zonas, esta vez afectarán simultáneamente a todo el país durante la noche. Esto representa un nuevo desafío logístico para las empresas.
-
-Andrés Robalino, director ejecutivo de la Cámara de Industrias, Producción y Empleo [(Cipem)](https://cipem.org.ec/ "https://cipem.org.ec/"), advierte que estos apagones no solo afectarán las ventas. También tendría un potencial impacto la recaudación tributaria, es decir, menos ingresos para las arcas fiscales.
-
-La proyección de crecimiento económico del 1%, estimada por el Banco Central, podría transformarse en un decrecimiento debido a la crisis eléctrica, enfatiza Robalino.
-
-1,1 millones de dólares de pérdidas por hora
---------------------------------------------
-
-El impacto económico de los apagones nocturnos se estima entre 970 mil y 1,1 millones de dólares por hora. Esta es una cifra que refleja la magnitud del problema.
-
-En ciudades como Cuenca, donde el sector industrial es particularmente fuerte, las consecuencias son especialmente severas.
-
-Si bien algunas empresas pueden recurrir a generadores como medida paliativa, su uso es complicado. Esta dificultad se ve en industrias que demandan altos niveles de calor o aquellas relacionadas con la alimentación, que dependen de cuartos fríos.
-
-**El impacto del apagón en el comercio**
-
-El sector comercial también sufrirá grandes pérdidas. La Cámara de Comercio de Quito (CCQ) estima que el 30% de las ventas diarias de restaurantes se verá afectado por los cortes de energía. Esto podría traducirse en una pérdida de hasta 1,8 millones de dólares al día.
-
-Diego Vivero, de la Confederación de Restaurantes del Ecuador, ha expresado que aunque el gremio asume esta crisis con responsabilidad, es inaceptable que el toque de queda se aplique de manera indiscriminada. Esto afecta al libre trabajo como a la movilidad de las personas.
-
-El toque de queda se aplicará en seis provincias y un cantón en los que se declaró estado de excepción, por parte del Gobierno.
-
-Además, señala que el teletrabajo ha tenido un impacto negativo en la dinámica urbana, ya que reduce significativamente la clientela de los restaurantes, sin que esto disminuya el consumo energético en los hogares.
-
-El sector de entretenimiento y recreación también será golpeado, con pérdidas estimadas en 1,7 millones de dólares diarios, según la CCQ.
-
-La afectación económica diaria combinada en los sectores comerciales y recreativos se calcula en 3,5 millones de dólares a nivel nacional, exacerbada por el toque de queda impuesto en varias provincias.
-
-Una encuesta reciente de la Cámara de Comercio de Quito reveló que 25% de negocios cree que sus ventas se verán reducidas en más del 50% por los apagones. Esto evidencia la magnitud del impacto que esta crisis energética tendrá en la economía nacional.
-
-Militares vigilarán el correcto funcionamiento de las hidroeléctricas
-=====================================================================
-
-Los militares se capacitan para cumplir con disposición presidencial sobre hidroeléctricas.
--------------------------------------------------------------------------------------------
-
-![Militares se capacitan en dos hidroeléctricas.](https://www.elcomercio.com/wp-content/uploads/2024/09/Diseno-sin-titulo-16.jpg)
-
-Los militares vigilarán el correcto funcionamiento de las hidroeléctricas en el país.
-
-Los ministerios de Defensa y Energía, además del Comando Conjunto de las Fuerzas Armadas coordinan acciones.
-
-### Más noticias:
-
-* [Daniel Noboa ordena reforzar seguridad de las hidroeléctricas](https://www.elcomercio.com/actualidad/politica/daniel-noboa-ordena-reforzar-seguridad-hidroelectricas.html "Daniel Noboa ordena reforzar seguridad de las hidroeléctricas")
-* [Propuesta de Daniel Noboa sobre bases militares extranjeras debe seguir varios pasos](https://www.elcomercio.com/actualidad/politica/propuesta-daniel-noboa-bases-militares-extranjeras.html "Propuesta de Daniel Noboa sobre bases militares extranjeras debe seguir varios pasos")
-
-El 09 de septiembre, el presidente Daniel Noboa dispuso la creación de un Bloque de Seguridad, para impedir los cortes de luz.
-
-Este bloque está compuesto por las Fuerzas Armadas y la Policía Nacional para reforzar la seguridad en las principales plantas hidroeléctricas del país, con el fin de evitar los cortes de luz.
-
-Se ordenó un proceso de capacitación entre las fuerzas del orden y el Ministerio de Energía y Minas para implementar medidas de protección en el sector eléctrico.
-
-Esto incluye la operación segura de las plantas hidroeléctricas del país.
-
-El Gobierno también advirtió sobre posibles sabotajes en el sector energético.
-
-Militares vigilarán el correcto funcionamiento de las hidroeléctricas
----------------------------------------------------------------------
-
-Las zonas estratégicas serán reforzadas y resguardadas por personal especializado, para esto cincuenta militares de alto nivel son capacitados.
-
-En las instalaciones de la Hidroeléctrica Mazar, se inauguraron las jornadas de entrenamiento sobre la operación de los sistemas hidroeléctricos.
-
-Los participantes son militares de las tres ramas de las Fuerzas Armadas con conocimientos en electricidad, mecánica, electrónica, termodinámica, entre otras ingenierías afines.
-
-Los entrenamientos, que durarán 21 días, permitirán que el personal militar se instruya en la operación de las unidades de generación eléctrica para fortalecer las capacidades en esta zona estratégica.
-
-Además, “poner en práctica sus conocimientos, vigilarán y resguardarán estos espacios para garantizar  
-que se cumpla el procedimiento correspondiente”, señalaron las entidades en un comunicado conjunto.
-
-La capacitación será dentro de la Hidroeléctrica Mazar, ubicada entre las provincias del Azuay y Cañar; y de la Hidroeléctrica Coca Codo Sinclair, ubicada entre las provincias de Napo y Sucumbíos.
-
-El evento de inauguración contó con la presencia del ministro de Energía y Minas, Antonio Goncalves; Manuel Dávila, comandante de la Tercera División del Ejército.
-
-También, Fabián Calero, gerente de la Corporación Eléctrica del Ecuador, CELEC EP y otras autoridades del sector energético.  
-
-El Kremlin tacha de ‘inaceptable’ prohibición de medios en plataformas de Meta
-==============================================================================
-
-Meta anunció que prohibió "después de una cuidadosa consideración" la presencia del canal televisivo de noticias RT.
---------------------------------------------------------------------------------------------------------------------
-
-!["Meta se desacredita a sí misma. Tales acciones selectivas contra medios de comunicación rusos son inaceptables", afirmó el portavoz presidencial, Dmitri Peskov.](https://www.elcomercio.com/wp-content/uploads/2024/09/meta-wikipedia.jpg)
-
-El [Kremlin](https://www.elcomercio.com/actualidad/mundo/vladimir-putin-quinto-mandato-rusia.html "https://www.elcomercio.com/actualidad/mundo/vladimir-putin-quinto-mandato-rusia.html") tachó este martes 17 de septiembre de 2024 de “inaceptable” la **prohibición** de la cadena de televisión RT y otros **medios estatales rusos** en las plataformas de Meta, propietaria de Facebook, Instagram y Whatsapp.
-
-### Más noticias
-
-* [Vladímir Putin reconoce  el atentado terrorista contra la escuela de Beslán](https://www.elcomercio.com/actualidad/mundo/vladimir-putin-reconoce-atentado-terrorista-contra-escuela-beslan.html "Vladímir Putin reconoce  el atentado terrorista contra la escuela de Beslán")
-* [México no detendrá a Vladímir Putin si acude a la investidura de Claudia Sheinbaum](https://www.elcomercio.com/actualidad/mundo/mexico-detendra-vladimir-putin-acude-investidura-sheinbaum.html "México no detendrá a Vladímir Putin si acude a la investidura de Claudia Sheinbaum")
-
-“Meta se desacredita a sí misma. Tales acciones selectivas contra medios de comunicación rusos son inaceptables”, afirmó el portavoz presidencial, Dmitri Peskov, en su rueda de prensa telefónica diaria.
-
-Agregó que Meta con sus acciones “**complica las perspectivas de normalización** de relaciones” con las autoridades rusas, que ya bloquearon el acceso a Facebook e Instagram en este país tras el inicio de la guerra en Ucrania.
-
-Meta anunció previamente que prohibió “después de una cuidadosa consideración” la presencia del canal televisivo de noticias RT y otros **medios estatales rusos** en sus plataformas por operaciones de injerencia en otros países.
-
-“Rossiya Segodnya, RT y otras entidades relacionadas ahora están prohibidas en nuestras aplicaciones a nivel mundial por actividad de interferencia extranjera”, dijo un portavoz de Meta en un comunicado.
-
-La decisión de Meta llega días después de que el Gobierno de Estados Unidos anunciara sanciones contra RT y otros medios controlados por Moscú.
-
-El Departamento de Justicia de Estados Unidos anunció recientemente que había acusado a dos empleados de RT por canalizar casi 10 millones de dólares a una empresa estadounidense para crear y amplificar contenido alineado con los intereses rusos en medio de la campaña para las elecciones presidenciales estadounidenses del 5 de noviembre.
-
-Instagram lanza cuenta para adolescentes 
-=========================================
-
-Instagram lanza una nueva plataforma exclusiva para adolescentes con el fin de priorizar la seguridad.
-------------------------------------------------------------------------------------------------------
-
-![La nueva Cuenta de Adolescente de Instagram ofrecerá mayor privacidad para usuarios menores. Foto: Freepik.](https://www.elcomercio.com/wp-content/uploads/2024/09/instagram.adolescentes.jpg)
-
-**Instagram presentó este martes** 17 de septiembre de 2024 su **Cuenta de Adolescente**, una opción que brinda **mayor privacidad y restricciones controladas** por los padres en comparación con los perfiles de adultos. Solo los usuarios mayores de 16 años pueden modificar algunas de estas configuraciones. 
-
-### Más noticias
-
-* [Evita colocar imanes en la refrigeradora por estas razones](https://www.elcomercio.com/tendencias/tecnologia/refrigeradora-imanes-electrodomestico-cuidado.html "https://www.elcomercio.com/tendencias/tecnologia/refrigeradora-imanes-electrodomestico-cuidado.html") 
-* [Tutorial para activar el modo Beetlejuice en WhatsApp](https://www.elcomercio.com/tendencias/tecnologia/modo-beetlejuice-whatsapp-tecnologia.html "https://www.elcomercio.com/tendencias/tecnologia/modo-beetlejuice-whatsapp-tecnologia.html")
-
-**Cuenta de Adolescente para mayor seguridad y control parental** 
-------------------------------------------------------------------
-
-Esta **Cuenta de Adolescente estará** **disponible desde el 17 de septiembre de 2024** en Reino Unido, Estados Unidos, Canadá y Australia. Se implementará en la **Unión Europea** a finales de año y a **nivel mundial** a partir de enero de 2025, ofrece una experiencia más privada para los usuarios de 13 a 17 años. **Los perfiles serán privados por defecto**, con mayores garantías sobre quién puede contactarlos y qué contenidos pueden ver, según informa [Emol](https://www.emol.com/noticias/Tendencias/2024/09/17/1143068/meta-cuenta-adolescentes-instagram.html "https://www.emol.com/noticias/Tendencias/2024/09/17/1143068/meta-cuenta-adolescentes-instagram.html"). 
-
-Además, **los padres podrán supervisar las actividades de sus hijos en Instagram y tomar medidas como bloquear la aplicación** si lo consideran necesario. Esta medida de **Meta** busca brindar una **experiencia más segura para los adolescentes**, con opciones de configuración limitadas a los mayores de 16 años. 
-
-**Instagram refuerza la seguridad** 
-------------------------------------
-
-Instagram, siguiendo con Emol, ha implementado importantes restricciones en su nueva **Cuenta de Adolescente** para proteger a los usuarios jóvenes. **Los adolescentes deberán aceptar a nuevos seguidores, y las personas que no los siguen no podrán ver ni interactuar con su contenido**. Asimismo, **la configuración de mensajería será más estricta**: solo podrán recibir mensajes de personas a las que siguen o con las que ya están conectados. También **se limitará la exposición a contenido delicado**, como el relacionado con cirugías estéticas, en secciones como “Explorar” o “Reels”. 
-
-**Los padres tendrán un control detallado sobre el uso de la aplicación por parte de sus hijos**. Podrán **monitorear el tiempo de us**o, con notificaciones que alertan a los adolescentes si superan los 60 minutos diarios, y el acceso estará restringido entre las 10:00 pm y las 7:00 am.  
-
-**Aunque los padres no podrán leer los mensajes,** sí podrán ver **con quiénes han interactuado** y conocer los temas de interés del menor. **Los adolescentes menores de 16 años que deseen tener un perfil público y menos restricciones deberán obtener el permiso de sus padres**, incluso si ya están registrados en la plataforma. Meta destaca que estos cambios son fundamentales para asegurar una experiencia más segura y adecuada para los jóvenes usuarios. 
-
-**Imágenes e inteligencia artificial para verificar la edad** 
---------------------------------------------------------------
-
-Adicional, **Instagram desarrolla nuevas herramientas para verificar la edad de sus usuarios adolescentes**, según **Antigone Davis**, directora global de seguridad de Meta, citada por [El Mercurio](https://elmercurio.com.ec/2024/09/17/instagram-lanza-cuesta-adolescente-rapida-privada/#google_vignette "https://elmercurio.com.ec/2024/09/17/instagram-lanza-cuesta-adolescente-rapida-privada/#google_vignette"). Entre las novedades, **los adolescentes podrán certificar su edad mediante una foto o video que muestre un documento de identidad**, o mediante la validación por parte de otros usuarios. 
-
-**La plataforma utilizará inteligencia artificial (IA) para identificar señales que sugieran que un usuario podría ser menor de 18 años**. Por ejemplo, si un usuario afirma tener 18 años pero recibe mensajes que indican una edad menor, como un “Feliz 14 cumpleaños”, Instagram podrá detectar estas incongruencias. Estas medidas buscan mejorar la seguridad y la precisión en la verificación de edad dentro de la red social. 
-
-Carlos Garces en el XI ideal de la fecha 10 del fútbol peruano
-==============================================================
-
-Carlos Garcés llegó al Cienciano en el 2023 y ya lleva marcados 31 goles. Es el goleador del club desde ese momento.
---------------------------------------------------------------------------------------------------------------------
-
-![Carlos Garcés es el goleador del Cienciano en la temporada 2024.](https://www.elcomercio.com/wp-content/uploads/2024/09/garces_ideal_1.jpg)
-
-**Carlos Garces** brilló con luz propia en la fecha 10 del Torneo Clausura de Perú y mantiene al Cienciano del Cusco en la parte alta de la tabla de posiciones y muy cerca de los líderes. 
-
-El partido de **Carlos Garces ante la UTC Cajamarca** fue con todas la luces: dio una asistencia para el 0-1; anotó el 1-2 para asegurar los tres puntos; y fue una de las figuras de la jornada. 
-
-### Más noticias:
-
-* [Aucas se hunde en una crisis de resultados y críticas](https://www.elcomercio.com/deportes/futbol/aucas-crisis-liga-pro-tabla.html "Aucas se hunde en una crisis de resultados y críticas")
-* [Técnico Universitario aprieta la tabla de posiciones de la Liga Pro](https://www.elcomercio.com/deportes/futbol/tabla-posiciones-fecha6-liga-pro.html "Técnico Universitario aprieta la tabla de posiciones de la Liga Pro")
-* [¿Cuándo juega el Deportivo Quito el ascenso a Serie B?](https://www.elcomercio.com/deportes/futbol/cuando-juega-el-deportivo-quito-el-ascenso-serie-b.html "¿Cuándo juega el Deportivo Quito el ascenso a Serie B?")
-
-Garcés es uno de los **goleadores de la temporada 2024 de Perú con 15 tantos**, los mismos que el argentino-peruano Bernardo Cuesta, jugador histórico del Melgar que a sus 35 años demuestra que aún está en plena vigencia. 
-
-El **uruguayo-argentino Martín Cauteruccio**, delantero de Sporting Cristal de 37 años, es el goleador del certamen con 27 tantos y tiene la ventaja para llevarse la Bota de Oro de Perú. 
-
-El colombiano **Jarlín Quintero, delantero de 31 años** que milita en la UTC Cajamarca, es el segundo máximo anotador con 16 gritos.
-
-Garcés a sus **34 años le dio un nuevo impulso a su carrera**, luego de haber tenido un 2021 y 2022 con poco gol en su paso por Barcelona Sporting Club y 9 de Octubre, en donde anotó 14 tantos en 94 presencias. 
-
-Lejos de su pasado en el 2023, **fue contratado por Cienciano y anotó 31 goles en 59 partidos** con lo que recobró su olfato goleador y es el mejor delantero ecuatoriano que juega en el exterior en el 2024. 
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/09/garces_ideal_2-1024x683.jpg)
-
-Carlos Garces y un merecido reconocimiento
-------------------------------------------
-
-“Felicitaciones a nuestro delantero, **Carlos Garces, por ser parte del XI ideal de la fecha 10** del Torneo Clausura”, fue el mensaje con el que el Cienciano sacó pecho de su goleador. 
-
-El XI tiene una estructura con pasado en el fútbol ecuatoriano con la presencia del **paraguayo Williams Riveros (Universitario)** y el argentino Lucas Colitto (Cusco) que defendieron a Delfín y Barcelona SC, el primero; y Deportivo Cuenca, el segundo. 
-
-Además, el entrenador **más destacado de la jornada fue el argentino Fabián Bustos**, actualmente en Universitario, que en el país quedó campeón de la Liga Pro con Barcelona (2020) y Delfín (2019). 
-
-Este reconocimiento **llega a pocos días que fue designado como el mejor** DT del mes de agosto.
-
-En la fecha 10, Bustos y su **Universitario golearon 0-3 a Alianza Atlético** en el Estadio Municipal “Campeones del 36” de Sullana, ciudad que queda al norte de Lima cercana a la frontera con Ecuador. 
-
-El nacional Segundo Portocarrero, otro exBSC, fue titular y se mantuvo en la cancha hasta el minuto 63. 
-
-Alienación:
------------
-
-Diego Enríquez (Sporting Cristal); Leonel Galeano (Melgar), **Williams Riveros (Universitario)** y Erick Noriega (Alianza Lima); **Lucas Colitto (Cusco)**, Miguel Aucca (Cusco), Horacio Calcaterra (Universitario) y Martín Pérez Guedes (Universitario); **Carlos Garces (Cienciano)**, Kenji Cabrera (Melgar) y Adrián Ugarriza (Deportivo Garcilaso). 
-
-DT: Fabián Bustos (Universitario).  
-
-![Foto: Instagram Universitario.](https://www.elcomercio.com/wp-content/uploads/2024/09/garces_ideal_3-1024x683.jpg)
-
-Foto: Instagram Universitario.
-
-No te pierdas – El Confesionario
---------------------------------
-
-Es importante hablar del suicidio con los niños
-===============================================
-
-Abordar el suicidio abiertamente salva vidas. Aquí, te damos 9 consejos sobre cómo hacerlo con niños, adolescentes y adultos.
------------------------------------------------------------------------------------------------------------------------------
-
-![Hablar sobre el suicidio con niños y adolescentes es crucial para prevenir tragedias.](https://www.elcomercio.com/wp-content/uploads/2024/09/Prevencion-del-suicidio.jpg)
-
-Hablar del suicidio es un tema difícil, pero necesario para prevenirlo. Abordarlo de manera adecuada y abierta puede salvar vidas, especialmente en grupos vulnerables como los niños, adolescentes y adultos en crisis. Aquí te ofrecemos nueve sugerencias sobre cómo hablar del suicidio de manera efectiva y responsable con diferentes grupos de edad:
-
-### 1\. **Establece un ambiente de confianza**
-
-El primer paso para hablar del suicidio con cualquier persona, ya sea un niño o un adulto, es generar confianza. Crea un espacio seguro donde se sientan escuchados y comprendidos.
-
-### 2\. **Adapta el lenguaje según la edad**
-
-Utiliza un lenguaje adecuado según la edad de la persona. Con los niños, usa palabras sencillas y claros ejemplos para explicar lo que significa el suicidio, mientras que con los adolescentes y adultos puedes ser más directo y detallado.
-
-### 3\. **Haz preguntas abiertas y sin juzgar**
-
-Pregunta de manera abierta y directa si han tenido pensamientos de suicidio. Evita hacer sentir culpable a la persona. Preguntas como “¿Alguna vez has pensado en hacerte daño?” pueden abrir la puerta para una conversación sincera.
-
-### 4\. **Rompe los mitos y estigmas**
-
-Muchas personas evitan hablar del suicidio por miedo a dar ideas o incitar el acto. Sin embargo, estudios demuestran que hablar del tema puede ayudar a prevenirlo.
-
-### 5\. **Identifica señales de alerta**
-
-Reconocer signos como aislamiento, cambios de humor, expresiones de desesperanza, o hablar sobre la muerte es clave para detectar a tiempo un riesgo suicida.
-
-### 6\. **Promueve las redes de apoyo**
-
-Fomenta la importancia de contar con una red de apoyo. Asegúrate de que la persona sepa que puede contar con amigos, familiares o profesionales de la salud mental.
-
-### 7\. **Ofrece ayuda profesional**
-
-Cuando una persona revela pensamientos suicidas, es fundamental ofrecerle la opción de buscar ayuda profesional con un psicólogo o psiquiatra.
-
-### 8\. **No minimices el problema**
-
-Evita frases como “No pienses en eso” o “Tienes todo para ser feliz”. Acepta lo que sienten, valida sus emociones y ofréceles tu apoyo incondicional.
-
-### 9\. **Sigue de cerca el proceso**
-
-Después de la conversación inicial, mantente en contacto con la persona. Asegúrate de que sigue los tratamientos o busca ayuda profesional.
-
-Escucha nuestro podcast para conocer más del tema
--------------------------------------------------
-
-La psicóloga clínica Paola Estévez Valladares sobre la importancia de hablar abiertamente del suicidio con niños, adolescentes y adultos.
-
-Este artículo forma parte de ‘[El Cuaderno de la Salud](https://www.elcomercio.com/podcasts/cuaderno-de-la-salud.html)’ de EL COMERCIO. Si tienes consultas o sugerencias, llena el formulario a continuación. Mantente informado y cuida tu salud.
-
-Ecuador tendrá una cifra récord de representantes en la Champions League
-========================================================================
-
-La UEFA Champions League 24/25 estrena formato y contará con varios jugadores ecuatorianos como debutantes.
------------------------------------------------------------------------------------------------------------
-
-![Piero Hincapié será uno de los cuatro ecuatorianos que jugarán la Uefa Champions League 24/25.](https://www.elcomercio.com/wp-content/uploads/2024/09/ENDRICK-PALMEIRAS-2024-09-17T172202.366.jpg)
-
-La nueva edición de la **UEFA Champions League** arrancó este martes 17 de septiembre, con un nuevo y emocionante formato tras décadas de competiciones históricas. Sin embargo, lo más destacado no es solo el cambio en la estructura del torneo, sino la cantidad de **jugadores ecuatorianos** que participarán.
-
-Por primera vez en la historia, **cuatro futbolistas ecuatorianos** estarán presentes en la Champions League, lo que refleja el excelente momento que atraviesa el fútbol de Ecuador.
-
-### Más noticias:
-
-* [Bayern Múnich marca récord en Champions con supergoleada](https://www.elcomercio.com/deportes/futbol/bayern-munich-record-champions-dinamo-zagreb.html "Bayern Múnich marca récord en Champions con supergoleada")
-* [Liverpool supera al AC Milan en un partidazo de Champions](https://www.elcomercio.com/deportes/liverpoo-milan-partido-uefa-champions-league.html "Liverpool supera al AC Milan en un partidazo de Champions")
-* [Real Madrid ganó en su debut en Champions y Kylian Mbappé anotó](https://www.elcomercio.com/deportes/futbol/real-madrid-gano-debut-champions-league-kylian-mbappe-gol.html "Real Madrid ganó en su debut en Champions y Kylian Mbappé anotó")
-
-Estos jugadores, que ahora forman parte de importantes planteles en **Europa**, llevarán el nombre del país a lo más alto del fútbol mundial.
-
-### Ecuatorianos en la Champions League
-
-Entre los cuatro representantes ecuatorianos, tres debutarán en el torneo, mientras que uno de ellos ya cuenta con algo de experiencia en la competición.
-
-El primero es **Piero Hincapié**, quien se ha consolidado como una de las figuras del Bayer Leverkusen. Esta será su segunda participación en la Champions League, y su equipo está llamado a ser uno de los protagonistas del torneo.
-
-Le sigue **Willian Pacho**, quien fichó esta temporada con el París Saint-Germain, uno de los clubes más importantes del mundo. Para el defensor, esta será su primera experiencia en el certamen.
-
-Los otros dos ecuatorianos que completan este listado son **Ángelo Preciado** y **Joel Ordóñez**, quienes juegan en equipos de menor renombre, pero que son fundamentales en sus respectivas ligas.
-
-Preciado defenderá los colores del **Sparta Praga** de la República Checa, mientras que Ordóñez vestirá la camiseta del **Club Brujas** de Bélgica. Ambos harán su debut en la Champions League esta temporada.
-
-Calendario y rivales de los ecuatorianos
-----------------------------------------
-
-### Piero Hincapié – Bayer Leverkusen
-
-**Fecha 1:** Feyenoord (19 de septiembre / 11:45)
-
-**Fecha 2:** AC Milan (1 de octubre / 14:00)
-
-**Fecha 3:** Brest (23 de octubre / 11:45)
-
-**Fecha 4:** Liverpool (5 de noviembre / 14:00)
-
-**Fecha 5:** Salzburgo (26 de noviembre / 14:00)
-
-**Fecha 6:** Inter de Milán (10 de diciembre / 14:00)
-
-**Fecha 7:** Atlético de Madrid (21 de enero / 14:00)
-
-**Fecha 8:** Sparta Praga (29 de enero / 14:00)
-
-> ⭐️ ¡Regresamos al escenario [@LigadeCampeones](https://twitter.com/LigadeCampeones?ref_src=twsrc%5Etfw) !⭐️  
->   
-> Estos serán nuestros rivales en la máxima competición continental. ¿Opiniones? 😉[#UCLdraw](https://twitter.com/hashtag/UCLdraw?src=hash&ref_src=twsrc%5Etfw) | [#aCROSSeurope](https://twitter.com/hashtag/aCROSSeurope?src=hash&ref_src=twsrc%5Etfw) | [#SomosBayer04](https://twitter.com/hashtag/SomosBayer04?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/gWW6LnW7Tg](https://t.co/gWW6LnW7Tg)
-> 
-> — Bayer 04 Leverkusen (@bayer04\_es) [August 29, 2024](https://twitter.com/bayer04_es/status/1829202892735295945?ref_src=twsrc%5Etfw)
-
-### Willian Pacho – París Saint-Germain
-
-**Fecha 1:** Girona (18 de septiembre / 14:00)
-
-**Fecha 2:** Arsenal (1 de octubre / 14:00)
-
-**Fecha 3:** PSV (22 de octubre / 14:00)
-
-**Fecha 4:** Atlético de Madrid (6 de noviembre / 14:00)
-
-**Fecha 5:** Bayern Múnich (26 de noviembre / 14:00)
-
-**Fecha 6:** Salzburgo (10 de diciembre / 14:00)
-
-**Fecha 7:** Manchester City (22 de enero / 14:00)
-
-**Fecha 8:** Stuttgart (29 de enero / 14:00)
-
-> 🏆 [#UCLdraw](https://twitter.com/hashtag/UCLdraw?src=hash&ref_src=twsrc%5Etfw) :  
->   
-> 🏡🆚 [@ManCity](https://twitter.com/ManCity?ref_src=twsrc%5Etfw)  
-> ✈️🆚 [@FCBayern](https://twitter.com/FCBayern?ref_src=twsrc%5Etfw)  
-> 🏡🆚 [@Atleti](https://twitter.com/Atleti?ref_src=twsrc%5Etfw)  
-> ✈️🆚 [@Arsenal](https://twitter.com/Arsenal?ref_src=twsrc%5Etfw)  
-> 🏡🆚 [@PSV](https://twitter.com/PSV?ref_src=twsrc%5Etfw)  
-> ✈️🆚 [@RedBullSalzburg](https://twitter.com/RedBullSalzburg?ref_src=twsrc%5Etfw)  
-> 🏡🆚 [@GironaFC](https://twitter.com/GironaFC?ref_src=twsrc%5Etfw)  
-> ✈️🆚 [@VfB](https://twitter.com/VfB?ref_src=twsrc%5Etfw) [pic.twitter.com/7Sycv2dzGo](https://t.co/7Sycv2dzGo)
-> 
-> — Paris Saint-Germain (@PSG\_espanol) [August 29, 2024](https://twitter.com/PSG_espanol/status/1829200835785699336?ref_src=twsrc%5Etfw)
-
-### Ángelo Preciado – Sparta Praga 
-
-**Fecha 1:** Salzburgo (18 de septiembre / 11:45)
-
-**Fecha 2:** Stuttgart (1 de octubre / 11:45)
-
-**Fecha 3:** Manchester City (23 de octubre / 14:00)
-
-**Fecha 4:** Brest (6 de noviembre / 14:00)
-
-**Fecha 5:** Atlético de Madrid (26 de noviembre / 11:45)
-
-**Fecha 6:** Feyenoord (11 de diciembre / 14:00)
-
-**Fecha 7:** Inter de Milán (22 de enero / 14:00)
-
-**Fecha 8:** Bayer Leverkusen (29 de enero / 14:00)
-
-> 🎲 UCL DRAW | Our opponents in the league phase of the Champions League ⚔️  
->   
-> ➡️ [https://t.co/7wqriLqL7X](https://t.co/7wqriLqL7X) [pic.twitter.com/J4QypG6aMz](https://t.co/J4QypG6aMz)
-> 
-> — AC Sparta Prague (@ACSparta\_EN) [August 29, 2024](https://twitter.com/ACSparta_EN/status/1829219564665573533?ref_src=twsrc%5Etfw)
-
-### Joel Ordóñez – Club Brujas: 
-
-**Fecha 1:** Borussia Dortmund (18 de septiembre / 14:00)
-
-**Fecha 2:** Sturm Gaz (2 de octubre / 14:00)
-
-**Fecha 3:** AC Milan (22 de octubre / 11:45)
-
-**Fecha 4:** Aston Villa (6 de noviembre / 11:45)
-
-**Fecha 5:** Celtic FC (27 de noviembre / 14:00)
-
-**Fecha 6:** Sporting Lisboa (10 de diciembre /  14:00)
-
-**Fecha 7:** Juventus (21 de enero / 14:00)
-
-**Fecha 8:** Manchester City (29 de enero / 14:00)
-
-> The UEFA Champions League draw is in, let the battles begin. ✨ First thoughts? 😍 [#UCL](https://twitter.com/hashtag/UCL?src=hash&ref_src=twsrc%5Etfw)
-> 
-> — Club Brugge KV (@ClubBrugge) [August 29, 2024](https://twitter.com/ClubBrugge/status/1829200285878964684?ref_src=twsrc%5Etfw)
-
-Ecuador tiene déficit de policías por número de habitantes
-==========================================================
-
-Policías cuentan con nuevos equipos y aún hay temas en marcha.
---------------------------------------------------------------
-
-![Policías durante entrega de fusiles por parte del Gobierno.](https://www.elcomercio.com/wp-content/uploads/2024/09/policias-deficit.jpg)
-
-Ecuador vive una **crisis de seguridad**. Con los apagones se intensifican las tareas a la [Policía Nacional](https://www.policia.gob.ec/) y de las Fuerzas Armadas: resguardar a la población ante posibles delitos durante los racionamientos[.](https://es.wikipedia.org/wiki/Ecuador)
-
-La actualización del **manual del uso progresivo de la fuerza** está entre las medidas en torno a las actividades de las fuerzas del orden.
-
-### Más noticias
-
-* [Propuesta de Daniel Noboa sobre bases militares extranjeras debe seguir varios pasos](https://www.elcomercio.com/actualidad/politica/propuesta-daniel-noboa-bases-militares-extranjeras.html?source=Internal&ref=Latest%20News%20Widget%20-%20Front)
-* [Toque de queda en Ecuador solo será en seis provincias y un cantón](https://www.elcomercio.com/actualidad/politica/toque-de-queda-en-ecuador-solo-sera-en-cinco-provincias.html)
-* [Daniel Noboa pide control constitucional sobre bases extranjeras a la CC](https://www.elcomercio.com/actualidad/politica/daniel-noboa-pide-control-constitucional-tema-bases-extranjeras-cc.html "Daniel Noboa pide control constitucional sobre bases extranjeras a la CC")
-* [Daniel Noboa presentará proyecto para reformar la Constitución sobre bases militares extranjeras](https://www.elcomercio.com/actualidad/politica/daniel-noboa-proyecto-reformar-constitucion-bases-militares-extranjeras.html "Daniel Noboa presentará proyecto para reformar la Constitución sobre bases militares extranjeras")
-
-> [#ACLARACIÓN](https://twitter.com/hashtag/ACLARACI%C3%93N?src=hash&ref_src=twsrc%5Etfw) ||  
-> Reiteramos nuestro compromiso con la ciudadanía ante los racionamientos eléctricos en el país.  
->   
-> Más información en el siguiente [#video](https://twitter.com/hashtag/video?src=hash&ref_src=twsrc%5Etfw):👇📽️[https://t.co/YF5gZLmeGa](https://t.co/YF5gZLmeGa)
-> 
-> — Radio Vigía (Oficial) (@radio\_vigia) [September 17, 2024](https://twitter.com/radio_vigia/status/1836159539487371730?ref_src=twsrc%5Etfw)
-
-Policías y las labores en la crisis de seguridad
-------------------------------------------------
-
-El general **Víctor Hugo Zárate**, comandante general de la Policía, dio cuenta de las complicaciones y, a la par, de los avances que experimentan los uniformados.
-
-Un revés que enfrentan es la labor de los jueces. **Zárate** hizo un llamado a los funcionarios para respaldar el accionar de la Policía.
-
-Eso debido a que las tareas de inteligencia y operativos dejan antisociales aprehendidos que, a las pocas horas o días, salen en libertad. Esto cuando, recalcó la Autoridad, **“los policías nos jugamos la vida”**.
-
-Sobre la actualización del manual de uso progresivo de la fuerza, dispuesto por el presidente **Daniel Noboa**, el Comandante detalló que ya se concretó.
-
-Según puntualizó, ahora, cuentan con un **manual dinámico** y que quien evalúa la amenaza es el servidor policial, en defensa de la vida de terceros y los uniformados.
-
-Por lo que Zárate enfatizó que es fundamental que los jueces conozcan la labor de los **policías**, quienes toman decisiones en segundos para solventar un **hecho violento**.
-
-El Comandante dio los detalles durante una entrevista en Teleamazonas, este martes, 17 de septiembre de 2024.
-
-> [#Seguridad](https://twitter.com/hashtag/Seguridad?src=hash&ref_src=twsrc%5Etfw) || La Policía Nacional del Ecuador desplegará a 46,000 servidores policiales en todo el país, intensificando patrullajes en zonas vulnerables y ejes viales durante los cortes de energía.  
->   
-> Detalles 👇🏻 🚨 [https://t.co/EZCTCqnVbx](https://t.co/EZCTCqnVbx)[#PolicíaEcuador](https://twitter.com/hashtag/Polic%C3%ADaEcuador?src=hash&ref_src=twsrc%5Etfw)[#ApagonNacional](https://twitter.com/hashtag/ApagonNacional?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/OBVuqP0lAd](https://t.co/OBVuqP0lAd)
-> 
-> — Radio Vigía (Oficial) (@radio\_vigia) [September 17, 2024](https://twitter.com/radio_vigia/status/1836156194999931131?ref_src=twsrc%5Etfw)
-
-¿Hay suficientes policías?
---------------------------
-
-De acuerdo con el General, la institución tiene un **déficit de servidores policiales**. La **Organización de las Naciones Unidas (ONU)** recomienda la existencia de cuatro por cada **1000 habitantes**.
-
-En Ecuador, el número asciende a **47 450** y 1800 se encuentran en formación. A decir de Zárate, la institución trabaja para suplir las bajas de uniformados que, por ejemplo, han cumplido sus labores. Sin embargo, el déficit corresponde a **12 000**.
-
-Además, aunque ya cuentan con más equipos para cumplir con las labores, como cascos, chalecos, armas primarias para cada policía y **394 vehículos**, aún resta completar elementos tecnológicos, sobre todo, para el área investigativa.
-
-Durante los apagones, la Policía reforzará los controles. En **Quito**, por ejemplo, se anunció que se pondría énfasis en ocho puntos, incluidos los ingresos a la ciudad.
-
-Habrá equipos de un patrullero y motocicletas para el resguardo en los distintos puntos. Los distritos **Quitumbe, Eloy Alfaro y La Delicia** están entre los priorizados. A las labores se sumará personal que habitualmente está en las áreas administrativas.
-
-Ministerio de Educación cambia los horarios de clases por apagón programado
-===========================================================================
-
-Las disposiciones se anuncian debido a los cortes de luz nacionales que se realizarán entre el miércoles 18 y jueves 19 de septiembre.
---------------------------------------------------------------------------------------------------------------------------------------
-
-![Los cambios en los horarios de clases aplican para todas las unidades educativas del Ecuador](https://www.elcomercio.com/wp-content/uploads/2024/09/clasesss.jpg)
-
-El **Ministerio de Educación** anunció cambios para las jornadas escolares durante el primer **apagón** programado que tendrá Ecuador.
-
-La cartera de Estado informó las nuevas disposiciones a a través de un comunicado difundido la tarde de este martes 17 de septiembre de 2024.
-
-### Más noticias
-
-* [¿Cómo será el servicio de telefonía móvil e Internet en los apagones?](https://www.elcomercio.com/actualidad/negocios/como-sera-el-servicio-de-telefonia-movil-e-internet-en-los-apagones.html "¿Cómo será el servicio de telefonía móvil e Internet en los apagones?")
-* [Ecuador tendrá apagones de ocho horas ¿Cuál es el impacto económico de la medida?](https://www.elcomercio.com/actualidad/negocios/ecuador-apagones-impacto-economico-crisis-energia.html "Ecuador tendrá apagones de ocho horas ¿Cuál es el impacto económico de la medida?")
-* [Recomendaciones para aplicar en los apagones y cortes de luz en Ecuador](https://www.elcomercio.com/actualidad/ecuador/recomendaciones-apagones-ecuador.html "Recomendaciones para aplicar en los apagones y cortes de luz en Ecuador")
-
-La medida guarda relación con el **Decreto 392** suscrito por el presidente **Daniel Noboa**, en el cual se dispone un **toque de queda** en seis provincias del Ecuador y un cantón adicional.
-
-Cambios en horarios escolares
------------------------------
-
-Los cambios en las jornadas escolares son los siguientes:
-
-* **Jornada matutina:** el inicio de clases se realizará una hora después del horario habitual. El horario de salida se mantendrá normal.
-* **Jornada vespertina:** horario normal de ingreso y salida.
-* **Jornada nocturna:** el ingreso será normal, sin embargo, la salida deberá anticiparse a las 20:00.
-
-El Ministerio explicó que el miércoles 18 de septiembre, los cambios únicamente se realizarán para las escuelas y colegios nocturnos.
-
-Mientras que para el jueves 19 de septiembre, los ajustes aplican para **todas las jornadas**.
-
-Las actividades se realizarán en **modalidad presencial**, en todas las unidades educativas del Ecuador.
-
-Estas acciones “garantizan la seguridad de la comunidad educativa y su bienestar integral”, indicó el Ministerio de Educación.
-
-> \[COMUNICADO\] Informamos a la ciudadanía sobre las medidas que garantizan la continuidad del proyecto educativo, la seguridad de la comunidad educativa y su bienestar integral, ante las medidas adoptadas por el Gobierno Nacional para el manejo responsable del sistema eléctrico. [pic.twitter.com/1T12eOqwGZ](https://t.co/1T12eOqwGZ)
-> 
-> — Ministerio de Educación del Ecuador (@Educacion\_Ec) [September 17, 2024](https://twitter.com/Educacion_Ec/status/1836160121895813250?ref_src=twsrc%5Etfw)
-
-Cortes de luz y toque de queda
-------------------------------
-
-El Gobierno Nacional realizará mantenimientos preventivos en el Sistema Nacional de Transmisión y redes de distribución de **energía eléctrica**, lo que provocará un corte temporal del suministro eléctrico en todo el territorio nacional.
-
-La suspensión del servicio eléctrico se realizará desde las **22:00** del miércoles 18 hasta las **06:00** del jueves 19 de septiembre.
-
-En este mismo horario, el presidente Noboa dispuso un toque de queda en varias provincias.
-
-Las **provincias afectadas** por la medida incluyen: Guayas, Los Ríos, Manabí, Orellana, Santa Elena, El Oro, y el cantón Camilo Ponce Enríquez de la provincia de Azuay.
-
-Según el comunicado oficial emitido por Presidencia, el objetivo de esta medida es “**reforzar la seguridad ciudadana** y proteger a la población ante la creciente preocupación por la violencia y la criminalidad”.
-
-Además del apagón programado para esta semana, también se realizarán otros cortes de luz de ocho horas diarias.
-
-Los racionamientos de energía tendrán lugar el lunes 23, martes 24, miércoles 25 y jueves 26 de septiembre, en la misma **franja horaria**.  
-
-  
-  
-  
-
-Gobierno de Venezuela rechaza el respaldo de Estados Unidos a González y a Machado
-==================================================================================
-
-Estados Unidos reconoce a Edmundo González como ganador de las elecciones.
---------------------------------------------------------------------------
-
-![El canciller venezolano, Yván Gil, en una foto de archivo. EFE/ Miguel Gutiérrez](https://www.elcomercio.com/wp-content/uploads/2024/09/rss-efe765ffdd89f37fe92b89408b283ac0775fcf6587cw-e1726612129472.jpg)
-
-[Venezuela](https://www.elcomercio.com/actualidad/mundo/reclaman-justicia-argentina-ordene-detencion-nicolas-maduro.html "https://www.elcomercio.com/actualidad/mundo/reclaman-justicia-argentina-ordene-detencion-nicolas-maduro.html") rechazó el apoyo expresado este martes, 17 de septiembre de 2024, por el secretario de Estado estadounidense, Antony Blinken, al líder del mayor bloque antichavista, Edmundo González y a María Corina Machado, a quienes prometió que Washington “seguirá defendiendo el retorno a la democracia” en el país caribeño.
-
-### Más noticias
-
-* [Venezuela sumó en agosto 229 protestas a favor de Edmundo González](https://www.elcomercio.com/actualidad/venezuela-sumo-agosto-229-protestas-favor-gonzalez-urrutia-segun-observatorio.html "Venezuela sumó en agosto 229 protestas a favor de Edmundo González")
-* [Ecuador cierra Consulado en Venezuela, ¿qué pasará con sus servicios?](https://www.elcomercio.com/actualidad/ecuador/ecuador-consulado-venezuela-servicios-cierre.html "Ecuador cierra Consulado en Venezuela, ¿qué pasará con sus servicios?")
-* [Servicios consulares para ecuatorianos en Venezuela tendrán cambios](https://www.elcomercio.com/actualidad/ecuador/servicios-consulares-para-ecuatorianos-venezuela-cambios.html "Servicios consulares para ecuatorianos en Venezuela tendrán cambios")
-
-El canciller venezolano, Yván Gil, dijo que Blinken “se aferra a un (Juan) Guaidó parte dos que huyó y abandono a su gente, hundiéndolos en un nuevo fracaso”, en alusión al exilio de González Urrutia en España, a donde llegó el 8 de septiembre tras solicitar **asilo debido a la persecución** que denunció haber sufrido en su país luego de los comicios del 28 de julio.
-
-Tras las presidenciales, en las que la PUD asegura que ganó su abanderado, el Gobierno suele referirse como “Guaidó 2.0” a González Urrutia, quien sí compitió en unas elecciones, a diferencia del exdiputado, quien se autoproclamó “mandatario interino” de Venezuela en 2019.
-
-En un mensaje compartido en Telegram, **Gil instó a Blinken a que “asuma la realidad”**, que en Venezuela, con “el presidente Nicolás Maduro Moros, triunfó la paz”.
-
-“El pueblo bolivariano construye victoriosamente su destino y triturará la brutalidad de los arrogantes, mentirosos y estafadores políticos, quienes, aliados con delincuentes, pretenden desviarnos de la senda de prosperidad que hemos consolidado”, expresó el canciller.
-
-Este martes, en una llamada con ambos líderes opositores, Blinken también dijo que “se esforzará por garantizar que se **respete la voluntad de los votantes venezolanos** y exigirá cuentas” al presidente Maduro, según informó el portavoz del Departamento de Estado, Matthew Miller.
-
-Asimismo, el secretario de Estado elogió la “valentía y el compromiso” de González -a quien EE.UU. reconoce como ganador de las elecciones- y de Machado “con los principios democráticos frente a la brutal represión”.
-
-Estos son los servicios públicos que atenderán con normalidad, pese al teletrabajo y cortes de luz
-==================================================================================================
-
-El Ministerio de Trabajo dio directrices a entidades que deben garantizar los servicios públicos, pese al teletrabajo y los cortes de luz.
-------------------------------------------------------------------------------------------------------------------------------------------
-
-![Salud es uno de los servicios públicos que está garantizado, pese a teletrabajo y cortes de luz.](https://www.elcomercio.com/wp-content/uploads/2024/06/pablo-arturo-hospital.jpg)
-
-El Ministerio de Trabajo detalló las entidades que deberán garantizar los servicios públicos, pese a la disposición de teletrabajo, este martes 17 de septiembre de 2024.
-
-El Gobierno ordenó teletrabajo para el sector público cuatro días: 19, 20, 26 y 27 de septiembre de 2024, por los cortes de luz programados a escala nacional.
-
-### Más noticias:
-
-* [ECU 911 hizo un anuncio respecto a los cortes de luz a escala nacional](https://www.elcomercio.com/actualidad/ecuador/ecu-911-hizo-un-anuncio-respecto-a-los-cortes-de-luz-a-escala-nacional.html "ECU 911 hizo un anuncio respecto a los cortes de luz a escala nacional")
-* [Gobierno de Daniel Noboa anuncia nuevos apagones programados](https://www.elcomercio.com/actualidad/negocios/gobierno-de-daniel-noboa-anuncia-nuevos-apagones-programados.html "Gobierno de Daniel Noboa anuncia nuevos apagones programados")
-
-La tarde de este martes, el Ministerio de Trabajo especificó cuáles son las entidades y los servicios públicos que deberán ser garantizados, en estos días.
-
-Servicios públicos garantizados, pese a teletrabajo por cortes de luz
----------------------------------------------------------------------
-
-El Ministerio de Trabajo señaló que “deberán garantizar la prestación del servicio público con total normalidad” varias entidades públicas.
-
-Aquí están las entidades que prestan servicios básicos, salud, seguridad, terminales aéreos, terrestres, marítimos, fluviales.
-
-Además, organismos que pertenezcan al Sistema Nacional de Inteligencia y otros sectores estratégicos, y la atención de emergencias y riesgos.
-
-Estas entidades deberán ejecutar las acciones necesarias para resolver cualquier situación que se requiera.
-
-Quedará bajo su arbitrio y atendiendo la naturaleza de sus funciones, el acogerse a la disposición de teletrabajo.
-
-Las personas en puestos que no sean susceptibles de teletrabajo planificarán con la Unidad de Administración del Talento Humano la recuperación de los días no laborados.
-
-El sector privado acatará con criterio discrecional lo dispuesto por la Presidencia de la República del Ecuador.
-
-“Respetando los derechos laborales y procurando mantener las actividades que, por su naturaleza y necesidad social, no pueden paralizarse, suspenderse”, concluyó el Ministerio.
-
-Ecovía y Trolebús modificarán sus horarios por cortes de luz
-============================================================
-
-Quito ajusta servicios y transporte ante cortes de luz del 18 al 19 de septiembre. Cambios en Ecovía, Trolebús y horarios municipales.
---------------------------------------------------------------------------------------------------------------------------------------
-
-![Los servicios de transporte del Trolebús y Ecovía se modificarán por cortes de luz.](https://www.elcomercio.com/wp-content/uploads/2024/05/horarios-trole-s.jpg)
-
-El **Gobierno** anunció cortes de luz en todo el país, que se llevarán a cabo desde la noche del miércoles 18 de septiembre de 2024, a **partir de las 22:00, hasta las 06:00 del jueves 19**.
-
-### Más noticias
-
-* [Estas son las sanciones por incumplir el toque de queda en Ecuador](https://www.elcomercio.com/actualidad/seguridad/toque-queda-ecuador-sanciones-decreto.html "Estas son las sanciones por incumplir el toque de queda en Ecuador")
-* [Metro de Quito ajustará su horario ante los cortes de luz este miércoles 18 de septiembre](https://www.elcomercio.com/actualidad/quito/metro-de-quito-ajusta-horario-cortes-de-luz-miercoles-18-septiembre.html "Metro de Quito ajustará su horario ante los cortes de luz este miércoles 18 de septiembre")
-* [Recomendaciones para aplicar en los apagones y cortes de luz en Ecuador](https://www.elcomercio.com/actualidad/ecuador/recomendaciones-apagones-ecuador.html "Recomendaciones para aplicar en los apagones y cortes de luz en Ecuador")
-
-En respuesta, la **Alcaldía de Quito** implementará medidas para garantizar el funcionamiento de los **servicios en la ciudad**. Entre estas medidas se incluyen cambios en los horarios de los sistemas de transporte **Ecovía y Trolebús**.
-
-Obras y mantenimiento
----------------------
-
-La **Empresa Pública Metropolitana de Movilidad y Obras Públicas (Epmmop)** seguirá con sus actividades regulares de **mantenimiento vial, parques y aceras durante el día**. Los trabajos nocturnos serán pausados debido a la **falta de luz**.
-
-Los estacionamientos, terminales y el peaje Guayasamín **no se verán afectados por los cortes**, ya que cuentan con **plantas de energía propias**.
-
-> 🚎 [#QuitoInformado](https://twitter.com/hashtag/QuitoInformado?src=hash&ref_src=twsrc%5Etfw) | Tras el anuncio del Gobierno Nacional sobre los cortes de luz a escala nacional, la noche del miércoles 18 de septiembre de 2024 desde las 22h00 hasta las 06h00 del jueves 19 de septiembre, y la emisión del Decreto Ejecutivo pertinente, la Alcaldía de Quito… [pic.twitter.com/3YlYJyqHCR](https://t.co/3YlYJyqHCR)
-> 
-> — Municipio de Quito (@MunicipioQuito) [September 17, 2024](https://twitter.com/MunicipioQuito/status/1836141116694954485?ref_src=twsrc%5Etfw)
-
-Los parques metropolitanos también ajustarán sus horarios. Estarán abiertos de lunes a domingo desde las **06h00 hasta las 19h00**, garantizando el acceso al público.
-
-Seguridad y servicios ciudadanos
---------------------------------
-
-La **Secretaría de Seguridad** dispuso la movilización de **9 patrullas mixtas que recorrerán las distintas zonas administrativas de Quito**. Estas estarán integradas por personal de la Agencia Metropolitana de Control, el Cuerpo de Agentes del Municipio y la Policía Nacional.
-
-Además, se garantiza la seguridad en la **Administración Zonal del Chocó Andino**.
-
-El **Municipio de Quito** continuará brindando atención normal a través de sus canales presenciales y virtuales. No obstante, el **Registro de la Propiedad** suspenderá sus servicios en línea desde las 19h30 del miércoles 18 de septiembre hasta las 09:00 del jueves 19, debido a apagados controlados de sus servidores.
-
-El **Mercado Mayorista de Quito** también suspenderá sus operaciones desde las 22h00 del miércoles hasta las 06h00 del jueves. No se aplicarán restricciones al ingreso de productos hasta las 21h00 del miércoles, para **asegurar el abastecimiento**.
-
-**Emaseo** mantendrá sus horarios habituales de recolección de basura sin modificaciones, asegurando la continuidad de este servicio. Los **trabajadores estarán debidamente identificados y equipados** con linternas para sus **labores durante la noche**.
-
-La **Empresa Pública Metropolitana de Agua Potable y Saneamiento (Epmaps)** está a la espera de las indicaciones del **Operador Nacional de Electricidad (Cenac)** para evaluar cómo afectarán los cortes de luz al sistema de bombeo de agua.
-
-Educación, salud y cultura
---------------------------
-
-Las **Unidades Educativas Municipales** acatarán las disposiciones del **Ministerio de Educación**. Los estudiantes del bachillerato acelerado saldrán una hora antes, a las 19h30, para **resguardar su seguridad**.
-
-Los **centros de salud municipales seguirán operando normalmente**. No obstante, las cirugías programadas para el jueves y viernes se reprogramarán. El Patronato Municipal San José y la Unidad de Bienestar Animal continuarán con su atención regular.
-
-El sector cultural también sufrirá algunas modificaciones. El Centro de Arte Contemporáneo suspenderá sus actividades, mientras que el Teatro Sucre ajustará los horarios del Festival de Jazz. El Instituto Metropolitano de Patrimonio reprogramará algunos de sus eventos culturales.
-
-Transporte público y movilidad
-------------------------------
-
-El miércoles 18 de septiembre, tanto la **Ecovía como el Trolebús** ajustarán sus horarios. Las operaciones de estos sistemas iniciarán a las **05h00**, cerrando las troncales a las **20h00** y las rutas alimentadoras a las **21h00**. El **[Metro de Quito](https://www.elcomercio.com/actualidad/quito/metro-de-quito-ajusta-horario-cortes-de-luz-miercoles-18-septiembre.html "Metro de Quito ajustará su horario ante los cortes de luz este miércoles 18 de septiembre")** también modificará sus operaciones, comenzando a las **05h30** y concluyendo a las **20h00**.
-
-Para el jueves 19 de septiembre, la **Ecovía y el Trolebús abrirán a las 06h00**. El cierre de las troncales será a las **22h00** y el de las **alimentadoras a las 22h30**. El **Metro de Quito aún no ha definido sus horarios para ese día**, ya que depende de la información que proporcione la **Empresa Eléctrica Quito**.
-
-> [Ver esta publicación en Instagram](https://www.instagram.com/p/DABxNecRCQg/?utm_source=ig_embed&utm_campaign=loading)
-> 
-> [Una publicación compartida por El Comercio de Ecuador (@elcomerciocom)](https://www.instagram.com/p/DABxNecRCQg/?utm_source=ig_embed&utm_campaign=loading)
-
-Por su parte, la **Agencia Metropolitana de Tránsito (AMT)** mantendrá su atención habitual en todos sus centros. No habrá modificaciones en los horarios de **revisión vehicular** ni en el **sistema de pico y placa**. Para la seguridad vial, **118 agentes estarán en turno nocturno y 510 en el matutino**.
-
-Sin agua, sin luz… ¿qué sigue?
-==============================
-
-Un país relativamente pequeño, con buenas fuentes hídricas, pero incapaz de servir a sus propias ciudades.
-----------------------------------------------------------------------------------------------------------
-
-![Saudia Levoyer, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Saudia-Levoyer-2.jpg)
-
-Muchos se muestran felices, encantados, maravillados, con tanto sol y calor, especialmente en **Quito**. Es que llevamos semanas con **cielos tan azules** y **sin nubes**, que pareciera que vivimos en un **eterno verano**, de ese que tienen los países con **cuatro estaciones**. Días repletos de luz, de gente vestida con ropa muy liviana, con **gafas** y, en algunos casos, con **gorras** o **sombreros**, cargando **botellas** de **agua** o de cualquier líquido en **autos**, mochilas o en las manos. Unos cuantos llevan una **chaqueta** por si corre ese viento frío de las tardes en las **montañas**. Alrededor nuestro, los colores ocres se aprecian en las vías, las canchas, los jardines… Sentimos el sol metiéndose en nuestra **piel** y en nuestros **pulmones** cuando en los **valles** el aire que se respira se siente caliente, mezclado con la **contaminación** que emanan decenas de autos o los restos de algunos de los **incendios** que hemos soportado.
-
-Pero hay quienes la están pasando mal. En medio de este fuerte **calor**, hay barrios enteros que no tienen **agua**. El servicio se da por horas para que puedan abastecerse y atender sus necesidades de **limpieza** y de **alimentación**. No me cree, pregunte a quienes viven en zonas como **San Antonio** de **Pichincha** o **Calacalí**. O a quienes tienen sus hogares por **La Merced** y otros sitios aledaños. A algunos barrios les están **racionando** el **agua** hasta por 20 horas.
-
-La verdad es que ya no son los años 70 y 80 de siglo pasado, cuando parte de lo que hacían los **niños** y los **adolescentes** era buscar una **llave** por donde saliese un poco de **agua** para ir a recogerla en **baldes**. Las **casas actuales** ya no tienen los **tanques** de **agua** hacia donde corría cualquier miembro de la **familia** para abrir la **llave** y llenarlo para poder lavar platos, la ropa o utilizar en los baños, apenas alguien gritaba “llegó el agua”. Hay **conjuntos** o **edificios** que tienen **cisternas**, otros no porque no pueden pagarlas y otros más se oponen porque se atenta contra la **estética** de donde viven (esto último me pareció increíble, pero es real).
-
-**Quito** es una **ciudad** enorme, con sus **parroquias** convertidas en **miniciudades** satélites, en una suerte de islas interconectadas por unas pocas **vías** y con problemas que son de replay como el del **agua**. Un **país** relativamente pequeño, con buenas **fuentes hídricas**, pero incapaz de servir a sus propias **ciudades**.
-
-A esto se agrega el tema de los **apagones**. Sí, que hubo descuido, **negligencia**, negociados, **irresponsabilidad**… Los adjetivos pueden ser muchísimos, pero eso no cambia la **realidad**. A casi nadie le importa el **país** y querer apoyar resulta una quimera. A los **ciudadanos** que aportan para mejorar el **ambiente**, ya sea por la compra de **autos híbridos** o **eléctricos** o la instalación de **paneles solares**, no los apoyan como en otros **países**, por ejemplo, con el descuento de **impuestos personales**.
-
-Aquí no, aquí hay una suerte de **castigos**. Cito dos: a más de la **inversión** en **tecnología** más cara deben pagar por varios años **matrículas** vehiculares costosas.  Tampoco se apoya la instalación de **paneles solares** o cualquier **sistema** de **energía** alternativa en las **casas**. Si los quiere, resígnese a pagar unos 25 000 dólares por los **paneles** y si es con **combustible fósil** se ahorra 9 000, es decir, baja a 16 000.
-
-Si no hay **planeación**, **incentivos** para que los **ciudadanos** apoyen (no solo con el ahorro de agua y luz) y **decisión**, vivir como hace 40 o 50 años será la moda.
