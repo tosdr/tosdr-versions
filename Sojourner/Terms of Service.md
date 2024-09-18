@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-89d6350aa6b24fe9ab38042ca9b96471
+769eca486a85bc8effa090b57d3ab1c1
 
 [](# "Expand for more options")[](# "Search")
 
@@ -142,11 +142,11 @@ Terms and Conditions
 
 ### Featured Product
 
-[![Slate blue and white hand-loomed cotton blanket](https://sojourner.biz/images/cache/bohemian_chic/TX0006.200.webp)](https://sojourner.biz/bohemian-chic-decor/slate-blue-and-white-hand-loomed-cotton-blanket.html "Slate blue and white hand-loomed cotton blanket")
+[![Faux coral clasp](https://sojourner.biz/images/cache/SKU0308-1front.200.jpg)](https://sojourner.biz/clasps/faux-stone/faux-coral-clasp.html "Faux coral clasp")
 
-#### [Slate blue and white hand-loomed cotton blanket](https://sojourner.biz/bohemian-chic-decor/slate-blue-and-white-hand-loomed-cotton-blanket.html "Slate blue and white hand-loomed cotton blanket")
+#### [Faux coral clasp](https://sojourner.biz/clasps/faux-stone/faux-coral-clasp.html "Faux coral clasp")
 
-$175.00
+$45.00
 
 ### Best Sellers
 
