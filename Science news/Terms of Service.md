@@ -118,7 +118,7 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [Projectile pollen helps this flower edge out reproductive competition](https://www.sciencenews.org/article/projectile-pollen-flower-competition)
             
-            By [Nala Rogers](https://www.sciencenews.org/author/nala-rogers "Posts by Nala Rogers")13 hours ago
+            By [Nala Rogers](https://www.sciencenews.org/author/nala-rogers "Posts by Nala Rogers")20 hours ago
             
         * [Neuroscience](https://www.sciencenews.org/topic/neuroscience)
             
@@ -165,7 +165,7 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [How to spot tiny black holes that might pass through the solar system](https://www.sciencenews.org/article/primordial-black-holes-solar-system) 
             
-            By [Emily Conover](https://www.sciencenews.org/author/emily-conover "Posts by Emily Conover")11 hours ago
+            By [Emily Conover](https://www.sciencenews.org/author/emily-conover "Posts by Emily Conover")18 hours ago
             
         * [Quantum Physics](https://www.sciencenews.org/topic/quantum-physics)
             
@@ -188,7 +188,7 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [How to spot tiny black holes that might pass through the solar system](https://www.sciencenews.org/article/primordial-black-holes-solar-system) 
             
-            By [Emily Conover](https://www.sciencenews.org/author/emily-conover "Posts by Emily Conover")11 hours ago
+            By [Emily Conover](https://www.sciencenews.org/author/emily-conover "Posts by Emily Conover")18 hours ago
             
         * [Space](https://www.sciencenews.org/topic/space)
             
