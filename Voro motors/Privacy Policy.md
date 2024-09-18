@@ -41,8 +41,10 @@ Menu [![VORO MOTORS](//www.voromotors.com/cdn/shop/files/logo_white_410x.png?v=1
         * [Hill Climbing E-Scooters](https://www.voromotors.com/collections/electric-scooter-for-climbing-hills)
         * [Refurbished E-Scooters](https://www.voromotors.com/collections/refurbished-electric-scooter)
 * [Electric Bikes](https://www.voromotors.com/collections/electric-bikes)
-    * [E Ride](https://www.voromotors.com/collections/e-ride-electric-bikes)
+    * [E Ride Pro](https://www.voromotors.com/collections/e-ride-electric-bikes)
         * [E Ride Pro-SS 19"(New!)](https://www.voromotors.com/products/e-ride-pro-ss-19)
+    * [Altis(Coming Soon!)](https://www.voromotors.com/collections/altis-ebikes)
+        * [Altis Sigma(Coming Soon!)](https://www.voromotors.com/products/altis-sigma-best-electric-dirt-bike-98v-35ah-e-dirt-bike)
 * [Accessories](https://www.voromotors.com/collections/electric-scooter-parts-and-accessories/accessories)
     * [EMOVE](https://www.voromotors.com/collections/emove-accessories-and-parts/accessories)
         * [Cruiser](https://www.voromotors.com/collections/electric-scooter-parts-and-accessories/emove-cruiser+accessories)
@@ -71,6 +73,7 @@ Menu [![VORO MOTORS](//www.voromotors.com/cdn/shop/files/logo_white_410x.png?v=1
 * [Spare Parts](https://www.voromotors.com/collections/electric-scooter-parts-and-accessories/spare-parts)
     * [EMOVE](https://www.voromotors.com/collections/emove-accessories-and-parts/spare-parts)
         * [Cruiser](https://www.voromotors.com/collections/electric-scooter-parts-and-accessories/emove-cruiser+spare-parts)
+        * [Cruiser V2](https://www.voromotors.com/collections/emove-cruiser-v2-parts-catalog)
         * [Touring](https://www.voromotors.com/collections/electric-scooter-parts-and-accessories/emove-touring+spare-parts)
         * [RoadRunner SE](https://www.voromotors.com/collections/electric-scooter-parts-and-accessories/emove-roadrunner-se+spare-parts)
         * [RoadRunner](https://www.voromotors.com/collections/electric-scooter-parts-and-accessories/emove-roadrunner+spare-parts)
@@ -230,9 +233,13 @@ Continue Shopping
 * [Hill Climbing E-Scooters](https://www.voromotors.com/collections/electric-scooter-for-climbing-hills)
 * [Refurbished E-Scooters](https://www.voromotors.com/collections/refurbished-electric-scooter)
 
-* [E Ride](https://www.voromotors.com/collections/e-ride-electric-bikes)
+* [E Ride Pro](https://www.voromotors.com/collections/e-ride-electric-bikes)
 
 * [E Ride Pro-SS 19"(New!)](https://www.voromotors.com/products/e-ride-pro-ss-19)
+
+* [Altis(Coming Soon!)](https://www.voromotors.com/collections/altis-ebikes)
+
+* [Altis Sigma(Coming Soon!)](https://www.voromotors.com/products/altis-sigma-best-electric-dirt-bike-98v-35ah-e-dirt-bike)
 
 * [EMOVE](https://www.voromotors.com/collections/emove-accessories-and-parts/accessories)
 
@@ -269,6 +276,7 @@ Continue Shopping
 * [EMOVE](https://www.voromotors.com/collections/emove-accessories-and-parts/spare-parts)
 
 * [Cruiser](https://www.voromotors.com/collections/electric-scooter-parts-and-accessories/emove-cruiser+spare-parts)
+* [Cruiser V2](https://www.voromotors.com/collections/emove-cruiser-v2-parts-catalog)
 * [Touring](https://www.voromotors.com/collections/electric-scooter-parts-and-accessories/emove-touring+spare-parts)
 * [RoadRunner SE](https://www.voromotors.com/collections/electric-scooter-parts-and-accessories/emove-roadrunner-se+spare-parts)
 * [RoadRunner](https://www.voromotors.com/collections/electric-scooter-parts-and-accessories/emove-roadrunner+spare-parts)
