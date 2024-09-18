@@ -1953,11 +1953,11 @@ Sun
 
 Guests
 
-EnglishEUR
+EnglishUSD
 
 English
 
-EUR
+USD
 
 * Accommodation
 * Explore Hostelworld
@@ -2226,7 +2226,7 @@ Language
 
 English
 
-EUR
+USD
 
 **Accommodation**[Hostels](https://www.hostelworld.com/hostels/ "Hostels")[Hotels](https://www.hostelworld.com/hotels/ "Hotels")[Bed and Breakfast](https://www.hostelworld.com/bed-and-breakfasts/ "Bed and Breakfast")
 
