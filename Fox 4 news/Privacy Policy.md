@@ -401,35 +401,35 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
- [![Dallas chain reaction crash survivor thankful to be alive after wreck claims 4 lives](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/P-AMELIA-I45-SIMPSON-STUART-RD-CRASH-9P_KDFW17c2_7_00.01.24.42.jpg?ve=1&tl=1)
+ [![Dallas doctor is expected to learn his punishment today after poisoning IV bags](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/03/32/18/raynaldo-ortiz.jpg?ve=1&tl=1)
 
- ![Dallas chain reaction crash survivor thankful to be alive after wreck claims 4 lives](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/592/333/P-AMELIA-I45-SIMPSON-STUART-RD-CRASH-9P_KDFW17c2_7_00.01.24.42.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/dallas-chain-reaction-crash-survivor-thankful-be-alive-after-wreck-claims-4-lives)
+ ![Dallas doctor is expected to learn his punishment today after poisoning IV bags](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/03/32/18/592/333/raynaldo-ortiz.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/dallas-doctor-sentencing-poison-iv-bags)
 
-### [Dallas chain reaction crash survivor thankful to be alive after wreck claims 4 lives](https://www.fox4news.com/news/dallas-chain-reaction-crash-survivor-thankful-be-alive-after-wreck-claims-4-lives)
+### [Dallas doctor is expected to learn his punishment today after poisoning IV bags](https://www.fox4news.com/news/dallas-doctor-sentencing-poison-iv-bags)
 
- [![Murdered Kaufman County woman's stolen car at center of deadly Richardson police chase](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/richardson-police-chase.png?ve=1&tl=1)
+ [![Frisco City Council approves $182M for Toyota Stadium improvements](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/05/32/18/V-TOYOTA-STADIUM-RENOVATIONS-9P_00.00.12.10.jpg?ve=1&tl=1)
 
- ![Murdered Kaufman County woman's stolen car at center of deadly Richardson police chase](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/592/333/richardson-police-chase.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/murdered-kaufman-county-womans-stolen-car-center-deadly-richardson-police-chase)
+ ![Frisco City Council approves $182M for Toyota Stadium improvements](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/05/32/18/592/333/V-TOYOTA-STADIUM-RENOVATIONS-9P_00.00.12.10.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/toyota-stadium-improvements-frisco-city-council)
 
-### [Murdered Kaufman County woman's stolen car at center of deadly Richardson police chase](https://www.fox4news.com/news/murdered-kaufman-county-womans-stolen-car-center-deadly-richardson-police-chase)
+### [Frisco City Council approves $182M for Toyota Stadium improvements](https://www.fox4news.com/news/toyota-stadium-improvements-frisco-city-council)
 
- [![Diddy headed to jail, to be held without bail in sex trafficking case](https://images.foxtv.com/static.fox5ny.com/www.fox5ny.com/content/uploads/2024/05/32/18/GettyImages-1780945546.jpg?ve=1&tl=1)
+ [![Dallas Shooting: 2 men seriously hurt when dice game turns violent](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/V-PARK-LANE-SHOOTNG-7A_00.00.01.12.jpg?ve=1&tl=1)
 
- ![Diddy headed to jail, to be held without bail in sex trafficking case](https://images.foxtv.com/images.foxtv.com/static.fox5ny.com/www.fox5ny.com/content/uploads/2024/05/32/18/592/333/GettyImages-1780945546.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/nyc-diddy-sean-combs-arrested-federal-indictment)
+ ![Dallas Shooting: 2 men seriously hurt when dice game turns violent](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/592/333/V-PARK-LANE-SHOOTNG-7A_00.00.01.12.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/dallas-shooting-park-lane-dice-game)
 
-### [Diddy headed to jail, to be held without bail in sex trafficking case](https://www.fox4news.com/news/nyc-diddy-sean-combs-arrested-federal-indictment)
+### [Dallas Shooting: 2 men seriously hurt when dice game turns violent](https://www.fox4news.com/news/dallas-shooting-park-lane-dice-game)
 
- [![Developers, city questioned about duplexes built in violation of Elm Thicket zoning rules](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/091724-jg-ellum-thicket-vs-city-zoning-5PKG-brown-_00.00.35.50.jpg?ve=1&tl=1)
+ [![Fort Worth Police investigate domestic violence shooting](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/7AH1-FW-E-1ST-ST-MURDER_00.00.01.24.jpg?ve=1&tl=1)
 
- ![Developers, city questioned about duplexes built in violation of Elm Thicket zoning rules](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/592/333/091724-jg-ellum-thicket-vs-city-zoning-5PKG-brown-_00.00.35.50.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/elm-thicket-ellum-thicket-zoning-update-sept-17)
+ ![Fort Worth Police investigate domestic violence shooting](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/592/333/7AH1-FW-E-1ST-ST-MURDER_00.00.01.24.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/fort-worth-police-domestic-violence-shooting)
 
-### [Developers, city questioned about duplexes built in violation of Elm Thicket zoning rules](https://www.fox4news.com/news/elm-thicket-ellum-thicket-zoning-update-sept-17)
+### [Fort Worth Police investigate domestic violence shooting](https://www.fox4news.com/news/fort-worth-police-domestic-violence-shooting)
 
- [![Cabin pressure issue on Delta flight causes ear pain, bloody noses for passengers](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/GettyImages-2166796107.jpg?ve=1&tl=1)
+ [![Langford and Taveras homer, struggling Heim has key hit as Rangers beat Blue Jays 13-8](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/GettyImages-2172742301.jpg?ve=1&tl=1)
 
- ![Cabin pressure issue on Delta flight causes ear pain, bloody noses for passengers](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/592/333/GettyImages-2166796107.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/delta-flight-cabin-pressure)
+ ![Langford and Taveras homer, struggling Heim has key hit as Rangers beat Blue Jays 13-8](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/592/333/GettyImages-2172742301.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/sports/langford-taveras-homer-struggling-heim-has-key-hit-rangers-beat-blue-jays-13-8)
 
-### [Cabin pressure issue on Delta flight causes ear pain, bloody noses for passengers](https://www.fox4news.com/news/delta-flight-cabin-pressure)
+### [Langford and Taveras homer, struggling Heim has key hit as Rangers beat Blue Jays 13-8](https://www.fox4news.com/sports/langford-taveras-homer-struggling-heim-has-key-hit-rangers-beat-blue-jays-13-8)
 
 ###### [News](https://www.fox4news.com/news)
 
