@@ -273,17 +273,17 @@ This field is for validation purposes and should be left unchanged.
 
 #### Frequently Asked Questions
 
-[![What is mesothelioma caused by?](https://www.pintas.com/wp-content/uploads/2020/07/mesothelioma-what-is-mesothelioma-caused-by.jpg "What Is Mesothelioma Caused By?")](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/what-is-mesothelioma-caused-by/ "What Is Mesothelioma Caused By?")
+[![What is it like when state surveys a nursing home?](https://www.pintas.com/wp-content/uploads/2020/09/nursing-home-abuse-lawyer-what-is-it-like-when-state-surveys-a-nursing-home-scaled.jpg "What Is It Like When State Surveys a Nursing Home?")](https://www.pintas.com/faq/what-is-it-like-when-state-surveys-a-nursing-home/ "What Is It Like When State Surveys a Nursing Home?")
 
-[#### What Is Mesothelioma Caused By?](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/what-is-mesothelioma-caused-by/)
+[#### What Is It Like When State Surveys a Nursing Home?](https://www.pintas.com/faq/what-is-it-like-when-state-surveys-a-nursing-home/)
 
-[![Is roundup safe for home use?](https://www.pintas.com/wp-content/uploads/2020/07/lung-cancer-is-roundup-safe-for-home-use.jpg "Is Roundup Safe for Home Use?")](https://www.pintas.com/lawsuit/roundup-weed-killer/is-roundup-safe-for-home-use/ "Is Roundup Safe for Home Use?")
+[![What type of lung cancer is caused by asbestos?](https://www.pintas.com/wp-content/uploads/2020/04/lung-cancer-lawsuit-lawyer-what-type-of-lung-cancer-is-caused-by-asbestos.jpg "What Type of Lung Cancer Is Caused By Asbestos?")](https://www.pintas.com/practice-areas/lung-cancer/what-type-of-lung-cancer-is-caused-by-asbestos/ "What Type of Lung Cancer Is Caused By Asbestos?")
 
-[#### Is Roundup Safe for Home Use?](https://www.pintas.com/lawsuit/roundup-weed-killer/is-roundup-safe-for-home-use/)
+[#### What Type of Lung Cancer Is Caused By Asbestos?](https://www.pintas.com/practice-areas/lung-cancer/what-type-of-lung-cancer-is-caused-by-asbestos/)
 
-[![What are the signs and symptoms of asbestos exposure?](https://www.pintas.com/wp-content/uploads/2020/02/lung-cancer-what-are-the-signs-and-symptoms-of-asbestos-exposure.jpg "What Are the Signs and Symptoms of Asbestos Exposure?")](https://www.pintas.com/practice-areas/lung-cancer/symptoms-of-asbestos-exposure "What Are the Signs and Symptoms of Asbestos Exposure?")
+[![Can a lung transplant cure lung cancer?](https://www.pintas.com/wp-content/uploads/2020/05/lung-cancer-can-a-lung-transplant-cure-lung-cancer.jpg "Can a Lung Transplant Cure Lung Cancer?")](https://www.pintas.com/practice-areas/lung-cancer/can-a-lung-transplant-cure-lung-cancer/ "Can a Lung Transplant Cure Lung Cancer?")
 
-[#### What Are the Signs and Symptoms of Asbestos Exposure?](https://www.pintas.com/practice-areas/lung-cancer/symptoms-of-asbestos-exposure)
+[#### Can a Lung Transplant Cure Lung Cancer?](https://www.pintas.com/practice-areas/lung-cancer/can-a-lung-transplant-cure-lung-cancer/)
 
 ### Injured?  
 Tell Us What Happened.
@@ -306,7 +306,7 @@ message
 
 Yes. Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. They may contact me by email or telephone (including phone calls, text messages, autodialed / auto-selected or pre-recorded calls). I understand that message and data rates may apply and that consent to such contact is not required for use of these services. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/), [Anti Fraud Policy](https://www.pintas.com/anti-fraud-policy/) and [online Terms](https://www.pintas.com/website-terms-of-use/), including its mandatory arbitration provision.
 
-Comments
+Email
 
 This field is for validation purposes and should be left unchanged.
 
