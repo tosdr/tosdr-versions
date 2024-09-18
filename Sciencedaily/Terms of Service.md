@@ -229,6 +229,7 @@ this hour
 
 * * *
 
+* [New Fossil Fish On Plate Tectonics Map](https://www.sciencedaily.com/releases/2024/09/240912135836.htm)
 * [Compact Muon Solenoid Experiment: W Boson Mass](https://www.sciencedaily.com/releases/2024/09/240917130327.htm)
 * ['Food Theft' Among Seabirds Spreads Avian Flu](https://www.sciencedaily.com/releases/2024/09/240916115428.htm)
 * [Compact and Portable Nuclear Clocks](https://www.sciencedaily.com/releases/2024/09/240913105307.htm)
@@ -238,7 +239,6 @@ this hour
 * [More Black Holes Than Expected in Early Universe](https://www.sciencedaily.com/releases/2024/09/240917125315.htm)
 * [Van Gogh's Sky Is Alive With Real-World Physics](https://www.sciencedaily.com/releases/2024/09/240917125301.htm)
 * [Black Hole 'Starving' Host Galaxy to Death](https://www.sciencedaily.com/releases/2024/09/240916115510.htm)
-* [Clovis Great Lakes Campsite 13,000 Years Ago](https://www.sciencedaily.com/releases/2024/09/240911175944.htm)
 
 Trending Topics
 ---------------
@@ -269,7 +269,7 @@ this week
 
 [Botany](https://www.sciencedaily.com/news/plants_animals/botany/)
 
-[Developmental Biology](https://www.sciencedaily.com/news/plants_animals/developmental_biology/)
+[Nature](https://www.sciencedaily.com/news/plants_animals/nature/)
 
   
 
