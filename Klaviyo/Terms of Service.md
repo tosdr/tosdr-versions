@@ -32,7 +32,7 @@ Community BFCM Challenge 2024: Enter to win $150 gift card!
 
 ![Community Manager](https://uploads-us-west-2.insided.com/klaviyo-en/attachment/9f033269-0104-436f-83e0-ae33d1594720_thumb.png "Community Manager")](https://community.klaviyo.com/members/stephen-trumble-4206)
 
-18 days ago
+19 days ago
 
 * [Home](https://community.klaviyo.com/)
 * Terms
@@ -202,10 +202,6 @@ If you’ve already contacted the Klaviyo Support Team about this issue, **plea
 **Include as much detail as you can in your posts where applicable.** The more information (integration, error message, screenshot, etc.) you include, the easier other Community members can assist or add to your discussion.
 
 **Starting a discussion or writing a feature request?** Let people know how they can join in or provide feedback! Are you looking for others to share their thoughts, recommendations, examples, etc? Be as specific as you can where applicable.
-
-### Most helpful members this week
-
-### Most helpful members this week
 
 [Powered by Gainsight](https://www.gainsight.com/customer-communities/ "Visit Gainsight.com")
 
