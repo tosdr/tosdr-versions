@@ -18,7 +18,7 @@ LEGAL DOCUMENTS
 Privacy Policy
 ==============
 
-**Modified on: October 1, 2022**
+**Modified on: September 17, 2024**
 
 ##### Choose the Language
 
@@ -72,14 +72,14 @@ Português Brasileiro
 \- Security  
 \- Use By Minors  
 \- Additional Information for Residents of the EEA, United Kingdom, Switzerland, and Brazil  
-\- Additional Information for Residents of California, Virginia, Connecticut, Utah, and Colorado  
+\- Additional Information for Residents of Specific U.S. States  
 \- Contact Us  
   
 **About this Privacy Policy**  
   
-This Scopely Privacy Policy ****(“Privacy Policy”)**** describes how and when we may collect, use, secure, and share information collected in connection with our games, mobile applications, websites, content, products, and any related services (collectively, the ****“Services”****), and your choices regarding our processing of that information. For purposes of this Privacy Policy, **“Scopely”** (or **“we”** or **“us”**) refers to Scopely, Inc. and its parents, subsidiaries, representatives, affiliates, officers, and directors for websites and applications that link to this Privacy Policy or otherwise make it available to you.  
+This Scopely Privacy Policy (“**Privacy Policy**”) describes how and when we collect, use, secure, and share information collected in connection with our games, mobile applications, websites, content, products, and any related services (collectively, the “**Services**”), and your choices and rights in relation to the same. For purposes of this Privacy Policy, “**Scopely**” (or “**we**” or “**us**”) refers to Scopely, Inc. and its parents, subsidiaries, representatives, affiliates, officers, and directors for websites and applications that link to this Privacy Policy or otherwise make it available to you.  
   
-Please read this Privacy Policy carefully. We may update it from time to time by posting a new version on scopely.com with an updated date (the **“Effective Date”**). If we make material changes, we will notify you, prior to the changes becoming effective, through the Services or by other means if you’ve provided us additional contact information (e.g., using the email address associated with your Account, as defined in our [Terms of Service](https://scopely.com/tosQ42022)). Your continued use of the Services after the Effective Date will be an acknowledgement of our updated practices.  
+Please read this Privacy Policy carefully. We may update it from time to time by posting a new version on our website, scopely.com. If we make any material changes, we will notify you through the Services.  
   
 If there is any difference between the English version and any other language version of this Privacy Policy, the English version will apply (to the extent of the difference and to the extent permitted by applicable law).  
   
@@ -109,9 +109,9 @@ You may provide information directly to Scopely when you:
 * Complete surveys offered by us or on our behalf.
 
   
-Depending on how you choose to use the Services, you may provide us with the following types of information:  
-  
+Depending on how you choose to use the Services, we may collect the following types of information:  
 
+  
 * Contact information such as your first and last name, username or handle, third-party service ID, email address, phone number, home address or shipping address, and other contact information;
   
 * Images such as your photo, avatar, or other image;
@@ -134,52 +134,22 @@ When you access or use our Services, we collect information from and about you a
   
 * Approximate location inferred from IP address;
   
-* In-game purchase information; and/or
+* In-game purchase information;
   
-* Game scores and achievements, and other information as reasonably required to offer and enhance our Services.
+* Game scores and achievements, and other information as reasonably required to offer and enhance our Services; and/or
   
 * Inferences, such as those drawn from any of the personal information we collect, to better understand your preferences.
 
   
 _Information Collected Using Cookies and Similar Technologies_  
   
-We and our partners use various tools to collect information when you visit our sites and Services, including cookies, pixels, software development kits, advertising identifiers, and other similar technologies. Some of these technologies store information in the browser or on your device. Other technologies may use network-related or other information to recognize your device (e.g., IP address). Our Services use these technologies, for example, when you first request a web page and information is then stored on your computer or other device so the website or app can access information when you make subsequent requests for pages from that Service. These technologies may also be used to collect and store information about your usage of the Services, such as pages you have visited, your search history, and content you have viewed.  
+We and our partners use various tools to collect information when you use our Services, including cookies, pixels, software development kits, advertising identifiers, and other similar technologies. Some of these technologies store information in the browser or on your device. Other technologies may use network-related or other information to recognize your device (e.g., IP address). Our Services use these technologies, for example, when you first request a web page and information is then stored on your computer or other device so the website or app can access information when you make subsequent requests for pages from that Service. These technologies may also be used to collect and store information about how you view and use the Services, such as pages you have visited, your search history, and content you have viewed, and to connect your activity with other information we store about you. This information is generally used to make content, our Services, and advertising more relevant and useful during future visits.  
   
-Depending on the Services you use, we and our partners may also use these technologies to gather information about how you view and use our Services and content, and to connect your activity with other information we store about you. Some of these partners include:  
-
-  
-* **Google Analytics**. For more information about how Google uses your personal information (including for its own purposes, e.g., for profiling or linking it to other information), please visit [Google Analytics’ Privacy Policy](http://www.google.com/policies/privacy/partners/). To learn more about how to opt-out of Google Analytics’ use of your information, please click [here](http://tools.google.com/dlpage/gaoptout).
-  
-* **Hotjar (Session Replay Analytics).** We use Hotjar’s session replay analytics services. This allows us to record and replay an individual’s interaction with the Services. For more information about how Hotjar uses your personal information, please visit the “Personal Data collected from a visitor of a Hotjar Enabled Site” section of [Hotjar’s Privacy Policy](https://www.hotjar.com/legal/policies/privacy/). To learn more about how to opt-out of Hotjar’s use of your information, please click [here](https://www.hotjar.com/policies/do-not-track/).
-  
-* **Game Analytics.** For more information, please see Game Analytics’ privacy policy here: [https://gameanalytics.com/privacy/](https://gameanalytics.com/privacy/).
-
-  
-The use of these technologies helps us serve you better by understanding what you're interested in, tracking trends, measuring the effectiveness of ads, saving your preferences, and storing information you may want to retrieve on a regular basis. We also allow specific, approved partners to collect information from your browser or device for advertising and measurement purposes using their own similar tools.  
+The use of these technologies helps us serve you better by understanding what you're interested in, tracking trends, measuring the effectiveness of ads, saving your preferences, and storing information you may want to retrieve on a regular basis. One of these technologies is Google Analytics. For more information about how Google uses your personal information (including for its own purposes, e.g., for profiling or linking it to other information), please visit [Google Analytics’ Privacy Policy](http://www.google.com/policies/privacy/partners/). To learn more about how to opt-out of Google Analytics’ use of your information, please click [here](http://tools.google.com/dlpage/gaoptout). We also allow specific, approved partners to collect information from your browser or device for advertising and measurement purposes using their own similar tools.  
   
 At any time, you can control the use of cookies by adjusting the settings on your browser. However, if you choose to disable some or all cookies, please note that by blocking any or all cookies, you may not have access to certain features, content, or personalization available through our Services. For information about how you can manage your cookie and similar technologies preferences, please review the section of this Privacy Policy titled "Interest-Based Advertising."  
   
 **How We Use Information**  
-  
-We may use the information we collect for a number of business and commercial purposes, including to:  
-
-  
-* Perform internal operations necessary to develop, provide, maintain, and improve our Services, including troubleshooting, providing customer and technical support, and conducting data analysis, testing, and research;
-  
-* Understand how you interact with our Services and personalize the product experience and content (including advertising and messaging campaigns), as well as offer discounts or personalized pricing in accordance with applicable law;
-  
-* Maintain the safety, security, and integrity of our Services, for example by authenticating players and providing account security and fraud detection;
-  
-* Send you news and/or marketing communications (by email, phone, or text) subject to your marketing preferences and choices, including information about Scopely or third-party offerings we think may be of interest to you;
-  
-* Administer contests, surveys, and sweepstakes you enter, notify contest winners, and award prizes;
-  
-* Fulfill a purchase or send you order confirmations or other requested product or Service information;
-  
-* Facilitate your communication with friends and other players, and enable features that allow you to share information with other people (for example, if you choose to use friend invite features); and/or
-  
-* Comply with legal requirements and/or investigate or address claims or disputes relating to your use of the Services.
-
   
 We may use the information we collect for a number of business and commercial purposes, including to:  
 
@@ -206,7 +176,9 @@ We may use the information we collect for a number of business and commercial pu
 At Scopely, we are in the business of creating great games, not selling information. Subject to your legal rights, we may disclose the information we collect about you, and may enable you to share this information, with a variety of third parties in various ways, including:  
 
   
-* With vendors, consultants, business partners, payment processors, and other third-party service providers as necessary to carry out work on our behalf and otherwise provide the Services;
+* With our affiliates, who provide data processing services necessary to provide you with our goods and services (for example, to support the delivery of, provide functionality on, or help to enhance the security of our website and app across the world) or who otherwise process personal data for purposes described in this Privacy Policy. Our affiliates, to which we transfer your personal data, operate within our sector;
+  
+* With vendors, consultants, development partners, business partners, payment processors, and other third-party service providers as necessary to carry out work on our behalf and otherwise provide the Services, including, but not limited to, Amazon Web Services, Google Cloud Platform, SendGrid, and Okta. We may also share some of your information only with your consent or at your direction, for example, we may share your personal information if you opt in to receiving information from Scopely’s business partners;
   
 * With other players, to enable you to interact with them and to share gameplay-related information such as high scores and other leaderboard information;
   
@@ -227,64 +199,35 @@ At Scopely, we are in the business of creating great games, not selling informat
 * In an aggregated or pseudonymous form or otherwise in a form that cannot reasonably be used to identify you.
 
   
-In some cases, we may enable you to access third-party products or services through our Services. Please note that those products or services are offered by people or companies not affiliated with or controlled by us, and we are not responsible for their actions, their terms, their use of information, or their products or services. If you submit your information to a third party, that third party’s treatment of your information is governed by their privacy policy, which may differ from this Privacy Policy and which we encourage you to review.  
+**Third-party Products, Links, and Login**  
   
-We also share information with your consent or at your direction. For example, we may share your personal information if you opt in to receiving information from Scopely’s business partners.  
+In some cases, we may enable you to access third-party websites, products or services through our Services. Other websites may also reference, advertise, or link to Scopely. Please note that those links, the content of such other websites, products or services are offered by people or companies not affiliated with or controlled by us, and we are not responsible for their actions, their terms, their privacy practices and use of information, or their products or services. If you submit your information to a third party, that third party’s treatment of your information is governed by their privacy policy, which may differ from this Privacy Policy. We encourage you to review the applicable privacy policy of any third party you access through the Services.  
+  
+_Third-party Login_  
+  
+You can log in to certain Scopely Services using third-party authentication solutions (e.g., sign-in authentication via Facebook, Google, and Apple). If you choose to log in using one of these methods, you allow us to temporarily transfer you to an authentication log-in experience provided by the third party. You will be asked to input your login credentials for that third-party application and that third party will authenticate and sign you in via their solution. Note that your use of any third-party solution for sign-on, and the personal data you provide to that third party or data collected by them, will be explained by that third party and access to their sign-on services is governed by their terms of use, privacy policies, and other policies. We encourage you to read and review those documents carefully. They will also explain more about information that may be shared back to Scopely in order to support the authentication experience.  
   
 **Interest-Based Advertising**  
   
-We may share some of your information with certain third-party partners to make advertising more relevant, to measure its effectiveness, and to help recognize your devices and serve ads. We or they may also employ cookies or similar technologies, as described above, to ensure you receive appropriate advertising and personalized experiences. These third-party advertising partners include, but are not limited to [Meta](https://www.facebook.com/privacy/policy), [Google](https://support.google.com/admob/answer/9012903/), [AppLovin](https://www.applovin.com/privacy/), [](https://liveramp.com/opt%3Cem%3Eout/)[LiveRamp](https://liveramp.com/opt_out/), [Criteo](https://www.criteo.com/privacy/), [IronSource](https://developers.ironsrc.com/ironsource-mobile/air/ironsource-mobile-privacy-policy/), [Microsoft](https://privacy.microsoft.com/en-us/privacystatement), and their partners. Click each partner’s name for more information regarding their privacy practices.  
+We may share some of your information with certain third-party partners to make advertising more relevant, to measure its effectiveness, and to help recognize your devices and serve ads. We or they may also employ cookies or similar technologies, as described above, to ensure you receive appropriate advertising and personalized experiences. These third-party advertising partners include, but are not limited to [Meta](https://www.facebook.com/privacy/policy), [Google](https://support.google.com/admob/answer/9012903/), [AppLovin](https://www.applovin.com/privacy/), [LiveRamp](https://liveramp.com/opt_out/), [Criteo](https://www.criteo.com/privacy/), [IronSource](https://developers.ironsrc.com/ironsource-mobile/air/ironsource-mobile-privacy-policy/), [Microsoft](https://privacy.microsoft.com/en-us/privacystatement), and their partners. Click each partner’s name for more information regarding their privacy practices.  
   
-If you prefer to opt out of having your web viewing behavior used for interest-based advertising, you can learn how to do so by clicking [here](https://optout.networkadvertising.org/?c=1), or if located in the European Economic Area (**“EEA”**), the United Kingdom, or Switzerland, by clicking [here](https://optout.aboutads.info/?c=2&lang=EN). If you would prefer to opt out of having information about your mobile app usage used for interest-based advertising, you may also do so through your device settings such as (“Allow Apps to Request to Track” on iOS and “Opt Out of Ads Personalization” on Android). Please note that even if you disable personalized advertising, you may continue to receive ads that are not based on your preferences.  
-  
-_Links to Other Websites_  
-  
-The Services may contain links to, or advertisements concerning, other websites. Other websites may also reference, advertise, or link to Scopely. Scopely is not responsible for the privacy practices or the content of such other websites. You should check the applicable privacy policy of any website you access through the Services.  
-  
-**Your Rights and Choices**  
-  
-You may be able to access, delete, modify, and/or correct certain personal and other information available to you in your Account or in-app. Depending on where you reside, you may have additional rights, including those listed below in the sections called “Additional Information for Residents of the EEA, United Kingdom, Switzerland, and Brazil” and “Additional Information for Residents of California, Virginia, Connecticut, Utah, and Colorado.”  
-  
-_How to Exercise Your Rights_  
-  
-To protect the privacy of your information, Scopely verifies your identity and processes rights requests through our in-game help ticket system. If you wish to exercise any of the rights described above, please follow the instructions below and do not delete the game until your request is fulfilled:  
-  
-
-* Open the Scopely game(s) for which you wish to exercise your rights;
-  
-* Visit the game’s settings menu;
-  
-* Select “Contact Us,” “Support,” “Help,” or equivalent option to submit a support ticket via the chat icon;
-  
-* Follow the prompts as provided by the Support team; and
-  
-* Choose the applicable request.
-
-  
-If you have trouble with any of the steps described above, you can contact privacy@scopely.com for help. We may contact you to confirm your choices and to ask for additional information as needed to verify your identity and process your request.  
-  
-_Communication Preferences_  
-  
-_Email, phone, and text_: In order to opt-out of email communications, please click the “unsubscribe” link at the bottom of the email or contact us at unsubscribe@scopely.com. If you receive an unwanted text message from us, you may opt out of receiving future text messages from us by following the instructions in the text message you have received from us or by otherwise contacting us as set forth below in the “Contact Us” section.  
-  
-_Push Notifications_: In connection with certain Services, you may choose to opt in to receiving push notifications. If you no longer want to receive them, you can turn them off at the device level.  
-  
-_“Do Not Track” / “Global Privacy Control”_  
-  
-Do Not Track (“**DNT**”) is a privacy preference that players can set in certain web browsers. Additionally, some browsers or plug-ins use a “Global Privacy Control” (“**GPC**”), which you can learn more about at [https://globalprivacycontrol.org/](https://globalprivacycontrol.org/). Please note that we do not respond to or honor DNT signals or similar mechanisms transmitted by web browsers. _However,_ if our site detects a GPC signal from your device, we will interpret it as a request to opt out of selling or sharing your personal information and to opt out of targeted advertising under applicable state law. We will also interpret it as a request to limit the sale or sharing of personal information for targeted advertising for residents of the European Economic Area, the UK, and Brazil.  
+If you prefer to opt out of having your web viewing behavior used for interest-based advertising, you can learn how to do so by clicking [here](https://optout.networkadvertising.org/?c=1), or if located in the European Economic Area (“**EEA**”), the United Kingdom, or Switzerland, by clicking [here](https://optout.aboutads.info/?c=2&lang=EN). If you would prefer to opt out of having information about your mobile app usage used for interest-based advertising, you may also do so through your device settings such as (“Allow Apps to Request to Track” on iOS and “Opt Out of Ads Personalization” on Android). Please note that even if you disable personalized advertising, you may continue to receive ads that are not based on your preferences.  
   
 **Data Retention**  
   
-We may retain your personal information for as long as you have an Account with us. Following the closure of your Account, we may retain personal information where required by law or where we have an ongoing legitimate business need to do so. For example, we may retain such information to provide you a service you have requested, to comply with applicable legal, tax or accounting requirements, or where necessary for fraud prevention, dispute resolution, enforcement of our contracts and terms, or for safety reasons (e.g., we may retain certain information about an Account to prevent that player from opening a new Account).  
+The specific personal information we process and our reasons for doing so often vary depending on how you use the Services. Therefore, the length of time that we retain personal information can also vary. We generally retain personal information for as long as we reasonably need it for the purposes described in this Privacy Policy (such as complying with our legal obligations, where we have an ongoing legitimate business need to do so, managing internal records, enforcing our contracts and terms, fraud prevention, resolving disputes, and for safety reasons), unless a longer retention period is required or permitted by law.  
+  
+The primary factors we consider in determining retention periods can include minimum requirements under applicable law, relevant industry standards, the types of data in question (such as its level of sensitivity), relevance to potential litigation or similar proceedings (such as defending ourselves against legal claims), and whether the personal information is required to prevent fraud or similar abuse of the Services (including to enforce prohibitions against cheating and other unauthorized behavior and to prevent banned players from using the Services).  
+  
+To learn more about how to request deletion of your personal information, please see “Your Rights and Choices” below.  
   
 **Your Rights and Choices**  
   
-You may be able to access, modify, and/or correct certain personal and other information available to you in your Account or in-app. Depending on where you reside, you may have additional rights, including those listed below in the sections called “Additional Information for Residents of the EEA, United Kingdom, Switzerland, and Brazil” and “Additional Information for Residents of California, Virginia, Connecticut, Utah, and Colorado.”  
+You may be able to access, delete, modify, and/or correct certain personal and other information available to you in your Account or in-app. Depending on where you reside, you may have additional rights, including those listed below in the sections called “Additional Information for Residents of the EEA, United Kingdom, Switzerland, and Brazil” and “Additional Information for Residents of Specific U.S. States.”  
   
 _How to Exercise Your Rights_  
   
 To protect the privacy of your information, Scopely verifies your identity and processes rights requests through our in-game help ticket system. If you wish to exercise any of the rights described above, please follow the instructions below and do not delete the game until your request is fulfilled:  
-  
 
   
 * Open the Scopely game(s) for which you wish to exercise your rights;
@@ -298,61 +241,65 @@ To protect the privacy of your information, Scopely verifies your identity and p
 * Choose the applicable request.
 
   
-  
-If you have trouble with any of the steps described above, you can contact privacy@scopely.com for help. We may contact you to confirm your choices and to ask for additional information as needed to verify your identity and process your request.  
+If you have trouble with any of the steps described above, you can contact [privacy@scopely.com](mailto:privacy@scopely.com) for help. We may contact you to confirm your choices and to ask for additional information as needed to verify your identity and process your request.  
   
 _Communication Preferences_  
   
-_Email, phone, and text_: In order to opt-out of email communications, please click the “unsubscribe” link at the bottom of the email or contact us at unsubscribe@scopely.com. If you receive an unwanted text message from us, you may opt out of receiving future text messages from us by following the instructions in the text message you have received from us or by otherwise contacting us as set forth below in the “Contact Us” section.  
+_Email and text_: In order to opt-out of email communications, please click the “unsubscribe” link at the bottom of the email or contact us at [unsubscribe@scopely.com](mailto:unsubscribe@scopely.com). If you receive an unwanted text message from us, you may opt out of receiving future text messages from us by following the instructions in the text message you have received from us or by otherwise contacting us as set forth below in the “Contact Us” section.  
   
 _Push Notifications_: In connection with certain Services, you may choose to opt in to receiving push notifications. If you no longer want to receive them, you can turn them off at the device level.  
   
 _“Do Not Track” / “Global Privacy Control”_  
   
-Do Not Track (“**DNT**”) is a privacy preference that players can set in certain web browsers. Additionally, some browsers or plug-ins use a “Global Privacy Control” (“**GPC**”), which you can learn more about at [https://globalprivacycontrol.org/](https://globalprivacycontrol.org/). Please note that we do not respond to or honor DNT signals or similar mechanisms transmitted by web browsers. _However,_ if our site detects a GPC signal from your device, we will interpret it as a request to opt out of selling or sharing your personal information and to opt out of targeted advertising under applicable state law. We will also interpret it as a request to limit the sale or sharing of personal information for targeted advertising for residents of the European Economic Area, the UK, and Brazil.  
+Do Not Track (“**DNT**”) is a privacy preference that players can set in certain web browsers. Additionally, some browsers or plug-ins use a “Global Privacy Control” (“**GPC**”), which you can learn more about at https://globalprivacycontrol.org/. Please note that we do not respond to or honor DNT signals or similar mechanisms transmitted by web browsers. However, if our site detects a GPC signal from your device, we will interpret it as a request to opt out of Selling or Sharing your personal information and to opt out of Targeted Advertising under applicable state law. We will also interpret it as a request to limit the Sale or Sharing of personal information for Targeted Advertising for residents of the European Economic Area, the UK, and Brazil.  
   
 **Security**  
   
-We follow generally accepted industry standards and maintain reasonable safeguards designed to secure the information in our possession, and take steps to ensure only those at Scopely with a legitimate business need to access your personal information are permitted to do so. We also take reasonable steps to assure that third parties to whom we transfer information will provide protections appropriate to that type of information. If you have reason to believe that your personal information is no longer secure, please immediately contact us as set forth below in the “Contact Us” section.  
+We follow generally accepted industry standards and maintain reasonable safeguards designed to secure the information in our possession, and take steps to ensure only those at Scopely with a legitimate business need to access your personal information are permitted to do so. We also take reasonable steps to assure that third parties to whom we transfer information will provide protections appropriate to that type of information. We also have in place procedures to deal with any suspected personal information breach and will notify you and any applicable regulator of a breach where we are legally required to do so. If you have reason to believe that your personal information is no longer secure, please immediately contact us as set forth below in the “Contact Us” section.  
   
 **Use By Minors**  
   
-Our Services are designed for a general audience and require all players to be above the minimum age to consent for data processing (for example, 13 years old in the United States, and 16 years old in some parts of the EU) as a condition of access. An exception to this is our game STUMBLE GUYS, which allows younger players to play. As such, we take additional steps to limit access to certain features of STUMBLE GUYS based on players’ ages, and also limit the personal information collection and sharing of such younger players’ information to only what is necessary to support our internal operations.  
+With the exception of our games STUMBLE GUYS and MONOPOLY GO!, our Services are designed for a general audience and require all players to be above the minimum age to consent for data processing (for example, 13 years old in the United States, and 16 years old in some parts of the EU) as a condition of access. Because we allow younger players to play STUMBLE GUYS and MONOPOLY GO!, we take additional steps to limit access to certain features based on a player’s age. We also limit the personal information we collect and share about younger players to only what is necessary to support our internal operations.  
   
-If you are a parent or guardian of a minor, and believe that minor has uploaded personal information in connection with our Services without your consent, or if you wish to review information collected from your minor child, or have that information modified or deleted, you may contact us as described in “Contact Us” below. If we become aware that a minor has provided us with personal information in violation of applicable law, we will delete any personal information we have collected, unless we have a legal obligation to keep it, and revert them to the underage experience, if applicable.  
+If you are a parent or guardian of a minor, and believe that minor has provided personal information in connection with our Services without your consent, or if you wish to review information collected from your minor child, or have that information modified or deleted, you may contact us as described in “Contact Us” below. If we become aware that we have collected personal information from a minor in violation of applicable law, we will delete any personal information we have collected, unless we have a legal obligation to keep it or the personal information is necessary to provide the requested Services, and revert them to the underage experience, if applicable.  
   
 **Additional Information for Residents of the EEA, United Kingdom, Switzerland, and Brazil**  
   
-If you are a resident of a member country of the EEA, the United Kingdom, Switzerland, or Brazil, then in accordance with applicable law, you may have the following rights:  
+If you are a resident of a member country of the EEA, the United Kingdom, Switzerland, or Brazil, then in accordance with applicable law, you may have the following rights (some of these rights apply generally, while others will only apply in certain circumstances:  
   
-**Access:** to obtain confirmation regarding whether we process your personal information, and to and obtain a copy of the personal information we have collected about you. (Note that this right only applies to personal information relating to you, and not to any other player or person.)  
-Rectification or Correction: to correct your personal information where it is inaccurate, incomplete, or outdated.  
+**Information**: to be provided with clear, transparent, and easily understandable information about how we use your information, which is why we are providing you with this Privacy Policy.  
   
-**Erasure (deletion):** to request that Scopely delete your personal information, for example when it is no longer necessary to fulfill the purposes for which Scopely collected it. This right may be limited to the extent that Scopely is permitted or required by applicable law to retain your information. (Note that if you request deletion of your personal information, you may no longer be able to use or access the Services. If you share devices with someone else who uses the Services, that person may also lose game progress or related Account information and access. If you decide to use or access the Services again, Scopely may consider this a new Account and may collect personal information associated with that Account in accordance with this Privacy Policy.)  
+**Access**: to obtain a copy of the personal information we have collected about you and to check that we are lawfully processing it. This right only applies to personal information relating to you, and not to any other player or person.  
   
-**Restriction or objection to processing:** to object to Scopely’s processing of your personal information, or request that Scopely restrict that processing. Because the information that Scopely collects is generally required to provide the Services to you, if you object to the processing of your personal information, this may have the same effect as requesting deletion of this information. This right may be limited to the extent that Scopely is permitted or required by applicable law to continue processing the information. (Note that if you object to the processing of your personal information, you and others who use your devices to access the Services may no longer be able to use or access the Services.)  
+**Rectification**: to correct your personal information where it is inaccurate, incomplete, or outdated.  
+  
+**Erasure**: to request that Scopely remove or delete your personal information, for example when it is no longer necessary to fulfill the purposes for which Scopely collected it. This right may be limited to the extent that Scopely is permitted or required by applicable law to retain your information. Note that if you request deletion of your personal information, you may no longer be able to use or access the Services. If you share devices with someone else who uses the Services, that person may also lose game progress or related Account information and access. If you decide to use or access the Services again, Scopely may consider this a new Account and may collect personal information associated with that Account in accordance with this Privacy Policy.  
+  
+**Restriction or objection to processing**: to object to Scopely’s processing of your personal information, or request that Scopely restrict (block or suspend) that processing. Because the information that Scopely collects is generally required to provide the Services to you, if you object to the processing of your personal information, this may have the same effect as requesting deletion of this information. This right may be limited to the extent that Scopely is permitted or required by applicable law to continue processing the information. Note that if you object to the processing of your personal information, you and others who use your devices to access the Services may no longer be able to use or access the Services.  
   
 **Portability**: to receive a copy of your personal information in a structured, commonly used, and machine-readable format so that you can transmit it elsewhere.  
   
-**Request to be informed:** to request information about third parties with which your personal information has been shared.  
+**Withdraw consent**: if we have collected and processed certain types of personal information with your consent, you may withdraw that consent at any time as described above. This includes your right to withdraw consent to us using your personal information for marketing purposes. Withdrawing your consent will not affect the lawfulness of any processing conducted prior to then, nor will it affect any processing based on lawful grounds other than consent.  
   
-**Request review:** to review decisions taken exclusively based on automated processing if these decisions could affect your data subject rights.  
+**Complain**: to file a complaint with your national data protection authority about our collection and use of your personal information.  
   
 To exercise these rights, please see “Your Rights and Choices” above.  
   
-In addition to the rights described above, if we have collected and processed certain types of personal information with your consent, you may withdraw that consent at any time in the manner described when you provided consent. Withdrawing your consent will not affect the lawfulness of any processing conducted prior to then, nor will it affect any processing based on lawful grounds other than consent.  
+For all rights, we usually act on requests and provide information free of charge, but, where allowed under the law, we may charge a reasonable fee to cover our administrative costs of providing the information for baseless or excessive/repeated requests, or further copies of the same information. Alternatively, we may be entitled to refuse to act on the request in some circumstances. We’ll try to respond as soon as we can. Generally, this will be within one month from when we receive your request but, if the request is going to take longer to deal with, we’ll come back to you and let you know.  
   
-You may have the right to file a complaint with a data protection authority about our collection and use of your personal information. For more information, contact your local data protection authority. We will cooperate with the appropriate governmental authorities to resolve any privacy-related complaints that cannot be amicably resolved between you and us.  
+We may need to request specific information from you to help us confirm your identity and ensure your right to access your personal information (or to exercise any of your other rights). This is a security measure to ensure that personal information is not disclosed to any person who has no right to receive it. We may also contact you to ask you for further information in relation to your request to speed up our response.  
   
 _Legal Basis for Processing Personal Information_  
   
-If you are from the EEA, the United Kingdom, or Switzerland, our legal basis for collecting and using your personal information will depend on the type of information and the context in which we collect it. In general, we collect personal information from you only:  
+If you are from the EEA, the United Kingdom, or Switzerland, our legal basis (i.e., the reason) for collecting and using your personal information will depend on the type of information and the context in which we collect it. In general, we collect personal information for the different activities and purposes described above, as follows:  
+
   
 * Where we have your consent to do so, such as before we use or share your information for advertising that is targeted based on your browsing history, online behavior, or other personal information that we or third parties may have collected about you. If you consent to our use of your personal information for any purpose, you have the right to withdraw consent at any time by contacting us, as explained above;
   
-* Where we need it to perform a contract with you;
+* Where we need it to perform a contract with you (i.e., our Terms of Service), between you and us and/or taking steps, at your request, to enter into such a contract, which for instance, allows us to provide you with the Services, to respond to inquiries, and to administer contests and promotions;
   
-* Where it is in our legitimate interests and not overridden by your data protection interests or fundamental rights and freedoms. We have a legitimate interest in processing your personal information, for example, for the following purposes:
+* Where it is in our legitimate interests and this is not overridden by your data protection interests or fundamental rights and freedoms. We have a legitimate interest in processing your personal information, for example, for the following purposes:
+
   
 \- Product and Service development, management, delivery, and enhancement;  
 \- Fraud detection and prevention;  
@@ -361,57 +308,55 @@ If you are from the EEA, the United Kingdom, or Switzerland, our legal basis for
 \- Compliance with applicable foreign laws;  
 \- Communications regarding your purchases; and  
 \- Non-targeted marketing and advertising.  
+
   
-* Where we have a legal obligation to collect personal information from you or may otherwise need it to protect your vital interests or those of another person.
-  
-If you have questions about the legal basis on which we collect and use your personal information, please contact us at privacy@scopely.com.  
+* Where we have a legal obligation to collect personal information from you or may otherwise need it to protect your vital interests or those of another person.  
+    If you have questions about the legal basis on which we collect and use your personal information, please contact us at [privacy@scopely.com](mailto:privacy@scopely.com).
+
   
 _International data transfer_  
   
 Your personal information might be transferred to a country outside the EEA, the United Kingdom or Switzerland, including, but not limited to, the United States or other countries, which may have data protection laws that are different from the laws where you live. We endeavor to safeguard your information consistent with the requirements of applicable laws.  
   
-If we transfer personal information which originates in the EEA, Switzerland, and/or the United Kingdom to a country that has not been found to provide an adequate level of protection under applicable data protection laws, one of the safeguards we may use to support such transfer is the EU Standard Contractual Clauses or similar contractual safeguards, and, if necessary, the implementation of further technical and organizational measures.  
+If we transfer personal information which originates in the EEA, Switzerland, and/or the United Kingdom to a country that has not been found to provide an adequate level of protection under applicable data protection laws, one of the safeguards we may use to support such transfer is the UK/EU Standard Contractual Clauses or similar contractual safeguards, and, if necessary, the implementation of further technical and organizational measures. Please contact us if you would like more details about our safeguards for data transfers.  
   
-**Additional Information for Residents of California, Virginia, Connecticut, Utah, and Colorado**  
+**Additional Information for Residents of Specific U.S. States:  
+California, Colorado, Connecticut, Montana, Oregon, Texas, Utah, Virginia**  
   
 _Information We Collect, Use, and Disclose_  
   
-All sources of personal information collected are noted in the “Information We May Collect and How We Collect It” section above and retained pursuant to “Data Retention” above. The purposes for our collection of this information are described in “How We Use Information” above.  
+All sources of personal information collected are noted in the “Information We May Collect and How We Collect It” section above and retained pursuant to “Data Retention” above. The purposes for our collection of this information are described in “How We Use Information” above. For purposes of this Privacy Policy, the following terms shall bear the same meaning as set out in any applicable law: “**Targeted Advertising**”; “**Sale**”, “**Sell**”, or “**Sold**”; and “**Share**,” “**Shared**,” or “**Sharing**.”  
   
 In the past 12 months, we have disclosed (or have enabled you to disclose) the following categories of personal information to third parties for business or commercial purposes:  
   
-  
-  
-  
-  
-  
 
-| CATEGORY | CATEGORIES OF PARTIES TO WHOM INFORMATION IS DISCLOSED | CATEGORIES OF THIRD PARTIES TO WHOM INFORMATION IS SOLD AND/OR SHARED |
+| CATEGORY | CATEGORIES OF PARTIES TO WHOM INFORMATION IS DISCLOSED | CATEGORIES OF THIRD PARTIES TO WHOM INFORMATION IS “SHARED” AND/OR “SOLD” |
 | --- | --- | --- |
 | Identifiers and contact information, including first and last name, email address, phone number, home address or shipping address, and your friends’ names and contact information. | Vendors, such as cloud service providers (such as our email service providers and cloud-based survey and customer service tools we use) and payment processors. Affiliates for purposes of business operations and support. | N/A |
-| Identifiers such as username or handle, third party service ID, IP address, unique device identifier, advertising identifier, device serial number. | Vendors, such as cloud service providers (such as our email service providers and cloud-based survey and customer service tools we use) and payment processors.Affiliates for purposes of business operations and support.Other players in multiplayer games (username only). | Analytics providers and advertising networks. |
-| Internet or other electronic network activity information, such as hardware model, device software platform/OS and firmware, mobile carrier, preferred languages, device motion information, and mobile network information, and in some cases, browser type, Internet service provider, referring/exit pages and URLs, and clickstream information. | Vendors, such as cloud service providers (such as our email service providers and cloud-based survey and customer service tools we use).Affiliates for purposes of business operations and support. | Analytics providers and advertising networks. |
-| Commercial information, such as information regarding in-game purchase payment method. | Vendors, such as cloud service providers (including cloud-based customer service and survey tools we use), payment processors, and business partners.Affiliates for purposes of business operations and support. | N/A |
-| Commercial information, such as information regarding in-game purchase events and value of purchases. | Vendors, such as cloud service providers (including cloud-based customer service and survey tools we use), payment processors, and business partners.Affiliates for purposes of business operations and support. | Advertising networks. |
-| Demographic information, such as your gender, age, date of birth, and language.Visual information, such as your profile picture and the profile pictures of your friends or contacts. | Vendors, such as cloud service providers (including cloud-based customer service and survey tools we use).Affiliates for purposes of business operations and support.Service providers that enable image functionality on our behalf.Affiliates for purposes of business operations and support. Other players, depending on your sharing preferences. | N/A |
-| Visual information, such as your profile picture and the profile pictures of your friends or contacts. | Service providers that enable image functionality on our behalf.Affiliates for purposes of business operations and support. Other players, depending on your sharing preferences. | N/A |
-| Non-precise geolocation information. | Vendors, such as cloud service providers (such as our email service providers and cloud-based survey and customer service tools we use) and payment processors.Affiliates for purposes of business operations and support. | N/A |
-| Other information you may share if you use social features when accessing our Services, including the organizations, links, and other information included on your social profile page. | Service providers, and other providers or partners that support our operational business purposes.Affiliates for purposes of business operations and support. Other players, depending on your sharing preferences. | N/A |
-| Inferences derived from personal information listed above in this chart, such as your characteristics and preferences. | Vendors, such as cloud service providers (such as our email service providers and cloud-based survey and customer service tools we use) and payment processors.Affiliates for purposes of business operations and support. | Analytics providers and advertising networks. |
+| Identifiers such as username or handle, third party service ID, IP address, unique device identifier, advertising identifier, device serial number. | Vendors, such as cloud service providers (such as our email service providers and cloud-based survey and customer service tools we use) and payment processors. Affiliates for purposes of business operations and support. Other players in multiplayer games (username only). | Analytics providers and advertising partners. |
+| Internet or other electronic network activity information, such as hardware model, device software platform/OS and firmware, mobile carrier, preferred languages, device motion information, and mobile network information, and in some cases, browser type, Internet service provider, referring/exit pages and URLs, and clickstream information. | Vendors, such as cloud service providers (such as our email service providers and cloud-based survey and customer service tools we use). Affiliates for purposes of business operations and support. | Analytics providers and advertising partners. |
+| Commercial information, such as information regarding in-game purchase payment method. | Vendors, such as cloud service providers (including cloud-based customer service and survey tools we use), payment processors, and business partners. Affiliates for purposes of business operations and support. | N/A |
+| Commercial information, such as information regarding in-game purchase events and value of purchases. | Vendors, such as cloud service providers (including cloud-based customer service and survey tools we use), payment processors, and business partners. Affiliates for purposes of business operations and support. | Advertising partners. |
+| Demographic information, such as your gender, age, date of birth, and language. | Vendors, such as cloud service providers (including cloud-based customer service and survey tools we use). Affiliates for purposes of business operations and support. | N/A |
+| Visual information, such as your profile picture and the profile pictures of your friends or contacts. | Service providers that enable image functionality on our behalf. Affiliates for purposes of business operations and support. Other players, depending on your sharing preferences. | N/A |
+| Non-precise geolocation information. | Vendors, such as cloud service providers (such as our email service providers and cloud-based survey and customer service tools we use) and payment processors. Affiliates for purposes of business operations and support. | N/A |
+| Other information you may share if you use social features when accessing our Services, including the organizations, links, and other information included on your social profile page. | Service providers, and other providers or partners that support our operational business purposes. Affiliates for purposes of business operations and support. Other players, depending on your sharing preferences. | N/A |
+| Inferences derived from personal information listed above in this chart, such as your characteristics and preferences. | Vendors, such as cloud service providers (such as our email service providers and cloud-based survey and customer service tools we use) and payment processors. Affiliates for purposes of business operations and support. | Analytics providers and advertising partners. |
 
   
-Note that we do not have any knowledge of sales or sharing of personal information of minors (e.g., for the purpose of this section, under 16 years of age in California). While our Services may allow you to create an account, we do not otherwise use or disclose any sensitive personal information.  
+  
+Note that we do not have any knowledge of Sales or Sharing of personal information of minors (e.g., for the purpose of this section, under 16 years of age in California). While our Services may allow you to create an account, we do not otherwise use or disclose any sensitive personal information.  
   
 **Your Privacy Rights Under Applicable State Law**  
   
-Subject to applicable law, if you are a resident of California, Virginia, Connecticut, Utah, or Colorado, you may have the following rights:  
-  
+Subject to applicable law, if you are a resident of California, Colorado, Connecticut, Montana, Oregon, Texas, Utah, or Virginia, you may have the following rights:  
 
-* **To Know and Access**: to obtain a copy of the specific pieces of personal information we have collected about you. (Note that this right only applies to personal information relating to you, and not to any other player.)
+  
+* **To Know and Access**: to confirm whether we process your personal information, and, subject to certain exceptions under applicable law, to obtain a copy of the personal information we have collected about you. Oregon residents may request information about the third parties to whom we have disclosed personal information. (Note that this right only applies to personal information relating to you, and not to any other player.)
   
 * **Deletion**: to request that Scopely delete your personal information. This right may be limited to the extent that Scopely is permitted or required by applicable law to retain information. (Note that if you request deletion of your personal information, you may no longer be able to use or access the Services, and that if you share devices with someone else who uses the Services, that person may lose game progress or related Account information and access. If you decide to use or access the Services again, Scopely may consider this a new Account, and may collect personal information associated with that Account in accordance with this Privacy Policy.)
   
-* **Opt-Out of "Sale" and Certain Sharing Practices**: depending on the site you are visiting or the app you are visiting and your relationship with us, you have the right to opt-out of certain information sharing practices with Third Parties who do not act as our Service Providers. In some states, like California, this information sharing may qualify as a “share” or a “sale,” while in other states, like Virginia, this information sharing may qualify as “targeted advertising” (collectively, “personalized advertising”). If you wish to opt-out of personalized advertising associated with our games, please visit the “Do Not Sell or Share My Personal Information” setting found in a game’s settings menu, or by contacting us as set forth below.
+* **Opt-Out of "Sale", "Sharing" and "Targeted Advertising" Practices**: depending on the site you are visiting or the app you are visiting and your relationship with us, you have the right to opt-out of certain information sharing practices with Third Parties who do not act as our Service Providers. In some states, like California, this information sharing may qualify as a “Share” or a “Sale,” while in other states, like Virginia, this information sharing may qualify as “Targeted Advertising” (collectively, “personalized advertising”). If you wish to opt-out of personalized advertising associated with our games, please visit the “Do Not Sell or Share My Personal Information” setting found in a game’s settings menu, or by contacting us as set forth below. If you are a resident of Colorado, Connecticut, Montana, Oregon, or Texas you may designate an agent to submit an opt-out of Sale or opt-out of personalized advertising request on your behalf.
   
 * **Correction**: to request the correction of inaccurate personal information that we may have on file about you.
   
@@ -420,22 +365,48 @@ Subject to applicable law, if you are a resident of California, Virginia, Connec
   
 If you wish to exercise any of the rights described above, please follow the instructions in “Your Rights and Choices” above. We will not discriminate against you, in terms of price or services that we offer, if you submit any of the requests listed above.  
   
-_Verification and Appeal Process_: We are required by law to take reasonable steps to verify your identity prior to responding to your request. Please note that your exercise of these rights is subject to certain exemptions to safeguard the public interest (e.g., the prevention or detection of crime) and our interests (e.g., the maintenance of legal privilege). Please do not delete our game until your request is fulfilled. If we are unable to process your request via our in-game help ticket system, we may verify your request by asking for information sufficient to confirm your identity, such as your name, email address, and information about your interactions with us or with one of our games. Requests to exercise these rights may be granted in whole, in part, or not at all, depending on the scope and nature of the request and as permitted by applicable law. Where required by applicable law, we will notify you if we reject your request, and notify you of the reasons we are unable to honor your request.  
+_Verification and Appeal Process_: We are required by law to take reasonable steps to verify your identity prior to responding to your request (except for requests to Opt-Out). Please note that your exercise of these rights is subject to certain exemptions to safeguard the public interest (e.g., the prevention or detection of crime) and our interests (e.g., the maintenance of legal privilege). Please do not delete our game until your request is fulfilled. If we are unable to process your request via our in-game help ticket system, we may verify your request by asking for information sufficient to confirm your identity, such as your name, email address, and information about your interactions with us or with one of our games. Requests to exercise these rights may be granted in whole, in part, or not at all, depending on the scope and nature of the request and as permitted by applicable law. Where required by applicable law, we will notify you if we reject your request, and notify you of the reasons we are unable to honor your request.  
   
-If you are a resident of Colorado, Virginia, or Connecticut, you have the right to appeal a request we deny when we have verified your identity and still decline to honor your request. The process for that appeal will be sent to you separately if your request is denied.  
+If you are a resident of Colorado, Connecticut, Montana, Oregon, Texas, or Virginia you have the right to appeal a request we deny when we have verified your identity and still decline to honor your request. The process for that appeal will be sent to you separately if your request is denied.  
   
 _Authorized Agent_: Californian players may use an authorized agent on their behalf to exercise a privacy right discussed above. If you are an authorized agent acting on behalf of a Californian player to communicate with us or to exercise a privacy right discussed above, you must be able to demonstrate that you have the requisite authorization to act on behalf of the player, and have sufficient access to that player’s laptop, desktop, or mobile device to exercise that player’s right digitally. If you are an authorized agent trying to exercise rights on behalf of a Scopely player, then you can make a request on the player’s behalf by contacting us as set forth below in the “Contact Us” section with supporting verification information with proof that you have access to the player’s interface (including, for certain requests, written permission from the player) and proof of your own identity.  
   
-_Refer-a-Friend, Promotions, and Similar Incentive Programs_: We may offer referral programs, promotions such as sweepstakes, or other incentivized information collection programs. We may offer incentives to you such as discounts or promotional items or credit in connection with these programs, wherein you provide personal information regarding your friends or colleagues (such as their email address) and receive rewards when they sign up to use our Services. (The referred party may also receive rewards for signing up via your referral.) Alternatively, we may ask you to provide your personal information in exchange for a reward or participation in a promotion. These programs are entirely voluntary and allow us to grow our business and provide additional benefits to you. The value of your information to us depends on how you ultimately use our Services, whereas the value of the referred party’s information to us depends on whether the referred party ultimately uses our Services. Said value will be reflected in the incentive offered in connection with each program. You may withdraw from the incentives at any time. In order to withdraw from the financial incentive, please contact us at privacy@scopely.com.  
+_Refer-a-Friend, Promotions, and Similar Incentive Programs_: We may offer referral programs, promotions such as sweepstakes, or other incentivized information collection programs. We may offer incentives to you such as discounts or promotional items or credit in connection with these programs, wherein you provide personal information regarding your friends or colleagues (such as their email address) and receive rewards when they sign up to use our Services. (The referred party may also receive rewards for signing up via your referral.) Alternatively, we may ask you to provide your personal information in exchange for a reward or participation in a promotion. These programs are entirely voluntary and allow us to grow our business and provide additional benefits to you. The value of your information to us depends on how you ultimately use our Services, whereas the value of the referred party’s information to us depends on whether the referred party ultimately uses our Services. Said value will be reflected in the incentive offered in connection with each program. You may withdraw from the incentives at any time. In order to withdraw from the financial incentive, please contact us at [privacy@scopely.com](mailto:privacy@scopely.com)[privacy@scopely.com](mailto:privacy@scopely.com).  
   
 _Shine the Light Disclosure_: California residents are entitled to ask us for a notice that identifies the categories of personal customer information that we share with our affiliates and/or third parties for marketing purposes, and provides contact information for such affiliates and/or third parties. If you are a California resident and would like this information, please submit a written request to us using the contact information below in the “Contact Us” section.  
   
+_CCPA Reporting Metrics_: To learn more about our annual reporting metrics, please visit \[CCPA Metrics Report\].  
+  
+**Additional Information for Residents of Nevada**  
+  
+If you are a Nevada resident, you can request that we not “Sell” your “Covered Information” (as defined in applicable Nevada law). We do not Sell any Covered Information concerning Nevada residents. If you have questions about our practices please contact us using the information in the "Contact Us" section below. Please use “Nevada Do Not Sell” in the subject line.  
+  
+**Your Duty to Inform us of Changes**  
+  
+It is important that the information we hold about you is accurate and current. Please keep us informed as soon as possible if your personal information changes or is inaccurate during your relationship with us by using the contact details below.  
+  
 **Contact Us**  
   
-If you have questions or concerns about this Policy or our information practices, you can contact us by email at privacy@scopely.com, or by postal mail at: Scopely, Inc., Attn: Legal Department, 3505 Hayden Avenue, Culver City, CA 90232. If we receive a formal written complaint from you, we will attempt to contact you directly to resolve your concerns.  
+If you have questions or concerns about this Privacy Policy and our use of your personal information, you can contact us by email at [privacy@scopely.com](mailto:privacy@scopely.com), or by postal mail at: Scopely, Inc., Attn: Legal Department, 3505 Hayden Avenue, Culver City, CA 90232, clarified further below. If we receive a formal written complaint from you, we will attempt to contact you directly to resolve your concerns.  
   
+**Residents outside the European Economic Area (EEA)**:  
   
+Attn: Legal Department  
+3505 Hayden Avenue, Culver City, CA 90232  
   
+**European Economic Area (EEA)**:  
+  
+Attn: Legal Department  
+3505 Hayden Avenue, Culver City, CA 90232  
+  
+**UK Residents**:  
+  
+Attn: Legal Department  
+3505 Hayden Avenue, Culver City, CA 90232  
+  
+To comply with our obligations under EU and UK data protection legislation, we have appointed a Data Protection Officer (DPO) in the UK and Spain. Our DPO can be contacted at [privacy@scopely.com](mailto:privacy@scopely.com) or by mail using the details provided above.  
+  
+Who is the controller of my data? For the purposes of EU/UK data protection legislation, Scopely Inc., is the controller of your personal information collected by Scopely pursuant to this Privacy Policy.
 
 Terms of Service
 ----------------
@@ -844,7 +815,7 @@ We may give notice to you via: (i) postings on the Services; (ii) email, telepho
 Privacy Policy
 --------------
 
-**Modified on: October 1, 2022**
+**Modified on: September 17, 2024**
 
 ##### Choose the Language
 
@@ -898,14 +869,14 @@ Português Brasileiro
 \- Security  
 \- Use By Minors  
 \- Additional Information for Residents of the EEA, United Kingdom, Switzerland, and Brazil  
-\- Additional Information for Residents of California, Virginia, Connecticut, Utah, and Colorado  
+\- Additional Information for Residents of Specific U.S. States  
 \- Contact Us  
   
 **About this Privacy Policy**  
   
-This Scopely Privacy Policy ****(“Privacy Policy”)**** describes how and when we may collect, use, secure, and share information collected in connection with our games, mobile applications, websites, content, products, and any related services (collectively, the ****“Services”****), and your choices regarding our processing of that information. For purposes of this Privacy Policy, **“Scopely”** (or **“we”** or **“us”**) refers to Scopely, Inc. and its parents, subsidiaries, representatives, affiliates, officers, and directors for websites and applications that link to this Privacy Policy or otherwise make it available to you.  
+This Scopely Privacy Policy (“**Privacy Policy**”) describes how and when we collect, use, secure, and share information collected in connection with our games, mobile applications, websites, content, products, and any related services (collectively, the “**Services**”), and your choices and rights in relation to the same. For purposes of this Privacy Policy, “**Scopely**” (or “**we**” or “**us**”) refers to Scopely, Inc. and its parents, subsidiaries, representatives, affiliates, officers, and directors for websites and applications that link to this Privacy Policy or otherwise make it available to you.  
   
-Please read this Privacy Policy carefully. We may update it from time to time by posting a new version on scopely.com with an updated date (the **“Effective Date”**). If we make material changes, we will notify you, prior to the changes becoming effective, through the Services or by other means if you’ve provided us additional contact information (e.g., using the email address associated with your Account, as defined in our [Terms of Service](https://scopely.com/tosQ42022)). Your continued use of the Services after the Effective Date will be an acknowledgement of our updated practices.  
+Please read this Privacy Policy carefully. We may update it from time to time by posting a new version on our website, scopely.com. If we make any material changes, we will notify you through the Services.  
   
 If there is any difference between the English version and any other language version of this Privacy Policy, the English version will apply (to the extent of the difference and to the extent permitted by applicable law).  
   
@@ -935,9 +906,9 @@ You may provide information directly to Scopely when you:
 * Complete surveys offered by us or on our behalf.
 
   
-Depending on how you choose to use the Services, you may provide us with the following types of information:  
-  
+Depending on how you choose to use the Services, we may collect the following types of information:  
 
+  
 * Contact information such as your first and last name, username or handle, third-party service ID, email address, phone number, home address or shipping address, and other contact information;
   
 * Images such as your photo, avatar, or other image;
@@ -960,52 +931,22 @@ When you access or use our Services, we collect information from and about you a
   
 * Approximate location inferred from IP address;
   
-* In-game purchase information; and/or
+* In-game purchase information;
   
-* Game scores and achievements, and other information as reasonably required to offer and enhance our Services.
+* Game scores and achievements, and other information as reasonably required to offer and enhance our Services; and/or
   
 * Inferences, such as those drawn from any of the personal information we collect, to better understand your preferences.
 
   
 _Information Collected Using Cookies and Similar Technologies_  
   
-We and our partners use various tools to collect information when you visit our sites and Services, including cookies, pixels, software development kits, advertising identifiers, and other similar technologies. Some of these technologies store information in the browser or on your device. Other technologies may use network-related or other information to recognize your device (e.g., IP address). Our Services use these technologies, for example, when you first request a web page and information is then stored on your computer or other device so the website or app can access information when you make subsequent requests for pages from that Service. These technologies may also be used to collect and store information about your usage of the Services, such as pages you have visited, your search history, and content you have viewed.  
+We and our partners use various tools to collect information when you use our Services, including cookies, pixels, software development kits, advertising identifiers, and other similar technologies. Some of these technologies store information in the browser or on your device. Other technologies may use network-related or other information to recognize your device (e.g., IP address). Our Services use these technologies, for example, when you first request a web page and information is then stored on your computer or other device so the website or app can access information when you make subsequent requests for pages from that Service. These technologies may also be used to collect and store information about how you view and use the Services, such as pages you have visited, your search history, and content you have viewed, and to connect your activity with other information we store about you. This information is generally used to make content, our Services, and advertising more relevant and useful during future visits.  
   
-Depending on the Services you use, we and our partners may also use these technologies to gather information about how you view and use our Services and content, and to connect your activity with other information we store about you. Some of these partners include:  
-
-  
-* **Google Analytics**. For more information about how Google uses your personal information (including for its own purposes, e.g., for profiling or linking it to other information), please visit [Google Analytics’ Privacy Policy](http://www.google.com/policies/privacy/partners/). To learn more about how to opt-out of Google Analytics’ use of your information, please click [here](http://tools.google.com/dlpage/gaoptout).
-  
-* **Hotjar (Session Replay Analytics).** We use Hotjar’s session replay analytics services. This allows us to record and replay an individual’s interaction with the Services. For more information about how Hotjar uses your personal information, please visit the “Personal Data collected from a visitor of a Hotjar Enabled Site” section of [Hotjar’s Privacy Policy](https://www.hotjar.com/legal/policies/privacy/). To learn more about how to opt-out of Hotjar’s use of your information, please click [here](https://www.hotjar.com/policies/do-not-track/).
-  
-* **Game Analytics.** For more information, please see Game Analytics’ privacy policy here: [https://gameanalytics.com/privacy/](https://gameanalytics.com/privacy/).
-
-  
-The use of these technologies helps us serve you better by understanding what you're interested in, tracking trends, measuring the effectiveness of ads, saving your preferences, and storing information you may want to retrieve on a regular basis. We also allow specific, approved partners to collect information from your browser or device for advertising and measurement purposes using their own similar tools.  
+The use of these technologies helps us serve you better by understanding what you're interested in, tracking trends, measuring the effectiveness of ads, saving your preferences, and storing information you may want to retrieve on a regular basis. One of these technologies is Google Analytics. For more information about how Google uses your personal information (including for its own purposes, e.g., for profiling or linking it to other information), please visit [Google Analytics’ Privacy Policy](http://www.google.com/policies/privacy/partners/). To learn more about how to opt-out of Google Analytics’ use of your information, please click [here](http://tools.google.com/dlpage/gaoptout). We also allow specific, approved partners to collect information from your browser or device for advertising and measurement purposes using their own similar tools.  
   
 At any time, you can control the use of cookies by adjusting the settings on your browser. However, if you choose to disable some or all cookies, please note that by blocking any or all cookies, you may not have access to certain features, content, or personalization available through our Services. For information about how you can manage your cookie and similar technologies preferences, please review the section of this Privacy Policy titled "Interest-Based Advertising."  
   
 **How We Use Information**  
-  
-We may use the information we collect for a number of business and commercial purposes, including to:  
-
-  
-* Perform internal operations necessary to develop, provide, maintain, and improve our Services, including troubleshooting, providing customer and technical support, and conducting data analysis, testing, and research;
-  
-* Understand how you interact with our Services and personalize the product experience and content (including advertising and messaging campaigns), as well as offer discounts or personalized pricing in accordance with applicable law;
-  
-* Maintain the safety, security, and integrity of our Services, for example by authenticating players and providing account security and fraud detection;
-  
-* Send you news and/or marketing communications (by email, phone, or text) subject to your marketing preferences and choices, including information about Scopely or third-party offerings we think may be of interest to you;
-  
-* Administer contests, surveys, and sweepstakes you enter, notify contest winners, and award prizes;
-  
-* Fulfill a purchase or send you order confirmations or other requested product or Service information;
-  
-* Facilitate your communication with friends and other players, and enable features that allow you to share information with other people (for example, if you choose to use friend invite features); and/or
-  
-* Comply with legal requirements and/or investigate or address claims or disputes relating to your use of the Services.
-
   
 We may use the information we collect for a number of business and commercial purposes, including to:  
 
@@ -1032,7 +973,9 @@ We may use the information we collect for a number of business and commercial pu
 At Scopely, we are in the business of creating great games, not selling information. Subject to your legal rights, we may disclose the information we collect about you, and may enable you to share this information, with a variety of third parties in various ways, including:  
 
   
-* With vendors, consultants, business partners, payment processors, and other third-party service providers as necessary to carry out work on our behalf and otherwise provide the Services;
+* With our affiliates, who provide data processing services necessary to provide you with our goods and services (for example, to support the delivery of, provide functionality on, or help to enhance the security of our website and app across the world) or who otherwise process personal data for purposes described in this Privacy Policy. Our affiliates, to which we transfer your personal data, operate within our sector;
+  
+* With vendors, consultants, development partners, business partners, payment processors, and other third-party service providers as necessary to carry out work on our behalf and otherwise provide the Services, including, but not limited to, Amazon Web Services, Google Cloud Platform, SendGrid, and Okta. We may also share some of your information only with your consent or at your direction, for example, we may share your personal information if you opt in to receiving information from Scopely’s business partners;
   
 * With other players, to enable you to interact with them and to share gameplay-related information such as high scores and other leaderboard information;
   
@@ -1053,64 +996,35 @@ At Scopely, we are in the business of creating great games, not selling informat
 * In an aggregated or pseudonymous form or otherwise in a form that cannot reasonably be used to identify you.
 
   
-In some cases, we may enable you to access third-party products or services through our Services. Please note that those products or services are offered by people or companies not affiliated with or controlled by us, and we are not responsible for their actions, their terms, their use of information, or their products or services. If you submit your information to a third party, that third party’s treatment of your information is governed by their privacy policy, which may differ from this Privacy Policy and which we encourage you to review.  
+**Third-party Products, Links, and Login**  
   
-We also share information with your consent or at your direction. For example, we may share your personal information if you opt in to receiving information from Scopely’s business partners.  
+In some cases, we may enable you to access third-party websites, products or services through our Services. Other websites may also reference, advertise, or link to Scopely. Please note that those links, the content of such other websites, products or services are offered by people or companies not affiliated with or controlled by us, and we are not responsible for their actions, their terms, their privacy practices and use of information, or their products or services. If you submit your information to a third party, that third party’s treatment of your information is governed by their privacy policy, which may differ from this Privacy Policy. We encourage you to review the applicable privacy policy of any third party you access through the Services.  
+  
+_Third-party Login_  
+  
+You can log in to certain Scopely Services using third-party authentication solutions (e.g., sign-in authentication via Facebook, Google, and Apple). If you choose to log in using one of these methods, you allow us to temporarily transfer you to an authentication log-in experience provided by the third party. You will be asked to input your login credentials for that third-party application and that third party will authenticate and sign you in via their solution. Note that your use of any third-party solution for sign-on, and the personal data you provide to that third party or data collected by them, will be explained by that third party and access to their sign-on services is governed by their terms of use, privacy policies, and other policies. We encourage you to read and review those documents carefully. They will also explain more about information that may be shared back to Scopely in order to support the authentication experience.  
   
 **Interest-Based Advertising**  
   
-We may share some of your information with certain third-party partners to make advertising more relevant, to measure its effectiveness, and to help recognize your devices and serve ads. We or they may also employ cookies or similar technologies, as described above, to ensure you receive appropriate advertising and personalized experiences. These third-party advertising partners include, but are not limited to [Meta](https://www.facebook.com/privacy/policy), [Google](https://support.google.com/admob/answer/9012903/), [AppLovin](https://www.applovin.com/privacy/), [](https://liveramp.com/opt%3Cem%3Eout/)[LiveRamp](https://liveramp.com/opt_out/), [Criteo](https://www.criteo.com/privacy/), [IronSource](https://developers.ironsrc.com/ironsource-mobile/air/ironsource-mobile-privacy-policy/), [Microsoft](https://privacy.microsoft.com/en-us/privacystatement), and their partners. Click each partner’s name for more information regarding their privacy practices.  
+We may share some of your information with certain third-party partners to make advertising more relevant, to measure its effectiveness, and to help recognize your devices and serve ads. We or they may also employ cookies or similar technologies, as described above, to ensure you receive appropriate advertising and personalized experiences. These third-party advertising partners include, but are not limited to [Meta](https://www.facebook.com/privacy/policy), [Google](https://support.google.com/admob/answer/9012903/), [AppLovin](https://www.applovin.com/privacy/), [LiveRamp](https://liveramp.com/opt_out/), [Criteo](https://www.criteo.com/privacy/), [IronSource](https://developers.ironsrc.com/ironsource-mobile/air/ironsource-mobile-privacy-policy/), [Microsoft](https://privacy.microsoft.com/en-us/privacystatement), and their partners. Click each partner’s name for more information regarding their privacy practices.  
   
-If you prefer to opt out of having your web viewing behavior used for interest-based advertising, you can learn how to do so by clicking [here](https://optout.networkadvertising.org/?c=1), or if located in the European Economic Area (**“EEA”**), the United Kingdom, or Switzerland, by clicking [here](https://optout.aboutads.info/?c=2&lang=EN). If you would prefer to opt out of having information about your mobile app usage used for interest-based advertising, you may also do so through your device settings such as (“Allow Apps to Request to Track” on iOS and “Opt Out of Ads Personalization” on Android). Please note that even if you disable personalized advertising, you may continue to receive ads that are not based on your preferences.  
-  
-_Links to Other Websites_  
-  
-The Services may contain links to, or advertisements concerning, other websites. Other websites may also reference, advertise, or link to Scopely. Scopely is not responsible for the privacy practices or the content of such other websites. You should check the applicable privacy policy of any website you access through the Services.  
-  
-**Your Rights and Choices**  
-  
-You may be able to access, delete, modify, and/or correct certain personal and other information available to you in your Account or in-app. Depending on where you reside, you may have additional rights, including those listed below in the sections called “Additional Information for Residents of the EEA, United Kingdom, Switzerland, and Brazil” and “Additional Information for Residents of California, Virginia, Connecticut, Utah, and Colorado.”  
-  
-_How to Exercise Your Rights_  
-  
-To protect the privacy of your information, Scopely verifies your identity and processes rights requests through our in-game help ticket system. If you wish to exercise any of the rights described above, please follow the instructions below and do not delete the game until your request is fulfilled:  
-  
-
-* Open the Scopely game(s) for which you wish to exercise your rights;
-  
-* Visit the game’s settings menu;
-  
-* Select “Contact Us,” “Support,” “Help,” or equivalent option to submit a support ticket via the chat icon;
-  
-* Follow the prompts as provided by the Support team; and
-  
-* Choose the applicable request.
-
-  
-If you have trouble with any of the steps described above, you can contact privacy@scopely.com for help. We may contact you to confirm your choices and to ask for additional information as needed to verify your identity and process your request.  
-  
-_Communication Preferences_  
-  
-_Email, phone, and text_: In order to opt-out of email communications, please click the “unsubscribe” link at the bottom of the email or contact us at unsubscribe@scopely.com. If you receive an unwanted text message from us, you may opt out of receiving future text messages from us by following the instructions in the text message you have received from us or by otherwise contacting us as set forth below in the “Contact Us” section.  
-  
-_Push Notifications_: In connection with certain Services, you may choose to opt in to receiving push notifications. If you no longer want to receive them, you can turn them off at the device level.  
-  
-_“Do Not Track” / “Global Privacy Control”_  
-  
-Do Not Track (“**DNT**”) is a privacy preference that players can set in certain web browsers. Additionally, some browsers or plug-ins use a “Global Privacy Control” (“**GPC**”), which you can learn more about at [https://globalprivacycontrol.org/](https://globalprivacycontrol.org/). Please note that we do not respond to or honor DNT signals or similar mechanisms transmitted by web browsers. _However,_ if our site detects a GPC signal from your device, we will interpret it as a request to opt out of selling or sharing your personal information and to opt out of targeted advertising under applicable state law. We will also interpret it as a request to limit the sale or sharing of personal information for targeted advertising for residents of the European Economic Area, the UK, and Brazil.  
+If you prefer to opt out of having your web viewing behavior used for interest-based advertising, you can learn how to do so by clicking [here](https://optout.networkadvertising.org/?c=1), or if located in the European Economic Area (“**EEA**”), the United Kingdom, or Switzerland, by clicking [here](https://optout.aboutads.info/?c=2&lang=EN). If you would prefer to opt out of having information about your mobile app usage used for interest-based advertising, you may also do so through your device settings such as (“Allow Apps to Request to Track” on iOS and “Opt Out of Ads Personalization” on Android). Please note that even if you disable personalized advertising, you may continue to receive ads that are not based on your preferences.  
   
 **Data Retention**  
   
-We may retain your personal information for as long as you have an Account with us. Following the closure of your Account, we may retain personal information where required by law or where we have an ongoing legitimate business need to do so. For example, we may retain such information to provide you a service you have requested, to comply with applicable legal, tax or accounting requirements, or where necessary for fraud prevention, dispute resolution, enforcement of our contracts and terms, or for safety reasons (e.g., we may retain certain information about an Account to prevent that player from opening a new Account).  
+The specific personal information we process and our reasons for doing so often vary depending on how you use the Services. Therefore, the length of time that we retain personal information can also vary. We generally retain personal information for as long as we reasonably need it for the purposes described in this Privacy Policy (such as complying with our legal obligations, where we have an ongoing legitimate business need to do so, managing internal records, enforcing our contracts and terms, fraud prevention, resolving disputes, and for safety reasons), unless a longer retention period is required or permitted by law.  
+  
+The primary factors we consider in determining retention periods can include minimum requirements under applicable law, relevant industry standards, the types of data in question (such as its level of sensitivity), relevance to potential litigation or similar proceedings (such as defending ourselves against legal claims), and whether the personal information is required to prevent fraud or similar abuse of the Services (including to enforce prohibitions against cheating and other unauthorized behavior and to prevent banned players from using the Services).  
+  
+To learn more about how to request deletion of your personal information, please see “Your Rights and Choices” below.  
   
 **Your Rights and Choices**  
   
-You may be able to access, modify, and/or correct certain personal and other information available to you in your Account or in-app. Depending on where you reside, you may have additional rights, including those listed below in the sections called “Additional Information for Residents of the EEA, United Kingdom, Switzerland, and Brazil” and “Additional Information for Residents of California, Virginia, Connecticut, Utah, and Colorado.”  
+You may be able to access, delete, modify, and/or correct certain personal and other information available to you in your Account or in-app. Depending on where you reside, you may have additional rights, including those listed below in the sections called “Additional Information for Residents of the EEA, United Kingdom, Switzerland, and Brazil” and “Additional Information for Residents of Specific U.S. States.”  
   
 _How to Exercise Your Rights_  
   
 To protect the privacy of your information, Scopely verifies your identity and processes rights requests through our in-game help ticket system. If you wish to exercise any of the rights described above, please follow the instructions below and do not delete the game until your request is fulfilled:  
-  
 
   
 * Open the Scopely game(s) for which you wish to exercise your rights;
@@ -1124,61 +1038,65 @@ To protect the privacy of your information, Scopely verifies your identity and p
 * Choose the applicable request.
 
   
-  
-If you have trouble with any of the steps described above, you can contact privacy@scopely.com for help. We may contact you to confirm your choices and to ask for additional information as needed to verify your identity and process your request.  
+If you have trouble with any of the steps described above, you can contact [privacy@scopely.com](mailto:privacy@scopely.com) for help. We may contact you to confirm your choices and to ask for additional information as needed to verify your identity and process your request.  
   
 _Communication Preferences_  
   
-_Email, phone, and text_: In order to opt-out of email communications, please click the “unsubscribe” link at the bottom of the email or contact us at unsubscribe@scopely.com. If you receive an unwanted text message from us, you may opt out of receiving future text messages from us by following the instructions in the text message you have received from us or by otherwise contacting us as set forth below in the “Contact Us” section.  
+_Email and text_: In order to opt-out of email communications, please click the “unsubscribe” link at the bottom of the email or contact us at [unsubscribe@scopely.com](mailto:unsubscribe@scopely.com). If you receive an unwanted text message from us, you may opt out of receiving future text messages from us by following the instructions in the text message you have received from us or by otherwise contacting us as set forth below in the “Contact Us” section.  
   
 _Push Notifications_: In connection with certain Services, you may choose to opt in to receiving push notifications. If you no longer want to receive them, you can turn them off at the device level.  
   
 _“Do Not Track” / “Global Privacy Control”_  
   
-Do Not Track (“**DNT**”) is a privacy preference that players can set in certain web browsers. Additionally, some browsers or plug-ins use a “Global Privacy Control” (“**GPC**”), which you can learn more about at [https://globalprivacycontrol.org/](https://globalprivacycontrol.org/). Please note that we do not respond to or honor DNT signals or similar mechanisms transmitted by web browsers. _However,_ if our site detects a GPC signal from your device, we will interpret it as a request to opt out of selling or sharing your personal information and to opt out of targeted advertising under applicable state law. We will also interpret it as a request to limit the sale or sharing of personal information for targeted advertising for residents of the European Economic Area, the UK, and Brazil.  
+Do Not Track (“**DNT**”) is a privacy preference that players can set in certain web browsers. Additionally, some browsers or plug-ins use a “Global Privacy Control” (“**GPC**”), which you can learn more about at https://globalprivacycontrol.org/. Please note that we do not respond to or honor DNT signals or similar mechanisms transmitted by web browsers. However, if our site detects a GPC signal from your device, we will interpret it as a request to opt out of Selling or Sharing your personal information and to opt out of Targeted Advertising under applicable state law. We will also interpret it as a request to limit the Sale or Sharing of personal information for Targeted Advertising for residents of the European Economic Area, the UK, and Brazil.  
   
 **Security**  
   
-We follow generally accepted industry standards and maintain reasonable safeguards designed to secure the information in our possession, and take steps to ensure only those at Scopely with a legitimate business need to access your personal information are permitted to do so. We also take reasonable steps to assure that third parties to whom we transfer information will provide protections appropriate to that type of information. If you have reason to believe that your personal information is no longer secure, please immediately contact us as set forth below in the “Contact Us” section.  
+We follow generally accepted industry standards and maintain reasonable safeguards designed to secure the information in our possession, and take steps to ensure only those at Scopely with a legitimate business need to access your personal information are permitted to do so. We also take reasonable steps to assure that third parties to whom we transfer information will provide protections appropriate to that type of information. We also have in place procedures to deal with any suspected personal information breach and will notify you and any applicable regulator of a breach where we are legally required to do so. If you have reason to believe that your personal information is no longer secure, please immediately contact us as set forth below in the “Contact Us” section.  
   
 **Use By Minors**  
   
-Our Services are designed for a general audience and require all players to be above the minimum age to consent for data processing (for example, 13 years old in the United States, and 16 years old in some parts of the EU) as a condition of access. An exception to this is our game STUMBLE GUYS, which allows younger players to play. As such, we take additional steps to limit access to certain features of STUMBLE GUYS based on players’ ages, and also limit the personal information collection and sharing of such younger players’ information to only what is necessary to support our internal operations.  
+With the exception of our games STUMBLE GUYS and MONOPOLY GO!, our Services are designed for a general audience and require all players to be above the minimum age to consent for data processing (for example, 13 years old in the United States, and 16 years old in some parts of the EU) as a condition of access. Because we allow younger players to play STUMBLE GUYS and MONOPOLY GO!, we take additional steps to limit access to certain features based on a player’s age. We also limit the personal information we collect and share about younger players to only what is necessary to support our internal operations.  
   
-If you are a parent or guardian of a minor, and believe that minor has uploaded personal information in connection with our Services without your consent, or if you wish to review information collected from your minor child, or have that information modified or deleted, you may contact us as described in “Contact Us” below. If we become aware that a minor has provided us with personal information in violation of applicable law, we will delete any personal information we have collected, unless we have a legal obligation to keep it, and revert them to the underage experience, if applicable.  
+If you are a parent or guardian of a minor, and believe that minor has provided personal information in connection with our Services without your consent, or if you wish to review information collected from your minor child, or have that information modified or deleted, you may contact us as described in “Contact Us” below. If we become aware that we have collected personal information from a minor in violation of applicable law, we will delete any personal information we have collected, unless we have a legal obligation to keep it or the personal information is necessary to provide the requested Services, and revert them to the underage experience, if applicable.  
   
 **Additional Information for Residents of the EEA, United Kingdom, Switzerland, and Brazil**  
   
-If you are a resident of a member country of the EEA, the United Kingdom, Switzerland, or Brazil, then in accordance with applicable law, you may have the following rights:  
+If you are a resident of a member country of the EEA, the United Kingdom, Switzerland, or Brazil, then in accordance with applicable law, you may have the following rights (some of these rights apply generally, while others will only apply in certain circumstances:  
   
-**Access:** to obtain confirmation regarding whether we process your personal information, and to and obtain a copy of the personal information we have collected about you. (Note that this right only applies to personal information relating to you, and not to any other player or person.)  
-Rectification or Correction: to correct your personal information where it is inaccurate, incomplete, or outdated.  
+**Information**: to be provided with clear, transparent, and easily understandable information about how we use your information, which is why we are providing you with this Privacy Policy.  
   
-**Erasure (deletion):** to request that Scopely delete your personal information, for example when it is no longer necessary to fulfill the purposes for which Scopely collected it. This right may be limited to the extent that Scopely is permitted or required by applicable law to retain your information. (Note that if you request deletion of your personal information, you may no longer be able to use or access the Services. If you share devices with someone else who uses the Services, that person may also lose game progress or related Account information and access. If you decide to use or access the Services again, Scopely may consider this a new Account and may collect personal information associated with that Account in accordance with this Privacy Policy.)  
+**Access**: to obtain a copy of the personal information we have collected about you and to check that we are lawfully processing it. This right only applies to personal information relating to you, and not to any other player or person.  
   
-**Restriction or objection to processing:** to object to Scopely’s processing of your personal information, or request that Scopely restrict that processing. Because the information that Scopely collects is generally required to provide the Services to you, if you object to the processing of your personal information, this may have the same effect as requesting deletion of this information. This right may be limited to the extent that Scopely is permitted or required by applicable law to continue processing the information. (Note that if you object to the processing of your personal information, you and others who use your devices to access the Services may no longer be able to use or access the Services.)  
+**Rectification**: to correct your personal information where it is inaccurate, incomplete, or outdated.  
+  
+**Erasure**: to request that Scopely remove or delete your personal information, for example when it is no longer necessary to fulfill the purposes for which Scopely collected it. This right may be limited to the extent that Scopely is permitted or required by applicable law to retain your information. Note that if you request deletion of your personal information, you may no longer be able to use or access the Services. If you share devices with someone else who uses the Services, that person may also lose game progress or related Account information and access. If you decide to use or access the Services again, Scopely may consider this a new Account and may collect personal information associated with that Account in accordance with this Privacy Policy.  
+  
+**Restriction or objection to processing**: to object to Scopely’s processing of your personal information, or request that Scopely restrict (block or suspend) that processing. Because the information that Scopely collects is generally required to provide the Services to you, if you object to the processing of your personal information, this may have the same effect as requesting deletion of this information. This right may be limited to the extent that Scopely is permitted or required by applicable law to continue processing the information. Note that if you object to the processing of your personal information, you and others who use your devices to access the Services may no longer be able to use or access the Services.  
   
 **Portability**: to receive a copy of your personal information in a structured, commonly used, and machine-readable format so that you can transmit it elsewhere.  
   
-**Request to be informed:** to request information about third parties with which your personal information has been shared.  
+**Withdraw consent**: if we have collected and processed certain types of personal information with your consent, you may withdraw that consent at any time as described above. This includes your right to withdraw consent to us using your personal information for marketing purposes. Withdrawing your consent will not affect the lawfulness of any processing conducted prior to then, nor will it affect any processing based on lawful grounds other than consent.  
   
-**Request review:** to review decisions taken exclusively based on automated processing if these decisions could affect your data subject rights.  
+**Complain**: to file a complaint with your national data protection authority about our collection and use of your personal information.  
   
 To exercise these rights, please see “Your Rights and Choices” above.  
   
-In addition to the rights described above, if we have collected and processed certain types of personal information with your consent, you may withdraw that consent at any time in the manner described when you provided consent. Withdrawing your consent will not affect the lawfulness of any processing conducted prior to then, nor will it affect any processing based on lawful grounds other than consent.  
+For all rights, we usually act on requests and provide information free of charge, but, where allowed under the law, we may charge a reasonable fee to cover our administrative costs of providing the information for baseless or excessive/repeated requests, or further copies of the same information. Alternatively, we may be entitled to refuse to act on the request in some circumstances. We’ll try to respond as soon as we can. Generally, this will be within one month from when we receive your request but, if the request is going to take longer to deal with, we’ll come back to you and let you know.  
   
-You may have the right to file a complaint with a data protection authority about our collection and use of your personal information. For more information, contact your local data protection authority. We will cooperate with the appropriate governmental authorities to resolve any privacy-related complaints that cannot be amicably resolved between you and us.  
+We may need to request specific information from you to help us confirm your identity and ensure your right to access your personal information (or to exercise any of your other rights). This is a security measure to ensure that personal information is not disclosed to any person who has no right to receive it. We may also contact you to ask you for further information in relation to your request to speed up our response.  
   
 _Legal Basis for Processing Personal Information_  
   
-If you are from the EEA, the United Kingdom, or Switzerland, our legal basis for collecting and using your personal information will depend on the type of information and the context in which we collect it. In general, we collect personal information from you only:  
+If you are from the EEA, the United Kingdom, or Switzerland, our legal basis (i.e., the reason) for collecting and using your personal information will depend on the type of information and the context in which we collect it. In general, we collect personal information for the different activities and purposes described above, as follows:  
+
   
 * Where we have your consent to do so, such as before we use or share your information for advertising that is targeted based on your browsing history, online behavior, or other personal information that we or third parties may have collected about you. If you consent to our use of your personal information for any purpose, you have the right to withdraw consent at any time by contacting us, as explained above;
   
-* Where we need it to perform a contract with you;
+* Where we need it to perform a contract with you (i.e., our Terms of Service), between you and us and/or taking steps, at your request, to enter into such a contract, which for instance, allows us to provide you with the Services, to respond to inquiries, and to administer contests and promotions;
   
-* Where it is in our legitimate interests and not overridden by your data protection interests or fundamental rights and freedoms. We have a legitimate interest in processing your personal information, for example, for the following purposes:
+* Where it is in our legitimate interests and this is not overridden by your data protection interests or fundamental rights and freedoms. We have a legitimate interest in processing your personal information, for example, for the following purposes:
+
   
 \- Product and Service development, management, delivery, and enhancement;  
 \- Fraud detection and prevention;  
@@ -1187,57 +1105,55 @@ If you are from the EEA, the United Kingdom, or Switzerland, our legal basis for
 \- Compliance with applicable foreign laws;  
 \- Communications regarding your purchases; and  
 \- Non-targeted marketing and advertising.  
+
   
-* Where we have a legal obligation to collect personal information from you or may otherwise need it to protect your vital interests or those of another person.
-  
-If you have questions about the legal basis on which we collect and use your personal information, please contact us at privacy@scopely.com.  
+* Where we have a legal obligation to collect personal information from you or may otherwise need it to protect your vital interests or those of another person.  
+    If you have questions about the legal basis on which we collect and use your personal information, please contact us at [privacy@scopely.com](mailto:privacy@scopely.com).
+
   
 _International data transfer_  
   
 Your personal information might be transferred to a country outside the EEA, the United Kingdom or Switzerland, including, but not limited to, the United States or other countries, which may have data protection laws that are different from the laws where you live. We endeavor to safeguard your information consistent with the requirements of applicable laws.  
   
-If we transfer personal information which originates in the EEA, Switzerland, and/or the United Kingdom to a country that has not been found to provide an adequate level of protection under applicable data protection laws, one of the safeguards we may use to support such transfer is the EU Standard Contractual Clauses or similar contractual safeguards, and, if necessary, the implementation of further technical and organizational measures.  
+If we transfer personal information which originates in the EEA, Switzerland, and/or the United Kingdom to a country that has not been found to provide an adequate level of protection under applicable data protection laws, one of the safeguards we may use to support such transfer is the UK/EU Standard Contractual Clauses or similar contractual safeguards, and, if necessary, the implementation of further technical and organizational measures. Please contact us if you would like more details about our safeguards for data transfers.  
   
-**Additional Information for Residents of California, Virginia, Connecticut, Utah, and Colorado**  
+**Additional Information for Residents of Specific U.S. States:  
+California, Colorado, Connecticut, Montana, Oregon, Texas, Utah, Virginia**  
   
 _Information We Collect, Use, and Disclose_  
   
-All sources of personal information collected are noted in the “Information We May Collect and How We Collect It” section above and retained pursuant to “Data Retention” above. The purposes for our collection of this information are described in “How We Use Information” above.  
+All sources of personal information collected are noted in the “Information We May Collect and How We Collect It” section above and retained pursuant to “Data Retention” above. The purposes for our collection of this information are described in “How We Use Information” above. For purposes of this Privacy Policy, the following terms shall bear the same meaning as set out in any applicable law: “**Targeted Advertising**”; “**Sale**”, “**Sell**”, or “**Sold**”; and “**Share**,” “**Shared**,” or “**Sharing**.”  
   
 In the past 12 months, we have disclosed (or have enabled you to disclose) the following categories of personal information to third parties for business or commercial purposes:  
   
-  
-  
-  
-  
-  
 
-| CATEGORY | CATEGORIES OF PARTIES TO WHOM INFORMATION IS DISCLOSED | CATEGORIES OF THIRD PARTIES TO WHOM INFORMATION IS SOLD AND/OR SHARED |
+| CATEGORY | CATEGORIES OF PARTIES TO WHOM INFORMATION IS DISCLOSED | CATEGORIES OF THIRD PARTIES TO WHOM INFORMATION IS “SHARED” AND/OR “SOLD” |
 | --- | --- | --- |
 | Identifiers and contact information, including first and last name, email address, phone number, home address or shipping address, and your friends’ names and contact information. | Vendors, such as cloud service providers (such as our email service providers and cloud-based survey and customer service tools we use) and payment processors. Affiliates for purposes of business operations and support. | N/A |
-| Identifiers such as username or handle, third party service ID, IP address, unique device identifier, advertising identifier, device serial number. | Vendors, such as cloud service providers (such as our email service providers and cloud-based survey and customer service tools we use) and payment processors.Affiliates for purposes of business operations and support.Other players in multiplayer games (username only). | Analytics providers and advertising networks. |
-| Internet or other electronic network activity information, such as hardware model, device software platform/OS and firmware, mobile carrier, preferred languages, device motion information, and mobile network information, and in some cases, browser type, Internet service provider, referring/exit pages and URLs, and clickstream information. | Vendors, such as cloud service providers (such as our email service providers and cloud-based survey and customer service tools we use).Affiliates for purposes of business operations and support. | Analytics providers and advertising networks. |
-| Commercial information, such as information regarding in-game purchase payment method. | Vendors, such as cloud service providers (including cloud-based customer service and survey tools we use), payment processors, and business partners.Affiliates for purposes of business operations and support. | N/A |
-| Commercial information, such as information regarding in-game purchase events and value of purchases. | Vendors, such as cloud service providers (including cloud-based customer service and survey tools we use), payment processors, and business partners.Affiliates for purposes of business operations and support. | Advertising networks. |
-| Demographic information, such as your gender, age, date of birth, and language.Visual information, such as your profile picture and the profile pictures of your friends or contacts. | Vendors, such as cloud service providers (including cloud-based customer service and survey tools we use).Affiliates for purposes of business operations and support.Service providers that enable image functionality on our behalf.Affiliates for purposes of business operations and support. Other players, depending on your sharing preferences. | N/A |
-| Visual information, such as your profile picture and the profile pictures of your friends or contacts. | Service providers that enable image functionality on our behalf.Affiliates for purposes of business operations and support. Other players, depending on your sharing preferences. | N/A |
-| Non-precise geolocation information. | Vendors, such as cloud service providers (such as our email service providers and cloud-based survey and customer service tools we use) and payment processors.Affiliates for purposes of business operations and support. | N/A |
-| Other information you may share if you use social features when accessing our Services, including the organizations, links, and other information included on your social profile page. | Service providers, and other providers or partners that support our operational business purposes.Affiliates for purposes of business operations and support. Other players, depending on your sharing preferences. | N/A |
-| Inferences derived from personal information listed above in this chart, such as your characteristics and preferences. | Vendors, such as cloud service providers (such as our email service providers and cloud-based survey and customer service tools we use) and payment processors.Affiliates for purposes of business operations and support. | Analytics providers and advertising networks. |
+| Identifiers such as username or handle, third party service ID, IP address, unique device identifier, advertising identifier, device serial number. | Vendors, such as cloud service providers (such as our email service providers and cloud-based survey and customer service tools we use) and payment processors. Affiliates for purposes of business operations and support. Other players in multiplayer games (username only). | Analytics providers and advertising partners. |
+| Internet or other electronic network activity information, such as hardware model, device software platform/OS and firmware, mobile carrier, preferred languages, device motion information, and mobile network information, and in some cases, browser type, Internet service provider, referring/exit pages and URLs, and clickstream information. | Vendors, such as cloud service providers (such as our email service providers and cloud-based survey and customer service tools we use). Affiliates for purposes of business operations and support. | Analytics providers and advertising partners. |
+| Commercial information, such as information regarding in-game purchase payment method. | Vendors, such as cloud service providers (including cloud-based customer service and survey tools we use), payment processors, and business partners. Affiliates for purposes of business operations and support. | N/A |
+| Commercial information, such as information regarding in-game purchase events and value of purchases. | Vendors, such as cloud service providers (including cloud-based customer service and survey tools we use), payment processors, and business partners. Affiliates for purposes of business operations and support. | Advertising partners. |
+| Demographic information, such as your gender, age, date of birth, and language. | Vendors, such as cloud service providers (including cloud-based customer service and survey tools we use). Affiliates for purposes of business operations and support. | N/A |
+| Visual information, such as your profile picture and the profile pictures of your friends or contacts. | Service providers that enable image functionality on our behalf. Affiliates for purposes of business operations and support. Other players, depending on your sharing preferences. | N/A |
+| Non-precise geolocation information. | Vendors, such as cloud service providers (such as our email service providers and cloud-based survey and customer service tools we use) and payment processors. Affiliates for purposes of business operations and support. | N/A |
+| Other information you may share if you use social features when accessing our Services, including the organizations, links, and other information included on your social profile page. | Service providers, and other providers or partners that support our operational business purposes. Affiliates for purposes of business operations and support. Other players, depending on your sharing preferences. | N/A |
+| Inferences derived from personal information listed above in this chart, such as your characteristics and preferences. | Vendors, such as cloud service providers (such as our email service providers and cloud-based survey and customer service tools we use) and payment processors. Affiliates for purposes of business operations and support. | Analytics providers and advertising partners. |
 
   
-Note that we do not have any knowledge of sales or sharing of personal information of minors (e.g., for the purpose of this section, under 16 years of age in California). While our Services may allow you to create an account, we do not otherwise use or disclose any sensitive personal information.  
+  
+Note that we do not have any knowledge of Sales or Sharing of personal information of minors (e.g., for the purpose of this section, under 16 years of age in California). While our Services may allow you to create an account, we do not otherwise use or disclose any sensitive personal information.  
   
 **Your Privacy Rights Under Applicable State Law**  
   
-Subject to applicable law, if you are a resident of California, Virginia, Connecticut, Utah, or Colorado, you may have the following rights:  
-  
+Subject to applicable law, if you are a resident of California, Colorado, Connecticut, Montana, Oregon, Texas, Utah, or Virginia, you may have the following rights:  
 
-* **To Know and Access**: to obtain a copy of the specific pieces of personal information we have collected about you. (Note that this right only applies to personal information relating to you, and not to any other player.)
+  
+* **To Know and Access**: to confirm whether we process your personal information, and, subject to certain exceptions under applicable law, to obtain a copy of the personal information we have collected about you. Oregon residents may request information about the third parties to whom we have disclosed personal information. (Note that this right only applies to personal information relating to you, and not to any other player.)
   
 * **Deletion**: to request that Scopely delete your personal information. This right may be limited to the extent that Scopely is permitted or required by applicable law to retain information. (Note that if you request deletion of your personal information, you may no longer be able to use or access the Services, and that if you share devices with someone else who uses the Services, that person may lose game progress or related Account information and access. If you decide to use or access the Services again, Scopely may consider this a new Account, and may collect personal information associated with that Account in accordance with this Privacy Policy.)
   
-* **Opt-Out of "Sale" and Certain Sharing Practices**: depending on the site you are visiting or the app you are visiting and your relationship with us, you have the right to opt-out of certain information sharing practices with Third Parties who do not act as our Service Providers. In some states, like California, this information sharing may qualify as a “share” or a “sale,” while in other states, like Virginia, this information sharing may qualify as “targeted advertising” (collectively, “personalized advertising”). If you wish to opt-out of personalized advertising associated with our games, please visit the “Do Not Sell or Share My Personal Information” setting found in a game’s settings menu, or by contacting us as set forth below.
+* **Opt-Out of "Sale", "Sharing" and "Targeted Advertising" Practices**: depending on the site you are visiting or the app you are visiting and your relationship with us, you have the right to opt-out of certain information sharing practices with Third Parties who do not act as our Service Providers. In some states, like California, this information sharing may qualify as a “Share” or a “Sale,” while in other states, like Virginia, this information sharing may qualify as “Targeted Advertising” (collectively, “personalized advertising”). If you wish to opt-out of personalized advertising associated with our games, please visit the “Do Not Sell or Share My Personal Information” setting found in a game’s settings menu, or by contacting us as set forth below. If you are a resident of Colorado, Connecticut, Montana, Oregon, or Texas you may designate an agent to submit an opt-out of Sale or opt-out of personalized advertising request on your behalf.
   
 * **Correction**: to request the correction of inaccurate personal information that we may have on file about you.
   
@@ -1246,22 +1162,48 @@ Subject to applicable law, if you are a resident of California, Virginia, Connec
   
 If you wish to exercise any of the rights described above, please follow the instructions in “Your Rights and Choices” above. We will not discriminate against you, in terms of price or services that we offer, if you submit any of the requests listed above.  
   
-_Verification and Appeal Process_: We are required by law to take reasonable steps to verify your identity prior to responding to your request. Please note that your exercise of these rights is subject to certain exemptions to safeguard the public interest (e.g., the prevention or detection of crime) and our interests (e.g., the maintenance of legal privilege). Please do not delete our game until your request is fulfilled. If we are unable to process your request via our in-game help ticket system, we may verify your request by asking for information sufficient to confirm your identity, such as your name, email address, and information about your interactions with us or with one of our games. Requests to exercise these rights may be granted in whole, in part, or not at all, depending on the scope and nature of the request and as permitted by applicable law. Where required by applicable law, we will notify you if we reject your request, and notify you of the reasons we are unable to honor your request.  
+_Verification and Appeal Process_: We are required by law to take reasonable steps to verify your identity prior to responding to your request (except for requests to Opt-Out). Please note that your exercise of these rights is subject to certain exemptions to safeguard the public interest (e.g., the prevention or detection of crime) and our interests (e.g., the maintenance of legal privilege). Please do not delete our game until your request is fulfilled. If we are unable to process your request via our in-game help ticket system, we may verify your request by asking for information sufficient to confirm your identity, such as your name, email address, and information about your interactions with us or with one of our games. Requests to exercise these rights may be granted in whole, in part, or not at all, depending on the scope and nature of the request and as permitted by applicable law. Where required by applicable law, we will notify you if we reject your request, and notify you of the reasons we are unable to honor your request.  
   
-If you are a resident of Colorado, Virginia, or Connecticut, you have the right to appeal a request we deny when we have verified your identity and still decline to honor your request. The process for that appeal will be sent to you separately if your request is denied.  
+If you are a resident of Colorado, Connecticut, Montana, Oregon, Texas, or Virginia you have the right to appeal a request we deny when we have verified your identity and still decline to honor your request. The process for that appeal will be sent to you separately if your request is denied.  
   
 _Authorized Agent_: Californian players may use an authorized agent on their behalf to exercise a privacy right discussed above. If you are an authorized agent acting on behalf of a Californian player to communicate with us or to exercise a privacy right discussed above, you must be able to demonstrate that you have the requisite authorization to act on behalf of the player, and have sufficient access to that player’s laptop, desktop, or mobile device to exercise that player’s right digitally. If you are an authorized agent trying to exercise rights on behalf of a Scopely player, then you can make a request on the player’s behalf by contacting us as set forth below in the “Contact Us” section with supporting verification information with proof that you have access to the player’s interface (including, for certain requests, written permission from the player) and proof of your own identity.  
   
-_Refer-a-Friend, Promotions, and Similar Incentive Programs_: We may offer referral programs, promotions such as sweepstakes, or other incentivized information collection programs. We may offer incentives to you such as discounts or promotional items or credit in connection with these programs, wherein you provide personal information regarding your friends or colleagues (such as their email address) and receive rewards when they sign up to use our Services. (The referred party may also receive rewards for signing up via your referral.) Alternatively, we may ask you to provide your personal information in exchange for a reward or participation in a promotion. These programs are entirely voluntary and allow us to grow our business and provide additional benefits to you. The value of your information to us depends on how you ultimately use our Services, whereas the value of the referred party’s information to us depends on whether the referred party ultimately uses our Services. Said value will be reflected in the incentive offered in connection with each program. You may withdraw from the incentives at any time. In order to withdraw from the financial incentive, please contact us at privacy@scopely.com.  
+_Refer-a-Friend, Promotions, and Similar Incentive Programs_: We may offer referral programs, promotions such as sweepstakes, or other incentivized information collection programs. We may offer incentives to you such as discounts or promotional items or credit in connection with these programs, wherein you provide personal information regarding your friends or colleagues (such as their email address) and receive rewards when they sign up to use our Services. (The referred party may also receive rewards for signing up via your referral.) Alternatively, we may ask you to provide your personal information in exchange for a reward or participation in a promotion. These programs are entirely voluntary and allow us to grow our business and provide additional benefits to you. The value of your information to us depends on how you ultimately use our Services, whereas the value of the referred party’s information to us depends on whether the referred party ultimately uses our Services. Said value will be reflected in the incentive offered in connection with each program. You may withdraw from the incentives at any time. In order to withdraw from the financial incentive, please contact us at [privacy@scopely.com](mailto:privacy@scopely.com)[privacy@scopely.com](mailto:privacy@scopely.com).  
   
 _Shine the Light Disclosure_: California residents are entitled to ask us for a notice that identifies the categories of personal customer information that we share with our affiliates and/or third parties for marketing purposes, and provides contact information for such affiliates and/or third parties. If you are a California resident and would like this information, please submit a written request to us using the contact information below in the “Contact Us” section.  
   
+_CCPA Reporting Metrics_: To learn more about our annual reporting metrics, please visit \[CCPA Metrics Report\].  
+  
+**Additional Information for Residents of Nevada**  
+  
+If you are a Nevada resident, you can request that we not “Sell” your “Covered Information” (as defined in applicable Nevada law). We do not Sell any Covered Information concerning Nevada residents. If you have questions about our practices please contact us using the information in the "Contact Us" section below. Please use “Nevada Do Not Sell” in the subject line.  
+  
+**Your Duty to Inform us of Changes**  
+  
+It is important that the information we hold about you is accurate and current. Please keep us informed as soon as possible if your personal information changes or is inaccurate during your relationship with us by using the contact details below.  
+  
 **Contact Us**  
   
-If you have questions or concerns about this Policy or our information practices, you can contact us by email at privacy@scopely.com, or by postal mail at: Scopely, Inc., Attn: Legal Department, 3505 Hayden Avenue, Culver City, CA 90232. If we receive a formal written complaint from you, we will attempt to contact you directly to resolve your concerns.  
+If you have questions or concerns about this Privacy Policy and our use of your personal information, you can contact us by email at [privacy@scopely.com](mailto:privacy@scopely.com), or by postal mail at: Scopely, Inc., Attn: Legal Department, 3505 Hayden Avenue, Culver City, CA 90232, clarified further below. If we receive a formal written complaint from you, we will attempt to contact you directly to resolve your concerns.  
   
+**Residents outside the European Economic Area (EEA)**:  
   
+Attn: Legal Department  
+3505 Hayden Avenue, Culver City, CA 90232  
   
+**European Economic Area (EEA)**:  
+  
+Attn: Legal Department  
+3505 Hayden Avenue, Culver City, CA 90232  
+  
+**UK Residents**:  
+  
+Attn: Legal Department  
+3505 Hayden Avenue, Culver City, CA 90232  
+  
+To comply with our obligations under EU and UK data protection legislation, we have appointed a Data Protection Officer (DPO) in the UK and Spain. Our DPO can be contacted at [privacy@scopely.com](mailto:privacy@scopely.com) or by mail using the details provided above.  
+  
+Who is the controller of my data? For the purposes of EU/UK data protection legislation, Scopely Inc., is the controller of your personal information collected by Scopely pursuant to this Privacy Policy.
 
 Player Community Guidelines
 ---------------------------
