@@ -1,8 +1,10 @@
 [Skip to main content](#maincontent) [Skip to Support Chat](#) [Skip to footer content](#footercontent) [Skip to Accessibility Statement](https://www.bose.com/legal/accessibility)
 
-Vibe more, pause less with Ultra Open Earbuds. [Shop](https://www.bose.com/ULT-HEADPHONEOPN.html)
+New Bose QuietComfort Earbuds and Bose Smart Soundbar. [Shop](https://www.bose.com/c/new-arrivals)
 
-Sign up for texts & get an extra 10% off Certified Refurbished products. [Sign up](https://cloud.email.bose.com/sms-sign-up).
+Vibe more, pause less with Ultra Open Earbuds. [Shop](https://www.bose.com/ULT-HEADPHONEOPN.html)
+
+Sign up for texts & get an extra 10% off Certified Refurbished products. [Sign up](https://cloud.email.bose.com/sms-sign-up).
 
 Back
 
@@ -19,7 +21,6 @@ Back
     * [Accessories](https://www.bose.com/c/accessories)
     * [All Products](https://www.bose.com/c/all-products)
     
-    * [Sale](https://www.bose.com/c/sale)
     * [Sets](https://www.bose.com/c/sets)
     * [Refurbished](https://www.bose.com/c/refurbished)
     * [Gift Cards](https://www.bose.com/gift-cards)
@@ -72,20 +73,20 @@ Back
     * [All Aviation Headsets](https://www.bose.com/c/aviation-headsets)
     * [Aviation Headset Accessories](https://www.bose.com/c/aviation-headsets/accessories)
     
-    [![](https://assets.bosecreative.com/m/3681820ab85c63e4/webimage-SF_UOE-Q3_MOBILE-NAV_LISA.png)
+    [![](https://assets.bosecreative.com/m/5475f5da9e0a6a07/webimage-SF_QCEB25_MOB-NAV_WHITE_EXPRESSIVE.png)
     
-    Ultra Open Earbuds
+    NEW QUIETCOMFORT EARBUDS
     
-    ### Hear it all. All the time.](https://www.bose.com/en_us/legal/p/ULT-HEADPHONEOPN.html "Shop")
+    ### Powerful, not precious](https://www.bose.com/QCEARB24-HEADPHONEIN.html "BUY NOW")
     
      
     
-    Fit? Check. Life? Yes.
+    Powerful, not precious
     ----------------------
     
-    Experience life and music combined with Ultra Open Earbuds.
+    New QuietComfort Earbuds
     
-    [BUY NOW](https://www.bose.com/ULT-HEADPHONEOPN.html "BUY NOW")
+    [BUY NOW](https://www.bose.com/QCEARB24-HEADPHONEIN.html "BUY NOW")
     
 
 * [Explore](#)
@@ -113,7 +114,7 @@ Back
     Scenes behind the sound
     -----------------------
     
-    These rising stars are “on in 5!”
+    These stars are “on in 5!”
     
     [LEARN MORE](https://www.bose.com/stories/why-musicians-love-ultra-open-earbuds "LEARN MORE")
     
@@ -149,7 +150,6 @@ Back
     
     * [Explore 60th Anniversary](https://www.bose.com/60th-anniversary-details)
     * [Shop Diamond Collection](https://www.bose.com/c/60th-anniversary-diamond-collection)
-    * [Enter Diamond Giveaway](https://www.bose.com/60th-anniversary-diamond-giveaway)
     * [Discover SPIN x Bose](https://www.bose.com/stories/bose-celebrates-60th-anniversary-with-spin-collab)
     * [Uncover Bose's History](https://timeline.bose.com/)
     
