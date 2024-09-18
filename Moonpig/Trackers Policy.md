@@ -21,6 +21,7 @@ Menu
     * [0-2 Years](https://www.moonpig.com/uk/gifts/early-learning-centre/all/)
     * [3-5 Years](https://www.moonpig.com/uk/gifts/the-entertainer/3-5-years/)
     * [6-8 Years](https://www.moonpig.com/uk/gifts/the-entertainer/6-8-years/)
+    * [All Ages](https://www.moonpig.com/uk/gifts/the-entertainer/all/)
     
     ### Toys By Brand
     
@@ -79,9 +80,9 @@ Menu
     
     ### Gifts & Flowers
     
-    * [All Gifts](https://www.moonpig.com/uk/gifts/birthday/)
+    * [All Gifts](https://www.moonpig.com/uk/gifts/birthday/all/)
     * [All Flowers](https://www.moonpig.com/uk/flowers-and-plants/birthday/)
-    * [All Plants](https://www.moonpig.com/uk/flowers-and-plants/all-plants/birthday/)
+    * [All Plants](https://www.moonpig.com/uk/flowers-and-plants/all-plants/)
     * [Experience Gifts](https://www.moonpig.com/uk/gifts/experience-gifts/experience-vouchers/birthday/)
     * [Balloons](https://www.moonpig.com/uk/gifts/balloons/birthday/)
     * [Gifts For Him](https://www.moonpig.com/uk/gifts/birthday/for-him/)
