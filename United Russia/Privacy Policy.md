@@ -299,13 +299,21 @@
 
 [Все новости](https://er.ru/activity/news)
 
+[![Владимир Путин: Выборы проходили в условиях конкурентной борьбы и при самой высокой за всю историю проведения Единого дня голосования явке](https://cdn.er.ru/media/news/September2024/KGJPUnIBjaN7hfJ2gbgJ-small.jpg)](https://er.ru/activity/news/vladimir-putin-vybory-prohodili-v-usloviyah-konkurentnoj-borby-i-pri-samoj-vysokoj-za-vsyu-istoriyu-provedeniya-edinogo-dnya-golosovaniya-yavke)
+
+[Владимир Путин: Выборы проходили в условиях конкурентной борьбы и при самой высокой за всю историю проведения Единого дня голосования явке](https://er.ru/activity/news/vladimir-putin-vybory-prohodili-v-usloviyah-konkurentnoj-borby-i-pri-samoj-vysokoj-za-vsyu-istoriyu-provedeniya-edinogo-dnya-golosovaniya-yavke)
+
+[#Путин](https://er.ru/activity/news?tags%5B0%5D=60) [#ЕДГ2024](https://er.ru/activity/news?tags%5B0%5D=1095607) [#выборы2024](https://er.ru/activity/news?tags%5B0%5D=1095001) [#главырегионов](https://er.ru/activity/news?tags%5B0%5D=122989) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#избирательнаякампания](https://er.ru/activity/news?tags%5B0%5D=109648) [#голосование-2024](https://er.ru/activity/news?tags%5B0%5D=1095548)
+
+18.09.24
+
 [![«Единая Россия» и фонд «Защитники Отечества» усилят совместную законодательную работу по поддержке участников СВО](https://cdn.er.ru/media/news/September2024/jOYop0udenQktUjG4DSL-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-i-fond-zashitniki-otechestva-usilyat-sovmestnuyu-zakonodatelnuyu-rabotu-po-podderzhke-uchastnikov-svo)
 
 [«Единая Россия» и фонд «Защитники Отечества» усилят совместную законодательную работу по поддержке участников СВО](https://er.ru/activity/news/edinaya-rossiya-i-fond-zashitniki-otechestva-usilyat-sovmestnuyu-zakonodatelnuyu-rabotu-po-podderzhke-uchastnikov-svo)
 
 [#Цивилева](https://er.ru/activity/news?tags%5B0%5D=1095455) [#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#Лантратова](https://er.ru/activity/news?tags%5B0%5D=1607) [#Стенякина](https://er.ru/activity/news?tags%5B0%5D=26293) [#фондЗащитникиОтечества](https://er.ru/activity/news?tags%5B0%5D=1094370) [#СВО](https://er.ru/activity/news?tags%5B0%5D=1092872) [#поддержкавоеннослужащих](https://er.ru/activity/news?tags%5B0%5D=1094152) [#поддержкасемейвоеннослужащих](https://er.ru/activity/news?tags%5B0%5D=1093581) [#законотворчество](https://er.ru/activity/news?tags%5B0%5D=10327) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49)
 
-Сегодня 17:15
+18.09.24
 
 [![Госдума приняла в первом чтении законопроект «Единой России» о дополнительной поддержке донорства](https://cdn.er.ru/media/news/September2024/53vtC3scSB5P0EyfwxRx-small.jpg)](https://er.ru/activity/news/gosduma-prinyala-v-pervom-chtenii-zakonoproekt-edinoj-rossii-o-dopolnitelnoj-podderzhke-donorstva)
 
@@ -313,7 +321,7 @@
 
 [#Метелев](https://er.ru/activity/news?tags%5B0%5D=133170) [#студенчество](https://er.ru/activity/news?tags%5B0%5D=10761) [#донорство](https://er.ru/activity/news?tags%5B0%5D=127509) [#сдачакрови](https://er.ru/activity/news?tags%5B0%5D=117217) [#мерыподдержки](https://er.ru/activity/news?tags%5B0%5D=147555) [#добровольчество](https://er.ru/activity/news?tags%5B0%5D=19819) [#волонтерскаядеятельность](https://er.ru/activity/news?tags%5B0%5D=147139) [#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#законодательство](https://er.ru/activity/news?tags%5B0%5D=692)
 
-Сегодня 13:58
+18.09.24
 
 [![«Единая Россия» внесла законопроект о праве многодетных семей на бесплатную юридическую помощь](https://cdn.er.ru/media/news/September2024/43m8iCTxXFD4XwnH5OqC-small.JPG)](https://er.ru/activity/news/edinaya-rossiya-vnesla-zakonoproekt-o-prave-mnogodetnyh-semej-na-besplatnuyu-yuridicheskuyu-pomosh)
 
@@ -321,7 +329,7 @@
 
 [#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#бесплатнаяюридическаяпомощь](https://er.ru/activity/news?tags%5B0%5D=120547) [#юридическаяконсультация](https://er.ru/activity/news?tags%5B0%5D=110288) [#семьисдетьми](https://er.ru/activity/news?tags%5B0%5D=136562) [#многодетныесемьи](https://er.ru/activity/news?tags%5B0%5D=109325) [#мерыподдержкиграждан](https://er.ru/activity/news?tags%5B0%5D=145894) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#законодательство](https://er.ru/activity/news?tags%5B0%5D=692)
 
-Сегодня 12:46
+18.09.24
 
 [![Евгений Нифантьев: «Единая Россия» обеспечит законодательную базу для работы новых нацпроектов в области здравоохранения и народосбережения](https://cdn.er.ru/media/news/September2024/9VRolvNw6inyY0rHthuJ-small.jpg)](https://er.ru/activity/news/evgenij-nifantev-edinaya-rossiya-obespechit-zakonodatelnuyu-bazu-dlya-raboty-novyh-nacproektov-v-oblasti-zdravoohraneniya-i-narodosberezheniya)
 
@@ -329,7 +337,7 @@
 
 [#Нифантьев](https://er.ru/activity/news?tags%5B0%5D=150020) [#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#первичноезвеноздравоохранения](https://er.ru/activity/news?tags%5B0%5D=137171) [#законопроекты](https://er.ru/activity/news?tags%5B0%5D=863) [#нацпроекты](https://er.ru/activity/news?tags%5B0%5D=127007)
 
-Сегодня 12:02
+18.09.24
 
 [![Александр Мажуга: «Единая Россия» в осеннюю сессию обеспечит принятие приоритетных законопроектов в сфере высшего образования и науки](https://cdn.er.ru/media/news/September2024/5nqmrGaU6OjYFXope4Yd-small.jpg)](https://er.ru/activity/news/aleksandr-mazhuga-edinaya-rossiya-v-osennyuyu-sessiyu-obespechit-prinyatie-prioritetnyh-zakonoproektov-v-sfere-vysshego-obrazovaniya-i-nauki)
 
@@ -337,15 +345,7 @@
 
 [#Мажуга](https://er.ru/activity/news?tags%5B0%5D=1091855) [#фракцияЕР](https://er.ru/activity/news?tags%5B0%5D=126717) [#молодыеученые](https://er.ru/activity/news?tags%5B0%5D=127906) [#мерыподдержки](https://er.ru/activity/news?tags%5B0%5D=147555) [#образование](https://er.ru/activity/news?tags%5B0%5D=57) [#медицина](https://er.ru/activity/news?tags%5B0%5D=273) [#наука](https://er.ru/activity/news?tags%5B0%5D=354) [#вузы](https://er.ru/activity/news?tags%5B0%5D=635) [#технологии](https://er.ru/activity/news?tags%5B0%5D=1090612) [#общежития](https://er.ru/activity/news?tags%5B0%5D=3688) [#бюджет](https://er.ru/activity/news?tags%5B0%5D=112) [#народнаяпрограмма](https://er.ru/activity/news?tags%5B0%5D=109889)
 
-Сегодня 11:43
-
-[![Максим Топилин: В осеннюю сессию «Единая Россия» будет работать над отраслевыми законопроектами в экономике и инициативами по поддержке инвестиций](https://cdn.er.ru/media/news/September2024/fl14f60QeXjXz1RAHUCp-small.jpg)](https://er.ru/activity/news/maksim-topilin-v-osennyuyu-sessiyu-edinaya-rossiya-budet-rabotat-nad-otraslevymi-zakonoproektami-v-ekonomike-i-iniciativami-po-podderzhke-investicij)
-
-[Максим Топилин: В осеннюю сессию «Единая Россия» будет работать над отраслевыми законопроектами в экономике и инициативами по поддержке инвестиций](https://er.ru/activity/news/maksim-topilin-v-osennyuyu-sessiyu-edinaya-rossiya-budet-rabotat-nad-otraslevymi-zakonoproektami-v-ekonomike-i-iniciativami-po-podderzhke-investicij)
-
-[#Топилин](https://er.ru/activity/news?tags%5B0%5D=10362) [#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#законопроекты](https://er.ru/activity/news?tags%5B0%5D=863) [#законотворчество](https://er.ru/activity/news?tags%5B0%5D=10327) [#законодательнаяинициативаЕР](https://er.ru/activity/news?tags%5B0%5D=152136) [#Правительство](https://er.ru/activity/news?tags%5B0%5D=1090296) [#нацпроекты](https://er.ru/activity/news?tags%5B0%5D=127007) [#инвестиции](https://er.ru/activity/news?tags%5B0%5D=121539) [#промышленность](https://er.ru/activity/news?tags%5B0%5D=1335) [#Роскосмос](https://er.ru/activity/news?tags%5B0%5D=1864) [#облигации](https://er.ru/activity/news?tags%5B0%5D=7463) [#госзакупки](https://er.ru/activity/news?tags%5B0%5D=1380)
-
-Сегодня 11:27
+18.09.24
 
 ![Сайт президента РФ](https://cdn.er.ru/media/sites/July2020/7T7J24LxtsdGGJVk1lL0.jpg)
 
