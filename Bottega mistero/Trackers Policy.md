@@ -18,7 +18,7 @@ Alza il velo della realtà per portare alla luce curiosità, misteri, eventi gro
 * [Shop](https://www.bottegamistero.com/shop/)
 * [Donazioni](https://www.bottegamistero.com/donazioni/)
 
-[](https://www.bottegamistero.com/lemmings-il-suicidio-di-massa/ "Mostra un articolo casuale")
+[](https://www.bottegamistero.com/earth-hour-salvare-il-mondo-60-minuti-alla-volta/ "Mostra un articolo casuale")
 
 [](https://www.bottegamistero.com/privacy-policy/ "Privacy policy")
 
