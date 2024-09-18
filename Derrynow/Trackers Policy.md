@@ -259,15 +259,6 @@ Advertise with Us
 
 Most Popular
 
-[![Police investigating circumstances surrounding sudden death of a man in Derry](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Police investigating circumstances surrounding sudden death of a man in Derry")](https://www.derrynow.com/news/local-news/1607330/police-investigating-circumstances-surrounding-sudden-death-of-a-man-in-derry.html)
-
-PSNI
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Police investigating circumstances surrounding sudden death of a man in Derry](https://www.derrynow.com/news/local-news/1607330/police-investigating-circumstances-surrounding-sudden-death-of-a-man-in-derry.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 [![Derry Death Notices - Wednesday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Wednesday")](https://www.derrynow.com/news/deaths/1607467/derry-death-notices-wednesday-18th-september-2024.html)
 
 [Deaths](https://www.derrynow.com/section/977/deaths)
@@ -289,19 +280,12 @@ PSNI
 [Man appears in connection with sending racist messages to Mayor of Derry and Strabane](https://www.derrynow.com/news/local-news/1607946/man-appears-in-connection-with-sending-racist-messages-to-mayor-of-derry-and-strabane.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Bewitching new Derry Halloween programme unveiled by Mayor](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Bewitching new Derry Halloween programme unveiled by Mayor")](https://www.derrynow.com/news/local-news/1607450/bewitching-new-derry-halloween-programme-unveiled-by-mayor.html)
+[![Derry man fined for cycling while unfit through drink or drugs](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry man fined for cycling while unfit through drink or drugs")](https://www.derrynow.com/news/local-news/1608126/derry-man-fined-for-cycling-while-unfit-through-drink-or-drugs.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[Bewitching new Derry Halloween programme unveiled by Mayor](https://www.derrynow.com/news/local-news/1607450/bewitching-new-derry-halloween-programme-unveiled-by-mayor.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![New management authority considered for controlled schools sector](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "New management authority considered for controlled schools sector")](https://www.derrynow.com/news/northern-ireland/1607558/new-management-authority-considered-for-controlled-schools-sector.html)
-
-[Northern Ireland](https://www.derrynow.com/section/997/cookie-policy)
-
-[New management authority considered for controlled schools sector](https://www.derrynow.com/news/northern-ireland/1607558/new-management-authority-considered-for-controlled-schools-sector.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Derry man fined for cycling while unfit through drink or drugs](https://www.derrynow.com/news/local-news/1608126/derry-man-fined-for-cycling-while-unfit-through-drink-or-drugs.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Donegal man (36) returned for trial for child sexual offences](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Donegal man (36) returned for trial for child sexual offences")](https://www.derrynow.com/news/local-news/1608124/donegal-man-36-returned-for-trial-for-child-sexual-offences.html)
 
@@ -310,29 +294,45 @@ PSNI
 [Donegal man (36) returned for trial for child sexual offences](https://www.derrynow.com/news/local-news/1608124/donegal-man-36-returned-for-trial-for-child-sexual-offences.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Derry's Dunluce Family Centre receives funding boost from Assets Recovery Scheme](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry's Dunluce Family Centre receives funding boost from Assets Recovery Scheme")](https://www.derrynow.com/news/local-news/1607418/derry-s-dunluce-family-centre-receives-funding-boost-from-assets-recovery-scheme.html)
+[![James Slavin holding aloft the Irish tricolour after a title winning bout](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "James Slavin holding aloft the Irish tricolour after a title winning bout")](https://www.derrynow.com/news/derry-sport/1608033/derry-man-claims-uk-fighting-championships-featherweight-belt.html)
 
-Justice Minister Naomi Long is pictured at Dunluce Family Centre with Brian McNechtain, Chairperson; and Margaret McCann, Manager; during a visit to the centre in Ballymagroarty.
+James Slavin holding aloft the Irish tricolour after a title winning bout
 
-[Local News](https://www.derrynow.com/section/975/news)
+[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
 
-[Derry's Dunluce Family Centre receives funding boost from Assets Recovery Scheme](https://www.derrynow.com/news/local-news/1607418/derry-s-dunluce-family-centre-receives-funding-boost-from-assets-recovery-scheme.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Barnaby Bear returning to Drumahoe Primary School (Credit: Instagram- Tandem Twins)](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Barnaby Bear returning to Drumahoe Primary School (Credit: Instagram- Tandem Twins)")](https://www.derrynow.com/news/county-derry-post/1607136/county-derry-paralympians-return-bear-to-their-primary-school-after-a-summer-of-sport.html)
-
-Barnaby Bear returning to Drumahoe Primary School (Credit: Instagram- Tandem Twins)
-
-[County Derry Post](https://www.derrynow.com/section/1000/county-derry-post)
-
-[County Derry Paralympians return bear to their primary school after a summer of sport](https://www.derrynow.com/news/county-derry-post/1607136/county-derry-paralympians-return-bear-to-their-primary-school-after-a-summer-of-sport.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Derry man claims UK Fighting Championships Featherweight belt](https://www.derrynow.com/news/derry-sport/1608033/derry-man-claims-uk-fighting-championships-featherweight-belt.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Historic day as signing of Derry's City Deal to take place](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Historic day as signing of Derry's City Deal to take place")](https://www.derrynow.com/news/local-news/1607857/historic-day-as-signing-of-derry-s-city-deal-to-take-place.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
 
 [Historic day as signing of Derry's City Deal to take place](https://www.derrynow.com/news/local-news/1607857/historic-day-as-signing-of-derry-s-city-deal-to-take-place.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Derry man set for Cage Warriors debut in Manchester](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry man set for Cage Warriors debut in Manchester")](https://www.derrynow.com/news/derry-sport/1608098/derry-man-set-for-cage-warriors-debut-in-manchester.html)
+
+Matthew Friel set for Cage Warriors debut
+
+[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
+
+[Derry man set for Cage Warriors debut in Manchester](https://www.derrynow.com/news/derry-sport/1608098/derry-man-set-for-cage-warriors-debut-in-manchester.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Morelli’s Ice Cream](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Morelli’s Ice Cream")](https://www.derrynow.com/news/home/1608291/derry-s-favourite-ice-cream-flavour-revealed-by-morellis-ice-cream.html)
+
+Morelli’s Ice Cream
+
+[Home](https://www.derrynow.com/)
+
+[Derry's favourite ice cream flavour revealed by Morelli’s Ice Cream](https://www.derrynow.com/news/home/1608291/derry-s-favourite-ice-cream-flavour-revealed-by-morellis-ice-cream.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Day of celebration for Derry as city growth deal is signed](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Day of celebration for Derry as city growth deal is signed")](https://www.derrynow.com/news/local-news/1608026/day-of-celebration-for-derry-as-city-growth-deal-is-signed.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Day of celebration for Derry as city growth deal is signed](https://www.derrynow.com/news/local-news/1608026/day-of-celebration-for-derry-as-city-growth-deal-is-signed.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
@@ -519,51 +519,55 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
-[![‘Huge opportunity’ for Londonderry as Benn promises to support other city deals](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "‘Huge opportunity’ for Londonderry as Benn promises to support other city deals")](https://www.derrynow.com/news/local-news/1608188/huge-opportunity-for-derry-as-benn-promises-to-support-other-city-deals.html)
+[![Life-saving Altnagelvin Hospital cardiac care service celebrates its 10 year anniversary](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Life-saving Altnagelvin Hospital cardiac care service celebrates its 10 year anniversary")](https://www.derrynow.com/news/local-news/1608304/life-saving-altnagelvin-hospital-cardiac-care-service-celebrates-its-10-year-anniversary.html)
+
+Cardiology Team at Altnagelvin celebrating the 10th Anniversary of the PPCI service saving and treated thousands of heart attack patients
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[‘Huge opportunity’ for Londonderry as Benn promises to support other city deals](https://www.derrynow.com/news/local-news/1608188/huge-opportunity-for-derry-as-benn-promises-to-support-other-city-deals.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Life-saving Altnagelvin Hospital cardiac care service celebrates its 10 year anniversary](https://www.derrynow.com/news/local-news/1608304/life-saving-altnagelvin-hospital-cardiac-care-service-celebrates-its-10-year-anniversary.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![James Slavin holding aloft the Irish tricolour after a title winning bout](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "James Slavin holding aloft the Irish tricolour after a title winning bout")](https://www.derrynow.com/news/derry-sport/1608033/derry-man-claims-uk-fighting-championships-featherweight-belt.html)
+[![Derry man set for Cage Warriors debut in Manchester](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry man set for Cage Warriors debut in Manchester")](https://www.derrynow.com/news/derry-sport/1608098/derry-man-set-for-cage-warriors-debut-in-manchester.html)
 
-James Slavin holding aloft the Irish tricolour after a title winning bout
+Matthew Friel set for Cage Warriors debut
 
 [Derry Sport](https://www.derrynow.com/section/1064/local-sport)
 
-[Derry man claims UK Fighting Championships Featherweight belt](https://www.derrynow.com/news/derry-sport/1608033/derry-man-claims-uk-fighting-championships-featherweight-belt.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Derry man set for Cage Warriors debut in Manchester](https://www.derrynow.com/news/derry-sport/1608098/derry-man-set-for-cage-warriors-debut-in-manchester.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Dwayne Fields ](https://www.derrynow.com/resizer/165/93/true/2024_09_18/Chief_Scout_Image-1726660524368.jpg--.jpg?1726660527262 "Dwayne Fields ")](https://www.derrynow.com/news/home/1608114/county-derry-has-welcomed-a-new-chief-scout.html)
+[![Claudy organisation among hundreds of rural and community groups to benefit from Minister's grant scheme](https://www.derrynow.com/resizer/165/93/true/2024_09_18/Picture_1-1726674839277_1726674945.jpg--.jpg?1726674945129 "Claudy organisation among hundreds of rural and community groups to benefit from Minister's grant scheme")](https://www.derrynow.com/news/home/1608452/claudy-organisation-among-hundreds-of-rural-and-community-groups-to-benefit-from-minister-s-grant-scheme.html)
 
-Dwayne Fields
+Minister Muir pictured with members of Upper Cumber Presbyterian Church Jack McFarland, Isobel O’Neill and Philip O’Kane of RAPID'.
 
 [Home](https://www.derrynow.com/)
 
-[County Derry has welcomed a new Chief Scout](https://www.derrynow.com/news/home/1608114/county-derry-has-welcomed-a-new-chief-scout.html)
-------------------------------------------------------------------------------------------------------------------------------------------
+[Claudy organisation among hundreds of rural and community groups to benefit from Minister's grant scheme](https://www.derrynow.com/news/home/1608452/claudy-organisation-among-hundreds-of-rural-and-community-groups-to-benefit-from-minister-s-grant-scheme.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Donegal man (36) returned for trial for child sexual offences](https://www.derrynow.com/resizer/165/93/true/2017/07/14154134/husband-and-wife-charged-at-derry-magistrates-court-with-drugs-and-money-laundering-offences-following-organised-crime-investigation-by-the-psni.jpg--.jpg "Donegal man (36) returned for trial for child sexual offences")](https://www.derrynow.com/news/local-news/1608124/donegal-man-36-returned-for-trial-for-child-sexual-offences.html)
+[![Morelli’s Ice Cream](https://www.derrynow.com/resizer/165/93/true/2024_09_18/0R8A4400-Edit-1726667595752.jpg--.jpg?1726667598447 "Morelli’s Ice Cream")](https://www.derrynow.com/news/home/1608291/derry-s-favourite-ice-cream-flavour-revealed-by-morellis-ice-cream.html)
 
-[Local News](https://www.derrynow.com/section/975/news)
+Morelli’s Ice Cream
 
-[Donegal man (36) returned for trial for child sexual offences](https://www.derrynow.com/news/local-news/1608124/donegal-man-36-returned-for-trial-for-child-sexual-offences.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Home](https://www.derrynow.com/)
 
-[![Victim had four teeth knocked out in Derry assault](https://www.derrynow.com/resizer/165/93/true/2024_05_29/derrycourthouse2.jpg---1716982422986.jpg--.jpg?1716982423183 "Victim had four teeth knocked out in Derry assault")](https://www.derrynow.com/news/local-news/1607971/victim-had-four-teeth-knocked-out-in-derry-assault.html)
+[Derry's favourite ice cream flavour revealed by Morelli’s Ice Cream](https://www.derrynow.com/news/home/1608291/derry-s-favourite-ice-cream-flavour-revealed-by-morellis-ice-cream.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Victim had four teeth knocked out in Derry assault](https://www.derrynow.com/news/local-news/1607971/victim-had-four-teeth-knocked-out-in-derry-assault.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Day of celebration for Derry as city growth deal is signed](https://www.derrynow.com/resizer/165/93/true/2024_09_18/IMG-20240918-WA0004-1726657359288.jpg--.jpg?1726657360127 "Day of celebration for Derry as city growth deal is signed")](https://www.derrynow.com/news/local-news/1608026/day-of-celebration-for-derry-as-city-growth-deal-is-signed.html)
+[![Former chief nursing officer shares ‘regret’ over Covid visiting restrictions](https://www.derrynow.com/resizer/165/93/true/pa/2024_09_18/1726668305868_0.jpg--.jpg?1726668305958 "Former chief nursing officer shares ‘regret’ over Covid visiting restrictions")](https://www.derrynow.com/news/local-news/1608362/former-chief-nursing-officer-shares-regret-over-covid-visiting-restrictions.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[Day of celebration for Derry as city growth deal is signed](https://www.derrynow.com/news/local-news/1608026/day-of-celebration-for-derry-as-city-growth-deal-is-signed.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Former chief nursing officer shares ‘regret’ over Covid visiting restrictions](https://www.derrynow.com/news/local-news/1608362/former-chief-nursing-officer-shares-regret-over-covid-visiting-restrictions.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Derry's Rossville Group celebrates three decades at the 'heart of the community'](https://www.derrynow.com/resizer/165/93/true/2024_09_18/Western_Trust_Eden_Arts_Centre-1726666972192_1726667005.jpg--.jpg?1726667005566 "Derry's Rossville Group celebrates three decades at the 'heart of the community'")](https://www.derrynow.com/news/what-s-on/1608303/derry-s-rossville-group-celebrates-three-decades-at-the-heart-of-the-community.html)
+
+[What's On](https://www.derrynow.com/section/1058/what-s-on)
+
+[Derry's Rossville Group celebrates three decades at the 'heart of the community'](https://www.derrynow.com/news/what-s-on/1608303/derry-s-rossville-group-celebrates-three-decades-at-the-heart-of-the-community.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
