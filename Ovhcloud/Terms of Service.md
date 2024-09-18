@@ -674,6 +674,7 @@ Log in to order, manage your products and services, and track your orders.
         * Sustainable cloud
         * Trusted cloud
         * [Investor Relations](https://corporate.ovhcloud.com/en-ie/investor-relations/)
+* [Summit 2024](https://summit.ovhcloud.com/en-ie/)
 
 Open search bar
 
