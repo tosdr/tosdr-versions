@@ -309,6 +309,7 @@
         Aktuelles
         
         * [Übersicht: Aktuelles](https://www.gls.de/gls-bank/aktuelles/)
+        * [Veranstaltungen](https://www.gls.de/gls-bank/aktuelles/veranstaltungen/)
         * [Neuigkeiten](https://www.gls.de/gls-bank/aktuelles/neuigkeiten/)
         * [GLS Bank Magazin](https://blog.gls.de/)
         * [Presse](https://www.gls.de/gls-bank/aktuelles/presse/)
@@ -598,6 +599,7 @@ Folge uns
     
     * [Wo wirkt die GLS?](https://www.gls.de/gls-bank/nachhaltigkeit/wo-wirkt-die-gls/)
     * [Weitersagen](https://www.gls.de/weitersagen/)
+    * [Veranstaltungen](https://www.gls.de/gls-bank/aktuelles/veranstaltungen/)
     * [Filiale finden](https://www.gls.de/gls-bank/ueber-uns/standorte/)
     * [Presse](https://www.gls.de/gls-bank/aktuelles/presse/)
     * [Karriere](https://www.gls.de/gls-bank/ueber-uns/karriere/)
