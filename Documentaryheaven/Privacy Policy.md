@@ -128,39 +128,39 @@ Advertisement
     The Beginning and the End of the Universe
     
     Episode 1: The BeginingEmbarking on a cosmic journey, Professor Jim Al-Khalili transports us through the corridors of time to confront science's most profound inquiry: the genesis of the univers...](https://documentaryheaven.com/the-beginning-and-the-end-of-the-universe/ "The Beginning and the End of the Universe")
-* [![These Streets Are Watching](/wp-content/thumbnails/1269-100x70.jpg?x53432)
+* [![National Security Alert](/wp-content/thumbnails/933-100x70.jpg?x53432)
     
-    These Streets Are Watching
+    National Security Alert
     
-    However, if nothing else, cop watch can and will and does inform citizens of their lefts as citizens. Informs citizens of what is proper police conduct and what is improper police conduct. Informs cit...](https://documentaryheaven.com/these-streets-are-watching/ "These Streets Are Watching")
+    In 2006 Citizen Investigation Team launched an independent investigation into the act of terrorism which took place at the Pentagon on September 11, 2001. This exhaustive three-year inquest involved ...](https://documentaryheaven.com/national-security-alert/ "National Security Alert")
 
 ###### Throwback Documentaries
 
-* [![The Riddle of Antimatter](/wp-content/thumbnails/6210-100x70.jpg?x53432)
+* [![From Russia With Hate](/wp-content/thumbnails/4201-100x70.jpg?x53432)
     
-    The Riddle of Antimatter
+    From Russia With Hate
     
-    Explore one of the deepest mysteries about the origin of our universe. According to standard theory, the early moments of the universe were marked by the explosive contact between subatomic particles](https://documentaryheaven.com/the-riddle-of-antimatter/ "The Riddle of Antimatter")
-* [![Zombies](/wp-content/thumbnails/12651-100x70.jpg?x53432)
+    An insight into the world of the Russian Neo Nazi gangs.](https://documentaryheaven.com/from-russia-with-hate/ "From Russia With Hate")
+* [![Diary of a Porn Virgin](/wp-content/thumbnails/3958-100x70.png?x53432)
     
-    Zombies
+    Diary of a Porn Virgin
     
-    The trouble with zombies is that they keep coming back, whether you shoot or maim them it doesn't really matter, unless you destroy the head they just keep coming. The living dead seem to saturate cin](https://documentaryheaven.com/zombies/ "Zombies")
-* [![Murder in the Sky Flight MH17](/wp-content/thumbnails/9660-100x70.jpg?x53432)
+    Pornography in Britain has entered the mainstream. As this documentary reveals, there is now no taboo when it comes to working in the porn industry in the UK.From a 38-year-old wife, mother and su](https://documentaryheaven.com/diary-of-a-porn-virgin/ "Diary of a Porn Virgin")
+* [![Remembering the 911 Demolitions](/wp-content/thumbnails/4176-100x70.jpg?x53432)
     
-    Murder in the Sky Flight MH17
+    Remembering the 911 Demolitions
     
-    A passenger plane explodes in the sky, smoking charred metal and bodies strewn across the countryside, soft toys, suitcases and passports litter the ground. This details the crash site of Ma](https://documentaryheaven.com/murder-sky-flight-mh17/ "Murder in the Sky Flight MH17")
-* [![Ice Hotel](/wp-content/thumbnails/890-100x70.jpg?x53432)
+    Meet The Truth 2 Year Anniversary Show. September 11 2001, A look at the day before, the insider trading, the physics of a concrete and steel structure collapse, and the Solomon Building, also known](https://documentaryheaven.com/remembering-the-911-demolitions/ "Remembering the 911 Demolitions")
+* [![CIA Secret Experiments](/wp-content/thumbnails/7065-100x70.jpg?x53432)
     
-    Ice Hotel
+    CIA Secret Experiments
     
-    The Ice Hotel of Sweden is the biggest hotel in the world that is built entirely by ice and snow. This hotel is the brainchild of two close friends who are specialized in Ice architecture, Arne Bergh](https://documentaryheaven.com/ice-hotel/ "Ice Hotel")
-* [![A History of Syria](/wp-content/thumbnails/7605-100x70.jpg?x53432)
+    It's the height of the Cold War and the United States government is desperate to combat the spread of Communism. The CIA launches a highly classified, top secret research program into the covert use o](https://documentaryheaven.com/cia-secret-experiments/ "CIA Secret Experiments")
+* [![Playing God](/wp-content/thumbnails/6390-100x70.jpg?x53432)
     
-    A History of Syria
+    Playing God
     
-    Robin Barnwell, who directed and produced 'A History of Syria with Dan Snow', explains the challenges of filiming amid the conflict, and describes the spirit of the Syrian people he met.The Syrian A](https://documentaryheaven.com/history-of-syria/ "A History of Syria")
+    Adam Rutherford meets a new creature created by American scientists, the spider-goat. It is part goat, part spider, and its milk can be used to create artificial spider’s web.It is part of a new f](https://documentaryheaven.com/playing-god/ "Playing God")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
