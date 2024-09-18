@@ -184,13 +184,13 @@ I'm currently in WA
 
 1. [HBF](https://www.hbf.com.au/)
 
-3. [About HBF](https://www.hbf.com.au/about-hbf "About HBF")
+3. [About HBFAbout HBF](https://www.hbf.com.au/about-hbf "About HBF")
     
 
-5. [Legal](https://www.hbf.com.au/about-hbf/legal "Legal")
+5. [LegalLegal](https://www.hbf.com.au/about-hbf/legal "Legal")
     
 
-7. Privacy
+7. PrivacyPrivacy
     
 
 Privacy
