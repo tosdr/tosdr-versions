@@ -15,7 +15,7 @@ Last updated September 13, 2024
 
 We are Slowly Communications Ltd. (‘Slowly’, ‘Company’, ‘we’, ‘us’, or ‘our’), a company registered in the United Kingdom at 3rd floor, 86-90 Paul St, London, England EC2A 4NE. 
 
-We operate the website [http://slowly.app](https://slowly.app/) (the ‘Site’), the mobile application Slowly (the ‘App’), as well as any other related products and services that refer or link to these legal terms (the ‘Legal Terms’) (collectively, the ‘Services’).
+We operate the website [https://slowly.app](https://slowly.app/) (the ‘Site’), the mobile application Slowly (the ‘App’), as well as any other related products and services that refer or link to these legal terms (the ‘Legal Terms’) (collectively, the ‘Services’).
 
 These Legal Terms constitute a legally binding agreement made between you, whether personally or on behalf of an entity (‘you’), and Slowly Communications Ltd., concerning your access to and use of the Services. You agree that by accessing the Services, you have read, understood, and agreed to be bound by all of these Legal Terms. IF YOU DO NOT AGREE WITH ALL OF THESE LEGAL TERMS, THEN YOU ARE EXPRESSLY PROHIBITED FROM USING THE SERVICES AND YOU MUST DISCONTINUE USE IMMEDIATELY.
 
@@ -43,8 +43,8 @@ If at any time you cease to meet these requirements, all authorisation to access
 * Comply with these Terms, and check this page from time to time to ensure you are aware of any changes;
 * Comply with all applicable laws, including without limitation, privacy laws, intellectual property laws, anti-spam laws, and regulatory requirements;
 * Use the latest version of the Website and/or App;
-* Review the Safety Tips;
-* Review and comply with the House Rules, as updated from time to time; and
+* Review the [Safety Tips](https://slowly.app/safety-tips/);
+* Review and comply with the [Community Guidelines](https://slowly.app/community-guidelines/), as updated from time to time; and
 * Take reasonable measures to protect the security of your login information.
 
 **You agree that you will not:**
@@ -88,7 +88,7 @@ You are solely responsible and liable for Your Content, and, therefore, you agre
 
 You represent and warrant to us that the information you provide to us or any other user is accurate, and that you will update your account information as necessary to ensure its accuracy.
 
-The content included on your individual profile should be relevant to the intended use of our Services. You may not upload any Prohibited Content, and your content must further comply with the House Rules. You may not display any personal contact, banking information, or peer-to-peer payment information, whether in relation to you or any other person (for example, names, home addresses or postcodes, telephone numbers, email addresses, social handles, URLs, credit/debit card, peer-to-peer payment user name, or other banking details). If you choose to reveal any personal information about yourself to other users, you do so at your own risk. We strongly encourage you to use caution in disclosing any personal information online.
+The content included on your individual profile should be relevant to the intended use of our Services. You may not upload any Prohibited Content, and your content must further comply with the [Community Guidelines](https://slowly.app/community-guidelines/). You may not display any personal contact, banking information, or peer-to-peer payment information, whether in relation to you or any other person (for example, names, home addresses or postcodes, telephone numbers, email addresses, social handles, URLs, credit/debit card, peer-to-peer payment user name, or other banking details). If you choose to reveal any personal information about yourself to other users, you do so at your own risk. We strongly encourage you to use caution in disclosing any personal information online.
 
 Your individual profile will be visible to other people around the world, so be sure that you are comfortable sharing Your Content before you post. You acknowledge and agree that Your Content may be viewed by other users, and, notwithstanding these Terms, other users may share Your Content with third parties. 
 
@@ -320,7 +320,7 @@ United Kingdom
 
  [![](https://slowly.app/wp-content/themes/slowly/assets/img/ios-app-store.png)](https://itunes.apple.com/app/slowly/id1199811908?ls=1&mt=8)[![](https://slowly.app/wp-content/themes/slowly/assets/img/google-play.png)](https://play.google.com/store/apps/details?id=com.slowlyapp)
 
-[Home](https://slowly.app/) [Slowly Story](https://slowly.app/story/featured/) [Blog](https://slowly.app/blog/) [Release Notes](https://slowly.app/release-notes/) [FAQ](https://help.slowly.app/hc/en-us/) [Safety Tips](https://slowly.app/safety-tips/) [Careers](https://slowly.app/careers/) [Contact Us](https://slowly.app/contact-us/)
+[Home](https://slowly.app/) [Slowly Story](https://slowly.app/story/featured/) [Blog](https://slowly.app/blog/) [Release Notes](https://slowly.app/release-notes/) [Guidelines](https://slowly.app/community-guidelines/) [Safety Tips](https://slowly.app/safety-tips/) [Careers](https://slowly.app/careers/) [Contact Us](https://slowly.app/contact-us/)
 
 © 2024 Slowly Communications Ltd.    
 
