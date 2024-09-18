@@ -276,15 +276,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-The Golden Snitch was invented to replace the Golden Snidget, a golden bird with fully rotational wings that became endangered after they were used as targets in numerous Quidditch matches.
+So many fans visit King’s Cross Station to take pictures of Platforms 9 and 10 that the station management erected a sign that says “Platform 9 3/4,” which, in the Harry Potter books, is invisible to Muggles but acts as a gateway for witches and wizards.
 
 ### Potter History
 
-October 25, 2004 – John Williams officially out; Patrick Doyle and Jarvis Cocker to write the Harry Potter and the Goblet of Fire film score.
+July 10, 2007 – MuggleNet releases video coverage of the Harry Potter and the Order of the Phoenix US premiere, featuring interviews with some of the cast.
 
 ### Potter Quote
 
-“I have never seen any reason to be frightened of saying Voldemort’s name.”
+“This little beauty’s taught us more than all the teachers in this school.”
 
 [](#)
 
