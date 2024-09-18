@@ -242,6 +242,16 @@ We have included on the pages of this website a robots meta tag with the “noai
 
 This privacy policy was created in party by using [Termly’s Privacy Policy Generator](https://termly.io/products/privacy-policy-generator/?ftseo).
 
+[![](https://cwbchicago.com/wp-content/uploads/2024/09/3100-W-Luis-Munoz-Marin-326x245.jpg)](https://cwbchicago.com/2024/09/gang-fight-leaves-1-dead-2-injured-inside-humboldt-park.html "Gang fight leaves 1 dead, 2 injured inside Humboldt Park")
+
+Humboldt Park
+
+### [Gang fight leaves 1 dead, 2 injured inside Humboldt Park](https://cwbchicago.com/2024/09/gang-fight-leaves-1-dead-2-injured-inside-humboldt-park.html "Gang fight leaves 1 dead, 2 injured inside Humboldt Park")
+
+[September 15, 2024 5:00 PM](https://cwbchicago.com/2024/09)
+
+A fight between gang members from Chicago and New York City ended with one man fatally shot and two others stabbed inside Humboldt Park on Sunday morning.[](https://cwbchicago.com/2024/09/gang-fight-leaves-1-dead-2-injured-inside-humboldt-park.html "Gang fight leaves 1 dead, 2 injured inside Humboldt Park")
+
 [![](https://cwbchicago.com/wp-content/uploads/2024/09/Davenchia-Lewis-326x245.jpg)](https://cwbchicago.com/2024/09/serial-lululemon-robber-charged-after-cops-recognize-his-white-sox-tattoo-on-surveillance-video.html "Serial Lululemon robber charged after cops recognize his White Sox tattoo on surveillance video")
 
 Lakeview
@@ -261,16 +271,6 @@ Lakeview
 [September 15, 2024 6:41 AM](https://cwbchicago.com/2024/09)
 
 A rideshare passenger suffered a graze wound to her forehead overnight in Lakeview.[](https://cwbchicago.com/2024/09/rideshare-passenger-and-man-shot-near-belmont-red-line-station.html "Rideshare passenger among 2 shot near Belmont Red Line station")
-
-[![](https://cwbchicago.com/wp-content/uploads/2024/09/UBER_LYFT_GUN-edited-326x245.jpg)](https://cwbchicago.com/2024/09/uber-lyft-drivers-have-been-robbed-8-times-on-the-same-chicago-street-police-say.html "Uber, Lyft drivers have been robbed 8 times on the same Chicago street, police say")
-
-South Shore
-
-### [Uber, Lyft drivers have been robbed 8 times on the same Chicago street, police say](https://cwbchicago.com/2024/09/uber-lyft-drivers-have-been-robbed-8-times-on-the-same-chicago-street-police-say.html "Uber, Lyft drivers have been robbed 8 times on the same Chicago street, police say")
-
-[September 14, 2024 7:32 PM](https://cwbchicago.com/2024/09)
-
-Police are out with a fresh warning that Lyft and Uber drivers will definitely want to keep in mind. It involves a series of robberies and thefts targeting rideshare drivers who accept calls for service on three blocks along the same South Shore street.[](https://cwbchicago.com/2024/09/uber-lyft-drivers-have-been-robbed-8-times-on-the-same-chicago-street-police-say.html "Uber, Lyft drivers have been robbed 8 times on the same Chicago street, police say")
 
 Search
 
