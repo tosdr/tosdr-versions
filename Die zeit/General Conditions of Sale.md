@@ -63,7 +63,7 @@ Karriere
 
 * [Jobs im ZEIT ONLINE Stellenmarkt](https://jobs.zeit.de/)
 * [BOA Berufstest](https://boa.zeit.de/)
-* [Academics](https://academics.de/)
+* [academics](https://academics.de/)
 * [academics.com](https://academics.com/)
 * [GoodJobs](https://goodjobs.eu/)
 * [e-fellows.net](https://e-fellows.net/)
