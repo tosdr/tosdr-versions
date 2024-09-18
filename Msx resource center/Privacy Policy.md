@@ -137,12 +137,12 @@ MSX Music player
 
 Latest reactions
 
+* [MSX Fair Nijmegen 2025](https://www.msx.org/news/en/march-8-2025-20th-msx-fair-nijmegen "MSX Fair Nijmegen 2025")
 * [I-Logic](https://www.msx.org/news/software/en/i-logic "I-Logic")
 * [MSX UK fun day](https://www.msx.org/news/en/msx-uk-fun-day "MSX UK fun day")
 * [Rambo MSX2 remake announced](https://www.msx.org/news/en/rambo-msx2-remake "Rambo MSX2 remake announced")
 * [HD Menu 3.2](https://www.msx.org/downloads/utilities/msx-dos-2/hd-menu-32 "HD Menu 3.2")
 * [HIC board project](https://www.msx.org/news/en/hic-board-project-has-been-released "HIC board project")
-* [MSX Fair Nijmegen 2025](https://www.msx.org/news/en/march-8-2025-20th-msx-fair-nijmegen "MSX Fair Nijmegen 2025")
 * [Singular Stone for MSX2 released](https://www.msx.org/news/software/en/singular-stone-for-msx2-released "Singular Stone for MSX2 released")
 * [SofaRun 8.0 has been released](https://www.msx.org/news/en/sofarun-80-has-been-released "SofaRun 8.0 has been released")
 * [Málaga MSX meeting 2024](https://www.msx.org/news/events/en/m%C3%A1laga-msx-meeting-2024 "Málaga MSX meeting 2024")
@@ -150,13 +150,13 @@ Latest reactions
 
 Latest forum posts
 
+* [WonderTANG! Who wants to juice up your MSX?](https://www.msx.org/forum/msx-talk/hardware/wondertang-who-wants-to-juice-up-your-msx?page=50 "WonderTANG! Who wants to juice up your MSX?")
+* [Cannot see symbols in the openMSX debugger](https://www.msx.org/forum/msx-talk/openmsx/cannot-see-symbols-in-the-openmsx-debugger "Cannot see symbols in the openMSX debugger")
 * [Carnivore2 : First impressions and bugs...](https://www.msx.org/forum/msx-talk/hardware/carnivore2-first-impressions-and-bugs?page=54 "Carnivore2 : First impressions and bugs...")
 * [Penguin Adventure Remake - pre Alpha](https://www.msx.org/forum/msx-talk/general-discussion/penguin-adventure-remake-pre-alpha?page=1 "Penguin Adventure Remake - pre Alpha")
-* [Cannot see symbols in the openMSX debugger](https://www.msx.org/forum/msx-talk/openmsx/cannot-see-symbols-in-the-openmsx-debugger "Cannot see symbols in the openMSX debugger")
 * [Emulator / debugger recommendations for development on PC](https://www.msx.org/forum/msx-talk/development/emulator-debugger-recommendations-for-development-on-pc "Emulator / debugger recommendations for development on PC")
 * [vFM (virtual Full Music) MSX universal audio Cartridge](https://www.msx.org/forum/msx-talk/hardware/vfm-virtual-full-music-msx-universal-audio-cartridge?page=5 "vFM (virtual Full Music) MSX universal audio Cartridge")
 * [V9990 incomplete initialization on ASM Ghost'n'Goblins ?](https://www.msx.org/forum/msx-talk/software/v9990-incomplete-initialization-on-asm-ghostngoblins?page=5 "V9990 incomplete initialization on ASM Ghost'n'Goblins ?")
-* [WonderTANG! Who wants to juice up your MSX?](https://www.msx.org/forum/msx-talk/hardware/wondertang-who-wants-to-juice-up-your-msx?page=50 "WonderTANG! Who wants to juice up your MSX?")
 * [Save MRC](https://www.msx.org/forum/msx-talk/msx-resource-center/save-mrc?page=3 "Save MRC ")
 * [Please help testing upcoming openMSX release!](https://www.msx.org/forum/msx-talk/openmsx/please-help-testing-upcoming-openmsx-release?page=117 "Please help testing upcoming openMSX release!")
 * [Cannot write .dsk files to real floppy on MSX](https://www.msx.org/forum/msx-talk/hardware/cannot-write-dsk-files-to-real-floppy-on-msx?page=2 "Cannot write .dsk files to real floppy on MSX")
