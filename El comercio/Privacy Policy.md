@@ -31,986 +31,999 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
-Cortes de luz en Ecuador dejan de ser de ocho horas
-===================================================
+Jorge Guzmán clasificó a la final de la Liga Básquet Pro
+========================================================
 
-Los cortes de luz fueron anunciados por la Presidencia de la República del Ecuador.
------------------------------------------------------------------------------------
+Jorge Guzmán no tuvo problemas para derrotar a Barcelona Sporting Club y pasar a las finales de la Liga Básquet Pro.
+--------------------------------------------------------------------------------------------------------------------
 
-![Los cortes de luz se realizarán este 18 de septiembre.](https://www.elcomercio.com/wp-content/uploads/2024/09/Cortes-de-luz.jpg)
+![Jugadores de Jorge Guzmán en un partido de la Liga Básquet Pro 2024.](https://www.elcomercio.com/wp-content/uploads/2024/09/jorge_guzman_victoria_1.jpg)
 
-Los cortes de luz en **Ecuador** están programados para iniciar el miércoles 18 de septiembre de 2024. Inicialmente, se anunció que los apagones durarían ocho horas. Sin embargo, a pocas horas del inicio del racionamiento, esta situación ha cambiado.
+**Jorge Guzmán de Loja** se convirtió en el primer quinteto finalista de la Liga Básquet Pro 2024 y jugará su segunda final en las tres ediciones que se lleva desarrollando la competencia. 
 
-Más noticias
-------------
+La noche del martes 17 de septiembre, **Jorge Guzmán fue hasta el Coliseo Abel Jiménez Parra** de Guayaquil con una ventaja de 2-0 en la serie que lo puso frente a Barcelona Sporting Club. 
 
-* [Cortes de luz afectarán las redes de telefonía móvil e Internet de esta manera](https://www.elcomercio.com/actualidad/negocios/cortes-de-luz-afectara-redes-telefonia-movil-internet-ecuador.html "Cortes de luz afectarán las redes de telefonía móvil e Internet de esta manera")
-* [Estos son los servicios públicos que atenderán con normalidad, pese al teletrabajo y cortes de luz](https://www.elcomercio.com/actualidad/ecuador/servicios-publicos-atenderan-normalidad-garantizados-pese-teletrabajo-cortes-luz.html "Estos son los servicios públicos que atenderán con normalidad, pese al teletrabajo y cortes de luz")
-* [Metro de Quito ajustará su horario ante los cortes de luz este miércoles 18 de septiembre](https://www.elcomercio.com/actualidad/quito/metro-de-quito-ajusta-horario-cortes-de-luz-miercoles-18-septiembre.html "Metro de Quito ajustará su horario ante los cortes de luz este miércoles 18 de septiembre")
+### Más deportes:
 
-El ministro de Energía y Minas, **Antonio Gonçalves**, habló con Teleamazonas sobre la forma en que se llevarán a cabo estas interrupciones.
+* [Real Madrid ganó en su debut en Champions y Kylian Mbappé anotó](https://www.elcomercio.com/deportes/futbol/real-madrid-gano-debut-champions-league-kylian-mbappe-gol.html "Real Madrid ganó en su debut en Champions y Kylian Mbappé anotó")
+* [Liverpool supera al AC Milan en un partidazo de Champions](https://www.elcomercio.com/deportes/liverpoo-milan-partido-uefa-champions-league.html "Liverpool supera al AC Milan en un partidazo de Champions")
+* [Bayern Múnich marca récord en Champions con supergoleada](https://www.elcomercio.com/deportes/futbol/bayern-munich-record-champions-dinamo-zagreb.html "Bayern Múnich marca récord en Champions con supergoleada")
 
-Declaraciones del ministro de Energía y Minas sobre los cortes de luz
----------------------------------------------------------------------
+Esa ventaja la construyó en el Coliseo Ciudad de Loja. En el primer juego **ganó 91-75 y en el segundo 95-82** con los que viajó a Guayaquil con la tranquilidad de saber que necesitaba ganar un nuevo partido para sellar su pase a la final. 
 
-El **Ministro** aclaró que los cortes no durarán **ocho horas**, como se venía hablando. Las empresas eléctricas serán responsables de informar los **horarios** exactos de **suspensión** del **servicio**.
+El único resultado que le servía a **Barcelona SC era el triunfo para recortar esa diferencia**, pero no pudieron mantener la ventaja que fueron construyendo a lo largo del partido y lo terminaron perdiendo en el cierre. 
 
-Según **Gonçalves**, los cortes durarán entre tres y cuatro horas, y se realizarán entre las 22:00 y las 06:00.
+El primer cuarto fue muy disputado y lo ganaron los guayaquileños por 24-23; el segundo fue 14-11, también para el local; el tercero 22-22 y el cuarto 14-18 para los visitantes con lo que se cerró un emocionante 74-74. 
 
-Inicio del bombardeo de nubes
------------------------------
+Esto ameritó alargar el compromiso al tiempo extra. **Jorge Guzmán fue más contundente que BSC** y ganó 6-12 para cerrar el final 80-86. 
 
-Durante la misma entrevista, el **Ministro** confirmó que el bombardeo de nubes para mitigar los efectos de la **sequía** en la generación **hidroeléctrica** ya ha comenzado, y se espera que los resultados se vean en aproximadamente una semana.
+Los lojanos celebraron su **clasificación con abrazos y felicitaciones entre jugadores**, cuerpo técnico, staff de colaboradores y los fanáticos que llegaron hasta el Abel Jiménez Parra para alentar a su equipo. 
 
-Daniel Noboa dispone corte de luz nacional por mantenimientos
--------------------------------------------------------------
+El rival de Jorge Guzmán en la final saldrá de la llave entre Zamora Jaguars y Liga de Quito.
 
-La **Presidencia** de la **República** emitió un comunicado oficial en sus redes sociales este domingo 15 de septiembre. En anuncio es en torno al tema de la **crisis energética** que atraviesa el país.
+La serie está empatada 1-1 y se definirá en el Coliseo Mayor de Deportes de Zamora desde la noche de este miércoles 18. 
 
-El documento señala que el presidente de la República, **Daniel Noboa**, toma decisiones preventivas para afrontar la **crisis** y mantener la soberanía energética a mediano plazo.
+Las **finales se jugarán al mejor de siete en fechas** que se tienen que definir en los próximos días por parte de los organizadores. 
 
-Es por ello que, bajo criterios técnicos, ha decidido efectuar un **mantenimiento preventivo** en todas las instalaciones del Sistema Nacional de Transmisión y redes de distribución de energía eléctrica.
+> [Ver esta publicación en Instagram](https://www.instagram.com/reel/DAEQ2kLOjB9/?utm_source=ig_embed&utm_campaign=loading)
+> 
+> [Una publicación compartida por Basquet Pass Ecuador (@basquetpass.ecu)](https://www.instagram.com/reel/DAEQ2kLOjB9/?utm_source=ig_embed&utm_campaign=loading)
 
-¿Cuándo será el corte de luz?
------------------------------
+Jorge Guzmán es el gran favorito
+--------------------------------
 
-Para este proceso, se suspenderá el servicio de luz a escala nacional desde las 22:00 del miércoles 18 de septiembre hasta las 06:00 del jueves 19 de septiembre.
+En la previa de esta llave los lojanos partieron con la chapa de favoritos por haber terminado en el segundo lugar en la tabla de posiciones de la temporada regular, solo superados por Leones de Riobamba. 
 
-El comunicado aclara que este horario se escogió con un sentido de responsabilidad, con la finalidad de evitar una afección en el desarrollo de la vida cotidiana de los ecuatorianos.
+Los riobambeños, campeones en 2023, **fueron eliminados en cuartos de final por Zamora Jaguars**, por lo que automáticamente Jorge Guzmán heredó el testigo de favorito y jornada a jornada lo ratifica.  
 
-El **horario** también busca afectar en la menos medida posible la **productividad** del **Ecuador**.
+En los cuartos de final no encontraron rival en **Spartans de Quito y los derrotaron por 3-0**. Nuevamente de visitantes aseguraron la serie y la clasificación. 
 
-La Champions Legue recibe a tres ecuatorianos
-=============================================
+En la temporada regular ganaron 16 de los 22 encuentros disputados y siempre estuvieron en la parte alta de la tabla de posiciones. 
 
-La segunda tanda de seis partidos de la Champions League tiene a tres ecuatorianos con opciones de debutar.
------------------------------------------------------------------------------------------------------------
+Otro aspecto que destaca en los lojanos es que en el 2022 ya fueron campeones de la Liga Básquet Pro al vencer en la **final por 4-2 a Barcelona Sporting Club**. 
 
-![Willian Pacho en sus primeros partidos con el PSG en el 2024.](https://www.elcomercio.com/wp-content/uploads/2024/09/champions_ecuatorianos_1.jpg)
+En el 2023 llegaron a los **cuartos de final y perdieron sorpresivamente contra Leones**, los futuros campeones, que presentaron mejores credenciales para dejar fuera de combate a los campeones. 
 
-La primera fecha de la renovada **Champions League** tendrá un sabor especial para la historia del fútbol ecuatoriano. Tres de sus representantes debutarán en el torneo más importante de clubes del mundo.
+![Foto: Instagram jimmycalvaj.](https://www.elcomercio.com/wp-content/uploads/2024/09/jorge_guzman_victoria_2-1024x683.jpg)
 
-El miércoles 18 de septiembre de 2024, la Champions League pone en parrilla seis nuevos partidos, con los ecuatorianos **Angelo Preciado, Willian Pacho y Joel Ordóñez**, tres de sus seleccionados frecuentes, con opciones de sumar minutos.
-
-### Más noticias:
-
-* [Juan Usma debutó y se lo dedicó a su fallecida madre](https://www.elcomercio.com/deportes/futbol/juan-usma-debut-barcelona-ligapro.html "Juan Usma debutó y se lo dedicó a su fallecida madre")
-* [Deportivo Quito ya tiene rival en el Ascenso Nacional](https://www.elcomercio.com/deportes/futbol/deportivo-quito-ya-tiene-rival-en-el-ascenso-nacional.html "Deportivo Quito ya tiene rival en el Ascenso Nacional")
-* [Deportivo Quito tiene DT para buscar el ascenso a la Serie B](https://www.elcomercio.com/deportes/nuevo-dt-carlos-castro-deportivo-quito.html "Deportivo Quito tiene DT para buscar el ascenso a la Serie B")
-
-Los tres ecuatorianos harán su debut en la Champions League, más no en torneos organizados por la UEFA. Ya sumaron **minutos en la Europa League y la Conference League**.
-
-Pero también será el turno para ver en acción al **Manchester City**, uno de los favoritos para ganar el torneo, que recibe al Inter de Italia, reviviendo la final del curso 2022/23 en la que los ingleses se llevaron la corona.
-
-Angelo Preciado y el Sparta Praga
----------------------------------
-
-Angelo Preciado tiene la opción de sumar sus primeros minutos en la **fase de grupos de la Champions League** con el Sparta de Praga. Su rival será el RB Salzburgo de Austria.
-
-Su experiencia europea se reduce a la Europa League que disputó con el Genk en la 2021/22 con cinco presencias.
-
-No superaron la frase de grupos y quedaron eliminados ante el Dinamo Zagreb de Croacia, West Ham United de Inglaterra y el Rapid Viene de Austria.
-
-![Foto: Facebook Sparta Praga.](https://www.elcomercio.com/wp-content/uploads/2024/09/champions_ecuatorianos_2-1024x683.jpg)
-
-Foto: Facebook Sparta Praga.
-
-Willian Pacho se estrena con el PSG
------------------------------------
-
-Willian Pacho tiene una carrera en la que fue quemando etapas desde que empezó en Independiente del Valle, **luego en el Royal Antwerp de Bélgica y en el Eintracht Frankfurt de Alemania**, antes de llegar al poderoso PSG de Francia.
-
-Con los alemanes jugó en la Conference League y la fase previa de la Champions; y con los belgas la misma instancia, pero sin llegar a la fase de grupos.
-
-El PSG es uno de los **favoritos para clasificar directamente entre los ocho primeros** para los octavos de final y tiene como primer rival al sorprendente Girona.
-
-En el camino tendrá que confirmar si está para pelear contra los pesos pesados por el título europeo.
-
-Joel Ordóñez el más experimentado
----------------------------------
-
-Joel Ordóñez es el más joven de la **trilogía de ecuatorianos que debutarán en la Champions**, pero es el que más lejos llegó en un torneo europeo con las semifinales de la Conference.
-
-Con el Brujas de Bélgica en la 2023/24 perdieron ante la Fiorentina de Italia y quedaron a un paso de la gran final.
-
-El defensa central de 20 años **sumó minutos nueve de los 12 encuentros**. Fue titular en cinco de ellos.
-
-En la Champions tiene la opción de debutar contra el Borussia Dortmund, el actual subcampeón.
-
-![Foto: Facebook Club Brujas.](https://www.elcomercio.com/wp-content/uploads/2024/09/champions_ecuatorianos_3-1024x683.jpg)
-
-Foto: Facebook Club Brujas.
-
-Primer fecha
-------------
-
-### 11:45 Bolonia vs. Shakhtar
-
-Estadio Renato Dall’Ara
-
-### 11:45 Sparta Praga vs. RB Salzburgo
-
-Epet ARENA
-
-### 14:00 PSG vs. Girona
-
-Parque de los Príncipes
-
-### 14:00 Club Brujas vs. Dortmund
-
-Estadio Jan Breydel
-
-### 14:00 Celtic vs. Slavia Bratislava
-
-Celtic Park
-
-### 14:00 Manchester City vs. Inter
-
-Etihad Stadium
+Foto: Instagram jimmycalvaj.
 
 No te pierdas – El Confesionario
 --------------------------------
 
-Así funciona el Pico y placa en Quito este miércoles 18 de septiembre
-=====================================================================
+Prefectura de Pichincha implementará una estrategia para cobrar peajes
+======================================================================
 
-La medida del Pico y placa rige dentro de Quito en un horario establecido.
---------------------------------------------------------------------------
+La Prefectura de Pichincha dice que esta medida es para facilitar el proceso de pago de los usuarios.
+-----------------------------------------------------------------------------------------------------
 
-![La Agencia Metropolitana de Tránsito realiza los controles del Pico y placa.](https://www.elcomercio.com/wp-content/uploads/2024/09/Pico-y-placa-en-Quito-1.jpg)
+![Los usuarios de las autopistas de Pichincha deben pagar un peaje.](https://www.elcomercio.com/wp-content/uploads/2024/09/Pichincha-peajes.jpg)
 
-El **Municipio** de **Quito** implementó la medida de **Pico** y **placa** en **la capital** para controlar el flujo vehicular dentro de la ciudad.
+La **Prefectura de** **Pichincha** aplicará una nueva estrategia para cobrar el **peaje** a los conductores de los vehículos que transitan por las **autopistas provinciales**.
 
 Más noticias
 ------------
 
-* [Concejo de Quito debate las sanciones por Pico y placa](https://www.elcomercio.com/actualidad/quito/sanciones-pico-placa-concejo-metropolitano-municipio-quito.html "Concejo de Quito debate las sanciones por Pico y placa")
 * [Controles de exceso de velocidad se harán con este cronograma](https://www.elcomercio.com/actualidad/quito/controles-de-exceso-de-velocidad-cronograma.html "Controles de exceso de velocidad se harán con este cronograma")
-* [Gerente del Metro de Quito denunció reciente acto de vandalismo ante Fiscalía](https://www.elcomercio.com/actualidad/quito/gerente-metro-quito-denuncia-vandalismo.html "Gerente del Metro de Quito denunció reciente acto de vandalismo ante Fiscalía")
+* [¿Cuál es la multa por conducir sin cinturón de seguridad?](https://www.elcomercio.com/actualidad/quito/cual-multa-conducir-sin-cinturon-seguridad.html "¿Cuál es la multa por conducir sin cinturón de seguridad?")
+* [Quito tendrá un visualizador de siniestros de tránsito](https://www.elcomercio.com/actualidad/quito/siniestros-transito-visualizador-amt-plataforma.html "Quito tendrá un visualizador de siniestros de tránsito")
 
-La medida del Pico y placa incluye a todos los vehículos y motos del Distrito Metropolitano, a excepción de los conducidos por personas de la tercera edad o con discapacidad.
+Esta medida entrará en vigencia a partir del 1 de octubre de 2024, según detalló la **Prefectura** en un comunicado oficial.
 
-¿Cómo se aplica el Pico y placa?
---------------------------------
+¿Cuál es la estrategia de la Prefectura de Pichincha para cobrar los peajes?
+----------------------------------------------------------------------------
 
-La restricción vehicular Pico y placa en Quito se aplica cinco días a la semana, de lunes a viernes, de 06:00 a 09:30 y de 16:00 a 20:00.
+A partir de esa fecha, comenzará a aplicarse una ordenanza aprobada por el **Concejo Provincial,** el 5 de abril de 2024.
 
-Este miércoles, no pueden circular los autos con placas terminadas en dígitos 5 y 6.
+Dicha ordenanza establece que los usuarios de la autopista **General Rumiñahui** y el corredor **Intervalles** deben estar al día en el pago de los **peajes** para cancelar los valores correspondientes al **Fondo** de **Mejoramiento** y **Mantenimiento** **Vial**. Este último rubro es indispensable para que los conductores puedan realizar la revisión vehicular anual.
 
-Contraflujos y Pico y placa en Quito
-------------------------------------
+El objetivo de esta medida, según la **Prefectura** de **Pichincha**, es garantizar el adecuado **mantenimiento** de las **vías provinciales** y facilitar el proceso de pago.
 
-Como medida adicional al **Pico** y **placa**, para que el tránsito tenga mayor fluidez en horas pico, la Agencia Metropolitana de Tránsito (**AMT**) también aplica cuatro **contraflujos** en **Quito**, estos son:
-
-–**Avenida Mariscal Sucre**: desde el cementerio de **San Diego** hasta la avenida Universitaria.
-
-**Mañana**: 06:30 a 07:00 y de 07:30 a 08:00
-
-**Tarde**: 16:30 a 17:00 y 17:30 a 18:00
-
-–**Autopista** **General Rumiñahui**: desde la av. **Pichincha**, en El **Trébol**, hasta el sector de **Cuscungo**, en la autopista.
-
-**Mañana**: 06:30 a 07:30 y de 08:00 a 08:30
-
-**Tarde**: 16:30 a 19:30
-
-–**Avenida Velasco Ibarra** (Oriental): en la mañana desde la avenida **Napo** hasta la av. **Velasco Ibarra** (La Tola). En la tarde, desde el coliseo Rumiñahui hasta La Tola.
-
-**Mañana**: 06:00 a 08:30
-
-**Tarde**: 17:00 a 19:00
-
-– **Túnel Guayasamín**: desde la av. **Guayasamín** y av. **Simón Bolívar** hasta la av. 6 de **Diciembre** y av. **Oswaldo Guayasamín** y viceversa en la tarde.
-
-**Mañana**: 07:00 a 08:30
-
-**Tarde**: de 16:00 a 19:30
-
-Mantente atento a estos contraflujos y a los horarios de **Pico** y **placa** en Quito y evita sanciones.
-
-La reforma constitucional, un debate necesario
-==============================================
-
-El Presidente sometió al control de materia a su propuesta de reforma de la Carta Magna ante la Corte Constitucional
---------------------------------------------------------------------------------------------------------------------
-
-![La Corte Constitucional recibió el proyecto del Ejecutivo para reformar el artículo 5 de la Constitución.](https://www.elcomercio.com/wp-content/uploads/2024/09/Untitled-design-18.jpg)
-
-El reciente anuncio del presidente Daniel Noboa de impulsar una **reforma constitucional** para modificar el artículo 5 de la **Constitución** ha impulsado un **debate necesario en Ecuador**. El artículo prohíbe la instalación de bases militares extranjeras en territorio ecuatoriano y permitió el cierre de la base estadounidense en Manta. No obstante, la realidad del país ha cambiado, y la propuesta del Ejecutivo apunta precisamente a responder a esas **nuevas amenazas**[.](https://es.wikipedia.org/wiki/Reforma_constitucional "https://es.wikipedia.org/wiki/Reforma_constitucional")
-
-Desde que en 2009 se puso fin a la presencia militar estadounidense en **Manta**, el contexto regional e internacional ha evidenciado que la simple **ausencia de bases extranjeras** no garantiza una mayor autonomía ni seguridad. El Ejecutivo ha sido claro en este punto: la retirada de las tropas estadounidenses no trajo la soberanía esperada. Por el contrario, afirma que Ecuador se ha vuelto más **vulnerable** ante amenazas transnacionales como el narcotráfico y el crimen organizado.
-
-> La propuesta de reforma impulsada por el Gobierno no puede ser vista como una simple cuestión de presencia militar extranjera. Se trata de un tema mucho más amplio que involucra la seguridad de los ciudadanos y la capacidad del país para hacer frente a las amenazas del crimen organizado.
-
-El presidente utiliza un lenguaje contundente al señalar que la salida de las fuerzas estadounidenses de Manta fue, en sus [palabras](https://www.elcomercio.com/actualidad/politica/daniel-noboa-pide-control-constitucional-tema-bases-extranjeras-cc.html), “el primer pacto con el crimen transnacional”. Esta afirmación, aunque polémica, resalta una **realidad innegable**: el aumento de la criminalidad y el narcotráfico en el país ha puesto en jaque la seguridad ciudadana. En este sentido, plantea que el **debate** sobre la soberanía no debe centrarse únicamente en la presencia de bases extranjeras, sino en la capacidad del país para enfrentar **amenazas** que no respetan fronteras.
-
-En este escenario, la **cooperación** **internacional** en materia de seguridad no solo es deseable, sino necesaria. La pregunta es si esa cooperación debe incluir la presencia física de fuerzas extranjeras en suelo ecuatoriano. Para el Ejecutivo, la respuesta es afirmativa, siempre y cuando se establezcan los controles y acuerdos necesarios para proteger la soberanía nacional.
-
-El proyecto de reforma presentado ante la **Corte Constitucional** para su control constitucional es un primer paso en lo que seguramente será un largo y complejo proceso. Sin embargo, el verdadero debate se desarrollará en la arena política y social, donde se deberán sopesar los riesgos y beneficios de la medida.
-
-La propuesta de reforma impulsada por el Gobierno no puede ser vista como una simple cuestión de presencia militar extranjera. Se trata de un **tema mucho más amplio** que involucra la seguridad de los ciudadanos y la capacidad del país para hacer frente a las amenazas del crimen organizado.
-
-Los responsables
-================
-
-No existe ley que establezca la responsabilidad personal y pecuniaria de los causantes del actual estado de descomposición de la República.
--------------------------------------------------------------------------------------------------------------------------------------------
-
-![Francisco Rosales Ramos, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Francisco-Rosales-Ramos.jpg)
-
-El país debe tener presentes los nombres de los **asambleístas** que redactaron la **constitución** de **Montecristi**, principal causante del **caos institucional** que vive la nación. Una **carta política**, extensa, farragosa, inconsistente, contradictoria, mentirosa, fraudulenta -pues incluye normas que jamás se discutieron ni aprobaron-y extranjerizante, ya que fue inspirada por dos profesores españoles que recolonizaron a algunos **países** de **América Latina** embobados con el azote llamado **Socialismo** del **Siglo XXI.**
-
-Tiene 440 artículos, 31 disposiciones transitorias y 35 artículos adicionales del **régimen transitorio** que, en total, ocupan 173 páginas del **Registro Oficial.** Este mamotreto ha descoyuntado a la **nación** con normas tan torpes como crear 5 poderes o funciones en lugar de las tres –**Legislativo**, **Ejecutivo** y **Judicial**– que vienen desde **Montesquieu** y son propios de las **democracias** estructuradas. Creó ese engendro maligno que es el **Consejo de Participación Ciudadana y Control Social,** cuyo dominio los **políticos** se pelean a dentelladas para tener cooptadas las **autoridades** de **control**. La **reelección** indefinida del **jefe de Estado**, que se convierte en **dictadura** disfrazada. O el **trasplante** incompleto y tonto de una **institución** propia de los **sistemas parlamentarios** que permite disolver el **órgano legislativo** y llamar a elecciones generales para apenas completar el período interrumpido. U otras tan intrascendentes como denominar **Corte Nacional,** a la tradicional **Corte Suprema**, **Consejo Nacional Electoral,** al **Tribunal Supremo Electoral**, **Asamblea** al **Congreso**, etcétera.
-
-El espacio de este comentario sería insuficiente para apenas enumerar los **defectos** de la **Constitución** de 2008 que, según sus autores, debía durar 300 años, pero que pronto ellos mismos impulsaron sus **reformas**.
-
-Con mala fe se dice que fue el **pueblo**, con una **votación** de más del 63% de los **sufragios** quien la aprobó, pero se oculta que menos del 1% de los votantes siquiera la leyó, menos la estudió y la comprendió. La enorme mayoría acudió a las **urnas** embobadas por los encantadores de serpientes que proclamaban la excelsitud del documento de **Montecristi**, que sería la piedra angular del nuevo **Ecuador**.
-
-No existe **ley** que establezca la **responsabilidad personal** y pecuniaria de los causantes del actual **estado** de descomposición de la **República**, pero al menos es mandatorio no olvidar sus nombres para escarnio público en esta hora de **trastorno nacional**.
-
-Cartas a Quito / 18 de septiembre de 2024
-=========================================
-
-Estas son las cartas a Quito de este miércoles 18 de septiembre de 2024
------------------------------------------------------------------------
-
-![Cartas a Quito. Foto: Archivo / EL COMERCIO](https://www.elcomercio.com/wp-content/uploads/2024/04/CARTAS-A-QUITO-1.jpg)
-
-Mago prodigioso que lo desaparece todo
---------------------------------------
-
-Se llama John Christopher Pólit Estévez, hijo de Carlos Pólit Faggioni, ex contralor del Ecuador fugado en EE. UU. Cuando José Conceicao Santos, pagador de los sobornos de Odebrecht, le preguntó a Carlos Pólit, cómo hace para ocultar tanto efectivo, el pícaro contestó: “Mi hijo John trabaja en Bancos y está en contacto con personas expertas en desaparecer dinero”. Cuando se iba a dictar la sentencia a Carlos Pólit el 9 de septiembre, la fiscalía de Estados Unidos le pidió a la jueza que la difiera para el 27 de septiembre, puesto que John Pólit hijo está acusado de los mismos delitos de su padre, conspiración para lavado de activos y podría en ese lapso deshacerse de los bienes mal adquiridos. Los Pólit lavaron dinero registrando compañías en Florida a nombre de sus socios sin que estos conocieran los delitos. Entre 2010 y 2014 recibieron en sobornos 8 millones de dólares y cuando la policía detuvo a John, el mago sacó del bolsillo 14 millones y pagó para defenderse desde su casa, mientras, por otro lado, la justicia ordenó la devolución de los otros 14 millones que dio Pólit padre cuando se inició su juicio. Las millonadas exhibidas por los Pólit nos pertenecen a todos los ecuatorianos y fueron recolectadas en los casi 15 años que Carlos fungió de Contralor General del Estado con notas de 100 sobre 100 conferidas por Correa.
-
-Los acusadores han pedido una sentencia de 19 años y 7 meses de cárcel para Carlos Pólit, mientras la defensa ha solicitado clemencia de 7 años por estar viejo y ser ‘buena gente’. La bondad de Carlos Pólit quedó demostrada a cabalidad, cuando en abril de 2017 enjuició por calumnia a la Comisión Nacional Anticorrupción que le acusó de irregularidades en la compra de los terrenos para la construcción de la Refinería del Pacífico que jamás se construyó, pero en la cual se gastaron 1500 millones solo en nivelar el terreno. La jueza Karen Matamoros condenó a Simón Espinosa, Julio Cesar Trujillo, Jorge Rodríguez, Fernando Vega, Isabel Robalino, María de Lourdes Arboleda, Byron Celi, Germán Rodas y Ramiro Román, a 1 año de prisión, abuso consentido por otro correista, el honrado fiscal Galo Chiriboga. Al final, Pólit retiró la acusación y ‘perdonó’ a los infractores. En los últimos días, los medios han informado de la promesa que le hizo el doctor Felipe Rodríguez Moreno, hijo de Jorge Rodríguez -uno de los condenados- a Carlos Pólit: “Estaré presente y te miraré a los ojos cuando seas condenado en los EE. UU.”. Sabemos que allí está. Los delincuentes Pólit son los vívidos exponentes de la podredumbre que azota al Ecuador. Carlos, que fue nombrado Contralor para cuidar los dineros del pueblo y recibió elogios y diplomas de reconocimiento por su honradez, que felizmente le están siendo retirados, se robó los dineros del pueblo y huyó cobardemente a gozar de sus beneficios, amparado, cuando no, de la impunidad otorgada por 20 años a todos los correistas malhechores. John, su hijo, ayudo eficazmente a su padre a dilapidar la plata mal habida, para lo cual no tuvo inconveniente en convertirse en el mago que hacía desaparecer todo el efectivo -no aceptaba cheques- que rondaba sus sueños. Dice el proverbio: “De tal palo, tal astilla”. A John, el joven y adinerado mago, le cae como anillo al dedo la sentencia que se hará efectiva en las próximas semanas y que coincidirá con los encendidos discursos de los candidatos a la presidencia, testaferros de Correa, ponderando la honradez, tijereteando la impunidad y enseñando las manos limpias, las mentes lúcidas y los corazones ardientes, a los contados parias que van quedando para vergüenza de la Patria.
-
-Carlos Mosquera Benalcázar
-
-Recordando a Burke
-==================
-
-La prohibición del mandato imperativo es inherente a la democracia de representación.
--------------------------------------------------------------------------------------
-
-![Ramiro Rivera Molina, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Ramiro-Rivera-Molina.jpg)
-
-En el tránsito entre el **_Antiguo Régimen_** y la **democracia**, se prohibió el denominado «**mandato imperativo**». Tiempo de la **Revolución francesa** que trae la idea de la nación, y de la **soberanía popular**. El Irlandés **Edmund Burke**, escribió un año después del acontecimiento mencionado, un libro que agitó un intenso debate: _«**Reflexiones sobre la Revolución Francesa»**._ Pero no les sugiero ni espero que lo lean, sus ojos fijos en los dispositivos electrónicos no lo permitirán. A quienes estudian y se dedican a la **política**, si les queda tiempo para pensar, les insinúo leer algo más digerible y corto: su «_Discurso a los electores de Bristol de 1774_», dirigido a quienes lo habían elegido miembro de la **Cámara de los Comunes**.
-
-En su alocución a sus **electores** les señala la importancia de la **opinión** de los **votantes** y que el elegido debe considerarlo. Pero les advierte, en su cara, que no cabían «_**instrucciones imperativas**_». En pocas palabras, que no debía acatar lo que debía decir y cómo votar. Las ideas de la **democracia** **moderna**, naciente, ya abrazaban la **filosofía** del **mandato libre** y la importancia del **juicio** y la conciencia del elegido. Por cierto, pensando en el bien general y no en el interés de los **votantes** del distrito. El **parlamentario**, se supone, representaba al concepto de **nación** y al bien general. No a sus clientes.
-
-**Burke** dirá que el **Parlamento** no es la sede **embajadores** de tal o cual interés, obligado a defender y cuidar como un agente o abogado. Que en la asamblea se debe tomar en cuenta el **interés común**, los intereses del conjunto de la **sociedad.** No una **agenda local**, el pedido del barrio y menos someterse, como ahora, a las pasiones y alucinaciones de quien lo colocó en la lista. Por algo sería que en la **Constitución** **francesa** de 1791 decía que los representantes, aún elegidos por los departamentos, lo serán del conjunto de la nación. Y no se les puede imponer mandato alguno. La **soberanía** radicaba en la **nación**. La **prohibición** del **mandato** **imperativo** es inherente a la **democracia** de representación. Para Sartori, no es _«un chico de recados»._
-
-**Burke** lo dijo de una linda manera: «_Cuando los **líderes** optan por convertirse en postores de la subasta de **popularidad**, su talento no será de utilidad para la construcción del Estado: se convertirán en aduladores, en lugar de legisladores…»_. Serán, como ciertos **asambleístas** de ahora, motivados por la simpleza, fatuos en el alarido, mansos hacia el pastor y caudillo. Dóciles en el establo de la obediencia. 
-
-Mateo, hijo de Karime Borja, falleció dejando una inspiradora historia
-======================================================================
-
-La exreina de Guayaquil inspiró a otros padres con su lucha tras el accidente que sufrió su pequeño.
-----------------------------------------------------------------------------------------------------
-
-![Karime y Mateo durante un viaje a la playa](https://www.elcomercio.com/wp-content/uploads/2024/09/karime.jpg)
-
-**Mateo**, hijo de la reconocida exreina de Guayaquil, **Karime Borja**, falleció este martes 17 de septiembre de 2024.
-
-La historia de **superación** de ambos conmovió a Ecuador en los últimos años.
-
-### Más noticias
-
-* [Juan Usma debutó y se lo dedicó a su fallecida madre](https://www.elcomercio.com/deportes/futbol/juan-usma-debut-barcelona-ligapro.html "Juan Usma debutó y se lo dedicó a su fallecida madre")
-* [Mariah Carey, ‘rota’ tras perder a su madre y hermana el mismo día](https://www.elcomercio.com/tendencias/entretenimiento/mariah-carey-rota-tras-perder-a-su-madre-y-a-su-hermana-el-mismo-dia.html "Mariah Carey, ‘rota’ tras perder a su madre y hermana el mismo día")
-* [Daniel Pintado cumplió una conmovedora promesa con su madre tras Juegos Olímpicos](https://www.elcomercio.com/deportes/daniel-pintado-promesa-mama-juegos-olimpicos.html "Daniel Pintado cumplió una conmovedora promesa con su madre tras Juegos Olímpicos")
-
-Karime ganó el concurso a reina de la ciudad en 2018. Luego de unos meses quedó embarazada.
-
-Cuando quiso dejar la corona en manos de la virreina, como lo exigía el certamen de belleza, recibió el **apoyo** de la ciudadanía y de las autoridades.
-
-La entonces alcaldesa Cynthia Viteri solicitó que, como un caso excepcional, continúe su reinado hasta el final del periodo.
-
-En ese año de trabajos, su cercanía con las **causas sociales** hicieron que se ganara el aprecio de la gente.
-
-Trágico accidente cambió la vida de Mateo y Karime
---------------------------------------------------
-
-Luego de dos años de dar a luz, su vida tuvo un giro inesperado en su nueva faceta de madre.
-
-El 21 de noviembre de 2021, la familia se encontraba en una **piscina**.
-
-El pequeño Mateo cayó al agua y estuvo **a punto de ahogarse**, tras permanecer varios minutos en el estanque.
-
-El niño fue rescatado, pero los **15 minutos** que se mantuvo sin signos vitales le complicaron su estado de salud.
-
-Los paramédicos lograron revivirlo y lo trasladaron hacia un hospital.
-
-Desde ese día, Mateo no pudo recuperarse y tuvo que ser inducido en **coma**.
-
-Su cerebro desarrolló una **isquemia por hipoxia**, esto significa que no recibía suficiente suministro de sangre y oxígeno.
-
-En 2022, el pequeño abandonó el hospital y **retornó a casa**; sin embargo, tenía que realizar visitas permanentes mientras continuaba con su tratamiento.
-
-> [Ver esta publicación en Instagram](https://www.instagram.com/p/C8_HManMqM_/?utm_source=ig_embed&utm_campaign=loading)
+> COMUNICADO | Desde el próximo 🗓️ 1 de octubre entra en vigencia la Ordenanza Provincial que establece que, para cancelar los valores del Fondo de Mejoramiento y Mantenimiento Vial será indispensable estar al día en el pago de los peajes de la Autopista General Rumiñahui e… [pic.twitter.com/m6tmbtZB62](https://t.co/m6tmbtZB62)
 > 
-> [Una publicación compartida por Karime Borja Ansaldo (@karimeborja)](https://www.instagram.com/p/C8_HManMqM_/?utm_source=ig_embed&utm_campaign=loading)
+> — Prefectura de Pichincha (@PichinchaGob) [September 16, 2024](https://twitter.com/PichinchaGob/status/1835771540601741314?ref_src=twsrc%5Etfw)
 
-Su historia de vida inspiró a otros padres
-------------------------------------------
+¿Cómo verificar si se tienen deudas pendientes?
+-----------------------------------------------
 
-Karime compartía a través de sus **redes sociales** la historia de superación de su hijo.
+Las personas que deseen verificar si tienen deudas pendientes por el paso de los peajes provinciales pueden consultar en el [enlace](https://www.peajespichincha.ec/pages/inic/sgk_arranque.aspx "https://www.peajespichincha.ec/pages/inic/sgk_arranque.aspx") proporcionado por la **Prefectura**.
 
-En imágenes y videos compartía la **evolución de Mateo**, sus gustos y sus cuidados; ganándose la admiración de la gente que aplaudía sus demostraciones de amor.
+Además, el pago puede realizarse en las **ventanillas** de la **Prefectura** de **Pichincha** en Quito, en las oficinas de los peajes de la autopista **General Rumiñahui**, o en los puntos de atención ubicados en centros comerciales.
 
-De a poco, el trágico accidente se convirtió en un **relato de inspiración** para otros padres que sufrían enfermedades similares en sus hijos.
+Los conductores deben pagar el peaje dentro de un plazo máximo de 15 días después de haber utilizado la vía. De lo contrario se generarán **multas** y **recargos adicionales**.
 
-Karime creó **Cara a cara con mi peor pesadilla**, en mayo de 2022. Un podcast en el que contó cómo lo sucedido le cambió su vida.
-
-Antes de la partida de Mateo, Karime le dedico unas sentidas **palabras de amor** en un posteo de Instagram.
-
-“Amo cuidar de ti, me llena el alma tener el privilegio de que mientras tú decidas seguir en esta tierra de mi mano, el tiempo que Dios nos regale, yo puedo agarrarte fuerte, amarte, cuidarte mucho y obvio ponerte bien guapizizimo”.
-
-Este último mensaje se compartió el 8 de septiembre.
-
-“Te amo Mateo más que a mi propia vida, **hasta la eternidad**“, finalizó la madre.
-
-> [Ver esta publicación en Instagram](https://www.instagram.com/reel/C_rm9T0NmHH/?utm_source=ig_embed&utm_campaign=loading)
+> ¿Circulaste por la Autopista General Rumiñahui o por la vía Intervalles y no pagaste los peajes dentro de los 15 días?🤔  
+>   
+> Conoce los 5 puntos de atención donde puedes cancelar estos valores pendientes⬇️  
+>   
+> Recuerda pagar a tiempo y evita recargos 🙌[@PaolaPabonC](https://twitter.com/PaolaPabonC?ref_src=twsrc%5Etfw) [@AlexTonello5](https://twitter.com/AlexTonello5?ref_src=twsrc%5Etfw)… [pic.twitter.com/YiZccYO522](https://t.co/YiZccYO522)
 > 
-> [Una publicación compartida por Karime Borja Ansaldo (@karimeborja)](https://www.instagram.com/reel/C_rm9T0NmHH/?utm_source=ig_embed&utm_campaign=loading)
+> — Prefectura de Pichincha (@PichinchaGob) [September 17, 2024](https://twitter.com/PichinchaGob/status/1836124188308062628?ref_src=twsrc%5Etfw)
 
-Se analizan condiciones de hipotecarios VIP y VIS
-=================================================
-
-Se realizan mesas de trabajo para analizar la solicitud de revisión de la tasa de interés de los créditos VIS y VIP.
---------------------------------------------------------------------------------------------------------------------
-
-![Los créditos VIS y VIP se utilizan para vivienda.](https://www.elcomercio.com/wp-content/uploads/2024/09/casas.jpg)
-
-Se realizan **mesas de trabajo** para analizar la solicitud de revisión de la tasa de interés de los créditos hipotecarios del programa **vivienda de interés social** (VIS) y de **interés público** (VIP). Los préstamos para la compra de casas de este segmento tienen un interés preferencial del 4,99%.
-
-### Más noticias
-
-* [Así puede actualizar su formulario de gastos personales para el SRI](https://www.elcomercio.com/actualidad/negocios/asi-puede-actualizar-su-formulario-de-gastos-personales-para-el-sri.html "Así puede actualizar su formulario de gastos personales para el SRI")
-* [Estos son los impuestos que más ingresos le dan al Ecuador](https://www.elcomercio.com/actualidad/negocios/recaudacion-impuestos-sri-ingresos-ecuador-iva-renta.html "Estos son los impuestos que más ingresos le dan al Ecuador")
-* [Demanda de créditos baja y hay más morosidad, ¿cómo afectan a los ecuatorianos?](https://www.elcomercio.com/actualidad/negocios/demanda-creditos-baja-mas-morosidad-afectan-ecuatorianos-sistema-financiero.html "Demanda de créditos baja y hay más morosidad, ¿cómo afectan a los ecuatorianos?")
-
-Esta es la tasa en **créditos hipotecarios** más baja del mercado, ya que cuenta con un **subsidio estatal.** Este programa permite acceder a viviendas nuevas al 4,99% de interés a 25 años de plazo y con el 5% de entrada. El interés regular para la compra de viviendas está entre 10,59% y 11,54%.
-
-El monto de la **tasa de interés preferencial** podría cambiar, ya que las entidades privadas que participan de este programa solicitaron la revisión de las condiciones actuales. El Miduvi aún no tiene una fecha para emitir un **pronunciamiento final** para esta solicitud.
-
-¿Cómo funciona este programa?
------------------------------
-
-El **subsidio estatal se financia a través de un fideicomiso.** El mismo que cuenta con apoyo de organismos internacionales como el Banco Interamericano de Desarrollo (BID) y de la CAF-Banco de Desarrollo de América Latina.
-
-Las **entidades financieras privadas** entregan los créditos hipotecarios. Del monto del crédito, el 32% viene del fideicomiso al 0,01% de interés, mientras que el 68% restante lo entrega la entidad financiera privada y a quién se le paga el 9% de interés fijo. Sumado los intereses sale 4,99%.
-
-Sin embargo, las **entidades financieras** señalan que esta tasa no es suficiente para generar rentabilidad, y sugiere un incremento de dos puntos porcentuales, lo que llevaría la tasa al 6,99% para el cliente final. Mientras tanto, las entidades financieras recibirían un 11% de interés fijo.
-
-Tasa de interés
----------------
-
-**Joan Proaño**, vicepresidente de Constructores Positivos, señaló que incrementar la tasa de interés anual en dos puntos porcentuales no es la solución adecuada. “Entendemos que el **banco necesita generar rentabilidad.** Pero no estamos de acuerdo con este aumento, porque no solo afectaría a los futuros compradores, sino también a aquellos que ya han adquirido viviendas bajo este programa.
-
-“Las personas que compraron viviendas con el crédito del 4,99% tendían que ajustar sus cuotas y pagar un 20% más”, señaló Proaño. En este grupo serían afectadas cerca de **40 000 familias** que han comprado viviendas con el programa VIS y VIP, desde 2019, cuando se inició el programa.
-
-Además, afectaría las **precalificaciones** de crédito de todas las promesas de compra – ventas, que están vigentes. Estos compromisos se hacen sobre unidades de vivienda que están en proyectos, es decir, que aún no están construidas. Al momento de la entrega debería hacerse una revisión del estado financiero del cliente para ver si califica a un crédito con la tasa más alta.
-
-El posible incremento del interés afectaría también las futuras compras de vivienda de este segmento, ya que **menos personas podrían acceder a préstamos** que, además, serán más costosos.
-
-Con la posibilidad de menos clientes, el sector de la construcción también revisaría sus **inversiones**, lo que afectaría el empleo y la economía, en general, agregó Poaño.
-
-¿A quiénes se aplica la tasa de interés preferencial?
------------------------------------------------------
-
-La tasa de 4,99% aplica para la compra de una **primera vivienda nueva**. El monto máximo de crédito **hipotecario VIS** es de hasta 178 salarios básicos unificados (SBU). Es decir, que para este 2024 se puede adquirir una vivienda de hasta 81 880 dólares, con este tipo de crédito.
-
-Mientras que, el monto máximo para el crédito **hipotecario VIP** es de entre 178,01 y 229 SBU. Esto quiere decir que con este crédito en 2024 se puede acceder a una vivienda de hasta 105 340 dólares.
-
-Posibles alternativas
----------------------
-
-Desde **Constructores Positivos** se plantea que, en lugar de alzar la tasa de interés, el Gobierno incremente el porcentaje de subsidio de forma momentánea. Es decir, que en lugar de entregar el 32% del monto, entregue el 48%, y con eso los bancos tendrían más rentabilidad.
-
-Por su parte, el Miduvi señaló que el objetivo es **maximizar el alcance del programa** y alcanzar a más personas que lo necesitan. “En consecuencia, las alternativas que están en evaluación van a procurar que no exista afectación de cara al ciudadano”.
-
-Sector de la construcción
--------------------------
-
-Según un informe del Servicio de Rentas Internas (SRI), las **ventas por actividades inmobiliarias cayeron** un 3,5 % en los primeros seis meses de 2024, en comparación con el mismo período del año pasado. Ya que, entre enero y junio de 2024, el sector inmobiliario generó **ventas** por 1 448 millones de dólares, mientras que, en el mismo período de 2023, las ventas fueron de 1 500 millones de dólares.
-
-El programa de vivienda con la tasa de interés preferencial nació en 2019. El objetivo de la tasa de interés reducida es que más familias tengan **acceso a vivienda** y apoyar al sector de la construcción.
-
-Quejas del correísmo contra tres legisladores a trámite ¿Cuáles son los motivos?
-================================================================================
-
-El correísmo en la Asamblea presentó las quejas contra los tres legisladores en torno a un mismo tema.
-------------------------------------------------------------------------------------------------------
-
-![César Umaginga es uno de los tres legisladores contra los que el correísmo presentó quejas.](https://www.elcomercio.com/wp-content/uploads/2024/09/Diseno-sin-titulo-19.jpg)
-
-Las quejas del correísmo contra tres legisladores van a trámite en la Asamblea Nacional.
-
-El Consejo de Administración Legislativa (CAL) calificó las quejas del correísmo la noche de este martes 17 de septiembre de 2024.
-
-### Más noticias:
-
-* [‘Apagón’ en la Asamblea provocó agresiva reacción de Esteban Torres](https://www.elcomercio.com/actualidad/politica/esteban-torres-apagon-asamblea-pitos-simios.html "‘Apagón’ en la Asamblea provocó agresiva reacción de Esteban Torres")
-* [Pleno de la Asamblea tomó una resolución sobre juicio político contra Diana Salazar](https://www.elcomercio.com/actualidad/politica/pleno-asamblea-resolucion-juicio-politico-diana-salazar.html "Pleno de la Asamblea tomó una resolución sobre juicio político contra Diana Salazar")
-* [Fiscalización decidió sobre el juicio político contra Diana Salazar y otros, en medio del caos](https://www.elcomercio.com/actualidad/politica/fiscalizacion-conocer-juicio-politico-contra-diana-salazar-otros-caos.html "Fiscalización decidió sobre el juicio político contra Diana Salazar y otros, en medio del caos")
-
-Las asambleístas correístas Jhajaira Urresta, Arisdely Parrales y Paola Cabezas presentaron quejas contra Lenin Rogel, César Umajinga e Inés Alarcón, afines al oficialismo.
-
-Motivos de las quejas del correísmo contra tres legisladores
+¿Cómo se paga el Fondo de Mejoramiento y Mantenimiento Vial?
 ------------------------------------------------------------
 
-En la queja presentada contra Inés Alarcón se argumenta que la asambleísta calificó, a través de medios de comunicación, el pasado 6 de septiembre de 2024, al proceso de juicio político contra la Fiscal General del Estado como “Narco Juicio”, “lo que lesiona el prestigio de la institución, según el artículo 170 de la LOFL”, según el documento.
+El pago del **Fondo** de **Mejoramiento** y **Mantenimiento Vial** se puede realizar en línea a través del [enlace](https://www.pichincha.gob.ec/ "https://www.pichincha.gob.ec/") correspondiente o en entidades bancarias como Banco Pichincha, Banco del Pacífico y Produbanco. También es posible cancelar mediante pago electrónico en Red Facilito y Kuski, con tarjetas Visa y Mastercard.
 
-Con relación a la queja presentada contra Lenin Rogel, se argumenta que el legislador, en el marco de la sesión 074 de la Comisión de Fiscalización, el lunes 9 de septiembre de 2024, violentó los deberes éticos de la actividad parlamentaria al votar de forma contraria a lo resuelto por el Pleno de la Asamblea Nacional, irrespetando su institucionalidad.
+Selección de Ecuador de amputadas pide apoyo para llegar al Mundial
+===================================================================
 
-En la queja contra César Umajinga se menciona que el legislador, al tener una investigación previa en proceso en la Fiscalía General del Estado, debía principalizar a su suplente o alterno para que asista a la sesión antes mencionada y consigne su voto, al no hacerlo vulneró la Ley Orgánica de la Función Legislativa y la Constitución.
+La Selección de Ecuador de amputadas busca llegar hacia el Mundial y recurre a más de una alternativa en busca de apoyo para su sueño.
+--------------------------------------------------------------------------------------------------------------------------------------
 
-El CAL dispuso que se notifique a los legisladores para que en el plazo máximo de tres días contesten la queja presentada en su contra.
+![Jugadoras de la Selección de Ecuador de amputadas en uno de sus entrenamientos previo al Mundial.](https://www.elcomercio.com/wp-content/uploads/2024/09/e899323a0a3a9aa08bb67b6b870196ffc639e59f.jpg)
 
-La Superluna de Cosecha iluminó el cielo de Ecuador
-===================================================
+La selección femenina ecuatoriana de fútbol de amputadas, creada hace apenas dos meses, se encuentra en la última etapa de su preparación para comenzar a disputar sus primeros partidos internacionales. Espera jugar el **Mundial de Barranquilla** (Colombia), para el que consideran que no están contando con el apoyo suficiente.
 
-La Luna se mostró más brillante y grande que de costumbre, este martes 17 de septiembre.
-----------------------------------------------------------------------------------------
-
-![Así se vio la Superluna de Cosecha en Ecuador esta noche](https://www.elcomercio.com/wp-content/uploads/2024/09/luna-cosecha.jpg)
-
-Ecuador disfrutó la noche de este martes 17 de septiembre de 2024 de un increíble **espectáculo astronómico**.
-
-La **Superluna de Cosecha**, que coincide con el último eclipse de este año, fue vista desde varios puntos del país.
-
-### Más noticias
-
-* [Último eclipse lunar de 2024 fue visto desde Ecuador](https://www.elcomercio.com/tendencias/ciencia/eclipse-lunar-superluna-cosecha-astronomia.html "Último eclipse lunar de 2024 fue visto desde Ecuador")
-* [Estos son los países más afectados por los incendios en septiembre 2024](https://www.elcomercio.com/actualidad/mundo/paises-afectados-incendios.html "Estos son los países más afectados por los incendios en septiembre 2024")
-* [Las cinco ciudades con la mejor vida nocturna](https://www.elcomercio.com/actualidad/mundo/10-ciudades-mejor-vida-nocturna.html "Las cinco ciudades con la mejor vida nocturna")
-
-En **Quito**, por ejemplo, el único astro natural de la Tierra se mostró más **grande y brillante** de lo normal.
-
-El **cielo despejado** colaboró para que los ciudadanos hayan evidenciado su imponencia.
-
-El **Observatorio Astronómico de Quito** abrió sus puertas al público durante la noche del eclipse, desde las 20:00 hasta las 22:30.
-
-Los aficionados a los fenómenos astronómicos recibieron charlas informativas, además de la posibilidad de observar el fenómeno a través de sus **telescopios electrónicos**.  
-
-> [Ver esta publicación en Instagram](https://www.instagram.com/p/DACto-5t10T/?utm_source=ig_embed&utm_campaign=loading)
-> 
-> [Una publicación compartida por El Comercio de Ecuador (@elcomerciocom)](https://www.instagram.com/p/DACto-5t10T/?utm_source=ig_embed&utm_campaign=loading)
-
-¿Qué es la Superluna de Cosecha?
---------------------------------
-
-La **Superluna de Cosecha** es un fenómeno astronómico que ocurre cuando una **luna llena** coincide con el momento en que la Luna está más cerca de la Tierra en su órbita elíptica.
-
-Este acontecimiento simula que la Luna se vea más grande y brillante de lo normal.
-
-Esta luna llena recibe el nombre de “Luna de Cosecha” porque tradicionalmente ocurre cerca del **equinoccio de otoño** (en el hemisferio norte), un momento clave para la cosecha de cultivos.
-
-Durante este periodo, la luz de la luna llena iluminaba los campos hasta más tarde en la noche, lo que facilitaba a los agricultores trabajar más tiempo recolectando sus **cultivos**.
-
-Cuando ambos eventos coinciden, como en una Superluna de Cosecha, la Luna se ve especialmente impresionante, permitiendo que su significado se valore tanto en lo científico como en lo **cultural**.
-
-La NASA estima que esta coincidencia, no se volverá a dar hasta dentro de 9 años, en **2033**.  
-
-  
-
-Deportivo Quito tiene un largo camino para volver a la Serie B
-==============================================================
-
-El Deportivo Quito vuelve a abrigar las esperanzas de ascender a la Serie B. La última vez en esa categoría fue en 2016.
-------------------------------------------------------------------------------------------------------------------------
-
-![Jugadores del Deportivo Quito en la Segunda Categoría de Pichincha en el 2024.](https://www.elcomercio.com/wp-content/uploads/2024/09/quito_serie_b_1.jpg)
-
-Seis etapas y 11 partidos son los que tiene que superar el **Deportivo Quito para regresar a la Liga Pro Serie B** de Ecuador en el 2025, un sueño que sus hinchas abrazan con más fuerza todas las temporadas. 
-
-El primer ‘milagro’ para el Deportivo Quito se dio en la **mesa de la Federación Ecuatoriana de Fútbol (FEF)**, organizadora del Torneo del Ascenso Nacional, que abrió la puerta para su ingreso a la competición.
-
-### Más noticias:
-
-* [Patrón Mejía respalda a JFA y se suma a quejas por Deportivo Quito](https://www.elcomercio.com/deportes/deportivo-quito-patron-mejia-segunda-categoria.html "Patrón Mejía respalda a JFA y se suma a quejas por Deportivo Quito")
-* [El Confesionario de EL](https://www.elcomercio.com/deportes/futbol/confesionario-el-comercio-invitados-deportistas.html "El Confesionario de EL COMERCIO también se escucha en podcast") [COMERCIO](https://www.elcomercio.com/deportes/futbol/confesionario-el-comercio-invitados-deportistas.html "El Confesionario de EL COMERCIO también se escucha en podcast") [también se escucha en podcast](https://www.elcomercio.com/deportes/futbol/confesionario-el-comercio-invitados-deportistas.html "El Confesionario de EL COMERCIO también se escucha en podcast")
-* [Mateo Villagómez es el primer automovilista ecuatoriano obtener un título en Europa](https://www.elcomercio.com/deportes/mateo-villagomez-campeon-francia-primer-ecuatoriano-piloto.html "Mateo Villagómez es el primer automovilista ecuatoriano obtener un título en Europa")
-
-El Quito en el campeonato de **Segunda Categoría de Pichincha** quedó en el tercer puesto de la tabla de posiciones del grupo A, con lo que puso fin a su temporada deportiva y el sueño de volver a la Serie B. 
-
-Sus hinchas y dirigentes ya proyectaban el 2025 y contaban los meses para regresar a la competencia, pero de un momento a otro la FEF **los incluyó en el grupo de 64 equipos que competirán** por uno de los dos cupos que otorga el Ascenso Nacional. 
-
-El argumento de la FEF fue que el **Independiente JFA y el Patrón Mejía**, por no completar todos los requisitos requeridos para participar en el referido torneo, se quedaban al margen. 
-
-Solventados estos temas administrativos se publicó el cuadro de participantes por provincia: Guayas (8), Manabí (7), **Pichincha (6), Azuay (5), Santa Elena (4), Cañar (3), El Oro (3)**, Esmeraldas (3), Los Ríos (3), Chimborazo (3), Bolívar (2), Pastaza (2), Santo Domingo de los Tsáchilas (2), Tungurahua (2), Zamora Chinchipe (2), Carchi (1), Loja (1), Morona Santiago (1), Orellana (1) y Sucumbíos (1).  
-
-El sorteo de los treintaidosavos de final dejó listas las llaves que se jugarán en partidos de ida y vuelta para conocer a los clasificados en cada etapa hasta llegar a la gran final, que se jugará en una sede por definirse. 
-
-El calendario que debe recorrer el Deportivo Quito
---------------------------------------------------
-
-El Deportivo Quito quedó emparejado en la **llave 24 junto a Santa Elena Sporting Club**, uno de los cuatro representantes de la provincia de Santa Elena, junto a Luz Valdivia, Huancavilca y Santa Elena Sumpa. 
-
-El partido de ida se jugará en Quito el 28 o 29 de septiembre en un estadio que está por definirse, mientras que la revancha será el 5 o 6 de octubre en Santa Elena. 
-
-La FEF dio a conocer en un boletín oficial que, **una vez que concluya la fase de los 32avos de final**, se llevará a cabo una nueva sesión ampliada de la Comisión de Competencias de Fútbol Profesional, para sortear las llaves de los dieciseisavos de final. 
-
-Los que sí está definidas son las fechas en las que se disputarán cada una de las etapas:
-
-16avos de final: 12 de octubre (ida)/19 de octubre (vuelta).
-
-**8avos de final: 26 de octubre (ida)/2 de noviembre (vuelta).**
-
-4tos de final: 9 de noviembre (ida)/16 de noviembre (vuelta).
-
-**Semifinales: 23 de noviembre (ida)/30 de noviembre (vuelta).**
-
-Final única/7 de diciembre.
-
-Las llaves del Ascenso Nacional
--------------------------------
-
-No te pierdas - El Confesionario
---------------------------------
-
-‘Apagón’ en la Asamblea provocó dura reacción de Esteban Torres
-===============================================================
-
-Esteban Torres criticó el 'apagón' y los pitos en la Asamblea.
---------------------------------------------------------------
-
-![Esteban Torres reaccionó al 'apagón' y los pitos en la Asamblea.](https://www.elcomercio.com/wp-content/uploads/2024/09/Diseno-sin-titulo-18-1.jpg)
-
-Esteban Torres, viceministro de Gobierno, reaccionó al ‘apagón’ y pitos en el Pleno de la Asamblea Nacional, este martes 17 de septiembre.
-
-La **Empresa Eléctrica Quito (EEQ)** se pronunció sobre lo ocurrido en el sistema eléctrico del Legislativo, a pocas horas de que se dé el primer corte de luz programado a escala nacional por el Gobierno, por la crisis energética.
-
-### Más noticias:
-
-* [Cortes de luz afectarán las redes de telefonía móvil e Internet de esta manera](https://www.elcomercio.com/actualidad/negocios/cortes-de-luz-afectara-redes-telefonia-movil-internet-ecuador.html "Cortes de luz afectarán las redes de telefonía móvil e Internet de esta manera")
-* [Estos son los servicios públicos que atenderán con normalidad, pese al teletrabajo y cortes de luz](https://www.elcomercio.com/actualidad/ecuador/servicios-publicos-atenderan-normalidad-garantizados-pese-teletrabajo-cortes-luz.html "Estos son los servicios públicos que atenderán con normalidad, pese al teletrabajo y cortes de luz")
-
-En la sesión del Pleno de hoy, sorpresivamente, las luces fueron apagadas; mientras las computadoras seguían prendidas.
-
-Inmediatamente, los legisladores empezaron a silbar con pitos y a iluminar el espacio con las linternas de sus celulares.
-
-El presidente de la Asamblea, **Henry Kronfle**, leía en voz alta un documento, entre las risas de unos y el asombro de otros legisladores.
-
-La reacción de Esteban Torres al ‘apagón’ y los pitos en la Asamblea
---------------------------------------------------------------------
-
-Esteban Torres respondió en su cuenta de X al ‘apagón’ y los pitos en el Pleno de la Asamblea.
-
-El funcionario gubernamental señaló que “apagan las luces a propósito (…).
-
-Torres reiteró que Ecuador enfrenta el peor estiaje en 61 años, “pero para ellos esto es un chiste”.
-
-“En la Asamblea pasada a una expresidenta se le investigó penalmente por apagar las luces del Plenario”, agregó.
-
-En un tuit posterior calificó de “**circo**” la acción de la Asamblea.
-
-“Todo fue un show y un circo, en la peor crisis de sequía en 61 años”, sostuvo.
-
-“No se burlan del Gobierno, se burlan de los ecuatorianos. Estos mismos te van a pedir el voto el 2025. ¡No lo olvides!”, añadió.
-
-> Ecuatorianos, juzguen ustedes esta payasada:  
->   
-> Apagan las luces a propósito (las computadoras siguen prendidas) y como simios gritan al son del chiste y la burla.  
->   
-> Ecuador enfrenta el peor estiaje en 61 años pero para ellos esto es un chiste.  
->   
-> En la Asamblea pasada a una… [pic.twitter.com/gBUFEst3bX](https://t.co/gBUFEst3bX)
-> 
-> — Esteban Torres Cobo (@etorrescobo) [September 17, 2024](https://twitter.com/etorrescobo/status/1836159640289137076?ref_src=twsrc%5Etfw)
-
-La Empresa Eléctrica Quito se pronunció sobre el ‘apagón’ en la Asamblea
-------------------------------------------------------------------------
-
-La **Empresa Eléctrica Quito (EEQ)** se pronunció tras el “apagón” en la Asamblea.
-
-La EEQ comunicó que “el sistema eléctrico funciona con normalidad” y que esto confirma que “se trató de un daño interno”.
-
-El personal operativo de la Empresa ingresó a la cámara de transformación del establecimiento, ante un reporte por falta de servicio en la Asamblea.
-
-> En atención a un reporte por falta de servicio en la [@AsambleaEcuador](https://twitter.com/AsambleaEcuador?ref_src=twsrc%5Etfw), personal operativo de la [#EEQ](https://twitter.com/hashtag/EEQ?src=hash&ref_src=twsrc%5Etfw) ingresó a la cámara de transformación del establecimiento y verificó que el sistema eléctrico funciona con normalidad, lo cual confirma que se trató de un daño interno. [pic.twitter.com/4VCCQF4H3l](https://t.co/4VCCQF4H3l)
-> 
-> — Empresa Eléctrica Quito (@ElectricaQuito) [September 17, 2024](https://twitter.com/ElectricaQuito/status/1836178470717493298?ref_src=twsrc%5Etfw)
-
-Último eclipse lunar de 2024 fue visto desde Ecuador
-====================================================
-
-El último eclipse lunar fue visto la noche del martes 17 de septiembre.
------------------------------------------------------------------------
-
-![Eclipse lunar desde Ecuador, la noche de este martes 17 de septiembre](https://www.elcomercio.com/wp-content/uploads/2024/09/eclipse-lunar.jpg)
-
-Entre la noche del martes 17 de septiembre y la madrugada del miércoles 18, los **amantes de los eventos astronómicos** podrán disfrutar de un espectáculo triple en el cielo.
-
-Se trata del **último eclipse lunar de 2024** y la **primera superluna del año que coinciden con la Luna de Cosecha**. Este evento es **uno de los más destacados del año** para los observadores del cielo, tan especial que la NASA estima que esta coincidencia no se volverá a dar hasta el 2033.
-
-### Más noticias
-
-* [(Video) Rosalía se molestó con la actitud de un fanático](https://www.elcomercio.com/afull/rosalia-artista-musica-acoso.html "https://www.elcomercio.com/afull/rosalia-artista-musica-acoso.html") 
-* [Hermano de Michael Jackson falleció a los 70 años](https://www.elcomercio.com/tendencias/entretenimiento/michael-jackson-tito-jackson-muerte.html "https://www.elcomercio.com/tendencias/entretenimiento/michael-jackson-tito-jackson-muerte.html")
-
-**Conoce qué es un eclipse parcial de luna** 
----------------------------------------------
-
-Según el **[Observatorio Astronómico de Quito](https://oaq.epn.edu.ec/index.php/publicaciones/noticias-y-eventos/noticias-2024/650-boletin-de-prensa-eclipse-parcial-de-luna-y-superluna-de-cosecha "https://oaq.epn.edu.ec/index.php/publicaciones/noticias-y-eventos/noticias-2024/650-boletin-de-prensa-eclipse-parcial-de-luna-y-superluna-de-cosecha")**, un **eclipse parcial de Luna** se produce cuando **solo una fracción de la Luna entra en la umbra**, la zona más oscura de la sombra terrestre, mientras que el resto de la Luna pasa por la penumbra, la región de sombra parcial. Durante este fenómeno, los observadores podrán notar cómo una parte de la Luna se oscurece al atravesar la sombra de la Tierra. 
-
- **La Superluna de Cosecha** 
------------------------------
-
-Siguiendo con el Observatorio Astronómico, la **Superluna de Cosecha** es un **fenómeno que ocurre cuando la Luna llena alcanza su punto más cercano a la Tierra en su órbita**, haciéndola lucir más grande y brillante de lo habitual. Este término, “Luna de Cosecha,” **se aplica a la Luna llena que ocurre más cerca del equinoccio de septiembre,** lo que proporciona **una luz extra durante las noches de cosecha**. 
-
-**La Luna llena, o plenilunio**, sucede cuando la Tierra se encuentra directamente entre el Sol y la Luna, y se crea un ángulo de elongación de 180° y resulta en **una iluminación total del 100%.** 
-
-En la noche del 17 de septiembre, **la Luna estará aproximadamente a 352 mil kilómetros de la Tierra**, y se generará una superluna. En ese momento, alcanzará una magnitud de -12.4 y **estará completamente iluminada.** La Superluna de Cosecha será un 7,8% más grande y un 15,4% más brillante que una Luna llena típica. 
-
-**Este fenómeno será visible toda la noche**, ya que la **salida de la Luna coincidirá con la puesta del Sol** y su **ocaso con la salida del Sol.** Durante este evento, **la Luna reflejará la luz solar hacia la Tierra**, al mostrar **su cara completamente iluminada**, lo que permitirá **observarla en su totalidad**. La Luna llena ocurre aproximadamente cada 29 días, para completar así el ciclo lunar. 
-
-**Detalles a tomar en cuenta** 
--------------------------------
-
-Este fenómeno astronómico **será visible en varias regiones del mundo**, también en América del Sur, Norteamérica, Europa, África y algunas partes de Asia. **En Quito, el eclipse parcial de Luna seguirá el siguiente horario**, de acuerdo con información del Obervatorio: 
-
-* Inicio del eclipse penumbral: 7:41 pm. 
-
-* Inicio del eclipse parcial: 9:13 pm. 
-
-* Máximo del eclipse: 9:44 pm. 
-
-* Fin del eclipse parcial: 10:16 pm. 
-
-* Fin del eclipse penumbral: 11:47 pm. 
-
-Durante este evento, **la Luna tendrá una magnitud penumbral de 1.037**, que indica la proporción de la Luna en la penumbra de la Tierra, y una **magnitud umbral de 0.085**, que refleja la parte de la Luna oscurecida por la umbra terrestre. 
-
-**El Observatorio Astronómico de Quito estará abierto al público durante la noche del eclipse,** desde las 20:00 hasta las 22:30. Ofrecerá charlas informativas y la posibilidad de observar el fenómeno a través de sus telescopios electrónicos.  
-
-Barcelona Sporting Club tiene 17 juveniles en el primer plantel
-===============================================================
-
-Barcelona Sporting Club regresa su mirada a su cantera y promovió un grupo de talentosos juveniles al primer plantel.
----------------------------------------------------------------------------------------------------------------------
-
-![Jandry Gómez con Barcelona Sporting Club en el 2024.](https://www.elcomercio.com/wp-content/uploads/2024/09/barcelona_juveniles_1.jpg)
-
-**Barcelona Sporting Club**, con su presidente Antonio Álvarez a la cabeza, se autoimpuso una ‘regla’  de tener jugadores juveniles en el primer plantel para la temporada 2024 y con mayo énfasis en el 2025, año de su centenario. 
-
-Según Álvarez, **Barcelona SC vivirá un proceso de “refundación”** en lo administrativo y deportivo dando mayor cabida a los jugadores juveniles, aspecto que no es común en el cuadro canario a lo largo de su historia. 
+Desde su cancha de entrenamiento, situada cerca de la Mitad del Mundo en el norte de Quito, la jugadora **Diana Armijos**, directora de la Fundación CienPiés, que se encarga de la formación profesional de personas con amputaciones por accidentes y enfermedades, compartió con EFE las dificultades sorteadas para llegar a la **Copa del Mundo**.
 
 ### Más noticias:
 
 * [Jugador rechaza a la Selección de Ecuador por Chile](https://www.elcomercio.com/deportes/seleccion-ecuador-chile-juan-francisco-rossel.html "Jugador rechaza a la Selección de Ecuador por Chile")
-* [Sean O’Malley vs. Marlon ‘Chito’ Vera, ¿habrá una tercera pelea?](https://www.elcomercio.com/deportes/artes-marciales/sean-omalley-vs-marlon-chito-vera-habra-tercera-pelea.html "Sean O’Malley vs. Marlon ‘Chito’ Vera, ¿habrá una tercera pelea?")
-* [José Francisco Cevallos critica la gestión de Emelec](https://www.elcomercio.com/deportes/futbol/jose-francisco-cevallos-critica-la-gestion-de-emelec.html "José Francisco Cevallos critica la gestión de Emelec")
+* [La Selección de Ecuador tiene un récord positivo en el Monumental](https://www.elcomercio.com/deportes/eliminatorias/seleccion-ecuador-estadio-monumental-eliminatorias.html "La Selección de Ecuador tiene un récord positivo en el Monumental")
+* [Selección de Ecuador jugará contra Bolivia en Guayaquil](https://www.elcomercio.com/deportes/futbol/seleccion-de-ecuador-jugara-contra-bolivia-en-guayaquil.html "Selección de Ecuador jugará contra Bolivia en Guayaquil")
 
-El pasado 12 de septiembre explicó que “involucrarán” 17 juveniles en el primer plantel, tres estarán constantemente entre los 23 convocados para los partidos de la Primera División y se proyecta que sumen 300 minutos por etapa bajo el actual formato de la Liga Pro.
+Lo que un grupo de mujeres amputadas comenzaron como el Club Deportivo Paralímpico CienPiés ha pasado a conformarse como la **Selección de Ecuador**.
 
-Con este enfoque **los amarillos afrontan lo que resta de la segunda etapa de la Liga Pro** que ya agotó seis jornadas.
+La Fundación consiguió ser reconocida por el **Ministerio del Deporte** como el ente rector del fútbol de amputados en **Ecuador**. Aquello para hombres como para mujeres, y al club como selección nacional, algo que apenas se concretó hace dos meses.
 
-En la tabla de posiciones marchan en el cuarto lugar con 12 puntos con opciones de pelearla en las nueve fechas que aún restan. 
+Pasajes aéreos y uniformes para ir a la cita mundialista
+--------------------------------------------------------
 
-En la sexta fecha ante Macará la principal novedad de BSC fue la **presencia en el equipo titular de Juan Usma**. Jugó 45 minutos.
+![](https://www.elcomercio.com/wp-content/uploads/2024/09/1026c59909ba7101766b86313414395f45805994-1024x683.jpg)
 
-En el segundo tiempo fue reemplazado por **Jandry Gómez**, otro de los juveniles que cuenta con la confianza del entrenador argentino Ariel Holan. 
+**Armijos** habló de los diversos problemas que enfrentan para concretar su presencia en el Mundial, que se celebrará del 2 al 11 de noviembre, así como para un partido amistoso que jugarán en Colombia a finales de este mes.
 
-Los dos mediocampistas **tienen 18 años y se formaron en la cantera de Barcelona SC**.
+“**Ya estamos cerca de salir y aún no tenemos confirmación de los vuelos**”, comentó Armijos sobre la ayuda solicitada al Gobierno para los viajes. Ya saben que sólo podrán cubrirles los billetes de avión hasta Bogotá. El vuelo a Barranquilla deberán pagarlo por su cuenta.
 
-Ahora gozan de los primeros minutos en el primer plantel con el respaldo de los exigentes hinchas. 
+Ante la premura de la celebración del **Mundial**, Armijos explicó no han tenido tiempo de encontrar patrocinadores para hacer sus propios uniformes como ente rector del fútbol de amputados, por lo que también han solicitado donativos para poder vestir los colores de **Ecuador**.
 
-Allen Obando, el juvenil más promocionado
------------------------------------------
+La **Federación Ecuatoriana de Fútbol (FEF)** les entregó dos kits de doce equipaciones, como lo hizo con el equipo masculino de fútbol de amputados. Pese a que esta modalidad de fútbol no es competencia de la Federación, esta lo realizó y las chicas las lucieron en un acto previo a un partido de la Superliga Femenina[.](https://en.wikipedia.org/wiki/Ecuador_national_football_team "https://en.wikipedia.org/wiki/Ecuador_national_football_team")
 
-Allen Obando tiene 18 años, es delantero, ha sido seleccionado de Ecuador en las categorías juveniles, con Mundial incluido; y de la absoluta, y suma minutos con BSC desde el 2022.
+Sin embargo, **Armijos** consideró que no hubo el mismo trato con el equipo masculino por haberles dado equipaciones de hombre, una circunstancia sobre la que **FEF** ha mostrado su propósito de incrementar su respaldo.
 
-Según Transfermarkt, **Obando tiene un valor de mercado de más de un millón de dólares**.
+Rifas para recaudar fondos para la Selección de Ecuador de amputadas e ir al Mundial
+------------------------------------------------------------------------------------
 
-Su nombre ha estado vinculado a rumores que lo han puesto en la órbita de clubes como el Paris Saint-Germain de Francia y el Barcelona de España. 
+![](https://www.elcomercio.com/wp-content/uploads/2024/09/2cef59f9b645c5b21f8c420ab2d3a7d569b489a7-1024x683.jpg)
 
-Lo cierto es que continúa en el cuadro guayaquileño. Cuenta con 17 partidos jugados y dos goles en 590 minutos acumulados en cancha. 
+A pesar de estos obstáculos, la selección sigue adelante, cuenta **Armijos**. A través de la venta de rifas para recaudar fondos y lograr llegar al Mundial, cada fin de semana regresan a la cancha.
 
-En esta segunda etapa aún no suma minutos y **está tapado por el uruguayo Octavio Rivero**, goleador del equipo con seis goles en la misma cantidad de partidos disputados. 
+“**Sea como sea que salgamos, queremos demostrar que ser mujeres y tener una discapacidad no nos ha impedido dar nuestro máximo esfuerzo**”, añadió Armijos.
 
-En el último juego ante Macará **reapareció entre los convocados y estuvo en el banco de suplentes** los 90 minutos, luego de haber estado concentrado con la Selección de Ecuador en la doble fecha de eliminatorias al Mundial 2026. 
+Este equipo comenzó a formarse en octubre de 2023 gracias a un proyecto de la **Embajada de Francia en Ecuador** y la Fundación para la **Integración y Desarrollo de América Latina** (Fundación FIDAL). Desde entonces, se propusieron trascender las fronteras de Ecuador y convertirse en selección nacional.
 
-Fue parte del grupo de cuatro jugadores ‘invitados’ a entrenar por parte de Sebastián Beccacece, junto con el arquero **Alexis Villa (Independiente Juniors)**, Yaimar Medina (Independiente Del Valle) y Mateo Viera (Macará).  
+El equipo de **23 jugadoras** incluye mujeres que ya eran deportistas antes de sus amputaciones como a otras que recién patearon un balón.
 
-En el plantel hay 17 juveniles que entrenan con el primer plantel y esperan su oportunidad para debutar con la camiseta amarilla.
+Un sueño mutuo de la Selección de Ecuador de amputadas
+------------------------------------------------------
 
-Las caras nuevas de Barcelona SC
---------------------------------
+![](https://www.elcomercio.com/wp-content/uploads/2024/09/8e3a910e894b7d1c339e2f473f507f622fb048abminiw.jpg)
 
-No te pierdas - El Confesionario
---------------------------------
+**Sara Lucio Paredes**, una de las delanteras, recuerda cómo el equipo comenzó en el sueño de Armijos. Pronto se convirtió en una meta conjunta para lograr la inclusión de las personas con discapacidad en Ecuador.
 
-Trabajos en vía que une Manabí con Santa Elena comenzaron
-=========================================================
+“**No pensé que iba a volver a jugar nunca**”, relató la delantera, que ya practicaba fútbol antes de sufrir el accidente que la llevó a una amputación a los 28 años y añadió que, aunque con menos estabilidad, “**sientes mucha más pasión y energía con las muletas**”.
 
-El presidente Daniel Noboa y el ministro Roberto Luque constataron los primeros trabajos en la carretera.
----------------------------------------------------------------------------------------------------------
+“**Nos ha tocado sacrificar mucho más que a los equipos convencionales, pero estamos soñando con esa copa, y realmente creemos que podemos traerla a casa**”, concluyó Lucio Paredes.
 
-![Los trabajos en la vía La Entrada-Manta se realizarán en tres tramos](https://www.elcomercio.com/wp-content/uploads/2024/09/via-manta.jpg)
+Los cortes de luz en Ecuador obligan a anticipar y programar las compras en línea
+=================================================================================
 
-El Gobierno Nacional dio inició a los trabajos de **rehabilitación** de la vía E-15, que une a las provincias de Santa Elena con Manabí.
+La crisis eléctrica impacta la oferta de valor del comercio electrónico: estar disponible las 24 horas, los siete días de la semana.
+------------------------------------------------------------------------------------------------------------------------------------
 
-En el evento de inauguración realizado este martes 17 de septiembre de 2024 estuvieron presentes el Presidente de Ecuador, **Daniel Noboa**, y su ministro de Transporte, **Roberto Luque**.
+![Las ventas por comercio electrónico en Ecuador alcanzaron los US$4 mil millones en 2023. Foto: Pixabay](https://www.elcomercio.com/wp-content/uploads/2024/09/Diseno-sin-titulo-34.jpg)
+
+Ecuador enfrenta un desafío con los cortes de luz programados. Desde este 18 de septiembre de 2024, el país experimentará apagones nocturnos que también afectarán el comercio electrónico. Los consumidores deben anticiparse y programar sus compras en línea.
+
+Más noticias
+------------
+
+* [Ecuador busca incorporar nueva barcaza de generación eléctrica para evitar cortes de luz](https://www.elcomercio.com/actualidad/negocios/ecuador-busca-incorporar-nueva-barcaza-de-generacion-electrica-para-evitar-cortes-de-luz.html "Ecuador busca incorporar nueva barcaza de generación eléctrica para evitar cortes de luz")
+* [Cortes de luz en Ecuador dejan de ser de ocho horas](https://www.elcomercio.com/actualidad/ecuador/cortes-de-luz-en-ecuador-dejan-de-ser-de-ocho-horas.html "Cortes de luz en Ecuador dejan de ser de ocho horas")
+
+Esta situación impacta la oferta de valor del comercio electrónico, que se basa en estar disponible las 24 horas, los siete días de la semana.
+
+**Leonardo Ottati**, presidente de la **[Cámara de Comercio Electrónico de Ecuador](https://cece.ec/ "https://cece.ec/")**, señala que los cortes de luz no solo ocurrirán hoy, miércoles 18 de septiembre del 2024. La medida se extenderá por varios días, y esto crea incertidumbre en las compras en línea.
+
+Los sectores más afectados-añade- incluirán **restaurantes y servicios de entrega de alimentos**. Esto se debe a que durante las horas de la noche, muchas familias suelen decidir sus compras.
+
+Los cortes de luz también afectan la producción de bienes en horarios nocturnos, en los que dependen de la electricidad para funcionar.
+
+Anticipar y programar las compras en línea
+------------------------------------------
+
+La falta de energía puede interrumpir procesos y generar pérdidas significativas. Sin embargo, Ottati menciona que al ser cortes programados, los comercios pueden notificar a sus clientes con anticipación.
+
+Esto permite a los consumidores planificar sus compras y satisfacer sus necesidades antes del apagón. El impacto económico es considerable. Las ventas en línea en el 2023, según la plataforma de comercio electrónico [Pardux](https://www.pardux.com/articulos/el-comercio-electronico-en-america-latina-un-mercado-en-auge-para-2024/b?country=ec "https://www.pardux.com/articulos/el-comercio-electronico-en-america-latina-un-mercado-en-auge-para-2024/b?country=ec") alcanzaron cuatro mil millones de dólares. Esto es 40% más que el 2022.
+
+Las ventas por comercio electrónico en Ecuador que proyectó Pardux para este 2024 alcanzarían los 5,6 mil millones en 2024. Ahora con la crisis eléctrica, esta cifra pudiera cambiar.
+
+La colaboración entre consumidores y comerciantes será clave para mitigar el impacto de estos apagones en el comercio electrónico.
+
+Ángelo Preciado debutó con victoria en la Champions League
+==========================================================
+
+Ángelo Preciado es el primer ecuatoriano que suma tres puntos en la presente Champions League.
+----------------------------------------------------------------------------------------------
+
+![Ángelo Preciado ganó en su debut en la Champions League.](https://www.elcomercio.com/wp-content/uploads/2024/09/ENDRICK-PALMEIRAS-2024-09-18T131724.148.jpg)
+
+El **Sparta Praga de Ángelo Preciado** goleó en su regreso a la Champions League. Los checos vencieron 3-0 al RB Salzburgo este miércoles 18 de septiembre, en la primera fecha de la fase de liga.
+
+Preciado arrancó como titular en su primer partido en el torneo más importante a nivel de clubes. A pesar de la presión que rodea a la **Champions**, el ecuatoriano realizó un gran partido y se convirtió en una pieza clave para su equipo.
+
+### Más noticias:
+
+* [Ángelo Preciado debuta como tituar en la Champions League](https://www.elcomercio.com/deportes/futbol/angelo-preciado-debuta-como-tituar-champions-league.html "Ángelo Preciado debuta como tituar en la Champions League")
+* [La Champions League recibe a tres ecuatorianos](https://www.elcomercio.com/deportes/futbol/champions-league-ecuatorianos-debut-equipos.html "La Champions League recibe a tres ecuatorianos")
+* [Ecuador tendrá una cifra récord de representantes en la Champions League](https://www.elcomercio.com/deportes/ecuador-tendra-una-cifra-record-de-representantes-en-la-champions-league.html "Ecuador tendrá una cifra récord de representantes en la Champions League")
+
+Con esta goleada, el **Sparta Prag**a se coloca momentáneamente en el tercer puesto de la tabla de posiciones de la Champions League.
+
+Sparta Praga fue muy superior
+-----------------------------
+
+El **Sparta Praga** sorprendió desde el inicio del partido, abriendo el marcador a los dos minutos.
+
+La jugada comenzó con una recuperación de los locales, tras lo cual Lukas Haraslin remató al arco. Su disparo fue atajado, pero el portero dejó el rebote en el punto penal, donde **Kaan Kairinen** apareció para aprovecharlo y marcar el primer gol del partido.
+
+> ¡AL MINUTO! ¡SPARTA PRAGA LO GANA DESDE EL VESTUARIO CON KAIRINEN!  
+>   
+> 📺 Mirá la [#Champions](https://twitter.com/hashtag/Champions?src=hash&ref_src=twsrc%5Etfw) en [#DisneyPlus](https://twitter.com/hashtag/DisneyPlus?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/cPGPLOKpxy](https://t.co/cPGPLOKpxy)
+> 
+> — SportsCenter (@SC\_ESPN) [September 18, 2024](https://twitter.com/SC_ESPN/status/1836447646216593629?ref_src=twsrc%5Etfw)
+
+A los 14 minutos, **Ángelo Preciado** realizó un centro tras otra recuperación, pero, a pesar del buen pase del ecuatoriano, el delantero Víctor Olatunji no pudo impactar el esférico de la mejor manera.
+
+El Sparta Praga vio cómo les empataban el partido a los 16 minutos, pero la acción fue anulada por una posición adelantada.
+
+En el cierre del partido, el Sparta Praga aumentó la ventaja con un golazo de **Olatunji**, quien aprovechó un despeje y el mal posicionamiento de la defensa del Salzburgo para definir con una volea.
+
+> ¡QUÉ ASISTENCIA! Pelotazo largo de Panak para que Olatunji aproveche la siesta de la defensa de Salzburgo y sentencie el 2-0 del Sparta Praga en la [#CHAMPIONSxESPN](https://twitter.com/hashtag/CHAMPIONSxESPN?src=hash&ref_src=twsrc%5Etfw).  
+>   
+> 📺 Mirá la [#Champions](https://twitter.com/hashtag/Champions?src=hash&ref_src=twsrc%5Etfw) en [#DisneyPlus](https://twitter.com/hashtag/DisneyPlus?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/x9WfwL1k4f](https://t.co/x9WfwL1k4f)
+> 
+> — SportsCenter (@SC\_ESPN) [September 18, 2024](https://twitter.com/SC_ESPN/status/1836462994621894854?ref_src=twsrc%5Etfw)
+
+Ángelo **Preciado tuvo una gran primera mitad**, siendo una herramienta muy importante para el ataque de los locales.
+
+Victoria aplastante
+-------------------
+
+El Sparta Praga concretó la goleada a los 57 minutos.
+
+Olatunji recuperó el esférico tras un error de la defensa del Salzburgo y, después, **Qazmin Laci**, con una jugada al estilo de futsal, dejó desparramados a sus rivales para anotar el 3-0.
+
+> CURSO EN LA [#CHAMPIONSxESPN](https://twitter.com/hashtag/CHAMPIONSxESPN?src=hash&ref_src=twsrc%5Etfw): Cómo hacer pasar a tres jugadores de largo en un enganche, dictado por Qazim Laci.  
+>   
+> 📺 Mirá la [#Champions](https://twitter.com/hashtag/Champions?src=hash&ref_src=twsrc%5Etfw) en [#DisneyPlus](https://twitter.com/hashtag/DisneyPlus?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/gbO3c6HT5E](https://t.co/gbO3c6HT5E)
+> 
+> — SportsCenter (@SC\_ESPN) [September 18, 2024](https://twitter.com/SC_ESPN/status/1836468190798299303?ref_src=twsrc%5Etfw)
+
+Con el paso de los minutos, el dominio de los locales se hizo aún más evidente ante un tímido y frágil Salzburgo, que nunca encontró respuesta ante el gran juego de sus rivales.
+
+El **Sparta Praga** estuvo cerca de aumentar la ventaja, pero ya no estuvieron finos de cara al arco.
+
+Por el lado del ecuatoriano**, Ángelo Preciado** completó los 90 minutos y tuvo una gran actuación, consolidándose como uno de los mejores del partido.
+
+Conozca el cronograma de cortes de luz para este 18 de septiembre de 2024
+=========================================================================
+
+Empresas eléctricas publicarán los cronogramas de suspensión del servicio para este 18 y 19 de septiembre, debido a mantenimiento programado.
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+![El servicio de luz se suspenderá desde desde las 22:00 del miércoles 18 de septiembre, hasta las 06:00 del jueves 19, en períodos de 2 a 4 horas. Foto: Pexels](https://www.elcomercio.com/wp-content/uploads/2024/09/apagon.jpg)
+
+El mantenimiento del **Sistema Nacional de Transmisión** y de las **redes de distribución** de **energía eléctrica** se realizará desde las 22:00 de este miércoles 18 de septiembre hasta las 06:00 del jueves 19 de septiembre de 2024. Durante estas **ocho horas de trabajos** se realizarán **cortes de luz** en todo el Ecuador.
 
 ### Más noticias
 
-* [Guayas cuenta con financiamiento del Banco Mundial para adecentar vías rurales](https://www.elcomercio.com/actualidad/guayas-ya-tiene-financiamiento-para-adecentar-vias-rurales.html "Guayas cuenta con financiamiento del Banco Mundial para adecentar vías rurales")
-* [Propuesta de Daniel Noboa sobre bases militares extranjeras debe seguir varios pasos](https://www.elcomercio.com/actualidad/politica/propuesta-daniel-noboa-bases-militares-extranjeras.html "Propuesta de Daniel Noboa sobre bases militares extranjeras debe seguir varios pasos")
-* [Apagones bajarán la capacidad productiva a dos tercios ¿A cuánto ascienden las pérdidas?](https://www.elcomercio.com/actualidad/apagones-bajaran-la-capacidad-productiva-a-dos-tercios-a-cuanto-ascienden-las-perdidas.html "Apagones bajarán la capacidad productiva  a dos tercios ¿A cuánto ascienden las pérdidas?")
+* [Cortes de luz generan acciones en los servicios de salud](https://www.elcomercio.com/actualidad/ecuador/cortes-luz-generan-acciones-servicios-salud.html "Cortes de luz generan acciones en los servicios de salud")
+* [Ecuador busca incorporar nueva barcaza de generación eléctrica para evitar cortes de luz](https://www.elcomercio.com/actualidad/negocios/ecuador-busca-incorporar-nueva-barcaza-de-generacion-electrica-para-evitar-cortes-de-luz.html "Ecuador busca incorporar nueva barcaza de generación eléctrica para evitar cortes de luz")
+* [Así será el cronograma para los cortes de luz este 18 de septiembre, en Quito](https://www.elcomercio.com/actualidad/quito/cronograma-para-cortes-de-luz-18-septiembre-quito.html "Así será el cronograma para los cortes de luz este 18 de septiembre, en Quito")
 
-Los funcionarios constataron los primeros trabajos en el tramo de la carretera **La Entrada–Manta**.
+La **suspensión de energía** será de 2 a 4 horas por sectores para la ciudadanía. Estas franjas horarias se escogieron con un sentido de responsabilidad, según las autoridades. Además, con la finalidad de evitar una afección en el desarrollo de la vida cotidiana de los ecuatorianos.
 
-La rehabilitación vial se realizará en **139,7 kilómetros**, con una inversión que alcanza los **19,8 millones** de dólares.
+El cronograma de los cortes de luz estará publicado en la página web del **[Ministerio de Energía.](https://www.recursosyenergia.gob.ec/cronograma-de-desconexiones-18-y-19-de-septiembre-por-distribuidora/ "https://www.recursosyenergia.gob.ec/cronograma-de-desconexiones-18-y-19-de-septiembre-por-distribuidora/")** Los mismos serán establecidos por cada una de las nueve empresas distribuidoras del país.
 
-Los trabajos se ejecutarán por **tramos**:
+En el transcurso de la mañana y tarde de este miércoles, las **empresas públicas de electricidad** deben registrar los **cronogramas sectorizados** y los comunicarán a través de sus canales oficiales.
 
-* La Entrada – Puerto Cayo (66,27 km)
-* Puerto Cayo – San Mateo (67,46 km)
-* San Mateo – Manta (longitud 6,24 km)
+La **Empresa Eléctrica Quito** (EEQ), que brinda el servicio en las provincias de **Pichincha**, y parte de **Imbabura, Napo, Cotopaxi y Santo Domingo de los Tsáchilas**, publicó su cronograma antes del medio día de este miércoles.
 
-Según las previsiones del Gobierno, la obra debería estar lista para **mayo de 2025**.
+En este consta que los cortes de luz serán de 2 a 4 horas. [Revise su sector aquí](https://www.eeq.com.ec/documents/d/empresa-electrica-quito/18-y-19-09-2024 "https://www.eeq.com.ec/documents/d/empresa-electrica-quito/18-y-19-09-2024").
 
-Noboa: ‘la vieja política se robó, escondió y negoció el progreso del país’
----------------------------------------------------------------------------
+Asimismo, Cnel, [EmeNorte](https://drive.google.com/file/d/1rwfNe3Zh7oJiqw5bU8zQhoZPIIGaxglr/view "https://drive.google.com/file/d/1rwfNe3Zh7oJiqw5bU8zQhoZPIIGaxglr/view"), Elepcosa, [Empresa Eléctrica Ambato](https://www.eeasa.com.ec/suspensiones-programadas/ "https://www.eeasa.com.ec/suspensiones-programadas/"), [Empresa Eléctrica Ri](https://www.eersa.com.ec/site/wp-content/uploads/2020/09/CORTES_SEPTIEMBRE.pdf "https://www.eersa.com.ec/site/wp-content/uploads/2020/09/CORTES_SEPTIEMBRE.pdf")[o](https://www.eersa.com.ec/site/wp-content/uploads/2020/09/CORTES_SEPTIEMBRE.pdf "https://www.eersa.com.ec/site/wp-content/uploads/2020/09/CORTES_SEPTIEMBRE.pdf")[bamba](https://www.eersa.com.ec/site/wp-content/uploads/2020/09/CORTES_SEPTIEMBRE.pdf "https://www.eersa.com.ec/site/wp-content/uploads/2020/09/CORTES_SEPTIEMBRE.pdf"), [Empresa Eléctrica Azogues](https://www.eea.gob.ec/noticias/detalle/487/suspension-de-servicio-programada-para-el-dia-miercoles-18-y-jueves-19-de-septiembre/ "https://www.eea.gob.ec/noticias/detalle/487/suspension-de-servicio-programada-para-el-dia-miercoles-18-y-jueves-19-de-septiembre/"), [CentroSur](https://www.centrosur.gob.ec/interrupciones-programadas/ "https://www.centrosur.gob.ec/interrupciones-programadas/"), Empresa Eléctrica Regional Sur deben suplicar los horarios de los cortes de luz.
 
-Durante su intervención, el presidente Daniel Noboa afirmó que este proyecto beneficiará directamente a más de **530 000 habitantes**.
-
-Mientras que de forma indirecta, alrededor de **dos millones de personas** utilizarán esta vía para turismo y comercio.
-
-“Ambas provincias potencializarán su desarrollo y mejorarán la calidad de vida de la población”, dijo el jefe de Estado.
-
-Noboa aprovechó su discurso para referirse a los gobiernos anteriores.
-
-Aseguró que en estos lugares “aún impacta lo que la vieja política **se robó, escondió y negoció** a cuestas del progreso del país”.
-
-> [#Manabí](https://twitter.com/hashtag/Manab%C3%AD?src=hash&ref_src=twsrc%5Etfw) El presidente [@DanielNoboaOk](https://twitter.com/DanielNoboaOk?ref_src=twsrc%5Etfw) junto al ministro [@RobertoLuqueN](https://twitter.com/RobertoLuqueN?ref_src=twsrc%5Etfw) participaron en el inicio de los trabajos de rehabilitación de la vía E15, tramo La Entrada-Manta de 139,7 km. Tiene una inversión de USD 19.8 millones y beneficia directamente a más de 530 mil habitantes. [pic.twitter.com/XIDSrfxYOO](https://t.co/XIDSrfxYOO)
-> 
-> — Ministerio de Transporte y Obras Públicas 🇪🇨 (@ObrasPublicasEc) [September 17, 2024](https://twitter.com/ObrasPublicasEc/status/1836108801751015475?ref_src=twsrc%5Etfw)
-
-“Los políticos que fracasaron saben que ustedes **ya no comen cuento**, saben que ustedes ven el esfuerzo que hace este gobierno para salir del hueco en el que nos dejaron”, enfatizó.
-
-Por su parte, el ministro **Roberto Luque** intervino con un estilo similar.
-
-“No solo se trata de arrancar con obras nuevas, sino también destrabar **obras iniciadas e inconclusas** (…) como por ejemplo, la vía Manta-Rocafuerte, el Palacio Municipal de Portoviejo, o el paso lateral de Salinas”, mencionó.
-
-> 📹 | Con el mejoramiento de la vía La Entrada – Manta, reducimos los tiempos de traslado, promovemos el turismo e impulsamos el comercio de la zona. [#ElNuevoEcuadorResuelve](https://twitter.com/hashtag/ElNuevoEcuadorResuelve?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/k1BdgrzrTa](https://t.co/k1BdgrzrTa)
-> 
-> — Ministerio de Transporte y Obras Públicas 🇪🇨 (@ObrasPublicasEc) [September 17, 2024](https://twitter.com/ObrasPublicasEc/status/1836152577114677595?ref_src=twsrc%5Etfw)
-
-Este tipo de intervenciones han sido **recurrentes** durante los 10 meses que el nuevo gobierno va en el cargo.
-
-Paso lateral Santa Elena – Salinas
-----------------------------------
-
-En otro proyecto de rehabilitación vial, el Presidente y el Ministro recorrieron este lunes 16 de septiembre las obras que se realizan en el **paso lateral** Santa Elena – La Libertad – Salinas.
-
-En esta obra, el primer tramo de 14,5 kilómetros ya está culminado mientras que el segundo, de 7,15 kilómetros tiene un avance del 70%, detalló el Gobierno.
-
-El mantenimiento de este tramo tiene una inversión que supera los **23 millones de dólares**.
-
-Según Luque, “en tres meses el paso lateral de Salinas estará listo para abrir la temporada playera”.
-
-Un procesado tras balacera del fin de semana en Monte Sinaí ¿Qué delito investiga Fiscalía?
-===========================================================================================
-
-El procesado resultó herido durante la balacera en Monte Sinaí.
----------------------------------------------------------------
-
-![El procesado escapaba de un operativo militar en Monte Sinaí.](https://www.elcomercio.com/wp-content/uploads/2024/09/Diseno-sin-titulo-17.jpg)
-
-La **Fiscalía** procesa a una persona que fue herida en la **balacera** del fin de semana en **Monte Sinaí.**
-
-El enfrentamiento entre **militares** e individuos que se movilizaban en un automóvil dejó como resultado **tres muertos**, el domingo 15 de septiembre.
-
-### Más noticias:
-
-* [Muertos y heridos en Monte Sinaí, Guayaquil](https://www.elcomercio.com/actualidad/seguridad/monte-sinai-muertos-heridos.html "Muertos y heridos en Monte Sinaí, Guayaquil")
-* [Policía detiene a presunto implicado en asesinato de Directora de la Penitenciaría](https://www.elcomercio.com/actualidad/seguridad/policia-detiene-a-presunto-implicado-en-asesinato-de-directora-de-la-penitenciaria.html "Policía detiene a presunto implicado en asesinato de Directora de la Penitenciaría")
-
-Ese día, personal militar estaba en un **operativo de patrullaje y control**, cuando un grupo de personas trató de escapar al percatarse de su presencia.
-
-Durante la huida, dispararon a la Unidad de Control que, haciendo uso progresivo de la fuerza, repelió los disparos.
-
-El procesado tras la balacera en Monte Sinaí y el delito investigado por Fiscalía
----------------------------------------------------------------------------------
-
-Fiscalía procesa a José M. S., quien resultó herido, por su presunta participación en el delito de ataque y resistencia.
-
-Esto, luego de que fuera aprehendido por efectivos militares, durante un operativo de control de armas, el domingo.
-
-El procesado se trasladaba con otras personas a bordo de un vehículo, acompañado de varias motocicletas.
-
-Los ocupantes, fuertemente armados, evadieron la acción policial y huyeron del lugar.
-
-Tras la persecución y en un cruce de balas, tres personas fallecieron.
-
-Los servicios de emergencia trasladaron a José M. S. al Hospital de Monte Sinaí.
-
-El Juez de la Unidad de Flagrancia acogió el pedido de Fiscalía y dictó prisión preventiva contra José M. S..
-
-Dispuso la emisión de las boletas de encarcelamiento y su posterior traslado a la Penitenciaría del Litoral, en Guayaquil, una vez que sea dado de alta de la casa de salud en la que fue internado.
-
-El procesado quedó bajo resguardo policial.
-
-El plazo para el cierre de la instrucción fiscal será de treinta días.
-
-La Copa América Femenina 2025 se jugará en Ecuador
-==================================================
-
-La Copa América Femenina de 2025 aterrizará en Ecuador. La Conmebol lo confirmó y la cuenta regesiva está en marcha.
---------------------------------------------------------------------------------------------------------------------
-
-![Nayely Bolaños con la Selección de Ecuador Femenina en el 2024.](https://www.elcomercio.com/wp-content/uploads/2024/09/copa_america_1.jpg)
-
-Es oficial. La décima edición **Copa América Femenina 2025** se jugará en Ecuador. Así lo confirmaron las redes sociales oficiales de la competición este martes 17 de septiembre de 2024.
-
-“El 2025 es de ellas”, fue el mensaje con el que la **Confederación Sudamericana de Fútbol (Conmebol)** anunció al continente que este torneo se realizará por cuarta vez en Ecuador.
-
-### Más noticias:
-
-* [Miguel Parrales es el goleador de la segunda etapa de la Liga Pro](https://www.elcomercio.com/deportes/futbol/miguel-parrales-goles-ligapo-orense.html "Miguel Parrales es el goleador de la segunda etapa de la Liga Pro")
-* [¿Cuándo juega el Deportivo Quito el ascenso a Serie B?](https://www.elcomercio.com/deportes/futbol/cuando-juega-el-deportivo-quito-el-ascenso-serie-b.html "¿Cuándo juega el Deportivo Quito el ascenso a Serie B?")
-* [Antonio Valencia transfiere a uno de sus jugadores a Serbia](https://www.elcomercio.com/deportes/futbol/antonio-valencia-transfiere-uno-de-sus-jugadores-serbia.html "Antonio Valencia transfiere a uno de sus jugadores a Serbia")
-
-La primera vez que la **Copa América Femenina llegó a Ecuador** fue en el 2003, cuando compartió sede con Perú y Argentina, algo parecido a lo que sucederá en el 2026 con el Mundial que lo organizarán Estados Unidos, México y Canadá.
-
-La modalidad del torneo hizo que se dividan en tres grupos. El A se jugó en Lima y estuvo conformado por Perú, Bolivia y Chile; **el B en Loja con Colombia, Ecuador y Venezuela**; y el C en Salta con Argentina, Paraguay y Uruguay.
-
-En Ecuador destacaba la presencia de Wendy Villón, actual entrenadora de Barcelona Sporting Club, que anotó dos goles y fue una de las goleadoras de la competencia y tiene el récord de haber ganado cuatro de las cinco ediciones de la Superliga Femenina.
-
-A la fase final, jugada en Lima, se unió Brasil a las clasificadas **Argentina, Colombia y Perú**. Las brasileñas ganaron la Copa y extendieron su hegemonía continental.
-
-El dominio de Brasil es abrumador. Ganó ocho de las nueve ediciones. Solo en el 2006 Argentina, de local, le arrebató la corona a las brasileñas, hecho que en adelante no se volvió a repetir.
-
-El partido inaugural de la **Copa América Femenina 2025 será el sábado 12 de julio** y se cerrará el sábado 2 de agosto. Aún se tienen que confirmar las sedes.
-
-> El 2025 es de ELLAS 🤩 [pic.twitter.com/2RpR74yWk7](https://t.co/2RpR74yWk7)
-> 
-> — CONMEBOL Copa América™️ (@CopaAmerica) [September 17, 2024](https://twitter.com/CopaAmerica/status/1836186477669020025?ref_src=twsrc%5Etfw)
-
-Ecuador en la Copa América Femenina
------------------------------------
-
-Un tercer lugar y **dos cuartos puestos son las tres mejores** presentaciones de la Selección de Ecuador en la Copa América Femenina.
-
-La más destacada se dio en el 2014 con **Ecuador como anfitrió**n y solo fue superada por Brasil (campeón) y Colombia (vicecampeón).
-
-Los estadios Bellavista de Ambato; Jorge Andrade Cantos de Azogues; Alejandro Serrano Aguilar de Cuenca; La Cocha de Latacunga; **General Rumiñahui de Sangolquí; Reina del Cines de Loja**; Olímpico Atahualpa y Gonzalo Pozo Ripalda de Quito; y Olímpico de Riobamba fueron las sedes.
-
-En el grupo A la Tri se apoderó del segundo puesto con 6 puntos, mientras que las colombianas ganaron la zona de forma invicta con 12 puntos.
-
-Ecuador le **ganó 2-1 a Perú (Riobamba); 1-0 a Venezuela (Ambato)**; perdió con Colombia 0-1 (Ambato); y 1-2 ante Uruguay (Latacunga).
-
-En la fase final perdió 0-4 ante Brasil (Quito) y 2-1 contra Colombia. Sorpresivamente, derrotó 3-2 a Argentina en el Olímpico Atahualpa con tanto de **Carina Caicedo, Íngrid Rodríguez y Giannina Lattanzio**.
-
-El tercer puesto las clasificó al Mundial Canadá 2015. **Cayeron en el grupo C** y quedaron eliminadas tras perder 0-6 contra Camerún; 1-10 ante Suiza; y 0-1 frente a Japón.
-
-![Emily Arias (i) y Danna Pesantez con la Selección de Ecuador.](https://www.elcomercio.com/wp-content/uploads/2024/09/copa_america_2-1024x683.jpg)
-
-Emily Arias (i) y Danna Pesantez con la Selección de Ecuador.
-
-No te pierdas – El Confesionario
---------------------------------
-
-Mateo Villagómez es el primer automovilista ecuatoriano obtener un título en Europa
-===================================================================================
-
-El ecuatoriano Mateo Villagómez hizo historia para el país y se convirtió en el primero en obtener un título automovilístico en Europa.
----------------------------------------------------------------------------------------------------------------------------------------
-
-![Mateo Villagómez, pilot ecuatoriano, tras ganar el Campeonato FFSA GT4 de Francia.](https://www.elcomercio.com/wp-content/uploads/2024/09/Diseno-sin-titulo-2024-09-17T190620.305.jpg)
-
-Con apenas 22 años y un futuro prometedor, **Mateo Villagómez** se convirtió en el primer ecuatoriano en ganar un título automovilístico en Europa. El tricolor hizo historia al levantar el título en el Campeonato de FFSA GT4 de Francia.
-
-Después de 12 años de haberse iniciado con los vehículos, Villagómez llegó a una de las cumbres de su carrera y marcó un hito para el país. El corredor cruzó la meta en representación de la Escuela de Pilotos de la escudería **Aston Martin** y el equipo **Racing Spirit of Leman.**
-
-### Más noticias:
-
-* [Oscar Piastri se impone en el Gran Premio de Azerbaiyán de Fórmula 1](https://www.elcomercio.com/deportes/formula-1/oscar-piastri-formula-uno-azerbaiyan-formula1.html "Oscar Piastri se impone en el Gran Premio de Azerbaiyán de Fórmula 1")
-* [Lando Norris ganó el Gran Premio de Países Bajos de la Fórmula 1](https://www.elcomercio.com/deportes/formula-1/lando-norris-gano-gran-premio-paises-bajos-formula1.html "Lando Norris ganó el Gran Premio de Países Bajos de la Fórmula 1")
-* B[radley Salazar deja en alto a Ecuador en rally](https://www.elcomercio.com/deportes/braley-salazar-ecuador-baja-500.html "https://www.elcomercio.com/deportes/braley-salazar-ecuador-baja-500.html")
-
-Luego de su triunfo, Mateo Villagómez conversó con EL COMERCIO y se refirió al triunfo, el cual aún no termina de asimilar.”**Es muy significativo y representativo para el país. Estoy seguro que esto impactará y estoy orgulloso de poder generar eso**“, señaló.
-
-Más allá del campeonato, el piloto considera que aún no ha alcanzado su techo y **sueña alto.** Aunque dentro de los sueños intenta tener mesura, también es realista con respecto a sus capacidades y a lo que puede lograr.
-
-Mateo Villagómez apunta a las 24 horas de LeMans
-------------------------------------------------
-
-Tras haber conseguido el campeonato, el piloto ecuatoriano espera hacerse con más títulos, pero prefiere ir con calma. Para el 2025 apunta para subir de categoría hacia **GP3** y tener participaciones a nivel continental[.](https://es.wikipedia.org/wiki/F%C3%B3rmula_4 "https://es.wikipedia.org/wiki/F%C3%B3rmula_4")
-
-Aunque señala que el sueño de todo piloto es llegar hacia la Fórmula 1, el cual permanece, este señala que su carrera se ha enrumbado hacia otras direcciones. Pese a ello, existe un gran objetivo que son las **24 horas de LeMans**.
-
-Dado al tipo de **automóviles** en los que se ha desempeñado y que son **calificables** para la carrera, Villagómez ha adquirido experiencia y está en la capacidad de fijarse, a corto plazo, el estar en el evento. De darse su arribo hacia LeMans, el tricolor estaría en una de las carreras de resistencia más importantes del mundo y con más de **100 años de historia.**
-
-“Estamos buscando el camino ideal, pero sin duda sería en una categoría más importante, podría ser dentro de los GT. Tras el **Campeonato Nacional** podríamos ir a buscar uno europeo, pero en algún auto superior (…) Creo que entre todos los escenarios que se pueden plantear del año que viene, el menos probable es que repita categoría. **No me veo haciéndolo y creo que puedo hacer algo más grande**“, agrega desde Francia, país en el que reside desde hace ya más de tres años.
-
-Villagómez y la respuesta a un largo trajín
--------------------------------------------
-
-Su radicación en **Europa** y en el país galo obedece al desarrollo de su carrera y al haber podido dar un salto de calidad en esta. El piloto de origen quiteño dio el salto hacia el automovilismo europeo a los 19 años y se ha mantenido.
-
-Tras iniciarse a los 10 años como un niño en el **karting**, en un lapso de nueve a vincularse a la escena profesional. La pista del kartódromo de la mitad del mundo, de a poco, se fue transformando en nuevos escenarios y cuando tuvo **17 años** empezó a vincularse al automovilismo.
-
-Cuando se dio cuenta con su familia lo que era su hobby podía tener **resultados profesionales**, todos tomaron acción. A los 19 se trasladó hacia el ‘Viejo Continente’ y encontró una oportunidad en la Fórmula 4.
-
-A nivel de monoplazas se podía continuar el ascenso hacia la F1, el cual no se ha descartado, sin embargo, el fichar por **Aston Martin** devino en el momento que ahora lo encuentra a Villagómez. Le costó el cambio del tipo de automóvil debido a las diferentes condiciones que presenta cada uno, pero consiguió adaptarse.
-
-Con aptitudes polivalentes dentro del automovilismo y una trayectoria desde la niñez, **Mateo Villagóme**z le ha dado una nueva **alegría deportiva al país**. Los retos siguen pendientes, pero la edad y los resultados le favorecen e ilusionan dentro de un rubro en el que poco ha incursionado el Ecuador.
-
-Deportivo Quito no jugará en el Atahualpa ante Santa Elena
-==========================================================
-
-Deportivo Quito es uno de los 64 equipos que participarán en el Torneo de Ascenso Nacional organizado por la FEF.
------------------------------------------------------------------------------------------------------------------
-
-![Jugadores del Deportivo Quito en el Olímpico Atahualpa en el 2024.](https://www.elcomercio.com/wp-content/uploads/2024/09/quito_estadio_1.jpg)
-
-Deportivo Quito cuenta las horas para volver a la competencia oficial en el 2024. Jugará el **Torneo de Ascenso Nacional** organizado por la Federación Ecuatoriano de Fútbol (FEF).
-
-El lunes 16 de septiembre de 2024 la FEF realizó el sorteo de los treintaidosavos de final del referido certamen. El **Deportivo Quito es uno de los 64 equipos** que pelearán por los dos cupos disponibles para la Liga Pro Serie B en el 2025.
-
-### Más noticias:
-
-* [Técnico Universitario aprieta la tabla de posiciones de la Liga Pro](https://www.elcomercio.com/deportes/futbol/tabla-posiciones-fecha6-liga-pro.html "Técnico Universitario aprieta la tabla de posiciones de la Liga Pro")
-* [Antonio Valencia transfiere a uno de sus jugadores a Serbia](https://www.elcomercio.com/deportes/futbol/antonio-valencia-transfiere-uno-de-sus-jugadores-serbia.html "Antonio Valencia transfiere a uno de sus jugadores a Serbia")
-* [Moisés Caicedo cumple los seis requisitos para ser capitán del Chelsea](https://www.elcomercio.com/deportes/moises-caicedo-cumple-seis-requisitos-para-ser-capitan-chelsea.html "Moisés Caicedo cumple los seis requisitos para ser capitán del Chelsea")
-
-La participación del Quito no está alejada de la polémica, puesto que su inclusión fue de última hora y por una decisión administrativa de la FEF, que excluyó a **Independiente JFA y al Club Deportivo Patrón Mejía**, por no presentar los requisitos a tiempo.
-
-El Quito está convencido que el camino a la **Serie B en el 2024** puede concretarse y no quiere dejar nada al azar, por lo que presentó a Carlos Castro como su nuevo entrenador.
-
-Castro tiene experiencia por haber jugado en equipos como **Aucas, El Nacional y Barcelona Sporting Club**, entre otros, y haber defendido la camiseta de la Selección de Ecuador en siete oportunidades.
-
-El Deportivo Quito en Segunda Categoría
----------------------------------------
-
-La primera vez del Deportivo Quito en la **Segunda Categoría fue en 1967** en los primeros años del fútbol nacional.
-
-Luego de **50 años, ya en plena crisis económica e institucional**, regresó a esta categoría en 2017 y no volvió a subir más por lo que en el 2024 lo volverá a intentar.
-
-Sus intentos fallidos de **ascender no han alejado a su fiel hinchada** que no los abandona y está presente cuando juega en Quito o en sus alrededores.
-
-El Quito cambia de estadio
+Consejos para los usuarios
 --------------------------
 
-El sorteo del Ascenso Nacional determinó que el Deportivo Quito juegue contra Santa Elena Sporting Club. El compromiso de ida está programado para el 28 y 29 de septiembre.
+* Cargar dispositivos electrónicos con anticipación.
+* Evitar el uso de ascensores durante los horarios previstos de corte.
+* Mantener linternas o fuentes de luz alternativas a mano.
 
-La revancha será el 5 0 6 de octubre en la provincia de la costa ecuatoriana.
+  
 
-La ida tendrá que jugarse en Quito, **pero no podrá ser en el Olímpico Atahualpa** por la realización de un concierto programado con anterioridad.
+Cortes de luz provocan cambios de horario en partido de Liga de Quito
+=====================================================================
 
-Esto hace que los dirigentes tengan que salir a buscar un nuevo estadio y se barajan las opciones de ir al Gonzalo Pozo Ripalda, en el sur de Quito; **o migren a Chillo-Jijón a la casa de Independiente del Valle**.
+La Copa Ecuador modificó su programación debido a los cortes de luz que se realizarán a escala nacional.
+--------------------------------------------------------------------------------------------------------
 
-Así lo detalló José Pardo, presidente del club en entrevista concedida a Mach Deportes.
+![Liga de Quito vs. El Nacional fue reprogramado por los cortes de luz.](https://www.elcomercio.com/wp-content/uploads/2024/09/ENDRICK-PALMEIRAS-2024-09-18T124614.217.jpg)
 
-![Foto: Facebook Deportivo Quito.](https://www.elcomercio.com/wp-content/uploads/2024/09/quito_estadio_2-1024x683.jpg)
+La **crisis energética** que atraviesa Ecuador afectará el desarrollo del fútbol ecuatoriano. El primer torneo que ha cambiado sus horarios para evitar inconvenientes es la **Copa Ecuador**, organizada por la Federación Ecuatoriana de Fútbol.
 
-Foto: Facebook Deportivo Quito.
+El partido en cuestión es el enfrentamiento entre **Liga de Quito y El Nacional**, programado para el 25 de septiembre. Inicialmente, el cotejo estaba pactado para las 19:00, pero debido a los **cortes de luz** que se llevarán a cabo a escala nacional, se decidió optar por un nuevo horario.
 
-Treintaidosavos del Ascenso Nacional
+### Más noticias:
+
+* [Copa Ecuador definió los horarios para los cuartos de final](https://www.elcomercio.com/deportes/futbol/copa-ecuador-definio-los-horarios-para-los-cuartos-de-final.html "Copa Ecuador definió los horarios para los cuartos de final")
+* [Liga de Quito presentó nueva camiseta por aniversario](https://www.elcomercio.com/deportes/futbol/liga-de-quito-presento-nueva-camiseta-por-aniversario.html "Liga de Quito presentó nueva camiseta por aniversario")
+* [Ever Hugo Almeida sueña con volver a El Nacional](https://www.elcomercio.com/deportes/ever-hugo-almeida-el-nacional.html "Ever Hugo Almeida sueña con volver a El Nacional")
+
+“En atención a la medida emitida por el Gobierno nacional de suspender el servicio eléctrico a partir del 23 de septiembre y con el objetivo de garantizar la seguridad, el partido entre **Liga de Quito y El Nacional** será reprogramado”, informaron las autoridades.
+
+El n**uevo horario será a las 17:00** del mismo miércoles 25 de septiembre. El compromiso se disputará en el Estadio Rodrigo Paz Delgado.
+
+> Comunicado oficial – reprogramación de partido [pic.twitter.com/RQELC9rhgF](https://t.co/RQELC9rhgF)
+> 
+> — Copa Ecuador (@CopaEcuador) [September 17, 2024](https://twitter.com/CopaEcuador/status/1836190159542587472?ref_src=twsrc%5Etfw)
+
+Un partido entre dos campeones
+------------------------------
+
+Los cuartos de final de la **Copa Ecuador** tendrán un duelo muy entretenido, no solo por la historia y la rivalidad que existe entre Liga de Quito y El Nacional, sino porque son dos de los tres equipos que han ganado este torneo.
+
+El Nacional lo **ganó en su primera edición en 1970**, mientras que el ‘Rey de Copas’ lo obtuvo en la segunda edición, que se llevó a cabo en la temporada 2018/19.
+
+Este enfrentamiento será el penúltimo de los cuartos de final.
+
+Para acceder a esta fase, **Liga de Quito** dejó en el camino a Bonita Banana y Deportivo Cuenca, mientras que el ‘Bi-Tri’ eliminó a Baños Ciudad de Fuego y a Deportivo Santo Domingo.
+
+Precios de entradas
+-------------------
+
+**Liga de Quito** sacó una promoción para sus siguientes partidos de Liga Pro y Copa Ecuador, ya que ambos serán contra el mismo rival, El Nacional. 
+
+La oferta consiste en un 2×1: con la compra de un boleto, los aficionados podrán asistir tanto al partido de Liga Pro como al encuentro de **Copa Ecuador.**
+
+El primer partido, por el campeonato ecuatoriano, se jugará el sábado 21 de septiembre a las 16:30, mientras que el segundo enfrentamiento,  está programado para el miércoles 25 de septiembre.
+
+**Precios de las entradas:**
+
+* General: 16 dólares
+* Tribuna Oriental: 20 dólares
+* Tribuna Occidental: 22 dólares
+* Palcos: 40 dólares
+
+Fernado Alvarado es declarado culpable de peculado
+==================================================
+
+La Corte Nacional de Justicia tomó una resolución sobre Fernando Alvarado, exsecretario de comunicación de Rafael Correa.
+-------------------------------------------------------------------------------------------------------------------------
+
+![Fernando Alvarado, exsecretario de comunicación del gobierno de Rafael Correa.](https://www.elcomercio.com/wp-content/uploads/2022/01/5bce135645367.jpeg)
+
+La **Corte Nacional de Justicia** reinstaló la audiencia de apelación a la sentencia solicitada por la Fiscalía, en la cual se **ratificó inicialmente el estado de inocencia de cuatro procesados**, incluido el exsecretario de Comunicación, **Fernando Alvarado**, por presunto peculado.
+
+### Más noticias
+
+* [Caso Metástasis: Fiscalía hizo un pedido a la CNJ sobre los 37 procesados](https://www.elcomercio.com/actualidad/seguridad/caso-metastasis-fiscalia-hizo-pedido-cnj-37-procesados.html "Caso Metástasis: Fiscalía hizo un pedido a la CNJ sobre los 37 procesados")
+* [Fiscalía expone cómo operaba Leandro Norero en el caso Metástasis](https://www.elcomercio.com/actualidad/seguridad/fiscalia-expone-como-operaba-leandro-norero-caso-metastasis.html "Fiscalía expone cómo operaba Leandro Norero en el caso Metástasis")
+* [Caso Purga: CNJ resolvió pedido de sustitución de prisión preventiva para Pablo Muentes y otros](https://www.elcomercio.com/actualidad/seguridad/caso-purga-cnj-resuelve-pedido-sustitucion-prision-preventiva-pablo-muentes.html "Caso Purga: CNJ resolvió pedido de sustitución de prisión preventiva para Pablo Muentes y otros")
+
+Tras revisar el caso, la **Corte Nacional** resolvió declarar culpable de peculado a Fernando Alvarado, exsecretario de **Comunicación del gobierno de Rafael Correa**, y lo condenó a 5 años de prisión. Además, la misma condena fue impuesta a Patricio Pacheco. Por su parte, Carlos Bravo fue sentenciado a 1 año y 8 meses de prisión, y Pablo Yáñez a 1 año. Como reparación integral, se ordena el pago de **225 000 dólares**.
+
+> [#URGENTE](https://twitter.com/hashtag/URGENTE?src=hash&ref_src=twsrc%5Etfw) | [#CasoSecom](https://twitter.com/hashtag/CasoSecom?src=hash&ref_src=twsrc%5Etfw): Tribunal acepta el recurso de apelación de [#FiscalíaEc](https://twitter.com/hashtag/Fiscal%C3%ADaEc?src=hash&ref_src=twsrc%5Etfw), revoca la sentencia que les ratificó el estado de inocencia y condena a Fernando A., exsecretario de Comunicación, y Galo P. a 5 años de prisión, en calidad de coautores del delito de [#peculado](https://twitter.com/hashtag/peculado?src=hash&ref_src=twsrc%5Etfw). [pic.twitter.com/YWGfD9xyir](https://t.co/YWGfD9xyir)
+> 
+> — Fiscalía Ecuador (@FiscaliaEcuador) [September 18, 2024](https://twitter.com/FiscaliaEcuador/status/1836462660977635494?ref_src=twsrc%5Etfw)
+
+El fallo llega tras un proceso en el que la **Fiscalía argumentó que existían elementos suficientes para vincular** a los acusados con el delito de peculado.
+
+Los antecedentes del caso Secom que vincula a Fernando Alvarado
+---------------------------------------------------------------
+
+El 9 de abril, se presentó una apelación liderada por el **fiscal subrogante Wilson Toainga**, acompañado de abogados de la Procuraduría y Contraloría. Según su planteamiento, las pruebas presentadas durante el juicio **no fueron correctamente valoradas**, lo que afectó la eficiencia de la administración pública y permitió que el delito pasara inadvertido.
+
+Durante el análisis, la jueza **Caicedo** señaló que el **Tribunal revisó las pruebas nuevamente y determinó que existía un delito**. Esta evaluación llevó a que la Sala aceptara la apelación, lo que obliga al Tribunal de Apelación a reevaluar los hechos presentados en el juicio para tomar una nueva decisión.
+
+La primera resolución en 2020 de este caso dejó sobreseídos a **Fernando Alvarado y otros implicados**. A pesar de la absolución, el **juez Iván Saquicela emitió un voto contrario**, afirmando que sí había delito de peculado. Además, Alvarado fue procesado por incumplir una **decisión judicial,** aunque logró evitar la prisión preventiva tras **depositar una caución**.
+
+Los elementos recabados por Fiscalía
 ------------------------------------
 
-No te pierdas - El Confesionario
+Entre ellas constan: “**informes técnicos del dispositivo electrónico**, en los que consta que el procesado incumplió la medida judicial, ya que en el transcurso de dos meses generó más de **1 300 alertas**”, dijo la entidad investigadora.  
+
+También el informe técnico de rastreo, que verificó el recorrido del dispositivo desde la ciudad de Guayaquil hasta Quito. Además, el parte policial, que **señala que el 21 de octubre de 2018 se encontró el dispositivo electrónico del procesado** en medio de la maleza en la avenida Simón Bolívar, en el sector de Guápulo. 
+
+“A esto se sumaron los informes de inspección ocular técnica y de reconocimiento del lugar de los hechos, versiones y el registro de sus **últimos movimientos migratorios**, entre otros”, indicó la Fiscalía.  
+
+En cambio, la defensa de Alvarado considera que no se debería aplicar el juzgamiento en este caso. Dice que al declararle inocente en el proceso por peculado, se desvaneció el objetivo de aplicar la medida cautelar (uso de grillete).    
+
+¿Qué jugadores decidieron otra selección sobre Ecuador?
+=======================================================
+
+Junto a Juan Francisco Rossel, la Selección de Ecuador suma otros nombres que pudieron vestir su camiseta, pero no sucedió.
+---------------------------------------------------------------------------------------------------------------------------
+
+![Marcos Zambrano, Omar Carabalí y Juan Francisco Rossel, futbolistas que pudieron jugar por la Selección de Ecuador, pero eligieron otras selecciones.](https://www.elcomercio.com/wp-content/uploads/2024/09/9ddecb98-d84b-4746-a8a4-8378084f2847-scaled.jpeg)
+
+**Juan Francisco Rossel** fue el último futbolista que pudo jugar para la Selección de Ecuador, pero se decantó por otra escuadra. El volante de la Universidad Católica de Chile, sin embargo, no es el único y a él se le suman Marcos Zambrano y Omar Carabalí.
+
+Con tan solo 19 años, **Rossel** es una de las promesas del elenco cruzado y del balompié araucano y ya ha debutado al máximo nivel. Asimismo, este ya acumula 14 compromisos y un gol, pese a que en todos saltado desde el banco de suplentes.
+
+### Más noticias:
+
+* [Jugador rechaza a la Selección de Ecuador por Chile](https://www.elcomercio.com/deportes/seleccion-ecuador-chile-juan-francisco-rossel.html "Jugador rechaza a la Selección de Ecuador por Chile")
+* [La Selección de Ecuador tiene un récord positivo en el Monumental](https://www.elcomercio.com/deportes/eliminatorias/seleccion-ecuador-estadio-monumental-eliminatorias.html "La Selección de Ecuador tiene un récord positivo en el Monumental")
+* [Selección de Ecuador jugará contra Bolivia en Guayaquil](https://www.elcomercio.com/deportes/futbol/seleccion-de-ecuador-jugara-contra-bolivia-en-guayaquil.html "Selección de Ecuador jugará contra Bolivia en Guayaquil")
+
+Ante su creciente ascenso, el futbolista tuvo su primera rueda de prensa con la **Universidad Católica** y allí se refirió a su presente y sus aspiraciones. El volante sostuvo que desea representar a la Selección de Chile y también se refirió a la **Selección de Ecuador**[.](https://es.wikipedia.org/wiki/Selecci%C3%B3n_de_f%C3%BAtbol_de_Ecuador "https://es.wikipedia.org/wiki/Selecci%C3%B3n_de_f%C3%BAtbol_de_Ecuador")
+
+“**Hubo un acercamiento cuando tuve 17 años. Pude ir a Guayaquil para jugar con la Selección de Ecuador Sub-17, pero decidí jugar por Chile; además también me llamaron de la Sub-20 chilena, no tuve dudas (…) Mi sueño es estar con Chile en la absoluta y representar al país en la Copa América o el Mundial**“, manifestó Rossel.
+
+El futbolista es nacido en Chile y su padre es de allí, sin embargo, puede jugar por la Tri debido a la nacionalidad de su madre. Antes de su caso, **Marcos Zambrano** había sido el más reciente que había dejado de lado a la Tri.
+
+Marcos Zambrano, internacional con Estados Unidos y pasado con la Selección de Ecuador
+--------------------------------------------------------------------------------------
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/09/Snapinsta.app_448144232_1933571243739654_5376370850630739842_n_1080-1024x833.jpg)
+
+Marcos Zambrano surgía como uno de los jóvenes con potencial para la delantera de la Selección de Ecuador. El delantero realizó parte de su preparación formativa en Ecuador antes de marcharse al **Philadelphia Union** de la MLS.
+
+El futbolista guayaquileño llegó a realizar actividades a nivel juvenil con la Tri, sin embargo, al recibir el llamado de **Estados Unidos**, este cambió de decisión. El tricolor también cuenta con la nacionalidad estadounidense y, actualmente, representa al combinado sub-19.
+
+Zambrano se desempeña en el **Vitoria Guimaraes** de Portugal tras haber pasado por el **Benfica**. Antes también jugó por la Selección Sub-17 de Estados Unidos.
+
+Omar Carabalí empezó con la Tri, pero se cambió a Chile
+-------------------------------------------------------
+
+![Gabriel Omar Carabalí, jugador ecuatoriano que representó a la Selección de Chile.](https://www.elcomercio.com/wp-content/uploads/2024/09/Snapinsta.app_124026685_468184010823766_2173870248451029300_n_1080-1024x820.jpg)
+
+Otro de los futbolistas que han podido representar a la Selección de Ecuador, pero se han puesto la casaca de Chile es el arquero **Omar Carabalí.** A pesar de que este se formó en Colo Colo, sí estuvo a nivel de selecciones juveniles con el combinado ecuatoriano.
+
+Carabalí estuvo con la Selección de Ecuador Sub-20 en el Sudamericano de 2017 y en el Mundial del mismo año. Pese a ello, este no sumó minutos dado que el puesto bajo los tres palos estaba ocupado por José Gabriel Cevallos, el oro golero era **Giancarlos Terreros.**
+
+En la siguiente oportunidad que estuvo con una escuadra a nivel internacional, **Carabalí** lo hizo con Chile. El futbolista obtuvo su nacionalización en 2019 y disputó un preolimpico y eliminatorias sudamericanas con el plantel araucano.
+
+  
+
+Se proyectarán los videos de las violaciones a Gisèle Pelicot
+=============================================================
+
+Gisèle Pelicot pidió que sus hijos no estén presentes en el momento de la difusión del material gráfico.
+--------------------------------------------------------------------------------------------------------
+
+![Gisèle Pelicot a su salida de una jornada del juicio.](https://www.elcomercio.com/wp-content/uploads/2024/09/Diseno-sin-titulo-2024-09-18T122005.018.jpg)
+
+Los videos grabados por [Dominique Pelicot](https://www.elcomercio.com/actualidad/mundo/dominique-pelicot-drogar-violar-esposa-juzgado-francia.html "https://www.elcomercio.com/actualidad/mundo/dominique-pelicot-drogar-violar-esposa-juzgado-francia.html") sobre su propia mujer, Gisèle, a quien drogaba para violarla y ofrecerla a más de 50 hombres para que también la violaran, **serán retransmitidos** esta tarde del miércoles, 18 de septiembre de 2024, en la sala del juicio que se celebra en Aviñón (sur de Francia) **contra el principal acusado** y otros 50 hombres.
+
+### Más noticias
+
+* [En Francia un hombre drogaba a su esposa para que otros la violaran](https://www.elcomercio.com/actualidad/mundo/hombre-drogaba-esposa-otros-violaran.html "https://www.elcomercio.com/actualidad/mundo/hombre-drogaba-esposa-otros-violaran.html")
+* [Hija y nuera de mujer francesa sospechan que también fueron abusadas](https://www.elcomercio.com/actualidad/mundo/hija-nuera-mujer-francesa-sospechan-fueron-objeto-abusos.html "https://www.elcomercio.com/actualidad/mundo/hija-nuera-mujer-francesa-sospechan-fueron-objeto-abusos.html")
+
+El presidente del **Tribunal Penal de Vaucluse, Roger Arata**, pidió el permiso a Gisèle Pelicot, que se lo concedió, lo que dará lugar a uno de los **momentos más reveladores del proceso**, al mostrar las prácticas de Dominique Pelicot y del resto de acusados.
+
+Gisèle Pelicot pidió **que no se difundan las imágenes** y vídeos en la sala de retransmisión donde el público sigue la audiencia desde que empezó, el pasado 2 de septiembre, así como que tampoco sus hijos estén presentes en el momento de la difusión del material gráfico.
+
+“**Me siento humillada** desde que he entrado en esta sala, se me trata de alcohólica, hace falta tener mucha paciencia para escuchar lo que escucho”, añadió la mujer.
+
+La septuagenaria aseveró que los vídeos **podrán “atestiguar” que la violaban cuando estaba “en estado de coma”**, fruto de los fuertes somníferos que Dominique le administraba sin que ella lo supiese.
+
+Gisèle, acompañada por su hija Caroline visiblemente conmovida, dijo que “a estas alturas ya no hay perdón posible” y que se sintió “completamente humillada”.
+
+“**¿La violación es una cuestión de tiempo? ¿**De tres minutos, una hora? Yo estoy completamente consternada porque si esas personas (los acusados) ven a su hija, a su hermana en ese estado, ¿qué pensarían?”, alegó.
+
+¿Dónde hay toque de queda en Ecuador?
+=====================================
+
+Esta medida está relacionada con los cortes de luz, para fortalecer la seguridad ciudadana.
+-------------------------------------------------------------------------------------------
+
+![El Bloque de Seguridad reforzará acciones para reforzar la seguridad ciudadana durante el toque de queda. Foto: EFE](https://www.elcomercio.com/wp-content/uploads/2024/09/Diseno-sin-titulo-33.jpg)
+
+El toque de queda en **Ecuador**, decretado por el presidente **Daniel Noboa**, se implementará en seis provincias y un cantón específico a partir de la noche de este **18 de septiembre de 2024.**
+
+Más noticias
+------------
+
+* [Cortes de luz generan acciones en los servicios de salud](https://www.elcomercio.com/actualidad/ecuador/cortes-luz-generan-acciones-servicios-salud.html "Cortes de luz generan acciones en los servicios de salud")
+* [Así será el cronograma para los cortes de luz este 18 de septiembre, en Quito](https://www.elcomercio.com/actualidad/quito/cronograma-para-cortes-de-luz-18-septiembre-quito.html "Así será el cronograma para los cortes de luz este 18 de septiembre, en Quito")
+
+Esta medida está relacionada con los cortes de luz diferenciados por zonas y horarios de hasta cuatro horas, según lo anunció el Gobierno la mañana de hoy. El objetivo es [garantizar la seguridad de los ciudadanos](https://twitter.com/Presidencia_Ec/status/1836103438641565981 "https://twitter.com/Presidencia_Ec/status/1836103438641565981") durante el período sin electricidad.
+
+Las provincias donde rige el toque de queda son: **Guayas, Los Ríos, Manabí, Orellana, Santa Elena y El Oro.** Además, el **cantón Camilo Ponce Enríquez**, en Azuay, también estará bajo esta restricción.
+
+El toque de queda responde a la necesidad de controlar la movilidad y reducir riesgos asociados con la falta de iluminación en las calles durante la noche.
+
+El gobierno destaca que esta medida es parte del **estado de excepción** vigente en estas áreas, debido a la creciente violencia y actividad del crimen organizado.
+
+En este contexto, se desplegarán efectivos de la Policía Nacional y las Fuerzas Armadas para realizar patrullajes y garantizar el orden público.
+
+Es importante recordar que el toque de queda no es una medida nacional. Se aplica únicamente en las provincias mencionadas, **desde las 22:00** del miércoles 18 de septiembres **hasta las 06:00** del jueves 19.
+
+Durante este tiempo, se espera que los ciudadanos permanezcan en sus hogares para minimizar cualquier incidencia. Las autoridades han enfatizado que esta acción busca proteger a la población y asegurar que el corte eléctrico transcurra sin mayores problemas.
+
+Con esta estrategia, el gobierno ecuatoriano intenta abordar tanto la crisis eléctrica como los desafíos de seguridad que enfrenta el país en la actualidad.
+
+Al menos nueve fallecidos y 300 heridos por las nuevas explosiones en el Líbano
+===============================================================================
+
+La nueva oleada de deflagraciones se produjo apenas 24 horas después de que otra originada en miles de buscapersonas.
+---------------------------------------------------------------------------------------------------------------------
+
+![Ciudadanos llevan el ataúd de una de las personas que murieron el día anterior en explosiones de buscapersonas.](https://www.elcomercio.com/wp-content/uploads/2024/09/libano-fallecidos.jpg)
+
+El número de fallecidos por la nueva oleada de explosiones en walkie-talkies en el Líbano asciende ya a **nueve** y el de **heridos a más de 300**, informó el Ministerio de Salud Pública libanés, que da por casi finalizadas las operaciones de rescate. 
+
+### Más noticias
+
+* [Al menos un fallecido y 100 heridos en nueva oleada de explosiones en Líbano](https://www.elcomercio.com/actualidad/mundo/menos-fallecido-100-heridos-nueva-oleada-explosiones-libano.html "Al menos un fallecido y 100 heridos en nueva oleada de explosiones en Líbano")
+* [Explosión de aparatos de Hizbulá causa nueve muertos y 2 800 heridos en Líbano](https://www.elcomercio.com/actualidad/mundo/explosion-buscapersonas-hizbula-9-muertos-2-800-heridos-libano.html "Explosión de aparatos de Hizbulá causa nueve muertos y 2 800 heridos en Líbano")
+
+“El proceso de trasladar a los **heridos en ambulancias casi se ha completado**“, aseguró el Centro de Operaciones de Emergencia del departamento gubernamental en un comunicado. El último balance de víctimas en nueve fallecidos y por encima de 300 heridos.
+
+El primer ministro libanés, Najib Mikati, también confirmó en declaraciones a la prensa que el flujo de víctimas a los hospitales se ha ralentizado ya.
+
+“Durante mi visita hoy al **Ministerio de Sanidad** nos llegó la noticia de las nuevas explosiones y vimos con nuestros propios ojos cómo los hospitales operaron. Menos heridos están llegando a los hospitales, casi han parado (de llegar)”, afirmó el dirigente, al condenar este “crimen colectivo”.
+
+La Defensa Civil libanesa **informó en un comunicado** de que sus equipos participaron en la extinción de incendios desencadenados en decenas de inmuebles y vehículos en el oriental Valle de la Bekaa, el sur del país o los suburbios meridionales de Beirut.
+
+Solo en la **provincia meridional de Nabatieh** ardieron 60 viviendas y establecimientos, así como 15 coches y decenas de motocicletas a causa de las explosiones de “aparatos inalámbricos y lectores de huellas dactilares”, según su recuento.
+
+También se registraron **fuegos en menor medida** en las demarcaciones administrativas de la Bekaa (este), Baalbek-Hermel (este) y Sur del Líbano, así como en los suburbios meridionales de Beirut, todos ellos bastiones del grupo chií libanés Hizbulá.
+
+La nueva oleada de deflagraciones se produjo apenas **24 horas después de que otra originada** en miles de buscapersonas en manos de miembros de Hizbulá causara doce muertos y 2 800 heridos también en regiones controladas por el movimiento, según el último balance oficial.
+
+El ataque del martes fue **atribuido a Israel** y también causó víctimas civiles, entre ellas dos niños que perdieron la vida.
+
+Multas electorales ya se pueden pagar en línea, ¿y los cobros presenciales?
+===========================================================================
+
+Las multas electorales se pagan a través de varios canales.
+-----------------------------------------------------------
+
+![Las multas electorales se pueden pagar en línea.](https://www.elcomercio.com/wp-content/uploads/2024/09/pagos-en-linea-multas.jpg)
+
+Las **multas electorales** se pueden pagar en línea. El cobro en las dependencias del **Consejo Nacional Electoral (CNE)** varió[.](https://es.wikipedia.org/wiki/Consejo_Nacional_Electoral_(Ecuador) "https://es.wikipedia.org/wiki/Consejo_Nacional_Electoral_(Ecuador)")
+
+El organismo electoral habilitó el sistema de cobros para que la comunidad pueda ponerse al día con los pagos generados de **procesos electorales**.
+
+### Más noticias
+
+* [Plazo para pagar multas electorales en el CNE termina](https://www.elcomercio.com/actualidad/politica/plazo-pagar-multas-electorales-cne.html)
+* [La inscripción para elecciones 2025 empieza con incumplimientos](https://www.elcomercio.com/actualidad/politica/inscripcion-elecciones-2025-impedimentos-brechas.html)
+* [CNE aprobó la convocatoria para las elecciones 2025](https://www.elcomercio.com/actualidad/politica/cne-aprobo-convocatoria-elecciones-2025.html "CNE aprobó la convocatoria para las elecciones 2025")
+* [¿Cuándo estarán en firme las candidaturas para las elecciones de 2025?](http://¿Cuándo estarán en firme las candidaturas para las elecciones de 2025?)
+* [CNE estableció las reglas para el exit poll en las elecciones generales 2025](https://www.elcomercio.com/actualidad/politica/cne-reglamento-exit-poll-elecciones-generales-2025.html "CNE estableció las reglas para el exit poll en las elecciones generales 2025")
+
+> Presta atención 📣  
+>   
+> Accede a los [#ServiciosEnLíneaCNE](https://twitter.com/hashtag/ServiciosEnL%C3%ADneaCNE?src=hash&ref_src=twsrc%5Etfw) 💻y [#PagaTusMultasEnLínea](https://twitter.com/hashtag/PagaTusMultasEnL%C3%ADnea?src=hash&ref_src=twsrc%5Etfw).  
+>   
+> 🚩¡Desde el 16 de septiembre no realizamos cobros en nuestras oficinas!  
+>   
+> Infórmate ⬇️ [pic.twitter.com/70s0o4mg52](https://t.co/70s0o4mg52)
+> 
+> — cnegobec (@cnegobec) [September 17, 2024](https://twitter.com/cnegobec/status/1836162107357778170?ref_src=twsrc%5Etfw)
+
+Pagos en línea de las multas electorales
+----------------------------------------
+
+El **CNE** habilitó el sistema para los cobros virtuales. Estos se pueden hacer ya desde este lunes, 16 de septiembre de 2024.
+
+Para consultar los rubros por pagar se debe ingresar a la página del [CNE](https://www.cne.gob.ec/). Los incumplimientos pueden derivar en procesos coactivos.
+
+Las multas corresponden a temas definidos en el **Código de la Democracia** durante procesos electorales, como no sufragar y no haber justificado.
+
+* **Por no votar:** 10% del salario básico unificado (46 dólares)
+* **Por no capacitarse para ser integrante de junta:** 10% del salario básico (46 dólares)
+* **Por no integrar una junta receptora del voto:** 15% del salario básico (69 dólares)
+* **Abandono de mesa:** de 11 a 20 salarios básicos (de 5 060 a 9 200)
+
+¿Cómo pagar las multas?
+-----------------------
+
+Los **pagos en línea** se realizan con tarjeta de débito y, además, otras formas de pago que implemente la red de servicios Facilito.
+
+Si es en efectivo, las personas pueden acudir a bancos y cooperativas a escala nacional, comercios minoristas, puntos propios y entidades aliadas a la red Facilito. Esta tiene una cobertura en 92 instituciones financieras y **2 635 puntos de pago autorizados**.
+
+Desde las 12:30 del pasado viernes, 13 de septiembre de 2024, ya no se receptan pagos en las dependencias del **CNE**.
+
+El calendario electoral
+-----------------------
+
+El próximo proceso **electoral** en Ecuador se desarrollará el 9 de febrero de 2025. El calendario electoral sigue corriendo.
+
+El 12 de septiembre se lanzó la convocatoria oficial de las elecciones 2025. Con ese paso, desde el 13 del mismo mes hasta el 2 de octubre se pueden inscribir las **candidaturas**.
+
+El 30 de diciembre de 2024, luego del proceso de impugnaciones, se conocerá la lista definitiva de candidatos. Esta incluirá los **binomios** presidenciales, los aspirantes a **asambleístas** y parlamentarios andinos.
+
+Un incendio forestal se produjo en El Placer, centro de Quito
+=============================================================
+
+Durante el mes de septiembre, Quito ha tenido varios incendios forestales en diferentes sectores.
+-------------------------------------------------------------------------------------------------
+
+![El incendio forestal se produjo a tempranas horas de este 18 de septiembre.](https://www.elcomercio.com/wp-content/uploads/2024/09/Incendio-foretal-El-Placer.jpg)
+
+Un incendio forestal se produjo la mañana de este 18 de septiembre en El Placer, centro de Quito. El **Cuerpo** de **Bomberos** informó que su personal se trasladó hasta el lugar y que ya están combatiendo las llamas.
+
+Más noticias
+------------
+
+* [Nuevo incendio forestal en el sector La Toglla, en el cerro Ilaló de Quito](https://www.elcomercio.com/actualidad/nuevo-incendio-forestal-en-el-sector-la-toglla-en-el-cerro-ilalo-de-quito.html "Nuevo incendio forestal en el sector La Toglla, en el cerro Ilaló de Quito")
+* [Incendio forestal en Colinas del Norte, Quito](https://www.elcomercio.com/actualidad/quito/incendio-forestal-colinas-norte-quito.html "Incendio forestal en Colinas del Norte, Quito")
+* [En la av. Simón Bolívar se registra un incendio forestal, en Quito](https://www.elcomercio.com/actualidad/quito/av-simon-bolivar-incendio-forestal-quito.html "En la av. Simón Bolívar se registra un incendio forestal, en Quito")
+
+Reporte del incendio forestal en El Placer, centro de Quito
+-----------------------------------------------------------
+
+Según el ECU 911, la alerta del **incendio forestal** ingresó a las 10:44 de este miércoles 18 de septiembre.
+
+Desde la **Sala Operativa** del centro zonal 2-9 se coordinó de manera inmediata con el **Cuerpo** de **Bomberos** de **Quito** para que acudan al sitio del **incendio forestal** y brinden la ayuda necesaria.
+
+El ECU 911 detalló que hasta las 11:25 no hay personas heridas ni **fallecidas** por el **incendio forestal**.
+
+Las sanciones a quienes causen incendios forestales
+---------------------------------------------------
+
+Quienes provocan **incendios forestales** pueden enfrentar multas de hasta 34 500 dólares, de acuerdo con la ordenanza Verde–Azul, que regula el control y uso del fuego.
+
+Incendio forestal en El Panecillo
+---------------------------------
+
+El jueves 12 de septiembre se registró un incendio forestal en el costado sur de El Panecillo, en el centro de Quito.
+
+Ante esta emergencia, el ECU 911 coordinó de inmediato la asistencia con el Cuerpo de Bomberos para controlar el incendio. Desde las cámaras de vigilancia, el ECU911 observó abundante humo en el área.
+
+El Cuerpo de Bomberos informó que 80 efectivos y 27 vehículos trabajaron en la zona para controlar el fuego, luego del incendio forestal en El Panecillo.
+
+¿Por qué se producen los incendios forestales en Quito?
+-------------------------------------------------------
+
+Para Christian Rivera, experto en riesgos, cuando hay radiación extremadamente alta no hay humedad y se incrementa la velocidad de los vientos. Esto provoca que los incendios forestales se propaguen rápidamente. Acota que el 99% de incendios forestales son provocados por el ser humano, el restante es de origen natural.
+
+Incendios forestales accidentales
+---------------------------------
+
+Los incendios accidentales se dan por diferentes razones:
+
+* Quemas agrícolas: es cuando las personas recogen los restos de la siembra para quemar, porque no tiene cómo desechar, o creen que con esto se mejora el terreno.
+* Quema de basura: esto ocurre más en zonas rurales o urbanas de difícil acceso.
+* Fogatas: esto pasa cuando las personas van a acampar en las montañas y hacen fogatas.
+
+Ángelo Preciado debuta como tituar en la Champions League
+=========================================================
+
+Un nuevo ecuatoriano se suma al exclusivo listado de jugadores que han disputado la Champions League.
+-----------------------------------------------------------------------------------------------------
+
+![Ángelo Preciado arranca como titular en su primer partido por la Uefa Champions League.](https://www.elcomercio.com/wp-content/uploads/2024/09/ENDRICK-PALMEIRAS-2024-09-18T112231.275.jpg)
+
+La nueva edición de la **Uefa Champions League** traerá alegrías a Ecuador, gracias a la gran cantidad de compatriotas que participarán en el torneo. El primero en hacerlo será **Ángelo Preciado**, quien defenderá los colores del Sparta Praga de República Checa.
+
+El lateral ecuatoriano, aunque ya cuenta con experiencia en torneos internacionales en Europa, jugará por **primera vez** en la Champions League, y para alegría de todos, lo hará como **titular** en su primer compromiso.
+
+### Más noticias:
+
+* [La Champions League recibe a tres ecuatorianos](https://www.elcomercio.com/deportes/futbol/champions-league-ecuatorianos-debut-equipos.html "La Champions League recibe a tres ecuatorianos")
+* [Ecuador tendrá una cifra récord de representantes en la Champions League](https://www.elcomercio.com/deportes/ecuador-tendra-una-cifra-record-de-representantes-en-la-champions-league.html "Ecuador tendrá una cifra récord de representantes en la Champions League")
+* [Bayern Múnich marca récord en Champions con supergoleada](https://www.elcomercio.com/deportes/futbol/bayern-munich-record-champions-dinamo-zagreb.html "Bayern Múnich marca récord en Champions con supergoleada")
+
+Preciado **formará parte del once inicial del Sparta Praga**, que recibirá este miércoles 18 de septiembre al RB Salzburgo de Austria, a las 11:45, en la primera fecha de la fase de grupos del torneo.
+
+**Ángelo Preciado merecía jugar en la Champions**
+-------------------------------------------------
+
+**Ángelo Preciado no la tuvo nada fácil para jugar la Champions League** , ya que esta temporada el Sparta Praga tuvo que superar tres rondas previas para lograr la clasificación al torneo final.
+
+La travesía comenzó ante el Shamrock Rovers, donde el ecuatoriano no participó en ninguno de los dos partidos.
+
+Su primera titularidad llegó en el enfrentamiento contra el **FCSB** de Rumania. En el partido de ida, empataron 1-1, y en la vuelta, ganaron 3-2, lo que les permitió avanzar a la fase de clasificación.
+
+En la última etapa antes de entrar al torneo, el **Sparta Praga** se enfrentó al Malmö de Suecia. Preciado fue titular en la victoria 0-2 en el partido de ida, dejando una actuación destacada. Aunque en la vuelta comenzó como suplente, al ingresar, repartió una **asistencia** que contribuyó a la victoria 2-0.
+
+> 1️⃣1️⃣ SESTAVA | Cestu ligovou fází [@ChampionsLeague](https://twitter.com/ChampionsLeague?ref_src=twsrc%5Etfw) zahájíme v tomto složení 🙌  
+>   
+> Ze zdravotních důvodů dnes nenastoupí Asger Sørensen a Elias Cobbaut ℹ️ [#acsparta](https://twitter.com/hashtag/acsparta?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/GXNGeTcvbC](https://t.co/GXNGeTcvbC)
+> 
+> — AC Sparta Praha (@ACSparta\_CZ) [September 18, 2024](https://twitter.com/ACSparta_CZ/status/1836427884682187182?ref_src=twsrc%5Etfw)
+
+Calendario de Ángelo Preciado en Champions League
+-------------------------------------------------
+
+ **Fecha 1**: Salzburgo (18 de septiembre / 11:45)
+
+**Fecha 2:** Stuttgart (1 de octubre / 11:45)
+
+**Fecha 3:** Manchester City (23 de octubre / 14:00)
+
+**Fecha 4:** Brest (6 de noviembre / 14:00)
+
+**Fecha 5:** Atlético de Madrid (26 de noviembre / 11:45)
+
+**Fecha 6:** Feyenoord (11 de diciembre / 14:00)
+
+**Fecha 7:** Inter de Milán (22 de enero / 14:00)
+
+**Fecha 8:** Bayer Leverkusen (29 de enero / 14:00)  
+
+Donald Trump dice que recibió una ‘llamada muy amable’ de Kamala Harris
+=======================================================================
+
+"Solo los presidentes importantes reciben disparos", afirmó Donald Trump.
+-------------------------------------------------------------------------
+
+![El expresidente de EE.UU. Donald Trump, en una fotografía de archivo.](https://www.elcomercio.com/wp-content/uploads/2024/09/donald-trump-efe-septiembre.jpg)
+
+Donald Trump dijo que recibió una **“llamada muy amable”** de su rival demócrata, la vicepresidenta [Kamala Harris](https://www.elcomercio.com/actualidad/mundo/jefa-campana-harris-advierte-retorica-de-trump.html "https://www.elcomercio.com/actualidad/mundo/jefa-campana-harris-advierte-retorica-de-trump.html"), para preocuparse por su estado tras el **segundo intento de asesinato** que sufrió el domingo.
+
+### Más noticias
+
+* [Donald Trump lanza video contra Kamala Harris con el tema Juliana qué mala eres](https://www.elcomercio.com/actualidad/mundo/trump-lanza-video-kamala-harris-evoca-tema-salsa-juliana-mala-eres.html "Donald Trump lanza video contra Kamala Harris con el tema Juliana qué mala eres")
+* [Kamala Harris y Donald Trump son respaldados por varias celebridades](https://www.elcomercio.com/actualidad/mundo/kamala-harris-donald-trump-son-respaldados-varias-celebridades.html "Kamala Harris y Donald Trump son respaldados por varias celebridades")
+* [Billie Eilish y Finneas O’Connell anuncian que votarán a favor de Kamala Harris](https://www.elcomercio.com/tendencias/billie-eilish-finneas-oconnell-anuncian-votaran-kamala-harris.html "Billie Eilish y Finneas O’Connell anuncian que votarán a favor de Kamala Harris")
+
+“Recibí una llamada muy amable de Kamala”, aseguró el magnate neoyorquino durante una charla moderada por la **gobernadora de Arkansas**, la republicana Huckabee Sanders, en Míchigan, un estado decisivo para las elecciones de noviembre.
+
+El público abucheó cuando Trump pronunció el nombre de la vicepresidenta, pero este insistió en que **Harris fue “muy amable”.**
+
+Las palabras del republicano contrastan con las acusaciones que lanzó el lunes, cuando responsabilizó a “las mentiras” y la **“retórica comunista”** de Harris por su segundo intento de asesinato.
+
+Trump sugirió que los **países extranjeros molestos** con sus promesas arancelarias podrían estar detrás del **intento de magnicidio**. “Luego se preguntan por qué me disparan. **Solo los presidentes importantes reciben disparos**“, afirmó.
+
+Horas antes, Harris reveló que llamó a Trump y recalcó que “no hay lugar para la violencia política” en Estados Unidos.
+
+Durante una conversación con la **Asociación de Periodistas Afroamericanos**, la vicepresidenta expresó su **confianza con el Servicio Secreto**, agencia que se encuentra en el punto de mira por los dos intentos de asesinato que ha sufrido Trump en dos meses.
+
+Y advirtió de que los republicanos pusieron en riesgo la **seguridad de los migrantes** al difundir la mentira de que los haitianos se comen las mascotas de los vecinos en Springfield (Ohio), un bulo que ha disparado las amenazas contra esta comunidad.
+
+“**No todo el mundo tiene un Servicio Secreto**. Hay demasiada gente que no se siente segura en nuestro país”, dijo.
+
+En un evento de campaña este martes en Wisconsin, el candidato republicano para la Vicepresidencia, J.D. Vance, responsabilizó de nuevo a los **demócratas por el intento de asesinato a Trump** y volvió a criticar a los migrantes haitianos en Springfield.
+
+El ‘número dos’ de Harris, el demócrata Tim Walz, **respondió en un mitin en Carolina del Norte** que Vance se dedica a “inventar historias”.
+
+Un hombre fue arrestado el domingo portando un rifle de asalto en las inmediaciones del campo de golf en West Palm Beach (Florida) donde se encontraba Trump y que presuntamente quería acabar con la vida del expresidente.
+
+Es la segunda intentona de magnicidio que sufre el republicano en lo que va de campaña electoral después del ocurrido en julio en un mitin en Butler (Pensilvania), donde un **hombre disparó contra Trump** hiriéndole en una oreja.
+
+Los errores en el operativo de seguridad de Trump derivó en la dimisión en julio de la entonces directora del Servicio Secreto, Kimberly Cheatle.
+
+El presidente de Estados Unidos, Joe Biden, llamó el lunes a Trump para interesarse por su estado y reivindicó ante la prensa que el **Servicio Secreto** necesita más fondos del Congreso para mejorar sus **labores de seguridad y protección.**
+
+Independiente del Valle rechazó ofertas millonarias por Yaimar Medina
+=====================================================================
+
+La cantera de los 'Rayados' del Valle sigue sacando jugadores de grandísimo nivel. Uno de ellos es Yaimar Medina.
+-----------------------------------------------------------------------------------------------------------------
+
+![Yaimar Medina en un partido con Independiente del Valle en la Liga Pro 2024.](https://www.elcomercio.com/wp-content/uploads/2024/09/ENDRICK-PALMEIRAS-2024-09-18T111448.401.jpg)
+
+**Yaimar Medina** es el nuevo talento de **Independiente del Valle** que atrae todas las miradas, ya que en la presente temporada ha demostrado ser uno de los jóvenes más prometedores del plantel.
+
+El joven extremo, quien debutó oficialmente en la primera división en 2022 a los 18 años, ha ganado regularidad en el equipo durante la temporada 2023. Sin embargo, recién en 2024, con casi 20 años, cuando realmente brilló, gracias a su excelente **golpeo de balón** y sus habilidades ofensivas.
+
+### Más noticias:
+
+* [Yaimar Medina brilla en la victoria de Independiente del Valle](https://www.elcomercio.com/deportes/futbol/yaimar-medina-brilla-en-victoria-de-independiete-del-valle.html "Yaimar Medina brilla en la victoria de Independiente del Valle")
+* [Independiente del Valle sufrió, pero sigue en la Copa Ecuador](https://www.elcomercio.com/deportes/futbol/cuniburo-independiente-valle-copa-ecuador.html "Independiente del Valle sufrió, pero sigue en la Copa Ecuador")
+* [Independiente del Valle rechazó oferta de Europa por Yaimar Medina](https://www.elcomercio.com/deportes/futbol/independiente-del-valle-rechazo-oferta-de-europa-por-yaimar-medina.html "Independiente del Valle rechazó oferta de Europa por Yaimar Medina")
+
+Medina es un jugador crucial para Javier Gandolfi, el director técnico de Independiente del Valle. Aunque al inicio de la temporada su participación fue limitada, en el segundo **semestre se consolidó como titular,** contribuyendo significativamente con varios goles.
+
+Se rechazaron millones por Yaimar Medina
+----------------------------------------
+
+A medida que avanza la temporada, Yaimar Medina no solo se ha establecido como uno de los mejores jugadores de Independiente del Valle, sino también como una figura clave en el fútbol ecuatoriano.
+
+Esto ha atraído la atención de varios clubes, que han presentado ofertas por él. Sin embargo, el club ha decidido rechazar dichas propuestas debido a la importancia del jugador en esta etapa del torneo.
+
+Santiago Morales, gerente del equipo, declaró en una entrevista para Machdeportes: “Tuvimos una oferta del Genk de Bélgica y una propuesta en firme del fútbol árabe por Yaimar Medina, pero decidimos rechazar esas ofertas y optar por lo futbolístico”.
+
+Esta decisión es comprensible, ya que Medina se ha convertido en uno de los goleadores del equipo, aportando seis puntos valiosos para mantener a los ‘Rayados’ en la pelea por la etapa.
+
+Números de Yaimar Medina
+------------------------
+
+En la presente temporada, Yaimar ha disputado 22 partidos entre la Liga Pro, la Copa Libertadores y la Copa Ecuador.
+
+El extremo ha anotado cinco goles, todos en el campeonato ecuatoriano, y cuatro de ellos en la presente etapa. Además, suma tres asistencias, lo que resulta en una producción ofensiva de ocho anotaciones en poco más de 1 200 minutos de juego. Esto significa que participa en un gol cada 154 minutos.
+
+Gracias a su gran rendimiento, recibió su primera convocatoria a la Selección de Ecuador por parte del director técnico Sebastián Beccacece.
+
+Medina debutó en la derrota 1-0 ante Brasil en las eliminatorias sudamericanas el pasado 6 de septiembre, jugando un total de cinco minutos.
+
+Entérate cómo liberar espacio en WhatsApp  
+===========================================
+
+Liberación de espacio en WhatsApp: trucos efectivos para gestionar tu aplicación de mensajería favorita.
+--------------------------------------------------------------------------------------------------------
+
+![Trucos para liberar espacio en WhatsApp y optimiza el rendimiento de tu dispositivo. Foto: Freepik.](https://www.elcomercio.com/wp-content/uploads/2024/09/whatsapp-almacenamiento.jpg)
+
+**WhatsApp es una de las aplicaciones de mensajería más populares**, con miles de millones de usuarios activos mensuales. Sin embargo, con el tiempo, la aplicación puede **llenarse de mensajes, archivos multimedia y datos que ocupan espacio** en tu dispositivo. A continuación, algunos trucos efectivos para **liberar espacio en WhatsApp**. 
+
+**Elimina chats innecesarios** 
+-------------------------------
+
+![Foto: Captura de pantalla.](https://www.elcomercio.com/wp-content/uploads/2024/09/whatsapp-almacenamiento-1-1024x683.jpg)
+
+Foto: Captura de pantalla.
+
+La primera forma de **liberar espacio**, de acuerdo con la [empresa de mensajería](https://faq.whatsapp.com/5503646096388294/?locale=es_LA&cms_platform=android "https://faq.whatsapp.com/5503646096388294/?locale=es_LA&cms_platform=android"), es **eliminar chats que ya no son necesarios**. WhatsApp ofrece la opción de **eliminar chats individuales o grupales**. Para hacerlo, sigue estos pasos: 
+
+* Abre [WhatsApp](https://www.whatsapp.com/channel/0029VaRu8WFJ3jutKNlE4e3a "https://www.whatsapp.com/channel/0029VaRu8WFJ3jutKNlE4e3a") y selecciona el **chat que deseas eliminar**. 
+
+* Presiona el icono de editar en la esquina superior derecha. 
+
+* Selecciona “Eliminar chat” y confirma. 
+
+**Elimina archivos multimedia** 
 --------------------------------
+
+![Foto: Captura de pantalla.](https://www.elcomercio.com/wp-content/uploads/2024/09/whatsapp-almacenamiento-5-1024x683.jpg)
+
+Foto: Captura de pantalla.
+
+Los **archivos multimedia**, como fotos y videos, pueden ocupar **mucho espacio** en tu dispositivo. Para eliminarlos, sigue estos pasos: 
+
+* Abre WhatsApp y selecciona el chat que contiene los **archivos multimedia** que deseas eliminar. 
+
+* Presiona el icono de “archivos multimedia” en la esquina inferior izquierda. 
+
+* Selecciona los archivos que deseas eliminar y presiona “Eliminar”. 
+
+**Utiliza la función de limpieza de WhatsApp** 
+-----------------------------------------------
+
+![Foto: Captura de pantalla.](https://www.elcomercio.com/wp-content/uploads/2024/09/whatsapp-almacenamiento-2-1024x683.jpg)
+
+Foto: Captura de pantalla.
+
+WhatsApp ofrece una **función de limpieza** que te permite **eliminar archivos y datos que no son necesarios**. Para acceder a esta función, sigue estos pasos: 
+
+* Abre WhatsApp y selecciona “Ajustes” en la esquina superior derecha. 
+
+* Selecciona “Almacenamiento y datos”. 
+
+* Selecciona “Limpieza” y sigue las instrucciones. 
+
+**Desactiva el “auto-descarga” de archivos multimedia** 
+--------------------------------------------------------
+
+![Foto: Captura de pantalla.](https://www.elcomercio.com/wp-content/uploads/2024/09/whatsapp-almacenamiento-3-1-1024x683.jpg)
+
+Foto: Captura de pantalla.
+
+La **auto-descarga de archivos multimedia** puede ocupar espacio en tu dispositivo. Para desactivarla, sigue estos pasos: 
+
+* Abre WhatsApp y selecciona “Ajustes” en la esquina superior derecha. 
+
+* Selecciona “Datos y almacenamiento”. 
+
+* Selecciona “Descargas automáticas”. 
+
+* **Desactiva la opción** “Descargar fotos” y “Descargar videos”. 
+
+**Utiliza la función de copia de seguridad de WhatsApp** 
+---------------------------------------------------------
+
+![Foto: Captura de pantalla.](https://www.elcomercio.com/wp-content/uploads/2024/09/whatsapp-almacenamiento-4-1024x683.jpg)
+
+Foto: Captura de pantalla.
+
+La función de **copia de seguridad de WhatsApp** te permite guardar tus mensajes y archivos multimedia en **Google Drive o iCloud.** Para acceder a esta función, sigue estos pasos: 
+
+* Abre WhatsApp y selecciona “Ajustes” en la esquina superior derecha. 
+
+* Selecciona “Chats”. 
+
+* Selecciona “Copia de seguridad”. 
+
+* Selecciona la cuenta de Google Drive o iCloud que deseas utilizar. 
+
+Recuerda que a**ntes de eliminar cualquier dato**, debes asegurarte de que tengas una **copia de seguridad de tus mensajes y archivos multimedia importantes**.  
+
+Cortes de luz generan acciones en los servicios de salud
+========================================================
+
+El Ministerio de Salud informó sobre la operación en los servicios durante los apagones.
+----------------------------------------------------------------------------------------
+
+![Imagen referencial de servicios de salud durante apagones.](https://www.elcomercio.com/wp-content/uploads/2024/09/servicios-salud.jpg)
+
+Este miércoles, 18 de septiembre de 2024, será el **apagón nacional** en Ecuador, desde las **22:00 hasta las 06:00**. Los servicios de salud tienen algunas consideraciones[.](https://es.wikipedia.org/wiki/Ecuador)
+
+El **Ministerio de Salud Pública (MSP)** detalló los procedimientos que seguirán en las casas de salud a escala nacional.
+
+### Más noticias
+
+* [Cortes de luz en Ecuador dejan de ser de ocho horas](https://www.elcomercio.com/actualidad/ecuador/cortes-de-luz-en-ecuador-dejan-de-ser-de-ocho-horas.html)
+* [Cortes de luz afectarán las redes de telefonía móvil e Internet de esta manera](https://www.elcomercio.com/actualidad/negocios/cortes-de-luz-afectara-redes-telefonia-movil-internet-ecuador.html "Cortes de luz afectarán las redes de telefonía móvil e Internet de esta manera")
+* [Estos son los servicios públicos que atenderán con normalidad, pese al teletrabajo y cortes de luz](https://www.elcomercio.com/actualidad/ecuador/servicios-publicos-atenderan-normalidad-garantizados-pese-teletrabajo-cortes-luz.html "Estos son los servicios públicos que atenderán con normalidad, pese al teletrabajo y cortes de luz")
+* [Metro de Quito ajustará su horario ante los cortes de luz este miércoles 18 de septiembre](https://www.elcomercio.com/actualidad/quito/metro-de-quito-ajusta-horario-cortes-de-luz-miercoles-18-septiembre.html "Metro de Quito ajustará su horario ante los cortes de luz este miércoles 18 de septiembre")
+
+Los servicios de salud y los cortes de luz
+------------------------------------------
+
+El Gobierno de **Daniel Noboa** prevé que los cortes de luz sean menores a ocho horas, pero dentro de la franja horaria ya anunciada.
+
+Con ese panorama, el **MSP** garantizó la continuidad de servicios y atención durante suspensión del servicio eléctrico. La entidad indicó que se mantendrá el acceso permanente e ininterrumpido.
+
+> COMUNICADO OFICIAL | El Ministerio de Salud Pública (MSP) informa que se garantizará el acceso permanente e ininterrumpido a los servicios de salud para toda la población, ante la situación energética que atraviesa el país. [pic.twitter.com/RRbhaW6H4M](https://t.co/RRbhaW6H4M)
+> 
+> — Ministerio de Salud Pública 🇪🇨 (@Salud\_Ec) [September 18, 2024](https://twitter.com/Salud_Ec/status/1836420349379895642?ref_src=twsrc%5Etfw)
+
+Los detalles de los apagones
+----------------------------
+
+El ministro de Energía y Minas, **Antonio Gonçalves**, indicó que los cortes no durarán **ocho horas**, como se venía hablando. Las empresas eléctricas serán responsables de informar los **horarios** exactos de **suspensión** del **servicio**.
+
+Según el **Gobierno**, los apagones responden a labores de mantenimiento. Estos se repetirán en los últimos días de septiembre, en la misma franja horaria.
+
+Medidas en el sector de la salud
+--------------------------------
+
+Frente a la crisis energética del país, el **MSP** anunció que tomó varias medidas para seguir brindando los servicios en las casas de salud.
+
+* **Activación de planes** de contingencia y protocolos de atención, incluye el uso de generadores eléctricos para los establecimientos de salud y correcto funcionamiento de los equipos de cadena de frío.
+* Los **servicios de emergencia** en centros de salud Tipo C y hospitales se mantendrán habilitados.
+* El servicio de agendamiento de citas médicas funcionará con normalidad a través de la línea gratuita 171 en el primer nivel de atención.
+* Las **cirugías programadas** se mantendrán según las fechas establecidas.
+* Las cirugías de emergencia, serán resueltas de manera oportuna las 24 horas del día.
+* El **servicio de salud móvil**, a través de ambulancias y hospitales, se mantendrá activo, al igual que el monitoreo de emergencias y la coordinación con el 911.
+
+Servicios con variaciones
+-------------------------
+
+La **Asociación de Empresas de Telecomunicaciones (Asetel – Ecuador)** informó que, durante los apagones, habrá interrupciones e intermitencias en los servicios de **telefonía móvil e Internet**.
+
+La **electricidad** es primordial para el funcionamiento de las redes de telecomunicaciones. El sector de telecomunicaciones se sumó a las iniciativas de **autoabastecimiento privado** y medidas de ahorro de energía.
+
+Consejos para ahorrar agua durante la época seca en Quito
+=========================================================
+
+El Municipio de Quito informó que, debido al verano extremadamente seco, se implementarán cronogramas de abastecimiento de agua potable en la capital.
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+![Los racionamientos de agua se realizan bajo un cronograma.](https://www.elcomercio.com/wp-content/uploads/2024/09/Ahorro-de-agua-en-Quito-seca.jpg)
+
+El **Municipio** de **Quito** informó que hace abastecimientos de agua en diferentes sectores de la ciudad por la sequía, desde el lunes 16 de septiembre de 2024[.](https://es.wikipedia.org/wiki/Uso_racional_del_agua#:~:text=El%20uso%20racional%20del%20agua,el%20aprovechamiento%20de%20los%20recursos. "https://es.wikipedia.org/wiki/Uso_racional_del_agua#:~:text=El%20uso%20racional%20del%20agua,el%20aprovechamiento%20de%20los%20recursos.") Por eso es importante ahorrar el líquido vital.
+
+Más noticias
+------------
+
+* [Este es el cronograma de abastecimiento de agua en Quito](https://www.elcomercio.com/actualidad/quito/abastecimiento-agua-potable-quito-lluvia.html "Este es el cronograma de abastecimiento de agua en Quito")
+* [Así será el cronograma para los cortes de luz este 18 de septiembre, en Quito](https://www.elcomercio.com/actualidad/quito/cronograma-para-cortes-de-luz-18-septiembre-quito.html?source=Internal&ref=Latest%20News%20Widget%20-%20Front "Así será el cronograma para los cortes de luz este 18 de septiembre, en Quito ")
+
+Esta medida es necesaria para garantizar una distribución equitativa del agua disponible. Algunas recomendaciones para enfrentar la falta de agua potable:
+
+Nueve consejos para cuidar el agua durante la sequía en Quito
+-------------------------------------------------------------
+
+1. **Raciona el agua disponible**: Usa el agua de forma eficiente, prioriza el consumo humano y la higiene básica. Evita actividades no esenciales como lavar vehículos.
+2. **Almacena agua segura**: Si es posible guarda agua potable en recipientes limpios y bien sellados. Asegúrate de que sean aptos para almacenamiento de agua potable.
+3. **Utiliza agua reciclada**: Reutiliza agua para ciertas actividades, como usar el agua que se emplea para lavar frutas y verduras para el riego de plantas.
+4. **Hervir o purificar el agua**: En caso de tener acceso a agua no potable se recomienda hervir durante 1 minuto para eliminar microorganismos o utiliza tabletas de purificación.
+5. **Comunicación y cooperación comunitaria**: Mantén contacto con las autoridades locales y colabora con vecinos para compartir recursos e información útil. Establece planes de distribución equitativa del agua en la comunidad.
+6. **Conservar el agua de uso personal**: Reduce el tiempo en la ducha a cinco minutos. Utiliza baldes en lugar de mangueras y cierra el grifo cuando no estés usando el agua de manera directa (al lavarse los dientes o cuando enjabonas los platos).
+7. **Uso responsable del lavavajillas y lavadora**: Solo operar estos electrodomésticos con cargas completas. Seleccionar ciclos de lavado ecológicos.
+8. **Riego por goteo** **en jardines y espacios comunes:** Implementar sistemas de riego por goteo o aspersión en jardines. Así se evita el uso de mangueras que desperdician agua.
+9. **Riego Nocturno**: Regar los jardines por la noche para minimizar la evaporación del agua. Utilizar materiales como piedras o cortezas en el jardín para ayudar a retener la humedad del suelo.
+
+Estas acciones pueden ayudar a mitigar los efectos inmediatos de la falta de agua potable mientras se trabaja en soluciones a largo plazo.
+
+> 📅 [#CronogramaDeAbasatecimiento](https://twitter.com/hashtag/CronogramaDeAbasatecimiento?src=hash&ref_src=twsrc%5Etfw) | Debido al verano extremadamente seco con 38 días sin lluvias, las altas temperaturas y el crecimiento poblacional, implementamos provisionalmente los cronogramas de abastecimiento de agua potable para ciertas zonas del Distrito Metropolitano de… [pic.twitter.com/dJtYPFHYPZ](https://t.co/dJtYPFHYPZ)
+> 
+> — Epmaps – Agua de Quito (@aguadequito) [September 17, 2024](https://twitter.com/aguadequito/status/1835842085708001557?ref_src=twsrc%5Etfw)
+
+¿Cómo son los abastecimientos de agua del Municipio de Quito?
+-------------------------------------------------------------
+
+Los abastecimientos de agua se hacen en el transcurso de la semana en horarios que van de 07:00 a 19:00 o viceversa.
+
+Estos horarios de abastecimiento dependen de la planta que provee de agua al sector, en donde reside la persona afectada.
