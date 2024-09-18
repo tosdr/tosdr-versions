@@ -165,9 +165,9 @@
             
             Blog: Security Essentials
             
-            ##### Physical Security In The Age Of Digital: Access Control System Vulnerabilities
+            ##### Introducing LevelBlue’s 24/7 Managed Threat Detection and Response Service for Government  
             
-            [Learn more](https://cybersecurity.att.com/blogs/security-essentials/physical-security-in-the-age-of-digital-access-control-system-vulnerabilities)
+            [Learn more](https://cybersecurity.att.com/blogs/security-essentials/introducing-levelblues-24-7-managed-threat-detection-and-response-service-for-government)
             
             [View all Blog posts](https://www.alienvault.com/blogs)
             
@@ -433,13 +433,13 @@ If you have any queries regarding this Cookie Policy please contact us at [dl-cy
 
 From the Blog
 
-![Karoline Gore](data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22150px%22%20height%3D%22150px%22%3E%3Crect%20fill%3D%22none%22%20width%3D%22150%22%20height%3D%22150%22%2F%3E%3C%2Fsvg%3E)
+![Michael Vaughn](data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22150px%22%20height%3D%22150px%22%3E%3Crect%20fill%3D%22none%22%20width%3D%22150%22%20height%3D%22150%22%2F%3E%3C%2Fsvg%3E)
 
-#### Karoline Gore
+#### Michael Vaughn
 
-Sep 17, 2024
+Sep 18, 2024
 
-### [Physical Security In The Age Of Digital: Access Control System Vulnerabilities](https://cybersecurity.att.com/blogs/security-essentials/physical-security-in-the-age-of-digital-access-control-system-vulnerabilities)
+### [Introducing LevelBlue’s 24/7 Managed Threat Detection and Response Service for Government](https://cybersecurity.att.com/blogs/security-essentials/introducing-levelblues-24-7-managed-threat-detection-and-response-service-for-government)  
 
 [Explore All Blog Posts ›](https://www.alienvault.com/blogs)
 
