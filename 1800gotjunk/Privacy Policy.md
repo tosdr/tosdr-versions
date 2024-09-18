@@ -576,6 +576,14 @@ Sign up for our emails and get exclusive benefits
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
+Easy to talk to.
+
+Treb Ghenz Calgary 14/09/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
 Amazing service,!on time and did a great job for me. John and his partner were very courteous and efficient. Great job. Highly recommend.
 
 Dennis Church Calgary 14/09/2024
@@ -587,14 +595,6 @@ Dennis Church Calgary 14/09/2024
 Great people.
 
 Yves Rusi Calgary 14/09/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
-Easy to talk to.
-
-Treb Ghenz Calgary 14/09/2024
 
 ![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
 
@@ -632,6 +632,14 @@ Malcolm Propp Calgary 12/09/2024
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
+Came same day. They were polite and professional. Thank you for the great service!
+
+Liesa Evans Calgary 11/09/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
 Great guys and easy experience
 
 Honour Calgary 11/09/2024
@@ -648,9 +656,9 @@ Gail Singer Calgary 11/09/2024
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
-Came same day. They were polite and professional. Thank you for the great service!
+Quick, courteous and clean service.
 
-Liesa Evans Calgary 11/09/2024
+Robert Hill Calgary 10/09/2024
 
 ![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
 
@@ -675,14 +683,6 @@ lorne stasiuk Calgary 10/09/2024
 Guys were great! Very nice :)
 
 Darnelle Noel Calgary 10/09/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
-Quick, courteous and clean service.
-
-Robert Hill Calgary 10/09/2024
 
 ![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
 
@@ -864,38 +864,6 @@ Lonimi Meseko Monteregie Metro 03/01/2023
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
-Harrison and Alex did a fantastic job
-
-Kennedy Sean Wisconsin 14/09/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
-These guys were great - good price for all of the items they hauled away. Thank you!
-
-Michele Hagen Wisconsin 14/09/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
-I was so impressed with how quick and easy it was to get our old wooden swingset removed. The workers were quick and neat.
-
-Saralee Etter Columbus 14/09/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
-Josiah and Caleb were awesome and fast!
-
-Evan Johnston Wisconsin 14/09/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
 Jason and Syl were quick and extremely professional.
 
 Andrew Duhig LA Metro 14/09/2024
@@ -944,9 +912,33 @@ Cindy Wesley Cincinnati 14/09/2024
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
-Good guys, quality work. Thanks.
+Harrison and Alex did a fantastic job
 
-Steve Fuller Madison 13/09/2024
+Kennedy Sean Wisconsin 14/09/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
+These guys were great - good price for all of the items they hauled away. Thank you!
+
+Michele Hagen Wisconsin 14/09/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
+I was so impressed with how quick and easy it was to get our old wooden swingset removed. The workers were quick and neat.
+
+Saralee Etter Columbus 14/09/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
+Josiah and Caleb were awesome and fast!
+
+Evan Johnston Wisconsin 14/09/2024
 
 ![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
 
@@ -1003,6 +995,14 @@ Mister Ed Wisconsin 13/09/2024
 Chase and Zach were outstanding. They were fast with the removal and great guys. Would definitely call them again in the future.
 
 Sam Brady Austin 13/09/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
+Great service. Mason has a gentle touch!
+
+Corby Houser Austin 13/09/2024
 
 ### 
 
