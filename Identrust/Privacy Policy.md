@@ -323,6 +323,8 @@ Please email us at [\[email protected\]](https://www.identrust.com/cdn-cgi/l/e
 
 In compliance with the EU-U.S. DPF, the UK Extension to the EU-U.S. DPF, and the Swiss-U.S.DPF, IdenTrust commits to resolve DPF Principles-related complaints about our collection and use of your personal information. EU and UK individuals and Swiss individuals with inquiries or complaints regarding our handling of personal data received in reliance on the EU-U.S. DPF and the UK Extension to the EU-U.S. DPF, and the Swiss-U.S. DPF should first contact IdenTrust at [\[email protected\]](https://www.identrust.com/cdn-cgi/l/email-protection).
 
+[![WebTrust S/MIME Logo](/sites/default/files/styles/accreditation_footer_slider_images/public/gallery/WebTrust_S-MIME_0.png.webp?itok=vnx0sfzW)](https://www.cpacanada.ca/webtrustseal?sealid=11485)
+
 [![BR Code Signing Seal by WebTrust](/sites/default/files/styles/accreditation_footer_slider_images/public/gallery/Web%20Trust%20BR%20CodeSigning.png.webp?itok=-loA9BiH)](https://www.cpacanada.ca/webtrustseal?sealid=11484)
 
 [![BBB logo](/sites/default/files/styles/accreditation_footer_slider_images/public/gallery/accred_bus_7469%20Transparent-he75xl_0.png.webp?itok=FYd2stw0)](https://bit.ly/bbb-identrust)
@@ -331,9 +333,7 @@ In compliance with the EU-U.S. DPF, the UK Extension to the EU-U.S. DPF, and the
 
 [![DoD seal](/sites/default/files/styles/accreditation_footer_slider_images/public/gallery/United_States_Department_of_Defense_Seal_svg-dv4khb_0.png.webp?itok=71nWfQ5Z)](https://www.identrust.com/certificates/dod-eca-programs)
 
-[![Image of Federal Bridge Certification Autority Badge](/sites/default/files/styles/accreditation_footer_slider_images/public/gallery/fbca-logo-t5fpr1b-0ucq9r_0.png.webp?itok=ak85Po9a)](https://www.identrust.com/us-federal-bridge-cross-certification)
-
-[![AICPA SOC certificate badge](/sites/default/files/styles/accreditation_footer_slider_images/public/gallery/SOC-Service_Org_B_Marks_2c_Web-e3b9f7_0.png.webp?itok=ZiAj0D8v)](https://us.aicpa.org/interestareas/frc/assuranceadvisoryservices/sorhome)
+![AICPA SOC certificate badge](/sites/default/files/styles/accreditation_footer_slider_images/public/gallery/SOC-Service_Org_B_Marks_2c_Web-e3b9f7_0.png.webp?itok=ZiAj0D8v)
 
 [![DirectTrust EHNAC Accredited](/sites/default/files/styles/accreditation_footer_slider_images/public/gallery/EHNAC%20Logo_A_DTAAP_CA%20Transparent-29b5rm_0.png.webp?itok=LZ759Z3m)](https://www.ehnac.org/)
 
