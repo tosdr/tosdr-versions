@@ -33,9 +33,9 @@
     
     ### What's new:
     
-    [](https://player.me/dragon-ball-sparking-zero-confirms-characters-from-gt/)
+    [](https://player.me/dead-by-daylight-spin-off-project-t-has-been-cancelled/)
     
-    ![Dragon Ball Sparking Zero Confirms 15 New Characters from GT Ahead of its October 11 Release Date](data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PScwIDAgMzAwIDE5OScgeG1sbnM9J2h0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnJz48L3N2Zz4=)
+    ![Project T, the Dead by Daylight Spin-Off, Has Been Cancelled Following Negative Player Feedback](data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PScwIDAgMzAwIDE5OScgeG1sbnM9J2h0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnJz48L3N2Zz4=)
     
     Load More
     
@@ -73,9 +73,9 @@
     
     ### What's new:
     
-    [](https://player.me/dragon-ball-sparking-zero-confirms-characters-from-gt/)
+    [](https://player.me/dead-by-daylight-spin-off-project-t-has-been-cancelled/)
     
-    ![Dragon Ball Sparking Zero Confirms 15 New Characters from GT Ahead of its October 11 Release Date](data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PScwIDAgMzAwIDE5OScgeG1sbnM9J2h0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnJz48L3N2Zz4=)
+    ![Project T, the Dead by Daylight Spin-Off, Has Been Cancelled Following Negative Player Feedback](data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PScwIDAgMzAwIDE5OScgeG1sbnM9J2h0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnJz48L3N2Zz4=)
     
     Load More
     
@@ -141,6 +141,32 @@ TRENDING
 *   Back
 * The Last of Us
 
+![Project T, the Dead by Daylight Spin-Off, Has Been Cancelled Following Negative Player Feedback](https://player.me/wp-content/uploads/2024/09/Project-T-the-Dead-by-Daylight-Spin-Off-Has-Been-Cancelled-Following-Negative-Player-Feedback.png)
+
+[Project T, the Dead by Daylight Spin-Off, Has Been Cancelled Following Negative Player Feedback](https://player.me/dead-by-daylight-spin-off-project-t-has-been-cancelled/)
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+September 18, 2024/
+
+In a surprising announcement, Behaviour Interactive has revealed the cancellation of Project T, an upcoming third-person cooperative shooter set in…
+
+[Read More](https://player.me/dead-by-daylight-spin-off-project-t-has-been-cancelled/)
+
+![EA’s Skate 4 Set to Release Early Access in 2025](https://player.me/wp-content/uploads/2024/09/EAs-Skate-4-Set-to-Release-Early-Access-in-2025.png)
+
+[EA’s Skate 4 Set to Release Early Access in 2025](https://player.me/eas-skate-4-set-to-release-early-access-in-2025/)
+
+
+--------------------------------------------------------------------------------------------------------------------------
+
+September 18, 2024/
+
+EA’s long-awaited Skate sequel, officially titled “skate.” (yes, lowercase with a period), more commonly known as Skate 4, is set…
+
+[Read More](https://player.me/eas-skate-4-set-to-release-early-access-in-2025/)
+
 ![Dragon Ball Sparking Zero Confirms 15 New Characters from GT Ahead of its October 11 Release Date](https://player.me/wp-content/uploads/2024/09/Dragon-Ball-Sparking-Zero-Confirms-15-New-Characters-from-GT-Ahead-of-its-October-11-Release-Date.png)
 
 [Dragon Ball Sparking Zero Confirms 15 New Characters from GT Ahead of its October 11 Release Date](https://player.me/dragon-ball-sparking-zero-confirms-characters-from-gt/)
@@ -218,32 +244,6 @@ September 11, 2024/
 Gunfire Games has confirmed that the third and final expansion for Remnant 2, titled The Dark Horizon, will be available…
 
 [Read More](https://player.me/the-dark-horizon-is-launching-on-september-24/)
-
-![Warhammer 40,000: Space Marine 2: First Update Details Announced](https://player.me/wp-content/uploads/2024/09/Warhammer-40000——Space-Marine-2.png)
-
-[Warhammer 40,000: Space Marine 2: First Update Details Announced](https://player.me/space-marine-2-first-update-details-announced/)
-
-
-----------------------------------------------------------------------------------------------------------------------------------------
-
-September 10, 2024/
-
-Saber Interactive, the developer of Warhammer 40K: Space Marine 2, and Focus Interactive, its publisher, have officially revealed the content…
-
-[Read More](https://player.me/space-marine-2-first-update-details-announced/)
-
-![Apple It’s Glowtime Event Guide: iPhone 16, Watch Series 10, Apple Intelligence and Everything Else Launched](https://player.me/wp-content/uploads/2024/09/Apple-Its-Glowtime-Event-Guide.png)
-
-[Apple It’s Glowtime Event Guide: iPhone 16, Watch Series 10, Apple Intelligence and Everything Else Launched](https://player.me/apple-iphone-16-its-glowtime-event-guide/)
-
-
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-September 10, 2024/
-
-Apple’s highly anticipated ‘It’s Glowtime’ event dazzled the tech world with the launch of the iPhone 16 lineup, a suite…
-
-[Read More](https://player.me/apple-iphone-16-its-glowtime-event-guide/)
 
 [Older Posts](https://player.me/page/2/)Newer Posts
 
@@ -276,6 +276,32 @@ GAMING
 *   Back
 * The Last of Us
 
+![Project T, the Dead by Daylight Spin-Off, Has Been Cancelled Following Negative Player Feedback](https://player.me/wp-content/uploads/2024/09/Project-T-the-Dead-by-Daylight-Spin-Off-Has-Been-Cancelled-Following-Negative-Player-Feedback.png)
+
+[Project T, the Dead by Daylight Spin-Off, Has Been Cancelled Following Negative Player Feedback](https://player.me/dead-by-daylight-spin-off-project-t-has-been-cancelled/)
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+September 18, 2024/
+
+In a surprising announcement, Behaviour Interactive has revealed the cancellation of Project T, an upcoming third-person cooperative shooter set in…
+
+[Read More](https://player.me/dead-by-daylight-spin-off-project-t-has-been-cancelled/)
+
+![EA’s Skate 4 Set to Release Early Access in 2025](https://player.me/wp-content/uploads/2024/09/EAs-Skate-4-Set-to-Release-Early-Access-in-2025.png)
+
+[EA’s Skate 4 Set to Release Early Access in 2025](https://player.me/eas-skate-4-set-to-release-early-access-in-2025/)
+
+
+--------------------------------------------------------------------------------------------------------------------------
+
+September 18, 2024/
+
+EA’s long-awaited Skate sequel, officially titled “skate.” (yes, lowercase with a period), more commonly known as Skate 4, is set…
+
+[Read More](https://player.me/eas-skate-4-set-to-release-early-access-in-2025/)
+
 ![Dragon Ball Sparking Zero Confirms 15 New Characters from GT Ahead of its October 11 Release Date](https://player.me/wp-content/uploads/2024/09/Dragon-Ball-Sparking-Zero-Confirms-15-New-Characters-from-GT-Ahead-of-its-October-11-Release-Date.png)
 
 [Dragon Ball Sparking Zero Confirms 15 New Characters from GT Ahead of its October 11 Release Date](https://player.me/dragon-ball-sparking-zero-confirms-characters-from-gt/)
@@ -379,32 +405,6 @@ September 10, 2024/
 Apple’s highly anticipated ‘It’s Glowtime’ event dazzled the tech world with the launch of the iPhone 16 lineup, a suite…
 
 [Read More](https://player.me/apple-iphone-16-its-glowtime-event-guide/)
-
-![Astro Bot Review: Sony’s Best Game in Years and Possible 2024 GOTY Contender](https://player.me/wp-content/uploads/2024/09/Astro-Bot-Review-Sonys-Best-Game-in-Years.png)
-
-[Astro Bot Review: Sony’s Best Game in Years and Possible 2024 GOTY Contender](https://player.me/astro-bot-is-sonys-best-game-in-years/)
-
-
---------------------------------------------------------------------------------------------------------------------------------------------
-
-September 9, 2024/
-
-Astro Bot, initially perceived by many, including us, as a cute game for children, is a masterclass in game design…
-
-[Read More](https://player.me/astro-bot-is-sonys-best-game-in-years/)
-
-![The Monk Who Tried to Make Peace with 7-Year-Old iPhone](https://player.me/wp-content/uploads/2024/09/The-One-Who-Tried-to-Make-Peace-With-7-Year-Old-iPhone.png)
-
-[The Monk Who Tried to Make Peace with 7-Year-Old iPhone](https://player.me/the-monk-who-tried-to-make-peace-with-7-year-old-iphone/)
-
-
------------------------------------------------------------------------------------------------------------------------------------------
-
-September 9, 2024/
-
-I get the euphoria around an Apple event. I, too, stayed up late into the night to watch the event…
-
-[Read More](https://player.me/the-monk-who-tried-to-make-peace-with-7-year-old-iphone/)
 
 [Older Posts](https://player.me/page/2/)Newer Posts
 
@@ -817,6 +817,18 @@ Meta Quest 4 will be released sometime in 2026 with two variants, The Informatio
 
 player.me
 
+[](https://player.me/dead-by-daylight-spin-off-project-t-has-been-cancelled/ "Project T, the Dead by Daylight Spin-Off, Has Been Cancelled Following Negative Player Feedback")
+
+[Project T, the Dead by Daylight Spin-Off, Has Been Cancelled Following Negative Player Feedback](https://player.me/dead-by-daylight-spin-off-project-t-has-been-cancelled/)
+
+September 18, 2024
+
+[](https://player.me/eas-skate-4-set-to-release-early-access-in-2025/ "EA’s Skate 4 Set to Release Early Access in 2025")
+
+[EA’s Skate 4 Set to Release Early Access in 2025](https://player.me/eas-skate-4-set-to-release-early-access-in-2025/)
+
+September 18, 2024
+
 [](https://player.me/dragon-ball-sparking-zero-confirms-characters-from-gt/ "Dragon Ball Sparking Zero Confirms 15 New Characters from GT Ahead of its October 11 Release Date")
 
 [Dragon Ball Sparking Zero Confirms 15 New Characters from GT Ahead of its October 11 Release Date](https://player.me/dragon-ball-sparking-zero-confirms-characters-from-gt/)
@@ -853,22 +865,10 @@ September 11, 2024
 
 September 11, 2024
 
-[](https://player.me/space-marine-2-first-update-details-announced/ "Warhammer 40,000: Space Marine 2: First Update Details Announced")
-
-[Warhammer 40,000: Space Marine 2: First Update Details Announced](https://player.me/space-marine-2-first-update-details-announced/)
-
-September 10, 2024
-
-[](https://player.me/apple-iphone-16-its-glowtime-event-guide/ "Apple It’s Glowtime Event Guide: iPhone 16, Watch Series 10, Apple Intelligence and Everything Else Launched")
-
-[Apple It’s Glowtime Event Guide: iPhone 16, Watch Series 10, Apple Intelligence and Everything Else Launched](https://player.me/apple-iphone-16-its-glowtime-event-guide/)
-
-September 10, 2024
-
 [ตรวจหวย 17 มกราคม 2567](https://www.surveymonkey.com/r/checklottery17jan)  
 [Ufabet](https://www.surveymonkey.com/r/ufabet_ufa)  
 
-Visited 566,205 times, 12 visit(s) today
+Visited 566,296 times, 103 visit(s) today
 
 ![Player.me Logo](image/svg+xml;base64,PHN2ZyB2aWV3Qm94PScwIDAgMzAwIDg5JyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnPjwvc3ZnPg==)
 
