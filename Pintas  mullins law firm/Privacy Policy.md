@@ -273,17 +273,17 @@ This field is for validation purposes and should be left unchanged.
 
 #### Frequently Asked Questions
 
-[![What is it like when state surveys a nursing home?](https://www.pintas.com/wp-content/uploads/2020/09/nursing-home-abuse-lawyer-what-is-it-like-when-state-surveys-a-nursing-home-scaled.jpg "What Is It Like When State Surveys a Nursing Home?")](https://www.pintas.com/faq/what-is-it-like-when-state-surveys-a-nursing-home/ "What Is It Like When State Surveys a Nursing Home?")
+[![What are the odds of beating lung cancer?](https://www.pintas.com/wp-content/uploads/2020/11/what-are-the-odds-of-beating-lung-cancer.jpg "What Are the Odds of Beating Lung Cancer?")](https://www.pintas.com/lung-cancer/what-are-the-odds-of-beating-lung-cancer/ "What Are the Odds of Beating Lung Cancer?")
 
-[#### What Is It Like When State Surveys a Nursing Home?](https://www.pintas.com/faq/what-is-it-like-when-state-surveys-a-nursing-home/)
+[#### What Are the Odds of Beating Lung Cancer?](https://www.pintas.com/lung-cancer/what-are-the-odds-of-beating-lung-cancer/)
 
-[![What type of lung cancer is caused by asbestos?](https://www.pintas.com/wp-content/uploads/2020/04/lung-cancer-lawsuit-lawyer-what-type-of-lung-cancer-is-caused-by-asbestos.jpg "What Type of Lung Cancer Is Caused By Asbestos?")](https://www.pintas.com/practice-areas/lung-cancer/what-type-of-lung-cancer-is-caused-by-asbestos/ "What Type of Lung Cancer Is Caused By Asbestos?")
+[![What are the types of lung cancer?](https://www.pintas.com/wp-content/uploads/2020/06/lung-cancer-what-are-the-types-of-lung-cancer.jpg "What Are the Types of Lung Cancer?")](https://www.pintas.com/practice-areas/lung-cancer/types-of-lung-cancer "What Are the Types of Lung Cancer?")
 
-[#### What Type of Lung Cancer Is Caused By Asbestos?](https://www.pintas.com/practice-areas/lung-cancer/what-type-of-lung-cancer-is-caused-by-asbestos/)
+[#### What Are the Types of Lung Cancer?](https://www.pintas.com/practice-areas/lung-cancer/types-of-lung-cancer)
 
-[![Can a lung transplant cure lung cancer?](https://www.pintas.com/wp-content/uploads/2020/05/lung-cancer-can-a-lung-transplant-cure-lung-cancer.jpg "Can a Lung Transplant Cure Lung Cancer?")](https://www.pintas.com/practice-areas/lung-cancer/can-a-lung-transplant-cure-lung-cancer/ "Can a Lung Transplant Cure Lung Cancer?")
+[![What are the signs of elder abuse in seniors with dementia?](https://www.pintas.com/wp-content/uploads/2021/01/practice-areas-personal-injury-assisted-living-accident-lawyer-what-are-the-signs-of-elder-abuse-in-seniors-with-dementia.jpg "What Are the Signs of Elder Abuse in Seniors with Dementia?")](https://www.pintas.com/faq/what-are-the-signs-of-elder-abuse-in-seniors-with-dementia/ "What Are the Signs of Elder Abuse in Seniors with Dementia?")
 
-[#### Can a Lung Transplant Cure Lung Cancer?](https://www.pintas.com/practice-areas/lung-cancer/can-a-lung-transplant-cure-lung-cancer/)
+[#### What Are the Signs of Elder Abuse in Seniors with Dementia?](https://www.pintas.com/faq/what-are-the-signs-of-elder-abuse-in-seniors-with-dementia/)
 
 ### Injured?  
 Tell Us What Happened.
@@ -306,7 +306,7 @@ message
 
 Yes. Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. They may contact me by email or telephone (including phone calls, text messages, autodialed / auto-selected or pre-recorded calls). I understand that message and data rates may apply and that consent to such contact is not required for use of these services. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/), [Anti Fraud Policy](https://www.pintas.com/anti-fraud-policy/) and [online Terms](https://www.pintas.com/website-terms-of-use/), including its mandatory arbitration provision.
 
-Email
+Phone
 
 This field is for validation purposes and should be left unchanged.
 
