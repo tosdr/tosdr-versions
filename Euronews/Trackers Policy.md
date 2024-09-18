@@ -11,55 +11,55 @@
     Trending
     
     * [European Commission](https://www.euronews.com/tag/eu-commission)
-    * [Apple](https://www.euronews.com/tag/apple)
     * [EU Policy](https://www.euronews.com/tag/eu-policy)
+    * [Music](https://www.euronews.com/tag/music)
+    * [United Kingdom](https://www.euronews.com/tag/united-kingdom)
+    * [Climate crisis](https://www.euronews.com/tag/climate-crisis)
     * [Extreme weather](https://www.euronews.com/tag/extreme-weather)
-    * [Drought](https://www.euronews.com/tag/drought)
-    * [Interest rates](https://www.euronews.com/tag/interest-rates)
     
     * * *
     
     Latest stories
     
-    [![Sir John Eliot Gardiner](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Sir John Eliot Gardiner")
+    [![Fruits are pictured in a discounter in Frankfurt, Germany, Thursday, Sept. 28, 2023.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Fruits are pictured in a discounter in Frankfurt, Germany, Thursday, Sept. 28, 2023.")
     
-    ![Sir John Eliot Gardiner](https://static.euronews.com/articles/stories/08/71/92/80/368x207_cmsv2_0b71a1a7-9c7c-5451-948c-46ab9cf31fe5-8719280.jpg "Sir John Eliot Gardiner")](https://www.euronews.com/culture/2024/09/10/fired-conductor-sir-john-eliot-gardiner-hits-back-with-new-orchestra)
+    ![Fruits are pictured in a discounter in Frankfurt, Germany, Thursday, Sept. 28, 2023.](https://static.euronews.com/articles/stories/08/07/67/02/368x207_cmsv2_43234229-c27a-569d-bcec-55b24b64cd13-8076702.jpg "Fruits are pictured in a discounter in Frankfurt, Germany, Thursday, Sept. 28, 2023.")](https://www.euronews.com/business/2024/09/18/eurozone-inflation-figures-see-drop-in-august-edging-nearer-to-ecb-2-target)
+    
+    Now playing Next
+    
+    [Economy](https://www.euronews.com/business/economy)
+    
+    ### [Eurozone inflation figures see drop in August, towards ECB 2% target](https://www.euronews.com/business/2024/09/18/eurozone-inflation-figures-see-drop-in-august-edging-nearer-to-ecb-2-target)
+    
+    [![Nine Inch Nails photography exhibition to open in London - Behind The Gallery](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Nine Inch Nails photography exhibition to open in London - Behind The Gallery")
+    
+    ![Nine Inch Nails photography exhibition to open in London - Behind The Gallery](https://static.euronews.com/articles/stories/08/74/20/70/368x207_cmsv2_ee972cde-76c0-5ead-bc59-47a518d259af-8742070.jpg "Nine Inch Nails photography exhibition to open in London - Behind The Gallery")](https://www.euronews.com/culture/2024/09/18/nine-inch-nails-photography-exhibition-set-to-open-in-london-in-october)
     
     Now playing Next
     
     [Culture news](https://www.euronews.com/culture/culture-news)
     
-    ### [Fired conductor Sir John Eliot Gardiner hits back with new orchestra](https://www.euronews.com/culture/2024/09/10/fired-conductor-sir-john-eliot-gardiner-hits-back-with-new-orchestra)
+    ### [Nine Inch Nails photography exhibition to open in London](https://www.euronews.com/culture/2024/09/18/nine-inch-nails-photography-exhibition-set-to-open-in-london-in-october)
     
-    [![Matt Kelley/AP Photo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Matt Kelley/AP Photo")
+    [![MEP Andreus Kubilius (Lithuania/EPP) in the European Parliament.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "MEP Andreus Kubilius (Lithuania/EPP) in the European Parliament.")
     
-    ![Matt Kelley/AP Photo](https://static.euronews.com/articles/stories/08/71/89/48/368x207_cmsv2_358d4ef9-d925-59ff-9ed1-ecbfd1fa3d69-8718948.jpg "Matt Kelley/AP Photo")](https://www.euronews.com/health/2024/09/10/ketamine-seizures-are-up-in-europe-how-big-of-a-problem-is-it)
-    
-    Now playing Next
-    
-    [Health news](https://www.euronews.com/health/health-news)
-    
-    ### [Ketamine seizures are up in Europe. How big of a problem is it?](https://www.euronews.com/health/2024/09/10/ketamine-seizures-are-up-in-europe-how-big-of-a-problem-is-it)
-    
-    [![Sanija Ameti, Co-President In Operation Libero, poses for a portriat on Nov.2, 2021, at Proger in Bern](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Sanija Ameti, Co-President In Operation Libero, poses for a portriat on Nov.2, 2021, at Proger in Bern")
-    
-    ![Sanija Ameti, Co-President In Operation Libero, poses for a portriat on Nov.2, 2021, at Proger in Bern](https://static.euronews.com/articles/stories/08/71/88/96/368x207_cmsv2_9f4d0c0b-3b41-59bb-9bb0-b278279a5f54-8718896.jpg "Sanija Ameti, Co-President In Operation Libero, poses for a portriat on Nov.2, 2021, at Proger in Bern")](https://www.euronews.com/my-europe/2024/09/10/swiss-city-councillor-apologises-for-firing-gun-at-mary-and-jesus-poster)
+    ![MEP Andreus Kubilius (Lithuania/EPP) in the European Parliament.](https://static.euronews.com/articles/stories/08/74/16/96/368x207_cmsv2_076e65b7-d55a-58fc-bb85-26b6bad07ffc-8741696.jpg "MEP Andreus Kubilius (Lithuania/EPP) in the European Parliament.")](https://www.euronews.com/my-europe/2024/09/18/the-eus-new-defence-commissioner-is-open-to-eurobonds)
     
     Now playing Next
     
-    [Europe News](https://www.euronews.com/my-europe/europe-news/europe-news)
+    [Europe Decoded](https://www.euronews.com/my-europe/europe-decoded/europe-decoded)
     
-    ### [Swiss councillor apologises for firing gun at Mary and Jesus poster](https://www.euronews.com/my-europe/2024/09/10/swiss-city-councillor-apologises-for-firing-gun-at-mary-and-jesus-poster)
+    ### [The EU's new defence commissioner is open to eurobonds](https://www.euronews.com/my-europe/2024/09/18/the-eus-new-defence-commissioner-is-open-to-eurobonds)
     
-    [![The best looks from New York Fashion Week ](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "The best looks from New York Fashion Week ")
+    [![Fake Heiress Anna Sorokin poses for 'Dancing with the Stars' press photos ](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Fake Heiress Anna Sorokin poses for 'Dancing with the Stars' press photos ")
     
-    ![The best looks from New York Fashion Week ](https://static.euronews.com/articles/stories/08/71/90/04/368x207_cmsv2_0458acab-cdb3-5cec-9f51-217f49aea0f0-8719004.jpg "The best looks from New York Fashion Week ")](https://www.euronews.com/culture/2024/09/10/hilfigers-nautical-nostlagia-to-laurens-americana-vision-the-best-of-new-york-fashion-week)
+    ![Fake Heiress Anna Sorokin poses for 'Dancing with the Stars' press photos ](https://static.euronews.com/articles/stories/08/74/17/90/368x207_cmsv2_62ab8446-2b7d-5c9d-8208-aaafb74b4af0-8741790.jpg "Fake Heiress Anna Sorokin poses for 'Dancing with the Stars' press photos ")](https://www.euronews.com/culture/2024/09/18/con-artist-who-inspired-netflixs-inventing-anna-hits-us-tv-dance-competition-in-ankle-moni)
     
     Now playing Next
     
-    [Lifestyle](https://www.euronews.com/culture/culture-lifestyle)
+    [Culture news](https://www.euronews.com/culture/culture-news)
     
-    ### [Here's what you missed at New York Fashion Week 2024](https://www.euronews.com/culture/2024/09/10/hilfigers-nautical-nostlagia-to-laurens-americana-vision-the-best-of-new-york-fashion-week)
+    ### [Con artist's sparkly ankle monitor steals show on US TV dance series](https://www.euronews.com/culture/2024/09/18/con-artist-who-inspired-netflixs-inventing-anna-hits-us-tv-dance-competition-in-ankle-moni)
     
 * [Europe](https://www.euronews.com/my-europe)
     
@@ -323,7 +323,6 @@ Special coverage
 * [Discover Sharjah](https://www.euronews.com/special/discover-sharjah)
 * [Explore Azerbaijan](https://www.euronews.com/special/explore-azerbaijan)
 * [Golf Travel Tales](https://www.euronews.com/travel/travel-series/golf-travel-tales)
-* [Here we grow: Spain](https://www.euronews.com/special/here-we-grow)
 * [From Qatar](https://www.euronews.com/special/qatar-programmes)
 
 * * *
@@ -362,61 +361,61 @@ Close menu sidebar
 Trending
 
 * [European Commission](https://www.euronews.com/tag/eu-commission)
-* [Apple](https://www.euronews.com/tag/apple)
 * [EU Policy](https://www.euronews.com/tag/eu-policy)
+* [Music](https://www.euronews.com/tag/music)
+* [United Kingdom](https://www.euronews.com/tag/united-kingdom)
+* [Climate crisis](https://www.euronews.com/tag/climate-crisis)
 * [Extreme weather](https://www.euronews.com/tag/extreme-weather)
-* [Drought](https://www.euronews.com/tag/drought)
-* [Interest rates](https://www.euronews.com/tag/interest-rates)
 
 * * *
 
 Latest stories
 
-[![Sir John Eliot Gardiner](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Sir John Eliot Gardiner")
+[![Fruits are pictured in a discounter in Frankfurt, Germany, Thursday, Sept. 28, 2023.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Fruits are pictured in a discounter in Frankfurt, Germany, Thursday, Sept. 28, 2023.")
 
-![Sir John Eliot Gardiner](https://static.euronews.com/articles/stories/08/71/92/80/368x207_cmsv2_0b71a1a7-9c7c-5451-948c-46ab9cf31fe5-8719280.jpg "Sir John Eliot Gardiner")](https://www.euronews.com/culture/2024/09/10/fired-conductor-sir-john-eliot-gardiner-hits-back-with-new-orchestra)
+![Fruits are pictured in a discounter in Frankfurt, Germany, Thursday, Sept. 28, 2023.](https://static.euronews.com/articles/stories/08/07/67/02/368x207_cmsv2_43234229-c27a-569d-bcec-55b24b64cd13-8076702.jpg "Fruits are pictured in a discounter in Frankfurt, Germany, Thursday, Sept. 28, 2023.")](https://www.euronews.com/business/2024/09/18/eurozone-inflation-figures-see-drop-in-august-edging-nearer-to-ecb-2-target)
+
+Now playing Next
+
+[Economy](https://www.euronews.com/business/economy)
+
+### [Eurozone inflation figures see drop in August, towards ECB 2% target](https://www.euronews.com/business/2024/09/18/eurozone-inflation-figures-see-drop-in-august-edging-nearer-to-ecb-2-target)
+
+* * *
+
+[![Nine Inch Nails photography exhibition to open in London - Behind The Gallery](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Nine Inch Nails photography exhibition to open in London - Behind The Gallery")
+
+![Nine Inch Nails photography exhibition to open in London - Behind The Gallery](https://static.euronews.com/articles/stories/08/74/20/70/368x207_cmsv2_ee972cde-76c0-5ead-bc59-47a518d259af-8742070.jpg "Nine Inch Nails photography exhibition to open in London - Behind The Gallery")](https://www.euronews.com/culture/2024/09/18/nine-inch-nails-photography-exhibition-set-to-open-in-london-in-october)
 
 Now playing Next
 
 [Culture news](https://www.euronews.com/culture/culture-news)
 
-### [Fired conductor Sir John Eliot Gardiner hits back with new orchestra](https://www.euronews.com/culture/2024/09/10/fired-conductor-sir-john-eliot-gardiner-hits-back-with-new-orchestra)
+### [Nine Inch Nails photography exhibition to open in London](https://www.euronews.com/culture/2024/09/18/nine-inch-nails-photography-exhibition-set-to-open-in-london-in-october)
 
 * * *
 
-[![Matt Kelley/AP Photo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Matt Kelley/AP Photo")
+[![MEP Andreus Kubilius (Lithuania/EPP) in the European Parliament.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "MEP Andreus Kubilius (Lithuania/EPP) in the European Parliament.")
 
-![Matt Kelley/AP Photo](https://static.euronews.com/articles/stories/08/71/89/48/368x207_cmsv2_358d4ef9-d925-59ff-9ed1-ecbfd1fa3d69-8718948.jpg "Matt Kelley/AP Photo")](https://www.euronews.com/health/2024/09/10/ketamine-seizures-are-up-in-europe-how-big-of-a-problem-is-it)
+![MEP Andreus Kubilius (Lithuania/EPP) in the European Parliament.](https://static.euronews.com/articles/stories/08/74/16/96/368x207_cmsv2_076e65b7-d55a-58fc-bb85-26b6bad07ffc-8741696.jpg "MEP Andreus Kubilius (Lithuania/EPP) in the European Parliament.")](https://www.euronews.com/my-europe/2024/09/18/the-eus-new-defence-commissioner-is-open-to-eurobonds)
 
 Now playing Next
 
-[Health news](https://www.euronews.com/health/health-news)
+[Europe Decoded](https://www.euronews.com/my-europe/europe-decoded/europe-decoded)
 
-### [Ketamine seizures are up in Europe. How big of a problem is it?](https://www.euronews.com/health/2024/09/10/ketamine-seizures-are-up-in-europe-how-big-of-a-problem-is-it)
+### [The EU's new defence commissioner is open to eurobonds](https://www.euronews.com/my-europe/2024/09/18/the-eus-new-defence-commissioner-is-open-to-eurobonds)
 
 * * *
 
-[![Sanija Ameti, Co-President In Operation Libero, poses for a portriat on Nov.2, 2021, at Proger in Bern](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Sanija Ameti, Co-President In Operation Libero, poses for a portriat on Nov.2, 2021, at Proger in Bern")
+[![Fake Heiress Anna Sorokin poses for 'Dancing with the Stars' press photos ](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Fake Heiress Anna Sorokin poses for 'Dancing with the Stars' press photos ")
 
-![Sanija Ameti, Co-President In Operation Libero, poses for a portriat on Nov.2, 2021, at Proger in Bern](https://static.euronews.com/articles/stories/08/71/88/96/368x207_cmsv2_9f4d0c0b-3b41-59bb-9bb0-b278279a5f54-8718896.jpg "Sanija Ameti, Co-President In Operation Libero, poses for a portriat on Nov.2, 2021, at Proger in Bern")](https://www.euronews.com/my-europe/2024/09/10/swiss-city-councillor-apologises-for-firing-gun-at-mary-and-jesus-poster)
-
-Now playing Next
-
-[Europe News](https://www.euronews.com/my-europe/europe-news/europe-news)
-
-### [Swiss councillor apologises for firing gun at Mary and Jesus poster](https://www.euronews.com/my-europe/2024/09/10/swiss-city-councillor-apologises-for-firing-gun-at-mary-and-jesus-poster)
-
-* * *
-
-[![The best looks from New York Fashion Week ](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "The best looks from New York Fashion Week ")
-
-![The best looks from New York Fashion Week ](https://static.euronews.com/articles/stories/08/71/90/04/368x207_cmsv2_0458acab-cdb3-5cec-9f51-217f49aea0f0-8719004.jpg "The best looks from New York Fashion Week ")](https://www.euronews.com/culture/2024/09/10/hilfigers-nautical-nostlagia-to-laurens-americana-vision-the-best-of-new-york-fashion-week)
+![Fake Heiress Anna Sorokin poses for 'Dancing with the Stars' press photos ](https://static.euronews.com/articles/stories/08/74/17/90/368x207_cmsv2_62ab8446-2b7d-5c9d-8208-aaafb74b4af0-8741790.jpg "Fake Heiress Anna Sorokin poses for 'Dancing with the Stars' press photos ")](https://www.euronews.com/culture/2024/09/18/con-artist-who-inspired-netflixs-inventing-anna-hits-us-tv-dance-competition-in-ankle-moni)
 
 Now playing Next
 
-[Lifestyle](https://www.euronews.com/culture/culture-lifestyle)
+[Culture news](https://www.euronews.com/culture/culture-news)
 
-### [Here's what you missed at New York Fashion Week 2024](https://www.euronews.com/culture/2024/09/10/hilfigers-nautical-nostlagia-to-laurens-americana-vision-the-best-of-new-york-fashion-week)
+### [Con artist's sparkly ankle monitor steals show on US TV dance series](https://www.euronews.com/culture/2024/09/18/con-artist-who-inspired-netflixs-inventing-anna-hits-us-tv-dance-competition-in-ankle-moni)
 
 [Europe](https://www.euronews.com/my-europe)
 
@@ -682,7 +681,6 @@ Special coverage
 * [Discover Sharjah](https://www.euronews.com/special/discover-sharjah)
 * [Explore Azerbaijan](https://www.euronews.com/special/explore-azerbaijan)
 * [Golf Travel Tales](https://www.euronews.com/travel/travel-series/golf-travel-tales)
-* [Here we grow: Spain](https://www.euronews.com/special/here-we-grow)
 * [From Qatar](https://www.euronews.com/special/qatar-programmes)
 
 * * *
