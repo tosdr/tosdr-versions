@@ -31,6 +31,203 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
+Cortes de luz en Ecuador dejan de ser de ocho horas
+===================================================
+
+Los cortes de luz fueron anunciados por la Presidencia de la República del Ecuador.
+-----------------------------------------------------------------------------------
+
+![Los cortes de luz se realizarán este 18 de septiembre.](https://www.elcomercio.com/wp-content/uploads/2024/09/Cortes-de-luz.jpg)
+
+Los cortes de luz en **Ecuador** están programados para iniciar el miércoles 18 de septiembre de 2024. Inicialmente, se anunció que los apagones durarían ocho horas. Sin embargo, a pocas horas del inicio del racionamiento, esta situación ha cambiado.
+
+Más noticias
+------------
+
+* [Cortes de luz afectarán las redes de telefonía móvil e Internet de esta manera](https://www.elcomercio.com/actualidad/negocios/cortes-de-luz-afectara-redes-telefonia-movil-internet-ecuador.html "Cortes de luz afectarán las redes de telefonía móvil e Internet de esta manera")
+* [Estos son los servicios públicos que atenderán con normalidad, pese al teletrabajo y cortes de luz](https://www.elcomercio.com/actualidad/ecuador/servicios-publicos-atenderan-normalidad-garantizados-pese-teletrabajo-cortes-luz.html "Estos son los servicios públicos que atenderán con normalidad, pese al teletrabajo y cortes de luz")
+* [Metro de Quito ajustará su horario ante los cortes de luz este miércoles 18 de septiembre](https://www.elcomercio.com/actualidad/quito/metro-de-quito-ajusta-horario-cortes-de-luz-miercoles-18-septiembre.html "Metro de Quito ajustará su horario ante los cortes de luz este miércoles 18 de septiembre")
+
+El ministro de Energía y Minas, **Antonio Gonçalves**, habló con Teleamazonas sobre la forma en que se llevarán a cabo estas interrupciones.
+
+Declaraciones del ministro de Energía y Minas sobre los cortes de luz
+---------------------------------------------------------------------
+
+El **Ministro** aclaró que los cortes no durarán **ocho horas**, como se venía hablando. Las empresas eléctricas serán responsables de informar los **horarios** exactos de **suspensión** del **servicio**.
+
+Según **Gonçalves**, los cortes durarán entre tres y cuatro horas, y se realizarán entre las 22:00 y las 06:00.
+
+Inicio del bombardeo de nubes
+-----------------------------
+
+Durante la misma entrevista, el **Ministro** confirmó que el bombardeo de nubes para mitigar los efectos de la **sequía** en la generación **hidroeléctrica** ya ha comenzado, y se espera que los resultados se vean en aproximadamente una semana.
+
+Daniel Noboa dispone corte de luz nacional por mantenimientos
+-------------------------------------------------------------
+
+La **Presidencia** de la **República** emitió un comunicado oficial en sus redes sociales este domingo 15 de septiembre. En anuncio es en torno al tema de la **crisis energética** que atraviesa el país.
+
+El documento señala que el presidente de la República, **Daniel Noboa**, toma decisiones preventivas para afrontar la **crisis** y mantener la soberanía energética a mediano plazo.
+
+Es por ello que, bajo criterios técnicos, ha decidido efectuar un **mantenimiento preventivo** en todas las instalaciones del Sistema Nacional de Transmisión y redes de distribución de energía eléctrica.
+
+¿Cuándo será el corte de luz?
+-----------------------------
+
+Para este proceso, se suspenderá el servicio de luz a escala nacional desde las 22:00 del miércoles 18 de septiembre hasta las 06:00 del jueves 19 de septiembre.
+
+El comunicado aclara que este horario se escogió con un sentido de responsabilidad, con la finalidad de evitar una afección en el desarrollo de la vida cotidiana de los ecuatorianos.
+
+El **horario** también busca afectar en la menos medida posible la **productividad** del **Ecuador**.
+
+La Champions Legue recibe a tres ecuatorianos
+=============================================
+
+La segunda tanda de seis partidos de la Champions League tiene a tres ecuatorianos con opciones de debutar.
+-----------------------------------------------------------------------------------------------------------
+
+![Willian Pacho en sus primeros partidos con el PSG en el 2024.](https://www.elcomercio.com/wp-content/uploads/2024/09/champions_ecuatorianos_1.jpg)
+
+La primera fecha de la renovada **Champions League** tendrá un sabor especial para la historia del fútbol ecuatoriano. Tres de sus representantes debutarán en el torneo más importante de clubes del mundo.
+
+El miércoles 18 de septiembre de 2024, la Champions League pone en parrilla seis nuevos partidos, con los ecuatorianos **Angelo Preciado, Willian Pacho y Joel Ordóñez**, tres de sus seleccionados frecuentes, con opciones de sumar minutos.
+
+### Más noticias:
+
+* [Juan Usma debutó y se lo dedicó a su fallecida madre](https://www.elcomercio.com/deportes/futbol/juan-usma-debut-barcelona-ligapro.html "Juan Usma debutó y se lo dedicó a su fallecida madre")
+* [Deportivo Quito ya tiene rival en el Ascenso Nacional](https://www.elcomercio.com/deportes/futbol/deportivo-quito-ya-tiene-rival-en-el-ascenso-nacional.html "Deportivo Quito ya tiene rival en el Ascenso Nacional")
+* [Deportivo Quito tiene DT para buscar el ascenso a la Serie B](https://www.elcomercio.com/deportes/nuevo-dt-carlos-castro-deportivo-quito.html "Deportivo Quito tiene DT para buscar el ascenso a la Serie B")
+
+Los tres ecuatorianos harán su debut en la Champions League, más no en torneos organizados por la UEFA. Ya sumaron **minutos en la Europa League y la Conference League**.
+
+Pero también será el turno para ver en acción al **Manchester City**, uno de los favoritos para ganar el torneo, que recibe al Inter de Italia, reviviendo la final del curso 2022/23 en la que los ingleses se llevaron la corona.
+
+Angelo Preciado y el Sparta Praga
+---------------------------------
+
+Angelo Preciado tiene la opción de sumar sus primeros minutos en la **fase de grupos de la Champions League** con el Sparta de Praga. Su rival será el RB Salzburgo de Austria.
+
+Su experiencia europea se reduce a la Europa League que disputó con el Genk en la 2021/22 con cinco presencias.
+
+No superaron la frase de grupos y quedaron eliminados ante el Dinamo Zagreb de Croacia, West Ham United de Inglaterra y el Rapid Viene de Austria.
+
+![Foto: Facebook Sparta Praga.](https://www.elcomercio.com/wp-content/uploads/2024/09/champions_ecuatorianos_2-1024x683.jpg)
+
+Foto: Facebook Sparta Praga.
+
+Willian Pacho se estrena con el PSG
+-----------------------------------
+
+Willian Pacho tiene una carrera en la que fue quemando etapas desde que empezó en Independiente del Valle, **luego en el Royal Antwerp de Bélgica y en el Eintracht Frankfurt de Alemania**, antes de llegar al poderoso PSG de Francia.
+
+Con los alemanes jugó en la Conference League y la fase previa de la Champions; y con los belgas la misma instancia, pero sin llegar a la fase de grupos.
+
+El PSG es uno de los **favoritos para clasificar directamente entre los ocho primeros** para los octavos de final y tiene como primer rival al sorprendente Girona.
+
+En el camino tendrá que confirmar si está para pelear contra los pesos pesados por el título europeo.
+
+Joel Ordóñez el más experimentado
+---------------------------------
+
+Joel Ordóñez es el más joven de la **trilogía de ecuatorianos que debutarán en la Champions**, pero es el que más lejos llegó en un torneo europeo con las semifinales de la Conference.
+
+Con el Brujas de Bélgica en la 2023/24 perdieron ante la Fiorentina de Italia y quedaron a un paso de la gran final.
+
+El defensa central de 20 años **sumó minutos nueve de los 12 encuentros**. Fue titular en cinco de ellos.
+
+En la Champions tiene la opción de debutar contra el Borussia Dortmund, el actual subcampeón.
+
+![Foto: Facebook Club Brujas.](https://www.elcomercio.com/wp-content/uploads/2024/09/champions_ecuatorianos_3-1024x683.jpg)
+
+Foto: Facebook Club Brujas.
+
+Primer fecha
+------------
+
+### 11:45 Bolonia vs. Shakhtar
+
+Estadio Renato Dall’Ara
+
+### 11:45 Sparta Praga vs. RB Salzburgo
+
+Epet ARENA
+
+### 14:00 PSG vs. Girona
+
+Parque de los Príncipes
+
+### 14:00 Club Brujas vs. Dortmund
+
+Estadio Jan Breydel
+
+### 14:00 Celtic vs. Slavia Bratislava
+
+Celtic Park
+
+### 14:00 Manchester City vs. Inter
+
+Etihad Stadium
+
+No te pierdas – El Confesionario
+--------------------------------
+
+Así funciona el Pico y placa en Quito este miércoles 18 de septiembre
+=====================================================================
+
+La medida del Pico y placa rige dentro de Quito en un horario establecido.
+--------------------------------------------------------------------------
+
+![La Agencia Metropolitana de Tránsito realiza los controles del Pico y placa.](https://www.elcomercio.com/wp-content/uploads/2024/09/Pico-y-placa-en-Quito-1.jpg)
+
+El **Municipio** de **Quito** implementó la medida de **Pico** y **placa** en **la capital** para controlar el flujo vehicular dentro de la ciudad.
+
+Más noticias
+------------
+
+* [Concejo de Quito debate las sanciones por Pico y placa](https://www.elcomercio.com/actualidad/quito/sanciones-pico-placa-concejo-metropolitano-municipio-quito.html "Concejo de Quito debate las sanciones por Pico y placa")
+* [Controles de exceso de velocidad se harán con este cronograma](https://www.elcomercio.com/actualidad/quito/controles-de-exceso-de-velocidad-cronograma.html "Controles de exceso de velocidad se harán con este cronograma")
+* [Gerente del Metro de Quito denunció reciente acto de vandalismo ante Fiscalía](https://www.elcomercio.com/actualidad/quito/gerente-metro-quito-denuncia-vandalismo.html "Gerente del Metro de Quito denunció reciente acto de vandalismo ante Fiscalía")
+
+La medida del Pico y placa incluye a todos los vehículos y motos del Distrito Metropolitano, a excepción de los conducidos por personas de la tercera edad o con discapacidad.
+
+¿Cómo se aplica el Pico y placa?
+--------------------------------
+
+La restricción vehicular Pico y placa en Quito se aplica cinco días a la semana, de lunes a viernes, de 06:00 a 09:30 y de 16:00 a 20:00.
+
+Este miércoles, no pueden circular los autos con placas terminadas en dígitos 5 y 6.
+
+Contraflujos y Pico y placa en Quito
+------------------------------------
+
+Como medida adicional al **Pico** y **placa**, para que el tránsito tenga mayor fluidez en horas pico, la Agencia Metropolitana de Tránsito (**AMT**) también aplica cuatro **contraflujos** en **Quito**, estos son:
+
+–**Avenida Mariscal Sucre**: desde el cementerio de **San Diego** hasta la avenida Universitaria.
+
+**Mañana**: 06:30 a 07:00 y de 07:30 a 08:00
+
+**Tarde**: 16:30 a 17:00 y 17:30 a 18:00
+
+–**Autopista** **General Rumiñahui**: desde la av. **Pichincha**, en El **Trébol**, hasta el sector de **Cuscungo**, en la autopista.
+
+**Mañana**: 06:30 a 07:30 y de 08:00 a 08:30
+
+**Tarde**: 16:30 a 19:30
+
+–**Avenida Velasco Ibarra** (Oriental): en la mañana desde la avenida **Napo** hasta la av. **Velasco Ibarra** (La Tola). En la tarde, desde el coliseo Rumiñahui hasta La Tola.
+
+**Mañana**: 06:00 a 08:30
+
+**Tarde**: 17:00 a 19:00
+
+– **Túnel Guayasamín**: desde la av. **Guayasamín** y av. **Simón Bolívar** hasta la av. 6 de **Diciembre** y av. **Oswaldo Guayasamín** y viceversa en la tarde.
+
+**Mañana**: 07:00 a 08:30
+
+**Tarde**: de 16:00 a 19:30
+
+Mantente atento a estos contraflujos y a los horarios de **Pico** y **placa** en Quito y evita sanciones.
+
 La reforma constitucional, un debate necesario
 ==============================================
 
@@ -817,140 +1014,3 @@ Treintaidosavos del Ascenso Nacional
 
 No te pierdas - El Confesionario
 --------------------------------
-
-Policía aclara recomendación sobre el uso de silbatos para los apagones
-=======================================================================
-
-El comandante general de la Policía, Víctor Zárate, se refirió al tema que provocó controversia en la ciudadanía.
------------------------------------------------------------------------------------------------------------------
-
-![Henry Tapia, comandante de la Policía Zona 9, durante la rueda de prensa](https://www.elcomercio.com/wp-content/uploads/2024/09/policia-silbatos.jpg)
-
-La **Policía Nacional** realizó una rueda de prensa, la mañana de este martes 17 de septiembre de 2024, para informar las medidas de seguridad que se realizarán durante el **apagón** programado de esta semana.
-
-Los **cortes de luz** en Ecuador se ejecutarán este miércoles 18, desde las 22:00, y se extenderán hasta las 06:00 el jueves 19 de septiembre.
-
-### Más noticias
-
-* [Ecovía y Trolebús modificarán sus horarios por cortes de luz](https://www.elcomercio.com/actualidad/quito/ecovia-trolebus-modificaran-horarios-por-cortes-de-luz.html "Ecovía y Trolebús modificarán sus horarios por cortes de luz")
-* [Recomendaciones para aplicar en los apagones y cortes de luz en Ecuador](https://www.elcomercio.com/actualidad/ecuador/recomendaciones-apagones-ecuador.html "Recomendaciones para aplicar en los apagones y cortes de luz en Ecuador")
-* [Ministerio de Educación cambia los horarios de clases por apagón programado](https://www.elcomercio.com/actualidad/ecuador/ministerio-educacion-horarios-clases-apagon.html "Ministerio de Educación cambia los horarios de clases por apagón programado")
-
-**Henry Tapia**, comandante de la Zona 9 de Quito, aprovechó su intervención para explicar las principales acciones del plan del **Bloque de Seguridad**.
-
-Además, dio ciertas **recomendaciones** a la ciudadanía para que salvaguarden su seguridad durante el racionamiento.
-
-Recomendación de uso de silbatos generó controversia
-----------------------------------------------------
-
-Justamente, uno de sus pedidos causó **controversia** entre la ciudadanía.
-
-El oficial aconsejó a las personas **comprar un silbato** para avisar a la Policía de cualquier eventualidad.
-
-Tapia argumentó su recomendación en que, debido a la falta energía eléctrica, las **alarmas comunitarias** no funcionarán.
-
-“Es importante que adquiramos un pito y que lo hagamos sonar varias veces; la Policía está al tanto que esta es una medida de alerta”, mencionó el uniformado.
-
-Sin embargo, horas más tarde, el comandante general de la Policía Nacional, **Víctor Zárate**, aclaró esta pedido a través de un video institucional.
-
-Zárate desmintió que “la recomendación del uso del silbato sea parte del **plan operativo** para esta eventualidad”.
-
-> [#ACLARACIÓN](https://twitter.com/hashtag/ACLARACI%C3%93N?src=hash&ref_src=twsrc%5Etfw) ||  
->   
-> Reiteramos nuestro compromiso con la ciudadanía ante los racionamientos eléctricos en el país.  
->   
-> Más información en el siguiente [#video](https://twitter.com/hashtag/video?src=hash&ref_src=twsrc%5Etfw):👇🏼🎥 [pic.twitter.com/Mdn8q0GAPT](https://t.co/Mdn8q0GAPT)
-> 
-> — Policía Ecuador (@PoliciaEcuador) [September 17, 2024](https://twitter.com/PoliciaEcuador/status/1836158505834758400?ref_src=twsrc%5Etfw)
-
-Plan operativo de la Policía durante el apagón
-----------------------------------------------
-
-La Policía Nacional aseguró que, durante el apagón nacional, se reforzarán los trabajos con el objetivo de cuidar a la ciudadanía.
-
-La institución explicó que se ejecutarán **estrategias diferenciadas** en todo el territorio nacional, con un énfasis en las provincias con **toque de queda**.
-
-Estas son: Guayas, Los Ríos, Manabí, Orellana, Santa Elena, El Oro, y el cantón Camilo Ponce Enríquez de la provincia de Azuay.
-
-De forma general, el plan operativo para este miércoles y jueves incluye la participación de alrededor de **46 000 efectivos**, a través de cuatro puntos:
-
-1. Coordinación interministerial y estatal
-2. Coordinación con el Bloque de Seguridad que incluye a la Policía y las Fuerzas Armadas
-3. Articulación policial de sus áreas: preventiva, investigativa e inteligencia
-4. Operaciones: esto incluye patrullajes en territorio y zonas vulnerables, mayor presencia uniformada, y el control del toque de queda.
-
-Operativos de seguridad en Quito
---------------------------------
-
-En Quito, al igual que en el resto del país, los patrullajes se intensificarán en sitios de riesgo, como entidades bancarias, zonas residenciales o cárceles.
-
-Los recorridos policiales incluirán una patrulla y cuatro motocicletas. Se pondrá énfasis en los distritos Eloy Alfaro, Quitumbe y La Delicia.
-
-En la capital se establecerán **ocho puntos de vigilancia**, que estarán distribuidos en los ejes de ingreso a la ciudad.
-
-Billie Eilish y Finneas O’Connell anuncian que votarán a favor de Kamala Harris
-===============================================================================
-
-Billie Eilish y Finneas apoyan a Kamala Harris en las elecciones de EE.UU., uniéndose a más celebridades en su respaldo público.
---------------------------------------------------------------------------------------------------------------------------------
-
-![Fotografía de archivo fechada el 10 de marzo de 2024 de la cantante Billie Elish y su hermano Finneas O'Connell posando en la galas de los Óscar 2024 en Los Ángeles.](https://www.elcomercio.com/wp-content/uploads/2024/09/billie-kamala.png)
-
-La cantante **Billie Eilish y su hermano, Finneas O’Connell**, anunciaron este martes que votarán por la vicepresidenta y candidata **demócrata Kamala Harris** en las elecciones presidenciales de Estados Unidos.
-
-### Más noticias
-
-* [Jefa de la campaña de Kamala Harris advierte sobre la retórica de Donald Trump](https://www.elcomercio.com/actualidad/mundo/jefa-campana-harris-advierte-retorica-de-trump.html "Jefa de la campaña de Kamala Harris advierte sobre la retórica de Donald Trump ")
-* [Taylor Swift decidió si votar por Kamala Harris o Donald Trump](https://www.elcomercio.com/actualidad/mundo/taylor-swift-voto-kamala-harris-o-donald-trump.html "Taylor Swift decidió si votar por Kamala Harris o Donald Trump")
-
-“**Votamos por Kamala Harris y Tim Walz** porque están luchando para proteger nuestra libertad reproductiva, nuestro planeta y nuestra democracia”, dijo Eilish en un video compartido en su cuenta de Instagram.
-
-> [Ver esta publicación en Instagram](https://www.instagram.com/reel/DABi7rnv0EV/?utm_source=ig_embed&utm_campaign=loading)
-> 
-> [Una publicación compartida por BILLIE EILISH (@billieeilish)](https://www.instagram.com/reel/DABi7rnv0EV/?utm_source=ig_embed&utm_campaign=loading)
-
-O’Connell añadió: “**No podemos permitir que los extremistas controlen nuestras vidas**, nuestras libertades y nuestro futuro. La única forma de detenerlos y de frenar la peligrosa agenda del ‘**Proyecto 2025′ es votar y elegir a Kamala Harris**“.
-
-Un respaldo que se suma a otras figuras del mundo del espectáculo
------------------------------------------------------------------
-
-Los hermanos, **ganadores de 19 premios Grammy**, se suman a una lista creciente de celebridades que han manifestado públicamente **su apoyo a la vicepresidenta en las últimas semanas**. Hicieron su anuncio en el **Día Nacional del Registro de Votantes**, con el objetivo de motivar a sus seguidores a registrarse y votar el 5 de noviembre.
-
-Eilish ya había respaldado al presidente **Joe Biden en 2020**, cuando habló y actuó en la Convención Nacional Demócrata. Este nuevo apoyo llega una semana después de que **Taylor Swift**, una de las figuras más influyentes de la música, también expresó su **respaldo público a Harris**.
-
-Swift lo hizo justo después del debate presidencial del 10 de septiembre entre la candidata demócrata y su rival, el expresidente republicano **Donald Trump**.
-
-El día posterior al anuncio de Swift, la web [www.vote.org](http://www.vote.org/), que ella incluyó en su publicación de Instagram, registró 337.826 visitas, según un portavoz de la Administración de Servicios del Gobierno de Estados Unidos en declaraciones a **The Hollywood Reporter**.
-
-Cortes de luz afectarán las redes de telefonía móvil e Internet de esta manera
-==============================================================================
-
-Las operadoras de telecomunicaciones en Ecuador enfrentan intermitencias en sus servicios debido a cortes de energía eléctrica, aunque han implementado fuentes alternas para mantener la conectividad.
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-![El servicio de internet tendrá intermitencias durante los cortes de luz. Foto: Pexels](https://www.elcomercio.com/wp-content/uploads/2024/09/internet.jpg)
-
-La Asociación de Empresas de Telecomunicaciones (**Asetel** – Ecuador) dio detalles de cómo trabajarán las **operadoras telefónicas** durante los **cortes de luz** de ocho horas, programados entre el 19 y 26 de septiembre de 2024.
-
-### Más noticias
-
-* [Estos son los servicios públicos que atenderán con normalidad, pese al teletrabajo y cortes de luz](https://www.elcomercio.com/actualidad/ecuador/servicios-publicos-atenderan-normalidad-garantizados-pese-teletrabajo-cortes-luz.html "Estos son los servicios públicos que atenderán con normalidad, pese al teletrabajo y cortes de luz")
-* [Metro de Quito ajustará su horario ante los cortes de luz este miércoles 18 de septiembre](https://www.elcomercio.com/actualidad/quito/metro-de-quito-ajusta-horario-cortes-de-luz-miercoles-18-septiembre.html "Metro de Quito ajustará su horario ante los cortes de luz este miércoles 18 de septiembre")
-* [Recomendaciones para aplicar en los apagones y cortes de luz en Ecuador](https://www.elcomercio.com/actualidad/ecuador/recomendaciones-apagones-ecuador.html "Recomendaciones para aplicar en los apagones y cortes de luz en Ecuador")
-
-Durante los apagones habrá interrupciones e intermitencias en los servicios de telefonía móvil e Internet, señaló la **Asetel**. La razón principal es que la electricidad es vital para el funcionamiento de las redes de telecomunicaciones.
-
-En un comunicado señaló este 17 de septiembre de 2024 que, “las redes de telecomunicaciones fijas y móviles son necesarias para mantener la comunicación y desarrollo del país. Sin embargo, debido a las suspensiones de la energía eléctrica, los servicios que se soportan en dichas redes podrían presentar intermitencias”.
-
-> Estamos comprometidos con la continuidad en la prestación de servicios de telecomunicaciones en el país, a pesar de los retos que presentan las suspensiones del servicio de energía pública.  
->   
-> Mantente informado a través de nuestros canales oficiales. [pic.twitter.com/4qlAiwLSUq](https://t.co/4qlAiwLSUq)
-> 
-> — Asetel (@AsetelEcuador) [September 17, 2024](https://twitter.com/AsetelEcuador/status/1836171207776813288?ref_src=twsrc%5Etfw)
-
-Además, agregó que las operadoras han desplegado el mayor contingente para mantener la continuidad de la prestación de los servicios. Principalmente, a través de fuentes de energía alterna, baterías, generadores, entre otros. Estos equipos suministran energía por un determinado periodo de tiempo de entre dos y tres horas de acuerdo con la demanda de tráfico existente.
-
-“Sin embargo, al ser suspensiones del servicio de energía eléctrica prolongadas y recurrentes, este periodo de respaldo que permite brindar el servicio disminuye, debido al corto tiempo que se dispone para una nueva recarga total de su capacidad”.
-
-El sector de telecomunicaciones se suma a las iniciativas de autoabastecimiento privado y medidas de ahorro de energía. “Agradecemos su comprensión ante estos eventos de fuerza mayor que tienen un impacto directo en la prestación de los servicios públicos de telecomunicaciones y ratificamos  
-nuestro compromiso con la conectividad del Ecuador”, finalizó.
