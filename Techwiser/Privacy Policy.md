@@ -11,7 +11,6 @@
 * [More](# "More")
     * [About Us](https://techwiser.com/about/)
     * [Contact Us](https://techwiser.com/contact-us/)
-    * [Advertise](https://techwiser.com/advertise/)
     * [Privacy Policy](https://techwiser.com/privacy-policy/)
     * [Careers](https://techwiser.com/we-are-hiring/)
 
@@ -67,9 +66,9 @@ Share [Facebook](https://www.facebook.com/sharer/sharer.php?u=https://techwiser.
 * [Youtube](https://www.youtube.com/techwiser)
 * [Rss](https://techwiser.com/feed/)
 
-* [Advertise](https://techwiser.com/advertise/)
 * [About Us](https://techwiser.com/about/)
 * [Contact Us](https://techwiser.com/contact-us/)
+* [Careers](https://techwiser.com/hiring-tech-writer/)
 * [Privacy Policy](https://techwiser.com/privacy-policy/)
 
 © Techwiser Media Private Limited (2012-2024)
@@ -91,6 +90,5 @@ Share [Facebook](https://www.facebook.com/sharer/sharer.php?u=https://techwiser.
 * [More](# "More")
     * [About Us](https://techwiser.com/about/)
     * [Contact Us](https://techwiser.com/contact-us/)
-    * [Advertise](https://techwiser.com/advertise/)
     * [Privacy Policy](https://techwiser.com/privacy-policy/)
     * [Careers](https://techwiser.com/we-are-hiring/)
