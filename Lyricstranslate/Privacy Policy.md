@@ -107,67 +107,67 @@ Russia is waging a disgraceful war on Ukraine.     Stand With Ukraine!
 
 Site activity
 
-[![Hoang Nguyen Ngo](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1597949-1699165030.jpg)](https://lyricstranslate.com/en/translator/hoang-nguyen-ngo "Hoang Nguyen Ngo")
+[![Icey](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1172336-1552661453.png)](https://lyricstranslate.com/en/translator/icey "Icey")
 
-New translation
+New transcription request
 
-[Red Army Choir - Там, вдали за рекой (Tam, vdali za rekoyi)](https://lyricstranslate.com/en/red-army-choir-tam-vdali-za-rekoyi-vietnamese)
+[Rauhbein - Geradeaus](https://lyricstranslate.com/en/rauhbein-geradeaus)
 
-Russian → Vietnamese
+German
 
-[![Baran-29](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1454896-1656511190.jpg)](https://lyricstranslate.com/en/translator/baran-29 "Baran-29")
-
-New translation
-
-[Ayten Alpman - Kimbilir Kim Var Yanında](https://lyricstranslate.com/en/ayten-alpman-kimbilir-kim-var-yaninda-english)
-
-Turkish → English
-
-[![Bhavana Mishra](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1628808-1726551075.jpg)](https://lyricstranslate.com/en/translator/bhavana-mishra "Bhavana Mishra")
-
-New song
-
-[Faizan Nizam Ansari - Tera naam mila](https://lyricstranslate.com/en/faizan-nizam-ansari-tera-naam-mila-lyrics)
-
-Hindi
-
-[![Bhavana Mishra](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1628808-1726551075.jpg)](https://lyricstranslate.com/en/translator/bhavana-mishra "Bhavana Mishra")
+[![Super Girl](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1308083-1547756752.png)](https://lyricstranslate.com/en/translator/super-girl "Super Girl")
 
 New request
 
-[Faizan Nizam Ansari - तेरा नाम मिला (Tera naam mila)](https://lyricstranslate.com/en/request/tera-naam-mila)
+[Teddy Swims - Bad dreams](https://lyricstranslate.com/en/request/bad-dreams-6)
 
-Hindi → English
+English → Italian
 
-[![victorianovak](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1274653-1638061224.jpg)](https://lyricstranslate.com/en/translator/victorianovak "victorianovak")
-
-New collection
-
-[Pesadilla fatal (1991)](https://lyricstranslate.com/en/collection/pesadilla-fatal-1991)
-
-[![robinofsherwood17021981](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1199762-1607435630.jpg)](https://lyricstranslate.com/en/translator/robinofsherwood17021981 "robinofsherwood17021981")
+[![Thomas222](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1310118-1706205100.jpg)](https://lyricstranslate.com/en/translator/thomas222 "Thomas222")
 
 New translation
 
-[Kehlani - Next 2 U](https://lyricstranslate.com/en/kehlani-next-2-u-german)
+[Chava Alberstein - רמז (Remez)](https://lyricstranslate.com/en/chava-alberstein-remez-transliteration)
 
-English → German
+Hebrew → Transliteration
 
-[![Hoang Nguyen Ngo](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1597949-1699165030.jpg)](https://lyricstranslate.com/en/translator/hoang-nguyen-ngo "Hoang Nguyen Ngo")
+[![Feedeeri☆](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1568446-1726261869.jpg)](https://lyricstranslate.com/en/translator/feedeeri%E2%98%86 "Feedeeri☆")
+
+New song
+
+[Yoshimi Iwasaki - Good-day Sunshine](https://lyricstranslate.com/en/yoshimi-iwasaki-good-day-sunshine-lyrics)
+
+Japanese
+
+[![ukleti pesnik](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1516728-1721158651.jpg)](https://lyricstranslate.com/en/translator/ukleti-pesnik "ukleti pesnik")
+
+New comment
+
+Nemo should probably be left as it is, from ...  [more](https://lyricstranslate.com/en/comment/1165665#comment-1165665)
+
+[![chrisdemeyer03@gmail.com](https://lyricstranslate.com/files/styles/micro/public/avatar-default-u.png)](https://lyricstranslate.com/en/translator/chrisdemeyer03gmailcom "chrisdemeyer03@gmail.com")
+
+New request
+
+[Petula Clark - Cœur blessé](https://lyricstranslate.com/en/request/c%C5%93ur-bless%C3%A9)
+
+French → Dutch
+
+[![maluca](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1206376-1574120991.gif)](https://lyricstranslate.com/en/translator/maluca "maluca")
+
+New song
+
+[Heine Walfisch - Poem](https://lyricstranslate.com/en/heine-walfisch-poem-lyrics)
+
+English
+
+[![Khvedar Nabilkin](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1387812-1699524851.jpg)](https://lyricstranslate.com/en/translator/khvedar-nabilkin "Khvedar Nabilkin")
 
 New translation
 
-[Oleg Gazmanov - Два орла (Dva orla)](https://lyricstranslate.com/en/oleg-gazmanov-dva-orla-vietnamese)
+[Tydeal - Superstitious](https://lyricstranslate.com/en/tydeal-superstitious-belarusian)
 
-Russian → Vietnamese
-
-[![Valeriu Raut](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1118259-1658638924.jpg)](https://lyricstranslate.com/en/translator/valeriu-raut "Valeriu Raut")
-
-New translation
-
-[Alexander Pushkin - Чёрная шаль (Chyornaya shal')](https://lyricstranslate.com/en/alexander-pushkin-chyornaya-shal-spanish)
-
-Russian → Spanish
+English → Belarusian
 
 [LyricsTranslate.com](https://lyricstranslate.com/) – the world's largest repository of lyrics translations
 
