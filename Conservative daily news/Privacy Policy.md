@@ -1,16 +1,5 @@
 Tuesday, September 17 2024
 
-Breaking News
-
-* [12 Democrats Warn Biden’s Natural Gas Freeze Could End Up Undermining Ukraine](https://www.conservativedailynews.com/2024/09/12-democrats-warn-bidens-natural-gas-freeze-could-end-up-undermining-ukraine/)
-* [Secret Service Head Admits Need For ‘Paradigm Shift’ In Presidential Protection After Second Assassination Attempt On Trump](https://www.conservativedailynews.com/2024/09/secret-service-head-admits-need-for-paradigm-shift-in-presidential-protection-after-second-assassination-attempt-on-trump/)
-* [Shoplifting And Vehicle Thefts Soared As Haitian Migrants Poured Into Ohio Town, Police Data Shows](https://www.conservativedailynews.com/2024/09/shoplifting-and-vehicle-thefts-soared-as-haitian-migrants-poured-into-ohio-town-police-data-shows/)
-* [BP Dumping Key Green Energy Business](https://www.conservativedailynews.com/2024/09/bp-dumping-key-green-energy-business/)
-* [FBI Tipped Off About Suspected Trump Gunman Ryan Wesley Routh’s Firearm Possession In 2019](https://www.conservativedailynews.com/2024/09/fbi-tipped-off-about-suspected-trump-gunman-ryan-wesley-rouths-firearm-possession-in-2019/)
-* [Trump Is Trailing Harris In Key Demographic — But There Is Still Hope He Can Make Up Ground](https://www.conservativedailynews.com/2024/09/trump-is-trailing-harris-in-key-demographic-but-there-is-still-hope-he-can-make-up-ground/)
-* [Dem Senators Push For Gargantuan Rate Cut As Election Day Draws Near](https://www.conservativedailynews.com/2024/09/dem-senators-push-for-gargantuan-rate-cut-as-election-day-draws-near/)
-* [Supreme Court’s Move To Gut Administrative State Tees Up Trouble For Biden’s Green Power Plant Rules](https://www.conservativedailynews.com/2024/09/supreme-courts-move-to-gut-administrative-state-tees-up-trouble-for-bidens-green-power-plant-rules/)
-
 * [Sidebar](#)
 * [Random Article](https://www.conservativedailynews.com/privacy-policy/?random-post=1 "Random Article")
 * [Sign In](#)
@@ -175,16 +164,16 @@ Recent Posts
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
 
+* [POTD: National Icelandic Police With SIG Sauer MCX](https://www.thegunpage.com/potd-national-icelandic-police-with-sig-sauer-mcx/10610630)
+* [Ruger LC Charger 5.7: Review](https://www.thegunpage.com/ruger-lc-charger-5-7-review/10610628)
 * [Indicted: Rapper Sean “Diddy” Combs Alleged to Have Used Guns to Intimidate Victims, Force Participants in Sex Parties](https://www.thegunpage.com/indicted-rapper-sean-diddy-combs-alleged-to-have-used-guns-to-intimidate-victims-force-participants-in-sex-parties/10610624)
+* [The Ukrainian .57 HL Cartridge and Integrally Suppressed Rifle](https://www.thegunpage.com/the-ukrainian-57-hl-cartridge-and-integrally-suppressed-rifle/10610627)
 * [Latest Would-Be Trump Assassin Broke Numerous Gun Laws](https://www.thegunpage.com/latest-would-be-trump-assassin-broke-numerous-gun-laws/10610622)
 * [OH: Stop The Binary Trigger Ban](https://www.thegunpage.com/oh-stop-the-binary-trigger-ban/10610618)
 * [GOA Urges Public to Avoid Sharing Mass Murderer’s Names, Images](https://www.thegunpage.com/goa-urges-public-to-avoid-sharing-mass-murderers-names-images/10610619)
 * [New Compact Pulsar Axion XG30 and XG35 Thermal Monoculars](https://www.thegunpage.com/new-compact-pulsar-axion-xg30-and-xg35-thermal-monoculars/10610626)
 * [New Hampshire vs. Massachusetts, An Argument for National Reciprocity](https://www.thegunpage.com/new-hampshire-vs-massachusetts-an-argument-for-national-reciprocity/10610617)
-* [Return of the Colt Viper In .357 Magnum](https://www.thegunpage.com/return-of-the-colt-viper-in-357-magnum/10610615)
 * [Kentucky Lawmaker Pushes Waiting Period Following I-75 Shooting](https://www.thegunpage.com/kentucky-lawmaker-pushes-waiting-period-following-i-75-shooting/10610613)
-* [President Trump needs Tier One military protection](https://www.thegunpage.com/president-trump-needs-tier-one-military-protection/10610611)
-* [Former NCAA Rifle Athlete JT Schnering Gets The Nod To Be The Manager Of CMP’s Competition Center In Alabama](https://www.thegunpage.com/former-ncaa-rifle-athlete-jt-schnering-gets-the-nod-to-be-the-manager-of-cmps-competition-center-in-alabama/10610609)
 
 [![ Conservative Political Blogs](https://blog.feedspot.com/wp-content/uploads/2016/12/conservative_political_216px.png?x58297)](https://blog.feedspot.com/conservative_political_blogs/ "Conservative Political Blogs")
 
@@ -223,18 +212,6 @@ Contact Us
 * [Facebook](https://www.facebook.com/ConservativeDailyNews/)
 * [Twitter](https://twitter.com/CDNPosts)
 * [Telegram](https://t.me/CDNMedia)
-
-Recent Comments
-
-* Gary D. Chambers on [We Are Different, and the Left Keeps Attacking Us For It](https://www.conservativedailynews.com/2024/09/we-are-different-and-the-left-keeps-attacking-us-for-it/#comment-782156)
-* charles wilkins on [Tip of the Iceberg](https://www.conservativedailynews.com/2024/09/tip-of-the-iceberg/#comment-782148)
-* Missy B on [MSNBC Anchor Says Trump Should Tone Down Rhetoric After Potential Second Assassination Attempt](https://www.conservativedailynews.com/2024/09/msnbc-anchor-says-trump-should-tone-down-rhetoric-after-potential-second-assassination-attempt/#comment-782143)
-* charles wilkins on [Definition of Insanity](https://www.conservativedailynews.com/2024/09/definition-of-insanity/#comment-782133)
-* charles wilkins on [Harris Asked How She Will Make Life Affordable, Immediately Pivots To Word Salad About Middle Class Upbringing, Lawns](https://www.conservativedailynews.com/2024/09/harris-asked-how-she-will-make-life-affordable-immediately-pivots-to-word-salad-about-middle-class-upbringing-lawns/#comment-782116)
-* charles wilkins on [Victor Davis Hanson Suggests Harris Seeking Second Debate Signals She’s Shaken By ‘Internal Polls’](https://www.conservativedailynews.com/2024/09/victor-davis-hanson-suggests-harris-seeking-second-debate-signals-shes-shaken-by-internal-polls/#comment-782115)
-* Dr. Ramon Argila deTorres y Sandoval on [The Independents Won The Debate](https://www.conservativedailynews.com/2024/09/the-independents-won-the-debate/#comment-782083)
-* Nathan Z. Solomon on [Trump Should Propose a 15% Single Tax Rate for All](https://www.conservativedailynews.com/2024/09/trump-should-propose-a-15-single-tax-rate-for-all/#comment-782014)
-* Sara on [Kamala Harris Will Shut Down X If Elected](https://www.conservativedailynews.com/2024/09/kamala-harris-will-shut-down-x-if-elected/#comment-782013)
 
 [Close](#)
 
