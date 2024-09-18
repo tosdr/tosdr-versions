@@ -133,6 +133,6 @@ These Terms will be governed by and construed in accordance with the laws of the
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-I love the fox!
+Good work, fine product and fine team.
 
-Anne Doyle
+Dan Revell
