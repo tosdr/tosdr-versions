@@ -122,13 +122,13 @@
     
 * [Glasfaser](https://www.telekom.de/netz/glasfasernetz?wt_mc=ii_sososoxx_navi-glasfaser "Glasfaser")
     
-    *   [![Tarife](https://www.telekom.de/resources/images/974626/glasfaser-tarife-produkte.svg)![Tarife](https://www.telekom.de/resources/images/974606/glasfaser-tarife-produkte-hover.svg) Tarife ![Weiter](https://www.telekom.de/resources/images/1080208/arrow-right.svg) ![Weiter](https://www.telekom.de/resources/images/1080210/arrow-right-hover.svg)](https://www.telekom.de/netz/glasfaser?ActiveTabID=glasfaser-tarife&wt_mc=ii_sososoxx_navi-glasfaser-tarife-und-produkte "Tarife")  
+    *   ![Tarife](https://www.telekom.de/resources/images/974626/glasfaser-tarife-produkte.svg)![Tarife](https://www.telekom.de/resources/images/974626/glasfaser-tarife-produkte.svg) Tarife ![Weiter](https://www.telekom.de/resources/images/1080208/arrow-right.svg) ![Weiter](https://www.telekom.de/resources/images/1080210/arrow-right-hover.svg)  
         * [Glasfaser-Tarife](https://www.telekom.de/netz/glasfaser?ActiveTabID=glasfaser-tarife&wt_mc=ii_sososoxx_navi-glasfaser-tarife-und-produkte-glasfaser-tarife "Glasfaser-Tarife")
-    *   [![Vernetztes Zuhause](https://www.telekom.de/resources/images/974634/internet-vernetztes-zuhause.svg)![Vernetztes Zuhause](https://www.telekom.de/resources/images/974598/internet-vernetztes-zuhause-hover.svg) Glasfaservorteile ![Weiter](https://www.telekom.de/resources/images/1080208/arrow-right.svg) ![Weiter](https://www.telekom.de/resources/images/1080210/arrow-right-hover.svg)](https://www.telekom.de/netz/glasfaser-vorteile "Glasfaservorteile")  
+    *   ![Vernetztes Zuhause](https://www.telekom.de/resources/images/974634/internet-vernetztes-zuhause.svg)![Vernetztes Zuhause](https://www.telekom.de/resources/images/974634/internet-vernetztes-zuhause.svg) Glasfaservorteile ![Weiter](https://www.telekom.de/resources/images/1080208/arrow-right.svg) ![Weiter](https://www.telekom.de/resources/images/1080210/arrow-right-hover.svg)  
         * [Glasfaser Vorteile](https://www.telekom.de/netz/glasfaser-vorteile "Glasfaser Vorteile")
         * [Glasfaserausbau](https://www.telekom.de/netz/glasfaser/glasfaserausbau "Glasfaserausbau")
         * [Was ist FTTH?](https://www.telekom.de/netz/glasfaser/ftth "Was ist FTTH?")
-    *   [![Vernetztes Zuhause](https://www.telekom.de/resources/images/974634/internet-vernetztes-zuhause.svg)![Vernetztes Zuhause](https://www.telekom.de/resources/images/974598/internet-vernetztes-zuhause-hover.svg) Glasfaseranschluss ![Weiter](https://www.telekom.de/resources/images/1080208/arrow-right.svg) ![Weiter](https://www.telekom.de/resources/images/1080210/arrow-right-hover.svg)](https://www.telekom.de/netz/glasfaser/glasfaserloesungen "Glasfaseranschluss")  
+    *   ![Vernetztes Zuhause](https://www.telekom.de/resources/images/974634/internet-vernetztes-zuhause.svg)![Vernetztes Zuhause](https://www.telekom.de/resources/images/974634/internet-vernetztes-zuhause.svg) Glasfaseranschluss ![Weiter](https://www.telekom.de/resources/images/1080208/arrow-right.svg) ![Weiter](https://www.telekom.de/resources/images/1080210/arrow-right-hover.svg)  
         * [Für privates Eigentum](https://www.telekom.de/netz/glasfaser/neubauprojekte "Für privates Eigentum")
         * [Für gewerbliches Eigentum](https://www.telekom.de/netz/glasfaser/glasfaser-gewerbe "Für gewerbliches Eigentum")
         * [Für Immobilienwirtschaft](https://www.telekom.de/netz/glasfaser/glasfaser-immobilienwirtschaft "Für Immobilienwirtschaft")
@@ -531,20 +531,20 @@
         
          ![Weiter](https://www.telekom.de/resources/images/1080208/arrow-right.svg)Zurück
         
-        *  [![Tarife](https://www.telekom.de/resources/images/974626/glasfaser-tarife-produkte.svg)Tarife](https://www.telekom.de/netz/glasfaser?ActiveTabID=glasfaser-tarife&wt_mc=ii_sososoxx_navi-glasfaser-tarife-und-produkte) ![Weiter](https://www.telekom.de/resources/images/1080208/arrow-right.svg)
+        *  ![Tarife](https://www.telekom.de/resources/images/974626/glasfaser-tarife-produkte.svg)Tarife ![Weiter](https://www.telekom.de/resources/images/1080208/arrow-right.svg)
             
              ![Weiter](https://www.telekom.de/resources/images/1080208/arrow-right.svg)Zurück
             
-            * [Tarife](https://www.telekom.de/netz/glasfaser?ActiveTabID=glasfaser-tarife&wt_mc=ii_sososoxx_navi-glasfaser-tarife-und-produkte)
+            * Tarife
                 
             * [Glasfaser-Tarife](https://www.telekom.de/netz/glasfaser?ActiveTabID=glasfaser-tarife&wt_mc=ii_sososoxx_navi-glasfaser-tarife-und-produkte-glasfaser-tarife)
                 
             
-        *  [![Vernetztes Zuhause](https://www.telekom.de/resources/images/974634/internet-vernetztes-zuhause.svg)Glasfaservorteile](https://www.telekom.de/netz/glasfaser-vorteile) ![Weiter](https://www.telekom.de/resources/images/1080208/arrow-right.svg)
+        *  ![Vernetztes Zuhause](https://www.telekom.de/resources/images/974634/internet-vernetztes-zuhause.svg)Glasfaservorteile ![Weiter](https://www.telekom.de/resources/images/1080208/arrow-right.svg)
             
              ![Weiter](https://www.telekom.de/resources/images/1080208/arrow-right.svg)Zurück
             
-            * [Glasfaservorteile](https://www.telekom.de/netz/glasfaser-vorteile)
+            * Glasfaservorteile
                 
             * [Glasfaser Vorteile](https://www.telekom.de/netz/glasfaser-vorteile)
                 
@@ -553,11 +553,11 @@
             * [Was ist FTTH?](https://www.telekom.de/netz/glasfaser/ftth)
                 
             
-        *  [![Vernetztes Zuhause](https://www.telekom.de/resources/images/974634/internet-vernetztes-zuhause.svg)Glasfaseranschluss](https://www.telekom.de/netz/glasfaser/glasfaserloesungen) ![Weiter](https://www.telekom.de/resources/images/1080208/arrow-right.svg)
+        *  ![Vernetztes Zuhause](https://www.telekom.de/resources/images/974634/internet-vernetztes-zuhause.svg)Glasfaseranschluss ![Weiter](https://www.telekom.de/resources/images/1080208/arrow-right.svg)
             
              ![Weiter](https://www.telekom.de/resources/images/1080208/arrow-right.svg)Zurück
             
-            * [Glasfaseranschluss](https://www.telekom.de/netz/glasfaser/glasfaserloesungen)
+            * Glasfaseranschluss
                 
             * [Für privates Eigentum](https://www.telekom.de/netz/glasfaser/neubauprojekte)
                 
