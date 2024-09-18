@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-d49cdd7638798e9d3d4361f26805477d
+89d6350aa6b24fe9ab38042ca9b96471
 
 [](# "Expand for more options")[](# "Search")
 
@@ -142,11 +142,11 @@ Terms and Conditions
 
 ### Featured Product
 
-[![8 mm by 3 mm Czech glass discs](https://sojourner.biz/images/cache/glass/GL0319ten.200.jpg)](https://sojourner.biz/beads/glass/8-mm-by-3-mm-czech-glass-discs.html "8 mm by 3 mm Czech glass discs")
+[![Slate blue and white hand-loomed cotton blanket](https://sojourner.biz/images/cache/bohemian_chic/TX0006.200.webp)](https://sojourner.biz/bohemian-chic-decor/slate-blue-and-white-hand-loomed-cotton-blanket.html "Slate blue and white hand-loomed cotton blanket")
 
-#### [8 mm by 3 mm Czech glass discs](https://sojourner.biz/beads/glass/8-mm-by-3-mm-czech-glass-discs.html "8 mm by 3 mm Czech glass discs")
+#### [Slate blue and white hand-loomed cotton blanket](https://sojourner.biz/bohemian-chic-decor/slate-blue-and-white-hand-loomed-cotton-blanket.html "Slate blue and white hand-loomed cotton blanket")
 
-$2.00
+$175.00
 
 ### Best Sellers
 
