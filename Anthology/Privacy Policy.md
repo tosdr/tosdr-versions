@@ -186,8 +186,10 @@ Trustworthy AI
 
 Security
 
-* [Product Security Statement](https://www.anthology.com/trust-center/security)
+* [Product Security](https://www.anthology.com/trust-center/security)
 * [Compliance](https://www.anthology.com/trust-center/compliance)
+* [Submit a Vulnerability](https://www.anthology.com/trust-center/submit-a-vulnerability)
+* [Security Hall of Fame](https://www.anthology.com/trust-center/security-hall-of-fame)
 
 Legal
 
