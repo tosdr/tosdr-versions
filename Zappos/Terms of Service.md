@@ -171,7 +171,7 @@ Zappos Footer
 * [Get the Zappos Mobile App](https://zappos.app.link/0OcKfIPXTZ)
 * [Amazon Prime Benefits](https://www.zappos.com/c/prime-link)
 * [Zappos VIP Benefits](https://www.zappos.com/c/vip)
-* [Coupons](https://www.zappos.com/truth-about-zappos-coupons)
+* [Coupons & Sales](https://www.zappos.com/c/coupon)
 * [Accessibility Statement](https://www.zappos.com/c/accessibility-statement)
 
 ### Customer Service
