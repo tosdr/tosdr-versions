@@ -537,6 +537,10 @@ Articles
 
 [](#)[](#)
 
+* [![](https://www.theadvocates.org/wp-content/uploads/2024/09/edit-copy-300x200.jpg)](https://www.theadvocates.org/makers-and-takers/)
+    
+    #### [Makers and Takers](https://www.theadvocates.org/makers-and-takers/)
+    
 * [![](https://www.theadvocates.org/wp-content/uploads/2024/09/Screenshot-2024-09-09-at-11.09.05 AM-300x200.png)](https://www.theadvocates.org/blinking-lights-heroes-of-underthrow/)
     
     #### [Blinking Lights: Heroes of Underthrow](https://www.theadvocates.org/blinking-lights-heroes-of-underthrow/)
@@ -564,10 +568,6 @@ Articles
 * [![](https://www.theadvocates.org/wp-content/uploads/2024/07/Screenshot-2024-07-30-at-9.34.49 AM-300x200.png)](https://www.theadvocates.org/as-debt-turns-into-darkness/)
     
     #### [As Debt Turns Into Darkness](https://www.theadvocates.org/as-debt-turns-into-darkness/)
-    
-* [![](https://www.theadvocates.org/wp-content/uploads/2024/07/Screenshot-2024-07-23-at-6.24.36 PM-300x200.png)](https://www.theadvocates.org/a-hackneyed-meme-for-a-hackneyed-idea/)
-    
-    #### [A Hackneyed Meme for a Hackneyed Idea](https://www.theadvocates.org/a-hackneyed-meme-for-a-hackneyed-idea/)
     
 * [#### All Articles](https://www.theadvocates.org/articles/)
     
