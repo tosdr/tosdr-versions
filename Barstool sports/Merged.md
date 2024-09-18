@@ -142,10 +142,10 @@
 [My Feed!My Feed](https://www.barstoolsports.com/favorites)[App](https://www.barstoolsports.com/download)
 
 * Trending Topics
+* [Stella Blue Golden Mug Giveaway](https://stellabluecoffee.com/)
+* [Football Collection](https://store.barstoolsports.com/collections/football)
 * [Presidents Cup Collection](https://store.barstoolsports.com/collections/barstool-golf-x-presidents-cup)
 * [Barstool Sports x Muck Boot Clogs](https://store.barstoolsports.com/products/barstool-sports-x-muckster-lite-clogs)
-* [Football Collection](https://store.barstoolsports.com/collections/football)
-* [Stella Blue Coffee Football Flavors](https://stellabluecoffee.com/)
 * [Caitlin Clark](https://store.barstoolsports.com/products/her-ind-ii-tee-tee)
 
 Privacy Policy
