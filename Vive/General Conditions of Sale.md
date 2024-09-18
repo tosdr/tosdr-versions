@@ -23,13 +23,13 @@ Search
 
 [Products](https://www.vive.com/uk/product/)
 
-[VIVE XR Elite New](https://www.vive.com/uk/product/vive-xr-elite/overview/)
+[VIVE XR Elite](https://www.vive.com/uk/product/vive-xr-elite/overview/)
 
 [VIVE Flow](https://www.vive.com/uk/product/vive-flow/overview/)
 
 [VIVE Focus Series](https://www.vive.com/uk/product/#focus%20series)
 
-[VIVE Focus Series](https://www.vive.com/uk/product/#focus%20series) [Focus 3](https://www.vive.com/uk/product/vive-focus3/overview/)
+[VIVE Focus Series](https://www.vive.com/uk/product/#focus%20series) [Focus Vision New](https://www.vive.com/uk/product/vive-focus-vision/overview/) [Focus 3](https://www.vive.com/uk/product/vive-focus3/overview/)
 
 [VIVE Pro Series](https://www.vive.com/uk/product/#pro%20series)
 
