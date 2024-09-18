@@ -19,6 +19,14 @@
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![Simon Drake stood beside the mural outside his Walworth home. Credit: Herbie Russell](https://southwarknews.co.uk/wp-content/uploads/2024/09/Simon-Drake-stood-beside-the-mural-outside-his-Walworth-home.-Credit-Herbie-Russell-360x180.png)](https://southwarknews.co.uk/area/walworth/giraffe-painting-outside-my-walworth-home-could-be-a-banksy-says-tv-magician/)
+    
+    ### [‘Giraffe painting outside my Walworth home could be a Banksy’, says TV magician](https://southwarknews.co.uk/area/walworth/giraffe-painting-outside-my-walworth-home-could-be-a-banksy-says-tv-magician/)
+    
+    [![Ben Spencer's outrage has got people talking on X (formerly Twitter) Credit: Ben Spencer](https://southwarknews.co.uk/wp-content/uploads/2024/09/bingo-360x180.png)](https://southwarknews.co.uk/area/london/disabled-millwall-fan-demands-mayor-sorts-out-e-bikes-once-and-for-all-in-passionate-video-after-ridiculous-pile-up-in-central-london/)
+    
+    ### [Disabled Millwall fan demands Mayor ‘sorts out’ e-bikes ‘once and for all’ in passionate video after ridiculous pile-up in Central London](https://southwarknews.co.uk/area/london/disabled-millwall-fan-demands-mayor-sorts-out-e-bikes-once-and-for-all-in-passionate-video-after-ridiculous-pile-up-in-central-london/)
+    
     [![Stock image (London Fire Brigade)](https://southwarknews.co.uk/wp-content/uploads/2024/09/stock-logo-fire-engine-2-london-fire-brigade-360x180.jpg)](https://southwarknews.co.uk/area/dulwich/flat-catches-fire-in-east-dulwich/)
     
     ### [Flat catches fire in East Dulwich](https://southwarknews.co.uk/area/dulwich/flat-catches-fire-in-east-dulwich/)
@@ -46,14 +54,6 @@
     [![The Rising SE1 founders Simon Burke and Piers Greenlees.](https://southwarknews.co.uk/wp-content/uploads/2024/04/Founder-Simon-Burke-and-Piers-Greenlees-360x180.jpeg)](https://southwarknews.co.uk/area/bermondsey/londons-first-lgbtq-cinema-is-set-to-open-in-a-bermondsey/)
     
     ### [London’s first LGBTQ+ cinema is set to open in a Bermondsey](https://southwarknews.co.uk/area/bermondsey/londons-first-lgbtq-cinema-is-set-to-open-in-a-bermondsey/)
-    
-    [![JD Wetherspoon has applied for a license at 50 Tooley Street. Image: Google](https://southwarknews.co.uk/wp-content/uploads/2024/09/JD-Wetherspoon-has-applied-for-a-license-at-50-Tooley-Street.-Image-Google-360x180.png)](https://southwarknews.co.uk/area/borough/wetherspoons-to-open-pub-in-former-london-dungeon/)
-    
-    ### [Wetherspoons to open pub in former London Dungeon](https://southwarknews.co.uk/area/borough/wetherspoons-to-open-pub-in-former-london-dungeon/)
-    
-    [![Left to right: Judith Butler, Nazanin Zagharri-Ratcliffe, Robert Popper](https://southwarknews.co.uk/wp-content/uploads/2024/09/Left-to-right-Judith-Butler-Nazanin-Zagharri-Ratcliffe-Robert-Popper-360x180.png)](https://southwarknews.co.uk/area/south-bank/southbank-centre-announces-winter-literature-season-line-up/)
-    
-    ### [Southbank Centre announces Winter Literature Season line-up](https://southwarknews.co.uk/area/south-bank/southbank-centre-announces-winter-literature-season-line-up/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [In depth history](https://southwarknews.co.uk/category/history/in-depth-history/)
@@ -99,6 +99,14 @@ View All Result
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![Simon Drake stood beside the mural outside his Walworth home. Credit: Herbie Russell](https://southwarknews.co.uk/wp-content/uploads/2024/09/Simon-Drake-stood-beside-the-mural-outside-his-Walworth-home.-Credit-Herbie-Russell-360x180.png)](https://southwarknews.co.uk/area/walworth/giraffe-painting-outside-my-walworth-home-could-be-a-banksy-says-tv-magician/)
+    
+    ### [‘Giraffe painting outside my Walworth home could be a Banksy’, says TV magician](https://southwarknews.co.uk/area/walworth/giraffe-painting-outside-my-walworth-home-could-be-a-banksy-says-tv-magician/)
+    
+    [![Ben Spencer's outrage has got people talking on X (formerly Twitter) Credit: Ben Spencer](https://southwarknews.co.uk/wp-content/uploads/2024/09/bingo-360x180.png)](https://southwarknews.co.uk/area/london/disabled-millwall-fan-demands-mayor-sorts-out-e-bikes-once-and-for-all-in-passionate-video-after-ridiculous-pile-up-in-central-london/)
+    
+    ### [Disabled Millwall fan demands Mayor ‘sorts out’ e-bikes ‘once and for all’ in passionate video after ridiculous pile-up in Central London](https://southwarknews.co.uk/area/london/disabled-millwall-fan-demands-mayor-sorts-out-e-bikes-once-and-for-all-in-passionate-video-after-ridiculous-pile-up-in-central-london/)
+    
     [![Stock image (London Fire Brigade)](https://southwarknews.co.uk/wp-content/uploads/2024/09/stock-logo-fire-engine-2-london-fire-brigade-360x180.jpg)](https://southwarknews.co.uk/area/dulwich/flat-catches-fire-in-east-dulwich/)
     
     ### [Flat catches fire in East Dulwich](https://southwarknews.co.uk/area/dulwich/flat-catches-fire-in-east-dulwich/)
@@ -126,14 +134,6 @@ View All Result
     [![The Rising SE1 founders Simon Burke and Piers Greenlees.](https://southwarknews.co.uk/wp-content/uploads/2024/04/Founder-Simon-Burke-and-Piers-Greenlees-360x180.jpeg)](https://southwarknews.co.uk/area/bermondsey/londons-first-lgbtq-cinema-is-set-to-open-in-a-bermondsey/)
     
     ### [London’s first LGBTQ+ cinema is set to open in a Bermondsey](https://southwarknews.co.uk/area/bermondsey/londons-first-lgbtq-cinema-is-set-to-open-in-a-bermondsey/)
-    
-    [![JD Wetherspoon has applied for a license at 50 Tooley Street. Image: Google](https://southwarknews.co.uk/wp-content/uploads/2024/09/JD-Wetherspoon-has-applied-for-a-license-at-50-Tooley-Street.-Image-Google-360x180.png)](https://southwarknews.co.uk/area/borough/wetherspoons-to-open-pub-in-former-london-dungeon/)
-    
-    ### [Wetherspoons to open pub in former London Dungeon](https://southwarknews.co.uk/area/borough/wetherspoons-to-open-pub-in-former-london-dungeon/)
-    
-    [![Left to right: Judith Butler, Nazanin Zagharri-Ratcliffe, Robert Popper](https://southwarknews.co.uk/wp-content/uploads/2024/09/Left-to-right-Judith-Butler-Nazanin-Zagharri-Ratcliffe-Robert-Popper-360x180.png)](https://southwarknews.co.uk/area/south-bank/southbank-centre-announces-winter-literature-season-line-up/)
-    
-    ### [Southbank Centre announces Winter Literature Season line-up](https://southwarknews.co.uk/area/south-bank/southbank-centre-announces-winter-literature-season-line-up/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [In depth history](https://southwarknews.co.uk/category/history/in-depth-history/)
@@ -215,12 +215,11 @@ This site uses cookies – small text files that are placed on your machine to h
 
 [14th September 2024](https://southwarknews.co.uk/news/spanish-17th-century-galleon-will-soon-arrive-in-london/)
 
-[![Peckham Festival 
-- photo supplied](https://southwarknews.co.uk/wp-content/uploads/2024/09/PeckhamFestival-4206-120x86.jpg)](https://southwarknews.co.uk/area/peckham/peckham-festival-starts-on-friday-and-the-programme-of-events-is-massive/)
+[![JD Wetherspoon has applied for a license at 50 Tooley Street. Image: Google](https://southwarknews.co.uk/wp-content/uploads/2024/09/JD-Wetherspoon-has-applied-for-a-license-at-50-Tooley-Street.-Image-Google-120x86.png)](https://southwarknews.co.uk/area/borough/wetherspoons-to-open-pub-in-former-london-dungeon/)
 
-### [Peckham Festival starts on Friday – and the programme of events is massive](https://southwarknews.co.uk/area/peckham/peckham-festival-starts-on-friday-and-the-programme-of-events-is-massive/)
+### [Wetherspoons to open pub in former London Dungeon](https://southwarknews.co.uk/area/borough/wetherspoons-to-open-pub-in-former-london-dungeon/)
 
-[12th September 2024](https://southwarknews.co.uk/area/peckham/peckham-festival-starts-on-friday-and-the-programme-of-events-is-massive/)
+[17th September 2024](https://southwarknews.co.uk/area/borough/wetherspoons-to-open-pub-in-former-london-dungeon/)
 
 [![Christine Rixon, 75, and Paul Rixon, 76, shown on Bromley High Street.
 Photo by  Joe Coughlan.](https://southwarknews.co.uk/wp-content/uploads/2024/09/Christine-and-Paul-Rixon-120x86.jpg)](https://southwarknews.co.uk/area/south-london/pensioners-in-south-london-disgusted-by-governments-cut-to-winter-fuel-payments/)
@@ -230,6 +229,18 @@ Photo by  Joe Coughlan.](https://southwarknews.co.uk/wp-content/uploads/2024/09/
 [15th September 2024](https://southwarknews.co.uk/area/south-london/pensioners-in-south-london-disgusted-by-governments-cut-to-winter-fuel-payments/)
 
 ### Featured Articles
+
+[![Simon Drake stood beside the mural outside his Walworth home. Credit: Herbie Russell](https://southwarknews.co.uk/wp-content/uploads/2024/09/Simon-Drake-stood-beside-the-mural-outside-his-Walworth-home.-Credit-Herbie-Russell-120x86.png)](https://southwarknews.co.uk/area/walworth/giraffe-painting-outside-my-walworth-home-could-be-a-banksy-says-tv-magician/)
+
+### [‘Giraffe painting outside my Walworth home could be a Banksy’, says TV magician](https://southwarknews.co.uk/area/walworth/giraffe-painting-outside-my-walworth-home-could-be-a-banksy-says-tv-magician/)
+
+[18th September 2024](https://southwarknews.co.uk/area/walworth/giraffe-painting-outside-my-walworth-home-could-be-a-banksy-says-tv-magician/)
+
+[![Ben Spencer's outrage has got people talking on X (formerly Twitter) Credit: Ben Spencer](https://southwarknews.co.uk/wp-content/uploads/2024/09/bingo-120x86.png)](https://southwarknews.co.uk/area/london/disabled-millwall-fan-demands-mayor-sorts-out-e-bikes-once-and-for-all-in-passionate-video-after-ridiculous-pile-up-in-central-london/)
+
+### [Disabled Millwall fan demands Mayor ‘sorts out’ e-bikes ‘once and for all’ in passionate video after ridiculous pile-up in Central London](https://southwarknews.co.uk/area/london/disabled-millwall-fan-demands-mayor-sorts-out-e-bikes-once-and-for-all-in-passionate-video-after-ridiculous-pile-up-in-central-london/)
+
+[18th September 2024](https://southwarknews.co.uk/area/london/disabled-millwall-fan-demands-mayor-sorts-out-e-bikes-once-and-for-all-in-passionate-video-after-ridiculous-pile-up-in-central-london/)
 
 [![Locals did a double take as Madame Tussauds London’s Prince Harry figure was spotted at the Duke of Sussex pub in Peckam (4)](https://southwarknews.co.uk/wp-content/uploads/2024/09/Locals-did-a-double-take-as-Madame-Tussauds-Londons-Prince-Harry-figure-was-spotted-at-the-Duke-of-Sussex-pub-in-Peckam-4-120x86.jpeg)](https://southwarknews.co.uk/area/peckham/prince-harry-and-meghan-markle-waxworks-escapes-from-madame-tussauds-for-birthday-pint-at-peckham-pub/)
 
@@ -254,18 +265,6 @@ Photo by  Joe Coughlan.](https://southwarknews.co.uk/wp-content/uploads/2024/09/
 ### [Furious MP Neil Coyle searching for ‘Gollum lookalike’ and says he must apologise for egging his office](https://southwarknews.co.uk/area/bermondsey/furious-mp-neil-coyle-searching-for-gollum-lookalike-and-says-he-must-apologise-for-egging-his-office/)
 
 [17th September 2024](https://southwarknews.co.uk/area/bermondsey/furious-mp-neil-coyle-searching-for-gollum-lookalike-and-says-he-must-apologise-for-egging-his-office/)
-
-[![Credit: LFB](https://southwarknews.co.uk/wp-content/uploads/2024/06/stock-fire-engines-1-london-fire-brigade-120x86.jpeg)](https://southwarknews.co.uk/area/peckham/twenty-tonnes-of-recyclable-waste-destroyed-in-fire-off-old-kent-road/)
-
-### [Twenty tonnes of recyclable waste destroyed in fire off Old Kent Road](https://southwarknews.co.uk/area/peckham/twenty-tonnes-of-recyclable-waste-destroyed-in-fire-off-old-kent-road/)
-
-[17th September 2024](https://southwarknews.co.uk/area/peckham/twenty-tonnes-of-recyclable-waste-destroyed-in-fire-off-old-kent-road/)
-
-[![The Rising SE1 founders Simon Burke and Piers Greenlees.](https://southwarknews.co.uk/wp-content/uploads/2024/04/Founder-Simon-Burke-and-Piers-Greenlees-120x86.jpeg)](https://southwarknews.co.uk/area/bermondsey/londons-first-lgbtq-cinema-is-set-to-open-in-a-bermondsey/)
-
-### [London’s first LGBTQ+ cinema is set to open in a Bermondsey](https://southwarknews.co.uk/area/bermondsey/londons-first-lgbtq-cinema-is-set-to-open-in-a-bermondsey/)
-
-[17th September 2024](https://southwarknews.co.uk/area/bermondsey/londons-first-lgbtq-cinema-is-set-to-open-in-a-bermondsey/)
 
 ### USEFUL PAGES
 
