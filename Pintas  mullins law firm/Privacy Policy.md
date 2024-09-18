@@ -263,7 +263,7 @@ Select State\*AlabamaAlaskaArizonaArkansasCaliforniaColoradoConnecticutDelawareD
 
 Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. They may contact me by email or telephone (including phone calls, text messages, autodialed / auto-selected or pre-recorded calls). I understand that message and data rates may apply and that consent to such contact is not required for use of these services. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), [Anti Fraud Policy](https://www.pintas.com/anti-fraud-policy/)[Anti Fraud Policy](https://www.pintas.com/anti-fraud-policy-pr/) and [online Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/), including its mandatory arbitration provision. I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
 
-Comments
+Phone
 
 This field is for validation purposes and should be left unchanged.
 
@@ -273,17 +273,17 @@ This field is for validation purposes and should be left unchanged.
 
 #### Frequently Asked Questions
 
-[![What are the odds of beating lung cancer?](https://www.pintas.com/wp-content/uploads/2020/11/what-are-the-odds-of-beating-lung-cancer.jpg "What Are the Odds of Beating Lung Cancer?")](https://www.pintas.com/lung-cancer/what-are-the-odds-of-beating-lung-cancer/ "What Are the Odds of Beating Lung Cancer?")
+[![Handling noncompliance in nursing homes](https://www.pintas.com/wp-content/uploads/2020/09/nursing-home-abuse-lawyer-what-if-my-nursing-home-was-found-noncompliant-with-federal-requirements-scaled.jpg "Handling Noncompliance in Nursing Homes")](https://www.pintas.com/faq/what-if-my-nursing-home-was-found-noncompliant-with-federal-requirements/ "Handling Noncompliance in Nursing Homes")
 
-[#### What Are the Odds of Beating Lung Cancer?](https://www.pintas.com/lung-cancer/what-are-the-odds-of-beating-lung-cancer/)
+[#### Handling Noncompliance in Nursing Homes](https://www.pintas.com/faq/what-if-my-nursing-home-was-found-noncompliant-with-federal-requirements/)
 
-[![What are the types of lung cancer?](https://www.pintas.com/wp-content/uploads/2020/06/lung-cancer-what-are-the-types-of-lung-cancer.jpg "What Are the Types of Lung Cancer?")](https://www.pintas.com/practice-areas/lung-cancer/types-of-lung-cancer "What Are the Types of Lung Cancer?")
+[![Can kids get mesothelioma?](https://www.pintas.com/wp-content/uploads/2020/07/mesothelioma-can-kids-get-mesothelioma-scaled.jpg "Can Kids Get Mesothelioma?")](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/can-kids-get-mesothelioma/ "Can Kids Get Mesothelioma?")
 
-[#### What Are the Types of Lung Cancer?](https://www.pintas.com/practice-areas/lung-cancer/types-of-lung-cancer)
+[#### Can Kids Get Mesothelioma?](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/can-kids-get-mesothelioma/)
 
-[![What are the signs of elder abuse in seniors with dementia?](https://www.pintas.com/wp-content/uploads/2021/01/practice-areas-personal-injury-assisted-living-accident-lawyer-what-are-the-signs-of-elder-abuse-in-seniors-with-dementia.jpg "What Are the Signs of Elder Abuse in Seniors with Dementia?")](https://www.pintas.com/faq/what-are-the-signs-of-elder-abuse-in-seniors-with-dementia/ "What Are the Signs of Elder Abuse in Seniors with Dementia?")
+[![Facts about how mesothelioma patients die](https://www.pintas.com/wp-content/uploads/2020/06/mesothelioma-how-do-mesothelioma-patients-die-2-scaled.jpg "Facts About How Mesothelioma Patients Die")](https://www.pintas.com/practice-areas/lung-cancer/mesothelioma/how-do-patients-die "Facts About How Mesothelioma Patients Die")
 
-[#### What Are the Signs of Elder Abuse in Seniors with Dementia?](https://www.pintas.com/faq/what-are-the-signs-of-elder-abuse-in-seniors-with-dementia/)
+[#### Facts About How Mesothelioma Patients Die](https://www.pintas.com/practice-areas/lung-cancer/mesothelioma/how-do-patients-die)
 
 ### Injured?  
 Tell Us What Happened.
@@ -306,7 +306,7 @@ message
 
 Yes. Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. They may contact me by email or telephone (including phone calls, text messages, autodialed / auto-selected or pre-recorded calls). I understand that message and data rates may apply and that consent to such contact is not required for use of these services. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/), [Anti Fraud Policy](https://www.pintas.com/anti-fraud-policy/) and [online Terms](https://www.pintas.com/website-terms-of-use/), including its mandatory arbitration provision.
 
-Phone
+Comments
 
 This field is for validation purposes and should be left unchanged.
 
