@@ -114,6 +114,8 @@ Keyword(s)
     * [Volunteer](https://minneapolis.edu/alumni-and-friends/volunteer-minneapolis-college "Volunteer at Minneapolis College")
     * [Ways To Give](https://minneapolis.edu/alumni-and-friends/ways-give)
 
+**Campus lockdown drill for emergency preparedness happening today, September 18 at 1:45 p.m. and 6:45 p.m.** 
+
 Breadcrumb
 ----------
 
