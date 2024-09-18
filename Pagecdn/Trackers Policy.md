@@ -2,15 +2,10 @@
 
 [Network](https://pagecdn.com/network/) [Pricing](https://pagecdn.com/pricing/) [Blog](https://pagecdn.com/blog/) [Customer Login](https://my.simplecdn.com/login/) [Signup now](https://pagecdn.com/signup/)
 
-PageCDN is now SimpleCDN
-========================
-
-120+ Locations in 77 Countries. 150 Tbps+ Speed.
-
 ![...](https://assets.simplecdn.com/assets/img/illustrations/illustration-1.png)
 
-Welcome to SimpleCDN
-====================
+PageCDN is now SimpleCDN
+========================
 
 If you're looking for a high performance CDN, check out our [affordable CDN plans](https://pagecdn.com/pricing/) and get started right now.  
   
