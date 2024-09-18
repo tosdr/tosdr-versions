@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/inspiratie/gastcolumns/de-weg-van-trauma-naar-genezing/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/hoofdartikelen/mysterieuze-krachten-van-piramide-structuren/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
