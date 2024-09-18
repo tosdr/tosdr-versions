@@ -56,7 +56,7 @@ Search
 
 [![Home](images/logos/21/logo_white.jpg?v=1696508508227 "Home")](https://www.derrynow.com/)
 
-17 Sept 2024
+18 Sept 2024
 
 * [Home
     
@@ -289,15 +289,6 @@ PSNI
 [Derry Death Notices - Tuesday, 17th September 2024](https://www.derrynow.com/news/deaths/1606560/derry-death-notices-tuesday-17th-september-2024.html)
 -------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![PSNI appeal for information following early morning attack on house in Dungiven](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PSNI appeal for information following early morning attack on house in Dungiven")](https://www.derrynow.com/news/home/1606786/psni-appeal-for-information-following-early-morning-attack-on-house-in-dungiven.html)
-
-The PSNI are investigating the attack.
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[PSNI appeal for information following early morning attack on house in Dungiven](https://www.derrynow.com/news/home/1606786/psni-appeal-for-information-following-early-morning-attack-on-house-in-dungiven.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 [![Derry mental health charity to close due to lack of governmental support](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry mental health charity to close due to lack of governmental support")](https://www.derrynow.com/news/local-news/1606852/derry-mental-health-charity-to-close-due-to-lack-of-governmental-support.html)
 
 MAN has had to close due to a lack of funding
@@ -306,6 +297,15 @@ MAN has had to close due to a lack of funding
 
 [Derry mental health charity to close due to lack of governmental support](https://www.derrynow.com/news/local-news/1606852/derry-mental-health-charity-to-close-due-to-lack-of-governmental-support.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![PSNI appeal for information following early morning attack on house in Dungiven](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PSNI appeal for information following early morning attack on house in Dungiven")](https://www.derrynow.com/news/home/1606786/psni-appeal-for-information-following-early-morning-attack-on-house-in-dungiven.html)
+
+The PSNI are investigating the attack.
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[PSNI appeal for information following early morning attack on house in Dungiven](https://www.derrynow.com/news/home/1606786/psni-appeal-for-information-following-early-morning-attack-on-house-in-dungiven.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Registered sex offender jailed at Derry court for failing to register address change with police](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Registered sex offender jailed at Derry court for failing to register address change with police")](https://www.derrynow.com/news/local-news/1607116/registered-sex-offender-jailed-at-derry-court-for-failing-to-register-address-change-with-police.html)
 
@@ -321,15 +321,6 @@ MAN has had to close due to a lack of funding
 [Suspended sentence for man who 'lashed out' at police in Derry city centre](https://www.derrynow.com/news/local-news/1607109/suspended-sentence-for-man-who-lashed-out-at-police-in-derry-city-centre.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Diffin Event in memory of Odhran Archie O'Connor](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Diffin Event in memory of Odhran Archie O'Connor")](https://www.derrynow.com/news/county-derry-post/1606403/diffin-event-to-be-held-in-nuttscorner-raceway-in-memory-of-county-derry-man.html)
-
-Diffin Event in memory of Odhran Archie O'Connor
-
-[County Derry Post](https://www.derrynow.com/section/1000/county-derry-post)
-
-[Diffin event to be held in Nuttscorner raceway in memory of County Derry man](https://www.derrynow.com/news/county-derry-post/1606403/diffin-event-to-be-held-in-nuttscorner-raceway-in-memory-of-county-derry-man.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 [![Ballymaguigan](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Ballymaguigan")](https://www.derrynow.com/news/derry-sport/1606883/seven-goal-ballymaguigan-cruise-into-intermediate-final-with-victory-over-ballerin.html)
 
 Ballymaguigan defeated Ballerin last night.
@@ -338,6 +329,15 @@ Ballymaguigan defeated Ballerin last night.
 
 [Seven-goal Ballymaguigan cruise into Intermediate final with victory over Ballerin](https://www.derrynow.com/news/derry-sport/1606883/seven-goal-ballymaguigan-cruise-into-intermediate-final-with-victory-over-ballerin.html)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Diffin Event in memory of Odhran Archie O'Connor](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Diffin Event in memory of Odhran Archie O'Connor")](https://www.derrynow.com/news/county-derry-post/1606403/diffin-event-to-be-held-in-nuttscorner-raceway-in-memory-of-county-derry-man.html)
+
+Diffin Event in memory of Odhran Archie O'Connor
+
+[County Derry Post](https://www.derrynow.com/section/1000/county-derry-post)
+
+[Diffin event to be held in Nuttscorner raceway in memory of County Derry man](https://www.derrynow.com/news/county-derry-post/1606403/diffin-event-to-be-held-in-nuttscorner-raceway-in-memory-of-county-derry-man.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
