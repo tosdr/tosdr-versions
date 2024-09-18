@@ -158,76 +158,76 @@ Please note that under Section 512(f) of the DMCA, any person who knowingly mate
 
 TOP NEWS
 
-* [Fourth US Citizen Detained in Venezuela Over Alleged Plot to Kill Maduro](https://www.theepochtimes.com/world/fourth-us-citizen-detained-in-venezuela-over-alleged-plot-to-kill-maduro-5726044)
+* [Americans Can Now Renew Their Passports Online: Everything You Need to Know](https://www.theepochtimes.com/us/americans-can-now-renew-their-passports-online-everything-you-need-to-know-5726274)
     
-    NEW By [Aldgra Fredly](https://www.theepochtimes.com/author/aldgra-fredly)
+    NEW By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
     
-    [![Fourth US Citizen Detained in Venezuela Over Alleged Plot to Kill Maduro](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Americans Can Now Renew Their Passports Online: Everything You Need to Know](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Fourth US Citizen Detained in Venezuela Over Alleged Plot to Kill Maduro](https://img.theepochtimes.com/assets/uploads/2024/08/25/id5712508-maduro-1200x800.jpg-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/world/fourth-us-citizen-detained-in-venezuela-over-alleged-plot-to-kill-maduro-5726044)
-* [Fed Expected to Cut Interest Rates—What This Means for Your Money](https://www.theepochtimes.com/us/fed-expected-to-cut-interest-rates-what-this-means-for-your-money-5725711)
+    ![Americans Can Now Renew Their Passports Online: Everything You Need to Know](https://img.theepochtimes.com/assets/uploads/2024/06/19/id5671603-passport.jpg-sb-205x123.jpg.webp)](https://www.theepochtimes.com/us/americans-can-now-renew-their-passports-online-everything-you-need-to-know-5726274)
+* [Second Wave of Explosions Hits Communications Devices Across Lebanon](https://www.theepochtimes.com/world/second-wave-of-explosions-hits-communications-devices-across-lebanon-5726302)
     
-    NEW By [Andrew Moran](https://www.theepochtimes.com/author/andrew-moran)
+    NEW By [Owen Evans](https://www.theepochtimes.com/author/owen-evans)
     
-    [![Fed Expected to Cut Interest Rates—What This Means for Your Money](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Second Wave of Explosions Hits Communications Devices Across Lebanon](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Fed Expected to Cut Interest Rates—What This Means for Your Money](https://img.theepochtimes.com/assets/uploads/2022/11/03/us.fed_-205x123.jpg.webp)](https://www.theepochtimes.com/us/fed-expected-to-cut-interest-rates-what-this-means-for-your-money-5725711)
-* [Experts Highlight Increased Cyber Attack Risks in Commercial Flights](https://www.theepochtimes.com/us/experts-highlight-increased-cyber-attack-risks-in-commercial-flights-5722325)
+    ![Second Wave of Explosions Hits Communications Devices Across Lebanon](https://img.theepochtimes.com/assets/uploads/2022/07/18/id5726164-Pager-lebanon2-205x123.jpg.webp)](https://www.theepochtimes.com/world/second-wave-of-explosions-hits-communications-devices-across-lebanon-5726302)
+* [The Complex Story of Folate and Age](https://www.theepochtimes.com/health/the-complex-story-of-folate-and-age-5718612)
     
-    NEW By [Autumn Spredemann](https://www.theepochtimes.com/author/autumn-spredemann)
+    NEW By [Theresa Sam Houghton](https://www.theepochtimes.com/author/theresa-sam-houghton)
     
-    [![Experts Highlight Increased Cyber Attack Risks in Commercial Flights](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![The Complex Story of Folate and Age](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Experts Highlight Increased Cyber Attack Risks in Commercial Flights](https://img.theepochtimes.com/assets/uploads/2024/09/13/id5724037-United-205x123.jpg.webp)](https://www.theepochtimes.com/us/experts-highlight-increased-cyber-attack-risks-in-commercial-flights-5722325)
-* [Aurora Police Offer Help to Apartment Complexes Amid Venezuelan Gang Issues](https://www.theepochtimes.com/us/aurora-police-offer-help-to-apartment-complexes-amid-venezuelan-gang-issues-5724659)
+    ![The Complex Story of Folate and Age](https://img.theepochtimes.com/assets/uploads/2024/09/17/id5725772-Shutterstock_532050646-205x123.jpg.webp)](https://www.theepochtimes.com/health/the-complex-story-of-folate-and-age-5718612)
+* [Trump Says He’ll Restore SALT Deduction, Lower Taxes Ahead of Long Island Rally](https://www.theepochtimes.com/us/trump-says-hell-restore-salt-deduction-lower-taxes-ahead-of-long-island-rally-5726022)
     
-    NEW By [Allan Stein](https://www.theepochtimes.com/author/allan-stein)
+    2hr By [Caden Pearson](https://www.theepochtimes.com/author/caden-pearson)
     
-    [![Aurora Police Offer Help to Apartment Complexes Amid Venezuelan Gang Issues](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Trump Says He’ll Restore SALT Deduction, Lower Taxes Ahead of Long Island Rally](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Aurora Police Offer Help to Apartment Complexes Amid Venezuelan Gang Issues](https://img.theepochtimes.com/assets/uploads/2024/09/15/id5724664-KnownTdAMemebersBooking1-205x123.jpg.webp)](https://www.theepochtimes.com/us/aurora-police-offer-help-to-apartment-complexes-amid-venezuelan-gang-issues-5724659)
-* [State Laws Could Push Ballot Counting Beyond Election Day in Some Swing States](https://www.theepochtimes.com/us/state-laws-could-push-ballot-counting-beyond-election-day-in-some-swing-states-5725234)
+    ![Trump Says He’ll Restore SALT Deduction, Lower Taxes Ahead of Long Island Rally](https://img.theepochtimes.com/assets/uploads/2024/09/14/id5724309-GettyImages-2170958618-Donald-Trump-OP-205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-says-hell-restore-salt-deduction-lower-taxes-ahead-of-long-island-rally-5726022)
+* [Mortgage Applications Rise Amid Fed Rate Cut Prediction](https://www.theepochtimes.com/business/mortgage-applications-rise-amid-fed-rate-cut-prediction-5726188)
     
-    NEW By [Nathan Worcester](https://www.theepochtimes.com/author/nathan-worcester)
+    3hr By [Naveen Athrappully](https://www.theepochtimes.com/author/naveen-athrappully)
     
-    [![State Laws Could Push Ballot Counting Beyond Election Day in Some Swing States](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Mortgage Applications Rise Amid Fed Rate Cut Prediction](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![State Laws Could Push Ballot Counting Beyond Election Day in Some Swing States](https://img.theepochtimes.com/assets/uploads/2024/03/05/id5601353-Voting-12_JF_03052024-205x123.jpg.webp)](https://www.theepochtimes.com/us/state-laws-could-push-ballot-counting-beyond-election-day-in-some-swing-states-5725234)
-* [FAA Proposes $633,000 Fine to SpaceX for Alleged Rocket Launch Infractions](https://www.theepochtimes.com/business/faa-proposes-633000-fine-to-spacex-for-alleged-rocket-launch-infractions-5725809)
+    ![Mortgage Applications Rise Amid Fed Rate Cut Prediction](https://img.theepochtimes.com/assets/uploads/2024/06/24/id5674249-GettyImages-2154182627_web-205x123.jpg.webp)](https://www.theepochtimes.com/business/mortgage-applications-rise-amid-fed-rate-cut-prediction-5726188)
+* [Arizona Officials Find Nearly 100,000 Voters Didn’t Provide Proof of Citizenship](https://www.theepochtimes.com/us/arizona-officials-find-flaw-in-proof-of-citizenship-for-nearly-100000-voters-5726184)
     
-    NEW By [Bill Pan](https://www.theepochtimes.com/author/gq-pan)
+    4hr By [Zachary Stieber](https://www.theepochtimes.com/author/zachary-stieber)
     
-    [![FAA Proposes $633,000 Fine to SpaceX for Alleged Rocket Launch Infractions](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Arizona Officials Find Nearly 100,000 Voters Didn’t Provide Proof of Citizenship](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![FAA Proposes $633,000 Fine to SpaceX for Alleged Rocket Launch Infractions](https://img.theepochtimes.com/assets/uploads/2023/11/28/id5537269-SpaceX-launch-205x123.jpg.webp)](https://www.theepochtimes.com/business/faa-proposes-633000-fine-to-spacex-for-alleged-rocket-launch-infractions-5725809)
-* [Lock-In Baby Boomers Being Blamed for Housing Inventory Shortages Have Few Options: Experts](https://www.theepochtimes.com/us/lock-in-baby-boomers-being-blamed-for-housing-inventory-shortages-have-few-options-experts-5725820)
+    ![Arizona Officials Find Nearly 100,000 Voters Didn’t Provide Proof of Citizenship](https://img.theepochtimes.com/assets/uploads/2024/07/02/id5678969-GettyImages-1440312402KO-205x123.jpg.webp)](https://www.theepochtimes.com/us/arizona-officials-find-flaw-in-proof-of-citizenship-for-nearly-100000-voters-5726184)
+* [Exploding Pagers Made in Hungary, Says Taiwanese Firm](https://www.theepochtimes.com/world/exploding-pagers-made-in-hungary-says-taiwanese-firm-5726156)
     
-    NEW By [Mark Gilman](https://www.theepochtimes.com/author/mark-gilman)
+    5hr By [Owen Evans](https://www.theepochtimes.com/author/owen-evans)
     
-    [![Lock-In Baby Boomers Being Blamed for Housing Inventory Shortages Have Few Options: Experts](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Exploding Pagers Made in Hungary, Says Taiwanese Firm](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Lock-In Baby Boomers Being Blamed for Housing Inventory Shortages Have Few Options: Experts](https://img.theepochtimes.com/assets/uploads/2022/10/22/GettyImages-1234331375-205x123.jpg.webp)](https://www.theepochtimes.com/us/lock-in-baby-boomers-being-blamed-for-housing-inventory-shortages-have-few-options-experts-5725820)
-* [Returning Residents to North Israel Now a War Goal, Netanyahu Says](https://www.theepochtimes.com/world/returning-residents-to-north-israel-now-a-war-goal-netanyahu-says-5725900)
+    ![Exploding Pagers Made in Hungary, Says Taiwanese Firm](https://img.theepochtimes.com/assets/uploads/2024/09/18/id5726153-2024-09-18T034451Z_1_LYNXMPEK8H02P_RTROPTP_4_ISRAEL-PALESTINAINS-HEZBOLLAH-GOLD-APOLLO-205x123.jpg.webp)](https://www.theepochtimes.com/world/exploding-pagers-made-in-hungary-says-taiwanese-firm-5726156)
+* [Finland Calls for End to Single Nation Veto on UN Security Council](https://www.theepochtimes.com/world/finland-calls-for-end-to-single-nation-veto-on-un-security-council-5726154)
     
-    NEW By [Dan M. Berger](https://www.theepochtimes.com/author/dan-m-berger)
+    5hr By [Guy Birchall](https://www.theepochtimes.com/author/guy-birchall)
     
-    [![Returning Residents to North Israel Now a War Goal, Netanyahu Says](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Finland Calls for End to Single Nation Veto on UN Security Council](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Returning Residents to North Israel Now a War Goal, Netanyahu Says](https://img.theepochtimes.com/assets/uploads/2024/09/17/id5725781-GettyImages-2171810482.jpg-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/world/returning-residents-to-north-israel-now-a-war-goal-netanyahu-says-5725900)
-* [Trump Speaks in Michigan After Second Assassination Attempt](https://www.theepochtimes.com/us/trump-speaks-in-michigan-after-second-assassination-attempt-5726039)
+    ![Finland Calls for End to Single Nation Veto on UN Security Council](https://img.theepochtimes.com/assets/uploads/2024/01/29/id5575692-Finland-election-AP24028714834899-205x123.jpg.webp)](https://www.theepochtimes.com/world/finland-calls-for-end-to-single-nation-veto-on-un-security-council-5726154)
+* [Hezbollah Exploding Pagers: What We Know So Far](https://www.theepochtimes.com/world/hezbollah-exploding-pagers-what-we-know-so-far-5726146)
     
-    6hr By [Nathan Worcester](https://www.theepochtimes.com/author/nathan-worcester)
+    6hr By [Chris Summers](https://www.theepochtimes.com/author/chris-summers)
     
-    [![Trump Speaks in Michigan After Second Assassination Attempt](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Hezbollah Exploding Pagers: What We Know So Far](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Trump Speaks in Michigan After Second Assassination Attempt](https://img.theepochtimes.com/assets/uploads/2024/09/18/id5726114-GettyImages-2172740180-2-205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-speaks-in-michigan-after-second-assassination-attempt-5726039)
-* [The 2nd Trump Assassination Attempt: What’s Known So Far](https://www.theepochtimes.com/article/the-2nd-trump-assassination-attempt-whats-known-so-far-5725915)
+    ![Hezbollah Exploding Pagers: What We Know So Far](https://img.theepochtimes.com/assets/uploads/2022/07/18/id5726165-Pager-lebanon-205x123.jpg.webp)](https://www.theepochtimes.com/world/hezbollah-exploding-pagers-what-we-know-so-far-5726146)
+* [Why Raspberries Are the New Heart-Healthy Superfruit](https://www.theepochtimes.com/health/why-raspberries-are-the-new-heart-healthy-superfruit-5720612)
     
-    7hr By [Samantha Flom](https://www.theepochtimes.com/author/samantha-flom)
+    6hr By [Zena le Roux](https://www.theepochtimes.com/author/zena-le-roux)
     
-    [![The 2nd Trump Assassination Attempt: What’s Known So Far](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Why Raspberries Are the New Heart-Healthy Superfruit](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![The 2nd Trump Assassination Attempt: What’s Known So Far](https://img.theepochtimes.com/assets/uploads/2024/09/17/id5725950-Trump-Golf-Assassin-1-205x123.jpg.webp)](https://www.theepochtimes.com/article/the-2nd-trump-assassination-attempt-whats-known-so-far-5725915)
+    ![Why Raspberries Are the New Heart-Healthy Superfruit](https://img.theepochtimes.com/assets/uploads/2024/09/17/id5726013-shutterstock_2118789176-205x123.jpg.webp)](https://www.theepochtimes.com/health/why-raspberries-are-the-new-heart-healthy-superfruit-5720612)
 
 [![The Epoch Times](https://www.theepochtimes.com/assets/themes/eet/images/logo_eet.svg)](https://www.theepochtimes.com/)
 
