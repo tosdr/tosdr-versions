@@ -350,23 +350,6 @@ If you have questions or comments about this Notice or about how your Personal D
 
   
 
-![Finish products](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAYAAAB/Ca1DAAAACXBIWXMAAAsTAAALEwEAmpwYAAADeUlEQVQozy2O+0+TBxiF37bQCLZ1QWcd7RRdLW4CFgqWO+XSOi22I0jLpQNpC7UrpbWxF6DcBUEKTFARKDgk0DEGomwT0DCyyZKBITA2kyVDl2Uu8U+Y/b7vXTA7yUme8/x0AACCAID+fxm7mw7AEEZEMLjvS4KiUh0gzfdBfIaZfjrTArHJ5QBwCgBigEY7RQsOFjN4vGy6pugKQ1vmpsH+Awe32cKUtbDY3DXWIcE6i8XeYO4JWWcymdsAIBPLWp1J8hq+OKMK4tLN9GOaaVp0+QMACAUAIQCEA8BRMBnrob6hF4DD4eB7kWJMU+kxOUuBPC4XpelSlCSm4tFI6bcylQuzc61fJ8vMfNjNyVsAvJ63yKDHiAEiNACC7IuljuI6j/f4rkeRvPiN+pKDGBsYIPQ17cSEf46o0JsIBicBI0WagCCmALmHZdozlT6AqJYICC5+J6HgJgCI5j9M1ONFi/eVJNOEh3gfX4egIAZabF2B2s776OmeRY93nqr4rJ4ylFegIK6QUJQ0k9LzlzHP2HN1cA3zTF0rr6x9Pz0e3ER5wtmaX4waFzYaGgh1vhujc+y33z6M4vMCn6RloDIrB6tUSure6CgqLzmpuCwL5arzodXeRx1PsSE/rRlllSOYVNiH4gs3MbOwC1tKneTo5fY344N+7P/C74dMmQIl8rMBpeI81ZCrpgyuPspo81KSM1qqtsRODV/poGb8iygpaSePpNsCrro7pMHcTR7OcQVUjhHq07ZZyje9HHD0fIXjX859A0N3+rGzs/dfU+V1Mj6vhziS6CHzDf1UfvUwVVw7Rnh9i8Tkj78TbdeGiKvXxsnG9nHS5Z0hb3y3SQ5NLZG6xnukznk7UFrdjZ8PTiyAKFaJ74ZrkHtQjakJJowWWTE1owZPJFowvmkBLf4tLKqfQXPLKDofbqNh5TWqH+7gxPJvuPR0A1u7fJiicuOwbwpbO249gWBm0oW9+5T6qGOF9vKkMpdQoLdxwop0/I90RcrOxdlq79yzNFXj9+amu7U/bP1heLT6q21ldavq8caOsXdywVKgtVjDhed0ZTq7U35OK4O/XkyzF5fGQsWKlhA4PRf6gbRt79SjdVZlxzLLc2NyX7Nvnvvzi5dhTXfvh0LJGBuanrOg4ilb6R7h/LPzJ3tp8zXbPfCEs/psh/X85d8h/wFGY4AsVYPMTAAAAABJRU5ErkJggg==)
-
-![Finish products](/static/901647960591b9548ff025c095eb8c64/46604/footer-image.png)
-
-Don't Miss a Thing
-------------------
-
-Sign-up to receive helpful tips, news and exclusive offers.
-
-Name
-
-Email
-
-Thank you for signing up for email newsletters with coupons, special offers and product information.
-
-Sign up
-
 About
 
 * [Dishwashing Guide](https://www.finishdishwashing.com/ultimate-dishwashing-guide/)
