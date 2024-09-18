@@ -1,8 +1,25 @@
-![](/img/icons/cookie.svg)
+#### ![](/img/icon-cookie.svg)
 
-By using this site you agree to cookies being used as set in our [Cookie Policy](https://imazing.com/privacy-policy#cookie-policy).
+### iMazing Values Your Privacy
 
-Got it
+We use cookies to enhance this website experience, serve personalized ads or content and analyze our traffic. By clicking 'Consent' you accept the use of cookies.
+
+For more information, please refer to our [Cookie policy](https://imazing.com/privacy-policy)
+
+### Manage your Cookie Preferences
+
+**Essential cookies** are essential for basic website functionality or serve a legitimate business purpose.  
+These cookies can be disabled by changing your browser preferences.
+
+**Analytical cookies** help us to improve our website by collecting and reporting information on its usage.
+
+**Marketing cookies** help us to monitor campaigns and improve the relevancy of campaigns you receive.
+
+For more information, please refer to our [Cookie policy](https://imazing.com/privacy-policy)
+
+Manage Consent
+
+Accept Selection Accept All
 
 [](https://imazing.com/)
 
@@ -71,6 +88,7 @@ Got it
     * [About Us](https://imazing.com/about)
     * [Blog](https://imazing.com/blog)
     * [Reviews & Press](https://imazing.com/reviews)
+    * [Jobs](https://imazing.com/jobs)
     * [Media Kit](https://imazing.com/media)
     * [Open Source](https://imazing.com/open-source)
     * [Affiliate](https://imazing.com/affiliate)
@@ -101,7 +119,7 @@ EN
     * [Українська](https://imazing.com/uk/licensing-policy)
     * [Pусский](https://imazing.com/ru/licensing-policy)
     * [العربية](https://imazing.com/ar/licensing-policy)
-    * [中文](https://imazing.com/zh/licensing-policy)
+    * [中华](https://imazing.com/zh/licensing-policy)
     * [日本語](https://imazing.com/ja/licensing-policy)
     * [한국어](https://imazing.com/ko/licensing-policy)
     
@@ -366,6 +384,7 @@ Thank you for subscribing!
     * [About Us](https://imazing.com/about)
     * [Blog](https://imazing.com/blog)
     * [Reviews & Press](https://imazing.com/reviews)
+    * [Jobs](https://imazing.com/jobs)
     * [Media Kit](https://imazing.com/media)
     * [Open Source](https://imazing.com/open-source)
     * [Affiliate](https://imazing.com/affiliate)
@@ -375,6 +394,7 @@ Thank you for subscribing!
     * [Security & Privacy](https://imazing.com/security-and-privacy)
     * [Licensing Policy](https://imazing.com/licensing-policy)
     * [Privacy Policy](https://imazing.com/privacy-policy)
+    * [Manage Cookies](javascript:void(0))
     * [Terms of Use](https://imazing.com/terms-and-conditions)
     * [EULA](https://imazing.com/uploads/iMazing-EULA.pdf)
     
