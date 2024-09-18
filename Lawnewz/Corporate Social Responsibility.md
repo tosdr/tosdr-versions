@@ -113,25 +113,25 @@ We welcome feedback from our viewers and readers. If readers/viewers have a conc
 Top of Today
 ------------
 
-1. [![Tiffanie Lucas with sons Jayden and Maurice](https://am24.mediaite.com/lc/cnt/uploads/2024/09/Lucas-432x243.jpg)](https://lawandcrime.com/crime/tiffanie-lucas-mom-charged-with-murdering-sons-claims-insanity-but-fit-to-stand-trial/)
+1. [![Jeffrey Epstein and Ghislaine Maxwell - Scooter](https://am24.mediaite.com/lc/cnt/uploads/2021/12/Epstein-and-Ghislaine-Maxwell-Scooter-432x243.jpg)](https://lawandcrime.com/live-trials/ghislaine-maxwell/ghislaine-maxwell-loses-appeal-of-sex-trafficking-convictions-as-jeffrey-epstein-deal-doesnt-save-her/)
+    
+    ### ['No errors': Jeffrey Epstein accomplice Ghislaine Maxwell loses appeal of sex trafficking convictions as infamous sweetheart deal doesn't save her](https://lawandcrime.com/live-trials/ghislaine-maxwell/ghislaine-maxwell-loses-appeal-of-sex-trafficking-convictions-as-jeffrey-epstein-deal-doesnt-save-her/)
+    
+2. [![Brendan Banfield appears inset on the left; Juliana Peres Magalhaes appears inset on the right – against an image of the house where Christine Banfield and Joseph Ryan were killed.](https://am24.mediaite.com/lc/cnt/uploads/2024/09/Banfield-Magalhaes-432x243.jpg)](https://lawandcrime.com/crime/irs-special-agent-indicted-for-murder-of-wife-and-would-be-patsy-in-bizarre-sexual-fetish-conspiracy-double-murder-plot-that-also-implicates-his-lover-a-foreign-national-au-pair/)
+    
+    ### [IRS special agent indicted for murder of wife and would-be patsy in bizarre sexual fetish conspiracy double murder plot that also implicates his lover, a foreign national au pair](https://lawandcrime.com/crime/irs-special-agent-indicted-for-murder-of-wife-and-would-be-patsy-in-bizarre-sexual-fetish-conspiracy-double-murder-plot-that-also-implicates-his-lover-a-foreign-national-au-pair/)
+    
+3. [![Maecee Lathers in the back of an ambulance after deadly crash.](https://am24.mediaite.com/lc/cnt/uploads/2024/09/Maecee-Lathers--432x243.jpg)](https://lawandcrime.com/crime/instagram-model-kept-in-jail-after-judge-thinks-she-is-extremely-dangerous/)
+    
+    ### ['I think she's extremely dangerous': Judge keeps Instagram model locked up after deadly alleged 'pink cocaine'-fueled crash, sides with prosecutors before trial](https://lawandcrime.com/crime/instagram-model-kept-in-jail-after-judge-thinks-she-is-extremely-dangerous/)
+    
+4. [![Mohamed Kamara and Joseph Syas](https://am22.mediaite.com/lc/cnt/uploads/2024/09/Mohamed-Kamara-and-Anthony-Syas-1-432x243.jpg)](https://lawandcrime.com/crime/id-blow-your-f-ing-head-off-emotional-families-lambaste-convicted-murderer-for-randomly-killing-2-men-for-no-apparent-reason/)
+    
+    ### ['I'd blow your f---ing head off:' Emotional families lambaste convicted murderer for randomly killing 2 men for no apparent reason](https://lawandcrime.com/crime/id-blow-your-f-ing-head-off-emotional-families-lambaste-convicted-murderer-for-randomly-killing-2-men-for-no-apparent-reason/)
+    
+5. [![Tiffanie Lucas with sons Jayden and Maurice](https://am24.mediaite.com/lc/cnt/uploads/2024/09/Lucas-432x243.jpg)](https://lawandcrime.com/crime/tiffanie-lucas-mom-charged-with-murdering-sons-claims-insanity-but-fit-to-stand-trial/)
     
     ### [Mom who claimed she was 'so stupid' and shot 2 young sons in the head in bedroom by 'accident' now says she was legally insane](https://lawandcrime.com/crime/tiffanie-lucas-mom-charged-with-murdering-sons-claims-insanity-but-fit-to-stand-trial/)
-    
-2. [![Tyrone Berry](https://am22.mediaite.com/lc/cnt/uploads/2024/09/Tyrone-Berry-432x243.jpg)](https://lawandcrime.com/crime/sex-trafficker-dumped-girl-at-walmart-because-she-wasnt-making-enough-money-after-forcing-her-to-have-sex-with-his-brother-known-as-big-face-tulu-police/)
-    
-    ### [Sex trafficker dumped girl at Walmart because she wasn't making enough money after forcing her to have sex with his brother known as 'Big Face Tulu': Police](https://lawandcrime.com/crime/sex-trafficker-dumped-girl-at-walmart-because-she-wasnt-making-enough-money-after-forcing-her-to-have-sex-with-his-brother-known-as-big-face-tulu-police/)
-    
-3. [![Donald Trump speaks as White House Chief of Staff Mark Meadows (R) listens from the South Lawn of the White House July 29, 2020. (Photo by Alex Wong/Getty Images.)](https://am24.mediaite.com/lc/cnt/uploads/2022/04/GettyImages-1262332931-copy-432x243.jpg)](https://lawandcrime.com/high-profile/mark-meadows-loses-again-in-federal-court-removal-bid-this-time-in-arizona/)
-    
-    ### [Judge slams Mark Meadows for 'artful alteration' of Jack Smith's words, rejects argument that Arizona fake electors case is just about 'receiving' texts as Trump's 'gatekeeper'](https://lawandcrime.com/high-profile/mark-meadows-loses-again-in-federal-court-removal-bid-this-time-in-arizona/)
-    
-4. [![Sayra and Cledir Barros](https://am22.mediaite.com/lc/cnt/uploads/2024/09/Sayra-and-Cledir-Barros-432x243.jpg)](https://lawandcrime.com/crime/he-failed-father-left-wife-alone-to-use-wooden-rolling-pin-to-beat-their-8-year-old-daughter-to-death-for-not-doing-homework-jury-concludes/)
-    
-    ### ['He failed': Father left wife alone to use wooden rolling pin to beat their 8-year-old daughter to death for not doing homework, jury concludes](https://lawandcrime.com/crime/he-failed-father-left-wife-alone-to-use-wooden-rolling-pin-to-beat-their-8-year-old-daughter-to-death-for-not-doing-homework-jury-concludes/)
-    
-5. [![Ashley Smylie, Carly Gregg](https://am24.mediaite.com/lc/cnt/uploads/2024/09/Ashley-Smylie-Carly-Gregg-432x243.jpg)](https://lawandcrime.com/crime/carly-gregg-accused-of-murdering-mom-at-age-14-faces-trial-in-mississippi/)
-    
-    ### ['She killed her mom!': 15-year-old daughter loses it in court as bodycam shows inconsolable stepdad telling deputies he found wife shot in the face at home](https://lawandcrime.com/crime/carly-gregg-accused-of-murdering-mom-at-age-14-faces-trial-in-mississippi/)
     
 
 [](http://eepurl.com/c89Jdb)
