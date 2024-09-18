@@ -35,9 +35,9 @@ Feel free to contact Fair Go [customer support team](https://www.fairgoplus.com
 
 ![Visa](/images/payments/visa-new.png)![MasterCard](/images/payments/mc-new.png)![Bitcoin](/images/payments/bitcoin-new.png)![Neosurf](/images/payments/ns-new.png)![Bank Transfer](/images/payments/bt-new.png)![CashToCode-Home Privacy Policy - Your Info is Secure with Us | Fair Go Casino - Fair Go Casino](/images/LandingPage/CashToCode_eVoucher/CashToCode-Home.png)![FG_home_eZeeWallet_108x23 Privacy Policy - Your Info is Secure with Us | Fair Go Casino - Fair Go Casino](/images/FG_home_eZeeWallet_108x23.png)  ![AvailableOn](/images/home/available_on.png) 
 
-[Fair Go Lobby](https://cdk.fairgoplus.com/Lobby.aspx?SkinId=1&show=login "log in to fair go casino")
+[Fair Go Lobby](https://www.fairgoplus.com/login "log in to fair go casino")
 
-[Create an account](https://cdk.fairgoplus.com/Lobby.aspx?SkinId=1&show=signup "sign up")
+[Create an account](https://www.fairgoplus.com/signup "sign up")
 
 [Promotions](https://www.fairgoplus.com/promotions "promotions")
 
@@ -71,7 +71,7 @@ Feel free to contact Fair Go [customer support team](https://www.fairgoplus.com
 
 [Real Cash Pokies](https://www.fairgoplus.com/the-difference-between-real-cash-pokies-and-free-games "The difference between real cash pokies and free games")
 
-[Fair Go Bonuses](https://www.fairgocasinobonuses.com/ "Fair Go Bonuses")
+[Fair Go Bonuses](https://www.bonusfairgo.com/ "Fair Go Bonuses")
 
 [Free Pokies](https://www.fairgoplus.com/10-free-pokies-at-fair-go-casino "What are Fair Go Free pokies?")
 
@@ -101,7 +101,7 @@ Feel free to contact Fair Go [customer support team](https://www.fairgoplus.com
 
 [Sitemap](https://www.fairgoplus.com/sitemap.xml "sitemap")
 
-[Twitter](https://twitter.com/FairGoCasino "Follow us on Twitter")
+[Twitter](https://x.com/FairGoCasino "Follow us on Twitter")
 
 [10 best pokies at Fair Go](https://www.fairgoplus.com/10-free-pokies-at-fair-go-casino "Follow us on Twitter")
 
