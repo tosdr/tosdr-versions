@@ -24,15 +24,19 @@ New
 
 ### Sell Anything
 
-[Ecommerce Overview→](https://www.squarespace.com/online-stores) [Templates for Sellers→](https://www.squarespace.com/ecommerce/designs-that-sell) [Sell Products→](https://www.squarespace.com/ecommerce/sell-products) [Sell Services→](https://www.squarespace.com/ecommerce/sell-services) [Schedule Appointments→](https://www.squarespace.com/scheduling) [Courses
+[Ecommerce Overview→](https://www.squarespace.com/online-stores) [Templates for Sellers→](https://www.squarespace.com/ecommerce/designs-that-sell) [Sell Products→](https://www.squarespace.com/ecommerce/sell-products) [Sell Services→](https://www.squarespace.com/services) [Scheduling→](https://www.squarespace.com/scheduling) [Courses
 
 New
 
-→](https://www.squarespace.com/ecommerce/online-courses) [Content & Memberships→](https://www.squarespace.com/content) [Client Invoicing
+→](https://www.squarespace.com/ecommerce/online-courses) [Content & Memberships→](https://www.squarespace.com/content) [Invoicing
 
 New
 
-→](https://www.squarespace.com/ecommerce/client-invoicing) [Memberships→](https://www.squarespace.com/ecommerce/membership-sites) [Store Management→](https://www.squarespace.com/ecommerce/store-management) [Commerce Extensions→](https://www.squarespace.com/extensions/home)
+→](https://www.squarespace.com/invoicing) [Memberships→](https://www.squarespace.com/ecommerce/membership-sites) [Donations
+
+New
+
+→](https://www.squarespace.com/donations) [Store Management→](https://www.squarespace.com/ecommerce/store-management) [Commerce Extensions→](https://www.squarespace.com/extensions/home)
 
 ### Build your Brand
 
@@ -96,15 +100,19 @@ New
 
 ### Sell Anything
 
-[Ecommerce Overview→](https://www.squarespace.com/online-stores) [Templates for Sellers→](https://www.squarespace.com/ecommerce/designs-that-sell) [Sell Products→](https://www.squarespace.com/ecommerce/sell-products) [Sell Services→](https://www.squarespace.com/ecommerce/sell-services) [Schedule Appointments→](https://www.squarespace.com/scheduling) [Courses
+[Ecommerce Overview→](https://www.squarespace.com/online-stores) [Templates for Sellers→](https://www.squarespace.com/ecommerce/designs-that-sell) [Sell Products→](https://www.squarespace.com/ecommerce/sell-products) [Sell Services→](https://www.squarespace.com/services) [Scheduling→](https://www.squarespace.com/scheduling) [Courses
 
 New
 
-→](https://www.squarespace.com/ecommerce/online-courses) [Content & Memberships→](https://www.squarespace.com/content) [Client Invoicing
+→](https://www.squarespace.com/ecommerce/online-courses) [Content & Memberships→](https://www.squarespace.com/content) [Invoicing
 
 New
 
-→](https://www.squarespace.com/ecommerce/client-invoicing) [Memberships→](https://www.squarespace.com/ecommerce/membership-sites) [Store Management→](https://www.squarespace.com/ecommerce/store-management) [Commerce Extensions→](https://www.squarespace.com/extensions/home)
+→](https://www.squarespace.com/invoicing) [Memberships→](https://www.squarespace.com/ecommerce/membership-sites) [Donations
+
+New
+
+→](https://www.squarespace.com/donations) [Store Management→](https://www.squarespace.com/ecommerce/store-management) [Commerce Extensions→](https://www.squarespace.com/extensions/home)
 
 ### Build your Brand
 
