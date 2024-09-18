@@ -16,6 +16,7 @@ Enjoying your free trial? Only 9 days left! Upgrade Now
     * [Templates](https://fliphtml5.com/features/templates/)
     * [Interactivity](https://fliphtml5.com/features/interactivity/)
     * [AI Assistant](https://fliphtml5.com/features/ai/)
+        
     
     * [Online Sharing](https://fliphtml5.com/features/share/)
     * [Offline Reading](https://fliphtml5.com/features/share?id=offline_reading)
@@ -105,6 +106,7 @@ Enjoying your free trial? Only 9 days left! Upgrade Now
     Content Types
     
     * [Interactive PDF](https://fliphtml5.com/learning-center/interactive-pdf/)
+        
     * [Publishing](https://fliphtml5.com/learning-center/solution-publishing/)
     * [Sell Content](https://fliphtml5.com/learning-center/solution-sell-pdf/)
     * [Business](https://fliphtml5.com/learning-center/solution-business/)
@@ -202,6 +204,7 @@ Enjoying your free trial? Only 9 days left! Upgrade Now
         * [Templates](https://fliphtml5.com/features/templates/)
         * [Interactivity](https://fliphtml5.com/features/interactivity/)
         * [AI Assistant](https://fliphtml5.com/features/ai/)
+            
     * Turn Content into Income
         
         * [Digital Sales](https://fliphtml5.com/learning-center/digital-sales/)
@@ -279,6 +282,7 @@ Enjoying your free trial? Only 9 days left! Upgrade Now
     * Popular Uses
         
         * [Interactive PDF](https://fliphtml5.com/learning-center/interactive-pdf/)
+            
         * [Publishing](https://fliphtml5.com/learning-center/solution-publishing/)
         * [Sell Content](https://fliphtml5.com/learning-center/solution-sell-pdf/)
         * [Business](https://fliphtml5.com/learning-center/solution-business/)
@@ -680,6 +684,7 @@ You are responsible for addressing all of your complaints, refund requests and o
 * [Home](https://fliphtml5.com/)
 * [About Us](https://fliphtml5.com/about-us/)
 * [Learning Center](https://fliphtml5.com/learning-center/)
+    
 * [Office Tools](https://fliphtml5.com/online-tools/)
 * [Mango AI](https://mangoanimate.com/ai?utm_source=fh5-frontpage&utm_medium=footer&utm_campaign=mangoai)
 
