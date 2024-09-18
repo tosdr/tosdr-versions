@@ -208,21 +208,21 @@ Turn Your Curiosity Into Discovery
 
 Latest Facts
 
-[![50 Facts About Thai Massage ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22100%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/fitness-and-wellbeing/50-facts-about-thai-massage/)
+[![37 Facts About Lions Eat Poachers South Africa ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%2284%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/nature/37-facts-about-lions-eat-poachers-south-africa/)
 
-Fitness & Wellbeing
+Nature
 
-17 Sep 2024
+18 Sep 2024
 
-[50 Facts About Thai Massage](https://facts.net/fitness-and-wellbeing/50-facts-about-thai-massage/)
+[37 Facts About Lions Eat Poachers South Africa](https://facts.net/nature/37-facts-about-lions-eat-poachers-south-africa/)
 
-[![37 Facts About Peace Village North Korea ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%2284%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/world/countries/37-facts-about-peace-village-north-korea/)
+[![37 Facts About Golden Snub Nosed Monkey ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%2285%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/nature/37-facts-about-golden-snub-nosed-monkey/)
 
-Countries
+Nature
 
-17 Sep 2024
+18 Sep 2024
 
-[37 Facts About Peace Village North Korea](https://facts.net/world/countries/37-facts-about-peace-village-north-korea/)
+[37 Facts About Golden Snub Nosed Monkey](https://facts.net/nature/37-facts-about-golden-snub-nosed-monkey/)
 
 [Home](https://facts.net/) [Terms](https://facts.net/terms/)
 
