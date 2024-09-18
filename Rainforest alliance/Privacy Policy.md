@@ -366,7 +366,7 @@ general or business(Required)
 
  Send me business updates
 
-Phone
+Email
 
 This field is for validation purposes and should be left unchanged.
 
@@ -400,17 +400,6 @@ Subscribe
 The Rainforest Alliance is a 501(c)(3) Nonprofit registered in the US under EIN: 13-3377893. | © Copyright 1987 - 2024, Rainforest Alliance
 
 [Privacy Policy](https://www.rainforest-alliance.org/privacy-policy) | [Cookie Policy](https://www.rainforest-alliance.org/privacy-policy/cookie-policy) |[](https://www.facebook.com/RainforestAlliance)[](https://www.instagram.com/rainforestalliance)[](https://www.linkedin.com/company/rainforest-alliance)[](https://www.tiktok.com/@rainforestalliance)[](https://www.youtube.com/user/rainforestalliance)
-
-#### Coming Soon
-
-### EUDR Deforestation Risk Assessment Tool
-
-Does your company source cocoa and/or coffee?  
-Sign up for our new tool to help meet your EUDR requirements.
-
-[Register your interest](https://www.rainforest-alliance.org/eudr-deforestation-risk-assessment-tool/)
-
-x
 
 [العربية](https://www.rainforest-alliance.org/nespresso/ar/)  
 [български](https://www.rainforest-alliance.org/nespresso/bg/)  
