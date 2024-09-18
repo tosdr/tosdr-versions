@@ -104,10 +104,18 @@ Last Updated February 26, 2024
 
 DMCA Policy
 
-1. 1. [Procedures](#procedures)
-    2. [Notice of Infringement](#notice-of-infringement)
-    3. [Counter-Notification](#counter-notification)
-    4. [Repeat Offenders](#repeat-offenders)
+1. 1. [Report a Violation](#report-a-violation)
+    2. [Procedures](#procedures)
+    3. [Notice of Infringement](#notice-of-infringement)
+    4. [Counter-Notification](#counter-notification)
+    5. [Repeat Offenders](#repeat-offenders)
+
+How do I report a DMCA violation?
+---------------------------------
+
+Report DMCA violations to our support team using our [Abuse form](https://vercel.com/abuse?abuseType=dmca).
+
+  
 
 Procedures
 ----------
@@ -154,19 +162,6 @@ Pursuant to Section 512(c)(3) of the DMCA, the written notice must include the f
 * A statement that the information in the Notice of Infringement is accurate.
 * A statement, under penalty of perjury that you are authorized to act on behalf of the copyright owner.
 
-Vercel's designated copyright agent ("**Designated Agent**") to receive DMCA Notices of Infringement and Counter-Notifications (as defined below) is:
-
-  
-
-**Vercel Inc.**  
-Attn: DMCA/ [dmca@vercel.com](mailto:dmca@vercel.com)  
-440 N Barranca Ave #4133  
-Covina, CA 91723  
-Phone: 5592887060  
-[dmca@vercel.com](mailto:dmca@vercel.com)
-
-  
-
 If you fail to comply with all of the requirements of Section 512(c)(3) of the DMCA, your Notice of Infringement may not be effective. Furthermore, if you knowingly and materially misrepresent that the material on the website hosted by Vercel is infringing your copyright, you may be liable for damages (including costs and attorneys' fees) under Section 512(f) of the DMCA.
 
   
@@ -196,6 +191,29 @@ Repeat Offenders
 It is Vercel's policy, in certain circumstances and in its sole discretion, to disable and/or terminate the accounts of customers who are repeat infringers upon the copyrights or other intellectual property rights of others.
 
   
+
+* * *
+
+  
+
+Report DMCA violations to our support team using our [Abuse form](https://vercel.com/abuse?abuseType=dmca).
+
+  
+_
+
+Vercel's designated copyright agent ("Designated Agent") to receive DMCA Notices of Infringement and Counter-Notifications (as defined below) is:
+
+_  
+_
+
+Vercel Inc.  
+Attn: DMCA/ [dmca@vercel.com](mailto:dmca@vercel.com)  
+440 N Barranca Ave #4133  
+Covina, CA 91723  
+Phone: 5592887060  
+[dmca@vercel.com](mailto:dmca@vercel.com)
+
+_  
 
 Products
 --------
