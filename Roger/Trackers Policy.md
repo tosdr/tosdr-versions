@@ -4,7 +4,7 @@
 
 [![Roger.com](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
-![Roger.com](https://www.roger.com/wp-content/themes/roger-theme/img/roger-com.svg)](https://www.roger.com/)
+![Roger.com](https://www.roger.com/wp-content/themes/roger-theme/img/roger-com-white.svg)](https://www.roger.com/)
 
 * [Home](https://www.roger.com/)
 * [Play](https://www.roger.com/games/)
