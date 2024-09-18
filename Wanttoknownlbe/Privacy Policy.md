@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/gezondheid/vaccinaties-gezondheid/iedere-vrouw-op-aarde-een-hpv-vaccin/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/inspiratie/gastcolumns/de-weg-van-trauma-naar-genezing/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
