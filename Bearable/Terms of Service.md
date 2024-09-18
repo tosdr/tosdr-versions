@@ -1,4 +1,4 @@
-[![cropped-logo.png](https://bearable.app/wp-content/uploads/2020/11/cropped-logo.png "cropped-logo.png")](https://bearable.app/)
+[![Bearable Logo](https://bearable.app/wp-content/uploads/2020/11/cropped-logo.png "cropped-logo.png")](https://bearable.app/)
 
 [Bearable](https://bearable.app/)
 ---------------------------------
@@ -188,7 +188,7 @@ Menu
 [Bearable](https://bearable.app/)
 ---------------------------------
 
-[![](https://bearable.app/wp-content/uploads/2020/11/cropped-logo.png)](https://bearable.app/)
+[![Bearable Logo](https://bearable.app/wp-content/uploads/2020/11/cropped-logo.png)](https://bearable.app/)
 
 ©2024 Bearable Ltd
 
