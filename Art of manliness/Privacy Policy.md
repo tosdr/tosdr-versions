@@ -131,6 +131,10 @@ Menu [![logo](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lo
 
 [The Secrets to Bruce Lee’s Legendary Physical Training](https://www.artofmanliness.com/health-fitness/fitness/bruce-lee-workout/)
 
+[![](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/health-fitness/health/podcast-1024-the-safe-effective-supplement-that-can-improve-your-body-and-brain/)
+
+[Podcast #1,024: The Safe, Effective Supplement That Can Improve Your Body and Brain](https://www.artofmanliness.com/health-fitness/health/podcast-1024-the-safe-effective-supplement-that-can-improve-your-body-and-brain/)
+
 [![Chalk drawing of a human head with a clock face inside, surrounded by arrows, a crescent moon, and a sun on a black background, symbolizing circadian rhythm and its role in health and better sleep.](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/health-fitness/health/podcast-1016-unlock-better-sleep-and-health-by-harnessing-your-circadian-rhythm/)
 
 [Podcast #1,016: Unlock Better Sleep and Health by Harnessing Your Circadian Rhythm](https://www.artofmanliness.com/health-fitness/health/podcast-1016-unlock-better-sleep-and-health-by-harnessing-your-circadian-rhythm/)
@@ -142,10 +146,6 @@ Menu [![logo](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lo
 [![Image with the text ](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/health-fitness/health/podcast-1011-lose-weight-and-keep-it-off-with-flexible-dieting/)
 
 [Podcast #1,011: Lose Weight and Keep It Off With Flexible Dieting](https://www.artofmanliness.com/health-fitness/health/podcast-1011-lose-weight-and-keep-it-off-with-flexible-dieting/)
-
-[![a man with a mustache wearing sunglasses](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/health-fitness/health/podcast-1004-the-sunscreen-debate-are-we-blocking-our-way-to-better-health/)
-
-[Podcast #1,004: The Sunscreen Debate — Are We Blocking Our Way to Better Health?](https://www.artofmanliness.com/health-fitness/health/podcast-1004-the-sunscreen-debate-are-we-blocking-our-way-to-better-health/)
 
 [![A group of men in swim trunks standing in a line participate in History's Hardest P.E. Program.](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/health-fitness/program-review/the-insanely-difficult-standards-of-historys-hardest-p-e-program/)
 
@@ -649,6 +649,12 @@ I agree to the [privacy policy](#) terms.
 
 ![podcast](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/podcast-2.jpg)
 
+[![podcast icon](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/podcast-icon.jpg)](https://www.artofmanliness.com/health-fitness/health/podcast-1024-the-safe-effective-supplement-that-can-improve-your-body-and-brain/)
+
+[Podcast #1,024
+
+###### The Safe, Effective Supplement That Can Improve Your Body and Brain](https://www.artofmanliness.com/health-fitness/health/podcast-1024-the-safe-effective-supplement-that-can-improve-your-body-and-brain/)
+
 [![podcast icon](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/podcast-icon.jpg)](https://www.artofmanliness.com/character/behavior/podcast-1023-is-self-control-overrated/)
 
 [Podcast #1,023
@@ -666,12 +672,6 @@ I agree to the [privacy policy](#) terms.
 [Podcast #1,020
 
 ###### Becoming a Tech Intentional Family](https://www.artofmanliness.com/people/family/podcast-1020-becoming-a-tech-intentional-family/)
-
-[![podcast icon](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/podcast-icon.jpg)](https://www.artofmanliness.com/character/advice/podcast-1019-seriously-happy/)
-
-[Podcast #1,019
-
-###### 10 Philosophy-Inspired Challenges for Becoming a Better and Happier Man](https://www.artofmanliness.com/character/advice/podcast-1019-seriously-happy/)
 
 [View all](https://www.artofmanliness.com/podcast/)
 
