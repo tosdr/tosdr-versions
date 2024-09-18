@@ -343,19 +343,6 @@ Website
 
 [12th September 2024](https://southwarknews.co.uk/area/peckham/jamaican-patties-made-by-peckham-duo-will-now-be-sold-permanently-in-aldi/)
 
-[![Fenstanton Primary School in Tulse Hill, South London will close from September 2026 under council plans.
-Image from Google Street View](https://southwarknews.co.uk/wp-content/uploads/2024/09/Fenstanton-Primary-School-120x86.jpg)](https://southwarknews.co.uk/area/camberwell/two-south-london-primary-schools-set-to-close-while-four-more-will-be-merged/)
-
-### [Two South London primary schools set to close while four more will be merged](https://southwarknews.co.uk/area/camberwell/two-south-london-primary-schools-set-to-close-while-four-more-will-be-merged/)
-
-[10th September 2024](https://southwarknews.co.uk/area/camberwell/two-south-london-primary-schools-set-to-close-while-four-more-will-be-merged/)
-
-[![Josh Stephenson. Photo: Millwall FC](https://southwarknews.co.uk/wp-content/uploads/2024/09/Josh-Stephenson-120x86.jpg)](https://southwarknews.co.uk/sport/football/millwall/millwall-defender-set-to-complete-move-to-brentford/)
-
-### [Millwall defender set to complete move to Brentford](https://southwarknews.co.uk/sport/football/millwall/millwall-defender-set-to-complete-move-to-brentford/)
-
-[11th September 2024](https://southwarknews.co.uk/sport/football/millwall/millwall-defender-set-to-complete-move-to-brentford/)
-
 [![Femi Azeez and Neil Harris. Image: Millwall FC](https://southwarknews.co.uk/wp-content/uploads/2024/08/BAT_3135-2024-08-24T20_26_38.968-120x86.jpg)](https://southwarknews.co.uk/sport/football/millwall/i-want-to-be-coached-by-that-guy-millwall-attacker-gives-insight-into-drawn-out-transfer/)
 
 ### [‘I want to be coached by that guy’ – Millwall attacker gives insight into drawn-out transfer](https://southwarknews.co.uk/sport/football/millwall/i-want-to-be-coached-by-that-guy-millwall-attacker-gives-insight-into-drawn-out-transfer/)
@@ -373,6 +360,20 @@ Image from Google Street View](https://southwarknews.co.uk/wp-content/uploads/20
 ### [Spanish 17th-century galleon will soon arrive in London](https://southwarknews.co.uk/news/spanish-17th-century-galleon-will-soon-arrive-in-london/)
 
 [14th September 2024](https://southwarknews.co.uk/news/spanish-17th-century-galleon-will-soon-arrive-in-london/)
+
+[![Peckham Festival 
+- photo supplied](https://southwarknews.co.uk/wp-content/uploads/2024/09/PeckhamFestival-4206-120x86.jpg)](https://southwarknews.co.uk/area/peckham/peckham-festival-starts-on-friday-and-the-programme-of-events-is-massive/)
+
+### [Peckham Festival starts on Friday – and the programme of events is massive](https://southwarknews.co.uk/area/peckham/peckham-festival-starts-on-friday-and-the-programme-of-events-is-massive/)
+
+[12th September 2024](https://southwarknews.co.uk/area/peckham/peckham-festival-starts-on-friday-and-the-programme-of-events-is-massive/)
+
+[![Fenstanton Primary School in Tulse Hill, South London will close from September 2026 under council plans.
+Image from Google Street View](https://southwarknews.co.uk/wp-content/uploads/2024/09/Fenstanton-Primary-School-120x86.jpg)](https://southwarknews.co.uk/area/camberwell/two-south-london-primary-schools-set-to-close-while-four-more-will-be-merged/)
+
+### [Two South London primary schools set to close while four more will be merged](https://southwarknews.co.uk/area/camberwell/two-south-london-primary-schools-set-to-close-while-four-more-will-be-merged/)
+
+[10th September 2024](https://southwarknews.co.uk/area/camberwell/two-south-london-primary-schools-set-to-close-while-four-more-will-be-merged/)
 
 ### Featured Articles
 
