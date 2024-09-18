@@ -138,6 +138,16 @@ If you believe that any information we are holding on you is incorrect or incomp
     
     Zoom https://zoom.us (please download the app and check your internet connectivity)
     
+    [![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJYAAABJAQAAAAD3EuK1AAAAAnRSTlMAAHaTzTgAAAAUSURBVDjLY2AYBaNgFIyCUTBUAAAFtAABeE2PfAAAAABJRU5ErkJggg==)
+    
+    ![](https://washingtonautismalliance.org/wp-content/uploads/2024/06/Picture1-2-e1720727584426-150x73.png)](https://washingtonautismalliance.org/events/neurodiversity-employment-860/?occurrence=2024-10-23)
+    
+    Oct 23 2024
+    
+    #### [Neurodiversity & Employment](https://washingtonautismalliance.org/events/neurodiversity-employment-860/?occurrence=2024-10-23)
+    
+    Zoom https://zoom.us (please download the app and check your internet connectivity)
+    
     [![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJYAAAA4AQAAAAA3bDzRAAAAAnRSTlMAAHaTzTgAAAASSURBVDjLY2AYBaNgFIwC2gAABGAAAe2S0E4AAAAASUVORK5CYII=)
     
     ![](https://washingtonautismalliance.org/wp-content/uploads/2024/07/SPA-Virtual-Support-Group-Facebook-Cover-1-150x56.png)](https://washingtonautismalliance.org/events/high-masking-autistic-students-monthly-virtual-parent-support-sessions/?occurrence=2024-10-29)
@@ -235,9 +245,9 @@ Kirkland, WA 98033
 
 #### LATEST POSTS
 
+* [Autism CARES Act of 2024: A Step Forward for Profound Autism Recognition](https://washingtonautismalliance.org/autism-cares-act-of-2024-a-step-forward-for-profound-autism-recognition/ "Autism CARES Act of 2024: A Step Forward for Profound Autism Recognition")
 * [National Relaxation Day: A Vital Reminder for Parents of Kids with Disabilities](https://washingtonautismalliance.org/national-relaxation-day-a-vital-reminder-for-parents-of-kids-with-disabilities/ "National Relaxation Day: A Vital Reminder for Parents of Kids with Disabilities")
 * [National Relaxation Day - Helping an autistic individual find relaxation](https://washingtonautismalliance.org/national-relaxation-day-helping-an-autistic-individual-find-relaxation/ "National Relaxation Day - Helping an autistic individual find relaxation")
-* [Shayan's Settlement:13th Anniversary](https://washingtonautismalliance.org/shayans-settlement13th-anniversary/ "Shayan's Settlement:13th Anniversary")
 
 #### QUICK LINKS
 
