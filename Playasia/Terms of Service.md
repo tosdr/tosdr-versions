@@ -1,4 +1,4 @@
-[![Playsia Logo](//s.pacn.ws/1/gallery/large/GA.07993.0001.svg?1713501412&v=PX-401)](https://www.play-asia.com/)
+[![Playsia Logo](//s.pacn.ws/1/gallery/large/GA.07993.0001.svg?1713530212&v=PX-401)](https://www.play-asia.com/)
 
 View All
 
@@ -18,7 +18,7 @@ everything PLAY Exclusives Games Gaming Peripherals Digital Toys Lifestyle Movie
 
 Help](https://www.play-asia.com/help/)
 
-[![](//s.pacn.ws/1/gallery/large/GA.07871.0186.svg?1708666189&v=PX-401)  
+[![](//s.pacn.ws/1/gallery/large/GA.07871.0186.svg?1708694989&v=PX-401)  
 EN | USD](#)
 
 ✖ theme
@@ -38,7 +38,7 @@ theme beta
 
 We accept
 
-![Payment Reach_hosted](https://s.pacn.ws/1/gallery/640/GA.03963.0184.png?1716182571&v=PX-401)  ![Payment Paypal](https://s.pacn.ws/1/gallery/640/GA.03963.0168.jpg?1716182591&v=PX-401)  ![Payment Worldpay](https://s.pacn.ws/1/gallery/640/GA.03963.0127.png?1716182638&v=PX-401)  ![Payment Bitcoin](https://s.pacn.ws/1/gallery/large/GA.03963.0189.svg?1716211370&v=PX-401)  ![Payment Binancepay](https://s.pacn.ws/1/gallery/640/GA.03963.0174.png?1716211382&v=PX-401)  ![Payment Bitpay](https://s.pacn.ws/1/gallery/640/GA.03963.0178.png?1716211379&v=PX-401)  ![Payment Worldpay2](https://s.pacn.ws/1/gallery/640/GA.03963.0126.png?1716182640&v=PX-401)  ![Payment Manual](https://s.pacn.ws/1/gallery/640/GA.03963.0190.jpg?1716197822&v=PX-401) 
+![Payment Reach_hosted](https://s.pacn.ws/1/gallery/640/GA.03963.0184.png?1716211371&v=PX-401)  ![Payment Paypal](https://s.pacn.ws/1/gallery/640/GA.03963.0168.jpg?1716211391&v=PX-401)  ![Payment Worldpay](https://s.pacn.ws/1/gallery/640/GA.03963.0127.png?1716211438&v=PX-401)  ![Payment Bitcoin](https://s.pacn.ws/1/gallery/large/GA.03963.0189.svg?1716182570&v=PX-401)  ![Payment Binancepay](https://s.pacn.ws/1/gallery/640/GA.03963.0174.png?1716211382&v=PX-401)  ![Payment Bitpay](https://s.pacn.ws/1/gallery/640/GA.03963.0178.png?1716211379&v=PX-401)  ![Payment Worldpay2](https://s.pacn.ws/1/gallery/640/GA.03963.0126.png?1716211440&v=PX-401)  ![Payment Manual](https://s.pacn.ws/1/gallery/640/GA.03963.0190.jpg?1716226622&v=PX-401) 
 
 |     |     |     |     |
 | --- | --- | --- | --- |
