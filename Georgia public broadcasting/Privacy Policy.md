@@ -265,7 +265,7 @@ Don't Miss
 Don't Miss:
 -----------
 
-* [WATCH: GPB - ALL ARTS LIVE](https://www.allarts.org/)
+* [CELEBRATE Jimmy Carter's 100th](https://www.gpb.org/jimmycarter100)
 * [Elections Central](https://www.gpb.org/politics/election2024)
 * [TV Highlights This Week](https://www.gpb.org/blogs/topic/television)
 
