@@ -4,7 +4,7 @@ Menu [![BFMTV](/assets/v6/images/BFMTV-header.030eba2d277d5b5fc0df00daebd9ff70.s
 
 Radio](https://www.bfmtv.com/en-direct/bfm-radio/ "Direct Radio")[![Direct tv](/assets/v6/images/direct_tv.a04f54365fdb12eef5ce900c03db08d4.svg)
 
-DirectTV](https://www.bfmtv.com/en-direct/ "Direct tv")
+DirectDirect](https://www.bfmtv.com/en-direct/ "Direct tv")
 
 * [Vidéos](https://www.bfmtv.com/videos/ "Vidéos")
 * [Politique](https://www.bfmtv.com/politique/ "Politique")
@@ -22,13 +22,13 @@ DirectTV](https://www.bfmtv.com/en-direct/ "Direct tv")
 * [Newsletters](https://www.bfmtv.com/newsletters/ "Newsletters")
 * [Code promo](https://www.bfmtv.com/code-promo/ "Code promo")
 
-[![Regarder le direct](/assets/v6/images/BFMTV.848c19e09c92f3ced2163a1a0399be11.svg)
+[![Regarder BFMTV](/assets/v6/images/BFMTV.848c19e09c92f3ced2163a1a0399be11.svg)
 
-Regarder le direct](https://www.bfmtv.com/en-direct/ "Regarder le direct")
+Regarder BFMTV](https://www.bfmtv.com/en-direct/ "Regarder BFMTV")
 
-![Écouter la radio](/assets/v6/images/BFM-Radio.2afb246578899c5f8d87d1f216c22953.svg)
+![Écouter BFM Radio](/assets/v6/images/BFM-Radio.2afb246578899c5f8d87d1f216c22953.svg)
 
-Écouter la radio
+Écouter BFM Radio
 
 [![Replay BFMTV](/assets/v6/images/RMC-BFM-Play-radio.62cafa0ab4419da4ac6039b204f52a3e.svg)
 
@@ -69,16 +69,16 @@ BFM Régions
 
 Précédent
 
-* [![BFM Paris IDF](/assets/v6/images/Pastille_nav_Paris.ba9d0f215aa5c8585dca98cd6342bce6.svg)](https://www.bfmtv.com/paris/ "BFM Paris IDF")
-* [![BFM Marseille](/assets/v6/images/Pastille_nav_Marseille.70134d30153853c59269388107e85c2e.svg)](https://www.bfmtv.com/marseille/ "BFM Marseille")
+* [![BFM Paris IDF](/assets/v6/images/Pastille_nav_Paris.5cb57106255258ffcae7a9b4fa5a7bde.svg)](https://www.bfmtv.com/paris/ "BFM Paris IDF")
+* [![BFM Marseille](/assets/v6/images/Pastille_nav_Marseille.882f303ff8e9c0df415130718e091330.svg)](https://www.bfmtv.com/marseille/ "BFM Marseille")
 * [![BFM Lyon](/assets/v6/images/Pastille_nav_Lyon.2476b5ad68ee714438b8a95ba338ddbc.svg)](https://www.bfmtv.com/lyon/ "BFM Lyon")
-* [![BFM Lille](/assets/v6/images/Pastille_nav_GrandLille.e4871ac139e03ab9b038231e61d5a931.svg)](https://www.bfmtv.com/grand-lille/ "BFM Lille")
-* [![BFM Littoral](/assets/v6/images/Pastille_nav_GrandLittoral.36b5c41c02a0a3fa12ea0f3fbb7164cb.svg)](https://www.bfmtv.com/grand-littoral/ "BFM Littoral")
-* [![BFM DICI](/assets/v6/images/Pastille_nav_DICI.a467ebae031cbe9c7bae57a89ab11f14.svg)](https://www.bfmtv.com/bfm-dici/ "BFM DICI")
-* [![BFM Var](/assets/v6/images/Pastille_nav_Var.a0496df25a5e9d14cb62692fa2e20fb5.svg)](https://www.bfmtv.com/var/ "BFM Var")
-* [![BFM Côte d'Azur](/assets/v6/images/Pastille_nav_Nice.801f32ab6b349a1c0bca1559da5d2d33.svg)](https://www.bfmtv.com/cote-d-azur/ "BFM Côte d'Azur")
-* [![BFM Alsace](/assets/v6/images/Pastille_nav_Alsace.90de4ea87417683f49c8fa3575bb572f.svg)](https://www.bfmtv.com/alsace/ "BFM Alsace")
-* [![BFM Normandie](/assets/v6/images/Pastille_nav_Normandie.a5a3c5a27b813f589050ec8d6a83dd16.svg)](https://www.bfmtv.com/normandie/ "BFM Normandie")
+* [![BFM Lille](/assets/v6/images/Pastille_nav_GrandLille.5dac2f26867e0d82f3c807884129346d.svg)](https://www.bfmtv.com/grand-lille/ "BFM Lille")
+* [![BFM Littoral](/assets/v6/images/Pastille_nav_GrandLittoral.8355537be320498dba3d6393a0170aea.svg)](https://www.bfmtv.com/grand-littoral/ "BFM Littoral")
+* [![BFM DICI](/assets/v6/images/Pastille_nav_DICI.0644006a2d062f87b14ceb3b1573db28.svg)](https://www.bfmtv.com/bfm-dici/ "BFM DICI")
+* [![BFM Var](/assets/v6/images/Pastille_nav_Var.af14c97f74da293c3bd75517f9a8b9df.svg)](https://www.bfmtv.com/var/ "BFM Var")
+* [![BFM Côte d'Azur](/assets/v6/images/Pastille_nav_Nice.fcc3226c1bb765efec7a5a5a0a2f2585.svg)](https://www.bfmtv.com/cote-d-azur/ "BFM Côte d'Azur")
+* [![BFM Alsace](/assets/v6/images/Pastille_nav_Alsace.dad6587c856a70051ed7dc16d2912b23.svg)](https://www.bfmtv.com/alsace/ "BFM Alsace")
+* [![BFM Normandie](/assets/v6/images/Pastille_nav_Normandie.421698e846327ea2b09fb1a8992761fa.svg)](https://www.bfmtv.com/normandie/ "BFM Normandie")
 
 Suivant
 
