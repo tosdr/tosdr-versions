@@ -517,6 +517,8 @@ We use cookies to provide the best experience possible to each visitor to wsecu.
 
 Most browsers automatically accept cookies, but you can typically change your browser settings to reject some or all cookies. However, please be aware that disabling cookies may have an impact on the functionality of wsecu.org. We cannot save your settings or remember your device if cookies are disabled and the content you see on the website will not be optimal. This also means you will receive our cookie notice each time you visit our site because a cookie allows the website to know that you have accepted the Cookie Policy. Also note that disabling cookies only prevents new cookies. To clear cookies that are already installed, you must clear your cookies. The instructions for managing cookies can typically be found in the browser’s Help or Settings section.
 
+* * *
+
 Your perspective is important to us and helps us see where we’re hitting the mark and where there might be areas to improve.
 
      
