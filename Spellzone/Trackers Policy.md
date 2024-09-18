@@ -162,9 +162,11 @@ Information Commissioner's Office (ICO) Reg. No. ZA004886
 
   
 
-"I love your course..... you explain so much that I didn't know, forgot, or wasn't taught."
+One of the students has put in a huge amount of effort in completing Spellzone at least 3 times a week since his arrival with us in January. Looking at his scores after the latest GL testing, his standardised score has risen from 99 to 131. This is a truly phenomenal result. I just wanted to share the best result I have ever seen.
 
-**Adult student, USA**
+**Terrie Penrose-Toms, Casterton College**
+
+[read more...](https://www.spellzone.com/pages/case-studies/casterton-college.cfm)
 
 ### Curriculum...
 
