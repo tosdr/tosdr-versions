@@ -299,11 +299,27 @@
 
 [Все новости](https://er.ru/activity/news)
 
+[![«Единая Россия» и фонд «Защитники Отечества» усилят совместную законодательную работу по поддержке участников СВО](https://cdn.er.ru/media/news/September2024/jOYop0udenQktUjG4DSL-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-i-fond-zashitniki-otechestva-usilyat-sovmestnuyu-zakonodatelnuyu-rabotu-po-podderzhke-uchastnikov-svo)
+
+[«Единая Россия» и фонд «Защитники Отечества» усилят совместную законодательную работу по поддержке участников СВО](https://er.ru/activity/news/edinaya-rossiya-i-fond-zashitniki-otechestva-usilyat-sovmestnuyu-zakonodatelnuyu-rabotu-po-podderzhke-uchastnikov-svo)
+
+[#Цивилева](https://er.ru/activity/news?tags%5B0%5D=1095455) [#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#Лантратова](https://er.ru/activity/news?tags%5B0%5D=1607) [#Стенякина](https://er.ru/activity/news?tags%5B0%5D=26293) [#фондЗащитникиОтечества](https://er.ru/activity/news?tags%5B0%5D=1094370) [#СВО](https://er.ru/activity/news?tags%5B0%5D=1092872) [#поддержкавоеннослужащих](https://er.ru/activity/news?tags%5B0%5D=1094152) [#поддержкасемейвоеннослужащих](https://er.ru/activity/news?tags%5B0%5D=1093581) [#законотворчество](https://er.ru/activity/news?tags%5B0%5D=10327) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49)
+
+Сегодня 17:15
+
+[![Госдума приняла в первом чтении законопроект «Единой России» о дополнительной поддержке донорства](https://cdn.er.ru/media/news/September2024/53vtC3scSB5P0EyfwxRx-small.jpg)](https://er.ru/activity/news/gosduma-prinyala-v-pervom-chtenii-zakonoproekt-edinoj-rossii-o-dopolnitelnoj-podderzhke-donorstva)
+
+[Госдума приняла в первом чтении законопроект «Единой России» о дополнительной поддержке донорства](https://er.ru/activity/news/gosduma-prinyala-v-pervom-chtenii-zakonoproekt-edinoj-rossii-o-dopolnitelnoj-podderzhke-donorstva)
+
+[#Метелев](https://er.ru/activity/news?tags%5B0%5D=133170) [#студенчество](https://er.ru/activity/news?tags%5B0%5D=10761) [#донорство](https://er.ru/activity/news?tags%5B0%5D=127509) [#сдачакрови](https://er.ru/activity/news?tags%5B0%5D=117217) [#мерыподдержки](https://er.ru/activity/news?tags%5B0%5D=147555) [#добровольчество](https://er.ru/activity/news?tags%5B0%5D=19819) [#волонтерскаядеятельность](https://er.ru/activity/news?tags%5B0%5D=147139) [#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#законодательство](https://er.ru/activity/news?tags%5B0%5D=692)
+
+Сегодня 13:58
+
 [![«Единая Россия» внесла законопроект о праве многодетных семей на бесплатную юридическую помощь](https://cdn.er.ru/media/news/September2024/43m8iCTxXFD4XwnH5OqC-small.JPG)](https://er.ru/activity/news/edinaya-rossiya-vnesla-zakonoproekt-o-prave-mnogodetnyh-semej-na-besplatnuyu-yuridicheskuyu-pomosh)
 
 [«Единая Россия» внесла законопроект о праве многодетных семей на бесплатную юридическую помощь](https://er.ru/activity/news/edinaya-rossiya-vnesla-zakonoproekt-o-prave-mnogodetnyh-semej-na-besplatnuyu-yuridicheskuyu-pomosh)
 
-[#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#бесплатнаяюридическаяпомощь](https://er.ru/activity/news?tags%5B0%5D=120547) [#юридическаяпомощь](https://er.ru/activity/news?tags%5B0%5D=110126) [#юридическаяконсультация](https://er.ru/activity/news?tags%5B0%5D=110288) [#семьисдетьми](https://er.ru/activity/news?tags%5B0%5D=136562) [#многодетныесемьи](https://er.ru/activity/news?tags%5B0%5D=109325) [#новыемерыподдержкисемьисдетьми](https://er.ru/activity/news?tags%5B0%5D=145752)
+[#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#бесплатнаяюридическаяпомощь](https://er.ru/activity/news?tags%5B0%5D=120547) [#юридическаяконсультация](https://er.ru/activity/news?tags%5B0%5D=110288) [#семьисдетьми](https://er.ru/activity/news?tags%5B0%5D=136562) [#многодетныесемьи](https://er.ru/activity/news?tags%5B0%5D=109325) [#мерыподдержкиграждан](https://er.ru/activity/news?tags%5B0%5D=145894) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#законодательство](https://er.ru/activity/news?tags%5B0%5D=692)
 
 Сегодня 12:46
 
@@ -330,22 +346,6 @@
 [#Топилин](https://er.ru/activity/news?tags%5B0%5D=10362) [#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#законопроекты](https://er.ru/activity/news?tags%5B0%5D=863) [#законотворчество](https://er.ru/activity/news?tags%5B0%5D=10327) [#законодательнаяинициативаЕР](https://er.ru/activity/news?tags%5B0%5D=152136) [#Правительство](https://er.ru/activity/news?tags%5B0%5D=1090296) [#нацпроекты](https://er.ru/activity/news?tags%5B0%5D=127007) [#инвестиции](https://er.ru/activity/news?tags%5B0%5D=121539) [#промышленность](https://er.ru/activity/news?tags%5B0%5D=1335) [#Роскосмос](https://er.ru/activity/news?tags%5B0%5D=1864) [#облигации](https://er.ru/activity/news?tags%5B0%5D=7463) [#госзакупки](https://er.ru/activity/news?tags%5B0%5D=1380)
 
 Сегодня 11:27
-
-[![Анна Кузнецова: Более 700 заявок поступило на Всероссийский конкурс «Традиция побеждать»](https://cdn.er.ru/media/news/September2024/Jizk9CEnxGqFbByCNHMn-small.jpg)](https://er.ru/activity/news/anna-kuznecova-bolee-700-zayavok-postupilo-na-vserossijskij-konkurs-tradiciya-pobezhdat)
-
-[Анна Кузнецова: Более 700 заявок поступило на Всероссийский конкурс «Традиция побеждать»](https://er.ru/activity/news/anna-kuznecova-bolee-700-zayavok-postupilo-na-vserossijskij-konkurs-tradiciya-pobezhdat)
-
-[#Кузнецова](https://er.ru/activity/news?tags%5B0%5D=4127) [#конкурсы](https://er.ru/activity/news?tags%5B0%5D=18629) [#патриотизм](https://er.ru/activity/news?tags%5B0%5D=1090265) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#заявки](https://er.ru/activity/news?tags%5B0%5D=126470) [#производители](https://er.ru/activity/news?tags%5B0%5D=8905)
-
-Сегодня 11:25
-
-[![Нацпроект «Кадры» и поддержка молодёжного предпринимательства. Статья Андрея Исаева](https://cdn.er.ru/media/news/September2024/0gdtcZEfYMsu0YPu5CWr-small.jpg)](https://er.ru/activity/news/nacproekt-kadry-i-podderzhka-molodyozhnogo-predprinimatelstva-statya-andreya-isaeva)
-
-[Нацпроект «Кадры» и поддержка молодёжного предпринимательства. Статья Андрея Исаева](https://er.ru/activity/news/nacproekt-kadry-i-podderzhka-molodyozhnogo-predprinimatelstva-statya-andreya-isaeva)
-
-[#Исаев](https://er.ru/activity/news?tags%5B0%5D=121396) [#кадры](https://er.ru/activity/news?tags%5B0%5D=975) [#нацпроекты](https://er.ru/activity/news?tags%5B0%5D=127007) [#РГ](https://er.ru/activity/news?tags%5B0%5D=8568) [#статья](https://er.ru/activity/news?tags%5B0%5D=71)
-
-Сегодня 09:30
 
 ![Сайт президента РФ](https://cdn.er.ru/media/sites/July2020/7T7J24LxtsdGGJVk1lL0.jpg)
 
