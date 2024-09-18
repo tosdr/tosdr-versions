@@ -273,17 +273,17 @@ This field is for validation purposes and should be left unchanged.
 
 #### Frequently Asked Questions
 
-[![Handling noncompliance in nursing homes](https://www.pintas.com/wp-content/uploads/2020/09/nursing-home-abuse-lawyer-what-if-my-nursing-home-was-found-noncompliant-with-federal-requirements-scaled.jpg "Handling Noncompliance in Nursing Homes")](https://www.pintas.com/faq/what-if-my-nursing-home-was-found-noncompliant-with-federal-requirements/ "Handling Noncompliance in Nursing Homes")
+[![What causes abdominal mesothelioma?](https://www.pintas.com/wp-content/uploads/2020/10/lung-cancer-mesothelioma-lawyer-what-causes-abdominal-mesothelioma-scaled.jpg "What Causes Abdominal Mesothelioma?")](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/what-causes-abdominal-mesothelioma/ "What Causes Abdominal Mesothelioma?")
 
-[#### Handling Noncompliance in Nursing Homes](https://www.pintas.com/faq/what-if-my-nursing-home-was-found-noncompliant-with-federal-requirements/)
+[#### What Causes Abdominal Mesothelioma?](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/what-causes-abdominal-mesothelioma/)
 
-[![Can kids get mesothelioma?](https://www.pintas.com/wp-content/uploads/2020/07/mesothelioma-can-kids-get-mesothelioma-scaled.jpg "Can Kids Get Mesothelioma?")](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/can-kids-get-mesothelioma/ "Can Kids Get Mesothelioma?")
+[![What are the symptoms of asbestos lung cancer?](https://www.pintas.com/wp-content/uploads/2020/03/mesothelioma-lawsuit-lawyer-what-are-the-symptoms-of-asbestos-lung-cancer.jpg "What Are the Symptoms of Asbestos Lung Cancer?")](https://www.pintas.com/practice-areas/lung-cancer/mesothelioma/symptoms-of-asbestos-lung-cancer "What Are the Symptoms of Asbestos Lung Cancer?")
 
-[#### Can Kids Get Mesothelioma?](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/can-kids-get-mesothelioma/)
+[#### What Are the Symptoms of Asbestos Lung Cancer?](https://www.pintas.com/practice-areas/lung-cancer/mesothelioma/symptoms-of-asbestos-lung-cancer)
 
-[![Facts about how mesothelioma patients die](https://www.pintas.com/wp-content/uploads/2020/06/mesothelioma-how-do-mesothelioma-patients-die-2-scaled.jpg "Facts About How Mesothelioma Patients Die")](https://www.pintas.com/practice-areas/lung-cancer/mesothelioma/how-do-patients-die "Facts About How Mesothelioma Patients Die")
+[![faq thumb](https://www.pintas.com/wp-content/themes/pintas-v2/assets/app/img/blog-default.jpg)](https://www.pintas.com/faq/can-a-nursing-home-refuse-to-sign-the-death-certificate/ "Can a Nursing Home Refuse to Sign the Death Certificate?")
 
-[#### Facts About How Mesothelioma Patients Die](https://www.pintas.com/practice-areas/lung-cancer/mesothelioma/how-do-patients-die)
+[#### Can a Nursing Home Refuse to Sign the Death Certificate?](https://www.pintas.com/faq/can-a-nursing-home-refuse-to-sign-the-death-certificate/)
 
 ### Injured?  
 Tell Us What Happened.
