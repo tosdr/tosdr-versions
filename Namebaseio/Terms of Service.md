@@ -1,8 +1,8 @@
-HandyCon is on March 16th-18th!
+DNS maintenance scheduled for Wednesday, 25th
 
-[RSVP now](https://www.airmeet.com/e/ced5d460-8003-11ec-afcc-fd3562637945)
+[Join Discord](https://discord.com/invite/V3aTrkp)
 
-[RSVP now](https://www.airmeet.com/e/ced5d460-8003-11ec-afcc-fd3562637945)
+[Join Discord](https://discord.com/invite/V3aTrkp)
 
 [](https://www.namebase.io/)
 
