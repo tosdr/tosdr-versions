@@ -398,11 +398,11 @@ The future of Coursera’s only credible alternative for universities rests in t
 
 ##### Latest
 
-1. [\[2024\] 450+ Google Cloud Certification Training Courses](https://www.classcentral.com/report/google-cloud-certification-training-courses/)
-2. [1000s of Free Digital Marketing Courses](https://www.classcentral.com/report/digital-marketing-online-courses-moocs/)
-3. [10 Best Data Analysis Courses for 2024: From Data to Insights](https://www.classcentral.com/report/best-data-analysis-courses/)
-4. [Replacing Bad Study Habits with Effective Learning Techniques](https://www.classcentral.com/report/study-habits/)
-5. [\[2024\] 1800+ Coursera Courses Still Completely Free](https://www.classcentral.com/report/coursera-free-online-courses/)
+1. [Layoffs Hit Udemy: 20% Out as Some Jobs Move Overseas](https://www.classcentral.com/report/udemy-restructures-layoffs-offshoring/)
+2. [7 Best Online First Aid Courses and Sites for 2024](https://www.classcentral.com/report/best-first-aid-courses/)
+3. [30% of Coursera Courses Have Peer Reviews: Here Are the Best](https://www.classcentral.com/report/courses-with-peer-reviews/)
+4. [\[2024\] 450+ Google Cloud Certification Training Courses](https://www.classcentral.com/report/google-cloud-certification-training-courses/)
+5. [1000s of Free Digital Marketing Courses](https://www.classcentral.com/report/digital-marketing-online-courses-moocs/)
 
 [Visit _The Report_](https://www.classcentral.com/report/)
 
@@ -413,38 +413,38 @@ The future of Coursera’s only credible alternative for universities rests in t
 Most common
 -----------
 
-1. French
+1. English
     
-2. html
+2. finance
     
-3. flutter
+3. graphic design
     
 
 Popular subjects
 ----------------
 
-1. [Language Learning
+1. [Leadership
     
-    1,873 courses](https://www.classcentral.com/subject/language-learning)
-2. [Communication Skills
+    3,420 courses](https://www.classcentral.com/subject/leadership)
+2. [Cybersecurity
     
-    3,788 courses](https://www.classcentral.com/subject/communication-skills)
-3. [Microsoft Excel
+    15,094 courses](https://www.classcentral.com/subject/cybersecurity)
+3. [Project Management
     
-    1,651 courses](https://www.classcentral.com/subject/microsoft-excel)
+    3,688 courses](https://www.classcentral.com/subject/project-management)
 
 Popular courses
 ---------------
 
-1. [Crisis Resource Management
+1. [Responsive Web Design
     
-    Columbia University](https://www.classcentral.com/course/crisis-resource-management-columbia-university-cr-21613)
-2. [Build a Modern Computer from First Principles: From Nand to Tetris (Project-Centered Course)
+    freeCodeCamp](https://www.classcentral.com/course/freecodecamp-responsive-web-design-34059)
+2. [Arab-Islamic History: From Tribes to Empires
     
-    Hebrew University of Jerusalem](https://www.classcentral.com/course/build-a-computer-3234)
-3. [Tsinghua Chinese: Start Talking with 1.3 Billion People
+    Tel Aviv University](https://www.classcentral.com/course/humanities-tel-aviv-university-arab-islamic-histo-9365)
+3. [English for Career Development
     
-    Tsinghua University](https://www.classcentral.com/course/language-tsinghua-university-tsinghua-chinese-sta-5426)
+    University of Pennsylvania](https://www.classcentral.com/course/careerdevelopment-6011)
 
 ![](https://ccweb.imgix.net/https%3A%2F%2Fwww.classcentral.com%2Fimages%2Flists%2Flist-empty.png?auto=format&ixlib=php-4.1.0&w=100&s=d64b43c1b6dcf041e56fce6ac1794fcf)
 
