@@ -693,4 +693,4 @@ Join our Webinar with Datos Insights about Defending the Enterprise: Collaborati
 
                                                  
 
-https://www.arkoselabs.com/legal/privacy-policy/
+https://www.arkoselabs.com/
