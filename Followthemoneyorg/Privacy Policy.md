@@ -66,7 +66,9 @@ Any e-mail addresses are not used or collected for any purpose other than notify
 
 ### Look at this!
 
-[![Crossing the Line: Boosting Gubernatorial Candidates With Out-of-State Contributions](/assets/Images/teasers/full/OOS-v-Total-area-chart.png)](http://www.followthemoney.org/research/institute-reports/crossing-the-line-boosting-out-of-state-contributions-to-gubernatorial-campaigns/)
+[![reynolds 2011-12](/assets/logos/ReynoldsAmericanByRecipient2011-12.png)](http://www.followthemoney.org/research/institute-research/big-tobacco-wins-tax-battles)
+
+Look at this tobacco giant’s giving.
 
   [See More Visualizations](https://www.followthemoney.org/look-at-this)
 
