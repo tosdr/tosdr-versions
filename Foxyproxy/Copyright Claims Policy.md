@@ -88,6 +88,6 @@ FoxyProxy is a USA company privately owned by Americans. Mailing address is avai
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-Great Service, overall good speed (0.8-1.2 Mbits/sec) but it could be better. Unfortunately the main goal for which I made this account was not possible to achieve. Anyway, I will sign up again as the ABC, NBC and other US media websites are working.
+Thank you very much. Good services!
 
-Ionut Cezar
+Gil Lessard
