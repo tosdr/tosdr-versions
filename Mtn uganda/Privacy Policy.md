@@ -1,7 +1,7 @@
 * [Personal](https://www.mtn.co.ug/personal)
 * [Business](https://www.mtn.co.ug/business)
 * [MTN MoMo](https://www.mtn.co.ug/momo/)
-* [Play](https://www.mtn.co.ug/play)
+* [MTN Play](https://www.mtn.co.ug/play)
 * [About](https://www.mtn.co.ug/about-mtn/)
 
 [![site-logo](https://www.mtn.co.ug/wp-content/themes/mtn-vivid-wp/public/img/mtn-logo.svg)](https://www.mtn.co.ug/)
@@ -61,7 +61,7 @@
 * * [Personal](https://www.mtn.co.ug/personal)
     * [Business](https://www.mtn.co.ug/business)
     * [MTN MoMo](https://www.mtn.co.ug/momo/)
-    * [Play](https://www.mtn.co.ug/play)
+    * [MTN Play](https://www.mtn.co.ug/play)
     * [About](https://www.mtn.co.ug/about-mtn/)
 
 Search for:  
