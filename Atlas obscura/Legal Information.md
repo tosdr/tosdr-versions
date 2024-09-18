@@ -73,6 +73,10 @@ Upcoming Courses
 
 [View All Courses »](https://www.atlasobscura.com/online-courses)
 
+   [![](https://img.atlasobscura.com/qsjldIj5qK07gCdxw2VOKvN5GgtIYtyj4-JQNok_A0M/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2V4cGVy/aWVuY2Vfc2VyaWVz/X2ltYWdlcy80MTk1/ZDlmYi01M2Q2LTQ4/NzYtYjZiOS1kZWVl/YTU5YTllMGNhNDE0/MTY4MTE2OTZiMWQ0/OWNfSU1HXzk3NjAu/anBn.jpg)
+
+In Deep: Life at the Bottom of the Ocean With Dr. Sarah McAnulty](https://www.atlasobscura.com/experiences/deep-sea-course)
+
    [![](https://img.atlasobscura.com/mw6XQrcvv8bED55hweNZfTLYB7myt__AO5BFAUThhZg/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2V4cGVy/aWVuY2Vfc2VyaWVz/X2ltYWdlcy8zMmU3/OTA4NS1jNGMyLTQ3/MWYtOGEyNy04M2I3/ODY2MmRhM2ZjYzkz/MmIxMjg4NTkzM2I4/OTdfUnViU3VtbWVy/UGxheS00Mi5qcGc.jpg)
 
 How to Make a Murder: Writing Your Own Murder Mystery Party With Abi Inman](https://www.atlasobscura.com/experiences/murder-mystery-party-online-course)
@@ -88,10 +92,6 @@ Historical Nonfiction: Research-Based Writing With Hadley Meares](https://www.at
    [![](https://img.atlasobscura.com/PphIsMY6kFPUrMlyHCOlsqf35AYxwM6NF5sLKhzKWY0/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2V4cGVy/aWVuY2Vfc2VyaWVz/X2ltYWdlcy9kZWM3/OWU0NS1mZGIxLTQ3/YjMtYjZhMS1hNGIy/ZDMxODRkOTE2ZWI3/ZTc3ZTBkN2I0ZmFm/MmZfY2hhbmRyYW1v/dWxpLWJha3VsYXBh/bGx5LTk4ZFlvS1BK/ZWF3LXVuc3BsYXNo/LmpwZw.jpg)
 
 How The Living See The Dead: Comparative Thanatology With Dânia Rodrigues](https://www.atlasobscura.com/experiences/thanatology-course)
-
-   [![](https://img.atlasobscura.com/0A044vFkbhmnASZu3ApG519fBSPOFkGWQEAOb7moikI/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2V4cGVy/aWVuY2Vfc2VyaWVz/X2ltYWdlcy9jMDgz/YmIyNi05NjI3LTQ3/MzItYTQ1MC1iNWQw/ZmMwMjg2ZWMzOGRi/NDRjZDlhMDI2MzJk/MzNfc2h1dHRlcnN0/b2NrXzE1Mjg3Mzc5/MjkuanBn.jpg)
-
-Thrills & Chills: Horror Story Writing With Nino Cipri](https://www.atlasobscura.com/experiences/horror-writing-course)
 
 Top Destinations
 
@@ -145,25 +145,33 @@ Latest Places
 
 [View All Places »](https://www.atlasobscura.com/places?sort=published_at)
 
-   [![](https://img.atlasobscura.com/_vQzPJ4P4LC5e-of-n6UY2J5IGhDAewWz3s1DeWt0VQ/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy9lYmY4/ZDc1Ny0yMzVhLTRm/MjgtYTZhNS00YTE1/MmQ4NDFkMDRkNTIz/NDA2NWFhNmEwMmFm/MjVfSU1HLTIwMjQw/ODMxLVdBMDAxNy5q/cGc.jpg)
+   [![The sushi memorial at Namiyoke Shrine remembers the spirits of the seafood that made your lunch.](https://img.atlasobscura.com/jxfRj0Wnbf3GhWM-MbKK33Gs6g35RUXZ5adSLKuInXk/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy9mOTcx/YTU4Mi1iMjdlLTRh/OTUtOGE5Mi01YjIy/ZmJlODM1Njg3NjM0/NjliMThmMjI3ZWFm/MTdfRFNDXzAxNTcu/anBlZw.jpg)
 
-Tours Aillaud](https://www.atlasobscura.com/places/tours-aillaud-tours-nuages-nanterre)
+Sushi Memorials at Namiyoke Shrine](https://www.atlasobscura.com/places/sushi-memorials-at-namiyoke-shrine)
 
-   [![](https://img.atlasobscura.com/4kJxXruI1ceIxqJSmYothUxuVVrpBG7xf4e8_kmBF8I/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy83ZTY4/ZGU3OS03YjQ4LTQy/OTAtODI4ZS02ODA3/M2VmYTdjZDliYmJh/YzFkMGI4ODM4ODFl/Y2NfNDQxNTQ4MDk1/XzEwMTU4MzYyNDM0/NDk0NTY3XzI0MDcz/NDIwNjk2MjE3NTkx/NzZfbi5qcGc.jpg)
+   [![](https://img.atlasobscura.com/RZwxkPbQqcqLgwSgNZOrEELqkwgl122ft4e9WcgjLcM/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy9jNzA1/YzM3Zi03Y2QyLTQ3/MmItYjZjYi02YTRk/NDY3OTY3MTk5NjIz/YjBhYWE1ZWMxMGU5/ZWJfMjAyNDA3MjRf/MDk1NzIwLmpwZw.jpg)
 
-Old Sturbridge Village](https://www.atlasobscura.com/places/old-sturbridge-village)
+The Cloth Hall Knife](https://www.atlasobscura.com/places/the-cloth-hall-knife)
 
-   [![Entrance](https://img.atlasobscura.com/FN1FPK7kyQctz0QV-w4RytQoQovtYPXgBtPiAF6Cc_w/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy80MDkz/YzgzNy1kNDJkLTQ4/MmYtYTE2Yy02Mjli/OTBhMmEzMDUzMDE0/M2Q5NThhNTAwZmMw/MjBfSU1HXzMzOTEu/SlBH.jpg)
+   [![Roast goose, it's what Kam's does.](https://img.atlasobscura.com/rJBeF7wi5O88rTJD-BnDP2Ce6065kg-CIU6W6rYuTZ0/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy8yMjkw/Y2M5My02ZjY5LTQ2/ZGEtOTA2OC0xNzA0/Yzc2ZmFjOWM2Y2Yx/MmNiMWY5MjBmZjdh/ZGRfa2FtICgzKS5q/cGc.jpg)
 
-Mausoleum of Chiang Kai-shek](https://www.atlasobscura.com/places/little-great-wall)
+Kam's Roast Goose](https://www.atlasobscura.com/places/kams-roast-goose)
 
-   [![The shrine of Mary at the Stone Gate](https://img.atlasobscura.com/7gh7uSr3ZR3XCgkwxRKs4BreasZi0jeLXZNQHsvW97I/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy8wM2Fh/OTRlYy03ZDZlLTRj/ZWYtYWZjMC04MDky/ZjkyN2Q4ODhjZWNi/MjZiZDY1ZWM5MGI3/ZDRfS2FtZW5pdGFf/dnJhdGFfMjkxMDIw/MTYtMDAzLmpwZw.jpg)
+   [![](https://img.atlasobscura.com/j63RL47WbG296jITJf2S0zoviMPOndLt_41HrsgJ9Og/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy9lMGNi/YzE0ZC1jMTFmLTQw/OTEtYmFkZi1mNWM4/OWVhMGIwY2U1NTg1/NzYxMWI5ZmZkYTVh/MWFfaGVuLmpwZw.jpg)
 
-Kamenita Vrata (Our Lady of the Stone Gate)](https://www.atlasobscura.com/places/kamenita-vrata-our-lady-of-the-stone-gate)
+Steel Henge](https://www.atlasobscura.com/places/steel-henge)
 
 Latest Places to Eat & Drink
 
 [View All Places to Eat »](https://www.atlasobscura.com/cool-places-to-eat)
+
+   [![The sushi memorial at Namiyoke Shrine remembers the spirits of the seafood that made your lunch.](https://img.atlasobscura.com/jxfRj0Wnbf3GhWM-MbKK33Gs6g35RUXZ5adSLKuInXk/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy9mOTcx/YTU4Mi1iMjdlLTRh/OTUtOGE5Mi01YjIy/ZmJlODM1Njg3NjM0/NjliMThmMjI3ZWFm/MTdfRFNDXzAxNTcu/anBlZw.jpg)
+
+Sushi Memorials at Namiyoke Shrine](https://www.atlasobscura.com/places/sushi-memorials-at-namiyoke-shrine)
+
+   [![Roast goose, it's what Kam's does.](https://img.atlasobscura.com/rJBeF7wi5O88rTJD-BnDP2Ce6065kg-CIU6W6rYuTZ0/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy8yMjkw/Y2M5My02ZjY5LTQ2/ZGEtOTA2OC0xNzA0/Yzc2ZmFjOWM2Y2Yx/MmNiMWY5MjBmZjdh/ZGRfa2FtICgzKS5q/cGc.jpg)
+
+Kam's Roast Goose](https://www.atlasobscura.com/places/kams-roast-goose)
 
    [![Everything about Ely’s famous pharmacy is a throwback, from the 1950s interiors to the old-timey soda fountain. ](https://img.atlasobscura.com/2CSM-H4j-lREPVQqiGoUNmp3DpKxJvSw2Z-uEdTRgsY/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy9jOTJl/OTc5MGRmMTExNmFi/YmZfRWx5U29kYUZv/dW50YWluMl9TTS5q/cGc.jpg)
 
@@ -176,14 +184,6 @@ Historic Silver Café](https://www.atlasobscura.com/places/historic-silver-cafe)
    [![The antique, embossed tin on the walls and ceiling of the Martin Hotel have an “Arabesque” design motif, popular at the time of establishment. ](https://img.atlasobscura.com/LxVhc6Odbmm1beoxgsnxC-qERVNTDxbEJmWwS6o0JC8/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy82OTZj/MDNmZjg4YTQxOWVi/NTFfTWFydGluSG90/ZWwxOS5qcGc.jpg)
 
 The Martin Hotel](https://www.atlasobscura.com/places/the-martin-hotel)
-
-   [![This "little French girl" is a Porto icon.](https://img.atlasobscura.com/mNMhuHvy9kgw2wWJs_Lc1mMNFDqV--HWQK2L3npb7MY/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy80ZTRh/N2UxMTkxOTMzM2Q4/ZmFfMjAyMzEwX1Bv/cnRvX1BvcnR1Z2Fs/LTEwMDUuanBn.jpg)
-
-A Regaleira](https://www.atlasobscura.com/places/a-regaleira)
-
-   [![A blowtorch makes for an exquisitely caramelized crust.](https://img.atlasobscura.com/z50sRCyDFJSsmObZVyyed4AoWQtxRve8_wf3qz8b_4I/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy84MmI5/MjI0NzBjN2QzOTFm/M2VfMjAyNDA2IFBv/cnRvIFBvcnR1Z2Fs/LTMxMzYuanBn.jpg)
-
-Semea](https://www.atlasobscura.com/places/semea)
 
 Recent Stories
 
