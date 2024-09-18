@@ -255,6 +255,68 @@ Enjoy 10% on your next purchase by using coupon code PHAIDON10 at checkout.
 
 \*10% off is valid on orders at Artspace.com by using the promotional code PHAIDON10. Some exclusions apply. This offer cannot be applied to previous purchases, combined with any other promotional codes, used towards gift cards, or redeemed for cash. Offer excludes works from the following partners: , Marian Goodman Gallery, Bomb Magazine, Oxbow School, Art Plural Gallery, Revolver Gallery, The Novogratz, Victoria Miro, Neue Galerie, and White Cube. Offer is applied by using the code PHAIDON10 at checkout. Terms and inventory available are subject to change at any time.
 
+[](#)
+
+auction pre-registration
+
+Auction Pre-Registration
+
+I accept the terms and conditions
+
+Already have a login:Sign In Now
+
+### Credit Card Validation
+
+In order to secure a bid, please enter your credit card details below. We will not charge your card but only use it to validate your bid. We only need to validate your card once. You will be notified that you are the winning bidder before your card is charged, and you will have the option to change your payment method at that time.
+
+\*Card Number
+
+\*Expiration Date
+
+01 - January02 - February03 - March04 - April05 - May06 - June07 - July08 - August09 - September10 - October11 - November12 - December
+
+20242025202620272028202920302031203220332034
+
+\*Security Code
+
+![CVC Code Example](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+
+\*First name
+
+\*Last name
+
+\*Address
+
+Address 2 (optional)
+
+\*Country United States Andorra Argentina Armenia Australia Austria Bahrain Bangladesh Belgium Belize Bolivia Brazil Bulgaria Cambodia Canada Chile China Colombia Costa Rica Croatia Cyprus Czech Republic Denmark Dominican Republic Egypt Finland France Germany Greece Grenada Guam Hong Kong SAR China Hungary Iceland India Ireland Israel Italy Japan Jordan Kenya Kuwait Latvia Lebanon Liechtenstein Lithuania Luxembourg Macau SAR China Malta Mexico Monaco Morocco Netherlands New Zealand Norway Oman Peru Philippines Poland Portugal Puerto Rico Qatar Romania Saudi Arabia Serbia Singapore Slovakia Slovenia South Africa South Korea Spain Sweden Switzerland Taiwan Thailand Turkey Ukraine United Arab Emirates United Kingdom Venezuela Yemen
+
+\*Postal Code
+
+\*City
+
+\*State / Province 
+
+\*Province
+
+\*Phone Number
+
+Sign up now
+
+Already a member? Sign in here
+
+Damien Hirst, Pardon, 2012
+
+James Welling, H1, 2006
+
+Josh Smith,LARGE IMAGE J.S. (Untitled, 2006), 2012
+
+Sol LeWitt, Two Centimeter Wavy Bands In Colors, 1996
+
+Coke Wisdom O'Neal, The Gospel of Wealth, 2013
+
+Alex Katz, Coleman Pond II, 2007
+
 I acknowledge I read the Artspace terms and conditions.
 
 [](#)
@@ -538,68 +600,6 @@ For Artspace Auctions winning bidders are charged a 15% Buyer's Premium on top o
 Winning bidders will be contacted within 48 hours to arrange shipping and to provide final price including commission, shipping, and taxes and duties when applicable. Promotion codes cannot be applied to auction works.
 
 \* Price listed does not include buyer's premium (if applicable), sales tax, shipping, or handling fees.
-
-[](#)
-
-auction pre-registration
-
-Auction Pre-Registration
-
-I accept the terms and conditions
-
-Already have a login:Sign In Now
-
-### Credit Card Validation
-
-In order to secure a bid, please enter your credit card details below. We will not charge your card but only use it to validate your bid. We only need to validate your card once. You will be notified that you are the winning bidder before your card is charged, and you will have the option to change your payment method at that time.
-
-\*Card Number
-
-\*Expiration Date
-
-01 - January02 - February03 - March04 - April05 - May06 - June07 - July08 - August09 - September10 - October11 - November12 - December
-
-20242025202620272028202920302031203220332034
-
-\*Security Code
-
-![CVC Code Example](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-
-\*First name
-
-\*Last name
-
-\*Address
-
-Address 2 (optional)
-
-\*Country United States Andorra Argentina Armenia Australia Austria Bahrain Bangladesh Belgium Belize Bolivia Brazil Bulgaria Cambodia Canada Chile China Colombia Costa Rica Croatia Cyprus Czech Republic Denmark Dominican Republic Egypt Finland France Germany Greece Grenada Guam Hong Kong SAR China Hungary Iceland India Ireland Israel Italy Japan Jordan Kenya Kuwait Latvia Lebanon Liechtenstein Lithuania Luxembourg Macau SAR China Malta Mexico Monaco Morocco Netherlands New Zealand Norway Oman Peru Philippines Poland Portugal Puerto Rico Qatar Romania Saudi Arabia Serbia Singapore Slovakia Slovenia South Africa South Korea Spain Sweden Switzerland Taiwan Thailand Turkey Ukraine United Arab Emirates United Kingdom Venezuela Yemen
-
-\*Postal Code
-
-\*City
-
-\*State / Province 
-
-\*Province
-
-\*Phone Number
-
-Sign up now
-
-Already a member? Sign in here
-
-Damien Hirst, Pardon, 2012
-
-James Welling, H1, 2006
-
-Josh Smith,LARGE IMAGE J.S. (Untitled, 2006), 2012
-
-Sol LeWitt, Two Centimeter Wavy Bands In Colors, 1996
-
-Coke Wisdom O'Neal, The Gospel of Wealth, 2013
-
-Alex Katz, Coleman Pond II, 2007
 
 [](#)
 
