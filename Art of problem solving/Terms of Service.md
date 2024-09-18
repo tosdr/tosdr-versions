@@ -61,6 +61,14 @@ Middle & High School
 
 [Online Classes: AoPS Online](https://artofproblemsolving.com/) [In-person: AoPS Academy](https://aopsacademy.org/)
 
+![](/assets/images/logos/math-jams-white.svg)
+
+Live Discussion!
+
+Intro to USAMTS Math Jam 2024 is going on now!
+
+[Join InGo](https://artofproblemsolving.com/schoolhouse/room/mathjam)
+
 Intro to Physics kicks off tomorrow! [Reserve your spot now](https://artofproblemsolving.com/school/course/intro-physics)!
 
 JavaScript is not enabled. JavaScript is required to fully utilize the site.
