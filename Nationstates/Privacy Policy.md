@@ -34,11 +34,11 @@ Login Stay logged in
 
 Latest Forum Topics
 
-* [Dragon Ball: Universe V2: They Came F… (92)](https://forum.nationstates.net/viewtopic.php?t=555044&f=31&view=unread#unread ""Dragon Ball: Universe V2: They Came From Outer Space (IC)" (92 posts)")
-* [NFC is here. First PPV on 21 sep!!! (1)](https://forum.nationstates.net/viewtopic.php?t=555419&f=4&view=unread#unread ""NFC is here. First PPV on 21 sep!!!" (1 post)")
-* [2023 Israel–Hamas War Thread mk3 (7,190)](https://forum.nationstates.net/viewtopic.php?t=549839&f=20&view=unread#unread ""2023 Israel–Hamas War Thread mk3" (7,190 posts)")
-* [NFL Football Thread 24-25: The Road t… (7,491)](https://forum.nationstates.net/viewtopic.php?t=527922&f=20&view=unread#unread ""NFL Football Thread 24-25: The Road to New Orleans!" (7,491 posts)")
-* [World Bowl XLIX \[49\] Everything Thread (9)](https://forum.nationstates.net/viewtopic.php?t=555385&f=7&view=unread#unread ""World Bowl XLIX [49] Everything Thread" (9 posts)")
+* [Say a random sentence (8,487)](https://forum.nationstates.net/viewtopic.php?t=514647&f=25&view=unread#unread ""Say a random sentence" (8,487 posts)")
+* [Transformers: Electric Trepidation (7,536)](https://forum.nationstates.net/viewtopic.php?t=548040&f=20&view=unread#unread ""Transformers: Electric Trepidation" (7,536 posts)")
+* [STRANGE NEW WORLD (2024 ALT-HISTORY R… (236)](https://forum.nationstates.net/viewtopic.php?t=554877&f=31&view=unread#unread ""STRANGE NEW WORLD (2024 ALT-HISTORY RP) - OOC" (236 posts)")
+* [The Seal and Logo Request Thread (8,480)](https://forum.nationstates.net/viewtopic.php?t=418198&f=23&view=unread#unread ""The Seal and Logo Request Thread" (8,480 posts)")
+* [Geography Game II (10,056)](https://forum.nationstates.net/viewtopic.php?t=529733&f=25&view=unread#unread ""Geography Game II" (10,056 posts)")
 
 Advertisement
 
