@@ -684,7 +684,7 @@ Real CDPTM
 
 ![Blendee | IAB Tech Lab Member](https://cdn.prod.website-files.com/5e9dcaea14ba52eb79416f6a/6549f96e59b4405ea43e32d7_iab-tech-lab-member.png)![](https://cdn.prod.website-files.com/5e9dcaea14ba52eb79416f6a/654e10a31c468978cbaed86b_netcom-member.svg)![](https://cdn.prod.website-files.com/5e9dcaea14ba52eb79416f6a/6670047eebc8e4b1bf89d690_confindustria.png)
 
-[Contattaci per una Consulenza➝](https://www.neodatagroup.com/marketing-automation-consulenza)[SCOprI BLENDEE➝](https://www.neodatagroup.com/contattaci)
+[Contattaci per una Consulenza ➝](https://www.neodatagroup.com/marketing-automation-consulenza)[SCOprI BLENDEE ➝](https://www.neodatagroup.com/contattaci)
 
 Scopri Blendee
 
