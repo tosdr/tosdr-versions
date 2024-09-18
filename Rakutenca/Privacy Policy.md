@@ -107,15 +107,15 @@ FR
         
         [Lenovo Canada
         
-        3% Cash Back](https://www.rakuten.ca/lenovo-canada)[HP Canada
+        3% Cash Back](https://www.rakuten.ca/lenovo-canada)[NordVPN
         
-        10% Cash Back](https://www.rakuten.ca/hp-canada)[NordVPN
+        20% Cash Back](https://www.rakuten.ca/nordvpn)[HP Canada
         
-        20% Cash Back](https://www.rakuten.ca/nordvpn)[Lenovo Canada
+        10% Cash Back](https://www.rakuten.ca/hp-canada)[Samsung
         
-        3% Cash Back](https://www.rakuten.ca/lenovo-canada)[Samsung
+        up to 2% Cash Back](https://www.rakuten.ca/samsung.com)[Dell Technologies
         
-        up to 2% Cash Back](https://www.rakuten.ca/samsung.com)
+        up to 5% Cash Back](https://www.rakuten.ca/dell-consumer)
         
         Featured Shops & Deals
         
