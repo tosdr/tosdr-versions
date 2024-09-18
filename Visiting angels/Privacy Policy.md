@@ -260,15 +260,15 @@ Or write to us at: 937 Haverford Road Suite 200, Bryn Mawr PA 19010
 
  related  categories
 
-[What You Should Do Now When Your Elderly Parent Starts Getting Lost](https://www.visitingangels.com/knowledge-center/selecting-care/what-you-should-do-now-when-your-elderly-parent-starts-getting-lost/317)
+[How to Communicate with a Senior Who Can’t Speak](https://www.visitingangels.com/knowledge-center/senior-health-and-well-being/how-to-communicate-with-a-senior-who-cant-speak/487)
 
-[3 Reasons Why Elderly Socialization is Critical](https://www.visitingangels.com/knowledge-center/senior-health-and-well-being/3-reasons-why-elderly-socialization-is-critical/3)
+[How to Plan for End of Life Care](https://www.visitingangels.com/knowledge-center/preparing-loved-ones/how-to-plan-for-end-of-life-care/470)
 
-[Professional Home Care Can Help Older Adults Manage a Heart Condition](https://www.visitingangels.com/knowledge-center/senior-health-and-well-being/professional-home-care-can-help-older-adults-manage-a-heart-condition/479)
+[Does Your Senior Show Signs of Depression?](https://www.visitingangels.com/knowledge-center/senior-health-and-well-being/does-your-senior-show-signs-of-depression/460)
 
-[“What Is Alzheimer’s?”: 3 Ways of Understanding Alzheimer’s Disease](https://www.visitingangels.com/knowledge-center/family-caregiver-support/what-is-alzheimers-3-ways-of-understanding-alzheimers-disease/347)
+[How Social Media Can Prevent Isolating Your Senior Loved Ones](https://www.visitingangels.com/knowledge-center/senior-health-and-well-being/how-social-media-can-prevent-isolating-your-senior-loved-ones/342)
 
-[Coordinating Family and Professional Care](https://www.visitingangels.com/knowledge-center/care-options/coordinating-family-and-professional-care/115)
+[Does Your Loved One Need Elder Care Services?](https://www.visitingangels.com/knowledge-center/care-options/does-your-loved-one-need-elder-care-services/53)
 
 * [Care Options](https://www.visitingangels.com/knowledge-center/care-options)
 * [Selecting Care](https://www.visitingangels.com/knowledge-center/selecting-care)
