@@ -171,32 +171,6 @@ A Note to Our Readers:
 
 For stewardship purposes, we will not be able to write, edit, or proofread science papers and projects, assist with homework assignments, evaluate personal theories and hypotheses, or review books and other resources. We also will not accept unsolicited manuscripts, nor are we able to provide unsolicited endorsements of books, products, or ministries.
 
-More Creation Science Update
-
-[![](/i/Main%20Stage%20-%201400x1050/jameswebb-1400x1050)](https://www.icr.org/article/james-webb-new-images)
-
-[James Webb Telescope Data: Challenges for the Big Bang?](https://www.icr.org/article/james-webb-new-images/)
-
-Astronomers are thrilled by the extraordinary images provided by the new James Webb Space Telescope (JWST)—but some of the data already contradict...
-
-BY: [JAKE HEBERT, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=218)
-
-[![](/i/Main%20Stage%20-%201400x1050/Arabidopsis-1400x1050)](https://www.icr.org/article/adaptive-genetic-and)
-
-[Adaptive Genetic and Epigenetic Changes in Plants](https://www.icr.org/article/adaptive-genetic-and/)
-
-Being sedentary organisms, plants are essentially stuck where they are planted and need to dynamically adapt to the conditions around them to not only...
-
-BY: [JEFFREY P. TOMKINS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=207)
-
-[![](/i/Main%20Stage%20-%201400x1050/weirdworm-1400x1050)](https://www.icr.org/article/parasites-actively-adapt)
-
-[Parasites Actively Adapt to their Environments](https://www.icr.org/article/parasites-actively-adapt/)
-
-Although we see much beauty in God’s creation, we cannot help but see Earth as a perfect world gone wrong. Conditions such as cancer, COVID, and...
-
-BY: [FRANK SHERWIN, D.SC. (HON.)](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=32)
-
 [![Institute for Creation Research](/i/icr-logo-final-h-rev3-100.png)](https://www.icr.org/)[![ICR Discovery Center for Science and Earth History](/i/DC_Logo_Footer_2.png)](http://discoverycenter.icr.org/)
 
 [About  Us](https://www.icr.org/discover)[News](https://www.icr.org/news)[Publications](https://www.icr.org/icr-magazines)[Media](https://www.icr.org/video)[Events](https://www.icr.org/events)[Give](https://www.icr.org/donate)[Store](https://store.icr.org/)[Education](http://www.icr.edu/)
