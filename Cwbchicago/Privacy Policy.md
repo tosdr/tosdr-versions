@@ -242,35 +242,35 @@ We have included on the pages of this website a robots meta tag with the “noai
 
 This privacy policy was created in party by using [Termly’s Privacy Policy Generator](https://termly.io/products/privacy-policy-generator/?ftseo).
 
-[![](https://cwbchicago.com/wp-content/uploads/2024/09/2300-block-west-eastwood-chicago-326x245.jpg)](https://cwbchicago.com/2024/09/16-year-old-shot-near-western-brown-line-station.html "16-year-old shot near Western Brown Line station")
+[![](https://cwbchicago.com/wp-content/uploads/2024/09/Daniel-Morales-McLovin-326x245.jpg)](https://cwbchicago.com/2024/09/memorable-mclovn6-license-plate-helped-cops-track-down-expressway-shooter-officials-say.html "Memorable MCLOVN6 license plate helped cops track down expressway shooter, officials say")
 
-Lincoln Square
+Irving Park
 
-### [16-year-old shot near Western Brown Line station](https://cwbchicago.com/2024/09/16-year-old-shot-near-western-brown-line-station.html "16-year-old shot near Western Brown Line station")
+### [Memorable MCLOVN6 license plate helped cops track down expressway shooter, officials say](https://cwbchicago.com/2024/09/memorable-mclovn6-license-plate-helped-cops-track-down-expressway-shooter-officials-say.html "Memorable MCLOVN6 license plate helped cops track down expressway shooter, officials say")
 
-[September 16, 2024 7:13 AM](https://cwbchicago.com/2024/09)
+[September 16, 2024 5:51 PM](https://cwbchicago.com/2024/09)
 
-A 16-year-old boy was shot in Lincoln Square on Sunday evening, Chicago police said.[](https://cwbchicago.com/2024/09/16-year-old-shot-near-western-brown-line-station.html "16-year-old shot near Western Brown Line station")
+A Chicago man is in jail, accused of shooting another driver’s car on the Kennedy Expressway, after his alleged victim gave cops his easy-to-remember license plate: MCLOVN6.[](https://cwbchicago.com/2024/09/memorable-mclovn6-license-plate-helped-cops-track-down-expressway-shooter-officials-say.html "Memorable MCLOVN6 license plate helped cops track down expressway shooter, officials say")
 
-[![](https://cwbchicago.com/wp-content/uploads/2024/09/3100-W-Luis-Munoz-Marin-326x245.jpg)](https://cwbchicago.com/2024/09/gang-fight-leaves-1-dead-2-injured-inside-humboldt-park.html "Gang fight leaves 1 dead, 2 injured inside Humboldt Park")
+[![](https://cwbchicago.com/wp-content/uploads/2024/09/johnson-stick-326x245.jpg)](https://cwbchicago.com/2024/09/hours-after-shotspotter-sends-cops-to-man-felled-by-gunfire-mayor-derides-the-technology-as-walkie-talkies-on-a-stick.html "Hours after ShotSpotter sends cops to man felled by gunfire, mayor derides the technology as ‘walkie-talkies on a stick’")
 
-Humboldt Park
+Citywide
 
-### [Gang fight leaves 1 dead, 2 injured inside Humboldt Park](https://cwbchicago.com/2024/09/gang-fight-leaves-1-dead-2-injured-inside-humboldt-park.html "Gang fight leaves 1 dead, 2 injured inside Humboldt Park")
+### [Hours after ShotSpotter sends cops to man felled by gunfire, mayor derides the technology as ‘walkie-talkies on a stick’](https://cwbchicago.com/2024/09/hours-after-shotspotter-sends-cops-to-man-felled-by-gunfire-mayor-derides-the-technology-as-walkie-talkies-on-a-stick.html "Hours after ShotSpotter sends cops to man felled by gunfire, mayor derides the technology as ‘walkie-talkies on a stick’")
 
-[September 15, 2024 5:00 PM](https://cwbchicago.com/2024/09)
+[September 16, 2024 3:43 PM](https://cwbchicago.com/2024/09)
 
-A fight between gang members from Chicago and New York City ended with one man fatally shot and two others stabbed inside Humboldt Park on Sunday morning.[](https://cwbchicago.com/2024/09/gang-fight-leaves-1-dead-2-injured-inside-humboldt-park.html "Gang fight leaves 1 dead, 2 injured inside Humboldt Park")
+Barely 12 hours after a ShotSpotter device directed Chicago police officers to a gravely wounded man who had been shot in the head, Mayor Brandon Johnson derided the technology as “walkie-talkies on a stick.”[](https://cwbchicago.com/2024/09/hours-after-shotspotter-sends-cops-to-man-felled-by-gunfire-mayor-derides-the-technology-as-walkie-talkies-on-a-stick.html "Hours after ShotSpotter sends cops to man felled by gunfire, mayor derides the technology as ‘walkie-talkies on a stick’")
 
-[![](https://cwbchicago.com/wp-content/uploads/2024/09/Davenchia-Lewis-326x245.jpg)](https://cwbchicago.com/2024/09/serial-lululemon-robber-charged-after-cops-recognize-his-white-sox-tattoo-on-surveillance-video.html "Serial Lululemon robber charged after cops recognize his White Sox tattoo on surveillance video")
+[![](https://cwbchicago.com/wp-content/uploads/2024/09/Isaiah-Turner-326x245.jpg)](https://cwbchicago.com/2024/09/man-robbed-cta-passenger-11-days-after-getting-probation-for-robbing-2-people-at-a-cta-station-prosecutors.html "Man robbed CTA passenger 11 days after getting probation for robbing 2 people at a CTA station: prosecutors")
 
-Lakeview
+CTA
 
-### [Serial Lululemon robber charged after cops recognize his White Sox tattoo on surveillance video](https://cwbchicago.com/2024/09/serial-lululemon-robber-charged-after-cops-recognize-his-white-sox-tattoo-on-surveillance-video.html "Serial Lululemon robber charged after cops recognize his White Sox tattoo on surveillance video")
+### [Man robbed CTA passenger 11 days after getting probation for robbing 2 people at a CTA station: prosecutors](https://cwbchicago.com/2024/09/man-robbed-cta-passenger-11-days-after-getting-probation-for-robbing-2-people-at-a-cta-station-prosecutors.html "Man robbed CTA passenger 11 days after getting probation for robbing 2 people at a CTA station: prosecutors")
 
-[September 15, 2024 9:45 AM](https://cwbchicago.com/2024/09)
+[September 16, 2024 8:23 AM](https://cwbchicago.com/2024/09)
 
-A parolee has been charged with taking merchandise worth more than $30,000 during three raids on Lululemon stores in Lakeview and the West Loop.[](https://cwbchicago.com/2024/09/serial-lululemon-robber-charged-after-cops-recognize-his-white-sox-tattoo-on-surveillance-video.html "Serial Lululemon robber charged after cops recognize his White Sox tattoo on surveillance video")
+Prosecutors have charged a Chicago man with robbing a woman on the CTA, just 11 days after he got probation for robbing two other people outside a CTA station.[](https://cwbchicago.com/2024/09/man-robbed-cta-passenger-11-days-after-getting-probation-for-robbing-2-people-at-a-cta-station-prosecutors.html "Man robbed CTA passenger 11 days after getting probation for robbing 2 people at a CTA station: prosecutors")
 
 Search
 
@@ -326,6 +326,7 @@ Thank you.
 * [East Garfield Park](https://cwbchicago.com/category/east-garfield-park)
 * [Edgewater](https://cwbchicago.com/category/edgewater)
 * [Englewood](https://cwbchicago.com/category/englewood)
+* [Gage Park](https://cwbchicago.com/category/gage-park)
 * [Garfield Ridge](https://cwbchicago.com/category/garfield-ridge)
 * [Gold Coast](https://cwbchicago.com/category/near-north/gold-coast)
 * [Greater Grand Crossing](https://cwbchicago.com/category/greater-grand-crossing)
