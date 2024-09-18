@@ -401,35 +401,35 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
- [![Big Boy locomotive chugging through North Texas this week](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/06/32/18/GettyImages-1334738287.jpg?ve=1&tl=1)
+ [![Developers, city questioned about duplexes built in violation of Elm Thicket zoning rules](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/091724-jg-ellum-thicket-vs-city-zoning-5PKG-brown-_00.00.35.50.jpg?ve=1&tl=1)
 
- ![Big Boy locomotive chugging through North Texas this week](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/06/32/18/592/333/GettyImages-1334738287.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/big-boy-dallas-union-pacific-locomotive)
+ ![Developers, city questioned about duplexes built in violation of Elm Thicket zoning rules](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/592/333/091724-jg-ellum-thicket-vs-city-zoning-5PKG-brown-_00.00.35.50.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/elm-thicket-ellum-thicket-zoning-update-sept-17)
 
-### [Big Boy locomotive chugging through North Texas this week](https://www.fox4news.com/news/big-boy-dallas-union-pacific-locomotive)
+### [Developers, city questioned about duplexes built in violation of Elm Thicket zoning rules](https://www.fox4news.com/news/elm-thicket-ellum-thicket-zoning-update-sept-17)
 
- [![Fort Worth women accused in human smuggling case](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/smuggling.jpg?ve=1&tl=1)
+ [![Cabin pressure issue on Delta flight causes ear pain, bloody noses for passengers](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/GettyImages-2166796107.jpg?ve=1&tl=1)
 
- ![Fort Worth women accused in human smuggling case](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/592/333/smuggling.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/fort-worth-vanessa-guiterrez-crisol-bernice-reyes)
+ ![Cabin pressure issue on Delta flight causes ear pain, bloody noses for passengers](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/592/333/GettyImages-2166796107.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/delta-flight-cabin-pressure)
 
-### [Fort Worth women accused in human smuggling case](https://www.fox4news.com/news/fort-worth-vanessa-guiterrez-crisol-bernice-reyes)
+### [Cabin pressure issue on Delta flight causes ear pain, bloody noses for passengers](https://www.fox4news.com/news/delta-flight-cabin-pressure)
 
- [![Harris in Philadelphia: Vice president returns after presidential debate with Trump](https://images.foxtv.com/static.fox29.com/www.fox29.com/content/uploads/2024/09/32/18/GettyImages-2171261400.jpg?ve=1&tl=1)
+ [![Kratom drink 'New Brew' banned in some states; here's why](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/GettyImages-1347090018.jpg?ve=1&tl=1)
 
- ![Harris in Philadelphia: Vice president returns after presidential debate with Trump](https://images.foxtv.com/images.foxtv.com/static.fox29.com/www.fox29.com/content/uploads/2024/09/32/18/592/333/GettyImages-2171261400.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/harris-philadelphia-vice-president-returns-after-presidential-debate-trump)
+ ![Kratom drink 'New Brew' banned in some states; here's why](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/592/333/GettyImages-1347090018.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/kratom-drink-new-brew-banned-some-states-heres-why)
 
-### [Harris in Philadelphia: Vice president returns after presidential debate with Trump](https://www.fox4news.com/news/harris-philadelphia-vice-president-returns-after-presidential-debate-trump)
+### [Kratom drink 'New Brew' banned in some states; here's why](https://www.fox4news.com/news/kratom-drink-new-brew-banned-some-states-heres-why)
 
- [![Little Elm shooting suspect in custody, police say](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/091724-SKY-4-TUE-1242-KDFWEME002_12_42_20_mpg_00.16.44.36.jpg?ve=1&tl=1)
+ [![Donald Trump meets with Florida deputies who detained alleged assassination suspect: 'I'm still here'](https://images.foxtv.com/static.fox35orlando.com/www.fox35orlando.com/content/uploads/2024/09/32/18/Donald-Trump-Martin-County.jpg?ve=1&tl=1)
 
- ![Little Elm shooting suspect in custody, police say](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/592/333/091724-SKY-4-TUE-1242-KDFWEME002_12_42_20_mpg_00.16.44.36.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/little-elm-shooting-suspect-custody-police-say)
+ ![Donald Trump meets with Florida deputies who detained alleged assassination suspect: 'I'm still here'](https://images.foxtv.com/images.foxtv.com/static.fox35orlando.com/www.fox35orlando.com/content/uploads/2024/09/32/18/592/333/Donald-Trump-Martin-County.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/donald-trump-meets-florida-deputies-who-detained-alleged-assassination-suspect-im-still-here)
 
-### [Little Elm shooting suspect in custody, police say](https://www.fox4news.com/news/little-elm-shooting-suspect-custody-police-say)
+### [Donald Trump meets with Florida deputies who detained alleged assassination suspect: 'I'm still here'](https://www.fox4news.com/news/donald-trump-meets-florida-deputies-who-detained-alleged-assassination-suspect-im-still-here)
 
- [![Yellowstone's Cole Hauser meets with fans at Fort Worth Walmart](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/Cole-Hauser-Coffee-WFAA_mxf_07.55.50.11.jpg?ve=1&tl=1)
+ [![Not just salary: New listing ranks best and worst states for teachers](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/Teaching.jpg?ve=1&tl=1)
 
- ![Yellowstone's Cole Hauser meets with fans at Fort Worth Walmart](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/592/333/Cole-Hauser-Coffee-WFAA_mxf_07.55.50.11.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/yellowstones-cole-hauser-meets-fans-fort-worth-walmart)
+ ![Not just salary: New listing ranks best and worst states for teachers](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/592/333/Teaching.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/not-just-salary-new-listing-ranks-best-worst-states-teachers)
 
-### [Yellowstone's Cole Hauser meets with fans at Fort Worth Walmart](https://www.fox4news.com/news/yellowstones-cole-hauser-meets-fans-fort-worth-walmart)
+### [Not just salary: New listing ranks best and worst states for teachers](https://www.fox4news.com/news/not-just-salary-new-listing-ranks-best-worst-states-teachers)
 
 ###### [News](https://www.fox4news.com/news)
 
