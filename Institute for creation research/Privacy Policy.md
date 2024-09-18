@@ -103,29 +103,65 @@ Return to our [subscription form](https://www.icr.org/subscriptions).
 
 More Creation Science Update
 
-[![](/i/Main%20Stage%20-%201400x1050/jameswebb-1400x1050)](https://www.icr.org/article/james-webb-new-images)
+[![](/i/Main%20Stage%20-%201400x1050/butterfliesremember_1400x1050.jpg)](https://www.icr.org/article/butterflies-remember)
 
-[James Webb Telescope Data: Challenges for the Big Bang?](https://www.icr.org/article/james-webb-new-images/)
+[Butterflies Can Remember](https://www.icr.org/article/butterflies-remember/)
 
-Astronomers are thrilled by the extraordinary images provided by the new James Webb Space Telescope (JWST)—but some of the data already contradict...
-
-BY: [JAKE HEBERT, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=218)
-
-[![](/i/Main%20Stage%20-%201400x1050/Arabidopsis-1400x1050)](https://www.icr.org/article/adaptive-genetic-and)
-
-[Adaptive Genetic and Epigenetic Changes in Plants](https://www.icr.org/article/adaptive-genetic-and/)
-
-Being sedentary organisms, plants are essentially stuck where they are planted and need to dynamically adapt to the conditions around them to not only...
-
-BY: [JEFFREY P. TOMKINS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=207)
-
-[![](/i/Main%20Stage%20-%201400x1050/weirdworm-1400x1050)](https://www.icr.org/article/parasites-actively-adapt)
-
-[Parasites Actively Adapt to their Environments](https://www.icr.org/article/parasites-actively-adapt/)
-
-Although we see much beauty in God’s creation, we cannot help but see Earth as a perfect world gone wrong. Conditions such as cancer, COVID, and...
+Gone are the days when many people (biologists included) saw insects as simple creatures that did little more than reproduce, eat, and grow—with...
 
 BY: [FRANK SHERWIN, D.SC. (HON.)](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=32)
+
+[![](/i/Main%20Stage%20-%201400x1050/brainscomplexity_1400x1050.jpg)](https://www.icr.org/article/cognitive-map-brain-complexity)
+
+[The Cognitive Map: An Incredible Display of the Brain&r.,.](https://www.icr.org/article/cognitive-map-brain-complexity/)
+
+To be spatially capable creatures, humans need their brains to tell them 1) where things are in relation to themselves and 2) where everything is in...
+
+BY: [JONATHAN K. CORRADO, PH.D., P. E.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=251)
+
+[![](/i/Main%20Stage%20-%201400x1050/OctoEvol_1400x1050)](https://www.icr.org/article/octopus-evol)
+
+[Dubious Views on Octopus Evolution](https://www.icr.org/article/octopus-evol/)
+
+The octopus is one of the most amazing animals in God’s creation.1 Now, A new paper in Genome Biology and Evolution indicates...
+
+BY: [FRANK SHERWIN, D.SC. (HON.)](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=32)
+
+Shop Related Products
+
+[![](https://cdn.shoplightspeed.com/shops/601440/files/13216497/file.jpg)
+
+Scientific Evidences for Creation - Download](https://store.icr.org/mr-frank-sherwin-scientific-evidences-for-11389225.html)
+
+$4.99
+
+$9.99
+
+[![](https://cdn.shoplightspeed.com/shops/601440/files/9373127/file.jpg)
+
+Scientific Evidences for Creation](https://store.icr.org/mr-frank-sherwin-scientific-evidences-for-creation.html)
+
+$7.99
+
+$9.99
+
+[![](https://cdn.shoplightspeed.com/shops/601440/files/8285455/file.jpg)
+
+The Mighty, Wonderful Oceans](https://store.icr.org/the-mighty-wonderful-oceans.html)
+
+$7.99
+
+$9.99
+
+[![](https://cdn.shoplightspeed.com/shops/601440/files/57800317/file.jpg)
+
+Scientific Evidences for Creation 2](https://store.icr.org/scientific-evidences-for-creation.html)
+
+$12.99
+
+[](https://store.icr.org/.html)
+
+$
 
 [![Institute for Creation Research](/i/icr-logo-final-h-rev3-100.png)](https://www.icr.org/)[![ICR Discovery Center for Science and Earth History](/i/DC_Logo_Footer_2.png)](http://discoverycenter.icr.org/)
 
