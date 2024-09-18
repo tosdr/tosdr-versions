@@ -67,6 +67,7 @@ If you have any questions about these Terms, please [contact us.](mailto:info@v
 * [About](https://www.vivi.io/about/)
 * [How It Works](https://www.vivi.io/how-it-works/)
 * [Contact](https://www.vivi.io/contact/)
+* [Compare Vivi](https://www.vivi.io/compare/)
 * [Careers](https://www.vivi.io/careers/)
 * [Partnerships](https://www.vivi.io/partnerships/)
 * [Downloads](https://www.vivi.io/downloads/)
