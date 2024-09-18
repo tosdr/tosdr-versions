@@ -1,8 +1,25 @@
-![](/img/icons/cookie.svg)
+#### ![](/img/icon-cookie.svg)
 
-By using this site you agree to cookies being used as set in our [Cookie Policy](https://imazing.com/privacy-policy#cookie-policy).
+### iMazing Values Your Privacy
 
-Got it
+We use cookies to enhance this website experience, serve personalized ads or content and analyze our traffic. By clicking 'Consent' you accept the use of cookies.
+
+For more information, please refer to our [Cookie policy](https://imazing.com/privacy-policy)
+
+### Manage your Cookie Preferences
+
+**Essential cookies** are essential for basic website functionality or serve a legitimate business purpose.  
+These cookies can be disabled by changing your browser preferences.
+
+**Analytical cookies** help us to improve our website by collecting and reporting information on its usage.
+
+**Marketing cookies** help us to monitor campaigns and improve the relevancy of campaigns you receive.
+
+For more information, please refer to our [Cookie policy](https://imazing.com/privacy-policy)
+
+Manage Consent
+
+Accept Selection Accept All
 
 [](https://imazing.com/)
 
@@ -71,6 +88,7 @@ Got it
     * [About Us](https://imazing.com/about)
     * [Blog](https://imazing.com/blog)
     * [Reviews & Press](https://imazing.com/reviews)
+    * [Jobs](https://imazing.com/jobs)
     * [Media Kit](https://imazing.com/media)
     * [Open Source](https://imazing.com/open-source)
     * [Affiliate](https://imazing.com/affiliate)
@@ -93,17 +111,17 @@ EN
 * EN
     
     * [English](https://imazing.com/privacy-policy)
-    * [Deutsch](https://imazing.com/de)
-    * [Français](https://imazing.com/fr)
-    * [Español](https://imazing.com/es)
-    * [Italiano](https://imazing.com/it)
-    * [Português](https://imazing.com/pt)
-    * [Українська](https://imazing.com/uk)
-    * [Pусский](https://imazing.com/ru)
-    * [العربية](https://imazing.com/ar)
-    * [中文](https://imazing.com/zh)
-    * [日本語](https://imazing.com/ja)
-    * [한국어](https://imazing.com/ko)
+    * [Deutsch](https://imazing.com/de/privacy-policy)
+    * [Français](https://imazing.com/fr/privacy-policy)
+    * [Español](https://imazing.com/es/privacy-policy)
+    * [Italiano](https://imazing.com/it/privacy-policy)
+    * [Português](https://imazing.com/pt/privacy-policy)
+    * [Українська](https://imazing.com/uk/privacy-policy)
+    * [Pусский](https://imazing.com/ru/privacy-policy)
+    * [العربية](https://imazing.com/ar/privacy-policy)
+    * [中华](https://imazing.com/zh/privacy-policy)
+    * [日本語](https://imazing.com/ja/privacy-policy)
+    * [한국어](https://imazing.com/ko/privacy-policy)
     
 
 ![Swiss Made](/img/icons/badge-swiss-horizontal.svg)
@@ -113,112 +131,120 @@ Privacy Policy
 
 **_Contents_**  
 
-1. [Commitment and General Principles](#commitment)
+1. [Commitment and general principles](#commitment)
 2. [Purposes of data processing](#purposes)  
     
-3. [User management & right to information](#right)  
+3. [User management and right to information](#right)  
     
 4. [Nondisclosure of information](#nondisclosure)  
     
 5. [Safety & confidentiality](#safety)  
     
-6. [Anonymous Data & Cookie Policy](#cookie-policy)  
+6. [Cookie policy](#cookie-policy)  
     
-7. [Newsletter Policy](#newsletter)  
+7. [Newsletter policy](#newsletter)  
     
-8. [Collected Data by Service](#partners)  
+8. [Customer Experience Program and crash reporting](#customer-experience)
+9. [Collected data by service](#partners)  
     
-9. [Links to 3rd party websites](#links)  
+10. [Links to third-party websites](#links)  
     
-10. [Updates to this Privacy Policy](#update)  
+11. [Updates to this privacy policy](#update)  
     
-11. [Contact](#contact)  
+12. [Contact](#contact)  
     
 
-_1\. Commitment and General Principles_
----------------------------------------
+1\. Commitment and general principles
+-------------------------------------
 
-We ([DigiDNA LLC](https://www.zefix.ch/en/search/entity/list/firm/916184?name=digidna&searchType=exact)) commit to comply with the laws of Switzerland, in particular the [Swiss Federal Act on Data Protection](https://www.admin.ch/opc/en/classified-compilation/19920153/index.html) (FADP), as well as to thoroughly observe the highest standards on data protection.
+We ([DigiDNA LLC](https://www.zefix.ch/en/search/entity/list/firm/916184?name=digidna&searchType=exact), hereafter DigiDNA) commit to comply with Switzerland's [New Federal Act on Data Protection (nFADP)](https://www.kmu.admin.ch/kmu/en/home/facts-and-trends/digitization/data-protection/new-federal-act-on-data-protection-nfadp.html), as well as [European General Data Protection Regulation (GDPR)](https://eur-lex.europa.eu/eli/reg/2016/679/oj). Regardless of the laws applicable to you, we are firmly committed to upholding the highest standards and principles of data protection and privacy.
 
-**Our apps are built to empower our users by giving them broad access to their own data. We do not access, nor have access to, any user data handled by our apps: files are stored on our users' storage devices, and are never uploaded to us or to 3rd parties.  
+**Our apps are built to empower our users by giving them broad access to their own data. We do not access, nor have access to, any user data handled by our apps: files are stored on our users' own devices, none of these files nor their contents are ever uploaded to our servers, saved, retained or shared with us or any third party.  
 [Learn more about our software's security and privacy features.](https://imazing.com/security-and-privacy)**
 
-We only collect personal data which is adequate, relevant and limited to what is necessary for best customer services. Moreover, we do not store or process any personal data directly, but work in collaboration with reputable 3rd party services with strong ethics which help us provide our services in a way that is respectful of our users' data and privacy (see **article 8**).
+We collect only personal data that is adequate, relevant, and limited to what is necessary for providing the best customer service. Moreover, we do not store or process any personal data ourselves. Instead, we rely on third-party services with strong ethics and privacy standards to provide our services in a way that respects our users' data and privacy (see below: [Collected data by service](#partners)).
 
-The personal data that we do have access to is necessary for us to provide efficient customer support, license management, dispute handling (refunds), as well as timely information about the purchased product. In the main, said data includes name, email address, type and date of purchase, license kind and activation related data, and communications with our support team. **At no point does DigiDNA access or store sensitive payment information such as credit card number or PayPal account details.**
+The personal data that we do have access to is necessary for us to provide efficient customer support, license management, dispute handling (refunds), as well as timely information about the purchased product. Such data includes name, email address, type and date of purchase, license type and activation related data, as well as communications with our support team. **At no point does DigiDNA has access nor can store any sensitive payment information such as credit card number or PayPal account details.**
 
 Our staff works in compliance with the strictest standards of care and confidentiality. Processing of your personal data is carried out in full accordance with the applicable regulations.
 
-_2\. Purposes of data processing_
----------------------------------
+2\. Purposes of data processing
+-------------------------------
 
-We only collect personal data for our customers’ services. This is why we collect personal data if and only if you purchase an iMazing license, open a support ticket, or actively subscribe to our newsletter.
+We only collect personal data for our customer service. This includes and is limited to purchases of licenses, support tickets, and newsletter subscriptions.
 
-For your needs as an individual customer, your email address is collected and used to help you manage your license, inform you of updates to the product you purchased, warn you of potential security issues, and to follow up on eventual support requests. In addition, you may also decide to actively subscribe to our newsletter services to receive additional information and offers on our products, projects and company.
+For your needs as an individual customer, your email address is collected for your license management, informations on updates of the product you purchased, potential security issue warnings, and support request follow-ups.
 
-For the needs of all current and prospective customers, we may use your data in a fully anonymised manner for product development prospects, internal statistics relevant to the satisfaction of our customers (such as general trends or preferences) or general improvements of our products and services or other business-relevant data traffic information. See article 6 on more information.
+For the needs of all current and prospective customers, we may use your data in a fully anonymized manner for product development prospects, internal statistics relevant to the satisfaction of our customers (such as general trends or preferences) or general improvements of our products and services or other business-relevant data traffic information. (Please refer to [Cookie policy](#cookie-policy) and [Collected data by service](#partners) for more information.)
 
-_3\. User management and right to information_
-----------------------------------------------
+3\. User management and right to information
+--------------------------------------------
 
-Upon request, you may - at any given time - be granted access to your personal data, in particular to view, update or delete it (Art. 8 DPA). In order to do so, please send us your request electronically via [https://imazing.com/contact](https://imazing.com/contact), or by postal mail at **DigiDNA LLC, Boulevard des Tranchées 4, 1205 Geneva, Switzerland.**
+You may request access to your personal data at any time to view, update, or delete it. To do so, please send your request electronically via [our secure contact form](https://imazing.com/contact), or by postal mail at **DigiDNA, Boulevard des Tranchées 4, 1205 Geneva, Switzerland.**
 
-_4\. Nondisclosure of information_
-----------------------------------
+4\. Nondisclosure of information
+--------------------------------
 
-If not otherwise required by law or legal injunctions, we share personal data with no other 3rd party than the partners set out below (article 8) and for no other purposes than these set out above (article 2).
+Unless required by law or legal injunctions, we only share personal data with the partners listed in the [Collected data by service](#partners) section below and for the purposes outlined in the [Purposes of data processing](#purposes) section above.
 
-_5\. Safety & confidentiality_
-------------------------------
+5\. Safety & confidentiality
+----------------------------
 
-All communications between your web browser and imazing.com, as well as between our software products and our servers, are secured by strong SSL encryption.
+All communications between your web browser and our website, as well as between our software products and our servers, are secured by industry-standard SSL encryption.
 
-Furthermore, access to your personal data is restricted to employees directly involved in customer support and analytics - they have been trained to observe our strict standards of care and confidentiality.
+Furthermore, access to your personal data is restricted to employees directly involved in customer support and analytics—who have been trained to observe our strict standards of care and confidentiality.
 
-Nevertheless, it must be noted that the Internet is by nature not a completely secure space for any data; you duly understand and accept that DigiDNA is not liable for any direct or indirect damages resulting from events such as, but not limited to, malicious 3rd party interventions or technical failures of any kind.
+Nevertheless, it must be noted that the Internet is by nature not a completely secure space for any data; you duly understand and agree that DigiDNA is not responsible for any direct or indirect damages resulting from events such as, but not limited to, malicious third-party actions or technical failures of any nature.
 
-_6\. Anonymous Data & Cookie Policy_  
+6\. Cookie policy
+-----------------
 
----------------------------------------
+DigiDNA uses cookies to enhance its service as well as to analyze its websites' usage. DigiDNA is committed to respecting your privacy and informing you transparently about the ways in which it collects your data.
 
-Like most websites, imazing.com uses cookies to enhance its service as well as to analyze site usage. DigiDNA is committed to respecting your privacy and informing you transparently about the ways in which it collects your data.
+* [Learn more about Cookies](https://en.wikipedia.org/wiki/HTTP_cookie)
 
-**_What is a cookie?_**  
-A cookie is a little package of information sent to your browser and stored on the hard drive of your computer. Cookies are widely used to store user preferences, track sales, and provide anonymous analytics.
+### Cookies set by DigiDNA
 
-**_What cookies do you set precisely?_**  
-DigiDNA directly sets a small number of cookies to support basic features:
+We set the following persistent cookies:
 
-1. **\_\_ddna\_\_coupon** stores a coupon code you entered or which carried over from a link.
-2. **\_\_ddna\_\_campaign** and **\_\_ddna\_\_source** contain utm parameters which inform us about how users reached our website.
-3. **\_paddlejs\_campaign\_affiliate\_** is used to honour affiliate commissions.
-
-In addition, advertising platform we work with may also place a cookie. We advertise via Google Ads, Bing, Twitter and Facebook. Sales coming from affiliates are tracked by Impact.
-
-* [Opting-out of Google Ads cookies](https://adssettings.google.com/)  
+2. **Essential Cookies**  
     
-* [Google's advertising policy](https://policies.google.com/technologies/ads)  
+    They are essential for basic website functionality or serve a legitimate business purpose. These cookies can be disabled by changing your browser preferences.  
     
-* [Impact's privacy policy](https://impact.com/privacy-policy/)  
+    **\_\_ddna\_\_analytics\_consent** and **\_\_ddna\_\_marketing\_consent** store the visitor's consent settings for analytics and marketing cookies, respectively.  
+    **\_\_ddna\_\_campaign** and **\_\_ddna\_\_source** contain utm parameters which inform us about how users reached our website.  
+    **\_\_ddna\_\_coupon** stores a coupon code you entered or which carried over from a link in order to apply a discount upon checkout.  
     
-* [Bing Ads' privacy policy](https://about.ads.microsoft.com/en-gb/resources/policies/microsoft-advertising-privacy-policy)  
+    We also set anonymized cookies from our partner **Impact** to reward our affiliates. You can learn about it here:
     
-* [Twitter's privacy policy](https://twitter.com/en/privacy)  
+    * [Impact privacy policy](https://impact.com/privacy-policy/)  
+        
+3. **Analytical cookies**  
+    
+    They help us to improve our website by collecting and reporting information on its usage.
+    
+    We rely on **Google Analytics** and use the collected anonymized data to analyze website usage and improve our content and user experience accordingly. You can learn more here:
+    
+    * [Google Privacy Policy](https://www.google.com/intl/en/policies/privacy/)  
+        
+    * [Opting out of Google Analytics](https://tools.google.com/dlpage/gaoptout)  
+        
+    * [More info about Google's use of data](https://policies.google.com/technologies/partner-sites)
+4. **Marketing cookies**  
+    
+    We advertise with Google Ads and in order to track our marketing and advertising efforts we rely on cookies set by Google. You can learn more about their policy and opt out using the links below:
+    
+    * [Google advertising policy](https://policies.google.com/technologies/ads)  
+        
+    * [Opting-out of Google Ads cookies](https://adssettings.google.com/)  
+        
     
 
-**_Google Analytics_**  
-Google Analytics is a web analysis service provided by Google Inc. (“Google”). We use the collected anonymised data to analyze website usage and improve our content and user experience accordingly. By using our websites, you consent to your usage data of said website being transmitted to Google servers in the United States. Google Analytics does not identify users, and your IP address will not be associated with other data held by Google.
+### Managing cookies
 
-**Retention Period:** We have set the retention period of user data to Google's minimum option of 14 months of inactivity.
+You can review and edit your consent settings for the analytical and marketing cookies set by DigiDNA at all times using the following link: [Manage cookies](javascript:void(0)).
 
-* [Privacy Policy](https://www.google.com/intl/en/policies/privacy/)  
-    
-* [Opting Out](https://tools.google.com/dlpage/gaoptout)  
-    
-* [More info about Google's use of data](https://policies.google.com/technologies/partner-sites)
-
-**_How to manage existing cookies?_**  
-All modern internet browsers have settings which let you block 1st or 3rd party cookies, or both. It is also easy to delete all or selected cookies, see the links below for instructions.
+Regarding our own essential cookies, our partners' cookies, and any other third-party cookies, all modern internet browsers provide you with complete control over them. Browser settings allow you to block and delete cookies. Here's a non-exhaustive collection of useful links:
 
 * [Delete cookies in Chrome](https://support.google.com/chrome/answer/95647)  
     
@@ -228,127 +254,143 @@ All modern internet browsers have settings which let you block 1st or 3rd party 
     
 * [Delete cookies in Edge](https://support.microsoft.com/en-us/help/4027947/windows-delete-cookies)
 
-To learn more about your ability to manage cookies, you can refer to the privacy features in your browser.
+To learn more about your ability to manage cookies, refer to the privacy features in your preferred browser.
 
-_7\. Newsletter Policy_
------------------------
+7\. Newsletter policy
+---------------------
 
-When you acquire a license for one of our products, you are automatically subscribed to our mailing list and we will keep you informed of important updates to the product you acquired. We operate in Apple's ever shifting environment, and for us to communicate with our users about new features or the loss of a feature following an iOS, iTunes, macOS or Windows update is crucial. We will of course also inform you of any potential security issue by the same channel. These communications are very infrequent - we won't swamp your inbox.
+When you acquire a license for one of our products, you are automatically subscribed to our mailing list. This enables us to keep you updated on crucial improvements to the product you've purchased. Because we operate in Apple's ever shifting environment it is important for us to communicate with our users about security updates, new features and changes implied by iOS, iPadOS, tvOS, visionOS, iTunes, macOS or Windows updates. We might also inform you about other product updates, promotions or company news, but we tend to keep it to the essential—we won't swamp your inbox.
 
-You can of course unsubscribe at any time: every email we send contains an _Unsubscribe_ button, or you can [unsubscribe by clicking here.](http://digidna.us4.list-manage1.com/unsubscribe?u=9820780b9ca506ece36277a8c&amp;id=112355e150)
+Additionally, we offer an optional opt-in subscription to our DigiDNA Deals newsletter: deals and offers on our own products or on products we hand-pick for their quality.
 
-Additionally, we offer an optional opt-in subscription to our DigiDNA Deals newsletter: deals and offers on our own products or on products we hand-pick for their quality. We sometimes have great offers for your friends to get our products at an unbeatable price, or for you to upgrade at better than standard conditions. What's not to like?
+**We never, EVER share your email for third-party marketing purposes. That would be silly, and illegal.**
 
-We never, EVER share your email for 3rd party marketing purposes. That would be silly, and illegal.
+You can of course unsubscribe from any of our mailing lists at any time: every email we send contains an _Unsubscribe_ button, or using the link below. You can also review our email platform and sending partner **Mailchimp**'s privacy policy in the article dedicated to third-party providers below [Collected data by service](#mailing).
 
-All our mailings are done with the help of Mailchimp, [here is their Privacy Policy.](http://mailchimp.com/legal/privacy/)
+* [Unsubscribe from DigiDNA Mailing List](http://digidna.us4.list-manage1.com/unsubscribe?u=9820780b9ca506ece36277a8c&amp;id=112355e150)
 
-_8\. Collected Data by Service_
--------------------------------
+8\. Customer Experience Program and crash reporting
+---------------------------------------------------
 
-We work together with specialised partners for specific aspects of our services, such as the purchase process, license management, customer support, and mailing list management. If for any reason you wish to access all or part of your data stored by these 3rd parties, you can contact them directly, or [contact us](https://imazing.com/contact) and we'll be glad to assist you. You have the right to request a copy of your data, as well as to have it updated, deleted or transferred.
+If you have opted in to participate in our **Customer Experience Program**, you've agreed to share anonymous usage statistics about how you interact with our software. You can opt out of this program at any time by toggling off the following setting in iMazing's main menu:  
+_Preferences > General > Participate in the Customer Experience Program_
 
-**None of the personal data you access through our products is uploaded to us or to any 3rd party. Collected and stored data is strictly limited to data which is relevant to the services we provide, such as email address, purchase history (of DigiDNA products), license number and activation status, and communications with our support channel.**
+In the rare event of an app crash, submitting your crash report implies consent to share anonymized functional crash data.
 
-1. **Payment Platforms**  
+In both scenarios mentioned, we never transmit personal data. For more information about the nature of these reports, please refer to [Crash reporting and app analytics](#microsoft-app-center).
+
+9\. Collected data by service
+-----------------------------
+
+We work together with specialised partners for specific aspects of our services, such as payment processing, license management, customer support, and mailing list management. If for any reason you wish to access all or part of your data stored by these third parties, you can contact them directly, or [contact us](https://imazing.com/contact) and we'll be glad to assist you. You have the right to request a copy of your data, as well as to have it updated, deleted or transferred.
+
+**Our products do not upload any personal data to ourselves or any third parties. The data we collect and store is strictly limited to information relevant to our services, such as your email address, purchase history of DigiDNA products, license code and activation status, and communications with our support team.**
+
+1. **Payment Platforms**
     
-    Paddle is the payment platform for which we act as Vendors. We have teamed up with Paddle since January 2018, our previous partners being FastSpring. You can identify which platform was used for your specific payment by looking at your order number: if it starts with _DDNA_, the transaction was handled by FastSpring, otherwise by Paddle.  
-    _Collected data_: data inputted by the user as part of the purchase process. Fraud-prevention related data. **At no point does anyone at DigiDNA have access to sensitive payment information such as credit card number or PayPal account details.**  
+    Order processing is handled by our online resellers and Merchants of Record, **Paddle.com** and **FastSpring.com**. These partners also manage order-related inquiries and returns.
     
-    * [Paddle's Privacy Policy](https://paddle.com/privacy)  
-        
-    * [FastSpring's Privacy Policy](http://www.fastspring.com/privacy)  
-        
+    You can identify which platform was used for your specific payment by looking at your order number: if it starts with _DDNA_, the transaction was handled by FastSpring, otherwise by Paddle.
     
-
-3. **License Management, before iMazing 2.13**  
+    #### Collected data
     
-    DevMate handles license management (activation/deactivation) and crash reporting.  
-    _Collected data_: e-mail, name if submitted when purchasing, license activation history.
+    Information provided by the user during the purchase process and data related to fraud prevention.
     
-    > ⚡ _The DevMate platform is set to be retired on the 1st of November 2020, date after which DevMate servers will not add any more user data and will only be used to validate previously issued licenses on iMazing versions up to 2.13 (not inclusive)._
+    **At no point does anyone at DigiDNA have access to sensitive payment information such as credit card number or PayPal account details.**
     
-
-5. **License Management, iMazing 2.13 and above**  
+    * [Paddle's Privacy Policy](https://paddle.com/privacy)
+    * [FastSpring's Privacy Policy](http://www.fastspring.com/privacy)
+2. **License management, iMazing 2.13 and above**
     
-    Starting from the 13th of October 2020, DigiDNA manages and validates licensing data. Said data is stored encrypted on Google's cloud in the US. Collected data serves the following purposes:
+    Starting from October 13th 2020 DigiDNA manages and validates licensing data. Said data is stored encrypted on **Google Cloud Platform** in the US. Collected data serves the following purposes:
     
     * License validation
-    * License-related customer support (refunds, complimentary license extension in cases of user error, computer and/or mobile device identification to manually deactivate a license, etc...)
-    * Pro-rated billing when extending a license
+    * Customer support (refunds, license extensions, computer and/or mobile identification to manage licenses, etc...)
+    * Billing
     
-    _Collected data_: e-mail, name if given, license activation and order history, Paddle checkout ID and Subscription ID, computer and mobile device OS and model, unique anonymous device identifiers.  
+    #### Collected data
     
-    * [Google Cloud's Privacy Policy](https://cloud.google.com/terms/cloud-privacy-notice)
+    e-mail, name if given, license activation and order history, Paddle checkout ID and Subscription ID, computer and mobile device OS and model, unique anonymous device identifiers.
     
-
-7. **iMazing Account**  
+    * [Google Cloud Privacy Notice](https://cloud.google.com/terms/cloud-privacy-notice)
+3. **Deprecated license management, before iMazing 2.13**
     
-    Said data is stored encrypted on Google's cloud in the US. Authentication is managed by Auth0 and related user data is stored in the US. Collected data serves the following purposes:
+    **DevMate** handles license management (activation/deactivation) and crash reporting.
+    
+    #### Collected data
+    
+    e-mail, name if submitted when purchasing, license activation history.
+    
+    _**DevMate** platform has been retired on the 1st of November 2020, date after which DevMate servers have not stored any new user data and is only used to validate previously issued licenses on iMazing versions up to 2.13 (not inclusive)._
+    
+4. **iMazing Account**
+    
+    All data stored is encrypted on **Google Cloud Platform** in the US. Authentication is managed by **Auth0** and related user data is stored in the US. Collected data serves the following purposes:
     
     * User authentication
     * License management
-    * Task delegations
+    * Task delegation
     
-    _Collected data_: e-mail, name if given, computer and mobile device OS and model, unique anonymous device identifiers.  
+    #### Collected data
     
-    * [Auth0's Privacy Policy](https://auth0.com/privacy)  
-        
-    * [Google Cloud's Privacy Policy](https://cloud.google.com/terms/cloud-privacy-notice)
+    e-mail, name if given, computer and mobile device OS and model, unique anonymous device identifiers.
     
-
-9. **Customer Support**  
+    * [Auth0's Privacy Policy](https://auth0.com/privacy)
+    * [Google Cloud Privacy Notice](https://cloud.google.com/terms/cloud-privacy-notice)
+5. **Customer support**
     
-    _ZenDesk_ is our customer support platform of choice.  
-    _Collected Data:_ support conversations history, data about the user's computer and product version as inputted by the user via the Contact form.  
+    **ZenDesk** is our customer support platform of choice.
     
-    * [ZenDesk's Privacy Policy](https://www.zendesk.com/company/customers-partners/privacy-policy/)  
-        
+    #### Collected data
     
-    _Support Your App_ helps us with the technical support we provide to our users.  
-    _Shared Data:_ selected _Support Your App_ agents have limited access to our ZenDesk account, as well as to relevant purchase and licensing data.  
+    support conversations history, data about the user's computer and product version as inputted by the user via the Contact form.
     
-    * [Support Your App's Privacy Policy](https://supportyourapp.com/privacy-and-cookie-policy/)  
-        
+    * [ZenDesk's Privacy Policy](https://www.zendesk.com/company/customers-partners/privacy-policy/)
     
-
-11. **Mailing**  
+    **SupportYourApp** helps us with the technical support we provide to our users.
     
-    _MailChimp_ is our mailing list manager of choice.  
-    _Shared Data:_ e-mail, name if submitted when purchasing, purchased product name and version, OS (Windows or macOS), campaign and source name if applicable, opt-in to our Deals Newsletter status.  
+    #### Shared data
     
-    * [Mailchimp's Privacy Policy](http://mailchimp.com/legal/privacy/)  
-        
-    * _Opting Out:_ Unsubscribe [here.](http://digidna.us4.list-manage1.com/unsubscribe?u=9820780b9ca506ece36277a8c&id=112355e150)
+    selected trained agents have limited access to our **ZenDesk** account, as well as to relevant purchase and licensing data.
     
-
-13. **Crash Reporting and App Analytics**  
+    * [SupportYourApp's Privacy Policy](https://supportyourapp.com/privacy-and-cookie-policy/)
+7. **Mailing**
     
-    We use Microsoft App Center to handle crash reporting and perform light analytics in all our apps.  
-    _Collected data_: Crash reporter details if a crash report is submitted. Environment data (OS version, system status). In-app navigation events (no user data included). All data is strictly tied to an anonymous user ID only.  
+    **Mailchimp** is our mailing list platform of choice.
+    
+    #### Shared data
+    
+    e-mail, name if submitted when purchasing, purchased product name and version, operating system (Windows or macOS), and marketing data such as campaign, source, coupon code and license type if applicable.
+    
+    * [Mailchimp's Privacy Policy](http://mailchimp.com/legal/privacy/)
+8. **Crash reporting and app analytics**
+    
+    We use **Microsoft App Center** to handle crash reporting and perform analytics in our apps.
+    
+    #### Collected data
+    
+    If a crash report is submitted, we collect crash details. We also gather environment data (OS version and system status). When users opt into our [**Customer Experience Program**](#customer-experience), we record in-app navigation events (without any user data). All this information is strictly associated with an anonymous user ID only.
     
     * [Microsoft's Privacy Policy](https://privacy.microsoft.com/en-us/privacystatement)
-    
 
-_9\. Links to 3rd party websites_
----------------------------------
+10\. Links to third-party websites
+----------------------------------
 
-Our websites and software products may contain hypertext links towards other websites unrelated to DigiDNA. While we do our best to link to high quality resources, we shall neither be held responsible for the content of such websites, nor for data protection practices of 3rd parties which operate them. We urge you to check and understand their Privacy Policies before providing them with your personal data.
+Our websites and software products may contain hypertext links towards other websites unrelated to DigiDNA. While we do our best to link to high quality resources, we shall neither be held responsible for the content of such websites, nor for data protection practices of third parties which operate them. We urge you to check and understand their privacy policies before providing them with your personal data.
 
-_10\. Updates to this Privacy Policy_
--------------------------------------
+11\. Updates to this privacy policy
+-----------------------------------
 
-Updates and modifications to our Privacy Policy will be posted here. Update history:
-
-* **2022/06/28:** added information about iMazing Account. Added Auth0 and Google Cloud privacy policies.
-* **2020/10/13:** added information about DigiDNA taking over license management. Organized data collection summary by type of service instead of partner. Clarified Microsoft App Center data collection purposes. Added Twitter and Impact Radius to cookie policy.
-* **2019/11/29:** added information regarding Microsoft App Center.
+* **2024/09/05:** updated information about _Cookie Policy_. Added categories: _Essential Cookies_, _Analytical Cookies_ and _Marketing Cookies_. Removed _Twitter_ and _Bing Ads_ as advertising vendors. Added cookie consent user settings. Other edits for readability and clarity.
+* **2022/06/28:** added information about _iMazing Account_. Added _Auth0_ and _Google Cloud_ privacy policies.
+* **2020/10/13:** added information about DigiDNA taking over license management. Organized data collection summary by type of service instead of partner. Clarified _Microsoft App Center_ data collection purposes. Added _Twitter_ and _Impact Radius_ to cookie policy.
+* **2019/11/29:** added information regarding _Microsoft App Center_.
 * **2018/05/23:** restructured the document, adding a detailed break down of partners and collected data.
 
-_11\. Contact_
---------------
+12\. Contact
+------------
 
-If you have questions or wish to give us feedback on our current Privacy Policy, [please contact us.](https://imazing.com/contact) For further information concerning the use of our websites, please [read our Terms and Conditions.](https://imazing.com/terms-and-conditions)
+If you have questions or wish to give us feedback on our current privacy policy, please [contact us.](https://imazing.com/contact) For further information concerning the use of our websites, please refer to our [Terms and Conditions.](https://imazing.com/terms-and-conditions)
 
  
 
@@ -438,6 +480,7 @@ Thank you for subscribing!
     * [About Us](https://imazing.com/about)
     * [Blog](https://imazing.com/blog)
     * [Reviews & Press](https://imazing.com/reviews)
+    * [Jobs](https://imazing.com/jobs)
     * [Media Kit](https://imazing.com/media)
     * [Open Source](https://imazing.com/open-source)
     * [Affiliate](https://imazing.com/affiliate)
@@ -447,6 +490,7 @@ Thank you for subscribing!
     * [Security & Privacy](https://imazing.com/security-and-privacy)
     * [Licensing Policy](https://imazing.com/licensing-policy)
     * [Privacy Policy](https://imazing.com/privacy-policy)
+    * [Manage Cookies](javascript:void(0))
     * [Terms of Use](https://imazing.com/terms-and-conditions)
     * [EULA](https://imazing.com/uploads/iMazing-EULA.pdf)
     
