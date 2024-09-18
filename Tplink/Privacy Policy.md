@@ -1036,6 +1036,7 @@ Let's Connect
 [About](https://www.tp-link.com/us/about/about-us/)
 
 * [About Us](https://www.tp-link.com/us/about/about-us/)
+* [Corporate Information](https://www.tp-link.com/us/about-us/corporate-information/)
 * [Contact Us](https://www.tp-link.com/us/about-us/contact/)
 * [Careers at TP-Link](https://www.tp-link.com/us/about-us/career/)
 * [Privacy Policy](https://privacy.tp-link.com/web/official/privacy-policy?region=US)
