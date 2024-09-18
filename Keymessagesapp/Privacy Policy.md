@@ -45,7 +45,7 @@ Mezo - Spam Blocker, SMS Block
 
 Contains adsIn-app purchases
 
-3.8_star_
+3.9_star_
 
 75.8K reviews
 
@@ -306,7 +306,7 @@ Privacy Policy](https://www.mezo.ai/privacypolicy)
 Similar apps
 ------------
 
-_arrow\_forward_[](https://play.google.com/store/apps/collection/cluster?gsr=SmlqGDZlZW41LzhTMTVVOFVhaGV2VFV3bXc9PcICTAoSCg5jb20uc21zQmxvY2tlchAHGAgwATgASioIARAAGh5NZXpvIC0gU3BhbSBCbG9ja2VyLCBTTVMgQmxvY2sgACgAMABQAFgBYAA%3D:S:ANO1ljIwdKg)
+_arrow\_forward_[](https://play.google.com/store/apps/collection/cluster?gsr=SmlqGHlIczkwWHR6YnlWOXA3UHdDVVQ0bEE9PcICTAoSCg5jb20uc21zQmxvY2tlchAHGAgwATgASioIARAAGh5NZXpvIC0gU3BhbSBCbG9ja2VyLCBTTVMgQmxvY2sgACgAMABQAFgBYAA%3D:S:ANO1ljIyQk4)
 
 [![Thumbnail image](https://play-lh.googleusercontent.com/uU38cxbeMKLKDXQYopB9r1ybCFO-2vdfTKtV-mXp-zZ7Mcv_AW6MzSSCWkR_ybvgRA=s64)
 
