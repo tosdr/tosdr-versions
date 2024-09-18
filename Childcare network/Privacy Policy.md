@@ -8,7 +8,7 @@ Search
 
 [Careers](https://careers.childdevelopmentschools.com/creative/childcare-network "careers")
 
-[![Childcare Network](data:image/gif;nitro-empty-id=Mjk1OjIyNw==-1;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAAAICTAEAOw==)](https://childcarenetwork.com/)
+[![Childcare Network](https://childcarenetwork.com/wp-content/uploads/2023/08/Childcare-Network_Vertical_White_RGB-cropped.svg)](https://childcarenetwork.com/)
 
 * [About Us](https://childcarenetwork.com/about/)
     * [Mission](https://childcarenetwork.com/about/mission/)
@@ -32,7 +32,7 @@ Search
     * [First Day Checklist](https://childcarenetwork.com/about/first-day-checklist/)
     * [Military Families](https://childcarenetwork.com/about/military-families/)
     * [Financial Assistance](https://childcarenetwork.com/about/financial-assistance/)
-    * [Family Handbook](https://childcarenetwork.com/family-handbook/)
+    * [Family Handbook & Agreement](https://childcarenetwork.com/family-handbook-and-agreements/)
     * [Helpful Links](https://childcarenetwork.com/helpful-links/)
     * [Frequently Asked Questions](https://childcarenetwork.com/resources/frequently-asked-questions/)
 * [Contact](https://childcarenetwork.com/feedback/)
@@ -171,7 +171,7 @@ Child Development Schools, Inc. reserves the right to revise, amend, or modify t
   
 Revised and Effective as of 09/07/2023.
 
-![Childcare Network](data:image/gif;nitro-empty-id=NTgwOjIzNw==-1;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAAAICTAEAOw==)
+![Childcare Network](https://childcarenetwork.com/wp-content/uploads/2023/08/Childcare-Network_Vertical_White_RGB-1.svg)
 
 * [Acquisitions](https://childcarenetwork.com/acquisitions/)
 * [Careers](https://careers.childdevelopmentschools.com/creative/childcare-network)
@@ -186,7 +186,7 @@ Please enable JavaScript in your browser to complete this form.
 
 Email \*
 
-Subscribe![Loading](data:image/svg+xml;nitro-empty-id=NTg5OjE5NzE=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNTAgNTAiIHdpZHRoPSI1MCIgaGVpZ2h0PSI1MCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=)
+Subscribe![Loading](https://childcarenetwork.com/wp-content/plugins/wpforms/assets/images/submit-spin.svg)
 
 Connect With Us
 
