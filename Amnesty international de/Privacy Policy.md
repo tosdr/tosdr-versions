@@ -1069,6 +1069,8 @@ Aktivitätenanlage 1 – Kooperationspartner\*innen
 
 Kooperationspartner\*innen von Amnesty International, an die personenbezogene Daten innerhalb der jeweiligen Zweckbindung übermittelt und/oder verarbeitet werden:
 
+Adform A/S
+
 Bank für Kirche und Diakonie eG
 
 Bank für Sozialwirtschaft AG
@@ -1089,8 +1091,6 @@ dotplex GmbH
 
 Adalyser
 
-FFW Deutschland GmbH
-
 getunik GmbH
 
 GFS Fundraising Solutions GmbH
@@ -1107,7 +1107,7 @@ Cookiebot
 
 PLAN Mediaagentur GmbH
 
-Adform A/S
+werk21 GmbH
 
 Anlage 2 – Aktivitäten
 
