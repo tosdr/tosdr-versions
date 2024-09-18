@@ -453,6 +453,6 @@ Search
 
 © Copyright 2024 MyCase. All Rights Reserved.  
 [Terms and conditions](https://www.mycase.com/terms/) | [Privacy policy](https://www.mycase.com/privacy-policy/) | [Cookies](#cookies) | [Do Not Sell or Share My Personal Information](#cookies)  
-The LawPay Visa credit card, issued by Emprise Bank, Member FDIC, pursuant to a license with VISA.
+The LawPay Visa® Business Card is issued by Emprise Bank, pursuant to a license with Visa U.S.A., Inc.
 
 [](https://www.linkedin.com/company/mycase/)[](https://www.youtube.com/user/MyCaseInc/)[](https://twitter.com/mycaseinc/)[](https://www.facebook.com/mycase/)
