@@ -140,8 +140,8 @@ MSX Music player
 
 Latest reactions
 
-* [MSX Fair Nijmegen 2025](https://www.msx.org/news/en/march-8-2025-20th-msx-fair-nijmegen "MSX Fair Nijmegen 2025")
 * [I-Logic](https://www.msx.org/news/software/en/i-logic "I-Logic")
+* [MSX Fair Nijmegen 2025](https://www.msx.org/news/en/march-8-2025-20th-msx-fair-nijmegen "MSX Fair Nijmegen 2025")
 * [MSX UK fun day](https://www.msx.org/news/en/msx-uk-fun-day "MSX UK fun day")
 * [Rambo MSX2 remake announced](https://www.msx.org/news/en/rambo-msx2-remake "Rambo MSX2 remake announced")
 * [HD Menu 3.2](https://www.msx.org/downloads/utilities/msx-dos-2/hd-menu-32 "HD Menu 3.2")
