@@ -2,8 +2,7 @@ You need to enable JavaScript to view this site.
 
 [Skip to Content](#content)
 
-[MIT Technology Review
-=====================](https://www.technologyreview.com/)
+[MIT Technology Review](https://www.technologyreview.com/)
 
 * [Featured](https://www.technologyreview.com/featured)
 * [Topics](https://www.technologyreview.com/all-topics)
