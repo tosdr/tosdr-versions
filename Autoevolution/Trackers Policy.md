@@ -39,9 +39,9 @@ editorial \_
 
 coverstory \_
 
-[![Venice Tiny Home Helps You Adopt a Lifestyle of Simplicity Without Compromising on Style](https://s1.cdn.autoevolution.com/images/news/venice-tiny-home-helps-you-adopt-a-lifestyle-of-simplicity-without-compromising-on-style-239959-5.jpg "Venice Tiny Home Helps You Adopt a Lifestyle of Simplicity Without Compromising on Style")
+[![A "Factory First" Look at Prime Time's 2025 Lineup of Travel Trailers and Fifth Wheels](https://s1.cdn.autoevolution.com/images/news/a-factory-first-look-at-prime-time-s-2025-lineup-of-travel-trailers-and-fifth-wheels-239971-5.jpeg "A "Factory First" Look at Prime Time's 2025 Lineup of Travel Trailers and Fifth Wheels")
 
-Venice Tiny Home Helps You Adopt a Lifestyle of Simplicity Without Compromising on Style](https://www.autoevolution.com/news/venice-tiny-home-helps-you-adopt-a-lifestyle-of-simplicity-without-compromising-on-style-239959.html)
+A "Factory First" Look at Prime Time's 2025 Lineup of Travel Trailers and Fifth Wheels](https://www.autoevolution.com/news/a-factory-first-look-at-prime-time-s-2025-lineup-of-travel-trailers-and-fifth-wheels-239971.html)
 
 how-to \_
 
