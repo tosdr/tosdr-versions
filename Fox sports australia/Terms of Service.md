@@ -697,6 +697,7 @@ FOX SCORES
 * Tennis
 * Boxing
 * Golf
+* Commonwealth Games
 * UFC
 * Sponsored
 * [Media Centre](https://www.foxsports.com.au/video/media-centre)
@@ -772,6 +773,7 @@ FOX SCORES
 * [Women's World Cup](https://www.foxsports.com.au/video/football/womens-world-cup)
 * [Asian Cup](https://www.foxsports.com.au/video/football/asian-cup)
 * [Matildas](https://www.foxsports.com.au/video/football/matildas)
+* [UCL and Europa League](https://www.foxsports.com.au/video/football/ucl-and-europa-league)
 * [Socceroos](https://www.foxsports.com.au/video/football/socceroos)
 * [Football](https://www.foxsports.com.au/video/football/football)
 * [Asian Champions League](https://www.foxsports.com.au/video/football/asian-champions-league)
@@ -833,6 +835,10 @@ FOX SCORES
 * [The Wedge - Tips](https://www.foxsports.com.au/video/golf/the-golf-show/the-wedge-tips)
 * [The Golf Show Gadgets](https://www.foxsports.com.au/video/golf/the-golf-show/the-golf-show-gadgets)
 
+[Commonwealth Games](https://www.foxsports.com.au/video/commonwealth-games)
+
+* [News](https://www.foxsports.com.au/video/commonwealth-games/news)
+
 [UFC](https://www.foxsports.com.au/video/ufc)
 
 * [UFC](https://www.foxsports.com.au/video/ufc/ufc)
@@ -869,7 +875,7 @@ FOX SCORES
 
 [Fox sports](https://www.foxsports.com.au/)
 
-[Scores](https://www.foxsports.com.au/score-centre/live-now)
+[Scores](https://www.foxsports.com.au/score-centre)
 
 * [Video](https://www.foxsports.com.au/video)
 * [NRL](https://www.foxsports.com.au/nrl)
