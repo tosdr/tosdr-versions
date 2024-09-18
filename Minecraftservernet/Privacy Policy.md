@@ -29,13 +29,15 @@ Version All 1.21.1 1.21 1.20.6 1.20.5 1.20.4 1.20.3 1.20.2 1.20.1 1.20 1.19.4 1.
 
 Active Servers
 
-[![simplyvanilla](plugins/MineCraft/icons/25x25xsimplyvanilla_1724739126.png.pagespeed.ic.Cd50vz760y.jpg)
+[![IllusiveMC](plugins/MineCraft/icons/IllusiveMC_1681214308.png)
 
-Simply Vanilla \[Anarchy with no hacks\]](https://minecraft-server.net/details/simplyvanilla/ "Simply Vanilla [Anarchy with no hacks]")[![Tilted_Tavern](plugins/MineCraft/icons/25x25xTilted_Tavern_1726404034.png.pagespeed.ic.TYT4nh9NT_.png)
+IllusiveMC Survival](https://minecraft-server.net/details/IllusiveMC/ "IllusiveMC Survival") [Stormy Lagoon - Crossplay 1.21.1](https://minecraft-server.net/details/StormyLagoon/ "Stormy Lagoon - Crossplay 1.21.1")[![simplyvanilla](plugins/MineCraft/icons/25x25xsimplyvanilla_1724739126.png.pagespeed.ic.Cd50vz760y.jpg)
 
-Tilted Tavern](https://minecraft-server.net/details/Tilted_Tavern/ "Tilted Tavern")[![IllusiveMC](plugins/MineCraft/icons/IllusiveMC_1681214308.png)
+Simply Vanilla \[Anarchy with no hacks\]](https://minecraft-server.net/details/simplyvanilla/ "Simply Vanilla [Anarchy with no hacks]")[![kchscraft](plugins/MineCraft/icons/25x25xkchscraft_1658311151.png.pagespeed.ic.fnqNIplg0a.png)
 
-IllusiveMC Survival](https://minecraft-server.net/details/IllusiveMC/ "IllusiveMC Survival") [Minecraft Capture the Flag](https://minecraft-server.net/details/classic-capture-the-flag-minigame/ "Minecraft Capture the Flag") [ChocolateMC](https://minecraft-server.net/details/chocolate/ "ChocolateMC")
+KCHS Craft](https://minecraft-server.net/details/kchscraft/ "KCHS Craft")[![SkyblockAnarchy](plugins/MineCraft/icons/25x25xSkyblockAnarchy_1680402377.png.pagespeed.ic.VilkXiVJ71.jpg)
+
+Skyblock Anarchy](https://minecraft-server.net/details/SkyblockAnarchy/ "Skyblock Anarchy")
 
 1. [Minecraft Servers](https://minecraft-server.net/)
 2. Privacy Policy
@@ -138,4 +140,4 @@ Set
 * [Statistics](https://minecraft-server.net/overall-stats/ "Statistics")
 * [Contact](https://minecraft-server.net/contact/ "Contact")
 
-© Minecraft-Server.net 2024. All rights reserved. 'Minecraft' is a property of [Mojang](https://www.mojang.com/). You can buy [Minecraft here](https://www.minecraft.net/). 7 queries, time: 0.05803 - Created by [Debaucus](https://debauc.us/)
+© Minecraft-Server.net 2024. All rights reserved. 'Minecraft' is a property of [Mojang](https://www.mojang.com/). You can buy [Minecraft here](https://www.minecraft.net/). 7 queries, time: 0.0574 - Created by [Debaucus](https://debauc.us/)
