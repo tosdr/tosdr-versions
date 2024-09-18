@@ -1045,7 +1045,7 @@ Selecting a region changes the language and/or content on teamviewer.com
     * [![](https://s7g10.scene7.com/is/content/teamviewergmbh/Flag_of_the_Peoples_Republic_of_China)
         
         中国 - 中⽂（简体）](https://www.teamviewer.cn/cn/legal/eula/?language-switched=true)
-    * [![](https://s7g10.scene7.com/is/content/teamviewergmbh/Flag_of_Hong_Kong)
+    * [![](https://teamviewer.scene7.com/is/content/teamviewergmbh/Flag_of_Hong_Kong)
         
         香港 - 繁體中文](https://www.teamviewer.com/hk/legal/eula/?language-switched=true)
     * [![](https://s7g10.scene7.com/is/content/teamviewergmbh/Flag_of_India)
