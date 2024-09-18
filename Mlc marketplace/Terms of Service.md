@@ -5,6 +5,8 @@
 * [WhatsApp](https://wa.me/96892423242 "Muscat Livestock on WhatsApp")
 * [LinkedIn](https://www.linkedin.com/company/muscatlivestock/ "Muscat Livestock on LinkedIn")
 
+We Offer [Month Start Sale](https://mls.om/collections/month-start-offers "Month Start Offers") , [Incredible Deals](https://mls.om/collections/incredible-deals "INCREDIBLE DEALS") & [Lamb Fire Sale](https://mls.om/collections/lamb-fire-sale "Lamb Fire Sale")
+
 Use code **SEP10** to get 10% off until 31/08
 
 **Fresh AUS** [**Angus**](https://mls.om/collections/australian-black-angus-beef "https://mls.om/collections/australian-black-angus-beef") **and AUS** [**Wagyu**](https://mls.om/collections/australian-wagyu-beef "Australian Wagyu Beef") **beef delivered within 2 hours across Muscat.**
@@ -31,6 +33,15 @@ Search Search Reset
 Menu
 
 * [Customer Reviews](https://mls.om/pages/customer-reviews)
+* [Offer Sales](https://mls.om/pages/offers)
+    
+    * Back
+        
+    * [Offer Sales](https://mls.om/pages/offers)
+    * [Month Start Sale](https://mls.om/collections/month-start-offers)
+    * [MLS Lamb Fire Sale](https://mls.om/collections/lamb-fire-sale)
+    * [Incredible Deals](https://mls.om/collections/incredible-deals)
+    
 * [MLS Subscriptions](https://mls.om/pages/build-your-box)
     
     * Back
