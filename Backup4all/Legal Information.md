@@ -142,15 +142,15 @@ We develop software that matters since 1999. These are our products: Backup4all/
 * [Forum](https://forum.backup4all.com/)
 * [Blog](https://blog.backup4all.com/)
 
-* [How to back up data files from Walrus using B ...](https://www.backup4all.com/how-to-back-up-data-files-from-walrus-using-backup4all-kb.html)  
+* [How to keep multiple Mirror backup versions i ...](https://www.backup4all.com/how-to-keep-multiple-mirror-backup-versions-in-destination-kb.html)  
     
-* [How to restore from a backup?](https://www.backup4all.com/how-to-restore-from-a-backup-kb.html)  
+* [Backup software](https://www.backup4all.com/backup-software-kb.html)  
     
-* [How to use and configure the Startup feature ...](https://www.backup4all.com/how-to-use-and-configure-the-startup-feature-in-backup4all-kb.html)  
+* [What is keyboard authentication?](https://www.backup4all.com/what-is-keyboard-authentication-kb.html)  
     
-* [How to backup your data to HGST](https://www.backup4all.com/how-to-backup-your-data-to-hgst-kb.html)  
+* [Packet writing software](https://www.backup4all.com/packet-writing-software-kb.html)  
     
-* [How to run a daily incremental and weekly ful ...](https://www.backup4all.com/how-to-run-a-daily-incremental-and-weekly-full-backups-kb.html)  
+* [How to back up Outlook.com (former Hotmail) e ...](https://www.backup4all.com/how-to-back-up-hotmail-emails-kb.html)  
     
 
 Choose language:
