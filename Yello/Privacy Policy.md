@@ -4,32 +4,20 @@
 
 * [Why Yello?](https://yello.co/why-yello/)
 * [Solutions](#)
+    
     * [Sourcing](https://yello.co/wayup-dei-sourcing/)
     * [Events](https://yello.co/recruitment-events/)
     * [Recruitment Operations](https://yello.co/recruitment-crm/)
     * [Campus Planning](https://yello.co/campus-recruitment/)
     * [Government](https://yello.co/government-recruiting/)
     * [Reduce Reneges](https://yello.co/landing-page-abode/)
+    
 * [Our Customers](https://yello.co/our-customers/)
 * [Learn](#)
+    
     * [Resource Center](https://yello.co/resources/)
     * [Blog](https://yello.co/blog/)
-* [Request a Demo](https://yello.co/request-a-demo/)
-
-Menu
-
-* [Why Yello?](https://yello.co/why-yello/)
-* [Solutions](#)
-    * [Sourcing](https://yello.co/wayup-dei-sourcing/)
-    * [Events](https://yello.co/recruitment-events/)
-    * [Recruitment Operations](https://yello.co/recruitment-crm/)
-    * [Campus Planning](https://yello.co/campus-recruitment/)
-    * [Government](https://yello.co/government-recruiting/)
-    * [Reduce Reneges](https://yello.co/landing-page-abode/)
-* [Our Customers](https://yello.co/our-customers/)
-* [Learn](#)
-    * [Resource Center](https://yello.co/resources/)
-    * [Blog](https://yello.co/blog/)
+    
 * [Request a Demo](https://yello.co/request-a-demo/)
 
 [Request a Demo](https://yello.co/request-a-demo/)
