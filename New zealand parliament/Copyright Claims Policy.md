@@ -2,7 +2,7 @@
 
 [New Zealand Parliament Pāremata Aotearoa](https://www.parliament.nz/en/)
 
-Language [English](#) [Māori](https://www.parliament.nz/mi/pb/hansard-debates/rhr/document/HansS_20240918_050400000/potaka-tama/)
+Language [English](#) [Māori](https://www.parliament.nz/mi/pb/sc/make-a-submission/document/54SCJUST_SCF_AD58BD2A-C2CA-44CD-361F-08DC7876229A/local-government-electoral-legislation-and-m%C4%81ori-wards/)
 
 Search [Advanced Search](https://www.parliament.nz/en/search)
 
@@ -14,7 +14,7 @@ Search
 
 [Advanced Search](https://www.parliament.nz/en/search)
 
-Language [English](#) [Māori](https://www.parliament.nz/mi/pb/hansard-debates/rhr/document/HansS_20240918_050400000/potaka-tama/)
+Language [English](#) [Māori](https://www.parliament.nz/mi/pb/sc/make-a-submission/document/54SCJUST_SCF_AD58BD2A-C2CA-44CD-361F-08DC7876229A/local-government-electoral-legislation-and-m%C4%81ori-wards/)
 
 * [Home](https://www.parliament.nz/en/ "Home")
 * [Parliamentary Business](https://www.parliament.nz/en/pb/)
