@@ -1,6 +1,6 @@
       
 
-[![Pearltrees](http://cdn2.pearltrees.com/images/html/blueLogo.png?20240905-16h54-22896 "Pearltrees")](http://cdn2.pearltrees.com/)
+[![Pearltrees](http://cdn2.pearltrees.com/images/html/blueLogo.png?20240918-14h38-51525 "Pearltrees")](http://cdn2.pearltrees.com/)
 
 General Terms of Use  
 \-  
@@ -9,10 +9,10 @@ Pearltrees
 
 These terms of use cover the public version of Pearltrees. You can also access the terms of use of [Pearltrees Education](http://www.pearltrees.com/s/info/termsEducation) and [Pearltrees Enterprise](http://www.pearltrees.com/s/info/termsEnterprise).
 
-1.       Legal information
---------------------------
+1.      Legal information
+-------------------------
 
-These Terms and Conditions (the “**T&Cs**”) are proposed by BROCELIAND (“**Pearltrees**”), a French Joint Stock Company with a share capital of 685 442,20 euros registered in Paris, France under no. 504 599 267 with a registered address at 129 Boulevard Saint-Germain, 75006 Paris, France.
+These Terms and Conditions (the “**T&Cs**”) are proposed by BROCELIAND (“**Pearltrees**”), a French Joint Stock Company with a share capital of 685 442,20 euros registered in Paris, France under no. 504 599 267 with a registered address at 129 Boulevard Saint Germain, 75006 Paris, France.
 
 Pearltrees can be contacted at the following e-mail address: [contact@pearltrees.com](mailto:contact@pearltrees.com).
 
@@ -22,8 +22,8 @@ The Platform is hosted by OVH SAS, domiciled at 2 rue Kellermann 59100 Roubaix, 
 
 The publishing manager (“directeur de publication”) of the Platform is Mr. Patrice Lamothe.
 
-2.       Definitions – interpretation
--------------------------------------
+2.      Definitions – interpretation
+------------------------------------
 
 Throughout these T&Cs, the following terms, when depicted with a capital first letter, whether in the singular or in the plural form, shall have the meanings that are set out below:
 
@@ -37,13 +37,13 @@ Throughout these T&Cs, the following terms, when depicted with a capital first l
 | **“Service”:** |     | Shall mean the service provided by Pearltrees enabling the User to use the Platform. |
 |     |     |     |
 
-3.       Purpose
-----------------
+3.      Purpose
+---------------
 
 The present T&C’s shall have for purpose the provision of contractual terms under which Pearltrees provides access to its Service to Users.
 
-4.       Applicability of the T&Cs
-----------------------------------
+4.      Applicability of the T&Cs
+---------------------------------
 
 In order to access the Platform and the Account, Users must be acquainted with, understand and accept these T&Cs.
 
@@ -55,8 +55,8 @@ Should any of the Parties fail to avail themselves of a given provision of these
 
 Should any provisions of the T&Cs turn out to be inapplicable for any reason whatsoever, such as due to an applicable statute or regulation, the Parties shall remain bound by the other provisions of the T&Cs and shall endeavour to remedy the inapplicable clauses in the spirit that prevailed upon formation of the contract between them.
 
-5.       Creation of an account
--------------------------------
+5.      Creation of an account
+------------------------------
 
 Upon submitting a request for the opening of an Account, Users must fill in a registration form and must choose a set of Identifiers.
 
@@ -68,8 +68,8 @@ The Users shall moreover be responsible for any use of their Identifiers, for in
 
 Any access to the Platform and to the Account, any use of the Service or in general any data transmission performed using a User’s Identifiers, shall be deemed to have been performed by that User. The Users must ensure that they disconnect effectively from the Account at the end of each session, particularly when accessing the Service from a public computer.
 
-6.       Premium account
-------------------------
+6.      Premium account
+-----------------------
 
 Registration to access the Service is free for the User. However, the User can subscribe to a "premium" offer giving access to additional services among the various subscription offers presented on the Platform.
 
@@ -89,55 +89,55 @@ To exercise his right of withdrawal, the User must notify his decision of withdr
 
 In the event of withdrawal, the refund is made by Pearltrees by the same means of payment as that used for the initial transaction, unless the User expressly agrees to a different means. The refund is made as soon as possible, and at the latest 14 days from the day Pearltrees is informed of the decision of the User to withdraw from his subscription.
 
-7.       The users’ obligations
--------------------------------
+7.      The users’ obligations
+------------------------------
 
 The Users undertake to comply with the terms of these T&Cs and to use the Service in accordance with their provisions.
 
-7.1.       General use of the Service
+7.1.      General use of the Service
 
 As part of their use of the Service, Users must not:
 
-\-          Open more than one User account or open an account usurping the identity of a third party,
+\-        Open more than one User account or open an account usurping the identity of a third party,
 
-\-          Use the Service to disseminate inappropriate content (content that is illegal, defamatory, insulting, racist, runs counter to human dignity, or any other content that may incur civil or criminal liability),
+\-        Use the Service to disseminate inappropriate content (content that is illegal, defamatory, insulting, racist, runs counter to human dignity, or any other content that may incur civil or criminal liability),
 
-\-          Use the Service for fraudulent or illegal purposes.
+\-        Use the Service for fraudulent or illegal purposes.
 
-7.2.       Rules applicable to the content aggregated within the Collections
+7.2.      Rules applicable to the content aggregated within the Collections
 
 Users may freely choose to aggregate any content into any Collection that is published in the Account.
 
 Users must however check the content that they choose to make available and must not publish a Collection that aggregates content:
 
-\-          That can be construed as an apology for crimes against humanity or war crimes;
+\-        That can be construed as an apology for crimes against humanity or war crimes;
 
-\-          That violates the respect and dignity of human beings, the protection of children and teenagers, e.g. violent, child abuse messages;
+\-        That violates the respect and dignity of human beings, the protection of children and teenagers, e.g. violent, child abuse messages;
 
-\-          That runs counter to the public interest or to public morals;
+\-        That runs counter to the public interest or to public morals;
 
-\-          That is threatening, insulting, constitutes harassment, is defamatory or harmful;
+\-        That is threatening, insulting, constitutes harassment, is defamatory or harmful;
 
-\-          That constitutes an infringement of intellectual property rights, an act of unfair competition or a parasitic trade practice;
+\-        That constitutes an infringement of intellectual property rights, an act of unfair competition or a parasitic trade practice;
 
-\-          That causes or incites discrimination, hatred or violence on account of people’s origin, gender, state of health, political or union affiliation;
+\-        That causes or incites discrimination, hatred or violence on account of people’s origin, gender, state of health, political or union affiliation;
 
-\-          That violates people’s privacy;
+\-        That violates people’s privacy;
 
-\-          That encourages people to commit crimes, misdemeanours or acts of terrorism;
+\-        That encourages people to commit crimes, misdemeanours or acts of terrorism;
 
-\-          That violates the secrecy of private correspondence;
+\-        That violates the secrecy of private correspondence;
 
-\-          That provides access to computer viruses or any other code or program designed to interrupt, destroy or limit the functionality of any software application, computer or telecommunication tool, this list not being exhaustive;
+\-        That provides access to computer viruses or any other code or program designed to interrupt, destroy or limit the functionality of any software application, computer or telecommunication tool, this list not being exhaustive;
 
-\-          That enables a third party to directly or indirectly procure pirated software, software applications used to commit acts of piracy and intrusions into computer and telecommunication systems, and in general any software or other tool that can be used to infringe the rights of others and the security of people and property.
+\-        That enables a third party to directly or indirectly procure pirated software, software applications used to commit acts of piracy and intrusions into computer and telecommunication systems, and in general any software or other tool that can be used to infringe the rights of others and the security of people and property.
 
 The Users acknowledge and agree that they shall be fully and solely responsible for the content and the consequences of its aggregation and dissemination as part of their Collections. The Users hereby declare that they hold all the requisite elements (rights, licenses, consents and/or permits) to enable them to disclose their content. Conversely, the Users undertake not to publish any content comprising elements that they are not legally authorised to hold.
 
 The Users may be held liable for any content that infringes the rights of other persons or the applicable laws, including the rules governing the rights over a person’s image and the intellectual property rights over any shared content.
 
-8.       Rescission and suspension
-----------------------------------
+8.      Rescission and suspension
+---------------------------------
 
 If, for any given reason, Pearltrees considers that a User is not complying with these T&Cs, including the obligations that are listed above, Pearltrees may at any point in time, and at its entire discretion, eliminate or suspend the User’s account and take all requisite legal measures against that User, bearing in mind that no decision shall be taken without first informing the User, giving a reasonable period of notice to remedy the violation, save in case of gross misconduct by the User.
 
@@ -147,8 +147,8 @@ Should Pearltrees be compelled to irrevocably terminate the provision of the Ser
 
 Users may close their accounts from their profile at any point in time. All the data linked to their accounts shall then be eliminated unless the User request the portability of its data.
 
-9.       Liability
-------------------
+9.      Liability
+-----------------
 
 Pearltrees shall be liable to Users for the proper performance of the obligations arising from these T&Cs.
 
@@ -160,29 +160,29 @@ Pearltrees shall do everything in its power to guarantee uninterrupted access to
 
 Similarly, although Pearltrees does everything possible to ensure the security of the information and data stored on its Platform, it cannot guarantee the lack of any risk of intrusions, data piracy or contamination by computer viruses pursuant to using the Platform. It is therefore up to the Users to take all the necessary precautions for ensuring the security of their data and the protection of their computer systems against contamination by viruses or other forms of attacks that may occur upon the use of the Platform.
 
-10.   Reporting unlawful content
---------------------------------
+10.  Reporting unlawful content
+-------------------------------
 
 In its capacity as the host as per France’s law no. 2004-575 of 21 June 2004 for promoting trust in the digital economy (“LCEN”), Pearltrees must withdraw any content that is clearly unlawful and that is notified to it in keeping with the formalities laid down by article 6-1-5 LCEN.
 
-Should Users detect any clearly unlawful content while browsing the Account, they should report the content to Pearltrees by sending a notification to [legal@pearltrees.com](mailto:legal@pearltrees.com)
+Should Users detect any clearly unlawful content while browsing the Account, they should report the content to Pearltrees by sending a notification to [legal@pearltreees.com](mailto:legal@pearltreees.com)
 
 Pearltrees undertakes to promptly de-reference the content that is reported, if it is clearly illicit and the alert notification comprises the following elements:
 
-\-          The date of the notification;
+\-        The date of the notification;
 
-\-          If the notifying party is a natural person: their first names, family name, profession, domicile, nationality, date and place of birth; if the notifying party is a legal person: its form of incorporation, company name, registered headquarters and the body that represents it legally;
+\-        If the notifying party is a natural person: their first names, family name, profession, domicile, nationality, date and place of birth; if the notifying party is a legal person: its form of incorporation, company name, registered headquarters and the body that represents it legally;
 
-\-          The names and domicile of the recipient, or in the case of a legal person, its name and registered address;
+\-        The names and domicile of the recipient, or in the case of a legal person, its name and registered address;
 
-\-          A description of the contentious facts and their precise location;
+\-        A description of the contentious facts and their precise location;
 
-\-          The reasons for which the content must be withdrawn, comprising a statement of the relevant legal provisions and evidence of the facts;
+\-        The reasons for which the content must be withdrawn, comprising a statement of the relevant legal provisions and evidence of the facts;
 
-\-          A copy of the letter or message sent to the author of the contentious information or activities, requesting them to cease and desist, withdraw them or modify them, or evidence of the fact that the author could not be contacted.
+\-        A copy of the letter or message sent to the author of the contentious information or activities, requesting them to cease and desist, withdraw them or modify them, or evidence of the fact that the author could not be contacted.
 
-11.   Intellectual property
----------------------------
+11.  Intellectual property
+--------------------------
 
 11.1.   Intellectual property rights over the Platform
 
@@ -204,8 +204,8 @@ The Users therefore guarantee Pearltrees against any challenges, claims of owner
 
 When they publish a Collection in the Account, the Users grant Pearltrees a non-exclusive right to use this Collection free of charge, enabling Pearltrees to use, to communicate to members of the public, to reproduce, to adapt, to modify (mainly for reasons of ergonomics and technical compatibility with the Pearltrees platform), to transmit and to disseminate this Collection on any medium, worldwide, for the legal duration of the protection of the intellectual property rights.
 
-12.   Data protection
----------------------
+12.  Data protection
+--------------------
 
 The Users are hereby informed that Pearltrees process their personal data.
 
@@ -213,12 +213,12 @@ The processing of personal data and the management of cookies by Pearltrees are 
 
 In accordance with France’s data protection law of 6 January 1978, as subsequently modified, Users have a right to object to, to access, rectify, port and request the erasure of their personal data, as well as a right to oppose its processing on legitimate grounds, by contacting the School of the Account or Pearltrees:
 
-\-          by sending a letter by post to Pearltrees, 129 boulevard Saint-Germain, 75006 Paris, France,
+\-        by sending a letter by post to Pearltrees, 129 boulevard Saint-Germain, 75006 Paris, France,
 
-\-          or by sending an e-mail to [privacy@pearltrees.com](mailto:privacy@pearltrees.com).
+\-        or by sending an e-mail to [privacy@pearltrees.com](mailto:privacy@pearltrees.com).
 
-13.   Third party sites
------------------------
+13.  Third party sites
+----------------------
 
 The Platform and the Account may comprise hypertext links pointing to third party sites. The links pointing to these third party sites do not imply any approval of these third party sites by Pearltrees. Pearltrees has no control over the information, products and/or services proposed by third parties on the abovementioned sites, and hereby disclaims any liability in this respect.
 
@@ -226,17 +226,17 @@ Pearltrees moreover hereby disclaims liability for any hypertext links that the 
 
 Pearltrees finally disclaims liability for any gathering and transmission of personal data, insertions of cookies or any other process intended for the same purposes, by these third party sites.
 
-In order to facilitate the search of videos, Pearltrees uses YouTube API whose Terms of Use are accessible [here](https://developers.google.com/youtube/terms/developer-policies#a.-api-client-terms-of-use-and-privacy-policies).
+In order to facilitate the search of videos, Pearltrees uses YouTube API whose Terms of Use are accessible [here](https://www.youtube.com/t/terms).
 
-14.   Pearltrees extension
---------------------------
+14.  Pearltrees extension
+-------------------------
 
 When registering on the Platform, the User will be able to add a Pearltrees Internet extension on their internet browser.
 
 The addition of these extensions is subject to compliance with and acceptance by the User of the provisions applicable to the GNU GPL Free Software License Version 3 (GNU GPL 3) available at the following address: [http://www.gnu.org/licenses/gpl.txt](http://www.gnu.org/licenses/gpl.txt)
 
-15.   Applicable law and settlement of disputes
------------------------------------------------
+15.  Applicable law and settlement of disputes
+----------------------------------------------
 
 These T&Cs are governed by French law.
 
