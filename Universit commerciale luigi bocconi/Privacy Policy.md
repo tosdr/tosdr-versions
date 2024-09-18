@@ -348,7 +348,7 @@ Stay in touch
 
 Listen to our podcast
 
-* [Spotify ![Go to Spotify](/sites/default/files/styles/footer_icon/public/footer/icon-menu/spotify.png.webp?itok=uU_88Z0- "Spotify")](https://www.unibocconi.it/en/about-us/podcast) 
+* [Spotify ![Go to Spotify](/sites/default/files/styles/footer_icon/public/footer/icon-menu/spotify.png.webp?VersionId=dotUQVvX0dCf12wzV72B.A4wkAXeXw94&itok=uU_88Z0- "Spotify")](https://www.unibocconi.it/en/about-us/podcast) 
 * Google podcast ![Go to Google podcast](/sites/default/files/styles/footer_icon/public/footer/icon-menu/google_pod.png.webp?itok=zF62NlqP "Google podcast") 
 * Spreaker ![Go to Spreaker](/sites/default/files/styles/footer_icon/public/footer/icon-menu/speaker_pod.png.webp?itok=c6WiDStJ "Spreaker") 
 * Apple podcast ![Go to Apple podcast](/sites/default/files/styles/footer_icon/public/footer/icon-menu/apple_pod.png.webp?itok=RK16RIy1 "Apple podcast") 
