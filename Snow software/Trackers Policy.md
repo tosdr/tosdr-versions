@@ -405,12 +405,11 @@ Carlsberg increased efficiency and saved big with Flexera's FinOps and ITAM solu
 
 [Image
 
-![Investec case study](/sites/default/files/2024-08/resource-case-study-investec.png)](https://www.flexera.com/resources/case-studies/investec)
+![Max Life Insurance case study](/sites/default/files/2024-08/resource-case-study-max-life-insurance.png)](https://www.flexera.com/resources/case-studies/max-life-insurance)
 
-Investec cuts down Adobe costs by 15%, and Microsoft by 12% with Flexera  
- 
+Max Life Insurance achieves a 10% reduction across its top five enterprise software expenses with Snow Spend Optimizer.
 
-[Discover how](https://www.flexera.com/resources/case-studies/investec)
+[Discover how](https://www.flexera.com/resources/case-studies/max-life-insurance)
 
 [Image
 
@@ -626,6 +625,7 @@ Footer Menu
         * [Leadership](https://www.flexera.com/about-us/leadership)
         * [Contact us](https://www.flexera.com/about-us/contact-us)
         * [Media / press center](https://www.flexera.com/about-us/press-center)
+        * [Revenera.com](https://www.revenera.com/)
 
 [+1.800.374.4353](tel:infoModel.phoneLink)
 
