@@ -247,17 +247,7 @@ MaleFemaleOther
 
 Reason (optional)  
 
-  
-1  
-I have read and agreed to the [Privacy Policy](https://www.zeamhealth.com/your-privacy) and [Terms of Use](https://www.zeamhealth.com/our-terms) and I am at least 13 and have the authority to make this appointment.  
-
-I agree to receive text messages from this practice and understand that message frequency and data rates may apply.
-
-* * *
-
-PLEASE NOTE: This is an appointment request only. The office will reach out to you to confirm the appointment date and time. If this is an emergency, please call the office.
-
-* * *
+**Note:** We are not currently accepting Medical Insurance at this time.
 
 Insurance carrier and plan name  
 
@@ -266,6 +256,12 @@ Insurance member id #
 Insurance group id #  
 
 Additional notes for the office:  
+
+  
+1  
+I have read and agreed to the [Privacy Policy](https://www.zeamhealth.com/privacy-policy-2/) and [Terms of Use](https://www.zeamhealth.com/our-terms/) and I am at least 13 and have the authority to make this appointment.  
+
+I agree to receive text messages from this practice and understand that message frequency and data rates may apply.
 
 * * *
 
