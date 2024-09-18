@@ -198,23 +198,7 @@ O Portal TNH1 não entra em contato com os ganhadores de qualquer promoção atr
 * [ÚLTIMAS](#ultimas "Ultimas")
 * [VÍDEOS](#videos "Videos")
 
-[![Ator Mário Gomes é despejado da casa onde mora com a família, no RJ](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/a/b/csm_mario-gomes-despejado-residEncia-familia-reporducao-sandro-cardozo-extra_6a15080d97.jpg)
-
-foi para leilão
-
-foi para leilão
-
-Ator Mário Gomes é despejado da casa onde mora com a família, no RJ
-
-Ator Mário Gomes é despejado da casa onde mora com a família, no RJ](https://www.tnh1.com.br/noticia/nid/ator-mario-gomes-e-despejado-da-casa-onde-mora-com-a-familia-no-rj/ "Ator Mário Gomes é despejado da casa onde mora com a família, no RJ")[![Projetado por sobrinha de Senna, maior arranha-céu do mundo é anunciado no Brasil ](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/4/0/csm_senna-toweer-balneario-camboriu-reproducao-fg-empreendimentos_4548d1f35c.jpg)
-
-mais de 500 metros
-
-mais de 500 metros
-
-Projetado por sobrinha de Senna, maior arranha-céu do mundo é anunciado no Brasil
-
-Projetado por sobrinha de Senna, maior arranha-céu do mundo é anunciado no Brasil](https://www.tnh1.com.br/noticia/nid/projetado-por-sobrinha-de-senna-maior-arranha-ceu-do-mundo-e-anunciado-no-brasil/ "Projetado por sobrinha de Senna, maior arranha-céu do mundo é anunciado no Brasil ")[![Remédio para diabetes pode desacelerar envelhecimento, sugere estudo](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/c/c/csm_close-up-woman-s-hand-holding-blister-pack-with-medicines-wooden-desk__1__2b20d73d9e.jpg)
+[![Remédio para diabetes pode desacelerar envelhecimento, sugere estudo](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/c/c/csm_close-up-woman-s-hand-holding-blister-pack-with-medicines-wooden-desk__1__2b20d73d9e.jpg)
 
 Saúde
 
@@ -222,15 +206,31 @@ Saúde
 
 Remédio para diabetes pode desacelerar envelhecimento, sugere estudo
 
-Remédio para diabetes pode desacelerar envelhecimento, sugere estudo](https://www.tnh1.com.br/noticia/nid/remedio-para-diabetes-pode-desacelerar-envelhecimento-sugere-estudo/ "Remédio para diabetes pode desacelerar envelhecimento, sugere estudo")[![Duplicação de trechos remanescentes da BR-101 é retomada 20 anos depois](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/2/b/csm_obra-duplicacao-rodovia-alagoas-reproducao-agencia-alagoas_fdc35b3ae4.jpeg)
+Remédio para diabetes pode desacelerar envelhecimento, sugere estudo](https://www.tnh1.com.br/noticia/nid/remedio-para-diabetes-pode-desacelerar-envelhecimento-sugere-estudo/ "Remédio para diabetes pode desacelerar envelhecimento, sugere estudo")[![Suspeito de matar Ana Beatriz é filho de PM e teria usado arma do pai no crime](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/6/a/csm_operacao_prisao_suspeito_ana_beatriz_foto_reproducao_pc_61fc324d2c.jpeg)
 
-segurança viária
+investigações
 
-segurança viária
+investigações
 
-Duplicação de trechos remanescentes da BR-101 é retomada 20 anos depois
+Suspeito de matar Ana Beatriz é filho de PM e teria usado arma do pai no crime
 
-Duplicação de trechos remanescentes da BR-101 é retomada 20 anos depois](https://www.tnh1.com.br/noticia/nid/duplicacao-de-trechos-remanescentes-da-br-101-e-retomada-20-anos-depois/ "Duplicação de trechos remanescentes da BR-101 é retomada 20 anos depois")
+Suspeito de matar Ana Beatriz é filho de PM e teria usado arma do pai no crime](https://www.tnh1.com.br/noticia/nid/suspeito-de-matar-ana-beatriz-e-filho-de-pm-e-teria-usado-arma-do-pai-no-crime/ "Suspeito de matar Ana Beatriz é filho de PM e teria usado arma do pai no crime")[![Ator explica como lida com as reações das pessoas à sua doença rara no dia a dia](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/2/7/csm_ator-britanico-reproducao-redes-sociais_8bde67629f.jpg)
+
+39 anos
+
+39 anos
+
+Ator explica como lida com as reações das pessoas à sua doença rara no dia a dia
+
+Ator explica como lida com as reações das pessoas à sua doença rara no dia a dia](https://www.tnh1.com.br/noticia/nid/ator-explica-como-lida-com-as-reacoes-das-pessoas-a-sua-doenca-rara-no-dia-a-dia/ "Ator explica como lida com as reações das pessoas à sua doença rara no dia a dia")[![Caso Ana Beatriz: suspeito de perseguir e matar adolescente de 13 anos é preso em Maceió](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/a/1/csm_Menina_de_13_anos_e_baleada_em_Maceio_-_foto_Reproducao_ec76ee516d.jpg)
+
+Na Ponta Grossa
+
+Na Ponta Grossa
+
+Caso Ana Beatriz: suspeito de perseguir e matar adolescente de 13 anos é preso em Maceió
+
+Caso Ana Beatriz: suspeito de perseguir e matar adolescente de 13 anos é preso em Maceió](https://www.tnh1.com.br/noticia/nid/caso-ana-beatriz-suspeito-de-perseguir-e-matar-adolescente-de-13-anos-e-preso-em-maceio/ "Caso Ana Beatriz: suspeito de perseguir e matar adolescente de 13 anos é preso em Maceió")
 
 [![Ator explica como lida com as reações das pessoas à sua doença rara no dia a dia](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/2/7/csm_ator-britanico-reproducao-redes-sociais_8bde67629f.jpg)
 
