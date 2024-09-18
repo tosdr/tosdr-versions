@@ -270,7 +270,7 @@ This Privacy Policy is licensed under Attribution-ShareAlike 4.0 International (
 * [Developer Center](https://developer.gnome.org/)
 * [Mailing List Archive](https://mail.gnome.org/mailman/listinfo)
 
-* [Latest Release](http://release.gnome.org/46)
+* [Latest Release](http://release.gnome.org/47)
 * [This Week in GNOME](https://thisweek.gnome.org/)
 * [Events](https://events.gnome.org/)
 * [Foundation News](https://foundation.gnome.org/news/)
