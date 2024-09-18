@@ -166,39 +166,22 @@ Add to Cart
 
 [Details](#description)
 
-**Description Of Avaforce 100 mg**
-----------------------------------
-
-Avaforce 100 mg is an **FDA-approved medicine** that treats erectile dysfunction in men. Introduced in 2012, this fast-acting cure is the newest treatment for erectile dysfunction. 
-
-These tablets can start working in as few as **15 minutes** and last for up to 6 hours.
-
-In clinical trials, medications have been shown to work well for most men, no matter how long the patient has had difficulties with erectile dysfunction.
-
-**Avaforce 100 mg Chemical Name**
----------------------------------
-
-Avanafil
-
-**Avaforce 100 mg Manufacturer**
---------------------------------
-
-Centurion Lab
-
-**Uses of Avaforce 100 mg**
----------------------------
-
-* [**Erectile Dysfunction**](https://www.genericday.com/blog/post/what-is-the-best-drink-for-erectile-dysfunction)
-    
-* Pulmonary arterial hypertension
-    
-* Benign prostatic hyperplasia
-    
-
 **What is Avaforce 100 mg?**
 ----------------------------
 
-Avaforce 100 mg Avanafil **Erection Support**. The absolute novelty in the treatment of erectile dysfunction is already on the market! Avanafil is predicted by doctors to be a strong competitor for already established products such as **Viagra**, **Cialis,** and **Levitra**.
+Avaforce 100 is a prescription medication for treating erectile dysfunction (ED) or Impotence in men. It contains a PDE5 inhibitor that boosts blood flow to the penis, helping men achieve and maintain erections.
+
+Taken on an empty stomach or with food, Avaforce 100 should be consumed about an hour before sexual activity. It works within 30-60 minutes and only when you're [**sexually aroused**](https://www.genericday.com/blog/post/instant-fire-quick-ways-to-fuel-her-sexual-desire).
+
+**Chemical Name**
+-----------------
+
+Avanafil
+
+**Manufacturer**
+----------------
+
+Centurion Lab
 
 **How Avaforce 100 mg working**
 -------------------------------
@@ -253,7 +236,7 @@ Avaforce 100 mg Avanafil **Erection Support**. The absolute novelty in the treat
     
 * Dyspepsia
     
-* Dizziness
+* **Dizziness**
     
 * Nasal congestion and
     
