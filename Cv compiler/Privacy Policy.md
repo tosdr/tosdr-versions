@@ -1747,6 +1747,8 @@ What do top resumes look like? Check out these expertly-written samples:
 
 [HR Operations Manager](https://cvcompiler.com/hr-operations-manager-resume-examples)
 
+[Quality Control Specialist](https://cvcompiler.com/quality-control-specialist-resume-examples)
+
 ![Upload resume illustration](uploads-pre-acq/img/upload-illustration.svg)
 
 ### Upload  
