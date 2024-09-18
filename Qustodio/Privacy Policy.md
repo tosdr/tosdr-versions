@@ -72,7 +72,7 @@
         Step-by-step guides and videos to help you set up, use, and troubleshoot Qustodio.
         
         Visit the help center](https://help.qustodio.com/hc/en-us/ "Help center")
-    * [![](https://static.qustodio.com/public-site/uploads/2021/10/26103146/group-21%402x.png)
+    * [![](https://static.qustodio.com/public-site/uploads/2024/09/18151108/CarePlus-Menu-Image.png)
         
         ![Care Plus](https://static.qustodio.com/public-site/uploads/2022/01/13081046/care-plus-logo.png)
         
