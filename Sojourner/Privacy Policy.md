@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-7999b9c6e70f94e574f23ce2f64f89eb
+415dcce17aeb738d991db937da84fbb0
 
 [](# "Expand for more options")[](# "Search")
 
@@ -171,11 +171,11 @@ Sojourner may revise this policy as needed by updating this posting.
 
 ### Featured Product
 
-[![12 mm by 8 mm Czech embellished glass oval beads](https://www.sojourner.biz/images/cache/glass/GL0038.200.jpg)](https://www.sojourner.biz/beads/glass/12-mm-by-8-mm-czech-embellished-glass-oval-beads.html "12 mm by 8 mm Czech embellished glass oval beads")
+[![Black and amber chevrons](https://www.sojourner.biz/images/cache/glass/VB0041.200.jpg)](https://www.sojourner.biz/beads/glass/black-and-amber-chevrons.html "Black and amber chevrons")
 
-#### [12 mm by 8 mm Czech embellished glass oval beads](https://www.sojourner.biz/beads/glass/12-mm-by-8-mm-czech-embellished-glass-oval-beads.html "12 mm by 8 mm Czech embellished glass oval beads")
+#### [Black and amber chevrons](https://www.sojourner.biz/beads/glass/black-and-amber-chevrons.html "Black and amber chevrons")
 
-$6.00
+$7.50
 
 ### Best Sellers
 
