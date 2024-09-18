@@ -404,9 +404,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ An expert is a person who has made all the mistakes that can be made in a very narrow field”
+“ If you get, give. If you learn, teach”
 
-[Niels Bohr](https://en.wikipedia.org/wiki/Niels_Bohr)
+[Maya Angelou](http://en.wikipedia.org/wiki/Maya_Angelou)
 
 [](https://www.adafruit.com/about)
 
