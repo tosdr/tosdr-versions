@@ -23,9 +23,9 @@ Nutzungsbedingungen | AGB
 **Allgemeine Geschäftsbedingungen für die Nutzung von [www.fragnebenan.com](http://www.fragnebenan.com/)**
 ==========================================================================================================
 
-Stand: 1. Febraur 2021
+Stand: 18. September 2024
 
-_Diese Allgemeinen Geschäftsbedingungen (= AGB) gelten für alle Nutzerinnen und Nutzer von [www.fragnebenan.com](http://www.fragnebenan.com/) und der damit verbundenen Anwendungen. Für eine höhere Verständlichkeit wird fan geschlechtsneutral „Nutzer” verwendet. Mit der Registrierung des Nutzers entsteht ein Vertragsverhältnis zwischen ihm und der FragNebenan GmbH (= FragNebenan) mit Sitz in der Hermanngasse 18/3, 1070 Wien._
+_Diese Allgemeinen Geschäftsbedingungen (= AGB) gelten für alle Nutzerinnen und Nutzer von [www.fragnebenan.com](http://www.fragnebenan.com/) und der damit verbundenen Anwendungen, insbesondere die Apps für iOS und Android. Für eine höhere Verständlichkeit wird fortan geschlechtsneutral „Nutzer” verwendet. Mit der Registrierung des Nutzers entsteht ein Vertragsverhältnis zwischen ihm und der FragNebenan GmbH (= FragNebenan) mit Sitz in der Hermanngasse 18/3, 1070 Wien._
 
 _Wir möchten an dieser Stelle auch auf unsere [Datenschutzerklärung](https://fragnebenan.com/pages/privacy-policy) hinweisen._
 
@@ -143,6 +143,41 @@ Sollten einzelne Bestimmungen dieser Vereinbarung unwirksam oder undurchführbar
 1. Für sämtliche Rechtsstreitigkeiten aus diesem Vertrag gilt österreichisches Recht. Die Anwendbarkeit des UN-Kaufrechtes wird ausgeschlossen.
 2. Es wird inländische Gerichtsbarkeit vereinbart. Handelt es sich nicht um ein Verbrauchergeschäft (in welchem Fall § 14 KSchG gilt), ist zur Entscheidung sämtlicher Rechtsstreitigkeiten aus diesem Vertrag das am Sitz von FragNebenan sachlich zuständige Gericht ausschließlich örtlich zuständig.
 3. Erfüllungsort ist der Sitz von FragNebenan.
+
+12\. Apps für die Mobiltelefon-Betriebssysteme iOs und Android (EULA)
+---------------------------------------------------------------------
+
+Für die Apps gelten dieselben Bedingungen wie für die Desktop-Version via Browser. 
+
+#### Zusätzlich gelten für die iOs-App folgende Bestimmungen: 
+
+**1\. Bestätigung** : FragNebenan bestätigt, dass die EULA nur zwischen FragNebenan und seinen Nutzern geschlossen wird und dass FragNebenan allein für die lizenzierte Anwendung und deren Inhalt verantwortlich ist, und nicht Apple oder Google. 
+
+**2\. Umfang der Lizenz** : Die den Nutzern gewährte Lizenz ist auf eine nicht übertragbare Lizenz zur Nutzung der lizenzierten Anwendung auf allen Apple-Produkten beschränkt, die der Endbenutzer besitzt oder kontrolliert, und zwar wie in den in den Geschäftsbedingungen für Apple Media Services festgelegten Nutzungsregeln gestattet, mit der Ausnahme, dass auf diese lizenzierte Anwendung über andere Konten, die mit dem Käufer über die Familienfreigabe oder Mengenkäufe verknüpft sind, zugegriffen und sie verwendet werden kann. 
+
+**3\. Wartung und Support** : FragNebenan allein ist verantwortlich für die Bereitstellung von Wartungs- und Supportleistungen in Bezug auf die lizenzierte Anwendung. FragNebenan und seine Nutzer erkennen an, dass Apple in keiner Weise verpflichtet ist, Wartungs- und Supportleistungen in Bezug auf die lizenzierte Anwendung bereitzustellen. 
+
+**4\. Garantie** : FragNebenan allein ist verantwortlich für alle Produktgarantien, gleich ob ausdrücklich oder implizit, soweit diese nicht wirksam ausgeschlossen werden. Der Benutzer kann im Falle einer Nichterfüllung einer geltenden Garantie durch die lizenzierte Anwendung Apple benachrichtigen und Apple kann diesem Endbenutzer den Kaufpreis für die lizenzierte Anwendung erstatten. Apple hat im größtmöglichen, nach geltendem Recht zulässigen Umfang keinerlei andere Garantieverpflichtungen in Bezug auf die lizenzierte Anwendung und alle anderen Ansprüche, Verluste, Verbindlichkeiten, Schäden, Kosten oder Ausgaben, die auf eine Nichterfüllung einer Garantie zurückzuführen sind, liegen allein in der Verantwortung von FragNebenan. 
+
+**5\. Produktansprüche** : FragNebenan und seine Nutzer erkennen an, dass FragNebenan für die Bearbeitung aller Ansprüche des Endbenutzers oder Dritter in Bezug auf die lizenzierte Anwendung oder den Besitz und/oder die Verwendung dieser lizenzierten Anwendung durch den Endbenutzer verantwortlich ist, einschließlich, aber nicht beschränkt auf: (i) Produkthaftungsansprüche; (ii) alle Ansprüche, dass die lizenzierte Anwendung geltenden gesetzlichen oder behördlichen Anforderungen nicht entspricht; und (iii) Ansprüche aus Verbraucherschutz-, Datenschutz- oder ähnlichen Gesetzen. 
+
+**6\. Geistige Eigentumsrechte** : FragNebenan erkennt an, dass im Falle von Ansprüchen Dritter, die lizenzierte Anwendung oder der Besitz und die Verwendung dieser lizenzierten Anwendung durch den Endbenutzer die geistigen Eigentumsrechte dieses Dritten verletzt, FragNebenan und nicht Apple allein für die Untersuchung, Verteidigung, Beilegung und Erfüllung jeglicher Ansprüche wegen Verletzung geistiger Eigentumsrechte verantwortlich ist. 
+
+**7\. Einhaltung gesetzlicher Vorschriften** : Der Nutzer sichert zu und gewährleistet, dass (i) er/sie sich nicht in einem Land befindet, das einem Embargo der US-Regierung unterliegt oder das von der US-Regierung als den Terrorismus unterstützendes Land eingestuft wurde, und (ii) er/sie auf keiner Liste der US-Regierung mit verbotenen oder eingeschränkten Parteien aufgeführt ist. 
+
+**8\. Name und Adresse des Entwicklers** : 
+
+Fragen, Beschwerden oder Ansprüche des Endbenutzers in Bezug auf die lizenzierte Anwendung können gerichtet werden an: 
+
+_FragNebenan GmbH (= FragNebenan), Hermanngasse 18/3, 1070 Wien_
+
+_Kontakt: [admin@fragnebenan.com](mailto:admin@fragnebenan.com)_
+
+**9\. Vertragsbedingungen Dritter:** 
+
+Die Nutzer müssen bei der Verwendung der App die geltenden Vertragsbedingungen Dritter einhalten. 
+
+**10\. Drittbegünstigter** : FragNebenan und die Nutzer erkennen an, dass Apple und die Tochtergesellschaften von Apple Drittbegünstigte der EULA sind und dass Apple nach der Annahme der Bedingungen der EULA durch den Endbenutzer das Recht hat (und als dieses Recht angenommen gilt), die EULA als Drittbegünstigter gegenüber dem Endbenutzer durchzusetzen.
 
 #### Modal title
 
