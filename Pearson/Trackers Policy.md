@@ -53,18 +53,18 @@ United States
         
         * [All K-12 School Support](https://www.pearson.com/en-us/schools/support.html)
         
-    * [College Readiness & Career Education](https://www.pearson.com/en-us/schools/college-readiness-career-education.html)
+    * [College & Career Readiness](https://www.pearson.com/en-us/schools/college-readiness-career-education.html)
         
         [Back to Schools](#)
         
-        K-12 ACADEMIC & CTE
-        -------------------
+        COLLEGE & CAREER READINESS
+        --------------------------
         
-        [Explore K-12 Academic & CTE](https://www.pearson.com/en-us/schools/products-services/k12-academic-cte.html)
+        [Explore College & Career Readiness](https://www.pearson.com/en-us/schools/college-readiness-career-education.html)
         
         ### Products & Services
         
-        * [College Readiness & Career Education](https://www.pearson.com/en-us/schools/college-readiness-career-education.html)
+        * [College & Career Readiness](https://www.pearson.com/en-us/schools/college-readiness-career-education.html)
         
         ### Get Support
         
