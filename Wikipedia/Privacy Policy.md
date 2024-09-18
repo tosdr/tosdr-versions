@@ -1,4 +1,4 @@
-[Translate this page](https://wikimediafoundation.org/w/index.php?title=Special:Translate&group=page-Policy%3APrivacy+policy&action=page&filter= "Special:Translate")
+[Translate this page](https://wikimediafoundation.org/w/index.php?title=Special:Translate&group=page-Policy%3APrivacy+policy&action=page&filter=&action_source=translate_page "Special:Translate")
 
 Other languages:
 
