@@ -2,14 +2,14 @@ Wednesday, September 18 2024
 
 Breaking News
 
+* [President Joe Biden’s Schedule for Wednesday, September 18, 2024](https://www.conservativedailynews.com/2024/09/president-joe-bidens-schedule-for-wednesday-september-18-2024/)
+* [White House Press Briefing with Karine Jean-Pierre – 9/18/24](https://www.conservativedailynews.com/2024/09/white-house-press-briefing-with-karine-jean-pierre-9-18-24/)
+* [America In The Age Of Stupidity: Just Think If We Had A Fair And Honest Media](https://www.conservativedailynews.com/2024/09/america-in-the-age-of-stupidity-just-think-if-we-had-a-fair-and-honest-media/)
+* [Shut Hillary Down](https://www.conservativedailynews.com/2024/09/shut-hillary-down/)
 * [Hunter Biden’s Attorneys Ask Judge To Delay Sentencing So Biden-Harris Admin Officials Can ‘Submit Letters’ of Support](https://www.conservativedailynews.com/2024/09/hunter-bidens-attorneys-ask-judge-to-delay-sentencing-so-biden-harris-admin-officials-can-submit-letters-of-support/)
 * [Swing State’s School Choice Programs Are Helping Thousands Of Families — Dems Want To End It](https://www.conservativedailynews.com/2024/09/swing-states-school-choice-programs-are-helping-thousands-of-families-dems-want-to-end-it/)
 * [Speech Actually Can Be Violence When Weaponized by Democrats](https://www.conservativedailynews.com/2024/09/speech-actually-can-be-violence-when-weaponized-by-democrats/)
 * [Religious Group Slams Insurance Giant For ‘Woke Politics,’ Underwriting Gender Ideologues](https://www.conservativedailynews.com/2024/09/religious-group-slams-insurance-giant-for-woke-politics-underwriting-gender-ideologues/)
-* [ABC’s ‘World News Tonight’ Ratings Tank After Hosts’ ‘One-Sided’ Moderating Of Trump-Harris Debate](https://www.conservativedailynews.com/2024/09/abcs-world-news-tonight-ratings-tank-after-hosts-one-sided-moderating-of-trump-harris-debate/)
-* [The IRS Must Be Awfully Excited About A Potential Kamala Harris Presidency](https://www.conservativedailynews.com/2024/09/the-irs-must-be-awfully-excited-about-a-potential-kamala-harris-presidency/)
-* [The Democrats, the Media and Would-be Trump Assassin Ryan Routh](https://www.conservativedailynews.com/2024/09/the-democrats-the-media-and-would-be-trump-assassin-ryan-routh/)
-* [12 Democrats Warn Biden’s Natural Gas Freeze Could End Up Undermining Ukraine](https://www.conservativedailynews.com/2024/09/12-democrats-warn-bidens-natural-gas-freeze-could-end-up-undermining-ukraine/)
 
 * [Sidebar](#)
 * [Random Article](https://www.conservativedailynews.com/privacy-policy/?random-post=1 "Random Article")
@@ -126,55 +126,59 @@ Created using the Donation Thermometer plugin https://wordpress.org/plugins/dona
 
 Recent Posts
 
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2023/07/gv072623dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/09/hunter-bidens-attorneys-ask-judge-to-delay-sentencing-so-biden-harris-admin-officials-can-submit-letters-of-support/)
+* [![Democrats woke gender ideology](https://www.conservativedailynews.com/wp-content/uploads/2023/06/01-wokethroat-sm-1080a.jpg)](https://www.conservativedailynews.com/2024/09/state-department-paying-for-play-where-god-is-bisexual-and-communists-are-good-in-bid-to-push-lgbt-rights-abroad/)
     
-    [Hunter Biden’s Attorneys Ask Judge To Delay Sentencing So Biden-Harris Admin Officials Can ‘Submit Letters’ of Support](https://www.conservativedailynews.com/2024/09/hunter-bidens-attorneys-ask-judge-to-delay-sentencing-so-biden-harris-admin-officials-can-submit-letters-of-support/)
+    [State Department Paying For Play Where God Is Bisexual And Communists Are Good In Bid To Push LGBT Rights Abroad](https://www.conservativedailynews.com/2024/09/state-department-paying-for-play-where-god-is-bisexual-and-communists-are-good-in-bid-to-push-lgbt-rights-abroad/)
     
-    September 17, 2024
+    September 18, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2021/10/Chlidren-in-classroom-220x150.png)](https://www.conservativedailynews.com/2024/09/swing-states-school-choice-programs-are-helping-thousands-of-families-dems-want-to-end-it/)
+* [![Joe Biden open border illegal aliens](https://www.conservativedailynews.com/wp-content/uploads/2024/02/mrz022624dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/09/biden-harris-admin-cracks-down-on-border-smugglers-of-refrigerants/)
     
-    [Swing State’s School Choice Programs Are Helping Thousands Of Families — Dems Want To End It](https://www.conservativedailynews.com/2024/09/swing-states-school-choice-programs-are-helping-thousands-of-families-dems-want-to-end-it/)
+    [Biden-Harris Admin Cracks Down On Border Smugglers … Of Refrigerants](https://www.conservativedailynews.com/2024/09/biden-harris-admin-cracks-down-on-border-smugglers-of-refrigerants/)
     
-    September 17, 2024
+    September 18, 2024
     
-* [Caption This…](https://www.conservativedailynews.com/2024/09/caption-this/)
+* [![Media Bias victim blaming Trump assassination](https://www.conservativedailynews.com/wp-content/uploads/2024/09/gv091824dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/09/a-total-turn-off/)
     
-    September 17, 2024
+    [A Total Turn-Off](https://www.conservativedailynews.com/2024/09/a-total-turn-off/)
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/09/03-sinkingpolic-ci-1080-220x150.jpg)](https://www.conservativedailynews.com/2024/09/speech-actually-can-be-violence-when-weaponized-by-democrats/)
+    September 18, 2024
     
-    [Speech Actually Can Be Violence When Weaponized by Democrats](https://www.conservativedailynews.com/2024/09/speech-actually-can-be-violence-when-weaponized-by-democrats/)
+* [![Israel pagers Hezbollah](https://www.conservativedailynews.com/wp-content/uploads/2024/09/stg091824dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/09/beep-beep-boom/)
     
-    September 17, 2024
+    [Beep Beep BOOM!](https://www.conservativedailynews.com/2024/09/beep-beep-boom/)
     
-* [![Nationwide Insurance Hates America](https://www.conservativedailynews.com/wp-content/uploads/2024/09/Nationwide-Insurance-Hates-America-220x150.jpg)](https://www.conservativedailynews.com/2024/09/religious-group-slams-insurance-giant-for-woke-politics-underwriting-gender-ideologues/)
+    September 18, 2024
     
-    [Religious Group Slams Insurance Giant For ‘Woke Politics,’ Underwriting Gender Ideologues](https://www.conservativedailynews.com/2024/09/religious-group-slams-insurance-giant-for-woke-politics-underwriting-gender-ideologues/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/09/03-assasintwo-dt-1080-220x150.jpg)](https://www.conservativedailynews.com/2024/09/media-heal-thyself/)
     
-    September 17, 2024
+    [Media Heal Thyself](https://www.conservativedailynews.com/2024/09/media-heal-thyself/)
     
-* [![Kamala Harris ABC News Media Bias](https://www.conservativedailynews.com/wp-content/uploads/2024/09/stg091224dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/09/abcs-world-news-tonight-ratings-tank-after-hosts-one-sided-moderating-of-trump-harris-debate/)
+    September 18, 2024
     
-    [ABC’s ‘World News Tonight’ Ratings Tank After Hosts’ ‘One-Sided’ Moderating Of Trump-Harris Debate](https://www.conservativedailynews.com/2024/09/abcs-world-news-tonight-ratings-tank-after-hosts-one-sided-moderating-of-trump-harris-debate/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2021/05/Joe-Biden-White-House-Spring-220x150.png)](https://www.conservativedailynews.com/2024/09/president-joe-bidens-schedule-for-wednesday-september-18-2024/)
     
-    September 17, 2024
+    [President Joe Biden’s Schedule for Wednesday, September 18, 2024](https://www.conservativedailynews.com/2024/09/president-joe-bidens-schedule-for-wednesday-september-18-2024/)
     
-* [![The IRS, Taxes, Tax Day](https://www.conservativedailynews.com/wp-content/uploads/2024/04/mrz041524dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/09/the-irs-must-be-awfully-excited-about-a-potential-kamala-harris-presidency/)
+    September 18, 2024
     
-    [The IRS Must Be Awfully Excited About A Potential Kamala Harris Presidency](https://www.conservativedailynews.com/2024/09/the-irs-must-be-awfully-excited-about-a-potential-kamala-harris-presidency/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2023/01/1673037178_maxresdefault-220x150.jpg)](https://www.conservativedailynews.com/2024/09/white-house-press-briefing-with-karine-jean-pierre-9-18-24/)
     
-    September 17, 2024
+    [White House Press Briefing with Karine Jean-Pierre – 9/18/24](https://www.conservativedailynews.com/2024/09/white-house-press-briefing-with-karine-jean-pierre-9-18-24/)
     
-* [![Kamala Harris Joe Biden dangerous rhetoric](https://www.conservativedailynews.com/wp-content/uploads/2024/09/stg091724dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/09/the-democrats-the-media-and-would-be-trump-assassin-ryan-routh/)
+    September 18, 2024
     
-    [The Democrats, the Media and Would-be Trump Assassin Ryan Routh](https://www.conservativedailynews.com/2024/09/the-democrats-the-media-and-would-be-trump-assassin-ryan-routh/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/09/Press-220x150.png)](https://www.conservativedailynews.com/2024/09/america-in-the-age-of-stupidity-just-think-if-we-had-a-fair-and-honest-media/)
     
-    September 17, 2024
+    [America In The Age Of Stupidity: Just Think If We Had A Fair And Honest Media](https://www.conservativedailynews.com/2024/09/america-in-the-age-of-stupidity-just-think-if-we-had-a-fair-and-honest-media/)
+    
+    September 18, 2024
     
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
 
+* [Judge Rules Memphis Anti-Gun Questions Can Appear On November Ballot](https://www.thegunpage.com/judge-rules-memphis-anti-gun-questions-can-appear-on-november-ballot/10610636)
+* [Preview: Armasight Contractor 640 2.3-9.2X 35 mm Thermal Optic](https://www.thegunpage.com/preview-armasight-contractor-640-2-3-9-2x-35-mm-thermal-optic/10610635)
 * [TFB Interview: Kyle Litzie – World Champion – IPSC Rifle World Shoot](https://www.thegunpage.com/tfb-interview-kyle-litzie-world-champion-ipsc-rifle-world-shoot/10610633)
 * [POTD: National Icelandic Police With SIG Sauer MCX](https://www.thegunpage.com/potd-national-icelandic-police-with-sig-sauer-mcx/10610630)
 * [Ruger LC Charger 5.7: Review](https://www.thegunpage.com/ruger-lc-charger-5-7-review/10610628)
@@ -183,8 +187,6 @@ Recent Posts
 * [Latest Would-Be Trump Assassin Broke Numerous Gun Laws](https://www.thegunpage.com/latest-would-be-trump-assassin-broke-numerous-gun-laws/10610622)
 * [OH: Stop The Binary Trigger Ban](https://www.thegunpage.com/oh-stop-the-binary-trigger-ban/10610618)
 * [GOA Urges Public to Avoid Sharing Mass Murderer’s Names, Images](https://www.thegunpage.com/goa-urges-public-to-avoid-sharing-mass-murderers-names-images/10610619)
-* [New Compact Pulsar Axion XG30 and XG35 Thermal Monoculars](https://www.thegunpage.com/new-compact-pulsar-axion-xg30-and-xg35-thermal-monoculars/10610626)
-* [New Hampshire vs. Massachusetts, An Argument for National Reciprocity](https://www.thegunpage.com/new-hampshire-vs-massachusetts-an-argument-for-national-reciprocity/10610617)
 
 [![ Conservative Political Blogs](https://blog.feedspot.com/wp-content/uploads/2016/12/conservative_political_216px.png?x58297)](https://blog.feedspot.com/conservative_political_blogs/ "Conservative Political Blogs")
 
@@ -226,6 +228,7 @@ Contact Us
 
 Recent Comments
 
+* charles wilkins on [Dangerous Rhetoric](https://www.conservativedailynews.com/2024/09/dangerous-rhetoric/#comment-782180)
 * KayCee on [Dazed and Confused](https://www.conservativedailynews.com/2024/09/dazed-and-confused-3/#comment-782173)
 * KayCee on [The Reasons Young Women Embrace the Left Do Not Reflect Well on Those Women](https://www.conservativedailynews.com/2024/09/the-reasons-young-women-embrace-the-left-do-not-reflect-well-on-those-women/#comment-782172)
 * Jeff L. on [The Democrats, the Media and Would-be Trump Assassin Ryan Routh](https://www.conservativedailynews.com/2024/09/the-democrats-the-media-and-would-be-trump-assassin-ryan-routh/#comment-782171)
@@ -234,7 +237,6 @@ Recent Comments
 * Missy B on [MSNBC Anchor Says Trump Should Tone Down Rhetoric After Potential Second Assassination Attempt](https://www.conservativedailynews.com/2024/09/msnbc-anchor-says-trump-should-tone-down-rhetoric-after-potential-second-assassination-attempt/#comment-782143)
 * charles wilkins on [Definition of Insanity](https://www.conservativedailynews.com/2024/09/definition-of-insanity/#comment-782133)
 * charles wilkins on [Harris Asked How She Will Make Life Affordable, Immediately Pivots To Word Salad About Middle Class Upbringing, Lawns](https://www.conservativedailynews.com/2024/09/harris-asked-how-she-will-make-life-affordable-immediately-pivots-to-word-salad-about-middle-class-upbringing-lawns/#comment-782116)
-* charles wilkins on [Victor Davis Hanson Suggests Harris Seeking Second Debate Signals She’s Shaken By ‘Internal Polls’](https://www.conservativedailynews.com/2024/09/victor-davis-hanson-suggests-harris-seeking-second-debate-signals-shes-shaken-by-internal-polls/#comment-782115)
 
 [Close](#)
 
