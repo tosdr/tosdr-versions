@@ -39,9 +39,6 @@
     
     44 Skills
 
-Cookies Info
-============
-
 #### SplashLearn cookie policy and controls
 
 Last updated:
