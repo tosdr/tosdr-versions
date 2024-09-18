@@ -128,39 +128,39 @@ Advertisement
     The Beginning and the End of the Universe
     
     Episode 1: The BeginingEmbarking on a cosmic journey, Professor Jim Al-Khalili transports us through the corridors of time to confront science's most profound inquiry: the genesis of the univers...](https://documentaryheaven.com/the-beginning-and-the-end-of-the-universe/ "The Beginning and the End of the Universe")
-* [![The War On Drugs: The Prison Industrial Complex](/wp-content/thumbnails/958-100x70.gif?x53432)
+* [![National Security Alert](/wp-content/thumbnails/933-100x70.jpg?x53432)
     
-    The War On Drugs: The Prison Industrial Complex
+    National Security Alert
     
-    The war on drugs has been going on for more than three decades. Today, nearly 500,000 Americans are imprisoned on drug charges. In 1980 the number was 50,000. Last year $40 billion in taxpayer dollars...](https://documentaryheaven.com/the-war-on-drugs-the-prison-industrial-complex/ "The War On Drugs: The Prison Industrial Complex")
+    In 2006 Citizen Investigation Team launched an independent investigation into the act of terrorism which took place at the Pentagon on September 11, 2001. This exhaustive three-year inquest involved ...](https://documentaryheaven.com/national-security-alert/ "National Security Alert")
 
 ###### Throwback Documentaries
 
-* [![Hy.poth.e.sis](/wp-content/thumbnails/7070-100x70.jpg?x53432)
+* [![Hitler’s Death Squad](/wp-content/thumbnails/10197-100x70.jpg?x53432)
     
-    Hy.poth.e.sis
+    Hitler’s Death Squad
     
-    Hy.poth.e.sis is a documentary film that follows physics professor Steven E. Jones during a pivotal point in his life. In 2005, Steven went public with a controversial theory regarding the collapse o](https://documentaryheaven.com/hypothesis/ "Hy.poth.e.sis")
-* [![The Story of Science: Can We Have Unlimited Power?](/wp-content/thumbnails/3676)
+    June 6th 1944, D-Day marks a turning point in WWII. Facing the threat of defeat Adolf Hitler orders massive reinforcements to Normandy to drive the Allies back into the sea. Among them was an elite 15](https://documentaryheaven.com/hitlers-death-squad/ "Hitler’s Death Squad")
+* [![Toxic Light Bulb Investigation](/wp-content/thumbnails/7097-100x70.jpg?x53432)
     
-    The Story of Science: Can We Have Unlimited Power?
+    Toxic Light Bulb Investigation
     
-    We are the most power-hungry generation that has ever lived. This film tells the story of how that power has been harnessed – from wind, steam and from inside the atom. In the early years the drive fo](https://documentaryheaven.com/the-story-of-science-can-we-have-unlimited-power/ "The Story of Science: Can We Have Unlimited Power?")
-* [![The World’s Strictest Parents](/wp-content/thumbnails/6291-100x70.jpg?x53432)
+    Compact Fluorescent Bulbs (CFL) save energy and sound great – but is there a hidden danger? Why do they need ‘special’ disposal?Harmful UV rays could be seeping into your home. An exclusive invest](https://documentaryheaven.com/toxic-light-bulb-investigation/ "Toxic Light Bulb Investigation")
+* [![The Killings of the Three Scottish Soldiers](/wp-content/thumbnails/16552-100x70.jpg?x53432)
     
-    The World’s Strictest Parents
+    The Killings of the Three Scottish Soldiers
     
-    Unruly teenagers are sent abroad to live with strict families in an experiment to find out the right way to bring up a child. These series document the journey of unruly teens from different families](https://documentaryheaven.com/the-worlds-strictest-parents/ "The World’s Strictest Parents")
-* [![Living on Mars](/wp-content/thumbnails/4155-100x70.jpg?x53432)
+    For two years the BBC Spotlight team worked on the series The Troubles a Secret History revisiting some of the systemic moments of the troubles in Northern Ireland. Investigating some of the more piv](https://documentaryheaven.com/killings-three-scottish-soldiers/ "The Killings of the Three Scottish Soldiers")
+* [![A Day in The Life of a Dictator](/wp-content/thumbnails/9978-100x70.jpg?x53432)
     
-    Living on Mars
+    A Day in The Life of a Dictator
     
-    The notion of bringing Mars to life – transforming a cold, dry, uninhabitable desert into a living planet – is called terraforming, it has been around for almost a century. Initially just a science fi](https://documentaryheaven.com/living-on-mars/ "Living on Mars")
-* [![The Cola Wars](/wp-content/thumbnails/14516-100x70.jpg?x53432)
+    Have you ever wondered how a dictator actually goes about his daily business? or what it must be like to have the power of life or death over those you control, a figure which can be in the milli](https://documentaryheaven.com/day-in-life-of-dictator/ "A Day in The Life of a Dictator")
+* [![Air Crash Investigations: Ghost Plane](/wp-content/thumbnails/4088-100x70.jpg?x53432)
     
-    The Cola Wars
+    Air Crash Investigations: Ghost Plane
     
-    The soft drink industry is a 100 million dollar juggernaut, the Coca Cola Company and Pepsi Co. control vast empires which reach into practically every corner of the globe. Through huge networks of bo](https://documentaryheaven.com/cola-wars/ "The Cola Wars")
+    Helios Airways Flight 522 departs from Cyprus. As it flies over Greece, air traffic controllers lose radio contact with it. An incorrect setting on the cabin pressurization panel causes the pilots and](https://documentaryheaven.com/air-crash-investigations-ghost-plane/ "Air Crash Investigations: Ghost Plane")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
