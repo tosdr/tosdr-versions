@@ -15,7 +15,7 @@
     * [FAQ Fortbildungsangebote](https://schulportal.hessen.de/fortbildungen/allgemeine-informationen/faq-wochenplan/)
     * [Veranstaltungen Medienbildung](https://schulportal.hessen.de/fortbildungen/fachforum-medienbildung/)
     * [Pädagogische Tage zur Medienbildung](https://schulportal.hessen.de/fortbildungen/paedagogische-tage-zur-medienbildung/)
-    * [Digitale Lernmaterialien](https://schulportal.hessen.de/fortbildungen/videotutorials/)
+    * [Digitale Lernmaterialien](https://schulportal.hessen.de/fortbildungen/digitale-lernmaterialien/)
     * [Angebote der Kooperationspartner](https://schulportal.hessen.de/fortbildungen/kooperationen/)
     * [Wünsche und Anregungen](https://schulportal.hessen.de/fortbildungen/wuensche-und-anregungen/)
 * [Informationen](https://schulportal.hessen.de/informationen-zum-schulportal/)
@@ -35,7 +35,7 @@ Menü
     * [FAQ Fortbildungsangebote](https://schulportal.hessen.de/fortbildungen/allgemeine-informationen/faq-wochenplan/)
     * [Veranstaltungen Medienbildung](https://schulportal.hessen.de/fortbildungen/fachforum-medienbildung/)
     * [Pädagogische Tage zur Medienbildung](https://schulportal.hessen.de/fortbildungen/paedagogische-tage-zur-medienbildung/)
-    * [Digitale Lernmaterialien](https://schulportal.hessen.de/fortbildungen/videotutorials/)
+    * [Digitale Lernmaterialien](https://schulportal.hessen.de/fortbildungen/digitale-lernmaterialien/)
     * [Angebote der Kooperationspartner](https://schulportal.hessen.de/fortbildungen/kooperationen/)
     * [Wünsche und Anregungen](https://schulportal.hessen.de/fortbildungen/wuensche-und-anregungen/)
 * [Informationen](https://schulportal.hessen.de/informationen-zum-schulportal/)
@@ -44,9 +44,6 @@ Menü
     * [Organisation und Struktur](https://schulportal.hessen.de/informationen-zum-schulportal/organisation-und-struktur/)
     * [Gestaltung und Reflexion](https://schulportal.hessen.de/informationen-zum-schulportal/gestaltung-und-reflexion/)
 * [Support](https://schulportal.hessen.de/support/)
-
-Datenschutzerklärung
-====================
 
 Diese Datenschutzerklärung bezieht sich auf die Seite https://schulportal.hessen.de. Die Verantwortliche Stelle im Sinne der Datenschutzgesetze, insbesondere der EU-Datenschutzgrundverordnung (DSGVO), ist:
 
