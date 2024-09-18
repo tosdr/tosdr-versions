@@ -184,15 +184,15 @@ NHPBS inspires one million Granite Staters each month with engaging and trusted 
 
 ###### LATEST VIDEO
 
+* [**Acadia's Beehive** | Windows to the Wild](https://video.nhpbs.org/video/windows-to-the-wild-acadias-beehive?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Trailer** | Hispanic Heritage Awards](https://video.nhpbs.org/video/trailer-fgg5pk?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**at the Met: Madama Butterfly Preview** | Great Performances](https://video.nhpbs.org/video/great-performances-at-the-met-madama-butterfly-preview-y8uuo5?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**Dr. Francis Collins on his new book 'The Road to Wisdom'** | PBS News Hour](https://video.nhpbs.org/video/the-road-to-wisdom-1726608324?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**California Sea Otters: Life on the Edge** | Changing Seas](https://video.nhpbs.org/video/1604-dtgds6?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Solar System: Storm Worlds Preview** | NOVA](https://video.nhpbs.org/video/solar-system-storm-worlds-preview-6zindz?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**September 17, 2024 - full episode** | PBS News Hour](https://video.nhpbs.org/video/september-17-2024-pbs-news-hour-full-episode-1726545601?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**September 17, 2024** | Amanpour and Company](https://video.nhpbs.org/video/september-17-2024-pccjhf?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Episode 2 Preview** | Van der Valk](https://video.nhpbs.org/video/episode-2-preview-0w5rkp?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Episode 2 Preview** | Moonflower Murders](https://video.nhpbs.org/video/episode-2-preview-xr98p7?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**Preview** | Jazz Music Awards 2023](https://video.nhpbs.org/video/preview-4evwgt?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**Silence in Sikeston Love & Grief for a Young, Black Father** | Local, USA](https://video.nhpbs.org/video/local-usa-silence-in-sikeston-love-grief-young-black-father?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 
 **FCC Public File Info**: [WENH](https://publicfiles.fcc.gov/tv-profile/wenh-tv) | [WLED](https://publicfiles.fcc.gov/tv-profile/wled-tv) | [WEKW](https://publicfiles.fcc.gov/tv-profile/wekw-tv) | [EEO Public File Report](https://publicfiles.fcc.gov/tv-profile/wenh-tv/equal-employment-opportunity-records/additional-documents/eeo-public-file-reports/5d0f4964-7b9d-41c3-c658-a55a34730f8a/) | For assistance, please email [themailbox@nhpbs.org](mailto:themailbox@nhpbs.org)
 
