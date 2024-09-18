@@ -23,8 +23,8 @@ Popular Games
 
 Latest game news
 
+* [FREEDOM WARS REMASTERED brings the hit PlayStation Vita action game to PC and consoles, coming january 2025](https://en.bandainamcoent.eu/freedom-wars/news/freedom-wars-remastered-brings-the-hit-playstation-vita-action-game-pc-and)
 * [Secrets of UNKNOWN 9 Revealed – Interview with Producer Thea Danielak](https://en.bandainamcoent.eu/news/secrets-of-unknown-9-revealed-interview-producer-thea-danielak)
-* [Embrace the Fear Together in Little Nightmares 3 – Interview with Producer Coralie Feniello](https://en.bandainamcoent.eu/little-nightmares/news/embrace-the-fear-together-little-nightmares-3-interview-producer-coralie)
 
    ![](/themes/custom/bne_main/images/newsletter/banner-newsletter.jpg?1648764000)
 
