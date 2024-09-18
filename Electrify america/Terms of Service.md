@@ -47,12 +47,12 @@
     
     * [![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAxBAMAAABucDcRAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAtUExURUdwTCg9cCBAcCc7biY6bic6bic7biY7byc8cCc7byc7byc8big6bSc6byc7btF7Y9gAAAAOdFJOUwAiEN9/YO/PQr+fkHCvc5BcWQAAAcZJREFUOMu1VL1Lw1AQv9QE4wcSUBxLBtFBEWtxEh79C6Q6iCAUURcdAroKoiIuheIiWNBS2kkQEQfdxElwKY6KIJRo4+f9DSbv3ctHGwcHQ8jvcr/3u3fv7hKAf7mU+cfi03arf6CES0WGBy1+a3UGIJFnE01x2LLJDY1VIsTsh0lW95IR8qt449u9qRCRew1FTQcSxSKBMudJ9n2i7ZODfmfVPfgKIo0LQOSLL2UiwLIcnhG5MZghv2YLtBD5vuoCER0iqI74LlJ4I6KnzqETkbLeIKIgpG2IdeD7XhFRE4kXEI+qfN9ZIq7LAhDxWyyhs5+J9JhLiDolI4Ti+htGRCFCdbsEFaNAR6/d89OsIJ4Lx20kXUVHqgCcEI6KA3ahbNGkLMkLh3bcgmhJ9IZI8oXeO8fISFi82rl7ek9mZT9qi96zKnvtG9DBW7sm2xNMRpc3PbqcoP6yT0x5jUj44+O3XHX6MOOv2gsGbmodnj/khsOOEQhMzWbEjLCLsCCX0tj3tBs/bx1CSKDaBmgltNNW4wHCAvd2s9o9OT7dgYjAMWO+SSlovn4XlOMFigPxAtjMxAoAht7jBZDYrPz2C/nbH+cH7qiSFAkiOEwAAAAASUVORK5CYII=)
         
-        #### Business solutions
+        #### Business Solutions
         
         Compare tailored electric vehicle charging solutions based on your business needs](https://www.electrifyamerica.com/business-solutions)
     * [![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAxBAMAAABucDcRAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAwUExURUdwTCc7big4cCc7byhAcCc7byc7biBAcCc7big6big8cCg6bSo6cCY9byc6byc7bnEhxIkAAAAPdFJOUwDfIMMgmO8QgGBAcDBQr+dMMTMAAAIjSURBVDjLtVTPaxNREJ5s2L5km9Ythp6EEPwDkhKw0B6yh54EoSAqeFlCBEHB3R4KvZQI7UmQLHjwuNtL9daAregpAaFX68Fe25MXD+2SbEls4zjvJfsrXcGLc3mz8+17M/O9bx7AfzDloFL52bke3zAuKhXD3Z+MZ4xlDSD35uJlPC5Vl0bOF1eLAYfPAe59ek0pPt6Kbah12BYiutsgzUcLKObhuPtq5e4HSkF+aFVHdh3u7Pw2lW4Yz/ZBfzRym4vQtAIgpWb6fN18DBkP1tQAsK3SKi3fsAegH00PA+AOLPDqq1gG+p/V/TjzcvwkCZFOzw5BN336hnKPl4BI+9gLsI98nq7SdAaksQuE/IBSawzI5zd47gZ2eaqmJr64pdUG59RGHPBFS50GQIkDOqLAO6nyGJhVxWYDBRltLQDkc+5Kn1HQ9xCCHNM9+SlfUBB+E776VSmXyiVPJfhSBmA7fud1mKNmG6ujSuAs5Mo8oeCOYKJtUe++7bVmqYNt7ubqkB0EwFSZFVogUu/m6XZCUf2C256QzTqpZy+UFr+BpvcO2HuDbnguoiy6ZknHWgGXhABCS1GD7Pv9B2+5lNSo0r3Q162oFHUn6R+ytXxElLGpCeR35sTnoD2mOtOfGBx5zMPJ6QTAqoKRXM2cnLXik4TUo9khJqR57frYHtLPxauEOZ9xNalgJb0Adr44SHwasm7yBoDjZ395TZj5L2/OH9EWoIPpTUIQAAAAAElFTkSuQmCC)
         
-        #### Become a site host
+        #### Host a Charging Station at Your Business
         
         Work with us to potentially host an Electrify America charging station](https://www.electrifyamerica.com/real-estate)
     
