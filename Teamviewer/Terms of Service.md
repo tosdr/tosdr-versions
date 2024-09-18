@@ -1001,7 +1001,7 @@ For the rest, it is agreed that the regulations on limitation of liability from 
 
 [Download DPA](https://teamviewer.scene7.com/is/content/teamviewergmbh/teamviewer/central-image-hub/pdf/en/teamviewer-dpa-en.pdf)
 
-[![TeamViewer Logo](https://s7g10.scene7.com/is/content/teamviewergmbh/TeamViewer-Logo-light-1?dpr=off)](https://www.teamviewer.com/)
+[![TeamViewer logo](https://teamviewer.scene7.com/is/content/teamviewergmbh/logo-teamviewer-white?dpr=off)](https://www.teamviewer.com/)
 
 Please choose your region
 -------------------------
