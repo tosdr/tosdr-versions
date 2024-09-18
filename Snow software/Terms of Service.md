@@ -296,6 +296,7 @@ Footer Menu
         * [Leadership](https://www.flexera.com/about-us/leadership)
         * [Contact us](https://www.flexera.com/about-us/contact-us)
         * [Media / press center](https://www.flexera.com/about-us/press-center)
+        * [Revenera.com](https://www.revenera.com/)
 
 [+1.800.374.4353](tel:infoModel.phoneLink)
 
