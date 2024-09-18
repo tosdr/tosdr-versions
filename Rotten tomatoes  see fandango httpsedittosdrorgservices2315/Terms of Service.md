@@ -17,6 +17,7 @@ Offers
 
 Go to previous offer
 
+*  ![offer icon](https://images.fandango.com/cms/assets/95b0efd0-c6e7-11ee-a14e-3f3f55d13640--ticket-icon.svg) **It's Apple Pay Wednesday!** Use Apple Pay to get $5 off your order
 *  ![offer icon](https://images.fandango.com/cms/assets/95b0efd0-c6e7-11ee-a14e-3f3f55d13640--ticket-icon.svg) **Save over 50% on Transformers Double Feature!** When you buy a ticket to Transformers One
 *  ![offer icon](https://images.fandango.com/cms/assets/95b0efd0-c6e7-11ee-a14e-3f3f55d13640--ticket-icon.svg) **Gift, Give or Receive a ticket to The Forge** With The Kingdom Builders Gifted Ticket Program
 *  [![offer icon](https://images.fandango.com/cms/assets/64a40e40-5e81-11ef-a07e-5b03d6159fe4--rt-icon.svg) **New Audience Score Badge Unveiled: Verified Hot** Check out the first Verified Hot movies!](https://editorial.rottentomatoes.com/article/verified-hot-celebrating-the-best-verified-rated-films-by-fans/?cmp=TARS~FANDANGO~Verified%20Hot_GlobalNav)
@@ -24,7 +25,6 @@ Go to previous offer
 *  ![offer icon](https://images.fandango.com/cms/assets/c5928c80-ca9f-11ed-9577-b524031771c2--gift-icon-svg.svg) **Ryan's World the Movie: Hero Bundle** Get two tickets, a mystery toy, and more!
 *  [![offer icon](https://images.fandango.com/cms/assets/95b0efd0-c6e7-11ee-a14e-3f3f55d13640--ticket-icon.svg) **Rediscover the magic of Hogwarts!** Get tickets at a theater near you](https://www.fandango.com/movie-news/return-to-the-magic-of-hogwarts-in-theaters-755159?cmp=TARS~FANDANGO~Back_To_Hogwarts_GlobalNav)
 *  ![offer icon](https://images.fandango.com/cms/assets/95b0efd0-c6e7-11ee-a14e-3f3f55d13640--ticket-icon.svg) **Buy select titles on Fandango at Home** Get $5 off Transformers One on Fandango!
-*  ![offer icon](https://images.fandango.com/cms/assets/95b0efd0-c6e7-11ee-a14e-3f3f55d13640--ticket-icon.svg) **It's Apple Pay Wednesday!** Use Apple Pay to get $5 off your order
 
 Go to next offer
 
@@ -187,6 +187,16 @@ New & Coming soon
 
 © 2024 Fandango
 
+### Apple Pay Wednesday
+
+Close
+
+![It's Apple Pay Wednesday!](https://images.fandango.com/cms/assets/0c469580-722a-11ef-ab6e-6bc4e16d49df--fan-globalnavbar-applepay-week11-tickets-343x362.png)
+
+#### Today only! Save $5 off your order with Apple Pay.
+
+Limited time offer, and limited quantities available. To redeem the offer, purchase one or more movie tickets on Wednesday 9/18/2024, to see any film through Fandango.com or the Fandango iOS mobile app and use Apple Pay®️ as the payment method, and enter the Fandango Promotional Code APPLEPAYWED (“Code”) in order to get the $5 off the entire purchase. There is a limited quantity of Code redemptions allowed in this promotion and therefore the offer is only available first come first served while supplies last. Code expires, and can no longer be used, upon earlier of Wednesday 9/18/2024, or after the limit of Code redemptions have been reached. Only valid for purchase of movie tickets made at Fandango.com or via the Fandango iOS app and cannot be redeemed directly at any theater box office. If lost or stolen, cannot be replaced. No cash value, except as required by law. Void where prohibited. Not valid with any other offer. Offer valid in U.S. One-time use only per email address, for a maximum of one transaction, receiving a maximum of one $5 discount on the purchase total regardless of how many tickets were purchased in that one transaction. Not for resale; void if sold or exchanged. Limit 1 Code per email address. Fandango reserves the right to modify or cancel this offer at any time and without notice. The redemption of the Code is subject to Fandango’s Terms and Policies at www.fandango.com/terms-and-policies. Apple Pay is a registered mark of Apple Inc. [Buy Tickets](https://www.fandango.com/redirect.aspx?source=mlp&promo=applepaywed&cmp=TARS~FANDANGO~Fandango_globalnav~applepaywednesday~TLP)
+
 ### Special Offer
 
 Close
@@ -250,13 +260,3 @@ Close
 #### Save on select movies and get up to $5.00 towards a movie ticket\* to see Transformers One in theaters.
 
 \*Purchase any of the titles (in any format) listed at https://www.vudu.com/content/movies/uxrow/collection/22178 on Fandango at Home or via participating Fandango at Home apps between 12:01 am PT on 8/27/2024 and 11:59 pm PT on 9/23/2024 and receive a Fandango Promotional Code ("Code") good towards the purchase of one movie ticket (up to $5 total ticket price and associated fees and charges) to see Transformers One at Fandango partner theaters in the US. Code is void if not redeemed by 10/7/24 or when Transformers One is no longer in theaters, whichever comes first. Only valid for purchase of movie tickets made at Fandango.com or via the Fandango app and cannot be redeemed directly at any theater box office. If lost or stolen, cannot be replaced. No cash value, except as required by law. Void where prohibited. Not valid with any other offer. Offer valid in U.S. and D.C., excluding U.S. territories and where prohibited by law. One-time use only. Not for resale; void if sold or exchanged. One Code per transaction. If cost of movie ticket and associated fees and charges are more than maximum value of the Code, then user must pay the difference. Any price difference between movie ticket purchased and maximum value of the Code will not be refunded. The redemption of the Code is subject to Fandango's Terms and Policies at https://www.fandango.com/policies/terms-and-policies. [Learn More](https://www.watchfandangoathome.com/transformersone/?cmp=TARS~FANDANGO~RewardsT1Promo_GlobalNav)
-
-### Apple Pay Wednesday
-
-Close
-
-![It's Apple Pay Wednesday!](https://images.fandango.com/cms/assets/0c469580-722a-11ef-ab6e-6bc4e16d49df--fan-globalnavbar-applepay-week11-tickets-343x362.png)
-
-#### Today only! Save $5 off your order with Apple Pay.
-
-Limited time offer, and limited quantities available. To redeem the offer, purchase one or more movie tickets on Wednesday 9/18/2024, to see any film through Fandango.com or the Fandango iOS mobile app and use Apple Pay®️ as the payment method, and enter the Fandango Promotional Code APPLEPAYWED (“Code”) in order to get the $5 off the entire purchase. There is a limited quantity of Code redemptions allowed in this promotion and therefore the offer is only available first come first served while supplies last. Code expires, and can no longer be used, upon earlier of Wednesday 9/18/2024, or after the limit of Code redemptions have been reached. Only valid for purchase of movie tickets made at Fandango.com or via the Fandango iOS app and cannot be redeemed directly at any theater box office. If lost or stolen, cannot be replaced. No cash value, except as required by law. Void where prohibited. Not valid with any other offer. Offer valid in U.S. One-time use only per email address, for a maximum of one transaction, receiving a maximum of one $5 discount on the purchase total regardless of how many tickets were purchased in that one transaction. Not for resale; void if sold or exchanged. Limit 1 Code per email address. Fandango reserves the right to modify or cancel this offer at any time and without notice. The redemption of the Code is subject to Fandango’s Terms and Policies at www.fandango.com/terms-and-policies. Apple Pay is a registered mark of Apple Inc. [Buy Tickets](https://www.fandango.com/redirect.aspx?source=mlp&promo=applepaywed&cmp=TARS~FANDANGO~Fandango_globalnav~applepaywednesday~TLP)
