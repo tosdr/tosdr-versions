@@ -200,6 +200,11 @@ This document was last updated on January 1, 2014
 
 #### Defense News
 
+* [Marines reopen second WWII-era airfield to prep for future combat](https://www.defensenews.com/air/2024/09/18/marines-reopen-second-wwii-era-airfield-to-prep-for-future-combat/)  
+    09/18/24 10:25am  
+    
+    A Marine looks out of an MV-22 Osprey aircraft over Marine Corps Air Station New River, North Carolina. (Cpl. Alexander Mitchell/Marine Corps)
+    
 * [US special ops cuts armed overwatch buy, still needs to justify need](https://www.defensenews.com/air/2024/09/18/us-special-ops-cuts-armed-overwatch-buy-still-needs-to-justify-need/)  
     09/18/24 08:00am  
     
@@ -214,11 +219,6 @@ This document was last updated on January 1, 2014
     09/17/24 04:06pm  
     
     The Naval Strike Missile can launch from both land- and sea-based platforms. Norway's Kongsberg plans to build these and the Joint Strike Missile in a new Virgnia production facility. (Photo courtesy of Kongsberg Defence and Aerospace)
-    
-* [New Navy contracts boost battle command, electronic warfare potential](https://www.defensenews.com/air/2024/09/17/new-navy-contracts-boost-battle-command-electronic-warfare-potential/)  
-    09/17/24 03:48pm  
-    
-    E-2D Advanced Hawkeye aircraft conduct a test flight near St. Augustine, Florida. (Courtesy of Northrup Grumman)
     
 
 Recent parts by keyword  
