@@ -29,11 +29,8 @@ Understanding Fingerprint
 -------------------------
 
 * [Introduction](https://dev.fingerprintjs.com/docs/introduction)
-* [How Fingerprint works](https://dev.fingerprintjs.com/docs/what-is-fingerprint)
-    * [Fingerprint Identification vs FingerprintJS](https://dev.fingerprintjs.com/docs/identification-vs-fingerprintjs)
-    * [Understanding your confidence score](https://dev.fingerprintjs.com/docs/understanding-your-confidence-score-v11)
-    * [Understanding our 99.5% accuracy](https://dev.fingerprintjs.com/docs/understanding-our-995-accuracy)
-    * [Multiple domain tracking](https://dev.fingerprintjs.com/docs/multiple-domain-tracking)
+* [Identification accuracy and confidence](https://dev.fingerprintjs.com/docs/identification-accuracy-and-confidence)
+* [Privacy and compliance](https://dev.fingerprintjs.com/docs/privacy-and-compliance)
 * [Regions and data retention](https://dev.fingerprintjs.com/docs/regions)
 * [Browser and device support](https://dev.fingerprintjs.com/docs/browser-and-device-support)
 * [Billing and account limits explained](https://dev.fingerprintjs.com/docs/billing)
