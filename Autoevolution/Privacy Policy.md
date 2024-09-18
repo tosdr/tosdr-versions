@@ -39,9 +39,9 @@ editorial \_
 
 coverstory \_
 
-[![The Mondo Is a Remarkably Spacious and Cozy Tiny Home for Couples Looking To Downsize](https://s1.cdn.autoevolution.com/images/news/the-mondo-is-a-remarkably-spacious-and-cozy-tiny-home-for-couples-looking-to-downsize-239916-5.jpg "The Mondo Is a Remarkably Spacious and Cozy Tiny Home for Couples Looking To Downsize")
+[![Forgotten Since 1994, the First-Ever Twin-Turbo Car Gets a New Chance, It's a Low-Mile Gem](https://s1.cdn.autoevolution.com/images/news/forgotten-since-1994-the-first-ever-twin-turbo-car-gets-a-new-chance-it-s-a-low-mile-gem-239926-5.jpg "Forgotten Since 1994, the First-Ever Twin-Turbo Car Gets a New Chance, It's a Low-Mile Gem")
 
-The Mondo Is a Remarkably Spacious and Cozy Tiny Home for Couples Looking To Downsize](https://www.autoevolution.com/news/the-mondo-is-a-remarkably-spacious-and-cozy-tiny-home-for-couples-looking-to-downsize-239916.html)
+Forgotten Since 1994, the First-Ever Twin-Turbo Car Gets a New Chance, It's a Low-Mile Gem](https://www.autoevolution.com/news/forgotten-since-1994-the-first-ever-twin-turbo-car-gets-a-new-chance-it-s-a-low-mile-gem-239926.html)
 
 how-to \_
 
