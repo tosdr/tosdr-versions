@@ -129,50 +129,50 @@ More than 1,000 businesses operate more efficiently with us.
 
 Terri Winfield
 
-![valued client Website Café (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=4081&file=logo_300_100&type=&fe=c91f2bbdf983795400a4d9bcfc8ff1d0a618343b0c5f687b99fbf3d736d08c1a&c=87128369)  
-Website Café (PTY) LTD
+![valued client SLOANE STAR MEAT MARKET](https://www.invoicesonline.co.za/scripts/image.php?bid=1748&file=logo_300_100&type=&fe=4333e59bb22e9152fe6638cb16027070920b66bf8faea5029b11f588b8dfe0c7&c=108139252)  
+SLOANE STAR MEAT MARKET
 
-![valued client Glass and Allied Industries](https://www.invoicesonline.co.za/scripts/image.php?bid=1634&file=logo_300_100&type=&fe=c91f2bbdf983795400a4d9bcfc8ff1d0a618343b0c5f687b99fbf3d736d08c1a&c=70534386)  
-Glass and Allied Industries
+![valued client Moremi Kitchens Rustenburg ](https://www.invoicesonline.co.za/scripts/image.php?bid=6362&file=logo_300_100&type=&fe=4333e59bb22e9152fe6638cb16027070920b66bf8faea5029b11f588b8dfe0c7&c=119790482)  
+Moremi Kitchens Rustenburg
 
-![valued client Myfinance-Online](https://www.invoicesonline.co.za/scripts/image.php?bid=7&file=logo_300_100&type=&fe=c91f2bbdf983795400a4d9bcfc8ff1d0a618343b0c5f687b99fbf3d736d08c1a&c=20437551)  
-Myfinance-Online
+![valued client Sarabi ](https://www.invoicesonline.co.za/scripts/image.php?bid=5430&file=logo_300_100&type=&fe=4333e59bb22e9152fe6638cb16027070920b66bf8faea5029b11f588b8dfe0c7&c=105495441)  
+Sarabi
 
-![valued client African Roots](https://www.invoicesonline.co.za/scripts/image.php?bid=1000&file=logo_300_100&type=&fe=c91f2bbdf983795400a4d9bcfc8ff1d0a618343b0c5f687b99fbf3d736d08c1a&c=166055500)  
-African Roots
+![valued client Echo Recording Studio cc](https://www.invoicesonline.co.za/scripts/image.php?bid=225&file=logo_300_100&type=&fe=4333e59bb22e9152fe6638cb16027070920b66bf8faea5029b11f588b8dfe0c7&c=87278365)  
+Echo Recording Studio cc
 
-![valued client webb it services](https://www.invoicesonline.co.za/scripts/image.php?bid=7007&file=logo_300_100&type=&fe=c91f2bbdf983795400a4d9bcfc8ff1d0a618343b0c5f687b99fbf3d736d08c1a&c=37105573)  
-webb it services
+![valued client J.M. HUMAN RESOURCES](https://www.invoicesonline.co.za/scripts/image.php?bid=4626&file=logo_300_100&type=&fe=4333e59bb22e9152fe6638cb16027070920b66bf8faea5029b11f588b8dfe0c7&c=4637405)  
+J.M. HUMAN RESOURCES
 
-![valued client Brand's Fountains Deco and Events Coordinatoin ](https://www.invoicesonline.co.za/scripts/image.php?bid=6303&file=logo_300_100&type=&fe=c91f2bbdf983795400a4d9bcfc8ff1d0a618343b0c5f687b99fbf3d736d08c1a&c=126411483)  
-Brand's Fountains Deco and Events Coordinatoin
+![valued client VIR Electrical (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=7991&file=logo_300_100&type=&fe=4333e59bb22e9152fe6638cb16027070920b66bf8faea5029b11f588b8dfe0c7&c=130396906)  
+VIR Electrical (PTY) LTD
 
-![valued client Import Maaw](https://www.invoicesonline.co.za/scripts/image.php?bid=6159&file=logo_300_100&type=&fe=c91f2bbdf983795400a4d9bcfc8ff1d0a618343b0c5f687b99fbf3d736d08c1a&c=196204893)  
+![valued client BEE SURE CONSULTING (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8110&file=logo_300_100&type=&fe=4333e59bb22e9152fe6638cb16027070920b66bf8faea5029b11f588b8dfe0c7&c=158207025)  
+BEE SURE CONSULTING (PTY) LTD
+
+![valued client Import Maaw](https://www.invoicesonline.co.za/scripts/image.php?bid=6159&file=logo_300_100&type=&fe=4333e59bb22e9152fe6638cb16027070920b66bf8faea5029b11f588b8dfe0c7&c=149956648)  
 Import Maaw
 
-![valued client UniTech Solutions Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8063&file=logo_300_100&type=&fe=c91f2bbdf983795400a4d9bcfc8ff1d0a618343b0c5f687b99fbf3d736d08c1a&c=190577043)  
-UniTech Solutions Pty Ltd
+![valued client Peter Salvage Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7407&file=logo_300_100&type=&fe=4333e59bb22e9152fe6638cb16027070920b66bf8faea5029b11f588b8dfe0c7&c=73640437)  
+Peter Salvage Pty Ltd
 
-![valued client Depot Diesel (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6813&file=logo_300_100&type=&fe=c91f2bbdf983795400a4d9bcfc8ff1d0a618343b0c5f687b99fbf3d736d08c1a&c=77199337)  
-Depot Diesel (Pty) Ltd
+![valued client PROGRAPHIX PTY LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8509&file=logo_300_100&type=&fe=4333e59bb22e9152fe6638cb16027070920b66bf8faea5029b11f588b8dfe0c7&c=192937123)  
+PROGRAPHIX PTY LTD
 
-![valued client SafeTclip](https://www.invoicesonline.co.za/scripts/image.php?bid=8368&file=logo_300_100&type=&fe=c91f2bbdf983795400a4d9bcfc8ff1d0a618343b0c5f687b99fbf3d736d08c1a&c=99959160)  
-SafeTclip
+![valued client Lindani Protection Services & Projects](https://www.invoicesonline.co.za/scripts/image.php?bid=8265&file=logo_300_100&type=&fe=4333e59bb22e9152fe6638cb16027070920b66bf8faea5029b11f588b8dfe0c7&c=209014406)  
+Lindani Protection Services & Projects
 
-![valued client AquariumSmiths](https://www.invoicesonline.co.za/scripts/image.php?bid=7183&file=logo_300_100&type=&fe=c91f2bbdf983795400a4d9bcfc8ff1d0a618343b0c5f687b99fbf3d736d08c1a&c=126757486)  
-AquariumSmiths
+![valued client ARCHITEK PTY LTD ](https://www.invoicesonline.co.za/scripts/image.php?bid=8208&file=logo_300_100&type=&fe=4333e59bb22e9152fe6638cb16027070920b66bf8faea5029b11f588b8dfe0c7&c=178870042)  
+ARCHITEK PTY LTD
 
-![valued client Lily Fern & Co](https://www.invoicesonline.co.za/scripts/image.php?bid=7678&file=logo_300_100&type=&fe=c91f2bbdf983795400a4d9bcfc8ff1d0a618343b0c5f687b99fbf3d736d08c1a&c=8821095)  
-Lily Fern & Co
+![valued client Kaylas Creations](https://www.invoicesonline.co.za/scripts/image.php?bid=7957&file=logo_300_100&type=&fe=4333e59bb22e9152fe6638cb16027070920b66bf8faea5029b11f588b8dfe0c7&c=7753250)  
+Kaylas Creations
 
-![valued client SR Travel Services](https://www.invoicesonline.co.za/scripts/image.php?bid=7537&file=logo_300_100&type=&fe=c91f2bbdf983795400a4d9bcfc8ff1d0a618343b0c5f687b99fbf3d736d08c1a&c=31694331)  
-SR Travel Services
+![valued client Little Nutty Professors](https://www.invoicesonline.co.za/scripts/image.php?bid=4826&file=logo_300_100&type=&fe=4333e59bb22e9152fe6638cb16027070920b66bf8faea5029b11f588b8dfe0c7&c=205439071)  
+Little Nutty Professors
 
-![valued client Xpress Designs](https://www.invoicesonline.co.za/scripts/image.php?bid=6143&file=logo_300_100&type=&fe=c91f2bbdf983795400a4d9bcfc8ff1d0a618343b0c5f687b99fbf3d736d08c1a&c=7224473)  
-Xpress Designs
-
-![valued client UMVIKELI PRIVATE SECURITY](https://www.invoicesonline.co.za/scripts/image.php?bid=7357&file=logo_300_100&type=&fe=c91f2bbdf983795400a4d9bcfc8ff1d0a618343b0c5f687b99fbf3d736d08c1a&c=93067697)  
-UMVIKELI PRIVATE SECURITY
+![valued client NEW BEGINNINGS DESIGNS](https://www.invoicesonline.co.za/scripts/image.php?bid=8177&file=logo_300_100&type=&fe=4333e59bb22e9152fe6638cb16027070920b66bf8faea5029b11f588b8dfe0c7&c=85929410)  
+NEW BEGINNINGS DESIGNS
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
