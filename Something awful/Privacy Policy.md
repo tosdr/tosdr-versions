@@ -205,25 +205,24 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [DickFlash.com](https://www.somethingawful.com/weekend-web/flashing-forum/1/)
-* [AOL Search Log Special, Part 2](https://www.somethingawful.com/weekend-web/aol-search-log-2/1/)
-* [SEA OF DOGS](https://www.somethingawful.com/news/sea-dog-classifieds/)
-* [Best Names For Boats II](https://www.somethingawful.com/news/funny-boat-names/)
-* [Let's Protest!](https://www.somethingawful.com/comedy-goldmine/lets-protest-offensive/1/)
+* [Profiles in Scourging II: Scourge Harder](https://www.somethingawful.com/news/wright-osama-buchanan/1/)
+* [Edges2Cats! \[And Shoes, And Facades, And Handbags...\]](https://www.somethingawful.com/photoshop-phriday/pix2pix-generated-images/)
+* [Yahoo Answers, Colbert Nation, and Christian Teen Forum](https://www.somethingawful.com/weekend-web/answers-colbert-christians/1/)
+* [Cutelette 2: CUT3L3TT3](https://www.somethingawful.com/flash-tub/cutelette-2-cartoon/)
+* [Apple's Last Great Computer: The Plastic MacBook](https://www.somethingawful.com/news/macbook-plastic-apple/)
 
 ### Popular Threads
 
-* ![](https://fi.somethingawful.com/forums/posticons/lan-europe.gif) [Harry Potter is just British Naruto](http://forums.somethingawful.com/showthread.php?threadid=4070542 "Harry Potter is just British Naruto")
-* ![](https://fi.somethingawful.com/forums/posticons/byob-grumpy.gif) [What's it like being on an extremely long flight?](http://forums.somethingawful.com/showthread.php?threadid=4070540 "What's it like being on an extremely long flight?")
-* ![](https://fi.somethingawful.com/forums/posticons/cspam-yeshahahayes.gif) [Diddy was arrested by the feds](http://forums.somethingawful.com/showthread.php?threadid=4070546 "Diddy was arrested by the feds")
+* ![](https://fi.somethingawful.com/forums/posticons/LF-article.gif) [Jazzed on this sick ass test I saw advertised on youtube](http://forums.somethingawful.com/showthread.php?threadid=4070606 "Jazzed on this sick ass test I saw advertised on youtube")
+* ![](https://fi.somethingawful.com/forums/posticons/byob-grumpy.gif) [Whats it like being in an extremely long fight?](http://forums.somethingawful.com/showthread.php?threadid=4070598 "Whats it like being in an extremely long fight?")
 
 ### Random Articles
 
-* [EXCLUSIVE: A More Deeper Look at the PlayStation 5](https://www.somethingawful.com/news/playstation-plstnffffive-console/)
-* [Monumental Mishaps](https://www.somethingawful.com/photoshop-phriday/monumental-mishaps/1/)
-* [Groomed to Kill: Beards and Moustaches of Fury](https://www.somethingawful.com/news/groomed-kill-beards/)
-* [Terrible God Damn Comic Book Movies: Days of Future Past](https://www.somethingawful.com/news/future-comicbook-movies/1/)
-* [My ePenis is Bigger Than Your ePenis](https://www.somethingawful.com/news/my-epenis-bigger/)
+* [TruthMedia Review: Star Wars Episode Two: Attack of The Clones](https://www.somethingawful.com/truth-media-reviews/truthmedia-review-star/)
+* [Blue Stripe: The Life and Times of a Replicator Repairman](https://www.somethingawful.com/news/blue-stripe-life/)
+* [Duke Nukem Forever Will Turn You into a Stripper](https://www.somethingawful.com/feature-articles/duke-nukem-stripper/)
+* [A Message From Toad](https://www.somethingawful.com/video-game-article/toad-president-message/)
+* [State Og Update: 12.04.04](https://www.somethingawful.com/state-og/state-og-update-92/)
 
 [Random!](https://www.somethingawful.com/random/)
 
