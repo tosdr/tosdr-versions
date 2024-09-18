@@ -223,6 +223,16 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
     
     [https://mgml.si/sl/mestni-muzej](https://mgml.si/sl/mestni-muzej)
     
+    [10:00 Ritam francuske kulture 2024](javascript:void(0);)
+    
+    **19.04.2024 | 10:00**
+    
+    **RITAM FRANCUSKE KULTURE 2024** (18.4.-8.12.2024.)
+    
+    [**PROGRAM**](https://www.institutfrancais.rs/ritam-francuske-kulture/)
+    
+    [http://www.institutfrancais.rs](http://www.institutfrancais.rs/)
+    
     [10:00 Neopaženo ob cesti. Grafična tehnika Marjana Pogačnika, LJ](javascript:void(0);)
     
     **19.04.2024 | 10:00**
@@ -234,16 +244,6 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
     avtorji razstave: Tina Buh, Admir Ganić, Andrej Smrekar
     
     [https://www.ng-slo.si/si](https://www.ng-slo.si/si)
-    
-    [10:00 Ritam francuske kulture 2024](javascript:void(0);)
-    
-    **19.04.2024 | 10:00**
-    
-    **RITAM FRANCUSKE KULTURE 2024** (18.4.-8.12.2024.)
-    
-    [**PROGRAM**](https://www.institutfrancais.rs/ritam-francuske-kulture/)
-    
-    [http://www.institutfrancais.rs](http://www.institutfrancais.rs/)
     
     [10:00 Tisja Kljaković Braić, ZG](javascript:void(0);)
     
@@ -322,11 +322,11 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 
 [Galerija umetnika](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")[](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/dragan-ilic/people-i-dont-no-20-something/people-i-dont-houston/hjuston.jpg?itok=doHPNdww)](http://seecult.org/galerija/galerija-umetnika/dragan-ilic/people-i-dont-no-20-something/people-i-dont-houston)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/tatjana-ilic/pticu-nosim-zbog-umetnickog-rada/slika-11.jpg?itok=HxqI1Ga9)](http://seecult.org/galerija/galerija-umetnika/tatjana-ilic/pticu-nosim-zbog-umetnickog-rada)
 
 [Foto galerija](http://seecult.org/galerija/foto-galerija "Foto galerija")[](http://seecult.org/galerija/foto-galerija "Foto galerija")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/digitalizacija/jugoslovenska-kinoteka/kinoteka-digi7.jpg?itok=WiC1IVZE)](http://seecult.org/galerija/foto-galerija/digitalizacija/jugoslovenska-kinoteka)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/laurie-anderson-skoplje/lori6.jpg?itok=PXGG1Dnf)](http://seecult.org/galerija/foto-galerija/foto-arhiva/laurie-anderson-skoplje)
 
 * [Najčitanije](#news_1)
 * [Najnovije](#news_2)
@@ -342,6 +342,8 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 * [Preminula Jasna Tijardović Popović](http://seecult.org/vest/preminula-jasna-tijardovic-popovic)
 * [Najuži izbor za NIN-ovu nagradu za 2022.](http://seecult.org/vest/najuzi-izbor-za-nin-ovu-nagradu-za-2022)
 
+* [Povelja Zmajevih dečjih igara Jasminki Petrović](http://seecult.org/vest/povelja-zmajevih-decjih-igara-jasminki-petrovic)
+* [40 godina Zvezdara teatra - slobodnog pozorišta](http://seecult.org/vest/40-godina-zvezdara-teatra-slobodnog-pozorista)
 * [Urban režira Majstora i Margaritu](http://seecult.org/vest/urban-rezira-majstora-i-margaritu)
 * [Mateja Nikolić dobitnik nagrade Neda Depolo](http://seecult.org/vest/mateja-nikolic-dobitnik-nagrade-neda-depolo)
 * [Obnova Sremskih Karlovaca](http://seecult.org/vest/obnova-sremskih-karlovaca)
@@ -350,8 +352,6 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 * [Sudbina pojedinca u fokusu revije rumunskog filma](http://seecult.org/vest/sudbina-pojedinca-u-fokusu-revije-rumunskog-filma)
 * [Pomereni redosled Iljovskog u Legatu Čolaković](http://seecult.org/vest/pomereni-redosled-iljovskog-u-legatu-colakovic)
 * [Kuznjecova gošća EUPL festa](http://seecult.org/vest/kuznjecova-gosca-eupl-festa)
-* [Pripreme za 32. Memorijal Nadežde Petrović](http://seecult.org/vest/pripreme-za-32-memorijal-nadezde-petrovic)
-* [Sećanje na Jagoša Markovića](http://seecult.org/vest/secanje-na-jagosa-markovica)
 
 * [Konkursi](#tab1_1)
 
