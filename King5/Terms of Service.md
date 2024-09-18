@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/25f10a5b-9913-4f62-be92-5fbbedc05294/20240917T134919/25f10a5b-9913-4f62-be92-5fbbedc05294_16x9.jpg) ![](https://media.king5.com/assets/KING/images/25f10a5b-9913-4f62-be92-5fbbedc05294/20240917T134919/25f10a5b-9913-4f62-be92-5fbbedc05294_360x203.jpg)](https://www.king5.com/article/news/local/washington-states-cannabis-industry-federal-reclassification/281-76dc062c-3242-4e6e-8b5a-fde4eb179053)
+    *  [![](https://media.king5.com/assets/KING/images/4c085f15-2c2d-4d1b-ab05-6c4c8641eea8/20240814T200232/4c085f15-2c2d-4d1b-ab05-6c4c8641eea8_16x9.jpg) ![](https://media.king5.com/assets/KING/images/4c085f15-2c2d-4d1b-ab05-6c4c8641eea8/20240814T200232/4c085f15-2c2d-4d1b-ab05-6c4c8641eea8_360x203.jpg)](https://www.king5.com/article/news/local/seattle/soda-soap-ordinance-stay-out-of-drug-area-of-prostitution-zones-seattle/281-073e3777-63a6-46bd-a7d8-41f870b9a539)
         
-        #### [Washington state's cannabis industry braces for change as federal reclassification considered](https://www.king5.com/article/news/local/washington-states-cannabis-industry-federal-reclassification/281-76dc062c-3242-4e6e-8b5a-fde4eb179053)
+        #### [Seattle City Council approves 'stay out' zones for people with drug, prostitution arrests](https://www.king5.com/article/news/local/seattle/soda-soap-ordinance-stay-out-of-drug-area-of-prostitution-zones-seattle/281-073e3777-63a6-46bd-a7d8-41f870b9a539)
         
-    *  [![](https://media.king5.com/assets/KING/images/8f39f47d-c742-4172-bb68-ec22b2f9c220/20240918T012641/8f39f47d-c742-4172-bb68-ec22b2f9c220_16x9.jpg) ![](https://media.king5.com/assets/KING/images/8f39f47d-c742-4172-bb68-ec22b2f9c220/20240918T012641/8f39f47d-c742-4172-bb68-ec22b2f9c220_360x203.jpg)](https://www.king5.com/article/news/local/new-amazon-return-to-office-policy-impact-traffic/281-82610b81-843f-41f2-a68c-8ee834247e57)
+    *  [![](https://media.king5.com/assets/KING/images/7ca14c3e-a088-44a5-9c62-1682a2950de6/20240918T040930/7ca14c3e-a088-44a5-9c62-1682a2950de6_16x9.jpg) ![](https://media.king5.com/assets/KING/images/7ca14c3e-a088-44a5-9c62-1682a2950de6/20240918T040930/7ca14c3e-a088-44a5-9c62-1682a2950de6_360x203.jpg)](https://www.king5.com/article/news/local/washington-couple-dies-vacation-maui/281-26f74114-5bf3-47b5-85f4-c84f9df5f76b)
         
-        #### [New Amazon return-to-office policy expected to impact traffic](https://www.king5.com/article/news/local/new-amazon-return-to-office-policy-impact-traffic/281-82610b81-843f-41f2-a68c-8ee834247e57)
+        #### [Washington couple dies while on vacation in Maui](https://www.king5.com/article/news/local/washington-couple-dies-vacation-maui/281-26f74114-5bf3-47b5-85f4-c84f9df5f76b)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -56,13 +56,13 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.king5.com/assets/CCT/images/e52e645e-0b91-4f26-ba6f-40ba70997361/20240917T114315/e52e645e-0b91-4f26-ba6f-40ba70997361_16x9.jpg) ![](https://media.king5.com/assets/CCT/images/e52e645e-0b91-4f26-ba6f-40ba70997361/20240917T114315/e52e645e-0b91-4f26-ba6f-40ba70997361_360x203.jpg)](https://www.king5.com/article/news/nation-world/september-2024-full-moon-harvest-moon-partial-eclipse-supermoon-time/507-d36e7dcc-254f-4a7b-852b-640017b8e713)
-        
-        #### [What time is Tuesday's partial lunar eclipse?](https://www.king5.com/article/news/nation-world/september-2024-full-moon-harvest-moon-partial-eclipse-supermoon-time/507-d36e7dcc-254f-4a7b-852b-640017b8e713)
-        
     *  [![](https://media.king5.com/assets/KING/images/5de6f6f7-77fe-47ac-937a-f17e56b420d6/20240918T011819/5de6f6f7-77fe-47ac-937a-f17e56b420d6_16x9.jpg) ![](https://media.king5.com/assets/KING/images/5de6f6f7-77fe-47ac-937a-f17e56b420d6/20240918T011819/5de6f6f7-77fe-47ac-937a-f17e56b420d6_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
         #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
+        
+    *  [![](https://media.king5.com/assets/CCT/images/e52e645e-0b91-4f26-ba6f-40ba70997361/20240917T114315/e52e645e-0b91-4f26-ba6f-40ba70997361_16x9.jpg) ![](https://media.king5.com/assets/CCT/images/e52e645e-0b91-4f26-ba6f-40ba70997361/20240917T114315/e52e645e-0b91-4f26-ba6f-40ba70997361_360x203.jpg)](https://www.king5.com/article/news/nation-world/september-2024-full-moon-harvest-moon-partial-eclipse-supermoon-time/507-d36e7dcc-254f-4a7b-852b-640017b8e713)
+        
+        #### [What time is Tuesday's partial lunar eclipse?](https://www.king5.com/article/news/nation-world/september-2024-full-moon-harvest-moon-partial-eclipse-supermoon-time/507-d36e7dcc-254f-4a7b-852b-640017b8e713)
         
     
 * [Sports](https://www.king5.com/sports)
@@ -95,7 +95,7 @@ Navigation
 
 Seattle, WA »
 
-62°
+60°
 
 ![Cloudy](/assets/shared-images/weather-icons/cloudy-night_210x210.png)
 
