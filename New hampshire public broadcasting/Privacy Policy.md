@@ -186,7 +186,7 @@ NHPBS inspires one million Granite Staters each month with engaging and trusted 
 
 * [**Trailer** | Hispanic Heritage Awards](https://video.nhpbs.org/video/trailer-fgg5pk?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**at the Met: Madama Butterfly Preview** | Great Performances](https://video.nhpbs.org/video/great-performances-at-the-met-madama-butterfly-preview-y8uuo5?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**September 17, 2024 - full episode** | PBS News Hour](https://video.nhpbs.org/video/september-17-2024-pbs-news-hour-full-episode-1726545601?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**Dr. Francis Collins on his new book 'The Road to Wisdom'** | PBS News Hour](https://video.nhpbs.org/video/the-road-to-wisdom-1726608324?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**California Sea Otters: Life on the Edge** | Changing Seas](https://video.nhpbs.org/video/1604-dtgds6?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Solar System: Storm Worlds Preview** | NOVA](https://video.nhpbs.org/video/solar-system-storm-worlds-preview-6zindz?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Episode 2 Preview** | Van der Valk](https://video.nhpbs.org/video/episode-2-preview-0w5rkp?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
