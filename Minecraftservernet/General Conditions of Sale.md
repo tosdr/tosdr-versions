@@ -31,15 +31,13 @@ Active Servers
 
 [![simplyvanilla](plugins/MineCraft/icons/25x25xsimplyvanilla_1724739126.png.pagespeed.ic.Cd50vz760y.jpg)
 
-Simply Vanilla \[Anarchy with no hacks\]](https://minecraft-server.net/details/simplyvanilla/ "Simply Vanilla [Anarchy with no hacks]")[![kretmc](plugins/MineCraft/icons/25x25xkretmc_1716535388.png.pagespeed.ic.csO5XeMY1u.png)
+Simply Vanilla \[Anarchy with no hacks\]](https://minecraft-server.net/details/simplyvanilla/ "Simply Vanilla [Anarchy with no hacks]")[![kchscraft](plugins/MineCraft/icons/25x25xkchscraft_1658311151.png.pagespeed.ic.fnqNIplg0a.png)
 
-Najlepszy Serwer Minecraft!](https://minecraft-server.net/details/kretmc/ "Najlepszy Serwer Minecraft!")[![CraftedSurvival](plugins/MineCraft/icons/25x25xCraftedSurvival_1724663271.png.pagespeed.ic.7xXnoJyxX-.png)
+KCHS Craft](https://minecraft-server.net/details/kchscraft/ "KCHS Craft")[![mcprison](plugins/MineCraft/icons/25x25xmcprison_1722027662.png.pagespeed.ic.0wYsTOy-Nc.png)
 
-Crafted Survival](https://minecraft-server.net/details/CraftedSurvival/ "Crafted Survival")[![Niron](plugins/MineCraft/icons/Niron_1706892061.png.pagespeed.ce.IkJB58kMfF.png)
+STAFF NEEDED - PURPLE PRISON](https://minecraft-server.net/details/mcprison/ "STAFF NEEDED - PURPLE PRISON") [MineCrafty - UBuild!](https://minecraft-server.net/details/Xerius/ "MineCrafty - UBuild!")[![Gladius](plugins/MineCraft/icons/25x25xGladius_1687724866.png.pagespeed.ic.sE5XXSLjhm.png)
 
-Steinercraft - Vanilla-based Anarchy](https://minecraft-server.net/details/Niron/ "Steinercraft - Vanilla-based Anarchy")[![Surventure](plugins/MineCraft/icons/25x25xSurventure_1726643785.png.pagespeed.ic.SYVXDPcmiz.png)
-
-Surventure - Best Cracked LifeSteal Server](https://minecraft-server.net/details/Surventure/ "Surventure - Best Cracked LifeSteal Server")
+Gladius SMP SEMI ANARCHY NO CRYSTAL PVP](https://minecraft-server.net/details/Gladius/ "Gladius SMP SEMI ANARCHY NO CRYSTAL PVP")
 
 1. [Minecraft Servers](https://minecraft-server.net/)
 2. Refund
@@ -116,4 +114,4 @@ Set
 * [Statistics](https://minecraft-server.net/overall-stats/ "Statistics")
 * [Contact](https://minecraft-server.net/contact/ "Contact")
 
-© Minecraft-Server.net 2024. All rights reserved. 'Minecraft' is a property of [Mojang](https://www.mojang.com/). You can buy [Minecraft here](https://www.minecraft.net/). 7 queries, time: 0.06379 - Created by [Debaucus](https://debauc.us/)
+© Minecraft-Server.net 2024. All rights reserved. 'Minecraft' is a property of [Mojang](https://www.mojang.com/). You can buy [Minecraft here](https://www.minecraft.net/). 7 queries, time: 0.0702 - Created by [Debaucus](https://debauc.us/)
