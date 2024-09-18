@@ -65,6 +65,12 @@ Huawei Central
     
 * [Wearables](https://www.huaweicentral.com/category/wearables/)
     
+    * [![Huawei wearables China September 24](https://www.huaweicentral.com/wp-content/uploads/2024/09/Wearable-launch-400x240.jpg)
+        
+        Huawei could launch new wearables in China on September 24](https://www.huaweicentral.com/huawei-could-launch-new-wearables-in-china-on-september-24/)
+    * [![Huawei Watch GT 5 specs](https://www.huaweicentral.com/wp-content/uploads/2024/09/Watch-GT-5-1-1-400x240.jpg)
+        
+        Huawei Watch GT 5 specs and health features leaked by online retailer](https://www.huaweicentral.com/huawei-watch-gt-5-specs-and-health-features-leaked-by-online-retailer/)
     * [![Huawei smartwatch EDD-B39](https://www.huaweicentral.com/wp-content/uploads/2024/09/Smartwatch-400x240.jpg)
         
         Huawei certifies new smartwatch EDD-B39 with satellite SMS feature](https://www.huaweicentral.com/huawei-certifies-new-smartwatch-edd-b39-with-satellite-sms-feature/)
@@ -74,12 +80,6 @@ Huawei Central
     * [![Huawei Watch GT 5 renders](https://www.huaweicentral.com/wp-content/uploads/2024/09/Watch-GT-5-renders-400x240.jpg)
         
         Alleged Huawei Watch GT 5 renders reveal familiar design and price details](https://www.huaweicentral.com/alleged-huawei-watch-gt-5-renders-reveal-familiar-design-and-price-details/)
-    * [![Huawei wearables this month](https://www.huaweicentral.com/wp-content/uploads/2024/09/Huawei-products-400x240.jpg)
-        
-        Huawei might unveil 6 more products including wearables this month](https://www.huaweicentral.com/huawei-might-unveil-6-more-products-including-wearables-this-month/)
-    * [![Huawei Watch GT 5 first look](https://www.huaweicentral.com/wp-content/uploads/2024/09/Watch-GT-5-image-400x240.jpg)
-        
-        This could be our first look at Huawei Watch GT 5](https://www.huaweicentral.com/this-could-be-our-first-look-at-huawei-watch-gt-5/)
     
 * [Contact Us](https://www.huaweicentral.com/contact/)
 
