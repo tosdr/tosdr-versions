@@ -1,6 +1,4 @@
-[HP Canada: Printer Sales Event on now! BONUS paper included on select printer bundles + 10% Cash Back
-
-Shop Now](https://www.rakuten.ca/ticket/campaign/2019-countdown-clock/coupon/hp-canada?store=hp-canada&sourceName=sitewide-sticky-header)[🛍 Earn Cash Back in-store at Ashley! Up to 60% off clearance + 6% Cash Back.
+[🛍 Earn Cash Back in-store at Ashley! Up to 60% off clearance + 6% Cash Back
 
 See All Offers](https://www.rakuten.ca/in-store-cash-back)
 
@@ -459,15 +457,15 @@ FR
         
         [Booking.com
         
-        6% Cash Back](https://www.rakuten.ca/booking-com)[Hotels.com
-        
-        up to 5% Cash Back](https://www.rakuten.ca/hotels-com)[Viator - A TripAdvisor Company
+        6% Cash Back](https://www.rakuten.ca/booking-com)[Viator - A TripAdvisor Company
         
         10% Cash Back](https://www.rakuten.ca/viator)[Flight Centre
         
         up to 3% Cash Back](https://www.rakuten.ca/flight-centre)[Holiday Inn
         
-        2% Cash Back](https://www.rakuten.ca/holiday-inn)
+        2% Cash Back](https://www.rakuten.ca/holiday-inn)[IHG Hotels & Resorts
+        
+        2% Cash Back](https://www.rakuten.ca/ihg-hotels-and-resorts)
         
         Featured Shops & Deals
         
@@ -475,11 +473,11 @@ FR
         
         [![](//static.rakuten.ca//static/images/blank.1.0.0.gif)
         
-        ![](//static.rakuten.ca/img/campaign_entity/131684/en-cn-300x250-hotwire.jpg)
+        ![](//static.rakuten.ca/img/campaign_entity/297964/en-right-rail_cat_drop_300x250_hotels.com4.png)
         
-        Hotwire
+        Hotels.com
         
-        up to 1% Cash Back](https://www.rakuten.ca/ticket/campaign/14CategoryFeaturedStores/store/hotwire?sourceName=nav-menu)
+        up to 5% Cash Back](https://www.rakuten.ca/ticket/campaign/14CategoryFeaturedStores/store/hotels-com?sourceName=nav-menu)
         
     
     * [Featured Shops & Deals](https://www.rakuten.ca/deals "Featured Shops & Deals at Rakuten.ca")
@@ -490,11 +488,11 @@ FR
         
         [![](//static.rakuten.ca//static/images/blank.1.0.0.gif)
         
-        ![](//static.rakuten.ca/img/campaign_entity/131684/en-cn-300x250-hotwire.jpg)
+        ![](//static.rakuten.ca/img/campaign_entity/297964/en-right-rail_cat_drop_300x250_hotels.com4.png)
         
-        Hotwire
+        Hotels.com
         
-        up to 1% Cash Back](https://www.rakuten.ca/ticket/campaign/14CategoryFeaturedStores/store/hotwire?sourceName=nav-menu)
+        up to 5% Cash Back](https://www.rakuten.ca/ticket/campaign/14CategoryFeaturedStores/store/hotels-com?sourceName=nav-menu)
         
     * [See All Stores](https://www.rakuten.ca/stores "See All Stores at Rakuten.ca")
 * [2X Cash Back](https://www.rakuten.ca/fall-is-back "Double Cash Back Promo Codes and Coupons at Rakuten.ca")
