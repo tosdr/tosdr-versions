@@ -31,7 +31,7 @@
 * [Pricing](https://www.sender.net/pricing/)
 
 * [Log in](https://app.sender.net/)
-* [Get Started](https://auth.sender.net/register?scope=scope&client_id=21&response_type=code&redirect_uri=https://app.sender.net/)
+* [Get Started For Free](https://auth.sender.net/register?scope=scope&client_id=21&response_type=code&redirect_uri=https://app.sender.net/)
 
 ![Menu](data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEgMTJIMjMiIHN0cm9rZT0iIzBEMEYzMyIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbWl0ZXJsaW1pdD0iMTAiIHN0cm9rZS1saW5lY2FwPSJzcXVhcmUiLz4KPHBhdGggZD0iTTEgNUgyMyIgc3Ryb2tlPSIjMEQwRjMzIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1taXRlcmxpbWl0PSIxMCIgc3Ryb2tlLWxpbmVjYXA9InNxdWFyZSIvPgo8cGF0aCBkPSJNMSAxOUgyMyIgc3Ryb2tlPSIjMEQwRjMzIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1taXRlcmxpbWl0PSIxMCIgc3Ryb2tlLWxpbmVjYXA9InNxdWFyZSIvPgo8L3N2Zz4K)
 
