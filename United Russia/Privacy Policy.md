@@ -299,53 +299,53 @@
 
 [Все новости](https://er.ru/activity/news)
 
-[![Госдума приняла в первом чтении законопроект «Единой России» об усилении защиты объектов ТЭК и транспортной инфраструктуры от атак беспилотников](https://cdn.er.ru/media/news/September2024/welrQ7TOScsjm4ZHlyMJ-small.jpg)](https://er.ru/activity/news/gosduma-prinyala-v-pervom-chtenii-zakonoproekt-edinoj-rossii-ob-usilenii-zashity-obektov-tek-i-transportnoj-infrastruktury-ot-atak-bespilotnikov)
+[![«Единая Россия» внесла законопроект о праве многодетных семей на бесплатную юридическую помощь](https://cdn.er.ru/media/news/September2024/43m8iCTxXFD4XwnH5OqC-small.JPG)](https://er.ru/activity/news/edinaya-rossiya-vnesla-zakonoproekt-o-prave-mnogodetnyh-semej-na-besplatnuyu-yuridicheskuyu-pomosh)
 
-[Госдума приняла в первом чтении законопроект «Единой России» об усилении защиты объектов ТЭК и транспортной инфраструктуры от атак беспилотников](https://er.ru/activity/news/gosduma-prinyala-v-pervom-chtenii-zakonoproekt-edinoj-rossii-ob-usilenii-zashity-obektov-tek-i-transportnoj-infrastruktury-ot-atak-bespilotnikov)
+[«Единая Россия» внесла законопроект о праве многодетных семей на бесплатную юридическую помощь](https://er.ru/activity/news/edinaya-rossiya-vnesla-zakonoproekt-o-prave-mnogodetnyh-semej-na-besplatnuyu-yuridicheskuyu-pomosh)
 
-[#Станкевич](https://er.ru/activity/news?tags%5B0%5D=30771) [#фракцияЕР](https://er.ru/activity/news?tags%5B0%5D=110930) [#ТЭК](https://er.ru/activity/news?tags%5B0%5D=1363) [#БПЛА](https://er.ru/activity/news?tags%5B0%5D=1094194) [#законодательнаяинициативаЕР](https://er.ru/activity/news?tags%5B0%5D=152136) [#инфраструктура](https://er.ru/activity/news?tags%5B0%5D=1129)
+[#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#бесплатнаяюридическаяпомощь](https://er.ru/activity/news?tags%5B0%5D=120547) [#юридическаяпомощь](https://er.ru/activity/news?tags%5B0%5D=110126) [#юридическаяконсультация](https://er.ru/activity/news?tags%5B0%5D=110288) [#семьисдетьми](https://er.ru/activity/news?tags%5B0%5D=136562) [#многодетныесемьи](https://er.ru/activity/news?tags%5B0%5D=109325) [#новыемерыподдержкисемьисдетьми](https://er.ru/activity/news?tags%5B0%5D=145752)
 
-17.09.24
+Сегодня 12:46
 
-[![Госдума приняла в первом чтении законопроект «Единой России» о защите пользователей платных интернет-подписок](https://cdn.er.ru/media/news/September2024/daw054EycNpNBoY0sPXL-small.jpg)](https://er.ru/activity/news/gosduma-prinyala-v-pervom-chtenii-zakonoproekt-edinoj-rossii-o-zashite-polzovatelej-platnyh-internet-podpisok)
+[![Евгений Нифантьев: «Единая Россия» обеспечит законодательную базу для работы новых нацпроектов в области здравоохранения и народосбережения](https://cdn.er.ru/media/news/September2024/9VRolvNw6inyY0rHthuJ-small.jpg)](https://er.ru/activity/news/evgenij-nifantev-edinaya-rossiya-obespechit-zakonodatelnuyu-bazu-dlya-raboty-novyh-nacproektov-v-oblasti-zdravoohraneniya-i-narodosberezheniya)
 
-[Госдума приняла в первом чтении законопроект «Единой России» о защите пользователей платных интернет-подписок](https://er.ru/activity/news/gosduma-prinyala-v-pervom-chtenii-zakonoproekt-edinoj-rossii-o-zashite-polzovatelej-platnyh-internet-podpisok)
+[Евгений Нифантьев: «Единая Россия» обеспечит законодательную базу для работы новых нацпроектов в области здравоохранения и народосбережения](https://er.ru/activity/news/evgenij-nifantev-edinaya-rossiya-obespechit-zakonodatelnuyu-bazu-dlya-raboty-novyh-nacproektov-v-oblasti-zdravoohraneniya-i-narodosberezheniya)
 
-[#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#Немкин](https://er.ru/activity/news?tags%5B0%5D=1092473) [#цифровыеподписки](https://er.ru/activity/news?tags%5B0%5D=1094420) [#законопроекты](https://er.ru/activity/news?tags%5B0%5D=863)
+[#Нифантьев](https://er.ru/activity/news?tags%5B0%5D=150020) [#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#первичноезвеноздравоохранения](https://er.ru/activity/news?tags%5B0%5D=137171) [#законопроекты](https://er.ru/activity/news?tags%5B0%5D=863) [#нацпроекты](https://er.ru/activity/news?tags%5B0%5D=127007)
 
-17.09.24
+Сегодня 12:02
 
-[![Депутаты фракции «Единой России» избраны председателями ряда комитетов Госдумы](https://cdn.er.ru/media/news/September2024/Lj3MncYST4IPiknS2dkF-small.jfif)](https://er.ru/activity/news/deputaty-frakcii-edinoj-rossii-izbrany-predsedatelyami-ryada-komitetov-gosdumy)
+[![Александр Мажуга: «Единая Россия» в осеннюю сессию обеспечит принятие приоритетных законопроектов в сфере высшего образования и науки](https://cdn.er.ru/media/news/September2024/5nqmrGaU6OjYFXope4Yd-small.jpg)](https://er.ru/activity/news/aleksandr-mazhuga-edinaya-rossiya-v-osennyuyu-sessiyu-obespechit-prinyatie-prioritetnyh-zakonoproektov-v-sfere-vysshego-obrazovaniya-i-nauki)
 
-[Депутаты фракции «Единой России» избраны председателями ряда комитетов Госдумы](https://er.ru/activity/news/deputaty-frakcii-edinoj-rossii-izbrany-predsedatelyami-ryada-komitetov-gosdumy)
+[Александр Мажуга: «Единая Россия» в осеннюю сессию обеспечит принятие приоритетных законопроектов в сфере высшего образования и науки](https://er.ru/activity/news/aleksandr-mazhuga-edinaya-rossiya-v-osennyuyu-sessiyu-obespechit-prinyatie-prioritetnyh-zakonoproektov-v-sfere-vysshego-obrazovaniya-i-nauki)
 
-[#Матыцин](https://er.ru/activity/news?tags%5B0%5D=143995) [#Казакова](https://er.ru/activity/news?tags%5B0%5D=30356) [#Белых](https://er.ru/activity/news?tags%5B0%5D=9569) [#Шульгинов](https://er.ru/activity/news?tags%5B0%5D=1095570) [#фракцияЕР](https://er.ru/activity/news?tags%5B0%5D=126717)
+[#Мажуга](https://er.ru/activity/news?tags%5B0%5D=1091855) [#фракцияЕР](https://er.ru/activity/news?tags%5B0%5D=126717) [#молодыеученые](https://er.ru/activity/news?tags%5B0%5D=127906) [#мерыподдержки](https://er.ru/activity/news?tags%5B0%5D=147555) [#образование](https://er.ru/activity/news?tags%5B0%5D=57) [#медицина](https://er.ru/activity/news?tags%5B0%5D=273) [#наука](https://er.ru/activity/news?tags%5B0%5D=354) [#вузы](https://er.ru/activity/news?tags%5B0%5D=635) [#технологии](https://er.ru/activity/news?tags%5B0%5D=1090612) [#общежития](https://er.ru/activity/news?tags%5B0%5D=3688) [#бюджет](https://er.ru/activity/news?tags%5B0%5D=112) [#народнаяпрограмма](https://er.ru/activity/news?tags%5B0%5D=109889)
 
-17.09.24
+Сегодня 11:43
 
-[![Депутат Госдумы от «Единой России» Виктория Абрамченко избрана вице-спикером Госдумы](https://cdn.er.ru/media/news/September2024/SLaxerKw9Amxk4GdGgIT-small.jpg)](https://er.ru/activity/news/deputat-gosdumy-ot-edinoj-rossii-viktoriya-abramchenko-izbrana-vice-spikerom-gosdumy)
+[![Максим Топилин: В осеннюю сессию «Единая Россия» будет работать над отраслевыми законопроектами в экономике и инициативами по поддержке инвестиций](https://cdn.er.ru/media/news/September2024/fl14f60QeXjXz1RAHUCp-small.jpg)](https://er.ru/activity/news/maksim-topilin-v-osennyuyu-sessiyu-edinaya-rossiya-budet-rabotat-nad-otraslevymi-zakonoproektami-v-ekonomike-i-iniciativami-po-podderzhke-investicij)
 
-[Депутат Госдумы от «Единой России» Виктория Абрамченко избрана вице-спикером Госдумы](https://er.ru/activity/news/deputat-gosdumy-ot-edinoj-rossii-viktoriya-abramchenko-izbrana-vice-spikerom-gosdumy)
+[Максим Топилин: В осеннюю сессию «Единая Россия» будет работать над отраслевыми законопроектами в экономике и инициативами по поддержке инвестиций](https://er.ru/activity/news/maksim-topilin-v-osennyuyu-sessiyu-edinaya-rossiya-budet-rabotat-nad-otraslevymi-zakonoproektami-v-ekonomike-i-iniciativami-po-podderzhke-investicij)
 
-[#Абрамченко](https://er.ru/activity/news?tags%5B0%5D=88828) [#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#вице-спикер](https://er.ru/activity/news?tags%5B0%5D=8985) [#избрание](https://er.ru/activity/news?tags%5B0%5D=416) [#фракцияЕР](https://er.ru/activity/news?tags%5B0%5D=110930)
+[#Топилин](https://er.ru/activity/news?tags%5B0%5D=10362) [#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#законопроекты](https://er.ru/activity/news?tags%5B0%5D=863) [#законотворчество](https://er.ru/activity/news?tags%5B0%5D=10327) [#законодательнаяинициативаЕР](https://er.ru/activity/news?tags%5B0%5D=152136) [#Правительство](https://er.ru/activity/news?tags%5B0%5D=1090296) [#нацпроекты](https://er.ru/activity/news?tags%5B0%5D=127007) [#инвестиции](https://er.ru/activity/news?tags%5B0%5D=121539) [#промышленность](https://er.ru/activity/news?tags%5B0%5D=1335) [#Роскосмос](https://er.ru/activity/news?tags%5B0%5D=1864) [#облигации](https://er.ru/activity/news?tags%5B0%5D=7463) [#госзакупки](https://er.ru/activity/news?tags%5B0%5D=1380)
 
-17.09.24
+Сегодня 11:27
 
-[![«Молодая Гвардия Единой России» доставила воду спецслужбам и жителям Станично-Луганского района, пострадавшим от пожара](https://cdn.er.ru/media/news/September2024/m11FqeQfIDCq7fgyBUMF-small.jpg)](https://er.ru/activity/news/molodaya-gvardiya-edinoj-rossii-dostavila-vodu-specsluzhbam-i-zhitelyam-stanichno-luganskogo-rajona-postradavshim-ot-pozhara)
+[![Анна Кузнецова: Более 700 заявок поступило на Всероссийский конкурс «Традиция побеждать»](https://cdn.er.ru/media/news/September2024/Jizk9CEnxGqFbByCNHMn-small.jpg)](https://er.ru/activity/news/anna-kuznecova-bolee-700-zayavok-postupilo-na-vserossijskij-konkurs-tradiciya-pobezhdat)
 
-[«Молодая Гвардия Единой России» доставила воду спецслужбам и жителям Станично-Луганского района, пострадавшим от пожара](https://er.ru/activity/news/molodaya-gvardiya-edinoj-rossii-dostavila-vodu-specsluzhbam-i-zhitelyam-stanichno-luganskogo-rajona-postradavshim-ot-pozhara)
+[Анна Кузнецова: Более 700 заявок поступило на Всероссийский конкурс «Традиция побеждать»](https://er.ru/activity/news/anna-kuznecova-bolee-700-zayavok-postupilo-na-vserossijskij-konkurs-tradiciya-pobezhdat)
 
-[#МГЕР](https://er.ru/activity/news?tags%5B0%5D=47) [#Луганская Народная Республика](https://er.ru/activity/news?tags%5B0%5D=126130) [#пожары](https://er.ru/activity/news?tags%5B0%5D=165) [#ЧС](https://er.ru/activity/news?tags%5B0%5D=2991) [#ЕРпомогает](https://er.ru/activity/news?tags%5B0%5D=147285)
+[#Кузнецова](https://er.ru/activity/news?tags%5B0%5D=4127) [#конкурсы](https://er.ru/activity/news?tags%5B0%5D=18629) [#патриотизм](https://er.ru/activity/news?tags%5B0%5D=1090265) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#заявки](https://er.ru/activity/news?tags%5B0%5D=126470) [#производители](https://er.ru/activity/news?tags%5B0%5D=8905)
 
-17.09.24
+Сегодня 11:25
 
-[![«Единая Россия» дала старт Всероссийской акции помощи бездомным животным «Лучший друг»](https://cdn.er.ru/media/news/September2024/OLdEMBXMl1Anf3zeMjmd-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-dala-start-vserossijskoj-akcii-pomoshi-bezdomnym-zhivotnym-luchshij-drug)
+[![Нацпроект «Кадры» и поддержка молодёжного предпринимательства. Статья Андрея Исаева](https://cdn.er.ru/media/news/September2024/0gdtcZEfYMsu0YPu5CWr-small.jpg)](https://er.ru/activity/news/nacproekt-kadry-i-podderzhka-molodyozhnogo-predprinimatelstva-statya-andreya-isaeva)
 
-[«Единая Россия» дала старт Всероссийской акции помощи бездомным животным «Лучший друг»](https://er.ru/activity/news/edinaya-rossiya-dala-start-vserossijskoj-akcii-pomoshi-bezdomnym-zhivotnym-luchshij-drug)
+[Нацпроект «Кадры» и поддержка молодёжного предпринимательства. Статья Андрея Исаева](https://er.ru/activity/news/nacproekt-kadry-i-podderzhka-molodyozhnogo-predprinimatelstva-statya-andreya-isaeva)
 
-[#Занко](https://er.ru/activity/news?tags%5B0%5D=1092667) [#лучшийдруг](https://er.ru/activity/news?tags%5B0%5D=136321) [#акция](https://er.ru/activity/news?tags%5B0%5D=238) [#приютдляживотных](https://er.ru/activity/news?tags%5B0%5D=126585) [#ЕРпомогает](https://er.ru/activity/news?tags%5B0%5D=146978) [#Защитаживотногомира](https://er.ru/activity/news?tags%5B0%5D=1092835) [#партпроекты](https://er.ru/activity/news?tags%5B0%5D=1090407)
+[#Исаев](https://er.ru/activity/news?tags%5B0%5D=121396) [#кадры](https://er.ru/activity/news?tags%5B0%5D=975) [#нацпроекты](https://er.ru/activity/news?tags%5B0%5D=127007) [#РГ](https://er.ru/activity/news?tags%5B0%5D=8568) [#статья](https://er.ru/activity/news?tags%5B0%5D=71)
 
-17.09.24
+Сегодня 09:30
 
 ![Сайт президента РФ](https://cdn.er.ru/media/sites/July2020/7T7J24LxtsdGGJVk1lL0.jpg)
 
