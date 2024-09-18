@@ -556,57 +556,47 @@ You are seeing games that are valid in your region which is ‘%1’. If you wan
 
 To view games that are valid in your region ‘%1’, click here
 
-1.    [![EA Sports FC 24 PC (EN) - EA App](https://cdn.cdkeys.com/245x340/media/catalog/product/m/i/microsoftteams-image_25__2.png)   No 1. \-80%](https://www.cdkeys.com/pc/ea-sports-fc-24-pc-en-ea-play)
+1.    [![Minecraft: Java & Bedrock Edition PC (WW)](https://cdn.cdkeys.com/245x340/media/catalog/product/n/e/new_project_88__2_1.jpg)   No 1. \-61%](https://www.cdkeys.com/pc/minecraft-java-bedrock-edition-pc-ww)
     
-    **[EA Sports FC 24 PC (EN) - EA App](https://www.cdkeys.com/pc/ea-sports-fc-24-pc-en-ea-play "EA Sports FC 24 PC (EN) - EA App")**
+    **[Minecraft: Java & Bedrock Edition PC (WW)](https://www.cdkeys.com/pc/minecraft-java-bedrock-edition-pc-ww "Minecraft: Java & Bedrock Edition PC (WW)")**
     
-    Special Price $15.79 RRP $78.89
+    Special Price $12.89 RRP $32.89
     
     [Add to Wish List](# "Add to Wish List")
     
      Buy Now
     
-2.    [![Warhammer 40,000: Space Marine 2 PC](https://cdn.cdkeys.com/245x340/media/catalog/product/6/9/69654.jpg)   No 2. \-28%](https://www.cdkeys.com/pc/warhammer-40-000-space-marine-2-pc-steam)
+2.    [![God of War Ragnarök PC](https://cdn.cdkeys.com/245x340/media/catalog/product/g/o/god-of-war-ragnarok-2_1.jpeg)   No 2. \-14%](https://www.cdkeys.com/pc/god-of-war-ragnarok-pc-steam)
+    
+    **[God of War Ragnarök PC](https://www.cdkeys.com/pc/god-of-war-ragnarok-pc-steam "God of War Ragnarök PC")**
+    
+    Special Price $51.49 RRP $59.99
+    
+    [Add to Wish List](# "Add to Wish List")
+    
+     Buy Now
+    
+3.    [![Warhammer 40,000: Space Marine 2 PC](https://cdn.cdkeys.com/245x340/media/catalog/product/6/9/69654.jpg)   No 3. \-30%](https://www.cdkeys.com/pc/warhammer-40-000-space-marine-2-pc-steam)
     
     **[Warhammer 40,000: Space Marine 2 PC](https://www.cdkeys.com/pc/warhammer-40-000-space-marine-2-pc-steam "Warhammer 40,000: Space Marine 2 PC")**
     
-    Special Price $51.99 RRP $72.29
+    Special Price $50.99 RRP $72.29
     
     [Add to Wish List](# "Add to Wish List")
     
      Buy Now
     
-3.    [![Squad PC ](https://cdn.cdkeys.com/245x340/media/catalog/product/n/e/new_project_21_.jpg)   No 3. \-51%](https://www.cdkeys.com/pc/squad-pc-steam)
+4.    [![Test Drive Unlimited Solar Crown - Gold Edition PC](https://cdn.cdkeys.com/245x340/media/catalog/product/t/e/test_drive_unlimited_solar_crown_-_gold_edition.jpg)   No 4. \-44%](https://www.cdkeys.com/pc/test-drive-unlimited-solar-crown-gold-edition-pc-steam)
     
-    **[Squad PC](https://www.cdkeys.com/pc/squad-pc-steam "Squad PC ")**
+    **[Test Drive Unlimited Solar Crown - Gold Edition PC](https://www.cdkeys.com/pc/test-drive-unlimited-solar-crown-gold-edition-pc-steam "Test Drive Unlimited Solar Crown - Gold Edition PC")**
     
-    Special Price $25.59 RRP $52.59
-    
-    [Add to Wish List](# "Add to Wish List")
-    
-     Buy Now
-    
-4.    [![FINAL FANTASY XVI COMPLETE EDITION PC](https://cdn.cdkeys.com/245x340/media/catalog/product/f/i/final_fantasy_xvi_complete_edition.png)   No 4. \-29%](https://www.cdkeys.com/pc/final-fantasy-xvi-complete-edition-pc-steam)
-    
-    **[FINAL FANTASY XVI COMPLETE EDITION PC](https://www.cdkeys.com/pc/final-fantasy-xvi-complete-edition-pc-steam "FINAL FANTASY XVI COMPLETE EDITION PC")**
-    
-    Special Price $61.09 RRP $85.49
+    Special Price $51.49 RRP $92.39
     
     [Add to Wish List](# "Add to Wish List")
     
      Buy Now
     
-5.    [![Frostpunk 2 - Deluxe Edition PC](https://cdn.cdkeys.com/245x340/media/catalog/product/f/r/frostpunk_2_-_deluxe_edition_.jpg)   No 5. \-40%](https://www.cdkeys.com/pc/frostpunk-2-deluxe-edition-pc-steam)
-    
-    **[Frostpunk 2 - Deluxe Edition PC](https://www.cdkeys.com/pc/frostpunk-2-deluxe-edition-pc-steam "Frostpunk 2 - Deluxe Edition PC")**
-    
-    Special Price $49.29 RRP $82.79
-    
-    [Add to Wish List](# "Add to Wish List")
-    
-     Buy Now
-    
-6.    [![EA Sports FC 24 - 5900 FC Points PC](https://cdn.cdkeys.com/245x340/media/catalog/product/5/9/5900_points_pc.jpg)   No 6. \-38%](https://www.cdkeys.com/pc/ea-sports-fc-24-5900-fc-points-pc-ea-app)
+5.    [![EA Sports FC 24 - 5900 FC Points PC](https://cdn.cdkeys.com/245x340/media/catalog/product/5/9/5900_points_pc.jpg)   No 5. \-38%](https://www.cdkeys.com/pc/ea-sports-fc-24-5900-fc-points-pc-ea-app)
     
     **[EA Sports FC 24 - 5900 FC Points PC](https://www.cdkeys.com/pc/ea-sports-fc-24-5900-fc-points-pc-ea-app "EA Sports FC 24 - 5900 FC Points PC")**
     
@@ -616,11 +606,41 @@ To view games that are valid in your region ‘%1’, click here
     
      Buy Now
     
-7.    [![EA Sports FC 24 - 12000 FC Points PC](https://cdn.cdkeys.com/245x340/media/catalog/product/1/2/12k_points.jpg)   No 7. \-34%](https://www.cdkeys.com/pc/ea-sports-fc-24-12000-fc-points-pc-ea-app)
+6.    [![EA Sports FC 24 - 12000 FC Points PC](https://cdn.cdkeys.com/245x340/media/catalog/product/1/2/12k_points.jpg)   No 6. \-34%](https://www.cdkeys.com/pc/ea-sports-fc-24-12000-fc-points-pc-ea-app)
     
     **[EA Sports FC 24 - 12000 FC Points PC](https://www.cdkeys.com/pc/ea-sports-fc-24-12000-fc-points-pc-ea-app "EA Sports FC 24 - 12000 FC Points PC")**
     
     Special Price $76.29 RRP $115.69
+    
+    [Add to Wish List](# "Add to Wish List")
+    
+     Buy Now
+    
+7.    [![Black Myth: Wukong PC](https://cdn.cdkeys.com/245x340/media/catalog/product/b/l/black-myth-wukong-steam.jpg)   No 7. \-14%](https://www.cdkeys.com/pc/black-myth-wukong-pc-steam)
+    
+    **[Black Myth: Wukong PC](https://www.cdkeys.com/pc/black-myth-wukong-pc-steam "Black Myth: Wukong PC")**
+    
+    Special Price $51.49 RRP $59.99
+    
+    [Add to Wish List](# "Add to Wish List")
+    
+     Buy Now
+    
+8.    [![FINAL FANTASY XVI PC](https://cdn.cdkeys.com/245x340/media/catalog/product/f/i/final_fantasy_xvi_.png)   No 8. \-26%](https://www.cdkeys.com/pc/final-fantasy-xvi-pc-steam)
+    
+    **[FINAL FANTASY XVI PC](https://www.cdkeys.com/pc/final-fantasy-xvi-pc-steam "FINAL FANTASY XVI PC")**
+    
+    Special Price $43.79 RRP $59.19
+    
+    [Add to Wish List](# "Add to Wish List")
+    
+     Buy Now
+    
+9.    [![FINAL FANTASY XVI COMPLETE EDITION PC](https://cdn.cdkeys.com/245x340/media/catalog/product/f/i/final_fantasy_xvi_complete_edition.png)   No 9. \-28%](https://www.cdkeys.com/pc/final-fantasy-xvi-complete-edition-pc-steam)
+    
+    **[FINAL FANTASY XVI COMPLETE EDITION PC](https://www.cdkeys.com/pc/final-fantasy-xvi-complete-edition-pc-steam "FINAL FANTASY XVI COMPLETE EDITION PC")**
+    
+    Special Price $61.09 RRP $85.49
     
     [Add to Wish List](# "Add to Wish List")
     
