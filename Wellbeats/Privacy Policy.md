@@ -23,8 +23,6 @@
 
 * [Français](https://www.lifespeak.com/fr/politique-de-confidentialite/)
 
-🎧 New Podcast [Finding joy and resilience as a caregiver](https://www.lifespeak.com/resource/finding-joy-and-resilience-as-a-high-needs-caregiver-a-conversation-with-michele-rosner/)
-
 [![LifeSpeak Logo - Employee wellbeing solutions](https://www.lifespeak.com/wp-content/themes/ls-theme/img/logo-navy.svg)](https://www.lifespeak.com/)
 
 * [Wellbeing Suite](https://www.lifespeak.com/wellbeing-suite/ "Wellbeing Suite of Solutions for Organizations")
