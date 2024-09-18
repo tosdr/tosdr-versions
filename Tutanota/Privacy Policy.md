@@ -63,7 +63,7 @@ Privacy - and the loss of privacy - impacts both your personal life and society.
 We fight surveillance capitalism.
 ---------------------------------
 
-Today’s internet is broken. Surveillance capitalists use their power and knowledge to profile you and determine your value as a consumer. They infringe your privacy every single day. They decide what you see. They place algorithm-based information in front of you, subtly and constantly so that in the end they influence your thoughts, your decisions, your actions.
+Today's internet is broken. Surveillance capitalists use their power and knowledge to profile you and determine your value as a consumer. They infringe your privacy every single day. They decide what you see. They place algorithm-based information in front of you, subtly and constantly so that in the end they influence your thoughts, your decisions, your actions.
 
 These companies do this for their own benefit. Business models based on data collection and data exploitation must be stopped. We fight for a different internet. One where privacy by design is the foundation.
 
@@ -91,7 +91,7 @@ Why you will love Tuta Mail
 Switch now!
 -----------
 
-As the Internet grows up, people understand that they have to stop feeding the surveillance machine. New tools have made encryption and, thus, protecting your private data very easy. Email services like Tuta and chat apps like Signal are just a few that integrate encryption seamlessly into their services so that you don’t have to think about how the encryption works. Switch now!
+As the Internet grows up, people understand that they have to stop feeding the surveillance machine. New tools have made encryption and, thus, protecting your private data very easy. Email services like Tuta and chat apps like Signal are just a few that integrate encryption seamlessly into their services so that you don't have to think about how the encryption works. Switch now!
 
 Get your encrypted Tuta account now.
 
