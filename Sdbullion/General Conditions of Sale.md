@@ -8,11 +8,11 @@
 
 [Login](https://sdbullion.com/customer/account/login/)
 
- [![SD Bullion - The Lowest Price. Period.](https://sdbullion.com/media/logo/default/lowest-price-period-logo-dark-856x220_1_.png) ![](https://sdbullion.com/static/version1726552868/frontend/SDBullion/theme-frontend-sd/en_US/images/logo-sticky.png)](https://sdbullion.com/)
+   [![SD Bullion - The Lowest Price. Period.](https://sdbullion.com/media/logo/default/lowest-price-period-logo-dark-856x220_1_.png) ![](https://sdbullion.com/static/version1726552868/frontend/SDBullion/theme-frontend-sd/en_US/images/logo-sticky.png)](https://sdbullion.com/)
 
-[![SD Bullion Free Shipping](https://sdbullion.com/media/wysiwyg/sitewide/free-shipping-over-199-300x55-min.jpg)](https://sdbullion.com/sd-bullion-shipping-policies)
+  [![SD Bullion Free Shipping](https://sdbullion.com/media/wysiwyg/sitewide/free-shipping-over-199-300x55-min.jpg)](https://sdbullion.com/sd-bullion-shipping-policies)
 
-[![Shop 2024 Trump Presidential Medals](https://sdbullion.com/media/wysiwyg/sticky_header/trump-medals-585x75_1_1_.jpg)![Shop 2024 Trump Presidential Medals](https://sdbullion.com/media/wysiwyg/sticky_header/trump-medals-585x75_1_1_.jpg)](https://sdbullion.com/silver/trump)
+       [![Shop 2024 Trump Presidential Medals](https://sdbullion.com/media/wysiwyg/sticky_header/trump-medals-585x75_1_1_.jpg)    ![Shop 2024 Trump Presidential Medals](https://sdbullion.com/media/wysiwyg/sticky_header/trump-medals-585x75_1_1_.jpg)](https://sdbullion.com/silver/trump)
 
 Search  Search
 
@@ -1431,7 +1431,7 @@ Search  Search
         [About](https://sdbullion.com/about)
         
 
- [![SD Bullion - The Lowest Price. Period.](https://sdbullion.com/media/logo/default/lowest-price-period-logo-dark-856x220_1_.png)](https://sdbullion.com/)x
+   [![SD Bullion - The Lowest Price. Period.](https://sdbullion.com/media/logo/default/lowest-price-period-logo-dark-856x220_1_.png)](https://sdbullion.com/)x
 
 * [Silver](https://sdbullion.com/silver)
     
@@ -2891,15 +2891,15 @@ Please note, due to the cost of International shipping, SD Bullion will handle I
 
 Thank you for doing business with SD Bullion!
 
-![Three Billion Transactions Image](https://sdbullion.com/media/wysiwyg/footer/over-4-billion-in-trusted-transactions_1_.png)
+  ![Three Billion Transactions Image](https://sdbullion.com/media/wysiwyg/footer/over-4-billion-in-trusted-transactions_1_.png)
 
-[![Phone Icon](https://sdbullion.com/media/wysiwyg/footer/phone-icon-min.png)](tel:18002948732)
+  [![Phone Icon](https://sdbullion.com/media/wysiwyg/footer/phone-icon-min.png)](tel:18002948732)
 
 CALL US
 
 [1(800)294-8732](tel:18002948732)
 
-[![Email Icon](https://sdbullion.com/media/wysiwyg/footer/email-icon-min.png)](mailto:sales@sdbullion.com)
+  [![Email Icon](https://sdbullion.com/media/wysiwyg/footer/email-icon-min.png)](mailto:sales@sdbullion.com)
 
 EMAIL US
 
@@ -2911,24 +2911,24 @@ Email Address   Submit
 
 The best bullion deals straight to your inbox.
 
-*  [![Facebook Icon](https://sdbullion.com/media/wysiwyg/footer/facebook-icon-min.png) Facebook Link](https://www.facebook.com/SDBullion/)
-*  [![YouTube Icon](https://sdbullion.com/media/wysiwyg/footer/youtube-icon-min.png) YouTube Link](https://www.youtube.com/sdbullion)
-*  [![Instagram Icon](https://sdbullion.com/media/wysiwyg/footer/instagram-icon-min.png) Instagram Link](https://www.instagram.com/sdbullion)
-*  [![Twitter Image](https://sdbullion.com/media/wysiwyg/footer/twitter-icon-min.png) Twitter Link](https://twitter.com/sdbullion/)
+*    [![Facebook Icon](https://sdbullion.com/media/wysiwyg/footer/facebook-icon-min.png) Facebook Link](https://www.facebook.com/SDBullion/)
+*    [![YouTube Icon](https://sdbullion.com/media/wysiwyg/footer/youtube-icon-min.png) YouTube Link](https://www.youtube.com/sdbullion)
+*    [![Instagram Icon](https://sdbullion.com/media/wysiwyg/footer/instagram-icon-min.png) Instagram Link](https://www.instagram.com/sdbullion)
+*    [![Twitter Image](https://sdbullion.com/media/wysiwyg/footer/twitter-icon-min.png) Twitter Link](https://twitter.com/sdbullion/)
 
 EASY PAYMENT OPTIONS
 
-![Visa Image](https://sdbullion.com/media/wysiwyg/footer/Visa-logo-small.png)
+  ![Visa Image](https://sdbullion.com/media/wysiwyg/footer/Visa-logo-small.png)
 
-![Mastercard Image](https://sdbullion.com/media/wysiwyg/footer/mastercard-small.png)
+  ![Mastercard Image](https://sdbullion.com/media/wysiwyg/footer/mastercard-small.png)
 
-![Discover Image](https://sdbullion.com/media/wysiwyg/footer/discover-small.png)
+  ![Discover Image](https://sdbullion.com/media/wysiwyg/footer/discover-small.png)
 
-![PayPal Image](https://sdbullion.com/media/wysiwyg/footer/paypal-small.png)
+  ![PayPal Image](https://sdbullion.com/media/wysiwyg/footer/paypal-small.png)
 
-![BitCoin Image](https://sdbullion.com/media/wysiwyg/footer/Bitcoin-small.png)
+  ![BitCoin Image](https://sdbullion.com/media/wysiwyg/footer/Bitcoin-small.png)
 
-![ECheck Image](https://sdbullion.com/media/wysiwyg/footer/echeck-small.png)
+  ![ECheck Image](https://sdbullion.com/media/wysiwyg/footer/echeck-small.png)
 
 CUSTOMER CARE
 
@@ -2959,19 +2959,19 @@ RESOURCES
 
 ![Top](https://sdbullion.com/static/version1726552868/frontend/SDBullion/theme-frontend-sd/en_US/images/footer/scroll_to_top.png)
 
-![Top 500 Retailers Image](https://sdbullion.com/media/wysiwyg/footer/top-500-online-retailers.png)
+  ![Top 500 Retailers Image](https://sdbullion.com/media/wysiwyg/footer/top-500-online-retailers.png)
 
-[![inc image](https://sdbullion.com/media/wysiwyg/footer/inc-500-logo-min.png)](https://www.inc.com/profile/sd-bullion)
+  [![inc image](https://sdbullion.com/media/wysiwyg/footer/inc-500-logo-min.png)](https://www.inc.com/profile/sd-bullion)
 
- [![bbb desktop image](https://sdbullion.com/media/wysiwyg/footer/bbb.png) ![bbb mobile image](https://sdbullion.com/media/wysiwyg/footer/bbb-mobile.png)](https://www.bbb.org/toledo/business-reviews/gold-silver-and-platinum-dealers/sd-bullion-in-ottawa-lake-mi-90114703#bbbseal)
+     [![bbb desktop image](https://sdbullion.com/media/wysiwyg/footer/bbb.png)   ![bbb mobile image](https://sdbullion.com/media/wysiwyg/footer/bbb-mobile.png)](https://www.bbb.org/toledo/business-reviews/gold-silver-and-platinum-dealers/sd-bullion-in-ottawa-lake-mi-90114703#bbbseal)
 
 ![ica image](https://sdbullion.com/static/version1726552868/frontend/SDBullion/theme-frontend-sd/en_US/images/footer/ica.png)
 
-[![Shopper Approved Logo](https://sdbullion.com/media/wysiwyg/footer/shopper-approved-min.png)](http://www.shopperapproved.com/reviews/sdbullion.com/)
+  [![Shopper Approved Logo](https://sdbullion.com/media/wysiwyg/footer/shopper-approved-min.png)](http://www.shopperapproved.com/reviews/sdbullion.com/)
 
 ![SDBullion](https://sdbullion.com/static/version1726552868/frontend/SDBullion/theme-frontend-sd/en_US/images/footer/400-SD-Bullion-Logo-light.png) ![SDBullion Coin Image](https://sdbullion.com/static/version1726552868/frontend/SDBullion/theme-frontend-sd/en_US/images/footer/Lowest-Price-Period-Coins.png) © 2024 SD Bullion, Inc. All rights reserved.
 
-*  [![Facebook Icon](https://sdbullion.com/media/wysiwyg/footer/facebook-icon-min.png) Facebook Link](https://www.facebook.com/SDBullion/)
-*  [![YouTube Icon](https://sdbullion.com/media/wysiwyg/footer/youtube-icon-min.png) YouTube Link](https://www.youtube.com/sdbullion)
-*  [![Instagram Icon](https://sdbullion.com/media/wysiwyg/footer/instagram-icon-min.png) Instagram Link](https://www.instagram.com/sdbullion)
-*  [![Twitter Image](https://sdbullion.com/media/wysiwyg/footer/twitter-icon-min.png) Twitter Link](https://twitter.com/sdbullion/)
+*    [![Facebook Icon](https://sdbullion.com/media/wysiwyg/footer/facebook-icon-min.png) Facebook Link](https://www.facebook.com/SDBullion/)
+*    [![YouTube Icon](https://sdbullion.com/media/wysiwyg/footer/youtube-icon-min.png) YouTube Link](https://www.youtube.com/sdbullion)
+*    [![Instagram Icon](https://sdbullion.com/media/wysiwyg/footer/instagram-icon-min.png) Instagram Link](https://www.instagram.com/sdbullion)
+*    [![Twitter Image](https://sdbullion.com/media/wysiwyg/footer/twitter-icon-min.png) Twitter Link](https://twitter.com/sdbullion/)
