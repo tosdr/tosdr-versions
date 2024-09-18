@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/gezondheid/fluoride-hoe-gek-moet-het-worden/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/boeken/de-avonturen-van-jonathan-gullible/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
