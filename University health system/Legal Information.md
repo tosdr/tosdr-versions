@@ -222,7 +222,7 @@ San Antonio, Texas 78229
 * [Featured Jobs](https://www.universityhealthsystem.com/careers/featured-jobs)
 * [Benefits](https://www.universityhealthsystem.com/careers/employee-benefits)
 * [Nursing](https://www.universityhealthsystem.com/healthcare-professionals/nurses)
-* [Physician Opportunties](https://careers.universityhealth.com/search-jobs/physician?orgIds=42355&kt=1)
+* [Physician Opportunties](https://careers.universityhealth.com/university-medicine-associates)
 
 [For Healthcare Professionals](https://www.universityhealthsystem.com/healthcare-professionals)
 
