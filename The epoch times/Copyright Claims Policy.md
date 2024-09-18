@@ -158,76 +158,76 @@ Please note that under Section 512(f) of the DMCA, any person who knowingly mate
 
 TOP NEWS
 
-* [Trump Speaks in Michigan After Second Assassination Attempt](https://www.theepochtimes.com/us/trump-speaks-in-michigan-after-second-assassination-attempt-5726039)
+* [Fourth US Citizen Detained in Venezuela Over Alleged Plot to Kill Maduro](https://www.theepochtimes.com/world/fourth-us-citizen-detained-in-venezuela-over-alleged-plot-to-kill-maduro-5726044)
+    
+    NEW By [Aldgra Fredly](https://www.theepochtimes.com/author/aldgra-fredly)
+    
+    [![Fourth US Citizen Detained in Venezuela Over Alleged Plot to Kill Maduro](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Fourth US Citizen Detained in Venezuela Over Alleged Plot to Kill Maduro](https://img.theepochtimes.com/assets/uploads/2024/08/25/id5712508-maduro-1200x800.jpg-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/world/fourth-us-citizen-detained-in-venezuela-over-alleged-plot-to-kill-maduro-5726044)
+* [Fed Expected to Cut Interest Rates—What This Means for Your Money](https://www.theepochtimes.com/us/fed-expected-to-cut-interest-rates-what-this-means-for-your-money-5725711)
+    
+    NEW By [Andrew Moran](https://www.theepochtimes.com/author/andrew-moran)
+    
+    [![Fed Expected to Cut Interest Rates—What This Means for Your Money](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Fed Expected to Cut Interest Rates—What This Means for Your Money](https://img.theepochtimes.com/assets/uploads/2022/11/03/us.fed_-205x123.jpg.webp)](https://www.theepochtimes.com/us/fed-expected-to-cut-interest-rates-what-this-means-for-your-money-5725711)
+* [Experts Highlight Increased Cyber Attack Risks in Commercial Flights](https://www.theepochtimes.com/us/experts-highlight-increased-cyber-attack-risks-in-commercial-flights-5722325)
+    
+    NEW By [Autumn Spredemann](https://www.theepochtimes.com/author/autumn-spredemann)
+    
+    [![Experts Highlight Increased Cyber Attack Risks in Commercial Flights](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Experts Highlight Increased Cyber Attack Risks in Commercial Flights](https://img.theepochtimes.com/assets/uploads/2024/09/13/id5724037-United-205x123.jpg.webp)](https://www.theepochtimes.com/us/experts-highlight-increased-cyber-attack-risks-in-commercial-flights-5722325)
+* [Aurora Police Offer Help to Apartment Complexes Amid Venezuelan Gang Issues](https://www.theepochtimes.com/us/aurora-police-offer-help-to-apartment-complexes-amid-venezuelan-gang-issues-5724659)
+    
+    NEW By [Allan Stein](https://www.theepochtimes.com/author/allan-stein)
+    
+    [![Aurora Police Offer Help to Apartment Complexes Amid Venezuelan Gang Issues](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Aurora Police Offer Help to Apartment Complexes Amid Venezuelan Gang Issues](https://img.theepochtimes.com/assets/uploads/2024/09/15/id5724664-KnownTdAMemebersBooking1-205x123.jpg.webp)](https://www.theepochtimes.com/us/aurora-police-offer-help-to-apartment-complexes-amid-venezuelan-gang-issues-5724659)
+* [State Laws Could Push Ballot Counting Beyond Election Day in Some Swing States](https://www.theepochtimes.com/us/state-laws-could-push-ballot-counting-beyond-election-day-in-some-swing-states-5725234)
     
     NEW By [Nathan Worcester](https://www.theepochtimes.com/author/nathan-worcester)
+    
+    [![State Laws Could Push Ballot Counting Beyond Election Day in Some Swing States](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![State Laws Could Push Ballot Counting Beyond Election Day in Some Swing States](https://img.theepochtimes.com/assets/uploads/2024/03/05/id5601353-Voting-12_JF_03052024-205x123.jpg.webp)](https://www.theepochtimes.com/us/state-laws-could-push-ballot-counting-beyond-election-day-in-some-swing-states-5725234)
+* [FAA Proposes $633,000 Fine to SpaceX for Alleged Rocket Launch Infractions](https://www.theepochtimes.com/business/faa-proposes-633000-fine-to-spacex-for-alleged-rocket-launch-infractions-5725809)
+    
+    NEW By [Bill Pan](https://www.theepochtimes.com/author/gq-pan)
+    
+    [![FAA Proposes $633,000 Fine to SpaceX for Alleged Rocket Launch Infractions](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![FAA Proposes $633,000 Fine to SpaceX for Alleged Rocket Launch Infractions](https://img.theepochtimes.com/assets/uploads/2023/11/28/id5537269-SpaceX-launch-205x123.jpg.webp)](https://www.theepochtimes.com/business/faa-proposes-633000-fine-to-spacex-for-alleged-rocket-launch-infractions-5725809)
+* [Lock-In Baby Boomers Being Blamed for Housing Inventory Shortages Have Few Options: Experts](https://www.theepochtimes.com/us/lock-in-baby-boomers-being-blamed-for-housing-inventory-shortages-have-few-options-experts-5725820)
+    
+    NEW By [Mark Gilman](https://www.theepochtimes.com/author/mark-gilman)
+    
+    [![Lock-In Baby Boomers Being Blamed for Housing Inventory Shortages Have Few Options: Experts](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Lock-In Baby Boomers Being Blamed for Housing Inventory Shortages Have Few Options: Experts](https://img.theepochtimes.com/assets/uploads/2022/10/22/GettyImages-1234331375-205x123.jpg.webp)](https://www.theepochtimes.com/us/lock-in-baby-boomers-being-blamed-for-housing-inventory-shortages-have-few-options-experts-5725820)
+* [Returning Residents to North Israel Now a War Goal, Netanyahu Says](https://www.theepochtimes.com/world/returning-residents-to-north-israel-now-a-war-goal-netanyahu-says-5725900)
+    
+    NEW By [Dan M. Berger](https://www.theepochtimes.com/author/dan-m-berger)
+    
+    [![Returning Residents to North Israel Now a War Goal, Netanyahu Says](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Returning Residents to North Israel Now a War Goal, Netanyahu Says](https://img.theepochtimes.com/assets/uploads/2024/09/17/id5725781-GettyImages-2171810482.jpg-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/world/returning-residents-to-north-israel-now-a-war-goal-netanyahu-says-5725900)
+* [Trump Speaks in Michigan After Second Assassination Attempt](https://www.theepochtimes.com/us/trump-speaks-in-michigan-after-second-assassination-attempt-5726039)
+    
+    6hr By [Nathan Worcester](https://www.theepochtimes.com/author/nathan-worcester)
     
     [![Trump Speaks in Michigan After Second Assassination Attempt](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Trump Speaks in Michigan After Second Assassination Attempt](https://img.theepochtimes.com/assets/uploads/2024/09/18/id5726114-GettyImages-2172740180-2-205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-speaks-in-michigan-after-second-assassination-attempt-5726039)
 * [The 2nd Trump Assassination Attempt: What’s Known So Far](https://www.theepochtimes.com/article/the-2nd-trump-assassination-attempt-whats-known-so-far-5725915)
     
-    NEW By [Samantha Flom](https://www.theepochtimes.com/author/samantha-flom)
+    7hr By [Samantha Flom](https://www.theepochtimes.com/author/samantha-flom)
     
     [![The 2nd Trump Assassination Attempt: What’s Known So Far](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![The 2nd Trump Assassination Attempt: What’s Known So Far](https://img.theepochtimes.com/assets/uploads/2024/09/17/id5725950-Trump-Golf-Assassin-1-205x123.jpg.webp)](https://www.theepochtimes.com/article/the-2nd-trump-assassination-attempt-whats-known-so-far-5725915)
-* [2nd Trump Assassination Attempt Raises New Security Questions](https://www.theepochtimes.com/us/2nd-trump-assassination-attempt-raises-new-security-questions-5725877)
-    
-    3hr By [Janice Hisle](https://www.theepochtimes.com/reporter/janice-hisle)
-    
-    [![2nd Trump Assassination Attempt Raises New Security Questions](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![2nd Trump Assassination Attempt Raises New Security Questions](https://img.theepochtimes.com/assets/uploads/2024/09/15/id5724703-GettyImages-2171582602-205x123.jpg.webp)](https://www.theepochtimes.com/us/2nd-trump-assassination-attempt-raises-new-security-questions-5725877)
-* [Russian Election Interference Efforts Targeting Harris Campaign: Microsoft](https://www.theepochtimes.com/us/russian-election-interference-efforts-targeting-harris-campaign-microsoft-5725981)
-    
-    3hr By [Andrew Thornebrooke](https://www.theepochtimes.com/author/andrew-thornebrooke)
-    
-    [![Russian Election Interference Efforts Targeting Harris Campaign: Microsoft](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Russian Election Interference Efforts Targeting Harris Campaign: Microsoft](https://img.theepochtimes.com/assets/uploads/2024/08/23/id5712047-GettyImages-1244584327_1KO-205x123.jpg.webp)](https://www.theepochtimes.com/us/russian-election-interference-efforts-targeting-harris-campaign-microsoft-5725981)
-* [Oregon Tribes Sue Federal Government in Bid to Delay Offshore Wind Auction](https://www.theepochtimes.com/us/oregon-tribes-sue-federal-government-in-bid-to-delay-offshore-wind-auction-5725754)
-    
-    4hr By [Scottie Barnes](https://www.theepochtimes.com/author/scottie-barnes)
-    
-    [![Oregon Tribes Sue Federal Government in Bid to Delay Offshore Wind Auction](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Oregon Tribes Sue Federal Government in Bid to Delay Offshore Wind Auction](https://img.theepochtimes.com/assets/uploads/2024/03/27/id5616018-GettyImages-2097681547-205x123.jpg.webp)](https://www.theepochtimes.com/us/oregon-tribes-sue-federal-government-in-bid-to-delay-offshore-wind-auction-5725754)
-* [Charges Against Alleged Chinese Military Hacker Unsealed](https://www.theepochtimes.com/us/charges-against-alleged-chinese-military-hacker-unsealed-5725822)
-    
-    5hr By [Catherine Yang](https://www.theepochtimes.com/author/catherine-yang), Epoch Times
-    
-    [![Charges Against Alleged Chinese Military Hacker Unsealed](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Charges Against Alleged Chinese Military Hacker Unsealed](https://img.theepochtimes.com/assets/uploads/2024/07/29/id5695801-07292024-DSC05993-DOJ-205x123.jpg.webp)](https://www.theepochtimes.com/us/charges-against-alleged-chinese-military-hacker-unsealed-5725822)
-* [Drug-Resistant Superbugs Forecast to Kill Tens of Millions by 2050, Study Warns](https://www.theepochtimes.com/us/drug-resistant-superbugs-forecast-to-kill-tens-of-millions-by-2050-study-warns-5725840)
-    
-    5hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
-    
-    [![Drug-Resistant Superbugs Forecast to Kill Tens of Millions by 2050, Study Warns](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Drug-Resistant Superbugs Forecast to Kill Tens of Millions by 2050, Study Warns](https://img.theepochtimes.com/assets/uploads/2023/05/04/id5241488-prescription-medication-205x123.jpeg.webp)](https://www.theepochtimes.com/us/drug-resistant-superbugs-forecast-to-kill-tens-of-millions-by-2050-study-warns-5725840)
-* [Man With Ties to Iran Pleads Not Guilty in Assassination Plot Against US Politicians](https://www.theepochtimes.com/us/man-with-ties-to-iran-pleads-not-guilty-in-assassination-plot-against-us-politicians-5725864)
-    
-    5hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
-    
-    [![Man With Ties to Iran Pleads Not Guilty in Assassination Plot Against US Politicians](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Man With Ties to Iran Pleads Not Guilty in Assassination Plot Against US Politicians](https://img.theepochtimes.com/assets/uploads/2024/05/07/id5645337-FBI-CaliforniaKO-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/man-with-ties-to-iran-pleads-not-guilty-in-assassination-plot-against-us-politicians-5725864)
-* [Ohio AG Warns Springfield Not ‘Set Up’ to Have Thousands of Immigrants](https://www.theepochtimes.com/us/ohio-ag-warns-springfield-not-set-up-to-have-thousands-of-immigrants-5725848)
-    
-    6hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
-    
-    [![Ohio AG Warns Springfield Not ‘Set Up’ to Have Thousands of Immigrants](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Ohio AG Warns Springfield Not ‘Set Up’ to Have Thousands of Immigrants](https://img.theepochtimes.com/assets/uploads/2024/09/17/id5725413-Springfield-Ohio-GettyImages-2171699536-205x123.jpg.webp)](https://www.theepochtimes.com/us/ohio-ag-warns-springfield-not-set-up-to-have-thousands-of-immigrants-5725848)
-* [Day in Photos: European Floods, A Full Moon in Gaza, and a Dutch Royal Greeting](https://www.theepochtimes.com/article/day-in-photos-european-floods-a-full-moon-in-gaza-and-a-dutch-royal-greeting-5720999)
-    
-    6hr By [Epoch Times Staff](https://www.theepochtimes.com/author/epoch-times-staff)
-    
-    [![Day in Photos: European Floods, A Full Moon in Gaza, and a Dutch Royal Greeting](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Day in Photos: European Floods, A Full Moon in Gaza, and a Dutch Royal Greeting](https://img.theepochtimes.com/assets/uploads/2024/09/17/id5725910-GettyImages-2171820563-OP-205x123.jpg.webp)](https://www.theepochtimes.com/article/day-in-photos-european-floods-a-full-moon-in-gaza-and-a-dutch-royal-greeting-5720999)
 
 [![The Epoch Times](https://www.theepochtimes.com/assets/themes/eet/images/logo_eet.svg)](https://www.theepochtimes.com/)
 
