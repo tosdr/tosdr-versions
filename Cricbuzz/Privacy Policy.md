@@ -48,7 +48,7 @@ SEARCH
 
 [My Account](https://www.cricbuzz.com/premium-subscription/user/account-info "My Account") Sign Out
 
-[MATCHES](https://www.cricbuzz.com/cricket-match/live-scores)[SL vs NZ - Live](https://www.cricbuzz.com/live-cricket-scores/105962/sl-vs-nz-1st-test-new-zealand-tour-of-sri-lanka-2024 "Sri Lanka v New Zealand, 1st Test - Live")[SNP vs BR - BR Won](https://www.cricbuzz.com/live-cricket-scores/92851/snp-vs-br-18th-match-caribbean-premier-league-2024 "St Kitts and Nevis Patriots v Barbados Royals, 18th Match - BR Won")[AFG vs RSA - Preview](https://www.cricbuzz.com/live-cricket-scores/103843/afg-vs-rsa-1st-odi-afghanistan-v-south-africa-in-uae-2024 "Afghanistan v South Africa, 1st ODI - Preview")[TKR vs GAW - Preview](https://www.cricbuzz.com/live-cricket-scores/92856/tkr-vs-gaw-19th-match-caribbean-premier-league-2024 "Trinbago Knight Riders v Guyana Amazon Warriors, 19th Match - Preview")[UAE vs USA - Toss](https://www.cricbuzz.com/live-cricket-scores/106961/uae-vs-usa-27th-match-icc-cricket-world-cup-league-two-2023-27 "United Arab Emirates v United States, 27th Match - Toss")
+[MATCHES](https://www.cricbuzz.com/cricket-match/live-scores)[RSA vs AFG - Live](https://www.cricbuzz.com/live-cricket-scores/103843/rsa-vs-afg-1st-odi-afghanistan-v-south-africa-in-uae-2024 "South Africa v Afghanistan, 1st ODI - Live")[SL vs NZ - Stumps](https://www.cricbuzz.com/live-cricket-scores/105962/sl-vs-nz-1st-test-new-zealand-tour-of-sri-lanka-2024 "Sri Lanka v New Zealand, 1st Test - Stumps")[IND vs BAN - Preview](https://www.cricbuzz.com/live-cricket-scores/100220/ind-vs-ban-1st-test-bangladesh-tour-of-india-2024 "India v Bangladesh, 1st Test - Preview")[SNP vs BR - BR Won](https://www.cricbuzz.com/live-cricket-scores/92851/snp-vs-br-18th-match-caribbean-premier-league-2024 "St Kitts and Nevis Patriots v Barbados Royals, 18th Match - BR Won")[TKR vs GAW - Preview](https://www.cricbuzz.com/live-cricket-scores/92856/tkr-vs-gaw-19th-match-caribbean-premier-league-2024 "Trinbago Knight Riders v Guyana Amazon Warriors, 19th Match - Preview")
 
 AllLive NowToday
 
@@ -56,7 +56,7 @@ AllLive NowToday
     
     Bangladesh v India 2024
     
-    [India vs Bangladesh](https://www.cricbuzz.com/live-cricket-scores/100220/ind-vs-ban-1st-test-bangladesh-v-india-2024 "India v Bangladesh, 1st Test - Upcoming")
+    [India vs Bangladesh](https://www.cricbuzz.com/live-cricket-scores/100220/ind-vs-ban-1st-test-bangladesh-v-india-2024 "India v Bangladesh, 1st Test - Preview")
     
     1st Test
     
@@ -68,15 +68,19 @@ AllLive NowToday
     
 * NZ tour of SL
     
-    [Sri Lanka vs New Zealand  LIVE](https://www.cricbuzz.com/live-cricket-scores/105962/sl-vs-nz-1st-test-nz-tour-of-sl "Sri Lanka v New Zealand, 1st Test - Live")
+    [Sri Lanka vs New Zealand](https://www.cricbuzz.com/live-cricket-scores/105962/sl-vs-nz-1st-test-nz-tour-of-sl "Sri Lanka v New Zealand, 1st Test - Stumps")
     
     1st Test
     
 * Afghanistan vs South Africa, 2024
     
-    [Afghanistan vs South Africa](https://www.cricbuzz.com/live-cricket-scores/103843/afg-vs-rsa-1st-odi-afghanistan-vs-south-africa-2024 "Afghanistan v South Africa, 1st ODI - Preview")
+    [South Africa vs Afghanistan  LIVE](https://www.cricbuzz.com/live-cricket-scores/103843/rsa-vs-afg-1st-odi-afghanistan-vs-south-africa-2024 "South Africa v Afghanistan, 1st ODI - Live")
     
     1st ODI
+    
+* [Afghanistan vs South Africa](https://www.cricbuzz.com/live-cricket-scores/103852/afg-vs-rsa-2nd-odi-afghanistan-vs-south-africa-2024 "Afghanistan v South Africa, 2nd ODI - Upcoming")
+    
+    2nd ODI
     
 * ICC CWC League Two 2023-27
     
@@ -88,13 +92,17 @@ AllLive NowToday
     
     26th Match
     
-* [United Arab Emirates vs United States](https://www.cricbuzz.com/live-cricket-scores/106961/uae-vs-usa-27th-match-icc-cwc-league-two-2023-27 "United Arab Emirates v United States, 27th Match - Toss")
+* [United Arab Emirates vs United States](https://www.cricbuzz.com/live-cricket-scores/106961/uae-vs-usa-27th-match-icc-cwc-league-two-2023-27 "United Arab Emirates v United States, 27th Match - USA Won")
     
     27th Match
     
 * [Nepal vs Oman](https://www.cricbuzz.com/live-cricket-scores/106964/nep-vs-oman-28th-match-icc-cwc-league-two-2023-27 "Nepal v Oman, 28th Match - Preview")
     
     28th Match
+    
+* [Namibia vs United Arab Emirates](https://www.cricbuzz.com/live-cricket-scores/106969/nam-vs-uae-29th-match-icc-cwc-league-two-2023-27 "Namibia v United Arab Emirates, 29th Match - Upcoming")
+    
+    29th Match
     
 * T20 LEAGUE
     
@@ -116,57 +124,57 @@ AllLive NowToday
     
     Duleep Trophy
     
-    [India B vs India D](https://www.cricbuzz.com/live-cricket-scores/104226/indb-vs-indd-5th-match-duleep-trophy "India B v India D, 5th Match - Upcoming")
-    
-    5th Match
-    
-* [India A vs India C](https://www.cricbuzz.com/live-cricket-scores/104234/inda-vs-indc-6th-match-duleep-trophy "India A v India C, 6th Match - Upcoming")
+    [India A vs India C](https://www.cricbuzz.com/live-cricket-scores/104234/inda-vs-indc-6th-match-duleep-trophy "India A v India C, 6th Match - Upcoming")
     
     6th Match
     
+* [India B vs India D](https://www.cricbuzz.com/live-cricket-scores/104226/indb-vs-indd-5th-match-duleep-trophy "India B v India D, 5th Match - Upcoming")
+    
+    5th Match
+    
 * County Division 1
     
-    [Warwickshire vs Essex](https://www.cricbuzz.com/live-cricket-scores/84509/warks-vs-ess-65th-match-county-division-1 "Warwickshire v Essex, 65th Match - Stumps")
+    [Warwickshire vs Essex  LIVE](https://www.cricbuzz.com/live-cricket-scores/84509/warks-vs-ess-65th-match-county-division-1 "Warwickshire v Essex, 65th Match - Live")
     
     65th Match
     
-* [Durham vs Surrey](https://www.cricbuzz.com/live-cricket-scores/84502/dur-vs-sur-64th-match-county-division-1 "Durham v Surrey, 64th Match - Stumps")
+* [Durham vs Surrey  LIVE](https://www.cricbuzz.com/live-cricket-scores/84502/dur-vs-sur-64th-match-county-division-1 "Durham v Surrey, 64th Match - Live")
     
     64th Match
     
-* [Lancashire vs Somerset](https://www.cricbuzz.com/live-cricket-scores/84499/lancs-vs-som-63rd-match-county-division-1 "Lancashire v Somerset, 63rd Match - Stumps")
+* [Lancashire vs Somerset  LIVE](https://www.cricbuzz.com/live-cricket-scores/84499/lancs-vs-som-63rd-match-county-division-1 "Lancashire v Somerset, 63rd Match - Live")
     
     63rd Match
     
-* [Nottinghamshire vs Kent](https://www.cricbuzz.com/live-cricket-scores/84492/notts-vs-kent-62nd-match-county-division-1 "Nottinghamshire v Kent, 62nd Match - Stumps")
+* [Nottinghamshire vs Kent  LIVE](https://www.cricbuzz.com/live-cricket-scores/84492/notts-vs-kent-62nd-match-county-division-1 "Nottinghamshire v Kent, 62nd Match - Live")
     
     62nd Match
     
-* [Hampshire vs Worcestershire](https://www.cricbuzz.com/live-cricket-scores/84485/ham-vs-worcs-61st-match-county-division-1 "Hampshire v Worcestershire, 61st Match - Stumps")
+* [Hampshire vs Worcestershire  LIVE](https://www.cricbuzz.com/live-cricket-scores/84485/ham-vs-worcs-61st-match-county-division-1 "Hampshire v Worcestershire, 61st Match - Live")
     
     61st Match
     
 * County Division 2
     
-    [Leicestershire vs Northamptonshire](https://www.cricbuzz.com/live-cricket-scores/85535/leic-vs-nhnts-52nd-match-county-division-2 "Leicestershire v Northamptonshire, 52nd Match - Stumps")
-    
-    52nd Match
-    
-* [Gloucestershire vs Sussex](https://www.cricbuzz.com/live-cricket-scores/85528/gloucs-vs-sus-51st-match-county-division-2 "Gloucestershire v Sussex, 51st Match - Stumps")
-    
-    51st Match
-    
-* [Yorkshire vs Glamorgan](https://www.cricbuzz.com/live-cricket-scores/85524/yorks-vs-glam-50th-match-county-division-2 "Yorkshire v Glamorgan, 50th Match - Stumps")
+    [Yorkshire vs Glamorgan  LIVE](https://www.cricbuzz.com/live-cricket-scores/85524/yorks-vs-glam-50th-match-county-division-2 "Yorkshire v Glamorgan, 50th Match - Live")
     
     50th Match
     
-* [Derbyshire vs Middlesex](https://www.cricbuzz.com/live-cricket-scores/85517/derby-vs-mdx-49th-match-county-division-2 "Derbyshire v Middlesex, 49th Match - Stumps")
+* [Derbyshire vs Middlesex  LIVE](https://www.cricbuzz.com/live-cricket-scores/85517/derby-vs-mdx-49th-match-county-division-2 "Derbyshire v Middlesex, 49th Match - Live")
     
     49th Match
     
+* [Leicestershire vs Northamptonshire  LIVE](https://www.cricbuzz.com/live-cricket-scores/85535/leic-vs-nhnts-52nd-match-county-division-2 "Leicestershire v Northamptonshire, 52nd Match - Live")
+    
+    52nd Match
+    
+* [Gloucestershire vs Sussex](https://www.cricbuzz.com/live-cricket-scores/85528/gloucs-vs-sus-51st-match-county-division-2 "Gloucestershire v Sussex, 51st Match - Ings Break")
+    
+    51st Match
+    
 * South Africa v Sri Lanka
     
-    [South Africa A vs Sri Lanka A](https://www.cricbuzz.com/live-cricket-scores/105988/rsaa-vs-sla-2nd-unofficial-test-south-africa-v-sri-lanka "South Africa A v Sri Lanka A, 2nd Unofficial Test - Stumps")
+    [South Africa A vs Sri Lanka A  LIVE](https://www.cricbuzz.com/live-cricket-scores/105988/rsaa-vs-sla-2nd-unofficial-test-south-africa-v-sri-lanka "South Africa A v Sri Lanka A, 2nd Unofficial Test - Live")
     
     2nd Unofficial Test
     
@@ -188,7 +196,7 @@ AllLive NowToday
     
 * Australia Women v New Zealand Women
     
-    [Australia Women vs New Zealand Women](https://www.cricbuzz.com/live-cricket-scores/91823/ausw-vs-nzw-1st-t20i-australia-women-v-new-zealand-women "Australia Women v New Zealand Women, 1st T20I - Upcoming")
+    [Australia Women vs New Zealand Women](https://www.cricbuzz.com/live-cricket-scores/91823/ausw-vs-nzw-1st-t20i-australia-women-v-new-zealand-women "Australia Women v New Zealand Women, 1st T20I - Preview")
     
     1st T20I
     
@@ -499,41 +507,41 @@ This Privacy Policy (the “**Privacy Policy**”) serves to inform you of our p
 
 #### LATEST NEWS
 
-  [](https://www.cricbuzz.com/cricket-news/131652/sri-lanka-steady-after-orourkes-early-strikes "Sri Lanka steady after ORourke's early strikes")
+  [](https://www.cricbuzz.com/cricket-news/131659/kamindu-mendis-gives-sri-lanka-opening-day-honours " Kamindu Mendis gives Sri Lanka opening day honours")
 
-[Sri Lanka steady after ORourke's early strikes](https://www.cricbuzz.com/cricket-news/131652/sri-lanka-steady-after-orourkes-early-strikes "Sri Lanka steady after ORourke's early strikes")
+[Kamindu Mendis gives Sri Lanka opening day honours](https://www.cricbuzz.com/cricket-news/131659/kamindu-mendis-gives-sri-lanka-opening-day-honours " Kamindu Mendis gives Sri Lanka opening day honours")
 
-7m ago
+19m ago
 
-  [](https://www.cricbuzz.com/cricket-news/131651/cpl-2024-rakheem-cornwall-de-kock-strengthen-barbados-royals-stay-at-the-top "Cornwall, de Kock power Royals to playoffs")
+  [](https://www.cricbuzz.com/cricket-news/131658/najmul-believes-adaptation-to-be-key-against-india "Najmul believes 'adaptation' to be key against India")
 
-[Cornwall, de Kock power Royals to playoffs](https://www.cricbuzz.com/cricket-news/131651/cpl-2024-rakheem-cornwall-de-kock-strengthen-barbados-royals-stay-at-the-top "Cornwall, de Kock power Royals to playoffs")
+[Najmul believes 'adaptation' to be key against India](https://www.cricbuzz.com/cricket-news/131658/najmul-believes-adaptation-to-be-key-against-india "Najmul believes 'adaptation' to be key against India")
+
+1h ago
+
+  [](https://www.cricbuzz.com/cricket-news/131657/lets-not-be-obsessed-with-the-seam-bowling-all-rounder-gambhir "Let's not be obsessed with the seam-bowling all-rounder: Gambhir")
+
+[Let's not be obsessed with the seam-bowling all-rounder: Gambhir](https://www.cricbuzz.com/cricket-news/131657/lets-not-be-obsessed-with-the-seam-bowling-all-rounder-gambhir "Let's not be obsessed with the seam-bowling all-rounder: Gambhir")
+
+2h ago
+
+  [](https://www.cricbuzz.com/cricket-news/131656/kamindu-ignites-fightback-although-new-zealand-pick-three-in-the-session "Kamindu continues fightback although New Zealand pick three in the session")
+
+[Kamindu continues fightback although New Zealand pick three in the session](https://www.cricbuzz.com/cricket-news/131656/kamindu-ignites-fightback-although-new-zealand-pick-three-in-the-session "Kamindu continues fightback although New Zealand pick three in the session")
+
+3h ago
+
+  [](https://www.cricbuzz.com/cricket-news/131655/rumana-ahmed-axed-from-bangladeshs-world-cup-squad "Rumana Ahmed axed from Bangladesh's World Cup squad")
+
+[Rumana Ahmed axed from Bangladesh's World Cup squad](https://www.cricbuzz.com/cricket-news/131655/rumana-ahmed-axed-from-bangladeshs-world-cup-squad "Rumana Ahmed axed from Bangladesh's World Cup squad")
 
 4h ago
 
-  [](https://www.cricbuzz.com/cricket-news/131650/context-of-cruelty-hangs-over-afghanistan-south-africa-series "Context of cruelty hangs over Afghanistan-South Africa series")
+  [](https://www.cricbuzz.com/cricket-news/131654/bangladesh-out-to-ride-on-historic-high-in-test-crickets-toughest-gig "Bangladesh out to ride on historic high in Test cricket's toughest gig")
 
-[Context of cruelty hangs over Afghanistan-South Africa series](https://www.cricbuzz.com/cricket-news/131650/context-of-cruelty-hangs-over-afghanistan-south-africa-series "Context of cruelty hangs over Afghanistan-South Africa series")
+[Bangladesh out to ride on historic high in Test cricket's toughest gig](https://www.cricbuzz.com/cricket-news/131654/bangladesh-out-to-ride-on-historic-high-in-test-crickets-toughest-gig "Bangladesh out to ride on historic high in Test cricket's toughest gig")
 
-14h ago
-
-  [](https://www.cricbuzz.com/cricket-news/131649/buoyed-sri-lanka-aim-to-topple-undercooked-new-zealand "Buoyed Sri Lanka aim to topple undercooked New Zealand")
-
-[Buoyed Sri Lanka aim to topple undercooked New Zealand](https://www.cricbuzz.com/cricket-news/131649/buoyed-sri-lanka-aim-to-topple-undercooked-new-zealand "Buoyed Sri Lanka aim to topple undercooked New Zealand")
-
-16h ago
-
-  [](https://www.cricbuzz.com/cricket-news/131648/grounded-rana-on-the-upward-curve-believes-andre-adams "Grounded Rana on the upward curve believes Andre Adams")
-
-[Grounded Rana on the upward curve believes Andre Adams](https://www.cricbuzz.com/cricket-news/131648/grounded-rana-on-the-upward-curve-believes-andre-adams "Grounded Rana on the upward curve believes Andre Adams")
-
-17h ago
-
-  [](https://www.cricbuzz.com/cricket-news/131647/rahul-has-rohits-backing-and-messaging-to-flourish-in-test-cricket "Rahul has Rohit's backing and messaging to 'flourish' in Test cricket")
-
-[Rahul has Rohit's backing and messaging to 'flourish' in Test cricket](https://www.cricbuzz.com/cricket-news/131647/rahul-has-rohits-backing-and-messaging-to-flourish-in-test-cricket "Rahul has Rohit's backing and messaging to 'flourish' in Test cricket")
-
-18h ago
+5h ago
 
 [More News](https://www.cricbuzz.com/cricket-news "Click to view more News")
 
