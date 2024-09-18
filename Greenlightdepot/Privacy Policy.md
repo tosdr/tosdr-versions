@@ -83,7 +83,7 @@ Free shipping over $99
     * [Work Lights](https://greenlightdepot.com/collections/work-lights)
     * [Vapor Tight Light](https://greenlightdepot.com/collections/vapor-tight-light)
     * [UVC](https://greenlightdepot.com/collections/ultraviolet-sanitary-lighting)
-    * [Cabinet](https://greenlightdepot.com/products/led-under-cabinet-light-4-seamless-light-bar-power-supply)
+    * [Cabinet](https://greenlightdepot.com/collections/led-cabinet-lights)
     * [Modern](https://greenlightdepot.com/collections/modern)
     * [Pendant](https://greenlightdepot.com/collections/pendant)
 * [Indoor](https://greenlightdepot.com/collections/indoor)
