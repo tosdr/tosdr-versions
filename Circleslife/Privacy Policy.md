@@ -110,19 +110,31 @@ $20/mo
 
 [View details](https://pages.circles.life/sg/data-only-plan/)
 
-[iPhone 15 Pro
+[Phone 16 Pro
 
 5G
 
 eSIM
 
-From $64.08](https://pages.circles.life/sg/combo-plan-black/iphone_15_pro/)[iPhone 15 Plus
+From $66.63](https://pages.circles.life/sg/combo-plan-black/iphone_16_pro_priority/)[iPhone 16
 
 5G
 
 eSIM
 
-From $52.04](https://pages.circles.life/sg/combo-plan-black/iphone_15_plus/)[See all phones](https://pages.circles.life/sg/combo-plan-black/)
+From $54.13](https://pages.circles.life/sg/combo-plan-black/iphone_16_priority/)[iPhone 15 Plus
+
+5G
+
+eSIM
+
+From $52.04](https://pages.circles.life/sg/combo-plan-black/iphone_15_plus/)[iPhone 15
+
+5G
+
+eSIM
+
+From $45.79](https://pages.circles.life/sg/combo-plan-black/iphone_15/)[See all phones](https://pages.circles.life/sg/combo-plan-black/)
 
 150GB
 
