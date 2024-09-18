@@ -188,10 +188,12 @@ Rechercher sur Le Parisien
     
 * [Journal](https://www.kiosque.leparisien.fr/)
     
+* [Boutique 80 ans](https://abonnement.leparisien.fr/boutique/)
+    
 
 * [Annonces](https://www.leparisien.fr/annonces/)
     
-    * [Annonces immobilières](https://annonces-immo.leparisien.fr/)
+    * [Annonces immobilières](https://www.leparisien.fr/nos-services/annonces-immobilieres/)
     * [Avis de décès](https://carnet.leparisien.fr/)
     * [Annonces légales](https://annonces-legales.leparisien.fr/)
     * [Marchés publics](https://avisdemarches.leparisien.fr/)
@@ -208,6 +210,7 @@ Rechercher sur Le Parisien
     * [Comparateurs](https://comparateur.leparisien.fr/)
     * [Jeux Concours](https://www.leparisien.fr/jeux/jeu-concours.php/)
     * [Billetterie](https://www.spectaclescarrefour.leparisien.fr/)
+    * [Annonces immobilières](https://www.leparisien.fr/nos-services/annonces-immobilieres/)
     
 * [Contacter la rédaction](https://www.leparisien.fr/contact/)
     
@@ -539,9 +542,9 @@ Profitez des avantages de l’offre numérique
 
 [Je m'abonne](#)
 
-![](/pf/resources/images/footer_img_abo_desktop.png?d=729)
+![](/pf/resources/images/footer_img_abo_desktop.png?d=730)
 
-![](/pf/resources/images/footer_img_abo_tablet.png?d=729)
+![](/pf/resources/images/footer_img_abo_tablet.png?d=730)
 
 [Centre Français d’Exploitation du Droit de Copie](http://www.cfcopies.com/contrat-autorisation2/)
 
