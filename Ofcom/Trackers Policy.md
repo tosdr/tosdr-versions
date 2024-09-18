@@ -133,6 +133,12 @@
 
 #### Latest news
 
+[![Spectrum Paris 2024](/siteassets/resources/images/-news-centre/body-images/2024/ofcom-sets-gold-medal-standard-at-paris-games/spectrum-paris-2024-thumbnail-1336--560px.jpg?width=1920&height=1085&quality=80)
+
+### Ofcom sets gold medal standard at Paris Games
+
+18 September 2024](https://www.ofcom.org.uk/spectrum/frequencies/ofcom-sets-gold-medal-standard-at-paris-games/)
+
 [![Broadband-engineers laying fibre optic cable (1336 × 520px)](/siteassets/resources/images/-news-centre/thumbnail-images/pricing-and-billing/broadband-engineers-laying-fibre-optic-cable-1336--520px.jpg?width=1920&height=1085&quality=80)
 
 ### Customers to get clearer broadband information
@@ -150,12 +156,6 @@
 ### Simpler broadband switching is here
 
 12 September 2024](https://www.ofcom.org.uk/phones-and-broadband/switching-provider/simpler-broadband-switching-is-here/)
-
-[![](/siteassets/resources/images/-news-centre/thumbnail-images/about-ofcom/ofcom-staff/melanie-connected-britain-web.png?width=1920&height=1085&quality=80)
-
-### Speech: Innovation and imagination: helping our industries lead the world
-
-11 September 2024](https://www.ofcom.org.uk/phones-and-broadband/telecoms-infrastructure/speech-innovation-and-imagination-helping-our-industries-lead-the-world/)
 
  [Cymraeg](https://www.ofcom.org.uk/cy/about-ofcom/our-website/cookies-policy/?language=cy "Switch to Welsh")
 
