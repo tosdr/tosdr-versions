@@ -524,7 +524,7 @@ This website uses functional cookies and anonymous tracking technologies to assi
 
 Sign up now to be the first to get notified of upcoming events, corporate news, new products and design trends.  
   
-I acknowledge and agree to Kronospan’s [**Terms and Conditions**](http://kronospan-express.com/terms_and_conditions/files/Terms-Conditions-201605-v3.pdf "Terms and Conditions") and [**Privacy Policy**](http://kronospan-express.com/terms_and_conditions/files/Privacy-policy-KRONOSPAN-EXPRESS-EN.pdf "Kronospan's Privacy Policy") and to Kronospan's use of my contact information to communicate with me about its products, services or events.
+I acknowledge and agree to Kronospan’s [**Terms and Conditions**](https://kronospan.com/terms_and_conditions/files/Terms-Conditions-202304.pdf "Terms and Conditions") and [**Privacy Policy**](https://kronospan.com/terms_and_conditions/files/Privacy-policy-KRONOSPAN_COM-EN.pdf "Kronospan's Privacy Policy") and to Kronospan's use of my contact information to communicate with me about its products, services or events.
 
  
 
@@ -566,7 +566,7 @@ Country Albania Algeria Andorra Argentina Armenia Australia Austria Bahrain Bela
 
 Sign up now to be the first to get notified of upcoming events, corporate news, new products and design trends.  
   
-I acknowledge and agree to Kronospan’s [**Terms and Conditions**](http://kronospan-express.com/terms_and_conditions/files/Terms-Conditions-201605-v3.pdf "Terms and Conditions") and [**Privacy Policy**](http://kronospan-express.com/terms_and_conditions/files/Privacy-policy-KRONOSPAN-EXPRESS-EN.pdf "Kronospan's Privacy Policy") and to Kronospan's use of my contact information to communicate with me about its products, services or events.
+I acknowledge and agree to Kronospan’s [**Terms and Conditions**](https://kronospan.com/terms_and_conditions/files/Terms-Conditions-202304.pdf "Terms and Conditions") and [**Privacy Policy**](https://kronospan.com/terms_and_conditions/files/Privacy-policy-KRONOSPAN_COM-EN.pdf "Kronospan's Privacy Policy") and to Kronospan's use of my contact information to communicate with me about its products, services or events.
 
  
 
