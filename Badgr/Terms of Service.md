@@ -269,6 +269,7 @@ Main
             * [Videos](https://info.badgr.com/resources/videos)
             * [Infographics](https://info.badgr.com/resources/infographic)
             * [On-Demand Webinars](https://info.badgr.com/resources/webinars)
+            * [InstructureCast](https://info.badgr.com/resources/instructurecast)
             * [AI Resources](https://info.badgr.com/resources/artificial-intelligence)
             * [All Resources](https://info.badgr.com/resources)
     * Column
@@ -529,6 +530,7 @@ Main
             * [Videos](https://info.badgr.com/resources/videos)
             * [Infographics](https://info.badgr.com/resources/infographic)
             * [On-Demand Webinars](https://info.badgr.com/resources/webinars)
+            * [InstructureCast](https://info.badgr.com/resources/instructurecast)
             * [AI Resources](https://info.badgr.com/resources/artificial-intelligence)
             * [All Resources](https://info.badgr.com/resources)
     * Column
