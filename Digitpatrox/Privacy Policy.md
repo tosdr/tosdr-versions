@@ -20,16 +20,16 @@ Wednesday, September 18 2024
 
 Latest
 
-* [Reviewing the iPhone 16, Apple Watch 10, and AirPods 4](https://digitpatrox.com/reviewing-the-iphone-16-apple-watch-10-and-airpods-4/)
-* [Pixel 9 Pro Fold vs Galaxy Z Fold 6: A Foldable Showdown](https://digitpatrox.com/pixel-9-pro-fold-vs-galaxy-z-fold-6-a-foldable-showdown/)
-* [How do you value your expertise when selling to experts?](https://digitpatrox.com/how-do-you-value-your-expertise-when-selling-to-experts/)
-* [The anti-iPad-ification of Google’s Android tablets – Computerworld](https://digitpatrox.com/the-anti-ipad-ification-of-googles-android-tablets-computerworld/)
-* [How Deep Should You Squat?](https://digitpatrox.com/how-deep-should-you-squat/)
-* [Tips for Stronger Passwords – Consumer Reports](https://digitpatrox.com/tips-for-stronger-passwords-consumer-reports/)
-* [ANC Performance that Perfectly Matches the Price](https://digitpatrox.com/anc-performance-that-perfectly-matches-the-price/)
-* [Do Emissions Credits Skew Sustainability Reporting?](https://digitpatrox.com/do-emissions-credits-skew-sustainability-reporting/)
-* [‘Cobra Kai’ co-creator reveals why this ‘Karate Kid’ actor never appeared on the Netflix show](https://digitpatrox.com/cobra-kai-co-creator-reveals-why-this-karate-kid-actor-never-appeared-on-the-netflix-show/)
-* [Backup by BioLite is a beefy emergency battery for your big appliances](https://digitpatrox.com/backup-by-biolite-is-a-beefy-emergency-battery-for-your-big-appliances/)
+* [Microsoft signs off on $100 billion investment plan for data center development](https://digitpatrox.com/microsoft-signs-off-on-100-billion-investment-plan-for-data-center-development/)
+* [Best Crypto Payment Gateways for Businesses in 2024](https://digitpatrox.com/best-crypto-payment-gateways-for-businesses-in-2024/)
+* [Windmill AC 3.0 review: A smart air conditioner that’s attractive, quiet and powerful](https://digitpatrox.com/windmill-ac-3-0-review-a-smart-air-conditioner-thats-attractive-quiet-and-powerful/)
+* [Lionsgate signs deal to train AI model on its movies and shows](https://digitpatrox.com/lionsgate-signs-deal-to-train-ai-model-on-its-movies-and-shows/)
+* [Anime Vanguards Surpasses Blox Fruits to Become Top Earning Roblox Game](https://digitpatrox.com/anime-vanguards-surpasses-blox-fruits-to-become-top-earning-roblox-game/)
+* [River Delta Unified School District data breach: ransomware gang claims responsibility](https://digitpatrox.com/river-delta-unified-school-district-data-breach-ransomware-gang-claims-responsibility/)
+* [Securing the future of your business through cybersecurity education and training](https://digitpatrox.com/securing-the-future-of-your-business-through-cybersecurity-education-and-training/)
+* [Apple delivers enterprise IT improvements for iPhone, iPad, and the Mac – Computerworld](https://digitpatrox.com/apple-delivers-enterprise-it-improvements-for-iphone-ipad-and-the-mac-computerworld/)
+* [These Are the Most Credible Nintendo Switch 2 Rumors](https://digitpatrox.com/these-are-the-most-credible-nintendo-switch-2-rumors/)
+* [How to use Credential Manager on Windows 10](https://digitpatrox.com/how-to-use-credential-manager-on-windows-10/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,35 +171,35 @@ Popular Posts
     4 weeks ago
     
 
-* [![](https://cdn.vox-cdn.com/thumbor/QwDO3hi2fK6BSnrl1xxbImSQu78=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/25627787/VRG_VST_0918_Site.jpg)](https://digitpatrox.com/reviewing-the-iphone-16-apple-watch-10-and-airpods-4/)
+* [![](https://cdn.mos.cms.futurecdn.net/9cTyiBRdDK9hHRkkAWkpR7-1200-80.jpg)](https://digitpatrox.com/microsoft-signs-off-on-100-billion-investment-plan-for-data-center-development/)
     
-    [Reviewing the iPhone 16, Apple Watch 10, and AirPods 4](https://digitpatrox.com/reviewing-the-iphone-16-apple-watch-10-and-airpods-4/)
+    [Microsoft signs off on $100 billion investment plan for data center development](https://digitpatrox.com/microsoft-signs-off-on-100-billion-investment-plan-for-data-center-development/)
     
-    38 mins ago
+    16 mins ago
     
-* [![](https://beebom.com/wp-content/uploads/2024/09/Pixel-9-Pro-XL-vs-Samsung-Galaxy-Z-Fold-6-Design.jpg?w=1250&quality=75)](https://digitpatrox.com/pixel-9-pro-fold-vs-galaxy-z-fold-6-a-foldable-showdown/)
+* [![](https://assets.techrepublic.com/uploads/2024/09/AdobeStock_502572344.jpg)](https://digitpatrox.com/best-crypto-payment-gateways-for-businesses-in-2024/)
     
-    [Pixel 9 Pro Fold vs Galaxy Z Fold 6: A Foldable Showdown](https://digitpatrox.com/pixel-9-pro-fold-vs-galaxy-z-fold-6-a-foldable-showdown/)
+    [Best Crypto Payment Gateways for Businesses in 2024](https://digitpatrox.com/best-crypto-payment-gateways-for-businesses-in-2024/)
     
-    39 mins ago
+    18 mins ago
     
-* [![](https://cdn.mos.cms.futurecdn.net/LuaeP2PNFuBCyx3bXyJkuT-1200-80.jpg)](https://digitpatrox.com/how-do-you-value-your-expertise-when-selling-to-experts/)
+* [![](https://cdn.mos.cms.futurecdn.net/9cyLuGAWmfcCneHfXScDPG-1200-80.jpg)](https://digitpatrox.com/windmill-ac-3-0-review-a-smart-air-conditioner-thats-attractive-quiet-and-powerful/)
     
-    [How do you value your expertise when selling to experts?](https://digitpatrox.com/how-do-you-value-your-expertise-when-selling-to-experts/)
+    [Windmill AC 3.0 review: A smart air conditioner that’s attractive, quiet and powerful](https://digitpatrox.com/windmill-ac-3-0-review-a-smart-air-conditioner-thats-attractive-quiet-and-powerful/)
+    
+    36 mins ago
+    
+* [![](https://cdn.vox-cdn.com/thumbor/KJGAI6rKgx9R_9FWik8znQbOwZw=/0x0:4096x2047/1200x628/filters:focal(2048x1024:2049x1025)/cdn.vox-cdn.com/uploads/chorus_asset/file/25628098/mega_04_11_43_07_00362479rc.jpg)](https://digitpatrox.com/lionsgate-signs-deal-to-train-ai-model-on-its-movies-and-shows/)
+    
+    [Lionsgate signs deal to train AI model on its movies and shows](https://digitpatrox.com/lionsgate-signs-deal-to-train-ai-model-on-its-movies-and-shows/)
     
     2 hours ago
     
-* [![](https://www.computerworld.com/wp-content/uploads/2024/09/3526335-0-05118800-1726653914-google-android-tablets.jpg?quality=50&strip=all&w=1024)](https://digitpatrox.com/the-anti-ipad-ification-of-googles-android-tablets-computerworld/)
+* [![](https://beebom.com/wp-content/uploads/2024/09/Anime-Vanguards-top-earner-on-Roblox-over-Blox-Fruits-cover.jpg)](https://digitpatrox.com/anime-vanguards-surpasses-blox-fruits-to-become-top-earning-roblox-game/)
     
-    [The anti-iPad-ification of Google’s Android tablets – Computerworld](https://digitpatrox.com/the-anti-ipad-ification-of-googles-android-tablets-computerworld/)
+    [Anime Vanguards Surpasses Blox Fruits to Become Top Earning Roblox Game](https://digitpatrox.com/anime-vanguards-surpasses-blox-fruits-to-become-top-earning-roblox-game/)
     
     2 hours ago
-    
-* [![](https://lifehacker.com/imagery/articles/01HF2GKSXD57ASA1A4S0MY8TV7/hero-image.fill.size_1200x675.jpg)](https://digitpatrox.com/how-deep-should-you-squat/)
-    
-    [How Deep Should You Squat?](https://digitpatrox.com/how-deep-should-you-squat/)
-    
-    3 hours ago
     
 
 ![](https://digitpatrox.com/wp-content/uploads/2023/12/Digitpatrox-NEW-Logo-White.png)
@@ -208,48 +208,48 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [38 mins ago
+* [16 mins ago
     
-    ### Reviewing the iPhone 16, Apple Watch 10, and AirPods 4](https://digitpatrox.com/reviewing-the-iphone-16-apple-watch-10-and-airpods-4/)
-* [39 mins ago
+    ### Microsoft signs off on $100 billion investment plan for data center development](https://digitpatrox.com/microsoft-signs-off-on-100-billion-investment-plan-for-data-center-development/)
+* [18 mins ago
     
-    ### Pixel 9 Pro Fold vs Galaxy Z Fold 6: A Foldable Showdown](https://digitpatrox.com/pixel-9-pro-fold-vs-galaxy-z-fold-6-a-foldable-showdown/)
-* [2 hours ago
+    ### Best Crypto Payment Gateways for Businesses in 2024](https://digitpatrox.com/best-crypto-payment-gateways-for-businesses-in-2024/)
+* [36 mins ago
     
-    ### How do you value your expertise when selling to experts?](https://digitpatrox.com/how-do-you-value-your-expertise-when-selling-to-experts/)
+    ### Windmill AC 3.0 review: A smart air conditioner that’s attractive, quiet and powerful](https://digitpatrox.com/windmill-ac-3-0-review-a-smart-air-conditioner-thats-attractive-quiet-and-powerful/)
 
 Most Popular Topics
 
-* [23 hours ago
+* [3 weeks ago
     
-    ### How to upgrade to Windows 10 from Windows 8.1](https://digitpatrox.com/how-to-upgrade-to-windows-10-from-windows-8-1/)
+    ### US offers $2.5 million reward for hacker linked to Angler Exploit Kit](https://digitpatrox.com/us-offers-2-5-million-reward-for-hacker-linked-to-angler-exploit-kit/)
 * [2 weeks ago
     
-    ### Thousands of E-books Are Free Tomorrow for ‘Stuff Your Kindle Day’](https://digitpatrox.com/thousands-of-e-books-are-free-tomorrow-for-stuff-your-kindle-day/)
-* [1 day ago
+    ### The Best Movies and TV Shows to Watch on Netflix This Month](https://digitpatrox.com/the-best-movies-and-tv-shows-to-watch-on-netflix-this-month/)
+* [August 13, 2024
     
-    ### AC Milan vs Liverpool live streams: watch Champions League](https://digitpatrox.com/ac-milan-vs-liverpool-live-streams-watch-champions-league/)
+    ### Best Blenders for Every Price Range](https://digitpatrox.com/best-blenders-for-every-price-range/)
 
 Last Modified Topics
 
 * [3 hours ago
     
-    ### ANC Performance that Perfectly Matches the Price](https://digitpatrox.com/anc-performance-that-perfectly-matches-the-price/)
+    ### Securing the future of your business through cybersecurity education and training](https://digitpatrox.com/securing-the-future-of-your-business-through-cybersecurity-education-and-training/)
+* [3 hours ago
+    
+    ### Apple delivers enterprise IT improvements for iPhone, iPad, and the Mac – Computerworld](https://digitpatrox.com/apple-delivers-enterprise-it-improvements-for-iphone-ipad-and-the-mac-computerworld/)
 * [4 hours ago
     
-    ### Do Emissions Credits Skew Sustainability Reporting?](https://digitpatrox.com/do-emissions-credits-skew-sustainability-reporting/)
-* [5 hours ago
-    
-    ### ‘Cobra Kai’ co-creator reveals why this ‘Karate Kid’ actor never appeared on the Netflix show](https://digitpatrox.com/cobra-kai-co-creator-reveals-why-this-karate-kid-actor-never-appeared-on-the-netflix-show/)
+    ### These Are the Most Credible Nintendo Switch 2 Rumors](https://digitpatrox.com/these-are-the-most-credible-nintendo-switch-2-rumors/)
 
 Most Viewed Topics
 
-* [August 13, 2024
+* [August 12, 2024
     
-    ### TikTok Is Pushing Old and False News as ”Breaking” Alerts](https://digitpatrox.com/tiktok-is-pushing-old-and-false-news-as-breaking-alerts/)
-* [August 13, 2024
+    ### Texas Board of Physical Therapy Examiners breached, SSNs and other info compromised](https://digitpatrox.com/texas-board-of-physical-therapy-examiners-breached-ssns-and-other-info-compromised/)
+* [August 11, 2024
     
-    ### How to manage a road trip move](https://digitpatrox.com/how-to-manage-a-road-trip-move/)
+    ### US citizen charged with aiding North Korean hackers moonlighting as tech workers](https://digitpatrox.com/us-citizen-charged-with-aiding-north-korean-hackers-moonlighting-as-tech-workers/)
 * [4 weeks ago
     
     ### Wordle Answer for Today, August 21, 2024](https://digitpatrox.com/wordle-answer-for-today-august-21-2024/)
