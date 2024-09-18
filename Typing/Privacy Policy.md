@@ -35,6 +35,8 @@ US English
 
 [* Typing Lessons](https://www.typing.com/student/lessons)[* Typing Test](https://www.typing.com/student/tests)[* Typing Games](https://www.typing.com/student/games)[* Digital Literacy](https://www.typing.com/student/digital-literacy)[* Coding Curriculum](https://www.typing.com/student/coding-curriculum)
 
+[What's New](https://www.typing.com/whats-new)
+
 ![us](/dist/shared/images/flags/us.png)
 
 US English
@@ -72,6 +74,7 @@ Sign Up
 * [Homeschool](https://www.typing.com/homeschool)
 * [PLUS Edition](https://www.typing.com/premium)
 * [Typing Lessons](https://www.typing.com/student/lessons)
+* [What's New](https://www.typing.com/whats-new)
 
 * ![](/dist/site_typing/images/icons/support.png)
     
@@ -94,8 +97,8 @@ Select a product:
 Privacy Policy
 ==============
 
-Privacy Policy Updated: June 2024
----------------------------------
+Privacy Policy Updated: September 2024
+--------------------------------------
 
 Thank you for your interest in Typing.com! Please read the below privacy policy in detail. However, in plain English: Typing.com offers both a free (Student and Teacher), ad-supported version and a premium (Student and Teacher), subscription-based version. The personal information that we collect, use, share, and disclose is dependent upon the version utilized. **In either version, we do not share, sell, or otherwise give away private information or information that, by itself, can identify you as a specific individual!**
 
@@ -270,6 +273,7 @@ Gather parental or guardian consent with this editable take-home letter.
 * [Homeschool](https://www.typing.com/homeschool)
 * [PLUS Edition](https://www.typing.com/plus)
 * [Students](https://www.typing.com/student/lessons)
+* [What's New](https://www.typing.com/whats-new)
 
 * [Typing Lessons](https://www.typing.com/student/lessons)
 * [Typing Test](https://www.typing.com/student/tests)
