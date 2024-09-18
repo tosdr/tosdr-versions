@@ -154,9 +154,9 @@ Katalog durchsuchen  löschen Packstation suchen
 
 [](https://www.emp.de/autumn-must-haves/)
 
-Gratis Versand ab 39,99€!
+Highway to Herbst: Alles für deine Dark Season!
 
-[Schlag zu!](https://www.emp.de/autumn-must-haves/ "Schlag zu!") Code **FREE** kopieren
+[Schlag zu!](https://www.emp.de/autumn-must-haves/ "Schlag zu!")
 
 Die Javascript-Funktion Ihres Browsers ist deaktiviert.
 
@@ -491,7 +491,7 @@ Anmelden
 
 Unser Kundenservice ist für dich da
 
-Ja, unser Kundenservice ist heute erreichbar bis 18:00 Uhr. [Mehr Infos](https://www.emp.de/kontakt)
+Ja, unser Kundenservice ist heute wieder erreichbar von 08:00 Uhr bis 18:00 Uhr. [Mehr Infos](https://www.emp.de/kontakt)
 
 Live-Chat starten
 
