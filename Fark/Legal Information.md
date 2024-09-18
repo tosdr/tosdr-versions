@@ -228,11 +228,11 @@ It's Not News, It's Fark
 
 [Report](https://www.fark.com/farkback/)
 
-If you like these links, you'll love
+Want to see behind the curtain? Try
 
 ![TotalFark](https://img.fark.net/images/2017/site/totalfark_logo_2017.png)
 
-Come check out what's behind the curtain.
+It's how we feed the squirrel
 
 [learn more](https://www.fark.com/farq/about/#What_is_TotalFark) | [sign up](https://www.fark.com/totalfarksignup)
 
@@ -332,16 +332,16 @@ Also on Fark
 
 |     |     |
 | --- | --- |
-| [Main](https://www.fark.com/) | [The explosions went a little over budget](https://www.fark.com/goto/13397070) ( [tmz.com](https://www.fark.com/goto/13397070) ) » [(13 comments)](https://www.fark.com/comments/13397070/The-explosions-went-a-little-over-budget) |
-| [Discussion](https://www.fark.com/discussion/) | [The Tuesday Night Science Channel Discussion Thread, 9PM Eastern](https://www.fark.com/goto/13396338) ( [fark.com](https://www.fark.com/goto/13396338) ) » [(2 comments)](https://www.fark.com/comments/13396338/The-Tuesday-Night-Science-Channel-Discussion-Thread-9PM-Eastern) |
-| [Sports](https://www.fark.com/sports/) | [Tonight on NXT: Jacy takes on Lola, Tatum & Lyra faces Wendy & TNA's Rosemary, Ashante battles DJ Platonic, NQCC tussle with Cedric & Je'Von, Trick & Ethan sign a contract & CM Punk has some news. See what else happens at 8 PM ET on USA](https://www.fark.com/goto/13396776) ( [wwe.com](https://www.fark.com/goto/13396776) ) » [(22 comments)](https://www.fark.com/comments/13396776/Tonight-on-NXT-Jacy-takes-on-Lola-Tatum-Lyra-faces-Wendy-TNAs-Rosemary-Ashante-battles-DJ-Platonic-NQCC-tussle-with-Cedric-JeVon-Trick-Ethan-sign-a-contract-CM-Punk-has-some-news-See-what-else-happens-at-8-PM-ET-on-USA) |
-| [Business](https://www.fark.com/business/) | [The Fed is raising the Dow on behalf of the Deep State](https://www.fark.com/goto/13396962) ( [qz.com](https://www.fark.com/goto/13396962) ) » [(7 comments)](https://www.fark.com/comments/13396962/The-Fed-is-raising-Dow-on-behalf-of-Deep-State) |
-| [STEM](https://www.fark.com/stem/) | [The Tuesday Night Science Channel Discussion Thread, 9PM Eastern](https://www.fark.com/goto/13396338) ( [fark.com](https://www.fark.com/goto/13396338) ) » [(2 comments)](https://www.fark.com/comments/13396338/The-Tuesday-Night-Science-Channel-Discussion-Thread-9PM-Eastern) |
-| [Entertainment](https://www.fark.com/entertainment/) | [The explosions went a little over budget](https://www.fark.com/goto/13397070) ( [tmz.com](https://www.fark.com/goto/13397070) ) » [(13 comments)](https://www.fark.com/comments/13397070/The-explosions-went-a-little-over-budget) |
-| [Fandom](https://www.fark.com/fandom/) | [You thought Clark Kent wore big specs?](https://www.fark.com/goto/13396870) ( [techcrunch.com](https://www.fark.com/goto/13396870) ) » [(10 comments)](https://www.fark.com/comments/13396870/You-thought-Clark-Kent-wore-big-specs) |
+| [Main](https://www.fark.com/) | [Schoolboy who liked Minecraft and may have been bullied goes on knife-and-hammer rampage during physics class, wounding four, one gravely. Apparently it's hard for a teenager to buy an AR-15 in Russia](https://www.fark.com/goto/13397218) ( [dailymail.co.uk](https://www.fark.com/goto/13397218) ) » [(0 comments)](https://www.fark.com/comments/13397218/Schoolboy-who-liked-Minecraft-may-have-been-bullied-goes-on-knife-hammer-rampage-during-physics-class-wounding-four-one-gravely-Apparently-its-hard-for-a-teenager-to-buy-an-AR-15-in-Russia) |
+| [Discussion](https://www.fark.com/discussion/) | [The Tuesday Night Science Channel Discussion Thread, 9PM Eastern](https://www.fark.com/goto/13396338) ( [fark.com](https://www.fark.com/goto/13396338) ) » [(78 comments)](https://www.fark.com/comments/13396338/The-Tuesday-Night-Science-Channel-Discussion-Thread-9PM-Eastern) |
+| [Sports](https://www.fark.com/sports/) | [Jerry actually thinks the Cowboys will make the playoffs this year](https://www.fark.com/goto/13396984) ( [nbcsports.com](https://www.fark.com/goto/13396984) ) » [(11 comments)](https://www.fark.com/comments/13396984/Jerry-actually-thinks-Cowboys-will-make-playoffs-this-year) |
+| [Business](https://www.fark.com/business/) | [Southern Baptist Convention selling its Nashville headquarters to cover legal fees, judgments for several sexual assault, harassment cases involving its president, other officials](https://www.fark.com/goto/13397196) ( [al.com](https://www.fark.com/goto/13397196) ) » [(6 comments)](https://www.fark.com/comments/13397196/Southern-Baptist-Convention-selling-its-Nashville-headquarters-to-cover-legal-fees-judgments-for-several-sexual-assault-harassment-cases-involving-its-president-other-officials) |
+| [STEM](https://www.fark.com/stem/) | [Jiggity](https://www.fark.com/goto/13396628) ( [wired2fish.com](https://www.fark.com/goto/13396628) ) » [(4 comments)](https://www.fark.com/comments/13396628/Jiggity) |
+| [Entertainment](https://www.fark.com/entertainment/) | [And LOTS of butt stuff](https://www.fark.com/goto/13397244) ( [yahoo.com](https://www.fark.com/goto/13397244) ) » [(3 comments)](https://www.fark.com/comments/13397244/And-LOTS-of-butt-stuff) |
+| [Fandom](https://www.fark.com/fandom/) | [Men in Black could have been much, much worse](https://www.fark.com/goto/13397216) ( [hollywoodreporter.com](https://www.fark.com/goto/13397216) ) » [(10 comments)](https://www.fark.com/comments/13397216/Men-in-Black-could-have-been-much-much-worse) |
 | [D'awww](https://www.fark.com/dawww/) | [So glad I wore my brown shorts today](https://www.fark.com/goto/13396968) ( [wfsb.com](https://www.fark.com/goto/13396968) ) » [(4 comments)](https://www.fark.com/comments/13396968/So-glad-I-wore-my-brown-shorts-today) |
-| [Food](https://www.fark.com/food/) | [Bite-size pastries filled with pureed salmon. Geometric chicken cubes with beet polenta. Tiny cakes with "Happy Birthday" printed on the inside - you have to take a bite to get the message](https://www.fark.com/goto/13396908) ( [expmag.com](https://www.fark.com/goto/13396908) ) » [(5 comments)](https://www.fark.com/comments/13396908/Bite-size-pastries-filled-with-pureed-salmon-Geometric-chicken-cubes-with-beet-polenta-Tiny-cakes-with-Happy-Birthday-printed-on-inside-you-have-to-take-a-bite-to-get-message) |
-| [Politics](https://www.fark.com/politics/) | [Oh, dear. He's gonna be posting "I HATE DOLLY PARTON" soon, isn't he?](https://www.fark.com/goto/13397052) ( [variety.com](https://www.fark.com/goto/13397052) ) » [(22 comments)](https://www.fark.com/comments/13397052/Oh-dear-Hes-gonna-be-posting-I-HATE-DOLLY-PARTON-soon-isnt-he) |
+| [Food](https://www.fark.com/food/) | [Beer's best friend](https://www.fark.com/goto/13396978) ( [scitechdaily.com](https://www.fark.com/goto/13396978) ) » [(12 comments)](https://www.fark.com/comments/13396978/Beers-best-friend) |
+| [Politics](https://www.fark.com/politics/) | [Multiple Tucson rally goers onstage with Trump suffered eye injuries for unknown reasons](https://www.fark.com/goto/13397232) ( [kvoa.com](https://www.fark.com/goto/13397232) ) » [(21 comments)](https://www.fark.com/comments/13397232/Multiple-Tucson-rally-goers-onstage-with-Trump-suffered-eye-injuries-for-unknown-reasons) |
 
 * Fark :: [Main](https://www.fark.com/) | [Discussion](https://www.fark.com/discussion/) | [Sports](https://www.fark.com/sports/) | [Business](https://www.fark.com/business/) | [STEM](https://www.fark.com/stem/) | [Entertainment](https://www.fark.com/entertainment/) | [Fandom](https://www.fark.com/fandom/) | [D'awww](https://www.fark.com/dawww/) | [Food](https://www.fark.com/food/) | [Politics](https://www.fark.com/politics/)
 * Total Fark :: [TotalFark](https://total.fark.com/) | [TF Live](https://total.fark.com/live/) | [TF Advice](https://total.fark.com/advice/) | [TF Discussion](https://total.fark.com/tfdiscussion/) | [Commented](https://total.fark.com/commented/) | [Top Voted](https://total.fark.com/linkvote/) | [Greenlit](https://total.fark.com/greenlit/)
@@ -351,7 +351,7 @@ Also on Fark
 
 [Submit a Link »](https://www.fark.com/submit/)
 
-Copyright © 1999 - 2024 Fark, Inc | Last updated: Sep 17 2024 20:42:12  
+Copyright © 1999 - 2024 Fark, Inc | Last updated: Sep 18 2024 02:42:53  
 [Contact Us via Farkback](https://www.fark.com/farkback)  |  [Report a bug/error msg](https://www.fark.com/farkback/error)  |  [Terms of service/legal/privacy policy](https://www.fark.com/farq/legal)  |  [Do Not Sell or Share My Personal Information](javascript:void(0))  
 ![](https://www.fark.com/ll)
 
