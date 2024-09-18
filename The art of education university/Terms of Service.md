@@ -22,13 +22,19 @@
         * [Course Policies](https://theartofeducation.edu/courses/course-policies/)
         * [Faculty](https://theartofeducation.edu/about/faculty-and-staff/)
     * [![](https://theartofeducation.edu/wp-content/uploads/2023/01/now-conference-icon.svg)NOW Conference](https://theartofeducation.edu/now/)
-* [Magazine & Media](https://theartofeducation.edu/magazine/)
+* Magazine & Media
+    * [Articles](https://theartofeducation.edu/magazine/)
+    * [Podcasts](https://theartofeducation.edu/podcasts/)
+    * [Videos](https://theartofeducation.edu/videos/)
+    * [Community](https://community.theartofeducation.edu/)
 * About
     * [Overview](https://theartofeducation.edu/about/)
     * [Work with Us](https://theartofeducation.edu/work-with-aoe/)
     * [Meet The Team](https://theartofeducation.edu/about/meet-the-team/)
 * [Shop](http://artofed.info/store)
-* [Help Center](https://help.theartofeducation.edu/)
+* Support
+    * [Help Center](https://help.theartofeducation.edu/)
+    * [Community](https://community.theartofeducation.edu/)
 * [Login](https://app.theartofeducation.edu/)
 
 Search
@@ -848,9 +854,9 @@ Main: [515.650.3198](tel:515-650-3198)
 
 #### Social
 
-* [![](https://theartofeducation.edu/wp-content/themes/aoeu/dist/images/aoeu-palette-social-icon.svg)Community](https://community.theartofeducation.edu/)
+* [Community](https://community.theartofeducation.edu/)
 * [Facebook](https://www.facebook.com/theartofed/)
-* [Twitter](https://twitter.com/theartofed)
+* [X](https://twitter.com/theartofed)
 * [Instagram](https://instagram.com/theartofed)
 * [LinkedIn](https://www.linkedin.com/school/theartofeducationuniversity/)
 * [Pinterest](https://www.pinterest.com/theartofeducation/)
