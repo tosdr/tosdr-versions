@@ -15,7 +15,6 @@
 * [REGISTER STUDENT ACCOUNT](https://gry.revas.pl/register.php?locale=en-GB)
 * [EN](#)
     * [EN](https://www.revas.online/en/)
-    * [DE](https://www.revas.online/de/)
     * [PL](https://revas.pl/)
 * [**Menu** Menu](#)
 
