@@ -16,20 +16,20 @@
 * [Switch skin](# "Switch skin")
 * [Search for](#)
 
-Tuesday, September 17 2024
+Wednesday, September 18 2024
 
 Latest
 
-* [How to disable Lock Screen on Windows 10](https://digitpatrox.com/how-to-disable-lock-screen-on-windows-10/)
-* [The Downsides of Disinfecting Wipes](https://digitpatrox.com/the-downsides-of-disinfecting-wipes/)
-* [I Have One Subscription for Hundreds of Mac Apps—Should You?](https://digitpatrox.com/i-have-one-subscription-for-hundreds-of-mac-apps-should-you/)
-* [Securing your business with education and training](https://digitpatrox.com/securing-your-business-with-education-and-training/)
-* [Australian IT Spending to Surge in 2025: Cybersecurity & AI Focus](https://digitpatrox.com/australian-it-spending-to-surge-in-2025-cybersecurity-ai-focus/)
-* [Early Prime Day sale live on Amazon apparel — shop jeans, sweaters and more from $10](https://digitpatrox.com/early-prime-day-sale-live-on-amazon-apparel-shop-jeans-sweaters-and-more-from-10/)
-* [How to use macOS Terminal and what it’s useful for](https://digitpatrox.com/how-to-use-macos-terminal-and-what-its-useful-for/)
-* [Exploding pagers kill at least eight and injure thousands in an attack on Hezbollah](https://digitpatrox.com/exploding-pagers-kill-at-least-eight-and-injure-thousands-in-an-attack-on-hezbollah/)
-* [How to Unhide Apps on iPhone in iOS 18](https://digitpatrox.com/how-to-unhide-apps-on-iphone-in-ios-18/)
-* [Medusa ransomware gang claims responsibility for cyber attack on Providence, RI schools](https://digitpatrox.com/medusa-ransomware-gang-claims-responsibility-for-cyber-attack-on-providence-ri-schools/)
+* [OpenAI Strawberry: What is o1-preview and what can it do?](https://digitpatrox.com/openai-strawberry-what-is-o1-preview-and-what-can-it-do/)
+* [How Apple’s quiet visionOS update hints at its plans – Computerworld](https://digitpatrox.com/how-apples-quiet-visionos-update-hints-at-its-plans-computerworld/)
+* [Target’s ‘Circle Week’ Sale Starts Before Amazon’s October Prime Day](https://digitpatrox.com/targets-circle-week-sale-starts-before-amazons-october-prime-day/)
+* [Windows 11 24H2 release date set for September 24 (early) and October 8, 2024 (official)](https://digitpatrox.com/windows-11-24h2-release-date-set-for-september-24-early-and-october-8-2024-official/)
+* [Coolest Things Your iPhone Can Do With iOS 18 with iOS 18](https://digitpatrox.com/coolest-things-your-iphone-can-do-with-ios-18-with-ios-18/)
+* [How to See Who Is Following You on Facebook](https://digitpatrox.com/how-to-see-who-is-following-you-on-facebook/)
+* [Salesforce CEO wants to “break the hypnosis coming from vendors” on AI](https://digitpatrox.com/salesforce-ceo-wants-to-break-the-hypnosis-coming-from-vendors-on-ai/)
+* [The 6 Best Software Testing Courses in 2024](https://digitpatrox.com/the-6-best-software-testing-courses-in-2024/)
+* [How to watch ‘Agatha All Along’ online, Disney plus deal](https://digitpatrox.com/how-to-watch-agatha-all-along-online-disney-plus-deal/)
+* [In defense of the iPhone Action Button](https://digitpatrox.com/in-defense-of-the-iphone-action-button/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,33 +171,33 @@ Popular Posts
     4 weeks ago
     
 
-* [![](https://pureinfotech.com/wp-content/uploads/2023/10/windows-10-disable-lock-screen-hero-mauro-huculak.webp)](https://digitpatrox.com/how-to-disable-lock-screen-on-windows-10/)
+* [![](https://cdn.mos.cms.futurecdn.net/9944EGjar5x4f7f2oC6yL6-1200-80.jpg)](https://digitpatrox.com/openai-strawberry-what-is-o1-preview-and-what-can-it-do/)
     
-    [How to disable Lock Screen on Windows 10](https://digitpatrox.com/how-to-disable-lock-screen-on-windows-10/)
+    [OpenAI Strawberry: What is o1-preview and what can it do?](https://digitpatrox.com/openai-strawberry-what-is-o1-preview-and-what-can-it-do/)
     
-    16 mins ago
+    3 mins ago
     
-* [![](https://article.images.consumerreports.org/image/upload/t_article_tout/v1725552920/prod/content/dam/CRO-Images-2024/Health/CR-Health-InlineHero-Why-Parents-Should-Be-Cautious-When-Using-Household-Disinfectants-0924)](https://digitpatrox.com/the-downsides-of-disinfecting-wipes/)
+* [![](https://www.computerworld.com/wp-content/uploads/2024/09/3526338-0-08694000-1726588900-Apple-visionOS-2-Persona-enhancements.jpg?quality=50&strip=all&w=1024)](https://digitpatrox.com/how-apples-quiet-visionos-update-hints-at-its-plans-computerworld/)
     
-    [The Downsides of Disinfecting Wipes](https://digitpatrox.com/the-downsides-of-disinfecting-wipes/)
-    
-    25 mins ago
-    
-* [![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/09/a-macbook-with-the-setapp-logo-and-some-apps-in-the-background.jpg)](https://digitpatrox.com/i-have-one-subscription-for-hundreds-of-mac-apps-should-you/)
-    
-    [I Have One Subscription for Hundreds of Mac Apps—Should You?](https://digitpatrox.com/i-have-one-subscription-for-hundreds-of-mac-apps-should-you/)
+    [How Apple’s quiet visionOS update hints at its plans – Computerworld](https://digitpatrox.com/how-apples-quiet-visionos-update-hints-at-its-plans-computerworld/)
     
     26 mins ago
     
-* [![](https://cdn.mos.cms.futurecdn.net/LSRN86rKvdXginPCasTAiG-1200-80.jpg)](https://digitpatrox.com/securing-your-business-with-education-and-training/)
+* [![](https://lifehacker.com/imagery/articles/01J80XWD0Y6E9JF228XBNC0S0M/hero-image.fill.size_1200x675.jpg)](https://digitpatrox.com/targets-circle-week-sale-starts-before-amazons-october-prime-day/)
     
-    [Securing your business with education and training](https://digitpatrox.com/securing-your-business-with-education-and-training/)
+    [Target’s ‘Circle Week’ Sale Starts Before Amazon’s October Prime Day](https://digitpatrox.com/targets-circle-week-sale-starts-before-amazons-october-prime-day/)
+    
+    51 mins ago
+    
+* [![](https://pureinfotech.com/wp-content/uploads/2024/09/windows-11-24h2-final-version-hero-mauro-huculak.webp)](https://digitpatrox.com/windows-11-24h2-release-date-set-for-september-24-early-and-october-8-2024-official/)
+    
+    [Windows 11 24H2 release date set for September 24 (early) and October 8, 2024 (official)](https://digitpatrox.com/windows-11-24h2-release-date-set-for-september-24-early-and-october-8-2024-official/)
     
     1 hour ago
     
-* [![](https://assets.techrepublic.com/uploads/2024/09/tr_20240917-australian-it-spending-gartner-it-spending-forecast.jpg)](https://digitpatrox.com/australian-it-spending-to-surge-in-2025-cybersecurity-ai-focus/)
+* [![](https://article.images.consumerreports.org/image/upload/t_article_tout/v1726511698/prod/content/dam/CRO-Images-2024/Electronics/CR-Electronics-InlineHero-Coolest-New-Features-ios-18-0924-v2)](https://digitpatrox.com/coolest-things-your-iphone-can-do-with-ios-18-with-ios-18/)
     
-    [Australian IT Spending to Surge in 2025: Cybersecurity & AI Focus](https://digitpatrox.com/australian-it-spending-to-surge-in-2025-cybersecurity-ai-focus/)
+    [Coolest Things Your iPhone Can Do With iOS 18 with iOS 18](https://digitpatrox.com/coolest-things-your-iphone-can-do-with-ios-18-with-ios-18/)
     
     1 hour ago
     
@@ -208,51 +208,51 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [16 mins ago
+* [3 mins ago
     
-    ### How to disable Lock Screen on Windows 10](https://digitpatrox.com/how-to-disable-lock-screen-on-windows-10/)
-* [25 mins ago
-    
-    ### The Downsides of Disinfecting Wipes](https://digitpatrox.com/the-downsides-of-disinfecting-wipes/)
+    ### OpenAI Strawberry: What is o1-preview and what can it do?](https://digitpatrox.com/openai-strawberry-what-is-o1-preview-and-what-can-it-do/)
 * [26 mins ago
     
-    ### I Have One Subscription for Hundreds of Mac Apps—Should You?](https://digitpatrox.com/i-have-one-subscription-for-hundreds-of-mac-apps-should-you/)
+    ### How Apple’s quiet visionOS update hints at its plans – Computerworld](https://digitpatrox.com/how-apples-quiet-visionos-update-hints-at-its-plans-computerworld/)
+* [51 mins ago
+    
+    ### Target’s ‘Circle Week’ Sale Starts Before Amazon’s October Prime Day](https://digitpatrox.com/targets-circle-week-sale-starts-before-amazons-october-prime-day/)
 
 Most Popular Topics
 
-* [5 days ago
+* [1 week ago
     
-    ### How to install Microsoft Edge on Linux](https://digitpatrox.com/how-to-install-microsoft-edge-on-linux/)
+    ### 5 best movies like ‘Beetlejuice Beetlejuice’ to stream now](https://digitpatrox.com/5-best-movies-like-beetlejuice-beetlejuice-to-stream-now/)
 * [4 weeks ago
     
-    ### It’s Time to Order Compost and Mulch](https://digitpatrox.com/its-time-to-order-compost-and-mulch/)
-* [2 weeks ago
+    ### Apple Vision Pro fails to ignite business interest – Computerworld](https://digitpatrox.com/apple-vision-pro-fails-to-ignite-business-interest-computerworld/)
+* [August 17, 2024
     
-    ### Sony’s New MDR-M1 Headphones Give You Studio-Quality Sound](https://digitpatrox.com/sonys-new-mdr-m1-headphones-give-you-studio-quality-sound/)
+    ### Microsoft rolls out Face Check selfie verification system – Computerworld](https://digitpatrox.com/microsoft-rolls-out-face-check-selfie-verification-system-computerworld/)
 
 Last Modified Topics
 
+* [2 hours ago
+    
+    ### Salesforce CEO wants to “break the hypnosis coming from vendors” on AI](https://digitpatrox.com/salesforce-ceo-wants-to-break-the-hypnosis-coming-from-vendors-on-ai/)
+* [2 hours ago
+    
+    ### The 6 Best Software Testing Courses in 2024](https://digitpatrox.com/the-6-best-software-testing-courses-in-2024/)
 * [3 hours ago
     
-    ### How to use macOS Terminal and what it’s useful for](https://digitpatrox.com/how-to-use-macos-terminal-and-what-its-useful-for/)
-* [3 hours ago
-    
-    ### Exploding pagers kill at least eight and injure thousands in an attack on Hezbollah](https://digitpatrox.com/exploding-pagers-kill-at-least-eight-and-injure-thousands-in-an-attack-on-hezbollah/)
-* [3 hours ago
-    
-    ### How to Unhide Apps on iPhone in iOS 18](https://digitpatrox.com/how-to-unhide-apps-on-iphone-in-ios-18/)
+    ### How to watch ‘Agatha All Along’ online, Disney plus deal](https://digitpatrox.com/how-to-watch-agatha-all-along-online-disney-plus-deal/)
 
 Most Viewed Topics
 
+* [August 11, 2024
+    
+    ### US citizen charged with aiding North Korean hackers moonlighting as tech workers](https://digitpatrox.com/us-citizen-charged-with-aiding-north-korean-hackers-moonlighting-as-tech-workers/)
 * [August 13, 2024
     
-    ### Best New-Car Deals – Consumer Reports](https://digitpatrox.com/best-new-car-deals-consumer-reports/)
+    ### TikTok Is Pushing Old and False News as ”Breaking” Alerts](https://digitpatrox.com/tiktok-is-pushing-old-and-false-news-as-breaking-alerts/)
 * [August 13, 2024
     
     ### How to manage a road trip move](https://digitpatrox.com/how-to-manage-a-road-trip-move/)
-* [4 weeks ago
-    
-    ### Wordle Answer for Today, August 21, 2024](https://digitpatrox.com/wordle-answer-for-today-august-21-2024/)
 
 © Copyright 2018 - 2024, All Rights Reserved
 
