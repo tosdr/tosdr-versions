@@ -31,1016 +31,1034 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
-Patrón Mejía respalda a JFA y se suma a quejas por Deportivo Quito
-==================================================================
+Un procesado tras balacera del fin de semana en Monte Sinaí ¿Qué delito investiga Fiscalía?
+===========================================================================================
 
-Patrón Mejía e Independiente JFA presentaron su queja debido a la inclusión de Deportivo Quito y AV25 en la fase nacional de Segunda Categoría.
------------------------------------------------------------------------------------------------------------------------------------------------
+El procesado resultó herido durante la balacera en Monte Sinaí.
+---------------------------------------------------------------
 
-![Jugadores del Patrón Mejía y el Deportivo Quito en un partido de la Segunda Categoría.](https://www.elcomercio.com/wp-content/uploads/2024/09/1000126029.jpg)
+![El procesado escapaba de un operativo militar en Monte Sinaí.](https://www.elcomercio.com/wp-content/uploads/2024/09/Diseno-sin-titulo-17.jpg)
 
-A última hora, **Deportivo Quito** junto al **AV25** se sumaron a la lista de clubes que representarán a Pichincha en el ascenso nacional de la Segunda Categoría. **Patrón Mejía**, uno de los clubes que quedó fuera y cuyo cupo fue a uno de los equipos mencionados, se quejó y respaldó a **Independiente JFA**, que tuvo la misma suerte.
+La **Fiscalía** procesa a una persona que fue herida en la **balacera** del fin de semana en **Monte Sinaí.**
 
-Tanto el equipo chulla como el de **Antonio Valencia** ya se encuentran firmes dentro de la fase nacional del torneo y listos para los duelos eliminatorios en busca de llegar a la Serie B. Los dos clubes ya fueron oficializados y conocen sus futuros rivales.
+El enfrentamiento entre **militares** e individuos que se movilizaban en un automóvil dejó como resultado **tres muertos**, el domingo 15 de septiembre.
 
 ### Más noticias:
 
+* [Muertos y heridos en Monte Sinaí, Guayaquil](https://www.elcomercio.com/actualidad/seguridad/monte-sinai-muertos-heridos.html "Muertos y heridos en Monte Sinaí, Guayaquil")
+* [Policía detiene a presunto implicado en asesinato de Directora de la Penitenciaría](https://www.elcomercio.com/actualidad/seguridad/policia-detiene-a-presunto-implicado-en-asesinato-de-directora-de-la-penitenciaria.html "Policía detiene a presunto implicado en asesinato de Directora de la Penitenciaría")
+
+Ese día, personal militar estaba en un **operativo de patrullaje y control**, cuando un grupo de personas trató de escapar al percatarse de su presencia.
+
+Durante la huida, dispararon a la Unidad de Control que, haciendo uso progresivo de la fuerza, repelió los disparos.
+
+El procesado tras la balacera en Monte Sinaí y el delito investigado por Fiscalía
+---------------------------------------------------------------------------------
+
+Fiscalía procesa a José M. S., quien resultó herido, por su presunta participación en el delito de ataque y resistencia.
+
+Esto, luego de que fuera aprehendido por efectivos militares, durante un operativo de control de armas, el domingo.
+
+El procesado se trasladaba con otras personas a bordo de un vehículo, acompañado de varias motocicletas.
+
+Los ocupantes, fuertemente armados, evadieron la acción policial y huyeron del lugar.
+
+Tras la persecución y en un cruce de balas, tres personas fallecieron.
+
+Los servicios de emergencia trasladaron a José M. S. al Hospital de Monte Sinaí.
+
+El Juez de la Unidad de Flagrancia acogió el pedido de Fiscalía y dictó prisión preventiva contra José M. S..
+
+Dispuso la emisión de las boletas de encarcelamiento y su posterior traslado a la Penitenciaría del Litoral, en Guayaquil, una vez que sea dado de alta de la casa de salud en la que fue internado.
+
+El procesado quedó bajo resguardo policial.
+
+El plazo para el cierre de la instrucción fiscal será de treinta días.
+
+La Copa América Femenina 2025 se jugará en Ecuador
+==================================================
+
+La Copa América Femenina de 2025 aterrizará en Ecuador. La Conmebol lo confirmó y la cuenta regesiva está en marcha.
+--------------------------------------------------------------------------------------------------------------------
+
+![Nayely Bolaños con la Selección de Ecuador Femenina en el 2024.](https://www.elcomercio.com/wp-content/uploads/2024/09/copa_america_1.jpg)
+
+Es oficial. La décima edición **Copa América Femenina 2025** se jugará en Ecuador. Así lo confirmaron las redes sociales oficiales de la competición este martes 17 de septiembre de 2024.
+
+“El 2025 es de ellas”, fue el mensaje con el que la **Confederación Sudamericana de Fútbol (Conmebol)** anunció al continente que este torneo se realizará por cuarta vez en Ecuador.
+
+### Más noticias:
+
+* [Miguel Parrales es el goleador de la segunda etapa de la Liga Pro](https://www.elcomercio.com/deportes/futbol/miguel-parrales-goles-ligapo-orense.html "Miguel Parrales es el goleador de la segunda etapa de la Liga Pro")
 * [¿Cuándo juega el Deportivo Quito el ascenso a Serie B?](https://www.elcomercio.com/deportes/futbol/cuando-juega-el-deportivo-quito-el-ascenso-serie-b.html "¿Cuándo juega el Deportivo Quito el ascenso a Serie B?")
-* [Deportivo Quito tiene DT para buscar el ascenso a la Serie B](https://www.elcomercio.com/deportes/nuevo-dt-carlos-castro-deportivo-quito.html "Deportivo Quito tiene DT para buscar el ascenso a la Serie B")
-* [Deportivo Quito ya tiene rival en el Ascenso Nacional](https://www.elcomercio.com/deportes/futbol/deportivo-quito-ya-tiene-rival-en-el-ascenso-nacional.html "Deportivo Quito ya tiene rival en el Ascenso Nacional")
+* [Antonio Valencia transfiere a uno de sus jugadores a Serbia](https://www.elcomercio.com/deportes/futbol/antonio-valencia-transfiere-uno-de-sus-jugadores-serbia.html "Antonio Valencia transfiere a uno de sus jugadores a Serbia")
 
-Ante el ingreso de los dos clubes, el primero en manifestarse en contra fue **Independiente JFA**. El club negriazul señaló estar “indignado” y sostuvo que el ingreso de los nuevos equipos, los cuales lo reemplazarán, se dio de forma antirreglamentaria.
+La primera vez que la **Copa América Femenina llegó a Ecuador** fue en el 2003, cuando compartió sede con Perú y Argentina, algo parecido a lo que sucederá en el 2026 con el Mundial que lo organizarán Estados Unidos, México y Canadá.
 
-Tanto **Patrón Mejía** como Independiente JFA salieron de la competencia debido a que no presentaron sus papeles a tiempo. Ambos clubes no llegaron al puesto necesario para clasificar a la fase nacional en el hexagonal final de **Pichincha**, sin embargo, se les dio paso debido a que se abrieron dos cupos más, pues en otras provincias también hubo inconvenientes de documentación[.](https://en.wikipedia.org/wiki/S.D._Quito "https://en.wikipedia.org/wiki/S.D._Quito")
+La modalidad del torneo hizo que se dividan en tres grupos. El A se jugó en Lima y estuvo conformado por Perú, Bolivia y Chile; **el B en Loja con Colombia, Ecuador y Venezuela**; y el C en Salta con Argentina, Paraguay y Uruguay.
 
-Dado que ninguno de los dos equipos cumplió con las solicitudes, que llegaron desde AFNA y la **Federación Ecuatoriana de Fútbol** (FEF), los boletos a las eliminatorias nacionales se les dieron a equipos que no estuvieron en el sextangular provincial. Los dos mejores terceros de la fase de grupos de Pichincha, **Deportivo Quito y AV25** fueron los escogidos.
+En Ecuador destacaba la presencia de Wendy Villón, actual entrenadora de Barcelona Sporting Club, que anotó dos goles y fue una de las goleadoras de la competencia y tiene el récord de haber ganado cuatro de las cinco ediciones de la Superliga Femenina.
 
-¿Qué dijo Patrón Mejía sobre Deportivo Quito y AV25?
-----------------------------------------------------
+A la fase final, jugada en Lima, se unió Brasil a las clasificadas **Argentina, Colombia y Perú**. Las brasileñas ganaron la Copa y extendieron su hegemonía continental.
 
-> [View this post on Instagram](https://www.instagram.com/p/C__b7Y4BoX0/?utm_source=ig_embed&utm_campaign=loading)
+El dominio de Brasil es abrumador. Ganó ocho de las nueve ediciones. Solo en el 2006 Argentina, de local, le arrebató la corona a las brasileñas, hecho que en adelante no se volvió a repetir.
+
+El partido inaugural de la **Copa América Femenina 2025 será el sábado 12 de julio** y se cerrará el sábado 2 de agosto. Aún se tienen que confirmar las sedes.
+
+> El 2025 es de ELLAS 🤩 [pic.twitter.com/2RpR74yWk7](https://t.co/2RpR74yWk7)
 > 
-> [A post shared by Club Deportivo Patrón Mejía (@clubdeportivopatronmejia)](https://www.instagram.com/p/C__b7Y4BoX0/?utm_source=ig_embed&utm_campaign=loading)
+> — CONMEBOL Copa América™️ (@CopaAmerica) [September 17, 2024](https://twitter.com/CopaAmerica/status/1836186477669020025?ref_src=twsrc%5Etfw)
 
-Patrón Mejía emitió un comunicado después de que lo hiciese **Independiente JFA**. Allí, al igual que el otro club eliminado, señaló que sí se entregaron los documentos pedidos durante el margen de tiempo establecido y rechazó la decisión de la FEF.
+Ecuador en la Copa América Femenina
+-----------------------------------
 
-El elenco solicitó explicaciones de la resolución, a la cual calificó como “**antideportiva**“. A su vez, agregó que se ha regido por el reglamento y contaba con un periodo excepcional de regularización hasta que finalice el torneo provincial.
+Un tercer lugar y **dos cuartos puestos son las tres mejores** presentaciones de la Selección de Ecuador en la Copa América Femenina.
 
-Con respecto al equipo que lo acompañó en la eliminación, Patrón Mejía también tuvo una muestra. “**Nos solidarizamos Independiente JFA, club que también está siendo afectado** y también con la asociación provincial a la que nos debemos AFNA, ya que la decisión de la FEF pasa por alto su autoridad”, expresó.
+La más destacada se dio en el 2014 con **Ecuador como anfitrió**n y solo fue superada por Brasil (campeón) y Colombia (vicecampeón).
 
-¿Qué pasa con el Quito y AV25?
-------------------------------
+Los estadios Bellavista de Ambato; Jorge Andrade Cantos de Azogues; Alejandro Serrano Aguilar de Cuenca; La Cocha de Latacunga; **General Rumiñahui de Sangolquí; Reina del Cines de Loja**; Olímpico Atahualpa y Gonzalo Pozo Ripalda de Quito; y Olímpico de Riobamba fueron las sedes.
 
-![Deportivo Quito jugará el torneo de Ascenso a la Serie B 2024.](https://www.elcomercio.com/wp-content/uploads/2024/09/ENDRICK-PALMEIRAS-2024-09-16T090252.718-1024x683.jpg)
+En el grupo A la Tri se apoderó del segundo puesto con 6 puntos, mientras que las colombianas ganaron la zona de forma invicta con 12 puntos.
 
-Deportivo Quito jugará el torneo de Ascenso a la Serie B 2024.
+Ecuador le **ganó 2-1 a Perú (Riobamba); 1-0 a Venezuela (Ambato)**; perdió con Colombia 0-1 (Ambato); y 1-2 ante Uruguay (Latacunga).
 
-La decisión también tomó por sorpresa a los equipos beneficiados, que deben reorganizar sus plantillas para sus próximos cotejos. Deportivo Quito jugará ante **Santa Elena SC** y AV25 contra **La Troncal FC.**
+En la fase final perdió 0-4 ante Brasil (Quito) y 2-1 contra Colombia. Sorpresivamente, derrotó 3-2 a Argentina en el Olímpico Atahualpa con tanto de **Carina Caicedo, Íngrid Rodríguez y Giannina Lattanzio**.
 
-El conjunto de la Plaza del Teatro no tardó en anunciar como DT a **Carlos Castro**, pues el entrenador Martín Mandra se marchó al Manta. En el caso de AV25, **Antonio Valencia** se mantiene como DT, pues también es propietario de dicho equipo.
+El tercer puesto las clasificó al Mundial Canadá 2015. **Cayeron en el grupo C** y quedaron eliminadas tras perder 0-6 contra Camerún; 1-10 ante Suiza; y 0-1 frente a Japón.
 
-José Francisco Cevallos critica la gestión de Emelec
-====================================================
+![Emily Arias (i) y Danna Pesantez con la Selección de Ecuador.](https://www.elcomercio.com/wp-content/uploads/2024/09/copa_america_2-1024x683.jpg)
 
-Emelec atraviesa una grave crisis económica, lo que ha generado el descontento de sus jugadores.
-------------------------------------------------------------------------------------------------
+Emily Arias (i) y Danna Pesantez con la Selección de Ecuador.
 
-![José Francisco Cevallos criticó fuertemente a la dirigencia de Emelec.](https://www.elcomercio.com/wp-content/uploads/2024/09/ENDRICK-PALMEIRAS-2024-09-17T140559.251.jpg)
+No te pierdas – El Confesionario
+--------------------------------
 
-Por segundo día consecutivo, los jugadores de **Emelec** decidieron no entrenar y abandonaron el complejo deportivo debido a retrasos en sus pagos. Esta situación ha provocado la indignación de José **Francisco Cevallos Jr.**, quien vistió la camiseta del club eléctrico y mostró su malestar con la dirigencia.
+Mateo Villagómez es el primer automovilista ecuatoriano obtener un título en Europa
+===================================================================================
 
-La **temporada 2024 ha sido desastrosa para Emelec**, afectado por demandas por deudas, pérdida de puntos, prohibiciones de fichajes, y atrasos en los salarios de los jugadores, lo que también ha repercutido en un bajo rendimiento deportivo.
+El ecuatoriano Mateo Villagómez hizo historia para el país y se convirtió en el primero en obtener un título automovilístico en Europa.
+---------------------------------------------------------------------------------------------------------------------------------------
+
+![Mateo Villagómez, pilot ecuatoriano, tras ganar el Campeonato FFSA GT4 de Francia.](https://www.elcomercio.com/wp-content/uploads/2024/09/Diseno-sin-titulo-2024-09-17T190620.305.jpg)
+
+Con apenas 22 años y un futuro prometedor, **Mateo Villagómez** se convirtió en el primer ecuatoriano en ganar un título automovilístico en Europa. El tricolor hizo historia al levantar el título en el Campeonato de FFSA GT4 de Francia.
+
+Después de 12 años de haberse iniciado con los vehículos, Villagómez llegó a una de las cumbres de su carrera y marcó un hito para el país. El corredor cruzó la meta en representación de la Escuela de Pilotos de la escudería **Aston Martin** y el equipo **Racing Spirit of Leman.**
 
 ### Más noticias:
 
-* [Emelec no levanta y ahora pierde ante IDV](https://www.elcomercio.com/deportes/futbol/emelec-derrota-idv-independiente-liga-pro.html "Emelec no levanta y ahora pierde ante IDV")
-* [Emelec bautizó al gato negro del Capwell como ‘Garra’](https://www.elcomercio.com/deportes/futbol/emelec-gato-negro-garra-mascota.html "Emelec bautizó al gato negro del Capwell como ‘Garra’")
-* [Técnico Universitario eliminó a Emelec de la Copa Ecuador](https://www.elcomercio.com/deportes/futbol/emelec-tecnico-universitario-copa-ecuador.html "Técnico Universitario eliminó a Emelec de la Copa Ecuador")
+* [Oscar Piastri se impone en el Gran Premio de Azerbaiyán de Fórmula 1](https://www.elcomercio.com/deportes/formula-1/oscar-piastri-formula-uno-azerbaiyan-formula1.html "Oscar Piastri se impone en el Gran Premio de Azerbaiyán de Fórmula 1")
+* [Lando Norris ganó el Gran Premio de Países Bajos de la Fórmula 1](https://www.elcomercio.com/deportes/formula-1/lando-norris-gano-gran-premio-paises-bajos-formula1.html "Lando Norris ganó el Gran Premio de Países Bajos de la Fórmula 1")
+* B[radley Salazar deja en alto a Ecuador en rally](https://www.elcomercio.com/deportes/braley-salazar-ecuador-baja-500.html "https://www.elcomercio.com/deportes/braley-salazar-ecuador-baja-500.html")
 
-**José Francisco Cevallos expresa su molestia con Emelec**
+Luego de su triunfo, Mateo Villagómez conversó con EL COMERCIO y se refirió al triunfo, el cual aún no termina de asimilar.”**Es muy significativo y representativo para el país. Estoy seguro que esto impactará y estoy orgulloso de poder generar eso**“, señaló.
 
-El martes 17 de septiembre estaba programado un entrenamiento para preparar el próximo partido de la **Liga** **Pro,** pero los jugadores optaron por no llevarlo a cabo y **se retiraron del complejo** como forma de protesta por la falta de pagos. Esta situación ha sido recurrente a lo largo de la temporada y ha generado incomodidad en el plantel.
+Más allá del campeonato, el piloto considera que aún no ha alcanzado su techo y **sueña alto.** Aunque dentro de los sueños intenta tener mesura, también es realista con respecto a sus capacidades y a lo que puede lograr.
 
-Ante este escenario, J**osé Francisco Cevallos**, quien jugó para Emelec durante cuatro años y fue una de sus figuras, **expresó su descontento** con la actual dirigencia a través de sus redes sociales.
+Mateo Villagómez apunta a las 24 horas de LeMans
+------------------------------------------------
 
-“Una cosa es no dar la cara a todos los jugadores que salimos (incluso con valores pendientes por tu **mala** **gestión**), pero otra muy distinta es no dar la cara y no cumplir con lo que ofreces a los jugadores de tu actual plantilla”, escribió el volante ecuatoriano en su cuenta de Instagram.
+Tras haber conseguido el campeonato, el piloto ecuatoriano espera hacerse con más títulos, pero prefiere ir con calma. Para el 2025 apunta para subir de categoría hacia **GP3** y tener participaciones a nivel continental[.](https://es.wikipedia.org/wiki/F%C3%B3rmula_4 "https://es.wikipedia.org/wiki/F%C3%B3rmula_4")
 
-Cevallos Jr. es uno de los **tantos exjugadores que han demandado a Emelec** esta temporada por incumplimiento de pagos.
+Aunque señala que el sueño de todo piloto es llegar hacia la Fórmula 1, el cual permanece, este señala que su carrera se ha enrumbado hacia otras direcciones. Pese a ello, existe un gran objetivo que son las **24 horas de LeMans**.
 
-> José Francisco Cevallos en Instagram. [pic.twitter.com/4EGlffD5iM](https://t.co/4EGlffD5iM)
-> 
-> — Germán Gallardo R. (@gallardogerman) [September 17, 2024](https://twitter.com/gallardogerman/status/1836093836965159262?ref_src=twsrc%5Etfw)
+Dado al tipo de **automóviles** en los que se ha desempeñado y que son **calificables** para la carrera, Villagómez ha adquirido experiencia y está en la capacidad de fijarse, a corto plazo, el estar en el evento. De darse su arribo hacia LeMans, el tricolor estaría en una de las carreras de resistencia más importantes del mundo y con más de **100 años de historia.**
 
-**Sus números en Emelec**
--------------------------
+“Estamos buscando el camino ideal, pero sin duda sería en una categoría más importante, podría ser dentro de los GT. Tras el **Campeonato Nacional** podríamos ir a buscar uno europeo, pero en algún auto superior (…) Creo que entre todos los escenarios que se pueden plantear del año que viene, el menos probable es que repita categoría. **No me veo haciéndolo y creo que puedo hacer algo más grande**“, agrega desde Francia, país en el que reside desde hace ya más de tres años.
 
-**José Francisco Cevallos** llegó a Emelec en 2020 tras un breve paso por Europa y un destacado inicio de carrera en Liga de Quito.
-
-Con los eléctricos, disputó cuatro temporadas, desde su llegada hasta 2023. A nivel numérico, jugó 135 partidos y **anotó 32 goles,** consolidándose como uno de los goleadores del equipo durante ese período.
-
-Gobierno colombiano presenta estrategia para controlar los incendios forestales
-===============================================================================
-
-La estrategia ayudará a hacer frente a la prevista oleada de incendios forestales prevista para principios de 2025.
--------------------------------------------------------------------------------------------------------------------
-
-![Fotografía cedida el 15 de septiembre de 2024 por la Fuerza Aérea Colombiana (FAC), que muestra un incendio forestal en zona rural de Aipe (Colombia). EFE/ Fuerza Aeroespacial Colombiana](https://www.elcomercio.com/wp-content/uploads/2024/09/rss-efee66244a650c985780bfb9e11ed4f01a451f3b38dw-e1726600074413.jpg)
-
-La **Unidad Nacional para la Gestión del Riesgo de Desastres** (UNGRD) planteó este martes 17 de septiembre de 2024 una estrategia para **controlar en Colombia los incendios forestales**, que consiste en utilizar el fuego técnico, es decir crear líneas de contención para confinar las llamas y poder controlarlas y extinguirlas.
-
-### Más noticias
-
-* [Impacto de los incendios en países de América Latina](https://www.elcomercio.com/actualidad/mundo/impacto-incendios-paises-america-latina.html "https://www.elcomercio.com/actualidad/mundo/impacto-incendios-paises-america-latina.html")
-* [Estos son los países más afectados por los incendios en septiembre 2024](https://www.elcomercio.com/actualidad/mundo/paises-afectados-incendios.html "https://www.elcomercio.com/actualidad/mundo/paises-afectados-incendios.html")
-* [Perú despliega militares y aeronaves para combatir incendios forestales](https://www.elcomercio.com/actualidad/mundo/peru-despliega-militares-aeronaves-combatir-numerosos-incendios-forestales.html "https://www.elcomercio.com/actualidad/mundo/peru-despliega-militares-aeronaves-combatir-numerosos-incendios-forestales.html")
-
-El nuevo método propuesto para “controlar el fuego con fuego” no está autorizado en Colombia, afirmó el director de la UNGRD, Carlos Carrillo, quien agregó que se **debe autorizar con un decreto presidencial.**
-
-La práctica, explicó el funcionario, se emplearía exclusivamente bajo condiciones y requisitos concretos y bajo el mando de bomberos, voluntarios y aeronáuticos especializados en la labor.
-
-La entidad confía en que esta estrategia ayudará a hacer frente a la prevista oleada de incendios forestales prevista para principios de 2025.
-
-Incendios activos
------------------
-
-Carrillo recordó que en este momento existen **18 incendios activos en el país**, de los cuales nueve están controlados, y los departamentos más afectados son Huila, Tolima, Cauca y Nariño.
-
-Por otro lado, el director alertó de que la crisis climática, que se manifiesta en Colombia con la escasez de agua en temporada de lluvias, es preocupante.
-
-Uno de los incendios forestales más recientes y que más preocupaba a Unidad era el de Palermo (Huila), que ya fue controlado, algo que es “alentador”, pero ante lo cual la UNGRD no debe relajarse.
-
-Además, el director recordó que el ministro de Defensa, Iván Velásquez, aseguró que invertirá 160 000 millones de pesos (unos 37,7 millones dólares) en nuevos helicópteros MI17, que serán traídos de Rusia “en unos meses” debido a que tienen que pasar por un largo proceso de mantenimiento.
-
-La Unidad cuenta también con helicópteros Black Hawk estadounidenses, pero reclama que serían necesarias aeronaves especializadas exclusivamente en la extinción de los fuegos.
-
-Durante septiembre han ocurrido **249 incendios forestales** en 14 departamentos: 66 en Cundinamarca, 144 en Huila y 44 en Tolima, y las llamas han consumido 23 000 hectáreas de bosque.
-
-Sean O’Malley vs. Marlón ‘Chito’ Vera: ¿Habrá una tercera pelea?
-================================================================
-
-O'Malley y Vera están empatados en sus enfrentamientos, por lo que un tercer combate podría definir esta rivalidad.
--------------------------------------------------------------------------------------------------------------------
-
-![Marlon 'Chito' Vera enfrentando a Sean O'Malley en la UFC.](https://www.elcomercio.com/wp-content/uploads/2024/09/ENDRICK-PALMEIRAS-2024-09-17T131431.495.jpg)
-
-**Sean O’Malley** recientemente perdió el cinturón del Peso Gallo de la **UFC** tras caer ante Merab Dvalishvili, poniendo fin a su breve reinado, en el que solo logró una defensa exitosa, precisamente ante el ecuatoriano **Marlon ‘Chito’ Vera**.
-
-‘Suga’, como se conoce a O’Malley, cayó de manera estrepitosa ante Merab, quien lo dominó de principio a fin. El **georgiano le arrebató el título** al estadounidense tras una contundente victoria por decisión unánime.
-
-### Más noticias:
-
-* [Sean O’Malley, exrival de ‘Chito’ Vera, perdió el título de la UFC](https://www.elcomercio.com/deportes/artes-marciales/ufc-chito-vera-sean-omalley-dvalishvili.html "Sean O’Malley, exrival de ‘Chito’ Vera, perdió el título de la UFC")
-* [Marlon ‘Chito’ Vera, de la UFC a la New York Fashion Week](https://www.elcomercio.com/deportes/artes-marciales/marlon-chito-vera-ufc-ny-fashion-week.html "Marlon ‘Chito’ Vera, de la UFC a la New York Fashion Week")
-* [¿Cuándo vuelve a pelear Michael Morales en UFC?](https://www.elcomercio.com/deportes/michael-morales-ecuador-proxima-pelea-ufc.html "¿Cuándo vuelve a pelear Michael Morales en UFC?")
-
-Sean **O’Malley vs. ‘Chito’ Vera**
-----------------------------------
-
-En la pelea, que tuvo lugar en Las Vegas, se encontraba **Marlon ‘Chito’ Vera**, a quien O’Malley había vencido en su último combate, en lo que fue su primera y única defensa exitosa del título antes de perderlo ante Dvalishvili.
-
-Debido a la presencia del ecuatoriano y la reciente derrota de ‘Suga’, ahora que **ya no tiene la presión de defender el campeonato**, muchos se preguntan si la trilogía entre ambos luchadores se dará tarde o temprano.
-
-Hasta el momento, **ambos peleadores han ganado una pelea** cada uno.
-
-Marlon **‘Chito’ Vera ganó el primer enfrentamiento en UFC 252**, en agosto de 2020. En esa ocasión, el ecuatoriano se llevó la victoria por nocaut técnico (TKO). En ese entonces, tanto Vera como O’Malley eran considerados grandes promesas en la categoría.
-
-La revancha tuvo lugar cuatro años después, en UFC 299.
-
-Desde su primer encuentro, mucho había cambiado. **O’Malley llegó como campeón** de la división tras arrebatarle el cinturón a Aljamain Sterling, mientras que **‘Chito’ ya se había consolidado** como uno de los luchadores más peligrosos del Peso Gallo.
-
-En esa revancha, O’Malley tuvo una destacada actuación que dejó sin respuestas al ecuatoriano, logrando así su primera defensa exitosa gracias a una victoria por decisión unánime.
-
-> Van 1-1, los dos vienen de perder… les gustaría ver el desempate entre Sean O’Malley y Chito Vera? [pic.twitter.com/WpPLF9fbVQ](https://t.co/WpPLF9fbVQ)
-> 
-> — Gaston “Tonga” Reyno (@gastonreyno) [September 16, 2024](https://twitter.com/gastonreyno/status/1835469668527546555?ref_src=twsrc%5Etfw)
-
-Marlon Vera en la UFC
----------------------
-
-Marlon Andrés Vera Delgado, nacido en **Chone**, Manabí, el 2 de diciembre de 1992, es un destacado luchador ecuatoriano en la UFC.
-
-En el UFC Fight Night Abu Dhabi del 3 de agosto de 2024, ‘Chito’ Vera se enfrentó al excampeón Deiveson Figueiredo, pero sufrió su décima derrota profesional, aumentando su récord a 23 victorias y 10 derrotas.
-
-Actualmente, **Vera ocupa el séptimo lugar en el ranking mundial de peso gallo**.
-
-Ecuador tendrá apagones de ocho horas ¿Cuál es el impacto económico de la medida?
-=================================================================================
-
-El Gobierno anunció cortes eléctricos nocturnos, como parte de las medidas para enfrentar la crisis energética. Aún no se han divulgado las pérdidas económicas estimadas, pero el sector industrial será el más afectado.
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-![El sector manufacturero es uno de los más afectados por los cortes de luz en el Ecuador. Foto: Archivo](https://www.elcomercio.com/wp-content/uploads/2024/09/industrias.jpg)
-
-El Gobierno de **Daniel Noboa** anunció que desde el lunes 23 hasta el jueves 26 de septiembre de 2024, el servicio eléctrico se suspenderá en todo el país desde las 22:00 hasta las 06:00 del día siguiente. Los cortes de luz son parte de una serie de acciones para enfrentar esta crisis energética que afronta el país[.](https://es.wikipedia.org/wiki/Ecuador "https://es.wikipedia.org/wiki/Ecuador")
-
-### Más noticias
-
-* [Gobierno de Daniel Noboa anuncia nuevos apagones programados](https://www.elcomercio.com/actualidad/negocios/gobierno-de-daniel-noboa-anuncia-nuevos-apagones-programados.html "Gobierno de Daniel Noboa anuncia nuevos apagones programados")
-* [Apagón programado dejará sin agua potable a Guayaquil](https://www.elcomercio.com/actualidad/guayaquil/apagon-nacional-guayaquil-duran-agua.html "Apagón programado dejará sin agua potable a Guayaquil")
-* [Cortes de luz provocarán suspensión de al menos 6 servicios este miércoles 18 de septiembre](https://www.elcomercio.com/actualidad/negocios/cortes-de-luz-provocaran-suspension-de-al-menos-6-servicios-este-miercoles-18-de-septiembre.html "Cortes de luz provocarán suspensión de al menos 6 servicios este miércoles 18 de septiembre") 
-
-¿Cuánto le costarán los apagones al Ecuador?
---------------------------------------------
-
-Según las autoridades de Gobierno, el horario de los **cortes de luz** fueron establecidos en la **noche** con la finalidad de “generar el menor impacto posible en las actividades productivas y el desarrollo de jornadas laborales”. Pero, ¿Cuánto le costará la medida al Ecuador?
-
-Hasta este 17 de septiembre de 2024, las autoridades no han difundido las pérdidas económicas estimadas a escala nacional de los apagones anunciados.
-
-Sin embargo, se conoce, que el **sector industria**l será el más afectado, ya que muchas empresas trabajan las 24 horas del día, en tres turnos de 8 horas. Los apagones impactarán en la producción, en las ventas, y empleo, principalmente.
-
-En Cuenca, solo en el **sector industrial** se estima perdidas cercanas a 1,2 millones de dólares por cada hora de suspensión de energía, señaló **Andrés Robalino,** Director Ejecutivo en Cámara de Industrias, Producción y Empleo de Cuenca, principalmente las empresas manufactureras.
-
-El impacto no es solo para las **industrias** y el sector productivo sino para todo el país, ya que si baja la producción, reducen las ventas y el pago impuesto, agregó Robalino.
-
-Se estima que las pérdidas económicas por los cortes de luz en las empresas de **Quito y Guayaquil,** sean mayores. En Ecuador existen 153 248 compañías activas, según la Superintendencia de Compañías, el 100% tendrían jornadas nocturnas.
-
-Según el **Ministerio de Energía**, en abril pasado, cada hora de suspensión de energía durante el día le costó al país 12 millones de dólares.
-
-El impacto económico en el comercio es alto
+Villagómez y la respuesta a un largo trajín
 -------------------------------------------
 
-La Cámara de Comercio de Quito ya cuenta con un estimado de las pérdidas económicas por cortes de luz a escala nacional en dos segmentos: bares, discotecas y restaurantes.
+Su radicación en **Europa** y en el país galo obedece al desarrollo de su carrera y al haber podido dar un salto de calidad en esta. El piloto de origen quiteño dio el salto hacia el automovilismo europeo a los 19 años y se ha mantenido.
 
-Mónica Heller, titular del organismo, explicó que en el primer caso de bares y restaurantes, el impacto es mayor pues dejan de trabajar. En los restaurantes se suspenderán las cenas.
+Tras iniciarse a los 10 años como un niño en el **karting**, en un lapso de nueve a vincularse a la escena profesional. La pista del kartódromo de la mitad del mundo, de a poco, se fue transformando en nuevos escenarios y cuando tuvo **17 años** empezó a vincularse al automovilismo.
 
-La afectación de los apagones a escala nacional en ambos tipos de comercios, según Heller, será de **3,5 millones de dólares**.
+Cuando se dio cuenta con su familia lo que era su hobby podía tener **resultados profesionales**, todos tomaron acción. A los 19 se trasladó hacia el ‘Viejo Continente’ y encontró una oportunidad en la Fórmula 4.
 
-El impacto en otros segmentos se conocerá en los siguientes días, tras evaluaciones. Entre ellos está el sector hotelero y turístico, pues se prevén cancelaciones de viajeros.
+A nivel de monoplazas se podía continuar el ascenso hacia la F1, el cual no se ha descartado, sin embargo, el fichar por **Aston Martin** devino en el momento que ahora lo encuentra a Villagómez. Le costó el cambio del tipo de automóvil debido a las diferentes condiciones que presenta cada uno, pero consiguió adaptarse.
 
-También están las heladerías y aquellos que manejan productos congelados. En estos casos es difícil establecer a cuánto pueden ascender las pérdidas. “No podemos evaluar en algunos segmentos”, puntualizó Heller.
+Con aptitudes polivalentes dentro del automovilismo y una trayectoria desde la niñez, **Mateo Villagóme**z le ha dado una nueva **alegría deportiva al país**. Los retos siguen pendientes, pero la edad y los resultados le favorecen e ilusionan dentro de un rubro en el que poco ha incursionado el Ecuador.
 
-Toque de queda en Ecuador solo será en seis provincias y un cantón
-==================================================================
+Deportivo Quito no jugará en el Atahualpa ante Santa Elena
+==========================================================
 
-El presidente Daniel Noboa decreta toque de queda en algunas provincias del Ecuador para reforzar la seguridad ciudadana.
--------------------------------------------------------------------------------------------------------------------------
+Deportivo Quito es uno de los 64 equipos que participarán en el Torneo de Ascenso Nacional organizado por la FEF.
+-----------------------------------------------------------------------------------------------------------------
 
-![La Presidencia del Ecuador informó sobre el toque de queda.](https://www.elcomercio.com/wp-content/uploads/2024/09/Daniel-Noboa-2.jpg)
+![Jugadores del Deportivo Quito en el Olímpico Atahualpa en el 2024.](https://www.elcomercio.com/wp-content/uploads/2024/09/quito_estadio_1.jpg)
 
-El presidente de la República, **Daniel Noboa**, ha emitido el Decreto Ejecutivo, mediante el cual se dispone un toque de queda en varias provincias del país en el marco del estado de excepción. Esta medida regirá desde las 22:00 del miércoles 18 de septiembre hasta las **6:00 del jueves 19 de septiembre de 2024**.
+Deportivo Quito cuenta las horas para volver a la competencia oficial en el 2024. Jugará el **Torneo de Ascenso Nacional** organizado por la Federación Ecuatoriano de Fútbol (FEF).
 
-### Más noticias
+El lunes 16 de septiembre de 2024 la FEF realizó el sorteo de los treintaidosavos de final del referido certamen. El **Deportivo Quito es uno de los 64 equipos** que pelearán por los dos cupos disponibles para la Liga Pro Serie B en el 2025.
 
-* [Daniel Noboa pide control constitucional sobre bases extranjeras a la CC](https://www.elcomercio.com/actualidad/politica/daniel-noboa-pide-control-constitucional-tema-bases-extranjeras-cc.html "Daniel Noboa pide control constitucional sobre bases extranjeras a la CC")
-* [Daniel Noboa presentará proyecto para reformar la Constitución sobre bases militares extranjeras](https://www.elcomercio.com/actualidad/politica/daniel-noboa-proyecto-reformar-constitucion-bases-militares-extranjeras.html "Daniel Noboa presentará proyecto para reformar la Constitución sobre bases militares extranjeras")
-* [Metro de Quito ajustará su horario ante los cortes de luz este miércoles 18 de septiembre](https://www.elcomercio.com/actualidad/quito/metro-de-quito-ajusta-horario-cortes-de-luz-miercoles-18-septiembre.html "Metro de Quito ajustará su horario ante los cortes de luz este miércoles 18 de septiembre")
+### Más noticias:
 
-Las provincias afectadas por la medida incluyen **Guayas, Los Ríos, Manabí, Orellana, Santa Elena, El Oro, y el cantón Camilo Ponce Enríquez de la provincia de Azuay**.
+* [Técnico Universitario aprieta la tabla de posiciones de la Liga Pro](https://www.elcomercio.com/deportes/futbol/tabla-posiciones-fecha6-liga-pro.html "Técnico Universitario aprieta la tabla de posiciones de la Liga Pro")
+* [Antonio Valencia transfiere a uno de sus jugadores a Serbia](https://www.elcomercio.com/deportes/futbol/antonio-valencia-transfiere-uno-de-sus-jugadores-serbia.html "Antonio Valencia transfiere a uno de sus jugadores a Serbia")
+* [Moisés Caicedo cumple los seis requisitos para ser capitán del Chelsea](https://www.elcomercio.com/deportes/moises-caicedo-cumple-seis-requisitos-para-ser-capitan-chelsea.html "Moisés Caicedo cumple los seis requisitos para ser capitán del Chelsea")
 
-Según el comunicado oficial emitido por la Secretaría General de Comunicación de la Presidencia, el objetivo de esta medida es reforzar la seguridad **ciudadana y proteger a la población** ante la creciente preocupación por la violencia y la criminalidad.
+La participación del Quito no está alejada de la polémica, puesto que su inclusión fue de última hora y por una decisión administrativa de la FEF, que excluyó a **Independiente JFA y al Club Deportivo Patrón Mejía**, por no presentar los requisitos a tiempo.
 
-> A la ciudadanía:[#ElNuevoEcuadorResuelve](https://twitter.com/hashtag/ElNuevoEcuadorResuelve?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/7A6DXsK8t3](https://t.co/7A6DXsK8t3)
-> 
-> — Presidencia Ecuador 🇪🇨 (@Presidencia\_Ec) [September 17, 2024](https://twitter.com/Presidencia_Ec/status/1836103438641565981?ref_src=twsrc%5Etfw)
+El Quito está convencido que el camino a la **Serie B en el 2024** puede concretarse y no quiere dejar nada al azar, por lo que presentó a Carlos Castro como su nuevo entrenador.
 
-El **Bloque de Seguridad del Gobierno** i**ntensificará las acciones para precautelar la seguridad** en las zonas donde rige la restricción, prestando especial atención en los **cantones y parroquias** afectados. Además, se prevé que en los próximos días se **anuncien medidas adicionales en función de la evolución de la situación**.
+Castro tiene experiencia por haber jugado en equipos como **Aucas, El Nacional y Barcelona Sporting Club**, entre otros, y haber defendido la camiseta de la Selección de Ecuador en siete oportunidades.
 
-Gobierno mencionó cortes de luz a escala nacional
--------------------------------------------------
+El Deportivo Quito en Segunda Categoría
+---------------------------------------
 
-El Gobierno anunció que se llevarán a cabo mantenimientos preventivos en el **Sistema Nacional de Transmisión y redes de distribución de energía eléctrica**, lo que provocará un corte temporal del suministro eléctrico en todo el territorio nacional. Esta medida se ejecutará el miércoles 18 de septiembre con la finalidad de garantizar la **estabilidad y seguridad energética a mediano plazo**.
+La primera vez del Deportivo Quito en la **Segunda Categoría fue en 1967** en los primeros años del fútbol nacional.
 
-De acuerdo con el **comunicado oficial emitido por la Secretaría General de Comunicación** de la Presidencia, la suspensión del servicio eléctrico se realizará desde las 22:00 del miércoles hasta las 06:00 del jueves 19 de septiembre.
+Luego de **50 años, ya en plena crisis económica e institucional**, regresó a esta categoría en 2017 y no volvió a subir más por lo que en el 2024 lo volverá a intentar.
 
-Los trabajos consistirán en el mantenimiento de subestaciones y equipos primarios de transformación en diversas zonas, incluidas **Macas, Santa Elena, Milagro y Molino**. Estos trabajos alcanzan un valor de más de 1 millón de dólares, con una inversión similar para las redes de distribución.
+Sus intentos fallidos de **ascender no han alejado a su fiel hinchada** que no los abandona y está presente cuando juega en Quito o en sus alrededores.
 
-Medidas de seguridad se reforzarán por apagones
------------------------------------------------
-
-La Policía Nacional informó que las labores de vigilancia se reforzarán durante los apagones a escala nacional. Las directrices se dieron a conocer este martes, 17 de septiembre de 2024.
-
-Hay zonas priorizadas, como **Guayas, Manabí, Los Ríos y El Oro**. Esto no quiere decir, indicaron las autoridades de la institución, que no habrá control en el resto del país, únicamente, hay estrategias diferenciadas.
-
-> [#EnVivo](https://twitter.com/hashtag/EnVivo?src=hash&ref_src=twsrc%5Etfw) 🎥  
->   
-> Inicia la rueda de prensa sobre el despliegue operativo de nuestras unidades durante los apagones en el país.  
->   
-> 👉 Presiden: Comandante de [@PoliciaDMQZona9](https://twitter.com/PoliciaDMQZona9?ref_src=twsrc%5Etfw) [#GraDHenryTapia](https://twitter.com/hashtag/GraDHenryTapia?src=hash&ref_src=twsrc%5Etfw), [#CrnlRichardVaca](https://twitter.com/hashtag/CrnlRichardVaca?src=hash&ref_src=twsrc%5Etfw) Jefe de Coordinación Operacional de la DGSCOP y [#TcnlGenVillacís](https://twitter.com/hashtag/TcnlGenVillac%C3%ADs?src=hash&ref_src=twsrc%5Etfw) Especialista… [pic.twitter.com/vlAsUmu0su](https://t.co/vlAsUmu0su)
-> 
-> — Policía Ecuador (@PoliciaEcuador) [September 17, 2024](https://twitter.com/PoliciaEcuador/status/1836075206399455434?ref_src=twsrc%5Etfw)
-
-Desde la entidad agregaron que se ha coordinado con el **Ecu 911** para identificar con mayor eficacia posibles alertas falsas, que intenten distraer a las fuerzas del orden.
-
-El tiempo de respuesta para la atención de emergencias dependerá de las circunstancias, se añadió desde la Policía.
-
-El **Bloque de Seguridad** también se mantendrá activo, con la intervención de la Policía y las Fuerzas Armadas.
-
-La operatividad y los recursos
-------------------------------
-
-La Policía informó que alrededor de **46 000 efectivos** estarán destinados para las labores de seguridad durante los cortes de luz. Corresponden al eje preventivo, investigativo e inteligencia.
-
-Los patrullajes, sobre todo preventivos, se focalizarán en sitios de riesgo, como entidades bancarias, zonas residenciales, centros de **privación de libertad**, entre otros. Los ejes viales también tendrán controles específicos.
-
-En Quito, se intensificarán **ocho puntos de vigilancia**, que estarán distribuidos en los ejes de ingreso a la ciudad.
-
-Los uniformados, tanto en patrullas como en motos, también recorrerán las calles para que las personas ingresen a las viviendas.  
-
-Doña Florinda envía emotivo saludo a los ecuatorianos 
-======================================================
-
-Florinda Meza, conocida como Doña Florinda, agradece a los ecuatorianos por su cariño hacia Chespirito en un emotivo mensaje.
------------------------------------------------------------------------------------------------------------------------------
-
-![Florinda Meza sorprendió a los ecuatorianos con un emotivo mensaje de cariño y agradecimiento. Foto: Pinterest.](https://www.elcomercio.com/wp-content/uploads/2024/09/dona-florinda-saludos.jpg)
-
-**Florinda Meza**, la querida **actriz mexicana** conocida por su icónico papel de **Doña Florinda** en la serie **‘El Chavo del 8’**, ha enviado un emotivo mensaje a los ecuatorianos.  
-
-### Más noticias
-
-* [Actores fallecidos de Karate Kid y Cobra Kai](https://www.elcomercio.com/tendencias/entretenimiento/actores-fallecidos-karate-kid-cobra-kai.html "https://www.elcomercio.com/tendencias/entretenimiento/actores-fallecidos-karate-kid-cobra-kai.html") 
-* [(Video) Rosalía se molestó con la actitud de un fanático](https://www.elcomercio.com/afull/rosalia-artista-musica-acoso.html "https://www.elcomercio.com/afull/rosalia-artista-musica-acoso.html") 
-
-A través de su [Instagram](https://www.instagram.com/florindamezach1/ "https://www.instagram.com/florindamezach1/"), **Meza expresó su profundo agradecimiento por el cariño y la admiración** que el público ecuatoriano conserva hacia su fallecido esposo, **Roberto Gómez Bolaños**, más conocido como **Chespirito**. 
-
-**Un mensaje lleno de cariño** 
--------------------------------
-
-**Florinda Meza**, la querida actriz que dio vida a **Doña Florinda** y a la **Chimoltrufia** en el **universo de Chespirito**, expresó su cariño y agradecimiento al público ecuatoriano por su apoyo incondicional a lo largo de los años en una publicación compartida en Instagram. 
-
-“Mis amados de Ecuador, ustedes no sólo están en la mitad del mundo, sino también en el centro de nuestro corazón. Su amor es tan bello y valioso para nosotros, como las Islas Galápagos. Gracias a ustedes ¡Chespirito sigue vivo!”, se puede leer en la publicación.  
-
-> [Ver esta publicación en Instagram](https://www.instagram.com/p/DABPDwRoFhb/?utm_source=ig_embed&utm_campaign=loading)
-> 
-> [Una publicación compartida de Florinda Meza (@florindamezach1)](https://www.instagram.com/p/DABPDwRoFhb/?utm_source=ig_embed&utm_campaign=loading)
-
-**El regreso de Chespirito a la televisión** 
----------------------------------------------
-
-El **mensaje de Meza**, llega en medio de la **expectativa de los fans de Chespirito** tras el anuncio de que, los queridos programas creados por **Roberto Gómez Bolaños**, regresarán a la televisión.  
-
-Después de una pausa de cuatro años, los icónicos programas como **‘El Chavo del 8’** y **‘El Chapulín Colorado’** volverán a ser transmitidos. Según informó [El Diario](https://eldiario.com/2024/09/09/el-chavo-del-8-vuelve-television-donde-verlo/ "https://eldiario.com/2024/09/09/el-chavo-del-8-vuelve-television-donde-verlo/"), los programas se emitirán tanto en canales tradicionales como en plataformas de ‘streaming’, lo que permitirá que **nuevas generaciones disfruten de las aventuras de estos entrañables personajes**. 
-
-**Un legado que perdura** 
+El Quito cambia de estadio
 --------------------------
 
-**Florinda Meza**, viuda de **Roberto Gómez Bolaños**, ha sido una figura clave en **mantener vivo el legado de su esposo**. En una entrevista con [El Espectador](https://www.elespectador.com/entretenimiento/cine-y-tv/se-anuncia-el-regreso-del-chavo-del-8-a-la-television-noticias-hoy/ "https://www.elespectador.com/entretenimiento/cine-y-tv/se-anuncia-el-regreso-del-chavo-del-8-a-la-television-noticias-hoy/"), Meza expresó su emoción por el regreso de los programas y **destacó la importancia de mantener viva la memoria de Chespirito**. “Roberto creó personajes que trascendieron fronteras y generaciones. Es un honor para mí ver cómo su trabajo sigue siendo apreciado y querido por tantas personas”, comentó Meza. 
+El sorteo del Ascenso Nacional determinó que el Deportivo Quito juegue contra Santa Elena Sporting Club. El compromiso de ida está programado para el 28 y 29 de septiembre.
 
-**La magia de Chespirito** 
----------------------------
+La revancha será el 5 0 6 de octubre en la provincia de la costa ecuatoriana.
 
-Personajes como **El Chavo**, **La Chilindrina**, **Quico** y **El Chapulín Colorado** se han convertido en íconos de la televisión. Según [Infobae](https://www.infobae.com/colombia/2024/09/09/chespirito-y-el-chavo-del-ocho-volveran-a-la-television-estas-son-las-posibilidades-de-que-llegue-a-colombia/ "https://www.infobae.com/colombia/2024/09/09/chespirito-y-el-chavo-del-ocho-volveran-a-la-television-estas-son-las-posibilidades-de-que-llegue-a-colombia/"), el regreso de estos programas no solo es una oportunidad para revivir momentos de nostalgia, sino también para que **nuevas generaciones descubran la genialidad de Chespirito.** 
+La ida tendrá que jugarse en Quito, **pero no podrá ser en el Olímpico Atahualpa** por la realización de un concierto programado con anterioridad.
 
-La familia Trump se une a un proyecto de criptomoneda
-=====================================================
+Esto hace que los dirigentes tengan que salir a buscar un nuevo estadio y se barajan las opciones de ir al Gonzalo Pozo Ripalda, en el sur de Quito; **o migren a Chillo-Jijón a la casa de Independiente del Valle**.
 
-Trump y su hijo primogénito y homónimo presentaron el proyecto desde su residencia en Florida, Mar-a-Lago.
-----------------------------------------------------------------------------------------------------------
+Así lo detalló José Pardo, presidente del club en entrevista concedida a Mach Deportes.
 
-![Hace años Trump calificó de "no moneda" al bitcoin.](https://www.elcomercio.com/wp-content/uploads/2024/09/Donald-Trump-cut-6-agosto.webp)
+![Foto: Facebook Deportivo Quito.](https://www.elcomercio.com/wp-content/uploads/2024/09/quito_estadio_2-1024x683.jpg)
 
-Donald Trump presentó en medio de la **campaña electoral** y aun resonando el **supuesto intento** de asesinato del que fue víctima el domingo, un **nuevo proyecto empresarial familiar**: una criptomoneda con el nombre de **World Liberty Finance (WLFI)**.
+Foto: Facebook Deportivo Quito.
 
-### Más noticias
-
-* [Donald Trump lanza video contra Kamala Harris con el tema Juliana qué mala eres](https://www.elcomercio.com/actualidad/mundo/trump-lanza-video-kamala-harris-evoca-tema-salsa-juliana-mala-eres.html "Donald Trump lanza video contra Kamala Harris con el tema Juliana qué mala eres")
-* [Kamala Harris y Donald Trump son respaldados por varias celebridades](https://www.elcomercio.com/actualidad/mundo/kamala-harris-donald-trump-son-respaldados-varias-celebridades.html "Kamala Harris y Donald Trump son respaldados por varias celebridades")
-* [Kamala Harris aventaja a Donald Trump entre latinos](https://www.elcomercio.com/actualidad/mundo/kamala-harris-aventaja-a-donald-trump-entre-latinos.html "Kamala Harris aventaja a Donald Trump entre latinos")
-
-Trump y su hijo **primogénito y homónimo** presentaron el proyecto desde su residencia en Florida, Mar-a-Lago, en una transmisión en vivo a través de **X Spaces** realizada este lunes. Al día siguiente de que el **servicio secreto** detuviera a un hombre que supuestamente quería matar al expresidente cuando jugaba al golf en uno de los **clubes floridanos** de su propiedad.
-
-Los Trump y sus socios en este proyecto no dieron información sobre **cuándo sera lanzada ni otros** detalles de la criptomoneda, pero **Donald Trump Jr.** dijo que servirá a personas que no tienen acceso al crédito de la banca tradicional, que, a su juicio, **aplica criterios sesgados y políticos** a la hora de conceder financiación.
-
-El medio especializado Coin Desk indicó que **World Liberty Financial** será un token de gobernanza intransferible que sólo se ofrecerá a inversores acogidos a la **exención del Reglamento D de la Comisión** del Mercado de Valores (SEC) de EE.UU, que permite a las empresas captar **capital sin registrar valores,** principalmente ofreciendo valores a **inversores acreditados** o en pequeñas ofertas privadas.
-
-Un token de gobernanza otorga a su titular la capacidad de participar en los **procesos de gobierno** de un proyecto cripto. Estos tokens se utilizan para **votar propuestas**, tomar decisiones e influir en el futuro de un proyecto.
-
-Alrededor del **63 % del token** se venderá al público, **mientras que el 17 %** se reservará para recompensas a los usuarios y el 20 % irá a parar al equipo, según CoinDesk.
-
-No está claro hasta que punto está implicado el **candidato republicano** en este proyecto empresarial, pero varios medios, incluido el canal CNN, apuntan a los **problemas éticos y legales** que pueden surgir si Trump gana las elecciones presidenciales del 5 de noviembre.
-
-“Ningún candidato de un partido importante ha utilizado su candidatura para obtener beneficios personales como lo ha hecho **Trump durante su tercera campaña para la Casa Blanca.** Desde que se incorporó a la **contienda hace casi dos años**, Trump ganó **millones de dólares** vendiendo nuevos artículos con imágenes de su vida política, y también generó **miles de millones de dólares** en riqueza a través de un sitio de redes sociales en el que habla directamente con sus seguidores”, subraya CNN.
-
-Hace años Trump calificó de **“no moneda” al bitcoin**, pero con el tiempo cambió de parecer y hasta ha prometido crear una reserva nacional estratégica de criptomonedas su regresa a la Casa Blanca.
-
-“El cripto es una de esas cosas que tenemos que hacer, **nos guste o no**“, dijo Trump durante la presentación de WLFI.
-
-Según CNN, la campaña del expresidente ha recibido millones de dólares en donaciones de magnates e inversores en criptomonedas.
-
-“Nuestro objetivo es **crear proyectos que sean fáciles** y sencillos de usar y en los que no sea necesario llamar a un amigo para que te los explique”, explicó Zak Folkman, uno de los fundadores del proyecto, durante la retransmisión que duró casi dos horas y media y congregó a más de 100 000 oyentes, de acuerdo con el **medio especializado** en criptomonedas.
-
-Jugador rechaza a la Selección de Ecuador por Chile
-===================================================
-
-Juan Francisco Rossel lucía como una de las opciones a futuro para la Selección de Ecuador, pero decidió jugar por Chile.
--------------------------------------------------------------------------------------------------------------------------
-
-![Juan Francisco Rossell, jugador que escogió a la Selección de Chile sobre la Selección de Ecuador.](https://www.elcomercio.com/wp-content/uploads/2024/09/Diseno-sin-titulo-2024-09-17T115720.393.jpg)
-
-Un nuevo jugador convocable para la **Selección de Ecuador** empieza a brillar en tierras extranjeras, sin embargo, este no está cerca de vestir la piel tricolor. Juan Francisco Rossel, jugador de la Universidad Católica de Chile, rechazó a la Tri para ponerse la casaca del país en el que milita.
-
-Con tan solo 19 años y un puñado de **14 partidos** en los que aún no suma titularidades desde su debut en el 2023, **Rossel** se ha hecho un hueco en el equipo absoluto y emociona. En septiembre de 2024 marcó su primer gol con los ‘cruzados’ ante Palestino.
-
-### Más noticias:
-
-* [La Selección de Ecuador tiene un récord positivo en el Monumental](https://www.elcomercio.com/deportes/eliminatorias/seleccion-ecuador-estadio-monumental-eliminatorias.html "La Selección de Ecuador tiene un récord positivo en el Monumental")
-* [Selección de Ecuador jugará contra Bolivia en Guayaquil](https://www.elcomercio.com/deportes/futbol/seleccion-de-ecuador-jugara-contra-bolivia-en-guayaquil.html "Selección de Ecuador jugará contra Bolivia en Guayaquil")
-* [¿Por qué la Selección de Ecuador juega con línea de tres?](https://www.elcomercio.com/deportes/seleccion-ecuador-sebastian-beccacece-sistema.html "¿Por qué la Selección de Ecuador juega con línea de tres?")
-
-En virtud de su papel con el club y el **ascenso** que ha tenido en este, el futbolista tuvo su primera conferencia de prensa. Allí, el volante ofensivo se refirió a su presente, sin embargo, lo que más llamó la atención fue su postura en cuanto a la selección que defenderá, pues hubo acercamientos desde **Ecuador y Chile.**
-
-A pesar de ser nacido en **Chile** y de que su padre es de aquel país, el futbolista tiene la chance de representar a Ecuador debido a la nacionalidad de su madre. A su vez, realizó todas las divisiones inferiores con la **Universidad Católica.**
-
-¿Qué dijo Juan Francisco Rossel sobre Chile y la Selección de Ecuador?
-----------------------------------------------------------------------
-
-Antes de brindar la rueda de prensa y cuando empezaba a destacar en las categorías juveniles del elenco ‘cruzado’, Rossel ya se había referido tanto a Chile como a la **Selección de Ecuador.** Al firmar su contrato profesional con el plantel albiazul, este había señalado que estaba la posibilidad de la Tri, pero su deseo era jugar por **la ‘Roja’.**
-
-Ya cimentado en el **primer equipo**, este se refirió a su relación con ambas selecciones y a los contactos que ha tenido con el equipo. En la conferencia de prensa que lo tuvo como protagonista, este señaló que sí lo llamaron desde el conjunto de la mitad del mundo[.](https://en.wikipedia.org/wiki/Ecuador_national_football_team "https://en.wikipedia.org/wiki/Ecuador_national_football_team")
-
-“**Hubo un acercamiento cuando tuve 17 años. Pude ir a Guayaquil para jugar con la Selección de Ecuador Sub-17, pero decidí jugar por Chile; además también me llamaron de la Sub-20 chilena, no tuve dudas** (…) Mi sueño es estar con Chile en la absoluta y representar al país en la Copa América o el Mundial”, expresó.
-
-¿Cuándo juega la Selección de Ecuador?
---------------------------------------
-
-La **Selección de Ecuador** ya venció a **Chile** en las eliminatorias, pero aún le restan partidos para finalizar la primera ronda de estas. En octubre de 2024, el conjunto tricolor volverá a las canchas para una doble jornada.
-
-El 10 de octubre, el plantel que dirige **Sebastián Beccacece** se enfrentará ante Paraguay en el Estadio Rodrigo Paz Delgado. Para el 15 de octubre, su presentación será en el Centenario de Montevideo contra Uruguay.
-
-Metro de Quito ajustará su horario ante los cortes de luz este miércoles 18 de septiembre
-=========================================================================================
-
-Metro de Quito tendrá nuevos horarios por cortes de luz programados por el Gobierno.
-------------------------------------------------------------------------------------
-
-![El Metro de Quito cuenta con un contrato de mantenimiento desde junio de 2024.](https://www.elcomercio.com/wp-content/uploads/2024/07/Metro-de-Quito-mantenimiento-2.jpg)
-
-Debido a los trabajos de mantenimiento programados en el **Sistema Nacional de Transmisión y las redes de distribución de energía**, el **Metro de Quito** anunció ajustes en su operación para el miércoles 18 de septiembre.
-
-### Más noticias
-
-* [Recomendaciones para aplicar en los apagones y cortes de luz en Ecuador](https://www.elcomercio.com/actualidad/ecuador/recomendaciones-apagones-ecuador.html "Recomendaciones para aplicar en los apagones y cortes de luz en Ecuador")
-* [Policía detalló medidas de seguridad durante los apagones](https://www.elcomercio.com/actualidad/ecuador/policia-detallo-medidas-seguridad-durante-apagones.html "Policía detalló medidas de seguridad durante los apagones")
-* [Cambios en horarios de clases por los cortes de luz en Ecuador](https://www.elcomercio.com/actualidad/cambios-en-horarios-de-clases-por-los-cortes-de-luz-en-ecuador.html "Cambios en horarios de clases por los cortes de luz en Ecuador")
-
-Según el comunicado oficial del **Gobierno**, el corte del servicio eléctrico se llevará a cabo en todo el país, lo que cuestionó el **funcionamiento del principal sistema de transporte subterráneo de la capital**.
-
-Gobierno mencionó cortes de luz a escala nacional
--------------------------------------------------
-
-El Gobierno anunció que se llevarán a cabo mantenimientos preventivos en el Sistema Nacional de Transmisión y redes de distribución de **energía eléctrica**, lo que provocará un corte temporal del suministro eléctrico en todo el territorio nacional. Esta medida se ejecutará el **miércoles 18 de septiembre** con la finalidad de **garantizar la estabilidad y seguridad energética a mediano plazo**.
-
-De acuerdo con el comunicado oficial emitido por la **Secretaría General de Comunicación de la Presidencia**, la suspensión del servicio eléctrico se realizará desde las **22:00 del miércoles hasta las 06:00** del jueves 19 de septiembre.
-
-> A la ciudadanía:[#ElNuevoEcuadorResuelve](https://twitter.com/hashtag/ElNuevoEcuadorResuelve?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/MbUL92BEbu](https://t.co/MbUL92BEbu)
-> 
-> — Presidencia Ecuador 🇪🇨 (@Presidencia\_Ec) [September 15, 2024](https://twitter.com/Presidencia_Ec/status/1835302854354968696?ref_src=twsrc%5Etfw)
-
-Los trabajos consistirán en el mantenimiento de subestaciones y equipos primarios de transformación en diversas zonas, incluidas **Macas, Santa Elena, Milagro y Molino**. Estos trabajos alcanzan un valor de más de 1 millón de dólares, con una inversión similar para las redes de distribución.
-
-Nuevos horarios en el funcionamiento del Metro de Quito por cortes de luz
--------------------------------------------------------------------------
-
-El **Metro de Quito** informó que los últimos trenes del día miércoles partirán a las 20:00 desde las estaciones de Labrador y Quitumbe, respectivamente.
-
-Este ajuste tiene como objetivo **evitar cualquier afectación que pudiera surgir debido a la falta de suministro eléctrico** a partir de las 22:00, hora en la que está programado que inicien los cortes de energía en todo el territorio nacional.
-
-A pesar de estos cambios, las autoridades del **Metro de Quito** señalaron que se encuentran a la espera de la confirmación oficial por parte de la **Empresa Eléctrica Quito (EEQ),** que debe ratificar que el sistema será tratado como un servicio estratégico, lo que implicaría que el metro continúe recibiendo energía eléctrica.
-
-Esta medida busca asegurar que el **Metro de Quito no sufra interrupciones** en su operatividad y pueda reanudar sus actividades normalmente la mañana del **jueves 19 de septiembre**.
-
-Moisés Caicedo cumple los seis requisitos para ser capitán del Chelsea
-======================================================================
-
-Moisés Caicedo se está ganando, a pulso, el derecho de ser designado como uno de los capitanes del Chelsea.
------------------------------------------------------------------------------------------------------------
-
-![Moisés Caicedo es uno de los capitanes del Chelsea de Inglaterra.](https://www.elcomercio.com/wp-content/uploads/2024/09/ENDRICK-PALMEIRAS-2024-09-17T114904.501.jpg)
-
-Tras la salida de Conor Gallagher y las frecuentes lesiones de Reece James en el **Chelsea**, el club londinense abrió la posibilidad de la capitanía a otros jugadores, como Enzo Fernández y **Moisés** **Caicedo**, el volante ecuatoriano.
-
-Desde la temporada actual, 2024/2025, el **‘Niño Moi’ se convirtió en uno de los capitanes** de los ‘Blues’, ocupando el tercer puesto en la jerarquía, asumiendo el rol cuando Enzo y Reece no están disponibles para el partido.
-
-### Más noticias:
-
-* [El Chelsea de Moisés Caicedo sufrió para ganar al Bournemouth](https://www.elcomercio.com/deportes/futbol/chelsea-moises-caicedo-bournemouth-premier-league.html "El Chelsea de Moisés Caicedo sufrió para ganar al Bournemouth")
-* [Moisés Caicedo se enfoca en el Chelsea para enfrentar al Bournemouth](https://www.elcomercio.com/deportes/futbol/moises-caicedo-enfoca-chelsea-para-enfrentar-al-bournemouth.html "Moisés Caicedo se enfoca en el Chelsea para enfrentar al Bournemouth")
-* [Moisés Caicedo celebró su primer aniversario con Chelsea](https://www.elcomercio.com/deportes/futbol/moises-caicedo-celebro-su-primer-aniversario-con-chelsea.html "Moisés Caicedo celebró su primer aniversario con Chelsea")
-
-La decisión la tomó el nuevo DT del club, Enzo Maresca, quien confía plenamente en la capacidad de l**iderazgo de Caicedo** para asumir el papel de capitán.
-
-En lo que va de la temporada, el ecuatoriano ya ha lucido la cinta de **capitán en dos ocasiones** desde el arranque de un partido. La primera fue en la UEFA Conference League contra el Servette y la segunda en la Premier League, en la última jornada frente al Bournemouth.
-
-Moisés Caicedo cumple los requisitos para ser capitán
------------------------------------------------------
-
-Aunque no existen requisitos oficiales para ser capitán del **Chelsea**, generalmente se consideran varios factores importantes.
-
-**Moisés** **Caicedo** cumple con estos criterios, lo que le ha permitido asumir el honor de ser uno de los líderes de uno de los clubes más importantes de Inglaterra y del mundo.
-
-### Liderazgo
-
-Caicedo ha demostrado ser un **líder** tanto en su club anterior como en la Selección de Ecuador. Su capacidad para motivar y guiar a sus compañeros es altamente valorada.
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/09/ENDRICK-PALMEIRAS-2024-09-17T115006.885-1024x683.jpg)
-
-Moisés Caicedo en su primer partido como capitán del Chelsea.
-
-### Experiencia
-
-A pesar de su corta edad, con solo 22 años, **Caicedo ya ha disputado cerca de 200 partido**s como profesional, casi 100 de ellos en la Premier League, y más de 40 con Ecuador. Esto lo convierte en un jugador experimentado tanto a nivel de clubes como de selección.
-
-### Desempeño
-
-El rendimiento en el campo es otra de las cualidades que han permitido a Caicedo ser considerado uno de los líderes del Chelsea. Ha sido uno de los **pocos jugadores con actuaciones destacadas** tanto en la pasada como en la presente temporada.
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/09/ENDRICK-PALMEIRAS-2024-09-17T115106.239-1-1024x683.jpg)
-
-Moisés Caicedo en un partido con el Chelsea en la Premier League 24/25.
-
-### Compromiso
-
-El compromiso es fundamental, y a Caicedo se lo conoce por su **dedicación y profesionalismo**. Es raro que el ecuatoriano se pierda un partido o un entrenamiento, lo que demuestra su gran entrega al equipo.
-
-### Respeto
-
-Gracias a su alto nivel de juego y lo que demuestra en la cancha, **Caicedo se ha ganado el respeto de sus compañeros y rivales**. Mantiene una buena relación dentro del equipo y sus adversarios lo reconocen por su calidad.
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/09/ENDRICK-PALMEIRAS-2024-09-17T115037.380-1024x683.jpg)
-
-Moisés Caicedo con sus compañeros en un partido con el Chelsea por la Conference League.
-
-### Comunicación
-
-Por último, el dominio del idioma es una ventaja. **Moisés Caicedo e**s de los pocos ecuatorianos que han jugado en el extranjero y se han **familiarizado con el idioma local, en este caso, el inglés.**
-
-Con más de tres años en Europa, el ‘Niño Moi’ maneja el inglés, lo que **facilita la comunicación** con sus compañeros, rivales e incluso con los árbitros, cuando es necesario.
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/09/ENDRICK-PALMEIRAS-2024-09-17T115021.754-1024x683.jpg)
-
-Moisés Caicedo conversa con uno de sus compañeros como capitán del Chelsea.
-
-Daniel Noboa pide control constitucional sobre bases extranjeras a la CC
-========================================================================
-
-Daniel Noboa presenta un proyecto de reforma constitucional ante la CC.
------------------------------------------------------------------------
-
-![El presidente de la República, Daniel Noboa, entregó a la Policía Nacional 100 nuevas camionetas.](https://www.elcomercio.com/wp-content/uploads/2024/09/daniel-noboa.png)
-
-La Presidencia de la República presentó formalmente un proyecto de reforma parcial ante la Corte Constitucional. El caso fue ingresado el pasado **16 de septiembre de 2024 a las 15:06**. Este proyecto tiene como objetivo la **sustitución del artículo 5** de la Constitución ecuatoriana, según se detalla en el expediente.
-
-### Más noticias
-
-* [Daniel Noboa presentará proyecto para reformar la Constitución sobre bases militares extranjeras](https://www.elcomercio.com/actualidad/politica/daniel-noboa-proyecto-reformar-constitucion-bases-militares-extranjeras.html "Daniel Noboa presentará proyecto para reformar la Constitución sobre bases militares extranjeras")
-* [Ley de Armas con veto parcial ¿Qué cambios propone Daniel Noboa?](https://www.elcomercio.com/actualidad/politica/ley-de-armas-con-veto-parcial-que-cambios-propone-daniel-noboa.html "Ley de Armas con veto parcial ¿Qué cambios propone Daniel Noboa?")
-* [Daniel Noboa dispone corte de luz nacional por mantenimientos](https://www.elcomercio.com/actualidad/ecuador/daniel-noboa-corte-de-luz-nacional-por-mantenimiento-apagon.html "Daniel Noboa dispone corte de luz nacional por mantenimientos")
-
-La naturaleza del procedimiento corresponde a una acción de **Reforma Constitucional**, y la Presidencia de la República actúa como **legitimado activo** en este caso, para promover modificaciones clave dentro del marco constitucional del país.
-
-El sorteo legal realizado en la Corte determinó que la competencia para llevar adelante este caso recae en el juez **Pablo Enrique Herrería Bonnet**, quien será el encargado de evaluar la constitucionalidad del proceso propuesto. En el documento entregado se incluyeron la demanda original de **5 fojas** y dos anexos adicionales de **3 fojas** en total.
-
-Procedimiento para realizar el proyecto
----------------------------------------
-
-Este procedimiento responde a la necesidad de un **control previo constitucional**, mediante el cual se busca asegurar que el **proyecto cumpla con los lineamientos establecidos en la Carta Magna** antes de avanzar hacia su eventual aprobación o rechazo por parte de los **organismos legislativos**.
-
-Daniel Noboa sobre las bases extranjeras
-----------------------------------------
-
-El presidente de Ecuador, **Daniel Noboa**, anunció una propuesta de reforma parcial a la Constitución del país. A través de su cuenta en X, explicó que el proyecto busca modificar el **artículo 5 de la Carta Magna, el cual prohíbe la instalación de bases militares extranjeras** en el territorio ecuatoriano.
-
-Esta prohibición, vigente desde 2009 tras el cierre de la base estadounidense en Manta, ha sido un pilar de la política ecuatoriana en defensa de su soberanía y autonomía.
-
-> A Ecuador no le hacían falta oportunidades, sino honestidad y voluntad política.  
->   
-> Por eso, hoy presentaremos un Proyecto de Reforma Parcial a la Constitución en la Asamblea Nacional que modifique el artículo 5, el cual prohíbe el establecimiento de bases militares extranjeras y… [pic.twitter.com/myn2IBjHa9](https://t.co/myn2IBjHa9)
-> 
-> — Daniel Noboa Azin (@DanielNoboaOk) [September 16, 2024](https://twitter.com/DanielNoboaOk/status/1835737547231969400?ref_src=twsrc%5Etfw)
-
-Noboa argumentó que la salida de las **tropas extranjeras de Manta**, implementada durante el gobierno de Rafael Correa, no trajo la soberanía que se esperaba. Dijo que debilitó al país frente a las amenazas del narcotráfico y el crimen organizado transnacional.
-
-En un video grabado en las antiguas instalaciones de la base, **Noboa criticó duramente esta decisió**n. Aseguró que fue el primer pacto con el **crimen transnaciona**l, debilitando la seguridad nacional.
-
-El 16 de septiembre de 2024, presentaron la propuesta de reforma. Noboa enfatizó la necesidad de una respuesta tanto nacional como internacional ante **amenazas que no respetan fronteras**. De igual forma, instó a los legisladores a decidir de qué lado de la historia quieren estar.
-
-Estos son los países más afectados por los incendios en septiembre 2024
-=======================================================================
-
-En este momento hay en curso 65 incendios, con mayor incidencia en las regiones Norte y Centro de Portugal.
------------------------------------------------------------------------------------------------------------
-
-![Un vecino de la aldea lusa de Paus (distrito de Aveiro) muestra la columna de humo de los incendios que se registran en el país. Los vecinos se afanan por proteger las viviendas con todo tipo se herramientas ante la amenaza de las llamas al casco urbano.](https://www.elcomercio.com/wp-content/uploads/2024/09/incendios-portugal-efe.jpg)
-
-Varios países a escala mundial son afectados por **[incendios](https://www.elcomercio.com/actualidad/mundo/impacto-incendios-paises-america-latina.html "https://www.elcomercio.com/actualidad/mundo/impacto-incendios-paises-america-latina.html")** en **América Latina** consta **Colombia, Brasil, Perú**, Bolivia, Paraguay, mientras que en Europa, **Portugal** también siente también el impacto.
-
-### Más noticias
-
-* [Impacto de los incendios en países de América Latina](https://www.elcomercio.com/actualidad/mundo/impacto-incendios-paises-america-latina.html "Impacto de los incendios en países de América Latina")
-* [Mueren 3 bomberos en el combate contra incendios en Portugal y son ya 7 los fallecidos](https://www.elcomercio.com/actualidad/mundo/mueren-3-bomberos-en-el-combate-contra-incendios-en-portugal-y-son-ya-7-los-fallecidos.html "Mueren 3 bomberos en el combate contra incendios en Portugal y son ya 7 los fallecidos")
-* [Bomberos controlaron el incendio forestal en el volcán Ilaló y registraron otro en El Quinche](https://www.elcomercio.com/actualidad/quito/incendio-volcan-ilalo.html "Bomberos controlaron el incendio forestal en el volcán Ilaló y registraron otro en El Quinche")
-
-Colombia
---------
-
-Más de **19 430 hectáreas de bosques** fueron arrasadas por 23 incendios en Colombia, informó este lunes 17 de septiembre de 2024, la Unidad Nacional para la Gestión del Riesgo de Desastres (Ungrd), que aseguró que “la situación no está fuera de control”.
-
-De acuerdo con las cifras de la Unidad, las **llamas afectan principalmente el centro del país** toda vez que de los 23 incendios nueve están en el departamento del Tolima y seis en el Huila, incluido uno en Neiva, la capital departamental.
-
-Otros cinco arrastraron **vegetación del Cauca** y tres más en Cundinamarca, del que Bogotá es su capital.
-
-La Ungrd también aseguró que ya controló tres incendios en el Huila, uno más en Cauca, otro en Boyacá y en Norte de Santander.
-
-“La **situación no está fuera de control**“, advirtió el director de la UNGRD, Carlos Carrillo, que además aseguró que el Sistema Nacional de Gestión del Riesgo está operando y coordinando los recursos aéreos y terrestres para extinguir los incendios.
-
-Para combatir las llamas, originadas principalmente por las elevadas temperaturas y la ausencia de lluvias, las autoridades destinaron el **envío de helicópteros** con el sistema Bambi Bucket y aeronaves con el sistema Guardian Caylym de la Fuerza Aérea Colombiana (FAC), el Ejército y la Policía.
-
-Perú
-----
-
-El Gobierno de Perú ordenó el **despliegue de las Fuerzas Armadas** y de aeronaves con equipos especiales para combatir los numerosos incendios forestales que se han desatado en diferentes regiones del país, con un saldo total de 15 personas fallecidas desde julio pasado.
-
-Ante la situación, la presidenta Dina Boluarte sobrevoló la región de Amazonas y recibió información de representantes del Instituto Nacional de Defensa Civil (Indeci) y de autoridades locales, quienes detallaron las acciones que se están tomando.
-
-“La **lucha para extinguir estos incendios continúa con el esfuerz**o coordinado de las Fuerzas Armadas, el Indeci y las autoridades locales. Cada vuelo es clave en este combate para proteger nuestra tierra y nuestra gente”, señaló Boluarte.
-
-Las autoridades destacaron que se han desplegado helicópteros equipados con el sistema ‘Bambi bucket’ en una localidad de Amazonas, desde donde se abastecen para trasladar hasta 3.000 litros de agua en cada uno de los más de diez vuelos diarios que realizan.
-
-Bolivia
--------
-
-Los incendios forestales en Bolivia persisten en **áreas protegidas** y **sectores turísticos** pese a que el fin de semana se registraron algunas lluvias en el oriente del país, según un informe que dio a conocer este lunes la Gobernación de Santa Cruz, motor económico de la nación y la región más afectada por el fuego.
-
-“El fin de semana se registró una **lluvia en el departamento** que no ha incidido de forma positiva”, afirmó el coordinador de Gestión de Riesgos de la región, Dionisio Castro, en una conferencia de prensa.
-
-También, la Gobernación santacruceña informó que actualmente hay 38 incendios activos en cuatro municipios.
-
-Según el monitoreo de esta jornada, las llamas persisten en el **Área Natural de Manejo Integrado** (ANMI) del municipio de San Matías, la segunda reserva más grande de Bolivia.
-
-Castro informó además que las regiones que forman parte de la Chiquitania, una zona turística y de transición entre el Chaco y la Amazonia de Bolivia, siguen bajo el fuego, que no ha sido aplacado.
-
-En lo que va del año los incendios han devastado unas 3,8 millones de hectáreas de bosques y pastizales, según la información oficial, aunque instituciones privadas reportan más de 4 millones las afectadas.
-
-Brasil
-------
-
-Brasilia, la capital brasileña construida desde la **primera piedra e inaugurada en 1960**, completó este martes 17 de septiembre de 2024, 147 días sin lluvias, cercada de incendios forestales que mantienen a la ciudad bajo una fuerte humareda.
-
-Se trata de la sequía más prolongada desde 1963, que marcó un récord de 163 días sin siquiera una llovizna, y de **acuerdo a las proyecciones del servicio meteorológico** este año puede ser igual o peor, pues hasta ahora no se prevén precipitaciones para las próximas dos semanas.
-
-Esa falta de **lluvias se combina con temperaturas que han llegado a 33 grados centígrados** en los últimos días, junto con una humedad del aire que ha caído hasta el 7 %.
-
-La sequía es habitual en esta época del año en la región central de Brasil, pero en este 2024 es una de las más extremas y afecta a más de la mitad del territorio del país, con especial incidencia en los biomas de la Amazonía, la sabana del Cerrado y el Pantanal.
-
-Tanto en Brasilia como en el resto del país se sospecha que muchos de los incendios fueron provocados intencionalmente, lo que llevó a la **ministra de Medio Ambiente, Marina Silva**, a denunciar lo que calificó como “terrorismo climático”.
-
-Silvia insistió en esa tesis este mismo martes, en una entrevista con una red de radios públicas en la que demandó al Parlamento el establecimiento de penas más severas para los delitos contra el medioambiente.
-
-Paraguay
---------
-
-Bajo una temperatura cercana a los 45 grados Celsius, **más de 300 personas,** entre bomberos voluntarios, militares, **funcionarios oficiales y labriegos**, intentan apagar por tierra y aire un feroz incendio que ha arrasado alrededor de 190 000 hectáreas en una vasta zona de la región del Chaco paraguayo (oeste) fronteriza con Bolivia.
-
-El fuego, que se presume se inició el pasado 2 de septiembre de 2024 en la zona conocida como Chovoreca, se ha extendido en los alrededores del distrito (municipio) de Bahía Negra, en el departamento de Alto Paraguay (noroeste), e incluso ya alcanzó el área silvestre protegida Monumento Natural Cerro Chovoreca.
-
-El área afectada se encuentra a unos **40 kilómetros de la frontera con Bolivia** y 80 kilómetros del linde con Brasil. “Nosotros nos mantenemos aquí en esta zona entre 40, 45 grados de calor”, explicó el director general de gestión riesgo de la Secretaría de Emergencia Nacional (SEN), Eduardo Gómez.
-
-El funcionario dijo que el viento y el calor hacen que las l**lamas avancen con mayor velocidad**.
-
-Portugal
---------
-
-Portugal sufre una **ola de incendios** que comenzó el fin de semana y que llevó al Gobierno a decretar la situación de alerta por peligro de incendio hasta el final del jueves.
-
-El comandante André Fernandes precisó este martes 17 de septiembre de 2024, que la situación continúa “muy compleja” y avanzó que las evacuaciones continuarán durante hoy y mañana.
-
-En este momento hay en curso **65 incendios**, con mayor incidencia en las regiones Norte y Centro del país, que han provocado también cerca de medio centenar de heridos.
-
-Preocupa especialmente el **“complejo de incendios”** que se registra en la zona fronteriza entre el distrito de Aveiro y el área metropolitana de Oporto, en el norte.
-
-En el terreno hay cerca de 5 000 efectivos, además de 1 700 medios terrestres y 29 aéreos.
-
-Policía detalló medidas de seguridad durante los apagones
-=========================================================
-
-Patrullajes se reforzarán durante los apagones en Ecuador.
-----------------------------------------------------------
-
-![Policía anunció las medidas de seguridad durante el apagón nacional.](https://www.elcomercio.com/wp-content/uploads/2024/09/seguridad-cortes-de-luz.jpg)
-
-Los **cortes de luz** en Ecuador son un hecho. Este miércoles, 18 de septiembre de 2024, se ejecutará un **apagón nacional**, de 22:00 a 06:00.  La Policía anunció las medidas de seguridad durante ese lapso.
-
-Los **racionamientos de energía**, a su vez, se realizarán el lunes 23, martes 24, miércoles 25 y jueves 26 de septiembre, en la misma franja horaria.  
-
-### Más noticias
-
-* [Gobierno de Daniel Noboa anuncia nuevos apagones programados](https://www.elcomercio.com/actualidad/negocios/gobierno-de-daniel-noboa-anuncia-nuevos-apagones-programados.html)
-* [ECU 911 hizo un anuncio respecto a los cortes de luz a escala nacional](http://ECU 911 hizo un anuncio respecto a los cortes de luz a escala nacional)
-* [Cortes de luz provocarán suspensión de al menos 6 servicios este miércoles 18 de septiembre](https://www.elcomercio.com/actualidad/negocios/cortes-de-luz-provocaran-suspension-de-al-menos-6-servicios-este-miercoles-18-de-septiembre.html "Cortes de luz provocarán suspensión de al menos 6 servicios este miércoles 18 de septiembre")
-
-Medidas de seguridad se reforzarán por apagones
------------------------------------------------
-
-La **Policía** **Nacional** informó que las labores de vigilancia se reforzarán durante los apagones a escala nacional. Las directrices se dieron a conocer este martes, 17 de septiembre de 2024.
-
-Hay zonas priorizadas, como **Guayas, Manabí, Los Ríos y El Oro**. Esto no quiere decir, indicaron las autoridades de la institución, que no habrá control en el resto del país, únicamente, hay estrategias diferenciadas.
-
-Desde la entidad agregaron que se ha coordinado con el **Ecu 911** para identificar con mayor eficacia posibles alertas falsas, que intenten distraer a las fuerzas del orden.
-
-El **tiempo de respuesta** para la atención de emergencias dependerá de las circunstancias, se añadió desde la Policía.
-
-El Bloque de Seguridad también se mantendrá activo, con la intervención de la **Policía y las Fuerzas Armadas.**
-
-La operatividad y los recursos
-------------------------------
-
-La **Policía** informó que alrededor de **46 000 efectivos** estarán destinados para las labores de seguridad durante los cortes de luz. Corresponden al eje preventivo, investigativo e inteligencia.
-
-Los patrullajes, sobre todo preventivos, se focalizarán en sitios de riesgo, como entidades bancarias, zonas residenciales, **centros de privación de libertad**, entre otros. Los ejes viales también tendrán controles específicos.
-
-En **Quito**, se intensificarán ocho puntos de vigilancia, que estarán distribuidos en los ejes de ingreso a la ciudad.
-
-Los uniformados, tanto en **patrullas como en motos**, también recorrerán las calles para que las personas ingresen a las viviendas.
-
-Sectores priorizados
---------------------
-
-En cada sector se prevé que haya **una patrulla y cuatro motocicletas**. Se pondrá énfasis en los distritos **Eloy Alfaro, Quitumbe y La Delicia**.
-
-Eso no quiere decir que los otros sectores no contarán con resguardo, se aseguró desde la institución. Se recomendó tener **pitos en los hogares**, como un implemento de alerta, debido a que no funcionarán las alarmas.
-
-Las **Unidades de Policía Comunitaria** (UPC) permanecerán abiertas y operativas durante los apagones. Esto será posible porque los controles estarán respaldados por personal del área administrativa de la Policía.
-
-El toque de queda
------------------
-
-Durante el **toque de queda**, los efectivos verificarán que las personas no circulen. Esto salvo excepciones, como emergencias médicas.
-
-No obstante, las autoridades de la Policía indicaron que deberán esperar a que el presidente **Daniel Noboa** publique el decreto ejecutivo correspondiente para definir el resto de detalles. Se prevé que haya salvoconductos.
-
-Actores fallecidos de Karate Kid y Cobra Kai 
-=============================================
-
-Historia de los actores de Karate Kid y Cobra Kai que han fallecido. Un homenaje a sus vidas y carreras.
---------------------------------------------------------------------------------------------------------
-
-![La franquicia de ‘Karate Kid’ y ‘Cobra Kai’ sigue viva en la cultura pop, sus personajes fallecidos son recordados con cariño. Foto: IMDb.](https://www.elcomercio.com/wp-content/uploads/2024/09/cobra-kai-karate-kid.jpg)
-
-**Karate Kid** y su secuela, **Cobra Kai**, son parte importante de **la cultura pop pasada y presente**. Sin embargo, algunos de sus actores **lamentablemente han fallecido**, sin poder seguir insertos en el universo de la franquicia. A continuación, **rendimos homenaje** a estos talentos que ya no están con nosotros. 
-
-### Más noticias
-
-* [(Video) Rosalía se molestó con la actitud de un fanático](https://www.elcomercio.com/afull/rosalia-artista-musica-acoso.html "https://www.elcomercio.com/afull/rosalia-artista-musica-acoso.html") 
-* [Evita colocar imanes en la refrigeradora por estas razones](https://www.elcomercio.com/tendencias/tecnologia/refrigeradora-imanes-electrodomestico-cuidado.html "https://www.elcomercio.com/tendencias/tecnologia/refrigeradora-imanes-electrodomestico-cuidado.html") 
-
-**Rob Garrison: El inolvidable Tommy** 
----------------------------------------
-
-![Foto: Pinterest.](https://www.elcomercio.com/wp-content/uploads/2024/09/cobra-kai-karate-kid-1-1024x683.jpg)
-
-Foto: Pinterest.
-
-**Rob Garrison**, conocido por su papel como **Tommy** en **Karate Kid** y **Cobra Kai**, falleció el 27 de septiembre de 2019 a los 59 años. Garrison comenzó su carrera en los años 70 y se destacó en la película **‘Brubaker’** (1980) antes de unirse al elenco de **Karate Kid** en 1984. Su personaje, Tommy, es reconocido por la icónica frase “¡Dale su merecido, Johnny!” en el torneo de karate. En **Cobra Kai**, Garrison retomó su papel en la segunda temporada, y ofreció una emotiva actuación que sería su última. Según [SYFY](https://www.syfy.com/syfy-wire/robert-garrison-tommy-karate-kid-franchise-obituary "https://www.syfy.com/syfy-wire/robert-garrison-tommy-karate-kid-franchise-obituary"), Garrison murió debido a complicaciones de riñón e hígado. 
-
-**Chad McQueen: El rebelde Dutch** 
------------------------------------
-
-![Foto: misionesonline.net.](https://www.elcomercio.com/wp-content/uploads/2024/09/cobra-kai-karate-kid-2-1024x683.jpg)
-
-Foto: misionesonline.net.
-
-**Chad McQueen**, hijo del legendario **Steve McQueen**, interpretó a **Dutch** en **Karate Kid**. Dutch era uno de los miembros más agresivos del dojo **Cobra Kai**. McQueen no regresó para **Cobra Kai**, pero su legado en la franquicia es innegable. El actor falleció el 11 de septiembre de 2024 a los 63 años. Según [El Informador](https://www.informador.mx/entretenimiento/Muere-Chad-McQueen-actor-de-Karate-Kid-e-hijo-de-Steve-Mcqueen-20240913-0047.html "https://www.informador.mx/entretenimiento/Muere-Chad-McQueen-actor-de-Karate-Kid-e-hijo-de-Steve-Mcqueen-20240913-0047.html"), McQueen murió debido a complicaciones de salud no especificadas. 
-
-**Pat Morita: El sabio Sr. Miyagi** 
+Treintaidosavos del Ascenso Nacional
 ------------------------------------
 
-![Foto: Pinterest.](https://www.elcomercio.com/wp-content/uploads/2024/09/cobra-kai-karate-kid-3-1024x683.jpg)
+No te pierdas - El Confesionario
+--------------------------------
 
-Foto: Pinterest.
-
-Aunque no fue parte de **Cobra Kai**, es imposible hablar de **Karate Kid** sin mencionar a **Pat Morita**, quien interpretó al **sabio Sr. Miyagi**. Morita falleció el 24 de noviembre de 2005 a los 73 años debido a **insuficiencia renal.** Su interpretación del Sr. Miyagi le valió una **nominación al Oscar** y dejó una huella imborrable en la franquicia. De acuerdo con [The New York Times](https://www.nytimes.com/2005/11/25/arts/pat-morita-73-actor-known-for-karate-kid-and-happy-days-dies.html "https://www.nytimes.com/2005/11/25/arts/pat-morita-73-actor-known-for-karate-kid-and-happy-days-dies.html"), **Morita fue un pionero para los actores asiático-americanos en Hollywood.** 
-
-**Otros actores recordados** 
------------------------------
-
-Además de los mencionados, otros actores de la franquicia también han fallecido. A decir de [Vader](https://vader.news/series/Actores-de-Karate-Kid-que-fallecieron-en-la-vida-real-y-no-podrian-regresar-a-Cobra-Kai-20231113-0004.html "https://vader.news/series/Actores-de-Karate-Kid-que-fallecieron-en-la-vida-real-y-no-podrian-regresar-a-Cobra-Kai-20231113-0004.html"), **Pat E. Johnson** (1939-2023), el **réferi de los torneos de artes marciales**, fue un destacado peleador y cinturón negro de noveno grado, que incluso entrenó a varios miembros del elenco. **Nobu McCarthy** (1934-2002), quien interpretó a **Yuki** en ‘Karate Kid II’, el amor imposible del Sr. Miyagi, hizo apariciones en programas de la década de los 60 como ‘Batman’ y ‘Perry Mason’. **Danny Kamekona** (1935-1996), quien también fue parte del elenco de ‘Karate Kid II’, **interpretó a Sato Toguchi**, el rival del Sr. Miyagi en su tierra natal, Okinawa. 
-
-**El legado de Cobra Kai** 
----------------------------
-
-**Cobra Kai** ha revitalizado el interés en **Karate Kid**, al presentar a una **nueva generación de fans a los personajes clásicos**. La serie ha sido un éxito en **Netflix**, y aunque algunos actores ya no están con nosotros, su legado perdura. **La serie ha sabido rendir homenaje a estos actores**, al integrar sus historias y personajes de manera respetuosa y emotiva. 
-
-Recomendaciones para aplicar en los apagones y cortes de luz en Ecuador
+Policía aclara recomendación sobre el uso de silbatos para los apagones
 =======================================================================
 
-Con los cortes de luz hay puntos que tomar en cuenta.
------------------------------------------------------
+El comandante general de la Policía, Víctor Zárate, se refirió al tema que provocó controversia en la ciudadanía.
+-----------------------------------------------------------------------------------------------------------------
 
-![Imagen referencial de cortes de luz.](https://www.elcomercio.com/wp-content/uploads/2024/09/cortes-luz-recomendaciones.jpg)
+![Henry Tapia, comandante de la Policía Zona 9, durante la rueda de prensa](https://www.elcomercio.com/wp-content/uploads/2024/09/policia-silbatos.jpg)
 
-Los **cortes de luz** en Ecuador ya están confirmados. Este miércoles, 18 de septiembre de 2024, se ejecutará un apagón nacional, de 22:00 a 06:00[.](https://es.wikipedia.org/wiki/Ecuador)[](https://es.wikipedia.org/wiki/Ecuador)
+La **Policía Nacional** realizó una rueda de prensa, la mañana de este martes 17 de septiembre de 2024, para informar las medidas de seguridad que se realizarán durante el **apagón** programado de esta semana.
 
-El Gobierno, además, anunció el cronograma para los próximos **racionamientos de energía** eléctrica en el país. Hay servicios que se restringirán.
+Los **cortes de luz** en Ecuador se ejecutarán este miércoles 18, desde las 22:00, y se extenderán hasta las 06:00 el jueves 19 de septiembre.
 
 ### Más noticias
 
-* [Gobierno de Daniel Noboa anuncia nuevos apagones programados](https://www.elcomercio.com/actualidad/negocios/gobierno-de-daniel-noboa-anuncia-nuevos-apagones-programados.html)
-* [ECU 911 hizo un anuncio respecto a los cortes de luz a escala nacional](http://ECU 911 hizo un anuncio respecto a los cortes de luz a escala nacional)
-* [Cortes de luz provocarán suspensión de al menos 6 servicios este miércoles 18 de septiembre](https://www.elcomercio.com/actualidad/negocios/cortes-de-luz-provocaran-suspension-de-al-menos-6-servicios-este-miercoles-18-de-septiembre.html "Cortes de luz provocarán suspensión de al menos 6 servicios este miércoles 18 de septiembre")
-* [Gobierno declara toque de queda por cortes de luz a escala nacional](https://www.elcomercio.com/actualidad/seguridad/gobierno-declara-toque-queda-por-cortes-luz-a-escala-nacional.html "Gobierno declara toque de queda por cortes de luz a escala nacional")
+* [Ecovía y Trolebús modificarán sus horarios por cortes de luz](https://www.elcomercio.com/actualidad/quito/ecovia-trolebus-modificaran-horarios-por-cortes-de-luz.html "Ecovía y Trolebús modificarán sus horarios por cortes de luz")
+* [Recomendaciones para aplicar en los apagones y cortes de luz en Ecuador](https://www.elcomercio.com/actualidad/ecuador/recomendaciones-apagones-ecuador.html "Recomendaciones para aplicar en los apagones y cortes de luz en Ecuador")
+* [Ministerio de Educación cambia los horarios de clases por apagón programado](https://www.elcomercio.com/actualidad/ecuador/ministerio-educacion-horarios-clases-apagon.html "Ministerio de Educación cambia los horarios de clases por apagón programado")
 
-> A la ciudadanía: [#ElNuevoEcuadorResuelve](https://twitter.com/hashtag/ElNuevoEcuadorResuelve?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/gfA60dPzFJ](https://t.co/gfA60dPzFJ)
+**Henry Tapia**, comandante de la Zona 9 de Quito, aprovechó su intervención para explicar las principales acciones del plan del **Bloque de Seguridad**.
+
+Además, dio ciertas **recomendaciones** a la ciudadanía para que salvaguarden su seguridad durante el racionamiento.
+
+Recomendación de uso de silbatos generó controversia
+----------------------------------------------------
+
+Justamente, uno de sus pedidos causó **controversia** entre la ciudadanía.
+
+El oficial aconsejó a las personas **comprar un silbato** para avisar a la Policía de cualquier eventualidad.
+
+Tapia argumentó su recomendación en que, debido a la falta energía eléctrica, las **alarmas comunitarias** no funcionarán.
+
+“Es importante que adquiramos un pito y que lo hagamos sonar varias veces; la Policía está al tanto que esta es una medida de alerta”, mencionó el uniformado.
+
+Sin embargo, horas más tarde, el comandante general de la Policía Nacional, **Víctor Zárate**, aclaró esta pedido a través de un video institucional.
+
+Zárate desmintió que “la recomendación del uso del silbato sea parte del **plan operativo** para esta eventualidad”.
+
+> [#ACLARACIÓN](https://twitter.com/hashtag/ACLARACI%C3%93N?src=hash&ref_src=twsrc%5Etfw) ||  
+>   
+> Reiteramos nuestro compromiso con la ciudadanía ante los racionamientos eléctricos en el país.  
+>   
+> Más información en el siguiente [#video](https://twitter.com/hashtag/video?src=hash&ref_src=twsrc%5Etfw):👇🏼🎥 [pic.twitter.com/Mdn8q0GAPT](https://t.co/Mdn8q0GAPT)
 > 
-> — Presidencia Ecuador 🇪🇨 (@Presidencia\_Ec) [September 17, 2024](https://twitter.com/Presidencia_Ec/status/1835902030600196105?ref_src=twsrc%5Etfw)
+> — Policía Ecuador (@PoliciaEcuador) [September 17, 2024](https://twitter.com/PoliciaEcuador/status/1836158505834758400?ref_src=twsrc%5Etfw)
 
-Servicios durante los apagones
-------------------------------
-
-Los **cortes de luz**, a su vez, se realizarán el lunes 23, martes 24, miércoles 25 y jueves 26 de septiembre, en la misma franja horaria.
-
-No obstante, ya este martes, 17 de septiembre de 2024, al menos en Quito, ya se reportaron **cortes** en el norte de la ciudad.
-
-Como parte de las medidas que acompañan a la **crisis energética**, el gobierno de **Daniel Noboa** informó que se optará por la modalidad de teletrabajo en el sector pública.
-
-Esa medida se aplicará el jueves 19 y viernes 20 de septiembre, así como el **jueves 26 y viernes 27**.
-
-Recomendaciones para los cortes de luz
---------------------------------------
-
-En principio, es importante tomar en cuenta las **medidas de seguridad**, como mantenerse en los domicilios. El **Ecu 911** sí atenderá las emergencias que se reporten durante los **cortes de luz**.
-
-En caso de vivir en urbanización es necesario coordinar con la administración y los **vecinos**, para tener un **plan de emergencia**.
-
-Es vital evitar salir de las **viviendas** si se registran disturbios o algún tipo de alteración en la **vía pública**.
-
-En lo que se refiere a electrodomésticos es importante tener precauciones. En el caso del refrigerador, se puede abastecer de hielo o **bolsas térmicas** que mantienen los productos fríos.
-
-Recursos disponibles
---------------------
-
-Es importante tener **linternas en buen estado**, una por cada integrante de la familia, con baterías de repuesto. Otra opción es contar con focos recargables que estén con carga máxima.
-
-Mantener cargado su celular al 100% antes del inicio del **apagón** es fundamental, aunque podrían darse problemas de conexión debido a los **cortes de energía**.
-
-De igual manera, es necesario mantener suficiente combustible en su vehículo para salir a un punto seguro. No se debe dejar objetos de fácil acceso en tu vehículo o en el entorno del **domicilio**.
-
-Tener agua suficiente para cualquier necesidad básica, pues, también están previstos racionamientos de agua. De igual forma, el **botiquín** debe estar abastecido.
-
-Servicios durante los cortes de luz
------------------------------------
-
-* **Alumbrado público.** La iluminación de las vías del país se verá afectada durante el corte de luz de ocho horas.
-* **Servicio de telefonía celular e internet.** Durante el corte de luz habrá interrupciones en los servicios de telefonía móvil e Internet. Las bases de estas redes cuentan con baterías, pero, su autonomía es de entre 4-6 horas máximo.
-* **Salud.** Se espera que las aéreas críticas de los 134 hospitales y maternidades públicos trabajen con normalidad.
-* **Cárceles del Ecuador.** Los 35 centros de privación de libertad tienen protocolos establecidos. Son más de 30 000 privados de libertad.
-* **Clases nocturnas.** Las instituciones educativas que brindan ofertas educativas en las modalidades presencial y semipresencial en horario nocturno, deberán anticipar la salida de los estudiantes, con el tope máximo de las 20:00.
-* **Seguridad y toque de queda.** Durante las ocho horas de suspensión de energía estarán desplegados 70 000 uniformados en todo el país para brindar seguridad.
-
-Primera imagen del sumergible Titán fue revelada tras su implosión
-==================================================================
-
-La Guardia Costera de EE.UU. publica la primera imagen del sumergible Titán tras su implosión en 2023 cerca de los restos del Titanic.
---------------------------------------------------------------------------------------------------------------------------------------
-
-![Imagen del sumergible Titán antes de su implosión.](https://www.elcomercio.com/wp-content/uploads/2024/09/titan.png)
-
-La **Guardia Costera de Estados Unidos** publicó el pasado 16 de septiembre la primera imagen del sumergible Titán en el fondo del océano. La foto muestra el cono de cola roto, separado del **resto de la nave**, descansando en el fondo del océano **Atlántico Norte**.
-
-### Más noticias
-
-* [Lo que se sabe de la explosión en el norte de Quito](https://www.elcomercio.com/actualidad/quito/lo-que-se-sabe-explosion-incendio-norte-de-quito.html "Lo que se sabe de la explosión en el norte de Quito")
-* [Armada encontró semisumergible con droga ¿Cuántos detenidos deja la operación?](https://www.elcomercio.com/actualidad/seguridad/armada-encontro-semisumergible-droga-detenidos.html "Armada encontró semisumergible con droga ¿Cuántos detenidos deja la operación?")
-* [Fuerte explosión se registró en la Av. 6 de Diciembre y El Telégrafo, norte de Quito](https://www.elcomercio.com/actualidad/fuerte-explosion-se-registro-en-el-telegrafo-norte-de-quito.html "Fuerte explosión se registró en la Av. 6 de Diciembre y El Telégrafo, norte de Quito")
-
-Los bordes desgarrados del cono evidencian la gravedad del accidente que **ocurrió en junio de 2023**. En esa inmersión final, el Titán **implosionó y causó la muerte de sus cinco ocupantes**.
-
-Los restos del sumergible fueron localizados a varios **cientos de metros de los del Titanic**, el destino que buscaban los tripulantes antes del fatal accidente. La **búsqueda de los restos duró varios días** y fue seguida de cerca por medios internacionales, debido a la complejidad de la operación y el impacto global de la tragedia.
-
-La audiencia sobre el caso se está llevando a cabo en **North Charleston, Carolina del Sur,** y se prolongará hasta el 27 de septiembre. En ella se están presentando pruebas y testimonios que buscan esclarecer los detalles del accidente.
-
-La **[Junta de Investigación Marítima](https://es.wikipedia.org/wiki/Laboratorio_de_Investigaci%C3%B3n_Naval_de_Estados_Unidos "https://es.wikipedia.org/wiki/Laboratorio_de_Investigaci%C3%B3n_Naval_de_Estados_Unidos")** confirmó que los restos hallados el 22 de junio de 2023 por un vehículo controlado a distancia aportaron pruebas concluyentes de una **implosión catastrófica** causada por la inmensa presión en las **profundidades del océano**.
-
-Últimos momentos y antecedentes del sumergible
+Plan operativo de la Policía durante el apagón
 ----------------------------------------------
 
-Antes del accidente, el Titán envió un último mensaje a su nave nodriza. El mensaje decía **“Dropped two wts”**, refiriéndose a los pesos que el sumergible podía soltar para **intentar volver a la superficie**. Seis segundos después, el contacto se perdió definitivamente, según revelaron los investigadores durante la audiencia.
+La Policía Nacional aseguró que, durante el apagón nacional, se reforzarán los trabajos con el objetivo de cuidar a la ciudadanía.
 
-A partir de ahí, se **lanzó una misión internacional de búsqueda en aguas remotas** al sureste de Terranova, Canadá.
+La institución explicó que se ejecutarán **estrategias diferenciadas** en todo el territorio nacional, con un énfasis en las provincias con **toque de queda**.
 
-![](https://www.elcomercio.com/wp-content/uploads/2024/09/ocean-gate-1024x683.png)
+Estas son: Guayas, Los Ríos, Manabí, Orellana, Santa Elena, El Oro, y el cantón Camilo Ponce Enríquez de la provincia de Azuay.
 
-Esta imagen, extraída de un video compartido por la Guardia Costera de Estados Unidos, muestra al sumergible Titan después de su implosión. Foto: Servicios de Investigación Pelágica/Guardia Costera de EE.UU.
+De forma general, el plan operativo para este miércoles y jueves incluye la participación de alrededor de **46 000 efectivos**, a través de cuatro puntos:
 
-Además, se ha revelado que el sumergible había presentado múltiples problemas en expediciones anteriores. En 2021, se registraron **70 incidentes con el equipo**, y en 2022, otros 48, incluidos problemas con las baterías.
+1. Coordinación interministerial y estatal
+2. Coordinación con el Bloque de Seguridad que incluye a la Policía y las Fuerzas Armadas
+3. Articulación policial de sus áreas: preventiva, investigativa e inteligencia
+4. Operaciones: esto incluye patrullajes en territorio y zonas vulnerables, mayor presencia uniformada, y el control del toque de queda.
 
-También se descubrió que el Titán estuvo almacenado en condiciones inadecuadas, sin protección contra las bajas temperaturas, lo que pudo haber **comprometido su estructura**. No se encontraron documentos que indiquen que el sumergible fue sometido a pruebas de presión según las normas de la industria.
+Operativos de seguridad en Quito
+--------------------------------
 
-Antonio Valencia transfiere a uno de sus jugadores a Serbia
-===========================================================
+En Quito, al igual que en el resto del país, los patrullajes se intensificarán en sitios de riesgo, como entidades bancarias, zonas residenciales o cárceles.
 
-El club de Antonio Valencia, AV25, comienza a dar frutos con su primera transferencia al fútbol europeo.
---------------------------------------------------------------------------------------------------------
+Los recorridos policiales incluirán una patrulla y cuatro motocicletas. Se pondrá énfasis en los distritos Eloy Alfaro, Quitumbe y La Delicia.
 
-![Antonio Valencia transfirió el primer jugador del AV25 al fútbol de Europa.](https://www.elcomercio.com/wp-content/uploads/2024/09/ENDRICK-PALMEIRAS-2024-09-17T102608.657.jpg)
+En la capital se establecerán **ocho puntos de vigilancia**, que estarán distribuidos en los ejes de ingreso a la ciudad.
 
-**Antonio** **Valencia** sorprendió a sus seguidores recientemente al compartir en sus redes sociales que estaba en **Serbia**, donde fue invitado de honor a un partido del FK Jedinstvo Ub.
+Billie Eilish y Finneas O’Connell anuncian que votarán a favor de Kamala Harris
+===============================================================================
 
-El misterio en torno a dicho viaje se resolvió el martes 17 de septiembre, cuando el **‘Toño’ Valencia anunció una gran noticia:** la primera transferencia de uno de sus jugadores al fútbol europeo.
+Billie Eilish y Finneas apoyan a Kamala Harris en las elecciones de EE.UU., uniéndose a más celebridades en su respaldo público.
+--------------------------------------------------------------------------------------------------------------------------------
 
-### Más noticias:
+![Fotografía de archivo fechada el 10 de marzo de 2024 de la cantante Billie Elish y su hermano Finneas O'Connell posando en la galas de los Óscar 2024 en Los Ángeles.](https://www.elcomercio.com/wp-content/uploads/2024/09/billie-kamala.png)
 
-* [Anderson, excompañero de Antonio Valencia, fue condenado a prisión](https://www.elcomercio.com/deportes/futbol/anderson-excompanero-de-antonio-valencia-fue-condenado-a-prision.html "Anderson, excompañero de Antonio Valencia, fue condenado a prisión")
-* [Jefferson Montero deja el ‘retiro’ y refuerza a AV25](https://www.elcomercio.com/deportes/futbol/jefferson-montero-av25-copa-ecuador.html "Jefferson Montero deja el ‘retiro’ y refuerza a AV25")
-* [Antonio Valencia felicitó a la Selección de Ecuador por la victoria](https://www.elcomercio.com/deportes/futbol/antonio-valencia-felicito-a-la-seleccion-de-ecuador-por-la-victoria.html "Antonio Valencia felicitó a la Selección de Ecuador por la victoria")
-
-Uno de los miembros del AV25, equipo del cual Valencia es dueño y también dirige, fue **transferido al FK Jedinstvo Ub** de Serbia. AV25 milita en la Segunda Categoría del fútbol ecuatoriano.
-
-Antonio Valencia transfiere un jugador a Serbia
------------------------------------------------
-
-“Todos los que formamos parte de la familia AV25 estamos muy contentos por haber logrado la primera transferencia de un jugador a Europa. Tenemos que seguir trabajando”, publicó el ‘Tren Amazónico’ en sus redes sociales.
-
-Valencia destacó la importancia de esta transferencia, ya que es un claro indicativo de que su proyecto, el AV25, que inició hace apenas tres años, está en el camino correcto.
-
-El jugador transferido es **Joe Arana, delantero ecuatoriano**, quien ahora jugará en el FK Jedinstvo Ub de Serbia, tras un gran paso por el equipo de Antonio Valencia.
-
-> Todos lo que hacemos la familia [@AV25ClubDep](https://twitter.com/AV25ClubDep?ref_src=twsrc%5Etfw) estamos muy contentos por sacar el primer jugador a Europa, tenemos que seguir trabajando. Después de tres años de duro trabajo se está viendo los resultados, ahora más que nunca hay que seguir trabajando con más humildad y esfuerzo,… [pic.twitter.com/LP6b6Qn4I0](https://t.co/LP6b6Qn4I0)
-> 
-> — Antonio Valencia (@anto\_v25) [September 17, 2024](https://twitter.com/anto_v25/status/1836024134859649462?ref_src=twsrc%5Etfw)
-
-Valencia, invitado de lujo en Serbia
-------------------------------------
-
-El **FK Jedinstvo Ub** sorprendió al anunciar el pasado 15 de septiembre que Antonio Valencia sería un invitado especial para el partido contra Radnicki.
-
-Previo al encuentro, el ecuatoriano **recibió un reconocimiento especial** y compartió unas palabras sobre el fútbol serbio.
-
-“**Me gusta el fútbol serbio**, me gustan los futbolistas serbios. Aquí se juega con fuerza y dedicación. Es muy agradable, son buenos jugadores y la gente es fantástica”, afirmó Valencia.
-
-De igual forma, Antonio recordó a uno de sus compañeros en el Manchester United, **Nemanja Matic**, de ascendencia serbia, con quien compartió cancha durante algunos años.
-
-“Me gusta Serbia, su gente. Nemanja y yo jugamos juntos en el Manchester United, y ahí fue donde nos unimos. Fue entonces cuando **desarrollé simpatía por Serbia y su pueblo**“, reveló el exjugador de la Selección de Ecuador.
-
-> Gracias por el recibimeinto @fkjedinstvo\_ub [@nemanjamatic](https://twitter.com/NemanjaMatic?ref_src=twsrc%5Etfw) 🇪🇨 🇷🇸⚽️⚽️ [pic.twitter.com/aYqKJtGhZH](https://t.co/aYqKJtGhZH)
-> 
-> — Antonio Valencia (@anto\_v25) [September 16, 2024](https://twitter.com/anto_v25/status/1835784125409837383?ref_src=twsrc%5Etfw)
-
-Pezeshkian afirma que EE.UU. debe probar sus buenas intenciones para negociar 
-==============================================================================
-
-Pezeshkian afirmó, además, que su país no busca un arma nuclear.
-----------------------------------------------------------------
-
-![El reformista Masud Pezeshkian en una fotografía de archivo.](https://www.elcomercio.com/wp-content/uploads/2024/09/Mazud-iran-efe.jpg)
-
-El presidente de Irán, [Masud Pezeshkian](https://www.elcomercio.com/actualidad/mundo/quien-es-masud-pezeshkian-nuevo-presidente-de-iran-y-quien-brinda-amistad-a-todos.html "https://www.elcomercio.com/actualidad/mundo/quien-es-masud-pezeshkian-nuevo-presidente-de-iran-y-quien-brinda-amistad-a-todos.html"), afirmó que Estados Unidos debe “demostrar sus buenas intenciones” para una posible mejora de las **relaciones entre los dos país** y aseguró que Irán no busca “pelea”.
+La cantante **Billie Eilish y su hermano, Finneas O’Connell**, anunciaron este martes que votarán por la vicepresidenta y candidata **demócrata Kamala Harris** en las elecciones presidenciales de Estados Unidos.
 
 ### Más noticias
 
-* [Irán niega que intervendrá cibernéticamente en las elecciones de EE.UU.](https://www.elcomercio.com/actualidad/mundo/iran-niega-intervendra-ciberneticamente-elecciones-ee-uu.html "https://www.elcomercio.com/actualidad/mundo/iran-niega-intervendra-ciberneticamente-elecciones-ee-uu.html")
-* [Asesinaron al líder de Hamás, Ismail Haniyeh, y esto es lo que se sabe](https://www.elcomercio.com/actualidad/mundo/asesinato-lider-hamas-ismail-haniyeh-esto-se-sabe.html "https://www.elcomercio.com/actualidad/mundo/asesinato-lider-hamas-ismail-haniyeh-esto-se-sabe.html")
-* [¿Quién es Masud Pezeshkian, nuevo presidente de Irán y quién brinda amistad a todos?](https://www.elcomercio.com/actualidad/mundo/quien-es-masud-pezeshkian-nuevo-presidente-de-iran-y-quien-brinda-amistad-a-todos.html "https://www.elcomercio.com/actualidad/mundo/quien-es-masud-pezeshkian-nuevo-presidente-de-iran-y-quien-brinda-amistad-a-todos.html")
+* [Jefa de la campaña de Kamala Harris advierte sobre la retórica de Donald Trump](https://www.elcomercio.com/actualidad/mundo/jefa-campana-harris-advierte-retorica-de-trump.html "Jefa de la campaña de Kamala Harris advierte sobre la retórica de Donald Trump ")
+* [Taylor Swift decidió si votar por Kamala Harris o Donald Trump](https://www.elcomercio.com/actualidad/mundo/taylor-swift-voto-kamala-harris-o-donald-trump.html "Taylor Swift decidió si votar por Kamala Harris o Donald Trump")
 
-“**Estados Unidos** debe demostrar sus **buenas intenciones primero**”, dijo Pezeshkian en su primera rueda de prensa desde que tomó posesión de la presidencia el 31 de julio.
+“**Votamos por Kamala Harris y Tim Walz** porque están luchando para proteger nuestra libertad reproductiva, nuestro planeta y nuestra democracia”, dijo Eilish en un video compartido en su cuenta de Instagram.
 
-Esa fue su respuesta a la pregunta de un periodista acerca de si **Irán estaría abierta** a negociar directamente con Estados Unidos para revivir el acuerdo nuclear de 2015.
+> [Ver esta publicación en Instagram](https://www.instagram.com/reel/DABi7rnv0EV/?utm_source=ig_embed&utm_campaign=loading)
+> 
+> [Una publicación compartida por BILLIE EILISH (@billieeilish)](https://www.instagram.com/reel/DABi7rnv0EV/?utm_source=ig_embed&utm_campaign=loading)
 
-El mandatario reformista afirmó que Washington “**ha cerrado todas las opciones**” por lo que deben mostrar que no tiene “hostilidad” contra Teherán.
+O’Connell añadió: “**No podemos permitir que los extremistas controlen nuestras vidas**, nuestras libertades y nuestro futuro. La única forma de detenerlos y de frenar la peligrosa agenda del ‘**Proyecto 2025′ es votar y elegir a Kamala Harris**“.
 
-“Nosotros no construimos **bases militares cerca de EE.UU**., ellos lo hicieron. Nosotros no les hemos amenazado, ellos lo han hecho”, aseguró el político.
+Un respaldo que se suma a otras figuras del mundo del espectáculo
+-----------------------------------------------------------------
 
-“Si EE.UU. quiere respetar nuestros derechos, nosotros no tenemos un problema con ellos”, añadió.
+Los hermanos, **ganadores de 19 premios Grammy**, se suman a una lista creciente de celebridades que han manifestado públicamente **su apoyo a la vicepresidenta en las últimas semanas**. Hicieron su anuncio en el **Día Nacional del Registro de Votantes**, con el objetivo de motivar a sus seguidores a registrarse y votar el 5 de noviembre.
 
-Pezeshkian afirmó, además, que su **país no busca un arma nuclear,** pero insistió en que no permanecerá en silencio si es amenazado.
+Eilish ya había respaldado al presidente **Joe Biden en 2020**, cuando habló y actuó en la Convención Nacional Demócrata. Este nuevo apoyo llega una semana después de que **Taylor Swift**, una de las figuras más influyentes de la música, también expresó su **respaldo público a Harris**.
 
-Irán firmó en 2015 un acuerdo nuclear para limitar sus **actividades atómicas** a cambio del levantamiento de las sanciones con seis grandes potencias, incluyendo Estados Unidos.
+Swift lo hizo justo después del debate presidencial del 10 de septiembre entre la candidata demócrata y su rival, el expresidente republicano **Donald Trump**.
 
-EE.UU. salió del acuerdo de manera unilateral en 2018 y, desde entonces, Irán ha aumentado de manera considerable su programa nuclear, sin que haya sido posible llegar a otro pacto.
+El día posterior al anuncio de Swift, la web [www.vote.org](http://www.vote.org/), que ella incluyó en su publicación de Instagram, registró 337.826 visitas, según un portavoz de la Administración de Servicios del Gobierno de Estados Unidos en declaraciones a **The Hollywood Reporter**.
 
-Suministro de misiles a Rusia y Yemen
--------------------------------------
+Cortes de luz afectarán las redes de telefonía móvil e Internet de esta manera
+==============================================================================
 
-Pezeshkian, por otro lado, aseguró que **Irán no ha suministrado misiles a Rusia** desde que tomó posesión del cargo a finales de julio, aunque dijo que era posible que hubiera ocurrido con anterioridad.
+Las operadoras de telecomunicaciones en Ecuador enfrentan intermitencias en sus servicios debido a cortes de energía eléctrica, aunque han implementado fuentes alternas para mantener la conectividad.
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Varios países occidentales han acusado a Teherán de entregar misiles a Rusia para su uso en Ucrania, lo que ha llevado a la imposición de nuevas sanciones contra el país persa y un nuevo aumento de la tensión.
+![El servicio de internet tendrá intermitencias durante los cortes de luz. Foto: Pexels](https://www.elcomercio.com/wp-content/uploads/2024/09/internet.jpg)
 
-También negó que su país haya entregado misiles hipersónicos al Yemen, un día después de que el grupo reivindicase un ataque contra el centro de Israel con un arma de ese tipo.
+La Asociación de Empresas de Telecomunicaciones (**Asetel** – Ecuador) dio detalles de cómo trabajarán las **operadoras telefónicas** durante los **cortes de luz** de ocho horas, programados entre el 19 y 26 de septiembre de 2024.
 
-**“No tenemos misiles** de ese tipo para suministrar a Yemen”, añadió Pezeshkian, a pesar de que el año pasado Teherán presentó un misil hipersónico. 
+### Más noticias
 
-Dominique Pelicot, acusado de violar a su esposa por 10 años en Francia, habló en el juzgado
-============================================================================================
+* [Estos son los servicios públicos que atenderán con normalidad, pese al teletrabajo y cortes de luz](https://www.elcomercio.com/actualidad/ecuador/servicios-publicos-atenderan-normalidad-garantizados-pese-teletrabajo-cortes-luz.html "Estos son los servicios públicos que atenderán con normalidad, pese al teletrabajo y cortes de luz")
+* [Metro de Quito ajustará su horario ante los cortes de luz este miércoles 18 de septiembre](https://www.elcomercio.com/actualidad/quito/metro-de-quito-ajusta-horario-cortes-de-luz-miercoles-18-septiembre.html "Metro de Quito ajustará su horario ante los cortes de luz este miércoles 18 de septiembre")
+* [Recomendaciones para aplicar en los apagones y cortes de luz en Ecuador](https://www.elcomercio.com/actualidad/ecuador/recomendaciones-apagones-ecuador.html "Recomendaciones para aplicar en los apagones y cortes de luz en Ecuador")
 
-De acuerdo con los instructores, Gisèle Pelicot, que tiene ahora 71 años, fue violada decenas de veces entre 2011 y 2020 por decenas de hombres.
-------------------------------------------------------------------------------------------------------------------------------------------------
+Durante los apagones habrá interrupciones e intermitencias en los servicios de telefonía móvil e Internet, señaló la **Asetel**. La razón principal es que la electricidad es vital para el funcionamiento de las redes de telecomunicaciones.
 
-![Béatrice Zavarro, abogada de Dominique Pelicot, acusado de haber drogado durante casi diez años a su mujer para violarla y que lo hicieran decenas de hombres.](https://www.elcomercio.com/wp-content/uploads/2024/09/Violo-a-su-esposa-por-10-anos.jpg)
+En un comunicado señaló este 17 de septiembre de 2024 que, “las redes de telecomunicaciones fijas y móviles son necesarias para mantener la comunicación y desarrollo del país. Sin embargo, debido a las suspensiones de la energía eléctrica, los servicios que se soportan en dichas redes podrían presentar intermitencias”.
 
-**Dominique Pelicot** explicó este martes 17 de septiembre en el proceso de **Aviñón** en el que está acusado de haber **drogado** durante casi diez años a su mujer para **violarla** y que lo hicieran decenas de hombres, habló en el juzgado.
+> Estamos comprometidos con la continuidad en la prestación de servicios de telecomunicaciones en el país, a pesar de los retos que presentan las suspensiones del servicio de energía pública.  
+>   
+> Mantente informado a través de nuestros canales oficiales. [pic.twitter.com/4qlAiwLSUq](https://t.co/4qlAiwLSUq)
+> 
+> — Asetel (@AsetelEcuador) [September 17, 2024](https://twitter.com/AsetelEcuador/status/1836171207776813288?ref_src=twsrc%5Etfw)
+
+Además, agregó que las operadoras han desplegado el mayor contingente para mantener la continuidad de la prestación de los servicios. Principalmente, a través de fuentes de energía alterna, baterías, generadores, entre otros. Estos equipos suministran energía por un determinado periodo de tiempo de entre dos y tres horas de acuerdo con la demanda de tráfico existente.
+
+“Sin embargo, al ser suspensiones del servicio de energía eléctrica prolongadas y recurrentes, este periodo de respaldo que permite brindar el servicio disminuye, debido al corto tiempo que se dispone para una nueva recarga total de su capacidad”.
+
+El sector de telecomunicaciones se suma a las iniciativas de autoabastecimiento privado y medidas de ahorro de energía. “Agradecemos su comprensión ante estos eventos de fuerza mayor que tienen un impacto directo en la prestación de los servicios públicos de telecomunicaciones y ratificamos  
+nuestro compromiso con la conectividad del Ecuador”, finalizó.
+
+Apagones bajarán la capacidad productiva a dos tercios ¿A cuánto ascienden las pérdidas?
+========================================================================================
+
+Cámaras de Industrias, Producción y Empleo y Comercio de Quito cuantificaron el impacto del corte de luz
+--------------------------------------------------------------------------------------------------------
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/09/Diseno-sin-titulo_20240917_175022_0000.jpg)
+
+La mayoría de industrias en Ecuador operan con tres turnos de trabajo. Esto significa que la eliminación del turno de madrugada, como resultado de los apagones, reducirá su capacidad productiva a dos tercios.
 
 Más noticias
 ------------
 
-* [Mujer francesa a la que su marido drogaba para que otros la violaran se pronunció](https://www.elcomercio.com/actualidad/mundo/mujer-francesa-marido-drogaba-para-violaran-pronuncio.html "Mujer francesa a la que su marido drogaba para que otros la violaran se pronunció")
-* [Hija y nuera de mujer francesa sospechan que también fueron abusadas](https://www.elcomercio.com/actualidad/mundo/hija-nuera-mujer-francesa-sospechan-fueron-objeto-abusos.html "Hija y nuera de mujer francesa sospechan que también fueron abusadas")
-* [En Francia un hombre drogaba a su esposa para que otros la violaran](https://www.elcomercio.com/actualidad/mundo/hombre-drogaba-esposa-otros-violaran.html "En Francia un hombre drogaba a su esposa para que otros la violaran")
+* [Estos son los servicios públicos que atenderán con normalidad, pese al teletrabajo y cortes de luz](https://www.elcomercio.com/actualidad/ecuador/servicios-publicos-atenderan-normalidad-garantizados-pese-teletrabajo-cortes-luz.html "Estos son los servicios públicos que atenderán con normalidad, pese al teletrabajo y cortes de luz")
+* [Ecovía y Trolebús modificarán sus horarios por cortes de luz](https://www.elcomercio.com/actualidad/quito/ecovia-trolebus-modificaran-horarios-por-cortes-de-luz.html "Ecovía y Trolebús modificarán sus horarios por cortes de luz")
 
-**Pelicot**, que reconoció ser plenamente responsable de los delitos por los que está encausado, se mostró avergonzado por su comportamiento en la vista, en presencia de **Gisèle Pelicot**, la que ha sido su mujer durante medio siglo, y de la que se divorció en agosto. “Lo he arruinado todo y lo he perdido todo. Tengo que pagar”.
+Esto generará una pérdida considerable y afectará los niveles de producción y la competitividad del país.
 
-Dominique Pelicot dijo lo siguiente en el juzgado
+Este es el tercer periodo de apagones que Ecuador enfrentará en menos de un año. Los cortes de fines de 2023 y de abril de 2024 fueron los últimos.
+
+A diferencia de los racionamientos anteriores, que se realizaron durante el día y en horarios segmentados por zonas, esta vez afectarán simultáneamente a todo el país durante la noche. Esto representa un nuevo desafío logístico para las empresas.
+
+Andrés Robalino, director ejecutivo de la Cámara de Industrias, Producción y Empleo [(Cipem)](https://cipem.org.ec/ "https://cipem.org.ec/"), advierte que estos apagones no solo afectarán las ventas. También tendría un potencial impacto la recaudación tributaria, es decir, menos ingresos para las arcas fiscales.
+
+La proyección de crecimiento económico del 1%, estimada por el Banco Central, podría transformarse en un decrecimiento debido a la crisis eléctrica, enfatiza Robalino.
+
+1,1 millones de dólares de pérdidas por hora
+--------------------------------------------
+
+El impacto económico de los apagones nocturnos se estima entre 970 mil y 1,1 millones de dólares por hora. Esta es una cifra que refleja la magnitud del problema.
+
+En ciudades como Cuenca, donde el sector industrial es particularmente fuerte, las consecuencias son especialmente severas.
+
+Si bien algunas empresas pueden recurrir a generadores como medida paliativa, su uso es complicado. Esta dificultad se ve en industrias que demandan altos niveles de calor o aquellas relacionadas con la alimentación, que dependen de cuartos fríos.
+
+**El impacto del apagón en el comercio**
+
+El sector comercial también sufrirá grandes pérdidas. La Cámara de Comercio de Quito (CCQ) estima que el 30% de las ventas diarias de restaurantes se verá afectado por los cortes de energía. Esto podría traducirse en una pérdida de hasta 1,8 millones de dólares al día.
+
+Diego Vivero, de la Confederación de Restaurantes del Ecuador, ha expresado que aunque el gremio asume esta crisis con responsabilidad, es inaceptable que el toque de queda se aplique de manera indiscriminada. Esto afecta al libre trabajo como a la movilidad de las personas.
+
+El toque de queda se aplicará en seis provincias y un cantón en los que se declaró estado de excepción, por parte del Gobierno.
+
+Además, señala que el teletrabajo ha tenido un impacto negativo en la dinámica urbana, ya que reduce significativamente la clientela de los restaurantes, sin que esto disminuya el consumo energético en los hogares.
+
+El sector de entretenimiento y recreación también será golpeado, con pérdidas estimadas en 1,7 millones de dólares diarios, según la CCQ.
+
+La afectación económica diaria combinada en los sectores comerciales y recreativos se calcula en 3,5 millones de dólares a nivel nacional, exacerbada por el toque de queda impuesto en varias provincias.
+
+Una encuesta reciente de la Cámara de Comercio de Quito reveló que 25% de negocios cree que sus ventas se verán reducidas en más del 50% por los apagones. Esto evidencia la magnitud del impacto que esta crisis energética tendrá en la economía nacional.
+
+Militares vigilarán el correcto funcionamiento de las hidroeléctricas
+=====================================================================
+
+Los militares se capacitan para cumplir con disposición presidencial sobre hidroeléctricas.
+-------------------------------------------------------------------------------------------
+
+![Militares se capacitan en dos hidroeléctricas.](https://www.elcomercio.com/wp-content/uploads/2024/09/Diseno-sin-titulo-16.jpg)
+
+Los militares vigilarán el correcto funcionamiento de las hidroeléctricas en el país.
+
+Los ministerios de Defensa y Energía, además del Comando Conjunto de las Fuerzas Armadas coordinan acciones.
+
+### Más noticias:
+
+* [Daniel Noboa ordena reforzar seguridad de las hidroeléctricas](https://www.elcomercio.com/actualidad/politica/daniel-noboa-ordena-reforzar-seguridad-hidroelectricas.html "Daniel Noboa ordena reforzar seguridad de las hidroeléctricas")
+* [Propuesta de Daniel Noboa sobre bases militares extranjeras debe seguir varios pasos](https://www.elcomercio.com/actualidad/politica/propuesta-daniel-noboa-bases-militares-extranjeras.html "Propuesta de Daniel Noboa sobre bases militares extranjeras debe seguir varios pasos")
+
+El 09 de septiembre, el presidente Daniel Noboa dispuso la creación de un Bloque de Seguridad, para impedir los cortes de luz.
+
+Este bloque está compuesto por las Fuerzas Armadas y la Policía Nacional para reforzar la seguridad en las principales plantas hidroeléctricas del país, con el fin de evitar los cortes de luz.
+
+Se ordenó un proceso de capacitación entre las fuerzas del orden y el Ministerio de Energía y Minas para implementar medidas de protección en el sector eléctrico.
+
+Esto incluye la operación segura de las plantas hidroeléctricas del país.
+
+El Gobierno también advirtió sobre posibles sabotajes en el sector energético.
+
+Militares vigilarán el correcto funcionamiento de las hidroeléctricas
+---------------------------------------------------------------------
+
+Las zonas estratégicas serán reforzadas y resguardadas por personal especializado, para esto cincuenta militares de alto nivel son capacitados.
+
+En las instalaciones de la Hidroeléctrica Mazar, se inauguraron las jornadas de entrenamiento sobre la operación de los sistemas hidroeléctricos.
+
+Los participantes son militares de las tres ramas de las Fuerzas Armadas con conocimientos en electricidad, mecánica, electrónica, termodinámica, entre otras ingenierías afines.
+
+Los entrenamientos, que durarán 21 días, permitirán que el personal militar se instruya en la operación de las unidades de generación eléctrica para fortalecer las capacidades en esta zona estratégica.
+
+Además, “poner en práctica sus conocimientos, vigilarán y resguardarán estos espacios para garantizar  
+que se cumpla el procedimiento correspondiente”, señalaron las entidades en un comunicado conjunto.
+
+La capacitación será dentro de la Hidroeléctrica Mazar, ubicada entre las provincias del Azuay y Cañar; y de la Hidroeléctrica Coca Codo Sinclair, ubicada entre las provincias de Napo y Sucumbíos.
+
+El evento de inauguración contó con la presencia del ministro de Energía y Minas, Antonio Goncalves; Manuel Dávila, comandante de la Tercera División del Ejército.
+
+También, Fabián Calero, gerente de la Corporación Eléctrica del Ecuador, CELEC EP y otras autoridades del sector energético.  
+
+El Kremlin tacha de ‘inaceptable’ prohibición de medios en plataformas de Meta
+==============================================================================
+
+Meta anunció que prohibió "después de una cuidadosa consideración" la presencia del canal televisivo de noticias RT.
+--------------------------------------------------------------------------------------------------------------------
+
+!["Meta se desacredita a sí misma. Tales acciones selectivas contra medios de comunicación rusos son inaceptables", afirmó el portavoz presidencial, Dmitri Peskov.](https://www.elcomercio.com/wp-content/uploads/2024/09/meta-wikipedia.jpg)
+
+El [Kremlin](https://www.elcomercio.com/actualidad/mundo/vladimir-putin-quinto-mandato-rusia.html "https://www.elcomercio.com/actualidad/mundo/vladimir-putin-quinto-mandato-rusia.html") tachó este martes 17 de septiembre de 2024 de “inaceptable” la **prohibición** de la cadena de televisión RT y otros **medios estatales rusos** en las plataformas de Meta, propietaria de Facebook, Instagram y Whatsapp.
+
+### Más noticias
+
+* [Vladímir Putin reconoce  el atentado terrorista contra la escuela de Beslán](https://www.elcomercio.com/actualidad/mundo/vladimir-putin-reconoce-atentado-terrorista-contra-escuela-beslan.html "Vladímir Putin reconoce  el atentado terrorista contra la escuela de Beslán")
+* [México no detendrá a Vladímir Putin si acude a la investidura de Claudia Sheinbaum](https://www.elcomercio.com/actualidad/mundo/mexico-detendra-vladimir-putin-acude-investidura-sheinbaum.html "México no detendrá a Vladímir Putin si acude a la investidura de Claudia Sheinbaum")
+
+“Meta se desacredita a sí misma. Tales acciones selectivas contra medios de comunicación rusos son inaceptables”, afirmó el portavoz presidencial, Dmitri Peskov, en su rueda de prensa telefónica diaria.
+
+Agregó que Meta con sus acciones “**complica las perspectivas de normalización** de relaciones” con las autoridades rusas, que ya bloquearon el acceso a Facebook e Instagram en este país tras el inicio de la guerra en Ucrania.
+
+Meta anunció previamente que prohibió “después de una cuidadosa consideración” la presencia del canal televisivo de noticias RT y otros **medios estatales rusos** en sus plataformas por operaciones de injerencia en otros países.
+
+“Rossiya Segodnya, RT y otras entidades relacionadas ahora están prohibidas en nuestras aplicaciones a nivel mundial por actividad de interferencia extranjera”, dijo un portavoz de Meta en un comunicado.
+
+La decisión de Meta llega días después de que el Gobierno de Estados Unidos anunciara sanciones contra RT y otros medios controlados por Moscú.
+
+El Departamento de Justicia de Estados Unidos anunció recientemente que había acusado a dos empleados de RT por canalizar casi 10 millones de dólares a una empresa estadounidense para crear y amplificar contenido alineado con los intereses rusos en medio de la campaña para las elecciones presidenciales estadounidenses del 5 de noviembre.
+
+Instagram lanza cuenta para adolescentes 
+=========================================
+
+Instagram lanza una nueva plataforma exclusiva para adolescentes con el fin de priorizar la seguridad.
+------------------------------------------------------------------------------------------------------
+
+![La nueva Cuenta de Adolescente de Instagram ofrecerá mayor privacidad para usuarios menores. Foto: Freepik.](https://www.elcomercio.com/wp-content/uploads/2024/09/instagram.adolescentes.jpg)
+
+**Instagram presentó este martes** 17 de septiembre de 2024 su **Cuenta de Adolescente**, una opción que brinda **mayor privacidad y restricciones controladas** por los padres en comparación con los perfiles de adultos. Solo los usuarios mayores de 16 años pueden modificar algunas de estas configuraciones. 
+
+### Más noticias
+
+* [Evita colocar imanes en la refrigeradora por estas razones](https://www.elcomercio.com/tendencias/tecnologia/refrigeradora-imanes-electrodomestico-cuidado.html "https://www.elcomercio.com/tendencias/tecnologia/refrigeradora-imanes-electrodomestico-cuidado.html") 
+* [Tutorial para activar el modo Beetlejuice en WhatsApp](https://www.elcomercio.com/tendencias/tecnologia/modo-beetlejuice-whatsapp-tecnologia.html "https://www.elcomercio.com/tendencias/tecnologia/modo-beetlejuice-whatsapp-tecnologia.html")
+
+**Cuenta de Adolescente para mayor seguridad y control parental** 
+------------------------------------------------------------------
+
+Esta **Cuenta de Adolescente estará** **disponible desde el 17 de septiembre de 2024** en Reino Unido, Estados Unidos, Canadá y Australia. Se implementará en la **Unión Europea** a finales de año y a **nivel mundial** a partir de enero de 2025, ofrece una experiencia más privada para los usuarios de 13 a 17 años. **Los perfiles serán privados por defecto**, con mayores garantías sobre quién puede contactarlos y qué contenidos pueden ver, según informa [Emol](https://www.emol.com/noticias/Tendencias/2024/09/17/1143068/meta-cuenta-adolescentes-instagram.html "https://www.emol.com/noticias/Tendencias/2024/09/17/1143068/meta-cuenta-adolescentes-instagram.html"). 
+
+Además, **los padres podrán supervisar las actividades de sus hijos en Instagram y tomar medidas como bloquear la aplicación** si lo consideran necesario. Esta medida de **Meta** busca brindar una **experiencia más segura para los adolescentes**, con opciones de configuración limitadas a los mayores de 16 años. 
+
+**Instagram refuerza la seguridad** 
+------------------------------------
+
+Instagram, siguiendo con Emol, ha implementado importantes restricciones en su nueva **Cuenta de Adolescente** para proteger a los usuarios jóvenes. **Los adolescentes deberán aceptar a nuevos seguidores, y las personas que no los siguen no podrán ver ni interactuar con su contenido**. Asimismo, **la configuración de mensajería será más estricta**: solo podrán recibir mensajes de personas a las que siguen o con las que ya están conectados. También **se limitará la exposición a contenido delicado**, como el relacionado con cirugías estéticas, en secciones como “Explorar” o “Reels”. 
+
+**Los padres tendrán un control detallado sobre el uso de la aplicación por parte de sus hijos**. Podrán **monitorear el tiempo de us**o, con notificaciones que alertan a los adolescentes si superan los 60 minutos diarios, y el acceso estará restringido entre las 10:00 pm y las 7:00 am.  
+
+**Aunque los padres no podrán leer los mensajes,** sí podrán ver **con quiénes han interactuado** y conocer los temas de interés del menor. **Los adolescentes menores de 16 años que deseen tener un perfil público y menos restricciones deberán obtener el permiso de sus padres**, incluso si ya están registrados en la plataforma. Meta destaca que estos cambios son fundamentales para asegurar una experiencia más segura y adecuada para los jóvenes usuarios. 
+
+**Imágenes e inteligencia artificial para verificar la edad** 
+--------------------------------------------------------------
+
+Adicional, **Instagram desarrolla nuevas herramientas para verificar la edad de sus usuarios adolescentes**, según **Antigone Davis**, directora global de seguridad de Meta, citada por [El Mercurio](https://elmercurio.com.ec/2024/09/17/instagram-lanza-cuesta-adolescente-rapida-privada/#google_vignette "https://elmercurio.com.ec/2024/09/17/instagram-lanza-cuesta-adolescente-rapida-privada/#google_vignette"). Entre las novedades, **los adolescentes podrán certificar su edad mediante una foto o video que muestre un documento de identidad**, o mediante la validación por parte de otros usuarios. 
+
+**La plataforma utilizará inteligencia artificial (IA) para identificar señales que sugieran que un usuario podría ser menor de 18 años**. Por ejemplo, si un usuario afirma tener 18 años pero recibe mensajes que indican una edad menor, como un “Feliz 14 cumpleaños”, Instagram podrá detectar estas incongruencias. Estas medidas buscan mejorar la seguridad y la precisión en la verificación de edad dentro de la red social. 
+
+Carlos Garces en el XI ideal de la fecha 10 del fútbol peruano
+==============================================================
+
+Carlos Garcés llegó al Cienciano en el 2023 y ya lleva marcados 31 goles. Es el goleador del club desde ese momento.
+--------------------------------------------------------------------------------------------------------------------
+
+![Carlos Garcés es el goleador del Cienciano en la temporada 2024.](https://www.elcomercio.com/wp-content/uploads/2024/09/garces_ideal_1.jpg)
+
+**Carlos Garces** brilló con luz propia en la fecha 10 del Torneo Clausura de Perú y mantiene al Cienciano del Cusco en la parte alta de la tabla de posiciones y muy cerca de los líderes. 
+
+El partido de **Carlos Garces ante la UTC Cajamarca** fue con todas la luces: dio una asistencia para el 0-1; anotó el 1-2 para asegurar los tres puntos; y fue una de las figuras de la jornada. 
+
+### Más noticias:
+
+* [Aucas se hunde en una crisis de resultados y críticas](https://www.elcomercio.com/deportes/futbol/aucas-crisis-liga-pro-tabla.html "Aucas se hunde en una crisis de resultados y críticas")
+* [Técnico Universitario aprieta la tabla de posiciones de la Liga Pro](https://www.elcomercio.com/deportes/futbol/tabla-posiciones-fecha6-liga-pro.html "Técnico Universitario aprieta la tabla de posiciones de la Liga Pro")
+* [¿Cuándo juega el Deportivo Quito el ascenso a Serie B?](https://www.elcomercio.com/deportes/futbol/cuando-juega-el-deportivo-quito-el-ascenso-serie-b.html "¿Cuándo juega el Deportivo Quito el ascenso a Serie B?")
+
+Garcés es uno de los **goleadores de la temporada 2024 de Perú con 15 tantos**, los mismos que el argentino-peruano Bernardo Cuesta, jugador histórico del Melgar que a sus 35 años demuestra que aún está en plena vigencia. 
+
+El **uruguayo-argentino Martín Cauteruccio**, delantero de Sporting Cristal de 37 años, es el goleador del certamen con 27 tantos y tiene la ventaja para llevarse la Bota de Oro de Perú. 
+
+El colombiano **Jarlín Quintero, delantero de 31 años** que milita en la UTC Cajamarca, es el segundo máximo anotador con 16 gritos.
+
+Garcés a sus **34 años le dio un nuevo impulso a su carrera**, luego de haber tenido un 2021 y 2022 con poco gol en su paso por Barcelona Sporting Club y 9 de Octubre, en donde anotó 14 tantos en 94 presencias. 
+
+Lejos de su pasado en el 2023, **fue contratado por Cienciano y anotó 31 goles en 59 partidos** con lo que recobró su olfato goleador y es el mejor delantero ecuatoriano que juega en el exterior en el 2024. 
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/09/garces_ideal_2-1024x683.jpg)
+
+Carlos Garces y un merecido reconocimiento
+------------------------------------------
+
+“Felicitaciones a nuestro delantero, **Carlos Garces, por ser parte del XI ideal de la fecha 10** del Torneo Clausura”, fue el mensaje con el que el Cienciano sacó pecho de su goleador. 
+
+El XI tiene una estructura con pasado en el fútbol ecuatoriano con la presencia del **paraguayo Williams Riveros (Universitario)** y el argentino Lucas Colitto (Cusco) que defendieron a Delfín y Barcelona SC, el primero; y Deportivo Cuenca, el segundo. 
+
+Además, el entrenador **más destacado de la jornada fue el argentino Fabián Bustos**, actualmente en Universitario, que en el país quedó campeón de la Liga Pro con Barcelona (2020) y Delfín (2019). 
+
+Este reconocimiento **llega a pocos días que fue designado como el mejor** DT del mes de agosto.
+
+En la fecha 10, Bustos y su **Universitario golearon 0-3 a Alianza Atlético** en el Estadio Municipal “Campeones del 36” de Sullana, ciudad que queda al norte de Lima cercana a la frontera con Ecuador. 
+
+El nacional Segundo Portocarrero, otro exBSC, fue titular y se mantuvo en la cancha hasta el minuto 63. 
+
+Alienación:
+-----------
+
+Diego Enríquez (Sporting Cristal); Leonel Galeano (Melgar), **Williams Riveros (Universitario)** y Erick Noriega (Alianza Lima); **Lucas Colitto (Cusco)**, Miguel Aucca (Cusco), Horacio Calcaterra (Universitario) y Martín Pérez Guedes (Universitario); **Carlos Garces (Cienciano)**, Kenji Cabrera (Melgar) y Adrián Ugarriza (Deportivo Garcilaso). 
+
+DT: Fabián Bustos (Universitario).  
+
+![Foto: Instagram Universitario.](https://www.elcomercio.com/wp-content/uploads/2024/09/garces_ideal_3-1024x683.jpg)
+
+Foto: Instagram Universitario.
+
+No te pierdas – El Confesionario
+--------------------------------
+
+Es importante hablar del suicidio con los niños
+===============================================
+
+Abordar el suicidio abiertamente salva vidas. Aquí, te damos 9 consejos sobre cómo hacerlo con niños, adolescentes y adultos.
+-----------------------------------------------------------------------------------------------------------------------------
+
+![Hablar sobre el suicidio con niños y adolescentes es crucial para prevenir tragedias.](https://www.elcomercio.com/wp-content/uploads/2024/09/Prevencion-del-suicidio.jpg)
+
+Hablar del suicidio es un tema difícil, pero necesario para prevenirlo. Abordarlo de manera adecuada y abierta puede salvar vidas, especialmente en grupos vulnerables como los niños, adolescentes y adultos en crisis. Aquí te ofrecemos nueve sugerencias sobre cómo hablar del suicidio de manera efectiva y responsable con diferentes grupos de edad:
+
+### 1\. **Establece un ambiente de confianza**
+
+El primer paso para hablar del suicidio con cualquier persona, ya sea un niño o un adulto, es generar confianza. Crea un espacio seguro donde se sientan escuchados y comprendidos.
+
+### 2\. **Adapta el lenguaje según la edad**
+
+Utiliza un lenguaje adecuado según la edad de la persona. Con los niños, usa palabras sencillas y claros ejemplos para explicar lo que significa el suicidio, mientras que con los adolescentes y adultos puedes ser más directo y detallado.
+
+### 3\. **Haz preguntas abiertas y sin juzgar**
+
+Pregunta de manera abierta y directa si han tenido pensamientos de suicidio. Evita hacer sentir culpable a la persona. Preguntas como “¿Alguna vez has pensado en hacerte daño?” pueden abrir la puerta para una conversación sincera.
+
+### 4\. **Rompe los mitos y estigmas**
+
+Muchas personas evitan hablar del suicidio por miedo a dar ideas o incitar el acto. Sin embargo, estudios demuestran que hablar del tema puede ayudar a prevenirlo.
+
+### 5\. **Identifica señales de alerta**
+
+Reconocer signos como aislamiento, cambios de humor, expresiones de desesperanza, o hablar sobre la muerte es clave para detectar a tiempo un riesgo suicida.
+
+### 6\. **Promueve las redes de apoyo**
+
+Fomenta la importancia de contar con una red de apoyo. Asegúrate de que la persona sepa que puede contar con amigos, familiares o profesionales de la salud mental.
+
+### 7\. **Ofrece ayuda profesional**
+
+Cuando una persona revela pensamientos suicidas, es fundamental ofrecerle la opción de buscar ayuda profesional con un psicólogo o psiquiatra.
+
+### 8\. **No minimices el problema**
+
+Evita frases como “No pienses en eso” o “Tienes todo para ser feliz”. Acepta lo que sienten, valida sus emociones y ofréceles tu apoyo incondicional.
+
+### 9\. **Sigue de cerca el proceso**
+
+Después de la conversación inicial, mantente en contacto con la persona. Asegúrate de que sigue los tratamientos o busca ayuda profesional.
+
+Escucha nuestro podcast para conocer más del tema
 -------------------------------------------------
 
-Destacó que tenía “la familia ideal, pero yo no lo era” y trató de explicar sus prácticas de grabar las **violaciones** cometidas por las decenas de hombres a los que invitaba a su casa para que **abusaran** de su mujer, que estaba bajo los efectos de los **ansiolíticos**: “hay una parte de placer pero también una medida de seguro”.
+La psicóloga clínica Paola Estévez Valladares sobre la importancia de hablar abiertamente del suicidio con niños, adolescentes y adultos.
 
-Porque -añadió- “gracias” a esos archivos audiovisuales, con cientos de vídeos y fotos que la policía encontró en un disco duro se ha podido identificar “a los que participaron en todo eso”.
+Este artículo forma parte de ‘[El Cuaderno de la Salud](https://www.elcomercio.com/podcasts/cuaderno-de-la-salud.html)’ de EL COMERCIO. Si tienes consultas o sugerencias, llena el formulario a continuación. Mantente informado y cuida tu salud.
 
-Se refería así a los que se sientan con él en el banquillo, 49 hombres acusados de haber **violado** a **Gisèle Pelicot**, y otro, **Jean**–**Pierre** **Maréchal**, que copió los métodos de **Dominique Pelicot** y drogó también a su propia esposa para violarla con el que le servía de ejemplo.
+Ecuador tendrá una cifra récord de representantes en la Champions League
+========================================================================
 
-Ese comentario generó algunos murmullos en la sala entre los acusados.
+La UEFA Champions League 24/25 estrena formato y contará con varios jugadores ecuatorianos como debutantes.
+-----------------------------------------------------------------------------------------------------------
 
-Declaraciones de la abogada de Dominique Pelicot
+![Piero Hincapié será uno de los cuatro ecuatorianos que jugarán la Uefa Champions League 24/25.](https://www.elcomercio.com/wp-content/uploads/2024/09/ENDRICK-PALMEIRAS-2024-09-17T172202.366.jpg)
+
+La nueva edición de la **UEFA Champions League** arrancó este martes 17 de septiembre, con un nuevo y emocionante formato tras décadas de competiciones históricas. Sin embargo, lo más destacado no es solo el cambio en la estructura del torneo, sino la cantidad de **jugadores ecuatorianos** que participarán.
+
+Por primera vez en la historia, **cuatro futbolistas ecuatorianos** estarán presentes en la Champions League, lo que refleja el excelente momento que atraviesa el fútbol de Ecuador.
+
+### Más noticias:
+
+* [Bayern Múnich marca récord en Champions con supergoleada](https://www.elcomercio.com/deportes/futbol/bayern-munich-record-champions-dinamo-zagreb.html "Bayern Múnich marca récord en Champions con supergoleada")
+* [Liverpool supera al AC Milan en un partidazo de Champions](https://www.elcomercio.com/deportes/liverpoo-milan-partido-uefa-champions-league.html "Liverpool supera al AC Milan en un partidazo de Champions")
+* [Real Madrid ganó en su debut en Champions y Kylian Mbappé anotó](https://www.elcomercio.com/deportes/futbol/real-madrid-gano-debut-champions-league-kylian-mbappe-gol.html "Real Madrid ganó en su debut en Champions y Kylian Mbappé anotó")
+
+Estos jugadores, que ahora forman parte de importantes planteles en **Europa**, llevarán el nombre del país a lo más alto del fútbol mundial.
+
+### Ecuatorianos en la Champions League
+
+Entre los cuatro representantes ecuatorianos, tres debutarán en el torneo, mientras que uno de ellos ya cuenta con algo de experiencia en la competición.
+
+El primero es **Piero Hincapié**, quien se ha consolidado como una de las figuras del Bayer Leverkusen. Esta será su segunda participación en la Champions League, y su equipo está llamado a ser uno de los protagonistas del torneo.
+
+Le sigue **Willian Pacho**, quien fichó esta temporada con el París Saint-Germain, uno de los clubes más importantes del mundo. Para el defensor, esta será su primera experiencia en el certamen.
+
+Los otros dos ecuatorianos que completan este listado son **Ángelo Preciado** y **Joel Ordóñez**, quienes juegan en equipos de menor renombre, pero que son fundamentales en sus respectivas ligas.
+
+Preciado defenderá los colores del **Sparta Praga** de la República Checa, mientras que Ordóñez vestirá la camiseta del **Club Brujas** de Bélgica. Ambos harán su debut en la Champions League esta temporada.
+
+Calendario y rivales de los ecuatorianos
+----------------------------------------
+
+### Piero Hincapié – Bayer Leverkusen
+
+**Fecha 1:** Feyenoord (19 de septiembre / 11:45)
+
+**Fecha 2:** AC Milan (1 de octubre / 14:00)
+
+**Fecha 3:** Brest (23 de octubre / 11:45)
+
+**Fecha 4:** Liverpool (5 de noviembre / 14:00)
+
+**Fecha 5:** Salzburgo (26 de noviembre / 14:00)
+
+**Fecha 6:** Inter de Milán (10 de diciembre / 14:00)
+
+**Fecha 7:** Atlético de Madrid (21 de enero / 14:00)
+
+**Fecha 8:** Sparta Praga (29 de enero / 14:00)
+
+> ⭐️ ¡Regresamos al escenario [@LigadeCampeones](https://twitter.com/LigadeCampeones?ref_src=twsrc%5Etfw) !⭐️  
+>   
+> Estos serán nuestros rivales en la máxima competición continental. ¿Opiniones? 😉[#UCLdraw](https://twitter.com/hashtag/UCLdraw?src=hash&ref_src=twsrc%5Etfw) | [#aCROSSeurope](https://twitter.com/hashtag/aCROSSeurope?src=hash&ref_src=twsrc%5Etfw) | [#SomosBayer04](https://twitter.com/hashtag/SomosBayer04?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/gWW6LnW7Tg](https://t.co/gWW6LnW7Tg)
+> 
+> — Bayer 04 Leverkusen (@bayer04\_es) [August 29, 2024](https://twitter.com/bayer04_es/status/1829202892735295945?ref_src=twsrc%5Etfw)
+
+### Willian Pacho – París Saint-Germain
+
+**Fecha 1:** Girona (18 de septiembre / 14:00)
+
+**Fecha 2:** Arsenal (1 de octubre / 14:00)
+
+**Fecha 3:** PSV (22 de octubre / 14:00)
+
+**Fecha 4:** Atlético de Madrid (6 de noviembre / 14:00)
+
+**Fecha 5:** Bayern Múnich (26 de noviembre / 14:00)
+
+**Fecha 6:** Salzburgo (10 de diciembre / 14:00)
+
+**Fecha 7:** Manchester City (22 de enero / 14:00)
+
+**Fecha 8:** Stuttgart (29 de enero / 14:00)
+
+> 🏆 [#UCLdraw](https://twitter.com/hashtag/UCLdraw?src=hash&ref_src=twsrc%5Etfw) :  
+>   
+> 🏡🆚 [@ManCity](https://twitter.com/ManCity?ref_src=twsrc%5Etfw)  
+> ✈️🆚 [@FCBayern](https://twitter.com/FCBayern?ref_src=twsrc%5Etfw)  
+> 🏡🆚 [@Atleti](https://twitter.com/Atleti?ref_src=twsrc%5Etfw)  
+> ✈️🆚 [@Arsenal](https://twitter.com/Arsenal?ref_src=twsrc%5Etfw)  
+> 🏡🆚 [@PSV](https://twitter.com/PSV?ref_src=twsrc%5Etfw)  
+> ✈️🆚 [@RedBullSalzburg](https://twitter.com/RedBullSalzburg?ref_src=twsrc%5Etfw)  
+> 🏡🆚 [@GironaFC](https://twitter.com/GironaFC?ref_src=twsrc%5Etfw)  
+> ✈️🆚 [@VfB](https://twitter.com/VfB?ref_src=twsrc%5Etfw) [pic.twitter.com/7Sycv2dzGo](https://t.co/7Sycv2dzGo)
+> 
+> — Paris Saint-Germain (@PSG\_espanol) [August 29, 2024](https://twitter.com/PSG_espanol/status/1829200835785699336?ref_src=twsrc%5Etfw)
+
+### Ángelo Preciado – Sparta Praga 
+
+**Fecha 1:** Salzburgo (18 de septiembre / 11:45)
+
+**Fecha 2:** Stuttgart (1 de octubre / 11:45)
+
+**Fecha 3:** Manchester City (23 de octubre / 14:00)
+
+**Fecha 4:** Brest (6 de noviembre / 14:00)
+
+**Fecha 5:** Atlético de Madrid (26 de noviembre / 11:45)
+
+**Fecha 6:** Feyenoord (11 de diciembre / 14:00)
+
+**Fecha 7:** Inter de Milán (22 de enero / 14:00)
+
+**Fecha 8:** Bayer Leverkusen (29 de enero / 14:00)
+
+> 🎲 UCL DRAW | Our opponents in the league phase of the Champions League ⚔️  
+>   
+> ➡️ [https://t.co/7wqriLqL7X](https://t.co/7wqriLqL7X) [pic.twitter.com/J4QypG6aMz](https://t.co/J4QypG6aMz)
+> 
+> — AC Sparta Prague (@ACSparta\_EN) [August 29, 2024](https://twitter.com/ACSparta_EN/status/1829219564665573533?ref_src=twsrc%5Etfw)
+
+### Joel Ordóñez – Club Brujas: 
+
+**Fecha 1:** Borussia Dortmund (18 de septiembre / 14:00)
+
+**Fecha 2:** Sturm Gaz (2 de octubre / 14:00)
+
+**Fecha 3:** AC Milan (22 de octubre / 11:45)
+
+**Fecha 4:** Aston Villa (6 de noviembre / 11:45)
+
+**Fecha 5:** Celtic FC (27 de noviembre / 14:00)
+
+**Fecha 6:** Sporting Lisboa (10 de diciembre /  14:00)
+
+**Fecha 7:** Juventus (21 de enero / 14:00)
+
+**Fecha 8:** Manchester City (29 de enero / 14:00)
+
+> The UEFA Champions League draw is in, let the battles begin. ✨ First thoughts? 😍 [#UCL](https://twitter.com/hashtag/UCL?src=hash&ref_src=twsrc%5Etfw)
+> 
+> — Club Brugge KV (@ClubBrugge) [August 29, 2024](https://twitter.com/ClubBrugge/status/1829200285878964684?ref_src=twsrc%5Etfw)
+
+Ecuador tiene déficit de policías por número de habitantes
+==========================================================
+
+Policías cuentan con nuevos equipos y aún hay temas en marcha.
+--------------------------------------------------------------
+
+![Policías durante entrega de fusiles por parte del Gobierno.](https://www.elcomercio.com/wp-content/uploads/2024/09/policias-deficit.jpg)
+
+Ecuador vive una **crisis de seguridad**. Con los apagones se intensifican las tareas a la [Policía Nacional](https://www.policia.gob.ec/) y de las Fuerzas Armadas: resguardar a la población ante posibles delitos durante los racionamientos[.](https://es.wikipedia.org/wiki/Ecuador)
+
+La actualización del **manual del uso progresivo de la fuerza** está entre las medidas en torno a las actividades de las fuerzas del orden.
+
+### Más noticias
+
+* [Propuesta de Daniel Noboa sobre bases militares extranjeras debe seguir varios pasos](https://www.elcomercio.com/actualidad/politica/propuesta-daniel-noboa-bases-militares-extranjeras.html?source=Internal&ref=Latest%20News%20Widget%20-%20Front)
+* [Toque de queda en Ecuador solo será en seis provincias y un cantón](https://www.elcomercio.com/actualidad/politica/toque-de-queda-en-ecuador-solo-sera-en-cinco-provincias.html)
+* [Daniel Noboa pide control constitucional sobre bases extranjeras a la CC](https://www.elcomercio.com/actualidad/politica/daniel-noboa-pide-control-constitucional-tema-bases-extranjeras-cc.html "Daniel Noboa pide control constitucional sobre bases extranjeras a la CC")
+* [Daniel Noboa presentará proyecto para reformar la Constitución sobre bases militares extranjeras](https://www.elcomercio.com/actualidad/politica/daniel-noboa-proyecto-reformar-constitucion-bases-militares-extranjeras.html "Daniel Noboa presentará proyecto para reformar la Constitución sobre bases militares extranjeras")
+
+> [#ACLARACIÓN](https://twitter.com/hashtag/ACLARACI%C3%93N?src=hash&ref_src=twsrc%5Etfw) ||  
+> Reiteramos nuestro compromiso con la ciudadanía ante los racionamientos eléctricos en el país.  
+>   
+> Más información en el siguiente [#video](https://twitter.com/hashtag/video?src=hash&ref_src=twsrc%5Etfw):👇📽️[https://t.co/YF5gZLmeGa](https://t.co/YF5gZLmeGa)
+> 
+> — Radio Vigía (Oficial) (@radio\_vigia) [September 17, 2024](https://twitter.com/radio_vigia/status/1836159539487371730?ref_src=twsrc%5Etfw)
+
+Policías y las labores en la crisis de seguridad
 ------------------------------------------------
 
-**Béatrice Zavarro**, la abogada del principal acusado en este proceso ante el **Tribunal** de lo **Criminal** de **París**, trató de poner en contexto esta primera declaración de su cliente.
+El general **Víctor Hugo Zárate**, comandante general de la Policía, dio cuenta de las complicaciones y, a la par, de los avances que experimentan los uniformados.
 
-“Lo que cometió -admitió **Zavarro**– es incontestablemente un acto monstruoso. ¿Es un monstruo? No estoy de acuerdo con eso y me dedicaré a demostrarlo. En cualquier caso, es un hombre entre los hombres”.
+Un revés que enfrentan es la labor de los jueces. **Zárate** hizo un llamado a los funcionarios para respaldar el accionar de la Policía.
 
-La letrada también hizo hincapié en la voluntad de **Dominique Pelicot** de contarlo todo, de forma que este asunto no tenga ninguna parte oculta
+Eso debido a que las tareas de inteligencia y operativos dejan antisociales aprehendidos que, a las pocas horas o días, salen en libertad. Esto cuando, recalcó la Autoridad, **“los policías nos jugamos la vida”**.
 
-**Pelicot**, de hecho, aseguró que no cometió otros actos de abusos más allá de los que ha descubierto la **Policía**.
+Sobre la actualización del manual de uso progresivo de la fuerza, dispuesto por el presidente **Daniel Noboa**, el Comandante detalló que ya se concretó.
 
-Indicó que él también sufría por ver los **abusos** que padecía su mujer y que trató de parar “pero la adicción era más fuerte”.
+Según puntualizó, ahora, cuentan con un **manual dinámico** y que quien evalúa la amenaza es el servidor policial, en defensa de la vida de terceros y los uniformados.
 
-Al inicio de su declaración, el principal acusado había contado que cuando tenía 9 años él mismo sufrió **abusos sexuales** en un hospital, que presenció una violación con 14 y que le intentaron hacer partícipe de los abusos que sufría su madre de parte de su padre.
+Por lo que Zárate enfatizó que es fundamental que los jueces conozcan la labor de los **policías**, quienes toman decisiones en segundos para solventar un **hecho violento**.
 
-Y estableció un vínculo con los hechos por los que está siendo juzgado: “Uno no nace perverso, se hace”.
+El Comandante dio los detalles durante una entrevista en Teleamazonas, este martes, 17 de septiembre de 2024.
+
+> [#Seguridad](https://twitter.com/hashtag/Seguridad?src=hash&ref_src=twsrc%5Etfw) || La Policía Nacional del Ecuador desplegará a 46,000 servidores policiales en todo el país, intensificando patrullajes en zonas vulnerables y ejes viales durante los cortes de energía.  
+>   
+> Detalles 👇🏻 🚨 [https://t.co/EZCTCqnVbx](https://t.co/EZCTCqnVbx)[#PolicíaEcuador](https://twitter.com/hashtag/Polic%C3%ADaEcuador?src=hash&ref_src=twsrc%5Etfw)[#ApagonNacional](https://twitter.com/hashtag/ApagonNacional?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/OBVuqP0lAd](https://t.co/OBVuqP0lAd)
+> 
+> — Radio Vigía (Oficial) (@radio\_vigia) [September 17, 2024](https://twitter.com/radio_vigia/status/1836156194999931131?ref_src=twsrc%5Etfw)
+
+¿Hay suficientes policías?
+--------------------------
+
+De acuerdo con el General, la institución tiene un **déficit de servidores policiales**. La **Organización de las Naciones Unidas (ONU)** recomienda la existencia de cuatro por cada **1000 habitantes**.
+
+En Ecuador, el número asciende a **47 450** y 1800 se encuentran en formación. A decir de Zárate, la institución trabaja para suplir las bajas de uniformados que, por ejemplo, han cumplido sus labores. Sin embargo, el déficit corresponde a **12 000**.
+
+Además, aunque ya cuentan con más equipos para cumplir con las labores, como cascos, chalecos, armas primarias para cada policía y **394 vehículos**, aún resta completar elementos tecnológicos, sobre todo, para el área investigativa.
+
+Durante los apagones, la Policía reforzará los controles. En **Quito**, por ejemplo, se anunció que se pondría énfasis en ocho puntos, incluidos los ingresos a la ciudad.
+
+Habrá equipos de un patrullero y motocicletas para el resguardo en los distintos puntos. Los distritos **Quitumbe, Eloy Alfaro y La Delicia** están entre los priorizados. A las labores se sumará personal que habitualmente está en las áreas administrativas.
+
+Ministerio de Educación cambia los horarios de clases por apagón programado
+===========================================================================
+
+Las disposiciones se anuncian debido a los cortes de luz nacionales que se realizarán entre el miércoles 18 y jueves 19 de septiembre.
+--------------------------------------------------------------------------------------------------------------------------------------
+
+![Los cambios en los horarios de clases aplican para todas las unidades educativas del Ecuador](https://www.elcomercio.com/wp-content/uploads/2024/09/clasesss.jpg)
+
+El **Ministerio de Educación** anunció cambios para las jornadas escolares durante el primer **apagón** programado que tendrá Ecuador.
+
+La cartera de Estado informó las nuevas disposiciones a a través de un comunicado difundido la tarde de este martes 17 de septiembre de 2024.
+
+### Más noticias
+
+* [¿Cómo será el servicio de telefonía móvil e Internet en los apagones?](https://www.elcomercio.com/actualidad/negocios/como-sera-el-servicio-de-telefonia-movil-e-internet-en-los-apagones.html "¿Cómo será el servicio de telefonía móvil e Internet en los apagones?")
+* [Ecuador tendrá apagones de ocho horas ¿Cuál es el impacto económico de la medida?](https://www.elcomercio.com/actualidad/negocios/ecuador-apagones-impacto-economico-crisis-energia.html "Ecuador tendrá apagones de ocho horas ¿Cuál es el impacto económico de la medida?")
+* [Recomendaciones para aplicar en los apagones y cortes de luz en Ecuador](https://www.elcomercio.com/actualidad/ecuador/recomendaciones-apagones-ecuador.html "Recomendaciones para aplicar en los apagones y cortes de luz en Ecuador")
+
+La medida guarda relación con el **Decreto 392** suscrito por el presidente **Daniel Noboa**, en el cual se dispone un **toque de queda** en seis provincias del Ecuador y un cantón adicional.
+
+Cambios en horarios escolares
+-----------------------------
+
+Los cambios en las jornadas escolares son los siguientes:
+
+* **Jornada matutina:** el inicio de clases se realizará una hora después del horario habitual. El horario de salida se mantendrá normal.
+* **Jornada vespertina:** horario normal de ingreso y salida.
+* **Jornada nocturna:** el ingreso será normal, sin embargo, la salida deberá anticiparse a las 20:00.
+
+El Ministerio explicó que el miércoles 18 de septiembre, los cambios únicamente se realizarán para las escuelas y colegios nocturnos.
+
+Mientras que para el jueves 19 de septiembre, los ajustes aplican para **todas las jornadas**.
+
+Las actividades se realizarán en **modalidad presencial**, en todas las unidades educativas del Ecuador.
+
+Estas acciones “garantizan la seguridad de la comunidad educativa y su bienestar integral”, indicó el Ministerio de Educación.
+
+> \[COMUNICADO\] Informamos a la ciudadanía sobre las medidas que garantizan la continuidad del proyecto educativo, la seguridad de la comunidad educativa y su bienestar integral, ante las medidas adoptadas por el Gobierno Nacional para el manejo responsable del sistema eléctrico. [pic.twitter.com/1T12eOqwGZ](https://t.co/1T12eOqwGZ)
+> 
+> — Ministerio de Educación del Ecuador (@Educacion\_Ec) [September 17, 2024](https://twitter.com/Educacion_Ec/status/1836160121895813250?ref_src=twsrc%5Etfw)
+
+Cortes de luz y toque de queda
+------------------------------
+
+El Gobierno Nacional realizará mantenimientos preventivos en el Sistema Nacional de Transmisión y redes de distribución de **energía eléctrica**, lo que provocará un corte temporal del suministro eléctrico en todo el territorio nacional.
+
+La suspensión del servicio eléctrico se realizará desde las **22:00** del miércoles 18 hasta las **06:00** del jueves 19 de septiembre.
+
+En este mismo horario, el presidente Noboa dispuso un toque de queda en varias provincias.
+
+Las **provincias afectadas** por la medida incluyen: Guayas, Los Ríos, Manabí, Orellana, Santa Elena, El Oro, y el cantón Camilo Ponce Enríquez de la provincia de Azuay.
+
+Según el comunicado oficial emitido por Presidencia, el objetivo de esta medida es “**reforzar la seguridad ciudadana** y proteger a la población ante la creciente preocupación por la violencia y la criminalidad”.
+
+Además del apagón programado para esta semana, también se realizarán otros cortes de luz de ocho horas diarias.
+
+Los racionamientos de energía tendrán lugar el lunes 23, martes 24, miércoles 25 y jueves 26 de septiembre, en la misma **franja horaria**.  
+
+  
+  
+  
+
+Gobierno de Venezuela rechaza el respaldo de Estados Unidos a González y a Machado
+==================================================================================
+
+Estados Unidos reconoce a Edmundo González como ganador de las elecciones.
+--------------------------------------------------------------------------
+
+![El canciller venezolano, Yván Gil, en una foto de archivo. EFE/ Miguel Gutiérrez](https://www.elcomercio.com/wp-content/uploads/2024/09/rss-efe765ffdd89f37fe92b89408b283ac0775fcf6587cw-e1726612129472.jpg)
+
+[Venezuela](https://www.elcomercio.com/actualidad/mundo/reclaman-justicia-argentina-ordene-detencion-nicolas-maduro.html "https://www.elcomercio.com/actualidad/mundo/reclaman-justicia-argentina-ordene-detencion-nicolas-maduro.html") rechazó el apoyo expresado este martes, 17 de septiembre de 2024, por el secretario de Estado estadounidense, Antony Blinken, al líder del mayor bloque antichavista, Edmundo González y a María Corina Machado, a quienes prometió que Washington “seguirá defendiendo el retorno a la democracia” en el país caribeño.
+
+### Más noticias
+
+* [Venezuela sumó en agosto 229 protestas a favor de Edmundo González](https://www.elcomercio.com/actualidad/venezuela-sumo-agosto-229-protestas-favor-gonzalez-urrutia-segun-observatorio.html "Venezuela sumó en agosto 229 protestas a favor de Edmundo González")
+* [Ecuador cierra Consulado en Venezuela, ¿qué pasará con sus servicios?](https://www.elcomercio.com/actualidad/ecuador/ecuador-consulado-venezuela-servicios-cierre.html "Ecuador cierra Consulado en Venezuela, ¿qué pasará con sus servicios?")
+* [Servicios consulares para ecuatorianos en Venezuela tendrán cambios](https://www.elcomercio.com/actualidad/ecuador/servicios-consulares-para-ecuatorianos-venezuela-cambios.html "Servicios consulares para ecuatorianos en Venezuela tendrán cambios")
+
+El canciller venezolano, Yván Gil, dijo que Blinken “se aferra a un (Juan) Guaidó parte dos que huyó y abandono a su gente, hundiéndolos en un nuevo fracaso”, en alusión al exilio de González Urrutia en España, a donde llegó el 8 de septiembre tras solicitar **asilo debido a la persecución** que denunció haber sufrido en su país luego de los comicios del 28 de julio.
+
+Tras las presidenciales, en las que la PUD asegura que ganó su abanderado, el Gobierno suele referirse como “Guaidó 2.0” a González Urrutia, quien sí compitió en unas elecciones, a diferencia del exdiputado, quien se autoproclamó “mandatario interino” de Venezuela en 2019.
+
+En un mensaje compartido en Telegram, **Gil instó a Blinken a que “asuma la realidad”**, que en Venezuela, con “el presidente Nicolás Maduro Moros, triunfó la paz”.
+
+“El pueblo bolivariano construye victoriosamente su destino y triturará la brutalidad de los arrogantes, mentirosos y estafadores políticos, quienes, aliados con delincuentes, pretenden desviarnos de la senda de prosperidad que hemos consolidado”, expresó el canciller.
+
+Este martes, en una llamada con ambos líderes opositores, Blinken también dijo que “se esforzará por garantizar que se **respete la voluntad de los votantes venezolanos** y exigirá cuentas” al presidente Maduro, según informó el portavoz del Departamento de Estado, Matthew Miller.
+
+Asimismo, el secretario de Estado elogió la “valentía y el compromiso” de González -a quien EE.UU. reconoce como ganador de las elecciones- y de Machado “con los principios democráticos frente a la brutal represión”.
+
+Estos son los servicios públicos que atenderán con normalidad, pese al teletrabajo y cortes de luz
+==================================================================================================
+
+El Ministerio de Trabajo dio directrices a entidades que deben garantizar los servicios públicos, pese al teletrabajo y los cortes de luz.
+------------------------------------------------------------------------------------------------------------------------------------------
+
+![Salud es uno de los servicios públicos que está garantizado, pese a teletrabajo y cortes de luz.](https://www.elcomercio.com/wp-content/uploads/2024/06/pablo-arturo-hospital.jpg)
+
+El Ministerio de Trabajo detalló las entidades que deberán garantizar los servicios públicos, pese a la disposición de teletrabajo, este martes 17 de septiembre de 2024.
+
+El Gobierno ordenó teletrabajo para el sector público cuatro días: 19, 20, 26 y 27 de septiembre de 2024, por los cortes de luz programados a escala nacional.
+
+### Más noticias:
+
+* [ECU 911 hizo un anuncio respecto a los cortes de luz a escala nacional](https://www.elcomercio.com/actualidad/ecuador/ecu-911-hizo-un-anuncio-respecto-a-los-cortes-de-luz-a-escala-nacional.html "ECU 911 hizo un anuncio respecto a los cortes de luz a escala nacional")
+* [Gobierno de Daniel Noboa anuncia nuevos apagones programados](https://www.elcomercio.com/actualidad/negocios/gobierno-de-daniel-noboa-anuncia-nuevos-apagones-programados.html "Gobierno de Daniel Noboa anuncia nuevos apagones programados")
+
+La tarde de este martes, el Ministerio de Trabajo especificó cuáles son las entidades y los servicios públicos que deberán ser garantizados, en estos días.
+
+Servicios públicos garantizados, pese a teletrabajo por cortes de luz
+---------------------------------------------------------------------
+
+El Ministerio de Trabajo señaló que “deberán garantizar la prestación del servicio público con total normalidad” varias entidades públicas.
+
+Aquí están las entidades que prestan servicios básicos, salud, seguridad, terminales aéreos, terrestres, marítimos, fluviales.
+
+Además, organismos que pertenezcan al Sistema Nacional de Inteligencia y otros sectores estratégicos, y la atención de emergencias y riesgos.
+
+Estas entidades deberán ejecutar las acciones necesarias para resolver cualquier situación que se requiera.
+
+Quedará bajo su arbitrio y atendiendo la naturaleza de sus funciones, el acogerse a la disposición de teletrabajo.
+
+Las personas en puestos que no sean susceptibles de teletrabajo planificarán con la Unidad de Administración del Talento Humano la recuperación de los días no laborados.
+
+El sector privado acatará con criterio discrecional lo dispuesto por la Presidencia de la República del Ecuador.
+
+“Respetando los derechos laborales y procurando mantener las actividades que, por su naturaleza y necesidad social, no pueden paralizarse, suspenderse”, concluyó el Ministerio.
+
+Ecovía y Trolebús modificarán sus horarios por cortes de luz
+============================================================
+
+Quito ajusta servicios y transporte ante cortes de luz del 18 al 19 de septiembre. Cambios en Ecovía, Trolebús y horarios municipales.
+--------------------------------------------------------------------------------------------------------------------------------------
+
+![Los servicios de transporte del Trolebús y Ecovía se modificarán por cortes de luz.](https://www.elcomercio.com/wp-content/uploads/2024/05/horarios-trole-s.jpg)
+
+El **Gobierno** anunció cortes de luz en todo el país, que se llevarán a cabo desde la noche del miércoles 18 de septiembre de 2024, a **partir de las 22:00, hasta las 06:00 del jueves 19**.
+
+### Más noticias
+
+* [Estas son las sanciones por incumplir el toque de queda en Ecuador](https://www.elcomercio.com/actualidad/seguridad/toque-queda-ecuador-sanciones-decreto.html "Estas son las sanciones por incumplir el toque de queda en Ecuador")
+* [Metro de Quito ajustará su horario ante los cortes de luz este miércoles 18 de septiembre](https://www.elcomercio.com/actualidad/quito/metro-de-quito-ajusta-horario-cortes-de-luz-miercoles-18-septiembre.html "Metro de Quito ajustará su horario ante los cortes de luz este miércoles 18 de septiembre")
+* [Recomendaciones para aplicar en los apagones y cortes de luz en Ecuador](https://www.elcomercio.com/actualidad/ecuador/recomendaciones-apagones-ecuador.html "Recomendaciones para aplicar en los apagones y cortes de luz en Ecuador")
+
+En respuesta, la **Alcaldía de Quito** implementará medidas para garantizar el funcionamiento de los **servicios en la ciudad**. Entre estas medidas se incluyen cambios en los horarios de los sistemas de transporte **Ecovía y Trolebús**.
+
+Obras y mantenimiento
+---------------------
+
+La **Empresa Pública Metropolitana de Movilidad y Obras Públicas (Epmmop)** seguirá con sus actividades regulares de **mantenimiento vial, parques y aceras durante el día**. Los trabajos nocturnos serán pausados debido a la **falta de luz**.
+
+Los estacionamientos, terminales y el peaje Guayasamín **no se verán afectados por los cortes**, ya que cuentan con **plantas de energía propias**.
+
+> 🚎 [#QuitoInformado](https://twitter.com/hashtag/QuitoInformado?src=hash&ref_src=twsrc%5Etfw) | Tras el anuncio del Gobierno Nacional sobre los cortes de luz a escala nacional, la noche del miércoles 18 de septiembre de 2024 desde las 22h00 hasta las 06h00 del jueves 19 de septiembre, y la emisión del Decreto Ejecutivo pertinente, la Alcaldía de Quito… [pic.twitter.com/3YlYJyqHCR](https://t.co/3YlYJyqHCR)
+> 
+> — Municipio de Quito (@MunicipioQuito) [September 17, 2024](https://twitter.com/MunicipioQuito/status/1836141116694954485?ref_src=twsrc%5Etfw)
+
+Los parques metropolitanos también ajustarán sus horarios. Estarán abiertos de lunes a domingo desde las **06h00 hasta las 19h00**, garantizando el acceso al público.
+
+Seguridad y servicios ciudadanos
+--------------------------------
+
+La **Secretaría de Seguridad** dispuso la movilización de **9 patrullas mixtas que recorrerán las distintas zonas administrativas de Quito**. Estas estarán integradas por personal de la Agencia Metropolitana de Control, el Cuerpo de Agentes del Municipio y la Policía Nacional.
+
+Además, se garantiza la seguridad en la **Administración Zonal del Chocó Andino**.
+
+El **Municipio de Quito** continuará brindando atención normal a través de sus canales presenciales y virtuales. No obstante, el **Registro de la Propiedad** suspenderá sus servicios en línea desde las 19h30 del miércoles 18 de septiembre hasta las 09:00 del jueves 19, debido a apagados controlados de sus servidores.
+
+El **Mercado Mayorista de Quito** también suspenderá sus operaciones desde las 22h00 del miércoles hasta las 06h00 del jueves. No se aplicarán restricciones al ingreso de productos hasta las 21h00 del miércoles, para **asegurar el abastecimiento**.
+
+**Emaseo** mantendrá sus horarios habituales de recolección de basura sin modificaciones, asegurando la continuidad de este servicio. Los **trabajadores estarán debidamente identificados y equipados** con linternas para sus **labores durante la noche**.
+
+La **Empresa Pública Metropolitana de Agua Potable y Saneamiento (Epmaps)** está a la espera de las indicaciones del **Operador Nacional de Electricidad (Cenac)** para evaluar cómo afectarán los cortes de luz al sistema de bombeo de agua.
+
+Educación, salud y cultura
+--------------------------
+
+Las **Unidades Educativas Municipales** acatarán las disposiciones del **Ministerio de Educación**. Los estudiantes del bachillerato acelerado saldrán una hora antes, a las 19h30, para **resguardar su seguridad**.
+
+Los **centros de salud municipales seguirán operando normalmente**. No obstante, las cirugías programadas para el jueves y viernes se reprogramarán. El Patronato Municipal San José y la Unidad de Bienestar Animal continuarán con su atención regular.
+
+El sector cultural también sufrirá algunas modificaciones. El Centro de Arte Contemporáneo suspenderá sus actividades, mientras que el Teatro Sucre ajustará los horarios del Festival de Jazz. El Instituto Metropolitano de Patrimonio reprogramará algunos de sus eventos culturales.
+
+Transporte público y movilidad
+------------------------------
+
+El miércoles 18 de septiembre, tanto la **Ecovía como el Trolebús** ajustarán sus horarios. Las operaciones de estos sistemas iniciarán a las **05h00**, cerrando las troncales a las **20h00** y las rutas alimentadoras a las **21h00**. El **[Metro de Quito](https://www.elcomercio.com/actualidad/quito/metro-de-quito-ajusta-horario-cortes-de-luz-miercoles-18-septiembre.html "Metro de Quito ajustará su horario ante los cortes de luz este miércoles 18 de septiembre")** también modificará sus operaciones, comenzando a las **05h30** y concluyendo a las **20h00**.
+
+Para el jueves 19 de septiembre, la **Ecovía y el Trolebús abrirán a las 06h00**. El cierre de las troncales será a las **22h00** y el de las **alimentadoras a las 22h30**. El **Metro de Quito aún no ha definido sus horarios para ese día**, ya que depende de la información que proporcione la **Empresa Eléctrica Quito**.
+
+> [Ver esta publicación en Instagram](https://www.instagram.com/p/DABxNecRCQg/?utm_source=ig_embed&utm_campaign=loading)
+> 
+> [Una publicación compartida por El Comercio de Ecuador (@elcomerciocom)](https://www.instagram.com/p/DABxNecRCQg/?utm_source=ig_embed&utm_campaign=loading)
+
+Por su parte, la **Agencia Metropolitana de Tránsito (AMT)** mantendrá su atención habitual en todos sus centros. No habrá modificaciones en los horarios de **revisión vehicular** ni en el **sistema de pico y placa**. Para la seguridad vial, **118 agentes estarán en turno nocturno y 510 en el matutino**.
+
+Sin agua, sin luz… ¿qué sigue?
+==============================
+
+Un país relativamente pequeño, con buenas fuentes hídricas, pero incapaz de servir a sus propias ciudades.
+----------------------------------------------------------------------------------------------------------
+
+![Saudia Levoyer, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Saudia-Levoyer-2.jpg)
+
+Muchos se muestran felices, encantados, maravillados, con tanto sol y calor, especialmente en **Quito**. Es que llevamos semanas con **cielos tan azules** y **sin nubes**, que pareciera que vivimos en un **eterno verano**, de ese que tienen los países con **cuatro estaciones**. Días repletos de luz, de gente vestida con ropa muy liviana, con **gafas** y, en algunos casos, con **gorras** o **sombreros**, cargando **botellas** de **agua** o de cualquier líquido en **autos**, mochilas o en las manos. Unos cuantos llevan una **chaqueta** por si corre ese viento frío de las tardes en las **montañas**. Alrededor nuestro, los colores ocres se aprecian en las vías, las canchas, los jardines… Sentimos el sol metiéndose en nuestra **piel** y en nuestros **pulmones** cuando en los **valles** el aire que se respira se siente caliente, mezclado con la **contaminación** que emanan decenas de autos o los restos de algunos de los **incendios** que hemos soportado.
+
+Pero hay quienes la están pasando mal. En medio de este fuerte **calor**, hay barrios enteros que no tienen **agua**. El servicio se da por horas para que puedan abastecerse y atender sus necesidades de **limpieza** y de **alimentación**. No me cree, pregunte a quienes viven en zonas como **San Antonio** de **Pichincha** o **Calacalí**. O a quienes tienen sus hogares por **La Merced** y otros sitios aledaños. A algunos barrios les están **racionando** el **agua** hasta por 20 horas.
+
+La verdad es que ya no son los años 70 y 80 de siglo pasado, cuando parte de lo que hacían los **niños** y los **adolescentes** era buscar una **llave** por donde saliese un poco de **agua** para ir a recogerla en **baldes**. Las **casas actuales** ya no tienen los **tanques** de **agua** hacia donde corría cualquier miembro de la **familia** para abrir la **llave** y llenarlo para poder lavar platos, la ropa o utilizar en los baños, apenas alguien gritaba “llegó el agua”. Hay **conjuntos** o **edificios** que tienen **cisternas**, otros no porque no pueden pagarlas y otros más se oponen porque se atenta contra la **estética** de donde viven (esto último me pareció increíble, pero es real).
+
+**Quito** es una **ciudad** enorme, con sus **parroquias** convertidas en **miniciudades** satélites, en una suerte de islas interconectadas por unas pocas **vías** y con problemas que son de replay como el del **agua**. Un **país** relativamente pequeño, con buenas **fuentes hídricas**, pero incapaz de servir a sus propias **ciudades**.
+
+A esto se agrega el tema de los **apagones**. Sí, que hubo descuido, **negligencia**, negociados, **irresponsabilidad**… Los adjetivos pueden ser muchísimos, pero eso no cambia la **realidad**. A casi nadie le importa el **país** y querer apoyar resulta una quimera. A los **ciudadanos** que aportan para mejorar el **ambiente**, ya sea por la compra de **autos híbridos** o **eléctricos** o la instalación de **paneles solares**, no los apoyan como en otros **países**, por ejemplo, con el descuento de **impuestos personales**.
+
+Aquí no, aquí hay una suerte de **castigos**. Cito dos: a más de la **inversión** en **tecnología** más cara deben pagar por varios años **matrículas** vehiculares costosas.  Tampoco se apoya la instalación de **paneles solares** o cualquier **sistema** de **energía** alternativa en las **casas**. Si los quiere, resígnese a pagar unos 25 000 dólares por los **paneles** y si es con **combustible fósil** se ahorra 9 000, es decir, baja a 16 000.
+
+Si no hay **planeación**, **incentivos** para que los **ciudadanos** apoyen (no solo con el ahorro de agua y luz) y **decisión**, vivir como hace 40 o 50 años será la moda.
