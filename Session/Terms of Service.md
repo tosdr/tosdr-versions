@@ -6,7 +6,7 @@
 
 [GitHub](https://github.com/oxen-io)[Blog](https://getsession.org/blog)Technicals
 
-[Lightpaper](https://getsession.org/lightpaper)[Whitepaper](https://getsession.org/whitepaper)[Documentation](https://docs.oxen.io/products-built-on-oxen/session)
+[Litepaper](https://getsession.org/litepaper)[Whitepaper](https://getsession.org/whitepaper)[Documentation](https://docs.oxen.io/products-built-on-oxen/session)
 
 Help
 
