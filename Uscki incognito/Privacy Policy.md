@@ -15,6 +15,7 @@
     * [Informatie (C)KI](https://www.uscki.nl/?pagina=Wicki/WPublic&subject=wat_is_cki?&menu=Studie)
     * [Symposium](https://www.uscki.nl/?pagina=Wicki/WPublic&subject=Symposium&menu=Studie)
 * [Sponsoren](https://www.uscki.nl/?pagina=Sponsors)
+    * [Formorrow](https://www.uscki.nl/?pagina=Sponsors&action=detail&id=69)
     * [Joust](https://www.uscki.nl/?pagina=Sponsors&action=detail&id=68)
     * [Voor bedrijven](https://www.uscki.nl/?pagina=Wicki/WPublic&subject=Samenwerking&menu=Sponsoren)
 * [Vacatures](https://www.uscki.nl/?pagina=Applications)
@@ -149,6 +150,8 @@ Commissies en groepen binnen Incognito die zich bezighouden met het ontwikkelen 
 
 [Sponsoren
 ---------](https://www.uscki.nl/?pagina=Sponsors)
+
+[![](?pagina=Media/FileView&id=106155&size=normal)](https://www.formorrow.nl/)
 
 [![](?pagina=Media/FileView&id=105302&size=normal)](https://www.joust.nl/)
 
