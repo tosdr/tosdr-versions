@@ -114,23 +114,23 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
         * [Neuroscience](https://www.sciencenews.org/topic/neuroscience)
         * [Genetics](https://www.sciencenews.org/topic/genetics)
         * [Microbes](https://www.sciencenews.org/topic/microbes)
-    * * [Plants](https://www.sciencenews.org/topic/plants)
+    * * [Neuroscience](https://www.sciencenews.org/topic/neuroscience)
+            
+            ### [Mitochondria can sneak DNA into the nuclei of brain cells](https://www.sciencenews.org/article/mitochondria-insertions-brain-cells)
+            
+            By [Claudia López Lloreda](https://www.sciencenews.org/author/claudia-lopez-lloreda "Posts by Claudia López Lloreda")3 hours ago
+            
+        * [Plants](https://www.sciencenews.org/topic/plants)
             
             ### [Projectile pollen helps this flower edge out reproductive competition](https://www.sciencenews.org/article/projectile-pollen-flower-competition)
             
-            By [Nala Rogers](https://www.sciencenews.org/author/nala-rogers "Posts by Nala Rogers")20 hours ago
+            By [Nala Rogers](https://www.sciencenews.org/author/nala-rogers "Posts by Nala Rogers")September 17, 2024
             
         * [Neuroscience](https://www.sciencenews.org/topic/neuroscience)
             
             ### [Pregnancy overhauls the brain. Here’s what that looks like](https://www.sciencenews.org/article/pregnancy-brain-overhauls-mother)
             
             By [Laura Sanders](https://www.sciencenews.org/author/laura-sanders "Posts by Laura Sanders")September 16, 2024
-            
-        * [Life](https://www.sciencenews.org/topic/life)
-            
-            ### [Mega El Niños kicked off the world’s worst mass extinction](https://www.sciencenews.org/article/mega-el-ninos-mass-extinction)
-            
-            By [Jake Buehler](https://www.sciencenews.org/author/jake-buehler "Posts by Jake Buehler")September 12, 2024
             
 * [Earth](https://www.sciencenews.org/topic/earth)
     * [Earth](https://www.sciencenews.org/topic/earth)
@@ -165,7 +165,7 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [How to spot tiny black holes that might pass through the solar system](https://www.sciencenews.org/article/primordial-black-holes-solar-system) 
             
-            By [Emily Conover](https://www.sciencenews.org/author/emily-conover "Posts by Emily Conover")18 hours ago
+            By [Emily Conover](https://www.sciencenews.org/author/emily-conover "Posts by Emily Conover")24 hours ago
             
         * [Quantum Physics](https://www.sciencenews.org/topic/quantum-physics)
             
@@ -188,7 +188,7 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [How to spot tiny black holes that might pass through the solar system](https://www.sciencenews.org/article/primordial-black-holes-solar-system) 
             
-            By [Emily Conover](https://www.sciencenews.org/author/emily-conover "Posts by Emily Conover")18 hours ago
+            By [Emily Conover](https://www.sciencenews.org/author/emily-conover "Posts by Emily Conover")24 hours ago
             
         * [Space](https://www.sciencenews.org/topic/space)
             
