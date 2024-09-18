@@ -182,7 +182,7 @@ ULTRA OPEN EARBUDS
 
 ### Hear it all. All the time.](https://www.bose.com/en_us/legal/p/ULT-HEADPHONEOPN.html "Shop")
 
-[![Bose](/on/demandware.static/Sites-Bose_US-Site/-/default/dw2d50f876/images/logo.svg)](https://www.bose.com/home "Bose Home")
+[![Bose](/on/demandware.static/Sites-Bose_US-Site/-/default/dwdef62dc2/images/logo.svg)](https://www.bose.com/home "Bose Home")
 
 [](https://www.bose.com/login?oauthProvider=Azure-AD-B2C "Sign In/Join my Bose")[](https://www.bose.com/wishlist "Wish list")
 
