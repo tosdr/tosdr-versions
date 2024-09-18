@@ -43,6 +43,7 @@ Main navigation
 * [Treatment & Services](https://www.eatingrecoverycenter.com/treatment)
     * Column one
         * Types of Treatment
+            * [Treatment Overview](https://www.eatingrecoverycenter.com/treatment)
             * [Inpatient](https://www.eatingrecoverycenter.com/treatment/inpatient)
             * [Residential](https://www.eatingrecoverycenter.com/treatment/residential)
             * [Partial Hospitalization](https://www.eatingrecoverycenter.com/treatment/partial-hospitalization)
@@ -195,6 +196,7 @@ Main navigation
 * [Treatment & Services](https://www.eatingrecoverycenter.com/treatment)
     * Column one
         * Types of Treatment
+            * [Treatment Overview](https://www.eatingrecoverycenter.com/treatment)
             * [Inpatient](https://www.eatingrecoverycenter.com/treatment/inpatient)
             * [Residential](https://www.eatingrecoverycenter.com/treatment/residential)
             * [Partial Hospitalization](https://www.eatingrecoverycenter.com/treatment/partial-hospitalization)
