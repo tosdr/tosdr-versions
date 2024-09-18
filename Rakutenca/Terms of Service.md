@@ -1,6 +1,8 @@
 [HP Canada: Printer Sales Event on now! BONUS paper included on select printer bundles + 10% Cash Back
 
-Shop Now](https://www.rakuten.ca/ticket/campaign/2019-countdown-clock/coupon/hp-canada?store=hp-canada&sourceName=sitewide-sticky-header)
+Shop Now](https://www.rakuten.ca/ticket/campaign/2019-countdown-clock/coupon/hp-canada?store=hp-canada&sourceName=sitewide-sticky-header)[🛍 Earn Cash Back in-store at Ashley! Up to 60% off clearance + 6% Cash Back.
+
+See All Offers](https://www.rakuten.ca/in-store-cash-back)
 
 [](https://www.rakuten.ca/)
 
@@ -311,7 +313,7 @@ FR
         
         up to 4% Cash Back](https://www.rakuten.ca/coach)[Michael Kors
         
-        2% Cash Back](https://www.rakuten.ca/michael-kors)[Mejuri
+        10% Cash Back](https://www.rakuten.ca/michael-kors)[Mejuri
         
         2% Cash Back](https://www.rakuten.ca/mejuri)[Shoppers Drug Mart Beauty
         
@@ -371,7 +373,7 @@ FR
         
         5% Cash Back](https://www.rakuten.ca/chewy)[PetSmart
         
-        15% Cash Back](https://www.rakuten.ca/petsmart)[Rover
+        10% Cash Back](https://www.rakuten.ca/petsmart)[Rover
         
         Up to $15 Cash Back](https://www.rakuten.ca/rover)[Well.ca
         
@@ -459,7 +461,7 @@ FR
         
         6% Cash Back](https://www.rakuten.ca/booking-com)[Hotels.com
         
-        1% Cash Back](https://www.rakuten.ca/hotels-com)[Viator - A TripAdvisor Company
+        up to 5% Cash Back](https://www.rakuten.ca/hotels-com)[Viator - A TripAdvisor Company
         
         10% Cash Back](https://www.rakuten.ca/viator)[Flight Centre
         
