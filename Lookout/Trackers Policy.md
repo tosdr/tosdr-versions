@@ -71,7 +71,7 @@
     * Latest News
         
     
-    [![Pax8](https://cdn.prod.website-files.com/64ad8cecda5417d65d91a876/666a0983380e8845958155db_pax8.svg)
+    [![](https://cdn.prod.website-files.com/64ad8cecda5417d65d91a876/66e8fc1ce6c53eeadb2fc1b7__pax8.avif)
     
     Webflow in 2021
     
@@ -79,7 +79,7 @@
         
         In a huge milestone for mobile security Lookout partners with PAX8.](https://www.lookout.com/news-release/lookout-and-pax8-form-strategic-partnership-to-enable-managed-service-providers-to-close-the-mobile-security-gap-for-their-customers)
     
-    [![Fortra](https://cdn.prod.website-files.com/64ad8cecda5417d65d91a876/667d9662a68d8ff393733a1c_fortra.svg)
+    [![](https://cdn.prod.website-files.com/64ad8cecda5417d65d91a876/66e8fc3a506850e8a5cfd25d__fortra.avif)
     
     Webflow in 2021
     
@@ -87,7 +87,7 @@
         
         Lookout and  Fortra form partnership to deliver Digital Guardian Secure Service Edge.](https://www.lookout.com/news-release/fortra-and-lookout-form-strategic-integration-partnership-to-deliver-digital-guardian-secure-service-edge)
     
-    [![VMware](https://cdn.prod.website-files.com/64ad8cecda5417d65d91a876/667e3a8994796a0d45a1e281_vmware-partner1.svg)
+    [![](https://cdn.prod.website-files.com/64ad8cecda5417d65d91a876/66e8fc430f13cbc260272b2c__vmware-partner1.avif)
     
     Webflow in 2021
     
