@@ -471,17 +471,17 @@ Revised June 1, 2022
 
   [![A self-proclaimed lover of great cocktails, YouTuber Chris Broad says his new Shibuya watering hole is more a place to get yourself a solid drink than it is anything related to his social media career.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/13/421419.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "A self-proclaimed lover of great cocktails, YouTuber Chris Broad says his new Shibuya watering hole is more a place to get yourself a solid drink than it is anything related to his social media career.")](https://www.japantimes.co.jp/life/2024/09/15/food-drink/lost-bar-chris-broad-abroad-in-japan-shibuya/ "Chris Broad's new bar puts cocktails first, YouTube second")
 
-[South Korea is facing deepfake porn crisis](https://www.japantimes.co.jp/commentary/2024/09/13/world/south-korea-deepfake-porn-crisis/ "South Korea is facing deepfake porn crisis")
+[Yamaha Motor president slashed with knife by daughter](https://www.japantimes.co.jp/news/2024/09/17/japan/crime-legal/yamaha-motor-pres-knife-attack/ "Yamaha Motor president slashed with knife by daughter")
 
-  [![Activists hold up symbolic eye masks during a protest against deepfake porn in Seoul on Aug. 30. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/13/420717.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Activists hold up symbolic eye masks during a protest against deepfake porn in Seoul on Aug. 30. ")](https://www.japantimes.co.jp/commentary/2024/09/13/world/south-korea-deepfake-porn-crisis/ "South Korea is facing deepfake porn crisis")
+  [![Yamaha Motor said it would not comment on an alleged knife attack on its president as it is a private matter and the investigation is ongoing.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/17/422115.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Yamaha Motor said it would not comment on an alleged knife attack on its president as it is a private matter and the investigation is ongoing.")](https://www.japantimes.co.jp/news/2024/09/17/japan/crime-legal/yamaha-motor-pres-knife-attack/ "Yamaha Motor president slashed with knife by daughter")
 
-[In LDP presidential poll, three kingmakers hold all the cards](https://www.japantimes.co.jp/news/2024/09/16/japan/politics/ldp-kingmakers/ "In LDP presidential poll, three kingmakers hold all the cards")
+[How Intel lost the Sony PlayStation business](https://www.japantimes.co.jp/business/2024/09/17/tech/intel-lost-sony-playstation-contract/ "How Intel lost the Sony PlayStation business")
 
-  [![Prime Minister Fumio Kishida speaks at the Liberal Democratic Party headquarters in Tokyo in January as former Prime Minister Yoshihide Suga (left) looks on.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/16/421885.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Prime Minister Fumio Kishida speaks at the Liberal Democratic Party headquarters in Tokyo in January as former Prime Minister Yoshihide Suga (left) looks on.")](https://www.japantimes.co.jp/news/2024/09/16/japan/politics/ldp-kingmakers/ "In LDP presidential poll, three kingmakers hold all the cards")
+  [![Intel in 2022 lost out on a contract to design and fabricate the chip for Sony’s next-generation PlayStation 6.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/17/422101.JPG?v=3.1&w=400&q=100&f=jpg&t=1.2 "Intel in 2022 lost out on a contract to design and fabricate the chip for Sony’s next-generation PlayStation 6.")](https://www.japantimes.co.jp/business/2024/09/17/tech/intel-lost-sony-playstation-contract/ "How Intel lost the Sony PlayStation business")
 
-[Yen strengthens beyond ¥140 per dollar for first time since 2023](https://www.japantimes.co.jp/business/2024/09/16/markets/yen-hike-beyond-140/ "Yen strengthens beyond ¥140 per dollar for first time since 2023")
+[The real-world inspirations behind 'Shogun' are a shinkansen away](https://www.japantimes.co.jp/life/2024/09/17/travel/shogun-osaka-castle-travel-historical-sites/ "The real-world inspirations behind 'Shogun' are a shinkansen away")
 
-  [![Then yen strengthened on Monday beyond ¥140 per dollar ahead of a Federal Reserve policy meeting this week that is widely expected to see officials cut interest rates.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/16/421952.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Then yen strengthened on Monday beyond ¥140 per dollar ahead of a Federal Reserve policy meeting this week that is widely expected to see officials cut interest rates.")](https://www.japantimes.co.jp/business/2024/09/16/markets/yen-hike-beyond-140/ "Yen strengthens beyond ¥140 per dollar for first time since 2023")
+  [![The first season of 'Shogun' wraps up just prior to the 1600 Battle of Sekigahara, where Tokugawa Ieyasu (Yoshii Toranaga in the TV show) faced off against Ishida Mitsunari (Ishido Kazunari) to determine the new ruler of Japan.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/16/421573.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "The first season of 'Shogun' wraps up just prior to the 1600 Battle of Sekigahara, where Tokugawa Ieyasu (Yoshii Toranaga in the TV show) faced off against Ishida Mitsunari (Ishido Kazunari) to determine the new ruler of Japan.")](https://www.japantimes.co.jp/life/2024/09/17/travel/shogun-osaka-castle-travel-historical-sites/ "The real-world inspirations behind 'Shogun' are a shinkansen away")
 
 [‘Shogun’ and the painstaking art of ‘getting it right’](https://www.japantimes.co.jp/culture/2024/09/16/tv-streaming/shogun-emmys-authentic-portrayal/ "‘Shogun’ and the painstaking art of ‘getting it right’")
 
@@ -564,19 +564,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
-[Japan to conduct mock cyberattack tests on local governments](https://www.japantimes.co.jp/news/2024/09/17/japan/japan-mock-cyberattacks/ "Japan to conduct mock cyberattack tests on local governments")
+[New high-profile chip plants driving up nearby land prices across Japan](https://www.japantimes.co.jp/business/2024/09/18/companies/chip-plants-land-prices/ "New high-profile chip plants driving up nearby land prices across Japan")
 
-9 hours ago
+45 mins ago
 
-[7-Eleven parent's new security rating won't affect a buyout, minister says](https://www.japantimes.co.jp/business/2024/09/17/companies/seven-eleven-new-security-rating/ "7-Eleven parent's new security rating won't affect a buyout, minister says")
+[Russia steps up disinformation ops against Harris campaign: Microsoft](https://www.japantimes.co.jp/news/2024/09/18/world/politics/russia-disinformation-harris-microsoft/ "Russia steps up disinformation ops against Harris campaign: Microsoft")
 
-9 hours ago
+47 mins ago
 
-[LDP presidential hopefuls lay out priorities for PM in online debate](https://www.japantimes.co.jp/news/2024/09/17/japan/politics/ldp-debate-about-priorities/ "LDP presidential hopefuls lay out priorities for PM in online debate")
+[University of Tokyo students submit petition against tuition hike](https://www.japantimes.co.jp/news/2024/09/18/japan/society/university-of-tokyo-tuition-hike/ "University of Tokyo students submit petition against tuition hike")
 
-[Deaths among elderly people using electric wheelchairs on the rise](https://www.japantimes.co.jp/news/2024/09/17/japan/elderly-electric-wheelchairs/ "Deaths among elderly people using electric wheelchairs on the rise")
+1 hours ago
 
-[Japanese average land price rises for third consecutive year](https://www.japantimes.co.jp/business/2024/09/17/economy/japan-land-prices/ "Japanese average land price rises for third consecutive year")
+[U.S. probes uranium imports from China amid concerns over Russian ban](https://www.japantimes.co.jp/news/2024/09/18/asia-pacific/politics/us-uranium-china-russian-ban/ "U.S. probes uranium imports from China amid concerns over Russian ban")
+
+1 hours ago
+
+[Sean 'Diddy' Combs pleads not guilty to sex trafficking; judge denies bail](https://www.japantimes.co.jp/news/2024/09/18/world/crime-legal/diddy-combs-sex-trafficking-bail-denied/ "Sean 'Diddy' Combs pleads not guilty to sex trafficking; judge denies bail")
+
+1 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
