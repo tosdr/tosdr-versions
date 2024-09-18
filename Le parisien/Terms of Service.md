@@ -188,10 +188,12 @@ Rechercher sur Le Parisien
     
 * [Journal](https://www.kiosque.leparisien.fr/)
     
+* [Boutique 80 ans](https://abonnement.leparisien.fr/boutique/)
+    
 
 * [Annonces](https://www.leparisien.fr/annonces/)
     
-    * [Annonces immobilières](https://annonces-immo.leparisien.fr/)
+    * [Annonces immobilières](https://www.leparisien.fr/nos-services/annonces-immobilieres/)
     * [Avis de décès](https://carnet.leparisien.fr/)
     * [Annonces légales](https://annonces-legales.leparisien.fr/)
     * [Marchés publics](https://avisdemarches.leparisien.fr/)
@@ -208,6 +210,7 @@ Rechercher sur Le Parisien
     * [Comparateurs](https://comparateur.leparisien.fr/)
     * [Jeux Concours](https://www.leparisien.fr/jeux/jeu-concours.php/)
     * [Billetterie](https://www.spectaclescarrefour.leparisien.fr/)
+    * [Annonces immobilières](https://www.leparisien.fr/nos-services/annonces-immobilieres/)
     
 * [Contacter la rédaction](https://www.leparisien.fr/contact/)
     
@@ -577,14 +580,14 @@ Conformément à l’article L.121-21 du Code de la Consommation, l’Abonné di
 10.2 Dans le cadre d’un achat de Hors-Série
 -------------------------------------------
 
-Pour toute commande de Hors-Série à l’unité, l’Utilisateur dispose d’un délai de quatorze jours à compter de la réception des Hors-Séries pour exercer votre droit de rétractation. Après communication de la décision d'exercer son droit de rétractation dans ce délai de 14 jours, l’Utilisateur dispose d'un autre délai de 14 jours pour renvoyer le ou les Hors-Séries concernés par la rétractation. Les retours sont à effectuer dans leur état d'origine et complets permettant leur recommercialisation à l'état neuf. En cas de dépréciation de l’Hors-Série, votre responsabilité peut être engagée.  
+Pour toute commande de Hors-Série à l’unité, l’Utilisateur dispose d’un délai de quatorze jours à compter de la réception des Hors-Séries pour exercer son droit de rétractation. Après communication de la décision d'exercer son droit de rétractation dans ce délai de 14 jours, l’Utilisateur dispose d'un autre délai de 14 jours pour renvoyer le ou les Hors-Séries concernés par la rétractation. Les retours sont à effectuer dans leur état d'origine et complets permettant leur recommercialisation à l'état neuf. En cas de dépréciation de l’Hors-Série, votre responsabilité peut être engagée.  
   
 Le bulletin de rétractation est fourni à l’Abonné dans les présentes CGV/CGU. En cas d'exercice du droit de rétractation, la Société procédera au remboursement des sommes versées (y compris les frais de livraison relatif à l'envoi initial) au plus tard dans les 14 jours à compter de la date à laquelle la Société est informée de la décision de l’Utilisateur de se rétracter. Cette date de remboursement pouvant être différée jusqu'au retour du ou des Hors-Série(s) correspondant. Il est expressément précisé que les coûts directs de renvoi restent à la charge de l’Utilisateur et ne seront pas inclus dans le montant du remboursement susvisé.
 
 10.3 Dans le cadre d’un achat sur la boutique éphémère dédiée aux 80 ans du Parisien
 ------------------------------------------------------------------------------------
 
-Pour toute commande au sein de la boutique éphémère dédiée aux 80 ans du Parisien, l’Utilisateur dispose d’un délai de quatorze jours à compter de la réception de sa commande pour exercer votreson droit de rétractation. Après communication de la décision d'exercer son droit de rétractation dans ce délai de 14 jours, l’Utilisateur dispose d'un autre délai de 14 jours pour renvoyer le ou les produit(s) concerné(s) par la rétractation. Les retours sont à effectuer dans leur état d'origine et complets permettant leur recommercialisation à l'état neuf. En cas de dépréciation de d’un ou plusieurs produits, votre responsabilité peut être engagée.  
+Pour toute commande au sein de la boutique éphémère dédiée aux 80 ans du Parisien, l’Utilisateur dispose d’un délai de quatorze jours à compter de la réception de sa commande pour exercer son droit de rétractation. Après communication de la décision d'exercer son droit de rétractation dans ce délai de 14 jours, l’Utilisateur dispose d'un autre délai de 14 jours pour renvoyer le ou les produit(s) concerné(s) par la rétractation. Les retours sont à effectuer dans leur état d'origine et complets permettant leur recommercialisation à l'état neuf. En cas de dépréciation de d’un ou plusieurs produits, votre responsabilité peut être engagée.  
   
 Le bulletin de rétractation est fourni à l’Abonné dans les présentes CGV/CGU. En cas d'exercice du droit de rétractation, la Société procédera au remboursement des sommes versées (y compris les frais de livraison relatif à l’envoi initial) au plus tard dans les 14 jours à compter de la date à laquelle la Société est informée de la décision de l’Utilisateur de se rétracter. Cette date de remboursement pouvant être différée jusqu'au retour du ou produit(s) correspondant(s). Il est expressément précisé que les coûts directs de renvoi restent à la charge de l’Utilisateur et ne seront pas inclus dans le montant du remboursement susvisé.
 
@@ -826,9 +829,9 @@ Profitez des avantages de l’offre numérique
 
 [Je m'abonne](#)
 
-![](/pf/resources/images/footer_img_abo_desktop.png?d=729)
+![](/pf/resources/images/footer_img_abo_desktop.png?d=730)
 
-![](/pf/resources/images/footer_img_abo_tablet.png?d=729)
+![](/pf/resources/images/footer_img_abo_tablet.png?d=730)
 
 [Centre Français d’Exploitation du Droit de Copie](http://www.cfcopies.com/contrat-autorisation2/)
 
