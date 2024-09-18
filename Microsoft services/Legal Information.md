@@ -43,9 +43,7 @@ Skype
     * [New to Skype? Sign up](https://go.skype.com/signup?client_id=578134&redirect_uri=https%3A%2F%2Fweb.skype.com&source=scomnav)
     * [Sign out](https://go.skype.com/logout)
 
-  
-
-      
+     
 
 Skype Legal
 ===========
@@ -155,7 +153,7 @@ Business
 * [Microsoft 365](https://www.microsoft.com/en-us/microsoft-365/business)
 * [Microsoft Power Platform](https://www.microsoft.com/en-us/power-platform)
 * [Microsoft Teams](https://www.microsoft.com/en-us/microsoft-teams/group-chat-software)
-* [Microsoft 365 Copilot](https://www.microsoft.com/en-us/microsoft-365/copilot/copilot-for-work)
+* [Copilot for Microsoft 365](https://www.microsoft.com/en-us/microsoft-365/business/copilot-for-microsoft-365)
 * [Small Business](https://www.microsoft.com/en-us/store/b/business?icid=CNavBusinessStore)
 
 Developer & IT
