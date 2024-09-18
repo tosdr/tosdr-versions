@@ -272,6 +272,10 @@ Menu [![logo](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lo
 
 [How to Plan, Organize, and Execute a Convoy](https://www.artofmanliness.com/skills/manly-know-how/how-to-plan-execute-convoy/)
 
+[![](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/skills/outdoor-survival/7-ways-to-help-your-kids-enjoy-hiking/)
+
+[7 Ways to Help Your Kids Enjoy Hiking](https://www.artofmanliness.com/skills/outdoor-survival/7-ways-to-help-your-kids-enjoy-hiking/)
+
 [![Person standing with hands on hips, facing tall pine trees in a foggy forest, contemplating survival tips.](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/skills/outdoor-survival/what-to-do-if-you-get-lost-in-the-wild/)
 
 [What to Do If You Get Lost in the Wild](https://www.artofmanliness.com/skills/outdoor-survival/what-to-do-if-you-get-lost-in-the-wild/)
@@ -283,10 +287,6 @@ Menu [![logo](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lo
 [![How to survive a plunge in a pool.](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/skills/outdoor-survival/how-to-survive-a-plunge-down-a-waterfall/)
 
 [Skill of the Week: Survive a Plunge Down a Waterfall](https://www.artofmanliness.com/skills/outdoor-survival/how-to-survive-a-plunge-down-a-waterfall/)
-
-[![A person crouching on the grass is packing camping food into a large blue bag. Various objects are scattered nearby, showcasing their camping skill to keep animals out of their supplies.](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/skills/outdoor-survival/hang-camping-food/)
-
-[Skill of the Week: Keep Animals Out of Your Camping Food](https://www.artofmanliness.com/skills/outdoor-survival/hang-camping-food/)
 
 [Browse all Get Skilled](https://www.artofmanliness.com/skills/)
 
