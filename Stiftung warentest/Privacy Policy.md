@@ -811,19 +811,19 @@ Neueste Tests
 
 * [Fonds und ETF im Vergleich: Hier finden Sie die besten Fonds für Ihr Portfolio](https://www.test.de/Fonds-im-Test-Fuenf-Punkte-fuer-die-Besten-4331006-0/ "Fonds und ETF im Vergleich - Hier finden Sie die besten Fonds für Ihr Portfolio")
 * [Nach­haltige Fonds und ETF: Warum wir grüne Fonds jetzt strenger testen](https://www.test.de/nachhaltige-fonds-etf-test-4741500-0/ "Nachhaltige Fonds und ETF - Warum wir grüne Fonds jetzt strenger testen")
+* [Wohn­gebäude­versicherung im Vergleich: Tarife teuer und oft mangelhaft – so schützen Sie Ihr Haus gut und günstig](https://www.test.de/Wohngebaeudeversicherung-Vergleich-4255878-0/ "Wohngebäudeversicherung im Vergleich - Tarife teuer und oft mangelhaft – so schützen Sie Ihr Haus gut und günstig")
 * [Tiefkühlpizza im Test: Italien für zu Hause](https://www.test.de/tiefkuehlpizza-salami-im-test-4830454-0/ "Tiefkühlpizza im Test - Italien für zu Hause")
 * [Körperfett­waagen im Test: Einige leisten sich fette Mess­fehler](https://www.test.de/koerperfettwaage-test-4645874-0/ "Körperfettwaagen im Test - Einige leisten sich fette Messfehler")
 * [Fernseher im Test: Gutes Bild und guter Ton – geht günstig](https://www.test.de/Fernseher-im-Test-1629201-0/ "Fernseher im Test - Gutes Bild und guter Ton – geht günstig")
-* [Kreditkarten im Vergleich: Mit dieser Kreditkarte liegen Sie richtig](https://www.test.de/Kreditkarten-im-Vergleich-5238561-0/ "Kreditkarten im Vergleich - Mit dieser Kreditkarte liegen Sie richtig")
 
 test.de entdecken
 
-* [Wasch­trockner im Test: Waschen und trocknen in einem](https://www.test.de/Waschtrockner-im-Test-Waschen-und-trocknen-in-einem-6047701-0/ "Waschtrockner im Test - Waschen und trocknen in einem")
-* [MSCI World ETF: Welt­index zurück nach Schwächephase](https://www.test.de/MSCI-World-ETF-Weltindex-zurueck-nach-Schwaechephase-6064539-0/ "MSCI World ETF - Weltindex zurück nach Schwächephase")
-* [Kinder­roller im Test: Sieben sind echte Rock‘n Roller](https://www.test.de/Kinderroller-im-Test-5936182-0/ "Kinderroller im Test - Sieben sind echte Rock‘n Roller")
-* [Linsen- und Kicher­erbsen-Chips im Test: Leichte Konkurrenz für Kartoffel­chips](https://www.test.de/Linsen-und-Kicherbsen-Chips-im-Test-5959980-0/ "Linsen- und Kichererbsen-Chips im Test - Leichte Konkurrenz für Kartoffelchips")
-* [Dubioses Fest­geld: Webseite Zinsbox ist unseriös](https://www.test.de/Dubioses-Festgeld-Webseite-Zinsbox-ist-unserioes-6149417-0/ "Dubioses Festgeld - Webseite Zinsbox ist unseriös")
-* [Gut essen mit der Stiftung Warentest: Klassischer Stollen](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Klassischer-Stollen-5937562-0/ "Gut essen mit der Stiftung Warentest - Klassischer Stollen")
+* [Gewicht halten: So vermeiden Sie den Jojo-Effekt](https://www.test.de/jojo-effekt-vermeiden-6072389-0/ "Gewicht halten - So vermeiden Sie den Jojo-Effekt")
+* [Verpackungs­ärger: Ceramide Capsules von Elisabeth Arden](https://www.test.de/Verpackungsaerger-Ceramide-Capsules-von-Elisabeth-Arden-6073348-0/ "Verpackungsärger - Ceramide Capsules von Elisabeth Arden")
+* [Krypto-Broker im Vergleich: Wo es Bitcoin billiger gibt](https://www.test.de/Kryptowaehrungen-kaufen-Krypto-Broker-im-Vergleich-5926645-0/ "Krypto-Broker im Vergleich - Wo es Bitcoin billiger gibt")
+* [Resilienz in Krisen­zeiten: Wie Sie lernen, gelassen zu bleiben](https://www.test.de/Resilienz-in-Krisenzeiten-Wie-Sie-lernen-gelassen-zu-bleiben-5936282-0/ "Resilienz in Krisenzeiten - Wie Sie lernen, gelassen zu bleiben")
+* [Haferdrink-Pulver im Schnell­test: Hafermilch zum Anrühren − bringts das?](https://www.test.de/Haferdrink-Pulver-im-Test-6128130-0/ "Haferdrink-Pulver im Schnelltest - Hafermilch zum Anrühren − bringts das?")
+* [Gehör schützen: Laut­stärke des Kopf­hörers begrenzen – so geht‘s](https://www.test.de/Gehoer-schuetzen-Lautstaerke-des-Kopfhoerers-begrenzen-so-gehts-6104614-0/ "Gehör schützen - Lautstärke des Kopfhörers begrenzen – so geht‘s")
 
 Fußbereich
 
@@ -3856,19 +3856,19 @@ Neueste Tests
 
 * [Fonds und ETF im Vergleich: Hier finden Sie die besten Fonds für Ihr Portfolio](https://www.test.de/Fonds-im-Test-Fuenf-Punkte-fuer-die-Besten-4331006-0/ "Fonds und ETF im Vergleich - Hier finden Sie die besten Fonds für Ihr Portfolio")
 * [Nach­haltige Fonds und ETF: Warum wir grüne Fonds jetzt strenger testen](https://www.test.de/nachhaltige-fonds-etf-test-4741500-0/ "Nachhaltige Fonds und ETF - Warum wir grüne Fonds jetzt strenger testen")
+* [Wohn­gebäude­versicherung im Vergleich: Tarife teuer und oft mangelhaft – so schützen Sie Ihr Haus gut und günstig](https://www.test.de/Wohngebaeudeversicherung-Vergleich-4255878-0/ "Wohngebäudeversicherung im Vergleich - Tarife teuer und oft mangelhaft – so schützen Sie Ihr Haus gut und günstig")
 * [Tiefkühlpizza im Test: Italien für zu Hause](https://www.test.de/tiefkuehlpizza-salami-im-test-4830454-0/ "Tiefkühlpizza im Test - Italien für zu Hause")
 * [Körperfett­waagen im Test: Einige leisten sich fette Mess­fehler](https://www.test.de/koerperfettwaage-test-4645874-0/ "Körperfettwaagen im Test - Einige leisten sich fette Messfehler")
 * [Fernseher im Test: Gutes Bild und guter Ton – geht günstig](https://www.test.de/Fernseher-im-Test-1629201-0/ "Fernseher im Test - Gutes Bild und guter Ton – geht günstig")
-* [Kreditkarten im Vergleich: Mit dieser Kreditkarte liegen Sie richtig](https://www.test.de/Kreditkarten-im-Vergleich-5238561-0/ "Kreditkarten im Vergleich - Mit dieser Kreditkarte liegen Sie richtig")
 
 test.de entdecken
 
-* [Wasch­trockner im Test: Waschen und trocknen in einem](https://www.test.de/Waschtrockner-im-Test-Waschen-und-trocknen-in-einem-6047701-0/ "Waschtrockner im Test - Waschen und trocknen in einem")
-* [MSCI World ETF: Welt­index zurück nach Schwächephase](https://www.test.de/MSCI-World-ETF-Weltindex-zurueck-nach-Schwaechephase-6064539-0/ "MSCI World ETF - Weltindex zurück nach Schwächephase")
-* [Kinder­roller im Test: Sieben sind echte Rock‘n Roller](https://www.test.de/Kinderroller-im-Test-5936182-0/ "Kinderroller im Test - Sieben sind echte Rock‘n Roller")
-* [Linsen- und Kicher­erbsen-Chips im Test: Leichte Konkurrenz für Kartoffel­chips](https://www.test.de/Linsen-und-Kicherbsen-Chips-im-Test-5959980-0/ "Linsen- und Kichererbsen-Chips im Test - Leichte Konkurrenz für Kartoffelchips")
-* [Dubioses Fest­geld: Webseite Zinsbox ist unseriös](https://www.test.de/Dubioses-Festgeld-Webseite-Zinsbox-ist-unserioes-6149417-0/ "Dubioses Festgeld - Webseite Zinsbox ist unseriös")
-* [Gut essen mit der Stiftung Warentest: Klassischer Stollen](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Klassischer-Stollen-5937562-0/ "Gut essen mit der Stiftung Warentest - Klassischer Stollen")
+* [Gewicht halten: So vermeiden Sie den Jojo-Effekt](https://www.test.de/jojo-effekt-vermeiden-6072389-0/ "Gewicht halten - So vermeiden Sie den Jojo-Effekt")
+* [Verpackungs­ärger: Ceramide Capsules von Elisabeth Arden](https://www.test.de/Verpackungsaerger-Ceramide-Capsules-von-Elisabeth-Arden-6073348-0/ "Verpackungsärger - Ceramide Capsules von Elisabeth Arden")
+* [Krypto-Broker im Vergleich: Wo es Bitcoin billiger gibt](https://www.test.de/Kryptowaehrungen-kaufen-Krypto-Broker-im-Vergleich-5926645-0/ "Krypto-Broker im Vergleich - Wo es Bitcoin billiger gibt")
+* [Resilienz in Krisen­zeiten: Wie Sie lernen, gelassen zu bleiben](https://www.test.de/Resilienz-in-Krisenzeiten-Wie-Sie-lernen-gelassen-zu-bleiben-5936282-0/ "Resilienz in Krisenzeiten - Wie Sie lernen, gelassen zu bleiben")
+* [Haferdrink-Pulver im Schnell­test: Hafermilch zum Anrühren − bringts das?](https://www.test.de/Haferdrink-Pulver-im-Test-6128130-0/ "Haferdrink-Pulver im Schnelltest - Hafermilch zum Anrühren − bringts das?")
+* [Gehör schützen: Laut­stärke des Kopf­hörers begrenzen – so geht‘s](https://www.test.de/Gehoer-schuetzen-Lautstaerke-des-Kopfhoerers-begrenzen-so-gehts-6104614-0/ "Gehör schützen - Lautstärke des Kopfhörers begrenzen – so geht‘s")
 
 Weitere spannende Themen
 
@@ -3876,37 +3876,37 @@ Neueste Tests
 
 * [Fonds und ETF im Vergleich: Hier finden Sie die besten Fonds für Ihr Portfolio](https://www.test.de/Fonds-im-Test-Fuenf-Punkte-fuer-die-Besten-4331006-0/ "Fonds und ETF im Vergleich - Hier finden Sie die besten Fonds für Ihr Portfolio")
 * [Nach­haltige Fonds und ETF: Warum wir grüne Fonds jetzt strenger testen](https://www.test.de/nachhaltige-fonds-etf-test-4741500-0/ "Nachhaltige Fonds und ETF - Warum wir grüne Fonds jetzt strenger testen")
+* [Wohn­gebäude­versicherung im Vergleich: Tarife teuer und oft mangelhaft – so schützen Sie Ihr Haus gut und günstig](https://www.test.de/Wohngebaeudeversicherung-Vergleich-4255878-0/ "Wohngebäudeversicherung im Vergleich - Tarife teuer und oft mangelhaft – so schützen Sie Ihr Haus gut und günstig")
 * [Tiefkühlpizza im Test: Italien für zu Hause](https://www.test.de/tiefkuehlpizza-salami-im-test-4830454-0/ "Tiefkühlpizza im Test - Italien für zu Hause")
 * [Körperfett­waagen im Test: Einige leisten sich fette Mess­fehler](https://www.test.de/koerperfettwaage-test-4645874-0/ "Körperfettwaagen im Test - Einige leisten sich fette Messfehler")
 * [Fernseher im Test: Gutes Bild und guter Ton – geht günstig](https://www.test.de/Fernseher-im-Test-1629201-0/ "Fernseher im Test - Gutes Bild und guter Ton – geht günstig")
-* [Kreditkarten im Vergleich: Mit dieser Kreditkarte liegen Sie richtig](https://www.test.de/Kreditkarten-im-Vergleich-5238561-0/ "Kreditkarten im Vergleich - Mit dieser Kreditkarte liegen Sie richtig")
 
 test.de entdecken
 
-* [Wasch­trockner im Test: Waschen und trocknen in einem](https://www.test.de/Waschtrockner-im-Test-Waschen-und-trocknen-in-einem-6047701-0/ "Waschtrockner im Test - Waschen und trocknen in einem")
-* [MSCI World ETF: Welt­index zurück nach Schwächephase](https://www.test.de/MSCI-World-ETF-Weltindex-zurueck-nach-Schwaechephase-6064539-0/ "MSCI World ETF - Weltindex zurück nach Schwächephase")
-* [Kinder­roller im Test: Sieben sind echte Rock‘n Roller](https://www.test.de/Kinderroller-im-Test-5936182-0/ "Kinderroller im Test - Sieben sind echte Rock‘n Roller")
-* [Linsen- und Kicher­erbsen-Chips im Test: Leichte Konkurrenz für Kartoffel­chips](https://www.test.de/Linsen-und-Kicherbsen-Chips-im-Test-5959980-0/ "Linsen- und Kichererbsen-Chips im Test - Leichte Konkurrenz für Kartoffelchips")
-* [Dubioses Fest­geld: Webseite Zinsbox ist unseriös](https://www.test.de/Dubioses-Festgeld-Webseite-Zinsbox-ist-unserioes-6149417-0/ "Dubioses Festgeld - Webseite Zinsbox ist unseriös")
-* [Gut essen mit der Stiftung Warentest: Klassischer Stollen](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Klassischer-Stollen-5937562-0/ "Gut essen mit der Stiftung Warentest - Klassischer Stollen")
+* [Gewicht halten: So vermeiden Sie den Jojo-Effekt](https://www.test.de/jojo-effekt-vermeiden-6072389-0/ "Gewicht halten - So vermeiden Sie den Jojo-Effekt")
+* [Verpackungs­ärger: Ceramide Capsules von Elisabeth Arden](https://www.test.de/Verpackungsaerger-Ceramide-Capsules-von-Elisabeth-Arden-6073348-0/ "Verpackungsärger - Ceramide Capsules von Elisabeth Arden")
+* [Krypto-Broker im Vergleich: Wo es Bitcoin billiger gibt](https://www.test.de/Kryptowaehrungen-kaufen-Krypto-Broker-im-Vergleich-5926645-0/ "Krypto-Broker im Vergleich - Wo es Bitcoin billiger gibt")
+* [Resilienz in Krisen­zeiten: Wie Sie lernen, gelassen zu bleiben](https://www.test.de/Resilienz-in-Krisenzeiten-Wie-Sie-lernen-gelassen-zu-bleiben-5936282-0/ "Resilienz in Krisenzeiten - Wie Sie lernen, gelassen zu bleiben")
+* [Haferdrink-Pulver im Schnell­test: Hafermilch zum Anrühren − bringts das?](https://www.test.de/Haferdrink-Pulver-im-Test-6128130-0/ "Haferdrink-Pulver im Schnelltest - Hafermilch zum Anrühren − bringts das?")
+* [Gehör schützen: Laut­stärke des Kopf­hörers begrenzen – so geht‘s](https://www.test.de/Gehoer-schuetzen-Lautstaerke-des-Kopfhoerers-begrenzen-so-gehts-6104614-0/ "Gehör schützen - Lautstärke des Kopfhörers begrenzen – so geht‘s")
 
 Neueste Tests
 
 * [Fonds und ETF im Vergleich: Hier finden Sie die besten Fonds für Ihr Portfolio](https://www.test.de/Fonds-im-Test-Fuenf-Punkte-fuer-die-Besten-4331006-0/ "Fonds und ETF im Vergleich - Hier finden Sie die besten Fonds für Ihr Portfolio")
 * [Nach­haltige Fonds und ETF: Warum wir grüne Fonds jetzt strenger testen](https://www.test.de/nachhaltige-fonds-etf-test-4741500-0/ "Nachhaltige Fonds und ETF - Warum wir grüne Fonds jetzt strenger testen")
+* [Wohn­gebäude­versicherung im Vergleich: Tarife teuer und oft mangelhaft – so schützen Sie Ihr Haus gut und günstig](https://www.test.de/Wohngebaeudeversicherung-Vergleich-4255878-0/ "Wohngebäudeversicherung im Vergleich - Tarife teuer und oft mangelhaft – so schützen Sie Ihr Haus gut und günstig")
 * [Tiefkühlpizza im Test: Italien für zu Hause](https://www.test.de/tiefkuehlpizza-salami-im-test-4830454-0/ "Tiefkühlpizza im Test - Italien für zu Hause")
 * [Körperfett­waagen im Test: Einige leisten sich fette Mess­fehler](https://www.test.de/koerperfettwaage-test-4645874-0/ "Körperfettwaagen im Test - Einige leisten sich fette Messfehler")
 * [Fernseher im Test: Gutes Bild und guter Ton – geht günstig](https://www.test.de/Fernseher-im-Test-1629201-0/ "Fernseher im Test - Gutes Bild und guter Ton – geht günstig")
-* [Kreditkarten im Vergleich: Mit dieser Kreditkarte liegen Sie richtig](https://www.test.de/Kreditkarten-im-Vergleich-5238561-0/ "Kreditkarten im Vergleich - Mit dieser Kreditkarte liegen Sie richtig")
 
 test.de entdecken
 
-* [Wasch­trockner im Test: Waschen und trocknen in einem](https://www.test.de/Waschtrockner-im-Test-Waschen-und-trocknen-in-einem-6047701-0/ "Waschtrockner im Test - Waschen und trocknen in einem")
-* [MSCI World ETF: Welt­index zurück nach Schwächephase](https://www.test.de/MSCI-World-ETF-Weltindex-zurueck-nach-Schwaechephase-6064539-0/ "MSCI World ETF - Weltindex zurück nach Schwächephase")
-* [Kinder­roller im Test: Sieben sind echte Rock‘n Roller](https://www.test.de/Kinderroller-im-Test-5936182-0/ "Kinderroller im Test - Sieben sind echte Rock‘n Roller")
-* [Linsen- und Kicher­erbsen-Chips im Test: Leichte Konkurrenz für Kartoffel­chips](https://www.test.de/Linsen-und-Kicherbsen-Chips-im-Test-5959980-0/ "Linsen- und Kichererbsen-Chips im Test - Leichte Konkurrenz für Kartoffelchips")
-* [Dubioses Fest­geld: Webseite Zinsbox ist unseriös](https://www.test.de/Dubioses-Festgeld-Webseite-Zinsbox-ist-unserioes-6149417-0/ "Dubioses Festgeld - Webseite Zinsbox ist unseriös")
-* [Gut essen mit der Stiftung Warentest: Klassischer Stollen](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Klassischer-Stollen-5937562-0/ "Gut essen mit der Stiftung Warentest - Klassischer Stollen")
+* [Gewicht halten: So vermeiden Sie den Jojo-Effekt](https://www.test.de/jojo-effekt-vermeiden-6072389-0/ "Gewicht halten - So vermeiden Sie den Jojo-Effekt")
+* [Verpackungs­ärger: Ceramide Capsules von Elisabeth Arden](https://www.test.de/Verpackungsaerger-Ceramide-Capsules-von-Elisabeth-Arden-6073348-0/ "Verpackungsärger - Ceramide Capsules von Elisabeth Arden")
+* [Krypto-Broker im Vergleich: Wo es Bitcoin billiger gibt](https://www.test.de/Kryptowaehrungen-kaufen-Krypto-Broker-im-Vergleich-5926645-0/ "Krypto-Broker im Vergleich - Wo es Bitcoin billiger gibt")
+* [Resilienz in Krisen­zeiten: Wie Sie lernen, gelassen zu bleiben](https://www.test.de/Resilienz-in-Krisenzeiten-Wie-Sie-lernen-gelassen-zu-bleiben-5936282-0/ "Resilienz in Krisenzeiten - Wie Sie lernen, gelassen zu bleiben")
+* [Haferdrink-Pulver im Schnell­test: Hafermilch zum Anrühren − bringts das?](https://www.test.de/Haferdrink-Pulver-im-Test-6128130-0/ "Haferdrink-Pulver im Schnelltest - Hafermilch zum Anrühren − bringts das?")
+* [Gehör schützen: Laut­stärke des Kopf­hörers begrenzen – so geht‘s](https://www.test.de/Gehoer-schuetzen-Lautstaerke-des-Kopfhoerers-begrenzen-so-gehts-6104614-0/ "Gehör schützen - Lautstärke des Kopfhörers begrenzen – so geht‘s")
 
 Service Stiftung Warentest
 
