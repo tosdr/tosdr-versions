@@ -39,135 +39,94 @@ M
 * [EVENTS](https://familypromise.org/events/)
 * [DONATE](https://familypromise.org/donate/)
 
-The **Website Privacy Policy** and **Donor Privacy Policy** applicable to the Family Promise, Inc. (the “organization” or “FP”) websites are provided below. If you object to any of the terms of the Website Privacy Policy or the Donor Privacy Policy, please do not use the FP websites.
+### **PRIVACY POLICY** **Last Updated: 9.10.24**
 
-* * The Website Privacy Policy governs all interactions and communications made by visitors to the organization’s website, except where superseded by the Donor Privacy Policy.
-    * The Donor Privacy Policy governs all interactions and communications made through the organization’s website in the process of making a donation through the organization’s website as well as all donations made through offline means. 
+We at Family Promise, Inc.  (“Family Promise” “we,” “us,” or “our”) have created this privacy policy (this “Privacy Policy”) because we know that you care about how information you provide to us is used and shared. This privacy policy relates to the information collection and use practices of Family Promise in connection with our website located at  [www.familypromise.org](http://www.familypromise.org/) (the “Website”), services that are made available through the Website (the “Services”), or when you interact with us in any other way. 
 
-**Website Privacy Policy  
-**The following Privacy Policy applies to information collected at [www.familypromise.org](http://www.familypromise.org/) and FP-affiliated websites featuring this Privacy Policy.
+By visiting the Website, accessing and/or using our Services, you acknowledge that you have read, understood and agree to be legally bound by the terms of this Privacy Policy and the accompanying Terms of Use.  
 
-**Information Collected  
-**For each visitor to this website, our web servers may automatically recognize and collect non-personally-identifiable information, such as in-bound domain names, your computer’s IP address, the type of browser in use and pages viewed. This data tells us which pages our users visit and what information they volunteer, such as survey information and/or site registrations.
+Capitalized terms not defined in this Privacy Policy shall have the meaning set forth in our [Terms of Use](https://familypromise.org/terms-of-use/).
 
-We only collect personally-identifiable information about you when you voluntarily submit such information to us, for example by signing up for the FP newsletter, by making a donation or by submitting information through our “Contact Us” webpage. Depending on the service you choose and the reason you are contacting us, the personally-identifiable information collected includes, but is not limited to, your name, email address, address, phone number, payment details, organizational affiliation and similar or related information (“Personal Information”).
+Capitalized terms not defined in this Privacy Policy shall have the meaning set forth in our Terms of Use.  
 
-**Use of Information  
-**Any Personal Information we collect is used only for internal review, to improve our web content, to optimize your web experience and, in some cases, to customize the content and/or layout of select pages.
+          **I. The Information We Collect and/or Receive**
 
-We will only use Personal Information you provide to us (and disclose it to third parties) for the purpose for which it was provided, for example:
+In the course of operating the Website, providing the Services, and/or interacting with you, we will collect (and/or receive) the following types of information. You authorize us to collect and/or receive such information.
 
-* * to periodically alert you to FP news and events;
-    * to respond to inquiries;
-    * to process donations and purchases;
-    * to provide you with and improve our services to you;
-    * to facilitate contact between you and our local affiliates at your request; and
-    * in the course of fundraising activities.
+**1\. Contact Information  
+**When you contact us using the “Contact Us” feature of the Website, including but not limited to, become our partner, email or in any other manner, when you call us, or when you sign up to receive our newsletter, you will be asked to provide certain information, such as your name, e-mail address, and phone number and any other information you are contacting us about (collectively, “Contact Information”). The Contact Information is used to provide the requested service or information and to contact you for purposes of direct marketing of our current and future services.
 
-We do not share your Personal Information with any third parties without your consent, except under the following circumstances:
+**2\. Volunteer Information  
+**When you sign up to become a volunteer, you will be asked to provide certain information, including but not limited to, your name, email address, phone number, organization name (optional), organization zip code (optional) and any other information you would like to provide (collectively, the “Volunteer Information”). We will use Volunteer Information to determine whether you are a good fit for our organization and to contact you about the applicable volunteer opportunities.
 
-* * as set forth above;
-    * in response to a subpoena or when we are required to do so by applicable laws or regulations, for example, in response to a court order or other legal obligation;
-    * in response to a law enforcement agency’s request;
-    * to protect the security or confidentiality of our records;
-    * in special cases when we have reason to believe that disclosing this information is necessary to prevent actual or potential fraud or to identify, contact or bring legal action against someone who may be causing injury to or interference with our rights;
-    * in the event FP goes through a reorganization (e.g., a merger into another organization), in which case you will be notified via a prominent notice on the website of any such transfer of your Personal Information;
-    * we may engage third parties which are other companies and/or individuals (agents or vendors) to perform functions on our behalf.  Examples may include providing technical assistance, mailing services, donation and purchase processing, and customer service.  These third parties will have access to Personal Information and other information only as necessary to perform their functions and to the extent permitted by law; and
-    * we may share aggregated demographic information with our affiliates and other third parties. This is not linked to any Personal Information that can identify any individual person.
+**3\. Affiliate Community  
+**If you are an affiliate of Family Promise, you can access affiliate community section of our Website with your Affiliate Community Account Credentials.
 
-**Use of Cookies  
-**As of the date of this policy, we do not use cookies to store or collect any Personal Information. We will update this policy in the future, in the event that we may use cookies to record past activity on our website in an effort to provide better and faster service upon your return visits to this website and/or also customize certain web content based on your browser type, bandwidth or other settings to optimize your site experience.
+**4\. Billing Information  
+**In order to make a donation (one-time or recurring), you will be required to provide certain additional information which may include a credit card number, expiration date, billing zip code, activation code, bank information, and similar information (“Billing Information”). Such Billing Information will be collected and processed by our Third Party Payment Processor pursuant to the terms and conditions of their privacy policies and terms of use. Family Process does not directly obtain or process any Billing Information.
 
-There may be “plug-ins” (i.e., third party software components) in the software on our website or our platform that do use cookies. Additionally, we may directly or through third party tracking software or services, collect browser information for their reporting, but not sensitive, personally identifying data, only aggregated data. Our third party payment processor collects cookies from individuals who use its service through our website. Such third party software and services, and our third party vendors may share the information collected with third party advertising networks. This is also non-personally-identifiable information such as the date and time of visits, the pages viewed, IP addresses, links to/from any page and time spent at the site.
+**5\. Other Information  
+**In addition to the Contact Information, Volunteer Information, and Affiliate Community Account Credentials, we may collect or receive the following information (collectively, “Other Information”):
 
-The “help” portion of the toolbar on most browsers will tell you how to stop accepting new cookies, how to be notified when you receive a new cookie, and how to disable existing cookies. Remember, though, without cookies, you may not be able to take full advantage of all our website features.
+* * **From Your Activity.** In an ongoing effort to improve the Website and the Services, we automatically collect certain information when you visit the Website and the Services. This information consists of IP addresses, browser type and language, referring and exit pages and URLs, date and time, amount of time spent on particular pages, what sections of the Website and the Services you visit, and similar information concerning your use of the Website and the Services (“Activity Information”).
+        
+    * **From Cookies.** We also collect Activity Information by using “cookie” technology. Cookies are small packets of data that a website stores on the hard drive of your computer or mobile device to “remember” information about your visit. We may use session cookies (which expire once you close your web browser) and persistent cookies (which stay on your computer/device until you delete them). If you do not want us to place a cookie on your hard drive, you may be able to turn that feature off on your computer or mobile device. Please consult your Internet browser’s documentation for information on how to do this and how to delete persistent cookies. However, if you decide not to accept cookies from us, the Website and the Services may not function properly  
+          
+        
+    * **Third-Party Analytics.** We may use one or more third–party analytics services to evaluate your use of the Website and the Services, compile reports on activity (based on their collection of IP addresses, Internet service provider, browser type, operating system and language, referring and exit pages and URLs, data and time, amount of time spent on particular pages, what sections of the Website you visit, number of links clicked while on the Website and the Services, search terms and other similar usage data), and analyze performance metrics. These third parties use cookies and other technologies to help analyze and provide us the data. By accessing and using the Website and/or the Services, you consent to the processing of data about you by these analytics providers in the manner and for the purposes set out in this Privacy Policy. For more information on these third parties, including how to opt out from certain data collection, please visit [](https://www.google.com/analytics)[the](https://www.google.com/analytics) sites below. Please be advised that if you opt out of any service, you may not be able to use the full functionality of the Website and the Services.
+        
+        For Google Analytics, please visit: [https://www.google.com/analytics](https://www.google.com/analytics)   
+        For MonsterInsights, place visit: [https://www.monsterinsights.com/](https://www.monsterinsights.com/)
+        
 
-**Orders  
-**We request information from you on our order form or when you buy something through the online store on our website. To buy from us, you must provide contact information (like name and shipping address) and financial information (like credit card number, expiration date). This information is used for billing purposes and to fill your orders. If we have trouble processing an order, we’ll use this information to contact you.
+**How We Use and Share Your Information** 
 
-**Use of IP Addresses  
-**We may use your IP address to help diagnose problems with our server and to administer our website.
+You authorize us to use the Contact Information, Volunteer Information, Affiliate Community Account Credentials, and Other Information (collectively, the “Information“) to provide our Website and Services, to you, solicit your feedback, inform you about our Services and those of our third-party marketing partners, and to improve the Website and Services. Also, we may use and share the Information as described below.
 
-**Security  
-**This site incorporates reasonable and appropriate safeguards using industry standard technology to heighten the security, accuracy and privacy of any Personal Information we have collected, and we have put in place reasonable precautions to protect information from loss and misuse. Our security and privacy policies are periodically reviewed and enhanced as required.
+* * _Agents, Providers and Related Third Parties__._ We may engage other companies and individuals to perform certain business-related functions on our behalf. Examples may include providing technical assistance, order fulfillment, customer service, and marketing assistance. These other companies will have access to the Information only as necessary to perform their functions and to the extent permitted by law. We may also share your Information with any of our parent companies, affiliates, subsidiaries, or other companies under common control with us.
+        
+    * _Aggregated Information__._ In an ongoing effort to better understand users of the Website and Services, we may analyze the Information in aggregate form in order to operate, maintain, manage, and improve the Website and Services. This aggregate information does not identify you personally. We may use this aggregate information for marketing purposes. We may share this aggregate information with our affiliates, agents, business and business partners, and other third parties. We may also disclose aggregated user statistics in order to describe the Website and Services to current and prospective business partners and to other third parties for other lawful purposes.
+        
+    * _Business Transfers__._ As we develop our businesses, we might sell or buy businesses or assets. In the event of a corporate sale, merger, reorganization, sale of assets, dissolution, or similar event, the Information may be part of the transferred assets.
+        
+    * _Legal Requirements__._ To the extent permitted by law, we may also disclose the Information: (i) when required by law, court order, or other government or law enforcement authority or regulatory agency; or (ii) whenever we believe that disclosing such Information is necessary or advisable, for example, to protect the rights, property, or safety of Family Promise or others.
 
-**Linked Websites  
-**Our website contains links to other websites. We are not responsible for the privacy practices or the content of such websites.
+**Accessing and Modifying Personal Information and Communication Preferences  
+**You may access, review, and make changes to your personal information by contacting us at [info@familypromise.org](mailto:info@familypromise.org). In addition, you may manage your receipt of marketing and non-transactional communications by clicking on the “unsubscribe” link located on the bottom of any Family Promise marketing email. We will use commercially reasonable efforts to process such requests in a timely manner. You should be aware, however, that it is not always possible to completely remove or modify information in our subscription databases.
 
-**Children’s Privacy  
-**We recognize the importance of protecting the privacy of children on the web and will never collect or maintain information at our website from those we actually know are under 13 years old. No part of our website is directed at children under the age of 13, and we do not knowingly collect Personal Information from children under age 13. If we discover that a person under the age of 13 has provided us with any Personal Information, we will delete that information from our systems. We do not reply to information requests from children under the age of 13, if so identified. A parent or guardian must initiate any requests for information from children under the age of 13 on their behalf. We encourage parents to supervise children when they browse the internet.
+**How We Protect Your Information  
+**Family Promise takes commercially reasonable security measures to protect your Information from loss, misuse, and unauthorized access, disclosure, alteration, and destruction, taking into account the risks involved in processing and the nature of such data, and in compliance with applicable laws and regulations.  You should keep in mind, however, that no Internet transmission is 100% secure or error-free.  In particular, e-mail sent to or from the Website may not be secure, and you should therefore take special care in deciding what information you send to us via e-mail or other electronic means.
 
-**Update Personal Information and Communications Preferences  
-**If you wish to update your Personal Information with us or change your communications preferences or if you no longer wish to receive communications from us, please tell us so by email, phone or written letter. Please include your exact name and contact details so that we can correctly remove you from our mailing list. Our mailing address is:
+**Links to Third-Party Sites  
+**The Website and the Services may contain links to third-party websites (“External Sites”).  These links are provided solely as a convenience to you and not as an endorsement by us of the content on such External Sites.  The content of such External Sites is developed and provided by others.  You should contact the Website administrator or webmaster for those External Sites if you have any concerns regarding such links or any content located on such External Sites.  We are not responsible for the content of any linked External Sites and do not make any representations regarding the content or accuracy of materials on such External Sites.  You should take precautions when downloading files from all websites to protect your computer from viruses and other destructive programs.  If you decide to access linked External Sites, you do so at your own risk.
 
-Family Promise  
-71 Summit Ave.  
-Summit, NJ 07901
+**Important Notice to All Non-U.S. Residents  
+**Our Website, Services and servers are located in the United States. If you are located outside of the United States, please be aware that any information you provide to us maybe transferred to, processed, maintained, and used on computers, servers, and systems located outside of your state, province, country, or other governmental jurisdiction where the privacy laws may not be as protective as those in your jurisdiction. If you are located outside the United States and choose to use our Website and/ot Services, you consent to any transfer and processing of your personal information in accordance with this Privacy Policy and you do so at your own risk.
 
-We can be reached via email at [development@familypromise.org](mailto:development@familypromise.org) or by telephone at (908) 273-1100.
+**DO NOT TRACK  
+**We currently do not change our tracking practices in response to “do not track” settings in your browser. We may have our third-party partners, including web analytics companies, collect information about your online activities over time and across the Website and the Services. These third parties may not change their tracking practices in response to DNT settings in your browser.
+
+**Nevada Privacy Rights  
+**If you are a resident of Nevada, you have the right to opt-out of the sale of certain personal information to third parties. You can exercise this right by contacting us at [info@familypromise.org](mailto:info@familypromise.org) with the subject line “Nevada Do Not Sell Request” and providing us with your name and the email address associated with your account. Please note that we do not currently sell your personal information as sales are defined in Nevada Revised Statutes Chapter 603A.
+
+**About Children  
+**Family Promise does not knowingly collect or receive personal information from children under the age of 18 through the Website and the Services.  If you are under the age of 13, please do not provide any personal information through the Website and the Services. We encourage parents and legal guardians to monitor their children’s Internet usage and to help enforce this Privacy Policy by instructing their children to never provide any personal information on the Website, the Services, or any other web site without their permission.  If you have reason to believe that a child under the age of 13 has provided personal information to Family Promise through the Website and/or the Services, please contact us at [info@familypromise.org](mailto:info@familypromise.org), and we will endeavor to delete that information from our databases.
 
 **Changes to this Privacy Policy  
-**We reserve the right to modify or supplement this policy at any time. If a material change to this policy is made, we will post a notice on the home page, and any changes to the policy will be posted on this page.
+**This Privacy Policy is effective as of the date stated at the top of this Privacy Policy.  We may change this Privacy Policy from time to time, and will post any changes on the Website as soon as they go into effect.  By visiting the Website and/or accessing and/or using the Services after we make any such changes to this Privacy Policy, you are deemed to have accepted such changes.  Please refer back to this Privacy Policy on a regular basis.
 
-**Questions  
-**If you have any questions or concerns about our privacy statement, the practices of this site, or the use of your Personal Information, please contact us by email at[development@familypromise.org](mailto:development@familypromise.org) or by telephone at (908) 273-1100.
+**Contact Us  
+**If you have any questions about this Privacy Policy or to report a privacy issue, please contact us in one of the following ways:
 
-**Donor Privacy Policy  
-**Thank you for visiting Family Promise (FP) online at [www.familypromise.org](http://www.familypromise.org/). We respect your privacy and are committed to protecting your Personal Information.
+Email: [info@familypromise.org](mailto:info@familypromise.org)
 
-Our Donor Privacy Policy applies to all information received by Family Promise, both online and offline, on any Platform (“Platform”, includes the Family Promise website and mobile applications), as well as any electronic, written, or oral communications. This policy applies to each Family Promise donor, whether donating through our website (our “website” means [www.familypromise.org](http://www.familypromise.org/) and FP-affiliated websites featuring this Privacy Policy) or through other, offline means (each such individual is a “donor”).
+Telephone: 908-273-1100
 
-The Donor Privacy Policy does not apply to users of our website who are not donors. The Donor Privacy Policy applies only with respect to a donor’s donation activity on our website, and in addition to the Website Privacy Policy; the Website Privacy Policy applies to any other use of our website by the donor or other users. In the event of any inconsistency or ambiguity between the Donor Privacy Policy below and the Website Privacy Policy above, the terms of the Donor Privacy Policy shall control with respect to information obtained in the course of a donor’s donation activity.
+Or write to us at:
 
-We will not sell, rent or trade our donors’ names or Personal Information with any other entity, nor send mailings to our donors on behalf of other organizations.
-
-By submitting your information to us or any of our staff, you consent to the terms and conditions of the policy and to our processing personal information for the purposes stated below.
-
-**Personal Information  
-**“Personal Information” is information that identifies you personally, such as your name, address, telephone number, email address, credit card data and other payment information. We collect and store the Personal Information that you have provided us in the following ways:
-
-* * When you request information through an email address identified on our website or otherwise contact us in person, by phone, or by email, we may then collect your name, address, telephone number and email in order to respond to your inquiry.
-    * We may collect your name, email address, address, telephone number and other contact information if you register for an event.
-    * We may collect your name, email address, telephone number and credit card data and other payment information when you make a contribution, either on or website, over the phone, in person, or by mailing a check.
-
-The above list is a sample of Personal Information that may be collected by FP. From time to time, we may collect Personal Information in ways not described above.
-
-**Use and Disclosure of Personal Information**
-
-* * We will not sell, rent, or trade your Personal Information, collected on the website, by other means, or through any other business activities with anyone else.
-    * We will not send you mailings on behalf of other organizations.
-    * Except as provided in our Website Privacy Policy and our Donor Privacy Policy, we will only share your Personal Information if you give us specific permission to do so.
-    * We will collect payment information, billing address and other information necessary to process a donation or event registration and to contact you in the event of any difficulty in processing your donation or registration.
-    * We will use your information to comply with the law or in the good faith belief that such action is necessary to conform to the requirements of law or comply with legal process served on us, protect and defend our rights or act in urgent circumstances to protect the personal safety of others.
-    * We will use the Personal Information to protect against potential fraud. We may verify with third parties the information collected in the course of processing a gift, event registration or other donation. If you use a credit card or debit card, we may use card authorization and fraud screening services to verify that your card information and address matches the information that you supplied to us and that the card being used has not been reported lost or stolen.
-    * We may employ other companies and individuals (agents) to perform functions on our behalf. Examples may include providing technical assistance, mailing services, payment processing, and customer service.  These other agents will have access to Personal Information and other information only as necessary to perform their functions and to the extent permitted by law.
-    * We may share aggregated demographic information with our affiliates and other third parties. This is not linked to any Personal Information that can identify any individual person.You have the right to review information that we have collected about you. To review that information, please contact us in writing at Family Promise, 71 Summit Ave., Summit, NJ 07901.
-
-Except as described in this Privacy Policy or at the time we request the information, we do not otherwise disclose your Personal Information to any third parties without your express permission to do so.
-
-**Security  
-**We take precautions to protect your information. When you submit sensitive information via the website, your information is protected both online and offline.
-
-Wherever we (directly or through or our payment processing vendor) collect sensitive Personal Information (such as credit card data), that information is encrypted and transmitted to us in a secure way. You can verify this by looking for a closed lock icon at the bottom of your web browser, or looking for “https” at the beginning of the address of the web page.
-
-While we (directly or through or our payment processing vendor) use encryption to protect sensitive information transmitted online, we also protect your information offline. Only personnel who need the information to perform a specific job (for example, billing or customer service) are granted access to Personal Information. The computers/servers in which we store Personal Information are kept in a secure environment.
-
-**Update Personal Information and Communications Preferences  
-**If you wish to update your Personal Information with us or change your communications preferences or if you no longer wish to receive communications from us, please tell us so by email, phone or written letter. Please include your exact name and contact details so that we can correctly remove you from our mailing list. Our mailing address is:
-
-Family Promise  
+Family Promise, Inc.  
 71 Summit Ave.  
 Summit, NJ 07901
-
-We can be reached via email at [development@familypromise.org](mailto:development@familypromise.org) or by telephone at (908) 273-1100.
-
-**Changes to this Donor Privacy Policy  
-**We reserve the right to modify or supplement this policy at any time. If a material change to this policy is made, we will post a notice on the home page, and any changes to the policy will be posted on this page.
-
-**Questions  
-**If you have any questions or concerns about our privacy statement, the practices of this site, or the use of your Personal Information, or wish to opt out of contact from FP, please contact us by email at [development@familypromise.org](mailto:development@familypromise.org) or by telephone at (908) 273-1100.
-
-_Revised: June 16, 2015_
 
 ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw== "logo-fp-white")
 
