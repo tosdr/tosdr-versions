@@ -15,20 +15,20 @@
     
     [See All](https://www.coolthings.com/gadgets/)
     
+    [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/backup-by-biolite-home-battery-power-simpler-installation/)
+    
+    [Backup by BioLite Offers a Simpler Way to Add Backup Battery Power to Your Home](https://www.coolthings.com/backup-by-biolite-home-battery-power-simpler-installation/)
+    ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+    
+    [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/anker-maggo-usb-c-adapter-sd-card-reader-magsafe-312-mbps-speeds/)
+    
+    [Anker MagGo USB-C Adapter Snaps an SD Card Reader at the Back of Your iPhone](https://www.coolthings.com/anker-maggo-usb-c-adapter-sd-card-reader-magsafe-312-mbps-speeds/)
+    ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+    
     [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/elgato-stream-deck-studio-professional-studio-broadcasts-32-buttons/)
     
     [Elgato Stream Deck Studio Upgrades the Accessory for Professional Studio Broadcasts](https://www.coolthings.com/elgato-stream-deck-studio-professional-studio-broadcasts-32-buttons/)
     --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-    
-    [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/sony-playstation-5-pro-4k-60-fps-gaming-ai-upscaling-advanced-ray-tracing/)
-    
-    [Sony Playstation 5 Pro Brings 4K 60FPS Gaming, AI Upscaling, and More](https://www.coolthings.com/sony-playstation-5-pro-4k-60-fps-gaming-ai-upscaling-advanced-ray-tracing/)
-    ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-    
-    [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/apple-watch-series-10-slimmer-case-biggest-screen-neural-processor-smartwatch/)
-    
-    [Apple Watch Series 10 Debuts the Slimmest Case and the Biggest Screen on Apple’s Wearable Yet](https://www.coolthings.com/apple-watch-series-10-slimmer-case-biggest-screen-neural-processor-smartwatch/)
-    ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
     
 * [GIFTS](http://www.coolthings.com/gifts/)
     
@@ -95,6 +95,11 @@
     
     [See All](https://www.coolthings.com/house/)
     
+    [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/backup-by-biolite-home-battery-power-simpler-installation/)
+    
+    [Backup by BioLite Offers a Simpler Way to Add Backup Battery Power to Your Home](https://www.coolthings.com/backup-by-biolite-home-battery-power-simpler-installation/)
+    ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+    
     [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/the-best-wi-fi-wireless-speakers-to-enjoy-room-filling-sound-in-your-home/)
     
     [The Best Wi-Fi Wireless Speakers to Enjoy Room-Filling Sound in Your Home](https://www.coolthings.com/the-best-wi-fi-wireless-speakers-to-enjoy-room-filling-sound-in-your-home/)
@@ -104,11 +109,6 @@
     
     [The Best Kamado Grills to Bring Versatile, Fuel-Efficient Cooking to Your Backyard](https://www.coolthings.com/the-best-kamado-grills-to-bring-versatile-fuel-efficient-cooking-to-your-backyard/)
     ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-    
-    [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/morphy-richards-ductless-portable-ac-airconditioner-vent-free/)
-    
-    [Morphy Richards Ductless Portable AC Eliminates the Need to Expel Hot Air from the AC](https://www.coolthings.com/morphy-richards-ductless-portable-ac-airconditioner-vent-free/)
-    ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
     
     * [FURNITURE](https://www.coolthings.com/house/furniture/)
     * [KITCHEN](https://www.coolthings.com/kitchen-dining/)
