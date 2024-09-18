@@ -165,7 +165,7 @@ Legal
 Jurisdiction Specific Terms
 ---------------------------
 
-Last Modified: June 4, 2024
+Last Modified: September 18, 2024
 
 PLEASE READ THESE TERMS CAREFULLY.
 
@@ -189,7 +189,8 @@ We periodically update this page by posting a revised copy at [https://legal.hub
 | **United Kingdom** | HubSpot UK Holdings Ltd | HubSpot Ireland Limited, HubSpot House, One Sir John Rogerson's Quay, Dublin 2, Ireland, Attention: Legal, (with copy to HubSpot, Inc.) | Laws of England and Wales | [https://legal.hubspot.com/jst-united-kingdom](https://legal.hubspot.com/jst-united-kingdom) |
 | **Australia or New Zealand** | HubSpot Australia Pty Ltd | HubSpot, Inc., Two Canal Park, Cambridge, MA 02141, U.S.A., Attention: General Counsel | Laws of the state of New South Wales, Australia | [https://legal.hubspot.com/jst-australia](https://legal.hubspot.com/jst-australia) |
 | **Japan** | HubSpot Japan KK | HubSpot, Inc., Two Canal Park, Cambridge, MA 02141, U.S.A., Attention: General Counsel | Laws of Japan | [https://legal.hubspot.com/jst-japan](https://legal.hubspot.com/jst-japan) |
-| **Asia-Pacific (except for the geographic regions already specifically named in this table above)** | HubSpot Asia Pte. Ltd | HubSpot, Inc., Two Canal Park, Cambridge, MA 02141, U.S.A., Attention: General Counsel | Laws of Singapore | [https://legal.hubspot.com/jst-asia-pacific](https://legal.hubspot.com/jst-asia-pacific) |
+| **India (available to new customers in India as of the India Jurisdiction Terms Effective Date. Customers in India with an existing Agreement will not automatically change contracting entities)** | HubSpot India Private Limited | HubSpot, Inc., Two Canal Park, Cambridge, MA 02141, U.S.A., Attention: General Counsel | Laws of India | [https://legal.hubspot.com/india-jst](https://legal.hubspot.com/india-jst) |
+| **Asia-Pacific (except for the geographic regions already specifically named in this table above)** | HubSpot Asia Pte. Ltd. | HubSpot, Inc., Two Canal Park, Cambridge, MA 02141, U.S.A., Attention: General Counsel | Laws of Singapore | [https://legal.hubspot.com/jst-asia-pacific](https://legal.hubspot.com/jst-asia-pacific) |
 
 2\. OTHER LOCATIONS. If you are located in a geographic region that does not fall into one of the designations described in the table, or if you use only the Free Services, then you are contracting with HubSpot, Inc.
 
