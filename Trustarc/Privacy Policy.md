@@ -67,15 +67,15 @@ Javascript must be enabled for the correct page display
     Gain trust and credibility with leading privacy certifications from unbiased experts, backed by technology for unmatched privacy compliance assurance.
     
     * [Dispute Resolution](https://trustarc.com/products/assurance-certifications/dispute-resolution/)
-    * [TRUSTe Enterprise Privacy Certification](https://trustarc.com/products/assurance-certifications/truste-enterprise-privacy/)
-    * [TRUSTe EDAA Privacy Certification](https://trustarc.com/products/assurance-certifications/truste-edaa-privacy/)
     * [TRUSTe APEC CBPR and PRP Certification](https://trustarc.com/products/assurance-certifications/apec-cbpr-prp/)
-    * [TRUSTe Data Collection Certification](https://trustarc.com/products/assurance-certifications/truste-data-collection/)
-    * [CCPA/CPRA Validation](https://trustarc.com/products/assurance-certifications/ccpa-cpra/)
     * [Data Privacy Framework Verification](https://trustarc.com/products/assurance-certifications/data-privacy-framework/)
-    * [GDPR Validation](https://trustarc.com/products/assurance-certifications/gdpr-validation/)
-    * [Digital Advertising Alliance Validation](https://trustarc.com/products/assurance-certifications/digitial-advertising-alliance/)
     * [TRUSTe Responsible AI Certification](https://trustarc.com/products/assurance-certifications/responsible-ai/)
+    * [TRUSTe Enterprise Privacy Certification](https://trustarc.com/products/assurance-certifications/truste-enterprise-privacy/)
+    * [CCPA/CPRA Validation](https://trustarc.com/products/assurance-certifications/ccpa-cpra/)
+    * [GDPR Validation](https://trustarc.com/products/assurance-certifications/gdpr-validation/)
+    * [TRUSTe Data Collection Certification](https://trustarc.com/products/assurance-certifications/truste-data-collection/)
+    * [TRUSTe EDAA Privacy Certification](https://trustarc.com/products/assurance-certifications/truste-edaa-privacy/)
+    * [Digital Advertising Alliance Validation](https://trustarc.com/products/assurance-certifications/digitial-advertising-alliance/)
     
     [Explore all Products](https://trustarc.com/products/)
     
