@@ -1,32 +1,34 @@
 [Skip to main content](#main-content)
 
-BOGO Free Sitewide! DETAILS
+BOGO Free Shirts & Bras! DETAILS
+
+Save up to $75 on Infrared Therapy DETAILS
 
 BUY 1 GET 1 FREE
 
 Close the Modal
 
-#### Sitewide Savings: Mix & Match or Double Up!
+#### Mix & match or double up. Compression shirts and bras are buy one get one FREE!
 
-[SHOP MEN](https://www.tommiecopper.com/men/)    [SHOP WOMEN](https://www.tommiecopper.com/women)
+[SHOP NOW](https://www.tommiecopper.com/special/best-selling-shirts-bras)
 
-Offer valid 9/16/2024 8AM ET - 9/18/2024 6AM ET.
+Offer valid 9/18/2024 8AM ET - 9/20/2024 6AM ET.
 
-To receive Buy 1 Get 1 Free discount, must add two (2) full-price products to cart. Discount automatically applied on lowest priced item. Exclusions apply.\* Offer only valid on tommiecopper.com. Not valid on previous purchases. Cannot be combined with any other offers or coupons. Valid while supplies last. Terms subject to change.
+**Excludes: Shoulder Support Shirts and Shoulder Support Bra**
 
-\***Excludes:** Shoulder Support Shirts, Shoulder Support Bra, Infrared & Red Light Therapy | All-Purpose, All Compression Gloves, Compression Knee Sleeve, Performance Compression Elbow Sleeve.
+To receive Buy 1 Get 1 Free discount on Compression Bras & Shirts, must add two (2) eligible full-price bras and/or shirts to cart. Discount automatically applied on lowest priced item. Not valid on previous purchases. Cannot be combined with any other offers or coupons. Valid while supplies last. Terms subject to change.
 
-FREE GIFT WITH PURCHASE
+INFRARED & RED LIGHT THERAPY
 
 Close the Modal
 
-#### Free Baseball Hat on Orders $200+
+#### Save Up To $75 on Infrared & Red Light Therapy Devices
 
-[SHOP MEN](https://www.tommiecopper.com/men/)    [SHOP WOMEN](https://www.tommiecopper.com/women/)
+[SHOP NOW](https://www.tommiecopper.com/featured/infrared-red-light-devices/)
 
-Offer valid 6/20/2024 8AM ET - 6/21/2024 6AM ET.
+Offer valid 9/18/2024 8AM ET - 9/20/2024 6AM ET.
 
-Free Baseball Hat automatically applied on orders $200+. Order subtotal must reach $200 before taxes and shipping. Offer only valid on tommiecopper.com. Not valid on previous purchases. Cannot be combined with any other offers or coupons. Valid while supplies last. Terms subject to change.
+Infrared & Red Light Therapy Device discounts priced as marked. Offer only valid on tommiecopper.com. Not valid on previous purchases. Cannot be combined with any other offers or coupons. Valid while supplies last. Terms subject to change.
 
 [Toggle menu](#)
 
