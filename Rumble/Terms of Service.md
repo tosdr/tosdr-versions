@@ -446,125 +446,123 @@ Go Ad-Free
 
 ### Featured Channels Featured
 
-[Redacted News
+[Badlands Media
 
-16.4K](https://rumble.com/v5fb5mj-here-we-go-middle-east-about-to-explode-diddy-arrested-trump-shooter-groome.html "Redacted News")
+7.21K](https://rumble.com/v5f8ze5-eye-of-the-storm-ep.-164-1030-pm-et-.html "Badlands Media")
+
+[The Charlie Kirk Show
+
+5.6K](https://rumble.com/v5fcnr1-turning-point-action-presents-make-america-healthy-again-live-with-rfk-jr.-.html "The Charlie Kirk Show")
 
 [Bannons War Room
 
-11.9K](https://rumble.com/v5e9khd-live-u.s.-house-of-representatives.html "Bannons War Room")
-
-[Akademiks
-
-4.87K](https://rumble.com/v5fa3bh-diddy-indictment-unsealed.-freakoffs-extortion-arson-kdnapping-witness-tame.html "Akademiks")
+3.73K](https://rumble.com/v3by09g-warroom-live.html "Bannons War Room")
 
 [NEWSMAX
 
-3.78K](https://rumble.com/v3szvdl-newsmax2-live-on-rumble.html "NEWSMAX")
+2.55K](https://rumble.com/v3szvdl-newsmax2-live-on-rumble.html "NEWSMAX")
 
-[Due Dissidence
+[Jerry After Dark
 
-1.3K](https://rumble.com/v5f9qlh-hillary-floats-prosecuting-speech-trump-suspect-details-emerge-final-red-li.html "Due Dissidence")
-
-[Lofi Girl
-
-357](https://rumble.com/v2o2oe5-synthwave-radio-beats-to-chillgame-to.html "Lofi Girl")
+1.29K](https://rumble.com/v5fahbd-jerry-after-dark-geoguessr-part-2.html "Jerry After Dark")
 
 [barstoolsports
 
-121](https://rumble.com/v5faq9t-mostly-sports-college-football-dynasty-league-week-9-session-2.html "barstoolsports")
+1.29K](https://rumble.com/v5fahbd-jerry-after-dark-geoguessr-part-2.html "barstoolsports")
 
-[Mostly Sports With Mark Titus and Brandon Walker
+[Lofi Girl
 
-116](https://rumble.com/v5faq9t-mostly-sports-college-football-dynasty-league-week-9-session-2.html "Mostly Sports With Mark Titus and Brandon Walker")
+270](https://rumble.com/v2o2oe5-synthwave-radio-beats-to-chillgame-to.html "Lofi Girl")
 
 [Mike Crispi
 
-37](https://rumble.com/v5fa9r9-media-covers-up-trump-shooting.html "Mike Crispi")
+42](https://rumble.com/v5fa9r9-media-covers-up-trump-shooting.html "Mike Crispi")
 
 [Major League Fishing
 
-26](https://rumble.com/v5ep1cd-live-general-tire-team-series-heritage-cup-day-3.html "Major League Fishing")
+7](https://rumble.com/v5ep1cd-live-general-tire-team-series-heritage-cup-day-3.html "Major League Fishing")
 
-[Who's the Biggest A\*\*Hole?](https://rumble.com/c/WhosTheBiggestAHole "Who's the Biggest A**Hole?")
+[Winston Marshall](https://rumble.com/c/WinstonMarshall "Winston Marshall")
 
-[Athlete & Artist Show](https://rumble.com/c/AthleteArtistShow "Athlete & Artist Show")
+[Michael Franzese](https://rumble.com/c/MichaelFranzese "Michael Franzese")
 
-[Dr. Anthony M. Criniti IV (aka “Dr. Finance®”)](https://rumble.com/c/DrFinance "Dr. Anthony M. Criniti IV (aka “Dr. Finance®”)")
-
-[UnchartedX](https://rumble.com/c/UnchartedX "UnchartedX")
-
-[Sports Wars](https://rumble.com/c/SportsWars "Sports Wars")
-
-[Alexis Wilkins](https://rumble.com/c/alexiswilkins "Alexis Wilkins")
-
-[Badlands Media](https://rumble.com/c/BadlandsMedia "Badlands Media")
-
-[Rebel News](https://rumble.com/c/RebelNews "Rebel News")
-
-[Son of a Boy Dad](https://rumble.com/c/SonOfABoyDad "Son of a Boy Dad")
-
-[UFC - Ultimate Fighting Championship](https://rumble.com/c/UFC "UFC - Ultimate Fighting Championship")
-
-[vivafrei](https://rumble.com/user/vivafrei "vivafrei")
-
-[Dr. Drew](https://rumble.com/c/DrDrew "Dr. Drew")
-
-[Nerdrotic](https://rumble.com/c/Nerdrotic "Nerdrotic")
-
-[Alex Zedra](https://rumble.com/c/AlexZedra "Alex Zedra")
-
-[Dr. John Campbell](https://rumble.com/c/DrJohnCampbell "Dr. John Campbell")
-
-[JustKiddingNews](https://rumble.com/c/JustKiddingNews "JustKiddingNews")
-
-[NHRA](https://rumble.com/c/NHRA "NHRA")
-
-[TruthStream with Joe and Scott](https://rumble.com/c/TruthStream "TruthStream with Joe and Scott")
-
-[Barstool Gambling](https://rumble.com/c/BarstoolGambling "Barstool Gambling")
-
-[The Big Jackpot](https://rumble.com/c/TheBigJackpot "The Big Jackpot")
-
-[Steven Crowder](https://rumble.com/c/StevenCrowder "Steven Crowder")
-
-[UFC Fight Pass](https://rumble.com/c/UFCFightPass "UFC Fight Pass")
-
-[Amateur Hour](https://rumble.com/c/amateurhourgolf "Amateur Hour")
-
-[Candace Owens Podcast](https://rumble.com/c/CandaceOwensPodcast "Candace Owens Podcast")
-
-[Hi-Rez](https://rumble.com/c/HIREZTV "Hi-Rez")
-
-[Answer The Internet](https://rumble.com/c/AnswerTheInternet "Answer The Internet")
-
-[Sean Hannity](https://rumble.com/c/SeanHannity "Sean Hannity")
-
-[Please End This](https://rumble.com/c/pleaseendthis "Please End This")
-
-[Ghosts and Grit With Jack Osbourne Podcast](https://rumble.com/c/JackOsbourne "Ghosts and Grit With Jack Osbourne Podcast")
-
-[Robert F. Kennedy Jr.](https://rumble.com/c/RFKjr "Robert F. Kennedy Jr.")
+[Vivek Ramaswamy](https://rumble.com/c/VivekRamaswamy "Vivek Ramaswamy")
 
 [Steve-O's Wild Ride! Podcast](https://rumble.com/c/WildRide "Steve-O's Wild Ride! Podcast")
 
-[Jim Breuer](https://rumble.com/c/JimBreuer "Jim Breuer")
+[THE SHOW CALEB SHOW](https://rumble.com/c/TheShowCalebShow "THE SHOW CALEB SHOW")
 
-[Nitrocross](https://rumble.com/c/Nitrocross "Nitrocross")
+[Shaun Attwood](https://rumble.com/c/ShaunAttwood "Shaun Attwood")
 
-[Candace Show Podcast](https://rumble.com/c/RealCandaceO "Candace Show Podcast")
+[Mountain Rug Cleaning](https://rumble.com/c/MountainRugCleaning "Mountain Rug Cleaning")
+
+[Plan Bri Uncut](https://rumble.com/c/PlanBriUncut "Plan Bri Uncut")
+
+[Donald J. Trump](https://rumble.com/c/DonaldTrump "Donald J. Trump")
+
+[Dr Steve Turley](https://rumble.com/c/DrSteveTurley "Dr Steve Turley")
+
+[Robert F. Kennedy Jr.](https://rumble.com/c/RFKjr "Robert F. Kennedy Jr.")
+
+[United Fight League](https://rumble.com/c/UnitedFightLeague "United Fight League")
+
+[JustKiddingNews](https://rumble.com/c/JustKiddingNews "JustKiddingNews")
+
+[Candace Owens Podcast](https://rumble.com/c/CandaceOwensPodcast "Candace Owens Podcast")
+
+[The Rubin Report](https://rumble.com/c/RubinReport "The Rubin Report")
+
+[Primitive Survival Tool](https://rumble.com/c/PrimitiveSurvivalTools "Primitive Survival Tool")
+
+[Pardon My Take](https://rumble.com/c/PardonMyTake "Pardon My Take")
+
+[Mark Titus Show](https://rumble.com/c/marktitusshow "Mark Titus Show")
+
+[Please End This](https://rumble.com/c/pleaseendthis "Please End This")
+
+[Rough N' Rowdy](https://rumble.com/c/RoughNRowdy "Rough N' Rowdy")
+
+[John Burk](https://rumble.com/c/JohnBurk "John Burk")
+
+[Dr. Drew](https://rumble.com/c/DrDrew "Dr. Drew")
+
+[Tate Confidential](https://rumble.com/c/tateconfidential "Tate Confidential")
+
+[Donald Trump Jr.](https://rumble.com/c/DonaldJTrumpJr "Donald Trump Jr.")
+
+[Alex Zedra](https://rumble.com/c/AlexZedra "Alex Zedra")
+
+[Roseanne Barr](https://rumble.com/c/roseannebarr "Roseanne Barr")
+
+[ItGirl](https://rumble.com/c/ItGirl "ItGirl")
+
+[Amateur Hour](https://rumble.com/c/amateurhourgolf "Amateur Hour")
+
+[Ben Shapiro](https://rumble.com/c/BenShapiro "Ben Shapiro")
+
+[Barstool U](https://rumble.com/c/BarstoolU "Barstool U")
+
+[usefulidiots](https://rumble.com/c/usefulidiots "usefulidiots")
+
+[The Chris Salcedo Show](https://rumble.com/c/TheChrisSalcedoShow "The Chris Salcedo Show")
+
+[DanScavino45](https://rumble.com/user/DanScavino45 "DanScavino45")
+
+[JustPearlyThings](https://rumble.com/c/JustPearlyThings "JustPearlyThings")
 
 [Barstool Baseball](https://rumble.com/c/BarstoolBaseball "Barstool Baseball")
 
-[Stool Streams](https://rumble.com/c/stoolstreams "Stool Streams")
+[Barstool Outdoors](https://rumble.com/c/BarstoolOutdoors "Barstool Outdoors")
 
-[LockPickingLawyer](https://rumble.com/c/LockPickingLawyer "LockPickingLawyer")
+[KFC Radio](https://rumble.com/c/KFCRadio "KFC Radio")
 
-[Howard Lutnick](https://rumble.com/c/HowardLutnick "Howard Lutnick")
+[Taylor Alesia](https://rumble.com/c/TheBibleChick "Taylor Alesia")
 
-[Rico Bosco](https://rumble.com/c/ricobosco "Rico Bosco")
+[Rob Braxman Tech](https://rumble.com/c/robbraxman "Rob Braxman Tech")
 
-[WeAreChange](https://rumble.com/c/WeAreChange "WeAreChange")
+[Nerdrotic](https://rumble.com/c/Nerdrotic "Nerdrotic")
+
+[Medical Medium](https://rumble.com/c/MedicalMedium "Medical Medium")
 
 ### Theme
 
