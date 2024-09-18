@@ -259,13 +259,6 @@ Advertise with Us
 
 Most Popular
 
-[![Throwback Tuesday: Out and About @ charity quiz in Rafters (2012)](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Throwback Tuesday: Out and About @ charity quiz in Rafters (2012)")](https://www.derrynow.com/story-telling/pictures---videos/1606561/throwback-tuesday-out-and-about-charity-quiz-in-rafters-2012.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[Throwback Tuesday: Out and About @ charity quiz in Rafters (2012)](https://www.derrynow.com/story-telling/pictures---videos/1606561/throwback-tuesday-out-and-about-charity-quiz-in-rafters-2012.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 [![Police investigating circumstances surrounding sudden death of a man in Derry](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Police investigating circumstances surrounding sudden death of a man in Derry")](https://www.derrynow.com/news/local-news/1607330/police-investigating-circumstances-surrounding-sudden-death-of-a-man-in-derry.html)
 
 PSNI
@@ -275,69 +268,72 @@ PSNI
 [Police investigating circumstances surrounding sudden death of a man in Derry](https://www.derrynow.com/news/local-news/1607330/police-investigating-circumstances-surrounding-sudden-death-of-a-man-in-derry.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Man charged with threatening to kill his uncle and dog](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man charged with threatening to kill his uncle and dog")](https://www.derrynow.com/news/local-news/1607117/man-charged-with-threatening-to-kill-his-uncle-and-dog.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Man charged with threatening to kill his uncle and dog](https://www.derrynow.com/news/local-news/1607117/man-charged-with-threatening-to-kill-his-uncle-and-dog.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry mental health charity to close due to lack of governmental support](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry mental health charity to close due to lack of governmental support")](https://www.derrynow.com/news/local-news/1606852/derry-mental-health-charity-to-close-due-to-lack-of-governmental-support.html)
-
-MAN has had to close due to a lack of funding
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Derry mental health charity to close due to lack of governmental support](https://www.derrynow.com/news/local-news/1606852/derry-mental-health-charity-to-close-due-to-lack-of-governmental-support.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Registered sex offender jailed at Derry court for failing to register address change with police](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Registered sex offender jailed at Derry court for failing to register address change with police")](https://www.derrynow.com/news/local-news/1607116/registered-sex-offender-jailed-at-derry-court-for-failing-to-register-address-change-with-police.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Registered sex offender jailed at Derry court for failing to register address change with police](https://www.derrynow.com/news/local-news/1607116/registered-sex-offender-jailed-at-derry-court-for-failing-to-register-address-change-with-police.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Road Closure](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Road Closure")](https://www.derrynow.com/news/home/1606915/temporary-road-closure-in-limavady.html)
-
-Road Closure
-
-[Home](https://www.derrynow.com/)
-
-[Temporary Road Closure in Limavady](https://www.derrynow.com/news/home/1606915/temporary-road-closure-in-limavady.html)
-------------------------------------------------------------------------------------------------------------------------
-
-[![Suspended sentence for man who 'lashed out' at police in Derry city centre](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Suspended sentence for man who 'lashed out' at police in Derry city centre")](https://www.derrynow.com/news/local-news/1607109/suspended-sentence-for-man-who-lashed-out-at-police-in-derry-city-centre.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Suspended sentence for man who 'lashed out' at police in Derry city centre](https://www.derrynow.com/news/local-news/1607109/suspended-sentence-for-man-who-lashed-out-at-police-in-derry-city-centre.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Diffin Event in memory of Odhran Archie O'Connor](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Diffin Event in memory of Odhran Archie O'Connor")](https://www.derrynow.com/news/county-derry-post/1606403/diffin-event-to-be-held-in-nuttscorner-raceway-in-memory-of-county-derry-man.html)
-
-Diffin Event in memory of Odhran Archie O'Connor
-
-[County Derry Post](https://www.derrynow.com/section/1000/county-derry-post)
-
-[Diffin event to be held in Nuttscorner raceway in memory of County Derry man](https://www.derrynow.com/news/county-derry-post/1606403/diffin-event-to-be-held-in-nuttscorner-raceway-in-memory-of-county-derry-man.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Ballymaguigan](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Ballymaguigan")](https://www.derrynow.com/news/derry-sport/1606883/seven-goal-ballymaguigan-cruise-into-intermediate-final-with-victory-over-ballerin.html)
-
-Ballymaguigan defeated Ballerin last night.
-
-[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
-
-[Seven-goal Ballymaguigan cruise into Intermediate final with victory over Ballerin](https://www.derrynow.com/news/derry-sport/1606883/seven-goal-ballymaguigan-cruise-into-intermediate-final-with-victory-over-ballerin.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 [![Derry Death Notices - Wednesday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Wednesday")](https://www.derrynow.com/news/deaths/1607467/derry-death-notices-wednesday-18th-september-2024.html)
 
 [Deaths](https://www.derrynow.com/section/977/deaths)
 
 [Derry Death Notices - Wednesday, 18th September 2024](https://www.derrynow.com/news/deaths/1607467/derry-death-notices-wednesday-18th-september-2024.html)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Victim had four teeth knocked out in Derry assault](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Victim had four teeth knocked out in Derry assault")](https://www.derrynow.com/news/local-news/1607971/victim-had-four-teeth-knocked-out-in-derry-assault.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Victim had four teeth knocked out in Derry assault](https://www.derrynow.com/news/local-news/1607971/victim-had-four-teeth-knocked-out-in-derry-assault.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Man appears in connection with racist messages to Mayor of Derry and Strabane](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man appears in connection with racist messages to Mayor of Derry and Strabane")](https://www.derrynow.com/news/local-news/1607946/man-appears-in-connection-with-sending-racist-messages-to-mayor-of-derry-and-strabane.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Man appears in connection with sending racist messages to Mayor of Derry and Strabane](https://www.derrynow.com/news/local-news/1607946/man-appears-in-connection-with-sending-racist-messages-to-mayor-of-derry-and-strabane.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Bewitching new Derry Halloween programme unveiled by Mayor](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Bewitching new Derry Halloween programme unveiled by Mayor")](https://www.derrynow.com/news/local-news/1607450/bewitching-new-derry-halloween-programme-unveiled-by-mayor.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Bewitching new Derry Halloween programme unveiled by Mayor](https://www.derrynow.com/news/local-news/1607450/bewitching-new-derry-halloween-programme-unveiled-by-mayor.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![New management authority considered for controlled schools sector](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "New management authority considered for controlled schools sector")](https://www.derrynow.com/news/northern-ireland/1607558/new-management-authority-considered-for-controlled-schools-sector.html)
+
+[Northern Ireland](https://www.derrynow.com/section/997/cookie-policy)
+
+[New management authority considered for controlled schools sector](https://www.derrynow.com/news/northern-ireland/1607558/new-management-authority-considered-for-controlled-schools-sector.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Donegal man (36) returned for trial for child sexual offences](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Donegal man (36) returned for trial for child sexual offences")](https://www.derrynow.com/news/local-news/1608124/donegal-man-36-returned-for-trial-for-child-sexual-offences.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Donegal man (36) returned for trial for child sexual offences](https://www.derrynow.com/news/local-news/1608124/donegal-man-36-returned-for-trial-for-child-sexual-offences.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Derry's Dunluce Family Centre receives funding boost from Assets Recovery Scheme](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry's Dunluce Family Centre receives funding boost from Assets Recovery Scheme")](https://www.derrynow.com/news/local-news/1607418/derry-s-dunluce-family-centre-receives-funding-boost-from-assets-recovery-scheme.html)
+
+Justice Minister Naomi Long is pictured at Dunluce Family Centre with Brian McNechtain, Chairperson; and Margaret McCann, Manager; during a visit to the centre in Ballymagroarty.
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Derry's Dunluce Family Centre receives funding boost from Assets Recovery Scheme](https://www.derrynow.com/news/local-news/1607418/derry-s-dunluce-family-centre-receives-funding-boost-from-assets-recovery-scheme.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Barnaby Bear returning to Drumahoe Primary School (Credit: Instagram- Tandem Twins)](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Barnaby Bear returning to Drumahoe Primary School (Credit: Instagram- Tandem Twins)")](https://www.derrynow.com/news/county-derry-post/1607136/county-derry-paralympians-return-bear-to-their-primary-school-after-a-summer-of-sport.html)
+
+Barnaby Bear returning to Drumahoe Primary School (Credit: Instagram- Tandem Twins)
+
+[County Derry Post](https://www.derrynow.com/section/1000/county-derry-post)
+
+[County Derry Paralympians return bear to their primary school after a summer of sport](https://www.derrynow.com/news/county-derry-post/1607136/county-derry-paralympians-return-bear-to-their-primary-school-after-a-summer-of-sport.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Historic day as signing of Derry's City Deal to take place](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Historic day as signing of Derry's City Deal to take place")](https://www.derrynow.com/news/local-news/1607857/historic-day-as-signing-of-derry-s-city-deal-to-take-place.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Historic day as signing of Derry's City Deal to take place](https://www.derrynow.com/news/local-news/1607857/historic-day-as-signing-of-derry-s-city-deal-to-take-place.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
@@ -523,53 +519,51 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
-[![Derry Death Notices - Wednesday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Wednesday")](https://www.derrynow.com/news/deaths/1607467/derry-death-notices-wednesday-18th-september-2024.html)
-
-[Deaths](https://www.derrynow.com/section/977/deaths)
-
-[Derry Death Notices - Wednesday, 18th September 2024](https://www.derrynow.com/news/deaths/1607467/derry-death-notices-wednesday-18th-september-2024.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Government must lift funding pause on city deals – Archibald](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Government must lift funding pause on city deals – Archibald")](https://www.derrynow.com/news/local-news/1607431/government-must-lift-funding-pause-on-city-deals-archibald.html)
+[![‘Huge opportunity’ for Londonderry as Benn promises to support other city deals](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "‘Huge opportunity’ for Londonderry as Benn promises to support other city deals")](https://www.derrynow.com/news/local-news/1608188/huge-opportunity-for-derry-as-benn-promises-to-support-other-city-deals.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[Government must lift funding pause on city deals – Archibald](https://www.derrynow.com/news/local-news/1607431/government-must-lift-funding-pause-on-city-deals-archibald.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[‘Huge opportunity’ for Londonderry as Benn promises to support other city deals](https://www.derrynow.com/news/local-news/1608188/huge-opportunity-for-derry-as-benn-promises-to-support-other-city-deals.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Bewitching new Derry Halloween programme unveiled by Mayor](https://www.derrynow.com/resizer/165/93/true/2024_09_17/DerryHalloweenLaunch20243-1726588538983.jpg--.jpg?1726588541234 "Bewitching new Derry Halloween programme unveiled by Mayor")](https://www.derrynow.com/news/local-news/1607450/bewitching-new-derry-halloween-programme-unveiled-by-mayor.html)
+[![James Slavin holding aloft the Irish tricolour after a title winning bout](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "James Slavin holding aloft the Irish tricolour after a title winning bout")](https://www.derrynow.com/news/derry-sport/1608033/derry-man-claims-uk-fighting-championships-featherweight-belt.html)
+
+James Slavin holding aloft the Irish tricolour after a title winning bout
+
+[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
+
+[Derry man claims UK Fighting Championships Featherweight belt](https://www.derrynow.com/news/derry-sport/1608033/derry-man-claims-uk-fighting-championships-featherweight-belt.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Dwayne Fields ](https://www.derrynow.com/resizer/165/93/true/2024_09_18/Chief_Scout_Image-1726660524368.jpg--.jpg?1726660527262 "Dwayne Fields ")](https://www.derrynow.com/news/home/1608114/county-derry-has-welcomed-a-new-chief-scout.html)
+
+Dwayne Fields
+
+[Home](https://www.derrynow.com/)
+
+[County Derry has welcomed a new Chief Scout](https://www.derrynow.com/news/home/1608114/county-derry-has-welcomed-a-new-chief-scout.html)
+------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Donegal man (36) returned for trial for child sexual offences](https://www.derrynow.com/resizer/165/93/true/2017/07/14154134/husband-and-wife-charged-at-derry-magistrates-court-with-drugs-and-money-laundering-offences-following-organised-crime-investigation-by-the-psni.jpg--.jpg "Donegal man (36) returned for trial for child sexual offences")](https://www.derrynow.com/news/local-news/1608124/donegal-man-36-returned-for-trial-for-child-sexual-offences.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[Bewitching new Derry Halloween programme unveiled by Mayor](https://www.derrynow.com/news/local-news/1607450/bewitching-new-derry-halloween-programme-unveiled-by-mayor.html)
+[Donegal man (36) returned for trial for child sexual offences](https://www.derrynow.com/news/local-news/1608124/donegal-man-36-returned-for-trial-for-child-sexual-offences.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Victim had four teeth knocked out in Derry assault](https://www.derrynow.com/resizer/165/93/true/2024_05_29/derrycourthouse2.jpg---1716982422986.jpg--.jpg?1716982423183 "Victim had four teeth knocked out in Derry assault")](https://www.derrynow.com/news/local-news/1607971/victim-had-four-teeth-knocked-out-in-derry-assault.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Victim had four teeth knocked out in Derry assault](https://www.derrynow.com/news/local-news/1607971/victim-had-four-teeth-knocked-out-in-derry-assault.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Day of celebration for Derry as city growth deal is signed](https://www.derrynow.com/resizer/165/93/true/2024_09_18/IMG-20240918-WA0004-1726657359288.jpg--.jpg?1726657360127 "Day of celebration for Derry as city growth deal is signed")](https://www.derrynow.com/news/local-news/1608026/day-of-celebration-for-derry-as-city-growth-deal-is-signed.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Day of celebration for Derry as city growth deal is signed](https://www.derrynow.com/news/local-news/1608026/day-of-celebration-for-derry-as-city-growth-deal-is-signed.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry Mayor speaks at 53rd annual Congressional Black Caucus Foundation conference](https://www.derrynow.com/resizer/165/93/true/2024_09_17/pro-PZCT2NMB-1726587954969.jpeg--.jpeg?1726587955736 "Derry Mayor speaks at 53rd annual Congressional Black Caucus Foundation conference")](https://www.derrynow.com/news/derry-city-and-strabane-district-council/1607430/derry-mayor-speaks-at-53rd-annual-congressional-black-caucus-foundation-conference.html)
-
-Mayor of Derry and Strabane, Councillor Lilian Seenoi Barr, pictured with delegates at the 53rd Annual Congressional Black Caucus Foundation (CBCF) Legislative Conference
-
-[Derry City and Strabane District Council](https://www.derrynow.com/section/2722/derry-city-and-strabane-district-council)
-
-[Derry Mayor speaks at 53rd annual Congressional Black Caucus Foundation conference](https://www.derrynow.com/news/derry-city-and-strabane-district-council/1607430/derry-mayor-speaks-at-53rd-annual-congressional-black-caucus-foundation-conference.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry's Dunluce Family Centre receives funding boost from Assets Recovery Scheme](https://www.derrynow.com/resizer/165/93/true/2024_09_17/Dunluce1_Sept_24-1726587586877.JPG--.JPG?1726587588853 "Derry's Dunluce Family Centre receives funding boost from Assets Recovery Scheme")](https://www.derrynow.com/news/local-news/1607418/derry-s-dunluce-family-centre-receives-funding-boost-from-assets-recovery-scheme.html)
-
-Justice Minister Naomi Long is pictured at Dunluce Family Centre with Brian McNechtain, Chairperson; and Margaret McCann, Manager; during a visit to the centre in Ballymagroarty.
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Derry's Dunluce Family Centre receives funding boost from Assets Recovery Scheme](https://www.derrynow.com/news/local-news/1607418/derry-s-dunluce-family-centre-receives-funding-boost-from-assets-recovery-scheme.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Arlene Arkinson family 'gutted' as Glenfin search for her body ends](https://www.derrynow.com/resizer/165/93/true/2024_09_17/Donegal_Live_image_-_2024-09-17T143236.352-1726580050831.png--.png?1726580050880 "Arlene Arkinson family 'gutted' as Glenfin search for her body ends")](https://www.derrynow.com/news/local-news/1607367/arlene-arkinson-family-gutted-as-glenfin-search-for-her-body-ends.html)
-
-The scene at Ballybobaneen Forest in Glenfin where a search took place for the remains of Arlene Arkinson (inset)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Arlene Arkinson family 'gutted' as Glenfin search for her body ends](https://www.derrynow.com/news/local-news/1607367/arlene-arkinson-family-gutted-as-glenfin-search-for-her-body-ends.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
