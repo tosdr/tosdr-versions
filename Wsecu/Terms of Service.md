@@ -577,6 +577,8 @@ In compliance with Title VI, WSECU provides access to information on filing a co
 
 **[Visa Gift Card Terms & Conditions](https://wsecu.org/Documents/PDFS/Visa%20Gift%20Card%20Terms%20and%20Conditions.pdf)**
 
+* * *
+
 Your perspective is important to us and helps us see where we’re hitting the mark and where there might be areas to improve.
 
      
