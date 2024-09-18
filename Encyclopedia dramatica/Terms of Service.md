@@ -1,12 +1,12 @@
   
 
-[![Logo](kiwianarchoautism.png)](https://kiwifarms.st/)
+[![Logo](kiwi2.svg)](https://kiwifarms.st/)
 
 [Alliance Against  
 Troons and  
 lolcows](https://kiwifarms.st/)
 
-This public toilet Is No Longer Available Due to Faggotory.  
+This Garbage site Is No Longer Available Due to \[REDACTED\].  
 You Will Be Redirected To [EncyclopediaDramatica Info](https://encyclopediadramatica.info/) In 10 Seconds
 
   
