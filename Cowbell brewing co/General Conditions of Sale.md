@@ -18,7 +18,7 @@
         
     * [RESERVATIONS](https://www.tbdine.com/blyth/restaurants/cowbell-brewing-co)
     * [MAIN MENU](https://cdn.shopify.com/s/files/1/1837/5513/files/Summer_Menu_2024_Revision_June_27th.pdf?v=1719578841)
-    * [BAR MENU](https://cdn.shopify.com/s/files/1/1837/5513/files/Beverage-Cowbell-4_25x14-240726-v1F.pdf?v=1722525840)
+    * [BAR MENU](https://cdn.shopify.com/s/files/1/1837/5513/files/Beverage_Menu_Summer_2024_1.pdf?v=1726673057)
     * [DAILY SPECIALS](https://cdn.shopify.com/s/files/1/1837/5513/files/Cowbell-Daily_Specials-2405.pdf?v=1720451302)
     * [KIDS MENU](https://cdn.shopify.com/s/files/1/1837/5513/files/Cowbell-KidsMenuSheet-single-230801-v2.pdf?v=1690832731)
 * [BOOK A GROUP](https://cowbellbrewing.com/pages/book-a-group)
@@ -62,7 +62,7 @@ Menu [🛒 CART](https://cowbellbrewing.com/cart) $0.00 Check out
 * [DINE](https://cowbellbrewing.com/pages/dine-with-us)
     * [RESERVATIONS](https://www.tbdine.com/blyth/restaurants/cowbell-brewing-co)
     * [MAIN MENU](https://cdn.shopify.com/s/files/1/1837/5513/files/Summer_Menu_2024_Revision_June_27th.pdf?v=1719578841)
-    * [BAR MENU](https://cdn.shopify.com/s/files/1/1837/5513/files/Beverage-Cowbell-4_25x14-240726-v1F.pdf?v=1722525840)
+    * [BAR MENU](https://cdn.shopify.com/s/files/1/1837/5513/files/Beverage_Menu_Summer_2024_1.pdf?v=1726673057)
     * [DAILY SPECIALS](https://cdn.shopify.com/s/files/1/1837/5513/files/Cowbell-Daily_Specials-2405.pdf?v=1720451302)
     * [KIDS MENU](https://cdn.shopify.com/s/files/1/1837/5513/files/Cowbell-KidsMenuSheet-single-230801-v2.pdf?v=1690832731)
 * [BOOK A GROUP](https://cowbellbrewing.com/pages/book-a-group)
