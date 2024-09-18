@@ -171,6 +171,92 @@ A Note to Our Readers:
 
 For stewardship purposes, we will not be able to write, edit, or proofread science papers and projects, assist with homework assignments, evaluate personal theories and hypotheses, or review books and other resources. We also will not accept unsolicited manuscripts, nor are we able to provide unsolicited endorsements of books, products, or ministries.
 
+More Historical Accuracy
+
+[![](/i/wide/the_exodus_wide.jpg)](https://www.icr.org/article/encore-presentation-patterns-evidence)
+
+[Encore Presentation of Patterns of Evidence: Exodus](https://www.icr.org/article/encore-presentation-patterns-evidence/)
+
+The Exodus is one of the best-known narratives in the Bible. It details the Israelites' escape from Egypt after centuries of slavery, Moses'...
+
+BY: [JAKE HEBERT, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=218)
+
+[![](/i/wide/genesis_history_wide.jpg)](https://www.icr.org/article/reviewing-is-genesis-history)
+
+[Reviewing 'Is Genesis History?'](https://www.icr.org/article/reviewing-is-genesis-history/)
+
+by Jake Hebert, Ph.D., and Brian Thomas, M.S.\* On Thursday, February 23, select movie theaters around the country presented a special...
+
+BY:  [VARIOUS AUTHORS](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=35)
+
+[![](/i/articles/af/out_of_ararat_wide.jpg)](https://www.icr.org/article/out-ararat)
+
+[Out of Ararat?](https://www.icr.org/article/out-ararat/)
+
+Paleoanthropologists are not usually known for shying away from discord, debate, or disagreement. Yet for several decades there has been near-unanimity...
+
+BY: [WILLIAM A. HOESCH, M.S.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=58)
+
+More Creation Q&A
+
+[![](/i/articles/af/Main%20Stage%20-%201400x1050/how_do_hominids_fit.jpg)](https://www.icr.org/article/how-do-hominids-fit-with-the-bible)
+
+[How Do Hominids Fit with the Bible?](https://www.icr.org/article/how-do-hominids-fit-with-the-bible/)
+
+A recent survey showed that the most persuasive argument for evolution comes from the iconic drawing of the apes-to-man parade.1 This popular...
+
+BY: [BRIAN THOMAS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=201)
+
+[![](/i/articles/af/Main%20Stage%20-%201400x1050/HowPrepareCreationMInistry.jpg)](https://www.icr.org/article/how-do-i-prepare-for-creation-ministry)
+
+[How Do I Prepare for Creation Ministry?](https://www.icr.org/article/how-do-i-prepare-for-creation-ministry/)
+
+Many of today’s creation researchers can testify that information from the Institute for Creation Research sparked a burning, lifelong passion...
+
+BY: [JAKE HEBERT, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=218)
+
+[![](/i/articles/af/Main%20Stage%20-%201400x1050/is_genesis_history.jpg)](https://www.icr.org/article/is-genesis-1-11-actual-history)
+
+[Is Genesis 1â€“11 Actual History?](https://www.icr.org/article/is-genesis-1-11-actual-history/)
+
+The early chapters of Genesis contradict ancient history as portrayed in public schools, television, and movies. For example, our culture insists humans...
+
+BY: [BRIAN THOMAS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=201)
+
+Shop Related Products
+
+[](https://store.icr.org/.html)
+
+$
+
+[![](https://cdn.shoplightspeed.com/shops/601440/files/5202651/file.jpg)
+
+The Fossil Record](https://store.icr.org/dr-john-morris-the-fossil-record.html)
+
+$19.99
+
+[![](https://cdn.shoplightspeed.com/shops/601440/files/15818899/file.jpg)
+
+The Fossil Record - eBook](https://store.icr.org/the-fossil-record-ebook.html)
+
+$9.99
+
+$19.99
+
+[![](https://cdn.shoplightspeed.com/shops/601440/files/32803/file.jpg)
+
+The Young Earth](https://store.icr.org/dr-john-morris-the-young-earth.html)
+
+$19.99
+
+[![](https://cdn.shoplightspeed.com/shops/601440/files/10027359/file.jpg)
+
+The Global Flood](https://store.icr.org/dr-john-morris-the-global-flood.html)
+
+$14.99
+
+$19.99
+
 [![Institute for Creation Research](/i/icr-logo-final-h-rev3-100.png)](https://www.icr.org/)[![ICR Discovery Center for Science and Earth History](/i/DC_Logo_Footer_2.png)](http://discoverycenter.icr.org/)
 
 [About  Us](https://www.icr.org/discover)[News](https://www.icr.org/news)[Publications](https://www.icr.org/icr-magazines)[Media](https://www.icr.org/video)[Events](https://www.icr.org/events)[Give](https://www.icr.org/donate)[Store](https://store.icr.org/)[Education](http://www.icr.edu/)
