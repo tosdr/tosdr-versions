@@ -23,31 +23,31 @@
     * [Featured](#nfeatured)
     * [Latest](#nlatest)
     
-    * [![PKfail Secure Boot bypass remains a significant risk two months later](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    * [![Chinese botnet infects 260,000 SOHO routers, IP cameras with malware](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        PKfail Secure Boot bypass remains a significant risk two months later](https://www.bleepingcomputer.com/news/security/pkfail-secure-boot-bypass-remains-a-significant-risk-two-months-later/)
-    * [![Temu denies breach after hacker claims theft of 87 million data records](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        Chinese botnet infects 260,000 SOHO routers, IP cameras with malware](https://www.bleepingcomputer.com/news/security/flax-typhoon-hackers-infect-260-000-routers-ip-cameras-with-botnet-malware/)
+    * [![Apple pulls iPadOS 18 update bricking M4 iPad Pro devices](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Temu denies breach after hacker claims theft of 87 million data records](https://www.bleepingcomputer.com/news/security/temu-denies-breach-after-hacker-claims-theft-of-87-million-data-records/)
-    * [![Ransomware gangs now abuse Microsoft Azure tool for data theft](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        Apple pulls iPadOS 18 update bricking M4 iPad Pro devices](https://www.bleepingcomputer.com/news/apple/apple-pulls-ipados-18-update-bricking-m4-ipad-pro-devices/)
+    * [![Russian security firm Dr.Web disconnects all servers after breach](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Ransomware gangs now abuse Microsoft Azure tool for data theft](https://www.bleepingcomputer.com/news/security/ransomware-gangs-now-abuse-microsoft-azure-tool-for-data-theft/)
-    * [![Over 1,000 ServiceNow instances found leaking corporate KB data](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        Russian security firm Dr.Web disconnects all servers after breach](https://www.bleepingcomputer.com/news/security/russian-security-firm-drweb-disconnects-all-servers-after-breach/)
+    * [![Microsoft may have revealed Windows 11 24H2 is coming this month](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Over 1,000 ServiceNow instances found leaking corporate KB data](https://www.bleepingcomputer.com/news/security/over-1-000-servicenow-instances-found-leaking-corporate-kb-data/)
+        Microsoft may have revealed Windows 11 24H2 is coming this month](https://www.bleepingcomputer.com/news/microsoft/microsoft-may-have-revealed-windows-11-24h2-is-coming-this-month/)
     
-    * [![Nip one travel stress in the bud with this 100W power bank deal](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    * [![GitLab releases fix for critical SAML authentication bypass flaw](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Nip one travel stress in the bud with this 100W power bank deal](https://www.bleepingcomputer.com/offer/deals/nip-one-travel-stress-in-the-bud-with-this-100w-power-bank-deal/)
-    * [![Temu denies breach after hacker claims theft of 87 million data records](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        GitLab releases fix for critical SAML authentication bypass flaw](https://www.bleepingcomputer.com/news/security/gitlab-releases-fix-for-critical-saml-authentication-bypass-flaw/)
+    * [![Check out this cybersecurity course bundle before paying for expensive classes](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Temu denies breach after hacker claims theft of 87 million data records](https://www.bleepingcomputer.com/news/security/temu-denies-breach-after-hacker-claims-theft-of-87-million-data-records/)
-    * [![Broadcom fixes critical RCE bug in VMware vCenter Server](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        Check out this cybersecurity course bundle before paying for expensive classes](https://www.bleepingcomputer.com/offer/deals/check-out-this-cybersecurity-course-bundle-before-paying-for-expensive-classes/)
+    * [![Microsoft may have revealed Windows 11 24H2 is coming this month](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Broadcom fixes critical RCE bug in VMware vCenter Server](https://www.bleepingcomputer.com/news/security/broadcom-fixes-critical-rce-bug-in-vmware-vcenter-server/)
-    * [![Construction firms breached in brute force attacks on accounting software](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        Microsoft may have revealed Windows 11 24H2 is coming this month](https://www.bleepingcomputer.com/news/microsoft/microsoft-may-have-revealed-windows-11-24h2-is-coming-this-month/)
+    * [![Apple pulls iPadOS 18 update bricking M4 iPad Pro devices](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Construction firms breached in brute force attacks on accounting software](https://www.bleepingcomputer.com/news/security/construction-firms-breached-in-brute-force-attacks-on-accounting-software/)
+        Apple pulls iPadOS 18 update bricking M4 iPad Pro devices](https://www.bleepingcomputer.com/news/apple/apple-pulls-ipados-18-update-bricking-m4-ipad-pro-devices/)
     
 * [Tutorials](https://www.bleepingcomputer.com/tutorials/)
     
@@ -304,15 +304,15 @@ If you have any questions or concerns regarding these policies, please free to 
 
 Popular Stories
 
-* [![CISA](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    CISA warns of Windows flaw used in infostealer malware attacks](https://www.bleepingcomputer.com/news/security/cisa-warns-of-windows-flaw-used-in-infostealer-malware-attacks/)
 * [![VMware](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     Broadcom fixes critical RCE bug in VMware vCenter Server](https://www.bleepingcomputer.com/news/security/broadcom-fixes-critical-rce-bug-in-vmware-vcenter-server/)
 * [![Cloudflare](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     Cloudflare outage cuts off access to websites in some regions](https://www.bleepingcomputer.com/news/technology/cloudflare-outage-cuts-off-access-to-websites-in-some-regions/)
+* [![CISA](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    CISA warns of Windows flaw used in infostealer malware attacks](https://www.bleepingcomputer.com/news/security/cisa-warns-of-windows-flaw-used-in-infostealer-malware-attacks/)
 
 ##### Follow us:
 
