@@ -333,15 +333,16 @@ Advertise
 [Rich List](https://www.afr.com/rich-list)
 ------------------------------------------
 
-[![ ](https://static.ffx.io/images/$zoom_0.6393%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_101%2C$y_15/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/994ec0f8a2bdd9c1ad7bb32c1a20e4260be7075e)](https://www.afr.com/companies/financial-services/andrew-hagger-and-guy-debelle-in-new-advisory-firm-for-the-ultra-rich-20240917-p5kbav)
+[![Laurence Escalante built Virtual Gaming Worlds into a multibillion-dollar business. But competition and regulatory pressures are mounting.](https://static.ffx.io/images/$zoom_0.3151%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_86%2C$y_183/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/1991178d80a757a1cc5836acaf37a7a27662aef9)](https://www.afr.com/companies/games-and-wagering/laurence-escalante-s-gaming-empire-gets-into-lotto-as-profits-surge-20240918-p5kbhh)
 
-### [Andrew Hagger and Guy Debelle in new advisory firm for the ultra rich](https://www.afr.com/companies/financial-services/andrew-hagger-and-guy-debelle-in-new-advisory-firm-for-the-ultra-rich-20240917-p5kbav)
+### [Laurence Escalante’s gaming empire gets into lotto as profits surge](https://www.afr.com/companies/games-and-wagering/laurence-escalante-s-gaming-empire-gets-into-lotto-as-profits-surge-20240918-p5kbhh)
 
+* 10 mins ago
 * Primrose Riordan
 
-* ### [The sad and lonely lives of the world’s richest kids](https://www.afr.com/wealth/personal-finance/the-sad-and-lonely-lives-of-the-world-s-richest-kids-20240912-p5ka2i)
+* ### [Andrew Hagger and Guy Debelle in new advisory firm for the ultra rich](https://www.afr.com/companies/financial-services/andrew-hagger-and-guy-debelle-in-new-advisory-firm-for-the-ultra-rich-20240917-p5kbav)
     
-* ### [Rich Listers snap up top equestrian centre for less than $30m](https://www.afr.com/property/commercial/rich-listers-snap-up-top-equestrian-centre-for-less-than-30m-20240916-p5kavu)
+* ### [The sad and lonely lives of the world’s richest kids](https://www.afr.com/wealth/personal-finance/the-sad-and-lonely-lives-of-the-world-s-richest-kids-20240912-p5ka2i)
     
 
 [The Australian Financial Review](https://www.afr.com/)
