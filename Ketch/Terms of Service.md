@@ -1,4 +1,4 @@
-[**🆕 Are hidden website trackers putting your brand at risk? Find out now! 🔎**
+[**🆕 Are hidden website trackers putting your brand at risk? Find out now!**
 
 ![](https://cdn.prod.website-files.com/611a337a2fd33f1abb7d18d3/6348baa4ea56f615eca27f50_arrow_right_steel.svg)](https://content.ketch.com/privacy-stress-test)
 
