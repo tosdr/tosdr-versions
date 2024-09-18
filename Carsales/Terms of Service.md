@@ -9,6 +9,7 @@
     * [Private seller cars](https://www.carsales.com.au/cars/private/)
     * [Electric cars](https://www.carsales.com.au/cars/electric-fueltype/)
     * [Finance](https://www.carsales.com.au/car-finance/)
+    * [Inspections](https://www.carsales.com.au/car-inspections/)
     
     ##### Popular makes
     
