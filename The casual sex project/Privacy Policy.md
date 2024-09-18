@@ -104,6 +104,16 @@ Sep 12 2024
 
 By **[Carolyn D. Gorman](https://admin.mi52siterestore.com/person/carolyn-d-gorman/)** Read time **39 mins** [Read More](https://admin.mi52siterestore.com/article/school-based-mental-health-initiatives-challenges-and-considerations-for-policymakers/)
 
+    ![](https://media4.manhattan-institute.org/wp-content/uploads/income-inequality-isn-t-the-problem-uneven-growth-is.jpg)[](https://admin.mi52siterestore.com/article/inequality-isnt-the-problem-uneven-growth-is/ "Read More")
+
+Commentary Economics Finance, Tax & Budget
+
+Sep 17 2024
+
+[Inequality Isn’t the Problem. Uneven Growth Is.](https://admin.mi52siterestore.com/article/inequality-isnt-the-problem-uneven-growth-is/)
+
+By **[Allison Schrager](https://admin.mi52siterestore.com/person/allison-schrager/)** Read time **2 mins** [Read More](https://admin.mi52siterestore.com/article/inequality-isnt-the-problem-uneven-growth-is/)
+
     ![](https://media4.manhattan-institute.org/wp-content/uploads/scandal-incompetence-puts-adams-at-risk-of-irrelevance.jpg)[](https://admin.mi52siterestore.com/article/scandal-leaves-eric-adams-at-risk-of-irrelevance-as-nycs-quality-of-life-declines/ "Read More")
 
 Commentary Cities, Governance New York, New York City
@@ -133,16 +143,6 @@ Sep 12 2024
 [The School Choice Battle Will Happen at the Statehouse](https://admin.mi52siterestore.com/article/the-school-choice-battle-will-happen-at-the-statehouse/)
 
 By **[Ray Domanico](https://admin.mi52siterestore.com/person/ray-domanico/)** Read time **2 mins** [Read More](https://admin.mi52siterestore.com/article/the-school-choice-battle-will-happen-at-the-statehouse/)
-
-    ![](https://media4.manhattan-institute.org/wp-content/uploads/nyc-needs-to-stop-worrying-about-optics-of-nypd-and-just-pick-the-overall-best-cop.jpg)[](https://admin.mi52siterestore.com/article/nyc-needs-to-stop-worrying-about-nypd-optics-and-just-pick-the-overall-best-cop/ "Read More")
-
-Commentary Public Safety, Cities New York, New York City, Policing, Crime Control
-
-Sep 12 2024
-
-[NYC Needs to Stop Worrying about NYPD Optics and Just Pick the Overall Best Cop](https://admin.mi52siterestore.com/article/nyc-needs-to-stop-worrying-about-nypd-optics-and-just-pick-the-overall-best-cop/)
-
-By **[Hannah E. Meyers](https://admin.mi52siterestore.com/person/hannah-e-meyers/)** Read time **2 mins** [Read More](https://admin.mi52siterestore.com/article/nyc-needs-to-stop-worrying-about-nypd-optics-and-just-pick-the-overall-best-cop/)
 
 Our Policy Areas
 ----------------
