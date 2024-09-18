@@ -39,9 +39,9 @@ editorial \_
 
 coverstory \_
 
-[![Forgotten Since 1994, the First-Ever Twin-Turbo Car Gets a New Chance, It's a Low-Mile Gem](https://s1.cdn.autoevolution.com/images/news/forgotten-since-1994-the-first-ever-twin-turbo-car-gets-a-new-chance-it-s-a-low-mile-gem-239926-5.jpg "Forgotten Since 1994, the First-Ever Twin-Turbo Car Gets a New Chance, It's a Low-Mile Gem")
+[![This Is 'Golden House', a Tiny Home Aiming to Be the Most Exclusive in the World](https://s1.cdn.autoevolution.com/images/news/this-is-golden-house-a-tiny-aiming-to-be-the-most-exclusive-in-the-world-239931-5.jpg "This Is 'Golden House', a Tiny Home Aiming to Be the Most Exclusive in the World")
 
-Forgotten Since 1994, the First-Ever Twin-Turbo Car Gets a New Chance, It's a Low-Mile Gem](https://www.autoevolution.com/news/forgotten-since-1994-the-first-ever-twin-turbo-car-gets-a-new-chance-it-s-a-low-mile-gem-239926.html)
+This Is 'Golden House', a Tiny Home Aiming to Be the Most Exclusive in the World](https://www.autoevolution.com/news/this-is-golden-house-a-tiny-aiming-to-be-the-most-exclusive-in-the-world-239931.html)
 
 how-to \_
 
