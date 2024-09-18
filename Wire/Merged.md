@@ -1,40 +1,36 @@
-<img src="https://secure.7-companycompany.com/796156.png" style="display:none;">       
+<img src="https://secure.7-companycompany.com/796156.png" style="display:none;">        
 
-[Skip to content](#main-content)
+[![logo white no whitespace](https://wire.com/hubfs/logo%20white%20no%20whitespace.svg)](https://wire.com/en/home)
 
-[![WIRE_Logo_rgb_black](https://wire.com/hs-fs/hubfs/WIRE_Logo_rgb_black.png?width=1163&height=395&name=WIRE_Logo_rgb_black.png "WIRE_Logo_rgb_black")](https://wire.com/en/?hsLang=en)
-
-* [Product](https://wire.com/en/product)
-* [Solutions](javascript:;) [ ] 
-    * [Public Sector](https://wire.com/en/solution-public-sector)
-    * [Industries](https://wire.com/en/solution-enterprise)
-* [About Us](javascript:;) [ ] 
-    * [About Wire](https://wire.com/en/about-us)
+* [Products](javascript:void(0);)
+    
+    * [Features](https://wire.com/en/features)
+    * [Security](https://wire.com/en/security)
+    * [Plans & Pricing](https://wire.com/en/pricing)
+    * [Deployment Options](https://wire.com/en/deployment-options)
+    
+* [Solutions](javascript:void(0);)
+    
+    * [Individuals & Business](https://wire.com/en/smb)
+    * [Enterprise](https://wire.com/en/enterprise)
+    * [Government](https://wire.com/en/government)
+    
+* [Resources](javascript:void(0);)
+    
+    * [Download](https://wire.com/en/app-download)
+    * [Support](https://support.wire.com/)
     * [Blog](https://wire.com/blog)
-* [Wire Support](javascript:;) [ ] 
-    * [Support](https://support.wire.com/hc/en-us)
-    * [App-Download](https://wire.com/en/app-download)
-    * [Open Source Library](https://github.com/wireapp/wire)
-    * [Wire Documentation](https://docs.wire.com/)
-* [Login](https://app.wire.com/auth/?hl=en#/login)
+    * [Github](https://github.com/wireapp/)
+    
+* [Plans & Pricing](https://wire.com/en/pricing)
+    
 
- 
-
-     
-
-* [English](https://wire.com/legal)
-* [German](https://wire.com/de/nutzungsbedingungen)
-
-English
-
-[Talk to Sales](https://wire.com/en/contact-us?hsLang=en)
-
-![legal](https://wire.com/hs-fs/hubfs/legal.jpg?width=1253&height=836&name=legal.jpg)
+[Log in](https://app.wire.com/) [Contact Sales](https://wire.com/en/contact-sales)
 
 Legal
-=====
 
-###### Explaining the important
+Legislation & Compliance 
+=========================
 
 ### About Wire
 
@@ -63,60 +59,58 @@ Legal
     
 * Wire follows European privacy laws.
     
-* This was a brief summary of our Privacy Policy. Read the complete version below. If you have any questions about it, please contact us at privacy@wire.com.
+* This was a brief summary of our Privacy Policy. Read the complete version below. If you have any questions about it, please contact us at [privacy@wire.com](mailto:privacy@wire.com).
     
 
-[### Terms of Use (Personal)](https://start.wire.com/en-us/terms-of-use-personal?hsLang=en)
+### [Terms of Use (Personal) ->](https://wire.com/en/terms-of-use-personal)
 
-[### Terms of Use (Business)](https://start.wire.com/en-us/en-us/terms-of-use-business?hsLang=en)
+### [Terms of Use (Business) ->](https://wire.com/en/terms-of-use-personal-0)
 
-[### Data Processing Addendum](https://start.wire.com/en-us/data-processing-addendum?hsLang=en)
+### [Data Processing Addendum ->](https://wire.com/en/data-processing-addendum)
 
-[### License Information](https://start.wire.com/en-us/en-us/terms-of-use-personal-0-0?hsLang=en)
+### [License  
+Information ->](https://wire.com/en/license-information)
 
-[![WIRE_Logo_rgb_black](https://wire.com/hubfs/WIRE_Logo_rgb_black.svg "WIRE_Logo_rgb_black")](https://wire.com/?hsLang=en)
+[![logo white no whitespace](https://wire.com/hubfs/logo%20white%20no%20whitespace.svg)](https://wire.com/en/home)
 
-The most demanding organizations in the world rely on Wire with its always-on encryption for chats, voice and video conferences, as well as multiple security features and centralized team and permissions management
+[](https://www.linkedin.com/company/wire-secure-communication)[](https://github.com/wireapp)
 
-###### Product
+### Products
 
-[Product](https://wire.com/en/product?hsLang=en)[](https://wire.com/?hsLang=en)
+* [Features](https://wire.com/en/features)
+* [Security](https://wire.com/en/security)
+* [Plans & Pricing](https://wire.com/en/pricing)
+* [Deployment options](https://wire.com/en/deployment-options)
 
-###### Solutions
+### Solutions
 
-[Public Sector](https://wire.com/en/solution-public-sector?hsLang=en)  
-[](https://wire.com/?hsLang=en)
+* [Individuals & Business](https://wire.com/en/smb)
+* [Enterprise](https://wire.com/en/enterprise)
+* [Government](https://wire.com/en/government)
+* [Contact Sales](https://wire.com/en/contact-sales)
 
-[Enterprise](https://wire.com/en/solution-enterprise?hsLang=en)
+### Usecases
 
-###### Company
+* [Compliance](https://wire.com/en/compliance)
+* [Emergency Collaboration](https://wire.com/en/emergency-communication)
+* [Restricted Environments](https://wire-com.sandbox.hs-sites-eu1.com/en/restricted-environments)
+* [Non-Profit Organizations](https://wire.com/en/non-profit-organizations)
 
-[About us](https://wire.com/en/about-us?hsLang=en)
+### Resources
 
-[Blog](https://wire.com/blog?hsLang=en)
+* [Download](https://wire.com/en/app-download)
+* [Support](https://support.wire.com/)
+* [Blog](https://wire.com/blog)
+* [Github](https://github.com/wireapp/)
+* [Vulnerability Reporting](https://wire.com/en/vulnerability-reporting)
 
-[Careers](https://start.wire.com/careers-en?hsLang=en)
+### Company
 
-[Press](https://start.wire.com/presse?hsLang=en)
+* [About us](https://wire.com/en/about-us)
+* [Career](https://wire.bamboohr.com/careers)
+* [Transparency](https://wire.com/en/transparency-report)
+* [Wire Cloud Status](https://status.wire.com/)
+* [Privacy Policy](https://wire.com/en/privacy-policy)
+* [Legal](https://wire.com/en/legal)
 
-[Legal](https://wire.com/legal)
-
-[Privacy Policy](https://wire.com/privacy-policy?hsLang=en)
-
-[Transparency](https://wire.com/en/transparency-report?hsLang=en)
-
-###### Support
-
-[User-Support](https://support.wire.com/)[](https://wire.com/?hsLang=en)
-
-[App-Download](https://wire.com/en/app-download?hsLang=en)
-
-[Documentation](https://docs.wire.com/)
-
-[Wire Cloud Status](https://status.wire.com/)
-
-[Open Source Library](https://github.com/wireapp/wire)
-
- [![Visit linkedin](https://f.hubspotusercontent10.net/hubfs/8768169/Elements/Theme/icons/social/linkedin.svg)](https://de.linkedin.com/company/wire-secure-communication)[![Visit web](https://wire.com/hs-fs/hubfs/github_logo.png?width=32&name=github_logo.png)](https://github.com/wireapp)
-
-[Imprint](https://start.wire.com/impressum-en?hsLang=en) | Copyright 2024 © Wire Swiss
+[Imprint](https://wire.com/en/imprint) | Copyright 2024 © Wire Swiss
