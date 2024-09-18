@@ -53,12 +53,12 @@
         
     * [HR services](https://junipereducation.org/staff-solutions/hr-services?hsLang=en)
         
-*  [![menu04](https://junipereducation.org/hubfs/Juniper%20-%20Theme/menu04.svg)Websites and engagement solutions Websites, Branding Support, Engagement Tools and more.](https://junipereducation.org/website-and-engagement-solutions/?hsLang=en)
-    * [School website services](https://junipereducation.org/website-and-engagement-solutions/school-website-services/?hsLang=en)
-        * [Website portfolio](https://junipereducation.org/communication/school-websites/portfolio/?hsLang=en)
-    * [Communication tools](https://junipereducation.org/website-and-engagement-solutions/communication-tools/?hsLang=en)
+*  [![menu04](https://junipereducation.org/hubfs/Juniper%20-%20Theme/menu04.svg)Websites and engagement solutions Websites, Branding Support, Engagement Tools and more.](https://websites.junipereducation.org/)
+    * [School website services](https://websites.junipereducation.org/)
+        * [Website portfolio](https://websites.junipereducation.org/our-work)
+    * [Communication tools](https://websites.junipereducation.org/communication-tools)
         
-    * [MAT websites and marketing services](https://junipereducation.org/mat-websites-and-marketing/?hsLang=en)
+    * [MAT websites and marketing services](https://websites.junipereducation.org/multi-academy-trusts)
         
     * [Parent engagement app](https://junipereducation.org/parental-engagement/?hsLang=en)
         
@@ -76,9 +76,9 @@
 * [Performance management software](https://junipereducation.org/staff-solutions/performance-management-software-/?hsLang=en)
 * [HR services](https://junipereducation.org/staff-solutions/hr-services?hsLang=en)
 
-* [School website services](https://junipereducation.org/website-and-engagement-solutions/school-website-services/?hsLang=en)
-* [Communication tools](https://junipereducation.org/website-and-engagement-solutions/communication-tools/?hsLang=en)
-* [MAT websites and marketing services](https://junipereducation.org/mat-websites-and-marketing/?hsLang=en)
+* [School website services](https://websites.junipereducation.org/)
+* [Communication tools](https://websites.junipereducation.org/communication-tools)
+* [MAT websites and marketing services](https://websites.junipereducation.org/multi-academy-trusts)
 * [Parent engagement app](https://junipereducation.org/parental-engagement/?hsLang=en)
 
 * [Progress and outcomes](https://junipereducation.org/classroom-primary/progress-and-outcomes/?hsLang=en)
@@ -91,7 +91,7 @@
 * [MAT insights and data](https://junipereducation.org/classroom-secondary/insights-and-data/?hsLang=en)
 * [Supporting teachers](https://junipereducation.org/classroom-secondary/supporting-teachers/?hsLang=en)
 
-* [Website portfolio](https://junipereducation.org/communication/school-websites/portfolio/?hsLang=en)
+* [Website portfolio](https://websites.junipereducation.org/our-work)
 
 ![home-header-40-min-1024x682.jpeg-2](https://junipereducation.org/hs-fs/hubfs/home-header-40-min-1024x682.jpeg-2.webp?width=1024&height=682&name=home-header-40-min-1024x682.jpeg-2.webp)
 
