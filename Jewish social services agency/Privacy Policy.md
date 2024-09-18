@@ -1,5 +1,13 @@
 ![](https://www.facebook.com/tr?id=2611858029067765&ev=PageView&noscript=1)        [Skip to content](#site-main)
 
+![](https://www.jssa.org/wp-content/uploads/2024/09/shutterstock_2215437647-300x199.jpg)
+
+### You Bring Hope to Neighbors in Need
+
+Help JSSA reach a critical $25,000 fundraising goal by October 1 and reach more neighbors in need! Your support gives hope and warmth to those facing life's most challenging moments.
+
+[GIVE NOW](http://www.jssa.org/bringhope/ "GIVE NOW")
+
 [240-800-JSSA (5772)](tel:2408005772)
 
 [240-800-JSSA (5772)](tel:2408005772)
