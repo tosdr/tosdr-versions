@@ -228,12 +228,11 @@ It's Not News, It's Fark
 
 [Report](https://www.fark.com/farkback/)
 
-Want more news before we break it? Try
+If you like these links, you'll love
 
 ![TotalFark](https://img.fark.net/images/2017/site/totalfark_logo_2017.png)
 
-See what's behind the green door  
-and help keep the tap flowing
+Come check out what's behind the curtain.
 
 [learn more](https://www.fark.com/farq/about/#What_is_TotalFark) | [sign up](https://www.fark.com/totalfarksignup)
 
@@ -333,16 +332,16 @@ Also on Fark
 
 |     |     |
 | --- | --- |
-| [Main](https://www.fark.com/) | [Sold](https://www.fark.com/goto/13396738) ( [zillow.com](https://www.fark.com/goto/13396738) ) » [(16 comments)](https://www.fark.com/comments/13396738/Sold) |
-| [Discussion](https://www.fark.com/discussion/) | ["My wife and I had a threesome with another woman. I've been seeing this other woman behind my wife's back. How long can I keep up the charade?" (possible nsfw content on page)](https://www.fark.com/goto/13396434) ( [thesun.co.uk](https://www.fark.com/goto/13396434) ) » [(3 comments)](https://www.fark.com/comments/13396434/My-wife-I-had-a-threesome-with-another-woman-Ive-been-seeing-this-other-woman-behind-my-wifes-back-How-long-can-I-keep-up-charade-possible-nsfw-content-on-page) |
-| [Sports](https://www.fark.com/sports/) | [Heliot Ramos becomes the first right-handed batter ever to hit a home run ball into McCovey Cove in San Francisco](https://www.fark.com/goto/13396304) ( [espn.com](https://www.fark.com/goto/13396304) ) » [(1 comment)](https://www.fark.com/comments/13396304/Heliot-Ramos-becomes-first-right-handed-batter-ever-to-hit-a-home-run-ball-into-McCovey-Cove-in-San-Francisco) |
-| [Business](https://www.fark.com/business/) | [Answer to the headline is in the subheading. No need to read the article](https://www.fark.com/goto/13396678) ( [dmagazine.com](https://www.fark.com/goto/13396678) ) » [(0 comments)](https://www.fark.com/comments/13396678/Answer-to-headline-is-in-subheading-No-need-to-read-article) |
-| [STEM](https://www.fark.com/stem/) | [Innovative instrument reveals hidden features deep inside the Van Allen belt, menacing planet](https://www.fark.com/goto/13396456) ( [science.nasa.gov](https://www.fark.com/goto/13396456) ) » [(1 comment)](https://www.fark.com/comments/13396456/Innovative-instrument-reveals-hidden-features-deep-inside-Van-Allen-belt-menacing-planet) |
-| [Entertainment](https://www.fark.com/entertainment/) | [Netflix's most-watched shows of the year...Cor blimey, guvnah, they're all British now innit summin?](https://www.fark.com/goto/13396222) ( [deadline.com](https://www.fark.com/goto/13396222) ) » [(7 comments)](https://www.fark.com/comments/13396222/Netflixs-most-watched-shows-of-yearCor-blimey-guvnah-theyre-all-British-now-innit-summin) |
-| [Fandom](https://www.fark.com/fandom/) | [Michael Myers' Call of Duty glow-up will cost you $30](https://www.fark.com/goto/13396672) ( [ggrecon.com](https://www.fark.com/goto/13396672) ) » [(1 comment)](https://www.fark.com/comments/13396672/Michael-Myers-Call-of-Duty-glow-up-will-cost-you-$30) |
-| [D'awww](https://www.fark.com/dawww/) | [Red ALERT: Zoo has lost an extremely dangerous and savage... capybara. Public warned not to go near it for fear of succumbing from cuteness overload](https://www.fark.com/goto/13396132) ( [metro.co.uk](https://www.fark.com/goto/13396132) ) » [(2 comments)](https://www.fark.com/comments/13396132/Red-ALERT-Zoo-has-lost-an-extremely-dangerous-savage-capybara-Public-warned-not-to-go-near-it-for-fear-of-succumbing-from-cuteness-overload) |
-| [Food](https://www.fark.com/food/) | [Writer needs fainting couch after learning paprika is made from bell peppers](https://www.fark.com/goto/13396374) ( [huffingtonpost.co.uk](https://www.fark.com/goto/13396374) ) » [(9 comments)](https://www.fark.com/comments/13396374/Writer-needs-fainting-couch-after-learning-paprika-is-made-from-bell-peppers) |
-| [Politics](https://www.fark.com/politics/) | [Fourteen percent of Republicans say if Trump doesn't win they will go full Ashli Babbitt. No. Don't. Stop](https://www.fark.com/goto/13396782) ( [newrepublic.com](https://www.fark.com/goto/13396782) ) » [(12 comments)](https://www.fark.com/comments/13396782/Fourteen-percent-of-Republicans-say-if-Trump-doesnt-win-they-will-go-full-Ashli-Babbitt-No-Dont-Stop) |
+| [Main](https://www.fark.com/) | [The explosions went a little over budget](https://www.fark.com/goto/13397070) ( [tmz.com](https://www.fark.com/goto/13397070) ) » [(13 comments)](https://www.fark.com/comments/13397070/The-explosions-went-a-little-over-budget) |
+| [Discussion](https://www.fark.com/discussion/) | [The Tuesday Night Science Channel Discussion Thread, 9PM Eastern](https://www.fark.com/goto/13396338) ( [fark.com](https://www.fark.com/goto/13396338) ) » [(2 comments)](https://www.fark.com/comments/13396338/The-Tuesday-Night-Science-Channel-Discussion-Thread-9PM-Eastern) |
+| [Sports](https://www.fark.com/sports/) | [Tonight on NXT: Jacy takes on Lola, Tatum & Lyra faces Wendy & TNA's Rosemary, Ashante battles DJ Platonic, NQCC tussle with Cedric & Je'Von, Trick & Ethan sign a contract & CM Punk has some news. See what else happens at 8 PM ET on USA](https://www.fark.com/goto/13396776) ( [wwe.com](https://www.fark.com/goto/13396776) ) » [(22 comments)](https://www.fark.com/comments/13396776/Tonight-on-NXT-Jacy-takes-on-Lola-Tatum-Lyra-faces-Wendy-TNAs-Rosemary-Ashante-battles-DJ-Platonic-NQCC-tussle-with-Cedric-JeVon-Trick-Ethan-sign-a-contract-CM-Punk-has-some-news-See-what-else-happens-at-8-PM-ET-on-USA) |
+| [Business](https://www.fark.com/business/) | [The Fed is raising the Dow on behalf of the Deep State](https://www.fark.com/goto/13396962) ( [qz.com](https://www.fark.com/goto/13396962) ) » [(7 comments)](https://www.fark.com/comments/13396962/The-Fed-is-raising-Dow-on-behalf-of-Deep-State) |
+| [STEM](https://www.fark.com/stem/) | [The Tuesday Night Science Channel Discussion Thread, 9PM Eastern](https://www.fark.com/goto/13396338) ( [fark.com](https://www.fark.com/goto/13396338) ) » [(2 comments)](https://www.fark.com/comments/13396338/The-Tuesday-Night-Science-Channel-Discussion-Thread-9PM-Eastern) |
+| [Entertainment](https://www.fark.com/entertainment/) | [The explosions went a little over budget](https://www.fark.com/goto/13397070) ( [tmz.com](https://www.fark.com/goto/13397070) ) » [(13 comments)](https://www.fark.com/comments/13397070/The-explosions-went-a-little-over-budget) |
+| [Fandom](https://www.fark.com/fandom/) | [You thought Clark Kent wore big specs?](https://www.fark.com/goto/13396870) ( [techcrunch.com](https://www.fark.com/goto/13396870) ) » [(10 comments)](https://www.fark.com/comments/13396870/You-thought-Clark-Kent-wore-big-specs) |
+| [D'awww](https://www.fark.com/dawww/) | [So glad I wore my brown shorts today](https://www.fark.com/goto/13396968) ( [wfsb.com](https://www.fark.com/goto/13396968) ) » [(4 comments)](https://www.fark.com/comments/13396968/So-glad-I-wore-my-brown-shorts-today) |
+| [Food](https://www.fark.com/food/) | [Bite-size pastries filled with pureed salmon. Geometric chicken cubes with beet polenta. Tiny cakes with "Happy Birthday" printed on the inside - you have to take a bite to get the message](https://www.fark.com/goto/13396908) ( [expmag.com](https://www.fark.com/goto/13396908) ) » [(5 comments)](https://www.fark.com/comments/13396908/Bite-size-pastries-filled-with-pureed-salmon-Geometric-chicken-cubes-with-beet-polenta-Tiny-cakes-with-Happy-Birthday-printed-on-inside-you-have-to-take-a-bite-to-get-message) |
+| [Politics](https://www.fark.com/politics/) | [Oh, dear. He's gonna be posting "I HATE DOLLY PARTON" soon, isn't he?](https://www.fark.com/goto/13397052) ( [variety.com](https://www.fark.com/goto/13397052) ) » [(22 comments)](https://www.fark.com/comments/13397052/Oh-dear-Hes-gonna-be-posting-I-HATE-DOLLY-PARTON-soon-isnt-he) |
 
 * Fark :: [Main](https://www.fark.com/) | [Discussion](https://www.fark.com/discussion/) | [Sports](https://www.fark.com/sports/) | [Business](https://www.fark.com/business/) | [STEM](https://www.fark.com/stem/) | [Entertainment](https://www.fark.com/entertainment/) | [Fandom](https://www.fark.com/fandom/) | [D'awww](https://www.fark.com/dawww/) | [Food](https://www.fark.com/food/) | [Politics](https://www.fark.com/politics/)
 * Total Fark :: [TotalFark](https://total.fark.com/) | [TF Live](https://total.fark.com/live/) | [TF Advice](https://total.fark.com/advice/) | [TF Discussion](https://total.fark.com/tfdiscussion/) | [Commented](https://total.fark.com/commented/) | [Top Voted](https://total.fark.com/linkvote/) | [Greenlit](https://total.fark.com/greenlit/)
@@ -352,7 +351,7 @@ Also on Fark
 
 [Submit a Link »](https://www.fark.com/submit/)
 
-Copyright © 1999 - 2024 Fark, Inc | Last updated: Sep 17 2024 14:43:40  
+Copyright © 1999 - 2024 Fark, Inc | Last updated: Sep 17 2024 20:42:12  
 [Contact Us via Farkback](https://www.fark.com/farkback)  |  [Report a bug/error msg](https://www.fark.com/farkback/error)  |  [Terms of service/legal/privacy policy](https://www.fark.com/farq/legal)  |  [Do Not Sell or Share My Personal Information](javascript:void(0))  
 ![](https://www.fark.com/ll)
 
