@@ -2,97 +2,53 @@ Join CTO Moataz Soliman as he explores the potential impact poor performance can
 
 [UPDATES
 
-Perfect your app’s user experience with Instabug’s Flows, Feature Flags, AI visual insights and much more this Summer!](https://instabug.com/launch)
+Discover how Instabug's AI-powered mobile observability is transforming app development with zero-maintenance apps](https://www.instabug.com/blog/ai-enabled-mobile-observability)
 
 [![](https://cdn.prod.website-files.com/62706e0299180d3045eb2cab/627d2a2524a45baccfc69ebf_LogoOnDark.svg)![Instabug Logo](https://cdn.prod.website-files.com/62706e0299180d3045eb2cab/627d2a253b5874d74cc35bf1_LogoOnWhite.svg)](https://instabug.com/)
 
 Product
 
-[![](https://cdn.prod.website-files.com/62706e0299180d3045eb2cab/65b6609d5a37c967e1451e62_product-overview.svg)
+[![](https://cdn.prod.website-files.com/62706e0299180d3045eb2cab/66e852be46c78102de730bd8_whatis-icon.svg)
 
-Product Overview
+What is Mobile Observability?
 
-The all-in-one solution for proactive and reactive feedback](https://instabug.com/product)
+The complete mobile observability platform for app growth and performance](https://instabug.com/mobile-observability)
+
+Instabug's Mobile Observability Platform
+
+[![](https://cdn.prod.website-files.com/62706e0299180d3045eb2cab/66e0422e5833eb8f995d054b_test-nav.svg)
 
 Test Your App Before Every Release
 
-[![](https://cdn.prod.website-files.com/62706e0299180d3045eb2cab/65b65dcb21078c5d27d9e484_bug-reporting.svg)
+Release seamless apps with proactive bug and crash detection](https://instabug.com/usecase/test)[![](https://cdn.prod.website-files.com/62706e0299180d3045eb2cab/66e0422e683c03e3c730ed61_improve-nav.svg)
 
-Bug Reporting
+Improve Your App Stability and Performance
 
-Receive reports from users with the context needed to fix issues](https://instabug.com/product/bug-reporting)[![](https://cdn.prod.website-files.com/62706e0299180d3045eb2cab/65b65e3713bba4915a150add_crash-reporting.svg)
-
-Crash Reporting
-
-Identify crash frequency and severity with comprehensive logs](https://instabug.com/product/crash-reporting)[![](https://cdn.prod.website-files.com/62706e0299180d3045eb2cab/65b8ebe73145655999240753_apm.svg)
-
-App Performance Monitoring
-
-Align teams around one quality metric to decide whether to build or fix](https://instabug.com/product/app-performance-monitoring)
-
-Improve Your App Stability
-
-[![](https://cdn.prod.website-files.com/62706e0299180d3045eb2cab/65b8ebf8a94e52eabf35666f_sr.svg)
-
-Session Replay
-
-See exactly what your users are experiencing in real-time](https://instabug.com/product/session-replay)[![](https://cdn.prod.website-files.com/62706e0299180d3045eb2cab/66855a1f0d7c95d3a985b707_flows.svg)
-
-Flows
-
-NEW
-
-Optimize your critical user journeys and reduce drop-offs](https://instabug.com/product/flows)[![](https://cdn.prod.website-files.com/62706e0299180d3045eb2cab/65b8ec0742dcb42e5a87d072_arr.svg)
-
-App Ratings and Reviews
-
-Debug and monitor app ratings and reviews](https://instabug.com/product/app-ratings-reviews)
+Optimize stability and performance for exceptional app experiences](https://instabug.com/usecase/improve)[![](https://cdn.prod.website-files.com/62706e0299180d3045eb2cab/66e0422e00e7444138e4632c_collect-nav.svg)
 
 Collect Actionable User Feedback
 
-[![](https://cdn.prod.website-files.com/62706e0299180d3045eb2cab/65b8ec120b777447224053c3_rm.svg)
+Harness user insights to continuously enhance app quality](https://instabug.com/usecase/collect)
 
-Release Management
+Integrations
 
-Take full control of your mobile app's phased rollout](https://instabug.com/product/release-management)[![](https://cdn.prod.website-files.com/62706e0299180d3045eb2cab/66855a37822e61ab73d1642d_flags.svg)
+[![](https://cdn.prod.website-files.com/62706e0299180d3045eb2cab/65b90d9f9a51c860012f5848_Jira.svg)
 
-Feature Flags
+Jira](https://instabug.com/integrations/jira)[![](https://cdn.prod.website-files.com/62706e0299180d3045eb2cab/65b90da890efb53a9bef44ee_Github.svg)
 
-NEW
+Github](https://instabug.com/integrations/github)[![](https://cdn.prod.website-files.com/62706e0299180d3045eb2cab/65b90db2de5db15d8751c31e_Datadog.svg)
 
-Track feature flag performance to find and mitigate issues](https://instabug.com/product/feature-flags)[![](https://cdn.prod.website-files.com/62706e0299180d3045eb2cab/66855ab4add6b60f0bb77f9c_in-s.svg)
+Datadog](https://instabug.com/integrations/datadog)[![](https://cdn.prod.website-files.com/62706e0299180d3045eb2cab/65b90dbb5a43bcdcff7168f7_Slack.svg)
 
-In-App Surveys
+Slack](https://instabug.com/integrations/slack)[![](https://cdn.prod.website-files.com/62706e0299180d3045eb2cab/65b90dc4a764c71cf42f0358_Zapier.svg)
 
-Receive reports from users with the context needed to fix issues](https://instabug.com/product/in-app-surveys)
+Zapier](https://instabug.com/integrations/zapier)[![](https://cdn.prod.website-files.com/62706e0299180d3045eb2cab/65b90dcde62514e6774d488e_Okta.svg)
 
-Platform
+Okta](https://instabug.com/integrations/okta)
 
-[Why Instabug
+[Browse all integrations](https://instabug.com/integrations)
 
-Unlock mobile app-specific insights to fix and fend off mobile meltdowns](https://instabug.com/platform/why-instabug)
-
-[![](https://cdn.prod.website-files.com/62706e0299180d3045eb2cab/65d35e0ca86342fca341c8a8_automated-reproduction.svg)
-
-Automated Reproduction
-
-Reproduce crashes and bugs without the need to maintain breadcrumbs](https://instabug.com/platform/automated-reproduction)[![](https://cdn.prod.website-files.com/62706e0299180d3045eb2cab/65b8ecaf340596fe7a56209c_team-performance.svg)
-
-Team Performance
-
-Foster a performance culture and establish scalable workflows and processes](https://instabug.com/platform/team-performance)
-
-[![](https://cdn.prod.website-files.com/62706e0299180d3045eb2cab/65d35e2244bcec6b7d0945d0_user-centric.svg)
-
-User-Centric Insights
-
-Get a clear picture of what your users experience to prioritize and fix issues](https://instabug.com/platform/user-centric-insights)[![](https://cdn.prod.website-files.com/62706e0299180d3045eb2cab/65d35e31a8a6b9678806c945_release-centered.svg)
-
-Release Centered
-
-Track and organize release-specific metrics to improve performance](https://instabug.com/platform/release-centered)
-
-[Pricing](https://instabug.com/pricing)
+[Pricing](https://instabug.com/pricing)[Customers](https://instabug.com/customers)
 
 Developers
 
@@ -120,29 +76,21 @@ Xamarin](https://instabug.com/platforms/xamarin)
 
 [Browse all platforms](https://instabug.com/platforms)
 
-Integrations
-
-[![](https://cdn.prod.website-files.com/62706e0299180d3045eb2cab/65b90d9f9a51c860012f5848_Jira.svg)
-
-Jira](https://instabug.com/integrations/jira)[![](https://cdn.prod.website-files.com/62706e0299180d3045eb2cab/65b90da890efb53a9bef44ee_Github.svg)
-
-Github](https://instabug.com/integrations/github)[![](https://cdn.prod.website-files.com/62706e0299180d3045eb2cab/65b90db2de5db15d8751c31e_Datadog.svg)
-
-Datadog](https://instabug.com/integrations/datadog)[![](https://cdn.prod.website-files.com/62706e0299180d3045eb2cab/65b90dbb5a43bcdcff7168f7_Slack.svg)
-
-Slack](https://instabug.com/integrations/slack)[![](https://cdn.prod.website-files.com/62706e0299180d3045eb2cab/65b90dc4a764c71cf42f0358_Zapier.svg)
-
-Zapier](https://instabug.com/integrations/zapier)[![](https://cdn.prod.website-files.com/62706e0299180d3045eb2cab/65b90dcde62514e6774d488e_Okta.svg)
-
-Okta](https://instabug.com/integrations/okta)
-
-[Browse all integrations](https://instabug.com/integrations)
-
-[Customers](https://instabug.com/customers)
-
-Resources
+Blog and Resources  
 
 [Blog](https://instabug.com/blog)[Reviews](https://instabug.com/reviews)[FAQs](https://instabug.com/faq)
+
+[Featured
+
+Benchmark Report
+
+Mobile App Stability Outlook 2024
+
+Get a holistic view of the current state of mobile app stability
+
+Read More
+
+![](https://cdn.prod.website-files.com/62706e0299180d3045eb2cab/65b99a8dc0c8af63eb42ceab_nav-featured.png)](https://instabug.com/mobile-app-stability-outlook-2024)
 
 Tools
 
@@ -151,18 +99,6 @@ Tools
 Reproduce crashes and bugs without the need to maintain breadcrumbs](https://instabug.com/sentiment-analysis)[ROI Calculator
 
 Get a clear picture of what your users experience to prioritize and fix issues](https://instabug.com/roi-calculator)
-
-[Featured
-
-Benchmark Report
-
-Mobile App Stability Outlook 2023
-
-Get a holistic view of the current state of mobile app stability
-
-Read More
-
-![](https://cdn.prod.website-files.com/62706e0299180d3045eb2cab/65b99a8dc0c8af63eb42ceab_nav-featured.png)](https://instabug.com/mobile-app-stability-outlook-2023)
 
 [Sandbox](https://demo-dashboard.instabug.com/demo)[Login](https://dashboard.instabug.com/login)[Get Started](https://dashboard.instabug.com/signup)
 
@@ -293,7 +229,7 @@ and Reviews](https://instabug.com/product/app-ratings-reviews)[Flows](https://in
 
 ### RESOURCES
 
-[Customers](https://instabug.com/customers)[Reviews](https://instabug.com/reviews)[Blog](https://instabug.com/blog)[Docs](https://docs.instabug.com/)[Help Center](https://help.instabug.com/en/?utm_source=website-hc&utm_medium=hc&utm_campaign=footer-hc&utm_content=v1)[FAQs](https://instabug.com/faq)[Research Program](https://instabug.com/ux-research-program)[ROI Calculator](https://instabug.com/roi-calculator)[Sentiment Analysis](https://instabug.com/sentiment-analysis)[Benchmark Report](https://instabug.com/mobile-app-stability-outlook-2023)
+[Customers](https://instabug.com/customers)[Reviews](https://instabug.com/reviews)[Blog](https://instabug.com/blog)[Docs](https://docs.instabug.com/)[Help Center](https://help.instabug.com/en/?utm_source=website-hc&utm_medium=hc&utm_campaign=footer-hc&utm_content=v1)[FAQs](https://instabug.com/faq)[Research Program](https://instabug.com/ux-research-program)[ROI Calculator](https://instabug.com/roi-calculator)[Sentiment Analysis](https://instabug.com/sentiment-analysis)[Benchmark Report](https://instabug.com/mobile-app-stability-outlook-2024)
 
 ### COMPANY
 
