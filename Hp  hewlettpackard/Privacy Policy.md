@@ -309,9 +309,9 @@ Select Your Country/Region and Language
 * [Việt Nam](https://www.hp.com/vn-vi/home.html "Việt Nam")
 * [ไทย](https://www.hp.com/th-th/home.html "ไทย")
 * [中华人民共和国](https://www.hp.com/cn-zh/home.html "中华人民共和国")
-* [中國香港 - 繁體中文](https://www.hp.com/hk-zh/home.html "中國香港 - 繁體中文")
 * [臺灣 地區](https://www.hp.com/tw-zh/home.html "臺灣 地區")
 * [日本](https://www.hp.com/jp-ja/home.html "日本")
+* [香港特別行政區](https://www.hp.com/hk-zh/home.html "香港特別行政區")
 * [한국](https://www.hp.com/kr-ko/home.html "한국")
 
 [Europe, Middle East and Africa](javascript:void(0); "Europe, Middle East and Africa")
@@ -446,9 +446,9 @@ Click or use the tab key to select your country
 * [المملكة العربية السعودية](https://www.hp.com/sa-ar/home.html "المملكة العربية السعودية")
 * [ไทย](https://www.hp.com/th-th/home.html "ไทย")
 * [中华人民共和国](https://www.hp.com/cn-zh/home.html "中华人民共和国")
-* [中國香港 - 繁體中文](https://www.hp.com/hk-zh/home.html "中國香港 - 繁體中文")
 * [臺灣 地區](https://www.hp.com/tw-zh/home.html "臺灣 地區")
 * [日本](https://www.hp.com/jp-ja/home.html "日本")
+* [香港特別行政區](https://www.hp.com/hk-zh/home.html "香港特別行政區")
 * [한국](https://www.hp.com/kr-ko/home.html "한국")
 
 popUpSREndingLabelString
