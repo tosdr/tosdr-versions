@@ -50,7 +50,7 @@ Specialty
 
 [Amino Acids](https://www.naturesbounty.com/collections/amino-acids) [Diet & Lifestyle](https://www.naturesbounty.com/collections/diet-and-lifestyle) [View All Specialty](https://www.naturesbounty.com/collections/specialty)
 
-[View All Products](https://www.naturesbounty.com/pages/our-products)
+[Best Sellers](https://www.naturesbounty.com/collections/favorites) [View All Products](https://www.naturesbounty.com/pages/our-products)
 
 Discover Our NEW Women’s Wellness Hub
 
@@ -99,6 +99,8 @@ Shop by
 [Herbs](https://www.naturesbounty.com/collections/herbs)
 
 [Specialty](https://www.naturesbounty.com/collections/specialty)
+
+[Best Sellers](https://www.naturesbounty.com/collections/favorites)
 
 [View All Products](https://www.naturesbounty.com/pages/our-products)
 
