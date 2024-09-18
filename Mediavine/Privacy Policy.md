@@ -114,23 +114,25 @@ Digital Services Act Transparency Report
 
 Our DSA report demonstrates how Mediavine complies with transparency and safety requirements as a provider of intermediary services.
 
-Terms of Use
-------------
+Terms of Service
+----------------
 
 * * *
 
 [Grow Publisher Terms of Service »](https://vault.pactsafe.io/s/9cf003f8-52ba-4f99-af33-f4edb31f1d1a/privacy.html#template-znpbbmzhz)
 -------------------------------------------------------------------------------------------------------------------------------------
 
-The terms that apply to Grow users.
+The terms that apply to Grow publishers.
 
-[Grow User Terms of Service »](https://vault.pactsafe.io/s/9cf003f8-52ba-4f99-af33-f4edb31f1d1a/privacy.html#template-vcecorj99)
---------------------------------------------------------------------------------------------------------------------------------
+[Grow Reader Terms of Service »](https://vault.pactsafe.io/s/9cf003f8-52ba-4f99-af33-f4edb31f1d1a/privacy.html#template-vcecorj99)
+----------------------------------------------------------------------------------------------------------------------------------
 
-The terms that apply to Grow users.
+The terms that apply to Grow readers.
 
 [Terms and Conditions »](https://vault.pactsafe.io/s/9cf003f8-52ba-4f99-af33-f4edb31f1d1a/privacy.html#template-yvak8tuet)
 --------------------------------------------------------------------------------------------------------------------------
+
+Mediavine owned and operated website terms and conditions.
 
 Additional Information
 ----------------------
