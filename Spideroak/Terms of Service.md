@@ -1,4 +1,4 @@
-[![SpiderOak](data:image/svg+xml;nitro-empty-id=Mjg5OjMzOA==-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgODAwIDE4NSIgd2lkdGg9IjgwMCIgaGVpZ2h0PSIxODUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)![SpiderOak](data:image/svg+xml;nitro-empty-id=Mjg5OjY4NQ==-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgODAwIDE4NSIgd2lkdGg9IjgwMCIgaGVpZ2h0PSIxODUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)](https://spideroak.com/)
+[![SpiderOak](data:image/svg+xml;nitro-empty-id=MjkyOjMzOA==-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgODAwIDE4NSIgd2lkdGg9IjgwMCIgaGVpZ2h0PSIxODUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)![SpiderOak](data:image/svg+xml;nitro-empty-id=MjkyOjY4NQ==-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgODAwIDE4NSIgd2lkdGg9IjgwMCIgaGVpZ2h0PSIxODUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)](https://spideroak.com/)
 
 * [Home](https://spideroak.com/ "Space Cybersecurity")
 * [About](https://spideroak.com/about/)
@@ -21,9 +21,9 @@
     
 * [In The News](https://spideroak.com/news)
 
-[![SpiderOak](data:image/svg+xml;nitro-empty-id=Mzc4OjMzOA==-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgODAwIDE4NSIgd2lkdGg9IjgwMCIgaGVpZ2h0PSIxODUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)![SpiderOak](data:image/svg+xml;nitro-empty-id=Mzc4OjY4NQ==-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgODAwIDE4NSIgd2lkdGg9IjgwMCIgaGVpZ2h0PSIxODUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)](https://spideroak.com/)
+[![SpiderOak](data:image/svg+xml;nitro-empty-id=MzgxOjMzOA==-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgODAwIDE4NSIgd2lkdGg9IjgwMCIgaGVpZ2h0PSIxODUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)![SpiderOak](data:image/svg+xml;nitro-empty-id=MzgxOjY4NQ==-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgODAwIDE4NSIgd2lkdGg9IjgwMCIgaGVpZ2h0PSIxODUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)](https://spideroak.com/)
 
-[![SpiderOak](data:image/svg+xml;nitro-empty-id=NDA3OjMzOA==-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgODAwIDE4NSIgd2lkdGg9IjgwMCIgaGVpZ2h0PSIxODUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)](https://spideroak.com/)
+[![SpiderOak](data:image/svg+xml;nitro-empty-id=NDEwOjMzOA==-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgODAwIDE4NSIgd2lkdGg9IjgwMCIgaGVpZ2h0PSIxODUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)](https://spideroak.com/)
 
 * [Home](https://spideroak.com/ "Space Cybersecurity")
 * [About](https://spideroak.com/about/)
