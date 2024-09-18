@@ -150,6 +150,11 @@ For further information regarding the applicable laws, regulations, and policies
 
 #### Defense News
 
+* [US special ops cuts armed overwatch buy, still needs to justify need](https://www.defensenews.com/air/2024/09/18/us-special-ops-cuts-armed-overwatch-buy-still-needs-to-justify-need/)  
+    09/18/24 08:00am  
+    
+    U.S. Special Operations Command cut down its desired purchase of the AT-802U Sky Warden, but officials still need to justify the need, says a government watchdog. (L3Harris)
+    
 * [Air Force meets recruitment goals, eyes 20% increase in 2025](https://www.defensenews.com/news/your-air-force/2024/09/17/air-force-meets-recruitment-goals-eyes-20-increase-in-2025/)  
     09/17/24 04:20pm  
     
@@ -164,11 +169,6 @@ For further information regarding the applicable laws, regulations, and policies
     09/17/24 03:48pm  
     
     E-2D Advanced Hawkeye aircraft conduct a test flight near St. Augustine, Florida. (Courtesy of Northrup Grumman)
-    
-* [Emphasis on electronic warfare a must, Air Force secretary says](https://www.defensenews.com/air/2024/09/17/emphasis-on-electronic-warfare-a-must-air-force-secretary-says/)  
-    09/17/24 11:09am  
-    
-    Personnel set up antennas at Vandenberg Space Force Base, California. The Air Force and Space Force are placing a greater emphasis on electronic warfare. (Tech. Sgt. Luke Kitterman/Space Force)
     
 
 Recent parts by keyword  
