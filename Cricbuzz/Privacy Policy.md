@@ -48,7 +48,7 @@ SEARCH
 
 [My Account](https://www.cricbuzz.com/premium-subscription/user/account-info "My Account") Sign Out
 
-[MATCHES](https://www.cricbuzz.com/cricket-match/live-scores)[BR vs SNP - Preview](https://www.cricbuzz.com/live-cricket-scores/92851/br-vs-snp-18th-match-caribbean-premier-league-2024 "Barbados Royals v St Kitts and Nevis Patriots, 18th Match - Preview")[SL vs NZ - Preview](https://www.cricbuzz.com/live-cricket-scores/105962/sl-vs-nz-1st-test-new-zealand-tour-of-sri-lanka-2024 "Sri Lanka v New Zealand, 1st Test - Preview")[AFG vs RSA - Preview](https://www.cricbuzz.com/live-cricket-scores/103843/afg-vs-rsa-1st-odi-afghanistan-v-south-africa-in-uae-2024 "Afghanistan v South Africa, 1st ODI - Preview")[SLK vs ABF - SLK Won](https://www.cricbuzz.com/live-cricket-scores/92849/slk-vs-abf-17th-match-caribbean-premier-league-2024 "Saint Lucia Kings v Antigua and Barbuda Falcons, 17th Match - SLK Won")[INDA vs INDD - INDA Won](https://www.cricbuzz.com/live-cricket-scores/104212/inda-vs-indd-3rd-match-duleep-trophy-2024 "India A v India D, 3rd Match - INDA Won")
+[MATCHES](https://www.cricbuzz.com/cricket-match/live-scores)[SNP vs BR - Ings Break](https://www.cricbuzz.com/live-cricket-scores/92851/snp-vs-br-18th-match-caribbean-premier-league-2024 "St Kitts and Nevis Patriots v Barbados Royals, 18th Match - Ings Break")[SL vs NZ - Preview](https://www.cricbuzz.com/live-cricket-scores/105962/sl-vs-nz-1st-test-new-zealand-tour-of-sri-lanka-2024 "Sri Lanka v New Zealand, 1st Test - Preview")[AFG vs RSA - Preview](https://www.cricbuzz.com/live-cricket-scores/103843/afg-vs-rsa-1st-odi-afghanistan-v-south-africa-in-uae-2024 "Afghanistan v South Africa, 1st ODI - Preview")[SLK vs ABF - SLK Won](https://www.cricbuzz.com/live-cricket-scores/92849/slk-vs-abf-17th-match-caribbean-premier-league-2024 "Saint Lucia Kings v Antigua and Barbuda Falcons, 17th Match - SLK Won")[INDA vs INDD - INDA Won](https://www.cricbuzz.com/live-cricket-scores/104212/inda-vs-indd-3rd-match-duleep-trophy-2024 "India A v India D, 3rd Match - INDA Won")
 
 AllLive NowToday
 
@@ -104,13 +104,17 @@ AllLive NowToday
     
     17th Match
     
-* [Barbados Royals vs St Kitts and Nevis Patriots](https://www.cricbuzz.com/live-cricket-scores/92851/br-vs-snp-18th-match-cpl-2024 "Barbados Royals v St Kitts and Nevis Patriots, 18th Match - Preview")
+* [St Kitts and Nevis Patriots vs Barbados Royals](https://www.cricbuzz.com/live-cricket-scores/92851/snp-vs-br-18th-match-cpl-2024 "St Kitts and Nevis Patriots v Barbados Royals, 18th Match - Ings Break")
     
     18th Match
     
-* [Trinbago Knight Riders vs Guyana Amazon Warriors](https://www.cricbuzz.com/live-cricket-scores/92856/tkr-vs-gaw-19th-match-cpl-2024 "Trinbago Knight Riders v Guyana Amazon Warriors, 19th Match - Upcoming")
+* [Trinbago Knight Riders vs Guyana Amazon Warriors](https://www.cricbuzz.com/live-cricket-scores/92856/tkr-vs-gaw-19th-match-cpl-2024 "Trinbago Knight Riders v Guyana Amazon Warriors, 19th Match - Preview")
     
     19th Match
+    
+* [Trinbago Knight Riders vs Antigua and Barbuda Falcons](https://www.cricbuzz.com/live-cricket-scores/92865/tkr-vs-abf-20th-match-cpl-2024 "Trinbago Knight Riders v Antigua and Barbuda Falcons, 20th Match - Upcoming")
+    
+    20th Match
     
 * DOMESTIC
     
@@ -148,7 +152,11 @@ AllLive NowToday
     
 * County Division 2
     
-    [Derbyshire vs Middlesex](https://www.cricbuzz.com/live-cricket-scores/85517/derby-vs-mdx-49th-match-county-division-2 "Derbyshire v Middlesex, 49th Match - Stumps")
+    [Yorkshire vs Glamorgan](https://www.cricbuzz.com/live-cricket-scores/85524/yorks-vs-glam-50th-match-county-division-2 "Yorkshire v Glamorgan, 50th Match - Stumps")
+    
+    50th Match
+    
+* [Derbyshire vs Middlesex](https://www.cricbuzz.com/live-cricket-scores/85517/derby-vs-mdx-49th-match-county-division-2 "Derbyshire v Middlesex, 49th Match - Stumps")
     
     49th Match
     
@@ -159,10 +167,6 @@ AllLive NowToday
 * [Gloucestershire vs Sussex](https://www.cricbuzz.com/live-cricket-scores/85528/gloucs-vs-sus-51st-match-county-division-2 "Gloucestershire v Sussex, 51st Match - Stumps")
     
     51st Match
-    
-* [Yorkshire vs Glamorgan](https://www.cricbuzz.com/live-cricket-scores/85524/yorks-vs-glam-50th-match-county-division-2 "Yorkshire v Glamorgan, 50th Match - Stumps")
-    
-    50th Match
     
 * South Africa v Sri Lanka
     
@@ -499,37 +503,37 @@ This Privacy Policy (the “**Privacy Policy**”) serves to inform you of our p
 
 [Context of cruelty hangs over Afghanistan-South Africa series](https://www.cricbuzz.com/cricket-news/131650/context-of-cruelty-hangs-over-afghanistan-south-africa-series "Context of cruelty hangs over Afghanistan-South Africa series")
 
-2h ago
+8h ago
 
   [](https://www.cricbuzz.com/cricket-news/131649/buoyed-sri-lanka-aim-to-topple-undercooked-new-zealand "Buoyed Sri Lanka aim to topple undercooked New Zealand")
 
 [Buoyed Sri Lanka aim to topple undercooked New Zealand](https://www.cricbuzz.com/cricket-news/131649/buoyed-sri-lanka-aim-to-topple-undercooked-new-zealand "Buoyed Sri Lanka aim to topple undercooked New Zealand")
 
-4h ago
+10h ago
 
   [](https://www.cricbuzz.com/cricket-news/131648/grounded-rana-on-the-upward-curve-believes-andre-adams "Grounded Rana on the upward curve believes Andre Adams")
 
 [Grounded Rana on the upward curve believes Andre Adams](https://www.cricbuzz.com/cricket-news/131648/grounded-rana-on-the-upward-curve-believes-andre-adams "Grounded Rana on the upward curve believes Andre Adams")
 
-5h ago
+11h ago
 
   [](https://www.cricbuzz.com/cricket-news/131647/rahul-has-rohits-backing-and-messaging-to-flourish-in-test-cricket "Rahul has Rohit's backing and messaging to 'flourish' in Test cricket")
 
 [Rahul has Rohit's backing and messaging to 'flourish' in Test cricket](https://www.cricbuzz.com/cricket-news/131647/rahul-has-rohits-backing-and-messaging-to-flourish-in-test-cricket "Rahul has Rohit's backing and messaging to 'flourish' in Test cricket")
 
-6h ago
+12h ago
 
   [](https://www.cricbuzz.com/cricket-news/131646/wtc-scenarios-india-favourites-for-third-straight-final-bangladesh-sri-lanka-stay-in-hunt "WTC scenarios: India favourites for third straight final; Bangladesh, Sri Lanka stay in hunt")
 
 [WTC scenarios: India favourites for third straight final; Bangladesh, Sri Lanka stay in hunt](https://www.cricbuzz.com/cricket-news/131646/wtc-scenarios-india-favourites-for-third-straight-final-bangladesh-sri-lanka-stay-in-hunt "WTC scenarios: India favourites for third straight final; Bangladesh, Sri Lanka stay in hunt")
 
-7h ago
+13h ago
 
   [](https://www.cricbuzz.com/cricket-news/131645/indias-test-season-of-reacquaintances-to-red-ball-rhythms-and-workload-management "India's Test season: Of reacquaintances to red-ball rhythms and workload management")
 
 [India's Test season: Of reacquaintances to red-ball rhythms and workload management](https://www.cricbuzz.com/cricket-news/131645/indias-test-season-of-reacquaintances-to-red-ball-rhythms-and-workload-management "India's Test season: Of reacquaintances to red-ball rhythms and workload management")
 
-7h ago
+13h ago
 
 [More News](https://www.cricbuzz.com/cricket-news "Click to view more News")
 
