@@ -138,22 +138,22 @@ Save settings
 
 ### Featured Articles
 
+[![Get to Know Yourself](https://www.wikihow.com/images/thumb/2/28/Get-to-Know-Yourself-Step-14.jpg/-crop-126-120-126px-Get-to-Know-Yourself-Step-14.jpg)
+
+How to  
+Get to Know Yourself: A Guide to Self-Discovery](https://www.wikihow.com/Get-to-Know-Yourself)
+
+[![1101 Angel Number](https://www.wikihow.com/images/thumb/e/ee/1101-Angel-Number-Step-13.jpg/-crop-126-120-126px-1101-Angel-Number-Step-13.jpg)
+
+Angel Number 1101: Meaning for Love, Twin Flames, Manifestation & More](https://www.wikihow.com/1101-Angel-Number)
+
+[![Deep Questions to Ask Friends](https://www.wikihow.com/images/thumb/8/89/Deep-Questions-to-Ask-Friends-Step-9.jpg/-crop-126-120-126px-Deep-Questions-to-Ask-Friends-Step-9.jpg)
+
+100+ Deep & Interesting Questions to Ask Your Friends](https://www.wikihow.com/Deep-Questions-to-Ask-Friends)
+
 [![Broski Meaning](https://www.wikihow.com/images/thumb/8/8e/Broski-Meaning-Step-8.jpg/-crop-126-120-126px-Broski-Meaning-Step-8.jpg)
 
 Who Uses The Term “Broski” & What Does it Mean?](https://www.wikihow.com/Broski-Meaning)
-
-[![Icks for Girls](https://www.wikihow.com/images/thumb/1/1a/Icks-for-Girls-Step-31.jpg/-crop-126-120-126px-Icks-for-Girls-Step-31.jpg)
-
-31 Things Girls Do That Give People the Ick (Plus, How to Stop Doing Them)](https://www.wikihow.com/Icks-for-Girls)
-
-[![Develop Good Study Habits for College](https://www.wikihow.com/images/thumb/3/36/Develop-Good-Study-Habits-for-College-Step-17-Version-4.jpg/-crop-126-120-126px-Develop-Good-Study-Habits-for-College-Step-17-Version-4.jpg)
-
-How to  
-Develop Good Study Habits for College](https://www.wikihow.com/Develop-Good-Study-Habits-for-College)
-
-[![Open a Beer Bottle with a Key](https://www.wikihow.com/images/thumb/5/56/Open-a-Beer-Bottle-with-a-Key-Step-14.jpg/-crop-126-120-126px-Open-a-Beer-Bottle-with-a-Key-Step-14.jpg)
-
-How to Remove a Bottlecap with a Key](https://www.wikihow.com/Open-a-Beer-Bottle-with-a-Key)
 
   
 
@@ -196,4 +196,4 @@ Follow Us
 
 ![](https://sb.scorecardresearch.com/p?c1=2&c2=8003466&cv=3.9.1&cj=1)
 
-130
+185
