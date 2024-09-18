@@ -122,6 +122,7 @@ Last Updated: November 15, 2011.
 
 ### Top Opinion
 
+*      [Mark Alexander The Demos’ Demolition of Our Constitution](https://patriotpost.us/alexander/110355-the-demos-demolition-of-our-constitution-2024-09-18)
 *      [Ben Shapiro Another Month, Another Trump Assassination Attempt](https://patriotpost.us/opinion/110334-another-month-another-trump-assassination-attempt-2024-09-18)
 *      [John Stossel Class Action Scams](https://patriotpost.us/opinion/110333-class-action-scams-2024-09-18)
 *      [Byron York A Kamala Harris Crowd: Big and Happy](https://patriotpost.us/opinion/110331-a-kamala-harris-crowd-big-and-happy-2024-09-18)
@@ -146,9 +147,7 @@ Last Updated: November 15, 2011.
 
 [END OF WATCH](https://patriotpost.us/end-of-watch)
 
-[![](https://img.patriotpost.us/01J5RS2YKRTNS1580CS7YVV0SF.jpeg)
-
-![](https://img.patriotpost.us/01J5RSAEYEKZ8DRMMYMBSNCWNH.jpeg)](https://patriotpostshop.com/collections/featured-products)
+[![](https://img.patriotpost.us/01J7K6RDZ8X6NRRKWH4N6BV0AY.jpeg)](https://patriotpostshop.com/collections/featured-products)
 
 ### The Foundation
 
