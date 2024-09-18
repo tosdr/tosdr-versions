@@ -401,35 +401,35 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
- [![Dallas doctor is expected to learn his punishment today after poisoning IV bags](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/03/32/18/raynaldo-ortiz.jpg?ve=1&tl=1)
+ [![Downtown Dallas attack: Suspect arrested, charged with aggravated assault](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/arrest-assault.jpg?ve=1&tl=1)
 
- ![Dallas doctor is expected to learn his punishment today after poisoning IV bags](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/03/32/18/592/333/raynaldo-ortiz.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/dallas-doctor-sentencing-poison-iv-bags)
+ ![Downtown Dallas attack: Suspect arrested, charged with aggravated assault](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/592/333/arrest-assault.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/downtown-dallas-attack-arrest-antonio-banks)
 
-### [Dallas doctor is expected to learn his punishment today after poisoning IV bags](https://www.fox4news.com/news/dallas-doctor-sentencing-poison-iv-bags)
+### [Downtown Dallas attack: Suspect arrested, charged with aggravated assault](https://www.fox4news.com/news/downtown-dallas-attack-arrest-antonio-banks)
 
- [![Frisco City Council approves $182M for Toyota Stadium improvements](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/05/32/18/V-TOYOTA-STADIUM-RENOVATIONS-9P_00.00.12.10.jpg?ve=1&tl=1)
+ [![Who's ahead in the race for president? New polls show movement in Pennsylvania, Georgia](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/trump-harris-4.jpg?ve=1&tl=1)
 
- ![Frisco City Council approves $182M for Toyota Stadium improvements](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/05/32/18/592/333/V-TOYOTA-STADIUM-RENOVATIONS-9P_00.00.12.10.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/toyota-stadium-improvements-frisco-city-council)
+ ![Who's ahead in the race for president? New polls show movement in Pennsylvania, Georgia](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/592/333/trump-harris-4.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/polls-presidential-latest-today-harris-trump-sept-18-2024)
 
-### [Frisco City Council approves $182M for Toyota Stadium improvements](https://www.fox4news.com/news/toyota-stadium-improvements-frisco-city-council)
+### [Poll roundup: Close race in swing states](https://www.fox4news.com/news/polls-presidential-latest-today-harris-trump-sept-18-2024)
 
- [![Dallas Shooting: 2 men seriously hurt when dice game turns violent](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/V-PARK-LANE-SHOOTNG-7A_00.00.01.12.jpg?ve=1&tl=1)
+ [![Dallas police officer arrested in Denton County child sex case](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/Brennon-Wilkinson-mug-Tarrant-Co.png?ve=1&tl=1)
 
- ![Dallas Shooting: 2 men seriously hurt when dice game turns violent](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/592/333/V-PARK-LANE-SHOOTNG-7A_00.00.01.12.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/dallas-shooting-park-lane-dice-game)
+ ![Dallas police officer arrested in Denton County child sex case](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/592/333/Brennon-Wilkinson-mug-Tarrant-Co.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/dallas-officer-brennon-wilkinson-child-sex-assault)
 
-### [Dallas Shooting: 2 men seriously hurt when dice game turns violent](https://www.fox4news.com/news/dallas-shooting-park-lane-dice-game)
+### [Dallas police officer arrested in Denton County child sex case](https://www.fox4news.com/news/dallas-officer-brennon-wilkinson-child-sex-assault)
 
- [![Fort Worth Police investigate domestic violence shooting](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/7AH1-FW-E-1ST-ST-MURDER_00.00.01.24.jpg?ve=1&tl=1)
+ [![Federal Reserve slashes key rate by half-point, signals end of inflation battle](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/GettyImages-2172604638.jpg?ve=1&tl=1)
 
- ![Fort Worth Police investigate domestic violence shooting](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/592/333/7AH1-FW-E-1ST-ST-MURDER_00.00.01.24.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/fort-worth-police-domestic-violence-shooting)
+ ![Federal Reserve slashes key rate by half-point, signals end of inflation battle](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/592/333/GettyImages-2172604638.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/fed-rate-cuts-today-what-to-know-september-18-2024)
 
-### [Fort Worth Police investigate domestic violence shooting](https://www.fox4news.com/news/fort-worth-police-domestic-violence-shooting)
+### [Federal Reserve slashes key rate by half-point, signals end of inflation battle](https://www.fox4news.com/news/fed-rate-cuts-today-what-to-know-september-18-2024)
 
- [![Langford and Taveras homer, struggling Heim has key hit as Rangers beat Blue Jays 13-8](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/GettyImages-2172742301.jpg?ve=1&tl=1)
+ [![Suspect arrested for Arlington hit-and-run that killed Marine reservist on her way to drills](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/arlington-hit-and-run.jpg?ve=1&tl=1)
 
- ![Langford and Taveras homer, struggling Heim has key hit as Rangers beat Blue Jays 13-8](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/592/333/GettyImages-2172742301.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/sports/langford-taveras-homer-struggling-heim-has-key-hit-rangers-beat-blue-jays-13-8)
+ ![Suspect arrested for Arlington hit-and-run that killed Marine reservist on her way to drills](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/592/333/arlington-hit-and-run.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/arlington-hit-and-run-josue-rodriguez-areauna-laws)
 
-### [Langford and Taveras homer, struggling Heim has key hit as Rangers beat Blue Jays 13-8](https://www.fox4news.com/sports/langford-taveras-homer-struggling-heim-has-key-hit-rangers-beat-blue-jays-13-8)
+### [Suspect arrested for Arlington hit-and-run that killed Marine reservist on her way to drills](https://www.fox4news.com/news/arlington-hit-and-run-josue-rodriguez-areauna-laws)
 
 ###### [News](https://www.fox4news.com/news)
 
