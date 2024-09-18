@@ -101,273 +101,31 @@ If you have any questions about our privacy policy, please [contact us](mailto:w
 
 Return to our [subscription form](https://www.icr.org/subscriptions).
 
-More Problems with Evolution
+More Creation Science Update
 
-[![](/i/Main%20Stage%20-%201400x1050/Human_Brain_Research_1400x1050.jpg)](https://www.icr.org/article/human-brain-research-finds-new-folds)
+[![](/i/Main%20Stage%20-%201400x1050/jameswebb-1400x1050)](https://www.icr.org/article/james-webb-new-images)
 
-[Human Brain Research Finds New Folds](https://www.icr.org/article/human-brain-research-finds-new-folds/)
+[James Webb Telescope Data: Challenges for the Big Bang?](https://www.icr.org/article/james-webb-new-images/)
 
-Brain researchers from San Diego State University have just reported digitally capturing the dense folds of a preserved human cerebellum using a high resolution...
-
-BY: [BRIAN THOMAS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=201)
-
-[![](/i/Main%20Stage%20-%201400x1050/Red_Pandas_1400x1050.jpg)](https://www.icr.org/article/surveillance-tracing-red-pandas-in-himalayan-nepal)
-
-[Surveillance Tracing: Red Pandas in Himalayan Nepal](https://www.icr.org/article/surveillance-tracing-red-pandas-in-himalayan-nepal/)
-
-It’s tough to be a red panda in this fallen world, especially after the global Flood. Conservationists are satellite tracking red pandas in...
-
-BY: [JAMES J. S. JOHNSON, J.D., TH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=193)
-
-[![](/i/Main%20Stage%20-%201400x1050/Belugas_Select_Friends_1400x1050.jpg)](https://www.icr.org/article/belugas-select-friends-who-arent-close-kin)
-
-[Belugas Select Friends Who Aren’t Close Kin](https://www.icr.org/article/belugas-select-friends-who-arent-close-kin/)
-
-Beluga whales don’t select their friends according to what Darwinists would expect, a new Florida Atlantic University study shows.1,2...
-
-BY: [JAMES J. S. JOHNSON, J.D., TH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=193)
-
-More Genetics
-
-[![](/i/Main%20Stage%20-%201400x1050/cadenaadn-1400x1050.jpg)](https://www.icr.org/article/unique-human-genes-evolution)
-
-[More Unique Human Genes Defy Evolution Narrative](https://www.icr.org/article/unique-human-genes-evolution/)
-
-Researchers recently scanned a region of the smallest human chromosome and found three previously undiscovered families of genes that are uniquely human...
-
-BY: [JEFFREY P. TOMKINS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=207)
-
-[![](/i/Main%20Stage%20-%201400x1050/Metabolic_Fish_2_1400x1050.jpg)](https://www.icr.org/article/complex-metabolic-process-fish-startles-evolution)
-
-[Complex Metabolic Process in Fish Startles Evolutionists](https://www.icr.org/article/complex-metabolic-process-fish-startles-evolution/)
-
-A complex metabolic process called Chaperone-Mediated-Autophagy (CMA) was thought to be a recent evolutionary development in land vertebrates as it was...
-
-BY: [JEFFREY P. TOMKINS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=207)
-
-[![](/i/radio/images/DNA%20mutations.jpg)](https://www.icr.org/article/mutation-rates-debunk-evolution)
-
-[Mutation Rates Debunk Human Evolution Story](https://www.icr.org/article/mutation-rates-debunk-evolution/)
-
-According to the evolutionary story, humans evolved from an unidentified ape-like ancestor over two million years ago. But this story doesn’t...
-
-BY: [BRIAN THOMAS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=201)
-
-More Zoology
-
-[![](/i/Main%20Stage%20-%201400x1050/Spinosaurus_Swam_1400x1050.jpg)](https://www.icr.org/article/spinosaurus-swam-swimming-spinosaurus-scripture)
-
-[Spinosaurus Swam! How a Swimming Spinosaurus Fits Scripture](https://www.icr.org/article/spinosaurus-swam-swimming-spinosaurus-scripture/)
-
-Spinosaurus aegyptiacus had a longer body than the enormous T. rex. In Nature journal, researchers published a new reconstruction of the extinct reptile’s...
-
-BY: [BRIAN THOMAS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=201)
-
-[![](/i/Main%20Stage%20-%201400x1050/Red_Pandas_1400x1050.jpg)](https://www.icr.org/article/surveillance-tracing-red-pandas-in-himalayan-nepal)
-
-[Surveillance Tracing: Red Pandas in Himalayan Nepal](https://www.icr.org/article/surveillance-tracing-red-pandas-in-himalayan-nepal/)
-
-It’s tough to be a red panda in this fallen world, especially after the global Flood. Conservationists are satellite tracking red pandas in...
-
-BY: [JAMES J. S. JOHNSON, J.D., TH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=193)
-
-[![](/i/Main%20Stage%20-%201400x1050/First_Land_Bug_1400x1050.jpg)](https://www.icr.org/article/first-land-bug-buried-in-the-flood)
-
-[First Land Bug Buried in the Flood](https://www.icr.org/article/first-land-bug-buried-in-the-flood/)
-
-The Scottish island of Kerrera has produced the earliest known bug in the fossil record, a millipede.1 It was found in Silurian System rocks...
-
-BY: [TIM CLAREY, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=176)
-
-More Contrasting Worldviews
-
-[![](/i/Main%20Stage%20-%201400x1050/Hyperbaric_Research_1400x1050.jpg)](https://www.icr.org/article/hyperbaric-research-and-the-pre-flood-atmosphere)
-
-[Hyperbaric Research and the Pre-Flood Atmosphere](https://www.icr.org/article/hyperbaric-research-and-the-pre-flood-atmosphere/)
-
-Creationists have long speculated about the earth’s environment prior to the global Flood—conditions which may have contributed to the long...
-
-BY: [JEFFREY P. TOMKINS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=207)
-
-[![](/i/Main%20Stage%20-%201400x1050/Mountain_News_1400x1050.jpg)](https://www.icr.org/article/tasc-restoring-the-truth-about-origins)
-
-[Two-Volume Series: Restoring the Truth about Origins](https://www.icr.org/article/tasc-restoring-the-truth-about-origins/)
-
-The subject of origins continues to attract interest from the public and the scientific establishment. Understanding our origins informs us of who we are...
-
-BY: [DAN W. REYNOLDS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=249)
-
-[![](/i/Main%20Stage%20-%201400x1050/Hot_Neptune_1400x1050.jpg)](https://www.icr.org/article/hot-neptune-atmosphere-shouldnt-exist)
-
-[Hot Neptune Atmosphere "Shouldn't Exist"](https://www.icr.org/article/hot-neptune-atmosphere-shouldnt-exist/)
-
-An exoplanet 260 light-years away is being described as the first of its kind ever detected.1,2 This exoplanet, catalogued as LTT 9779b, is...
+Astronomers are thrilled by the extraordinary images provided by the new James Webb Space Telescope (JWST)—but some of the data already contradict...
 
 BY: [JAKE HEBERT, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=218)
 
-More Science
+[![](/i/Main%20Stage%20-%201400x1050/Arabidopsis-1400x1050)](https://www.icr.org/article/adaptive-genetic-and)
 
-[![](/i/Main%20Stage%20-%201400x1050/Glow_Creatures_July_1400x1050.jpg)](https://www.icr.org/article/glow-in-the-dark-creatures-warm-july-nights)
+[Adaptive Genetic and Epigenetic Changes in Plants](https://www.icr.org/article/adaptive-genetic-and/)
 
-[Glow-in-the-Dark Creatures Show Off on Warm July Nights](https://www.icr.org/article/glow-in-the-dark-creatures-warm-july-nights/)
-
-In America, the month of July is accompanied by fireworks, even in the heavens.1 However, July is also a time when certain glow-in-the-dark...
-
-BY: [JAMES J. S. JOHNSON, J.D., TH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=193)
-
-[![](/i/Main%20Stage%20-%201400x1050/Cuckoo_Migration_1400x1050.jpg)](https://www.icr.org/article/cuckoo-completes-mammoth-7500-mile-migration)
-
-[Cuckoo Completes Mammoth 7,500-Mile Migration](https://www.icr.org/article/cuckoo-completes-mammoth-7500-mile-migration/)
-
-One particular common cuckoo will soon complete a mammoth migration through both Africa and Asia—a migration that is anything but common. Onon...
-
-BY: [JAMES J. S. JOHNSON, J.D., TH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=193)
-
-[![](/i/Main%20Stage%20-%201400x1050/Canadian_Australian_1400x1050.jpg)](https://www.icr.org/article/evolutionists-struggle-explain-canadian-australian)
-
-[Evolutionists Struggle to Explain Canadian-Australian C.,.](https://www.icr.org/article/evolutionists-struggle-explain-canadian-australian/)
-
-A new species of a split-footed lacewing was recently unearthed in British Columbia, Canada, creating a bit of controversy among secular paleontologists.1...
-
-BY: [TIM CLAREY, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=176)
-
-More God's Design Is an Engineering Wonder
-
-[![](/i/Main%20Stage%20-%201400x1050/Soil_Fungal_Network_1400x1050.jpg)](https://www.icr.org/article/electrical-signaling-plants-soil-fungal-network)
-
-[Electrical Signaling Among Plants Via Soil Fungal Network](https://www.icr.org/article/electrical-signaling-plants-soil-fungal-network/)
-
-If you were standing in a field of tomatoes, you might be surprised to know that the soil underneath your feet is teeming with electrical signals being...
+Being sedentary organisms, plants are essentially stuck where they are planted and need to dynamically adapt to the conditions around them to not only...
 
 BY: [JEFFREY P. TOMKINS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=207)
 
-[![](/i/Main%20Stage%20-%201400x1050/Soft_Dinosaur_Eggs_1400x1050.jpg)](https://www.icr.org/article/soft-dinosaur-eggs-deflate-bird-dinosaur-evolution)
+[![](/i/Main%20Stage%20-%201400x1050/weirdworm-1400x1050)](https://www.icr.org/article/parasites-actively-adapt)
 
-[Soft Dinosaur Eggs Deflate Bird-Dinosaur Evolution](https://www.icr.org/article/soft-dinosaur-eggs-deflate-bird-dinosaur-evolution/)
+[Parasites Actively Adapt to their Environments](https://www.icr.org/article/parasites-actively-adapt/)
 
-A pair of new studies found that some dinosaurs, and possibly some marine reptiles, laid squishy eggs. One study discovered that many dinosaurs, like turtles...
-
-BY: [TIM CLAREY, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=176)
-
-[![](/i/Main%20Stage%20-%201400x1050/Ghost_Crabs_1400x1050.jpg)](https://www.icr.org/article/ghost-crabs-growl-by-gnashing-their-gut-teeth)
-
-[Ghost Crabs Growl by Gnashing their Gut Teeth!](https://www.icr.org/article/ghost-crabs-growl-by-gnashing-their-gut-teeth/)
-
-A recent science news video shows barium-marked fluoroscopy of a ghost crab’s gut teeth in action. The video reveals how that species of crab can...
-
-BY: [JAMES J. S. JOHNSON, J.D., TH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=193)
-
-More Living Creatures Were Clearly Designed
-
-[![](/i/Main%20Stage%20-%201400x1050/Human_Brain_Research_1400x1050.jpg)](https://www.icr.org/article/human-brain-research-finds-new-folds)
-
-[Human Brain Research Finds New Folds](https://www.icr.org/article/human-brain-research-finds-new-folds/)
-
-Brain researchers from San Diego State University have just reported digitally capturing the dense folds of a preserved human cerebellum using a high resolution...
-
-BY: [BRIAN THOMAS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=201)
-
-[![](/i/Main%20Stage%20-%201400x1050/Birdwatching_Internet_1400x1050.jpg)](https://www.icr.org/article/birdwatching-through-the-internet)
-
-[Birdwatching Through the Internet](https://www.icr.org/article/birdwatching-through-the-internet/)
-
-As ICR previously reported, more Americans are enjoying birdwatching as other recreational opportunities are reduced by pandemic politics.1...
-
-BY: [JAMES J. S. JOHNSON, J.D., TH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=193)
-
-[![](/i/Main%20Stage%20-%201400x1050/Fish_Body_1400x1050.jpg)](https://www.icr.org/article/fish-body-design-optimized-swimming-mechanics)
-
-[Fish Body Design Reveals Optimized Swimming Mechanics](https://www.icr.org/article/fish-body-design-optimized-swimming-mechanics/)
-
-Engineering-minded scientists have taken notice that many types of fish have bodies shaped like a low-drag airfoil that are characteristic of airplane...
-
-BY: [JEFFREY P. TOMKINS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=207)
-
-More Origin of Life
-
-[![](/i/Main%20Stage%20-%201400x1050/Neanderthals_Bears_1400x1050.jpg)](https://www.icr.org/article/humans-neanderthals-more-similar-polar-brown-bears)
-
-[Humans and Neanderthals More Similar Than Polar and Bro.,.](https://www.icr.org/article/humans-neanderthals-more-similar-polar-brown-bears/)
-
-A study led by Oxford University researchers was recently published confirming that Neanderthals and humans were very genetically similar and interfertile....
-
-BY: [JEFFREY P. TOMKINS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=207)
-
-[![](/i/Main%20Stage%20-%201400x1050/Fossil_Fish_Hand_1400x1050.jpg)](https://www.icr.org/article/was-a-fossil-fish-hand-discovered)
-
-[Was a Fossil "Fish-Hand" Discovered?](https://www.icr.org/article/was-a-fossil-fish-hand-discovered/)
-
-In order for the bizarre theory of evolution to be validated, evolutionists must show how inorganic non-life organized itself into carbon-based (organic)...
+Although we see much beauty in God’s creation, we cannot help but see Earth as a perfect world gone wrong. Conditions such as cancer, COVID, and...
 
 BY: [FRANK SHERWIN, D.SC. (HON.)](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=32)
-
-[![](/i/wide/bacteria_study_wide.jpg)](https://www.icr.org/article/origin-cells-study-uses-bad-science)
-
-[Origin of Cells Study Uses Bad Science](https://www.icr.org/article/origin-cells-study-uses-bad-science/)
-
-Animal and plant cell DNA is so complicated that all the cellular machines that process, regulate, and manipulate it are constantly in need of cellular...
-
-BY: [BRIAN THOMAS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=201)
-
-More Creation Science Update
-
-[![](/i/Main%20Stage%20-%201400x1050/eightarmed_1400x1050.jpg)](https://www.icr.org/article/eight-armed-anomaly)
-
-[Eight-Armed Anomaly](https://www.icr.org/article/eight-armed-anomaly/)
-
-Octopi are incredible and intelligent creatures—they are mesmerizing to observe and study. Some of octopi’s interesting features include...
-
-BY: [STAFF WRITER](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=27)
-
-[![](/i/ICR_Sept23_wallpaper_1400x1050_main.jpg)](https://www.icr.org/article/september-2023-icr-wallpaper)
-
-[September 2023 ICR Wallpaper](https://www.icr.org/article/september-2023-icr-wallpaper/)
-
-"If you walk in My statutes and keep My commandments, and perform them, then I will give you rain in its season, the land shall yield its produce, and...
-
-BY: [STAFF WRITER](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=27)
-
-[![](/i/Main%20Stage%20-%201400x1050/earthround_1400x1050.jpg)](https://www.icr.org/article/earth-round)
-
-[Is the Earth Round?](https://www.icr.org/article/earth-round/)
-
-Some readers might think the answer to this question is so obvious that maybe we’re offering it as a kind of joke—but it’s no joke....
-
-BY: [BRIAN THOMAS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=201)
-
-Shop Related Products
-
-[![](https://cdn.shoplightspeed.com/shops/601440/files/60662163/file.jpg)
-
-Living in Light of Genesis](https://store.icr.org/living-in-light-of-genesis.html)
-
-$15.99
-
-[![](https://cdn.shoplightspeed.com/shops/601440/files/16087568/file.jpg)
-
-Ancient and Fossil Bone Collagen Remnants](https://store.icr.org/ancient-and-fossil-bone-collagen-remnants.html)
-
-$29.99
-
-[![](https://cdn.shoplightspeed.com/shops/601440/files/60993469/file.jpg)
-
-Why the World Looks So Young - eBook](https://store.icr.org/why-the-world-looks-so-young-ebook.html)
-
-$2.99
-
-$7.99
-
-[![](https://cdn.shoplightspeed.com/shops/601440/files/25997817/file.jpg)
-
-Why the World Looks So Young](https://store.icr.org/why-the-world-looks-so-young.html)
-
-$7.99
-
-[![](https://cdn.shoplightspeed.com/shops/601440/files/10474325/file.jpg)
-
-Dinosaurs and the Bible](https://store.icr.org/mr-brian-thomas-dinosaurs-and-the-bible.html)
-
-$4.99
 
 [![Institute for Creation Research](/i/icr-logo-final-h-rev3-100.png)](https://www.icr.org/)[![ICR Discovery Center for Science and Earth History](/i/DC_Logo_Footer_2.png)](http://discoverycenter.icr.org/)
 
