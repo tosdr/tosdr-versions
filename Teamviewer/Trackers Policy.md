@@ -1370,7 +1370,7 @@ This Data Protection Information Sheet provides an overview of how TeamViewer Ge
 9. **Data protection officer.** TeamViewer has appointed an external data protection officer who can be contacted at [\[email protected\]](https://www.teamviewer.com/cdn-cgi/l/email-protection). You are also free to contact the relevant data protection authority, Der Landesbeauftragte für den Datenschutz und die Informationsfreiheit Baden-Württemberg, Lautenschlagerstraße 20, 70173 Stuttgart, Germany.
 10. **Further Information on security measures and certificates.** Further information on security and data protection measures and our certificates of TeamViewer and its partners (e.g., ISO 9001, SOC2, SOC3, HIPPA/HITECH and ISO 27001) can be found in the TeamViewer [Trust Center](https://www.teamviewer.com/en/trust-center/).
 
-[![TeamViewer Logo](https://s7g10.scene7.com/is/content/teamviewergmbh/TeamViewer-Logo-light-1?dpr=off)](https://www.teamviewer.com/)
+[![TeamViewer logo](https://teamviewer.scene7.com/is/content/teamviewergmbh/logo-teamviewer-white?dpr=off)](https://www.teamviewer.com/)
 
 Please choose your region
 -------------------------
@@ -1414,7 +1414,7 @@ Selecting a region changes the language and/or content on teamviewer.com
     * [![](https://s7g10.scene7.com/is/content/teamviewergmbh/Flag_of_the_Peoples_Republic_of_China)
         
         中国 - 中⽂（简体）](https://www.teamviewer.cn/cn/legal/privacy-and-cookies/?language-switched=true)
-    * [![](https://s7g10.scene7.com/is/content/teamviewergmbh/Flag_of_Hong_Kong)
+    * [![](https://teamviewer.scene7.com/is/content/teamviewergmbh/Flag_of_Hong_Kong)
         
         香港 - 繁體中文](https://www.teamviewer.com/hk/legal/privacy-and-cookies/?language-switched=true)
     * [![](https://s7g10.scene7.com/is/content/teamviewergmbh/Flag_of_India)
