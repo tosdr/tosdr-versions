@@ -321,7 +321,7 @@ This app works best with JavaScript enabled.
         Help Center](https://help.mailgun.com/hc/en-us)
     * [Layers icon
         
-        SDKs](https://documentation.mailgun.com/docs/mailgun/libraries/libraries/)
+        SDKs](https://documentation.mailgun.com/docs/mailgun/sdk/introduction/)
     * [Code icon
         
         Documentation](https://documentation.mailgun.com/)
@@ -339,7 +339,7 @@ This app works best with JavaScript enabled.
         Help Center](https://help.mailgun.com/hc/en-us)
     * [Layers icon
         
-        SDKs](https://documentation.mailgun.com/docs/mailgun/libraries/libraries/)
+        SDKs](https://documentation.mailgun.com/docs/mailgun/sdk/introduction/)
     * [Code icon
         
         Documentation](https://documentation.mailgun.com/)
@@ -730,7 +730,7 @@ Back to main menu
         Help Center](https://help.mailgun.com/hc/en-us)
     * [Layers icon
         
-        SDKs](https://documentation.mailgun.com/docs/mailgun/libraries/libraries/)
+        SDKs](https://documentation.mailgun.com/docs/mailgun/sdk/introduction/)
     * [Code icon
         
         Documentation](https://documentation.mailgun.com/)
@@ -748,7 +748,7 @@ Back to main menu
         Help Center](https://help.mailgun.com/hc/en-us)
     * [Layers icon
         
-        SDKs](https://documentation.mailgun.com/docs/mailgun/libraries/libraries/)
+        SDKs](https://documentation.mailgun.com/docs/mailgun/sdk/introduction/)
     * [Code icon
         
         Documentation](https://documentation.mailgun.com/)
@@ -1043,7 +1043,7 @@ Back to main menu
     Help Center](https://help.mailgun.com/hc/en-us)
 * [Layers icon
     
-    SDKs](https://documentation.mailgun.com/docs/mailgun/libraries/libraries/)
+    SDKs](https://documentation.mailgun.com/docs/mailgun/sdk/introduction/)
 * [Code icon
     
     Documentation](https://documentation.mailgun.com/)
