@@ -296,11 +296,11 @@ Lawyers and free speech advocates. IP, gaming, adult, and First Amendment law.
 
 ![walterslawgroup](https://pbs.twimg.com/profile_images/1639690830/40482_141262409241305_114671631900383_269027_5869480_n_normal.jpg)](https://twitter.com/walterslawgroup)[Walters Law Group](https://twitter.com/walterslawgroup) [@walterslawgroup](https://twitter.com/walterslawgroup) ·
 
-[4 Sep](https://twitter.com/walterslawgroup/status/1831350235307630692)
+[11 Sep](https://twitter.com/walterslawgroup/status/1833685760824021136)
 
-Comments on Tic Tok Section 230 ruling from Third Circuit https://communicationsdaily.com/article/2024/09/04/tech-interests-turn-to-scotus-after-3rd-circuits-tiktok-holding-2409030044
+LAWSUIT: Arizona mom sues city after arrest for criticizing government lawyer’s pay
 
-[Reply on Twitter 1831350235307630692](https://twitter.com/intent/tweet?in_reply_to=1831350235307630692&related=walterslawgroup) [Retweet on Twitter 1831350235307630692](https://twitter.com/intent/retweet?tweet_id=1831350235307630692&related=walterslawgroup) [Like on Twitter 1831350235307630692 1](https://twitter.com/intent/like?tweet_id=1831350235307630692&related=walterslawgroup) [Twitter 1831350235307630692](https://twitter.com/walterslawgroup/status/1831350235307630692)
+[Reply on Twitter 1833685760824021136](https://twitter.com/intent/tweet?in_reply_to=1833685760824021136&related=walterslawgroup) [Retweet on Twitter 1833685760824021136](https://twitter.com/intent/retweet?tweet_id=1833685760824021136&related=walterslawgroup) [Like on Twitter 1833685760824021136 1](https://twitter.com/intent/like?tweet_id=1833685760824021136&related=walterslawgroup) [Twitter 1833685760824021136](https://twitter.com/walterslawgroup/status/1833685760824021136)
 
 [Load More](javascript:void(0);)
 
