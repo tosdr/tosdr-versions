@@ -200,25 +200,25 @@ This document was last updated on January 1, 2014
 
 #### Defense News
 
+* [Air Force meets recruitment goals, eyes 20% increase in 2025](https://www.defensenews.com/news/your-air-force/2024/09/17/air-force-meets-recruitment-goals-eyes-20-increase-in-2025/)  
+    09/17/24 04:20pm  
+    
+    The Air Force plans to grow its recruiter ranks to help it meet an ambitious 2025 goal that is 20% over this year's target. (Master Sgt. Kevin Nichols/Air Force)
+    
+* [Norway’s Kongsberg to open new Virginia missile production plant](https://www.defensenews.com/global/europe/2024/09/17/norways-kongsberg-to-open-new-virginia-missile-production-plant/)  
+    09/17/24 04:06pm  
+    
+    The Naval Strike Missile can launch from both land- and sea-based platforms. Norway's Kongsberg plans to build these and the Joint Strike Missile in a new Virgnia production facility. (Photo courtesy of Kongsberg Defence and Aerospace)
+    
+* [New Navy contracts boost battle command, electronic warfare potential](https://www.defensenews.com/air/2024/09/17/new-navy-contracts-boost-battle-command-electronic-warfare-potential/)  
+    09/17/24 03:48pm  
+    
+    E-2D Advanced Hawkeye aircraft conduct a test flight near St. Augustine, Florida. (Courtesy of Northrup Grumman)
+    
 * [Emphasis on electronic warfare a must, Air Force secretary says](https://www.defensenews.com/air/2024/09/17/emphasis-on-electronic-warfare-a-must-air-force-secretary-says/)  
     09/17/24 11:09am  
     
     Personnel set up antennas at Vandenberg Space Force Base, California. The Air Force and Space Force are placing a greater emphasis on electronic warfare. (Tech. Sgt. Luke Kitterman/Space Force)
-    
-* [Austria flaunts air power, considers purchasing new trainer jets](https://www.defensenews.com/smr/air-warfare/2024/09/17/austria-flaunts-air-power-considers-purchasing-new-trainer-jets/)  
-    09/17/24 10:00am  
-    
-    People attend the "Airpower 24" air show in Zeltweg, Austria, on September 6, 2024. (Erwin Scheriau/APA/AFP via Getty Images)
-    
-* [How US Air Force special ops is allowing airmen the ‘freedom to fail’](https://www.defensenews.com/smr/air-warfare/2024/09/16/how-air-force-special-ops-is-allowing-airmen-the-freedom-to-fail/)  
-    09/17/24 09:00am  
-    
-    A 27th Special Operations Wing airman at Naval Air Station Fallon, Nevada, Aug. 5, 2024. (Staff Sgt. Kevin Williams/U.S. Air Force)
-    
-* [New missile allows Marine pilots to strike far, avoid air defenses](https://www.defensenews.com/air/2024/09/17/new-missile-allows-marine-pilots-to-strike-far-avoid-air-defenses/)  
-    09/17/24 08:00am  
-    
-    Marines with Marine Fighter Attack Squadron 232 load an AGM-158A joint air-to-surface standoff missile on an F/A-18 Hornet. (Lance Cpl. Jennifer Sanchez)
     
 
 Recent parts by keyword  
