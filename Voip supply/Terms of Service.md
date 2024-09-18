@@ -32,7 +32,7 @@ New customers: [Create an account now](https://www.voipsupply.com/customer/accou
 * [New To VoIP?](https://www.voipsupply.com/new-to-voip)
 * [Contact Us](https://www.voipsupply.com/contact-voipsupply)
 * [Compare Products](https://www.voipsupply.com/catalog/product_compare)
-* [![](https://www.voipsupply.com/media/version1726620003/wysiwyg/m2/gsa2.png)](#)
+* [![](https://www.voipsupply.com/media/version1726620003/wysiwyg/m2/gsa2.png)](https://www.voipsupply.com/voip-supply-gsa)
 * [![Customer Reviews](//www.shopperapproved.com/seal/15087/1580-sa-seal.gif)](https://www.shopperapproved.com/reviews/voipsupply.com)
 
 * [Home](https://www.voipsupply.com/ "Go to Home Page")
