@@ -597,12 +597,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Sicher­heits­lücke bei Türschloss: Abus muss besser auf Schwach­stelle hinweisen](https://www.test.de/Sicherheitsluecke-bei-Tuerschloss-Gerichtsurteil-Abus-muss-besser-auf-Schwachstelle-hinweisen-6115986-0/ "Sicherheitslücke bei Türschloss - Abus muss besser auf Schwachstelle hinweisen")
-* [Boden­reiniger im Test: Sanft gepflegt mit einem Wisch](https://www.test.de/Bodenreiniger-im-Test-5992245-0/ "Bodenreiniger im Test - Sanft gepflegt mit einem Wisch")
-* [Verpackungs­ärger: Barilla Penne Rigate Senza Glutine](https://www.test.de/Verpackungsaerger-Barilla-Penne-Rigate-Senza-Glutine-6112820-0/ "Verpackungsärger - Barilla Penne Rigate Senza Glutine")
-* [Suppenpulver und Suppenwürfel: Gute für eine schnelle Brühe](https://www.test.de/Suppenpulver-und-Suppenwuerfel-Gute-fuer-eine-schnelle-Bruehe-6074089-0/ "Suppenpulver und Suppenwürfel - Gute für eine schnelle Brühe")
-* [Private Kranken­versicherung: Stan­dard­tarif, Basis­tarif, Notlagen­tarif](https://www.test.de/PKV-Standardtarif-Basistarif-Notlagentarif-5883838-0/ "Private Krankenversicherung - Standardtarif, Basistarif, Notlagentarif")
-* [Trade Republic Tages­geld Giro­konto: Top-Zinsen, aber schlechtere Bedingungen](https://www.test.de/Tagesgeld-Debitkarte-Girokonto-Trade-Republic-hohe-Zinsen-6084201-0/ "Trade Republic Tagesgeld Girokonto - Top-Zinsen, aber schlechtere Bedingungen")
+* [Gut essen mit der Stiftung Warentest: Torte sizilia­nischer Art](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Torte-sizilianischer-Art-6020748-0/ "Gut essen mit der Stiftung Warentest - Torte sizilianischer Art")
+* [E-Auto laden: Gratis Strom tanken? Nur noch selten](https://www.test.de/E-Auto-laden-Gratis-Strom-tanken-Nur-noch-selten-5970181-0/ "E-Auto laden - Gratis Strom tanken? Nur noch selten")
+* [Olivenöl: Doppelt so teuer wie im Vorjahr](https://www.test.de/Oliven-und-Olivenoel-Ueber-30-Prozent-teurer-als-im-Vorjahr-6048734-0/ "Olivenöl - Doppelt so teuer wie im Vorjahr")
+* [Verpackungs­ärger: Caffè Crema von Tchibo](https://www.test.de/verpackungsaerger-caffe-crema-von-tchibo-6066168-0/ "Verpackungsärger - Caffè Crema von Tchibo")
+* [Dubioses Fest­geld: Vorsicht bei Spar-Global](https://www.test.de/Dubioses-Festgeld-Vorsicht-bei-Spar-Global-6149600-0/ "Dubioses Festgeld - Vorsicht bei Spar-Global")
+* [Schlaf­mittel: Vorsicht vor Produkten mit Melatonin](https://www.test.de/Schlafmittel-Vorsicht-vor-Produkten-mit-Melatonin-6143885-0/ "Schlafmittel - Vorsicht vor Produkten mit Melatonin")
 
 Fußbereich
 
@@ -2737,12 +2737,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Sicher­heits­lücke bei Türschloss: Abus muss besser auf Schwach­stelle hinweisen](https://www.test.de/Sicherheitsluecke-bei-Tuerschloss-Gerichtsurteil-Abus-muss-besser-auf-Schwachstelle-hinweisen-6115986-0/ "Sicherheitslücke bei Türschloss - Abus muss besser auf Schwachstelle hinweisen")
-* [Boden­reiniger im Test: Sanft gepflegt mit einem Wisch](https://www.test.de/Bodenreiniger-im-Test-5992245-0/ "Bodenreiniger im Test - Sanft gepflegt mit einem Wisch")
-* [Verpackungs­ärger: Barilla Penne Rigate Senza Glutine](https://www.test.de/Verpackungsaerger-Barilla-Penne-Rigate-Senza-Glutine-6112820-0/ "Verpackungsärger - Barilla Penne Rigate Senza Glutine")
-* [Suppenpulver und Suppenwürfel: Gute für eine schnelle Brühe](https://www.test.de/Suppenpulver-und-Suppenwuerfel-Gute-fuer-eine-schnelle-Bruehe-6074089-0/ "Suppenpulver und Suppenwürfel - Gute für eine schnelle Brühe")
-* [Private Kranken­versicherung: Stan­dard­tarif, Basis­tarif, Notlagen­tarif](https://www.test.de/PKV-Standardtarif-Basistarif-Notlagentarif-5883838-0/ "Private Krankenversicherung - Standardtarif, Basistarif, Notlagentarif")
-* [Trade Republic Tages­geld Giro­konto: Top-Zinsen, aber schlechtere Bedingungen](https://www.test.de/Tagesgeld-Debitkarte-Girokonto-Trade-Republic-hohe-Zinsen-6084201-0/ "Trade Republic Tagesgeld Girokonto - Top-Zinsen, aber schlechtere Bedingungen")
+* [Gut essen mit der Stiftung Warentest: Torte sizilia­nischer Art](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Torte-sizilianischer-Art-6020748-0/ "Gut essen mit der Stiftung Warentest - Torte sizilianischer Art")
+* [E-Auto laden: Gratis Strom tanken? Nur noch selten](https://www.test.de/E-Auto-laden-Gratis-Strom-tanken-Nur-noch-selten-5970181-0/ "E-Auto laden - Gratis Strom tanken? Nur noch selten")
+* [Olivenöl: Doppelt so teuer wie im Vorjahr](https://www.test.de/Oliven-und-Olivenoel-Ueber-30-Prozent-teurer-als-im-Vorjahr-6048734-0/ "Olivenöl - Doppelt so teuer wie im Vorjahr")
+* [Verpackungs­ärger: Caffè Crema von Tchibo](https://www.test.de/verpackungsaerger-caffe-crema-von-tchibo-6066168-0/ "Verpackungsärger - Caffè Crema von Tchibo")
+* [Dubioses Fest­geld: Vorsicht bei Spar-Global](https://www.test.de/Dubioses-Festgeld-Vorsicht-bei-Spar-Global-6149600-0/ "Dubioses Festgeld - Vorsicht bei Spar-Global")
+* [Schlaf­mittel: Vorsicht vor Produkten mit Melatonin](https://www.test.de/Schlafmittel-Vorsicht-vor-Produkten-mit-Melatonin-6143885-0/ "Schlafmittel - Vorsicht vor Produkten mit Melatonin")
 
 Jetzt anmelden und 10% Rabatt auf die test.de-Flatrate im ersten Jahr erhalten!
 
@@ -2795,12 +2795,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Sicher­heits­lücke bei Türschloss: Abus muss besser auf Schwach­stelle hinweisen](https://www.test.de/Sicherheitsluecke-bei-Tuerschloss-Gerichtsurteil-Abus-muss-besser-auf-Schwachstelle-hinweisen-6115986-0/ "Sicherheitslücke bei Türschloss - Abus muss besser auf Schwachstelle hinweisen")
-* [Boden­reiniger im Test: Sanft gepflegt mit einem Wisch](https://www.test.de/Bodenreiniger-im-Test-5992245-0/ "Bodenreiniger im Test - Sanft gepflegt mit einem Wisch")
-* [Verpackungs­ärger: Barilla Penne Rigate Senza Glutine](https://www.test.de/Verpackungsaerger-Barilla-Penne-Rigate-Senza-Glutine-6112820-0/ "Verpackungsärger - Barilla Penne Rigate Senza Glutine")
-* [Suppenpulver und Suppenwürfel: Gute für eine schnelle Brühe](https://www.test.de/Suppenpulver-und-Suppenwuerfel-Gute-fuer-eine-schnelle-Bruehe-6074089-0/ "Suppenpulver und Suppenwürfel - Gute für eine schnelle Brühe")
-* [Private Kranken­versicherung: Stan­dard­tarif, Basis­tarif, Notlagen­tarif](https://www.test.de/PKV-Standardtarif-Basistarif-Notlagentarif-5883838-0/ "Private Krankenversicherung - Standardtarif, Basistarif, Notlagentarif")
-* [Trade Republic Tages­geld Giro­konto: Top-Zinsen, aber schlechtere Bedingungen](https://www.test.de/Tagesgeld-Debitkarte-Girokonto-Trade-Republic-hohe-Zinsen-6084201-0/ "Trade Republic Tagesgeld Girokonto - Top-Zinsen, aber schlechtere Bedingungen")
+* [Gut essen mit der Stiftung Warentest: Torte sizilia­nischer Art](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Torte-sizilianischer-Art-6020748-0/ "Gut essen mit der Stiftung Warentest - Torte sizilianischer Art")
+* [E-Auto laden: Gratis Strom tanken? Nur noch selten](https://www.test.de/E-Auto-laden-Gratis-Strom-tanken-Nur-noch-selten-5970181-0/ "E-Auto laden - Gratis Strom tanken? Nur noch selten")
+* [Olivenöl: Doppelt so teuer wie im Vorjahr](https://www.test.de/Oliven-und-Olivenoel-Ueber-30-Prozent-teurer-als-im-Vorjahr-6048734-0/ "Olivenöl - Doppelt so teuer wie im Vorjahr")
+* [Verpackungs­ärger: Caffè Crema von Tchibo](https://www.test.de/verpackungsaerger-caffe-crema-von-tchibo-6066168-0/ "Verpackungsärger - Caffè Crema von Tchibo")
+* [Dubioses Fest­geld: Vorsicht bei Spar-Global](https://www.test.de/Dubioses-Festgeld-Vorsicht-bei-Spar-Global-6149600-0/ "Dubioses Festgeld - Vorsicht bei Spar-Global")
+* [Schlaf­mittel: Vorsicht vor Produkten mit Melatonin](https://www.test.de/Schlafmittel-Vorsicht-vor-Produkten-mit-Melatonin-6143885-0/ "Schlafmittel - Vorsicht vor Produkten mit Melatonin")
 
 Neueste Tests
 
@@ -2813,12 +2813,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Sicher­heits­lücke bei Türschloss: Abus muss besser auf Schwach­stelle hinweisen](https://www.test.de/Sicherheitsluecke-bei-Tuerschloss-Gerichtsurteil-Abus-muss-besser-auf-Schwachstelle-hinweisen-6115986-0/ "Sicherheitslücke bei Türschloss - Abus muss besser auf Schwachstelle hinweisen")
-* [Boden­reiniger im Test: Sanft gepflegt mit einem Wisch](https://www.test.de/Bodenreiniger-im-Test-5992245-0/ "Bodenreiniger im Test - Sanft gepflegt mit einem Wisch")
-* [Verpackungs­ärger: Barilla Penne Rigate Senza Glutine](https://www.test.de/Verpackungsaerger-Barilla-Penne-Rigate-Senza-Glutine-6112820-0/ "Verpackungsärger - Barilla Penne Rigate Senza Glutine")
-* [Suppenpulver und Suppenwürfel: Gute für eine schnelle Brühe](https://www.test.de/Suppenpulver-und-Suppenwuerfel-Gute-fuer-eine-schnelle-Bruehe-6074089-0/ "Suppenpulver und Suppenwürfel - Gute für eine schnelle Brühe")
-* [Private Kranken­versicherung: Stan­dard­tarif, Basis­tarif, Notlagen­tarif](https://www.test.de/PKV-Standardtarif-Basistarif-Notlagentarif-5883838-0/ "Private Krankenversicherung - Standardtarif, Basistarif, Notlagentarif")
-* [Trade Republic Tages­geld Giro­konto: Top-Zinsen, aber schlechtere Bedingungen](https://www.test.de/Tagesgeld-Debitkarte-Girokonto-Trade-Republic-hohe-Zinsen-6084201-0/ "Trade Republic Tagesgeld Girokonto - Top-Zinsen, aber schlechtere Bedingungen")
+* [Gut essen mit der Stiftung Warentest: Torte sizilia­nischer Art](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Torte-sizilianischer-Art-6020748-0/ "Gut essen mit der Stiftung Warentest - Torte sizilianischer Art")
+* [E-Auto laden: Gratis Strom tanken? Nur noch selten](https://www.test.de/E-Auto-laden-Gratis-Strom-tanken-Nur-noch-selten-5970181-0/ "E-Auto laden - Gratis Strom tanken? Nur noch selten")
+* [Olivenöl: Doppelt so teuer wie im Vorjahr](https://www.test.de/Oliven-und-Olivenoel-Ueber-30-Prozent-teurer-als-im-Vorjahr-6048734-0/ "Olivenöl - Doppelt so teuer wie im Vorjahr")
+* [Verpackungs­ärger: Caffè Crema von Tchibo](https://www.test.de/verpackungsaerger-caffe-crema-von-tchibo-6066168-0/ "Verpackungsärger - Caffè Crema von Tchibo")
+* [Dubioses Fest­geld: Vorsicht bei Spar-Global](https://www.test.de/Dubioses-Festgeld-Vorsicht-bei-Spar-Global-6149600-0/ "Dubioses Festgeld - Vorsicht bei Spar-Global")
+* [Schlaf­mittel: Vorsicht vor Produkten mit Melatonin](https://www.test.de/Schlafmittel-Vorsicht-vor-Produkten-mit-Melatonin-6143885-0/ "Schlafmittel - Vorsicht vor Produkten mit Melatonin")
 
 Service Stiftung Warentest
 
