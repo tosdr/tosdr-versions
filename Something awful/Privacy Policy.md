@@ -205,27 +205,29 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [What's That CSI Doing This Time?](https://www.somethingawful.com/comedy-goldmine/csi-mspaint/1/)
-* [Sci-Fi vs. Fantasy](https://www.somethingawful.com/photoshop-phriday/scifi-vs-fantasy/1/)
-* [Contest Results: The SA T-Shirt Contest](https://www.somethingawful.com/feature-articles/contest-results-sa/1/)
-* [Everything I Say is Correct](https://www.somethingawful.com/feature-articles/everything-say-correct/1/)
-* [Baby Movies](https://www.somethingawful.com/photoshop-phriday/baby-movies/1/)
+* [MenAreBetterThanWomen and Japan Today](https://www.somethingawful.com/weekend-web/japantoday-menarebetterthanwomen/1/)
+* [Sneeze Fetish Forum, GovTeen, and Bullshit](https://www.somethingawful.com/weekend-web/govteen-sneeze-fetish/1/)
+* [Anime Monstrosities!](https://www.somethingawful.com/photoshop-phriday/anime-monstrosities/1/)
+* [I Hate You Page 01](https://www.somethingawful.com/cliff-yablonski/i-hate-you-01/)
+* [Pranks In The Workplace](https://www.somethingawful.com/comedy-goldmine/work-office-pranks/1/)
 
 ### Popular Threads
 
-* ![](https://fi.somethingawful.com/forums/posticons/anime-hm7.gif) [When did Buffalo Wild Wings get this shitty?](http://forums.somethingawful.com/showthread.php?threadid=4070629 "When did Buffalo Wild Wings get this shitty?")
-* ![](https://fi.somethingawful.com/forums/posticons/byob-gents.gif) [Who is the least creepy celebrity?](http://forums.somethingawful.com/showthread.php?threadid=4070612 "Who is the least creepy celebrity?")
 * ![](https://fi.somethingawful.com/forums/posticons/byob-grumpy.gif) [Whats it like being in an extremely long fight?](http://forums.somethingawful.com/showthread.php?threadid=4070598 "Whats it like being in an extremely long fight?")
+* ![](https://fi.somethingawful.com/forums/posticons/icons-08/photoshop.png) [Nightmares Fear Factory 2024 - Road Rage In a Haunted House](http://forums.somethingawful.com/showthread.php?threadid=4070637 "Nightmares Fear Factory 2024 - Road Rage In a Haunted House")
+* ![](https://fi.somethingawful.com/forums/posticons/byob-gents.gif) [Who is the least creepy celebrity?](http://forums.somethingawful.com/showthread.php?threadid=4070612 "Who is the least creepy celebrity?")
 * ![](https://fi.somethingawful.com/forums/posticons/LF-article.gif) [Jazzed on this sick ass test I saw advertised on youtube](http://forums.somethingawful.com/showthread.php?threadid=4070606 "Jazzed on this sick ass test I saw advertised on youtube")
+* ![](https://fi.somethingawful.com/forums/posticons/anime-hm7.gif) [When did Buffalo Wild Wings get this shitty?](http://forums.somethingawful.com/showthread.php?threadid=4070629 "When did Buffalo Wild Wings get this shitty?")
+* ![](https://fi.somethingawful.com/forums/posticons/icons-08/video.png) [TastyArmageddon has started a YouTube channel](http://forums.somethingawful.com/showthread.php?threadid=4070663 "TastyArmageddon has started a YouTube channel")
 * ![](https://fi.somethingawful.com/forums/posticons/byob-grumpy.gif) [What's it like being on an extremely short flight?](http://forums.somethingawful.com/showthread.php?threadid=4070619 "What's it like being on an extremely short flight?")
 
 ### Random Articles
 
-* [WWF Buys WCW!](https://www.somethingawful.com/news/wwf-buys-wcw/)
-* [Article: Ragnarok Online: Then and Now](https://www.somethingawful.com/feature-articles/article-ragnarok-online/1/)
-* [Flames From Review of Radiohead - Amnesiac](https://www.somethingawful.com/truth-media-flames/flames-from-review/1/)
-* [Neck Brace Art Appreciation Klub](https://www.somethingawful.com/awful-links/awful-link-1565/)
-* [A Memo From George Lucas](https://www.somethingawful.com/news/memo-from-george/)
+* [Law of the West](https://www.somethingawful.com/rom-pit/law-west/)
+* [Avenger](https://www.somethingawful.com/daily-dirt/avenger/)
+* [Real Karate](https://www.somethingawful.com/awful-links/awful-link-2298/)
+* [Some crazy site from another country with comics](https://www.somethingawful.com/awful-links/awful-link-3915/)
+* [LCARS Standards Development Board](https://www.somethingawful.com/awful-links/awful-link-3936/)
 
 [Random!](https://www.somethingawful.com/random/)
 
