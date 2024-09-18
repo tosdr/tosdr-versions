@@ -85,11 +85,11 @@ Top downloads
 
 Latest releases
 
-* [Safari](https://www.myabandonware.com/game/safari-se0)
-* [Sharpshooter](https://www.myabandonware.com/game/sharpshooter-sdy)
-* [Rotary Fighter](https://www.myabandonware.com/game/rotary-fighter-sdx)
-* [Shark Treasure](https://www.myabandonware.com/game/shark-treasure-sdw)
-* [Rolling Crash](https://www.myabandonware.com/game/rolling-crash-sdv)
+* [Hydra](https://www.myabandonware.com/game/hydra-509)
+* [Quasar](https://www.myabandonware.com/game/quasar-se8)
+* [Ridge Racer](https://www.myabandonware.com/game/ridge-racer-se7)
+* [Ridge Racer 2](https://www.myabandonware.com/game/ridge-racer-2-se6)
+* [Red Alert](https://www.myabandonware.com/game/red-alert-se5)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [Facebook](https://www.facebook.com/myabandonware) or [X (Twitter)](https://x.com/myabandonware)
