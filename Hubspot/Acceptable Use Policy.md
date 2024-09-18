@@ -165,7 +165,7 @@ Legal
 HubSpot Acceptable Use Policy
 -----------------------------
 
-Last Modified: March 5, 2024
+Last Modified: September 18, 2024
 
 This HubSpot Acceptable Use Policy ("AUP") applies to the use of any product, service or website provided by us (HubSpot), whether we provide it directly or use another party to provide it to you (each, a "HubSpot Service"). This AUP is designed to ensure compliance with the laws and regulations that apply to the HubSpot Service. This AUP also protects the interests of all of our clients and their customers, as well as our goodwill and reputation. These terms are so important that we cannot provide the HubSpot Service unless you agree to them. By using the HubSpot Service, you are agreeing to these terms. 
 
@@ -189,7 +189,7 @@ This HubSpot Acceptable Use Policy ("AUP") applies to the use of any product, se
 
 10\. [General Terms](#General-Terms)
 
-If you are using any HubSpot Service, this AUP applies to you. Every client of ours agrees to abide by this AUP and is responsible for any violations. You are not allowed to assist or engage others in a way that would violate this AUP. We will enforce and ensure compliance with this AUP by using methods we consider to be appropriate, such as complaint and email failure monitoring.  We may also suspend or terminate your use of HubSpot Services pursuant to our Customer Terms of Service for violations of this AUP. 
+If you are using any HubSpot Service, this AUP applies to you. Every customer and user of ours agrees to abide by this AUP and is responsible for any violations. You are not allowed to assist or engage others in a way that would violate this AUP. We will enforce and ensure compliance with this AUP by using methods we consider to be appropriate, such as complaint and email failure monitoring.  We may also suspend or terminate your use of HubSpot Services pursuant to our Customer Terms of Service for violations of this AUP. 
 
 We periodically update these terms and we will let you know when we do through the Notification app in your HubSpot account (if you have one), or by posting a revised copy on our website. You agree to review the AUP on a regular basis and always remain in compliance.
 
@@ -216,7 +216,10 @@ If you use email, we recommend that you adopt the Messaging, Malware and Mobile
 
 c. You may not email purchased lists. 
 
-You are prohibited from using the HubSpot Service to email: (i) purchased, rented, or borrowed lists, and (ii) lists that are likely to result in an excessive number of unsubscribe requests or Spam complaints or notices, as determined by acceptable industry practices.
+You are prohibited from using the HubSpot Service to engage in email practices that are likely to have high levels bounces, increased spam complaints, and the potential for blocklisting by anti-spam providers, including but not limited to the following: email:   
+(i) emailing purchased, rented, or borrowed lists;, and   
+(ii) email appending and/or sending non-permission based email where prohibited (for example, in violation of the consent requirements outlined in Canada’s Anti-Spam Legislation (CASL) and the European Union’s General Data Protection Regulation (GDPR), among others);   
+(iii) engaging with email recipients or content lists that are likely to result in an excessive number of unsubscribe requests or Spam complaints or notices, as determined by acceptable industry practices.  
 
 ### 3.  **Email Opt-out Requirements** 
 
@@ -265,6 +268,8 @@ These restrictions apply regardless of your intent and whether or not you act in
 ### 6. **Proper Usage of the HubSpot Service**
 
 You will respect the limits that apply to your use of the HubSpot Service as specified in the Product and Services Catalog available at [http://legal.hubspot.com/hubspot-product-and-services-catalog](https://legal.hubspot.com/hubspot-product-and-services-catalog) (the “Service Limits”). We may update or change these Service Limits by updating [http://legal.hubspot.com/hubspot-product-and-services-catalog](https://legal.hubspot.com/hubspot-product-and-services-catalog), so we encourage you to review this page periodically.
+
+If you store any information belonging to a sensitive category of information under applicable law relating to privacy or data protection, you must adhere to the standards and obligations reflected in the HubSpot Sensitive Data Terms available at https://legal.hubspot.com/sensitive-data-terms.  For the avoidance of doubt, you may not (directly or indirectly) use the HubSpot Service in a way that i) uses Permitted Sensitive Data in a service or feature not expressly permitted by HubSpot Sensitive Data Terms, ii) includes any Prohibited Sensitive Data, iii) otherwise stores or uses Permitted Sensitive Data in an unprotected manner or in violation of applicable regulation.  
 
 In addition, and without limiting the other requirements in this AUP, you may not (directly or indirectly) use the HubSpot Service with content, or in a manner that:
 
