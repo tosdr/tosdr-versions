@@ -82,6 +82,7 @@ Sign in
     * [Online & mobile banking](https://www.truist.com/digital-banking)
     * [Zelle®](https://www.truist.com/online-banking/zelle)
     * [Paze℠](https://www.truist.com/online-banking/paze)
+    * [Setting up your Truist Checking Account](https://www.truist.com/checking/set-up-your-truist-checking-account)
     
     #### Additional services
     
