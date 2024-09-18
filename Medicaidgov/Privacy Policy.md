@@ -43,10 +43,11 @@ MainMenu
         
         * [Health Home Information Resource Center](https://www.medicaid.gov/resources-for-states/medicaid-state-technical-assistance/health-home-information-resource-center/index.html)
         * [Medicaid and School Based Services](https://www.medicaid.gov/resources-for-states/medicaid-state-technical-assistance/medicaid-and-school-based-services/index.html)
-            * [Medicaid School-Based Services Frequently Asked Questions (FAQs)](https://www.medicaid.gov/resources-for-states/medicaid-state-technical-assistance/medicaid-and-school-based-services/medicaid-school-based-services-frequently-asked-questions-faqs/index.html)
-            * [Technical Assistance Materials](https://www.medicaid.gov/resources-for-states/medicaid-state-technical-assistance/medicaid-and-school-based-services/technical-assistance-materials/index.html)
-            * [Technical Assistance Center (TAC)](https://www.medicaid.gov/resources-for-states/medicaid-state-technical-assistance/medicaid-and-school-based-services/technical-assistance-center-tac/index.html)
-            * [US Department of Education and School-Based Services](https://www.medicaid.gov/resources-for-states/medicaid-state-technical-assistance/medicaid-and-school-based-services/us-department-of-education-and-school-based-services/index.html)
+            * [Frequently Asked Questions (FAQs)](https://www.medicaid.gov/resources-for-states/medicaid-state-technical-assistance/medicaid-and-school-based-services/medicaid-school-based-services-frequently-asked-questions-faqs/index.html)
+            * [Events](https://www.medicaid.gov/resources-for-states/medicaid-state-technical-assistance/medicaid-and-school-based-services/technical-assistance-center-tac/upcoming-events/index.html)
+            * [CMS SBS Resources](https://www.medicaid.gov/resources-for-states/medicaid-state-technical-assistance/medicaid-and-school-based-services/school-based-services-resources/index.html)
+            * [U.S. Department of Education SBS Resources](https://www.medicaid.gov/resources-for-states/medicaid-state-technical-assistance/medicaid-and-school-based-services/us-department-of-education-school-based-services-resources/index.html)
+            * [Grants](https://www.medicaid.gov/resources-for-states/medicaid-state-technical-assistance/medicaid-and-school-based-services/grants/index.html)
     * Medicaid and CHIP Program Portal
         
         [View all in Medicaid and CHIP Program Portal](https://www.medicaid.gov/resources-for-states/medicaid-and-chip-program-macpro-portal/index.html)
@@ -390,10 +391,11 @@ MainMenu Desktop
         
         * [Health Home Information Resource Center](https://www.medicaid.gov/resources-for-states/medicaid-state-technical-assistance/health-home-information-resource-center/index.html)
         * [Medicaid and School Based Services](https://www.medicaid.gov/resources-for-states/medicaid-state-technical-assistance/medicaid-and-school-based-services/index.html)
-            * [Medicaid School-Based Services Frequently Asked Questions (FAQs)](https://www.medicaid.gov/resources-for-states/medicaid-state-technical-assistance/medicaid-and-school-based-services/medicaid-school-based-services-frequently-asked-questions-faqs/index.html)
-            * [Technical Assistance Materials](https://www.medicaid.gov/resources-for-states/medicaid-state-technical-assistance/medicaid-and-school-based-services/technical-assistance-materials/index.html)
-            * [Technical Assistance Center (TAC)](https://www.medicaid.gov/resources-for-states/medicaid-state-technical-assistance/medicaid-and-school-based-services/technical-assistance-center-tac/index.html)
-            * [US Department of Education and School-Based Services](https://www.medicaid.gov/resources-for-states/medicaid-state-technical-assistance/medicaid-and-school-based-services/us-department-of-education-and-school-based-services/index.html)
+            * [Frequently Asked Questions (FAQs)](https://www.medicaid.gov/resources-for-states/medicaid-state-technical-assistance/medicaid-and-school-based-services/medicaid-school-based-services-frequently-asked-questions-faqs/index.html)
+            * [Events](https://www.medicaid.gov/resources-for-states/medicaid-state-technical-assistance/medicaid-and-school-based-services/technical-assistance-center-tac/upcoming-events/index.html)
+            * [CMS SBS Resources](https://www.medicaid.gov/resources-for-states/medicaid-state-technical-assistance/medicaid-and-school-based-services/school-based-services-resources/index.html)
+            * [U.S. Department of Education SBS Resources](https://www.medicaid.gov/resources-for-states/medicaid-state-technical-assistance/medicaid-and-school-based-services/us-department-of-education-school-based-services-resources/index.html)
+            * [Grants](https://www.medicaid.gov/resources-for-states/medicaid-state-technical-assistance/medicaid-and-school-based-services/grants/index.html)
     * Medicaid and CHIP Program Portal
         
         [View all in Medicaid and CHIP Program Portal](https://www.medicaid.gov/resources-for-states/medicaid-and-chip-program-macpro-portal/index.html)
