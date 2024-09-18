@@ -26,7 +26,7 @@ Website Terms of Use
   
   
 
-[Company](https://wasabi.com/legal/terms-of-use?__nextDataReq=1#)
+[Company](https://wasabi.com/legal/terms-of-use#)
 
 * [About Wasabi](https://wasabi.com/company)
     
