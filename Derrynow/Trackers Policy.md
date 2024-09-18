@@ -282,13 +282,6 @@ PSNI
 [Man charged with threatening to kill his uncle and dog](https://www.derrynow.com/news/local-news/1607117/man-charged-with-threatening-to-kill-his-uncle-and-dog.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Derry Death Notices - Tuesday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Tuesday")](https://www.derrynow.com/news/deaths/1606560/derry-death-notices-tuesday-17th-september-2024.html)
-
-[Deaths](https://www.derrynow.com/section/977/deaths)
-
-[Derry Death Notices - Tuesday, 17th September 2024](https://www.derrynow.com/news/deaths/1606560/derry-death-notices-tuesday-17th-september-2024.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------
-
 [![Derry mental health charity to close due to lack of governmental support](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry mental health charity to close due to lack of governmental support")](https://www.derrynow.com/news/local-news/1606852/derry-mental-health-charity-to-close-due-to-lack-of-governmental-support.html)
 
 MAN has had to close due to a lack of funding
@@ -298,15 +291,6 @@ MAN has had to close due to a lack of funding
 [Derry mental health charity to close due to lack of governmental support](https://www.derrynow.com/news/local-news/1606852/derry-mental-health-charity-to-close-due-to-lack-of-governmental-support.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![PSNI appeal for information following early morning attack on house in Dungiven](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PSNI appeal for information following early morning attack on house in Dungiven")](https://www.derrynow.com/news/home/1606786/psni-appeal-for-information-following-early-morning-attack-on-house-in-dungiven.html)
-
-The PSNI are investigating the attack.
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[PSNI appeal for information following early morning attack on house in Dungiven](https://www.derrynow.com/news/home/1606786/psni-appeal-for-information-following-early-morning-attack-on-house-in-dungiven.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 [![Registered sex offender jailed at Derry court for failing to register address change with police](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Registered sex offender jailed at Derry court for failing to register address change with police")](https://www.derrynow.com/news/local-news/1607116/registered-sex-offender-jailed-at-derry-court-for-failing-to-register-address-change-with-police.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
@@ -314,12 +298,30 @@ The PSNI are investigating the attack.
 [Registered sex offender jailed at Derry court for failing to register address change with police](https://www.derrynow.com/news/local-news/1607116/registered-sex-offender-jailed-at-derry-court-for-failing-to-register-address-change-with-police.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+[![Road Closure](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Road Closure")](https://www.derrynow.com/news/home/1606915/temporary-road-closure-in-limavady.html)
+
+Road Closure
+
+[Home](https://www.derrynow.com/)
+
+[Temporary Road Closure in Limavady](https://www.derrynow.com/news/home/1606915/temporary-road-closure-in-limavady.html)
+------------------------------------------------------------------------------------------------------------------------
+
 [![Suspended sentence for man who 'lashed out' at police in Derry city centre](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Suspended sentence for man who 'lashed out' at police in Derry city centre")](https://www.derrynow.com/news/local-news/1607109/suspended-sentence-for-man-who-lashed-out-at-police-in-derry-city-centre.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
 
 [Suspended sentence for man who 'lashed out' at police in Derry city centre](https://www.derrynow.com/news/local-news/1607109/suspended-sentence-for-man-who-lashed-out-at-police-in-derry-city-centre.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Diffin Event in memory of Odhran Archie O'Connor](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Diffin Event in memory of Odhran Archie O'Connor")](https://www.derrynow.com/news/county-derry-post/1606403/diffin-event-to-be-held-in-nuttscorner-raceway-in-memory-of-county-derry-man.html)
+
+Diffin Event in memory of Odhran Archie O'Connor
+
+[County Derry Post](https://www.derrynow.com/section/1000/county-derry-post)
+
+[Diffin event to be held in Nuttscorner raceway in memory of County Derry man](https://www.derrynow.com/news/county-derry-post/1606403/diffin-event-to-be-held-in-nuttscorner-raceway-in-memory-of-county-derry-man.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Ballymaguigan](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Ballymaguigan")](https://www.derrynow.com/news/derry-sport/1606883/seven-goal-ballymaguigan-cruise-into-intermediate-final-with-victory-over-ballerin.html)
 
@@ -330,14 +332,12 @@ Ballymaguigan defeated Ballerin last night.
 [Seven-goal Ballymaguigan cruise into Intermediate final with victory over Ballerin](https://www.derrynow.com/news/derry-sport/1606883/seven-goal-ballymaguigan-cruise-into-intermediate-final-with-victory-over-ballerin.html)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Diffin Event in memory of Odhran Archie O'Connor](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Diffin Event in memory of Odhran Archie O'Connor")](https://www.derrynow.com/news/county-derry-post/1606403/diffin-event-to-be-held-in-nuttscorner-raceway-in-memory-of-county-derry-man.html)
+[![Derry Death Notices - Wednesday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Wednesday")](https://www.derrynow.com/news/deaths/1607467/derry-death-notices-wednesday-18th-september-2024.html)
 
-Diffin Event in memory of Odhran Archie O'Connor
+[Deaths](https://www.derrynow.com/section/977/deaths)
 
-[County Derry Post](https://www.derrynow.com/section/1000/county-derry-post)
-
-[Diffin event to be held in Nuttscorner raceway in memory of County Derry man](https://www.derrynow.com/news/county-derry-post/1606403/diffin-event-to-be-held-in-nuttscorner-raceway-in-memory-of-county-derry-man.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Derry Death Notices - Wednesday, 18th September 2024](https://www.derrynow.com/news/deaths/1607467/derry-death-notices-wednesday-18th-september-2024.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
@@ -523,6 +523,13 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
+[![Derry Death Notices - Wednesday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Wednesday")](https://www.derrynow.com/news/deaths/1607467/derry-death-notices-wednesday-18th-september-2024.html)
+
+[Deaths](https://www.derrynow.com/section/977/deaths)
+
+[Derry Death Notices - Wednesday, 18th September 2024](https://www.derrynow.com/news/deaths/1607467/derry-death-notices-wednesday-18th-september-2024.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+
 [![Government must lift funding pause on city deals – Archibald](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Government must lift funding pause on city deals – Archibald")](https://www.derrynow.com/news/local-news/1607431/government-must-lift-funding-pause-on-city-deals-archibald.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
@@ -530,7 +537,7 @@ Advertise with Us
 [Government must lift funding pause on city deals – Archibald](https://www.derrynow.com/news/local-news/1607431/government-must-lift-funding-pause-on-city-deals-archibald.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Bewitching new Derry Halloween programme unveiled by Mayor](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Bewitching new Derry Halloween programme unveiled by Mayor")](https://www.derrynow.com/news/local-news/1607450/bewitching-new-derry-halloween-programme-unveiled-by-mayor.html)
+[![Bewitching new Derry Halloween programme unveiled by Mayor](https://www.derrynow.com/resizer/165/93/true/2024_09_17/DerryHalloweenLaunch20243-1726588538983.jpg--.jpg?1726588541234 "Bewitching new Derry Halloween programme unveiled by Mayor")](https://www.derrynow.com/news/local-news/1607450/bewitching-new-derry-halloween-programme-unveiled-by-mayor.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
 
@@ -563,15 +570,6 @@ The scene at Ballybobaneen Forest in Glenfin where a search took place for the r
 
 [Arlene Arkinson family 'gutted' as Glenfin search for her body ends](https://www.derrynow.com/news/local-news/1607367/arlene-arkinson-family-gutted-as-glenfin-search-for-her-body-ends.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Suspension of Growth Deal for Causeway Coast and Glens Borough Council 'undermines hard work' of local stakeholders in Dungiven](https://www.derrynow.com/resizer/165/93/true/2024_09_17/CCGBC_GROWTH_DEAL_SIGNING_HEADS_OF_TERMS-1726585394164.jpg--.jpg?1726585394186 "Suspension of Growth Deal for Causeway Coast and Glens Borough Council 'undermines hard work' of local stakeholders in Dungiven")](https://www.derrynow.com/news/home/1607369/suspension-of-growth-deal-for-causeway-coast-and-glens-borough-council-undermines-hard-work-of-local-stakeholders-in-dungiven.html)
-
-Pictured at the signing of head of terms earlier this year.
-
-[Home](https://www.derrynow.com/)
-
-[Suspension of Growth Deal for Causeway Coast and Glens Borough Council 'undermines hard work' of local stakeholders in Dungiven](https://www.derrynow.com/news/home/1607369/suspension-of-growth-deal-for-causeway-coast-and-glens-borough-council-undermines-hard-work-of-local-stakeholders-in-dungiven.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
