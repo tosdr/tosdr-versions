@@ -285,9 +285,9 @@ Your partner in trust transformation
 
 ### Resources
 
+* [Navigating the intersection: Third-party risk management in South Africa's evolving data landscape](https://www.onetrust.com/resources/navigating-third-party-risk-management-in-south-africa-webinar/)
 * [Mastering first-party data: The complete playbook for marketers](https://www.onetrust.com/resources/ultimate-guide-to-first-party-data-ebook/)
 * [Tech risk & compliance masterclass: An evidence-based approach to building by-design risk and compliance practices](https://www.onetrust.com/resources/tech-risk-and-compliance-masterclass-an-evidence-based-approach-to-building-by-design-risk-and-compliance-practices-webinar/)
-* [Global regulatory update: Recent privacy developments and compliance trends](https://www.onetrust.com/resources/global-regulatory-update-recent-privacy-developments-and-compliance-trends-webinar/)
 
 ### Platform
 
@@ -306,9 +306,9 @@ Your partner in trust transformation
 
 ### Latest News
 
+* [The Future of Compliance: OneTrust Introduces Compliance Automation on the OneTrust Platform](https://www.onetrust.com/news/onetrust-introduces-compliance-automation-on-the-onetrust-platform/)
 * [24i Deploys OneTrust to Tailor Consumer Consent that Balances Personalized Ads and Privacy](https://www.onetrust.com/news/24i-deploys-onetrust-to-tailor-consumer-consent-that-balances-personalized-ads-and-viewer-privacy/)
 * [OneTrust on Track to Surpass $500M in ARR as Demand for Responsible Data and AI Solutions Skyrockets](https://www.onetrust.com/news/onetrust-trustweek-2024-momentum/)
-* [OneTrust Named Winner in the 12th Annual Global InfoSec Awards at RSA Conference 2024](https://www.onetrust.com/news/onetrust-named-winner-in-annual-global-infosec-awards-at-rsa-conference-2024/)
 
 ### Contact Us
 
