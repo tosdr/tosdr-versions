@@ -336,7 +336,7 @@ Optery uses third-party vendors and service providers to facilitate our Service 
 | **Entity Name** | **Purpose** | **Location** | **More Information** |
 | Amazon Web Services | Cloud Hosting | USA | [https://aws.amazon.com](https://aws.amazon.com/) |
 | Amplitude | Product Analytics | USA | [https://amplitude.com/amplitude-security-and-privacy](https://amplitude.com/amplitude-security-and-privacy) |
-| Crisp | Customer Support | USA | [help.crisp.chat/en/article/how-is-security-managed-on-crisp-services-1p8p1lm/](https://help.crisp.chat/en/article/how-is-security-managed-on-crisp-services-1p8p1lm/) |
+| Crisp | Customer Support | USA | [https://docs.crisp.chat/guides/others/security-practices/](https://docs.crisp.chat/guides/others/security-practices/) |
 | Customer.io | Email Marketing, Notifications | USA | [https://customer.io/legal/security/](https://customer.io/legal/security/) |
 | Google Ads | Marketing | USA | [https://policies.google.com/privacy](https://policies.google.com/privacy) |
 | Google Marketing Platform | Analytics, Marketing, Tag Management | USA | [https://policies.google.com/privacy](https://policies.google.com/privacy) |
@@ -344,8 +344,9 @@ Optery uses third-party vendors and service providers to facilitate our Service 
 | Hubspot | Customer Relationship Management | USA | [https://legal.hubspot.com/privacy-policy](https://legal.hubspot.com/privacy-policy) |
 | Linkedin | Marketing | USA | [https://www.linkedin.com/legal/privacy-policy](https://www.linkedin.com/legal/privacy-policy) |
 | Mailgun | Customer Analytics | USA | [https://www.mailgun.com/legal/privacy-policy/](https://www.mailgun.com/legal/privacy-policy/) |
-| Meta | Marketing | USA | [facebook.com/help/109378269482053/](https://www.facebook.com/help/109378269482053/) |
-| Profitwell | Revenue Management | USA | [profitwell.com/security](https://www.profitwell.com/security) |
+| Meta | Marketing | USA | [https://www.facebook.com/help/109378269482053/](https://www.facebook.com/help/109378269482053/) |
+| OpenAI | Removals Reports Processing | USA | [https://openai.com/security-and-privacy/](https://openai.com/security-and-privacy/) |
+| Profitwell | Revenue Management | USA | [https://security.paddle.com/](https://security.paddle.com/) |
 | Reddit | Marketing | USA | [https://www.reddit.com/policies/privacy-policy](https://www.reddit.com/policies/privacy-policy) |
 | Slack | Internal Communications, Customer Support | USA | [https://slack.com/trust/privacy/privacy-policy](https://slack.com/trust/privacy/privacy-policy) |
 | Stripe | Payment Processing | USA | [https://stripe.com/us/privacy](https://stripe.com/us/privacy) |
