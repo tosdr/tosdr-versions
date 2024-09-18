@@ -216,7 +216,7 @@ If you use email, we recommend that you adopt the Messaging, Malware and Mobile
 
 c. You may not email purchased lists. 
 
-You are prohibited from using the HubSpot Service to engage in email practices that are likely to have high levels bounces, increased spam complaints, and the potential for blocklisting by anti-spam providers, including but not limited to the following: email:   
+You are prohibited from using the HubSpot Service to engage in email practices that are likely to have high levels of bounces, increased spam complaints, and the potential for blocklisting by anti-spam providers, including but not limited to the following:    
 (i) emailing purchased, rented, or borrowed lists;, and   
 (ii) email appending and/or sending non-permission based email where prohibited (for example, in violation of the consent requirements outlined in Canada’s Anti-Spam Legislation (CASL) and the European Union’s General Data Protection Regulation (GDPR), among others);   
 (iii) engaging with email recipients or content lists that are likely to result in an excessive number of unsubscribe requests or Spam complaints or notices, as determined by acceptable industry practices.  
