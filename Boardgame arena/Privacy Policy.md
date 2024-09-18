@@ -12,9 +12,9 @@
 
 {NB\_PLAYERS\_CONNECTED} online players: {IN\_GAME} playing • {WAITING} available
 
-![loading](https://x.boardgamearena.net/data/themereleases/240916-1613/img/logo/waiting.gif)
+![loading](https://x.boardgamearena.net/data/themereleases/240918-1455/img/logo/waiting.gif)
 
-If you see this message, it means that your browser failed to load [this file](https://x.boardgamearena.net/data/themereleases/240916-1613/css/mainsite.css).
+If you see this message, it means that your browser failed to load [this file](https://x.boardgamearena.net/data/themereleases/240918-1455/css/mainsite.css).
 
 You should try the following : check your connection, disable ad-blocker, clear your browser cache, try in private mode, try from another browser/computer/connection.
 
@@ -2833,11 +2833,11 @@ Ooops, we seem to be having difficulties reaching you by email...
 boardgamearena.com
 
 [THANK YOU : You are one of our most loyal players!  
-Get the best from Board Game Arena for only €2 / month.](https://boardgamearena.com/premium?src=premiumbar)
+Get the best from Board Game Arena for only $5 / month.](https://boardgamearena.com/premium?src=premiumbar)
 
 Top
 
-[![BGA](https://x.boardgamearena.net/data/themereleases/240916-1613/img/logo/logo_white.png)](https://boardgamearena.com/welcome)[](https://boardgamearena.com/welcome)
+[![BGA](https://x.boardgamearena.net/data/themereleases/240918-1455/img/logo/logo_white.png)](https://boardgamearena.com/welcome)[](https://boardgamearena.com/welcome)
 
 ### Help
 
@@ -2861,7 +2861,7 @@ Top
 * [Notify your browser](https://boardgamearena.com/preferences?section=notifications)
 * [Subscribe to our newsletter](https://boardgamearena.com/preferences?section=email)
 
-Board Game Arena 903 [Board Game Arena](https://boardgamearena.com/) • Release 240916-1613-ST • [Legal information](https://boardgamearena.com/legal?section=legal) • [Terms of Use](https://boardgamearena.com/legal?section=tosv) • [Terms of Services](https://boardgamearena.com/legal?section=tos) • [Privacy](https://boardgamearena.com/legal?section=ppac) • [Cookies](https://boardgamearena.com/legal?section=cook) [π](#)
+Board Game Arena 1262 [Board Game Arena](https://boardgamearena.com/) • Release 240918-1455-ST • [Legal information](https://boardgamearena.com/legal?section=legal) • [Terms of Use](https://boardgamearena.com/legal?section=tosv) • [Terms of Services](https://boardgamearena.com/legal?section=tos) • [Privacy](https://boardgamearena.com/legal?section=ppac) • [Cookies](https://boardgamearena.com/legal?section=cook) [π](#)
 
 1
 
