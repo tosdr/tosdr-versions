@@ -557,17 +557,17 @@ MENU MENU
     [Press Releases](https://home.treasury.gov/news/press-releases)
     ---------------------------------------------------------------
     
+    September 18, 2024
+    
+    [Treasury Sanctions Iranian Officials Connected to Human Rights Violations](https://home.treasury.gov/news/press-releases/jy2587)
+    
+    September 18, 2024
+    
+    [U.S. Department of the Treasury Releases Guidance to Expand Clean Vehicle Recharging and Refueling Infrastructure and Lower Transportation Costs for Americans](https://home.treasury.gov/news/press-releases/jy2586)
+    
     September 17, 2024
     
     [U.S. Department of the Treasury Awards Over $7 Million to Arizona to Help Small Businesses Grow and Hire](https://home.treasury.gov/news/press-releases/jy2585)
-    
-    September 16, 2024
-    
-    [Treasury Sanctions Georgian Officials and Extremists for Serious Human Rights Abuse](https://home.treasury.gov/news/press-releases/jy2580)
-    
-    September 16, 2024
-    
-    [Treasury Sanctions Enablers of the Intellexa Commercial Spyware Consortium](https://home.treasury.gov/news/press-releases/jy2581)
     
     [View All Press Releases](https://home.treasury.gov/news/press-releases "View all Press Releases")
     
