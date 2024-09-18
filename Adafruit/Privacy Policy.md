@@ -75,21 +75,21 @@ Search
     
     New Products[view all](https://www.adafruit.com/new)
     
+    ![Overhead shot of barrel-jack-to-USB-C-socket right angle adapter, showing 12V.](https://cdn-shop.adafruit.com/230x173/6032-03.jpg)[USB Type C PD to 5.5mm/2.1mm Barrel Jack Adapter - 12V
+    
+    $2.25](https://www.adafruit.com/product/6032)
+    
+    ![Overhead shot of barrel-jack-to-USB-C-socket right angle adapter, showing 9V.](https://cdn-shop.adafruit.com/230x173/6031-03.jpg)[USB Type C PD to 5.5mm/2.1mm Barrel Jack Adapter
+    
+    $2.25](https://www.adafruit.com/product/6031)
+    
+    ![Overhead shot of barrel-jack-to-USB-C-socket right angle adapter, showing 5V.](https://cdn-shop.adafruit.com/230x173/6030-03.jpg)[USB Type C PD to 5.5mm/2.1mm Barrel Jack Adapter - 5V
+    
+    $2.25](https://www.adafruit.com/product/6030)
+    
     ![Angled shot of black, square-shaped breakout board.](https://cdn-shop.adafruit.com/230x173/6039-00.jpg)[Adafruit SPI Flash SD Card - XTSD 4 GB
     
     $12.50](https://www.adafruit.com/product/6039)
-    
-    ![Angled Shot of the Adafruit SPI Flash SD Card - XTSD 2 GB.](https://cdn-shop.adafruit.com/230x173/6038-00.jpg)[Adafruit SPI Flash SD Card - XTSD 2 GB
-    
-    $10.95](https://www.adafruit.com/product/6038)
-    
-    ![Angled shot of 20cm long, 22-pin FPC cable.](https://cdn-shop.adafruit.com/230x173/6036-00.jpg)[22-pin 0.5mm pitch FPC Flex Cable for DSI CSI or HSTX - 20cm
-    
-    $0.95](https://www.adafruit.com/product/6036)
-    
-    ![Angled shot of 10cm long 22-pin FPC cable.](https://cdn-shop.adafruit.com/230x173/6035-00.jpg)[22-pin 0.5mm pitch FPC Flex Cable for DSI CSI or HSTX - 10cm
-    
-    $0.95](https://www.adafruit.com/product/6035)
     
     Featured Products[view all](https://www.adafruit.com/featured)
     
@@ -404,9 +404,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ Either I win or I learn”
+“ Perfect is the enemy of good”
 
-[Nelson Mandela](https://en.wikipedia.org/wiki/Nelson_Mandela)
+[Voltaire](http://en.wikipedia.org/wiki/Perfect_is_the_enemy_of_good)
 
 [](https://www.adafruit.com/about)
 
