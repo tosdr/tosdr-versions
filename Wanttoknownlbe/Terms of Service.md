@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/overige/waarom-je-niet-moet-geloven-wat-er-in-de-krant-staat/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/nieuws/journalist-toont-relatie-isis-en-cia-ontslagen/ "Feeling Lucky? »")
 
 Algemene voorwaarden WantToKnow aanbiedingen
 ============================================
