@@ -93,8 +93,8 @@ Table of Contents Table of Contents Toggle navigation
             * [Internal title](https://www.knowledgeowl.com/help/internal-title)
             * [Publishing status](https://www.knowledgeowl.com/help/publishing-status)
             * [Published date](https://www.knowledgeowl.com/help/published-date)
-            * [Schedule an article to be published](https://www.knowledgeowl.com/help/schedule-an-article-to-be-published)
-            * [Schedule an article to be archived](https://www.knowledgeowl.com/help/schedule-an-article-to-be-archived)
+            * [Schedule an article to be published](https://www.knowledgeowl.com/help/schedule-an-article-to-be-published)Updated
+            * [Schedule an article to be archived](https://www.knowledgeowl.com/help/schedule-an-article-to-be-archived)Updated
             * [Edit or remove an article's scheduled publication or archival](https://www.knowledgeowl.com/help/edit-remove-scheduled-article)
             * [Article callouts (New, Updated, and Video)](https://www.knowledgeowl.com/help/new-updated-and-video-callouts)
             * [Display Settings](https://www.knowledgeowl.com/help/display-settings)
@@ -164,7 +164,7 @@ Table of Contents Table of Contents Toggle navigation
             * [Custom image captions](https://www.knowledgeowl.com/help/image-captions)
             * [Adjust image width for all images](https://www.knowledgeowl.com/help/adjust-image-width)
             * [Display images side-by-side](https://www.knowledgeowl.com/help/display-images-side-by-side)
-            * [Add images in bulk](https://www.knowledgeowl.com/help/add-images-in-bulk)
+            * [Add files and images directly in File Library](https://www.knowledgeowl.com/help/add-images-in-bulk)
             * [Edit and update files](https://www.knowledgeowl.com/help/editing-and-swapping-files)
             * [Image upload errors](https://www.knowledgeowl.com/help/file-upload-errors)
             * [Image best practices](javascript:void(0);)
