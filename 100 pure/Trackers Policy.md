@@ -24,7 +24,7 @@ My Tote
 
 ### [Coffee Bean Caffeine Eye Cream](https://www.100percentpure.com/products/coffee-bean-caffeine-eye-cream)
 
-5745 reviews (5746)
+5746 reviews (5747)
 
 $16.00 $29.00
 
@@ -214,7 +214,7 @@ CHOOSE Size
 
 ### [Acai Pulp Facial Scrub](https://www.100percentpure.com/products/acai-pulp-facial-scrub)
 
-839 reviews (839)
+842 reviews (842)
 
 $38.00
 
@@ -272,7 +272,7 @@ ADD TO TOTE
 
 ### [Honey Almond Nourishing Body Cream](https://www.100percentpure.com/products/honey-almond-nourishing-body-cream)
 
-384 reviews (384)
+386 reviews (386)
 
 $26.00
 
@@ -332,7 +332,7 @@ ADD TO TOTE
 
 ### [Long Last Liquid Eye Liner](https://www.100percentpure.com/products/long-last-liquid-eye-liner)
 
-1558 reviews (1560)
+1562 reviews (1562)
 
 $30.00 $30.00
 
