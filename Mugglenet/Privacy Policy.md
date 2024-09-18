@@ -276,15 +276,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-So many fans visit King’s Cross Station to take pictures of Platforms 9 and 10 that the station management erected a sign that says “Platform 9 3/4,” which, in the Harry Potter books, is invisible to Muggles but acts as a gateway for witches and wizards.
+The Golden Snitch was invented by Bowman Wright, a metal charmer who lived during the Middle Ages.
 
 ### Potter History
 
-July 10, 2007 – MuggleNet releases video coverage of the Harry Potter and the Order of the Phoenix US premiere, featuring interviews with some of the cast.
+February 25, 2005 – Bad weather plagued the filming of Goblet of Fire and delayed production.
 
 ### Potter Quote
 
-“This little beauty’s taught us more than all the teachers in this school.”
+“He knows what you were born, not who you are.”
 
 [](#)
 
