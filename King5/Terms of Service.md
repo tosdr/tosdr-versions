@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/a9e4ee26-5419-4e42-8b62-84bf7a349aec/20240918T021826/a9e4ee26-5419-4e42-8b62-84bf7a349aec_16x9.jpg) ![](https://media.king5.com/assets/KING/images/a9e4ee26-5419-4e42-8b62-84bf7a349aec/20240918T021826/a9e4ee26-5419-4e42-8b62-84bf7a349aec_360x203.jpg)](https://www.king5.com/article/news/local/church-jesus-christ-latter-day-saints-temple-will-be-built-in-federal-way/281-b4dfc5a1-5c48-4af7-b9fd-0d96c469696a)
+    *  [![](https://media.king5.com/assets/KING/images/f6b27d34-7bf5-4344-9167-ebdc3674c228/20240914T005453/f6b27d34-7bf5-4344-9167-ebdc3674c228_16x9.jpg) ![](https://media.king5.com/assets/KING/images/f6b27d34-7bf5-4344-9167-ebdc3674c228/20240914T005453/f6b27d34-7bf5-4344-9167-ebdc3674c228_360x203.jpg)](https://www.king5.com/article/tech/science/aerospace/boeing/boeing-announces-temporary-furloughs-preserve-cash/281-ef382057-df78-43fa-bc99-55c7ff824568)
         
-        #### [New Church of Jesus Christ of Latter-Day Saints temple will be built in Federal Way](https://www.king5.com/article/news/local/church-jesus-christ-latter-day-saints-temple-will-be-built-in-federal-way/281-b4dfc5a1-5c48-4af7-b9fd-0d96c469696a)
+        #### [Boeing announces temporary furloughs to preserve cash during strike](https://www.king5.com/article/tech/science/aerospace/boeing/boeing-announces-temporary-furloughs-preserve-cash/281-ef382057-df78-43fa-bc99-55c7ff824568)
         
-    *  [![](https://media.king5.com/assets/KING/images/4c085f15-2c2d-4d1b-ab05-6c4c8641eea8/20240814T200232/4c085f15-2c2d-4d1b-ab05-6c4c8641eea8_16x9.jpg) ![](https://media.king5.com/assets/KING/images/4c085f15-2c2d-4d1b-ab05-6c4c8641eea8/20240814T200232/4c085f15-2c2d-4d1b-ab05-6c4c8641eea8_360x203.jpg)](https://www.king5.com/article/news/local/seattle/soda-soap-ordinance-stay-out-of-drug-area-of-prostitution-zones-seattle/281-073e3777-63a6-46bd-a7d8-41f870b9a539)
+    *  [![](https://media.king5.com/assets/KING/images/6860ed21-748f-430d-9a2a-0c72df798585/20240909T234523/6860ed21-748f-430d-9a2a-0c72df798585_16x9.jpg) ![](https://media.king5.com/assets/KING/images/6860ed21-748f-430d-9a2a-0c72df798585/20240909T234523/6860ed21-748f-430d-9a2a-0c72df798585_360x203.jpg)](https://www.king5.com/article/travel/sea-airport-ranks-customer-satisfaction/281-b50dcbf8-922f-44f1-9039-fb7ecd8c8d52)
         
-        #### [Seattle City Council approves 'stay out' zones for people with drug, prostitution arrests](https://www.king5.com/article/news/local/seattle/soda-soap-ordinance-stay-out-of-drug-area-of-prostitution-zones-seattle/281-073e3777-63a6-46bd-a7d8-41f870b9a539)
+        #### [SEA Airport again ranks among worst 'mega' airports for customer satisfaction by J.D. Power](https://www.king5.com/article/travel/sea-airport-ranks-customer-satisfaction/281-b50dcbf8-922f-44f1-9039-fb7ecd8c8d52)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -95,9 +95,9 @@ Navigation
 
 Seattle, WA »
 
-60°
+65°
 
-![Cloudy](/assets/shared-images/weather-icons/cloudy-day_210x210.png)
+![Mostly Cloudy](/assets/shared-images/weather-icons/mostly-cloudy-day_210x210.png)
 
 Seattle, WA »](https://www.king5.com/weather)
 
