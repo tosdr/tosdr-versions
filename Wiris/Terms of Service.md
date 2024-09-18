@@ -21,7 +21,7 @@
     
     *  ![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20150%20150'%3E%3C/svg%3E)
     *  ![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20150%20150'%3E%3C/svg%3E)
-    *  ![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20150%20150'%3E%3C/svg%3E)](https://www.wiris.com/en/mathtype/mathtype-xml-editors/)   [Arabic notation  
+    * ![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201%201'%3E%3C/svg%3E)](https://www.wiris.com/en/mathtype/mathtype-xml-editors/)  [Arabic notation  
     Editing math formulas for arabic scientific texts](https://www.wiris.com/en/mathtype/arabic-mathematical-notations/)
     
 * [WirisQuizzes](https://www.wiris.com/en/wirisquizzes/)
