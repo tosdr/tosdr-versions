@@ -42,6 +42,8 @@ Explore
 
 [* HP's top choices](https://www.hp.com/gb-en/laptops-and-2-in-1s/top-choices.html "HP's top choices")
 
+[* Small & Medium Business](https://www.hp.com/gb-en/laptops/business/smb.html "Small & Medium Business")
+
 [* Work Relationship Index](https://www.hp.com/gb-en/work-relationship-index.html "Work Relationship Index")
 
 * PCs
@@ -225,7 +227,7 @@ https://store.hp.com/UKStore/Merch/Cart.aspx
 
 * Featured
 
-[* Security](https://www.hp.com/gb-en/security/endpoint-security-solutions.html)[* Hybrid work](https://www.hp.com/gb-en/solutions/hybrid-work.html)[* HP+ smart printing system](https://www.hp.com/gb-en/printers/hp-plus.html)[* Instant ink](https://www.hp.com/gb-en/printers/instant-ink.html)[* Printables](https://printables.hp.com/gb/en)[* Sustainable impact](https://www.hp.com/gb-en/sustainable-impact.html)[* HP's top choices](https://www.hp.com/gb-en/laptops-and-2-in-1s/top-choices.html)[* Work Relationship Index](https://www.hp.com/gb-en/work-relationship-index.html)
+[* Security](https://www.hp.com/gb-en/security/endpoint-security-solutions.html)[* Hybrid work](https://www.hp.com/gb-en/solutions/hybrid-work.html)[* HP+ smart printing system](https://www.hp.com/gb-en/printers/hp-plus.html)[* Instant ink](https://www.hp.com/gb-en/printers/instant-ink.html)[* Printables](https://printables.hp.com/gb/en)[* Sustainable impact](https://www.hp.com/gb-en/sustainable-impact.html)[* HP's top choices](https://www.hp.com/gb-en/laptops-and-2-in-1s/top-choices.html)[* Small & Medium Business](https://www.hp.com/gb-en/laptops/business/smb.html)[* Work Relationship Index](https://www.hp.com/gb-en/work-relationship-index.html)
 
 * PCs
 
