@@ -142,7 +142,7 @@
     
     * [Technology Alliance Partners](https://www.mimecast.com/partners/technology-alliance-partners/)
     * [Partner Integrations](https://integrations.mimecast.com/tech-partners/)
-    * [API Documentation](https://developer.services.mimecast.com/api-overview)
+    * [API Documentation](https://developer.services.mimecast.com/)
     
     [Partner overview](https://www.mimecast.com/partners/)
     
