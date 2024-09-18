@@ -20,16 +20,16 @@ Wednesday, September 18 2024
 
 Latest
 
-* [Sam Altman exits OpenAI commission for AI safety to create ‘independent’ oversight – Computerworld](https://digitpatrox.com/sam-altman-exits-openai-commission-for-ai-safety-to-create-independent-oversight-computerworld/)
-* [Wordle Answer for Today, September 18, 2024](https://digitpatrox.com/wordle-answer-for-today-september-18-2024/)
-* [Best Refrigerator Brands – Consumer Reports](https://digitpatrox.com/best-refrigerator-brands-consumer-reports/)
-* [The Best Apple Watches of 2024](https://digitpatrox.com/the-best-apple-watches-of-2024/)
-* [Amazon demands staff return to the office five days per week – even as employees argue against current RTO measures](https://digitpatrox.com/amazon-demands-staff-return-to-the-office-five-days-per-week-even-as-employees-argue-against-current-rto-measures/)
-* [Best International Merchant Accounts for Secure Global Payments](https://digitpatrox.com/best-international-merchant-accounts-for-secure-global-payments/)
-* [Coventry City vs Tottenham: how to live stream Carabao Cup](https://digitpatrox.com/coventry-city-vs-tottenham-how-to-live-stream-carabao-cup/)
-* [Mickey 17’s first trailer is light in tone, heavy on dead Robert Pattinsons](https://digitpatrox.com/mickey-17s-first-trailer-is-light-in-tone-heavy-on-dead-robert-pattinsons/)
-* [Today’s Wordle Answer and Hints (September 18, 2024)](https://digitpatrox.com/todays-wordle-answer-and-hints-september-18-2024/)
-* [OpenAI Strawberry: What is o1-preview and what can it do?](https://digitpatrox.com/openai-strawberry-what-is-o1-preview-and-what-can-it-do/)
+* [Reviewing the iPhone 16, Apple Watch 10, and AirPods 4](https://digitpatrox.com/reviewing-the-iphone-16-apple-watch-10-and-airpods-4/)
+* [Pixel 9 Pro Fold vs Galaxy Z Fold 6: A Foldable Showdown](https://digitpatrox.com/pixel-9-pro-fold-vs-galaxy-z-fold-6-a-foldable-showdown/)
+* [How do you value your expertise when selling to experts?](https://digitpatrox.com/how-do-you-value-your-expertise-when-selling-to-experts/)
+* [The anti-iPad-ification of Google’s Android tablets – Computerworld](https://digitpatrox.com/the-anti-ipad-ification-of-googles-android-tablets-computerworld/)
+* [How Deep Should You Squat?](https://digitpatrox.com/how-deep-should-you-squat/)
+* [Tips for Stronger Passwords – Consumer Reports](https://digitpatrox.com/tips-for-stronger-passwords-consumer-reports/)
+* [ANC Performance that Perfectly Matches the Price](https://digitpatrox.com/anc-performance-that-perfectly-matches-the-price/)
+* [Do Emissions Credits Skew Sustainability Reporting?](https://digitpatrox.com/do-emissions-credits-skew-sustainability-reporting/)
+* [‘Cobra Kai’ co-creator reveals why this ‘Karate Kid’ actor never appeared on the Netflix show](https://digitpatrox.com/cobra-kai-co-creator-reveals-why-this-karate-kid-actor-never-appeared-on-the-netflix-show/)
+* [Backup by BioLite is a beefy emergency battery for your big appliances](https://digitpatrox.com/backup-by-biolite-is-a-beefy-emergency-battery-for-your-big-appliances/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,35 +171,35 @@ Popular Posts
     4 weeks ago
     
 
-* [![](https://www.computerworld.com/wp-content/uploads/2024/09/3526546-0-00569800-1726625579-shutterstock_editorial_2253221991.jpg?quality=50&strip=all&w=1024)](https://digitpatrox.com/sam-altman-exits-openai-commission-for-ai-safety-to-create-independent-oversight-computerworld/)
+* [![](https://cdn.vox-cdn.com/thumbor/QwDO3hi2fK6BSnrl1xxbImSQu78=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/25627787/VRG_VST_0918_Site.jpg)](https://digitpatrox.com/reviewing-the-iphone-16-apple-watch-10-and-airpods-4/)
     
-    [Sam Altman exits OpenAI commission for AI safety to create ‘independent’ oversight – Computerworld](https://digitpatrox.com/sam-altman-exits-openai-commission-for-ai-safety-to-create-independent-oversight-computerworld/)
+    [Reviewing the iPhone 16, Apple Watch 10, and AirPods 4](https://digitpatrox.com/reviewing-the-iphone-16-apple-watch-10-and-airpods-4/)
     
-    12 mins ago
+    38 mins ago
     
-* [![](https://lifehacker.com/imagery/articles/01J7V78BHARK91A10NS2RJZ233/hero-image.fill.size_1200x675.jpg)](https://digitpatrox.com/wordle-answer-for-today-september-18-2024/)
+* [![](https://beebom.com/wp-content/uploads/2024/09/Pixel-9-Pro-XL-vs-Samsung-Galaxy-Z-Fold-6-Design.jpg?w=1250&quality=75)](https://digitpatrox.com/pixel-9-pro-fold-vs-galaxy-z-fold-6-a-foldable-showdown/)
     
-    [Wordle Answer for Today, September 18, 2024](https://digitpatrox.com/wordle-answer-for-today-september-18-2024/)
+    [Pixel 9 Pro Fold vs Galaxy Z Fold 6: A Foldable Showdown](https://digitpatrox.com/pixel-9-pro-fold-vs-galaxy-z-fold-6-a-foldable-showdown/)
     
-    37 mins ago
+    39 mins ago
     
-* [![](https://article.images.consumerreports.org/image/upload/t_article_tout/v1711467069/prod/content/dam/CRO-Images-2024/Appliances/CR-Appliances-Inlinehero-best-fridge-brands-0324)](https://digitpatrox.com/best-refrigerator-brands-consumer-reports/)
+* [![](https://cdn.mos.cms.futurecdn.net/LuaeP2PNFuBCyx3bXyJkuT-1200-80.jpg)](https://digitpatrox.com/how-do-you-value-your-expertise-when-selling-to-experts/)
     
-    [Best Refrigerator Brands – Consumer Reports](https://digitpatrox.com/best-refrigerator-brands-consumer-reports/)
-    
-    1 hour ago
-    
-* [![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/11/apple-watch-ultra-alpine-loop-1.jpg)](https://digitpatrox.com/the-best-apple-watches-of-2024/)
-    
-    [The Best Apple Watches of 2024](https://digitpatrox.com/the-best-apple-watches-of-2024/)
-    
-    1 hour ago
-    
-* [![](https://cdn.mos.cms.futurecdn.net/aWUZX3ZU2xEvVh83QL2EnS-1200-80.jpg)](https://digitpatrox.com/amazon-demands-staff-return-to-the-office-five-days-per-week-even-as-employees-argue-against-current-rto-measures/)
-    
-    [Amazon demands staff return to the office five days per week – even as employees argue against current RTO measures](https://digitpatrox.com/amazon-demands-staff-return-to-the-office-five-days-per-week-even-as-employees-argue-against-current-rto-measures/)
+    [How do you value your expertise when selling to experts?](https://digitpatrox.com/how-do-you-value-your-expertise-when-selling-to-experts/)
     
     2 hours ago
+    
+* [![](https://www.computerworld.com/wp-content/uploads/2024/09/3526335-0-05118800-1726653914-google-android-tablets.jpg?quality=50&strip=all&w=1024)](https://digitpatrox.com/the-anti-ipad-ification-of-googles-android-tablets-computerworld/)
+    
+    [The anti-iPad-ification of Google’s Android tablets – Computerworld](https://digitpatrox.com/the-anti-ipad-ification-of-googles-android-tablets-computerworld/)
+    
+    2 hours ago
+    
+* [![](https://lifehacker.com/imagery/articles/01HF2GKSXD57ASA1A4S0MY8TV7/hero-image.fill.size_1200x675.jpg)](https://digitpatrox.com/how-deep-should-you-squat/)
+    
+    [How Deep Should You Squat?](https://digitpatrox.com/how-deep-should-you-squat/)
+    
+    3 hours ago
     
 
 ![](https://digitpatrox.com/wp-content/uploads/2023/12/Digitpatrox-NEW-Logo-White.png)
@@ -208,45 +208,45 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [12 mins ago
+* [38 mins ago
     
-    ### Sam Altman exits OpenAI commission for AI safety to create ‘independent’ oversight – Computerworld](https://digitpatrox.com/sam-altman-exits-openai-commission-for-ai-safety-to-create-independent-oversight-computerworld/)
-* [37 mins ago
+    ### Reviewing the iPhone 16, Apple Watch 10, and AirPods 4](https://digitpatrox.com/reviewing-the-iphone-16-apple-watch-10-and-airpods-4/)
+* [39 mins ago
     
-    ### Wordle Answer for Today, September 18, 2024](https://digitpatrox.com/wordle-answer-for-today-september-18-2024/)
-* [1 hour ago
+    ### Pixel 9 Pro Fold vs Galaxy Z Fold 6: A Foldable Showdown](https://digitpatrox.com/pixel-9-pro-fold-vs-galaxy-z-fold-6-a-foldable-showdown/)
+* [2 hours ago
     
-    ### Best Refrigerator Brands – Consumer Reports](https://digitpatrox.com/best-refrigerator-brands-consumer-reports/)
+    ### How do you value your expertise when selling to experts?](https://digitpatrox.com/how-do-you-value-your-expertise-when-selling-to-experts/)
 
 Most Popular Topics
 
+* [23 hours ago
+    
+    ### How to upgrade to Windows 10 from Windows 8.1](https://digitpatrox.com/how-to-upgrade-to-windows-10-from-windows-8-1/)
 * [2 weeks ago
     
-    ### Why I Wish I Started Using OneDrive Sooner](https://digitpatrox.com/why-i-wish-i-started-using-onedrive-sooner/)
-* [2 weeks ago
+    ### Thousands of E-books Are Free Tomorrow for ‘Stuff Your Kindle Day’](https://digitpatrox.com/thousands-of-e-books-are-free-tomorrow-for-stuff-your-kindle-day/)
+* [1 day ago
     
-    ### A cyber criminal group behind an MFA bypass operation promised hackers “profit within minutes” – they’re now facing lengthy jail sentences](https://digitpatrox.com/a-cyber-criminal-group-behind-an-mfa-bypass-operation-promised-hackers-profit-within-minutes-theyre-now-facing-lengthy-jail-sentences/)
-* [2 weeks ago
-    
-    ### Hulu confirms its best show is returning for another season — and now is the perfect time to binge-watch](https://digitpatrox.com/hulu-confirms-its-best-show-is-returning-for-another-season-and-now-is-the-perfect-time-to-binge-watch/)
+    ### AC Milan vs Liverpool live streams: watch Champions League](https://digitpatrox.com/ac-milan-vs-liverpool-live-streams-watch-champions-league/)
 
 Last Modified Topics
 
-* [2 hours ago
-    
-    ### Coventry City vs Tottenham: how to live stream Carabao Cup](https://digitpatrox.com/coventry-city-vs-tottenham-how-to-live-stream-carabao-cup/)
 * [3 hours ago
     
-    ### Mickey 17’s first trailer is light in tone, heavy on dead Robert Pattinsons](https://digitpatrox.com/mickey-17s-first-trailer-is-light-in-tone-heavy-on-dead-robert-pattinsons/)
-* [3 hours ago
+    ### ANC Performance that Perfectly Matches the Price](https://digitpatrox.com/anc-performance-that-perfectly-matches-the-price/)
+* [4 hours ago
     
-    ### Today’s Wordle Answer and Hints (September 18, 2024)](https://digitpatrox.com/todays-wordle-answer-and-hints-september-18-2024/)
+    ### Do Emissions Credits Skew Sustainability Reporting?](https://digitpatrox.com/do-emissions-credits-skew-sustainability-reporting/)
+* [5 hours ago
+    
+    ### ‘Cobra Kai’ co-creator reveals why this ‘Karate Kid’ actor never appeared on the Netflix show](https://digitpatrox.com/cobra-kai-co-creator-reveals-why-this-karate-kid-actor-never-appeared-on-the-netflix-show/)
 
 Most Viewed Topics
 
-* [3 weeks ago
+* [August 13, 2024
     
-    ### Getting Your iPhone Repaired Could Ban You From Snapchat](https://digitpatrox.com/getting-your-iphone-repaired-could-ban-you-from-snapchat/)
+    ### TikTok Is Pushing Old and False News as ”Breaking” Alerts](https://digitpatrox.com/tiktok-is-pushing-old-and-false-news-as-breaking-alerts/)
 * [August 13, 2024
     
     ### How to manage a road trip move](https://digitpatrox.com/how-to-manage-a-road-trip-move/)
