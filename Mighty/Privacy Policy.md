@@ -34,6 +34,24 @@
     
 * [Memes](https://www.mightyapp.com/design/c/memes?notour)
     
+* [Floral Background](https://www.mightyapp.com/templates/s/floral-background)
+    
+* [New Year](https://www.mightyapp.com/templates/s/new-year)
+    
+* [Happy Holi](https://www.mightyapp.com/templates/s/happy-holi)
+    
+* [Football](https://www.mightyapp.com/templates/s/football)
+    
+* [Painting](https://www.mightyapp.com/templates/s/painting)
+    
+* [Valentines Day](https://www.mightyapp.com/templates/s/valentines-day)
+    
+* [Travel](https://www.mightyapp.com/templates/s/travel)
+    
+* [Save the Date](https://www.mightyapp.com/templates/s/save-the-date)
+    
+* [Aesthetic Background](https://www.mightyapp.com/templates/s/aesthetic-background)
+    
 
 ##### Product
 
