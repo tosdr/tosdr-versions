@@ -36,12 +36,6 @@ Privacy Policy
     ![](https://karkhane.org/app/uploads/2024/09/4-95x65.jpeg)](https://karkhane.org/5825/living_encounters_in_capitalist_society/)[تجربه‌های زیسته در جامعه‌ی سرمایه‌داری](https://karkhane.org/5825/living_encounters_in_capitalist_society/)
 * [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
-    ![](https://karkhane.org/app/uploads/2024/09/workers-painting-29-3094829999-95x65.jpg)](https://karkhane.org/5844/cosmetic_factory_98/)[تجربه‌ی کارگری در کارخانه‌ی لوازم آرایشی و اعتراضات گرانی بنزین آبان ۹۸](https://karkhane.org/5844/cosmetic_factory_98/)
-* [![نفت، مبارزه‌ی کارگران و کودتا](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    ![نفت، مبارزه‌ی کارگران و کودتا](https://karkhane.org/app/uploads/2023/08/naft-mobarezeye-kargaran-o-kudeta-28-mordad-95x65.jpg)](https://karkhane.org/5135/oil-labors-struggle-and-coup/)[نفت، مبارزه‌ی کارگران و کودتا](https://karkhane.org/5135/oil-labors-struggle-and-coup/)
-* [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
     ![](https://karkhane.org/app/uploads/2024/07/6-95x65.jpg)](https://karkhane.org/5682/capitalist-psychotherapy/)[روانشناسی صنعتی‌ـ‌سازمانی: ابزاری برای به‌هنجارسازی نیروی کار و افزایش استثمار](https://karkhane.org/5682/capitalist-psychotherapy/)
 * [![کارگران افغانستانی، رقیب یا هم‌سرنوشت؟](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
@@ -49,12 +43,18 @@ Privacy Policy
 * [![نمایش‌نامه «رقابت برای نشستن سرِ سفره‌ی خالی»](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     ![نمایش‌نامه «رقابت برای نشستن سرِ سفره‌ی خالی»](https://karkhane.org/app/uploads/2021/01/reqabat-baraye-nesastan-sar-e-sofreye-xali-95x65.jpg)](https://karkhane.org/2461/%d9%86%d9%85%d8%a7%db%8c%d8%b4%d9%86%d8%a7%d9%85%d9%87-%d8%b1%d9%82%d8%a7%d8%a8%d8%aa-%d8%a8%d8%b1%d8%a7%db%8c-%d9%86%d8%b4%d8%b3%d8%aa%d9%86-%d8%b3%d8%b1-%d8%b3%d9%81%d8%b1%d9%87-%d8%ae/)[نمایش‌نامه «رقابت برای نشستن سرِ سفره‌ی خالی»](https://karkhane.org/2461/%d9%86%d9%85%d8%a7%db%8c%d8%b4%d9%86%d8%a7%d9%85%d9%87-%d8%b1%d9%82%d8%a7%d8%a8%d8%aa-%d8%a8%d8%b1%d8%a7%db%8c-%d9%86%d8%b4%d8%b3%d8%aa%d9%86-%d8%b3%d8%b1-%d8%b3%d9%81%d8%b1%d9%87-%d8%ae/)
-* [![به زبان ساده؛‌ «اتحاد» چیست؟ اتحاد طبقاتی یا اتحاد سراسری؟](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+* [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
-    ![به زبان ساده؛‌ «اتحاد» چیست؟ اتحاد طبقاتی یا اتحاد سراسری؟](https://karkhane.org/app/uploads/2021/11/be-zaban-e-saade-ettehad-chist-95x65.jpg)](https://karkhane.org/3222/%d8%a7%d8%aa%d8%ad%d8%a7%d8%af-%da%86%db%8c%d8%b3%d8%aa%d8%9f/)[«اتحاد» چیست؟ کارگران پاسخ می‌دهند](https://karkhane.org/3222/%d8%a7%d8%aa%d8%ad%d8%a7%d8%af-%da%86%db%8c%d8%b3%d8%aa%d8%9f/)
-* [![مبارزه بوکس مایک تایسون و هالیفیلد](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    ![](https://karkhane.org/app/uploads/2024/09/workers-painting-29-3094829999-95x65.jpg)](https://karkhane.org/5844/cosmetic_factory_98/)[تجربه‌ی کارگری در کارخانه‌ی لوازم آرایشی و اعتراضات گرانی بنزین آبان ۹۸](https://karkhane.org/5844/cosmetic_factory_98/)
+* [![فیلم کودک و استثمار](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
-    ![مبارزه بوکس مایک تایسون و هالیفیلد](https://karkhane.org/app/uploads/2020/06/jang-e-glādiyātorhā-bā-pušeš-e-varzeš-e-herfei-95x65.jpg)](https://karkhane.org/1931/%d8%ac%d9%86%da%af-%da%af%d9%84%d8%a7%d8%af%db%8c%d8%a7%d8%aa%d9%88%d8%b1%d9%87%d8%a7-%d8%a8%d8%a7-%d9%be%d9%88%d8%b4%d8%b4-%d9%88%d8%b1%d8%b2%d8%b4-%d8%ad%d8%b1%d9%81%d9%87%d8%a7%db%8c/)[جنگ گلادیاتورها با پوشش ورزش حرفه‌ای](https://karkhane.org/1931/%d8%ac%d9%86%da%af-%da%af%d9%84%d8%a7%d8%af%db%8c%d8%a7%d8%aa%d9%88%d8%b1%d9%87%d8%a7-%d8%a8%d8%a7-%d9%be%d9%88%d8%b4%d8%b4-%d9%88%d8%b1%d8%b2%d8%b4-%d8%ad%d8%b1%d9%81%d9%87%d8%a7%db%8c/)
+    ![فیلم کودک و استثمار](https://karkhane.org/app/uploads/2020/06/kudak-o-estesmār-featured-95x65.jpg)](https://karkhane.org/1981/%da%a9%d9%88%d8%af%da%a9%d8%a7%d9%86-%da%a9%d8%a7%d8%b1%da%af%d8%b1-%db%8c%d8%a7%d8%af%d8%af%d8%a7%d8%b4%d8%aa%db%8c-%d8%a8%d8%b1-%d9%81%db%8c%d9%84%d9%85-%da%a9%d9%88%d8%af%da%a9-%d9%88-%d8%a7/)[کودکان کارگر: یادداشتی بر فیلم «کودک و استثمار»](https://karkhane.org/1981/%da%a9%d9%88%d8%af%da%a9%d8%a7%d9%86-%da%a9%d8%a7%d8%b1%da%af%d8%b1-%db%8c%d8%a7%d8%af%d8%af%d8%a7%d8%b4%d8%aa%db%8c-%d8%a8%d8%b1-%d9%81%db%8c%d9%84%d9%85-%da%a9%d9%88%d8%af%da%a9-%d9%88-%d8%a7/)
+* [![گزارشی از وضعیت کارگران در کارخانه‌ی شیر و لبنیات در حومه‌ی اصفهان](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    ![گزارشی از وضعیت کارگران در کارخانه‌ی شیر و لبنیات در حومه‌ی اصفهان](https://karkhane.org/app/uploads/2021/05/gozares-vaziyat-kargaran-labaniyat-hume-e-esfahan-95x65.jpg)](https://karkhane.org/2711/%da%af%d8%b2%d8%a7%d8%b1%d8%b4%db%8c-%d8%a7%d8%b2-%d9%88%d8%b6%d8%b9%db%8c%d8%aa-%da%a9%d8%a7%d8%b1%da%af%d8%b1%d8%a7%d9%86-%d8%af%d8%b1-%da%a9%d8%a7%d8%b1%d8%ae%d8%a7%d9%86%d9%87%db%8c/)[گزارشی از وضعیت کارگران در کارخانه‌ی شیر و لبنیات در حومه‌ی اصفهان](https://karkhane.org/2711/%da%af%d8%b2%d8%a7%d8%b1%d8%b4%db%8c-%d8%a7%d8%b2-%d9%88%d8%b6%d8%b9%db%8c%d8%aa-%da%a9%d8%a7%d8%b1%da%af%d8%b1%d8%a7%d9%86-%d8%af%d8%b1-%da%a9%d8%a7%d8%b1%d8%ae%d8%a7%d9%86%d9%87%db%8c/)
+* [![اعتراضات کشاورزان هندی چه چیزی درباره‌ی صنعت کشاورزی در آمریکا و جهان به ما می‌آموزد؟](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    ![اعتراضات کشاورزان هندی چه چیزی درباره‌ی صنعت کشاورزی در آمریکا و جهان به ما می‌آموزد؟](https://karkhane.org/app/uploads/2021/12/eterazat-e-keshavarzan-e-hend-che-chiz-miamuzad-95x65.jpg)](https://karkhane.org/3292/%d8%a2%d9%85%d9%88%d8%b2%d9%87%d9%87%d8%a7%db%8c-%d8%a7%d8%b9%d8%aa%d8%b1%d8%a7%d8%b6%d8%a7%d8%aa-%da%a9%d8%b4%d8%a7%d9%88%d8%b1%d8%b2%d8%a7%d9%86-%d9%87%d9%86%d8%af%db%8c/)[اعتراضات کشاورزان هندی چه چیزی درباره‌ی صنعت کشاورزی در آمریکا و جهان به ما می‌آموزد؟](https://karkhane.org/3292/%d8%a2%d9%85%d9%88%d8%b2%d9%87%d9%87%d8%a7%db%8c-%d8%a7%d8%b9%d8%aa%d8%b1%d8%a7%d8%b6%d8%a7%d8%aa-%da%a9%d8%b4%d8%a7%d9%88%d8%b1%d8%b2%d8%a7%d9%86-%d9%87%d9%86%d8%af%db%8c/)
 
 * [Facebook](https://www.facebook.com/--107914377686249)
 * [YouTube](https://www.youtube.com/channel/UCnz481dcaM1p7c3oDR5Ot9A)
