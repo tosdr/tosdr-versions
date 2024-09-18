@@ -34,14 +34,16 @@ The store will not work correctly in the case when cookies are disabled.
     * [Premium 2](https://www.womanizer.com/eu/premium-2)
     * [NEW
         
+        24 Days of Pleasure](https://www.womanizer.com/eu/couples-advent-calendar)
+    * [NEW
+        
         Blend](https://www.womanizer.com/eu/blend)
     * [DUO 2](https://www.womanizer.com/eu/duo2)
-    * [Classic 2 Marilyn Monroe™ Edition](https://www.womanizer.com/eu/marilyn-monroe-special-edition)
+    * [Liberty 2](https://www.womanizer.com/eu/liberty-2)
     * [OG](https://www.womanizer.com/eu/womanizer-og)
     * [PREMIUM eco](https://www.womanizer.com/eu/eco)
-    * [Wave](https://www.womanizer.com/eu/wave-womanizer)
-    * [Liberty 2](https://www.womanizer.com/eu/liberty-2)
-    * [CLASSIC 2](https://www.womanizer.com/eu/classic-2)
+    * [Classic 2 Marilyn Monroe™ Edition](https://www.womanizer.com/eu/marilyn-monroe-special-edition)
+    * [Golden Moments Collection 2](https://www.womanizer.com/eu/golden-moments-collection-2)
     * [All Bestsellers](https://www.womanizer.com/eu/bestseller)
     
     [All Bestsellers](https://www.womanizer.com/eu/bestseller)
