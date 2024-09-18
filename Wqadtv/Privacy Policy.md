@@ -30,14 +30,13 @@ Navigation
     
     Latest News Stories
     
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/eaa90dd7-a08e-40df-ae90-95298f0fcb63/eaa90dd7-a08e-40df-ae90-95298f0fcb63_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/eaa90dd7-a08e-40df-ae90-95298f0fcb63/eaa90dd7-a08e-40df-ae90-95298f0fcb63_360x203.jpg)](https://www.wqad.com/article/news/local/fugitive-apprehended-monroe-county-victor-farris/526-8ea4527d-6597-4857-970e-04dccc38433a)
+        
+        #### [Fugitive arrested in Monroe County after nearly two weeks on the run](https://www.wqad.com/article/news/local/fugitive-apprehended-monroe-county-victor-farris/526-8ea4527d-6597-4857-970e-04dccc38433a)
+        
     *  [![](https://media.tegna-media.com/assets/WQAD/images/b2d10790-e927-434c-8d77-c8a05f93a334/20240918T023507/b2d10790-e927-434c-8d77-c8a05f93a334_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/b2d10790-e927-434c-8d77-c8a05f93a334/20240918T023507/b2d10790-e927-434c-8d77-c8a05f93a334_360x203.jpg)](https://www.wqad.com/article/news/local/davenport-restores-general-public-comment-committee-of-the-whole-meetings/526-022994ea-6413-40a1-9bb9-3530d5054647)
         
-        #### [Davenport restores general public comment to Committee of the Whole meetings](https://www.wqad.com/article/news/local/davenport-restores-general-public-comment-committee-of-the-whole-meetings/526-022994ea-6413-40a1-9bb9-3530d5054647) [![](https://media.tegna-media.com/assets/WQAD/images/b2d10790-e927-434c-8d77-c8a05f93a334/20240918T023507/b2d10790-e927-434c-8d77-c8a05f93a334_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/b2d10790-e927-434c-8d77-c8a05f93a334/20240918T023507/b2d10790-e927-434c-8d77-c8a05f93a334_360x203.jpg)](https://www.wqad.com/article/news/local/davenport-restores-general-public-comment-committee-of-the-whole-meetings/526-022994ea-6413-40a1-9bb9-3530d5054647)
-        
         #### [Public comment is back at Davenport's Committee of the Whole meetings](https://www.wqad.com/article/news/local/davenport-restores-general-public-comment-committee-of-the-whole-meetings/526-022994ea-6413-40a1-9bb9-3530d5054647)
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/dd98c787-8e04-4815-a200-b3869de4db0a/20240831T021218/dd98c787-8e04-4815-a200-b3869de4db0a_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/dd98c787-8e04-4815-a200-b3869de4db0a/20240831T021218/dd98c787-8e04-4815-a200-b3869de4db0a_360x203.jpg)](https://www.wqad.com/article/news/local/motorcyclist-killed-scott-county-donahue-crash/526-2a7c45e1-0565-4645-9037-f18cadc3632f)
-        
-        #### [Motorcyclist killed in Scott County crash](https://www.wqad.com/article/news/local/motorcyclist-killed-scott-county-donahue-crash/526-2a7c45e1-0565-4645-9037-f18cadc3632f)
         
     
 * [Weather](https://www.wqad.com/weather)
@@ -87,7 +86,7 @@ Navigation
 
 Davenport, IA »
 
-62°
+56°
 
 ![Clear](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
 
