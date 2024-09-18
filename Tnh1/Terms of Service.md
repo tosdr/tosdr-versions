@@ -18,95 +18,15 @@
 
 [Leia tudo sobre Maceió](https://www.tnh1.com.br/noticias/editoria/maceio/ "Ir para Maceió")
 
-   [![Caso Ana Beatriz: familiares protestam na porta de delegacia e pedem justiça ](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/0/e/csm_familiares-ana-beatriz-protesto-foto-Monica-Ermirio_481ab37e3d.jpeg)
+   [![Saiba mais sobre cada um dos cinco finalistas](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/2/1/csm_CAPA_FINALISTAS_ae592f36b1.jpg)
 
 Maceió
 
-Caso Ana Beatriz: familiares protestam na porta de delegacia e pedem justiça](https://www.tnh1.com.br/noticia/nid/caso-ana-beatriz-familiares-protestam-na-porta-de-delegacia-e-pedem-justica/ "Caso Ana Beatriz: familiares protestam na porta de delegacia e pedem justiça ")   [![Hospital da Cidade já realizou mais de 90 mil procedimentos](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/2/9/csm_Hospital_da_Cidade_ja_realizou_mais_de_90_mil_procedimentos2_ba2f10df6e.jpeg)
-
-Maceió
-
-Hospital da Cidade já realizou mais de 90 mil procedimentos](https://www.tnh1.com.br/noticia/nid/hospital-da-cidade-ja-realizou-mais-de-90-mil-procedimentos/ "Hospital da Cidade já realizou mais de 90 mil procedimentos")   [![Suspeito de matar Ana Beatriz é filho de PM e teria usado arma do pai no crime](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/6/a/csm_operacao_prisao_suspeito_ana_beatriz_foto_reproducao_pc_85ba65fe21.jpeg)
-
-investigações
-
-Suspeito de matar Ana Beatriz é filho de PM e teria usado arma do pai no crime](https://www.tnh1.com.br/noticia/nid/suspeito-de-matar-ana-beatriz-e-filho-de-pm-e-teria-usado-arma-do-pai-no-crime/ "Suspeito de matar Ana Beatriz é filho de PM e teria usado arma do pai no crime")   [![Homem sofre descarga elétrica em cima de andaime no Jaraguá](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/7/4/csm_vitima-choque-eletrico-jaragua_f9729e1a8d.jpg)
-
-Foi socorrido
-
-Homem sofre descarga elétrica em cima de andaime no Jaraguá](https://www.tnh1.com.br/noticia/nid/homem-sofre-descarga-eletrica-em-cima-de-andaime-no-jaragua/ "Homem sofre descarga elétrica em cima de andaime no Jaraguá")   [![Viagem no tempo: vídeo produzido por designer com uso de IA mostra como era Maceió no passado](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/0/8/csm_IA_Maceio_no_passado_-_foto_reproducao_video_9a6c3364eb.png)
-
-Assista
-
-Viagem no tempo: vídeo produzido por designer com uso de IA mostra como era Maceió no passado](https://www.tnh1.com.br/noticia/nid/viagem-no-tempo-video-produzido-por-designer-com-uso-de-ia-mostra-como-era-maceio-no-passado/ "Viagem no tempo: vídeo produzido por designer com uso de IA mostra como era Maceió no passado")   [![UNINASSAU Maceió promove Mostra Campus para 2.500 estudantes](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/0/a/csm_uninassau-mostra-campus-2023_be6cbeb4d3.jpg)
-
-Dias 18 e 19
-
-UNINASSAU Maceió promove Mostra Campus para 2.500 estudantes](https://www.tnh1.com.br/noticia/nid/uninassau-maceio-promove-mostra-campus-para-2500-estudantes/ "UNINASSAU Maceió promove Mostra Campus para 2.500 estudantes")
+Saiba mais sobre cada um dos cinco finalistas](https://www.tnh1.com.br/conteudo/noticia/nid/saiba-mais-sobre-cada-um-dos-cinco-finalistas/ "Saiba mais sobre cada um dos cinco finalistas")
 
 [Alagoas](https://www.tnh1.com.br/noticias/editoria/alagoas/ "Alagoas")
 
-Últimas de Alagoas
-
-[Leia tudo sobre Alagoas](https://www.tnh1.com.br/noticias/editoria/alagoas/ "Ir para Alagoas")
-
-   [![Governo do Estado diploma três novos patrimônios vivos de Alagoas](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/c/1/csm_governo-do-estado-diploma-tres-novos-patrimonios-vivos-de-alagoas_e5e42bd909.jpeg)
-
-Cultura
-
-Governo do Estado diploma três novos patrimônios vivos de Alagoas](https://www.tnh1.com.br/noticia/nid/governo-do-estado-diploma-tres-novos-patrimonios-vivos-de-alagoas/ "Governo do Estado diploma três novos patrimônios vivos de Alagoas")   [![Polícia Militar prende suspeitos e apreende armas e drogas em Piranhas e Arapiraca](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/7/0/csm_guarnicoes-da-pm-predem-suspeitos-com-armas-de-fogo-em-piranhas-e-arapiraca_544446e4f8.jpg)
-
-Alagoas
-
-Polícia Militar prende suspeitos e apreende armas e drogas em Piranhas e Arapiraca](https://www.tnh1.com.br/noticia/nid/policia-militar-prende-suspeitos-e-apreende-armas-e-drogas-em-piranhas-e-arapiraca/ "Polícia Militar prende suspeitos e apreende armas e drogas em Piranhas e Arapiraca")   [![Cases alagoanos são classificados para premiação nacional](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/6/0/csm_PREMIO_SER_HUMANO_482782c8d0.png)
-
-Alagoas
-
-Cases alagoanos são classificados para premiação nacional](https://www.tnh1.com.br/noticia/nid/cases-alagoanos-sao-classificados-para-premiacao-nacional/ "Cases alagoanos são classificados para premiação nacional")   [![HGE procura por familiares de paciente que deu entrada na última sexta-feira (13)](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/c/9/csm_hge-procura-por-familiares-de-paciente-que-foi-admitido-na-unidade-na-sexta-feira_b302874ecd.jpg)
-
-vítima de acidente
-
-HGE procura por familiares de paciente que deu entrada na última sexta-feira (13)](https://www.tnh1.com.br/noticia/nid/hge-procura-por-familiares-de-paciente-que-deu-entrada-na-ultima-sexta-feira-13/ "HGE procura por familiares de paciente que deu entrada na última sexta-feira (13)")   [![Cinco casos de violência doméstica são registrados em Alagoas durante o feriado](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/b/9/csm_violencia_contra_a_mulher-agencia-brasil_b41768433d.jpg)
-
-Em 12 horas
-
-Cinco casos de violência doméstica são registrados em Alagoas durante o feriado](https://www.tnh1.com.br/noticia/nid/cinco-casos-de-violencia-domestica-sao-registrados-em-alagoas-durante-o-feriado/ "Cinco casos de violência doméstica são registrados em Alagoas durante o feriado")   [![Desfile estudantil celebra os 207 anos de Emancipação Política de Alagoas](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/a/2/csm_desfile-emancipacao-divulgacao_56c71a5e74.jpeg)
-
-Solenidade
-
-Desfile estudantil celebra os 207 anos de Emancipação Política de Alagoas](https://www.tnh1.com.br/noticia/nid/desfile-estudantil-celebra-os-207-anos-de-emancipacao-politica-de-alagoas/ "Desfile estudantil celebra os 207 anos de Emancipação Política de Alagoas")
-
 [Polícia](https://www.tnh1.com.br/noticias/editoria/policia/ "Polícia")
-
-Últimas de Polícia
-
-[Leia tudo sobre Polícia](https://www.tnh1.com.br/noticias/editoria/policia/ "Ir para Polícia")
-
-   [![Suspeito de matar Ana Beatriz já foi condenado por outro crime em 2023](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/c/6/csm_homem-suspeito-morte-adolescente-ana-beatriz-reproducao-pc-al_39645c7f62.png)
-
-Justiça
-
-Suspeito de matar Ana Beatriz já foi condenado por outro crime em 2023](https://www.tnh1.com.br/noticia/nid/suspeito-de-matar-ana-beatriz-ja-foi-condenado-por-outro-crime-em-2023/ "Suspeito de matar Ana Beatriz já foi condenado por outro crime em 2023")   [![Traficante alagoano é flagrado pela polícia ostentando em praia do Rio de Janeiro; veja fotos](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/e/3/csm_Still_Territorios_do_crime_d7bdc35c5f.png)
-
-vida de luxo
-
-Traficante alagoano é flagrado pela polícia ostentando em praia do Rio de Janeiro; veja fotos](https://www.tnh1.com.br/noticia/nid/traficante-alagoano-e-flagrado-pela-policia-ostentando-em-praia-do-rio-de-janeiro-veja-fotos/ "Traficante alagoano é flagrado pela polícia ostentando em praia do Rio de Janeiro; veja fotos")   [![Polícia Militar prende suspeitos e apreende armas e drogas em Piranhas e Arapiraca](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/7/0/csm_guarnicoes-da-pm-predem-suspeitos-com-armas-de-fogo-em-piranhas-e-arapiraca_544446e4f8.jpg)
-
-Alagoas
-
-Polícia Militar prende suspeitos e apreende armas e drogas em Piranhas e Arapiraca](https://www.tnh1.com.br/noticia/nid/policia-militar-prende-suspeitos-e-apreende-armas-e-drogas-em-piranhas-e-arapiraca/ "Polícia Militar prende suspeitos e apreende armas e drogas em Piranhas e Arapiraca")   [!['Serial killer': polícia investiga se suspeito de matar adolescente é assassino em série](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/8/a/csm_prisao_de_suspeito_de_matar_ana_beatriz_reproducao_video_111d123fc7.png)
-
-Polícia
-
-'Serial killer': polícia investiga se suspeito de matar adolescente é assassino em série](https://www.tnh1.com.br/noticia/nid/serial-killer-policia-investiga-se-suspeito-de-matar-adolescente-e-assassino-em-serie/ "'Serial killer': polícia investiga se suspeito de matar adolescente é assassino em série")   [![Suspeito de matar Ana Beatriz é filho de PM e teria usado arma do pai no crime](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/6/a/csm_operacao_prisao_suspeito_ana_beatriz_foto_reproducao_pc_85ba65fe21.jpeg)
-
-investigações
-
-Suspeito de matar Ana Beatriz é filho de PM e teria usado arma do pai no crime](https://www.tnh1.com.br/noticia/nid/suspeito-de-matar-ana-beatriz-e-filho-de-pm-e-teria-usado-arma-do-pai-no-crime/ "Suspeito de matar Ana Beatriz é filho de PM e teria usado arma do pai no crime")   [![Polícia tenta localizar mulher que furtou apartamento enquanto homem dormia na Ponta Verde ](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/d/b/csm_Captura_de_tela_2024-09-17_104521_6b823375d0.png)
-
-novas imagens
-
-Polícia tenta localizar mulher que furtou apartamento enquanto homem dormia na Ponta Verde](https://www.tnh1.com.br/noticia/nid/policia-tenta-localizar-mulher-que-furtou-apartamento-enquanto-homem-dormia-na-ponta-verde/ "Polícia tenta localizar mulher que furtou apartamento enquanto homem dormia na Ponta Verde ") 
 
 [Blogs](https://www.tnh1.com.br/blogs/ "Blogs")
 
@@ -115,16 +35,6 @@ Polícia tenta localizar mulher que furtou apartamento enquanto homem dormia na 
 [TV](https://www.tnh1.com.br/videos/ "TV ")
 
 [Pessoas&Negócios](https://www.tnh1.com.br/a-lideranca-que-voce-escolheu/noticias/editoria/pessoas-negocios/ "Pessoas&Negócios")
-
-Últimas de Pessoas&Negócios
-
-[Leia tudo sobre Pessoas&Negócios](https://www.tnh1.com.br/a-lideranca-que-voce-escolheu/noticias/editoria/pessoas-negocios/ "Ir para Pessoas&Negócios")
-
-   [![Uninassau Maceió recebe selo "OAB Indica" por excelência no ensino de Direito](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/d/0/csm_UNINASSAU_SELO_OAB___2__f9527de421.jpg)
-
-Pessoas & Negócios
-
-Uninassau Maceió recebe selo "OAB Indica" por excelência no ensino de Direito](https://www.tnh1.com.br/noticia/nid/uninassau-maceio-recebe-selo-oab-indica-por-excelencia-no-ensino-de-direito/ "Uninassau Maceió recebe selo "OAB Indica" por excelência no ensino de Direito")
 
 [Pajuçara.com](https://pajucara.tnh1.com.br/ "Pajuçara.com")
 
@@ -198,23 +108,7 @@ O Portal TNH1 não entra em contato com os ganhadores de qualquer promoção atr
 * [ÚLTIMAS](#ultimas "Ultimas")
 * [VÍDEOS](#videos "Videos")
 
-[![Remédio para diabetes pode desacelerar envelhecimento, sugere estudo](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/c/c/csm_close-up-woman-s-hand-holding-blister-pack-with-medicines-wooden-desk__1__2b20d73d9e.jpg)
-
-Saúde
-
-Saúde
-
-Remédio para diabetes pode desacelerar envelhecimento, sugere estudo
-
-Remédio para diabetes pode desacelerar envelhecimento, sugere estudo](https://www.tnh1.com.br/noticia/nid/remedio-para-diabetes-pode-desacelerar-envelhecimento-sugere-estudo/ "Remédio para diabetes pode desacelerar envelhecimento, sugere estudo")[![Suspeito de matar Ana Beatriz é filho de PM e teria usado arma do pai no crime](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/6/a/csm_operacao_prisao_suspeito_ana_beatriz_foto_reproducao_pc_61fc324d2c.jpeg)
-
-investigações
-
-investigações
-
-Suspeito de matar Ana Beatriz é filho de PM e teria usado arma do pai no crime
-
-Suspeito de matar Ana Beatriz é filho de PM e teria usado arma do pai no crime](https://www.tnh1.com.br/noticia/nid/suspeito-de-matar-ana-beatriz-e-filho-de-pm-e-teria-usado-arma-do-pai-no-crime/ "Suspeito de matar Ana Beatriz é filho de PM e teria usado arma do pai no crime")[![Ator explica como lida com as reações das pessoas à sua doença rara no dia a dia](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/2/7/csm_ator-britanico-reproducao-redes-sociais_8bde67629f.jpg)
+[![Ator explica como lida com as reações das pessoas à sua doença rara no dia a dia](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/2/7/csm_ator-britanico-reproducao-redes-sociais_8bde67629f.jpg)
 
 39 anos
 
@@ -222,7 +116,23 @@ Suspeito de matar Ana Beatriz é filho de PM e teria usado arma do pai no crime]
 
 Ator explica como lida com as reações das pessoas à sua doença rara no dia a dia
 
-Ator explica como lida com as reações das pessoas à sua doença rara no dia a dia](https://www.tnh1.com.br/noticia/nid/ator-explica-como-lida-com-as-reacoes-das-pessoas-a-sua-doenca-rara-no-dia-a-dia/ "Ator explica como lida com as reações das pessoas à sua doença rara no dia a dia")[![Caso Ana Beatriz: suspeito de perseguir e matar adolescente de 13 anos é preso em Maceió](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/a/1/csm_Menina_de_13_anos_e_baleada_em_Maceio_-_foto_Reproducao_ec76ee516d.jpg)
+Ator explica como lida com as reações das pessoas à sua doença rara no dia a dia](https://www.tnh1.com.br/noticia/nid/ator-explica-como-lida-com-as-reacoes-das-pessoas-a-sua-doenca-rara-no-dia-a-dia/ "Ator explica como lida com as reações das pessoas à sua doença rara no dia a dia")[![Suspeito de matar Ana Beatriz é filho de PM e teria usado arma do pai no crime](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/6/a/csm_operacao_prisao_suspeito_ana_beatriz_foto_reproducao_pc_61fc324d2c.jpeg)
+
+investigações
+
+investigações
+
+Suspeito de matar Ana Beatriz é filho de PM e teria usado arma do pai no crime
+
+Suspeito de matar Ana Beatriz é filho de PM e teria usado arma do pai no crime](https://www.tnh1.com.br/noticia/nid/suspeito-de-matar-ana-beatriz-e-filho-de-pm-e-teria-usado-arma-do-pai-no-crime/ "Suspeito de matar Ana Beatriz é filho de PM e teria usado arma do pai no crime")[![Delegado é preso em Maceió suspeito de prejudicar investigação da morte de empresário](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/2/6/csm_WhatsApp_Image_2024-09-18_at_10.05.50_14914ca6ba.jpeg)
+
+caso kleber malaquias
+
+caso kleber malaquias
+
+Delegado é preso em Maceió suspeito de prejudicar investigação da morte de empresário
+
+Delegado é preso em Maceió suspeito de prejudicar investigação da morte de empresário](https://www.tnh1.com.br/noticia/nid/delegado-e-preso-em-maceio-suspeito-de-prejudicar-investigacao-da-morte-de-empresario/ "Delegado é preso em Maceió suspeito de prejudicar investigação da morte de empresário")[![Caso Ana Beatriz: suspeito de perseguir e matar adolescente de 13 anos é preso em Maceió](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/a/1/csm_Menina_de_13_anos_e_baleada_em_Maceio_-_foto_Reproducao_ec76ee516d.jpg)
 
 Na Ponta Grossa
 
@@ -232,39 +142,39 @@ Caso Ana Beatriz: suspeito de perseguir e matar adolescente de 13 anos é preso 
 
 Caso Ana Beatriz: suspeito de perseguir e matar adolescente de 13 anos é preso em Maceió](https://www.tnh1.com.br/noticia/nid/caso-ana-beatriz-suspeito-de-perseguir-e-matar-adolescente-de-13-anos-e-preso-em-maceio/ "Caso Ana Beatriz: suspeito de perseguir e matar adolescente de 13 anos é preso em Maceió")
 
-[![Ator explica como lida com as reações das pessoas à sua doença rara no dia a dia](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/2/7/csm_ator-britanico-reproducao-redes-sociais_8bde67629f.jpg)
+[![Força Nacional combaterá incêndios florestais em seis estados](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/7/1/csm_incendio_amazonia_dfeb0c2e5d.png)
 
-39 anos
+Brasil
 
-39 anos
+Brasil
 
-Ator explica como lida com as reações das pessoas à sua doença rara no dia a dia
+Força Nacional combaterá incêndios florestais em seis estados
 
-Ator explica como lida com as reações das pessoas à sua doença rara no dia a dia](https://www.tnh1.com.br/noticia/nid/ator-explica-como-lida-com-as-reacoes-das-pessoas-a-sua-doenca-rara-no-dia-a-dia/ "Ator explica como lida com as reações das pessoas à sua doença rara no dia a dia")[![Contas de Adolescente: Instagram vai mudar configurações para menores de 16 anos](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/e/c/csm_instagram-reproducao-pexels-pixabay_9b9b5c1b3b.png)
+Força Nacional combaterá incêndios florestais em seis estados](https://www.tnh1.com.br/noticia/nid/forca-nacional-combatera-incendios-florestais-em-seis-estados/ "Força Nacional combaterá incêndios florestais em seis estados")[![Número de mortos por ataque de pager sobe para 12, diz ministro da saúde libanês](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/5/d/csm_pager_que_explodiu_reproducao_redes_sociais_1db23f0687.jpg)
 
-redes sociais
+criança no meio
 
-redes sociais
+criança no meio
 
-Contas de Adolescente: Instagram vai mudar configurações para menores de 16 anos
+Número de mortos por ataque de pager sobe para 12, diz ministro da saúde libanês
 
-Contas de Adolescente: Instagram vai mudar configurações para menores de 16 anos](https://www.tnh1.com.br/noticia/nid/contas-de-adolescente-instagram-vai-mudar-configuracoes-para-menores-de-16-anos/ "Contas de Adolescente: Instagram vai mudar configurações para menores de 16 anos")[![Caixa anuncia patrocínio milionário a Comitê Olímpico do Brasil; veja valor ](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/8/9/csm_basquete-COB-reproducao_683f7bc477.jpg)
+Número de mortos por ataque de pager sobe para 12, diz ministro da saúde libanês](https://www.tnh1.com.br/noticia/nid/numero-de-mortos-por-ataque-de-pager-sobe-para-12-diz-ministro-da-saude-libanes/ "Número de mortos por ataque de pager sobe para 12, diz ministro da saúde libanês")[![Por que anulação de partida é tão difícil no STJD e remete à 'Máfia do Apito'](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/e/0/csm_unrecognizable-referee-showing-yellow-card__1__e150c12dc1.jpg)
 
-ganhou reforço
+ENTENDA
 
-ganhou reforço
+ENTENDA
 
-Caixa anuncia patrocínio milionário a Comitê Olímpico do Brasil; veja valor
+Por que anulação de partida é tão difícil no STJD e remete à 'Máfia do Apito'
 
-Caixa anuncia patrocínio milionário a Comitê Olímpico do Brasil; veja valor](https://www.tnh1.com.br/noticia/nid/caixa-anuncia-patrocinio-milionario-a-comite-olimpico-do-brasil-veja-valor/ "Caixa anuncia patrocínio milionário a Comitê Olímpico do Brasil; veja valor ")[![Quem inventou o horário de verão, que pode voltar a ser adotado no Brasil?](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/1/9/csm_relogio-reproducao-pixabay_314bb349e6.jpg)
+Por que anulação de partida é tão difícil no STJD e remete à 'Máfia do Apito'](https://www.tnh1.com.br/noticia/nid/por-que-anulacao-de-partida-e-tao-dificil-no-stjd-e-remete-a-mafia-do-apito/ "Por que anulação de partida é tão difícil no STJD e remete à 'Máfia do Apito'")[![Ex-Botafogo e São Paulo curte aposentadoria e vira cantor de pagode em SP](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/a/6/csm_maicosuel-ex-botafogo-sao-paulo-e-atletico-mg-virou-vocalista-de-grupo-de-pagode-no-interior-de-sao-paulo_b24fed1e12.jpg)
 
-adiantou relógio
+aposentou em 2019
 
-adiantou relógio
+aposentou em 2019
 
-Quem inventou o horário de verão, que pode voltar a ser adotado no Brasil?
+Ex-Botafogo e São Paulo curte aposentadoria e vira cantor de pagode em SP
 
-Quem inventou o horário de verão, que pode voltar a ser adotado no Brasil?](https://www.tnh1.com.br/noticia/nid/quem-inventou-o-horario-de-verao-que-pode-voltar-a-ser-adotado-no-brasil/ "Quem inventou o horário de verão, que pode voltar a ser adotado no Brasil?")
+Ex-Botafogo e São Paulo curte aposentadoria e vira cantor de pagode em SP](https://www.tnh1.com.br/noticia/nid/ex-botafogo-e-sao-paulo-curte-aposentadoria-e-vira-cantor-de-pagode-em-sp/ "Ex-Botafogo e São Paulo curte aposentadoria e vira cantor de pagode em SP")
 
 [](https://www.tnh1.com.br/ "TNH1 logo")
 
