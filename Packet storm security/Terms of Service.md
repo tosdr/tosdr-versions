@@ -54,20 +54,52 @@ Top Authors In Last 30 Days
 ---------------------------
 
 * [Red Hat](https://packetstormsecurity.com/files/authors/4676) 223 files
-* [indoushka](https://packetstormsecurity.com/files/authors/7697) 169 files
+* [indoushka](https://packetstormsecurity.com/files/authors/7697) 170 files
 * [Jay Turla](https://packetstormsecurity.com/files/authors/9975) 150 files
-* [Ubuntu](https://packetstormsecurity.com/files/authors/3695) 76 files
+* [Ubuntu](https://packetstormsecurity.com/files/authors/3695) 79 files
 * [h00die](https://packetstormsecurity.com/files/authors/7166) 54 files
 * [juan vazquez](https://packetstormsecurity.com/files/authors/8993) 43 files
 * [sinn3r](https://packetstormsecurity.com/files/authors/7652) 41 files
 * [H D Moore](https://packetstormsecurity.com/files/authors/219) 31 files
 * [Karn Ganeshen](https://packetstormsecurity.com/files/authors/7832) 23 files
-* [Debian](https://packetstormsecurity.com/files/authors/2821) 22 files
+* [Pedro Ribeiro](https://packetstormsecurity.com/files/authors/9996) 22 files
 
 Recent News
 -----------
 
 [![News RSS Feed](https://packetstatic.com/img1514015884/bt_rss.gif)](https://rss.packetstormsecurity.com/news/)  
+
+[Apple Suddenly Drops NSO Group Spyware Lawsuit](https://packetstormsecurity.com/news/view/36353/Apple-Suddenly-Drops-NSO-Group-Spyware-Lawsuit.html)
+
+Posted [Sep 18, 2024](https://packetstormsecurity.com/news/date/2024-09-18/ "13:22:31 UTC")
+
+tags | [headline](https://packetstormsecurity.com/news/tags/headline), [privacy](https://packetstormsecurity.com/news/tags/privacy), [phone](https://packetstormsecurity.com/news/tags/phone), [flaw](https://packetstormsecurity.com/news/tags/flaw), [israel](https://packetstormsecurity.com/news/tags/israel), [spyware](https://packetstormsecurity.com/news/tags/spyware), [apple](https://packetstormsecurity.com/news/tags/apple)
+
+[Favorite](https://packetstormsecurity.com/news/favorite/36353/) | [View](https://www.securityweek.com/apple-suddenly-drops-nso-group-spyware-lawsuit/)
+
+[11 Dead, Thousands Injured In Explosive Supply Chain Attack On Hezbollah Pagers](https://packetstormsecurity.com/news/view/36352/11-Dead-Thousands-Injured-In-Explosive-Supply-Chain-Attack-On-Hezbollah-Pagers.html)
+
+Posted [Sep 18, 2024](https://packetstormsecurity.com/news/date/2024-09-18/ "13:22:29 UTC")
+
+tags | [headline](https://packetstormsecurity.com/news/tags/headline), [wireless](https://packetstormsecurity.com/news/tags/wireless), [cyberwar](https://packetstormsecurity.com/news/tags/cyberwar), [israel](https://packetstormsecurity.com/news/tags/israel), [terror](https://packetstormsecurity.com/news/tags/terror), [backdoor](https://packetstormsecurity.com/news/tags/backdoor)
+
+[Favorite](https://packetstormsecurity.com/news/favorite/36352/) | [View](https://arstechnica.com/security/2024/09/8-dead-2700-injured-after-simultaneous-pager-explosions-in-lebanon/)
+
+[Cops Across The World Arrest 51 In Orchestrated Takedown Of Ghost Crime Platform](https://packetstormsecurity.com/news/view/36348/Cops-Across-The-World-Arrest-51-In-Orchestrated-Takedown-Of-Ghost-Crime-Platform.html)
+
+Posted [Sep 18, 2024](https://packetstormsecurity.com/news/date/2024-09-18/ "13:22:14 UTC")
+
+tags | [headline](https://packetstormsecurity.com/news/tags/headline), [hacker](https://packetstormsecurity.com/news/tags/hacker), [government](https://packetstormsecurity.com/news/tags/government), [australia](https://packetstormsecurity.com/news/tags/australia), [cybercrime](https://packetstormsecurity.com/news/tags/cybercrime), [fraud](https://packetstormsecurity.com/news/tags/fraud)
+
+[Favorite](https://packetstormsecurity.com/news/favorite/36348/) | [View](https://www.theregister.com/2024/09/18/51_arrests_ghost_platform/)
+
+[Wait... Did Pagers Get Hacked To Blow People Up?](https://packetstormsecurity.com/news/view/36347/Wait...-Did-Pagers-Get-Hacked-To-Blow-People-Up.html)
+
+Posted [Sep 17, 2024](https://packetstormsecurity.com/news/date/2024-09-17/ "15:59:40 UTC")
+
+tags | [headline](https://packetstormsecurity.com/news/tags/headline), [cyberwar](https://packetstormsecurity.com/news/tags/cyberwar), [israel](https://packetstormsecurity.com/news/tags/israel), [terror](https://packetstormsecurity.com/news/tags/terror)
+
+[Favorite](https://packetstormsecurity.com/news/favorite/36347/) | [View](https://www.cnn.com/world/live-news/lebanon-pagers-attack-hezbollah/index.html)
 
 [Predator Spyware Kingpins Added To US Sanctions List](https://packetstormsecurity.com/news/view/36346/Predator-Spyware-Kingpins-Added-To-US-Sanctions-List.html)
 
@@ -76,6 +108,30 @@ Posted [Sep 17, 2024](https://packetstormsecurity.com/news/date/2024-09-17/ "14:
 tags | [headline](https://packetstormsecurity.com/news/tags/headline), [hacker](https://packetstormsecurity.com/news/tags/hacker), [government](https://packetstormsecurity.com/news/tags/government), [privacy](https://packetstormsecurity.com/news/tags/privacy), [spyware](https://packetstormsecurity.com/news/tags/spyware)
 
 [Favorite](https://packetstormsecurity.com/news/favorite/36346/) | [View](https://www.theregister.com/2024/09/17/predator_spyware_sanctions/)
+
+[D-Link Patches Critical Router Vulnerabilities](https://packetstormsecurity.com/news/view/36345/D-Link-Patches-Critical-Router-Vulnerabilities.html)
+
+Posted [Sep 17, 2024](https://packetstormsecurity.com/news/date/2024-09-17/ "14:53:53 UTC")
+
+tags | [headline](https://packetstormsecurity.com/news/tags/headline), [flaw](https://packetstormsecurity.com/news/tags/flaw), [patch](https://packetstormsecurity.com/news/tags/patch)
+
+[Favorite](https://packetstormsecurity.com/news/favorite/36345/) | [View](https://www.securityweek.com/d-link-patches-critical-router-vulnerabilities/)
+
+[France Uses Tough, Untested Cybercrime Law To Target Durov](https://packetstormsecurity.com/news/view/36344/France-Uses-Tough-Untested-Cybercrime-Law-To-Target-Durov.html)
+
+Posted [Sep 17, 2024](https://packetstormsecurity.com/news/date/2024-09-17/ "14:53:49 UTC")
+
+tags | [headline](https://packetstormsecurity.com/news/tags/headline), [government](https://packetstormsecurity.com/news/tags/government), [cybercrime](https://packetstormsecurity.com/news/tags/cybercrime), [france](https://packetstormsecurity.com/news/tags/france), [social](https://packetstormsecurity.com/news/tags/social)
+
+[Favorite](https://packetstormsecurity.com/news/favorite/36344/) | [View](https://www.reuters.com/world/europe/france-uses-tough-untested-cybercrime-law-target-telegrams-durov-2024-09-17/)
+
+[Malware Attack Targets US-Taiwan Defense Conference](https://packetstormsecurity.com/news/view/36343/Malware-Attack-Targets-US-Taiwan-Defense-Conference.html)
+
+Posted [Sep 17, 2024](https://packetstormsecurity.com/news/date/2024-09-17/ "14:53:45 UTC")
+
+tags | [headline](https://packetstormsecurity.com/news/tags/headline), [government](https://packetstormsecurity.com/news/tags/government), [malware](https://packetstormsecurity.com/news/tags/malware), [usa](https://packetstormsecurity.com/news/tags/usa), [china](https://packetstormsecurity.com/news/tags/china), [cyberwar](https://packetstormsecurity.com/news/tags/cyberwar), [taiwan](https://packetstormsecurity.com/news/tags/taiwan), [military](https://packetstormsecurity.com/news/tags/military)
+
+[Favorite](https://packetstormsecurity.com/news/favorite/36343/) | [View](https://www.scmagazine.com/news/malware-attack-targets-us-taiwan-defense-conference)
 
 [TikTok Is Getting Its Day In Court](https://packetstormsecurity.com/news/view/36342/TikTok-Is-Getting-Its-Day-In-Court.html)
 
@@ -92,62 +148,6 @@ Posted [Sep 16, 2024](https://packetstormsecurity.com/news/date/2024-09-16/ "13:
 tags | [headline](https://packetstormsecurity.com/news/tags/headline), [hacker](https://packetstormsecurity.com/news/tags/hacker), [privacy](https://packetstormsecurity.com/news/tags/privacy), [cybercrime](https://packetstormsecurity.com/news/tags/cybercrime), [data loss](https://packetstormsecurity.com/news/tags/data_loss), [cryptography](https://packetstormsecurity.com/news/tags/cryptography)
 
 [Favorite](https://packetstormsecurity.com/news/favorite/36341/) | [View](https://www.securityweek.com/ransomware-group-leaks-data-allegedly-stolen-from-kawasaki-motors/)
-
-[FBI, CISA Warn Of Fake Voter Data Hacking Claims](https://packetstormsecurity.com/news/view/36340/FBI-CISA-Warn-Of-Fake-Voter-Data-Hacking-Claims.html)
-
-Posted [Sep 16, 2024](https://packetstormsecurity.com/news/date/2024-09-16/ "13:57:30 UTC")
-
-tags | [headline](https://packetstormsecurity.com/news/tags/headline), [government](https://packetstormsecurity.com/news/tags/government), [usa](https://packetstormsecurity.com/news/tags/usa), [fraud](https://packetstormsecurity.com/news/tags/fraud)
-
-[Favorite](https://packetstormsecurity.com/news/favorite/36340/) | [View](https://www.securityweek.com/fbi-cisa-warn-of-fake-voter-data-hacking-claims/)
-
-[1.3 Million Android-Based TV Boxes Backdoored](https://packetstormsecurity.com/news/view/36339/1.3-Million-Android-Based-TV-Boxes-Backdoored.html)
-
-Posted [Sep 16, 2024](https://packetstormsecurity.com/news/date/2024-09-16/ "13:57:26 UTC")
-
-tags | [headline](https://packetstormsecurity.com/news/tags/headline), [hacker](https://packetstormsecurity.com/news/tags/hacker), [privacy](https://packetstormsecurity.com/news/tags/privacy), [malware](https://packetstormsecurity.com/news/tags/malware), [backdoor](https://packetstormsecurity.com/news/tags/backdoor)
-
-[Favorite](https://packetstormsecurity.com/news/favorite/36339/) | [View](https://arstechnica.com/security/2024/09/researchers-still-dont-know-how-1-3-million-android-streaming-boxes-were-backdoored/)
-
-[23andMe Settles Class Action Breach Lawsuit For $30 Million](https://packetstormsecurity.com/news/view/36338/23andMe-Settles-Class-Action-Breach-Lawsuit-For-30-Million.html)
-
-Posted [Sep 16, 2024](https://packetstormsecurity.com/news/date/2024-09-16/ "13:57:21 UTC")
-
-tags | [headline](https://packetstormsecurity.com/news/tags/headline), [hacker](https://packetstormsecurity.com/news/tags/hacker), [privacy](https://packetstormsecurity.com/news/tags/privacy), [data loss](https://packetstormsecurity.com/news/tags/data_loss)
-
-[Favorite](https://packetstormsecurity.com/news/favorite/36338/) | [View](https://www.theregister.com/2024/09/16/security_in_brief/)
-
-[Old WHOIS Domain Could Have Issued Fraudulent TLS/SSL Certs](https://packetstormsecurity.com/news/view/36337/Old-WHOIS-Domain-Could-Have-Issued-Fraudulent-TLS-SSL-Certs.html)
-
-Posted [Sep 13, 2024](https://packetstormsecurity.com/news/date/2024-09-13/ "15:32:28 UTC")
-
-tags | [headline](https://packetstormsecurity.com/news/tags/headline), [dns](https://packetstormsecurity.com/news/tags/dns), [cybercrime](https://packetstormsecurity.com/news/tags/cybercrime), [fraud](https://packetstormsecurity.com/news/tags/fraud), [cryptography](https://packetstormsecurity.com/news/tags/cryptography)
-
-[Favorite](https://packetstormsecurity.com/news/favorite/36337/) | [View](https://www.scmagazine.com/news/old-whois-domain-could-have-issued-countless-fraudulent-tls-ssl-certificates)
-
-[20 Gigs Of Data Supposedly Stolen From Capgemini](https://packetstormsecurity.com/news/view/36336/20-Gigs-Of-Data-Supposedly-Stolen-From-Capgemini.html)
-
-Posted [Sep 13, 2024](https://packetstormsecurity.com/news/date/2024-09-13/ "15:32:26 UTC")
-
-tags | [headline](https://packetstormsecurity.com/news/tags/headline), [hacker](https://packetstormsecurity.com/news/tags/hacker), [privacy](https://packetstormsecurity.com/news/tags/privacy), [data loss](https://packetstormsecurity.com/news/tags/data_loss)
-
-[Favorite](https://packetstormsecurity.com/news/favorite/36336/) | [View](https://www.theregister.com/2024/09/12/capgemini_breach_data_dump/)
-
-[New Hadooken Linux Malware Targets WebLogic Servers](https://packetstormsecurity.com/news/view/36335/New-Hadooken-Linux-Malware-Targets-WebLogic-Servers.html)
-
-Posted [Sep 13, 2024](https://packetstormsecurity.com/news/date/2024-09-13/ "15:32:21 UTC")
-
-tags | [headline](https://packetstormsecurity.com/news/tags/headline), [malware](https://packetstormsecurity.com/news/tags/malware), [linux](https://packetstormsecurity.com/news/tags/linux)
-
-[Favorite](https://packetstormsecurity.com/news/favorite/36335/) | [View](https://www.securityweek.com/new-hadooken-linux-malware-targets-weblogic-servers/)
-
-[Fortinet Admits Miscreant Got Hold Of Customer Data In The Cloud](https://packetstormsecurity.com/news/view/36334/Fortinet-Admits-Miscreant-Got-Hold-Of-Customer-Data-In-The-Cloud.html)
-
-Posted [Sep 13, 2024](https://packetstormsecurity.com/news/date/2024-09-13/ "15:32:08 UTC")
-
-tags | [headline](https://packetstormsecurity.com/news/tags/headline), [hacker](https://packetstormsecurity.com/news/tags/hacker), [privacy](https://packetstormsecurity.com/news/tags/privacy), [data loss](https://packetstormsecurity.com/news/tags/data_loss)
-
-[Favorite](https://packetstormsecurity.com/news/favorite/36334/) | [View](https://www.theregister.com/2024/09/13/fortinet_data_loss/)
 
 [View More News →](https://packetstormsecurity.com/news/)
 
@@ -193,4 +193,4 @@ Hosting By
 
 ![close](https://packetstatic.com/img1514015884/o_close.png)
 
-![](https://ssl.google-analytics.com/__utm.gif?utmwv=1.3&utmn=2676303691&utmcs=ISO-8859-1&utmsr=31337x31337&utmsc=32-bit&utmul=en-us&utmje=0&utmfl=-&utmcn=1&utmdt=Terms%20of%20Service%u2248%20Packet%20Storm&utmhn=packetstormsecurity.com&utmr=-&utmp=%2Flegal%2Ftos.html&utmac=UA-18885198-1&utmcc=__utma%3D32867617.2676303691.1726671690.1726671690.1726671690.1%3B%2B__utmz%3D32867617.1726671690.1.1.utmccn%3D(direct)%7Cutmcsr%3D(direct)%7Cutmcmd%3D(none))
+![](https://ssl.google-analytics.com/__utm.gif?utmwv=1.3&utmn=2275765310&utmcs=ISO-8859-1&utmsr=31337x31337&utmsc=32-bit&utmul=en-us&utmje=0&utmfl=-&utmcn=1&utmdt=Terms%20of%20Service%u2248%20Packet%20Storm&utmhn=packetstormsecurity.com&utmr=-&utmp=%2Flegal%2Ftos.html&utmac=UA-18885198-1&utmcc=__utma%3D32867617.2275765310.1726692806.1726692806.1726692806.1%3B%2B__utmz%3D32867617.1726692806.1.1.utmccn%3D(direct)%7Cutmcsr%3D(direct)%7Cutmcmd%3D(none))
