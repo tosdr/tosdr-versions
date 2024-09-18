@@ -7,6 +7,8 @@
 PageCDN is now SimpleCDN
 ========================
 
+We're continuing our mission to speed up your web site, with an expanded network of edge locations and a new name.  
+  
 If you're looking for a high performance CDN, check out our [affordable CDN plans](https://pagecdn.com/pricing/) and get started right now.  
   
 You can also view our [high performance CDN network](https://pagecdn.com/network/), or learn more about CDNs in our [blog](https://pagecdn.com/blog/).
