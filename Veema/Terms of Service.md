@@ -314,6 +314,17 @@ N8 7RF
 
 ### Latest Tweets
 
+[September 17, 2024](https://twitter.com/veemaedu/status/1836027325227381120)
+
+[](https://twitter.com/veemaedu/status/1836027325227381120)
+
+[\*Final Countdown\* to register for an NPQ with Veema Education! Preferential rates are available for](https://twitter.com/veemaedu/status/1836027325227381120)[...](#) our CPD members and @FOBISIA1 member schools.  
+  
+LEARN MORE: https://veema.co.uk/teacher-cpd-programmes/#1624292734621-451aa4ff-0166  
+  
+#NPQs  
+#Neverstoplearning
+
 [August 18, 2024](https://twitter.com/costa_veemaedu/status/1825208908228514208)
 
 [](https://twitter.com/costa_veemaedu/status/1825208908228514208)
@@ -323,12 +334,6 @@ N8 7RF
 Hooray, we're back,@VeemaEdu.  
   
 https://veema.co.uk/forthcoming-events/
-
-[June 10, 2024](https://twitter.com/veemaedu/status/1800129444902039997)
-
-[](https://twitter.com/veemaedu/status/1800129444902039997)
-
-[Don't miss out on tomorrow's webinar! There's still time to register and learn something new. Sign](https://twitter.com/veemaedu/status/1800129444902039997) [...](#)up below 👇🏻.
 
 © Copyright 2022 by Veema Limited. Company Registration No. 07799937. All Rights Reserved.
 
