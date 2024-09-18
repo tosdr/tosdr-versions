@@ -238,7 +238,7 @@ this week
 
 [Graphene](https://www.sciencedaily.com/news/matter_energy/graphene/)
 
-[Thermodynamics](https://www.sciencedaily.com/news/matter_energy/thermodynamics/)
+[Astrophysics](https://www.sciencedaily.com/news/space_time/astrophysics/)
 
 [Information Technology](https://www.sciencedaily.com/news/computers_math/information_technology/)
 
@@ -246,9 +246,9 @@ this week
 
 [Organic](https://www.sciencedaily.com/news/plants_animals/organic/)
 
-[Developmental Biology](https://www.sciencedaily.com/news/plants_animals/developmental_biology/)
+[Environmental Awareness](https://www.sciencedaily.com/news/earth_climate/environmental_awareness/)
 
-[Botany](https://www.sciencedaily.com/news/plants_animals/botany/)
+[Climate](https://www.sciencedaily.com/news/earth_climate/climate/)
 
   
 
