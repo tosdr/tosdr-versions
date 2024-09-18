@@ -1,6 +1,6 @@
 [Skip to content](#skip-content-target-id)
 
-Countdown to Christmas with 20% off our festive bestsellers with code 100DAYS. [Shop now](https://www.notonthehighstreet.com/themes/top-100-christmas-bestsellers)
+Hunker down with our brand-new Autumn Shop. [Start exploring](https://www.notonthehighstreet.com/campaign/autumn-shop)
 
 [![Not on the high street logo](https://static-files.notonthehighstreet.com/webapps/shared/img/logo/NOTHS_logo.svg)](https://www.notonthehighstreet.com/)
 
