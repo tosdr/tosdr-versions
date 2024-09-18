@@ -102,7 +102,7 @@ Pay Bill
     * [Vehicle & RV Storage](https://www.publicstorage.com/vehicle-car-rv-storage)
     * [Boat Storage](https://www.publicstorage.com/boat-storage)
     * [Climate Controlled Storage](https://www.publicstorage.com/climate-controlled-storage)
-* [Frequently Asked Questions](https://www.publicstorage.com/help-center)
+* [Frequently Asked Questions](https://help.publicstorage.com/)
 * About Us
     * [Our Story](https://www.publicstorage.com/our-story.html)
     * [Investor Relations](https://investors.publicstorage.com/investor-relations/default.aspx)
