@@ -138,6 +138,19 @@ Provider ID# 317924
 
 [### decisionsindentistry](https://www.instagram.com/decisionsindentistry/ "@decisionsindentistry")
 
+[Earn 2 CEUs with The Impact of Dental Probe Wear o ![Earn 2 CEUs with The Impact of Dental Probe Wear on Implant Health⁠
+⁠
+Exploring how colored plastic probe markings may degrade and affect peri-implant tissues during routine dental assessments.⁠
+⁠
+By Sei J. Kim, DMD, MS, Chandur Wadhwani, BDS, MSD, Jack Ferracane, PhD, Richard O'Brien, BSEE and James A. Katancik, DDS, PhD⁠
+⁠
+Link in bio.⁠
+⁠
+⁠
+---⁠
+⁠
+#dentistry #dentist #dental #smile #dentista #teeth #cosmeticdentistry #dentistryworld #dentalphotography #odonto #tooth #dentistrylife #orthodontics #dentalcare #dentalhygienist #dentalimplants #oralhealth #veneers #dentalstudent #dentalassistant #dentalclinic #dentistlife #dentalhygiene #teethwhitening #oralsurgery #dds #endodontics #continuingeducation #education](https://decisionsindentistry.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/DABVUUnPpVg/) 
+
 [A new report from the Alabama Department of Public ![A new report from the Alabama Department of Public Health highlights alarming disparities in dental care access, especially in rural areas. High rates of tooth decay and a shortage of oral health professionals are leaving residents vulnerable, with children and seniors disproportionately affected. Link in bio.⁠
 ⁠
 ⁠
@@ -178,13 +191,6 @@ Link in bio.⁠
 ---⁠
 ⁠
 #dentistry #dentist #dental #smile #dentista #teeth #cosmeticdentistry #dentistryworld #dentalphotography #odonto #tooth #dentistrylife #orthodontics #dentalcare #dentalhygienist #dentalimplants #oralhealth #veneers #dentalstudent #dentalassistant #dentalclinic #dentistlife #dentalhygiene #teethwhitening #oralsurgery #dds #endodontics #continuingeducation #education](https://decisionsindentistry.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/C_0dY2NNKfI/) 
-
-[The advancement of three-dimensional printing in d ![The advancement of three-dimensional printing in dentistry offers a more efficient, cost-effective, and innovative approach to dental treatments, paving the way for complex, customized solutions that traditional methods can’t achieve. Link in bio.⁠
-⁠
-⁠
----⁠
-⁠
-#dentistry #dentist #dental #smile #dentista #teeth #cosmeticdentistry #dentistryworld #dentalphotography #odonto #tooth #dentistrylife #orthodontics #dentalcare #dentalhygienist #dentalimplants #oralhealth #veneers #dentalstudent #dentalassistant #dentalclinic #dentistlife #dentalhygiene #teethwhitening #oralsurgery #dds #endodontics #continuingeducation #education](https://decisionsindentistry.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/C_yxje0shFr/) 
 
 [Load More](javascript:void(0);) [Follow on Instagram](https://www.instagram.com/decisionsindentistry/)
 
