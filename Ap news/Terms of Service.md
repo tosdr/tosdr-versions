@@ -283,16 +283,6 @@ Show Search
 * Copyright 2024 The Associated Press. All Rights Reserved.
     
 
-[Live: ‘Diddy’ indicted](https://apnews.com/live/diddy-combs-arrest-indictment-updates)
-
-[Pagers explode in Lebanon, Syria](https://apnews.com/article/lebanon-hezbollah-israel-exploding-pagers-8893a09816410959b6fe94aec124461b)
-
-[Donald Trump](https://apnews.com/live/trump-shooting-west-palm-beach-updates)
-
-[France rape trial](https://apnews.com/article/france-rape-trial-drugged-pelicot-943400b83a8b111bcd42a0fb23a1cfda)
-
-[Titan submersible](https://apnews.com/article/titan-submersible-implosion-hearing-3e698a31c32d753b2d34e28900f65bdc)
-
 The Associated Press
 ====================
 
