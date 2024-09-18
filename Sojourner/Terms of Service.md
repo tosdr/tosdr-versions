@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-c512b9c10a1f48785578dda45f45943f
+d49cdd7638798e9d3d4361f26805477d
 
 [](# "Expand for more options")[](# "Search")
 
@@ -142,11 +142,11 @@ Terms and Conditions
 
 ### Featured Product
 
-[![8 mm lilac round beads](https://sojourner.biz/images/cache/glass/GL0238.200.jpg)](https://sojourner.biz/beads/glass/8-mm-lilac-round-beads.html "8 mm lilac round beads")
+[![8 mm by 3 mm Czech glass discs](https://sojourner.biz/images/cache/glass/GL0319ten.200.jpg)](https://sojourner.biz/beads/glass/8-mm-by-3-mm-czech-glass-discs.html "8 mm by 3 mm Czech glass discs")
 
-#### [8 mm lilac round beads](https://sojourner.biz/beads/glass/8-mm-lilac-round-beads.html "8 mm lilac round beads")
+#### [8 mm by 3 mm Czech glass discs](https://sojourner.biz/beads/glass/8-mm-by-3-mm-czech-glass-discs.html "8 mm by 3 mm Czech glass discs")
 
-$5.00
+$2.00
 
 ### Best Sellers
 
