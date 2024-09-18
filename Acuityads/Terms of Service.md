@@ -27,9 +27,9 @@
         * [Guides](https://illumin.com/insights/guides/)
         * [Events](https://illumin.com/insights/events/)
         * [Podcasts & Webinars](https://illumin.com/insights/podcasts-webinars/)
-    * ![The right and wrong ways to use AI to grow your brand: a marketers guide](https://illumin.com/wp-content/uploads/2023/09/right-and-wrong-ways-to-use-AI-1-263x300.jpg)
+    * ![California has a new AI watermarking bill – here’s what it means for marketers](https://illumin.com/wp-content/uploads/2024/09/california-watermarking-bill-263x300.jpg)
         
-        The right and wrong ways to use AI to grow your brand: a marketers guide[Read More](https://illumin.com/insights/blog/right-and-wrong-ways-to-use-ai/)
+        California has a new AI watermarking bill – here’s what it means for marketers[Read More](https://illumin.com/insights/blog/california-ai-watermarking-bill/)
         
 * [Company](#)
     * [Company](#)
