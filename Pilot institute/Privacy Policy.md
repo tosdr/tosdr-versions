@@ -60,6 +60,8 @@ Remarketing and Data Collection
 
 Pilot Institute uses remarketing services to advertise on third party websites (including Google, Facebook, Microsoft, and more) to previous visitors to our site. It could mean that we advertise to previous visitors who have done something on our site, for example using the contact form to make an enquiry. This could be in the form of an advertisement on the Google search results page, or a site in the Google Display Network. When you visit Pilot Institute’s websites, third-party vendors, including Google, Facebook, Microsoft, and others use cookies, session tokens, and/or server-side tracking to better understand visitors and for marketing/advertising purposes. Of course, any data collected will be used in accordance with our own privacy policy in addition to the third party’s privacy policies. Pilot Institute also uses a variety of services on our website. These include Facebook’s chat plugin, Helpscout, Mailchimp, and Trustpilot. You agree that Pilot Institute may share any information we have with these services.
 
+Additionally, Pilot Institute utilizes Google Analytics and Posthog for event-based analytics.
+
 Personally-Identifying Information
 ----------------------------------
 
@@ -127,7 +129,8 @@ Mon-Saturday 8am-5pm MST
 ##### Company
 
 * [Reviews](https://pilotinstitute.com/reviews/)
-* [About Us](https://pilotinstitute.com/about-us-old/)
+* [Community](https://pilotinstitute.com/community/)
+* [About Us](https://pilotinstitute.com/about-us/)
 * [Contact Us](https://pilotinstitute.com/contact-us/)
 * [Affiliate Program](https://pilotinstitute.com/affiliates/)
 * [Privacy Policy](https://pilotinstitute.com/privacy-policy/)
