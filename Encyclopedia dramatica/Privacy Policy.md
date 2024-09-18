@@ -1,12 +1,12 @@
   
 
-[![Logo](kiwi2.svg)](https://kiwifarms.st/)
+[![Logo](kiwianarchoautism.png)](https://kiwifarms.st/)
 
 [Alliance Against  
 Troons and  
 lolcows](https://kiwifarms.st/)
 
-This public toilet Is No Longer Available Due to Aifox being fag.  
+This Website Is No Longer Available Due to luck of mentally mature administration.  
 You Will Be Redirected To [EncyclopediaDramatica Info](https://encyclopediadramatica.info/) In 10 Seconds
 
   
