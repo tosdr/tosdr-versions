@@ -322,11 +322,11 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 
 [Galerija umetnika](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")[](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/tadija-janicic/crtezi-i-slike/bas-si-dobar-momak-bio.jpg?itok=KEB8uo-W)](http://seecult.org/galerija/galerija-umetnika/tadija-janicic/crtezi-i-slike)
+[![Minut cutanja povodom smrti Julija Knifera, Beograd, januar 2005. ](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/zoran-popovic-escapism/zoran-popovic-dokumenti/documents/knifer-mazestik-2.jpg?itok=684c7-_p)](http://seecult.org/galerija/galerija-umetnika/zoran-popovic-escapism/zoran-popovic-dokumentidocuments)
 
 [Foto galerija](http://seecult.org/galerija/foto-galerija "Foto galerija")[](http://seecult.org/galerija/foto-galerija "Foto galerija")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/festivali-koncerti-predstave-akcije/koncerti/trese-lupa-udara/trese-lupa-udara-001.?itok=CAg1rey8)](http://seecult.org/galerija/foto-galerija/festivali-koncerti-predstave-akcije/koncerti/trese-lupa-udara)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/arhitekt.jpg?itok=7Z2cbkko)](http://seecult.org/galerija/foto-galerija/foto-arhiva)
 
 * [Najčitanije](#news_1)
 * [Najnovije](#news_2)
