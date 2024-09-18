@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-bcbafb46ec9be76872f6ea50bd3b5691
+7999b9c6e70f94e574f23ce2f64f89eb
 
 [](# "Expand for more options")[](# "Search")
 
@@ -171,11 +171,11 @@ Sojourner may revise this policy as needed by updating this posting.
 
 ### Featured Product
 
-[![Blue wave clasp](https://www.sojourner.biz/images/cache/SKU0151-1front.200.jpg)](https://www.sojourner.biz/clasps/swarovski/blue-wave-clasp.html "Blue wave clasp")
+[![12 mm by 8 mm Czech embellished glass oval beads](https://www.sojourner.biz/images/cache/glass/GL0038.200.jpg)](https://www.sojourner.biz/beads/glass/12-mm-by-8-mm-czech-embellished-glass-oval-beads.html "12 mm by 8 mm Czech embellished glass oval beads")
 
-#### [Blue wave clasp](https://www.sojourner.biz/clasps/swarovski/blue-wave-clasp.html "Blue wave clasp")
+#### [12 mm by 8 mm Czech embellished glass oval beads](https://www.sojourner.biz/beads/glass/12-mm-by-8-mm-czech-embellished-glass-oval-beads.html "12 mm by 8 mm Czech embellished glass oval beads")
 
-$23.00
+$6.00
 
 ### Best Sellers
 
