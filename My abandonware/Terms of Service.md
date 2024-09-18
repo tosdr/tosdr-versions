@@ -85,11 +85,11 @@ Top downloads
 
 Latest releases
 
+* [Jackal](https://www.myabandonware.com/game/jackal-go)
+* [In the Hunt](https://www.myabandonware.com/game/in-the-hunt-ewe)
 * [Hydra](https://www.myabandonware.com/game/hydra-509)
 * [Quasar](https://www.myabandonware.com/game/quasar-se8)
 * [Ridge Racer](https://www.myabandonware.com/game/ridge-racer-se7)
-* [Ridge Racer 2](https://www.myabandonware.com/game/ridge-racer-2-se6)
-* [Red Alert](https://www.myabandonware.com/game/red-alert-se5)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [Facebook](https://www.facebook.com/myabandonware) or [X (Twitter)](https://x.com/myabandonware)
