@@ -34,11 +34,11 @@ Login Stay logged in
 
 Latest Forum Topics
 
-* [Commend or Condemn AN II (568)](https://forum.nationstates.net/viewtopic.php?t=553545&f=25&view=unread#unread ""Commend or Condemn AN II" (568 posts)")
-* [Does pineapple belong on pizza? (148)](https://forum.nationstates.net/viewtopic.php?t=554902&f=20&view=unread#unread ""Does pineapple belong on pizza?" (148 posts)")
-* [American Politics: Another Attempt Av… (6,739)](https://forum.nationstates.net/viewtopic.php?t=553897&f=20&view=unread#unread ""American Politics: Another Attempt Avoided" (6,739 posts)")
-* [rate an's card collection (11)](https://forum.nationstates.net/viewtopic.php?t=555405&f=25&view=unread#unread ""rate an's card collection" (11 posts)")
-* [Dinner in Kshatra (IC, closed) (43)](https://forum.nationstates.net/viewtopic.php?t=554763&f=5&view=unread#unread ""Dinner in Kshatra (IC, closed)" (43 posts)")
+* [Dragon Ball: Universe V2: They Came F… (92)](https://forum.nationstates.net/viewtopic.php?t=555044&f=31&view=unread#unread ""Dragon Ball: Universe V2: They Came From Outer Space (IC)" (92 posts)")
+* [NFC is here. First PPV on 21 sep!!! (1)](https://forum.nationstates.net/viewtopic.php?t=555419&f=4&view=unread#unread ""NFC is here. First PPV on 21 sep!!!" (1 post)")
+* [2023 Israel–Hamas War Thread mk3 (7,190)](https://forum.nationstates.net/viewtopic.php?t=549839&f=20&view=unread#unread ""2023 Israel–Hamas War Thread mk3" (7,190 posts)")
+* [NFL Football Thread 24-25: The Road t… (7,491)](https://forum.nationstates.net/viewtopic.php?t=527922&f=20&view=unread#unread ""NFL Football Thread 24-25: The Road to New Orleans!" (7,491 posts)")
+* [World Bowl XLIX \[49\] Everything Thread (9)](https://forum.nationstates.net/viewtopic.php?t=555385&f=7&view=unread#unread ""World Bowl XLIX [49] Everything Thread" (9 posts)")
 
 Advertisement
 
