@@ -39,9 +39,9 @@ editorial \_
 
 coverstory \_
 
-[![This Is 'Golden House', a Tiny Home Aiming to Be the Most Exclusive in the World](https://s1.cdn.autoevolution.com/images/news/this-is-golden-house-a-tiny-aiming-to-be-the-most-exclusive-in-the-world-239931-5.jpg "This Is 'Golden House', a Tiny Home Aiming to Be the Most Exclusive in the World")
+[![Venice Tiny Home Helps You Adopt a Lifestyle of Simplicity Without Compromising on Style](https://s1.cdn.autoevolution.com/images/news/venice-tiny-home-helps-you-adopt-a-lifestyle-of-simplicity-without-compromising-on-style-239959-5.jpg "Venice Tiny Home Helps You Adopt a Lifestyle of Simplicity Without Compromising on Style")
 
-This Is 'Golden House', a Tiny Home Aiming to Be the Most Exclusive in the World](https://www.autoevolution.com/news/this-is-golden-house-a-tiny-aiming-to-be-the-most-exclusive-in-the-world-239931.html)
+Venice Tiny Home Helps You Adopt a Lifestyle of Simplicity Without Compromising on Style](https://www.autoevolution.com/news/venice-tiny-home-helps-you-adopt-a-lifestyle-of-simplicity-without-compromising-on-style-239959.html)
 
 how-to \_
 
