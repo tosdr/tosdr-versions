@@ -24,7 +24,29 @@ Loading...
 
 Loading...
 
-Loading...
+Recent Stories
+
+[All Stories](https://www.atlasobscura.com/articles) [Puzzles](https://www.atlasobscura.com/series/ao-puzzles) [Video](https://www.atlasobscura.com/videos) [Podcast](https://www.atlasobscura.com/podcast)
+
+Most Recent Stories
+
+[View All Stories »](https://www.atlasobscura.com/articles)
+
+   [![While you’re searching for birds at Corkscrew Swamp Sanctuary, don’t forget to look down where you’re likely to see alligators navigating the water beneath the 2.25-mile boardwalk that winds through the swamp. ](https://img.atlasobscura.com/Mbb5kMHYS1CgtRCB5E62_5loXAhFyMM6TbpCWvvvyWs/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2Fzc2V0/cy85NzEwNmU3Njdl/MGUyMGQ3NDFfc2h1/dHRlcnN0b2NrXzIz/NzY0MTM3MDMuanBn.jpg)
+
+A Field Guide to Exploring Florida’s Best Birding Spots](https://www.atlasobscura.com/articles/a-field-guide-to-exploring-florida-s-best-birding-spots)
+
+   [![Named for the Calusa Indians, known as Florida’s “water people,” the Great Calusa Blueway is a 190-mile saltwater paddling trail. ](https://img.atlasobscura.com/o3MGLMkj3hREW07DIHScHJWPjwfVr4DkImRqeA0RRzM/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2Fzc2V0/cy8zMmEzYmM1ZTQw/NmVjMzljMDBfR3Jl/YXQgQ2FsdXNhIEJs/dWV3YXkgLSBGb290/YWdlIFN0aWxsIC0g/S2F5YWtpbmcgT3Zl/cmhlYWQgNC5qcGc.jpg)
+
+Mangroves, Manatees, and More: Florida’s Stunning Paddle Destinations](https://www.atlasobscura.com/articles/mangroves-manatees-and-more-florida-s-stunning-paddle-destinations)
+
+   [![The Fort Jefferson naval station is a centerpiece of Dry Tortugas National Park. The crystal clear waters surrounding it are a top destination for seeing colorful sea life while snorkeling and diving. ](https://img.atlasobscura.com/cjrf0g6l4CzIew1SfZ3xGIUin1uxBPAlMuaxgBowBvQ/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2Fzc2V0/cy9iYTBhNmMyMjNl/N2MwYThjMGFfRHJ5/IFRvcnR1Z2FzIC0g/QWVyaWFsIEZvcnQg/SmVmZmVyc29uIC0y/MDIxKE5QSSkgKDMp/LmpwZw.jpg)
+
+Aquatic Adventures: 7 Spots for Diving, Snorkeling, and Wildlife in Florida](https://www.atlasobscura.com/articles/aquatic-adventures-7-spots-for-diving-snorkeling-and-wildlife-in-florida)
+
+   [![Rare carnivorous pitcher plants dot the landscape at Yellow River Marsh Preserve State Park in northwestern Florida. ](https://img.atlasobscura.com/HTHaJmC7x1ztzVM3BobfxdAXgf7Wtiiny3OLCLgIrfE/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2Fzc2V0/cy83MmY4ZDVhNzMw/MDY1ZDQ3ZTFfMjY4/Njg4MDAzMV81YTE5/YjIzZjg5X28uanBn.jpg)
+
+Fantastic Flora and Fauna: Where to Find Rare Wildlife and Curious Plants in Florida](https://www.atlasobscura.com/articles/fantastic-flora-and-fauna-where-to-find-rare-wildlife-and-curious-plants-in-florida)
 
 No search results found for  
 “”
