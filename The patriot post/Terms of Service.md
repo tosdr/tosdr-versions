@@ -1,6 +1,6 @@
 [![](/assets/logo-3b6b6294dd1ca7308b9a9754bfeffaef9918dcc5467b9d15a5a8937b4c1e7e6d.svg)](https://patriotpost.us/)
 
-[Read The Latest Digest](https://patriotpost.us/digests/110317-mid-day-digest-2024-09-17?utm_campaign=latest_digest&utm_content=subscribe_sidebar&utm_medium=web&utm_source=patriotpost.us)
+[Read The Latest Digest](https://patriotpost.us/digests/110354-mid-day-digest-2024-09-18?utm_campaign=latest_digest&utm_content=subscribe_sidebar&utm_medium=web&utm_source=patriotpost.us)
 
 Subscriber/User Terms and Conditions of Service
 
@@ -185,7 +185,7 @@ These Terms and Conditions, together with the Privacy Policy, represent the enti
 
 All users and subscribers of Web site agree to abide by and comply with these "Subscriber/User Terms and Conditions of Service," as set forth by Publius Press, Inc., publisher of The Patriot Post, as a condition of subscription or use.
 
-[Read The Mid-Day Digest](https://patriotpost.us/digests/110317-mid-day-digest-2024-09-17?utm_campaign=latest_digest&utm_content=subscribe_sidebar&utm_medium=web&utm_source=patriotpost.us)
+[Read The Mid-Day Digest](https://patriotpost.us/digests/110354-mid-day-digest-2024-09-18?utm_campaign=latest_digest&utm_content=subscribe_sidebar&utm_medium=web&utm_source=patriotpost.us)
 
 [Executive News Summary](https://patriotpost.us/categories/74-headlines)
 
@@ -197,20 +197,23 @@ All users and subscribers of Web site agree to abide by and comply with these "S
 
 ### Cartoons
 
-     [](https://patriotpost.us/cartoons/34236)
+     [](https://patriotpost.us/cartoons/34239)
 
 * [More Cartoons >](https://patriotpost.us/cartoons)
 
 ### Top Opinion
 
-*      [Ian Haworth Democrats: Vote for Us and the Shooting Stops](https://patriotpost.us/opinion/110318-democrats-vote-for-us-and-the-shooting-stops-2024-09-17)
-*      [Christine Flowers We Need to Return to the World of Sept. 12, 2001](https://patriotpost.us/opinion/110304-we-need-to-return-to-the-world-of-sept-12-2001-2024-09-17)
-*      [Cal Thomas Socialized Medicine: The Consequences](https://patriotpost.us/opinion/110300-socialized-medicine-the-consequences-2024-09-17)
-*      [Gary Bauer Hatred of Trump Inspires Assassins!](https://patriotpost.us/opinion/110299-hatred-of-trump-inspires-assassins-2024-09-17)
-*      [Salena Zito Newly Registered Pennsylvania Voter Motivated by Economic Circumstances](https://patriotpost.us/opinion/110297-newly-registered-pennsylvania-voter-motivated-by-economic-circumstances-2024-09-17)
-*      [Victor Joecks The Left’s Best Defense of Harris Is Denial](https://patriotpost.us/opinion/110296-the-lefts-best-defense-of-harris-is-denial-2024-09-17)
-*      [Daniel McCarthy When Character Assassination Becomes the Real Thing](https://patriotpost.us/opinion/110294-when-character-assassination-becomes-the-real-thing-2024-09-17)
-*      [Dennis Prager The Reasons Young Women Embrace the Left Do Not Reflect Well on These Women](https://patriotpost.us/opinion/110293-the-reasons-young-women-embrace-the-left-do-not-reflect-well-on-these-women-2024-09-17)
+*      [Ben Shapiro Another Month, Another Trump Assassination Attempt](https://patriotpost.us/opinion/110334-another-month-another-trump-assassination-attempt-2024-09-18)
+*      [John Stossel Class Action Scams](https://patriotpost.us/opinion/110333-class-action-scams-2024-09-18)
+*      [Byron York A Kamala Harris Crowd: Big and Happy](https://patriotpost.us/opinion/110331-a-kamala-harris-crowd-big-and-happy-2024-09-18)
+*      [Tim Graham PolitiFact Throws Its 200th ‘Pants on Fire’ Tag at Donald Trump](https://patriotpost.us/opinion/110330-politifact-throws-its-200th-pants-on-fire-tag-at-donald-trump-2024-09-18)
+*      [Stephen Moore When It Comes to Tech Policy, Biden and Harris Put America Last](https://patriotpost.us/opinion/110329-when-it-comes-to-tech-policy-biden-and-harris-put-america-last-2024-09-18)
+*      [Gary Bauer Media Malfeasance](https://patriotpost.us/opinion/110328-media-malfeasance-2024-09-18)
+*      [Rich Lowry The New Radical Norm at Elite Colleges](https://patriotpost.us/opinion/110337-the-new-radical-norm-at-elite-colleges-2024-09-18)
+*      [Betsy McCaughey Reparations: Unconstitutional and Divisive — Is Kamala Harris Backing These Giveaways?](https://patriotpost.us/opinion/110327-reparations-unconstitutional-and-divisive-is-kamala-harris-backing-these-giveaways-2024-09-18)
+*      [Star Parker An Important New Book About Reagan and the Presidency](https://patriotpost.us/opinion/110332-an-important-new-book-about-reagan-and-the-presidency-2024-09-18)
+*      [The Washington Stand Parents: Under Siege and Under-Celebrated](https://patriotpost.us/opinion/110336-parents-under-siege-and-under-celebrated-2024-09-18)
+*      [The Babylon Bee Rashida Tlaib Uninjured After Her Pager Mysteriously Explodes](https://patriotpost.us/opinion/110335-rashida-tlaib-uninjured-after-her-pager-mysteriously-explodes-2024-09-18)
 
 * [More Opinion >](https://patriotpost.us/opinion)
 
@@ -224,11 +227,11 @@ All users and subscribers of Web site agree to abide by and comply with these "S
 
 [END OF WATCH](https://patriotpost.us/end-of-watch)
 
-[![](https://img.patriotpost.us/01J7Y4A5HWF0E5433AX1CKK1JD.jpeg)](https://patriotpostshop.com/collections/american-liberty-collection)
+[![](https://img.patriotpost.us/01J7K6RDZ8X6NRRKWH4N6BV0AY.jpeg)](https://patriotpostshop.com/collections/featured-products)
 
 ### The Foundation
 
-“Citizens by birth or choice of a common country, that country has a right to concentrate your affections. The name of American, which belongs to you, in your national capacity, must always exalt the just pride of Patriotism, more than any appellation derived from local discriminations.” —George Washington (1796)
+“The States can best govern our home concerns and the general government our foreign ones. I wish, therefore … never to see all offices transferred to Washington, where, further withdrawn from the eyes of the people, they may more secretly be bought and sold at market.” —Thomas Jefferson (1823)
 
 * [More Founders' Quotes >](https://patriotpost.us/quotes)
 
