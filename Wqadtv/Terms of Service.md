@@ -30,18 +30,15 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/bf723300-3e88-489d-9a51-ab45c35ea79e/20240917T215310/bf723300-3e88-489d-9a51-ab45c35ea79e_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/bf723300-3e88-489d-9a51-ab45c35ea79e/20240917T215310/bf723300-3e88-489d-9a51-ab45c35ea79e_360x203.jpg)](https://www.wqad.com/article/news/local/davenport-new-city-administrator-selected/526-06e2a462-fbb7-469c-a553-803d525a0203)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/b2d10790-e927-434c-8d77-c8a05f93a334/20240918T023507/b2d10790-e927-434c-8d77-c8a05f93a334_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/b2d10790-e927-434c-8d77-c8a05f93a334/20240918T023507/b2d10790-e927-434c-8d77-c8a05f93a334_360x203.jpg)](https://www.wqad.com/article/news/local/davenport-restores-general-public-comment-committee-of-the-whole-meetings/526-022994ea-6413-40a1-9bb9-3530d5054647)
         
-        #### [Davenport announces new city administrator](https://www.wqad.com/article/news/local/davenport-new-city-administrator-selected/526-06e2a462-fbb7-469c-a553-803d525a0203) [![](https://media.tegna-media.com/assets/WQAD/images/bf723300-3e88-489d-9a51-ab45c35ea79e/20240917T215310/bf723300-3e88-489d-9a51-ab45c35ea79e_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/bf723300-3e88-489d-9a51-ab45c35ea79e/20240917T215310/bf723300-3e88-489d-9a51-ab45c35ea79e_360x203.jpg)](https://www.wqad.com/article/news/local/davenport-new-city-administrator-selected/526-06e2a462-fbb7-469c-a553-803d525a0203)
+        #### [Davenport restores general public comment to Committee of the Whole meetings](https://www.wqad.com/article/news/local/davenport-restores-general-public-comment-committee-of-the-whole-meetings/526-022994ea-6413-40a1-9bb9-3530d5054647) [![](https://media.tegna-media.com/assets/WQAD/images/b2d10790-e927-434c-8d77-c8a05f93a334/20240918T023507/b2d10790-e927-434c-8d77-c8a05f93a334_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/b2d10790-e927-434c-8d77-c8a05f93a334/20240918T023507/b2d10790-e927-434c-8d77-c8a05f93a334_360x203.jpg)](https://www.wqad.com/article/news/local/davenport-restores-general-public-comment-committee-of-the-whole-meetings/526-022994ea-6413-40a1-9bb9-3530d5054647)
         
-        #### [City of Davenport selects new city administrator](https://www.wqad.com/article/news/local/davenport-new-city-administrator-selected/526-06e2a462-fbb7-469c-a553-803d525a0203)
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/d97e090b-67ae-476c-ba49-2f6c11107f16/d97e090b-67ae-476c-ba49-2f6c11107f16_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/d97e090b-67ae-476c-ba49-2f6c11107f16/d97e090b-67ae-476c-ba49-2f6c11107f16_360x203.jpg)](https://www.wqad.com/article/news/local/2-people-injured-rollover-crash-scott-county/526-2680bc78-f47c-4a99-b8af-11ee23c9011b)
+        #### [Public comment is back at Davenport's Committee of the Whole meetings](https://www.wqad.com/article/news/local/davenport-restores-general-public-comment-committee-of-the-whole-meetings/526-022994ea-6413-40a1-9bb9-3530d5054647)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/dd98c787-8e04-4815-a200-b3869de4db0a/20240831T021218/dd98c787-8e04-4815-a200-b3869de4db0a_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/dd98c787-8e04-4815-a200-b3869de4db0a/20240831T021218/dd98c787-8e04-4815-a200-b3869de4db0a_360x203.jpg)](https://www.wqad.com/article/news/local/motorcyclist-killed-scott-county-donahue-crash/526-2a7c45e1-0565-4645-9037-f18cadc3632f)
         
-        #### [2 people injured in rollover crash in Scott County](https://www.wqad.com/article/news/local/2-people-injured-rollover-crash-scott-county/526-2680bc78-f47c-4a99-b8af-11ee23c9011b) [![](https://media.tegna-media.com/assets/WQAD/images/d97e090b-67ae-476c-ba49-2f6c11107f16/d97e090b-67ae-476c-ba49-2f6c11107f16_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/d97e090b-67ae-476c-ba49-2f6c11107f16/d97e090b-67ae-476c-ba49-2f6c11107f16_360x203.jpg)](https://www.wqad.com/article/news/local/2-people-injured-rollover-crash-scott-county/526-2680bc78-f47c-4a99-b8af-11ee23c9011b)
+        #### [Motorcyclist killed in Scott County crash](https://www.wqad.com/article/news/local/motorcyclist-killed-scott-county-donahue-crash/526-2a7c45e1-0565-4645-9037-f18cadc3632f)
         
-        #### [2 people injured in Scott County crash](https://www.wqad.com/article/news/local/2-people-injured-rollover-crash-scott-county/526-2680bc78-f47c-4a99-b8af-11ee23c9011b) [![](https://media.tegna-media.com/assets/WQAD/images/d97e090b-67ae-476c-ba49-2f6c11107f16/d97e090b-67ae-476c-ba49-2f6c11107f16_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/d97e090b-67ae-476c-ba49-2f6c11107f16/d97e090b-67ae-476c-ba49-2f6c11107f16_360x203.jpg)](https://www.wqad.com/article/news/local/2-people-injured-rollover-crash-scott-county/526-2680bc78-f47c-4a99-b8af-11ee23c9011b)
-        
-        #### [Rollover crash in Scott County injures 2](https://www.wqad.com/article/news/local/2-people-injured-rollover-crash-scott-county/526-2680bc78-f47c-4a99-b8af-11ee23c9011b)
     
 * [Weather](https://www.wqad.com/weather)
     
@@ -60,13 +57,13 @@ Navigation
     
     Latest Weather Stories
     
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/ca93b427-2503-4622-98d0-7ea8a5a14f5b/20240917T231126/ca93b427-2503-4622-98d0-7ea8a5a14f5b_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/ca93b427-2503-4622-98d0-7ea8a5a14f5b/20240917T231126/ca93b427-2503-4622-98d0-7ea8a5a14f5b_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+        
+        #### [Warm, summery weather continues to close out the work week](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+        
     *  [![](https://media.tegna-media.com/assets/CCT/images/d00a961c-caa2-480f-ba2e-99225d0d742c/20240917T150049/d00a961c-caa2-480f-ba2e-99225d0d742c_16x9.jpg) ![](https://media.tegna-media.com/assets/CCT/images/d00a961c-caa2-480f-ba2e-99225d0d742c/20240917T150049/d00a961c-caa2-480f-ba2e-99225d0d742c_360x203.jpg)](https://www.wqad.com/article/news/nation-world/central-europe-flooding-romania-poland-czech-republic-austria/507-4de628f8-338d-48fa-a3b0-6519cf9a5243)
         
         #### [Central Europe flooding leaves 16 dead in Romania, Poland, Czech Republic and Austria](https://www.wqad.com/article/news/nation-world/central-europe-flooding-romania-poland-czech-republic-austria/507-4de628f8-338d-48fa-a3b0-6519cf9a5243)
-        
-    *  [![](https://media.tegna-media.com/assets/CCT/images/e52e645e-0b91-4f26-ba6f-40ba70997361/20240917T114315/e52e645e-0b91-4f26-ba6f-40ba70997361_16x9.jpg) ![](https://media.tegna-media.com/assets/CCT/images/e52e645e-0b91-4f26-ba6f-40ba70997361/20240917T114315/e52e645e-0b91-4f26-ba6f-40ba70997361_360x203.jpg)](https://www.wqad.com/article/news/nation-world/september-2024-full-moon-harvest-moon-partial-eclipse-supermoon-time/507-d36e7dcc-254f-4a7b-852b-640017b8e713)
-        
-        #### [What time is Tuesday's partial lunar eclipse?](https://www.wqad.com/article/news/nation-world/september-2024-full-moon-harvest-moon-partial-eclipse-supermoon-time/507-d36e7dcc-254f-4a7b-852b-640017b8e713)
         
     
 * [Sports](https://www.wqad.com/sports)
@@ -90,9 +87,9 @@ Navigation
 
 Davenport, IA »
 
-86°
+62°
 
-![Sunny](/assets/shared-images/weather-icons/clear-day_210x210.png)
+![Clear](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
 
 Davenport, IA »](https://www.wqad.com/weather)
 
