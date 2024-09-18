@@ -27,9 +27,9 @@
         * [Guides](https://illumin.com/insights/guides/)
         * [Events](https://illumin.com/insights/events/)
         * [Podcasts & Webinars](https://illumin.com/insights/podcasts-webinars/)
-    * ![California has a new AI watermarking bill – here’s what it means for marketers](https://illumin.com/wp-content/uploads/2024/09/california-watermarking-bill-263x300.jpg)
+    * ![Fubo launches its new CTV advertising format](https://illumin.com/wp-content/uploads/2024/09/Fubo-CTV-ad-1-263x300.png)
         
-        California has a new AI watermarking bill – here’s what it means for marketers[Read More](https://illumin.com/insights/blog/california-ai-watermarking-bill/)
+        Fubo launches its new CTV advertising format[Read More](https://illumin.com/insights/blog/fubo-sports-ctv-advertising/)
         
 * [Company](#)
     * [Company](#)
