@@ -36,10 +36,12 @@ Search
 
 ![](//www.genmobile.com/cdn/shop/t/48/assets/gm-findstore.svg?v=88663615024655658451719253009)](https://www.genmobile.com/apps/store-locator)
 
-Gen Mobile Consumer Policies & Privacy Notice
-=============================================
+Gen Mobile Consumer Protection Policies
+=======================================
 
-### **GEN MOBILE CONSUMER POLICIES & PRIVACY NOTICE**
+ 
+
+**GEN MOBILE CONSUMER POLICIES & PRIVACY NOTICE**
 
 Version July 2024
 
@@ -49,7 +51,7 @@ Please also carefully review these Notice and (a) the Terms & Conditions, (b) My
 
 When we say “we”, “us”, “our” or “Gen Mobile”, we mean DISH Wireless L.L.C. and when we say “you”, “your”, “customer” and “user”, we mean a Gen Mobile account holder or anyone who uses our Devices or Services, including, without limitation, all beneficiaries hereof.
 
-Gen Mobile is committed to consumer protection and service quality as stated in our policies and in [CTIA Consumer Code of Conduct](https://api.ctia.org/wp-content/uploads/2020/03/CTIA-Consumer-Code-2020.pdf), as applicable.
+Gen Mobile is committed to consumer protection and service quality as stated in our policies and in [CTIA Consumer Code of Conduct](https://api.ctia.org/wp-content/uploads/2020/03/CTIA-Consumer-Code-2020.pdf), as applicable.
 
 If you have any questions or concerns about the Notice, you may contact Gen Mobile Customer Care by dialing 611 from your device on the Gen Mobile network, calling (833) 528-1380, emailing genmobilelegal@dish.com, or sending correspondence to P.O. Box 1187, Gardena, CA 90249, Attn: Legal Department.
 
@@ -63,16 +65,16 @@ Gen Mobile reserves the sole right to make updates to these Notice. Please revis
 
 Gen Mobile takes your privacy seriously and is dedicated to providing its customers with strong privacy protections. This Privacy Notice (the “Privacy Notice”) outlines what, why, and how Gen Mobile collects, uses, and protects your confidential and personal information, and informs you of your options regarding its collection and use. The Privacy Notice applies to Gen Mobile customers of all products and services and to visitors of Gen Mobile websites.
 
-**California Notice at Collection** 
+**California Notice at Collection**
 
-We collect the categories of personal information (as defined in the California Consumer Privacy Act (CCPA)) listed in the table below. 
+We collect the categories of personal information (as defined in the California Consumer Privacy Act (CCPA)) listed in the table below.
 
 |     |     |
 | --- | --- |
 | **Category of Personal Information Collected** | **Sold or Shared** |
 | Identifiers, including names, postal addresses, email addresses, online identifiers, IP addresses, account names, and other similar identifiers. | Yes |
-| Personal information categories listed in the [California Customer Records statute](https://leginfo.legislature.ca.gov/faces/codes_displayText.xhtml?lawCode=CIV&division=3.&title=1.81.&part=4.&chapter=&article=), including names, postal addresses, telephone numbers, bank account numbers,  credit/debit card numbers, and other financial information. | No  |
-| Protected classification characteristics under [California law](https://www.senate.ca.gov/content/protected-classes), including sex/gender, marital status, and age (over 40). | No  |
+| Personal information categories listed in the [California Customer Records statute](https://leginfo.legislature.ca.gov/faces/codes_displayText.xhtml?lawCode=CIV&division=3.&title=1.81.&part=4.&chapter=&article=), including names, postal addresses, telephone numbers, bank account numbers, credit/debit card numbers, and other financial information. | No  |
+| Protected classification characteristics under [California law](https://www.senate.ca.gov/content/protected-classes), including sex/gender, marital status, and age (over 40). | No  |
 | Commercial information, including information regarding products or services purchased, obtained, or considered, or other purchasing or consuming histories or tendencies. | Yes |
 | Internet or other electronic network activity information, including information regarding interactions with an internet website, application, or advertisement. | Yes |
 | Imprecise geolocation data, such as general location of devices or IP address. | Yes |
@@ -82,19 +84,19 @@ We collect the categories of personal information (as defined in the California 
 | Inferences, meaning inferences drawn from any of the information in the above-listed categories of information to create profiles about consumers. | Yes |
 | Sensitive personal information, including account log-in information in combination with passwords. | No  |
 
-As further described in this Notice, we generally collect and use the above-listed categories of personal information to provide and manage the Services and achieve legitimate business or commercial purposes. 
+As further described in this Notice, we generally collect and use the above-listed categories of personal information to provide and manage the Services and achieve legitimate business or commercial purposes.
 
 As noted in the table above, we “sell” or “share” (as these terms are defined in the CCPA) certain categories of personal information, and you may exercise your right to opt out of such disclosures by following the instructions provided in the footer link at https://www.genmobile.com/pages/your-privacy-choice.
 
-We retain each category of personal information that we collect for as long as necessary to fulfill the purposes described in this Notice, including to satisfy legal or reporting requirements. 
+We retain each category of personal information that we collect for as long as necessary to fulfill the purposes described in this Notice, including to satisfy legal or reporting requirements.
 
 More information, including a description of your legal rights, can be found below in the “State Privacy Rights” section.
 
 **What Information Gen Mobile Collects**
 
-Gen Mobile collects information about you and your device(s) so that it may provide the best products and services to Gen Mobile customers. 
+Gen Mobile collects information about you and your device(s) so that it may provide the best products and services to Gen Mobile customers.
 
-The type of information Gen Mobile may collect include: (a) account, (b) credit and financial, (c) Customer Proprietary Network Information (“CPNI”), (d) internet and application history, (e) location, and (f) service-related network and device information. Account information pertains to your particular account (i.e. your name, address, telephone number, email address, and call records). Credit and financial information, if needed, is your credit card information, credit history, or other bank information for account, billing, and other collection purposes.  CPNI is a type of personal information. For more information, please see the Gen Mobile CPNI Policy. Internet & application history information are the websites you visit and the mobile apps you use while on the Gen Mobile network, including the amount of time spent on and frequency of use of the website or using the mobile apps. Location information is the physical address and location of your wireless device, which is generated by the communication between your device and cell towers, Wi-Fi routers, and/or other technologies. Service-related network and device information is your Gen Mobile service history, including how you use Gen Mobile’s network, products, and services, and how well they are operating. Gen Mobile also collects your specific device or equipment type, status, settings, software, and configuration information.
+The type of information Gen Mobile may collect include: (a) account, (b) credit and financial, (c) Customer Proprietary Network Information (“CPNI”), (d) internet and application history, (e) location, and (f) service-related network and device information. Account information pertains to your particular account (i.e. your name, address, telephone number, email address, and call records). Credit and financial information, if needed, is your credit card information, credit history, or other bank information for account, billing, and other collection purposes. CPNI is a type of personal information. For more information, please see the Gen Mobile CPNI Policy. Internet & application history information are the websites you visit and the mobile apps you use while on the Gen Mobile network, including the amount of time spent on and frequency of use of the website or using the mobile apps. Location information is the physical address and location of your wireless device, which is generated by the communication between your device and cell towers, Wi-Fi routers, and/or other technologies. Service-related network and device information is your Gen Mobile service history, including how you use Gen Mobile’s network, products, and services, and how well they are operating. Gen Mobile also collects your specific device or equipment type, status, settings, software, and configuration information.
 
 **Why and How Gen Mobile Collects Information**
 
@@ -120,7 +122,7 @@ Gen Mobile uses the collected information in various ways, including, but not li
 
 **Advertising from Gen Mobile**
 
-Gen Mobile may use certain information you provided, for example, certain preferences indicated by you when using our websites, products, and/or services to provide you with information related to Gen Mobile products and/or services that may be of interest to you. We may provide certain advertisements on our websites and/or mobile applications. 
+Gen Mobile may use certain information you provided, for example, certain preferences indicated by you when using our websites, products, and/or services to provide you with information related to Gen Mobile products and/or services that may be of interest to you. We may provide certain advertisements on our websites and/or mobile applications.
 
 **Advertising from Third Party Companies**
 
@@ -128,13 +130,13 @@ We do not release any personally identifiable information for any advertisement 
 
 You may see third party advertisements when you visit Gen Mobile’s website or use your device. Ad servers place certain advertisements on behalf of other third party companies. Ad server companies may place and access cookies on your device to collect certain information about your visit to their website. The information collected from Gen Mobile’s website does not identify you personally. Sometimes the information collected may be used with other data to help advertisers target specific audiences and modify advertisements to interests they infer from your use of our and other websites or mobile applications. If you choose to interact with advertisers who place ads on Gen Mobile’s websites, the information you provide to those third parties is subject to their terms and conditions and privacy policies. Any interactions with advertisements on Gen Mobile’s website may lead to further targeted advertisements on our website or other websites.
 
-We may permit advertisers to place advertisements on Gen Mobile’s websites based on certain information that we have about you, including your demographic information, geographic location, and products and/or services. We may include social network or other third party plug-ins on Gen Mobile’s websites, which may provide information to the affiliated social networks or third parties about your actions with and use of our websites, products and/or services. 
+We may permit advertisers to place advertisements on Gen Mobile’s websites based on certain information that we have about you, including your demographic information, geographic location, and products and/or services. We may include social network or other third party plug-ins on Gen Mobile’s websites, which may provide information to the affiliated social networks or third parties about your actions with and use of our websites, products and/or services.
 
 **How Gen Mobile Shares Information**
 
 Except as noted in this Privacy Notice, Gen Mobile does not sell, share, or license any individually identifiable customer information beyond Gen Mobile, for non-Gen Mobile related reasons, without the consent from the specific individual whose information will be shared.
 
-**Sharing Within Gen Mobile** 
+**Sharing Within Gen Mobile**
 
 Gen Mobile shares certain customer information within Gen Mobile in order to communicate with you about your account, to develop better products and services for you, and to provide you better products and services. Gen Mobile also shares information within Gen Mobile so that we may offer and provide you with additional products and/or services. If you choose to, you can limit the sharing of certain information, known as Customer Proprietary Network Information, or CPNI, regarding marketing services outside of the services you currently have. Please review the Gen Mobile CPNI Policy for more information.
 
@@ -142,9 +144,9 @@ Gen Mobile shares certain customer information within Gen Mobile in order to com
 
 Upon proper authentication, Gen Mobile may disclose information to the primary account holder. If the primary account holder is a business, governmental agency, or another individual, Gen Mobile may provide information about your use of the products and/or services at their direction.
 
-We will never sell your name, address, or phone number without your consent to those outside of Gen Mobile to market third-parties' products and/or services. Gen Mobile may use third-party partners for certain business reasons and share information with them as necessary for them to perform work on our behalf. We may also provide certain, anonymized or unidentifiable information about you to third-parties for advertising, marketing, or other purposes. Gen Mobile may also share information with third-parties in order to protect your privacy and security and to enforce our own rights. For such purposes, Gen Mobile will only share your information as needed for those companies or third-party entities to perform specific services. Additionally, those companies are required to protect your information with the same level of protection that Gen Mobile provides. 
+We will never sell your name, address, or phone number without your consent to those outside of Gen Mobile to market third-parties' products and/or services. Gen Mobile may use third-party partners for certain business reasons and share information with them as necessary for them to perform work on our behalf. We may also provide certain, anonymized or unidentifiable information about you to third-parties for advertising, marketing, or other purposes. Gen Mobile may also share information with third-parties in order to protect your privacy and security and to enforce our own rights. For such purposes, Gen Mobile will only share your information as needed for those companies or third-party entities to perform specific services. Additionally, those companies are required to protect your information with the same level of protection that Gen Mobile provides.
 
-We share information beyond Gen Mobile with certain other entities in limited circumstances, such as complying with court orders and other legal and regulatory requirements, responding to 911 and other emergencies; assisting with identity verification and preventing fraud and theft; enforcing our agreements and legal rights, or advancing or defending against legal claims; processing transactions and bills and to collect payments; as part of a corporate business transaction like a merger or acquisition; and/or with your consent. 
+We share information beyond Gen Mobile with certain other entities in limited circumstances, such as complying with court orders and other legal and regulatory requirements, responding to 911 and other emergencies; assisting with identity verification and preventing fraud and theft; enforcing our agreements and legal rights, or advancing or defending against legal claims; processing transactions and bills and to collect payments; as part of a corporate business transaction like a merger or acquisition; and/or with your consent.
 
 **Your Consent Required for Individually Identifiable Disclosures or Information**
 
@@ -152,9 +154,9 @@ Gen Mobile will only disclose information that individually identifies our custo
 
 **How We Protect Your Information**
 
-We take information security seriously.  We use commercially reasonable efforts to protect information we collect and maintain against loss; misuse; and unauthorized access, disclosure, alteration, or destruction.  However, even with appropriate security measures in place, we cannot guarantee the security of the information under our control.
+We take information security seriously. We use commercially reasonable efforts to protect information we collect and maintain against loss; misuse; and unauthorized access, disclosure, alteration, or destruction. However, even with appropriate security measures in place, we cannot guarantee the security of the information under our control.
 
-**MyGenMobile App** 
+**MyGenMobile App**
 
 Gen Mobile will collect, disclose, and protect your personal information via MyGenMobile App (the “App”) in accordance with the policies stated herein. The App makes use of the Device Administration (BIND\_DEVICE\_ADMIN) privileges to provide remote lock and wipe capabilities to the Gen Mobile Care team. If your device is lost or stolen, you may contact Gen Mobile Care to assist with remote location, lockdown, or factory reset of the device.
 
@@ -182,7 +184,7 @@ The Federal Trade Commission’s “Do Not Call” laws allow customers to place
 
 **Consumer Code for Wireless Services (“CCWS”)**
 
-Gen Mobile follows the CCWS established by the Cellular Telecommunications & Internet Association (“CTIA”). CTIA and the wireless carriers adhering to the CCWS have made a voluntary commitment to help consumers make informed choices when selecting their wireless service. For information about the voluntary guidelines included in the CCWS, please visit CTIA’s website at www.ctia.org/the-wireless-industry/industry-commitments/consumer-code-for-wireless-service.
+Gen Mobile follows the CCWS established by the Cellular Telecommunications & Internet Association (“CTIA”). CTIA and the wireless carriers adhering to the CCWS have made a voluntary commitment to help consumers make informed choices when selecting their wireless service. For information about the voluntary guidelines included in the CCWS, please visit CTIA’s website at www.ctia.org/the-wireless-industry/industry-commitments/consumer-code-for-wireless-service.
 
 **STATE PRIVACY RIGHTS**
 
@@ -212,7 +214,7 @@ We have collected the following categories of personal information about consume
 
 **Categories of personal information sold or shared:**
 
-We sell or share the following categories of personal information: identifiers, imprecise geolocation such as IP address, inferences, commercial information and internet or other electronic network activity information.    We sell or share these categories of personal information to data analytics providers, advertising partners and/or networks, social networks, and data brokers.  We do not knowingly sell or share personal information about persons under the age of sixteen.
+We sell or share the following categories of personal information: identifiers, imprecise geolocation such as IP address, inferences, commercial information and internet or other electronic network activity information.   We sell or share these categories of personal information to data analytics providers, advertising partners and/or networks, social networks, and data brokers. We do not knowingly sell or share personal information about persons under the age of sixteen.
 
 **Categories of sources of personal information:**
 
@@ -225,7 +227,7 @@ We collect the personal information identified in the chart above from the follo
 
 **Personal information we disclose for a business purpose:**
 
-There are a number of circumstances where we disclose personal information to companies who work on our behalf to help us provide the Services.  We disclose the categories of personal information described in the chart above to affiliates and other companies to provide the Services; measure the performance of our network and your devices; and for eligibility verification, fulfillment, and administrative purposes. 
+There are a number of circumstances where we disclose personal information to companies who work on our behalf to help us provide the Services. We disclose the categories of personal information described in the chart above to affiliates and other companies to provide the Services; measure the performance of our network and your devices; and for eligibility verification, fulfillment, and administrative purposes.
 
 **Your Data Rights:**
 
@@ -234,7 +236,7 @@ Residents of California, Colorado, Connecticut, Oregon, Texas, Utah, and Virgini
 * Request that we disclose what categories and specific pieces of personal information we collected about you in the preceding 12 months, the business purposes for such collection, the categories of sources from which we collected the information, the categories of personal information we sold or disclosed for a business purpose, and the categories of recipients of such information
 * Request deletion of any personal information about you that we have collected from you subject to certain legal exceptions
 * Correct inaccuracies of any personal information about you we have collected from you
-* Opt-out of the sale or sharing of your personal information, or of targeted advertising 
+* Opt-out of the sale or sharing of your personal information, or of targeted advertising
 * Appeal the denial of any of your access requests
 
 Residents of Oregon may request a list of specific third parties with which we have shared any personal data.
@@ -243,11 +245,11 @@ If you choose to exercise these rights, you will not receive discriminatory trea
 
 **How to submit an access, deletion, or correction request:**
 
-If you would like to submit a privacy rights request for access, deletion, or correction please contact us at 833-528-1380 or visit our Privacy Portal at [www.genmobile.com/pages/your-privacy-choice](http://www.genmobile.com/pages/your-privacy-choice). 
+If you would like to submit a privacy rights request for access, deletion, or correction please contact us at 833-528-1380 or visit our Privacy Portal at [www.genmobile.com/pages/your-privacy-choice](http://www.genmobile.com/pages/your-privacy-choice).
 
-**How to opt out of the sale or share of personal information, or of targeted advertising:** 
+**How to opt out of the sale or share of personal information, or of targeted advertising:**
 
-To opt out of the sale or sharing of your personal information or targeted advertising, please please contact us at 833-528-1380 or visit our Privacy Portal at [www.genmobile.com/pages/your-privacy-choice](http://www.genmobile.com/pages/your-privacy-choice).
+To opt out of the sale or sharing of your personal information or targeted advertising, please please contact us at 833-528-1380 or visit our Privacy Portal at [www.genmobile.com/pages/your-privacy-choice](http://www.genmobile.com/pages/your-privacy-choice).
 
 **Verification of your identity:**
 
@@ -265,13 +267,13 @@ You can designate an authorized agent to make a request to know, delete, correct
 
 **California Web Site Data Collection & “Do Not Track” Notices**
 
-Gen Mobile does not knowingly allow third-parties to collect personally identifiable information about your online activities over time and across third-party web sites when you use our websites and/or services. Gen Mobile provides information about your opt out choices and you may contact Customer Care at any time to change your preferences. Because the providers of “do not track” and similar signals do not yet operate according to common, industry-accepted standards, Gen Mobile currently does not respond to those signals. For more information on Do Not Track, please visit [www.allaboutdnt.com](http://www.allaboutdnt.com/).
+Gen Mobile does not knowingly allow third-parties to collect personally identifiable information about your online activities over time and across third-party web sites when you use our websites and/or services. Gen Mobile provides information about your opt out choices and you may contact Customer Care at any time to change your preferences. Because the providers of “do not track” and similar signals do not yet operate according to common, industry-accepted standards, Gen Mobile currently does not respond to those signals. For more information on Do Not Track, please visit [www.allaboutdnt.com](http://www.allaboutdnt.com/).
 
-California customers who wish to request more information about Gen Mobile’s compliance with these requirements, or who have questions or concerns about our privacy practices and policies, may contact us via e-mail at genmobilelegal@dish.com.
+California customers who wish to request more information about Gen Mobile’s compliance with these requirements, or who have questions or concerns about our privacy practices and policies, may contact us via e-mail at genmobilelegal@dish.com.
 
 **Nevada**
 
-Nevada law permits Nevada residents to make certain requests about how their personal information is shared with third parties or affiliated companies. To make such a request, please visit our Privacy Portal at [www.genmobile.com/pages/your-privacy-choice](http://www.genmobile.com/pages/your-privacy-choice).
+Nevada law permits Nevada residents to make certain requests about how their personal information is shared with third parties or affiliated companies. To make such a request, please visit our Privacy Portal at [www.genmobile.com/pages/your-privacy-choice](http://www.genmobile.com/pages/your-privacy-choice).
 
 **IMPORTANT NOTICE FOR CALIFORNIA PREPAID WIRELESS CUSTOMERS**
 
@@ -279,7 +281,7 @@ Nevada law permits Nevada residents to make certain requests about how their per
 
 On November 15, 2018, the United States District Court, Northern District of California (MetroPCS California, LLC v. Michael Picker et al, case number 17-cv-05959-SI), enjoined state agencies from enforcing the provisions of the Prepaid MTS Surcharge Collection Act because it conflicts with federal law. A notice of appeal of the district court’s decision was filed on December 14, 2018, but a judicial stay of the injunction was not requested, thereby ending CDTFA’s enforcement of the Prepaid MTS Surcharge Collection Act (the “Act”). However, the CDTFA will continue to administer the Local Prepaid MTS Collection Act, which is a separate act from the Act.
 
-Effective January 1, 2019, telephone corporations providing prepaid wireless telecommunications services sold in California shall collect, report, and remit surcharges and user fee rates applicable to all intrastate telecommunications services. This will be consistent with the universal surcharge mechanism applicable to all telecommunications carriers in existence prior to the enactment of the Act, including the method of calculating the rates, requirement of revenue reports, and the collection of surcharges and user fees.  
+Effective January 1, 2019, telephone corporations providing prepaid wireless telecommunications services sold in California shall collect, report, and remit surcharges and user fee rates applicable to all intrastate telecommunications services. This will be consistent with the universal surcharge mechanism applicable to all telecommunications carriers in existence prior to the enactment of the Act, including the method of calculating the rates, requirement of revenue reports, and the collection of surcharges and user fees.  
 
 The surcharges and user fee are adjusted periodically and applicable to the sale price of intrastate prepaid wireless services as follows:
 
@@ -293,14 +295,14 @@ The surcharges and user fee are adjusted periodically and applicable to the sale
 * California 911 Emergency Telephone Users Surcharge – Revenue and Taxation Code section 41001
 * Local Prepaid Mobile Telephony Services (LPMTS) Surcharge – Revenue and Taxation Code section 42100
 
-Each surcharge and user fee will be listed on your receipt and will vary based on your location because certain cities and counties may or may not implement different LPMTS surcharge rates.  
+Each surcharge and user fee will be listed on your receipt and will vary based on your location because certain cities and counties may or may not implement different LPMTS surcharge rates.  
 
 To better understand your total charges since the invalidation of the Act, here are some examples where you purchase a $25 Gen Mobile Plan (Plan) and are located where the total rate of the surcharges and user fee are 10.0% (these do not include the calculation of LPMTS):
 
 * Before January 1, 2019, the surcharges and user fee collected under the $25 Plan is $25 x 10% = $2.50, for a total charge of $27.50.
 * On and after January 1, 2019, the surcharges and user fee collected under the $25 Plan is $5 (voice portion) x 62.9% (inverse of federal safe harbor percentage) x 10% = $0.31, for a total charge of $25.31.
 
-For more information please go to the [CDTFA’s website](https://www.cdtfa.ca.gov/industry/prepaid-mts-surcharge.htm) or you may contact Customer Care by calling at 833-528-1380 or dialing 611 from your device on the Gen Mobile network.
+For more information please go to the [CDTFA’s website](https://www.cdtfa.ca.gov/industry/prepaid-mts-surcharge.htm) or you may contact Customer Care by calling at 833-528-1380 or dialing 611 from your device on the Gen Mobile network.
 
 **CUSTOMER PROPRIETARY NETWORK INFORMATION (“CPNI”) POLICY**
 
@@ -308,7 +310,7 @@ For more information please go to the [CDTFA’s website](https://www.cdtfa.ca.
 
 Gen Mobile is committed to protecting the privacy and security of our customers’ personal information. As your telecommunications service provider, Gen Mobile has access to certain confidential information known as Customer Proprietary Network Information, or CPNI.
 
-**What is CPNI?** 
+**What is CPNI?**
 
 CPNI is the information generated due to your use of Gen Mobile's telecommunications services. CPNI includes: type of services purchased, how those services are utilized, billing information, and information about call details (also known as “Call Detail Information” or “CDI”). CDI involves information relating to specific calls, including the phone numbers you call, the numbers calling you, call times and dates, call durations, and caller location. Your telephone number, name, or address are not CPNI.
 
@@ -322,7 +324,7 @@ No further action is required to allow Gen Mobile to use your CPNI. We will assu
 
 **CDI is only disclosed in certain circumstances**
 
-You can gain access to CDI only in the following scenarios: (a) calling Gen Mobile Customer Care and authenticating your identity as the account owner; (b) requesting the CDI be mailed to the address of record; or (c) requesting a Gen Mobile representative call the telephone number of record for your account to disclose CDI.
+You can gain access to CDI only in the following scenarios: (a) calling Gen Mobile Customer Care and authenticating your identity as the account owner; (b) requesting the CDI be mailed to the address of record; or (c) requesting a Gen Mobile representative call the telephone number of record for your account to disclose CDI.
 
 **Notification of Account Changes**
 
@@ -330,7 +332,7 @@ Gen Mobile will notify you if any change is made to your account by sending a no
 
 **CPNI Breach Policy**
 
-Gen Mobile is required to notify law enforcement if Gen Mobile becomes aware of a breach of customer CPNI. Gen Mobile will also notify you of the breach following notification to law enforcement unless directed otherwise by the United States Secret Service or the FBI. 
+Gen Mobile is required to notify law enforcement if Gen Mobile becomes aware of a breach of customer CPNI. Gen Mobile will also notify you of the breach following notification to law enforcement unless directed otherwise by the United States Secret Service or the FBI.
 
 ![](//cdn.shopify.com/s/files/1/2954/7774/files/GenMobile-logo-red-v2_400x.png?v=1649179654)
 
