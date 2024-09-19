@@ -258,25 +258,25 @@ New York, NY 10001
 Top of Today
 ------------
 
-1. [![Left: Special counsel Jack Smith turns from the podium after speaking about an indictment of former President Donald Trump, Tuesday, Aug. 1, 2023, at a Department of Justice office in Washington (AP Photo/Jacquelyn Martin). Right: Republican presidential candidate, former President Donald Trump stands on stage at the Libertarian National Convention at the Washington Hilton in Washington, Saturday, May 25, 2024 (AP Photo/Jose Luis Magana).](https://am24.mediaite.com/lc/cnt/uploads/2024/05/Jack-Smith-Donald-Trump-432x243.jpg)](https://lawandcrime.com/high-profile/trump-blames-jack-smiths-jan-6-prosecution-as-reason-to-delay-briefing-in-mar-a-lago-case-appeal/)
+1. [![Samantha Krebs](https://am21.mediaite.com/lc/cnt/uploads/2024/09/Samantha-Krebs-432x243.jpg)](https://lawandcrime.com/crime/woman-kissed-dying-boyfriend-and-said-she-loved-him-after-begging-friends-to-just-tell-the-police-he-stabbed-himself-cops-say/)
     
-    ### [Trump blames Jack Smith's Jan. 6 prosecution as reason to delay briefing in Mar-a-Lago case appeal](https://lawandcrime.com/high-profile/trump-blames-jack-smiths-jan-6-prosecution-as-reason-to-delay-briefing-in-mar-a-lago-case-appeal/)
+    ### [Woman 'kissed' dying boyfriend and said she 'loved him' after begging friends to 'just tell the police he stabbed himself,' cops say](https://lawandcrime.com/crime/woman-kissed-dying-boyfriend-and-said-she-loved-him-after-begging-friends-to-just-tell-the-police-he-stabbed-himself-cops-say/)
     
-2. [![Left: Sean ](https://am22.mediaite.com/lc/cnt/uploads/2024/09/Sean-Combs-LA-Miami-homes-432x243.jpg)](https://lawandcrime.com/high-profile/the-presumption-has-not-been-rebutted-judge-rejects-sean-diddy-combs-demand-for-jail-release-as-attorney-vows-to-fight-to-the-end/)
+2. [![Mohamed Kamara and Joseph Syas](https://am22.mediaite.com/lc/cnt/uploads/2024/09/Mohamed-Kamara-and-Anthony-Syas-1-432x243.jpg)](https://lawandcrime.com/crime/id-blow-your-f-ing-head-off-emotional-families-lambaste-convicted-murderer-for-randomly-killing-2-men-for-no-apparent-reason/)
     
-    ### ['The presumption has not been rebutted': Judge rejects Sean 'Diddy' Combs' demand for jail release as attorney vows to 'fight to the end'](https://lawandcrime.com/high-profile/the-presumption-has-not-been-rebutted-judge-rejects-sean-diddy-combs-demand-for-jail-release-as-attorney-vows-to-fight-to-the-end/)
+    ### ['I'd blow your f---ing head off:' Emotional families lambaste convicted murderer for randomly killing 2 men for no apparent reason](https://lawandcrime.com/crime/id-blow-your-f-ing-head-off-emotional-families-lambaste-convicted-murderer-for-randomly-killing-2-men-for-no-apparent-reason/)
     
 3. [![Dakota Dodd appears inset on the left; Aubrianna Freeman appears inset on the right – against an image of the apartment complex where the couple's children were allegedly found covered in feces.](https://am22.mediaite.com/lc/cnt/uploads/2024/09/Dodd-Freeman-432x243.jpg)](https://lawandcrime.com/crime/dookie-all-over-their-face-hands-mouth-couple-arrested-after-multiple-children-allegedly-found-locked-up-in-completely-disgusting-apartment/)
     
     ### ['Dookie all over their face, hands, mouth': Couple arrested after multiple children allegedly found locked up in 'completely disgusting' apartment](https://lawandcrime.com/crime/dookie-all-over-their-face-hands-mouth-couple-arrested-after-multiple-children-allegedly-found-locked-up-in-completely-disgusting-apartment/)
     
-4. [![Jeffrey Epstein and Ghislaine Maxwell - Scooter](https://am24.mediaite.com/lc/cnt/uploads/2021/12/Epstein-and-Ghislaine-Maxwell-Scooter-432x243.jpg)](https://lawandcrime.com/live-trials/ghislaine-maxwell/ghislaine-maxwell-loses-appeal-of-sex-trafficking-convictions-as-jeffrey-epstein-deal-doesnt-save-her/)
+4. [![Daman Smith peeping tom](https://am24.mediaite.com/lc/cnt/uploads/2024/09/Damon-Smith-432x243.jpg)](https://lawandcrime.com/crime/i-got-something-for-you-angry-florida-dad-with-baseball-bat-chases-michael-myers-t-shirt-wearing-peeping-tom-peering-into-daughters-bedroom-window-cops-say/)
     
-    ### ['No errors': Jeffrey Epstein accomplice Ghislaine Maxwell loses appeal of sex trafficking convictions as infamous sweetheart deal doesn't save her](https://lawandcrime.com/live-trials/ghislaine-maxwell/ghislaine-maxwell-loses-appeal-of-sex-trafficking-convictions-as-jeffrey-epstein-deal-doesnt-save-her/)
+    ### ['I got something for you:' Angry Florida dad with baseball bat chases Michael Myers T-shirt-wearing peeping Tom peering into daughter's bedroom window, cops say](https://lawandcrime.com/crime/i-got-something-for-you-angry-florida-dad-with-baseball-bat-chases-michael-myers-t-shirt-wearing-peeping-tom-peering-into-daughters-bedroom-window-cops-say/)
     
-5. [![Mohamed Kamara and Joseph Syas](https://am22.mediaite.com/lc/cnt/uploads/2024/09/Mohamed-Kamara-and-Anthony-Syas-1-432x243.jpg)](https://lawandcrime.com/crime/id-blow-your-f-ing-head-off-emotional-families-lambaste-convicted-murderer-for-randomly-killing-2-men-for-no-apparent-reason/)
+5. [![Tiffanie Lucas with sons Jayden and Maurice](https://am24.mediaite.com/lc/cnt/uploads/2024/09/Lucas-432x243.jpg)](https://lawandcrime.com/crime/tiffanie-lucas-mom-charged-with-murdering-sons-claims-insanity-but-fit-to-stand-trial/)
     
-    ### ['I'd blow your f---ing head off:' Emotional families lambaste convicted murderer for randomly killing 2 men for no apparent reason](https://lawandcrime.com/crime/id-blow-your-f-ing-head-off-emotional-families-lambaste-convicted-murderer-for-randomly-killing-2-men-for-no-apparent-reason/)
+    ### [Mom who claimed she was 'so stupid' and shot 2 young sons in the head in bedroom by 'accident' now says she was legally insane](https://lawandcrime.com/crime/tiffanie-lucas-mom-charged-with-murdering-sons-claims-insanity-but-fit-to-stand-trial/)
     
 
 [](http://eepurl.com/c89Jdb)
