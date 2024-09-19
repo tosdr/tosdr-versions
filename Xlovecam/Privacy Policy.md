@@ -8,7 +8,7 @@ To find out whether your browser supports Javascript, or to allow scripts, see t
 
 [![XloveCam®](//medianew.wlresources.com/wl/xlovecam/logo-1663.png)](https://www.xlovecam.com/en/)
 
-* [Free Sex Cams (510)](https://www.xlovecam.com/en/)
+* [Free Sex Cams (730)](https://www.xlovecam.com/en/)
 * [Media](#)
     
     * [Pictures](https://www.xlovecam.com/en/photos/)
@@ -1387,6 +1387,8 @@ Follow XloveCam® :
 
 Designed & Powered by: General Platform services / E-Wallet services © 2006-2024  
 XloveCam®
+
+[Home](https://www.xlovecam.com/en/ "Home")[Search](https://www.xlovecam.com/en/#search "Search")[Messaging](https://www.xlovecam.com/en/messaging/ "Messaging")[Favourites](https://www.xlovecam.com/en/favorites/ "Favourites")[My account](https://www.xlovecam.com/en/user/ "My account")
 
 * [Join Now Free](https://www.xlovecam.com/en/register/)
 * [Log in](https://www.xlovecam.com/en/login/?from=menuTopRight)
