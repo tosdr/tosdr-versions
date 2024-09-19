@@ -1,7 +1,7 @@
   
-G FUEL REWARDS PROGRAM TERMS AND CONDITIONS                                                                                               
+G FUEL REWARDS PROGRAM TERMS AND CONDITIONS                                                                                                       
 
-[Skip to content](#MainContent) 
+[Skip to content](#MainContent)  
 
 Close menu
 
@@ -107,13 +107,15 @@ Close menu
 
   [![G FUEL](//gfuel.com/cdn/shop/files/GFL-FearFest-HEADER-logo_150x.png?v=1726160870) ![G FUEL](//gfuel.com/cdn/shop/files/GFL-FearFest-HEADER-logo_130x.png?v=1726160870)](https://gfuel.com/)[![G FUEL](//gfuel.com/cdn/shop/files/GFL-FearFest-HEADER-logo_150x.png?v=1726160870) ![G FUEL](//gfuel.com/cdn/shop/files/GFL-FearFest-HEADER-logo_130x.png?v=1726160870)](https://gfuel.com/)
 
-  ![Search Icon Black](//gfuel.com/cdn/shop/t/564/assets/fearfest-search-icon-black.png?v=145646052917047999211726684256)  Search  "Close (esc)"
+  ![Search Icon Black](//gfuel.com/cdn/shop/t/569/assets/fearfest-search-icon-black.png?v=70690630930442313831726768416)  Search  "Close (esc)"
 
 [](https://gfuel.com/products/hack-n-slash)
 
 [Jason’s back for Fear Fest! Hack N Slash has returned 🔪](https://gfuel.com/products/hack-n-slash)[SHOP NOW](https://gfuel.com/products/hack-n-slash)
 
 ### SEE HOTTEST PICKS 🔥
+
+ [![HYPE SAUCE](//gfuel.com/cdn/shop/files/hype-sauce-tub-g-fuel-gamer-drink-862064_medium.png?v=1705691117) HYPE SAUCE](https://gfuel.com/products/hype-sauce-tub)
 
  [![Watermelon](//gfuel.com/cdn/shop/files/watermelon-tub-g-fuel-gamer-drink-875896_medium.png?v=1719529787) Watermelon](https://gfuel.com/products/g-fuel-tub-watermelon)
 
@@ -128,8 +130,6 @@ Close menu
  [![Mega Man™ Blue Bomber Slushee](//gfuel.com/cdn/shop/products/mega-man-blue-bomber-slushee-tub-g-fuel-gamer-drink-734945_medium.png?v=1660319983) Mega Man™ Blue Bomber Slushee](https://gfuel.com/products/mega-man-tub)
 
  [![Naruto's Sage Mode](//gfuel.com/cdn/shop/files/narutos-sage-mode-tub-g-fuel-gamer-drink-976746_medium.png?v=1712710139) Naruto's Sage Mode](https://gfuel.com/products/narutos-sage-mode-tub)
-
- [![Blue Ice](//gfuel.com/cdn/shop/files/blue-ice-tub-g-fuel-gamer-drink-915115_medium.png?v=1715376483) Blue Ice](https://gfuel.com/products/g-fuel-tub-blue-ice)
 
 View more
 
@@ -200,7 +200,7 @@ View more
 * [Rewards](https://gfuel.com/pages/rewards)
 * [Flavor Quiz](https://gfuel.com/pages/flavor-quiz)
 
- [![Account Icon](//gfuel.com/cdn/shop/t/564/assets/fearfest-account-icon.png?v=76113951967063794631726684256) Log in](https://gfuel.com/account)[![Search Icon](//gfuel.com/cdn/shop/t/564/assets/fearfest-search-icon-black.png?v=145646052917047999211726684256) Search](https://gfuel.com/search)![Bloody Hamburger Menu Icon](//gfuel.com/cdn/shop/t/564/assets/bloody-hamburger-menu.png?v=100938276296294285901726684256) Site navigation [![Cart Icon](//gfuel.com/cdn/shop/t/564/assets/fearfest-cart-icon.png?v=118199243717223592911726684256) Cart](https://gfuel.com/cart)
+ [![Account Icon](//gfuel.com/cdn/shop/t/569/assets/fearfest-account-icon.png?v=50085873134992036791726768416) Log in](https://gfuel.com/account)[![Search Icon](//gfuel.com/cdn/shop/t/569/assets/fearfest-search-icon-black.png?v=70690630930442313831726768416) Search](https://gfuel.com/search)![Bloody Hamburger Menu Icon](//gfuel.com/cdn/shop/t/569/assets/bloody-hamburger-menu.png?v=86003260733675859121726768416) Site navigation [![Cart Icon](//gfuel.com/cdn/shop/t/569/assets/fearfest-cart-icon.png?v=54831520779337061261726768416) Cart](https://gfuel.com/cart)
 
   Search 
 
@@ -341,7 +341,6 @@ About
 * [Team G FUEL](https://gfuel.com/pages/team-gfuel)
 * [Event Calendar](https://gfuel.com/pages/calendar)
 * [Latest News](https://gfuel.com/blogs/news)
-* [Giveaways](https://gfuel.com/pages/giveaways-active)
 * [Reviews](https://gfuel.com/pages/reviews)
 * [Creator Community](https://www.kalecard.com/t/gfuel?ref=gfuel_footer)
 
@@ -373,7 +372,7 @@ DOWNLOAD THE APP
 
 EASY NAVIGATION - EXCLUSIVE DROPS - COOL ASF
 
- [![](//gfuel.com/cdn/shop/t/564/assets/app-store-badge.svg?v=123926581890561309811726684256)](https://apps.apple.com/app/g-fuel/id1205219305 "Download on the App Store")[![](//gfuel.com/cdn/shop/t/564/assets/google-play-badge.png?v=132395384020293405351726684256)](https://play.google.com/store/apps/details?id=com.aeron.shopifycore.gfuel "Get it on Google Play")
+ [![](//gfuel.com/cdn/shop/t/569/assets/app-store-badge.svg?v=123926581890561309811726768416)](https://apps.apple.com/app/g-fuel/id1205219305 "Download on the App Store")[![](//gfuel.com/cdn/shop/t/569/assets/google-play-badge.png?v=132395384020293405351726768416)](https://play.google.com/store/apps/details?id=com.aeron.shopifycore.gfuel "Get it on Google Play")
 
 The statements contained in this website have not been evaluated by the Food and Drug Administration (FDA). No statements shall be construed as a claim or representation of a diagnosis, treatment, cure, or prevention of any disease. No product listed in this website is intended to diagnose, treat, cure, or prevent any disease. Products are not intended for those with a medical condition, pregnant or nursing.
 
