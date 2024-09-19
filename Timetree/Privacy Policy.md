@@ -4,7 +4,7 @@
 * [Premium](https://timetreeapp.com/intl/en/premium)
 * [Support](https://support.timetreeapp.com/hc)
 * [Login](https://timetreeapp.com/signin)
-* [Create Account](https://timetreeapp.com/signup)
+* [Get started with TimeTree for free](https://timetreeapp.com/signup)
 
 TimeTree Privacy Policy
 =======================
@@ -106,7 +106,7 @@ The Company will post the amended privacy policy on our website or applications 
 10\. Inquiries
 --------------
 
-Any inquiry about this privacy policy may be communicated to [support@timetreeapp.com](https://timetreeapp.com/intl/[locale]/terms/support@timetreeapp.com)
+Any inquiry about this privacy policy may be communicated to [support@timetreeapp.com](https://timetreeapp.com/intl/en/terms/support@timetreeapp.com)
 
 11\. Additional information by country
 --------------------------------------
