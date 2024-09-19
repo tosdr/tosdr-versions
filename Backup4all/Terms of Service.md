@@ -139,15 +139,15 @@ We develop software that matters since 1999. These are our products: Backup4all/
 * [Forum](https://forum.backup4all.com/)
 * [Blog](https://blog.backup4all.com/)
 
-* [How to backup your data to Wasabi](https://www.backup4all.com/how-to-backup-your-data-to-wasabi-kb.html)  
+* [How to restore from Hitachi](https://www.backup4all.com/how-to-restore-from-hitachi-kb.html)  
     
-* [How to restore a backup job created with a Ba ...](https://www.backup4all.com/how-to-restore-a-backup-job-created-with-a-backup4all-plugin-kb.html)  
+* [How to restore a backup from Google Cloud Sto ...](https://www.backup4all.com/how-to-restore-a-backup-from-google-cloud-storage-kb.html)  
     
-* [What is a Mirror Backup?](https://www.backup4all.com/mirror-backup-kb.html)  
+* [How to activate Backup4all online](https://www.backup4all.com/how-to-activate-kb.html)  
     
-* [How to backup your data to HiDrive](https://www.backup4all.com/how-to-backup-your-data-to-hidrive-kb.html)  
+* [How to create a continuous backup](https://www.backup4all.com/how-to-create-a-continuous-backup-kb.html)  
     
-* [How to backup your data to Hitachi](https://www.backup4all.com/how-to-backup-your-data-to-hitachi-kb.html)  
+* [Partnerships - FAQ](https://www.backup4all.com/partnerships-faq-kb.html)  
     
 
 Choose language:
