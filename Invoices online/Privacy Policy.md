@@ -118,61 +118,57 @@ This policy is effective as of 29 June 2021.
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Support even on Sundays!
-> ------------------------
+> Fast, Accurate & Easy to Use
+> ----------------------------
 > 
-> Thanks Adriaan...
-> 
-> You guys even work on Sundays?
-> 
-> I’m impressed!!
+> Small Business Management System or SBMS, now rebranded as Invoices Online is an online invoicing system developed by the same guys that developed our site, we use it and honestly recommend it to all people who have dynamic sites, or want an online invoicing solution.  The invoicing application is fast, accurate, easy to use, and it really enhances the online experience of our clients.
 
-Johan Botha - Brand Xplosion
+Jannie Schutte - myFinance-Online.co.za
 
-![valued client Kaylas Creations](https://www.invoicesonline.co.za/scripts/image.php?bid=7957&file=logo_300_100&type=&fe=2d72b09cb8a4133a1d9a1ec9afd5859c7c23240250f9a542bd89fec27f53fc8b&c=58670461)  
-Kaylas Creations
+![valued client Kinetic Power Solutions (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=8094&file=logo_300_100&type=&fe=a34f658311540043ad92436a0e0aa50fbfcf072ff7f3bbfc272249eb27551cce&c=10994668)  
+Kinetic Power Solutions (Pty) Ltd.
 
-![valued client Frequency Fanatics (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8558&file=logo_300_100&type=&fe=2d72b09cb8a4133a1d9a1ec9afd5859c7c23240250f9a542bd89fec27f53fc8b&c=87541643)  
-Frequency Fanatics (Pty) Ltd
-
-![valued client De light Investments(Pty)Ltd trading as Serene Memorials](https://www.invoicesonline.co.za/scripts/image.php?bid=6723&file=logo_300_100&type=&fe=2d72b09cb8a4133a1d9a1ec9afd5859c7c23240250f9a542bd89fec27f53fc8b&c=205161324)  
-De light Investments(Pty)Ltd trading as Serene Memorials
-
-![valued client Prosper Park](https://www.invoicesonline.co.za/scripts/image.php?bid=8286&file=logo_300_100&type=&fe=2d72b09cb8a4133a1d9a1ec9afd5859c7c23240250f9a542bd89fec27f53fc8b&c=175683629)  
-Prosper Park
-
-![valued client Website Café (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=4081&file=logo_300_100&type=&fe=2d72b09cb8a4133a1d9a1ec9afd5859c7c23240250f9a542bd89fec27f53fc8b&c=78740561)  
-Website Café (PTY) LTD
-
-![valued client SLOANE STAR MEAT MARKET](https://www.invoicesonline.co.za/scripts/image.php?bid=1748&file=logo_300_100&type=&fe=2d72b09cb8a4133a1d9a1ec9afd5859c7c23240250f9a542bd89fec27f53fc8b&c=12238247)  
-SLOANE STAR MEAT MARKET
-
-![valued client Know Informatics](https://www.invoicesonline.co.za/scripts/image.php?bid=6598&file=logo_300_100&type=&fe=2d72b09cb8a4133a1d9a1ec9afd5859c7c23240250f9a542bd89fec27f53fc8b&c=206491509)  
-Know Informatics
-
-![valued client Sarabi ](https://www.invoicesonline.co.za/scripts/image.php?bid=5430&file=logo_300_100&type=&fe=2d72b09cb8a4133a1d9a1ec9afd5859c7c23240250f9a542bd89fec27f53fc8b&c=34014593)  
-Sarabi
-
-![valued client MONSTER SECURITY SERVICES](https://www.invoicesonline.co.za/scripts/image.php?bid=5438&file=logo_300_100&type=&fe=2d72b09cb8a4133a1d9a1ec9afd5859c7c23240250f9a542bd89fec27f53fc8b&c=40180855)  
-MONSTER SECURITY SERVICES
-
-![valued client Karino Merinos ( PTY ) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2349&file=logo_300_100&type=&fe=2d72b09cb8a4133a1d9a1ec9afd5859c7c23240250f9a542bd89fec27f53fc8b&c=115674354)  
-Karino Merinos ( PTY ) LTD
-
-![valued client Henry's Home Renovations](https://www.invoicesonline.co.za/scripts/image.php?bid=1221&file=logo_300_100&type=&fe=2d72b09cb8a4133a1d9a1ec9afd5859c7c23240250f9a542bd89fec27f53fc8b&c=44483972)  
-Henry's Home Renovations
-
-![valued client Import Maaw](https://www.invoicesonline.co.za/scripts/image.php?bid=6159&file=logo_300_100&type=&fe=2d72b09cb8a4133a1d9a1ec9afd5859c7c23240250f9a542bd89fec27f53fc8b&c=15579911)  
+![valued client Import Maaw](https://www.invoicesonline.co.za/scripts/image.php?bid=6159&file=logo_300_100&type=&fe=a34f658311540043ad92436a0e0aa50fbfcf072ff7f3bbfc272249eb27551cce&c=145971540)  
 Import Maaw
 
-![valued client Nogana Events and Decor](https://www.invoicesonline.co.za/scripts/image.php?bid=3755&file=logo_300_100&type=&fe=2d72b09cb8a4133a1d9a1ec9afd5859c7c23240250f9a542bd89fec27f53fc8b&c=7871497)  
-Nogana Events and Decor
+![valued client kidoscabbie](https://www.invoicesonline.co.za/scripts/image.php?bid=4488&file=logo_300_100&type=&fe=a34f658311540043ad92436a0e0aa50fbfcf072ff7f3bbfc272249eb27551cce&c=51259377)  
+kidoscabbie
 
-![valued client Chiron Medical Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=6720&file=logo_300_100&type=&fe=2d72b09cb8a4133a1d9a1ec9afd5859c7c23240250f9a542bd89fec27f53fc8b&c=123852440)  
-Chiron Medical Solutions
+![valued client Salt & Pepper Guest Accommodation (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=8332&file=logo_300_100&type=&fe=a34f658311540043ad92436a0e0aa50fbfcf072ff7f3bbfc272249eb27551cce&c=142988833)  
+Salt & Pepper Guest Accommodation (Pty) Ltd.
 
-![valued client Baby Toddles Infant Care](https://www.invoicesonline.co.za/scripts/image.php?bid=343&file=logo_300_100&type=&fe=2d72b09cb8a4133a1d9a1ec9afd5859c7c23240250f9a542bd89fec27f53fc8b&c=39581202)  
-Baby Toddles Infant Care
+![valued client NIMAWELL  ](https://www.invoicesonline.co.za/scripts/image.php?bid=6419&file=logo_300_100&type=&fe=a34f658311540043ad92436a0e0aa50fbfcf072ff7f3bbfc272249eb27551cce&c=9666147)  
+NIMAWELL
+
+![valued client Waterfinatics Swim School](https://www.invoicesonline.co.za/scripts/image.php?bid=2587&file=logo_300_100&type=&fe=a34f658311540043ad92436a0e0aa50fbfcf072ff7f3bbfc272249eb27551cce&c=95939210)  
+Waterfinatics Swim School
+
+![valued client Nilbet T/A Waterman](https://www.invoicesonline.co.za/scripts/image.php?bid=4407&file=logo_300_100&type=&fe=a34f658311540043ad92436a0e0aa50fbfcf072ff7f3bbfc272249eb27551cce&c=18719314)  
+Nilbet T/A Waterman
+
+![valued client UMVIKELI PRIVATE SECURITY](https://www.invoicesonline.co.za/scripts/image.php?bid=7357&file=logo_300_100&type=&fe=a34f658311540043ad92436a0e0aa50fbfcf072ff7f3bbfc272249eb27551cce&c=59403668)  
+UMVIKELI PRIVATE SECURITY
+
+![valued client Konsortium Operations ( Roamfree Meats )](https://www.invoicesonline.co.za/scripts/image.php?bid=2819&file=logo_300_100&type=&fe=a34f658311540043ad92436a0e0aa50fbfcf072ff7f3bbfc272249eb27551cce&c=56523066)  
+Konsortium Operations ( Roamfree Meats )
+
+![valued client Oak Tree Immigration](https://www.invoicesonline.co.za/scripts/image.php?bid=6695&file=logo_300_100&type=&fe=a34f658311540043ad92436a0e0aa50fbfcf072ff7f3bbfc272249eb27551cce&c=75576081)  
+Oak Tree Immigration
+
+![valued client Mountain Lion Properties](https://www.invoicesonline.co.za/scripts/image.php?bid=4949&file=logo_300_100&type=&fe=a34f658311540043ad92436a0e0aa50fbfcf072ff7f3bbfc272249eb27551cce&c=89569491)  
+Mountain Lion Properties
+
+![valued client Tracknetics](https://www.invoicesonline.co.za/scripts/image.php?bid=8211&file=logo_300_100&type=&fe=a34f658311540043ad92436a0e0aa50fbfcf072ff7f3bbfc272249eb27551cce&c=79112690)  
+Tracknetics
+
+![valued client United Paintball Federation](https://www.invoicesonline.co.za/scripts/image.php?bid=7016&file=logo_300_100&type=&fe=a34f658311540043ad92436a0e0aa50fbfcf072ff7f3bbfc272249eb27551cce&c=190715953)  
+United Paintball Federation
+
+![valued client #DiGi3 Marketing & Design](https://www.invoicesonline.co.za/scripts/image.php?bid=3234&file=logo_300_100&type=&fe=a34f658311540043ad92436a0e0aa50fbfcf072ff7f3bbfc272249eb27551cce&c=167433192)  
+#DiGi3 Marketing & Design
+
+![valued client MONSTER CONNECT (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=6772&file=logo_300_100&type=&fe=a34f658311540043ad92436a0e0aa50fbfcf072ff7f3bbfc272249eb27551cce&c=147807611)  
+MONSTER CONNECT (PTY) LTD
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
