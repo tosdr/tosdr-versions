@@ -315,9 +315,9 @@ Toggle navigation
     
     ##### Promoted Content
     
+    * [A Roadmap to Resilience: Building a Healthier Europe Through Investment in Mental Health](https://www.euractiv.com/section/health-consumers/opinion/a-roadmap-to-resilience-building-a-healthier-europe-through-investment-in-mental-health/)
     * [Hidden Heroes: How microorganisms are shaping Europe’s future](https://www.euractiv.com/section/health-consumers/opinion/hidden-heroes-how-microorganisms-are-shaping-europes-future/)
     * [Unlocking Access: Implementing Innovative Policies to Remove Barriers to Fertility Treatment](https://www.euractiv.com/section/health-consumers/opinion/unlocking-access-implementing-innovative-policies-to-remove-barriers-to-fertility-treatment/)
-    * [Inclusion is still a problem in museums, an app is trying to fill the gap](https://www.euractiv.com/section/digital/opinion/inclusion-is-still-a-problem-in-museums-an-app-is-trying-to-fill-the-gap/)
     
 * [Politics](https://www.euractiv.com/sections/politics/)
     
@@ -821,10 +821,10 @@ If you have any questions about this Privacy Policy, please contact us:
 * 4[EU Commission rebuffs car industry calls to delay CO2 targets](http://en.euractiv.eu/section/electric-cars/news/eu-commission-rebuffs-car-industry-calls-to-delay-co2-targets/?utm_source=website&utm_campaign=popular)
 * 5[Von der Leyen unveils EU Commission top jobs, with some surprises](http://en.euractiv.eu/section/politics/news/von-der-leyen-unveils-eu-commission-top-jobs-with-some-surprises/?utm_source=website&utm_campaign=popular) 
 * 6[European competitiveness in the energy transition: Shell's views for the next EU cycle](http://en.euractiv.eu/section/energy-environment/opinion/european-competitiveness-in-the-energy-transition-shells-views-for-the-next-eu-cycle/?utm_source=website&utm_campaign=popular)
-* 7[Intel halts plans for flagship factories in Germany, Poland amid financial woes](http://en.euractiv.eu/section/industrial-strategy/news/intel-halts-plans-for-flagship-factories-in-germany-poland-amid-financial-woes/?utm_source=website&utm_campaign=popular)
-* 8[Fake Kamala hit-and-run story is the work of Russian propaganda group, Microsoft says](http://en.euractiv.eu/section/global-europe/news/fake-kamala-hit-and-run-story-is-the-work-of-russian-propaganda-group-microsoft-says/?utm_source=website&utm_campaign=popular)
-* 9[Slovenia's Kos takes enlargement file as Ljubljana manoeuvres itself into portfolio upgrade](http://en.euractiv.eu/section/enlargement-neighbourhood/news/slovenias-kos-takes-enlargement-file-as-ljubljana-manoeuvres-itself-into-portfolio-upgrade/?utm_source=website&utm_campaign=popular)
-* 10[Stéphane Séjourné’s nomination brings key Macron ally to European Commission](http://en.euractiv.eu/section/politics/news/stephane-sejournes-nomination-brings-key-macron-ally-to-european-commission/?utm_source=website&utm_campaign=popular)
+* 7[Fake Kamala hit-and-run story is the work of Russian propaganda group, Microsoft says](http://en.euractiv.eu/section/global-europe/news/fake-kamala-hit-and-run-story-is-the-work-of-russian-propaganda-group-microsoft-says/?utm_source=website&utm_campaign=popular)
+* 8[Intel halts plans for flagship factories in Germany, Poland amid financial woes](http://en.euractiv.eu/section/industrial-strategy/news/intel-halts-plans-for-flagship-factories-in-germany-poland-amid-financial-woes/?utm_source=website&utm_campaign=popular)
+* 9[Von der Leyen plans five more years of intense energy and climate rule-making](http://en.euractiv.eu/section/energy-environment/news/von-der-leyen-plans-five-more-years-of-intense-energy-and-climate-rule-making/?utm_source=website&utm_campaign=popular)
+* 10[Slovenia's Kos takes enlargement file as Ljubljana manoeuvres itself into portfolio upgrade](http://en.euractiv.eu/section/enlargement-neighbourhood/news/slovenias-kos-takes-enlargement-file-as-ljubljana-manoeuvres-itself-into-portfolio-upgrade/?utm_source=website&utm_campaign=popular)
 
 ###### Advertisement
 
