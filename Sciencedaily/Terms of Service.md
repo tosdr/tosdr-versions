@@ -229,6 +229,8 @@ this hour
 
 * * *
 
+* [Genetic Tracing Supports COVID Animal Origins](https://www.sciencedaily.com/releases/2024/09/240919115136.htm)
+* [Early Dingoes Are Related to Dogs](https://www.sciencedaily.com/releases/2024/09/240918124929.htm)
 * [World's Last 'Snowball Earth' Event](https://www.sciencedaily.com/releases/2024/09/240918165736.htm)
 * [Diabetes Drug: Less Risk of Dementia, ...](https://www.sciencedaily.com/releases/2024/09/240918165739.htm)
 * [CVD Risk and Metal Exposure](https://www.sciencedaily.com/releases/2024/09/240918125039.htm)
@@ -237,8 +239,6 @@ this hour
 * [Magnifying Deep Space Through 'Carousel Lens'](https://www.sciencedaily.com/releases/2024/09/240918125107.htm)
 * [Gargantuan Black Hole Jets Are Biggest Yet](https://www.sciencedaily.com/releases/2024/09/240918125024.htm)
 * [Galactic Collisions](https://www.sciencedaily.com/releases/2024/09/240918125013.htm)
-* ['Scuba-Diving' Lizards Breathe Underwater](https://www.sciencedaily.com/releases/2024/09/240917195405.htm)
-* [New Fossil Fish On Plate Tectonics Map](https://www.sciencedaily.com/releases/2024/09/240912135836.htm)
 
 Trending Topics
 ---------------
@@ -251,25 +251,25 @@ this week
 
 [Obesity](https://www.sciencedaily.com/news/health_medicine/obesity/)
 
-[Immune System](https://www.sciencedaily.com/news/health_medicine/immune_system/)
+[Chronic Illness](https://www.sciencedaily.com/news/health_medicine/chronic_illness/)
 
-[Cholesterol](https://www.sciencedaily.com/news/health_medicine/cholesterol/)
+[Nutrition](https://www.sciencedaily.com/news/health_medicine/nutrition/)
 
 [PHYSICAL & TECH](https://www.sciencedaily.com/news/top/technology/)
 
-[Organic Chemistry](https://www.sciencedaily.com/news/matter_energy/organic_chemistry/)
+[Black Holes](https://www.sciencedaily.com/news/space_time/black_holes/)
 
-[Biochemistry](https://www.sciencedaily.com/news/matter_energy/biochemistry/)
+[Graphene](https://www.sciencedaily.com/news/matter_energy/graphene/)
 
 [Astrophysics](https://www.sciencedaily.com/news/space_time/astrophysics/)
 
 [ENVIRONMENT](https://www.sciencedaily.com/news/top/environment/)
 
-[Organic](https://www.sciencedaily.com/news/plants_animals/organic/)
+[New Species](https://www.sciencedaily.com/news/plants_animals/new_species/)
 
-[Nature](https://www.sciencedaily.com/news/plants_animals/nature/)
+[Geography](https://www.sciencedaily.com/news/earth_climate/geography/)
 
-[Global Warming](https://www.sciencedaily.com/news/earth_climate/global_warming/)
+[Dogs](https://www.sciencedaily.com/news/plants_animals/dogs/)
 
   
 
