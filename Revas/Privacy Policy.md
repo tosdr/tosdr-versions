@@ -292,8 +292,6 @@ t.[(48) 536 488 306](tel:+48536488306)
 
 X
 
-12819
-
 Take a look inside
 
 Choose a game
@@ -415,8 +413,6 @@ International School of Budapest
 
 ×
 
-12886
-
 Did you like what you saw?
 
 ![Marzena Karpiak](/wp-content/uploads/2021/10/m_karpiak.png "Marzena Karpiak")
@@ -518,13 +514,9 @@ Liczba uczestników: 100Symulacja: Biuro podróży
 
 ×
 
-13067
-
 Watch the video
 
 ×
-
-12959
 
 Need more information?
 
@@ -547,8 +539,6 @@ This site is protected by reCAPTCHA and the Google [Privacy Policy](https://poli
 I agree to the processing of my personal data by REVAS Sp. z o.o. based in Rzeszów to contact me at my request in accordance with the [Privacy Policy](https://www.revas.online/en/privacy-policy/). I know that consent is voluntary.\*
 
 ×
-
-12953
 
 Did you like what you saw?
 
@@ -588,8 +578,6 @@ I agree to the processing of my personal data by REVAS Sp. z o.o. based in Rzesz
 
 X
 
-12943
-
 Did you like what you saw?
 
 Leave us your details
@@ -615,8 +603,6 @@ Lecturer
 Cardinal Stefan Wyszyński University in Warsaw
 
 ×
-
-6816
 
 Datenschutzerklärung
 
@@ -752,8 +738,6 @@ Mit der Nutzung unserer Webseite willigen Sie in die vorab beschriebene Datenver
 Wir behalten uns das Recht vor, diese Datenschutzerklärung jederzeit unter Beachtung der geltenden Datenschutzvorschriften mit Wirkung für die Zukunft zu ändern. Die Änderungen werden wir an dieser Stelle veröffentlichen.
 
 x
-
-6825
 
 Privacy policy
 
