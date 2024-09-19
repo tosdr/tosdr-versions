@@ -105,13 +105,13 @@ Trending Posts
 * [The Harris-Trump debate was a slap in the face to us all](https://therealnews.com/the-harris-trump-debate-was-a-slap-in-the-face-to-us-all)
 * [In 8 days, Missouri could execute an innocent man](https://therealnews.com/in-8-days-missouri-could-execute-an-innocent-man)
 * [Defending Trump may seem absurd—I spoke to a Black woman who does it every day](https://therealnews.com/defending-trump-may-seem-absurd-i-spoke-to-a-black-woman-who-does-it-every-day)
-* [Black, conservative, and unapologetic: A deep dive with the Black women fighting to get Trump reelected](https://therealnews.com/black-conservative-and-unapologetic-a-deep-dive-with-the-black-women-fighting-to-get-trump-reelected)
-* [Harris clobbered Trump in the debate—but does it matter?](https://therealnews.com/harris-clobbered-trump-in-the-debate-but-does-it-matter)
 * [Into the maelstrom: Can French democracy survive its political crisis?](https://therealnews.com/into-the-maelstrom-can-french-democracy-survive-its-political-crisis)
+* [Black, conservative, and unapologetic: A deep dive with the Black women fighting to get Trump reelected](https://therealnews.com/black-conservative-and-unapologetic-a-deep-dive-with-the-black-women-fighting-to-get-trump-reelected)
 * [Cops cuffed her for failing to signal, but a camera turned their plan upside down](https://therealnews.com/cops-cuffed-her-for-failing-to-signal-but-a-camera-turned-their-plan-upside-down)
+* [Harris clobbered Trump in the debate—but does it matter?](https://therealnews.com/harris-clobbered-trump-in-the-debate-but-does-it-matter)
 * [The latest theories on how Rey Rivera died don't point to the rooftop](https://therealnews.com/the-latest-theories-on-how-rey-rivera-died-dont-point-to-the-rooftop)
 * [Unmarked Sacramento gang unit cops stop, arrest father and child at gunpoint](https://therealnews.com/unmarked-sacramento-gang-unit-cops-stop-arrest-father-and-child-at-gunpoint)
-* [Is anyone in power responsible for anything?](https://therealnews.com/is-anyone-in-power-responsible-for-anything)
+* [California is about to execute an innocent Black man](https://therealnews.com/california-is-about-to-execute-an-innocent-black-man)
 
 Close
 
@@ -169,13 +169,13 @@ Trending Posts
 * [The Harris-Trump debate was a slap in the face to us all](https://therealnews.com/the-harris-trump-debate-was-a-slap-in-the-face-to-us-all)
 * [In 8 days, Missouri could execute an innocent man](https://therealnews.com/in-8-days-missouri-could-execute-an-innocent-man)
 * [Defending Trump may seem absurd—I spoke to a Black woman who does it every day](https://therealnews.com/defending-trump-may-seem-absurd-i-spoke-to-a-black-woman-who-does-it-every-day)
-* [Black, conservative, and unapologetic: A deep dive with the Black women fighting to get Trump reelected](https://therealnews.com/black-conservative-and-unapologetic-a-deep-dive-with-the-black-women-fighting-to-get-trump-reelected)
-* [Harris clobbered Trump in the debate—but does it matter?](https://therealnews.com/harris-clobbered-trump-in-the-debate-but-does-it-matter)
 * [Into the maelstrom: Can French democracy survive its political crisis?](https://therealnews.com/into-the-maelstrom-can-french-democracy-survive-its-political-crisis)
+* [Black, conservative, and unapologetic: A deep dive with the Black women fighting to get Trump reelected](https://therealnews.com/black-conservative-and-unapologetic-a-deep-dive-with-the-black-women-fighting-to-get-trump-reelected)
 * [Cops cuffed her for failing to signal, but a camera turned their plan upside down](https://therealnews.com/cops-cuffed-her-for-failing-to-signal-but-a-camera-turned-their-plan-upside-down)
+* [Harris clobbered Trump in the debate—but does it matter?](https://therealnews.com/harris-clobbered-trump-in-the-debate-but-does-it-matter)
 * [The latest theories on how Rey Rivera died don't point to the rooftop](https://therealnews.com/the-latest-theories-on-how-rey-rivera-died-dont-point-to-the-rooftop)
 * [Unmarked Sacramento gang unit cops stop, arrest father and child at gunpoint](https://therealnews.com/unmarked-sacramento-gang-unit-cops-stop-arrest-father-and-child-at-gunpoint)
-* [Is anyone in power responsible for anything?](https://therealnews.com/is-anyone-in-power-responsible-for-anything)
+* [California is about to execute an innocent Black man](https://therealnews.com/california-is-about-to-execute-an-innocent-black-man)
 
 [Skip to content](#main)
 
@@ -368,13 +368,13 @@ Trending Posts
 * [The Harris-Trump debate was a slap in the face to us all](https://therealnews.com/the-harris-trump-debate-was-a-slap-in-the-face-to-us-all)
 * [In 8 days, Missouri could execute an innocent man](https://therealnews.com/in-8-days-missouri-could-execute-an-innocent-man)
 * [Defending Trump may seem absurd—I spoke to a Black woman who does it every day](https://therealnews.com/defending-trump-may-seem-absurd-i-spoke-to-a-black-woman-who-does-it-every-day)
-* [Black, conservative, and unapologetic: A deep dive with the Black women fighting to get Trump reelected](https://therealnews.com/black-conservative-and-unapologetic-a-deep-dive-with-the-black-women-fighting-to-get-trump-reelected)
-* [Harris clobbered Trump in the debate—but does it matter?](https://therealnews.com/harris-clobbered-trump-in-the-debate-but-does-it-matter)
 * [Into the maelstrom: Can French democracy survive its political crisis?](https://therealnews.com/into-the-maelstrom-can-french-democracy-survive-its-political-crisis)
+* [Black, conservative, and unapologetic: A deep dive with the Black women fighting to get Trump reelected](https://therealnews.com/black-conservative-and-unapologetic-a-deep-dive-with-the-black-women-fighting-to-get-trump-reelected)
 * [Cops cuffed her for failing to signal, but a camera turned their plan upside down](https://therealnews.com/cops-cuffed-her-for-failing-to-signal-but-a-camera-turned-their-plan-upside-down)
+* [Harris clobbered Trump in the debate—but does it matter?](https://therealnews.com/harris-clobbered-trump-in-the-debate-but-does-it-matter)
 * [The latest theories on how Rey Rivera died don't point to the rooftop](https://therealnews.com/the-latest-theories-on-how-rey-rivera-died-dont-point-to-the-rooftop)
 * [Unmarked Sacramento gang unit cops stop, arrest father and child at gunpoint](https://therealnews.com/unmarked-sacramento-gang-unit-cops-stop-arrest-father-and-child-at-gunpoint)
-* [Is anyone in power responsible for anything?](https://therealnews.com/is-anyone-in-power-responsible-for-anything)
+* [California is about to execute an innocent Black man](https://therealnews.com/california-is-about-to-execute-an-innocent-black-man)
 
 [![The Real News Network](https://i0.wp.com/therealnews.com/wp-content/uploads/2022/08/lockup-duochrome-bright-1.png?fit=3000%2C595&ssl=1)](https://therealnews.com/)
 
