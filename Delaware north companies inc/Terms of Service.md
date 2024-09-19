@@ -75,7 +75,6 @@ Buffalo, New York 14202 USA
 * [Facebook account of Delaware North Facebook Logo](https://www.facebook.com/DelawareNorth)
 * [LinkedIn account of Delaware North Linkedin Logo](https://www.linkedin.com/company/delaware-north/)
 * [YouTube account of Delaware North Youtube Logo](https://www.youtube.com/user/delawarenorth)
-* [Twitter account of Delaware North X (formerly Twitter) Logo](https://twitter.com/delawarenorth)
 * [Instagram account of Delaware North Instagram Logo](https://www.instagram.com/delawarenorth/)
 
 Company
