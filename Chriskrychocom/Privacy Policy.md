@@ -78,10 +78,12 @@ All content is copyright Chris Krycho, 2019 – 2024 under a [Creative Commo
 1. Longtime readers may recall (and new readers may be curious about) my [deep frustrations with this situation](https://v4.chriskrycho.com/2019/cronos-follow-up.html). Nothing there has changed — but I ended up paying for Adobe’s Lightroom package when I [picked back up photography](https://v4.chriskrycho.com/2019/photography-ing-again.html), and it comes bundled. So here we are. [↩︎](#fnref1)
     
 
+* [Services](https://v5.chriskrycho.com/services/)
+* * * *
+    
 * [Essays](https://v5.chriskrycho.com/essays/)
 * [Journal](https://v5.chriskrycho.com/journal/)
 * [Library](https://v5.chriskrycho.com/library/)
-* [Photos](https://glass.photo/chriskrycho)
 * [Elsewhere](https://v5.chriskrycho.com/elsewhere/)
 * * * *
     
