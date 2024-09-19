@@ -118,62 +118,56 @@ This policy is effective as of 29 June 2021.
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Impossible to run our businesses without IO
-> -------------------------------------------
+> Fast, Accurate & Easy to Use
+> ----------------------------
 > 
-> IO is an integral part of our day to day business. It allows me complete control and overview functionality, while still enabling franchise owners to run their various franchises without interruption.  
->   
-> At Storietyd.co.za - a bookclub for Afrikaans children, with thousands of members - all our billing is automated, automated invoices, automated debit orders, automated payment allocation, and so forth. Administration would be an absolute nightmare without IO.  
->   
-> We are suppliers of bulk educational products to schools, our reps in the field use IO for quotes, invoicing and managing debtors, directly from their smartphones / tablets.  
->   
-> We are extremely satisfied with Invoices Online, and would certainly recommend that you try it out.
+> Small Business Management System or SBMS, now rebranded as Invoices Online is an online invoicing system developed by the same guys that developed our site, we use it and honestly recommend it to all people who have dynamic sites, or want an online invoicing solution.  The invoicing application is fast, accurate, easy to use, and it really enhances the online experience of our clients.
 
-Kobus Venter
+Jannie Schutte - myFinance-Online.co.za
 
-![valued client Moving Made Easy (PTY) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8622&file=logo_300_100&type=&fe=0dabdc1819143d88c2f60461b66ba657cd4945b4ac2210aefc0a6f73a9fcee92&c=111518889)  
-Moving Made Easy (PTY) Ltd
+![valued client Know Informatics](https://www.invoicesonline.co.za/scripts/image.php?bid=6598&file=logo_300_100&type=&fe=7e698c7053946fb06f50c254c35933ae4513f07282413d9f7ea1ff5f525fdcb1&c=55432250)  
+Know Informatics
 
-![valued client MR Compressors& Industrial Supplies](https://www.invoicesonline.co.za/scripts/image.php?bid=7893&file=logo_300_100&type=&fe=0dabdc1819143d88c2f60461b66ba657cd4945b4ac2210aefc0a6f73a9fcee92&c=8113161)  
-MR Compressors& Industrial Supplies
+![valued client Stevens Consulting](https://www.invoicesonline.co.za/scripts/image.php?bid=5551&file=logo_300_100&type=&fe=7e698c7053946fb06f50c254c35933ae4513f07282413d9f7ea1ff5f525fdcb1&c=17210712)  
+Stevens Consulting
 
-![valued client Import Maaw](https://www.invoicesonline.co.za/scripts/image.php?bid=6159&file=logo_300_100&type=&fe=0dabdc1819143d88c2f60461b66ba657cd4945b4ac2210aefc0a6f73a9fcee92&c=35578477)  
+![valued client Electro-Heat](https://www.invoicesonline.co.za/scripts/image.php?bid=8547&file=logo_300_100&type=&fe=7e698c7053946fb06f50c254c35933ae4513f07282413d9f7ea1ff5f525fdcb1&c=122797649)  
+Electro-Heat
+
+![valued client Durbanville Classifieds (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8122&file=logo_300_100&type=&fe=7e698c7053946fb06f50c254c35933ae4513f07282413d9f7ea1ff5f525fdcb1&c=49769192)  
+Durbanville Classifieds (Pty) Ltd
+
+![valued client Repairs In Motion](https://www.invoicesonline.co.za/scripts/image.php?bid=6788&file=logo_300_100&type=&fe=7e698c7053946fb06f50c254c35933ae4513f07282413d9f7ea1ff5f525fdcb1&c=31515884)  
+Repairs In Motion
+
+![valued client Import Maaw](https://www.invoicesonline.co.za/scripts/image.php?bid=6159&file=logo_300_100&type=&fe=7e698c7053946fb06f50c254c35933ae4513f07282413d9f7ea1ff5f525fdcb1&c=91000500)  
 Import Maaw
 
-![valued client MONSTER CONNECT (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=6772&file=logo_300_100&type=&fe=0dabdc1819143d88c2f60461b66ba657cd4945b4ac2210aefc0a6f73a9fcee92&c=161446714)  
-MONSTER CONNECT (PTY) LTD
+![valued client United Paintball Federation](https://www.invoicesonline.co.za/scripts/image.php?bid=7016&file=logo_300_100&type=&fe=7e698c7053946fb06f50c254c35933ae4513f07282413d9f7ea1ff5f525fdcb1&c=192478091)  
+United Paintball Federation
 
-![valued client Adele Jordaan T/A Joyful Noise Music Room](https://www.invoicesonline.co.za/scripts/image.php?bid=7958&file=logo_300_100&type=&fe=0dabdc1819143d88c2f60461b66ba657cd4945b4ac2210aefc0a6f73a9fcee92&c=52709278)  
-Adele Jordaan T/A Joyful Noise Music Room
+![valued client KTEN PARTS](https://www.invoicesonline.co.za/scripts/image.php?bid=7612&file=logo_300_100&type=&fe=7e698c7053946fb06f50c254c35933ae4513f07282413d9f7ea1ff5f525fdcb1&c=1550444)  
+KTEN PARTS
 
-![valued client Iurus Inc ](https://www.invoicesonline.co.za/scripts/image.php?bid=6286&file=logo_300_100&type=&fe=0dabdc1819143d88c2f60461b66ba657cd4945b4ac2210aefc0a6f73a9fcee92&c=113097779)  
-Iurus Inc
+![valued client FJW Security Cc](https://www.invoicesonline.co.za/scripts/image.php?bid=1343&file=logo_300_100&type=&fe=7e698c7053946fb06f50c254c35933ae4513f07282413d9f7ea1ff5f525fdcb1&c=86690228)  
+FJW Security Cc
 
-![valued client Lily Fern & Co](https://www.invoicesonline.co.za/scripts/image.php?bid=7678&file=logo_300_100&type=&fe=0dabdc1819143d88c2f60461b66ba657cd4945b4ac2210aefc0a6f73a9fcee92&c=46464262)  
-Lily Fern & Co
+![valued client AMS Ambu Medical Supplies ](https://www.invoicesonline.co.za/scripts/image.php?bid=4689&file=logo_300_100&type=&fe=7e698c7053946fb06f50c254c35933ae4513f07282413d9f7ea1ff5f525fdcb1&c=204900134)  
+AMS Ambu Medical Supplies
 
-![valued client FRAMED BY ANTON (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=2146&file=logo_300_100&type=&fe=0dabdc1819143d88c2f60461b66ba657cd4945b4ac2210aefc0a6f73a9fcee92&c=158551559)  
-FRAMED BY ANTON (Pty) Ltd.
+![valued client Bchange Online CC](https://www.invoicesonline.co.za/scripts/image.php?bid=8330&file=logo_300_100&type=&fe=7e698c7053946fb06f50c254c35933ae4513f07282413d9f7ea1ff5f525fdcb1&c=45501864)  
+Bchange Online CC
 
-![valued client OXYAIDER (PTY) LTD ](https://www.invoicesonline.co.za/scripts/image.php?bid=7574&file=logo_300_100&type=&fe=0dabdc1819143d88c2f60461b66ba657cd4945b4ac2210aefc0a6f73a9fcee92&c=86034808)  
-OXYAIDER (PTY) LTD
+![valued client Westside Car Audio CC](https://www.invoicesonline.co.za/scripts/image.php?bid=7028&file=logo_300_100&type=&fe=7e698c7053946fb06f50c254c35933ae4513f07282413d9f7ea1ff5f525fdcb1&c=100956569)  
+Westside Car Audio CC
 
-![valued client NIMAWELL  ](https://www.invoicesonline.co.za/scripts/image.php?bid=6419&file=logo_300_100&type=&fe=0dabdc1819143d88c2f60461b66ba657cd4945b4ac2210aefc0a6f73a9fcee92&c=5432822)  
-NIMAWELL
+![valued client Tracknetics](https://www.invoicesonline.co.za/scripts/image.php?bid=8211&file=logo_300_100&type=&fe=7e698c7053946fb06f50c254c35933ae4513f07282413d9f7ea1ff5f525fdcb1&c=52441369)  
+Tracknetics
 
-![valued client Creative Characters](https://www.invoicesonline.co.za/scripts/image.php?bid=6877&file=logo_300_100&type=&fe=0dabdc1819143d88c2f60461b66ba657cd4945b4ac2210aefc0a6f73a9fcee92&c=155871158)  
-Creative Characters
+![valued client MR Compressors& Industrial Supplies](https://www.invoicesonline.co.za/scripts/image.php?bid=7893&file=logo_300_100&type=&fe=7e698c7053946fb06f50c254c35933ae4513f07282413d9f7ea1ff5f525fdcb1&c=132051945)  
+MR Compressors& Industrial Supplies
 
-![valued client AquariumSmiths](https://www.invoicesonline.co.za/scripts/image.php?bid=7183&file=logo_300_100&type=&fe=0dabdc1819143d88c2f60461b66ba657cd4945b4ac2210aefc0a6f73a9fcee92&c=102839238)  
-AquariumSmiths
-
-![valued client Chiron Medical Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=6720&file=logo_300_100&type=&fe=0dabdc1819143d88c2f60461b66ba657cd4945b4ac2210aefc0a6f73a9fcee92&c=23436502)  
-Chiron Medical Solutions
-
-![valued client INDUSTRIAL DRUM SERVICES (PTY)LTD ](https://www.invoicesonline.co.za/scripts/image.php?bid=7576&file=logo_300_100&type=&fe=0dabdc1819143d88c2f60461b66ba657cd4945b4ac2210aefc0a6f73a9fcee92&c=65060845)  
-INDUSTRIAL DRUM SERVICES (PTY)LTD
-
-![valued client Environment Friendly Toilets (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=2934&file=logo_300_100&type=&fe=0dabdc1819143d88c2f60461b66ba657cd4945b4ac2210aefc0a6f73a9fcee92&c=122034480)  
+![valued client Environment Friendly Toilets (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=2934&file=logo_300_100&type=&fe=7e698c7053946fb06f50c254c35933ae4513f07282413d9f7ea1ff5f525fdcb1&c=51259617)  
 Environment Friendly Toilets (Pty) Ltd
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
