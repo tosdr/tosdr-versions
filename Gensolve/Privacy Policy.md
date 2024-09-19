@@ -4,7 +4,7 @@
 
 * [Home](https://www.gensolve.com/nz/)
 * Why
-    * [I NEED DIFFERENT SOFTWARE](https://www.gensolve.com/nz/client-referral-sign-up/)
+    * [I NEED DIFFERENT SOFTWARE](https://www.gensolve.com/nz/private-practice-management-software-upgrade/)
     * [I’M NEW TO PM SOFTWARE](https://www.gensolve.com/nz/practice-management-software/)
 * [Software](#)
     * [Features](https://www.gensolve.com/nz/features/)
@@ -22,7 +22,7 @@ Menu
 
 * [Home](https://www.gensolve.com/nz/)
 * Why
-    * [I NEED DIFFERENT SOFTWARE](https://www.gensolve.com/nz/client-referral-sign-up/)
+    * [I NEED DIFFERENT SOFTWARE](https://www.gensolve.com/nz/private-practice-management-software-upgrade/)
     * [I’M NEW TO PM SOFTWARE](https://www.gensolve.com/nz/practice-management-software/)
 * [Software](#)
     * [Features](https://www.gensolve.com/nz/features/)
@@ -1090,7 +1090,7 @@ Menu
 
 * [Home](https://www.gensolve.com/nz/)
 * Why
-    * [I NEED DIFFERENT SOFTWARE](https://www.gensolve.com/nz/client-referral-sign-up/)
+    * [I NEED DIFFERENT SOFTWARE](https://www.gensolve.com/nz/private-practice-management-software-upgrade/)
     * [I’M NEW TO PM SOFTWARE](https://www.gensolve.com/nz/practice-management-software/)
 * [Software](#)
     * [Features](https://www.gensolve.com/nz/features/)
