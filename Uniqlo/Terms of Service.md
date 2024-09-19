@@ -101,11 +101,11 @@ Close
 
 To check the status order, click ‘Track My Order’ and enter the receipt number that you have received via order notification email (Check your email spam if you didn't receive it in your inbox).
 
-[Check Click & Collect Order Status](https://faq-id.uniqlo.com/pkb_Home_UQ_ID?id=kA32t000000TNPl&q=email&l=en_US&fs=Search&pn=1)
+[Check Click & Collect Order Status](https://faq-id.uniqlo.com/pkb_Home_UQ_ID?id=kA32t000000GmkOCAS&q=email&l=en_US&fs=Search&pn=1)
 
 There is no receipt number for Click & Collect order. However, you can check it via order notification email or on the UNIQLO App. Click ‘’How to check Click & Collect order‘’ to find out the status order until it arrives at the store (Check your email spam if you don't receive it in your inbox).
 
-[Make Refund](https://faq-id.uniqlo.com/pkb_Home_UQ_ID?id=kA32t00000004d0CAA&l=en_US&fs=Search&pn=1)
+[Make Refund](https://faq-id.uniqlo.com/pkb_Home_UQ_ID?id=kA32t000000kBhO&l=en_US&fs=Search&pn=1)
 
 Refund will be proceed if the product is returned to the warehouse. Click "MAKE REFUND" button to see the procedures.
 
