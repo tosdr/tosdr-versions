@@ -319,13 +319,13 @@ Advertise
 [Life & Leisure](https://www.afr.com/life-and-leisure)
 ------------------------------------------------------
 
-[![Can Yavuz at the new Ames Yavuz gallery, with Dark Emu video artwork by Jacob Nash & Stephen Page, part of the inaugural Memory Myth exhibition. Surry Hills. Sydney.](https://static.ffx.io/images/$zoom_0.349%2C$multiply_1%2C$ratio_1.777778%2C$width_1059%2C$x_1352%2C$y_283/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/3b4bcd4b9edabe8018323c1a840f571960c29d30)](https://www.afr.com/life-and-luxury/arts-and-culture/the-australian-gallery-making-moves-on-mayfair-20240912-p5k9xk)
+[![Xiaopu-Wine-Tour-](https://static.ffx.io/images/$zoom_0.706%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_110/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/8bd819a4cdf333a760ce09aa1ef89c7f9c6c1ba5)](https://www.afr.com/life-and-luxury/food-and-wine/wine-made-in-china-is-starting-to-get-interesting-20240911-p5k9ud)
 
-### [The Australian gallery making moves on Mayfair](https://www.afr.com/life-and-luxury/arts-and-culture/the-australian-gallery-making-moves-on-mayfair-20240912-p5k9xk)
+### [Next-gen Chinese winemaker starts exporting to Australia](https://www.afr.com/life-and-luxury/food-and-wine/wine-made-in-china-is-starting-to-get-interesting-20240911-p5k9ud)
 
-* Stephen Todd
+* Max Allen
 
-* ### [Wine made in China is starting to get interesting](https://www.afr.com/life-and-luxury/food-and-wine/wine-made-in-china-is-starting-to-get-interesting-20240911-p5k9ud)
+* ### [The Australian gallery making moves on Mayfair](https://www.afr.com/life-and-luxury/arts-and-culture/the-australian-gallery-making-moves-on-mayfair-20240912-p5k9xk)
     
 * ### [Sea Sea hotel aims for win win blend of old cool and new vogue](https://www.afr.com/life-and-luxury/travel/sea-sea-hotel-aims-for-win-win-blend-of-old-cool-and-new-vogue-20240909-p5k95g)
     
