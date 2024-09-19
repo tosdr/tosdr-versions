@@ -210,11 +210,11 @@ Recently Played
 
 |     |
 | --- |
-| I Am Not OkayJelly Roll<br><br>11:38am |
-| Whiskey On YouNate Smith<br><br>11:35am |
-| CowgirlsMorgan Wallen Ft Ernest<br><br>11:32am |
-| Ain'T No Love In OklahomaLuke Combs<br><br>11:28am |
-| Last NameCarrie Underwood<br><br>11:24am |
+| CowgirlsMorgan Wallen Ft Ernest<br><br>5:41pm |
+| Pour Me A DrinkPost Malone Ft Blake Shelton<br><br>5:38pm |
+| Body Like A Back RoadSam Hunt<br><br>5:35pm |
+| Going, Going, GoneLuke Combs<br><br>5:32pm |
+| A Bar Song (Tipsy)Shaboozey<br><br>5:23pm |
 
 [View Full Playlist](https://www.987thebull.com/recently-played)
 
@@ -362,17 +362,17 @@ Featured Brands
 
 Spanish • Western
 
-[![98.5 The Bull Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KDES.png)](https://www.985thebull.com/)
-
-Country • Western
-
 [![Panhandle Sports Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/KVWE-Logo-RedBlack-Dk.png)](https://www.panhandlesportsstar.com/)
 
 Sports • Midwest
 
-[![News-Talk 1480 WHBC Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WHBCAM.png)](https://www.whbc.com/)
+[![Live 95.5 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBFF.png)](https://www.live955.com/)
 
-News Talk • Eastern
+Top 40 • Pacific NW
+
+[![Bay Country Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/BayCountry-BothFrequencies-DK%20(2).png)](https://www.kbaycountry.com/)
+
+Country • Western
 
 [](https://www.alphamediausa.com/)
 
