@@ -171,67 +171,95 @@ A Note to Our Readers:
 
 For stewardship purposes, we will not be able to write, edit, or proofread science papers and projects, assist with homework assignments, evaluate personal theories and hypotheses, or review books and other resources. We also will not accept unsolicited manuscripts, nor are we able to provide unsolicited endorsements of books, products, or ministries.
 
-More Days of Praise
+More Fossil Record
 
-[![](/i/articles/dop/DOP_Logo_328_116.jpg)](https://www.icr.org/article/moved-with-fear2)
+[![](/i/Main%20Stage%20-%201400x1050/Giant_Coelacanth_1400x1050.jpg)](https://www.icr.org/article/big-fish-fossil-recalls-big-flop)
 
-[Moved with Fear](https://www.icr.org/article/moved-with-fear2/)
+[Big Fish Fossil Recalls Big Flop](https://www.icr.org/article/big-fish-fossil-recalls-big-flop/)
 
-“By faith Noah, being warned of God of things not seen as yet, moved with fear, prepared an ark to the saving of his house; by the which he...
+One of the most famous living fossils is back in the news. The coelacanth is an endangered deep-sea fish. Its fins fit to unique, wrist-like bones, and...
 
-BY: [HENRY M. MORRIS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=23)
+BY: [BRIAN THOMAS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=201)
 
-[![](/i/articles/dop/DOP_Logo_328_116.jpg)](https://www.icr.org/article/cain-abel)
+[![](/i/Main%20Stage%20-%201400x1050/Mammoth_DNA_Oldest_1400x1050.jpg)](https://www.icr.org/article/mammoth-dna-oldest-ever-found)
 
-[Cain and Abel](https://www.icr.org/article/cain-abel/)
+[Mammoth DNA: The Oldest Ever Found?](https://www.icr.org/article/mammoth-dna-oldest-ever-found/)
 
-“Not as Cain, who was of that wicked one, and slew his brother. And wherefore slew he him? Because his own works were evil, and his brother’s...
+Scientists have sequenced small amounts of DNA from the teeth of two Siberian mammoths said to have lived more than a million years ago.1,2...
 
-BY: [HENRY M. MORRIS III, D.MIN.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=34)
+BY: [JAKE HEBERT, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=218)
 
-[![](/i/articles/dop/DOP_Logo_328_116.jpg)](https://www.icr.org/article/lord-hosts)
+[![](/i/Main%20Stage%20-%201400x1050/Strange_Squid_1400x1050.jpg)](https://www.icr.org/article/rapid-burial-in-the-flood-explains-strange-squid)
 
-[Lord of Hosts](https://www.icr.org/article/lord-hosts/)
+[Rapid Burial in the Flood Explains Strange "Squid" Attack](https://www.icr.org/article/rapid-burial-in-the-flood-explains-strange-squid/)
 
-“And this man went up out of his city yearly to worship and to sacrifice unto the LORD of hosts in Shiloh. And the two sons of Eli, Hophni...
+A new study published in Proceedings of the Geologists’ Association has found what is claimed to be the oldest recorded attack by a squid-like creature.1...
 
-BY: [HENRY M. MORRIS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=23)
+BY: [TIM CLAREY, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=176)
+
+More Creation Science Update
+
+[![](/i/ICR_June23_wallpaper_1400x1050.jpg)](https://www.icr.org/article/june-2023-icr-wallpaper)
+
+[June 2023 ICR Wallpaper](https://www.icr.org/article/june-2023-icr-wallpaper/)
+
+"From the rising of the sun to its going down the LORD's name is to be praised." Psalm 113:3 NKJV ICR June 2023 wallpaper is now available...
+
+BY: [STAFF WRITER](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=27)
+
+[![](/i/Main%20Stage%20-%201400x1050/AntsOrigin_1400X1050.jpg)](https://www.icr.org/article/ants-flowers-time)
+
+[Ants, Flowers, and Time](https://www.icr.org/article/ants-flowers-time/)
+
+The theory of evolution states that long ago, when flowering plants spread out from ancient forests, the ants followed, initiating the evolution of...
+
+BY: [FRANK SHERWIN, D.SC. (HON.)](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=32)
+
+[![](/i/Main%20Stage%20-%201400x1050/fossil-ftprint-flood-1400x1050)](https://www.icr.org/article/fossil-ftprint-flood)
+
+[Fossil Footprints Fit Flood Ice-Age Model](https://www.icr.org/article/fossil-ftprint-flood/)
+
+Anthropologists Thomas Urban (Cornell University) and Daron Duke (Far Western Anthropological Research Group) recently found preserved human footprints...
+
+BY: [JAKE HEBERT, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=218)
 
 Shop Related Products
 
-[![](https://cdn.shoplightspeed.com/shops/601440/files/32640/file.jpg)
+[![](https://cdn.shoplightspeed.com/shops/601440/files/9372978/file.jpg)
 
-The Genesis Flood, 50th Anniversary Edition](https://store.icr.org/dr-henry-morris-the-genesis-flood-50th-anniversary.html)
+Discovering Dinosaurs](https://store.icr.org/mr-brian-thomas-discovering-dinosaurs.html)
 
-$12.99
-
-$16.99
-
-[![](https://cdn.shoplightspeed.com/shops/601440/files/10476476/file.jpg)
-
-The Revelation Record](https://store.icr.org/dr-henry-morris-the-revelation-record.html)
-
-$24.99
-
-[![](https://cdn.shoplightspeed.com/shops/601440/files/10474057/file.jpg)
-
-Days to Remember](https://store.icr.org/dr-henry-morris-days-to-remember.html)
+$7.99
 
 $9.99
 
+[![](https://cdn.shoplightspeed.com/shops/601440/files/13216342/file.jpg)
+
+Discovering Dinosaurs - Download](https://store.icr.org/mr-brian-thomas-discovering-dinosaurs-download.html)
+
+$4.99
+
+$9.99
+
+[![](https://cdn.shoplightspeed.com/shops/601440/files/60993469/file.jpg)
+
+Why the World Looks So Young - eBook](https://store.icr.org/why-the-world-looks-so-young-ebook.html)
+
+$2.99
+
+$7.99
+
+[![](https://cdn.shoplightspeed.com/shops/601440/files/62183393/file.jpg)
+
+Adam or Apes - Download](https://store.icr.org/adam-or-apes-download.html)
+
+$7.99
+
+[![](https://cdn.shoplightspeed.com/shops/601440/files/49457244/file.jpg)
+
+Adam or Apes](https://store.icr.org/adam-or-apes.html)
+
 $12.99
-
-[![](https://cdn.shoplightspeed.com/shops/601440/files/10475194/file.jpg)
-
-The Genesis Record](https://store.icr.org/dr-henry-morris-the-genesis-record.html)
-
-$47.99
-
-[![](https://cdn.shoplightspeed.com/shops/601440/files/10474571/file.jpg)
-
-The Bible Has the Answer](https://store.icr.org/dr-henry-morris-the-bible-has-the-answer.html)
-
-$16.99
 
 [![Institute for Creation Research](/i/icr-logo-final-h-rev3-100.png)](https://www.icr.org/)[![ICR Discovery Center for Science and Earth History](/i/DC_Logo_Footer_2.png)](http://discoverycenter.icr.org/)
 
