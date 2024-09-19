@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/gezondheid/corona-kwestie/singapore-geboortecijfer-keldert-meer-sterfgevallen-covid-gevaccineerden/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/overige/de-ontsluiering-van-de-gulden-snede/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
