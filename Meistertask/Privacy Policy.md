@@ -5,7 +5,9 @@
 * Product
 * Solutions
 * Resources
-[Enterprise](https://www.meisterlabs.com/pages/business)[Pricing](https://accounts.meister.co/payments/mt/en/pricing)[Contact sales](https://www.meisterlabs.com/pages/contact-sales)
+* [Enterprise](https://www.meisterlabs.com/pages/business)
+* [Pricing](https://accounts.meister.co/payments/mt/en/pricing)
+* [Contact sales](https://www.meisterlabs.com/pages/contact-sales)
 
 [Log in](https://www.meistertask.com/app)[Get started](https://accounts.meister.co/sign_up?locale=en&product=meistertask)
 
@@ -24,7 +26,7 @@
 
 * [Contact sales](https://www.meisterlabs.com/pages/contact-sales)
 
-[Log in](https://www.meistertask.com/app)[Get started](https://accounts.meister.co/sign_up?locale=en&product=meistertask)
+* [Log in](https://www.meistertask.com/app)[Get started](https://accounts.meister.co/sign_up?locale=en&product=meistertask)
 
 **MEISTERLABS – PRIVACY NOTICE**
 ================================
