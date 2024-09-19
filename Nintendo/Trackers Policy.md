@@ -107,7 +107,7 @@ Analytics Preferences
 ----------------------------------------------------
 
 * [Careers](https://careers.nintendo.com/)
-* [Corporate Social Responsibility](https://www.nintendo.com/us/about/csr/)
+* [Corporate Social Responsibility](https://www.nintendo.co.jp/csr/en-us/index.html)
 
 [Shop](https://www.nintendo.com/us/store/)
 ------------------------------------------
@@ -118,36 +118,32 @@ Analytics Preferences
 * [Sales & deals](https://www.nintendo.com/us/store/sales-and-deals/)
 * [Exclusives](https://www.nintendo.com/us/store/exclusives/)
 * [Online service](https://www.nintendo.com/us/switch/online/)
-* [Nintendo NY store](https://www.nintendonyc.com/)
+* [Nintendo NY store](https://www.nintendo.com/us/new-york/)
 
-[My Nintendo Store orders](https://www.nintendo.com/us/orders/)
----------------------------------------------------------------
+[Orders](https://www.nintendo.com/us/orders/)
+---------------------------------------------
 
 * [Order details](https://www.nintendo.com/us/orders/)
-* [Shipping info](https://en-americas-support.nintendo.com/app/answers/detail/a_id/15575)
+* [Shipping info](https://support.nintendo.com/shippinginfo/)
 * [Returns & exchanges](https://www.nintendo.com/us/returns-exchanges/)
-* [FAQ](https://en-americas-support.nintendo.com/app/answers/detail/a_id/15578)
+* [FAQ](https://support.nintendo.com/orders/faq/)
 
-[Support](https://en-americas-support.nintendo.com/app/home)
-------------------------------------------------------------
+[Support](https://support.nintendo.com/)
+----------------------------------------
 
-* [Nintendo Switch](https://en-americas-support.nintendo.com/app/products/detail/p/989)
-* [Nintendo Account](https://en-americas-support.nintendo.com/app/products/detail/p/992)
-* [Other systems](https://en-americas-support.nintendo.com/app/products/detail/p/172)
-* [Repairs](https://en-americas-support.nintendo.com/app/products/detail/p/995)
-* [Nintendo product recycling](https://en-americas-support.nintendo.com/app/answers/detail/a_id/10276/)
+* [Nintendo Switch](https://support.nintendo.com/switch/)
+* [Nintendo Account](https://support.nintendo.com/account/)
+* [Other systems](https://support.nintendo.com/other-systems/)
+* [Repairs](https://support.nintendo.com/repair)
+* [Nintendo product recycling](https://support.nintendo.com/recycle)
+* [Warranty](https://support.nintendo.com/warranty)
+* [Licensed product information](https://www.nintendo.com/us/licensed-product-information/)
 
-[Parents](https://play.nintendo.com/parents/)
----------------------------------------------
+[Parents](https://support.nintendo.com/parents/)
+------------------------------------------------
 
 * [Info for parents](https://play.nintendo.com/parents/crash-courses/)
 * [Parental controls](https://play.nintendo.com/parents/crash-courses/parental-controls/)
-
-[Community](https://en-americas-support.nintendo.com/app/answers/detail/a_id/43419)
------------------------------------------------------------------------------------
-
-* [Community guidelines](https://www.nintendo.com/us/code-of-conduct/)
-* [Online safety principles](https://www.nintendo.com/us/online-safety-principles/)
 
 [Privacy](https://www.nintendo.com/us/privacy-policy/)
 ------------------------------------------------------
@@ -155,10 +151,23 @@ Analytics Preferences
 * [Privacy policy](https://www.nintendo.com/us/privacy-policy/)
 * [Cookies and interest-based ads](https://www.nintendo.com/us/privacy-request/#cookies)
 
+[Community](https://www.nintendo.com/us/code-of-conduct/)
+---------------------------------------------------------
+
+* [Community guidelines](https://www.nintendo.com/us/code-of-conduct/)
+* [Online safety principles](https://www.nintendo.com/us/online-safety-principles/)
+
+[Documents & policies](https://support.nintendo.com/documents-policies/)
+------------------------------------------------------------------------
+
+* [Health & safety precautions](https://support.nintendo.com/healthsafety/)
+* [Wireless regulatory info](https://support.nintendo.com/switch/setup/)
+* [Supply chain transparency](https://support.nintendo.com/supply-chain-transparency/)
+
 [ESRB Privacy Certified](https://www.esrb.org/EPCConfirm/891/ "ESRB Privacy Certified")
 
 © Nintendo. Games are property of their respective owners. Nintendo of America Inc. Headquarters are in Redmond, Washington, USA
 
-[Contact us](https://en-americas-support.nintendo.com/app/contact)[Website feedback](https://nintendoofamerica.co1.qualtrics.com/jfe/form/SV_dp1F1wielOUu20t)[Terms of Use](https://www.nintendo.com/terms-of-use/)[Documents & Policies](https://en-americas-support.nintendo.com/app/legal/a_id/48057/)
+[Contact us](https://en-americas-support.nintendo.com/app/contact)[Website feedback](https://nintendoofamerica.co1.qualtrics.com/jfe/form/SV_dp1F1wielOUu20t)[Terms of Use](https://www.nintendo.com/interest-based-ads-policy/terms-of-use/)
 
 [![Flag of Usa](https://assets.nintendo.com/image/upload/c_scale,w_24,q_auto/ncom/global/flags-change-region/FlagUsaIconRegionSelect.png)English (United States)](https://www.nintendo.com/us/region-selector/)
