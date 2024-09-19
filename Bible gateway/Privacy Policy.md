@@ -45,7 +45,7 @@ account
 
 close
 
-[Find answers to your Bible questions with Bible Gateway Plus. Try it free and 15% off for life!](https://www.biblegateway.com/plus/?utm_source=bg&promo=study15&utm_medium=alert&utm_campaign=bgplus_alert_bgplus_fy25_backtobiblestudyanswerquestions15off)
+[Send yourself back to school! Study the Bible with access to 50+ premium resources in BibleGateway+ with over $3,100 in valuable resources!](https://www.biblegateway.com/plus/?utm_source=bg&promo=study15&utm_medium=alert&utm_campaign=bgplus_alert_bgplus_fy25_backtobiblestudy_schoolvalue3100)
 
 close
 
