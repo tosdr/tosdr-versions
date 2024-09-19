@@ -87,23 +87,23 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
         * [Health & Medicine](https://www.sciencenews.org/topic/health-medicine)
         * [Archaeology](https://www.sciencenews.org/topic/archaeology)
         * [Psychology](https://www.sciencenews.org/topic/psychology)
-    * * [Anthropology](https://www.sciencenews.org/topic/anthropology)
+    * * [Health & Medicine](https://www.sciencenews.org/topic/health-medicine)
+            
+            ### [Vaccines for mpox are finally reaching Africa. But questions about the virus remain](https://www.sciencenews.org/article/mpox-africa-vaccines-outbreak-virus)
+            
+            By [Erin Garcia de Jesús](https://www.sciencenews.org/author/erin-garcia-de-jesus "Posts by Erin Garcia de Jesús")6 hours ago
+            
+        * [Anthropology](https://www.sciencenews.org/topic/anthropology)
             
             ### [Fossils of an extinct animal may have inspired this cave art drawing](https://www.sciencenews.org/article/fossils-extinct-animal-cave-art)
             
-            By [Bruce Bower](https://www.sciencenews.org/author/bruce-bower "Posts by Bruce Bower")21 hours ago
+            By [Bruce Bower](https://www.sciencenews.org/author/bruce-bower "Posts by Bruce Bower")September 18, 2024
             
         * [Health & Medicine](https://www.sciencenews.org/topic/health-medicine)
             
             ### [Can taking ashwagandha supplements improve health?](https://www.sciencenews.org/article/does-ashwagandha-improve-health)
             
             By [Sean Cummings](https://www.sciencenews.org/author/sean-cummings "Posts by Sean Cummings")September 13, 2024
-            
-        * [Anthropology](https://www.sciencenews.org/topic/anthropology)
-            
-            ### [Ancient DNA unveils a previously unknown line of Neandertals](https://www.sciencenews.org/article/ancient-dna-unveils-unknown-neandertals)
-            
-            By [Bruce Bower](https://www.sciencenews.org/author/bruce-bower "Posts by Bruce Bower")September 11, 2024
             
 * [Life](https://www.sciencenews.org/topic/life)
     * [Life](https://www.sciencenews.org/topic/life)
@@ -118,13 +118,13 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [Ants changed the architecture of their nests when exposed to a pathogen](https://www.sciencenews.org/article/ants-change-nest-architecture-pathogen)
             
-            By [Richard Kemeny](https://www.sciencenews.org/author/richard-kemeny "Posts by Richard Kemeny")2 hours ago
+            By [Richard Kemeny](https://www.sciencenews.org/author/richard-kemeny "Posts by Richard Kemeny")8 hours ago
             
         * [Neuroscience](https://www.sciencenews.org/topic/neuroscience)
             
             ### [Some healthy fish have bacteria in their brains](https://www.sciencenews.org/article/fish-brain-bacteria)
             
-            By [Erin Garcia de Jesús](https://www.sciencenews.org/author/erin-garcia-de-jesus "Posts by Erin Garcia de Jesús")21 hours ago
+            By [Erin Garcia de Jesús](https://www.sciencenews.org/author/erin-garcia-de-jesus "Posts by Erin Garcia de Jesús")September 18, 2024
             
         * [Neuroscience](https://www.sciencenews.org/topic/neuroscience)
             
@@ -140,6 +140,12 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
         * [Environment](https://www.sciencenews.org/topic/environment)
     * * [Climate](https://www.sciencenews.org/topic/climate)
             
+            ### [Earth’s ancient ‘greenhouse’ conditions were hotter than thought](https://www.sciencenews.org/article/earth-greenhouse-temperature-timeline)
+            
+            By [Carolyn Gramling](https://www.sciencenews.org/author/carolyn-gramling "Posts by Carolyn Gramling")3 hours ago
+            
+        * [Climate](https://www.sciencenews.org/topic/climate)
+            
             ### [Can solar farms and crop farms coexist?](https://www.sciencenews.org/article/solar-agriculture-farming-argivoltaic)
             
             By [Luke Groskin](https://www.sciencenews.org/author/luke-groskin "Posts by Luke Groskin")September 13, 2024
@@ -150,12 +156,6 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             By [Lisa Grossman](https://www.sciencenews.org/author/lisa-grossman "Posts by Lisa Grossman")September 13, 2024
             
-        * [Life](https://www.sciencenews.org/topic/life)
-            
-            ### [Mega El Niños kicked off the world’s worst mass extinction](https://www.sciencenews.org/article/mega-el-ninos-mass-extinction)
-            
-            By [Jake Buehler](https://www.sciencenews.org/author/jake-buehler "Posts by Jake Buehler")September 12, 2024
-            
 * [Physics](https://www.sciencenews.org/topic/physics)
     * [Physics](https://www.sciencenews.org/topic/physics)
         * [Materials Science](https://www.sciencenews.org/topic/materials-science)
@@ -165,7 +165,7 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [The Large Hadron Collider exposes quarks’ quantum entanglement](https://www.sciencenews.org/article/quarks-quantum-entanglement)
             
-            By [Emily Conover](https://www.sciencenews.org/author/emily-conover "Posts by Emily Conover")24 hours ago
+            By [Emily Conover](https://www.sciencenews.org/author/emily-conover "Posts by Emily Conover")September 18, 2024
             
         * [Physics](https://www.sciencenews.org/topic/physics)
             
@@ -188,7 +188,7 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [Meet Porphyrion, the largest pair of black hole jets ever seen](https://www.sciencenews.org/article/universe-largest-black-hole-jets)
             
-            By [Lisa Grossman](https://www.sciencenews.org/author/lisa-grossman "Posts by Lisa Grossman")24 hours ago
+            By [Lisa Grossman](https://www.sciencenews.org/author/lisa-grossman "Posts by Lisa Grossman")September 18, 2024
             
         * [Physics](https://www.sciencenews.org/topic/physics)
             
