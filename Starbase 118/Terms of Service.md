@@ -356,6 +356,18 @@ Community News
 
 [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
+![](https://b108297.smushcdn.com/108297/wp-content/uploads/2015/07/Sovereign_Asteroid_Field-768x432.jpg?lossy=0&strip=1&webp=1)](https://www.starbase118.net/2024/uss-gorkon-outsmarts-second-borg-cube-with-help-from-unexpected-allies/)
+
+### [USS Gorkon outsmarts second Borg cube with help from unexpected allies](https://www.starbase118.net/2024/uss-gorkon-outsmarts-second-borg-cube-with-help-from-unexpected-allies/)
+
+Federation News Service September 19, 2024
+
+BETA-15187 Dust Cloud — Trapped in a radically altered timeline where the Borg reign supreme and Starfleet has been erased from existence, the crew of
+
+[Read More »](https://www.starbase118.net/2024/uss-gorkon-outsmarts-second-borg-cube-with-help-from-unexpected-allies/)
+
+[![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
 ![](https://b108297.smushcdn.com/108297/wp-content/uploads/2022/02/Burnham_Awarded-768x384.jpeg?lossy=0&strip=1&webp=1)](https://www.starbase118.net/2024/award-winner-kimberly-stapledon-uss-constitution-b-uss-chintoka-prestigious-service-medallion-engineering/)
 
 ### [Award winner – Kimberly Stapledon, USS Constitution-B/USS Chin’toka – Prestigious Service Medallion – Engineering](https://www.starbase118.net/2024/award-winner-kimberly-stapledon-uss-constitution-b-uss-chintoka-prestigious-service-medallion-engineering/)
@@ -377,18 +389,6 @@ Federation News Service September 16, 2024
 ALPHA ISLES — Combat roiled around and within Deep Space 33, as the crews of the USS Khitomer and USS Ronin faced increasingly tall odds
 
 [Read More »](https://www.starbase118.net/2024/lattice-alliance-faces-overwhelming-odds/)
-
-[![You'll Always Be My Number One](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-
-![You'll Always Be My Number One](https://b108297.smushcdn.com/108297/wp-content/uploads/2016/05/riker-instagram_4049ce46b3-768x768.jpg?lossy=0&strip=1&webp=1)](https://www.starbase118.net/2024/first-officer-in-focus-lael-rosek-skyfire/)
-
-### [First Officer in Focus – Lael Rosek-Skyfire](https://www.starbase118.net/2024/first-officer-in-focus-lael-rosek-skyfire/)
-
-docaharford September 15, 2024
-
-Each month we interview a First Officer of the fleet as part of our “First Officer in Focus” column to get to know them better,
-
-[Read More »](https://www.starbase118.net/2024/first-officer-in-focus-lael-rosek-skyfire/)
 
 Ready to get started?
 ---------------------
