@@ -30,13 +30,13 @@ Privacy Policy
     ![](https://karkhane.org/app/uploads/2024/08/construction-worker-95x65.jpg)](https://karkhane.org/5811/a-report-of-a-construction-site/)[گزارشی از یک کارگاه ساختمانی بزرگ](https://karkhane.org/5811/a-report-of-a-construction-site/)
 * [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
-    ![](https://karkhane.org/app/uploads/2024/07/El-95x65.jpg)](https://karkhane.org/5715/election1403/)[یک کرباس بورژوازی](https://karkhane.org/5715/election1403/)
-* [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
     ![](https://karkhane.org/app/uploads/2024/09/4-95x65.jpeg)](https://karkhane.org/5825/living_encounters_in_capitalist_society/)[تجربه‌های زیسته در جامعه‌ی سرمایه‌داری](https://karkhane.org/5825/living_encounters_in_capitalist_society/)
 * [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     ![](https://karkhane.org/app/uploads/2024/07/6-95x65.jpg)](https://karkhane.org/5682/capitalist-psychotherapy/)[روانشناسی صنعتی‌ـ‌سازمانی: ابزاری برای به‌هنجارسازی نیروی کار و افزایش استثمار](https://karkhane.org/5682/capitalist-psychotherapy/)
+* [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    ![](https://karkhane.org/app/uploads/2024/07/El-95x65.jpg)](https://karkhane.org/5715/election1403/)[یک کرباس بورژوازی](https://karkhane.org/5715/election1403/)
 * [![کارگران افغانستانی، رقیب یا هم‌سرنوشت؟](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     ![کارگران افغانستانی، رقیب یا هم‌سرنوشت؟](https://karkhane.org/app/uploads/2021/08/kargaran-e-afqanestani-raqib-ya-hamsarnevesht-95x65.jpg)](https://karkhane.org/2999/%da%a9%d8%a7%d8%b1%da%af%d8%b1%d8%a7%d9%86-%d8%a7%d9%81%d8%ba%d8%a7%d9%86%d8%b3%d8%aa%d8%a7%d9%86%db%8c-%d8%b1%d9%82%db%8c%d8%a8-%db%8c%d8%a7-%d9%87%d9%85%d8%b3%d8%b1%d9%86%d9%88%d8%b4%d8%aa/)[کارگران افغانستانی، رقیب یا هم‌سرنوشت؟](https://karkhane.org/2999/%da%a9%d8%a7%d8%b1%da%af%d8%b1%d8%a7%d9%86-%d8%a7%d9%81%d8%ba%d8%a7%d9%86%d8%b3%d8%aa%d8%a7%d9%86%db%8c-%d8%b1%d9%82%db%8c%d8%a8-%db%8c%d8%a7-%d9%87%d9%85%d8%b3%d8%b1%d9%86%d9%88%d8%b4%d8%aa/)
@@ -49,12 +49,12 @@ Privacy Policy
 * [![فیلم کودک و استثمار](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     ![فیلم کودک و استثمار](https://karkhane.org/app/uploads/2020/06/kudak-o-estesmār-featured-95x65.jpg)](https://karkhane.org/1981/%da%a9%d9%88%d8%af%da%a9%d8%a7%d9%86-%da%a9%d8%a7%d8%b1%da%af%d8%b1-%db%8c%d8%a7%d8%af%d8%af%d8%a7%d8%b4%d8%aa%db%8c-%d8%a8%d8%b1-%d9%81%db%8c%d9%84%d9%85-%da%a9%d9%88%d8%af%da%a9-%d9%88-%d8%a7/)[کودکان کارگر: یادداشتی بر فیلم «کودک و استثمار»](https://karkhane.org/1981/%da%a9%d9%88%d8%af%da%a9%d8%a7%d9%86-%da%a9%d8%a7%d8%b1%da%af%d8%b1-%db%8c%d8%a7%d8%af%d8%af%d8%a7%d8%b4%d8%aa%db%8c-%d8%a8%d8%b1-%d9%81%db%8c%d9%84%d9%85-%da%a9%d9%88%d8%af%da%a9-%d9%88-%d8%a7/)
-* [![گزارشی از وضعیت کارگران در کارخانه‌ی شیر و لبنیات در حومه‌ی اصفهان](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+* [![داستان کوتاه «صاحب‌خانه‌ی ما» از عزیز نسین](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
-    ![گزارشی از وضعیت کارگران در کارخانه‌ی شیر و لبنیات در حومه‌ی اصفهان](https://karkhane.org/app/uploads/2021/05/gozares-vaziyat-kargaran-labaniyat-hume-e-esfahan-95x65.jpg)](https://karkhane.org/2711/%da%af%d8%b2%d8%a7%d8%b1%d8%b4%db%8c-%d8%a7%d8%b2-%d9%88%d8%b6%d8%b9%db%8c%d8%aa-%da%a9%d8%a7%d8%b1%da%af%d8%b1%d8%a7%d9%86-%d8%af%d8%b1-%da%a9%d8%a7%d8%b1%d8%ae%d8%a7%d9%86%d9%87%db%8c/)[گزارشی از وضعیت کارگران در کارخانه‌ی شیر و لبنیات در حومه‌ی اصفهان](https://karkhane.org/2711/%da%af%d8%b2%d8%a7%d8%b1%d8%b4%db%8c-%d8%a7%d8%b2-%d9%88%d8%b6%d8%b9%db%8c%d8%aa-%da%a9%d8%a7%d8%b1%da%af%d8%b1%d8%a7%d9%86-%d8%af%d8%b1-%da%a9%d8%a7%d8%b1%d8%ae%d8%a7%d9%86%d9%87%db%8c/)
-* [![اعتراضات کشاورزان هندی چه چیزی درباره‌ی صنعت کشاورزی در آمریکا و جهان به ما می‌آموزد؟](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    ![داستان کوتاه «صاحب‌خانه‌ی ما» از عزیز نسین](https://karkhane.org/app/uploads/2021/07/sahebxane-e-ma-aziz-nesin-95x65.jpg)](https://karkhane.org/2908/%d8%af%d8%a7%d8%b3%d8%aa%d8%a7%d9%86-%d8%b5%d8%a7%d8%ad%d8%a8%d8%ae%d8%a7%d9%86%d9%87-%d9%85%d8%a7-%d8%b9%d8%b2%db%8c%d8%b2-%d9%86%d8%b3%db%8c%d9%86/)[داستان کوتاه «صاحب‌خانه‌ی ما» از عزیز نسین](https://karkhane.org/2908/%d8%af%d8%a7%d8%b3%d8%aa%d8%a7%d9%86-%d8%b5%d8%a7%d8%ad%d8%a8%d8%ae%d8%a7%d9%86%d9%87-%d9%85%d8%a7-%d8%b9%d8%b2%db%8c%d8%b2-%d9%86%d8%b3%db%8c%d9%86/)
+* [![افزایش مزد کارگران، تورم و عربده‌کشی سرمایه‌داران](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
-    ![اعتراضات کشاورزان هندی چه چیزی درباره‌ی صنعت کشاورزی در آمریکا و جهان به ما می‌آموزد؟](https://karkhane.org/app/uploads/2021/12/eterazat-e-keshavarzan-e-hend-che-chiz-miamuzad-95x65.jpg)](https://karkhane.org/3292/%d8%a2%d9%85%d9%88%d8%b2%d9%87%d9%87%d8%a7%db%8c-%d8%a7%d8%b9%d8%aa%d8%b1%d8%a7%d8%b6%d8%a7%d8%aa-%da%a9%d8%b4%d8%a7%d9%88%d8%b1%d8%b2%d8%a7%d9%86-%d9%87%d9%86%d8%af%db%8c/)[اعتراضات کشاورزان هندی چه چیزی درباره‌ی صنعت کشاورزی در آمریکا و جهان به ما می‌آموزد؟](https://karkhane.org/3292/%d8%a2%d9%85%d9%88%d8%b2%d9%87%d9%87%d8%a7%db%8c-%d8%a7%d8%b9%d8%aa%d8%b1%d8%a7%d8%b6%d8%a7%d8%aa-%da%a9%d8%b4%d8%a7%d9%88%d8%b1%d8%b2%d8%a7%d9%86-%d9%87%d9%86%d8%af%db%8c/)
+    ![افزایش مزد کارگران، تورم و عربده‌کشی سرمایه‌داران](https://karkhane.org/app/uploads/2022/05/afzayesh-mozd-e-kargaran-tavarrom-arbadekeshi-e-sarmayedaran-95x65.jpg)](https://karkhane.org/4031/%d8%a7%d9%81%d8%b2%d8%a7%db%8c%d8%b4-%d9%85%d8%b2%d8%af-1401-%d8%b9%d8%b1%d8%a8%d8%af%d9%87-%da%a9%d8%b4%db%8c-%d8%b3%d8%b1%d9%85%d8%a7%db%8c%d9%87-%d8%af%d8%a7%d8%b1%d8%a7%d9%86/)[افزایش مزد کارگران، تورم و عربده‌کشی سرمایه‌داران](https://karkhane.org/4031/%d8%a7%d9%81%d8%b2%d8%a7%db%8c%d8%b4-%d9%85%d8%b2%d8%af-1401-%d8%b9%d8%b1%d8%a8%d8%af%d9%87-%da%a9%d8%b4%db%8c-%d8%b3%d8%b1%d9%85%d8%a7%db%8c%d9%87-%d8%af%d8%a7%d8%b1%d8%a7%d9%86/)
 
 * [Facebook](https://www.facebook.com/--107914377686249)
 * [YouTube](https://www.youtube.com/channel/UCnz481dcaM1p7c3oDR5Ot9A)
