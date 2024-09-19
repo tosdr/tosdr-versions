@@ -1,4 +1,4 @@
-Rated 4.9 / 5 based on [667 reviews](https://www.trustpilot.com/review/www.safari.com) on
+Rated 4.9 / 5 based on [678 reviews](https://www.trustpilot.com/review/www.safari.com) on
 
 ![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/6520b0548d3d382c9397bb18_trustpilot_2366_logo_1630325953_dqa8g.webp)
 
@@ -138,7 +138,33 @@ Customer Testimonials
 
 out of 5 based on
 
-[667 reviews](https://www.trustpilot.com/review/www.safari.com)
+[678 reviews](https://www.trustpilot.com/review/www.safari.com)
+
+![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
+
+> Sep 19, 2024
+
+> Quick and friendly service
+
+> We always struggle to make reservations especially since we book for people with disabilities. Heleen is our "go to person" since she is always friendly, helpful and quick.
+
+Daleen Rae
+
+,
+
+![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
+
+> Sep 19, 2024
+
+> Candis Cloete was extremely helpful and…
+
+> Candis Cloete was extremely helpful and efficient. She made me feel confident in making my booking. She was always prompt in her replies
+
+Carol
+
+,
+
+GB
 
 ![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
 
@@ -237,34 +263,6 @@ Christina Hutchinson
 ,
 
 GB
-
-![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
-
-> Sep 14, 2024
-
-> Had such an amazing experience working…
-
-> Had such an amazing experience working with Leigh-Ann. She was able to get me everything I wanted at the price I wanted. Could not recommend more.
-
-Ben
-
-,
-
-US
-
-![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
-
-> Sep 13, 2024
-
-> Sara curated a trip of a lifetime
-
-> Sara curated a trip of a lifetime. Met all our requirements and exceeded our expectations all within our budget!
-
-Jodi Wernikoff
-
-,
-
-US
 
 VIP service
 
