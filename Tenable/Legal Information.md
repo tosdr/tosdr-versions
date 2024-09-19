@@ -103,7 +103,7 @@ Tenable One Exposure Management Platform enables you to gain visibility across y
 
 * [Tenable Identity Exposure](https://www.tenable.com/products/identity-exposure) [Request a demo](#ad-eval)
 
-[**Compare products**](https://www.tenable.com/products#compare)
+[**View all products**](https://www.tenable.com/products/) [**Compare products**](https://www.tenable.com/products/compare-products)
 
 ##### Business needs
 
