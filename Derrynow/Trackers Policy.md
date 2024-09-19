@@ -275,13 +275,6 @@ Apprentice Boys of Derry marching through the city centre during a previous marc
 [Victim had four teeth knocked out in Derry assault](https://www.derrynow.com/news/local-news/1607971/victim-had-four-teeth-knocked-out-in-derry-assault.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Derry Death Notices - Wednesday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Wednesday")](https://www.derrynow.com/news/deaths/1607467/derry-death-notices-wednesday-18th-september-2024.html)
-
-[Deaths](https://www.derrynow.com/section/977/deaths)
-
-[Derry Death Notices - Wednesday, 18th September 2024](https://www.derrynow.com/news/deaths/1607467/derry-death-notices-wednesday-18th-september-2024.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 [![James Slavin holding aloft the Irish tricolour after a title winning bout](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "James Slavin holding aloft the Irish tricolour after a title winning bout")](https://www.derrynow.com/news/derry-sport/1608033/derry-man-claims-uk-fighting-championships-featherweight-belt.html)
 
 James Slavin holding aloft the Irish tricolour after a title winning bout
@@ -298,13 +291,6 @@ James Slavin holding aloft the Irish tricolour after a title winning bout
 [Derry man fined for cycling while unfit through drink or drugs](https://www.derrynow.com/news/local-news/1608126/derry-man-fined-for-cycling-while-unfit-through-drink-or-drugs.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Man appears in connection with racist messages to Mayor of Derry and Strabane](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man appears in connection with racist messages to Mayor of Derry and Strabane")](https://www.derrynow.com/news/local-news/1607946/man-appears-in-connection-with-sending-racist-messages-to-mayor-of-derry-and-strabane.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Man appears in connection with sending racist messages to Mayor of Derry and Strabane](https://www.derrynow.com/news/local-news/1607946/man-appears-in-connection-with-sending-racist-messages-to-mayor-of-derry-and-strabane.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 [![Breaking: Elderly man (80s) killed in Clonmany collision](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Breaking: Elderly man (80s) killed in Clonmany collision")](https://www.derrynow.com/news/local-news/1608640/elderly-man-80s-killed-in-clonmany-collision.html)
 
 The scene of the fatal road traffic collision in Clonmany. (North West Newspix)
@@ -313,6 +299,13 @@ The scene of the fatal road traffic collision in Clonmany. (North West Newspix)
 
 [Elderly man (80s) killed in Clonmany collision](https://www.derrynow.com/news/local-news/1608640/elderly-man-80s-killed-in-clonmany-collision.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Man appears in connection with racist messages to Mayor of Derry and Strabane](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man appears in connection with racist messages to Mayor of Derry and Strabane")](https://www.derrynow.com/news/local-news/1607946/man-appears-in-connection-with-sending-racist-messages-to-mayor-of-derry-and-strabane.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Man appears in connection with sending racist messages to Mayor of Derry and Strabane](https://www.derrynow.com/news/local-news/1607946/man-appears-in-connection-with-sending-racist-messages-to-mayor-of-derry-and-strabane.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Derry man set for Cage Warriors debut in Manchester](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry man set for Cage Warriors debut in Manchester")](https://www.derrynow.com/news/derry-sport/1608098/derry-man-set-for-cage-warriors-debut-in-manchester.html)
 
@@ -338,6 +331,15 @@ Cardiology Team at Altnagelvin celebrating the 10th Anniversary of the PPCI serv
 
 [Life-saving Altnagelvin Hospital cardiac care service celebrates its 10 year anniversary](https://www.derrynow.com/news/local-news/1608304/life-saving-altnagelvin-hospital-cardiac-care-service-celebrates-its-10-year-anniversary.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Morelli’s Ice Cream](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Morelli’s Ice Cream")](https://www.derrynow.com/news/home/1608291/derry-s-favourite-ice-cream-flavour-revealed-by-morellis-ice-cream.html)
+
+Morelli’s Ice Cream
+
+[Home](https://www.derrynow.com/)
+
+[Derry's favourite ice cream flavour revealed by Morelli’s Ice Cream](https://www.derrynow.com/news/home/1608291/derry-s-favourite-ice-cream-flavour-revealed-by-morellis-ice-cream.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
@@ -523,7 +525,21 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
-[![Breaking: Elderly man (80s) killed in Clonmany collision](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Breaking: Elderly man (80s) killed in Clonmany collision")](https://www.derrynow.com/news/local-news/1608640/elderly-man-80s-killed-in-clonmany-collision.html)
+[![Derry Junior Championship Quarter Final preview](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Junior Championship Quarter Final preview")](https://www.derrynow.com/news/derry-sport/1607221/derry-junior-championship-quarter-final-preview.html)
+
+[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
+
+[Derry Junior Championship Quarter Final preview](https://www.derrynow.com/news/derry-sport/1607221/derry-junior-championship-quarter-final-preview.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Derry Death Notices - Monday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Monday")](https://www.derrynow.com/news/deaths/1608384/derry-death-notices-thursday-19th-september-2024.html)
+
+[Deaths](https://www.derrynow.com/section/977/deaths)
+
+[Derry Death Notices - Thursday, 19th September 2024](https://www.derrynow.com/news/deaths/1608384/derry-death-notices-thursday-19th-september-2024.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Breaking: Elderly man (80s) killed in Clonmany collision](https://www.derrynow.com/resizer/165/93/true/2024_09_18/WhatsApp_Image_2024-09-18_at_20.48.15_6077cb15_Cropped-1726692559607.jpg--.jpg?1726692559901 "Breaking: Elderly man (80s) killed in Clonmany collision")](https://www.derrynow.com/news/local-news/1608640/elderly-man-80s-killed-in-clonmany-collision.html)
 
 The scene of the fatal road traffic collision in Clonmany. (North West Newspix)
 
@@ -532,7 +548,7 @@ The scene of the fatal road traffic collision in Clonmany. (North West Newspix)
 [Elderly man (80s) killed in Clonmany collision](https://www.derrynow.com/news/local-news/1608640/elderly-man-80s-killed-in-clonmany-collision.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Motorists are advised to expect disruption in Derry city centre on Saturday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Motorists are advised to expect disruption in Derry city centre on Saturday")](https://www.derrynow.com/news/local-news/1608567/motorists-are-advised-to-expect-disruption-in-derry-city-centre-on-saturday.html)
+[![Motorists are advised to expect disruption in Derry city centre on Saturday](https://www.derrynow.com/resizer/165/93/true/2023_08_13/Apprentice_Boys-1691965842108.jpg--.jpg?1691965842198 "Motorists are advised to expect disruption in Derry city centre on Saturday")](https://www.derrynow.com/news/local-news/1608567/motorists-are-advised-to-expect-disruption-in-derry-city-centre-on-saturday.html)
 
 Apprentice Boys of Derry marching through the city centre during a previous march.
 
@@ -558,24 +574,6 @@ Matthew Friel set for Cage Warriors debut
 
 [Derry man set for Cage Warriors debut in Manchester](https://www.derrynow.com/news/derry-sport/1608098/derry-man-set-for-cage-warriors-debut-in-manchester.html)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Claudy organisation among hundreds of rural and community groups to benefit from Minister's grant scheme](https://www.derrynow.com/resizer/165/93/true/2024_09_18/Picture_1-1726674839277_1726674945.jpg--.jpg?1726674945129 "Claudy organisation among hundreds of rural and community groups to benefit from Minister's grant scheme")](https://www.derrynow.com/news/home/1608452/claudy-organisation-among-hundreds-of-rural-and-community-groups-to-benefit-from-minister-s-grant-scheme.html)
-
-Minister Muir pictured with members of Upper Cumber Presbyterian Church Jack McFarland, Isobel O’Neill and Philip O’Kane of RAPID'.
-
-[Home](https://www.derrynow.com/)
-
-[Claudy organisation among hundreds of rural and community groups to benefit from Minister's grant scheme](https://www.derrynow.com/news/home/1608452/claudy-organisation-among-hundreds-of-rural-and-community-groups-to-benefit-from-minister-s-grant-scheme.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Morelli’s Ice Cream](https://www.derrynow.com/resizer/165/93/true/2024_09_18/0R8A4400-Edit-1726667595752.jpg--.jpg?1726667598447 "Morelli’s Ice Cream")](https://www.derrynow.com/news/home/1608291/derry-s-favourite-ice-cream-flavour-revealed-by-morellis-ice-cream.html)
-
-Morelli’s Ice Cream
-
-[Home](https://www.derrynow.com/)
-
-[Derry's favourite ice cream flavour revealed by Morelli’s Ice Cream](https://www.derrynow.com/news/home/1608291/derry-s-favourite-ice-cream-flavour-revealed-by-morellis-ice-cream.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
