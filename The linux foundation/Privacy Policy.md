@@ -54,11 +54,11 @@ English Japan China Europe
 * [Leadership & Advisory Board](https://www.linuxfoundation.org/research/leadership)
 * [Surveys](https://www.linuxfoundation.org/research/surveys)
 
- LF TRAINING
+ LF EDUCATION
 
-* [Training Home](https://training.linuxfoundation.org/)
+* [Home](https://training.linuxfoundation.org/)
 * [Course Catalog](https://training.linuxfoundation.org/full-catalog/)
-* [Training Resources](https://training.linuxfoundation.org/resources/)
+* [Resources](https://training.linuxfoundation.org/resources/)
 
  EVENTS
 
@@ -316,10 +316,10 @@ EVENTS
 * [Submit a Talk](https://linuxfoundation.smapply.io/)
 * [Code of Conduct](https://events.linuxfoundation.org/about/code-of-conduct/)
 
-LF TRAINING
+LF EDUCATION
 
-* [Training Home](https://training.linuxfoundation.org/)
+* [Home](https://training.linuxfoundation.org/)
 * [Course Catalog](https://training.linuxfoundation.org/full-catalog/)
-* [Training Resources](https://training.linuxfoundation.org/resources/)
+* [Resources](https://training.linuxfoundation.org/resources/)
 
 Copyright © 2024 The Linux Foundation®. All rights reserved. The Linux Foundation has registered trademarks and uses trademarks. For a list of trademarks of The Linux Foundation, please see our [Trademark Usage](https://www.linuxfoundation.org/legal/trademark-usage?hsLang=en) page. Linux is a registered trademark of Linus Torvalds. [Terms of Use](https://www.linuxfoundation.org/legal/terms/?hsLang=en) | [Privacy Policy](https://www.linuxfoundation.org/legal/privacy-policy/?hsLang=en) | [Bylaws](https://www.linuxfoundation.org/legal/bylaws/?hsLang=en) | [Antitrust Policy](https://www.linuxfoundation.org/legal/antitrust-policy/?hsLang=en) | [Good Standing Policy](https://www.linuxfoundation.org/legal/good-standing-policy/?hsLang=en) | [Generative AI Policy](https://www.linuxfoundation.org/legal/generative-ai?hsLang=en)
