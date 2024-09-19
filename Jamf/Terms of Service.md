@@ -1,4 +1,4 @@
-![](https://resources.jamf.com/images/logos/jamf-one-color-dark-for-print-css.svg)
+![](https://media.jamf.com/images/logos/jamf-one-color-dark-for-print-css.svg)
 
 [Skip to main content](#main-content)
 
