@@ -32,6 +32,16 @@ Edited
 
 More from Observable creators
 
+### One platform to build and deploy the best data apps
+
+Experiment and prototype by building visualizations in live JavaScript notebooks. Collaborate with your team and decide which concepts to build out.
+
+Use Observable Framework to build data apps locally. Use data loaders to build in any language or library, including Python, SQL, and R.
+
+Seamlessly deploy to Observable. Test before you ship, use automatic deploy-on-commit, and ensure your projects are always up-to-date.
+
+Try it for free[Learn more](https://observablehq.com/platform)
+
 [](https://observablehq.com/ "Home")
 
 [LinkedIn](https://www.linkedin.com/company/observable)[Twitter](https://twitter.com/observablehq)[GitHub](https://github.com/observablehq/)[YouTube](https://www.youtube.com/c/Observablehq)
