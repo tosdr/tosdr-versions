@@ -214,10 +214,10 @@ Homepage](https://atos.net/en)
         * [Media Resources](https://atos.net/en/newsroom/media-resources)
         * [Media Contacts](https://atos.net/en/newsroom#contacts)
         
-        17 September 2024
+        19 September 2024
         
-        Eviden upgrades the performance of Sweden’s Berzelius AI supercomputer for the second time
-        ------------------------------------------------------------------------------------------
+        Extension of the accelerated safeguard proceedings period
+        ---------------------------------------------------------
         
     * [Awards](https://atos.net/en/newsroom/awards)˅
         
