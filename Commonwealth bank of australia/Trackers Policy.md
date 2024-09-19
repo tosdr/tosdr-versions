@@ -195,4 +195,6 @@ CommBank acknowledges the [Traditional Owners](https://www.commbank.com.au/abou
 
 ©2024 Commonwealth Bank of Australia ABN 48 123 123 124 AFSL and Australian credit licence 234945
 
+![](https://ad.doubleclick.net/ddm/activity/src=10099469;type=;cat=;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;ord=1?)
+
 [Commonwealth Bank](https://www.commbank.com.au/) ![](https://www.commbank.com.au/content/dam/commbank/images/global/cba-diamond.gif)
