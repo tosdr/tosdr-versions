@@ -85,11 +85,11 @@ Top downloads
 
 Latest releases
 
+* [Hatris](https://www.myabandonware.com/game/hatris-94x)
+* [Hyper Sports](https://www.myabandonware.com/game/hyper-sports-50e)
 * [Juno First](https://www.myabandonware.com/game/juno-first-5u3)
 * [Create](https://www.myabandonware.com/game/create-skz)
 * [pop'n music](https://www.myabandonware.com/game/pop-n-music-sep)
-* [pop'n music 2](https://www.myabandonware.com/game/pop-n-music-2-seo)
-* [Poolshark](https://www.myabandonware.com/game/poolshark-sen)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [Facebook](https://www.facebook.com/myabandonware) or [X (Twitter)](https://x.com/myabandonware)
