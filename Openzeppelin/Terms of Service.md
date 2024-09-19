@@ -98,7 +98,6 @@
     
     [About us](https://www.openzeppelin.com/about)[Careers](https://www.openzeppelin.com/jobs)[Security Center](https://contracts.openzeppelin.com/security)
     
-* [Pricing](https://www.openzeppelin.com/pricing)
 
 [Login](https://defender.openzeppelin.com/v2/#/auth/sign-in) [Talk to an Expert](https://www.openzeppelin.com/request?id=talk_to_an_expert-navbar) [Sign Up](https://defender.openzeppelin.com/v2/#/auth/sign-up?)
 
