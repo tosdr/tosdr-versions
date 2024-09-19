@@ -171,19 +171,19 @@ Quick Guides
     
 * [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
-    ![](https://fifthperson.com/wp-content/uploads/2019/09/amazon.jpg)](https://fifthperson.com/amazon-q2-2024-earnings-call/)
-    
-    [Amazon Q2 2024 earnings call: Strong performance across all segments](https://fifthperson.com/amazon-q2-2024-earnings-call/)
-    
-    4 weeks ago
-    
-* [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
     ![](https://fifthperson.com/wp-content/uploads/2024/09/chart-220x150.jpg)](https://fifthperson.com/net-profit-vs-free-cash-flow/)
     
     [Net profit vs. free cash flow: Which metric matters most?](https://fifthperson.com/net-profit-vs-free-cash-flow/)
     
     2 days ago
+    
+* [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    ![](https://fifthperson.com/wp-content/uploads/2019/09/amazon.jpg)](https://fifthperson.com/amazon-q2-2024-earnings-call/)
+    
+    [Amazon Q2 2024 earnings call: Strong performance across all segments](https://fifthperson.com/amazon-q2-2024-earnings-call/)
+    
+    4 weeks ago
     
 * [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
