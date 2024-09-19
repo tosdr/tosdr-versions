@@ -223,16 +223,6 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
     
     [https://mgml.si/sl/mestni-muzej](https://mgml.si/sl/mestni-muzej)
     
-    [10:00 Ritam francuske kulture 2024](javascript:void(0);)
-    
-    **19.04.2024 | 10:00**
-    
-    **RITAM FRANCUSKE KULTURE 2024** (18.4.-8.12.2024.)
-    
-    [**PROGRAM**](https://www.institutfrancais.rs/ritam-francuske-kulture/)
-    
-    [http://www.institutfrancais.rs](http://www.institutfrancais.rs/)
-    
     [10:00 Neopaženo ob cesti. Grafična tehnika Marjana Pogačnika, LJ](javascript:void(0);)
     
     **19.04.2024 | 10:00**
@@ -244,6 +234,16 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
     avtorji razstave: Tina Buh, Admir Ganić, Andrej Smrekar
     
     [https://www.ng-slo.si/si](https://www.ng-slo.si/si)
+    
+    [10:00 Ritam francuske kulture 2024](javascript:void(0);)
+    
+    **19.04.2024 | 10:00**
+    
+    **RITAM FRANCUSKE KULTURE 2024** (18.4.-8.12.2024.)
+    
+    [**PROGRAM**](https://www.institutfrancais.rs/ritam-francuske-kulture/)
+    
+    [http://www.institutfrancais.rs](http://www.institutfrancais.rs/)
     
     [10:00 Tisja Kljaković Braić, ZG](javascript:void(0);)
     
@@ -322,11 +322,11 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 
 [Galerija umetnika](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")[](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/tatjana-ilic/pticu-nosim-zbog-umetnickog-rada/slika-11.jpg?itok=HxqI1Ga9)](http://seecult.org/galerija/galerija-umetnika/tatjana-ilic/pticu-nosim-zbog-umetnickog-rada)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/zoran-popovic-escapism/zoran-popovic-erotski-crtezi/erotic-drawings/21-skica-za-nerealizovan-enterijer-diskoteke-monokl-u-skadarliji-koju-je-projektovao-arh-ilija.jpg?itok=sAOH_vhi)](http://seecult.org/galerija/galerija-umetnika/zoran-popovic-escapism/zoran-popovic-erotski-crtezierotic-drawings)
 
 [Foto galerija](http://seecult.org/galerija/foto-galerija "Foto galerija")[](http://seecult.org/galerija/foto-galerija "Foto galerija")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/laurie-anderson-skoplje/lori6.jpg?itok=PXGG1Dnf)](http://seecult.org/galerija/foto-galerija/foto-arhiva/laurie-anderson-skoplje)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/magacin-u-kraljevica-marka/mag4.jpg?itok=wIOy_wug)](http://seecult.org/galerija/foto-galerija/foto-arhiva/magacin-u-kraljevica-marka)
 
 * [Najčitanije](#news_1)
 * [Najnovije](#news_2)
