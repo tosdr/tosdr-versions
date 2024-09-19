@@ -137,7 +137,9 @@ MSX Music player
 
 Latest reactions
 
+* [OCMINFO for MSX++ compatibles](https://www.msx.org/news/en/ocminfo-for-msx-compatibles "OCMINFO for MSX++ compatibles")
 * [I-Logic](https://www.msx.org/news/software/en/i-logic "I-Logic")
+* [MSX and Networking book crowdfunding](https://www.msx.org/news/en/new-book-about-msx-and-networking-crowdfunding-campaign "MSX and Networking book crowdfunding")
 * [Markus Vordermeier aka Hamlet passed away](https://www.msx.org/news/msx-related/en/markus-vordermeier-aka-hamlet-passed-away "Markus Vordermeier aka Hamlet passed away")
 * [Fruit Mazes and Pallo](https://www.msx.org/news/en/pallo-a-new-game-for-your-msx2 "Fruit Mazes and Pallo")
 * [MSX Logo policy updated](https://www.msx.org/news/msx-revival/en/msx-logo-policy-updated "MSX Logo policy updated")
@@ -145,14 +147,13 @@ Latest reactions
 * [MSX UK fun day](https://www.msx.org/news/en/msx-uk-fun-day "MSX UK fun day")
 * [Rambo MSX2 remake announced](https://www.msx.org/news/en/rambo-msx2-remake "Rambo MSX2 remake announced")
 * [HD Menu 3.2](https://www.msx.org/downloads/utilities/msx-dos-2/hd-menu-32 "HD Menu 3.2")
-* [HIC board project](https://www.msx.org/news/en/hic-board-project-has-been-released "HIC board project")
-* [Singular Stone for MSX2 released](https://www.msx.org/news/software/en/singular-stone-for-msx2-released "Singular Stone for MSX2 released")
 
 Latest forum posts
 
+* [Casio MX-10 Technical cartridge port questions](https://www.msx.org/forum/msx-talk/hardware/casio-mx-10-technical-cartridge-port-questions " Casio MX-10 Technical cartridge port questions")
 * [WonderTANG! Who wants to juice up your MSX?](https://www.msx.org/forum/msx-talk/hardware/wondertang-who-wants-to-juice-up-your-msx?page=51 "WonderTANG! Who wants to juice up your MSX?")
-* [Konami SCC cart (E)Eprom substitution](https://www.msx.org/forum/msx-talk/hardware/konami-scc-cart-eeprom-substitution "Konami SCC cart (E)Eprom substitution")
 * [OCMINFO: Tool for OCM/MSX++ compatibles](https://www.msx.org/forum/msx-talk/software/ocminfo-tool-for-ocmmsx-compatibles "OCMINFO: Tool for OCM/MSX++ compatibles")
+* [Konami SCC cart (E)Eprom substitution](https://www.msx.org/forum/msx-talk/hardware/konami-scc-cart-eeprom-substitution "Konami SCC cart (E)Eprom substitution")
 * [Anbernic console for msx](https://www.msx.org/forum/msx-talk/hardware/anbernic-console-for-msx "Anbernic console for msx")
 * [Joypad wiring for pcb from Aliexpress](https://www.msx.org/forum/msx-talk/hardware/joypad-wiring-for-pcb-from-aliexpress?page=13 "Joypad wiring for pcb from Aliexpress")
 * [Save MRC](https://www.msx.org/forum/msx-talk/msx-resource-center/save-mrc?page=3 "Save MRC ")
@@ -160,7 +161,6 @@ Latest forum posts
 * [Pre-MSX: SV/SVI/Spectravidio SV-807, SV-605B looking for info and pictures](https://www.msx.org/forum/msx-talk/msx-resource-center/pre-msx-svsvispectravidio-sv-807-sv-605b-looking-for-info-and-pic "Pre-MSX: SV/SVI/Spectravidio SV-807, SV-605B looking for info and pictures")
 * [Panasonic FS-A1 Mk II - no video signal](https://www.msx.org/forum/msx-talk/hardware/panasonic-fs-a1-mk-ii-no-video-signal?page=6 "Panasonic FS-A1 Mk II - no video signal")
 * [Penguin Adventure Remake - pre Alpha](https://www.msx.org/forum/msx-talk/general-discussion/penguin-adventure-remake-pre-alpha?page=1 "Penguin Adventure Remake - pre Alpha")
-* [Casio MX-10 Technical cartridge port questions](https://www.msx.org/forum/msx-talk/hardware/casio-mx-10-technical-cartridge-port-questions " Casio MX-10 Technical cartridge port questions")
 * [Carnivore2 : First impressions and bugs...](https://www.msx.org/forum/msx-talk/hardware/carnivore2-first-impressions-and-bugs?page=54 "Carnivore2 : First impressions and bugs...")
 * [Emulator / debugger recommendations for development on PC](https://www.msx.org/forum/msx-talk/development/emulator-debugger-recommendations-for-development-on-pc "Emulator / debugger recommendations for development on PC")
 
