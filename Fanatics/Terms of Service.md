@@ -1,3 +1,5 @@
+[](https://sportsbook.fanatics.com/?af_xp=qr&af_sub1=web&source_caller=ui&pid=Fanatics-Site&shortlink=kcjfpeh7&af_sub2=bounty-eligible&af_adset=pm-qr&af_ad=state-launch&deep_link_value=%2Fdiscover&af_channel=Commerce&c=ALL_X-sell_Takeover_SBK)
+
 [Skip to Main Content](#main-content)[Skip to Footer](#global-footer)
 
 SIGN UP & SAVE!
@@ -408,24 +410,24 @@ Follow Us
 * PayPal
 * Apple Pay
 
-rc: 1d3b1f306e92b008
+rc: ea91fb117fa876e5
 
-vid: e98c1a90-7627-11ef-b556-ed7efd4b7525
+vid: 2b06b9d0-765a-11ef-96a0-19828c5d3085
 
 version: 1.1.0-rc-20240916.97198
 
 +
 
 Qualified Experiments #:* 12635:A:0:1
-* 14737:A:0:1
-* 14753:B:1:1
-Namespaces:* 7:1476:0
-* 8:3090:0
-* 9:3024:0
-* 11:5357:0
-* 3:389:0
-* 4:4166:0
-* 5:4363:0
-* 6:2389:0
-* 10:5824:0
-* 2:3456:0
+* 14737:B:1:1
+* 14753:A:0:1
+Namespaces:* 3:1829:0
+* 8:1707:0
+* 9:61:0
+* 6:2649:0
+* 7:4092:0
+* 10:5588:0
+* 11:6727:0
+* 2:4518:0
+* 4:2982:0
+* 5:1903:0
