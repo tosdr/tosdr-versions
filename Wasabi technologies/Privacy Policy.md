@@ -26,7 +26,7 @@ Data Processing Agreement
   
   
 
-[Company](https://wasabi.com/legal/data-processing-agreement#)
+[Company](https://wasabi.com/legal/data-processing-agreement?__nextDataReq=1#)
 
 * [About Wasabi](https://wasabi.com/company)
     
