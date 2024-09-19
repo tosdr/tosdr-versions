@@ -39,9 +39,9 @@ editorial \_
 
 coverstory \_
 
-[![A "Factory First" Look at Prime Time's 2025 Lineup of Travel Trailers and Fifth Wheels](https://s1.cdn.autoevolution.com/images/news/a-factory-first-look-at-prime-time-s-2025-lineup-of-travel-trailers-and-fifth-wheels-239971-5.jpeg "A "Factory First" Look at Prime Time's 2025 Lineup of Travel Trailers and Fifth Wheels")
+[![Rivian's 1,025-HP Three-Row Family Hauler Is the Ultimate Sleeper](https://s1.cdn.autoevolution.com/images/news/rivian-s-1025-hp-three-row-family-hauler-is-the-ultimate-sleeper-239984-5.jpg "Rivian's 1,025-HP Three-Row Family Hauler Is the Ultimate Sleeper")
 
-A "Factory First" Look at Prime Time's 2025 Lineup of Travel Trailers and Fifth Wheels](https://www.autoevolution.com/news/a-factory-first-look-at-prime-time-s-2025-lineup-of-travel-trailers-and-fifth-wheels-239971.html)
+Rivian's 1,025-HP Three-Row Family Hauler Is the Ultimate Sleeper](https://www.autoevolution.com/news/rivian-s-1025-hp-three-row-family-hauler-is-the-ultimate-sleeper-239984.html)
 
 how-to \_
 
