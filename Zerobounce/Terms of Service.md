@@ -85,6 +85,7 @@ Trigger navigation
     * [Mailchimp Omnivore](https://www.zerobounce.net/mailchimp-omnivore "Mailchimp Omnivore")
     * [Email List Decay Report 2024](https://www.zerobounce.net/email-list-decay "Email List Decay Report 2024")
     * [Email Statistics Report for 2024](https://www.zerobounce.net/email-statistics-report/ "Email Statistics Report for 2024")
+    * [Testing Email Deliverability](https://www.zerobounce.net/test-email-address-deliverability-guide/ "Testing Email Deliverability")
     
 * [Company](https://www.zerobounce.net/why-us "Why Use ZeroBounce")
     
