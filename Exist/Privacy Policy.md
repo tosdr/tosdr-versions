@@ -21,6 +21,7 @@ This Privacy Policy was last updated 6 October 2023. If we change our privacy po
 * **2018-05-21:** Clarified more "data processors", Campaign Monitor, and that if you connect location and weather, we share your approximate location with Dark Sky and Google Maps.
 * **2021-10-26:** Added Sentry to our list of third-parties.
 * **2023-10-06:** Added clarification of Health Connect use.
+* **2024-09-19:** Removed mention of Google Analytics as we don't use it. Switched mention of Dark Sky to Apple Weather as Dark Sky was acquired by Apple. Switched mention of Google Maps to Mapbox.
 
 ### Why we collect your data
 
@@ -80,15 +81,13 @@ We use [Help Scout](https://www.helpscout.net/company/privacy/) to track User su
 
 We use [Stripe](https://stripe.com/us/privacy) to manage User subscriptions and as such your email address, credit card information, and subscription payment history are shared with this company. As it is a legal requirement for us to keep accounting records, we're legally unable to delete your email address and payment records from Stripe when your account is deleted.
 
-If you opt to share your location with us via any service, such as Exist for iOS or Swarm, we will share this latitude and longitude with Google Maps in order to get your suburb-level location name and to display a map of your approximate location to you on the Site. No other identifying information is sent to Google Maps with your location.
+If you opt to share your location with us via any service, such as Exist for iOS or Swarm, we will share this latitude and longitude with Mapbox in order to get your suburb-level location name and to display a map of your approximate location to you on the Site. No other identifying information is sent to Mapbox with your location.
 
-If you opt to share your location with us and connect the [Dark Sky](https://darksky.net/privacy) service, we will send your latitude and longitude to Dark Sky in order to get local weather conditions. No other identifying information is sent to Dark Sky with your location
+If you opt to share your location with us and connect the Apple Weather service, we will send your latitude and longitude to Apple Weather in order to get local weather conditions. No other identifying information is sent to Apple Weather with your location. ([WeatherKit data sources](https://developer.apple.com/weatherkit/data-source-attribution/))
 
 We use [Campaign Monitor](https://www.campaignmonitor.com/policies/#privacy-policy) to send emails to Users, such an informational emails about new updates to Exist. When you create an Account, your name and email address are shared with this company.
 
 We use [Sentry](https://sentry.io/privacy/) to track information about errors and crashes in our mobile apps and on the Site. Your username is part of this information, as well as details about your mobile phone, such as model and software version numbers. While we endeavour to collect the minimum amount of personal information needed in order to understand and fix crashes, we may at times send data related to your attributes to Sentry as part of our error logs.
-
-(We also use [Google Analytics](https://support.google.com/analytics/answer/6004245?hl=en) to track visitors to our Site, but we do not share any personally identifiable information.)
 
 ### How we protect your information
 
