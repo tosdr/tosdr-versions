@@ -128,39 +128,39 @@ Advertisement
     The Beginning and the End of the Universe
     
     Episode 1: The BeginingEmbarking on a cosmic journey, Professor Jim Al-Khalili transports us through the corridors of time to confront science's most profound inquiry: the genesis of the univers...](https://documentaryheaven.com/the-beginning-and-the-end-of-the-universe/ "The Beginning and the End of the Universe")
-* [![National Security Alert](/wp-content/thumbnails/933-100x70.jpg?x53432)
+* [![The Guantanamo Guidebook](/wp-content/thumbnails/4319-100x70.jpg?x53432)
     
-    National Security Alert
+    The Guantanamo Guidebook
     
-    In 2006 Citizen Investigation Team launched an independent investigation into the act of terrorism which took place at the Pentagon on September 11, 2001. This exhaustive three-year inquest involved ...](https://documentaryheaven.com/national-security-alert/ "National Security Alert")
+    British Channel 4 engaged the Team Delta Cadre to recreate the Guantanamo Bay interrogation experience.At the production company’s request, along with Team Delta’s normal approach to interrogation...](https://documentaryheaven.com/the-guantanamo-guidebook/ "The Guantanamo Guidebook")
 
 ###### Throwback Documentaries
 
-* [![UK Monarchy](/wp-content/thumbnails/2581-100x70.jpg?x53432)
+* [![David Attenborough’s Madagascar](/wp-content/thumbnails/6245-100x70.jpg?x53432)
     
-    UK Monarchy
+    David Attenborough’s Madagascar
     
-    Eminent scholar and energetic storyteller Dr. David Starkey (The Six Wives of Henry VIII) serves as your guide through nearly 10 centuries of royal rule in England.From the fall of the Roman Empir](https://documentaryheaven.com/uk-monarchy/ "UK Monarchy")
-* [![Shadows of Liberty](/wp-content/thumbnails/7177-100x70.jpg?x53432)
+    Episode 1: Island of Marvels Madagascar, the world’s oldest island, broke off from Africa and India and has been on its own for more than 70 million years. In splendid isolation, it has evolved its ve](https://documentaryheaven.com/david-attenboroughs-madagascar/ "David Attenborough’s Madagascar")
+* [![Gaddafi: The Endgame (State of Denial)](/wp-content/thumbnails/8289-100x70.jpg?x53432)
     
-    Shadows of Liberty
+    Gaddafi: The Endgame (State of Denial)
     
-    Shadows of Liberty reveals the phenomenal truth behind the news media: censorship, cover-ups and corporate control. The documentary takes a journey through the darker corridors of the American media l](https://documentaryheaven.com/shadows-of-liberty/ "Shadows of Liberty")
-* [![Blair: The Inside Story](/wp-content/thumbnails/8051-100x70.jpg?x53432)
+    It's the end of a dictatorship, the symbols of a dynasty lie smashed and this is whats left after 42 years of Gaddafi's quixotic rule. A new revolution is overthrowing the old at a price. In 1969 he o](https://documentaryheaven.com/gaddafi-endgame-state-denial/ "Gaddafi: The Endgame (State of Denial)")
+* [![The Mary Bell Case](/wp-content/thumbnails/4753-100x70.jpg?x53432)
     
-    Blair: The Inside Story
+    The Mary Bell Case
     
-    A three part documentary on Tony Blair.Episode 1: The New LeaderThe first programme examines how Tony Blair came to power on a huge wave of public goodwill, as the Tories were swept out of off](https://documentaryheaven.com/blair-inside-story/ "Blair: The Inside Story")
-* [![Silk Road: Drugs, Death and the Dark Web](/wp-content/thumbnails/13459-100x70.jpg?x53432)
+    On 25 May 1968, the day before her 11th birthday, Mary Flora Bell strangled four-year-old Martin Brown. She was believed to have committed this crime alone. Between that time and the second killing, s](https://documentaryheaven.com/the-mary-bell-case/ "The Mary Bell Case")
+* [![Dominion](/wp-content/thumbnails/14316-100x70.jpg?x53432)
     
-    Silk Road: Drugs, Death and the Dark Web
+    Dominion
     
-    A BBC Storyville special which sets out to take a deep look into the now infamous black market website known as the Silk Road which came into existance back in 2011. Coined the 'Amazon of illegal drug](https://documentaryheaven.com/silk-road-drugs-death-dark-web/ "Silk Road: Drugs, Death and the Dark Web")
-* [![Eat, Fast and Live Longer](/wp-content/thumbnails/6707-100x70.jpg?x53432)
+    Domination is a feature-length film brought to you by the producer of Earthlings and just like Earthlings it too is narrated by Joaquin Phoenix. Filmed in Austrailia the documentary combines footage f](https://documentaryheaven.com/dominion/ "Dominion")
+* [![Dispatches: The Death Squads](/wp-content/thumbnails/2253-100x70.jpg?x53432)
     
-    Eat, Fast and Live Longer
+    Dispatches: The Death Squads
     
-    Michael Mosley has set himself a truly ambitious goal: he wants to live longer, stay younger and lose weight in the bargain. And he wants to make as few changes to his life as possible along the way.](https://documentaryheaven.com/eat-fast-and-live-longer/ "Eat, Fast and Live Longer")
+    The torture and slaughter of Iraqi civilians is reaching unprecedented heights with estimates of up to 655,000 dead. Night after night death squads rampage through Iraq’s main cities. In Baghdad, up t](https://documentaryheaven.com/dispatches-the-death-squads/ "Dispatches: The Death Squads")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
