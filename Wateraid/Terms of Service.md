@@ -230,6 +230,6 @@ WaterAid - the water, sanitation and handwashing charity | © Copyright WaterAid
 * [](https://www.facebook.com/WaterAidAmerica/ "facebook")
 * [](https://www.instagram.com/WateraidAmerica "instagram")
 * [](https://www.linkedin.com/WaterAidAmerica)
-* [](https://www.x.com/WateraidAmerica "twitter")
+* [](https://x.com/WateraidAmerica "twitter")
 * [](https://www.vimeo.com/user72945131 "vimeo")
 * [](https://www.youtube.com/WaterAidAmerica "youtube")
