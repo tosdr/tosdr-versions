@@ -260,15 +260,15 @@ Or write to us at: 937 Haverford Road Suite 200, Bryn Mawr PA 19010
 
  related  categories
 
-[How to Avoid Senior Isolation and Loneliness](https://www.visitingangels.com/knowledge-center/senior-health-and-well-being/how-to-avoid-senior-isolation-and-loneliness/316)
+[Recognizing the Signs Your Parents Need Assisted Living Care](https://www.visitingangels.com/knowledge-center/care-options/recognizing-the-signs-your-parents-need-assisted-living-care/67)
 
-[Is it Time for Your Loved Ones to Leave Their Homes?](https://www.visitingangels.com/knowledge-center/care-options/is-it-time-for-your-loved-ones-to-leave-their-homes/6)
+[Homecare Assistance: A Cure for Senior Loneliness](https://www.visitingangels.com/knowledge-center/why-in-home-care/homecare-assistance-a-cure-for-senior-loneliness/475)
 
-[Activities That Stimulate Your Aging Senior’s Brain](https://www.visitingangels.com/knowledge-center/senior-health-and-well-being/activities-that-stimulate-your-aging-seniors-brain/381)
+[Social Isolation: The Severity of the Problem](https://www.visitingangels.com/knowledge-center/senior-health-and-well-being/social-isolation-the-severity-of-the-problem/365)
 
-[How a Professional Caregiver Can Help Manage Your Senior's Medications](https://www.visitingangels.com/knowledge-center/senior-health-and-well-being/how-a-professional-caregiver-can-help-manage-your-seniors-medications/346)
+[Wake Up Call: What I Saw at My Friend's Mom's Funeral](https://www.visitingangels.com/knowledge-center/preparing-loved-ones/wake-up-call-what-i-saw-at-my-friends-moms-funeral/350)
 
-[What to Know About Switching Professional Caregivers](https://www.visitingangels.com/knowledge-center/selecting-care/what-to-know-about-switching-professional-caregivers/328)
+[Everything You Should Know About Adult Care (Non-Senior Home Care)](https://www.visitingangels.com/knowledge-center/care-options/everything-you-should-know-about-adult-care-non-senior-home-care/40)
 
 * [Care Options](https://www.visitingangels.com/knowledge-center/care-options)
 * [Selecting Care](https://www.visitingangels.com/knowledge-center/selecting-care)
