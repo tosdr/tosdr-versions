@@ -66,11 +66,10 @@ Source of fund and source of wealth might be required at later stage. Also, play
 
 14.1 If your account was successfully funded by Credit Card(s) the following additional documents are required:
 
-* Signed Account Verification form (find it [here](https://www.fairgoplus.com/account-verification "Credit Card Authorization Form "))
 * Back and front colourful copies of Credit Card(s)
 * Authorization letter and Identification documents of the card owner
 
-14.2 The documents should be scanned and sent by email to This email address is being protected from spambots. You need JavaScript enabled to view it.. Please ensure all copies are clear and legible. If not received in this manner it can delay the verification process.
+14.2 The documents should be scanned and sent by email to This email address is being protected from spambots. You need JavaScript enabled to view it.. Please ensure all copies are clear and legible. If not received in this manner it can delay the verification process. See more information on account verification [here.](https://www.fairgoplus.com/account-verification "Credit Card Authorization Form ")
 
 15\. Payments will always be sent back to the payment method by which deposits were made, if possible. Fair Go Casino reserves the right to make the final decision through which method the customers receives their withdrawals. Withdrawals are only allowed to accounts controlled and owned by the gaming account holder.  
   
