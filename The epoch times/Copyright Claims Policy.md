@@ -158,76 +158,76 @@ Please note that under Section 512(f) of the DMCA, any person who knowingly mate
 
 TOP NEWS
 
+* [FBI: Iranian Hackers Tried to Pass Hacked Trump Campaign Information to Team Biden](https://www.theepochtimes.com/us/fbi-iranian-hackers-tried-to-pass-hacked-trump-campaign-information-to-team-biden-5726596)
+    
+    4hr By [Caden Pearson](https://www.theepochtimes.com/author/caden-pearson)
+    
+    [![FBI: Iranian Hackers Tried to Pass Hacked Trump Campaign Information to Team Biden](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![FBI: Iranian Hackers Tried to Pass Hacked Trump Campaign Information to Team Biden](https://img.theepochtimes.com/assets/uploads/2024/08/29/id5715050-08122024-DSC00079-FBI-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/fbi-iranian-hackers-tried-to-pass-hacked-trump-campaign-information-to-team-biden-5726596)
+* [House Fails to Pass GOP Stopgap Funding Plan](https://www.theepochtimes.com/us/house-fails-to-pass-gop-stopgap-funding-plan-5726510)
+    
+    4hr By [Joseph Lord](https://www.theepochtimes.com/author/joseph-lord), [Stacy Robinson](https://www.theepochtimes.com/author/stacy-robinson) and [Jackson Richman](https://www.theepochtimes.com/author/jackson-richman)
+    
+    [![House Fails to Pass GOP Stopgap Funding Plan](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![House Fails to Pass GOP Stopgap Funding Plan](https://img.theepochtimes.com/assets/uploads/2024/09/18/id5726602-GettyImages-2172990738-2-205x123.jpg.webp)](https://www.theepochtimes.com/us/house-fails-to-pass-gop-stopgap-funding-plan-5726510)
+* [CEOs Scale Back Hiring Plans Amid Weaker Sales Projections, Cooling Economy](https://www.theepochtimes.com/business/ceos-scale-back-hiring-plans-amid-weaker-sales-projections-cooling-economy-5726437)
+    
+    4hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
+    
+    [![CEOs Scale Back Hiring Plans Amid Weaker Sales Projections, Cooling Economy](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![CEOs Scale Back Hiring Plans Amid Weaker Sales Projections, Cooling Economy](https://img.theepochtimes.com/assets/uploads/2024/09/06/id5719304-Unemployment_Benefits_24211490074433-OP-205x123.jpg.webp)](https://www.theepochtimes.com/business/ceos-scale-back-hiring-plans-amid-weaker-sales-projections-cooling-economy-5726437)
+* [FBI Disrupts Chinese Botnet Infecting Thousands of US Devices](https://www.theepochtimes.com/china/fbi-disrupts-chinese-botnet-infecting-thousands-of-us-devices-5726553)
+    
+    4hr By [Andrew Thornebrooke](https://www.theepochtimes.com/author/andrew-thornebrooke)
+    
+    [![FBI Disrupts Chinese Botnet Infecting Thousands of US Devices](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![FBI Disrupts Chinese Botnet Infecting Thousands of US Devices](https://img.theepochtimes.com/assets/uploads/2024/09/10/id5721770-GettyImages-1228231209-1200x800-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/china/fbi-disrupts-chinese-botnet-infecting-thousands-of-us-devices-5726553)
+* [Growing Fear of War Follows 2 Days of Device Blasts in Lebanon](https://www.theepochtimes.com/world/growing-fear-of-war-follows-two-days-of-device-blasts-in-lebanon-5726512)
+    
+    4hr By [Dan M. Berger](https://www.theepochtimes.com/author/dan-m-berger)
+    
+    [![Growing Fear of War Follows 2 Days of Device Blasts in Lebanon](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Growing Fear of War Follows 2 Days of Device Blasts in Lebanon](https://img.theepochtimes.com/assets/uploads/2024/09/18/id5726322-GettyImages-2172009998-OP-205x123.jpg.webp)](https://www.theepochtimes.com/world/growing-fear-of-war-follows-two-days-of-device-blasts-in-lebanon-5726512)
+* [Trump Holds New York Rally, First Since 2nd Assassination Attempt](https://www.theepochtimes.com/us/trump-to-hold-new-york-rally-first-since-2nd-assassination-attempt-5726550)
+    
+    5hr By [Michael Washburn](https://www.theepochtimes.com/author/michael-washburn) and [Joseph Lord](https://www.theepochtimes.com/author/joseph-lord)
+    
+    [![Trump Holds New York Rally, First Since 2nd Assassination Attempt](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Trump Holds New York Rally, First Since 2nd Assassination Attempt](https://img.theepochtimes.com/assets/uploads/2024/09/19/id5726667-GettyImages-2172996463-2-205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-to-hold-new-york-rally-first-since-2nd-assassination-attempt-5726550)
+* [Trump’s Would-Be Shooter Was on Homeland Security’s Radar in 2022, Agency Official Testifies](https://www.theepochtimes.com/us/trumps-would-be-shooter-was-on-homeland-securitys-radar-in-2022-agency-official-testifies-5726419)
+    
+    5hr By [Darlene McCormick Sanchez](https://www.theepochtimes.com/author/darlene-sanchez)
+    
+    [![Trump’s Would-Be Shooter Was on Homeland Security’s Radar in 2022, Agency Official Testifies](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Trump’s Would-Be Shooter Was on Homeland Security’s Radar in 2022, Agency Official Testifies](https://img.theepochtimes.com/assets/uploads/2024/09/16/id5724981-pspspspdasdada8ds8ad8ads8-205x123.jpg.webp)](https://www.theepochtimes.com/us/trumps-would-be-shooter-was-on-homeland-securitys-radar-in-2022-agency-official-testifies-5726419)
+* [Thousands of Food Contact Chemicals Detected in Humans](https://www.theepochtimes.com/health/thousands-of-food-contact-chemicals-detected-in-humans-5725852)
+    
+    6hr By [Huey Freeman](https://www.theepochtimes.com/author/huey-freeman)
+    
+    [![Thousands of Food Contact Chemicals Detected in Humans](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Thousands of Food Contact Chemicals Detected in Humans](https://img.theepochtimes.com/assets/uploads/2024/09/18/id5726574-shutterstock_2249717917_strawberries_strawberry_food_packaging-205x123.jpg.webp)](https://www.theepochtimes.com/health/thousands-of-food-contact-chemicals-detected-in-humans-5725852)
 * [Day in Photos: Fires in Portugal, Exploding Pagers, and Voting in India](https://www.theepochtimes.com/article/day-in-photos-fires-in-portugal-exploding-pagers-and-voting-in-india-5721003)
     
-    NEW By [Epoch Times Staff](https://www.theepochtimes.com/author/epoch-times-staff)
+    6hr By [Epoch Times Staff](https://www.theepochtimes.com/author/epoch-times-staff)
     
     [![Day in Photos: Fires in Portugal, Exploding Pagers, and Voting in India](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Day in Photos: Fires in Portugal, Exploding Pagers, and Voting in India](https://img.theepochtimes.com/assets/uploads/2024/09/18/id5726467-GettyImages-2172006220-OP-205x123.jpg.webp)](https://www.theepochtimes.com/article/day-in-photos-fires-in-portugal-exploding-pagers-and-voting-in-india-5721003)
 * [Teamsters Union Makes No Endorsement for President](https://www.theepochtimes.com/us/teamsters-union-makes-no-endorsement-for-president-5725794)
     
-    2hr By [Jacob Burg](https://www.theepochtimes.com/author/jacob-burg)
+    8hr By [Jacob Burg](https://www.theepochtimes.com/author/jacob-burg)
     
     [![Teamsters Union Makes No Endorsement for President](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Teamsters Union Makes No Endorsement for President](https://img.theepochtimes.com/assets/uploads/2024/02/23/id5593521-GettyImages-1975627130-OP-205x123.jpg.webp)](https://www.theepochtimes.com/us/teamsters-union-makes-no-endorsement-for-president-5725794)
-* [Blinken Says US Not Involved in Hezbollah Pager Attacks, Urges Restraint Amid Cease-Fire Talks](https://www.theepochtimes.com/us/blinken-says-us-not-involved-in-hezbollah-pager-attacks-urges-restraint-amid-cease-fire-talks-5726337)
-    
-    3hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
-    
-    [![Blinken Says US Not Involved in Hezbollah Pager Attacks, Urges Restraint Amid Cease-Fire Talks](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Blinken Says US Not Involved in Hezbollah Pager Attacks, Urges Restraint Amid Cease-Fire Talks](https://img.theepochtimes.com/assets/uploads/2024/09/18/id5726492-Blinken-Egypt-pager-LebanonKO-205x123.jpg.webp)](https://www.theepochtimes.com/us/blinken-says-us-not-involved-in-hezbollah-pager-attacks-urges-restraint-amid-cease-fire-talks-5726337)
-* [FBI Director Confirms ‘Full Force’ Investigation Into Apparent 2nd Trump Assassination Attempt](https://www.theepochtimes.com/us/fbi-director-confirms-full-force-investigation-into-apparent-2nd-trump-assassination-attempt-5726336)
-    
-    4hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
-    
-    [![FBI Director Confirms ‘Full Force’ Investigation Into Apparent 2nd Trump Assassination Attempt](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![FBI Director Confirms ‘Full Force’ Investigation Into Apparent 2nd Trump Assassination Attempt](https://img.theepochtimes.com/assets/uploads/2024/03/12/id5605482-FBI-Wray-testify-GettyImages-2068291409-205x123.jpg.webp)](https://www.theepochtimes.com/us/fbi-director-confirms-full-force-investigation-into-apparent-2nd-trump-assassination-attempt-5726336)
-* [Police Confirm No Explosives Found Near Trump’s NY Rally, Person Detained](https://www.theepochtimes.com/us/no-explosives-found-near-trumps-ny-rally-person-detained-police-5726325)
-    
-    6hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
-    
-    [![Police Confirm No Explosives Found Near Trump’s NY Rally, Person Detained](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Police Confirm No Explosives Found Near Trump’s NY Rally, Person Detained](https://img.theepochtimes.com/assets/uploads/2024/09/18/id5726242-GettyImages-2172740180-2.jpg-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/no-explosives-found-near-trumps-ny-rally-person-detained-police-5726325)
-* [Americans Can Now Renew Their Passports Online: Everything You Need to Know](https://www.theepochtimes.com/us/americans-can-now-renew-their-passports-online-everything-you-need-to-know-5726274)
-    
-    6hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
-    
-    [![Americans Can Now Renew Their Passports Online: Everything You Need to Know](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Americans Can Now Renew Their Passports Online: Everything You Need to Know](https://img.theepochtimes.com/assets/uploads/2024/06/19/id5671603-passport.jpg-sb-205x123.jpg.webp)](https://www.theepochtimes.com/us/americans-can-now-renew-their-passports-online-everything-you-need-to-know-5726274)
-* [Second Wave of Explosions Hits Communications Devices Across Lebanon](https://www.theepochtimes.com/world/second-wave-of-explosions-hits-communications-devices-across-lebanon-5726302)
-    
-    6hr By [Owen Evans](https://www.theepochtimes.com/author/owen-evans) and [Ryan Morgan](https://www.theepochtimes.com/author/ryan-morgan)
-    
-    [![Second Wave of Explosions Hits Communications Devices Across Lebanon](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Second Wave of Explosions Hits Communications Devices Across Lebanon](https://img.theepochtimes.com/assets/uploads/2024/09/18/id5726511-Lebanon-explosion.jpg-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/world/second-wave-of-explosions-hits-communications-devices-across-lebanon-5726302)
-* [Mortgage Applications Rise Amid Fed Rate Cut Prediction](https://www.theepochtimes.com/business/mortgage-applications-rise-amid-fed-rate-cut-prediction-5726188)
-    
-    9hr By [Naveen Athrappully](https://www.theepochtimes.com/author/naveen-athrappully)
-    
-    [![Mortgage Applications Rise Amid Fed Rate Cut Prediction](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Mortgage Applications Rise Amid Fed Rate Cut Prediction](https://img.theepochtimes.com/assets/uploads/2024/06/24/id5674249-GettyImages-2154182627_web-205x123.jpg.webp)](https://www.theepochtimes.com/business/mortgage-applications-rise-amid-fed-rate-cut-prediction-5726188)
-* [Arizona Officials Find Nearly 100,000 Voters Didn’t Provide Proof of Citizenship](https://www.theepochtimes.com/us/arizona-officials-find-flaw-in-proof-of-citizenship-for-nearly-100000-voters-5726184)
-    
-    10hr By [Zachary Stieber](https://www.theepochtimes.com/author/zachary-stieber)
-    
-    [![Arizona Officials Find Nearly 100,000 Voters Didn’t Provide Proof of Citizenship](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Arizona Officials Find Nearly 100,000 Voters Didn’t Provide Proof of Citizenship](https://img.theepochtimes.com/assets/uploads/2024/07/02/id5678969-GettyImages-1440312402KO-205x123.jpg.webp)](https://www.theepochtimes.com/us/arizona-officials-find-flaw-in-proof-of-citizenship-for-nearly-100000-voters-5726184)
-* [Exploding Pagers Made in Hungary, Says Taiwanese Firm](https://www.theepochtimes.com/world/exploding-pagers-made-in-hungary-says-taiwanese-firm-5726156)
-    
-    10hr By [Owen Evans](https://www.theepochtimes.com/author/owen-evans)
-    
-    [![Exploding Pagers Made in Hungary, Says Taiwanese Firm](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Exploding Pagers Made in Hungary, Says Taiwanese Firm](https://img.theepochtimes.com/assets/uploads/2024/09/18/id5726153-2024-09-18T034451Z_1_LYNXMPEK8H02P_RTROPTP_4_ISRAEL-PALESTINAINS-HEZBOLLAH-GOLD-APOLLO-205x123.jpg.webp)](https://www.theepochtimes.com/world/exploding-pagers-made-in-hungary-says-taiwanese-firm-5726156)
 
 [![The Epoch Times](https://www.theepochtimes.com/assets/themes/eet/images/logo_eet.svg)](https://www.theepochtimes.com/)
 
