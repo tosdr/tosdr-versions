@@ -5,7 +5,6 @@
 * [APPS](https://www.zerosuniverse.com/apps/)
 * [AI](https://www.zerosuniverse.com/artificial-intelligence/)
 * [Tech](https://www.zerosuniverse.com/tech/)
-* [Guest Post](https://www.zerosuniverse.com/guest-post/)
 
 #### Trending Now
 
@@ -32,7 +31,6 @@
 * [APPS](https://www.zerosuniverse.com/apps/)
 * [AI](https://www.zerosuniverse.com/artificial-intelligence/)
 * [Tech](https://www.zerosuniverse.com/tech/)
-* [Guest Post](https://www.zerosuniverse.com/guest-post/)
 
 [Facebook](#) [X (Twitter)](#)
 
