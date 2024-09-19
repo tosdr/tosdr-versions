@@ -1,43 +1,219 @@
-* [Skip to main content](#skipnav2)
-* [About Us](https://www2.ed.gov/about/)
-* [Contact Us](https://www2.ed.gov/about/contacts/gen/)
-* [FAQs](https://www.ed.gov/answers/)
-*  [![](/images/languageicon.gif) Language Assistance](#)
-    * [English](https://www.ed.gov/notices/english-la)
-    * [español](https://www.ed.gov/notices/espanol-la)
-    * [中文: 繁體版](https://www.ed.gov/notices/chinese-la)
-    * [Việt-ngữ](https://www.ed.gov/notices/vietnamese-la)
-    * [한국어](https://www.ed.gov/notices/korean-la)
-    * [Tagalog](https://www.ed.gov/notices/tagalog-la)
-    * [Русский](https://www.ed.gov/notices/russian-la)
+[Skip to main content](#main-content)
 
-[![US Department of Education](/images/ed-gov-hat.png)](http://www.ed.gov/ "US Department of Education")
+![](/themes/custom/edgov/assets/uswds/images/us_flag_small.png)
 
-U.S. Department of Education
+An official website of the United States government
 
-Search for:
+Here's how you know
 
- 
+Here's how you know
 
-Toggle navigation
+![Dot gov](/themes/custom/edgov/assets/uswds/images/icon-dot-gov.svg)
 
-[U.S. Department of Education](http://www.ed.gov/)
+**Official websites use .gov**  
+A **.gov** website belongs to an official government organization in the United States.
 
-* [Student Loans](https://www2.ed.gov/fund/grants-college.html?src=pn)
-* [Grants](https://www2.ed.gov/fund/grants-apply.html?src=pn)
-* [Laws](https://www2.ed.gov/policy/landing.jhtml?src=pn)
-* [Data](https://www2.ed.gov/rschstat/landing.jhtml?src=pn)
+![Https](/themes/custom/edgov/assets/uswds/images/icon-https.svg)
 
-PRIVACY NOTICE  
-   Privacy Policy  
-![ ](/images/ed_c_dline.gif)  
-![](/images/ed_c_dline.gif)
+**Secure .gov websites use HTTPS**  
+A **lock** ( Lock Locked padlock ) or **https://** means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+
+ _[![Home](/themes/custom/edgov/logo.svg)](https://www2.ed.gov/ "Home")[U.S. Department of Education](https://www2.ed.gov/ "Home")_
+
+ _[![Home](/themes/custom/edgov/logo.svg)](https://www2.ed.gov/ "Home")[U.S. Department of Education](https://www2.ed.gov/ "Home")_
+
+![close](/themes/custom/edgov/assets/uswds/images/usa-icons/close.svg)
+
+* Higher Ed
+    
+    [Higher Education Homepage](https://www2.ed.gov/higher-education "Higher Education")
+    
+    [Find a College or Educational Program](https://www2.ed.gov/higher-education/find-college-or-educational-program)
+    
+    * [College Scorecard](https://collegescorecard.ed.gov/)
+    * [Community College](https://www2.ed.gov/higher-education/find-college-or-educational-program/community-college)
+    
+    [Pay for College](https://www2.ed.gov/higher-education/paying-college)
+    
+    * [Federal Student Aid (FSA)](https://studentaid.gov/)
+    * [Complete the FAFSA](https://studentaid.gov/h/apply-for-aid/fafsa)
+    
+    [Manage Your Loans](https://www2.ed.gov/higher-education/manage-your-loans)
+    
+    * [Loan Simulator](https://studentaid.gov/loan-simulator/)
+    * [Get your 1098-E Tax Form](https://www2.ed.gov/higher-education/manage-your-loans/_098-e-tax-form)
+    
+    [Career Pathways](https://www2.ed.gov/higher-education/career-pathways)
+    
+    * [Career and Technical Education](https://cte.ed.gov/)
+    * [Raise the Bar: Career Pathways](https://www2.ed.gov/about/ed-initiatives/raise-the-bar/raise-the-bar-postsecondary-and-career-pathways)
+    
+    [Veterans](https://www2.ed.gov/higher-education/veterans-and-military-families)
+    
+    * [Information for Military Families and Veterans](https://www2.ed.gov/higher-education/veterans-and-military-families/information-for-military-families-and-veterans)
+    * [8 Keys to Veteran Success](https://www2.ed.gov/higher-education/veterans-and-military-families/_-keys-to-veterans-success-sites)
+    
+* Adult Programs
+    
+    [Adult Programs Homepage](https://www2.ed.gov/adult-programs "Adult Programs")
+    
+    [Vocational Rehabilitation](https://rsa.ed.gov/)
+    
+    [Adult Education and Family Literacy Act (AEFLA)](https://aefla.ed.gov/)
+    
+    [Correctional Education](https://aefla.ed.gov/correctional-education)
+    
+* Birth to Grade 12 Education
+    
+    [Birth to Grade 12 Education Homepage](https://www2.ed.gov/birth-to-grade-12-education "Birth to Grade 12 Education")
+    
+    [Early Childhood Education](https://www2.ed.gov/birth-to-grade-12-education/early-childhood-education)
+    
+    * [Early Learning](https://www2.ed.gov/birth-to-grade-12-education/early-childhood-education/early-learning-home-page)
+    * [Research on Early Learning](https://www2.ed.gov/birth-to-grade-12-education/early-childhood-education/early-learning-research)
+    
+    [Elementary and Secondary Education](https://www2.ed.gov/birth-to-grade-12-education/elementary-and-secondary-education)
+    
+    * [Locate a school or district](https://nces.ed.gov/ccd/schoolsearch/)
+    * [Find Your State’s Performance Report](https://www2.ed.gov/laws-and-policy/laws-preschool-grade-12-education/esea/consolidated-state-performance-reports)
+    * [Career and Technical Education](https://cte.ed.gov/)
+    
+    [Resources for Parents and Students](https://www2.ed.gov/birth-to-grade-12-education/resources-families)
+    
+    * [Raise the Bar: Families](https://www2.ed.gov/about/ed-initiatives/raise-the-bar/raise-the-bar-resources-for-parents-and-families)
+    * [Career Pathways](https://www2.ed.gov/higher-education/career-pathways)
+    
+    [Laws related to Preschool to Grade 12 Education](https://www2.ed.gov/laws-and-policy/laws-preschool-grade-12-education)
+    
+    * [Students with disabilities](https://www2.ed.gov/laws-and-policy/individuals-disabilities)
+    
+* Teaching & Admin
+    
+    [Teaching and Administration Homepage](https://www2.ed.gov/teaching-and-administration "Teaching and Administration ")
+    
+    [Lead and Manage My School](https://www2.ed.gov/teaching-and-administration/lead-and-manage-my-school)
+    
+    * [Student Engagement and Attendance Center](https://www2.ed.gov/teaching-and-administration/supporting-students/seac)
+    
+    [Safe Learning Environments](https://www2.ed.gov/teaching-and-administration/safe-learning-environments)
+    
+    * [Disaster and Emergency Response](https://www2.ed.gov/teaching-and-administration/safe-learning-environments/natural-disaster-resources)
+    * [School Safety and Security](https://www2.ed.gov/teaching-and-administration/safe-learning-environments/school-safety-and-security)
+    
+    [Supporting Students](https://www2.ed.gov/teaching-and-administration/supporting-students)
+    
+    * [Students in foster care](https://www2.ed.gov/teaching-and-administration/supporting-students/special-populations/students-foster-care)
+    
+    [Professional Development](https://www2.ed.gov/teaching-and-administration/teaching-resources/professional-development)
+    
+    * [What Works Clearinghouse](https://ies.ed.gov/ncee/wwc/)
+    * [Kids’ Zone Educator Corner](https://nces.ed.gov/nceskids/educators_corner.asp)
+    
+* Grants & Programs
+    
+    [Grants and Programs Homepage](https://www2.ed.gov/grants-and-programs "Grants and Programs")
+    
+    [Money for College](https://www2.ed.gov/grants-and-programs/money-college)
+    
+    * [Pell Grants and Scholarships](https://studentaid.gov/understand-aid/types/grants/pell)
+    * [Work Study Programs](https://studentaid.gov/understand-aid/types/work-study)
+    
+    [Grants Overview](https://www2.ed.gov/grants-and-programs/apply-grant)
+    
+    * [Available Grants](https://www2.ed.gov/grants-and-programs/apply-grant/available-grants)
+    * [Getting Started with Grant Applications](https://www2.ed.gov/grants-and-programs/apply-grant/getting-started-discretionary-grant-applications)
+    
+    [Manage Your Grant](https://www2.ed.gov/grants-and-programs/manage-your-grant)
+    
+    * [Grantee Responsibilities](https://www2.ed.gov/grants-and-programs/manage-your-grant/ed-memoranda-guidance-for-grantees-us-department-of-education)
+    * [Grant Training](https://www2.ed.gov/grants-and-programs/manage-your-grant/grant-training-and-risk-management)
+    
+    [Grants for Birth to Grade 12](https://www2.ed.gov/grants-and-programs/grants-birth-grade-12)
+    
+    * [Well-Rounded Education](https://www2.ed.gov/grants-and-programs/grants-birth-grade-12/well-rounded-education-grants)
+    * [Teacher Prep](https://www2.ed.gov/grants-and-programs/teacher-prep)
+    
+    [Grants for Higher Education](https://www2.ed.gov/grants-and-programs/grants-higher-education)
+    
+    * [Fund for the Improvement of Postsecondary Education (FIPSE)](https://www2.ed.gov/about/ed-offices/ope/fipse/overview)
+    * [TRIO programs](https://www2.ed.gov/grants-and-programs/grants-higher-education/trio-home-page)
+    
+    [Grants for Special Populations](https://www2.ed.gov/grants-and-programs/grants-special-populations)
+    
+    * [Students with Disabilities](https://www2.ed.gov/grants-and-programs/grants-special-populations/grants-students-disabilities)
+    * [Economically Disadvantaged Students](https://www2.ed.gov/grants-and-programs/grants-special-populations/economically-disadvantaged-students)
+    
+    [Recognition Programs](https://www2.ed.gov/grants-and-programs/recognition-programs)
+    
+    * [US Presidential Scholars Program](https://www2.ed.gov/grants-and-programs/recognition-programs/us-presidential-scholars-program)
+    
+    [Formula Grants](https://www2.ed.gov/grants-and-programs/formula-grants)
+    
+    * [Title I, Part A](https://www2.ed.gov/grants-and-programs/formula-grants/school-improvement/improving-basic-programs-operated-by-local-educational-agencies-esea-title-i-part-a)
+    * [Title II, Part A](https://www2.ed.gov/grants-and-programs/formula-grants/school-improvement/supporting-effective-instruction-state-grantstitle-ii-part-a)
+    
+* Laws & Policy
+    
+    [Laws and Policy Homepage](https://www2.ed.gov/laws-and-policy)
+    
+    [Civil Rights Laws](https://www2.ed.gov/laws-and-policy/civil-rights-laws)
+    
+    * [File a Complaint](https://www2.ed.gov/laws-and-policy/civil-rights-laws/file-complaint)
+    * [Race, Religion, and National Origin Discrimination](https://www2.ed.gov/laws-and-policy/civil-rights-laws/race-color-national-origin)
+    
+    [Preschool to Grade 12 Education](https://www2.ed.gov/laws-and-policy/laws-preschool-grade-12-education)
+    
+    * [Every Student Succeeds Act (ESSA)](https://www2.ed.gov/laws-and-policy/laws-preschool-grade-12-education/every-student-succeeds-act-essa)
+    * [Preschool to Grade 12 Education Policy](https://www2.ed.gov/laws-and-policy/laws-preschool-grade-12-education/preschool-grade-12-policy-documents)
+    
+    [Higher Education](https://www2.ed.gov/laws-and-policy/higher-education-laws-and-policy)
+    
+    * [College Accreditation](https://www2.ed.gov/laws-and-policy/higher-education-laws-and-policy/college-accreditation)
+    
+    [Individuals with Disabilities](https://www2.ed.gov/laws-and-policy/individuals-disabilities)
+    
+    * [IDEA](https://www2.ed.gov/laws-and-policy/individuals-disabilities/idea)
+    * [Section 504 and 504 Plans](https://www2.ed.gov/laws-and-policy/individuals-disabilities/section-504)
+    
+    [Additional Laws and Policy](https://www2.ed.gov/laws-and-policy/adult-education-laws-and-policy)
+    
+    * [Student Records and Privacy](https://www2.ed.gov/laws-and-policy/ferpa/ferpa-overview)
+    * [Education Policy](https://www2.ed.gov/laws-and-policy/education-policy)
+    
+
+* [Español](https://www2.ed.gov/espanol)
+* [Data](https://www2.ed.gov/data)
+* [Research](https://www2.ed.gov/research)
+* [Contact Us](https://www2.ed.gov/about/contact-us)
+
+Site Search block
+-----------------
+
+BY KEYWORD 
+
+Breadcrumb
+----------
+
+1. [Home](https://www2.ed.gov/)
+2. [About Us](https://www2.ed.gov/about)
+3. [An Overview of The Department of Education](https://www2.ed.gov/about/ed-overview)
+4. [Required Notices](https://www2.ed.gov/about/ed-overview/required-notices)
+5. [Privacy](https://www2.ed.gov/about/ed-overview/required-notices/privacy)
+
+Privacy Policy | U.S. Department of Education
+=============================================
+
+Privacy Policy  
+![ ](/sites/ed/files/images/ed_c_dline.gif)  
+ 
+
+![](/sites/ed/files/images/ed_c_dline.gif)
 
 |     |     |
 | --- | --- |
-| ![](/images/ed_arrow_down.gif) | Select a link below to jump to the relevant page section. |
+| ![](/sites/ed/files/images/ed_arrow_down.gif) | Select a link below to jump to the relevant page section. |
 
-![](/images/spacer.gif)
+![](/sites/ed/files/images/spacer.gif)
 
 1. [Privacy Policy Summary](#summary)
 2. [Non-personal Information We Record](#non-p)
@@ -48,8 +224,9 @@ PRIVACY NOTICE
 7. [Social Media](#social-media)
 8. [Questions?](#questions)
 
-![ ](/images/ed_c_dline.gif)  
+![ ](/sites/ed/files/images/ed_c_dline.gif)  
 1\. Privacy Policy Summary  
+ 
 
 Thank you for visiting the U.S. Department of Education (ED) website and reviewing our privacy policy. Our policy is simple: We collect no personal information about you unless you choose to provide that information to us. We do not give, share, sell, or transfer any personal information to a third party.
 
@@ -59,8 +236,9 @@ If you want to know more about how we record non-personal information about your
 
  [TOP](#top)  
   
-![ ](/images/ed_c_dline.gif)  
+![ ](/sites/ed/files/images/ed_c_dline.gif)  
 2\. Non-personal Information We Record  
+ 
 
 If you do nothing during your visit but browse through the website, read pages, or download information, our website's operating system will automatically record some general information about your visit.
 
@@ -76,10 +254,11 @@ We use this information for statistical analysis, to help us make our site more 
 
  [TOP](#top)  
   
-![ ](/images/ed_c_dline.gif)  
+![ ](/sites/ed/files/images/ed_c_dline.gif)  
 3\. Cookies  
+ 
 
-The Office of Management and Budget (OMB) Memo [M-10-22: Guidance for Online Use of Web Measurement and Customization Technologies](https://obamawhitehouse.archives.gov/sites/default/files/omb/assets/memoranda_2010/m10-22.pdf "M-10-22: Guidance for Online Use of Web Measurement and Customization Technologies ") allows Federal Agencies to use **sessions and persistent cookies.**”
+The Office of Management and Budget (OMB) Memo [M-10-22: Guidance for Online Use of Web Measurement and Customization Technologies](https://obamawhitehouse.archives.gov/sites/ed/files/omb/assets/memoranda_2010/m10-22.pdf) allows Federal Agencies to use **sessions and persistent cookies.**”
 
 When you visit any website, its server may generate a piece of text known as a "cookie" to place on your computer. Placing cookie text allows websites to "remember" visitors' preferences, surfing patterns and behavior while they are connected.
 
@@ -104,8 +283,9 @@ Pursuant OMB Memo 10-22 Guidance Attachment III, V, these cookies collect inform
 
  [TOP](#top)  
   
-![ ](/images/ed_c_dline.gif)  
+![ ](/sites/ed/files/images/ed_c_dline.gif)  
 4\. Information from E-mail You Send to Us  
+ 
 
 If you decide to send us an electronic mail message (e-mail), the message will usually contain your return e-mail address. If you include personally-identifying information in your e-mail because you want us to address issues specific to your situation, we may use that information in responding to your request. In other limited circumstances, including requests from Congress or limited other parties, we may be required by law to disclose information that you submit.
 
@@ -113,118 +293,135 @@ Also, e-mail is not necessarily secure against interception. Please send only in
 
  [TOP](#top)  
   
-![ ](/images/ed_c_dline.gif)  
+![ ](/sites/ed/files/images/ed_c_dline.gif)  
 5\. Information Collected from Interactive Forms  
+ 
 
 On some of our web pages we offer interactive forms that let you voluntarily submit personal information (such as your e-mail address, name, or organization). This occurs when you are registering for various conferences, workshops, or training sessions offered by ED, taking student aid counseling quizzes, ordering publications from ED Pubs, or submitting comments to various web discussion forums. In those cases, all submitted information is used only for the expressed purposes for which it is intended and is not made available to any third party. However, when you submit a comment to an ED web discussion forum, if you supply your name, e-mail address, or other personal information, that information is posted along with your comment.
 
  [TOP](#top)  
   
-![ ](/images/ed_c_dline.gif)  
+![ ](/sites/ed/files/images/ed_c_dline.gif)  
 6\. Links to Other Sites  
+ 
 
-Our policy discloses the privacy practices for the ED website. But ED provides links to other websites. When you leave the ED website (www.ed.gov), you will be going to sites that are beyond our control. We try to ensure that links that leave our site are clearly labeled, usually with a ![Disclaimer (exiting to another site)](/notices/disc.jpg) icon. These other sites may send their own cookies to users, collect data, or solicit personal information. The privacy policies and procedures described here for ED do not apply to any external links. We encourage you to read the privacy policies of any site you link to from ours, especially if you share any personal information. Be informed. You are the person best qualified to protect your own privacy.
+Our policy discloses the privacy practices for the ED website. But ED provides links to other websites. When you leave the ED website (www.ed.gov), you will be going to sites that are beyond our control. We try to ensure that links that leave our site are clearly labeled, usually with a ![Disclaimer (exiting to another site)](/sites/ed/files/notices/disc.jpg) icon. These other sites may send their own cookies to users, collect data, or solicit personal information. The privacy policies and procedures described here for ED do not apply to any external links. We encourage you to read the privacy policies of any site you link to from ours, especially if you share any personal information. Be informed. You are the person best qualified to protect your own privacy.
 
  [TOP](#top)  
   
-![ ](/images/ed_c_dline.gif)  
+![ ](/sites/ed/files/images/ed_c_dline.gif)  
 7\. Social Media  
+ 
 
-ED is using third-party **[social media sites](https://www2.ed.gov/about/overview/focus/social-media.html)** to provide ED content in formats that may be useful or interesting; however, ED.gov is the official source of information from the U.S. Department of Education (ED). ED cannot attest to the accuracy of other information provided by these or any other linked sites. Using these third-party sites does not constitute an endorsement by ED or any of its employees of the sponsors of the sites or the information or products presented on the sites. Also, please be aware that the privacy protection provided at ED.gov may not be available on these third-party sites. Please note that when ED uses social media sites, ED does not collect or in any way use personally identifiable information.
+ED is using third-party [**social media sites**](https://www2.ed.gov/about/contact-us/social-media) to provide ED content in formats that may be useful or interesting; however, ED.gov is the official source of information from the U.S. Department of Education (ED). ED cannot attest to the accuracy of other information provided by these or any other linked sites. Using these third-party sites does not constitute an endorsement by ED or any of its employees of the sponsors of the sites or the information or products presented on the sites. Also, please be aware that the privacy protection provided at ED.gov may not be available on these third-party sites. Please note that when ED uses social media sites, ED does not collect or in any way use personally identifiable information.
 
  [TOP](#top)  
   
-![ ](/images/ed_c_dline.gif)  
+![ ](/sites/ed/files/images/ed_c_dline.gif)  
 8\. Questions?  
+ 
 
 If you have questions about this policy, please contact [webmaster@ed.gov](mailto:webmaster@ed.gov?subject=Re:%20ED.gov%20Privacy%20Policy).
 
-If you would like more information about ED’s privacy program, visit our [Privacy Program Page](https://www2.ed.gov/privacy "Privacy Program Page").
+If you would like more information about ED’s privacy program, visit our [Privacy Program Page](https://www2.ed.gov/privacy).
 
  [TOP](#top)  
   
-  
-![](/images/ed_c_dline.gif)
+ 
 
-|     |     |     |     |
-| --- | --- | --- | --- |
-| [![Print this page](/images/ed_gl_print.gif)](https://www2.ed.gov/print/notices/privacy/index.html) | [Printable view](https://www2.ed.gov/print/notices/privacy/index.html "Print this page") | ![](/images/spacer.gif) | [![Bookmark  and Share]( http://s7.addthis.com/static/btn/lg-share-en.gif)](http://www.addthis.com/bookmark.php?v=250) |
+Office of Communications and Outreach (OCO)
 
-![](/images/ed_c_dline.gif)
+Page Last Reviewed:
 
-Last Modified: 05/01/2017
+August 12, 2024
 
-How Do I Find...
-----------------
+Related Content
+---------------
 
-* [Student loans, forgiveness](https://www2.ed.gov/fund/grants-college.html?src=rn)
-* [College accreditation](https://www.ed.gov/accreditation?src=rn)
-* [Every Student Succeeds Act (ESSA)](https://www.ed.gov/essa?src=rn)
-* [FERPA](https://www2.ed.gov/policy/gen/guid/fpco/ferpa/index.html?src=rn)
-* [FAFSA](https://fafsa.ed.gov/?src=edgov-rn)
-* [1098, tax forms](https://www.ed.gov/1098-e?src=rn)
+### [Raising the Bar Across America: State by State Fact Sheets](https://www2.ed.gov/about/ed-initiatives/raise-bar/raising-bar-across-america-state-state-fact-sheets)
 
-[More >](https://www2.ed.gov/about/top-tasks.html?src=rn)
+The Biden-Harris Administration has made billions of dollars in crucial investments to strengthen education in schools, colleges, and universities across America. 
 
-Information About...
---------------------
+### [Letter to Chief State School Officers regarding using federal funds to improve student outcomes in the humanities](https://www2.ed.gov/letter-chief-state-school-officers-regarding-using-federal-funds-improve-student-outcomes)
 
-* [Transforming Teaching](https://www.ed.gov/teaching?src=rn)
-* [Family and Community Engagement](https://www.ed.gov/family-and-community-engagement?src=rn)
-* [Early Learning](https://www2.ed.gov/about/inits/ed/earlylearning/index.html?src=rn)
+Key Policy Letters Signed by the Education Secretary or Deputy Secretary
 
-![Related Topics](/images/ed_gl_rs_topics.gif)![ ](/images/spacer.gif)![ ](/images/spacer.gif)
+### [Letter to Chief State School Officers about information and resources to guard against viruses spread by mosquitoes such as the Zika virus disease](https://www2.ed.gov/letter-chief-state-school-officers-about-information-and-resources-guard-against-viruses-spread)
 
-|     |     |
-| --- | --- |
-| ![list bullet](/images/ed_gl_bullet.gif) | [Website Policies & Important Links](https://www2.ed.gov/notices/index.html?src=rt) |
+Key Policy Letters Signed by the Education Secretary or Deputy Secretary
 
-![ ](/images/spacer.gif)![ ](/images/ed_gl_rs_dline.gif)![ ](/images/spacer.gif)
+July 26, 2016
 
-|     |     |
-| --- | --- |
-| ![list bullet](/images/ed_gl_bullet.gif) | [Site Security](https://www2.ed.gov/notices/security/index.html?src=rt) |
+[Return to top](#)
 
-![ ](/images/spacer.gif)![ ](/images/ed_gl_rs_dline.gif)![ ](/images/spacer.gif)
+* [Pay for College](https://www2.ed.gov/higher-education/paying-college)
+    * [Fill out the FAFSA](https://www2.ed.gov/higher-education/paying-college/better-fafsa)
+    * [529 Plans](https://www.collegesavings.org/)
+    * [Loan Forgiveness](https://studentaid.gov/manage-loans/forgiveness-cancellation)
+    * [1098 Tax Forms](https://www2.ed.gov/higher-education/manage-your-loans/_098-e-tax-form)
+* [Educational Resources](https://www2.ed.gov/birth-to-grade-12-education/resources-families)
+    * [504 Plans](https://www2.ed.gov/laws-and-policy/individuals-disabilities/section-504)
+    * [FERPA](https://www2.ed.gov/laws-and-policy/ferpa/ferpa-overview)
+    * [IEPs (Individualized Education Program)](https://sites.ed.gov/idea/topic-areas/#IEP)
+* [Teaching Resources](https://www2.ed.gov/teaching-and-administration/teaching-resources)
+    * [Become a Teacher](https://cte.ed.gov/unlocking-career-success/take-action/teachers)
+    * [Professional Resources](https://www2.ed.gov/teaching-and-administration/teaching-resources/professional-development)
+    * [School Safety and Security](https://www2.ed.gov/teaching-and-administration/safe-learning-environments/school-safety-and-security)
+    * [Teaching Abroad](https://studyabroad.state.gov/us-government-scholarships-and-programs/programs-us-teachers)
+* [File a Report](https://www2.ed.gov/laws-and-policy/civil-rights-laws/file-complaint)
+    * [Report Fraud, Waste, or Abuse](https://oig.ed.gov/oig-hotline)
+    * [Report a Civil Rights Violation](https://www2.ed.gov/laws-and-policy/civil-rights-laws/file-complaint)
+    * [Student Privacy Complaint Forms](https://studentprivacy.ed.gov/file-a-complaint)
+* [About Us](https://www2.ed.gov/about)
+    * [Contact Us](https://www2.ed.gov/about/contact-us "Contact ED")
+    * [ED Offices](https://www2.ed.gov/about/ed-offices)
+    * [Overview of ED](https://www2.ed.gov/about/ed-overview)
+    * [Frequently Asked Questions (FAQs)](https://www2.ed.gov/about/contact-us/faqs)
+    * [Jobs at ED](https://www2.ed.gov/about/doing-business-ed/jobs-at-ed)
+* [News](https://www2.ed.gov/about/news)
+    * [Press Releases](https://www2.ed.gov/about/news)
+    * [Homeroom Blog](https://blog.ed.gov/)
+    * [Subscriptions](https://www2.ed.gov/about/news/subscriptions)
+* [Site Notices and Privacy Policies](https://www2.ed.gov/about/ed-overview/required-notices)
+    * [Accessibility Support](https://www2.ed.gov/about/ed-overview/notices-other-languages)
+* [ED Archive](https://www2.ed.gov/ed-web-archives)
 
-|     |     |
-| --- | --- |
-| ![list bullet](/images/ed_gl_bullet.gif) | [Disclaimer of Endorsement](https://www2.ed.gov/notices/disclaimer/index.html?src=rt) |
+### U.S. Department of Education
 
-![ ](/images/spacer.gif)![ ](/images/ed_gl_rs_dline.gif)![ ](/images/spacer.gif)
+[![Facebook](/themes/custom/edgov/images/icons/facebook.svg)](https://www.facebook.com/ED.gov)
 
-|     |     |
-| --- | --- |
-| ![list bullet](/images/ed_gl_bullet.gif) | [Copyright Status Notice](https://www2.ed.gov/notices/copyright/index.html?src=rt) |
+[![Facebook Es](/themes/custom/edgov/images/icons/facebook-es.svg)](https://www.facebook.com/USEducacion)
 
-![ ](/images/spacer.gif)![ ](/images/spacer.gif)
+[![Instagram](/themes/custom/edgov/images/icons/instagram.svg)](https://www.instagram.com/usedgov)
 
-* * *
+[![LinkedIn](/themes/custom/edgov/images/icons/LinkedIn.svg)](https://www.linkedin.com/company/usedgov)
 
-_Our mission_ is to promote student achievement and preparation for global competitiveness by fostering educational excellence and ensuring equal access.
+[![Twitter](/themes/custom/edgov/images/icons/twitter.svg)](https://twitter.com/usedgov)
 
-[Student Loans](https://www2.ed.gov/fund/grants-college.html?src=ft)[Repaying Loans](https://studentaid.ed.gov/repay-loans?src=ft) [Defaulted Loans](https://studentaid.ed.gov/repay-loans/default?src=ft) [Loan Forgiveness](https://studentaid.ed.gov/repay-loans/forgiveness-cancellation?src=ft) [Loan Servicers](https://studentaid.ed.gov/repay-loans/understand/servicers?src=ft#who-is-my-loan-servicer)
+[![Youtube](/themes/custom/edgov/images/icons/youtube.svg)](https://www.youtube.com/@usedgov)
 
-[Grants & Programs](https://www2.ed.gov/fund/grants-apply.html?src=ft)[Apply for Pell Grants](https://www.fafsa.ed.gov/?src=ft) [Grants Forecast](https://www2.ed.gov/fund/grant/find/edlite-forecast.html?src=ft) [Apply for a Grant](https://www2.ed.gov/fund/grant/apply/grantapps/index.html?src=ft) [Eligibility for Grants](https://www2.ed.gov/programs/find/elig/index.html?src=ft)
+[![Flickr](/themes/custom/edgov/images/icons/flickr.svg)](https://www.flickr.com/photos/departmentofed)
 
-[Laws & Guidance](https://www2.ed.gov/policy/?src=ft)[Every Student Succeeds Act (ESSA)](https://www.ed.gov/essa?src=ft) [FERPA](https://www2.ed.gov/policy/gen/guid/fpco/ferpa/index.html?src=ft) [Civil Rights](https://www2.ed.gov/about/offices/list/ocr/know.html?src=ft) [New IDEA Website](https://sites.ed.gov/idea/?src=ft)
+Contact Us
 
-[Data & Research](https://www2.ed.gov/rschstat/?src=ft)[Education Statistics](https://nces.ed.gov/?src=ft) [Postsecondary Education Data](https://nces.ed.gov/ipeds/?src=ft) [ED Data Express](https://eddataexpress.ed.gov/?src=ft) [Nation's Report Card](https://nces.ed.gov/nationsreportcard/?src=ft) [What Works Clearinghouse](https://ies.ed.gov/ncee/wwc/?src=ft)
+[1-800-USA-LEARN](tel:1-800-USA-LEARN)
 
-[About Us](https://www2.ed.gov/about/?src=ft)[Contact Us](https://www2.ed.gov/about/contacts/gen/?src=ft) [ED Offices](https://www2.ed.gov/about/offices/list/?src=ft) [Jobs](https://www.ed.gov/jobs/?src=ft) [Press Releases](https://www.ed.gov/news/?src=ft) [FAQs](https://www.ed.gov/answers/?src=ft) [Recursos en español](https://www2.ed.gov/espanol/bienvenidos/es/index.html?src=ft) [Budget, Performance](https://www2.ed.gov/about/overview/focus/performance.html?src=ft) [Privacy Program](https://www2.ed.gov/privacy?src=ft) [Subscribe to E-Mail Updates](https://public.govdelivery.com/accounts/USED/subscriber/new?topic_id=USED_5)
+![Agency logo](/themes/custom/edgov/logo-footer2.svg)
 
-[![Visit Education on Facebook](/images/facebook.gif)](https://www.facebook.com/ed.gov) [![Visit Education on Twitter](/images/twitter.gif)](https://twitter.com/usedgov)  [![Sign Up for Email Updates](/images/email.gif)](https://public.govdelivery.com/accounts/USED/subscriber/new?topic_id=USED_5) [![Follow our RSS feed](/images/rss.gif)](https://www.ed.gov/feed)
+[www.ed.gov](https://www2.ed.gov/)
 
-* * *
+an official website of the Department of Education
 
-* [Notices](https://www2.ed.gov/notices/index.html?src=ft)
-* [FOIA](https://www2.ed.gov/policy/gen/leg/foia/foiatoc.html?src=ft)
-* [Privacy Policy](https://www2.ed.gov/notices/privacy/index.html)
-* [Accessibility](https://www2.ed.gov/notices/accessibility/index.html)
-* [Security](https://www2.ed.gov/notices/security/index.html?src=ft)
-* [Information quality](https://www2.ed.gov/policy/gen/guid/infoqualguide.html?src=ft)
-* [Inspector General](https://www2.ed.gov/about/offices/list/oig/index.html?src=ft)
-* [Whitehouse.gov](https://www.whitehouse.gov/)
-* [USA.gov](https://www.usa.gov/)
-* [Benefits.gov](https://www.benefits.gov/)
-* [Regulations.gov](https://www.regulations.gov/)
+Secondary Footer Menu
+---------------------
+
+* [About Dept of Education](https://www2.ed.gov/about)
+* [Accessibility Support](https://www2.ed.gov/about/ed-overview/required-notices/website-policies/accessibility-statement)
+* [No FEAR Act data](https://www.opm.gov/equal-employment-opportunity/no-fear-act/)
+* [Office of the Inspector General](https://oig.ed.gov/)
+* [Performance reports](https://www2.ed.gov/about/ed-overview/annual-performance-reports)
+* [FOIA](https://www2.ed.gov/about/ed-overview/required-notices/foia)
+* [Privacy Policy](https://www2.ed.gov/about/ed-overview/required-notices/privacy/privacy-policy-us-department-of-education)
+* [ED Archive](https://www2.ed.gov/ed-web-archives)
+
+Looking for U.S. government information and services? [Visit USA.gov](https://usa.gov/)
