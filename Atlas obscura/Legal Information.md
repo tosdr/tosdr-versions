@@ -145,6 +145,10 @@ Latest Places
 
 [View All Places »](https://www.atlasobscura.com/places?sort=published_at)
 
+   [![](https://img.atlasobscura.com/x3NZv2zbrC0aVzr7hecd159QN452qjG3ngBb3s5pdKY/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy8yNmM4/NTA5Mi0xMjM5LTQw/NzMtYTE5My01NjZj/ZTY2ODQ1YjRjYzFm/N2IzZTg1MGM5NDAz/M2VfSU1HXzM2Mzku/anBlZw.jpg)
+
+Lavenham Guildhall](https://www.atlasobscura.com/places/lavenham-guildhall)
+
    [![The sushi memorial at Namiyoke Shrine remembers the spirits of the seafood that made your lunch.](https://img.atlasobscura.com/jxfRj0Wnbf3GhWM-MbKK33Gs6g35RUXZ5adSLKuInXk/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy9mOTcx/YTU4Mi1iMjdlLTRh/OTUtOGE5Mi01YjIy/ZmJlODM1Njg3NjM0/NjliMThmMjI3ZWFm/MTdfRFNDXzAxNTcu/anBlZw.jpg)
 
 Sushi Memorials at Namiyoke Shrine](https://www.atlasobscura.com/places/sushi-memorials-at-namiyoke-shrine)
@@ -156,10 +160,6 @@ The Cloth Hall Knife](https://www.atlasobscura.com/places/the-cloth-hall-knife)
    [![Roast goose, it's what Kam's does.](https://img.atlasobscura.com/rJBeF7wi5O88rTJD-BnDP2Ce6065kg-CIU6W6rYuTZ0/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy8yMjkw/Y2M5My02ZjY5LTQ2/ZGEtOTA2OC0xNzA0/Yzc2ZmFjOWM2Y2Yx/MmNiMWY5MjBmZjdh/ZGRfa2FtICgzKS5q/cGc.jpg)
 
 Kam's Roast Goose](https://www.atlasobscura.com/places/kams-roast-goose)
-
-   [![](https://img.atlasobscura.com/j63RL47WbG296jITJf2S0zoviMPOndLt_41HrsgJ9Og/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy9lMGNi/YzE0ZC1jMTFmLTQw/OTEtYmFkZi1mNWM4/OWVhMGIwY2U1NTg1/NzYxMWI5ZmZkYTVh/MWFfaGVuLmpwZw.jpg)
-
-Steel Henge](https://www.atlasobscura.com/places/steel-henge)
 
 Latest Places to Eat & Drink
 
@@ -193,6 +193,14 @@ Most Recent Stories
 
 [View All Stories »](https://www.atlasobscura.com/articles)
 
+   [![The annual pipe walk (shown in red) moves north from the ancient well, through neighborhoods and Victoria Park, before veering west to follow a 19th-century diversion.](https://img.atlasobscura.com/-lysB45Vf0mA1yzZAfVKD9KGr-PGZbAhj1MuYhzNg6Y/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2Fzc2V0/cy83MTQ3OTg2MDVm/NmFkYzYxMThfQ291/cnNlIG9mIHRoZSB3/YWxrIGNyb3AucG5n.png)
+
+This Annual Pipe Walk Maps a Medieval Tradition in Bristol](https://www.atlasobscura.com/articles/st-mary-redcliffe-pipe-walk-bristol)
+
+   [![Palacsinta-Americana are a DIY party version of the classic Hungarian dessert.](https://img.atlasobscura.com/DFyVVpc1dod-ppnbmB29s6DkDU_2QXIhTdUDJJzpJ3g/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2Fzc2V0/cy8yYjI0OWQyZC05/YzhiLTRjZTEtYjMw/ZC1iYjcxNWZiYjQ4/NDI2ZDMzOWExY2Vj/MTFkMTgxNmJfUGFs/YWNzaW50YUFtZXJp/Y2FuYSAoYykgRWQg/QW5kZXJzb24gKDUp/LmpwZWc.jpg)
+
+‘Palacsinta Americana’ Are Pure Grandma Magic](https://www.atlasobscura.com/articles/second-generation-cookbook-jeremy-salamon-agis-counter)
+
    [![While you’re searching for birds at Corkscrew Swamp Sanctuary, don’t forget to look down where you’re likely to see alligators navigating the water beneath the 2.25-mile boardwalk that winds through the swamp. ](https://img.atlasobscura.com/Mbb5kMHYS1CgtRCB5E62_5loXAhFyMM6TbpCWvvvyWs/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2Fzc2V0/cy85NzEwNmU3Njdl/MGUyMGQ3NDFfc2h1/dHRlcnN0b2NrXzIz/NzY0MTM3MDMuanBn.jpg)
 
 A Field Guide to Exploring Florida’s Best Birding Spots](https://www.atlasobscura.com/articles/a-field-guide-to-exploring-florida-s-best-birding-spots)
@@ -200,14 +208,6 @@ A Field Guide to Exploring Florida’s Best Birding Spots](https://www.atlasobsc
    [![Named for the Calusa Indians, known as Florida’s “water people,” the Great Calusa Blueway is a 190-mile saltwater paddling trail. ](https://img.atlasobscura.com/o3MGLMkj3hREW07DIHScHJWPjwfVr4DkImRqeA0RRzM/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2Fzc2V0/cy8zMmEzYmM1ZTQw/NmVjMzljMDBfR3Jl/YXQgQ2FsdXNhIEJs/dWV3YXkgLSBGb290/YWdlIFN0aWxsIC0g/S2F5YWtpbmcgT3Zl/cmhlYWQgNC5qcGc.jpg)
 
 Mangroves, Manatees, and More: Florida’s Stunning Paddle Destinations](https://www.atlasobscura.com/articles/mangroves-manatees-and-more-florida-s-stunning-paddle-destinations)
-
-   [![The Fort Jefferson naval station is a centerpiece of Dry Tortugas National Park. The crystal clear waters surrounding it are a top destination for seeing colorful sea life while snorkeling and diving. ](https://img.atlasobscura.com/cjrf0g6l4CzIew1SfZ3xGIUin1uxBPAlMuaxgBowBvQ/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2Fzc2V0/cy9iYTBhNmMyMjNl/N2MwYThjMGFfRHJ5/IFRvcnR1Z2FzIC0g/QWVyaWFsIEZvcnQg/SmVmZmVyc29uIC0y/MDIxKE5QSSkgKDMp/LmpwZw.jpg)
-
-Aquatic Adventures: 7 Spots for Diving, Snorkeling, and Wildlife in Florida](https://www.atlasobscura.com/articles/aquatic-adventures-7-spots-for-diving-snorkeling-and-wildlife-in-florida)
-
-   [![Rare carnivorous pitcher plants dot the landscape at Yellow River Marsh Preserve State Park in northwestern Florida. ](https://img.atlasobscura.com/HTHaJmC7x1ztzVM3BobfxdAXgf7Wtiiny3OLCLgIrfE/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2Fzc2V0/cy83MmY4ZDVhNzMw/MDY1ZDQ3ZTFfMjY4/Njg4MDAzMV81YTE5/YjIzZjg5X28uanBn.jpg)
-
-Fantastic Flora and Fauna: Where to Find Rare Wildlife and Curious Plants in Florida](https://www.atlasobscura.com/articles/fantastic-flora-and-fauna-where-to-find-rare-wildlife-and-curious-plants-in-florida)
 
 No search results found for  
 “”
