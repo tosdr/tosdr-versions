@@ -29,7 +29,7 @@ This app works best with JavaScript enabled.
     * [Help Center](https://help.mailgun.com/hc/en-us)
     * [Status](https://status.mailgun.com/)
     * [Release Notes](https://www.mailgun.com/release-notes/)
-    * [Security Portal](https://security.mailgun.com/)
+    * [Security Portal](https://trust.sinch.com/?product=mailgun)
     * [GDPR](https://www.mailgun.com/resources/learn/gdpr/)
     
 * [Documentation
@@ -891,7 +891,7 @@ Back to main menu
     * [Help Center](https://help.mailgun.com/hc/en-us)
     * [Status](https://status.mailgun.com/)
     * [Release Notes](https://www.mailgun.com/release-notes/)
-    * [Security Portal](https://security.mailgun.com/)
+    * [Security Portal](https://trust.sinch.com/?product=mailgun)
     * [GDPR](https://www.mailgun.com/resources/learn/gdpr/)
     
 * [Documentation
@@ -1114,7 +1114,7 @@ Back to main menu
 * [Help Center](https://help.mailgun.com/hc/en-us)
 * [Status](https://status.mailgun.com/)
 * [Release Notes](https://www.mailgun.com/release-notes/)
-* [Security Portal](https://security.mailgun.com/)
+* [Security Portal](https://trust.sinch.com/?product=mailgun)
 * [GDPR](https://www.mailgun.com/resources/learn/gdpr/)
 
 Privacy Policy
