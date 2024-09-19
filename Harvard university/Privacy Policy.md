@@ -211,9 +211,9 @@ Menu
         
         [Read more news](http://news.harvard.edu/)
         
-        1. [**Billions worldwide deficient in essential micronutrients** Inadequate levels carry risk of adverse pregnancy outcomes, blindness](https://news.harvard.edu/gazette/story/2024/08/billions-worldwide-deficient-in-essential-micronutrients/)
-        2. [**You want to be boss. You probably won’t be good at it.** Study pinpoints two measures that predict effective managers](https://news.harvard.edu/gazette/story/2024/08/you-want-to-be-boss-you-probably-wont-be-good-at-it/)
-        3. [**Weight-loss drug linked to fewer COVID deaths** Large-scale study finds Wegovy reduces risk of heart attack, stroke](https://news.harvard.edu/gazette/story/2024/08/weight-loss-drug-linked-to-fewer-covid-deaths/)
+        1. [**Harvard releases race data for Class of 2028** Cohort is first to be impacted by Supreme Court’s admissions ruling](https://news.harvard.edu/gazette/story/2024/09/harvard-releases-race-data-for-class-of-2028/)
+        2. [**Parkinson’s may take a ‘gut-first’ path** Damage to upper GI lining linked to future risk of Parkinson’s disease, says new study](https://news.harvard.edu/gazette/story/2024/09/parkinsons-may-take-a-gut-first-path/)
+        3. [**High doses of Adderall may increase psychosis risk** Among those who take prescription amphetamines, 81% of cases of psychosis or mania could have been eliminated if they were not on the high dose, findings suggest](https://news.harvard.edu/gazette/story/2024/09/high-doses-of-adderall-may-increase-psychosis-risk/)
         
     2. [Sign up for the Daily Gazette](https://www.pages01.net/harvard/gazette?email=)
     
