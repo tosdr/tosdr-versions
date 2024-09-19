@@ -110,7 +110,7 @@ Last Updated: November 15, 2011.
 
 ### Memesters Union
 
-     [](https://patriotpost.us/memes/110325-air-force-day-2024-09-18)
+     [](https://patriotpost.us/memes/110359-paging-hezbollah-2024-09-19)
 
 * [More Memes >](https://patriotpost.us/memes)
 
@@ -122,18 +122,14 @@ Last Updated: November 15, 2011.
 
 ### Top Opinion
 
+*      [Allen West The Real Question of the 2024 Election](https://patriotpost.us/opinion/110357-the-real-question-of-the-2024-election-2024-09-19)
+*      [Cal Thomas Words and Deeds](https://patriotpost.us/opinion/110356-words-and-deeds-2024-09-19)
 *      [Mark Alexander The Demos’ Demolition of Our Constitution](https://patriotpost.us/alexander/110355-the-demos-demolition-of-our-constitution-2024-09-18)
 *      [Ben Shapiro Another Month, Another Trump Assassination Attempt](https://patriotpost.us/opinion/110334-another-month-another-trump-assassination-attempt-2024-09-18)
 *      [John Stossel Class Action Scams](https://patriotpost.us/opinion/110333-class-action-scams-2024-09-18)
 *      [Byron York A Kamala Harris Crowd: Big and Happy](https://patriotpost.us/opinion/110331-a-kamala-harris-crowd-big-and-happy-2024-09-18)
 *      [Tim Graham PolitiFact Throws Its 200th ‘Pants on Fire’ Tag at Donald Trump](https://patriotpost.us/opinion/110330-politifact-throws-its-200th-pants-on-fire-tag-at-donald-trump-2024-09-18)
 *      [Stephen Moore When It Comes to Tech Policy, Biden and Harris Put America Last](https://patriotpost.us/opinion/110329-when-it-comes-to-tech-policy-biden-and-harris-put-america-last-2024-09-18)
-*      [Gary Bauer Media Malfeasance](https://patriotpost.us/opinion/110328-media-malfeasance-2024-09-18)
-*      [Rich Lowry The New Radical Norm at Elite Colleges](https://patriotpost.us/opinion/110337-the-new-radical-norm-at-elite-colleges-2024-09-18)
-*      [Betsy McCaughey Reparations: Unconstitutional and Divisive — Is Kamala Harris Backing These Giveaways?](https://patriotpost.us/opinion/110327-reparations-unconstitutional-and-divisive-is-kamala-harris-backing-these-giveaways-2024-09-18)
-*      [Star Parker An Important New Book About Reagan and the Presidency](https://patriotpost.us/opinion/110332-an-important-new-book-about-reagan-and-the-presidency-2024-09-18)
-*      [The Washington Stand Parents: Under Siege and Under-Celebrated](https://patriotpost.us/opinion/110336-parents-under-siege-and-under-celebrated-2024-09-18)
-*      [The Babylon Bee Rashida Tlaib Uninjured After Her Pager Mysteriously Explodes](https://patriotpost.us/opinion/110335-rashida-tlaib-uninjured-after-her-pager-mysteriously-explodes-2024-09-18)
 
 * [More Opinion >](https://patriotpost.us/opinion)
 
@@ -147,7 +143,7 @@ Last Updated: November 15, 2011.
 
 [END OF WATCH](https://patriotpost.us/end-of-watch)
 
-[![](https://img.patriotpost.us/01J7K6RDZ8X6NRRKWH4N6BV0AY.jpeg)](https://patriotpostshop.com/collections/featured-products)
+[The Web's First and Foremost Conservative News Digest](https://patriotpost.us/alexander/2810)
 
 ### The Foundation
 
