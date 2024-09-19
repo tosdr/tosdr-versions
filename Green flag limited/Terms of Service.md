@@ -37,7 +37,7 @@ We're having problems with our phones at the moment, so unfortunately you won't 
 * [Business breakdown cover](https://www.greenflag.com/breakdown-cover/fleet)
 * Shop and services
 
-* [Services, MOTs and repairs](https://www.greenflag.com/wcfmc)
+* [Services, MOTs and repairs](https://www.greenflag.com/fmc)
 * [The Green Flag Shop](https://shop.greenflag.com/)
 * [Vehicle history check](https://vehiclecheck.greenflag.com/)
 
@@ -70,9 +70,9 @@ We're having problems with our phones at the moment, so unfortunately you won't 
     * [Scenic route](https://www.greenflag.com/driving-in-europe/scenic-route)
     
 * [Business breakdown cover](https://www.greenflag.com/breakdown-cover/fleet)
-* [Shop and services](https://www.greenflag.com/wcfmc)
+* [Shop and services](https://www.greenflag.com/fmc)
     
-    * [Services, MOTs and repairs](https://www.greenflag.com/wcfmc)
+    * [Services, MOTs and repairs](https://www.greenflag.com/fmc)
     * [The Green Flag Shop](https://shop.greenflag.com/)
     * [Vehicle history check](https://vehiclecheck.greenflag.com/)
     
