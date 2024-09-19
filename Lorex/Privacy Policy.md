@@ -118,7 +118,6 @@ triangle borderless
     * [Not-for-profit Support Program](https://www.lorex.com/pages/nonprofit)
     * [Lorex Upgrade Program](https://www.lorex.com/pages/upgrade)
     * [Ultimate Value IP Cameras](https://www.lorex.com/collections/lorex-a4-series)
-    * [Smart Lock 50% Off Blowout](https://www.lorex.com/products/lk100-smart-lock)
     
 * Lorex Smart Home arrow right
     
