@@ -12,7 +12,7 @@ Your source for the latest research news
 
 ScienceDaily
 
-**September 18, 2024**
+**September 19, 2024**
 
 * * *
 
@@ -228,27 +228,27 @@ this week
 
 [HEALTH](https://www.sciencedaily.com/news/top/health/)
 
+[Chronic Illness](https://www.sciencedaily.com/news/health_medicine/chronic_illness/)
+
+[Nutrition](https://www.sciencedaily.com/news/health_medicine/nutrition/)
+
 [Obesity](https://www.sciencedaily.com/news/health_medicine/obesity/)
-
-[Diabetes](https://www.sciencedaily.com/news/health_medicine/diabetes/)
-
-[Nutrition Research](https://www.sciencedaily.com/news/mind_brain/nutrition/)
 
 [PHYSICAL & TECH](https://www.sciencedaily.com/news/top/technology/)
 
-[Organic Chemistry](https://www.sciencedaily.com/news/matter_energy/organic_chemistry/)
+[Black Holes](https://www.sciencedaily.com/news/space_time/black_holes/)
 
 [Graphene](https://www.sciencedaily.com/news/matter_energy/graphene/)
 
-[Biochemistry](https://www.sciencedaily.com/news/matter_energy/biochemistry/)
+[Astrophysics](https://www.sciencedaily.com/news/space_time/astrophysics/)
 
 [ENVIRONMENT](https://www.sciencedaily.com/news/top/environment/)
 
-[Organic](https://www.sciencedaily.com/news/plants_animals/organic/)
+[New Species](https://www.sciencedaily.com/news/plants_animals/new_species/)
 
-[Nature](https://www.sciencedaily.com/news/plants_animals/nature/)
+[Geography](https://www.sciencedaily.com/news/earth_climate/geography/)
 
-[Global Warming](https://www.sciencedaily.com/news/earth_climate/global_warming/)
+[Fungus](https://www.sciencedaily.com/news/plants_animals/fungus/)
 
   
 
