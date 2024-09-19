@@ -203,6 +203,10 @@ Truyo is an Intel® Market Ready Solution.
 
 **RESOURCES**
 
+[Ale Johnson](https://truyo.com/author/ajohnson/ "Posts by Ale Johnson")2024-09-18T23:16:23-07:00
+
+#### [Human Meets Machine: RIA, the Humanoid Robot, Joins Truyo for a Panel on AI Governance](https://truyo.com/blog/human-meets-machine-ria-the-humanoid-robot-joins-truyo-for-a-panel-on-ai-governance/)
+
 [Ale Johnson](https://truyo.com/author/ajohnson/ "Posts by Ale Johnson")2024-09-12T14:22:53-07:00
 
 #### [AI in the Workplace: Why Employee Training is Your Best Defense Against Risks and Misuse](https://truyo.com/blog/employee-training-on-ai-the-best-defense-against-risk-misuse/)
@@ -210,10 +214,6 @@ Truyo is an Intel® Market Ready Solution.
 [Ale Johnson](https://truyo.com/author/ajohnson/ "Posts by Ale Johnson")2024-09-12T14:28:52-07:00
 
 #### [Rhode Island Joins the Privacy Revolution: What the Next State Law Means for Your Business](https://truyo.com/blog/rhode-island-data-transparency-and-privacy-protection-act/)
-
-[Ale Johnson](https://truyo.com/author/ajohnson/ "Posts by Ale Johnson")2024-09-04T21:46:17-07:00
-
-#### [California Safe and Secure Innovation for Frontier AI Models Act Foreshadows Legislative Landscape](https://truyo.com/blog/california-safe-and-secure-innovation-for-frontier-ai-models-act-foreshadows-legislative-landscape/)
 
 [contact](https://truyocom.wpenginepowered.com/contact/)
 
