@@ -275,6 +275,15 @@ Apprentice Boys of Derry marching through the city centre during a previous marc
 [Motorists are advised to expect disruption in Derry city centre on Saturday](https://www.derrynow.com/news/local-news/1608567/motorists-are-advised-to-expect-disruption-in-derry-city-centre-on-saturday.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+[![Meet the 21 men who have just entered training to become priests in Ireland](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Meet the 21 men who have just entered training to become priests in Ireland")](https://www.derrynow.com/news/national-news/1609214/thank-god-for-them-meet-the-21-men-now-training-to-become-priests-in-ireland.html)
+
+Bishop Alphonsus Cullinan, chair of the Bishops' Council for Vocations, with seminarians for the launch of the 'Year for Vocation to the Diocesan Priesthood', in April 2023 (Catholic Communications)
+
+[National News](https://www.derrynow.com/section/997/cookie-policy)
+
+['Thank God for them' - Meet the 21 men now training to become priests in Ireland](https://www.derrynow.com/news/national-news/1609214/thank-god-for-them-meet-the-21-men-now-training-to-become-priests-in-ireland.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 [![Breaking: Elderly man (80s) killed in Clonmany collision](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Breaking: Elderly man (80s) killed in Clonmany collision")](https://www.derrynow.com/news/local-news/1608640/elderly-man-80s-killed-in-clonmany-collision.html)
 
 The scene of the fatal road traffic collision in Clonmany. (North West Newspix)
@@ -284,22 +293,6 @@ The scene of the fatal road traffic collision in Clonmany. (North West Newspix)
 [Elderly man (80s) killed in Clonmany collision](https://www.derrynow.com/news/local-news/1608640/elderly-man-80s-killed-in-clonmany-collision.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Derry man fined for cycling while unfit through drink or drugs](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry man fined for cycling while unfit through drink or drugs")](https://www.derrynow.com/news/local-news/1608126/derry-man-fined-for-cycling-while-unfit-through-drink-or-drugs.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Derry man fined for cycling while unfit through drink or drugs](https://www.derrynow.com/news/local-news/1608126/derry-man-fined-for-cycling-while-unfit-through-drink-or-drugs.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry man set for Cage Warriors debut in Manchester](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry man set for Cage Warriors debut in Manchester")](https://www.derrynow.com/news/derry-sport/1608098/derry-man-set-for-cage-warriors-debut-in-manchester.html)
-
-Matthew Friel set for Cage Warriors debut
-
-[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
-
-[Derry man set for Cage Warriors debut in Manchester](https://www.derrynow.com/news/derry-sport/1608098/derry-man-set-for-cage-warriors-debut-in-manchester.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 [![Derry Death Notices - Monday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Monday")](https://www.derrynow.com/news/deaths/1608384/derry-death-notices-thursday-19th-september-2024.html)
 
 [Deaths](https://www.derrynow.com/section/977/deaths)
@@ -307,14 +300,37 @@ Matthew Friel set for Cage Warriors debut
 [Derry Death Notices - Thursday, 19th September 2024](https://www.derrynow.com/news/deaths/1608384/derry-death-notices-thursday-19th-september-2024.html)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Morelli’s Ice Cream](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Morelli’s Ice Cream")](https://www.derrynow.com/news/home/1608291/derry-s-favourite-ice-cream-flavour-revealed-by-morellis-ice-cream.html)
+[![Derry man admits ramming two police vehicles and injuring seven police officers jailed](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry man admits ramming two police vehicles and injuring seven police officers jailed")](https://www.derrynow.com/news/local-news/1609113/derry-man-admits-ramming-two-police-vehicles-and-injuring-seven-police-officers-jailed.html)
 
-Morelli’s Ice Cream
+Derry Court
 
-[Home](https://www.derrynow.com/)
+[Local News](https://www.derrynow.com/section/975/news)
 
-[Derry's favourite ice cream flavour revealed by Morelli’s Ice Cream](https://www.derrynow.com/news/home/1608291/derry-s-favourite-ice-cream-flavour-revealed-by-morellis-ice-cream.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Derry man admits ramming two police vehicles and injuring seven police officers jailed](https://www.derrynow.com/news/local-news/1609113/derry-man-admits-ramming-two-police-vehicles-and-injuring-seven-police-officers-jailed.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Derry man (21) charged with number of drugs offences](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry man (21) charged with number of drugs offences")](https://www.derrynow.com/news/local-news/1608957/derry-man-21-charged-with-number-of-drugs-offences.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Derry man (21) charged with number of drugs offences](https://www.derrynow.com/news/local-news/1608957/derry-man-21-charged-with-number-of-drugs-offences.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Derry man charged with possession of thousands of pounds worth of drugs remanded](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry man charged with possession of thousands of pounds worth of drugs remanded")](https://www.derrynow.com/news/local-news/1609057/derry-man-charged-with-possession-of-thousands-of-pounds-worth-of-drugs-remanded.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Derry man charged with possession of thousands of pounds worth of drugs remanded](https://www.derrynow.com/news/local-news/1609057/derry-man-charged-with-possession-of-thousands-of-pounds-worth-of-drugs-remanded.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Man who faces immediate deportation upon release from prison jailed for bringing drugs valued up to £40,000 from Belfast to Derry](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man who faces immediate deportation upon release from prison jailed for bringing drugs valued up to £40,000 from Belfast to Derry")](https://www.derrynow.com/news/local-news/1609048/man-who-faces-immediate-deportation-upon-release-from-prison-jailed-for-bringing-drugs-valued-up-to-40-000-from-belfast-to-derry.html)
+
+Derry Crown Court
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Man who faces immediate deportation upon release from prison jailed for bringing drugs valued up to £40,000 from Belfast to Derry](https://www.derrynow.com/news/local-news/1609048/man-who-faces-immediate-deportation-upon-release-from-prison-jailed-for-bringing-drugs-valued-up-to-40-000-from-belfast-to-derry.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![23-year-old Derry man charged to court for drug related offences](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "23-year-old Derry man charged to court for drug related offences")](https://www.derrynow.com/news/local-news/1608845/23-year-old-derry-man-charged-to-court-for-drug-related-offences.html)
 
@@ -325,29 +341,18 @@ Derry Magistrate's Court
 [23-year-old Derry man charged to court for drug related offences](https://www.derrynow.com/news/local-news/1608845/23-year-old-derry-man-charged-to-court-for-drug-related-offences.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Life-saving Altnagelvin Hospital cardiac care service celebrates its 10 year anniversary](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Life-saving Altnagelvin Hospital cardiac care service celebrates its 10 year anniversary")](https://www.derrynow.com/news/local-news/1608304/life-saving-altnagelvin-hospital-cardiac-care-service-celebrates-its-10-year-anniversary.html)
-
-Cardiology Team at Altnagelvin celebrating the 10th Anniversary of the PPCI service saving and treated thousands of heart attack patients
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Life-saving Altnagelvin Hospital cardiac care service celebrates its 10 year anniversary](https://www.derrynow.com/news/local-news/1608304/life-saving-altnagelvin-hospital-cardiac-care-service-celebrates-its-10-year-anniversary.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Police in Derry appeal for footage in relation to traffic-related incident](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Police in Derry appeal for footage in relation to traffic-related incident")](https://www.derrynow.com/news/local-news/1608903/police-in-derry-appeal-for-footage-in-relation-to-traffic-related-incident.html)
-
-PSNI
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Police in Derry appeal for footage in relation to traffic-related incident](https://www.derrynow.com/news/local-news/1608903/police-in-derry-appeal-for-footage-in-relation-to-traffic-related-incident.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 ADVERTISEMENT - CONTINUE READING BELOW
 
 Advertise with Us
 
 Multimedia
+
+[![PICTURES: All smiles as the school year begins at St Brigid's Primary School](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PICTURES: All smiles as the school year begins at St Brigid's Primary School")](https://www.derrynow.com/news/pictures---videos/1609000/pictures-all-smiles-as-the-school-year-begins-at-st-brigid-s-primary-school.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[PICTURES: All smiles as the school year begins at St Brigid's Primary School](https://www.derrynow.com/news/pictures---videos/1609000/pictures-all-smiles-as-the-school-year-begins-at-st-brigid-s-primary-school.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![IN PICTURES: Cornshell Community Garden in Derry officially reopens](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Cornshell Community Garden in Derry officially reopens")](https://www.derrynow.com/story-telling/pictures---videos/1608998/in-pictures-cornshell-community-garden-in-derry-officially-reopens.html)
 
@@ -417,15 +422,6 @@ Derry City fans with the FAI Cup at Sports Direct on Saturday. Pics by Ben McSha
 
 [IN PICTURES: Derry City fans get their hands on the FAI Cup at Sports Direct!](https://www.derrynow.com/news/derry-sport/1605556/in-pictures-derry-city-fans-get-their-hands-on-the-fai-cup-at-sports-direct.html)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry City](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry City")](https://www.derrynow.com/news/derry-sport/1605522/in-pictures-derry-city-fans-enjoy-a-memorable-night-at-the-brandywell.html)
-
-Derry City fans at the Brandywell. Pics by George Sweeney, nwpresspics
-
-[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
-
-[IN PICTURES: Derry City fans enjoy a memorable night at the Brandywell](https://www.derrynow.com/news/derry-sport/1605522/in-pictures-derry-city-fans-enjoy-a-memorable-night-at-the-brandywell.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
@@ -527,51 +523,57 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
-[![Man who faces immediate deportation upon release from prison jailed for bringing drugs valued up to £40,000 from Belfast to Derry](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man who faces immediate deportation upon release from prison jailed for bringing drugs valued up to £40,000 from Belfast to Derry")](https://www.derrynow.com/news/local-news/1609048/man-who-faces-immediate-deportation-upon-release-from-prison-jailed-for-bringing-drugs-valued-up-to-40-000-from-belfast-to-derry.html)
+[![Clonmany crash victim Michael Toland to be laid to rest on Saturday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Clonmany crash victim Michael Toland to be laid to rest on Saturday")](https://www.derrynow.com/news/local-news/1609408/clonmany-crash-victim-michael-toland-to-be-laid-to-rest-on-saturday.html)
 
-Derry Crown Court
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Man who faces immediate deportation upon release from prison jailed for bringing drugs valued up to £40,000 from Belfast to Derry](https://www.derrynow.com/news/local-news/1609048/man-who-faces-immediate-deportation-upon-release-from-prison-jailed-for-bringing-drugs-valued-up-to-40-000-from-belfast-to-derry.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Revitalised Derry garden will offer ‘oasis’ for local people and insects](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Revitalised Derry garden will offer ‘oasis’ for local people and insects")](https://www.derrynow.com/news/local-news/1608963/revitalised-derry-garden-will-offer-oasis-for-local-people-and-insects.html)
-
-Local families are already enjoying the newly reopened Cornshell Community Garden.
+Gardai at the scene of the fatal collision where Michael Toland (inset) lost his life. (North West Newspix)
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[Revitalised Derry garden will offer ‘oasis’ for local people and insects](https://www.derrynow.com/news/local-news/1608963/revitalised-derry-garden-will-offer-oasis-for-local-people-and-insects.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Clonmany crash victim Michael Toland to be laid to rest on Saturday](https://www.derrynow.com/news/local-news/1609408/clonmany-crash-victim-michael-toland-to-be-laid-to-rest-on-saturday.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Derry man (21) charged with number of drugs offences](https://www.derrynow.com/resizer/165/93/true/1580370016067.JPG--.JPG?1580370017604 "Derry man (21) charged with number of drugs offences")](https://www.derrynow.com/news/local-news/1608957/derry-man-21-charged-with-number-of-drugs-offences.html)
+[![ERG thanks community of Dungiven for attending public consultation](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "ERG thanks community of Dungiven for attending public consultation")](https://www.derrynow.com/news/home/1609375/erg-thanks-community-of-dungiven-for-attending-public-consultation.html)
 
-[Local News](https://www.derrynow.com/section/975/news)
+ERG team members at the public consultation.
 
-[Derry man (21) charged with number of drugs offences](https://www.derrynow.com/news/local-news/1608957/derry-man-21-charged-with-number-of-drugs-offences.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Home](https://www.derrynow.com/)
 
-[![Derry Senior Football Championship preview: Quarter final spots on the line](https://www.derrynow.com/resizer/165/93/true/2024_08_31/1K2A5231-1725140201247.jpg--.jpg?1725140201929 "Derry Senior Football Championship preview: Quarter final spots on the line")](https://www.derrynow.com/news/gaa/1607908/derry-senior-football-championship-preview-quarter-final-spots-on-the-line.html)
+[ERG thanks community of Dungiven for attending public consultation](https://www.derrynow.com/news/home/1609375/erg-thanks-community-of-dungiven-for-attending-public-consultation.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[GAA](https://www.derrynow.com/section/1060/gaa)
+[![Kit Cassingham and Dr Richard Namikas complete their walk from Belfast to Derry](https://www.derrynow.com/resizer/165/93/true/2024_09_19/20240919_112914-1726751570843.jpg--.jpg?1726751571856 "Kit Cassingham and Dr Richard Namikas complete their walk from Belfast to Derry")](https://www.derrynow.com/news/local-news/1609139/american-cruise-passengers-complete-their-belfast-to-derry-walk-while-docked-in-northern-ireland.html)
 
-[Derry Senior Football Championship preview: Quarter final spots on the line](https://www.derrynow.com/news/gaa/1607908/derry-senior-football-championship-preview-quarter-final-spots-on-the-line.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Former Sinn Fein press officer charged with sex offences fails to appear in court](https://www.derrynow.com/resizer/165/93/true/2023_08_04/Michael_McMonagle-1691147368533.jpg--.jpg?1691147368558 "Former Sinn Fein press officer charged with sex offences fails to appear in court")](https://www.derrynow.com/news/local-news/1609021/former-sinn-fein-press-officer-charged-with-sex-offences-fails-to-appear-in-court.html)
+Kit Cassingham and Dr Richard Namikas complete their walk from Belfast to Derry
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[Former Sinn Fein press officer charged with sex offences fails to appear in court](https://www.derrynow.com/news/local-news/1609021/former-sinn-fein-press-officer-charged-with-sex-offences-fails-to-appear-in-court.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[American cruise passengers complete their Belfast to Derry walk while docked in Northern Ireland](https://www.derrynow.com/news/local-news/1609139/american-cruise-passengers-complete-their-belfast-to-derry-walk-while-docked-in-northern-ireland.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Derry snubbed in the 2024 PwC Football All-Stars nominations](https://www.derrynow.com/resizer/165/93/true/2024_04_08/2775011-1712580900991.jpg--.jpg?1712580902344 "Derry snubbed in the 2024 PwC Football All-Stars nominations")](https://www.derrynow.com/news/gaa/1608907/derry-snubbed-in-the-2024-pwc-football-all-stars-nominations.html)
+[![Man arrested in Derry search operation into INLA drug criminality](https://www.derrynow.com/resizer/165/93/true/2024_09_19/PSNI_Police-1726760981802.jpg--.jpg?1726760981828 "Man arrested in Derry search operation into INLA drug criminality")](https://www.derrynow.com/news/local-news/1609376/man-arrested-in-derry-search-operation-into-inla-drug-criminality.html)
 
-[GAA](https://www.derrynow.com/section/1060/gaa)
+[Local News](https://www.derrynow.com/section/975/news)
 
-[Derry snubbed in the 2024 PwC Football All-Stars nominations](https://www.derrynow.com/news/gaa/1608907/derry-snubbed-in-the-2024-pwc-football-all-stars-nominations.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Man arrested in Derry search operation into INLA drug criminality](https://www.derrynow.com/news/local-news/1609376/man-arrested-in-derry-search-operation-into-inla-drug-criminality.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Maghera family has ‘no confidence’ in ICRIR to probe allegations of collusion in murder](https://www.derrynow.com/resizer/165/93/true/2018/01/18132133/Fergal-McCusker.jpg--.jpg "Maghera family has ‘no confidence’ in ICRIR to probe allegations of collusion in murder")](https://www.derrynow.com/news/home/1609371/maghera-family-has-no-confidence-in-icrir-to-probe-allegations-of-collusion-in-murder.html)
+
+Fergal McCusker was killed at the back of a youth club on January 18, 1998.
+
+[Home](https://www.derrynow.com/)
+
+[Maghera family has ‘no confidence’ in ICRIR to probe allegations of collusion in murder](https://www.derrynow.com/news/home/1609371/maghera-family-has-no-confidence-in-icrir-to-probe-allegations-of-collusion-in-murder.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Mid Ulster Walking for Wellness](https://www.derrynow.com/resizer/165/93/true/2024_09_19/Pic_2-1726751296272_1726751414.jpg--.jpg?1726751414800 "Mid Ulster Walking for Wellness")](https://www.derrynow.com/news/home/1609133/walking-and-talking-has-taken-off-in-mid-ulster.html)
+
+Mid Ulster Walking for Wellness
+
+[Home](https://www.derrynow.com/)
+
+[‘Walking and talking’ has taken off in Mid Ulster](https://www.derrynow.com/news/home/1609133/walking-and-talking-has-taken-off-in-mid-ulster.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
