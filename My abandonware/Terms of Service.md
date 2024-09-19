@@ -85,20 +85,20 @@ Top downloads
 
 Latest releases
 
-* [Ikari Warriors II: Victory Road](https://www.myabandonware.com/game/ikari-warriors-ii-victory-road-gj)
-* [Jail Break](https://www.myabandonware.com/game/jail-break-5tf)
-* [Ikari III: The Rescue](https://www.myabandonware.com/game/ikari-iii-the-rescue-oc)
-* [Jackal](https://www.myabandonware.com/game/jackal-go)
-* [In the Hunt](https://www.myabandonware.com/game/in-the-hunt-ewe)
+* [Rival Schools](https://www.myabandonware.com/game/rival-schools-sef)
+* [Rave Racer](https://www.myabandonware.com/game/rave-racer-see)
+* [Rail Chase 2](https://www.myabandonware.com/game/rail-chase-2-sed)
+* [Pro Mahjong Kiwame S](https://www.myabandonware.com/game/pro-mahjong-kiwame-s-p5m)
+* [Quarterback](https://www.myabandonware.com/game/quarterback-npx)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [Facebook](https://www.facebook.com/myabandonware) or [X (Twitter)](https://x.com/myabandonware)
 
 Screenshots needed
 
-* [Stickybear: Math](https://www.myabandonware.com/game/stickybear-math-pk4)
-* [Stack Columns](https://www.myabandonware.com/game/stack-columns-rmo)
-* [Skipper & Skeeto: Treasure Quiz](https://www.myabandonware.com/game/skipper-skeeto-treasure-quiz-l3k)
+* [Der Clou! Profidiskette](https://www.myabandonware.com/game/der-clou-profidiskette-72t)
+* [Metal Marines Master Edition](https://www.myabandonware.com/game/metal-marines-master-edition-dbe)
+* [Down to Earth](https://www.myabandonware.com/game/down-to-earth-kfx)
 
 Read our [screenshot tutorial](https://www.myabandonware.com/screenshots/)
 
