@@ -29,17 +29,17 @@ Version All 1.21.1 1.21 1.20.6 1.20.5 1.20.4 1.20.3 1.20.2 1.20.1 1.20 1.19.4 1.
 
 Active Servers
 
-[![kchscraft](plugins/MineCraft/icons/25x25xkchscraft_1658311151.png.pagespeed.ic.fnqNIplg0a.png)
+[![mcprison](plugins/MineCraft/icons/25x25xmcprison_1722027662.png.pagespeed.ic.0wYsTOy-Nc.png)
 
-KCHS Craft](https://minecraft-server.net/details/kchscraft/ "KCHS Craft")[![IllusiveMC](plugins/MineCraft/icons/IllusiveMC_1681214308.png)
+STAFF NEEDED - PURPLE PRISON](https://minecraft-server.net/details/mcprison/ "STAFF NEEDED - PURPLE PRISON")[![sfsuralias](plugins/MineCraft/icons/25x25xsfsuralias_1707311472.png.pagespeed.ic.gR_S36Yfa-.png)
 
-IllusiveMC Survival](https://minecraft-server.net/details/IllusiveMC/ "IllusiveMC Survival")[![simplyvanilla](plugins/MineCraft/icons/25x25xsimplyvanilla_1724739126.png.pagespeed.ic.Cd50vz760y.jpg)
+GospelCraft](https://minecraft-server.net/details/sfsuralias/ "GospelCraft")[![creativefun](plugins/MineCraft/icons/25x25xcreativefun_1602168002.png.pagespeed.ic.xhW37hCj2R.jpg)
 
-Simply Vanilla \[Anarchy with no hacks\]](https://minecraft-server.net/details/simplyvanilla/ "Simply Vanilla [Anarchy with no hacks]")[![ValexiumAU](plugins/MineCraft/icons/25x25xValexiumAU_1655744810.png.pagespeed.ic._wwafz0K45.jpg)
+CreativeFun](https://minecraft-server.net/details/creativefun/ "CreativeFun")[![projectsurvival](plugins/MineCraft/icons/25x25xprojectsurvival_1720953261.png.pagespeed.ic.hQETp6pFjB.png)
 
-Valexium](https://minecraft-server.net/details/ValexiumAU/ "Valexium")[![Niron](plugins/MineCraft/icons/Niron_1706892061.png.pagespeed.ce.IkJB58kMfF.png)
+MC.PROJECTS.GG TÜRK SURVIVAL SUNUCU - Mevsimler/Kanli Ay/Unvanlar/AntiXray/PvP - 1.20.4](https://minecraft-server.net/details/projectsurvival/ "MC.PROJECTS.GG TÜRK SURVIVAL SUNUCU - Mevsimler/Kanli Ay/Unvanlar/AntiXray/PvP - 1.20.4")[![simplyvanilla](plugins/MineCraft/icons/25x25xsimplyvanilla_1724739126.png.pagespeed.ic.Cd50vz760y.jpg)
 
-Steinercraft - Vanilla-based Anarchy](https://minecraft-server.net/details/Niron/ "Steinercraft - Vanilla-based Anarchy")
+Simply Vanilla \[Anarchy with no hacks\]](https://minecraft-server.net/details/simplyvanilla/ "Simply Vanilla [Anarchy with no hacks]")
 
 1. [Minecraft Servers](https://minecraft-server.net/)
 2. Privacy Policy
@@ -142,4 +142,4 @@ Set
 * [Statistics](https://minecraft-server.net/overall-stats/ "Statistics")
 * [Contact](https://minecraft-server.net/contact/ "Contact")
 
-© Minecraft-Server.net 2024. All rights reserved. 'Minecraft' is a property of [Mojang](https://www.mojang.com/). You can buy [Minecraft here](https://www.minecraft.net/). 7 queries, time: 0.0587 - Created by [Debaucus](https://debauc.us/)
+© Minecraft-Server.net 2024. All rights reserved. 'Minecraft' is a property of [Mojang](https://www.mojang.com/). You can buy [Minecraft here](https://www.minecraft.net/). 7 queries, time: 0.06714 - Created by [Debaucus](https://debauc.us/)
