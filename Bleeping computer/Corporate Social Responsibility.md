@@ -36,18 +36,18 @@
         
         Microsoft may have revealed Windows 11 24H2 is coming this month](https://www.bleepingcomputer.com/news/microsoft/microsoft-may-have-revealed-windows-11-24h2-is-coming-this-month/)
     
+    * [![Lifetime access to this language learning app is now $400 off in this deal](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        Lifetime access to this language learning app is now $400 off in this deal](https://www.bleepingcomputer.com/offer/deals/lifetime-access-to-this-language-learning-app-is-now-400-off-in-this-deal/)
+    * [![Clever 'GitHub Scanner' campaign abusing repos to push malware](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        Clever 'GitHub Scanner' campaign abusing repos to push malware](https://www.bleepingcomputer.com/news/security/clever-github-scanner-campaign-abusing-repos-to-push-malware/)
     * [![Discord rolls out end-to-end encryption for audio, video calls](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         Discord rolls out end-to-end encryption for audio, video calls](https://www.bleepingcomputer.com/news/security/discord-rolls-out-end-to-end-encryption-for-audio-video-calls/)
     * [![Europol takes down ](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         Europol takes down "Ghost" encrypted messaging platform used for crime](https://www.bleepingcomputer.com/news/security/europol-takes-down-ghost-encrypted-messaging-platform-used-for-crime/)
-    * [![X hacking spree fuels ](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        X hacking spree fuels "$HACKED" crypto token pump-and-dump](https://www.bleepingcomputer.com/news/security/x-hacking-spree-fuels-hacked-crypto-token-pump-and-dump/)
-    * [![Microsoft: Vanilla Tempest hackers hit healthcare with INC ransomware](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        Microsoft: Vanilla Tempest hackers hit healthcare with INC ransomware](https://www.bleepingcomputer.com/news/microsoft/microsoft-vanilla-tempest-hackers-hit-healthcare-with-inc-ransomware/)
     
 * [Tutorials](https://www.bleepingcomputer.com/tutorials/)
     
