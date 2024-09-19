@@ -1,6 +1,6 @@
 ![](https://ct.pinterest.com/v3/?tid=2619239296514&event=init&noscript=1)  
 
-### [LABOR DAY SALE - 30% OFF Sitewide](https://www.bows-n-ties.com/neckties/?order=product.date_add.desc)
+### [Wedding Shoppe - 200+ Colors](https://www.bows-n-ties.com/wedding-ties/)
 
 __
 
