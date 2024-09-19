@@ -20,6 +20,7 @@
     * [Tax Prep Help](https://www.unitedwayri.org/get-help/tax-prep/)
 * [Get involved](#)
     
+    * [2024 Annual Celebration](https://uwriweb.org/comm/SinglePageRegEvent.jsp?EventKeyHex=3134363035#new_tab)
     * [Advocate](https://www.unitedwayri.org/get-involved/advocate/)
     * [Commit to Equity](https://www.unitedwayri.org/get-involved/commit-to-equity/)
     * [Donate](https://www.unitedwayri.org/get-involved/donate/)
@@ -235,11 +236,11 @@ Notes Coffee Co.
 
 [Register](https://uwriweb.org/comm/SinglePageRegEvent.jsp?EventKeyHex=3134383435)
 
-[![DAP_United_FarmF-113_web](https://www.unitedwayri.org/wp-content/uploads/bb-plugin/cache/DAP_United_FarmF-113_web-landscape-beefc4873dc6a4fdbf9e9c414b900306-.jpg "DAP_United_FarmF-113_web")](https://www.unitedwayri.org/event/annual-celebration-2024/)
+[![DAP_United_FarmF-113_web](https://www.unitedwayri.org/wp-content/uploads/bb-plugin/cache/DAP_United_FarmF-113_web-landscape-beefc4873dc6a4fdbf9e9c414b900306-.jpg "DAP_United_FarmF-113_web")](https://uwriweb.org/comm/SinglePageRegEvent.jsp?EventKeyHex=3134363035#new_tab)
 
 10 Oct
 
-#### [Annual Celebration 2024](https://www.unitedwayri.org/event/annual-celebration-2024/ "Annual Celebration 2024")
+#### [Annual Celebration 2024](https://uwriweb.org/comm/SinglePageRegEvent.jsp?EventKeyHex=3134363035#new_tab "Annual Celebration 2024")
 
 Save the date!
 
