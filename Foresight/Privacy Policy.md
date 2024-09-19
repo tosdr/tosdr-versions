@@ -16,12 +16,11 @@ Popular products
 * [See all templates, courses, and services](https://foresight.is/products/)
 
 * [76k+ Downloads](https://foresight.is/users/)
-* [Updates 3](#)
+* [Updates 2](#)
     
     * [Changelog](https://foresight.is/changelog/)
     * [New website features](https://foresight.is/changelog/#2024-09-09-filters)
     * [Donations update](https://foresight.is/changelog/#2024-09-09-donations)
-    * [New cap table tool features](https://foresight.is/changelog/#2024-09-04-cap-table-update)
     
 * [Docs](https://foresight.is/docs/)
 
