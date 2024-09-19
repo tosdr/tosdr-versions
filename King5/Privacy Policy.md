@@ -30,13 +30,14 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/f6b27d34-7bf5-4344-9167-ebdc3674c228/20240914T005453/f6b27d34-7bf5-4344-9167-ebdc3674c228_16x9.jpg) ![](https://media.king5.com/assets/KING/images/f6b27d34-7bf5-4344-9167-ebdc3674c228/20240914T005453/f6b27d34-7bf5-4344-9167-ebdc3674c228_360x203.jpg)](https://www.king5.com/article/tech/science/aerospace/boeing/boeing-announces-temporary-furloughs-preserve-cash/281-ef382057-df78-43fa-bc99-55c7ff824568)
+    *  [![](https://media.king5.com/assets/KING/images/3044fc48-d0d7-442d-b226-680760efea90/20240919T015444/3044fc48-d0d7-442d-b226-680760efea90_16x9.jpg) ![](https://media.king5.com/assets/KING/images/3044fc48-d0d7-442d-b226-680760efea90/20240919T015444/3044fc48-d0d7-442d-b226-680760efea90_360x203.jpg)](https://www.king5.com/article/news/community/facing-race/department-of-corrections-shutter-walla-walla-execution-chamber/281-14d73577-0480-4422-a839-72a90e462f24)
         
-        #### [Boeing announces temporary furloughs to preserve cash during strike](https://www.king5.com/article/tech/science/aerospace/boeing/boeing-announces-temporary-furloughs-preserve-cash/281-ef382057-df78-43fa-bc99-55c7ff824568)
+        #### [Department of Corrections shutters its execution chamber in Walla Walla](https://www.king5.com/article/news/community/facing-race/department-of-corrections-shutter-walla-walla-execution-chamber/281-14d73577-0480-4422-a839-72a90e462f24) [![](https://media.king5.com/assets/KING/images/3044fc48-d0d7-442d-b226-680760efea90/20240919T015444/3044fc48-d0d7-442d-b226-680760efea90_16x9.jpg) ![](https://media.king5.com/assets/KING/images/3044fc48-d0d7-442d-b226-680760efea90/20240919T015444/3044fc48-d0d7-442d-b226-680760efea90_360x203.jpg)](https://www.king5.com/article/news/community/facing-race/department-of-corrections-shutter-walla-walla-execution-chamber/281-14d73577-0480-4422-a839-72a90e462f24)
         
-    *  [![](https://media.king5.com/assets/KING/images/6860ed21-748f-430d-9a2a-0c72df798585/20240909T234523/6860ed21-748f-430d-9a2a-0c72df798585_16x9.jpg) ![](https://media.king5.com/assets/KING/images/6860ed21-748f-430d-9a2a-0c72df798585/20240909T234523/6860ed21-748f-430d-9a2a-0c72df798585_360x203.jpg)](https://www.king5.com/article/travel/sea-airport-ranks-customer-satisfaction/281-b50dcbf8-922f-44f1-9039-fb7ecd8c8d52)
+        #### [Department of Corrections shuts down last 'death chamber' in Washington state](https://www.king5.com/article/news/community/facing-race/department-of-corrections-shutter-walla-walla-execution-chamber/281-14d73577-0480-4422-a839-72a90e462f24)
+    *  [![](https://media.king5.com/assets/KING/images/7ca14c3e-a088-44a5-9c62-1682a2950de6/20240918T040930/7ca14c3e-a088-44a5-9c62-1682a2950de6_16x9.jpg) ![](https://media.king5.com/assets/KING/images/7ca14c3e-a088-44a5-9c62-1682a2950de6/20240918T040930/7ca14c3e-a088-44a5-9c62-1682a2950de6_360x203.jpg)](https://www.king5.com/article/news/local/washington-couple-dies-vacation-maui/281-26f74114-5bf3-47b5-85f4-c84f9df5f76b)
         
-        #### [SEA Airport again ranks among worst 'mega' airports for customer satisfaction by J.D. Power](https://www.king5.com/article/travel/sea-airport-ranks-customer-satisfaction/281-b50dcbf8-922f-44f1-9039-fb7ecd8c8d52)
+        #### [Snohomish couple dies while on vacation in Maui](https://www.king5.com/article/news/local/washington-couple-dies-vacation-maui/281-26f74114-5bf3-47b5-85f4-c84f9df5f76b)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -56,7 +57,7 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/c3c2adc2-36c7-438a-8005-64a6426998e8/20240918T120121/c3c2adc2-36c7-438a-8005-64a6426998e8_16x9.jpg) ![](https://media.king5.com/assets/KING/images/c3c2adc2-36c7-438a-8005-64a6426998e8/20240918T120121/c3c2adc2-36c7-438a-8005-64a6426998e8_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
+    *  [![](https://media.king5.com/assets/KING/images/974cebcf-58e7-47db-a0d7-1b363e4c508a/20240919T003653/974cebcf-58e7-47db-a0d7-1b363e4c508a_16x9.jpg) ![](https://media.king5.com/assets/KING/images/974cebcf-58e7-47db-a0d7-1b363e4c508a/20240919T003653/974cebcf-58e7-47db-a0d7-1b363e4c508a_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
         #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
@@ -97,7 +98,7 @@ Seattle, WA »
 
 65°
 
-![Mostly Cloudy](/assets/shared-images/weather-icons/mostly-cloudy-day_210x210.png)
+![Sunny](/assets/shared-images/weather-icons/clear-day_210x210.png)
 
 Seattle, WA »](https://www.king5.com/weather)
 
