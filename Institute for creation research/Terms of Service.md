@@ -171,63 +171,67 @@ A Note to Our Readers:
 
 For stewardship purposes, we will not be able to write, edit, or proofread science papers and projects, assist with homework assignments, evaluate personal theories and hypotheses, or review books and other resources. We also will not accept unsolicited manuscripts, nor are we able to provide unsolicited endorsements of books, products, or ministries.
 
-More Days of Praise
+More Creation Science Update
 
-[![](/i/articles/dop/DOP_Logo_328_116.jpg)](https://www.icr.org/article/seven-outgrowths-faith)
+[![](/i/Main%20Stage%20-%201400x1050/katydidfossil_1400x1050.jpg)](https://www.icr.org/article/katydid-fossil)
 
-[Seven Outgrowths of Faith](https://www.icr.org/article/seven-outgrowths-faith/)
+[''Ancient'' Katydid Fossil is...a Katydid](https://www.icr.org/article/katydid-fossil/)
 
-“And beside this, giving all diligence, add to your faith virtue; and to virtue knowledge; And to knowledge temperance; and to temperance patience;...
+A fascinating discovery of a fossil insect has recently been made by evolutionists in Colorado. The description once again points clearly to the effects...
 
-BY: [JOHN D. MORRIS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=26)
+BY: [FRANK SHERWIN, D.SC. (HON.)](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=32)
 
-[![](/i/articles/dop/DOP_Logo_328_116.jpg)](https://www.icr.org/article/thy-word-is-settled)
+[![](/i/Main%20Stage%20-%201400x1050/saltysweat_1400x1050.jpg)](https://www.icr.org/article/salty-sweat-desert-plant)
 
-[Thy Word Is Settled Forever](https://www.icr.org/article/thy-word-is-settled/)
+[Salty Sweat in a Desert Plant](https://www.icr.org/article/salty-sweat-desert-plant/)
 
-“For ever, O LORD, thy word is settled in heaven.” (Psalm 119:89) This is the central verse in the longest chapter in the longest...
+Although plants aren’t alive in the biblical sense,1 they are most certainly complex in their physiology and anatomy.2,3...
 
-BY: [HENRY M. MORRIS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=23)
+BY: [FRANK SHERWIN, D.SC. (HON.)](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=32)
 
-[![](/i/articles/dop/DOP_Logo_328_116.jpg)](https://www.icr.org/article/misuse-bible)
+[![](/i/ICR_Apr23_main_1400x1050.jpg)](https://www.icr.org/article/april-2023-icr-wallpaper)
 
-[Misuse of the Bible](https://www.icr.org/article/misuse-bible/)
+[April 2023 ICR Wallpaper](https://www.icr.org/article/april-2023-icr-wallpaper/)
 
-“...his epistles, speaking in them of these things; in which are some things hard to be understood, which they that are unlearned and unstable...
+"If you confess with your mouth the Lord Jesus and believe in your heart that God has raised Him from the dead, you will be saved." Romans 10:9...
 
-BY: [HENRY M. MORRIS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=23)
+BY: [STAFF WRITER](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=27)
 
 Shop Related Products
 
-[![](https://cdn.shoplightspeed.com/shops/601440/files/10472129/file.jpg)
+[![](https://cdn.shoplightspeed.com/shops/601440/files/60993469/file.jpg)
 
-Scientific Creationism](https://store.icr.org/dr-henry-morris-scientific-creationism.html)
+Why the World Looks So Young - eBook](https://store.icr.org/why-the-world-looks-so-young-ebook.html)
 
-$14.99
+$2.99
 
-[![](https://cdn.shoplightspeed.com/shops/601440/files/10475689/file.jpg)
+$7.99
 
-The Remarkable Wisdom of Solomon](https://store.icr.org/dr-henry-morris-the-remarkable-wisdom-of-solomon.html)
+[![](https://cdn.shoplightspeed.com/shops/601440/files/60662163/file.jpg)
 
-$13.99
+Living in Light of Genesis](https://store.icr.org/living-in-light-of-genesis.html)
 
-[![](https://cdn.shoplightspeed.com/shops/601440/files/32690/file.jpg)
+$15.99
 
-The Henry Morris Study Bible - Leather](https://store.icr.org/dr-henry-morris-the-henry-morris-study-bible-leath.html)
+[![](https://cdn.shoplightspeed.com/shops/601440/files/25997817/file.jpg)
 
-$79.99
+Why the World Looks So Young](https://store.icr.org/why-the-world-looks-so-young.html)
 
-$94.99
+$7.99
 
-[](https://store.icr.org/.html)
+[![](https://cdn.shoplightspeed.com/shops/601440/files/49457244/file.jpg)
 
-$
+Adam or Apes](https://store.icr.org/adam-or-apes.html)
 
-[![](https://cdn.shoplightspeed.com/shops/601440/files/10475194/file.jpg)
+$12.99
 
-The Genesis Record](https://store.icr.org/dr-henry-morris-the-genesis-record.html)
+[![](https://cdn.shoplightspeed.com/shops/601440/files/9372978/file.jpg)
 
-$47.99
+Discovering Dinosaurs](https://store.icr.org/mr-brian-thomas-discovering-dinosaurs.html)
+
+$7.99
+
+$9.99
 
 [![Institute for Creation Research](/i/icr-logo-final-h-rev3-100.png)](https://www.icr.org/)[![ICR Discovery Center for Science and Earth History](/i/DC_Logo_Footer_2.png)](http://discoverycenter.icr.org/)
 
