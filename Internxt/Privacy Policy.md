@@ -1255,8 +1255,6 @@ Resources
 
 Free Tools
 
-English (EN)
-
 [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2715%27%20height=%2714%27/%3e)![twitter icon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
 
 ![twitter icon](https://pub-a9deffb393604831b8b467f4ec97bf3a.r2.dev/website/icons/social/X_logo.svg)](https://twitter.com/Internxt)[![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2716%27%20height=%2716%27/%3e)![Reddit icon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
