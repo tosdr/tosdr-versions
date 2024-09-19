@@ -1,7 +1,5 @@
 error: no ad slot id exists: undefined
 
-[Breaking: Kamala Harris to visit Atlanta Friday to advocate for abortion rights](https://www.ajc.com/politics/harris-travels-to-atlanta-friday-expected-to-react-to-2-deaths-linked-to-state-abortion-limits/5XWO3DHUGFHDXBFFICKAFC42Z4/)
-
 [![ajc logo](/pf/resources/logos/AJC/logo-full-redesign.svg?d=1689)![ajc logo](/pf/resources/logos/AJC/logo-short.svg?d=1689)](https://www.ajc.com/)
 
 Log In
