@@ -356,9 +356,9 @@ Hungary
 
 Ireland
 
-[English](https://ire.mars.com/)
+[English](https://www.mars.com/en-ie)
 
-[English](https://ire.mars.com/)
+[English](https://www.mars.com/en-ie)
 
 Italy
 
@@ -422,9 +422,9 @@ Switzerland
 
 United Kingdom
 
-[English](https://gbr.mars.com/)
+[English](https://www.mars.com/en-gb)
 
-[English](https://gbr.mars.com/)
+[English](https://www.mars.com/en-gb)
 
 Ukraine
 
