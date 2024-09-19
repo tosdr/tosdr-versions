@@ -180,7 +180,7 @@ Optery, Inc. uses the collected data for various purposes:
 
 (c) to allow you to participate in interactive features of our Service when you choose to do so.
 
-(d) to provide customer support.
+(d) to provide reporting and customer support.
 
 (e) to gather analysis or valuable information so that we can improve our Service.
 
@@ -329,7 +329,9 @@ If you are a resident of California, your data protection rights, described abov
 
 #### **13. Third-party Vendors and Service Providers**
 
-Optery uses third-party vendors and service providers to facilitate our Service (“**Service Providers**”). You acknowledge and agree that Optery may use and provide your PII to the following Service Providers to monitor, analyze, support, service, secure, market, improve, and/or provide our Service. Any such third-party vendors and service providers will only be given access to your PII and personal data as is reasonably necessary to monitor, analyze, support, service, secure, market, monetize, improve, and/or provide our Service.
+Optery uses third-party vendors and service providers to facilitate our Service (“**Service Providers**”). You acknowledge and agree that Optery may use and provide your PII to the following third-party vendors and service providers to monitor, analyze, support, service, report on, secure, market, monetize, improve, and/or provide our Service. Any such third-party vendors and service providers will only be given access to your PII and personal data as is reasonably necessary to monitor, analyze, support, service, report on, secure, market, monetize, improve, and/or provide our Service.
+
+Removals Reports that utilize OpenAI are optional, and you can learn more about [how Optery utilizes AI for generating Removals Reports and how to opt out using Report Preferences](https://help.optery.com/en/article/how-does-optery-utilize-ai-for-generating-removals-reports-and-how-to-opt-out-using-report-preferences-1yxq75z/) on the Optery Help Desk [here](https://help.optery.com/en/article/how-does-optery-utilize-ai-for-generating-removals-reports-and-how-to-opt-out-using-report-preferences-1yxq75z/).
 
 |     |     |     |     |
 | --- | --- | --- | --- |
@@ -345,7 +347,7 @@ Optery uses third-party vendors and service providers to facilitate our Service 
 | Linkedin | Marketing | USA | [https://www.linkedin.com/legal/privacy-policy](https://www.linkedin.com/legal/privacy-policy) |
 | Mailgun | Customer Analytics | USA | [https://www.mailgun.com/legal/privacy-policy/](https://www.mailgun.com/legal/privacy-policy/) |
 | Meta | Marketing | USA | [https://www.facebook.com/help/109378269482053/](https://www.facebook.com/help/109378269482053/) |
-| OpenAI | Removals Reports Processing | USA | [https://openai.com/security-and-privacy/](https://openai.com/security-and-privacy/) |
+| OpenAI | Optery Removals Reports | USA | [https://openai.com/security-and-privacy/](https://openai.com/security-and-privacy/)<br><br>and how to opt out of Optery Removals Reports:<br><br>[https://help.optery.com/en/article/how-does-optery-utilize-ai-for-generating-removals-reports-and-how-to-opt-out-using-report-preferences-1yxq75z/](https://help.optery.com/en/article/how-does-optery-utilize-ai-for-generating-removals-reports-and-how-to-opt-out-using-report-preferences-1yxq75z/) |
 | Profitwell | Revenue Management | USA | [https://security.paddle.com/](https://security.paddle.com/) |
 | Reddit | Marketing | USA | [https://www.reddit.com/policies/privacy-policy](https://www.reddit.com/policies/privacy-policy) |
 | Slack | Internal Communications, Customer Support | USA | [https://slack.com/trust/privacy/privacy-policy](https://slack.com/trust/privacy/privacy-policy) |
