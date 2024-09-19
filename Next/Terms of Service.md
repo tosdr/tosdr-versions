@@ -1,6 +1,6 @@
 5.38.4
 
-1726734177960
+1726756916394
 
                                              
 
@@ -12,7 +12,7 @@ en
 
 3.15.0
 
-1726735307578
+1726756047548
 
      Next Terms & Conditions | T&C's | Next Official Site                                  
 
@@ -22,7 +22,7 @@ en
 
 cutaway22
 
-1726733818009
+1726756223190
 
 You need to enable JavaScript to run this app.
 
@@ -57,12 +57,12 @@ Search product or brand
 * [girls](https://www.next.co.uk/girls "GIRLS")
 * [home](https://www.next.co.uk/homeware "HOME")
 * [baby](https://www.next.co.uk/newborn "BABY")
-* [school](https://www.next.co.uk/back-to-school "SCHOOL")
 * [brands](https://www.next.co.uk/branded "BRANDS")
 * [furniture](https://www.next.co.uk/furniture "FURNITURE")
 * [gifts](https://www.next.co.uk/gift-ideas "GIFTS")
 * [gifts & flowers](https://www.next.co.uk/gift-ideas "GIFTS & FLOWERS")
 * [beauty](https://www.next.co.uk/beauty "BEAUTY")
+* [christmas](https://www.next.co.uk/christmas "CHRISTMAS")
 * [sports](https://www.next.co.uk/sports "SPORTS")
 * [clearance](https://www.next.co.uk/clearance "CLEARANCE")
 
@@ -577,20 +577,6 @@ Please note the redemption of the 10% welcome offer to credit applies only to Ne
 13. We reserve the right to amend these terms and conditions and/or discontinue the promotion at any time without liability.
 14. The promoter is Next Retail Limited, Desford Road, Enderby, Leicester, LE19 4AT.
 15. This promotion is governed by English law and disputes are subject to the exclusive jurisdiction of the English courts.
-
-### 25% off on Selected Bath and Body Works Promotion
-
-* Up to 25% off on selected Bath and Body Works Bodycare products.
-* Discounted price visible on product listing page and product already includes saving
-* Item will be added to basket at discounted price
-* Offer available while stocks last
-
-### Bath and Body Works Candle Promotion
-
-* Selected Bath and Body Works single wick candles for £15
-* Discounted price visible on product listing page and product already includes saving
-* Item will be added to basket at discounted price
-* Offer available while stocks last
 
 ### Elizabeth Arden Promotion
 
@@ -2466,7 +2452,7 @@ You need to enable JavaScript to run this app.
 
 3.15.0
 
-1726734891001
+1726755405370
 
 ### Our Social Networks
 
