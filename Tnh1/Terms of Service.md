@@ -50,31 +50,31 @@ Mulher é presa por invadir apartamento enquanto dono dormia e furtar objetos de
 
 [Leia tudo sobre Alagoas](https://www.tnh1.com.br/noticias/editoria/alagoas/ "Ir para Alagoas")
 
-   [![Senador Rui Palmeira: juiz eleitoral condena prefeita  e cassa registro de candidato à prefeitura](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/7/c/csm_csm_Senador-Rui-Palmeira-ascom_9c363eb8f8_ed5efc79bd.jpg)
+   [![Segundo episódio da série "Territórios do Crime" mostra como o RJ virou refúgio de traficantes alagoanos](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/e/3/csm_Still_Territorios_do_crime_d7bdc35c5f.png)
+
+Polícia
+
+Segundo episódio da série "Territórios do Crime" mostra como o RJ virou refúgio de traficantes alagoanos](https://www.tnh1.com.br/noticia/nid/segundo-episodio-da-serie-territorios-do-crime-mostra-como-o-rj-virou-refugio-de-traficantes-alagoanos/ "Segundo episódio da série "Territórios do Crime" mostra como o RJ virou refúgio de traficantes alagoanos")   [![Senador Rui Palmeira: juiz eleitoral condena prefeita  e cassa registro de candidato à prefeitura](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/7/c/csm_csm_Senador-Rui-Palmeira-ascom_9c363eb8f8_ed5efc79bd.jpg)
 
 PROMOÇÃO PESSOAL
 
-Senador Rui Palmeira: juiz eleitoral condena prefeita e cassa registro de candidato à prefeitura](https://www.tnh1.com.br/noticia/nid/senador-rui-palmeira-juiz-eleitoral-condena-prefeita-e-cassa-registro-de-candidato-a-prefeitura/ "Senador Rui Palmeira: juiz eleitoral condena prefeita  e cassa registro de candidato à prefeitura")   [![Governo do Estado diploma três novos patrimônios vivos de Alagoas](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/c/1/csm_governo-do-estado-diploma-tres-novos-patrimonios-vivos-de-alagoas_e5e42bd909.jpeg)
+Senador Rui Palmeira: juiz eleitoral condena prefeita e cassa registro de candidato à prefeitura](https://www.tnh1.com.br/noticia/nid/senador-rui-palmeira-juiz-eleitoral-condena-prefeita-e-cassa-registro-de-candidato-a-prefeitura/ "Senador Rui Palmeira: juiz eleitoral condena prefeita  e cassa registro de candidato à prefeitura")   [![Governo do Estado diploma três novos patrimônios vivos de Alagoas](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/c/1/csm_governo-do-estado-diploma-tres-novos-patrimonios-vivos-de-alagoas_e5e42bd909.jpeg)
 
 Cultura
 
-Governo do Estado diploma três novos patrimônios vivos de Alagoas](https://www.tnh1.com.br/noticia/nid/governo-do-estado-diploma-tres-novos-patrimonios-vivos-de-alagoas/ "Governo do Estado diploma três novos patrimônios vivos de Alagoas")   [![Polícia Militar prende suspeitos e apreende armas e drogas em Piranhas e Arapiraca](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/7/0/csm_guarnicoes-da-pm-predem-suspeitos-com-armas-de-fogo-em-piranhas-e-arapiraca_544446e4f8.jpg)
+Governo do Estado diploma três novos patrimônios vivos de Alagoas](https://www.tnh1.com.br/noticia/nid/governo-do-estado-diploma-tres-novos-patrimonios-vivos-de-alagoas/ "Governo do Estado diploma três novos patrimônios vivos de Alagoas")   [![Polícia Militar prende suspeitos e apreende armas e drogas em Piranhas e Arapiraca](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/7/0/csm_guarnicoes-da-pm-predem-suspeitos-com-armas-de-fogo-em-piranhas-e-arapiraca_544446e4f8.jpg)
 
 Alagoas
 
-Polícia Militar prende suspeitos e apreende armas e drogas em Piranhas e Arapiraca](https://www.tnh1.com.br/noticia/nid/policia-militar-prende-suspeitos-e-apreende-armas-e-drogas-em-piranhas-e-arapiraca/ "Polícia Militar prende suspeitos e apreende armas e drogas em Piranhas e Arapiraca")   [![Cases alagoanos são classificados para premiação nacional](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/6/0/csm_PREMIO_SER_HUMANO_482782c8d0.png)
+Polícia Militar prende suspeitos e apreende armas e drogas em Piranhas e Arapiraca](https://www.tnh1.com.br/noticia/nid/policia-militar-prende-suspeitos-e-apreende-armas-e-drogas-em-piranhas-e-arapiraca/ "Polícia Militar prende suspeitos e apreende armas e drogas em Piranhas e Arapiraca")   [![Cases alagoanos são classificados para premiação nacional](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/6/0/csm_PREMIO_SER_HUMANO_482782c8d0.png)
 
 Alagoas
 
-Cases alagoanos são classificados para premiação nacional](https://www.tnh1.com.br/noticia/nid/cases-alagoanos-sao-classificados-para-premiacao-nacional/ "Cases alagoanos são classificados para premiação nacional")   [![HGE procura por familiares de paciente que deu entrada na última sexta-feira (13)](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/c/9/csm_hge-procura-por-familiares-de-paciente-que-foi-admitido-na-unidade-na-sexta-feira_b302874ecd.jpg)
+Cases alagoanos são classificados para premiação nacional](https://www.tnh1.com.br/noticia/nid/cases-alagoanos-sao-classificados-para-premiacao-nacional/ "Cases alagoanos são classificados para premiação nacional")   [![HGE procura por familiares de paciente que deu entrada na última sexta-feira (13)](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/c/9/csm_hge-procura-por-familiares-de-paciente-que-foi-admitido-na-unidade-na-sexta-feira_b302874ecd.jpg)
 
 vítima de acidente
 
-HGE procura por familiares de paciente que deu entrada na última sexta-feira (13)](https://www.tnh1.com.br/noticia/nid/hge-procura-por-familiares-de-paciente-que-deu-entrada-na-ultima-sexta-feira-13/ "HGE procura por familiares de paciente que deu entrada na última sexta-feira (13)")   [![Cinco casos de violência doméstica são registrados em Alagoas durante o feriado](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/b/9/csm_violencia_contra_a_mulher-agencia-brasil_b41768433d.jpg)
-
-Em 12 horas
-
-Cinco casos de violência doméstica são registrados em Alagoas durante o feriado](https://www.tnh1.com.br/noticia/nid/cinco-casos-de-violencia-domestica-sao-registrados-em-alagoas-durante-o-feriado/ "Cinco casos de violência doméstica são registrados em Alagoas durante o feriado")
+HGE procura por familiares de paciente que deu entrada na última sexta-feira (13)](https://www.tnh1.com.br/noticia/nid/hge-procura-por-familiares-de-paciente-que-deu-entrada-na-ultima-sexta-feira-13/ "HGE procura por familiares de paciente que deu entrada na última sexta-feira (13)")
 
 [Polícia](https://www.tnh1.com.br/noticias/editoria/policia/ "Polícia")
 
@@ -82,31 +82,31 @@ Cinco casos de violência doméstica são registrados em Alagoas durante o feria
 
 [Leia tudo sobre Polícia](https://www.tnh1.com.br/noticias/editoria/policia/ "Ir para Polícia")
 
-   [![Diretor de escola é investigado após enviar foto íntima para aluna de 13 anos; veja imagens ](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/6/1/csm_print-conversas-diretor-aluna-reproducao_cf94710b60.jpeg)
+   [![Segundo episódio da série "Territórios do Crime" mostra como o RJ virou refúgio de traficantes alagoanos](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/e/3/csm_Still_Territorios_do_crime_d7bdc35c5f.png)
+
+Polícia
+
+Segundo episódio da série "Territórios do Crime" mostra como o RJ virou refúgio de traficantes alagoanos](https://www.tnh1.com.br/noticia/nid/segundo-episodio-da-serie-territorios-do-crime-mostra-como-o-rj-virou-refugio-de-traficantes-alagoanos/ "Segundo episódio da série "Territórios do Crime" mostra como o RJ virou refúgio de traficantes alagoanos")   [![Diretor de escola é investigado após enviar foto íntima para aluna de 13 anos; veja imagens ](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/6/1/csm_print-conversas-diretor-aluna-reproducao_cf94710b60.jpeg)
 
 RIO LARGO
 
-Diretor de escola é investigado após enviar foto íntima para aluna de 13 anos; veja imagens](https://www.tnh1.com.br/noticia/nid/diretor-de-escola-e-investigado-apos-enviar-foto-intima-para-aluna-de-13-anos-veja-imagens/ "Diretor de escola é investigado após enviar foto íntima para aluna de 13 anos; veja imagens ")   [![Promotores se posicionam sobre prisão de delegado: "Grave conduta jamais esperada"](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/1/e/csm_Promotores_Kleber_Valadares_e_Lidia_Malta_-_foto_Reproducao_MPAL_eaafdeb3bc.jpg)
+Diretor de escola é investigado após enviar foto íntima para aluna de 13 anos; veja imagens](https://www.tnh1.com.br/noticia/nid/diretor-de-escola-e-investigado-apos-enviar-foto-intima-para-aluna-de-13-anos-veja-imagens/ "Diretor de escola é investigado após enviar foto íntima para aluna de 13 anos; veja imagens ")   [![Promotores se posicionam sobre prisão de delegado: "Grave conduta jamais esperada"](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/1/e/csm_Promotores_Kleber_Valadares_e_Lidia_Malta_-_foto_Reproducao_MPAL_eaafdeb3bc.jpg)
 
 kleber malaquias
 
-Promotores se posicionam sobre prisão de delegado: "Grave conduta jamais esperada"](https://www.tnh1.com.br/noticia/nid/promotores-se-posicionam-sobre-prisao-de-delegado-grave-conduta-jamais-esperada/ "Promotores se posicionam sobre prisão de delegado: "Grave conduta jamais esperada"")   [![Operação da PF mira suspeito de assediar criança alagoana a gravar e publicar vídeos sensuais](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/5/4/csm_policia_federal_7684d7c2a9.jpeg)
+Promotores se posicionam sobre prisão de delegado: "Grave conduta jamais esperada"](https://www.tnh1.com.br/noticia/nid/promotores-se-posicionam-sobre-prisao-de-delegado-grave-conduta-jamais-esperada/ "Promotores se posicionam sobre prisão de delegado: "Grave conduta jamais esperada"")   [![Operação da PF mira suspeito de assediar criança alagoana a gravar e publicar vídeos sensuais](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/5/4/csm_policia_federal_7684d7c2a9.jpeg)
 
 'grooming'
 
-Operação da PF mira suspeito de assediar criança alagoana a gravar e publicar vídeos sensuais](https://www.tnh1.com.br/noticia/nid/operacao-da-pf-mira-suspeito-de-assediar-crianca-alagoana-a-gravar-e-publicar-videos-sensuais/ "Operação da PF mira suspeito de assediar criança alagoana a gravar e publicar vídeos sensuais")   [![Entidades classificam prisão de delegado Daniel Mayer como 'fruto de equívoco' ](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/4/0/csm_Delegado_Daniel_Mayer_PC_-_foto_Reproducao_-_TV_Pajucara_95c9b9a26f.jpg)
+Operação da PF mira suspeito de assediar criança alagoana a gravar e publicar vídeos sensuais](https://www.tnh1.com.br/noticia/nid/operacao-da-pf-mira-suspeito-de-assediar-crianca-alagoana-a-gravar-e-publicar-videos-sensuais/ "Operação da PF mira suspeito de assediar criança alagoana a gravar e publicar vídeos sensuais")   [![Entidades classificam prisão de delegado Daniel Mayer como 'fruto de equívoco' ](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/4/0/csm_Delegado_Daniel_Mayer_PC_-_foto_Reproducao_-_TV_Pajucara_95c9b9a26f.jpg)
 
 confira na íntegra
 
-Entidades classificam prisão de delegado Daniel Mayer como 'fruto de equívoco'](https://www.tnh1.com.br/noticia/nid/entidades-classificam-prisao-de-delegado-daniel-mayer-como-fruto-de-equivoco/ "Entidades classificam prisão de delegado Daniel Mayer como 'fruto de equívoco' ")   [![Delegado é preso em Maceió suspeito de prejudicar investigação da morte de empresário](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/2/6/csm_WhatsApp_Image_2024-09-18_at_10.05.50_906c01ad4a.jpeg)
+Entidades classificam prisão de delegado Daniel Mayer como 'fruto de equívoco'](https://www.tnh1.com.br/noticia/nid/entidades-classificam-prisao-de-delegado-daniel-mayer-como-fruto-de-equivoco/ "Entidades classificam prisão de delegado Daniel Mayer como 'fruto de equívoco' ")   [![Delegado é preso em Maceió suspeito de prejudicar investigação da morte de empresário](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/2/6/csm_WhatsApp_Image_2024-09-18_at_10.05.50_906c01ad4a.jpeg)
 
 caso kleber malaquias
 
-Delegado é preso em Maceió suspeito de prejudicar investigação da morte de empresário](https://www.tnh1.com.br/noticia/nid/delegado-e-preso-em-maceio-suspeito-de-prejudicar-investigacao-da-morte-de-empresario/ "Delegado é preso em Maceió suspeito de prejudicar investigação da morte de empresário")   [![Novas denúncias contra preso por estelionato mostram prejuízo de R$ 17 mil para lojas de shoppings](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/2/4/csm_prisao-estelionato-divulgacao_3f25234b56.jpg)
-
-Investigado
-
-Novas denúncias contra preso por estelionato mostram prejuízo de R$ 17 mil para lojas de shoppings](https://www.tnh1.com.br/noticia/nid/novas-denuncias-contra-preso-por-estelionato-mostram-prejuizo-de-r-17-mil-para-lojas-de-shoppings/ "Novas denúncias contra preso por estelionato mostram prejuízo de R$ 17 mil para lojas de shoppings")
+Delegado é preso em Maceió suspeito de prejudicar investigação da morte de empresário](https://www.tnh1.com.br/noticia/nid/delegado-e-preso-em-maceio-suspeito-de-prejudicar-investigacao-da-morte-de-empresario/ "Delegado é preso em Maceió suspeito de prejudicar investigação da morte de empresário")
 
 [Blogs](https://www.tnh1.com.br/blogs/ "Blogs")
 
@@ -222,49 +222,49 @@ investigações
 
 Suspeito de matar Ana Beatriz é filho de PM e teria usado arma do pai no crime
 
-Suspeito de matar Ana Beatriz é filho de PM e teria usado arma do pai no crime](https://www.tnh1.com.br/noticia/nid/suspeito-de-matar-ana-beatriz-e-filho-de-pm-e-teria-usado-arma-do-pai-no-crime/ "Suspeito de matar Ana Beatriz é filho de PM e teria usado arma do pai no crime")[![Caso Ana Beatriz: suspeito de perseguir e matar adolescente de 13 anos é preso em Maceió](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/a/1/csm_Menina_de_13_anos_e_baleada_em_Maceio_-_foto_Reproducao_ec76ee516d.jpg)
+Suspeito de matar Ana Beatriz é filho de PM e teria usado arma do pai no crime](https://www.tnh1.com.br/noticia/nid/suspeito-de-matar-ana-beatriz-e-filho-de-pm-e-teria-usado-arma-do-pai-no-crime/ "Suspeito de matar Ana Beatriz é filho de PM e teria usado arma do pai no crime")[!['Serial killer': polícia investiga se suspeito de matar adolescente é assassino em série](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/8/a/csm_prisao_de_suspeito_de_matar_ana_beatriz_reproducao_video_6974c41b25.png)
 
-Na Ponta Grossa
+Polícia
 
-Na Ponta Grossa
+Polícia
 
-Caso Ana Beatriz: suspeito de perseguir e matar adolescente de 13 anos é preso em Maceió
+'Serial killer': polícia investiga se suspeito de matar adolescente é assassino em série
 
-Caso Ana Beatriz: suspeito de perseguir e matar adolescente de 13 anos é preso em Maceió](https://www.tnh1.com.br/noticia/nid/caso-ana-beatriz-suspeito-de-perseguir-e-matar-adolescente-de-13-anos-e-preso-em-maceio/ "Caso Ana Beatriz: suspeito de perseguir e matar adolescente de 13 anos é preso em Maceió")
+'Serial killer': polícia investiga se suspeito de matar adolescente é assassino em série](https://www.tnh1.com.br/noticia/nid/serial-killer-policia-investiga-se-suspeito-de-matar-adolescente-e-assassino-em-serie/ "'Serial killer': polícia investiga se suspeito de matar adolescente é assassino em série")
 
-[![Diretor de escola é investigado após enviar foto íntima para aluna de 13 anos; veja imagens ](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/6/1/csm_print-conversas-diretor-aluna-reproducao_f99fdc12d4.jpeg)
+[![Filho revela a última promessa que fez para Christopher Reeve, o Superman clássico do cinema](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/6/4/csm_christopher-reeve-matt-reeve-filho-reproducao-redes-sociais_95606d02b9.jpg)
 
-RIO LARGO
+32 anos
 
-RIO LARGO
+32 anos
 
-Diretor de escola é investigado após enviar foto íntima para aluna de 13 anos; veja imagens
+Filho revela a última promessa que fez para Christopher Reeve, o Superman clássico do cinema
 
-Diretor de escola é investigado após enviar foto íntima para aluna de 13 anos; veja imagens](https://www.tnh1.com.br/noticia/nid/diretor-de-escola-e-investigado-apos-enviar-foto-intima-para-aluna-de-13-anos-veja-imagens/ "Diretor de escola é investigado após enviar foto íntima para aluna de 13 anos; veja imagens ")[![Carne bovina, charque e linguiça: fiscalização apreende 90kg de alimentos estragados no Jacintinho](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/5/e/csm_carne-estragada-fiscalizacao-visa-reproducao_9e8f44255c.jpeg)
+Filho revela a última promessa que fez para Christopher Reeve, o Superman clássico do cinema](https://www.tnh1.com.br/noticia/nid/filho-revela-a-ultima-promessa-que-fez-para-christopher-reeve-o-superman-classico-do-cinema/ "Filho revela a última promessa que fez para Christopher Reeve, o Superman clássico do cinema")[![Desastre do submersível Titan: 5 questões-chave não respondidas até hoje](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/2/5/csm_destrocos-submarino-titan-reproducao-US-COast-Guard_11096a70d0.jpg)
 
-EM MACEIÓ
+falha catastrófica
 
-EM MACEIÓ
+falha catastrófica
 
-Carne bovina, charque e linguiça: fiscalização apreende 90kg de alimentos estragados no Jacintinho
+Desastre do submersível Titan: 5 questões-chave não respondidas até hoje
 
-Carne bovina, charque e linguiça: fiscalização apreende 90kg de alimentos estragados no Jacintinho](https://www.tnh1.com.br/noticia/nid/carne-bovina-charque-e-linguica-fiscalizacao-apreende-90kg-de-alimentos-estragados-no-jacintinho/ "Carne bovina, charque e linguiça: fiscalização apreende 90kg de alimentos estragados no Jacintinho")[![Longa alagoano é pré-selecionado para o Oscar de Melhor Filme Internacional](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/8/3/csm_longa-alagoano-sem-coracao-e-pre-selecionado-para-o-oscar-de-melhor-filme-internacional_e4c9125556.jpg)
+Desastre do submersível Titan: 5 questões-chave não respondidas até hoje](https://www.tnh1.com.br/noticia/nid/desastre-do-submersivel-titan-5-questoes-chave-nao-respondidas-ate-hoje/ "Desastre do submersível Titan: 5 questões-chave não respondidas até hoje")[![CBF divulga data e horário do sorteio do mando das semis da Copa do Brasil](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/b/9/csm_Sorteio_copa_do_Brasil_-_foto_Rafael_Ribeiro_-_CBF_1ed0d98ada.jpeg)
 
-Cinema
+mata-mata
 
-Cinema
+mata-mata
 
-Longa alagoano é pré-selecionado para o Oscar de Melhor Filme Internacional
+CBF divulga data e horário do sorteio do mando das semis da Copa do Brasil
 
-Longa alagoano é pré-selecionado para o Oscar de Melhor Filme Internacional](https://www.tnh1.com.br/noticia/nid/longa-alagoano-e-pre-selecionado-para-o-oscar-de-melhor-filme-internacional/ "Longa alagoano é pré-selecionado para o Oscar de Melhor Filme Internacional")[![Aluna de 10 anos morre após sentir dor de cabeça, dor abdominal e vomitar em escola](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/f/3/csm_menina-10_anos-morreu-apassou--mal-escola-parana-redes-sociais_0c124e8491.jpg)
+CBF divulga data e horário do sorteio do mando das semis da Copa do Brasil](https://www.tnh1.com.br/noticia/nid/cbf-divulga-data-e-horario-do-sorteio-do-mando-das-semis-da-copa-do-brasil/ "CBF divulga data e horário do sorteio do mando das semis da Copa do Brasil")[![Homem esquece panela no fogão e apartamento pega fogo em João Pessoa](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/d/8/csm_Homem_esquece_panela_no_fogao_e_apartamento_pega_fogo_em_Joao_Pessoa_-_foto_Reproducao_96485e2f6b.jpg)
 
-NO PARANÁ
+paraíba
 
-NO PARANÁ
+paraíba
 
-Aluna de 10 anos morre após sentir dor de cabeça, dor abdominal e vomitar em escola
+Homem esquece panela no fogão e apartamento pega fogo em João Pessoa
 
-Aluna de 10 anos morre após sentir dor de cabeça, dor abdominal e vomitar em escola](https://www.tnh1.com.br/noticia/nid/aluna-de-10-anos-morre-apos-sentir-dor-de-cabeca-dor-abdominal-e-vomitar-em-escola/ "Aluna de 10 anos morre após sentir dor de cabeça, dor abdominal e vomitar em escola")
+Homem esquece panela no fogão e apartamento pega fogo em João Pessoa](https://www.tnh1.com.br/noticia/nid/homem-esquece-panela-no-fogao-e-apartamento-pega-fogo-em-joao-pessoa/ "Homem esquece panela no fogão e apartamento pega fogo em João Pessoa")
 
 [](https://www.tnh1.com.br/ "TNH1 logo")
 
