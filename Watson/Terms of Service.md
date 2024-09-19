@@ -1,4 +1,4 @@
-[![watson](https://www.watson.ch/fr/_watsui/static/img/logos/logo_watson_navi_ch.png)](https://www.watson.ch/fr/)[![assez ensoleillé](https://www.watson.ch/fr/_watsui/static/img/weather/w-55.svg)15°](https://www.watson.ch/fr/o/meteo)
+[![watson](https://www.watson.ch/fr/_watsui/static/img/logos/logo_watson_navi_ch.png)](https://www.watson.ch/fr/)[![beau temps](https://www.watson.ch/fr/_watsui/static/img/weather/w-1.svg)19°](https://www.watson.ch/fr/o/meteo)
 
 [DE](https://www.watson.ch/) | [FR](https://www.watson.ch/fr/)
 
@@ -55,25 +55,25 @@
 
 Thèmes du moment
 
-* [Vins](https://www.watson.ch/fr/vins/)
-* [En Train](https://www.watson.ch/fr/en-train/)
-* [Voyage](https://www.watson.ch/fr/voyage/)
+* [Statistiques](https://www.watson.ch/fr/statistiques/)
+* [Réseaux sociaux](https://www.watson.ch/fr/reseaux-sociaux/)
+* [Quiz](https://www.watson.ch/fr/quiz/)
+* [Politique](https://www.watson.ch/fr/politique/)
+* [Genève](https://www.watson.ch/fr/geneve/)
 * [Russie](https://www.watson.ch/fr/russie/)
 * [Argent](https://www.watson.ch/fr/argent/)
-* [Inflation](https://www.watson.ch/fr/inflation/)
+* [F1](https://www.watson.ch/fr/f1/)
+* [Formule 1](https://www.watson.ch/fr/formule-1/)
+* [red bull](https://www.watson.ch/fr/red-bull/)
 * [Cinéma](https://www.watson.ch/fr/cinema/)
-* [Football](https://www.watson.ch/fr/football/)
-* [CFF](https://www.watson.ch/fr/cff/)
-* [Israël](https://www.watson.ch/fr/israel/)
 * [Liban](https://www.watson.ch/fr/liban/)
-* [Nature](https://www.watson.ch/fr/nature/)
+* [Football](https://www.watson.ch/fr/football/)
+* [Justice](https://www.watson.ch/fr/justice/)
+* [Israël](https://www.watson.ch/fr/israel/)
+* [Sécurité](https://www.watson.ch/fr/securite/)
 * [Décès](https://www.watson.ch/fr/deces/)
 * [Guerre contre l'Ukraine](https://www.watson.ch/fr/guerre-contre-l-ukraine/)
 * [hezbollah](https://www.watson.ch/fr/hezbollah/)
-* [Animaux](https://www.watson.ch/fr/animaux/)
-* [Gaza](https://www.watson.ch/fr/gaza/)
-* [Emploi](https://www.watson.ch/fr/emploi/)
-* [Justice](https://www.watson.ch/fr/justice/)
 * [Etats-Unis](https://www.watson.ch/fr/etats-unis/)
 * [Tous les thèmes](https://www.watson.ch/fr/u/tag_list)
 
