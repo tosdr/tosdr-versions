@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/nieuws/slecht-gehumeurd-waarschijnlijk-vochttekort/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/overige/dodelijke-immuniteit-over-kwik-in-vaccins/ "Feeling Lucky? »")
 
 Algemene voorwaarden WantToKnow aanbiedingen
 ============================================
