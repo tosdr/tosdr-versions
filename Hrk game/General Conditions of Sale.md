@@ -140,7 +140,7 @@ Giveaways
 
 [Support](https://www.hrkgame.com/en/support/)
 
-[](https://www.hrkgame.com/en/games/products/?search=Space+Marine+2)
+[](https://www.hrkgame.com/en/games/products/?search=God+of+War+Ragnar%C3%B6k)
 
 Refund Policy
 -------------
