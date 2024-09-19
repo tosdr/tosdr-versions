@@ -16,237 +16,241 @@ Menu
     
 * United States (USD $)
     
-    * Afghanistan (AFN ؋)
+    * Afghanistan (USD $)
     * Åland Islands (EUR €)
-    * Albania (ALL L)
-    * Algeria (DZD د.ج)
+    * Albania (USD $)
+    * Algeria (USD $)
     * Andorra (EUR €)
     * Angola (USD $)
-    * Anguilla (XCD $)
-    * Antigua & Barbuda (XCD $)
+    * Anguilla (USD $)
+    * Antigua & Barbuda (USD $)
     * Argentina (USD $)
-    * Armenia (AMD դր.)
-    * Aruba (AWG ƒ)
-    * Ascension Island (SHP £)
+    * Armenia (USD $)
+    * Aruba (USD $)
+    * Ascension Island (USD $)
     * Australia (AUD $)
     * Austria (EUR €)
-    * Azerbaijan (AZN ₼)
-    * Bahamas (BSD $)
+    * Azerbaijan (USD $)
+    * Bahamas (USD $)
     * Bahrain (USD $)
-    * Bangladesh (BDT ৳)
-    * Barbados (BBD $)
+    * Bangladesh (USD $)
+    * Barbados (USD $)
     * Belarus (USD $)
     * Belgium (EUR €)
-    * Belize (BZD $)
-    * Benin (XOF Fr)
+    * Belize (USD $)
+    * Benin (USD $)
     * Bermuda (USD $)
     * Bhutan (USD $)
-    * Bolivia (BOB Bs.)
-    * Bosnia & Herzegovina (BAM КМ)
-    * Botswana (BWP P)
+    * Bolivia (USD $)
+    * Bosnia & Herzegovina (USD $)
+    * Botswana (USD $)
     * Brazil (USD $)
     * British Indian Ocean Territory (USD $)
     * British Virgin Islands (USD $)
-    * Brunei (BND $)
-    * Bulgaria (BGN лв.)
-    * Burkina Faso (XOF Fr)
-    * Burundi (BIF Fr)
-    * Cambodia (KHR ៛)
-    * Cameroon (XAF Fr)
+    * Brunei (USD $)
+    * Bulgaria (USD $)
+    * Burkina Faso (USD $)
+    * Burundi (USD $)
+    * Cambodia (USD $)
+    * Cameroon (USD $)
     * Canada (CAD $)
-    * Cape Verde (CVE $)
+    * Cape Verde (USD $)
     * Caribbean Netherlands (USD $)
-    * Cayman Islands (KYD $)
-    * Central African Republic (XAF Fr)
-    * Chad (XAF Fr)
+    * Cayman Islands (USD $)
+    * Central African Republic (USD $)
+    * Chad (USD $)
     * Chile (USD $)
-    * Christmas Island (AUD $)
-    * Cocos (Keeling) Islands (AUD $)
+    * China (CNY ¥)
+    * Christmas Island (USD $)
+    * Cocos (Keeling) Islands (USD $)
     * Colombia (USD $)
-    * Comoros (KMF Fr)
-    * Congo - Brazzaville (XAF Fr)
-    * Congo - Kinshasa (CDF Fr)
-    * Cook Islands (NZD $)
-    * Costa Rica (CRC ₡)
-    * Côte d’Ivoire (XOF Fr)
-    * Croatia (EUR €)
-    * Curaçao (ANG ƒ)
+    * Comoros (USD $)
+    * Congo - Brazzaville (USD $)
+    * Congo - Kinshasa (USD $)
+    * Cook Islands (USD $)
+    * Costa Rica (USD $)
+    * Côte d’Ivoire (USD $)
+    * Croatia (USD $)
+    * Curaçao (USD $)
     * Cyprus (EUR €)
-    * Czechia (CZK Kč)
-    * Denmark (DKK kr.)
-    * Djibouti (DJF Fdj)
-    * Dominica (XCD $)
-    * Dominican Republic (DOP $)
+    * Czechia (USD $)
+    * Denmark (USD $)
+    * Djibouti (USD $)
+    * Dominica (USD $)
+    * Dominican Republic (USD $)
     * Ecuador (USD $)
-    * Egypt (EGP ج.م)
+    * Egypt (USD $)
     * El Salvador (USD $)
-    * Equatorial Guinea (XAF Fr)
+    * Equatorial Guinea (USD $)
     * Eritrea (USD $)
     * Estonia (EUR €)
     * Eswatini (USD $)
-    * Ethiopia (ETB Br)
-    * Falkland Islands (FKP £)
-    * Faroe Islands (DKK kr.)
-    * Fiji (FJD $)
+    * Ethiopia (USD $)
+    * Falkland Islands (USD $)
+    * Faroe Islands (USD $)
+    * Fiji (USD $)
     * Finland (EUR €)
     * France (EUR €)
     * French Guiana (EUR €)
-    * French Polynesia (XPF Fr)
+    * French Polynesia (USD $)
     * French Southern Territories (EUR €)
-    * Gabon (XOF Fr)
-    * Gambia (GMD D)
+    * Gabon (USD $)
+    * Gambia (USD $)
     * Georgia (USD $)
     * Germany (EUR €)
     * Ghana (USD $)
-    * Gibraltar (GBP £)
+    * Gibraltar (USD $)
     * Greece (EUR €)
-    * Greenland (DKK kr.)
-    * Grenada (XCD $)
+    * Greenland (USD $)
+    * Grenada (USD $)
     * Guadeloupe (EUR €)
-    * Guatemala (GTQ Q)
-    * Guernsey (GBP £)
-    * Guinea (GNF Fr)
-    * Guinea-Bissau (XOF Fr)
-    * Guyana (GYD $)
+    * Guatemala (USD $)
+    * Guernsey (USD $)
+    * Guinea (USD $)
+    * Guinea-Bissau (USD $)
+    * Guyana (USD $)
     * Haiti (USD $)
-    * Honduras (HNL L)
+    * Honduras (USD $)
     * Hong Kong SAR (HKD $)
-    * Hungary (HUF Ft)
-    * Iceland (ISK kr)
-    * India (INR ₹)
-    * Indonesia (IDR Rp)
+    * Hungary (USD $)
+    * Iceland (USD $)
+    * India (USD $)
+    * Indonesia (USD $)
     * Iraq (USD $)
     * Ireland (EUR €)
-    * Isle of Man (GBP £)
+    * Isle of Man (USD $)
     * Israel (ILS ₪)
     * Italy (EUR €)
-    * Jamaica (JMD $)
+    * Jamaica (USD $)
+    * Japan (JPY ¥)
     * Jersey (USD $)
     * Jordan (USD $)
-    * Kazakhstan (KZT 〒)
-    * Kenya (KES KSh)
+    * Kazakhstan (USD $)
+    * Kenya (USD $)
     * Kiribati (USD $)
     * Kosovo (EUR €)
     * Kuwait (USD $)
-    * Kyrgyzstan (KGS som)
-    * Laos (LAK ₭)
+    * Kyrgyzstan (USD $)
+    * Laos (USD $)
     * Latvia (EUR €)
-    * Lebanon (LBP ل.ل)
+    * Lebanon (USD $)
     * Lesotho (USD $)
     * Liberia (USD $)
     * Libya (USD $)
-    * Liechtenstein (CHF CHF)
+    * Liechtenstein (USD $)
     * Lithuania (EUR €)
     * Luxembourg (EUR €)
-    * Macao SAR (MOP P)
+    * Macao SAR (USD $)
     * Madagascar (USD $)
-    * Malawi (MWK MK)
-    * Malaysia (MYR RM)
-    * Maldives (MVR MVR)
-    * Mali (XOF Fr)
+    * Malawi (USD $)
+    * Malaysia (USD $)
+    * Maldives (USD $)
+    * Mali (USD $)
     * Malta (EUR €)
     * Martinique (EUR €)
     * Mauritania (USD $)
-    * Mauritius (MUR ₨)
+    * Mauritius (USD $)
     * Mayotte (EUR €)
     * Mexico (USD $)
-    * Moldova (MDL L)
+    * Moldova (USD $)
     * Monaco (EUR €)
-    * Mongolia (MNT ₮)
+    * Mongolia (USD $)
     * Montenegro (EUR €)
-    * Montserrat (XCD $)
-    * Morocco (MAD د.م.)
+    * Montserrat (USD $)
+    * Morocco (USD $)
     * Mozambique (USD $)
-    * Myanmar (Burma) (MMK K)
+    * Myanmar (Burma) (USD $)
     * Namibia (USD $)
-    * Nauru (AUD $)
-    * Nepal (NPR ₨)
+    * Nauru (USD $)
+    * Nepal (USD $)
     * Netherlands (EUR €)
-    * New Caledonia (XPF Fr)
+    * New Caledonia (USD $)
     * New Zealand (NZD $)
-    * Nicaragua (NIO C$)
-    * Niger (XOF Fr)
-    * Nigeria (NGN ₦)
-    * Niue (NZD $)
-    * Norfolk Island (AUD $)
-    * North Macedonia (MKD ден)
+    * Nicaragua (USD $)
+    * Niger (USD $)
+    * Nigeria (USD $)
+    * Niue (USD $)
+    * Norfolk Island (USD $)
+    * North Macedonia (USD $)
     * Norway (USD $)
     * Oman (USD $)
-    * Pakistan (PKR ₨)
-    * Palestinian Territories (ILS ₪)
+    * Pakistan (USD $)
+    * Palestinian Territories (USD $)
     * Panama (USD $)
-    * Papua New Guinea (PGK K)
-    * Paraguay (PYG ₲)
-    * Peru (PEN S/.)
-    * Philippines (PHP ₱)
-    * Pitcairn Islands (NZD $)
-    * Poland (PLN zł)
+    * Papua New Guinea (USD $)
+    * Paraguay (USD $)
+    * Peru (USD $)
+    * Philippines (USD $)
+    * Pitcairn Islands (USD $)
+    * Poland (USD $)
     * Portugal (EUR €)
-    * Qatar (QAR ر.ق)
+    * Qatar (USD $)
     * Réunion (EUR €)
-    * Romania (RON Lei)
+    * Romania (USD $)
     * Russia (USD $)
-    * Rwanda (RWF FRw)
-    * Samoa (WST T)
+    * Rwanda (USD $)
+    * Samoa (USD $)
     * San Marino (EUR €)
-    * São Tomé & Príncipe (STD Db)
-    * Saudi Arabia (SAR ر.س)
-    * Senegal (XOF Fr)
-    * Serbia (RSD РСД)
+    * São Tomé & Príncipe (USD $)
+    * Saudi Arabia (USD $)
+    * Senegal (USD $)
+    * Serbia (USD $)
     * Seychelles (USD $)
-    * Sierra Leone (SLL Le)
-    * Sint Maarten (ANG ƒ)
+    * Sierra Leone (USD $)
+    * Singapore (SGD $)
+    * Sint Maarten (USD $)
     * Slovakia (EUR €)
     * Slovenia (EUR €)
-    * Solomon Islands (SBD $)
+    * Solomon Islands (USD $)
     * Somalia (USD $)
     * South Africa (USD $)
-    * South Georgia & South Sandwich Islands (GBP £)
+    * South Georgia & South Sandwich Islands (USD $)
+    * South Korea (KRW ₩)
     * South Sudan (USD $)
     * Spain (EUR €)
-    * Sri Lanka (LKR ₨)
+    * Sri Lanka (USD $)
     * St. Barthélemy (EUR €)
-    * St. Helena (SHP £)
-    * St. Kitts & Nevis (XCD $)
-    * St. Lucia (XCD $)
+    * St. Helena (USD $)
+    * St. Kitts & Nevis (USD $)
+    * St. Lucia (USD $)
     * St. Martin (EUR €)
     * St. Pierre & Miquelon (EUR €)
-    * St. Vincent & Grenadines (XCD $)
+    * St. Vincent & Grenadines (USD $)
     * Sudan (USD $)
     * Suriname (USD $)
     * Svalbard & Jan Mayen (USD $)
     * Sweden (SEK kr)
     * Switzerland (CHF CHF)
-    * Taiwan (TWD $)
-    * Tajikistan (TJS ЅМ)
-    * Tanzania (TZS Sh)
-    * Thailand (THB ฿)
+    * Taiwan (USD $)
+    * Tajikistan (USD $)
+    * Tanzania (USD $)
+    * Thailand (USD $)
     * Timor-Leste (USD $)
-    * Togo (XOF Fr)
-    * Tokelau (NZD $)
-    * Tonga (TOP T$)
-    * Trinidad & Tobago (TTD $)
-    * Tristan da Cunha (GBP £)
+    * Togo (USD $)
+    * Tokelau (USD $)
+    * Tonga (USD $)
+    * Trinidad & Tobago (USD $)
+    * Tristan da Cunha (USD $)
     * Tunisia (USD $)
     * Türkiye (USD $)
     * Turkmenistan (USD $)
     * Turks & Caicos Islands (USD $)
-    * Tuvalu (AUD $)
+    * Tuvalu (USD $)
     * U.S. Outlying Islands (USD $)
-    * Uganda (UGX USh)
-    * Ukraine (UAH ₴)
-    * United Arab Emirates (AED د.إ)
+    * Uganda (USD $)
+    * Ukraine (USD $)
+    * United Arab Emirates (USD $)
     * United Kingdom (GBP £)
     * United States (USD $)
-    * Uruguay (UYU $)
-    * Uzbekistan (UZS )
-    * Vanuatu (VUV Vt)
+    * Uruguay (USD $)
+    * Uzbekistan (USD $)
+    * Vanuatu (USD $)
     * Vatican City (EUR €)
     * Venezuela (USD $)
-    * Vietnam (VND ₫)
-    * Wallis & Futuna (XPF Fr)
-    * Western Sahara (MAD د.م.)
-    * Yemen (YER ﷼)
+    * Vietnam (USD $)
+    * Wallis & Futuna (USD $)
+    * Western Sahara (USD $)
+    * Yemen (USD $)
     * Zambia (USD $)
     * Zimbabwe (USD $)
     
@@ -279,110 +283,20 @@ FREE SHIPPING ON ORDERS $60+
     
     USD $
     
-    * AED د.إ
-    * AFN ؋
-    * ALL L
-    * AMD դր.
-    * ANG ƒ
     * AUD $
-    * AWG ƒ
-    * AZN ₼
-    * BAM КМ
-    * BBD $
-    * BDT ৳
-    * BGN лв.
-    * BIF Fr
-    * BND $
-    * BOB Bs.
-    * BSD $
-    * BWP P
-    * BZD $
     * CAD $
-    * CDF Fr
     * CHF CHF
-    * CRC ₡
-    * CVE $
-    * CZK Kč
-    * DJF Fdj
-    * DKK kr.
-    * DOP $
-    * DZD د.ج
-    * EGP ج.م
-    * ETB Br
+    * CNY ¥
     * EUR €
-    * FJD $
-    * FKP £
     * GBP £
-    * GMD D
-    * GNF Fr
-    * GTQ Q
-    * GYD $
     * HKD $
-    * HNL L
-    * HUF Ft
-    * IDR Rp
     * ILS ₪
-    * INR ₹
-    * ISK kr
-    * JMD $
-    * KES KSh
-    * KGS som
-    * KHR ៛
-    * KMF Fr
-    * KYD $
-    * KZT 〒
-    * LAK ₭
-    * LBP ل.ل
-    * LKR ₨
-    * MAD د.م.
-    * MDL L
-    * MKD ден
-    * MMK K
-    * MNT ₮
-    * MOP P
-    * MUR ₨
-    * MVR MVR
-    * MWK MK
-    * MYR RM
-    * NGN ₦
-    * NIO C$
-    * NPR ₨
+    * JPY ¥
+    * KRW ₩
     * NZD $
-    * PEN S/.
-    * PGK K
-    * PHP ₱
-    * PKR ₨
-    * PLN zł
-    * PYG ₲
-    * QAR ر.ق
-    * RON Lei
-    * RSD РСД
-    * RWF FRw
-    * SAR ر.س
-    * SBD $
     * SEK kr
-    * SHP £
-    * SLL Le
-    * STD Db
-    * THB ฿
-    * TJS ЅМ
-    * TOP T$
-    * TTD $
-    * TWD $
-    * TZS Sh
-    * UAH ₴
-    * UGX USh
+    * SGD $
     * USD $
-    * UYU $
-    * UZS
-    * VND ₫
-    * VUV Vt
-    * WST T
-    * XAF Fr
-    * XCD $
-    * XOF Fr
-    * XPF Fr
-    * YER ﷼
     
 * [Login](https://www.poweruptoys.com/account "My Account ")
 [](#swym-wishlist)
@@ -810,110 +724,20 @@ Currency
 
 USD $
 
-* AED د.إ
-* AFN ؋
-* ALL L
-* AMD դր.
-* ANG ƒ
 * AUD $
-* AWG ƒ
-* AZN ₼
-* BAM КМ
-* BBD $
-* BDT ৳
-* BGN лв.
-* BIF Fr
-* BND $
-* BOB Bs.
-* BSD $
-* BWP P
-* BZD $
 * CAD $
-* CDF Fr
 * CHF CHF
-* CRC ₡
-* CVE $
-* CZK Kč
-* DJF Fdj
-* DKK kr.
-* DOP $
-* DZD د.ج
-* EGP ج.م
-* ETB Br
+* CNY ¥
 * EUR €
-* FJD $
-* FKP £
 * GBP £
-* GMD D
-* GNF Fr
-* GTQ Q
-* GYD $
 * HKD $
-* HNL L
-* HUF Ft
-* IDR Rp
 * ILS ₪
-* INR ₹
-* ISK kr
-* JMD $
-* KES KSh
-* KGS som
-* KHR ៛
-* KMF Fr
-* KYD $
-* KZT 〒
-* LAK ₭
-* LBP ل.ل
-* LKR ₨
-* MAD د.م.
-* MDL L
-* MKD ден
-* MMK K
-* MNT ₮
-* MOP P
-* MUR ₨
-* MVR MVR
-* MWK MK
-* MYR RM
-* NGN ₦
-* NIO C$
-* NPR ₨
+* JPY ¥
+* KRW ₩
 * NZD $
-* PEN S/.
-* PGK K
-* PHP ₱
-* PKR ₨
-* PLN zł
-* PYG ₲
-* QAR ر.ق
-* RON Lei
-* RSD РСД
-* RWF FRw
-* SAR ر.س
-* SBD $
 * SEK kr
-* SHP £
-* SLL Le
-* STD Db
-* THB ฿
-* TJS ЅМ
-* TOP T$
-* TTD $
-* TWD $
-* TZS Sh
-* UAH ₴
-* UGX USh
+* SGD $
 * USD $
-* UYU $
-* UZS
-* VND ₫
-* VUV Vt
-* WST T
-* XAF Fr
-* XCD $
-* XOF Fr
-* XPF Fr
-* YER ﷼
 
 © 2024 [POWERUP®](https://www.poweruptoys.com/). [Designed by Out of the Sandbox](https://outofthesandbox.com/ "Turbo Shopify Theme by Out of the Sandbox"). [Ecommerce Software by Shopify](https://www.shopify.com/?utm_campaign=poweredby&utm_medium=shopify&utm_source=onlinestore)
 
