@@ -16,7 +16,6 @@
 * [Get Involved](https://schalkenbach.org/get-involved/)
     * [Donate](https://schalkenbach.org/donate/)
     * [Planned Giving](https://schalkenbach.org/planned-giving-3/)
-    * [Employment Opportunities](https://schalkenbach.org/employment-opportunities-2/)
     * [Contact Us](https://schalkenbach.org/get-involved/#ContactUs)
 
 Menu
@@ -35,7 +34,6 @@ Menu
 * [Get Involved](https://schalkenbach.org/get-involved/)
     * [Donate](https://schalkenbach.org/donate/)
     * [Planned Giving](https://schalkenbach.org/planned-giving-3/)
-    * [Employment Opportunities](https://schalkenbach.org/employment-opportunities-2/)
     * [Contact Us](https://schalkenbach.org/get-involved/#ContactUs)
 
 [Donate Now](https://schalkenbach.org/donate/)
@@ -209,4 +207,4 @@ _EIN: 13-1656331_
 
 [Facebook](https://www.facebook.com/Schalkenbach) [Twitter](https://twitter.com/Schalkenbach) [Youtube](https://www.youtube.com/channel/UCKUaEMbWoYOZKSDynPlsz4g) [Linkedin](https://www.linkedin.com/company/schalkenbach-foundation/)
 
-![Cleantalk Pixel](https://moderate6-v4.cleantalk.org/pixel/ee9ffc719b6e15ba0a1868729814d1c0.gif "Cleantalk Pixel")
+![Cleantalk Pixel](https://moderate1-v4.cleantalk.org/pixel/9c2394785f08a6cdef609a994315f071.gif "Cleantalk Pixel")
