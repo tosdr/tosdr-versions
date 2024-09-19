@@ -81,7 +81,7 @@ Trending Posts
 * [Harris clobbered Trump in the debate—but does it matter?](https://therealnews.com/harris-clobbered-trump-in-the-debate-but-does-it-matter)
 * [The latest theories on how Rey Rivera died don't point to the rooftop](https://therealnews.com/the-latest-theories-on-how-rey-rivera-died-dont-point-to-the-rooftop)
 * [Unmarked Sacramento gang unit cops stop, arrest father and child at gunpoint](https://therealnews.com/unmarked-sacramento-gang-unit-cops-stop-arrest-father-and-child-at-gunpoint)
-* [California is about to execute an innocent Black man](https://therealnews.com/california-is-about-to-execute-an-innocent-black-man)
+* ['An act of terror': Israel behind pager explosions that killed 11, wounded thousands](https://therealnews.com/an-act-of-terror-israel-behind-pager-explosions-that-killed-11-wounded-thousands)
 
 Close
 
@@ -145,7 +145,7 @@ Trending Posts
 * [Harris clobbered Trump in the debate—but does it matter?](https://therealnews.com/harris-clobbered-trump-in-the-debate-but-does-it-matter)
 * [The latest theories on how Rey Rivera died don't point to the rooftop](https://therealnews.com/the-latest-theories-on-how-rey-rivera-died-dont-point-to-the-rooftop)
 * [Unmarked Sacramento gang unit cops stop, arrest father and child at gunpoint](https://therealnews.com/unmarked-sacramento-gang-unit-cops-stop-arrest-father-and-child-at-gunpoint)
-* [California is about to execute an innocent Black man](https://therealnews.com/california-is-about-to-execute-an-innocent-black-man)
+* ['An act of terror': Israel behind pager explosions that killed 11, wounded thousands](https://therealnews.com/an-act-of-terror-israel-behind-pager-explosions-that-killed-11-wounded-thousands)
 
 [Skip to content](#main)
 
