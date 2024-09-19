@@ -140,11 +140,11 @@ More
 
 Monitor Daily
 
-September 17, 2024
+September 18, 2024
 
-Rings around the Eiffel Tower
+A welcome return
 
-Paris is once again buzzing about the Olympics. Yes, Parisians understand that the once-dreaded Games that became a monthlong joyfest are now in the history books. But does that mean the party has to end?Mayor Anne Hidalgo thinks not. Her ask: to make permanent the iconic Olympic rings’ presence on the even more iconic Eiffel Tower. That idea is driving what one might call a very spirited debate. Check out Colette Davidson’s lively story today and see where you land.
+Today, I want to draw your attention to a name we are very glad to see back on our pages. Dina Kraft has written for us before. It was a natural fit. She is deeply involved in building understanding across divisions in Israel. Several years ago, she participated in a Monitor webinar on respect in the middle of a rocket attack.After working for an Israeli newspaper and on a book about Anne Frank for a few years, she is writing for us again. Today’s article follows her memorable collaboration with Ghada Abdulfattah to show the cost of the war in Gaza on both sides of the border. She tells me, “Now, more than ever, as I look around myself in a region that feels so broken, I see the Monitor mission as a gift to pursue – to report on those people thinking differently about how to approach the seemingly intractable problems that surround us.”
 
 [Listen to or read today's issue](https://www.csmonitor.com/Daily)
 
