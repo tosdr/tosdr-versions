@@ -272,7 +272,7 @@ Sydney, NSW, 2000.
 
 ### Email
 
-info@pridefoundation.org.au
+[\[email protected\]](https://pridefoundation.org.au/cdn-cgi/l/email-protection)
 
 ### [DONATE TO PRIDE FOUNDATION AUSTRALIA](https://pridefoundation.org.au/donate/)
 
