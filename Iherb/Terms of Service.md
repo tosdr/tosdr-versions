@@ -1241,11 +1241,11 @@ Marken der Woche
 
 [Specials](https://de.iherb.com/specials)[Neu](https://de.iherb.com/new-products)[Ausprobieren](https://de.iherb.com/trial-pricing)[Bestseller](https://de.iherb.com/catalog/topsellers)
 
-[\-28% auf Verdauungsmittel
+[\-28% auf Ihre Bestellung
 
  
 
-‌‌Jetzt shoppen‌‌](https://de.iherb.com/c/digestive-support?pcode=28DIGEST)
+‌‌Jetzt shoppen‌‌](https://de.iherb.com/c/categories?pcode=28IHERB2)
 
       
 
