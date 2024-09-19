@@ -156,7 +156,7 @@ This agreement shall be governed by and interpreted and enforced in accordance w
 
 ### Blog Categories
 
-* [Artificial Intelligence (80)](https://www.iplocation.net/blog/category/artificial-intelligence)
+* [Artificial Intelligence (81)](https://www.iplocation.net/blog/category/artificial-intelligence)
 * [Automotive (19)](https://www.iplocation.net/blog/category/automotive)
 * [Business (156)](https://www.iplocation.net/blog/category/business)
 * [Ecommerce (65)](https://www.iplocation.net/blog/category/ecommerce)
