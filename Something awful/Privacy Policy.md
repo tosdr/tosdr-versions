@@ -205,27 +205,27 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [Everett True's Advice for Aspiring Critics](https://www.somethingawful.com/garbage-day/everett-true-advice/1/)
-* [Terrifying Jack-o'-Lanterns!](https://www.somethingawful.com/comedy-goldmine/halloween-jackolanterns/1/)
-* [Netanyahu Warns the World!](https://www.somethingawful.com/comedy-goldmine/netanyahu-warn-world/1/)
-* [Nightmares Fear Factory 2019!](https://www.somethingawful.com/photoshop-phriday/nightmare-fear-2019/)
-* [AwfulVision: Videos that don't totally suck!](https://www.somethingawful.com/awfulvision/lasagna-cry-george/1/)
+* [Manga Fighter](https://www.somethingawful.com/mmo-roulette/mangafight/1/)
+* [Previously Unreleased Footage of the Bagram Airfield Disaster](https://www.somethingawful.com/everdraed-showcase/unreleased-bagram-airfield/)
+* [The Draft and You](https://www.somethingawful.com/pregame-wrapup/draft-you/)
+* [Double Feature: NFL Slash Fiction; Morrison Bounty Winner](https://www.somethingawful.com/pregame-wrapup/double-feature-nfl/1/)
+* [Bitcoins: Are Your Children Safe?](https://www.somethingawful.com/everdraed-showcase/bitcoins-children-wonka/)
 
 ### Popular Threads
 
-* ![](https://fi.somethingawful.com/forums/posticons/anime-hm7.gif) [When did Buffalo Wild Wings get this shitty?](http://forums.somethingawful.com/showthread.php?threadid=4070629 "When did Buffalo Wild Wings get this shitty?")
 * ![](https://fi.somethingawful.com/forums/posticons/tfr-box.gif) [Post your predictions for the year 2035](http://forums.somethingawful.com/showthread.php?threadid=4070705 "Post your predictions for the year 2035")
-* ![](https://fi.somethingawful.com/forums/posticons/icons-08/photoshop.png) [Nightmares Fear Factory 2024 - Road Rage In a Haunted House](http://forums.somethingawful.com/showthread.php?threadid=4070637 "Nightmares Fear Factory 2024 - Road Rage In a Haunted House")
+* ![](https://fi.somethingawful.com/forums/posticons/byob-grumpy.gif) [What's it like being in an extremely long blight?](http://forums.somethingawful.com/showthread.php?threadid=4070718 "What's it like being in an extremely long blight?")
 * ![](https://fi.somethingawful.com/forums/posticons/icons-08/video.png) [TastyArmageddon has started a YouTube channel](http://forums.somethingawful.com/showthread.php?threadid=4070663 "TastyArmageddon has started a YouTube channel")
 * ![](https://fi.somethingawful.com/forums/posticons/games-regret.gif) ["using" "quotation" "marks" "to" "emphasize" "](http://forums.somethingawful.com/showthread.php?threadid=4070682 ""using" "quotation" "marks" "to" "emphasize" "")
+* ![](https://fi.somethingawful.com/forums/posticons/icons-08/photoshop.png) [Nightmares Fear Factory 2024 - Road Rage In a Haunted House](http://forums.somethingawful.com/showthread.php?threadid=4070637 "Nightmares Fear Factory 2024 - Road Rage In a Haunted House")
 
 ### Random Articles
 
-* [BitBoys Oy](https://www.somethingawful.com/awful-links/awful-link-2396/)
-* [After 10 Dang Years Away From World of Warcraft, Here's My Battle for Azeroth Review](https://www.somethingawful.com/video-game-article/warcraft-battle-azeroth/)
-* [Screwing Up At Work](https://www.somethingawful.com/comedy-goldmine/work-screw-ups/1/)
-* [Dating Tips for the Overqualified](https://www.somethingawful.com/news/dating-tips-for/)
-* [Fall 2010 Syllabus](https://www.somethingawful.com/news/syllabus/1/)
+* [Our Madre service will disrupt the way momming is done](https://www.somethingawful.com/news/bodega-silicon-valley/)
+* [Awful Amusement Park Design](https://www.somethingawful.com/comedy-goldmine/awful-amusement-park/1/)
+* [Degas' Terrible Giraffes](https://www.somethingawful.com/news/degas-horse-giraffe/)
+* [Lauren Cartoon 9: Halloween Story](https://www.somethingawful.com/flash-tub/lauren-halloween-cartoon/)
+* [Hustler Presents Deep Inside Josef Mengele](https://www.somethingawful.com/daily-dirt/hustler-presents-deep/)
 
 [Random!](https://www.somethingawful.com/random/)
 
