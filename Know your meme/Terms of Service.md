@@ -120,7 +120,7 @@ Welcome! [Login](https://knowyourmeme.com/login) or [signup](https://knowyourmem
 
 ##### Also Trending:
 
-[Pager and Radio Attacks on Hezbollah](https://knowyourmeme.com/memes/events/2024-pager-and-radio-attacks-on-hezbollah "Pager and Radio Attacks on Hezbollah") [But It Refused / Twitter Bird Fights Back](https://knowyourmeme.com/memes/but-it-refused-twitter-bird-fights-back "But It Refused / Twitter Bird Fights Back") [Tropes In Media Tier List](https://knowyourmeme.com/memes/tropes-in-media-tier-list "Tropes In Media Tier List") [Fugget About It](https://knowyourmeme.com/memes/subcultures/fugget-about-it "Fugget About It")
+[Tropes In Media Tier List](https://knowyourmeme.com/memes/tropes-in-media-tier-list "Tropes In Media Tier List") [Fugget About It](https://knowyourmeme.com/memes/subcultures/fugget-about-it "Fugget About It") [Pager and Radio Attacks on Hezbollah](https://knowyourmeme.com/memes/events/2024-pager-and-radio-attacks-on-hezbollah "Pager and Radio Attacks on Hezbollah")
 
 Terms of Service and Use
 ========================
@@ -261,7 +261,7 @@ If you have any questions or concerns about these Terms of Service or the Websit
 **Legal Information:** [Know Your Meme ®](https://knowyourmeme.com/) is a trademark of [Literally Media Ltd.](https://literally.media/) By using this site, you are agreeing by the site's [terms of use](https://knowyourmeme.com/terms-of-service) and [privacy policy](https://knowyourmeme.com/privacy) and [DMCA policy](https://knowyourmeme.com/dmca).  
 © 2007-2024 [Literally Media Ltd.](https://literally.media/)
 
-### Sup! You must login or signup first!
+### O HAI! You must login or signup first!
 
 |     |     |
 | --- | --- |
