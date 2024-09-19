@@ -380,7 +380,7 @@ Joe Bush
 Co-founder of The Chat Shop
 
 Resolve up to 80% of customer questions with AI
-===============================================
+-----------------------------------------------
 
     Sign up free
 
