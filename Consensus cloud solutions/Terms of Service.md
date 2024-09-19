@@ -117,7 +117,7 @@
     * [What is Cloud Security?](https://www.consensus.com/cloud/security/)
     * [What Is an eSignature?](https://www.consensus.com/esignatures/)
     * [What is a Healthcare API?](https://www.consensus.com/healthcare-api/)
-    * [What is Interoperability?](https://www.consensus.com/interoperability/)
+    * [Interoperability: Benefits, Components and Future Trends](https://www.consensus.com/interoperability/)
     
     Technology Resources
     
@@ -325,7 +325,7 @@ If you elect to use the Company’s Carequality Connection capability, in additi
 * [What is Blockchain Technology?](https://www.consensus.com/blockchain/)
 * [What is the Cloud?](https://www.consensus.com/cloud/)
 * [What is Cloud Computing?](https://www.consensus.com/cloud/computing/)
-* [What is Interoperability?](https://www.consensus.com/interoperability/)
+* [Interoperability: Benefits, Components and Future Trends](https://www.consensus.com/interoperability/)
 * [What Is Interoperability in Healthcare?](https://www.consensus.com/interoperability-in-healthcare/)
 * [What is Natural Language Processing?](https://www.consensus.com/natural-language-processing/)
 
