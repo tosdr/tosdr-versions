@@ -30,7 +30,7 @@ Subscribe
 
  ![Search](/theme_japantimes/images/search_icon.svg)
 
-* ['Shogun'](https://www.japantimes.co.jp/tag/shogun/ "'Shogun'")
+* [Shohei Ohtani](https://www.japantimes.co.jp/tag/shohei-ohtani/ "Shohei Ohtani")
 * [LDP RACE](https://www.japantimes.co.jp/tag/ldp/ "LDP RACE")
 * [Special series: Boiling Point](https://www.japantimes.co.jp/boiling-point/ "Special series: Boiling Point")
 * [Latest News](https://www.japantimes.co.jp/latest-news/ "Latest News")
@@ -483,6 +483,10 @@ Revised June 1, 2022
 
   [![Candidates for the Liberal Democratic Party presidential election take part in a debate in Tokyo on Saturday. On Monday evening, they took part in an online debate, during which they each made a case for what the top priority should be for Japan's next prime minister.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/17/422245.JPG?v=3.1&w=400&q=100&f=jpg&t=1.2 "Candidates for the Liberal Democratic Party presidential election take part in a debate in Tokyo on Saturday. On Monday evening, they took part in an online debate, during which they each made a case for what the top priority should be for Japan's next prime minister.")](https://www.japantimes.co.jp/news/2024/09/17/japan/politics/ldp-debate-about-priorities/ "LDP presidential hopefuls lay out priorities for PM in online debate")
 
+[France-Japan military pact expected by year-end, envoy to Tokyo says](https://www.japantimes.co.jp/news/2024/09/18/japan/politics/france-ambassador-japan-interview/ "France-Japan military pact expected by year-end, envoy to Tokyo says")
+
+  [![French Ambassador Philippe Setton says that, despite previous differences over whether Japan should host a NATO liaison office, Paris aims to deepen ties with Tokyo "in all security areas."](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/18/422435.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "French Ambassador Philippe Setton says that, despite previous differences over whether Japan should host a NATO liaison office, Paris aims to deepen ties with Tokyo "in all security areas."")](https://www.japantimes.co.jp/news/2024/09/18/japan/politics/france-ambassador-japan-interview/ "France-Japan military pact expected by year-end, envoy to Tokyo says")
+
 [‘Shogun’ and the painstaking art of ‘getting it right’](https://www.japantimes.co.jp/culture/2024/09/16/tv-streaming/shogun-emmys-authentic-portrayal/ "‘Shogun’ and the painstaking art of ‘getting it right’")
 
   [![Hiroyuki Sanada and the cast and crew of "Shogun" accept the award for best drama series at the 76th Primetime Emmy Awards in Los Angeles, California.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/16/422080.JPG?v=3.1&w=400&q=100&f=jpg&t=1.2 "Hiroyuki Sanada and the cast and crew of "Shogun" accept the award for best drama series at the 76th Primetime Emmy Awards in Los Angeles, California.")](https://www.japantimes.co.jp/culture/2024/09/16/tv-streaming/shogun-emmys-authentic-portrayal/ "‘Shogun’ and the painstaking art of ‘getting it right’")
@@ -494,14 +498,6 @@ Revised June 1, 2022
 [Chris Broad's new bar puts cocktails first, YouTube second](https://www.japantimes.co.jp/life/2024/09/15/food-drink/lost-bar-chris-broad-abroad-in-japan-shibuya/ "Chris Broad's new bar puts cocktails first, YouTube second")
 
   [![A self-proclaimed lover of great cocktails, YouTuber Chris Broad says his new Shibuya watering hole is more a place to get yourself a solid drink than it is anything related to his social media career.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/13/421419.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "A self-proclaimed lover of great cocktails, YouTuber Chris Broad says his new Shibuya watering hole is more a place to get yourself a solid drink than it is anything related to his social media career.")](https://www.japantimes.co.jp/life/2024/09/15/food-drink/lost-bar-chris-broad-abroad-in-japan-shibuya/ "Chris Broad's new bar puts cocktails first, YouTube second")
-
-[In LDP presidential poll, three kingmakers hold all the cards](https://www.japantimes.co.jp/news/2024/09/16/japan/politics/ldp-kingmakers/ "In LDP presidential poll, three kingmakers hold all the cards")
-
-  [![Prime Minister Fumio Kishida speaks at the Liberal Democratic Party headquarters in Tokyo in January as former Prime Minister Yoshihide Suga (left) looks on.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/16/421885.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Prime Minister Fumio Kishida speaks at the Liberal Democratic Party headquarters in Tokyo in January as former Prime Minister Yoshihide Suga (left) looks on.")](https://www.japantimes.co.jp/news/2024/09/16/japan/politics/ldp-kingmakers/ "In LDP presidential poll, three kingmakers hold all the cards")
-
-[How China’s dominance of solar and batteries is impacting Japan’s energy transition](https://www.japantimes.co.jp/environment/2024/09/16/energy/china-supply-chain-energy-transition/ "How China’s dominance of solar and batteries is impacting Japan’s energy transition")
-
-  [![Solar panels and wind turbines at a power plant in Hami in China's Xinjiang region. The U.S. and other countries have described China’s actions against Uyghurs in the Xinjiang region, a key cog in the cleantech supply chain, as a genocidal campaign aimed at erasing an entire culture.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/16/421263.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Solar panels and wind turbines at a power plant in Hami in China's Xinjiang region. The U.S. and other countries have described China’s actions against Uyghurs in the Xinjiang region, a key cog in the cleantech supply chain, as a genocidal campaign aimed at erasing an entire culture.")](https://www.japantimes.co.jp/environment/2024/09/16/energy/china-supply-chain-energy-transition/ "How China’s dominance of solar and batteries is impacting Japan’s energy transition")
 
 Podcast
 -------
@@ -522,9 +518,9 @@ By [Alex K.T. Martin](https://www.japantimes.co.jp/author/219/alex-kt-martin/ "A
 SUSTAINABLE JAPAN
 -----------------
 
-[Sasakawa works for a sustainable blue economy](https://sustainable.japantimes.com/magazine/vol39/39-01?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "Sasakawa works for a sustainable blue economy")
+[SWCC keeps changing with keyword ‘new challenges’](https://sustainable.japantimes.com/unraveling/27?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=4 "SWCC keeps changing with keyword ‘new challenges’")
 
-[![Sasakawa works for a sustainable blue economy](https://wp.japantimes.co.jp/wp-content/uploads/2024/08/img_magazine_39_01_01-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol39/39-01?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "Sasakawa works for a sustainable blue economy")
+[![SWCC keeps changing with keyword ‘new challenges’](https://wp.japantimes.co.jp/wp-content/uploads/2024/08/img_unraveling_27_01-200x200.jpg)](https://sustainable.japantimes.com/unraveling/27?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=4 "SWCC keeps changing with keyword ‘new challenges’")
 
 SPECIAL SUPPLEMENTS [![note](/theme_japantimes/images/icon_note.png)](javascript:; "Note")
 ------------------------------------------------------------------------------------------
@@ -564,21 +560,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
-[Mitsubishi to provide H3 rockets for France's Eutelsat from 2027](https://www.japantimes.co.jp/business/2024/09/18/mitsubishi-eutelsat-h3/ "Mitsubishi to provide H3 rockets for France's Eutelsat from 2027")
+[The challenges posed by China exceed those of the Cold War, U.S. says](https://www.japantimes.co.jp/news/2024/09/19/world/politics/us-china-cold-war/ "The challenges posed by China exceed those of the Cold War, U.S. says")
 
-8 hours ago
+17 mins ago
 
-[Taiwanese and Hungarian firms deny making Hezbollah pagers](https://www.japantimes.co.jp/news/2024/09/18/world/hezbollah-pagers-taiwan-hungary/ "Taiwanese and Hungarian firms deny making Hezbollah pagers")
+[Japan walkie-talkie maker investigating after Lebanon blasts](https://www.japantimes.co.jp/business/2024/09/19/companies/japan-walkie-talkie-lebanon-blasts/ "Japan walkie-talkie maker investigating after Lebanon blasts")
 
-9 hours ago
+34 mins ago
 
-[Overseas visitors hit record high for August at 2.9 million](https://www.japantimes.co.jp/news/2024/09/18/japan/august-visitor-numbers/ "Overseas visitors hit record high for August at 2.9 million")
+[Japanese school student stabbed in Shenzhen dies](https://www.japantimes.co.jp/news/2024/09/19/japan/crime-legal/japanese-school-boy-china-dead/ "Japanese school student stabbed in Shenzhen dies")
 
-10 hours ago
+52 mins ago
 
-[Puberulic acid confirmed as source of _beni kōji_ health issues](https://www.japantimes.co.jp/news/2024/09/18/japan/science-health/beni-koji-puberulic-acid-to-blame/ "Puberulic acid confirmed as source of beni kōji health issues")
+[Taiwan 'paying great attention' to Hezbollah pager explosions](https://www.japantimes.co.jp/news/2024/09/19/asia-pacific/taiwan-hezbollah-beeper-explosions/ "Taiwan 'paying great attention' to Hezbollah pager explosions")
 
-[Ishii to head Komeito in first leadership change in 15 years](https://www.japantimes.co.jp/news/2024/09/18/japan/politics/komeito-new-head/ "Ishii to head Komeito in first leadership change in 15 years")
+56 mins ago
+
+[How migrant workers suffer to craft the 'Made in Italy' luxury label](https://www.japantimes.co.jp/business/2024/09/19/migrant-made-in-italy-luxury-label/ "How migrant workers suffer to craft the 'Made in Italy' luxury label")
+
+1 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
