@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-ab306fd266905673bf27b9b8f0a3ef8b
+8a0576b1972e8f1330f1a5a69f2d8d29
 
 [](# "Expand for more options")[](# "Search")
 
@@ -171,11 +171,11 @@ Sojourner may revise this policy as needed by updating this posting.
 
 ### Featured Product
 
-[![6 mm white potato pearls](https://www.sojourner.biz/images/cache/pearls/PE0044.200.jpg)](https://www.sojourner.biz/beads/pearls/6-mm-white-potato-pearls.html "6 mm white potato pearls")
+[![5 mm round dark peacock pearls](https://www.sojourner.biz/images/cache/pearls/PE0138.200.jpg)](https://www.sojourner.biz/beads/pearls/5-mm-round-dark-peacock-pearls.html "5 mm round dark peacock pearls")
 
-#### [6 mm white potato pearls](https://www.sojourner.biz/beads/pearls/6-mm-white-potato-pearls.html "6 mm white potato pearls")
+#### [5 mm round dark peacock pearls](https://www.sojourner.biz/beads/pearls/5-mm-round-dark-peacock-pearls.html "5 mm round dark peacock pearls")
 
-$40.00
+$9.00
 
 ### Best Sellers
 
