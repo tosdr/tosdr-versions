@@ -1,4 +1,4 @@
-[![Celebrate Hispanic Heritage Month](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/siteheaderbannerimages/1724966381i/439.jpg)](https://www.goodreads.com/blog/show/2828?ref=HHM24_eb)
+[![Book Recommendations for Fall Reading Vibes](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/siteheaderbannerimages/1726611317i/443.jpg)](https://www.goodreads.com/blog/show/2834?ref=FallVibes24_eb)
 
 [](https://www.goodreads.com/ "Goodreads Home")
 
