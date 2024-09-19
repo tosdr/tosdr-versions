@@ -205,27 +205,26 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [Manga Fighter](https://www.somethingawful.com/mmo-roulette/mangafight/1/)
-* [Previously Unreleased Footage of the Bagram Airfield Disaster](https://www.somethingawful.com/everdraed-showcase/unreleased-bagram-airfield/)
-* [The Draft and You](https://www.somethingawful.com/pregame-wrapup/draft-you/)
-* [Double Feature: NFL Slash Fiction; Morrison Bounty Winner](https://www.somethingawful.com/pregame-wrapup/double-feature-nfl/1/)
-* [Bitcoins: Are Your Children Safe?](https://www.somethingawful.com/everdraed-showcase/bitcoins-children-wonka/)
+* [Frog Bog! (Part 1 of 2)](https://www.somethingawful.com/photoshop-phriday/frog-get-out/1/)
+* [Amir and the Outsourcing of Comedy](https://www.somethingawful.com/email-pranks/amir-outsourcing-comedy/1/)
+* [Social Media Marketing Beat](https://www.somethingawful.com/news/social-media-beat/)
+* [Dungeons & Dragons: The Book of Wondrous Inventions](https://www.somethingawful.com/dungeons-and-dragons/wtf-wondrous-items/1/)
+* [What's Cookin'?](https://www.somethingawful.com/email-pranks/email-spam-whats/)
 
 ### Popular Threads
 
-* ![](https://fi.somethingawful.com/forums/posticons/tfr-box.gif) [Post your predictions for the year 2035](http://forums.somethingawful.com/showthread.php?threadid=4070705 "Post your predictions for the year 2035")
+* ![](https://fi.somethingawful.com/forums/posticons/tails.gif) [:bighow: smilie](http://forums.somethingawful.com/showthread.php?threadid=4070734 ":bighow: smilie")
 * ![](https://fi.somethingawful.com/forums/posticons/byob-grumpy.gif) [What's it like being in an extremely long blight?](http://forums.somethingawful.com/showthread.php?threadid=4070718 "What's it like being in an extremely long blight?")
-* ![](https://fi.somethingawful.com/forums/posticons/icons-08/video.png) [TastyArmageddon has started a YouTube channel](http://forums.somethingawful.com/showthread.php?threadid=4070663 "TastyArmageddon has started a YouTube channel")
 * ![](https://fi.somethingawful.com/forums/posticons/games-regret.gif) ["using" "quotation" "marks" "to" "emphasize" "](http://forums.somethingawful.com/showthread.php?threadid=4070682 ""using" "quotation" "marks" "to" "emphasize" "")
-* ![](https://fi.somethingawful.com/forums/posticons/icons-08/photoshop.png) [Nightmares Fear Factory 2024 - Road Rage In a Haunted House](http://forums.somethingawful.com/showthread.php?threadid=4070637 "Nightmares Fear Factory 2024 - Road Rage In a Haunted House")
+* ![](https://fi.somethingawful.com/forums/posticons/tfr-box.gif) [Post your predictions for the year 2035](http://forums.somethingawful.com/showthread.php?threadid=4070705 "Post your predictions for the year 2035")
 
 ### Random Articles
 
-* [Our Madre service will disrupt the way momming is done](https://www.somethingawful.com/news/bodega-silicon-valley/)
-* [Awful Amusement Park Design](https://www.somethingawful.com/comedy-goldmine/awful-amusement-park/1/)
-* [Degas' Terrible Giraffes](https://www.somethingawful.com/news/degas-horse-giraffe/)
-* [Lauren Cartoon 9: Halloween Story](https://www.somethingawful.com/flash-tub/lauren-halloween-cartoon/)
-* [Hustler Presents Deep Inside Josef Mengele](https://www.somethingawful.com/daily-dirt/hustler-presents-deep/)
+* [Stay hydrated, Homies!](https://www.somethingawful.com/awfulvision/autism-sonic-brony/1/)
+* [Little Joey Needs Your Help!](https://www.somethingawful.com/news/little-joey-needs/)
+* [In heaven, you are reunited with all the things you've ever eaten](https://www.somethingawful.com/mooflogs/heaven-you-reunited/)
+* [Black Swap](https://www.somethingawful.com/horrors-of-porn/black-swap/)
+* [Mrs. Huckabee Sanders, You Will ALWAYS Be Welcome at Blimpie](https://www.somethingawful.com/news/sarah-huckabee-sanders/)
 
 [Random!](https://www.somethingawful.com/random/)
 
