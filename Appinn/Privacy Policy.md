@@ -171,17 +171,17 @@
     
     8 月 27, 2024 4
     
-* [![Magpie - 开源窗口全屏工具：提升画质，让不支持全屏化的游戏也能全屏显示[Windows] 9](https://www.appinn.com/wp-content/uploads/2024/08/Appinn-feature-images-2024-08-18T211923.038-115x115.jpg "Magpie - 开源窗口全屏工具：提升画质，让不支持全屏化的游戏也能全屏显示[Windows] 9")](https://www.appinn.com/blinue-magpie/ "Magpie – 开源窗口全屏工具：提升画质，让不支持全屏化的游戏也能全屏显示[Windows]")
-    
-    [Magpie – 开源窗口全屏工具：提升画质，让不支持全屏化的游戏也能全屏显示\[Windows\]](https://www.appinn.com/blinue-magpie/ "Magpie – 开源窗口全屏工具：提升画质，让不支持全屏化的游戏也能全屏显示[Windows]")
-    
-    8 月 18, 2024 2
-    
-* [![在 Docker 中安装 Firefox 浏览器｜网页版 Firefox 10](https://www.appinn.com/wp-content/uploads/2024/08/Appinn-feature-images-2024-08-22T212431.953-115x115.jpg "在 Docker 中安装 Firefox 浏览器｜网页版 Firefox 10")](https://www.appinn.com/docker-firefox/ "在 Docker 中安装 Firefox 浏览器｜网页版 Firefox")
+* [![在 Docker 中安装 Firefox 浏览器｜网页版 Firefox 9](https://www.appinn.com/wp-content/uploads/2024/08/Appinn-feature-images-2024-08-22T212431.953-115x115.jpg "在 Docker 中安装 Firefox 浏览器｜网页版 Firefox 9")](https://www.appinn.com/docker-firefox/ "在 Docker 中安装 Firefox 浏览器｜网页版 Firefox")
     
     [在 Docker 中安装 Firefox 浏览器｜网页版 Firefox](https://www.appinn.com/docker-firefox/ "在 Docker 中安装 Firefox 浏览器｜网页版 Firefox")
     
     8 月 22, 2024 1
+    
+* [![InputTip - 又一个输入法状态提示工具，中英文、大写锁定，支持快捷键[Windows] 10](https://www.appinn.com/wp-content/uploads/2024/09/Appinn-feature-images-2024-09-18T161107.545-115x115.jpg "InputTip - 又一个输入法状态提示工具，中英文、大写锁定，支持快捷键[Windows] 10")](https://www.appinn.com/inputtip-abgox/ "InputTip – 又一个输入法状态提示工具，中英文、大写锁定，支持快捷键[Windows]")
+    
+    [InputTip – 又一个输入法状态提示工具，中英文、大写锁定，支持快捷键\[Windows\]](https://www.appinn.com/inputtip-abgox/ "InputTip – 又一个输入法状态提示工具，中英文、大写锁定，支持快捷键[Windows]")
+    
+    9 月 18, 2024 0
     
 
 ### 分类
