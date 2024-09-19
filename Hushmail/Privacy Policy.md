@@ -169,11 +169,11 @@ Canada
 
 ### From the Blog
 
-#### [Incidental Disclosures and HIPAA: A Guide for Small Practices](https://blog.hushmail.com/blog/incidental-disclosures-hipaa/)
+#### [How to Use Email Templates in Hushmail](https://blog.hushmail.com/blog/email-templates-how-to/)
 
-Published on August 22, 2024
+Published on September 19, 2024
 
-This guide clarifies HIPAA incidental disclosures for small healthcare practices and outlines actionable tips to help prevent incidental disclosures. [Read more.](https://blog.hushmail.com/blog/incidental-disclosures-hipaa/)
+Everything you need to get started with Hushmail’s email templates, designed to save you valuable time and effort. [Read more.](https://blog.hushmail.com/blog/email-templates-how-to/)
 
 [Hushmail](https://www.hushmail.com/)[](https://apps.apple.com/app/hushmail/id1008495364)
 
@@ -228,7 +228,7 @@ Copyright © 1999-2024 Hush Communications Canada Inc.
 
 [](#)[](#)[Hide](# "Hide this notice")
 
-![](https://hushforms.com/visitorid?visitorid=11DCBAFE7696C915D58680CC8FE8E9F6)
+![](https://hushforms.com/visitorid?visitorid=CCC0DC0BAE4A015971DD0E4093E73027)
 
 We use cookies to deliver the best possible experience on our website. To learn more, visit our [Privacy Policy](https://www.hushmail.com/privacy/). By continuing to use this site, or closing this box, you consent to our use of cookies.
 
