@@ -28,10 +28,10 @@ Packet Storm supports full disclosure on all items we add to the site. With our 
 Top Authors In Last 30 Days
 ---------------------------
 
-* [Red Hat](https://packetstormsecurity.com/files/authors/4676) 223 files
-* [indoushka](https://packetstormsecurity.com/files/authors/7697) 170 files
+* [Red Hat](https://packetstormsecurity.com/files/authors/4676) 252 files
+* [indoushka](https://packetstormsecurity.com/files/authors/7697) 180 files
 * [Jay Turla](https://packetstormsecurity.com/files/authors/9975) 150 files
-* [Ubuntu](https://packetstormsecurity.com/files/authors/3695) 79 files
+* [Ubuntu](https://packetstormsecurity.com/files/authors/3695) 81 files
 * [h00die](https://packetstormsecurity.com/files/authors/7166) 54 files
 * [juan vazquez](https://packetstormsecurity.com/files/authors/8993) 43 files
 * [sinn3r](https://packetstormsecurity.com/files/authors/7652) 41 files
@@ -43,6 +43,46 @@ Recent News
 -----------
 
 [![News RSS Feed](https://packetstatic.com/img1514015884/bt_rss.gif)](https://rss.packetstormsecurity.com/news/)  
+
+[Hackers Demand $6 Million From Seattle Airport Operators](https://packetstormsecurity.com/news/view/36362/Hackers-Demand-6-Million-From-Seattle-Airport-Operators.html)
+
+Posted [Sep 19, 2024](https://packetstormsecurity.com/news/date/2024-09-19/ "13:06:38 UTC")
+
+tags | [headline](https://packetstormsecurity.com/news/tags/headline), [hacker](https://packetstormsecurity.com/news/tags/hacker), [cybercrime](https://packetstormsecurity.com/news/tags/cybercrime), [data loss](https://packetstormsecurity.com/news/tags/data_loss), [fraud](https://packetstormsecurity.com/news/tags/fraud), [cryptography](https://packetstormsecurity.com/news/tags/cryptography)
+
+[Favorite](https://packetstormsecurity.com/news/favorite/36362/) | [View](https://www.securityweek.com/hackers-demand-6-million-for-files-stolen-from-seattle-airport-operator-in-cyberattack/)
+
+[Recent WhatsUp Gold Vulnerabilities Possibly Exploited In Ransomware Attacks](https://packetstormsecurity.com/news/view/36361/Recent-WhatsUp-Gold-Vulnerabilities-Possibly-Exploited-In-Ransomware-Attacks.html)
+
+Posted [Sep 19, 2024](https://packetstormsecurity.com/news/date/2024-09-19/ "13:06:36 UTC")
+
+tags | [headline](https://packetstormsecurity.com/news/tags/headline), [malware](https://packetstormsecurity.com/news/tags/malware), [cybercrime](https://packetstormsecurity.com/news/tags/cybercrime), [flaw](https://packetstormsecurity.com/news/tags/flaw), [cryptography](https://packetstormsecurity.com/news/tags/cryptography)
+
+[Favorite](https://packetstormsecurity.com/news/favorite/36361/) | [View](https://www.securityweek.com/recent-whatsup-gold-vulnerabilities-possibly-exploited-in-ransomware-attacks/)
+
+[14 Dead As Hezbollah Walkie Talkies Explode In Second, Deadlier Attack](https://packetstormsecurity.com/news/view/36360/14-Dead-As-Hezbollah-Walkie-Talkies-Explode-In-Second-Deadlier-Attack.html)
+
+Posted [Sep 19, 2024](https://packetstormsecurity.com/news/date/2024-09-19/ "13:06:34 UTC")
+
+tags | [headline](https://packetstormsecurity.com/news/tags/headline), [cyberwar](https://packetstormsecurity.com/news/tags/cyberwar), [israel](https://packetstormsecurity.com/news/tags/israel), [terror](https://packetstormsecurity.com/news/tags/terror), [backdoor](https://packetstormsecurity.com/news/tags/backdoor)
+
+[Favorite](https://packetstormsecurity.com/news/favorite/36360/) | [View](https://arstechnica.com/security/2024/09/14-dead-as-hezbollah-walkie-talkies-explode-in-second-deadlier-attack/)
+
+[UK Activists Targeted With Pegasus Spyware Ask Police To Charge NSO Group](https://packetstormsecurity.com/news/view/36355/UK-Activists-Targeted-With-Pegasus-Spyware-Ask-Police-To-Charge-NSO-Group.html)
+
+Posted [Sep 19, 2024](https://packetstormsecurity.com/news/date/2024-09-19/ "13:05:55 UTC")
+
+tags | [headline](https://packetstormsecurity.com/news/tags/headline), [government](https://packetstormsecurity.com/news/tags/government), [privacy](https://packetstormsecurity.com/news/tags/privacy), [britain](https://packetstormsecurity.com/news/tags/britain), [israel](https://packetstormsecurity.com/news/tags/israel), [spyware](https://packetstormsecurity.com/news/tags/spyware)
+
+[Favorite](https://packetstormsecurity.com/news/favorite/36355/) | [View](https://www.theregister.com/2024/09/19/pegasus_spyware_met_police_complaint/)
+
+[Pip Dreams And Security Schemes: Chaos In Your Configuration Files](https://packetstormsecurity.com/news/view/36354/Pip-Dreams-And-Security-Schemes-Chaos-In-Your-Configuration-Files.html)
+
+Posted [Sep 18, 2024](https://packetstormsecurity.com/news/date/2024-09-18/ "17:57:13 UTC")
+
+tags | [headline](https://packetstormsecurity.com/news/tags/headline), [backdoor](https://packetstormsecurity.com/news/tags/backdoor)
+
+[Favorite](https://packetstormsecurity.com/news/favorite/36354/) | [View](https://occamsec.com/pip-dreams-and-security-schemes-chaos-in-your-configuration-files/)
 
 [Apple Suddenly Drops NSO Group Spyware Lawsuit](https://packetstormsecurity.com/news/view/36353/Apple-Suddenly-Drops-NSO-Group-Spyware-Lawsuit.html)
 
@@ -60,69 +100,29 @@ tags | [headline](https://packetstormsecurity.com/news/tags/headline), [wireless
 
 [Favorite](https://packetstormsecurity.com/news/favorite/36352/) | [View](https://arstechnica.com/security/2024/09/8-dead-2700-injured-after-simultaneous-pager-explosions-in-lebanon/)
 
-[Cops Across The World Arrest 51 In Orchestrated Takedown Of Ghost Crime Platform](https://packetstormsecurity.com/news/view/36348/Cops-Across-The-World-Arrest-51-In-Orchestrated-Takedown-Of-Ghost-Crime-Platform.html)
+[CloudImposer Attack Targets Google Cloud Services](https://packetstormsecurity.com/news/view/36351/CloudImposer-Attack-Targets-Google-Cloud-Services.html)
 
-Posted [Sep 18, 2024](https://packetstormsecurity.com/news/date/2024-09-18/ "13:22:14 UTC")
+Posted [Sep 18, 2024](https://packetstormsecurity.com/news/date/2024-09-18/ "13:22:27 UTC")
 
-tags | [headline](https://packetstormsecurity.com/news/tags/headline), [hacker](https://packetstormsecurity.com/news/tags/hacker), [government](https://packetstormsecurity.com/news/tags/government), [australia](https://packetstormsecurity.com/news/tags/australia), [cybercrime](https://packetstormsecurity.com/news/tags/cybercrime), [fraud](https://packetstormsecurity.com/news/tags/fraud)
+tags | [headline](https://packetstormsecurity.com/news/tags/headline), [hacker](https://packetstormsecurity.com/news/tags/hacker), [google](https://packetstormsecurity.com/news/tags/google)
 
-[Favorite](https://packetstormsecurity.com/news/favorite/36348/) | [View](https://www.theregister.com/2024/09/18/51_arrests_ghost_platform/)
+[Favorite](https://packetstormsecurity.com/news/favorite/36351/) | [View](https://www.scmagazine.com/news/cloudimposer-attack-targets-google-cloud-services)
 
-[Wait... Did Pagers Get Hacked To Blow People Up?](https://packetstormsecurity.com/news/view/36347/Wait...-Did-Pagers-Get-Hacked-To-Blow-People-Up.html)
+[AT&T Fined $13 Million For Data Breach](https://packetstormsecurity.com/news/view/36350/AT-T-Fined-13-Million-For-Data-Breach.html)
 
-Posted [Sep 17, 2024](https://packetstormsecurity.com/news/date/2024-09-17/ "15:59:40 UTC")
+Posted [Sep 18, 2024](https://packetstormsecurity.com/news/date/2024-09-18/ "13:22:23 UTC")
 
-tags | [headline](https://packetstormsecurity.com/news/tags/headline), [cyberwar](https://packetstormsecurity.com/news/tags/cyberwar), [israel](https://packetstormsecurity.com/news/tags/israel), [terror](https://packetstormsecurity.com/news/tags/terror)
+tags | [headline](https://packetstormsecurity.com/news/tags/headline), [privacy](https://packetstormsecurity.com/news/tags/privacy), [phone](https://packetstormsecurity.com/news/tags/phone), [data loss](https://packetstormsecurity.com/news/tags/data_loss)
 
-[Favorite](https://packetstormsecurity.com/news/favorite/36347/) | [View](https://www.cnn.com/world/live-news/lebanon-pagers-attack-hezbollah/index.html)
+[Favorite](https://packetstormsecurity.com/news/favorite/36350/) | [View](https://arstechnica.com/tech-policy/2024/09/att-fined-13m-for-data-breach-after-giving-customer-bill-info-to-vendor/)
 
-[Predator Spyware Kingpins Added To US Sanctions List](https://packetstormsecurity.com/news/view/36346/Predator-Spyware-Kingpins-Added-To-US-Sanctions-List.html)
+[WhatsApp View Once Fix Gets Defeated In Less Than A Week](https://packetstormsecurity.com/news/view/36349/WhatsApp-View-Once-Fix-Gets-Defeated-In-Less-Than-A-Week.html)
 
-Posted [Sep 17, 2024](https://packetstormsecurity.com/news/date/2024-09-17/ "14:53:56 UTC")
+Posted [Sep 18, 2024](https://packetstormsecurity.com/news/date/2024-09-18/ "13:22:19 UTC")
 
-tags | [headline](https://packetstormsecurity.com/news/tags/headline), [hacker](https://packetstormsecurity.com/news/tags/hacker), [government](https://packetstormsecurity.com/news/tags/government), [privacy](https://packetstormsecurity.com/news/tags/privacy), [spyware](https://packetstormsecurity.com/news/tags/spyware)
+tags | [headline](https://packetstormsecurity.com/news/tags/headline), [privacy](https://packetstormsecurity.com/news/tags/privacy), [facebook](https://packetstormsecurity.com/news/tags/facebook), [social](https://packetstormsecurity.com/news/tags/social)
 
-[Favorite](https://packetstormsecurity.com/news/favorite/36346/) | [View](https://www.theregister.com/2024/09/17/predator_spyware_sanctions/)
-
-[D-Link Patches Critical Router Vulnerabilities](https://packetstormsecurity.com/news/view/36345/D-Link-Patches-Critical-Router-Vulnerabilities.html)
-
-Posted [Sep 17, 2024](https://packetstormsecurity.com/news/date/2024-09-17/ "14:53:53 UTC")
-
-tags | [headline](https://packetstormsecurity.com/news/tags/headline), [flaw](https://packetstormsecurity.com/news/tags/flaw), [patch](https://packetstormsecurity.com/news/tags/patch)
-
-[Favorite](https://packetstormsecurity.com/news/favorite/36345/) | [View](https://www.securityweek.com/d-link-patches-critical-router-vulnerabilities/)
-
-[France Uses Tough, Untested Cybercrime Law To Target Durov](https://packetstormsecurity.com/news/view/36344/France-Uses-Tough-Untested-Cybercrime-Law-To-Target-Durov.html)
-
-Posted [Sep 17, 2024](https://packetstormsecurity.com/news/date/2024-09-17/ "14:53:49 UTC")
-
-tags | [headline](https://packetstormsecurity.com/news/tags/headline), [government](https://packetstormsecurity.com/news/tags/government), [cybercrime](https://packetstormsecurity.com/news/tags/cybercrime), [france](https://packetstormsecurity.com/news/tags/france), [social](https://packetstormsecurity.com/news/tags/social)
-
-[Favorite](https://packetstormsecurity.com/news/favorite/36344/) | [View](https://www.reuters.com/world/europe/france-uses-tough-untested-cybercrime-law-target-telegrams-durov-2024-09-17/)
-
-[Malware Attack Targets US-Taiwan Defense Conference](https://packetstormsecurity.com/news/view/36343/Malware-Attack-Targets-US-Taiwan-Defense-Conference.html)
-
-Posted [Sep 17, 2024](https://packetstormsecurity.com/news/date/2024-09-17/ "14:53:45 UTC")
-
-tags | [headline](https://packetstormsecurity.com/news/tags/headline), [government](https://packetstormsecurity.com/news/tags/government), [malware](https://packetstormsecurity.com/news/tags/malware), [usa](https://packetstormsecurity.com/news/tags/usa), [china](https://packetstormsecurity.com/news/tags/china), [cyberwar](https://packetstormsecurity.com/news/tags/cyberwar), [taiwan](https://packetstormsecurity.com/news/tags/taiwan), [military](https://packetstormsecurity.com/news/tags/military)
-
-[Favorite](https://packetstormsecurity.com/news/favorite/36343/) | [View](https://www.scmagazine.com/news/malware-attack-targets-us-taiwan-defense-conference)
-
-[TikTok Is Getting Its Day In Court](https://packetstormsecurity.com/news/view/36342/TikTok-Is-Getting-Its-Day-In-Court.html)
-
-Posted [Sep 16, 2024](https://packetstormsecurity.com/news/date/2024-09-16/ "13:57:38 UTC")
-
-tags | [headline](https://packetstormsecurity.com/news/tags/headline), [government](https://packetstormsecurity.com/news/tags/government), [privacy](https://packetstormsecurity.com/news/tags/privacy), [usa](https://packetstormsecurity.com/news/tags/usa), [phone](https://packetstormsecurity.com/news/tags/phone), [china](https://packetstormsecurity.com/news/tags/china), [cyberwar](https://packetstormsecurity.com/news/tags/cyberwar), [spyware](https://packetstormsecurity.com/news/tags/spyware)
-
-[Favorite](https://packetstormsecurity.com/news/favorite/36342/) | [View](https://www.theguardian.com/technology/2024/sep/16/threatened-us-ban-against-tiktok-unconstitutional-platform-to-argue)
-
-[Ransomware Group Leaks Data Stolen From Kawasaki Motors](https://packetstormsecurity.com/news/view/36341/Ransomware-Group-Leaks-Data-Stolen-From-Kawasaki-Motors.html)
-
-Posted [Sep 16, 2024](https://packetstormsecurity.com/news/date/2024-09-16/ "13:57:36 UTC")
-
-tags | [headline](https://packetstormsecurity.com/news/tags/headline), [hacker](https://packetstormsecurity.com/news/tags/hacker), [privacy](https://packetstormsecurity.com/news/tags/privacy), [cybercrime](https://packetstormsecurity.com/news/tags/cybercrime), [data loss](https://packetstormsecurity.com/news/tags/data_loss), [cryptography](https://packetstormsecurity.com/news/tags/cryptography)
-
-[Favorite](https://packetstormsecurity.com/news/favorite/36341/) | [View](https://www.securityweek.com/ransomware-group-leaks-data-allegedly-stolen-from-kawasaki-motors/)
+[Favorite](https://packetstormsecurity.com/news/favorite/36349/) | [View](https://www.theregister.com/2024/09/18/whatsapp_view_once_flaw_unfixed/)
 
 [View More News →](https://packetstormsecurity.com/news/)
 
@@ -168,4 +168,4 @@ Hosting By
 
 ![close](https://packetstatic.com/img1514015884/o_close.png)
 
-![](https://ssl.google-analytics.com/__utm.gif?utmwv=1.3&utmn=2479762656&utmcs=ISO-8859-1&utmsr=31337x31337&utmsc=32-bit&utmul=en-us&utmje=0&utmfl=-&utmcn=1&utmdt=Privacy%20Statement%u2248%20Packet%20Storm&utmhn=packetstormsecurity.com&utmr=-&utmp=%2Flegal%2Fprivacy.html&utmac=UA-18885198-1&utmcc=__utma%3D32867617.2479762656.1726736058.1726736058.1726736058.1%3B%2B__utmz%3D32867617.1726736058.1.1.utmccn%3D(direct)%7Cutmcsr%3D(direct)%7Cutmcmd%3D(none))
+![](https://ssl.google-analytics.com/__utm.gif?utmwv=1.3&utmn=1810376367&utmcs=ISO-8859-1&utmsr=31337x31337&utmsc=32-bit&utmul=en-us&utmje=0&utmfl=-&utmcn=1&utmdt=Privacy%20Statement%u2248%20Packet%20Storm&utmhn=packetstormsecurity.com&utmr=-&utmp=%2Flegal%2Fprivacy.html&utmac=UA-18885198-1&utmcc=__utma%3D32867617.1810376367.1726757880.1726757880.1726757880.1%3B%2B__utmz%3D32867617.1726757880.1.1.utmccn%3D(direct)%7Cutmcsr%3D(direct)%7Cutmcmd%3D(none))
