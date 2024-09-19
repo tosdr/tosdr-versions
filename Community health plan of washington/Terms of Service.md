@@ -64,7 +64,7 @@ MENUMENU
             * [Health Management](https://www.chpw.org/member-center/health-management/)
                 * [Care Management](https://www.chpw.org/member-center/health-management/case-management/)
                 * [Diabetes Care Program](https://www.chpw.org/member-center/health-management/diabetes-care-program/)
-                * [Bariatric Case Management](https://www.chpw.org/member-center/health-management/case-management/bariatric-case-management/)
+                * [Bariatric Care Management](https://www.chpw.org/member-center/health-management/case-management/bariatric-case-management/)
                 * [Community Support Services](https://www.chpw.org/member-center/health-management/community-programs/)
                 * [Health Assessment](https://www.chpw.org/member-center/health-management/health-assessment/)
             * [Member FAQs](https://www.chpw.org/member-center/member-faqs/)
