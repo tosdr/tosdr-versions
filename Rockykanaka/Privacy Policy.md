@@ -18,7 +18,7 @@
     * [Dog Mom](https://rockykanaka.com/collections/dog-mom)
     * [My Dog is My Happy Place](https://rockykanaka.com/collections/my-dog-is-my-happy-place)
     * [Hello Aloha Woof Meow](https://rockykanaka.com/collections/hello-aloha-woof-meow)
-* [About](https://blog.rockykanaka.com/about/)
+* [About](https://www.rockykanaka.com/about)
 
 * [Log In](https://rockykanaka.com/account/login)
 * [Create Account](https://rockykanaka.com/account/register)
@@ -38,7 +38,7 @@ Site navigation
     * [Dog Mom](https://rockykanaka.com/collections/dog-mom)
     * [My Dog is My Happy Place](https://rockykanaka.com/collections/my-dog-is-my-happy-place)
     * [Hello Aloha Woof Meow](https://rockykanaka.com/collections/hello-aloha-woof-meow)
-* [About](https://blog.rockykanaka.com/about/)
+* [About](https://www.rockykanaka.com/about)
 * [Log In](https://rockykanaka.com/account)
 * [Search](https://rockykanaka.com/search)
 * [Cart](https://rockykanaka.com/cart)
