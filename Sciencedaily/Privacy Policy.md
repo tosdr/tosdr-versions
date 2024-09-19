@@ -208,16 +208,16 @@ this hour
 
 * * *
 
+* [World's Last 'Snowball Earth' Event](https://www.sciencedaily.com/releases/2024/09/240918165736.htm)
+* [Diabetes Drug: Less Risk of Dementia, ...](https://www.sciencedaily.com/releases/2024/09/240918165739.htm)
+* [CVD Risk and Metal Exposure](https://www.sciencedaily.com/releases/2024/09/240918125039.htm)
+* [Why Petting Your Cat Leads to Static Electricity](https://www.sciencedaily.com/releases/2024/09/240918125057.htm)
+* [Homemade 'Play-Putty' as Biometric Sensor](https://www.sciencedaily.com/releases/2024/09/240918125110.htm)
+* [Magnifying Deep Space Through 'Carousel Lens'](https://www.sciencedaily.com/releases/2024/09/240918125107.htm)
+* [Gargantuan Black Hole Jets Are Biggest Yet](https://www.sciencedaily.com/releases/2024/09/240918125024.htm)
+* [Galactic Collisions](https://www.sciencedaily.com/releases/2024/09/240918125013.htm)
+* ['Scuba-Diving' Lizards Breathe Underwater](https://www.sciencedaily.com/releases/2024/09/240917195405.htm)
 * [New Fossil Fish On Plate Tectonics Map](https://www.sciencedaily.com/releases/2024/09/240912135836.htm)
-* [Compact Muon Solenoid Experiment: W Boson Mass](https://www.sciencedaily.com/releases/2024/09/240917130327.htm)
-* ['Food Theft' Among Seabirds Spreads Avian Flu](https://www.sciencedaily.com/releases/2024/09/240916115428.htm)
-* [Compact and Portable Nuclear Clocks](https://www.sciencedaily.com/releases/2024/09/240913105307.htm)
-* [Cutting Smartphone Use Ups Work Satisfaction](https://www.sciencedaily.com/releases/2024/09/240917125409.htm)
-* [Coffee May Protect Against CVD, Diabetes](https://www.sciencedaily.com/releases/2024/09/240917125341.htm)
-* [Wobble from Mars Could Be Sign of Dark Matter](https://www.sciencedaily.com/releases/2024/09/240917125338.htm)
-* [More Black Holes Than Expected in Early Universe](https://www.sciencedaily.com/releases/2024/09/240917125315.htm)
-* [Van Gogh's Sky Is Alive With Real-World Physics](https://www.sciencedaily.com/releases/2024/09/240917125301.htm)
-* [Black Hole 'Starving' Host Galaxy to Death](https://www.sciencedaily.com/releases/2024/09/240916115510.htm)
 
 Trending Topics
 ---------------
@@ -228,27 +228,27 @@ this week
 
 [HEALTH](https://www.sciencedaily.com/news/top/health/)
 
+[Obesity](https://www.sciencedaily.com/news/health_medicine/obesity/)
+
 [Diabetes](https://www.sciencedaily.com/news/health_medicine/diabetes/)
 
-[Nutrition](https://www.sciencedaily.com/news/health_medicine/nutrition/)
-
-[Obesity](https://www.sciencedaily.com/news/health_medicine/obesity/)
+[Nutrition Research](https://www.sciencedaily.com/news/mind_brain/nutrition/)
 
 [PHYSICAL & TECH](https://www.sciencedaily.com/news/top/technology/)
 
+[Organic Chemistry](https://www.sciencedaily.com/news/matter_energy/organic_chemistry/)
+
 [Graphene](https://www.sciencedaily.com/news/matter_energy/graphene/)
 
-[Astrophysics](https://www.sciencedaily.com/news/space_time/astrophysics/)
-
-[Information Technology](https://www.sciencedaily.com/news/computers_math/information_technology/)
+[Biochemistry](https://www.sciencedaily.com/news/matter_energy/biochemistry/)
 
 [ENVIRONMENT](https://www.sciencedaily.com/news/top/environment/)
 
 [Organic](https://www.sciencedaily.com/news/plants_animals/organic/)
 
-[Environmental Awareness](https://www.sciencedaily.com/news/earth_climate/environmental_awareness/)
+[Nature](https://www.sciencedaily.com/news/plants_animals/nature/)
 
-[Climate](https://www.sciencedaily.com/news/earth_climate/climate/)
+[Global Warming](https://www.sciencedaily.com/news/earth_climate/global_warming/)
 
   
 
