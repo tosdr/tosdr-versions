@@ -4,21 +4,21 @@ Exchanges: [794](https://coinmarketcap.com/rankings/exchanges/)
 
 Market Cap: 
 
-[$2.14T](https://coinmarketcap.com/charts/#market-cap)
+[$2.17T](https://coinmarketcap.com/charts/#market-cap)
 
-2.76%
+4.83%
 
 24h Vol: 
 
-[$93.6B](https://coinmarketcap.com/charts/#volume-24h)
+[$99.4B](https://coinmarketcap.com/charts/#volume-24h)
 
-21.14%
+28.29%
 
-Dominance: [BTC: 57.1% ETH: 13.6%](https://coinmarketcap.com/charts/#bitcoin-dominance)
+Dominance: [BTC: 57.3% ETH: 13.5%](https://coinmarketcap.com/charts/#bitcoin-dominance)
 
  ETH Gas: 
 
-11.42 Gwei
+16.21 Gwei
 
  Fear & Greed: 
 
@@ -30,7 +30,11 @@ Dominance: [BTC: 57.1% ETH: 13.6%](https://coinmarketcap.com/charts/#bitcoin-d
 
 Cryptocurrencies
 
-[Ranking](https://coinmarketcap.com/)[Categories](https://coinmarketcap.com/cryptocurrency-category/)[Global Charts](https://coinmarketcap.com/charts/)[Historical Snapshots](https://coinmarketcap.com/historical/)[Crypto ETFs](https://coinmarketcap.com/etf/)[Token unlocks](https://coinmarketcap.com/token-unlocks/)
+[Ranking](https://coinmarketcap.com/)[Categories](https://coinmarketcap.com/cryptocurrency-category/)[Global Charts](https://coinmarketcap.com/charts/)[Historical Snapshots](https://coinmarketcap.com/historical/)[Crypto ETFs](https://coinmarketcap.com/etf/)[Token unlocks](https://coinmarketcap.com/token-unlocks/)[Yields](https://coinmarketcap.com/yield/)
+
+On Chain Data
+
+[DEX Pairs](https://coinmarketcap.com/dexscan/trending/all/)[Chain Ranking](https://coinmarketcap.com/chain-ranking/)[Hot DEX Pairs](https://coinmarketcap.com/hot-dex-pairs/)
 
 Leaderboards
 
@@ -39,10 +43,6 @@ Leaderboards
 NFT
 
 [Overall NFT Stats](https://coinmarketcap.com/nft/)[Upcoming Sales](https://coinmarketcap.com/nft/upcoming/)
-
-On Chain Data
-
-[DEX Pairs](https://coinmarketcap.com/dexscan/trending/all/)[Chain Ranking](https://coinmarketcap.com/chain-ranking/)[Hot DEX Pairs](https://coinmarketcap.com/hot-dex-pairs/)
 
 [Exchanges](https://coinmarketcap.com/rankings/exchanges/)
 
