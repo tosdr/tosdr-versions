@@ -86,7 +86,7 @@ Menu
         
         * [MLB](https://apnews.com/hub/mlb)
         * [NFL](https://apnews.com/hub/nfl)
-        * [College football](https://apnews.com/hub/college-football)
+        * [AP Top 25 College Football Poll](https://apnews.com/hub/ap-top-25-college-football-poll)
         * [WNBA](https://apnews.com/hub/wnba-basketball)
         * [NBA](https://apnews.com/hub/nba)
         * [Soccer](https://apnews.com/hub/soccer)
@@ -184,7 +184,7 @@ Show Search
     
     * [MLB](https://apnews.com/hub/mlb)
     * [NFL](https://apnews.com/hub/nfl)
-    * [College football](https://apnews.com/hub/college-football)
+    * [AP Top 25 College Football Poll](https://apnews.com/hub/ap-top-25-college-football-poll)
     * [WNBA](https://apnews.com/hub/wnba-basketball)
     * [NBA](https://apnews.com/hub/nba)
     * [Soccer](https://apnews.com/hub/soccer)
