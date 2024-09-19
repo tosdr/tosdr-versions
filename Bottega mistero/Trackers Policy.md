@@ -18,7 +18,7 @@ Alza il velo della realtà per portare alla luce curiosità, misteri, eventi gro
 * [Shop](https://www.bottegamistero.com/shop/)
 * [Donazioni](https://www.bottegamistero.com/donazioni/)
 
-[](https://www.bottegamistero.com/d-r-quanto-ci-metterebbe-un-buco-nero-a-divorare-il-sole/ "Mostra un articolo casuale")
+[](https://www.bottegamistero.com/terrificante-falena-tentacolare-creatonotos-stranger-things/ "Mostra un articolo casuale")
 
 [](https://www.bottegamistero.com/privacy-policy/ "Privacy policy")
 
