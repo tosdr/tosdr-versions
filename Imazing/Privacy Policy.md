@@ -1,5 +1,20 @@
 #### ![](/img/icon-cookie.svg)
 
+EN
+
+* [English](https://imazing.com/privacy-policy#reopen-consent-modal)
+* [Deutsch](https://imazing.com/de/privacy-policy#reopen-consent-modal)
+* [Français](https://imazing.com/fr/privacy-policy#reopen-consent-modal)
+* [Español](https://imazing.com/es/privacy-policy#reopen-consent-modal)
+* [Italiano](https://imazing.com/it/privacy-policy#reopen-consent-modal)
+* [Português](https://imazing.com/pt/privacy-policy#reopen-consent-modal)
+* [Українська](https://imazing.com/uk/privacy-policy#reopen-consent-modal)
+* [Pусский](https://imazing.com/ru/privacy-policy#reopen-consent-modal)
+* [العربية](https://imazing.com/ar/privacy-policy#reopen-consent-modal)
+* [中华](https://imazing.com/zh/privacy-policy#reopen-consent-modal)
+* [日本語](https://imazing.com/ja/privacy-policy#reopen-consent-modal)
+* [한국어](https://imazing.com/ko/privacy-policy#reopen-consent-modal)
+
 ### iMazing Values Your Privacy
 
 We use cookies to enhance this website experience, serve personalized ads or content and analyze our traffic. By clicking 'Consent' you accept the use of cookies.
