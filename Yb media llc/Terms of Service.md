@@ -1,4 +1,4 @@
-![](https://www.facebook.com/tr?id=1324276914788316&ev=PageView&noscript=1)    
+![](https://www.facebook.com/tr?id=1324276914788316&ev=PageView&noscript=1)      
 
 [![Yardbarker](/images/logos/131016_YBlogos_H_line_W_T.png)](https://www.yardbarker.com/)
 
@@ -218,7 +218,7 @@ Emailed Daily. Always Free!
     * [UFL](https://www.yardbarker.com/ufl)
     * [WNBA](https://www.yardbarker.com/wnba)
     * [Wrestling](https://www.yardbarker.com/wrestling)
-    * [More Sports ▸](https://www.yardbarker.com/stats/sport_list/60)
+    * [More Sports ▸](https://www.yardbarker.com/stats/sport_list/s1_13132_37951840)
     
 
 * [![](/images/icons/icon-search-white.svg)](#)
