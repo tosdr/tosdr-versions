@@ -96,17 +96,17 @@ Hamburger [Parliament of Victoria logo](https://parliament.vic.gov.au/)
     
     * [Next
         
+        Short stay accommodation to be taxed and regulated
+        
+        Next](https://parliament.vic.gov.au/news/economy/short-stay-levy)[Next
+        
         Creativity for a healthy future
         
         Next](https://parliament.vic.gov.au/news/health/healthy-future)[Next
         
         Rate cap a big concern for councils
         
-        Next](https://parliament.vic.gov.au/news/economy/traralgonlceic)[Next
-        
-        First Peoples of Victoria honoured at Parliament
-        
-        Next](https://parliament.vic.gov.au/news/general-news/first-peoples-plaque)
+        Next](https://parliament.vic.gov.au/news/economy/traralgonlceic)
     
 * Visit Chevron-down
     
