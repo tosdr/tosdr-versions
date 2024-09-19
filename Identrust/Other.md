@@ -120,7 +120,7 @@ We will provide the information we have within 30 days of receiving your request
 
 [![BR Code Signing Seal by WebTrust](/sites/default/files/styles/accreditation_footer_slider_images/public/gallery/Web%20Trust%20BR%20CodeSigning.png.webp?itok=-loA9BiH)](https://www.cpacanada.ca/webtrustseal?sealid=11484)
 
-[![BBB logo](/sites/default/files/styles/accreditation_footer_slider_images/public/gallery/accred_bus_7469%20Transparent-he75xl_0.png.webp?itok=FYd2stw0)](https://bit.ly/bbb-identrust)
+![BBB logo](/sites/default/files/styles/accreditation_footer_slider_images/public/gallery/accred_bus_7469%20Transparent-he75xl_0.png.webp?itok=FYd2stw0)
 
 [![IdenTrust Secured](/sites/default/files/styles/accreditation_footer_slider_images/public/gallery/identrust_ssl_seal_final-blue-q9dn0x_0.png.webp?itok=8n_shxJT)](https://secure.identrust.com/sslseal/getseal.jsp?domain=identrustssl.com)
 
