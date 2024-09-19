@@ -299,53 +299,53 @@
 
 [Все новости](https://er.ru/activity/news)
 
-[![«Единая Россия»: Выставка «Сила V Правде – гордость и победа» 27 сентября начнёт работать в Сургуте](https://cdn.er.ru/media/news/September2024/OMwdhgT20pp8ENYda2lH-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-vystavka-sila-v-pravde-gordost-i-pobeda-27-sentyabrya-nachnyot-rabotat-v-surgute)
+[![Дмитрий Медведев: Применительно к поддержке нашей Армии, семей участников СВО нет политической конкуренции](https://cdn.er.ru/img/stubs/small/2.jpg)](https://er.ru/activity/news/dmitrij-medvedev-primenitelno-k-podderzhke-nashej-armii-semej-uchastnikov-svo-net-politicheskoj-konkurencii)
 
-[«Единая Россия»: Выставка «Сила V Правде – гордость и победа» 27 сентября начнёт работать в Сургуте](https://er.ru/activity/news/edinaya-rossiya-vystavka-sila-v-pravde-gordost-i-pobeda-27-sentyabrya-nachnyot-rabotat-v-surgute)
+[Дмитрий Медведев: Применительно к поддержке нашей Армии, семей участников СВО нет политической конкуренции](https://er.ru/activity/news/dmitrij-medvedev-primenitelno-k-podderzhke-nashej-armii-semej-uchastnikov-svo-net-politicheskoj-konkurencii)
 
-[#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#Ханты-Мансийский автономный округ-Югра](https://er.ru/activity/news?tags%5B0%5D=123387) [#выставка](https://er.ru/activity/news?tags%5B0%5D=1427) [#техника](https://er.ru/activity/news?tags%5B0%5D=2305) [#НАТО](https://er.ru/activity/news?tags%5B0%5D=1286)
+[#Медведев](https://er.ru/activity/news?tags%5B0%5D=105) [#дамедведев](https://er.ru/activity/news?tags%5B0%5D=1095751) [#спецоперация](https://er.ru/activity/news?tags%5B0%5D=1092566) [#первичныеотдления](https://er.ru/activity/news?tags%5B0%5D=126424) [#первички](https://er.ru/activity/news?tags%5B0%5D=7517)
 
-Сегодня 09:00
+Сегодня 18:55
 
-[![Владимир Путин: Выборы проходили в условиях конкурентной борьбы и при самой высокой за всю историю проведения Единого дня голосования явке](https://cdn.er.ru/media/news/September2024/KGJPUnIBjaN7hfJ2gbgJ-small.jpg)](https://er.ru/activity/news/vladimir-putin-vybory-prohodili-v-usloviyah-konkurentnoj-borby-i-pri-samoj-vysokoj-za-vsyu-istoriyu-provedeniya-edinogo-dnya-golosovaniya-yavke)
+[![Дмитрий Медведев о работе первичек «Единой России» с участниками СВО и их семьями: Это - наш священный долг](https://cdn.er.ru/media/news/September2024/CewqZvww8adsdKBEiECB-small.JPG)](https://er.ru/activity/news/dmitrij-medvedev-o-rabote-pervichek-edinoj-rossii-s-uchastnikami-svo-i-ih-semyami-eto-nash-svyashennyj-dolg)
 
-[Владимир Путин: Выборы проходили в условиях конкурентной борьбы и при самой высокой за всю историю проведения Единого дня голосования явке](https://er.ru/activity/news/vladimir-putin-vybory-prohodili-v-usloviyah-konkurentnoj-borby-i-pri-samoj-vysokoj-za-vsyu-istoriyu-provedeniya-edinogo-dnya-golosovaniya-yavke)
+[Дмитрий Медведев о работе первичек «Единой России» с участниками СВО и их семьями: Это - наш священный долг](https://er.ru/activity/news/dmitrij-medvedev-o-rabote-pervichek-edinoj-rossii-s-uchastnikami-svo-i-ih-semyami-eto-nash-svyashennyj-dolg)
 
-[#Путин](https://er.ru/activity/news?tags%5B0%5D=60) [#ЕДГ2024](https://er.ru/activity/news?tags%5B0%5D=1095607) [#выборы2024](https://er.ru/activity/news?tags%5B0%5D=1095001) [#главырегионов](https://er.ru/activity/news?tags%5B0%5D=122989) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#избирательнаякампания](https://er.ru/activity/news?tags%5B0%5D=109648) [#голосование-2024](https://er.ru/activity/news?tags%5B0%5D=1095548)
+[#Медведев](https://er.ru/activity/news?tags%5B0%5D=105) [#дамедведев](https://er.ru/activity/news?tags%5B0%5D=1095751) [#первичныеотделения](https://er.ru/activity/news?tags%5B0%5D=113123) [#первички](https://er.ru/activity/news?tags%5B0%5D=7517) [#семьиучастниковСВО](https://er.ru/activity/news?tags%5B0%5D=1093476) [#поддержкавоеннослужащих](https://er.ru/activity/news?tags%5B0%5D=1094152)
 
-18.09.24
+Сегодня 18:50
 
-[![«Единая Россия» и фонд «Защитники Отечества» усилят совместную законодательную работу по поддержке участников СВО](https://cdn.er.ru/media/news/September2024/jOYop0udenQktUjG4DSL-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-i-fond-zashitniki-otechestva-usilyat-sovmestnuyu-zakonodatelnuyu-rabotu-po-podderzhke-uchastnikov-svo)
+[![Дмитрий Медведев: Советы первичных отделений «Единой России» в регионах — хорошая форма взаимодействия](https://cdn.er.ru/media/news/September2024/CTrZOoZlJtXKbR2EoADl-small.jpg)](https://er.ru/activity/news/dmitrij-medvedev-sovety-pervichnyh-otdelenij-edinoj-rossii-v-regionah-horoshaya-forma-vzaimodejstviya)
 
-[«Единая Россия» и фонд «Защитники Отечества» усилят совместную законодательную работу по поддержке участников СВО](https://er.ru/activity/news/edinaya-rossiya-i-fond-zashitniki-otechestva-usilyat-sovmestnuyu-zakonodatelnuyu-rabotu-po-podderzhke-uchastnikov-svo)
+[Дмитрий Медведев: Советы первичных отделений «Единой России» в регионах — хорошая форма взаимодействия](https://er.ru/activity/news/dmitrij-medvedev-sovety-pervichnyh-otdelenij-edinoj-rossii-v-regionah-horoshaya-forma-vzaimodejstviya)
 
-[#Цивилева](https://er.ru/activity/news?tags%5B0%5D=1095455) [#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#Лантратова](https://er.ru/activity/news?tags%5B0%5D=1607) [#Стенякина](https://er.ru/activity/news?tags%5B0%5D=26293) [#фондЗащитникиОтечества](https://er.ru/activity/news?tags%5B0%5D=1094370) [#СВО](https://er.ru/activity/news?tags%5B0%5D=1092872) [#поддержкавоеннослужащих](https://er.ru/activity/news?tags%5B0%5D=1094152) [#поддержкасемейвоеннослужащих](https://er.ru/activity/news?tags%5B0%5D=1093581) [#законотворчество](https://er.ru/activity/news?tags%5B0%5D=10327) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49)
+[#ДАМедведев](https://er.ru/activity/news?tags%5B0%5D=1095750) [#первички](https://er.ru/activity/news?tags%5B0%5D=7517)
 
-18.09.24
+Сегодня 18:47
 
-[![Госдума приняла в первом чтении законопроект «Единой России» о дополнительной поддержке донорства](https://cdn.er.ru/media/news/September2024/53vtC3scSB5P0EyfwxRx-small.jpg)](https://er.ru/activity/news/gosduma-prinyala-v-pervom-chtenii-zakonoproekt-edinoj-rossii-o-dopolnitelnoj-podderzhke-donorstva)
+[![Дмитрий Медведев: «Единая Россия» должна вести себя максимально корректно](https://cdn.er.ru/media/news/September2024/C0AOyif5H8Rn4Q0LuG7u-small.JPG)](https://er.ru/activity/news/dmitrij-medvedev-edinaya-rossiya-dolzhna-vesti-sebya-maksimalno-korrektno)
 
-[Госдума приняла в первом чтении законопроект «Единой России» о дополнительной поддержке донорства](https://er.ru/activity/news/gosduma-prinyala-v-pervom-chtenii-zakonoproekt-edinoj-rossii-o-dopolnitelnoj-podderzhke-donorstva)
+[Дмитрий Медведев: «Единая Россия» должна вести себя максимально корректно](https://er.ru/activity/news/dmitrij-medvedev-edinaya-rossiya-dolzhna-vesti-sebya-maksimalno-korrektno)
 
-[#Метелев](https://er.ru/activity/news?tags%5B0%5D=133170) [#студенчество](https://er.ru/activity/news?tags%5B0%5D=10761) [#донорство](https://er.ru/activity/news?tags%5B0%5D=127509) [#сдачакрови](https://er.ru/activity/news?tags%5B0%5D=117217) [#мерыподдержки](https://er.ru/activity/news?tags%5B0%5D=147555) [#добровольчество](https://er.ru/activity/news?tags%5B0%5D=19819) [#волонтерскаядеятельность](https://er.ru/activity/news?tags%5B0%5D=147139) [#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#законодательство](https://er.ru/activity/news?tags%5B0%5D=692)
+[#Медведев](https://er.ru/activity/news?tags%5B0%5D=105) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#первички](https://er.ru/activity/news?tags%5B0%5D=7517) [#политика](https://er.ru/activity/news?tags%5B0%5D=134108)
 
-18.09.24
+Сегодня 18:30
 
-[![«Единая Россия» внесла законопроект о праве многодетных семей на бесплатную юридическую помощь](https://cdn.er.ru/media/news/September2024/43m8iCTxXFD4XwnH5OqC-small.JPG)](https://er.ru/activity/news/edinaya-rossiya-vnesla-zakonoproekt-o-prave-mnogodetnyh-semej-na-besplatnuyu-yuridicheskuyu-pomosh)
+[![Дмитрий Медведев: Тех, кто выступает против нашей страны, мы должны хранить в памяти, кто это был и что это за люди](https://cdn.er.ru/media/news/September2024/ks6Le1bwwOwV9bnkmxpw-small.JPG)](https://er.ru/activity/news/dmitrij-medvedev-teh-kto-vystupaet-protiv-nashej-strany-my-dolzhny-hranit-v-pamyati-kto-eto-byl-i-chto-eto-za-lyudi)
 
-[«Единая Россия» внесла законопроект о праве многодетных семей на бесплатную юридическую помощь](https://er.ru/activity/news/edinaya-rossiya-vnesla-zakonoproekt-o-prave-mnogodetnyh-semej-na-besplatnuyu-yuridicheskuyu-pomosh)
+[Дмитрий Медведев: Тех, кто выступает против нашей страны, мы должны хранить в памяти, кто это был и что это за люди](https://er.ru/activity/news/dmitrij-medvedev-teh-kto-vystupaet-protiv-nashej-strany-my-dolzhny-hranit-v-pamyati-kto-eto-byl-i-chto-eto-za-lyudi)
 
-[#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#бесплатнаяюридическаяпомощь](https://er.ru/activity/news?tags%5B0%5D=120547) [#юридическаяконсультация](https://er.ru/activity/news?tags%5B0%5D=110288) [#семьисдетьми](https://er.ru/activity/news?tags%5B0%5D=136562) [#многодетныесемьи](https://er.ru/activity/news?tags%5B0%5D=109325) [#мерыподдержкиграждан](https://er.ru/activity/news?tags%5B0%5D=145894) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#законодательство](https://er.ru/activity/news?tags%5B0%5D=692)
+[#Медведев](https://er.ru/activity/news?tags%5B0%5D=105) [#дамедведев](https://er.ru/activity/news?tags%5B0%5D=1095751) [#советпервичек](https://er.ru/activity/news?tags%5B0%5D=128798) [#Ростовская область](https://er.ru/activity/news?tags%5B0%5D=1284) [#Зяблова](https://er.ru/activity/news?tags%5B0%5D=1095176) [#международныеотношения](https://er.ru/activity/news?tags%5B0%5D=130522)
 
-18.09.24
+Сегодня 18:12
 
-[![Евгений Нифантьев: «Единая Россия» обеспечит законодательную базу для работы новых нацпроектов в области здравоохранения и народосбережения](https://cdn.er.ru/media/news/September2024/9VRolvNw6inyY0rHthuJ-small.jpg)](https://er.ru/activity/news/evgenij-nifantev-edinaya-rossiya-obespechit-zakonodatelnuyu-bazu-dlya-raboty-novyh-nacproektov-v-oblasti-zdravoohraneniya-i-narodosberezheniya)
+[![Дмитрий Медведев назвал неправильной позицию губернаторов, которые на выборах отказываются от «Единой России»](https://cdn.er.ru/media/news/September2024/RyxbrKKQ5ashhvFymveU-small.jpg)](https://er.ru/activity/news/dmitrij-medvedev-nazval-nepravilnoj-poziciyu-gubernatorov-kotorye-na-vyborah-otkazyvayutsya-ot-edinoj-rossii)
 
-[Евгений Нифантьев: «Единая Россия» обеспечит законодательную базу для работы новых нацпроектов в области здравоохранения и народосбережения](https://er.ru/activity/news/evgenij-nifantev-edinaya-rossiya-obespechit-zakonodatelnuyu-bazu-dlya-raboty-novyh-nacproektov-v-oblasti-zdravoohraneniya-i-narodosberezheniya)
+[Дмитрий Медведев назвал неправильной позицию губернаторов, которые на выборах отказываются от «Единой России»](https://er.ru/activity/news/dmitrij-medvedev-nazval-nepravilnoj-poziciyu-gubernatorov-kotorye-na-vyborah-otkazyvayutsya-ot-edinoj-rossii)
 
-[#Нифантьев](https://er.ru/activity/news?tags%5B0%5D=150020) [#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#первичноезвеноздравоохранения](https://er.ru/activity/news?tags%5B0%5D=137171) [#законопроекты](https://er.ru/activity/news?tags%5B0%5D=863) [#нацпроекты](https://er.ru/activity/news?tags%5B0%5D=127007)
+[#Медведев](https://er.ru/activity/news?tags%5B0%5D=105) [#дамедведев](https://er.ru/activity/news?tags%5B0%5D=1095751) [#первичныеотделения](https://er.ru/activity/news?tags%5B0%5D=113123) [#первички](https://er.ru/activity/news?tags%5B0%5D=127619) [#главырегионов](https://er.ru/activity/news?tags%5B0%5D=122989) [#выборы](https://er.ru/activity/news?tags%5B0%5D=31)
 
-18.09.24
+Сегодня 18:02
 
 ![Сайт президента РФ](https://cdn.er.ru/media/sites/July2020/7T7J24LxtsdGGJVk1lL0.jpg)
 
