@@ -96,9 +96,9 @@ Main Menu
 
  [](https://classiccountrymusic.com/genre/traditional) [See All](https://classiccountrymusic.com/genre/traditional)
 
+* [Dolly Parton Defends The CMA After...](https://classiccountrymusic.com/dolly-parton-defends-the-cma-against-alleged-beyonce-snub/)
+* [Toby Keith’s Team Launches New “Premium”...](https://classiccountrymusic.com/toby-keith-launches-new-premium-food-brand-from-blue-catfish-to-big-dogs/)
 * [Dolly Parton Recalls Eating Groundhogs As...](https://classiccountrymusic.com/dolly-parton-recalls-eating-groundhogs-as-a-child-that-was-daddys-favorite-thing/)
-* [Garth Brooks Reveals Plans Following End...](https://classiccountrymusic.com/garth-brooks-reveals-plans-following-end-of-vegas-residency/)
-* [Brooks & Dunn Announce ‘Reboot II’...](https://classiccountrymusic.com/brooks-dunn-announce-reboot-ii-album-to-feature-remakes-of-18-classics/)
 
 ![bluegrass](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
 
