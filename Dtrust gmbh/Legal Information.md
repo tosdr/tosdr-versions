@@ -110,10 +110,7 @@ Whilst D-Trust updates and supplements the information on its website to the bes
 
 Should you have any questions regarding our website, please contact info@d-trust.net.
 
-Breadcrumb
-----------
-
-1. Legal notice
+1. [Home](https://www.d-trust.net/en)
 
 Language:
 
@@ -133,7 +130,8 @@ German English
 
 #### We will be glad to advise you:
 
-[+49 (0)30 2598 - 0](tel:+493025980)  
+[+49 (0)30 2598 - 0](tel:+493025980)
+
 [Send us an e-mail](mailto:vertrieb@d-trust.net)
 
 © 2024 | Bundesdruckerei GmbH
