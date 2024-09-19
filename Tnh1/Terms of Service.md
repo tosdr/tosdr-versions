@@ -18,31 +18,31 @@
 
 [Leia tudo sobre Maceió](https://www.tnh1.com.br/noticias/editoria/maceio/ "Ir para Maceió")
 
-   [![Suspeito de invadir casa para tentar matar idoso é amarrado e agredido pela população](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/5/f/csm_csm_viatura_policia_militar_-_ascom_ssp_b65a315e7e_6d5bc954da.jpg)
+   [![Vídeo: mulher tem carteira furtada da bolsa enquanto escolhia legumes em supermercado](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/d/8/csm_furto_mulher_carteira_maceio_a25bc6605a.jpg)
+
+EM MACEIÓ
+
+Vídeo: mulher tem carteira furtada da bolsa enquanto escolhia legumes em supermercado](https://www.tnh1.com.br/noticia/nid/video-mulher-tem-carteira-furtada-da-bolsa-enquanto-escolhia-legumes-em-supermercado/ "Vídeo: mulher tem carteira furtada da bolsa enquanto escolhia legumes em supermercado")   [![Defensoria Pública flagra diversos problemas em atendimento na UPA do Jacintinho](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/c/4/csm_fiscalizacao_upa_defensoria_ascom_08242aa772.jpg)
+
+Durante vistoria
+
+Defensoria Pública flagra diversos problemas em atendimento na UPA do Jacintinho](https://www.tnh1.com.br/noticia/nid/defensoria-publica-flagra-diversos-problemas-em-atendimento-na-upa-do-jacintinho/ "Defensoria Pública flagra diversos problemas em atendimento na UPA do Jacintinho")   [![Suspeito de invadir casa para tentar matar idoso é amarrado e agredido pela população](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/5/f/csm_csm_viatura_policia_militar_-_ascom_ssp_b65a315e7e_6d5bc954da.jpg)
 
 Cidade Universitária
 
-Suspeito de invadir casa para tentar matar idoso é amarrado e agredido pela população](https://www.tnh1.com.br/noticia/nid/suspeito-de-invadir-casa-para-tentar-matar-idoso-e-amarrado-e-agredido-pela-populacao/ "Suspeito de invadir casa para tentar matar idoso é amarrado e agredido pela população")   [![Homem é preso após jogar cadeira em esposa idosa por ela negar dinheiro para drogas](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/f/7/csm_violencia_mulher_agencia_brasil_1e8999e241.png)
+Suspeito de invadir casa para tentar matar idoso é amarrado e agredido pela população](https://www.tnh1.com.br/noticia/nid/suspeito-de-invadir-casa-para-tentar-matar-idoso-e-amarrado-e-agredido-pela-populacao/ "Suspeito de invadir casa para tentar matar idoso é amarrado e agredido pela população")   [![Homem é preso após jogar cadeira em esposa idosa por ela negar dinheiro para drogas](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/f/7/csm_violencia_mulher_agencia_brasil_1e8999e241.png)
 
 No Clima Bom
 
-Homem é preso após jogar cadeira em esposa idosa por ela negar dinheiro para drogas](https://www.tnh1.com.br/noticia/nid/homem-e-preso-apos-jogar-cadeira-em-esposa-idosa-por-ela-negar-dinheiro-para-drogas/ "Homem é preso após jogar cadeira em esposa idosa por ela negar dinheiro para drogas")   [![Festival Massayó Gospel leva três dias de fé e adoração no Jaraguá; veja programação](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/7/d/csm_massayo_gospel_675c1b268a.jpeg)
+Homem é preso após jogar cadeira em esposa idosa por ela negar dinheiro para drogas](https://www.tnh1.com.br/noticia/nid/homem-e-preso-apos-jogar-cadeira-em-esposa-idosa-por-ela-negar-dinheiro-para-drogas/ "Homem é preso após jogar cadeira em esposa idosa por ela negar dinheiro para drogas")   [![Festival Massayó Gospel leva três dias de fé e adoração no Jaraguá; veja programação](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/7/d/csm_massayo_gospel_675c1b268a.jpeg)
 
 Maceió
 
-Festival Massayó Gospel leva três dias de fé e adoração no Jaraguá; veja programação](https://www.tnh1.com.br/noticia/nid/festival-massayo-gospel-leva-tres-dias-de-fe-e-adoracao-no-jaragua-veja-programacao/ "Festival Massayó Gospel leva três dias de fé e adoração no Jaraguá; veja programação")   [![Motociclista morre após se chocar com carro e ser atropelado por caminhão, no Barro Duro](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/2/2/csm_motociclista-morre-atropelado-barro-duro__2__10537dca17.jpg)
+Festival Massayó Gospel leva três dias de fé e adoração no Jaraguá; veja programação](https://www.tnh1.com.br/noticia/nid/festival-massayo-gospel-leva-tres-dias-de-fe-e-adoracao-no-jaragua-veja-programacao/ "Festival Massayó Gospel leva três dias de fé e adoração no Jaraguá; veja programação")   [![Motociclista morre após se chocar com carro e ser atropelado por caminhão, no Barro Duro](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/2/2/csm_motociclista-morre-atropelado-barro-duro__2__10537dca17.jpg)
 
 Av. Juca Sampaio
 
-Motociclista morre após se chocar com carro e ser atropelado por caminhão, no Barro Duro](https://www.tnh1.com.br/noticia/nid/motociclista-morre-apos-se-chocar-com-carro-e-ser-atropelado-por-caminhao-no-barro-duro/ "Motociclista morre após se chocar com carro e ser atropelado por caminhão, no Barro Duro")   [![Jacaré é flagrado por moradores andando em calçada no bairro do Bebedouro](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/7/a/csm_Jacare-flagrado-bebedouro_1ea166d99c.jpg)
-
-Veja vídeo
-
-Jacaré é flagrado por moradores andando em calçada no bairro do Bebedouro](https://www.tnh1.com.br/noticia/nid/jacare-e-flagrado-por-moradores-andando-em-calcada-no-bairro-do-bebedouro/ "Jacaré é flagrado por moradores andando em calçada no bairro do Bebedouro")   [![Novas denúncias contra preso por estelionato mostram prejuízo de R$ 17 mil para lojas de shoppings](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/2/4/csm_prisao-estelionato-divulgacao_3f25234b56.jpg)
-
-Investigado
-
-Novas denúncias contra preso por estelionato mostram prejuízo de R$ 17 mil para lojas de shoppings](https://www.tnh1.com.br/noticia/nid/novas-denuncias-contra-preso-por-estelionato-mostram-prejuizo-de-r-17-mil-para-lojas-de-shoppings/ "Novas denúncias contra preso por estelionato mostram prejuízo de R$ 17 mil para lojas de shoppings")
+Motociclista morre após se chocar com carro e ser atropelado por caminhão, no Barro Duro](https://www.tnh1.com.br/noticia/nid/motociclista-morre-apos-se-chocar-com-carro-e-ser-atropelado-por-caminhao-no-barro-duro/ "Motociclista morre após se chocar com carro e ser atropelado por caminhão, no Barro Duro")
 
 [Alagoas](https://www.tnh1.com.br/noticias/editoria/alagoas/ "Alagoas")
 
@@ -50,7 +50,19 @@ Novas denúncias contra preso por estelionato mostram prejuízo de R$ 17 mil par
 
 [Leia tudo sobre Alagoas](https://www.tnh1.com.br/noticias/editoria/alagoas/ "Ir para Alagoas")
 
-   [![Segundo episódio da série "Territórios do Crime" mostra como o RJ virou refúgio de traficantes alagoanos](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/e/3/csm_Still_Territorios_do_crime_d7bdc35c5f.png)
+   [![Novo episódio: "Territórios do Crime" mostra como traficantes usam dinheiro para promover festas e ostentação ](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/e/3/csm_Still_Territorios_do_crime_d7bdc35c5f.png)
+
+Alagoas
+
+Novo episódio: "Territórios do Crime" mostra como traficantes usam dinheiro para promover festas e ostentação](https://www.tnh1.com.br/noticia/nid/novo-episodio-territorios-do-crime-mostra-como-traficantes-usam-dinheiro-para-promover-festas-e-ostentacao/ "Novo episódio: "Territórios do Crime" mostra como traficantes usam dinheiro para promover festas e ostentação ")   [![Veja a previsão do tempo para esta sexta-feira, 20, em todas as regiões de Alagoas](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/1/e/csm_csm_csm_CALOR-Pixabay_31e7dfd61d_25ebb1510f__1__fcd1296cc8.jpg)
+
+Meteorologia
+
+Veja a previsão do tempo para esta sexta-feira, 20, em todas as regiões de Alagoas](https://www.tnh1.com.br/noticia/nid/veja-a-previsao-do-tempo-para-esta-sexta-feira-20-em-todas-as-regioes-de-alagoas/ "Veja a previsão do tempo para esta sexta-feira, 20, em todas as regiões de Alagoas")   [![Polícia Militar recupera veículo roubado no interior de Alagoas](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/1/8/csm_policia-militar-recupera-veiculo-roubado-no-interior-de-alagoas_3728f3654e.jpg)
+
+Alagoas
+
+Polícia Militar recupera veículo roubado no interior de Alagoas](https://www.tnh1.com.br/noticia/nid/policia-militar-recupera-veiculo-roubado-no-interior-de-alagoas/ "Polícia Militar recupera veículo roubado no interior de Alagoas")   [![Segundo episódio da série "Territórios do Crime" mostra como o RJ virou refúgio de traficantes alagoanos](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/e/3/csm_Still_Territorios_do_crime_d7bdc35c5f.png)
 
 Polícia
 
@@ -62,19 +74,7 @@ Senador Rui Palmeira: juiz eleitoral condena prefeita e cassa registro de candid
 
 Cultura
 
-Governo do Estado diploma três novos patrimônios vivos de Alagoas](https://www.tnh1.com.br/noticia/nid/governo-do-estado-diploma-tres-novos-patrimonios-vivos-de-alagoas/ "Governo do Estado diploma três novos patrimônios vivos de Alagoas")   [![Polícia Militar prende suspeitos e apreende armas e drogas em Piranhas e Arapiraca](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/7/0/csm_guarnicoes-da-pm-predem-suspeitos-com-armas-de-fogo-em-piranhas-e-arapiraca_544446e4f8.jpg)
-
-Alagoas
-
-Polícia Militar prende suspeitos e apreende armas e drogas em Piranhas e Arapiraca](https://www.tnh1.com.br/noticia/nid/policia-militar-prende-suspeitos-e-apreende-armas-e-drogas-em-piranhas-e-arapiraca/ "Polícia Militar prende suspeitos e apreende armas e drogas em Piranhas e Arapiraca")   [![Cases alagoanos são classificados para premiação nacional](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/6/0/csm_PREMIO_SER_HUMANO_482782c8d0.png)
-
-Alagoas
-
-Cases alagoanos são classificados para premiação nacional](https://www.tnh1.com.br/noticia/nid/cases-alagoanos-sao-classificados-para-premiacao-nacional/ "Cases alagoanos são classificados para premiação nacional")   [![HGE procura por familiares de paciente que deu entrada na última sexta-feira (13)](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/c/9/csm_hge-procura-por-familiares-de-paciente-que-foi-admitido-na-unidade-na-sexta-feira_b302874ecd.jpg)
-
-vítima de acidente
-
-HGE procura por familiares de paciente que deu entrada na última sexta-feira (13)](https://www.tnh1.com.br/noticia/nid/hge-procura-por-familiares-de-paciente-que-deu-entrada-na-ultima-sexta-feira-13/ "HGE procura por familiares de paciente que deu entrada na última sexta-feira (13)")
+Governo do Estado diploma três novos patrimônios vivos de Alagoas](https://www.tnh1.com.br/noticia/nid/governo-do-estado-diploma-tres-novos-patrimonios-vivos-de-alagoas/ "Governo do Estado diploma três novos patrimônios vivos de Alagoas")
 
 [Polícia](https://www.tnh1.com.br/noticias/editoria/policia/ "Polícia")
 
@@ -82,7 +82,19 @@ HGE procura por familiares de paciente que deu entrada na última sexta-feira (1
 
 [Leia tudo sobre Polícia](https://www.tnh1.com.br/noticias/editoria/policia/ "Ir para Polícia")
 
-   [![Relatório da PF revela conversas entre delegado e um dos suspeitos da morte de Kleber Malaquias](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/c/0/csm_print_conversas_delegado_Daniel_Mayer_f9c0895236.jpeg)
+   [![Novo episódio: "Territórios do Crime" mostra como traficantes usam dinheiro para promover festas e ostentação ](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/e/3/csm_Still_Territorios_do_crime_d7bdc35c5f.png)
+
+Alagoas
+
+Novo episódio: "Territórios do Crime" mostra como traficantes usam dinheiro para promover festas e ostentação](https://www.tnh1.com.br/noticia/nid/novo-episodio-territorios-do-crime-mostra-como-traficantes-usam-dinheiro-para-promover-festas-e-ostentacao/ "Novo episódio: "Territórios do Crime" mostra como traficantes usam dinheiro para promover festas e ostentação ")   [![Polícia Militar recupera veículo roubado no interior de Alagoas](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/1/8/csm_policia-militar-recupera-veiculo-roubado-no-interior-de-alagoas_3728f3654e.jpg)
+
+Alagoas
+
+Polícia Militar recupera veículo roubado no interior de Alagoas](https://www.tnh1.com.br/noticia/nid/policia-militar-recupera-veiculo-roubado-no-interior-de-alagoas/ "Polícia Militar recupera veículo roubado no interior de Alagoas")   [![Três homens são assassinados a tiros dentro de residência em Rio Largo](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/2/d/csm_Triplo_homicidio_Rio_Largo_-_foto_Reproducao_d0a56ab22c.jpg)
+
+triplo homicídio
+
+Três homens são assassinados a tiros dentro de residência em Rio Largo](https://www.tnh1.com.br/noticia/nid/tres-homens-sao-assassinados-a-tiros-dentro-de-residencia-em-rio-largo/ "Três homens são assassinados a tiros dentro de residência em Rio Largo")   [![Relatório da PF revela conversas entre delegado e um dos suspeitos da morte de Kleber Malaquias](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/4/8/csm_Print_conversa_delegado_1_961d4b1da8.jpeg)
 
 Veja prints
 
@@ -94,19 +106,7 @@ Drogas avaliadas em R$ 300 mil são incineradas no interior de Alagoas; veja ví
 
 interior de AL
 
-Acusado de oferecer bens para fazer sexo com criança de 12 anos é preso por estupro](https://www.tnh1.com.br/noticia/nid/acusado-de-oferecer-bens-para-fazer-sexo-com-crianca-de-12-anos-e-preso-por-estupro/ "Acusado de oferecer bens para fazer sexo com criança de 12 anos é preso por estupro ")    [![Acusado de matar mulher com pedrada após mandá-la parar de beber é capturado ](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/7/c/csm_erlane_piacabucu_cd745f4be9.jpeg)
-
-estava foragido
-
-Acusado de matar mulher com pedrada após mandá-la parar de beber é capturado](https://www.tnh1.com.br/noticia/nid/acusado-de-matar-mulher-com-pedrada-apos-manda-la-parar-de-beber-e-capturado/ "Acusado de matar mulher com pedrada após mandá-la parar de beber é capturado ")   [![Homem esgana esposa enquanto dormia e a deixa presa dentro de casa com enteados](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/f/5/csm_suspeito-enforcar-carcere-privado-campo-alegre_820cbaf929.jpg)
-
-Em Campo Alegre
-
-Homem esgana esposa enquanto dormia e a deixa presa dentro de casa com enteados](https://www.tnh1.com.br/noticia/nid/homem-esgana-esposa-enquanto-dormia-e-a-deixa-presa-dentro-de-casa-com-enteados/ "Homem esgana esposa enquanto dormia e a deixa presa dentro de casa com enteados")   [![Suspeito de invadir casa para tentar matar idoso é amarrado e agredido pela população](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/5/f/csm_csm_viatura_policia_militar_-_ascom_ssp_b65a315e7e_6d5bc954da.jpg)
-
-Cidade Universitária
-
-Suspeito de invadir casa para tentar matar idoso é amarrado e agredido pela população](https://www.tnh1.com.br/noticia/nid/suspeito-de-invadir-casa-para-tentar-matar-idoso-e-amarrado-e-agredido-pela-populacao/ "Suspeito de invadir casa para tentar matar idoso é amarrado e agredido pela população")
+Acusado de oferecer bens para fazer sexo com criança de 12 anos é preso por estupro](https://www.tnh1.com.br/noticia/nid/acusado-de-oferecer-bens-para-fazer-sexo-com-crianca-de-12-anos-e-preso-por-estupro/ "Acusado de oferecer bens para fazer sexo com criança de 12 anos é preso por estupro ") 
 
 [Blogs](https://www.tnh1.com.br/blogs/ "Blogs")
 
@@ -198,7 +198,7 @@ O Portal TNH1 não entra em contato com os ganhadores de qualquer promoção atr
 * [ÚLTIMAS](#ultimas "Ultimas")
 * [VÍDEOS](#videos "Videos")
 
-[![Delegado é preso em Maceió suspeito de prejudicar investigação da morte de empresário](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/2/6/csm_WhatsApp_Image_2024-09-18_at_10.05.50_14914ca6ba.jpeg)
+[![Delegado é preso em Maceió suspeito de prejudicar investigação da morte de empresário](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/a/7/csm_policia_federal_sede_maceio_e65da481b1.jpg)
 
 caso kleber malaquias
 
@@ -206,7 +206,15 @@ caso kleber malaquias
 
 Delegado é preso em Maceió suspeito de prejudicar investigação da morte de empresário
 
-Delegado é preso em Maceió suspeito de prejudicar investigação da morte de empresário](https://www.tnh1.com.br/noticia/nid/delegado-e-preso-em-maceio-suspeito-de-prejudicar-investigacao-da-morte-de-empresario/ "Delegado é preso em Maceió suspeito de prejudicar investigação da morte de empresário")[![Promotores se posicionam sobre prisão de delegado: "Grave conduta jamais esperada"](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/1/e/csm_Promotores_Kleber_Valadares_e_Lidia_Malta_-_foto_Reproducao_MPAL_4310cb7162.jpg)
+Delegado é preso em Maceió suspeito de prejudicar investigação da morte de empresário](https://www.tnh1.com.br/noticia/nid/delegado-e-preso-em-maceio-suspeito-de-prejudicar-investigacao-da-morte-de-empresario/ "Delegado é preso em Maceió suspeito de prejudicar investigação da morte de empresário")[![Filho revela a última promessa que fez para Christopher Reeve, o Superman clássico do cinema](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/6/4/csm_christopher-reeve-matt-reeve-filho-reproducao-redes-sociais_95606d02b9.jpg)
+
+32 anos
+
+32 anos
+
+Filho revela a última promessa que fez para Christopher Reeve, o Superman clássico do cinema
+
+Filho revela a última promessa que fez para Christopher Reeve, o Superman clássico do cinema](https://www.tnh1.com.br/noticia/nid/filho-revela-a-ultima-promessa-que-fez-para-christopher-reeve-o-superman-classico-do-cinema/ "Filho revela a última promessa que fez para Christopher Reeve, o Superman clássico do cinema")[![Promotores se posicionam sobre prisão de delegado: "Grave conduta jamais esperada"](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/1/e/csm_Promotores_Kleber_Valadares_e_Lidia_Malta_-_foto_Reproducao_MPAL_4310cb7162.jpg)
 
 kleber malaquias
 
@@ -214,57 +222,49 @@ kleber malaquias
 
 Promotores se posicionam sobre prisão de delegado: "Grave conduta jamais esperada"
 
-Promotores se posicionam sobre prisão de delegado: "Grave conduta jamais esperada"](https://www.tnh1.com.br/noticia/nid/promotores-se-posicionam-sobre-prisao-de-delegado-grave-conduta-jamais-esperada/ "Promotores se posicionam sobre prisão de delegado: "Grave conduta jamais esperada"")[![Diretor de escola é investigado após enviar foto íntima para aluna de 13 anos; veja imagens ](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/6/1/csm_print-conversas-diretor-aluna-reproducao_f99fdc12d4.jpeg)
+Promotores se posicionam sobre prisão de delegado: "Grave conduta jamais esperada"](https://www.tnh1.com.br/noticia/nid/promotores-se-posicionam-sobre-prisao-de-delegado-grave-conduta-jamais-esperada/ "Promotores se posicionam sobre prisão de delegado: "Grave conduta jamais esperada"")[![Longa alagoano é pré-selecionado para o Oscar de Melhor Filme Internacional](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/8/3/csm_longa-alagoano-sem-coracao-e-pre-selecionado-para-o-oscar-de-melhor-filme-internacional_e4c9125556.jpg)
 
-RIO LARGO
+Cinema
 
-RIO LARGO
+Cinema
 
-Diretor de escola é investigado após enviar foto íntima para aluna de 13 anos; veja imagens
+Longa alagoano é pré-selecionado para o Oscar de Melhor Filme Internacional
 
-Diretor de escola é investigado após enviar foto íntima para aluna de 13 anos; veja imagens](https://www.tnh1.com.br/noticia/nid/diretor-de-escola-e-investigado-apos-enviar-foto-intima-para-aluna-de-13-anos-veja-imagens/ "Diretor de escola é investigado após enviar foto íntima para aluna de 13 anos; veja imagens ")[![Motociclista morre após se chocar com carro e ser atropelado por caminhão, no Barro Duro](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/2/2/csm_motociclista-morre-atropelado-barro-duro__2__77f8411b9b.jpg)
+Longa alagoano é pré-selecionado para o Oscar de Melhor Filme Internacional](https://www.tnh1.com.br/noticia/nid/longa-alagoano-e-pre-selecionado-para-o-oscar-de-melhor-filme-internacional/ "Longa alagoano é pré-selecionado para o Oscar de Melhor Filme Internacional")
 
-Av. Juca Sampaio
+[![Fumaça deixa 160 mil alunos sem aulas no Acre](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/8/4/csm_fumaca-acre-secom-divulgacao_f1516ac2db.jpg)
 
-Av. Juca Sampaio
+situação crítica
 
-Motociclista morre após se chocar com carro e ser atropelado por caminhão, no Barro Duro
+situação crítica
 
-Motociclista morre após se chocar com carro e ser atropelado por caminhão, no Barro Duro](https://www.tnh1.com.br/noticia/nid/motociclista-morre-apos-se-chocar-com-carro-e-ser-atropelado-por-caminhao-no-barro-duro/ "Motociclista morre após se chocar com carro e ser atropelado por caminhão, no Barro Duro")
+Fumaça deixa 160 mil alunos sem aulas no Acre
 
-[![Evento gratuito: Projeto Samba do Mercado convida Júnior Parente e Júlio Uça](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/b/7/csm_samba_mertcado_b488e13001.png)
+Fumaça deixa 160 mil alunos sem aulas no Acre](https://www.tnh1.com.br/noticia/nid/fumaca-deixa-160-mil-alunos-sem-aulas-no-acre/ "Fumaça deixa 160 mil alunos sem aulas no Acre")[![Documentário de Simone Biles revela erro que poderia tirar ouro de Rebeca Andrade](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/8/a/csm_Rebeca-Andrade-Biles-Instagram_ff69bb2ce5.jpg)
 
-No sábado (21)
+Revelações
 
-No sábado (21)
+Revelações
 
-Evento gratuito: Projeto Samba do Mercado convida Júnior Parente e Júlio Uça
+Documentário de Simone Biles revela erro que poderia tirar ouro de Rebeca Andrade
 
-Evento gratuito: Projeto Samba do Mercado convida Júnior Parente e Júlio Uça](https://www.tnh1.com.br/noticia/nid/evento-gratuito-projeto-samba-do-mercado-convida-junior-parente-e-julio-uca/ "Evento gratuito: Projeto Samba do Mercado convida Júnior Parente e Júlio Uça")[![Homem morre ao tentar separar com faca dois hambúrgueres congelados](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/9/1/csm_homem_que_morreu_por_causa_de_hamburguer__1__d10064756a.jpg)
+Documentário de Simone Biles revela erro que poderia tirar ouro de Rebeca Andrade](https://www.tnh1.com.br/noticia/nid/documentario-de-simone-biles-revela-erro-que-poderia-tirar-ouro-de-rebeca-andrade/ "Documentário de Simone Biles revela erro que poderia tirar ouro de Rebeca Andrade")[![Existe abstinência de café? Veja o que a falta de cafeína faz com o corpo](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/f/4/csm_coffee-cup-wooden-table-dark-background_reduzida_ae3822e30e.jpg)
 
-Acidente doméstico
+Saúde
 
-Acidente doméstico
+Saúde
 
-Homem morre ao tentar separar com faca dois hambúrgueres congelados
+Existe abstinência de café? Veja o que a falta de cafeína faz com o corpo
 
-Homem morre ao tentar separar com faca dois hambúrgueres congelados](https://www.tnh1.com.br/noticia/nid/homem-morre-ao-tentar-separar-com-faca-dois-hamburgueres-congelados/ "Homem morre ao tentar separar com faca dois hambúrgueres congelados")[![Relatório da PF revela conversas entre delegado e um dos suspeitos da morte de Kleber Malaquias](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/c/0/csm_print_conversas_delegado_Daniel_Mayer_dae3f11ea1.jpeg)
+Existe abstinência de café? Veja o que a falta de cafeína faz com o corpo](https://www.tnh1.com.br/noticia/nid/existe-abstinencia-de-cafe-veja-o-que-a-falta-de-cafeina-faz-com-o-corpo-1/ "Existe abstinência de café? Veja o que a falta de cafeína faz com o corpo")[![Novo episódio: "Territórios do Crime" mostra como traficantes usam dinheiro para promover festas e ostentação ](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/e/3/csm_Still_Territorios_do_crime_9763e2056c.png)
 
-Veja prints
+Alagoas
 
-Veja prints
+Alagoas
 
-Relatório da PF revela conversas entre delegado e um dos suspeitos da morte de Kleber Malaquias
+Novo episódio: "Territórios do Crime" mostra como traficantes usam dinheiro para promover festas e ostentação
 
-Relatório da PF revela conversas entre delegado e um dos suspeitos da morte de Kleber Malaquias](https://www.tnh1.com.br/noticia/nid/relatorio-da-pf-revela-conversas-entre-delegado-e-um-dos-suspeitos-da-morte-de-kleber-malaquias/ "Relatório da PF revela conversas entre delegado e um dos suspeitos da morte de Kleber Malaquias")[![Dirigindo uma Mercedes, brasileira atropela sete pessoas e mata duas jovens na Itália](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/c/5/csm_acidente_brasileira_italia_reproducao_redes_sociais_3e4621be82.jpg)
-
-foi presa
-
-foi presa
-
-Dirigindo uma Mercedes, brasileira atropela sete pessoas e mata duas jovens na Itália
-
-Dirigindo uma Mercedes, brasileira atropela sete pessoas e mata duas jovens na Itália](https://www.tnh1.com.br/noticia/nid/dirigindo-uma-mercedes-brasileira-atropela-sete-pessoas-e-mata-duas-jovens-na-italia/ "Dirigindo uma Mercedes, brasileira atropela sete pessoas e mata duas jovens na Itália")
+Novo episódio: "Territórios do Crime" mostra como traficantes usam dinheiro para promover festas e ostentação](https://www.tnh1.com.br/noticia/nid/novo-episodio-territorios-do-crime-mostra-como-traficantes-usam-dinheiro-para-promover-festas-e-ostentacao/ "Novo episódio: "Territórios do Crime" mostra como traficantes usam dinheiro para promover festas e ostentação ")
 
 [](https://www.tnh1.com.br/ "TNH1 logo")
 
