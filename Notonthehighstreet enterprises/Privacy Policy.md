@@ -360,7 +360,7 @@ Newsletter signup
 
 Subscribe
 
-See our [privacy policy](https://www.notonthehighstreet.com/about/privacy) to understand how we process your personal data to send you marketing emails
+See our [privacy policy](https://www.notonthehighstreet.com/about/privacy) to understand how we process your personal data to send you marketing emails
 
 ### Get the app
 
@@ -378,8 +378,6 @@ Follow us for epic gifts and inspo
 
 [](http://www.facebook.com/notonthehighstreet/ "Facebook")[](http://twitter.com/notonthehighst/ "Twitter")[](http://pinterest.com/notonthehighst/ "Pinterest")[](http://instagram.com/notonthehighstreet/ "Instagram")
 
-#### Shopping with us
-
 * [Delivery information](https://info.notonthehighstreet.com/hc/en-us/articles/360007444693-Delivery-)
 * [Returns and cancellations](https://info.notonthehighstreet.com/hc/en-us/articles/206411168-What-is-your-returns-policy-)
 * [Gift cards](https://www.notonthehighstreet.com/gift-cards)
@@ -387,22 +385,16 @@ Follow us for epic gifts and inspo
 * [Discount and promo codes](https://www.notonthehighstreet.com/about/discounts-promo-codes)
 * [Customer reviews](https://www.notonthehighstreet.com/reviews)
 
-#### Help
-
 * [Frequently asked questions](https://info.notonthehighstreet.com/hc/en-us)
 * [Where’s my order?](https://info.notonthehighstreet.com/hc/en-us/articles/115000990594-My-order-is-overdue-can-I-track-it-)
 * [My Account](https://www.notonthehighstreet.com/user)
 * [Contact us](https://info.notonthehighstreet.com/hc/en-us/articles/207113987-How-do-I-contact-you-)
 * [Contact Seller](https://info.notonthehighstreet.com/hc/en-us/articles/14040370112148-How-do-I-contact-the-Seller-)
 
-#### Useful stuff
-
 * [Who we are](https://www.notonthehighstreet.com/pages/our-story)
 * [Press centre](https://www.notonthehighstreet.com/pages/press-centre)
 * [Careers](https://notonthehighstreet.pinpointhq.com/)
 * [Collab with us](https://notonthehighstreet.grin.live/)
-
-#### For sellers
 
 * [Why sell with us?](https://www.notonthehighstreet.com/pages/why-sell-with-us)
 * [Seller FAQs](https://www.notonthehighstreet.com/join/faqs)
@@ -439,7 +431,7 @@ Follow us for epic gifts and inspo
 
 #### Shopping in
 
-![Country: United Kingdom](https://static-files.notonthehighstreet.com/webapps/shared/img/flags/GB.png)£ GBPChange
+Change
 
 Available payment methods:
 
@@ -455,5 +447,4 @@ Available payment methods:
 * [Privacy and cookies](https://www.notonthehighstreet.com/about/privacy-and-cookies)
 * [Terms and conditions](https://www.notonthehighstreet.com/about/shopper-terms)
 
-* Copyright © 2006-2024
 * Notonthehighstreet Enterprises Limited
