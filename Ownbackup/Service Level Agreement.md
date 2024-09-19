@@ -126,17 +126,17 @@ All Resources](https://www.ownbackup.com/resources)
 
 On The Blog
 
+[Business Continuity
+
+Why You Can’t Afford To Put Off Your Salesforce Continuity Plan Any Longer](https://www.ownbackup.com/blog/why-you-cant-afford-to-put-off-your-salesforce-continuity-plan-any-longer)
+
+[Backup and Recovery
+
+From Sidelines to Lifelines: The Power of Backups in Football and SaaS](https://www.ownbackup.com/blog/from-sidelines-to-lifelines-the-power-of-backups-in-football-and-saas)
+
 [Government
 
-How Agencies Can Build a Compliant and Secure Data Retention Policy](https://www.ownbackup.com/blog/how-agencies-can-build-a-compliant-and-secure-data-retention-policy)
-
-[Own Accelerate
-
-Introducing New Data Seeding Options: Essential, Unlimited, and Sandbox Anonymization](https://www.ownbackup.com/blog/introducing-new-data-seeding-options-essential-unlimited-and-sandbox-anonymization)
-
-[Data Security
-
-Why Cloud Security Strategy is Changing to Prioritise Recovery](https://www.ownbackup.com/blog/why-cloud-security-strategy-is-changing-to-prioritise-recovery)
+How to Protect Your Agency's Cloud Data: Understanding the Shared Responsibility Model](https://www.ownbackup.com/blog/how-to-protect-your-agencys-cloud-data-understanding-the-shared-responsibility-model)
 
 Company
 
@@ -170,7 +170,7 @@ Support & Services](https://www.ownbackup.com/services)
 
 Global Offices
 
-![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/654c0493a0e4d0e5b6c660b4_new-jersey.avif)
+![New Jersey](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/654c0493a0e4d0e5b6c660b4_new-jersey.avif)
 
 New Jersey
 
@@ -178,35 +178,35 @@ New Jersey
 940 Sylvan Ave  
 Englewood Cliffs, NJ 07632
 
-![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/654c04936dc3120db4a8a22b_tel-aviv.avif)
+![Tel Aviv](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/654c04936dc3120db4a8a22b_tel-aviv.avif)
 
 Tel Aviv
 
 Azrieli Sarona Tower - 41st Floor  
 Tel Aviv 6701203, Israel
 
-![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/654c0493e16172db223a8dba_london.avif)
+![London](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/654c0493e16172db223a8dba_london.avif)
 
 London
 
 9 Devonshire Square  
 London, EC2M 4YF
 
-![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/654c0492fa67e96fa3c2c1ab_paris.avif)
+![Paris](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/654c0492fa67e96fa3c2c1ab_paris.avif)
 
 Paris
 
 40 Rue du Colisée,  
 75008 France
 
-![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/654c0493a350fa312c7414eb_san-diego.avif)
+![San Diego](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/654c0493a350fa312c7414eb_san-diego.avif)
 
 San Diego
 
 11455 El Camino Real #300  
 San Diego, CA 92130
 
-![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/654c0493860dbcb3a8d782c8_Hyderabad.avif)
+![Hyderabad](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/654c0493860dbcb3a8d782c8_Hyderabad.avif)
 
 Hyderabad
 
@@ -348,17 +348,17 @@ All Resources](https://www.ownbackup.com/resources)
 
 On The Blog
 
+[Business Continuity
+
+Why You Can’t Afford To Put Off Your Salesforce Continuity Plan Any Longer](https://www.ownbackup.com/blog/why-you-cant-afford-to-put-off-your-salesforce-continuity-plan-any-longer)
+
+[Backup and Recovery
+
+From Sidelines to Lifelines: The Power of Backups in Football and SaaS](https://www.ownbackup.com/blog/from-sidelines-to-lifelines-the-power-of-backups-in-football-and-saas)
+
 [Government
 
-How Agencies Can Build a Compliant and Secure Data Retention Policy](https://www.ownbackup.com/blog/how-agencies-can-build-a-compliant-and-secure-data-retention-policy)
-
-[Own Accelerate
-
-Introducing New Data Seeding Options: Essential, Unlimited, and Sandbox Anonymization](https://www.ownbackup.com/blog/introducing-new-data-seeding-options-essential-unlimited-and-sandbox-anonymization)
-
-[Data Security
-
-Why Cloud Security Strategy is Changing to Prioritise Recovery](https://www.ownbackup.com/blog/why-cloud-security-strategy-is-changing-to-prioritise-recovery)
+How to Protect Your Agency's Cloud Data: Understanding the Shared Responsibility Model](https://www.ownbackup.com/blog/how-to-protect-your-agencys-cloud-data-understanding-the-shared-responsibility-model)
 
 Company
 
@@ -392,7 +392,7 @@ Support & Services](https://www.ownbackup.com/services)
 
 Global Offices
 
-![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/654c0493a0e4d0e5b6c660b4_new-jersey.avif)
+![New Jersey](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/654c0493a0e4d0e5b6c660b4_new-jersey.avif)
 
 New Jersey
 
@@ -400,35 +400,35 @@ New Jersey
 940 Sylvan Ave  
 Englewood Cliffs, NJ 07632
 
-![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/654c04936dc3120db4a8a22b_tel-aviv.avif)
+![Tel Aviv](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/654c04936dc3120db4a8a22b_tel-aviv.avif)
 
 Tel Aviv
 
 Azrieli Sarona Tower - 41st Floor  
 Tel Aviv 6701203, Israel
 
-![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/654c0493e16172db223a8dba_london.avif)
+![London](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/654c0493e16172db223a8dba_london.avif)
 
 London
 
 9 Devonshire Square  
 London, EC2M 4YF
 
-![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/654c0492fa67e96fa3c2c1ab_paris.avif)
+![Paris](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/654c0492fa67e96fa3c2c1ab_paris.avif)
 
 Paris
 
 40 Rue du Colisée,  
 75008 France
 
-![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/654c0493a350fa312c7414eb_san-diego.avif)
+![San Diego](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/654c0493a350fa312c7414eb_san-diego.avif)
 
 San Diego
 
 11455 El Camino Real #300  
 San Diego, CA 92130
 
-![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/654c0493860dbcb3a8d782c8_Hyderabad.avif)
+![Hyderabad](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/654c0493860dbcb3a8d782c8_Hyderabad.avif)
 
 Hyderabad
 
