@@ -5,7 +5,7 @@
 UKC
 ===](https://www.ukclimbing.com/ "Go to homepage")Toggle navigation[](https://www.ukclimbing.com/user/)
 
-[![Advert](https://img.ukclimbing.com/ads/i/12064.jpg?fm=jpg&time=1723474329&w=728&s=a0942ef8af5b176669fb87c1acfd08b3)](https://advertising.ukclimbing.com/click.php?id=12064&uri=4)
+[![Advert](https://img.ukclimbing.com/ads/i/11861.jpg?fm=jpg&time=1701961753&w=728&s=c7eeae4ffef0f9fcf3e9ce601f5b86a2)](https://advertising.ukclimbing.com/click.php?id=11861&uri=4)
 
 Menu Toggle navigation Toggle navigation Toggle navigation Toggle navigation
 
@@ -142,7 +142,7 @@ Learn more about who we are, how you can contact us and how we process personal 
 
 Your consent applies to the following domains: www.ukhillwalking.com, www.ukclimbing.com
 
-[![Advert](https://ukc2.com/ads/b/11984.gif?t=1714551151)](https://advertising.ukclimbing.com/click.php?id=11984&uri=55)
+[![Advert](https://img.ukclimbing.com/ads/b/12065.jpg?fm=jpg&time=1723474378&w=300&s=dfd9133a67b2bca898397b1cfc907f73)](https://advertising.ukclimbing.com/click.php?id=12065&uri=55)
 
 [Advertising on UKC](https://advertising.ukclimbing.com/)
 
