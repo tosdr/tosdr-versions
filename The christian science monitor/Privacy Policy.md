@@ -92,17 +92,17 @@ Behind the news are values that drive people and nations. Explore them here.
 
 Recent Stories
 
-[Generosity
+[Safety
 
-### Reviving the spirit of giving](https://www.csmonitor.com/Commentary/the-monitors-view/2024/0918/Reviving-the-spirit-of-giving "Reviving the spirit of giving")
+### Why Putin’s nuclear saber-rattling on Ukraine sounds different this time](https://www.csmonitor.com/World/Europe/2024/0919/putin-ukraine-war-russia-nuclear-war-ww3 "Why Putin’s nuclear saber-rattling on Ukraine sounds different this time")
 
-[Prosperity
+[Safety
 
-### How an overlooked county landed the new FBI headquarters and tech jobs](https://www.csmonitor.com/USA/2024/0918/prince-george-s-county-maryland-jobs-FBI "How an overlooked county landed the new FBI headquarters and tech jobs")
+### The rumors targeted Haitians. All of Springfield is paying the price.](https://www.csmonitor.com/USA/Education/2024/0919/springfield-ohio-schools-haitian-immigrants-rumors "The rumors targeted Haitians. All of Springfield is paying the price.")
 
-[Fairness
+[Humility
 
-### Special treatment? How judges are handling Trump ahead of election.](https://www.csmonitor.com/USA/Justice/2024/0917/judges-trump-criminal-lawsuits-election "Special treatment? How judges are handling Trump ahead of election.")
+### Humble pivots to a political center](https://www.csmonitor.com/Commentary/the-monitors-view/2024/0919/Humble-pivots-to-a-political-center "Humble pivots to a political center")
 
 [See all News & Values stories](https://www.csmonitor.com/values)
 
@@ -140,11 +140,11 @@ More
 
 Monitor Daily
 
-September 18, 2024
+September 19, 2024
 
-A welcome return
+A collision of hate and love
 
-Today, I want to draw your attention to a name we are very glad to see back on our pages. Dina Kraft has written for us before. It was a natural fit. She is deeply involved in building understanding across divisions in Israel. Several years ago, she participated in a Monitor webinar on respect in the middle of a rocket attack.After working for an Israeli newspaper and on a book about Anne Frank for a few years, she is writing for us again. Today’s article follows her memorable collaboration with Ghada Abdulfattah to show the cost of the war in Gaza on both sides of the border. She tells me, “Now, more than ever, as I look around myself in a region that feels so broken, I see the Monitor mission as a gift to pursue – to report on those people thinking differently about how to approach the seemingly intractable problems that surround us.”
+Nothing serves journalism better than being there, reporting with a sense of place, and speaking with people whose stories have yet to be told. We have a story today from Springfield, Ohio, on the effect of recanted charges of aberrant behavior – claims that have led to the political demonization of a community. Claims that have hurt people – mostly legal residents on Temporary Protected Status and those around them. It’s another deftly executed Monitor piece by a careful writer. It showcases not only the indiscriminate effects of hate and fear – mental terrorism, really – but also the agency of those who are responding with love.
 
 [Listen to or read today's issue](https://www.csmonitor.com/Daily)
 
@@ -158,11 +158,11 @@ Regions
 
 Recent Stories
 
+[### Why Putin’s nuclear saber-rattling on Ukraine sounds different this time](https://www.csmonitor.com/World/Europe/2024/0919/putin-ukraine-war-russia-nuclear-war-ww3 "Why Putin’s nuclear saber-rattling on Ukraine sounds different this time")
+
+[### Pressed by far right, European governments raise barriers to migrants](https://www.csmonitor.com/World/Europe/2024/0919/immigration-europe-tougher-treatment "Pressed by far right, European governments raise barriers to migrants")
+
 [### She’s chubby, wet, and fierce. Meet Moo Deng, a baby hippo and internet darling.](https://www.csmonitor.com/World/Asia-South-Central/2024/0919/moo-deng-pygmy-baby-hippo-thailand "She’s chubby, wet, and fierce. Meet Moo Deng, a baby hippo and internet darling.")
-
-[### In New Hampshire, African refugees get a plot of their own to farm crops from home](https://www.csmonitor.com/USA/2024/0919/african-refugees-local-farming-new-hampshire "In New Hampshire, African refugees get a plot of their own to farm crops from home")
-
-[### What the pager attack in Lebanon means for Israel-Hezbollah conflict](https://www.csmonitor.com/World/Middle-East/2024/0918/exploding-pagers-israel-hezbollah-lebanon-attack "What the pager attack in Lebanon means for Israel-Hezbollah conflict")
 
 * * *
 
