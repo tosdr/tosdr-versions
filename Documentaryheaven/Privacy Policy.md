@@ -128,39 +128,39 @@ Advertisement
     The Beginning and the End of the Universe
     
     Episode 1: The BeginingEmbarking on a cosmic journey, Professor Jim Al-Khalili transports us through the corridors of time to confront science's most profound inquiry: the genesis of the univers...](https://documentaryheaven.com/the-beginning-and-the-end-of-the-universe/ "The Beginning and the End of the Universe")
-* [![The Guantanamo Guidebook](/wp-content/thumbnails/4319-100x70.jpg?x53432)
+* [![The War On Drugs: The Prison Industrial Complex](/wp-content/thumbnails/958-100x70.gif?x53432)
     
-    The Guantanamo Guidebook
+    The War On Drugs: The Prison Industrial Complex
     
-    British Channel 4 engaged the Team Delta Cadre to recreate the Guantanamo Bay interrogation experience.At the production company’s request, along with Team Delta’s normal approach to interrogation...](https://documentaryheaven.com/the-guantanamo-guidebook/ "The Guantanamo Guidebook")
+    The war on drugs has been going on for more than three decades. Today, nearly 500,000 Americans are imprisoned on drug charges. In 1980 the number was 50,000. Last year $40 billion in taxpayer dollars...](https://documentaryheaven.com/the-war-on-drugs-the-prison-industrial-complex/ "The War On Drugs: The Prison Industrial Complex")
 
 ###### Throwback Documentaries
 
-* [![David Attenborough’s Madagascar](/wp-content/thumbnails/6245-100x70.jpg?x53432)
+* [![The Roswell Incident](/wp-content/thumbnails/978-100x70.jpg?x53432)
     
-    David Attenborough’s Madagascar
+    The Roswell Incident
     
-    Episode 1: Island of Marvels Madagascar, the world’s oldest island, broke off from Africa and India and has been on its own for more than 70 million years. In splendid isolation, it has evolved its ve](https://documentaryheaven.com/david-attenboroughs-madagascar/ "David Attenborough’s Madagascar")
-* [![Gaddafi: The Endgame (State of Denial)](/wp-content/thumbnails/8289-100x70.jpg?x53432)
+    Documentary from Channel 4 shown in 1994 about the infamous ‘UFO Crash’ at Roswell in 1947. In the summer of 1947, there were a number of UFO sightings in the United States. Sometime during the first](https://documentaryheaven.com/the-roswell-incident/ "The Roswell Incident")
+* [![Inside the Holocaust](/wp-content/thumbnails/8599-100x70.jpg?x53432)
     
-    Gaddafi: The Endgame (State of Denial)
+    Inside the Holocaust
     
-    It's the end of a dictatorship, the symbols of a dynasty lie smashed and this is whats left after 42 years of Gaddafi's quixotic rule. A new revolution is overthrowing the old at a price. In 1969 he o](https://documentaryheaven.com/gaddafi-endgame-state-denial/ "Gaddafi: The Endgame (State of Denial)")
-* [![The Mary Bell Case](/wp-content/thumbnails/4753-100x70.jpg?x53432)
+    This is a gripping hour and a half special by the History Channel on the horrors of the Holocaust, starting off with the early days of persecution found in Nazi Germany right up until the final a](https://documentaryheaven.com/inside-holocaust/ "Inside the Holocaust")
+* [![A Defeated People](/wp-content/thumbnails/11457-100x70.jpg?x53432)
     
-    The Mary Bell Case
+    A Defeated People
     
-    On 25 May 1968, the day before her 11th birthday, Mary Flora Bell strangled four-year-old Martin Brown. She was believed to have committed this crime alone. Between that time and the second killing, s](https://documentaryheaven.com/the-mary-bell-case/ "The Mary Bell Case")
-* [![Dominion](/wp-content/thumbnails/14316-100x70.jpg?x53432)
+    A Defeated People is a historical short documentary which was released in 1946 by the Crown Film Unit, the film depicts the shattered state of Germany after the second World War, both physically and a](https://documentaryheaven.com/a-defeated-people/ "A Defeated People")
+* [![Dreamville Presents: REVENGE](/wp-content/thumbnails/14618-100x70.jpeg?x53432)
     
-    Dominion
+    Dreamville Presents: REVENGE
     
-    Domination is a feature-length film brought to you by the producer of Earthlings and just like Earthlings it too is narrated by Joaquin Phoenix. Filmed in Austrailia the documentary combines footage f](https://documentaryheaven.com/dominion/ "Dominion")
-* [![Dispatches: The Death Squads](/wp-content/thumbnails/2253-100x70.jpg?x53432)
+    Hip Hop artist J. Cole released his latest album Revenge of The Dreamers III on July 5th (2019), the album was accompanied by a 30 minute documentary Dreamville Presents: REVENGE. A film which pro](https://documentaryheaven.com/dreamville-presents-revenge/ "Dreamville Presents: REVENGE")
+* [![Zero Hour: The Sinking of the Estonia](/wp-content/thumbnails/6639-100x70.png?x53432)
     
-    Dispatches: The Death Squads
+    Zero Hour: The Sinking of the Estonia
     
-    The torture and slaughter of Iraqi civilians is reaching unprecedented heights with estimates of up to 655,000 dead. Night after night death squads rampage through Iraq’s main cities. In Baghdad, up t](https://documentaryheaven.com/dispatches-the-death-squads/ "Dispatches: The Death Squads")
+    The Baltic Sea claimed 852 people’s lives by drowning and freezing them to death in the 8 degree C cold water. Only 95 bodies were ever recovered. The wreck of the Estonia was not salvaged, but sealed](https://documentaryheaven.com/zero-hour-the-sinking-of-the-estonia/ "Zero Hour: The Sinking of the Estonia")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
