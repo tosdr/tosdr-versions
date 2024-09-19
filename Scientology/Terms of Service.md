@@ -216,17 +216,17 @@ Grateful acknowledgment is made to L. Ron Hubbard Library for permission to re
 
 The following are trademarks and service marks owned by Religious Technology Center, Los Angeles, California, USA. These marks are licensed for use by the Church of Scientology International and its affiliated organizations and have been registered in many countries in the world:
 
-Church of Scientology International Corporate Symbol, Hubbard, L. Ron Hubbard, L. Ron Hubbard Signature, LRH, Oxford Capacity Analysis, Dianetics, Dianetics Symbol, Dianetics Symbol in a Circle, Scientology, Scientology Symbol, Scientology Cross (Pointed), Scientology Cross (Rounded) Minister’s Cross, Ron Signature, Saint Hill, Scientology Volunteer Minister Symbol, E-Meter, Flag, Flag Service Organization Corporate Symbol, Freedom Magazine, Freewinds, Freewinds Logo, Scientology Media Productions, Scientology Network Logo, Mark Ultra VIII, Mark Ultra VIII Symbol, Scientology Network ID, Personal Efficiency Course, Scientology Life Improvement, Success Through Communication Course, The Bridge, The Bridge to Total Freedom, Voices for Humanity, Freedom and Scientometric.
+CHURCH OF SCIENTOLOGY INTERNATIONAL corporate symbol, DIANETICS, DIANETICS symbol, DIANETICS symbol within a circle, E-METER, FLAG, FLAG SERVICE ORGANIZATION corporate symbol, FREEDOM magazine, FREEWINDS, FREEWINDS logo, HUBBARD, L. RON HUBBARD, L. RON HUBBARD signature, LRH, MARK ULTRA VIII, MARK ULTRA VIII symbol, OXFORD CAPACITY ANALYSIS, PERSONAL EFFICIENCY COURSE, RON SIGNATURE, SCIENTOLOGY, SCIENTOLOGY CROSS (pointed), SCIENTOLOGY CROSS (rounded) minister’s cross, SCIENTOMETRIC, SCIENTOLOGY LIFE IMPROVEMENT, SCIENTOLOGY MEDIA PRODUCTIONS, SCIENTOLOGY NETWORK logo, SCIENTOLOGY NETWORK ID, SCIENTOLOGY VOLUNTEER MINISTER symbol, SCIENTOLOGY symbol, SUCCESS THROUGH COMMUNICATION COURSE, THE BRIDGE, THE BRIDGE TO TOTAL FREEDOM, VOICES FOR HUMANITY.
 
-The Way to Happiness and the Road & Sun Design are trademarks owned by L. Ron Hubbard Library in the USA and in other countries (trademark registrations issued and other registrations pending) and are used with its permission.
+THE WAY TO HAPPINESS and the “Road & Sun” design are trademarks owned by the L. Ron Hubbard Library in the USA and in other countries (trademark registrations issued and other registrations pending) and are used with its permission.
 
-Truth About Drugs and Foundation for a Drug-Free World Logo are trademarks owned by the Foundation for a Drug-Free World and are used with its permission.
+ABLE, APPLIED SCHOLASTICS, the APPLIED SCHOLASTICS OPEN BOOK design, CRIMINON, the CRIMINON logo, NARCONON, the NARCONON logo and the “Jumping Man” design are trademarks owned by Association for Better Living and Education International and are used with its permission.
 
-Youth for Human Rights, Youth for Human Rights Logo, United for Human Rights and United for Human Rights Logo are trademarks owned by United for Human Rights and are used with its permission.
+CITIZENS COMMISSION ON HUMAN RIGHTS, CCHR and the CCHR logo are trademarks and service marks owned by Citizens Commission on Human Rights and are used with its permission.
 
-Citizens Commission on Human Rights, CCHR and CCHR Logo are trademarks owned by Citizens Commission on Human Rights and are used with its permission.
+UNITED FOR HUMAN RIGHTS, YOUTH FOR HUMAN RIGHTS, the YOUTH FOR HUMAN RIGHTS logo and the UNITED FOR HUMAN RIGHTS logo are trademarks owned by United for Human Rights and are used with its permission.
 
-ABLE, Applied Scholastics, the Applied Scholastics Open Book Design, Criminon, Criminon Logo, Narconon and Narconon “Jumping Man” Logo are trademarks and service marks owned by the Association for Better Living and Education International and are used with its permission.
+TRUTH ABOUT DRUGS and the FOUNDATION FOR A DRUG-FREE WORLD logo are trademarks owned by the Foundation for a Drug-Free World and are used with its permission.
 
 SCIENTOLOGIST is a collective membership mark indicating membership in a church and church membership services of the affiliated Scientology churches and missions.
 
