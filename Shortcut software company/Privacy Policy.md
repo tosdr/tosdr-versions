@@ -452,7 +452,7 @@ Alternatively, get in touch to [Request a Demo](https://shortcut.com/demo)
 
 Features
 
-[Boards](https://shortcut.com/product/boards)[Roadmap](https://shortcut.com/product/roadmap)[Objectives](https://shortcut.com/product/objectives)[Iterations (Sprints)](https://shortcut.com/product/iterations-sprints)[Docs](https://shortcut.com/product/docs)[Reporting](https://shortcut.com/product/reports)[Teams](https://shortcut.com/product/teams)[Automations](https://shortcut.com/product/automations)[Integrations](https://shortcut.com/integrations-old)[REST API Docs](https://developer.shortcut.com/api/rest/v3)[Import from Jira](https://shortcut.com/import/jira)[Import from Trello](https://shortcut.com/import/trello)[Escape the Jiratation](https://shortcut.com/competitors)
+[Boards](https://shortcut.com/product/boards)[Roadmap](https://shortcut.com/product/roadmap)[Objectives](https://shortcut.com/product/objectives)[Iterations (Sprints)](https://shortcut.com/product/iterations-sprints)[Docs](https://shortcut.com/product/docs)[Reporting](https://shortcut.com/product/reports)[Teams](https://shortcut.com/product/teams)[Automations](https://shortcut.com/product/automations)[Integrations](https://shortcut.com/integrations-old)[REST API Docs](https://developer.shortcut.com/api/rest/v3)[Import from Jira](https://shortcut.com/import/jira)[Import from Trello](https://shortcut.com/import/trello)[Import from Pivotal Tracker](https://shortcut.com/import/pivotal-tracker)[Escape the Jiratation](https://shortcut.com/competitors)
 
 Solutions
 
