@@ -26,8 +26,8 @@
     
 * Login
     
-    * [Onlinebanking](https://www.gls-online-filiale.de/services_cloud/portal)
-    * [OnlineInvest](https://gls.anlegen.meininvest.de/dashboard)
+    * [GLS Onlinebanking](https://www.gls-online-filiale.de/services_cloud/portal)
+    * [GLS onlineInvest](https://gls.anlegen.meininvest.de/dashboard)
     
 * Menü
 
