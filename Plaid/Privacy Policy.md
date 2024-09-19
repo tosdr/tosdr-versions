@@ -7633,10 +7633,10 @@ Ready to get started?
 * [Personal finances](https://plaid.com/use-cases/personal-finances/)
 * [Lending](https://plaid.com/use-cases/lending/)
 * [Wealth](https://plaid.com/use-cases/wealth/)
-* [Consumer payments](https://plaid.com/use-cases/consumer-payments/)
+* [Pay by bank](https://plaid.com/pay-by-bank/)
 * [Digital banking](https://plaid.com/use-cases/digital-banking/)
 * [Business finances](https://plaid.com/use-cases/business-finances/)
-* [Customer stories](https://plaid.com/customer-stories/)
+* [Crypto](https://plaid.com/use-cases/crypto/)
 
 * Developers
 * [Quickstart](https://plaid.com/docs/quickstart/)
@@ -7662,6 +7662,7 @@ Ready to get started?
 * [Plaid Blog](https://plaid.com/blog/)
 * [Industry resources](https://plaid.com/resources/)
 * [Annual conference](https://plaid.com/events/threads/)
+* [Customer stories](https://plaid.com/customer-stories/)
 
 * About us
 * [Company](https://plaid.com/company/)
@@ -7680,15 +7681,16 @@ Ready to get started?
 * [Plaid Blog](https://plaid.com/blog/)
 * [Industry resources](https://plaid.com/resources/)
 * [Annual conference](https://plaid.com/events/threads/)
+* [Customer stories](https://plaid.com/customer-stories/)
 
 * Use Cases
 * [Personal finances](https://plaid.com/use-cases/personal-finances/)
 * [Lending](https://plaid.com/use-cases/lending/)
 * [Wealth](https://plaid.com/use-cases/wealth/)
-* [Consumer payments](https://plaid.com/use-cases/consumer-payments/)
+* [Pay by bank](https://plaid.com/pay-by-bank/)
 * [Digital banking](https://plaid.com/use-cases/digital-banking/)
 * [Business finances](https://plaid.com/use-cases/business-finances/)
-* [Customer stories](https://plaid.com/customer-stories/)
+* [Crypto](https://plaid.com/use-cases/crypto/)
 
 * Developers
 * [Quickstart](https://plaid.com/docs/quickstart/)
