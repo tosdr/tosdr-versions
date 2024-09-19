@@ -76,6 +76,10 @@ Search
 
 Search
 
+#### Breaking News
+
+[Cornell professor that cheered Hamas’ Oct. 7 attack sparks more outrage after marching in anti-Israel protest](https://nypost.com/2024/09/19/us-news/cornell-professor-russell-rickford-who-cheered-hamas-oct-7-attack-marches-in-anti-israel-protest/)
+
 Privacy Notice Highlights
 =========================
 
