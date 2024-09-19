@@ -90,11 +90,11 @@ Learn more about our enterprise solution and get a demo from our sales team.](ht
 
 **Read our latest content**
 
-![](https://cdn.prod.website-files.com/65fde10e62e6a7603e92222e/66eb23832a92c7f0801b05b7_join-clearco-partner-program.png)
+![](https://cdn.prod.website-files.com/65fde10e62e6a7603e92222e/66eb2ea718937e2e12b955e1_transimpact-becomes-clearco-approved-vendor.png)
 
-###### Join Clearco’s Partner Program
+###### TransImpact Joins Our Approved Vendor List
 
-[Read now >](https://clear.co/blog/join-clearco-partner-program)
+[Read now >](https://clear.co/blog/transimpact-becomes-clearco-approved-vendor)
 
 [Sign In](http://my.clearbanc.com/login)[Get Funding](http://my.clearbanc.com/signup)
 
