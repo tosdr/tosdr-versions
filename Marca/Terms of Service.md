@@ -1,4 +1,4 @@
-![](https://pixelcounter.marca.com/pixelcontabilizacion/pixelcontabilizacion.gifctl?r=http%3A%2F%2Fwww%2Emarca%2Ecom%2Fcorporativo%2Fterminos%2Dcondiciones%2Duso%2Ehtml&s=marca&d=Zus4FgoAAvYAAABgyEA)
+![](https://pixelcounter.marca.com/pixelcontabilizacion/pixelcontabilizacion.gifctl?r=http%3A%2F%2Fwww%2Emarca%2Ecom%2Fcorporativo%2Fterminos%2Dcondiciones%2Duso%2Ehtml&s=marca&d=ZuuMZwoAAvUAAABhJGM)
 
 * Es noticia:
 * [PSG - Girona](https://www.marca.com/futbol/champions-league/paris-saint-germain-girona/2024/09/18/01_0103_20240918_149_2893-directo.html)
