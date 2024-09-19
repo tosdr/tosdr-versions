@@ -210,11 +210,11 @@ Recently Played
 
 |     |
 | --- |
-| CowgirlsMorgan Wallen Ft Ernest<br><br>5:41pm |
-| Pour Me A DrinkPost Malone Ft Blake Shelton<br><br>5:38pm |
-| Body Like A Back RoadSam Hunt<br><br>5:35pm |
-| Going, Going, GoneLuke Combs<br><br>5:32pm |
-| A Bar Song (Tipsy)Shaboozey<br><br>5:23pm |
+| 4x4xuLainey Wilson<br><br>11:37pm |
+| I Had Some HelpPost Malone Ft Morgan Wallen<br><br>11:34pm |
+| You Make It EasyJason Aldean<br><br>11:31pm |
+| Before He CheatsCarrie Underwood<br><br>11:28pm |
+| Pretty Little PoisonWarren Zeiders<br><br>11:24pm |
 
 [View Full Playlist](https://www.987thebull.com/recently-played)
 
@@ -358,21 +358,21 @@ State
 Featured Brands
 ---------------
 
-[![Latino 106.3 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBMG.png)](https://www.latinosaltlake.com/)
+[![99.7 DJX Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WDJX.png)](https://www.wdjx.com/)
 
-Spanish • Western
+Top 40 • Eastern
 
-[![Panhandle Sports Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/KVWE-Logo-RedBlack-Dk.png)](https://www.panhandlesportsstar.com/)
+[![News-Talk 1480 WHBC Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WHBCAM.png)](https://www.whbc.com/)
 
-Sports • Midwest
-
-[![Live 95.5 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBFF.png)](https://www.live955.com/)
-
-Top 40 • Pacific NW
+News Talk • Eastern
 
 [![Bay Country Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/BayCountry-BothFrequencies-DK%20(2).png)](https://www.kbaycountry.com/)
 
 Country • Western
+
+[![Live 95.5 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBFF.png)](https://www.live955.com/)
+
+Top 40 • Pacific NW
 
 [](https://www.alphamediausa.com/)
 
