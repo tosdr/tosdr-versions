@@ -77,6 +77,7 @@ Verlagsangebote
 
 Anzeigen
 
+* [Podcast: HAW-Professur entdecken](https://www.zeit.de/angebote/zeit-magazin/fh-erfurt/podcast-futurefusion-hawprofessur)
 * [Der Weg zum Marathon](https://www.zeit.de/angebote/zeit-magazin/marathon-is-a-teamsport/index)
 * [Reisepodcast: Überm Berg](https://www.zeit.de/angebote/zeit-magazin/ueberm-berg-reisepodcast/geschichte/index)
 * [Beliebteste Arbeitgeber 2024](https://www.zeit.de/arbeit/angebote/most-wanted-employer/index)
