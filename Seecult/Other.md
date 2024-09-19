@@ -322,11 +322,11 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 
 [Galerija umetnika](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")[](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/zoran-popovic-escapism/zoran-popovic-erotski-crtezi/erotic-drawings/21-skica-za-nerealizovan-enterijer-diskoteke-monokl-u-skadarliji-koju-je-projektovao-arh-ilija.jpg?itok=sAOH_vhi)](http://seecult.org/galerija/galerija-umetnika/zoran-popovic-escapism/zoran-popovic-erotski-crtezierotic-drawings)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/selman-trtovac/ex-nihilo-nihit-fit/otvaranje-08.jpg?itok=H22kZKZ3)](http://seecult.org/galerija/galerija-umetnika/selman-trtovac/ex-nihilo-nihit-fit)
 
 [Foto galerija](http://seecult.org/galerija/foto-galerija "Foto galerija")[](http://seecult.org/galerija/foto-galerija "Foto galerija")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/magacin-u-kraljevica-marka/mag4.jpg?itok=wIOy_wug)](http://seecult.org/galerija/foto-galerija/foto-arhiva/magacin-u-kraljevica-marka)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/35-fest-232-4307/35-fest.jpg?itok=Oak4g_d8)](http://seecult.org/galerija/foto-galerija/foto-arhiva/35-fest-232-4307)
 
 * [Najčitanije](#news_1)
 * [Najnovije](#news_2)
