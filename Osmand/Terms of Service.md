@@ -187,6 +187,7 @@ Telegram chat
 * [Ukrainian](https://t.me/uaosmand)
 * [Polish](https://t.me/osmand_pl)
 * [Spanish](https://t.me/osmand_es)
+* [Brazilian](https://t.me/brosmand)
 * [Arabic](https://t.me/+NwG00ihXJlBjZTA0)
 * [Türkçe](https://t.me/OsmAndTR)
 
