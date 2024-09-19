@@ -36,18 +36,18 @@
         
         Microsoft may have revealed Windows 11 24H2 is coming this month](https://www.bleepingcomputer.com/news/microsoft/microsoft-may-have-revealed-windows-11-24h2-is-coming-this-month/)
     
-    * [![GitLab releases fix for critical SAML authentication bypass flaw](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    * [![Discord rolls out end-to-end encryption for audio, video calls](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        GitLab releases fix for critical SAML authentication bypass flaw](https://www.bleepingcomputer.com/news/security/gitlab-releases-fix-for-critical-saml-authentication-bypass-flaw/)
-    * [![Check out this cybersecurity course bundle before paying for expensive classes](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        Discord rolls out end-to-end encryption for audio, video calls](https://www.bleepingcomputer.com/news/security/discord-rolls-out-end-to-end-encryption-for-audio-video-calls/)
+    * [![Europol takes down ](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Check out this cybersecurity course bundle before paying for expensive classes](https://www.bleepingcomputer.com/offer/deals/check-out-this-cybersecurity-course-bundle-before-paying-for-expensive-classes/)
-    * [![Microsoft may have revealed Windows 11 24H2 is coming this month](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        Europol takes down "Ghost" encrypted messaging platform used for crime](https://www.bleepingcomputer.com/news/security/europol-takes-down-ghost-encrypted-messaging-platform-used-for-crime/)
+    * [![X hacking spree fuels ](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Microsoft may have revealed Windows 11 24H2 is coming this month](https://www.bleepingcomputer.com/news/microsoft/microsoft-may-have-revealed-windows-11-24h2-is-coming-this-month/)
-    * [![Apple pulls iPadOS 18 update bricking M4 iPad Pro devices](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        X hacking spree fuels "$HACKED" crypto token pump-and-dump](https://www.bleepingcomputer.com/news/security/x-hacking-spree-fuels-hacked-crypto-token-pump-and-dump/)
+    * [![Microsoft: Vanilla Tempest hackers hit healthcare with INC ransomware](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Apple pulls iPadOS 18 update bricking M4 iPad Pro devices](https://www.bleepingcomputer.com/news/apple/apple-pulls-ipados-18-update-bricking-m4-ipad-pro-devices/)
+        Microsoft: Vanilla Tempest hackers hit healthcare with INC ransomware](https://www.bleepingcomputer.com/news/microsoft/microsoft-vanilla-tempest-hackers-hit-healthcare-with-inc-ransomware/)
     
 * [Tutorials](https://www.bleepingcomputer.com/tutorials/)
     
@@ -439,15 +439,15 @@ Tel: +1-646-980-4190
 
 Popular Stories
 
+* [![Data Leak](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    Over 1,000 ServiceNow instances found leaking corporate KB data](https://www.bleepingcomputer.com/news/security/over-1-000-servicenow-instances-found-leaking-corporate-kb-data/)
 * [![VMware](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     Broadcom fixes critical RCE bug in VMware vCenter Server](https://www.bleepingcomputer.com/news/security/broadcom-fixes-critical-rce-bug-in-vmware-vcenter-server/)
 * [![Cloudflare](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     Cloudflare outage cuts off access to websites in some regions](https://www.bleepingcomputer.com/news/technology/cloudflare-outage-cuts-off-access-to-websites-in-some-regions/)
-* [![CISA](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    CISA warns of Windows flaw used in infostealer malware attacks](https://www.bleepingcomputer.com/news/security/cisa-warns-of-windows-flaw-used-in-infostealer-malware-attacks/)
 
 ##### Follow us:
 
