@@ -34,11 +34,11 @@ Login Stay logged in
 
 Latest Forum Topics
 
-* [Would you Rather Live in AN or AAN? (… (1,174)](https://forum.nationstates.net/viewtopic.php?t=551538&f=25&view=unread#unread ""Would you Rather Live in AN or AAN? (forced)" (1,174 posts)")
-* [Transformers: Electric Trepidation (7,677)](https://forum.nationstates.net/viewtopic.php?t=548040&f=20&view=unread#unread ""Transformers: Electric Trepidation" (7,677 posts)")
-* [What's your IQ? (212)](https://forum.nationstates.net/viewtopic.php?t=225315&f=20&view=unread#unread ""What's your IQ?" (212 posts)")
-* [What have you learnt after reading th… (5,871)](https://forum.nationstates.net/viewtopic.php?t=504211&f=25&view=unread#unread ""What have you learnt after reading the AN’s factbooks? III" (5,871 posts)")
-* [\[Discussion\] Make GCRs Fun Again (20)](https://forum.nationstates.net/viewtopic.php?t=555448&f=15&view=unread#unread ""[Discussion] Make GCRs Fun Again" (20 posts)")
+* [Taliban Go Psychotic, especially agai… (269)](https://forum.nationstates.net/viewtopic.php?t=554686&f=20&view=unread#unread ""Taliban Go Psychotic, especially against Women" (269 posts)")
+* [What Music Are You Listening to? v18 (10,773)](https://forum.nationstates.net/viewtopic.php?t=534070&f=19&view=unread#unread ""What Music Are You Listening to? v18" (10,773 posts)")
+* [We sell uranium (103)](https://forum.nationstates.net/viewtopic.php?t=540080&f=6&view=unread#unread ""We sell uranium" (103 posts)")
+* [Question to Americans (105)](https://forum.nationstates.net/viewtopic.php?t=555335&f=20&view=unread#unread ""Question to Americans" (105 posts)")
+* [Morality of the future? (72)](https://forum.nationstates.net/viewtopic.php?t=555388&f=20&view=unread#unread ""Morality of the future?" (72 posts)")
 
 Advertisement
 
