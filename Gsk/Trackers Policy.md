@@ -142,6 +142,7 @@ Location
         * [Oceans](https://www.gsk.com/en-gb/responsibility/environment/oceans/)
         * [Atmosphere](https://www.gsk.com/en-gb/responsibility/environment/atmosphere/)
         * [Materials and waste](https://www.gsk.com/en-gb/responsibility/environment/materials-and-waste/)
+        * [Health system sustainability](https://www.gsk.com/en-gb/responsibility/environment/health-system-sustainability/)
         
     * [Diversity, equity and inclusion](https://www.gsk.com/en-gb/responsibility/diversity-equity-and-inclusion/)
     * [Ethical standards](https://www.gsk.com/en-gb/responsibility/ethical-standards/)
