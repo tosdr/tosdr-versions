@@ -201,12 +201,6 @@ Terms of Use
 
 [12th September 2024](https://southwarknews.co.uk/area/peckham/jamaican-patties-made-by-peckham-duo-will-now-be-sold-permanently-in-aldi/)
 
-[![Femi Azeez and Neil Harris. Image: Millwall FC](https://southwarknews.co.uk/wp-content/uploads/2024/08/BAT_3135-2024-08-24T20_26_38.968-120x86.jpg)](https://southwarknews.co.uk/sport/football/millwall/i-want-to-be-coached-by-that-guy-millwall-attacker-gives-insight-into-drawn-out-transfer/)
-
-### [‘I want to be coached by that guy’ – Millwall attacker gives insight into drawn-out transfer](https://southwarknews.co.uk/sport/football/millwall/i-want-to-be-coached-by-that-guy-millwall-attacker-gives-insight-into-drawn-out-transfer/)
-
-[12th September 2024](https://southwarknews.co.uk/sport/football/millwall/i-want-to-be-coached-by-that-guy-millwall-attacker-gives-insight-into-drawn-out-transfer/)
-
 [![Injured Josh Coburn. Image: Millwall FC](https://southwarknews.co.uk/wp-content/uploads/2024/09/Coburn-injury-vs-Luton-120x86.jpeg)](https://southwarknews.co.uk/sport/football/millwall/millwall-boss-gives-verdict-after-replacement-striker-inches-away-from-first-lions-goal/)
 
 ### [Millwall boss gives verdict after replacement striker inches away from first Lions goal](https://southwarknews.co.uk/sport/football/millwall/millwall-boss-gives-verdict-after-replacement-striker-inches-away-from-first-lions-goal/)
@@ -224,6 +218,12 @@ Terms of Use
 ### [Wetherspoons to open pub in former London Dungeon](https://southwarknews.co.uk/area/borough/wetherspoons-to-open-pub-in-former-london-dungeon/)
 
 [17th September 2024](https://southwarknews.co.uk/area/borough/wetherspoons-to-open-pub-in-former-london-dungeon/)
+
+[![](https://southwarknews.co.uk/wp-content/uploads/2024/09/Leahy-120x86.jpeg)](https://southwarknews.co.uk/sport/football/millwall/millwall-manager-discusses-call-back-option-for-on-loan-striker/)
+
+### [Millwall manager discusses call-back option for on-loan striker](https://southwarknews.co.uk/sport/football/millwall/millwall-manager-discusses-call-back-option-for-on-loan-striker/)
+
+[18th September 2024](https://southwarknews.co.uk/sport/football/millwall/millwall-manager-discusses-call-back-option-for-on-loan-striker/)
 
 [![Christine Rixon, 75, and Paul Rixon, 76, shown on Bromley High Street.
 Photo by  Joe Coughlan.](https://southwarknews.co.uk/wp-content/uploads/2024/09/Christine-and-Paul-Rixon-120x86.jpg)](https://southwarknews.co.uk/area/south-london/pensioners-in-south-london-disgusted-by-governments-cut-to-winter-fuel-payments/)
