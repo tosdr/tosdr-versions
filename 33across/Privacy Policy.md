@@ -318,23 +318,7 @@ Support
 
 ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
-![](https://www.33across.com/wp-content/uploads/2024/08/33Across_MarTech_Breakthrough_Awards_Badge_2024.png)
-
-![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-
-![](https://www.33across.com/wp-content/uploads/2021/04/33Across_MarTech_Breakthrough_Awards_Badge_2023.png)
-
-![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-
-![](https://www.33across.com/wp-content/uploads/2021/04/33Across_OAREX_Top-Payor-Badge-2023-BW.png)
-
-![2022 MarTech Breakthrough Awards badge](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-
-![2022 MarTech Breakthrough Awards badge](https://www.33across.com/wp-content/uploads/2021/04/33Across_MarTech_Breakthrough_Awards_Badge_2022-BW.png)
-
-![2021 Cynopsis Digital badge](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-
-![2021 Cynopsis Digital badge](https://www.33across.com/wp-content/uploads/2021/04/33Across_CYN-It-List-social-badge_2021-WINNER_White.png)
+![](https://www.33across.com/wp-content/uploads/2024/09/33Across_OAREX_Top-Payor-Badge-2024-BW.png)
 
 ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
@@ -352,9 +336,25 @@ Support
 
 ![2022 MarTech Breakthrough Awards badge](https://www.33across.com/wp-content/uploads/2021/04/33Across_MarTech_Breakthrough_Awards_Badge_2022-BW.png)
 
-![2021 Cynopsis Digital badge](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
-![2021 Cynopsis Digital badge](https://www.33across.com/wp-content/uploads/2021/04/33Across_CYN-It-List-social-badge_2021-WINNER_White.png)
+![](https://www.33across.com/wp-content/uploads/2024/09/33Across_OAREX_Top-Payor-Badge-2024-BW.png)
+
+![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![](https://www.33across.com/wp-content/uploads/2024/08/33Across_MarTech_Breakthrough_Awards_Badge_2024.png)
+
+![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![](https://www.33across.com/wp-content/uploads/2021/04/33Across_MarTech_Breakthrough_Awards_Badge_2023.png)
+
+![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![](https://www.33across.com/wp-content/uploads/2021/04/33Across_OAREX_Top-Payor-Badge-2023-BW.png)
+
+![2022 MarTech Breakthrough Awards badge](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![2022 MarTech Breakthrough Awards badge](https://www.33across.com/wp-content/uploads/2021/04/33Across_MarTech_Breakthrough_Awards_Badge_2022-BW.png)
 
   
 
