@@ -300,7 +300,7 @@ Close
 
 #### Privacy Overview
 
-Customize your consent preferences for Cookie Categories and advertising tracking preferences for Purposes & Features and Vendors below. You can give granular consent for each Third Party Vendor. Most vendors require explicit consent for personal data processing, while some rely on legitimate interest. However, you have the right to object to their use of legitimate interest.
+Customize your consent preferences for Cookie Categories and advertising tracking preferences for Purposes & Features and Vendors below. You can give granular consent for each Third Party Vendor and Google Ad Tech Provider. Most vendors require explicit consent for personal data processing, while some rely on legitimate interest. However, you have the right to object to their use of legitimate interest.
 
 Cookie Categories Purposes & Features Vendors
 
@@ -622,5 +622,9 @@ Number of Vendors seeking consent:
 Third Party Vendors
 
  vendors
+
+Google Ad Tech Providers
+
+ google-vendors
 
 Reject All Save My Preferences Accept All
