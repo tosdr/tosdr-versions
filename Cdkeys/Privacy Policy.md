@@ -560,7 +560,7 @@ To view games that are valid in your region ‘%1’, click here
     
     **[Minecraft: Java & Bedrock Edition PC (WW)](https://www.cdkeys.com/pc/minecraft-java-bedrock-edition-pc-ww "Minecraft: Java & Bedrock Edition PC (WW)")**
     
-    Special Price $12.89 RRP $32.89
+    Special Price $12.89 RRP $32.99
     
     [Add to Wish List](# "Add to Wish List")
     
@@ -580,7 +580,7 @@ To view games that are valid in your region ‘%1’, click here
     
     **[Warhammer 40,000: Space Marine 2 PC](https://www.cdkeys.com/pc/warhammer-40-000-space-marine-2-pc-steam "Warhammer 40,000: Space Marine 2 PC")**
     
-    Special Price $50.99 RRP $72.29
+    Special Price $50.99 RRP $72.59
     
     [Add to Wish List](# "Add to Wish List")
     
@@ -600,7 +600,7 @@ To view games that are valid in your region ‘%1’, click here
     
     **[EA Sports FC 24 - 5900 FC Points PC](https://www.cdkeys.com/pc/ea-sports-fc-24-5900-fc-points-pc-ea-app "EA Sports FC 24 - 5900 FC Points PC")**
     
-    Special Price $36.79 RRP $59.79
+    Special Price $36.99 RRP $60.09
     
     [Add to Wish List](# "Add to Wish List")
     
@@ -610,7 +610,7 @@ To view games that are valid in your region ‘%1’, click here
     
     **[EA Sports FC 24 - 12000 FC Points PC](https://www.cdkeys.com/pc/ea-sports-fc-24-12000-fc-points-pc-ea-app "EA Sports FC 24 - 12000 FC Points PC")**
     
-    Special Price $76.29 RRP $115.69
+    Special Price $76.59 RRP $116.19
     
     [Add to Wish List](# "Add to Wish List")
     
@@ -630,7 +630,7 @@ To view games that are valid in your region ‘%1’, click here
     
     **[FINAL FANTASY XVI PC](https://www.cdkeys.com/pc/final-fantasy-xvi-pc-steam "FINAL FANTASY XVI PC")**
     
-    Special Price $43.79 RRP $59.19
+    Special Price $43.89 RRP $59.39
     
     [Add to Wish List](# "Add to Wish List")
     
@@ -640,7 +640,7 @@ To view games that are valid in your region ‘%1’, click here
     
     **[FINAL FANTASY XVI COMPLETE EDITION PC](https://www.cdkeys.com/pc/final-fantasy-xvi-complete-edition-pc-steam "FINAL FANTASY XVI COMPLETE EDITION PC")**
     
-    Special Price $61.09 RRP $85.49
+    Special Price $61.39 RRP $85.79
     
     [Add to Wish List](# "Add to Wish List")
     
