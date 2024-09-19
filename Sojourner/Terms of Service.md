@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-78a4825d17d633590dfa8a72134f732f
+aced7be98e9b3e0e8f93e8c12a3f2a60
 
 [](# "Expand for more options")[](# "Search")
 
@@ -142,11 +142,11 @@ Terms and Conditions
 
 ### Featured Product
 
-[![6 mm red heart beads](https://sojourner.biz/images/cache/glass/HRT005.200.jpg)](https://sojourner.biz/beads/glass/6-mm-red-heart-beads.html "6 mm red heart beads")
+[![Deep blue clasp](https://sojourner.biz/images/cache/SKU0067front.200.jpg)](https://sojourner.biz/clasps/glass/deep-blue-clasp.html "Deep blue clasp")
 
-#### [6 mm red heart beads](https://sojourner.biz/beads/glass/6-mm-red-heart-beads.html "6 mm red heart beads")
+#### [Deep blue clasp](https://sojourner.biz/clasps/glass/deep-blue-clasp.html "Deep blue clasp")
 
-$2.00
+$36.00
 
 ### Best Sellers
 
