@@ -143,14 +143,16 @@ Unless Sovrn is prohibited from doing so, or there is a clear indication of ille
 
 #### **Where To Send Requests**
 
-Requests should be sent to compliance \[at\] sovrn \[dot\] com. You may also use this email address for questions to Sovrn about this policy, though it is important to recognize that Sovrn cannot provide legal advice to Requestors. Please allow at least two (2) weeks for Sovrn to respond to your request. Sovrn may need additional time to respond to certain requests. In these cases, we will notify you and request additional time to prepare our response. Emails from any private person or entity or non-governmental email address may not receive a response.
+Requests should be sent to compliance@sovrn.com. You may also use this email address for questions to Sovrn about this policy, though it is important to recognize that Sovrn cannot provide legal advice to Requestors. Please allow at least two (2) weeks for Sovrn to respond to your request. Sovrn may need additional time to respond to certain requests. In these cases, we will notify you and request additional time to prepare our response. Emails from any private person or entity or non-governmental email address may not receive a response.
 
 Sovrn will also accept service of process at the following address:
 
 **Sovrn, Inc.  
 **Attn: Legal Department  
-5541 Central Ave, Suite 100  
-Boulder, CO 80301
+1600 Pearl St  
+Second Floor  
+Boulder, CO 80302  
+United States
 
 While we agree to accept service of law enforcement requests by these methods, neither Sovrn nor our Sovrn Partners waive any legal rights based on this accommodation.
 
