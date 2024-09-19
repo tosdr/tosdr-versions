@@ -1,4 +1,4 @@
-Wednesday, September 18 2024
+Thursday, September 19 2024
 
 Breaking News
 
@@ -177,16 +177,16 @@ Recent Posts
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
 
+* [New anti-gun group focused on state legislatures](https://www.thegunpage.com/new-anti-gun-group-focused-on-state-legislatures/10610667)
+* [NRA’s Tenacity Keeps Competition Alive In Uncertain Times: 1942-1953 National Matches](https://www.thegunpage.com/nras-tenacity-keeps-competition-alive-in-uncertain-times-1942-1953-national-matches/10610666)
+* [TFB Review: The $300 Meprolight MMX3 Magnifier](https://www.thegunpage.com/tfb-review-the-300-meprolight-mmx3-magnifier/10610662)
+* [POTD: British SA80A3 With SMASH Smart Weapon Sight](https://www.thegunpage.com/potd-british-sa80a3-with-smash-smart-weapon-sight/10610663)
 * [Fox News Report: Harris Said LEOs Could Enter Homes To Check Gun Storage](https://www.thegunpage.com/fox-news-report-harris-said-leos-could-enter-homes-to-check-gun-storage/10610661)
+* [Wheelgun Wednesday: Suppressed Revolver? M1895 Nagant](https://www.thegunpage.com/wheelgun-wednesday-suppressed-revolver-m1895-nagant/10610664)
 * [FPC, SAF Petition Supreme Court To Address Circuit Split In Delaware AWB Cases](https://www.thegunpage.com/fpc-saf-petition-supreme-court-to-address-circuit-split-in-delaware-awb-cases/10610659)
 * [Vote For 6-Month CR + SAVE Act](https://www.thegunpage.com/vote-for-6-month-cr-save-act/10610657)
 * [Defensive Shooting at Funeral Home Leads to Quick Arrangements, No Arraignment](https://www.thegunpage.com/defensive-shooting-at-funeral-home-leads-to-quick-arrangements-no-arraignment/10610653)
 * [Rossi Introduces Straight Wall Caliber Options For R95 Lever Gun](https://www.thegunpage.com/rossi-introduces-straight-wall-caliber-options-for-r95-lever-gun/10610655)
-* [Griffin Armament Announces New Sportsman Ultra Light HD Hunting Can](https://www.thegunpage.com/griffin-armament-announces-new-sportsman-ultra-light-hd-hunting-can/10610656)
-* [Best Cleaning Kits to Keep Your Guns Running Smoothly](https://www.thegunpage.com/best-cleaning-kits-to-keep-your-guns-running-smoothly/10610649)
-* [New Zealand To Host 2025 World Action Pistol Championships](https://www.thegunpage.com/new-zealand-to-host-2025-world-action-pistol-championships/10610658)
-* [Kimber Announces The New R7 Mako Carbon Compact](https://www.thegunpage.com/kimber-announces-the-new-r7-mako-carbon-compact/10610644)
-* [Date Set For Court Review Of Florida’s Young Adult Gun Purchase Ban](https://www.thegunpage.com/date-set-for-court-review-of-floridas-young-adult-gun-purchase-ban/10610640)
 
 [![ Conservative Political Blogs](https://blog.feedspot.com/wp-content/uploads/2016/12/conservative_political_216px.png?x58297)](https://blog.feedspot.com/conservative_political_blogs/ "Conservative Political Blogs")
 
