@@ -1,4 +1,4 @@
-[![FOSS Linux](https://b1490832.smushcdn.com/1490832/wp-content/uploads/2020/01/fl_logo_v3_footer.png?lossy=2&strip=1&webp=1)](https://www.fosslinux.com/)
+[![FOSS Linux](https://b1490832.smushcdn.com/1490832/wp-content/uploads/2020/01/fl_logo_v3.png?lossy=2&strip=1&webp=1)](https://www.fosslinux.com/)
 
 * [Beginner’s Guide](https://www.fosslinux.com/category/beginners-guide)
 * [Terminal Tuts](https://www.fosslinux.com/category/terminal-tuts)
@@ -62,7 +62,7 @@
 
 [](#)
 
-[![FOSS Linux](https://b1490832.smushcdn.com/1490832/wp-content/uploads/2020/01/fl_logo_v3_footer.png?lossy=2&strip=1&webp=1)](https://www.fosslinux.com/)
+[![FOSS Linux](https://b1490832.smushcdn.com/1490832/wp-content/uploads/2020/01/fl_logo_v3.png?lossy=2&strip=1&webp=1)](https://www.fosslinux.com/)
 
 [](https://www.facebook.com/fosslinux/)[](mailto:admin@fosslinux.com)[](#)
 
@@ -166,7 +166,7 @@ ALL RIGHTS RESERVED.
 
 [](#)
 
-[![FOSS Linux](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20200%2040'%3E%3C/svg%3E)](https://www.fosslinux.com/)
+[![FOSS Linux](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201000%20200'%3E%3C/svg%3E)](https://www.fosslinux.com/)
 
 [](https://www.facebook.com/fosslinux/)[](mailto:admin@fosslinux.com)[](#)
 
@@ -189,7 +189,7 @@ ALL RIGHTS RESERVED.
 
 [](#)
 
-[![FOSS Linux](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20200%2040'%3E%3C/svg%3E)](https://www.fosslinux.com/)
+[![FOSS Linux](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201000%20200'%3E%3C/svg%3E)](https://www.fosslinux.com/)
 
 * [Beginner’s Guide](https://www.fosslinux.com/category/beginners-guide)
 * [Terminal Tuts](https://www.fosslinux.com/category/terminal-tuts)
