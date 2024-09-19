@@ -208,21 +208,21 @@ Turn Your Curiosity Into Discovery
 
 Latest Facts
 
-[![35 Facts About Dallol Ethiopia ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22100%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/earth-and-life-science/earth-sciences/35-facts-about-dallol-ethiopia/)
+[![37 Facts About Venatio ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22113%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/general/37-facts-about-venatio/)
 
-Earth Sciences
+General
 
-18 Sep 2024
+19 Sep 2024
 
-[35 Facts About Dallol Ethiopia](https://facts.net/earth-and-life-science/earth-sciences/35-facts-about-dallol-ethiopia/)
+[37 Facts About Venatio](https://facts.net/general/37-facts-about-venatio/)
 
-[![30 Facts About Visualization Cam ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22100%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/science/technology/30-facts-about-visualization-cam/)
+[![30 Facts About Monicagate ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%2299%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/history/30-facts-about-monicagate/)
 
-Technology
+History
 
-18 Sep 2024
+19 Sep 2024
 
-[30 Facts About Visualization Cam](https://facts.net/science/technology/30-facts-about-visualization-cam/)
+[30 Facts About Monicagate](https://facts.net/history/30-facts-about-monicagate/)
 
 [Home](https://facts.net/) [Privacy Policy](https://facts.net/privacy-policy/)
 
