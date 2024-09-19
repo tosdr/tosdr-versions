@@ -14,7 +14,34 @@ Force Open Search
 
 Open main menu
 
-Loading...
+![](https://assets.atlasobscura.com/assets/hermes/aoa_logo_aon-fb53a8d4415047286c25915bdbbdf3721acc39fd90bd71bf7712345c0096a45b.svg)
+
+Take your next trip with Atlas Obscura!
+---------------------------------------
+
+Our small-group adventures are inspired by our Atlas of the world's most fascinating places, the stories behind them, and the people who bring them to life.
+
+[Visit Adventures](https://www.atlasobscura.com/adventures/)
+
+Trips Highlight
+
+   [![Egypt - Abu Simbel](https://img.atlasobscura.com/zmL_8N1QLi_bg4azbHqED4RVtZOZrf_l2Nzm9hkOaV8/rs:fill:256:192/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2V2ZW50/X2ltYWdlcy9lOWVl/Mjg5Yy1jY2I4LTRm/ZjgtOTgxYy1kNmM3/ZWNhNTI0N2YyYjg3/MWUxYWQwYWZmYTk5/MDdfRWd5cHQgMSAt/IEFidSBTaW1iZWwu/cG5n.png)](https://www.atlasobscura.com/adventures/trips/egypt)
+
+Egypt • 11 days, 10 nights
+
+[Treasures of Egypt: Hidden Tombs, Ancient Pyramids & Old Cairo](https://www.atlasobscura.com/adventures/trips/egypt)
+
+from
+
+   [![New Zealand, South Island, Wanaka](https://img.atlasobscura.com/knTC-fD-tJhZigIK456j_esuV2jEb8sBH855Yw3DJmA/rs:fill:256:192/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2V2ZW50/X2ltYWdlcy8yYThk/NTNkOS0wZTQyLTQ1/MjAtOWFkNC02Yzlj/NGFjNDUwMWUxYWJm/ZThmZTc2OGViYzNh/Y2RfR2V0dHlJbWFn/ZXMtMTA5MDcwNTUx/Ni5qcGc.jpg)](https://www.atlasobscura.com/adventures/trips/new-zealand)
+
+New Zealand • 12 days, 11 nights
+
+[Wild New Zealand: Exploring the North & South Islands](https://www.atlasobscura.com/adventures/trips/new-zealand)
+
+from
+
+[View all trips](https://www.atlasobscura.com/adventures/trips)
 
 Upcoming Experiences
 
@@ -118,21 +145,21 @@ Latest Places
 
 [View All Places »](https://www.atlasobscura.com/places?sort=published_at)
 
-   [![](https://img.atlasobscura.com/x3NZv2zbrC0aVzr7hecd159QN452qjG3ngBb3s5pdKY/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy8yNmM4/NTA5Mi0xMjM5LTQw/NzMtYTE5My01NjZj/ZTY2ODQ1YjRjYzFm/N2IzZTg1MGM5NDAz/M2VfSU1HXzM2Mzku/anBlZw.jpg)
+   [![](https://img.atlasobscura.com/VsVAoQ6rp4jK0sX_WeNMNUN54JZNr1sApYnhAJneZsY/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy9mNzAz/MWY0ZS1lN2QyLTQ1/YmQtOGNiOC1hNWQ4/MmQxMGM5MDE4Zjc3/NDJkODVjNzkyOGEz/OGFfRFNDXzAzOTku/anBlZw.jpg)
 
-Lavenham Guildhall](https://www.atlasobscura.com/places/lavenham-guildhall)
+‘Shake Hands With Lima-chan’](https://www.atlasobscura.com/places/shake-hands-with-lima-chan)
 
-   [![The sushi memorial at Namiyoke Shrine remembers the spirits of the seafood that made your lunch.](https://img.atlasobscura.com/jxfRj0Wnbf3GhWM-MbKK33Gs6g35RUXZ5adSLKuInXk/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy9mOTcx/YTU4Mi1iMjdlLTRh/OTUtOGE5Mi01YjIy/ZmJlODM1Njg3NjM0/NjliMThmMjI3ZWFm/MTdfRFNDXzAxNTcu/anBlZw.jpg)
+   [![Mini-sculpture on display](https://img.atlasobscura.com/I7AJC1MzbVjqQ3baYwAP35ICfzd86HebHgFJJDeRorY/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy9jZTRk/Yjk0ZS1mMzBiLTQx/MjUtYjIxNi05NGRm/OTM5OGZmMWU5MDdi/YmUwY2YwMjJhYTY3/MjZfNTM1ODA3MTAz/NTFfYTNjZjQ0OWQ1/ZV9rLmpwZw.jpg)
 
-Sushi Memorials at Namiyoke Shrine](https://www.atlasobscura.com/places/sushi-memorials-at-namiyoke-shrine)
+Miniatures of Isaac Cordal](https://www.atlasobscura.com/places/miniatures-of-isaac-cordal-namur)
 
-   [![](https://img.atlasobscura.com/RZwxkPbQqcqLgwSgNZOrEELqkwgl122ft4e9WcgjLcM/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy9jNzA1/YzM3Zi03Y2QyLTQ3/MmItYjZjYi02YTRk/NDY3OTY3MTk5NjIz/YjBhYWE1ZWMxMGU5/ZWJfMjAyNDA3MjRf/MDk1NzIwLmpwZw.jpg)
+   [![](https://img.atlasobscura.com/FaGcKO9AgOyDd4iSJv96pEO2C-mF5gfabb9UfLnJW14/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy9mN2Rh/N2RmNi01NmRmLTQ1/MjctYmMzOS00OTdk/ZmRlMDg5MWY1ZTI5/YWViZWY4OGJkMWY2/MWJfSU1HXzIwMjMw/NzIwXzExMzM1My5q/cGc.jpg)
 
-The Cloth Hall Knife](https://www.atlasobscura.com/places/the-cloth-hall-knife)
+Soufflaculs de Nontron](https://www.atlasobscura.com/places/les-soufflaculs-de-nontron)
 
-   [![Roast goose, it's what Kam's does.](https://img.atlasobscura.com/rJBeF7wi5O88rTJD-BnDP2Ce6065kg-CIU6W6rYuTZ0/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy8yMjkw/Y2M5My02ZjY5LTQ2/ZGEtOTA2OC0xNzA0/Yzc2ZmFjOWM2Y2Yx/MmNiMWY5MjBmZjdh/ZGRfa2FtICgzKS5q/cGc.jpg)
+   [![The new Panel 36 on display.](https://img.atlasobscura.com/wPcmdWWms4WMeVSJKWSTwf0TZCdJ3MYfqTNb6boS524/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy8wMTE2/ZjY4YS0xNzdmLTQz/MWItOTQyNC05MjRh/NDk2ODJjYTJiMzQy/ZGVhZGJlYzk5MmRm/OTBfdGFwICg0KS5q/cGc.jpg)
 
-Kam's Roast Goose](https://www.atlasobscura.com/places/kams-roast-goose)
+Panel 36 (Rosslyn Chapel)](https://www.atlasobscura.com/places/panel-36-rosslyn-chapel)
 
 Latest Places to Eat & Drink
 
@@ -166,6 +193,10 @@ Most Recent Stories
 
 [View All Stories »](https://www.atlasobscura.com/articles)
 
+   [![The world of competitive pumpkin growing has come a long way since 1901, when this giant pumpkin weighed a mere 91 pounds.](https://img.atlasobscura.com/2oOxtwYp0bV3yUxPwhX54Wzd4N3J_dFSvf203dumhbg/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2Fzc2V0/cy9lMjRmNTY3OC1i/ZjE2LTRlMzAtOWY2/NS1jOTgzMzNkNjlk/MDRmNTQxMTNlMmEw/MTVlZjNiNmJfZWMx/MWQzNzA2ZWZlNmM2/MWEyXzU5MzgwOTcy/NDVfM2M0ZmZlYzE1/ZV9vLmpwZw.jpg)
+
+5 Stories to Make You Fall in Love With Autumn](https://www.atlasobscura.com/articles/fall-for-autumn-stories)
+
    [![The annual pipe walk (shown in red) moves north from the ancient well, through neighborhoods and Victoria Park, before veering west to follow a 19th-century diversion.](https://img.atlasobscura.com/-lysB45Vf0mA1yzZAfVKD9KGr-PGZbAhj1MuYhzNg6Y/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2Fzc2V0/cy83MTQ3OTg2MDVm/NmFkYzYxMThfQ291/cnNlIG9mIHRoZSB3/YWxrIGNyb3AucG5n.png)
 
 This Annual Pipe Walk Maps a Medieval Tradition in Bristol](https://www.atlasobscura.com/articles/st-mary-redcliffe-pipe-walk-bristol)
@@ -177,10 +208,6 @@ This Annual Pipe Walk Maps a Medieval Tradition in Bristol](https://www.atlasobs
    [![While you’re searching for birds at Corkscrew Swamp Sanctuary, don’t forget to look down where you’re likely to see alligators navigating the water beneath the 2.25-mile boardwalk that winds through the swamp. ](https://img.atlasobscura.com/Mbb5kMHYS1CgtRCB5E62_5loXAhFyMM6TbpCWvvvyWs/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2Fzc2V0/cy85NzEwNmU3Njdl/MGUyMGQ3NDFfc2h1/dHRlcnN0b2NrXzIz/NzY0MTM3MDMuanBn.jpg)
 
 A Field Guide to Exploring Florida’s Best Birding Spots](https://www.atlasobscura.com/articles/a-field-guide-to-exploring-florida-s-best-birding-spots)
-
-   [![Named for the Calusa Indians, known as Florida’s “water people,” the Great Calusa Blueway is a 190-mile saltwater paddling trail. ](https://img.atlasobscura.com/o3MGLMkj3hREW07DIHScHJWPjwfVr4DkImRqeA0RRzM/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2Fzc2V0/cy8zMmEzYmM1ZTQw/NmVjMzljMDBfR3Jl/YXQgQ2FsdXNhIEJs/dWV3YXkgLSBGb290/YWdlIFN0aWxsIC0g/S2F5YWtpbmcgT3Zl/cmhlYWQgNC5qcGc.jpg)
-
-Mangroves, Manatees, and More: Florida’s Stunning Paddle Destinations](https://www.atlasobscura.com/articles/mangroves-manatees-and-more-florida-s-stunning-paddle-destinations)
 
 No search results found for  
 “”
