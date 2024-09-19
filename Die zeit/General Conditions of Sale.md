@@ -53,20 +53,20 @@ ZEIT Shop
 
 Studium
 
-* [HeyStudium](https://studiengaenge.zeit.de/?wt_zmc=fix.int.zonpmr.zeitde.topnav.suma.link.x.x&utm_medium=fix&utm_source=zeitde_zonpmr_int&utm_campaign=topnav&utm_content=suma_link_x_x)
-* [Studium-Interessentest](https://studiengaenge.zeit.de/sit?wt_zmc=fix.int.zonpmr.zeitde.topnav.sit.link.x.x&utm_medium=fix&utm_source=zeitde_zonpmr_int&utm_campaign=topnav&utm_content=sit_link_x_x)
-* [Suchmaschine für Studiengänge](https://studiengaenge.zeit.de/?wt_zmc=fix.int.zonpmr.zeitde.topnav.suma.link.x.x&utm_medium=fix&utm_source=zeitde_zonpmr_int&utm_campaign=topnav&utm_content=suma_link_x_x)
-* [Hochschulranking](https://studiengaenge.zeit.de/ranking?wt_zmc=fix.int.zonpmr.zeitde.topnav.che.link.x.x&utm_medium=fix&utm_source=zeitde_zonpmr_int&utm_campaign=topnav&utm_content=che_link_x_x)
-* [BOA Berufstest](https://berufstest.zeit.de/?wt_zmc=fix.int.zonpmr.zeitde.topnav.bot.link.x.x&utm_medium=fix&utm_source=zeitde_zonpmr_int&utm_campaign=topnav&utm_content=bot_link_x_x)
+* [HeyStudium](https://studiengaenge.zeit.de/)
+* [Studium-Interessentest](https://studiengaenge.zeit.de/sit)
+* [Suchmaschine für Studiengänge](https://studiengaenge.zeit.de/studienangebote?suche=)
+* [Hochschulranking](https://studiengaenge.zeit.de/ranking)
+* [BOA Berufstest](https://berufstest.zeit.de/)
 
 Karriere
 
 * [Jobs im ZEIT ONLINE Stellenmarkt](https://jobs.zeit.de/)
 * [BOA Berufstest](https://boa.zeit.de/)
-* [academics](https://academics.de/)
-* [academics.com](https://academics.com/)
+* [academics](https://www.academics.de/)
+* [academics.com](https://www.academics.com/)
 * [GoodJobs](https://goodjobs.eu/)
-* [e-fellows.net](https://e-fellows.net/)
+* [e-fellows.net](https://www.e-fellows.net/)
 
 Verlagsangebote
 
