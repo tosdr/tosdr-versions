@@ -195,9 +195,9 @@
     * [SoloCam S340
         
         Dual-Cam, Solar Power, Color Night Vision](https://us.eufy.com/products/t81701w1?ref=navimenu_2_1_2_img)
-    * [Smart Lock C33
+    * [eufy Smart Lock E30
         
-        NEW, Grip and Unlock](https://us.eufy.com/products/t85l0111?ref=navimenu_2_1_3_img)
+        Your home, your rules. eufy Lock.](https://us.eufy.com/products/t85f1111?ref=navimenu_2_1_3_img)
     * [Floodlight Camera E340
         
         NEW, Dual-Cam, 360° Coverage](https://us.eufy.com/products/t8425121?ref=navimenu_2_1_4_img)
@@ -440,11 +440,11 @@
         [Shop Video Smart Locks](https://us.eufy.com/collections/smart-lock?ref=navimenu_2_5_1_all_copy) [More About Video Smart  
         Locks](https://www.eufy.com/video-smart-lock?ref=navimenu_2_5_1_more_copy)
         
-    * [](https://us.eufy.com/collections/smart-lock?ref=navimenu_2_5_2_copy)
+    * [](https://us.eufy.com/products/t85f1111?ref=navimenu_2_5_2_copy)
         
-        [Smart Locks](https://us.eufy.com/collections/smart-lock?ref=navimenu_2_5_2_copy)
+        [Smart Locks](https://us.eufy.com/products/t85f1111?ref=navimenu_2_5_2_copy)
         
-        Home is Just a Touch Away
+        Your home, your rules. eufy Lock.
         
         Feature Products
         
