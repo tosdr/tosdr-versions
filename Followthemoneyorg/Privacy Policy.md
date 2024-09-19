@@ -66,9 +66,9 @@ Any e-mail addresses are not used or collected for any purpose other than notify
 
 ### Look at this!
 
-[![monsanto](/assets/logos/MonsantoStateContributions2007-2012.png)](http://www.followthemoney.org/research/institute-research/names-in-the-news-monsanto)
+[![2009-10 Ballot Ms](/assets/logos/2004-2010BallotMeasuresTotal.png)](http://www.followthemoney.org/research/institute-research/an-overview-of-campaign-finances-2009-2010-elections)
 
-Monsanto has taken a keen interest in ballot measures.
+Ballot measures attract massive amounts of money.
 
   [See More Visualizations](https://www.followthemoney.org/look-at-this)
 
