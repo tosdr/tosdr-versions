@@ -1,4 +1,4 @@
-[![Philips Hue](/etc.clientlibs/signify-brand-hue/clientlibs/clientlib-main-v2/resources/logos/hue.svg "Philips Hue")](https://www.philips-hue.com/en-us)
+[![Philips Hue](/etc.clientlibs/signify-brand-hue/clientlibs/clientlib-main-v2/resources/logos/hue.svg)](https://www.philips-hue.com/en-us)
 
 * [Shop](https://www.philips-hue.com/en-us/products)
     
@@ -185,51 +185,51 @@ We have drafted this Privacy Notice (which we also call “Notice”) to help yo
 
 We strongly encourage you to take some time to read this Notice in full. If you do not agree to this Privacy Notice, please do not provide us with your personal data.
 
-[![About icon](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw== "About icon")](#when_does_this_privacy_notice_apply "About icon")
+[![About icon](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)](#when_does_this_privacy_notice_apply "About icon")
 
 This privacy notice covers our **Philips Hue system, our ecosystem informs you on what personal data we collect** when you interact with us. For example, this occurs when you give data to us, when registering an account, or purchasing a product directly through our web shop. Find out what data sources we use, for which purpose and what type of personal data is processed.
 
-[![Cookies Icon](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw== "Cookies Icon")](#cookies_and_tracking_technology "Cookies Icon")
+[![Cookies Icon](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)](#cookies_and_tracking_technology "Cookies Icon")
 
 We use **cookies** and other tracking technologies. More details on when and how we use them and how you can control your preferences, you can read in our [Cookie Notice](https://www.philips-hue.com/en-us/support/legal/cookie-notice) or find out below. 
 
-[![Legal Icon](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw== "Legal Icon")](#on_what_legal_basis_do_we_use_your_data "Legal Icon")
+[![Legal Icon](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)](#on_what_legal_basis_do_we_use_your_data "Legal Icon")
 
 Our service, websites and mobile applications are designed and intended for use by adults. Find out which **legal basis for processing your data** we may use and how we protect children.
 
-[![Rights and Responsibilities Icon](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw== "Rights and Responsibilities Icon")](#what_are_your_responsibilities "Rights and Responsibilities Icon")
+[![Rights and Responsibilities Icon](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)](#what_are_your_responsibilities "Rights and Responsibilities Icon")
 
 **What are your responsibilities?** We encourage you to take control of your personal data and find out what choices you have at your disposal. For questions regarding this notice as well as other questions related to your personal data or privacy rights, please [contact us](https://www.signify.com/global/legal/privacy/privacy-request).
 
-[![Personal Data Icon](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw== "Personal Data Icon")](#how_do_we_use_your_data "Personal Data Icon")
+[![Personal Data Icon](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)](#how_do_we_use_your_data "Personal Data Icon")
 
 We may use your personal data **to provide you with the best experience possible**, from the moment you explore using a Philips Hue product, by improving our products based upon your feedback, providing consumer support and personalized marketing. Find out how we use your personal data.
 
-[![Personal Data Icon](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw== "Personal Data Icon")](#how_long_do_we_keep_your_data "Personal Data Icon")
+[![Personal Data Icon](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)](#how_long_do_we_keep_your_data "Personal Data Icon")
 
 How long do **we keep your personal data**? Find out how long we keep your data and what criteria we use to determine the retention periods.
 
-[![Data Security Icon](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw== "Data Security Icon")](#how_do_we_secure_your_data "Data Security Icon")
+[![Data Security Icon](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)](#how_do_we_secure_your_data "Data Security Icon")
 
 How do **we secure** **your personal data**? Find out what measures we take in order to ensure your data is secure.
 
-[![Data Sharing Icon](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw== "Data Sharing Icon")](#when_do_we_share_your_data "Data Sharing Icon")
+[![Data Sharing Icon](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)](#when_do_we_share_your_data "Data Sharing Icon")
 
 **We do not sell or rent your personal data.** We share your personal data only in certain circumstances. Find out more. 
 
-[![Data Transfer Icon](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw== "Data Transfer Icon")](#when_do_we_transfer_your_data_abroad "Data Transfer Icon")
+[![Data Transfer Icon](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)](#when_do_we_transfer_your_data_abroad "Data Transfer Icon")
 
 When we transfer your personal data **abroad**, we protect your data with a variety of technical, organizational and legal measures. Click here to found out more. Are you a **California & Virginia consumer resident**? Find out our specific disclosures by reading more.
 
-[![Company Icon](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw== "Company Icon")](#who_are_we "Company Icon")
+[![Company Icon](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)](#who_are_we "Company Icon")
 
 Find out **who we are** and who we mean with ‘we’. 
 
-[![Amendments Icon](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw== "Amendments Icon")](#updates_to_this_privacy_notice "Amendments Icon")
+[![Amendments Icon](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)](#updates_to_this_privacy_notice "Amendments Icon")
 
 We update this Privacy Notice when necessary to reflect changes in our products or their functionality. If changes are significant or have consequences for your rights under this Privacy Notice, we will provide you with more information and maintain prior versions for your reference. Previous versions of our Privacy Notice can be found in the archive. 
 
-![Cookies Icon](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw== "Cookies Icon")
+![Cookies Icon](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
 This privacy notice covers our **Philips Hue system, our ecosystem informs you on what personal data we collect** when you interact with us. For example, this occurs when you give data to us, when registering an account, or purchasing a product directly through our web shop. Find out what data sources we use, for which purpose and what type of personal data is processed.
 
@@ -360,27 +360,27 @@ Below you will find an overview of the general categories of data that we collec
 | **Purpose of processing** | **Examples of Data Processed** |
 | In addition to our websites, applications and other digital channels, we may also obtain information about you from other sources, such as social media platforms, joint marketing partners or more generally providers of products and product functionalities complimenting the Philips Hue ecosystem such as voice assistant providers.<br><br>For example, if you are controlling Philips Hue products by using a voice-enabled product (such as Amazon Alexa, Apple Siri, Google) you are prompted to allow such devices to connect with the Philips Hue system. Once this functionality is enabled, we may collect and process functional data (such as registration data, usage and diagnostic information) and your usage thereof. We do not receive or process the audio. | The data being processed is highly dependent on your choices and which third-parties are involved. If you would like to receive specific information in this regard, please [contact us](https://www.signify.com/global/privacy/privacy-request). |
 
-![Calender](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw== "Calender")
+![Calender](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
 We keep your data until the purpose we collected it for has been fulfilled. We may be required to keep some data for longer due to legal requirements.
 
-![Graph Chart](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw== "Graph Chart")
+![Graph Chart](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
  We use your data to provide you with the best experience possible, from improving our products to providing customer service.
 
-![Easy install](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw== "Easy install")
+![Easy install](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
 We keep your data safe using appropriate technical and organizational measures.  
 
-![2 People](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw== "2 People")
+![2 People](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
 We will share your data when required to by law, if you provide us with permission or, to help us provide you with the services you have requested. 
 
-![People](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw== "People")
+![People](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
 We encourage you to take control of your data. Please keep your data up to date and accurate. 
 
-![Cookies Icon](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw== "Cookies Icon")
+![Cookies Icon](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
 We use cookies and other tracking technologies. More details on when and how we use them and how you can control your preferences, you can read in our [Cookie Notice](https://www.philips-hue.com/en-us/support/legal/cookie-notice) or find out below.  
 
@@ -388,7 +388,7 @@ Cookie is a generic name for a small text file which attaches an identifier to a
 
 For more information on how we use cookies and other tracking technologies, read our Cookie Notice (which can be found on the website of the [Signify Privacy Center](https://www.signify.com/global/legal/privacy), see “Legal information” section). You can control your cookie settings via the cookie preference choices
 
-![Legal Icon](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw== "Legal Icon")
+![Legal Icon](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
 Our service, websites and mobile applications are designed and intended for use by adults. Find out which **legal basis for processing your data** we may use and how we protect children.
 
@@ -414,7 +414,7 @@ Our websites and mobile applications are designed and intended for use by adults
 * Special note to Children under the age of 16: if you are under the age of 16, we request you not to share your data with us unless you have explicit consent from your parent or guardian before sharing your data with us. Upon request you will be required to proof this received prior consent;
 * Special note to Parents of Children under the age of 16: we recommend you to check and monitor your children's use of our products, systems, product functionalities, applications (including websites and other digital channels) in order to make sure that your child does not share personal data with us without asking your permission.
 
-![Rights and Responsibilities Icon](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw== "Rights and Responsibilities Icon")
+![Rights and Responsibilities Icon](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
 **What are your responsibilities?** We encourage you to take control of your personal data and find out what choices you have at your disposal. For questions regarding this notice as well as other questions related to your personal data or privacy rights, please [contact us](https://www.signify.com/global/legal/privacy/privacy-request).
 
@@ -455,7 +455,7 @@ Please keep in mind that email communications are not always secure. Therefore, 
 
 We will do our best to address your request in time and free of charge, except where it would require a disproportionate effort. In certain cases, we may ask you to verify your identity before we can act on your request. If you are unsatisfied with the reply received, you may then refer your complaint to the relevant regulator in your jurisdiction.
 
-![Data Usage Icon](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw== "Data Usage Icon")
+![Data Usage Icon](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
 We may use your personal data **to provide you with the best experience possible**, from the moment you explore using a Philips Hue product, by improving our products based upon your feedback, providing consumer support and personalized marketing. Find out how we use your personal data.
 
@@ -498,7 +498,7 @@ If at any moment you decide that you no longer want to receive these communicati
 
 Please note that even if you opt out from receiving marketing communications, you might still receive administrative, service or transactional communications from us, such as technical and/or security updates of our products, order confirmations, notifications about your account activities, and other important notices. You cannot unsubscribe from these types of communications.
 
-![Personal Data Icon](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw== "Personal Data Icon")
+![Personal Data Icon](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
 How long do **we keep your personal data**? Find out how long we keep your data and what criteria we use to determine the retention periods.
 
@@ -513,7 +513,7 @@ We keep your data for the period necessary to fulfill the purposes for which it 
 
 Your data processed to continue to improve your experience with us is retained for as little time as possible, after which we anonymize or delete it, when there is no longer a consumer, legal or business need for your data to be retained. 
 
-![Data Security Icon](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw== "Data Security Icon")
+![Data Security Icon](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
 We design our systems with data security in mind by using appropriate technical and organizational measures. Privacy by design and privacy by default are our guiding design elements.
 
@@ -522,7 +522,7 @@ HOW DO WE SECURE YOUR DATA?
 
 To protect your data, we will take appropriate measures that are consistent with applicable data protection and data security laws and regulations, including requiring our service providers to use appropriate measures to protect the confidentiality and security of your data. . More information on our security by design approach can be found [here](https://www.philips-hue.com/en-us/support/security-advisory). If you have reason to think that your interaction with us or your Data is no longer processed in a secure manner, please reach out to the [Signify Privacy Office](https://www.signify.com/global/legal/privacy) immediately in accordance with “What are your choices?” as described below.
 
-![Data Sharing Icon](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw== "Data Sharing Icon")
+![Data Sharing Icon](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
 **We do not sell or rent your personal data.** We share your personal data only when required to by law, if you provide us with permission, or to other parties acting on our behalf. 
 
@@ -540,7 +540,7 @@ We never sell or rent out your personal data. We also do not share your personal
 * Upon your privacy request in case of a personal data portability request.  
     
 
-![Data Transfer Icon](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw== "Data Transfer Icon")
+![Data Transfer Icon](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
 When we transfer your personal data abroad, we protect your data with a variety of technical, organizational and legal measures.
 
@@ -732,7 +732,7 @@ We do not respond to “Do Not Sell” requests as we do not sell your personal 
 
 After receiving your prior consent, we sometimes disclose personal data collected via cookies for cross-contextual behavioral advertising purposes, which may qualify as sharing your personal data under the VCDPA. To opt out, you can adjust your cookie preferences on our website to block our advertising cookies, or you can change your device settings to block cookies or install a third-party plugin to control how cookies interact with your device. For more information on how we use cookies and other tracking technologies, read our [Cookie Notice.](https://www.philips-hue.com/en-us/support/legal/cookie-notice)
 
-![Company Icon](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw== "Company Icon")
+![Company Icon](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
 Find out who we are and who we mean with ‘we’.
 
@@ -745,7 +745,7 @@ Signify is a global lighting organization with recognized expertise in the deve
 
 When this Notice mentions “we,” or “us,” it refers to the Data Controller under this Notice, namely the Signify affiliate with which you had, have or will have a relationship or that otherwise decides which of your data are collected and how they are used, as well as Signify Netherlands B.V. (Registration number 17061150 - High Tech Campus 48, 5656 AE, Eindhoven, The Netherlands). Please note that the Signify affiliates include the subsidiary companies in which Signify N.V. has control, either through direct or indirect ownership. You may obtain a list of Signify affiliates by contacting the Signify Privacy Office.
 
-![Amendments Icon](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw== "Amendments Icon")
+![Amendments Icon](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
 We update this Privacy Notice when necessary to reflect changes in our products and their functionalities. If changes are significant or have consequences for your rights under this Privacy Notice, we will provide you with more information and maintain prior versions for your reference. 
 
@@ -778,7 +778,7 @@ Connect with Philips Hue
 * [](https://www.pinterest.com/Philipshue/ "Pinterest")
 * [](https://www.instagram.com/philipshue/ "Instagram")
 
-![Philips](/content/dam/hue/masters/navigation/philips-logo.svg "Philips")
+![Philips](/content/dam/hue/masters/navigation/philips-logo.svg)
 
 Select Country [United States - English](https://www.philips-hue.com/en-us/country-selector "Select Country")
 
