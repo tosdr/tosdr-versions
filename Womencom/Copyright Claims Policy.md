@@ -43,47 +43,71 @@
 * [Newsletter](https://subscribe.women.com/newsletter "Newsletter")
 * [Advertise](https://static.com/advertise "Advertise")
 
+*  [![Secret Lives stars](https://www.women.com/img/gallery/the-secret-lives-of-mormon-wives-all-your-sex-questions-about-the-show-answered/intro-1726762119.jpg)](https://www.women.com/1668756/secret-lives-of-mormon-wives-sex-questions-answered/)
+    
+    [Sex](https://www.women.com/category/sex-life/)
+    
+    [Sex](https://www.women.com/category/sex-life/) By Emily Hutchinson
+    
+    [The Secret Lives Of Mormon Wives: All Your Sex Questions About The Show, Answered](https://www.women.com/1668756/secret-lives-of-mormon-wives-sex-questions-answered/)
+    =======================================================================================================================================================================
+    
+    After dusting off from the drama and rebuilding bridges, these Mormon wives had audiences asking plenty of questions about their secret lives.
+    
+    By Emily Hutchinson [Read More](https://www.women.com/1668756/secret-lives-of-mormon-wives-sex-questions-answered/)
+    
+* *  [![Princess Diana bixie cut](https://www.women.com/img/gallery/princess-dianas-90s-bixie-is-the-sophisticated-short-hairstyle-of-our-dreams/intro-1726603909.jpg)](https://www.women.com/1667019/princess-diana-90s-bixie-sophisticated-short-hair-style/)
+        
+        [Exclusives](https://www.women.com/category/exclusives/)
+        
+        [Exclusives](https://www.women.com/category/exclusives/) By Amanda Chatel
+        
+        ### [Princess Diana's '90s Bixie Is The Sophisticated Short Hairstyle Of Our Dreams](https://www.women.com/1667019/princess-diana-90s-bixie-sophisticated-short-hair-style/)
+        
+        Whether you're trying to find the perfect short cut or growing out a pixie, the bixie is a fun, reliable option. It's also Princess Diana approved.
+        
+        By Amanda Chatel [Read More](https://www.women.com/1667019/princess-diana-90s-bixie-sophisticated-short-hair-style/)
+        
+    *  [![hailey bieber with flushed cheeks](https://www.women.com/img/gallery/hailey-biebers-flushed-cheeks-other-fall-2024-makeup-trends-to-have-on-your-radar/intro-1726682871.jpg)](https://www.women.com/1667956/hailey-bieber-flushed-cheeks-other-fall-2024-makeup-trends/)
+        
+        [Beauty](https://www.women.com/category/beauty/)
+        
+        [Beauty](https://www.women.com/category/beauty/) By Amanda Chatel
+        
+        ### [Hailey Bieber's Flushed Cheeks & Other Fall 2024 Makeup Trends To Have On Your Radar](https://www.women.com/1667956/hailey-bieber-flushed-cheeks-other-fall-2024-makeup-trends/)
+        
+        From lived-in eyeliner to clean, dewy skin fall 2024's hottest makeup trends are all about keeping things extra low-key.
+        
+        By Amanda Chatel [Read More](https://www.women.com/1667956/hailey-bieber-flushed-cheeks-other-fall-2024-makeup-trends/)
+        
+
+More Stories
+------------
+
 *  [![Kylie Jenner and Timotheé Chalamet at an event](https://www.women.com/img/gallery/red-flags-in-kylie-jenner-and-timothe-chalamets-relationship/intro-1726508612.jpg)](https://www.women.com/1665832/red-flags-kylie-jenner-timothee-chalamet-relationship/)
     
     [Relationships](https://www.women.com/category/relationships/)
     
     [Relationships](https://www.women.com/category/relationships/) By Bernadette Roe
     
-    [Red Flags In Kylie Jenner And Timotheé Chalamet's Relationship](https://www.women.com/1665832/red-flags-kylie-jenner-timothee-chalamet-relationship/)
-    ======================================================================================================================================================
+    ### [Red Flags In Kylie Jenner And Timotheé Chalamet's Relationship](https://www.women.com/1665832/red-flags-kylie-jenner-timothee-chalamet-relationship/)
     
     Kylie Jenner and Timothee Chalamet might seem like the perfect Hollywood couple, but a closer look at the pair's relationship reveals some glaring red flags.
     
     By Bernadette Roe [Read More](https://www.women.com/1665832/red-flags-kylie-jenner-timothee-chalamet-relationship/)
     
-* *  [![Joe Jonas with Sophie Turner](https://www.women.com/img/gallery/sophie-turner-is-stepping-up-her-style-game-post-joe-jonas-divorce/intro-1726617067.jpg)](https://www.women.com/1667245/sophie-turner-style-post-divorce-joe-jonas/)
-        
-        [Fashion](https://www.women.com/category/fashion/)
-        
-        [Fashion](https://www.women.com/category/fashion/) By Emily Hutchinson
-        
-        ### [Sophie Turner Is Stepping Up Her Style Game Post-Joe Jonas Divorce](https://www.women.com/1667245/sophie-turner-style-post-divorce-joe-jonas/)
-        
-        After divorcing Joe Jonas, Sophie Turner is burnin' up on the fashion scene. Here's how the actor's style has evolved after her relationship.
-        
-        By Emily Hutchinson [Read More](https://www.women.com/1667245/sophie-turner-style-post-divorce-joe-jonas/)
-        
-    *  [![Taylor Swift on the red carpet](https://www.women.com/img/gallery/6-love-lessons-weve-learned-from-taylor-swift/intro-1726249267.jpg)](https://www.women.com/1665299/love-lessons-learned-taylor-swift/)
-        
-        [Relationships](https://www.women.com/category/relationships/)
-        
-        [Relationships](https://www.women.com/category/relationships/) By Emily Hutchinson
-        
-        ### [6 Love Lessons We've Learned From Taylor Swift](https://www.women.com/1665299/love-lessons-learned-taylor-swift/)
-        
-        Along with giving us music to relate to, Taylor Swift has taught fans around the world countless lessons about love and heartbreak.
-        
-        By Emily Hutchinson [Read More](https://www.women.com/1665299/love-lessons-learned-taylor-swift/)
-        
-
-More Stories
-------------
-
+*  [![Joe Jonas with Sophie Turner](https://www.women.com/img/gallery/sophie-turner-is-stepping-up-her-style-game-post-joe-jonas-divorce/intro-1726617067.jpg)](https://www.women.com/1667245/sophie-turner-style-post-divorce-joe-jonas/)
+    
+    [Fashion](https://www.women.com/category/fashion/)
+    
+    [Fashion](https://www.women.com/category/fashion/) By Emily Hutchinson
+    
+    ### [Sophie Turner Is Stepping Up Her Style Game Post-Joe Jonas Divorce](https://www.women.com/1667245/sophie-turner-style-post-divorce-joe-jonas/)
+    
+    After divorcing Joe Jonas, Sophie Turner is burnin' up on the fashion scene. Here's how the actor's style has evolved after her relationship.
+    
+    By Emily Hutchinson [Read More](https://www.women.com/1667245/sophie-turner-style-post-divorce-joe-jonas/)
+    
 *  [![practical magic](https://www.women.com/img/gallery/how-to-steal-the-witchy-90s-aesthetic-from-practical-magic/intro-1726509329.jpg)](https://www.women.com/1665826/steal-witchy-90s-aesthetic-practical-magic/)
     
     [Fashion](https://www.women.com/category/fashion/)
@@ -107,6 +131,18 @@ More Stories
     Celebrity memoirs can range from really good to really bad. Among the best are recollections by Paris Hilton, Viola Davis, and Tom Felton.
     
     By Bernadette Roe [Read More](https://www.women.com/1665746/celebrity-memoirs-great-well-written-books/)
+    
+*  [![Taylor Swift on the red carpet](https://www.women.com/img/gallery/6-love-lessons-weve-learned-from-taylor-swift/intro-1726249267.jpg)](https://www.women.com/1665299/love-lessons-learned-taylor-swift/)
+    
+    [Relationships](https://www.women.com/category/relationships/)
+    
+    [Relationships](https://www.women.com/category/relationships/) By Emily Hutchinson
+    
+    ### [6 Love Lessons We've Learned From Taylor Swift](https://www.women.com/1665299/love-lessons-learned-taylor-swift/)
+    
+    Along with giving us music to relate to, Taylor Swift has taught fans around the world countless lessons about love and heartbreak.
+    
+    By Emily Hutchinson [Read More](https://www.women.com/1665299/love-lessons-learned-taylor-swift/)
     
 *  [![Halloween-inspired nails](https://www.women.com/img/gallery/5-halloween-inspired-manicures-for-short-nails/intro-1726494767.jpg)](https://www.women.com/1662530/halloween-inspired-manicures-short-nails/)
     
@@ -371,42 +407,6 @@ More Stories
     Chappell Roan's dramatic, daring looks are the perfect inspiration for bold manicures suited to a night out at the Pink Pony Club or Roan's next concert.
     
     By Emily Hutchinson [Read More](https://www.women.com/1658094/chappell-roan-inspired-nail-ideas-pink-pony-club/)
-    
-*  [![woman in bed peaceful](https://www.women.com/img/gallery/youve-heard-of-69-but-whats-68-your-guide-to-the-sex-position/intro-1725470852.jpg)](https://www.women.com/1657085/68-explained-guide-sex-position/)
-    
-    [Sex](https://www.women.com/category/sex-life/)
-    
-    [Sex](https://www.women.com/category/sex-life/) By Amanda Chatel
-    
-    ### [You've Heard Of 69, But What's 68? Your Guide To The Sex Position](https://www.women.com/1657085/68-explained-guide-sex-position/)
-    
-    For people who don't like 69-ing, the 68 position can be a comfortable and less-distracting alternative. Check out these tips from a sexpert before you try it.
-    
-    By Amanda Chatel [Read More](https://www.women.com/1657085/68-explained-guide-sex-position/)
-    
-*  [![Sabrina Carpenter wavy hair](https://www.women.com/img/gallery/is-sabrina-carpenter-a-natural-blond-all-the-details-about-her-hair/intro-1725467689.jpg)](https://www.women.com/1657024/sabrina-carpenter-natural-blond-all-details-her-hair/)
-    
-    [Beauty](https://www.women.com/category/beauty/)
-    
-    [Beauty](https://www.women.com/category/beauty/) By Emily Hutchinson
-    
-    ### [Is Sabrina Carpenter A Natural Blond? All The Details About Her Hair](https://www.women.com/1657024/sabrina-carpenter-natural-blond-all-details-her-hair/)
-    
-    Sabrina Carpenter's blond waves are super romantic, but is her color as natural as her curls? Here are all the details of the look according to her stylists.
-    
-    By Emily Hutchinson [Read More](https://www.women.com/1657024/sabrina-carpenter-natural-blond-all-details-her-hair/)
-    
-*  [![Jenna Ortega posing](https://www.women.com/img/gallery/5-times-jenna-ortega-was-a-goth-glam-queen-on-the-red-carpet/intro-1725411511.jpg)](https://www.women.com/1656588/jenna-ortega-goth-glam-red-carpet-looks/)
-    
-    [Fashion](https://www.women.com/category/fashion/)
-    
-    [Fashion](https://www.women.com/category/fashion/) By Emily Hutchinson
-    
-    ### [5 Times Jenna Ortega Was A Goth Glam Queen On The Red Carpet](https://www.women.com/1656588/jenna-ortega-goth-glam-red-carpet-looks/)
-    
-    While Jenna Ortega looks gorgeous in any shade, she thrives in black -- which is fortunate, because she's got styling the goth hue down to a science.
-    
-    By Emily Hutchinson [Read More](https://www.women.com/1656588/jenna-ortega-goth-glam-red-carpet-looks/)
     
 
 Back
