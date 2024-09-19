@@ -136,31 +136,31 @@ Advertisement
 
 ###### Throwback Documentaries
 
-* [![Hitler’s Death Squad](/wp-content/thumbnails/10197-100x70.jpg?x53432)
+* [![UK Monarchy](/wp-content/thumbnails/2581-100x70.jpg?x53432)
     
-    Hitler’s Death Squad
+    UK Monarchy
     
-    June 6th 1944, D-Day marks a turning point in WWII. Facing the threat of defeat Adolf Hitler orders massive reinforcements to Normandy to drive the Allies back into the sea. Among them was an elite 15](https://documentaryheaven.com/hitlers-death-squad/ "Hitler’s Death Squad")
-* [![Toxic Light Bulb Investigation](/wp-content/thumbnails/7097-100x70.jpg?x53432)
+    Eminent scholar and energetic storyteller Dr. David Starkey (The Six Wives of Henry VIII) serves as your guide through nearly 10 centuries of royal rule in England.From the fall of the Roman Empir](https://documentaryheaven.com/uk-monarchy/ "UK Monarchy")
+* [![Shadows of Liberty](/wp-content/thumbnails/7177-100x70.jpg?x53432)
     
-    Toxic Light Bulb Investigation
+    Shadows of Liberty
     
-    Compact Fluorescent Bulbs (CFL) save energy and sound great – but is there a hidden danger? Why do they need ‘special’ disposal?Harmful UV rays could be seeping into your home. An exclusive invest](https://documentaryheaven.com/toxic-light-bulb-investigation/ "Toxic Light Bulb Investigation")
-* [![The Killings of the Three Scottish Soldiers](/wp-content/thumbnails/16552-100x70.jpg?x53432)
+    Shadows of Liberty reveals the phenomenal truth behind the news media: censorship, cover-ups and corporate control. The documentary takes a journey through the darker corridors of the American media l](https://documentaryheaven.com/shadows-of-liberty/ "Shadows of Liberty")
+* [![Blair: The Inside Story](/wp-content/thumbnails/8051-100x70.jpg?x53432)
     
-    The Killings of the Three Scottish Soldiers
+    Blair: The Inside Story
     
-    For two years the BBC Spotlight team worked on the series The Troubles a Secret History revisiting some of the systemic moments of the troubles in Northern Ireland. Investigating some of the more piv](https://documentaryheaven.com/killings-three-scottish-soldiers/ "The Killings of the Three Scottish Soldiers")
-* [![A Day in The Life of a Dictator](/wp-content/thumbnails/9978-100x70.jpg?x53432)
+    A three part documentary on Tony Blair.Episode 1: The New LeaderThe first programme examines how Tony Blair came to power on a huge wave of public goodwill, as the Tories were swept out of off](https://documentaryheaven.com/blair-inside-story/ "Blair: The Inside Story")
+* [![Silk Road: Drugs, Death and the Dark Web](/wp-content/thumbnails/13459-100x70.jpg?x53432)
     
-    A Day in The Life of a Dictator
+    Silk Road: Drugs, Death and the Dark Web
     
-    Have you ever wondered how a dictator actually goes about his daily business? or what it must be like to have the power of life or death over those you control, a figure which can be in the milli](https://documentaryheaven.com/day-in-life-of-dictator/ "A Day in The Life of a Dictator")
-* [![Air Crash Investigations: Ghost Plane](/wp-content/thumbnails/4088-100x70.jpg?x53432)
+    A BBC Storyville special which sets out to take a deep look into the now infamous black market website known as the Silk Road which came into existance back in 2011. Coined the 'Amazon of illegal drug](https://documentaryheaven.com/silk-road-drugs-death-dark-web/ "Silk Road: Drugs, Death and the Dark Web")
+* [![Eat, Fast and Live Longer](/wp-content/thumbnails/6707-100x70.jpg?x53432)
     
-    Air Crash Investigations: Ghost Plane
+    Eat, Fast and Live Longer
     
-    Helios Airways Flight 522 departs from Cyprus. As it flies over Greece, air traffic controllers lose radio contact with it. An incorrect setting on the cabin pressurization panel causes the pilots and](https://documentaryheaven.com/air-crash-investigations-ghost-plane/ "Air Crash Investigations: Ghost Plane")
+    Michael Mosley has set himself a truly ambitious goal: he wants to live longer, stay younger and lose weight in the bargain. And he wants to make as few changes to his life as possible along the way.](https://documentaryheaven.com/eat-fast-and-live-longer/ "Eat, Fast and Live Longer")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
