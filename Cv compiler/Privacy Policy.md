@@ -1761,6 +1761,8 @@ What do top resumes look like? Check out these expertly-written samples:
 
 [Snowflake](https://cvcompiler.com/snowflake-resume-examples)
 
+[Bank Call Center](https://cvcompiler.com/bank-call-center-resume-examples)
+
 ![Upload resume illustration](uploads-pre-acq/img/upload-illustration.svg)
 
 ### Upload  
