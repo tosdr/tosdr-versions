@@ -112,7 +112,7 @@ Information collected by advertising networks, such as Facebook Audience Network
 
 The Service of the OmniSale GMBH collects a series of general data and information. This general data and information are stored in the server log files. Collected may be (1) the browser types and versions used, (2) the operating system used by the accessing system, (3) the website from which an accessing system reaches our website (so-called referrers), (4) the sub-websites, (5) the date and time of access to the Internet site, (6) an Internet protocol address (IP address), (7) the Internet service provider of the accessing system, and (8) the version of the desktop or mobile applications (9) history of processed files including physical files itself, name of files, date of upload and processing, duration, selected type of splitting (10) any other similar data and information that may be used in the event of attacks on our information technology systems.
 
-When using these general data and information, the OmniSale GMBH does not assume the rights to any uploaded audio and video data, does not use or share copyrighted materials and other uploaded media files with third parties, and does not draw any conclusions about the data subject. Rather, this information is needed to (1) deliver and optimize the content of our website (2) deliver the stable work of Service (3) ensure the long-term viability of our information technology systems and website technology, and (4) provide law enforcement authorities with the information necessary for criminal prosecution in case of a cyber-attack. Therefore, the OmniSale GMBH analyzes anonymously collected data and information statistically, with the aim of increasing the data protection and data security of our enterprise, and to ensure an optimal level of protection for the personal data we process. The anonymous data of the server log files are stored separately from all personal data provided by a data subject.
+When using these general data and information, the OmniSale GMBH does not assume the rights to any uploaded audio and video data, does not use user files for artificial intelligence training or other content, does not share copyrighted materials and other uploaded media files with third parties, and does not draw any conclusions about the data subject. Rather, this information is needed to (1) deliver and optimize the content of our website (2) deliver the stable work of Service (3) ensure the long-term viability of our information technology systems and website technology, and (4) provide law enforcement authorities with the information necessary for criminal prosecution in case of a cyber-attack. Therefore, the OmniSale GMBH analyzes anonymously collected data and information statistically, with the aim of increasing the data protection and data security of our enterprise, and to ensure an optimal level of protection for the personal data we process. The anonymous data of the server log files are stored separately from all personal data provided by a data subject.
 
 5\. Subscription to our newsletters
 -----------------------------------
@@ -222,9 +222,9 @@ We clarify that the provision of personal data is partly required by law (e.g. t
 14\. Existence of automated decision-making
 -------------------------------------------
 
-As a responsible company, we do not use automatic decision-making or profiling
+As a responsible company, we do not use automatic decision-making or profiling.
 
-Last update: 11.03.2024
+Last update: 19.09.2024
 
 Copyright © OmniSale GMBH.
 
