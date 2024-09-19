@@ -572,17 +572,17 @@ MENU MENU
     [Remarks and Statements](https://home.treasury.gov/news/press-releases/statements-remarks)
     ------------------------------------------------------------------------------------------
     
+    September 19, 2024
+    
+    [Remarks by Secretary of the Treasury Janet L. Yellen at the Community Development Advisory Board Meeting Celebrating the CDFI Fund’s 30th Anniversary](https://home.treasury.gov/news/press-releases/jy2592)
+    
     September 17, 2024
     
-    [Strengthening Treasury Market Liquidity and What Remains](https://home.treasury.gov/news/press-releases/jy2584)
+    [Remarks by Under Secretary of Domestic Finance Nellie Liang at the Future of Financial Markets: Innovation and Uncertainty, Georgetown Psaros Center for Financial Markets and Policy](https://home.treasury.gov/news/press-releases/jy2584)
     
     September 17, 2024
     
     [Remarks by Acting Assistant Secretary for Financial Institutions Laurie Schaffer at The Geneva Association’s Programme on Regulation and Supervision (PROGRES) Seminar 2024](https://home.treasury.gov/news/press-releases/jy2583)
-    
-    September 10, 2024
-    
-    [Joint Statement on the U.S.-UK Financial Regulatory Working Group](https://home.treasury.gov/news/press-releases/jy2569)
     
     [View All Remarks and Statements](https://home.treasury.gov/news/press-releases/statements-remarks "View all Remarks and Statements")
     
