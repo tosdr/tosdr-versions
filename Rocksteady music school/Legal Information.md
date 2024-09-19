@@ -24,7 +24,7 @@
 
 [Parent Sign-up](https://booking.rocksteadymusicschool.com/) [Parent Login](https://backstage.rocksteadymusicschool.com/sign-in)
 
-![](https://www.rocksteadymusicschool.com/wp-content/uploads/2024/09/legal-header-mobile.jpg) ![](https://www.rocksteadymusicschool.com/wp-content/uploads/2024/09/legal-header-duotone-3.jpg) 
+![](https://www.rocksteadymusicschool.com/wp-content/uploads/2024/09/legal-header-mobile-jpg.avif) ![](https://www.rocksteadymusicschool.com/wp-content/uploads/2024/09/legal-header-duotone-3.jpg) 
 
 Privacy Notice
 ==============
