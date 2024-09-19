@@ -97,30 +97,30 @@ Welcome! [Login](https://knowyourmeme.com/login) or [signup](https://knowyourmem
 * [Meme Insider](https://memeinsider.com/)
 * [Newsletter](https://knowyourmeme.com/newsletter)
 
-* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/025/928/cover7.jpg "Who Is Moo-Deng The Baby Hippo? The Story Of The Adorable Thai Hippo That Took Over The Internet")
+* [![Rigged Pagers Have Been Used As Explosive Devices In A Deadly Attack On Hezbollah In Lebanon](https://i.kym-cdn.com/featured_items/icons/wide/000/025/943/cover6.jpg "Rigged Pagers Have Been Used As Explosive Devices In A Deadly Attack On Hezbollah In Lebanon")
     
-    Who Is Moo-Deng The Baby Hippo? The Story Of The Adorable Thai Hippo That Took Over The Internet](https://knowyourmeme.com/editorials/guides/who-is-moo-deng-the-baby-hippo-the-story-of-the-adorable-thai-hippo-that-took-over-the-internet)
+    Rigged Pagers Have Been Used As Explosive Devices In A Deadly Attack On Hezbollah In Lebanon](https://knowyourmeme.com/memes/events/2024-pager-and-radio-attacks-on-hezbollah)
     
-* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/025/927/cover2.jpg "The Cat That Sparked The 'Haitian Migrants Eating Pets' Rumor Was Found Chilling In Its Owner's Basement")
+* [!['Shingles Doesn't Care': TV Vaccination Ad Meme Becomes Viral Topic After Random Voice-over Boomed At The Emmy's](https://i.kym-cdn.com/featured_items/icons/wide/000/025/942/shingles_doesn't_care_meme_cover.jpg "'Shingles Doesn't Care': TV Vaccination Ad Meme Becomes Viral Topic After Random Voice-over Boomed At The Emmy's")
     
-    The Cat That Sparked The 'Haitian Migrants Eating Pets' Rumor Was Found Chilling In Its Owner's Basement](https://knowyourmeme.com/news/the-cat-that-sparked-the-haitian-migrants-eating-pets-rumor-has-been-found)
+    'Shingles Doesn't Care': TV Vaccination Ad Meme Becomes Viral Topic After Random Voice-over Boomed At The Emmy's](https://knowyourmeme.com/memes/shingles-doesnt-care)
     
-* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/025/926/gatekeeping_yuri_meme_cover.jpg "What Does 'Gatekeeping Yuri' Mean? The Parody Images Meme Explained")
+* [![wife wife wife wife wife wife pukes from excitement ghgwife post over image of Rakan from LoL](https://i.kym-cdn.com/featured_items/icons/wide/000/025/941/www.jpg "If You've Ever Puked From Excitement Over Seeing Your Wife, This Meme Is For You")
     
-    What Does 'Gatekeeping Yuri' Mean? The Parody Images Meme Explained](https://knowyourmeme.com/editorials/guides/what-does-gatekeeping-yuri-mean-the-parody-images-meme-explained)
+    If You've Ever Puked From Excitement Over Seeing Your Wife, This Meme Is For You](https://knowyourmeme.com/memes/wife-wife-wife-pukes-from-excitement-ghgwife)
     
-* [![Fake School Shooting Trend TikTok.](https://i.kym-cdn.com/featured_items/icons/wide/000/025/925/school_shooting_trend.jpg "A Wave Of Fake School Shooting Threats Has Spread Across The U.S. As Local Law Enforcements Become Overwhelmed By School Shutdowns")
+* [![too many sweats meme example](https://i.kym-cdn.com/featured_items/icons/wide/000/025/940/tms.jpg ""Too Many Sweats" Rises As A Spam Comment On TikTok And Copypasta On X")
     
-    A Wave Of Fake School Shooting Threats Has Spread Across The U.S. As Local Law Enforcements Become Overwhelmed By School Shutdowns](https://knowyourmeme.com/memes/events/fake-school-shooting-trend)
+    "Too Many Sweats" Rises As A Spam Comment On TikTok And Copypasta On X](https://knowyourmeme.com/memes/too-many-sweats)
     
-* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/025/924/balkan_breakfast_newsfeed.jpg "What's A 'Balkan Breakfast?' The Meme And TikTok Trend About How Balkans Eat Breakfast Explained")
+* [![The Nutter Butter TikTok Has Devolved Into Surreal Analog Horror](https://i.kym-cdn.com/featured_items/icons/wide/000/025/939/172659188172621580.jpeg "The Nutter Butter TikTok Has Devolved Into Surreal Analog Horror")
     
-    What's A 'Balkan Breakfast?' The Meme And TikTok Trend About How Balkans Eat Breakfast Explained](https://knowyourmeme.com/editorials/guides/whats-a-balkan-breakfast-the-meme-and-tiktok-trend-about-how-balkans-eat-breakfast-explained)
+    The Nutter Butter TikTok Has Devolved Into Surreal Analog Horror](https://knowyourmeme.com/memes/sites/nutter-butter-tiktok)
     
 
 ##### Also Trending:
 
-[Tropes In Media Tier List](https://knowyourmeme.com/memes/tropes-in-media-tier-list "Tropes In Media Tier List") [Fugget About It](https://knowyourmeme.com/memes/subcultures/fugget-about-it "Fugget About It") [Pager and Radio Attacks on Hezbollah](https://knowyourmeme.com/memes/events/2024-pager-and-radio-attacks-on-hezbollah "Pager and Radio Attacks on Hezbollah")
+[Nintendo vs. Palworld Lawsuit](https://knowyourmeme.com/memes/events/nintendo-vs-palworld-lawsuit "Nintendo vs. Palworld Lawsuit") [Pager and Radio Attacks on Hezbollah](https://knowyourmeme.com/memes/events/2024-pager-and-radio-attacks-on-hezbollah "Pager and Radio Attacks on Hezbollah") [Tropes In Media Tier List](https://knowyourmeme.com/memes/tropes-in-media-tier-list "Tropes In Media Tier List") [Fugget About It](https://knowyourmeme.com/memes/subcultures/fugget-about-it "Fugget About It") [But It Refused / Twitter Bird Fights Back](https://knowyourmeme.com/memes/but-it-refused-twitter-bird-fights-back "But It Refused / Twitter Bird Fights Back")
 
 Copyright Infringement Notice
 =============================
@@ -186,7 +186,7 @@ Please be advised that we may terminate the accounts of repeat copyright infring
 **Legal Information:** [Know Your Meme ®](https://knowyourmeme.com/) is a trademark of [Literally Media Ltd.](https://literally.media/) By using this site, you are agreeing by the site's [terms of use](https://knowyourmeme.com/terms-of-service) and [privacy policy](https://knowyourmeme.com/privacy) and [DMCA policy](https://knowyourmeme.com/dmca).  
 © 2007-2024 [Literally Media Ltd.](https://literally.media/)
 
-### Yo! You must login or signup first!
+### Hauu! You must login or signup first!
 
 |     |     |
 | --- | --- |
