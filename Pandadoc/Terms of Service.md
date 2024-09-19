@@ -12,7 +12,6 @@ English (United States) Nederlands (Nederland) Français (France) Polski (Polska
         * [Security & compliance](https://www.pandadoc.com/security/)
         * [Enterprise](https://www.pandadoc.com/pandadoc-for-enterprise/)
         * [Notary](https://notary.pandadoc.com/)
-        * [API](https://www.pandadoc.com/api/)
         
     * Features
         
@@ -180,6 +179,7 @@ English (United States) Nederlands (Nederland) Français (France) Polski (Polska
     
     * [All customer stories](https://www.pandadoc.com/customer-stories/)
     
+* [API](https://www.pandadoc.com/api/)
 * [Pricing](https://www.pandadoc.com/pricing/)
 
 [Contact sales](https://www.pandadoc.com/contact-sales/?ss=page_master-services-agreement_header-nav) [Request a demo](https://www.pandadoc.com/getdemo/?ss=page_master-services-agreement_header-nav) [Request a demo](https://www.pandadoc.com/getdemo/?ss=page_master-services-agreement_header-nav)
@@ -199,7 +199,6 @@ Looks like you haven't picked a time for your personalized demo. Pick a time now
         * [Security & compliance](https://www.pandadoc.com/security/)
         * [Enterprise](https://www.pandadoc.com/pandadoc-for-enterprise/)
         * [Notary](https://notary.pandadoc.com/)
-        * [API](https://www.pandadoc.com/api/)
     * Features
         * [Document generation](https://www.pandadoc.com/document-generation/)
         * [CPQ configure price quote](https://www.pandadoc.com/cpq-software/)
@@ -291,6 +290,8 @@ Looks like you haven't picked a time for your personalized demo. Pick a time now
         * [API](https://www.pandadoc.com/api/)
         * [Document embedding](https://www.pandadoc.com/api/embedded-editing/)
         * [Documentation](https://developers.pandadoc.com/docs/create-send-document)
+    
+* [API](https://www.pandadoc.com/api/)
     
 * [Pricing](https://www.pandadoc.com/pricing/)
     
