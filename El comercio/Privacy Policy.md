@@ -31,6 +31,92 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
+Policías y militares se tomaron las calles del Ecuador durante el toque de queda
+================================================================================
+
+Daniel Noboa, presidente de Ecuador, decretó el toque de queda debido a los cortes de luz que se realizaron a escala nacional la noche del 19 de septiembre.
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+![Los militares estuvieron presentes en las calles de varias ciudades de Ecuador.](https://www.elcomercio.com/wp-content/uploads/2024/09/Militares-toque-de-queda.jpg)
+
+**Policías** y **militares** patrullaron las calles de **Ecuador** durante el **toque** de **queda** decretado por el presidente **Daniel Noboa**. Los uniformados realizaron varios operativos de control en respuesta a esta medida[.](https://es.wikipedia.org/wiki/Toque_de_queda "https://es.wikipedia.org/wiki/Toque_de_queda")
+
+Más noticias
+------------
+
+* [Estas son las sanciones por incumplir el toque de queda en Ecuador](https://www.elcomercio.com/actualidad/seguridad/toque-queda-ecuador-sanciones-decreto.html "Estas son las sanciones por incumplir el toque de queda en Ecuador")
+* [La solución para los cortes de luz del Ecuador es la geotermia, ¿de qué se trata?](https://www.elcomercio.com/actualidad/negocios/la-solucion-para-los-cortes-de-luz-del-ecuador-es-la-geotermia-de-que-se-trata.html "La solución para los cortes de luz del Ecuador es la geotermia, ¿de qué se trata?")
+* [Cortes de luz generan acciones en los servicios de salud](https://www.elcomercio.com/actualidad/ecuador/cortes-luz-generan-acciones-servicios-salud.html "Cortes de luz generan acciones en los servicios de salud")
+
+El **toque** de **queda** complementó los cortes de luz programados por el **Gobierno Nacional**, que se llevaron a cabo desde las 22:00 del 18 de septiembre hasta las 05:00 del 19 de septiembre de 2024.
+
+Patrullajes en diferentes ciudades de Ecuador
+---------------------------------------------
+
+La medida se centró principalmente en seis provincias y un cantón: **Guayas**, **Los Ríos**, **Manabí**, **Orellana**, **Santa Elena**, **El Oro**, y el cantón **Camilo Ponce Enríquez**, en la provincia de **Azuay**. En estas zonas, se limitó el libre tránsito como parte del **Decreto Ejecutivo**.
+
+A pesar de que **Quito** no estaba incluido en el toque de queda, se desplegó una fuerte presencia **policial** y **militar** en sus calles, especialmente durante los horarios de los c**ortes de luz**. Los patrullajes también se extendieron a ejes viales y al centro de rehabilitación social de **Cotopaxi**.
+
+**Patrullaje en las calles de Quito**
+
+Los **uniformados** realizaron controles en diversos puntos de Quito, como en el **Hospital Padre Carollo**, el Centro de **Privación** de **Libertad** Pichincha Nº 3 y el puente de **Guajaló**. Además, en las primeras horas del 19 de septiembre, hubo presencia policial en **San Roque**.
+
+El mayor **Darwin Robles**, **subcomandante** del Distrito Manuela Sáenz de la **Policía Nacional**, indicó que el apagón transcurrió con mayor calma de lo esperado. Señaló que la población de **Quito** respondió de manera **responsable** y que los **controles policiales** ayudaron a mantener el orden.
+
+Operativos durante los cortes de luz en Quito
+---------------------------------------------
+
+Durante los cortes de luz, la **Policía Nacional** llevó a cabo varios operativos de seguridad y control, en línea con el **Decreto Ejecutivo**. En estas acciones, los uniformados recuperaron dos **motocicletas** reportadas como **robadas** y detuvieron a dos personas.
+
+Así funciona el Pico y placa en Quito este jueves 19 de septiembre
+==================================================================
+
+El personal de la AMT es el encargado de realizar los controles de Pico y placa en Quito.
+-----------------------------------------------------------------------------------------
+
+![La medida del Pico y placa funciona con normalidad este 19 de septiembre.](https://www.elcomercio.com/wp-content/uploads/2024/09/Pico-y-placa-en-Quito-2.jpg)
+
+El **pico y placa continúa vigente en Quito** para autos y motos; esta medida fue implementada para mejorar el flujo vehicular en las horas de mayor tránsito.
+
+Más noticias
+------------
+
+* [Siniestro de tránsito en Carcelén, norte de Quito, deja 10 personas afectadas](https://www.elcomercio.com/actualidad/siniestro-de-transito-en-carcelen-norte-de-quito-deja-10-personas-afectadas.html "Siniestro de tránsito en Carcelén, norte de Quito, deja 10 personas afectadas")
+* [Controles de exceso de velocidad se harán con este cronograma](https://www.elcomercio.com/actualidad/quito/controles-de-exceso-de-velocidad-cronograma.html "Controles de exceso de velocidad se harán con este cronograma")
+* [Quito tendrá un visualizador de siniestros de tránsito](https://www.elcomercio.com/actualidad/quito/siniestros-transito-visualizador-amt-plataforma.html "Quito tendrá un visualizador de siniestros de tránsito")
+
+El Pico y placa no afecta a vehículos de personas de la **tercera edad o con discapacidad**. Tampoco a vehículos oficiales,
+
+El **horario de aplicación** de Pico y placa es en la mañana de **06:00 a 09:30** y en la tarde de 16:00 a 20:00.
+
+El esquema de aplicación**:**
+
+* **Lunes:** placas terminadas en 1 y 2.
+* **Martes:** los que finalizan en 3 y 4.
+* **Miércoles:** los de dígitos 5 y 6.
+* **Jueves:** los que tengan 7 y 8.
+* **Viernes:** las placas 9 y 0.
+
+Así, este jueves no pueden circular las **placas terminadas en 7 y 8.**
+
+Multas por infringir Pico y placa
+---------------------------------
+
+La multa por incumplir el **Pico y placa** es del 15% del Salario Básico Unificado, es decir 69 dólares la primera vez; la segunda vez será el 25%, es decir, 115 dólares.
+
+Si incumples por tercera vez, **la multa asciende** al 50% de un salario básico, es decir, 230 dólares.
+
+Además, los agentes de tránsito se pueden llevar tu auto retenido. La estancia de tu auto en los parqueaderos municipales genera **costos diarios**.
+
+Revisa antes de salir de casa la placa de tu auto y si eres distraído, coloca una alarma en tu celular los días de Pico y placa.
+
+Matriculación vehicular
+-----------------------
+
+Recuerda que debes tener licencia y **matrícula vigentes** para poder circular. El mes de agosto los automotores con placa terminada en 8 deben cumplir con el proceso de matriculación.
+
+También pueden adelantar el trámite los que tienen placa terminada en 9. [Evita sanciones.](https://es.wikipedia.org/wiki/Quito)
+
 Sequía y manejo sostenible del agua en Ecuador
 ==============================================
 
@@ -855,82 +941,3 @@ Foto: API.
 
 No te pierdas – El Confesionario
 --------------------------------
-
-Fiscalía de Venezuela tramita solicitud de una orden de captura contra Javier Milei
-===================================================================================
-
-La orden de aprehensión es también contra la secretaria general de Presidencia de Argentina, Karina Milei, y la ministra de Seguridad, Patricia Bullrich.
----------------------------------------------------------------------------------------------------------------------------------------------------------
-
-![Javier Milei en una fotografía de archivo.](https://www.elcomercio.com/wp-content/uploads/2024/09/javier-milei-argentina-mundo-efe.jpg)
-
-La **Fiscalía de Venezuela** tramita la solicitud de una **orden de captura** contra el presidente de Argentina, [Javier Milei](https://www.elcomercio.com/actualidad/mundo/javier-milei-nobel-economia.html "https://www.elcomercio.com/actualidad/mundo/javier-milei-nobel-economia.html") -a quien abrió “una averiguación”-, por el “robo” del **avión venezolan**o-iraní que estuvo retenido en Buenos Aires desde junio de 2022 y **fue enviado a Estados Unidos** en febrero. La información fue emitida este miércoles 18 de septiembre de 2024, por el fiscal general, **Tarek William Saab**.
-
-### Más noticias
-
-* [Edmundo González dice que firmó un documento bajo ‘coacción’ y que por tanto es nulo](https://www.elcomercio.com/actualidad/mundo/edmundo-gonzalez-firmo-documento-bajo-coaccion-tanto-nulo.html "Edmundo González dice que firmó un documento bajo ‘coacción’ y que por tanto es nulo")
-* [Reclaman a la Justicia argentina que ordene la detención de Nicolás Maduro](https://www.elcomercio.com/actualidad/mundo/reclaman-justicia-argentina-ordene-detencion-nicolas-maduro.html "Reclaman a la Justicia argentina que ordene la detención de Nicolás Maduro")
-
-La institución “anuncia la **asignación de dos fiscales especializado**s en la materia, quienes adelantan las diligencias pertinentes al caso y se encuentran tramitando la **orden de aprehensión**” también contra la secretaria general de Presidencia de Argentina, **Karina Milei**, y la ministra de Seguridad del país austral, **Patricia Bullrich.**
-
-“Esto, en las próximas horas, tendrá sus consecuencias en un tribunal competente acá en Venezuela con las **respectivas órdenes de aprehensión** en los respectos organismos competentes, porque eso no puede quedar impune”, expresó Saab.
-
-Explicó que, en el caso del avión, que fue “totalmente desmantelado” en Estados Unidos, se incurrió, según la **legislación venezolana**, en los delitos de “robo agravado, legitimación de capitales, privación ilegítima de libertad, simulación de hecho punible, interferencia ilícita, inutilización de aeronave y asociación para delinquir”.
-
-Por otra parte, Saab informó de la designación de un “**fiscal especializado en materia de protección** a los derechos humanos para que adelante las investigaciones correspondientes” contra Milei y Bullrich por “las acciones cometidas contra el pueblo argentino”.
-
-“Podríamos estar en presencia de **graves violaciones** a los derechos humanos que podrían constituir crímenes de lesa humanidad”, expresó.
-
-En ese sentido, **el fiscal, quien llamó “fascista” y “neonazi” a Milei**, dijo que en Argentina se aplica un “programa de violencia institucional premeditado” contra su población, por lo que señaló al mandatario del país austral como “**el violador de derechos humanos** más feroz del continente” y como “un peligro brutal para todo el hemisferio”.
-
-Este mes, la Cancillería argentina instó a la **Corte Penal Internacional (CPI)** a solicitar una orden de detención contra el presidente venezolano, Nicolás Maduro, y **“otros cabecillas del régimen”**, ante “el agravamiento de la situación” tras los comicios presidenciales en el país caribeño el 28 de julio. 
-
-Encuentran nuevo virus que puede afectar a los Smart TV 
-========================================================
-
-Nuevo ‘malware’ amenaza a los Android TV Box y Smart TV antiguos.
------------------------------------------------------------------
-
-![El virus Android.Vo1d se disfraza de un archivo del sistema. Foto: Freepik.](https://www.elcomercio.com/wp-content/uploads/2024/09/malware-smarttv.jpg)
-
-Los dispositivos **Android TV Box**, populares por **convertir televisores en Smart TV** y ofrecer acceso a ‘streaming’, videojuegos y otros servicios, están en el centro de una alerta de seguridad. 
-
-### Más noticias
-
-* [Instagram lanza cuenta para adolescentes](https://www.elcomercio.com/tendencias/tecnologia/instagram-cuenta-adolescente-redes-sociales.html "https://www.elcomercio.com/tendencias/tecnologia/instagram-cuenta-adolescente-redes-sociales.html") 
-* [Entérate cómo liberar espacio en WhatsApp](https://www.elcomercio.com/tendencias/tecnologia/liberar-espacio-whatsapp-tecnologia.html "https://www.elcomercio.com/tendencias/tecnologia/liberar-espacio-whatsapp-tecnologia.html")
-
-Según [Infobae](https://www.infobae.com/tecno/2024/09/18/encuentran-un-virus-que-espia-todos-tus-movimientos-desde-el-televisor/ "https://www.infobae.com/tecno/2024/09/18/encuentran-un-virus-que-espia-todos-tus-movimientos-desde-el-televisor/"), un **‘malware’ (programa malicioso)** llamado **Android.Vo1d** ha infectado más de **1,3 millones de dispositivos** en 200 países, que incluyen América Latina, el Medio Oriente, África, Europa y Norteamérica. Este virus permite **espiar los movimientos de los usuarios de forma remota y silenciosa**. 
-
-Ante esta amenaza, **los expertos en ciberseguridad** recomiendan **medidas preventivas**, como **evitar descargar aplicaciones de fuentes no oficiales** y mantener los dispositivos actualizados.  
-
-**Forma en que opera este nuevo virus** 
-----------------------------------------
-
-Este nuevo ‘malware’, conocido como **Android.Vo1d**, ha sido identificado como una seria amenaza para los dispositivos **Android TV Box y los Smart TV antiguos**. Según la página [Oh My Geek](https://ohmygeek.net/2024/09/16/reporte-android-tv-infectados-vo1d/ "https://ohmygeek.net/2024/09/16/reporte-android-tv-infectados-vo1d/"), este **troyano** se camufla como un **archivo del sistema legítimo** llamado “vold”, pero sustituye la letra “l” por el número “1”, y pasa a llamarse **vo1d**. El ‘malware’ se divide en dos componentes principales, **Vo1d.1** y **Vo1d.3**, que trabajan en conjunto para **ejecutar su código malicioso**. 
-
-Este ‘malware’ puede **monitorear directorios específicos para instalar aplicaciones APK infectadas cuando sea necesario**, es decir, aplicaciones de terceros no autorizadas, lo que lo convierte en **una amenaza que persiste incluso después de reiniciar el sistema**. 
-
-**Qué Smart TVs corren el riesgo de ser afectados por este virus**
-------------------------------------------------------------------
-
-Siguiendo con Infobae, los dispositivos afectados por el **‘malware’ Android.Vo1d** comparten una característica común: operan con **versiones antiguas de firmware** (software que proporciona instrucciones a los componentes de hardware de un dispositivo). Esta vulnerabilidad facilita el ataque del ‘malware’. 
-
-Aunque los usuarios que **mantienen sus dispositivos actualizados con las últimas versiones de software** y parches de seguridad pueden estar protegidos, aquellos que **usan versiones anteriores del sistema operativo Android enfrentan un mayor riesgo**.  
-
-La preocupación aumenta cuando los dispositivos infectados provienen de **marcas desconocidas** que no forman parte del **programa de protección oficial de Google**. 
-
-Estos dispositivos suelen basarse en el **Proyecto de Código Abierto de Android**, que permite personalizaciones, pero **sin contar con las medidas de seguridad ofrecidas por el soporte oficial de Google**. Por lo tanto, los usuarios de **dispositivos no certificados** deben estar especialmente atentos y considerar **actualizar su ‘firmware’** o evitar el uso de aplicaciones sensibles para proteger su seguridad. 
-
-**¿Cuáles son las opciones disponibles para los usuarios?** 
-------------------------------------------------------------
-
-Para **proteger tu Smart TV de amenazas** como el ‘malware’ **Android.Vo1d**, es crucial **verificar si tu dispositivo está certificado** por **Play Protect**, según [AVPasion](https://www.avpasion.com/malware-vo1d-infecta-android-tv-asi-comprobar/ "https://www.avpasion.com/malware-vo1d-infecta-android-tv-asi-comprobar/"). Google mantiene una **[lista actualizada](https://www.android.com/intl/es-419_mx/certified/ "https://www.android.com/intl/es-419_mx/certified/") de socios certificados de Android TV en su página oficial**, lo que ayuda a asegurar que tu dispositivo cumple con los estándares de seguridad necesarios. 
-
-Para **comprobar si tu dispositivo está certificado**, sigue estos pasos sencillos:  
-
-* Abre la aplicación de **Google Play Store.** 
-
-* Toca el ícono de menú en la parte superior izquierda y selecciona **“Play Protect2″**.  
-
-Allí podrás verificar el estado de la **certificación de tu dispositivo**. Si tu **Android TV Box** no está certificado, es aconsejable **evitar su uso para aplicaciones que manejen datos personales o financieros**, ya que esto podría comprometer tu seguridad.
