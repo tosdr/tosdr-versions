@@ -48,7 +48,7 @@ SEARCH
 
 [My Account](https://www.cricbuzz.com/premium-subscription/user/account-info "My Account") Sign Out
 
-[MATCHES](https://www.cricbuzz.com/cricket-match/live-scores)[GAW vs TKR - Live](https://www.cricbuzz.com/live-cricket-scores/92856/gaw-vs-tkr-19th-match-caribbean-premier-league-2024 "Guyana Amazon Warriors v Trinbago Knight Riders, 19th Match - Live")[IND vs BAN - Preview](https://www.cricbuzz.com/live-cricket-scores/100220/ind-vs-ban-1st-test-bangladesh-tour-of-india-2024 "India v Bangladesh, 1st Test - Preview")[SL vs NZ - Stumps](https://www.cricbuzz.com/live-cricket-scores/105962/sl-vs-nz-1st-test-new-zealand-tour-of-sri-lanka-2024 "Sri Lanka v New Zealand, 1st Test - Stumps")[RSA vs AFG - AFG Won](https://www.cricbuzz.com/live-cricket-scores/103843/rsa-vs-afg-1st-odi-afghanistan-v-south-africa-in-uae-2024 "South Africa v Afghanistan, 1st ODI - AFG Won")[ENG vs AUS - Preview](https://www.cricbuzz.com/live-cricket-scores/76549/eng-vs-aus-1st-odi-australia-tour-of-england-2024 "England v Australia, 1st ODI - Preview")
+[MATCHES](https://www.cricbuzz.com/cricket-match/live-scores)[IND vs BAN - Live](https://www.cricbuzz.com/live-cricket-scores/100220/ind-vs-ban-1st-test-bangladesh-tour-of-india-2024 "India v Bangladesh, 1st Test - Live")[SL vs NZ - Live](https://www.cricbuzz.com/live-cricket-scores/105962/sl-vs-nz-1st-test-new-zealand-tour-of-sri-lanka-2024 "Sri Lanka v New Zealand, 1st Test - Live")[GAW vs TKR - TKR Won](https://www.cricbuzz.com/live-cricket-scores/92856/gaw-vs-tkr-19th-match-caribbean-premier-league-2024 "Guyana Amazon Warriors v Trinbago Knight Riders, 19th Match - TKR Won")[ENG vs AUS - Preview](https://www.cricbuzz.com/live-cricket-scores/76549/eng-vs-aus-1st-odi-australia-tour-of-england-2024 "England v Australia, 1st ODI - Preview")[RSA vs AFG - AFG Won](https://www.cricbuzz.com/live-cricket-scores/103843/rsa-vs-afg-1st-odi-afghanistan-v-south-africa-in-uae-2024 "South Africa v Afghanistan, 1st ODI - AFG Won")
 
 AllLive NowToday
 
@@ -56,7 +56,7 @@ AllLive NowToday
     
     Bangladesh v India 2024
     
-    [India vs Bangladesh](https://www.cricbuzz.com/live-cricket-scores/100220/ind-vs-ban-1st-test-bangladesh-v-india-2024 "India v Bangladesh, 1st Test - Preview")
+    [India vs Bangladesh  LIVE](https://www.cricbuzz.com/live-cricket-scores/100220/ind-vs-ban-1st-test-bangladesh-v-india-2024 "India v Bangladesh, 1st Test - Live")
     
     1st Test
     
@@ -68,7 +68,7 @@ AllLive NowToday
     
 * NZ tour of SL
     
-    [Sri Lanka vs New Zealand](https://www.cricbuzz.com/live-cricket-scores/105962/sl-vs-nz-1st-test-nz-tour-of-sl "Sri Lanka v New Zealand, 1st Test - Stumps")
+    [Sri Lanka vs New Zealand  LIVE](https://www.cricbuzz.com/live-cricket-scores/105962/sl-vs-nz-1st-test-nz-tour-of-sl "Sri Lanka v New Zealand, 1st Test - Live")
     
     1st Test
     
@@ -100,6 +100,12 @@ AllLive NowToday
     
     30th Match
     
+* ICC Mens AR T20WCQA
+    
+    [Malawi vs Lesotho](https://www.cricbuzz.com/live-cricket-scores/106171/mwi-vs-lso-1st-match-icc-mens-ar-t20wcqa "Malawi v Lesotho, 1st Match - Upcoming")
+    
+    1st Match
+    
 * T20 LEAGUE
     
     CPL 2024
@@ -108,11 +114,11 @@ AllLive NowToday
     
     18th Match
     
-* [Guyana Amazon Warriors vs Trinbago Knight Riders  LIVE](https://www.cricbuzz.com/live-cricket-scores/92856/gaw-vs-tkr-19th-match-cpl-2024 "Guyana Amazon Warriors v Trinbago Knight Riders, 19th Match - Live")
+* [Guyana Amazon Warriors vs Trinbago Knight Riders](https://www.cricbuzz.com/live-cricket-scores/92856/gaw-vs-tkr-19th-match-cpl-2024 "Guyana Amazon Warriors v Trinbago Knight Riders, 19th Match - TKR Won")
     
     19th Match
     
-* [Trinbago Knight Riders vs Antigua and Barbuda Falcons](https://www.cricbuzz.com/live-cricket-scores/92865/tkr-vs-abf-20th-match-cpl-2024 "Trinbago Knight Riders v Antigua and Barbuda Falcons, 20th Match - Upcoming")
+* [Trinbago Knight Riders vs Antigua and Barbuda Falcons](https://www.cricbuzz.com/live-cricket-scores/92865/tkr-vs-abf-20th-match-cpl-2024 "Trinbago Knight Riders v Antigua and Barbuda Falcons, 20th Match - Preview")
     
     20th Match
     
@@ -130,25 +136,17 @@ AllLive NowToday
     
     Duleep Trophy
     
-    [India A vs India C](https://www.cricbuzz.com/live-cricket-scores/104234/inda-vs-indc-6th-match-duleep-trophy "India A v India C, 6th Match - Preview")
-    
-    6th Match
-    
-* [India B vs India D](https://www.cricbuzz.com/live-cricket-scores/104226/indb-vs-indd-5th-match-duleep-trophy "India B v India D, 5th Match - Preview")
+    [India D vs India B  LIVE](https://www.cricbuzz.com/live-cricket-scores/104226/indd-vs-indb-5th-match-duleep-trophy "India D v India B, 5th Match - Live")
     
     5th Match
     
+* [India A vs India C  LIVE](https://www.cricbuzz.com/live-cricket-scores/104234/inda-vs-indc-6th-match-duleep-trophy "India A v India C, 6th Match - Live")
+    
+    6th Match
+    
 * County Division 1
     
-    [Warwickshire vs Essex](https://www.cricbuzz.com/live-cricket-scores/84509/warks-vs-ess-65th-match-county-division-1 "Warwickshire v Essex, 65th Match - ESS Won")
-    
-    65th Match
-    
-* [Durham vs Surrey](https://www.cricbuzz.com/live-cricket-scores/84502/dur-vs-sur-64th-match-county-division-1 "Durham v Surrey, 64th Match - Stumps")
-    
-    64th Match
-    
-* [Lancashire vs Somerset](https://www.cricbuzz.com/live-cricket-scores/84499/lancs-vs-som-63rd-match-county-division-1 "Lancashire v Somerset, 63rd Match - Stumps")
+    [Lancashire vs Somerset](https://www.cricbuzz.com/live-cricket-scores/84499/lancs-vs-som-63rd-match-county-division-1 "Lancashire v Somerset, 63rd Match - Stumps")
     
     63rd Match
     
@@ -159,6 +157,20 @@ AllLive NowToday
 * [Hampshire vs Worcestershire](https://www.cricbuzz.com/live-cricket-scores/84485/ham-vs-worcs-61st-match-county-division-1 "Hampshire v Worcestershire, 61st Match - Stumps")
     
     61st Match
+    
+* [Warwickshire vs Essex](https://www.cricbuzz.com/live-cricket-scores/84509/warks-vs-ess-65th-match-county-division-1 "Warwickshire v Essex, 65th Match - ESS Won")
+    
+    65th Match
+    
+* [Durham vs Surrey](https://www.cricbuzz.com/live-cricket-scores/84502/dur-vs-sur-64th-match-county-division-1 "Durham v Surrey, 64th Match - Stumps")
+    
+    64th Match
+    
+* Australia Under 19 tour of India
+    
+    [India U19 vs Australia U19](https://www.cricbuzz.com/live-cricket-scores/106428/indu19-vs-ausu19-1st-youth-odi-australia-under-19-tour-of-india "India U19 v Australia U19, 1st Youth ODI - Upcoming")
+    
+    1st Youth ODI
     
 * County Division 2
     
@@ -192,7 +204,7 @@ AllLive NowToday
     
     2nd T20I
     
-* [Pakistan Women vs South Africa Women](https://www.cricbuzz.com/live-cricket-scores/106425/pakw-vs-rsaw-3rd-t20i-south-africa-women-tour-of-pakistan "Pakistan Women v South Africa Women, 3rd T20I - Upcoming")
+* [Pakistan Women vs South Africa Women](https://www.cricbuzz.com/live-cricket-scores/106425/pakw-vs-rsaw-3rd-t20i-south-africa-women-tour-of-pakistan "Pakistan Women v South Africa Women, 3rd T20I - Preview")
     
     3rd T20I
     
@@ -515,41 +527,41 @@ This Privacy Policy (the “**Privacy Policy**”) serves to inform you of our p
 
 #### LATEST NEWS
 
+  [](https://www.cricbuzz.com/cricket-news/131667/pant-jaiswal-steady-india-after-mahmud-burst "Pant, Jaiswal steady India after Mahmud burst")
+
+[Pant, Jaiswal steady India after Mahmud burst](https://www.cricbuzz.com/cricket-news/131667/pant-jaiswal-steady-india-after-mahmud-burst "Pant, Jaiswal steady India after Mahmud burst")
+
+54m ago
+
+  [](https://www.cricbuzz.com/cricket-news/131666/cricket-australia-bans-dulip-samaraweera "Cricket Australia bans Dulip Samaraweera")
+
+[Cricket Australia bans Dulip Samaraweera](https://www.cricbuzz.com/cricket-news/131666/cricket-australia-bans-dulip-samaraweera "Cricket Australia bans Dulip Samaraweera")
+
+1h ago
+
+  [](https://www.cricbuzz.com/cricket-news/131665/russell-david-seal-thrilling-chase-for-tkr "Russell, David seal thrilling chase for TKR")
+
+[Russell, David seal thrilling chase for TKR](https://www.cricbuzz.com/cricket-news/131665/russell-david-seal-thrilling-chase-for-tkr "Russell, David seal thrilling chase for TKR")
+
+3h ago
+
+  [](https://www.cricbuzz.com/cricket-news/131664/jasdeep-gous-annihilate-uae "Jasdeep, Gous annihilate UAE")
+
+[Jasdeep, Gous annihilate UAE](https://www.cricbuzz.com/cricket-news/131664/jasdeep-gous-annihilate-uae "Jasdeep, Gous annihilate UAE")
+
+5h ago
+
   [](https://www.cricbuzz.com/cricket-news/131663/cricket-provides-the-joy-for-afghanistan-again "Cricket provides the joy for Afghanistan again")
 
 [Cricket provides the joy for Afghanistan again](https://www.cricbuzz.com/cricket-news/131663/cricket-provides-the-joy-for-afghanistan-again "Cricket provides the joy for Afghanistan again")
 
-6h ago
+12h ago
 
   [](https://www.cricbuzz.com/cricket-news/131662/farooqi-leads-rout-as-afghanistan-register-first-win-over-south-africa "Farooqi leads rout as Afghanistan register first win over South Africa")
 
 [Farooqi leads rout as Afghanistan register first win over South Africa](https://www.cricbuzz.com/cricket-news/131662/farooqi-leads-rout-as-afghanistan-register-first-win-over-south-africa "Farooqi leads rout as Afghanistan register first win over South Africa")
 
-7h ago
-
-  [](https://www.cricbuzz.com/cricket-news/131661/ipl-auction-likely-to-be-overseas-in-november "IPL auction likely to be overseas in November ")
-
-[IPL auction likely to be overseas in November](https://www.cricbuzz.com/cricket-news/131661/ipl-auction-likely-to-be-overseas-in-november "IPL auction likely to be overseas in November ")
-
-8h ago
-
-  [](https://www.cricbuzz.com/cricket-news/131660/can-litton-become-an-all-time-great "Litton 'the keeper' makes giant strides")
-
-[Litton 'the keeper' makes giant strides](https://www.cricbuzz.com/cricket-news/131660/can-litton-become-an-all-time-great "Litton 'the keeper' makes giant strides")
-
-10h ago
-
-  [](https://www.cricbuzz.com/cricket-news/131659/kamindu-mendis-gives-sri-lanka-opening-day-honours " Kamindu Mendis gives Sri Lanka opening day honours")
-
-[Kamindu Mendis gives Sri Lanka opening day honours](https://www.cricbuzz.com/cricket-news/131659/kamindu-mendis-gives-sri-lanka-opening-day-honours " Kamindu Mendis gives Sri Lanka opening day honours")
-
-12h ago
-
-  [](https://www.cricbuzz.com/cricket-news/131658/najmul-believes-adaptation-to-be-key-against-india "Najmul believes 'adaptation' to be key against India")
-
-[Najmul believes 'adaptation' to be key against India](https://www.cricbuzz.com/cricket-news/131658/najmul-believes-adaptation-to-be-key-against-india "Najmul believes 'adaptation' to be key against India")
-
-12h ago
+13h ago
 
 [More News](https://www.cricbuzz.com/cricket-news "Click to view more News")
 
