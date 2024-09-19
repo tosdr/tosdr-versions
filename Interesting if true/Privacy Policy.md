@@ -177,4 +177,4 @@ Show Episodes List
 
 Next Episode
 
-[Interesting If True](https://www.interestingiftrue.com/?blackhole=c59b1a5237 "Do NOT follow this link or you will be banned from the site!") Dark Mode:
+[Interesting If True](https://www.interestingiftrue.com/?blackhole=70a752ce1a "Do NOT follow this link or you will be banned from the site!") Dark Mode:
