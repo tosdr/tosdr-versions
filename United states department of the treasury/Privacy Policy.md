@@ -86,8 +86,6 @@ MENU MENU
     
     [Treasury Inspector General for Tax Administration (TIGTA)](https://www.treasury.gov/tigta/)
     
-    [Special Inspector General for the Troubled Asset Relief Program (SIGTARP)](https://www.sigtarp.gov/Pages/Home.aspx)
-    
     [Special Inspector General for Pandemic Recovery (SIGPR)](https://www.sigpr.gov/)
     
     [Budget, Financial Reporting, Planning and Performance](https://home.treasury.gov/about/budget-financial-reporting-planning-and-performance)
@@ -557,6 +555,10 @@ MENU MENU
     [Press Releases](https://home.treasury.gov/news/press-releases)
     ---------------------------------------------------------------
     
+    September 19, 2024
+    
+    [Treasury Targets Key Actors in Sanctions Evasion Scheme to Support Russia and North Korea](https://home.treasury.gov/news/press-releases/jy2590)
+    
     September 18, 2024
     
     [Treasury International Capital Data for July](https://home.treasury.gov/news/press-releases/jy2588)
@@ -565,10 +567,6 @@ MENU MENU
     
     [Treasury Sanctions Iranian Officials Connected to Human Rights Violations](https://home.treasury.gov/news/press-releases/jy2587)
     
-    September 18, 2024
-    
-    [U.S. Department of the Treasury Releases Guidance to Expand Clean Vehicle Recharging and Refueling Infrastructure and Lower Transportation Costs for Americans](https://home.treasury.gov/news/press-releases/jy2586)
-    
     [View All Press Releases](https://home.treasury.gov/news/press-releases "View all Press Releases")
     
     [Remarks and Statements](https://home.treasury.gov/news/press-releases/statements-remarks)
@@ -576,7 +574,7 @@ MENU MENU
     
     September 17, 2024
     
-    [Remarks by Under Secretary for Domestic Finance Nellie Liang at the Georgetown University Financial Markets Quality Conference](https://home.treasury.gov/news/press-releases/jy2584)
+    [Strengthening Treasury Market Liquidity and What Remains](https://home.treasury.gov/news/press-releases/jy2584)
     
     September 17, 2024
     
@@ -700,7 +698,6 @@ This policy applies to Treasury.gov visitors (i.e., visitors to Treasury website
 
 This policy does not apply to the individual websites hosted by Treasury's bureaus (i.e., [www.treasury.gov](https://www.treasury.gov/) is not in the URL), which maintain separate privacy policies governing each particular bureau's information collection, use, sharing, and disposal.  Before you leave Treasury.gov to go to a particular Treasury bureau's website, you should read the relevant bureau's online privacy policy from the links provided below:
 
-* [Special Inspector General for the Troubled Asset Relief Program](https://www.sigtarp.gov/privacy)
 * [U.S. Treasury Inspector General for Tax Administration](https://www.treasury.gov/tigta/important.shtml#1)
 * [U.S. Mint](http://www.usmint.gov/policy/)
 * [Internal Revenue Service](http://www.irs.gov/privacy/index.html)
@@ -869,7 +866,6 @@ Treasury maintains a separate page related to the [Privacy Act](https://home.tr
 
 * [Office of Inspector General (OIG)](https://oig.treasury.gov/)
 * [Treasury Inspector General for Tax Administration (TIGTA)](http://www.treasury.gov/tigta)
-* [Special Inspector General, Troubled Asset Relief Program (SIGTARP)](http://www.sigtarp.gov/)
 * [Report Scams, Fraud, Waste & Abuse](https://home.treasury.gov/services/report-fraud-waste-and-abuse)
 * [Special Inspector General for Pandemic Recovery (SIGPR)](https://www.sigpr.gov/)
 
