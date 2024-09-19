@@ -124,6 +124,6 @@ If you have questions about (or suggestions for!) this policy, please [contact u
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-I like the Proxy Service. It works well. I am happy with FoxyProxy.
+I was very impressed by the service, and I shall contract a longer period in due course.
 
-Sanyi Lakatos
+Mark Kitcatt
