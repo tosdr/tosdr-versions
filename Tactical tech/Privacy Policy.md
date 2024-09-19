@@ -153,6 +153,16 @@ Shifting the conversation around the impacts of digital technologies
     
     * Open calls
     
+    [### \[Offener Aufruf zu Partnerschaften\] An Berliner Organisationen, die mit Jugendlichen arbeiten](https://tacticaltech.org/news/open-calls/offener-aufruf-zu-partnerschaften/)
+    
+    Wir sind auf der Suche nach Partnerschaften mit formellen oder informellen, in Berlin ansässigen Jugendorganisationen und -institutionen, vor allem solchen, die mit jungen Menschen (13-18 Jahre) aus traditionell marginalisierten Identitäten oder Hintergründen arbeiten.
+    
+    [Read more →](https://tacticaltech.org/news/open-calls/offener-aufruf-zu-partnerschaften/)
+    
+* ![](https://cdn.ttc.io/i/fit/3840/0/sm/0/plain/tacticaltech.org/200928_Youth_Medium_illustration_-07.jpg)
+    
+    * Open calls
+    
     [### \[Open Call for Partnerships\] Organisations in Berlin Working with Youth](https://tacticaltech.org/news/open-calls/open-call-OWY-berlin-wtfw-2024/)
     
     We are looking to partner with formal or non-formal youth-focused organisations and institutions based in Berlin, especially those working with young people (ages 13-18 years old) from traditionally marginalized identities or backgrounds, on a digital literacy project called What the Future Wants (WTFW) - Comes to Berlin, co-funded by Deutsche Postcode Lotterie.
@@ -178,16 +188,6 @@ Shifting the conversation around the impacts of digital technologies
     Tactical Tech is opening a year-long paid volunteer opportunity for an individual who wants to learn more about creative interventions that champion a digitally resilient society and join our communications and partnerships team in the Berlin-based office.
     
     [Read more →](https://tacticaltech.org/news/open-calls/Open-call-for-a-volunteer-communications-european-solidarity-corps-programme/)
-    
-* ![Banner Unpacking Artificial Intelligence with the Data Detox Kit](https://cdn.ttc.io/i/fit/3840/0/sm/0/plain/tacticaltech.org/website2023/news/DDK-ai.jpg)
-    
-    * Project launches
-    
-    [### Unpacking Artificial Intelligence with the Data Detox Kit: What everyone needs to know about AI and its impacts](https://tacticaltech.org/news/project-launches/data-detox-kit-artificial-intelligence-ai/)
-    
-    This new package of engaging and easy-to-read Data Detox Kit guides delves into AI and explores how its buzz can have a big sting. By using real-world examples, familiar and non-technical language, these AI guides are filled with actionable steps that anyone can take to gain awareness of modern technologies and take control where possible.
-    
-    [Read more →](https://tacticaltech.org/news/project-launches/data-detox-kit-artificial-intelligence-ai/)
     
 
 Impact stories
