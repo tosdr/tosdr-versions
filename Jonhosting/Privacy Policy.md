@@ -3,7 +3,7 @@ JonHosting
 
 This is the privacy policy on JonHosting.com
 
-[TOS](https://jonhosting.com/legal/TOS.html)  
+[Terms of Service (TOS)](https://jonhosting.com/legal/TOS.html)  
 
 Cookies
 -------
