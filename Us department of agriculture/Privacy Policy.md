@@ -256,6 +256,7 @@ Footer navigation
 * [Vulnerability Disclosure Policy](https://www.usda.gov/vulnerability-disclosure-policy)
 * [Agency Financial Reports](https://www.usda.gov/ocfo/plans-reports/agency-financial-reports)
 * [USDA CARES Partner Portal](https://www.usda.gov/partner-portal)
+* [21st Century IDEA Act Progress Report](https://www.usda.gov/sites/default/files/documents/report-congress-omb-implementation-21st-century-idea-act.pdf)
 
 ### Sign Up for Updates
 
