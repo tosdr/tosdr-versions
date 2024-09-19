@@ -130,11 +130,22 @@ Speedify is the only app that combines all of your Internet connections to keep 
 
 [Download Speedify](https://speedify.com/download/) 
 
+Upcoming Events
+---------------
+
+Sep 18
+
+10:00 am - 11:00 am EDT
+
+### [9/18 @ 10am EDT – Do you need a new router for WiFi 7? | Ask the CEO your tech questions](https://speedify.com/event/9-18-10am-edt-do-you-need-a-new-router-for-wifi-7-ask-the-ceo-your-tech-questions/ "9/18 @ 10am EDT – Do you need a new router for WiFi 7? | Ask the CEO your tech questions")
+
+[View Calendar](https://speedify.com/calendar/ "View more events.")
+
 #### Popular Posts
 
 * [\[SOLVED\] Mobile Hotspot Connected but No Internet](https://speedify.com/blog/fix-slow-internet/mobile-hotspot-connected-but-no-internet-fix/)
-* [The Ultimate Guide to Getting a Fast VPN on iOS 18](https://speedify.com/blog/fast-bonding-vpn/fast-vpn-ios-18-guide/)
 * [iPad Keeps Disconnecting from Wi-Fi? Here's the Easy Fix!](https://speedify.com/blog/fix-internet-disconnecting/ipad-keeps-disconnecting-from-wifi-fix/)
+* [The Ultimate Guide to Getting a Fast VPN on iOS 18](https://speedify.com/blog/fast-bonding-vpn/fast-vpn-ios-18-guide/)
 
 ### Bonding Apps
 
