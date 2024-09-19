@@ -134,105 +134,105 @@ Política de privacidade
 
 * ### Últimos tópicos
     
-    * [![rioszin](https://www.clubedohardware.com.br/uploads/members/monthly_2024_09/imported-photo-1174910.thumb.jpeg.4552e8dc4b2e0152674a8fd76d81812d.jpeg)](https://www.clubedohardware.com.br/profile/1174910-rioszin/ "Ir ao perfil de rioszin")
+    * [![Jamsilva](https://www.clubedohardware.com.br/uploads/members/monthly_2024_09/imported-photo-1253348.thumb.jpeg.70c08ee9b2f8a77900a2db8fa14108b8.jpeg)](https://www.clubedohardware.com.br/profile/1253348-jamsilva/ "Ir ao perfil de Jamsilva")
         
         0
         
-        [placa-mãe ASUS Prime B450M Gaming/BR tem Wifi ?](https://www.clubedohardware.com.br/forums/topic/1697765-placa-m%C3%A3e-asus-prime-b450m-gamingbr-tem-wifi/?do=getNewComment "placa-mãe ASUS Prime B450M Gaming/BR tem Wifi ?")
-        
-        [Placas-mãe](https://www.clubedohardware.com.br/forums/forum/28-placas-m%C3%A3e/ "Placas-mãe")  
-        Por [rioszin](https://www.clubedohardware.com.br/profile/1174910-rioszin/ "Ir ao perfil de rioszin")  
-        agora
-        
-    * [![Eve de Paula](https://www.clubedohardware.com.br/uploads/members/monthly_2024_09/imported-photo-1253332.thumb.png.c87bfe882186d065f6aee2a88600b3d2.png)](https://www.clubedohardware.com.br/profile/1253332-eve-de-paula/ "Ir ao perfil de Eve de Paula")
-        
-        0
-        
-        [Pc gamer da 3green](https://www.clubedohardware.com.br/forums/topic/1697764-pc-gamer-da-3green/?do=getNewComment "Pc gamer da 3green")
-        
-        [Recomendações de lojas e serviços](https://www.clubedohardware.com.br/forums/forum/12-recomenda%C3%A7%C3%B5es-de-lojas-e-servi%C3%A7os/ "Recomendações de lojas e serviços")  
-        Por [Eve de Paula](https://www.clubedohardware.com.br/profile/1253332-eve-de-paula/ "Ir ao perfil de Eve de Paula")  
-        4 minutos atrás
-        
-    * [![Swalls](https://www.clubedohardware.com.br/uploads/members/monthly_2024_05/2(1)(1).thumb.gif.8bc9075f9ac397929081e02491b40cb5.gif)](https://www.clubedohardware.com.br/profile/1160883-swalls/ "Ir ao perfil de Swalls")
-        
-        1
-        
-        [Conselho para passagem de cabo de energia bitola 6mm por forro.](https://www.clubedohardware.com.br/forums/topic/1697763-conselho-para-passagem-de-cabo-de-energia-bitola-6mm-por-forro/?do=getNewComment "Conselho para passagem de cabo de energia bitola 6mm por forro.")
-        
-        [Eletrônica](https://www.clubedohardware.com.br/forums/forum/30-eletr%C3%B4nica/ "Eletrônica")  
-        Por [Swalls](https://www.clubedohardware.com.br/profile/1160883-swalls/ "Ir ao perfil de Swalls")  
-        53 minutos atrás
-        
-    * [![troi](https://www.clubedohardware.com.br/uploads/members/monthly_2024_09/images-2024-08-21T191032_460.thumb.jpeg.8585945774b3877cf2bdbad739293e1e.jpeg)](https://www.clubedohardware.com.br/profile/1253330-troi/ "Ir ao perfil de troi")
-        
-        3
-        
-        [Escolha: Ryzen 7 5700x3d ou Ryzen 5 7600/7600X?](https://www.clubedohardware.com.br/forums/topic/1697762-escolha-ryzen-7-5700x3d-ou-ryzen-5-76007600x/?do=getNewComment "Escolha: Ryzen 7 5700x3d ou Ryzen 5 7600/7600X?")
-        
-        [Processadores](https://www.clubedohardware.com.br/forums/forum/43-processadores/ "Processadores")  
-        Por [troi](https://www.clubedohardware.com.br/profile/1253330-troi/ "Ir ao perfil de troi")  
-        1 hora atrás
-        
-    * [![Matheus de Faria](https://www.clubedohardware.com.br/uploads/members/monthly_2020_11/imported-photo-1072044.thumb.jpeg.789ea21334c96281e6bb5c8ec20a6f2f.jpeg)](https://www.clubedohardware.com.br/profile/1072044-matheus-de-faria/ "Ir ao perfil de Matheus de Faria")
-        
-        1
-        
-        [Preciso de recomendações de gabinete.](https://www.clubedohardware.com.br/forums/topic/1697761-preciso-de-recomenda%C3%A7%C3%B5es-de-gabinete/?do=getNewComment "Preciso de recomendações de gabinete.")
-        
-        [Gabinetes e casemod](https://www.clubedohardware.com.br/forums/forum/81-gabinetes-e-casemod/ "Gabinetes e casemod")  
-        Por [Matheus de Faria](https://www.clubedohardware.com.br/profile/1072044-matheus-de-faria/ "Ir ao perfil de Matheus de Faria")  
-        1 hora atrás
-        
-    * [![ORICARDO](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%2362c474%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EO%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/837361-oricardo/ "Ir ao perfil de ORICARDO")
-        
-        0
-        
-        [É possível fazer PBO no Ryzen 7 5700X3D?](https://www.clubedohardware.com.br/forums/topic/1697760-%C3%A9-poss%C3%ADvel-fazer-pbo-no-ryzen-7-5700x3d/?do=getNewComment "É possível fazer PBO no Ryzen 7 5700X3D?")
-        
-        [Processadores](https://www.clubedohardware.com.br/forums/forum/43-processadores/ "Processadores")  
-        Por [ORICARDO](https://www.clubedohardware.com.br/profile/837361-oricardo/ "Ir ao perfil de ORICARDO")  
-        1 hora atrás
-        
-    * [![Marcel Santos de Araujo](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23c4bf62%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EMS%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/814763-marcel-santos-de-araujo/ "Ir ao perfil de Marcel Santos de Araujo")
-        
-        0
-        
-        [GeForce Experience não salvando gravações](https://www.clubedohardware.com.br/forums/topic/1697759-geforce-experience-n%C3%A3o-salvando-grava%C3%A7%C3%B5es/?do=getNewComment "GeForce Experience não salvando gravações")
-        
-        [Programas](https://www.clubedohardware.com.br/forums/forum/24-programas/ "Programas")  
-        Por [Marcel Santos de Araujo](https://www.clubedohardware.com.br/profile/814763-marcel-santos-de-araujo/ "Ir ao perfil de Marcel Santos de Araujo")  
-        3 horas atrás
-        
-    * [![Lucas Soaress](https://www.clubedohardware.com.br/uploads/members/monthly_2024_09/imported-photo-1253329.thumb.jpeg.ae220c1fac12995511c36b3461868a77.jpeg)](https://www.clubedohardware.com.br/profile/1253329-lucas-soaress/ "Ir ao perfil de Lucas Soaress")
-        
-        1
-        
-        [Tela azul vazia e desliga após](https://www.clubedohardware.com.br/forums/topic/1697758-tela-azul-vazia-e-desliga-ap%C3%B3s/?do=getNewComment "Tela azul vazia e desliga após")
-        
-        [Telas azuis](https://www.clubedohardware.com.br/forums/forum/124-telas-azuis/ "Telas azuis")  
-        Por [Lucas Soaress](https://www.clubedohardware.com.br/profile/1253329-lucas-soaress/ "Ir ao perfil de Lucas Soaress")  
-        3 horas atrás
-        
-    * [![TitoSG](https://www.clubedohardware.com.br/uploads/members/monthly_2022_09/imported-photo-1204959.thumb.png.30e747dce197acef71a66e528c6718f0.png)](https://www.clubedohardware.com.br/profile/1204959-titosg/ "Ir ao perfil de TitoSG")
-        
-        1
-        
-        [SSD NVMe não funciona em 4.0](https://www.clubedohardware.com.br/forums/topic/1697757-ssd-nvme-n%C3%A3o-funciona-em-40/?do=getNewComment "SSD NVMe não funciona em 4.0")
-        
-        [HD, SSD e NAS](https://www.clubedohardware.com.br/forums/forum/31-hd-ssd-e-nas/ "HD, SSD e NAS")  
-        Por [TitoSG](https://www.clubedohardware.com.br/profile/1204959-titosg/ "Ir ao perfil de TitoSG")  
-        4 horas atrás
-        
-    * [![tutuba08](https://www.clubedohardware.com.br/uploads/members/monthly_2024_09/imported-photo-1253327.thumb.png.da72b365d1c8c753a80b2c5a6f38150b.png)](https://www.clubedohardware.com.br/profile/1253327-tutuba08/ "Ir ao perfil de tutuba08")
-        
-        0
-        
-        [mau-contato no cabo de 24 pinos da fonte de energia](https://www.clubedohardware.com.br/forums/topic/1697756-mau-contato-no-cabo-de-24-pinos-da-fonte-de-energia/?do=getNewComment "mau-contato no cabo de 24 pinos da fonte de energia")
+        [Fonte Fujitsu S26113- E563- V50- 01](https://www.clubedohardware.com.br/forums/topic/1697788-fonte-fujitsu-s26113-e563-v50-01/?do=getNewComment "Fonte Fujitsu S26113- E563- V50- 01")
         
         [Fontes e energia](https://www.clubedohardware.com.br/forums/forum/153-fontes-e-energia/ "Fontes e energia")  
-        Por [tutuba08](https://www.clubedohardware.com.br/profile/1253327-tutuba08/ "Ir ao perfil de tutuba08")  
-        7 horas atrás
+        Por [Jamsilva](https://www.clubedohardware.com.br/profile/1253348-jamsilva/ "Ir ao perfil de Jamsilva")  
+        6 minutos atrás
+        
+    * [![caicob](https://www.clubedohardware.com.br/uploads/members/monthly_2024_01/imported-photo-1238323.thumb.png.6ffcc2b2a10c992abf9503debf01020a.png)](https://www.clubedohardware.com.br/profile/1238323-caicob/ "Ir ao perfil de caicob")
+        
+        0
+        
+        [Indicação switch dual wan.](https://www.clubedohardware.com.br/forums/topic/1697786-indica%C3%A7%C3%A3o-switch-dual-wan/?do=getNewComment "Indicação switch dual wan.")
+        
+        [Redes e Internet](https://www.clubedohardware.com.br/forums/forum/171-redes-e-internet/ "Redes e Internet")  
+        Por [caicob](https://www.clubedohardware.com.br/profile/1238323-caicob/ "Ir ao perfil de caicob")  
+        1 hora atrás
+        
+    * [![saed](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/imported-photo-1039050.thumb.jpeg.fde1842db5577630d7f87280216aaf15.jpeg)](https://www.clubedohardware.com.br/profile/1039050-saed/ "Ir ao perfil de saed")
+        
+        0
+        
+        [Monitor LG LED 20EN33 pisca ao ligar e não dá mais imagem](https://www.clubedohardware.com.br/forums/topic/1697785-monitor-lg-led-20en33-pisca-ao-ligar-e-n%C3%A3o-d%C3%A1-mais-imagem/?do=getNewComment "Monitor LG LED 20EN33 pisca ao ligar e não dá mais imagem")
+        
+        [Monitores de vídeo](https://www.clubedohardware.com.br/forums/forum/37-monitores-de-v%C3%ADdeo/ "Monitores de vídeo")  
+        Por [saed](https://www.clubedohardware.com.br/profile/1039050-saed/ "Ir ao perfil de saed")  
+        1 hora atrás
+        
+    * [![ANDERSON CRUZ LIMA](https://www.clubedohardware.com.br/uploads/members/monthly_2024_09/imported-photo-1178538.thumb.jpeg.f41f65f8cea1a6e2f41b3515ac9de7b6.jpeg)](https://www.clubedohardware.com.br/profile/1178538-anderson-cruz-lima/ "Ir ao perfil de ANDERSON CRUZ LIMA")
+        
+        1
+        
+        [Configurando Lista de Bloqueio de sites no RB ER7206 TP-Link](https://www.clubedohardware.com.br/forums/topic/1697784-configurando-lista-de-bloqueio-de-sites-no-rb-er7206-tp-link/?do=getNewComment "Configurando Lista de Bloqueio de sites no RB ER7206 TP-Link")
+        
+        [Redes e Internet](https://www.clubedohardware.com.br/forums/forum/171-redes-e-internet/ "Redes e Internet")  
+        Por [ANDERSON CRUZ LIMA](https://www.clubedohardware.com.br/profile/1178538-anderson-cruz-lima/ "Ir ao perfil de ANDERSON CRUZ LIMA")  
+        1 hora atrás
+        
+    * [![Lito8581](https://www.clubedohardware.com.br/uploads/members/monthly_2021_02/Screenshot_1.thumb.jpg.3b68df33503f53eaaa31ea22f27fa7f9.jpg)](https://www.clubedohardware.com.br/profile/1142875-lito8581/ "Ir ao perfil de Lito8581")
+        
+        2
+        
+        Bat [Manter determinada quantidade de arquivos na pasta](https://www.clubedohardware.com.br/forums/topic/1697783-manter-determinada-quantidade-de-arquivos-na-pasta/?do=getNewComment "Manter determinada quantidade de arquivos na pasta")
+        
+        [Programação - outros](https://www.clubedohardware.com.br/forums/forum/182-programa%C3%A7%C3%A3o-outros/ "Programação - outros")  
+        Por [Lito8581](https://www.clubedohardware.com.br/profile/1142875-lito8581/ "Ir ao perfil de Lito8581")  
+        1 hora atrás
+        
+    * [![Pedro329048112](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23628fc4%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EP%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1253338-pedro329048112/ "Ir ao perfil de Pedro329048112")
+        
+        2
+        
+        [Luz laranja na dram e vermelha na CPU ao ligar com duas RAM](https://www.clubedohardware.com.br/forums/topic/1697782-luz-laranja-na-dram-e-vermelha-na-cpu-ao-ligar-com-duas-ram/?do=getNewComment "Luz laranja na dram e vermelha na CPU ao ligar com duas RAM")
+        
+        [Computador não liga ou não dá vídeo](https://www.clubedohardware.com.br/forums/forum/122-computador-n%C3%A3o-liga-ou-n%C3%A3o-d%C3%A1-v%C3%ADdeo/ "Computador não liga ou não dá vídeo")  
+        Por [Pedro329048112](https://www.clubedohardware.com.br/profile/1253338-pedro329048112/ "Ir ao perfil de Pedro329048112")  
+        1 hora atrás
+        
+    * [![Carlosst](https://www.clubedohardware.com.br/uploads/members/profile/photo-thumb-561713.jpg)](https://www.clubedohardware.com.br/profile/561713-carlosst/ "Ir ao perfil de Carlosst")
+        
+        2
+        
+        [Entrada Tape de Receiver](https://www.clubedohardware.com.br/forums/topic/1697781-entrada-tape-de-receiver/?do=getNewComment "Entrada Tape de Receiver")
+        
+        [Equipamentos de som e home theaters](https://www.clubedohardware.com.br/forums/forum/52-equipamentos-de-som-e-home-theaters/ "Equipamentos de som e home theaters")  
+        Por [Carlosst](https://www.clubedohardware.com.br/profile/561713-carlosst/ "Ir ao perfil de Carlosst")  
+        1 hora atrás
+        
+    * [![daleLoko](https://www.clubedohardware.com.br/uploads/members/monthly_2023_03/Screenshot_38.thumb.png.028fb5c1d6bf781c01fc956e68156591.png)](https://www.clubedohardware.com.br/profile/722463-daleloko/ "Ir ao perfil de daleLoko")
+        
+        1
+        
+        [Cabo extensor RGB funciona nesta controladora?](https://www.clubedohardware.com.br/forums/topic/1697780-cabo-extensor-rgb-funciona-nesta-controladora/?do=getNewComment "Cabo extensor RGB funciona nesta controladora?")
+        
+        [Montagem e upgrade de computadores de mesa](https://www.clubedohardware.com.br/forums/forum/93-montagem-e-upgrade-de-computadores-de-mesa/ "Montagem e upgrade de computadores de mesa")  
+        Por [daleLoko](https://www.clubedohardware.com.br/profile/722463-daleloko/ "Ir ao perfil de daleLoko")  
+        2 horas atrás
+        
+    * [![jorgereis](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23c462c4%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EJ%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/430416-jorgereis/ "Ir ao perfil de jorgereis")
+        
+        0
+        
+        [Dois provedores e dois Mesh](https://www.clubedohardware.com.br/forums/topic/1697779-dois-provedores-e-dois-mesh/?do=getNewComment "Dois provedores e dois Mesh")
+        
+        [Redes e Internet](https://www.clubedohardware.com.br/forums/forum/171-redes-e-internet/ "Redes e Internet")  
+        Por [jorgereis](https://www.clubedohardware.com.br/profile/430416-jorgereis/ "Ir ao perfil de jorgereis")  
+        2 horas atrás
+        
+    * [![William Morais](https://www.clubedohardware.com.br/uploads/members/monthly_2021_01/imported-photo-1140844.thumb.jpeg.5a811469461ab3cfd0471f901bae88b0.jpeg)](https://www.clubedohardware.com.br/profile/1140844-william-morais/ "Ir ao perfil de William Morais")
+        
+        8
+        
+        [Como ativar o G-sync no monitor LG UltraGear 24"?](https://www.clubedohardware.com.br/forums/topic/1697778-como-ativar-o-g-sync-no-monitor-lg-ultragear-24/?do=getNewComment "Como ativar o G-sync no monitor LG UltraGear 24"?")
+        
+        [Monitores de vídeo](https://www.clubedohardware.com.br/forums/forum/37-monitores-de-v%C3%ADdeo/ "Monitores de vídeo")  
+        Por [William Morais](https://www.clubedohardware.com.br/profile/1140844-william-morais/ "Ir ao perfil de William Morais")  
+        2 horas atrás
         
     
 
