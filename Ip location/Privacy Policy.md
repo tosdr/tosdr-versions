@@ -149,7 +149,7 @@ If you have any questions or concerns about this Privacy Policy, please contact 
 * [Scams & Frauds (16)](https://www.iplocation.net/blog/category/scams-frauds)
 * [Security (1)](https://www.iplocation.net/blog/category/security)
 * [Smartphone (42)](https://www.iplocation.net/blog/category/smartphone)
-* [Social Media (61)](https://www.iplocation.net/blog/category/social-media)
+* [Social Media (62)](https://www.iplocation.net/blog/category/social-media)
 * [Social Media Marketing (36)](https://www.iplocation.net/blog/category/social-media-marketing)
 * [Software (141)](https://www.iplocation.net/blog/category/software)
 * [Software Development (130)](https://www.iplocation.net/blog/category/software-development)
