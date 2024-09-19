@@ -484,7 +484,6 @@ English
     * [Sitemap](https://www.freshbooks.com/sitemap)
     * [QuickBooks Alternative](https://www.freshbooks.com/compare/quickbooks-online-alternative)
     * [Support Webinars](https://freshbookswebinars.splashthat.com/)
-    * [Accounting Software](https://www.freshbooks.com/accounting-software)
     * [Invoice Template](https://www.freshbooks.com/invoice-templates)
     * [Accounting Templates](https://www.freshbooks.com/accounting-templates)
     * [Resource Hub](https://www.freshbooks.com/hub)
