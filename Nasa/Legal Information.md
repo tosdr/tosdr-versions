@@ -307,7 +307,13 @@ article 1 week ago](https://www.nasa.gov/earth/nasa-finds-summer-2024-hottest-to
 
 ### Highlights
 
-[![Artist’s concept depicts NASA’s Europa Clipper spacecraft in orbit around Jupiter](https://www.nasa.gov/wp-content/uploads/2024/08/e3-pia26068-europa-clipper-spacecraft-stylized-illustration.jpg?w=1024)
+[![NASA Develops Process to Create Very Accurate Eclipse Maps](https://science.nasa.gov/wp-content/uploads/2024/08/pinhole-0885.jpg)
+
+3 min read
+
+### NASA Develops Process to Create Very Accurate Eclipse Maps
+
+article 2 hours ago](https://science.nasa.gov/solar-system/skywatching/eclipses/solar-eclipses/nasa-develops-process-to-create-very-accurate-eclipse-maps/)[![Artist’s concept depicts NASA’s Europa Clipper spacecraft in orbit around Jupiter](https://www.nasa.gov/wp-content/uploads/2024/08/e3-pia26068-europa-clipper-spacecraft-stylized-illustration.jpg?w=1024)
 
 6 min read
 
@@ -319,13 +325,7 @@ article 2 days ago](https://www.nasa.gov/missions/europa-clipper/8-things-to-kno
 
 ### Solar Storms and Flares
 
-article 6 days ago](https://science.nasa.gov/sun/solar-storms-and-flares/)[![NASA’s Artemis II Crew Uses Iceland Terrain for Lunar Training](https://science.nasa.gov/wp-content/uploads/2024/09/iceland-artemisiitraining-b.jpg)
-
-4 min read
-
-### NASA’s Artemis II Crew Uses Iceland Terrain for Lunar Training
-
-article 6 days ago](https://science.nasa.gov/missions/artemis/nasas-artemis-ii-crew-uses-iceland-terrain-for-lunar-training/)
+article 6 days ago](https://science.nasa.gov/sun/solar-storms-and-flares/)
 
 ### Featured
 
@@ -351,7 +351,13 @@ article 2 days ago](https://science.nasa.gov/missions/hubble/nasas-hubble-finds-
 
 ### Highlights
 
-[![NASA’s Webb Provides Another Look Into Galactic Collisions](https://science.nasa.gov/wp-content/uploads/2024/09/webb-stsci-01j7493cj4zg05r3txkm6be0s6-2k.png)
+[![When Will That Star Dim? Amateur Planet-Chasers Got You!](https://science.nasa.gov/wp-content/uploads/2024/09/wasp-77-a-b.jpg)
+
+2 min read
+
+### When Will That Star Dim? Amateur Planet-Chasers Got You!
+
+article 1 hour ago](https://science.nasa.gov/get-involved/citizen-science/when-will-that-star-dim-amateur-planet-chasers-got-you/)[![NASA’s Webb Provides Another Look Into Galactic Collisions](https://science.nasa.gov/wp-content/uploads/2024/09/webb-stsci-01j7493cj4zg05r3txkm6be0s6-2k.png)
 
 4 min read
 
@@ -363,13 +369,7 @@ article 1 day ago](https://science.nasa.gov/missions/webb/nasas-webb-provides-an
 
 ### ICESat-2 Hosts Third Applications Workshop
 
-article 2 days ago](https://science.nasa.gov/science-research/earth-science/icesat-2-hosts-third-applications-workshop/)[![Amendment 49: A.55 Decadal Survey Incubation Program: Science and Technology Final Text and Due Dates](https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000002/GSFC_20171208_Archive_e000002~large.jpg)
-
-1 min read
-
-### Amendment 49: A.55 Decadal Survey Incubation Program: Science and Technology Final Text and Due Dates
-
-article 2 days ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-49-a-55-decadal-survey-incubation-program-science-and-technology-final-text-and-due-dates/)
+article 2 days ago](https://science.nasa.gov/science-research/earth-science/icesat-2-hosts-third-applications-workshop/)
 
 ### Highlights
 
@@ -435,7 +435,7 @@ article 3 days ago](https://www.nasa.gov/learning-resources/nasa-mobilizes-resou
 
 ### NASA Moon to Mars Architecture Art Challenge
 
-article 7 days ago](https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/nasa-moon-to-mars-architecture-art-challenge/)
+article 1 week ago](https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/nasa-moon-to-mars-architecture-art-challenge/)
 
 ### Featured
 
@@ -451,7 +451,7 @@ article 7 days ago](https://www.nasa.gov/technology/tech-transfer-spinoffs/print
 
 ### NASA Moon to Mars Architecture Art Challenge
 
-article 7 days ago](https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/nasa-moon-to-mars-architecture-art-challenge/)[![Workers truck the HTV-1 to Vehicle Assembly Building (VAB)](https://www.nasa.gov/wp-content/uploads/2024/09/htv-1-5-rollover-to-vab.jpg?w=286)
+article 1 week ago](https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/nasa-moon-to-mars-architecture-art-challenge/)[![Workers truck the HTV-1 to Vehicle Assembly Building (VAB)](https://www.nasa.gov/wp-content/uploads/2024/09/htv-1-5-rollover-to-vab.jpg?w=286)
 
 7 min read
 
