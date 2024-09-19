@@ -212,7 +212,7 @@ NEW](https://smartproxy.com/smartproxy-quick-start-guide)
 
 [Glossary](https://smartproxy.com/glossary)
 
-[Locations](https://smartproxy.com/legal/proxies/list)
+[Locations](https://smartproxy.com/proxies/list)
 
 [All locations](https://smartproxy.com/proxies/list)
 
@@ -812,6 +812,6 @@ PRODUCTS
 
 GENERAL
 
-[FAQ](https://smartproxy.com/faq)[Billing](https://smartproxy.com/faq/billing)[Getting started](https://smartproxy.com/faq/getting-started)[Documentation](https://smartproxy.com/docs/introduction)[Blog](https://smartproxy.com/blog)[Glossary](https://smartproxy.com/glossary)
+[FAQ](https://smartproxy.com/faq)[Billing](https://smartproxy.com/faq/billing)[Getting started](https://smartproxy.com/faq/getting-started)[Documentation](https://help.smartproxy.com/docs/introduction)[Blog](https://smartproxy.com/blog)[Glossary](https://smartproxy.com/glossary)
 
 © 2018-2024 smartproxy.com, All Rights Reserved
