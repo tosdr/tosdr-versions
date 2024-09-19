@@ -105,9 +105,9 @@ GET IT ON
 
 [](https://www.simon.com/ "Simon Malls & Mills Home")
 
-* [Brands](https://www.simon.com/brands)
-* [Centers](https://www.simon.com/mall)
-* [Travel](https://www.simon.com/travel)
+* [Brands](https://www.simon.com/brands "Find Brands & Designer Store Locations")
+* [Centers](https://www.simon.com/mall "Find a Local Simon Center Near You")
+* [Travel](https://www.simon.com/travel "Visit a Simon Travel Destination Around The U.S.A.")
 
 Menu
 
@@ -115,11 +115,9 @@ Menu
 
 Use your location to find centers near you
 
-* [About](https://business.simon.com/why-simon "About Simon")
-* [Brands](https://www.simon.com/brands "Brands")
-* [All Properties](https://www.simon.com/mall)
-* [Giftcards](https://www.simon.com/giftcard)
-* [Travel](https://www.simon.com/travel)
+* [Brands](https://www.simon.com/brands "Find Brands & Designer Store Locations")
+* [Centers](https://www.simon.com/mall "Find a Local Simon Center Near You")
+* [Travel](https://www.simon.com/travel "Visit a Simon Travel Destination Around The U.S.A.")
 * Shop Online
     
     Women's Most Popular
@@ -383,7 +381,7 @@ We disclose the types of personal information described in the [_Personal Inform
 Businesses Affiliated with Us
 -----------------------------
 
-We disclose your personal information with Affiliates for the promotion and/or cross promotion of our Sites or other products and services of us or our Affiliates, or to provide to Affiliates or receive from an Affiliates the types of services described in the rest of this section.
+We disclose your personal information with Affiliates for the promotion or cross promotion of our Sites or other products and services of us or our Affiliates, or to provide to Affiliates or receive from an Affiliates the types of services described in the rest of this section.
 
 Service, Technology, and Advertising Vendors
 --------------------------------------------
@@ -407,7 +405,7 @@ We provide personal information to advertising vendors such as advertisers, mark
 
 * **Advertisers**. We provide opportunities at our Sites for businesses to advertise to you in various physical or digital formats. Digital advertisements we provide to advertisers may include pixels, cookies, or other tracking technologies that collect information about you to analyze the effectiveness of such ads. 
 * **Digital Media Providers**. We disclose personal information with providers of external websites (e.g., entertainment, news, Affiliates, and search websites), mobile applications, and social media platforms that you may visit to help us serve relevant ads to you on such digital media outlets and to help us analyze the effectiveness of such ads. 
-* **Ad Tech Providers**. We provide personal information to Ad Tech providers such as data activation, curation, and identity platform providers, and digital (e.g., email, website, mobile device and application) advertising agencies, buyers, sellers, and technology and research providers. These Ad Tech providers may employ cookies, pixels, beacons, device geolocation and MAC and IP address identifiers over Wi-Fi, and similar technologies to serve you targeted advertising either on or external to our Sites. For more information about how to set your interest-based advertising preferences, see [_How to Set Your Preferences_ > _Interest-based Advertising_](#how-to-set-your-preferences)
+* **Ad Tech Providers**. We provide personal information to Ad Tech providers including without limitation, data activation, curation, and identity platform providers, and digital (e.g., email, website, mobile device and application) advertising agencies, buyers, sellers, and technology and research providers such as Adento. These Ad Tech providers may employ cookies, pixels, beacons, device geolocation and MAC and IP address identifiers over Wi-Fi, and similar technologies to serve you targeted advertising either on or external to our Sites. For more information about how to set your interest-based advertising preferences, see [_How to Set Your Preferences_ > _Interest-based Advertising_](#how-to-set-your-preferences)
 * **Data Technology Providers**. We provide personal information to providers of data management, automation, and analysis technology such as customer relationship management platform providers, and providers of automation, analysis, machine learning, algorithm, and business and artificial intelligence data services.
 * **Analytics Providers**. We provide personal information that is aggregated by providers of analytics regarding traffic at and performance of our Sites and retail shopping destinations and the effectiveness of our advertising such as [Google Analytics](https://policies.google.com/technologies/partner-sites) and [AisleLabs](https://www.aislelabs.com/privacy/).
 
@@ -421,7 +419,9 @@ Business Successors
 
 If we sell all or a part of our company, are part of a merger, consolidation, restructuring, sale of company stock, sale of assets, bankruptcy or insolvency proceeding, or other corporate change, your personal information may be transferred as part of that transaction. In the event of any such corporate change, we will use reasonable efforts to make sure your information is handled by any successor in accordance with this Notice.
 
-Other Parties and the Public  
+Other Parties and the Public
+----------------------------
+
 If you choose to disclose personal information when you contribute content publicly through message boards, blogs, social media, reviews, or similar public forums on or related to the Sites or you create an account for a service on the Sites and indicate that you consent to sharing with other users of such service profile information such as your username, birthday, interests, or other content you enter in such service, we may continue to disclose any such content and voluntarily-provided personal information within such forums without any obligation or liability to you unless you have properly requested any relevant personal information deletion rights pursuant to applicable law.
 
 How to Set Your Preferences
@@ -503,40 +503,172 @@ Visit our [_Colorado Privacy Notices_](https://www.simon.com/legal/privacy/color
 Connecticut Privacy Rights
 --------------------------
 
-Connecticut residents can exercise the following rights by going to the footer of our website and selecting the “_Do Not Sell or Share My Personal Information and Opt Out of Targeted Advertising_” link or going to Settings > Adjust Data & Privacy Settings in the Simon mobile app:
+Connecticut residents can exercise the following rights:
 
+* Request to Confirm Whether My Personal Information is Processed
 * Request to Access My Personal Information
 * Delete My Personal Information
 * Correct My Personal Information
 * Opt Out of the Processing of My Personal Information for Purposes of Targeted Advertising
 * Opt Out of the Sale of My Personal Information
+* Opt Out of the Processing of My Personal Information for Certain Profiling
 
-You can also request any of these rights by phone at +1 (888) 914-9661 (enter the required PIN number of 187828 when prompted) or email us at [privacy@simon.com](mailto:privacy@simon.com) (giving us your name and address for verification as well as your request for any of the rights above). Once we receive your request, we must verify your identity and will respond within 45 days after receipt of your request (extended by an additional 45 days where necessary). If we decline to act on one of your rights as a Connecticut resident, [click here](https://privacyportal.onetrust.com/webform/80ecbc6e-7e6b-4595-8581-8c2c595a58d9/334a81ba-4130-4922-90c2-15520194ef75) to fill out our online form and request an appeal. Within 60 days after receipt of your appeal, we shall inform you in writing of any action taken or not taken in response to the appeal, including an explanation of the reasons for our decision. If your appeal is denied or if you have any concerns about the results of your appeal you may contact the Connecticut Attorney General [here](https://portal.ct.gov/AG/Common/Complaint-Form-Landing-page).
+You can also request any of these rights by submitting a request through our online [Privacy & Data Request Form](https://privacyportal.onetrust.com/webform/80ecbc6e-7e6b-4595-8581-8c2c595a58d9/334a81ba-4130-4922-90c2-15520194ef75) or by phone at +1 (888) 914-9661 (enter the required PIN number of 187828 when prompted). You can also adjust your settings or opt-out by by going to Settings > Adjust Data & Privacy Settings in the Simon mobile app. Once we receive your request, we must verify your identity and will respond within 45 days after receipt of your request (extended by an additional 45 days where necessary). If we decline to act on one of your rights as a Connecticut resident, [click here](https://privacyportal.onetrust.com/webform/80ecbc6e-7e6b-4595-8581-8c2c595a58d9/334a81ba-4130-4922-90c2-15520194ef75) to fill out our online form and request an appeal. Within 60 days after receipt of your appeal, we shall inform you in writing of any action taken or not taken in response to the appeal, including an explanation of the reasons for our decision. If your appeal is denied or if you have any concerns about the results of your appeal you may contact the Connecticut Attorney General [here](https://portal.ct.gov/AG/Common/Complaint-Form-Landing-page).
+
+Delaware Privacy Rights
+-----------------------
+
+Delaware residents can exercise the following rights:
+
+* Request to Confirm Whether My Personal Information Is Processed
+* Request to Access My Personal Information
+* Delete My Personal Information
+* Correct My Personal Information
+* Opt Out of the Processing of My Personal Information for Purposes of Targeted Advertising
+* Opt Out of the Sale of My Personal Information
+* Opt Out of the Processing of My Personal Information for Certain Profiling
+
+You can also request any of these rights by submitting a request through our online [Privacy & Data Request Form](https://privacyportal.onetrust.com/webform/80ecbc6e-7e6b-4595-8581-8c2c595a58d9/334a81ba-4130-4922-90c2-15520194ef75) or by phone at +1 (888) 914-9661 (enter the required PIN number of 187828 when prompted). You can also adjust your settings or opt-out by by going to Settings > Adjust Data & Privacy Settings in the Simon mobile app. Once we receive your request, we must verify your identity and will respond within 45 days after receipt of your request (extended by an additional 45 days where necessary). If we decline to act on one of your rights as a Delaware resident, [click here](https://privacyportal.onetrust.com/webform/80ecbc6e-7e6b-4595-8581-8c2c595a58d9/334a81ba-4130-4922-90c2-15520194ef75) to fill out our online form and request an appeal. Within 60 days after receipt of your appeal, we shall inform you in writing of any action taken or not taken in response to the appeal, including an explanation of the reasons for our decision.
+
+Iowa Privacy Rights
+-------------------
+
+Iowa residents can exercise the following rights:
+
+* Request to Confirm Whether My Personal Information Is Processed
+* Request to Access My Personal Information
+* Delete My Personal Information
+* Correct My Personal Information
+* Opt Out of the Processing of My Personal Information for Purposes of Targeted Advertising
+* Opt Out of the Sale of My Personal Information
+* Opt Out of the Processing of My Personal Information for Certain Profiling
+
+You can also request any of these rights by submitting a request through our online [Privacy & Data Request Form](https://privacyportal.onetrust.com/webform/80ecbc6e-7e6b-4595-8581-8c2c595a58d9/334a81ba-4130-4922-90c2-15520194ef75) or by phone at +1 (888) 914-9661 (enter the required PIN number of 187828 when prompted). You can also adjust your settings or opt-out by by going to Settings > Adjust Data & Privacy Settings in the Simon mobile app. Once we receive your request, we must verify your identity and will respond within 45 days after receipt of your request (extended by an additional 45 days where necessary). If we decline to act on one of your rights as a Iowa resident, [click here](https://privacyportal.onetrust.com/webform/80ecbc6e-7e6b-4595-8581-8c2c595a58d9/334a81ba-4130-4922-90c2-15520194ef75) to fill out our online form and request an appeal. Within 60 days after receipt of your appeal, we shall inform you in writing of any action taken or not taken in response to the appeal, including an explanation of the reasons for our decision.
+
+Montana Privacy Rights
+----------------------
+
+Montana residents can exercise the following rights:
+
+* Request to Confirm Whether My Personal Information Is Processed
+* Request to Access My Personal Information
+* Delete My Personal Information
+* Correct My Personal Information
+* Opt Out of the Processing of My Personal Information for Purposes of Targeted Advertising
+* Opt Out of the Sale of My Personal Information
+* Opt Out of the Processing of My Personal Information for Certain Profiling
+
+You can also request any of these rights by submitting a request through our online [Privacy & Data Request Form](https://privacyportal.onetrust.com/webform/80ecbc6e-7e6b-4595-8581-8c2c595a58d9/334a81ba-4130-4922-90c2-15520194ef75) or by phone at +1 (888) 914-9661 (enter the required PIN number of 187828 when prompted). You can also adjust your settings or opt-out by by going to Settings > Adjust Data & Privacy Settings in the Simon mobile app. Once we receive your request, we must verify your identity and will respond within 45 days after receipt of your request (extended by an additional 45 days where necessary). If we decline to act on one of your rights as a Montana resident, [click here](https://privacyportal.onetrust.com/webform/80ecbc6e-7e6b-4595-8581-8c2c595a58d9/334a81ba-4130-4922-90c2-15520194ef75) to fill out our online form and request an appeal. Within 60 days after receipt of your appeal, we shall inform you in writing of any action taken or not taken in response to the appeal, including an explanation of the reasons for our decision.
+
+Nebraska Privacy Rights
+-----------------------
+
+Nebraska residents can exercise the following rights:
+
+* Request to Confirm Whether My Personal Information Is Processed
+* Request to Access My Personal Information
+* Delete My Personal Information
+* Correct My Personal Information
+* Opt Out of the Processing of My Personal Information for Purposes of Targeted Advertising
+* Opt Out of the Sale of My Personal Information
+* Opt Out of the Processing of My Personal Information for Certain Profiling
+
+You can also request any of these rights by submitting a request through our online [Privacy & Data Request Form](https://privacyportal.onetrust.com/webform/80ecbc6e-7e6b-4595-8581-8c2c595a58d9/334a81ba-4130-4922-90c2-15520194ef75) or by phone at +1 (888) 914-9661 (enter the required PIN number of 187828 when prompted). You can also adjust your settings or opt-out by by going to Settings > Adjust Data & Privacy Settings in the Simon mobile app. Once we receive your request, we must verify your identity and will respond within 45 days after receipt of your request (extended by an additional 45 days where necessary). If we decline to act on one of your rights as a Nebraska resident, [click here](https://privacyportal.onetrust.com/webform/80ecbc6e-7e6b-4595-8581-8c2c595a58d9/334a81ba-4130-4922-90c2-15520194ef75) to fill out our online form and request an appeal. Within 60 days after receipt of your appeal, we shall inform you in writing of any action taken or not taken in response to the appeal, including an explanation of the reasons for our decision.
+
+Nevada Privacy Rights
+---------------------
+
+If you are a Nevada resident, You can also request any of these rights by submitting a request through our online [Privacy & Data Request Form](https://privacyportal.onetrust.com/webform/80ecbc6e-7e6b-4595-8581-8c2c595a58d9/334a81ba-4130-4922-90c2-15520194ef75) or by phone at +1 (888) 914-9661 (enter the required PIN number of 187828 when prompted). You can also adjust your settings or opt-out by by going to Settings > Adjust Data & Privacy Settings in the Simon mobile app.
+
+New Hampshire Privacy Rights
+----------------------------
+
+New Hampshire residents can exercise the following rights:
+
+* Request to Confirm Whether My Personal Information Is Processed
+* Request to Access My Personal Information
+* Delete My Personal Information
+* Correct My Personal Information
+* Opt Out of the Processing of My Personal Information for Purposes of Targeted Advertising
+* Opt Out of the Sale of My Personal Information
+* Opt Out of the Processing of My Personal Information for Certain Profiling
+
+You can also request any of these rights by submitting a request through our online [Privacy & Data Request Form](https://privacyportal.onetrust.com/webform/80ecbc6e-7e6b-4595-8581-8c2c595a58d9/334a81ba-4130-4922-90c2-15520194ef75) or by phone at +1 (888) 914-9661 (enter the required PIN number of 187828 when prompted). You can also adjust your settings or opt-out by by going to Settings > Adjust Data & Privacy Settings in the Simon mobile app. Once we receive your request, we must verify your identity and will respond within 45 days after receipt of your request (extended by an additional 45 days where necessary). If we decline to act on one of your rights as a New Hampshire resident, [click here](https://privacyportal.onetrust.com/webform/80ecbc6e-7e6b-4595-8581-8c2c595a58d9/334a81ba-4130-4922-90c2-15520194ef75) to fill out our online form and request an appeal. Within 60 days after receipt of your appeal, we shall inform you in writing of any action taken or not taken in response to the appeal, including an explanation of the reasons for our decision.
+
+New Jersey Privacy Rights
+-------------------------
+
+New Jersey residents can exercise the following rights:
+
+* Request to Confirm Whether My Personal Information Is Processed
+* Request to Access My Personal Information
+* Delete My Personal Information
+* Correct My Personal Information
+* Opt Out of the Processing of My Personal Information for Purposes of Targeted Advertising
+* Opt Out of the Sale of My Personal Information
+* Opt Out of the Processing of My Personal Information for Certain Profiling
+
+You can also request any of these rights by submitting a request through our online [Privacy & Data Request Form](https://privacyportal.onetrust.com/webform/80ecbc6e-7e6b-4595-8581-8c2c595a58d9/334a81ba-4130-4922-90c2-15520194ef75) or by phone at +1 (888) 914-9661 (enter the required PIN number of 187828 when prompted). You can also adjust your settings or opt-out by by going to Settings > Adjust Data & Privacy Settings in the Simon mobile app. Once we receive your request, we must verify your identity and will respond within 45 days after receipt of your request (extended by an additional 45 days where necessary). If we decline to act on one of your rights as a New Jersey resident, [click here](https://privacyportal.onetrust.com/webform/80ecbc6e-7e6b-4595-8581-8c2c595a58d9/334a81ba-4130-4922-90c2-15520194ef75) to fill out our online form and request an appeal. Within 45 days after receipt of your appeal, we shall inform you in writing of any action taken or not taken in response to the appeal, including an explanation of the reasons for our decision.
+
+Oregon Privacy Rights
+---------------------
+
+Oregon residents can exercise the following rights:
+
+* Request to Confirm Whether My Personal Information Is Processed
+* Request to Access My Personal Information
+* Delete My Personal Information
+* Correct My Personal Information
+* Opt Out of the Processing of My Personal Information for Purposes of Targeted Advertising
+* Opt Out of the Sale of My Personal Information
+* Opt Out of the Processing of My Personal Information for Certain Profiling
+
+You can also request any of these rights by submitting a request through our online [Privacy & Data Request Form](https://privacyportal.onetrust.com/webform/80ecbc6e-7e6b-4595-8581-8c2c595a58d9/334a81ba-4130-4922-90c2-15520194ef75) or by phone at +1 (888) 914-9661 (enter the required PIN number of 187828 when prompted). You can also adjust your settings or opt-out by by going to Settings > Adjust Data & Privacy Settings in the Simon mobile app. Once we receive your request, we must verify your identity and will respond within 45 days after receipt of your request (extended by an additional 45 days where necessary). If we decline to act on one of your rights as a Oregon resident, [click here](https://privacyportal.onetrust.com/webform/80ecbc6e-7e6b-4595-8581-8c2c595a58d9/334a81ba-4130-4922-90c2-15520194ef75) to fill out our online form and request an appeal. Within 45 days after receipt of your appeal, we shall inform you in writing of any action taken or not taken in response to the appeal, including an explanation of the reasons for our decision.
+
+Texas Privacy Rights
+--------------------
+
+Texas residents can exercise the following rights:
+
+* Request to Confirm Whether My Personal Information Is Processed
+* Request to Access My Personal Information
+* Delete My Personal Information
+* Correct My Personal Information
+* Opt Out of the Processing of My Personal Information for Purposes of Targeted Advertising
+* Opt Out of the Sale of My Personal Information
+* Opt Out of the Processing of My Personal Information for Certain Profiling
+
+You can also request any of these rights by submitting a request through our online [Privacy & Data Request Form](https://privacyportal.onetrust.com/webform/80ecbc6e-7e6b-4595-8581-8c2c595a58d9/334a81ba-4130-4922-90c2-15520194ef75) or by phone at +1 (888) 914-9661 (enter the required PIN number of 187828 when prompted). You can also adjust your settings or opt-out by by going to Settings > Adjust Data & Privacy Settings in the Simon mobile app. Once we receive your request, we must verify your identity and will respond within 45 days after receipt of your request (extended by an additional 45 days where necessary). If we decline to act on one of your rights as a Texas resident, [click here](https://privacyportal.onetrust.com/webform/80ecbc6e-7e6b-4595-8581-8c2c595a58d9/334a81ba-4130-4922-90c2-15520194ef75) to fill out our online form and request an appeal. Within 60 days after receipt of your appeal, we shall inform you in writing of any action taken or not taken in response to the appeal, including an explanation of the reasons for our decision.
 
 Utah Privacy Rights
 -------------------
 
 Utah residents can exercise the following rights by going to the footer of our website and selecting the “Do Not Sell or Share My Personal Information and Opt Out of Targeted Advertising link or going to Settings > Adjust Data & Privacy Settings in the Simon mobile app:
 
+* Request to Confirm Whether My Personal Information Is Processed
 * Request to Access My Personal Information
 * Delete My Personal Information
+* Correct My Personal Information
 * Opt Out of the Processing of My Personal Information for Purposes of Targeted Advertising
 * Opt Out of the Sale of My Personal Information
+* Opt Out of the Processing of My Personal Information for Certain Profiling
 
-You can also request any of these rights by phone at +1 (888) 914-9661 (enter the required PIN number of 187828 when prompted) or email us at [privacy@simon.com](mailto:privacy@simon.com) (giving us your name and address for verification as well as your request for any of the rights above). Once we receive your request, we must verify your identity and will respond within 45 days after receipt of your request (extended by an additional 45 days where necessary). If we decline to act on one of your rights as a Utah resident, [**click here**](https://privacyportal.onetrust.com/webform/80ecbc6e-7e6b-4595-8581-8c2c595a58d9/334a81ba-4130-4922-90c2-15520194ef75) to fill out our online form and request an appeal. Within 60 days after receipt of your appeal, we shall inform you in writing of any action taken or not taken in response to the appeal, including an explanation of the reasons for our decision. If your appeal is denied or if you have any concerns about the results of your appeal you may contact the Utah Attorney General [here](https://attorneygeneral.utah.gov/data-privacy/).
+You can also request any of these rights by submitting a request through our online [Privacy & Data Request Form](https://privacyportal.onetrust.com/webform/80ecbc6e-7e6b-4595-8581-8c2c595a58d9/334a81ba-4130-4922-90c2-15520194ef75) or by phone at +1 (888) 914-9661 (enter the required PIN number of 187828 when prompted). You can also adjust your settings or opt-out by by going to Settings > Adjust Data & Privacy Settings in the Simon mobile app. Once we receive your request, we must verify your identity and will respond within 45 days after receipt of your request (extended by an additional 45 days where necessary). If we decline to act on one of your rights as a Utah resident, [**click here**](https://privacyportal.onetrust.com/webform/80ecbc6e-7e6b-4595-8581-8c2c595a58d9/334a81ba-4130-4922-90c2-15520194ef75) to fill out our online form and request an appeal. Within 60 days after receipt of your appeal, we shall inform you in writing of any action taken or not taken in response to the appeal, including an explanation of the reasons for our decision. If your appeal is denied or if you have any concerns about the results of your appeal you may contact the Utah Attorney General [here](https://attorneygeneral.utah.gov/data-privacy/).
 
 Virginia Privacy Rights
 -----------------------
 
 Virginia residents can exercise the following rights by going to the footer of our website and selecting the “_Do Not Sell or Share My Personal Information and Opt Out of Targeted Advertising_” link or going to Settings > Adjust Data & Privacy Settings in the Simon mobile app:
 
+* Request to Confirm Whether My Personal Information Is Processed
 * Request to Access My Personal Information
 * Delete My Personal Information
 * Correct My Personal Information
 * Opt Out of the Processing of My Personal Information for Purposes of Targeted Advertising
 * Opt Out of the Sale of My Personal Information
+* Opt Out of the Processing of My Personal Information for Certain Profiling
 
-You can also request any of these rights by phone at +1 (888) 914-9661; enter the required PIN number of 187828 when prompted. Once we receive your request, we must verify your identity and will respond within 45 days after receipt of your request (extended by an additional 45 days where necessary). If we decline to act on one of your rights as a Virginia resident, [click here](https://privacyportal.onetrust.com/webform/80ecbc6e-7e6b-4595-8581-8c2c595a58d9/334a81ba-4130-4922-90c2-15520194ef75) to fill out our online form and request an appeal. Within 60 days after receipt of your appeal, we shall inform you in writing of any action taken or not taken in response to the appeal, including an explanation of the reasons for our decision. If your appeal is denied or if you have any concerns about the results of your appeal you may contact the Virginia Attorney General [here](https://www.oag.state.va.us/consumer-protection/index.php/file-a-complaint).
+You can also request any of these rights by submitting a request through our online [Privacy & Data Request Form](https://privacyportal.onetrust.com/webform/80ecbc6e-7e6b-4595-8581-8c2c595a58d9/334a81ba-4130-4922-90c2-15520194ef75) or by phone at +1 (888) 914-9661 (enter the required PIN number of 187828 when prompted). You can also adjust your settings or opt-out by by going to Settings > Adjust Data & Privacy Settings in the Simon mobile app. Once we receive your request, we must verify your identity and will respond within 45 days after receipt of your request (extended by an additional 45 days where necessary). If we decline to act on one of your rights as a Virginia resident, [click here](https://privacyportal.onetrust.com/webform/80ecbc6e-7e6b-4595-8581-8c2c595a58d9/334a81ba-4130-4922-90c2-15520194ef75) to fill out our online form and request an appeal. Within 60 days after receipt of your appeal, we shall inform you in writing of any action taken or not taken in response to the appeal, including an explanation of the reasons for our decision. If your appeal is denied or if you have any concerns about the results of your appeal you may contact the Virginia Attorney General [here](https://www.oag.state.va.us/consumer-protection/index.php/file-a-complaint).
 
 Canadian Privacy Rights
 =======================
@@ -551,15 +683,16 @@ We update this Notice from time to time. Below is a description of the most rece
 Recent Updates to this Notice
 -----------------------------
 
-* This Notice has been completely rewritten to incorporate many changes as of the Last Update. Please read the entire Notice to completely understand how this new Notice affects your privacy.
+* Added new provisions to the State Privacy Rights section for Delaware, Iowa, Maryland, Minnesota, Montana, New Hampshire, New Jersey, Nebraska, Nevada, Oregon, Tennessee, Texas.
+* Updated Contact Us information
 
 Contact Us
 ==========
 
-We welcome all requests, suggestions, and questions concerning our use of your personal Information. E-mail us at [privacy@simon.com](mailto:privacy@simon.com), call us at [(317) 636-1600](tel:+13176361600), [click here](https://privacyportal.onetrust.com/webform/80ecbc6e-7e6b-4595-8581-8c2c595a58d9/334a81ba-4130-4922-90c2-15520194ef75) to fill out our online opt-out form, or send us a letter to:
+We welcome all requests, suggestions, and questions concerning our use of your personal Information. For all inquiries in regards to privacy of your personal information, contact us through our online [Privacy & Data Request Form](https://privacyportal.onetrust.com/webform/80ecbc6e-7e6b-4595-8581-8c2c595a58d9/334a81ba-4130-4922-90c2-15520194ef75) or by phone at [+1 (888) 914-9661](tel:+18889149661) (enter the required PIN number of 187828 when prompted), or send us a letter to:
 
 Simon Media Properties, LLC  
-Attention: Cybersecurity Team  
+Attention: Data Privacy Officer  
 225 W Washington St  
 Indianapolis, IN 46204-3435 USA
 
