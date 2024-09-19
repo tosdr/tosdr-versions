@@ -177,16 +177,16 @@ Recent Posts
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
 
+* [Fox News Report: Harris Said LEOs Could Enter Homes To Check Gun Storage](https://www.thegunpage.com/fox-news-report-harris-said-leos-could-enter-homes-to-check-gun-storage/10610661)
+* [FPC, SAF Petition Supreme Court To Address Circuit Split In Delaware AWB Cases](https://www.thegunpage.com/fpc-saf-petition-supreme-court-to-address-circuit-split-in-delaware-awb-cases/10610659)
+* [Vote For 6-Month CR + SAVE Act](https://www.thegunpage.com/vote-for-6-month-cr-save-act/10610657)
+* [Defensive Shooting at Funeral Home Leads to Quick Arrangements, No Arraignment](https://www.thegunpage.com/defensive-shooting-at-funeral-home-leads-to-quick-arrangements-no-arraignment/10610653)
+* [Rossi Introduces Straight Wall Caliber Options For R95 Lever Gun](https://www.thegunpage.com/rossi-introduces-straight-wall-caliber-options-for-r95-lever-gun/10610655)
+* [Griffin Armament Announces New Sportsman Ultra Light HD Hunting Can](https://www.thegunpage.com/griffin-armament-announces-new-sportsman-ultra-light-hd-hunting-can/10610656)
 * [Best Cleaning Kits to Keep Your Guns Running Smoothly](https://www.thegunpage.com/best-cleaning-kits-to-keep-your-guns-running-smoothly/10610649)
+* [New Zealand To Host 2025 World Action Pistol Championships](https://www.thegunpage.com/new-zealand-to-host-2025-world-action-pistol-championships/10610658)
 * [Kimber Announces The New R7 Mako Carbon Compact](https://www.thegunpage.com/kimber-announces-the-new-r7-mako-carbon-compact/10610644)
 * [Date Set For Court Review Of Florida’s Young Adult Gun Purchase Ban](https://www.thegunpage.com/date-set-for-court-review-of-floridas-young-adult-gun-purchase-ban/10610640)
-* [Strike Industries Pistol Linear Compensator](https://www.thegunpage.com/strike-industries-pistol-linear-compensator/10610645)
-* [Judge Rules Memphis Anti-Gun Questions Can Appear On November Ballot](https://www.thegunpage.com/judge-rules-memphis-anti-gun-questions-can-appear-on-november-ballot/10610636)
-* [Winchester Announces New 21 Sharp Rimfire Cartridge](https://www.thegunpage.com/winchester-announces-new-21-sharp-rimfire-cartridge/10610643)
-* [20 Great Photos From The 2024 NRA National Matches](https://www.thegunpage.com/20-great-photos-from-the-2024-nra-national-matches/10610639)
-* [Preview: Armasight Contractor 640 2.3-9.2X 35 mm Thermal Optic](https://www.thegunpage.com/preview-armasight-contractor-640-2-3-9-2x-35-mm-thermal-optic/10610635)
-* [TFB Interview: Kyle Litzie – World Champion – IPSC Rifle World Shoot](https://www.thegunpage.com/tfb-interview-kyle-litzie-world-champion-ipsc-rifle-world-shoot/10610633)
-* [POTD: National Icelandic Police With SIG Sauer MCX](https://www.thegunpage.com/potd-national-icelandic-police-with-sig-sauer-mcx/10610630)
 
 [![ Conservative Political Blogs](https://blog.feedspot.com/wp-content/uploads/2016/12/conservative_political_216px.png?x58297)](https://blog.feedspot.com/conservative_political_blogs/ "Conservative Political Blogs")
 
@@ -228,6 +228,7 @@ Contact Us
 
 Recent Comments
 
+* Jim on [Caption This…](https://www.conservativedailynews.com/2024/09/caption-this/#comment-782189)
 * charles wilkins on [Dangerous Rhetoric](https://www.conservativedailynews.com/2024/09/dangerous-rhetoric/#comment-782180)
 * KayCee on [Dazed and Confused](https://www.conservativedailynews.com/2024/09/dazed-and-confused-3/#comment-782173)
 * KayCee on [The Reasons Young Women Embrace the Left Do Not Reflect Well on Those Women](https://www.conservativedailynews.com/2024/09/the-reasons-young-women-embrace-the-left-do-not-reflect-well-on-those-women/#comment-782172)
@@ -236,7 +237,6 @@ Recent Comments
 * charles wilkins on [Tip of the Iceberg](https://www.conservativedailynews.com/2024/09/tip-of-the-iceberg/#comment-782148)
 * Missy B on [MSNBC Anchor Says Trump Should Tone Down Rhetoric After Potential Second Assassination Attempt](https://www.conservativedailynews.com/2024/09/msnbc-anchor-says-trump-should-tone-down-rhetoric-after-potential-second-assassination-attempt/#comment-782143)
 * charles wilkins on [Definition of Insanity](https://www.conservativedailynews.com/2024/09/definition-of-insanity/#comment-782133)
-* charles wilkins on [Harris Asked How She Will Make Life Affordable, Immediately Pivots To Word Salad About Middle Class Upbringing, Lawns](https://www.conservativedailynews.com/2024/09/harris-asked-how-she-will-make-life-affordable-immediately-pivots-to-word-salad-about-middle-class-upbringing-lawns/#comment-782116)
 
 [Close](#)
 
