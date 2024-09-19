@@ -1,4 +1,4 @@
-[![Philips Hue](/etc.clientlibs/signify-brand-hue/clientlibs/clientlib-main-v2/resources/logos/hue.svg "Philips Hue")](https://www.philips-hue.com/en-us)
+[![Philips Hue](/etc.clientlibs/signify-brand-hue/clientlibs/clientlib-main-v2/resources/logos/hue.svg)](https://www.philips-hue.com/en-us)
 
 * [Shop](https://www.philips-hue.com/en-us/products)
     
@@ -274,7 +274,7 @@ Connect with Philips Hue
 * [](https://www.pinterest.com/Philipshue/ "Pinterest")
 * [](https://www.instagram.com/philipshue/ "Instagram")
 
-![Philips](/content/dam/hue/masters/navigation/philips-logo.svg "Philips")
+![Philips](/content/dam/hue/masters/navigation/philips-logo.svg)
 
 Select Country [United States - English](https://www.philips-hue.com/en-us/country-selector "Select Country")
 
