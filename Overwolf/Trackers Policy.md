@@ -13,6 +13,7 @@
         Make the best games better with apps, mods, addons, and servers - and monetize
         
     * Desktop Apps
+        
         * [How Does It Work](https://www.overwolf.com/creators/build-an-app/)
         * [Getting started](https://dev.overwolf.com/ow-native/getting-started/overview/)
         * [App documentation](https://dev.overwolf.com/ow-native/getting-started/overview/)
