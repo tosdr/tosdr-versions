@@ -263,7 +263,7 @@ Select State\*AlabamaAlaskaArizonaArkansasCaliforniaColoradoConnecticutDelawareD
 
 Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. They may contact me by email or telephone (including phone calls, text messages, autodialed / auto-selected or pre-recorded calls). I understand that message and data rates may apply and that consent to such contact is not required for use of these services. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), [Anti Fraud Policy](https://www.pintas.com/anti-fraud-policy/)[Anti Fraud Policy](https://www.pintas.com/anti-fraud-policy-pr/) and [online Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/), including its mandatory arbitration provision. I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
 
-Name
+Comments
 
 This field is for validation purposes and should be left unchanged.
 
@@ -273,17 +273,17 @@ This field is for validation purposes and should be left unchanged.
 
 #### Frequently Asked Questions
 
-[![What is a healthy alternative to baby powder?](https://www.pintas.com/wp-content/uploads/2020/07/talcum-powder-what-is-a-healthy-alternative-to-baby-powder.jpg "What Is a Healthy Alternative to Baby Powder?")](https://www.pintas.com/lawsuit/johnson-and-johnson-talcum-powder/baby-powder-alternatives "What Is a Healthy Alternative to Baby Powder?")
+[![What lung cancer is caused by asbestos?](https://www.pintas.com/wp-content/uploads/2020/04/lung-cancer-what-lung-cancer-is-caused-by-asbestos.jpg "What Lung Cancer Is Caused By Asbestos?")](https://www.pintas.com/lung-cancer/what-lung-cancer-is-caused-by-asbestos/ "What Lung Cancer Is Caused By Asbestos?")
 
-[#### What Is a Healthy Alternative to Baby Powder?](https://www.pintas.com/lawsuit/johnson-and-johnson-talcum-powder/baby-powder-alternatives)
+[#### What Lung Cancer Is Caused By Asbestos?](https://www.pintas.com/lung-cancer/what-lung-cancer-is-caused-by-asbestos/)
 
-[![faq thumb](https://www.pintas.com/wp-content/themes/pintas-v2/assets/app/img/blog-default.jpg)](https://www.pintas.com/lawsuit/mormon-church-sex-abuse/is-sexual-abuse-common-in-the-mormon-church/ "Is Clergy Sexual Abuse Common in the Mormon Church?")
+[![What happens if a hip fracture goes untreated?](https://www.pintas.com/wp-content/uploads/2020/09/nursing-home-abuse-lawyer-what-happens-if-a-hip-fracture-goes-untreated-scaled.jpg "What Happens If a Hip Fracture Goes Untreated?")](https://www.pintas.com/faq/what-happens-if-a-hip-fracture-goes-untreated/ "What Happens If a Hip Fracture Goes Untreated?")
 
-[#### Is Clergy Sexual Abuse Common in the Mormon Church?](https://www.pintas.com/lawsuit/mormon-church-sex-abuse/is-sexual-abuse-common-in-the-mormon-church/)
+[#### What Happens If a Hip Fracture Goes Untreated?](https://www.pintas.com/faq/what-happens-if-a-hip-fracture-goes-untreated/)
 
-[![Where is johnson & johnson baby powder manufactured?](https://www.pintas.com/wp-content/uploads/2020/07/lung-cancer-where-is-j-and-j-baby-powder-manufactured.jpg "Where Is Johnson & Johnson Baby Powder Manufactured?")](https://www.pintas.com/lawsuit/johnson-and-johnson-talcum-powder/where-is-johnson-and-johnson-baby-powder-manufactured "Where Is Johnson & Johnson Baby Powder Manufactured?")
+[![What is worse, asbestos or smoking?](https://www.pintas.com/wp-content/uploads/2020/04/lung-cancer-what-is-worse-asbestos-or-smoking.jpg "What Is Worse, Asbestos or Smoking?")](https://www.pintas.com/practice-areas/lung-cancer/what-is-worse-asbestos-or-smoking/ "What Is Worse, Asbestos or Smoking?")
 
-[#### Where Is Johnson & Johnson Baby Powder Manufactured?](https://www.pintas.com/lawsuit/johnson-and-johnson-talcum-powder/where-is-johnson-and-johnson-baby-powder-manufactured)
+[#### What Is Worse, Asbestos or Smoking?](https://www.pintas.com/practice-areas/lung-cancer/what-is-worse-asbestos-or-smoking/)
 
 ### Injured?  
 Tell Us What Happened.
@@ -306,7 +306,7 @@ message
 
 Yes. Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. They may contact me by email or telephone (including phone calls, text messages, autodialed / auto-selected or pre-recorded calls). I understand that message and data rates may apply and that consent to such contact is not required for use of these services. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/), [Anti Fraud Policy](https://www.pintas.com/anti-fraud-policy/) and [online Terms](https://www.pintas.com/website-terms-of-use/), including its mandatory arbitration provision.
 
-Email
+Comments
 
 This field is for validation purposes and should be left unchanged.
 
