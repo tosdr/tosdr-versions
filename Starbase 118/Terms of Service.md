@@ -356,6 +356,18 @@ Community News
 
 [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
+![](https://b108297.smushcdn.com/108297/wp-content/uploads/2022/02/Burnham_Awarded-768x384.jpeg?lossy=0&strip=1&webp=1)](https://www.starbase118.net/2024/award-winner-kimberly-stapledon-uss-constitution-b-uss-chintoka-prestigious-service-medallion-engineering/)
+
+### [Award winner – Kimberly Stapledon, USS Constitution-B/USS Chin’toka – Prestigious Service Medallion – Engineering](https://www.starbase118.net/2024/award-winner-kimberly-stapledon-uss-constitution-b-uss-chintoka-prestigious-service-medallion-engineering/)
+
+Lhandon Nilsen September 18, 2024
+
+Join us for another in a series of interviews with winners of awards from our 2024  Awards Ceremony. Our goal is to give you insight
+
+[Read More »](https://www.starbase118.net/2024/award-winner-kimberly-stapledon-uss-constitution-b-uss-chintoka-prestigious-service-medallion-engineering/)
+
+[![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
 ![](https://b108297.smushcdn.com/108297/wp-content/uploads/2024/06/Departing_DS33-768x409.png?lossy=0&strip=1&webp=1)](https://www.starbase118.net/2024/lattice-alliance-faces-overwhelming-odds/)
 
 ### [Lattice Alliance faces overwhelming odds](https://www.starbase118.net/2024/lattice-alliance-faces-overwhelming-odds/)
@@ -377,18 +389,6 @@ docaharford September 15, 2024
 Each month we interview a First Officer of the fleet as part of our “First Officer in Focus” column to get to know them better,
 
 [Read More »](https://www.starbase118.net/2024/first-officer-in-focus-lael-rosek-skyfire/)
-
-[![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-
-![](https://b108297.smushcdn.com/108297/wp-content/uploads/2020/05/24th-century-Constitution-refit-768x434.png?lossy=0&strip=1&webp=1)](https://www.starbase118.net/2024/crew-of-uss-constitution-faces-possible-sabotage/)
-
-### [Crew of USS Constitution faces possible sabotage](https://www.starbase118.net/2024/crew-of-uss-constitution-faces-possible-sabotage/)
-
-Federation News Service September 13, 2024
-
-MARCHLANDS –Damage discovered during repairs of Hermes Outpost reveal possible foul play.
-
-[Read More »](https://www.starbase118.net/2024/crew-of-uss-constitution-faces-possible-sabotage/)
 
 Ready to get started?
 ---------------------
