@@ -30,7 +30,7 @@ Subscribe
 
  ![Search](/theme_japantimes/images/search_icon.svg)
 
-* ['Shogun'](https://www.japantimes.co.jp/tag/shogun/ "'Shogun'")
+* [Shohei Ohtani](https://www.japantimes.co.jp/tag/shohei-ohtani/ "Shohei Ohtani")
 * [LDP RACE](https://www.japantimes.co.jp/tag/ldp/ "LDP RACE")
 * [Special series: Boiling Point](https://www.japantimes.co.jp/boiling-point/ "Special series: Boiling Point")
 * [Latest News](https://www.japantimes.co.jp/latest-news/ "Latest News")
@@ -210,9 +210,9 @@ By [Alex K.T. Martin](https://www.japantimes.co.jp/author/219/alex-kt-martin/ "A
 SUSTAINABLE JAPAN
 -----------------
 
-[Sasakawa works for a sustainable blue economy](https://sustainable.japantimes.com/magazine/vol39/39-01?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "Sasakawa works for a sustainable blue economy")
+[mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world](https://sustainable.japantimes.com/magazine/vol39/39-06?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=3 "mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world")
 
-[![Sasakawa works for a sustainable blue economy](https://wp.japantimes.co.jp/wp-content/uploads/2024/08/img_magazine_39_01_01-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol39/39-01?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "Sasakawa works for a sustainable blue economy")
+[![mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world](https://wp.japantimes.co.jp/wp-content/uploads/2024/08/img_magazine_39_06_01-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol39/39-06?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=3 "mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world")
 
 SPECIAL SUPPLEMENTS [![note](/theme_japantimes/images/icon_note.png)](javascript:; "Note")
 ------------------------------------------------------------------------------------------
@@ -252,21 +252,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
-[Mitsubishi to provide H3 rockets for France's Eutelsat from 2027](https://www.japantimes.co.jp/business/2024/09/18/mitsubishi-eutelsat-h3/ "Mitsubishi to provide H3 rockets for France's Eutelsat from 2027")
+[The challenges posed by China exceed those of the Cold War, U.S. says](https://www.japantimes.co.jp/news/2024/09/19/world/politics/us-china-cold-war/ "The challenges posed by China exceed those of the Cold War, U.S. says")
 
-8 hours ago
+17 mins ago
 
-[Taiwanese and Hungarian firms deny making Hezbollah pagers](https://www.japantimes.co.jp/news/2024/09/18/world/hezbollah-pagers-taiwan-hungary/ "Taiwanese and Hungarian firms deny making Hezbollah pagers")
+[Japan walkie-talkie maker investigating after Lebanon blasts](https://www.japantimes.co.jp/business/2024/09/19/companies/japan-walkie-talkie-lebanon-blasts/ "Japan walkie-talkie maker investigating after Lebanon blasts")
 
-9 hours ago
+34 mins ago
 
-[Overseas visitors hit record high for August at 2.9 million](https://www.japantimes.co.jp/news/2024/09/18/japan/august-visitor-numbers/ "Overseas visitors hit record high for August at 2.9 million")
+[Japanese school student stabbed in Shenzhen dies](https://www.japantimes.co.jp/news/2024/09/19/japan/crime-legal/japanese-school-boy-china-dead/ "Japanese school student stabbed in Shenzhen dies")
 
-10 hours ago
+52 mins ago
 
-[Puberulic acid confirmed as source of _beni kōji_ health issues](https://www.japantimes.co.jp/news/2024/09/18/japan/science-health/beni-koji-puberulic-acid-to-blame/ "Puberulic acid confirmed as source of beni kōji health issues")
+[Taiwan 'paying great attention' to Hezbollah pager explosions](https://www.japantimes.co.jp/news/2024/09/19/asia-pacific/taiwan-hezbollah-beeper-explosions/ "Taiwan 'paying great attention' to Hezbollah pager explosions")
 
-[Ishii to head Komeito in first leadership change in 15 years](https://www.japantimes.co.jp/news/2024/09/18/japan/politics/komeito-new-head/ "Ishii to head Komeito in first leadership change in 15 years")
+56 mins ago
+
+[How migrant workers suffer to craft the 'Made in Italy' luxury label](https://www.japantimes.co.jp/business/2024/09/19/migrant-made-in-italy-luxury-label/ "How migrant workers suffer to craft the 'Made in Italy' luxury label")
+
+1 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
