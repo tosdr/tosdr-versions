@@ -354,7 +354,7 @@ Back
 
 [Try now](https://www.loom.com/try)
 
- [![Atlassian logo](/assets/img/icons/imkt/imkt-navbar__charlie-logo.svg?cdnVersion=2252)](https://www.atlassian.com/ "Visit the Atlassian homepage")[Legal](https://www.loom.com/legal)
+ [![Atlassian logo](/assets/img/icons/imkt/imkt-navbar__charlie-logo.svg?cdnVersion=2260)](https://www.atlassian.com/ "Visit the Atlassian homepage")[Legal](https://www.loom.com/legal)
 
 * [Legal information](https://www.loom.com/legal)
 * [Privacy Policy](https://www.loom.com/legal/privacy-policy)
@@ -490,7 +490,7 @@ _**Community Forums**_:  Our websites offer publicly accessible blogs, forums,
 
 **Disclosing to third parties**
 
-We disclose information to third parties that help us operate, provide, improve, integrate, customize, support and market our Services. Data obtained through the short code program will not be shared with any third parties for their marketing reasons/purposes.
+We disclose information to third parties that help us operate, provide, improve, integrate, customize, support and market our Services. All the above categories exclude text messaging originator opt-in data and consent; this information will not be shared with any third parties, excluding aggregators and providers of the text messaging services.
 
 _**Service Providers**_: We work with third-party service providers to provide website and application development, hosting, maintenance, backup, storage, virtual infrastructure, payment processing, analysis, marketing, and other services for us, which may require them to access or use information about you.  If a service provider needs to access information about you to perform services on our behalf, they do so under close instruction from us, including appropriate security and confidentiality procedures designed to protect your information.
 
@@ -764,7 +764,7 @@ Subscribe to receive notifications from us about updates to our legal terms (inc
 
 [Sign up for updates](https://privacy.atlassian.net/servicedesk/customer/portal/1/group/1/create/39)
 
-![](https://wac-cdn.atlassian.com/dam/jcr:9c4bf443-5045-4ff9-a48d-36ae466f3ced/logos-atlassian-mini-icon-onecolor-blue.svg?cdnVersion=2252)
+![](https://wac-cdn.atlassian.com/dam/jcr:9c4bf443-5045-4ff9-a48d-36ae466f3ced/logos-atlassian-mini-icon-onecolor-blue.svg?cdnVersion=2260)
 
 [Company](https://www.loom.com/company)
 
