@@ -152,6 +152,7 @@ Legal
     
     * [Charge up your savings Terms and Conditions](https://www.linkt.com.au/legal/promotions/charge-up-your-savings/brisbane.html)
     * [Fuel Up Your Savings Terms and Conditions](https://www.linkt.com.au/legal/promotions/fuel-up-your-savings/brisbane.html)
+    * [Win. Choose. Fly! Terms and Conditions](https://www.linkt.com.au/legal/promotions/win-choose-fly-terms/brisbane.html)
     
 * [Rewards See 10 articles](#childnavitem-4)
     
