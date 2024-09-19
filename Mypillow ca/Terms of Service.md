@@ -173,7 +173,7 @@ SHOP NOW](https://www.mypillow.com/new-gorka)
 
    [](https://www.mypillow.ca/toppers)
 
-   [](https://www.mypillow.com/gift-cards)
+   [](https://www.mypillow.com/bolster-pillow-w-bolster-pillowcase)
 
    [](https://www.mypillow.ca/clothing)
 
@@ -183,7 +183,7 @@ SHOP NOW](https://www.mypillow.com/new-gorka)
 
    [](https://www.mypillow.com/open-box)
 
-   [](https://www.mypillow.com/bolster-pillow-w-bolster-pillowcase)
+   [](https://www.mypillow.com/gift-cards)
 
    [](https://www.mypillow.com/smoothtoe-socks)
 
