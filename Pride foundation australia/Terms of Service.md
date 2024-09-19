@@ -149,7 +149,7 @@ You acknowledge that you have read this Agreement and agree to all its terms and
 Contacting us
 -------------
 
-If you would like to contact us to understand more about this Agreement or wish to contact us concerning any matter relating to it, you may do so via the contact form or send an email to info@pridefoundation.org.au.
+If you would like to contact us to understand more about this Agreement or wish to contact us concerning any matter relating to it, you may do so via the contact form or send an email to [\[email protected\]](https://pridefoundation.org.au/cdn-cgi/l/email-protection).
 
 This document was last updated on April 4, 2021
 
