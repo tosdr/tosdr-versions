@@ -113,25 +113,25 @@ We welcome feedback from our viewers and readers. If readers/viewers have a conc
 Top of Today
 ------------
 
-1. [![Samantha Krebs](https://am21.mediaite.com/lc/cnt/uploads/2024/09/Samantha-Krebs-432x243.jpg)](https://lawandcrime.com/crime/woman-kissed-dying-boyfriend-and-said-she-loved-him-after-begging-friends-to-just-tell-the-police-he-stabbed-himself-cops-say/)
+1. [![Inset: Christopher M. Morrison (Columbiana County Prosecutor). Background: Morrison in court (WKBN).](https://am22.mediaite.com/lc/cnt/uploads/2024/09/ohiomurder-432x243.jpg)](https://lawandcrime.com/crime/man-who-shot-wife-in-shower-chopped-up-her-body-and-stored-her-remains-in-bags-in-shed-learns-his-fate/)
     
-    ### [Woman 'kissed' dying boyfriend and said she 'loved him' after begging friends to 'just tell the police he stabbed himself,' cops say](https://lawandcrime.com/crime/woman-kissed-dying-boyfriend-and-said-she-loved-him-after-begging-friends-to-just-tell-the-police-he-stabbed-himself-cops-say/)
+    ### [Man who shot wife in shower, 'chopped' up her body and stored her remains in bags in shed learns his fate](https://lawandcrime.com/crime/man-who-shot-wife-in-shower-chopped-up-her-body-and-stored-her-remains-in-bags-in-shed-learns-his-fate/)
     
-2. [![Mohamed Kamara and Joseph Syas](https://am22.mediaite.com/lc/cnt/uploads/2024/09/Mohamed-Kamara-and-Anthony-Syas-1-432x243.jpg)](https://lawandcrime.com/crime/id-blow-your-f-ing-head-off-emotional-families-lambaste-convicted-murderer-for-randomly-killing-2-men-for-no-apparent-reason/)
+2. [![Alice ](https://am21.mediaite.com/lc/cnt/uploads/2024/01/Alice-Alyx-Kamakaokalani-Herrmann-Theobald-22Theo22-Brooks-Lengyel-432x243.jpg)](https://lawandcrime.com/crime/after-reading-the-news-woman-decides-to-testify-about-crazy-question-her-slain-friends-ex-rocker-boyfriend-asked-while-alone-in-her-closet-looking-at-dresses/)
     
-    ### ['I'd blow your f---ing head off:' Emotional families lambaste convicted murderer for randomly killing 2 men for no apparent reason](https://lawandcrime.com/crime/id-blow-your-f-ing-head-off-emotional-families-lambaste-convicted-murderer-for-randomly-killing-2-men-for-no-apparent-reason/)
+    ### [After reading the news, woman decides to testify about 'crazy question' her slain friend's ex-rocker boyfriend asked while alone in her closet looking at dresses](https://lawandcrime.com/crime/after-reading-the-news-woman-decides-to-testify-about-crazy-question-her-slain-friends-ex-rocker-boyfriend-asked-while-alone-in-her-closet-looking-at-dresses/)
     
-3. [![Dakota Dodd appears inset on the left; Aubrianna Freeman appears inset on the right – against an image of the apartment complex where the couple's children were allegedly found covered in feces.](https://am22.mediaite.com/lc/cnt/uploads/2024/09/Dodd-Freeman-432x243.jpg)](https://lawandcrime.com/crime/dookie-all-over-their-face-hands-mouth-couple-arrested-after-multiple-children-allegedly-found-locked-up-in-completely-disgusting-apartment/)
-    
-    ### ['Dookie all over their face, hands, mouth': Couple arrested after multiple children allegedly found locked up in 'completely disgusting' apartment](https://lawandcrime.com/crime/dookie-all-over-their-face-hands-mouth-couple-arrested-after-multiple-children-allegedly-found-locked-up-in-completely-disgusting-apartment/)
-    
-4. [![Daman Smith peeping tom](https://am24.mediaite.com/lc/cnt/uploads/2024/09/Damon-Smith-432x243.jpg)](https://lawandcrime.com/crime/i-got-something-for-you-angry-florida-dad-with-baseball-bat-chases-michael-myers-t-shirt-wearing-peeping-tom-peering-into-daughters-bedroom-window-cops-say/)
+3. [![Daman Smith peeping tom](https://am24.mediaite.com/lc/cnt/uploads/2024/09/Damon-Smith-432x243.jpg)](https://lawandcrime.com/crime/i-got-something-for-you-angry-florida-dad-with-baseball-bat-chases-michael-myers-t-shirt-wearing-peeping-tom-peering-into-daughters-bedroom-window-cops-say/)
     
     ### ['I got something for you:' Angry Florida dad with baseball bat chases Michael Myers T-shirt-wearing peeping Tom peering into daughter's bedroom window, cops say](https://lawandcrime.com/crime/i-got-something-for-you-angry-florida-dad-with-baseball-bat-chases-michael-myers-t-shirt-wearing-peeping-tom-peering-into-daughters-bedroom-window-cops-say/)
     
-5. [![Tiffanie Lucas with sons Jayden and Maurice](https://am24.mediaite.com/lc/cnt/uploads/2024/09/Lucas-432x243.jpg)](https://lawandcrime.com/crime/tiffanie-lucas-mom-charged-with-murdering-sons-claims-insanity-but-fit-to-stand-trial/)
+4. [![Left: Sean ](https://am22.mediaite.com/lc/cnt/uploads/2024/09/Sean-Combs-LA-Miami-homes-432x243.jpg)](https://lawandcrime.com/high-profile/the-presumption-has-not-been-rebutted-judge-rejects-sean-diddy-combs-demand-for-jail-release-as-attorney-vows-to-fight-to-the-end/)
     
-    ### [Mom who claimed she was 'so stupid' and shot 2 young sons in the head in bedroom by 'accident' now says she was legally insane](https://lawandcrime.com/crime/tiffanie-lucas-mom-charged-with-murdering-sons-claims-insanity-but-fit-to-stand-trial/)
+    ### ['The presumption has not been rebutted': Judge rejects Sean 'Diddy' Combs' demand for jail release as attorney vows to 'fight to the end'](https://lawandcrime.com/high-profile/the-presumption-has-not-been-rebutted-judge-rejects-sean-diddy-combs-demand-for-jail-release-as-attorney-vows-to-fight-to-the-end/)
+    
+5. [![Carly Gregg](https://am21.mediaite.com/lc/cnt/uploads/2024/09/Carly-Gregg-432x243.jpg)](https://lawandcrime.com/crime/chilling-kitchen-camera-video-shows-14-year-old-girl-casually-using-phone-just-moments-after-moms-screams-and-3-gunshots-could-be-heard-from-bedroom/)
+    
+    ### [Chilling kitchen camera video shows 14-year-old girl casually using phone just moments after mom's screams and 3 gunshots could be heard from bedroom](https://lawandcrime.com/crime/chilling-kitchen-camera-video-shows-14-year-old-girl-casually-using-phone-just-moments-after-moms-screams-and-3-gunshots-could-be-heard-from-bedroom/)
     
 
 [](http://eepurl.com/c89Jdb)
