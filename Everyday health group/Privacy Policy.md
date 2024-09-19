@@ -58,7 +58,7 @@ Featured stories
 
 ![ ](https://images.everydayhealth.com/images/news/fda-approves-airpod-pros-2-as-hearing-aid-1440x810.jpg)
 
-FDA Approves AirPods Pro 2 as Nonprescription Hearing Aids](https://www.everydayhealth.com/healthy-hearing/fda-approves-airpods-as-non-prescription-hearing-aids/)[![ ](https://images.everydayhealth.com/react-component-images/image-src-placeholder-16x9288625876.png)
+New AirPods Pro Can Double as Hearing Aids, FDA Says](https://www.everydayhealth.com/healthy-hearing/fda-approves-airpods-as-non-prescription-hearing-aids/)[![ ](https://images.everydayhealth.com/react-component-images/image-src-placeholder-16x9288625876.png)
 
 ![ ](https://images.everydayhealth.com/images/news/high-doses-adhd-meds-raise-psychosis-risk-1440x810.jpg)
 
