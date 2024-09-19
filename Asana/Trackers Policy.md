@@ -490,7 +490,7 @@ If you have any questions about these Terms, please contact us at [terms-questi
 * [Wavelength](https://wavelength.asana.com/)
 * [Inside Asana](https://asana.com/inside-asana)
 * [Investor Relations](https://investors.asana.com/)
-* [Sitemap](https://asana.com/inside-asana/inside-asana/inside-asana/inside-asana/site-map)
+* [Sitemap](https://asana.com/inside-asana/site-map)
 * [Modern Slavery Transparency Statement](https://asana.com/terms/modern-slavery-statement)
 
 * Workflow Solutions
@@ -549,7 +549,15 @@ If you have any questions about these Terms, please contact us at [terms-questi
 * [Svenska](https://asana.com/sv)
 * [繁體中文](https://asana.com/zh-tw)
 
-[Terms](https://asana.com/terms) & [Privacy](https://asana.com/terms/privacy-statement)
+[Terms](https://asana.com/terms)
+
+Terms
+
+&
+
+[Privacy](https://asana.com/terms/privacy-statement)
+
+Privacy
 
 [Twitter](https://twitter.com/intent/follow?screen_name=asana)
 
