@@ -205,28 +205,27 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [The Journey: Absolution](https://www.somethingawful.com/movie-reviews/journey-absolution/1/)
-* [Vicious Turtles & Rampaging Eskimos: The Best of Pulp Cover Artwork](https://www.somethingawful.com/dungeons-and-dragons/pulp-cover-turtle/1/)
-* [The Dude Abides No Oppressive Regimes](https://www.somethingawful.com/news/dude-abides-no/)
-* [Postage Stamps](https://www.somethingawful.com/photoshop-phriday/postage-stamps/1/)
-* [Toys Throughout Time](https://www.somethingawful.com/photoshop-phriday/toys-throughout-history/1/)
+* [Everett True's Advice for Aspiring Critics](https://www.somethingawful.com/garbage-day/everett-true-advice/1/)
+* [Terrifying Jack-o'-Lanterns!](https://www.somethingawful.com/comedy-goldmine/halloween-jackolanterns/1/)
+* [Netanyahu Warns the World!](https://www.somethingawful.com/comedy-goldmine/netanyahu-warn-world/1/)
+* [Nightmares Fear Factory 2019!](https://www.somethingawful.com/photoshop-phriday/nightmare-fear-2019/)
+* [AwfulVision: Videos that don't totally suck!](https://www.somethingawful.com/awfulvision/lasagna-cry-george/1/)
 
 ### Popular Threads
 
 * ![](https://fi.somethingawful.com/forums/posticons/anime-hm7.gif) [When did Buffalo Wild Wings get this shitty?](http://forums.somethingawful.com/showthread.php?threadid=4070629 "When did Buffalo Wild Wings get this shitty?")
-* ![](https://fi.somethingawful.com/forums/posticons/icons-08/video.png) [TastyArmageddon has started a YouTube channel](http://forums.somethingawful.com/showthread.php?threadid=4070663 "TastyArmageddon has started a YouTube channel")
-* ![](https://fi.somethingawful.com/forums/posticons/byob-gents.gif) [Who is the least creepy celebrity?](http://forums.somethingawful.com/showthread.php?threadid=4070612 "Who is the least creepy celebrity?")
+* ![](https://fi.somethingawful.com/forums/posticons/tfr-box.gif) [Post your predictions for the year 2035](http://forums.somethingawful.com/showthread.php?threadid=4070705 "Post your predictions for the year 2035")
 * ![](https://fi.somethingawful.com/forums/posticons/icons-08/photoshop.png) [Nightmares Fear Factory 2024 - Road Rage In a Haunted House](http://forums.somethingawful.com/showthread.php?threadid=4070637 "Nightmares Fear Factory 2024 - Road Rage In a Haunted House")
+* ![](https://fi.somethingawful.com/forums/posticons/icons-08/video.png) [TastyArmageddon has started a YouTube channel](http://forums.somethingawful.com/showthread.php?threadid=4070663 "TastyArmageddon has started a YouTube channel")
 * ![](https://fi.somethingawful.com/forums/posticons/games-regret.gif) ["using" "quotation" "marks" "to" "emphasize" "](http://forums.somethingawful.com/showthread.php?threadid=4070682 ""using" "quotation" "marks" "to" "emphasize" "")
-* ![](https://fi.somethingawful.com/forums/posticons/byob-grumpy.gif) [What's it like being on an extremely short flight?](http://forums.somethingawful.com/showthread.php?threadid=4070619 "What's it like being on an extremely short flight?")
 
 ### Random Articles
 
-* [Tattoo Buyer's Guide 2013](https://www.somethingawful.com/news/tattoos-2013/)
-* [Tim Allen has Returned](https://www.somethingawful.com/news/tim-allen-returns/)
-* [Rifts World Book Japan](https://www.somethingawful.com/dungeons-and-dragons/rifts-japan/1/)
-* [Turbulent Skies](https://www.somethingawful.com/movie-reviews/turbulent-skies/1/)
-* [Indie Goes Broke](https://www.somethingawful.com/your-band-sucks/indie-goes-broke/)
+* [BitBoys Oy](https://www.somethingawful.com/awful-links/awful-link-2396/)
+* [After 10 Dang Years Away From World of Warcraft, Here's My Battle for Azeroth Review](https://www.somethingawful.com/video-game-article/warcraft-battle-azeroth/)
+* [Screwing Up At Work](https://www.somethingawful.com/comedy-goldmine/work-screw-ups/1/)
+* [Dating Tips for the Overqualified](https://www.somethingawful.com/news/dating-tips-for/)
+* [Fall 2010 Syllabus](https://www.somethingawful.com/news/syllabus/1/)
 
 [Random!](https://www.somethingawful.com/random/)
 
