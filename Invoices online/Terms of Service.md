@@ -197,61 +197,57 @@ Note: If at any time you should have any concern regarding security, privacy or 
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Support even on Sundays!
-> ------------------------
+> Fast, Accurate & Easy to Use
+> ----------------------------
 > 
-> Thanks Adriaan...
-> 
-> You guys even work on Sundays?
-> 
-> I’m impressed!!
+> Small Business Management System or SBMS, now rebranded as Invoices Online is an online invoicing system developed by the same guys that developed our site, we use it and honestly recommend it to all people who have dynamic sites, or want an online invoicing solution.  The invoicing application is fast, accurate, easy to use, and it really enhances the online experience of our clients.
 
-Johan Botha - Brand Xplosion
+Jannie Schutte - myFinance-Online.co.za
 
-![valued client Peter Salvage Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7407&file=logo_300_100&type=&fe=80c431e6455a70d4196b64a2a5d3b16d84437cb85a166118883fa31bd9fcd9b7&c=21163830)  
-Peter Salvage Pty Ltd
+![valued client Imvubu General Trading](https://www.invoicesonline.co.za/scripts/image.php?bid=299&file=logo_300_100&type=&fe=a6e500d4eab91d47da07de39880eefbd51156fd2f0928b400c191bd65313cffc&c=94704962)  
+Imvubu General Trading
 
-![valued client M's Frozen Delights](https://www.invoicesonline.co.za/scripts/image.php?bid=7776&file=logo_300_100&type=&fe=80c431e6455a70d4196b64a2a5d3b16d84437cb85a166118883fa31bd9fcd9b7&c=27427089)  
-M's Frozen Delights
+![valued client Leef in Afrikaans](https://www.invoicesonline.co.za/scripts/image.php?bid=7426&file=logo_300_100&type=&fe=a6e500d4eab91d47da07de39880eefbd51156fd2f0928b400c191bd65313cffc&c=59147425)  
+Leef in Afrikaans
 
-![valued client TRACKFORCE (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=1722&file=logo_300_100&type=&fe=80c431e6455a70d4196b64a2a5d3b16d84437cb85a166118883fa31bd9fcd9b7&c=64942811)  
-TRACKFORCE (Pty) Ltd
+![valued client OPTIMUS ELECTRICAL PTY (LTD)](https://www.invoicesonline.co.za/scripts/image.php?bid=4990&file=logo_300_100&type=&fe=a6e500d4eab91d47da07de39880eefbd51156fd2f0928b400c191bd65313cffc&c=21444167)  
+OPTIMUS ELECTRICAL PTY (LTD)
 
-![valued client SR Travel Services](https://www.invoicesonline.co.za/scripts/image.php?bid=7537&file=logo_300_100&type=&fe=80c431e6455a70d4196b64a2a5d3b16d84437cb85a166118883fa31bd9fcd9b7&c=78631433)  
-SR Travel Services
+![valued client SA Security Brokerz (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5188&file=logo_300_100&type=&fe=a6e500d4eab91d47da07de39880eefbd51156fd2f0928b400c191bd65313cffc&c=164221252)  
+SA Security Brokerz (Pty) Ltd
 
-![valued client Repairs In Motion](https://www.invoicesonline.co.za/scripts/image.php?bid=6788&file=logo_300_100&type=&fe=80c431e6455a70d4196b64a2a5d3b16d84437cb85a166118883fa31bd9fcd9b7&c=151532834)  
-Repairs In Motion
+![valued client Desygn](https://www.invoicesonline.co.za/scripts/image.php?bid=7855&file=logo_300_100&type=&fe=a6e500d4eab91d47da07de39880eefbd51156fd2f0928b400c191bd65313cffc&c=114950951)  
+Desygn
 
-![valued client OptaServ](https://www.invoicesonline.co.za/scripts/image.php?bid=7689&file=logo_300_100&type=&fe=80c431e6455a70d4196b64a2a5d3b16d84437cb85a166118883fa31bd9fcd9b7&c=116400584)  
-OptaServ
+![valued client BD Maintenance](https://www.invoicesonline.co.za/scripts/image.php?bid=4541&file=logo_300_100&type=&fe=a6e500d4eab91d47da07de39880eefbd51156fd2f0928b400c191bd65313cffc&c=189083051)  
+BD Maintenance
 
-![valued client KTEN PARTS](https://www.invoicesonline.co.za/scripts/image.php?bid=7612&file=logo_300_100&type=&fe=80c431e6455a70d4196b64a2a5d3b16d84437cb85a166118883fa31bd9fcd9b7&c=33789311)  
-KTEN PARTS
+![valued client FRAMED BY ANTON (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=2146&file=logo_300_100&type=&fe=a6e500d4eab91d47da07de39880eefbd51156fd2f0928b400c191bd65313cffc&c=68780610)  
+FRAMED BY ANTON (Pty) Ltd.
 
-![valued client Goju Ryu Karate Centre](https://www.invoicesonline.co.za/scripts/image.php?bid=2827&file=logo_300_100&type=&fe=80c431e6455a70d4196b64a2a5d3b16d84437cb85a166118883fa31bd9fcd9b7&c=163797810)  
-Goju Ryu Karate Centre
+![valued client One2b](https://www.invoicesonline.co.za/scripts/image.php?bid=4093&file=logo_300_100&type=&fe=a6e500d4eab91d47da07de39880eefbd51156fd2f0928b400c191bd65313cffc&c=38530757)  
+One2b
 
-![valued client TIGERDSL](https://www.invoicesonline.co.za/scripts/image.php?bid=2831&file=logo_300_100&type=&fe=80c431e6455a70d4196b64a2a5d3b16d84437cb85a166118883fa31bd9fcd9b7&c=58567801)  
-TIGERDSL
+![valued client Beyond Laser CNC Cutting Technology South Africa CC](https://www.invoicesonline.co.za/scripts/image.php?bid=4419&file=logo_300_100&type=&fe=a6e500d4eab91d47da07de39880eefbd51156fd2f0928b400c191bd65313cffc&c=27892948)  
+Beyond Laser CNC Cutting Technology South Africa CC
 
-![valued client All Trucking Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=6370&file=logo_300_100&type=&fe=80c431e6455a70d4196b64a2a5d3b16d84437cb85a166118883fa31bd9fcd9b7&c=81866054)  
-All Trucking Solutions
+![valued client Echo Recording Studio cc](https://www.invoicesonline.co.za/scripts/image.php?bid=225&file=logo_300_100&type=&fe=a6e500d4eab91d47da07de39880eefbd51156fd2f0928b400c191bd65313cffc&c=143288988)  
+Echo Recording Studio cc
 
-![valued client WIP Digital Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=1603&file=logo_300_100&type=&fe=80c431e6455a70d4196b64a2a5d3b16d84437cb85a166118883fa31bd9fcd9b7&c=39334638)  
-WIP Digital Solutions
+![valued client Moving Made Easy (PTY) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8622&file=logo_300_100&type=&fe=a6e500d4eab91d47da07de39880eefbd51156fd2f0928b400c191bd65313cffc&c=109502701)  
+Moving Made Easy (PTY) Ltd
 
-![valued client MONSTER SECURITY SERVICES](https://www.invoicesonline.co.za/scripts/image.php?bid=5438&file=logo_300_100&type=&fe=80c431e6455a70d4196b64a2a5d3b16d84437cb85a166118883fa31bd9fcd9b7&c=207792572)  
-MONSTER SECURITY SERVICES
+![valued client AFS Electrical](https://www.invoicesonline.co.za/scripts/image.php?bid=3660&file=logo_300_100&type=&fe=a6e500d4eab91d47da07de39880eefbd51156fd2f0928b400c191bd65313cffc&c=121225091)  
+AFS Electrical
 
-![valued client Vplay Letsheng Mall](https://www.invoicesonline.co.za/scripts/image.php?bid=8358&file=logo_300_100&type=&fe=80c431e6455a70d4196b64a2a5d3b16d84437cb85a166118883fa31bd9fcd9b7&c=190493647)  
-Vplay Letsheng Mall
+![valued client Kaylas Creations](https://www.invoicesonline.co.za/scripts/image.php?bid=7957&file=logo_300_100&type=&fe=a6e500d4eab91d47da07de39880eefbd51156fd2f0928b400c191bd65313cffc&c=204342307)  
+Kaylas Creations
 
-![valued client Frequency Fanatics (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8558&file=logo_300_100&type=&fe=80c431e6455a70d4196b64a2a5d3b16d84437cb85a166118883fa31bd9fcd9b7&c=182964671)  
-Frequency Fanatics (Pty) Ltd
+![valued client Nogana Events and Decor](https://www.invoicesonline.co.za/scripts/image.php?bid=3755&file=logo_300_100&type=&fe=a6e500d4eab91d47da07de39880eefbd51156fd2f0928b400c191bd65313cffc&c=147757086)  
+Nogana Events and Decor
 
-![valued client BEE SURE CONSULTING (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8110&file=logo_300_100&type=&fe=80c431e6455a70d4196b64a2a5d3b16d84437cb85a166118883fa31bd9fcd9b7&c=90352172)  
-BEE SURE CONSULTING (PTY) LTD
+![valued client Imhoff Equestrian Centre](https://www.invoicesonline.co.za/scripts/image.php?bid=7987&file=logo_300_100&type=&fe=a6e500d4eab91d47da07de39880eefbd51156fd2f0928b400c191bd65313cffc&c=60609113)  
+Imhoff Equestrian Centre
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
