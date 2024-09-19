@@ -6,34 +6,36 @@ Hurry up! Ends 9/30](https://www.mobicip.com/pricing)
 
 [](https://www.mobicip.com/ "Mobicip")
 
+Parental Features
+
 * Features
     
     * [Screen Time Scheduler
         
         Create schedules to limit screen  
         time & app usage](https://www.mobicip.com/features/screen-time)
-    * [Website Blocker
-        
-        Monitor & block adult  
-        websites](https://www.mobicip.com/features/website-blocker)
     * [Social Media Monitor
         
         Monitor social media & prevent  
         risky behavior](https://www.mobicip.com/features/social-media-monitor)
-    * [Family Locator
-        
-        Locate your children and set geo-boundaries to ensure their safety](https://www.mobicip.com/features/family-locator)
     * [App Blocker
         
         Limit and block distractive  
         apps](https://www.mobicip.com/features/app-blocker)
-    * [Expert Advice
-        
-        Learn parenting tips from experts on digital wellness](https://www.mobicip.com/blog)
     * [Activity Summary
         
         Keep track of how your children  
         spend their time online](https://www.mobicip.com/features/activity-summary)
+    * [Website Blocker
+        
+        Monitor & block adult  
+        websites](https://www.mobicip.com/features/website-blocker)
+    * [Family Locator
+        
+        Locate your children and set geo-boundaries to ensure their safety](https://www.mobicip.com/features/family-locator)
+    * [Expert Advice
+        
+        Learn parenting tips from experts on digital wellness](https://www.mobicip.com/blog)
     * [Collaboration
         
         Team up with co-parents / guardians & your child](https://www.mobicip.com/features/collaboration)
@@ -190,5 +192,3 @@ Secure your child's digital world and protect their innocence
 Subscribe
 
 Copyright © 2024 Mobicip.LLC
-
-<#% if SERVER\_ENVIRONMENT == 'production' && content\_for(:lucky\_orange) && yield(:lucky\_orange) %> <#% end %> %> %>
