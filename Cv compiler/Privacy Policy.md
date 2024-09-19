@@ -1759,6 +1759,8 @@ What do top resumes look like? Check out these expertly-written samples:
 
 [Web Application Developer](https://cvcompiler.com/web-application-developer-resume-examples)
 
+[Snowflake](https://cvcompiler.com/snowflake-resume-examples)
+
 ![Upload resume illustration](uploads-pre-acq/img/upload-illustration.svg)
 
 ### Upload  
