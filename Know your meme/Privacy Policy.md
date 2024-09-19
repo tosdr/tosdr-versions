@@ -120,7 +120,7 @@ Welcome! [Login](https://knowyourmeme.com/login) or [signup](https://knowyourmem
 
 ##### Also Trending:
 
-[Pager and Radio Attacks on Hezbollah](https://knowyourmeme.com/memes/events/2024-pager-and-radio-attacks-on-hezbollah "Pager and Radio Attacks on Hezbollah") [September 2024 Trump Assassination Attempt](https://knowyourmeme.com/memes/events/september-2024-attempted-assassination-of-donald-trump "September 2024 Trump Assassination Attempt") [Fake School Shooting Trend](https://knowyourmeme.com/memes/events/fake-school-shooting-trend "Fake School Shooting Trend") [MrBeast, KSI and Logan Paul's "Lunchly"](https://knowyourmeme.com/memes/subcultures/mrbeast-ksi-and-logan-pauls-lunchly "MrBeast, KSI and Logan Paul's "Lunchly"") [Moo-Deng the Baby Hippo](https://knowyourmeme.com/memes/moo-deng-the-baby-hippo "Moo-Deng the Baby Hippo") [Tropes In Media Tier List](https://knowyourmeme.com/memes/tropes-in-media-tier-list "Tropes In Media Tier List") ["Put a Girl On" Prank](https://knowyourmeme.com/memes/put-a-girl-on-taco-bell-phone-prank ""Put a Girl On" Prank") [MrBeast-Amazon "Beast Games" Lawsuit](https://knowyourmeme.com/memes/events/mrbeast-and-amazons-beast-games-lawsuit "MrBeast-Amazon "Beast Games" Lawsuit") [Awesome Lesbian Couple](https://knowyourmeme.com/memes/awesome-lesbian-couple "Awesome Lesbian Couple")
+[Pager and Radio Attacks on Hezbollah](https://knowyourmeme.com/memes/events/2024-pager-and-radio-attacks-on-hezbollah "Pager and Radio Attacks on Hezbollah") [Tropes In Media Tier List](https://knowyourmeme.com/memes/tropes-in-media-tier-list "Tropes In Media Tier List") [Fake School Shooting Trend](https://knowyourmeme.com/memes/events/fake-school-shooting-trend "Fake School Shooting Trend") [September 2024 Trump Assassination Attempt](https://knowyourmeme.com/memes/events/september-2024-attempted-assassination-of-donald-trump "September 2024 Trump Assassination Attempt") [But It Refused / Twitter Bird Fights Back](https://knowyourmeme.com/memes/but-it-refused-twitter-bird-fights-back "But It Refused / Twitter Bird Fights Back") [The Lusty Argonian Maid](https://knowyourmeme.com/memes/the-lusty-argonian-maid "The Lusty Argonian Maid") [Dungeons and Dragons](https://knowyourmeme.com/memes/subcultures/dungeons-and-dragons "Dungeons and Dragons")
 
 Privacy Policy
 ==============
@@ -316,7 +316,7 @@ Please be sure to include your information in any correspondence to us so that w
 **Legal Information:** [Know Your Meme ®](https://knowyourmeme.com/) is a trademark of [Literally Media Ltd.](https://literally.media/) By using this site, you are agreeing by the site's [terms of use](https://knowyourmeme.com/terms-of-service) and [privacy policy](https://knowyourmeme.com/privacy) and [DMCA policy](https://knowyourmeme.com/dmca).  
 © 2007-2024 [Literally Media Ltd.](https://literally.media/)
 
-### Sup! You must login or signup first!
+### Hi! You must login or signup first!
 
 |     |     |
 | --- | --- |
