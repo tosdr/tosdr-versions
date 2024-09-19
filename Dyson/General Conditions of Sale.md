@@ -94,7 +94,7 @@ Include any further details you think we should know (400 characters max)
 
 Zip Code 
 
-Machine & Part/Accessory Machine Only Part/Accessory Only
+Machine & Part/Accessory Machine Only Part/Accessory Only Hair Care Product
 
 [](https://www.dyson.com/serial-number-help.html)  
 
