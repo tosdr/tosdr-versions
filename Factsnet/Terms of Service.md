@@ -208,21 +208,21 @@ Turn Your Curiosity Into Discovery
 
 Latest Facts
 
-[![37 Facts About Lions Eat Poachers South Africa ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%2284%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/nature/37-facts-about-lions-eat-poachers-south-africa/)
+[![35 Facts About Dragon Legends ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22100%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/culture-and-the-arts/35-facts-about-dragon-legends/)
 
-Nature
+Culture & The Arts
 
-18 Sep 2024
+19 Sep 2024
 
-[37 Facts About Lions Eat Poachers South Africa](https://facts.net/nature/37-facts-about-lions-eat-poachers-south-africa/)
+[35 Facts About Dragon Legends](https://facts.net/culture-and-the-arts/35-facts-about-dragon-legends/)
 
-[![37 Facts About Golden Snub Nosed Monkey ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%2285%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/nature/37-facts-about-golden-snub-nosed-monkey/)
+[![50 Facts About Xerophthalmia ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22100%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/fitness-and-wellbeing/health-science/50-facts-about-xerophthalmia/)
 
-Nature
+Health Science
 
-18 Sep 2024
+19 Sep 2024
 
-[37 Facts About Golden Snub Nosed Monkey](https://facts.net/nature/37-facts-about-golden-snub-nosed-monkey/)
+[50 Facts About Xerophthalmia](https://facts.net/fitness-and-wellbeing/health-science/50-facts-about-xerophthalmia/)
 
 [Home](https://facts.net/) [Terms](https://facts.net/terms/)
 
