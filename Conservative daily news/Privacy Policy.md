@@ -2,14 +2,14 @@ Thursday, September 19 2024
 
 Breaking News
 
-* [CBS News’ Dem Ties Exposed Ahead Of Network Hosting Vance-Walz Debate](https://www.conservativedailynews.com/2024/09/cbs-news-dem-ties-exposed-ahead-of-network-hosting-vance-walz-debate/)
-* [President Joe Biden’s Schedule for Wednesday, September 18, 2024](https://www.conservativedailynews.com/2024/09/president-joe-bidens-schedule-for-wednesday-september-18-2024/)
-* [White House Press Briefing with Karine Jean-Pierre – 9/18/24](https://www.conservativedailynews.com/2024/09/white-house-press-briefing-with-karine-jean-pierre-9-18-24/)
-* [America In The Age Of Stupidity: Just Think If We Had A Fair And Honest Media](https://www.conservativedailynews.com/2024/09/america-in-the-age-of-stupidity-just-think-if-we-had-a-fair-and-honest-media/)
-* [Shut Hillary Down](https://www.conservativedailynews.com/2024/09/shut-hillary-down/)
-* [Hunter Biden’s Attorneys Ask Judge To Delay Sentencing So Biden-Harris Admin Officials Can ‘Submit Letters’ of Support](https://www.conservativedailynews.com/2024/09/hunter-bidens-attorneys-ask-judge-to-delay-sentencing-so-biden-harris-admin-officials-can-submit-letters-of-support/)
-* [Swing State’s School Choice Programs Are Helping Thousands Of Families — Dems Want To End It](https://www.conservativedailynews.com/2024/09/swing-states-school-choice-programs-are-helping-thousands-of-families-dems-want-to-end-it/)
-* [Speech Actually Can Be Violence When Weaponized by Democrats](https://www.conservativedailynews.com/2024/09/speech-actually-can-be-violence-when-weaponized-by-democrats/)
+* [New Docs Shed Light On Air Force’s ‘Goal’ To Reduce ‘White Male Population’ Joining Officer Ranks](https://www.conservativedailynews.com/2024/09/new-docs-shed-light-on-air-forces-goal-to-reduce-white-male-population-joining-officer-ranks/)
+* [Powell’s Fed Just Made Its 4th Mistake](https://www.conservativedailynews.com/2024/09/powells-fed-just-made-its-4th-mistake/)
+* [Newt Gingrich Lists Reasons Why Trump Feels ‘He Has Real Chance’ To Flip Major Blue State Red](https://www.conservativedailynews.com/2024/09/newt-gingrich-lists-reasons-why-trump-feels-he-has-real-chance-to-flip-major-blue-state-red/)
+* [Intelligence Agencies Say Iran Tried Passing Along Hacked Trump Campaign Data To Biden](https://www.conservativedailynews.com/2024/09/intelligence-agencies-say-iran-tried-passing-along-hacked-trump-campaign-data-to-biden/)
+* [14 Republicans Join Forces With Dems To Torpedo Mike Johnson’s Revived Spending Bill](https://www.conservativedailynews.com/2024/09/14-republicans-join-forces-with-dems-to-torpedo-mike-johnsons-revived-spending-bill/)
+* [Border Crisis: Fed Chairman Says ‘Influx’ Of Migrants Contributing To Rising Unemployment](https://www.conservativedailynews.com/2024/09/border-crisis-fed-chairman-says-influx-of-migrants-contributing-to-rising-unemployment/)
+* [President Joe Biden’s Schedule for Thursday, September 19, 2024](https://www.conservativedailynews.com/2024/09/president-joe-bidens-schedule-for-thursday-september-19-2024/)
+* [White House Press Briefing with Karine Jean-Pierre and Jared Bernstein – 9/19/24](https://www.conservativedailynews.com/2024/09/white-house-press-briefing-with-karine-jean-pierre-and-jared-bernstein-9-19-24/)
 
 * [Sidebar](#)
 * [Random Article](https://www.conservativedailynews.com/privacy-policy/?random-post=1 "Random Article")
@@ -111,82 +111,82 @@ Your donations help us purchase content, pay for servers, and reduce advertising
 
 Created using the Donation Thermometer plugin https://wordpress.org/plugins/donation-thermometer/.47%
 
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2023/07/01-by-half-sm-1080-220x150.jpg)](https://www.conservativedailynews.com/2024/09/14-republicans-join-forces-with-dems-to-torpedo-mike-johnsons-revived-spending-bill/)
+    
+    [14 Republicans Join Forces With Dems To Torpedo Mike Johnson’s Revived Spending Bill](https://www.conservativedailynews.com/2024/09/14-republicans-join-forces-with-dems-to-torpedo-mike-johnsons-revived-spending-bill/)
+    
+    September 19, 2024
+    
 * [![Kamala Harris 2024 election](https://www.conservativedailynews.com/wp-content/uploads/2024/07/stg072624dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/09/cbs-news-dem-ties-exposed-ahead-of-network-hosting-vance-walz-debate/)
     
     [CBS News’ Dem Ties Exposed Ahead Of Network Hosting Vance-Walz Debate](https://www.conservativedailynews.com/2024/09/cbs-news-dem-ties-exposed-ahead-of-network-hosting-vance-walz-debate/)
     
     September 18, 2024
-    
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2022/11/Dennis-Prager-220x150.jpg)](https://www.conservativedailynews.com/2024/09/the-reasons-young-women-embrace-the-left-do-not-reflect-well-on-those-women/)
-    
-    [The Reasons Young Women Embrace the Left Do Not Reflect Well on Those Women](https://www.conservativedailynews.com/2024/09/the-reasons-young-women-embrace-the-left-do-not-reflect-well-on-those-women/)
-    
-    September 17, 2024
     
 
 Recent Posts
 
-* [![Kamala Harris 2024 election](https://www.conservativedailynews.com/wp-content/uploads/2024/07/stg072624dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/09/cbs-news-dem-ties-exposed-ahead-of-network-hosting-vance-walz-debate/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/09/AFROTC-race-based-promotion-220x150.jpg)](https://www.conservativedailynews.com/2024/09/new-docs-shed-light-on-air-forces-goal-to-reduce-white-male-population-joining-officer-ranks/)
     
-    [CBS News’ Dem Ties Exposed Ahead Of Network Hosting Vance-Walz Debate](https://www.conservativedailynews.com/2024/09/cbs-news-dem-ties-exposed-ahead-of-network-hosting-vance-walz-debate/)
+    [New Docs Shed Light On Air Force’s ‘Goal’ To Reduce ‘White Male Population’ Joining Officer Ranks](https://www.conservativedailynews.com/2024/09/new-docs-shed-light-on-air-forces-goal-to-reduce-white-male-population-joining-officer-ranks/)
     
-    September 18, 2024
+    September 19, 2024
     
-* [![Democrats woke gender ideology](https://www.conservativedailynews.com/wp-content/uploads/2023/06/01-wokethroat-sm-1080a.jpg)](https://www.conservativedailynews.com/2024/09/state-department-paying-for-play-where-god-is-bisexual-and-communists-are-good-in-bid-to-push-lgbt-rights-abroad/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2021/11/Federal-Reserve-220x150.jfif)](https://www.conservativedailynews.com/2024/09/powells-fed-just-made-its-4th-mistake/)
     
-    [State Department Paying For Play Where God Is Bisexual And Communists Are Good In Bid To Push LGBT Rights Abroad](https://www.conservativedailynews.com/2024/09/state-department-paying-for-play-where-god-is-bisexual-and-communists-are-good-in-bid-to-push-lgbt-rights-abroad/)
+    [Powell’s Fed Just Made Its 4th Mistake](https://www.conservativedailynews.com/2024/09/powells-fed-just-made-its-4th-mistake/)
     
-    September 18, 2024
+    September 19, 2024
     
-* [![Joe Biden open border illegal aliens](https://www.conservativedailynews.com/wp-content/uploads/2024/02/mrz022624dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/09/biden-harris-admin-cracks-down-on-border-smugglers-of-refrigerants/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2019/09/wp1816998-donald-trump-wallpapers.jpg)](https://www.conservativedailynews.com/2024/09/newt-gingrich-lists-reasons-why-trump-feels-he-has-real-chance-to-flip-major-blue-state-red/)
     
-    [Biden-Harris Admin Cracks Down On Border Smugglers … Of Refrigerants](https://www.conservativedailynews.com/2024/09/biden-harris-admin-cracks-down-on-border-smugglers-of-refrigerants/)
+    [Newt Gingrich Lists Reasons Why Trump Feels ‘He Has Real Chance’ To Flip Major Blue State Red](https://www.conservativedailynews.com/2024/09/newt-gingrich-lists-reasons-why-trump-feels-he-has-real-chance-to-flip-major-blue-state-red/)
     
-    September 18, 2024
+    September 19, 2024
     
-* [![Media Bias victim blaming Trump assassination](https://www.conservativedailynews.com/wp-content/uploads/2024/09/gv091824dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/09/a-total-turn-off/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2019/06/Hacker-3.jpg)](https://www.conservativedailynews.com/2024/09/intelligence-agencies-say-iran-tried-passing-along-hacked-trump-campaign-data-to-biden/)
     
-    [A Total Turn-Off](https://www.conservativedailynews.com/2024/09/a-total-turn-off/)
+    [Intelligence Agencies Say Iran Tried Passing Along Hacked Trump Campaign Data To Biden](https://www.conservativedailynews.com/2024/09/intelligence-agencies-say-iran-tried-passing-along-hacked-trump-campaign-data-to-biden/)
     
-    September 18, 2024
+    September 19, 2024
     
-* [![Israel pagers Hezbollah](https://www.conservativedailynews.com/wp-content/uploads/2024/09/stg091824dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/09/beep-beep-boom/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2023/07/01-by-half-sm-1080-220x150.jpg)](https://www.conservativedailynews.com/2024/09/14-republicans-join-forces-with-dems-to-torpedo-mike-johnsons-revived-spending-bill/)
     
-    [Beep Beep BOOM!](https://www.conservativedailynews.com/2024/09/beep-beep-boom/)
+    [14 Republicans Join Forces With Dems To Torpedo Mike Johnson’s Revived Spending Bill](https://www.conservativedailynews.com/2024/09/14-republicans-join-forces-with-dems-to-torpedo-mike-johnsons-revived-spending-bill/)
     
-    September 18, 2024
+    September 19, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/09/03-assasintwo-dt-1080-220x150.jpg)](https://www.conservativedailynews.com/2024/09/media-heal-thyself/)
+* [![Kamala Harris I did that election 2024](https://www.conservativedailynews.com/wp-content/uploads/2024/09/01-kamdidthat-ci-1080-220x150.jpg)](https://www.conservativedailynews.com/2024/09/border-crisis-fed-chairman-says-influx-of-migrants-contributing-to-rising-unemployment/)
     
-    [Media Heal Thyself](https://www.conservativedailynews.com/2024/09/media-heal-thyself/)
+    [Border Crisis: Fed Chairman Says ‘Influx’ Of Migrants Contributing To Rising Unemployment](https://www.conservativedailynews.com/2024/09/border-crisis-fed-chairman-says-influx-of-migrants-contributing-to-rising-unemployment/)
     
-    September 18, 2024
+    September 19, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2021/05/Joe-Biden-White-House-Spring-220x150.png)](https://www.conservativedailynews.com/2024/09/president-joe-bidens-schedule-for-wednesday-september-18-2024/)
+* [![United Auto Workers unions](https://www.conservativedailynews.com/wp-content/uploads/2023/10/image-51-220x150.png)](https://www.conservativedailynews.com/2024/09/major-auto-union-that-brought-the-whole-industry-to-a-halt-last-year-threatens-to-launch-massive-strike-once-again/)
     
-    [President Joe Biden’s Schedule for Wednesday, September 18, 2024](https://www.conservativedailynews.com/2024/09/president-joe-bidens-schedule-for-wednesday-september-18-2024/)
+    [Major Auto Union That Brought The Whole Industry To A Halt Last Year Threatens To Launch Massive Strike Once Again](https://www.conservativedailynews.com/2024/09/major-auto-union-that-brought-the-whole-industry-to-a-halt-last-year-threatens-to-launch-massive-strike-once-again/)
     
-    September 18, 2024
+    September 19, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2023/01/1673037178_maxresdefault-220x150.jpg)](https://www.conservativedailynews.com/2024/09/white-house-press-briefing-with-karine-jean-pierre-9-18-24/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/09/Fed-rate-cut-cycles-220x150.png)](https://www.conservativedailynews.com/2024/09/charles-payne-says-biden-harris-economy-had-a-lot-of-red-flags-before-fed-rate-cut/)
     
-    [White House Press Briefing with Karine Jean-Pierre – 9/18/24](https://www.conservativedailynews.com/2024/09/white-house-press-briefing-with-karine-jean-pierre-9-18-24/)
+    [Charles Payne Says Biden-Harris Economy ‘Had A Lot Of Red Flags’ Before Fed Rate Cut](https://www.conservativedailynews.com/2024/09/charles-payne-says-biden-harris-economy-had-a-lot-of-red-flags-before-fed-rate-cut/)
     
-    September 18, 2024
+    September 19, 2024
     
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
 
+* [Mission First Tactical Announces The ACHRO Chest Pack & Harness](https://www.thegunpage.com/mission-first-tactical-announces-the-achro-chest-pack-harness/10610681)
+* [New Anti-Gun Group Will Focus on Policy in State Legislatures](https://www.thegunpage.com/new-anti-gun-group-will-focus-on-policy-in-state-legislatures/10610678)
+* [TFB Behind the Gun #133: Soft Goods FAQ w/ Kurt from Blue Alpha Belts](https://www.thegunpage.com/tfb-behind-the-gun-133-soft-goods-faq-w-kurt-from-blue-alpha-belts/10610680)
+* [It’s An AR-15… It’s An AK-47… No Media, It’s An SKS](https://www.thegunpage.com/its-an-ar-15-its-an-ak-47-no-media-its-an-sks/10610673)
+* [Does the FN Pistol Compensator Kit Actually Work?](https://www.thegunpage.com/does-the-fn-pistol-compensator-kit-actually-work/10610672)
+* [Teacher Threatens to Shoot Unruly Third-Grade Class](https://www.thegunpage.com/teacher-threatens-to-shoot-unruly-third-grade-class/10610670)
 * [New anti-gun group focused on state legislatures](https://www.thegunpage.com/new-anti-gun-group-focused-on-state-legislatures/10610667)
 * [NRA’s Tenacity Keeps Competition Alive In Uncertain Times: 1942-1953 National Matches](https://www.thegunpage.com/nras-tenacity-keeps-competition-alive-in-uncertain-times-1942-1953-national-matches/10610666)
 * [TFB Review: The $300 Meprolight MMX3 Magnifier](https://www.thegunpage.com/tfb-review-the-300-meprolight-mmx3-magnifier/10610662)
 * [POTD: British SA80A3 With SMASH Smart Weapon Sight](https://www.thegunpage.com/potd-british-sa80a3-with-smash-smart-weapon-sight/10610663)
-* [Fox News Report: Harris Said LEOs Could Enter Homes To Check Gun Storage](https://www.thegunpage.com/fox-news-report-harris-said-leos-could-enter-homes-to-check-gun-storage/10610661)
-* [Wheelgun Wednesday: Suppressed Revolver? M1895 Nagant](https://www.thegunpage.com/wheelgun-wednesday-suppressed-revolver-m1895-nagant/10610664)
-* [FPC, SAF Petition Supreme Court To Address Circuit Split In Delaware AWB Cases](https://www.thegunpage.com/fpc-saf-petition-supreme-court-to-address-circuit-split-in-delaware-awb-cases/10610659)
-* [Vote For 6-Month CR + SAVE Act](https://www.thegunpage.com/vote-for-6-month-cr-save-act/10610657)
-* [Defensive Shooting at Funeral Home Leads to Quick Arrangements, No Arraignment](https://www.thegunpage.com/defensive-shooting-at-funeral-home-leads-to-quick-arrangements-no-arraignment/10610653)
-* [Rossi Introduces Straight Wall Caliber Options For R95 Lever Gun](https://www.thegunpage.com/rossi-introduces-straight-wall-caliber-options-for-r95-lever-gun/10610655)
 
 [![ Conservative Political Blogs](https://blog.feedspot.com/wp-content/uploads/2016/12/conservative_political_216px.png?x58297)](https://blog.feedspot.com/conservative_political_blogs/ "Conservative Political Blogs")
 
@@ -228,6 +228,7 @@ Contact Us
 
 Recent Comments
 
+* Spit-N-Seeds on [The Reasons Young Women Embrace the Left Do Not Reflect Well on Those Women](https://www.conservativedailynews.com/2024/09/the-reasons-young-women-embrace-the-left-do-not-reflect-well-on-those-women/#comment-782201)
 * Jim on [Caption This…](https://www.conservativedailynews.com/2024/09/caption-this/#comment-782189)
 * charles wilkins on [Dangerous Rhetoric](https://www.conservativedailynews.com/2024/09/dangerous-rhetoric/#comment-782180)
 * KayCee on [Dazed and Confused](https://www.conservativedailynews.com/2024/09/dazed-and-confused-3/#comment-782173)
@@ -236,7 +237,6 @@ Recent Comments
 * Gary D. Chambers on [We Are Different, and the Left Keeps Attacking Us For It](https://www.conservativedailynews.com/2024/09/we-are-different-and-the-left-keeps-attacking-us-for-it/#comment-782156)
 * charles wilkins on [Tip of the Iceberg](https://www.conservativedailynews.com/2024/09/tip-of-the-iceberg/#comment-782148)
 * Missy B on [MSNBC Anchor Says Trump Should Tone Down Rhetoric After Potential Second Assassination Attempt](https://www.conservativedailynews.com/2024/09/msnbc-anchor-says-trump-should-tone-down-rhetoric-after-potential-second-assassination-attempt/#comment-782143)
-* charles wilkins on [Definition of Insanity](https://www.conservativedailynews.com/2024/09/definition-of-insanity/#comment-782133)
 
 [Close](#)
 
