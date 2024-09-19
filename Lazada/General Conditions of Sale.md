@@ -23,8 +23,8 @@ Download the App
 
 CUSTOMER CARE
 
-* [Lazada Help Center](https://www.lazada.sg/helpcenter/)
-* [RedMart Help Center](https://redmart.lazada.sg/support)
+* [Lazada Help Center](https://helpcenter.lazada.sg/s/faq)
+* [RedMart Help Center](https://helpcenter-redmart.lazada.sg/s/faq)
 * [Chat with us](https://h5-alimebot.lazada.sg/intl/index.htm?from=adn8BgiqoB)
 
 Track my order
@@ -56,8 +56,8 @@ Categories
 
 ### Customer Care
 
-* [Lazada Help Center](https://www.lazada.sg/helpcenter/)
-* [RedMart Help Center](https://redmart.lazada.sg/support)
+* [Lazada Help Center](https://helpcenter.lazada.sg/s/faq)
+* [RedMart Help Center](https://helpcenter-redmart.lazada.sg/s/faq)
 * [How to Buy](https://www.lazada.sg/helpcenter/payments/)
 * [Shipping & Delivery](https://www.lazada.sg/helpcenter/shipping_delivery/)
 * [International Product Policy](https://www.lazada.sg/helpcenter/products-on-lazada/#answer-faq-internationalproduct-ans)
