@@ -33,15 +33,15 @@
 
 editorial \_
 
-[![One Little Crossover, a Bonkers Manual Supercar, Plus an Art Deco Limousine, We Had All](https://s1.cdn.autoevolution.com/images/news/one-little-crossover-a-bonkers-manual-supercar-plus-an-art-deco-limousine-we-had-all-239754-5.jpg "One Little Crossover, a Bonkers Manual Supercar, Plus an Art Deco Limousine, We Had All")
+[![EREVs Are Way Better Than PHEVs And Here's Why](https://s1.cdn.autoevolution.com/images/news/erevs-are-way-better-than-phevs-and-here-s-why-239983-5.jpg "EREVs Are Way Better Than PHEVs And Here's Why")
 
-#### One Little Crossover, a Bonkers Manual Supercar, Plus an Art Deco Limousine, We Had All](https://www.autoevolution.com/news/one-little-crossover-a-bonkers-manual-supercar-plus-an-art-deco-limousine-we-had-all-239754.html "One Little Crossover, a Bonkers Manual Supercar, Plus an Art Deco Limousine, We Had All")
+#### EREVs Are Way Better Than PHEVs And Here's Why](https://www.autoevolution.com/news/erevs-are-way-better-than-phevs-and-here-s-why-239983.html "EREVs Are Way Better Than PHEVs And Here's Why")
 
 coverstory \_
 
-[![Rivian's 1,025-HP Three-Row Family Hauler Is the Ultimate Sleeper](https://s1.cdn.autoevolution.com/images/news/rivian-s-1025-hp-three-row-family-hauler-is-the-ultimate-sleeper-239984-5.jpg "Rivian's 1,025-HP Three-Row Family Hauler Is the Ultimate Sleeper")
+[![Isla Is a Deluxe Coastal-Inspired Camper Van That Lets You Feel the Ocean Vibes All Year](https://s1.cdn.autoevolution.com/images/news/isla-is-a-deluxe-coastal-inspired-camper-van-that-lets-you-feel-the-ocean-vibes-all-year-240020-5.jpg "Isla Is a Deluxe Coastal-Inspired Camper Van That Lets You Feel the Ocean Vibes All Year")
 
-Rivian's 1,025-HP Three-Row Family Hauler Is the Ultimate Sleeper](https://www.autoevolution.com/news/rivian-s-1025-hp-three-row-family-hauler-is-the-ultimate-sleeper-239984.html)
+Isla Is a Deluxe Coastal-Inspired Camper Van That Lets You Feel the Ocean Vibes All Year](https://www.autoevolution.com/news/isla-is-a-deluxe-coastal-inspired-camper-van-that-lets-you-feel-the-ocean-vibes-all-year-240020.html)
 
 how-to \_
 
