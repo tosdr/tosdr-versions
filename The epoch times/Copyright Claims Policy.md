@@ -158,76 +158,76 @@ Please note that under Section 512(f) of the DMCA, any person who knowingly mate
 
 TOP NEWS
 
+* [EU Regulators Move to Compel Apple to Open Up Operating System to Rival Technologies](https://www.theepochtimes.com/world/eu-regulators-move-to-compel-apple-to-open-up-operating-system-to-rival-technologies-5726805)
+    
+    NEW By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
+    
+    [![EU Regulators Move to Compel Apple to Open Up Operating System to Rival Technologies](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![EU Regulators Move to Compel Apple to Open Up Operating System to Rival Technologies](https://img.theepochtimes.com/assets/uploads/2022/03/08/2022-03-08T214606Z_1_LYNXMPEI27193_RTROPTP_4_APPLE-EVENT-PRODUCTS-205x123.jpg.webp)](https://www.theepochtimes.com/world/eu-regulators-move-to-compel-apple-to-open-up-operating-system-to-rival-technologies-5726805)
+* [Biden to Discuss Economy in Speech After Fed Rate Cut](https://www.theepochtimes.com/business/biden-to-discuss-economy-in-speech-after-fed-rate-cut-5726789)
+    
+    1hr By [Emel Akan](https://www.theepochtimes.com/author/emel-akan)
+    
+    [![Biden to Discuss Economy in Speech After Fed Rate Cut](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Biden to Discuss Economy in Speech After Fed Rate Cut](https://img.theepochtimes.com/assets/uploads/2024/09/17/id5725769-GettyImages-2171814982-Joe-Biden-OP-205x123.jpg.webp)](https://www.theepochtimes.com/business/biden-to-discuss-economy-in-speech-after-fed-rate-cut-5726789)
+* [Trump Had Presidential Secret Service Coverage During 2nd Assassination Attempt: Lawmakers](https://www.theepochtimes.com/us/trump-had-presidential-secret-service-coverage-during-2nd-assassination-attempt-lawmakers-5726761)
+    
+    2hr By [Zachary Stieber](https://www.theepochtimes.com/author/zachary-stieber)
+    
+    [![Trump Had Presidential Secret Service Coverage During 2nd Assassination Attempt: Lawmakers](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Trump Had Presidential Secret Service Coverage During 2nd Assassination Attempt: Lawmakers](https://img.theepochtimes.com/assets/uploads/2024/09/19/id5726812-GettyImages-2172740208-OP-205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-had-presidential-secret-service-coverage-during-2nd-assassination-attempt-lawmakers-5726761)
+* [X Says It Inadvertently Evaded Brazil Ban After Network Switch](https://www.theepochtimes.com/world/x-says-it-inadvertently-evaded-brazil-ban-after-network-switch-5726728)
+    
+    4hr By [Owen Evans](https://www.theepochtimes.com/author/owen-evans)
+    
+    [![X Says It Inadvertently Evaded Brazil Ban After Network Switch](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![X Says It Inadvertently Evaded Brazil Ban After Network Switch](https://img.theepochtimes.com/assets/uploads/2024/09/02/id5717004-GettyImages-1757203725-LS-205x123.jpg.webp)](https://www.theepochtimes.com/world/x-says-it-inadvertently-evaded-brazil-ban-after-network-switch-5726728)
+* [Key Battle on Election Betting Market Heads to Appeals Court](https://www.theepochtimes.com/us/key-battle-on-election-betting-market-heads-to-appeals-court-5726578)
+    
+    4hr By [John Haughey](https://www.theepochtimes.com/author/john-haughey)
+    
+    [![Key Battle on Election Betting Market Heads to Appeals Court](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Key Battle on Election Betting Market Heads to Appeals Court](https://img.theepochtimes.com/assets/uploads/2021/01/24/2021-01-21T182643Z-web-205x123.jpg.webp)](https://www.theepochtimes.com/us/key-battle-on-election-betting-market-heads-to-appeals-court-5726578)
+* [Brussels Deducting Hungary’s $230 Million in Unpaid Asylum Fines From EU Funds](https://www.theepochtimes.com/world/brussels-deducting-hungarys-230-million-in-unpaid-asylum-fines-from-eu-funds-5726720)
+    
+    4hr By [Guy Birchall](https://www.theepochtimes.com/author/guy-birchall)
+    
+    [![Brussels Deducting Hungary’s $230 Million in Unpaid Asylum Fines From EU Funds](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Brussels Deducting Hungary’s $230 Million in Unpaid Asylum Fines From EU Funds](https://img.theepochtimes.com/assets/uploads/2024/09/19/id5726783-NATO-NORDICS-SWEDEN-HUNGARY.jpg-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/world/brussels-deducting-hungarys-230-million-in-unpaid-asylum-fines-from-eu-funds-5726720)
+* [House Commerce Committee Advances Bills to Protect Children Online](https://www.theepochtimes.com/us/house-commerce-committee-advances-bills-to-protect-children-online-5676085)
+    
+    5hr By [Terri Wu](https://www.theepochtimes.com/author/terri-wu)
+    
+    [![House Commerce Committee Advances Bills to Protect Children Online](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![House Commerce Committee Advances Bills to Protect Children Online](https://img.theepochtimes.com/assets/uploads/2024/06/27/id5676096-GettyImages-1976478628-205x123.jpg.webp)](https://www.theepochtimes.com/us/house-commerce-committee-advances-bills-to-protect-children-online-5676085)
 * [Venezuela’s Gonzalez Says He Was Forced to Sign Letter Accepting Maduro Victory](https://www.theepochtimes.com/world/venezuelas-gonzalez-says-he-was-forced-to-sign-letter-accepting-maduro-victory-5726718)
     
-    NEW By [Chris Summers](https://www.theepochtimes.com/author/chris-summers)
+    6hr By [Chris Summers](https://www.theepochtimes.com/author/chris-summers)
     
     [![Venezuela’s Gonzalez Says He Was Forced to Sign Letter Accepting Maduro Victory](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Venezuela’s Gonzalez Says He Was Forced to Sign Letter Accepting Maduro Victory](https://img.theepochtimes.com/assets/uploads/2024/09/19/id5726719-2024-09-12T110721Z_1_LYNXMPEK8B0ED_RTROPTP_4_VENEZUELA-ELECTION-SPAIN-205x123.jpg.webp)](https://www.theepochtimes.com/world/venezuelas-gonzalez-says-he-was-forced-to-sign-letter-accepting-maduro-victory-5726718)
+    ![Venezuela’s Gonzalez Says He Was Forced to Sign Letter Accepting Maduro Victory](https://img.theepochtimes.com/assets/uploads/2024/09/19/id5726784-2024-09-12T110721Z_1_LYNXMPEK8B0ED_RTROPTP_4_VENEZUELA-ELECTION-SPAIN.jpg-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/world/venezuelas-gonzalez-says-he-was-forced-to-sign-letter-accepting-maduro-victory-5726718)
 * [Lawmakers, Activists Seek to Put China on ‘No Travel’ List Over Arbitrary Detention Risks](https://www.theepochtimes.com/china/lawmakers-activists-seek-to-put-china-on-no-travel-list-over-arbitrary-detention-risks-5726682)
     
-    NEW By [Eva Fu](https://www.theepochtimes.com/author/eva-fu)
+    6hr By [Eva Fu](https://www.theepochtimes.com/author/eva-fu)
     
     [![Lawmakers, Activists Seek to Put China on ‘No Travel’ List Over Arbitrary Detention Risks](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Lawmakers, Activists Seek to Put China on ‘No Travel’ List Over Arbitrary Detention Risks](https://img.theepochtimes.com/assets/uploads/2024/09/19/id5726690-EpochImages-6910597295-xl-205x123.jpeg.webp)](https://www.theepochtimes.com/china/lawmakers-activists-seek-to-put-china-on-no-travel-list-over-arbitrary-detention-risks-5726682)
+    ![Lawmakers, Activists Seek to Put China on ‘No Travel’ List Over Arbitrary Detention Risks](https://img.theepochtimes.com/assets/uploads/2024/09/19/id5726824-EpochImages-6910597295-xl.jpeg-LSedit-OP-205x123.jpg.webp)](https://www.theepochtimes.com/china/lawmakers-activists-seek-to-put-china-on-no-travel-list-over-arbitrary-detention-risks-5726682)
 * [Los Angeles Struggles to Curb Brazen and Violent Street Takeovers](https://www.theepochtimes.com/article/los-angeles-struggles-to-curb-brazen-and-violent-street-takeovers-5720805)
     
-    NEW By [Beige Luciano-Adams](https://www.theepochtimes.com/author/beige-luciano-adams)
+    7hr By [Beige Luciano-Adams](https://www.theepochtimes.com/author/beige-luciano-adams)
     
     [![Los Angeles Struggles to Curb Brazen and Violent Street Takeovers](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Los Angeles Struggles to Curb Brazen and Violent Street Takeovers](https://img.theepochtimes.com/assets/uploads/2024/09/18/id5726441-outside-205x123.jpg.webp)](https://www.theepochtimes.com/article/los-angeles-struggles-to-curb-brazen-and-violent-street-takeovers-5720805)
-* [NYPD Faces Uncertain Future Amid New York’s Growing Political Crisis](https://www.theepochtimes.com/us/nypd-faces-uncertain-future-amid-new-yorks-growing-political-crisis-5725849)
-    
-    NEW By [Michael Washburn](https://www.theepochtimes.com/author/michael-washburn)
-    
-    [![NYPD Faces Uncertain Future Amid New York’s Growing Political Crisis](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![NYPD Faces Uncertain Future Amid New York’s Growing Political Crisis](https://img.theepochtimes.com/assets/uploads/2024/08/07/id5701623-GettyImages-1917749088-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/nypd-faces-uncertain-future-amid-new-yorks-growing-political-crisis-5725849)
-* [Coastal California City Deploys Massive Fix-It Effort as Earth Moves Beneath Homes](https://www.theepochtimes.com/us/coastal-california-city-deploys-massive-fix-it-effort-as-earth-moves-beneath-homes-5726023)
-    
-    NEW By [Siyamak Khorrami](https://www.theepochtimes.com/author/siyamak-khorrami) and [Epoch Times Staff](https://www.theepochtimes.com/author/epoch-times-staff)
-    
-    [![Coastal California City Deploys Massive Fix-It Effort as Earth Moves Beneath Homes](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Coastal California City Deploys Massive Fix-It Effort as Earth Moves Beneath Homes](https://img.theepochtimes.com/assets/uploads/2024/09/06/id5719015-GettyImages-2170096111-205x123.jpg.webp)](https://www.theepochtimes.com/us/coastal-california-city-deploys-massive-fix-it-effort-as-earth-moves-beneath-homes-5726023)
-* [FBI: Iranian Hackers Tried to Pass Hacked Trump Campaign Information to Team Biden](https://www.theepochtimes.com/us/fbi-iranian-hackers-tried-to-pass-hacked-trump-campaign-information-to-team-biden-5726596)
-    
-    10hr By [Caden Pearson](https://www.theepochtimes.com/author/caden-pearson)
-    
-    [![FBI: Iranian Hackers Tried to Pass Hacked Trump Campaign Information to Team Biden](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![FBI: Iranian Hackers Tried to Pass Hacked Trump Campaign Information to Team Biden](https://img.theepochtimes.com/assets/uploads/2024/09/18/id5726273-GettyImages-2172739942-Donald-Trump-OP-205x123.jpg.webp)](https://www.theepochtimes.com/us/fbi-iranian-hackers-tried-to-pass-hacked-trump-campaign-information-to-team-biden-5726596)
-* [House Fails to Pass GOP Stopgap Funding Plan](https://www.theepochtimes.com/us/house-fails-to-pass-gop-stopgap-funding-plan-5726510)
-    
-    10hr By [Joseph Lord](https://www.theepochtimes.com/author/joseph-lord), [Stacy Robinson](https://www.theepochtimes.com/author/stacy-robinson) and [Jackson Richman](https://www.theepochtimes.com/author/jackson-richman)
-    
-    [![House Fails to Pass GOP Stopgap Funding Plan](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![House Fails to Pass GOP Stopgap Funding Plan](https://img.theepochtimes.com/assets/uploads/2024/09/18/id5726602-GettyImages-2172990738-2-205x123.jpg.webp)](https://www.theepochtimes.com/us/house-fails-to-pass-gop-stopgap-funding-plan-5726510)
-* [CEOs Scale Back Hiring Plans Amid Weaker Sales Projections, Cooling Economy](https://www.theepochtimes.com/business/ceos-scale-back-hiring-plans-amid-weaker-sales-projections-cooling-economy-5726437)
-    
-    11hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
-    
-    [![CEOs Scale Back Hiring Plans Amid Weaker Sales Projections, Cooling Economy](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![CEOs Scale Back Hiring Plans Amid Weaker Sales Projections, Cooling Economy](https://img.theepochtimes.com/assets/uploads/2024/09/06/id5719304-Unemployment_Benefits_24211490074433-OP-205x123.jpg.webp)](https://www.theepochtimes.com/business/ceos-scale-back-hiring-plans-amid-weaker-sales-projections-cooling-economy-5726437)
-* [FBI Disrupts Chinese Botnet Infecting Thousands of US Devices](https://www.theepochtimes.com/china/fbi-disrupts-chinese-botnet-infecting-thousands-of-us-devices-5726553)
-    
-    11hr By [Andrew Thornebrooke](https://www.theepochtimes.com/author/andrew-thornebrooke)
-    
-    [![FBI Disrupts Chinese Botnet Infecting Thousands of US Devices](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![FBI Disrupts Chinese Botnet Infecting Thousands of US Devices](https://img.theepochtimes.com/assets/uploads/2024/09/10/id5721770-GettyImages-1228231209-1200x800-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/china/fbi-disrupts-chinese-botnet-infecting-thousands-of-us-devices-5726553)
-* [Growing Fear of War Follows 2 Days of Device Blasts in Lebanon](https://www.theepochtimes.com/world/growing-fear-of-war-follows-two-days-of-device-blasts-in-lebanon-5726512)
-    
-    11hr By [Dan M. Berger](https://www.theepochtimes.com/author/dan-m-berger)
-    
-    [![Growing Fear of War Follows 2 Days of Device Blasts in Lebanon](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Growing Fear of War Follows 2 Days of Device Blasts in Lebanon](https://img.theepochtimes.com/assets/uploads/2024/09/18/id5726322-GettyImages-2172009998-OP-205x123.jpg.webp)](https://www.theepochtimes.com/world/growing-fear-of-war-follows-two-days-of-device-blasts-in-lebanon-5726512)
 
 [![The Epoch Times](https://www.theepochtimes.com/assets/themes/eet/images/logo_eet.svg)](https://www.theepochtimes.com/)
 
