@@ -563,7 +563,7 @@ Language selectorEnglish
 * Cookie preferences
 * [Accessibility](https://www.talkwalker.com/legal/accessibility)
 
-[![App Store](/images/app-store.svg)](https://bnc.lt/79wh/x8ANDNlTE0)[![Google Play](/images/play-store.svg)](https://bnc.lt/79wh/NERDTRNTE0)
+[![App Store](/images/app-store.svg)](https://apps.apple.com/us/app/hootsuite-social-media-tools/id341249709)[![Google Play](/images/play-store.svg)](https://play.google.com/store/apps/details?id=com.hootsuite.droid.full)
 
 * [![instagram](/images/svg/instagram.svg)](https://www.instagram.com/hootsuite/)
 * [![facebook](/images/svg/facebook.svg)](https://www.facebook.com/hootsuite)
