@@ -224,7 +224,7 @@ Main Menu Mega
     
     [Press Release](https://www.ftc.gov/news-events/news/press-releases)
     
-    ### [FTC Sends Refunds to Consumers Harmed by CafePress’s Data Security Failures](https://www.ftc.gov/news-events/news/press-releases/2024/09/ftc-sends-refunds-consumers-harmed-cafepresss-data-security-failures)
+    ### [FTC Action Leads to Settlement Against Individual and Company that Operated Business Opportunity Scheme That Took Millions from Consumers](https://www.ftc.gov/news-events/news/press-releases/2024/09/ftc-action-leads-settlement-against-individual-company-operated-business-opportunity-scheme-took)
     
     September 18, 2024
     
