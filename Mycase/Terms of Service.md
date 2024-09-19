@@ -8,11 +8,13 @@
     
     [![](https://www.mycase.com/wp-content/uploads/2024/05/arrow-right-long-sharp-light.svg)
     
-    ### 2024 Legal Industry Report
+    ### 2024 Benchmark Report Part 2: Getting Clients
     
-    Explore the technology trends of the legal industry with our annual 2024 Legal Industry Trends Report.
+    Learn strategies for streamlining your law firm’s intake process to increase profitability, drive outstanding outcomes for your clients, and ensure your firm’s long-term success.
     
-    ![Legal Industry Report 2024](https://www.mycase.com/wp-content/uploads/2024/06/nav-thumb-report-copy.webp)](https://www.mycase.com/reports/2024-legal-industry-report/)[![](https://www.mycase.com/wp-content/uploads/2024/05/arrow-right-long-sharp-light.svg)
+    ![2024 Benchmark Report Part 2: Getting Clients](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20828%20552'%3E%3C/svg%3E)
+    
+    ![2024 Benchmark Report Part 2: Getting Clients](https://www.mycase.com/wp-content/uploads/2024/09/MC-LandingPage-AssetCover-Resources-2024BenchmarkPt2-414x276@2x-copy.webp)](https://www.mycase.com/reports/2024-benchmark-report-getting-clients/)[![](https://www.mycase.com/wp-content/uploads/2024/05/arrow-right-long-sharp-light.svg)
     
     ### Time Savings Calculator
     
@@ -92,11 +94,13 @@
     
     [![](https://www.mycase.com/wp-content/uploads/2024/05/arrow-right-long-sharp-light.svg)
     
-    ### 2024 Legal Industry Report
+    ### 2024 Benchmark Report Part 2: Getting Clients
     
-    Explore the technology trends of the legal industry with our annual 2024 Legal Industry Trends Report.
+    Learn strategies for streamlining your law firm’s intake process to increase profitability, drive outstanding outcomes for your clients, and ensure your firm’s long-term success.
     
-    ![Legal Industry Report 2024](https://www.mycase.com/wp-content/uploads/2024/06/nav-thumb-report-copy.webp)](https://www.mycase.com/reports/2024-legal-industry-report/)[![](https://www.mycase.com/wp-content/uploads/2024/05/arrow-right-long-sharp-light.svg)
+    ![2024 Benchmark Report Part 2: Getting Clients](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20828%20552'%3E%3C/svg%3E)
+    
+    ![2024 Benchmark Report Part 2: Getting Clients](https://www.mycase.com/wp-content/uploads/2024/09/MC-LandingPage-AssetCover-Resources-2024BenchmarkPt2-414x276@2x-copy.webp)](https://www.mycase.com/reports/2024-benchmark-report-getting-clients/)[![](https://www.mycase.com/wp-content/uploads/2024/05/arrow-right-long-sharp-light.svg)
     
     ### Time Savings Calculator
     
