@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/ac578f20-4d6a-4218-8ed6-0e6db5067f52/20240918T145841/ac578f20-4d6a-4218-8ed6-0e6db5067f52_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/ac578f20-4d6a-4218-8ed6-0e6db5067f52/20240918T145841/ac578f20-4d6a-4218-8ed6-0e6db5067f52_360x203.jpg)](https://www.wqad.com/article/news/local/the-current/current-reads-moline-public-library-3-most-popular-books/526-fbaf0c50-332b-4877-9020-1df838fa253e)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/1d96366e-f3be-4f83-a16b-89c4f592949b/1d96366e-f3be-4f83-a16b-89c4f592949b_16x9.png) ![](https://media.tegna-media.com/assets/WQAD/images/1d96366e-f3be-4f83-a16b-89c4f592949b/1d96366e-f3be-4f83-a16b-89c4f592949b_360x203.png)](https://www.wqad.com/article/news/local/davenport-quality-of-life-survey/526-acc29a42-7911-4e89-bb47-e1f9a2209d8c)
         
-        #### [Current Reads: Dive into fall with these 3 picks from the Moline librarians](https://www.wqad.com/article/news/local/the-current/current-reads-moline-public-library-3-most-popular-books/526-fbaf0c50-332b-4877-9020-1df838fa253e)
+        #### [Check your mailboxes, Davenport residents: City sends out community survey](https://www.wqad.com/article/news/local/davenport-quality-of-life-survey/526-acc29a42-7911-4e89-bb47-e1f9a2209d8c)
         
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/92e8f0ea-f318-4b4b-8775-41c3bd72711a/20240723T163302/92e8f0ea-f318-4b4b-8775-41c3bd72711a_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/92e8f0ea-f318-4b4b-8775-41c3bd72711a/20240723T163302/92e8f0ea-f318-4b4b-8775-41c3bd72711a_360x203.jpg)](https://www.wqad.com/article/news/crime/north-park-mall-shooting-davenport-rock-island-man-arrested-in-connection/526-3a731258-b479-4589-ae7d-707d2f71078b)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/c49646d8-cf4f-4bfb-b38d-674f801254e6/20240918T200324/c49646d8-cf4f-4bfb-b38d-674f801254e6_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/c49646d8-cf4f-4bfb-b38d-674f801254e6/20240918T200324/c49646d8-cf4f-4bfb-b38d-674f801254e6_360x203.jpg)](https://www.wqad.com/article/news/local/public-safety/davenport-non-credible-school-threats-police-district-officials-statements/526-73782c1d-aecf-466f-912f-b2cc87279d60)
         
-        #### [Rock Island man arrested in connection to NorthPark Mall shooting](https://www.wqad.com/article/news/crime/north-park-mall-shooting-davenport-rock-island-man-arrested-in-connection/526-3a731258-b479-4589-ae7d-707d2f71078b)
+        #### [Davenport school, law enforcement officials speak on 'non-credible' threats](https://www.wqad.com/article/news/local/public-safety/davenport-non-credible-school-threats-police-district-officials-statements/526-73782c1d-aecf-466f-912f-b2cc87279d60)
         
     
 * [Weather](https://www.wqad.com/weather)
@@ -56,7 +56,7 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/f580e14f-cc1c-4480-8716-a2ef1f67a1da/20240918T121315/f580e14f-cc1c-4480-8716-a2ef1f67a1da_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/f580e14f-cc1c-4480-8716-a2ef1f67a1da/20240918T121315/f580e14f-cc1c-4480-8716-a2ef1f67a1da_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/09100e0b-9b56-440c-9495-2b1e3872fb00/20240918T223334/09100e0b-9b56-440c-9495-2b1e3872fb00_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/09100e0b-9b56-440c-9495-2b1e3872fb00/20240918T223334/09100e0b-9b56-440c-9495-2b1e3872fb00_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
         #### [Few more days of summer warmth](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
@@ -86,9 +86,9 @@ Navigation
 
 Davenport, IA »
 
-84°
+68°
 
-![Sunny](/assets/shared-images/weather-icons/clear-day_210x210.png)
+![Clear](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
 
 Davenport, IA »](https://www.wqad.com/weather)
 
