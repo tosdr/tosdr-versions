@@ -150,6 +150,11 @@ For further information regarding the applicable laws, regulations, and policies
 
 #### Defense News
 
+* [US has accepted 36 upgraded F-35s since lifting delivery pause](https://www.defensenews.com/air/2024/09/18/us-has-accepted-36-upgraded-f-35s-since-lifting-delivery-pause/)  
+    09/18/24 03:51pm  
+    
+    The Pentagon refused deliveries of new F-35s until Lockheed Martin developed a partial version of its latest upgrade software. (Staff Sgt. Zachary Rufus/Air Force)
+    
 * [Marines reopen second WWII-era airfield to prep for future combat](https://www.defensenews.com/air/2024/09/18/marines-reopen-second-wwii-era-airfield-to-prep-for-future-combat/)  
     09/18/24 10:25am  
     
@@ -164,11 +169,6 @@ For further information regarding the applicable laws, regulations, and policies
     09/17/24 04:20pm  
     
     The Air Force plans to grow its recruiter ranks to help it meet an ambitious 2025 goal that is 20% over this year's target. (Master Sgt. Kevin Nichols/Air Force)
-    
-* [Norway’s Kongsberg to open new Virginia missile production plant](https://www.defensenews.com/global/europe/2024/09/17/norways-kongsberg-to-open-new-virginia-missile-production-plant/)  
-    09/17/24 04:06pm  
-    
-    The Naval Strike Missile can launch from both land- and sea-based platforms. Norway's Kongsberg plans to build these and the Joint Strike Missile in a new Virgnia production facility. (Photo courtesy of Kongsberg Defence and Aerospace)
     
 
 Recent parts by keyword  
