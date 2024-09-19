@@ -12,54 +12,56 @@
     
     * [European Commission](https://www.euronews.com/tag/eu-commission)
     * [EU Policy](https://www.euronews.com/tag/eu-policy)
-    * [Music](https://www.euronews.com/tag/music)
+    * [Interest rates](https://www.euronews.com/tag/interest-rates)
+    * [Italy](https://www.euronews.com/tag/italy)
+    * [Ursula von der Leyen](https://www.euronews.com/tag/ursula-von-der-leyen)
     * [United Kingdom](https://www.euronews.com/tag/united-kingdom)
-    * [Climate crisis](https://www.euronews.com/tag/climate-crisis)
-    * [Extreme weather](https://www.euronews.com/tag/extreme-weather)
     
     * * *
     
     Latest stories
     
-    [![Fruits are pictured in a discounter in Frankfurt, Germany, Thursday, Sept. 28, 2023.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Fruits are pictured in a discounter in Frankfurt, Germany, Thursday, Sept. 28, 2023.")
+    [![Discover Uzbekistan's traditional crafts: Knifemaking and ceramics in the Fergana Valley](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Discover Uzbekistan's traditional crafts: Knifemaking and ceramics in the Fergana Valley")
     
-    ![Fruits are pictured in a discounter in Frankfurt, Germany, Thursday, Sept. 28, 2023.](https://static.euronews.com/articles/stories/08/07/67/02/368x207_cmsv2_43234229-c27a-569d-bcec-55b24b64cd13-8076702.jpg "Fruits are pictured in a discounter in Frankfurt, Germany, Thursday, Sept. 28, 2023.")](https://www.euronews.com/business/2024/09/18/eurozone-inflation-figures-see-drop-in-august-edging-nearer-to-ecb-2-target)
-    
-    Now playing Next
-    
-    [Economy](https://www.euronews.com/business/economy)
-    
-    ### [Eurozone inflation figures see drop in August, towards ECB 2% target](https://www.euronews.com/business/2024/09/18/eurozone-inflation-figures-see-drop-in-august-edging-nearer-to-ecb-2-target)
-    
-    [![Nine Inch Nails photography exhibition to open in London - Behind The Gallery](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Nine Inch Nails photography exhibition to open in London - Behind The Gallery")
-    
-    ![Nine Inch Nails photography exhibition to open in London - Behind The Gallery](https://static.euronews.com/articles/stories/08/74/20/70/368x207_cmsv2_ee972cde-76c0-5ead-bc59-47a518d259af-8742070.jpg "Nine Inch Nails photography exhibition to open in London - Behind The Gallery")](https://www.euronews.com/culture/2024/09/18/nine-inch-nails-photography-exhibition-set-to-open-in-london-in-october)
+    ![Discover Uzbekistan's traditional crafts: Knifemaking and ceramics in the Fergana Valley](https://static.euronews.com/articles/stories/08/70/24/56/368x207_cmsv2_43f6d1ae-16b3-5bf1-ab8b-8e9a4d19af4e-8702456.jpg "Discover Uzbekistan's traditional crafts: Knifemaking and ceramics in the Fergana Valley")](https://www.euronews.com/travel/2024/09/19/discover-uzbekistans-traditional-crafts-knifemaking-and-ceramics-in-the-fergana-valley)
     
     Now playing Next
     
-    [Culture news](https://www.euronews.com/culture/culture-news)
+    [Explore](https://www.euronews.com/travel/travel-series/explore)
     
-    ### [Nine Inch Nails photography exhibition to open in London](https://www.euronews.com/culture/2024/09/18/nine-inch-nails-photography-exhibition-set-to-open-in-london-in-october)
+    ### [Uzbek craftsmanship: Knives and Ceramics in the Fergana Valley](https://www.euronews.com/travel/2024/09/19/discover-uzbekistans-traditional-crafts-knifemaking-and-ceramics-in-the-fergana-valley)
     
-    [![MEP Andreus Kubilius (Lithuania/EPP) in the European Parliament.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "MEP Andreus Kubilius (Lithuania/EPP) in the European Parliament.")
+    In partnership with **the Tourism Committee of the Republic of Uzbekistan**
     
-    ![MEP Andreus Kubilius (Lithuania/EPP) in the European Parliament.](https://static.euronews.com/articles/stories/08/74/16/96/368x207_cmsv2_076e65b7-d55a-58fc-bb85-26b6bad07ffc-8741696.jpg "MEP Andreus Kubilius (Lithuania/EPP) in the European Parliament.")](https://www.euronews.com/my-europe/2024/09/18/the-eus-new-defence-commissioner-is-open-to-eurobonds)
+    [![A Tupperware serving set](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "A Tupperware serving set")
     
-    Now playing Next
-    
-    [Europe Decoded](https://www.euronews.com/my-europe/europe-decoded/europe-decoded)
-    
-    ### [The EU's new defence commissioner is open to eurobonds](https://www.euronews.com/my-europe/2024/09/18/the-eus-new-defence-commissioner-is-open-to-eurobonds)
-    
-    [![Fake Heiress Anna Sorokin poses for 'Dancing with the Stars' press photos ](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Fake Heiress Anna Sorokin poses for 'Dancing with the Stars' press photos ")
-    
-    ![Fake Heiress Anna Sorokin poses for 'Dancing with the Stars' press photos ](https://static.euronews.com/articles/stories/08/74/17/90/368x207_cmsv2_62ab8446-2b7d-5c9d-8208-aaafb74b4af0-8741790.jpg "Fake Heiress Anna Sorokin poses for 'Dancing with the Stars' press photos ")](https://www.euronews.com/culture/2024/09/18/con-artist-who-inspired-netflixs-inventing-anna-hits-us-tv-dance-competition-in-ankle-moni)
+    ![A Tupperware serving set](https://static.euronews.com/articles/stories/08/74/39/36/368x207_cmsv2_828b55d5-5586-50da-b7c5-aebd165f0d45-8743936.jpg "A Tupperware serving set")](https://www.euronews.com/culture/2024/09/19/the-rise-and-fall-of-the-tupperware-brand)
     
     Now playing Next
     
-    [Culture news](https://www.euronews.com/culture/culture-news)
+    [Lifestyle](https://www.euronews.com/culture/culture-lifestyle)
     
-    ### [Con artist's sparkly ankle monitor steals show on US TV dance series](https://www.euronews.com/culture/2024/09/18/con-artist-who-inspired-netflixs-inventing-anna-hits-us-tv-dance-competition-in-ankle-moni)
+    ### [The rise and fall of the Tupperware brand](https://www.euronews.com/culture/2024/09/19/the-rise-and-fall-of-the-tupperware-brand)
+    
+    [![Exterior view of the Europe headquarters in The Hague, Netherlands, Friday, Dec. 2, 2016](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Exterior view of the Europe headquarters in The Hague, Netherlands, Friday, Dec. 2, 2016")
+    
+    ![Exterior view of the Europe headquarters in The Hague, Netherlands, Friday, Dec. 2, 2016](https://static.euronews.com/articles/stories/08/74/35/30/368x207_cmsv2_324fbbf8-e38e-53c4-b76e-1eeea29d92fb-8743530.jpg "Exterior view of the Europe headquarters in The Hague, Netherlands, Friday, Dec. 2, 2016")](https://www.euronews.com/next/2024/09/19/europol-arrests-51-people-and-dismantles-encrypted-communication-platform)
+    
+    Now playing Next
+    
+    [Tech News](https://www.euronews.com/next/tech-news)
+    
+    ### [Europol arrests 51 people and dismantles platform used for cybercrime](https://www.euronews.com/next/2024/09/19/europol-arrests-51-people-and-dismantles-encrypted-communication-platform)
+    
+    [![Clouds of smoke drift with the strong wind as fires rage on the hills around Sever do Vouga, a town in northern Portugal that has been surrounded by forest fires, Sept. 2024.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Clouds of smoke drift with the strong wind as fires rage on the hills around Sever do Vouga, a town in northern Portugal that has been surrounded by forest fires, Sept. 2024.")
+    
+    ![Clouds of smoke drift with the strong wind as fires rage on the hills around Sever do Vouga, a town in northern Portugal that has been surrounded by forest fires, Sept. 2024.](https://static.euronews.com/articles/stories/08/74/39/22/368x207_cmsv2_de75beb1-e807-55b3-abc2-6b0a91b1e0ac-8743922.jpg "Clouds of smoke drift with the strong wind as fires rage on the hills around Sever do Vouga, a town in northern Portugal that has been surrounded by forest fires, Sept. 2024.")](https://www.euronews.com/next/2024/09/19/google-funds-satellite-constellation-that-aims-to-detect-global-wildfires-using-ai)
+    
+    Now playing Next
+    
+    [Space](https://www.euronews.com/next/next-space)
+    
+    ### [Could these Google-funded satellites help detect wildfires faster?](https://www.euronews.com/next/2024/09/19/google-funds-satellite-constellation-that-aims-to-detect-global-wildfires-using-ai)
     
 * [Europe](https://www.euronews.com/my-europe)
     
@@ -314,8 +316,6 @@ More
 
 Special coverage
 
-* [Climate](https://www.euronews.com/special/climate)
-* [Depth of Field](https://www.euronews.com/special/depth-of-field)
 * [The New Uzbekistan](https://www.euronews.com/special/a-new-uzbekistan)
 * [Azerbaijan Diary](https://www.euronews.com/special/azerbaijan-diary)
 * [Discover Algeria](https://www.euronews.com/special/discover-algeria)
@@ -362,60 +362,62 @@ Trending
 
 * [European Commission](https://www.euronews.com/tag/eu-commission)
 * [EU Policy](https://www.euronews.com/tag/eu-policy)
-* [Music](https://www.euronews.com/tag/music)
+* [Interest rates](https://www.euronews.com/tag/interest-rates)
+* [Italy](https://www.euronews.com/tag/italy)
+* [Ursula von der Leyen](https://www.euronews.com/tag/ursula-von-der-leyen)
 * [United Kingdom](https://www.euronews.com/tag/united-kingdom)
-* [Climate crisis](https://www.euronews.com/tag/climate-crisis)
-* [Extreme weather](https://www.euronews.com/tag/extreme-weather)
 
 * * *
 
 Latest stories
 
-[![Fruits are pictured in a discounter in Frankfurt, Germany, Thursday, Sept. 28, 2023.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Fruits are pictured in a discounter in Frankfurt, Germany, Thursday, Sept. 28, 2023.")
+[![Discover Uzbekistan's traditional crafts: Knifemaking and ceramics in the Fergana Valley](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Discover Uzbekistan's traditional crafts: Knifemaking and ceramics in the Fergana Valley")
 
-![Fruits are pictured in a discounter in Frankfurt, Germany, Thursday, Sept. 28, 2023.](https://static.euronews.com/articles/stories/08/07/67/02/368x207_cmsv2_43234229-c27a-569d-bcec-55b24b64cd13-8076702.jpg "Fruits are pictured in a discounter in Frankfurt, Germany, Thursday, Sept. 28, 2023.")](https://www.euronews.com/business/2024/09/18/eurozone-inflation-figures-see-drop-in-august-edging-nearer-to-ecb-2-target)
+![Discover Uzbekistan's traditional crafts: Knifemaking and ceramics in the Fergana Valley](https://static.euronews.com/articles/stories/08/70/24/56/368x207_cmsv2_43f6d1ae-16b3-5bf1-ab8b-8e9a4d19af4e-8702456.jpg "Discover Uzbekistan's traditional crafts: Knifemaking and ceramics in the Fergana Valley")](https://www.euronews.com/travel/2024/09/19/discover-uzbekistans-traditional-crafts-knifemaking-and-ceramics-in-the-fergana-valley)
 
 Now playing Next
 
-[Economy](https://www.euronews.com/business/economy)
+[Explore](https://www.euronews.com/travel/travel-series/explore)
 
-### [Eurozone inflation figures see drop in August, towards ECB 2% target](https://www.euronews.com/business/2024/09/18/eurozone-inflation-figures-see-drop-in-august-edging-nearer-to-ecb-2-target)
+### [Uzbek craftsmanship: Knives and Ceramics in the Fergana Valley](https://www.euronews.com/travel/2024/09/19/discover-uzbekistans-traditional-crafts-knifemaking-and-ceramics-in-the-fergana-valley)
+
+In partnership with **the Tourism Committee of the Republic of Uzbekistan**
 
 * * *
 
-[![Nine Inch Nails photography exhibition to open in London - Behind The Gallery](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Nine Inch Nails photography exhibition to open in London - Behind The Gallery")
+[![A Tupperware serving set](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "A Tupperware serving set")
 
-![Nine Inch Nails photography exhibition to open in London - Behind The Gallery](https://static.euronews.com/articles/stories/08/74/20/70/368x207_cmsv2_ee972cde-76c0-5ead-bc59-47a518d259af-8742070.jpg "Nine Inch Nails photography exhibition to open in London - Behind The Gallery")](https://www.euronews.com/culture/2024/09/18/nine-inch-nails-photography-exhibition-set-to-open-in-london-in-october)
+![A Tupperware serving set](https://static.euronews.com/articles/stories/08/74/39/36/368x207_cmsv2_828b55d5-5586-50da-b7c5-aebd165f0d45-8743936.jpg "A Tupperware serving set")](https://www.euronews.com/culture/2024/09/19/the-rise-and-fall-of-the-tupperware-brand)
 
 Now playing Next
 
-[Culture news](https://www.euronews.com/culture/culture-news)
+[Lifestyle](https://www.euronews.com/culture/culture-lifestyle)
 
-### [Nine Inch Nails photography exhibition to open in London](https://www.euronews.com/culture/2024/09/18/nine-inch-nails-photography-exhibition-set-to-open-in-london-in-october)
+### [The rise and fall of the Tupperware brand](https://www.euronews.com/culture/2024/09/19/the-rise-and-fall-of-the-tupperware-brand)
 
 * * *
 
-[![MEP Andreus Kubilius (Lithuania/EPP) in the European Parliament.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "MEP Andreus Kubilius (Lithuania/EPP) in the European Parliament.")
+[![Exterior view of the Europe headquarters in The Hague, Netherlands, Friday, Dec. 2, 2016](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Exterior view of the Europe headquarters in The Hague, Netherlands, Friday, Dec. 2, 2016")
 
-![MEP Andreus Kubilius (Lithuania/EPP) in the European Parliament.](https://static.euronews.com/articles/stories/08/74/16/96/368x207_cmsv2_076e65b7-d55a-58fc-bb85-26b6bad07ffc-8741696.jpg "MEP Andreus Kubilius (Lithuania/EPP) in the European Parliament.")](https://www.euronews.com/my-europe/2024/09/18/the-eus-new-defence-commissioner-is-open-to-eurobonds)
+![Exterior view of the Europe headquarters in The Hague, Netherlands, Friday, Dec. 2, 2016](https://static.euronews.com/articles/stories/08/74/35/30/368x207_cmsv2_324fbbf8-e38e-53c4-b76e-1eeea29d92fb-8743530.jpg "Exterior view of the Europe headquarters in The Hague, Netherlands, Friday, Dec. 2, 2016")](https://www.euronews.com/next/2024/09/19/europol-arrests-51-people-and-dismantles-encrypted-communication-platform)
 
 Now playing Next
 
-[Europe Decoded](https://www.euronews.com/my-europe/europe-decoded/europe-decoded)
+[Tech News](https://www.euronews.com/next/tech-news)
 
-### [The EU's new defence commissioner is open to eurobonds](https://www.euronews.com/my-europe/2024/09/18/the-eus-new-defence-commissioner-is-open-to-eurobonds)
+### [Europol arrests 51 people and dismantles platform used for cybercrime](https://www.euronews.com/next/2024/09/19/europol-arrests-51-people-and-dismantles-encrypted-communication-platform)
 
 * * *
 
-[![Fake Heiress Anna Sorokin poses for 'Dancing with the Stars' press photos ](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Fake Heiress Anna Sorokin poses for 'Dancing with the Stars' press photos ")
+[![Clouds of smoke drift with the strong wind as fires rage on the hills around Sever do Vouga, a town in northern Portugal that has been surrounded by forest fires, Sept. 2024.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Clouds of smoke drift with the strong wind as fires rage on the hills around Sever do Vouga, a town in northern Portugal that has been surrounded by forest fires, Sept. 2024.")
 
-![Fake Heiress Anna Sorokin poses for 'Dancing with the Stars' press photos ](https://static.euronews.com/articles/stories/08/74/17/90/368x207_cmsv2_62ab8446-2b7d-5c9d-8208-aaafb74b4af0-8741790.jpg "Fake Heiress Anna Sorokin poses for 'Dancing with the Stars' press photos ")](https://www.euronews.com/culture/2024/09/18/con-artist-who-inspired-netflixs-inventing-anna-hits-us-tv-dance-competition-in-ankle-moni)
+![Clouds of smoke drift with the strong wind as fires rage on the hills around Sever do Vouga, a town in northern Portugal that has been surrounded by forest fires, Sept. 2024.](https://static.euronews.com/articles/stories/08/74/39/22/368x207_cmsv2_de75beb1-e807-55b3-abc2-6b0a91b1e0ac-8743922.jpg "Clouds of smoke drift with the strong wind as fires rage on the hills around Sever do Vouga, a town in northern Portugal that has been surrounded by forest fires, Sept. 2024.")](https://www.euronews.com/next/2024/09/19/google-funds-satellite-constellation-that-aims-to-detect-global-wildfires-using-ai)
 
 Now playing Next
 
-[Culture news](https://www.euronews.com/culture/culture-news)
+[Space](https://www.euronews.com/next/next-space)
 
-### [Con artist's sparkly ankle monitor steals show on US TV dance series](https://www.euronews.com/culture/2024/09/18/con-artist-who-inspired-netflixs-inventing-anna-hits-us-tv-dance-competition-in-ankle-moni)
+### [Could these Google-funded satellites help detect wildfires faster?](https://www.euronews.com/next/2024/09/19/google-funds-satellite-constellation-that-aims-to-detect-global-wildfires-using-ai)
 
 [Europe](https://www.euronews.com/my-europe)
 
@@ -672,8 +674,6 @@ More
 
 Special coverage
 
-* [Climate](https://www.euronews.com/special/climate)
-* [Depth of Field](https://www.euronews.com/special/depth-of-field)
 * [The New Uzbekistan](https://www.euronews.com/special/a-new-uzbekistan)
 * [Azerbaijan Diary](https://www.euronews.com/special/azerbaijan-diary)
 * [Discover Algeria](https://www.euronews.com/special/discover-algeria)
