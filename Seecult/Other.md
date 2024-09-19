@@ -322,11 +322,11 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 
 [Galerija umetnika](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")[](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/vlastimir-volcano-mikic/slike-skulpture-projekti/temperance-fountain-nyc-1986-87volcano/castalia-public-art-project/temporance4.jpg?itok=0YlJMfNY)](http://seecult.org/galerija/galerija-umetnika/vlastimir-volcano-mikic/slike-skulpture-projekti/temperance-fountain-nyc)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/milovan-destil-markovic/self-portraits/selfshave-300800-w.jpg?itok=35F_vMoL)](http://seecult.org/galerija/galerija-umetnika/milovan-destil-markovic/self-portraits)
 
 [Foto galerija](http://seecult.org/galerija/foto-galerija "Foto galerija")[](http://seecult.org/galerija/foto-galerija "Foto galerija")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/leb-i-sol.jpg?itok=y1UOXA2X)](http://seecult.org/galerija/foto-galerija/foto-arhiva)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/pol-v-001.jpg?itok=laCRgsfF)](http://seecult.org/galerija/foto-galerija/foto-arhiva)
 
 * [Najčitanije](#news_1)
 * [Najnovije](#news_2)
@@ -342,6 +342,9 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 * [Preminula Jasna Tijardović Popović](http://seecult.org/vest/preminula-jasna-tijardovic-popovic)
 * [Najuži izbor za NIN-ovu nagradu za 2022.](http://seecult.org/vest/najuzi-izbor-za-nin-ovu-nagradu-za-2022)
 
+* [Berlinsko izdanje Import/Export - Tanja Ostojić, Ivana Ranisavljević...](http://seecult.org/vest/berlinsko-izdanje-importexport-tanja-ostojic-ivana-ranisavljevic)
+* [Inkluzijada u Zvezdarskoj šumi](http://seecult.org/vest/inkluzijada-u-zvezdarskoj-sumi)
+* [Milo Rau otvara 58. Bitef](http://seecult.org/vest/milo-rau-otvara-58-bitef)
 * [Retrospektiva Dobrice Bisenića](http://seecult.org/vest/retrospektiva-dobrice-bisenica)
 * [Povelja Zmajevih dečjih igara Jasminki Petrović](http://seecult.org/vest/povelja-zmajevih-decjih-igara-jasminki-petrovic)
 * [40 godina Zvezdara teatra - slobodnog pozorišta](http://seecult.org/vest/40-godina-zvezdara-teatra-slobodnog-pozorista)
@@ -349,9 +352,6 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 * [Mateja Nikolić dobitnik nagrade Neda Depolo](http://seecult.org/vest/mateja-nikolic-dobitnik-nagrade-neda-depolo)
 * [Obnova Sremskih Karlovaca](http://seecult.org/vest/obnova-sremskih-karlovaca)
 * [Nauka i umetnost u Botaničkoj bašti](http://seecult.org/vest/nauka-i-umetnost-u-botanickoj-basti)
-* [Tragikomičan pogled na duh palanke](http://seecult.org/vest/tragikomican-pogled-na-duh-palanke)
-* [Sudbina pojedinca u fokusu revije rumunskog filma](http://seecult.org/vest/sudbina-pojedinca-u-fokusu-revije-rumunskog-filma)
-* [Pomereni redosled Iljovskog u Legatu Čolaković](http://seecult.org/vest/pomereni-redosled-iljovskog-u-legatu-colakovic)
 
 * [Konkursi](#tab1_1)
 
