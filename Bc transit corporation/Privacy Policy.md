@@ -280,6 +280,7 @@ Victoria, BC V8W 2P3
 * [Affordability](https://www.bctransit.com/media/affordability/)
 * [Your New Ride](https://ride.bctransit.com/)
 * [Transit Superstars](https://www.bctransit.com/media/transit-superstars/)
+* [Bus Designs](https://www.bctransit.com/bus-designs/)
 * [Media Releases and Advisories](https://www.bctransit.com/media/releases-and-advisories/)
 * [Media Kit](https://www.bctransit.com/media/media-kit/)
 * [Media Contact](https://www.bctransit.com/media/media-contact/)
