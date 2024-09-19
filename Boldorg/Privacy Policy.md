@@ -295,7 +295,7 @@ Get in touch
 
 Donor Inquiries:
 
-(720) 704-2653
+(720) 973-1353
 
 donors@bold.org
 
