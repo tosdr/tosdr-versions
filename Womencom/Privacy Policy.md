@@ -10,9 +10,7 @@
 * [Living](https://www.women.com/category/living/)
 * [Features](https://www.women.com/category/features/)
 
-[](https://www.women.com/category/features/)
-
-[](https://www.women.com/category/features/)* [](https://www.women.com/category/features/)[](http://www.facebook.com/women "Facebook")
+* [](http://www.facebook.com/women "Facebook")
 * [](https://www.pinterest.com/Womencom "Pinterest")
 * [](https://flipboard.com/@Womencom "Flipboard")
 * [](https://news.google.com/publications/CAAiEPdxUHjKA-bwKYZxJCsMAfkqFAgKIhD3cVB4ygPm8CmGcSQrDAH5 "Google")
