@@ -76,10 +76,6 @@ Search
 
 Search
 
-#### New poll
-
-[Hochul's favorability falls below Trump’s among NY voters](https://nypost.com/2024/09/19/us-news/embargo-thurs-530am-hochuls-favorability-falls-below-trumps-amongst-ny-voters/)
-
 Privacy Notice Highlights
 =========================
 
@@ -245,7 +241,7 @@ Please click here to review the full [Privacy Notice](https://nypost.com/privacy
         * [Media Kit](https://advertising.nypost.com/)
         * [Contact](https://advertising.nypost.com/contact-us/)
 
-© 2024 NYP Holdings, Inc. All Rights Reserved
+© 2024 NYP Holdings, Inc. All Rights Reserved [Terms of Use](https://nypost.com/terms/) [Membership Terms](https://nypost.com/membership-terms/) [Privacy Notice](https://nypost.com/privacy/) [Sitemap](https://nypost.com/sitemap/)
 
 * * *
 
