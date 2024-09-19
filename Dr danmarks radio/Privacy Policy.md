@@ -1,17 +1,15 @@
     
 
 Navigation
-==========
+----------
 
-DR's hovedindgange
-------------------
+### DR's hovedindgange
 
 [DR.DK](https://www.dr.dk/)[DRTV](https://www.dr.dk/drtv/)[DR LYD](https://www.dr.dk/lyd)
 
 [Gå til forsiden](https://www.dr.dk/)
 
-Sektionens indgange
--------------------
+### Sektionens indgange
 
 1. [DR og dine data](https://www.dr.dk/om-dr/dr-og-dine-data)
 2. [Privatlivspolitik](https://www.dr.dk/om-dr/dr-og-dine-data/drs-privatlivspolitik)
@@ -24,16 +22,13 @@ Sektionens indgange
 
 [Log ind](https://www.dr.dk/auth/drlogin/login)
 
-Nyhedssektioner
----------------
+### Nyhedssektioner
 
-Kontakt og privatliv
---------------------
+### Kontakt og privatliv
 
 [Kontakt DR](https://dr.custhelp.com/)[Privatlivspolitik](https://www.dr.dk/om-dr/dr-og-dine-data)
 
-Sektionens indgange
--------------------
+### Sektionens indgange
 
 1. [DR og dine data](https://www.dr.dk/om-dr/dr-og-dine-data)
 2. [Privatlivspolitik](https://www.dr.dk/om-dr/dr-og-dine-data/drs-privatlivspolitik)
