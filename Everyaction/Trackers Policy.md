@@ -580,6 +580,15 @@ Previous Next
 Social impact insights & information
 ------------------------------------
 
+* ![Coworkers reviewing data on a tablet.](/sites/default/files/styles/card_image_short/public/2024-08/1178155113.jpeg?h=ada05aa9&itok=tLdSxVLr)
+    
+    ### [Impact measurement 101: defining and collecting data](https://www.everyaction.com/blog/impact-measurement-101-defining-and-collecting-data)
+    
+    * Coordinating social services
+    * Nonprofits
+    * Case Management
+    * Human services
+    
 * ![Case study](/sites/default/files/styles/card_image_short/public/2023-01/case-study-hero.jpg?h=b939d4c7&itok=ZeK9xxSu)
     
     ### [Bonterra acquires DonorDrive](https://www.everyaction.com/blog/bonterra-acquires-donordrive)
@@ -589,15 +598,6 @@ Social impact insights & information
     * Corporate social responsibility
     * Corporations
     * Donor Engagement
-    
-* ![Coworkers reviewing data on a tablet.](/sites/default/files/styles/card_image_short/public/2024-08/1178155113.jpeg?h=ada05aa9&itok=tLdSxVLr)
-    
-    ### [Impact measurement 101: defining and collecting data](https://www.everyaction.com/blog/impact-measurement-101-defining-and-collecting-data)
-    
-    * Coordinating social services
-    * Nonprofits
-    * Case Management
-    * Human services
     
 * ![An employee working at a business with a matching gift program smiles while working on her computer.](/sites/default/files/styles/card_image_short/public/2023-06/istock-1180171302.jpg?h=119335f7&itok=l4kA8b6s)
     
