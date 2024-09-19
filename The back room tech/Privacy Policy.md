@@ -116,18 +116,18 @@ Supreme caution has been taken to make sure that there are no copyright infringe
 
 #### Random Posts
 
-* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2045'%3E%3C/svg%3E)
+* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2042'%3E%3C/svg%3E)
     
-    ![](https://s11921.pcdn.co/wp-content/uploads/select-operating-system-80x45.png)](https://thebackroomtech.com/2018/07/20/upgrade-windows-server-2008-r2-to-2012-r2/ "Upgrade Windows Server 2008 R2 to 2012 R2")[Upgrade Windows Server 2008 R2 to 2012 R2](https://thebackroomtech.com/2018/07/20/upgrade-windows-server-2008-r2-to-2012-r2/ "Upgrade Windows Server 2008 R2 to 2012 R2")
-* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2032'%3E%3C/svg%3E)
+    ![](https://s11921.pcdn.co/wp-content/uploads/Cisco-VPN-Setup-main-80x42.jpg.optimal.jpg)](https://thebackroomtech.com/2019/08/19/how-to-set-up-a-vpn-with-cisco/ "How To Set Up a VPN With Cisco")[How To Set Up a VPN With Cisco](https://thebackroomtech.com/2019/08/19/how-to-set-up-a-vpn-with-cisco/ "How To Set Up a VPN With Cisco")
+* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2050'%3E%3C/svg%3E)
     
-    ![](https://s11921.pcdn.co/wp-content/uploads/dism-target-editions-80x32.png)](https://thebackroomtech.com/2019/03/21/upgrade-windows-server-from-evaluation-to-full/ "Upgrade Windows Server from Evaluation to Full")[Upgrade Windows Server from Evaluation to Full](https://thebackroomtech.com/2019/03/21/upgrade-windows-server-from-evaluation-to-full/ "Upgrade Windows Server from Evaluation to Full")
-* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2022'%3E%3C/svg%3E)
+    ![](https://s11921.pcdn.co/wp-content/uploads/10-select-an-existing-key-pair-linux-ec2-80x50.png)](https://thebackroomtech.com/2018/11/05/how-to-ssh-to-an-ec2-instance-from-mac/ "How to SSH to a Linux EC2 Instance from Mac")[How to SSH to a Linux EC2 Instance from Mac](https://thebackroomtech.com/2018/11/05/how-to-ssh-to-an-ec2-instance-from-mac/ "How to SSH to a Linux EC2 Instance from Mac")
+* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2042'%3E%3C/svg%3E)
     
-    ![](https://s11921.pcdn.co/wp-content/uploads/windows-server-80x22.png)](https://thebackroomtech.com/2008/03/17/howto-enable-remote-desktop-on-a-windows-2008-server-core-system/ "Howto: Enable Remote Desktop on a Windows 2008 Server Core System")[Howto: Enable Remote Desktop on a Windows 2008 Server Core System](https://thebackroomtech.com/2008/03/17/howto-enable-remote-desktop-on-a-windows-2008-server-core-system/ "Howto: Enable Remote Desktop on a Windows 2008 Server Core System")
-* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2043'%3E%3C/svg%3E)
+    ![](https://s11921.pcdn.co/wp-content/uploads/create-port-groups-vmware-80x42.jpg.optimal.jpg)](https://thebackroomtech.com/2018/04/25/vmware-powercli-create-port-groups-script/ "VMware PowerCLI – Create Port Groups Script")[VMware PowerCLI – Create Port Groups Script](https://thebackroomtech.com/2018/04/25/vmware-powercli-create-port-groups-script/ "VMware PowerCLI – Create Port Groups Script")
+* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2039'%3E%3C/svg%3E)
     
-    ![](https://s11921.pcdn.co/wp-content/uploads/local-security-policy-80x43.png)](https://thebackroomtech.com/2007/11/02/howto-disable-windows-simple-file-sharing-via-the-registry-and-local-security-policy/ "Howto: Disable Windows Simple File Sharing via the Registry and Local Security Policy")[Howto: Disable Windows Simple File Sharing via the Registry and Local Security Policy](https://thebackroomtech.com/2007/11/02/howto-disable-windows-simple-file-sharing-via-the-registry-and-local-security-policy/ "Howto: Disable Windows Simple File Sharing via the Registry and Local Security Policy")
+    ![](https://s11921.pcdn.co/wp-content/uploads/network-ports-80x39.jpg.optimal.jpg)](https://thebackroomtech.com/2019/01/10/how-to-configure-nic-teaming-on-windows-server/ "How to Configure NIC Teaming on Windows Server")[How to Configure NIC Teaming on Windows Server](https://thebackroomtech.com/2019/01/10/how-to-configure-nic-teaming-on-windows-server/ "How to Configure NIC Teaming on Windows Server")
 
 #### Our Publishing Family
 
