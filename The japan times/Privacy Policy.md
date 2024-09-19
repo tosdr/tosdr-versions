@@ -463,37 +463,41 @@ Revised June 1, 2022
 
 * Editors' Picks
 
-[Japan set to hold rates steady as yen rallies and LDP candidates stump](https://www.japantimes.co.jp/business/2024/09/17/economy/boj-preview-september-2024/ "Japan set to hold rates steady as yen rallies and LDP candidates stump")
+[LDP leader candidates split on separate surnames for married couples](https://www.japantimes.co.jp/news/2024/09/18/japan/politics/ldp-separate-surnames/ "LDP leader candidates split on separate surnames for married couples")
 
-  [![The Bank of Japan is holding its policy board meeting this week.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/17/422217.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "The Bank of Japan is holding its policy board meeting this week.")](https://www.japantimes.co.jp/business/2024/09/17/economy/boj-preview-september-2024/ "Japan set to hold rates steady as yen rallies and LDP candidates stump")
+  [![Liberal Democratic Party presidential election candidates after a campaign event in Nagoya on Saturday](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/18/422363.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Liberal Democratic Party presidential election candidates after a campaign event in Nagoya on Saturday")](https://www.japantimes.co.jp/news/2024/09/18/japan/politics/ldp-separate-surnames/ "LDP leader candidates split on separate surnames for married couples")
 
-[Deaths among elderly people using electric wheelchairs on the rise](https://www.japantimes.co.jp/news/2024/09/17/japan/elderly-electric-wheelchairs/ "Deaths among elderly people using electric wheelchairs on the rise")
+[North Korea fires off 'multiple' ballistic missiles in latest show of force](https://www.japantimes.co.jp/news/2024/09/18/asia-pacific/north-korea-missiles-september-18/ "North Korea fires off 'multiple' ballistic missiles in latest show of force")
 
-  [![A re-creation of a scene in which an electric wheelchair tire has become stuck in a gutter](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/17/422220.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "A re-creation of a scene in which an electric wheelchair tire has become stuck in a gutter")](https://www.japantimes.co.jp/news/2024/09/17/japan/elderly-electric-wheelchairs/ "Deaths among elderly people using electric wheelchairs on the rise")
+  [![North Korean leader Kim Jong inspects the training base of the special operation armed force of the Korean People's Army at an undisclosed location in the country on Sept. 11. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/18/422287.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "North Korean leader Kim Jong inspects the training base of the special operation armed force of the Korean People's Army at an undisclosed location in the country on Sept. 11. ")](https://www.japantimes.co.jp/news/2024/09/18/asia-pacific/north-korea-missiles-september-18/ "North Korea fires off 'multiple' ballistic missiles in latest show of force")
 
-[How Intel lost the Sony PlayStation business](https://www.japantimes.co.jp/business/2024/09/17/tech/intel-lost-sony-playstation-contract/ "How Intel lost the Sony PlayStation business")
+['Shogun' becomes first non-English-language winner of best drama Emmy](https://www.japantimes.co.jp/culture/2024/09/16/tv-streaming/emmy-awards-shogun/ "'Shogun' becomes first non-English-language winner of best drama Emmy")
 
-  [![Intel in 2022 lost out on a contract to design and fabricate the chip for Sony’s next-generation PlayStation 6.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/17/422101.JPG?v=3.1&w=400&q=100&f=jpg&t=1.2 "Intel in 2022 lost out on a contract to design and fabricate the chip for Sony’s next-generation PlayStation 6.")](https://www.japantimes.co.jp/business/2024/09/17/tech/intel-lost-sony-playstation-contract/ "How Intel lost the Sony PlayStation business")
+  [![Japanese actress Anna Sawai, winner of the outstanding lead actress in a drama series award for "Shogun," and Japanese actor Hiroyuki Sanada, winner of the outstanding lead actor in a drama series award for the show, pose in the press room during the 76th Emmy Awards in Los Angeles on Sunday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/16/421939.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Japanese actress Anna Sawai, winner of the outstanding lead actress in a drama series award for "Shogun," and Japanese actor Hiroyuki Sanada, winner of the outstanding lead actor in a drama series award for the show, pose in the press room during the 76th Emmy Awards in Los Angeles on Sunday.")](https://www.japantimes.co.jp/culture/2024/09/16/tv-streaming/emmy-awards-shogun/ "'Shogun' becomes first non-English-language winner of best drama Emmy")
 
-[Mount Fuji restrictions reduce dangerous overnight climbs](https://www.japantimes.co.jp/news/2024/09/17/japan/mount-fuji-restrictions-results/ "Mount Fuji restrictions reduce dangerous overnight climbs")
+[Chinese carrier sails between Japanese islands near Taiwan for first time](https://www.japantimes.co.jp/news/2024/09/19/japan/china-aircraft-carrier-japan-yonaguni/ "Chinese carrier sails between Japanese islands near Taiwan for first time")
 
-  [![Hikers pass through a temporary gate set up at the fifth station of the Yoshida Trail on Mount Fuji in Yamanashi Prefecture in July.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/17/422121.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Hikers pass through a temporary gate set up at the fifth station of the Yoshida Trail on Mount Fuji in Yamanashi Prefecture in July.")](https://www.japantimes.co.jp/news/2024/09/17/japan/mount-fuji-restrictions-results/ "Mount Fuji restrictions reduce dangerous overnight climbs")
+  [![China's Liaoning aircraft carrier sails in waters near Okinawa Prefecture on Wednesday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/18/422536.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "China's Liaoning aircraft carrier sails in waters near Okinawa Prefecture on Wednesday.")](https://www.japantimes.co.jp/news/2024/09/19/japan/china-aircraft-carrier-japan-yonaguni/ "Chinese carrier sails between Japanese islands near Taiwan for first time")
 
-[LDP presidential hopefuls lay out priorities for PM in online debate](https://www.japantimes.co.jp/news/2024/09/17/japan/politics/ldp-debate-about-priorities/ "LDP presidential hopefuls lay out priorities for PM in online debate")
+[Takaichi's policy documents spark controversy in LDP leadership race](https://www.japantimes.co.jp/news/2024/09/18/japan/politics/ldp-race-takaichi-policy-documents/ "Takaichi's policy documents spark controversy in LDP leadership race")
 
-  [![Candidates for the Liberal Democratic Party presidential election take part in a debate in Tokyo on Saturday. On Monday evening, they took part in an online debate, during which they each made a case for what the top priority should be for Japan's next prime minister.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/17/422245.JPG?v=3.1&w=400&q=100&f=jpg&t=1.2 "Candidates for the Liberal Democratic Party presidential election take part in a debate in Tokyo on Saturday. On Monday evening, they took part in an online debate, during which they each made a case for what the top priority should be for Japan's next prime minister.")](https://www.japantimes.co.jp/news/2024/09/17/japan/politics/ldp-debate-about-priorities/ "LDP presidential hopefuls lay out priorities for PM in online debate")
+  [![Economic security minister Sanae Takaichi speaks during a debate with other candidates in the Liberal Democratic Party presidential race in Tokyo on Saturday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/18/422365.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Economic security minister Sanae Takaichi speaks during a debate with other candidates in the Liberal Democratic Party presidential race in Tokyo on Saturday.")](https://www.japantimes.co.jp/news/2024/09/18/japan/politics/ldp-race-takaichi-policy-documents/ "Takaichi's policy documents spark controversy in LDP leadership race")
+
+[Onosato’s meteoric rise is stunning — but not surprising](https://www.japantimes.co.jp/sports/2024/09/18/sumo/onosato-technical-analysis/ "Onosato’s meteoric rise is stunning — but not surprising")
+
+  [![Onosato shoves out Mitakeumi on Sunday in Tokyo to continue his perfect run at the Autumn Basho. At 192-centimeters-tall and 177 kilograms, Onosato may be neither the tallest nor the heaviest wrestler in the makuuchi division, but he is very close to the top in each of those two categories.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/18/422479.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Onosato shoves out Mitakeumi on Sunday in Tokyo to continue his perfect run at the Autumn Basho. At 192-centimeters-tall and 177 kilograms, Onosato may be neither the tallest nor the heaviest wrestler in the makuuchi division, but he is very close to the top in each of those two categories.")](https://www.japantimes.co.jp/sports/2024/09/18/sumo/onosato-technical-analysis/ "Onosato’s meteoric rise is stunning — but not surprising")
 
 [France-Japan military pact expected by year-end, envoy to Tokyo says](https://www.japantimes.co.jp/news/2024/09/18/japan/politics/france-ambassador-japan-interview/ "France-Japan military pact expected by year-end, envoy to Tokyo says")
 
   [![French Ambassador Philippe Setton says that, despite previous differences over whether Japan should host a NATO liaison office, Paris aims to deepen ties with Tokyo "in all security areas."](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/18/422435.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "French Ambassador Philippe Setton says that, despite previous differences over whether Japan should host a NATO liaison office, Paris aims to deepen ties with Tokyo "in all security areas."")](https://www.japantimes.co.jp/news/2024/09/18/japan/politics/france-ambassador-japan-interview/ "France-Japan military pact expected by year-end, envoy to Tokyo says")
 
-[‘Shogun’ and the painstaking art of ‘getting it right’](https://www.japantimes.co.jp/culture/2024/09/16/tv-streaming/shogun-emmys-authentic-portrayal/ "‘Shogun’ and the painstaking art of ‘getting it right’")
-
-  [![Hiroyuki Sanada and the cast and crew of "Shogun" accept the award for best drama series at the 76th Primetime Emmy Awards in Los Angeles, California.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/16/422080.JPG?v=3.1&w=400&q=100&f=jpg&t=1.2 "Hiroyuki Sanada and the cast and crew of "Shogun" accept the award for best drama series at the 76th Primetime Emmy Awards in Los Angeles, California.")](https://www.japantimes.co.jp/culture/2024/09/16/tv-streaming/shogun-emmys-authentic-portrayal/ "‘Shogun’ and the painstaking art of ‘getting it right’")
-
 [Japan’s schools battle to keep kids cool, with or without AC](https://www.japantimes.co.jp/news/2024/09/16/japan/society/extreme-heat-education-cooling/ "Japan’s schools battle to keep kids cool, with or without AC")
 
   [![Students sit under a misting system during recess at Hikarigaoka Haru no Kaze Elementary School in Nerima Ward, Tokyo, on Sept. 6.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/16/421138.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Students sit under a misting system during recess at Hikarigaoka Haru no Kaze Elementary School in Nerima Ward, Tokyo, on Sept. 6.")](https://www.japantimes.co.jp/news/2024/09/16/japan/society/extreme-heat-education-cooling/ "Japan’s schools battle to keep kids cool, with or without AC")
+
+[‘Shogun’ and the painstaking art of ‘getting it right’](https://www.japantimes.co.jp/culture/2024/09/16/tv-streaming/shogun-emmys-authentic-portrayal/ "‘Shogun’ and the painstaking art of ‘getting it right’")
+
+  [![Hiroyuki Sanada and the cast and crew of "Shogun" accept the award for best drama series at the 76th Primetime Emmy Awards in Los Angeles, California.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/16/422080.JPG?v=3.1&w=400&q=100&f=jpg&t=1.2 "Hiroyuki Sanada and the cast and crew of "Shogun" accept the award for best drama series at the 76th Primetime Emmy Awards in Los Angeles, California.")](https://www.japantimes.co.jp/culture/2024/09/16/tv-streaming/shogun-emmys-authentic-portrayal/ "‘Shogun’ and the painstaking art of ‘getting it right’")
 
 [Chris Broad's new bar puts cocktails first, YouTube second](https://www.japantimes.co.jp/life/2024/09/15/food-drink/lost-bar-chris-broad-abroad-in-japan-shibuya/ "Chris Broad's new bar puts cocktails first, YouTube second")
 
@@ -518,9 +522,9 @@ By [Alex K.T. Martin](https://www.japantimes.co.jp/author/219/alex-kt-martin/ "A
 SUSTAINABLE JAPAN
 -----------------
 
-[SWCC keeps changing with keyword ‘new challenges’](https://sustainable.japantimes.com/unraveling/27?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=4 "SWCC keeps changing with keyword ‘new challenges’")
+[Sasakawa works for a sustainable blue economy](https://sustainable.japantimes.com/magazine/vol39/39-01?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "Sasakawa works for a sustainable blue economy")
 
-[![SWCC keeps changing with keyword ‘new challenges’](https://wp.japantimes.co.jp/wp-content/uploads/2024/08/img_unraveling_27_01-200x200.jpg)](https://sustainable.japantimes.com/unraveling/27?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=4 "SWCC keeps changing with keyword ‘new challenges’")
+[![Sasakawa works for a sustainable blue economy](https://wp.japantimes.co.jp/wp-content/uploads/2024/08/img_magazine_39_01_01-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol39/39-01?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "Sasakawa works for a sustainable blue economy")
 
 SPECIAL SUPPLEMENTS [![note](/theme_japantimes/images/icon_note.png)](javascript:; "Note")
 ------------------------------------------------------------------------------------------
@@ -560,25 +564,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
-[The challenges posed by China exceed those of the Cold War, U.S. says](https://www.japantimes.co.jp/news/2024/09/19/world/politics/us-china-cold-war/ "The challenges posed by China exceed those of the Cold War, U.S. says")
+[Hyogo assembly passes no-confidence motion against embattled governor](https://www.japantimes.co.jp/news/2024/09/19/japan/politics/hyogo-no-confidence-motion/ "Hyogo assembly passes no-confidence motion against embattled governor")
 
-17 mins ago
+19 mins ago
 
-[Japan walkie-talkie maker investigating after Lebanon blasts](https://www.japantimes.co.jp/business/2024/09/19/companies/japan-walkie-talkie-lebanon-blasts/ "Japan walkie-talkie maker investigating after Lebanon blasts")
+[Nintendo sues 'Pokemon with guns' maker for patent infringement](https://www.japantimes.co.jp/business/2024/09/19/companies/nintendo-patent-suit/ "Nintendo sues 'Pokemon with guns' maker for patent infringement")
 
-34 mins ago
+2 hours ago
 
-[Japanese school student stabbed in Shenzhen dies](https://www.japantimes.co.jp/news/2024/09/19/japan/crime-legal/japanese-school-boy-china-dead/ "Japanese school student stabbed in Shenzhen dies")
+[Boeing furloughs thousands as no progress made to resolve strike](https://www.japantimes.co.jp/business/2024/09/19/companies/boeing-furloughs-thousands-strike/ "Boeing furloughs thousands as no progress made to resolve strike")
 
-52 mins ago
+2 hours ago
 
-[Taiwan 'paying great attention' to Hezbollah pager explosions](https://www.japantimes.co.jp/news/2024/09/19/asia-pacific/taiwan-hezbollah-beeper-explosions/ "Taiwan 'paying great attention' to Hezbollah pager explosions")
+[Third TSMC plant in Japan remains up in the air](https://www.japantimes.co.jp/business/2024/09/19/companies/taiwan-boost-japan-investments/ "Third TSMC plant in Japan remains up in the air ") 
 
-56 mins ago
+3 hours ago
 
-[How migrant workers suffer to craft the 'Made in Italy' luxury label](https://www.japantimes.co.jp/business/2024/09/19/migrant-made-in-italy-luxury-label/ "How migrant workers suffer to craft the 'Made in Italy' luxury label")
+[17% of kick scooter accidents caused by drunken drivers](https://www.japantimes.co.jp/news/2024/09/19/japan/crime-legal/japan-scooter-accidents/ "17% of kick scooter accidents caused by drunken drivers")
 
-1 hours ago
+3 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
