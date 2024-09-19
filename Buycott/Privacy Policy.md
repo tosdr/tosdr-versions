@@ -147,8 +147,6 @@ Please contact us at info@buycott.com if you have any questions about our Priv
 * [![Twitter](/assets/twitter-0b2ddc6fd131b22064bae74c242bec22.png "Twitter")](https://twitter.com/buycottapp)
 * [![Twitter](/assets/instagram-cd5edb30753e2b79a6b8e3ad929178d8.png "Twitter")](https://www.instagram.com/buycott/)
 
-Buycott is for designed for organizing boycotts. Check out Solidarity Tech for an [all-in-one organizing CRM](https://www.solidarity.tech/).
-
 * [FAQ](https://www.buycott.com/faq "FAQ")
 * [API](https://www.buycott.com/api "API")
 * [Press](https://www.buycott.com/press "press")
