@@ -404,9 +404,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ I long to accomplish a great and noble task, but it is my chief duty to accomplish humble tasks as though they were great and noble”
+“ Once a new technology rolls over you, if you're not part of the steamroller, you're part of the road”
 
-[Helen Keller](http://en.wikipedia.org/wiki/Helen_Keller)
+[Stewart Brand](http://en.wikipedia.org/wiki/Stewart_Brand)
 
 [](https://www.adafruit.com/about)
 
