@@ -1,4 +1,4 @@
-The domains encyclopediadramatica.wiki and encyclopediadramatica.in have been seized by IHM in accordance with a seizure warrant issued pursuant to 404 page not found as part of a IHM enforcement action
+The domains encyclopediadramatica.wiki and encyclopediadramatica.space have been seized by TrollCow in accordance with a seizure warrant issued pursuant to (who actually asked?) as part of a trannies enforcement action
 
   
   
@@ -7,7 +7,7 @@ The domains encyclopediadramatica.wiki and encyclopediadramatica.in have been se
   
   
 
-[![Logo](kiwinigger.png)](https://kiwifarms.st/)
+[![Logo](kiwi.svg)](https://kiwifarms.st/)
 
 [Alliance Against  
 Troons and  
