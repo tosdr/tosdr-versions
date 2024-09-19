@@ -277,7 +277,7 @@ close mobile menu
         * [Transportation (airfare rates, POV rates, etc.)](https://www.gsa.gov/travel/plan-a-trip/transportation-airfare-rates-pov-rates-etc?topnav=travel)
         * [Lodging](https://www.gsa.gov/travel/plan-a-trip/lodging?topnav=travel)
         * [State tax exemption](https://smartpay.gsa.gov/smarttax/state-tax-forms/?topnav=travel)
-        * [Travel charge card](https://www.gsa.gov/travel/plan-a-trip/travel-charge-card?topnav=travel)
+        * [Travel charge card](https://www.gsa.gov/travel/plan-a-trip/travel-charge-cardaccount?topnav=travel)
         * [Conferences and meetings](https://www.gsa.gov/travel/plan-a-trip/conference-and-meeting-planning?topnav=travel)
         
     * [Travel and lodging services
@@ -687,7 +687,7 @@ Travel expand menu
 
 [State tax exemption](https://smartpay.gsa.gov/smarttax/state-tax-forms/?topnav=travel)
 
-[Travel charge card](https://www.gsa.gov/travel/plan-a-trip/travel-charge-card?topnav=travel)
+[Travel charge card](https://www.gsa.gov/travel/plan-a-trip/travel-charge-cardaccount?topnav=travel)
 
 [Conferences and meetings](https://www.gsa.gov/travel/plan-a-trip/conference-and-meeting-planning?topnav=travel)
 
