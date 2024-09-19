@@ -33,9 +33,9 @@
     
     ### What's new:
     
-    [](https://player.me/dead-by-daylight-spin-off-project-t-has-been-cancelled/)
+    [](https://player.me/my-time-at-evershine-becomes-1st-nintendo-switch-2-game/)
     
-    ![Project T, the Dead by Daylight Spin-Off, Has Been Cancelled Following Negative Player Feedback](data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PScwIDAgMzAwIDE5OScgeG1sbnM9J2h0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnJz48L3N2Zz4=)
+    ![My Time at Evershine Becomes First Game Officially Announced for Nintendo Switch 2](data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PScwIDAgMzAwIDE5OScgeG1sbnM9J2h0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnJz48L3N2Zz4=)
     
     Load More
     
@@ -73,9 +73,9 @@
     
     ### What's new:
     
-    [](https://player.me/dead-by-daylight-spin-off-project-t-has-been-cancelled/)
+    [](https://player.me/my-time-at-evershine-becomes-1st-nintendo-switch-2-game/)
     
-    ![Project T, the Dead by Daylight Spin-Off, Has Been Cancelled Following Negative Player Feedback](data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PScwIDAgMzAwIDE5OScgeG1sbnM9J2h0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnJz48L3N2Zz4=)
+    ![My Time at Evershine Becomes First Game Officially Announced for Nintendo Switch 2](data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PScwIDAgMzAwIDE5OScgeG1sbnM9J2h0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnJz48L3N2Zz4=)
     
     Load More
     
@@ -141,6 +141,32 @@ TRENDING
 *   Back
 * The Last of Us
 
+![My Time at Evershine Becomes First Game Officially Announced for Nintendo Switch 2](https://player.me/wp-content/uploads/2024/09/My-Time-at-Evershine-Becomes-First-Game-Officially-Announced-for-Nintendo-Switch-2.png)
+
+[My Time at Evershine Becomes First Game Officially Announced for Nintendo Switch 2](https://player.me/my-time-at-evershine-becomes-1st-nintendo-switch-2-game/)
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+September 19, 2024/
+
+The My Time series is back with its latest entry, My Time at Evershine, following the critically acclaimed My Time…
+
+[Read More](https://player.me/my-time-at-evershine-becomes-1st-nintendo-switch-2-game/)
+
+![Made on YouTube 2024 Unveils New YouTube Hype Feature to Boost Emerging Creators](https://player.me/wp-content/uploads/2024/09/Made-on-YouTube-2024-Unveils-New-YouTube-Hype-Feature-to-Boost-Emerging-Creators.png)
+
+[Made on YouTube 2024 Unveils New YouTube Hype Feature to Boost Emerging Creators](https://player.me/made-on-youtube-2024-unveils-new-youtube-hype-feature/)
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+September 19, 2024/
+
+At the ‘Made on YouTube’ 2024 event, YouTube rolled out a series of new updates aimed at empowering creators and…
+
+[Read More](https://player.me/made-on-youtube-2024-unveils-new-youtube-hype-feature/)
+
 ![Project T, the Dead by Daylight Spin-Off, Has Been Cancelled Following Negative Player Feedback](https://player.me/wp-content/uploads/2024/09/Project-T-the-Dead-by-Daylight-Spin-Off-Has-Been-Cancelled-Following-Negative-Player-Feedback.png)
 
 [Project T, the Dead by Daylight Spin-Off, Has Been Cancelled Following Negative Player Feedback](https://player.me/dead-by-daylight-spin-off-project-t-has-been-cancelled/)
@@ -218,32 +244,6 @@ September 12, 2024/
 Huawei has officially unveiled its Huawei Mate XT Ultimate, the world’s first dual-hinged, triple-screen foldable smartphone. After weeks of anticipation,…
 
 [Read More](https://player.me/everything-to-know-about-huawei-mate-xt-ultimate/)
-
-![PS5 Pro Release Date, Price, Specs and Game Enhancements Confirmed](https://player.me/wp-content/uploads/2024/09/PS5-Pro-Release-Date-Price-Specs-and-Game-Enhancements.png)
-
-[PS5 Pro Release Date, Price, Specs and Game Enhancements Confirmed](https://player.me/ps5-pro-release-date-price-specs-and-game-enhancements/)
-
-
----------------------------------------------------------------------------------------------------------------------------------------------------
-
-September 11, 2024/
-
-Sony has officially confirmed the much-anticipated PlayStation 5 Pro, announced by lead architect Mark Cerny during a technical presentation. While…
-
-[Read More](https://player.me/ps5-pro-release-date-price-specs-and-game-enhancements/)
-
-![The Dark Horizon, Remnant 2’s Final DLC, Is Launching on September 24](https://player.me/wp-content/uploads/2024/09/The-Dark-Horizon-Remnant-2s-Final-DLC-Is-Launching-on-September-24.png)
-
-[The Dark Horizon, Remnant 2’s Final DLC, Is Launching on September 24](https://player.me/the-dark-horizon-is-launching-on-september-24/)
-
-
----------------------------------------------------------------------------------------------------------------------------------------------
-
-September 11, 2024/
-
-Gunfire Games has confirmed that the third and final expansion for Remnant 2, titled The Dark Horizon, will be available…
-
-[Read More](https://player.me/the-dark-horizon-is-launching-on-september-24/)
 
 [Older Posts](https://player.me/page/2/)Newer Posts
 
@@ -276,6 +276,32 @@ GAMING
 *   Back
 * The Last of Us
 
+![My Time at Evershine Becomes First Game Officially Announced for Nintendo Switch 2](https://player.me/wp-content/uploads/2024/09/My-Time-at-Evershine-Becomes-First-Game-Officially-Announced-for-Nintendo-Switch-2.png)
+
+[My Time at Evershine Becomes First Game Officially Announced for Nintendo Switch 2](https://player.me/my-time-at-evershine-becomes-1st-nintendo-switch-2-game/)
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+September 19, 2024/
+
+The My Time series is back with its latest entry, My Time at Evershine, following the critically acclaimed My Time…
+
+[Read More](https://player.me/my-time-at-evershine-becomes-1st-nintendo-switch-2-game/)
+
+![Made on YouTube 2024 Unveils New YouTube Hype Feature to Boost Emerging Creators](https://player.me/wp-content/uploads/2024/09/Made-on-YouTube-2024-Unveils-New-YouTube-Hype-Feature-to-Boost-Emerging-Creators.png)
+
+[Made on YouTube 2024 Unveils New YouTube Hype Feature to Boost Emerging Creators](https://player.me/made-on-youtube-2024-unveils-new-youtube-hype-feature/)
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+September 19, 2024/
+
+At the ‘Made on YouTube’ 2024 event, YouTube rolled out a series of new updates aimed at empowering creators and…
+
+[Read More](https://player.me/made-on-youtube-2024-unveils-new-youtube-hype-feature/)
+
 ![Project T, the Dead by Daylight Spin-Off, Has Been Cancelled Following Negative Player Feedback](https://player.me/wp-content/uploads/2024/09/Project-T-the-Dead-by-Daylight-Spin-Off-Has-Been-Cancelled-Following-Negative-Player-Feedback.png)
 
 [Project T, the Dead by Daylight Spin-Off, Has Been Cancelled Following Negative Player Feedback](https://player.me/dead-by-daylight-spin-off-project-t-has-been-cancelled/)
@@ -379,32 +405,6 @@ September 11, 2024/
 Gunfire Games has confirmed that the third and final expansion for Remnant 2, titled The Dark Horizon, will be available…
 
 [Read More](https://player.me/the-dark-horizon-is-launching-on-september-24/)
-
-![Warhammer 40,000: Space Marine 2: First Update Details Announced](https://player.me/wp-content/uploads/2024/09/Warhammer-40000——Space-Marine-2.png)
-
-[Warhammer 40,000: Space Marine 2: First Update Details Announced](https://player.me/space-marine-2-first-update-details-announced/)
-
-
-----------------------------------------------------------------------------------------------------------------------------------------
-
-September 10, 2024/
-
-Saber Interactive, the developer of Warhammer 40K: Space Marine 2, and Focus Interactive, its publisher, have officially revealed the content…
-
-[Read More](https://player.me/space-marine-2-first-update-details-announced/)
-
-![Apple It’s Glowtime Event Guide: iPhone 16, Watch Series 10, Apple Intelligence and Everything Else Launched](https://player.me/wp-content/uploads/2024/09/Apple-Its-Glowtime-Event-Guide.png)
-
-[Apple It’s Glowtime Event Guide: iPhone 16, Watch Series 10, Apple Intelligence and Everything Else Launched](https://player.me/apple-iphone-16-its-glowtime-event-guide/)
-
-
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-September 10, 2024/
-
-Apple’s highly anticipated ‘It’s Glowtime’ event dazzled the tech world with the launch of the iPhone 16 lineup, a suite…
-
-[Read More](https://player.me/apple-iphone-16-its-glowtime-event-guide/)
 
 [Older Posts](https://player.me/page/2/)Newer Posts
 
@@ -679,6 +679,19 @@ TECHNOLOGY
 * All Post
 * TECHNOLOGY
 
+![Made on YouTube 2024 Unveils New YouTube Hype Feature to Boost Emerging Creators](https://player.me/wp-content/uploads/2024/09/Made-on-YouTube-2024-Unveils-New-YouTube-Hype-Feature-to-Boost-Emerging-Creators.png)
+
+[Made on YouTube 2024 Unveils New YouTube Hype Feature to Boost Emerging Creators](https://player.me/made-on-youtube-2024-unveils-new-youtube-hype-feature/)
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+September 19, 2024/
+
+At the ‘Made on YouTube’ 2024 event, YouTube rolled out a series of new updates aimed at empowering creators and…
+
+[Read More](https://player.me/made-on-youtube-2024-unveils-new-youtube-hype-feature/)
+
 ![Everything to Know About Huawei Mate XT Ultimate: The World’s First Triple-Screen Foldable Phone](https://player.me/wp-content/uploads/2024/09/Everything-to-Know-About-Huawei-Mate-XT-Ultimate.png)
 
 [Everything to Know About Huawei Mate XT Ultimate: The World’s First Triple-Screen Foldable Phone](https://player.me/everything-to-know-about-huawei-mate-xt-ultimate/)
@@ -796,19 +809,6 @@ SIGGRAPH (Special Interest Group on Computer Graphics and Interactive Techniques
 
 [Read More](https://player.me/siggraph-2024-discussion-between-zuckerberg-and-huang/)
 
-![Meta Quest 4 and Quest Pro 2 Hint at 2026 and 2027 Release Window ](https://player.me/wp-content/uploads/2024/07/Meta-Quest-4-and-Quest-Pro-2-Hint-at-2026-and-2027-Release-Window-1.png)
-
-[Meta Quest 4 and Quest Pro 2 Hint at 2026 and 2027 Release Window](https://player.me/meta-quest-4-and-quest-pro-2-hint-at-2026-and-27-release/) 
-
-
------------------------------------------------------------------------------------------------------------------------------------------------------
-
-July 19, 2024/
-
-Meta Quest 4 will be released sometime in 2026 with two variants, The Information reports citing three people in charge…
-
-[Read More](https://player.me/meta-quest-4-and-quest-pro-2-hint-at-2026-and-27-release/)
-
 [Older Posts](https://player.me/page/2/)Newer Posts
 
 [![Follow Us on Google News](data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PScwIDAgMzAwIDgyJyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnPjwvc3ZnPg==)](https://news.google.com/publications/CAAqBwgKMN65xgswgdXdAw?hl=en-US&gl=US&ceid=US%3Aen)
@@ -816,6 +816,18 @@ Meta Quest 4 will be released sometime in 2026 with two variants, The Informatio
 ![player.me](data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PScwIDAgMzAwIDMwMCcgeG1sbnM9J2h0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnJz48L3N2Zz4=)
 
 player.me
+
+[](https://player.me/my-time-at-evershine-becomes-1st-nintendo-switch-2-game/ "My Time at Evershine Becomes First Game Officially Announced for Nintendo Switch 2")
+
+[My Time at Evershine Becomes First Game Officially Announced for Nintendo Switch 2](https://player.me/my-time-at-evershine-becomes-1st-nintendo-switch-2-game/)
+
+September 19, 2024
+
+[](https://player.me/made-on-youtube-2024-unveils-new-youtube-hype-feature/ "Made on YouTube 2024 Unveils New YouTube Hype Feature to Boost Emerging Creators")
+
+[Made on YouTube 2024 Unveils New YouTube Hype Feature to Boost Emerging Creators](https://player.me/made-on-youtube-2024-unveils-new-youtube-hype-feature/)
+
+September 19, 2024
 
 [](https://player.me/dead-by-daylight-spin-off-project-t-has-been-cancelled/ "Project T, the Dead by Daylight Spin-Off, Has Been Cancelled Following Negative Player Feedback")
 
@@ -853,22 +865,10 @@ September 12, 2024
 
 September 12, 2024
 
-[](https://player.me/ps5-pro-release-date-price-specs-and-game-enhancements/ "PS5 Pro Release Date, Price, Specs and Game Enhancements Confirmed")
-
-[PS5 Pro Release Date, Price, Specs and Game Enhancements Confirmed](https://player.me/ps5-pro-release-date-price-specs-and-game-enhancements/)
-
-September 11, 2024
-
-[](https://player.me/the-dark-horizon-is-launching-on-september-24/ "The Dark Horizon, Remnant 2’s Final DLC, Is Launching on September 24")
-
-[The Dark Horizon, Remnant 2’s Final DLC, Is Launching on September 24](https://player.me/the-dark-horizon-is-launching-on-september-24/)
-
-September 11, 2024
-
 [ตรวจหวย 17 มกราคม 2567](https://www.surveymonkey.com/r/checklottery17jan)  
 [Ufabet](https://www.surveymonkey.com/r/ufabet_ufa)  
 
-Visited 566,443 times, 1 visit(s) today
+Visited 566,513 times, 71 visit(s) today
 
 ![Player.me Logo](image/svg+xml;base64,PHN2ZyB2aWV3Qm94PScwIDAgMzAwIDg5JyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnPjwvc3ZnPg==)
 
