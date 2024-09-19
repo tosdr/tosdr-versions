@@ -818,12 +818,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Dubioses Fest­geld: Bel-Finanz fehlt Zulassung](https://www.test.de/Dubioses-Festgeld-Bel-Finanz-ohne-Zulassung-6045716-0/ "Dubioses Festgeld - Bel-Finanz fehlt Zulassung")
-* [Immobilien­projekte: One Group setzt Zins­zahlungen aus](https://www.test.de/Immobilienprojekte-One-Group-setzt-Zinszahlungen-aus-6081556-0/ "Immobilienprojekte - One Group setzt Zinszahlungen aus")
-* [Commerz­bank zurück im Dax: Wie sich Bank­aktien seit der Finanz­krise entwickelt haben](https://www.test.de/Commerzbank-zurueck-im-Dax-Wie-sich-Bankaktien-seit-der-Finanzkrise-entwickelt-haben-5975761-0/ "Commerzbank zurück im Dax - Wie sich Bankaktien seit der Finanzkrise entwickelt haben")
-* [Warn­liste: Abzo­ckern ausgeliefert](https://www.test.de/Warnliste-Abzockern-ausgeliefert-5968840-0/ "Warnliste - Abzockern ausgeliefert")
-* [Hacker-Angriff auf Pass­wort-Manager: Kunden­daten von LastPass gestohlen](https://www.test.de/Hacker-Angriff-auf-Passwort-Manager-Kundendaten-von-LastPass-gestohlen-5952137-0/ "Hacker-Angriff auf Passwort-Manager - Kundendaten von LastPass gestohlen")
-* [Stürze im Alter: Sorge vor Stürzen in Griff bekommen](https://www.test.de/Stuerze-im-Alter-Sorge-vor-Stuerzen-in-Griff-bekommen-6104640-0/ "Stürze im Alter - Sorge vor Stürzen in Griff bekommen")
+* [Boden­reiniger im Test: Sanft gepflegt mit einem Wisch](https://www.test.de/Bodenreiniger-im-Test-5992245-0/ "Bodenreiniger im Test - Sanft gepflegt mit einem Wisch")
+* [Fitness-Apps im Test: Die richtige App fürs Training](https://www.test.de/Fitness-Apps-im-Test-6010207-0/ "Fitness-Apps im Test - Die richtige App fürs Training")
+* [Geld­anlage mit Fonds und ETF: Kurs­raketen? Uninteres­sant!](https://www.test.de/Geldanlage-mit-Fonds-und-ETF-Kursraketen-Uninteressant-6120154-0/ "Geldanlage mit Fonds und ETF - Kursraketen? Uninteressant!")
+* [Verpackungs­ärger: Ovomaltine Extra Schoko](https://www.test.de/Verpackungsaerger-Ovomaltine-Extra-Schoko-6013649-0/ "Verpackungsärger - Ovomaltine Extra Schoko")
+* [Drucker im Test: Die Unterschiede bei den Druck­kosten sind enorm](https://www.test.de/Drucker-im-Test-4339831-0/ "Drucker im Test - Die Unterschiede bei den Druckkosten sind enorm")
+* [Gemischte Säfte und Smoothies: Viel Apfel, viel Enttäuschung](https://www.test.de/Gemischte-Saefte-und-Smoothies-Viel-Apfel-viel-Enttaeuschung-6138284-0/ "Gemischte Säfte und Smoothies - Viel Apfel, viel Enttäuschung")
 
 Fußbereich
 
@@ -3863,12 +3863,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Dubioses Fest­geld: Bel-Finanz fehlt Zulassung](https://www.test.de/Dubioses-Festgeld-Bel-Finanz-ohne-Zulassung-6045716-0/ "Dubioses Festgeld - Bel-Finanz fehlt Zulassung")
-* [Immobilien­projekte: One Group setzt Zins­zahlungen aus](https://www.test.de/Immobilienprojekte-One-Group-setzt-Zinszahlungen-aus-6081556-0/ "Immobilienprojekte - One Group setzt Zinszahlungen aus")
-* [Commerz­bank zurück im Dax: Wie sich Bank­aktien seit der Finanz­krise entwickelt haben](https://www.test.de/Commerzbank-zurueck-im-Dax-Wie-sich-Bankaktien-seit-der-Finanzkrise-entwickelt-haben-5975761-0/ "Commerzbank zurück im Dax - Wie sich Bankaktien seit der Finanzkrise entwickelt haben")
-* [Warn­liste: Abzo­ckern ausgeliefert](https://www.test.de/Warnliste-Abzockern-ausgeliefert-5968840-0/ "Warnliste - Abzockern ausgeliefert")
-* [Hacker-Angriff auf Pass­wort-Manager: Kunden­daten von LastPass gestohlen](https://www.test.de/Hacker-Angriff-auf-Passwort-Manager-Kundendaten-von-LastPass-gestohlen-5952137-0/ "Hacker-Angriff auf Passwort-Manager - Kundendaten von LastPass gestohlen")
-* [Stürze im Alter: Sorge vor Stürzen in Griff bekommen](https://www.test.de/Stuerze-im-Alter-Sorge-vor-Stuerzen-in-Griff-bekommen-6104640-0/ "Stürze im Alter - Sorge vor Stürzen in Griff bekommen")
+* [Boden­reiniger im Test: Sanft gepflegt mit einem Wisch](https://www.test.de/Bodenreiniger-im-Test-5992245-0/ "Bodenreiniger im Test - Sanft gepflegt mit einem Wisch")
+* [Fitness-Apps im Test: Die richtige App fürs Training](https://www.test.de/Fitness-Apps-im-Test-6010207-0/ "Fitness-Apps im Test - Die richtige App fürs Training")
+* [Geld­anlage mit Fonds und ETF: Kurs­raketen? Uninteres­sant!](https://www.test.de/Geldanlage-mit-Fonds-und-ETF-Kursraketen-Uninteressant-6120154-0/ "Geldanlage mit Fonds und ETF - Kursraketen? Uninteressant!")
+* [Verpackungs­ärger: Ovomaltine Extra Schoko](https://www.test.de/Verpackungsaerger-Ovomaltine-Extra-Schoko-6013649-0/ "Verpackungsärger - Ovomaltine Extra Schoko")
+* [Drucker im Test: Die Unterschiede bei den Druck­kosten sind enorm](https://www.test.de/Drucker-im-Test-4339831-0/ "Drucker im Test - Die Unterschiede bei den Druckkosten sind enorm")
+* [Gemischte Säfte und Smoothies: Viel Apfel, viel Enttäuschung](https://www.test.de/Gemischte-Saefte-und-Smoothies-Viel-Apfel-viel-Enttaeuschung-6138284-0/ "Gemischte Säfte und Smoothies - Viel Apfel, viel Enttäuschung")
 
 Weitere spannende Themen
 
@@ -3883,12 +3883,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Dubioses Fest­geld: Bel-Finanz fehlt Zulassung](https://www.test.de/Dubioses-Festgeld-Bel-Finanz-ohne-Zulassung-6045716-0/ "Dubioses Festgeld - Bel-Finanz fehlt Zulassung")
-* [Immobilien­projekte: One Group setzt Zins­zahlungen aus](https://www.test.de/Immobilienprojekte-One-Group-setzt-Zinszahlungen-aus-6081556-0/ "Immobilienprojekte - One Group setzt Zinszahlungen aus")
-* [Commerz­bank zurück im Dax: Wie sich Bank­aktien seit der Finanz­krise entwickelt haben](https://www.test.de/Commerzbank-zurueck-im-Dax-Wie-sich-Bankaktien-seit-der-Finanzkrise-entwickelt-haben-5975761-0/ "Commerzbank zurück im Dax - Wie sich Bankaktien seit der Finanzkrise entwickelt haben")
-* [Warn­liste: Abzo­ckern ausgeliefert](https://www.test.de/Warnliste-Abzockern-ausgeliefert-5968840-0/ "Warnliste - Abzockern ausgeliefert")
-* [Hacker-Angriff auf Pass­wort-Manager: Kunden­daten von LastPass gestohlen](https://www.test.de/Hacker-Angriff-auf-Passwort-Manager-Kundendaten-von-LastPass-gestohlen-5952137-0/ "Hacker-Angriff auf Passwort-Manager - Kundendaten von LastPass gestohlen")
-* [Stürze im Alter: Sorge vor Stürzen in Griff bekommen](https://www.test.de/Stuerze-im-Alter-Sorge-vor-Stuerzen-in-Griff-bekommen-6104640-0/ "Stürze im Alter - Sorge vor Stürzen in Griff bekommen")
+* [Boden­reiniger im Test: Sanft gepflegt mit einem Wisch](https://www.test.de/Bodenreiniger-im-Test-5992245-0/ "Bodenreiniger im Test - Sanft gepflegt mit einem Wisch")
+* [Fitness-Apps im Test: Die richtige App fürs Training](https://www.test.de/Fitness-Apps-im-Test-6010207-0/ "Fitness-Apps im Test - Die richtige App fürs Training")
+* [Geld­anlage mit Fonds und ETF: Kurs­raketen? Uninteres­sant!](https://www.test.de/Geldanlage-mit-Fonds-und-ETF-Kursraketen-Uninteressant-6120154-0/ "Geldanlage mit Fonds und ETF - Kursraketen? Uninteressant!")
+* [Verpackungs­ärger: Ovomaltine Extra Schoko](https://www.test.de/Verpackungsaerger-Ovomaltine-Extra-Schoko-6013649-0/ "Verpackungsärger - Ovomaltine Extra Schoko")
+* [Drucker im Test: Die Unterschiede bei den Druck­kosten sind enorm](https://www.test.de/Drucker-im-Test-4339831-0/ "Drucker im Test - Die Unterschiede bei den Druckkosten sind enorm")
+* [Gemischte Säfte und Smoothies: Viel Apfel, viel Enttäuschung](https://www.test.de/Gemischte-Saefte-und-Smoothies-Viel-Apfel-viel-Enttaeuschung-6138284-0/ "Gemischte Säfte und Smoothies - Viel Apfel, viel Enttäuschung")
 
 Neueste Tests
 
@@ -3901,12 +3901,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Dubioses Fest­geld: Bel-Finanz fehlt Zulassung](https://www.test.de/Dubioses-Festgeld-Bel-Finanz-ohne-Zulassung-6045716-0/ "Dubioses Festgeld - Bel-Finanz fehlt Zulassung")
-* [Immobilien­projekte: One Group setzt Zins­zahlungen aus](https://www.test.de/Immobilienprojekte-One-Group-setzt-Zinszahlungen-aus-6081556-0/ "Immobilienprojekte - One Group setzt Zinszahlungen aus")
-* [Commerz­bank zurück im Dax: Wie sich Bank­aktien seit der Finanz­krise entwickelt haben](https://www.test.de/Commerzbank-zurueck-im-Dax-Wie-sich-Bankaktien-seit-der-Finanzkrise-entwickelt-haben-5975761-0/ "Commerzbank zurück im Dax - Wie sich Bankaktien seit der Finanzkrise entwickelt haben")
-* [Warn­liste: Abzo­ckern ausgeliefert](https://www.test.de/Warnliste-Abzockern-ausgeliefert-5968840-0/ "Warnliste - Abzockern ausgeliefert")
-* [Hacker-Angriff auf Pass­wort-Manager: Kunden­daten von LastPass gestohlen](https://www.test.de/Hacker-Angriff-auf-Passwort-Manager-Kundendaten-von-LastPass-gestohlen-5952137-0/ "Hacker-Angriff auf Passwort-Manager - Kundendaten von LastPass gestohlen")
-* [Stürze im Alter: Sorge vor Stürzen in Griff bekommen](https://www.test.de/Stuerze-im-Alter-Sorge-vor-Stuerzen-in-Griff-bekommen-6104640-0/ "Stürze im Alter - Sorge vor Stürzen in Griff bekommen")
+* [Boden­reiniger im Test: Sanft gepflegt mit einem Wisch](https://www.test.de/Bodenreiniger-im-Test-5992245-0/ "Bodenreiniger im Test - Sanft gepflegt mit einem Wisch")
+* [Fitness-Apps im Test: Die richtige App fürs Training](https://www.test.de/Fitness-Apps-im-Test-6010207-0/ "Fitness-Apps im Test - Die richtige App fürs Training")
+* [Geld­anlage mit Fonds und ETF: Kurs­raketen? Uninteres­sant!](https://www.test.de/Geldanlage-mit-Fonds-und-ETF-Kursraketen-Uninteressant-6120154-0/ "Geldanlage mit Fonds und ETF - Kursraketen? Uninteressant!")
+* [Verpackungs­ärger: Ovomaltine Extra Schoko](https://www.test.de/Verpackungsaerger-Ovomaltine-Extra-Schoko-6013649-0/ "Verpackungsärger - Ovomaltine Extra Schoko")
+* [Drucker im Test: Die Unterschiede bei den Druck­kosten sind enorm](https://www.test.de/Drucker-im-Test-4339831-0/ "Drucker im Test - Die Unterschiede bei den Druckkosten sind enorm")
+* [Gemischte Säfte und Smoothies: Viel Apfel, viel Enttäuschung](https://www.test.de/Gemischte-Saefte-und-Smoothies-Viel-Apfel-viel-Enttaeuschung-6138284-0/ "Gemischte Säfte und Smoothies - Viel Apfel, viel Enttäuschung")
 
 Service Stiftung Warentest
 
