@@ -256,7 +256,7 @@ We Champion Freedom & Self-Reliance
         
         ###### 72-Hour Emergency Survival Food Kit
         
-        2247 reviews](https://4patriots.com/products/72-hour-survival-food-kit)
+        2248 reviews](https://4patriots.com/products/72-hour-survival-food-kit)
         
         [![ 4Patriots Black bean burger mix kit individual pouches. 96 servings.](//4patriots.com/cdn/shop/products/ARRAY-BBB1-KIT_360x.jpg?v=1664803105)
         
