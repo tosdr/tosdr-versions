@@ -1,95 +1,117 @@
-[![Rocksteady Music School](/static/rocksteady-logo-4c9a1c9b0502a8cfd253ed47fc95e78f.png)](https://www.rocksteadymusicschool.com/)
+[Parent Sign-up](https://booking.rocksteadymusicschool.com/) [Parent Login](https://backstage.rocksteadymusicschool.com/sign-in)
 
-[For Parents](https://www.rocksteadymusicschool.com/info-for-parents/)[For Schools](https://www.rocksteadymusicschool.com/info-for-schools/)[Careers](https://www.rocksteadymusicschool.com/careers/)
+[](https://www.rocksteadymusicschool.com/ "Home page")
 
-[Parent Login](https://backstage.rocksteadymusicschool.com/sign-in)
+[Home](https://www.rocksteadymusicschool.com/)
 
-[Contact](https://www.rocksteadymusicschool.com/contact/)
+* [ParentsParents](https://www.rocksteadymusicschool.com/parents/)
+* [SchoolsSchools](https://www.rocksteadymusicschool.com/schools/)
+* [CareersCareers](https://www.rocksteadymusicschool.com/careers/)
+    * [Why work for us?](https://www.rocksteadymusicschool.com/careers/)
+    * [Teaching roles](https://www.rocksteadymusicschool.com/careers/teaching/)
+    * [Support roles](https://www.rocksteadymusicschool.com/careers/office/)
+* [ContactContact](https://www.rocksteadymusicschool.com/contact/)
 
-[![Rocksteady Music School](/static/rocksteady-logo-4c9a1c9b0502a8cfd253ed47fc95e78f.png)](https://www.rocksteadymusicschool.com/)
+[Parent Sign-up](https://booking.rocksteadymusicschool.com/) [Parent Login](https://backstage.rocksteadymusicschool.com/sign-in)
 
-MENU
+* [ParentsParents](https://www.rocksteadymusicschool.com/parents/)
+* [SchoolsSchools](https://www.rocksteadymusicschool.com/schools/)
+* [CareersCareers](https://www.rocksteadymusicschool.com/careers/)
+    * [Why work for us?](https://www.rocksteadymusicschool.com/careers/)
+    * [Teaching roles](https://www.rocksteadymusicschool.com/careers/teaching/)
+    * [Support roles](https://www.rocksteadymusicschool.com/careers/office/)
+* [ContactContact](https://www.rocksteadymusicschool.com/contact/)
 
-[Cookie Policy](https://www.rocksteadymusicschool.com/cookie-policy/)
-=====================================================================
+[Parent Sign-up](https://booking.rocksteadymusicschool.com/) [Parent Login](https://backstage.rocksteadymusicschool.com/sign-in)
+
+![](https://www.rocksteadymusicschool.com/wp-content/uploads/2024/09/legal-header-mobile.jpg) ![](https://www.rocksteadymusicschool.com/wp-content/uploads/2024/09/legal-header-duotone-3.jpg) 
+
+Cookie Policy
+=============
+
+Effective Date: 17-Sep-2024  
+Last Updated: 17-Sep-2024
 
 Cookies
--------
 
-### What is a cookie?
+What are cookies?
+-----------------
 
-A cookie is a small file that can be placed on your device that allows companies to recognise and remember you. When you visit our site, the 3rd party services we use may place analytics cookies on your device. This helps them collect data about their service and helps them display relevant content.
+This Cookie Policy explains what cookies are and how we use them, the types of cookies we use i.e, the information we collect using cookies and how that information is used, and how to manage the cookie settings.
 
-### Your preferences
+Cookies are small text files that are used to store small pieces of information. They are stored on your device when the website is loaded on your browser. These cookies help us make the website function properly, make it more secure, provide better user experience, and understand how the website performs and to analyze what works and where it needs improvement.
 
-Enable optional analytics cookies
+How do we use cookies?
+----------------------
 
-Update Preferences
+As most of the online services, our website uses first-party and third-party cookies for several purposes. First-party cookies are mostly necessary for the website to function the right way, and they do not collect any of your personally identifiable data.
 
-### What type of cookies do we use?
+The third-party cookies used on our website are mainly for understanding how the website performs, how you interact with our website, keeping our services secure, providing advertisements that are relevant to you, and all in all providing you with a better and improved user experience and help speed up your future interactions with our website.
 
-| Cookie | Name | Type | Purpose |
-| --- | --- | --- | --- |
-| Analytics Consent | analytics\_consent | Essential | This cookie is used to remember your choice about analytics cookies on your device. If you have previously indicated a preference, it will be stored in this cookie. |
-| Vimeo | \_\_qca, \_\_ssid, \_abexps, \_delighted\_web, \_fbp, \_ga, \_gcl\_au, \_mkto\_trk, \_uetvid, afUserId, auth\_redirect, continuous\_play\_v3, has\_logged\_in, is\_logged\_in, sd\_client\_id, vimeo, vimeo\_gdpr\_optin, player, vuid | Optional | We embed videos from our official Vimeo channel. When you press play Vimeo will drop third party cookies to enable the video to play and to collect analytics data such as how long a viewer has watched the video. These cookies do not track individuals. |
-| Google Analytics | \_ga, \_ga\_<container-id> | Optional | We use Google Analytics to monitor how people use our websites and digital systems, for example to see which pages are most popular. Google Analytics uses cookies to understand when users return to our sites. We use Google Analytics to track anonymous behaviour of users, and not to track individuals. |
-| Meta | fr, wd, c\_user, xs, presence, usida, sb, datr | Optional | We use the Meta Pixel to track website activity and run adverts based on that activity. For example, the Meta Pixel uses cookies to track when a user returns to our website. We only enable these cookies if you have opted-in to Analytics Consent. |
-| Twitter | d\_prefs, muc, muc\_ads, personalization\_id, guest\_id\_ads, guest\_id\_marketing, guest\_id, auth\_token, ga | Optional | We use the Twitter Pixel to track website activity and run adverts based on that activity. For example, the Twitter Pixel uses cookies to track when a user returns to our website. We only enable these cookies if you have opted-in to Analytics Consent. |
-| TikTok | tta\_attr\_id\_mirror, msToken, \_abck, \_ttp, tta\_attr\_id, ttwid, tt\_csrf\_token, tt\_chain\_token, cookie-consent | Optional | We use the TikTok Pixel to track website activity and run adverts based on that activity. For example, the TikTok Pixel uses cookies to track when a user returns to our website. We only enable these cookies if you have opted-in to Analytics Consent. |
-| LinkedIn | bcookie, bscookie, JSESSIONID, lang, lidc, sdsc, li\_gc, li\_mc, UID, UserMatchHistory, AnalyticsSyncHistory, lms\_ads, lms\_analytics, li\_fat\_id, li\_sugr, \_guid, BizographicsOptOut, li\_giant | Optional | We use the LinkedIn Insight Tag to track website activity and run adverts based on that activity. For example, the LinkedIn Insight Tag uses cookies to track when a user returns to our website. We only enable these cookies if you have opted-in to Analytics Consent. |
+   
 
-[](#)
+Types of Cookies we use
+-----------------------
+
+ 
+
+Manage cookie preferences
+-------------------------
+
+Cookie Settings  
+
+You can change your cookie preferences any time by clicking the above button. This will let you revisit the cookie consent banner and change your preferences or withdraw your consent right away.
+
+In addition to this, different browsers provide different methods to block and delete cookies used by websites. You can change the settings of your browser to block/delete the cookies. Listed below are the links to the support documents on how to manage and delete cookies from the major web browsers.
+
+Chrome: [https://support.google.com/accounts/answer/32050](https://support.google.com/accounts/answer/32050)
+
+Safari: [https://support.apple.com/en-in/guide/safari/sfri11471/mac](https://support.apple.com/en-in/guide/safari/sfri11471/mac)
+
+Firefox: [https://support.mozilla.org/en-US/kb/clear-cookies-and-site-data-firefox?redirectslug=delete-cookies-remove-info-websites-stored&redirectlocale=en-US](https://support.mozilla.org/en-US/kb/clear-cookies-and-site-data-firefox?redirectslug=delete-cookies-remove-info-websites-stored&redirectlocale=en-US)
+
+Internet Explorer: [https://support.microsoft.com/en-us/topic/how-to-delete-cookie-files-in-internet-explorer-bca9446f-d873-78de-77ba-d42645fa52fc](https://support.microsoft.com/en-us/topic/how-to-delete-cookie-files-in-internet-explorer-bca9446f-d873-78de-77ba-d42645fa52fc)
+
+If you are using any other web browser, please visit your browser’s official support documents.
+
+[](https://www.facebook.com/rocksteadymusicschool)
+
+[](https://twitter.com/rsmusicschool)
+
+[](https://www.instagram.com/rocksteadymusicschool/)
+
+[](https://www.linkedin.com/company/rocksteady-music-school/)
 
 Quick Links
-
-Legal info
-
-Contact
 
 * [Home](https://www.rocksteadymusicschool.com/)
 * [Parent Login](https://backstage.rocksteadymusicschool.com/sign-in)
 * [School Login](https://portal.rocksteadymusicschool.com/)
-* [Sign Up For Lessons](https://booking.rocksteadymusicschool.com/)
 * [Careers](https://www.rocksteadymusicschool.com/careers/)
-* [Contact Us](https://www.rocksteadymusicschool.com/contact/)
-* [Rocksteady Foundation](https://www.rocksteadymusicschool.com/foundation/)
+* [Contact](https://www.rocksteadymusicschool.com/contact/)
+
+Legal Info
 
 * [Privacy Notice](https://www.rocksteadymusicschool.com/privacy-notice/)
 * [Cookie Policy](https://www.rocksteadymusicschool.com/cookie-policy/)
-* [Website Terms & Conditions](https://www.rocksteadymusicschool.com/terms-conditions/)
-* [Safeguarding Policy](https://www.rocksteadymusicschool.com/safeguarding-policy/)
-* [Job Privacy Notice](https://www.rocksteadymusicschool.com/job-application-policy/)
+* [Website Terms & Conditions](https://www.rocksteadymusicschool.com/website-terms-conditions/)
+* [Safeguarding Policy](https://www.rocksteadymusicschool.com/wp-content/uploads/2024/09/Child-Safeguarding-Policy-2024-25-Rocksteady-Music-School.pdf)
+* [Job Privacy Notice](https://www.rocksteadymusicschool.com/wp-content/uploads/2024/08/Rocksteady_Job_Applicants_Privacy_Notice_1.pdf)
+* [Gender Pay Gap](https://www.rocksteadymusicschool.com/gender-pay-gap/)
 
-Rocksteady Music School, Bohunt Manor, Portsmouth Road, Liphook, Hampshire, GU30 7DL
+Address
 
-[info@rocksteadymusicschool.com](mailto:info@rocksteadymusicschool.com)  
-[0330 113 0330](tel:+443301130330)  
-(Calls are charged at local rate)
+Rocksteady Music School,  
+Bohunt Manor, Portsmouth Road,  
+Liphook, Hampshire,  
+GU30 7DL
 
 Contact
 
-Rocksteady Music School, Bohunt Manor, Portsmouth Road, Liphook, Hampshire, GU30 7DL
+[info@rocksteadymusicschool.com](mailto:info@rocksteadymusicschool.com) [0330 113 0330 - Parents](tel:0330 113 0330 - Parents) [0330 113 0401 - Schools](tel:0330 113 0401 - Schools) (Calls are charged at local rate)
 
-[info@rocksteadymusicschool.com](mailto:info@rocksteadymusicschool.com)  
-[0330 113 0330](tel:+443301130330)  
-(Calls are charged at local rate)
+[](https://www.rocksteadymusicschool.com/ "Home page")
 
-![celebrating 16 years of rocksteady](/static/rocksteady-16yr-logo-3cb01c1e59dbc5cc1345e4142028a63c.png)
-
-![wellbeing resource of the year](/static/wellbeing-resource-black-bfd098c01017a8ad1c454f4465f4ceb3.png)
-
-* * *
-
-[![facebook](/static/fb-logo-f5f2395563f2fc3c515a6f444a34ffe7.png)](https://www.facebook.com/rocksteadymusicschool)[![instagram](/static/instagram-logo-f427284279595ddc4fbf9f2fdd4b4f0e.png)](https://www.instagram.com/rocksteadymusicschool/)[![twitter](/static/x-logo-f64a1389a58af4a82589a0859c028b49.png)](https://twitter.com/rsmusicschool)[![linkedin](/static/linkedin-logo-10314fa7aabe39db99f15e4f038dfdaa.png)](https://www.linkedin.com/company/rocksteady-music-school/)
-
-* * *
-
-![rocksteady](/static/rocksteady-logo-paint-it-black-20dfda38076c798f71980df6549997b8.png)
-
-![celebrating 16 years of rocksteady](/static/rocksteady-16yr-logo-3cb01c1e59dbc5cc1345e4142028a63c.png)
-
-![rocksteady](/static/rocksteady-logo-paint-it-black-20dfda38076c798f71980df6549997b8.png)
-
-![wellbeing resource of the year](/static/wellbeing-resource-black-bfd098c01017a8ad1c454f4465f4ceb3.png)
+![](https://www.rocksteadymusicschool.com/wp-content/uploads/2024/09/17-Years-1.svg) ![](https://www.rocksteadymusicschool.com/wp-content/uploads/2024/08/Trinity-Logo.svg) ![](https://www.rocksteadymusicschool.com/wp-content/uploads/2024/08/Wellbeing.svg)
 
 © 2024 Rocksteady Music School
