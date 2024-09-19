@@ -23,8 +23,8 @@ Popular Games
 
 Latest game news
 
-* [FREEDOM WARS REMASTERED brings the hit PlayStation Vita action game to PC and consoles, coming january 2025](https://en.bandainamcoent.eu/freedom-wars/news/freedom-wars-remastered-brings-the-hit-playstation-vita-action-game-pc-and)
-* [Secrets of UNKNOWN 9 Revealed – Interview with Producer Thea Danielak](https://en.bandainamcoent.eu/news/secrets-of-unknown-9-revealed-interview-producer-thea-danielak)
+* [That Time I Got Reincarnated as a Slime ISEKAI Chronicles gets a new DLC today!](https://en.bandainamcoent.eu/time-i-got-reincarnated-slime-isekai-chronicles/news/time-i-got-reincarnated-slime-isekai-1)
+* [ARMORED CORE VI FIRES OF RUBICON - Ranked Match Season Update Notice (September 2024)](https://en.bandainamcoent.eu/armored-core/news/armored-core-vi-fires-of-rubicon-ranked-match-season-update-notice-september-2024)
 
    ![](/themes/custom/bne_main/images/newsletter/banner-newsletter.jpg?1648764000)
 
