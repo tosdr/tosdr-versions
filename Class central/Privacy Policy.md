@@ -413,38 +413,38 @@ The future of Coursera’s only credible alternative for universities rests in t
 Most common
 -----------
 
-1. English
+1. python
     
-2. data science
+2. excel
     
-3. psychology
+3. trading
     
 
 Popular subjects
 ----------------
 
-1. [Software Development
+1. [Computer Science
     
-    7,938 courses](https://www.classcentral.com/subject/software-development)
+    31,434 courses](https://www.classcentral.com/subject/cs)
 2. [Data Analysis
     
     7,557 courses](https://www.classcentral.com/subject/data-analysis)
-3. [Computer Science
+3. [Cybersecurity
     
-    31,434 courses](https://www.classcentral.com/subject/cs)
+    15,094 courses](https://www.classcentral.com/subject/cybersecurity)
 
 Popular courses
 ---------------
 
-1. [Mindshift: Break Through Obstacles to Learning and Discover Your Hidden Potential
+1. [Tsinghua Chinese: Start Talking with 1.3 Billion People
     
-    McMaster University](https://www.classcentral.com/course/mindshift-8289)
-2. [Understanding the GDPR
+    Tsinghua University](https://www.classcentral.com/course/language-tsinghua-university-tsinghua-chinese-sta-5426)
+2. [Marketing Innovative Products and Services
     
-    University of Groningen](https://www.classcentral.com/course/general-data-protection-regulation-9403)
-3. [Functional Foods and Nutraceuticals
+    University System of Maryland](https://www.classcentral.com/course/marketing-the-university-of-maryland-college-park-19176)
+3. [Learning How to Learn: Powerful mental tools to help you master tough subjects
     
-    Rashtrasant Tukadoji Maharaj Nagpur University, Nagpur](https://www.classcentral.com/course/swayam-functional-foods-and-nutraceuticals-14069)
+    Deep Teaching Solutions](https://www.classcentral.com/course/learning-how-to-learn-2161)
 
 ![](https://ccweb.imgix.net/https%3A%2F%2Fwww.classcentral.com%2Fimages%2Flists%2Flist-empty.png?auto=format&ixlib=php-4.1.0&w=100&s=d64b43c1b6dcf041e56fce6ac1794fcf)
 
