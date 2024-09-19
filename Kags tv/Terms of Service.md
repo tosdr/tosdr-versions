@@ -29,13 +29,13 @@ Navigation
     
     Latest News Stories
     
+    *  [![](https://media.kagstv.com/assets/KAGS/images/71e95dcb-0525-4400-ac28-5146120b2a8e/71e95dcb-0525-4400-ac28-5146120b2a8e_16x9.jpg) ![](https://media.kagstv.com/assets/KAGS/images/71e95dcb-0525-4400-ac28-5146120b2a8e/71e95dcb-0525-4400-ac28-5146120b2a8e_360x203.jpg)](https://www.kagstv.com/article/news/crime/bryan-high-school-student-arrested-after-being-found-with-weapon-sept-18-2024/500-6313e0cc-7ac2-40a4-a837-17076898e413)
+        
+        #### [Student arrested after being found with gun at Bryan High School](https://www.kagstv.com/article/news/crime/bryan-high-school-student-arrested-after-being-found-with-weapon-sept-18-2024/500-6313e0cc-7ac2-40a4-a837-17076898e413)
+        
     *  [![](https://media.kagstv.com/assets/KCEN/images/1145194d-c267-4b43-bc57-feb05f3f58b1/1145194d-c267-4b43-bc57-feb05f3f58b1_16x9.jpg) ![](https://media.kagstv.com/assets/KCEN/images/1145194d-c267-4b43-bc57-feb05f3f58b1/1145194d-c267-4b43-bc57-feb05f3f58b1_360x203.jpg)](https://www.kagstv.com/article/news/crime/cameron-man-pleads-guilty-beating-7-year-old-daughter/500-f206756b-9ff3-4076-9d7e-2ea387db8053)
         
         #### [Cameron man pleads guilty to 3rd degree felony for injuring a child](https://www.kagstv.com/article/news/crime/cameron-man-pleads-guilty-beating-7-year-old-daughter/500-f206756b-9ff3-4076-9d7e-2ea387db8053)
-        
-    *  [![](https://media.kagstv.com/assets/KHOU/images/acae8d2f-0c51-4d70-b4bd-c4ea5b2d313b/20240916T184323/acae8d2f-0c51-4d70-b4bd-c4ea5b2d313b_16x9.jpg) ![](https://media.kagstv.com/assets/KHOU/images/acae8d2f-0c51-4d70-b4bd-c4ea5b2d313b/20240916T184323/acae8d2f-0c51-4d70-b4bd-c4ea5b2d313b_360x203.jpg)](https://www.kagstv.com/article/news/local/pipeline-fire-spencer-highway-la-porte-texas/285-0a30fb6b-bfa7-40a6-995f-00a463372487)
-        
-        #### [Pipeline fire continues to burn in Deer Park | What we know right now](https://www.kagstv.com/article/news/local/pipeline-fire-spencer-highway-la-porte-texas/285-0a30fb6b-bfa7-40a6-995f-00a463372487)
         
     
 * [Weather](https://www.kagstv.com/weather/)
@@ -86,9 +86,9 @@ Navigation
 
 Bryan, TX »
 
-95°
+86°
 
-![Mostly Cloudy](/assets/shared-images/weather-icons/mostly-cloudy-day_210x210.png)
+![Clear](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
 
 Bryan, TX »](https://www.kagstv.com/weather)
 
