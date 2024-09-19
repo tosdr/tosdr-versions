@@ -527,7 +527,7 @@ Cc-visa Cc-mastercard Cc-amex Cc-discover Cc-paypal
 
 © 2024 TV Ears, Inc. All rights reserved
 
-0
+3
 
 Our Products
 ------------
@@ -577,12 +577,58 @@ My cart
 
 Close cart
 
-Your cart is empty.
+[![](https://www.tvears.com/wp-content/uploads/2019/01/TV-Ears-Original-System-front-view-247x247.jpg)](https://www.tvears.com/product/original-system/)
 
-Looks like you haven't made a choice yet.
+[TV Ears Original System](https://www.tvears.com/product/original-system/)
+
+−  +
+
+ ~**MSRP:**$119.95~ COUPON: _$107.96_
+
+[![Hearing aids vs hearing amplifiers](https://www.tvears.com/wp-content/uploads/2019/01/11741-DigSystem-B00E4JWRK4_front-view-247x247.jpg)](https://www.tvears.com/product/digital-system/)
+
+[TV Ears Digital System](https://www.tvears.com/product/digital-system/)
+
+−  +
+
+ ~**MSRP:**$179.95~ COUPON: _$161.96_
+
+[![](https://www.tvears.com/wp-content/uploads/2019/12/TV-Ears_22741-long_range_digital_system-front-247x247.jpg)](https://www.tvears.com/product/5-8-digital-system/)
+
+[TV Ears Long Range 5.8 Digital System](https://www.tvears.com/product/5-8-digital-system/)
+
+−  +
+
+ ~**MSRP:**$199.95~ COUPON: _$179.96_
 
 Got a discount code?
 
  Apply
 
-Your cart is empty. Shop now
+ADD TO UNLOCK ADDITIONAL SAVINGS!
+
+[![TV Ears_20234-long_range_speaker_front](https://www.tvears.com/wp-content/uploads/2022/07/TV-Ears_20234-long_range_speaker_front-280x280.jpg)](https://www.tvears.com/product/speaker/)
+
+[TV Ears - Speaker Only](https://www.tvears.com/product/speaker/)
+
+$189.95
+
+[](#)
+
+[![](https://www.tvears.com/wp-content/uploads/2019/12/58headset-main-280x280.jpg)](https://www.tvears.com/product/5-8-digital-headset/)
+
+[Long Range 5.8 Digital Headset](https://www.tvears.com/product/5-8-digital-headset/)
+
+$99.95
+
+[](#)
+
+[![TV Ears_40738-slidetips-front](https://www.tvears.com/wp-content/uploads/2022/07/TV-Ears_40738-slidetips-front-280x280.jpg)](https://www.tvears.com/product/slide-tips/)
+
+[Ear Tips](https://www.tvears.com/product/slide-tips/)
+
+$19.95
+
+[](#)
+
+[Checkout now](https://www.tvears.com/checkout/)
