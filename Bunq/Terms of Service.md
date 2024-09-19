@@ -315,7 +315,7 @@ Open your account in just 5 minutes, directly from your phone.
 
 [Get started](https://app.adjust.com/dqvbt6?engagement_type=fallback_click&fallback=https%3A%2F%2Fweb.bunq.com%2Fsignup&redirect_macos=https%3A%2F%2Fweb.bunq.com%2Fsignup%3Ftracker_token%3Ddqvbt6)
 
-![](https://framerusercontent.com/images/2iCN2PrPmofvHFDjQmBNerAfA.png)
+![](https://framerusercontent.com/images/y6dCrezjZfLrMAl319NLwa4SYA.png?scale-down-to=2048)
 
 Start your 30-day free trial
 ----------------------------
@@ -324,7 +324,7 @@ Open your account in just 5 minutes, directly from your phone.
 
 [Get started](https://app.adjust.com/dqvbt6?engagement_type=fallback_click&fallback=https%3A%2F%2Fweb.bunq.com%2Fsignup&redirect_macos=https%3A%2F%2Fweb.bunq.com%2Fsignup%3Ftracker_token%3Ddqvbt6)
 
-![](https://framerusercontent.com/images/2iCN2PrPmofvHFDjQmBNerAfA.png)
+![](https://framerusercontent.com/images/y6dCrezjZfLrMAl319NLwa4SYA.png?scale-down-to=2048)
 
 Start your 30-day free trial
 ----------------------------
@@ -333,7 +333,7 @@ Open your account in just 5 minutes, directly from your phone.
 
 [Get started](https://app.adjust.com/dqvbt6?engagement_type=fallback_click&fallback=https%3A%2F%2Fweb.bunq.com%2Fsignup&redirect_macos=https%3A%2F%2Fweb.bunq.com%2Fsignup%3Ftracker_token%3Ddqvbt6)
 
-![](https://framerusercontent.com/images/2iCN2PrPmofvHFDjQmBNerAfA.png)
+![](https://framerusercontent.com/images/y6dCrezjZfLrMAl319NLwa4SYA.png?scale-down-to=2048)
 
 [![bunq logo](https://framerusercontent.com/images/Tjb3L7naijsE5eqhFslwQ8MN60.svg)](https://www.bunq.com/assets/media/legal/en/)
 
