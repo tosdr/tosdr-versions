@@ -292,7 +292,7 @@ Customer Care
 * [FAQs](https://www.furtherfood.com/a/faq)
 * [Contact Us](https://www.furtherfood.com/pages/contact-us)
 * [Accessibility](https://www.furtherfood.com/pages/accessibility)
-* [Wholesale Login](https://shopify.com/25277032/account)
+* [Give $10, Get $10](https://furtherfood.referralcandy.com/)
 
 Our Company
 -----------
@@ -300,7 +300,8 @@ Our Company
 * [About Us](https://www.furtherfood.com/pages/our-story)
 * [Our Mission](https://www.furtherfood.com/pages/our-mission)
 * [Resale Policy](https://www.furtherfood.com/pages/authorized-resale-policy)
-* [Give $10. Get $10](https://furtherfood.referralcandy.com/)
+* [Wholesale Login](https://shopify.com/25277032/account)
+* [Wholesale Collection](https://www.furtherfood.com/collections/further-food-wholesale)
 
 Terms
 -----
