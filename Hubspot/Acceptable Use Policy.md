@@ -217,7 +217,7 @@ If you use email, we recommend that you adopt the Messaging, Malware and Mobile
 c. You may not email purchased lists. 
 
 You are prohibited from using the HubSpot Service to engage in email practices that are likely to have high levels of bounces, increased spam complaints, and the potential for blocklisting by anti-spam providers, including but not limited to the following:    
-(i) emailing purchased, rented, or borrowed lists;, and   
+(i) emailing purchased, rented, or borrowed lists;   
 (ii) email appending and/or sending non-permission based email where prohibited (for example, in violation of the consent requirements outlined in Canada’s Anti-Spam Legislation (CASL) and the European Union’s General Data Protection Regulation (GDPR), among others);   
 (iii) engaging with email recipients or content lists that are likely to result in an excessive number of unsubscribe requests or Spam complaints or notices, as determined by acceptable industry practices.  
 
@@ -269,7 +269,7 @@ These restrictions apply regardless of your intent and whether or not you act in
 
 You will respect the limits that apply to your use of the HubSpot Service as specified in the Product and Services Catalog available at [http://legal.hubspot.com/hubspot-product-and-services-catalog](https://legal.hubspot.com/hubspot-product-and-services-catalog) (the “Service Limits”). We may update or change these Service Limits by updating [http://legal.hubspot.com/hubspot-product-and-services-catalog](https://legal.hubspot.com/hubspot-product-and-services-catalog), so we encourage you to review this page periodically.
 
-If you store any information belonging to a sensitive category of information under applicable law relating to privacy or data protection, you must adhere to the standards and obligations reflected in the HubSpot Sensitive Data Terms available at https://legal.hubspot.com/sensitive-data-terms.  For the avoidance of doubt, you may not (directly or indirectly) use the HubSpot Service in a way that i) uses Permitted Sensitive Data in a service or feature not expressly permitted by HubSpot Sensitive Data Terms, ii) includes any Prohibited Sensitive Data, iii) otherwise stores or uses Permitted Sensitive Data in an unprotected manner or in violation of applicable regulation.  
+If you store any information belonging to a sensitive category of information under applicable law relating to privacy or data protection, you must adhere to the standards and obligations reflected in the HubSpot Sensitive Data Terms available at [https://legal.hubspot.com/sensitive-data-terms](https://legal.hubspot.com/sensitive-data-terms).  For the avoidance of doubt, you may not (directly or indirectly) use the HubSpot Service in a way that i) uses Permitted Sensitive Data in a service or feature not expressly permitted by HubSpot Sensitive Data Terms, ii) includes any Prohibited Sensitive Data, iii) otherwise stores or uses Permitted Sensitive Data in an unprotected manner or in violation of applicable regulation.  
 
 In addition, and without limiting the other requirements in this AUP, you may not (directly or indirectly) use the HubSpot Service with content, or in a manner that:
 
