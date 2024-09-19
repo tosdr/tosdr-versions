@@ -138,6 +138,7 @@ The F-Droid project was founded in 2010 by Ciaran Gultnieks, and is brought to y
 * [Sveinn í Felli](https://hosted.weblate.org/user/sveinki)
 * [Sylvia van Os](https://gitlab.com/TheLastProject)
 * Takumi Shoji
+* [Thore Göbel](https://gitlab.com/thgoebel)
 * Tias Guns
 * Tobias Kuban
 * Torsten Grote
@@ -179,34 +180,34 @@ F-Droid is powered by your donations!
 
 ### Last Updated
 
-[![](https://f-droid.org/repo/xyz.apiote.bimba.czwek/en/icon_FDJ5OEjVG8QC2w1VqOh8oryRHRpqC3B4Ddmk3n-elGM=.png)
+[![](https://f-droid.org/repo/org.y20k.escapepod/en-US/icon_xK1u54mnPFLYtmXZHy_WpIrcn0GKWco0XxicFSjDu0U=.png)
 
-#### Bimba
+#### Escapepod - Podcast Player
 
-FLOSS public transport passenger companion; a timetable in your pocket.](https://f-droid.org/en/packages/xyz.apiote.bimba.czwek/)[![](https://f-droid.org/repo/v4lpt.vpt.f036.esw/en-US/icon_YMJSZ1Le9dWBiEIxhwttD8JDPD0Sh1--c-bp2ga9P3M=.png)
+Escapepod is a simple and lightweight app for listening to podcasts.](https://f-droid.org/en/packages/org.y20k.escapepod/)[![](https://f-droid.org/repo/org.woheller69.omweather/en-US/icon_E3rAVMKaoXV3S6EdjZbr8Ah3yVuGV4teI7GOx4SRxl4=.png)
 
-#### Valentin's PowerTools #036 - Ease The Waiting
+#### Cirrus
 
-A mix between a calendar and a clock that makes you wait faster.](https://f-droid.org/en/packages/v4lpt.vpt.f036.esw/)[![](https://f-droid.org/repo/v4lpt.vpt.f012.ryp/en-US/icon_cNDSBx9nLlOKnXLYQY2KM0DUN_lZ4qTRirG4Q_xYv4Y=.png)
+Weather and rain radar for any location - worldwide](https://f-droid.org/en/packages/org.woheller69.omweather/)[![](https://f-droid.org/repo/org.piepmeyer.gauguin/en-US/icon_Pp0IthYj4RE6O_3BQcd_ApZWV8iNei9l_LspIKJIoak=.png)
 
-#### Valentin's PowerTools #012 - Rate Your Pics
+#### Gauguin
 
-Rate your pictures very quickly.](https://f-droid.org/en/packages/v4lpt.vpt.f012.ryp/)
+A Sudoku-like logic game](https://f-droid.org/en/packages/org.piepmeyer.gauguin/)
 
 ### Latest Apps
 
-[![](https://f-droid.org/repo/v4lpt.vpt.f036.esw/en-US/icon_YMJSZ1Le9dWBiEIxhwttD8JDPD0Sh1--c-bp2ga9P3M=.png)
+[![](https://f-droid.org/repo/straw.berry/en-US/icon_zrfbqJ9UARHCFDHM6GIEgV1WbZv5auvg3F6k-WSTUjo=.png)
 
-#### Valentin's PowerTools #036 - Ease The Waiting
+#### 🍓🍓🍓
 
-A mix between a calendar and a clock that makes you wait faster.](https://f-droid.org/en/packages/v4lpt.vpt.f036.esw/)[![](https://f-droid.org/repo/v4lpt.vpt.f012.ryp/en-US/icon_cNDSBx9nLlOKnXLYQY2KM0DUN_lZ4qTRirG4Q_xYv4Y=.png)
+Strawberry is strawberry, strawberry 🍓🍓🍓](https://f-droid.org/en/packages/straw.berry/)[![](https://f-droid.org/repo/rocks.poopjournal.fucksgiven/en-US/icon_YCIwKb3mPGmMcdm6gDvkfFC7wyL6Wn7oxvJZTWmUtWA=.png)
 
-#### Valentin's PowerTools #012 - Rate Your Pics
+#### Fucks Given
 
-Rate your pictures very quickly.](https://f-droid.org/en/packages/v4lpt.vpt.f012.ryp/)[![](https://f-droid.org/repo/me.velc.devqs/en-US/icon_bpyX2iC_LAVwQ-4bKmhJznl7t-YRTt_G4WsxxmlXqe0=.png)
+﻿Self-love is the greatest middle finger of all time.](https://f-droid.org/en/packages/rocks.poopjournal.fucksgiven/)[![](https://f-droid.org/repo/de.codecivil.habsgleich/en-US/icon_tPCrCxhX2LrMHWxdJs0IAU-IdE4EINHG7WJr_u0ka28=.png)
 
-#### DevQS
+#### HabsGleich
 
-Quick Settings tiles for developers](https://f-droid.org/en/packages/me.velc.devqs/)
+HabsGleich is a mini diary with a mind test included.](https://f-droid.org/en/packages/de.codecivil.habsgleich/)
 
-© 2010-2024 F-Droid Contributors (F-Droid 2024-09-13, fdroid-website [2.261](https://gitlab.com/fdroid/fdroid-website/tree/ba0b27a097)) [Status](https://fdroidstatus.org/) | [Edit on GitLab](https://gitlab.com/fdroid/fdroid-website/edit/master/)
+© 2010-2024 F-Droid Contributors (F-Droid 2024-09-19, fdroid-website [2.266](https://gitlab.com/fdroid/fdroid-website/tree/f5dc9eea46)) [Status](https://fdroidstatus.org/) | [Edit on GitLab](https://gitlab.com/fdroid/fdroid-website/edit/master/)
