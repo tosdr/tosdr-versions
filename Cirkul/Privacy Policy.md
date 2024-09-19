@@ -581,6 +581,8 @@ Email Address
 
 ![Submit](//drinkcirkul.com/cdn/shop/files/2021-submit-arrow.svg?v=99064018637792798)
 
+By signing up, you agree to receive Cirkul news and offers via email.
+
 * [Try Cirkul](https://drinkcirkul.com/pages/bundle-builder)
 * [Plans](https://drinkcirkul.com/pages/plans)
 * [Products](https://drinkcirkul.com/products)
