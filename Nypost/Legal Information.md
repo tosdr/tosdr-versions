@@ -76,9 +76,9 @@ Search
 
 Search
 
-#### Breaking News
+#### New poll
 
-[Cornell professor that cheered Hamas’ Oct. 7 attack sparks more outrage after marching in anti-Israel protest](https://nypost.com/2024/09/19/us-news/cornell-professor-russell-rickford-who-cheered-hamas-oct-7-attack-marches-in-anti-israel-protest/)
+[Hochul's favorability falls below Trump’s among NY voters](https://nypost.com/2024/09/19/us-news/embargo-thurs-530am-hochuls-favorability-falls-below-trumps-amongst-ny-voters/)
 
 Privacy Notice Highlights
 =========================
