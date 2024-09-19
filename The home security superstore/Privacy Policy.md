@@ -1,12 +1,12 @@
 [Skip to content](#site-main)
 
-[TOP 5 STUN BATONS 15% OFF I Code: STUNBAT15](https://www.thehomesecuritysuperstore.com/collections/top-5-stun-batons?utm_source=website&utm_medium=banner&utm_campaign=TOP+5+STUN+BATONS+15%25+OFF)
+[15% OFF SITEWIDE SALE I Use Code: SAVE15%](https://www.thehomesecuritysuperstore.com/collections/homepage-high-recommended-products?view_all=true&utm_source=website&utm_medium=banner&utm_campaign=15%25+OFF+SITEWIDE+Code%3A+OFF15)
 
-Today’s offer: :: | TOP 5 STUN BATONS 15% OFF I Code: STUNBAT15
+Today’s offer: :: | 15% OFF SITEWIDE SALE I Use Code: SAVE15%
 
 Today’s offer: : :
 
- TOP 5 STUN BATONS 15% OFF I Code: STUNBAT15
+ 15% OFF SITEWIDE SALE I Use Code: SAVE15%
 
  [![Menu icon](//www.thehomesecuritysuperstore.com/cdn/shop/t/278/assets/thsss-icon-menu.svg?v=3386669279103324361717265611) Menu](#)
 
