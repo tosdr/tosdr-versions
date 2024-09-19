@@ -13,6 +13,8 @@
         
     * [On Sale](https://www.smithbrothersfarms.com/on-special)
         
+    * [Fall Favorites](https://www.smithbrothersfarms.com/fall-favorites)
+        
     * [Milk & Cream](https://www.smithbrothersfarms.com/milk-cream)
         
         * BACK
@@ -188,9 +190,11 @@ Hi
     * BACK
     * [All Products](https://www.smithbrothersfarms.com/all-products)
         
-    * [New! (69)](https://www.smithbrothersfarms.com/featured-products)
+    * [New! (68)](https://www.smithbrothersfarms.com/featured-products)
         
     * [On Sale (25)](https://www.smithbrothersfarms.com/on-special)
+        
+    * [Fall Favorites (38)](https://www.smithbrothersfarms.com/fall-favorites)
         
     * [Milk & Cream (56)](https://www.smithbrothersfarms.com/milk-cream)
         
@@ -232,7 +236,7 @@ Hi
         * [Eggs (7)](https://www.smithbrothersfarms.com/eggs)
             
         
-    * [Cheese (51)](https://www.smithbrothersfarms.com/cheese)
+    * [Cheese (50)](https://www.smithbrothersfarms.com/cheese)
         
         * BACK
         * [Block Cheese (4)](https://www.smithbrothersfarms.com/blocks)
@@ -243,7 +247,7 @@ Hi
             
         * [Cream Cheese (9)](https://www.smithbrothersfarms.com/cream-cheese)
             
-        * [Artisan Cheese (10)](https://www.smithbrothersfarms.com/other-cheese)
+        * [Artisan Cheese (9)](https://www.smithbrothersfarms.com/other-cheese)
             
         * [Single Serve (11)](https://www.smithbrothersfarms.com/single-serve-cheeses)
             
