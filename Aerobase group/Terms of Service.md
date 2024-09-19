@@ -150,6 +150,16 @@ For further information regarding the applicable laws, regulations, and policies
 
 #### Defense News
 
+* [Air Force’s information warfare hub seeks high-tech sensors, AI tools](https://www.defensenews.com/air/2024/09/19/air-forces-information-warfare-hub-seeks-high-tech-sensors-ai-tools/)  
+    09/19/24 02:01pm  
+    
+    The Air Force's information warfare enterprise is evaluating its technology needs, including advanced sensors and AI tools. (Senior Airman Nicholas Byers/U.S. Air Force)
+    
+* [Air Force to deploy Ospreys in weeks as post-crash groundings lift](https://www.defensenews.com/air/2024/09/19/air-force-to-deploy-ospreys-in-weeks-as-post-crash-groundings-lift/)  
+    09/19/24 11:46am  
+    
+    A crew chief marshals a CV-22B Osprey at Yokota Air Base, Japan, July 2, 2024. (A1C Samantha White/Air Force)
+    
 * [US has accepted 36 upgraded F-35s since lifting delivery pause](https://www.defensenews.com/air/2024/09/18/us-has-accepted-36-upgraded-f-35s-since-lifting-delivery-pause/)  
     09/18/24 03:51pm  
     
@@ -159,16 +169,6 @@ For further information regarding the applicable laws, regulations, and policies
     09/18/24 10:25am  
     
     A Marine looks out of an MV-22 Osprey aircraft over Marine Corps Air Station New River, North Carolina. (Cpl. Alexander Mitchell/Marine Corps)
-    
-* [US special ops cuts armed overwatch buy, still needs to justify need](https://www.defensenews.com/air/2024/09/18/us-special-ops-cuts-armed-overwatch-buy-still-needs-to-justify-need/)  
-    09/18/24 08:00am  
-    
-    U.S. Special Operations Command cut down its desired purchase of the AT-802U Sky Warden, but officials still need to justify the need, says a government watchdog. (L3Harris)
-    
-* [Air Force meets recruitment goals, eyes 20% increase in 2025](https://www.defensenews.com/news/your-air-force/2024/09/17/air-force-meets-recruitment-goals-eyes-20-increase-in-2025/)  
-    09/17/24 04:20pm  
-    
-    The Air Force plans to grow its recruiter ranks to help it meet an ambitious 2025 goal that is 20% over this year's target. (Master Sgt. Kevin Nichols/Air Force)
     
 
 Recent parts by keyword  
