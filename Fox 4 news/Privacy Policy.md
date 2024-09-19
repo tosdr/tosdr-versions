@@ -401,35 +401,35 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
- [![Fiery crash closes all lanes on northbound I-35 Thursday morning](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/V-I35E-CONTINENTAL-CAR-FIRE-_00.00.18.02.jpg?ve=1&tl=1)
+ [![Dallas police chief Eddie Garcia retiring to take job in Austin](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/7E2FCAD7220EF6E33A308454B6AC5B3B-0-1716215596232-1.jpg?ve=1&tl=1)
 
- ![Fiery crash closes all lanes on northbound I-35 Thursday morning](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/592/333/V-I35E-CONTINENTAL-CAR-FIRE-_00.00.18.02.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/fiery-crash-all-lanes-closed-northbound-i-35-thursday)
+ ![Dallas police chief Eddie Garcia retiring to take job in Austin](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/592/333/7E2FCAD7220EF6E33A308454B6AC5B3B-0-1716215596232-1.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/dallas-police-chief-eddie-garcia-retiring-austin-city-manager)
 
-### [Fiery crash closes all lanes on northbound I-35 Thursday morning](https://www.fox4news.com/news/fiery-crash-all-lanes-closed-northbound-i-35-thursday)
+### [Dallas police chief Eddie Garcia retiring to take job in Austin](https://www.fox4news.com/news/dallas-police-chief-eddie-garcia-retiring-austin-city-manager)
 
- [![North Texas Giving Day encourages support for local nonprofits](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/V_GIVING-DAY-CHARITIES-GET-CHECKS-5A_00.00.09.06.jpg?ve=1&tl=1)
+ [![18-wheeler driver charged after deadly DWI crash on Loop 820](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/091924-820-Fatal-Crash-KDFWEME003_03_44_04_mpg_00.09.14.10.jpg?ve=1&tl=1)
 
- ![North Texas Giving Day encourages support for local nonprofits](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/592/333/V_GIVING-DAY-CHARITIES-GET-CHECKS-5A_00.00.09.06.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/north-texas-giving-day-2024)
+ ![18-wheeler driver charged after deadly DWI crash on Loop 820](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/592/333/091924-820-Fatal-Crash-KDFWEME003_03_44_04_mpg_00.09.14.10.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/crash-820-s-loop-white-settlement)
 
-### [North Texas Giving Day encourages support for local nonprofits](https://www.fox4news.com/news/north-texas-giving-day-2024)
+### [18-wheeler driver charged after deadly DWI crash on Loop 820](https://www.fox4news.com/news/crash-820-s-loop-white-settlement)
 
- [![One dead, one in serious condition after crash on 820 South Freeway](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/091924-820-Fatal-Crash-KDFWEME003_03_44_04_mpg_00.09.14.10.jpg?ve=1&tl=1)
+ [![3-year-old girl dies in Arlington single-car crash](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/Deadly-crash.jpg?ve=1&tl=1)
 
- ![One dead, one in serious condition after crash on 820 South Freeway](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/592/333/091924-820-Fatal-Crash-KDFWEME003_03_44_04_mpg_00.09.14.10.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/crash-820-s-loop-white-settlement)
+ ![3-year-old girl dies in Arlington single-car crash](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/592/333/Deadly-crash.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/3-year-old-girl-dies-arlington-single-car-crash)
 
-### [One dead, one in serious condition after crash on 820 South Freeway](https://www.fox4news.com/news/crash-820-s-loop-white-settlement)
+### [3-year-old girl dies in Arlington single-car crash](https://www.fox4news.com/news/3-year-old-girl-dies-arlington-single-car-crash)
 
- [![Federal jail where Diddy is being held described as 'hell on earth'](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/GettyImages-1784892673.jpg?ve=1&tl=1)
+ [![State Fair of Texas gun ban allowed to stand](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/08/32/18/paxton-big-tex.jpg?ve=1&tl=1)
 
- ![Federal jail where Diddy is being held described as 'hell on earth'](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/592/333/GettyImages-1784892673.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/diddy-federal-jail-brooklyn-conditions-hell-on-earth)
+ ![State Fair of Texas gun ban allowed to stand](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/08/32/18/592/333/paxton-big-tex.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/state-fair-texas-gun-ban-allowed-stand)
 
-### [Federal jail where Diddy is being held described as 'hell on earth,' plagued by violence, poor conditions](https://www.fox4news.com/news/diddy-federal-jail-brooklyn-conditions-hell-on-earth)
+### [State Fair of Texas gun ban allowed to stand](https://www.fox4news.com/news/state-fair-texas-gun-ban-allowed-stand)
 
- [![Lewisville firefighters find body of drowned jet ski rider](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2019/08/32/18/27b7e856-0036C6.MXF_00.16.00.10_1530806524993_5758850_ver1.0.png?ve=1&tl=1)
+ [![You can now get verified on Uber; here's why](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/uber-getty.jpg?ve=1&tl=1)
 
- ![Lewisville firefighters find body of drowned jet ski rider](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2019/08/32/18/592/333/27b7e856-0036C6.MXF_00.16.00.10_1530806524993_5758850_ver1.0.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/lewisville-firefighters-find-man-who-drowned-during-jet-ski-ride)
+ ![You can now get verified on Uber; here's why](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/592/333/uber-getty.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/get-verified-uber-verification-heres-why)
 
-### [Lewisville firefighters find body of drowned jet ski rider](https://www.fox4news.com/news/lewisville-firefighters-find-man-who-drowned-during-jet-ski-ride)
+### [You can now get verified on Uber; here's why](https://www.fox4news.com/news/get-verified-uber-verification-heres-why)
 
 ###### [News](https://www.fox4news.com/news)
 
