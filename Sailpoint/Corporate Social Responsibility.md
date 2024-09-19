@@ -1,4 +1,4 @@
-[We’re back with Navigate 2024 - now in Orlando, FL! **Register now** to get the summer rate - $1,095 until 8/30](https://www.sailpoint.com/navigate)
+[We’re back with Navigate 2024 - now in Orlando, FL! **Register now** to get the summer rate - $1,095 until 8/30](https://live-events.sailpoint.com/45O21q)
 
 Close
 
