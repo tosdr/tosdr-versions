@@ -20,7 +20,7 @@ privacy
 
  ![Search](/theme_japantimes/images/search_icon.svg)
 
-[September 19, 2024](https://www.japantimes.co.jp/archive/2024/09/19/ "archive page")
+[September 20, 2024](https://www.japantimes.co.jp/archive/2024/09/20/ "archive page")
 
  [![The Japan Times](/theme_japantimes/images/logo-white-2.png)](https://www.japantimes.co.jp/ "The Japan Times")
 
@@ -566,23 +566,23 @@ Latest News
 
 [Hyogo assembly passes no-confidence motion against embattled governor](https://www.japantimes.co.jp/news/2024/09/19/japan/politics/hyogo-no-confidence-motion/ "Hyogo assembly passes no-confidence motion against embattled governor")
 
-19 mins ago
+6 hours ago
 
 [Nintendo sues 'Pokemon with guns' maker for patent infringement](https://www.japantimes.co.jp/business/2024/09/19/companies/nintendo-patent-suit/ "Nintendo sues 'Pokemon with guns' maker for patent infringement")
 
-2 hours ago
+8 hours ago
 
 [Boeing furloughs thousands as no progress made to resolve strike](https://www.japantimes.co.jp/business/2024/09/19/companies/boeing-furloughs-thousands-strike/ "Boeing furloughs thousands as no progress made to resolve strike")
 
-2 hours ago
+8 hours ago
 
 [Third TSMC plant in Japan remains up in the air](https://www.japantimes.co.jp/business/2024/09/19/companies/taiwan-boost-japan-investments/ "Third TSMC plant in Japan remains up in the air ") 
 
-3 hours ago
+9 hours ago
 
 [17% of kick scooter accidents caused by drunken drivers](https://www.japantimes.co.jp/news/2024/09/19/japan/crime-legal/japan-scooter-accidents/ "17% of kick scooter accidents caused by drunken drivers")
 
-3 hours ago
+9 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
