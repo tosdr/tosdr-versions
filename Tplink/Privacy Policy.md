@@ -1068,14 +1068,14 @@ Learning Center
 * [![tapo](https://static.tp-link.com/upload/menu/tapo_20231205034542j.png)](https://www.tapo.com/us/)
 * [![omada](https://static.tp-link.com/upload/menu/omada_20231205034833a.png)](https://www.tp-link.com/us/business-networking/)
 
-[United States / English](https://www.tp-link.com/us/choose-your-location/)
-
 ©2024 TP-Link Systems Inc. and its affiliated companies. All rights reserved.
 
 TP-Link, Tapo, Kasa, Omada, VIGI, Aginet, HomeShield, and Tapo Care branded products are products of TP-Link Systems Inc. or its affiliates.  
 Note: Some services and materials may require you to accept additional terms and conditions before access or use.  
 References to "TP-Link" may include TP-Link Systems Inc., its subsidiaries, or business units within the TP-Link corporate structure, as applicable.  
 The materials provided, including but not limited to press releases, presentations, blog posts, and webcasts, are current as of the date of publication and may be superseded by subsequent updates.
+
+[United States / English](https://www.tp-link.com/us/choose-your-location/)
 
     
 
