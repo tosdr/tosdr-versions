@@ -266,6 +266,18 @@ Recurs yearly
 
 Draco Malfoy
 
+#### Wed, Sep 25
+
+Colleen Atwood's Birthday
+
+Recurs yearly
+
+Costume Designer -FB
+
+Garrick Ollivander's birthday
+
+Recurs yearly
+
 MuggleNet podcasts are sponsored in part by [Secretlab](https://secretlab.co/harrypotter?rfsn=8013987.9df8fbc&utm_source=refersion&utm_medium=affiliate&utm_campaign=8013987.9df8fbc&utm_source=refersion&utm_medium=affiliate&utm_campaign=8013987.9df8fbc).
 
 ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
@@ -276,15 +288,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-The Ripley Scroll (England, 1570) teaches readers how to create the philosopher’s stone.
+In early notes, two school subjects were originally called Herbalism and Beasts. Divination and Alchemy were also listed as compulsory subjects.
 
 ### Potter History
 
-January 29, 2006 – Harry Potter and the Goblet of Fire is announced as the eighth-highest grossing film of all time.
+July 11, 2007 – Harry Potter and the Order of the Phoenix opens in United States theaters.
 
 ### Potter Quote
 
-“That brings \[Trelawney’s\] total of real predictions up to two. I should offer her a pay raise. . . .”
+“It’s S-P-E-W. Stands for the Society for the Promotion of Elfish Welfare.”
 
 [](#)
 
