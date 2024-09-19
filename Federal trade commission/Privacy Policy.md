@@ -18,8 +18,10 @@ Federal government websites often end in .gov or .mil. Before sharing sensitive 
 **The site is secure.**  
 The **https://** ensures that you are connecting to the official website and that any information you provide is encrypted and transmitted securely.
 
-* [English](https://www.ftc.gov/)
-* [español](https://www.ftc.gov/es/ftc-en-espa%C3%B1ol)
+Translation Menu
+----------------
+
+* [Español](https://www.ftc.gov/es)
 
 Secondary Menu
 --------------
@@ -224,20 +226,20 @@ Main Menu Mega
     
     [Press Release](https://www.ftc.gov/news-events/news/press-releases)
     
-    ### [FTC Sends Refunds to Consumers Harmed by CafePress’s Data Security Failures](https://www.ftc.gov/news-events/news/press-releases/2024/09/ftc-sends-refunds-consumers-harmed-cafepresss-data-security-failures)
+    ### [FTC Staff Report Finds Large Social Media and Video Streaming Companies Have Engaged in Vast Surveillance of Users with Lax Privacy Controls and Inadequate Safeguards for Kids and Teens](https://www.ftc.gov/news-events/news/press-releases/2024/09/ftc-staff-report-finds-large-social-media-video-streaming-companies-have-engaged-vast-surveillance)
     
-    September 18, 2024
+    September 19, 2024
     
     [View News and Events](https://www.ftc.gov/news-events)
     
     Upcoming Event
     --------------
     
-    Sep18
+    Sep19
     
-    ### [Chair Khan to appear at Aspen Institute Cybersecurity Summit](https://www.ftc.gov/news-events/events/2024/09/chair-khan-appear-aspen-institute-cybersecurity-summit)
+    ### [Open Commission Meeting - September 19, 2024](https://www.ftc.gov/news-events/events/2024/09/open-commission-meeting-september-19-2024)
     
-    Wednesday, September 18, 2024 | 4:20PM - 5:20PM
+    Thursday, September 19, 2024 | 11:00AM - 1:00PM
     
     [View more Events](https://www.ftc.gov/news-events/events)
     
@@ -326,8 +328,10 @@ Main Menu Mega
     Looking for legal documents or records? Search the [Legal Library](https://www.ftc.gov/legal-library) instead.
     
 
-* [English](https://www.ftc.gov/)
-* [español](https://www.ftc.gov/es/ftc-en-espa%C3%B1ol)
+Translation Menu
+----------------
+
+* [Español](https://www.ftc.gov/es)
 
 Secondary Menu
 --------------
