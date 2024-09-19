@@ -54,9 +54,29 @@ Terms and Conditions of the 100€ Voucher Giveaway
 
 [mehr lesen](https://faircado.de/mag/10-wohlfuehlbuecher-herbst/)
 
+[![die EU Flagge im Wind](https://faircado.de/wp-content/uploads/2024/09/ksife3mbhmw.jpg)](https://faircado.de/mag/ursula-von-der-leyen/)
+
 ### [An Open Letter to Ursula von der Leyen To Ban Shein and Temu](https://faircado.de/mag/ursula-von-der-leyen/)
 
 [mehr lesen](https://faircado.de/mag/ursula-von-der-leyen/)
+
+[![business woman working from her laptop](https://faircado.de/wp-content/uploads/2024/09/microsoft-365-d3nKNw1ILdM-unsplash-1-scaled.jpg)](https://faircado.de/newsletter-archiv/dress-for-success/)
+
+### [Dress for Success – und den Planeten! 🎩](https://faircado.de/newsletter-archiv/dress-for-success/)
+
+[mehr lesen](https://faircado.de/newsletter-archiv/dress-for-success/)
+
+[![grayscale photography of teacher standing near chalkboard and children sitting on chairs](https://faircado.de/wp-content/uploads/2024/09/gxb6pbi4jzg.jpg)](https://faircado.de/newsletter-archiv/back-to-school/)
+
+### [Back to School](https://faircado.de/newsletter-archiv/back-to-school/)
+
+[mehr lesen](https://faircado.de/newsletter-archiv/back-to-school/)
+
+[![brown wooden dining set](https://faircado.de/wp-content/uploads/2024/09/el_v6z_h5na.jpg)](https://faircado.de/newsletter-archiv/home-sweet-home/)
+
+### [Shoppe deinen Weg zu Home Sweet Home!](https://faircado.de/newsletter-archiv/home-sweet-home/)
+
+[mehr lesen](https://faircado.de/newsletter-archiv/home-sweet-home/)
 
 [![Buchcover von den besten Regionalkrimis](https://faircado.de/wp-content/uploads/2024/08/blog-headers-website-14-5.png)](https://faircado.de/mag/regionalkrimis/)
 
@@ -82,24 +102,6 @@ Terms and Conditions of the 100€ Voucher Giveaway
 
 [mehr lesen](https://faircado.de/mag/bucher-in-frankreich/)
 
-[![Buchcover, von Büchern die in Italien spielen](https://faircado.de/wp-content/uploads/2024/08/blog-headers-website-14-1.png)](https://faircado.de/mag/bucher-in-italien/)
-
-### [Bücher, die in Italien spielen | Die perfekte Reiselektüre](https://faircado.de/mag/bucher-in-italien/)
-
-[mehr lesen](https://faircado.de/mag/bucher-in-italien/)
-
-[![Alle Buchcover von Büchern, die am Meer spielen](https://faircado.de/wp-content/uploads/2024/08/blog-headers-website-14.png)](https://faircado.de/mag/bucher-am-meer/)
-
-### [8 Bücher, die am Meer spielen | Bücher für den Urlaub am Meer](https://faircado.de/mag/bucher-am-meer/)
-
-[mehr lesen](https://faircado.de/mag/bucher-am-meer/)
-
-[![Mutter, die Sohn eine Geschichte vorm Schlafen gehen vorliest](https://faircado.de/wp-content/uploads/2024/07/blog-headers-website-11.png)](https://faircado.de/mag/gute-nacht-geschichten/)
-
-### [Die besten Gute-Nacht-Geschichten zum Vorlesen](https://faircado.de/mag/gute-nacht-geschichten/)
-
-[mehr lesen](https://faircado.de/mag/gute-nacht-geschichten/)
-
 [Mehr Anzeigen](#)
 
 [![Bücherempfehlungen für diesen Herbst und Regentage](https://faircado.de/wp-content/uploads/2023/09/111.png)](https://faircado.de/mag/10-wohlfuehlbuecher-herbst/)
@@ -108,15 +110,17 @@ Terms and Conditions of the 100€ Voucher Giveaway
 
 [mehr lesen](https://faircado.de/mag/10-wohlfuehlbuecher-herbst/)
 
+[![die EU Flagge im Wind](https://faircado.de/wp-content/uploads/2024/09/ksife3mbhmw.jpg)](https://faircado.de/mag/ursula-von-der-leyen/)
+
 ### [An Open Letter to Ursula von der Leyen To Ban Shein and Temu](https://faircado.de/mag/ursula-von-der-leyen/)
 
 [mehr lesen](https://faircado.de/mag/ursula-von-der-leyen/)
 
-[![Buchcover von den besten Regionalkrimis](https://faircado.de/wp-content/uploads/2024/08/blog-headers-website-14-5.png)](https://faircado.de/mag/regionalkrimis/)
+[![business woman working from her laptop](https://faircado.de/wp-content/uploads/2024/09/microsoft-365-d3nKNw1ILdM-unsplash-1-scaled.jpg)](https://faircado.de/newsletter-archiv/dress-for-success/)
 
-### [Die besten deutschsprachigen Regionalkrimis](https://faircado.de/mag/regionalkrimis/)
+### [Dress for Success – und den Planeten! 🎩](https://faircado.de/newsletter-archiv/dress-for-success/)
 
-[mehr lesen](https://faircado.de/mag/regionalkrimis/)
+[mehr lesen](https://faircado.de/newsletter-archiv/dress-for-success/)
 
 [Mehr Anzeigen](#)
 
