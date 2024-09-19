@@ -347,11 +347,11 @@ Recently Played
 
 |     |
 | --- |
-| What Was I Thinkin'Dierks Bentley<br><br>4:57am |
-| Honey BeeBlake Shelton<br><br>4:54am |
-| AustinDasha<br><br>4:51am |
-| I Had Some HelpPost Malone Ft Morgan Wallen<br><br>4:48am |
-| BonesRussell Dickerson<br><br>4:45am |
+| I Remember EverythingZach Bryan Ft Kacey Musgraves<br><br>10:07am |
+| Ain'T No Love In OklahomaLuke Combs<br><br>10:04am |
+| I Had Some HelpPost Malone Ft Morgan Wallen<br><br>9:55am |
+| Son Of A SinnerJelly Roll<br><br>9:52am |
+| Girl Like YouJason Aldean<br><br>9:48am |
 
 [View Full Playlist](https://www.987thebull.com/recently-played)
 
@@ -495,21 +495,21 @@ State
 Featured Brands
 ---------------
 
-[![Latino 106.3 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBMG.png)](https://www.latinosaltlake.com/)
-
-Spanish • Western
-
-[![News-Talk 1480 WHBC Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WHBCAM.png)](https://www.whbc.com/)
-
-News Talk • Eastern
-
 [![Panhandle Sports Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/KVWE-Logo-RedBlack-Dk.png)](https://www.panhandlesportsstar.com/)
 
 Sports • Midwest
 
-[![99.7 DJX Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WDJX.png)](https://www.wdjx.com/)
+[![Live 95.5 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBFF.png)](https://www.live955.com/)
 
-Top 40 • Eastern
+Top 40 • Pacific NW
+
+[![Latino 106.3 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBMG.png)](https://www.latinosaltlake.com/)
+
+Spanish • Western
+
+[![98.5 The Bull Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KDES.png)](https://www.985thebull.com/)
+
+Country • Western
 
 [](https://www.alphamediausa.com/)
 
