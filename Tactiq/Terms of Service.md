@@ -60,7 +60,7 @@ Solutions
 
 [Transcribe Zoom](https://tactiq.io/transcribe/zoom)
 
-[Transcribe MS Teams](https://tactiq.io/solutions/transcribe-ms-teams)
+[Transcribe MS Teams](https://tactiq.io/transcribe/microsoft-teams)
 
 [Speech-to-text](https://tactiq.io/speech-to-text)
 
