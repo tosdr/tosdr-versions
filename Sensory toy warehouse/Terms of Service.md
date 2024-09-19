@@ -8,10 +8,6 @@
     
 * * [0161 524 2000](tel:0161 524 2000 "0161 524 2000")
 
-* **Over 2000 sensory toys in stock - the special needs toys experts**
-    ====================================================================
-    
-
 [![Sensory Toy Warehouse](https://www.sensorytoywarehouse.com/wp-content/uploads/2019/12/stw-logo.png)![Sensory Toy Warehouse](https://www.sensorytoywarehouse.com/wp-content/uploads/2019/12/stw-logo.png)](https://www.sensorytoywarehouse.com/ "Sensory Toy Warehouse - Sensory Education & Special Needs Toys, Autism Toys & Fibre Optic Lights & Cheap Disability Aids | Sensory Toy Warehouse")
 
 * [](#)
@@ -100,7 +96,7 @@
 * [Adult](https://www.sensorytoywarehouse.com/product-category/adult-sensory-toys/)
 * [Clearance](https://www.sensorytoywarehouse.com/product-category/clearance/)
 
-Back to School 20% Discount applied to all products
+September Sale 20% Discount applied to all products
 
 [![](https://www.sensorytoywarehouse.com/wp-content/uploads/2020/11/delivery.gif)
 
