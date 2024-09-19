@@ -237,6 +237,7 @@ We Champion Freedom & Self-Reliance
     
     * [⚡ Buy 1, Get 1 FREE Solar Generator Event](https://products.4patriots.com/holiday/leap-year/solar-event?afid=mkt&aff_sub=20240903_cam_4p_ecom_pdp_ppgs-x&utm_campaign=mkt_ecom_ppgs-x_20240903&utm_medium=ecom&utm_source=cam&utm_content=pdp&utm_term=4p&nb_klid=%7B%7B)
     * [72-Hour Food Kit - Buy 1, Get 2 FREE](https://products.4patriots.com/food/72hour-b1g2/perfect-starter?afid=mkt&aff_sub=20240708_cam_4p_ecom_dealsnav_72hr-b1g2&utm_campaign=mkt_ecom_72hr-b1g2_20240708&utm_medium=ecom&utm_source=cam&utm_content=dealsnav&utm_term=4p&nb_klid=%7B%7B)
+    * [🍔 Flash Sale: $25 OFF Black Bean Burger Pack](https://4patriots.com/products/black-bean-burger-mix-kit)
     * [$100.00 OFF Food & Fire Bundle](https://4patriots.com/products/food-fire-survival-cooking-bundle)
     * ["Supercharge" Package - Bundle & Save](https://4patriots.com/products/super-charged-solar-generator-bundle)
     * [Buy 5, Get 1 Free Customizable Kits](https://4patriots.com/collections/custom-case-pack-builder)
@@ -257,11 +258,11 @@ We Champion Freedom & Self-Reliance
         
         2247 reviews](https://4patriots.com/products/72-hour-survival-food-kit)
         
-        [![ Food & Fire Emergency Cooking Bundle](//4patriots.com/cdn/shop/files/FOOD-FIRE-BUNDLE-PDP-ARRAY-2000x2000_64a9088f-0bdd-49ae-9e3a-222825d212e7_360x.jpg?v=1714588231)
+        [![ 4Patriots Black bean burger mix kit individual pouches. 96 servings.](//4patriots.com/cdn/shop/products/ARRAY-BBB1-KIT_360x.jpg?v=1664803105)
         
-        ###### Food & Fire Emergency Cooking Bundle
+        ###### Black Bean Burger Mix Case Pack
         
-        11 reviews](https://4patriots.com/products/food-fire-survival-cooking-bundle)
+        27 reviews](https://4patriots.com/products/black-bean-burger-mix-kit)
         
     
 * [Learn](https://4patriots.com/blogs/news)
