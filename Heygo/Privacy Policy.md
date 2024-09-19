@@ -505,6 +505,12 @@ Where to travel abroad by month...
 New in travel
 -------------
 
+[![Journey to the extraordinary - 10 tours that defy imagination](https://media.restless.co.uk/uploads/2024/09/journey-to-the-extraordinary-tours-that-defy-imagination-768x337.jpg)](https://restless.co.uk/travel/journey-to-the-extraordinary-tours-that-defy-imagination/)
+
+### [Journey to the extraordinary – 10 tours that defy imagination](https://restless.co.uk/travel/journey-to-the-extraordinary-tours-that-defy-imagination/)
+
+[Read More »](https://restless.co.uk/travel/journey-to-the-extraordinary-tours-that-defy-imagination/)
+
 [![14 spectacular countries to add to your travel wish list](https://media.restless.co.uk/uploads/2022/12/spectacular-countries-to-add-to-your-travel-wish-list-768x511.jpg)](https://restless.co.uk/travel/spectacular-countries-to-add-to-your-travel-wish-list/)
 
 ### [14 spectacular countries to add to your travel wish list](https://restless.co.uk/travel/spectacular-countries-to-add-to-your-travel-wish-list/)
@@ -534,12 +540,6 @@ New in travel
 ### [10 last-minute travel deals to satisfy your wanderlust](https://restless.co.uk/travel/last-minute-travel-deals-to-satisfy-your-wanderlust/)
 
 [Read More »](https://restless.co.uk/travel/last-minute-travel-deals-to-satisfy-your-wanderlust/)
-
-[![10 of the most luxurious holiday destinations around the globe](https://media.restless.co.uk/uploads/2023/07/the-most-luxurious-holiday-destinations-around-the-globe-1-768x512.jpg)](https://restless.co.uk/travel/most-luxurious-holiday-destinations-around-the-globe/)
-
-### [10 of the most luxurious holiday destinations around the globe](https://restless.co.uk/travel/most-luxurious-holiday-destinations-around-the-globe/)
-
-[Read More »](https://restless.co.uk/travel/most-luxurious-holiday-destinations-around-the-globe/)
 
 Popular travel guides
 ---------------------
