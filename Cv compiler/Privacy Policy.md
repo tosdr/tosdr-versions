@@ -1757,6 +1757,8 @@ What do top resumes look like? Check out these expertly-written samples:
 
 [AML Analyst](https://cvcompiler.com/aml-analyst-resume-examples)
 
+[Web Application Developer](https://cvcompiler.com/web-application-developer-resume-examples)
+
 ![Upload resume illustration](uploads-pre-acq/img/upload-illustration.svg)
 
 ### Upload  
