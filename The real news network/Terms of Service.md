@@ -1,3 +1,15 @@
+### **URGENT: [TRNN NEEDS YOUR SUPPORT TODAY!](https://support.therealnews.com/-/XDQGUTWM)**
+
+As we approach the end of the year, **_TRNN_** is facing significant challenges. Without your immediate support, we may not be able to maintain the level of production or in-depth reporting that you depend on.
+
+We urgently need to raise **[$25K this fall](https://support.therealnews.com/-/XKQDKWQC)** to strengthen our newsroom, support our dedicated staff, and continue producing the impactful stories that drive change and amplify voices too often ignored by mainstream media.
+
+At _TRNN_, we believe in the power of independent journalism to inform, inspire, and fuel movements. As a nonprofit, reader-supported network, we rely on your generosity to keep essential stories alive.
+
+**[Don’t wait—your support is crucial. Donate today and help us keep independent media strong!](https://support.therealnews.com/-/XZMQDPUZ)**
+
+[![](https://therealnews.com/wp-content/uploads/2023/04/TRNN-Newsletter-Donate-Button.png)](https://support.therealnews.com/-/XCHXGBDH)
+
 You're missing out.
 ===================
 
@@ -95,11 +107,11 @@ Trending Posts
 * [Defending Trump may seem absurd—I spoke to a Black woman who does it every day](https://therealnews.com/defending-trump-may-seem-absurd-i-spoke-to-a-black-woman-who-does-it-every-day)
 * [Black, conservative, and unapologetic: A deep dive with the Black women fighting to get Trump reelected](https://therealnews.com/black-conservative-and-unapologetic-a-deep-dive-with-the-black-women-fighting-to-get-trump-reelected)
 * [Harris clobbered Trump in the debate—but does it matter?](https://therealnews.com/harris-clobbered-trump-in-the-debate-but-does-it-matter)
+* [Into the maelstrom: Can French democracy survive its political crisis?](https://therealnews.com/into-the-maelstrom-can-french-democracy-survive-its-political-crisis)
 * [Cops cuffed her for failing to signal, but a camera turned their plan upside down](https://therealnews.com/cops-cuffed-her-for-failing-to-signal-but-a-camera-turned-their-plan-upside-down)
 * [The latest theories on how Rey Rivera died don't point to the rooftop](https://therealnews.com/the-latest-theories-on-how-rey-rivera-died-dont-point-to-the-rooftop)
 * [Unmarked Sacramento gang unit cops stop, arrest father and child at gunpoint](https://therealnews.com/unmarked-sacramento-gang-unit-cops-stop-arrest-father-and-child-at-gunpoint)
 * [Is anyone in power responsible for anything?](https://therealnews.com/is-anyone-in-power-responsible-for-anything)
-* [Into the maelstrom: Can French democracy survive its political crisis?](https://therealnews.com/into-the-maelstrom-can-french-democracy-survive-its-political-crisis)
 
 Close
 
@@ -159,11 +171,11 @@ Trending Posts
 * [Defending Trump may seem absurd—I spoke to a Black woman who does it every day](https://therealnews.com/defending-trump-may-seem-absurd-i-spoke-to-a-black-woman-who-does-it-every-day)
 * [Black, conservative, and unapologetic: A deep dive with the Black women fighting to get Trump reelected](https://therealnews.com/black-conservative-and-unapologetic-a-deep-dive-with-the-black-women-fighting-to-get-trump-reelected)
 * [Harris clobbered Trump in the debate—but does it matter?](https://therealnews.com/harris-clobbered-trump-in-the-debate-but-does-it-matter)
+* [Into the maelstrom: Can French democracy survive its political crisis?](https://therealnews.com/into-the-maelstrom-can-french-democracy-survive-its-political-crisis)
 * [Cops cuffed her for failing to signal, but a camera turned their plan upside down](https://therealnews.com/cops-cuffed-her-for-failing-to-signal-but-a-camera-turned-their-plan-upside-down)
 * [The latest theories on how Rey Rivera died don't point to the rooftop](https://therealnews.com/the-latest-theories-on-how-rey-rivera-died-dont-point-to-the-rooftop)
 * [Unmarked Sacramento gang unit cops stop, arrest father and child at gunpoint](https://therealnews.com/unmarked-sacramento-gang-unit-cops-stop-arrest-father-and-child-at-gunpoint)
 * [Is anyone in power responsible for anything?](https://therealnews.com/is-anyone-in-power-responsible-for-anything)
-* [Into the maelstrom: Can French democracy survive its political crisis?](https://therealnews.com/into-the-maelstrom-can-french-democracy-survive-its-political-crisis)
 
 [Skip to content](#main)
 
@@ -358,11 +370,11 @@ Trending Posts
 * [Defending Trump may seem absurd—I spoke to a Black woman who does it every day](https://therealnews.com/defending-trump-may-seem-absurd-i-spoke-to-a-black-woman-who-does-it-every-day)
 * [Black, conservative, and unapologetic: A deep dive with the Black women fighting to get Trump reelected](https://therealnews.com/black-conservative-and-unapologetic-a-deep-dive-with-the-black-women-fighting-to-get-trump-reelected)
 * [Harris clobbered Trump in the debate—but does it matter?](https://therealnews.com/harris-clobbered-trump-in-the-debate-but-does-it-matter)
+* [Into the maelstrom: Can French democracy survive its political crisis?](https://therealnews.com/into-the-maelstrom-can-french-democracy-survive-its-political-crisis)
 * [Cops cuffed her for failing to signal, but a camera turned their plan upside down](https://therealnews.com/cops-cuffed-her-for-failing-to-signal-but-a-camera-turned-their-plan-upside-down)
 * [The latest theories on how Rey Rivera died don't point to the rooftop](https://therealnews.com/the-latest-theories-on-how-rey-rivera-died-dont-point-to-the-rooftop)
 * [Unmarked Sacramento gang unit cops stop, arrest father and child at gunpoint](https://therealnews.com/unmarked-sacramento-gang-unit-cops-stop-arrest-father-and-child-at-gunpoint)
 * [Is anyone in power responsible for anything?](https://therealnews.com/is-anyone-in-power-responsible-for-anything)
-* [Into the maelstrom: Can French democracy survive its political crisis?](https://therealnews.com/into-the-maelstrom-can-french-democracy-survive-its-political-crisis)
 
 [![The Real News Network](https://i0.wp.com/therealnews.com/wp-content/uploads/2022/08/lockup-duochrome-bright-1.png?fit=3000%2C595&ssl=1)](https://therealnews.com/)
 
