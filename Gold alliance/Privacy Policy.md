@@ -225,8 +225,10 @@ Further, if you have a disability which interferes with your ability to access t
 
 [![Gold Alliance logo.](https://goldalliance.com/wp-content/uploads/2021/06/logo-footer.svg)](https://goldalliance.com/)
 
-50 W. Liberty St. Suite 420  
-Reno, NV 89501
+5150 Mae Anne Ave  
+Suite 405 #1318  
+Reno, NV 89523  
+United States
 
 [(888) 734-7453](tel:8887347453) [(888) 734-7453](tel:8887347453)
 
