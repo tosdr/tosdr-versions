@@ -265,9 +265,9 @@ Don’t hesitate to contact us if you have any questions.
 
 [![](https://www.recruitbright.in/wp-content/uploads/2019/11/Download_on_the_App_Store_Badge_US-UK_blk_092917-300x100.png)](https://apps.apple.com/us/app/4m-jobs-job-search-vacancies/id1514961555)
 
-© 2023 Recruit Bright FROM Forem Software
+© 2024 Recruit Bright FROM Forem Software
 
-Required 'Candidate' login to applying this job. Click here to [logout](https://www.recruitbright.in/macosbigsur/?action=logout&redirect_to=https%3A%2F%2Fwww.recruitbright.in%2Fterms-and-conditions%2F&_wpnonce=ead17ca9c6) And try again
+Required 'Candidate' login to applying this job. Click here to [logout](https://www.recruitbright.in/macosbigsur/?action=logout&redirect_to=https%3A%2F%2Fwww.recruitbright.in%2Fterms-and-conditions%2F&_wpnonce=6ca5cf5265) And try again
 
 Login to your account
 ---------------------
@@ -308,8 +308,10 @@ Choose your Account Type
 * Confirm Password \* [](#)
 * Phone: \*
     
+      
+    
 * Organization Name 
-* Select Sector
+* Select Sector \*
     
     Please Select Sector Accounting / Finance Architecture/Interior Designing Auto/Auto Ancillary Automotive Jobs Aviation Banking BPO/ITES Construction / Facilities Education Training Entertainment Export/Import Fresher/Trainee Health Care Industrial Products/Heavy Machinery Insurance Internet/E-commerce IT- Hardware & Networking IT-Software/Software Services NGO/Social Services Restaurant / Food Services Sales & Marketing Telecommunications
     
@@ -334,7 +336,7 @@ Choose your Account Type
 
 [Close](javascript:void(0))
 
-                                      
+                                       
 
 Answers
 -------
