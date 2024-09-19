@@ -286,13 +286,13 @@ For informational purposes only. This is solely intended to provide notification
   
 24\. Comparisons are based on the national average Annual Percentage Yields (APY) published in the FDIC National Rates and Rate Caps as of October 16, 2023.
 
-25\. Comparisons are based on the national average Annual Percentage Yields (APY) published in the FDIC National Rates and Rate Caps as of November 13, 2023. As of November 13, 2023, Mighty Oak Checking Annual Percentage Yield (APY) is 3.00% and Emergency Fund APY is 5.00%. APY is variable and subject to change at our discretion, without prior notice. No minimum opening deposit or minimum balance required. Acorns is not a bank. Banking services provided by and Mighty Oak Debit Cards issued and provided by nbkc bank, Member FDIC, to Acorns Checking account holders that are U.S. residents over the age of eighteen (18). 
+25\. As of September 19, 2024, Mighty Oak Checking Annual Percentage Yield (APY) is 3.00% and Emergency Fund APY is 4.85%. APY is variable and subject to change at our discretion, without prior notice. No minimum opening deposit or minimum balance required. Acorns is not a bank. Banking services provided by and Mighty Oak Debit Cards issued and provided by nbkc bank, Member FDIC, to Acorns Checking account holders that are U.S. residents over the age of eighteen (18).  
 
 26. On August 21, 2024, Acorns changed the names of its Subscription Plans from "Personal," "Personal Plus," and "Premium" to "Bronze," "Silver," and "Gold." No other changes were made to the Subscription Plans at that time.
 
 27\. Over $22 billion invested since inception as of 6/26/2024. 
 
-28\. Amount invested from Round-Ups alone since inception as of July 31, 2024.  
+28\. Amount invested from Round-Ups alone since inception as of July 31, 2024.   
 
 Acorns, Round-Ups® investments, Real-Time Round-Ups® investments, Invest the Change and the Acorns logo are registered trademarks of Acorns Grow Incorporated. All product and company names are trademarks™ or registered® trademarks of their respective holders. Use of them does not imply any affiliation with or endorsement by them.
 
