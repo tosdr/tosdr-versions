@@ -4,7 +4,7 @@
 
 [![THE BRICK](//www.thebrick.com/cdn/shop/t/810/assets/lazyPixel.png?v=40482922527014850811726685067)](https://www.thebrick.com/)
 
-[Furniture](https://www.thebrick.com/collections/furniture) [Mattresses](https://www.thebrick.com/collections/mattresses) [Home Decor](https://www.thebrick.com/collections/home-decor) [Appliances](https://www.thebrick.com/collections/appliances) [Electronics](https://www.thebrick.com/collections/electronics) [Outdoor](https://www.thebrick.com/collections/outdoor-living)
+[Furniture](https://www.thebrick.com/collections/furniture) [Mattresses](https://www.thebrick.com/collections/mattresses) [Home Decor](https://www.thebrick.com/collections/home-decor) [Appliances](https://www.thebrick.com/collections/appliances) [Electronics](https://www.thebrick.com/collections/electronics) [Outdoor](https://www.thebrick.com/collections/outdoor-living) [Small Spaces](https://www.thebrick.com/collections/small-space-furniture)
 
 [My Account](#) [Save](https://www.thebrick.com/pages/deals) [Inspiration](#) [Services](#)
 
@@ -183,6 +183,10 @@ Get Directions
 
 * Ways to Shop
 [Buyer's Best](https://www.thebrick.com/collections/seasonal-buyers-best) [New Arrivals](https://www.thebrick.com/collections/seasonal-new) [On Sale](https://www.thebrick.com/collections/seasonal-on-sale)
+
+[Back to Menu](#)
+
+[Small Spaces](https://www.thebrick.com/collections/small-space-furniture) [Small Space Living Room Furniture](#)
 
 [Back to Menu](#)
 
