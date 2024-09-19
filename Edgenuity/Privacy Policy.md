@@ -102,8 +102,6 @@
 * [Contact](https://www.imaginelearning.com/about/contact-us/)
 * [Search](https://www.imaginelearning.com/)
 
-[Power up your Back to School ‘24 with resources and tools](https://info.imaginelearning.com/backtoschool)
-
 [Imagine Learning announces Imagine IM, the certified Illustrative Mathematics curriculum fully enhanced for engagement, accessibility, and usability.](https://www.imaginelearning.com/in-the-news/imagine-learning-announces-core-math-imagine-im-partnership-illustrative-mathematics/)
 
 imagine
