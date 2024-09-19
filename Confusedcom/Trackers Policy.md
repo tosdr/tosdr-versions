@@ -12,15 +12,15 @@
         
         * Motor Car
             
-            Motor Car [**Car** insurance](https://www.confused.com/car-insurance)[**Temporary car** insurance](https://www.confused.com/car-insurance/temporary)[**Multi-car** insurance](https://www.confused.com/car-insurance/multi-car)[**Classic car** insurance](https://www.confused.com/car-insurance/classic)[**Black box** insurance](https://www.confused.com/car-insurance/black-box "Black box insurance")[**Learner** insurance](https://www.confused.com/car-insurance/learner)[**Young driver** insurance](https://www.confused.com/car-insurance/young-driver)[**New driver** insurance](https://www.confused.com/car-insurance/new-driver)[**Motor excess** insurance](https://www.confused.com/motor-excess-insurance)[**Gap** insurance](https://www.confused.com/gap-insurance)
+            Motor Car [**Car** insurance](https://www.confused.com/car-insurance)[**Temporary car** insurance](https://www.confused.com/car-insurance/temporary)[**Multi-car** insurance](https://www.confused.com/car-insurance/multi-car)[**Classic car** insurance](https://www.confused.com/car-insurance/classic)[**Black box** insurance](https://www.confused.com/car-insurance/black-box "Black box insurance")[**Learner** insurance](https://www.confused.com/car-insurance/learner)[**Young driver** insurance](https://www.confused.com/car-insurance/young-driver)[**New driver** insurance](https://www.confused.com/car-insurance/new-driver)[**Motor excess** insurance](https://www.confused.com/motor-excess-insurance)[**Gap** insurance](https://www.confused.com/gap-insurance)[UK breakdown cover](https://www.confused.com/breakdown-cover)[European breakdown cover](https://www.confused.com/breakdown-cover/european)[Car insurance calculator](https://www.confused.com/car-insurance/price-index/calculator)[Car insurance price index](https://www.confused.com/car-insurance/price-index)
             
         * Motor Van
             
-            Motor Van [**Van** insurance](https://www.confused.com/van-insurance)[**Courier** insurance](https://www.confused.com/van-insurance/courier)[**Goods in transit** insurance](https://www.confused.com/van-insurance/goods-in-transit)[**Temporary van** insurance](https://www.confused.com/van-insurance/temporary)[**Caravan** insurance](https://www.confused.com/caravan-insurance)[**Motorhome** insurance](https://www.confused.com/caravan-insurance/motorhome)[**Campervan** insurance](https://www.confused.com/caravan-insurance/campervan)
+            Motor Van [**Van** insurance](https://www.confused.com/van-insurance)[**Courier** insurance](https://www.confused.com/van-insurance/courier)[**Goods in transit** insurance](https://www.confused.com/van-insurance/goods-in-transit)[**Temporary van** insurance](https://www.confused.com/van-insurance/temporary)[**Caravan** insurance](https://www.confused.com/caravan-insurance)[**Motorhome** insurance](https://www.confused.com/caravan-insurance/motorhome)[**Campervan** insurance](https://www.confused.com/caravan-insurance/campervan)[Car insurance guides](https://www.confused.com/car-insurance/guides)[Van insurance guides](https://www.confused.com/van-insurance/guides)[Van breakdown cover](https://www.confused.com/breakdown-cover/van)
             
         * Motor Motorbike
             
-            Motor Motorbike [**Motorbike** insurance](https://www.confused.com/motorbike-insurance)[**Quad bike** insurance](https://www.confused.com/motorbike-insurance/quad)[**Scooter** insurance](https://www.confused.com/motorbike-insurance/scooter)
+            Motor Motorbike [**Motorbike** insurance](https://www.confused.com/motorbike-insurance)[**Quad bike** insurance](https://www.confused.com/motorbike-insurance/quad)[**Scooter** insurance](https://www.confused.com/motorbike-insurance/scooter)[Motorbike breakdown cover](https://www.confused.com/breakdown-cover/motorbike)[Motorbike insurance guides](https://www.confused.com/motorbike-insurance/guides)
             
         * Motor Commercial
             
@@ -29,11 +29,12 @@
         * Tools & tips
             * Motor
             * Tools & tips
-            * [Car insurance calculator](https://www.confused.com/car-insurance/price-index/calculator)
-            * [Car insurance price index](https://www.confused.com/car-insurance/price-index)
-            * [Car insurance guides](https://www.confused.com/car-insurance/guides)
-            * [Van insurance guides](https://www.confused.com/van-insurance/guides)
-            * [Motorbike insurance guides](https://www.confused.com/motorbike-insurance/guides)
+            * [Fuel cost calculator](https://www.confused.com/fuel-cost-calculator)
+            * [MOT, servicing & repairs](https://www.confused.com/repairs)
+            * [Car valuation](https://www.confused.com/car-valuation)
+            * [EV-charging points](https://www.confused.com/car-insurance/ev-charging-point-map)
+            * [Petrol prices](https://www.confused.com/petrol-prices)
+            * [MOT status check](https://www.confused.com/mot-status-check)
         
     * Home
         
@@ -89,28 +90,20 @@
         
     * Close
     
-* Utilities
+* Energy
     
-    Utilities Close
+    Energy Close
     
     * **Energy** Energy
         
-        Energy [Compare energy](https://www.confused.com/gas-electricity)[Dual fuel energy](https://www.confused.com/gas-electricity/dual-fuel)[Compare gas only](https://www.confused.com/gas-electricity/gas-only)[Compare electricity only](https://www.confused.com/gas-electricity/electricity-only)[Compare green energy](https://www.confused.com/gas-electricity/green-energy)[Energy guides](https://www.confused.com/gas-electricity/guides)[Business energy](https://www.confused.com/gas-electricity/business-energy)
+        Energy [Compare energy](https://www.confused.com/gas-electricity)[Dual fuel energy](https://www.confused.com/gas-electricity/dual-fuel)[Compare gas only](https://www.confused.com/gas-electricity/gas-only)[Compare electricity only](https://www.confused.com/gas-electricity/electricity-only)[Compare green energy](https://www.confused.com/gas-electricity/green-energy)[Energy guides](https://www.confused.com/gas-electricity/guides)
         
-    * **Broadband** Broadband
+    * **Business energy** Business energy
         
-        Broadband [Broadband deals](https://www.confused.com/broadband)[Fibre broadband deals](https://www.confused.com/broadband/fibre-broadband-deals)[Broadband & home phone](https://www.confused.com/broadband/broadband-and-home-phone-deals)[Cheap broadband deals](https://www.confused.com/broadband/cheap-broadband-deals)[TV & broadband deals](https://www.confused.com/broadband/tv-and-broadband-deals)[Broadband guides](https://www.confused.com/broadband/guides)[Business broadband](https://www.confused.com/broadband/business)
-        
-    * **Mobiles** Mobiles
-        
-        Mobiles [Mobile phone deals](https://www.confused.com/mobile-phones)[SIM Only deals](https://www.confused.com/mobile-phones/sim-only-deals)[iPhone SIM Only deals](https://www.confused.com/mobile-phones/sim-only-deals/iphone-sim-only-deals)[30 day SIM Only deals](https://www.confused.com/mobile-phones/sim-only-deals/30-day-sim-only-deals)[5G SIM Only deals](https://www.confused.com/mobile-phones/sim-only-deals/compare-5g-sim-only-deals)[Pay as you go SIM Only](https://www.confused.com/mobile-phones/sim-only-deals/pay-as-you-go-sim-only-deals)[12 month SIM Only](https://www.confused.com/mobile-phones/sim-only-deals/12-month-sim-only-deals)[Unlimited data SIM Only deals](https://www.confused.com/mobile-phones/sim-only-deals/unlimited-data-deals)[No credit check SIM Only deals](https://www.confused.com/mobile-phones/sim-only-deals/no-credit-check-sim-only-deals)
+        Business energy [Business energy](https://www.confused.com/gas-electricity/business-energy)
         
     * Tools & tips
         * Tools & tips
-        * [How to switch broadband provider](https://www.confused.com/broadband/guides/how-to-switch-broadband)
-        * [Broadband outages](https://www.confused.com/broadband/guides/broadband-outages)
-        * [Broadband & moving house](https://www.confused.com/broadband/guides/broadband-and-moving-house)
-        * [How to switch mobile phone networks](https://www.confused.com/mobile-phones/guides/how-to-switch-mobile-phone-networks)
         * [Switching your energy supplier](https://www.confused.com/gas-electricity/guides/switching-energy-supplier)
         * [Ways to pay your gas & electric bill](https://www.confused.com/gas-electricity/guides/how-to-pay-your-energy-bill)
     * Close
@@ -133,7 +126,7 @@
         
     * **Business finance** Business finance
         
-        Business finance [Business current accounts](https://www.confused.com/business-current-accounts)[Business loans](https://www.confused.com/business-loans)
+        Business finance [Business current accounts](https://www.confused.com/business-current-accounts)[Business loans](https://www.confused.com/business-loans)[Business credit cards](https://www.confused.com/business-credit-cards)
         
     * Tools & tips
         * Tools & tips
@@ -145,26 +138,28 @@
         * [Mortgage guides](https://www.confused.com/mortgages/guides)
     * Close
     
-* Car care & selling
+* Broadband & Mobile
     
-    Car care & selling Close
+    Broadband & Mobile Close
     
-    * **Car selling** Car selling
+    * **Broadband** Broadband
         
-        Car selling [Sell a car](https://www.confused.com/sell-my-car)[Car valuation](https://www.confused.com/car-valuation)
+        Broadband [Broadband deals](https://www.confused.com/broadband)[Fibre broadband deals](https://www.confused.com/broadband/fibre-broadband-deals)[Broadband & home phone](https://www.confused.com/broadband/broadband-and-home-phone-deals)[Cheap broadband deals](https://www.confused.com/broadband/cheap-broadband-deals)[TV & broadband deals](https://www.confused.com/broadband/tv-and-broadband-deals)[Broadband guides](https://www.confused.com/broadband/guides)
         
-    * **Breakdown cover** Breakdown cover
+    * **Business broadband** Business broadband
         
-        Breakdown cover [UK breakdown cover](https://www.confused.com/breakdown-cover)[European breakdown cover](https://www.confused.com/breakdown-cover/european)[Van breakdown cover](https://www.confused.com/breakdown-cover/van)[Motorbike breakdown cover](https://www.confused.com/breakdown-cover/motorbike)
+        Business broadband [Business broadband](https://www.confused.com/broadband/business)
         
-    * **Garage** Garage
+    * **Mobiles** Mobiles
         
-        Garage [MOT, servicing & repairs](https://www.confused.com/repairs)[MOT status check](https://www.confused.com/mot-status-check)[Petrol prices](https://www.confused.com/petrol-prices)
+        Mobiles [Mobile phone deals](https://www.confused.com/mobile-phones)[SIM Only deals](https://www.confused.com/mobile-phones/sim-only-deals)[iPhone SIM Only deals](https://www.confused.com/mobile-phones/sim-only-deals/iphone-sim-only-deals)[30 day SIM Only deals](https://www.confused.com/mobile-phones/sim-only-deals/30-day-sim-only-deals)[5G SIM Only deals](https://www.confused.com/mobile-phones/sim-only-deals/compare-5g-sim-only-deals)[Pay as you go SIM Only](https://www.confused.com/mobile-phones/sim-only-deals/pay-as-you-go-sim-only-deals)[12 month SIM Only](https://www.confused.com/mobile-phones/sim-only-deals/12-month-sim-only-deals)[Unlimited data SIM Only deals](https://www.confused.com/mobile-phones/sim-only-deals/unlimited-data-deals)[No credit check SIM Only deals](https://www.confused.com/mobile-phones/sim-only-deals/no-credit-check-sim-only-deals)
         
     * Tools & tips
         * Tools & tips
-        * [Fuel cost calculator](https://www.confused.com/fuel-cost-calculator)
-        * [EV-charging points](https://www.confused.com/car-insurance/ev-charging-point-map)
+        * [How to switch broadband provider](https://www.confused.com/broadband/guides/how-to-switch-broadband)
+        * [Broadband & moving house](https://www.confused.com/broadband/guides/broadband-and-moving-house)
+        * [Broadband outages](https://www.confused.com/broadband/guides/broadband-outages)
+        * [How to switch mobile phone networks](https://www.confused.com/mobile-phones/guides/how-to-switch-mobile-phone-networks)
     * Close
     
 
