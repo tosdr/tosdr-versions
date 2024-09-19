@@ -18,27 +18,27 @@
     
     [All Products](https://liftoff.io/products/)
     
-    *  [![](https://liftoff.io/wp-content/uploads/2024/04/accelerate-product-logo.svg)](https://liftoff.io/accelerate/ "Accelerate")[Accelerate](https://liftoff.io/accelerate/ "Accelerate")
+    *  [![](data:image/gif;nitro-empty-id=MzM2OjE0NQ==-1;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAAAICTAEAOw==)](https://liftoff.io/accelerate/ "Accelerate")[Accelerate](https://liftoff.io/accelerate/ "Accelerate")
         
         Acquire quality users at scale with machine learning
         
-    *  [![](https://liftoff.io/wp-content/uploads/2024/04/direct-product-logo.svg)](https://liftoff.io/direct/ "Direct")[Direct](https://liftoff.io/direct/ "Direct")
+    *  [![](data:image/gif;nitro-empty-id=MzQzOjE0MQ==-1;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAAAICTAEAOw==)](https://liftoff.io/direct/ "Direct")[Direct](https://liftoff.io/direct/ "Direct")
         
         Access top-quality publishers to acquire engaged users
         
-    *  [![](https://liftoff.io/wp-content/uploads/2024/04/monetize-product-logo.svg)](https://liftoff.io/monetize/ "Monetize")[Monetize](https://liftoff.io/monetize/ "Monetize")
+    *  [![](data:image/gif;nitro-empty-id=MzUwOjE0Mw==-1;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAAAICTAEAOw==)](https://liftoff.io/monetize/ "Monetize")[Monetize](https://liftoff.io/monetize/ "Monetize")
         
         Maximize your earnings for every impression
         
-    *  [![](https://liftoff.io/wp-content/uploads/2024/04/vungle-exchange-product-logo.svg)](https://liftoff.io/exchange/ "Vungle Exchange")[Vungle Exchange](https://liftoff.io/exchange/ "Vungle Exchange")
+    *  [![](data:image/gif;nitro-empty-id=MzU3OjE1MA==-1;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAAAICTAEAOw==)](https://liftoff.io/exchange/ "Vungle Exchange")[Vungle Exchange](https://liftoff.io/exchange/ "Vungle Exchange")
         
         Engage high-quality users in their favorite mobile apps
         
-    *  [![](https://liftoff.io/wp-content/uploads/2024/04/creative-studio-product-logo.svg)](https://liftoff.io/creative-studio/ "Creative Studio")[Creative Studio](https://liftoff.io/creative-studio/ "Creative Studio")
+    *  [![](data:image/gif;nitro-empty-id=MzY0OjE1MA==-1;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAAAICTAEAOw==)](https://liftoff.io/creative-studio/ "Creative Studio")[Creative Studio](https://liftoff.io/creative-studio/ "Creative Studio")
         
         Optimize campaign performance with better ad creatives
         
-    *  [![](https://liftoff.io/wp-content/uploads/2024/04/intelligence-product-logo.svg)](https://liftoff.io/intelligence/ "Intelligence")[Intelligence](https://liftoff.io/intelligence/ "Intelligence")
+    *  [![](data:image/gif;nitro-empty-id=MzcxOjE0Nw==-1;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAAAICTAEAOw==)](https://liftoff.io/intelligence/ "Intelligence")[Intelligence](https://liftoff.io/intelligence/ "Intelligence")
         
         Build and launch gaming experiences players want
         
@@ -57,7 +57,7 @@
     * [Webinars](https://liftoff.io/resources/?type=webinar "Webinars")
     * [Help Center](https://liftoff.io/help/ "Help Center")
     
-    [![Guide to Growing Chinese Gaming Apps Overseas](https://liftoff.io/wp-content/uploads/2024/07/Resource-EN-3-1024x533.png)](https://info.liftoff.io/2024-growing-chinese-gaming-apps)
+    [![Guide to Growing Chinese Gaming Apps Overseas](data:image/svg+xml;nitro-empty-id=NDA5OjEwMzA=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTAyNCA1MzMiIHdpZHRoPSIxMDI0IiBoZWlnaHQ9IjUzMyIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=)](https://info.liftoff.io/2024-growing-chinese-gaming-apps)
     
     ###### FEATURED
     
@@ -78,7 +78,7 @@
     * [Comics](https://liftoff.io/mobile-heroes/comics/ "Comics")
     * [About Mobile Heroes](https://liftoff.io/mobile-heroes/about/ "About Mobile Heroes")
     
-    [![Betul Ozdemir Product Madness](https://liftoff.io/wp-content/uploads/2024/05/Betul-Eser-profile-banner-1200x627-v2-@2x@2x-1024x535.png)](https://liftoff.io/mobile-heroes/hero/betul-ozdemir/)
+    [![Betul Ozdemir Product Madness](data:image/svg+xml;nitro-empty-id=NDQ2OjEzMDM=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTAyNCA1MzUiIHdpZHRoPSIxMDI0IiBoZWlnaHQ9IjUzNSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=)](https://liftoff.io/mobile-heroes/hero/betul-ozdemir/)
     
     ###### FEATURED
     
@@ -91,10 +91,10 @@ Search for:
 
 Log In
 
-* ![Accelerate product logo](https://liftoff.io/wp-content/uploads/2024/04/accelerate-product-logo.svg) [Accelerate](https://signin.liftoff.io/signin)
-* ![Monetize product logo](https://liftoff.io/wp-content/uploads/2024/04/monetize-product-logo.svg) [Monetize](https://app.vungle.com/login/)
-* ![Direct product logo](https://liftoff.io/wp-content/uploads/2024/04/direct-product-logo.svg) [Direct](https://app.vungle.com/login/)
-* ![Intelligence product logo](https://liftoff.io/wp-content/uploads/2024/04/intelligence-product-logo.svg) [GameRefinery](https://app.gamerefinery.com/)
+* ![Accelerate product logo](data:image/gif;nitro-empty-id=NDk4OjIzOQ==-1;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAAAICTAEAOw==) [Accelerate](https://signin.liftoff.io/signin)
+* ![Monetize product logo](data:image/gif;nitro-empty-id=NTAyOjIzNQ==-1;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAAAICTAEAOw==) [Monetize](https://app.vungle.com/login/)
+* ![Direct product logo](data:image/gif;nitro-empty-id=NTA2OjIzMQ==-1;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAAAICTAEAOw==) [Direct](https://app.vungle.com/login/)
+* ![Intelligence product logo](data:image/gif;nitro-empty-id=NTEwOjI0Mw==-1;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAAAICTAEAOw==) [GameRefinery](https://app.gamerefinery.com/)
 
 [Get Started](https://liftoff.io/sign-up/)
 
