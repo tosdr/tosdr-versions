@@ -197,57 +197,61 @@ Note: If at any time you should have any concern regarding security, privacy or 
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Fast, Accurate & Easy to Use
-> ----------------------------
+> Support even on Sundays!
+> ------------------------
 > 
-> Small Business Management System or SBMS, now rebranded as Invoices Online is an online invoicing system developed by the same guys that developed our site, we use it and honestly recommend it to all people who have dynamic sites, or want an online invoicing solution.  The invoicing application is fast, accurate, easy to use, and it really enhances the online experience of our clients.
+> Thanks Adriaan...
+> 
+> You guys even work on Sundays?
+> 
+> I’m impressed!!
 
-Jannie Schutte - myFinance-Online.co.za
+Johan Botha - Brand Xplosion
 
-![valued client High Point Marketing CC t/a Leads For Africa](https://www.invoicesonline.co.za/scripts/image.php?bid=6845&file=logo_300_100&type=&fe=a34f658311540043ad92436a0e0aa50fbfcf072ff7f3bbfc272249eb27551cce&c=73767895)  
-High Point Marketing CC t/a Leads For Africa
+![valued client Peter Salvage Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7407&file=logo_300_100&type=&fe=80c431e6455a70d4196b64a2a5d3b16d84437cb85a166118883fa31bd9fcd9b7&c=21163830)  
+Peter Salvage Pty Ltd
 
-![valued client Digifax Pty) Ltd t/a Findfish](https://www.invoicesonline.co.za/scripts/image.php?bid=1295&file=logo_300_100&type=&fe=a34f658311540043ad92436a0e0aa50fbfcf072ff7f3bbfc272249eb27551cce&c=89281176)  
-Digifax Pty) Ltd t/a Findfish
+![valued client M's Frozen Delights](https://www.invoicesonline.co.za/scripts/image.php?bid=7776&file=logo_300_100&type=&fe=80c431e6455a70d4196b64a2a5d3b16d84437cb85a166118883fa31bd9fcd9b7&c=27427089)  
+M's Frozen Delights
 
-![valued client IAS Logistics (Pty) Ltd T/A MULTITRANSIT ](https://www.invoicesonline.co.za/scripts/image.php?bid=7064&file=logo_300_100&type=&fe=a34f658311540043ad92436a0e0aa50fbfcf072ff7f3bbfc272249eb27551cce&c=72830053)  
-IAS Logistics (Pty) Ltd T/A MULTITRANSIT
+![valued client TRACKFORCE (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=1722&file=logo_300_100&type=&fe=80c431e6455a70d4196b64a2a5d3b16d84437cb85a166118883fa31bd9fcd9b7&c=64942811)  
+TRACKFORCE (Pty) Ltd
 
-![valued client Konsortium Operations (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=294&file=logo_300_100&type=&fe=a34f658311540043ad92436a0e0aa50fbfcf072ff7f3bbfc272249eb27551cce&c=182791832)  
-Konsortium Operations (PTY) LTD
+![valued client SR Travel Services](https://www.invoicesonline.co.za/scripts/image.php?bid=7537&file=logo_300_100&type=&fe=80c431e6455a70d4196b64a2a5d3b16d84437cb85a166118883fa31bd9fcd9b7&c=78631433)  
+SR Travel Services
 
-![valued client LEO DEVELOPMENT GROUP](https://www.invoicesonline.co.za/scripts/image.php?bid=7896&file=logo_300_100&type=&fe=a34f658311540043ad92436a0e0aa50fbfcf072ff7f3bbfc272249eb27551cce&c=203994476)  
-LEO DEVELOPMENT GROUP
+![valued client Repairs In Motion](https://www.invoicesonline.co.za/scripts/image.php?bid=6788&file=logo_300_100&type=&fe=80c431e6455a70d4196b64a2a5d3b16d84437cb85a166118883fa31bd9fcd9b7&c=151532834)  
+Repairs In Motion
 
-![valued client Blue Sky Solar Services](https://www.invoicesonline.co.za/scripts/image.php?bid=7332&file=logo_300_100&type=&fe=a34f658311540043ad92436a0e0aa50fbfcf072ff7f3bbfc272249eb27551cce&c=83126351)  
-Blue Sky Solar Services
+![valued client OptaServ](https://www.invoicesonline.co.za/scripts/image.php?bid=7689&file=logo_300_100&type=&fe=80c431e6455a70d4196b64a2a5d3b16d84437cb85a166118883fa31bd9fcd9b7&c=116400584)  
+OptaServ
 
-![valued client African Roots](https://www.invoicesonline.co.za/scripts/image.php?bid=1000&file=logo_300_100&type=&fe=a34f658311540043ad92436a0e0aa50fbfcf072ff7f3bbfc272249eb27551cce&c=123362127)  
-African Roots
+![valued client KTEN PARTS](https://www.invoicesonline.co.za/scripts/image.php?bid=7612&file=logo_300_100&type=&fe=80c431e6455a70d4196b64a2a5d3b16d84437cb85a166118883fa31bd9fcd9b7&c=33789311)  
+KTEN PARTS
 
-![valued client Imhoff Equestrian Centre](https://www.invoicesonline.co.za/scripts/image.php?bid=7987&file=logo_300_100&type=&fe=a34f658311540043ad92436a0e0aa50fbfcf072ff7f3bbfc272249eb27551cce&c=22223123)  
-Imhoff Equestrian Centre
+![valued client Goju Ryu Karate Centre](https://www.invoicesonline.co.za/scripts/image.php?bid=2827&file=logo_300_100&type=&fe=80c431e6455a70d4196b64a2a5d3b16d84437cb85a166118883fa31bd9fcd9b7&c=163797810)  
+Goju Ryu Karate Centre
 
-![valued client J.M. HUMAN RESOURCES](https://www.invoicesonline.co.za/scripts/image.php?bid=4626&file=logo_300_100&type=&fe=a34f658311540043ad92436a0e0aa50fbfcf072ff7f3bbfc272249eb27551cce&c=160804307)  
-J.M. HUMAN RESOURCES
+![valued client TIGERDSL](https://www.invoicesonline.co.za/scripts/image.php?bid=2831&file=logo_300_100&type=&fe=80c431e6455a70d4196b64a2a5d3b16d84437cb85a166118883fa31bd9fcd9b7&c=58567801)  
+TIGERDSL
 
-![valued client Meyer Towing & Recovery ](https://www.invoicesonline.co.za/scripts/image.php?bid=7983&file=logo_300_100&type=&fe=a34f658311540043ad92436a0e0aa50fbfcf072ff7f3bbfc272249eb27551cce&c=140301568)  
-Meyer Towing & Recovery
+![valued client All Trucking Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=6370&file=logo_300_100&type=&fe=80c431e6455a70d4196b64a2a5d3b16d84437cb85a166118883fa31bd9fcd9b7&c=81866054)  
+All Trucking Solutions
 
-![valued client PROGRAPHIX PTY LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8509&file=logo_300_100&type=&fe=a34f658311540043ad92436a0e0aa50fbfcf072ff7f3bbfc272249eb27551cce&c=55566889)  
-PROGRAPHIX PTY LTD
+![valued client WIP Digital Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=1603&file=logo_300_100&type=&fe=80c431e6455a70d4196b64a2a5d3b16d84437cb85a166118883fa31bd9fcd9b7&c=39334638)  
+WIP Digital Solutions
 
-![valued client SA Security Brokerz (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5188&file=logo_300_100&type=&fe=a34f658311540043ad92436a0e0aa50fbfcf072ff7f3bbfc272249eb27551cce&c=182529376)  
-SA Security Brokerz (Pty) Ltd
+![valued client MONSTER SECURITY SERVICES](https://www.invoicesonline.co.za/scripts/image.php?bid=5438&file=logo_300_100&type=&fe=80c431e6455a70d4196b64a2a5d3b16d84437cb85a166118883fa31bd9fcd9b7&c=207792572)  
+MONSTER SECURITY SERVICES
 
-![valued client RADIO TYGERBERG 104FM NPC](https://www.invoicesonline.co.za/scripts/image.php?bid=8595&file=logo_300_100&type=&fe=a34f658311540043ad92436a0e0aa50fbfcf072ff7f3bbfc272249eb27551cce&c=19300978)  
-RADIO TYGERBERG 104FM NPC
+![valued client Vplay Letsheng Mall](https://www.invoicesonline.co.za/scripts/image.php?bid=8358&file=logo_300_100&type=&fe=80c431e6455a70d4196b64a2a5d3b16d84437cb85a166118883fa31bd9fcd9b7&c=190493647)  
+Vplay Letsheng Mall
 
-![valued client Khiya Technology Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=5545&file=logo_300_100&type=&fe=a34f658311540043ad92436a0e0aa50fbfcf072ff7f3bbfc272249eb27551cce&c=156104788)  
-Khiya Technology Solutions
+![valued client Frequency Fanatics (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8558&file=logo_300_100&type=&fe=80c431e6455a70d4196b64a2a5d3b16d84437cb85a166118883fa31bd9fcd9b7&c=182964671)  
+Frequency Fanatics (Pty) Ltd
 
-![valued client Prosper Park](https://www.invoicesonline.co.za/scripts/image.php?bid=8286&file=logo_300_100&type=&fe=a34f658311540043ad92436a0e0aa50fbfcf072ff7f3bbfc272249eb27551cce&c=60862800)  
-Prosper Park
+![valued client BEE SURE CONSULTING (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8110&file=logo_300_100&type=&fe=80c431e6455a70d4196b64a2a5d3b16d84437cb85a166118883fa31bd9fcd9b7&c=90352172)  
+BEE SURE CONSULTING (PTY) LTD
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
