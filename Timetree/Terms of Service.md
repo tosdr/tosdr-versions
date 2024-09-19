@@ -4,7 +4,7 @@
 * [Premium](https://timetreeapp.com/intl/en/premium)
 * [Support](https://support.timetreeapp.com/hc)
 * [Login](https://timetreeapp.com/signin)
-* [Create Account](https://timetreeapp.com/signup)
+* [Get started with TimeTree for free](https://timetreeapp.com/signup)
 
 TimeTree’s Acceptable Use Policy
 ================================
