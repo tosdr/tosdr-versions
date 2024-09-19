@@ -48,7 +48,7 @@ SEARCH
 
 [My Account](https://www.cricbuzz.com/premium-subscription/user/account-info "My Account") Sign Out
 
-[MATCHES](https://www.cricbuzz.com/cricket-match/live-scores)[RSA vs AFG - AFG Won](https://www.cricbuzz.com/live-cricket-scores/103843/rsa-vs-afg-1st-odi-afghanistan-v-south-africa-in-uae-2024 "South Africa v Afghanistan, 1st ODI - AFG Won")[IND vs BAN - Preview](https://www.cricbuzz.com/live-cricket-scores/100220/ind-vs-ban-1st-test-bangladesh-tour-of-india-2024 "India v Bangladesh, 1st Test - Preview")[TKR vs GAW - Preview](https://www.cricbuzz.com/live-cricket-scores/92856/tkr-vs-gaw-19th-match-caribbean-premier-league-2024 "Trinbago Knight Riders v Guyana Amazon Warriors, 19th Match - Preview")[SL vs NZ - Stumps](https://www.cricbuzz.com/live-cricket-scores/105962/sl-vs-nz-1st-test-new-zealand-tour-of-sri-lanka-2024 "Sri Lanka v New Zealand, 1st Test - Stumps")[ENG vs AUS - Preview](https://www.cricbuzz.com/live-cricket-scores/76549/eng-vs-aus-1st-odi-australia-tour-of-england-2024 "England v Australia, 1st ODI - Preview")
+[MATCHES](https://www.cricbuzz.com/cricket-match/live-scores)[GAW vs TKR - Live](https://www.cricbuzz.com/live-cricket-scores/92856/gaw-vs-tkr-19th-match-caribbean-premier-league-2024 "Guyana Amazon Warriors v Trinbago Knight Riders, 19th Match - Live")[IND vs BAN - Preview](https://www.cricbuzz.com/live-cricket-scores/100220/ind-vs-ban-1st-test-bangladesh-tour-of-india-2024 "India v Bangladesh, 1st Test - Preview")[SL vs NZ - Stumps](https://www.cricbuzz.com/live-cricket-scores/105962/sl-vs-nz-1st-test-new-zealand-tour-of-sri-lanka-2024 "Sri Lanka v New Zealand, 1st Test - Stumps")[RSA vs AFG - AFG Won](https://www.cricbuzz.com/live-cricket-scores/103843/rsa-vs-afg-1st-odi-afghanistan-v-south-africa-in-uae-2024 "South Africa v Afghanistan, 1st ODI - AFG Won")[ENG vs AUS - Preview](https://www.cricbuzz.com/live-cricket-scores/76549/eng-vs-aus-1st-odi-australia-tour-of-england-2024 "England v Australia, 1st ODI - Preview")
 
 AllLive NowToday
 
@@ -84,15 +84,11 @@ AllLive NowToday
     
 * ICC CWC League Two 2023-27
     
-    [Canada vs Nepal](https://www.cricbuzz.com/live-cricket-scores/106953/can-vs-nep-26th-match-icc-cwc-league-two-2023-27 "Canada v Nepal, 26th Match - CAN Won")
-    
-    26th Match
-    
-* [United Arab Emirates vs United States](https://www.cricbuzz.com/live-cricket-scores/106961/uae-vs-usa-27th-match-icc-cwc-league-two-2023-27 "United Arab Emirates v United States, 27th Match - USA Won")
+    [United Arab Emirates vs United States](https://www.cricbuzz.com/live-cricket-scores/106961/uae-vs-usa-27th-match-icc-cwc-league-two-2023-27 "United Arab Emirates v United States, 27th Match - USA Won")
     
     27th Match
     
-* [Nepal vs Oman  LIVE](https://www.cricbuzz.com/live-cricket-scores/106964/nep-vs-oman-28th-match-icc-cwc-league-two-2023-27 "Nepal v Oman, 28th Match - Live")
+* [Nepal vs Oman](https://www.cricbuzz.com/live-cricket-scores/106964/nep-vs-oman-28th-match-icc-cwc-league-two-2023-27 "Nepal v Oman, 28th Match - OMAN Won")
     
     28th Match
     
@@ -112,13 +108,17 @@ AllLive NowToday
     
     18th Match
     
-* [Trinbago Knight Riders vs Guyana Amazon Warriors](https://www.cricbuzz.com/live-cricket-scores/92856/tkr-vs-gaw-19th-match-cpl-2024 "Trinbago Knight Riders v Guyana Amazon Warriors, 19th Match - Preview")
+* [Guyana Amazon Warriors vs Trinbago Knight Riders  LIVE](https://www.cricbuzz.com/live-cricket-scores/92856/gaw-vs-tkr-19th-match-cpl-2024 "Guyana Amazon Warriors v Trinbago Knight Riders, 19th Match - Live")
     
     19th Match
     
 * [Trinbago Knight Riders vs Antigua and Barbuda Falcons](https://www.cricbuzz.com/live-cricket-scores/92865/tkr-vs-abf-20th-match-cpl-2024 "Trinbago Knight Riders v Antigua and Barbuda Falcons, 20th Match - Upcoming")
     
     20th Match
+    
+* [Guyana Amazon Warriors vs St Kitts and Nevis Patriots](https://www.cricbuzz.com/live-cricket-scores/92874/gaw-vs-snp-21st-match-cpl-2024 "Guyana Amazon Warriors v St Kitts and Nevis Patriots, 21st Match - Upcoming")
+    
+    21st Match
     
 * LLC 2024
     
@@ -130,13 +130,13 @@ AllLive NowToday
     
     Duleep Trophy
     
-    [India B vs India D](https://www.cricbuzz.com/live-cricket-scores/104226/indb-vs-indd-5th-match-duleep-trophy "India B v India D, 5th Match - Preview")
-    
-    5th Match
-    
-* [India A vs India C](https://www.cricbuzz.com/live-cricket-scores/104234/inda-vs-indc-6th-match-duleep-trophy "India A v India C, 6th Match - Preview")
+    [India A vs India C](https://www.cricbuzz.com/live-cricket-scores/104234/inda-vs-indc-6th-match-duleep-trophy "India A v India C, 6th Match - Preview")
     
     6th Match
+    
+* [India B vs India D](https://www.cricbuzz.com/live-cricket-scores/104226/indb-vs-indd-5th-match-duleep-trophy "India B v India D, 5th Match - Preview")
+    
+    5th Match
     
 * County Division 1
     
@@ -195,6 +195,12 @@ AllLive NowToday
 * [Pakistan Women vs South Africa Women](https://www.cricbuzz.com/live-cricket-scores/106425/pakw-vs-rsaw-3rd-t20i-south-africa-women-tour-of-pakistan "Pakistan Women v South Africa Women, 3rd T20I - Upcoming")
     
     3rd T20I
+    
+* Spain Women tour of Greece 2024
+    
+    [Greece Women vs Spain Women](https://www.cricbuzz.com/live-cricket-scores/107217/grcw-vs-spw-1st-t20i-spain-women-tour-of-greece-2024 "Greece Women v Spain Women, 1st T20I - Upcoming")
+    
+    1st T20I
     
 * Australia Women v New Zealand Women
     
@@ -513,37 +519,37 @@ This Privacy Policy (the “**Privacy Policy**”) serves to inform you of our p
 
 [Cricket provides the joy for Afghanistan again](https://www.cricbuzz.com/cricket-news/131663/cricket-provides-the-joy-for-afghanistan-again "Cricket provides the joy for Afghanistan again")
 
-51m ago
+6h ago
 
   [](https://www.cricbuzz.com/cricket-news/131662/farooqi-leads-rout-as-afghanistan-register-first-win-over-south-africa "Farooqi leads rout as Afghanistan register first win over South Africa")
 
 [Farooqi leads rout as Afghanistan register first win over South Africa](https://www.cricbuzz.com/cricket-news/131662/farooqi-leads-rout-as-afghanistan-register-first-win-over-south-africa "Farooqi leads rout as Afghanistan register first win over South Africa")
 
-1h ago
+7h ago
 
   [](https://www.cricbuzz.com/cricket-news/131661/ipl-auction-likely-to-be-overseas-in-november "IPL auction likely to be overseas in November ")
 
 [IPL auction likely to be overseas in November](https://www.cricbuzz.com/cricket-news/131661/ipl-auction-likely-to-be-overseas-in-november "IPL auction likely to be overseas in November ")
 
-2h ago
+8h ago
 
   [](https://www.cricbuzz.com/cricket-news/131660/can-litton-become-an-all-time-great "Litton 'the keeper' makes giant strides")
 
 [Litton 'the keeper' makes giant strides](https://www.cricbuzz.com/cricket-news/131660/can-litton-become-an-all-time-great "Litton 'the keeper' makes giant strides")
 
-4h ago
+10h ago
 
   [](https://www.cricbuzz.com/cricket-news/131659/kamindu-mendis-gives-sri-lanka-opening-day-honours " Kamindu Mendis gives Sri Lanka opening day honours")
 
 [Kamindu Mendis gives Sri Lanka opening day honours](https://www.cricbuzz.com/cricket-news/131659/kamindu-mendis-gives-sri-lanka-opening-day-honours " Kamindu Mendis gives Sri Lanka opening day honours")
 
-6h ago
+12h ago
 
   [](https://www.cricbuzz.com/cricket-news/131658/najmul-believes-adaptation-to-be-key-against-india "Najmul believes 'adaptation' to be key against India")
 
 [Najmul believes 'adaptation' to be key against India](https://www.cricbuzz.com/cricket-news/131658/najmul-believes-adaptation-to-be-key-against-india "Najmul believes 'adaptation' to be key against India")
 
-6h ago
+12h ago
 
 [More News](https://www.cricbuzz.com/cricket-news "Click to view more News")
 
