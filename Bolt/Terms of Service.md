@@ -29,9 +29,9 @@ Bolt
 
 Partner with Bolt
 
-[Sign up as a driver](https://bolt.eu/en/driver/)
+[Register as a driver](https://bolt.eu/en/driver/)
 
-[Sign up as a courier](https://bolt.eu/en/food/courier/)
+[Register as a courier](https://bolt.eu/en/food/courier/)
 
 [Fleets](https://bolt.eu/en/fleet/)
 
