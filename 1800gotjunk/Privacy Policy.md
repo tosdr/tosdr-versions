@@ -141,20 +141,6 @@ Our call center is busier than usual at the moment. For immediate service, pleas
 O2E Privacy Notice
 ==================
 
-Check Availability
-
-No credit card required
-
-Check Availability 
-
- 
-
-Go
-
-* No credit card required
-
-Or call [1-800-468-5865](tel://1-800-468-5865)
-
 Book Online Mobile Menu
 
 * [Book Online](https://request.1800gotjunk.com/us_en/onlinebooking)
@@ -634,6 +620,14 @@ Malcolm Propp Calgary 12/09/2024
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
+Came same day. They were polite and professional. Thank you for the great service!
+
+Liesa Evans Calgary 11/09/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
 Great guys and easy experience
 
 Honour Calgary 11/09/2024
@@ -645,14 +639,6 @@ Honour Calgary 11/09/2024
 These guys are amazing! Very thorough, very fast, and clean up behind themselves. Highly recommend!
 
 Gail Singer Calgary 11/09/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
-Came same day. They were polite and professional. Thank you for the great service!
-
-Liesa Evans Calgary 11/09/2024
 
 ![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
 
