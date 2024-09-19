@@ -20,7 +20,7 @@
     * [Meet the Team](https://clearjunction.com/meet-the-team/)
     * [Legal](https://clearjunction.com/legal/terms-of-use/)
     * [Careers](https://apply.workable.com/clearjunction/)
-    * [Contact Us](https://clearjunction.com/open-an-account/)
+    * [Contact Us](https://clearjunction.com/speak-to-support/)
 * [Insights](https://clearjunction.com/blog/)
 * [Contact Us](https://clearjunction.com/speak-to-support/)
 * [Open an Account](https://clearjunction.com/open-an-account/)
