@@ -448,7 +448,17 @@ You are seeing games that are valid in your region which is ‘%1’. If you wan
 
 To view games that are valid in your region ‘%1’, click here
 
-1.    [![Minecraft: Java & Bedrock Edition PC (WW)](https://cdn.cdkeys.com/245x340/media/catalog/product/n/e/new_project_88__2_1.jpg)   No 1. \-66%](https://www.cdkeys.com/pc/minecraft-java-bedrock-edition-pc-ww)
+1.    [![Homeworld 3 + Pre-Order Bonus PC](https://cdn.cdkeys.com/245x340/media/catalog/product/n/e/new_project_-_2023-12-06t124039.262.jpg)   No 1. \-52%](https://www.cdkeys.com/pc/homeworld-3-pc-steam)
+    
+    **[Homeworld 3 + Pre-Order Bonus PC](https://www.cdkeys.com/pc/homeworld-3-pc-steam "Homeworld 3 + Pre-Order Bonus PC")**
+    
+    Special Price $31.89 RRP $66.49
+    
+    [Add to Wish List](# "Add to Wish List")
+    
+     Buy Now
+    
+2.    [![Minecraft: Java & Bedrock Edition PC (WW)](https://cdn.cdkeys.com/245x340/media/catalog/product/n/e/new_project_88__2_1.jpg)   No 2. \-66%](https://www.cdkeys.com/pc/minecraft-java-bedrock-edition-pc-ww)
     
     **[Minecraft: Java & Bedrock Edition PC (WW)](https://www.cdkeys.com/pc/minecraft-java-bedrock-edition-pc-ww "Minecraft: Java & Bedrock Edition PC (WW)")**
     
@@ -458,37 +468,7 @@ To view games that are valid in your region ‘%1’, click here
     
      Buy Now
     
-2.    [![God of War Ragnarök PC](https://cdn.cdkeys.com/245x340/media/catalog/product/g/o/god-of-war-ragnarok-2_1.jpeg)   No 2. \-14%](https://www.cdkeys.com/pc/god-of-war-ragnarok-pc-steam)
-    
-    **[God of War Ragnarök PC](https://www.cdkeys.com/pc/god-of-war-ragnarok-pc-steam "God of War Ragnarök PC")**
-    
-    Special Price $51.49 RRP $59.99
-    
-    [Add to Wish List](# "Add to Wish List")
-    
-     Buy Now
-    
-3.    [![Warhammer 40,000: Space Marine 2 PC](https://cdn.cdkeys.com/245x340/media/catalog/product/6/9/69654.jpg)   No 3. \-30%](https://www.cdkeys.com/pc/warhammer-40-000-space-marine-2-pc-steam)
-    
-    **[Warhammer 40,000: Space Marine 2 PC](https://www.cdkeys.com/pc/warhammer-40-000-space-marine-2-pc-steam "Warhammer 40,000: Space Marine 2 PC")**
-    
-    Special Price $50.99 RRP $72.59
-    
-    [Add to Wish List](# "Add to Wish List")
-    
-     Buy Now
-    
-4.    [![Test Drive Unlimited Solar Crown - Gold Edition PC](https://cdn.cdkeys.com/245x340/media/catalog/product/t/e/test_drive_unlimited_solar_crown_-_gold_edition.jpg)   No 4. \-44%](https://www.cdkeys.com/pc/test-drive-unlimited-solar-crown-gold-edition-pc-steam)
-    
-    **[Test Drive Unlimited Solar Crown - Gold Edition PC](https://www.cdkeys.com/pc/test-drive-unlimited-solar-crown-gold-edition-pc-steam "Test Drive Unlimited Solar Crown - Gold Edition PC")**
-    
-    Special Price $51.49 RRP $92.39
-    
-    [Add to Wish List](# "Add to Wish List")
-    
-     Buy Now
-    
-5.    [![EA Sports FC 24 - 5900 FC Points PC](https://cdn.cdkeys.com/245x340/media/catalog/product/5/9/5900_points_pc.jpg)   No 5. \-38%](https://www.cdkeys.com/pc/ea-sports-fc-24-5900-fc-points-pc-ea-app)
+3.    [![EA Sports FC 24 - 5900 FC Points PC](https://cdn.cdkeys.com/245x340/media/catalog/product/5/9/5900_points_pc.jpg)   No 3. \-39%](https://www.cdkeys.com/pc/ea-sports-fc-24-5900-fc-points-pc-ea-app)
     
     **[EA Sports FC 24 - 5900 FC Points PC](https://www.cdkeys.com/pc/ea-sports-fc-24-5900-fc-points-pc-ea-app "EA Sports FC 24 - 5900 FC Points PC")**
     
@@ -498,7 +478,7 @@ To view games that are valid in your region ‘%1’, click here
     
      Buy Now
     
-6.    [![EA Sports FC 24 - 12000 FC Points PC](https://cdn.cdkeys.com/245x340/media/catalog/product/1/2/12k_points.jpg)   No 6. \-34%](https://www.cdkeys.com/pc/ea-sports-fc-24-12000-fc-points-pc-ea-app)
+4.    [![EA Sports FC 24 - 12000 FC Points PC](https://cdn.cdkeys.com/245x340/media/catalog/product/1/2/12k_points.jpg)   No 4. \-34%](https://www.cdkeys.com/pc/ea-sports-fc-24-12000-fc-points-pc-ea-app)
     
     **[EA Sports FC 24 - 12000 FC Points PC](https://www.cdkeys.com/pc/ea-sports-fc-24-12000-fc-points-pc-ea-app "EA Sports FC 24 - 12000 FC Points PC")**
     
@@ -508,9 +488,41 @@ To view games that are valid in your region ‘%1’, click here
     
      Buy Now
     
-7.    [![Black Myth: Wukong PC](https://cdn.cdkeys.com/245x340/media/catalog/product/b/l/black-myth-wukong-steam.jpg)   No 7. \-14%](https://www.cdkeys.com/pc/black-myth-wukong-pc-steam)
+5.    [![DRAGON BALL: Sparking! ZERO Ultimate Edition PC](https://cdn.cdkeys.com/245x340/media/catalog/product/z/e/zero_ultimate_edition.jpg)   No 5. \-26%
     
-    **[Black Myth: Wukong PC](https://www.cdkeys.com/pc/black-myth-wukong-pc-steam "Black Myth: Wukong PC")**
+    Pre-order](https://www.cdkeys.com/pc/dragon-ball-sparking-zero-ultimate-edition-pc-steam)
+    
+    **[DRAGON BALL: Sparking! ZERO Ultimate Edition PC](https://www.cdkeys.com/pc/dragon-ball-sparking-zero-ultimate-edition-pc-steam "DRAGON BALL: Sparking! ZERO Ultimate Edition PC")**
+    
+    Special Price $92.39 RRP $125.39
+    
+    [Add to Wish List](# "Add to Wish List")
+    
+     Buy Now
+    
+6.    [![PlateUp! PC](https://cdn.cdkeys.com/245x340/media/catalog/product/1/0/103022rq0760szq3p0o70o_1_3.jpg)   No 6. \-83%](https://www.cdkeys.com/pc/plateup-pc-steam)
+    
+    **[PlateUp! PC](https://www.cdkeys.com/pc/plateup-pc-steam "PlateUp! PC")**
+    
+    Special Price $4.39 RRP $26.59
+    
+    [Add to Wish List](# "Add to Wish List")
+    
+     Buy Now
+    
+7.    [![Warhammer 40,000: Space Marine 2 PC](https://cdn.cdkeys.com/245x340/media/catalog/product/6/9/69654.jpg)   No 7. \-30%](https://www.cdkeys.com/pc/warhammer-40-000-space-marine-2-pc-steam)
+    
+    **[Warhammer 40,000: Space Marine 2 PC](https://www.cdkeys.com/pc/warhammer-40-000-space-marine-2-pc-steam "Warhammer 40,000: Space Marine 2 PC")**
+    
+    Special Price $50.99 RRP $73.09
+    
+    [Add to Wish List](# "Add to Wish List")
+    
+     Buy Now
+    
+8.    [![God of War Ragnarök PC](https://cdn.cdkeys.com/245x340/media/catalog/product/g/o/god-of-war-ragnarok-2_1.jpeg)   No 8. \-14%](https://www.cdkeys.com/pc/god-of-war-ragnarok-pc-steam)
+    
+    **[God of War Ragnarök PC](https://www.cdkeys.com/pc/god-of-war-ragnarok-pc-steam "God of War Ragnarök PC")**
     
     Special Price $51.49 RRP $59.99
     
@@ -518,21 +530,11 @@ To view games that are valid in your region ‘%1’, click here
     
      Buy Now
     
-8.    [![FINAL FANTASY XVI PC](https://cdn.cdkeys.com/245x340/media/catalog/product/f/i/final_fantasy_xvi_.png)   No 8. \-26%](https://www.cdkeys.com/pc/final-fantasy-xvi-pc-steam)
+9.    [![FINAL FANTASY XVI PC](https://cdn.cdkeys.com/245x340/media/catalog/product/f/i/final_fantasy_xvi_.png)   No 9. \-26%](https://www.cdkeys.com/pc/final-fantasy-xvi-pc-steam)
     
     **[FINAL FANTASY XVI PC](https://www.cdkeys.com/pc/final-fantasy-xvi-pc-steam "FINAL FANTASY XVI PC")**
     
     Special Price $43.89 RRP $59.39
-    
-    [Add to Wish List](# "Add to Wish List")
-    
-     Buy Now
-    
-9.    [![FINAL FANTASY XVI COMPLETE EDITION PC](https://cdn.cdkeys.com/245x340/media/catalog/product/f/i/final_fantasy_xvi_complete_edition.png)   No 9. \-28%](https://www.cdkeys.com/pc/final-fantasy-xvi-complete-edition-pc-steam)
-    
-    **[FINAL FANTASY XVI COMPLETE EDITION PC](https://www.cdkeys.com/pc/final-fantasy-xvi-complete-edition-pc-steam "FINAL FANTASY XVI COMPLETE EDITION PC")**
-    
-    Special Price $61.39 RRP $85.79
     
     [Add to Wish List](# "Add to Wish List")
     
