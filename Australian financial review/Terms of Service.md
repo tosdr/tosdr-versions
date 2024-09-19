@@ -305,15 +305,15 @@ Advertise
 [BOSS Financial Review](https://www.afr.com/boss)
 -------------------------------------------------
 
-[![Andrew Pridham at Edes in Sydney’s CBD. ](https://static.ffx.io/images/$zoom_0.2133%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_272%2C$y_0/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/7ee1720736c410e6d1481f7000118f6319a9d3ba)](https://www.afr.com/work-and-careers/leaders/suffering-in-silence-swans-chairman-on-finals-fans-and-robin-khuda-20240911-p5k9uw)
+[![The Walt Disney Company’s managing director ANZ, Kylie Watson-Wheeler, is also president of AFL club the Western Bulldogs.](https://static.ffx.io/images/$zoom_0.9106%2C$multiply_1%2C$ratio_1.777778%2C$width_1059%2C$x_923%2C$y_1199/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/07972d4c9090d3a780ce0db627e27a60711e2750)](https://www.afr.com/work-and-careers/leaders/disney-chief-goes-retro-for-afl-finals-to-reel-in-streaming-rivals-20240910-p5k9cv)
 
-### [Suffering in silence: Swans chairman on finals, fans and Robin Khuda](https://www.afr.com/work-and-careers/leaders/suffering-in-silence-swans-chairman-on-finals-fans-and-robin-khuda-20240911-p5k9uw)
+### [Disney chief goes retro for AFL finals to reel in streaming rivals](https://www.afr.com/work-and-careers/leaders/disney-chief-goes-retro-for-afl-finals-to-reel-in-streaming-rivals-20240910-p5k9cv)
 
-* Sally Patten
+* Patrick Durkin
 
-* ### [Tabcorp CEO Gill McLachlan orders staff back to office five days a week](https://www.afr.com/work-and-careers/workplace/tabcorp-ceo-gill-mclachlan-orders-staff-back-to-office-five-days-a-week-20240909-p5k8xt)
+* ### [Suffering in silence: Swans chairman on finals, fans and Robin Khuda](https://www.afr.com/work-and-careers/leaders/suffering-in-silence-swans-chairman-on-finals-fans-and-robin-khuda-20240911-p5k9uw)
     
-* ### [What this CEO learnt from Mike Cannon-Brookes and Scott Farquhar](https://www.afr.com/work-and-careers/leaders/what-this-ceo-learnt-from-mike-cannon-brookes-and-scott-farquhar-20240913-p5kach)
+* ### [Tabcorp CEO Gill McLachlan orders staff back to office five days a week](https://www.afr.com/work-and-careers/workplace/tabcorp-ceo-gill-mclachlan-orders-staff-back-to-office-five-days-a-week-20240909-p5k8xt)
     
 
 [Life & Leisure](https://www.afr.com/life-and-leisure)
