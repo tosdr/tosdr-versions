@@ -105,9 +105,9 @@ GET IT ON
 
 [](https://www.simon.com/ "Simon Malls & Mills Home")
 
-* [Brands](https://www.simon.com/brands)
-* [Centers](https://www.simon.com/mall)
-* [Travel](https://www.simon.com/travel)
+* [Brands](https://www.simon.com/brands "Find Brands & Designer Store Locations")
+* [Centers](https://www.simon.com/mall "Find a Local Simon Center Near You")
+* [Travel](https://www.simon.com/travel "Visit a Simon Travel Destination Around The U.S.A.")
 
 Menu
 
@@ -115,11 +115,9 @@ Menu
 
 Use your location to find centers near you
 
-* [About](https://business.simon.com/why-simon "About Simon")
-* [Brands](https://www.simon.com/brands "Brands")
-* [All Properties](https://www.simon.com/mall)
-* [Giftcards](https://www.simon.com/giftcard)
-* [Travel](https://www.simon.com/travel)
+* [Brands](https://www.simon.com/brands "Find Brands & Designer Store Locations")
+* [Centers](https://www.simon.com/mall "Find a Local Simon Center Near You")
+* [Travel](https://www.simon.com/travel "Visit a Simon Travel Destination Around The U.S.A.")
 * Shop Online
     
     Women's Most Popular
