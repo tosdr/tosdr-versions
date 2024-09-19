@@ -33,7 +33,7 @@ Check out
     
     -------------
     
-    [ELECTROLYTES](https://puresportcbd.com/en-us/collections/electrolytes) [FREEZE ROLL & BALMS](https://puresportcbd.com/en-us/collections/cbd-balm-freeze-roll-on) [PERFORMANCE SUPPLEMENTS](https://puresportcbd.com/en-us/collections/nootropics) [FUNCTIONAL MUSHROOMS](https://puresportcbd.com/en-us/collections/functional-mushrooms) [SHOP ALL](https://puresportcbd.com/en-us/collections/all) [BUNDLES](https://puresportcbd.com/en-us/collections/bundles)
+    [FREEZE ROLL & BALMS](https://puresportcbd.com/en-us/collections/cbd-balm-freeze-roll-on) [PERFORMANCE SUPPLEMENTS](https://puresportcbd.com/en-us/collections/nootropics) [FUNCTIONAL MUSHROOMS](https://puresportcbd.com/en-us/collections/functional-mushrooms) [SHOP ALL](https://puresportcbd.com/en-us/collections/all) [BUNDLES](https://puresportcbd.com/en-us/collections/bundles) [ELECTROLYTES](https://puresportcbd.com/en-us/collections/electrolytes)
     
 * APPAREL
     
@@ -47,7 +47,7 @@ Check out
     
     --------------
     
-    [HYDRATION](https://puresportcbd.com/en-us/collections/electrolytes) [PERFORMANCE](https://puresport.co/collections/performance-supplements) [SLEEP](https://puresportcbd.com/en-us/collections/sleep) [RECOVERY](https://puresportcbd.com/en-us/collections/recovery) [HORMONE BALANCE](https://puresportcbd.com/en-us/collections/hormone-support)
+    [PERFORMANCE](https://puresport.co/collections/performance-supplements) [SLEEP](https://puresportcbd.com/en-us/collections/sleep) [RECOVERY](https://puresportcbd.com/en-us/collections/recovery) [HORMONE BALANCE](https://puresportcbd.com/en-us/collections/hormone-support) [HYDRATION](https://puresportcbd.com/en-us/collections/electrolytes)
     
 * Community
     
@@ -58,7 +58,7 @@ Check out
 
 * [ ]  [Supplements](https://puresportcbd.com/en-us/collections/all)
     
-    [![](//puresport.co/cdn/shop/files/Hovers.jpg?v=1722351932&width=900)](https://puresportcbd.com/en-us/collections/cbd-balm-freeze-roll-on)[![](//puresport.co/cdn/shop/files/Hormone_Balance.jpg?v=1722345375&width=900)](https://puresportcbd.com/en-us/collections/nootropics)[![](//puresport.co/cdn/shop/files/Hovers5.jpg?v=1722351810&width=900)](https://puresportcbd.com/en-us/collections/functional-mushrooms)[![](//puresport.co/cdn/shop/files/Performance_3419c296-7e11-4124-9b5e-4d309cd1e3cd.jpg?v=1722352355&width=900)](https://puresportcbd.com/en-us/collections/all)[](https://puresportcbd.com/en-us/collections/bundles)
+    [![](//puresport.co/cdn/shop/files/Hovers.jpg?v=1722351932&width=900)](https://puresportcbd.com/en-us/collections/cbd-balm-freeze-roll-on)[![](//puresport.co/cdn/shop/files/Hormone_Balance.jpg?v=1722345375&width=900)](https://puresportcbd.com/en-us/collections/nootropics)[![](//puresport.co/cdn/shop/files/Hovers5.jpg?v=1722351810&width=900)](https://puresportcbd.com/en-us/collections/functional-mushrooms)[![](//puresport.co/cdn/shop/files/Performance_3419c296-7e11-4124-9b5e-4d309cd1e3cd.jpg?v=1722352355&width=900)](https://puresportcbd.com/en-us/collections/all)[![](//puresport.co/cdn/shop/files/Untitled_design_21_60a0c5ea-2233-47bc-b368-66c684269b39.jpg?v=1724334260&width=900)](https://puresportcbd.com/en-us/collections/bundles)
     
     SHOP BY CATEGORY
     
