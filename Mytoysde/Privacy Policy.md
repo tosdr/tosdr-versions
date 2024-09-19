@@ -23,33 +23,91 @@ Highlights![](https://i.otto.de/i/otto/mpp360_163839_221098?w=200&h=200&upscale=
 
 Warenkorb Warenkorb
 
-* [Inspiration![](https://i.otto.de/i/otto/mpp360_124228_152637/?h=200&upscale=true&w=200)](https://www.mirapodo.de/inspiration/)
+* [Inspiration](https://www.mirapodo.de/inspiration/)
 
-* [Damen-Mode![](https://i.otto.de/i/otto/cd05c6c6-8692-5b95-95c3-c221f3e2a99c/?h=200&upscale=true&w=200)](https://www.mirapodo.de/damen/)
+* [Damen-Mode](https://www.mirapodo.de/damen/)
 
-* [Herren-Mode![](https://i.otto.de/i/otto/28397874/?h=200&upscale=true&w=200)](https://www.mirapodo.de/herren/)
+* [Herren-Mode](https://www.mirapodo.de/herren/)
 
-* [Baby & Kind![](https://i.otto.de/i/otto/307b2380-0331-5b49-bfbb-6d606ff15bf6/?h=200&upscale=true&w=200)](https://www.mirapodo.de/babys/baby-kind/)
+* [Baby & Kind](https://www.mirapodo.de/babys/baby-kind/)
 
-* [Sport![](https://i.otto.de/i/otto/18517368/?h=200&upscale=true&w=200)](https://www.mirapodo.de/sport/)
+* [Sport](https://www.mirapodo.de/sport/)
 
-* [Drogerie![](https://i.otto.de/i/otto/f1707ac6-3183-5795-aada-f0e9c849449e/?h=200&upscale=true&w=200)](https://www.mirapodo.de/koerperpflege/drogerie/)
+* [Drogerie](https://www.mirapodo.de/koerperpflege/drogerie/)
 
-* [Multimedia![](https://i.otto.de/i/otto/34177157/?h=200&upscale=true&w=200)](https://www.mirapodo.de/technik/multimedia/)
+* [Multimedia](https://www.mirapodo.de/technik/multimedia/)
 
-* [Haushalt![](https://i.otto.de/i/otto/20608712/?h=200&upscale=true&w=200)](https://www.mirapodo.de/haushalt/?ansicht=einstieg)
+* [Haushalt](https://www.mirapodo.de/haushalt/?ansicht=einstieg)
 
-* [Küche![](https://i.otto.de/i/otto/35333038/?h=200&upscale=true&w=200)](https://www.mirapodo.de/moebel/?ansicht=einstieg&thema=kueche)
+* [Küche](https://www.mirapodo.de/moebel/?ansicht=einstieg&thema=kueche)
 
-* [Heimtextilien![](https://i.otto.de/i/otto/18763571/?h=200&upscale=true&w=200)](https://www.mirapodo.de/heimtextilien/?ansicht=einstieg)
+* [Heimtextilien](https://www.mirapodo.de/heimtextilien/?ansicht=einstieg)
 
-* [Möbel![](https://i.otto.de/i/otto/19992267/?h=200&upscale=true&w=200)](https://www.mirapodo.de/moebel/?ansicht=einstieg)
+* [Möbel](https://www.mirapodo.de/moebel/?ansicht=einstieg)
 
-* [Baumarkt![](https://i.otto.de/i/otto/2e04cc29-0785-5cbf-ad7b-24c9bc19c946/?h=200&upscale=true&w=200)](https://www.mirapodo.de/baumarkt/)
+* [Baumarkt](https://www.mirapodo.de/baumarkt/)
 
-* [Marken![](https://i.otto.de/i/otto/001_2020_28_kund_repraesentant_fuer_marken_kleine_shoppromotion_72615/?h=200&upscale=true&w=200)](https://www.mirapodo.de/marken/)
+* [Marken](https://www.mirapodo.de/marken/)
 
-* [%Sale%![](https://i.otto.de/i/otto/001_2019_09_sale_dauerhafteaktionen_flexpage_22966_shopteaser_3/?h=200&upscale=true&w=200)](https://www.mirapodo.de/sale/)
+* [%Sale%](https://www.mirapodo.de/sale/)
+
+ 
+
+Damen-Mode![](https://i.otto.de/i/otto/cd05c6c6-8692-5b95-95c3-c221f3e2a99c/?h=200&upscale=true&w=200)
+
+<Zurück[Damen-Mode](https://www.mirapodo.de/damen/)
+
+Herren-Mode![](https://i.otto.de/i/otto/28397874/?h=200&upscale=true&w=200)
+
+<Zurück[Herren-Mode](https://www.mirapodo.de/herren/)
+
+Baby & Kind![](https://i.otto.de/i/otto/307b2380-0331-5b49-bfbb-6d606ff15bf6/?h=200&upscale=true&w=200)
+
+<Zurück[Baby & Kind](https://www.mirapodo.de/babys/baby-kind/)
+
+Sport![](https://i.otto.de/i/otto/18517368/?h=200&upscale=true&w=200)
+
+<Zurück[Sport](https://www.mirapodo.de/sport/)
+
+Drogerie![](https://i.otto.de/i/otto/f1707ac6-3183-5795-aada-f0e9c849449e/?h=200&upscale=true&w=200)
+
+<Zurück[Drogerie](https://www.mirapodo.de/koerperpflege/drogerie/)
+
+Multimedia![](https://i.otto.de/i/otto/34177157/?h=200&upscale=true&w=200)
+
+<Zurück[Multimedia](https://www.mirapodo.de/technik/multimedia/)
+
+Haushalt![](https://i.otto.de/i/otto/20608712/?h=200&upscale=true&w=200)
+
+<Zurück[Haushalt](https://www.mirapodo.de/haushalt/?ansicht=einstieg)
+
+Küche![](https://i.otto.de/i/otto/35333038/?h=200&upscale=true&w=200)
+
+<Zurück[Küche](https://www.mirapodo.de/moebel/?ansicht=einstieg&thema=kueche)
+
+Heimtextilien![](https://i.otto.de/i/otto/18763571/?h=200&upscale=true&w=200)
+
+<Zurück[Heimtextilien](https://www.mirapodo.de/heimtextilien/?ansicht=einstieg)
+
+Möbel![](https://i.otto.de/i/otto/19992267/?h=200&upscale=true&w=200)
+
+<Zurück[Möbel](https://www.mirapodo.de/moebel/?ansicht=einstieg)
+
+Baumarkt![](https://i.otto.de/i/otto/2e04cc29-0785-5cbf-ad7b-24c9bc19c946/?h=200&upscale=true&w=200)
+
+<Zurück[Baumarkt](https://www.mirapodo.de/baumarkt/)
+
+Inspiration![](https://i.otto.de/i/otto/mpp360_124228_152637/?h=200&upscale=true&w=200)
+
+<Zurück[Inspiration](https://www.mirapodo.de/inspiration/)
+
+Marken![](https://i.otto.de/i/otto/001_2020_28_kund_repraesentant_fuer_marken_kleine_shoppromotion_72615/?h=200&upscale=true&w=200)
+
+<Zurück[Marken](https://www.mirapodo.de/marken/)
+
+%Sale%![](https://i.otto.de/i/otto/001_2019_09_sale_dauerhafteaktionen_flexpage_22966_shopteaser_3/?h=200&upscale=true&w=200)
+
+<Zurück[%Sale%](https://www.mirapodo.de/sale/)
 
  
 
