@@ -544,7 +544,7 @@ You can also send an email to: [\[email protected\]](https://www.teachingchann
 
  
 
- **[Use promo code FALLHARVEST24 to get 16% off](https://courses.teachingchannel.com/courses/dl/all?content=&grade=&credits=&format=&partner=&bundle=&srch=&nat=false)** [1, 2, and 3-credit courses! Now through September 24.](https://courses.teachingchannel.com/courses/dl/all?content=&grade=&credits=&format=&partner=&bundle=&srch=&nat=false) [Register Now](https://courses.teachingchannel.com/courses/dl/all?content=&grade=&credits=&format=&partner=&bundle=&srch=&nat=false) [>](https://www.teachingchannel.com/dog-days-of-summer-sale-2024/)[\>](https://www.teachingchannel.com/ai-flash-sale/)
+[Use promo code FALLHARVEST24 to get 16% off 1, 2, and 3-credit courses! Now through September 24. Register Now](http://courses.teachingchannel.com/courses/dl/all?content=&grade=&credits=&format=&partner=&bundle=&srch=&nat=false) >>
 
 ![close-image](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2015%2015'%3E%3C/svg%3E)
 
@@ -555,9 +555,3 @@ You can also send an email to: [\[email protected\]](https://www.teachingchann
 What are you looking for?
 
  Search
-
-This site uses cookies to enhance user experience, analyze site usage and provide a personalized browsing experience. By continuing to use this site, you are giving us your consent to do this. Learn more about cookies by visiting our [privacy policy](https://www.teachingchannel.com/privacy-policy/#cookies) page.
-
-[Learn More](https://www.teachingchannel.com/privacy-policy/#cookies)[I Agree](https://www.teachingchannel.com/)
-
-[Ok](#)
