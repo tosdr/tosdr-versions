@@ -158,11 +158,11 @@ Regions
 
 Recent Stories
 
+[### She’s chubby, wet, and fierce. Meet Moo Deng, a baby hippo and internet darling.](https://www.csmonitor.com/World/Asia-South-Central/2024/0919/moo-deng-pygmy-baby-hippo-thailand "She’s chubby, wet, and fierce. Meet Moo Deng, a baby hippo and internet darling.")
+
+[### In New Hampshire, African refugees get a plot of their own to farm crops from home](https://www.csmonitor.com/USA/2024/0919/african-refugees-local-farming-new-hampshire "In New Hampshire, African refugees get a plot of their own to farm crops from home")
+
 [### What the pager attack in Lebanon means for Israel-Hezbollah conflict](https://www.csmonitor.com/World/Middle-East/2024/0918/exploding-pagers-israel-hezbollah-lebanon-attack "What the pager attack in Lebanon means for Israel-Hezbollah conflict")
-
-[### Why Kashmir’s local election could usher in a new political era](https://www.csmonitor.com/World/Asia-South-Central/2024/0918/Kashmir-legislative-assembly-elections "Why Kashmir’s local election could usher in a new political era")
-
-[### How an overlooked county landed the new FBI headquarters and tech jobs](https://www.csmonitor.com/USA/2024/0918/prince-george-s-county-maryland-jobs-FBI "How an overlooked county landed the new FBI headquarters and tech jobs")
 
 * * *
 
