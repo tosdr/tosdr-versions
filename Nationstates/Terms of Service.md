@@ -34,11 +34,10 @@ Login Stay logged in
 
 Latest Forum Topics
 
-* [American Politics: Another Attempt Av… (6,973)](https://forum.nationstates.net/viewtopic.php?t=553897&f=20&view=unread#unread ""American Politics: Another Attempt Avoided" (6,973 posts)")
-* [YL is suddenly engaged to marry AL -… (23)](https://forum.nationstates.net/viewtopic.php?t=555010&f=25&view=unread#unread ""YL is suddenly engaged to marry AL - reaction, YL?" (23 posts)")
-* [Best NSPlayer September 2024 (117)](https://forum.nationstates.net/viewtopic.php?t=554833&f=25&view=unread#unread ""Best NSPlayer September 2024" (117 posts)")
-* [Does YL love AL? (31)](https://forum.nationstates.net/viewtopic.php?t=555016&f=25&view=unread#unread ""Does YL love AL?" (31 posts)")
-* [What religion does AU follow? (OOC) (833)](https://forum.nationstates.net/viewtopic.php?t=553197&f=25&view=unread#unread ""What religion does AU follow? (OOC)" (833 posts)")
+* [Transformers: Electric Trepidation (7,655)](https://forum.nationstates.net/viewtopic.php?t=548040&f=20&view=unread#unread ""Transformers: Electric Trepidation" (7,655 posts)")
+* [Rename AN as a colony of YN. (451)](https://forum.nationstates.net/viewtopic.php?t=552862&f=25&view=unread#unread ""Rename AN as a colony of YN." (451 posts)")
+* [Games of the XVIII Olympiad - rolepla… (291)](https://forum.nationstates.net/viewtopic.php?t=554648&f=7&view=unread#unread ""Games of the XVIII Olympiad - roleplaying thread" (291 posts)")
+* [\[SUBMITTED\] International Criminal Ap… (28)](https://forum.nationstates.net/viewtopic.php?t=550096&f=9&view=unread#unread ""[SUBMITTED] International Criminal Apprehension Accord" (28 posts)")
 
 Advertisement
 
