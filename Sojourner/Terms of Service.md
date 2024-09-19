@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-a60bd98fce94e946b9da963f051df6df
+78a4825d17d633590dfa8a72134f732f
 
 [](# "Expand for more options")[](# "Search")
 
@@ -142,11 +142,11 @@ Terms and Conditions
 
 ### Featured Product
 
-[![14 mm soft white oval pearls](https://sojourner.biz/images/cache/pearls/PE0059.200.jpg)](https://sojourner.biz/beads/pearls/14-mm-soft-white-oval-pearls.html "14 mm soft white oval pearls")
+[![6 mm red heart beads](https://sojourner.biz/images/cache/glass/HRT005.200.jpg)](https://sojourner.biz/beads/glass/6-mm-red-heart-beads.html "6 mm red heart beads")
 
-#### [14 mm soft white oval pearls](https://sojourner.biz/beads/pearls/14-mm-soft-white-oval-pearls.html "14 mm soft white oval pearls")
+#### [6 mm red heart beads](https://sojourner.biz/beads/glass/6-mm-red-heart-beads.html "6 mm red heart beads")
 
-$45.00
+$2.00
 
 ### Best Sellers
 
