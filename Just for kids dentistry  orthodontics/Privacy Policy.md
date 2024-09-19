@@ -2,13 +2,21 @@
 
 [Book Appt](https://flexbook.me/jfkdurango/website) [Get directions](https://goo.gl/maps/UCUTUsbTmyqQpT646) [Call](tel:702-740-5437)
 
-[](tel:702-740-5437)[Open or Close Menu](#sidr-main) [![Just for Kids Dentistry & Orthodontics mobile Logo](https://www.justforkidsdentistrylv.com/wp-content/uploads/2022/07/Just-For-Kids-Dentistry-color-Logo.svg)](https://www.justforkidsdentistrylv.com/)
+[](tel:702-740-5437)[Open or Close Menu](#sidr-main) [![Just for Kids Dentistry & Orthodontics mobile Logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+
+![Just for Kids Dentistry & Orthodontics mobile Logo](https://www.justforkidsdentistrylv.com/wp-content/uploads/2022/07/Just-For-Kids-Dentistry-color-Logo.svg)](https://www.justforkidsdentistrylv.com/)
 
 [7140 N Durango Dr Ste 110, Las Vegas, NV 89149](https://goo.gl/maps/UCUTUsbTmyqQpT646) [Call Us at 702-740-5437](tel:702-740-5437) [Pay Now](https://www.patientviewer.com/?ID=12839&PAY=Y)
 
 [](https://www.facebook.com/justforkidsdentistryandorthodontics/)[](https://www.instagram.com/justforkids_durango/)[](https://goo.gl/maps/UCUTUsbTmyqQpT646)[](https://www.yelp.com/biz/just-for-kids-dentistry-and-orthodontics-las-vegas)
 
- [![Just for Kids Dentistry & Orthodontics desktop Logo](https://www.justforkidsdentistrylv.com/wp-content/uploads/2022/07/Just-For-Kids-Dentistry-color-Logo.svg) ![Just for Kids Dentistry & Orthodontics mobile Logo](https://www.justforkidsdentistrylv.com/wp-content/uploads/2022/07/Just-For-Kids-Dentistry-color-Logo.svg)](https://www.justforkidsdentistrylv.com/)
+[![Just for Kids Dentistry & Orthodontics desktop Logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+
+![Just for Kids Dentistry & Orthodontics desktop Logo](https://www.justforkidsdentistrylv.com/wp-content/uploads/2022/07/Just-For-Kids-Dentistry-color-Logo.svg)
+
+![Just for Kids Dentistry & Orthodontics mobile Logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+
+![Just for Kids Dentistry & Orthodontics mobile Logo](https://www.justforkidsdentistrylv.com/wp-content/uploads/2022/07/Just-For-Kids-Dentistry-color-Logo.svg)](https://www.justforkidsdentistrylv.com/)
 
 * [Kids Dentists](https://www.justforkidsdentistrylv.com/kids-dentists/)
 * [Our Difference](https://www.justforkidsdentistrylv.com/difference/)
