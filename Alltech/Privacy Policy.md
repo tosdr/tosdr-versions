@@ -102,6 +102,8 @@ Middle East
 
 [Morocco](https://www.alltech.com/fr-ma)
 
+[South Africa](https://www.alltech.com/test)
+
 [UAE](https://www.alltech.com/ae-en)
 
 [![Alltech Inc. logo](/themes/custom/alltechcom2017/assets/src/images/logo-black.png)](https://www.alltech.com/)
