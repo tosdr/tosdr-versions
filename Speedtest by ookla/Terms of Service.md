@@ -2,43 +2,35 @@
 
 [](#)[](#)
 
+[![Speedtest app promo](/s/images/speedtest/apps/ios/speedtest-app-promo-1x.png)](itms-apps://apps.apple.com/us/app/speedtest-by-ookla/id300704847)
+
+[![Speedtest app promo](/s/images/speedtest/apps/android/masthead-app-promo-android-1x.png)](https://play.google.com/store/apps/details?id=org.zwanoo.android.speedtest)
+
 * [Apps](https://www.speedtest.net/apps)
-    * [iOS](https://www.speedtest.net/apps/ios)
     * [Android](https://www.speedtest.net/apps/android)
-    * [Mac](https://www.speedtest.net/apps/mac)
-    * [Windows](https://www.speedtest.net/apps/windows)
     * [Apple TV](https://www.speedtest.net/apps/appletv)
-    * [CLI](https://www.speedtest.net/apps/cli)
-    * [VPN](https://www.speedtest.net/apps/vpn)
-* [Research](https://www.ookla.com/research)
-    * [Articles](https://www.ookla.com/articles)
+    * [iOS](https://www.speedtest.net/apps/ios)
+    * [macOS](https://www.speedtest.net/apps/mac)
+    * [Windows](https://www.speedtest.net/apps/windows)
+* Learn
+    * [Glossary](https://www.speedtest.net/about/knowledge/glossary)
+    * [Guides](https://www.speedtest.net/about/knowledge/guides)
+    * [FAQ](https://www.speedtest.net/about/knowledge/faq)
+* Data
+    * [Ookla Research™](https://www.ookla.com/articles)
     * [Speedtest Global Index™](https://www.speedtest.net/global-index)
-    * [Performance Directory](https://www.speedtest.net/performance/united-states)
-    * [Ookla 5G Map™](https://www.speedtest.net/ookla-5g-map)
-* [Network](https://www.ookla.com/network)
-* [Developers](https://www.speedtest.net/apps/cli)
-* [Enterprise](https://www.speedtest.net/enterprise)
-    * [Speedtest Intelligence](https://www.ookla.com/speedtest-intelligence)
-    * [Cell Analytics](https://www.ookla.com/cell-analytics)
-    * [Ookla Wind](https://www.ookla.com/wind)
-    * [Downdetector Connect](https://www.ookla.com/downdetector-connect)
-    * [Speedtest Powered](https://www.ookla.com/speedtest-powered)
-    * [Speedtest Embedded](https://www.ookla.com/speedtest-embedded)
-    * [Speedtest SDK](https://www.ookla.com/speedtest-sdk)
-    * [GIS Datasets](https://www.ookla.com/gis-datasets)
-    * [Speedtest Custom](https://www.ookla.com/speedtest-custom)
-    * [Cell Maps](https://www.ookla.com/cell-maps)
-    * [Tower Source](https://www.ookla.com/tower-source)
-    * [Map Elements](https://www.ookla.com/map-elements)
-    * [Partners & Programs](https://www.ookla.com/partnerships)
-    * [Downdetector Explorer](https://downdetector.com/for-business)
-* [About](https://www.speedtest.net/about)
+    * [Speedtest Performance Directory™](https://www.speedtest.net/performance/united-states)
+* About
+    * [Apps](https://www.speedtest.net/apps)
+    * [Methodology](https://www.speedtest.net/methodology)
     * [Press](https://www.ookla.com/about/press)
-    * [Knowledge Base](https://www.speedtest.net/about/knowledge)
+    * [Ookla](https://www.ookla.com/)
     * [Advertise](https://www.speedtest.net/about/advertising)
-    * [Careers](https://www.ookla.com/about/careers)
-* [Log In](https://www.speedtest.net/login)
-    * [Results History](https://www.speedtest.net/results)
+
+* [HELP](https://www.speedtest.net/help)
+* [](https://www.speedtest.net/help "Help")
+* [](https://www.speedtest.net/login)
+    * [Result History](https://www.speedtest.net/results)
     * [Settings](https://www.speedtest.net/settings)
     * [Help](https://www.speedtest.net/help)
     * [Create Account](https://www.speedtest.net/register)
@@ -321,79 +313,49 @@ IF FOR ANY REASON, YOU ARE UNABLE OR UNWILLING TO AGREE TO ALL OUR TERMS OF USE,
 
 ### [Speedtest®](https://www.speedtest.net/)
 
+* [Account](https://www.speedtest.net/login)
 * [Advertise](https://www.speedtest.net/about/advertising)
-* [Ookla 5G Map™](https://www.speedtest.net/ookla-5g-map)
-* [Ookla Research™](https://www.ookla.com/research)
-* [Speedtest Awards™](https://www.speedtest.net/awards)
-* [Speedtest Global Index™](https://www.speedtest.net/global-index)
-* [Performance Directory](https://www.speedtest.net/performance/united-states)
 * [Speedtest Servers™](https://www.ookla.com/network)
+* [Speedtest Performance Directory™](https://www.speedtest.net/performance/united-states)
 
-* [Twitter](https://twitter.com/speedtest)
-* [Facebook](https://www.facebook.com/speedtest)
+* [](https://twitter.com/speedtest)
+* [](https://www.facebook.com/speedtest)
+
+### [Ziff Davis](https://www.ziffdavis.com/)
+
+### Ookla® Brands
+
+* [Downdetector®](https://downdetector.com/)
+* [Ekahau®](https://www.ekahau.com/)
+* [RootMetrics®](https://rootmetrics.com/)
 
 ### [Apps](https://www.speedtest.net/apps)
 
 * [Android](https://www.speedtest.net/apps/android)
 * [Apple TV](https://www.speedtest.net/apps/appletv)
-* [CLI](https://www.speedtest.net/apps/cli)
 * [iOS](https://www.speedtest.net/apps/ios)
 * [macOS](https://www.speedtest.net/apps/mac)
 * [Windows](https://www.speedtest.net/apps/windows)
-* [Speedtest VPN™](https://www.speedtest.net/apps/vpn)
 
-### Account
+### Languages
 
-* [Results History](https://www.speedtest.net/results)
-* [Settings](https://www.speedtest.net/settings)
-* [Help](https://www.speedtest.net/help)
-
-### [Enterprise](https://www.ookla.com/enterprise)
-
-* [Ookla® Solutions](https://www.ookla.com/enterprise)
-* [Partnerships & Programs](https://www.ookla.com/partnerships)
-
-### Ookla® Brands
-
-* [Downdetector®](https://downdetector.com/)
-
-### [](https://www.ookla.com/)
-
-* [About](https://www.speedtest.net/about)
-* [Ookla for Good](https://www.ookla.com/ookla-for-good)
-* [Careers](https://www.ookla.com/about/careers)
-* [Press](https://www.ookla.com/about/press)
-
-### Language
-
-* [AR](https://www.speedtest.net/ar/about/terms)
-* [DE](https://www.speedtest.net/de/about/terms)
-* [EN](https://www.speedtest.net/about/terms)
-* [ES](https://www.speedtest.net/es/about/terms)
-* [FR](https://www.speedtest.net/fr/about/terms)
-* [ID](https://www.speedtest.net/id/about/terms)
-* [IT](https://www.speedtest.net/it/about/terms)
-* [JA](https://www.speedtest.net/ja/about/terms)
-* [KO](https://www.speedtest.net/ko/about/terms)
-* [NL](https://www.speedtest.net/nl/about/terms)
-* [PL](https://www.speedtest.net/pl/about/terms)
-* [PT](https://www.speedtest.net/pt/about/terms)
-* [SV](https://www.speedtest.net/sv/about/terms)
-* [TH](https://www.speedtest.net/th/about/terms)
-* [zh-Hans](https://www.speedtest.net/zh-Hans/about/terms)
-* [zh-Hant](https://www.speedtest.net/zh-Hant/about/terms)
-
-### [Ziff Davis](https://www.ziffdavis.com/)
-
-* [IGN](https://www.ign.com/)
-* [PCMag](https://www.pcmag.com/)
-* [ExtremeTech](https://www.extremetech.com/)
-* [RetailMeNot](https://www.retailmenot.com/)
-* [Toolbox](https://www.toolbox.com/)
-* [AskMen](https://www.askmen.com/)
-* [Offers.com](https://www.offers.com/)
-* [Moz](https://www.moz.com/)
-* [IPVanish](https://www.ipvanish.com/)
+* [العربية](https://www.speedtest.net/ar/about/terms)
+* [Deutsch](https://www.speedtest.net/de/about/terms)
+* [English](https://www.speedtest.net/about/terms)
+* [Español](https://www.speedtest.net/es/about/terms)
+* [Français](https://www.speedtest.net/fr/about/terms)
+* [Bahasa Indonesia](https://www.speedtest.net/id/about/terms)
+* [Italiano](https://www.speedtest.net/it/about/terms)
+* [日本語](https://www.speedtest.net/ja/about/terms)
+* [한국어](https://www.speedtest.net/ko/about/terms)
+* [Nederlands](https://www.speedtest.net/nl/about/terms)
+* [Polski](https://www.speedtest.net/pl/about/terms)
+* [Português](https://www.speedtest.net/pt/about/terms)
+* [Русский](https://www.speedtest.net/ru/about/terms)
+* [Svenska](https://www.speedtest.net/sv/about/terms)
+* [ไทย](https://www.speedtest.net/th/about/terms)
+* [中文(简体)](https://www.speedtest.net/zh-Hans/about/terms)
+* [中文(繁體)](https://www.speedtest.net/zh-Hant/about/terms)
 
 © 2006-2024 Ookla, LLC., a Ziff Davis company. All Rights Reserved. Ookla®, Speedtest®, and Speedtest Intelligence® are among the federally registered trademarks of Ookla, LLC and may only be used with explicit written permission.
 
