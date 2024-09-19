@@ -115,8 +115,6 @@ Cookies help us deliver our services. By using our services, you agree to our us
 
 [Jobs](https://www.rescuetime.com/jobs)
 
-[Affiliates & Partners](https://www.rescuetime.com/earn)
-
 **Resources**
 
 [Blog](https://blog.rescuetime.com/)
