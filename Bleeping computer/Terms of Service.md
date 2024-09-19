@@ -36,18 +36,18 @@
         
         Microsoft may have revealed Windows 11 24H2 is coming this month](https://www.bleepingcomputer.com/news/microsoft/microsoft-may-have-revealed-windows-11-24h2-is-coming-this-month/)
     
-    * [![Lifetime access to this language learning app is now $400 off in this deal](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    * [![Ivanti warns of another critical CSA flaw exploited in attacks](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Lifetime access to this language learning app is now $400 off in this deal](https://www.bleepingcomputer.com/offer/deals/lifetime-access-to-this-language-learning-app-is-now-400-off-in-this-deal/)
-    * [![Clever 'GitHub Scanner' campaign abusing repos to push malware](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        Ivanti warns of another critical CSA flaw exploited in attacks](https://www.bleepingcomputer.com/news/security/ivanti-warns-of-another-critical-csa-flaw-exploited-in-attacks/)
+    * [![Want to be a certified ethical hacker? These courses help you get started](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Clever 'GitHub Scanner' campaign abusing repos to push malware](https://www.bleepingcomputer.com/news/security/clever-github-scanner-campaign-abusing-repos-to-push-malware/)
-    * [![Discord rolls out end-to-end encryption for audio, video calls](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        Want to be a certified ethical hacker? These courses help you get started](https://www.bleepingcomputer.com/offer/deals/want-to-be-a-certified-ethical-hacker-these-courses-help-you-get-started/)
+    * [![FTC exposes massive surveillance of kids, teens by social media giants](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Discord rolls out end-to-end encryption for audio, video calls](https://www.bleepingcomputer.com/news/security/discord-rolls-out-end-to-end-encryption-for-audio-video-calls/)
-    * [![Europol takes down ](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        FTC exposes massive surveillance of kids, teens by social media giants](https://www.bleepingcomputer.com/news/technology/ftc-exposes-massive-surveillance-of-kids-teens-by-social-media-giants/)
+    * [![Google Password Manager now automatically syncs your passkeys](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Europol takes down "Ghost" encrypted messaging platform used for crime](https://www.bleepingcomputer.com/news/security/europol-takes-down-ghost-encrypted-messaging-platform-used-for-crime/)
+        Google Password Manager now automatically syncs your passkeys](https://www.bleepingcomputer.com/news/google/google-password-manager-now-automatically-syncs-your-passkeys/)
     
 * [Tutorials](https://www.bleepingcomputer.com/tutorials/)
     
