@@ -197,63 +197,61 @@ Note: If at any time you should have any concern regarding security, privacy or 
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Impossible to run our businesses without IO
-> -------------------------------------------
+> Wish I started ages ago!
+> ------------------------
 > 
-> IO is an integral part of our day to day business. It allows me complete control and overview functionality, while still enabling franchise owners to run their various franchises without interruption.  
->   
-> At Storietyd.co.za - a bookclub for Afrikaans children, with thousands of members - all our billing is automated, automated invoices, automated debit orders, automated payment allocation, and so forth. Administration would be an absolute nightmare without IO.  
->   
-> We are suppliers of bulk educational products to schools, our reps in the field use IO for quotes, invoicing and managing debtors, directly from their smartphones / tablets.  
->   
-> We are extremely satisfied with Invoices Online, and would certainly recommend that you try it out.
+> I just want to compliment you and your team for an amazing back office software.
+> 
+> I have been struggling with a proper invoicing solution for six months now (to make time each month)
+> 
+> I just wish I started using Invoices Online ages ago.
 
-Kobus Venter
+Terri Winfield
 
-![valued client SAUL ATHOL ACRES RENTAL](https://www.invoicesonline.co.za/scripts/image.php?bid=8430&file=logo_300_100&type=&fe=27722013d173b474c1823a05cbb6c6ea176d8a595aa2e4781173cfbd2251c911&c=61245080)  
-SAUL ATHOL ACRES RENTAL
+![valued client Westside Car Audio CC](https://www.invoicesonline.co.za/scripts/image.php?bid=7028&file=logo_300_100&type=&fe=2d72b09cb8a4133a1d9a1ec9afd5859c7c23240250f9a542bd89fec27f53fc8b&c=1214687)  
+Westside Car Audio CC
 
-![valued client MOSELA GROUP Pty(ltd)](https://www.invoicesonline.co.za/scripts/image.php?bid=7624&file=logo_300_100&type=&fe=27722013d173b474c1823a05cbb6c6ea176d8a595aa2e4781173cfbd2251c911&c=136118772)  
-MOSELA GROUP Pty(ltd)
+![valued client APTV Telecoms CC](https://www.invoicesonline.co.za/scripts/image.php?bid=8378&file=logo_300_100&type=&fe=2d72b09cb8a4133a1d9a1ec9afd5859c7c23240250f9a542bd89fec27f53fc8b&c=214551919)  
+APTV Telecoms CC
 
-![valued client Redlum Group (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8254&file=logo_300_100&type=&fe=27722013d173b474c1823a05cbb6c6ea176d8a595aa2e4781173cfbd2251c911&c=27506403)  
-Redlum Group (Pty) Ltd
+![valued client Abandoned Vehicle and Truck Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=8300&file=logo_300_100&type=&fe=2d72b09cb8a4133a1d9a1ec9afd5859c7c23240250f9a542bd89fec27f53fc8b&c=138978176)  
+Abandoned Vehicle and Truck Solutions
 
-![valued client VIR Electrical (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=7991&file=logo_300_100&type=&fe=27722013d173b474c1823a05cbb6c6ea176d8a595aa2e4781173cfbd2251c911&c=63452053)  
-VIR Electrical (PTY) LTD
+![valued client Forgotten Goods (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8623&file=logo_300_100&type=&fe=2d72b09cb8a4133a1d9a1ec9afd5859c7c23240250f9a542bd89fec27f53fc8b&c=194237125)  
+Forgotten Goods (Pty) Ltd
 
-![valued client OrgChart Hosting Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=658&file=logo_300_100&type=&fe=27722013d173b474c1823a05cbb6c6ea176d8a595aa2e4781173cfbd2251c911&c=22346859)  
-OrgChart Hosting Pty Ltd
-
-![valued client VIV'S TRUCKS (Pty) Ltd. (651)](https://www.invoicesonline.co.za/scripts/image.php?bid=6481&file=logo_300_100&type=&fe=27722013d173b474c1823a05cbb6c6ea176d8a595aa2e4781173cfbd2251c911&c=109932730)  
-VIV'S TRUCKS (Pty) Ltd. (651)
-
-![valued client Wiselink Broadband Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=4072&file=logo_300_100&type=&fe=27722013d173b474c1823a05cbb6c6ea176d8a595aa2e4781173cfbd2251c911&c=146873091)  
-Wiselink Broadband Pty Ltd
-
-![valued client LEONARD](https://www.invoicesonline.co.za/scripts/image.php?bid=4785&file=logo_300_100&type=&fe=27722013d173b474c1823a05cbb6c6ea176d8a595aa2e4781173cfbd2251c911&c=38449940)  
-LEONARD
-
-![valued client NIMAWELL  ](https://www.invoicesonline.co.za/scripts/image.php?bid=6419&file=logo_300_100&type=&fe=27722013d173b474c1823a05cbb6c6ea176d8a595aa2e4781173cfbd2251c911&c=17762180)  
-NIMAWELL
-
-![valued client Laurinda Pretorius Spraak en Drama Ateljee](https://www.invoicesonline.co.za/scripts/image.php?bid=7561&file=logo_300_100&type=&fe=27722013d173b474c1823a05cbb6c6ea176d8a595aa2e4781173cfbd2251c911&c=70286212)  
+![valued client Laurinda Pretorius Spraak en Drama Ateljee](https://www.invoicesonline.co.za/scripts/image.php?bid=7561&file=logo_300_100&type=&fe=2d72b09cb8a4133a1d9a1ec9afd5859c7c23240250f9a542bd89fec27f53fc8b&c=2176720)  
 Laurinda Pretorius Spraak en Drama Ateljee
 
-![valued client webb it services](https://www.invoicesonline.co.za/scripts/image.php?bid=7007&file=logo_300_100&type=&fe=27722013d173b474c1823a05cbb6c6ea176d8a595aa2e4781173cfbd2251c911&c=25036401)  
-webb it services
+![valued client Kaylas Creations](https://www.invoicesonline.co.za/scripts/image.php?bid=7957&file=logo_300_100&type=&fe=2d72b09cb8a4133a1d9a1ec9afd5859c7c23240250f9a542bd89fec27f53fc8b&c=157709539)  
+Kaylas Creations
 
-![valued client Henry's Home Renovations](https://www.invoicesonline.co.za/scripts/image.php?bid=1221&file=logo_300_100&type=&fe=27722013d173b474c1823a05cbb6c6ea176d8a595aa2e4781173cfbd2251c911&c=25275193)  
-Henry's Home Renovations
+![valued client MONSTER SECURITY SERVICES (THABAZIMBI/NORTHAM)](https://www.invoicesonline.co.za/scripts/image.php?bid=5626&file=logo_300_100&type=&fe=2d72b09cb8a4133a1d9a1ec9afd5859c7c23240250f9a542bd89fec27f53fc8b&c=146005731)  
+MONSTER SECURITY SERVICES (THABAZIMBI/NORTHAM)
 
-![valued client Calonet ](https://www.invoicesonline.co.za/scripts/image.php?bid=3324&file=logo_300_100&type=&fe=27722013d173b474c1823a05cbb6c6ea176d8a595aa2e4781173cfbd2251c911&c=29831374)  
-Calonet
+![valued client VerdanTech Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5389&file=logo_300_100&type=&fe=2d72b09cb8a4133a1d9a1ec9afd5859c7c23240250f9a542bd89fec27f53fc8b&c=55216431)  
+VerdanTech Pty Ltd
 
-![valued client Adele Jordaan T/A Joyful Noise Music Room](https://www.invoicesonline.co.za/scripts/image.php?bid=7958&file=logo_300_100&type=&fe=27722013d173b474c1823a05cbb6c6ea176d8a595aa2e4781173cfbd2251c911&c=41326047)  
-Adele Jordaan T/A Joyful Noise Music Room
+![valued client All Trucking Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=6370&file=logo_300_100&type=&fe=2d72b09cb8a4133a1d9a1ec9afd5859c7c23240250f9a542bd89fec27f53fc8b&c=39097743)  
+All Trucking Solutions
 
-![valued client Fox Alarms & Security](https://www.invoicesonline.co.za/scripts/image.php?bid=4937&file=logo_300_100&type=&fe=27722013d173b474c1823a05cbb6c6ea176d8a595aa2e4781173cfbd2251c911&c=126620400)  
-Fox Alarms & Security
+![valued client Skinz Printing & Branding ](https://www.invoicesonline.co.za/scripts/image.php?bid=6232&file=logo_300_100&type=&fe=2d72b09cb8a4133a1d9a1ec9afd5859c7c23240250f9a542bd89fec27f53fc8b&c=20546495)  
+Skinz Printing & Branding
+
+![valued client #DiGi3 Marketing & Design](https://www.invoicesonline.co.za/scripts/image.php?bid=3234&file=logo_300_100&type=&fe=2d72b09cb8a4133a1d9a1ec9afd5859c7c23240250f9a542bd89fec27f53fc8b&c=198612564)  
+#DiGi3 Marketing & Design
+
+![valued client One2b](https://www.invoicesonline.co.za/scripts/image.php?bid=4093&file=logo_300_100&type=&fe=2d72b09cb8a4133a1d9a1ec9afd5859c7c23240250f9a542bd89fec27f53fc8b&c=125788478)  
+One2b
+
+![valued client TRACKFORCE (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=1722&file=logo_300_100&type=&fe=2d72b09cb8a4133a1d9a1ec9afd5859c7c23240250f9a542bd89fec27f53fc8b&c=127811506)  
+TRACKFORCE (Pty) Ltd
+
+![valued client Echo Recording Studio cc](https://www.invoicesonline.co.za/scripts/image.php?bid=225&file=logo_300_100&type=&fe=2d72b09cb8a4133a1d9a1ec9afd5859c7c23240250f9a542bd89fec27f53fc8b&c=123952249)  
+Echo Recording Studio cc
+
+![valued client NWET Pty LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=5929&file=logo_300_100&type=&fe=2d72b09cb8a4133a1d9a1ec9afd5859c7c23240250f9a542bd89fec27f53fc8b&c=159146951)  
+NWET Pty LTD
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
