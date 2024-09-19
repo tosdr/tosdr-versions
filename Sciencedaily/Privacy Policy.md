@@ -208,6 +208,8 @@ this hour
 
 * * *
 
+* [Genetic Tracing Supports COVID Animal Origins](https://www.sciencedaily.com/releases/2024/09/240919115136.htm)
+* [Early Dingoes Are Related to Dogs](https://www.sciencedaily.com/releases/2024/09/240918124929.htm)
 * [World's Last 'Snowball Earth' Event](https://www.sciencedaily.com/releases/2024/09/240918165736.htm)
 * [Diabetes Drug: Less Risk of Dementia, ...](https://www.sciencedaily.com/releases/2024/09/240918165739.htm)
 * [CVD Risk and Metal Exposure](https://www.sciencedaily.com/releases/2024/09/240918125039.htm)
@@ -216,8 +218,6 @@ this hour
 * [Magnifying Deep Space Through 'Carousel Lens'](https://www.sciencedaily.com/releases/2024/09/240918125107.htm)
 * [Gargantuan Black Hole Jets Are Biggest Yet](https://www.sciencedaily.com/releases/2024/09/240918125024.htm)
 * [Galactic Collisions](https://www.sciencedaily.com/releases/2024/09/240918125013.htm)
-* ['Scuba-Diving' Lizards Breathe Underwater](https://www.sciencedaily.com/releases/2024/09/240917195405.htm)
-* [New Fossil Fish On Plate Tectonics Map](https://www.sciencedaily.com/releases/2024/09/240912135836.htm)
 
 Trending Topics
 ---------------
@@ -248,7 +248,7 @@ this week
 
 [Geography](https://www.sciencedaily.com/news/earth_climate/geography/)
 
-[Fungus](https://www.sciencedaily.com/news/plants_animals/fungus/)
+[Dogs](https://www.sciencedaily.com/news/plants_animals/dogs/)
 
   
 
