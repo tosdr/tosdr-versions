@@ -34,27 +34,27 @@ Privacy Policy
 * [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     ![](https://karkhane.org/app/uploads/2024/07/6-95x65.jpg)](https://karkhane.org/5682/capitalist-psychotherapy/)[روانشناسی صنعتی‌ـ‌سازمانی: ابزاری برای به‌هنجارسازی نیروی کار و افزایش استثمار](https://karkhane.org/5682/capitalist-psychotherapy/)
-* [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    ![](https://karkhane.org/app/uploads/2024/07/El-95x65.jpg)](https://karkhane.org/5715/election1403/)[یک کرباس بورژوازی](https://karkhane.org/5715/election1403/)
 * [![کارگران افغانستانی، رقیب یا هم‌سرنوشت؟](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     ![کارگران افغانستانی، رقیب یا هم‌سرنوشت؟](https://karkhane.org/app/uploads/2021/08/kargaran-e-afqanestani-raqib-ya-hamsarnevesht-95x65.jpg)](https://karkhane.org/2999/%da%a9%d8%a7%d8%b1%da%af%d8%b1%d8%a7%d9%86-%d8%a7%d9%81%d8%ba%d8%a7%d9%86%d8%b3%d8%aa%d8%a7%d9%86%db%8c-%d8%b1%d9%82%db%8c%d8%a8-%db%8c%d8%a7-%d9%87%d9%85%d8%b3%d8%b1%d9%86%d9%88%d8%b4%d8%aa/)[کارگران افغانستانی، رقیب یا هم‌سرنوشت؟](https://karkhane.org/2999/%da%a9%d8%a7%d8%b1%da%af%d8%b1%d8%a7%d9%86-%d8%a7%d9%81%d8%ba%d8%a7%d9%86%d8%b3%d8%aa%d8%a7%d9%86%db%8c-%d8%b1%d9%82%db%8c%d8%a8-%db%8c%d8%a7-%d9%87%d9%85%d8%b3%d8%b1%d9%86%d9%88%d8%b4%d8%aa/)
+* [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    ![](https://karkhane.org/app/uploads/2024/07/El-95x65.jpg)](https://karkhane.org/5715/election1403/)[یک کرباس بورژوازی](https://karkhane.org/5715/election1403/)
 * [![نمایش‌نامه «رقابت برای نشستن سرِ سفره‌ی خالی»](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     ![نمایش‌نامه «رقابت برای نشستن سرِ سفره‌ی خالی»](https://karkhane.org/app/uploads/2021/01/reqabat-baraye-nesastan-sar-e-sofreye-xali-95x65.jpg)](https://karkhane.org/2461/%d9%86%d9%85%d8%a7%db%8c%d8%b4%d9%86%d8%a7%d9%85%d9%87-%d8%b1%d9%82%d8%a7%d8%a8%d8%aa-%d8%a8%d8%b1%d8%a7%db%8c-%d9%86%d8%b4%d8%b3%d8%aa%d9%86-%d8%b3%d8%b1-%d8%b3%d9%81%d8%b1%d9%87-%d8%ae/)[نمایش‌نامه «رقابت برای نشستن سرِ سفره‌ی خالی»](https://karkhane.org/2461/%d9%86%d9%85%d8%a7%db%8c%d8%b4%d9%86%d8%a7%d9%85%d9%87-%d8%b1%d9%82%d8%a7%d8%a8%d8%aa-%d8%a8%d8%b1%d8%a7%db%8c-%d9%86%d8%b4%d8%b3%d8%aa%d9%86-%d8%b3%d8%b1-%d8%b3%d9%81%d8%b1%d9%87-%d8%ae/)
 * [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     ![](https://karkhane.org/app/uploads/2024/09/workers-painting-29-3094829999-95x65.jpg)](https://karkhane.org/5844/cosmetic_factory_98/)[تجربه‌ی کارگری در کارخانه‌ی لوازم آرایشی و اعتراضات گرانی بنزین آبان ۹۸](https://karkhane.org/5844/cosmetic_factory_98/)
-* [![مبارزه بوکس مایک تایسون و هالیفیلد](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+* [![عرضه سهام شستا: فروش غیرقانونی اموال کارگران](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
-    ![مبارزه بوکس مایک تایسون و هالیفیلد](https://karkhane.org/app/uploads/2020/06/jang-e-glādiyātorhā-bā-pušeš-e-varzeš-e-herfei-95x65.jpg)](https://karkhane.org/1931/%d8%ac%d9%86%da%af-%da%af%d9%84%d8%a7%d8%af%db%8c%d8%a7%d8%aa%d9%88%d8%b1%d9%87%d8%a7-%d8%a8%d8%a7-%d9%be%d9%88%d8%b4%d8%b4-%d9%88%d8%b1%d8%b2%d8%b4-%d8%ad%d8%b1%d9%81%d9%87%d8%a7%db%8c/)[جنگ گلادیاتورها با پوشش ورزش حرفه‌ای](https://karkhane.org/1931/%d8%ac%d9%86%da%af-%da%af%d9%84%d8%a7%d8%af%db%8c%d8%a7%d8%aa%d9%88%d8%b1%d9%87%d8%a7-%d8%a8%d8%a7-%d9%be%d9%88%d8%b4%d8%b4-%d9%88%d8%b1%d8%b2%d8%b4-%d8%ad%d8%b1%d9%81%d9%87%d8%a7%db%8c/)
-* [![کارگری‌نویسی: همبستگی و پیوستگی در راه مبارزه‌ی طبقاتی](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    ![عرضه سهام شستا: فروش غیرقانونی اموال کارگران](https://karkhane.org/app/uploads/2020/08/arze-sahām-šastā-foruš-qeyreqānuni-amvāl-e-kārgarān-95x65.jpg)](https://karkhane.org/2083/%d8%b9%d8%b1%d8%b6%d9%87-%d8%b3%d9%87%d8%a7%d9%85-%d8%b4%d8%b3%d8%aa%d8%a7-%d9%81%d8%b1%d9%88%d8%b4-%d8%ba%db%8c%d8%b1%d9%82%d8%a7%d9%86%d9%88%d9%86%db%8c-%d8%a7%d9%85%d9%88%d8%a7%d9%84-%da%a9%d8%a7/)[عرضه سهام شستا: فروش غیرقانونی اموال کارگران](https://karkhane.org/2083/%d8%b9%d8%b1%d8%b6%d9%87-%d8%b3%d9%87%d8%a7%d9%85-%d8%b4%d8%b3%d8%aa%d8%a7-%d9%81%d8%b1%d9%88%d8%b4-%d8%ba%db%8c%d8%b1%d9%82%d8%a7%d9%86%d9%88%d9%86%db%8c-%d8%a7%d9%85%d9%88%d8%a7%d9%84-%da%a9%d8%a7/)
+* [![سرِزمین: گزارشی از وضعیت زنان کشاورز افغانستانی حاشیه‌ی تهران](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
-    ![کارگری‌نویسی: همبستگی و پیوستگی در راه مبارزه‌ی طبقاتی](https://karkhane.org/app/uploads/2021/02/1-95x65.jpg)](https://karkhane.org/2483/%da%a9%d8%a7%d8%b1%da%af%d8%b1%db%8c%d9%86%d9%88%db%8c%d8%b3%db%8c-%d9%87%d9%85%d8%a8%d8%b3%d8%aa%da%af%db%8c-%d9%88-%d9%be%db%8c%d9%88%d8%b3%d8%aa%da%af%db%8c-%d8%af%d8%b1-%d8%b1%d8%a7/)[کارگری‌نویسی: همبستگی و پیوستگی در راه مبارزه‌ی طبقاتی](https://karkhane.org/2483/%da%a9%d8%a7%d8%b1%da%af%d8%b1%db%8c%d9%86%d9%88%db%8c%d8%b3%db%8c-%d9%87%d9%85%d8%a8%d8%b3%d8%aa%da%af%db%8c-%d9%88-%d9%be%db%8c%d9%88%d8%b3%d8%aa%da%af%db%8c-%d8%af%d8%b1-%d8%b1%d8%a7/)
-* [![آموزش اقتصاد برای کارگران](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    ![سرِزمین: گزارشی از وضعیت زنان کشاورز افغانستانی حاشیه‌ی تهران](https://karkhane.org/app/uploads/2021/07/sar-e-zamin-gozareshi-az-zanan-e-keshavarz-e-mohajer-1-95x65.jpg)](https://karkhane.org/2921/%d8%b3%d8%b1%d8%b2%d9%85%db%8c%d9%86-%da%af%d8%b2%d8%a7%d8%b1%d8%b4-%d8%b2%d9%86%d8%a7%d9%86-%da%a9%d8%b4%d8%a7%d9%88%d8%b1%d8%b2-%d9%85%d9%87%d8%a7%d8%ac%d8%b1/)[سرِزمین: گزارشی از وضعیت زنان کشاورز افغانستانی حاشیه‌ی تهران](https://karkhane.org/2921/%d8%b3%d8%b1%d8%b2%d9%85%db%8c%d9%86-%da%af%d8%b2%d8%a7%d8%b1%d8%b4-%d8%b2%d9%86%d8%a7%d9%86-%da%a9%d8%b4%d8%a7%d9%88%d8%b1%d8%b2-%d9%85%d9%87%d8%a7%d8%ac%d8%b1/)
+* [![کارگری در ایران یا در مهاجرت؟](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
-    ![آموزش اقتصاد برای کارگران](https://karkhane.org/app/uploads/2021/11/amuzesh-e-eqtesad-bara-ye-kargaran-95x65.jpg)](https://karkhane.org/3235/%d8%a2%d9%85%d9%88%d8%b2%d8%b4-%d8%a7%d9%82%d8%aa%d8%b5%d8%a7%d8%af-%d8%a8%d8%b1%d8%a7%db%8c-%da%a9%d8%a7%d8%b1%da%af%d8%b1%d8%a7%d9%86-%d8%a8%d8%ae%d8%b4-%db%8c%da%a9-%d9%85%d8%b2%d8%af/)[آموزش اقتصاد برای کارگران، بخش یک: «مزد چیست؟»](https://karkhane.org/3235/%d8%a2%d9%85%d9%88%d8%b2%d8%b4-%d8%a7%d9%82%d8%aa%d8%b5%d8%a7%d8%af-%d8%a8%d8%b1%d8%a7%db%8c-%da%a9%d8%a7%d8%b1%da%af%d8%b1%d8%a7%d9%86-%d8%a8%d8%ae%d8%b4-%db%8c%da%a9-%d9%85%d8%b2%d8%af/)
+    ![کارگری در ایران یا در مهاجرت؟](https://karkhane.org/app/uploads/2023/01/working-in-iran-or-immigration-95x65.jpg)](https://karkhane.org/4760/%da%a9%d8%a7%d8%b1%da%af%d8%b1%db%8c-%d8%af%d8%b1-%d8%a7%db%8c%d8%b1%d8%a7%d9%86-%db%8c%d8%a7-%d8%af%d8%b1-%d9%85%d9%87%d8%a7%d8%ac%d8%b1%d8%aa%d8%9f/)[کارگری در ایران یا در مهاجرت؟](https://karkhane.org/4760/%da%a9%d8%a7%d8%b1%da%af%d8%b1%db%8c-%d8%af%d8%b1-%d8%a7%db%8c%d8%b1%d8%a7%d9%86-%db%8c%d8%a7-%d8%af%d8%b1-%d9%85%d9%87%d8%a7%d8%ac%d8%b1%d8%aa%d8%9f/)
 
 * [Facebook](https://www.facebook.com/--107914377686249)
 * [YouTube](https://www.youtube.com/channel/UCnz481dcaM1p7c3oDR5Ot9A)
@@ -71,12 +71,12 @@ Privacy Policy
 
 ### تازه‌ها
 
+* [الفبای سرمایه‌داری](https://karkhane.org/5859/abc_of_capitalism/) اسفند 25، 1400
 * [تجربه‌ی کارگری در کارخانه‌ی لوازم آرایشی و اعتراضات گرانی بنزین آبان ۹۸](https://karkhane.org/5844/cosmetic_factory_98/) اسفند 25، 1400
 * [تجربه‌های زیسته در جامعه‌ی سرمایه‌داری](https://karkhane.org/5825/living_encounters_in_capitalist_society/) اسفند 25، 1400
 * [گزارشی از یک کارگاه ساختمانی بزرگ](https://karkhane.org/5811/a-report-of-a-construction-site/) اسفند 25، 1400
 * [داستان‌های کمپین](https://karkhane.org/5789/campaign-stories/) اسفند 25، 1400
 * [کارگاهی خیاطی در نایسر](https://karkhane.org/5766/sewing-shop-naisar/) اسفند 25، 1400
-* [گزارش کارگران مرغداری از شرایط کاری](https://karkhane.org/5750/a_report_of_workers/) اسفند 25، 1400
 
 ### برچسب‌ها
 
@@ -91,11 +91,11 @@ Privacy Policy
 * [سندیکا](https://karkhane.org/category/%d8%b3%d9%86%d8%af%db%8c%da%a9%d8%a7/) 1
 * [شوراى کارگرى](https://karkhane.org/category/%d8%b4%d9%88%d8%b1%d8%a7%d9%89-%da%a9%d8%a7%d8%b1%da%af%d8%b1%d9%89/) 1
 * [قوانین کارگری](https://karkhane.org/category/%d9%82%d9%88%d8%a7%d9%86%db%8c%d9%86-%da%a9%d8%a7%d8%b1%da%af%d8%b1%db%8c/) 1
-* [گزارش](https://karkhane.org/category/%da%af%d8%b2%d8%a7%d8%b1%d8%b4/) 76
+* [گزارش](https://karkhane.org/category/%da%af%d8%b2%d8%a7%d8%b1%d8%b4/) 77
 * [گوناگون](https://karkhane.org/category/%da%af%d9%88%d9%86%d8%a7%da%af%d9%88%d9%86/) 2
 * [مقاله‌‌](https://karkhane.org/category/%d9%85%d9%82%d8%a7%d9%84%d9%87/) 135
 * [نوشته‌های رسیده](https://karkhane.org/category/%d9%86%d9%88%d8%b4%d8%aa%d9%87%e2%80%8c%d9%87%d8%a7%db%8c-%d8%b1%d8%b3%db%8c%d8%af%d9%87/) 10
-* [هنر و ادبیات](https://karkhane.org/category/%d9%87%d9%86%d8%b1-%d9%88-%d8%a7%d8%af%d8%a8%db%8c%d8%a7%d8%aa/) 53
+* [هنر و ادبیات](https://karkhane.org/category/%d9%87%d9%86%d8%b1-%d9%88-%d8%a7%d8%af%d8%a8%db%8c%d8%a7%d8%aa/) 54
 
 ### تازه‌ترین نوشته‌ها را دریافت کنید
 
