@@ -1,6 +1,6 @@
- [### ![](/images/promobar/cc-badge-white.svg) 100 Most Popular Courses For September
+ [### ![](/images/promobar/cc-badge-white.svg) 3000+ Courses from California Community Colleges
 
-View](https://www.classcentral.com/report/most-popular-september-2024/)
+View](https://www.classcentral.com/report/california-community-colleges-fall-2024/)
 
 Close
 
@@ -398,11 +398,11 @@ The future of Coursera’s only credible alternative for universities rests in t
 
 ##### Latest
 
-1. [\[2024\] 250 Top Domestika Courses of All Time](https://www.classcentral.com/report/domestika-top-courses/)
-2. [\[2024\] 150+ Psychology Courses You Can Take for Free](https://www.classcentral.com/report/psychology-free-online-courses/)
-3. [Layoffs Hit Udemy: 20% Out as Some Jobs Move Overseas](https://www.classcentral.com/report/udemy-restructures-layoffs-offshoring/)
-4. [7 Best Online First Aid Courses and Sites for 2024](https://www.classcentral.com/report/best-first-aid-courses/)
-5. [30% of Coursera Courses Have Peer Reviews: Here Are the Best](https://www.classcentral.com/report/courses-with-peer-reviews/)
+1. [10 Best Free Artificial Intelligence Courses for 2024](https://www.classcentral.com/report/best-ai-courses/)
+2. [\[2024\] 250 Top Domestika Courses of All Time](https://www.classcentral.com/report/domestika-top-courses/)
+3. [\[2024\] 150+ Psychology Courses You Can Take for Free](https://www.classcentral.com/report/psychology-free-online-courses/)
+4. [Layoffs Hit Udemy: 20% Out as Some Jobs Move Overseas](https://www.classcentral.com/report/udemy-restructures-layoffs-offshoring/)
+5. [7 Best Online First Aid Courses and Sites for 2024](https://www.classcentral.com/report/best-first-aid-courses/)
 
 [Visit _The Report_](https://www.classcentral.com/report/)
 
@@ -413,38 +413,38 @@ The future of Coursera’s only credible alternative for universities rests in t
 Most common
 -----------
 
-1. python
+1. psychology
     
-2. excel
+2. machine learning
     
-3. trading
+3. cyber security
     
 
 Popular subjects
 ----------------
 
-1. [Computer Science
+1. [Web Development
     
-    31,434 courses](https://www.classcentral.com/subject/cs)
+    12,537 courses](https://www.classcentral.com/subject/web-development)
 2. [Data Analysis
     
-    7,557 courses](https://www.classcentral.com/subject/data-analysis)
-3. [Cybersecurity
+    7,639 courses](https://www.classcentral.com/subject/data-analysis)
+3. [Python
     
-    15,094 courses](https://www.classcentral.com/subject/cybersecurity)
+    8,519 courses](https://www.classcentral.com/subject/python)
 
 Popular courses
 ---------------
 
-1. [Tsinghua Chinese: Start Talking with 1.3 Billion People
+1. [Applied Scrum for Agile Project Management
     
-    Tsinghua University](https://www.classcentral.com/course/language-tsinghua-university-tsinghua-chinese-sta-5426)
-2. [Marketing Innovative Products and Services
+    University System of Maryland](https://www.classcentral.com/course/scrum-the-university-of-maryland-college-park-app-11917)
+2. [The Art of Structural Engineering: Vaults
     
-    University System of Maryland](https://www.classcentral.com/course/marketing-the-university-of-maryland-college-park-19176)
-3. [Learning How to Learn: Powerful mental tools to help you master tough subjects
+    Princeton University](https://www.classcentral.com/course/structural-engineering-princeton-university-the-a-12040)
+3. [Moralities of Everyday Life
     
-    Deep Teaching Solutions](https://www.classcentral.com/course/learning-how-to-learn-2161)
+    Yale University](https://www.classcentral.com/course/moralities-911)
 
 ![](https://ccweb.imgix.net/https%3A%2F%2Fwww.classcentral.com%2Fimages%2Flists%2Flist-empty.png?auto=format&ixlib=php-4.1.0&w=100&s=d64b43c1b6dcf041e56fce6ac1794fcf)
 
