@@ -205,28 +205,6 @@ Menü
     ===
     
 
-[BreakingNews
-
-Medienbericht: Bei Volkswagen wackeln bis zu 30 000 Jobs
-
-Medienbericht: Bei Volkswagen wackeln bis zu 30 000 Jobs
-
-Medienbericht: Bei Volkswagen wackeln bis zu 30 000 Jobs
-
-Medienbericht: Bei Volkswagen wackeln bis zu 30 000 Jobs
-
-Medienbericht: Bei Volkswagen wackeln bis zu 30 000 Jobs
-
-Medienbericht: Bei Volkswagen wackeln bis zu 30 000 Jobs
-
-Medienbericht: Bei Volkswagen wackeln bis zu 30 000 Jobs
-
-Medienbericht: Bei Volkswagen wackeln bis zu 30 000 Jobs
-
-Medienbericht: Bei Volkswagen wackeln bis zu 30 000 Jobs
-
-Medienbericht: Bei Volkswagen wackeln bis zu 30 000 Jobs](https://www.bild.de/geld/wirtschaft/medienbericht-volkswagen-will-bis-zu-30000-jobs-streichen-66ec134e72203d7f73054688)
-
 ![](https://bild.met.vgwort.de/na/vgzm.2150080-5d2dc01ff1d2cd00016421a8)
 
  AGB: Nutzungsbedingungen für die digitalen Angebote von BILD
