@@ -91,7 +91,7 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [Fossils of an extinct animal may have inspired this cave art drawing](https://www.sciencenews.org/article/fossils-extinct-animal-cave-art)
             
-            By [Bruce Bower](https://www.sciencenews.org/author/bruce-bower "Posts by Bruce Bower")15 hours ago
+            By [Bruce Bower](https://www.sciencenews.org/author/bruce-bower "Posts by Bruce Bower")21 hours ago
             
         * [Health & Medicine](https://www.sciencenews.org/topic/health-medicine)
             
@@ -114,23 +114,23 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
         * [Neuroscience](https://www.sciencenews.org/topic/neuroscience)
         * [Genetics](https://www.sciencenews.org/topic/genetics)
         * [Microbes](https://www.sciencenews.org/topic/microbes)
-    * * [Neuroscience](https://www.sciencenews.org/topic/neuroscience)
+    * * [Animals](https://www.sciencenews.org/topic/animals)
+            
+            ### [Ants changed the architecture of their nests when exposed to a pathogen](https://www.sciencenews.org/article/ants-change-nest-architecture-pathogen)
+            
+            By [Richard Kemeny](https://www.sciencenews.org/author/richard-kemeny "Posts by Richard Kemeny")2 hours ago
+            
+        * [Neuroscience](https://www.sciencenews.org/topic/neuroscience)
             
             ### [Some healthy fish have bacteria in their brains](https://www.sciencenews.org/article/fish-brain-bacteria)
             
-            By [Erin Garcia de Jesús](https://www.sciencenews.org/author/erin-garcia-de-jesus "Posts by Erin Garcia de Jesús")15 hours ago
+            By [Erin Garcia de Jesús](https://www.sciencenews.org/author/erin-garcia-de-jesus "Posts by Erin Garcia de Jesús")21 hours ago
             
         * [Neuroscience](https://www.sciencenews.org/topic/neuroscience)
             
             ### [Mitochondria can sneak DNA into the nuclei of brain cells](https://www.sciencenews.org/article/mitochondria-insertions-brain-cells)
             
-            By [Claudia López Lloreda](https://www.sciencenews.org/author/claudia-lopez-lloreda "Posts by Claudia López Lloreda")21 hours ago
-            
-        * [Plants](https://www.sciencenews.org/topic/plants)
-            
-            ### [Projectile pollen helps this flower edge out reproductive competition](https://www.sciencenews.org/article/projectile-pollen-flower-competition)
-            
-            By [Nala Rogers](https://www.sciencenews.org/author/nala-rogers "Posts by Nala Rogers")September 17, 2024
+            By [Claudia López Lloreda](https://www.sciencenews.org/author/claudia-lopez-lloreda "Posts by Claudia López Lloreda")September 18, 2024
             
 * [Earth](https://www.sciencenews.org/topic/earth)
     * [Earth](https://www.sciencenews.org/topic/earth)
@@ -165,7 +165,7 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [The Large Hadron Collider exposes quarks’ quantum entanglement](https://www.sciencenews.org/article/quarks-quantum-entanglement)
             
-            By [Emily Conover](https://www.sciencenews.org/author/emily-conover "Posts by Emily Conover")18 hours ago
+            By [Emily Conover](https://www.sciencenews.org/author/emily-conover "Posts by Emily Conover")24 hours ago
             
         * [Physics](https://www.sciencenews.org/topic/physics)
             
@@ -188,7 +188,7 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [Meet Porphyrion, the largest pair of black hole jets ever seen](https://www.sciencenews.org/article/universe-largest-black-hole-jets)
             
-            By [Lisa Grossman](https://www.sciencenews.org/author/lisa-grossman "Posts by Lisa Grossman")18 hours ago
+            By [Lisa Grossman](https://www.sciencenews.org/author/lisa-grossman "Posts by Lisa Grossman")24 hours ago
             
         * [Physics](https://www.sciencenews.org/topic/physics)
             
