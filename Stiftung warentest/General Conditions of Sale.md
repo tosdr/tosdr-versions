@@ -597,12 +597,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Massage­pistolen im Test: Good Vibrations?](https://www.test.de/Massagepistolen-im-Test-5989060-0/ "Massagepistolen im Test - Good Vibrations?")
-* [Veganuary: Die Ganz-ohne-Fleisch-Challenge](https://www.test.de/Veganuary-Die-Ganz-ohne-Fleisch-Challenge-5943155-0/ "Veganuary - Die Ganz-ohne-Fleisch-Challenge")
-* [Daten­schutz im Test: Was Laut­sprecher-Apps ausplaudern](https://www.test.de/Datenschutz-im-Test-Was-Lautsprecher-Apps-ausplaudern-6126264-0/ "Datenschutz im Test - Was Lautsprecher-Apps ausplaudern")
-* [Privat­insolvenz: Schufa verkürzt Speicher­frist](https://www.test.de/Privatinsolvenz-Schufa-verkuerzt-Speicherfrist-5987125-0/ "Privatinsolvenz - Schufa verkürzt Speicherfrist")
-* [Damen- und Herren-Jeans im Test: Auf die Mischung kommt es an](https://www.test.de/Damen-und-Herren-Jeans-im-Test-Auf-die-Mischung-kommt-es-an-6096908-0/ "Damen- und Herren-Jeans im Test - Auf die Mischung kommt es an")
-* [Powerstations im Test: Steck­dosen für unterwegs](https://www.test.de/Powerstation-Test-6023127-0/ "Powerstations im Test - Steckdosen für unterwegs")
+* [Handy selbst reparieren: Samsungs und Apples Reparier-Sets im Selbst­versuch](https://www.test.de/Handy-selbst-reparieren-Samsungs-und-Apples-Reparier-Sets-im-Selbstversuch-6053520-0/ "Handy selbst reparieren - Samsungs und Apples Reparier-Sets im Selbstversuch")
+* [Fest­geld: Zweifelhafte Zins­angebote](https://www.test.de/Festgeld-Zweifelhafte-Zinsangebote-5964123-0/ "Festgeld - Zweifelhafte Zinsangebote")
+* [Schlank­heits­spritze: Behörde warnt vor Lemon Bottle](https://www.test.de/Schlankheitsspritze-Behoerde-warnt-vor-Lemon-Bottle-6147488-0/ "Schlankheitsspritze - Behörde warnt vor Lemon Bottle")
+* [Rohgold: Rohe Gold­klumpen als Geld­anlage?](https://www.test.de/Rohgold-Rohe-Goldklumpen-als-Geldanlage-6019655-0/ "Rohgold - Rohe Goldklumpen als Geldanlage?")
+* [Digital-Analog-Wandler (Dacs): Besserer Klang für Laptops, Tablets und Handys](https://www.test.de/Digital-Analog-Wandler-Dacs-Besserer-Klang-fuer-Laptops-Tablets-und-Handys-6148294-0/ "Digital-Analog-Wandler (Dacs) - Besserer Klang für Laptops, Tablets und Handys")
+* [49-Euro-Ticket: Günstig reisen mit dem Deutsch­land­ticket](https://www.test.de/49-Euro-Ticket-Das-muessen-Sie-wissen-5944873-0/ "49-Euro-Ticket - Günstig reisen mit dem Deutschlandticket")
 
 Fußbereich
 
@@ -2737,12 +2737,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Massage­pistolen im Test: Good Vibrations?](https://www.test.de/Massagepistolen-im-Test-5989060-0/ "Massagepistolen im Test - Good Vibrations?")
-* [Veganuary: Die Ganz-ohne-Fleisch-Challenge](https://www.test.de/Veganuary-Die-Ganz-ohne-Fleisch-Challenge-5943155-0/ "Veganuary - Die Ganz-ohne-Fleisch-Challenge")
-* [Daten­schutz im Test: Was Laut­sprecher-Apps ausplaudern](https://www.test.de/Datenschutz-im-Test-Was-Lautsprecher-Apps-ausplaudern-6126264-0/ "Datenschutz im Test - Was Lautsprecher-Apps ausplaudern")
-* [Privat­insolvenz: Schufa verkürzt Speicher­frist](https://www.test.de/Privatinsolvenz-Schufa-verkuerzt-Speicherfrist-5987125-0/ "Privatinsolvenz - Schufa verkürzt Speicherfrist")
-* [Damen- und Herren-Jeans im Test: Auf die Mischung kommt es an](https://www.test.de/Damen-und-Herren-Jeans-im-Test-Auf-die-Mischung-kommt-es-an-6096908-0/ "Damen- und Herren-Jeans im Test - Auf die Mischung kommt es an")
-* [Powerstations im Test: Steck­dosen für unterwegs](https://www.test.de/Powerstation-Test-6023127-0/ "Powerstations im Test - Steckdosen für unterwegs")
+* [Handy selbst reparieren: Samsungs und Apples Reparier-Sets im Selbst­versuch](https://www.test.de/Handy-selbst-reparieren-Samsungs-und-Apples-Reparier-Sets-im-Selbstversuch-6053520-0/ "Handy selbst reparieren - Samsungs und Apples Reparier-Sets im Selbstversuch")
+* [Fest­geld: Zweifelhafte Zins­angebote](https://www.test.de/Festgeld-Zweifelhafte-Zinsangebote-5964123-0/ "Festgeld - Zweifelhafte Zinsangebote")
+* [Schlank­heits­spritze: Behörde warnt vor Lemon Bottle](https://www.test.de/Schlankheitsspritze-Behoerde-warnt-vor-Lemon-Bottle-6147488-0/ "Schlankheitsspritze - Behörde warnt vor Lemon Bottle")
+* [Rohgold: Rohe Gold­klumpen als Geld­anlage?](https://www.test.de/Rohgold-Rohe-Goldklumpen-als-Geldanlage-6019655-0/ "Rohgold - Rohe Goldklumpen als Geldanlage?")
+* [Digital-Analog-Wandler (Dacs): Besserer Klang für Laptops, Tablets und Handys](https://www.test.de/Digital-Analog-Wandler-Dacs-Besserer-Klang-fuer-Laptops-Tablets-und-Handys-6148294-0/ "Digital-Analog-Wandler (Dacs) - Besserer Klang für Laptops, Tablets und Handys")
+* [49-Euro-Ticket: Günstig reisen mit dem Deutsch­land­ticket](https://www.test.de/49-Euro-Ticket-Das-muessen-Sie-wissen-5944873-0/ "49-Euro-Ticket - Günstig reisen mit dem Deutschlandticket")
 
 Jetzt anmelden und 10% Rabatt auf die test.de-Flatrate im ersten Jahr erhalten!
 
@@ -2795,12 +2795,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Massage­pistolen im Test: Good Vibrations?](https://www.test.de/Massagepistolen-im-Test-5989060-0/ "Massagepistolen im Test - Good Vibrations?")
-* [Veganuary: Die Ganz-ohne-Fleisch-Challenge](https://www.test.de/Veganuary-Die-Ganz-ohne-Fleisch-Challenge-5943155-0/ "Veganuary - Die Ganz-ohne-Fleisch-Challenge")
-* [Daten­schutz im Test: Was Laut­sprecher-Apps ausplaudern](https://www.test.de/Datenschutz-im-Test-Was-Lautsprecher-Apps-ausplaudern-6126264-0/ "Datenschutz im Test - Was Lautsprecher-Apps ausplaudern")
-* [Privat­insolvenz: Schufa verkürzt Speicher­frist](https://www.test.de/Privatinsolvenz-Schufa-verkuerzt-Speicherfrist-5987125-0/ "Privatinsolvenz - Schufa verkürzt Speicherfrist")
-* [Damen- und Herren-Jeans im Test: Auf die Mischung kommt es an](https://www.test.de/Damen-und-Herren-Jeans-im-Test-Auf-die-Mischung-kommt-es-an-6096908-0/ "Damen- und Herren-Jeans im Test - Auf die Mischung kommt es an")
-* [Powerstations im Test: Steck­dosen für unterwegs](https://www.test.de/Powerstation-Test-6023127-0/ "Powerstations im Test - Steckdosen für unterwegs")
+* [Handy selbst reparieren: Samsungs und Apples Reparier-Sets im Selbst­versuch](https://www.test.de/Handy-selbst-reparieren-Samsungs-und-Apples-Reparier-Sets-im-Selbstversuch-6053520-0/ "Handy selbst reparieren - Samsungs und Apples Reparier-Sets im Selbstversuch")
+* [Fest­geld: Zweifelhafte Zins­angebote](https://www.test.de/Festgeld-Zweifelhafte-Zinsangebote-5964123-0/ "Festgeld - Zweifelhafte Zinsangebote")
+* [Schlank­heits­spritze: Behörde warnt vor Lemon Bottle](https://www.test.de/Schlankheitsspritze-Behoerde-warnt-vor-Lemon-Bottle-6147488-0/ "Schlankheitsspritze - Behörde warnt vor Lemon Bottle")
+* [Rohgold: Rohe Gold­klumpen als Geld­anlage?](https://www.test.de/Rohgold-Rohe-Goldklumpen-als-Geldanlage-6019655-0/ "Rohgold - Rohe Goldklumpen als Geldanlage?")
+* [Digital-Analog-Wandler (Dacs): Besserer Klang für Laptops, Tablets und Handys](https://www.test.de/Digital-Analog-Wandler-Dacs-Besserer-Klang-fuer-Laptops-Tablets-und-Handys-6148294-0/ "Digital-Analog-Wandler (Dacs) - Besserer Klang für Laptops, Tablets und Handys")
+* [49-Euro-Ticket: Günstig reisen mit dem Deutsch­land­ticket](https://www.test.de/49-Euro-Ticket-Das-muessen-Sie-wissen-5944873-0/ "49-Euro-Ticket - Günstig reisen mit dem Deutschlandticket")
 
 Neueste Tests
 
@@ -2813,12 +2813,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Massage­pistolen im Test: Good Vibrations?](https://www.test.de/Massagepistolen-im-Test-5989060-0/ "Massagepistolen im Test - Good Vibrations?")
-* [Veganuary: Die Ganz-ohne-Fleisch-Challenge](https://www.test.de/Veganuary-Die-Ganz-ohne-Fleisch-Challenge-5943155-0/ "Veganuary - Die Ganz-ohne-Fleisch-Challenge")
-* [Daten­schutz im Test: Was Laut­sprecher-Apps ausplaudern](https://www.test.de/Datenschutz-im-Test-Was-Lautsprecher-Apps-ausplaudern-6126264-0/ "Datenschutz im Test - Was Lautsprecher-Apps ausplaudern")
-* [Privat­insolvenz: Schufa verkürzt Speicher­frist](https://www.test.de/Privatinsolvenz-Schufa-verkuerzt-Speicherfrist-5987125-0/ "Privatinsolvenz - Schufa verkürzt Speicherfrist")
-* [Damen- und Herren-Jeans im Test: Auf die Mischung kommt es an](https://www.test.de/Damen-und-Herren-Jeans-im-Test-Auf-die-Mischung-kommt-es-an-6096908-0/ "Damen- und Herren-Jeans im Test - Auf die Mischung kommt es an")
-* [Powerstations im Test: Steck­dosen für unterwegs](https://www.test.de/Powerstation-Test-6023127-0/ "Powerstations im Test - Steckdosen für unterwegs")
+* [Handy selbst reparieren: Samsungs und Apples Reparier-Sets im Selbst­versuch](https://www.test.de/Handy-selbst-reparieren-Samsungs-und-Apples-Reparier-Sets-im-Selbstversuch-6053520-0/ "Handy selbst reparieren - Samsungs und Apples Reparier-Sets im Selbstversuch")
+* [Fest­geld: Zweifelhafte Zins­angebote](https://www.test.de/Festgeld-Zweifelhafte-Zinsangebote-5964123-0/ "Festgeld - Zweifelhafte Zinsangebote")
+* [Schlank­heits­spritze: Behörde warnt vor Lemon Bottle](https://www.test.de/Schlankheitsspritze-Behoerde-warnt-vor-Lemon-Bottle-6147488-0/ "Schlankheitsspritze - Behörde warnt vor Lemon Bottle")
+* [Rohgold: Rohe Gold­klumpen als Geld­anlage?](https://www.test.de/Rohgold-Rohe-Goldklumpen-als-Geldanlage-6019655-0/ "Rohgold - Rohe Goldklumpen als Geldanlage?")
+* [Digital-Analog-Wandler (Dacs): Besserer Klang für Laptops, Tablets und Handys](https://www.test.de/Digital-Analog-Wandler-Dacs-Besserer-Klang-fuer-Laptops-Tablets-und-Handys-6148294-0/ "Digital-Analog-Wandler (Dacs) - Besserer Klang für Laptops, Tablets und Handys")
+* [49-Euro-Ticket: Günstig reisen mit dem Deutsch­land­ticket](https://www.test.de/49-Euro-Ticket-Das-muessen-Sie-wissen-5944873-0/ "49-Euro-Ticket - Günstig reisen mit dem Deutschlandticket")
 
 Service Stiftung Warentest
 
