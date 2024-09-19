@@ -429,27 +429,6 @@ Security Plans
 
  
 
-Get 10% off your first order + free shipping!
----------------------------------------------
-
-Be the first to know about new products and get insider-only deals that you won’t find anywhere else.\*
-
-       Submit Enter Email Address
-
-By entering your email address above you agree to receive marketing emails from Arlo. All information collected will be used in accordance with our [Privacy Policy](https://www.arlo.com/en-us/privacy-policy.html).
-
-\*Discount (up to $300) valid for first-time registrants in the US only. Valid on full and sale priced products on Arlo.com only, and cannot be combined with any other offers. Excludes accessories and starter kits. 10% off code is sent to valid email address upon submission. Free shipping on orders $35+.
-
-Your promo code is on the way! Check your inbox for your unique code to use on your next order.
-
-Now that you're part of the Arlo family, enjoy:
-
-* Early access to special events and promotions.
-* Exciting new products.
-* Exclusive insider-only deals and more!
-
-Not seeing Arlo emails? To ensure delivery to your inbox, add no\_reply@e.arlo.com to your address book.
-
 Policies
 ========
 
