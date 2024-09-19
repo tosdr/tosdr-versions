@@ -153,9 +153,11 @@ These terms and conditions are governed by and construed in accordance with the 
 * [Privacy](https://freespeech.org/privacy/)
 * [Contact](https://freespeech.org/contact-us/)
 
-Your Vote Is Your Power
+Double Your Impact
 
-**Pitch in now through September 27 for independent coverage of the 2024 election!**
+**Today Only  
+$10,000 Match  
+[Donate Now!](https://freespeech.org/donate-all/?utm_source=email9.19.popup)**
 
 [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20532%2080'%3E%3C/svg%3E)
 
