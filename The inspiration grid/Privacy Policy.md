@@ -291,6 +291,18 @@ Latest
 inspiration
 -----------
 
+![](https://inspgr.id/app/uploads/2024/09/art-jon-zabalegui-feature.jpg)
+
+[](https://theinspirationgrid.com/typographic-murals-street-art-by-jon-zabalegui/)
+
+### Typographic Murals & Street Art by Jon Zabalegui
+
+![](https://inspgr.id/app/uploads/2024/09/art-miss-sudoku-feature.jpg)
+
+[](https://theinspirationgrid.com/the-angle-a-multi-artist-visual-collaboration/)
+
+### The Angle: A Multi-Artist Visual Collaboration
+
 ![](https://inspgr.id/app/uploads/2024/09/architecture-caymus-suisun-feature.jpg)
 
 [](https://theinspirationgrid.com/caymus-suisun-winery-by-bohlin-cywinski-jackson/)
@@ -326,18 +338,6 @@ inspiration
 [](https://theinspirationgrid.com/ax-awards-trophy-design-branding-by-rubio-del-amo/)
 
 ### AX Awards Trophy Design & Branding by Rubio & del Amo
-
-![](https://inspgr.id/app/uploads/2024/09/illustration-pablo-broseta-feature.jpg)
-
-[](https://theinspirationgrid.com/character-design-illustrations-by-pablo-broseta/)
-
-### Character Design & Illustrations by Pablo Broseta
-
-![](https://inspgr.id/app/uploads/2024/09/photography-rain-look-feature.jpg)
-
-[](https://theinspirationgrid.com/west-of-tibet-striking-photos-by-rain-look/)
-
-### West of Tibet: Striking Photos by Rain Look
 
 Awesome products for creatives
 ------------------------------
