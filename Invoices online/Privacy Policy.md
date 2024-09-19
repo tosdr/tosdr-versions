@@ -118,61 +118,61 @@ This policy is effective as of 29 June 2021.
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Wish I started ages ago!
+> Support even on Sundays!
 > ------------------------
 > 
-> I just want to compliment you and your team for an amazing back office software.
+> Thanks Adriaan...
 > 
-> I have been struggling with a proper invoicing solution for six months now (to make time each month)
+> You guys even work on Sundays?
 > 
-> I just wish I started using Invoices Online ages ago.
+> I’m impressed!!
 
-Terri Winfield
+Johan Botha - Brand Xplosion
 
-![valued client webb it services](https://www.invoicesonline.co.za/scripts/image.php?bid=7007&file=logo_300_100&type=&fe=b64370608959dedec3dae34f63d52be36cd64c55f0157f603b3478dd24c8bf7f&c=82309682)  
-webb it services
+![valued client Kaylas Creations](https://www.invoicesonline.co.za/scripts/image.php?bid=7957&file=logo_300_100&type=&fe=2d72b09cb8a4133a1d9a1ec9afd5859c7c23240250f9a542bd89fec27f53fc8b&c=58670461)  
+Kaylas Creations
 
-![valued client TurboFibre](https://www.invoicesonline.co.za/scripts/image.php?bid=6535&file=logo_300_100&type=&fe=b64370608959dedec3dae34f63d52be36cd64c55f0157f603b3478dd24c8bf7f&c=13072563)  
-TurboFibre
+![valued client Frequency Fanatics (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8558&file=logo_300_100&type=&fe=2d72b09cb8a4133a1d9a1ec9afd5859c7c23240250f9a542bd89fec27f53fc8b&c=87541643)  
+Frequency Fanatics (Pty) Ltd
 
-![valued client VIV'S TRUCKS (Pty) Ltd. (29/31/33)](https://www.invoicesonline.co.za/scripts/image.php?bid=7265&file=logo_300_100&type=&fe=b64370608959dedec3dae34f63d52be36cd64c55f0157f603b3478dd24c8bf7f&c=201801619)  
-VIV'S TRUCKS (Pty) Ltd. (29/31/33)
-
-![valued client FRAMED BY ANTON (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=2146&file=logo_300_100&type=&fe=b64370608959dedec3dae34f63d52be36cd64c55f0157f603b3478dd24c8bf7f&c=192317856)  
-FRAMED BY ANTON (Pty) Ltd.
-
-![valued client Konsortium Operations ( Roamfree Meats )](https://www.invoicesonline.co.za/scripts/image.php?bid=2819&file=logo_300_100&type=&fe=b64370608959dedec3dae34f63d52be36cd64c55f0157f603b3478dd24c8bf7f&c=44104659)  
-Konsortium Operations ( Roamfree Meats )
-
-![valued client OXYAIDER (PTY) LTD ](https://www.invoicesonline.co.za/scripts/image.php?bid=7574&file=logo_300_100&type=&fe=b64370608959dedec3dae34f63d52be36cd64c55f0157f603b3478dd24c8bf7f&c=154548758)  
-OXYAIDER (PTY) LTD
-
-![valued client VA AND M DEBT-AID (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8114&file=logo_300_100&type=&fe=b64370608959dedec3dae34f63d52be36cd64c55f0157f603b3478dd24c8bf7f&c=84793027)  
-VA AND M DEBT-AID (PTY) LTD
-
-![valued client VIR Electrical (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=7991&file=logo_300_100&type=&fe=b64370608959dedec3dae34f63d52be36cd64c55f0157f603b3478dd24c8bf7f&c=214686537)  
-VIR Electrical (PTY) LTD
-
-![valued client Digifax (Pty) Ltd trading as Digirent](https://www.invoicesonline.co.za/scripts/image.php?bid=571&file=logo_300_100&type=&fe=b64370608959dedec3dae34f63d52be36cd64c55f0157f603b3478dd24c8bf7f&c=159518797)  
-Digifax (Pty) Ltd trading as Digirent
-
-![valued client OrgChart Hosting Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=658&file=logo_300_100&type=&fe=b64370608959dedec3dae34f63d52be36cd64c55f0157f603b3478dd24c8bf7f&c=30784536)  
-OrgChart Hosting Pty Ltd
-
-![valued client Salvage Genie](https://www.invoicesonline.co.za/scripts/image.php?bid=5867&file=logo_300_100&type=&fe=b64370608959dedec3dae34f63d52be36cd64c55f0157f603b3478dd24c8bf7f&c=207714202)  
-Salvage Genie
-
-![valued client Secunda Signs T/A Local Print and Signs](https://www.invoicesonline.co.za/scripts/image.php?bid=8292&file=logo_300_100&type=&fe=b64370608959dedec3dae34f63d52be36cd64c55f0157f603b3478dd24c8bf7f&c=200345616)  
-Secunda Signs T/A Local Print and Signs
-
-![valued client Adele Jordaan T/A Joyful Noise Music Room](https://www.invoicesonline.co.za/scripts/image.php?bid=7958&file=logo_300_100&type=&fe=b64370608959dedec3dae34f63d52be36cd64c55f0157f603b3478dd24c8bf7f&c=72338560)  
-Adele Jordaan T/A Joyful Noise Music Room
-
-![valued client De light Investments(Pty)Ltd trading as Serene Memorials](https://www.invoicesonline.co.za/scripts/image.php?bid=6723&file=logo_300_100&type=&fe=b64370608959dedec3dae34f63d52be36cd64c55f0157f603b3478dd24c8bf7f&c=211062974)  
+![valued client De light Investments(Pty)Ltd trading as Serene Memorials](https://www.invoicesonline.co.za/scripts/image.php?bid=6723&file=logo_300_100&type=&fe=2d72b09cb8a4133a1d9a1ec9afd5859c7c23240250f9a542bd89fec27f53fc8b&c=205161324)  
 De light Investments(Pty)Ltd trading as Serene Memorials
 
-![valued client Norton Medical & Consult - Namibia](https://www.invoicesonline.co.za/scripts/image.php?bid=7934&file=logo_300_100&type=&fe=b64370608959dedec3dae34f63d52be36cd64c55f0157f603b3478dd24c8bf7f&c=167592776)  
-Norton Medical & Consult - Namibia
+![valued client Prosper Park](https://www.invoicesonline.co.za/scripts/image.php?bid=8286&file=logo_300_100&type=&fe=2d72b09cb8a4133a1d9a1ec9afd5859c7c23240250f9a542bd89fec27f53fc8b&c=175683629)  
+Prosper Park
+
+![valued client Website Café (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=4081&file=logo_300_100&type=&fe=2d72b09cb8a4133a1d9a1ec9afd5859c7c23240250f9a542bd89fec27f53fc8b&c=78740561)  
+Website Café (PTY) LTD
+
+![valued client SLOANE STAR MEAT MARKET](https://www.invoicesonline.co.za/scripts/image.php?bid=1748&file=logo_300_100&type=&fe=2d72b09cb8a4133a1d9a1ec9afd5859c7c23240250f9a542bd89fec27f53fc8b&c=12238247)  
+SLOANE STAR MEAT MARKET
+
+![valued client Know Informatics](https://www.invoicesonline.co.za/scripts/image.php?bid=6598&file=logo_300_100&type=&fe=2d72b09cb8a4133a1d9a1ec9afd5859c7c23240250f9a542bd89fec27f53fc8b&c=206491509)  
+Know Informatics
+
+![valued client Sarabi ](https://www.invoicesonline.co.za/scripts/image.php?bid=5430&file=logo_300_100&type=&fe=2d72b09cb8a4133a1d9a1ec9afd5859c7c23240250f9a542bd89fec27f53fc8b&c=34014593)  
+Sarabi
+
+![valued client MONSTER SECURITY SERVICES](https://www.invoicesonline.co.za/scripts/image.php?bid=5438&file=logo_300_100&type=&fe=2d72b09cb8a4133a1d9a1ec9afd5859c7c23240250f9a542bd89fec27f53fc8b&c=40180855)  
+MONSTER SECURITY SERVICES
+
+![valued client Karino Merinos ( PTY ) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2349&file=logo_300_100&type=&fe=2d72b09cb8a4133a1d9a1ec9afd5859c7c23240250f9a542bd89fec27f53fc8b&c=115674354)  
+Karino Merinos ( PTY ) LTD
+
+![valued client Henry's Home Renovations](https://www.invoicesonline.co.za/scripts/image.php?bid=1221&file=logo_300_100&type=&fe=2d72b09cb8a4133a1d9a1ec9afd5859c7c23240250f9a542bd89fec27f53fc8b&c=44483972)  
+Henry's Home Renovations
+
+![valued client Import Maaw](https://www.invoicesonline.co.za/scripts/image.php?bid=6159&file=logo_300_100&type=&fe=2d72b09cb8a4133a1d9a1ec9afd5859c7c23240250f9a542bd89fec27f53fc8b&c=15579911)  
+Import Maaw
+
+![valued client Nogana Events and Decor](https://www.invoicesonline.co.za/scripts/image.php?bid=3755&file=logo_300_100&type=&fe=2d72b09cb8a4133a1d9a1ec9afd5859c7c23240250f9a542bd89fec27f53fc8b&c=7871497)  
+Nogana Events and Decor
+
+![valued client Chiron Medical Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=6720&file=logo_300_100&type=&fe=2d72b09cb8a4133a1d9a1ec9afd5859c7c23240250f9a542bd89fec27f53fc8b&c=123852440)  
+Chiron Medical Solutions
+
+![valued client Baby Toddles Infant Care](https://www.invoicesonline.co.za/scripts/image.php?bid=343&file=logo_300_100&type=&fe=2d72b09cb8a4133a1d9a1ec9afd5859c7c23240250f9a542bd89fec27f53fc8b&c=39581202)  
+Baby Toddles Infant Care
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
