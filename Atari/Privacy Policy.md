@@ -75,7 +75,7 @@
         
     
 
-[Sign in](https://atari.com/customer_identity/redirect?locale=en) [Help + FAQ](https://www.atari.com/pages/faq) [Investors](https://atari-investisseurs.fr/en/)
+[Sign in](https://atari.com/customer_identity/redirect?locale=en&country=US) [Help + FAQ](https://www.atari.com/pages/faq) [Investors](https://atari-investisseurs.fr/en/)
 
 * [Twitter](https://www.twitter.com/atari)
 * [Facebook](https://www.facebook.com/atari)
@@ -304,7 +304,7 @@
     Since 1972
     
 
- [Log in](https://atari.com/customer_identity/redirect?locale=en)
+ [Log in](https://atari.com/customer_identity/redirect?locale=en&country=US)
 
 Bag (0) Cart 0 items
 
