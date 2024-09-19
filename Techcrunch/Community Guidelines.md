@@ -97,11 +97,11 @@ Legal
 Trending Tech Topics
 --------------------
 
+* [Apple Intelligence](https://techcrunch.com/2024/09/19/apple-intelligence-is-now-live-in-public-beta-heres-what-it-offers-and-how-to-enable-it/)
+* [Cruise Robotaxis](https://techcrunch.com/2024/09/19/cruise-avs-return-to-bay-area-year-after-pedestrian-crash/)
+* [Amazo Video Generator](https://techcrunch.com/2024/09/19/amazon-releases-a-video-generator-but-only-for-ads/)
 * [iOS 18](https://techcrunch.com/2024/09/16/ios-18-is-now-available-to-download/)
 * [Snap Spectacles](https://techcrunch.com/2024/09/17/snaps-extremely-large-spectacles-bring-impressive-ar-to-developers-at-99-a-month/)
-* [Mistral Free Tier](https://techcrunch.com/2024/09/17/mistral-launches-a-free-tier-for-developers-to-test-its-ai-models/)
-* [Apple AirPods 4](https://techcrunch.com/2024/09/16/apple-airpods-4-with-active-noise-cancellation-review/)
-* [Mozilla Exits The Fediverse](https://techcrunch.com/2024/09/17/mozilla-exits-the-fediverse-and-will-shutter-its-mastodon-server-in-december/)
 * [Tech Layoffs](https://techcrunch.com/2024/09/17/tech-layoffs-2024-list/)
 * [ChatGPT](https://techcrunch.com/2024/09/12/chatgpt-everything-to-know-about-the-ai-chatbot/)
 
