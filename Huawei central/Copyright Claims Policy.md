@@ -65,21 +65,21 @@ Huawei Central
     
 * [Wearables](https://www.huaweicentral.com/category/wearables/)
     
+    * [![Huawei Watch Ultimate Green Edition](https://www.huaweicentral.com/wp-content/uploads/2024/09/Watch-Ultimate-Green-400x240.jpg)
+        
+        Huawei unveils Watch Ultimate Green Edition with Pro-level sports features](https://www.huaweicentral.com/huawei-unveils-watch-ultimate-green-edition-with-pro-level-sports-features/)
+    * [![Huawei launches Watch D2](https://www.huaweicentral.com/wp-content/uploads/2024/09/Watch-D2-1-400x240.jpg)
+        
+        Huawei launches Watch D2 featuring new design and 1.82-inch huge display](https://www.huaweicentral.com/huawei-launches-watch-d2-featuring-new-design-and-1-82-inch-huge-display/)
+    * [![Huawei Watch GT 5 series](https://www.huaweicentral.com/wp-content/uploads/2024/09/huawei-watch-gt-5-img1-400x240.jpg)
+        
+        Huawei Watch GT 5 Series launched with sharp-edged design, TruSense and more](https://www.huaweicentral.com/huawei-watch-gt-5-series-launched/)
     * [![Huawei Watch GT 5 variants](https://www.huaweicentral.com/wp-content/uploads/2024/09/Watch-GT-5-variants-400x240.jpg)
         
         Exclusive: Check Huawei Watch GT 5 variants before today’s launch](https://www.huaweicentral.com/exclusive-check-huawei-watch-gt-5-variants-before-todays-launch/)
     * [![Huawei wearables China September 24](https://www.huaweicentral.com/wp-content/uploads/2024/09/Wearable-launch-400x240.jpg)
         
         Huawei could launch new wearables in China on September 24](https://www.huaweicentral.com/huawei-could-launch-new-wearables-in-china-on-september-24/)
-    * [![Huawei Watch GT 5 specs](https://www.huaweicentral.com/wp-content/uploads/2024/09/Watch-GT-5-1-1-400x240.jpg)
-        
-        Huawei Watch GT 5 specs and health features leaked by online retailer](https://www.huaweicentral.com/huawei-watch-gt-5-specs-and-health-features-leaked-by-online-retailer/)
-    * [![Huawei smartwatch EDD-B39](https://www.huaweicentral.com/wp-content/uploads/2024/09/Smartwatch-400x240.jpg)
-        
-        Huawei certifies new smartwatch EDD-B39 with satellite SMS feature](https://www.huaweicentral.com/huawei-certifies-new-smartwatch-edd-b39-with-satellite-sms-feature/)
-    * [![Huawei Watch GT 5 live video](https://www.huaweicentral.com/wp-content/uploads/2024/09/Watch-GT-5-video-400x240.jpg)
-        
-        Huawei Watch GT 5 live unboxing video leaked before official release](https://www.huaweicentral.com/huawei-watch-gt-5-live-unboxing-video-leaked-before-official-release/)
     
 * [Contact Us](https://www.huaweicentral.com/contact/)
 
