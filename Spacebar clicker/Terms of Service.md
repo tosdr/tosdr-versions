@@ -222,7 +222,7 @@ If you enjoy Spacebar Clicker, you may also like other clicker games such as [Co
 [CLICKER](https://spacebarclicker.co/clicker.games "Clicker") [clicker](https://spacebarclicker.co/tag/clicker "Clicker") [boys](https://spacebarclicker.co/tag/boys "Boys") [girls](https://spacebarclicker.co/tag/girls "Girls") [single player](https://spacebarclicker.co/tag/single-player "Single Player") [action](https://spacebarclicker.co/tag/action "Action") [clicker games](https://spacebarclicker.co/tag/clicker-games "clicker games")[Space Bar Clicker
 -----------------](https://spacebarclicker.co/)
 
-Comment (456)
+Comment (460)
 
 [Newest](javascript:;)
 
