@@ -7,7 +7,7 @@
 | --- | --- |
 |     | [Рецепты](https://www.russianfood.com/recipes/) [Статьи](https://www.russianfood.com/reading/clauses/) [Наша Кухня](https://www.russianfood.com/blogs/) [Супер Поиск](https://www.russianfood.com/search/) [Рассылки](https://www.russianfood.com/subscribe/) |
 
-[![](//img1.russianfood.com/images/recipes/recipe_add_btn_9.gif)](https://www.russianfood.com/recipes/recipeadd.php)
+[![](//img1.russianfood.com/images/recipes/recipe_add_btn_10.gif)](https://www.russianfood.com/recipes/recipeadd.php)
 
 [Добавить  
 рецепт](https://www.russianfood.com/recipes/recipeadd.php)
@@ -148,16 +148,16 @@
 
 Сейчас читают
 
+* [Тёртый пирог с тыквой, творогом и изюмом](https://www.russianfood.com/recipes/recipe.php?rid=172225)
 * [Открытый пирог из слоеного теста со шпинатом, помидорами и моцареллой](https://www.russianfood.com/recipes/recipe.php?rid=173406)
 * [Икра из перца](https://www.russianfood.com/recipes/recipe.php?rid=44303)
 * [Горчичное масло](https://www.russianfood.com/recipes/recipe.php?rid=44743)
 * [Бефстроганов](https://www.russianfood.com/recipes/recipe.php?rid=45011)
 * [Шпигованная говядина в пиве](https://www.russianfood.com/recipes/recipe.php?rid=45016)
 * [Треска в вине](https://www.russianfood.com/recipes/recipe.php?rid=45251)
-* [Свинина с горчичным соусом](https://www.russianfood.com/recipes/recipe.php?rid=45485)
-* [Свинина отварная](https://www.russianfood.com/recipes/recipe.php?rid=45495)
-* [Эскалоп натуральный](https://www.russianfood.com/recipes/recipe.php?rid=45497)
-* [Филе из свинины](https://www.russianfood.com/recipes/recipe.php?rid=45514)
+* [Отварной картофель](https://www.russianfood.com/recipes/recipe.php?rid=45697)
+* [Печеный картофель](https://www.russianfood.com/recipes/recipe.php?rid=45699)
+* [Картофельное пюре](https://www.russianfood.com/recipes/recipe.php?rid=45702)
 
 |     |
 | --- |
@@ -182,213 +182,213 @@
 
 |     |     |
 | --- | --- |
-| Для прессы<br><br>[Добавим красок в осеннее меню! Время ПЕРЦА (31)](https://www.russianfood.com/reading/?post_id=22614) |     |
+| Для прессы<br><br>[Готовим легко и вкусно. Лучшие рецепты для начинающих №24-38](https://www.russianfood.com/reading/?post_id=22616) |     |
 
-[![](//img1.russianfood.com/dycontent/images_upl/740/sm_739782.jpg)](https://www.russianfood.com/reading/?post_id=22614)
+[![](//img1.russianfood.com/dycontent/images_upl/740/sm_739714.jpg)](https://www.russianfood.com/reading/?post_id=22616)
 
-Маринованный перец с луком и чесноком. Курица с перцем и грибами. Цветная капуста с перцем и горошком. Салат с ветчиной, перцем и фасолью. Спагетти с перцем и томатами.
+Котлеты с помидорами и сыром в духовке. Маринованная закуска из баклажанов. Тушеная капуста с грибами. Котлеты со свёклой и жареным луком. Жареные куриные крылышки в соево-томатном соусе.
 
-[Читать дальше...](https://www.russianfood.com/reading/?post_id=22614)  
+[Читать дальше...](https://www.russianfood.com/reading/?post_id=22616)  
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [Лучшие рецепты ВОВРЕМЯ](https://www.russianfood.com/blogs/?id=394496) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22614#comments) | 19.09.24 |     |
+|     | [Лучшие рецепты для начинающих](https://www.russianfood.com/blogs/?id=338566) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22616#comments) | 19.09.24 |     |
 
 |     |     |
 | --- | --- |
-| Для прессы<br><br>[Актуально и оригинально. Время БАКЛАЖАНОВ (58)](https://www.russianfood.com/reading/?post_id=22612) |     |
+| Рецепты<br><br>[Куриная печень, тушенная с баклажанами в сметане](https://www.russianfood.com/recipes/recipe.php?rid=174365) |     |
 
-[![](//img1.russianfood.com/dycontent/images_upl/678/sm_677518.jpg)](https://www.russianfood.com/reading/?post_id=22612)
+[![Фото к рецепту: Куриная печень, тушенная с баклажанами в сметане](//img1.russianfood.com/dycontent/images_upl/740/sm_739463.jpg "Фото к рецепту: Куриная печень, тушенная с баклажанами в сметане")](https://www.russianfood.com/recipes/recipe.php?rid=174365)
 
-Шницели из баклажанов. Макароны с баклажанами и беконом. Салат с баклажанами, фетой и орехами. Рыбные котлеты с баклажаном. Киш с баклажанами, помидорами и сыром.
+Куриная печень сперва обжаривается с луком и баклажанами, а затем тушится в сметане, с добавлением базилика. Сметана делает вкус блюда более мягким и завершенным, а базилик придаёт яркий аромат.
 
-[Читать дальше...](https://www.russianfood.com/reading/?post_id=22612)  
+[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=174365)  
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [Лучшие рецепты ВОВРЕМЯ](https://www.russianfood.com/blogs/?id=394496) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22612#comments) | 18.09.24 |     |
+|     | [Yuliya-s](https://www.russianfood.com/blogs/?id=314972) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174365#comments) | 19.09.24 |     |
 
 |     |     |
 | --- | --- |
-| Для прессы<br><br>[Небанально и незатратно. Лучшие рецепты ЭКОНОМНЕЕ! №24-38](https://www.russianfood.com/reading/?post_id=22611) |     |
+| Рецепты<br><br>[Тыквенные булочки](https://www.russianfood.com/recipes/recipe.php?rid=174371) |     |
 
-[![](//img1.russianfood.com/dycontent/images_upl/737/sm_736621.jpg)](https://www.russianfood.com/reading/?post_id=22611)
+[![Фото к рецепту: Тыквенные булочки](//img1.russianfood.com/dycontent/images_upl/740/sm_739881.jpg "Фото к рецепту: Тыквенные булочки")](https://www.russianfood.com/recipes/recipe.php?rid=174371)
 
-Конвертики из лаваша с помидорами. Запеканка из печени и гречки. Суп с фрикадельками и яично-лимонной заправкой. Котлеты с баклажанами и сыром. Жаркое из курицы с овощами.
+Проверенный простой рецепт тыквенных булочек. Румяные, в меру сладкие, пушистые и яркие внутри - такие булочки скрасят даже самый хмурый день.
 
-[Читать дальше...](https://www.russianfood.com/reading/?post_id=22611)  
+[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=174371)  
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [Лучшие рецепты ЭКОНОМНЕЕ!](https://www.russianfood.com/blogs/?id=338625) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22611#comments) | 18.09.24 |     |
+|     | [Sve4kaSV](https://www.russianfood.com/blogs/?id=217903) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174371#comments) | 19.09.24 |     |
 
 |     |     |
 | --- | --- |
-| Для прессы<br><br>[Зачётный результат.) Лучшие УЖИНЫ №24-38](https://www.russianfood.com/reading/?post_id=22610) |     |
+| Рецепты<br><br>[Рис с брокколи и консервированным тунцом](https://www.russianfood.com/recipes/recipe.php?rid=174372) |     |
 
-[![](//img1.russianfood.com/dycontent/images_upl/737/sm_736751.jpg)](https://www.russianfood.com/reading/?post_id=22610)
+[![Фото к рецепту: Рис с брокколи и консервированным тунцом](//img1.russianfood.com/dycontent/images_upl/740/sm_739561.jpg "Фото к рецепту: Рис с брокколи и консервированным тунцом")](https://www.russianfood.com/recipes/recipe.php?rid=174372)
 
-Баклажаны с фаршем и сыром. Спагетти с беконом и кабачком. Картофельные гнёзда с грибами. Мидии с грибами в сливках. Рагу с индейкой и баклажанами. Рис с курицей в рукаве. Курица, тушенная с цветной капустой.
+Сделаем отварной рис ярким на вкус, дополнив консервированным тунцом и овощами — брокколи, помидорами черри и кукурузой. Все ингредиенты отлично сочетаются и дополняют друг друга. Блюдо получается лёгким, но при этом питательным.
 
-[Читать дальше...](https://www.russianfood.com/reading/?post_id=22610)  
+[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=174372)  
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [Лучшие ужины](https://www.russianfood.com/blogs/?id=325304) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22610#comments) | 18.09.24 |     |
+|     | [Sve4kaSV](https://www.russianfood.com/blogs/?id=217903) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174372#comments) | 19.09.24 |     |
 
 |     |     |
 | --- | --- |
-| Рецепты<br><br>[Картофель с помидорами, маслинами и фетой](https://www.russianfood.com/recipes/recipe.php?rid=173866) |     |
+| Рецепты<br><br>[Рыба в сметанно-грибном соусе, в микроволновке](https://www.russianfood.com/recipes/recipe.php?rid=174378) |     |
 
-[![Фото к рецепту: Картофель с помидорами, маслинами и фетой](//img1.russianfood.com/dycontent/images_upl/732/sm_731380.jpg "Фото к рецепту: Картофель с помидорами, маслинами и фетой")](https://www.russianfood.com/recipes/recipe.php?rid=173866)
+[![Фото к рецепту: Рыба в сметанно-грибном соусе, в микроволновке](//img1.russianfood.com/dycontent/images_upl/740/sm_739896.jpg "Фото к рецепту: Рыба в сметанно-грибном соусе, в микроволновке")](https://www.russianfood.com/recipes/recipe.php?rid=174378)
 
-Изысканное сочетание в средиземноморском стиле – картофель, тушенный с помидорами и маслинами. Для более насыщенного вкуса используется томатный соус, а чеснок и приправа обеспечивают яркий аромат. При подаче блюдо дополняется сыром фета.
+Сочные кусочки рыбы в ароматном соусе из шампиньонов и сметаны. Соус подчёркивает нежность рыбы, делает вкус более выразительным.
 
-[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=173866)  
+[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=174378)  
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [Вечерний обЪед](https://www.russianfood.com/blogs/?id=421112) | _![](/images/blank.gif)_4 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=173866#comments) | 17.09.24 |     |
+|     | [Sve4kaSV](https://www.russianfood.com/blogs/?id=217903) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174378#comments) | 19.09.24 |     |
 
 |     |     |
 | --- | --- |
-| Рецепты<br><br>[Курица с баклажанами в сметане](https://www.russianfood.com/recipes/recipe.php?rid=174117) |     |
+| Рецепты<br><br>[Помидоры, запечённые с чесноком](https://www.russianfood.com/recipes/recipe.php?rid=174387) |     |
 
-[![Фото к рецепту: Курица с баклажанами в сметане](//img1.russianfood.com/dycontent/images_upl/739/sm_738787.jpg "Фото к рецепту: Курица с баклажанами в сметане")](https://www.russianfood.com/recipes/recipe.php?rid=174117)
+[![Фото к рецепту: Помидоры, запечённые с чесноком](//img1.russianfood.com/dycontent/images_upl/740/sm_739868.jpg "Фото к рецепту: Помидоры, запечённые с чесноком")](https://www.russianfood.com/recipes/recipe.php?rid=174387)
 
-Куриное филе и баклажаны соединяются в аппетитное блюдо за счёт добавления сметаны. Кусочки курицы и баклажанов предварительно обжариваются с луком и чесноком, что делает вкус блюда более насыщенным.
+Простое, но изысканное блюдо с потрясающим вкусом и ароматом. Сочные запечённые помидоры, пикантный чеснок и пряные травы создают идеальное сочетание. Эта лёгкая и ароматная закуска универсальна - она отлично сочетается с хлебом, пастой или мясными блюдами.
 
-[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=174117)  
+[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=174387)  
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [Вечерний обЪед](https://www.russianfood.com/blogs/?id=421112) | _![](/images/blank.gif)_16 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174117#comments) | 17.09.24 |     |
+|     | [Yuliya-s](https://www.russianfood.com/blogs/?id=314972) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174387#comments) | 19.09.24 |     |
 
 |     |     |
 | --- | --- |
-| Рецепты<br><br>[Макароны с баклажанами и помидорами в сливочном соусе](https://www.russianfood.com/recipes/recipe.php?rid=174164) |     |
+| Рецепты<br><br>[Маринованная закуска из баклажанов с овощами](https://www.russianfood.com/recipes/recipe.php?rid=174374) |     |
 
-[![Фото к рецепту: Макароны с баклажанами и помидорами в сливочном соусе](//img1.russianfood.com/dycontent/images_upl/740/sm_739425.jpg "Фото к рецепту: Макароны с баклажанами и помидорами в сливочном соусе")](https://www.russianfood.com/recipes/recipe.php?rid=174164)
+[![Фото к рецепту: Маринованная закуска из баклажанов с овощами](//img1.russianfood.com/dycontent/images_upl/740/sm_739586.jpg "Фото к рецепту: Маринованная закуска из баклажанов с овощами")](https://www.russianfood.com/recipes/recipe.php?rid=174374)
 
-Простая и вкусная паста с баклажанами и помидорами черри. Несмотря на отсутствие мяса, за счет баклажанов блюдо получается достаточно сытным. Сливки добавляют сочность и нежное послевкусие, а помидоры черри придают яркий визуальный акцент.
+Простой рецепт вкусной маринованной закуски из баклажанов и к празднику, и на каждый день. Овощи предварительно немного обжариваются, а потом доводятся специями, зеленью и уксусом до желаемого вкуса. Вкусный салат-закуска с неимоверным ароматом готов.
 
-[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=174164)  
+[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=174374)  
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [Вечерний обЪед](https://www.russianfood.com/blogs/?id=421112) | _![](/images/blank.gif)_7 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174164#comments) | 17.09.24 |     |
+|     | [Sve4kaSV](https://www.russianfood.com/blogs/?id=217903) | _![](/images/blank.gif)_1 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174374#comments) | 19.09.24 |     |
 
 |     |     |
 | --- | --- |
-| Рецепты › ["Гость на пороге" - блюда за 10 минут](https://www.russianfood.com/themes/?theme_id=4)<br><br>[Перец, фаршированный сыром и яйцами](https://www.russianfood.com/recipes/recipe.php?rid=174195) |     |
+| Рецепты<br><br>[Тушеная капуста с грибами](https://www.russianfood.com/recipes/recipe.php?rid=174375) |     |
 
-[![Фото к рецепту: Перец, фаршированный сыром и яйцами](//img1.russianfood.com/dycontent/images_upl/738/sm_737978.jpg "Фото к рецепту: Перец, фаршированный сыром и яйцами")](https://www.russianfood.com/recipes/recipe.php?rid=174195)
+[![Фото к рецепту: Тушеная капуста с грибами](//img1.russianfood.com/dycontent/images_upl/740/sm_739799.jpg "Фото к рецепту: Тушеная капуста с грибами")](https://www.russianfood.com/recipes/recipe.php?rid=174375)
 
-Яркая закуска из ароматного болгарского перца. Для начинки используются варёные яйца, сыр, свежая зелень и майонез. Сливочные нотки сыра гармонично соединяются с нежностью яиц и сочностью перца, создавая идеальный вкусовой баланс.
+Тушеная капуста идеально сочетается с жареными грибами. Несмотря на то, что в рецепте нет мяса, блюдо получается сытным и питательным. Можно подать самостоятельно или дополнить мясными или рыбными блюдами. Такую капусту с грибами можно готовить в пост, так как в составе только растительные компоненты.
 
-[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=174195)  
+[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=174375)  
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [Вечерний обЪед](https://www.russianfood.com/blogs/?id=421112) | _![](/images/blank.gif)_8 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174195#comments) | 17.09.24 |     |
+|     | [Sve4kaSV](https://www.russianfood.com/blogs/?id=217903) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174375#comments) | 19.09.24 |     |
 
 |     |     |
 | --- | --- |
-| Рецепты<br><br>[Запеканка с баклажанами, помидорами и сыром](https://www.russianfood.com/recipes/recipe.php?rid=174217) |     |
+| Рецепты<br><br>[Котлеты со свеклой и жареным луком](https://www.russianfood.com/recipes/recipe.php?rid=174366) |     |
 
-[![Фото к рецепту: Запеканка с баклажанами, помидорами и сыром](//img1.russianfood.com/dycontent/images_upl/739/sm_738491.jpg "Фото к рецепту: Запеканка с баклажанами, помидорами и сыром")](https://www.russianfood.com/recipes/recipe.php?rid=174217)
+[![Фото к рецепту: Котлеты со свеклой и жареным луком](//img1.russianfood.com/dycontent/images_upl/740/sm_739485.jpg "Фото к рецепту: Котлеты со свеклой и жареным луком")](https://www.russianfood.com/recipes/recipe.php?rid=174366)
 
-Баклажаны обжариваются с луком и помидорами, заливаются молочно-яичной смесью с сыром, а потом запекаются в духовке. Заливка придаст овощам нежность, насыщенность, а также аппетитные сливочные нотки.
+Если обычные котлеты надоели, предлагаю разнообразить их вкус добавлением запечённой свёклы и обжаренным луком. Получается неимоверно вкусно, ароматно и сочно.
 
-[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=174217)  
+[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=174366)  
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [Вечерний обЪед](https://www.russianfood.com/blogs/?id=421112) | _![](/images/blank.gif)_2 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174217#comments) | 17.09.24 |     |
+|     | [Sve4kaSV](https://www.russianfood.com/blogs/?id=217903) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174366#comments) | 19.09.24 |     |
 
 |     |     |
 | --- | --- |
-| Рецепты<br><br>[Фунчоза с мясом и баклажанами](https://www.russianfood.com/recipes/recipe.php?rid=174283) |     |
+| Рецепты<br><br>[Котлеты с помидорами и сыром в духовке](https://www.russianfood.com/recipes/recipe.php?rid=174380) |     |
 
-[![Фото к рецепту: Фунчоза с мясом и баклажанами](//img1.russianfood.com/dycontent/images_upl/740/sm_739120.jpg "Фото к рецепту: Фунчоза с мясом и баклажанами")](https://www.russianfood.com/recipes/recipe.php?rid=174283)
+[![Фото к рецепту: Котлеты с помидорами и сыром в духовке](//img1.russianfood.com/dycontent/images_upl/740/sm_739714.jpg "Фото к рецепту: Котлеты с помидорами и сыром в духовке")](https://www.russianfood.com/recipes/recipe.php?rid=174380)
 
-Простая в приготовлении фунчоза с мясом, дополненная баклажаном, морковью и сладким перцем. Свинина и овощи поэтапно обжариваются, потом соединяются с кисло-сладким соусом и запаренной фунчозой в единое целое. Пикантность блюду и оригинальный вкус придают имбирь, чеснок и острый перец.
+Котлеты с помидорами и сыром, запеченные в духовке, — это вкусное и сытное блюдо, которое сочетает в себе нежность мяса и сочность ароматных овощей. В процессе запекания сыр плавится и образует аппетитную корочку, а помидоры и лук выделяют сок, что делает котлеты особенно нежными. Котлеты получаются вкусными, сочными и яркими, попробуйте!
 
-[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=174283)  
+[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=174380)  
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [Вечерний обЪед](https://www.russianfood.com/blogs/?id=421112) | _![](/images/blank.gif)_2 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174283#comments) | 17.09.24 |     |
+|     | [Yuliya-s](https://www.russianfood.com/blogs/?id=314972) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174380#comments) | 19.09.24 |     |
 
 |     |     |
 | --- | --- |
-| Для прессы<br><br>[Аппетитная еда — всегда ДА! Лучшие ЗАВТРАКИ №24-38](https://www.russianfood.com/reading/?post_id=22609) |     |
+| Для прессы<br><br>[Яркие вкусы осени в тарелках. Лучшие СУПЫ №24-38](https://www.russianfood.com/reading/?post_id=22615) |     |
 
-[![](//img1.russianfood.com/dycontent/images_upl/733/sm_732408.jpg)](https://www.russianfood.com/reading/?post_id=22609)
+[![](//img1.russianfood.com/dycontent/images_upl/738/sm_737034.jpg)](https://www.russianfood.com/reading/?post_id=22615)
 
-Сырники с зелёным луком. Ячка со сметаной. Омлет с перцем, помидорами, горохом и овсянкой. Омлет с творогом и помидорами. Мамалыга на молоке с вареньем. Макароны с яйцами, беконом. Блинчики из пшена и овсянки.
+Сырный суп с клёцками из кабачка. Суп со стручковой фасолью и беконом. Томатный суп с булгуром. Томатный суп с фасолью и шпинатом. Сырный суп с кабачками и кукурузой. Суп с баклажанами и копчёными рёбрышками. Куриный суп с брокколи и домашней лапшой.
 
-[Читать дальше...](https://www.russianfood.com/reading/?post_id=22609)  
+[Читать дальше...](https://www.russianfood.com/reading/?post_id=22615)  
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [Лучшие завтраки](https://www.russianfood.com/blogs/?id=325261) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22609#comments) | 17.09.24 |     |
+|     | [Лучшие супы](https://www.russianfood.com/blogs/?id=325357) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22615#comments) | 19.09.24 |     |
 
 |     |     |
 | --- | --- |
-| Для прессы<br><br>[Яблочные пончики и аппетитная компания. Время ЯБЛОК (26)](https://www.russianfood.com/reading/?post_id=22608) |     |
+| Рецепты<br><br>[Томатный суп с булгуром](https://www.russianfood.com/recipes/recipe.php?rid=174107) |     |
 
-[![](//img1.russianfood.com/dycontent/images_upl/712/sm_711798.jpg)](https://www.russianfood.com/reading/?post_id=22608)
+[![Фото к рецепту: Томатный суп с булгуром](//img1.russianfood.com/dycontent/images_upl/739/sm_738703.jpg "Фото к рецепту: Томатный суп с булгуром")](https://www.russianfood.com/recipes/recipe.php?rid=174107)
 
-Яблочные пончики с корицей. Сырники с яблоком и тыквой. Слоёный рулет с яблоками и печеньем. Утка в сидре, с яблоками. Овощной салат с яблоком и авокадо.
+Томатный суп с булгуром и болгарским перцем - лёгкое первое блюдо с ароматом мяты и копчёной паприки. Булгур отлично сочетается с томатной основой супа и делает сытнее.
 
-[Читать дальше...](https://www.russianfood.com/reading/?post_id=22608)  
+[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=174107)  
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [Лучшие рецепты ВОВРЕМЯ](https://www.russianfood.com/blogs/?id=394496) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22608#comments) | 17.09.24 |     |
+|     | [Безсупажизнинет](https://www.russianfood.com/blogs/?id=422075) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174107#comments) | 19.09.24 |     |
 
 |     |     |
 | --- | --- |
-| Для прессы<br><br>[Поздравим вкусненьким! Лучшие ПРАЗДНИЧНЫЕ рецепты (5)](https://www.russianfood.com/reading/?post_id=22607) |     |
+| Рецепты<br><br>[Томатный суп с курицей, фасолью и шпинатом](https://www.russianfood.com/recipes/recipe.php?rid=173459) |     |
 
-[![](//img1.russianfood.com/dycontent/images_upl/694/sm_693200.jpg)](https://www.russianfood.com/reading/?post_id=22607)
+[![Фото к рецепту: Томатный суп с курицей, фасолью и шпинатом](//img1.russianfood.com/dycontent/images_upl/740/sm_739890.jpg "Фото к рецепту: Томатный суп с курицей, фасолью и шпинатом")](https://www.russianfood.com/recipes/recipe.php?rid=173459)
 
-Лодочки из перца с курицей и овощами. Шоколадный рулет с масляным кремом. Салат из помидоров с моцареллой. Картошка с фрикадельками. Рыба в беконе с лимоном.
+Томатный суп с курицей, фасолью и шпинатом готовится очень быстро и просто. Сочетание сочных помидоров, нежного куриного мяса и яркого шпината делает блюдо не только вкусным, но и полезным.
 
-[Читать дальше...](https://www.russianfood.com/reading/?post_id=22607)  
+[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=173459)  
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [Лучшие рецепты на праздники](https://www.russianfood.com/blogs/?id=394640) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [1](https://www.russianfood.com/reading/?post_id=22607#comments) | 17.09.24 |     |
+|     | [Безсупажизнинет](https://www.russianfood.com/blogs/?id=422075) | _![](/images/blank.gif)_1 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=173459#comments) | 19.09.24 |     |
 
 |     |     |
 | --- | --- |
-| Рецепты<br><br>[Картофельные зразы с грибами](https://www.russianfood.com/recipes/recipe.php?rid=174382) |     |
+| Рецепты<br><br>[Сырный суп с кабачками, помидорами и кукурузой](https://www.russianfood.com/recipes/recipe.php?rid=174136) |     |
 
-[![Фото к рецепту: Картофельные зразы с грибами](//img1.russianfood.com/dycontent/images_upl/740/sm_739785.jpg "Фото к рецепту: Картофельные зразы с грибами")](https://www.russianfood.com/recipes/recipe.php?rid=174382)
+[![Фото к рецепту: Сырный суп с кабачками, помидорами и кукурузой](//img1.russianfood.com/dycontent/images_upl/740/sm_739353.jpg "Фото к рецепту: Сырный суп с кабачками, помидорами и кукурузой")](https://www.russianfood.com/recipes/recipe.php?rid=174136)
 
-От таких вкусных, аппетитных, золотистых картофельных зраз точно никто не откажется! Картофельные зразы с грибами получаются мягкими, нежными, с румяной корочкой. Подавайте зразы со сметаной или соусом, который вам по вкусу. Приятного аппетита!
+Сырный суп с кабачками, помидорами и кукурузой - быстрый и простой рецепт первого блюда. Приятная кислинка помидоров, чуть хрустящие кабачки и сладость кукурузы отлично дополняет сливочность плавленого сыра.
 
-[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=174382)  
+[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=174136)  
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [HomeRecipes](https://www.russianfood.com/blogs/?id=300916) | _![](/images/blank.gif)_23 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174382#comments) | 17.09.24 |     |
+|     | [Безсупажизнинет](https://www.russianfood.com/blogs/?id=422075) | _![](/images/blank.gif)_1 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174136#comments) | 19.09.24 |     |
 
 |     |     |
 | --- | --- |
-| Рецепты › [Блеснуть при случае](https://www.russianfood.com/themes/?theme_id=12)<br><br>[Ароматный маринад для шашлыка](https://www.russianfood.com/recipes/recipe.php?rid=174373) |     |
+| Рецепты<br><br>[Сырный суп с клецками из кабачка](https://www.russianfood.com/recipes/recipe.php?rid=173525) |     |
 
-[![Фото к рецепту: Ароматный маринад для шашлыка](//img1.russianfood.com/dycontent/images_upl/740/sm_739575.jpg "Фото к рецепту: Ароматный маринад для шашлыка")](https://www.russianfood.com/recipes/recipe.php?rid=174373)
+[![Фото к рецепту: Сырный суп с клецками из кабачка](//img1.russianfood.com/dycontent/images_upl/738/sm_737034.jpg "Фото к рецепту: Сырный суп с клецками из кабачка")](https://www.russianfood.com/recipes/recipe.php?rid=173525)
 
-Существует великое множество маринадов для шашлыка, однако шашлык в маринаде с мятой, чесноком и белым вином вызвал у меня отдельный интерес.
+Сырный суп с клецками из кабачка прост в приготовлении. Благодаря плавленому сыру суп приобретает приятное сливочное послевкусие. Кабачок присутствует и в супе, и в клёцках, делая суп более лёгким, с чуть сладковатым оттенком.
 
-[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=174373)  
+[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=173525)  
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [neslojno](https://www.russianfood.com/blogs/?id=288013) | _![](/images/blank.gif)_1 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174373#comments) | 17.09.24 |     |
+|     | [Безсупажизнинет](https://www.russianfood.com/blogs/?id=422075) | _![](/images/blank.gif)_1 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=173525#comments) | 19.09.24 |     |
 
 |     |
 | --- |
@@ -457,6 +457,15 @@
 |     |     |
 | [Подписаться письмом](mailto:home.cookery.prostierecepti-sub@subscribe.ru?subj=subscribe) |     |
 
+Новые рецепты:
+
+|     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- |
+| [![](//img1.russianfood.com/dycontent/images_upl/740/alt1_739586.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174374) | [![](//img1.russianfood.com/dycontent/images_upl/740/alt1_739714.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174380) | [![](//img1.russianfood.com/dycontent/images_upl/740/alt1_739896.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174378) | [![](//img1.russianfood.com/dycontent/images_upl/740/alt1_739378.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174200) | [![](//img1.russianfood.com/dycontent/images_upl/739/alt1_738703.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174107) | [![](//img1.russianfood.com/dycontent/images_upl/740/alt1_739561.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174372) | [![](//img1.russianfood.com/dycontent/images_upl/740/alt1_739868.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174387) |
+| [Маринованная закуска из баклажанов с овощами](https://www.russianfood.com/recipes/recipe.php?rid=174374) | [Котлеты с помидорами и сыром в духовке](https://www.russianfood.com/recipes/recipe.php?rid=174380) | [Рыба в сметанно-грибном соусе, в микроволновке](https://www.russianfood.com/recipes/recipe.php?rid=174378) | [Суп со стручковой фасолью, сельдереем и беконом](https://www.russianfood.com/recipes/recipe.php?rid=174200) | [Томатный суп с булгуром](https://www.russianfood.com/recipes/recipe.php?rid=174107) | [Рис с брокколи и консервированным тунцом](https://www.russianfood.com/recipes/recipe.php?rid=174372) | [Помидоры, запечённые с чесноком](https://www.russianfood.com/recipes/recipe.php?rid=174387) |
+| [![](//img1.russianfood.com/dycontent/images_upl/740/alt1_739485.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174366) | [![](//img1.russianfood.com/dycontent/images_upl/740/alt1_739353.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174136) | [![](//img1.russianfood.com/dycontent/images_upl/740/alt1_739881.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174371) | [![](//img1.russianfood.com/dycontent/images_upl/740/alt1_739799.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174375) | [![](//img1.russianfood.com/dycontent/images_upl/738/alt1_737034.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=173525) | [![](//img1.russianfood.com/dycontent/images_upl/740/alt1_739463.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174365) | [![](//img1.russianfood.com/dycontent/images_upl/740/alt1_739890.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=173459) |
+| [Котлеты со свеклой и жареным луком](https://www.russianfood.com/recipes/recipe.php?rid=174366) | [Сырный суп с кабачками, помидорами и кукурузой](https://www.russianfood.com/recipes/recipe.php?rid=174136) | [Тыквенные булочки](https://www.russianfood.com/recipes/recipe.php?rid=174371) | [Тушеная капуста с грибами](https://www.russianfood.com/recipes/recipe.php?rid=174375) | [Сырный суп с клецками из кабачка](https://www.russianfood.com/recipes/recipe.php?rid=173525) | [Куриная печень, тушенная с баклажанами в сметане](https://www.russianfood.com/recipes/recipe.php?rid=174365) | [Томатный суп с курицей, фасолью и шпинатом](https://www.russianfood.com/recipes/recipe.php?rid=173459) |
+
 |     |     |     |
 | --- | --- | --- |
 | ![](//img1.russianfood.com/images/common/bottom_line1.jpg) | ![](//img1.russianfood.com/images/common/bottom_line2.jpg) |     |
@@ -472,4 +481,4 @@
 
 Этот сайт использует файлы cookie, чтобы предоставить вам наилучший сервис. Оставаясь на сайте, вы соглашаетесь с [политикой сайта по обработке персональных данных](https://www.russianfood.com/blogs/?post_id=13800).СОГЛАСЕН
 
-(115)
+(121)
