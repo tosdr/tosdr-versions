@@ -84,7 +84,7 @@ Processing of controller (Customer) Personal Data
     * files clicked and downloaded
     * links to an outside domain that were clicked
     * screen resolution
-    * session recording storing the HTML page, and all mouse events (movements, scrolls, locations and clicks), and keypresses
+    * [session recording](https://matomo.org/guide/reports/session-recordings/) storing the HTML page, and all mouse events (movements, scrolls, locations and clicks), and keypresses
     * search terms used on an internal mobile’s or web properties’ search engine
     * custom dimensions and custom variables (any personal or non-personal data the controller wishes to process)
     * custom events
