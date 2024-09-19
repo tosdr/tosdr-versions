@@ -257,10 +257,9 @@ Information Commissioner's Office (ICO) Reg. No. ZA004886
 
 [Child-friendly privacy policy](https://www.spellzone.com/pages/policies/child-friendly-privacy-policy.cfm)
 
-"Spellzone fits in beautifully with our Scope and Sequence of Phonological Awareness and Spelling. It also aligns perfectly with the four areas of spelling knowledge and uses the Brain, Ears, Eyes approach to learning spelling."  
-Thank you!
+"Fantastic - the most relevant material/resource ever seen for both dyslexia and teaching spelling rules."
 
-**Teacher, Australia**
+**College Lecturer**
 
 ### Curriculum...
 
