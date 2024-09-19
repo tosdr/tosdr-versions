@@ -401,35 +401,35 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
+ [![Fiery crash closes all lanes on northbound I-35 Thursday morning](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/V-I35E-CONTINENTAL-CAR-FIRE-_00.00.18.02.jpg?ve=1&tl=1)
+
+ ![Fiery crash closes all lanes on northbound I-35 Thursday morning](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/592/333/V-I35E-CONTINENTAL-CAR-FIRE-_00.00.18.02.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/fiery-crash-all-lanes-closed-northbound-i-35-thursday)
+
+### [Fiery crash closes all lanes on northbound I-35 Thursday morning](https://www.fox4news.com/news/fiery-crash-all-lanes-closed-northbound-i-35-thursday)
+
+ [![North Texas Giving Day encourages support for local nonprofits](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/V_GIVING-DAY-CHARITIES-GET-CHECKS-5A_00.00.09.06.jpg?ve=1&tl=1)
+
+ ![North Texas Giving Day encourages support for local nonprofits](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/592/333/V_GIVING-DAY-CHARITIES-GET-CHECKS-5A_00.00.09.06.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/north-texas-giving-day-2024)
+
+### [North Texas Giving Day encourages support for local nonprofits](https://www.fox4news.com/news/north-texas-giving-day-2024)
+
+ [![One dead, one in serious condition after crash on 820 South Freeway](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/091924-820-Fatal-Crash-KDFWEME003_03_44_04_mpg_00.09.14.10.jpg?ve=1&tl=1)
+
+ ![One dead, one in serious condition after crash on 820 South Freeway](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/592/333/091924-820-Fatal-Crash-KDFWEME003_03_44_04_mpg_00.09.14.10.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/crash-820-s-loop-white-settlement)
+
+### [One dead, one in serious condition after crash on 820 South Freeway](https://www.fox4news.com/news/crash-820-s-loop-white-settlement)
+
+ [![Federal jail where Diddy is being held described as 'hell on earth'](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/GettyImages-1784892673.jpg?ve=1&tl=1)
+
+ ![Federal jail where Diddy is being held described as 'hell on earth'](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/592/333/GettyImages-1784892673.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/diddy-federal-jail-brooklyn-conditions-hell-on-earth)
+
+### [Federal jail where Diddy is being held described as 'hell on earth,' plagued by violence, poor conditions](https://www.fox4news.com/news/diddy-federal-jail-brooklyn-conditions-hell-on-earth)
+
  [![Lewisville firefighters find body of drowned jet ski rider](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2019/08/32/18/27b7e856-0036C6.MXF_00.16.00.10_1530806524993_5758850_ver1.0.png?ve=1&tl=1)
 
  ![Lewisville firefighters find body of drowned jet ski rider](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2019/08/32/18/592/333/27b7e856-0036C6.MXF_00.16.00.10_1530806524993_5758850_ver1.0.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/lewisville-firefighters-find-man-who-drowned-during-jet-ski-ride)
 
 ### [Lewisville firefighters find body of drowned jet ski rider](https://www.fox4news.com/news/lewisville-firefighters-find-man-who-drowned-during-jet-ski-ride)
-
- [![Fort Worth approves $2.79B budget](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/05/32/18/fort-worth-skyline-generic.jpg?ve=1&tl=1)
-
- ![Fort Worth approves $2.79B budget](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/05/32/18/592/333/fort-worth-skyline-generic.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/fort-worth-approves-2-79b-budget)
-
-### [Fort Worth approves $2.79B budget](https://www.fox4news.com/news/fort-worth-approves-2-79b-budget)
-
- [![Dallas approves $4.97B budget, including property tax rate cut](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2022/09/32/18/GettyImages-1354285485-1.jpg?ve=1&tl=1)
-
- ![Dallas approves $4.97B budget, including property tax rate cut](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2022/09/32/18/592/333/GettyImages-1354285485-1.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/dallas-approves-4-97b-budget-including-property-tax-cut)
-
-### [Dallas approves $4.97B budget, including property tax rate cut](https://www.fox4news.com/news/dallas-approves-4-97b-budget-including-property-tax-cut)
-
- [![Father of three young children among 4 killed in I-45 crash](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/KST-CRASH-PKG_KDFW1cf9_186_mp4_00.00.35.34.jpg?ve=1&tl=1)
-
- ![Father of three young children among 4 killed in I-45 crash](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/592/333/KST-CRASH-PKG_KDFW1cf9_186_mp4_00.00.35.34.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/father-three-young-children-among-4-killed-i-45-crash)
-
-### [Father of three young children among 4 killed in I-45 crash](https://www.fox4news.com/news/father-three-young-children-among-4-killed-i-45-crash)
-
- [![Dallas mayor wears 'TCU Sucks' shirt ahead of Iron Skillet showdown](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/GXyNlvrWAAERRUh.jpg?ve=1&tl=1)
-
- ![Dallas mayor wears 'TCU Sucks' shirt ahead of Iron Skillet showdown](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/592/333/GXyNlvrWAAERRUh.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/dallas-mayor-tcu-sucks-shirt-smu)
-
-### [Dallas mayor wears 'TCU Sucks' shirt ahead of Iron Skillet showdown](https://www.fox4news.com/news/dallas-mayor-tcu-sucks-shirt-smu)
 
 ###### [News](https://www.fox4news.com/news)
 
