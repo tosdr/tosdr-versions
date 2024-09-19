@@ -1,7 +1,3 @@
-💰 \[Webinar\] Exploring monetization success: Data-driven strategies for game developers
-
-[RSVP here](https://www.linkedin.com/events/7234626431257899009/)
-
 [Skip to content](#main) [![GameAnalytics](https://gameanalytics.com/wp-content/themes/ga-v3/dist/images/logo.png)](https://gameanalytics.com/)
 
 * [Join MarketIQ Beta](https://gameanalytics.com/marketiq/)
