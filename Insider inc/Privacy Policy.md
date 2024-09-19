@@ -19,7 +19,7 @@ Please ensure Javascript is enabled for purposes of [website accessibility](http
 Insider Privacy Policy
 ======================
 
-**Last Updated/Effective Date: March 11, 2024**
+**Last Updated/Effective Date: September 19, 2024**
 
 1\. OVERVIEW
 ------------
@@ -495,7 +495,7 @@ While our legitimate interests are most extensively detailed in Section 3 of thi
 
 If you are a data subject in a jurisdiction identified in this section, you have the right to access, rectify, or erase any personal data we have collected about you through the Service. You also have the right to data portability and the right to restrict or object to our processing of personal data we have collected about you through the Service. In addition, you have the right to ask us not to process your personal data (or provide it to third parties to process) for marketing purposes or purposes materially different than for which it was originally collected or subsequently authorized by you. You may withdraw your consent at any time for any data processing we do based on consent you have provided to us.
 
-To exercise any of these rights, please click [here](https://my.datasubject.com/169pxRTHL4HFV2CIm/23040) and follow the instructions, or contact us at [privacy@insider-inc.com](mailto:privacy@insider-inc.com?) and specify which right you intend to exercise. For EMARKETER, please email your request at [privacy@emarketer.com](mailto:privacy@emarketer.com?). We will respond to your request within 30 days. We may require additional information from you to allow us to confirm your identity. Further, if we are processing your information on behalf of one of our clients, we will refer you to that client, and will support them to the extent required by applicable law in responding to your request. Please note that we store information as necessary to fulfill the purposes for which it was collected, and may continue to retain and use the information even after a data subject request for purposes of our legitimate interests, including as necessary to comply with our legal obligations, resolve disputes, prevent fraud, and enforce our agreements.
+To exercise any of these rights contact us at [privacy@insider-inc.com](mailto:privacy@insider-inc.com?) and specify which right you intend to exercise. For EMARKETER, please email your request at [privacy@emarketer.com](mailto:privacy@emarketer.com?). We will respond to your request within 30 days. We may require additional information from you to allow us to confirm your identity. Further, if we are processing your information on behalf of one of our clients, we will refer you to that client, and will support them to the extent required by applicable law in responding to your request. Please note that we store information as necessary to fulfill the purposes for which it was collected, and may continue to retain and use the information even after a data subject request for purposes of our legitimate interests, including as necessary to comply with our legal obligations, resolve disputes, prevent fraud, and enforce our agreements.
 
 If you have any issues with our compliance or you believe that we have not complied with our obligations under this Privacy Policy or European or UK law, you have the right to make a complaint to an EU Data Protection Authority, such as the UK Information Commissioner's Office. You can view the contact information for your data protection authority [here](https://edpb.europa.eu/about-edpb/board/members_en).
 
