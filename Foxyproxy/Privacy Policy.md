@@ -124,6 +124,6 @@ If you have questions about (or suggestions for!) this policy, please [contact u
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-Thanks for your help. Fast and efficient as always.
+I have appreciated your FoxyProxy service for many years now...Thank you very much for your excellent service!
 
-Simon Hitches
+Ray Sydney Brown
