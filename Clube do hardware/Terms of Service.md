@@ -113,7 +113,7 @@ Regras do Clube do Hardware
 **Por [Gabriel Torres](https://www.clubedohardware.com.br/profile/281750-gabriel-torres/ "Ir ao perfil de Gabriel Torres")**  
 10 de novembro de 2021 em [Avisos da administração](https://www.clubedohardware.com.br/forums/forum/9-avisos-da-administra%C3%A7%C3%A3o/)
 
- [Compartilhar](#elShareItem_1731485793_menu)
+ [Compartilhar](#elShareItem_1171592170_menu)
 
 * [](https://web.whatsapp.com/send?text=https%3A%2F%2Fwww.clubedohardware.com.br%2Fforums%2Ftopic%2F690576-regras-do-clube-do-hardware%2F "Compartilhar no WhatsApp")[](https://api.whatsapp.com/send?text=https%3A%2F%2Fwww.clubedohardware.com.br%2Fforums%2Ftopic%2F690576-regras-do-clube-do-hardware%2F "Compartilhar no WhatsApp")
 * [](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.clubedohardware.com.br%2Fforums%2Ftopic%2F690576-regras-do-clube-do-hardware%2F "Compartilhar no Facebook")
@@ -324,7 +324,7 @@ Mais opções...
 
 Este tópico está impedido de receber novas respostas.
 
- [Compartilhar](#elShareItem_2098328149_menu)
+ [Compartilhar](#elShareItem_1237115535_menu)
 
 * [](https://web.whatsapp.com/send?text=https%3A%2F%2Fwww.clubedohardware.com.br%2Fforums%2Ftopic%2F690576-regras-do-clube-do-hardware%2F "Compartilhar no WhatsApp")[](https://api.whatsapp.com/send?text=https%3A%2F%2Fwww.clubedohardware.com.br%2Fforums%2Ftopic%2F690576-regras-do-clube-do-hardware%2F "Compartilhar no WhatsApp")
 * [](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.clubedohardware.com.br%2Fforums%2Ftopic%2F690576-regras-do-clube-do-hardware%2F "Compartilhar no Facebook")
@@ -365,6 +365,76 @@ Mais opções...
 
 * ### Últimos tópicos
     
+    * [![tutuba08](https://www.clubedohardware.com.br/uploads/members/monthly_2024_09/imported-photo-1253327.thumb.png.da72b365d1c8c753a80b2c5a6f38150b.png)](https://www.clubedohardware.com.br/profile/1253327-tutuba08/ "Ir ao perfil de tutuba08")
+        
+        0
+        
+        [mau-contato no cabo de 24 pinos da fonte de energia](https://www.clubedohardware.com.br/forums/topic/1697756-mau-contato-no-cabo-de-24-pinos-da-fonte-de-energia/?do=getNewComment "mau-contato no cabo de 24 pinos da fonte de energia")
+        
+        [Fontes e energia](https://www.clubedohardware.com.br/forums/forum/153-fontes-e-energia/ "Fontes e energia")  
+        Por [tutuba08](https://www.clubedohardware.com.br/profile/1253327-tutuba08/ "Ir ao perfil de tutuba08")  
+        1 hora atrás
+        
+    * [![rikawa](https://www.clubedohardware.com.br/uploads/members/monthly_2023_12/cute-ninja-cartoon-mascot-character-design-vector-48705759.thumb.jpg.a3c1b837652f4562457684e8510095ac.jpg)](https://www.clubedohardware.com.br/profile/944781-rikawa/ "Ir ao perfil de rikawa")
+        
+        0
+        
+        [Zero RPM Fan mode (Vale a pena?)](https://www.clubedohardware.com.br/forums/topic/1697755-zero-rpm-fan-mode-vale-a-pena/?do=getNewComment "Zero RPM Fan mode (Vale a pena?)")
+        
+        [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
+        Por [rikawa](https://www.clubedohardware.com.br/profile/944781-rikawa/ "Ir ao perfil de rikawa")  
+        2 horas atrás
+        
+    * [![Luan o Leigo do Hardware](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/imported-photo-1224180.thumb.jpeg.2d7b9d0e8d49831f63c4a565bd1b5f63.jpeg)](https://www.clubedohardware.com.br/profile/1224180-luan-o-leigo-do-hardware/ "Ir ao perfil de Luan o Leigo do Hardware")
+        
+        1
+        
+        [Ryzen 5 5600 combinado com uma 4070/super/ti dá certo?](https://www.clubedohardware.com.br/forums/topic/1697754-ryzen-5-5600-combinado-com-uma-4070superti-d%C3%A1-certo/?do=getNewComment "Ryzen 5 5600 combinado com uma 4070/super/ti dá certo?")
+        
+        [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
+        Por [Luan o Leigo do Hardware](https://www.clubedohardware.com.br/profile/1224180-luan-o-leigo-do-hardware/ "Ir ao perfil de Luan o Leigo do Hardware")  
+        3 horas atrás
+        
+    * [![andre Eluar](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%2362c4ba%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EAE%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1253326-andre-eluar/ "Ir ao perfil de andre Eluar")
+        
+        0
+        
+        [placa-mãe OKI - ST 4290](https://www.clubedohardware.com.br/forums/topic/1697752-placa-m%C3%A3e-oki-st-4290/?do=getNewComment "placa-mãe OKI - ST 4290")
+        
+        [Placas-mãe](https://www.clubedohardware.com.br/forums/forum/28-placas-m%C3%A3e/ "Placas-mãe")  
+        Por [andre Eluar](https://www.clubedohardware.com.br/profile/1253326-andre-eluar/ "Ir ao perfil de andre Eluar")  
+        4 horas atrás
+        
+    * [![adrieldig](https://www.clubedohardware.com.br/uploads/members/monthly_2024_09/download.thumb.jpg.2348d2b4409754ae4ec610b6b155265e.jpg)](https://www.clubedohardware.com.br/profile/1252761-adrieldig/ "Ir ao perfil de adrieldig")
+        
+        4
+        
+        [Pouco FPS RTX 4060.](https://www.clubedohardware.com.br/forums/topic/1697751-pouco-fps-rtx-4060/?do=getNewComment "Pouco FPS RTX 4060.")
+        
+        [Problemas de desempenho](https://www.clubedohardware.com.br/forums/forum/256-problemas-de-desempenho/ "Problemas de desempenho")  
+        Por [adrieldig](https://www.clubedohardware.com.br/profile/1252761-adrieldig/ "Ir ao perfil de adrieldig")  
+        4 horas atrás
+        
+    * [![Muller0310](https://www.clubedohardware.com.br/uploads/members/monthly_2023_10/imported-photo-1230599.thumb.png.6afcc69c97035c27c9540827016c96cf.png)](https://www.clubedohardware.com.br/profile/1230599-muller0310/ "Ir ao perfil de Muller0310")
+        
+        2
+        
+        [GTX 650 2gb fechando em tudo](https://www.clubedohardware.com.br/forums/topic/1697750-gtx-650-2gb-fechando-em-tudo/?do=getNewComment "GTX 650 2gb fechando em tudo")
+        
+        [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
+        Por [Muller0310](https://www.clubedohardware.com.br/profile/1230599-muller0310/ "Ir ao perfil de Muller0310")  
+        5 horas atrás
+        
+    * [![AndersonCamposs](https://www.clubedohardware.com.br/uploads/members/monthly_2024_09/imported-photo-1252989.thumb.png.7b3f4bb4304fcf8392fbf1a5b62b6142.png)](https://www.clubedohardware.com.br/profile/1252989-andersoncamposs/ "Ir ao perfil de AndersonCamposs")
+        
+        2
+        
+        [Preciso de indicações de ventoinhas para melhorar o air flow do PC](https://www.clubedohardware.com.br/forums/topic/1697749-preciso-de-indica%C3%A7%C3%B5es-de-ventoinhas-para-melhorar-o-air-flow-do-pc/?do=getNewComment "Preciso de indicações de ventoinhas para melhorar o air flow do PC")
+        
+        [Refrigeração e superaquecimento](https://www.clubedohardware.com.br/forums/forum/155-refrigera%C3%A7%C3%A3o-e-superaquecimento/ "Refrigeração e superaquecimento")  
+        Por [AndersonCamposs](https://www.clubedohardware.com.br/profile/1252989-andersoncamposs/ "Ir ao perfil de AndersonCamposs")  
+        5 horas atrás
+        
     * [![KxK](https://www.clubedohardware.com.br/uploads/members/monthly_2024_09/imported-photo-1253323.thumb.jpeg.3ddbf63fdfcaf1955f5a1bc330614c9c.jpeg)](https://www.clubedohardware.com.br/profile/1253323-kxk/ "Ir ao perfil de KxK")
         
         0
@@ -373,97 +443,27 @@ Mais opções...
         
         [Computador congelando](https://www.clubedohardware.com.br/forums/forum/123-computador-congelando/ "Computador congelando")  
         Por [KxK](https://www.clubedohardware.com.br/profile/1253323-kxk/ "Ir ao perfil de KxK")  
-        10 minutos atrás
+        6 horas atrás
         
     * [![cyberbot231](https://www.clubedohardware.com.br/uploads/members/monthly_2020_10/imported-photo-1081146.thumb.jpeg.1572e30fe487cc9c4edfb5c004d92338.jpeg)](https://www.clubedohardware.com.br/profile/1081146-cyberbot231/ "Ir ao perfil de cyberbot231")
         
-        1
+        4
         
         [Processador para RX 6750 XT](https://www.clubedohardware.com.br/forums/topic/1697747-processador-para-rx-6750-xt/?do=getNewComment "Processador para RX 6750 XT")
         
         [Processadores](https://www.clubedohardware.com.br/forums/forum/43-processadores/ "Processadores")  
         Por [cyberbot231](https://www.clubedohardware.com.br/profile/1081146-cyberbot231/ "Ir ao perfil de cyberbot231")  
-        20 minutos atrás
+        6 horas atrás
         
     * [![SparkBr](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%236279c4%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3ES%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/761625-sparkbr/ "Ir ao perfil de SparkBr")
         
-        0
+        4
         
         [RTX 3060 12gb ou RX 6650 XT?](https://www.clubedohardware.com.br/forums/topic/1697746-rtx-3060-12gb-ou-rx-6650-xt/?do=getNewComment "RTX 3060 12gb ou RX 6650 XT?")
         
         [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
         Por [SparkBr](https://www.clubedohardware.com.br/profile/761625-sparkbr/ "Ir ao perfil de SparkBr")  
-        1 hora atrás
-        
-    * [![artur251209](https://www.clubedohardware.com.br/uploads/members/monthly_2024_09/imported-photo-1198262.thumb.jpeg.6daafb245476d7630ae43046496a9275.jpeg)](https://www.clubedohardware.com.br/profile/1198262-artur251209/ "Ir ao perfil de artur251209")
-        
-        0
-        
-        [É obrigatório o uso dos dois conectores 8 pinos CPU,da B760m tudo wi-fi oi?](https://www.clubedohardware.com.br/forums/topic/1697745-%C3%A9-obrigat%C3%B3rio-o-uso-dos-dois-conectores-8-pinos-cpuda-b760m-tudo-wi-fi-oi/?do=getNewComment "É obrigatório o uso dos dois conectores 8 pinos CPU,da B760m tudo wi-fi oi?")
-        
-        [Placas-mãe](https://www.clubedohardware.com.br/forums/forum/28-placas-m%C3%A3e/ "Placas-mãe")  
-        Por [artur251209](https://www.clubedohardware.com.br/profile/1198262-artur251209/ "Ir ao perfil de artur251209")  
-        1 hora atrás
-        
-    * [![erico.asg](https://www.clubedohardware.com.br/uploads/members/monthly_2020_10/imported-photo-1019716.thumb.jpeg.f43f9ab84cb4d91031dee33c74611625.jpeg)](https://www.clubedohardware.com.br/profile/1019716-ericoasg/ "Ir ao perfil de erico.asg")
-        
-        0
-        
-        [Computador parou de ligar do nada](https://www.clubedohardware.com.br/forums/topic/1697744-computador-parou-de-ligar-do-nada/?do=getNewComment "Computador parou de ligar do nada")
-        
-        [Computador não liga ou não dá vídeo](https://www.clubedohardware.com.br/forums/forum/122-computador-n%C3%A3o-liga-ou-n%C3%A3o-d%C3%A1-v%C3%ADdeo/ "Computador não liga ou não dá vídeo")  
-        Por [erico.asg](https://www.clubedohardware.com.br/profile/1019716-ericoasg/ "Ir ao perfil de erico.asg")  
-        1 hora atrás
-        
-    * [![Fillype_0](https://www.clubedohardware.com.br/uploads/members/monthly_2024_09/imported-photo-1253317.thumb.png.fdd10dd5c54e404e92fd3ba6de5c9ffa.png)](https://www.clubedohardware.com.br/profile/1253317-fillype_0/ "Ir ao perfil de Fillype_0")
-        
-        0
-        
-        [Q-FLASH Gigabyte B650 Aorus Elite AX](https://www.clubedohardware.com.br/forums/topic/1697743-q-flash-gigabyte-b650-aorus-elite-ax/?do=getNewComment "Q-FLASH Gigabyte B650 Aorus Elite AX")
-        
-        [Placas-mãe](https://www.clubedohardware.com.br/forums/forum/28-placas-m%C3%A3e/ "Placas-mãe")  
-        Por [Fillype\_0](https://www.clubedohardware.com.br/profile/1253317-fillype_0/ "Ir ao perfil de Fillype_0")  
-        1 hora atrás
-        
-    * [![joeycarusoo](https://www.clubedohardware.com.br/uploads/members/monthly_2024_05/imported-photo-1245341.thumb.png.08746913a83ce83c71f555ad2e43c0bf.png)](https://www.clubedohardware.com.br/profile/1245341-joeycarusoo/ "Ir ao perfil de joeycarusoo")
-        
-        2
-        
-        [Upgrade de PC para jogos competitivos](https://www.clubedohardware.com.br/forums/topic/1697742-upgrade-de-pc-para-jogos-competitivos/?do=getNewComment "Upgrade de PC para jogos competitivos")
-        
-        [Montagem e upgrade de computadores de mesa](https://www.clubedohardware.com.br/forums/forum/93-montagem-e-upgrade-de-computadores-de-mesa/ "Montagem e upgrade de computadores de mesa")  
-        Por [joeycarusoo](https://www.clubedohardware.com.br/profile/1245341-joeycarusoo/ "Ir ao perfil de joeycarusoo")  
-        1 hora atrás
-        
-    * [![DevSead](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/imported-photo-1245844.thumb.jpeg.55ae06a3bb398765ea0aa88676dd0d8c.jpeg)](https://www.clubedohardware.com.br/profile/1245844-devsead/ "Ir ao perfil de DevSead")
-        
-        0
-        
-        [Valorant pegando 90 fps](https://www.clubedohardware.com.br/forums/topic/1697741-valorant-pegando-90-fps/?do=getNewComment "Valorant pegando 90 fps")
-        
-        [Problemas de desempenho](https://www.clubedohardware.com.br/forums/forum/256-problemas-de-desempenho/ "Problemas de desempenho")  
-        Por [DevSead](https://www.clubedohardware.com.br/profile/1245844-devsead/ "Ir ao perfil de DevSead")  
-        1 hora atrás
-        
-    * [![CloudZ](https://www.clubedohardware.com.br/uploads/members/monthly_2020_01/nuvem.thumb.jpg.32636c106e3f348d435e64213dd6ae23.jpg)](https://www.clubedohardware.com.br/profile/859044-cloudz/ "Ir ao perfil de CloudZ")
-        
-        0
-        
-        [Fonte para i7 12700k + RTX 4070 Super](https://www.clubedohardware.com.br/forums/topic/1697740-fonte-para-i7-12700k-rtx-4070-super/?do=getNewComment "Fonte para i7 12700k + RTX 4070 Super")
-        
-        [Fontes e energia](https://www.clubedohardware.com.br/forums/forum/153-fontes-e-energia/ "Fontes e energia")  
-        Por [CloudZ](https://www.clubedohardware.com.br/profile/859044-cloudz/ "Ir ao perfil de CloudZ")  
-        1 hora atrás
-        
-    * [![InvictoDS](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23c46d62%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EI%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1074296-invictods/ "Ir ao perfil de InvictoDS")
-        
-        0
-        
-        [Rx 580 dica de overclock, sem estrapolar o limite dela](https://www.clubedohardware.com.br/forums/topic/1697739-rx-580-dica-de-overclock-sem-estrapolar-o-limite-dela/?do=getNewComment "Rx 580 dica de overclock, sem estrapolar o limite dela")
-        
-        [Overclock](https://www.clubedohardware.com.br/forums/forum/11-overclock/ "Overclock")  
-        Por [InvictoDS](https://www.clubedohardware.com.br/profile/1074296-invictods/ "Ir ao perfil de InvictoDS")  
-        2 horas atrás
+        7 horas atrás
         
     
 
