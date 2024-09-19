@@ -23,7 +23,6 @@ Sign Up
     #### Upgrades
     
     * [One Number Get text reminders and eliminate access code](https://www.freeconferencecall.com/one-number-3 "One Number")
-    * [Virtual Phone Access a Free Virtual Phone on any device](https://www.freeconferencecall.com/phone "Virtual Phone")
     * [Custom Greeting Welcome participants to your meeting](https://www.freeconferencecall.com/custom-greeting-2 "Custom Greeting")
     * [Custom Hold Music Control the atmosphere in the waiting room](https://www.freeconferencecall.com/features#upgrades-section "Custom Hold Music")
     * [Extra Storage Up to 40GB available for recorded meetings](https://www.freeconferencecall.com/features#upgrades-section "Extra Storage")
@@ -44,7 +43,6 @@ Sign Up
         * [Get Our Mobile App](https://www.freeconferencecall.com/apps "Get Our Mobile App")
     * [Upgrades](#)
         * [One Number](https://www.freeconferencecall.com/one-number-3 "One Number")
-        * [Virtual Phone](https://www.freeconferencecall.com/phone "Virtual Phone")
         * [Custom Greeting](https://www.freeconferencecall.com/custom-greeting-2 "Custom Greeting")
         * [Custom Hold Music](https://www.freeconferencecall.com/features#upgrades-section "Custom Hold Music")
         * [Extra Storage](https://www.freeconferencecall.com/features#upgrades-section "Extra Storage")
@@ -70,7 +68,6 @@ Sign Up
     * [Get Our Mobile App](https://www.freeconferencecall.com/apps "Get Our Mobile App")
 * [Upgrades](#)
     * [One Number](https://www.freeconferencecall.com/one-number-3 "One Number")
-    * [Virtual Phone](https://www.freeconferencecall.com/phone "Virtual Phone")
     * [Custom Greeting](https://www.freeconferencecall.com/custom-greeting-2 "Custom Greeting")
     * [Custom Hold Music](https://www.freeconferencecall.com/features#upgrades-section "Custom Hold Music")
     * [Extra Storage](https://www.freeconferencecall.com/features#upgrades-section "Extra Storage")
