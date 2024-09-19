@@ -242,35 +242,35 @@ We have included on the pages of this website a robots meta tag with the “noai
 
 This privacy policy was created in party by using [Termly’s Privacy Policy Generator](https://termly.io/products/privacy-policy-generator/?ftseo).
 
-[![](https://cwbchicago.com/wp-content/uploads/2024/09/Uber-and-Lyft-logos-grok-326x245.jpg)](https://cwbchicago.com/2024/09/cops-warn-of-more-rideshare-robberies-in-south-shore-neighborhood.html "Cops warn of more rideshare robberies in South Shore neighborhood")
+[![](https://cwbchicago.com/wp-content/uploads/2024/09/Kenneth-Horner-326x245.jpg)](https://cwbchicago.com/2024/09/12-years-for-man-who-beat-sexually-assaulted-woman-he-lured-from-greyhound-bus-terminal.html "12 years for man who beat, sexually assaulted woman he lured from Greyhound bus terminal")
+
+West Loop
+
+### [12 years for man who beat, sexually assaulted woman he lured from Greyhound bus terminal](https://cwbchicago.com/2024/09/12-years-for-man-who-beat-sexually-assaulted-woman-he-lured-from-greyhound-bus-terminal.html "12 years for man who beat, sexually assaulted woman he lured from Greyhound bus terminal")
+
+[September 17, 2024 7:47 PM](https://cwbchicago.com/2024/09)
+
+A man has been given a 12-year sentence for luring a woman from the Greyhound bus terminal in Chicago and sexually assaulting her in a nearby homeless encampment.[](https://cwbchicago.com/2024/09/12-years-for-man-who-beat-sexually-assaulted-woman-he-lured-from-greyhound-bus-terminal.html "12 years for man who beat, sexually assaulted woman he lured from Greyhound bus terminal")
+
+[![](https://cwbchicago.com/wp-content/uploads/2024/09/Clockwise-from-top-left-Daniel-Bueno-Carranza-Irving-Diaz-Anthony-Hernandez-Jocelyn-Lara-Adrian-Ramirez-Normando-Riquelme-and-Antonio-Rosales-Chicago-Police-Department-Cook-County-Sheriffs-Office--326x245.jpg)](https://cwbchicago.com/2024/09/seven-charged-guns-chicag-mexican-indepence-day-weekend.html "At least 7 charged with gun possession during Chicago’s Mexican Independence Day weekend; 5 are from the suburbs")
 
 Citywide
 
-### [Cops warn of more rideshare robberies in South Shore neighborhood](https://cwbchicago.com/2024/09/cops-warn-of-more-rideshare-robberies-in-south-shore-neighborhood.html "Cops warn of more rideshare robberies in South Shore neighborhood")
+### [At least 7 charged with gun possession during Chicago’s Mexican Independence Day weekend; 5 are from the suburbs](https://cwbchicago.com/2024/09/seven-charged-guns-chicag-mexican-indepence-day-weekend.html "At least 7 charged with gun possession during Chicago’s Mexican Independence Day weekend; 5 are from the suburbs")
 
-[September 17, 2024 6:09 AM](https://cwbchicago.com/2024/09)
+[September 17, 2024 5:50 PM](https://cwbchicago.com/2024/09)
 
-Chicago police have expanded their warning to rideshare drivers about a string of robberies occurring in South Shore.[](https://cwbchicago.com/2024/09/cops-warn-of-more-rideshare-robberies-in-south-shore-neighborhood.html "Cops warn of more rideshare robberies in South Shore neighborhood")
+Chicago police arrested at least 18 people during Mexican Independence Day festivities last weekend, according to court records, with seven of those arrests being for felony gun violations.[](https://cwbchicago.com/2024/09/seven-charged-guns-chicag-mexican-indepence-day-weekend.html "At least 7 charged with gun possession during Chicago’s Mexican Independence Day weekend; 5 are from the suburbs")
 
-[![](https://cwbchicago.com/wp-content/uploads/2024/09/JH-407310-pink-line-suspect-326x245.jpg)](https://cwbchicago.com/2024/09/cops-need-help-finding-pink-line-robber.html "Cops need help finding Pink Line robber")
+[![](https://cwbchicago.com/wp-content/uploads/2024/09/Marque-McCray-and-Royal-Darring-326x245.jpg)](https://cwbchicago.com/2024/09/hes-the-25th-person-charged-with-killing-or-trying-to-kill-someone-in-chicago-this-year-while-having-a-felony-case-pending.html "He’s the 25th person charged with killing or trying to kill someone in Chicago this year while having a felony case pending")
 
-CTA
+Auburn Gresham
 
-### [Cops need help finding Pink Line robber](https://cwbchicago.com/2024/09/cops-need-help-finding-pink-line-robber.html "Cops need help finding Pink Line robber")
+### [He’s the 25th person charged with killing or trying to kill someone in Chicago this year while having a felony case pending](https://cwbchicago.com/2024/09/hes-the-25th-person-charged-with-killing-or-trying-to-kill-someone-in-chicago-this-year-while-having-a-felony-case-pending.html "He’s the 25th person charged with killing or trying to kill someone in Chicago this year while having a felony case pending")
 
-[September 16, 2024 7:41 PM](https://cwbchicago.com/2024/09)
+[September 17, 2024 6:59 AM](https://cwbchicago.com/2024/09)
 
-Chicago police need some help identifying a man who robbed a woman as she dozed off on the Pink Line.[](https://cwbchicago.com/2024/09/cops-need-help-finding-pink-line-robber.html "Cops need help finding Pink Line robber")
-
-[![](https://cwbchicago.com/wp-content/uploads/2024/09/Uber-Lyft-belmont-sheffield-september-20224-326x245.jpg)](https://cwbchicago.com/2024/09/at-least-2-gunmen-fired-the-shots-that-injured-2-people-including-a-rideshare-passenger-in-lakeview-witness-says.html "At least 2 gunmen fired the shots that injured 2 people, including a rideshare passenger, in Lakeview, witness says")
-
-Lakeview
-
-### [At least 2 gunmen fired the shots that injured 2 people, including a rideshare passenger, in Lakeview, witness says](https://cwbchicago.com/2024/09/at-least-2-gunmen-fired-the-shots-that-injured-2-people-including-a-rideshare-passenger-in-lakeview-witness-says.html "At least 2 gunmen fired the shots that injured 2 people, including a rideshare passenger, in Lakeview, witness says")
-
-[September 16, 2024 7:19 PM](https://cwbchicago.com/2024/09)
-
-A witness is offering new details about a shooting that left two people, including a rideshare passenger, injured near the Belmont Red Line station on Sunday morning.[](https://cwbchicago.com/2024/09/at-least-2-gunmen-fired-the-shots-that-injured-2-people-including-a-rideshare-passenger-in-lakeview-witness-says.html "At least 2 gunmen fired the shots that injured 2 people, including a rideshare passenger, in Lakeview, witness says")
+A man with a pending juvenile gun case has become the 25th person accused of shooting, killing, or trying to shoot or kill someone in Chicago this year while on felony pretrial release. The crimes involved 40 victims, eight of whom died.[](https://cwbchicago.com/2024/09/hes-the-25th-person-charged-with-killing-or-trying-to-kill-someone-in-chicago-this-year-while-having-a-felony-case-pending.html "He’s the 25th person charged with killing or trying to kill someone in Chicago this year while having a felony case pending")
 
 Search
 
