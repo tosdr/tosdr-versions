@@ -14,17 +14,200 @@ Force Open Search
 
 Open main menu
 
-Loading...
+![](https://assets.atlasobscura.com/assets/hermes/aoa_logo_aon-fb53a8d4415047286c25915bdbbdf3721acc39fd90bd71bf7712345c0096a45b.svg)
 
-Loading...
+Take your next trip with Atlas Obscura!
+---------------------------------------
 
-Loading...
+Our small-group adventures are inspired by our Atlas of the world's most fascinating places, the stories behind them, and the people who bring them to life.
 
-Loading...
+[Visit Adventures](https://www.atlasobscura.com/adventures/)
 
-Loading...
+Trips Highlight
 
-Loading...
+   [![Egypt - Abu Simbel](https://img.atlasobscura.com/zmL_8N1QLi_bg4azbHqED4RVtZOZrf_l2Nzm9hkOaV8/rs:fill:256:192/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2V2ZW50/X2ltYWdlcy9lOWVl/Mjg5Yy1jY2I4LTRm/ZjgtOTgxYy1kNmM3/ZWNhNTI0N2YyYjg3/MWUxYWQwYWZmYTk5/MDdfRWd5cHQgMSAt/IEFidSBTaW1iZWwu/cG5n.png)](https://www.atlasobscura.com/adventures/trips/egypt)
+
+Egypt • 11 days, 10 nights
+
+[Treasures of Egypt: Hidden Tombs, Ancient Pyramids & Old Cairo](https://www.atlasobscura.com/adventures/trips/egypt)
+
+from
+
+   [![New Zealand, South Island, Wanaka](https://img.atlasobscura.com/knTC-fD-tJhZigIK456j_esuV2jEb8sBH855Yw3DJmA/rs:fill:256:192/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2V2ZW50/X2ltYWdlcy8yYThk/NTNkOS0wZTQyLTQ1/MjAtOWFkNC02Yzlj/NGFjNDUwMWUxYWJm/ZThmZTc2OGViYzNh/Y2RfR2V0dHlJbWFn/ZXMtMTA5MDcwNTUx/Ni5qcGc.jpg)](https://www.atlasobscura.com/adventures/trips/new-zealand)
+
+New Zealand • 12 days, 11 nights
+
+[Wild New Zealand: Exploring the North & South Islands](https://www.atlasobscura.com/adventures/trips/new-zealand)
+
+from
+
+[View all trips](https://www.atlasobscura.com/adventures/trips)
+
+Upcoming Experiences
+
+[View All Experiences »](https://www.atlasobscura.com/events)
+
+   [![](https://img.atlasobscura.com/h8QJFiy9nS4aWwkMrRcmui5h0Gq_Puhh218ZKRA8eTQ/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2V4cGVy/aWVuY2Vfc2VyaWVz/X2ltYWdlcy82NGJl/MzBjYS0yNGUwLTRm/NmItOWFiMi04ZDJm/OGVkM2E5NGIyMzVj/YWRhNjZmMTJlMjJi/NzRfMjAxOTA1MThf/U2VhcG9ydF8xODc0/LmpwZw.jpg)
+
+Wild Life Book Launch Aboard the Tall Ship Wavertree](https://www.atlasobscura.com/experiences/wild-life-book-event-nyc)
+
+   [![](https://img.atlasobscura.com/rHgWDyNgbn2PLJ4fPnve5r--YDSMfBkSbNDqnDrd6NE/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2V4cGVy/aWVuY2Vfc2VyaWVz/X2ltYWdlcy8xODAz/Mjk3OS0xYThiLTQ1/YjQtYjFkMC1hNDhk/MTcxZmUxNTBhZjcx/MWI1MGE0MjY5NTAy/ZjZfanVuaW9yLWZl/cnJlaXJhLTdlc1JQ/VHQzOG5JLXVuc3Bs/YXNoLmpwZw.jpg)
+
+Members Only
+
+Accidental Discoveries](https://www.atlasobscura.com/experiences/accidental-discoveries-6)
+
+   [![](https://img.atlasobscura.com/zQD9eElB4VZtnMphKLv9iaxFcEGgwDLO1MsSfrmFS6c/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2V4cGVy/aWVuY2Vfc2VyaWVz/X2ltYWdlcy9kYzM0/ZjJiZC0xMTQ3LTQ3/NmQtYjhmOS00NjFl/MTVhYjI1OWM0NTQz/Nzc4M2Y3M2JiOWQ1/NDlfR0lsUjRkUVd3/QUFsM3FRLmpwZw.jpg)
+
+Wild Life Virtual Book Launch - Free With Book Order](https://www.atlasobscura.com/experiences/wild-life-virtual-book-launch)
+
+   [![](https://img.atlasobscura.com/tfcZtMfPd77g6n4TiqapU8m34hKzRA5Riv-tMP8cx8Y/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2V4cGVy/aWVuY2Vfc2VyaWVz/X2ltYWdlcy8zODY0/YWM1Mi1mMWM0LTQ3/NjktOGQyNC0wZTIx/OWVjMTRhZTYzNWQx/YmQ4YmU0YWJjMjZm/YmNfS0RkMkllc2cu/cG5n.png)
+
+Wild Life: An Explorer's Guide to the World's Living Wonders](https://www.atlasobscura.com/experiences/wild-life-book-event-pa)
+
+   [![](https://img.atlasobscura.com/XI6KeU7ZYS2Ec45uq9gM7aA-D7uMh3GbDxv0u4lDl8c/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2V4cGVy/aWVuY2Vfc2VyaWVz/X2ltYWdlcy8yM2Qy/YjBiYy0yN2E2LTQ4/YTctYTNmOC0wYzgx/Yzk5NWE5NzdjNzY2/YzAxNmJhZDE0OWZj/YzFfdWMzeGtqa1Eu/anBn.jpg)
+
+Wild Life: An Explorer's Guide to the World's Living Wonders](https://www.atlasobscura.com/experiences/wild-life-book-event-santa-cruz)
+
+Upcoming Courses
+
+[View All Courses »](https://www.atlasobscura.com/online-courses)
+
+   [![](https://img.atlasobscura.com/qsjldIj5qK07gCdxw2VOKvN5GgtIYtyj4-JQNok_A0M/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2V4cGVy/aWVuY2Vfc2VyaWVz/X2ltYWdlcy80MTk1/ZDlmYi01M2Q2LTQ4/NzYtYjZiOS1kZWVl/YTU5YTllMGNhNDE0/MTY4MTE2OTZiMWQ0/OWNfSU1HXzk3NjAu/anBn.jpg)
+
+In Deep: Life at the Bottom of the Ocean With Dr. Sarah McAnulty](https://www.atlasobscura.com/experiences/deep-sea-course)
+
+   [![](https://img.atlasobscura.com/mw6XQrcvv8bED55hweNZfTLYB7myt__AO5BFAUThhZg/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2V4cGVy/aWVuY2Vfc2VyaWVz/X2ltYWdlcy8zMmU3/OTA4NS1jNGMyLTQ3/MWYtOGEyNy04M2I3/ODY2MmRhM2ZjYzkz/MmIxMjg4NTkzM2I4/OTdfUnViU3VtbWVy/UGxheS00Mi5qcGc.jpg)
+
+How to Make a Murder: Writing Your Own Murder Mystery Party With Abi Inman](https://www.atlasobscura.com/experiences/murder-mystery-party-online-course)
+
+   [![](https://img.atlasobscura.com/-BHb2cg8f71hNJMoFtoio8UWnFrrWIAo4TK6498kLU0/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2V4cGVy/aWVuY2Vfc2VyaWVz/X2ltYWdlcy80ZTJh/ZTZjNS1iYzgzLTQx/N2YtOWRiNC1mOGNm/NmNjYWE4YmEwY2E3/YzQ5Yzk2MDUxYzlj/YWZfSU1HXzI0NzQu/anBn.jpg)
+
+Stories in the Stones: How to Read a Gravestone With Dr. Elise M. Ciregna](https://www.atlasobscura.com/experiences/gravestone-reading-online-course)
+
+   [![](https://img.atlasobscura.com/oteCwywQUV_z7ByuIyJNpVBM8xr7Fl_GCkrW3rCKXIM/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2V4cGVy/aWVuY2Vfc2VyaWVz/X2ltYWdlcy8yZWZl/Y2ZhYS1mZTQ2LTQ3/YmEtOWYyZi1jMDQz/YmI2ODY0NGUwMmYz/ZTU5ZjMzZWZhNjE3/YTFfYW5pdGEtamFu/a292aWMtbTVvRnp6/cmNLd2MtdW5zcGxh/c2guanBn.jpg)
+
+Historical Nonfiction: Research-Based Writing With Hadley Meares](https://www.atlasobscura.com/experiences/writing-history-online-course)
+
+   [![](https://img.atlasobscura.com/PphIsMY6kFPUrMlyHCOlsqf35AYxwM6NF5sLKhzKWY0/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2V4cGVy/aWVuY2Vfc2VyaWVz/X2ltYWdlcy9kZWM3/OWU0NS1mZGIxLTQ3/YjMtYjZhMS1hNGIy/ZDMxODRkOTE2ZWI3/ZTc3ZTBkN2I0ZmFm/MmZfY2hhbmRyYW1v/dWxpLWJha3VsYXBh/bGx5LTk4ZFlvS1BK/ZWF3LXVuc3BsYXNo/LmpwZw.jpg)
+
+How The Living See The Dead: Comparative Thanatology With Dânia Rodrigues](https://www.atlasobscura.com/experiences/thanatology-course)
+
+Top Destinations
+
+Latest Places
+
+[Most Popular Places](https://www.atlasobscura.com/places?sort=likes_count) [Random Place](https://www.atlasobscura.com/random) [Lists](https://www.atlasobscura.com/lists) [Itineraries](https://www.atlasobscura.com/itineraries)[Add a Place](https://www.atlasobscura.com/places/new)[Download the App](https://app.atlasobscura.com/)
+
+Top Destinations
+
+[View All Destinations »](https://www.atlasobscura.com/destinations)
+
+### Countries
+
+* [Australia](https://www.atlasobscura.com/things-to-do/australia "Australia")
+* [Canada](https://www.atlasobscura.com/things-to-do/canada "Canada")
+* [China](https://www.atlasobscura.com/things-to-do/china "China")
+* [France](https://www.atlasobscura.com/things-to-do/france "France")
+* [Germany](https://www.atlasobscura.com/things-to-do/germany "Germany")
+* [India](https://www.atlasobscura.com/things-to-do/india "India")
+* [Italy](https://www.atlasobscura.com/things-to-do/italy "Italy")
+* [Japan](https://www.atlasobscura.com/things-to-do/japan "Japan")
+
+### Cities
+
+* [Amsterdam](https://www.atlasobscura.com/things-to-do/amsterdam-netherlands "Amsterdam")
+* [Barcelona](https://www.atlasobscura.com/things-to-do/barcelona-spain "Barcelona")
+* [Beijing](https://www.atlasobscura.com/things-to-do/beijing-china "Beijing")
+* [Berlin](https://www.atlasobscura.com/things-to-do/berlin-germany "Berlin")
+* [Boston](https://www.atlasobscura.com/things-to-do/boston-massachusetts "Boston")
+* [Budapest](https://www.atlasobscura.com/things-to-do/budapest-hungary "Budapest")
+* [Chicago](https://www.atlasobscura.com/things-to-do/chicago-illinois "Chicago")
+* [London](https://www.atlasobscura.com/things-to-do/london-england "London")
+* [Los Angeles](https://www.atlasobscura.com/things-to-do/los-angeles-california "Los Angeles")
+* [Mexico City](https://www.atlasobscura.com/things-to-do/mexico-city-mexico "Mexico City")
+* [Montreal](https://www.atlasobscura.com/things-to-do/montreal-quebec "Montreal")
+* [Moscow](https://www.atlasobscura.com/things-to-do/moscow-russia "Moscow")
+* [New Orleans](https://www.atlasobscura.com/things-to-do/new-orleans-louisiana "New Orleans")
+* [New York City](https://www.atlasobscura.com/things-to-do/new-york "New York City")
+* [Paris](https://www.atlasobscura.com/things-to-do/paris-france "Paris")
+* [Philadelphia](https://www.atlasobscura.com/things-to-do/philadelphia-pennsylvania "Philadelphia")
+* [Rome](https://www.atlasobscura.com/things-to-do/rome-italy "Rome")
+* [San Francisco](https://www.atlasobscura.com/things-to-do/san-francisco-california "San Francisco")
+* [Seattle](https://www.atlasobscura.com/things-to-do/seattle-washington "Seattle")
+* [Stockholm](https://www.atlasobscura.com/things-to-do/stockholm-sweden "Stockholm")
+* [Tokyo](https://www.atlasobscura.com/things-to-do/tokyo-japan "Tokyo")
+* [Toronto](https://www.atlasobscura.com/things-to-do/toronto-ontario "Toronto")
+* [Vienna](https://www.atlasobscura.com/things-to-do/vienna-austria "Vienna")
+* [Washington, D.C.](https://www.atlasobscura.com/things-to-do/washington-dc "Washington, D.C.")
+
+Latest Places
+
+[View All Places »](https://www.atlasobscura.com/places?sort=published_at)
+
+   [![](https://img.atlasobscura.com/x3NZv2zbrC0aVzr7hecd159QN452qjG3ngBb3s5pdKY/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy8yNmM4/NTA5Mi0xMjM5LTQw/NzMtYTE5My01NjZj/ZTY2ODQ1YjRjYzFm/N2IzZTg1MGM5NDAz/M2VfSU1HXzM2Mzku/anBlZw.jpg)
+
+Lavenham Guildhall](https://www.atlasobscura.com/places/lavenham-guildhall)
+
+   [![The sushi memorial at Namiyoke Shrine remembers the spirits of the seafood that made your lunch.](https://img.atlasobscura.com/jxfRj0Wnbf3GhWM-MbKK33Gs6g35RUXZ5adSLKuInXk/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy9mOTcx/YTU4Mi1iMjdlLTRh/OTUtOGE5Mi01YjIy/ZmJlODM1Njg3NjM0/NjliMThmMjI3ZWFm/MTdfRFNDXzAxNTcu/anBlZw.jpg)
+
+Sushi Memorials at Namiyoke Shrine](https://www.atlasobscura.com/places/sushi-memorials-at-namiyoke-shrine)
+
+   [![](https://img.atlasobscura.com/RZwxkPbQqcqLgwSgNZOrEELqkwgl122ft4e9WcgjLcM/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy9jNzA1/YzM3Zi03Y2QyLTQ3/MmItYjZjYi02YTRk/NDY3OTY3MTk5NjIz/YjBhYWE1ZWMxMGU5/ZWJfMjAyNDA3MjRf/MDk1NzIwLmpwZw.jpg)
+
+The Cloth Hall Knife](https://www.atlasobscura.com/places/the-cloth-hall-knife)
+
+   [![Roast goose, it's what Kam's does.](https://img.atlasobscura.com/rJBeF7wi5O88rTJD-BnDP2Ce6065kg-CIU6W6rYuTZ0/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy8yMjkw/Y2M5My02ZjY5LTQ2/ZGEtOTA2OC0xNzA0/Yzc2ZmFjOWM2Y2Yx/MmNiMWY5MjBmZjdh/ZGRfa2FtICgzKS5q/cGc.jpg)
+
+Kam's Roast Goose](https://www.atlasobscura.com/places/kams-roast-goose)
+
+Latest Places to Eat & Drink
+
+[View All Places to Eat »](https://www.atlasobscura.com/cool-places-to-eat)
+
+   [![The sushi memorial at Namiyoke Shrine remembers the spirits of the seafood that made your lunch.](https://img.atlasobscura.com/jxfRj0Wnbf3GhWM-MbKK33Gs6g35RUXZ5adSLKuInXk/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy9mOTcx/YTU4Mi1iMjdlLTRh/OTUtOGE5Mi01YjIy/ZmJlODM1Njg3NjM0/NjliMThmMjI3ZWFm/MTdfRFNDXzAxNTcu/anBlZw.jpg)
+
+Sushi Memorials at Namiyoke Shrine](https://www.atlasobscura.com/places/sushi-memorials-at-namiyoke-shrine)
+
+   [![Roast goose, it's what Kam's does.](https://img.atlasobscura.com/rJBeF7wi5O88rTJD-BnDP2Ce6065kg-CIU6W6rYuTZ0/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy8yMjkw/Y2M5My02ZjY5LTQ2/ZGEtOTA2OC0xNzA0/Yzc2ZmFjOWM2Y2Yx/MmNiMWY5MjBmZjdh/ZGRfa2FtICgzKS5q/cGc.jpg)
+
+Kam's Roast Goose](https://www.atlasobscura.com/places/kams-roast-goose)
+
+   [![Everything about Ely’s famous pharmacy is a throwback, from the 1950s interiors to the old-timey soda fountain. ](https://img.atlasobscura.com/2CSM-H4j-lREPVQqiGoUNmp3DpKxJvSw2Z-uEdTRgsY/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy9jOTJl/OTc5MGRmMTExNmFi/YmZfRWx5U29kYUZv/dW50YWluMl9TTS5q/cGc.jpg)
+
+Economy Drug & Old Fashioned Soda Fountain](https://www.atlasobscura.com/places/economy-drug-old-fashioned-soda-fountain)
+
+   [![The Silver Cafe is a mom-and-pop diner that has been family operated for generations. ](https://img.atlasobscura.com/Le-mR9u5GNWOSGYAUlxewjk1b19k-L_L2vtgIBNgxzg/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy84NjM3/NDU1MWY2ZTMxOGQx/MzBfU2lsdmVyQ2Fm/ZTUuanBn.jpg)
+
+Historic Silver Café](https://www.atlasobscura.com/places/historic-silver-cafe)
+
+   [![The antique, embossed tin on the walls and ceiling of the Martin Hotel have an “Arabesque” design motif, popular at the time of establishment. ](https://img.atlasobscura.com/LxVhc6Odbmm1beoxgsnxC-qERVNTDxbEJmWwS6o0JC8/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy82OTZj/MDNmZjg4YTQxOWVi/NTFfTWFydGluSG90/ZWwxOS5qcGc.jpg)
+
+The Martin Hotel](https://www.atlasobscura.com/places/the-martin-hotel)
+
+Recent Stories
+
+[All Stories](https://www.atlasobscura.com/articles) [Puzzles](https://www.atlasobscura.com/series/ao-puzzles) [Video](https://www.atlasobscura.com/videos) [Podcast](https://www.atlasobscura.com/podcast)
+
+Most Recent Stories
+
+[View All Stories »](https://www.atlasobscura.com/articles)
+
+   [![The annual pipe walk (shown in red) moves north from the ancient well, through neighborhoods and Victoria Park, before veering west to follow a 19th-century diversion.](https://img.atlasobscura.com/-lysB45Vf0mA1yzZAfVKD9KGr-PGZbAhj1MuYhzNg6Y/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2Fzc2V0/cy83MTQ3OTg2MDVm/NmFkYzYxMThfQ291/cnNlIG9mIHRoZSB3/YWxrIGNyb3AucG5n.png)
+
+This Annual Pipe Walk Maps a Medieval Tradition in Bristol](https://www.atlasobscura.com/articles/st-mary-redcliffe-pipe-walk-bristol)
+
+   [![Palacsinta-Americana are a DIY party version of the classic Hungarian dessert.](https://img.atlasobscura.com/DFyVVpc1dod-ppnbmB29s6DkDU_2QXIhTdUDJJzpJ3g/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2Fzc2V0/cy8yYjI0OWQyZC05/YzhiLTRjZTEtYjMw/ZC1iYjcxNWZiYjQ4/NDI2ZDMzOWExY2Vj/MTFkMTgxNmJfUGFs/YWNzaW50YUFtZXJp/Y2FuYSAoYykgRWQg/QW5kZXJzb24gKDUp/LmpwZWc.jpg)
+
+‘Palacsinta Americana’ Are Pure Grandma Magic](https://www.atlasobscura.com/articles/second-generation-cookbook-jeremy-salamon-agis-counter)
+
+   [![While you’re searching for birds at Corkscrew Swamp Sanctuary, don’t forget to look down where you’re likely to see alligators navigating the water beneath the 2.25-mile boardwalk that winds through the swamp. ](https://img.atlasobscura.com/Mbb5kMHYS1CgtRCB5E62_5loXAhFyMM6TbpCWvvvyWs/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2Fzc2V0/cy85NzEwNmU3Njdl/MGUyMGQ3NDFfc2h1/dHRlcnN0b2NrXzIz/NzY0MTM3MDMuanBn.jpg)
+
+A Field Guide to Exploring Florida’s Best Birding Spots](https://www.atlasobscura.com/articles/a-field-guide-to-exploring-florida-s-best-birding-spots)
+
+   [![Named for the Calusa Indians, known as Florida’s “water people,” the Great Calusa Blueway is a 190-mile saltwater paddling trail. ](https://img.atlasobscura.com/o3MGLMkj3hREW07DIHScHJWPjwfVr4DkImRqeA0RRzM/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2Fzc2V0/cy8zMmEzYmM1ZTQw/NmVjMzljMDBfR3Jl/YXQgQ2FsdXNhIEJs/dWV3YXkgLSBGb290/YWdlIFN0aWxsIC0g/S2F5YWtpbmcgT3Zl/cmhlYWQgNC5qcGc.jpg)
+
+Mangroves, Manatees, and More: Florida’s Stunning Paddle Destinations](https://www.atlasobscura.com/articles/mangroves-manatees-and-more-florida-s-stunning-paddle-destinations)
 
 No search results found for  
 “”
