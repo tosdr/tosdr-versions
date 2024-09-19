@@ -1054,6 +1054,7 @@ Related Information
 * [Accessibility Statement](https://www.waldenu.edu/legal/accessibility)
 * [Accreditation](https://www.waldenu.edu/about/accreditation)
 * [State Authorization](https://www.waldenu.edu/about/accreditation/state-authorization-and-program-licensure)
+* [Professional Licensure Disclosure](https://www.waldenu.edu/professional-licensure-disclosure)
 * [Walden Gear](https://www.waldengear.com/)
 * [Net Price Calculator](https://www.waldenu.edu/financial-aid/price-calculator)
 * [DATA](https://www.waldenu.edu/about/data)
