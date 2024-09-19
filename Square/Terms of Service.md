@@ -308,9 +308,9 @@ These General Terms, and any applicable Additional Terms or Policies, are a comp
 
 [Terms of Service](https://squareup.com/legal/general/ua)
 
-[Licenses](https://squareup.com/legal/general/licenses)
-
 [Government](https://squareup.com/legal/general/gov)
+
+[Licenses](https://squareup.com/legal/general/licenses)
 
 [Additional Point of Sale Terms](https://squareup.com/legal/general/pos)
 
@@ -433,8 +433,8 @@ These General Terms, and any applicable Additional Terms or Policies, are a comp
 * [Privacy Notice](https://squareup.com/us/en/legal/general/privacy)
 * [Security](https://squareup.com/us/en/legal/general/payments/secure)
 * [Terms of Service](https://squareup.com/us/en/legal/general/ua)
-* [Licenses](https://squareup.com/us/en/legal/general/licenses)
 * [Government](https://squareup.com/us/en/legal/general/gov)
+* [Licenses](https://squareup.com/us/en/legal/general/licenses)
 * [Square Capital, LLC Licenses](https://squareup.com/us/en/legal/capital/capital-licenses)
 * [Consumer Health Privacy](https://squareup.com/us/en/legal/general/consumer-health-privacy)
 * [Hardware Compliance Certifications](https://squareup.com/us/en/legal/general/dc)
