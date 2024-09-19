@@ -429,9 +429,9 @@ Email Address
     
     Find resources for bankers.
     
-* ![Help With My Bank website](/images/c-clamp-images/footer-helpwithmybank.png "HWMB footer")
+* [![Help With My Bank website](/images/c-clamp-images/footer-helpwithmybank.png "HWMB footer")](https://www.helpwithmybank.gov/index.html "Get Answers ")
     
-    HelpWithMyBank.gov
+    [HelpWithMyBank.gov](https://www.helpwithmybank.gov/index.html "Get Answers ")
     
     Get answers to banking questions.
     
