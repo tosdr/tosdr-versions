@@ -133,6 +133,6 @@ These Terms will be governed by and construed in accordance with the laws of the
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-I was totally satisied straight away with the proxy service, I'm going to make an ongoing subscription right now! :)
+I love the simplicity of being able to watch English TV from the USA.
 
-Eddie Symons
+Tony Tracey
