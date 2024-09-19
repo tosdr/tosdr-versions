@@ -86,11 +86,11 @@ Version 1.0 / [PDF](https://www.sk.ee/upload/files/Principles%20of%20Client%20Da
 
 **Version 1.0** / [PDF](https://www.skidsolutions.eu/upload/files/ABIV-CONSENT-EN-CURRENT.pdf) (ENG) / [PDF](https://www.skidsolutions.eu/upload/files/ABIV-CONSENT-ET-CURRENT.pdf) (EST) / [PDF](https://www.skidsolutions.eu/upload/files/ABIV-CONSENT-LT-CURRENT.pdf) (LT) / [PDF](https://www.skidsolutions.eu/upload/files/ABIV-CONSENT-LV-CURRENT.pdf) (LV) / [PDF](https://www.skidsolutions.eu/upload/files/ABIV-CONSENT-RU-CURRENT.pdf) (RUS) / valid from 13.01.2020
 
-##### AGE VERIFICATION SERVICE PRIVACY POLICY
+##### Authentigate Service Privacy Policy
 
-This Privacy Policy describes how SK ensures the protection of personal data while providing Age Verification Service.
+This Privacy Policy describes how SK ensures the protection of personal data while providing Authentigate Service.
 
-**Version 1.0** / [PDF](https://www.skidsolutions.eu/wp-content/uploads/2023/12/Age-Verification-Service-Privacy-Policy.pdf) / valid from 20.12.2023
+**Version 1.0** / [PDF](https://www.skidsolutions.eu/wp-content/uploads/2024/09/Authentigate_Service_Privacy_Policy.pdf) (ENG) / [PDF](https://www.skidsolutions.eu/wp-content/uploads/2024/09/Authentigate_Service_Privacy_Policy_ET_.pdf) (EST) / [PDF](https://www.skidsolutions.eu/wp-content/uploads/2024/09/Authentigate_Service_Privacy_Policy_LT.pdf) (LT) / [PDF](https://www.skidsolutions.eu/wp-content/uploads/2024/09/Authentigate_Service_Privacy_Policy_LV.pdf) (LV) / valid from 11.09.2024
 
 ##### Cookie Policies for websites
 
