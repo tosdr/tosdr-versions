@@ -7,7 +7,9 @@ Blendee
 
 Metti le ali al tuo business grazie alla **Marketing Automation** e all'**Intelligenza Artificiale.**
 
-[![Blendee | M.O.S. Marketing Operating System](https://cdn.prod.website-files.com/5e9dcaea14ba52eb79416f6a/64959124b6cb41f30c8c74aa_Perche%20Blendee.svg)](https://www.neodatagroup.com/contattaci)
+[![](https://cdn.prod.website-files.com/5e9dcaea14ba52eb79416f6a/66ebe3177af13f16af324fde_Perche%20Blendee.svg)
+
+scopri blendee](https://www.neodatagroup.com/contattaci)
 
 ### Perchè scegliere Blendee?
 
@@ -53,7 +55,9 @@ Approfondisci tutto quello che puoi fare grazie alla nostra **piattaforma SaaS**
   
 Potrai gestire la **profilazione dei tuoi utenti** ed i processi di **personalizzazione** a partire **dalla prima Impression** nei canali paid fino **ai percorsi di acquisto** nei tuoi Point of Sales.
 
-[![Blendee | M.O.S. Marketing Operating System](https://cdn.prod.website-files.com/5e9dcaea14ba52eb79416f6a/6495914f414cdc94f6e3c43c_Piattaforma.svg)](https://www.neodatagroup.com/formazione-supporto-tecnico)
+[![](https://cdn.prod.website-files.com/5e9dcaea14ba52eb79416f6a/66ebe67ee8e15ebf90949015_Piattaforma.svg)
+
+vai all'area di supporto](https://www.neodatagroup.com/formazione-supporto-tecnico)
 
 ### Le funzionalità principali
 
@@ -159,7 +163,9 @@ Un partner per la tua crescita
 
 Da oltre 10 anni ci occupiamo di **ottimizzare** ed **automatizzare** le attività marketing.
 
-[![Blendee | M.O.S. Marketing Operating System](https://cdn.prod.website-files.com/5e9dcaea14ba52eb79416f6a/6495916765a257fb51970ff1_Strategia.svg)](https://www.neodatagroup.com/marketing-automation-consulenza)
+[![](https://cdn.prod.website-files.com/5e9dcaea14ba52eb79416f6a/66ebe846521ce9dee05b3eda_Strategia.svg)
+
+richiedi consulenza](https://www.neodatagroup.com/marketing-automation-consulenza)
 
 ### Ambiti di Intervento
 
@@ -201,7 +207,10 @@ Formazione e Crescita Aziendale
 
 Affianchiamo i nostri clienti con soluzioni formative pensate per fornire il giusto supporto.  
 
-[![Blendee | M.O.S. Marketing Operating System](https://cdn.prod.website-files.com/5e9dcaea14ba52eb79416f6a/6495918ad61fa22b4c8085f7_Formazione.svg)](https://www.neodatagroup.com/formazione-soluzioni-personalizzate)
+[![](https://cdn.prod.website-files.com/5e9dcaea14ba52eb79416f6a/66ebe91a85896bae9a733100_Formazione.svg)
+
+contattaci per un percorso  
+formativo su misura per te](https://www.neodatagroup.com/formazione-soluzioni-personalizzate)
 
 ### Attività Formative
 
