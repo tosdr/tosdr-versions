@@ -155,9 +155,9 @@ Toggle navigation
     
     ##### Promoted Content
     
+    * [EU may suspend more funds for Hungary, government makes adjustments](https://www.euractiv.com/section/economy-jobs/news/eu-may-suspend-more-funds-for-hungary-government-makes-adjustments/)
     * [Industry´s vision for a competitive Europe](https://www.euractiv.com/section/economy-jobs/opinion/industrys-vision-for-a-competitive-europe/)
     * [Why financial literacy must be built into the EU’s policy agenda](https://www.euractiv.com/section/economy-jobs/opinion/why-financial-literacy-must-be-built-into-the-eus-policy-agenda/)
-    * [The Future of Spirits: A Toast to Balancing Growth and Responsibility](https://www.euractiv.com/section/economy-jobs/opinion/the-future-of-spirits-a-toast-to-balancing-growth-and-responsibility/)
     
 * [Energy & Environment](https://www.euractiv.com/sections/energy-environment/)
     
@@ -216,7 +216,7 @@ Toggle navigation
     
     ##### Promoted Content
     
-    * [EU Vision Paper – our industry priorities for the EU term 2024-2029](https://www.euractiv.com/section/energy-environment/opinion/eu-vision-paper-our-industry-priorities-for-the-eu-term-2024-2029/)
+    * [EU Vision Paper – our industry priorities for the EU term 2024-2029](https://www.euractiv.com/section/circular-materials/opinion/eu-vision-paper-our-industry-priorities-for-the-eu-term-2024-2029/)
     * [Nature-based Solutions benefit people and planet, so why are they missing from EU policies?](https://www.euractiv.com/section/energy-environment/opinion/nature-based-solutions-benefit-people-and-planet-so-why-are-they-missing-from-eu-policies/)
     * [The new EU political cycle must renew the momentum for CCU techs](https://www.euractiv.com/section/energy-environment/opinion/the-new-eu-political-cycle-must-renew-the-momentum-for-ccu-techs/)
     
@@ -988,13 +988,13 @@ Languages: [Français](https://www.euractiv.fr/?post_type=page&p=179361) | [Deut
 * 1[Poland backs ending EU benefits for Ukrainian men of fighting age](http://en.euractiv.eu/section/europe-s-east/news/poland-backs-ending-eu-benefits-for-ukrainian-men-of-fighting-age/?utm_source=website&utm_campaign=popular)
 * 2[NATO chief: Each country to decide if Ukraine can use its long-range missiles on Russia](http://en.euractiv.eu/section/global-europe/news/nato-chief-each-country-to-decide-if-ukraine-can-use-its-long-range-missiles-on-russia/?utm_source=website&utm_campaign=popular)
 * 3[French Commissioner Thierry Breton resigns over row with von der Leyen](http://en.euractiv.eu/section/defence-and-security/news/french-commissioner-thierry-breton-resigns-over-row-with-von-der-leyen/?utm_source=website&utm_campaign=popular)
-* 4[EU Commission rebuffs car industry calls to delay CO2 targets](http://en.euractiv.eu/section/electric-cars/news/eu-commission-rebuffs-car-industry-calls-to-delay-co2-targets/?utm_source=website&utm_campaign=popular)
-* 5[Von der Leyen unveils EU Commission top jobs, with some surprises](http://en.euractiv.eu/section/politics/news/von-der-leyen-unveils-eu-commission-top-jobs-with-some-surprises/?utm_source=website&utm_campaign=popular) 
-* 6[European competitiveness in the energy transition: Shell's views for the next EU cycle](http://en.euractiv.eu/section/energy-environment/opinion/european-competitiveness-in-the-energy-transition-shells-views-for-the-next-eu-cycle/?utm_source=website&utm_campaign=popular)
-* 7[Fake Kamala hit-and-run story is the work of Russian propaganda group, Microsoft says](http://en.euractiv.eu/section/global-europe/news/fake-kamala-hit-and-run-story-is-the-work-of-russian-propaganda-group-microsoft-says/?utm_source=website&utm_campaign=popular)
-* 8[Intel halts plans for flagship factories in Germany, Poland amid financial woes](http://en.euractiv.eu/section/industrial-strategy/news/intel-halts-plans-for-flagship-factories-in-germany-poland-amid-financial-woes/?utm_source=website&utm_campaign=popular)
-* 9[Von der Leyen plans five more years of intense energy and climate rule-making](http://en.euractiv.eu/section/energy-environment/news/von-der-leyen-plans-five-more-years-of-intense-energy-and-climate-rule-making/?utm_source=website&utm_campaign=popular)
-* 10[Slovenia's Kos takes enlargement file as Ljubljana manoeuvres itself into portfolio upgrade](http://en.euractiv.eu/section/enlargement-neighbourhood/news/slovenias-kos-takes-enlargement-file-as-ljubljana-manoeuvres-itself-into-portfolio-upgrade/?utm_source=website&utm_campaign=popular)
+* 4[Ammunition from India enters Ukraine, raising Russian ire](http://en.euractiv.eu/section/defence-and-security/news/ammunition-from-india-enters-ukraine-raising-russian-ire/?utm_source=website&utm_campaign=popular)
+* 5[EU Commission rebuffs car industry calls to delay CO2 targets](http://en.euractiv.eu/section/electric-cars/news/eu-commission-rebuffs-car-industry-calls-to-delay-co2-targets/?utm_source=website&utm_campaign=popular)
+* 6[Von der Leyen unveils EU Commission top jobs, with some surprises](http://en.euractiv.eu/section/politics/news/von-der-leyen-unveils-eu-commission-top-jobs-with-some-surprises/?utm_source=website&utm_campaign=popular) 
+* 7[Gazprom-friendly Hungary blames EU for failing to end Russian gas dependence](http://en.euractiv.eu/section/energy/news/gazprom-friendly-hungary-blames-eu-for-failing-to-end-russian-gas-dependence/?utm_source=website&utm_campaign=popular)
+* 8[European competitiveness in the energy transition: Shell's views for the next EU cycle](http://en.euractiv.eu/section/energy-environment/opinion/european-competitiveness-in-the-energy-transition-shells-views-for-the-next-eu-cycle/?utm_source=website&utm_campaign=popular)
+* 9[Fake Kamala hit-and-run story is the work of Russian propaganda group, Microsoft says](http://en.euractiv.eu/section/global-europe/news/fake-kamala-hit-and-run-story-is-the-work-of-russian-propaganda-group-microsoft-says/?utm_source=website&utm_campaign=popular)
+* 10[Intel halts plans for flagship factories in Germany, Poland amid financial woes](http://en.euractiv.eu/section/industrial-strategy/news/intel-halts-plans-for-flagship-factories-in-germany-poland-amid-financial-woes/?utm_source=website&utm_campaign=popular)
 
 ###### Advertisement
 
