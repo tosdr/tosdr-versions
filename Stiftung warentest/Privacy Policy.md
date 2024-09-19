@@ -383,7 +383,7 @@ weiter
 
 Suchen
 
-![test.de print logo](https://cdn.test.de/static/images/modules/header/test-de-print-logo;v116071906.svg)
+![test.de print logo](https://cdn.test.de/static/images/modules/header/test-de-print-logo;v117286944.svg)
 
 1. [Startweiter](https://www.test.de/)
 2. Daten­schutz­erklärung
@@ -809,21 +809,21 @@ Weitere spannende Themen
 
 Neueste Tests
 
+* [Fahr­radversicherungen im Vergleich: Fahr­rad und E-Bike günstig versichern](https://www.test.de/Fahrradversicherungen-Vergleich-5205101-0/ "Fahrradversicherungen im Vergleich - Fahrrad und E-Bike günstig versichern")
 * [Fonds und ETF im Vergleich: Hier finden Sie die besten Fonds für Ihr Portfolio](https://www.test.de/Fonds-im-Test-Fuenf-Punkte-fuer-die-Besten-4331006-0/ "Fonds und ETF im Vergleich - Hier finden Sie die besten Fonds für Ihr Portfolio")
 * [Nach­haltige Fonds und ETF: Warum wir grüne Fonds jetzt strenger testen](https://www.test.de/nachhaltige-fonds-etf-test-4741500-0/ "Nachhaltige Fonds und ETF - Warum wir grüne Fonds jetzt strenger testen")
 * [Wohn­gebäude­versicherung im Vergleich: Tarife teuer und oft mangelhaft – so schützen Sie Ihr Haus gut und günstig](https://www.test.de/Wohngebaeudeversicherung-Vergleich-4255878-0/ "Wohngebäudeversicherung im Vergleich - Tarife teuer und oft mangelhaft – so schützen Sie Ihr Haus gut und günstig")
 * [Tiefkühlpizza im Test: Italien für zu Hause](https://www.test.de/tiefkuehlpizza-salami-im-test-4830454-0/ "Tiefkühlpizza im Test - Italien für zu Hause")
 * [Körperfett­waagen im Test: Einige leisten sich fette Mess­fehler](https://www.test.de/koerperfettwaage-test-4645874-0/ "Körperfettwaagen im Test - Einige leisten sich fette Messfehler")
-* [Fernseher im Test: Gutes Bild und guter Ton – geht günstig](https://www.test.de/Fernseher-im-Test-1629201-0/ "Fernseher im Test - Gutes Bild und guter Ton – geht günstig")
 
 test.de entdecken
 
-* [Outdoorja­cken im Schad­stoff­test: Schädliche Chemie in Kinder­kleidung](https://www.test.de/Outdoorjacken-im-Schadstofftest-Schaedliche-Chemie-in-Kinderkleidung-6117922-0/ "Outdoorjacken im Schadstofftest - Schädliche Chemie in Kinderkleidung")
-* [Riskante digitale Geld­anlagen: Die Masche von Profitwallet](https://www.test.de/Riskante-digitale-Geldanlagen-Die-Masche-von-Profitwallet-6118441-0/ "Riskante digitale Geldanlagen - Die Masche von Profitwallet")
-* [Mobil­funk: Call­mobile stellt Betrieb ein](https://www.test.de/Mobilfunk-Callmobile-stellt-Betrieb-ein-5935142-0/ "Mobilfunk - Callmobile stellt Betrieb ein")
-* [Lebens­mittel mit Rauch­geschmack: Auf Raucharomen besser verzichten](https://www.test.de/Lebensmittel-mit-Rauchgeschmack-Auf-Raucharomen-besser-verzichten-6113528-0/ "Lebensmittel mit Rauchgeschmack - Auf Raucharomen besser verzichten")
-* [Jugend testet 2024: Ausgezeichnete Talente](https://www.test.de/Jugend-testet-2024-Ausgezeichnete-Talente-6125303-0/ "Jugend testet 2024 - Ausgezeichnete Talente")
-* [Verpackungs­ärger: Oregano von Wiberg](https://www.test.de/Verpackungsaerger-Oregano-von-Wiberg-5986974-0/ "Verpackungsärger - Oregano von Wiberg")
+* [Dubioses Fest­geld: Bel-Finanz fehlt Zulassung](https://www.test.de/Dubioses-Festgeld-Bel-Finanz-ohne-Zulassung-6045716-0/ "Dubioses Festgeld - Bel-Finanz fehlt Zulassung")
+* [Immobilien­projekte: One Group setzt Zins­zahlungen aus](https://www.test.de/Immobilienprojekte-One-Group-setzt-Zinszahlungen-aus-6081556-0/ "Immobilienprojekte - One Group setzt Zinszahlungen aus")
+* [Commerz­bank zurück im Dax: Wie sich Bank­aktien seit der Finanz­krise entwickelt haben](https://www.test.de/Commerzbank-zurueck-im-Dax-Wie-sich-Bankaktien-seit-der-Finanzkrise-entwickelt-haben-5975761-0/ "Commerzbank zurück im Dax - Wie sich Bankaktien seit der Finanzkrise entwickelt haben")
+* [Warn­liste: Abzo­ckern ausgeliefert](https://www.test.de/Warnliste-Abzockern-ausgeliefert-5968840-0/ "Warnliste - Abzockern ausgeliefert")
+* [Hacker-Angriff auf Pass­wort-Manager: Kunden­daten von LastPass gestohlen](https://www.test.de/Hacker-Angriff-auf-Passwort-Manager-Kundendaten-von-LastPass-gestohlen-5952137-0/ "Hacker-Angriff auf Passwort-Manager - Kundendaten von LastPass gestohlen")
+* [Stürze im Alter: Sorge vor Stürzen in Griff bekommen](https://www.test.de/Stuerze-im-Alter-Sorge-vor-Stuerzen-in-Griff-bekommen-6104640-0/ "Stürze im Alter - Sorge vor Stürzen in Griff bekommen")
 
 Fußbereich
 
@@ -3854,59 +3854,59 @@ Weitere spannende Themen
 
 Neueste Tests
 
+* [Fahr­radversicherungen im Vergleich: Fahr­rad und E-Bike günstig versichern](https://www.test.de/Fahrradversicherungen-Vergleich-5205101-0/ "Fahrradversicherungen im Vergleich - Fahrrad und E-Bike günstig versichern")
 * [Fonds und ETF im Vergleich: Hier finden Sie die besten Fonds für Ihr Portfolio](https://www.test.de/Fonds-im-Test-Fuenf-Punkte-fuer-die-Besten-4331006-0/ "Fonds und ETF im Vergleich - Hier finden Sie die besten Fonds für Ihr Portfolio")
 * [Nach­haltige Fonds und ETF: Warum wir grüne Fonds jetzt strenger testen](https://www.test.de/nachhaltige-fonds-etf-test-4741500-0/ "Nachhaltige Fonds und ETF - Warum wir grüne Fonds jetzt strenger testen")
 * [Wohn­gebäude­versicherung im Vergleich: Tarife teuer und oft mangelhaft – so schützen Sie Ihr Haus gut und günstig](https://www.test.de/Wohngebaeudeversicherung-Vergleich-4255878-0/ "Wohngebäudeversicherung im Vergleich - Tarife teuer und oft mangelhaft – so schützen Sie Ihr Haus gut und günstig")
 * [Tiefkühlpizza im Test: Italien für zu Hause](https://www.test.de/tiefkuehlpizza-salami-im-test-4830454-0/ "Tiefkühlpizza im Test - Italien für zu Hause")
 * [Körperfett­waagen im Test: Einige leisten sich fette Mess­fehler](https://www.test.de/koerperfettwaage-test-4645874-0/ "Körperfettwaagen im Test - Einige leisten sich fette Messfehler")
-* [Fernseher im Test: Gutes Bild und guter Ton – geht günstig](https://www.test.de/Fernseher-im-Test-1629201-0/ "Fernseher im Test - Gutes Bild und guter Ton – geht günstig")
 
 test.de entdecken
 
-* [Outdoorja­cken im Schad­stoff­test: Schädliche Chemie in Kinder­kleidung](https://www.test.de/Outdoorjacken-im-Schadstofftest-Schaedliche-Chemie-in-Kinderkleidung-6117922-0/ "Outdoorjacken im Schadstofftest - Schädliche Chemie in Kinderkleidung")
-* [Riskante digitale Geld­anlagen: Die Masche von Profitwallet](https://www.test.de/Riskante-digitale-Geldanlagen-Die-Masche-von-Profitwallet-6118441-0/ "Riskante digitale Geldanlagen - Die Masche von Profitwallet")
-* [Mobil­funk: Call­mobile stellt Betrieb ein](https://www.test.de/Mobilfunk-Callmobile-stellt-Betrieb-ein-5935142-0/ "Mobilfunk - Callmobile stellt Betrieb ein")
-* [Lebens­mittel mit Rauch­geschmack: Auf Raucharomen besser verzichten](https://www.test.de/Lebensmittel-mit-Rauchgeschmack-Auf-Raucharomen-besser-verzichten-6113528-0/ "Lebensmittel mit Rauchgeschmack - Auf Raucharomen besser verzichten")
-* [Jugend testet 2024: Ausgezeichnete Talente](https://www.test.de/Jugend-testet-2024-Ausgezeichnete-Talente-6125303-0/ "Jugend testet 2024 - Ausgezeichnete Talente")
-* [Verpackungs­ärger: Oregano von Wiberg](https://www.test.de/Verpackungsaerger-Oregano-von-Wiberg-5986974-0/ "Verpackungsärger - Oregano von Wiberg")
+* [Dubioses Fest­geld: Bel-Finanz fehlt Zulassung](https://www.test.de/Dubioses-Festgeld-Bel-Finanz-ohne-Zulassung-6045716-0/ "Dubioses Festgeld - Bel-Finanz fehlt Zulassung")
+* [Immobilien­projekte: One Group setzt Zins­zahlungen aus](https://www.test.de/Immobilienprojekte-One-Group-setzt-Zinszahlungen-aus-6081556-0/ "Immobilienprojekte - One Group setzt Zinszahlungen aus")
+* [Commerz­bank zurück im Dax: Wie sich Bank­aktien seit der Finanz­krise entwickelt haben](https://www.test.de/Commerzbank-zurueck-im-Dax-Wie-sich-Bankaktien-seit-der-Finanzkrise-entwickelt-haben-5975761-0/ "Commerzbank zurück im Dax - Wie sich Bankaktien seit der Finanzkrise entwickelt haben")
+* [Warn­liste: Abzo­ckern ausgeliefert](https://www.test.de/Warnliste-Abzockern-ausgeliefert-5968840-0/ "Warnliste - Abzockern ausgeliefert")
+* [Hacker-Angriff auf Pass­wort-Manager: Kunden­daten von LastPass gestohlen](https://www.test.de/Hacker-Angriff-auf-Passwort-Manager-Kundendaten-von-LastPass-gestohlen-5952137-0/ "Hacker-Angriff auf Passwort-Manager - Kundendaten von LastPass gestohlen")
+* [Stürze im Alter: Sorge vor Stürzen in Griff bekommen](https://www.test.de/Stuerze-im-Alter-Sorge-vor-Stuerzen-in-Griff-bekommen-6104640-0/ "Stürze im Alter - Sorge vor Stürzen in Griff bekommen")
 
 Weitere spannende Themen
 
 Neueste Tests
 
+* [Fahr­radversicherungen im Vergleich: Fahr­rad und E-Bike günstig versichern](https://www.test.de/Fahrradversicherungen-Vergleich-5205101-0/ "Fahrradversicherungen im Vergleich - Fahrrad und E-Bike günstig versichern")
 * [Fonds und ETF im Vergleich: Hier finden Sie die besten Fonds für Ihr Portfolio](https://www.test.de/Fonds-im-Test-Fuenf-Punkte-fuer-die-Besten-4331006-0/ "Fonds und ETF im Vergleich - Hier finden Sie die besten Fonds für Ihr Portfolio")
 * [Nach­haltige Fonds und ETF: Warum wir grüne Fonds jetzt strenger testen](https://www.test.de/nachhaltige-fonds-etf-test-4741500-0/ "Nachhaltige Fonds und ETF - Warum wir grüne Fonds jetzt strenger testen")
 * [Wohn­gebäude­versicherung im Vergleich: Tarife teuer und oft mangelhaft – so schützen Sie Ihr Haus gut und günstig](https://www.test.de/Wohngebaeudeversicherung-Vergleich-4255878-0/ "Wohngebäudeversicherung im Vergleich - Tarife teuer und oft mangelhaft – so schützen Sie Ihr Haus gut und günstig")
 * [Tiefkühlpizza im Test: Italien für zu Hause](https://www.test.de/tiefkuehlpizza-salami-im-test-4830454-0/ "Tiefkühlpizza im Test - Italien für zu Hause")
 * [Körperfett­waagen im Test: Einige leisten sich fette Mess­fehler](https://www.test.de/koerperfettwaage-test-4645874-0/ "Körperfettwaagen im Test - Einige leisten sich fette Messfehler")
-* [Fernseher im Test: Gutes Bild und guter Ton – geht günstig](https://www.test.de/Fernseher-im-Test-1629201-0/ "Fernseher im Test - Gutes Bild und guter Ton – geht günstig")
 
 test.de entdecken
 
-* [Outdoorja­cken im Schad­stoff­test: Schädliche Chemie in Kinder­kleidung](https://www.test.de/Outdoorjacken-im-Schadstofftest-Schaedliche-Chemie-in-Kinderkleidung-6117922-0/ "Outdoorjacken im Schadstofftest - Schädliche Chemie in Kinderkleidung")
-* [Riskante digitale Geld­anlagen: Die Masche von Profitwallet](https://www.test.de/Riskante-digitale-Geldanlagen-Die-Masche-von-Profitwallet-6118441-0/ "Riskante digitale Geldanlagen - Die Masche von Profitwallet")
-* [Mobil­funk: Call­mobile stellt Betrieb ein](https://www.test.de/Mobilfunk-Callmobile-stellt-Betrieb-ein-5935142-0/ "Mobilfunk - Callmobile stellt Betrieb ein")
-* [Lebens­mittel mit Rauch­geschmack: Auf Raucharomen besser verzichten](https://www.test.de/Lebensmittel-mit-Rauchgeschmack-Auf-Raucharomen-besser-verzichten-6113528-0/ "Lebensmittel mit Rauchgeschmack - Auf Raucharomen besser verzichten")
-* [Jugend testet 2024: Ausgezeichnete Talente](https://www.test.de/Jugend-testet-2024-Ausgezeichnete-Talente-6125303-0/ "Jugend testet 2024 - Ausgezeichnete Talente")
-* [Verpackungs­ärger: Oregano von Wiberg](https://www.test.de/Verpackungsaerger-Oregano-von-Wiberg-5986974-0/ "Verpackungsärger - Oregano von Wiberg")
+* [Dubioses Fest­geld: Bel-Finanz fehlt Zulassung](https://www.test.de/Dubioses-Festgeld-Bel-Finanz-ohne-Zulassung-6045716-0/ "Dubioses Festgeld - Bel-Finanz fehlt Zulassung")
+* [Immobilien­projekte: One Group setzt Zins­zahlungen aus](https://www.test.de/Immobilienprojekte-One-Group-setzt-Zinszahlungen-aus-6081556-0/ "Immobilienprojekte - One Group setzt Zinszahlungen aus")
+* [Commerz­bank zurück im Dax: Wie sich Bank­aktien seit der Finanz­krise entwickelt haben](https://www.test.de/Commerzbank-zurueck-im-Dax-Wie-sich-Bankaktien-seit-der-Finanzkrise-entwickelt-haben-5975761-0/ "Commerzbank zurück im Dax - Wie sich Bankaktien seit der Finanzkrise entwickelt haben")
+* [Warn­liste: Abzo­ckern ausgeliefert](https://www.test.de/Warnliste-Abzockern-ausgeliefert-5968840-0/ "Warnliste - Abzockern ausgeliefert")
+* [Hacker-Angriff auf Pass­wort-Manager: Kunden­daten von LastPass gestohlen](https://www.test.de/Hacker-Angriff-auf-Passwort-Manager-Kundendaten-von-LastPass-gestohlen-5952137-0/ "Hacker-Angriff auf Passwort-Manager - Kundendaten von LastPass gestohlen")
+* [Stürze im Alter: Sorge vor Stürzen in Griff bekommen](https://www.test.de/Stuerze-im-Alter-Sorge-vor-Stuerzen-in-Griff-bekommen-6104640-0/ "Stürze im Alter - Sorge vor Stürzen in Griff bekommen")
 
 Neueste Tests
 
+* [Fahr­radversicherungen im Vergleich: Fahr­rad und E-Bike günstig versichern](https://www.test.de/Fahrradversicherungen-Vergleich-5205101-0/ "Fahrradversicherungen im Vergleich - Fahrrad und E-Bike günstig versichern")
 * [Fonds und ETF im Vergleich: Hier finden Sie die besten Fonds für Ihr Portfolio](https://www.test.de/Fonds-im-Test-Fuenf-Punkte-fuer-die-Besten-4331006-0/ "Fonds und ETF im Vergleich - Hier finden Sie die besten Fonds für Ihr Portfolio")
 * [Nach­haltige Fonds und ETF: Warum wir grüne Fonds jetzt strenger testen](https://www.test.de/nachhaltige-fonds-etf-test-4741500-0/ "Nachhaltige Fonds und ETF - Warum wir grüne Fonds jetzt strenger testen")
 * [Wohn­gebäude­versicherung im Vergleich: Tarife teuer und oft mangelhaft – so schützen Sie Ihr Haus gut und günstig](https://www.test.de/Wohngebaeudeversicherung-Vergleich-4255878-0/ "Wohngebäudeversicherung im Vergleich - Tarife teuer und oft mangelhaft – so schützen Sie Ihr Haus gut und günstig")
 * [Tiefkühlpizza im Test: Italien für zu Hause](https://www.test.de/tiefkuehlpizza-salami-im-test-4830454-0/ "Tiefkühlpizza im Test - Italien für zu Hause")
 * [Körperfett­waagen im Test: Einige leisten sich fette Mess­fehler](https://www.test.de/koerperfettwaage-test-4645874-0/ "Körperfettwaagen im Test - Einige leisten sich fette Messfehler")
-* [Fernseher im Test: Gutes Bild und guter Ton – geht günstig](https://www.test.de/Fernseher-im-Test-1629201-0/ "Fernseher im Test - Gutes Bild und guter Ton – geht günstig")
 
 test.de entdecken
 
-* [Outdoorja­cken im Schad­stoff­test: Schädliche Chemie in Kinder­kleidung](https://www.test.de/Outdoorjacken-im-Schadstofftest-Schaedliche-Chemie-in-Kinderkleidung-6117922-0/ "Outdoorjacken im Schadstofftest - Schädliche Chemie in Kinderkleidung")
-* [Riskante digitale Geld­anlagen: Die Masche von Profitwallet](https://www.test.de/Riskante-digitale-Geldanlagen-Die-Masche-von-Profitwallet-6118441-0/ "Riskante digitale Geldanlagen - Die Masche von Profitwallet")
-* [Mobil­funk: Call­mobile stellt Betrieb ein](https://www.test.de/Mobilfunk-Callmobile-stellt-Betrieb-ein-5935142-0/ "Mobilfunk - Callmobile stellt Betrieb ein")
-* [Lebens­mittel mit Rauch­geschmack: Auf Raucharomen besser verzichten](https://www.test.de/Lebensmittel-mit-Rauchgeschmack-Auf-Raucharomen-besser-verzichten-6113528-0/ "Lebensmittel mit Rauchgeschmack - Auf Raucharomen besser verzichten")
-* [Jugend testet 2024: Ausgezeichnete Talente](https://www.test.de/Jugend-testet-2024-Ausgezeichnete-Talente-6125303-0/ "Jugend testet 2024 - Ausgezeichnete Talente")
-* [Verpackungs­ärger: Oregano von Wiberg](https://www.test.de/Verpackungsaerger-Oregano-von-Wiberg-5986974-0/ "Verpackungsärger - Oregano von Wiberg")
+* [Dubioses Fest­geld: Bel-Finanz fehlt Zulassung](https://www.test.de/Dubioses-Festgeld-Bel-Finanz-ohne-Zulassung-6045716-0/ "Dubioses Festgeld - Bel-Finanz fehlt Zulassung")
+* [Immobilien­projekte: One Group setzt Zins­zahlungen aus](https://www.test.de/Immobilienprojekte-One-Group-setzt-Zinszahlungen-aus-6081556-0/ "Immobilienprojekte - One Group setzt Zinszahlungen aus")
+* [Commerz­bank zurück im Dax: Wie sich Bank­aktien seit der Finanz­krise entwickelt haben](https://www.test.de/Commerzbank-zurueck-im-Dax-Wie-sich-Bankaktien-seit-der-Finanzkrise-entwickelt-haben-5975761-0/ "Commerzbank zurück im Dax - Wie sich Bankaktien seit der Finanzkrise entwickelt haben")
+* [Warn­liste: Abzo­ckern ausgeliefert](https://www.test.de/Warnliste-Abzockern-ausgeliefert-5968840-0/ "Warnliste - Abzockern ausgeliefert")
+* [Hacker-Angriff auf Pass­wort-Manager: Kunden­daten von LastPass gestohlen](https://www.test.de/Hacker-Angriff-auf-Passwort-Manager-Kundendaten-von-LastPass-gestohlen-5952137-0/ "Hacker-Angriff auf Passwort-Manager - Kundendaten von LastPass gestohlen")
+* [Stürze im Alter: Sorge vor Stürzen in Griff bekommen](https://www.test.de/Stuerze-im-Alter-Sorge-vor-Stuerzen-in-Griff-bekommen-6104640-0/ "Stürze im Alter - Sorge vor Stürzen in Griff bekommen")
 
 Service Stiftung Warentest
 
