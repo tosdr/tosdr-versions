@@ -67,7 +67,7 @@ To remove data stored in your browser, you can log out of the website, or you ca
 
 To remove data that has been stored in the website's database, you can use the [delete my account](https://invidious.private.coffee/delete_account) page.
 
-[Original source code](https://github.com/iv-org/invidious) / Modified source code [Documentation](https://github.com/iv-org/documentation)
+[Original source code](https://github.com/iv-org/invidious) / [Modified source code](https://git.private.coffee/PrivateCoffee/invidious) [Documentation](https://github.com/iv-org/documentation)
 
 [Released under the AGPLv3 on GitHub.](https://github.com/iv-org/invidious/blob/master/LICENSE) [View JavaScript license information.](https://invidious.private.coffee/licenses) [View privacy policy.](https://invidious.private.coffee/privacy)
 
