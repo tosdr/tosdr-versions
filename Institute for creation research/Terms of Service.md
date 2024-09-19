@@ -171,95 +171,63 @@ A Note to Our Readers:
 
 For stewardship purposes, we will not be able to write, edit, or proofread science papers and projects, assist with homework assignments, evaluate personal theories and hypotheses, or review books and other resources. We also will not accept unsolicited manuscripts, nor are we able to provide unsolicited endorsements of books, products, or ministries.
 
-More Fossil Record
+More Days of Praise
 
-[![](/i/Main%20Stage%20-%201400x1050/Giant_Coelacanth_1400x1050.jpg)](https://www.icr.org/article/big-fish-fossil-recalls-big-flop)
+[![](/i/articles/dop/DOP_Logo_328_116.jpg)](https://www.icr.org/article/seven-outgrowths-faith)
 
-[Big Fish Fossil Recalls Big Flop](https://www.icr.org/article/big-fish-fossil-recalls-big-flop/)
+[Seven Outgrowths of Faith](https://www.icr.org/article/seven-outgrowths-faith/)
 
-One of the most famous living fossils is back in the news. The coelacanth is an endangered deep-sea fish. Its fins fit to unique, wrist-like bones, and...
+“And beside this, giving all diligence, add to your faith virtue; and to virtue knowledge; And to knowledge temperance; and to temperance patience;...
 
-BY: [BRIAN THOMAS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=201)
+BY: [JOHN D. MORRIS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=26)
 
-[![](/i/Main%20Stage%20-%201400x1050/Mammoth_DNA_Oldest_1400x1050.jpg)](https://www.icr.org/article/mammoth-dna-oldest-ever-found)
+[![](/i/articles/dop/DOP_Logo_328_116.jpg)](https://www.icr.org/article/thy-word-is-settled)
 
-[Mammoth DNA: The Oldest Ever Found?](https://www.icr.org/article/mammoth-dna-oldest-ever-found/)
+[Thy Word Is Settled Forever](https://www.icr.org/article/thy-word-is-settled/)
 
-Scientists have sequenced small amounts of DNA from the teeth of two Siberian mammoths said to have lived more than a million years ago.1,2...
+“For ever, O LORD, thy word is settled in heaven.” (Psalm 119:89) This is the central verse in the longest chapter in the longest...
 
-BY: [JAKE HEBERT, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=218)
+BY: [HENRY M. MORRIS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=23)
 
-[![](/i/Main%20Stage%20-%201400x1050/Strange_Squid_1400x1050.jpg)](https://www.icr.org/article/rapid-burial-in-the-flood-explains-strange-squid)
+[![](/i/articles/dop/DOP_Logo_328_116.jpg)](https://www.icr.org/article/misuse-bible)
 
-[Rapid Burial in the Flood Explains Strange "Squid" Attack](https://www.icr.org/article/rapid-burial-in-the-flood-explains-strange-squid/)
+[Misuse of the Bible](https://www.icr.org/article/misuse-bible/)
 
-A new study published in Proceedings of the Geologists’ Association has found what is claimed to be the oldest recorded attack by a squid-like creature.1...
+“...his epistles, speaking in them of these things; in which are some things hard to be understood, which they that are unlearned and unstable...
 
-BY: [TIM CLAREY, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=176)
-
-More Creation Science Update
-
-[![](/i/ICR_June23_wallpaper_1400x1050.jpg)](https://www.icr.org/article/june-2023-icr-wallpaper)
-
-[June 2023 ICR Wallpaper](https://www.icr.org/article/june-2023-icr-wallpaper/)
-
-"From the rising of the sun to its going down the LORD's name is to be praised." Psalm 113:3 NKJV ICR June 2023 wallpaper is now available...
-
-BY: [STAFF WRITER](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=27)
-
-[![](/i/Main%20Stage%20-%201400x1050/AntsOrigin_1400X1050.jpg)](https://www.icr.org/article/ants-flowers-time)
-
-[Ants, Flowers, and Time](https://www.icr.org/article/ants-flowers-time/)
-
-The theory of evolution states that long ago, when flowering plants spread out from ancient forests, the ants followed, initiating the evolution of...
-
-BY: [FRANK SHERWIN, D.SC. (HON.)](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=32)
-
-[![](/i/Main%20Stage%20-%201400x1050/fossil-ftprint-flood-1400x1050)](https://www.icr.org/article/fossil-ftprint-flood)
-
-[Fossil Footprints Fit Flood Ice-Age Model](https://www.icr.org/article/fossil-ftprint-flood/)
-
-Anthropologists Thomas Urban (Cornell University) and Daron Duke (Far Western Anthropological Research Group) recently found preserved human footprints...
-
-BY: [JAKE HEBERT, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=218)
+BY: [HENRY M. MORRIS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=23)
 
 Shop Related Products
 
-[![](https://cdn.shoplightspeed.com/shops/601440/files/9372978/file.jpg)
+[![](https://cdn.shoplightspeed.com/shops/601440/files/10472129/file.jpg)
 
-Discovering Dinosaurs](https://store.icr.org/mr-brian-thomas-discovering-dinosaurs.html)
+Scientific Creationism](https://store.icr.org/dr-henry-morris-scientific-creationism.html)
 
-$7.99
+$14.99
 
-$9.99
+[![](https://cdn.shoplightspeed.com/shops/601440/files/10475689/file.jpg)
 
-[![](https://cdn.shoplightspeed.com/shops/601440/files/13216342/file.jpg)
+The Remarkable Wisdom of Solomon](https://store.icr.org/dr-henry-morris-the-remarkable-wisdom-of-solomon.html)
 
-Discovering Dinosaurs - Download](https://store.icr.org/mr-brian-thomas-discovering-dinosaurs-download.html)
+$13.99
 
-$4.99
+[![](https://cdn.shoplightspeed.com/shops/601440/files/32690/file.jpg)
 
-$9.99
+The Henry Morris Study Bible - Leather](https://store.icr.org/dr-henry-morris-the-henry-morris-study-bible-leath.html)
 
-[![](https://cdn.shoplightspeed.com/shops/601440/files/60993469/file.jpg)
+$79.99
 
-Why the World Looks So Young - eBook](https://store.icr.org/why-the-world-looks-so-young-ebook.html)
+$94.99
 
-$2.99
+[](https://store.icr.org/.html)
 
-$7.99
+$
 
-[![](https://cdn.shoplightspeed.com/shops/601440/files/62183393/file.jpg)
+[![](https://cdn.shoplightspeed.com/shops/601440/files/10475194/file.jpg)
 
-Adam or Apes - Download](https://store.icr.org/adam-or-apes-download.html)
+The Genesis Record](https://store.icr.org/dr-henry-morris-the-genesis-record.html)
 
-$7.99
-
-[![](https://cdn.shoplightspeed.com/shops/601440/files/49457244/file.jpg)
-
-Adam or Apes](https://store.icr.org/adam-or-apes.html)
-
-$12.99
+$47.99
 
 [![Institute for Creation Research](/i/icr-logo-final-h-rev3-100.png)](https://www.icr.org/)[![ICR Discovery Center for Science and Earth History](/i/DC_Logo_Footer_2.png)](http://discoverycenter.icr.org/)
 
