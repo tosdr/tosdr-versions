@@ -242,35 +242,35 @@ We have included on the pages of this website a robots meta tag with the “noai
 
 This privacy policy was created in party by using [Termly’s Privacy Policy Generator](https://termly.io/products/privacy-policy-generator/?ftseo).
 
-[![](https://cwbchicago.com/wp-content/uploads/2024/09/Daniel-Morales-McLovin-326x245.jpg)](https://cwbchicago.com/2024/09/memorable-mclovn6-license-plate-helped-cops-track-down-expressway-shooter-officials-say.html "Memorable MCLOVN6 license plate helped cops track down expressway shooter, officials say")
-
-Irving Park
-
-### [Memorable MCLOVN6 license plate helped cops track down expressway shooter, officials say](https://cwbchicago.com/2024/09/memorable-mclovn6-license-plate-helped-cops-track-down-expressway-shooter-officials-say.html "Memorable MCLOVN6 license plate helped cops track down expressway shooter, officials say")
-
-[September 16, 2024 5:51 PM](https://cwbchicago.com/2024/09)
-
-A Chicago man is in jail, accused of shooting another driver’s car on the Kennedy Expressway, after his alleged victim gave cops his easy-to-remember license plate: MCLOVN6.[](https://cwbchicago.com/2024/09/memorable-mclovn6-license-plate-helped-cops-track-down-expressway-shooter-officials-say.html "Memorable MCLOVN6 license plate helped cops track down expressway shooter, officials say")
-
-[![](https://cwbchicago.com/wp-content/uploads/2024/09/johnson-stick-326x245.jpg)](https://cwbchicago.com/2024/09/hours-after-shotspotter-sends-cops-to-man-felled-by-gunfire-mayor-derides-the-technology-as-walkie-talkies-on-a-stick.html "Hours after ShotSpotter sends cops to man felled by gunfire, mayor derides the technology as ‘walkie-talkies on a stick’")
+[![](https://cwbchicago.com/wp-content/uploads/2024/09/Uber-and-Lyft-logos-grok-326x245.jpg)](https://cwbchicago.com/2024/09/cops-warn-of-more-rideshare-robberies-in-south-shore-neighborhood.html "Cops warn of more rideshare robberies in South Shore neighborhood")
 
 Citywide
 
-### [Hours after ShotSpotter sends cops to man felled by gunfire, mayor derides the technology as ‘walkie-talkies on a stick’](https://cwbchicago.com/2024/09/hours-after-shotspotter-sends-cops-to-man-felled-by-gunfire-mayor-derides-the-technology-as-walkie-talkies-on-a-stick.html "Hours after ShotSpotter sends cops to man felled by gunfire, mayor derides the technology as ‘walkie-talkies on a stick’")
+### [Cops warn of more rideshare robberies in South Shore neighborhood](https://cwbchicago.com/2024/09/cops-warn-of-more-rideshare-robberies-in-south-shore-neighborhood.html "Cops warn of more rideshare robberies in South Shore neighborhood")
 
-[September 16, 2024 3:43 PM](https://cwbchicago.com/2024/09)
+[September 17, 2024 6:09 AM](https://cwbchicago.com/2024/09)
 
-Barely 12 hours after a ShotSpotter device directed Chicago police officers to a gravely wounded man who had been shot in the head, Mayor Brandon Johnson derided the technology as “walkie-talkies on a stick.”[](https://cwbchicago.com/2024/09/hours-after-shotspotter-sends-cops-to-man-felled-by-gunfire-mayor-derides-the-technology-as-walkie-talkies-on-a-stick.html "Hours after ShotSpotter sends cops to man felled by gunfire, mayor derides the technology as ‘walkie-talkies on a stick’")
+Chicago police have expanded their warning to rideshare drivers about a string of robberies occurring in South Shore.[](https://cwbchicago.com/2024/09/cops-warn-of-more-rideshare-robberies-in-south-shore-neighborhood.html "Cops warn of more rideshare robberies in South Shore neighborhood")
 
-[![](https://cwbchicago.com/wp-content/uploads/2024/09/Isaiah-Turner-326x245.jpg)](https://cwbchicago.com/2024/09/man-robbed-cta-passenger-11-days-after-getting-probation-for-robbing-2-people-at-a-cta-station-prosecutors.html "Man robbed CTA passenger 11 days after getting probation for robbing 2 people at a CTA station: prosecutors")
+[![](https://cwbchicago.com/wp-content/uploads/2024/09/JH-407310-pink-line-suspect-326x245.jpg)](https://cwbchicago.com/2024/09/cops-need-help-finding-pink-line-robber.html "Cops need help finding Pink Line robber")
 
 CTA
 
-### [Man robbed CTA passenger 11 days after getting probation for robbing 2 people at a CTA station: prosecutors](https://cwbchicago.com/2024/09/man-robbed-cta-passenger-11-days-after-getting-probation-for-robbing-2-people-at-a-cta-station-prosecutors.html "Man robbed CTA passenger 11 days after getting probation for robbing 2 people at a CTA station: prosecutors")
+### [Cops need help finding Pink Line robber](https://cwbchicago.com/2024/09/cops-need-help-finding-pink-line-robber.html "Cops need help finding Pink Line robber")
 
-[September 16, 2024 8:23 AM](https://cwbchicago.com/2024/09)
+[September 16, 2024 7:41 PM](https://cwbchicago.com/2024/09)
 
-Prosecutors have charged a Chicago man with robbing a woman on the CTA, just 11 days after he got probation for robbing two other people outside a CTA station.[](https://cwbchicago.com/2024/09/man-robbed-cta-passenger-11-days-after-getting-probation-for-robbing-2-people-at-a-cta-station-prosecutors.html "Man robbed CTA passenger 11 days after getting probation for robbing 2 people at a CTA station: prosecutors")
+Chicago police need some help identifying a man who robbed a woman as she dozed off on the Pink Line.[](https://cwbchicago.com/2024/09/cops-need-help-finding-pink-line-robber.html "Cops need help finding Pink Line robber")
+
+[![](https://cwbchicago.com/wp-content/uploads/2024/09/Uber-Lyft-belmont-sheffield-september-20224-326x245.jpg)](https://cwbchicago.com/2024/09/at-least-2-gunmen-fired-the-shots-that-injured-2-people-including-a-rideshare-passenger-in-lakeview-witness-says.html "At least 2 gunmen fired the shots that injured 2 people, including a rideshare passenger, in Lakeview, witness says")
+
+Lakeview
+
+### [At least 2 gunmen fired the shots that injured 2 people, including a rideshare passenger, in Lakeview, witness says](https://cwbchicago.com/2024/09/at-least-2-gunmen-fired-the-shots-that-injured-2-people-including-a-rideshare-passenger-in-lakeview-witness-says.html "At least 2 gunmen fired the shots that injured 2 people, including a rideshare passenger, in Lakeview, witness says")
+
+[September 16, 2024 7:19 PM](https://cwbchicago.com/2024/09)
+
+A witness is offering new details about a shooting that left two people, including a rideshare passenger, injured near the Belmont Red Line station on Sunday morning.[](https://cwbchicago.com/2024/09/at-least-2-gunmen-fired-the-shots-that-injured-2-people-including-a-rideshare-passenger-in-lakeview-witness-says.html "At least 2 gunmen fired the shots that injured 2 people, including a rideshare passenger, in Lakeview, witness says")
 
 Search
 
