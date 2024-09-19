@@ -26,7 +26,7 @@ Sign in with Google](https://xhamster.com/login-google?source=base)
 
 [Videos](https://xhamster.com/)
 
-[Live Sex](https://xhamsterlive.com/?userId=aad1b133c9c4764c297d099d98d58aef&utm_source=xhamster&memberId=&utm_medium=widgets&sourceId=widgets&platform=desktop&landing=WidgetXH&domain=xhamsterlive&orientation=straight&pageType=otherPages&logged=0&retargeted=0&adblocked=0&widgetName=mainMenu-LiveSex&widgetElement=tab&isUserLogged=0&isUserRetargeted=0&p1=cold&exp=%7B%221802%22%3A%7B%22g%22%3A%22a%22%2C%22v%22%3A12%7D%2C%222200%22%3A%7B%22g%22%3A%22a%22%2C%22v%22%3A1%7D%2C%223002%22%3A%7B%22g%22%3A%22e%22%2C%22v%22%3A5%7D%2C%228006%22%3A%7B%22g%22%3A%22a%22%2C%22v%22%3A1%7D%7D&xhStatsUid=66eba43787cb95.39845422da0&xhSessionToken=9e93b09602d577cc3d84784df73f164051e22213&xhSessionStartedAt=1726719031)
+[Live Sex](https://xhamsterlive.com/?userId=aad1b133c9c4764c297d099d98d58aef&utm_source=xhamster&memberId=&utm_medium=widgets&sourceId=widgets&platform=desktop&landing=WidgetXH&domain=xhamsterlive&orientation=straight&pageType=otherPages&logged=0&retargeted=0&adblocked=0&widgetName=mainMenu-LiveSex&widgetElement=tab&isUserLogged=0&isUserRetargeted=0&p1=cold&exp=%7B%222200%22%3A%7B%22g%22%3A%22b%22%2C%22v%22%3A1%7D%2C%223002%22%3A%7B%22g%22%3A%22j%22%2C%22v%22%3A5%7D%2C%228006%22%3A%7B%22g%22%3A%22a%22%2C%22v%22%3A1%7D%7D&xhStatsUid=66ebf90fc94a92.994798391b2&xhSessionToken=001ecdf0f0dcf52b2dedc6565ccd54c56f4e8539&xhSessionStartedAt=1726740751)
 
 [Categories](https://xhamster.com/categories)
 
@@ -52,9 +52,9 @@ Premium Videos](https://faphouse.com/?utm_source=xhamster&utm_medium=button&utm_
 
 * [Upload](https://xhamster.com/creator-signup?source=uploadHeader)
 
-[](https://flirtify.com/?utm_source=xhamster-headline)
+[](https://faphouse.com/?utm_source=xhamster-headline&utm_campaign=autumn2024&utm_medium=desktop-headline)
 
-[Looking for REAL GIRLS? ❤️‍🔥 1-on-1 sex chat on Flirtify video roulette](https://flirtify.com/?utm_source=xhamster-headline) [JOIN FOR FREE](https://flirtify.com/?utm_source=xhamster-headline)
+[AUTUMN SALE 🍁 Fall Into Savings](https://faphouse.com/?utm_source=xhamster-headline&utm_campaign=autumn2024&utm_medium=desktop-headline) [Join Faphouse 50% OFF](https://faphouse.com/?utm_source=xhamster-headline&utm_campaign=autumn2024&utm_medium=desktop-headline)
 
 Privacy Policy
 ==============
@@ -370,7 +370,7 @@ Last Modified: January 04, 2024
 * [](https://xhamster.com/info/trust-and-safety)
 
 * [](https://join.flirtify.com/?utm_source=xhamster-mobile&utm_medium=footer)
-* [](https://xhamster.com/gay/creators/contest)
+* [](https://xhamster.com/creators/contest)
 * [](https://xhamster.com/creator?source=footerCcp)
 
 [](https://xhamster.com/creator?source=footerBecomeACreator)
