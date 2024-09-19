@@ -30,14 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/3044fc48-d0d7-442d-b226-680760efea90/20240919T015444/3044fc48-d0d7-442d-b226-680760efea90_16x9.jpg) ![](https://media.king5.com/assets/KING/images/3044fc48-d0d7-442d-b226-680760efea90/20240919T015444/3044fc48-d0d7-442d-b226-680760efea90_360x203.jpg)](https://www.king5.com/article/news/community/facing-race/department-of-corrections-shutter-walla-walla-execution-chamber/281-14d73577-0480-4422-a839-72a90e462f24)
+    *  [![](https://media.king5.com/assets/KING/images/457cb47b-6aa9-454f-844d-36fb5ffeb8a7/20240919T061944/457cb47b-6aa9-454f-844d-36fb5ffeb8a7_16x9.jpg) ![](https://media.king5.com/assets/KING/images/457cb47b-6aa9-454f-844d-36fb5ffeb8a7/20240919T061944/457cb47b-6aa9-454f-844d-36fb5ffeb8a7_360x203.jpg)](https://www.king5.com/article/news/crime/wsp-troopers-increasing-patrols-i5-after-armed-carjackings/281-178b1b14-7898-4dff-8296-78b0aefb2501)
         
-        #### [Department of Corrections shutters its execution chamber in Walla Walla](https://www.king5.com/article/news/community/facing-race/department-of-corrections-shutter-walla-walla-execution-chamber/281-14d73577-0480-4422-a839-72a90e462f24) [![](https://media.king5.com/assets/KING/images/3044fc48-d0d7-442d-b226-680760efea90/20240919T015444/3044fc48-d0d7-442d-b226-680760efea90_16x9.jpg) ![](https://media.king5.com/assets/KING/images/3044fc48-d0d7-442d-b226-680760efea90/20240919T015444/3044fc48-d0d7-442d-b226-680760efea90_360x203.jpg)](https://www.king5.com/article/news/community/facing-race/department-of-corrections-shutter-walla-walla-execution-chamber/281-14d73577-0480-4422-a839-72a90e462f24)
+        #### [WSP increasing patrols on I-5 after string of armed carjackings in Federal Way area](https://www.king5.com/article/news/crime/wsp-troopers-increasing-patrols-i5-after-armed-carjackings/281-178b1b14-7898-4dff-8296-78b0aefb2501)
         
-        #### [Department of Corrections shuts down last 'death chamber' in Washington state](https://www.king5.com/article/news/community/facing-race/department-of-corrections-shutter-walla-walla-execution-chamber/281-14d73577-0480-4422-a839-72a90e462f24)
-    *  [![](https://media.king5.com/assets/KING/images/7ca14c3e-a088-44a5-9c62-1682a2950de6/20240918T040930/7ca14c3e-a088-44a5-9c62-1682a2950de6_16x9.jpg) ![](https://media.king5.com/assets/KING/images/7ca14c3e-a088-44a5-9c62-1682a2950de6/20240918T040930/7ca14c3e-a088-44a5-9c62-1682a2950de6_360x203.jpg)](https://www.king5.com/article/news/local/washington-couple-dies-vacation-maui/281-26f74114-5bf3-47b5-85f4-c84f9df5f76b)
+    *  [![](https://media.king5.com/assets/KING/images/ff36893d-90b4-4266-8382-f5eb4cde548d/20240919T060657/ff36893d-90b4-4266-8382-f5eb4cde548d_16x9.jpg) ![](https://media.king5.com/assets/KING/images/ff36893d-90b4-4266-8382-f5eb4cde548d/20240919T060657/ff36893d-90b4-4266-8382-f5eb4cde548d_360x203.jpg)](https://www.king5.com/article/news/education/seattle-public-schools-considers-closing-only-k8-school-for-deaf/281-9d7db04f-2eb5-47cd-a4e9-511a92f008c3)
         
-        #### [Snohomish couple dies while on vacation in Maui](https://www.king5.com/article/news/local/washington-couple-dies-vacation-maui/281-26f74114-5bf3-47b5-85f4-c84f9df5f76b)
+        #### [SPS considers closing its only K-8 school for the deaf, public meeting lacks ASL interpreter](https://www.king5.com/article/news/education/seattle-public-schools-considers-closing-only-k8-school-for-deaf/281-9d7db04f-2eb5-47cd-a4e9-511a92f008c3)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -57,7 +56,7 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/974cebcf-58e7-47db-a0d7-1b363e4c508a/20240919T003653/974cebcf-58e7-47db-a0d7-1b363e4c508a_16x9.jpg) ![](https://media.king5.com/assets/KING/images/974cebcf-58e7-47db-a0d7-1b363e4c508a/20240919T003653/974cebcf-58e7-47db-a0d7-1b363e4c508a_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
+    *  [![](https://media.king5.com/assets/KING/images/79e02911-51d6-4c63-9b41-4b83e218f048/20240919T051217/79e02911-51d6-4c63-9b41-4b83e218f048_16x9.jpg) ![](https://media.king5.com/assets/KING/images/79e02911-51d6-4c63-9b41-4b83e218f048/20240919T051217/79e02911-51d6-4c63-9b41-4b83e218f048_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
         #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
@@ -96,9 +95,9 @@ Navigation
 
 Seattle, WA »
 
-65°
+56°
 
-![Sunny](/assets/shared-images/weather-icons/clear-day_210x210.png)
+![Clear](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
 
 Seattle, WA »](https://www.king5.com/weather)
 
