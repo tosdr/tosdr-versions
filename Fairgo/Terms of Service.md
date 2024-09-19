@@ -286,11 +286,9 @@ Lobby Jackpots
 
 [Responsible Gaming](https://www.fairgoplus.com/responsible-gambling "responsible gaming")
 
-[Sitemap](https://www.fairgoplus.com/sitemap.xml "sitemap")
-
 [Twitter](https://x.com/FairGoCasino "Follow us on Twitter")
 
-[10 best pokies at Fair Go](https://www.fairgoplus.com/10-free-pokies-at-fair-go-casino "Follow us on Twitter")
+[10 Best Pokies](https://www.fairgoplus.com/10-free-pokies-at-fair-go-casino "Follow us on Twitter")
 
 * [My Casino](https://www.fairgoplus.com/au)
 * [Promotions](https://www.fairgoplus.com/promotions)
