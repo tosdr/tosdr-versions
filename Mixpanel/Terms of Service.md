@@ -88,7 +88,7 @@ legal
 
 \-
 
-[Terms of Use](https://mixpanel.com/legal/terms-of-use)[DPA](https://mixpanel.com/legal/dpa)[CDPA](https://mixpanel.com/legal/cdpa)[Generative AI Service Addendum](https://mixpanel.com/legal/gen-ai-service-addendum)[Partner Program Agreement](https://mixpanel.com/legal/partner-program-agreement/)[Supply Chain Transparency Statement](https://storage.googleapis.com/cdn-mxpnl-com/marketing-site/static/pdfs/Mixpanel-Supply-Chain-Transparency-Statement-2024-03-15.pdf)[Get in touch with legal](https://mixpanel.com/legal/contact-us)
+[Terms of Use](https://mixpanel.com/legal/terms-of-use)[DPA](https://mixpanel.com/legal/dpa)[CDPA](https://mixpanel.com/legal/cdpa)[Generative AI Service Addendum](https://mixpanel.com/legal/gen-ai-service-addendum)[Partner Program Agreement](https://mixpanel.com/legal/partner-program-agreement/)[Supply Chain Transparency Statement](https://drive.google.com/file/d/14o8hhfdA67-b_ieCFCFJmq180eowCMA8/view?usp=sharing)[Get in touch with legal](https://mixpanel.com/legal/contact-us)
 
 privacy
 
@@ -110,7 +110,7 @@ legal
 
 \-
 
-[Terms of Use](https://mixpanel.com/legal/terms-of-use)[DPA](https://mixpanel.com/legal/dpa)[CDPA](https://mixpanel.com/legal/cdpa)[Generative AI Service Addendum](https://mixpanel.com/legal/gen-ai-service-addendum)[Partner Program Agreement](https://mixpanel.com/legal/partner-program-agreement/)[Supply Chain Transparency Statement](https://storage.googleapis.com/cdn-mxpnl-com/marketing-site/static/pdfs/Mixpanel-Supply-Chain-Transparency-Statement-2024-03-15.pdf)[Get in touch with legal](https://mixpanel.com/legal/contact-us)
+[Terms of Use](https://mixpanel.com/legal/terms-of-use)[DPA](https://mixpanel.com/legal/dpa)[CDPA](https://mixpanel.com/legal/cdpa)[Generative AI Service Addendum](https://mixpanel.com/legal/gen-ai-service-addendum)[Partner Program Agreement](https://mixpanel.com/legal/partner-program-agreement/)[Supply Chain Transparency Statement](https://drive.google.com/file/d/14o8hhfdA67-b_ieCFCFJmq180eowCMA8/view?usp=sharing)[Get in touch with legal](https://mixpanel.com/legal/contact-us)
 
 privacy
 
@@ -128,7 +128,7 @@ legal
 
 \-
 
-[Terms of Use](https://mixpanel.com/legal/terms-of-use)[DPA](https://mixpanel.com/legal/dpa)[CDPA](https://mixpanel.com/legal/cdpa)[Generative AI Service Addendum](https://mixpanel.com/legal/gen-ai-service-addendum)[Partner Program Agreement](https://mixpanel.com/legal/partner-program-agreement/)[Supply Chain Transparency Statement](https://storage.googleapis.com/cdn-mxpnl-com/marketing-site/static/pdfs/Mixpanel-Supply-Chain-Transparency-Statement-2024-03-15.pdf)[Get in touch with legal](https://mixpanel.com/legal/contact-us)
+[Terms of Use](https://mixpanel.com/legal/terms-of-use)[DPA](https://mixpanel.com/legal/dpa)[CDPA](https://mixpanel.com/legal/cdpa)[Generative AI Service Addendum](https://mixpanel.com/legal/gen-ai-service-addendum)[Partner Program Agreement](https://mixpanel.com/legal/partner-program-agreement/)[Supply Chain Transparency Statement](https://drive.google.com/file/d/14o8hhfdA67-b_ieCFCFJmq180eowCMA8/view?usp=sharing)[Get in touch with legal](https://mixpanel.com/legal/contact-us)
 
 privacy
 
