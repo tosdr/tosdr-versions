@@ -54,7 +54,7 @@ Message:
 
 * * *
 
-* [Open Support Ticket](https://support.netsyms.com/index.php?a=add)
+* [Remote Support](https://netsyms.com/remote)
     
 * [My Account](https://apps.netsyms.com/account)
     
