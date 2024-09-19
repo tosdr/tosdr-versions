@@ -20,8 +20,6 @@ Try Enhance Select hearing aids risk-free for 100 days. [Shop now](https://www.l
 
 [](https://www.listenlively.com/survey)
 
-![NCOA](/_next/static/media/ncoa-adviser-logo.d5975983.svg)
-
 Previous
 
 ![](/cdn-cgi/image/width=1920,quality=80,format=auto/_next/static/media/es500-hiw-poster.46b3f9b9.jpg)Play video
@@ -47,13 +45,9 @@ sound, our most discreet design](https://www.listenlively.com/product)[Our clear
 sound, our most discreet design _Shop Now_](https://www.listenlively.com/product)[Our clearest  
 sound, our most discreet design _Shop the Select 500_](https://www.listenlively.com/product)
 
-“Best Hearing Aids of 2024 Editor's Pick”
-
-![NCOA](/_next/static/media/ncoa-adviser-logo.d5975983.svg)
+“Best if you're new to hearing aids”
 
 Next
-
-![NCOA](/_next/static/media/ncoa-adviser-logo.d5975983.svg)
 
 What you get with Jabra Enhance Select
 --------------------------------------
@@ -89,7 +83,7 @@ Try Enhance Select hearing aids for 100 days. If you're not fully satisfied, we'
 90% of customers using Enhance Select Premium report hearing better\*
 ---------------------------------------------------------------------
 
-4.6 out of 5(3747 reviews)
+4.6 out of 5(3768 reviews)
 
 * _**95%** report hearing friends & family better_
 * _**95%** report asking others to repeat themselves less_
@@ -136,7 +130,7 @@ With our **Premium Package**, our Audiology Team works with you remotely to impr
 
 ### Everything you need for better hearing
 
-4.6 out of 5(3747 reviews)
+4.6 out of 5(3768 reviews)
 
 ![](/cdn-cgi/image/width=1920,quality=80,format=auto/_next/static/media/hp-bundle.072d2d18.png)
 
@@ -186,21 +180,6 @@ Next
 * Advanced acoustics
 
 [Shop now](https://www.listenlively.com/product/enhanceselect500)
-
-Get personalized care with our Premium Package
-----------------------------------------------
-
-### Programmed for you
-
-Hearing aids custom-programmed to your unique hearing needs based on your online test results or audiogram.
-
-### Care from your couch
-
-Video chat with a licensed hearing specialist about your hearing and hearing aids, as often as needed.
-
-### Adjustments made by experts
-
-If you're having an issue, our Audiology Team will tweak your hearing aids via the app, from anywhere.
 
 The reviews are in
 ------------------
