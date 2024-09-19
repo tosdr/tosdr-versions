@@ -42,7 +42,6 @@ Menu
         * [Capital Markets](#)
             * [Capital Markets](#)
             
-            * [Commercial Relationship Manager](https://corporatefinanceinstitute.com/learning-paths/#lp6)
             * [Commercial Credit Analyst](https://corporatefinanceinstitute.com/learning-paths/#lp4)
             * [Commercial Real Estate Lender](https://corporatefinanceinstitute.com/learning-paths/#lp5)
             
@@ -50,27 +49,21 @@ Menu
             * [Global Markets – Sales and Trading](#)
             
             * [Equity Sales-Trader](https://corporatefinanceinstitute.com/learning-paths/#lp8)
-            * [Fixed Income Credit Sales](https://corporatefinanceinstitute.com/learning-paths/#lp9)
             
         * [Buy-Side Institutions](#)
             * [Buy-Side Institutions](#)
             
-            * [Derivatives Risk](https://corporatefinanceinstitute.com/learning-paths/#lp12)
             * [Equity Execution Trader](https://corporatefinanceinstitute.com/learning-paths/#lp13)
-            * [Fixed Income Researcher](https://corporatefinanceinstitute.com/learning-paths/#lp14)
-            * [Hedge Fund](https://corporatefinanceinstitute.com/learning-paths/#lp15)
             
         * [FP&A](#)
             * [FP&A](#)
             
             * [Business Intelligence](https://corporatefinanceinstitute.com/learning-paths/#lp16)
-            * [Data Science Analyst](https://corporatefinanceinstitute.com/learning-paths/#lp17)
             
         * [Wealth Management](#)
             * [Wealth Management](#)
             
             * [Financial Planner](https://corporatefinanceinstitute.com/learning-paths/#lp18)
-            * [Investment Advisor](https://corporatefinanceinstitute.com/learning-paths/#lp19)
             
         
     * [Categories](#)
