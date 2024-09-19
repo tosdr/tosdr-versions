@@ -305,29 +305,29 @@ Advertise
 [BOSS Financial Review](https://www.afr.com/boss)
 -------------------------------------------------
 
-[![Tabcorp chief executive Gillon McLachlan has ordered staff back to the office five days a week.](https://static.ffx.io/images/$zoom_0.529%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_136%2C$y_5/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/0c019a24f752c195182e2deaa510b121dc105721)](https://www.afr.com/work-and-careers/workplace/tabcorp-ceo-gill-mclachlan-orders-staff-back-to-office-five-days-a-week-20240909-p5k8xt)
+[![Andrew Pridham at Edes in Sydney’s CBD. ](https://static.ffx.io/images/$zoom_0.2133%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_272%2C$y_0/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/7ee1720736c410e6d1481f7000118f6319a9d3ba)](https://www.afr.com/work-and-careers/leaders/suffering-in-silence-swans-chairman-on-finals-fans-and-robin-khuda-20240911-p5k9uw)
 
-### [Tabcorp CEO Gill McLachlan orders staff back to office five days a week](https://www.afr.com/work-and-careers/workplace/tabcorp-ceo-gill-mclachlan-orders-staff-back-to-office-five-days-a-week-20240909-p5k8xt)
+### [Suffering in silence: Swans chairman on finals, fans and Robin Khuda](https://www.afr.com/work-and-careers/leaders/suffering-in-silence-swans-chairman-on-finals-fans-and-robin-khuda-20240911-p5k9uw)
 
-* Euan Black and Patrick Durkin
+* Sally Patten
 
-* ### [What this CEO learnt from Mike Cannon-Brookes and Scott Farquhar](https://www.afr.com/work-and-careers/leaders/what-this-ceo-learnt-from-mike-cannon-brookes-and-scott-farquhar-20240913-p5kach)
+* ### [Tabcorp CEO Gill McLachlan orders staff back to office five days a week](https://www.afr.com/work-and-careers/workplace/tabcorp-ceo-gill-mclachlan-orders-staff-back-to-office-five-days-a-week-20240909-p5k8xt)
     
-* ### [Meet the lithium high-climber taking on the short sellers](https://www.afr.com/work-and-careers/leaders/meet-the-lithium-high-climber-taking-on-the-short-sellers-20240828-p5k5y7)
+* ### [What this CEO learnt from Mike Cannon-Brookes and Scott Farquhar](https://www.afr.com/work-and-careers/leaders/what-this-ceo-learnt-from-mike-cannon-brookes-and-scott-farquhar-20240913-p5kach)
     
 
 [Life & Leisure](https://www.afr.com/life-and-leisure)
 ------------------------------------------------------
 
-[![Cisco Tschurtschenthaler and George Gorrow at Sea Sea Hotel, Crescent Head.](https://static.ffx.io/images/$zoom_0.2242%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_429/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/2c21ee83565c56a5bc4e1008c971dde4c790c9ec)](https://www.afr.com/life-and-luxury/travel/sea-sea-hotel-aims-for-win-win-blend-of-old-cool-and-new-vogue-20240909-p5k95g)
+[![Can Yavuz at the new Ames Yavuz gallery, with Dark Emu video artwork by Jacob Nash & Stephen Page, part of the inaugural Memory Myth exhibition. Surry Hills. Sydney.](https://static.ffx.io/images/$zoom_0.349%2C$multiply_1%2C$ratio_1.777778%2C$width_1059%2C$x_1352%2C$y_283/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/3b4bcd4b9edabe8018323c1a840f571960c29d30)](https://www.afr.com/life-and-luxury/arts-and-culture/the-australian-gallery-making-moves-on-mayfair-20240912-p5k9xk)
 
-### [Sea Sea hotel aims for win win blend of old cool and new vogue](https://www.afr.com/life-and-luxury/travel/sea-sea-hotel-aims-for-win-win-blend-of-old-cool-and-new-vogue-20240909-p5k95g)
+### [The Australian gallery making moves on Mayfair](https://www.afr.com/life-and-luxury/arts-and-culture/the-australian-gallery-making-moves-on-mayfair-20240912-p5k9xk)
 
-* Eugenie Kelly
+* Stephen Todd
 
-* ### [Why social media makes you a candidate for addiction](https://www.afr.com/life-and-luxury/health-and-wellness/why-social-media-makes-us-all-candidates-for-addiction-20240903-p5k7gn)
+* ### [Wine made in China is starting to get interesting](https://www.afr.com/life-and-luxury/food-and-wine/wine-made-in-china-is-starting-to-get-interesting-20240911-p5k9ud)
     
-* ### [This new $3499 notebook falls short of great expectations](https://www.afr.com/technology/new-asus-notebook-falls-short-of-great-expectations-20240912-p5k9z0)
+* ### [Sea Sea hotel aims for win win blend of old cool and new vogue](https://www.afr.com/life-and-luxury/travel/sea-sea-hotel-aims-for-win-win-blend-of-old-cool-and-new-vogue-20240909-p5k95g)
     
 
 [Rich List](https://www.afr.com/rich-list)
