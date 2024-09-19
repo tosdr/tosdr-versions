@@ -173,7 +173,7 @@ Help us do this work by making a donation.
 * [Privacy policy](https://ourworldindata.org/privacy-policy)
 
 * [Latest work](https://ourworldindata.org/latest)
-* [All charts](https://ourworldindata.org/charts)
+* [Data Catalog](https://ourworldindata.org/data)
 
 * [Twitter](https://twitter.com/OurWorldInData)
 * [Facebook](https://www.facebook.com/OurWorldinData)
