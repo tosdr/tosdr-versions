@@ -169,7 +169,7 @@ This page was last edited on 8 April 2024, at 14:03. Content is available under 
 
 Sponsors
 
-[![Sponsor](https://static.opensuse.org/themes/bento/images/sponsors/sponsor_b1-systems.png)](https://en.opensuse.org/Sponsors)
+[![Sponsor](https://static.opensuse.org/themes/bento/images/sponsors/sponsor_ip-exchange2.png)](https://en.opensuse.org/Sponsors)
 
 ##### Log in
 
