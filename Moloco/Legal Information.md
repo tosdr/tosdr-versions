@@ -497,7 +497,7 @@ Moloco's privacy policy
 
 ### **Moloco Inc Privacy Notice**
 
-This Privacy Notice applies to personal information processed by Moloco Inc. (“Moloco,” “we,” “us,” and “our”) through our website [http://www.moloco.com/](http://www.moloco.com/) and related Moloco offerings. To make this Privacy Notice easier to read, our website and related offerings are collectively called the “Services.”
+This Privacy Notice applies to personal information processed by Moloco Inc. (“Moloco,” “we,” “us,” and “our”) through our website [https://www.moloco.com/](https://www.moloco.com/) and related Moloco offerings. To make this Privacy Notice easier to read, our website and related offerings are collectively called the “Services.”
 
 An Important Note: Except as otherwise stated, this Privacy Notice does not apply to any of the personal information that Moloco’s products or services process, including Moloco’s demand-side platform offering. For details about the personal information Moloco processes via its demand-side platform, please visit the Moloco [Demand-Side Platform Privacy Notice](https://www.molocoads.com/advertising-policy).
 
