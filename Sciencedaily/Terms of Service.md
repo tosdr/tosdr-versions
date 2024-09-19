@@ -12,7 +12,7 @@ Your source for the latest research news
 
 ScienceDaily
 
-**September 18, 2024**
+**September 19, 2024**
 
 * * *
 
@@ -251,17 +251,17 @@ this week
 
 [Obesity](https://www.sciencedaily.com/news/health_medicine/obesity/)
 
-[Diabetes](https://www.sciencedaily.com/news/health_medicine/diabetes/)
+[Immune System](https://www.sciencedaily.com/news/health_medicine/immune_system/)
 
-[Nutrition Research](https://www.sciencedaily.com/news/mind_brain/nutrition/)
+[Cholesterol](https://www.sciencedaily.com/news/health_medicine/cholesterol/)
 
 [PHYSICAL & TECH](https://www.sciencedaily.com/news/top/technology/)
 
 [Organic Chemistry](https://www.sciencedaily.com/news/matter_energy/organic_chemistry/)
 
-[Graphene](https://www.sciencedaily.com/news/matter_energy/graphene/)
-
 [Biochemistry](https://www.sciencedaily.com/news/matter_energy/biochemistry/)
+
+[Astrophysics](https://www.sciencedaily.com/news/space_time/astrophysics/)
 
 [ENVIRONMENT](https://www.sciencedaily.com/news/top/environment/)
 
