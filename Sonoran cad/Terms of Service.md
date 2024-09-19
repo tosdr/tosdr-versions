@@ -49,7 +49,7 @@ SearchCtrl + K
             
         * [View Your Limits](https://info.sonorancad.com/tutorials/getting-started/view-your-limits)
             
-        * [Finding your Community ID and Authentication Code](https://info.sonorancad.com/tutorials/getting-started/finding-your-community-id-and-authentication-code)
+        * [Community ID and API Keys](https://info.sonorancad.com/tutorials/getting-started/finding-your-community-id-and-authentication-code)
             
         * [Troubleshooting](https://info.sonorancad.com/tutorials/getting-started/troubleshooting)
             
