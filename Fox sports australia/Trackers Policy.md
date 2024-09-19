@@ -70,14 +70,14 @@ FOX SCORES
     Match Centre](https://www.foxsports.com.au/afl/match-centre/AFL20242702)
 * [AFL Women's
     
-    Complete
+    19/9 19:15 AEST
     
     |     |     |
     | --- | --- |
-    | BRI | 11.15.81 |
-    | WBD | 5.4.34 |
+    | RIC | –   |
+    | CAR | –   |
     
-    Match Centre](https://www.foxsports.com.au/afl/aflw/match-centre/AFLW20240402)
+    Match Centre](https://www.foxsports.com.au/afl/aflw/match-centre/AFLW20240403)
 * Netball
     
 * Women's Tests
@@ -111,6 +111,16 @@ FOX SCORES
     | NZL | –   |
     
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/WT20I2024-250101)
+* [Men's ODI
+    
+    19/9 21:30 AEST
+    
+    |     |     |
+    | --- | --- |
+    | ENG | –   |
+    | AUS | –   |
+    
+    Match Centre](https://www.foxsports.com.au/cricket/match-centre/ODI20240701)
 * Motorsport
     
 * [Formula 1
