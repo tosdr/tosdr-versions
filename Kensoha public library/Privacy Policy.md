@@ -52,7 +52,7 @@ Search FAQs
 
 * [My Settings](https://mykpl.bibliocommons.com/account)
 
-[![Kenosha Public Library](//cor-liv-cdn-static.bibliocommons.com/images/WI-KENOSHA/logo.png?1726665271169)](https://mykpl.info/)
+[![Kenosha Public Library](//cor-liv-cdn-static.bibliocommons.com/images/WI-KENOSHA/logo.png?1726665714950)](https://mykpl.info/)
 
 [Main navigation](#) [Events](#)
 
