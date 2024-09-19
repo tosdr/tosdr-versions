@@ -118,6 +118,8 @@ NGI Zero is looking for a Regional Representative.](https://nlnet.nl/foundation/
 
 ### News
 
+[NGI Assure Programme Successfully Concluded](https://nlnet.nl/news/2024/20240919-NGI-Assure-Concluded.html) 2024-09-19
+
 [Meet the Projects Receiving NGI Taler grants](https://nlnet.nl/news/2024/20240806-Taler-selection.html) 2024-08-06
 
 [45 Projects Receiving New NGI Zero Grants](https://nlnet.nl/news/2024/20240618-Call-announcement.html) 2024-06-18
@@ -125,8 +127,6 @@ NGI Zero is looking for a Regional Representative.](https://nlnet.nl/foundation/
 [node-oidc-provider Wins BlueHats Prize for FOSS maintainers](https://nlnet.nl/news/2024/20240610-Winner-of-2nd-BlueHatsPrize.html) 2024-06-10
 
 [Apply before October 1st 2024](https://nlnet.nl/news/2024/20240601-call.html) 2024-06-01
-
-[NGI Mobifree Launches to Develop Ethical Mobile Software](https://nlnet.nl/news/2024/20240521-Mobifree-official-launch.html) 2024-05-21
 
 * [More news](https://nlnet.nl/news)
 
