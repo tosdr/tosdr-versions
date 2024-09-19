@@ -25,11 +25,12 @@
     * [Creative Services](#)
         * [Branding Services](https://www.filamentservices.org/branding-services/)
         * [Design and Printing](https://www.filamentservices.org/design-printing/)
+        * [SOCS Communication Suite](https://www.filamentservices.org/websites/)
         * [Video Production](https://www.filamentservices.org/lights-camera-actionable-results/)
     * [Information Security](https://www.filamentservices.org/information-security/)
     * [Managed IT Services](https://www.filamentservices.org/managed-it-services/)
+    * [Strategic Planning](https://www.filamentservices.org/strategic-planning/)
     * [Payroll+Bookkeeping](https://www.filamentservices.org/payrollbookkeeping/)
-    * [SOCS Communication Suite](https://www.filamentservices.org/websites/)
 * [Resources](#)
     * [Blog](https://www.filamentservices.org/blog/)
     * [Free Resource Hub](https://www.filamentservices.org/free-resource-hub/)
@@ -104,13 +105,14 @@ Lincoln, NE 68508
 
 #### Services
 
+* [Strategic Planning](https://www.filamentservices.org/strategic-planning/)
 * [Branding Services](https://www.filamentservices.org/branding-services/)
 * [Design and Printing](https://www.filamentservices.org/design-printing/)
+* [SOCS Communication Suite](https://www.filamentservices.org/websites/)
 * [Video Production](https://www.filamentservices.org/lights-camera-actionable-results/)
 * [Information Security](https://www.filamentservices.org/information-security/)
 * [Managed IT Services](https://www.filamentservices.org/managed-it-services/)
 * [Payroll and Bookkeeping](https://www.filamentservices.org/payrollbookkeeping/)
-* [SOCS Communication Suite](https://www.filamentservices.org/websites/)
 
 #### About
 
