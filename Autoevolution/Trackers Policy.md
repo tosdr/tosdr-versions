@@ -39,9 +39,9 @@ editorial \_
 
 coverstory \_
 
-[![Isla Is a Deluxe Coastal-Inspired Camper Van That Lets You Feel the Ocean Vibes All Year](https://s1.cdn.autoevolution.com/images/news/isla-is-a-deluxe-coastal-inspired-camper-van-that-lets-you-feel-the-ocean-vibes-all-year-240020-5.jpg "Isla Is a Deluxe Coastal-Inspired Camper Van That Lets You Feel the Ocean Vibes All Year")
+[![It's a Horse Trailer, a Camper, a Home on Wheels. No, It's the All-Aluminum WeeRoll Nomad!](https://s1.cdn.autoevolution.com/images/news/it-s-a-horse-trailer-a-camper-a-home-on-wheels-no-it-s-the-all-aluminum-weeroll-nomad-240035-5.jpg "It's a Horse Trailer, a Camper, a Home on Wheels. No, It's the All-Aluminum WeeRoll Nomad!")
 
-Isla Is a Deluxe Coastal-Inspired Camper Van That Lets You Feel the Ocean Vibes All Year](https://www.autoevolution.com/news/isla-is-a-deluxe-coastal-inspired-camper-van-that-lets-you-feel-the-ocean-vibes-all-year-240020.html)
+It's a Horse Trailer, a Camper, a Home on Wheels. No, It's the All-Aluminum WeeRoll Nomad!](https://www.autoevolution.com/news/it-s-a-horse-trailer-a-camper-a-home-on-wheels-no-it-s-the-all-aluminum-weeroll-nomad-240035.html)
 
 how-to \_
 
