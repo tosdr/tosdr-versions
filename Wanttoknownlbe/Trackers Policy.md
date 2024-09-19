@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/overige/mind-control/voorbij-goed-en-kwaad-dualiteit-en-polarisatie/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/gezondheid/voedsel/professor-seralini-wint-weer-gmo-zaak/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
@@ -94,18 +94,6 @@ Inschrijven
 
 #### WantToKnow Aanbieding
 
-![](https://i0.wp.com/www.wanttoknow.nl/wp-content/uploads/IMGP8009-edit.jpg?fit=440%2C440&ssl=1)
-
-### [Ring of Harmony: Terug naar de natuurlijke balans..!](https://www.wanttoknow.nl/aanbieding/ring-of-harmony-terug-naar-de-natuurlijke-balans-zomer-2024/)
-
-[Water is van alle elementen, in staat de trillingen die het tegenkomt in zich op te nemen, vast te houden en af te geven als het bijvoorbeeld in het lichaam terecht komt. In de natuur heeft elke materie een eigen frequentie/stralingsenergie, die bestaat uit een biologische harmonische trilling. Maar ook chemische samenstellingen, die de mens zelf in een laboratorium maakt, hebben zo’n frequentie. Het plotselinge verschijnen van zo’n nieuwe materie, bijvoorbeeld bij de uitvinding van een nieuw voedingsadditief, heeft daardoor niet alleen effect in de fysieke realiteit, maar ook in de wereld van de trillingen. Een nieuwe ‘stem’ in de harmonie, die nog wel eens ‘vals’ kan zingen. Onharmonisch ’tegen-werkt’. Het is met dit inzicht, dat wij deze Ring of Harmony van Aquarius Vitaliser aanbieden. Lees snel verder hoe de Ring of Harmony jou kan ‘voeden’ en negatieve energie neutraliseert…. …](https://www.wanttoknow.nl/aanbieding/ring-of-harmony-terug-naar-de-natuurlijke-balans-zomer-2024/)
-
-[Order now](https://www.wanttoknow.nl/aanbieding/ring-of-harmony-terug-naar-de-natuurlijke-balans-zomer-2024/#pt-field-text-5)
-
-[![Energetische atlasprofilax](https://www.wanttoknow.nl/wp-content/uploads/Atlas-banner2.jpg)](https://lucardie.eu/de-energetische-atlascorrectieeen-nieuwe-balans/)
-
-#### WantToKnow Aanbieding
-
 ![](https://i0.wp.com/www.wanttoknow.nl/wp-content/uploads/carneool-op-arm.jpg?fit=440%2C440&ssl=1)
 
 ### [Krachtige edelsteen voor krachtige mannen!](https://www.wanttoknow.nl/aanbieding/krachtige-edelsteen-voor-krachtige-mannen/)
@@ -113,6 +101,18 @@ Inschrijven
 [– Let op! Aanbieding geldig t/m 26 september – Jammer dat zo weinig mannen sieraden dragen; van oudsher is het horloge of de manchetknoop de enige ‘propere’ manier waarop de man een ‘kunstwerkj’ op het lichaam kon dragen. Om schoonheid, het lichaam en het leven te vieren. Veel van de 2024-mannen zijn uit de drukkende matrix van ‘grijs machismo’ aan het breken. Heb je het deze zomer ook gezien? Een mannelijk sieraad is steeds populairder! Natuurlijk helemaal mooi als zo’n fraaie armband is gemaakt van energetisch-werkzame edelsteen! Dus een sieraad voor het oog, en stimulans voor de energiehuisbalans en de chakras! Wij vonden deze bijzondere, handgemaakte en stoer esthetische, prachtige edelsteen-armbanden, die we met een Nederlandse edelstenenexpert selecteerden. Neem eenvoudig de kracht van edelstenen op in je dagelijkse leven. Wees er snel bij, de sieradenreservering zal snel uitverkocht zijn, zo is de verwachting..! Speciaal geselecteerd & zolang de voorraad strekt! …](https://www.wanttoknow.nl/aanbieding/krachtige-edelsteen-voor-krachtige-mannen/)
 
 [Order now](https://www.wanttoknow.nl/aanbieding/krachtige-edelsteen-voor-krachtige-mannen/#pt-field-text-5)
+
+[![Energetische atlasprofilax](https://www.wanttoknow.nl/wp-content/uploads/Atlas-banner2.jpg)](https://lucardie.eu/de-energetische-atlascorrectieeen-nieuwe-balans/)
+
+#### WantToKnow Aanbieding
+
+![](https://i0.wp.com/www.wanttoknow.nl/wp-content/uploads/samen-9.jpg?fit=696%2C388&ssl=1)
+
+### [Elektrosmog en radio-activiteit-meters: straling in beeld deze herfst..!](https://www.wanttoknow.nl/aanbieding/opnieuw-beschikbaar-met-verbeterde-technologie-elektrosmog-en-radioactiviteit-meters-krijg-straling-in-beeld/)
+
+[– Let op! Geldig t/m donderdag 3 oktober a.s. – Het is weer herfst, dus we gaan steeds meer lekker warm thuis zitten. Maar sommige mensen ervaren in huis veel last van de elektronische straling van computer, telefoon & huishoudelijke apparaten..! Wij vonden dáárvoor een oplossing: ‘Elektro-Smog’ is eigenlijk een verzamelnaam voor vormen van elektromagnetische straling. Laag frequente magnetische (veld)stralingen, laag frequente elektrische straling en hoog frequente elektromagnetische straling vallen hieronder. Hoog frequente straling, die door steeds meer apparaten om ons heen wordt afgegeven, is voor veel mensen een bekend en vaak voelbaar gevaar. Zoals de ‘handige’ WiFi waarop computers en allerhande smart-apparaten functioneren, maar ook alle mobiele netwerken. Zoals ’t 5G netwerk. Weinigen weten echter, dat ook laag frequente elektro-magneet(veld)stralingen een invloed heeft op ieder mens. Deze lange golflengte-stralingen, komen we tegen op alle plekken waar elektriciteit wordt gebruikt of getransformeerd. Denk aan de intensiteit waarmee een transformatorhuisje of elektriciteitsmasten kunnen ‘zoemen’. Wij vonden een praktische manier om straling te kunnen meten, zodat je voortaan weet waar je aan toe bent! Samen met het Franse E.P.E. Conseil, dat al jaren eenvoudige en bijzonder degelijke stralingsmeters maakt en zich inzet voor ‘Elektrosmog-bewustzijn’ selecteerden we 2 meters, waarmee iedereen snel de invloeden in kaart kan brengen! We vonden ook een gamma-straling meter, waarmee je gemakkelijk de nucleaire achtergrondstraling in kaart krijgt. Lees snel verder… …](https://www.wanttoknow.nl/aanbieding/opnieuw-beschikbaar-met-verbeterde-technologie-elektrosmog-en-radioactiviteit-meters-krijg-straling-in-beeld/)
+
+[Order now](https://www.wanttoknow.nl/aanbieding/opnieuw-beschikbaar-met-verbeterde-technologie-elektrosmog-en-radioactiviteit-meters-krijg-straling-in-beeld/#pt-field-text-5)
 
 [![BRES #347](https://www.wanttoknow.nl/wp-content/uploads/BRES-347.jpg)](https://bresmagazine.nl/publicaties/)
 
