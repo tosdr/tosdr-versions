@@ -410,6 +410,6 @@ MINS
 
 SECS
 
-![](https://cdn.shopify.com/extensions/304a502a-5b4b-4e5e-8e9c-c8016ea0745c/discount-depot-311/assets/gift_image.png)
+![](https://cdn.shopify.com/extensions/71bc92b1-6b60-462c-8abc-9b1d4245623b/discount-depot-315/assets/gift_image.png)
 
 Adding free gift to the cart...
