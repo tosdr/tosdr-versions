@@ -167,7 +167,7 @@ Proxmox WebUI Behind Traefik
 
 > **Be the 1 in 200,000. Help us sustain what we do.**
 > 
-> 79 / 150 by Dec 31, 2024
+> 88 / 150 by Dec 31, 2024
 > 
 > [Join Us](https://www.smarthomebeginner.com/membership-account/memberships-products-services/)
 > 
