@@ -124,6 +124,7 @@
     * [Partner Label Checklist](https://vinegarsyndrome.com/pages/partners-checklist)
 * [Info](#)
 * * [About Us](https://vinegarsyndrome.com/pages/about)
+    * [Events Calendar](https://vinegarsyndrome.com/pages/sales-events-calendar)
     * [Retail Locations](#)
     * * [Bridgeport, CT - The Archive](https://www.instagram.com/thearchivect)
         * [Aurora, CO - The Archive](https://www.instagram.com/thearchivecolorado)
@@ -541,6 +542,7 @@
     * [Partner Label Checklist](https://vinegarsyndrome.com/pages/partners-checklist)
 * [Info](#)
     * [About Us](https://vinegarsyndrome.com/pages/about)
+    * [Events Calendar](https://vinegarsyndrome.com/pages/sales-events-calendar)
     * [Retail Locations](#)
         * [Bridgeport, CT - The Archive](https://www.instagram.com/thearchivect)
         * [Aurora, CO - The Archive](https://www.instagram.com/thearchivecolorado)
@@ -682,6 +684,7 @@ contact@vinsyn.com
 * [About Us](https://vinegarsyndrome.com/pages/about)
 * [Careers](https://support.vinegarsyndrome.com/en-US/careers-291136)
 * [Contact](https://support.vinegarsyndrome.com/en-US/contact-information-247611)
+* [Events Calendar](https://vinegarsyndrome.com/pages/sales-events-calendar)
 * [Help Center](https://support.vinegarsyndrome.com/en-US)
 
 ### Shop
