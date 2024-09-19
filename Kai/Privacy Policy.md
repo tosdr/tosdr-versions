@@ -3,7 +3,7 @@
 Privacy Policy
 --------------
 
-Welcome to Kai, an Artificial Intelligence-powered coach designed to assist you to achieve your personal development and wellness goals (the **“Service”**). The Service is owned and operated by Kai.AI (the “**Company**”, “**we**”, “**us**” and “**our**”).
+Welcome to Kai, an Artificial Intelligence-powered coach designed to assist you to achieve your personal development and wellness goals (the **“Service”**). The Service is owned and operated by Kai.AI (the “**Company**”, “**we**”, “**us**” and “**our**”). The Service is provided through our mobile application (the “**App**“) or through third-party instant messaging platforms such as WhatsApp (a “**Messaging Platform**“).
 
 This Privacy Policy (the **“Policy”**) explains the privacy practices for our Service. It also describes the rights and options available to you with respect to your information.
 
@@ -15,7 +15,7 @@ PERSONAL DATA WE COLLECT
 We collect your name and telephone number when you first access the Service 
 ----------------------------------------------------------------------------
 
-**Registration.** The Service is openly available to use after you send us your first message via Facebook Messenger, Telegram or WhatsApp and accept our Terms of Use and this Privacy Policy, you are registered to the Service. We then have access to your name and phone number which we obtain from Facebook Messenger, Telegram or WhatsApp.  You may also provide us with your preferred name or nickname for future communications. We refer to this data as “**Registration Information**”.
+**Registration.** After you send us your first message through the App or via a Messaging Platform and accept our Terms of Use and this Privacy Policy, you are registered to the Service. We then have access to your name and phone number which we obtain from your device or the Messaging Platform you chose to use. You may also provide us with your preferred name or nickname for future communications. We refer to this data as “**Registration Information**”.
 
 We collect your information when you fill out our intake questionnaire
 ----------------------------------------------------------------------
@@ -30,11 +30,11 @@ We collect information relating to your support requests.
 
 **Support**. When you contact us for customer support requests, we will collect your contact details and the information included in your request and in follow-up interactions we have with you. We refer to this entire data as “**Support Information**”.
 
-We collect the content you provide us when you use Kai.
+We collect the contents of your conversations with Kai.
 -------------------------------------------------------
 
-We collect the content you upload when using Kai and your answers to Kai’s questions, which may include personal data. We refer to this entire data as **“Content Information**”.  
-  
+We collect the contents of your conversations with Kai, including your answers to Kai’s questions, which may include personal data. We refer to this entire data as **“Messages Content**”.
+
 Please use discretion when deciding which information to share with us.
 
 You are not legally required to provide us your information.
@@ -42,10 +42,10 @@ You are not legally required to provide us your information.
 
 You do not have a legal duty to provide the above information. However, note that we will not be able to allow you to sign up to and use the Service, tailor the Service to your needs, or handle your support inquiries, if you do not provide the above information.
 
-We collect information relating to your use of the Service and your interaction with our email messages.
---------------------------------------------------------------------------------------------------------
+We collect information relating to your use of the Service and your interaction with our messages.
+--------------------------------------------------------------------------------------------------
 
-When you are using the Service, we will record and collect certain information in relation with your use of the Service and your interaction with our text and email messages, including IP address (and the general location corresponding to the address). We refer to this entire information as “**Analytics Information**”.
+When you are using the Service, we will record and collect certain information in relation with your use of the Service and your interaction with our messages, including IP address (and the general location corresponding to the address). We refer to this entire information as “**Analytics Information**”.
 
 HOW WE USE PERSONAL DATA
 ------------------------
@@ -58,7 +58,7 @@ We use Registration Information to verify your identity, and enable you to acces
 To provide you with the Service’s core purpose, functions, and features.
 ------------------------------------------------------------------------
 
-We use your Content Information to enable you to use the Service, and to provide you with its core purpose, features, and functionality. We use the Content Information to analyze your answers and determine and personalize Kai’s response to it or transfer the conversation to one of our human companions.
+We use your Messages Content to enable you to use the Service, and to provide you with its core purpose, features, and functionality. We use the Messages Content to analyze your answers and determine and personalize Kai’s response to it or transfer the conversation to one of our human companions.
 
 To tailor our Service to you.
 -----------------------------
@@ -70,10 +70,10 @@ To provide you customer support.
 
 We use your Registration and Support Information to provide you customer support and handle your inquiries effectively.
 
-We use Analytics and Content Information to train, develop and enhance the Service. We also use it for business administration and marketing purposes.
-------------------------------------------------------------------------------------------------------------------------------------------------------
+We use Analytics and Messages Content to train, develop and enhance the Service. We also use it for business administration purposes.
+-------------------------------------------------------------------------------------------------------------------------------------
 
-We use Analytics Information and Content Information to understand how users interact with the Service so that we can further train, improve, develop and enhance it. We also use Analytics Information to adjust the Service and our communications to users’ preferences. Where we use your Content Information to train and improve the Service we will do so only after removing any information that directly identifies you personally. We will use Analytics Information and Content Information to understand the market in which we operate in; for managerial reporting and business planning; and for marketing purposes such as publishing experimental reports to investors and other third parties. When we process Analytics Information and content Information for the purpose of marketing, we will use only aggregated de-identified information and we will not be able to directly identify the person who uses the Service.
+We use Analytics Information and Messages Content to understand how users interact with the Service so that we can further train, improve, develop and enhance it. We also use Analytics Information to adjust the Service and our communications to users’ preferences. Where we use your Messages Content to train and improve the Service we will do so only after removing any information that directly identifies you personally. We will use Analytics Information to understand the market in which we operate in and for managerial reporting and business planning. When we process Analytics Information, we will not be able to directly identify the person who uses the Service.
 
 WHEN AND HOW WE SHARE PERSONAL DATA WITH OTHERS
 -----------------------------------------------
@@ -94,7 +94,7 @@ We will share your information with investors and other third parties by publish
 We will share your information if we are legally required to do so.
 -------------------------------------------------------------------
 
-We will share your information with the relevant authorities if we are obligated to so by law.
+We will share your information with the relevant authorities if we are obligated to do so by law.
 
 We will share your information if necessary to defend Kai from legal claims.
 ----------------------------------------------------------------------------
@@ -125,7 +125,7 @@ SECURITY AND DATA RETENTION
 We retain your personal information for as long as we need it to operate the Service and interact with users, and thereafter as needed for record-keeping matters.
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-We retain personal data for the duration needed to support our ordinary business activities operating the Service and interacting with users. Thereafter, we will continue to retain your personal information as necessary to comply with our legal obligations, resolve disputes, establish and defend legal claims and enforce our Terms of Use, this Policy and other agreements we have with our users.
+We retain personal data for the duration needed to support our ordinary business activities operating the Service and interacting with users, but no longer than 7 years. Thereafter, we will continue to retain your personal information as necessary to comply with our legal obligations, resolve disputes, establish and defend legal claims and enforce our Terms of Use, this Policy and other agreements we have with our users.
 
 We implement measures to secure your Information.
 -------------------------------------------------
@@ -151,13 +151,11 @@ United States of America
 Legal basis for processing under the GDPR.
 ------------------------------------------
 
-The legal basis for collecting and processing Registration, Content, Intake Information and Support Information is the performance of our Terms of Use agreement with you.  
-  
+The legal basis for collecting and processing Registration, Messages Content, Intake Information and Support Information is the performance of our Terms of Use agreement with you.
+
 The legal basis for collecting and processing Intake Information for the purpose of tailoring our Service to your needs is our legitimate interest in improving our user experience.
 
-The legal basis for collecting and processing Analytics Information and Content Information for the purpose of training and improving the service is our legitimate interests in developing, improving and enhancing the Service.
-
-The legal basis for collecting and processing Analytics Information and Content Information for the purpose of publishing experimental reports is our legitimate interests in developing and promote our business.
+The legal basis for collecting and processing Analytics Information and Messages Content for the purpose of training and improving the service is our legitimate interests in developing, improving and enhancing the Service.
 
 The legal basis for processing your information for the purpose of handling instances of abusive use of the Service is our legitimate interests in defending and enforcing against violations and breaches that are harmful to our business.
 
@@ -214,7 +212,7 @@ You can contact us at [support@kai.ai](mailto:support@kai.ai)
 Should you have any inquiries, complaints or suggestions, you may contact us at **[support@kai.ai](mailto:support@kai.ai)**.  
 We will do our best to resolve your issue in a timely manner.
 
-Last updated: August 2024.
+#### **Last Update:** September 2024
 
 [![](https://kai.ai/wp-content/uploads/2024/07/Group-1707478362-svg.svg)](https://kai.ai/)
 
