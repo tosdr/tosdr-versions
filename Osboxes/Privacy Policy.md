@@ -109,6 +109,12 @@ Root account password: osboxes.org
 
 ### Recent Releases
 
+[![kali linux](https://www.osboxes.org/wp-content/uploads/2014/09/kali-linux.jpg)](https://www.osboxes.org/kali-linux-2024-3-vm-images-available-for-virtualbox-and-vmware/)
+
+##### [Kali Linux 2024.3 VM Images Available for VirtualBox and VMware](https://www.osboxes.org/kali-linux-2024-3-vm-images-available-for-virtualbox-and-vmware/)
+
+18-09-2024
+
 [![q4os-3](https://www.osboxes.org/wp-content/uploads/2018/09/q4os-34-85x85.jpg)](https://www.osboxes.org/q4os-5-6-aquarius-vm-images-available-for-virtualbox-and-vmware/)
 
 ##### [Q4OS 5.6 Aquarius VM Images Available for VirtualBox and VMware](https://www.osboxes.org/q4os-5-6-aquarius-vm-images-available-for-virtualbox-and-vmware/)
@@ -138,12 +144,6 @@ Root account password: osboxes.org
 ##### [Deepin 23 VM Images Available for VirtualBox and VMware](https://www.osboxes.org/deepin-23-vm-images-available-for-virtualbox-and-vmware/)
 
 25-08-2024
-
-[![linux mint](https://www.osboxes.org/wp-content/uploads/2014/09/linux-mint1.jpg)](https://www.osboxes.org/linux-mint-22-wilma-images-available-for-virtualbox-and-vmware/)
-
-##### [Linux Mint 22 “Wilma” Images Available for VirtualBox and VMware](https://www.osboxes.org/linux-mint-22-wilma-images-available-for-virtualbox-and-vmware/)
-
-30-07-2024
 
 Get in Touch!
 
