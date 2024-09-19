@@ -252,15 +252,15 @@ IDB, LLC 300 Lenora Street #516, Seattle, WA 98136, USA
     
 * **Data**
     
-    * [Our data](https://ipinfo.io/ip-data)
+    * [Our Data](https://ipinfo.io/ip-data)
     * [My IP Address](https://ipinfo.io/what-is-my-ip)
     * [Tools](https://ipinfo.io/tools)
     * [Country Internet Data](https://ipinfo.io/countries)
     * [Global Geolocation Accuracy](https://ipinfo.io/accuracy)
     * [IP Address Tags](https://ipinfo.io/tags)
-    * [Hosted domains by ASNs](https://ipinfo.io/hosting)
+    * [Hosted Domains by ASNs](https://ipinfo.io/hosting)
     * [IP Ranges](https://ipinfo.io/ips)
-    * [Open access](https://ipinfo.io/products/free-ip-database)
+    * [Open Access](https://ipinfo.io/products/free-ip-database)
     
 * **Resources**
     
@@ -269,9 +269,9 @@ IDB, LLC 300 Lenora Street #516, Seattle, WA 98136, USA
     * [Help Centre](https://ipinfo.io/faq)
     * [Blog](https://ipinfo.io/blog)
     * [E-books](https://ipinfo.io/e-books)
-    * [Use cases](https://ipinfo.io/use-cases)
+    * [Use Cases](https://ipinfo.io/use-cases)
     * [Integrations](https://ipinfo.io/integrations)
-    * [What is an IP address?](https://ipinfo.io/ip-address-information)
+    * [What is an IP Address?](https://ipinfo.io/ip-address-information)
     
 * **Company**
     
@@ -303,24 +303,24 @@ IDB, LLC 300 Lenora Street #516, Seattle, WA 98136, USA
     * [Abuse Contact API](https://ipinfo.io/products/ip-abuse-contact-api)
     * [IP Whois API](https://ipinfo.io/products/whois-api)
 * Data
-    * [Our data](https://ipinfo.io/ip-data)
+    * [Our Data](https://ipinfo.io/ip-data)
     * [My IP Address](https://ipinfo.io/what-is-my-ip)
     * [Tools](https://ipinfo.io/tools)
     * [Country Internet Data](https://ipinfo.io/countries)
     * [Global Geolocation Accuracy](https://ipinfo.io/accuracy)
     * [IP Address Tags](https://ipinfo.io/tags)
-    * [Hosted domains by ASNs](https://ipinfo.io/hosting)
+    * [Hosted Domains by ASNs](https://ipinfo.io/hosting)
     * [IP Ranges](https://ipinfo.io/ips)
-    * [Open access](https://ipinfo.io/products/free-ip-database)
+    * [Open Access](https://ipinfo.io/products/free-ip-database)
 * Resources
     * [Documentation](https://ipinfo.io/developers)
     * [Libraries](https://ipinfo.io/developers/libraries)
     * [Help Centre](https://ipinfo.io/faq)
     * [Blog](https://ipinfo.io/blog)
     * [E-books](https://ipinfo.io/e-books)
-    * [Use cases](https://ipinfo.io/use-cases)
+    * [Use Cases](https://ipinfo.io/use-cases)
     * [Integrations](https://ipinfo.io/integrations)
-    * [What is an IP address?](https://ipinfo.io/ip-address-information)
+    * [What is an IP Address?](https://ipinfo.io/ip-address-information)
 * Company
     * [About](https://ipinfo.io/about)
     * [Careers](https://ipinfo.io/jobs)
@@ -338,7 +338,7 @@ IDB, LLC 300 Lenora Street #516, Seattle, WA 98136, USA
 * [![Facebook](https://website-cdn.ipinfo.io/_next/static/media/facebook-light.0be4f2a5.svg)](https://www.facebook.com/ipinfo.io)
 
 * [![Capterra Reviews](https://assets.capterra.com/badge/7cd654c7533ce5d2d550ac86472a835b.svg)](https://www.capterra.com/reviews/227725/IPinfo?utm_source=vendor&utm_medium=badge&utm_campaign=capterra_reviews_badge)
-* [![Read IPinfo.io reviews on G2](https://www.g2.com/products/ipinfo-io/widgets/stars?color=white&type=read)](https://www.g2.com/products/ipinfo-io/reviews?utm_source=review-widget)
+* [![Read IPinfo.io Reviews on G2](https://www.g2.com/products/ipinfo-io/widgets/stars?color=white&type=read)](https://www.g2.com/products/ipinfo-io/reviews?utm_source=review-widget)
 * [![GetApp Reviews](https://www.getapp.com/ext/reviews_widget/v1/dark/ipinfo-application)](https://www.getapp.com/business-intelligence-analytics-software/a/ipinfo/reviews/)
 
 * Copyright © 2024 IPinfo®
