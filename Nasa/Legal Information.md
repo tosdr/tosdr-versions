@@ -269,7 +269,7 @@ article 6 days ago](https://www.nasa.gov/missions/station/nasas-spacex-crew-9-to
 
 ### NASA Astronaut Tracy C. Dyson’s Scientific Mission aboard Space Station
 
-article 6 hours ago](https://www.nasa.gov/missions/station/iss-research/nasa-astronaut-tracy-c-dyson-scientific-mission-aboard-space-station/)[![Two astronauts float inside a densely packed laboratory module on the International Space Station, surrounded by a complex array of scientific equipment, cables, and instruments.](https://www.nasa.gov/wp-content/uploads/2024/09/iss043e099306orig.jpg?w=1024)
+article 7 hours ago](https://www.nasa.gov/missions/station/iss-research/nasa-astronaut-tracy-c-dyson-scientific-mission-aboard-space-station/)[![Two astronauts float inside a densely packed laboratory module on the International Space Station, surrounded by a complex array of scientific equipment, cables, and instruments.](https://www.nasa.gov/wp-content/uploads/2024/09/iss043e099306orig.jpg?w=1024)
 
 3 min read
 
@@ -303,7 +303,7 @@ article 2 days ago](https://science.nasa.gov/researchers/solicitations/roses-202
 
 ### NASA Finds Summer 2024 Hottest to Date
 
-article 7 days ago](https://www.nasa.gov/earth/nasa-finds-summer-2024-hottest-to-date/)
+article 1 week ago](https://www.nasa.gov/earth/nasa-finds-summer-2024-hottest-to-date/)
 
 ### Highlights
 
@@ -335,7 +335,7 @@ article 5 days ago](https://science.nasa.gov/missions/artemis/nasas-artemis-ii-c
 
 ### NASA’s Webb Provides Another Look Into Galactic Collisions
 
-article 5 hours ago](https://science.nasa.gov/missions/webb/nasas-webb-provides-another-look-into-galactic-collisions/)[![the Roman spacecraft bus](https://www.nasa.gov/wp-content/uploads/2024/09/spacecraft-001.jpg?w=1024)
+article 6 hours ago](https://science.nasa.gov/missions/webb/nasas-webb-provides-another-look-into-galactic-collisions/)[![the Roman spacecraft bus](https://www.nasa.gov/wp-content/uploads/2024/09/spacecraft-001.jpg?w=1024)
 
 5 min read
 
@@ -357,7 +357,7 @@ article 1 day ago](https://science.nasa.gov/missions/hubble/nasas-hubble-finds-m
 
 ### NASA’s Webb Provides Another Look Into Galactic Collisions
 
-article 5 hours ago](https://science.nasa.gov/missions/webb/nasas-webb-provides-another-look-into-galactic-collisions/)[![ICESat-2 Hosts Third Applications Workshop](https://science.nasa.gov/wp-content/uploads/2024/08/icesat2-figure-1.png)
+article 6 hours ago](https://science.nasa.gov/missions/webb/nasas-webb-provides-another-look-into-galactic-collisions/)[![ICESat-2 Hosts Third Applications Workshop](https://science.nasa.gov/wp-content/uploads/2024/08/icesat2-figure-1.png)
 
 16 min read
 
@@ -401,13 +401,13 @@ article 2 weeks ago](https://www.nasa.gov/centers-and-facilities/glenn/nasa-tunn
 
 ### Reinventing the Clock: NASA’s New Tech for Space Timekeeping
 
-article 7 hours ago](https://www.nasa.gov/technology/goddard-tech/reinventing-the-clock-nasas-new-tech-for-space-timekeeping/)[![An Apollo astronaut preparing to climb the ladder into the lunar module's ascent stage, his spacesuit is covered in lunar dust.](https://images-assets.nasa.gov/image/as17-134-20481/as17-134-20481~large.jpg?w=1920&h=1920&fit=clip&crop=faces%2Cfocalpoint)
+article 8 hours ago](https://www.nasa.gov/technology/goddard-tech/reinventing-the-clock-nasas-new-tech-for-space-timekeeping/)[![An Apollo astronaut preparing to climb the ladder into the lunar module's ascent stage, his spacesuit is covered in lunar dust.](https://images-assets.nasa.gov/image/as17-134-20481/as17-134-20481~large.jpg?w=1920&h=1920&fit=clip&crop=faces%2Cfocalpoint)
 
 3 min read
 
 ### Measuring Moon Dust to Fight Air Pollution
 
-article 22 hours ago](https://www.nasa.gov/technology/tech-transfer-spinoffs/measuring-moon-dust-to-fight-air-pollution-2/)[![Amendment 49: A.55 Decadal Survey Incubation Program: Science and Technology Final Text and Due Dates](https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000002/GSFC_20171208_Archive_e000002~large.jpg)
+article 23 hours ago](https://www.nasa.gov/technology/tech-transfer-spinoffs/measuring-moon-dust-to-fight-air-pollution-2/)[![Amendment 49: A.55 Decadal Survey Incubation Program: Science and Technology Final Text and Due Dates](https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000002/GSFC_20171208_Archive_e000002~large.jpg)
 
 1 min read
 
