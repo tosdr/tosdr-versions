@@ -80,7 +80,7 @@ FOX SCORES
     Match Centre](https://www.foxsports.com.au/afl/aflw/match-centre/AFLW20240403)
 * Netball
     
-* Women's Tests
+* [Women's Tests
     
     19/9 19:00 AEST
     
@@ -89,16 +89,17 @@ FOX SCORES
     | AUS | –   |
     | ENG | –   |
     
+    Match Centre](https://www.foxsports.com.au/netball/match-centre/TEST20240101)
 * Cricket
     
 * [Men's Test
     
-    19/9 14:00 AEST
+    Day 1 Session 2
     
     |     |     |
     | --- | --- |
-    | IND | –   |
-    | BAN | –   |
+    | IND | 4 /132 |
+    | BAN |     |
     
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/TEST2024-250101)
 * [Women's T20I
@@ -177,6 +178,68 @@ FOX SCORES
     | RSA | –   |
     
     Match Centre](https://www.foxsports.com.au/rugby/the-rugby-championship/match-centre/RTN20240502)
+* Football
+    
+* [UCL
+    
+    20/9 2:45 AEST
+    
+    |     |     |
+    | --- | --- |
+    | BGD | –   |
+    | BEN | –   |
+    
+    Match Centre](https://www.foxsports.com.au/football/champions-league/match-centre/UCL2024-250127)
+* [UCL
+    
+    20/9 2:45 AEST
+    
+    |     |     |
+    | --- | --- |
+    | FEY | –   |
+    | BLV | –   |
+    
+    Match Centre](https://www.foxsports.com.au/football/champions-league/match-centre/UCL2024-250125)
+* [UCL
+    
+    20/9 5:00 AEST
+    
+    |     |     |
+    | --- | --- |
+    | BRE | –   |
+    | SG  | –   |
+    
+    Match Centre](https://www.foxsports.com.au/football/champions-league/match-centre/UCL2024-250135)
+* [UCL
+    
+    20/9 5:00 AEST
+    
+    |     |     |
+    | --- | --- |
+    | AMD | –   |
+    | RBL | –   |
+    
+    Match Centre](https://www.foxsports.com.au/football/champions-league/match-centre/UCL2024-250133)
+* [UCL
+    
+    20/9 5:00 AEST
+    
+    |     |     |
+    | --- | --- |
+    | MCO | –   |
+    | BAR | –   |
+    
+    Match Centre](https://www.foxsports.com.au/football/champions-league/match-centre/UCL2024-250131)
+* [UCL
+    
+    20/9 5:00 AEST
+    
+    |     |     |
+    | --- | --- |
+    | ATA | –   |
+    | ARS | –   |
+    
+    Match Centre](https://www.foxsports.com.au/football/champions-league/match-centre/UCL2024-250129)
 
 [Go to All Scores](https://www.foxsports.com.au/score-centre/)
 
