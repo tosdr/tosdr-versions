@@ -157,7 +157,7 @@ Menutoggle menu
         * [Infographic Posters](https://www.atlantafed.org/education/teach/infographic-posters)
         * [Lessons and Activities](https://www.atlantafed.org/education/teach/lessons-and-activities)
         * [Multimedia](https://www.atlantafed.org/education/teach/multimedia)
-    * [Learn](https://www.atlantafed.org/education/learn)
+    * [Learn](https://www.atlantafed.org/community-development/publications/partners-update/2024/07/16/career-coaching-with-the-cliff-tools-lessons-from-the-implementation-evaluation)
     * [Visit](https://www.atlantafed.org/education/visit)
         * [Atlanta](https://www.atlantafed.org/education/visit/atlanta)
         * [Jacksonville](https://www.atlantafed.org/education/visit/jacksonville)
