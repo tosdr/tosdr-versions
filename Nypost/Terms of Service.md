@@ -327,7 +327,7 @@ If a Dispute is a Covered Dispute, the Mandatory Dispute Resolution Provisions f
         * [Media Kit](https://advertising.nypost.com/)
         * [Contact](https://advertising.nypost.com/contact-us/)
 
-© 2024 NYP Holdings, Inc. All Rights Reserved
+© 2024 NYP Holdings, Inc. All Rights Reserved [Terms of Use](https://nypost.com/terms/) [Membership Terms](https://nypost.com/membership-terms/) [Privacy Notice](https://nypost.com/privacy/) [Sitemap](https://nypost.com/sitemap/)
 
 * * *
 
