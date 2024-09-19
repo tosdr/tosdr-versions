@@ -121,7 +121,7 @@ En acceptant les cookies, vous aideriez et contribueriez à la gratuité du Crab
 
 Si vous changez d'avis et que **vous avez envie de nous donner un coup de pince**, cliquez ici : J'accepte les cookies 🍪️
 
-##### 135 utilisateurs actifs
+##### 678 utilisateurs actifs
 
 Chargement en cours
 
@@ -131,9 +131,9 @@ Chargement en cours
 
 ### À la une
 
+* [Arrivée officielle du noyau Linux 6.10 : que contient-il ?](https://lecrabeinfo.net/arrivee-officielle-du-noyau-linux-6-10-que-contient-il.html)
 * [La build 26120.1340 de Windows 11 est là ! Quoi de neuf ?](https://lecrabeinfo.net/la-build-26120-1340-de-windows-11-est-la-quoi-de-neuf.html)
 * [Les 4 meilleurs logiciels pour prendre le contrôle d'un PC à distance en 2024](https://lecrabeinfo.net/les-4-meilleurs-logiciels-pour-prendre-le-controle-dun-pc-a-distance-en-2024.html)
-* [Le Microsoft Store se modernise avec une nouvelle page de téléchargement et quelques autres nouveautés](https://lecrabeinfo.net/le-microsoft-store-se-modernise-avec-une-nouvelle-page-de-telechargement-et-quelques-autres-nouveautes.html)
 
 ### Tendance
 
@@ -152,9 +152,9 @@ Chargement en cours
 
 ### Statistiques
 
-* 68 512 membres
-* 897 articles
-* 26 569 commentaires
+* 68 513 membres
+* 898 articles
+* 26 570 commentaires
 
 * [BY-NC-SA](http://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr "CC BY-NC-SA")
 * 2013-2024
