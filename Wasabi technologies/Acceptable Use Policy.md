@@ -26,7 +26,7 @@ Wasabi Acceptable Use Policy
   
   
 
-[Company](https://wasabi.com/legal/acceptable-use-policy#)
+[Company](https://wasabi.com/legal/acceptable-use-policy?__nextDataReq=1#)
 
 * [About Wasabi](https://wasabi.com/company)
     
