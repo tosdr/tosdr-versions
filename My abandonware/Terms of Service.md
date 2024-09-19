@@ -85,11 +85,11 @@ Top downloads
 
 Latest releases
 
-* [Rival Schools](https://www.myabandonware.com/game/rival-schools-sef)
-* [Rave Racer](https://www.myabandonware.com/game/rave-racer-see)
-* [Rail Chase 2](https://www.myabandonware.com/game/rail-chase-2-sed)
-* [Pro Mahjong Kiwame S](https://www.myabandonware.com/game/pro-mahjong-kiwame-s-p5m)
-* [Quarterback](https://www.myabandonware.com/game/quarterback-npx)
+* [Juno First](https://www.myabandonware.com/game/juno-first-5u3)
+* [Create](https://www.myabandonware.com/game/create-skz)
+* [pop'n music](https://www.myabandonware.com/game/pop-n-music-sep)
+* [pop'n music 2](https://www.myabandonware.com/game/pop-n-music-2-seo)
+* [Poolshark](https://www.myabandonware.com/game/poolshark-sen)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [Facebook](https://www.facebook.com/myabandonware) or [X (Twitter)](https://x.com/myabandonware)
