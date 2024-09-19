@@ -2,6 +2,12 @@ The browser you are using is not supported. Please see our [supported browsers](
 
 Close
 
+_We are currently experiencing high call volumes._
+
+Close
+
+Please visit our [Self-serve](https://www.westjet.com/en-ca/contact/on-hold-self-serve) page for available options
+
 By using the WestJet website, you agree to the website [terms of use](https://www.westjet.com/en-ca/legal/terms-use), the [privacy statement](https://www.westjet.com/en-ca/legal/privacy-policy), and the [use of cookies](https://www.westjet.com/en-ca/legal/privacy-policy#cookies).  
 
 Accept
