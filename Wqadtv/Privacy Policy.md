@@ -30,13 +30,16 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/1d96366e-f3be-4f83-a16b-89c4f592949b/1d96366e-f3be-4f83-a16b-89c4f592949b_16x9.png) ![](https://media.tegna-media.com/assets/WQAD/images/1d96366e-f3be-4f83-a16b-89c4f592949b/1d96366e-f3be-4f83-a16b-89c4f592949b_360x203.png)](https://www.wqad.com/article/news/local/davenport-quality-of-life-survey/526-acc29a42-7911-4e89-bb47-e1f9a2209d8c)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/aac21277-7af3-4bb4-904b-85a94fad98fc/20240919T154256/aac21277-7af3-4bb4-904b-85a94fad98fc_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/aac21277-7af3-4bb4-904b-85a94fad98fc/20240919T154256/aac21277-7af3-4bb4-904b-85a94fad98fc_360x203.jpg)](https://www.wqad.com/article/news/local/public-safety/car-crash-riverdale-schools-rock-island-county/526-38c51f2a-1c5c-4ca0-98e0-77b22665eb8e)
         
-        #### [Check your mailboxes, Davenport residents: City sends out community survey](https://www.wqad.com/article/news/local/davenport-quality-of-life-survey/526-acc29a42-7911-4e89-bb47-e1f9a2209d8c)
+        #### [2 children, 1 adult injured in crash near Riverdale schools, officials say](https://www.wqad.com/article/news/local/public-safety/car-crash-riverdale-schools-rock-island-county/526-38c51f2a-1c5c-4ca0-98e0-77b22665eb8e) [![](https://media.tegna-media.com/assets/WQAD/images/aac21277-7af3-4bb4-904b-85a94fad98fc/20240919T154256/aac21277-7af3-4bb4-904b-85a94fad98fc_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/aac21277-7af3-4bb4-904b-85a94fad98fc/20240919T154256/aac21277-7af3-4bb4-904b-85a94fad98fc_360x203.jpg)](https://www.wqad.com/article/news/local/public-safety/car-crash-riverdale-schools-rock-island-county/526-38c51f2a-1c5c-4ca0-98e0-77b22665eb8e)
         
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/c49646d8-cf4f-4bfb-b38d-674f801254e6/20240918T200324/c49646d8-cf4f-4bfb-b38d-674f801254e6_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/c49646d8-cf4f-4bfb-b38d-674f801254e6/20240918T200324/c49646d8-cf4f-4bfb-b38d-674f801254e6_360x203.jpg)](https://www.wqad.com/article/news/local/public-safety/davenport-non-credible-school-threats-police-district-officials-statements/526-73782c1d-aecf-466f-912f-b2cc87279d60)
+        #### [2 children injured, adult driver airlifted after crash near Riverdale schools, sheriff's office says](https://www.wqad.com/article/news/local/public-safety/car-crash-riverdale-schools-rock-island-county/526-38c51f2a-1c5c-4ca0-98e0-77b22665eb8e) [![](https://media.tegna-media.com/assets/WQAD/images/aac21277-7af3-4bb4-904b-85a94fad98fc/20240919T154256/aac21277-7af3-4bb4-904b-85a94fad98fc_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/aac21277-7af3-4bb4-904b-85a94fad98fc/20240919T154256/aac21277-7af3-4bb4-904b-85a94fad98fc_360x203.jpg)](https://www.wqad.com/article/news/local/public-safety/car-crash-riverdale-schools-rock-island-county/526-38c51f2a-1c5c-4ca0-98e0-77b22665eb8e)
         
-        #### [Davenport school, law enforcement officials speak on 'non-credible' threats](https://www.wqad.com/article/news/local/public-safety/davenport-non-credible-school-threats-police-district-officials-statements/526-73782c1d-aecf-466f-912f-b2cc87279d60)
+        #### [Crash near Riverdale schools injures 2 children, adult driver airlifted, officials say](https://www.wqad.com/article/news/local/public-safety/car-crash-riverdale-schools-rock-island-county/526-38c51f2a-1c5c-4ca0-98e0-77b22665eb8e)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/bf11ebe5-fc5c-4067-b4ca-b83907867daf/20240919T102844/bf11ebe5-fc5c-4067-b4ca-b83907867daf_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/bf11ebe5-fc5c-4067-b4ca-b83907867daf/20240919T102844/bf11ebe5-fc5c-4067-b4ca-b83907867daf_360x203.jpg)](https://www.wqad.com/article/news/local/outreach/pay-it-forward/sure-no-one-goes-hungry-in-cambridge/526-7b4d5757-d6d3-4d91-ae46-c35185f0058b)
+        
+        #### [Pay It Forward | Making sure no one goes hungry in Cambridge](https://www.wqad.com/article/news/local/outreach/pay-it-forward/sure-no-one-goes-hungry-in-cambridge/526-7b4d5757-d6d3-4d91-ae46-c35185f0058b)
         
     
 * [Weather](https://www.wqad.com/weather)
@@ -56,9 +59,9 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/09100e0b-9b56-440c-9495-2b1e3872fb00/20240918T223334/09100e0b-9b56-440c-9495-2b1e3872fb00_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/09100e0b-9b56-440c-9495-2b1e3872fb00/20240918T223334/09100e0b-9b56-440c-9495-2b1e3872fb00_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/ba2ecc3c-f265-46c5-96fe-956d25d10d5d/20240919T121322/ba2ecc3c-f265-46c5-96fe-956d25d10d5d_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/ba2ecc3c-f265-46c5-96fe-956d25d10d5d/20240919T121322/ba2ecc3c-f265-46c5-96fe-956d25d10d5d_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
-        #### [Few more days of summer warmth](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+        #### [Finally, showers and thunderstorms on track to arrive early Friday](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
     *  [![](https://media.tegna-media.com/assets/WQAD/images/daaebd14-c02f-4777-982b-67701e0d036f/20240918T134904/daaebd14-c02f-4777-982b-67701e0d036f_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/daaebd14-c02f-4777-982b-67701e0d036f/20240918T134904/daaebd14-c02f-4777-982b-67701e0d036f_360x203.jpg)](https://www.wqad.com/video/news/live_breaking/ask-andrew-live-episode-1/526-edcd839a-9189-4088-800e-a5cf184394ab)
         
@@ -86,9 +89,9 @@ Navigation
 
 Davenport, IA »
 
-64°
+83°
 
-![Clear](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
+![Sunny](/assets/shared-images/weather-icons/clear-day_210x210.png)
 
 Davenport, IA »](https://www.wqad.com/weather)
 
