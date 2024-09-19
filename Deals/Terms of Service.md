@@ -30,6 +30,12 @@ Light Dark
 
 * [Sign in](https://gg.deals/login/)
 
+![](https://img.gg.deals/91/95/eca013a85fcbac087ecb47e1ae52762f0e94_1272cr200_Q100.jpg)
+
+![](https://img.gg.deals/27/97/ee71c95b14611b0117fa243ef523c27db408_2560xt1440_Q100.jpg)
+
+[](https://gg.deals/us/redirect/0892f126ff9118906127758402e49b793ad40aa9/?utm_source=page%2Fpage)[](https://gg.deals/us/redirect/0892f126ff9118906127758402e49b793ad40aa9/?utm_source=page%2Fpage)[](https://gg.deals/us/redirect/0892f126ff9118906127758402e49b793ad40aa9/?utm_source=page%2Fpage)
+
 * [Home](https://gg.deals/) 
 * [Terms & conditions](https://gg.deals/terms/) 
 
