@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/hoofdartikelen/mysterieuze-krachten-van-piramide-structuren/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/gezondheid/corona-kwestie/singapore-geboortecijfer-keldert-meer-sterfgevallen-covid-gevaccineerden/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
