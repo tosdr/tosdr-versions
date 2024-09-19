@@ -133,6 +133,6 @@ These Terms will be governed by and construed in accordance with the laws of the
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-Good work, fine product and fine team.
+Excellent proxy service. The proxy was fast and reliable and i will subscribe again in the future Keep up the great work
 
-Dan Revell
+Timothy Barrable
