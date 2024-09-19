@@ -76,10 +76,6 @@ Search
 
 Search
 
-#### Breaking News
-
-[Fed slashes interest rates by half a percentage point](https://nypost.com/2024/09/18/business/fed-slashes-interest-rates-by-half-a-percentage-point-in-bid-to-avert-slowdown/)
-
 Privacy Notice Highlights
 =========================
 
