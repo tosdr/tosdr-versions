@@ -597,12 +597,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Riskante Gewinn­beteiligungen: Dubiose Deals auf Amazon](https://www.test.de/Riskante-Gewinnbeteiligungen-Dubiose-Deals-auf-Amazon-6081940-0/ "Riskante Gewinnbeteiligungen - Dubiose Deals auf Amazon")
-* [Fyshr AG: Dubioses Fischen nach Anlegergeld](https://www.test.de/Fyshr-AG-Dubioses-Fischen-nach-Anlegergeld-6123126-0/ "Fyshr AG - Dubioses Fischen nach Anlegergeld")
-* [Warn­liste: Abzo­ckern ausgeliefert](https://www.test.de/Warnliste-Abzockern-ausgeliefert-5968840-0/ "Warnliste - Abzockern ausgeliefert")
-* [Fritzbox als Netz­werk­speicher: Eine güns­tige NAS-Alternative mit Abstrichen](https://www.test.de/Fritzbox-als-Netzwerkspeicher-Eine-guenstige-NAS-Alternative-mit-Abstrichen-6137663-0/ "Fritzbox als Netzwerkspeicher - Eine günstige NAS-Alternative mit Abstrichen")
-* [Katzenkranken­versicherung im Test (12/2022): Kranken­versicherung für Katzen](https://www.test.de/Katzenkrankenversicherung-im-Test-122022-Krankenversicherung-fuer-Katzen-5935066-0/ "Katzenkrankenversicherung im Test (12/2022) - Krankenversicherung für Katzen")
-* [Ärger mit der Post­bank: Geld verschwunden, mieser Service – wie Post­bank-Kunden sich wehren können](https://www.test.de/Postbank-IT-Probleme-Kundenbeschwerden-6043637-0/ "Ärger mit der Postbank - Geld verschwunden, mieser Service – wie Postbank-Kunden sich wehren können")
+* [Auskunfteien: Mehr Trans­parenz beim Schufa-Score](https://www.test.de/Auskunfteien-Mehr-Transparenz-beim-Schufa-Score-5931152-0/ "Auskunfteien - Mehr Transparenz beim Schufa-Score")
+* [Laptop: 9 Tipps für ein langes Notebook-Leben](https://www.test.de/Laptop-9-Tipps-fuer-ein-langes-Notebook-Leben-5999514-0/ "Laptop - 9 Tipps für ein langes Notebook-Leben")
+* [Gut essen mit der Stiftung Warentest: Schnelle Fisch­suppe](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Schnelle-Fischsuppe-5980959-0/ "Gut essen mit der Stiftung Warentest - Schnelle Fischsuppe")
+* [Alternative zum Solarpanel: Sonnen­strom aus dem Dachziegel](https://www.test.de/Alternative-zum-Solarpanel-Sonnenstrom-aus-dem-Dachziegel-5936867-0/ "Alternative zum Solarpanel - Sonnenstrom aus dem Dachziegel")
+* [Strom­mess­geräte im Test: Diese Geräte entlarven Strom­fresser](https://www.test.de/Strommessgeraete-im-Test-1781202-0/ "Strommessgeräte im Test - Diese Geräte entlarven Stromfresser")
+* [Damen- und Herren-Jeans im Test: Auf die Mischung kommt es an](https://www.test.de/Damen-und-Herren-Jeans-im-Test-Auf-die-Mischung-kommt-es-an-6096908-0/ "Damen- und Herren-Jeans im Test - Auf die Mischung kommt es an")
 
 Fußbereich
 
@@ -2737,12 +2737,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Riskante Gewinn­beteiligungen: Dubiose Deals auf Amazon](https://www.test.de/Riskante-Gewinnbeteiligungen-Dubiose-Deals-auf-Amazon-6081940-0/ "Riskante Gewinnbeteiligungen - Dubiose Deals auf Amazon")
-* [Fyshr AG: Dubioses Fischen nach Anlegergeld](https://www.test.de/Fyshr-AG-Dubioses-Fischen-nach-Anlegergeld-6123126-0/ "Fyshr AG - Dubioses Fischen nach Anlegergeld")
-* [Warn­liste: Abzo­ckern ausgeliefert](https://www.test.de/Warnliste-Abzockern-ausgeliefert-5968840-0/ "Warnliste - Abzockern ausgeliefert")
-* [Fritzbox als Netz­werk­speicher: Eine güns­tige NAS-Alternative mit Abstrichen](https://www.test.de/Fritzbox-als-Netzwerkspeicher-Eine-guenstige-NAS-Alternative-mit-Abstrichen-6137663-0/ "Fritzbox als Netzwerkspeicher - Eine günstige NAS-Alternative mit Abstrichen")
-* [Katzenkranken­versicherung im Test (12/2022): Kranken­versicherung für Katzen](https://www.test.de/Katzenkrankenversicherung-im-Test-122022-Krankenversicherung-fuer-Katzen-5935066-0/ "Katzenkrankenversicherung im Test (12/2022) - Krankenversicherung für Katzen")
-* [Ärger mit der Post­bank: Geld verschwunden, mieser Service – wie Post­bank-Kunden sich wehren können](https://www.test.de/Postbank-IT-Probleme-Kundenbeschwerden-6043637-0/ "Ärger mit der Postbank - Geld verschwunden, mieser Service – wie Postbank-Kunden sich wehren können")
+* [Auskunfteien: Mehr Trans­parenz beim Schufa-Score](https://www.test.de/Auskunfteien-Mehr-Transparenz-beim-Schufa-Score-5931152-0/ "Auskunfteien - Mehr Transparenz beim Schufa-Score")
+* [Laptop: 9 Tipps für ein langes Notebook-Leben](https://www.test.de/Laptop-9-Tipps-fuer-ein-langes-Notebook-Leben-5999514-0/ "Laptop - 9 Tipps für ein langes Notebook-Leben")
+* [Gut essen mit der Stiftung Warentest: Schnelle Fisch­suppe](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Schnelle-Fischsuppe-5980959-0/ "Gut essen mit der Stiftung Warentest - Schnelle Fischsuppe")
+* [Alternative zum Solarpanel: Sonnen­strom aus dem Dachziegel](https://www.test.de/Alternative-zum-Solarpanel-Sonnenstrom-aus-dem-Dachziegel-5936867-0/ "Alternative zum Solarpanel - Sonnenstrom aus dem Dachziegel")
+* [Strom­mess­geräte im Test: Diese Geräte entlarven Strom­fresser](https://www.test.de/Strommessgeraete-im-Test-1781202-0/ "Strommessgeräte im Test - Diese Geräte entlarven Stromfresser")
+* [Damen- und Herren-Jeans im Test: Auf die Mischung kommt es an](https://www.test.de/Damen-und-Herren-Jeans-im-Test-Auf-die-Mischung-kommt-es-an-6096908-0/ "Damen- und Herren-Jeans im Test - Auf die Mischung kommt es an")
 
 Jetzt anmelden und 10% Rabatt auf die test.de-Flatrate im ersten Jahr erhalten!
 
@@ -2795,12 +2795,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Riskante Gewinn­beteiligungen: Dubiose Deals auf Amazon](https://www.test.de/Riskante-Gewinnbeteiligungen-Dubiose-Deals-auf-Amazon-6081940-0/ "Riskante Gewinnbeteiligungen - Dubiose Deals auf Amazon")
-* [Fyshr AG: Dubioses Fischen nach Anlegergeld](https://www.test.de/Fyshr-AG-Dubioses-Fischen-nach-Anlegergeld-6123126-0/ "Fyshr AG - Dubioses Fischen nach Anlegergeld")
-* [Warn­liste: Abzo­ckern ausgeliefert](https://www.test.de/Warnliste-Abzockern-ausgeliefert-5968840-0/ "Warnliste - Abzockern ausgeliefert")
-* [Fritzbox als Netz­werk­speicher: Eine güns­tige NAS-Alternative mit Abstrichen](https://www.test.de/Fritzbox-als-Netzwerkspeicher-Eine-guenstige-NAS-Alternative-mit-Abstrichen-6137663-0/ "Fritzbox als Netzwerkspeicher - Eine günstige NAS-Alternative mit Abstrichen")
-* [Katzenkranken­versicherung im Test (12/2022): Kranken­versicherung für Katzen](https://www.test.de/Katzenkrankenversicherung-im-Test-122022-Krankenversicherung-fuer-Katzen-5935066-0/ "Katzenkrankenversicherung im Test (12/2022) - Krankenversicherung für Katzen")
-* [Ärger mit der Post­bank: Geld verschwunden, mieser Service – wie Post­bank-Kunden sich wehren können](https://www.test.de/Postbank-IT-Probleme-Kundenbeschwerden-6043637-0/ "Ärger mit der Postbank - Geld verschwunden, mieser Service – wie Postbank-Kunden sich wehren können")
+* [Auskunfteien: Mehr Trans­parenz beim Schufa-Score](https://www.test.de/Auskunfteien-Mehr-Transparenz-beim-Schufa-Score-5931152-0/ "Auskunfteien - Mehr Transparenz beim Schufa-Score")
+* [Laptop: 9 Tipps für ein langes Notebook-Leben](https://www.test.de/Laptop-9-Tipps-fuer-ein-langes-Notebook-Leben-5999514-0/ "Laptop - 9 Tipps für ein langes Notebook-Leben")
+* [Gut essen mit der Stiftung Warentest: Schnelle Fisch­suppe](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Schnelle-Fischsuppe-5980959-0/ "Gut essen mit der Stiftung Warentest - Schnelle Fischsuppe")
+* [Alternative zum Solarpanel: Sonnen­strom aus dem Dachziegel](https://www.test.de/Alternative-zum-Solarpanel-Sonnenstrom-aus-dem-Dachziegel-5936867-0/ "Alternative zum Solarpanel - Sonnenstrom aus dem Dachziegel")
+* [Strom­mess­geräte im Test: Diese Geräte entlarven Strom­fresser](https://www.test.de/Strommessgeraete-im-Test-1781202-0/ "Strommessgeräte im Test - Diese Geräte entlarven Stromfresser")
+* [Damen- und Herren-Jeans im Test: Auf die Mischung kommt es an](https://www.test.de/Damen-und-Herren-Jeans-im-Test-Auf-die-Mischung-kommt-es-an-6096908-0/ "Damen- und Herren-Jeans im Test - Auf die Mischung kommt es an")
 
 Neueste Tests
 
@@ -2813,12 +2813,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Riskante Gewinn­beteiligungen: Dubiose Deals auf Amazon](https://www.test.de/Riskante-Gewinnbeteiligungen-Dubiose-Deals-auf-Amazon-6081940-0/ "Riskante Gewinnbeteiligungen - Dubiose Deals auf Amazon")
-* [Fyshr AG: Dubioses Fischen nach Anlegergeld](https://www.test.de/Fyshr-AG-Dubioses-Fischen-nach-Anlegergeld-6123126-0/ "Fyshr AG - Dubioses Fischen nach Anlegergeld")
-* [Warn­liste: Abzo­ckern ausgeliefert](https://www.test.de/Warnliste-Abzockern-ausgeliefert-5968840-0/ "Warnliste - Abzockern ausgeliefert")
-* [Fritzbox als Netz­werk­speicher: Eine güns­tige NAS-Alternative mit Abstrichen](https://www.test.de/Fritzbox-als-Netzwerkspeicher-Eine-guenstige-NAS-Alternative-mit-Abstrichen-6137663-0/ "Fritzbox als Netzwerkspeicher - Eine günstige NAS-Alternative mit Abstrichen")
-* [Katzenkranken­versicherung im Test (12/2022): Kranken­versicherung für Katzen](https://www.test.de/Katzenkrankenversicherung-im-Test-122022-Krankenversicherung-fuer-Katzen-5935066-0/ "Katzenkrankenversicherung im Test (12/2022) - Krankenversicherung für Katzen")
-* [Ärger mit der Post­bank: Geld verschwunden, mieser Service – wie Post­bank-Kunden sich wehren können](https://www.test.de/Postbank-IT-Probleme-Kundenbeschwerden-6043637-0/ "Ärger mit der Postbank - Geld verschwunden, mieser Service – wie Postbank-Kunden sich wehren können")
+* [Auskunfteien: Mehr Trans­parenz beim Schufa-Score](https://www.test.de/Auskunfteien-Mehr-Transparenz-beim-Schufa-Score-5931152-0/ "Auskunfteien - Mehr Transparenz beim Schufa-Score")
+* [Laptop: 9 Tipps für ein langes Notebook-Leben](https://www.test.de/Laptop-9-Tipps-fuer-ein-langes-Notebook-Leben-5999514-0/ "Laptop - 9 Tipps für ein langes Notebook-Leben")
+* [Gut essen mit der Stiftung Warentest: Schnelle Fisch­suppe](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Schnelle-Fischsuppe-5980959-0/ "Gut essen mit der Stiftung Warentest - Schnelle Fischsuppe")
+* [Alternative zum Solarpanel: Sonnen­strom aus dem Dachziegel](https://www.test.de/Alternative-zum-Solarpanel-Sonnenstrom-aus-dem-Dachziegel-5936867-0/ "Alternative zum Solarpanel - Sonnenstrom aus dem Dachziegel")
+* [Strom­mess­geräte im Test: Diese Geräte entlarven Strom­fresser](https://www.test.de/Strommessgeraete-im-Test-1781202-0/ "Strommessgeräte im Test - Diese Geräte entlarven Stromfresser")
+* [Damen- und Herren-Jeans im Test: Auf die Mischung kommt es an](https://www.test.de/Damen-und-Herren-Jeans-im-Test-Auf-die-Mischung-kommt-es-an-6096908-0/ "Damen- und Herren-Jeans im Test - Auf die Mischung kommt es an")
 
 Service Stiftung Warentest
 
