@@ -29,13 +29,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.kagstv.com/assets/KAGS/images/71e95dcb-0525-4400-ac28-5146120b2a8e/71e95dcb-0525-4400-ac28-5146120b2a8e_16x9.jpg) ![](https://media.kagstv.com/assets/KAGS/images/71e95dcb-0525-4400-ac28-5146120b2a8e/71e95dcb-0525-4400-ac28-5146120b2a8e_360x203.jpg)](https://www.kagstv.com/article/news/crime/bryan-high-school-student-arrested-after-being-found-with-weapon-sept-18-2024/500-6313e0cc-7ac2-40a4-a837-17076898e413)
+    *  [![](https://media.kagstv.com/assets/KHOU/images/cbbcc49b-08cb-4750-aaf7-2c9b551bde79/20240919T125741/cbbcc49b-08cb-4750-aaf7-2c9b551bde79_16x9.jpg) ![](https://media.kagstv.com/assets/KHOU/images/cbbcc49b-08cb-4750-aaf7-2c9b551bde79/20240919T125741/cbbcc49b-08cb-4750-aaf7-2c9b551bde79_360x203.jpg)](https://www.kagstv.com/article/news/local/pipeline-fire-car-crash-driver-deer-park-texas/285-2e5d05bc-f8a5-4a06-9a3f-6a570ad8f749)
         
-        #### [Student arrested after being found with gun at Bryan High School](https://www.kagstv.com/article/news/crime/bryan-high-school-student-arrested-after-being-found-with-weapon-sept-18-2024/500-6313e0cc-7ac2-40a4-a837-17076898e413)
+        #### [Human remains recovered from white SUV pulled from Deer Park pipeline fire, officials say | What we know so far](https://www.kagstv.com/article/news/local/pipeline-fire-car-crash-driver-deer-park-texas/285-2e5d05bc-f8a5-4a06-9a3f-6a570ad8f749)
         
-    *  [![](https://media.kagstv.com/assets/KCEN/images/1145194d-c267-4b43-bc57-feb05f3f58b1/1145194d-c267-4b43-bc57-feb05f3f58b1_16x9.jpg) ![](https://media.kagstv.com/assets/KCEN/images/1145194d-c267-4b43-bc57-feb05f3f58b1/1145194d-c267-4b43-bc57-feb05f3f58b1_360x203.jpg)](https://www.kagstv.com/article/news/crime/cameron-man-pleads-guilty-beating-7-year-old-daughter/500-f206756b-9ff3-4076-9d7e-2ea387db8053)
+    *  [![](https://media.kagstv.com/assets/KVUE/images/a551da2d-9d01-4fa3-bc6f-20d89f00fb00/20240919T005649/a551da2d-9d01-4fa3-bc6f-20d89f00fb00_16x9.jpg) ![](https://media.kagstv.com/assets/KVUE/images/a551da2d-9d01-4fa3-bc6f-20d89f00fb00/20240919T005649/a551da2d-9d01-4fa3-bc6f-20d89f00fb00_360x203.jpg)](https://www.kagstv.com/article/news/local/progressive-coverage-issues-texas-rising-weather-related-damage-reaction-from-homeowners/269-bf00c910-35e6-4926-ab86-a6027e83fb7d)
         
-        #### [Cameron man pleads guilty to 3rd degree felony for injuring a child](https://www.kagstv.com/article/news/crime/cameron-man-pleads-guilty-beating-7-year-old-daughter/500-f206756b-9ff3-4076-9d7e-2ea387db8053)
+        #### [Concerns after Progressive becomes latest insurance company to limit coverage in Texas](https://www.kagstv.com/article/news/local/progressive-coverage-issues-texas-rising-weather-related-damage-reaction-from-homeowners/269-bf00c910-35e6-4926-ab86-a6027e83fb7d)
         
     
 * [Weather](https://www.kagstv.com/weather/)
@@ -86,9 +86,9 @@ Navigation
 
 Bryan, TX »
 
-81°
+97°
 
-![Cloudy](/assets/shared-images/weather-icons/cloudy-day_210x210.png)
+![Sunny](/assets/shared-images/weather-icons/clear-day_210x210.png)
 
 Bryan, TX »](https://www.kagstv.com/weather)
 
