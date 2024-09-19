@@ -31,6 +31,386 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
+Sequía y manejo sostenible del agua en Ecuador
+==============================================
+
+La educación y el compromiso colectivo son claves para garantizar el uso responsable del agua y asegurar un futuro sostenible.
+------------------------------------------------------------------------------------------------------------------------------
+
+![Hace falta profundizar en una cultura de ahorro y eficiencia en el uso del agua. Foto: EFE](https://www.elcomercio.com/wp-content/uploads/2024/09/Diseno-sin-titulo-16-1.jpg)
+
+La sequía se ha convertido en un fenómeno alarmante que afecta Ecuador y a otros países de la región. El cambio climático y el crecimiento demográfico agravan sus efectos. La escasez de agua impacta la agricultura y la ganadería, dos sectores fundamentales de nuestra economía, y también amenaza el acceso al agua potable y la generación de energía eléctrica, generando una crisis de recursos vitales.
+
+En Quito, la situación ilustra estos retos de manera clara. En la parroquia de [San Antonio de Pichincha](https://www.elcomercio.com/videos/san-antonio-de-pichincha-entre-sequia-y-lluvias.html "https://www.elcomercio.com/videos/san-antonio-de-pichincha-entre-sequia-y-lluvias.html"), el aumento demográfico incrementa la demanda de agua, lo que afecta los ciclos agrícolas y obliga a muchos habitantes a enfrentar racionamientos.
+
+Al otro extremo está [Lloa](https://www.elcomercio.com/videos/los-cambios-de-clima-pusieron-a-prueba-a-lloa.html "https://www.elcomercio.com/videos/los-cambios-de-clima-pusieron-a-prueba-a-lloa.html"), una parroquia vecina, que se ha caracterizado por lluvias constantes, que han provocado desbordamientos de ríos y derrumbes de tierra. Sin embargo, ahora Lloa también enfrenta la sequía, lo que resalta la complejidad del cambio climático en la región.
+
+Ante este panorama, necesitamos tomar conciencia sobre el uso inteligente y racional del agua, ya sea que estamos en una zona árida o lluviosa.
+
+La población debe adoptar prácticas que minimicen el desperdicio. Como individuos es indispensable crear hábitos básicos como usar un vaso al lavarse los dientes o regar las plantas en horarios nocturnos para reducir la evaporación.
+
+Además, hace falta promover tecnologías que optimicen la gestión del agua, como sistemas de recolección de aguas pluviales y contadores inteligentes que detecten fugas. Esto se vuelve esencial.
+
+El futuro del acceso al agua en Ecuador depende de nuestra capacidad para adaptarnos a estos desafíos. Las proyecciones indican que las sequías se intensificarán en los próximos años. Por eso, resulta indispensable una planificación estratégica que aborde tanto la conservación del recurso como su uso responsable. El compromiso colectivo se convierte en clave: desde los hogares hasta las industrias, todos debemos participar en la preservación de este recurso vital.
+
+> La educación y la concientización juegan un papel fundamental en la creación de una cultura de ahorro y eficiencia en el uso del agua.
+
+Si no actuamos con rapidez y responsabilidad, enfrentaremos consecuencias devastadoras no solo para el medio ambiente, sino también para nuestra seguridad alimentaria y calidad de vida. Solo con una visión a largo plazo garantizaremos un futuro sostenible para las próximas generaciones.
+
+Las experiencias de San Antonio de Pichincha y Lloa nos recuerdan que el manejo del agua no es un problema aislado. Requiere un enfoque integral y colaborativo. Es hora de actuar y proteger nuestro recurso más preciado.
+
+Los derechos asertivos
+======================
+
+El Ecuador necesita un liderazgo asertivo, plural y abierto a las diferentes corrientes del pensamiento.
+--------------------------------------------------------------------------------------------------------
+
+![Fausto Segovia Baus, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Fausto-Segovia-Baus.jpg)
+
+**Los derechos asertivos no constan en la Declaración Universal de los Derechos Humanos,** pero lo estarán en un futuro próximo.
+
+La asertividad es un estilo de comunicación que permite expresar opiniones y hacerse respetar sin ser agresivo. **Es una habilidad social que implica respetar los derechos de los demás y expresar pensamientos y sentimientos de forma honesta, directa y correcta.**
+
+La palabra asertividad tiene su origen en el vocablo **aseverar** que, según el diccionario de la Real Academia Española, significa: **“Declarar o afirmar positivamente, con seguridad y sencillez lo que yo siento, pienso y quiero”,** por lo que la conducta asertiva consiste, básicamente, en la expresión adecuada de cualquier emoción que no sea la ansiedad contra otras personas, convirtiéndose en el arte de relacionarse con los demás.
+
+**Ser positivos, ver lo bueno de los demás y expresar sentimientos con respeto y dignidad es posible.** No consta todavía en la lista de contravenciones para declarar para pagar impuestos. Para ello no hay recetas; empero, los especialistas identifican tres estrategias asertivas: 1) **firmeza**, es decir, asumir posiciones sin amenazas, menosprecios ni injurias; 2) **sensibilidad**, que corresponde a promover empatía = ponerse en el lugar de las otras personas; y 3) **racionalidad**, con argumentos capaces de persuadir. **Y no olvidarse del sentido común.**
+
+El **primer paso es reconocer que las diferencias existen entre las personas,** y constituyen motivos reales para aprender y mejorar. Los conflictos, en este sentido, no son buenos ni malos; son necesarios para entendernos y actuar en consecuencia. ¡Discrepar con respeto es saludable! **Por algo, la asertividad es el núcleo central de un nuevo tipo de liderazgo**, que implicaría los siguientes **derechos,** consubstanciales a **deberes** correlativos:
+
+**.** Tener **derecho a ser mi propio juez y valorar mi conducta**; a asumir una actitud propia y genuina, **con tal de no lastimar a otra persona**; a mostrar mi dignidad, aunque podría disgustar a alguien; **a ser tratado con respeto y dignidad**; **a sostener y expresar sentimientos y opiniones.**
+
+**.** También **el derecho a ser escuchado y tomado en serio**; **a juzgar mis necesidades, establecer prioridades y tomar decisiones.**
+
+**. Tener el derecho a decir “no” sin sentir culpa.** El derecho a pedir lo que deseo, dándome cuenta de que también mi interlocutor tiene derecho a decir “no” con sus razones. **El derecho a cambiar, y cumplir los deberes con responsabilidad.**
+
+**. ¡Mi principal deber es respetar los derechos de los demás! ¡La garantía de los derechos corresponde a las responsabilidades!**
+
+**El Ecuador necesita un liderazgo asertivo, plural y abierto** a las diferentes corrientes del pensamiento**.** **La asertividad no soporta el pensamiento único**, porque el derecho asertivo está instalado en los deberes humanos y en el bien común.
+
+**El mayor valor de la asertividad es la confianza**, en sí mismo, en los demás, la familia y la comunidad. **¡La confianza en el país debemos construirla con la verdad, la justicia ciega y la democracia de participación!**
+
+Cartas a Quito / 19 de septiembre de 2024
+=========================================
+
+Estas son las cartas a Quito de este jueves 19 de septiembre de 2024
+--------------------------------------------------------------------
+
+![Cartas a Quito. Foto: Archivo / EL COMERCIO](https://www.elcomercio.com/wp-content/uploads/2024/04/CARTAS-A-QUITO-1.jpg)
+
+Las cárceles, centros de rehabilitación
+---------------------------------------
+
+El Levantamiento de información de Personas Privadas de la Libertad es una investigación orientada a proporcionar a los diseñadores de política pública y demás actores especializados, datos relevantes sobre los principales resultados ejecutados en los Centros de Privación de Libertad a nivel nacional como parte de la estrategia de pacificación, humanización y dignificación del Sistema Nacional de Rehabilitación Social. Partiendo de esta premisa hay muchas preguntas, interrogantes que se hace la persona común, ¿son Centros de Rehabilitación?  ¿Cuál es el objetivo de un encierro?
+
+Se supone que se le debe dar una mejor condición de vida que la que ha venido teniendo la mayoría de los detenidos, ya sea por la falta de educación, de oportunidades, por el medio en el que le toco vivir, por maltratos de sus propios progenitores.  Son largas las posibilidades que hace a una persona que tome un  camino equivocado y que solo busca subsistir o cubrir su vicio. Hay sus excepciones de aquellos que su placer es matar por instinto. Esos deberían tener que ser separados de por vida.
+
+En Ecuador estamos hablando que es lo mismo el que mata, roba, extorsiona, que  el que comete una falta doméstica, el que no pago la pensión alimenticia, accidente y muerte de tránsito, o un robo pequeño.  Y las condiciones de afinamiento permiten el abuso de ciertas agrupaciones que, para sobrevivir, dentro de las cárceles, obligan a someterse a un pago o cumplir  un juramento de honor.
+
+Adicional, la justicia tiene en sus propias leyes los argumentos necesarios para que quien entra a un centro de rehabilitación salga al menor tiempo, ya sea por habeas corpus o porque el informe  no se presenta. O, simplemente  porque la balanza se deja caer en donde está más pesada. Dicen que muchas veces  se legisla con base en lo que hay. De ahí aquel dicho popular  “que la cárcel es para los de poncho”. La injusta justicia es la que prevalece en el pensamiento de la mayoría.
+
+Entonces, ¿de qué nos valen cárceles más amplias para albergar a más delincuentes?  Está bien para evitar el hacinamiento. Pero el objetivo principal, sacar a la sociedad a personas renovadas y útiles que no vuelvan a seguir en el vicio o se haya rehabilitado.  No, no hay una política de estado que permita que eso suceda. Peor que  evite que las consecuencias de sus errores sean porque no hay control, oportunidades, porque no  hay educación para todos, fallas de oportunidades, fallas del sistema. Es muy difícil abarcar una solución. Peor aún, si nos entramos en el mundo de la droga. Pero debemos todos los ecuatorianos  aportar para que este mal sea cada vez menos recurrente.  El Estado busca ocupar  esa mano de obra desocupada en que produzcan en centros de producción exportable. Pueden contar con centros de elaboración de uniformes, para los diferentes organismos del estado mismo, de producción de infinidad de productos. Crear pequeños y grandes centros de trabajo donde puedan utilizar sus habilidades y reciban una rentabilidad, restando el costo de su mantenimiento, para que se motiven y cuando salgan tengan sus recursos y una profesión para defenderse en la vida.  Eso por decir algo. La maquila tiene mano de obra barata. En fin, ser creativos en vez de reprimir, prepararlos, educarlos, cada día darles un poco de autoestima, lo que la sociedad y el Estado no pudo darles. Habrá muchos a los cuales no les interesaría, pero habrá otros que sí y sean calificados para que desarrollen sus habilidades La separación de los presos es algo de lógica y de administración verdadera. Necesitamos profesionales incorruptos que permita cumplir con estos anhelos de la gran mayoría de los ecuatorianos que estamos cansados de gobiernos que no han logrado cumplir, erradicar la corrupción que se maneja el sistema carcelario en el país.
+
+Lionel Efraín Romero Reyes
+
+Jueza tomó medidas contra tripulantes de semisumergible con droga
+=================================================================
+
+Dos tripulantes del semisumergible con droga eran de nacionalidad colombiana y un ecuatoriano.
+----------------------------------------------------------------------------------------------
+
+![El semisumergible con droga iba con tres tripulantes.](https://www.elcomercio.com/wp-content/uploads/2024/09/Diseno-sin-titulo-21-1.jpg)
+
+Una jueza de Garantías Penales tomó medidas contra los tripulantes del semisumergible con droga, encontrado por la Armada en alta mar[.](https://es.wikipedia.org/wiki/Armada_del_Ecuador)
+
+Dos tripulantes de la embarcación son de nacionalidad colombiana y uno es ecuatoriano.
+
+### Más noticias:
+
+* [Armada encontró semisumergible con droga ¿Cuántos detenidos deja la operación?](https://www.elcomercio.com/actualidad/seguridad/armada-encontro-semisumergible-droga-detenidos.html "Armada encontró semisumergible con droga ¿Cuántos detenidos deja la operación?")
+* [Alias ‘Boris’, considerado el ‘zar de las drogas’, fue sentenciado](https://www.elcomercio.com/actualidad/seguridad/alias-boris-sentencia-delito.html "Alias ‘Boris’, considerado el ‘zar de las drogas’, fue sentenciado")
+
+El lunes 16 de septiembre, las **Fuerzas Armadas (FF.AA.)**, a través de la Armada del Ecuador, encontraron un sumergible en alta mar.
+
+Se logró durante operaciones de vigilancia marítima con el empleo de unidades aeronavales y guardacostas.
+
+En el semisumergible estaban tres tripulantes: dos de nacionalidad colombiana y una de nacionalidad ecuatoriana.
+
+La embarcación, técnicamente definida como “de bajo perfil LPV”, transportaba 203 bultos de presuntas sustancias catalogadas sujetas a fiscalización (SSF).
+
+Esto es cerca de **cuatro toneladas** de droga.
+
+La institución militar ubicó a la embarcación en la Zona Económica Exclusiva ecuatoriana, a 178 millas náuticas al sur de **San Cristóbal**.
+
+La Armada puso a buen recaudo a los detenidos y la evidencia para, luego, entregarlos a las autoridades correspondientes.
+
+Este decomiso representa una millonaria cantidad de dólares que dejan de percibir los grupos criminales transnacionales, afectando directamente a sus finanzas.
+
+Medidas contra tripulantes de semisumergible con droga
+------------------------------------------------------
+
+Una jueza de Garantías Penales dictó medidas contra los tres tripulantes del semisumergible con droga.
+
+La medida para los tres fue la prisión preventiva.
+
+La jueza ordenó su traslado al Centro de Privación de Libertad de Personas Adultas en Conflicto con la Ley, en Jipijapa, Manabí.
+
+La Fiscalía procesa a los tres tripulantes por el delito de tráfico ilícito de sustancias.
+
+La solución para los cortes de luz del Ecuador es la geotermia, ¿de qué se trata?
+=================================================================================
+
+El Gobierno aplica soluciones para aminorar los cortes de luz, mientras que la geotermia se proyecta como la solución a largo plazo.
+------------------------------------------------------------------------------------------------------------------------------------
+
+![El Proyecto Geotérmico Chachimbiro está ubicado en la provincia de Imbabura, cantón Urcuquí. Foto: Celec](https://www.elcomercio.com/wp-content/uploads/2024/09/chachimbiro.jpg)
+
+**Ecuador** atraviesa por una grave crisis energética, que deriva en cortes de luz, que ha obligado a programar cortes de luz en todo el país. Las razones son varias, entre ellas, la **sequía** y el déficit de 1 080 megavatios (MW)[.](https://es.wikipedia.org/wiki/Geotermia "https://es.wikipedia.org/wiki/Geotermia")
+
+### Más noticias
+
+* [Sequía afecta a hidroeléctricas y obliga a cortes de luz, ¿qué se espera?](https://www.elcomercio.com/actualidad/ecuador/sequia-afecta-hidroelectricas-cortes-luz.html "Sequía afecta a hidroeléctricas y obliga a cortes de luz, ¿qué se espera?")
+* [Ecuador busca incorporar nueva barcaza de generación eléctrica para evitar cortes de luz](https://www.elcomercio.com/actualidad/negocios/ecuador-busca-incorporar-nueva-barcaza-de-generacion-electrica-para-evitar-cortes-de-luz.html "Ecuador busca incorporar nueva barcaza de generación eléctrica para evitar cortes de luz")
+* [Gobierno plantea que ciudadanía ahorre energía para evitar cortes de luz](https://www.elcomercio.com/actualidad/negocios/usuarios-ahorro-consumo-luz-ecuador-multa-planilla.html "Gobierno plantea que ciudadanía ahorre energía para evitar cortes de luz")
+
+El Gobierno de **Daniel Noboa** toma medidas aceleradas para solventar la falta de energía, como el alquiler de **barcazas de generación de energía flotante**, la compra de equipos de generación en tierra y mantenimiento de termoeléctricas. Sin embargo, el ministro de **Energía**, **Antonio Goncalves**, reconoció que estas soluciones no son definitivas[.](https://es.wikipedia.org/wiki/Geotermia "https://es.wikipedia.org/wiki/Geotermia")
+
+“La solución a largo plazo para el Ecuador es la **geotermia**“, señaló **Goncalves**, la mañana de este miércoles 18 de septiembre del 2024, en un conversatorio radial.
+
+¿Qué es la geotermia?
+---------------------
+
+La **geotermia** es una fuente de **energía renovable**. Esta se obtiene del calor acumulado en el interior de la Tierra, tanto del núcleo terrestre como del proceso de descomposición de **elementos radiactivos** en las capas profundas del planeta. Este recurso se puede aprovechar para generar electricidad.
+
+La extracción de **energía geotérmica** se realiza mediante **perforaciones profunda**s, alcanzando hasta varios kilómetros bajo la superficie, donde se encuentran agua o vapor a altas temperaturas. Esto se canaliza para hacer girar turbinas en **plantas geotérmicas**, y se produce electricidad de manera constante y sin interrupciones. Otras energías renovables, como la solar o la eólica, dependen de las condiciones climáticas.
+
+Potencial geotérmico para solventar la crisis energética
+--------------------------------------------------------
+
+De **energía geotérmica** se viene hablando desde hace más de una década en el Ecuador. De hecho, existe el Plan de Desarrollo Geotérmico, que data del 2010.
+
+Este documento señala que Ecuador tiene un potencial bruto de alrededor de 1 000 MW. Con **22 prospectos**, de los cuales 11 son de alta entalpía (generación de electricidad).
+
+Los principales prospectos estudiados en el país son: **Chachimbiro** (50 MW) ubicado en Imbabura, **Chacana Jamanco** (15 MW) y **Chacana Cachiyacu** (45 MW) en Napo, **Tufiño-Chiles-Cerro Negro** (100 MW), localizado en la frontera Ecuador – Colombia y **Baños de Cuenca** (10 MW) en Azuay.
+
+En 2019, la Corporación Eléctrica del Ecuador (CELEC EP) empezó la fase de desarrollo de la planta geotérmica **Chachimbiro.** Tuvo un presupuesto de 70 millones de dólares, en esta fase, se debía realizar el montaje de una planta de cinco megavatios, a boca pozo, en el 2022. Pero hasta el momento no se logrado este objetivo.
+
+Ecuador, al estar situado en el **Cinturón de Fuego del Pacífico**, posee un enorme potencial geotérmico, especialmente en zonas volcánicas**.** A pesar de contar con esta ventaja natural, el país no ha aprovechado este recurso.
+
+Matriz energética
+-----------------
+
+La matriz energética del Ecuador está dominada por la **hidroeléctrica (71%)** y la térmica en la que se utilizan **combustibles fósiles** (26%). Solo un 3,6% de la energía proviene de la generación no convencional como: eólica, fotovoltaica y otras.
+
+Según estudios recientes, la energía geotérmica podría convertirse en una opción viable para reducir la dependencia de fuentes fósiles, al mismo tiempo que disminuye la **huella de carbono del país.**
+
+Así, la **geotermia** se presenta como una solución a **largo plazo**, entre 4 o 5 años, para el Ecuador, que tiene tanto la necesidad como el potencial de adoptar nuevas tecnologías limpias y así garantizar su seguridad energética.
+
+Sospechoso fue abatido mientras asaltaba a un conductor, en Guayaquil
+=====================================================================
+
+Los policías hicieron uso legítimo de la fuerza luego que el hombre les apuntó con un arma de fuego.
+----------------------------------------------------------------------------------------------------
+
+![El presunto delincuente quedó tendido sobre la vía](https://www.elcomercio.com/wp-content/uploads/2024/09/ceibos-abatido.jpg)
+
+Un hombre fue **abatido** por la Policía Nacional este miércoles 18 de septiembre de 2024.
+
+El hecho ocurrió mientras se realizaba una persecución en la avenida del Bombero, en el sector de Los Ceibos, noroeste de **Guayaquil**.
+
+### Más noticias
+
+* [Policía aclara recomendación sobre el uso de silbatos para los apagones](https://www.elcomercio.com/actualidad/seguridad/policia-recomendacion-silbatos-uso-apagon.html "Policía aclara recomendación sobre el uso de silbatos para los apagones")
+* [Ecuador tiene déficit de policías por número de habitantes](https://www.elcomercio.com/actualidad/seguridad/ecuador-deficit-policias-numero-habitantes.html "Ecuador tiene déficit de policías por número de habitantes")
+* [Policía Nacional captura a nueve presuntos integrantes de Los Lobos](https://www.elcomercio.com/actualidad/seguridad/policia-nacional-captura-a-nueve-presuntos-integrantes-de-los-lobos.html "Policía Nacional captura a nueve presuntos integrantes de Los Lobos")
+
+Según detalló la Policía, los uniformados realizaban un patrullaje en el sector cuando observaron que **dos desconocidos** en motocicleta asaltaban a un ciudadano.
+
+Uno de los hombres aprovechó la luz roja de un semáforo para bajarse del vehículo y amedrentar a un conductor con un **arma de fuego**.
+
+Los gendarmes actuaron de inmediato y se acercaron al lugar. Los sospechosos, al verlos, ignoraron la orden de que se detengan y **trataron de huir**.
+
+Quien iba en la moto lo consiguió, sin embargo, el desconocido que corría se giró y **apuntó con una pistola** a los policías.
+
+Policía hizo uso legítimo de la fuerza
+--------------------------------------
+
+Los uniformados dispararon contra el presunto delincuente haciendo **uso legítimo de la fuerza**.
+
+De acuerdo a la ley, las autoridades del orden tiene el derecho a defenderse cuando detectan una **amenaza real** de peligro.
+
+**Criminalística** acudió al sitio para levantar el cuerpo del sospechoso que quedó tendido en media calzada.
+
+Sospechoso tenía antecedentes
+-----------------------------
+
+Las primeras investigaciones reflejaron que **Bryan Jimmy Z. B.** registraba antecedentes penales en 2018 y 2024.
+
+Se presume que el individuo pertenecía a una **banda criminal** dedicada a varios delitos.
+
+Entre ellos: fabricación, comercialización y tenencia de armas de fuego, municiones y explosivos; así como **extorsión**.
+
+Sobre el hecho, el coronel **Henry Ponce**, jefe del Distrito Florida, manifestó: “La Policía trabaja por la seguridad de todos, el mensaje es claro para la delincuencia, se actuará con toda la firmeza si el caso lo amerita”.
+
+Leonardo Campana es el máximo goleador histórico del Inter Miami
+================================================================
+
+Leonardo Campana llegó a 30 goles y se transformó en el goleador histórico del Inter Miami de la MLS.
+-----------------------------------------------------------------------------------------------------
+
+![Leonardo Campana con el Inter Miami en la temporada 2023.](https://www.elcomercio.com/wp-content/uploads/2024/09/campana_gol_1.jpg)
+
+El 18 de septiembre de 2024 será recordada como la fecha en la que **Leonardo Campana** se convirtió en el máximo goleador histórico en toda la historia del Inter Miami, cuadro de la Major League Soccer (MLS).
+
+El tanto de Leonardo Campana se registró en el **Mercedes-Benz Stadium** en la fecha 29 en la que el Inter Miami empató 2-2 en su visita al Atlanta United, campeón de la MLS en el 2018.
+
+### Más noticias:
+
+* [Joel Ordóñez y el Brujas caen goleados por Borussia Dortmund en Champions](https://www.elcomercio.com/deportes/brujas-champions-joel-ordonez-borussia.html "Joel Ordóñez y el Brujas caen goleados por Borussia Dortmund en Champions")
+* [(Video) Hincha fue a su última radioterapia con los colores de Barcelona Sporting Club](https://www.elcomercio.com/deportes/futbol/hincha-barcelona-radioterapia-guayaquil-solca.html "(Video) Hincha fue a su última radioterapia con los colores de Barcelona Sporting Club")
+* [¿Se enfrentarán los ecuatorianos en la Champions League?](https://www.elcomercio.com/deportes/futbol/se-enfrentaran-los-ecuatorianos-en-la-champions-league.html "¿Se enfrentarán los ecuatorianos en la Champions League?")
+
+El tanto de **Campana llegó a los 59 minutos para poner el 1-2 en favor del Inter**. Su remate se desvió en un defensor que dejó al experimentado y veterano arquero Brad Guzan sin opciones de rechazarlo.
+
+El guayaquileños salió a una de las esquinas de la cancha y recibió la felicitación de sus compañeros que lo abrazaron y felicitaron por el tanto y por el récord personal que acababa de conseguir.
+
+“¡Con 30 goles a su nombre, L**eo Campana se convierte en nuestro máximo goleador** de todos los tiempos!”, fue el mensaje que el Inter Miami colgó en sus cuentas oficiales de redes sociales para reconocer lo conseguido por el delantero.
+
+El campeón con la Selección de Ecuador en el Campeonato Sudamericano de 2019 en Chile superó al argentino Gonzalo Higuaín que se quedó en 29 y ostentaba este reconocimiento.
+
+En partido **finalmente terminó empatado 2-2 y las ‘Garzas’** siguen como líderes de la Conferencia Este con 63 puntos. Su campaña se resume en 19 victorias, seis empates y tan solo cuatro derrotas.
+
+El segundo lugar le corresponde a Cincinnati que tiene 55. El podio se completa con Columbus Crew que tiene 53 y un partido menos.
+
+Lionel Messi arrancó en el banco y tuvo acción desde el minuto 61, mientras que Campana vio la tarjeta amarilla a los 78 y fue sustituido por Luis Suárez a los 80.
+
+> Zurdazo de Campana para darnos la ventaja 🔥 [pic.twitter.com/Pei4Gk3XPq](https://t.co/Pei4Gk3XPq)
+> 
+> — Inter Miami CF (@InterMiamiCF) [September 19, 2024](https://twitter.com/InterMiamiCF/status/1836571857400582264?ref_src=twsrc%5Etfw)
+
+Leonardo Campana y sus goles
+----------------------------
+
+Según Transfermarkt desde el 2022, año de su debut, le anotó ante DC United (5), Columbus (4), New England (3), Atlanta (3), **Orlando (2), Cincinnati (2), Kansas City (2)**, Austin, Miami FC, Portland, Dallas, Los Ángeles, Montréal, Vancouver y Tigres.
+
+De sus 30 tantos, tres fueron de penal, **cinco con remate con la pierna derecha**, nueve con golpe de cabeza y 13 con la pierna izquierda.
+
+La producción goleadora del delantero de 23 año ha sido sostenida. **En 2022 marcó 12 tantos**, en 2023 hizo 11, y en lo que va la temporada 2024 lleva siete.
+
+Problemas físicos y la **contratación del uruguayo Luis Suárez**, no lo han dejado tener la continuidad deseada.
+
+Su presencia en el equipo titular de Gerardo Martino ha ido de menos a más, pero aun así, su presencia en la red rival no se ha esfumado.
+
+Campana llegó al Inter Miami desde el Grasshoppers de Suiza. Antes estuvo en el F. C. Famalicão de Portugal, **[Wolverhampton Wanderers F. C. de Inglaterra](https://www.elcomercio.com/deportes/futbol/leonardo-campana-cambio-look-inter-miam.html)** y Barcelona SC de Ecuador, donde debutó en 2019, tras haber anotado cuatro goles.
+
+Goleadores históricos del Inter Miami
+-------------------------------------
+
+1. Leonardo Campana: 30 goles
+2. Gonzalo Higuaín: 29
+3. Lionel Messi: 27
+4. Luis Suárez: 21
+5. Robert Taylor: 17
+6. [Josef Martínez](https://es.wikipedia.org/wiki/Inter_de_Miami): 12
+
+> With 30 goals to his name, Leo Campana becomes our all-time leading goalscorer! ✍️🇪🇨 [pic.twitter.com/6UDm2sySxN](https://t.co/6UDm2sySxN)
+> 
+> — Inter Miami CF (@InterMiamiCF) [September 19, 2024](https://twitter.com/InterMiamiCF/status/1836582527856783737?ref_src=twsrc%5Etfw)
+
+No te pierdas – El Confesionario
+--------------------------------
+
+Municipio de Quito lanza un visualizador de siniestros de tránsito
+==================================================================
+
+Varias autoridades de Quito estuvieron presentes en el lanzamiento del visualizador de velocidad.
+-------------------------------------------------------------------------------------------------
+
+![El visualizador de siniestralidad fue presentado el 18 de septiembre de 2024.](https://www.elcomercio.com/wp-content/uploads/2024/09/Siniestro-visualizador.jpg)
+
+El **Municipio** de **Quito** lanzó una nueva herramienta para **visualizar siniestros** de **tránsito**, llamada Quito Data Vial, este miércoles 18 de septiembre de 2024[.](https://es.wikipedia.org/wiki/Accidente_de_tr%C3%A1nsito "https://es.wikipedia.org/wiki/Accidente_de_tr%C3%A1nsito")
+
+Más noticias
+------------
+
+* [Quito tendrá un visualizador de siniestros de tránsito](https://www.elcomercio.com/actualidad/quito/siniestros-transito-visualizador-amt-plataforma.html "Quito tendrá un visualizador de siniestros de tránsito")
+* [Postes de luz derribados en siniestros de tránsito aumentan en Quito](https://www.elcomercio.com/actualidad/negocios/postes-luz-derribados-siniestros-accidentes-incrementan-quito.html "Postes de luz derribados en siniestros de tránsito aumentan en Quito")
+* [En Quito, los siniestros de tránsito provocan más muertes que los crímenes violentos](https://www.elcomercio.com/actualidad/quito/en-quito-los-siniestros-de-transito-provocan-mas-muertes-que-los-crimenes-violentos.html "En Quito, los siniestros de tránsito provocan más muertes que los crímenes violentos")
+
+Esta herramienta fue desarrollada en cooperación entre el **Municipio** de **Quito** y **Bloomberg Philanthropies**, y fue presentada en el **Centro de Gestión de la Movilidad de Quito.**
+
+¿Cómo es el nuevo visualizador de siniestros de tránsito de Quito?
+------------------------------------------------------------------
+
+El **visualizador** permitirá al **Municipio** tomar decisiones basadas en evidencia para optimizar el uso de los recursos. **Jimena Romero**, gerente regional de seguridad vial de Bloomberg, destacó que esta herramienta ayudará a ser más eficientes en la **gestión vial**.
+
+Además, Álex Pérez, secretario de **Movilidad**, explicó que la plataforma permitirá tomar decisiones de **política** **pública** con datos históricos y actualizados. Esto proporcionará una “radiografía” de la **realidad vial en Quito**, permitiendo ajustes como cambios en los ciclos **semafóricos** para mejorar la seguridad de los peatones.
+
+El visualizador ofrece cifras generales, perfiles de víctimas, horarios de siniestros de tránsito, mapas y comparaciones entre los años 2023 y 2024.
+
+¿Para qué servirá el visualizador?
+----------------------------------
+
+El alcalde de Quito, **Pabel Muñoz**, señaló que esta herramienta será fundamental para planificar los **operativos** de **control** de **tránsito**.
+
+Además, facilitará la difusión de estadísticas en los **medios** de **comunicación**. Para ello, el Municipio organizará un **taller para periodistas** donde se explicará el funcionamiento de la herramienta y cómo consultar los datos.
+
+Actualmente, la plataforma incluye información del cuarto anuario de **seguridad** **vial** proporcionado por **Bloomberg** a Quito.
+
+¿Dónde estará disponible la herramienta?
+----------------------------------------
+
+La herramienta estará disponible en las plataformas de la **Agencia** **Metropolitana** de **Tránsito** de Quito (AMT) y de la **Secretaría** de **Movilidad** de la ciudad.
+
+Zamora Jaguars más cerca de la final de la Liga Básquet Pro
+===========================================================
+
+Zamora Jaguars necesita ganar un partido más para clasificarse a las finales de la Liga Básquet Pro ante Jorge Guzmán.
+----------------------------------------------------------------------------------------------------------------------
+
+![Imagen de archivo de Jugadores de Zamora Jaguars en la temporada 2024.](https://www.elcomercio.com/wp-content/uploads/2024/09/zamora_semifinal_2.jpg)
+
+**Zamora Jaguars** dio un nuevo paso para llegar a las finales de la Liga Básquet Pro 2024 de Ecuador, al ganarle a Liga de Quito por 85-69 en el tercer partido de los play-off de semifinales.
+
+La noche de este miércoles 18 de septiembre, Zamora Jaguars hizo respetar el **Coliseo Mayor de Deportes de Zamora** y doblegó a Liga de Quito para adelantarse en la serie por 2-1 y poner todo a su favor para lo que viene.
+
+### Más noticias:
+
+* [Jorge Guzmán clasificó a la final de la Liga Básquet Pro](https://www.elcomercio.com/deportes/baloncesto/jorge-guzman-finalista-liga-basquet.html "Jorge Guzmán clasificó a la final de la Liga Básquet Pro")
+* [Willian Pacho debutó en la Champions League con el PSG](https://www.elcomercio.com/deportes/futbol/willian-pacho-debut-champions-league.html "Willian Pacho debutó en la Champions League con el PSG")
+* [Brighton y Pervis Estupiñán avanzan de ronda en la Carabao Cup](https://www.elcomercio.com/deportes/futbol/brighton-pervis-estupinan-avanzan-de-ronda-carabao-cup.html "Brighton y Pervis Estupiñán avanzan de ronda en la Carabao Cup")
+
+Los dos primeros **encuentros se jugaron en el Coliseo Julio César Hidalgo de Quito.** El primero lo ganaron los locales por 85-83; mientras que en el segundo la victoria fue para los visitantes por 90-94. 
+
+Los zamoranos están volcados en apoyar a su equipo en esta **instancia decisiva y llenaron por completo las instalaciones del Coliseo** con un previa en la que primó el optimismo con la puesta en escena de un show que estuvo comandado por Jaggy, la mascota oficial del club.
+
+El juego de luces robóticas, la música, una pantalla gigante y la **algarabía de los cerca de 2 000 hinchas presentes** en el referido escenario, dieron el preámbulo para el espectáculo que luego se vivió en la cancha entre los dos quintetos.
+
+El bullicio fue más estruendoso cuando los jugadores locales saltaron a hacer los trabajo previos de calentamiento, **con un reconocimiento especial para el argentino Franco Borsellino**, el jugador más destacado de los amazónicos.
+
+Zamora Jaguars dominó y ganó
+----------------------------
+
+Zamora Jaguars **impuso sus condiciones desde el primer cuarto** y se llevó el partido de manera cómoda con un cierre arrollador para el final 85-69.
+
+Agotado el tiempo los jugadores festejaron y el público invadió la cancha para celebrar junto a ellos este nuevo paso para las finales que cada vez parecen más cercanas.
+
+“Necesitamos cerrar la serie el viernes en nuestra casa o el lunes. **Gracias a todos por el apoyo**“, declaró a Radio Z un emocionado Nicolás Tilloy, entrenador argentino de 33 años que se hizo cargo del equipo desde agosto, en reemplazo del italiano Daniele Aniello.
+
+El **viernes 20 de septiembre se jugará el cuarto partido** que puede ser definitivo e histórico para las aspiraciones de ambos quintetos, puesto que es la primera vez que intervienen en la Liga Básquet Pro.
+
+Desde las 20:30, Zamora Jaguars volverá a ser local ante Liga de Quito en el Coliseo Mayor de Deportes de Zamora.
+
+Para los locales llegar a la final puede ser histórico al ser el único representante de la región amazónica en este torneo que tuvo inscritos a 12 equipos repartidos en 11 ciudades a escala nacional.
+
+La final se jugará al mejor de siete partidos. **En esa instancia ya está instalado Jorge Guzmán de Loja**, campeón de la edición 2022 y el favorito para volver a llevarse la corona nuevamente en este año.
+
+![Foto: Cortesía.](https://www.elcomercio.com/wp-content/uploads/2024/09/zamora_semifinal_1-1024x683.jpg)
+
+Foto: Cortesía.
+
+No te pierdas – El Confesionario
+--------------------------------
+
 Inés Manzano, ministra de Ambiente, liderará el COE Nacional
 ============================================================
 
@@ -553,422 +933,4 @@ Para **comprobar si tu dispositivo está certificado**, sigue estos pasos sencil
 
 * Toca el ícono de menú en la parte superior izquierda y selecciona **“Play Protect2″**.  
 
-Allí podrás verificar el estado de la **certificación de tu dispositivo**. Si tu **Android TV Box** no está certificado, es aconsejable **evitar su uso para aplicaciones que manejen datos personales o financieros**, ya que esto podría comprometer tu seguridad. 
-
-¿Se enfrentarán los ecuatorianos en la Champions League?
-========================================================
-
-Por primera vez en la historia, la Uefa Champions League contará con cuatro ecuatorianos. 
-------------------------------------------------------------------------------------------
-
-![Piero Hincapié jugará su segunda Uefa Champions League.](https://www.elcomercio.com/wp-content/uploads/2024/09/ENDRICK-PALMEIRAS-2024-09-18T170011.366.jpg)
-
-Es una gran época para ser ecuatoriano, especialmente si eres aficionado al fútbol, ya que en esta edición de la **Uefa Champions League**, el torneo de clubes más prestigioso del mundo, habrá cuatro jugadores ecuatorianos.
-
-Esto refleja el **buen momento del fútbol ecuatoriano** y de sus jugadores, quienes están en constante crecimiento y ahora forman parte de la competición más importante, con algunos representando a clubes grandes e históricos.
-
-### Más noticias:
-
-* [Ángelo Preciado debutó con victoria en la Champions League](https://www.elcomercio.com/deportes/futbol/angelo-preciado-debuto-con-victoria-en-la-champions-league.html "Ángelo Preciado debutó con victoria en la Champions League")
-* [Joel Ordóñez y el Brujas caen goleados por Borussia Dortmund en Champions](https://www.elcomercio.com/deportes/brujas-champions-joel-ordonez-borussia.html "Joel Ordóñez y el Brujas caen goleados por Borussia Dortmund en Champions")
-* [Willian Pacho debutó en la Champions League con el PSG](https://www.elcomercio.com/deportes/futbol/willian-pacho-debut-champions-league.html "Willian Pacho debutó en la Champions League con el PSG")
-
-De los cuatro representantes **ecuatorianos**, tres harán su debut en el torneo, mientras que uno ya cuenta con experiencia en esta competición.
-
-Ecuatorianos en Champions League
---------------------------------
-
-El primero es **Piero Hincapié**, consolidado como una de las principales figuras del Bayer Leverkusen. Esta será su segunda participación en la **Champions League**, con su equipo considerado uno de los candidatos a destacar en el torneo.
-
-Le sigue **Willian Pacho**, quien se unió al **París Saint-Germain** esta temporada, uno de los clubes más prestigiosos a nivel mundial. Para el defensor, será su primera experiencia en la competición.
-
-Completan el grupo de ecuatorianos **Ángelo Preciado y Joel Ordóñez**, quienes, aunque juegan en equipos de menor perfil. Preciado jugará para el Sparta Praga de República Checa, mientras que Ordóñez lo hará con el Club Brujas de Bélgica, ambos debutando en la Champions League esta temporada.
-
-¿Se cruzarán los ecuatorianos de Champions?
--------------------------------------------
-
-En esta edición de la **Champions League**, solo habrá un cruce entre ecuatorianos, correspondiente a la última jornada de la fase de liga del torneo.
-
-Los protagonistas serán P**iero Hincapié y Ángelo Preciado**, quienes se enfrentarán en el partido entre Bayer Leverkusen y Sparta Praga, el 29 de enero de 2025, en el BayArena, a las 14:00 (hora de Ecuador).
-
-Israel dice que la guerra entra en ‘una nueva fase’
-===================================================
-
-Israel no reconoció oficialmente la autoría de las explosiones en Líbano, algo habitual en estos casos.
--------------------------------------------------------------------------------------------------------
-
-![Soldados del ejército libanés se preparan para hacer estallar un dispositivo de comunicación en el estacionamiento del Centro Médico de la Universidad Americana de Beirut.](https://www.elcomercio.com/wp-content/uploads/2024/09/Libano-militares-efe.jpg)
-
-La milicia chií de Hizbulá sufrió este miércoles 18 de septiembre de 2024, una segunda oleada de **explosiones simultáneas** en **aparatos inalámbricos de comunicación,** con un saldo total de 26 fallecidos. Esto, mientras el Gobierno israelí que lidera Benjamín Netanyahu da por hecho que la guerra entró en una “nueva fase” y prepara a su Ejército en el norte con planes de “ataque y defensa”.
-
-### Más noticias
-
-* [Suben a 14 los fallecidos y a 450 los heridos por nuevas explosiones en el Líbano](https://www.elcomercio.com/actualidad/mundo/suben-los-fallecidos-450-heridos-nuevas-explosiones-libano.html "Suben a 14 los fallecidos y a 450 los heridos por nuevas explosiones en el Líbano")
-* [Explosión de aparatos de Hizbulá causa nueve muertos y 2 800 heridos en Líbano](https://www.elcomercio.com/actualidad/mundo/explosion-buscapersonas-hizbula-9-muertos-2-800-heridos-libano.html "Explosión de aparatos de Hizbulá causa nueve muertos y 2 800 heridos en Líbano")
-* [Al menos un fallecido y 100 heridos en nueva oleada de explosiones en Líbano](https://www.elcomercio.com/actualidad/mundo/menos-fallecido-100-heridos-nueva-oleada-explosiones-libano.html "Al menos un fallecido y 100 heridos en nueva oleada de explosiones en Líbano")
-
-Los incidentes sin precedentes de las últimas 24 horas volvieron a disparar los **miedos al estallido** de una guerra abierta en el Líbano, contra el que Israel ya intensificó su retórica en los días anteriores, insistiendo en la necesidad de acabar con la presencia de Hizbulá en la frontera.
-
-Este miércoles, y por segundo día consecutivo, volvieron a registrarse en **diferentes puntos del Líbano** numerosas explosiones que esta vez afectaron sobre todo a **aparatos de radio como “walkie-talkies”**, a diferencia de los buscapersonas atacados el día anterior.
-
-La **Defensa Civil libanesa** informó en un comunicado de que sus equipos participaron en la extinción de incendios desencadenados en **decenas de inmuebles y vehículos a causa de las detonaciones** de “aparatos inalámbricos y lectores de huellas dactilares”, que causaron sólo hoy 14 muertos, que se suman a los 12 registrados el martes, en cifras todavía provisionales.
-
-Además el ministro de Salud Pública libanés, Firas Abiad, afirmó en rueda de prensa que cerca de 300 personas heridas en las explosiones del martes se encuentran en **estado crítico**, mientras que cerca de 460 han sido sometidos a cirugías principalmente en las manos.
-
-El titular recordó que entre esas **primeras víctimas también hay** civiles, incluidos dos niños que perdieron la vida.
-
-Poco después de los ataques registrados este miércoles, el primer ministro israelí, Benjamín Netanyahu, aseguró que que Israel devolverá “a los **residentes del norte a sus hogares**“, en sus primeras declaraciones desde que comenzó la oleada de explosiones.
-
-“Ya he dicho que devolveremos a los **residentes del norte (de Israel)** a salvo a sus hogares, y eso es exactamente lo que haremos”, dijo Netanyahu en un breve mensaje de vídeo.
-
-En la noche del lunes, las autoridades israelíes decidieron incluir oficialmente en los objetivos de la guerra el regreso de los **60 000 residentes desplazados** a sus hogares en el norte del país.
-
-Poco antes de que la oficina de Netanyahu publicase el breve vídeo, el ministro de Defensa israelí, Yoav Gallant, ya había avisado en una visita a las tropas de la fuerza aérea que el país se dirige a una “nueva fase” de la guerra en Gaza, a medida que despliega más fuerzas y recursos en la frontera con Líbano.
-
-“Creo que estamos a las puertas de una **nueva fase en esta guerra,** y necesitamos adaptarnos”, dijo el ministro.
-
-Por su parte, el jefe del Estado Mayor del Ejército israelí, Herzi Halevi, mantuvo hoy una reunión con el responsable del **Comando Norte y** aprobó **“planes de ataque y defensa”** en el norte, en plena escalada de la tensión, informaron las fuerzas armadas en un comunicado.
-
-“Tenemos muchas capacidades **que todavía no hemos activado**“, aseguró el responsable, quien añadió que “en cada fase, las dos próximas fases ya están preparadas, y en cada fase el precio para Hizbulá debería ser alto”.
-
-Israel no reconoció oficialmente la autoría de las **explosiones en Líbano,** algo habitual en estos casos, pero el grupo libanés ya avisó que tomará represalias.
-
-Este jueves está previsto que el líder de**l grupo chií libanés Hizbulá, Hasán Nasrala**, pronuncie su primer discurso tras los ataques de esto dos días, que Hizbulá atribuye a los servicios secretos de Israel. 
-
-Daniel Noboa integra cámaras de los GAD al Ecu-911, ¿cómo funcionará?
-=====================================================================
-
-Daniel Noboa ordena que las cámaras de videovigilancia de los GAD pasen al control del Ecu-911 para mejorar la seguridad pública.
----------------------------------------------------------------------------------------------------------------------------------
-
-![El presidente Daniel Noboa en el Palacio de Carondelet.](https://www.elcomercio.com/wp-content/uploads/2024/09/dani-noboa.png)
-
-El 18 de septiembre de 2024, la **Secretaría General de Comunicación de la Presidencia** emitió un comunicado oficial informando sobre una nueva disposición de **Daniel Noboa**.
-
-Mediante un Decreto Ejecutivo, ordenó que las cámaras de videovigilancia de los **Gobiernos Autónomos Descentralizados (GAD)** pasen a ser controladas y gestionadas por el Servicio Integrado de Seguridad Ecu-911.
-
-### Más noticias
-
-* [Daniel Noboa inauguró un centro de estudios en edificio de la Unasur](https://www.elcomercio.com/actualidad/quito/daniel-noboa-inauguro-centro-estudios-edificio-unasur.html "Daniel Noboa inauguró un centro de estudios en edificio de la Unasur")
-* [Propuesta de Daniel Noboa sobre bases militares extranjeras debe seguir varios pasos](https://www.elcomercio.com/actualidad/politica/propuesta-daniel-noboa-bases-militares-extranjeras.html "Propuesta de Daniel Noboa sobre bases militares extranjeras debe seguir varios pasos")
-* [Daniel Noboa pide control constitucional sobre bases extranjeras a la CC](https://www.elcomercio.com/actualidad/politica/daniel-noboa-pide-control-constitucional-tema-bases-extranjeras-cc.html "Daniel Noboa pide control constitucional sobre bases extranjeras a la CC")
-
-La medida tiene como objetivo principal regular y articular los sistemas y plataformas tecnológicas de videovigilancia entre los **GAD y el Ecu 911**.
-
-> A la ciudadanía: [pic.twitter.com/NZEDkW8DSn](https://t.co/NZEDkW8DSn)
-> 
-> — Presidencia Ecuador 🇪🇨 (@Presidencia\_Ec) [September 18, 2024](https://twitter.com/Presidencia_Ec/status/1836516590193676684?ref_src=twsrc%5Etfw)
-
-Con este cambio, se busca mejorar la **coordinación en materia de seguridad ciudadana**. Según el comunicado, se asegurará que el **intercambio de datos personales en los sistemas de información** entre las entidades seccionales y el Ecu 911 se maneje con altos estándares de protección.
-
-Puntos clave en la coordinación local de la disposición de Daniel Noboa
------------------------------------------------------------------------
-
-Uno de los puntos clave de esta nueva política es la mejora en la coordinación entre las autoridades locales y el Ecu-911. El decreto establece que los datos se manejarán de **manera segura y eficiente**, lo que permitirá una mayor capacidad de respuesta ante emergencias y situaciones de seguridad pública.
-
-Además, se informó que el Ecu-911 implementará un sistema de **videovigilancia en tiempo real**. Este contará con herramientas avanzadas como el reconocimiento facial y de placas vehiculares. Estas tecnologías se utilizarán para labores de seguridad y prevención de delitos, lo que representa un avance en la infraestructura de seguridad del país.
-
-El comunicado subraya que esta decisión tiene el **propósito de mejorar la coordinación entre las entidades seccionales y el sistema de seguridad nacional**. Esto garantizará un manejo adecuado de los datos y un fortalecimiento de la protección a la ciudadanía.
-
-Cortes de luz para Guayaquil estos 18 y 19 de septiembre. Estos son los horarios
-================================================================================
-
-Los cortes de luz para Guayaquil son diferenciados y tienen una duración de una hasta tres horas, según el sector.
-------------------------------------------------------------------------------------------------------------------
-
-![Los cortes de luz en Guayaquil serán diferenciados y hasta de tres horas.](https://www.elcomercio.com/wp-content/uploads/2024/04/cortes-luz-quito-20-abril.jpg)
-
-La **Corporación Nacional de Electricidad (CNEL)** publicó los horarios de los cortes de luz para **Guayaquil**, este miércoles 18 y jueves 19 de septiembre de 2024[.](https://es.wikipedia.org/wiki/Guayaquil)
-
-Según este cronograma, la urbe porteña tendrá cortes de luz diferenciados, de acuerdo a cada sector.
-
-### Más noticias:
-
-* [Conozca el cronograma de cortes de luz para este 18 de septiembre de 2024](https://www.elcomercio.com/actualidad/negocios/conozca-el-cronograma-de-cortes-de-luz-para-este-18-de-septiembre-de-2024.html "Conozca el cronograma de cortes de luz para este 18 de septiembre de 2024")
-* [Así será el cronograma para los cortes de luz este 18 de septiembre, en Quito](https://www.elcomercio.com/actualidad/quito/cronograma-para-cortes-de-luz-18-septiembre-quito.html "Así será el cronograma para los cortes de luz este 18 de septiembre, en Quito")
-
-El Gobierno de Daniel Noboa estableció un cronograma de cortes de luz para todo el país.
-
-Al inicio se conoció que los cortes serían de ocho horas; pero, este miércoles, las autoridades aclararon que durarán menos y serán diferenciados.
-
-El Gobierno justifica la medida de cortes de luz en el **estiaje**, el más fuerte en más de 61 años del país.
-
-Por seguridad, miles de militares y policías estarán en las calles y también existirá **toque de queda** para algunas provincias y el cantón Camilo Ponce Enríquez, en Azuay.
-
-Sobre los servicios públicos, el **Ministerio de Trabajo** emitió un comunicado señalando que, pese al teletrabajo, estará garantizada la atención en servicios básicos, de salud, transporte, emergencias, riesgos y otros.
-
-Otras entidades como la **Fiscalía General del Estado y el Consejo de la Judicatura** también han señalado que los servicios ciudadanos estarán disponibles.
-
-En cuanto a **las clases**, el Ministerio de educación hizo cambios en los horarios de ingreso a clases para estos días de cortes de energía.
-
-Disposiciones que también regirán para los cuatro días de la próxima semana que también existirán cortes de luz en todo el país.
-
-Los cortes de luz en Guayaquil y los horarios por sector
---------------------------------------------------------
-
-El cronograma establece que los cortes de luz tendrán una duración **desde una hasta tres horas**, dependiendo del sector.
-
-Los cortes van de 22:00 a 00:00 horas, de 00:00 a 01:00, de 00:00 a 03:00 y el último de 03:00 a 06:00.
-
-A continuación, los horarios por sectores:
-
-(Video) Hincha fue a su última radioterapia con los colores de Barcelona Sporting Club
-======================================================================================
-
-Un hincha se volvió viral en TikTok por ir a su última sesión sesión de radioterapia vestido con los colores de su club.
-------------------------------------------------------------------------------------------------------------------------
-
-![Imagen referencia de hinchas de Barcelona Sporting Club en el estadio Monumental.](https://www.elcomercio.com/wp-content/uploads/2024/09/hincha_bsc_1.jpg)
-
-El amor de un hincha por los **colores de su equipo puede llegar a ser infinito** y ser el apoyo emocional que necesita en cualquier momento y circunstancia de vida. 
-
-Esto quedó evidenciado en **Guayaquil con un hincha de Barcelona Sporting Club**, que acudió a su última sesión de radioterapia en las instalaciones de SOLCA vestido completamente con los colores de los canarios.
-
-### Más noticias:
-
-* [La Copa América Femenina 2025 se jugará en Ecuador](https://www.elcomercio.com/deportes/copa-america/copa-america2025-ecuador-sede-conmebol.html "La Copa América Femenina 2025 se jugará en Ecuador")
-* [Barcelona Sporting Club tiene 17 juveniles en el primer plantel](https://www.elcomercio.com/deportes/futbol/barcelona-sporting-club-juveniles-nombres.html "Barcelona Sporting Club tiene 17 juveniles en el primer plantel")
-* [Deportivo Quito tiene un largo camino para volver a la Serie B](https://www.elcomercio.com/deportes/futbol/deportivo-quito-ascenso-nacional-fechas.html "Deportivo Quito tiene un largo camino para volver a la Serie B")
-
-Gorro, camiseta, pantalón corto, **zapatos deportivos, gafas, mascarilla y mochila** alusivos a Barcelona SC fue el atuendo que Don Bajaña, como lo identificaron en redes sociales, llegó para vivir un día especial. 
-
-Otro de los detalles que resaltó es la frase: “pasión que supera cualquier barrera”, que se lee en la parte frontal de una mochila que tiene el escudo del club guayaquileño, el más ganador del torneo local con 16 trofeos. 
-
-La usuaria B**etty Alvear fue la que colgó en su cuenta de TikTok** el video de Don Bajaña que rápidamente se hizo viral y alcanzó más de 45 000 corazones y 1 300 mensajes en menos de 24 horas de ser publicado. 
-
-“**Hoy es mi última radio**”, fue el mensaje escrito en un letrero que le fue entregado por el personal médico de SOLCA a Don Bajaña, que lo mostró para inmortalizar el momento. 
-
-Los aplausos no se hicieron esperar en este momento que estremeció a más de uno en la sala del hospital y que se conoció gracias a la difusión en redes sociales. 
-
-Los comentarios de **apoyo en redes sociales llegaron uno tras otro e hicieron un llamado** para que Barcelona SC lo invite a uno de los partidos en el estadio Monumental.
-
-El siguiente partido de los toreros en Guayaquil será en la octava fecha ante Deportivo Cuenca. Será el sábado 21 de septiembre, desde las 19:00.
-
-> [@ttiliz](https://www.tiktok.com/@ttiliz?refer=embed "@ttiliz") 🥹❤️ [#hoy](https://www.tiktok.com/tag/hoy?refer=embed "hoy") [#undia](https://www.tiktok.com/tag/undia?refer=embed "undia") [#especial](https://www.tiktok.com/tag/especial?refer=embed "especial") [#fypシ](https://www.tiktok.com/tag/fyp%E3%82%B7?refer=embed "fypシ") [#viral](https://www.tiktok.com/tag/viral?refer=embed "viral") [#foryou](https://www.tiktok.com/tag/foryou?refer=embed "foryou") [#fyppppppppppppppppppppppp](https://www.tiktok.com/tag/fyppppppppppppppppppppppp?refer=embed "fyppppppppppppppppppppppp") [#fyp](https://www.tiktok.com/tag/fyp?refer=embed "fyp") [#bsc](https://www.tiktok.com/tag/bsc?refer=embed "bsc") [#barcelonista](https://www.tiktok.com/tag/barcelonista?refer=embed "barcelonista") [#porsiempre](https://www.tiktok.com/tag/porsiempre?refer=embed "porsiempre") [#hastaelfinal](https://www.tiktok.com/tag/hastaelfinal?refer=embed "hastaelfinal") [#vida](https://www.tiktok.com/tag/vida?refer=embed "vida") [#undiaalavez](https://www.tiktok.com/tag/undiaalavez?refer=embed "undiaalavez") [♬ Hoy – Valentino Merlo & The La Planta](https://www.tiktok.com/music/Hoy-7371173172407879697?refer=embed "♬ Hoy - Valentino Merlo & The La Planta")
-
-Octavio Rivero y su recha goleadora
------------------------------------
-
-La séptima fecha de la Liga Pro tuvo la particularidad que tres jugadores anotaron dobletes, entre ellos el delantero de Barcelona Sporting Club, Octavio Rivero.
-
-Rivero, que fuera **contratado por Barcelona de manera urgente** y sobre el arranque de la segunda fase tras la inesperada salida del argentino Francisco Fydriszewski, ha convertido seis goles en igual número de partidos.
-
-El doblete de **Rivero sirvió en esta fecha para que Barcelona ganara 2-1 a Macará** y, con 12 puntos, quedara a 3 del primer puesto de Liga de Quito.
-
-Rivero también **está a un tanto del máximo goleador de la segunda fase**, el ecuatoriano Miguel Parrales, que tiene 7 anotaciones con la camiseta del Orense.
-
-El otro doblete estuvo a **cargo del argentino Luca Klimowicz**, en la goleada 4-0 del Imbabura, rompieron la racha perfecta de Liga de Quito que iba con cinco victorias consecutivas en esta segunda fase al mando del técnico argentino Pablo ‘Vitamina’ Sánchez.
-
-Klimowicz, de 20 años, **llegó para la segunda fase al Imbabura y rápidamente** se convirtió en uno de los atacantes de mayor proyección ofensiva, pues además de anotar ante Liga de Quito, también hizo un gol a Barcelona y otro -de los mejores del torneo- al Cumbayá.
-
-El colombiano **Jeison Medina, que había anotado 11 goles en la primera fase con el Aucas**, para la segunda se vinculó al Independiente del Valle, con el que se reencontró con el arco al convertir los dos goles para el triunfo 2-1 sobre el Emelec.
-
-![Foto: Facebook del club.](https://www.elcomercio.com/wp-content/uploads/2024/09/hincha_bsc_2-1024x683.jpg)
-
-Foto: Facebook del club.
-
-No te pierdas – El Confesionario
---------------------------------
-
-Joel Ordóñez y el Brujas caen goleados por Borussia Dortmund en Champions
-=========================================================================
-
-El Brujas de Joel Ordóñez se midió ante el Borussia Dortmund y sufrió una goleada en los minutos finales de su estreno en Champions.
-------------------------------------------------------------------------------------------------------------------------------------
-
-![Joel Ordóñez durante el calentamiento del Brujas ante el Borussia Dortmund.](https://www.elcomercio.com/wp-content/uploads/2024/09/Diseno-sin-titulo-2024-09-18T155103.825.jpg)
-
-El **Brujas** arrancó su camino en la UEFA Champions League de forma aparatosa al perder por una goleada de 3-0 ante el Borussia Dortmund. **Joel Ordóñez** partió como titular en el estreno de su equipo dentro del certamen y se mantuvo los 90 minutos.
-
-Con el nuevo formato de la **Champions**, el equipo de Bélgica fue emparejado en su primer compromiso con la escuadra alemana. A su vez, el sorteo dirimió que, en aquel compromiso, el plantel negriazul reciba al **Borussia** en casa.
-
-### Más noticias:
-
-* [Willian Pacho debutó en la Champions League con el PSG](https://www.elcomercio.com/deportes/futbol/willian-pacho-debut-champions-league.html "Willian Pacho debutó en la Champions League con el PSG")
-* [Ángelo Preciado debutó con victoria en la Champions League](https://www.elcomercio.com/deportes/futbol/angelo-preciado-debuto-con-victoria-en-la-champions-league.html "Ángelo Preciado debutó con victoria en la Champions League")
-* [Ángelo Preciado debuta como titular en la Champions League](https://www.elcomercio.com/deportes/futbol/angelo-preciado-debuta-como-tituar-champions-league.html "Ángelo Preciado debuta como tituar en la Champions League")
-
-En el compromiso, en un inicio, el equipo de **Joel Ordóñez** se mostró sólido y con el espíritu de llevarse los tres puntos. Pese a que hizo un buen papel y parecía cumplir el objetivo de por lo menos hacerse con un punto, aquello resultó inútil en el **segundo tiempo**.
-
-La derrota, sin embargo, no luce tan perjudicial para **el Brujas ni Ordóñez** debido a la nueva modalidad de la Champions. El conjunto belga aún cuenta con siete partidos por disputar, tres más en casa y cuatro de visita[.](https://en.wikipedia.org/wiki/UEFA_Champions_League "https://en.wikipedia.org/wiki/UEFA_Champions_League")
-
-Para clasificar a octavos de final, el plantel del ecuatoriano debe ubicarse entre los ocho mejores de la tabla. De no hacerlo, si termina entre el **puesto 9 o 24**, irá a un repechaje para definir su paso a la siguiente ronda.
-
-Joel Ordóñez y el Brujas tuvieron un sobrio primer tiempo
----------------------------------------------------------
-
-Con la localía a su favor, el **Brujas** supo asentarse y acoplarse al ritmo de su rival durante el cotejo. Pese a las constantes intenciones de ataque del **Borussia**, estas no le representaban mayo peligro en su pórtico.
-
-El cuadro negriazul, inclusive, llegó a generar acciones de peligro frente al plantel de **Alemania**. La más clara fue un mano a mano que se lo llevó el arquero rival y que, tras el rebote, se estrelló en el travesaño en un nuevo remate.
-
-**Joel Ordóñez** se mantenía firme y jugaba con la motivación de ser uno de los cuatro ecuatorianos que están en **Champions**. A su vez, a sus 21 años, su participación lo convirtió en el segundo tricolor más joven en jugar en el torneo.
-
-La goleada del Borussia cayó al final
--------------------------------------
-
-Aunque todo parecía controlado, las arremetidas del Borussia Dortmund eran cada vez más constantes. A los 76′, **Jamie Bynoe-Gittens**, que había ingresado desde el banco de suplentes, apareció.
-
-El **futbolista británico** recibió el balón a un costado del área y este golpeó en un jugador. Tras aquella acción, el balón terminó en el fondo de las redes.
-
-**Bynoe-Gittens** volvió a aparecer y puso su doblete tras adentrarse con gambetas. Finalmente, Serhou Guirassy selló la goleada tras un penal.
-
-Daniel Noboa inauguró un centro de estudios en edificio de la Unasur
-====================================================================
-
-La edificación ubicada en el noroccidente de Quito permaneció sin uso durante años.
------------------------------------------------------------------------------------
-
-![Estudiantes durante el evento de inauguración del CMI](https://www.elcomercio.com/wp-content/uploads/2024/09/unasur-edificio.jpg)
-
-El presidente de Ecuador, **Daniel Noboa**, inauguró la primera fase del **Centro Múltiple de Institutos** (CMI), que funcionará en el edificio que perteneció a la Unión de Naciones Suramericanas (**Unasur**).
-
-Este evento se realizó la mañana de este miércoles 18 de septiembre de 2024, en las instalaciones ubicadas en el sector de la **Mitad del Mundo**, en el noroccidente de **Quito**.
-
-### Más noticias
-
-* [Propuesta de Daniel Noboa sobre bases militares extranjeras debe seguir varios pasos](https://www.elcomercio.com/actualidad/politica/propuesta-daniel-noboa-bases-militares-extranjeras.html "Propuesta de Daniel Noboa sobre bases militares extranjeras debe seguir varios pasos")
-* [Trabajos en vía que une Manabí con Santa Elena comenzaron](https://www.elcomercio.com/actualidad/ecuador/via-manabi-santa-elena-rehabilitacion.html "Trabajos en vía que une Manabí con Santa Elena comenzaron")
-* [Un intercambiador vial se construirá en el norte de Quito](https://www.elcomercio.com/actualidad/quito/intercambiador-mariana-jesus-avenida-occidental-construccion.html "Un intercambiador vial se construirá en el norte de Quito")
-
-El 8 de agosto, el jefe de Estado dispuso el uso de esta edificación para la Secretaría de Educación Superior, Ciencia, Tecnología e Innovación (**Senescyt**), a través del Decreto Ejecutivo 352.
-
-Según detalló el Gobierno, en este lugar se ofrecerá una amplia **oferta académica**, además de capacitaciones y talleres.
-
-En su intervención, Noboa detalló que en la primera fase se recibirán estudiantes de primeros años para el **Conservatorio Superior Nacional de Música** y otros tres institutos superiores.
-
-“Como lo dijimos, les damos instalaciones de primer nivel; oportunidades, cupos. La meta del gobierno es que ustedes tengan poder de decisión y beneficio con el uso de todos los activos del Estado”, comentó el mandatario.
-
-El Presidente calificó al edificio de la Unasur, que estuvo abandonado por varios años, como una “**representación del fracaso de una ideología**“.
-
-Por otra parte, **César Vázquez**, titular de la Senescyt, explicó que en esta etapa alrededor de **800 estudiantes** y 100 docentes se beneficiarán de las instalaciones del Centro.
-
-Los alumnos recibirán educación superior pública y formación técnica y tecnológica a través de **varias carreras**, entre ellas: educación inicial, gastronomía, turismo.
-
-> ¡Cumplimos con la Juventud! 👏🏼🇪🇨  
->   
-> En Quito, el presidente [@DanielNoboaOk](https://twitter.com/DanielNoboaOk?ref_src=twsrc%5Etfw) constató la implementación de la primera fase del Centro Múltiple de Institutos (CMI), un proyecto innovador que marca un hito en la transformación educativa del país.  
->   
-> Con una inversión de USD 8 millones… [pic.twitter.com/fmr6mc6JU4](https://t.co/fmr6mc6JU4)
-> 
-> — Presidencia Ecuador 🇪🇨 (@Presidencia\_Ec) [September 18, 2024](https://twitter.com/Presidencia_Ec/status/1836473094984098292?ref_src=twsrc%5Etfw)
-
-Edificio de la Unasur
----------------------
-
-El edificio destinado para la Unasur, en sus inicios, llevó el nombre de **Néstor Kirchner**, fallecido expresidente de Argentina.
-
-Su construcción finalizó en diciembre de 2014 y su creador fue el arquitecto ecuatoriano **Diego Guayasamín**.
-
-La inversión de la edificación de 20 000 metros cuadrados superó los **43 millones de dólares**.
-
-Esta obra del correísmo tuvo fuertes críticas debido a que permaneció abandonada desde **2020**, año en el que Ecuador formalizó su salida del organismo.
-
-En el lugar había una estatua de bronce de Kirchner, la cual fue retirada.
-
-En junio de 2023, el Gobierno de **Guillermo Lasso** buscó convertirlo en un centro de biodiversidad, dirigido por el Ministerio de Ambiente, pero el proyecto no se consolidó.
-
-Caso Metástasis, defensa de vinculados objeta acusaciones de Fiscalía y Procuraduría
-====================================================================================
-
-Con la presencia telemática de la fiscal Diana Salazar, se reinstala audiencia por presunta delincuencia organizada en el caso Metástasis.
-------------------------------------------------------------------------------------------------------------------------------------------
-
-![Defensa de los acusados en el caso Metástasis.](https://www.elcomercio.com/wp-content/uploads/2024/09/metastasissisis.png)
-
-Este miércoles 18 de septiembre, se retomó la audiencia preparatoria de juicio del **caso Metástasis**, con la intervención de la defensa de **Fabián Gilmar C. B., alias Yanke**. Acusado por la Fiscalía como uno de los 37 implicados en el delito de **delincuencia organizada**.
-
-Se le señala como uno de los **cuatro líderes de la organización criminal** liderada por el narcotraficante Leandro Norero.
-
-### Más noticias
-
-* [Caso Metástasis: Fiscalía hizo un pedido a la CNJ sobre los 37 procesados](https://www.elcomercio.com/actualidad/seguridad/caso-metastasis-fiscalia-hizo-pedido-cnj-37-procesados.html "Caso Metástasis: Fiscalía hizo un pedido a la CNJ sobre los 37 procesados")
-* [Fiscalía expone cómo operaba Leandro Norero en el caso Metástasis](https://www.elcomercio.com/actualidad/seguridad/fiscalia-expone-como-operaba-leandro-norero-caso-metastasis.html "Fiscalía expone cómo operaba Leandro Norero en el caso Metástasis")
-* [Metástasis: la descomposición del sistema judicial](https://www.elcomercio.com/opinion/editorial/metastasis-la-descomposicion-del-sistema-judicial.html "Metástasis: la descomposición del sistema judicial")
-
-Inicialmente, la audiencia había sido programada para las 10:30, pero fue pospuesta hasta las 13:30 debido a conflictos en la agenda del conjuez Manuel Cabrera.
-
-La fiscal general **Diana Salazar** asistió a la audiencia de manera virtual, mientras que pocos abogados estuvieron presentes en la sala del octavo piso de la **Corte Nacional de Justicia (CNJ)**. La mayoría de las defensas optaron por participar de **manera telemática**. Aunque el dictamen acusatorio fue presentado por el fiscal general subrogante, Wilson Toainga, Salazar intervino en esta sesión de forma remota.
-
-Según la Procuraduría General del Estado, los **37 acusados** podrían enfrentar una reparación económica de **4,2 millones de dólares**. Este monto es parte de las **consecuencias legales derivadas del caso**.
-
-Inicio de las defensas de los acusados en el caso Metástasis
-------------------------------------------------------------
-
-Durante la audiencia, el abogado **Rómulo Argudo**, defensor de **Fabián Gilmar C. B.**, presentó sus argumentos en respuesta a las acusaciones de la Fiscalía y la Procuraduría. Para la Fiscalía, alias Yanke habría sido una figura clave en las **operaciones financieras de la organización de Norero**, actuando para obtener beneficios judiciales y penitenciarios.
-
-> 🔵[#SalaPenalCNJ](https://twitter.com/hashtag/SalaPenalCNJ?src=hash&ref_src=twsrc%5Etfw) | Audiencia evaluatoria y preparatoria de juicio en contra del ciudadano Wilman T. y otros por el presunto delito de delincuencia organizada.[#AudienciasCNJ](https://twitter.com/hashtag/AudienciasCNJ?src=hash&ref_src=twsrc%5Etfw)  
-> 💻 Sigue la audiencia aquí [https://t.co/xWbFwg01Ni](https://t.co/xWbFwg01Ni) [pic.twitter.com/qVVQqdKSCG](https://t.co/qVVQqdKSCG)
-> 
-> — Corte Nacional de Justicia (@CorteNacional) [September 18, 2024](https://twitter.com/CorteNacional/status/1836472760148640222?ref_src=twsrc%5Etfw)
-
-Argudo cuestionó la **validez del dictamen fiscal**, calificándolo de subjetivo y afirmando que los elementos presentados habían sido manipulados para apoyar la versión de la Fiscalía.
-
-Entre los principales argumentos de la defensa, Argudo destacó que no existe evidencia verificable de que su cliente enviara o recibiera mensajes en la **aplicación Threema** relacionados con Norero. También negó que Fabián Gilmar C. B. fuera el brazo operativo de la organización, señalando la falta de pruebas para respaldar esa acusación. Finalmente, solicitó el sobreseimiento de su cliente y el levantamiento de todas las medidas cautelares impuestas.
-
-Inconsistencia en las pruebas según la defensa de los acusados
---------------------------------------------------------------
-
-El abogado **Agustín Quito** declaró en la audiencia que la Fiscalía no ha podido demostrar que el abogado Cristian Romero haya sido la persona que utilizó el sistema de mensajería Trimax. Según Quito, la única prueba con la que **cuenta la Fiscalía es un parte policial**, el cual sostiene de forma errada que Romero usaba el sistema de mensajería con el ID mencionado. “No hay ningún otro elemento”, enfatizó.
-
-Quito también señaló que la **Policía Nacional** llegó a sus conclusiones basándose en información incorrecta. Hizo hincapié en que las pruebas se construyeron sobre **mensajes inexistentes y testimonios** que no mencionan a Romero. Mencionó específicamente que la señora Mayra Salazar, testigo procesada, nunca vinculó a Romero en su declaración.
-
-> [#AHORA](https://twitter.com/hashtag/AHORA?src=hash&ref_src=twsrc%5Etfw) | [#CasoMetástasis](https://twitter.com/hashtag/CasoMet%C3%A1stasis?src=hash&ref_src=twsrc%5Etfw): con la presencia –vía telemática– de la fiscal general del Estado, Diana Salazar Méndez, se reinstala la audiencia preparatoria de juicio por presunta [#delincuenciaorganizada](https://twitter.com/hashtag/delincuenciaorganizada?src=hash&ref_src=twsrc%5Etfw). Hoy inicia la intervención de las defensas de los 37 procesados en esta causa. [pic.twitter.com/k3IClyr4WW](https://t.co/k3IClyr4WW)
-> 
-> — Fiscalía Ecuador (@FiscaliaEcuador) [September 18, 2024](https://twitter.com/FiscaliaEcuador/status/1836482484197876136?ref_src=twsrc%5Etfw)
-
-Finalmente, el abogado **cuestionó el proceso de la Fiscalía**, afirmando que los mensajes presentados como evidencia no reflejan lo que realmente ocurrió. Quito aseguró que los agentes policiales incluyeron información falsa en sus reportes, lo que generó la prisión preventiva de su patrocinado.
-
-Brighton y Pervis Estupiñán avanzan de ronda en la Carabao Cup
-==============================================================
-
-Pervis Estupiñán regresó a la titularidad con el Brighton en la Carabao Cup
----------------------------------------------------------------------------
-
-![Pervis Estupiñán en un partido con el Brighton.](https://www.elcomercio.com/wp-content/uploads/2024/09/ENDRICK-PALMEIRAS-2024-09-18T160756.752.jpg)
-
-El **Brighton & Hove Albion de Pervis Estupiñán** venció 3-2 al Wolverhampton este miércoles 18 de septiembre, en la tercera ronda de la Carabao Cup de Inglaterra.
-
-En un partido emocionante de principio a fin, las **‘Gaviotas’ lograron una victoria clave** en una de las copas más importantes de Inglaterra, asegurando su paso a los octavos de final.
-
-### Más noticias:
-
-* [Jeremy Sarmiento se une al Burnley de Inglaterra previo a la Tri](https://www.elcomercio.com/deportes/jeremy-sarmiento-nuevo-fichaje-burnley-seleccion-ecuador.html "Jeremy Sarmiento se une al Burnley de Inglaterra previo a la Tri")
-* [(Video) Jeremy Sarmiento marcó su primer gol oficial con el Brighton](https://www.elcomercio.com/deportes/futbol/video-jeremy-sarmiento-marco-primer-gol-oficial-con-el-brighton.html "(Video) Jeremy Sarmiento marcó su primer gol oficial con el Brighton")
-* [El Chelsea de Moisés Caicedo sufrió para ganar al Bournemouth](https://www.elcomercio.com/deportes/futbol/chelsea-moises-caicedo-bournemouth-premier-league.html "El Chelsea de Moisés Caicedo sufrió para ganar al Bournemouth")
-
-Además, fue el primer partido de **Pervis Estupiñán** como titular desde su regreso tras una lesión, y tuvo una destacada actuación, especialmente en defensa, donde ayudó en la recuperación.
-
-El ecuatoriano realizó dos despejes, dos intercepciones, recuperó la posesión en siete ocasiones, acertó el 81% de sus pases y **completó los 90 minutos**.
-
-Brighton avanzó de ronda en la Carabao Cup
-------------------------------------------
-
-El **Brighton** comenzó fuerte, siendo el primero en tomar la iniciativa ofensiva, con Evan Ferguson como referencia en ataque.
-
-El gol no tardó en llegar. A los 14 minutos, **Carlos Baleba** abrió el marcador para el Brighton, con un golazo. El mediocampista sacó un potente zapatazo desde afuera del área imposible de atajar. 
-
-> 🚨⚽️ CARLOS BALEBA WITH AN AMAZING GOAL!!! 1-0 BRIGHTON!!! [pic.twitter.com/OsPblBFeXt](https://t.co/OsPblBFeXt)
-> 
-> — Brighton Bubble (@BrightonBubble) [September 18, 2024](https://twitter.com/BrightonBubble/status/1836480610447048964?ref_src=twsrc%5Etfw)
-
-Aunque los ‘Wolves’ intentaron responder, no lo lograron de inmediato.
-
-A la media hora del primer tiempo, otro golazo desde fuera del área amplió la ventaja para el Brighton, esta vez a través de **Simon Adingra,** que puso el 2-0.
-
-> 🌊 “The waves just parted!”[#CarabaoCup](https://twitter.com/hashtag/CarabaoCup?src=hash&ref_src=twsrc%5Etfw) | [@OfficialBHAFC](https://twitter.com/OfficialBHAFC?ref_src=twsrc%5Etfw) [pic.twitter.com/mmg7RH7GR9](https://t.co/mmg7RH7GR9)
-> 
-> — Carabao Cup (@Carabao\_Cup) [September 18, 2024](https://twitter.com/Carabao_Cup/status/1836491734512959719?ref_src=twsrc%5Etfw)
-
-En el cierre de la primera mitad, **Gonçalo Guedes** descontó para los visitantes.
-
-La segunda mitad fue más equilibrada, con ambos equipos buscando marcar.
-
-La segunda mitad fue más pareja, con ambos equipos intentando marcar, pero fue el Brighton quien, en los minutos finales, encaminó la clasificación.
-
-**Ferdi Kadioglu** anotó su primer gol con la camiseta de las ‘Gaviotas’. El turco aprovechó un rebote del guardameta rival para anotar el 3-1.
-
-> Ferdi Kadıoğlu's first goal with Brighton![pic.twitter.com/B49moNvd6T](https://t.co/B49moNvd6T)
-> 
-> — Goals Xtra (@GoalsXtra) [September 18, 2024](https://twitter.com/GoalsXtra/status/1836502905366679927?ref_src=twsrc%5Etfw)
-
-En los últimos minutos, Tommy Doyle descontó y puso el 3-2. Aunque metió presión al final del cotejo, el Wolverhampton no pudo evitar la derrota.
+Allí podrás verificar el estado de la **certificación de tu dispositivo**. Si tu **Android TV Box** no está certificado, es aconsejable **evitar su uso para aplicaciones que manejen datos personales o financieros**, ya que esto podría comprometer tu seguridad.
