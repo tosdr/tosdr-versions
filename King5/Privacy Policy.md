@@ -34,9 +34,9 @@ Navigation
         
         #### [WSP increasing patrols on I-5 after string of armed carjackings in Federal Way area](https://www.king5.com/article/news/crime/wsp-troopers-increasing-patrols-i5-after-armed-carjackings/281-178b1b14-7898-4dff-8296-78b0aefb2501)
         
-    *  [![](https://media.king5.com/assets/KING/images/ff36893d-90b4-4266-8382-f5eb4cde548d/20240919T060657/ff36893d-90b4-4266-8382-f5eb4cde548d_16x9.jpg) ![](https://media.king5.com/assets/KING/images/ff36893d-90b4-4266-8382-f5eb4cde548d/20240919T060657/ff36893d-90b4-4266-8382-f5eb4cde548d_360x203.jpg)](https://www.king5.com/article/news/education/seattle-public-schools-considers-closing-only-k8-school-for-deaf/281-9d7db04f-2eb5-47cd-a4e9-511a92f008c3)
+    *  [![](https://media.king5.com/assets/KING/images/a2e82c4b-8812-4c82-b210-aa744ae6114b/20240919T005649/a2e82c4b-8812-4c82-b210-aa744ae6114b_16x9.jpg) ![](https://media.king5.com/assets/KING/images/a2e82c4b-8812-4c82-b210-aa744ae6114b/20240919T005649/a2e82c4b-8812-4c82-b210-aa744ae6114b_360x203.jpg)](https://www.king5.com/article/news/local/shoreline-coffee-shop-shut-down-bondage-event/281-32593ceb-b728-4d37-8b6a-09d58e1b01ab)
         
-        #### [SPS considers closing its only K-8 school for the deaf, public meeting lacks ASL interpreter](https://www.king5.com/article/news/education/seattle-public-schools-considers-closing-only-k8-school-for-deaf/281-9d7db04f-2eb5-47cd-a4e9-511a92f008c3)
+        #### [Shoreline coffee shop to reopen following shutdown after bondage event](https://www.king5.com/article/news/local/shoreline-coffee-shop-shut-down-bondage-event/281-32593ceb-b728-4d37-8b6a-09d58e1b01ab)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -95,9 +95,9 @@ Navigation
 
 Seattle, WA »
 
-54°
+65°
 
-![Cloudy](/assets/shared-images/weather-icons/cloudy-day_210x210.png)
+![Mostly Cloudy](/assets/shared-images/weather-icons/mostly-cloudy-day_210x210.png)
 
 Seattle, WA »](https://www.king5.com/weather)
 
