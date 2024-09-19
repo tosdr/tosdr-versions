@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-d2e8f352b2c0a84d9a5dbb3a91619e93
+a60bd98fce94e946b9da963f051df6df
 
 [](# "Expand for more options")[](# "Search")
 
@@ -142,11 +142,11 @@ Terms and Conditions
 
 ### Featured Product
 
-[![17 mm by 12 mm vintage Czech glass twisted oval beads](https://sojourner.biz/images/cache/glass/GL0173.200.jpg)](https://sojourner.biz/beads/glass/17-mm-by-12-mm-vintage-czech-glass-twisted-oval-beads.html "17 mm by 12 mm vintage Czech glass twisted oval beads")
+[![14 mm soft white oval pearls](https://sojourner.biz/images/cache/pearls/PE0059.200.jpg)](https://sojourner.biz/beads/pearls/14-mm-soft-white-oval-pearls.html "14 mm soft white oval pearls")
 
-#### [17 mm by 12 mm vintage Czech glass twisted oval beads](https://sojourner.biz/beads/glass/17-mm-by-12-mm-vintage-czech-glass-twisted-oval-beads.html "17 mm by 12 mm vintage Czech glass twisted oval beads")
+#### [14 mm soft white oval pearls](https://sojourner.biz/beads/pearls/14-mm-soft-white-oval-pearls.html "14 mm soft white oval pearls")
 
-$14.00
+$45.00
 
 ### Best Sellers
 
