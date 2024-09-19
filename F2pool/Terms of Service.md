@@ -20,7 +20,6 @@ English
 
 [Create Account](https://www.f2pool.com/user/signup) [Sign In](https://www.f2pool.com/user/signin)
 
-* [Join the ALPH mining contest for 5,000 ALPH in total prizes!](https://f2pool.zendesk.com/hc/en-us/articles/36977575146777-Join-the-f2pool-Alephium-mining-contest-for-5-000-ALPH-in-total-prizes) [More >](https://f2pool.zendesk.com/hc/en-us/sections/360013149492)
 * [f2pool launches Fractal Bitcoin (FB) mining pool](https://f2pool.zendesk.com/hc/en-us/articles/37460449409689-f2pool-launches-Fractal-Bitcoin-FB-mining-pool) [More >](https://f2pool.zendesk.com/hc/en-us/sections/360013149492)
 * [ALEO zero-fee mining event and payout threshold reduction](https://f2pool.zendesk.com/hc/en-us/articles/37667130285849) [More >](https://f2pool.zendesk.com/hc/en-us/sections/360013149492)
 
