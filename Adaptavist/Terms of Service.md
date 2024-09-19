@@ -194,7 +194,7 @@ Adaptavist Website Terms and Conditions
 
 Document version dated 28 August 2024
 
-1. **INFORMATION ABOUT US**
+**1\. INFORMATION ABOUT US**
 
 These Terms of Use (“Terms”) shall govern your access and use of the Website operated by Adaptavist Group Ltd ("we", "us" or "our"), including adaptavist.com, [library.adaptavist.com](https://library.adaptavist.com/), [docs.adaptavist.com](https://docs.adaptavist.com/) (each a “ Website” and collectively the “Websites”), as well as your access and use of related Materials (as defined below) on the Websites.
 
@@ -202,19 +202,19 @@ Adaptavist Group Ltd is part of The Adaptavist Group. The Adaptavist Group is a 
 
 An individual Website may also contain notices or supplementary terms and conditions of various forms, in which case terms outlined in such notices or terms and conditions, in combination with the terms below, shall then constitute the “Terms.” If there is a conflict between the notices or supplementary terms found on an individual Website and the terms below, the notices or supplementary terms on an individual Website shall take precedence with respect to your use of that Website.
 
-1. **ACCEPTANCE OF TERMS**
+**2\. ACCEPTANCE OF TERMS**
 
 By accessing or using a Website or the materials provided on a Website, you agree to be bound by these Terms, including the Privacy Policy, Legal Notice, Disclaimers and Policies contained on this Website, as amended from time to time. If you do not accept the Terms of Use, you must stop visiting or using our Website without undue delay.
 
 The Website is not intended for use by minors (persons under the age of 18). The use of the Website by minors is expressly prohibited.
 
-1. **RIGHT TO CHANGE, MODIFY OR DELETE THE TERMS OF USE**
+**3\. RIGHT TO CHANGE, MODIFY OR DELETE THE TERMS OF USE**
 
 Adaptavist Group Ltd reserves the right to change, modify, add or delete sections of the Terms of Use at any time, with or without prior notice. These Terms of Use are effective from the date on which they are made available online. Amendments to these Terms will be effective upon publication and operate as a condition of your continued use of the Website or Materials. Please read the Terms periodically in order to be aware of any changes we may have made to the Terms. Use of the Website will be subject to the version of the Terms available on the Website at the time of such use.
 
 The proprietary rights, disclaimer of warranties, indemnities and limitations of liability shall survive any termination of the Terms.
 
-1. **PURPOSE OF THE WEBSITE**
+**4\. PURPOSE OF THE WEBSITE**
 
 The Website provides information about the services and products offered by Adaptavist Group Ltd.
 
@@ -224,11 +224,11 @@ If you are interested in Products of The Adaptavist Group, please complete the �
 
 If you are interested in products offered by Third-Parties that we resell, please refer to the respective Third Party’s Website terms and conditions, end user licence agreements, privacy policy or any other relevant documentation applicable.
 
-1. **PERSONAL DATA**
+**5\. PERSONAL DATA**
 
 ​​Adaptavist Group Ltd Privacy Policy Terms form part of these Terms of Use. Before browsing and providing any personal data, please inform yourself of our Privacy Policy, which is available [here](https://www.adaptavist.com/privacy-policy).
 
-1. **USE OF COOKIES**
+**6\. USE OF COOKIES**
 
 Adaptavist Group Ltd uses cookies to optimise the presentation of our Website. You can find out more information about the cookies we collect in our Privacy Policy. You can also customise cookies on your computer, which is available
 
@@ -236,7 +236,7 @@ here
 
 .
 
-1. **INTELLECTUAL PROPERTY RIGHTS**
+**7\. INTELLECTUAL PROPERTY RIGHTS**
 
 All products, goods, software, scripts (including hosted software as a service or similar services) are known as the “Software”. All documents, web pages, logos, blogs, videos, graphics, sounds,images, trademarks, trade names, are known as “Content.” Software and Content, together, along with anything else on the Website, are known as “Materials,”; all Materials on the Website were provided by Adaptavist Group Ltd, its affiliates or to Adaptavist Group Ltd by the respective manufacturers, authors, developers, partners, vendors, clients of the Materials (the “Third Party Material Providers”). All Materials are the intellectual property of Adaptavist Group Ltd, its affiliates and/or the relevant Third Party Material Providers. Except as stated herein or expressly on the Website, none of the Materials may be copied, reproduced, distributed, republished, downloaded, displayed, posted or transmitted or otherwise used in any form or by any means, including, but not limited to, electronic, mechanical, photocopying, recording, or otherwise, without the prior express written permission of Adaptavist Group Ltd, its affiliates and, if applicable, the Third Party Material Provider.
 
@@ -256,7 +256,7 @@ You agree not to use this site nor any Materials for any unlawful purposes, or f
 
 You undertake that any material that you upload or otherwise share on or through the Website is material for which you have the right and authority to share. Unless otherwise specifically stated in these Terms, you grant Adaptavist Group Ltd and its affiliates a worldwide, perpetual, royalty-free, irrevocable, nonexclusive, fully sublicensable licence to use, reproduce, modify, adapt, translate, publish, publicly perform, publicly display, broadcast, transmit and distribute the material for whatever purposes, commercial or otherwise, Adaptavist Group Ltd chooses.
 
-1. **YOUR USE OF THE WEBSITE**
+**8.YOUR USE OF THE WEBSITE**
 
 You undertake to use the Website in a reasonable and obvious way for which it was established, and not in any way that might overload or stress the Website. You furthermore undertake not to attempt to reverse engineer any part of the site or gain access to areas of the site or Materials to which you are not clearly entitled.
 
@@ -268,47 +268,47 @@ You may only use this Website for purposes permitted by law. You are prohibited 
 * contains computer viruses, worms, moles or other contaminating or destructive element
 * is defamatory, obscene, pornographic, abusive, harassing, threatening.
 
-1. **THIRD PARTY CONTENT DISCLAIMER**
+  
+**9\. THIRD PARTY CONTENT DISCLAIMER**
 
 Materials provided by Third Party Materials Providers have not been verified in whole or in part by Adaptavist Group Ltd.
 
 Adaptavist Group Ltd is committed to respecting others’ intellectual property rights, and we require our users to do the same. Adaptavist Group Ltd may, at its sole discretion, terminate the accounts or access rights of users who infringe or otherwise violate others’ intellectual property rights.
 
-If you believe that your work has been copied in a way that constitutes copyright infringement on our Website, please contact us at [https://www.adaptavist.com/contact/.](https://www.adaptavist.com/contact/)
+If you believe that your work has been copied in a way that constitutes copyright infringement on our Website, please contact us at [https://www.adaptavist.com/contact/.](https://www.adaptavist.com/contact/)  
+  
+**10\. DISCLAIMER OF WARRANTY**
 
-1. **DISCLAIMER OF WARRANTY**
-
-The Website and Materials are provided 'as is', and all express or implied conditions, representations and warranties, including any implied warranty of merchantability, accuracy, fitness for a particular purpose, or non-infringement are disclaimed to the maximum extent permitted by law. Adaptavist Group Ltd makes no representations, warranties or guarantees as to the quality, suitability, truth, accuracy or completeness of any of the Content, nor that access to or use of the Website or any Software shall be uninterrupted or without delays or errors. Adaptavist Group Ltd will make commercially reasonable efforts to rectify errors as soon as it becomes aware of them.
-
-1. **LIMITATION OF LIABILITY**
+The Website and Materials are provided 'as is', and all express or implied conditions, representations and warranties, including any implied warranty of merchantability, accuracy, fitness for a particular purpose, or non-infringement are disclaimed to the maximum extent permitted by law. Adaptavist Group Ltd makes no representations, warranties or guarantees as to the quality, suitability, truth, accuracy or completeness of any of the Content, nor that access to or use of the Website or any Software shall be uninterrupted or without delays or errors. Adaptavist Group Ltd will make commercially reasonable efforts to rectify errors as soon as it becomes aware of them.  
+  
+**11\. LIMITATION OF LIABILITY**
 
 Adaptavist Group Ltd shall not be liable for any loss or interruption of business, revenue, profits, use, data, wasted expenditure or other economic advantage, nor any indirect, punitive, special, incidental, or consequential damages suffered as a result of using the Website. The foregoing exclusion shall apply however such liability arises, whether for breach of contract, tort (including negligence), strict liability, statutory duty or any other legal basis, to the extent permissible by law, even if Adaptavist Group Ltd has been previously advised of the possibility of such damage. You shall hold Adaptavist Group Ltd harmless from any claims by yourself or your customer(s) for such losses.
 
 The remedies set forth herein are exclusive, and Adaptavist Group Ltd aggregate liability whether for breach of contract, tort (including negligence), strict liability, statutory duty or any other legal basis shall not exceed £10 (ten British pounds) and you shall hold Adaptavist Group Ltd harmless for all losses in excess of this sum.
 
-If you have any concerns or objections about the limitation of liability set out in this article you can raise them to us in the contact details provided in the Legal Notice, but you should not make any use of our Website and Materials, as such use will indicate that you accepted unconditionally this limitation of liability.
-
-1. **LINKS TO THIRD PARTY SITES**
+If you have any concerns or objections about the limitation of liability set out in this article you can raise them to us in the contact details provided in the Legal Notice, but you should not make any use of our Website and Materials, as such use will indicate that you accepted unconditionally this limitation of liability.  
+  
+**12\. LINKS TO THIRD PARTY SITES**
 
 Our Website may refer directly or indirectly to Third-Party Websites (so-called "Links to Third Party sites"). Adaptavist Group Ltd disclaims any liability in relation to the content of such Third-Party sites. The respective owner of is always responsible for the content and accuracy of the information made available on such Third-Party site(s). Adaptavist Group Ltd does not claim ownership of the linked content and does not declare any co-operation in the creation of the content, unless otherwise expressly stated in the specific content. The linked sites have their own terms of use and privacy policies, which the user is responsible for reading when accessing them.
 
 Adaptavist Group Ltd is providing these links to you only for your convenience, and the inclusion of any link to such sites does not imply endorsement by Adaptavist Group Ltd of those sites. You bear all risks associated with your access, or use, of those sites and any Third Party content, products and services available on or by means of those sites.
 
-No legal infringements were recognisable by Adaptavist Group Ltd at the time of linking. If we become aware of any legal infringements, we will remove such links without undue delay.
-
-1. **INDEMNITY**
+No legal infringements were recognisable by Adaptavist Group Ltd at the time of linking. If we become aware of any legal infringements, we will remove such links without undue delay.  
+  
+**13\. INDEMNITY**
 
 You agree to indemnify and hold harmless Adaptavist Group Ltd and its affiliates, officers, directors, employees and agents from and against any and all claims, liabilities, damages, losses or expenses, including attorneys' fees and costs, due to or arising out of any material that you share, your violation of these Terms, or any additional rules, guidelines or terms of use posted for a specific area of a Website or Material provided on or through a Website, or your violation or infringement of any Third Party rights, including intellectual property rights.
 
-1. **LOCAL LAWS, EXPORT CONTROL**
-    ------------------------------
-    
+**  
+14\. LOCAL LAWS, EXPORT CONTROL**
 
 Adaptavist Group Ltd controls this Website from the United Kingdom and makes no representation that the Materials are appropriate or available for use in other locations. If you use this Website from other locations, you are responsible for compliance with applicable local laws including but not limited to the export and import regulations of other countries.
 
-You acknowledge and agree that Materials are subject to the laws of England and Wales. You agree that none of the Materials, nor any direct product therefrom, is being or will be acquired for, shipped, transferred, or re-exported, directly or indirectly, to proscribed or embargoed countries or their nationals, nor be used for nuclear activities, chemical biological weapons, or missile projects unless authorised by the Government of the United Kingdom.
-
-1. **APPLICABLE LAW**
+You acknowledge and agree that Materials are subject to the laws of England and Wales. You agree that none of the Materials, nor any direct product therefrom, is being or will be acquired for, shipped, transferred, or re-exported, directly or indirectly, to proscribed or embargoed countries or their nationals, nor be used for nuclear activities, chemical biological weapons, or missile projects unless authorised by the Government of the United Kingdom.  
+  
+**15\. APPLICABLE LAW**
 
 Any action related to these Terms will be governed by the laws of England and Wales. Any disputes relating to these Terms will be governed by and construed in accordance with the applicable laws of England and Wales and shall be submitted to the exclusive jurisdiction of the courts of England. Notwithstanding the foregoing, Adaptavist Group Ltd may bring a claim for equitable relief in any court with proper jurisdiction. If any of these terms are found to be inconsistent with applicable law, then such Terms shall be interpreted to reflect the intentions of the parties and no other terms will be modified.
 
