@@ -113,7 +113,7 @@ FR
         
         10% Cash Back](https://www.rakuten.ca/hp-canada)[Samsung
         
-        up to 2% Cash Back](https://www.rakuten.ca/samsung.com)[Dell Technologies
+        2% Cash Back](https://www.rakuten.ca/samsung.com)[Dell Technologies
         
         up to 5% Cash Back](https://www.rakuten.ca/dell-consumer)
         
