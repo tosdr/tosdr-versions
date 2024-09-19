@@ -91,9 +91,9 @@ Explore by characteristic or group Select Characteristic or Group Smallest Dog B
 * [DNA & Health Testing](https://akc.org/products-services/breeder-programs/dna/)
 * [DNA Kit Activation](https://dna.akc.org/)
 * [AKC Magazines](https://akc.org/products-services/magazines/)
-* [Pedigrees](https://www.apps.akc.org/apps/store/index.cfm?view=home)
-* [Breeder Reports](https://www.apps.akc.org/apps/store/?view=category&cde_category=BRDR)
-* [AKC Competitor Reports](https://www.apps.akc.org/apps/store/index.cfm?view=category&cde_category=COMP)
+* [Pedigrees](https://shop.akc.org/products/pedigrees?variant=40426111565918)
+* [Breeder Reports](https://shop.akc.org/products/proshop-akc-breeder-reports?variant=40426377117790)
+* [AKC Competitor Reports](https://shop.akc.org/collections/akc-reports-pedigree)
 
 [Services](https://www.akc.org/products-services/)
 
@@ -324,9 +324,9 @@ Search [Sign In](https://www.akc.org/wp-login.php) Menu
         * [DNA & Health Testing](https://akc.org/products-services/breeder-programs/dna/)
         * [DNA Kit Activation](https://dna.akc.org/)
         * [AKC Magazines](https://akc.org/products-services/magazines/)
-        * [Pedigrees](https://www.apps.akc.org/apps/store/index.cfm?view=home)
-        * [Breeder Reports](https://www.apps.akc.org/apps/store/?view=category&cde_category=BRDR)
-        * [AKC Competitor Reports](https://www.apps.akc.org/apps/store/index.cfm?view=category&cde_category=COMP)
+        * [Pedigrees](https://shop.akc.org/products/pedigrees?variant=40426111565918)
+        * [Breeder Reports](https://shop.akc.org/products/proshop-akc-breeder-reports?variant=40426377117790)
+        * [AKC Competitor Reports](https://shop.akc.org/collections/akc-reports-pedigree)
     * Services
         * [Register Your Dog](https://akc.org/register)
         * [AKC Marketplace](https://marketplace.akc.org/)
