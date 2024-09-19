@@ -108,7 +108,7 @@ Search
 Privacy and confidentiality
 ===========================
 
-![Girl in wheelchair smiling at camera](/en/rotatingimages/defaultInterior/Banner-14.jpg)
+![Boy in wheelchair and father smiling at each other](/en/rotatingimages/defaultInterior/Banner-8.jpg)
 
 [Regular](# "Default text size") [Large](# "Increase to Large text size") [X-Large](# "Increase to X-Large text size")
 
