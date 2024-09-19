@@ -101,63 +101,93 @@ If you have any questions about our privacy policy, please [contact us](mailto:w
 
 Return to our [subscription form](https://www.icr.org/subscriptions).
 
+More Only God Could Have Made Cells
+
+[![](/i/Main%20Stage%20-%201400x1050/algaeevolution-1400x1050-MainPage.jpg)](https://www.icr.org/article/algae-multicellular-evolution-study-debunked)
+
+[Algae Multicellular Evolution Study Debunked](https://www.icr.org/article/algae-multicellular-evolution-study-debunked/)
+
+Recent headlines claim, “Scientists Have Witnessed a Single-Celled Algae Evolve Into a Multicellular Organism.”1 In reality,...
+
+BY: [JEFFREY P. TOMKINS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=207)
+
+[![](/i/Main%20Stage%20-%201400x1050/phosphateproblem-1400x1050-MainPage.jpg)](https://www.icr.org/article/solving-first-life-phosphate-problem)
+
+[Solving the First-Life Phosphate Problem](https://www.icr.org/article/solving-first-life-phosphate-problem/)
+
+Research associated with the Simos Foundation’s Collaboration of the Origins of Life offers a new answer to an old problem for getting a soup...
+
+BY: [BRIAN THOMAS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=201)
+
+[![](/i/wide/aging_bacteria_wide.jpg)](https://www.icr.org/article/ingenious-way-that-bacteria-resist)
+
+[The Ingenious Way That Bacteria Resist Aging](https://www.icr.org/article/ingenious-way-that-bacteria-resist/)
+
+Bacterial cells are singularly long-lived. They keep dividing for what seems like forever. But because they are made of biochemicals, their DNA and...
+
+BY: [BRIAN THOMAS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=201)
+
 More Creation Science Update
 
-[![](/i/Main%20Stage%20-%201400x1050/katydidfossil_1400x1050.jpg)](https://www.icr.org/article/katydid-fossil)
+[![](/i/Main%20Stage%20-%201400x1050/UniHumanEyes_1400x1050.jpg)](https://www.icr.org/article/unique-human-eyes)
 
-[''Ancient'' Katydid Fossil is...a Katydid](https://www.icr.org/article/katydid-fossil/)
+[Uniquely Human Eyes](https://www.icr.org/article/unique-human-eyes/)
 
-A fascinating discovery of a fossil insect has recently been made by evolutionists in Colorado. The description once again points clearly to the effects...
+Biologists have long noted that unlike most animals, humans have sclera—that white ring around the iris. In the ICR video Adam or Apes, I tried...
+
+BY: [BRIAN THOMAS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=201)
+
+[![](/i/Main%20Stage%20-%201400x1050/OldestMeal_1400x1050)](https://www.icr.org/article/worlds-oldest-meal)
+
+[World's Oldest Meal](https://www.icr.org/article/worlds-oldest-meal/)
+
+The Ediacara biota is a sporadic faunal (animal) stage containing unique soft-bodied fossil creatures in sandstone from the Ediacaran System dating...
 
 BY: [FRANK SHERWIN, D.SC. (HON.)](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=32)
 
-[![](/i/Main%20Stage%20-%201400x1050/saltysweat_1400x1050.jpg)](https://www.icr.org/article/salty-sweat-desert-plant)
+[![](/i/Main%20Stage%20-%201400x1050/SpiderSilk_1400x1050.jpg)](https://www.icr.org/article/Spider-Silk-For-Nerve-Repairs)
 
-[Salty Sweat in a Desert Plant](https://www.icr.org/article/salty-sweat-desert-plant/)
+[Spider Silk Properties Ideal for Nerve Repairs](https://www.icr.org/article/Spider-Silk-For-Nerve-Repairs/)
 
-Although plants aren’t alive in the biblical sense,1 they are most certainly complex in their physiology and anatomy.2,3...
-
-BY: [FRANK SHERWIN, D.SC. (HON.)](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=32)
-
-[![](/i/ICR_Apr23_main_1400x1050.jpg)](https://www.icr.org/article/april-2023-icr-wallpaper)
-
-[April 2023 ICR Wallpaper](https://www.icr.org/article/april-2023-icr-wallpaper/)
-
-"If you confess with your mouth the Lord Jesus and believe in your heart that God has raised Him from the dead, you will be saved." Romans 10:9...
+Big doesn’t always mean strong. Most of the time, strength comes from what something is made of. The proteins forming spider silk make that silk...
 
 BY: [STAFF WRITER](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=27)
 
 Shop Related Products
 
-[![](https://cdn.shoplightspeed.com/shops/601440/files/60993469/file.jpg)
+[![](https://cdn.shoplightspeed.com/shops/601440/files/26360860/file.jpg)
 
-Why the World Looks So Young - eBook](https://store.icr.org/why-the-world-looks-so-young-ebook.html)
+Why Evolutionary Thinking Breeds a Culture of Death](https://store.icr.org/discover-creation-why-evolutionary-thinkin.html)
 
-$2.99
+$9.99
+
+[![](https://cdn.shoplightspeed.com/shops/601440/files/13216913/file.jpg)
+
+Made in His Image - eBook](https://store.icr.org/copy-of-made-in-his-image.html)
+
+$4.99
+
+$9.99
+
+[![](https://cdn.shoplightspeed.com/shops/601440/files/8284669/file.jpg)
+
+Replacing Darwin's Sacred Imposter - Download](https://store.icr.org/replacing-darwins-sacred-imposter-download.html)
+
+$4.99
+
+$9.99
+
+[![](https://cdn.shoplightspeed.com/shops/601440/files/9373031/file.jpg)
+
+The Human Body: Divine Engineering](https://store.icr.org/dr-randy-guliuzza-the-human-body-divine-engineerin.html)
 
 $7.99
 
-[![](https://cdn.shoplightspeed.com/shops/601440/files/60662163/file.jpg)
+$9.99
 
-Living in Light of Genesis](https://store.icr.org/living-in-light-of-genesis.html)
+[![](https://cdn.shoplightspeed.com/shops/601440/files/13216652/file.jpg)
 
-$15.99
-
-[![](https://cdn.shoplightspeed.com/shops/601440/files/25997817/file.jpg)
-
-Why the World Looks So Young](https://store.icr.org/why-the-world-looks-so-young.html)
-
-$7.99
-
-[![](https://cdn.shoplightspeed.com/shops/601440/files/49457244/file.jpg)
-
-Adam or Apes](https://store.icr.org/adam-or-apes.html)
-
-$12.99
-
-[![](https://cdn.shoplightspeed.com/shops/601440/files/9372978/file.jpg)
-
-Discovering Dinosaurs](https://store.icr.org/mr-brian-thomas-discovering-dinosaurs.html)
+Clearly Seen](https://store.icr.org/dr-randy-guliuzza-clearly-seen.html)
 
 $7.99
 
