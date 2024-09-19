@@ -94,12 +94,12 @@ Hide Main Navigation Menu
 
 ### Featured
 
-* [![](https://www.unc.edu/wp-content/uploads/2024/09/HERO-Ackland-250x141.png)
+* [![](https://www.unc.edu/wp-content/uploads/2024/09/CPA-hero-250x141.jpg)
     
-    Gift expands Ackland’s conservation efforts](https://www.unc.edu/posts/2024/09/17/gift-expands-acklands-conservation-efforts/)
-* [![](https://www.unc.edu/wp-content/uploads/2023/09/fluHERO-250x141.png)
+    Jazz legend Herbie Hancock kicks off CPA’s 20th season](https://www.unc.edu/posts/2024/09/18/jazz-legend-herbie-hancock-kicks-off-cpas-20th-season/)
+* [![](https://www.unc.edu/wp-content/uploads/2024/09/KellyAlexander-250x141.jpg)
     
-    How to get a flu vaccination at Carolina](https://www.unc.edu/posts/2024/09/17/how-to-get-a-flu-vaccination-at-carolina/)
+    Kelly Alexander, cofounder of Project Uplift, dies at 75](https://www.unc.edu/posts/2024/09/18/kelly-alexander-cofounder-of-project-uplift-dies-at-75/)
 
 About the University
 
@@ -477,7 +477,7 @@ Please contact [privacy@unc.edu](mailto:privacy@unc.edu) for more information on
 
  [LinkedIn](https://www.linkedin.com/sharing/share-offsite/?mini=true&url=%url%&title=%title%)
 
- [Email](https://www.unc.edu/wp-admin/admin-ajax.php?action=has_email_social_modal&permalink=%url%&nonce=68b4e6b257&text=%prefix%%text%%suffix%&post_id=52&type=%type%)
+ [Email](https://www.unc.edu/wp-admin/admin-ajax.php?action=has_email_social_modal&permalink=%url%&nonce=bf4f5dfed6&text=%prefix%%text%%suffix%&post_id=0&type=%type%)
 
 ### Share on Mastodon
 
