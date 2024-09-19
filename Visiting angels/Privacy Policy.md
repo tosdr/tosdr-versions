@@ -260,15 +260,15 @@ Or write to us at: 937 Haverford Road Suite 200, Bryn Mawr PA 19010
 
  related  categories
 
-[Recognizing the Signs Your Parents Need Assisted Living Care](https://www.visitingangels.com/knowledge-center/care-options/recognizing-the-signs-your-parents-need-assisted-living-care/67)
+[Does Your Mom Need Companion Care?](https://www.visitingangels.com/knowledge-center/care-options/does-your-mom-need-companion-care/425)
 
-[Homecare Assistance: A Cure for Senior Loneliness](https://www.visitingangels.com/knowledge-center/why-in-home-care/homecare-assistance-a-cure-for-senior-loneliness/475)
+[Understanding Mental Illness in Our Elderly](https://www.visitingangels.com/knowledge-center/senior-health-and-well-being/understanding-mental-illness-in-our-elderly/7)
 
-[Social Isolation: The Severity of the Problem](https://www.visitingangels.com/knowledge-center/senior-health-and-well-being/social-isolation-the-severity-of-the-problem/365)
+[Loneliness in Seniors](https://www.visitingangels.com/knowledge-center/senior-health-and-well-being/loneliness-in-seniors/14)
 
-[Wake Up Call: What I Saw at My Friend's Mom's Funeral](https://www.visitingangels.com/knowledge-center/preparing-loved-ones/wake-up-call-what-i-saw-at-my-friends-moms-funeral/350)
+[Preparing for Mid-Stage & Late-Stage Alzheimer’s Care](https://www.visitingangels.com/knowledge-center/preparing-loved-ones/preparing-for-mid-stage-late-stage-alzheimers-care/454)
 
-[Everything You Should Know About Adult Care (Non-Senior Home Care)](https://www.visitingangels.com/knowledge-center/care-options/everything-you-should-know-about-adult-care-non-senior-home-care/40)
+[7 Ways to Help Seniors Keep a Sharp Mind](https://www.visitingangels.com/knowledge-center/senior-health-and-well-being/7-ways-to-help-seniors-keep-a-sharp-mind/84)
 
 * [Care Options](https://www.visitingangels.com/knowledge-center/care-options)
 * [Selecting Care](https://www.visitingangels.com/knowledge-center/selecting-care)
