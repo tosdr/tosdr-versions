@@ -19,6 +19,18 @@
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![Left to right: Cllr Mohamed Deen, Miatta Fahnbulleh MP, Neil Coyle MP and Cllr David Parton](https://southwarknews.co.uk/wp-content/uploads/2024/07/Left-to-right-Cllr-Mohamed-Deen-Miatta-Fahnbulleh-MP-Neil-Coyle-MP-and-Cllr-David-Parton-360x180.png)](https://southwarknews.co.uk/area/bermondsey/comment-egging-your-local-mp-isnt-clever-or-funny/)
+    
+    ### [Comment: Egging your local MP isn’t clever or funny](https://southwarknews.co.uk/area/bermondsey/comment-egging-your-local-mp-isnt-clever-or-funny/)
+    
+    [![Neil Clayton, a solicitor, said he used the steps twice a week and was “used to it” but had heard of colleagues tumbling down. Credit: Herbie Russell](https://southwarknews.co.uk/wp-content/uploads/2024/09/IMG_2418-1-360x180.jpeg)](https://southwarknews.co.uk/area/borough/steps-by-london-bridge-with-bizarre-slanted-design-branded-worst-in-london/)
+    
+    ### [Steps by London Bridge with bizarre slanted design branded ‘worst in London’](https://southwarknews.co.uk/area/borough/steps-by-london-bridge-with-bizarre-slanted-design-branded-worst-in-london/)
+    
+    [![The 118 bus route. Credit: London Bus Routes (Creative Commons)](https://southwarknews.co.uk/wp-content/uploads/2024/09/The-118-Bus-Route.-Credit-London-Bus-Routes-Wiki-360x180.webp)](https://southwarknews.co.uk/area/south-london/118-bus-route-through-to-be-axed-under-tfl-plans/)
+    
+    ### [118 bus route to be axed under TfL plans](https://southwarknews.co.uk/area/south-london/118-bus-route-through-to-be-axed-under-tfl-plans/)
+    
     [![Police have released these images of a man they would like to speak to in connection with a Brixton shooting. Image: Met Police](https://southwarknews.co.uk/wp-content/uploads/2024/09/Deepdene-Susp-img-02-360x180.png)](https://southwarknews.co.uk/news/crime/brixton-shooting-suspect-seen-in-corner-shop-hours-before-shooting-in-newly-released-cctv/)
     
     ### [Brixton shooting: Suspect seen in corner shop hours before shooting in newly-released CCTV](https://southwarknews.co.uk/news/crime/brixton-shooting-suspect-seen-in-corner-shop-hours-before-shooting-in-newly-released-cctv/)
@@ -43,18 +55,6 @@
     [![Stock image (London Fire Brigade)](https://southwarknews.co.uk/wp-content/uploads/2024/09/stock-logo-fire-engine-2-london-fire-brigade-360x180.jpg)](https://southwarknews.co.uk/area/dulwich/flat-catches-fire-in-east-dulwich/)
     
     ### [Flat catches fire in East Dulwich](https://southwarknews.co.uk/area/dulwich/flat-catches-fire-in-east-dulwich/)
-    
-    [![Locals did a double take as Madame Tussauds London’s Prince Harry figure was spotted at the Duke of Sussex pub in Peckam (4)](https://southwarknews.co.uk/wp-content/uploads/2024/09/Locals-did-a-double-take-as-Madame-Tussauds-Londons-Prince-Harry-figure-was-spotted-at-the-Duke-of-Sussex-pub-in-Peckam-4-360x180.jpeg)](https://southwarknews.co.uk/area/peckham/prince-harry-and-meghan-markle-waxworks-escapes-from-madame-tussauds-for-birthday-pint-at-peckham-pub/)
-    
-    ### [Prince Harry waxwork escapes from Madame Tussauds for birthday pint at Peckham pub](https://southwarknews.co.uk/area/peckham/prince-harry-and-meghan-markle-waxworks-escapes-from-madame-tussauds-for-birthday-pint-at-peckham-pub/)
-    
-    [![CCTV footage shared by the farm showed a figure dumping a bag on the farm. Credit: Surrey Docks Farm](https://southwarknews.co.uk/wp-content/uploads/2024/09/CCTV-footage-shared-by-the-farm-showed-a-figure-dumping-a-bag-on-the-farm.-Credit-Surrey-Docks-Farm-360x180.png)](https://southwarknews.co.uk/area/rotherhithe/pets-abandoned-at-rotherhithe-farm-killed-by-foxes/)
-    
-    ### [Pets abandoned at Rotherhithe farm killed by foxes](https://southwarknews.co.uk/area/rotherhithe/pets-abandoned-at-rotherhithe-farm-killed-by-foxes/)
-    
-    [![England footballing heros John Stones and Peter Shilton attended The Salvation Army's annual Partnership Trophy in 2023](https://southwarknews.co.uk/wp-content/uploads/2024/09/England-footballing-heros-John-Stones-and-Peter-Shilton-attended-The-Salvation-Armys-annual-Partnership-Trophy-in-2023-360x180.jpeg)](https://southwarknews.co.uk/area/camberwell/homeless-camberwell-teens-to-play-in-football-tournament-admired-by-pep-guardiola/)
-    
-    ### [Homeless Camberwell teens to play in football tournament admired by Pep Guardiola](https://southwarknews.co.uk/area/camberwell/homeless-camberwell-teens-to-play-in-football-tournament-admired-by-pep-guardiola/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [In depth history](https://southwarknews.co.uk/category/history/in-depth-history/)
@@ -100,6 +100,18 @@ View All Result
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![Left to right: Cllr Mohamed Deen, Miatta Fahnbulleh MP, Neil Coyle MP and Cllr David Parton](https://southwarknews.co.uk/wp-content/uploads/2024/07/Left-to-right-Cllr-Mohamed-Deen-Miatta-Fahnbulleh-MP-Neil-Coyle-MP-and-Cllr-David-Parton-360x180.png)](https://southwarknews.co.uk/area/bermondsey/comment-egging-your-local-mp-isnt-clever-or-funny/)
+    
+    ### [Comment: Egging your local MP isn’t clever or funny](https://southwarknews.co.uk/area/bermondsey/comment-egging-your-local-mp-isnt-clever-or-funny/)
+    
+    [![Neil Clayton, a solicitor, said he used the steps twice a week and was “used to it” but had heard of colleagues tumbling down. Credit: Herbie Russell](https://southwarknews.co.uk/wp-content/uploads/2024/09/IMG_2418-1-360x180.jpeg)](https://southwarknews.co.uk/area/borough/steps-by-london-bridge-with-bizarre-slanted-design-branded-worst-in-london/)
+    
+    ### [Steps by London Bridge with bizarre slanted design branded ‘worst in London’](https://southwarknews.co.uk/area/borough/steps-by-london-bridge-with-bizarre-slanted-design-branded-worst-in-london/)
+    
+    [![The 118 bus route. Credit: London Bus Routes (Creative Commons)](https://southwarknews.co.uk/wp-content/uploads/2024/09/The-118-Bus-Route.-Credit-London-Bus-Routes-Wiki-360x180.webp)](https://southwarknews.co.uk/area/south-london/118-bus-route-through-to-be-axed-under-tfl-plans/)
+    
+    ### [118 bus route to be axed under TfL plans](https://southwarknews.co.uk/area/south-london/118-bus-route-through-to-be-axed-under-tfl-plans/)
+    
     [![Police have released these images of a man they would like to speak to in connection with a Brixton shooting. Image: Met Police](https://southwarknews.co.uk/wp-content/uploads/2024/09/Deepdene-Susp-img-02-360x180.png)](https://southwarknews.co.uk/news/crime/brixton-shooting-suspect-seen-in-corner-shop-hours-before-shooting-in-newly-released-cctv/)
     
     ### [Brixton shooting: Suspect seen in corner shop hours before shooting in newly-released CCTV](https://southwarknews.co.uk/news/crime/brixton-shooting-suspect-seen-in-corner-shop-hours-before-shooting-in-newly-released-cctv/)
@@ -124,18 +136,6 @@ View All Result
     [![Stock image (London Fire Brigade)](https://southwarknews.co.uk/wp-content/uploads/2024/09/stock-logo-fire-engine-2-london-fire-brigade-360x180.jpg)](https://southwarknews.co.uk/area/dulwich/flat-catches-fire-in-east-dulwich/)
     
     ### [Flat catches fire in East Dulwich](https://southwarknews.co.uk/area/dulwich/flat-catches-fire-in-east-dulwich/)
-    
-    [![Locals did a double take as Madame Tussauds London’s Prince Harry figure was spotted at the Duke of Sussex pub in Peckam (4)](https://southwarknews.co.uk/wp-content/uploads/2024/09/Locals-did-a-double-take-as-Madame-Tussauds-Londons-Prince-Harry-figure-was-spotted-at-the-Duke-of-Sussex-pub-in-Peckam-4-360x180.jpeg)](https://southwarknews.co.uk/area/peckham/prince-harry-and-meghan-markle-waxworks-escapes-from-madame-tussauds-for-birthday-pint-at-peckham-pub/)
-    
-    ### [Prince Harry waxwork escapes from Madame Tussauds for birthday pint at Peckham pub](https://southwarknews.co.uk/area/peckham/prince-harry-and-meghan-markle-waxworks-escapes-from-madame-tussauds-for-birthday-pint-at-peckham-pub/)
-    
-    [![CCTV footage shared by the farm showed a figure dumping a bag on the farm. Credit: Surrey Docks Farm](https://southwarknews.co.uk/wp-content/uploads/2024/09/CCTV-footage-shared-by-the-farm-showed-a-figure-dumping-a-bag-on-the-farm.-Credit-Surrey-Docks-Farm-360x180.png)](https://southwarknews.co.uk/area/rotherhithe/pets-abandoned-at-rotherhithe-farm-killed-by-foxes/)
-    
-    ### [Pets abandoned at Rotherhithe farm killed by foxes](https://southwarknews.co.uk/area/rotherhithe/pets-abandoned-at-rotherhithe-farm-killed-by-foxes/)
-    
-    [![England footballing heros John Stones and Peter Shilton attended The Salvation Army's annual Partnership Trophy in 2023](https://southwarknews.co.uk/wp-content/uploads/2024/09/England-footballing-heros-John-Stones-and-Peter-Shilton-attended-The-Salvation-Armys-annual-Partnership-Trophy-in-2023-360x180.jpeg)](https://southwarknews.co.uk/area/camberwell/homeless-camberwell-teens-to-play-in-football-tournament-admired-by-pep-guardiola/)
-    
-    ### [Homeless Camberwell teens to play in football tournament admired by Pep Guardiola](https://southwarknews.co.uk/area/camberwell/homeless-camberwell-teens-to-play-in-football-tournament-admired-by-pep-guardiola/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [In depth history](https://southwarknews.co.uk/category/history/in-depth-history/)
@@ -232,6 +232,12 @@ Photo by  Joe Coughlan.](https://southwarknews.co.uk/wp-content/uploads/2024/09/
 
 ### Featured Articles
 
+[![Neil Clayton, a solicitor, said he used the steps twice a week and was “used to it” but had heard of colleagues tumbling down. Credit: Herbie Russell](https://southwarknews.co.uk/wp-content/uploads/2024/09/IMG_2418-1-120x86.jpeg)](https://southwarknews.co.uk/area/borough/steps-by-london-bridge-with-bizarre-slanted-design-branded-worst-in-london/)
+
+### [Steps by London Bridge with bizarre slanted design branded ‘worst in London’](https://southwarknews.co.uk/area/borough/steps-by-london-bridge-with-bizarre-slanted-design-branded-worst-in-london/)
+
+[19th September 2024](https://southwarknews.co.uk/area/borough/steps-by-london-bridge-with-bizarre-slanted-design-branded-worst-in-london/)
+
 [![The Aylesbury estate in Southwark is due to be demolished and rebuilt. CREDIT: Robert Firth](https://southwarknews.co.uk/wp-content/uploads/2024/09/281443832_1271655566700908_3428153952989453541_n-120x86.jpg)](https://southwarknews.co.uk/area/walworth/social-housing-on-regenerated-ayslesbury-estate-more-expensive-than-normal-council-housing-report-claims/)
 
 ### [Social housing on regenerated Ayslesbury Estate ‘more expensive’ than normal council housing, report claims](https://southwarknews.co.uk/area/walworth/social-housing-on-regenerated-ayslesbury-estate-more-expensive-than-normal-council-housing-report-claims/)
@@ -262,12 +268,6 @@ Credit: Harrison Galliven](https://southwarknews.co.uk/wp-content/uploads/2024/0
 ### [Prince Harry waxwork escapes from Madame Tussauds for birthday pint at Peckham pub](https://southwarknews.co.uk/area/peckham/prince-harry-and-meghan-markle-waxworks-escapes-from-madame-tussauds-for-birthday-pint-at-peckham-pub/)
 
 [18th September 2024](https://southwarknews.co.uk/area/peckham/prince-harry-and-meghan-markle-waxworks-escapes-from-madame-tussauds-for-birthday-pint-at-peckham-pub/)
-
-[![CCTV footage shared by the farm showed a figure dumping a bag on the farm. Credit: Surrey Docks Farm](https://southwarknews.co.uk/wp-content/uploads/2024/09/CCTV-footage-shared-by-the-farm-showed-a-figure-dumping-a-bag-on-the-farm.-Credit-Surrey-Docks-Farm-120x86.png)](https://southwarknews.co.uk/area/rotherhithe/pets-abandoned-at-rotherhithe-farm-killed-by-foxes/)
-
-### [Pets abandoned at Rotherhithe farm killed by foxes](https://southwarknews.co.uk/area/rotherhithe/pets-abandoned-at-rotherhithe-farm-killed-by-foxes/)
-
-[18th September 2024](https://southwarknews.co.uk/area/rotherhithe/pets-abandoned-at-rotherhithe-farm-killed-by-foxes/)
 
 ### USEFUL PAGES
 
