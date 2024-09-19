@@ -20,16 +20,16 @@ Thursday, September 19 2024
 
 Latest
 
-* [Most Reliable Fuel-Efficient New Midsized SUVs](https://digitpatrox.com/most-reliable-fuel-efficient-new-midsized-suvs/)
-* [Learning How ChatGPT Works Helped Me Better Use It](https://digitpatrox.com/learning-how-chatgpt-works-helped-me-better-use-it/)
-* [UK funds new cybersecurity program for overseas firms](https://digitpatrox.com/uk-funds-new-cybersecurity-program-for-overseas-firms/)
-* [Google Overturns €1.5 Billion E.U. Antitrust Fine](https://digitpatrox.com/google-overturns-e1-5-billion-e-u-antitrust-fine/)
-* [NYT Connections today hints and answers — Thursday, September 19 (#466)](https://digitpatrox.com/nyt-connections-today-hints-and-answers-thursday-september-19-466/)
-* [Google Workspace users will see their Calendars front and center in Chrome](https://digitpatrox.com/google-workspace-users-will-see-their-calendars-front-and-center-in-chrome/)
-* [GTA 6 Hasn’t Been Delayed and Will Release in Fall 2025, Affirms Take Two](https://digitpatrox.com/gta-6-hasnt-been-delayed-and-will-release-in-fall-2025-affirms-take-two/)
-* [“Values drive value” – Salesforce Ventures is ramping up AI investment, and ethical development is a key focus](https://digitpatrox.com/values-drive-value-salesforce-ventures-is-ramping-up-ai-investment-and-ethical-development-is-a-key-focus/)
-* [Encryption is coming to RCS, protecting Android and iPhone – Computerworld](https://digitpatrox.com/encryption-is-coming-to-rcs-protecting-android-and-iphone-computerworld/)
-* [This iOS 18 Bug Can Only Be Fixed by Deleting Your Messages](https://digitpatrox.com/this-ios-18-bug-can-only-be-fixed-by-deleting-your-messages/)
+* [Built-in AI will boost interest in VR and AR – Computerworld](https://digitpatrox.com/built-in-ai-will-boost-interest-in-vr-and-ar-computerworld/)
+* [Wordle Answer for Today, September 19, 2024](https://digitpatrox.com/wordle-answer-for-today-september-19-2024/)
+* [Best Smoke and Carbon Monoxide Detectors of 2024](https://digitpatrox.com/best-smoke-and-carbon-monoxide-detectors-of-2024/)
+* [It’s Now Easier to Make Raspberry Pi Pico Projects](https://digitpatrox.com/its-now-easier-to-make-raspberry-pi-pico-projects/)
+* [Sellers that partner with AI are 3.7 times more likely to hit quota, Gartner finds](https://digitpatrox.com/sellers-that-partner-with-ai-are-3-7-times-more-likely-to-hit-quota-gartner-finds/)
+* [Security Leaders Consider Banning AI-Generated Code](https://digitpatrox.com/security-leaders-consider-banning-ai-generated-code/)
+* [‘Frasier’ season 2 is the perfect sitcom comfort food](https://digitpatrox.com/frasier-season-2-is-the-perfect-sitcom-comfort-food/)
+* [GTA V, one of the most popular Steam Deck games, is now ‘unsupported’](https://digitpatrox.com/gta-v-one-of-the-most-popular-steam-deck-games-is-now-unsupported/)
+* [NYT Strands Today: Hints, Answers & Spangram for September 19](https://digitpatrox.com/nyt-strands-today-hints-answers-spangram-for-september-19/)
+* [Security leaders are increasingly worried about AI-generated code – but feel they can’t prevent staff from using it](https://digitpatrox.com/security-leaders-are-increasingly-worried-about-ai-generated-code-but-feel-they-cant-prevent-staff-from-using-it/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,33 +171,33 @@ Popular Posts
     4 weeks ago
     
 
-* [![](https://article.images.consumerreports.org/image/upload/t_article_tout/v1721837249/prod/content/dam/CRO-Images-2024/Cars/CR-Cars-InlineHero-Most-Reliable-and-Fuel-Efficient-New-Midsized-SUVs-0724)](https://digitpatrox.com/most-reliable-fuel-efficient-new-midsized-suvs/)
+* [![](https://www.computerworld.com/wp-content/uploads/2024/09/3526350-0-81404300-1726586726-original.jpg?quality=50&strip=all&w=1024)](https://digitpatrox.com/built-in-ai-will-boost-interest-in-vr-and-ar-computerworld/)
     
-    [Most Reliable Fuel-Efficient New Midsized SUVs](https://digitpatrox.com/most-reliable-fuel-efficient-new-midsized-suvs/)
+    [Built-in AI will boost interest in VR and AR – Computerworld](https://digitpatrox.com/built-in-ai-will-boost-interest-in-vr-and-ar-computerworld/)
     
     17 mins ago
     
-* [![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/09/a-man-holding-a-phone-with-the-chatgpt-logo-above-the-screen.jpg)](https://digitpatrox.com/learning-how-chatgpt-works-helped-me-better-use-it/)
+* [![](https://lifehacker.com/imagery/articles/01J7V7KP8VZAB5RN08N5DRDEA6/hero-image.fill.size_1200x675.jpg)](https://digitpatrox.com/wordle-answer-for-today-september-19-2024/)
     
-    [Learning How ChatGPT Works Helped Me Better Use It](https://digitpatrox.com/learning-how-chatgpt-works-helped-me-better-use-it/)
+    [Wordle Answer for Today, September 19, 2024](https://digitpatrox.com/wordle-answer-for-today-september-19-2024/)
     
-    18 mins ago
+    42 mins ago
     
-* [![](https://cdn.mos.cms.futurecdn.net/GhQwjBRfeWg2jPp4oFiWs7-1200-80.jpg)](https://digitpatrox.com/uk-funds-new-cybersecurity-program-for-overseas-firms/)
+* [![](https://article.images.consumerreports.org/image/upload/t_article_tout/v1698947470/prod/content/dam/CRO-Images-2023/11November/Home/CR-Home-Inlinehero-best-smoke-co-detectors-1123)](https://digitpatrox.com/best-smoke-and-carbon-monoxide-detectors-of-2024/)
     
-    [UK funds new cybersecurity program for overseas firms](https://digitpatrox.com/uk-funds-new-cybersecurity-program-for-overseas-firms/)
-    
-    1 hour ago
-    
-* [![](https://assets.techrepublic.com/uploads/2024/09/tr_20240918-court-overturns-google-eu-fine.jpg)](https://digitpatrox.com/google-overturns-e1-5-billion-e-u-antitrust-fine/)
-    
-    [Google Overturns €1.5 Billion E.U. Antitrust Fine](https://digitpatrox.com/google-overturns-e1-5-billion-e-u-antitrust-fine/)
+    [Best Smoke and Carbon Monoxide Detectors of 2024](https://digitpatrox.com/best-smoke-and-carbon-monoxide-detectors-of-2024/)
     
     1 hour ago
     
-* [![](https://cdn.mos.cms.futurecdn.net/cF6f5PcRoahYxLFA4Pi6TW-1200-80.jpg)](https://digitpatrox.com/nyt-connections-today-hints-and-answers-thursday-september-19-466/)
+* [![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/13.jpg)](https://digitpatrox.com/its-now-easier-to-make-raspberry-pi-pico-projects/)
     
-    [NYT Connections today hints and answers — Thursday, September 19 (#466)](https://digitpatrox.com/nyt-connections-today-hints-and-answers-thursday-september-19-466/)
+    [It’s Now Easier to Make Raspberry Pi Pico Projects](https://digitpatrox.com/its-now-easier-to-make-raspberry-pi-pico-projects/)
+    
+    1 hour ago
+    
+* [![](https://cdn.mos.cms.futurecdn.net/fixSqVypdBR7nkuPjMYzRR-1200-80.jpg)](https://digitpatrox.com/sellers-that-partner-with-ai-are-3-7-times-more-likely-to-hit-quota-gartner-finds/)
+    
+    [Sellers that partner with AI are 3.7 times more likely to hit quota, Gartner finds](https://digitpatrox.com/sellers-that-partner-with-ai-are-3-7-times-more-likely-to-hit-quota-gartner-finds/)
     
     2 hours ago
     
@@ -210,49 +210,49 @@ Recent Topics
 
 * [17 mins ago
     
-    ### Most Reliable Fuel-Efficient New Midsized SUVs](https://digitpatrox.com/most-reliable-fuel-efficient-new-midsized-suvs/)
-* [18 mins ago
+    ### Built-in AI will boost interest in VR and AR – Computerworld](https://digitpatrox.com/built-in-ai-will-boost-interest-in-vr-and-ar-computerworld/)
+* [42 mins ago
     
-    ### Learning How ChatGPT Works Helped Me Better Use It](https://digitpatrox.com/learning-how-chatgpt-works-helped-me-better-use-it/)
+    ### Wordle Answer for Today, September 19, 2024](https://digitpatrox.com/wordle-answer-for-today-september-19-2024/)
 * [1 hour ago
     
-    ### UK funds new cybersecurity program for overseas firms](https://digitpatrox.com/uk-funds-new-cybersecurity-program-for-overseas-firms/)
+    ### Best Smoke and Carbon Monoxide Detectors of 2024](https://digitpatrox.com/best-smoke-and-carbon-monoxide-detectors-of-2024/)
 
 Most Popular Topics
 
-* [1 week ago
+* [4 weeks ago
     
-    ### iPhone 16, Apple Watch 10, and AirPods 4 Preview](https://digitpatrox.com/iphone-16-apple-watch-10-and-airpods-4-preview/)
+    ### Microsoft to release AI feature Recall in October for Windows Insiders – Computerworld](https://digitpatrox.com/microsoft-to-release-ai-feature-recall-in-october-for-windows-insiders-computerworld/)
+* [4 weeks ago
+    
+    ### British Library issues £400,000 tender as rebuild continues after 2023 cyber attack](https://digitpatrox.com/british-library-issues-400000-tender-as-rebuild-continues-after-2023-cyber-attack/)
 * [2 weeks ago
     
-    ### European AI treaty adds uncertainty for CIOs, but few specifics – Computerworld](https://digitpatrox.com/european-ai-treaty-adds-uncertainty-for-cios-but-few-specifics-computerworld/)
-* [August 14, 2024
-    
-    ### Pixel Watch 3 comes with 2 years of free data — what you need to know](https://digitpatrox.com/pixel-watch-3-comes-with-2-years-of-free-data-what-you-need-to-know/)
+    ### Microsoft Store Not Opening on Windows 11? 8 Ways to Fix It](https://digitpatrox.com/microsoft-store-not-opening-on-windows-11-8-ways-to-fix-it/)
 
 Last Modified Topics
 
 * [3 hours ago
     
-    ### GTA 6 Hasn’t Been Delayed and Will Release in Fall 2025, Affirms Take Two](https://digitpatrox.com/gta-6-hasnt-been-delayed-and-will-release-in-fall-2025-affirms-take-two/)
+    ### ‘Frasier’ season 2 is the perfect sitcom comfort food](https://digitpatrox.com/frasier-season-2-is-the-perfect-sitcom-comfort-food/)
 * [4 hours ago
     
-    ### “Values drive value” – Salesforce Ventures is ramping up AI investment, and ethical development is a key focus](https://digitpatrox.com/values-drive-value-salesforce-ventures-is-ramping-up-ai-investment-and-ethical-development-is-a-key-focus/)
+    ### GTA V, one of the most popular Steam Deck games, is now ‘unsupported’](https://digitpatrox.com/gta-v-one-of-the-most-popular-steam-deck-games-is-now-unsupported/)
 * [4 hours ago
     
-    ### Encryption is coming to RCS, protecting Android and iPhone – Computerworld](https://digitpatrox.com/encryption-is-coming-to-rcs-protecting-android-and-iphone-computerworld/)
+    ### NYT Strands Today: Hints, Answers & Spangram for September 19](https://digitpatrox.com/nyt-strands-today-hints-answers-spangram-for-september-19/)
 
 Most Viewed Topics
 
+* [August 11, 2024
+    
+    ### US citizen charged with aiding North Korean hackers moonlighting as tech workers](https://digitpatrox.com/us-citizen-charged-with-aiding-north-korean-hackers-moonlighting-as-tech-workers/)
 * [August 13, 2024
     
-    ### How to manage a road trip move](https://digitpatrox.com/how-to-manage-a-road-trip-move/)
-* [August 12, 2024
+    ### TikTok Is Pushing Old and False News as ”Breaking” Alerts](https://digitpatrox.com/tiktok-is-pushing-old-and-false-news-as-breaking-alerts/)
+* [August 13, 2024
     
-    ### Texas Board of Physical Therapy Examiners breached, SSNs and other info compromised](https://digitpatrox.com/texas-board-of-physical-therapy-examiners-breached-ssns-and-other-info-compromised/)
-* [4 weeks ago
-    
-    ### Wordle Answer for Today, August 21, 2024](https://digitpatrox.com/wordle-answer-for-today-august-21-2024/)
+    ### Best New-Car Deals – Consumer Reports](https://digitpatrox.com/best-new-car-deals-consumer-reports/)
 
 © Copyright 2018 - 2024, All Rights Reserved
 
