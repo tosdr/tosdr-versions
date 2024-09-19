@@ -305,10 +305,10 @@ The place for ready-to-use ESL lesson plans for teaching online and offline.
 
 ### New Lessons
 
+* [Uncertain times in business](https://eslbrains.com/uncertain-times-in-business/ "Uncertain times in business")
 * [How good is your memory?](https://eslbrains.com/how-good-is-your-memory/ "How good is your memory?")
 * [Ethical dilemmas in science](https://eslbrains.com/ethical-dilemmas-in-science/ "Ethical dilemmas in science")
 * [How about a tattoo?](https://eslbrains.com/how-about-a-tattoo/ "How about a tattoo?")
-* [In a league of your own](https://eslbrains.com/in-a-league-of-your-own/ "In a league of your own")
 
 © ESL Brains 2023
 
