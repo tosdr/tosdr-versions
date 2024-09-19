@@ -276,15 +276,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-Arthur Weasley has two brothers.
+The Ripley Scroll (England, 1570) teaches readers how to create the philosopher’s stone.
 
 ### Potter History
 
-September 7, 2005 – Harry Potter special edition iPod and first ever digital audiobooks released on iTunes.
+January 29, 2006 – Harry Potter and the Goblet of Fire is announced as the eighth-highest grossing film of all time.
 
 ### Potter Quote
 
-“Who blacked your eye, Granger? I want to send them flowers.”
+“That brings \[Trelawney’s\] total of real predictions up to two. I should offer her a pay raise. . . .”
 
 [](#)
 
