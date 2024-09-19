@@ -299,6 +299,14 @@
 
 [Все новости](https://er.ru/activity/news)
 
+[![«Единая Россия»: Выставка «Сила V Правде – гордость и победа» 27 сентября начнёт работать в Сургуте](https://cdn.er.ru/media/news/September2024/OMwdhgT20pp8ENYda2lH-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-vystavka-sila-v-pravde-gordost-i-pobeda-27-sentyabrya-nachnyot-rabotat-v-surgute)
+
+[«Единая Россия»: Выставка «Сила V Правде – гордость и победа» 27 сентября начнёт работать в Сургуте](https://er.ru/activity/news/edinaya-rossiya-vystavka-sila-v-pravde-gordost-i-pobeda-27-sentyabrya-nachnyot-rabotat-v-surgute)
+
+[#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#Ханты-Мансийский автономный округ-Югра](https://er.ru/activity/news?tags%5B0%5D=123387) [#выставка](https://er.ru/activity/news?tags%5B0%5D=1427) [#техника](https://er.ru/activity/news?tags%5B0%5D=2305) [#НАТО](https://er.ru/activity/news?tags%5B0%5D=1286)
+
+Сегодня 09:00
+
 [![Владимир Путин: Выборы проходили в условиях конкурентной борьбы и при самой высокой за всю историю проведения Единого дня голосования явке](https://cdn.er.ru/media/news/September2024/KGJPUnIBjaN7hfJ2gbgJ-small.jpg)](https://er.ru/activity/news/vladimir-putin-vybory-prohodili-v-usloviyah-konkurentnoj-borby-i-pri-samoj-vysokoj-za-vsyu-istoriyu-provedeniya-edinogo-dnya-golosovaniya-yavke)
 
 [Владимир Путин: Выборы проходили в условиях конкурентной борьбы и при самой высокой за всю историю проведения Единого дня голосования явке](https://er.ru/activity/news/vladimir-putin-vybory-prohodili-v-usloviyah-konkurentnoj-borby-i-pri-samoj-vysokoj-za-vsyu-istoriyu-provedeniya-edinogo-dnya-golosovaniya-yavke)
@@ -336,14 +344,6 @@
 [Евгений Нифантьев: «Единая Россия» обеспечит законодательную базу для работы новых нацпроектов в области здравоохранения и народосбережения](https://er.ru/activity/news/evgenij-nifantev-edinaya-rossiya-obespechit-zakonodatelnuyu-bazu-dlya-raboty-novyh-nacproektov-v-oblasti-zdravoohraneniya-i-narodosberezheniya)
 
 [#Нифантьев](https://er.ru/activity/news?tags%5B0%5D=150020) [#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#первичноезвеноздравоохранения](https://er.ru/activity/news?tags%5B0%5D=137171) [#законопроекты](https://er.ru/activity/news?tags%5B0%5D=863) [#нацпроекты](https://er.ru/activity/news?tags%5B0%5D=127007)
-
-18.09.24
-
-[![Александр Мажуга: «Единая Россия» в осеннюю сессию обеспечит принятие приоритетных законопроектов в сфере высшего образования и науки](https://cdn.er.ru/media/news/September2024/5nqmrGaU6OjYFXope4Yd-small.jpg)](https://er.ru/activity/news/aleksandr-mazhuga-edinaya-rossiya-v-osennyuyu-sessiyu-obespechit-prinyatie-prioritetnyh-zakonoproektov-v-sfere-vysshego-obrazovaniya-i-nauki)
-
-[Александр Мажуга: «Единая Россия» в осеннюю сессию обеспечит принятие приоритетных законопроектов в сфере высшего образования и науки](https://er.ru/activity/news/aleksandr-mazhuga-edinaya-rossiya-v-osennyuyu-sessiyu-obespechit-prinyatie-prioritetnyh-zakonoproektov-v-sfere-vysshego-obrazovaniya-i-nauki)
-
-[#Мажуга](https://er.ru/activity/news?tags%5B0%5D=1091855) [#фракцияЕР](https://er.ru/activity/news?tags%5B0%5D=126717) [#молодыеученые](https://er.ru/activity/news?tags%5B0%5D=127906) [#мерыподдержки](https://er.ru/activity/news?tags%5B0%5D=147555) [#образование](https://er.ru/activity/news?tags%5B0%5D=57) [#медицина](https://er.ru/activity/news?tags%5B0%5D=273) [#наука](https://er.ru/activity/news?tags%5B0%5D=354) [#вузы](https://er.ru/activity/news?tags%5B0%5D=635) [#технологии](https://er.ru/activity/news?tags%5B0%5D=1090612) [#общежития](https://er.ru/activity/news?tags%5B0%5D=3688) [#бюджет](https://er.ru/activity/news?tags%5B0%5D=112) [#народнаяпрограмма](https://er.ru/activity/news?tags%5B0%5D=109889)
 
 18.09.24
 
