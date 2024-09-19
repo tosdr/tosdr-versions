@@ -19,6 +19,11 @@
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![The floor design is a faithful reproduction of the original flooring from Victorian times
+    Credit: Harrison Galliven](https://southwarknews.co.uk/wp-content/uploads/2024/09/Crystal-Palace-Subway-flooring-360x180.jpg)](https://southwarknews.co.uk/area/crystal-palace/first-glimpse-at-crystal-palaces-160-year-old-subway-to-open-to-public-this-saturday-after-3-5-million-restoration/)
+    
+    ### [First glimpse at Crystal Palace’s 160-year-old subway to open to public this Saturday after £3.5 million restoration](https://southwarknews.co.uk/area/crystal-palace/first-glimpse-at-crystal-palaces-160-year-old-subway-to-open-to-public-this-saturday-after-3-5-million-restoration/)
+    
     [![Simon Drake stood beside the mural outside his Walworth home. Credit: Herbie Russell](https://southwarknews.co.uk/wp-content/uploads/2024/09/Simon-Drake-stood-beside-the-mural-outside-his-Walworth-home.-Credit-Herbie-Russell-360x180.png)](https://southwarknews.co.uk/area/walworth/giraffe-painting-outside-my-walworth-home-could-be-a-banksy-says-tv-magician/)
     
     ### [‘Giraffe painting outside my Walworth home could be a Banksy’, says TV magician](https://southwarknews.co.uk/area/walworth/giraffe-painting-outside-my-walworth-home-could-be-a-banksy-says-tv-magician/)
@@ -50,10 +55,6 @@
     [![Credit: LFB](https://southwarknews.co.uk/wp-content/uploads/2024/06/stock-fire-engines-1-london-fire-brigade-360x180.jpeg)](https://southwarknews.co.uk/area/peckham/twenty-tonnes-of-recyclable-waste-destroyed-in-fire-off-old-kent-road/)
     
     ### [Twenty tonnes of recyclable waste destroyed in fire off Old Kent Road](https://southwarknews.co.uk/area/peckham/twenty-tonnes-of-recyclable-waste-destroyed-in-fire-off-old-kent-road/)
-    
-    [![The Rising SE1 founders Simon Burke and Piers Greenlees.](https://southwarknews.co.uk/wp-content/uploads/2024/04/Founder-Simon-Burke-and-Piers-Greenlees-360x180.jpeg)](https://southwarknews.co.uk/area/bermondsey/londons-first-lgbtq-cinema-is-set-to-open-in-a-bermondsey/)
-    
-    ### [London’s first LGBTQ+ cinema is set to open in a Bermondsey](https://southwarknews.co.uk/area/bermondsey/londons-first-lgbtq-cinema-is-set-to-open-in-a-bermondsey/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [In depth history](https://southwarknews.co.uk/category/history/in-depth-history/)
@@ -99,6 +100,11 @@ View All Result
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![The floor design is a faithful reproduction of the original flooring from Victorian times
+    Credit: Harrison Galliven](https://southwarknews.co.uk/wp-content/uploads/2024/09/Crystal-Palace-Subway-flooring-360x180.jpg)](https://southwarknews.co.uk/area/crystal-palace/first-glimpse-at-crystal-palaces-160-year-old-subway-to-open-to-public-this-saturday-after-3-5-million-restoration/)
+    
+    ### [First glimpse at Crystal Palace’s 160-year-old subway to open to public this Saturday after £3.5 million restoration](https://southwarknews.co.uk/area/crystal-palace/first-glimpse-at-crystal-palaces-160-year-old-subway-to-open-to-public-this-saturday-after-3-5-million-restoration/)
+    
     [![Simon Drake stood beside the mural outside his Walworth home. Credit: Herbie Russell](https://southwarknews.co.uk/wp-content/uploads/2024/09/Simon-Drake-stood-beside-the-mural-outside-his-Walworth-home.-Credit-Herbie-Russell-360x180.png)](https://southwarknews.co.uk/area/walworth/giraffe-painting-outside-my-walworth-home-could-be-a-banksy-says-tv-magician/)
     
     ### [‘Giraffe painting outside my Walworth home could be a Banksy’, says TV magician](https://southwarknews.co.uk/area/walworth/giraffe-painting-outside-my-walworth-home-could-be-a-banksy-says-tv-magician/)
@@ -130,10 +136,6 @@ View All Result
     [![Credit: LFB](https://southwarknews.co.uk/wp-content/uploads/2024/06/stock-fire-engines-1-london-fire-brigade-360x180.jpeg)](https://southwarknews.co.uk/area/peckham/twenty-tonnes-of-recyclable-waste-destroyed-in-fire-off-old-kent-road/)
     
     ### [Twenty tonnes of recyclable waste destroyed in fire off Old Kent Road](https://southwarknews.co.uk/area/peckham/twenty-tonnes-of-recyclable-waste-destroyed-in-fire-off-old-kent-road/)
-    
-    [![The Rising SE1 founders Simon Burke and Piers Greenlees.](https://southwarknews.co.uk/wp-content/uploads/2024/04/Founder-Simon-Burke-and-Piers-Greenlees-360x180.jpeg)](https://southwarknews.co.uk/area/bermondsey/londons-first-lgbtq-cinema-is-set-to-open-in-a-bermondsey/)
-    
-    ### [London’s first LGBTQ+ cinema is set to open in a Bermondsey](https://southwarknews.co.uk/area/bermondsey/londons-first-lgbtq-cinema-is-set-to-open-in-a-bermondsey/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [In depth history](https://southwarknews.co.uk/category/history/in-depth-history/)
@@ -207,17 +209,17 @@ Terms of Use
 
 [16th September 2024](https://southwarknews.co.uk/sport/football/millwall/millwall-boss-gives-verdict-after-replacement-striker-inches-away-from-first-lions-goal/)
 
-[![A photo of the ship sailing in New York ®Alejandro Mallado Erbez](https://southwarknews.co.uk/wp-content/uploads/2024/09/Foto-Galeon-Nueva-York-2013-120x86.jpg)](https://southwarknews.co.uk/news/spanish-17th-century-galleon-will-soon-arrive-in-london/)
-
-### [Spanish 17th-century galleon will soon arrive in London](https://southwarknews.co.uk/news/spanish-17th-century-galleon-will-soon-arrive-in-london/)
-
-[14th September 2024](https://southwarknews.co.uk/news/spanish-17th-century-galleon-will-soon-arrive-in-london/)
-
 [![JD Wetherspoon has applied for a license at 50 Tooley Street. Image: Google](https://southwarknews.co.uk/wp-content/uploads/2024/09/JD-Wetherspoon-has-applied-for-a-license-at-50-Tooley-Street.-Image-Google-120x86.png)](https://southwarknews.co.uk/area/borough/wetherspoons-to-open-pub-in-former-london-dungeon/)
 
 ### [Wetherspoons to open pub in former London Dungeon](https://southwarknews.co.uk/area/borough/wetherspoons-to-open-pub-in-former-london-dungeon/)
 
 [17th September 2024](https://southwarknews.co.uk/area/borough/wetherspoons-to-open-pub-in-former-london-dungeon/)
+
+[![A photo of the ship sailing in New York ®Alejandro Mallado Erbez](https://southwarknews.co.uk/wp-content/uploads/2024/09/Foto-Galeon-Nueva-York-2013-120x86.jpg)](https://southwarknews.co.uk/news/spanish-17th-century-galleon-will-soon-arrive-in-london/)
+
+### [Spanish 17th-century galleon will soon arrive in London](https://southwarknews.co.uk/news/spanish-17th-century-galleon-will-soon-arrive-in-london/)
+
+[14th September 2024](https://southwarknews.co.uk/news/spanish-17th-century-galleon-will-soon-arrive-in-london/)
 
 [![](https://southwarknews.co.uk/wp-content/uploads/2024/09/Leahy-120x86.jpeg)](https://southwarknews.co.uk/sport/football/millwall/millwall-manager-discusses-call-back-option-for-on-loan-striker/)
 
@@ -233,6 +235,13 @@ Photo by  Joe Coughlan.](https://southwarknews.co.uk/wp-content/uploads/2024/09/
 [15th September 2024](https://southwarknews.co.uk/area/south-london/pensioners-in-south-london-disgusted-by-governments-cut-to-winter-fuel-payments/)
 
 ### Featured Articles
+
+[![The floor design is a faithful reproduction of the original flooring from Victorian times
+Credit: Harrison Galliven](https://southwarknews.co.uk/wp-content/uploads/2024/09/Crystal-Palace-Subway-flooring-120x86.jpg)](https://southwarknews.co.uk/area/crystal-palace/first-glimpse-at-crystal-palaces-160-year-old-subway-to-open-to-public-this-saturday-after-3-5-million-restoration/)
+
+### [First glimpse at Crystal Palace’s 160-year-old subway to open to public this Saturday after £3.5 million restoration](https://southwarknews.co.uk/area/crystal-palace/first-glimpse-at-crystal-palaces-160-year-old-subway-to-open-to-public-this-saturday-after-3-5-million-restoration/)
+
+[19th September 2024](https://southwarknews.co.uk/area/crystal-palace/first-glimpse-at-crystal-palaces-160-year-old-subway-to-open-to-public-this-saturday-after-3-5-million-restoration/)
 
 [![Simon Drake stood beside the mural outside his Walworth home. Credit: Herbie Russell](https://southwarknews.co.uk/wp-content/uploads/2024/09/Simon-Drake-stood-beside-the-mural-outside-his-Walworth-home.-Credit-Herbie-Russell-120x86.png)](https://southwarknews.co.uk/area/walworth/giraffe-painting-outside-my-walworth-home-could-be-a-banksy-says-tv-magician/)
 
@@ -263,12 +272,6 @@ Photo by  Joe Coughlan.](https://southwarknews.co.uk/wp-content/uploads/2024/09/
 ### [Homeless Camberwell teens to play in football tournament admired by Pep Guardiola](https://southwarknews.co.uk/area/camberwell/homeless-camberwell-teens-to-play-in-football-tournament-admired-by-pep-guardiola/)
 
 [18th September 2024](https://southwarknews.co.uk/area/camberwell/homeless-camberwell-teens-to-play-in-football-tournament-admired-by-pep-guardiola/)
-
-[![Neil Coyle has managed to see the funny side of the situation but insists MPs' safety remains a serious issue](https://southwarknews.co.uk/wp-content/uploads/2024/09/Neil-Coyle-has-managed-to-see-the-funny-side-of-the-situation-but-insists-MPs-safety-remains-a-serious-issue-120x86.png)](https://southwarknews.co.uk/area/bermondsey/furious-mp-neil-coyle-searching-for-gollum-lookalike-and-says-he-must-apologise-for-egging-his-office/)
-
-### [Furious MP Neil Coyle searching for ‘Gollum lookalike’ and says he must apologise for egging his office](https://southwarknews.co.uk/area/bermondsey/furious-mp-neil-coyle-searching-for-gollum-lookalike-and-says-he-must-apologise-for-egging-his-office/)
-
-[17th September 2024](https://southwarknews.co.uk/area/bermondsey/furious-mp-neil-coyle-searching-for-gollum-lookalike-and-says-he-must-apologise-for-egging-his-office/)
 
 ### USEFUL PAGES
 
