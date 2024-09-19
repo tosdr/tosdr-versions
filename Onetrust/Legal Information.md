@@ -2,180 +2,101 @@
 
  [![N/A](/content/dam/onetrust/brand/elements/image/digital/logo/OT-website-logo.svg "OT-website-logo")](https://www.onetrust.com/)
 
-[Why OneTrust](https://www.onetrust.com/why-onetrust/ "Why OneTrust")
-
-[Products](# "Products")
-
-* Trust Intelligence Platform
-    
-    * [Platform Overview
-        
-        Our Trust Intelligence Platform fosters trusted innovation with data and artificial intelligence across privacy, security, and ethics initiatives.](https://www.onetrust.com/platform/)
-        
-    * [Explore the new DataGuidance
-        
-        Access regulatory analysis from over 40+ in-house researchers and a network of 1500+ lawyers across 300 jurisdictions to simplify global compliance.](https://www.onetrust.com/content/onetrust/us/en/products/data-guidance)
-        
-    * [Pricing
-        
-        Flexible pricing options to meet your organization’s size and requirements.](https://www.onetrust.com/pricing/)
-        
-    
-* * [Privacy Automation](https://www.onetrust.com/content/onetrust/us/en/platform/privacy-management)
-        
-    * [Data Discovery & Security](https://www.onetrust.com/content/onetrust/us/en/platform/data-discovery-and-security)
-        
-    * [Consent & Preferences](https://www.onetrust.com/content/onetrust/us/en/platform/consent-and-preferences)
-        
-    * [AI Governance](https://www.onetrust.com/content/onetrust/us/en/products/ai-governance)
-        
-    * [Technology Risk & Compliance](https://www.onetrust.com/content/onetrust/us/en/platform/technology-risk-and-compliance)
-        
-    
-* * [Compliance Automation](https://www.onetrust.com/content/onetrust/us/en/products/compliance-automation)
-        
-    * [Third-Party Risk](https://www.onetrust.com/content/onetrust/us/en/platform/third-party-risk)
-        
-    * [Ethics Program Management](https://www.onetrust.com/content/onetrust/us/en/platform/ethics-program-management)
-        
-    * [Speak-Up Program Management](https://www.onetrust.com/content/onetrust/us/en/products/helpline-and-case-management)
-        
-    * [Third-Party Due Diligence](https://www.onetrust.com/content/onetrust/us/en/products/third-party-due-diligence)
-        
-    
-
 [Solutions](# "Solutions")
 
-* In the spotlight
+* Solutions
     
-    * [Map the future of AI
+    * [Consent & Preferences
         
-        While AI technology offers immense potential for businesses, it also presents risks and requires governance. See how OneTrust can help.](https://www.onetrust.com/content/onetrust/us/en/govern-ai-risk)
+        Streamline consent and preference management for consumer transparency](https://www.onetrust.com/content/onetrust/us/en/solutions/consent-and-preferences)
         
-    * [Get ready for DORA
+    * [Third-Party Management
         
-        Learn how the OneTrust platform can help you implement proactive measures to comply with the new Digital Operational Resilience Act.](https://www.onetrust.com/content/onetrust/us/en/solutions/digital-operational-resilience-act-dora-compliance)
-        
-    
-* Explore by use case
-    
-    * [Mature your data privacy program](https://www.onetrust.com/content/onetrust/us/en/solutions/mature-your-data-privacy-program)
-        
-    * [Understand your AI footprint](https://www.onetrust.com/content/onetrust/us/en/solutions/understand-your-ai-footprint)
-        
-    * [Enhance risk visibility across third-party lifecycle](https://www.onetrust.com/content/onetrust/us/en/solutions/enhance-third-party-risk-visibility)
-        
-    * [Preserve and enrich your first-party data](https://www.onetrust.com/content/onetrust/us/en/solutions/preserve-and-enrich-your-first-party-data)
-        
-    * [Optimize your risk and compliance lifecycle](https://www.onetrust.com/content/onetrust/us/en/solutions/optimize-your-risk-and-compliance-lifecycle)
-        
-    * [Understand and secure your sensitive data](https://www.onetrust.com/content/onetrust/us/en/solutions/understand-and-secure-your-sensitive-data)
-        
-    * [Advance your ethics program](https://www.onetrust.com/content/onetrust/us/en/solutions/advance-your-ethics-program)
+        Automate third-party management from intake to risk assessment, mitigation, ongoing monitoring, and reporting](https://www.onetrust.com/content/onetrust/us/en/solutions/third-party-management)
         
     
-* Explore by regulation
+* * [Privacy Automation
+        
+        Enable responsible use throughout the data lifecycle by operationalizing your privacy program](https://www.onetrust.com/content/onetrust/us/en/solutions/privacy-automation)
+        
+    * [Tech Risk & Compliance
+        
+        Scale your resources and optimize your risk and compliance lifecycle](https://www.onetrust.com/content/onetrust/us/en/solutions/tech-risk-and-compliance)
+        
     
-    * [US Privacy](https://www.onetrust.com/content/onetrust/us/en/solutions/us-privacy-compliance)
+* Featured Products
+    
+    * [AI Governance](https://www.onetrust.com/content/onetrust/us/en/products/ai-governance)
+        
+    * [Data Discovery & Classification](https://www.onetrust.com/content/onetrust/us/en/products/data-discovery)
+        
+    * [Third-Party Risk Management](https://www.onetrust.com/content/onetrust/us/en/products/third-party-risk-management)
+        
+    [View all products](https://www.onetrust.com/content/onetrust/us/en/products)
+    
+* Regulatory Solutions
+    
+    * [GDPR](https://www.onetrust.com/content/onetrust/us/en/solutions/gdpr-compliance)
         
     * [DORA](https://www.onetrust.com/content/onetrust/us/en/solutions/digital-operational-resilience-act-dora-compliance)
         
-    * [GDPR](https://www.onetrust.com/content/onetrust/us/en/solutions/gdpr-compliance)
+    * [US Privacy](https://www.onetrust.com/content/onetrust/us/en/solutions/us-privacy-compliance)
         
-    * [EU AI Act](https://www.onetrust.com/content/onetrust/us/en/solutions/eu-ai-act-compliance)
+    [View all regulatory solutions](https://www.onetrust.com/content/onetrust/language-masters/en/solutions#regulations)
+    
+
+[Platform](# "Products")
+
+* OneTrust Platform
+    
+    * [Platform Overview
         
-    * [CCPA](https://www.onetrust.com/content/onetrust/us/en/solutions/ccpa-compliance)
+        Build and demonstrate trust, measure and manage risk, and go beyond compliance](https://www.onetrust.com/content/onetrust/us/en/platform)
         
-    * [LGPD (Brazil)](https://www.onetrust.com/content/onetrust/us/en/solutions/brazil-lgpd-compliance)
+    
+* * [Why OneTrust
         
-    * [CPRA](https://www.onetrust.com/content/onetrust/us/en/solutions/cpra-compliance)
+        See why more than 14,000 customers – large and small – rely on OneTrust](https://www.onetrust.com/content/onetrust/us/en/why-onetrust)
         
-    * [SOC 2](https://www.onetrust.com/content/onetrust/us/en/solutions/soc-2-compliance)
+    
+* * [Pricing
         
-    [View all regulations](https://www.onetrust.com/content/onetrust/us/en/solutions)
+        Flexible pricing to meet your organization's unique needs](https://www.onetrust.com/content/onetrust/us/en/pricing)
+        
+    
+* * [Integrations
+        
+        Our extensive set of integrations makes it easy to add data management to your workflows](https://www.onetrust.com/content/onetrust/us/en/integrations)
+        
     
 
 [Resources](# "Resources")
 
-* Learn
+* Self-Service Resources
     
-    * [Resource Hub](https://www.onetrust.com/resources/)
+    * [Resource Library](https://www.onetrust.com/content/onetrust/us/en/resources)
         
-    * [OneTrust Blog](https://www.onetrust.com/blog/)
+    * [Customer Stories](https://www.onetrust.com/content/onetrust/us/en/customers)
         
-    * [Podcasts](https://www.onetrust.com/podcasts/)
-        
-    * [Training & Certifications](https://www.onetrust.com/certifications/)
+    * [Blog](https://www.onetrust.com/content/onetrust/us/en/blog)
         
     
-    [Are you a data privacy professional?
+* Training & Events
     
-    ![OneTrust Data Discovery & Governance Professional badge](/content/dam/onetrust/brand/content/graphic/thumbnail/nav/OT-nav-data-discovery-and-governance-professional.png)
-    
-    Learn more about our newest Data Discovery & Governance Professional certification track.](https://www.onetrust.com/certifications/data-discovery-and-governance-professional-certification/)
-* Implement
-    
-    * [Trust Center](https://www.onetrust.com/trust/)
+    * [Training & Certifications](https://www.onetrust.com/content/onetrust/us/en/certifications)
         
-    * [RFP Template](https://www.onetrust.com/rfp-template/)
+    * [TrustWeek](https://www.onetrust.com/content/onetrust/us/en/trustweek)
         
-    * [Professional Services](https://www.onetrust.com/services/)
+    * [Connect Workshops](https://privacyconnect.com/)
         
     
-* Get Help
+* Support
     
-    * [Help Center](https://my.onetrust.com/s/contactsupport)
+    * [Support & Services](https://www.onetrust.com/content/onetrust/us/en/services)
         
-    
-    [Log in: myOneTrust
-    
-    ![Graphic with the word "myOneTrust" over a gradient background](/content/dam/onetrust/brand/content/graphic/thumbnail/nav/OT-graphic-my-onetrust-nav-preview.svg)
-    
-    Access product documentation, request support, or share ideas through myOneTrust.](https://my.onetrust.com/)
-
-[Community](# "Community")
-
-* OneTrust Community
-    
-    * [TrustWeek](https://www.onetrust.com/trustweek/)
+    * [Partners](https://www.onetrust.com/content/onetrust/us/en/partners)
         
-    * [Connect Workshops](https://www.privacyconnect.com/)
-        
-    * [DataGuidance Research](https://www.dataguidance.com/)
-        
-    * [myOneTrust](https://my.onetrust.com/)
-        
-    
-* TrustWeek
-    
-    Join us for our annual conference and discover where trust can take your business
-    
-    * [![Trustweek logo on a blue-green gradient background](/content/dam/onetrust/brand/content/graphic/thumbnail/nav/OT-nav-trustweek-graphic.svg)](https://www.onetrust.com/trustweek/2024-emea/)
-        
-        [Learn, discover, and network with leading privacy, security and ethics professionals.](https://www.onetrust.com/trustweek/2024-emea/)
-        
-        * [15-16 October
-            
-            Madrid, Spain](https://www.onetrust.com/trustweek/2024-emea/ "15-16 October")
-        
-    
-* Connect Workshops
-    
-    Connect globally, network locally
-    
-    * [![Connect community by OneTrust logo on a green gradient background](/content/dam/onetrust/brand/content/graphic/thumbnail/nav/OT-nav-connect-workshops-graphic.svg)](https://www.privacyconnect.com/)
-        
-        [Learn about the topics that matter most to you, earn CPE credits, and network with other professionals in your area.](https://www.privacyconnect.com/)
-        
-        * [85
-            
-            Chapters](https://www.privacyconnect.com/ "85")
-        * [150
-            
-            Meetings](https://www.privacyconnect.com/ "150")
-        * [20,000
-            
-            Members](https://www.privacyconnect.com/ "20,000")
+    * [MyOneTrust Help Center](https://my.onetrust.com/s/contactsupport)
         
     
 
@@ -183,47 +104,27 @@
 
 * Company
     
-    * [About Us](https://www.onetrust.com/about-us/)
+    * [About Us](https://www.onetrust.com/content/onetrust/us/en/about-us)
         
-    * [Centers of Excellence](https://www.onetrust.com/center-of-excellence/)
+    * [Trust Center](https://www.onetrust.com/content/onetrust/us/en/trust)
         
-    * [Culture & Values](https://www.onetrust.com/about-us/culture-and-values/)
+    * [Careers](https://www.onetrust.com/content/onetrust/us/en/careers)
         
-    * [Partners](https://www.onetrust.com/partners/)
+    * [Newsroom](https://www.onetrust.com/content/onetrust/us/en/news)
         
-    * [Customer Stories](https://www.onetrust.com/customers/)
-        
-    * [Careers](https://www.onetrust.com/careers/)
-        
-    * [Newsroom](https://www.onetrust.com/news/)
-        
-    * [Contact Us](https://www.onetrust.com/forms/contact-us/)
+    * [Contact Us](https://www.onetrust.com/content/onetrust/us/en/forms/contact-us)
         
     
-* Join our team
+* Featured Event
     
-    OneTrust is a certified Great Place to Work
+    [![Trustweek logo on a blue-green gradient background](/content/dam/onetrust/brand/content/graphic/thumbnail/nav/OT-nav-trustweek-graphic.svg)
     
-    * [![Photo of group of coworkers in casual conversation](/content/dam/onetrust/brand/content/graphic/thumbnail/nav/OT-nav-join-our-team-photo.png)](https://www.onetrust.com/careers/)
-        
-        [](https://www.onetrust.com/careers/)
-        
-        * [2,000+
-            
-            Employees](https://www.onetrust.com/careers/ "2,000+")
-        * [10
-            
-            Global offices](https://www.onetrust.com/careers/ "10")
-        
-    
+    Join us live in Madrid October 15-16 for TrustWeek EMEA](https://www.onetrust.com/content/onetrust/us/en/trustweek/2024-emea)
 * Newsroom
     
-    Get the latest news, announcements, views, and more
+    ![Photo of view looking down at people walking in business building courtyard](/content/dam/onetrust/brand/content/graphic/thumbnail/nav/OT-nav-news-people-walking-outside-building-photo.png)
     
-    * [![Photo of view looking down at people walking in business building courtyard](/content/dam/onetrust/brand/content/graphic/thumbnail/nav/OT-nav-news-people-walking-outside-building-photo.png)](https://www.onetrust.com/news/)
-        
-        [](https://www.onetrust.com/news/)
-        
+    Get the latest news, announcements, views, and more
     
 
 [Request demo](https://www.onetrust.com/forms/demo/)
@@ -259,26 +160,11 @@ On-demand webinar coming soon...
 
 * * *
 
-![](/content/dam/onetrust/test-assets-/LogoSmall.png)
-
-* * *
-
-Your partner in trust transformation
-====================================
-
-* * *
-
-* * *
-
-* * *
-
-* * *
-
 ### Top Searches
 
 * [Trust Center](https://www.onetrust.com/trust/)
-* [Consent and Preferences](https://www.onetrust.com/platform/consent-and-preferences/)
-* [Third-Party Risk](https://www.onetrust.com/platform/third-party-risk/)
+* [Consent & Preferences](https://www.onetrust.com/solutions/consent-and-preferences/)
+* [Third-Party Management](https://www.onetrust.com/solutions/third-party-management/)
 * [Training & Certifications](https://www.onetrust.com/certifications/)
 
 ### Resources
