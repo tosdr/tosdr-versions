@@ -79,7 +79,7 @@
     
     BUSINESSES
     
-    * [Aerospace Technologies](https://aerospace.honeywell.com/us/en)
+    * [Aerospace Technologies](https://aerospace.honeywell.com/us/en/)
     * [Industrial Automation](https://automation.honeywell.com/us/en)
     * [Building Automation](https://buildings.honeywell.com/us/en)
     * [Energy And Sustainability Solutions](https://ess.honeywell.com/us/en)
@@ -213,7 +213,7 @@
     
     BUSINESSES
     
-    * [Aerospace Technologies](https://aerospace.honeywell.com/us/en)
+    * [Aerospace Technologies](https://aerospace.honeywell.com/us/en/)
     * [Industrial Automation](https://automation.honeywell.com/us/en)
     * [Building Automation](https://buildings.honeywell.com/us/en)
     * [Energy And Sustainability Solutions](https://ess.honeywell.com/us/en)
