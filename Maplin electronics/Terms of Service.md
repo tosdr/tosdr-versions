@@ -531,6 +531,7 @@ Browse
         * [Heating](https://www.maplin.co.uk/collections/heating)
         * [Fans & Air Conditioners](https://www.maplin.co.uk/collections/fans)
         * [Humidifiers](https://www.maplin.co.uk/collections/humidifiers)
+        * [Dehumidifiers](https://www.maplin.co.uk/collections/dehumidifiers)
         * [Patio Heaters](https://www.maplin.co.uk/collections/patio-heaters)
         
     * [Kids' Ride On Toys](https://www.maplin.co.uk/collections/kids-ride-on-toys)
@@ -1314,6 +1315,7 @@ Browse
     * [Heating](https://www.maplin.co.uk/collections/heating)
     * [Fans & Air Conditioners](https://www.maplin.co.uk/collections/fans)
     * [Humidifiers](https://www.maplin.co.uk/collections/humidifiers)
+    * [Dehumidifiers](https://www.maplin.co.uk/collections/dehumidifiers)
     * [Patio Heaters](https://www.maplin.co.uk/collections/patio-heaters)
     
     [Kids' Ride On Toys](https://www.maplin.co.uk/collections/kids-ride-on-toys)
