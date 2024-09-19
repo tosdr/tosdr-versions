@@ -1,6 +1,6 @@
 [![](/assets/logo-3b6b6294dd1ca7308b9a9754bfeffaef9918dcc5467b9d15a5a8937b4c1e7e6d.svg)](https://patriotpost.us/)
 
-[Read The Latest Digest](https://patriotpost.us/digests/110354-mid-day-digest-2024-09-18?utm_campaign=latest_digest&utm_content=subscribe_sidebar&utm_medium=web&utm_source=patriotpost.us)
+[Read The Latest Digest](https://patriotpost.us/digests/110387-mid-day-digest-2024-09-19?utm_campaign=latest_digest&utm_content=subscribe_sidebar&utm_medium=web&utm_source=patriotpost.us)
 
 Privacy Policy for _The Patriot Post_
 
@@ -104,7 +104,7 @@ Our website provides a Contact Us section to facilitate feedback from site visit
 
 Last Updated: November 15, 2011.
 
-[Read The Mid-Day Digest](https://patriotpost.us/digests/110354-mid-day-digest-2024-09-18?utm_campaign=latest_digest&utm_content=subscribe_sidebar&utm_medium=web&utm_source=patriotpost.us)
+[Read The Mid-Day Digest](https://patriotpost.us/digests/110387-mid-day-digest-2024-09-19?utm_campaign=latest_digest&utm_content=subscribe_sidebar&utm_medium=web&utm_source=patriotpost.us)
 
 [Executive News Summary](https://patriotpost.us/categories/74-headlines)
 
@@ -116,20 +116,22 @@ Last Updated: November 15, 2011.
 
 ### Cartoons
 
-     [](https://patriotpost.us/cartoons/34239)
+     [](https://patriotpost.us/cartoons/34245)
 
 * [More Cartoons >](https://patriotpost.us/cartoons)
 
 ### Top Opinion
 
+*      [Hans von Spakovsky More Good News for Trump in Fani Willis’ Case Against Him](https://patriotpost.us/opinion/110381-more-good-news-for-trump-in-fani-willis-case-against-him-2024-09-19)
+*      [Gary Bauer Random Observations](https://patriotpost.us/opinion/110378-random-observations-2024-09-19)
+*      [Ann Coulter Agent 00-Zero](https://patriotpost.us/opinion/110376-agent-00-zero-2024-09-19)
+*      [Laura Hollis Trump’s Republican Party Is the ‘Big Tent’ Party](https://patriotpost.us/opinion/110373-trumps-republican-party-is-the-big-tent-party-2024-09-19)
+*      [Larry Elder Joe Biden, 20 Years Ago, Blocked the Potential First Black Female on the Supreme Court](https://patriotpost.us/opinion/110379-joe-biden-20-years-ago-blocked-the-potential-first-black-female-on-the-supreme-court-2024-09-19)
+*      [Armstrong Williams How Falsehoods About Haitian Immigrants Consumed America](https://patriotpost.us/opinion/110380-how-falsehoods-about-haitian-immigrants-consumed-america-2024-09-19)
+*      [The Washington Stand Hezbollah Pagers Explode Simultaneously](https://patriotpost.us/opinion/110383-hezbollah-pagers-explode-simultaneously-2024-09-19)
 *      [Allen West The Real Question of the 2024 Election](https://patriotpost.us/opinion/110357-the-real-question-of-the-2024-election-2024-09-19)
 *      [Cal Thomas Words and Deeds](https://patriotpost.us/opinion/110356-words-and-deeds-2024-09-19)
-*      [Mark Alexander The Demos’ Demolition of Our Constitution](https://patriotpost.us/alexander/110355-the-demos-demolition-of-our-constitution-2024-09-18)
-*      [Ben Shapiro Another Month, Another Trump Assassination Attempt](https://patriotpost.us/opinion/110334-another-month-another-trump-assassination-attempt-2024-09-18)
-*      [John Stossel Class Action Scams](https://patriotpost.us/opinion/110333-class-action-scams-2024-09-18)
-*      [Byron York A Kamala Harris Crowd: Big and Happy](https://patriotpost.us/opinion/110331-a-kamala-harris-crowd-big-and-happy-2024-09-18)
-*      [Tim Graham PolitiFact Throws Its 200th ‘Pants on Fire’ Tag at Donald Trump](https://patriotpost.us/opinion/110330-politifact-throws-its-200th-pants-on-fire-tag-at-donald-trump-2024-09-18)
-*      [Stephen Moore When It Comes to Tech Policy, Biden and Harris Put America Last](https://patriotpost.us/opinion/110329-when-it-comes-to-tech-policy-biden-and-harris-put-america-last-2024-09-18)
+*      [The Babylon Bee Here Are 9 AI-Generated Deep Fakes of Gavin Newsom That Are Illegal to Share in California](https://patriotpost.us/opinion/110382-here-are-9-ai-generated-deep-fakes-of-gavin-newsom-that-are-illegal-to-share-in-california-2024-09-19)
 
 * [More Opinion >](https://patriotpost.us/opinion)
 
@@ -147,7 +149,7 @@ Last Updated: November 15, 2011.
 
 ### The Foundation
 
-“The States can best govern our home concerns and the general government our foreign ones. I wish, therefore … never to see all offices transferred to Washington, where, further withdrawn from the eyes of the people, they may more secretly be bought and sold at market.” —Thomas Jefferson (1823)
+“Without Freedom of Thought there can be no such Thing as Wisdom; and no such Thing as Public Liberty, without Freedom of Speech.” —Benjamin Franklin (1722)
 
 * [More Founders' Quotes >](https://patriotpost.us/quotes)
 
