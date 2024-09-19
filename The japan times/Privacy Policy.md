@@ -463,25 +463,25 @@ Revised June 1, 2022
 
 * Editors' Picks
 
-[LDP leader candidates split on separate surnames for married couples](https://www.japantimes.co.jp/news/2024/09/18/japan/politics/ldp-separate-surnames/ "LDP leader candidates split on separate surnames for married couples")
+[Japanese school student stabbed in Shenzhen dies](https://www.japantimes.co.jp/news/2024/09/19/japan/crime-legal/japanese-school-boy-china-dead/ "Japanese school student stabbed in Shenzhen dies")
 
-  [![Liberal Democratic Party presidential election candidates after a campaign event in Nagoya on Saturday](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/18/422363.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Liberal Democratic Party presidential election candidates after a campaign event in Nagoya on Saturday")](https://www.japantimes.co.jp/news/2024/09/18/japan/politics/ldp-separate-surnames/ "LDP leader candidates split on separate surnames for married couples")
-
-[North Korea fires off 'multiple' ballistic missiles in latest show of force](https://www.japantimes.co.jp/news/2024/09/18/asia-pacific/north-korea-missiles-september-18/ "North Korea fires off 'multiple' ballistic missiles in latest show of force")
-
-  [![North Korean leader Kim Jong inspects the training base of the special operation armed force of the Korean People's Army at an undisclosed location in the country on Sept. 11. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/18/422287.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "North Korean leader Kim Jong inspects the training base of the special operation armed force of the Korean People's Army at an undisclosed location in the country on Sept. 11. ")](https://www.japantimes.co.jp/news/2024/09/18/asia-pacific/north-korea-missiles-september-18/ "North Korea fires off 'multiple' ballistic missiles in latest show of force")
-
-['Shogun' becomes first non-English-language winner of best drama Emmy](https://www.japantimes.co.jp/culture/2024/09/16/tv-streaming/emmy-awards-shogun/ "'Shogun' becomes first non-English-language winner of best drama Emmy")
-
-  [![Japanese actress Anna Sawai, winner of the outstanding lead actress in a drama series award for "Shogun," and Japanese actor Hiroyuki Sanada, winner of the outstanding lead actor in a drama series award for the show, pose in the press room during the 76th Emmy Awards in Los Angeles on Sunday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/16/421939.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Japanese actress Anna Sawai, winner of the outstanding lead actress in a drama series award for "Shogun," and Japanese actor Hiroyuki Sanada, winner of the outstanding lead actor in a drama series award for the show, pose in the press room during the 76th Emmy Awards in Los Angeles on Sunday.")](https://www.japantimes.co.jp/culture/2024/09/16/tv-streaming/emmy-awards-shogun/ "'Shogun' becomes first non-English-language winner of best drama Emmy")
+  [![The street where a 10-year-old boy is said to have been stabbed with a knife, on Thursday in Shenzhen in southern China.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/19/422720.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "The street where a 10-year-old boy is said to have been stabbed with a knife, on Thursday in Shenzhen in southern China.")](https://www.japantimes.co.jp/news/2024/09/19/japan/crime-legal/japanese-school-boy-china-dead/ "Japanese school student stabbed in Shenzhen dies")
 
 [Chinese carrier sails between Japanese islands near Taiwan for first time](https://www.japantimes.co.jp/news/2024/09/19/japan/china-aircraft-carrier-japan-yonaguni/ "Chinese carrier sails between Japanese islands near Taiwan for first time")
 
   [![China's Liaoning aircraft carrier sails in waters near Okinawa Prefecture on Wednesday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/18/422536.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "China's Liaoning aircraft carrier sails in waters near Okinawa Prefecture on Wednesday.")](https://www.japantimes.co.jp/news/2024/09/19/japan/china-aircraft-carrier-japan-yonaguni/ "Chinese carrier sails between Japanese islands near Taiwan for first time")
 
-[Takaichi's policy documents spark controversy in LDP leadership race](https://www.japantimes.co.jp/news/2024/09/18/japan/politics/ldp-race-takaichi-policy-documents/ "Takaichi's policy documents spark controversy in LDP leadership race")
+[LDP leader candidates split on separate surnames for married couples](https://www.japantimes.co.jp/news/2024/09/18/japan/politics/ldp-separate-surnames/ "LDP leader candidates split on separate surnames for married couples")
 
-  [![Economic security minister Sanae Takaichi speaks during a debate with other candidates in the Liberal Democratic Party presidential race in Tokyo on Saturday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/18/422365.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Economic security minister Sanae Takaichi speaks during a debate with other candidates in the Liberal Democratic Party presidential race in Tokyo on Saturday.")](https://www.japantimes.co.jp/news/2024/09/18/japan/politics/ldp-race-takaichi-policy-documents/ "Takaichi's policy documents spark controversy in LDP leadership race")
+  [![Liberal Democratic Party presidential election candidates after a campaign event in Nagoya on Saturday](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/18/422363.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Liberal Democratic Party presidential election candidates after a campaign event in Nagoya on Saturday")](https://www.japantimes.co.jp/news/2024/09/18/japan/politics/ldp-separate-surnames/ "LDP leader candidates split on separate surnames for married couples")
+
+[Onosato’s meteoric rise is stunning — but not surprising](https://www.japantimes.co.jp/sports/2024/09/18/sumo/onosato-technical-analysis/ "Onosato’s meteoric rise is stunning — but not surprising")
+
+  [![Onosato shoves out Mitakeumi on Sunday in Tokyo to continue his perfect run at the Autumn Basho. At 192-centimeters-tall and 177 kilograms, Onosato may be neither the tallest nor the heaviest wrestler in the makuuchi division, but he is very close to the top in each of those two categories.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/18/422479.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Onosato shoves out Mitakeumi on Sunday in Tokyo to continue his perfect run at the Autumn Basho. At 192-centimeters-tall and 177 kilograms, Onosato may be neither the tallest nor the heaviest wrestler in the makuuchi division, but he is very close to the top in each of those two categories.")](https://www.japantimes.co.jp/sports/2024/09/18/sumo/onosato-technical-analysis/ "Onosato’s meteoric rise is stunning — but not surprising")
+
+[Scientists win Ig Nobel for discovering anal breathing in mammals](https://www.japantimes.co.jp/news/2024/09/13/japan/science-health/ig-nobel-prize-winner/ "Scientists win Ig Nobel for discovering anal breathing in mammals")
+
+  [![Takanori Takebe (behind the lectern) speaks after his team of researchers and he were awarded the Ig Nobel Prize in physiology at the Massachusetts Institute of Technology in Cambridge, Massachusetts, on Thursday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/13/421513.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Takanori Takebe (behind the lectern) speaks after his team of researchers and he were awarded the Ig Nobel Prize in physiology at the Massachusetts Institute of Technology in Cambridge, Massachusetts, on Thursday.")](https://www.japantimes.co.jp/news/2024/09/13/japan/science-health/ig-nobel-prize-winner/ "Scientists win Ig Nobel for discovering anal breathing in mammals")
 
 [Onosato’s meteoric rise is stunning — but not surprising](https://www.japantimes.co.jp/sports/2024/09/18/sumo/onosato-technical-analysis/ "Onosato’s meteoric rise is stunning — but not surprising")
 
@@ -566,23 +566,13 @@ Latest News
 
 [Hyogo assembly passes no-confidence motion against embattled governor](https://www.japantimes.co.jp/news/2024/09/19/japan/politics/hyogo-no-confidence-motion/ "Hyogo assembly passes no-confidence motion against embattled governor")
 
-6 hours ago
-
 [Nintendo sues 'Pokemon with guns' maker for patent infringement](https://www.japantimes.co.jp/business/2024/09/19/companies/nintendo-patent-suit/ "Nintendo sues 'Pokemon with guns' maker for patent infringement")
-
-8 hours ago
 
 [Boeing furloughs thousands as no progress made to resolve strike](https://www.japantimes.co.jp/business/2024/09/19/companies/boeing-furloughs-thousands-strike/ "Boeing furloughs thousands as no progress made to resolve strike")
 
-8 hours ago
-
 [Third TSMC plant in Japan remains up in the air](https://www.japantimes.co.jp/business/2024/09/19/companies/taiwan-boost-japan-investments/ "Third TSMC plant in Japan remains up in the air ") 
 
-9 hours ago
-
 [17% of kick scooter accidents caused by drunken drivers](https://www.japantimes.co.jp/news/2024/09/19/japan/crime-legal/japan-scooter-accidents/ "17% of kick scooter accidents caused by drunken drivers")
-
-9 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
