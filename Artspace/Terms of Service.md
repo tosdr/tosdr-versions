@@ -91,7 +91,7 @@ GET 10% OFF YOUR FIRST ORDER](https://www.artspace.com/account_creation)
 
 TERMS OF USE
 
-Effective date: February 12, 2014. Last updated: January 27, 2021.
+Effective date: February 12, 2014. Last updated: September 17, 2024.
 
 Thank you for visiting Artspace.com (the "Site") owned and operated by Artspace LLC. ("Artspace"). Your use of the Site indicates that you have read, understood and agree to these terms of use ("Terms"). If you do not agree to these Terms, you may not access or use the Site. We may modify the Terms from time to time without notice to you. The provisions contained herein supersede all previous notices or statements regarding our Terms with respect to this Site. We encourage you to check our Site frequently to see the current Terms in effect and any changes that may have been made to them. By using the Site following any modifications to the Terms, you agree to be bound by such modifications.
 
@@ -349,10 +349,10 @@ As a condition of participating in Contests, you agree that any and all disputes
 To contact us with any questions or concerns in connection with this Agreement or the Site, or to provide any notice under this Agreement to us please go to [Contact Us](https://www.artspace.com/contact) or write to us at:
 
 Artspace LLC  
-65 Bleecker St. 8th Floor  
-New York, NY, 10012  
-Email: service@artspace.com  
-Fax: 646-365-3350
+111 Broadway, Suite 301  
+New York, NY, 10006  
+Email: [service@artspace.com](mailto:example@example.com)  
+Phone: 212-652-5400
 
 ### General Information
 
@@ -542,7 +542,7 @@ auction pre-registration
 
 Auction Pre-Registration
 
-I accept the terms and conditions
+If you already have an account and wish to place a bid, please ensure your credit card details are up to date. If you don’t have an account yet, kindly complete and submit the form below
 
 Already have a login:Sign In Now
 
@@ -582,7 +582,9 @@ Address 2 (optional)
 
 \*Phone Number
 
-Sign up now
+ I accept the terms and conditions and agree to receive all marketing communications from Artspace.
+
+Complete Registration
 
 Already a member? Sign in here
 
@@ -840,9 +842,9 @@ Alex Katz, Coleman Pond II, 2007
 
 [](#)
 
-### How it Works
+### AUCTION PROCEDURES
 
-### How bidding works
+### HOW TO BID
 
 To place a bid, enter the maximum amount you are willing to pay for the work. Artspace will accept a bid at the next increment, and save any excess amount as a maximum bid. If you are outbid, we will continue bid on your behalf up to your maximum bid.
 
@@ -850,8 +852,6 @@ To place a bid, enter the maximum amount you are willing to pay for the work. Ar
 
 Bidding increments increase at the following intervals:
 
-* Below $400: $50
-* Between $400 and $699: $100
 * Between $700 and $1,499: $200
 * Between $1,500 and $2,499: $300
 * Between $2,500 and $4,999: $500
@@ -864,7 +864,7 @@ Bidding increments increase at the following intervals:
 
 You will receive an email confirmation of your bid and when you are outbid.
 
-If you are the winning bidder, you will be contacted 48 hours after of the close of the auction.
+If you are the winning bidder, you will be contacted 48 hours after the close of the auction.
 
 ### Maximum Bidding
 
@@ -874,7 +874,7 @@ In the case of multiple bidders placing the same maximum bid, the first person t
 
 ### Buyer's Premium & Additional Charges
 
-For Artspace Auctions winning bidders are charged a 15% Buyer's Premium on top of the hammer price. For Artspace Benefit Auctions, Buyer's Premiums are not applied. If they are, this will be clearly noted. Purchases made from all auctions, including benefit auctions, are subject to sales tax.
+For Artspace Benefit Auctions, Buyer's Premiums are not applied. Purchases made from all auctions, including benefit auctions, are subject to sales tax.
 
 ### Check Out
 
