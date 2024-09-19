@@ -50,4 +50,4 @@ This product uses the Instagram API but is not endorsed or certified by Instagra
 
 [About Us](https://greatfon.com/page/about) [Privacy Policy](https://greatfon.com/page/privacy) [Remove Profile](https://greatfon.com/page/remove)
 
-![](https://mc.yandex.ru/watch/71984668)
+![](https://mc.yandex.ru/watch/98396105)
