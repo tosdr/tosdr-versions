@@ -8,7 +8,7 @@
 
 |     |     |
 | --- | --- |
-| **You are 1 of 360 active visitors** | **Wednesday, September 18, 2024** |
+| **You are 1 of 699 active visitors** | **Wednesday, September 18, 2024** |
 
 **EMAIL NEWS**![](/images/clear.gif)
 
@@ -109,7 +109,7 @@ Should you have questions or concerns relating to this Privacy Statement or comp
 |     |     |
 |     |     |    
 
- **QUOTES TO REMEMBER**None are more hopelessly enslaved than those who falsely believe they are free. � Johann Wolfgang von Goethe, German philosopher
+ **QUOTES TO REMEMBER**You are bound to meet misfortune if you are unarmed because, among other reasons, people despise you....There is simply no comparison between a man who is armed and one who is not. It is unreasonable to expect that an armed man should obey one who is unarmed, or that an unarmed man should remain safe and secure when his servants are armed. In the latter case, there will be suspicion on the one hand and contempt on the other, making cooperation impossible. � Niccolo Machiavelli in "The Prince."
 
 **COPYRIGHT POLICY:** The posting of copyrighted articles and other content, in whole or in part, is not allowed here. We have made an effort to educate our users about this policy and we are extremely serious about this. Users who are caught violating this rule will be warned and/or banned.  
 If you are the owner of content that you believe has been posted on this site without your permission, [please contact our webmaster by following this link](http://keepandbeararms.com/about/contact_us.asp). Please include with your message: (1) the particulars of the infringement, including a description of the content, (2) a link to that content here and (3) information concerning where the content in question was originally posted/published. We will address your complaint as quickly as possible. Thank you.
