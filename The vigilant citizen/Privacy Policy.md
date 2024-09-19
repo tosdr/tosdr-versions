@@ -1,4 +1,4 @@
-[![The Vigilant Citizen](https://vigilantcitizen.com/wp-content/uploads/2023/11/centerlogo3-4.png)](https://vigilantcitizen.com/)
+[![The Vigilant Citizen](https://vigilantcitizen.com/wp-content/uploads/2024/09/logosvg11.svg)](https://vigilantcitizen.com/)
 
 * [Login](https://vigilantcitizen.com/login/)
 * Categories
@@ -27,7 +27,7 @@ Connect with us
 
 [](https://www.facebook.com/realvigilantcitizen/)[](https://twitter.com/vigilantfeed)[](https://instagram.com/realvigilantcitizen)[](https://www.youtube.com/channel/UCaP09bCBEOB0rCeAo0F15vw)
 
-[![The Vigilant Citizen](https://vigilantcitizen.com/wp-content/uploads/2023/11/centerlogo2-4.png)](https://vigilantcitizen.com/) [![The Vigilant Citizen](https://vigilantcitizen.com/wp-content/uploads/2023/11/centerlogo3-4.png)](https://vigilantcitizen.com/)
+[![The Vigilant Citizen](https://vigilantcitizen.com/wp-content/uploads/2024/09/logosvg11.svg)](https://vigilantcitizen.com/) [![The Vigilant Citizen](https://vigilantcitizen.com/wp-content/uploads/2024/09/logosvg11.svg)](https://vigilantcitizen.com/)
 
 The Vigilant Citizen
 --------------------
@@ -158,7 +158,7 @@ Under CCPA, Californian residents have the right to declare their preferences on
 
 We use a third-party to provide monetisation technologies for our site. You can review their privacy and cookie policy [here](https://publift.com/privacy-policy/).
 
-![](https://vigilantcitizen.com/wp-content/uploads/2023/11/centerlogo2-4.png) 
+![](https://vigilantcitizen.com/wp-content/uploads/2024/09/logosvg11.svg) 
 
 [![The Vigilant Citizen](https://vigilantcitizen.com/wp-content/uploads/2018/08/headmob2-3.png)](https://vigilantcitizen.com/)
 
