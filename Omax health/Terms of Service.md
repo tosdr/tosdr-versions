@@ -1,8 +1,6 @@
-![](https://www.facebook.com/tr?id=811491626833587&ev=PageView&noscript=1)       Terms & Conditions – Omax Health - Omax Health               
+![](https://www.facebook.com/tr?id=811491626833587&ev=PageView&noscript=1)             
 
-    
-
-                
+Terms & Conditions – Omax Health - Omax Health                                  
 
 FREE U.S. SHIPPING ON ALL ORDERS
 
@@ -303,13 +301,13 @@ Go to product page
 
 ### Let customers speak for us
 
-[3384 reviews](https://omaxhealth.com/pages/reviews)
+[3385 reviews](https://omaxhealth.com/pages/reviews)
 
 [Write a review](#)
 
 91%
 
-(3065)
+(3066)
 
 5%
 
@@ -328,6 +326,16 @@ Go to product page
 (53)
 
 2183
+
+D
+
+[Cellmax](https://omaxhealth.com/products/cellmax#judgeme_product_reviews)
+
+D.G.
+
+**Rapid Results You Can Feel**
+
+I’ve been really impressed with Cellmax. After taking it, I noticed a quick improvement in how I felt, especially in terms of energy and alertness. The fact that it supports immune function and cellular repair is a huge plus. It’s definitely a product I’ll keep using to help maintain my health.
 
 M
 
@@ -350,15 +358,5 @@ V
 Valerie
 
 One of the best I have ever tried. If you’re used to muscle rubs- then try this one. I prefer the extra strength option. But it’s great on my back and knees.
-
-K
-
-[CryoFreeze® Hemp CBD Roll-On | Extra Strength](https://omaxhealth.com/products/new-cryofreeze-cbd-roll-on-extra-strength#judgeme_product_reviews)
-
-Kim P.
-
-**Amazing results!**
-
-I love this product! It is so easy to use and begins working immediately! It brings great relief to my muscles and provides total comfort!
 
 Load More
