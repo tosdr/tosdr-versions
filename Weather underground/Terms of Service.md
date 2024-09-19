@@ -20,12 +20,12 @@ Current Weather for Popular
 Cities
 ------------------------------------
 
-* [San Francisco, CA 60 °FMostly Cloudy](https://www.wunderground.com/weather/us/ca/san-francisco/37.79,-122.41)
-* [Manhattan, NY _warning_70 °FFair](https://www.wunderground.com/weather/us/ny/manhattan/40.75,-73.99)
-* [Schiller Park, IL (60176) 70 °FMostly Cloudy](https://www.wunderground.com/weather/us/il/schiller-park/41.95,-87.86)
-* [Boston, MA 65 °FFog](https://www.wunderground.com/weather/us/ma/boston/42.36,-71.07)
-* [Houston, TX 82 °FPartly Cloudy](https://www.wunderground.com/weather/us/tx/houston/29.75,-95.36)
-* [St James's, England, United Kingdom 62 °FCloudy](https://www.wunderground.com/weather/gb/st-james's/51.51,-0.13)
+* [San Francisco, CA 55 °FMostly Cloudy](https://www.wunderground.com/weather/us/ca/san-francisco/37.79,-122.41)
+* [Manhattan, NY _warning_69 °FPartly Cloudy](https://www.wunderground.com/weather/us/ny/manhattan/40.75,-73.99)
+* [Schiller Park, IL (60176) 63 °FFair](https://www.wunderground.com/weather/us/il/schiller-park/41.95,-87.86)
+* [Boston, MA 64 °FFog](https://www.wunderground.com/weather/us/ma/boston/42.36,-71.07)
+* [Houston, TX 79 °FPartly Cloudy](https://www.wunderground.com/weather/us/tx/houston/29.75,-95.36)
+* [St James's, England, United Kingdom _warning_69 °FMostly Cloudy](https://www.wunderground.com/weather/gb/st-james's/51.51,-0.13)
 
 Search_close__gps\_fixed_
 
