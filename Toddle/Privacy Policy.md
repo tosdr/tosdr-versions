@@ -52,7 +52,7 @@
 Our Privacy Policy
 ==================
 
-Last Updated: September 18, 2024
+Last Updated: September 19, 2024
 
 It is our mission to help teachers deliver meaningful learning experiences. To achieve this, we build easy to use tools that help make things simple for teachers and empower them to focus on the important things. It is hence critical that we create a safe and secure environment where teachers, children, and parents freely share content and ideas. Creating such a safe and secure environment is central to the success of our endeavours.
 
@@ -177,7 +177,7 @@ Toddle is committed to maintaining the highest standards of privacy protection a
 
 ### Compliance with KSA’s Personal Data Protection Law (PDPL)
 
-At Toddle, we are dedicated to ensuring that your personal data is handled with the utmost care and in accordance with the Kingdom of Saudi Arabia’s Personal Data Protection Law (PDPL). Our approach to data protection is guided by the principles and rights outlined in PDPL, ensuring transparency, security, and respect for your personal information. Learn more about Toddle and KSA PDPL [here](https://www.toddleapp.com/pdpl/).
+At Toddle, we are dedicated to ensuring that your personal data is handled with the utmost care and in accordance with the Kingdom of Saudi Arabia’s Personal Data Protection Law (PDPL). Our approach to data protection is guided by the principles and rights outlined in PDPL, ensuring transparency, security, and respect for your personal information. Learn more about Toddle and KSA PDPL [here](https://www.toddleapp.com/ksapdpl/).
 
 ### Data collected by Toddle
 
