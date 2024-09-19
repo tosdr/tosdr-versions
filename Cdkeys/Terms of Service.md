@@ -116,6 +116,7 @@ Menu
 * [New](https://www.cdkeys.com/new)
 * [Coming Soon](https://www.cdkeys.com/coming-soon)
 
+* [My Account](https://www.cdkeys.com/customer/account/login/)
 * [Wishlist](https://www.cdkeys.com/wishlist/)
 * [My Cart](https://www.cdkeys.com/checkout/cart/)
 * [Checkout](https://www.cdkeys.com/checkout/)
@@ -447,11 +448,11 @@ You are seeing games that are valid in your region which is ‘%1’. If you wan
 
 To view games that are valid in your region ‘%1’, click here
 
-1.    [![Minecraft: Java & Bedrock Edition PC (WW)](https://cdn.cdkeys.com/245x340/media/catalog/product/n/e/new_project_88__2_1.jpg)   No 1. \-61%](https://www.cdkeys.com/pc/minecraft-java-bedrock-edition-pc-ww)
+1.    [![Minecraft: Java & Bedrock Edition PC (WW)](https://cdn.cdkeys.com/245x340/media/catalog/product/n/e/new_project_88__2_1.jpg)   No 1. \-66%](https://www.cdkeys.com/pc/minecraft-java-bedrock-edition-pc-ww)
     
     **[Minecraft: Java & Bedrock Edition PC (WW)](https://www.cdkeys.com/pc/minecraft-java-bedrock-edition-pc-ww "Minecraft: Java & Bedrock Edition PC (WW)")**
     
-    Special Price $12.89 RRP $32.99
+    Special Price $11.19 RRP $32.99
     
     [Add to Wish List](# "Add to Wish List")
     
