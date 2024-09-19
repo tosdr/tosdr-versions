@@ -191,11 +191,11 @@
     
     [Learn more](https://www.mimecast.com/threat-intelligence-hub/)
     
-    ![SOECS 2024 Mock-up cover closed.png](https://assets.mimecast.com/api/public/content/3de62109b5794239ac94fc95e68d8718?v=792a3c09)
+    ![Resources_33.jpg](https://assets.mimecast.com/api/public/content/bf583038c3574675948c97cd37cd85b5?v=0b9293c3)
     
-    State of Email & Collaboration Security 2024
+    Forrester Human Risk Management Solutions Wave
     
-    [Get Report](https://www.mimecast.com/the-state-of-email-and-collaboration-security-2024/)
+    [Get Report](https://www.mimecast.com/resources/analyst-reports/mimecast-strong-performer-forrester-wave-hrm/)
     
 
 Quick Links
