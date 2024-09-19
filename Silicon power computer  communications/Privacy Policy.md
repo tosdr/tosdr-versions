@@ -180,8 +180,6 @@
     English
 * [![Romania](/web/images/phone/lan/ro.png)](https://www.silicon-power.com/web/ro/)Romania  
     English
-* [![Russia](/web/images/phone/lan/ru.png)](https://www.silicon-power.com/web/ru/)Russia  
-    Pусский
 * [![Serbia](/web/images/phone/lan/rs.png)](https://www.silicon-power.com/web/rs/)Serbia  
     English
 * [![Slovakia](/web/images/phone/lan/sk.png)](https://www.silicon-power.com/web/sk/)Slovakia  
