@@ -75,21 +75,21 @@ Search
     
     New Products[view all](https://www.adafruit.com/new)
     
-    ![Overhead shot of barrel-jack-to-USB-C-socket right angle adapter, showing 12V.](https://cdn-shop.adafruit.com/230x173/6032-03.jpg)[USB Type C PD to 5.5mm/2.1mm Barrel Jack Adapter - 12V
+    ![Angled shot of floppy hard drive.](https://cdn-shop.adafruit.com/230x173/6037-00.jpg)[Upcycled 3.5" Floppy Drive - Sony MPF-920 or Compatible
     
-    $2.25](https://www.adafruit.com/product/6032)
+    $19.95](https://www.adafruit.com/product/6037)
     
-    ![Overhead shot of barrel-jack-to-USB-C-socket right angle adapter, showing 9V.](https://cdn-shop.adafruit.com/230x173/6031-03.jpg)[USB Type C PD to 5.5mm/2.1mm Barrel Jack Adapter
+    ![Video of ball LED strand lighting up rainbow colors.](https://cdn-shop.adafruit.com/product-videos/320x240/5984-00.jpg)[Adafruit NeoPixel LED Ball Shape Pixel Strand - 20 LEDs
     
-    $2.25](https://www.adafruit.com/product/6031)
+    $8.95](https://www.adafruit.com/product/5984)
     
-    ![Overhead shot of barrel-jack-to-USB-C-socket right angle adapter, showing 5V.](https://cdn-shop.adafruit.com/230x173/6030-03.jpg)[USB Type C PD to 5.5mm/2.1mm Barrel Jack Adapter - 5V
+    ![Video of LED strand with 20 heart-shaped LEDs glowing rainbow colors.](https://cdn-shop.adafruit.com/product-videos/320x240/5983-00.jpg)[Adafruit NeoPixel LED Heart Shape Pixel Strand - 20 LEDs
     
-    $2.25](https://www.adafruit.com/product/6030)
+    $8.95](https://www.adafruit.com/product/5983)
     
-    ![Angled shot of black, square-shaped breakout board.](https://cdn-shop.adafruit.com/230x173/6039-00.jpg)[Adafruit SPI Flash SD Card - XTSD 4 GB
+    ![Video of glowing star-shaped LED strip.](https://cdn-shop.adafruit.com/product-videos/320x240/5982-00.jpg)[Adafruit NeoPixel LED Star Shape Pixel Strand - 20 LEDs
     
-    $12.50](https://www.adafruit.com/product/6039)
+    $8.95](https://www.adafruit.com/product/5982)
     
     Featured Products[view all](https://www.adafruit.com/featured)
     
@@ -404,9 +404,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ Perfect is the enemy of good”
+“ the future is not what it used to be”
 
-[Voltaire](http://en.wikipedia.org/wiki/Perfect_is_the_enemy_of_good)
+[Laura Riding and Robert Graves](https://quoteinvestigator.com/2012/12/06/future-not-used/#return-note-4966-8)
 
 [](https://www.adafruit.com/about)
 
