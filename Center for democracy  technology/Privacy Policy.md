@@ -51,7 +51,7 @@ Table of Contents
     9. [What rights do you have? What if you want to know what information we have about you?](#what-rights-do-you-have-what-if-you-want-to-know-what-information-we-have-about-you)
     10. [Changes to our policies.](#changes-to-our-policies)
     11. [Any complaints or concerns?](#any-complaints-or-concerns)
-    12. [You can opt-out of Google Analytics by selecting OPT-OUT here or by using this tool.](#you-can-opt-out-of-google-analytics-by-selecting-opt-out-here-or-by-using-this-tool)
+    12. [You can opt-out of Google Analytics by selecting \[google\_analytics\_optout\]OPT-OUT here\[/google\_analytics\_optout\] or by using this tool.](#you-can-opt-out-of-google-analytics-by-selecting-google_analytics_optoutopt-out-heregoogle_analytics_optout-or-by-using-this-tool)
 
 _Last updated: June 5, 2020 ([Prior version](https://cdt.org/privacypolicy/privacy-policy-prior/))_
 
@@ -133,7 +133,7 @@ We collect information when you visit our website, join our mailing lists, make 
 
 Web cookies are small text files that are placed on your machine to help sites retain user preferences, store information for things like shopping carts, and provide anonymised tracking data to third-party applications like Google Universal Analytics. As a rule, web cookies can make your browsing experience more seamless, but you may prefer to disable cookies on this site and on others. **If you choose to disable cookies on our website, you should notice no difference in your browsing experience**. The most effective way to do this is to disable cookies in your browser. We suggest consulting the Help section of your browser or taking a look at [the About Cookies website](http://www.aboutcookies.org/) which offers guidance for all modern browsers. CDT only uses cookies with our website analytics software, Google Universal Analytics. While we run Google Universal Analytics using the option for de-identification, it does require cookies to work properly.
 
-_**You can opt out of CDT’s use of Google Analytics by selecting: [OPT-OUT here](javascript:gaoop_analytics_optout();).**_
+_**You can opt out of CDT’s use of Google Analytics by selecting: \[google\_analytics\_optout\]OPT-OUT here\[/google\_analytics\_optout\].**_
 
 #### [](#what-other-information-is-collected-by-third-parties-on-cdts-website)What other information is collected by third parties on CDT’s website?
 
@@ -171,7 +171,7 @@ We have most recently revised our Privacy Policy in the spirit of the EU’s Gen
 
 If you have any concerns about this policy, please contact CDT via our Contact page or call (202) 637-9800. We can also be reached at 1401 K Street NW, Suite 200, Washington DC 20005.
 
-#### [](#you-can-opt-out-of-google-analytics-by-selecting-opt-out-here-or-by-using-this-tool)**You can opt-out of Google Analytics** by selecting [OPT-OUT here](javascript:gaoop_analytics_optout();) or by [using this tool](https://tools.google.com/dlpage/gaoptout?hl=en).
+#### [](#you-can-opt-out-of-google-analytics-by-selecting-google_analytics_optoutopt-out-heregoogle_analytics_optout-or-by-using-this-tool)**You can opt-out of Google Analytics** by selecting \[google\_analytics\_optout\]OPT-OUT here\[/google\_analytics\_optout\] or by [using this tool](https://tools.google.com/dlpage/gaoptout?hl=en).
 
   
 
