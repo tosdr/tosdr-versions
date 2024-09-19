@@ -338,17 +338,17 @@ Stay in touch
 
 Stay in touch
 
-* [Facebook ![Go To Facebook](/sites/default/files/styles/footer_icon/public/footer/icon-menu/facebook_0.png.webp?VersionId=mJosc96INKFNYz7mpZ44Rnfc7hgFr4D6&itok=Jpc_Nszx "Facebook")](https://www.facebook.com/unibocconi) 
+* [Facebook ![Go To Facebook](/sites/default/files/styles/footer_icon/public/footer/icon-menu/facebook_0.png.webp?itok=Jpc_Nszx "Facebook")](https://www.facebook.com/unibocconi) 
 * [Twitter ![Go To Twitter](/sites/default/files/styles/footer_icon/public/footer/icon-menu/x_1.png.webp?itok=Y7MLjZ5L "Twitter")](https://twitter.com/unibocconi) 
 * [Linkedin ![Go To Linkedin](/sites/default/files/styles/footer_icon/public/footer/icon-menu/linkedin_0.png.webp?itok=oWwIb-bE "Linkedin")](https://www.linkedin.com/school/universita-bocconi/) 
 * [Youtube ![Go to Youtube](/sites/default/files/styles/footer_icon/public/footer/icon-menu/youtube.png.webp?itok=8F3uxcIQ "Youtube")](https://www.youtube.com/user/UniBocconi) 
 * [Instagram ![Go to Instagram](/sites/default/files/styles/footer_icon/public/footer/icon-menu/instagram_0.png.webp?itok=T4tCicO3 "Instagram")](https://www.instagram.com/unibocconi/) 
-* [Tiktok ![Go to Tiktok](/sites/default/files/styles/footer_icon/public/footer/icon-menu/tiktok.png.webp?VersionId=0W7_H00nRnjsHdyp0KJ1pM5Q6q91J_p5&itok=d1yjTdEa "Tiktok")](https://www.tiktok.com/@unibocconi/) 
-* [Weechat ![Go to Weechat](/sites/default/files/styles/footer_icon/public/footer/icon-menu/wechat_0.png.webp?VersionId=IDR8phqUToLxsnsz2jym..L33wqj0f_G&itok=C_uORqlC "Weechat")](https://weechat.org/) 
+* [Tiktok ![Go to Tiktok](/sites/default/files/styles/footer_icon/public/footer/icon-menu/tiktok.png.webp?itok=d1yjTdEa "Tiktok")](https://www.tiktok.com/@unibocconi/) 
+* [Weechat ![Go to Weechat](/sites/default/files/styles/footer_icon/public/footer/icon-menu/wechat_0.png.webp?itok=C_uORqlC "Weechat")](https://weechat.org/) 
 
 Listen to our podcast
 
-* [Spotify ![Go to Spotify](/sites/default/files/styles/footer_icon/public/footer/icon-menu/spotify.png.webp?VersionId=dotUQVvX0dCf12wzV72B.A4wkAXeXw94&itok=uU_88Z0- "Spotify")](https://www.unibocconi.it/en/about-us/podcast) 
+* [Spotify ![Go to Spotify](/sites/default/files/styles/footer_icon/public/footer/icon-menu/spotify.png.webp?itok=uU_88Z0- "Spotify")](https://www.unibocconi.it/en/about-us/podcast) 
 * Google podcast ![Go to Google podcast](/sites/default/files/styles/footer_icon/public/footer/icon-menu/google_pod.png.webp?itok=zF62NlqP "Google podcast") 
 * Spreaker ![Go to Spreaker](/sites/default/files/styles/footer_icon/public/footer/icon-menu/speaker_pod.png.webp?itok=c6WiDStJ "Spreaker") 
 * Apple podcast ![Go to Apple podcast](/sites/default/files/styles/footer_icon/public/footer/icon-menu/apple_pod.png.webp?itok=RK16RIy1 "Apple podcast") 
