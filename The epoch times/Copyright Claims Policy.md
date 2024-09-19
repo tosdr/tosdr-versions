@@ -158,76 +158,76 @@ Please note that under Section 512(f) of the DMCA, any person who knowingly mate
 
 TOP NEWS
 
+* [Venezuela’s Gonzalez Says He Was Forced to Sign Letter Accepting Maduro Victory](https://www.theepochtimes.com/world/venezuelas-gonzalez-says-he-was-forced-to-sign-letter-accepting-maduro-victory-5726718)
+    
+    NEW By [Chris Summers](https://www.theepochtimes.com/author/chris-summers)
+    
+    [![Venezuela’s Gonzalez Says He Was Forced to Sign Letter Accepting Maduro Victory](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Venezuela’s Gonzalez Says He Was Forced to Sign Letter Accepting Maduro Victory](https://img.theepochtimes.com/assets/uploads/2024/09/19/id5726719-2024-09-12T110721Z_1_LYNXMPEK8B0ED_RTROPTP_4_VENEZUELA-ELECTION-SPAIN-205x123.jpg.webp)](https://www.theepochtimes.com/world/venezuelas-gonzalez-says-he-was-forced-to-sign-letter-accepting-maduro-victory-5726718)
+* [Lawmakers, Activists Seek to Put China on ‘No Travel’ List Over Arbitrary Detention Risks](https://www.theepochtimes.com/china/lawmakers-activists-seek-to-put-china-on-no-travel-list-over-arbitrary-detention-risks-5726682)
+    
+    NEW By [Eva Fu](https://www.theepochtimes.com/author/eva-fu)
+    
+    [![Lawmakers, Activists Seek to Put China on ‘No Travel’ List Over Arbitrary Detention Risks](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Lawmakers, Activists Seek to Put China on ‘No Travel’ List Over Arbitrary Detention Risks](https://img.theepochtimes.com/assets/uploads/2024/09/19/id5726690-EpochImages-6910597295-xl-205x123.jpeg.webp)](https://www.theepochtimes.com/china/lawmakers-activists-seek-to-put-china-on-no-travel-list-over-arbitrary-detention-risks-5726682)
+* [Los Angeles Struggles to Curb Brazen and Violent Street Takeovers](https://www.theepochtimes.com/article/los-angeles-struggles-to-curb-brazen-and-violent-street-takeovers-5720805)
+    
+    NEW By [Beige Luciano-Adams](https://www.theepochtimes.com/author/beige-luciano-adams)
+    
+    [![Los Angeles Struggles to Curb Brazen and Violent Street Takeovers](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Los Angeles Struggles to Curb Brazen and Violent Street Takeovers](https://img.theepochtimes.com/assets/uploads/2024/09/18/id5726441-outside-205x123.jpg.webp)](https://www.theepochtimes.com/article/los-angeles-struggles-to-curb-brazen-and-violent-street-takeovers-5720805)
+* [NYPD Faces Uncertain Future Amid New York’s Growing Political Crisis](https://www.theepochtimes.com/us/nypd-faces-uncertain-future-amid-new-yorks-growing-political-crisis-5725849)
+    
+    NEW By [Michael Washburn](https://www.theepochtimes.com/author/michael-washburn)
+    
+    [![NYPD Faces Uncertain Future Amid New York’s Growing Political Crisis](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![NYPD Faces Uncertain Future Amid New York’s Growing Political Crisis](https://img.theepochtimes.com/assets/uploads/2024/08/07/id5701623-GettyImages-1917749088-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/nypd-faces-uncertain-future-amid-new-yorks-growing-political-crisis-5725849)
+* [Coastal California City Deploys Massive Fix-It Effort as Earth Moves Beneath Homes](https://www.theepochtimes.com/us/coastal-california-city-deploys-massive-fix-it-effort-as-earth-moves-beneath-homes-5726023)
+    
+    NEW By [Siyamak Khorrami](https://www.theepochtimes.com/author/siyamak-khorrami) and [Epoch Times Staff](https://www.theepochtimes.com/author/epoch-times-staff)
+    
+    [![Coastal California City Deploys Massive Fix-It Effort as Earth Moves Beneath Homes](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Coastal California City Deploys Massive Fix-It Effort as Earth Moves Beneath Homes](https://img.theepochtimes.com/assets/uploads/2024/09/06/id5719015-GettyImages-2170096111-205x123.jpg.webp)](https://www.theepochtimes.com/us/coastal-california-city-deploys-massive-fix-it-effort-as-earth-moves-beneath-homes-5726023)
 * [FBI: Iranian Hackers Tried to Pass Hacked Trump Campaign Information to Team Biden](https://www.theepochtimes.com/us/fbi-iranian-hackers-tried-to-pass-hacked-trump-campaign-information-to-team-biden-5726596)
     
-    4hr By [Caden Pearson](https://www.theepochtimes.com/author/caden-pearson)
+    10hr By [Caden Pearson](https://www.theepochtimes.com/author/caden-pearson)
     
     [![FBI: Iranian Hackers Tried to Pass Hacked Trump Campaign Information to Team Biden](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![FBI: Iranian Hackers Tried to Pass Hacked Trump Campaign Information to Team Biden](https://img.theepochtimes.com/assets/uploads/2024/08/29/id5715050-08122024-DSC00079-FBI-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/fbi-iranian-hackers-tried-to-pass-hacked-trump-campaign-information-to-team-biden-5726596)
+    ![FBI: Iranian Hackers Tried to Pass Hacked Trump Campaign Information to Team Biden](https://img.theepochtimes.com/assets/uploads/2024/09/18/id5726273-GettyImages-2172739942-Donald-Trump-OP-205x123.jpg.webp)](https://www.theepochtimes.com/us/fbi-iranian-hackers-tried-to-pass-hacked-trump-campaign-information-to-team-biden-5726596)
 * [House Fails to Pass GOP Stopgap Funding Plan](https://www.theepochtimes.com/us/house-fails-to-pass-gop-stopgap-funding-plan-5726510)
     
-    4hr By [Joseph Lord](https://www.theepochtimes.com/author/joseph-lord), [Stacy Robinson](https://www.theepochtimes.com/author/stacy-robinson) and [Jackson Richman](https://www.theepochtimes.com/author/jackson-richman)
+    10hr By [Joseph Lord](https://www.theepochtimes.com/author/joseph-lord), [Stacy Robinson](https://www.theepochtimes.com/author/stacy-robinson) and [Jackson Richman](https://www.theepochtimes.com/author/jackson-richman)
     
     [![House Fails to Pass GOP Stopgap Funding Plan](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![House Fails to Pass GOP Stopgap Funding Plan](https://img.theepochtimes.com/assets/uploads/2024/09/18/id5726602-GettyImages-2172990738-2-205x123.jpg.webp)](https://www.theepochtimes.com/us/house-fails-to-pass-gop-stopgap-funding-plan-5726510)
 * [CEOs Scale Back Hiring Plans Amid Weaker Sales Projections, Cooling Economy](https://www.theepochtimes.com/business/ceos-scale-back-hiring-plans-amid-weaker-sales-projections-cooling-economy-5726437)
     
-    4hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
+    11hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
     
     [![CEOs Scale Back Hiring Plans Amid Weaker Sales Projections, Cooling Economy](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![CEOs Scale Back Hiring Plans Amid Weaker Sales Projections, Cooling Economy](https://img.theepochtimes.com/assets/uploads/2024/09/06/id5719304-Unemployment_Benefits_24211490074433-OP-205x123.jpg.webp)](https://www.theepochtimes.com/business/ceos-scale-back-hiring-plans-amid-weaker-sales-projections-cooling-economy-5726437)
 * [FBI Disrupts Chinese Botnet Infecting Thousands of US Devices](https://www.theepochtimes.com/china/fbi-disrupts-chinese-botnet-infecting-thousands-of-us-devices-5726553)
     
-    4hr By [Andrew Thornebrooke](https://www.theepochtimes.com/author/andrew-thornebrooke)
+    11hr By [Andrew Thornebrooke](https://www.theepochtimes.com/author/andrew-thornebrooke)
     
     [![FBI Disrupts Chinese Botnet Infecting Thousands of US Devices](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![FBI Disrupts Chinese Botnet Infecting Thousands of US Devices](https://img.theepochtimes.com/assets/uploads/2024/09/10/id5721770-GettyImages-1228231209-1200x800-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/china/fbi-disrupts-chinese-botnet-infecting-thousands-of-us-devices-5726553)
 * [Growing Fear of War Follows 2 Days of Device Blasts in Lebanon](https://www.theepochtimes.com/world/growing-fear-of-war-follows-two-days-of-device-blasts-in-lebanon-5726512)
     
-    4hr By [Dan M. Berger](https://www.theepochtimes.com/author/dan-m-berger)
+    11hr By [Dan M. Berger](https://www.theepochtimes.com/author/dan-m-berger)
     
     [![Growing Fear of War Follows 2 Days of Device Blasts in Lebanon](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Growing Fear of War Follows 2 Days of Device Blasts in Lebanon](https://img.theepochtimes.com/assets/uploads/2024/09/18/id5726322-GettyImages-2172009998-OP-205x123.jpg.webp)](https://www.theepochtimes.com/world/growing-fear-of-war-follows-two-days-of-device-blasts-in-lebanon-5726512)
-* [Trump Holds New York Rally, First Since 2nd Assassination Attempt](https://www.theepochtimes.com/us/trump-to-hold-new-york-rally-first-since-2nd-assassination-attempt-5726550)
-    
-    5hr By [Michael Washburn](https://www.theepochtimes.com/author/michael-washburn) and [Joseph Lord](https://www.theepochtimes.com/author/joseph-lord)
-    
-    [![Trump Holds New York Rally, First Since 2nd Assassination Attempt](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Trump Holds New York Rally, First Since 2nd Assassination Attempt](https://img.theepochtimes.com/assets/uploads/2024/09/19/id5726667-GettyImages-2172996463-2-205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-to-hold-new-york-rally-first-since-2nd-assassination-attempt-5726550)
-* [Trump’s Would-Be Shooter Was on Homeland Security’s Radar in 2022, Agency Official Testifies](https://www.theepochtimes.com/us/trumps-would-be-shooter-was-on-homeland-securitys-radar-in-2022-agency-official-testifies-5726419)
-    
-    5hr By [Darlene McCormick Sanchez](https://www.theepochtimes.com/author/darlene-sanchez)
-    
-    [![Trump’s Would-Be Shooter Was on Homeland Security’s Radar in 2022, Agency Official Testifies](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Trump’s Would-Be Shooter Was on Homeland Security’s Radar in 2022, Agency Official Testifies](https://img.theepochtimes.com/assets/uploads/2024/09/16/id5724981-pspspspdasdada8ds8ad8ads8-205x123.jpg.webp)](https://www.theepochtimes.com/us/trumps-would-be-shooter-was-on-homeland-securitys-radar-in-2022-agency-official-testifies-5726419)
-* [Thousands of Food Contact Chemicals Detected in Humans](https://www.theepochtimes.com/health/thousands-of-food-contact-chemicals-detected-in-humans-5725852)
-    
-    6hr By [Huey Freeman](https://www.theepochtimes.com/author/huey-freeman)
-    
-    [![Thousands of Food Contact Chemicals Detected in Humans](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Thousands of Food Contact Chemicals Detected in Humans](https://img.theepochtimes.com/assets/uploads/2024/09/18/id5726574-shutterstock_2249717917_strawberries_strawberry_food_packaging-205x123.jpg.webp)](https://www.theepochtimes.com/health/thousands-of-food-contact-chemicals-detected-in-humans-5725852)
-* [Day in Photos: Fires in Portugal, Exploding Pagers, and Voting in India](https://www.theepochtimes.com/article/day-in-photos-fires-in-portugal-exploding-pagers-and-voting-in-india-5721003)
-    
-    6hr By [Epoch Times Staff](https://www.theepochtimes.com/author/epoch-times-staff)
-    
-    [![Day in Photos: Fires in Portugal, Exploding Pagers, and Voting in India](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Day in Photos: Fires in Portugal, Exploding Pagers, and Voting in India](https://img.theepochtimes.com/assets/uploads/2024/09/18/id5726467-GettyImages-2172006220-OP-205x123.jpg.webp)](https://www.theepochtimes.com/article/day-in-photos-fires-in-portugal-exploding-pagers-and-voting-in-india-5721003)
-* [Teamsters Union Makes No Endorsement for President](https://www.theepochtimes.com/us/teamsters-union-makes-no-endorsement-for-president-5725794)
-    
-    8hr By [Jacob Burg](https://www.theepochtimes.com/author/jacob-burg)
-    
-    [![Teamsters Union Makes No Endorsement for President](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Teamsters Union Makes No Endorsement for President](https://img.theepochtimes.com/assets/uploads/2024/02/23/id5593521-GettyImages-1975627130-OP-205x123.jpg.webp)](https://www.theepochtimes.com/us/teamsters-union-makes-no-endorsement-for-president-5725794)
 
 [![The Epoch Times](https://www.theepochtimes.com/assets/themes/eet/images/logo_eet.svg)](https://www.theepochtimes.com/)
 
