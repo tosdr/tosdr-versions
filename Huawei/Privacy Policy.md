@@ -49,17 +49,17 @@ search  Search Close
 
 Popular Products
 
-[](https://consumer.huawei.com/en/phones/pura70-ultra/ "HUAWEI Pura 70 Ultra")
+[](https://consumer.huawei.com/en/wearables/watch-gt5-pro/ "HUAWEI WATCH GT 5 Pro")
 
-[HUAWEI Pura 70 Ultra](https://consumer.huawei.com/en/phones/pura70-ultra/ "HUAWEI Pura 70 Ultra")
+[HUAWEI WATCH GT 5 Pro](https://consumer.huawei.com/en/wearables/watch-gt5-pro/ "HUAWEI WATCH GT 5 Pro")
 
-[](https://consumer.huawei.com/en/laptops/matebook-x-pro-ultra-premium-edition/ "HUAWEI MateBook X Pro Core Ultra Premium Edition")
+[](https://consumer.huawei.com/en/wearables/watch-ultimate/ "HUAWEI WATCH Ultimate")
 
-[HUAWEI MateBook X Pro Core Ultra Premium Edition](https://consumer.huawei.com/en/laptops/matebook-x-pro-ultra-premium-edition/ "HUAWEI MateBook X Pro Core Ultra Premium Edition")
+[HUAWEI WATCH Ultimate](https://consumer.huawei.com/en/wearables/watch-ultimate/ "HUAWEI WATCH Ultimate")
 
-[](https://consumer.huawei.com/en/wearables/watch-fit3/ "HUAWEI WATCH FIT 3")
+[](https://consumer.huawei.com/en/tablets/matepad-pro-12-2/ "HUAWEI MatePad Pro 12.2-inch")
 
-[HUAWEI WATCH FIT 3](https://consumer.huawei.com/en/wearables/watch-fit3/ "HUAWEI WATCH FIT 3")
+[HUAWEI MatePad Pro 12.2-inch](https://consumer.huawei.com/en/tablets/matepad-pro-12-2/ "HUAWEI MatePad Pro 12.2-inch")
 
 Quick View
 
