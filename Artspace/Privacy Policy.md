@@ -261,7 +261,7 @@ auction pre-registration
 
 Auction Pre-Registration
 
-I accept the terms and conditions
+If you already have an account and wish to place a bid, please ensure your credit card details are up to date. If you don’t have an account yet, kindly complete and submit the form below
 
 Already have a login:Sign In Now
 
@@ -301,7 +301,9 @@ Address 2 (optional)
 
 \*Phone Number
 
-Sign up now
+ I accept the terms and conditions and agree to receive all marketing communications from Artspace.
+
+Complete Registration
 
 Already a member? Sign in here
 
@@ -559,9 +561,9 @@ Alex Katz, Coleman Pond II, 2007
 
 [](#)
 
-### How it Works
+### AUCTION PROCEDURES
 
-### How bidding works
+### HOW TO BID
 
 To place a bid, enter the maximum amount you are willing to pay for the work. Artspace will accept a bid at the next increment, and save any excess amount as a maximum bid. If you are outbid, we will continue bid on your behalf up to your maximum bid.
 
@@ -569,8 +571,6 @@ To place a bid, enter the maximum amount you are willing to pay for the work. Ar
 
 Bidding increments increase at the following intervals:
 
-* Below $400: $50
-* Between $400 and $699: $100
 * Between $700 and $1,499: $200
 * Between $1,500 and $2,499: $300
 * Between $2,500 and $4,999: $500
@@ -583,7 +583,7 @@ Bidding increments increase at the following intervals:
 
 You will receive an email confirmation of your bid and when you are outbid.
 
-If you are the winning bidder, you will be contacted 48 hours after of the close of the auction.
+If you are the winning bidder, you will be contacted 48 hours after the close of the auction.
 
 ### Maximum Bidding
 
@@ -593,7 +593,7 @@ In the case of multiple bidders placing the same maximum bid, the first person t
 
 ### Buyer's Premium & Additional Charges
 
-For Artspace Auctions winning bidders are charged a 15% Buyer's Premium on top of the hammer price. For Artspace Benefit Auctions, Buyer's Premiums are not applied. If they are, this will be clearly noted. Purchases made from all auctions, including benefit auctions, are subject to sales tax.
+For Artspace Benefit Auctions, Buyer's Premiums are not applied. Purchases made from all auctions, including benefit auctions, are subject to sales tax.
 
 ### Check Out
 
