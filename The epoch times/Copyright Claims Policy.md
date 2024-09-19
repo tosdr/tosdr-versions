@@ -158,76 +158,76 @@ Please note that under Section 512(f) of the DMCA, any person who knowingly mate
 
 TOP NEWS
 
-* [EU Regulators Move to Compel Apple to Open Up Operating System to Rival Technologies](https://www.theepochtimes.com/world/eu-regulators-move-to-compel-apple-to-open-up-operating-system-to-rival-technologies-5726805)
+* [Israel Airstrikes Hit Multiple Targets in Lebanon as Wider War Looms](https://www.theepochtimes.com/world/israel-airstrikes-hit-multiple-targets-in-lebanon-as-wider-war-looms-5727056)
     
-    NEW By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
+    NEW By [Dan M. Berger](https://www.theepochtimes.com/author/dan-m-berger)
     
-    [![EU Regulators Move to Compel Apple to Open Up Operating System to Rival Technologies](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Israel Airstrikes Hit Multiple Targets in Lebanon as Wider War Looms](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![EU Regulators Move to Compel Apple to Open Up Operating System to Rival Technologies](https://img.theepochtimes.com/assets/uploads/2022/03/08/2022-03-08T214606Z_1_LYNXMPEI27193_RTROPTP_4_APPLE-EVENT-PRODUCTS-205x123.jpg.webp)](https://www.theepochtimes.com/world/eu-regulators-move-to-compel-apple-to-open-up-operating-system-to-rival-technologies-5726805)
-* [Biden to Discuss Economy in Speech After Fed Rate Cut](https://www.theepochtimes.com/business/biden-to-discuss-economy-in-speech-after-fed-rate-cut-5726789)
+    ![Israel Airstrikes Hit Multiple Targets in Lebanon as Wider War Looms](https://img.theepochtimes.com/assets/uploads/2024/09/18/id5726511-Lebanon-explosion.jpg-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/world/israel-airstrikes-hit-multiple-targets-in-lebanon-as-wider-war-looms-5727056)
+* [Federal Judge Extends Freeze on Biden Admin’s Newest Student Loan Forgiveness Plan](https://www.theepochtimes.com/us/federal-judge-extends-freeze-on-biden-admins-newest-student-loan-forgiveness-plan-5726896)
     
-    1hr By [Emel Akan](https://www.theepochtimes.com/author/emel-akan)
+    NEW By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
     
-    [![Biden to Discuss Economy in Speech After Fed Rate Cut](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Federal Judge Extends Freeze on Biden Admin’s Newest Student Loan Forgiveness Plan](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Biden to Discuss Economy in Speech After Fed Rate Cut](https://img.theepochtimes.com/assets/uploads/2024/09/17/id5725769-GettyImages-2171814982-Joe-Biden-OP-205x123.jpg.webp)](https://www.theepochtimes.com/business/biden-to-discuss-economy-in-speech-after-fed-rate-cut-5726789)
-* [Trump Had Presidential Secret Service Coverage During 2nd Assassination Attempt: Lawmakers](https://www.theepochtimes.com/us/trump-had-presidential-secret-service-coverage-during-2nd-assassination-attempt-lawmakers-5726761)
+    ![Federal Judge Extends Freeze on Biden Admin’s Newest Student Loan Forgiveness Plan](https://img.theepochtimes.com/assets/uploads/2024/08/14/id5705471-Biden-Miguel-Cardona-GettyImages-1244043030-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/federal-judge-extends-freeze-on-biden-admins-newest-student-loan-forgiveness-plan-5726896)
+* [317 People Have Voted So Far in 2024 General Election, Data Show](https://www.theepochtimes.com/us/317-people-have-voted-so-far-in-2024-general-election-data-show-5726994)
     
-    2hr By [Zachary Stieber](https://www.theepochtimes.com/author/zachary-stieber)
+    2hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
     
-    [![Trump Had Presidential Secret Service Coverage During 2nd Assassination Attempt: Lawmakers](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![317 People Have Voted So Far in 2024 General Election, Data Show](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Trump Had Presidential Secret Service Coverage During 2nd Assassination Attempt: Lawmakers](https://img.theepochtimes.com/assets/uploads/2024/09/19/id5726812-GettyImages-2172740208-OP-205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-had-presidential-secret-service-coverage-during-2nd-assassination-attempt-lawmakers-5726761)
-* [X Says It Inadvertently Evaded Brazil Ban After Network Switch](https://www.theepochtimes.com/world/x-says-it-inadvertently-evaded-brazil-ban-after-network-switch-5726728)
+    ![317 People Have Voted So Far in 2024 General Election, Data Show](https://img.theepochtimes.com/assets/uploads/2024/09/02/id5716919-GettyImages-1229312707-OP-205x123.jpg.webp)](https://www.theepochtimes.com/us/317-people-have-voted-so-far-in-2024-general-election-data-show-5726994)
+* [Schumer Moves on Senate Stopgap Funding Bill as Shutdown Looms](https://www.theepochtimes.com/us/schumer-moves-on-senate-stopgap-funding-bill-as-shutdown-looms-5726876)
     
-    4hr By [Owen Evans](https://www.theepochtimes.com/author/owen-evans)
+    2hr By [Jackson Richman](https://www.theepochtimes.com/author/jackson-richman)
     
-    [![X Says It Inadvertently Evaded Brazil Ban After Network Switch](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Schumer Moves on Senate Stopgap Funding Bill as Shutdown Looms](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![X Says It Inadvertently Evaded Brazil Ban After Network Switch](https://img.theepochtimes.com/assets/uploads/2024/09/02/id5717004-GettyImages-1757203725-LS-205x123.jpg.webp)](https://www.theepochtimes.com/world/x-says-it-inadvertently-evaded-brazil-ban-after-network-switch-5726728)
-* [Key Battle on Election Betting Market Heads to Appeals Court](https://www.theepochtimes.com/us/key-battle-on-election-betting-market-heads-to-appeals-court-5726578)
+    ![Schumer Moves on Senate Stopgap Funding Bill as Shutdown Looms](https://img.theepochtimes.com/assets/uploads/2024/09/16/id5725280-09162024-DSC00724-US-Capitol-205x123.jpg.webp)](https://www.theepochtimes.com/us/schumer-moves-on-senate-stopgap-funding-bill-as-shutdown-looms-5726876)
+* [GOP Senators Introduce Bill to Enhance Trump’s Secret Service Protection](https://www.theepochtimes.com/us/gop-senators-introduce-bill-to-enhance-trumps-secret-service-protection-5726965)
     
-    4hr By [John Haughey](https://www.theepochtimes.com/author/john-haughey)
+    3hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
     
-    [![Key Battle on Election Betting Market Heads to Appeals Court](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![GOP Senators Introduce Bill to Enhance Trump’s Secret Service Protection](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Key Battle on Election Betting Market Heads to Appeals Court](https://img.theepochtimes.com/assets/uploads/2021/01/24/2021-01-21T182643Z-web-205x123.jpg.webp)](https://www.theepochtimes.com/us/key-battle-on-election-betting-market-heads-to-appeals-court-5726578)
-* [Brussels Deducting Hungary’s $230 Million in Unpaid Asylum Fines From EU Funds](https://www.theepochtimes.com/world/brussels-deducting-hungarys-230-million-in-unpaid-asylum-fines-from-eu-funds-5726720)
+    ![GOP Senators Introduce Bill to Enhance Trump’s Secret Service Protection](https://img.theepochtimes.com/assets/uploads/2024/09/19/id5727022-GettyImages-2171768018-OP-205x123.jpg.webp)](https://www.theepochtimes.com/us/gop-senators-introduce-bill-to-enhance-trumps-secret-service-protection-5726965)
+* [Pennsylvania County Rejects Mail Ballot Drop Boxes for 2024 Election](https://www.theepochtimes.com/us/pennsylvania-county-rejects-mail-ballot-drop-boxes-for-2024-election-5726929)
     
-    4hr By [Guy Birchall](https://www.theepochtimes.com/author/guy-birchall)
+    3hr By [Zachary Stieber](https://www.theepochtimes.com/author/zachary-stieber)
     
-    [![Brussels Deducting Hungary’s $230 Million in Unpaid Asylum Fines From EU Funds](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Pennsylvania County Rejects Mail Ballot Drop Boxes for 2024 Election](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Brussels Deducting Hungary’s $230 Million in Unpaid Asylum Fines From EU Funds](https://img.theepochtimes.com/assets/uploads/2024/09/19/id5726783-NATO-NORDICS-SWEDEN-HUNGARY.jpg-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/world/brussels-deducting-hungarys-230-million-in-unpaid-asylum-fines-from-eu-funds-5726720)
-* [House Commerce Committee Advances Bills to Protect Children Online](https://www.theepochtimes.com/us/house-commerce-committee-advances-bills-to-protect-children-online-5676085)
+    ![Pennsylvania County Rejects Mail Ballot Drop Boxes for 2024 Election](https://img.theepochtimes.com/assets/uploads/2024/09/19/id5727118-GettyImages-1229133563-OP-205x123.jpg.webp)](https://www.theepochtimes.com/us/pennsylvania-county-rejects-mail-ballot-drop-boxes-for-2024-election-5726929)
+* [Iran Hacked Trump Data, Sent It to Biden Campaign: Here’s What We Know](https://www.theepochtimes.com/us/iran-hacked-trump-data-sent-it-to-biden-campaign-heres-what-we-know-5726885)
     
-    5hr By [Terri Wu](https://www.theepochtimes.com/author/terri-wu)
+    3hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
     
-    [![House Commerce Committee Advances Bills to Protect Children Online](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Iran Hacked Trump Data, Sent It to Biden Campaign: Here’s What We Know](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![House Commerce Committee Advances Bills to Protect Children Online](https://img.theepochtimes.com/assets/uploads/2024/06/27/id5676096-GettyImages-1976478628-205x123.jpg.webp)](https://www.theepochtimes.com/us/house-commerce-committee-advances-bills-to-protect-children-online-5676085)
-* [Venezuela’s Gonzalez Says He Was Forced to Sign Letter Accepting Maduro Victory](https://www.theepochtimes.com/world/venezuelas-gonzalez-says-he-was-forced-to-sign-letter-accepting-maduro-victory-5726718)
+    ![Iran Hacked Trump Data, Sent It to Biden Campaign: Here’s What We Know](https://img.theepochtimes.com/assets/uploads/2024/05/05/id5644183-Trump-Biden-EETKO-205x123.jpg.webp)](https://www.theepochtimes.com/us/iran-hacked-trump-data-sent-it-to-biden-campaign-heres-what-we-know-5726885)
+* [Hezbollah Leader Says Mass Pager Attacks Are a ‘Declaration of War’](https://www.theepochtimes.com/world/hezbollah-leader-says-mass-pager-attacks-are-a-declaration-of-war-5726922)
     
-    6hr By [Chris Summers](https://www.theepochtimes.com/author/chris-summers)
+    4hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
     
-    [![Venezuela’s Gonzalez Says He Was Forced to Sign Letter Accepting Maduro Victory](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Hezbollah Leader Says Mass Pager Attacks Are a ‘Declaration of War’](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Venezuela’s Gonzalez Says He Was Forced to Sign Letter Accepting Maduro Victory](https://img.theepochtimes.com/assets/uploads/2024/09/19/id5726784-2024-09-12T110721Z_1_LYNXMPEK8B0ED_RTROPTP_4_VENEZUELA-ELECTION-SPAIN.jpg-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/world/venezuelas-gonzalez-says-he-was-forced-to-sign-letter-accepting-maduro-victory-5726718)
-* [Lawmakers, Activists Seek to Put China on ‘No Travel’ List Over Arbitrary Detention Risks](https://www.theepochtimes.com/china/lawmakers-activists-seek-to-put-china-on-no-travel-list-over-arbitrary-detention-risks-5726682)
+    ![Hezbollah Leader Says Mass Pager Attacks Are a ‘Declaration of War’](https://img.theepochtimes.com/assets/uploads/2024/09/19/id5727074-GettyImages-1762017654.jpg-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/world/hezbollah-leader-says-mass-pager-attacks-are-a-declaration-of-war-5726922)
+* [Fed’s Powell Says Political Motives Not Behind First Rate Cut Since 2020](https://www.theepochtimes.com/business/feds-powell-says-political-motives-not-behind-first-rate-cut-since-2020-post-5726857)
     
-    6hr By [Eva Fu](https://www.theepochtimes.com/author/eva-fu)
+    4hr By [Andrew Moran](https://www.theepochtimes.com/author/andrew-moran)
     
-    [![Lawmakers, Activists Seek to Put China on ‘No Travel’ List Over Arbitrary Detention Risks](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Fed’s Powell Says Political Motives Not Behind First Rate Cut Since 2020](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Lawmakers, Activists Seek to Put China on ‘No Travel’ List Over Arbitrary Detention Risks](https://img.theepochtimes.com/assets/uploads/2024/09/19/id5726824-EpochImages-6910597295-xl.jpeg-LSedit-OP-205x123.jpg.webp)](https://www.theepochtimes.com/china/lawmakers-activists-seek-to-put-china-on-no-travel-list-over-arbitrary-detention-risks-5726682)
-* [Los Angeles Struggles to Curb Brazen and Violent Street Takeovers](https://www.theepochtimes.com/article/los-angeles-struggles-to-curb-brazen-and-violent-street-takeovers-5720805)
+    ![Fed’s Powell Says Political Motives Not Behind First Rate Cut Since 2020](https://img.theepochtimes.com/assets/uploads/2024/09/18/id5726417-Fed-chair_Sept-2024-205x123.jpg.webp)](https://www.theepochtimes.com/business/feds-powell-says-political-motives-not-behind-first-rate-cut-since-2020-post-5726857)
+* [Federal Court Affirms HHS Authority to Deny Convicted Physician’s Access to Federal Health Care Programs](https://www.theepochtimes.com/us/new-york-court-affirms-hhs-authority-to-deny-convicted-physicians-access-to-federal-health-care-programs-5726887)
     
-    7hr By [Beige Luciano-Adams](https://www.theepochtimes.com/author/beige-luciano-adams)
+    4hr By [Matt McGregor](https://www.theepochtimes.com/author/matt-mcgregor)
     
-    [![Los Angeles Struggles to Curb Brazen and Violent Street Takeovers](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Federal Court Affirms HHS Authority to Deny Convicted Physician’s Access to Federal Health Care Programs](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Los Angeles Struggles to Curb Brazen and Violent Street Takeovers](https://img.theepochtimes.com/assets/uploads/2024/09/18/id5726441-outside-205x123.jpg.webp)](https://www.theepochtimes.com/article/los-angeles-struggles-to-curb-brazen-and-violent-street-takeovers-5720805)
+    ![Federal Court Affirms HHS Authority to Deny Convicted Physician’s Access to Federal Health Care Programs](https://img.theepochtimes.com/assets/uploads/2024/06/12/id5667095-11082023-DSC04387-Xavier-BecerraKO-205x123.jpg.webp)](https://www.theepochtimes.com/us/new-york-court-affirms-hhs-authority-to-deny-convicted-physicians-access-to-federal-health-care-programs-5726887)
 
 [![The Epoch Times](https://www.theepochtimes.com/assets/themes/eet/images/logo_eet.svg)](https://www.theepochtimes.com/)
 
