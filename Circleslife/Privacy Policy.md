@@ -110,7 +110,7 @@ $20/mo
 
 [View details](https://pages.circles.life/sg/data-only-plan/)
 
-[Phone 16 Pro
+[iPhone 16 Pro
 
 5G
 
