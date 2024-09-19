@@ -1,51 +1,72 @@
-[![Rocksteady Music School](/static/rocksteady-logo-4c9a1c9b0502a8cfd253ed47fc95e78f.png)](https://www.rocksteadymusicschool.com/)
+[Parent Sign-up](https://booking.rocksteadymusicschool.com/) [Parent Login](https://backstage.rocksteadymusicschool.com/sign-in)
 
-[For Parents](https://www.rocksteadymusicschool.com/info-for-parents/)[For Schools](https://www.rocksteadymusicschool.com/info-for-schools/)[Careers](https://www.rocksteadymusicschool.com/careers/)
+[](https://www.rocksteadymusicschool.com/ "Home page")
 
-[Parent Login](https://backstage.rocksteadymusicschool.com/sign-in)
+[Home](https://www.rocksteadymusicschool.com/)
 
-[Contact](https://www.rocksteadymusicschool.com/contact/)
+* [ParentsParents](https://www.rocksteadymusicschool.com/parents/)
+* [SchoolsSchools](https://www.rocksteadymusicschool.com/schools/)
+* [CareersCareers](https://www.rocksteadymusicschool.com/careers/)
+    * [Why work for us?](https://www.rocksteadymusicschool.com/careers/)
+    * [Teaching roles](https://www.rocksteadymusicschool.com/careers/teaching/)
+    * [Support roles](https://www.rocksteadymusicschool.com/careers/office/)
+* [ContactContact](https://www.rocksteadymusicschool.com/contact/)
 
-[![Rocksteady Music School](/static/rocksteady-logo-4c9a1c9b0502a8cfd253ed47fc95e78f.png)](https://www.rocksteadymusicschool.com/)
+[Parent Sign-up](https://booking.rocksteadymusicschool.com/) [Parent Login](https://backstage.rocksteadymusicschool.com/sign-in)
 
-MENU
+* [ParentsParents](https://www.rocksteadymusicschool.com/parents/)
+* [SchoolsSchools](https://www.rocksteadymusicschool.com/schools/)
+* [CareersCareers](https://www.rocksteadymusicschool.com/careers/)
+    * [Why work for us?](https://www.rocksteadymusicschool.com/careers/)
+    * [Teaching roles](https://www.rocksteadymusicschool.com/careers/teaching/)
+    * [Support roles](https://www.rocksteadymusicschool.com/careers/office/)
+* [ContactContact](https://www.rocksteadymusicschool.com/contact/)
 
-[Terms & Conditions](https://www.rocksteadymusicschool.com/terms-conditions/)
-=============================================================================
+[Parent Sign-up](https://booking.rocksteadymusicschool.com/) [Parent Login](https://backstage.rocksteadymusicschool.com/sign-in)
+
+![](https://www.rocksteadymusicschool.com/wp-content/uploads/2024/09/legal-header-mobile-jpg.avif) ![](https://www.rocksteadymusicschool.com/wp-content/uploads/2024/09/legal-header-duotone-3.jpg) 
+
+Terms & Conditions
+==================
 
 Please read these Terms and Conditions carefully before using this Site
------------------------------------------------------------------------
 
-#### What's in these terms?
+What’s in these terms?
+----------------------
 
-These terms tell you the rules for using our website [Rocksteady Music School Website](https://www.rocksteadymusicschool.com/) (our **"Site"**).
+These terms tell you the rules for using our website [Rocksteady Music School Website](https://www.rocksteadymusicschool.com/) (our **“Site”**).
 
-Click on the links below to go straight to more information on each area:
+Click on the links below to go straight to more information on each area:
 
-* [Who we are and how to contact us](https://www.rocksteadymusicschool.com/terms-conditions#us)
-* [By using our Site you accept these terms](https://www.rocksteadymusicschool.com/terms-conditions#accept)
-* [There are other terms that may apply to you](https://www.rocksteadymusicschool.com/terms-conditions#other)
-* [We may make changes to these terms](https://www.rocksteadymusicschool.com/terms-conditions#change_terms)
-* [We may make changes to our Site](https://www.rocksteadymusicschool.com/terms-conditions#change_site)
-* [We may suspend or withdraw our Site](https://www.rocksteadymusicschool.com/terms-conditions#suspend)
-* [We may transfer this Agreement to someone else](https://www.rocksteadymusicschool.com/terms-conditions#transfer)
-* [Our Site is only for users in the UK](https://www.rocksteadymusicschool.com/terms-conditions#uk)
-* [You must keep your account details safe](https://www.rocksteadymusicschool.com/terms-conditions#safe)
-* [How you may use material on our Site](https://www.rocksteadymusicschool.com/terms-conditions#how)
-* [Do not rely on information on our Site](https://www.rocksteadymusicschool.com/terms-conditions#information)
-* [We are not responsible for websites we link to](https://www.rocksteadymusicschool.com/terms-conditions#external)
-* [Our responsibility for loss or damage suffered by you](https://www.rocksteadymusicschool.com/terms-conditions#responsibility)
-* [How we may use your personal information](https://www.rocksteadymusicschool.com/terms-conditions#personal)
-* [We are not responsible for viruses and you must not introduce them](https://www.rocksteadymusicschool.com/terms-conditions#virus)
-* [Rules about linking to our Site](https://www.rocksteadymusicschool.com/terms-conditions#links)
-* [Which country's laws apply to any disputes?](https://www.rocksteadymusicschool.com/terms-conditions#country)
+* [Who we are and how to contact us](#us)
+* [By using our Site you accept these terms](#accept)
+* [There are other terms that may apply to you](#other)
+* [We may make changes to these terms](#change_terms)
+* [We may make changes to our Site](#change_site)
+* [We may suspend or withdraw our Site](#suspend)
+* [We may transfer this Agreement to someone else](#transfer)
+* [Our Site is only for users in the UK](#uk)
+* [You must keep your account details safe](#safe)
+* [How you may use material on our Site](#how)
+* [Do not rely on information on our Site](#information)
+* [We are not responsible for websites we link to](#external)
+* [Our responsibility for loss or damage suffered by you](#responsibility)
+* [How we may use your personal information](#personal)
+* [We are not responsible for viruses and you must not introduce them](#virus)
+* [Rules about linking to our Site](#links)
+* [Which country’s laws apply to any disputes?](#country)
+
+We may make changes to our Site
+-------------------------------
+
+We may update and change our Site from time to time to reflect changes to our services, our users’ needs and our business priorities.
 
 Who we are and how to contact Us
 --------------------------------
 
-[www.rocksteadymusicschool.com](https://www.rocksteadymusicschool.com/) is a site operated by Rocksteady Music School Limited (**"We"**). We are a limited company registered in England and Wales under company number 08111026 and have our registered office and main trading address at Bohunt Manor, Portsmouth Road, Liphook, Hampshire, United Kingdom, GU30 7DL. Our VAT number is GB156252612.
+[www.rocksteadymusicschool.com](https://www.rocksteadymusicschool.com/) is a site operated by Rocksteady Music School Limited (**“We”**). We are a limited company registered in England and Wales under company number 08111026 and have our registered office and main trading address at Bohunt Manor, Portsmouth Road, Liphook, Hampshire, United Kingdom, GU30 7DL. Our VAT number is GB156252612.
 
-To contact us, please email [info@rocksteadymusicschool.com](mailto:info@rocksteadymusicschool.com) or telephone us on 0330 113 0330.
+To contact us, please email [info@rocksteadymusicschool.com](mailto:info@rocksteadymusicschool.com) or telephone us on 0330 113 0330.
 
 By using our Site you accept these Terms
 ----------------------------------------
@@ -61,18 +82,13 @@ There are Other Terms that may apply to You
 
 These terms of use refer to the following additional terms, which also apply to your use of our Site:
 
-* Our [Privacy Notice](https://www.rocksteadymusicschool.com/privacy-policy/). See further under [How we may use your personal information](https://www.rocksteadymusicschool.com/terms-conditions#personal)
-* Our [Cookie Policy](https://www.rocksteadymusicschool.com/cookie-policy/), which sets out information about the cookies on our Site.
+* Our [Privacy Notice](https://www.rocksteadymusicschool.com/privacy-policy/). See further under [How we may use your personal information](https://www.rocksteadymusicschool.com/terms-conditions#personal)
+* Our [Cookie Policy](https://www.rocksteadymusicschool.com/cookie-policy/), which sets out information about the cookies on our Site.
 
 We may make changes to these Terms
 ----------------------------------
 
 We amend these terms from time to time. Every time you wish to use our Site, please check these terms to ensure you understand the terms that apply at that time.
-
-We may make changes to our Site
--------------------------------
-
-We may update and change our Site from time to time to reflect changes to our services, our users' needs and our business priorities.
 
 We may Suspend or Withdraw our Site
 -----------------------------------
@@ -100,7 +116,7 @@ If you choose, or you are provided with, a user identification code, password or
 
 We have the right to disable any user identification code or password, whether chosen by you or allocated by us, at any time, if in our reasonable opinion you have failed to comply with any of the provisions of these terms of use.
 
-If you know or suspect that anyone other than you, knows your user identification code or password, you must promptly notify us at [info@rocksteadymusicschool.com](mailto:info@rocksteadymusicschool.com)
+If you know or suspect that anyone other than you, knows your user identification code or password, you must promptly notify us at [info@rocksteadymusicschool.com](mailto:info@rocksteadymusicschool.com)
 
 How You may use Material on our Site
 ------------------------------------
@@ -135,14 +151,14 @@ Our Responsibility for Loss or Damage Suffered by You
 -----------------------------------------------------
 
 * We do not exclude or limit in any way our liability to you where it would be unlawful to do so. This includes liability for death or personal injury caused by our negligence or the negligence of our employees, agents or subcontractors and for fraud or fraudulent misrepresentation.
-* Different limitations and exclusions of liability will apply to liability arising as a result of the supply of any services to you, which will be set out in our [Terms and Conditions for Online Services](https://www.rocksteadymusicschool.com/zoom-lessons-terms-conditions)
+* Different limitations and exclusions of liability will apply to liability arising as a result of the supply of any services to you, which will be set out in our [Terms and Conditions for Online Services](https://www.rocksteadymusicschool.com/zoom-lessons-terms-conditions)
 * Please note that we only provide our Site for domestic and private use. You agree not to use our Site for any commercial or business purposes, and we have no liability to you for any loss of profit, loss of business, business interruption, or loss of business opportunity.
 * If defective digital content that we have supplied, damages a device or digital content belonging to you and this is caused by our failure to use reasonable care and skill, we will either repair the damage or pay you compensation.
 
 How we may use Your Personal Information
 ----------------------------------------
 
-We will only use your personal information as set out in our [Privacy Notice](https://www.rocksteadymusicschool.com/privacy-policy)
+We will only use your personal information as set out in our [Privacy Notice](https://www.rocksteadymusicschool.com/privacy-policy)
 
 We are not responsible for Viruses and You must not introduce them
 ------------------------------------------------------------------
@@ -166,65 +182,51 @@ Our Site must not be framed on any other Site, nor may you create a link to any 
 
 We reserve the right to withdraw linking permission without notice.
 
-If you wish to link to or make any use of content on our Site other than that set out above, please contact [info@rocksteadymusicschool.com](mailto:info@rocksteadymusicschool.com)
+If you wish to link to or make any use of content on our Site other than that set out above, please contact [info@rocksteadymusicschool.com](mailto:info@rocksteadymusicschool.com)
 
-Which Country's Laws apply to any Disputes
+Which Country’s Laws apply to any Disputes
 ------------------------------------------
 
 Please note that these terms of use, their subject matter and their formation, are governed by English law. You and we both agree that the courts of England and Wales will have exclusive jurisdiction.
 
-[](#)
+[](https://www.facebook.com/rocksteadymusicschool)
+
+[](https://twitter.com/rsmusicschool)
+
+[](https://www.instagram.com/rocksteadymusicschool/)
+
+[](https://www.linkedin.com/company/rocksteady-music-school/)
 
 Quick Links
-
-Legal info
-
-Contact
 
 * [Home](https://www.rocksteadymusicschool.com/)
 * [Parent Login](https://backstage.rocksteadymusicschool.com/sign-in)
 * [School Login](https://portal.rocksteadymusicschool.com/)
-* [Sign Up For Lessons](https://booking.rocksteadymusicschool.com/)
 * [Careers](https://www.rocksteadymusicschool.com/careers/)
-* [Contact Us](https://www.rocksteadymusicschool.com/contact/)
-* [Rocksteady Foundation](https://www.rocksteadymusicschool.com/foundation/)
+* [Contact](https://www.rocksteadymusicschool.com/contact/)
+
+Legal Info
 
 * [Privacy Notice](https://www.rocksteadymusicschool.com/privacy-notice/)
 * [Cookie Policy](https://www.rocksteadymusicschool.com/cookie-policy/)
-* [Website Terms & Conditions](https://www.rocksteadymusicschool.com/terms-conditions/)
-* [Safeguarding Policy](https://www.rocksteadymusicschool.com/safeguarding-policy/)
-* [Job Privacy Notice](https://www.rocksteadymusicschool.com/job-application-policy/)
+* [Website Terms & Conditions](https://www.rocksteadymusicschool.com/website-terms-conditions/)
+* [Safeguarding Policy](https://www.rocksteadymusicschool.com/wp-content/uploads/2024/09/Child-Safeguarding-Policy-2024-25-Rocksteady-Music-School.pdf)
+* [Job Privacy Notice](https://www.rocksteadymusicschool.com/wp-content/uploads/2024/08/Rocksteady_Job_Applicants_Privacy_Notice_1.pdf)
+* [Gender Pay Gap](https://www.rocksteadymusicschool.com/gender-pay-gap/)
 
-Rocksteady Music School, Bohunt Manor, Portsmouth Road, Liphook, Hampshire, GU30 7DL
+Address
 
-[info@rocksteadymusicschool.com](mailto:info@rocksteadymusicschool.com)  
-[0330 113 0330](tel:+443301130330)  
-(Calls are charged at local rate)
+Rocksteady Music School,  
+Bohunt Manor, Portsmouth Road,  
+Liphook, Hampshire,  
+GU30 7DL
 
 Contact
 
-Rocksteady Music School, Bohunt Manor, Portsmouth Road, Liphook, Hampshire, GU30 7DL
+[info@rocksteadymusicschool.com](mailto:info@rocksteadymusicschool.com) [0330 113 0330 - Parents](tel:0330 113 0330 - Parents) [0330 113 0401 - Schools](tel:0330 113 0401 - Schools) (Calls are charged at local rate)
 
-[info@rocksteadymusicschool.com](mailto:info@rocksteadymusicschool.com)  
-[0330 113 0330](tel:+443301130330)  
-(Calls are charged at local rate)
+[](https://www.rocksteadymusicschool.com/ "Home page")
 
-![celebrating 16 years of rocksteady](/static/rocksteady-16yr-logo-3cb01c1e59dbc5cc1345e4142028a63c.png)
-
-![wellbeing resource of the year](/static/wellbeing-resource-black-bfd098c01017a8ad1c454f4465f4ceb3.png)
-
-* * *
-
-[![facebook](/static/fb-logo-f5f2395563f2fc3c515a6f444a34ffe7.png)](https://www.facebook.com/rocksteadymusicschool)[![instagram](/static/instagram-logo-f427284279595ddc4fbf9f2fdd4b4f0e.png)](https://www.instagram.com/rocksteadymusicschool/)[![twitter](/static/x-logo-f64a1389a58af4a82589a0859c028b49.png)](https://twitter.com/rsmusicschool)[![linkedin](/static/linkedin-logo-10314fa7aabe39db99f15e4f038dfdaa.png)](https://www.linkedin.com/company/rocksteady-music-school/)
-
-* * *
-
-![rocksteady](/static/rocksteady-logo-paint-it-black-20dfda38076c798f71980df6549997b8.png)
-
-![celebrating 16 years of rocksteady](/static/rocksteady-16yr-logo-3cb01c1e59dbc5cc1345e4142028a63c.png)
-
-![rocksteady](/static/rocksteady-logo-paint-it-black-20dfda38076c798f71980df6549997b8.png)
-
-![wellbeing resource of the year](/static/wellbeing-resource-black-bfd098c01017a8ad1c454f4465f4ceb3.png)
+![](https://www.rocksteadymusicschool.com/wp-content/uploads/2024/09/17-Years-1.svg) ![](https://www.rocksteadymusicschool.com/wp-content/uploads/2024/08/Trinity-Logo.svg) ![](https://www.rocksteadymusicschool.com/wp-content/uploads/2024/08/Wellbeing.svg)
 
 © 2024 Rocksteady Music School
