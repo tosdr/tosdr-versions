@@ -1,4 +1,4 @@
-[![watson](https://www.watson.ch/fr/_watsui/static/img/logos/logo_watson_navi_ch.png)](https://www.watson.ch/fr/)[![brouillard](https://www.watson.ch/fr/_watsui/static/img/weather/w-56.svg)9°](https://www.watson.ch/fr/o/meteo)
+[![watson](https://www.watson.ch/fr/_watsui/static/img/logos/logo_watson_navi_ch.png)](https://www.watson.ch/fr/)[![assez ensoleillé](https://www.watson.ch/fr/_watsui/static/img/weather/w-55.svg)15°](https://www.watson.ch/fr/o/meteo)
 
 [DE](https://www.watson.ch/) | [FR](https://www.watson.ch/fr/)
 
@@ -55,25 +55,25 @@
 
 Thèmes du moment
 
-* [Donald Trump](https://www.watson.ch/fr/donald-trump/)
-* [Télévision](https://www.watson.ch/fr/television/)
+* [Vins](https://www.watson.ch/fr/vins/)
+* [En Train](https://www.watson.ch/fr/en-train/)
 * [Voyage](https://www.watson.ch/fr/voyage/)
-* [RTS](https://www.watson.ch/fr/rts/)
-* [Israël](https://www.watson.ch/fr/israel/)
 * [Russie](https://www.watson.ch/fr/russie/)
-* [Les Good News](https://www.watson.ch/fr/les-good-news/)
 * [Argent](https://www.watson.ch/fr/argent/)
-* [Sécurité](https://www.watson.ch/fr/securite/)
 * [Inflation](https://www.watson.ch/fr/inflation/)
+* [Cinéma](https://www.watson.ch/fr/cinema/)
+* [Football](https://www.watson.ch/fr/football/)
+* [CFF](https://www.watson.ch/fr/cff/)
+* [Israël](https://www.watson.ch/fr/israel/)
+* [Liban](https://www.watson.ch/fr/liban/)
+* [Nature](https://www.watson.ch/fr/nature/)
+* [Décès](https://www.watson.ch/fr/deces/)
 * [Guerre contre l'Ukraine](https://www.watson.ch/fr/guerre-contre-l-ukraine/)
-* [Politique](https://www.watson.ch/fr/politique/)
-* [Cyclisme](https://www.watson.ch/fr/cyclisme/)
-* [ukraine](https://www.watson.ch/fr/ukraine/)
-* [Kamala Harris](https://www.watson.ch/fr/kamala-harris/)
+* [hezbollah](https://www.watson.ch/fr/hezbollah/)
+* [Animaux](https://www.watson.ch/fr/animaux/)
+* [Gaza](https://www.watson.ch/fr/gaza/)
 * [Emploi](https://www.watson.ch/fr/emploi/)
 * [Justice](https://www.watson.ch/fr/justice/)
-* [Liban](https://www.watson.ch/fr/liban/)
-* [Gaza](https://www.watson.ch/fr/gaza/)
 * [Etats-Unis](https://www.watson.ch/fr/etats-unis/)
 * [Tous les thèmes](https://www.watson.ch/fr/u/tag_list)
 
