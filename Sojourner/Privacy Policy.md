@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-9a38875e3d4779605190374835770e16
+9905c3fe8e6ed60beda81a7503f7def7
 
 [](# "Expand for more options")[](# "Search")
 
@@ -171,11 +171,11 @@ Sojourner may revise this policy as needed by updating this posting.
 
 ### Featured Product
 
-[![Triple garnet clasp](https://www.sojourner.biz/images/cache/SKU0065front.200.jpg)](https://www.sojourner.biz/clasps/semi-precious/triple-garnet-clasp.html "Triple garnet clasp")
+[![14 mm by 10 mm faceted glass rectangle beads](https://www.sojourner.biz/images/cache/glass/GL0106.200.jpg)](https://www.sojourner.biz/beads/glass/14-mm-by-10-mm-faceted-glass-rectangle-beads.html "14 mm by 10 mm faceted glass rectangle beads")
 
-#### [Triple garnet clasp](https://www.sojourner.biz/clasps/semi-precious/triple-garnet-clasp.html "Triple garnet clasp")
+#### [14 mm by 10 mm faceted glass rectangle beads](https://www.sojourner.biz/beads/glass/14-mm-by-10-mm-faceted-glass-rectangle-beads.html "14 mm by 10 mm faceted glass rectangle beads")
 
-$23.00
+$16.00
 
 ### Best Sellers
 
