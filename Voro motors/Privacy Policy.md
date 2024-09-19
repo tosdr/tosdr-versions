@@ -630,6 +630,6 @@ English
 
 © 2024 [VORO MOTORS](https://www.voromotors.com/).
 
-American Express Diners Club Discover Mastercard PayPal Shop Pay Venmo Visa
+American Express Apple Pay Diners Club Discover Meta Pay Google Pay Mastercard PayPal Shop Pay Venmo Visa
 
  Search
