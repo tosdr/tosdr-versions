@@ -85,11 +85,11 @@ Top downloads
 
 Latest releases
 
+* [Ikari Warriors II: Victory Road](https://www.myabandonware.com/game/ikari-warriors-ii-victory-road-gj)
+* [Jail Break](https://www.myabandonware.com/game/jail-break-5tf)
+* [Ikari III: The Rescue](https://www.myabandonware.com/game/ikari-iii-the-rescue-oc)
 * [Jackal](https://www.myabandonware.com/game/jackal-go)
 * [In the Hunt](https://www.myabandonware.com/game/in-the-hunt-ewe)
-* [Hydra](https://www.myabandonware.com/game/hydra-509)
-* [Quasar](https://www.myabandonware.com/game/quasar-se8)
-* [Ridge Racer](https://www.myabandonware.com/game/ridge-racer-se7)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [Facebook](https://www.facebook.com/myabandonware) or [X (Twitter)](https://x.com/myabandonware)
