@@ -65,6 +65,9 @@ Huawei Central
     
 * [Wearables](https://www.huaweicentral.com/category/wearables/)
     
+    * [![Huawei Watch GT 5 variants](https://www.huaweicentral.com/wp-content/uploads/2024/09/Watch-GT-5-variants-400x240.jpg)
+        
+        Exclusive: Check Huawei Watch GT 5 variants before today’s launch](https://www.huaweicentral.com/exclusive-check-huawei-watch-gt-5-variants-before-todays-launch/)
     * [![Huawei wearables China September 24](https://www.huaweicentral.com/wp-content/uploads/2024/09/Wearable-launch-400x240.jpg)
         
         Huawei could launch new wearables in China on September 24](https://www.huaweicentral.com/huawei-could-launch-new-wearables-in-china-on-september-24/)
@@ -77,9 +80,6 @@ Huawei Central
     * [![Huawei Watch GT 5 live video](https://www.huaweicentral.com/wp-content/uploads/2024/09/Watch-GT-5-video-400x240.jpg)
         
         Huawei Watch GT 5 live unboxing video leaked before official release](https://www.huaweicentral.com/huawei-watch-gt-5-live-unboxing-video-leaked-before-official-release/)
-    * [![Huawei Watch GT 5 renders](https://www.huaweicentral.com/wp-content/uploads/2024/09/Watch-GT-5-renders-400x240.jpg)
-        
-        Alleged Huawei Watch GT 5 renders reveal familiar design and price details](https://www.huaweicentral.com/alleged-huawei-watch-gt-5-renders-reveal-familiar-design-and-price-details/)
     
 * [Contact Us](https://www.huaweicentral.com/contact/)
 
