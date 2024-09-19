@@ -94,7 +94,7 @@ Country selection[to cart](https://breastfeedingsupply.com/)
 
 [Commitment to Breastfeeding](https://www.medela.us/en-us/breastfeeding-pumping/lactation-professionals/commitment-to-breastfeeding) [Marketing guidelines](https://www.medela.us/en-us/breastfeeding-pumping/lactation-professionals/commitment-to-breastfeeding/marketing-guidelines)
 
-[NICU](https://www.medela.us/en-us/breastfeeding-pumping/lactation-professionals/lactation-articles/nicu) [Transition to at-Breast Feeding](https://www.medela.us/en-us/breastfeeding-pumping/lactation-professionals/lactation-articles/nicu/transition-to-at-breast-feeding)
+[NICU](https://www.medela.us/en-us/breastfeeding-pumping/lactation-professionals/lactation-articles/nicu) [Effective Initiation to Build and Maintain Milk Supply](https://www.medela.us/en-us/breastfeeding-pumping/lactation-professionals/lactation-articles/nicu/effective-initiation-to-build-and-maintain-milk-supply) [Transition to at-Breast Feeding](https://www.medela.us/en-us/breastfeeding-pumping/lactation-professionals/lactation-articles/nicu/transition-to-at-breast-feeding)
 
 Close menu
 
@@ -265,6 +265,7 @@ Close menu
         * [Pumping](https://www.medela.us/en-us/breastfeeding-pumping/lactation-professionals/lactation-articles/pumping)
         * [NICU](https://www.medela.us/en-us/breastfeeding-pumping/lactation-professionals/lactation-articles/nicu)
             * [NICU](https://www.medela.us/en-us/breastfeeding-pumping/lactation-professionals/lactation-articles/nicu)
+            * [Effective Initiation to Build and Maintain Milk Supply](https://www.medela.us/en-us/breastfeeding-pumping/lactation-professionals/lactation-articles/nicu/effective-initiation-to-build-and-maintain-milk-supply)
             * [Transition to at-Breast Feeding](https://www.medela.us/en-us/breastfeeding-pumping/lactation-professionals/lactation-articles/nicu/transition-to-at-breast-feeding)
         * [Research & Literature](https://www.medela.us/en-us/breastfeeding-pumping/lactation-professionals/lactation-articles/research-literature)
     * [Professional Education](https://www.medela.us/en-us/breastfeeding-pumping/lactation-professionals/professional-education)
