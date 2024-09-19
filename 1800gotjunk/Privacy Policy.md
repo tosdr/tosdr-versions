@@ -620,14 +620,6 @@ Malcolm Propp Calgary 12/09/2024
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
-Came same day. They were polite and professional. Thank you for the great service!
-
-Liesa Evans Calgary 11/09/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
 Great guys and easy experience
 
 Honour Calgary 11/09/2024
@@ -639,6 +631,14 @@ Honour Calgary 11/09/2024
 These guys are amazing! Very thorough, very fast, and clean up behind themselves. Highly recommend!
 
 Gail Singer Calgary 11/09/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
+Came same day. They were polite and professional. Thank you for the great service!
+
+Liesa Evans Calgary 11/09/2024
 
 ![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
 
@@ -964,17 +964,17 @@ Andrew Little LA Metro 13/09/2024
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
-Ethan and Rex were professional and efficient and did a great job for us.
+AJ and Luis were awesome! They did a quick and thorough job getting years of things out. Highly recommended.
 
-Mister Ed Wisconsin 13/09/2024
+Paulo Almas Austin 13/09/2024
 
 ![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
-AJ and Luis were awesome! They did a quick and thorough job getting years of things out. Highly recommended.
+Ethan and Rex were professional and efficient and did a great job for us.
 
-Paulo Almas Austin 13/09/2024
+Mister Ed Wisconsin 13/09/2024
 
 ![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
 
