@@ -104,11 +104,11 @@ Last Updated November 18, 2022
 
 Sovrn provides data and monetization tools to our customers that allow for revenue generation through digital advertising, affiliate network marketing and commercial data products.  We believe in transparency and respecting consumer choice as a foundation of trust, so we have crafted this Privacy Policy to help you understand how we handle Personal Information, and your privacy choices.
 
-Our products are used on websites and other internet-connected services (such as smart TV’s and mobile devices). A more in-depth description of our Services can be found at our [Publisher Products](https://www.sovrn.com/publishers/) site.
+Our products are used on websites and other internet-connected services (such as smart TV’s and mobile devices). A more in-depth description of our Services can be found at our [Publisher Products](https://www.sovrn.com/) site.
 
-This **“Privacy Policy”** describes how Sovrn collects, uses, and shares personal information in connection with (i) Sovrn Services; and (ii) our public-facing business websites found at www.sovrn.com and other websites that we own and operate that link to this Privacy Policy (collectively, the **“Site”**).
+This **“Privacy Policy”** describes how Sovrn collects, uses, and shares personal information in connection with (i) Sovrn Services; and (ii) our public-facing business websites found at [www.sovrn.com](http://sovrn.com/) and other websites that we own and operate that link to this Privacy Policy (collectively, the **“Site”**).
 
-If unsure about any of the information provided, please reach out to privacy\[at\]sovrn\[.\]com.
+If unsure about any of the information provided, please reach out to privacy@sovrn.com.
 
 _Definition of Terms_  
 Throughout this Privacy Policy, we use some phrases that are unique to our business or the technology underlying our Services or may just be new to you. The following are definitions of some of the key terms that you’ll need to know to make it easier to understand this Privacy Policy:
@@ -141,7 +141,7 @@ In addition to the Services, Sovrn collects Personal Information through interac
 
 **Sovrn supports industry self-regulatory principles and endorses industry recognized practices and self-regulatory standards.** 
 
-Sovrn follows and adheres to the industry Self-Regulatory Principles of the [Digital Advertising Alliance](https://digitaladvertisingalliance.org/participating%23CompanyS) (“DAA”).
+Sovrn follows and adheres to the industry Self-Regulatory Principles of the [Digital Advertising Alliance](https://digitaladvertisingalliance.org/) (“DAA”).
 
 Sovrn also adheres to the [Interactive Advertising Bureau](https://www.iab.com/member-directory/) (“IAB”) Code of Conduct, and actively participates in the [IAB Europe Transparency & Consent Framework](https://iabeurope.eu/vendor-list/) (TCF 2.0). We comply with IAB’s Specifications and Policies under vendor identification number 13.
 
@@ -375,7 +375,7 @@ Sovrn is a global company headquartered in Boulder, Colorado (USA), with data ce
 
 These countries (including the United States) may have data protection or other laws that differ from those in the Applicable Countries. We ensure that where Sovrn or third-party service providers receive Personal Information outside of the Applicable Countries, appropriate safeguards are in place under the Applicable Countries’ data protection legislation.
 
-Sovrn may be required to disclose Personal Information in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.  Such requests are subject to Sovrn’s [Law Enforcement Request Policy](https://www.sovrn.com/privacy-policy/law-enforcement-request-policy/).
+Sovrn may be required to disclose Personal Information in response to lawful requests by public authorities, including to meet national security or law enforcement requirements. Such requests are subject to Sovrn’s [Law Enforcement Request Policy](https://www.sovrn.com/privacy-policy/law-enforcement-request-policy/).
 
 #### **IAB Europe Transparency and Consent Framework**
 
@@ -480,33 +480,6 @@ Consistent with California law, you may designate an authorized agent to make a 
 
 You will not have to pay a fee to access your personal information (or to exercise any of the other rights).  However, we may charge a reasonable fee or decline to comply with your request if your request is clearly unfounded, repetitive, or excessive.
 
-### **Notice to Virginia Residents**
-
-**This section applies only to Virginia residents and supplements the practices described in this Privacy Policy. It describes how we collect, use, and share Personal Information of Virginia residents, and their rights with respect to that Personal Information. For purposes of this section, “Personal Information” means “personal data” as such term is defined under Virginia privacy law but does not include information exempted from the scope of such law.**
-
-We describe:
-
-* the categories of Personal Information we process in this Privacy Policy under the section titled, [“Information We Collect”](https://www.sovrn.com/privacy-policy/privacy-policy/#Information-We-Collect)
-* the purposes for which we process Personal Information in this Privacy Policy under the section titled, [“How We Use Information;”](https://www.sovrn.com/privacy-policy/privacy-policy/#How-We-Use-Information) and
-* the categories of Personal Information that we share with third parties and the third parties with whom we share this information in this Privacy Policy under the section titled, [“](https://www.sovrn.com/privacy-policy/privacy-policy/%23Our-Information-Sharing-Practices)[Our Information Sharing Practices.”](https://www.sovrn.com/privacy-policy/privacy-policy/#Our-Information-Sharing-Practices)
-
-We may “sell” your Personal Information to third parties or process your Personal Information for targeted advertising. For example, we may “sell” Reader Personal Information under Virginia law when we provide licensed datasets to our trusted partners, or when we provide our customers with tailored audience lists of consumers who may be interested in their products and services. We process your personal information for targeted advertising in the manner described throughout this Privacy Policy.
-
-Under Virginia privacy law, you may request the rights listed below. Please note, these rights are not absolute, and, in some cases, we may not be able to respond to your request, such as when a legal exemption applies or if we are not able to verify your identity.
-
-* **Access**. You can request that we confirm whether we process your Personal Information and to access that Personal Information.
-* **Correct**. You can ask us to correct inaccurate Personal Information that we maintain about you.
-* **Delete**. You can ask us to delete Personal Information provided by or obtained about you.
-* **Port**. You can request to obtain a copy of Personal Information that you have previously provided to us in a portable and, to the extent technically feasible, readily usable format.
-* **Opt-out of sales and targeted advertising**. If we “sell” your Personal Information or use your Personal Information to engage in “targeted advertising” according to Virginia privacy law, you can opt-out. 
-
-You may request to exercise your Virginia privacy rights described above by:
-
-* Visiting our Privacy Center and completing the [data rights request webform](https://privacy.sovrn.com/data-rights-request); or
-* Emailing privacy@sovrn\[.\]com – Please put the statement “VCDPA Consumer Request” in the subject line.
-
-If we decline to take action on your request, you may appeal such refusal by sending us an email to privacy@sovrn\[.\]com within a reasonable time period after our decision has been sent to you.
-
 ### **Changes in this Privacy Policy**
 
 We may modify or amend this Privacy Policy from time to time at our discretion. When we make material changes to this Privacy Policy, we will amend the revision date at the top of this page and such modified or amended Privacy Policy shall be effective as to the Personal Information governed by this Privacy Policy as of that revision date. We encourage periodic review of this Privacy Policy to view any updates, as well as the revision log found at the end of this page.[](https://www.sovrn.com/legal/privacy-policy/#contact)
@@ -518,8 +491,9 @@ Please contact us at privacy@sovrn\[.\]com with questions or concerns regarding
 Sovrn will respond in good faith to all privacy inquiries but may not be able to provide complete information if the request requires Sovrn to release confidential information of third parties, or otherwise imposes an undue burden or expense.
 
 **Sovrn U.S. Headquarters**  
-5541 Central Avenue, Suite 100  
-Boulder, CO 80301  
+1600 Pearl St  
+Second Floor  
+Boulder, CO 80302  
 United States
 
 **Sovrn U.K. Headquarters** 53, 64 Chancery Ln,   
