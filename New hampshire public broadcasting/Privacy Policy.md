@@ -186,13 +186,13 @@ NHPBS inspires one million Granite Staters each month with engaging and trusted 
 
 * [**Inundation District Preview** | Local, USA](https://video.nhpbs.org/video/local-usa-inundation-district-preview?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Acadia's Beehive** | Windows to the Wild](https://video.nhpbs.org/video/windows-to-the-wild-acadias-beehive?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**September 18, 2024 - full episode** | PBS News Hour](https://video.nhpbs.org/video/september-18-2024-pbs-news-hour-full-episode-1726632001?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**Lindsey Hilsum shares poetry inspired by the front lines** | PBS News Hour](https://video.nhpbs.org/video/war-verse-1726695768?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**First Look at : Earth's Extremes** | Weathered](https://video.nhpbs.org/video/first-look-at-weathered-earths-extremes-nto1mi?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Lover of Men: The Untold History of Abraham Lincoln** | Flicks](https://video.nhpbs.org/video/lover-of-men-the-untold-history-of-abraham-lincoln-nojhgz?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Trailer** | Hispanic Heritage Awards](https://video.nhpbs.org/video/trailer-fgg5pk?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**at the Met: Madama Butterfly Preview** | Great Performances](https://video.nhpbs.org/video/great-performances-at-the-met-madama-butterfly-preview-y8uuo5?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**Trump Alleged Assassination Attempt: How Toxic Rhetoric Fuels Violence** | Amanpour and Company](https://video.nhpbs.org/video/trump-alleged-assassination-attempt-how-toxic-rhetoric-fuels-violence-7fjpob?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**California Sea Otters: Life on the Edge** | Changing Seas](https://video.nhpbs.org/video/1604-dtgds6?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**Solar System: Storm Worlds Preview** | NOVA](https://video.nhpbs.org/video/solar-system-storm-worlds-preview-6zindz?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 
 **FCC Public File Info**: [WENH](https://publicfiles.fcc.gov/tv-profile/wenh-tv) | [WLED](https://publicfiles.fcc.gov/tv-profile/wled-tv) | [WEKW](https://publicfiles.fcc.gov/tv-profile/wekw-tv) | [EEO Public File Report](https://publicfiles.fcc.gov/tv-profile/wenh-tv/equal-employment-opportunity-records/additional-documents/eeo-public-file-reports/5d0f4964-7b9d-41c3-c658-a55a34730f8a/) | For assistance, please email [themailbox@nhpbs.org](mailto:themailbox@nhpbs.org)
 
