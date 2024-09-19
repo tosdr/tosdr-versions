@@ -30,17 +30,18 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/aac21277-7af3-4bb4-904b-85a94fad98fc/20240919T154256/aac21277-7af3-4bb4-904b-85a94fad98fc_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/aac21277-7af3-4bb4-904b-85a94fad98fc/20240919T154256/aac21277-7af3-4bb4-904b-85a94fad98fc_360x203.jpg)](https://www.wqad.com/article/news/local/public-safety/car-crash-riverdale-schools-rock-island-county/526-38c51f2a-1c5c-4ca0-98e0-77b22665eb8e)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/f6a2858c-b7d5-4e52-be8b-2164c80f3032/20240919T213219/f6a2858c-b7d5-4e52-be8b-2164c80f3032_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/f6a2858c-b7d5-4e52-be8b-2164c80f3032/20240919T213219/f6a2858c-b7d5-4e52-be8b-2164c80f3032_360x203.jpg)](https://www.wqad.com/article/news/local/centennial-bridge-shutting-lights-off-migrating-birds/526-af6b0b46-2799-4c68-b8e0-78a1a54b9c42)
         
-        #### [2 children, 1 adult injured in crash near Riverdale schools, officials say](https://www.wqad.com/article/news/local/public-safety/car-crash-riverdale-schools-rock-island-county/526-38c51f2a-1c5c-4ca0-98e0-77b22665eb8e) [![](https://media.tegna-media.com/assets/WQAD/images/aac21277-7af3-4bb4-904b-85a94fad98fc/20240919T154256/aac21277-7af3-4bb4-904b-85a94fad98fc_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/aac21277-7af3-4bb4-904b-85a94fad98fc/20240919T154256/aac21277-7af3-4bb4-904b-85a94fad98fc_360x203.jpg)](https://www.wqad.com/article/news/local/public-safety/car-crash-riverdale-schools-rock-island-county/526-38c51f2a-1c5c-4ca0-98e0-77b22665eb8e)
+        #### [Centennial Bridge shuts its lights off for migrating birds](https://www.wqad.com/article/news/local/centennial-bridge-shutting-lights-off-migrating-birds/526-af6b0b46-2799-4c68-b8e0-78a1a54b9c42) [![](https://media.tegna-media.com/assets/WQAD/images/f6a2858c-b7d5-4e52-be8b-2164c80f3032/20240919T213219/f6a2858c-b7d5-4e52-be8b-2164c80f3032_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/f6a2858c-b7d5-4e52-be8b-2164c80f3032/20240919T213219/f6a2858c-b7d5-4e52-be8b-2164c80f3032_360x203.jpg)](https://www.wqad.com/article/news/local/centennial-bridge-shutting-lights-off-migrating-birds/526-af6b0b46-2799-4c68-b8e0-78a1a54b9c42)
         
-        #### [2 children injured, adult driver airlifted after crash near Riverdale schools, sheriff's office says](https://www.wqad.com/article/news/local/public-safety/car-crash-riverdale-schools-rock-island-county/526-38c51f2a-1c5c-4ca0-98e0-77b22665eb8e) [![](https://media.tegna-media.com/assets/WQAD/images/aac21277-7af3-4bb4-904b-85a94fad98fc/20240919T154256/aac21277-7af3-4bb4-904b-85a94fad98fc_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/aac21277-7af3-4bb4-904b-85a94fad98fc/20240919T154256/aac21277-7af3-4bb4-904b-85a94fad98fc_360x203.jpg)](https://www.wqad.com/article/news/local/public-safety/car-crash-riverdale-schools-rock-island-county/526-38c51f2a-1c5c-4ca0-98e0-77b22665eb8e)
+        #### [Lights will be out on the Centennial Bridge to help migrating birds](https://www.wqad.com/article/news/local/centennial-bridge-shutting-lights-off-migrating-birds/526-af6b0b46-2799-4c68-b8e0-78a1a54b9c42)
+    *  [![](https://media.tegna-media.com/assets/WFAA/images/b46f2a44-299d-4cf7-8ede-eaa84d11e239/b46f2a44-299d-4cf7-8ede-eaa84d11e239_16x9.jpg) ![](https://media.tegna-media.com/assets/WFAA/images/b46f2a44-299d-4cf7-8ede-eaa84d11e239/b46f2a44-299d-4cf7-8ede-eaa84d11e239_360x203.jpg)](https://www.wqad.com/article/news/local/clinton-woman-arrested-drug-related-death-february/526-29ac0f0b-a3b7-42ef-b688-61efd6febb99)
         
-        #### [Crash near Riverdale schools injures 2 children, adult driver airlifted, officials say](https://www.wqad.com/article/news/local/public-safety/car-crash-riverdale-schools-rock-island-county/526-38c51f2a-1c5c-4ca0-98e0-77b22665eb8e)
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/bf11ebe5-fc5c-4067-b4ca-b83907867daf/20240919T102844/bf11ebe5-fc5c-4067-b4ca-b83907867daf_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/bf11ebe5-fc5c-4067-b4ca-b83907867daf/20240919T102844/bf11ebe5-fc5c-4067-b4ca-b83907867daf_360x203.jpg)](https://www.wqad.com/article/news/local/outreach/pay-it-forward/sure-no-one-goes-hungry-in-cambridge/526-7b4d5757-d6d3-4d91-ae46-c35185f0058b)
+        #### [Clinton woman arrested in connection to February drug-related death](https://www.wqad.com/article/news/local/clinton-woman-arrested-drug-related-death-february/526-29ac0f0b-a3b7-42ef-b688-61efd6febb99) [![](https://media.tegna-media.com/assets/WFAA/images/b46f2a44-299d-4cf7-8ede-eaa84d11e239/b46f2a44-299d-4cf7-8ede-eaa84d11e239_16x9.jpg) ![](https://media.tegna-media.com/assets/WFAA/images/b46f2a44-299d-4cf7-8ede-eaa84d11e239/b46f2a44-299d-4cf7-8ede-eaa84d11e239_360x203.jpg)](https://www.wqad.com/article/news/local/clinton-woman-arrested-drug-related-death-february/526-29ac0f0b-a3b7-42ef-b688-61efd6febb99)
         
-        #### [Pay It Forward | Making sure no one goes hungry in Cambridge](https://www.wqad.com/article/news/local/outreach/pay-it-forward/sure-no-one-goes-hungry-in-cambridge/526-7b4d5757-d6d3-4d91-ae46-c35185f0058b)
+        #### [Clinton woman charged with selling fentanyl that led to 19-year-old's death](https://www.wqad.com/article/news/local/clinton-woman-arrested-drug-related-death-february/526-29ac0f0b-a3b7-42ef-b688-61efd6febb99) [![](https://media.tegna-media.com/assets/WFAA/images/b46f2a44-299d-4cf7-8ede-eaa84d11e239/b46f2a44-299d-4cf7-8ede-eaa84d11e239_16x9.jpg) ![](https://media.tegna-media.com/assets/WFAA/images/b46f2a44-299d-4cf7-8ede-eaa84d11e239/b46f2a44-299d-4cf7-8ede-eaa84d11e239_360x203.jpg)](https://www.wqad.com/article/news/local/clinton-woman-arrested-drug-related-death-february/526-29ac0f0b-a3b7-42ef-b688-61efd6febb99)
         
+        #### [Clinton woman charged in connection to fentanyl-related death](https://www.wqad.com/article/news/local/clinton-woman-arrested-drug-related-death-february/526-29ac0f0b-a3b7-42ef-b688-61efd6febb99)
     
 * [Weather](https://www.wqad.com/weather)
     
@@ -59,9 +60,9 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/ba2ecc3c-f265-46c5-96fe-956d25d10d5d/20240919T121322/ba2ecc3c-f265-46c5-96fe-956d25d10d5d_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/ba2ecc3c-f265-46c5-96fe-956d25d10d5d/20240919T121322/ba2ecc3c-f265-46c5-96fe-956d25d10d5d_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/97bc9ff7-3d09-4a76-beba-d82f65f7e811/20240919T213205/97bc9ff7-3d09-4a76-beba-d82f65f7e811_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/97bc9ff7-3d09-4a76-beba-d82f65f7e811/20240919T213205/97bc9ff7-3d09-4a76-beba-d82f65f7e811_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
-        #### [Finally, showers and thunderstorms on track to arrive early Friday](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+        #### [Chance of storms later tonight](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
     *  [![](https://media.tegna-media.com/assets/WQAD/images/daaebd14-c02f-4777-982b-67701e0d036f/20240918T134904/daaebd14-c02f-4777-982b-67701e0d036f_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/daaebd14-c02f-4777-982b-67701e0d036f/20240918T134904/daaebd14-c02f-4777-982b-67701e0d036f_360x203.jpg)](https://www.wqad.com/video/news/live_breaking/ask-andrew-live-episode-1/526-edcd839a-9189-4088-800e-a5cf184394ab)
         
@@ -89,7 +90,7 @@ Navigation
 
 Davenport, IA »
 
-83°
+88°
 
 ![Sunny](/assets/shared-images/weather-icons/clear-day_210x210.png)
 
