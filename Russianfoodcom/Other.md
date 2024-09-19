@@ -7,7 +7,7 @@
 | --- | --- |
 |     | [Рецепты](https://www.russianfood.com/recipes/) [Статьи](https://www.russianfood.com/reading/clauses/) [Наша Кухня](https://www.russianfood.com/blogs/) [Супер Поиск](https://www.russianfood.com/search/) [Рассылки](https://www.russianfood.com/subscribe/) |
 
-[![](//img1.russianfood.com/images/recipes/recipe_add_btn_2.gif)](https://www.russianfood.com/recipes/recipeadd.php)
+[![](//img1.russianfood.com/images/recipes/recipe_add_btn_1.gif)](https://www.russianfood.com/recipes/recipeadd.php)
 
 [Добавить  
 рецепт](https://www.russianfood.com/recipes/recipeadd.php)
@@ -148,16 +148,16 @@
 
 Сейчас читают
 
+* [Бабагануш с фетой, майонезом и грецкими орехами (без тахини)](https://www.russianfood.com/recipes/recipe.php?rid=167317)
+* [Открытый пирог из слоеного теста со шпинатом, помидорами и моцареллой](https://www.russianfood.com/recipes/recipe.php?rid=173406)
 * [Салат «петушок»](https://www.russianfood.com/recipes/recipe.php?rid=38724)
 * [Икра из перца](https://www.russianfood.com/recipes/recipe.php?rid=44303)
-* [Плов по-парижски](https://www.russianfood.com/recipes/recipe.php?rid=44476)
-* [Рыба, запеченная с сыром](https://www.russianfood.com/recipes/recipe.php?rid=44492)
 * [Горчичное масло](https://www.russianfood.com/recipes/recipe.php?rid=44743)
-* [Томатное масло](https://www.russianfood.com/recipes/recipe.php?rid=44758)
 * [Бефстроганов](https://www.russianfood.com/recipes/recipe.php?rid=45011)
 * [Шпигованная говядина в пиве](https://www.russianfood.com/recipes/recipe.php?rid=45016)
-* [Осетрина жареная](https://www.russianfood.com/recipes/recipe.php?rid=45246)
 * [Треска в вине](https://www.russianfood.com/recipes/recipe.php?rid=45251)
+* [Мороженое с лимонным кремом](https://www.russianfood.com/recipes/recipe.php?rid=45371)
+* [Малиновое мороженое с фисташками](https://www.russianfood.com/recipes/recipe.php?rid=45373)
 
 |     |
 | --- |
@@ -179,6 +179,20 @@
 исключить ингредиенты (все): 
 
 Найти рецепты Другие варианты поиска Свернуть
+
+|     |     |
+| --- | --- |
+| Для прессы<br><br>[Добавим красок в осеннее меню! Время ПЕРЦА (31)](https://www.russianfood.com/reading/?post_id=22614) |     |
+
+[![](//img1.russianfood.com/dycontent/images_upl/740/sm_739782.jpg)](https://www.russianfood.com/reading/?post_id=22614)
+
+Маринованный перец с луком и чесноком. Курица с перцем и грибами. Цветная капуста с перцем и горошком. Салат с ветчиной, перцем и фасолью. Спагетти с перцем и томатами.
+
+[Читать дальше...](https://www.russianfood.com/reading/?post_id=22614)  
+
+|     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- |
+|     | [Лучшие рецепты ВОВРЕМЯ](https://www.russianfood.com/blogs/?id=394496) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22614#comments) | 19.09.24 |     |
 
 |     |     |
 | --- | --- |
@@ -346,7 +360,7 @@
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [Лучшие рецепты на праздники](https://www.russianfood.com/blogs/?id=394640) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22607#comments) | 17.09.24 |     |
+|     | [Лучшие рецепты на праздники](https://www.russianfood.com/blogs/?id=394640) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [1](https://www.russianfood.com/reading/?post_id=22607#comments) | 17.09.24 |     |
 
 |     |     |
 | --- | --- |
@@ -375,20 +389,6 @@
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
 |     | [neslojno](https://www.russianfood.com/blogs/?id=288013) | _![](/images/blank.gif)_1 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174373#comments) | 17.09.24 |     |
-
-|     |     |
-| --- | --- |
-| Рецепты<br><br>[Шоколадный торт "Муравейник" (без сгущёнки)](https://www.russianfood.com/recipes/recipe.php?rid=173253) |     |
-
-[![Фото к рецепту: Шоколадный торт "Муравейник" (без сгущёнки)](//img1.russianfood.com/dycontent/images_upl/735/sm_734915.jpg "Фото к рецепту: Шоколадный торт "Муравейник" (без сгущёнки)")](https://www.russianfood.com/recipes/recipe.php?rid=173253)
-
-Торт "Муравейник" можно назвать классикой домашней кухни. В традиционном рецепте песочная крошка перемешивается с кремом из варёной сгущёнки и сливочного масла. В данном случае сгущёнка не используется, а количество сливочного масла в креме значительно уменьшено. Добавление какао придаёт приятный шоколадный вкус.
-
-[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=173253)  
-
-|     |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- |
-|     | [ДЕСЕРТация](https://www.russianfood.com/blogs/?id=421376) | _![](/images/blank.gif)_16 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=173253#comments) | 16.09.24 |     |
 
 |     |
 | --- |
@@ -457,15 +457,6 @@
 |     |     |
 | [Подписаться письмом](mailto:home.cookery.prostierecepti-sub@subscribe.ru?subj=subscribe) |     |
 
-Новые рецепты:
-
-|     |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- |
-| [![](//img1.russianfood.com/dycontent/images_upl/732/alt1_731380.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=173866) | [![](//img1.russianfood.com/dycontent/images_upl/735/alt1_734891.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=173252) | [![](//img1.russianfood.com/dycontent/images_upl/733/alt1_732425.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=173123) | [![](//img1.russianfood.com/dycontent/images_upl/739/alt1_738726.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174327) | [![](//img1.russianfood.com/dycontent/images_upl/740/alt1_739425.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174164) | [![](//img1.russianfood.com/dycontent/images_upl/740/alt1_739120.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174283) | [![](//img1.russianfood.com/dycontent/images_upl/738/alt1_737978.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174195) |
-| [Картофель с помидорами, маслинами и фетой](https://www.russianfood.com/recipes/recipe.php?rid=173866) | [Маринованная стручковая фасоль с чесноком и горчицей](https://www.russianfood.com/recipes/recipe.php?rid=173252) | [Омлет с креветками](https://www.russianfood.com/recipes/recipe.php?rid=173123) | [Тыквенно-банановое печенье "Детское" без сахара и муки](https://www.russianfood.com/recipes/recipe.php?rid=174327) | [Макароны с баклажанами и помидорами в сливочном соусе](https://www.russianfood.com/recipes/recipe.php?rid=174164) | [Фунчоза с мясом и баклажанами](https://www.russianfood.com/recipes/recipe.php?rid=174283) | [Перец, фаршированный сыром и яйцами](https://www.russianfood.com/recipes/recipe.php?rid=174195) |
-| [![](//img1.russianfood.com/dycontent/images_upl/737/alt1_736907.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=173452) | [![](//img1.russianfood.com/dycontent/images_upl/739/alt1_738491.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174217) |
-| [Постный штрудель с картофелем, морковью и горохом](https://www.russianfood.com/recipes/recipe.php?rid=173452) | [Запеканка с баклажанами, помидорами и сыром](https://www.russianfood.com/recipes/recipe.php?rid=174217) |
-
 |     |     |     |
 | --- | --- | --- |
 | ![](//img1.russianfood.com/images/common/bottom_line1.jpg) | ![](//img1.russianfood.com/images/common/bottom_line2.jpg) |     |
@@ -481,4 +472,4 @@
 
 Этот сайт использует файлы cookie, чтобы предоставить вам наилучший сервис. Оставаясь на сайте, вы соглашаетесь с [политикой сайта по обработке персональных данных](https://www.russianfood.com/blogs/?post_id=13800).СОГЛАСЕН
 
-(108)
+(99)
