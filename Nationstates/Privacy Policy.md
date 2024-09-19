@@ -34,11 +34,11 @@ Login Stay logged in
 
 Latest Forum Topics
 
-* [Tourist advisory for YN. (46)](https://forum.nationstates.net/viewtopic.php?t=544847&f=23&view=unread#unread ""Tourist advisory for YN." (46 posts)")
-* [American Politics: Another Attempt Av… (6,930)](https://forum.nationstates.net/viewtopic.php?t=553897&f=20&view=unread#unread ""American Politics: Another Attempt Avoided" (6,930 posts)")
-* [Ukrainian War VII: Kursk, Act II (5,258)](https://forum.nationstates.net/viewtopic.php?t=551126&f=20&view=unread#unread ""Ukrainian War VII: Kursk, Act II" (5,258 posts)")
-* [The company game. (173)](https://forum.nationstates.net/viewtopic.php?t=554069&f=31&view=unread#unread ""The company game." (173 posts)")
-* [\[REPORT\] Routine action requests (Mov… (8,862)](https://forum.nationstates.net/viewtopic.php?t=473656&f=16&view=unread#unread ""[REPORT] Routine action requests (Moves, Adbots, Spam, etc)" (8,862 posts)")
+* [American Politics: Another Attempt Av… (6,973)](https://forum.nationstates.net/viewtopic.php?t=553897&f=20&view=unread#unread ""American Politics: Another Attempt Avoided" (6,973 posts)")
+* [YL is suddenly engaged to marry AL -… (23)](https://forum.nationstates.net/viewtopic.php?t=555010&f=25&view=unread#unread ""YL is suddenly engaged to marry AL - reaction, YL?" (23 posts)")
+* [Best NSPlayer September 2024 (117)](https://forum.nationstates.net/viewtopic.php?t=554833&f=25&view=unread#unread ""Best NSPlayer September 2024" (117 posts)")
+* [Does YL love AL? (31)](https://forum.nationstates.net/viewtopic.php?t=555016&f=25&view=unread#unread ""Does YL love AL?" (31 posts)")
+* [What religion does AU follow? (OOC) (833)](https://forum.nationstates.net/viewtopic.php?t=553197&f=25&view=unread#unread ""What religion does AU follow? (OOC)" (833 posts)")
 
 Advertisement
 
