@@ -19,6 +19,14 @@
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![Police have released these images of a man they would like to speak to in connection with a Brixton shooting. Image: Met Police](https://southwarknews.co.uk/wp-content/uploads/2024/09/Deepdene-Susp-img-02-360x180.png)](https://southwarknews.co.uk/news/crime/brixton-shooting-suspect-seen-in-corner-shop-hours-before-shooting-in-newly-released-cctv/)
+    
+    ### [Brixton shooting: Suspect seen in corner shop hours before shooting in newly-released CCTV](https://southwarknews.co.uk/news/crime/brixton-shooting-suspect-seen-in-corner-shop-hours-before-shooting-in-newly-released-cctv/)
+    
+    [![The Aylesbury estate in Southwark is due to be demolished and rebuilt. CREDIT: Robert Firth](https://southwarknews.co.uk/wp-content/uploads/2024/09/281443832_1271655566700908_3428153952989453541_n-360x180.jpg)](https://southwarknews.co.uk/area/walworth/social-housing-on-regenerated-ayslesbury-estate-more-expensive-than-normal-council-housing-report-claims/)
+    
+    ### [Social housing on regenerated Ayslesbury Estate ‘more expensive’ than normal council housing, report claims](https://southwarknews.co.uk/area/walworth/social-housing-on-regenerated-ayslesbury-estate-more-expensive-than-normal-council-housing-report-claims/)
+    
     [![The floor design is a faithful reproduction of the original flooring from Victorian times
     Credit: Harrison Galliven](https://southwarknews.co.uk/wp-content/uploads/2024/09/Crystal-Palace-Subway-flooring-360x180.jpg)](https://southwarknews.co.uk/area/crystal-palace/first-glimpse-at-crystal-palaces-160-year-old-subway-to-open-to-public-this-saturday-after-3-5-million-restoration/)
     
@@ -47,14 +55,6 @@
     [![England footballing heros John Stones and Peter Shilton attended The Salvation Army's annual Partnership Trophy in 2023](https://southwarknews.co.uk/wp-content/uploads/2024/09/England-footballing-heros-John-Stones-and-Peter-Shilton-attended-The-Salvation-Armys-annual-Partnership-Trophy-in-2023-360x180.jpeg)](https://southwarknews.co.uk/area/camberwell/homeless-camberwell-teens-to-play-in-football-tournament-admired-by-pep-guardiola/)
     
     ### [Homeless Camberwell teens to play in football tournament admired by Pep Guardiola](https://southwarknews.co.uk/area/camberwell/homeless-camberwell-teens-to-play-in-football-tournament-admired-by-pep-guardiola/)
-    
-    [![Neil Coyle has managed to see the funny side of the situation but insists MPs' safety remains a serious issue](https://southwarknews.co.uk/wp-content/uploads/2024/09/Neil-Coyle-has-managed-to-see-the-funny-side-of-the-situation-but-insists-MPs-safety-remains-a-serious-issue-360x180.png)](https://southwarknews.co.uk/area/bermondsey/furious-mp-neil-coyle-searching-for-gollum-lookalike-and-says-he-must-apologise-for-egging-his-office/)
-    
-    ### [Furious MP Neil Coyle searching for ‘Gollum lookalike’ and says he must apologise for egging his office](https://southwarknews.co.uk/area/bermondsey/furious-mp-neil-coyle-searching-for-gollum-lookalike-and-says-he-must-apologise-for-egging-his-office/)
-    
-    [![Credit: LFB](https://southwarknews.co.uk/wp-content/uploads/2024/06/stock-fire-engines-1-london-fire-brigade-360x180.jpeg)](https://southwarknews.co.uk/area/peckham/twenty-tonnes-of-recyclable-waste-destroyed-in-fire-off-old-kent-road/)
-    
-    ### [Twenty tonnes of recyclable waste destroyed in fire off Old Kent Road](https://southwarknews.co.uk/area/peckham/twenty-tonnes-of-recyclable-waste-destroyed-in-fire-off-old-kent-road/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [In depth history](https://southwarknews.co.uk/category/history/in-depth-history/)
@@ -100,6 +100,14 @@ View All Result
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![Police have released these images of a man they would like to speak to in connection with a Brixton shooting. Image: Met Police](https://southwarknews.co.uk/wp-content/uploads/2024/09/Deepdene-Susp-img-02-360x180.png)](https://southwarknews.co.uk/news/crime/brixton-shooting-suspect-seen-in-corner-shop-hours-before-shooting-in-newly-released-cctv/)
+    
+    ### [Brixton shooting: Suspect seen in corner shop hours before shooting in newly-released CCTV](https://southwarknews.co.uk/news/crime/brixton-shooting-suspect-seen-in-corner-shop-hours-before-shooting-in-newly-released-cctv/)
+    
+    [![The Aylesbury estate in Southwark is due to be demolished and rebuilt. CREDIT: Robert Firth](https://southwarknews.co.uk/wp-content/uploads/2024/09/281443832_1271655566700908_3428153952989453541_n-360x180.jpg)](https://southwarknews.co.uk/area/walworth/social-housing-on-regenerated-ayslesbury-estate-more-expensive-than-normal-council-housing-report-claims/)
+    
+    ### [Social housing on regenerated Ayslesbury Estate ‘more expensive’ than normal council housing, report claims](https://southwarknews.co.uk/area/walworth/social-housing-on-regenerated-ayslesbury-estate-more-expensive-than-normal-council-housing-report-claims/)
+    
     [![The floor design is a faithful reproduction of the original flooring from Victorian times
     Credit: Harrison Galliven](https://southwarknews.co.uk/wp-content/uploads/2024/09/Crystal-Palace-Subway-flooring-360x180.jpg)](https://southwarknews.co.uk/area/crystal-palace/first-glimpse-at-crystal-palaces-160-year-old-subway-to-open-to-public-this-saturday-after-3-5-million-restoration/)
     
@@ -128,14 +136,6 @@ View All Result
     [![England footballing heros John Stones and Peter Shilton attended The Salvation Army's annual Partnership Trophy in 2023](https://southwarknews.co.uk/wp-content/uploads/2024/09/England-footballing-heros-John-Stones-and-Peter-Shilton-attended-The-Salvation-Armys-annual-Partnership-Trophy-in-2023-360x180.jpeg)](https://southwarknews.co.uk/area/camberwell/homeless-camberwell-teens-to-play-in-football-tournament-admired-by-pep-guardiola/)
     
     ### [Homeless Camberwell teens to play in football tournament admired by Pep Guardiola](https://southwarknews.co.uk/area/camberwell/homeless-camberwell-teens-to-play-in-football-tournament-admired-by-pep-guardiola/)
-    
-    [![Neil Coyle has managed to see the funny side of the situation but insists MPs' safety remains a serious issue](https://southwarknews.co.uk/wp-content/uploads/2024/09/Neil-Coyle-has-managed-to-see-the-funny-side-of-the-situation-but-insists-MPs-safety-remains-a-serious-issue-360x180.png)](https://southwarknews.co.uk/area/bermondsey/furious-mp-neil-coyle-searching-for-gollum-lookalike-and-says-he-must-apologise-for-egging-his-office/)
-    
-    ### [Furious MP Neil Coyle searching for ‘Gollum lookalike’ and says he must apologise for egging his office](https://southwarknews.co.uk/area/bermondsey/furious-mp-neil-coyle-searching-for-gollum-lookalike-and-says-he-must-apologise-for-egging-his-office/)
-    
-    [![Credit: LFB](https://southwarknews.co.uk/wp-content/uploads/2024/06/stock-fire-engines-1-london-fire-brigade-360x180.jpeg)](https://southwarknews.co.uk/area/peckham/twenty-tonnes-of-recyclable-waste-destroyed-in-fire-off-old-kent-road/)
-    
-    ### [Twenty tonnes of recyclable waste destroyed in fire off Old Kent Road](https://southwarknews.co.uk/area/peckham/twenty-tonnes-of-recyclable-waste-destroyed-in-fire-off-old-kent-road/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [In depth history](https://southwarknews.co.uk/category/history/in-depth-history/)
@@ -203,29 +203,29 @@ Terms of Use
 
 [12th September 2024](https://southwarknews.co.uk/area/peckham/jamaican-patties-made-by-peckham-duo-will-now-be-sold-permanently-in-aldi/)
 
-[![Injured Josh Coburn. Image: Millwall FC](https://southwarknews.co.uk/wp-content/uploads/2024/09/Coburn-injury-vs-Luton-120x86.jpeg)](https://southwarknews.co.uk/sport/football/millwall/millwall-boss-gives-verdict-after-replacement-striker-inches-away-from-first-lions-goal/)
-
-### [Millwall boss gives verdict after replacement striker inches away from first Lions goal](https://southwarknews.co.uk/sport/football/millwall/millwall-boss-gives-verdict-after-replacement-striker-inches-away-from-first-lions-goal/)
-
-[16th September 2024](https://southwarknews.co.uk/sport/football/millwall/millwall-boss-gives-verdict-after-replacement-striker-inches-away-from-first-lions-goal/)
-
 [![JD Wetherspoon has applied for a license at 50 Tooley Street. Image: Google](https://southwarknews.co.uk/wp-content/uploads/2024/09/JD-Wetherspoon-has-applied-for-a-license-at-50-Tooley-Street.-Image-Google-120x86.png)](https://southwarknews.co.uk/area/borough/wetherspoons-to-open-pub-in-former-london-dungeon/)
 
 ### [Wetherspoons to open pub in former London Dungeon](https://southwarknews.co.uk/area/borough/wetherspoons-to-open-pub-in-former-london-dungeon/)
 
 [17th September 2024](https://southwarknews.co.uk/area/borough/wetherspoons-to-open-pub-in-former-london-dungeon/)
 
-[![A photo of the ship sailing in New York ®Alejandro Mallado Erbez](https://southwarknews.co.uk/wp-content/uploads/2024/09/Foto-Galeon-Nueva-York-2013-120x86.jpg)](https://southwarknews.co.uk/news/spanish-17th-century-galleon-will-soon-arrive-in-london/)
-
-### [Spanish 17th-century galleon will soon arrive in London](https://southwarknews.co.uk/news/spanish-17th-century-galleon-will-soon-arrive-in-london/)
-
-[14th September 2024](https://southwarknews.co.uk/news/spanish-17th-century-galleon-will-soon-arrive-in-london/)
-
 [![](https://southwarknews.co.uk/wp-content/uploads/2024/09/Leahy-120x86.jpeg)](https://southwarknews.co.uk/sport/football/millwall/millwall-manager-discusses-call-back-option-for-on-loan-striker/)
 
 ### [Millwall manager discusses call-back option for on-loan striker](https://southwarknews.co.uk/sport/football/millwall/millwall-manager-discusses-call-back-option-for-on-loan-striker/)
 
 [18th September 2024](https://southwarknews.co.uk/sport/football/millwall/millwall-manager-discusses-call-back-option-for-on-loan-striker/)
+
+[![Injured Josh Coburn. Image: Millwall FC](https://southwarknews.co.uk/wp-content/uploads/2024/09/Coburn-injury-vs-Luton-120x86.jpeg)](https://southwarknews.co.uk/sport/football/millwall/millwall-boss-gives-verdict-after-replacement-striker-inches-away-from-first-lions-goal/)
+
+### [Millwall boss gives verdict after replacement striker inches away from first Lions goal](https://southwarknews.co.uk/sport/football/millwall/millwall-boss-gives-verdict-after-replacement-striker-inches-away-from-first-lions-goal/)
+
+[16th September 2024](https://southwarknews.co.uk/sport/football/millwall/millwall-boss-gives-verdict-after-replacement-striker-inches-away-from-first-lions-goal/)
+
+[![A photo of the ship sailing in New York ®Alejandro Mallado Erbez](https://southwarknews.co.uk/wp-content/uploads/2024/09/Foto-Galeon-Nueva-York-2013-120x86.jpg)](https://southwarknews.co.uk/news/spanish-17th-century-galleon-will-soon-arrive-in-london/)
+
+### [Spanish 17th-century galleon will soon arrive in London](https://southwarknews.co.uk/news/spanish-17th-century-galleon-will-soon-arrive-in-london/)
+
+[14th September 2024](https://southwarknews.co.uk/news/spanish-17th-century-galleon-will-soon-arrive-in-london/)
 
 [![Christine Rixon, 75, and Paul Rixon, 76, shown on Bromley High Street.
 Photo by  Joe Coughlan.](https://southwarknews.co.uk/wp-content/uploads/2024/09/Christine-and-Paul-Rixon-120x86.jpg)](https://southwarknews.co.uk/area/south-london/pensioners-in-south-london-disgusted-by-governments-cut-to-winter-fuel-payments/)
@@ -235,6 +235,12 @@ Photo by  Joe Coughlan.](https://southwarknews.co.uk/wp-content/uploads/2024/09/
 [15th September 2024](https://southwarknews.co.uk/area/south-london/pensioners-in-south-london-disgusted-by-governments-cut-to-winter-fuel-payments/)
 
 ### Featured Articles
+
+[![The Aylesbury estate in Southwark is due to be demolished and rebuilt. CREDIT: Robert Firth](https://southwarknews.co.uk/wp-content/uploads/2024/09/281443832_1271655566700908_3428153952989453541_n-120x86.jpg)](https://southwarknews.co.uk/area/walworth/social-housing-on-regenerated-ayslesbury-estate-more-expensive-than-normal-council-housing-report-claims/)
+
+### [Social housing on regenerated Ayslesbury Estate ‘more expensive’ than normal council housing, report claims](https://southwarknews.co.uk/area/walworth/social-housing-on-regenerated-ayslesbury-estate-more-expensive-than-normal-council-housing-report-claims/)
+
+[19th September 2024](https://southwarknews.co.uk/area/walworth/social-housing-on-regenerated-ayslesbury-estate-more-expensive-than-normal-council-housing-report-claims/)
 
 [![The floor design is a faithful reproduction of the original flooring from Victorian times
 Credit: Harrison Galliven](https://southwarknews.co.uk/wp-content/uploads/2024/09/Crystal-Palace-Subway-flooring-120x86.jpg)](https://southwarknews.co.uk/area/crystal-palace/first-glimpse-at-crystal-palaces-160-year-old-subway-to-open-to-public-this-saturday-after-3-5-million-restoration/)
@@ -266,12 +272,6 @@ Credit: Harrison Galliven](https://southwarknews.co.uk/wp-content/uploads/2024/0
 ### [Pets abandoned at Rotherhithe farm killed by foxes](https://southwarknews.co.uk/area/rotherhithe/pets-abandoned-at-rotherhithe-farm-killed-by-foxes/)
 
 [18th September 2024](https://southwarknews.co.uk/area/rotherhithe/pets-abandoned-at-rotherhithe-farm-killed-by-foxes/)
-
-[![England footballing heros John Stones and Peter Shilton attended The Salvation Army's annual Partnership Trophy in 2023](https://southwarknews.co.uk/wp-content/uploads/2024/09/England-footballing-heros-John-Stones-and-Peter-Shilton-attended-The-Salvation-Armys-annual-Partnership-Trophy-in-2023-120x86.jpeg)](https://southwarknews.co.uk/area/camberwell/homeless-camberwell-teens-to-play-in-football-tournament-admired-by-pep-guardiola/)
-
-### [Homeless Camberwell teens to play in football tournament admired by Pep Guardiola](https://southwarknews.co.uk/area/camberwell/homeless-camberwell-teens-to-play-in-football-tournament-admired-by-pep-guardiola/)
-
-[18th September 2024](https://southwarknews.co.uk/area/camberwell/homeless-camberwell-teens-to-play-in-football-tournament-admired-by-pep-guardiola/)
 
 ### USEFUL PAGES
 
