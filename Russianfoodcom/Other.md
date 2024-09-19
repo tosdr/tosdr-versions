@@ -7,7 +7,7 @@
 | --- | --- |
 |     | [Рецепты](https://www.russianfood.com/recipes/) [Статьи](https://www.russianfood.com/reading/clauses/) [Наша Кухня](https://www.russianfood.com/blogs/) [Супер Поиск](https://www.russianfood.com/search/) [Рассылки](https://www.russianfood.com/subscribe/) |
 
-[![](//img1.russianfood.com/images/recipes/recipe_add_btn_1.gif)](https://www.russianfood.com/recipes/recipeadd.php)
+[![](//img1.russianfood.com/images/recipes/recipe_add_btn_9.gif)](https://www.russianfood.com/recipes/recipeadd.php)
 
 [Добавить  
 рецепт](https://www.russianfood.com/recipes/recipeadd.php)
@@ -148,16 +148,16 @@
 
 Сейчас читают
 
-* [Бабагануш с фетой, майонезом и грецкими орехами (без тахини)](https://www.russianfood.com/recipes/recipe.php?rid=167317)
 * [Открытый пирог из слоеного теста со шпинатом, помидорами и моцареллой](https://www.russianfood.com/recipes/recipe.php?rid=173406)
-* [Салат «петушок»](https://www.russianfood.com/recipes/recipe.php?rid=38724)
 * [Икра из перца](https://www.russianfood.com/recipes/recipe.php?rid=44303)
 * [Горчичное масло](https://www.russianfood.com/recipes/recipe.php?rid=44743)
 * [Бефстроганов](https://www.russianfood.com/recipes/recipe.php?rid=45011)
 * [Шпигованная говядина в пиве](https://www.russianfood.com/recipes/recipe.php?rid=45016)
 * [Треска в вине](https://www.russianfood.com/recipes/recipe.php?rid=45251)
-* [Мороженое с лимонным кремом](https://www.russianfood.com/recipes/recipe.php?rid=45371)
-* [Малиновое мороженое с фисташками](https://www.russianfood.com/recipes/recipe.php?rid=45373)
+* [Свинина с горчичным соусом](https://www.russianfood.com/recipes/recipe.php?rid=45485)
+* [Свинина отварная](https://www.russianfood.com/recipes/recipe.php?rid=45495)
+* [Эскалоп натуральный](https://www.russianfood.com/recipes/recipe.php?rid=45497)
+* [Филе из свинины](https://www.russianfood.com/recipes/recipe.php?rid=45514)
 
 |     |
 | --- |
@@ -262,7 +262,7 @@
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [Вечерний обЪед](https://www.russianfood.com/blogs/?id=421112) | _![](/images/blank.gif)_13 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174117#comments) | 17.09.24 |     |
+|     | [Вечерний обЪед](https://www.russianfood.com/blogs/?id=421112) | _![](/images/blank.gif)_16 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174117#comments) | 17.09.24 |     |
 
 |     |     |
 | --- | --- |
@@ -276,7 +276,7 @@
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [Вечерний обЪед](https://www.russianfood.com/blogs/?id=421112) | _![](/images/blank.gif)_5 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174164#comments) | 17.09.24 |     |
+|     | [Вечерний обЪед](https://www.russianfood.com/blogs/?id=421112) | _![](/images/blank.gif)_7 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174164#comments) | 17.09.24 |     |
 
 |     |     |
 | --- | --- |
@@ -290,7 +290,7 @@
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [Вечерний обЪед](https://www.russianfood.com/blogs/?id=421112) | _![](/images/blank.gif)_7 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174195#comments) | 17.09.24 |     |
+|     | [Вечерний обЪед](https://www.russianfood.com/blogs/?id=421112) | _![](/images/blank.gif)_8 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174195#comments) | 17.09.24 |     |
 
 |     |     |
 | --- | --- |
@@ -304,7 +304,7 @@
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [Вечерний обЪед](https://www.russianfood.com/blogs/?id=421112) | _![](/images/blank.gif)_1 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174217#comments) | 17.09.24 |     |
+|     | [Вечерний обЪед](https://www.russianfood.com/blogs/?id=421112) | _![](/images/blank.gif)_2 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174217#comments) | 17.09.24 |     |
 
 |     |     |
 | --- | --- |
@@ -472,4 +472,4 @@
 
 Этот сайт использует файлы cookie, чтобы предоставить вам наилучший сервис. Оставаясь на сайте, вы соглашаетесь с [политикой сайта по обработке персональных данных](https://www.russianfood.com/blogs/?post_id=13800).СОГЛАСЕН
 
-(99)
+(115)
