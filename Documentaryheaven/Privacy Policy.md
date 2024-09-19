@@ -128,39 +128,39 @@ Advertisement
     The Beginning and the End of the Universe
     
     Episode 1: The BeginingEmbarking on a cosmic journey, Professor Jim Al-Khalili transports us through the corridors of time to confront science's most profound inquiry: the genesis of the univers...](https://documentaryheaven.com/the-beginning-and-the-end-of-the-universe/ "The Beginning and the End of the Universe")
-* [![The War On Drugs: The Prison Industrial Complex](/wp-content/thumbnails/958-100x70.gif?x53432)
+* [![I Am Heath Ledger](/wp-content/thumbnails/14195-100x70.jpg?x53432)
     
-    The War On Drugs: The Prison Industrial Complex
+    I Am Heath Ledger
     
-    The war on drugs has been going on for more than three decades. Today, nearly 500,000 Americans are imprisoned on drug charges. In 1980 the number was 50,000. Last year $40 billion in taxpayer dollars...](https://documentaryheaven.com/the-war-on-drugs-the-prison-industrial-complex/ "The War On Drugs: The Prison Industrial Complex")
+    I Am Heath Ledger is a new feature length film which details the life of hollywood actor Heath Ledger. It is a celebration of his life which was tragically cut short in 2008 when Ledger passed away fr...](https://documentaryheaven.com/i-am-heath-ledger/ "I Am Heath Ledger")
 
 ###### Throwback Documentaries
 
-* [![The Roswell Incident](/wp-content/thumbnails/978-100x70.jpg?x53432)
+* [![Richard Dawkins – The Blind Watch Maker](/wp-content/thumbnails/559-100x70.png?x53432)
     
-    The Roswell Incident
+    Richard Dawkins – The Blind Watch Maker
     
-    Documentary from Channel 4 shown in 1994 about the infamous ‘UFO Crash’ at Roswell in 1947. In the summer of 1947, there were a number of UFO sightings in the United States. Sometime during the first](https://documentaryheaven.com/the-roswell-incident/ "The Roswell Incident")
-* [![Inside the Holocaust](/wp-content/thumbnails/8599-100x70.jpg?x53432)
+    One of the earliest efforts from Richard Dawkins in his identification and attack on the rise of creationism with the rising star of the US fundamentalist christian demographic. In the important docum](https://documentaryheaven.com/richard-dawkins-the-blind-watch-maker/ "Richard Dawkins – The Blind Watch Maker")
+* [![John &amp: Yoko’s Year of Peace](/wp-content/thumbnails/548-100x70.png?x53432)
     
-    Inside the Holocaust
+    John &amp: Yoko’s Year of Peace
     
-    This is a gripping hour and a half special by the History Channel on the horrors of the Holocaust, starting off with the early days of persecution found in Nazi Germany right up until the final a](https://documentaryheaven.com/inside-holocaust/ "Inside the Holocaust")
-* [![A Defeated People](/wp-content/thumbnails/11457-100x70.jpg?x53432)
+    The year: 1969. Headlines blare war and civil unrest while John Lennon and Yoko Ono are in love. The eccentic rock 'n' roll couple has just gotten married, and more than happy to be together, they wan](https://documentaryheaven.com/john-yokos-year-of-peace/ "John &amp: Yoko’s Year of Peace")
+* [![Science Under Attack](/wp-content/thumbnails/5028-100x70.jpg?x53432)
     
-    A Defeated People
+    Science Under Attack
     
-    A Defeated People is a historical short documentary which was released in 1946 by the Crown Film Unit, the film depicts the shattered state of Germany after the second World War, both physically and a](https://documentaryheaven.com/a-defeated-people/ "A Defeated People")
-* [![Dreamville Presents: REVENGE](/wp-content/thumbnails/14618-100x70.jpeg?x53432)
+    Nobel Prize winner Sir Paul Nurse examines why science appears to be under attack, and why public trust in key scientific theories has been eroded – from the theory that man-made climate change is war](https://documentaryheaven.com/science-under-attack/ "Science Under Attack")
+* [![The Secret of El Dorado](/wp-content/thumbnails/1001-100x70.jpg?x53432)
     
-    Dreamville Presents: REVENGE
+    The Secret of El Dorado
     
-    Hip Hop artist J. Cole released his latest album Revenge of The Dreamers III on July 5th (2019), the album was accompanied by a 30 minute documentary Dreamville Presents: REVENGE. A film which pro](https://documentaryheaven.com/dreamville-presents-revenge/ "Dreamville Presents: REVENGE")
-* [![Zero Hour: The Sinking of the Estonia](/wp-content/thumbnails/6639-100x70.png?x53432)
+    In 1542, the Spanish Conquistador, Francisco de Orellana ventured along the Rio Negro, one of the Amazon Basin's great rivers. Hunting a hidden city of gold, his expedition found a network of farms, v](https://documentaryheaven.com/the-secret-of-el-dorado/ "The Secret of El Dorado")
+* [![Oil, Smoke and Mirrors](/wp-content/thumbnails/803-100x70.png?x53432)
     
-    Zero Hour: The Sinking of the Estonia
+    Oil, Smoke and Mirrors
     
-    The Baltic Sea claimed 852 people’s lives by drowning and freezing them to death in the 8 degree C cold water. Only 95 bodies were ever recovered. The wreck of the Estonia was not salvaged, but sealed](https://documentaryheaven.com/zero-hour-the-sinking-of-the-estonia/ "Zero Hour: The Sinking of the Estonia")
+    Through a series of interviews, this film argues that the bizarre events surrounding the 9/11 attacks, and the equally bizarre prosecution of the so-called “war on terror”, can be more credibly unders](https://documentaryheaven.com/oil-smoke-and-mirrors/ "Oil, Smoke and Mirrors")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
