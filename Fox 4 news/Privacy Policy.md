@@ -401,35 +401,35 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
- [![Downtown Dallas attack: Suspect arrested, charged with aggravated assault](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/arrest-assault.jpg?ve=1&tl=1)
+ [![Dallas mayor wears 'TCU Sucks' shirt ahead of Iron Skillet showdown](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/GXyNlvrWAAERRUh.jpg?ve=1&tl=1)
 
- ![Downtown Dallas attack: Suspect arrested, charged with aggravated assault](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/592/333/arrest-assault.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/downtown-dallas-attack-arrest-antonio-banks)
+ ![Dallas mayor wears 'TCU Sucks' shirt ahead of Iron Skillet showdown](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/592/333/GXyNlvrWAAERRUh.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/dallas-mayor-tcu-sucks-shirt-smu)
 
-### [Downtown Dallas attack: Suspect arrested, charged with aggravated assault](https://www.fox4news.com/news/downtown-dallas-attack-arrest-antonio-banks)
+### [Dallas mayor wears 'TCU Sucks' shirt ahead of Iron Skillet showdown](https://www.fox4news.com/news/dallas-mayor-tcu-sucks-shirt-smu)
 
- [![Who's ahead in the race for president? New polls show movement in Pennsylvania, Georgia](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/trump-harris-4.jpg?ve=1&tl=1)
+ [![Gator, chicken parts shut down lanes of I-635, police say](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/091824-Sky-4-Wednesday-PM-KDFWEME002_17_50_28_mpg_00.13.04.36.jpg?ve=1&tl=1)
 
- ![Who's ahead in the race for president? New polls show movement in Pennsylvania, Georgia](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/592/333/trump-harris-4.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/polls-presidential-latest-today-harris-trump-sept-18-2024)
+ ![Gator, chicken parts shut down lanes of I-635, police say](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/592/333/091824-Sky-4-Wednesday-PM-KDFWEME002_17_50_28_mpg_00.13.04.36.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/gator-chicken-parts-shut-down-lanes-i-635-police-say)
 
-### [Poll roundup: Close race in swing states](https://www.fox4news.com/news/polls-presidential-latest-today-harris-trump-sept-18-2024)
+### [Gator, chicken parts shut down lanes of I-635, police say](https://www.fox4news.com/news/gator-chicken-parts-shut-down-lanes-i-635-police-say)
 
- [![Dallas police officer arrested in Denton County child sex case](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/Brennon-Wilkinson-mug-Tarrant-Co.png?ve=1&tl=1)
+ [![Apalachee High School shooting victim granted no contact order with alleged gunman, his father](https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2024/09/32/18/FOX-5-Atlanta-70.jpg?ve=1&tl=1)
 
- ![Dallas police officer arrested in Denton County child sex case](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/592/333/Brennon-Wilkinson-mug-Tarrant-Co.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/dallas-officer-brennon-wilkinson-child-sex-assault)
+ ![Apalachee High School shooting victim granted no contact order with alleged gunman, his father](https://images.foxtv.com/images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2024/09/32/18/592/333/FOX-5-Atlanta-70.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/apalachee-high-school-shooting-victim-no-contact-order)
 
-### [Dallas police officer arrested in Denton County child sex case](https://www.fox4news.com/news/dallas-officer-brennon-wilkinson-child-sex-assault)
+### [Apalachee High School shooting victim granted no contact order with alleged gunman, his father](https://www.fox4news.com/news/apalachee-high-school-shooting-victim-no-contact-order)
 
- [![Federal Reserve slashes key rate by half-point, signals end of inflation battle](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/GettyImages-2172604638.jpg?ve=1&tl=1)
+ [![Popeyes, KFC join growing number of restaurants offering $5 meal deals](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/chicken-popeyes-getty.jpg?ve=1&tl=1)
 
- ![Federal Reserve slashes key rate by half-point, signals end of inflation battle](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/592/333/GettyImages-2172604638.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/fed-rate-cuts-today-what-to-know-september-18-2024)
+ ![Popeyes, KFC join growing number of restaurants offering $5 meal deals](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/592/333/chicken-popeyes-getty.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/popeyes-kfc-join-restaurants-mcdonalds-5-meal-deals)
 
-### [Federal Reserve slashes key rate by half-point, signals end of inflation battle](https://www.fox4news.com/news/fed-rate-cuts-today-what-to-know-september-18-2024)
+### [Popeyes, KFC join growing number of restaurants offering $5 meal deals](https://www.fox4news.com/news/popeyes-kfc-join-restaurants-mcdonalds-5-meal-deals)
 
- [![Suspect arrested for Arlington hit-and-run that killed Marine reservist on her way to drills](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/arlington-hit-and-run.jpg?ve=1&tl=1)
+ [![Explosive devices strike Lebanon again amid deadly pagers attack: Key details](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/GettyImages-2171824611.jpg?ve=1&tl=1)
 
- ![Suspect arrested for Arlington hit-and-run that killed Marine reservist on her way to drills](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/592/333/arlington-hit-and-run.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/arlington-hit-and-run-josue-rodriguez-areauna-laws)
+ ![Explosive devices strike Lebanon again amid deadly pagers attack: Key details](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/592/333/GettyImages-2171824611.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/exploding-pagers-hezbollah-lebanon)
 
-### [Suspect arrested for Arlington hit-and-run that killed Marine reservist on her way to drills](https://www.fox4news.com/news/arlington-hit-and-run-josue-rodriguez-areauna-laws)
+### [Explosive devices strike Lebanon again amid deadly pagers attack: Key details](https://www.fox4news.com/news/exploding-pagers-hezbollah-lebanon)
 
 ###### [News](https://www.fox4news.com/news)
 
