@@ -214,23 +214,23 @@ caso kleber malaquias
 
 Delegado é preso em Maceió suspeito de prejudicar investigação da morte de empresário
 
-Delegado é preso em Maceió suspeito de prejudicar investigação da morte de empresário](https://www.tnh1.com.br/noticia/nid/delegado-e-preso-em-maceio-suspeito-de-prejudicar-investigacao-da-morte-de-empresario/ "Delegado é preso em Maceió suspeito de prejudicar investigação da morte de empresário")[![Suspeito de matar Ana Beatriz é filho de PM e teria usado arma do pai no crime](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/6/a/csm_operacao_prisao_suspeito_ana_beatriz_foto_reproducao_pc_61fc324d2c.jpeg)
+Delegado é preso em Maceió suspeito de prejudicar investigação da morte de empresário](https://www.tnh1.com.br/noticia/nid/delegado-e-preso-em-maceio-suspeito-de-prejudicar-investigacao-da-morte-de-empresario/ "Delegado é preso em Maceió suspeito de prejudicar investigação da morte de empresário")[![Promotores se posicionam sobre prisão de delegado: "Grave conduta jamais esperada"](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/1/e/csm_Promotores_Kleber_Valadares_e_Lidia_Malta_-_foto_Reproducao_MPAL_4310cb7162.jpg)
 
-investigações
+kleber malaquias
 
-investigações
+kleber malaquias
 
-Suspeito de matar Ana Beatriz é filho de PM e teria usado arma do pai no crime
+Promotores se posicionam sobre prisão de delegado: "Grave conduta jamais esperada"
 
-Suspeito de matar Ana Beatriz é filho de PM e teria usado arma do pai no crime](https://www.tnh1.com.br/noticia/nid/suspeito-de-matar-ana-beatriz-e-filho-de-pm-e-teria-usado-arma-do-pai-no-crime/ "Suspeito de matar Ana Beatriz é filho de PM e teria usado arma do pai no crime")[!['Serial killer': polícia investiga se suspeito de matar adolescente é assassino em série](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/8/a/csm_prisao_de_suspeito_de_matar_ana_beatriz_reproducao_video_6974c41b25.png)
+Promotores se posicionam sobre prisão de delegado: "Grave conduta jamais esperada"](https://www.tnh1.com.br/noticia/nid/promotores-se-posicionam-sobre-prisao-de-delegado-grave-conduta-jamais-esperada/ "Promotores se posicionam sobre prisão de delegado: "Grave conduta jamais esperada"")[![Motociclista morre após se chocar com carro e ser atropelado por caminhão, no Barro Duro](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/2/2/csm_motociclista-morre-atropelado-barro-duro__2__77f8411b9b.jpg)
 
-Polícia
+Av. Juca Sampaio
 
-Polícia
+Av. Juca Sampaio
 
-'Serial killer': polícia investiga se suspeito de matar adolescente é assassino em série
+Motociclista morre após se chocar com carro e ser atropelado por caminhão, no Barro Duro
 
-'Serial killer': polícia investiga se suspeito de matar adolescente é assassino em série](https://www.tnh1.com.br/noticia/nid/serial-killer-policia-investiga-se-suspeito-de-matar-adolescente-e-assassino-em-serie/ "'Serial killer': polícia investiga se suspeito de matar adolescente é assassino em série")
+Motociclista morre após se chocar com carro e ser atropelado por caminhão, no Barro Duro](https://www.tnh1.com.br/noticia/nid/motociclista-morre-apos-se-chocar-com-carro-e-ser-atropelado-por-caminhao-no-barro-duro/ "Motociclista morre após se chocar com carro e ser atropelado por caminhão, no Barro Duro")
 
 [![Filho revela a última promessa que fez para Christopher Reeve, o Superman clássico do cinema](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/6/4/csm_christopher-reeve-matt-reeve-filho-reproducao-redes-sociais_95606d02b9.jpg)
 
