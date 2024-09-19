@@ -314,7 +314,7 @@ Cancel
 
 [Philippe Sainte-Laudy](https://www.art.com/gallery/id--a723523/philippe-sainte-laudy-posters.htm "Philippe Sainte-Laudy")
 
-[Ursula Abresch](https://www.art.com/gallery/id--a23732/gordon-parks-posters.htm "Ursula Abresch")
+[Gordon Parks](https://www.art.com/gallery/id--a23732/gordon-parks-posters.htm "Gordon Parks")
 
 [Design Inspiration](https://www.art.com/lp/shopbyrooms "Design Inspiration")
 
