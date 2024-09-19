@@ -159,6 +159,16 @@ Shifting the conversation around the impacts of digital technologies
     
     [Read more →](https://tacticaltech.org/news/open-calls/offener-aufruf-zu-partnerschaften/)
     
+* ![concrete with inscriptions on it](https://cdn.ttc.io/i/fit/3840/0/sm/0/plain/tacticaltech.org/website2023/Insights/machine0.jpg)
+    
+    * Technology & Society Insights
+    
+    [### The quest to understand influencing machines](https://tacticaltech.org/news/insights/the-quest-to-understand-influencing-machines/)
+    
+    We need to rethink how we deal with information in the context of crises. All of us, really. We, the digital users of the digitised information world, need to get a grip on things. How we explore the world, what and who we trust, and why, in the context of crises, has gotten too far out of our hands and needs to change. We need a place to come together. We need to reinvent how we talk about and solve difficult things while respecting any fundamental differences we might come to the table or screen with.
+    
+    [Read more →](https://tacticaltech.org/news/insights/the-quest-to-understand-influencing-machines/)
+    
 * ![](https://cdn.ttc.io/i/fit/3840/0/sm/0/plain/tacticaltech.org/200928_Youth_Medium_illustration_-07.jpg)
     
     * Open calls
@@ -178,16 +188,6 @@ Shifting the conversation around the impacts of digital technologies
     The What the Future Wants project is looking for facilitators of a training-of-trainers (ToT) for youth workers and educators which will be delivered in-person in Berlin, in the German language.
     
     [Read more →](https://tacticaltech.org/news/open-calls/open-call-facilitator-berlin-wtfw-2024/)
-    
-* ![3 persons in front of a colourful poster collaborating](https://cdn.ttc.io/i/fit/3840/0/sm/0/plain/tacticaltech.org/website2023/news/Call_solidarity_corps.jpg)
-    
-    * Open calls
-    
-    [### \[Open Call for a Volunteer to join our communications team\] European Solidarity Corps Programme](https://tacticaltech.org/news/open-calls/Open-call-for-a-volunteer-communications-european-solidarity-corps-programme/)
-    
-    Tactical Tech is opening a year-long paid volunteer opportunity for an individual who wants to learn more about creative interventions that champion a digitally resilient society and join our communications and partnerships team in the Berlin-based office.
-    
-    [Read more →](https://tacticaltech.org/news/open-calls/Open-call-for-a-volunteer-communications-european-solidarity-corps-programme/)
     
 
 Impact stories
@@ -250,6 +250,16 @@ Pieces written to help people and organisations understand what it means to work
 
 [See all Insights](https://tacticaltech.org/news/insights/)
 
+* ![concrete with inscriptions on it](https://cdn.ttc.io/i/fit/3840/0/sm/0/plain/tacticaltech.org/website2023/Insights/machine0.jpg)
+    
+    * Technology & Society Insights
+    
+    [### The quest to understand influencing machines](https://tacticaltech.org/news/insights/the-quest-to-understand-influencing-machines/)
+    
+    We need to rethink how we deal with information in the context of crises. All of us, really. We, the digital users of the digitised information world, need to get a grip on things. How we explore the world, what and who we trust, and why, in the context of crises, has gotten too far out of our hands and needs to change. We need a place to come together. We need to reinvent how we talk about and solve difficult things while respecting any fundamental differences we might come to the table or screen with.
+    
+    [Read more →](https://tacticaltech.org/news/insights/the-quest-to-understand-influencing-machines/)
+    
 * ![sunset from the train rails ](https://cdn.ttc.io/i/fit/3840/0/sm/0/plain/tacticaltech.org/website2023/Insights/OUROBOROS1.jpg)
     
     * Technology & Society Insights
@@ -280,16 +290,6 @@ Pieces written to help people and organisations understand what it means to work
     Using an interdisciplinary approach that combines educator scoping sessions, research, literature review and youth input sessions, Tactical Tech identified insights and recommendations about topics, formats and facilitation methodologies crucial to creating effective Digital and Media Literacy Educational resources.
     
     [Read more →](https://tacticaltech.org/news/insights/insights-digital-media-literacy-educational-resources-report/)
-    
-* ![](https://cdn.ttc.io/i/fit/3840/0/sm/0/plain/tacticaltech.org/MLCE/researcher_report/230822-MLCE-hero.jpeg)
-    
-    * Technology & Society Insights
-    
-    [### Digital and Media Literacy Education: Navigating an Ever-Evolving Landscape](https://tacticaltech.org/news/insights/mlce_research_report/)
-    
-    This commissioned research report includes the main findings and recommendations regarding the latest developments in the Digital and Media Literacy Education field.
-    
-    [Read more →](https://tacticaltech.org/news/insights/mlce_research_report/)
     
 
 Our reach since 2003
