@@ -259,6 +259,13 @@ Advertise with Us
 
 Most Popular
 
+[![Throwback Thursday: Partytime out and about around Derry (2009)](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Throwback Thursday: Partytime out and about around Derry (2009)")](https://www.derrynow.com/story-telling/pictures---videos/1608382/throwback-thursday-partytime-out-and-about-around-derry-2009.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[Throwback Thursday: Partytime out and about around Derry (2009)](https://www.derrynow.com/story-telling/pictures---videos/1608382/throwback-thursday-partytime-out-and-about-around-derry-2009.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 [![Motorists are advised to expect disruption in Derry city centre on Saturday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Motorists are advised to expect disruption in Derry city centre on Saturday")](https://www.derrynow.com/news/local-news/1608567/motorists-are-advised-to-expect-disruption-in-derry-city-centre-on-saturday.html)
 
 Apprentice Boys of Derry marching through the city centre during a previous march.
@@ -267,29 +274,6 @@ Apprentice Boys of Derry marching through the city centre during a previous marc
 
 [Motorists are advised to expect disruption in Derry city centre on Saturday](https://www.derrynow.com/news/local-news/1608567/motorists-are-advised-to-expect-disruption-in-derry-city-centre-on-saturday.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Victim had four teeth knocked out in Derry assault](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Victim had four teeth knocked out in Derry assault")](https://www.derrynow.com/news/local-news/1607971/victim-had-four-teeth-knocked-out-in-derry-assault.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Victim had four teeth knocked out in Derry assault](https://www.derrynow.com/news/local-news/1607971/victim-had-four-teeth-knocked-out-in-derry-assault.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![James Slavin holding aloft the Irish tricolour after a title winning bout](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "James Slavin holding aloft the Irish tricolour after a title winning bout")](https://www.derrynow.com/news/derry-sport/1608033/derry-man-claims-uk-fighting-championships-featherweight-belt.html)
-
-James Slavin holding aloft the Irish tricolour after a title winning bout
-
-[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
-
-[Derry man claims UK Fighting Championships Featherweight belt](https://www.derrynow.com/news/derry-sport/1608033/derry-man-claims-uk-fighting-championships-featherweight-belt.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry man fined for cycling while unfit through drink or drugs](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry man fined for cycling while unfit through drink or drugs")](https://www.derrynow.com/news/local-news/1608126/derry-man-fined-for-cycling-while-unfit-through-drink-or-drugs.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Derry man fined for cycling while unfit through drink or drugs](https://www.derrynow.com/news/local-news/1608126/derry-man-fined-for-cycling-while-unfit-through-drink-or-drugs.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Breaking: Elderly man (80s) killed in Clonmany collision](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Breaking: Elderly man (80s) killed in Clonmany collision")](https://www.derrynow.com/news/local-news/1608640/elderly-man-80s-killed-in-clonmany-collision.html)
 
@@ -300,12 +284,12 @@ The scene of the fatal road traffic collision in Clonmany. (North West Newspix)
 [Elderly man (80s) killed in Clonmany collision](https://www.derrynow.com/news/local-news/1608640/elderly-man-80s-killed-in-clonmany-collision.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Man appears in connection with racist messages to Mayor of Derry and Strabane](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man appears in connection with racist messages to Mayor of Derry and Strabane")](https://www.derrynow.com/news/local-news/1607946/man-appears-in-connection-with-sending-racist-messages-to-mayor-of-derry-and-strabane.html)
+[![Derry man fined for cycling while unfit through drink or drugs](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry man fined for cycling while unfit through drink or drugs")](https://www.derrynow.com/news/local-news/1608126/derry-man-fined-for-cycling-while-unfit-through-drink-or-drugs.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[Man appears in connection with sending racist messages to Mayor of Derry and Strabane](https://www.derrynow.com/news/local-news/1607946/man-appears-in-connection-with-sending-racist-messages-to-mayor-of-derry-and-strabane.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Derry man fined for cycling while unfit through drink or drugs](https://www.derrynow.com/news/local-news/1608126/derry-man-fined-for-cycling-while-unfit-through-drink-or-drugs.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Derry man set for Cage Warriors debut in Manchester](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry man set for Cage Warriors debut in Manchester")](https://www.derrynow.com/news/derry-sport/1608098/derry-man-set-for-cage-warriors-debut-in-manchester.html)
 
@@ -316,21 +300,12 @@ Matthew Friel set for Cage Warriors debut
 [Derry man set for Cage Warriors debut in Manchester](https://www.derrynow.com/news/derry-sport/1608098/derry-man-set-for-cage-warriors-debut-in-manchester.html)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Donegal man (36) returned for trial for child sexual offences](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Donegal man (36) returned for trial for child sexual offences")](https://www.derrynow.com/news/local-news/1608124/donegal-man-36-returned-for-trial-for-child-sexual-offences.html)
+[![Derry Death Notices - Monday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Monday")](https://www.derrynow.com/news/deaths/1608384/derry-death-notices-thursday-19th-september-2024.html)
 
-[Local News](https://www.derrynow.com/section/975/news)
+[Deaths](https://www.derrynow.com/section/977/deaths)
 
-[Donegal man (36) returned for trial for child sexual offences](https://www.derrynow.com/news/local-news/1608124/donegal-man-36-returned-for-trial-for-child-sexual-offences.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Life-saving Altnagelvin Hospital cardiac care service celebrates its 10 year anniversary](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Life-saving Altnagelvin Hospital cardiac care service celebrates its 10 year anniversary")](https://www.derrynow.com/news/local-news/1608304/life-saving-altnagelvin-hospital-cardiac-care-service-celebrates-its-10-year-anniversary.html)
-
-Cardiology Team at Altnagelvin celebrating the 10th Anniversary of the PPCI service saving and treated thousands of heart attack patients
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Life-saving Altnagelvin Hospital cardiac care service celebrates its 10 year anniversary](https://www.derrynow.com/news/local-news/1608304/life-saving-altnagelvin-hospital-cardiac-care-service-celebrates-its-10-year-anniversary.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Derry Death Notices - Thursday, 19th September 2024](https://www.derrynow.com/news/deaths/1608384/derry-death-notices-thursday-19th-september-2024.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Morelli’s Ice Cream](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Morelli’s Ice Cream")](https://www.derrynow.com/news/home/1608291/derry-s-favourite-ice-cream-flavour-revealed-by-morellis-ice-cream.html)
 
@@ -341,11 +316,52 @@ Morelli’s Ice Cream
 [Derry's favourite ice cream flavour revealed by Morelli’s Ice Cream](https://www.derrynow.com/news/home/1608291/derry-s-favourite-ice-cream-flavour-revealed-by-morellis-ice-cream.html)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+[![23-year-old Derry man charged to court for drug related offences](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "23-year-old Derry man charged to court for drug related offences")](https://www.derrynow.com/news/local-news/1608845/23-year-old-derry-man-charged-to-court-for-drug-related-offences.html)
+
+Derry Magistrate's Court
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[23-year-old Derry man charged to court for drug related offences](https://www.derrynow.com/news/local-news/1608845/23-year-old-derry-man-charged-to-court-for-drug-related-offences.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Life-saving Altnagelvin Hospital cardiac care service celebrates its 10 year anniversary](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Life-saving Altnagelvin Hospital cardiac care service celebrates its 10 year anniversary")](https://www.derrynow.com/news/local-news/1608304/life-saving-altnagelvin-hospital-cardiac-care-service-celebrates-its-10-year-anniversary.html)
+
+Cardiology Team at Altnagelvin celebrating the 10th Anniversary of the PPCI service saving and treated thousands of heart attack patients
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Life-saving Altnagelvin Hospital cardiac care service celebrates its 10 year anniversary](https://www.derrynow.com/news/local-news/1608304/life-saving-altnagelvin-hospital-cardiac-care-service-celebrates-its-10-year-anniversary.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Police in Derry appeal for footage in relation to traffic-related incident](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Police in Derry appeal for footage in relation to traffic-related incident")](https://www.derrynow.com/news/local-news/1608903/police-in-derry-appeal-for-footage-in-relation-to-traffic-related-incident.html)
+
+PSNI
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Police in Derry appeal for footage in relation to traffic-related incident](https://www.derrynow.com/news/local-news/1608903/police-in-derry-appeal-for-footage-in-relation-to-traffic-related-incident.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ADVERTISEMENT - CONTINUE READING BELOW
 
 Advertise with Us
 
 Multimedia
+
+[![IN PICTURES: Cornshell Community Garden in Derry officially reopens](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Cornshell Community Garden in Derry officially reopens")](https://www.derrynow.com/story-telling/pictures---videos/1608998/in-pictures-cornshell-community-garden-in-derry-officially-reopens.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[IN PICTURES: Cornshell Community Garden in Derry officially reopens](https://www.derrynow.com/story-telling/pictures---videos/1608998/in-pictures-cornshell-community-garden-in-derry-officially-reopens.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Throwback Thursday: Partytime out and about around Derry (2009)](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Throwback Thursday: Partytime out and about around Derry (2009)")](https://www.derrynow.com/story-telling/pictures---videos/1608382/throwback-thursday-partytime-out-and-about-around-derry-2009.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[Throwback Thursday: Partytime out and about around Derry (2009)](https://www.derrynow.com/story-telling/pictures---videos/1608382/throwback-thursday-partytime-out-and-about-around-derry-2009.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Throwback Tuesday: Out and About @ charity quiz in Rafters (2012)](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Throwback Tuesday: Out and About @ charity quiz in Rafters (2012)")](https://www.derrynow.com/story-telling/pictures---videos/1606561/throwback-tuesday-out-and-about-charity-quiz-in-rafters-2012.html)
 
@@ -410,20 +426,6 @@ Derry City fans at the Brandywell. Pics by George Sweeney, nwpresspics
 
 [IN PICTURES: Derry City fans enjoy a memorable night at the Brandywell](https://www.derrynow.com/news/derry-sport/1605522/in-pictures-derry-city-fans-enjoy-a-memorable-night-at-the-brandywell.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![WATCH: Tourism Ireland ‘Home of Halloween’ campaign aims to attract more oversea visitors to Derry](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "WATCH: Tourism Ireland ‘Home of Halloween’ campaign aims to attract more oversea visitors to Derry")](https://www.derrynow.com/news/pictures---videos/1604563/watch-tourism-ireland-home-of-halloween-campaign-aims-to-attract-more-oversea-visitors.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[WATCH: Tourism Ireland ‘Home of Halloween’ campaign aims to attract more oversea visitors](https://www.derrynow.com/news/pictures---videos/1604563/watch-tourism-ireland-home-of-halloween-campaign-aims-to-attract-more-oversea-visitors.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![IN PICTURES: Writer James Simpson launches new novel 'True Colours' in Derry's Central Library](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Writer James Simpson launches new novel 'True Colours' in Derry's Central Library")](https://www.derrynow.com/story-telling/pictures---videos/1604423/in-pictures-writer-james-simpson-launches-new-novel-true-colours-in-derry-s-central-library.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[IN PICTURES: Writer James Simpson launches new novel 'True Colours' in Derry's Central Library](https://www.derrynow.com/story-telling/pictures---videos/1604423/in-pictures-writer-james-simpson-launches-new-novel-true-colours-in-derry-s-central-library.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
@@ -525,55 +527,51 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
-[![Derry Junior Championship Quarter Final preview](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Junior Championship Quarter Final preview")](https://www.derrynow.com/news/derry-sport/1607221/derry-junior-championship-quarter-final-preview.html)
+[![Man who faces immediate deportation upon release from prison jailed for bringing drugs valued up to £40,000 from Belfast to Derry](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man who faces immediate deportation upon release from prison jailed for bringing drugs valued up to £40,000 from Belfast to Derry")](https://www.derrynow.com/news/local-news/1609048/man-who-faces-immediate-deportation-upon-release-from-prison-jailed-for-bringing-drugs-valued-up-to-40-000-from-belfast-to-derry.html)
 
-[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
-
-[Derry Junior Championship Quarter Final preview](https://www.derrynow.com/news/derry-sport/1607221/derry-junior-championship-quarter-final-preview.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry Death Notices - Monday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Monday")](https://www.derrynow.com/news/deaths/1608384/derry-death-notices-thursday-19th-september-2024.html)
-
-[Deaths](https://www.derrynow.com/section/977/deaths)
-
-[Derry Death Notices - Thursday, 19th September 2024](https://www.derrynow.com/news/deaths/1608384/derry-death-notices-thursday-19th-september-2024.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Breaking: Elderly man (80s) killed in Clonmany collision](https://www.derrynow.com/resizer/165/93/true/2024_09_18/WhatsApp_Image_2024-09-18_at_20.48.15_6077cb15_Cropped-1726692559607.jpg--.jpg?1726692559901 "Breaking: Elderly man (80s) killed in Clonmany collision")](https://www.derrynow.com/news/local-news/1608640/elderly-man-80s-killed-in-clonmany-collision.html)
-
-The scene of the fatal road traffic collision in Clonmany. (North West Newspix)
+Derry Crown Court
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[Elderly man (80s) killed in Clonmany collision](https://www.derrynow.com/news/local-news/1608640/elderly-man-80s-killed-in-clonmany-collision.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------
+[Man who faces immediate deportation upon release from prison jailed for bringing drugs valued up to £40,000 from Belfast to Derry](https://www.derrynow.com/news/local-news/1609048/man-who-faces-immediate-deportation-upon-release-from-prison-jailed-for-bringing-drugs-valued-up-to-40-000-from-belfast-to-derry.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Motorists are advised to expect disruption in Derry city centre on Saturday](https://www.derrynow.com/resizer/165/93/true/2023_08_13/Apprentice_Boys-1691965842108.jpg--.jpg?1691965842198 "Motorists are advised to expect disruption in Derry city centre on Saturday")](https://www.derrynow.com/news/local-news/1608567/motorists-are-advised-to-expect-disruption-in-derry-city-centre-on-saturday.html)
+[![Revitalised Derry garden will offer ‘oasis’ for local people and insects](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Revitalised Derry garden will offer ‘oasis’ for local people and insects")](https://www.derrynow.com/news/local-news/1608963/revitalised-derry-garden-will-offer-oasis-for-local-people-and-insects.html)
 
-Apprentice Boys of Derry marching through the city centre during a previous march.
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Motorists are advised to expect disruption in Derry city centre on Saturday](https://www.derrynow.com/news/local-news/1608567/motorists-are-advised-to-expect-disruption-in-derry-city-centre-on-saturday.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Life-saving Altnagelvin Hospital cardiac care service celebrates its 10 year anniversary](https://www.derrynow.com/resizer/165/93/true/2024_09_18/IMG_1472-1726672773648.jpeg--.jpeg?1726672775006 "Life-saving Altnagelvin Hospital cardiac care service celebrates its 10 year anniversary")](https://www.derrynow.com/news/local-news/1608304/life-saving-altnagelvin-hospital-cardiac-care-service-celebrates-its-10-year-anniversary.html)
-
-Cardiology Team at Altnagelvin celebrating the 10th Anniversary of the PPCI service saving and treated thousands of heart attack patients
+Local families are already enjoying the newly reopened Cornshell Community Garden.
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[Life-saving Altnagelvin Hospital cardiac care service celebrates its 10 year anniversary](https://www.derrynow.com/news/local-news/1608304/life-saving-altnagelvin-hospital-cardiac-care-service-celebrates-its-10-year-anniversary.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Revitalised Derry garden will offer ‘oasis’ for local people and insects](https://www.derrynow.com/news/local-news/1608963/revitalised-derry-garden-will-offer-oasis-for-local-people-and-insects.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Derry man set for Cage Warriors debut in Manchester](https://www.derrynow.com/resizer/165/93/true/2024_09_18/IMG-20240918-WA0004-1726659940408.jpg--.jpg?1726659940565 "Derry man set for Cage Warriors debut in Manchester")](https://www.derrynow.com/news/derry-sport/1608098/derry-man-set-for-cage-warriors-debut-in-manchester.html)
+[![Derry man (21) charged with number of drugs offences](https://www.derrynow.com/resizer/165/93/true/1580370016067.JPG--.JPG?1580370017604 "Derry man (21) charged with number of drugs offences")](https://www.derrynow.com/news/local-news/1608957/derry-man-21-charged-with-number-of-drugs-offences.html)
 
-Matthew Friel set for Cage Warriors debut
+[Local News](https://www.derrynow.com/section/975/news)
 
-[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
+[Derry man (21) charged with number of drugs offences](https://www.derrynow.com/news/local-news/1608957/derry-man-21-charged-with-number-of-drugs-offences.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[Derry man set for Cage Warriors debut in Manchester](https://www.derrynow.com/news/derry-sport/1608098/derry-man-set-for-cage-warriors-debut-in-manchester.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[![Derry Senior Football Championship preview: Quarter final spots on the line](https://www.derrynow.com/resizer/165/93/true/2024_08_31/1K2A5231-1725140201247.jpg--.jpg?1725140201929 "Derry Senior Football Championship preview: Quarter final spots on the line")](https://www.derrynow.com/news/gaa/1607908/derry-senior-football-championship-preview-quarter-final-spots-on-the-line.html)
+
+[GAA](https://www.derrynow.com/section/1060/gaa)
+
+[Derry Senior Football Championship preview: Quarter final spots on the line](https://www.derrynow.com/news/gaa/1607908/derry-senior-football-championship-preview-quarter-final-spots-on-the-line.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Former Sinn Fein press officer charged with sex offences fails to appear in court](https://www.derrynow.com/resizer/165/93/true/2023_08_04/Michael_McMonagle-1691147368533.jpg--.jpg?1691147368558 "Former Sinn Fein press officer charged with sex offences fails to appear in court")](https://www.derrynow.com/news/local-news/1609021/former-sinn-fein-press-officer-charged-with-sex-offences-fails-to-appear-in-court.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Former Sinn Fein press officer charged with sex offences fails to appear in court](https://www.derrynow.com/news/local-news/1609021/former-sinn-fein-press-officer-charged-with-sex-offences-fails-to-appear-in-court.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Derry snubbed in the 2024 PwC Football All-Stars nominations](https://www.derrynow.com/resizer/165/93/true/2024_04_08/2775011-1712580900991.jpg--.jpg?1712580902344 "Derry snubbed in the 2024 PwC Football All-Stars nominations")](https://www.derrynow.com/news/gaa/1608907/derry-snubbed-in-the-2024-pwc-football-all-stars-nominations.html)
+
+[GAA](https://www.derrynow.com/section/1060/gaa)
+
+[Derry snubbed in the 2024 PwC Football All-Stars nominations](https://www.derrynow.com/news/gaa/1608907/derry-snubbed-in-the-2024-pwc-football-all-stars-nominations.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
