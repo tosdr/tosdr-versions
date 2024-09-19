@@ -404,9 +404,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ Once a new technology rolls over you, if you're not part of the steamroller, you're part of the road”
+“ Life is not easy for any of us. But what of that? We must have perseverance and above all confidence in ourselves. We must believe that we are gifted for something, and that this thing, at whatever cost, must be attained”
 
-[Stewart Brand](http://en.wikipedia.org/wiki/Stewart_Brand)
+[Marie Curie](http://en.wikipedia.org/wiki/Marie_Curie)
 
 [](https://www.adafruit.com/about)
 
