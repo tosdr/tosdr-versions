@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/overige/dodelijke-immuniteit-over-kwik-in-vaccins/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/overige/idf-leger-doodt-eigen-mensen-hannibal-directive/ "Feeling Lucky? »")
 
 Algemene voorwaarden WantToKnow aanbiedingen
 ============================================
