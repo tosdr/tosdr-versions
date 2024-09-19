@@ -1,4 +1,4 @@
-Thursday, September 19 2024
+Friday, September 20 2024
 
 * [About](https://fifthperson.com/about/)
 * [Charity](https://fifthperson.com/charity/)
@@ -238,7 +238,7 @@ Quick Guides
     
     [Microsoft Q4 2024 earnings fuelled by AI and cloud growth](https://fifthperson.com/microsoft-q4-2024-earnings/)
     
-    3 weeks ago
+    4 weeks ago
     
 * [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
