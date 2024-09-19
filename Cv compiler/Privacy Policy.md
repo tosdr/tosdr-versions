@@ -1755,6 +1755,8 @@ What do top resumes look like? Check out these expertly-written samples:
 
 [Marketing Project Manager](https://cvcompiler.com/marketing-project-manager-resume-examples)
 
+[AML Analyst](https://cvcompiler.com/aml-analyst-resume-examples)
+
 ![Upload resume illustration](uploads-pre-acq/img/upload-illustration.svg)
 
 ### Upload  
