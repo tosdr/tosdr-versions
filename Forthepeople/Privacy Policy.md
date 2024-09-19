@@ -341,23 +341,23 @@ Use this form to search the site. Enter your search query and press enter to sea
 MORGAN & MORGAN, P.A. PRIVACY POLICY
 ====================================
 
-Morgan & Morgan, P.A. and its affiliates (referred to herein as “MM”, “we”, “us”, or “our”) respects your privacy and is committed to complying with this privacy policy (“Privacy Policy”), which describes what personal information we collect about you, how we use it, to whom we may disclose it, and what choices you have regarding our use of your personal information. This Privacy Policy applies to personal information collected in connection with our website located at www.forthepeople.com and any other webpage that MM maintains that links to this Privacy Policy (collectively, the “Site”), any current or future mobile applications associated with MM or the Site (collectively, the “App”), our email communications, our social media pages, other online or wireless offerings that post a link to the Privacy Policy, and other circumstances in connection with the services we provide (collectively, the “Platform”).   
+Morgan & Morgan, P.A. and its affiliates (referred to herein as “MM”, “we”, “us”, or “our”) respects your privacy and is committed to complying with this privacy policy (“Privacy Policy”), which describes what personal information we collect about you, how we use it, to whom we may disclose it, and what choices you have regarding our use of your personal information. This Privacy Policy applies to personal information collected in connection with our website located at [www.forthepeople.com](https://www.forthepeople.com/) and any other webpage that MM maintains that links to this Privacy Policy (collectively, the “Site”), any current or future mobile applications associated with MM or the Site (collectively, the “App”), our email communications, our social media pages, other online or wireless offerings that post a link to the Privacy Policy, and other circumstances in connection with the services we provide (collectively, the “Platform”).   
  
 
 This Privacy Policy covers the following topics:
 
-**TYPES OF PERSONAL INFORMATION WE COLLECT**  
-**ONLINE ANALYTICS**  
-**USE OF PERSONAL INFORMATION**  
-**DISCLOSURE OF PERSONAL INFORMATION**  
-**YOUR CHOICES**  
-**INFORMATION SECURITY**  
-**LINKED WEBSITES**  
-**USING THE PLATFORM FROM OUTSIDE THE UNITED STATES**  
-**CHILDREN’S PRIVACY**  
-**ADDITIONAL NOTICE TO RESIDENTS OF APPLICABLE U.S. STATES**  
-**CHANGES TO THIS PRIVACY POLICY**  
-**CONTACT US**
+[**TYPES OF PERSONAL INFORMATION WE COLLECT**](#topiwc)  
+[**ONLINE ANALYTICS**](#online-analytics)  
+[**USE OF PERSONAL INFORMATION**](#uopi)  
+[**DISCLOSURE OF PERSONAL INFORMATION**](#dopi)  
+[**YOUR CHOICES**](#your-choices)  
+[**INFORMATION SECURITY**](#information-security)  
+[**LINKED WEBSITES**](#linked-websites)  
+[**USING THE PLATFORM FROM OUTSIDE THE UNITED STATES**](#utpfotus)  
+[**CHILDREN’S PRIVACY**](#childrens-privacy)  
+[**ADDITIONAL NOTICE TO RESIDENTS OF APPLICABLE U.S. STATES**](#additional-notice)  
+[**CHANGES TO THIS PRIVACY POLICY**](#cttpp)  
+[**CONTACT US**](#contact-us)
 
 TYPES OF PERSONAL INFORMATION WE COLLECT
 ----------------------------------------
