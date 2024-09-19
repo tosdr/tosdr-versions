@@ -150,8 +150,10 @@ Latest reactions
 
 Latest forum posts
 
-* [Anbernic console for msx](https://www.msx.org/forum/msx-talk/hardware/anbernic-console-for-msx "Anbernic console for msx")
 * [WonderTANG! Who wants to juice up your MSX?](https://www.msx.org/forum/msx-talk/hardware/wondertang-who-wants-to-juice-up-your-msx?page=51 "WonderTANG! Who wants to juice up your MSX?")
+* [Konami SCC cart (E)Eprom substitution](https://www.msx.org/forum/msx-talk/hardware/konami-scc-cart-eeprom-substitution "Konami SCC cart (E)Eprom substitution")
+* [OCMINFO: Tool for OCM/MSX++ compatibles](https://www.msx.org/forum/msx-talk/software/ocminfo-tool-for-ocmmsx-compatibles "OCMINFO: Tool for OCM/MSX++ compatibles")
+* [Anbernic console for msx](https://www.msx.org/forum/msx-talk/hardware/anbernic-console-for-msx "Anbernic console for msx")
 * [Joypad wiring for pcb from Aliexpress](https://www.msx.org/forum/msx-talk/hardware/joypad-wiring-for-pcb-from-aliexpress?page=13 "Joypad wiring for pcb from Aliexpress")
 * [Save MRC](https://www.msx.org/forum/msx-talk/msx-resource-center/save-mrc?page=3 "Save MRC ")
 * [Cannot see symbols in the openMSX debugger](https://www.msx.org/forum/msx-talk/openmsx/cannot-see-symbols-in-the-openmsx-debugger "Cannot see symbols in the openMSX debugger")
@@ -161,13 +163,12 @@ Latest forum posts
 * [Casio MX-10 Technical cartridge port questions](https://www.msx.org/forum/msx-talk/hardware/casio-mx-10-technical-cartridge-port-questions " Casio MX-10 Technical cartridge port questions")
 * [Carnivore2 : First impressions and bugs...](https://www.msx.org/forum/msx-talk/hardware/carnivore2-first-impressions-and-bugs?page=54 "Carnivore2 : First impressions and bugs...")
 * [Emulator / debugger recommendations for development on PC](https://www.msx.org/forum/msx-talk/development/emulator-debugger-recommendations-for-development-on-pc "Emulator / debugger recommendations for development on PC")
-* [vFM (virtual Full Music) MSX universal audio Cartridge](https://www.msx.org/forum/msx-talk/hardware/vfm-virtual-full-music-msx-universal-audio-cartridge?page=5 "vFM (virtual Full Music) MSX universal audio Cartridge")
-* [V9990 incomplete initialization on ASM Ghost'n'Goblins ?](https://www.msx.org/forum/msx-talk/software/v9990-incomplete-initialization-on-asm-ghostngoblins?page=5 "V9990 incomplete initialization on ASM Ghost'n'Goblins ?")
 
 [](https://www.msx.org/forum/)[More forum topics](https://www.msx.org/forum/)
 
 News headlines
 
+* [OCMINFO for MSX++ compatibles](https://www.msx.org/news/en/ocminfo-for-msx-compatibles "OCMINFO for MSX++ compatibles")
 * [I-Logic](https://www.msx.org/news/software/en/i-logic "I-Logic")
 * [MSX and Networking book crowdfunding](https://www.msx.org/news/en/new-book-about-msx-and-networking-crowdfunding-campaign "MSX and Networking book crowdfunding")
 * [MSX UK fun day](https://www.msx.org/news/en/msx-uk-fun-day "MSX UK fun day")
@@ -180,7 +181,6 @@ News headlines
 * [Rastan Saga BGM enhancement patch by ToughkidCST](https://www.msx.org/news/software/en/rastan-saga-bgm-enhancement-patch-by-toughkidcst "Rastan Saga BGM enhancement patch by ToughkidCST")
 * [MSXdev24 #10 Harker's Escape](https://www.msx.org/news/challenges/en/msxdev24-10-harkers-escape "MSXdev24 #10 Harker's Escape")
 * [MSXdev24 #09 Wizsoul](https://www.msx.org/news/challenges/en/msxdev24-09 "MSXdev24 #09 Wizsoul")
-* [Nestor80 1.3 released](https://www.msx.org/news/en/nestor80-13-released "Nestor80 1.3 released")
 
 [](https://www.msx.org/archive/)[More news articles](https://www.msx.org/archive/)
 
