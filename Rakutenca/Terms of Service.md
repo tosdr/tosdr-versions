@@ -311,7 +311,7 @@ FR
         
         up to 4% Cash Back](https://www.rakuten.ca/coach)[Michael Kors
         
-        10% Cash Back](https://www.rakuten.ca/michael-kors)[Mejuri
+        2% Cash Back](https://www.rakuten.ca/michael-kors)[Mejuri
         
         2% Cash Back](https://www.rakuten.ca/mejuri)[Shoppers Drug Mart Beauty
         
