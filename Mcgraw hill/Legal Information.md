@@ -258,7 +258,7 @@ About
 
 [Careers](https://careers.mheducation.com/)
 
-[Diversity, Equity & Inclusion](https://www.mheducation.com/about/diversity-equity-inclusion-belonging.html)
+[Diversity, Equity, Inclusion & Belonging](https://www.mheducation.com/about/diversity-equity-inclusion-belonging.html)
 
 [Social Responsibility](https://www.mheducation.com/about/social-responsibility-sustainability.html)
 
