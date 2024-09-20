@@ -14,11 +14,19 @@ Recommendations
 
 Audio
 
-* [![The Most Exciting Picture Books Coming Fall 2024](https://assets.penguinrandomhouse.com/wp-content/uploads/2024/08/29153607/Fall-Preview-2024-600x314-picture.jpg)
+* [![Audiobooks for Kids](https://assets.penguinrandomhouse.com/wp-content/uploads/2024/07/18161743/audiobooks-for-kids-readdown-1200x628-1.jpg)
     
-    The Most Exciting Picture Books Coming Fall 2024
+    Audiobooks for Kids
     
-    Learn More >](https://www.readbrightly.com/picture-books-fall-preview/)
+    Learn More >](https://www.penguinrandomhouse.com/the-read-down/audiobooks-for-kids/)
+
+* * *
+
+* [![Browse All Our Lists, Essays, and Interviews](https://assets.penguinrandomhouse.com/wp-content/uploads/2024/02/05171902/content-archive-Homepage_600x314-nav.jpg)
+    
+    Browse All Our Lists, Essays, and Interviews
+    
+    See What We’re Reading >](https://www.penguinrandomhouse.com/content-archive/)
 
 * * *
 
@@ -27,14 +35,6 @@ Audio
     Books Bans Are on the Rise in America
     
     Learn More >](https://www.penguinrandomhouse.com/banned-books/)
-
-* * *
-
-* [![Books To Read if You Love <i>Gilmore Girls</i>](https://assets.penguinrandomhouse.com/wp-content/uploads/2024/08/22142347/PRH_Site_1200x628_Gilmore.jpg)
-    
-    Books To Read if You Love _Gilmore Girls_
-    
-    Read More >](https://www.penguinrandomhouse.com/the-read-down/books-like-gilmore-girls/)
 
 * <
     
