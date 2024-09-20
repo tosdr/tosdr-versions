@@ -588,21 +588,21 @@ Weitere spannende Themen
 
 Neueste Tests
 
+* [Krankenkassen­vergleich 2024: Krankenkasse – güns­tige finden mit Top-Zusatz­leistungen](https://www.test.de/Krankenkassenvergleich-1801418-0/ "Krankenkassenvergleich 2024 - Krankenkasse – günstige finden mit Top-Zusatzleistungen")
 * [Badreiniger im Test: Günstig glänzt](https://www.test.de/Badreiniger-im-Test-Meister-Proper-Schlusslicht-4980485-0/ "Badreiniger im Test - Günstig glänzt")
 * [Fahr­radversicherungen im Vergleich: Fahr­rad und E-Bike günstig versichern](https://www.test.de/Fahrradversicherungen-Vergleich-5205101-0/ "Fahrradversicherungen im Vergleich - Fahrrad und E-Bike günstig versichern")
 * [Fonds und ETF im Vergleich: Hier finden Sie die besten Fonds für Ihr Portfolio](https://www.test.de/Fonds-im-Test-Fuenf-Punkte-fuer-die-Besten-4331006-0/ "Fonds und ETF im Vergleich - Hier finden Sie die besten Fonds für Ihr Portfolio")
 * [Nach­haltige Fonds und ETF: Warum wir grüne Fonds jetzt strenger testen](https://www.test.de/nachhaltige-fonds-etf-test-4741500-0/ "Nachhaltige Fonds und ETF - Warum wir grüne Fonds jetzt strenger testen")
 * [Wohn­gebäude­versicherung im Vergleich: Tarife teuer und oft mangelhaft – so schützen Sie Ihr Haus gut und günstig](https://www.test.de/Wohngebaeudeversicherung-Vergleich-4255878-0/ "Wohngebäudeversicherung im Vergleich - Tarife teuer und oft mangelhaft – so schützen Sie Ihr Haus gut und günstig")
-* [Tiefkühlpizza im Test: Italien für zu Hause](https://www.test.de/tiefkuehlpizza-salami-im-test-4830454-0/ "Tiefkühlpizza im Test - Italien für zu Hause")
 
 test.de entdecken
 
-* [Hacker-Angriff auf Pass­wort-Manager: Kunden­daten von LastPass gestohlen](https://www.test.de/Hacker-Angriff-auf-Passwort-Manager-Kundendaten-von-LastPass-gestohlen-5952137-0/ "Hacker-Angriff auf Passwort-Manager - Kundendaten von LastPass gestohlen")
-* [Lang­zeit­folgen von Covid-19: Riech­training wirkt bei Geruchs­verlust](https://www.test.de/Langzeitfolgen-von-Covid-19-Riechtraining-wirkt-bei-Geruchsverlust-6066247-0/ "Langzeitfolgen von Covid-19 - Riechtraining wirkt bei Geruchsverlust")
-* [Ökobilanz Kaffee­zubereitung: Lecker, aber auch ökologisch?](https://www.test.de/Oekobilanz-und-Preisvergleich-Kaffeezubereitung-6093120-0/ "Ökobilanz Kaffeezubereitung - Lecker, aber auch ökologisch?")
-* [Nicht­raucher-Apps im Test: Digital mit dem Rauchen aufhören](https://www.test.de/nichtraucher-apps-und-programme-im-test-6072606-0/ "Nichtraucher-Apps im Test - Digital mit dem Rauchen aufhören")
-* [Hoch­druck­reiniger im Test: Wer ist der beste Moos-Hammer?](https://www.test.de/Hochdruckreiniger-im-Test-Wer-ist-der-beste-Moos-Hammer-6140878-0/ "Hochdruckreiniger im Test - Wer ist der beste Moos-Hammer?")
-* [Riester-Fonds­sparpläne: Viele Riester-Verträge laufen gut – doch am Ende drohen hohe Kosten](https://www.test.de/Riester-Vertraege-Riester-Fondssparplaene-im-Rendite-Check-6044518-0/ "Riester-Fondssparpläne - Viele Riester-Verträge laufen gut – doch am Ende drohen hohe Kosten")
+* [kaizentech­limited.com: Betrügerischer Broker](https://www.test.de/kaizentechlimitedcom-Betruegerischer-Broker-6051684-0/ "kaizentechlimited.com - Betrügerischer Broker")
+* [Online-Broker: Anzeige gegen NXS Fund](https://www.test.de/Online-Broker-NXS-Fund-angezeigt-6084720-0/ "Online-Broker - Anzeige gegen NXS Fund")
+* [ETF-Sonder­heft: Fonds­liste zur Komplettierung](https://www.test.de/ETF-Sonderheft-Fondsliste-zur-Komplettierung-6065383-0/ "ETF-Sonderheft - Fondsliste zur Komplettierung")
+* [Lebens­versicherung: Höherer Garan­tiezins ab 2025](https://www.test.de/Lebensversicherung-Hoeherer-Garantiezins-ab-2025-6140352-0/ "Lebensversicherung - Höherer Garantiezins ab 2025")
+* [Endometriose: Gegen die Qual – neue Therapien lindern Beschwerden](https://www.test.de/Endometriose-neue-Therapien-lindern-Beschwerden-6091533-0/ "Endometriose - Gegen die Qual – neue Therapien lindern Beschwerden")
+* [Falsch­geld: Falsche Fuff­ziger müssen Ihnen nicht durch­gehen](https://www.test.de/Falschgeld-So-erkennen-Sie-falsche-Fuffziger-5838483-0/ "Falschgeld - Falsche Fuffziger müssen Ihnen nicht durchgehen")
 
 Fußbereich
 
@@ -2728,21 +2728,21 @@ Weitere spannende Themen
 
 Neueste Tests
 
+* [Krankenkassen­vergleich 2024: Krankenkasse – güns­tige finden mit Top-Zusatz­leistungen](https://www.test.de/Krankenkassenvergleich-1801418-0/ "Krankenkassenvergleich 2024 - Krankenkasse – günstige finden mit Top-Zusatzleistungen")
 * [Badreiniger im Test: Günstig glänzt](https://www.test.de/Badreiniger-im-Test-Meister-Proper-Schlusslicht-4980485-0/ "Badreiniger im Test - Günstig glänzt")
 * [Fahr­radversicherungen im Vergleich: Fahr­rad und E-Bike günstig versichern](https://www.test.de/Fahrradversicherungen-Vergleich-5205101-0/ "Fahrradversicherungen im Vergleich - Fahrrad und E-Bike günstig versichern")
 * [Fonds und ETF im Vergleich: Hier finden Sie die besten Fonds für Ihr Portfolio](https://www.test.de/Fonds-im-Test-Fuenf-Punkte-fuer-die-Besten-4331006-0/ "Fonds und ETF im Vergleich - Hier finden Sie die besten Fonds für Ihr Portfolio")
 * [Nach­haltige Fonds und ETF: Warum wir grüne Fonds jetzt strenger testen](https://www.test.de/nachhaltige-fonds-etf-test-4741500-0/ "Nachhaltige Fonds und ETF - Warum wir grüne Fonds jetzt strenger testen")
 * [Wohn­gebäude­versicherung im Vergleich: Tarife teuer und oft mangelhaft – so schützen Sie Ihr Haus gut und günstig](https://www.test.de/Wohngebaeudeversicherung-Vergleich-4255878-0/ "Wohngebäudeversicherung im Vergleich - Tarife teuer und oft mangelhaft – so schützen Sie Ihr Haus gut und günstig")
-* [Tiefkühlpizza im Test: Italien für zu Hause](https://www.test.de/tiefkuehlpizza-salami-im-test-4830454-0/ "Tiefkühlpizza im Test - Italien für zu Hause")
 
 test.de entdecken
 
-* [Hacker-Angriff auf Pass­wort-Manager: Kunden­daten von LastPass gestohlen](https://www.test.de/Hacker-Angriff-auf-Passwort-Manager-Kundendaten-von-LastPass-gestohlen-5952137-0/ "Hacker-Angriff auf Passwort-Manager - Kundendaten von LastPass gestohlen")
-* [Lang­zeit­folgen von Covid-19: Riech­training wirkt bei Geruchs­verlust](https://www.test.de/Langzeitfolgen-von-Covid-19-Riechtraining-wirkt-bei-Geruchsverlust-6066247-0/ "Langzeitfolgen von Covid-19 - Riechtraining wirkt bei Geruchsverlust")
-* [Ökobilanz Kaffee­zubereitung: Lecker, aber auch ökologisch?](https://www.test.de/Oekobilanz-und-Preisvergleich-Kaffeezubereitung-6093120-0/ "Ökobilanz Kaffeezubereitung - Lecker, aber auch ökologisch?")
-* [Nicht­raucher-Apps im Test: Digital mit dem Rauchen aufhören](https://www.test.de/nichtraucher-apps-und-programme-im-test-6072606-0/ "Nichtraucher-Apps im Test - Digital mit dem Rauchen aufhören")
-* [Hoch­druck­reiniger im Test: Wer ist der beste Moos-Hammer?](https://www.test.de/Hochdruckreiniger-im-Test-Wer-ist-der-beste-Moos-Hammer-6140878-0/ "Hochdruckreiniger im Test - Wer ist der beste Moos-Hammer?")
-* [Riester-Fonds­sparpläne: Viele Riester-Verträge laufen gut – doch am Ende drohen hohe Kosten](https://www.test.de/Riester-Vertraege-Riester-Fondssparplaene-im-Rendite-Check-6044518-0/ "Riester-Fondssparpläne - Viele Riester-Verträge laufen gut – doch am Ende drohen hohe Kosten")
+* [kaizentech­limited.com: Betrügerischer Broker](https://www.test.de/kaizentechlimitedcom-Betruegerischer-Broker-6051684-0/ "kaizentechlimited.com - Betrügerischer Broker")
+* [Online-Broker: Anzeige gegen NXS Fund](https://www.test.de/Online-Broker-NXS-Fund-angezeigt-6084720-0/ "Online-Broker - Anzeige gegen NXS Fund")
+* [ETF-Sonder­heft: Fonds­liste zur Komplettierung](https://www.test.de/ETF-Sonderheft-Fondsliste-zur-Komplettierung-6065383-0/ "ETF-Sonderheft - Fondsliste zur Komplettierung")
+* [Lebens­versicherung: Höherer Garan­tiezins ab 2025](https://www.test.de/Lebensversicherung-Hoeherer-Garantiezins-ab-2025-6140352-0/ "Lebensversicherung - Höherer Garantiezins ab 2025")
+* [Endometriose: Gegen die Qual – neue Therapien lindern Beschwerden](https://www.test.de/Endometriose-neue-Therapien-lindern-Beschwerden-6091533-0/ "Endometriose - Gegen die Qual – neue Therapien lindern Beschwerden")
+* [Falsch­geld: Falsche Fuff­ziger müssen Ihnen nicht durch­gehen](https://www.test.de/Falschgeld-So-erkennen-Sie-falsche-Fuffziger-5838483-0/ "Falschgeld - Falsche Fuffziger müssen Ihnen nicht durchgehen")
 
 Jetzt anmelden und 10% Rabatt auf die test.de-Flatrate im ersten Jahr erhalten!
 
@@ -2786,39 +2786,39 @@ Weitere spannende Themen
 
 Neueste Tests
 
+* [Krankenkassen­vergleich 2024: Krankenkasse – güns­tige finden mit Top-Zusatz­leistungen](https://www.test.de/Krankenkassenvergleich-1801418-0/ "Krankenkassenvergleich 2024 - Krankenkasse – günstige finden mit Top-Zusatzleistungen")
 * [Badreiniger im Test: Günstig glänzt](https://www.test.de/Badreiniger-im-Test-Meister-Proper-Schlusslicht-4980485-0/ "Badreiniger im Test - Günstig glänzt")
 * [Fahr­radversicherungen im Vergleich: Fahr­rad und E-Bike günstig versichern](https://www.test.de/Fahrradversicherungen-Vergleich-5205101-0/ "Fahrradversicherungen im Vergleich - Fahrrad und E-Bike günstig versichern")
 * [Fonds und ETF im Vergleich: Hier finden Sie die besten Fonds für Ihr Portfolio](https://www.test.de/Fonds-im-Test-Fuenf-Punkte-fuer-die-Besten-4331006-0/ "Fonds und ETF im Vergleich - Hier finden Sie die besten Fonds für Ihr Portfolio")
 * [Nach­haltige Fonds und ETF: Warum wir grüne Fonds jetzt strenger testen](https://www.test.de/nachhaltige-fonds-etf-test-4741500-0/ "Nachhaltige Fonds und ETF - Warum wir grüne Fonds jetzt strenger testen")
 * [Wohn­gebäude­versicherung im Vergleich: Tarife teuer und oft mangelhaft – so schützen Sie Ihr Haus gut und günstig](https://www.test.de/Wohngebaeudeversicherung-Vergleich-4255878-0/ "Wohngebäudeversicherung im Vergleich - Tarife teuer und oft mangelhaft – so schützen Sie Ihr Haus gut und günstig")
-* [Tiefkühlpizza im Test: Italien für zu Hause](https://www.test.de/tiefkuehlpizza-salami-im-test-4830454-0/ "Tiefkühlpizza im Test - Italien für zu Hause")
 
 test.de entdecken
 
-* [Hacker-Angriff auf Pass­wort-Manager: Kunden­daten von LastPass gestohlen](https://www.test.de/Hacker-Angriff-auf-Passwort-Manager-Kundendaten-von-LastPass-gestohlen-5952137-0/ "Hacker-Angriff auf Passwort-Manager - Kundendaten von LastPass gestohlen")
-* [Lang­zeit­folgen von Covid-19: Riech­training wirkt bei Geruchs­verlust](https://www.test.de/Langzeitfolgen-von-Covid-19-Riechtraining-wirkt-bei-Geruchsverlust-6066247-0/ "Langzeitfolgen von Covid-19 - Riechtraining wirkt bei Geruchsverlust")
-* [Ökobilanz Kaffee­zubereitung: Lecker, aber auch ökologisch?](https://www.test.de/Oekobilanz-und-Preisvergleich-Kaffeezubereitung-6093120-0/ "Ökobilanz Kaffeezubereitung - Lecker, aber auch ökologisch?")
-* [Nicht­raucher-Apps im Test: Digital mit dem Rauchen aufhören](https://www.test.de/nichtraucher-apps-und-programme-im-test-6072606-0/ "Nichtraucher-Apps im Test - Digital mit dem Rauchen aufhören")
-* [Hoch­druck­reiniger im Test: Wer ist der beste Moos-Hammer?](https://www.test.de/Hochdruckreiniger-im-Test-Wer-ist-der-beste-Moos-Hammer-6140878-0/ "Hochdruckreiniger im Test - Wer ist der beste Moos-Hammer?")
-* [Riester-Fonds­sparpläne: Viele Riester-Verträge laufen gut – doch am Ende drohen hohe Kosten](https://www.test.de/Riester-Vertraege-Riester-Fondssparplaene-im-Rendite-Check-6044518-0/ "Riester-Fondssparpläne - Viele Riester-Verträge laufen gut – doch am Ende drohen hohe Kosten")
+* [kaizentech­limited.com: Betrügerischer Broker](https://www.test.de/kaizentechlimitedcom-Betruegerischer-Broker-6051684-0/ "kaizentechlimited.com - Betrügerischer Broker")
+* [Online-Broker: Anzeige gegen NXS Fund](https://www.test.de/Online-Broker-NXS-Fund-angezeigt-6084720-0/ "Online-Broker - Anzeige gegen NXS Fund")
+* [ETF-Sonder­heft: Fonds­liste zur Komplettierung](https://www.test.de/ETF-Sonderheft-Fondsliste-zur-Komplettierung-6065383-0/ "ETF-Sonderheft - Fondsliste zur Komplettierung")
+* [Lebens­versicherung: Höherer Garan­tiezins ab 2025](https://www.test.de/Lebensversicherung-Hoeherer-Garantiezins-ab-2025-6140352-0/ "Lebensversicherung - Höherer Garantiezins ab 2025")
+* [Endometriose: Gegen die Qual – neue Therapien lindern Beschwerden](https://www.test.de/Endometriose-neue-Therapien-lindern-Beschwerden-6091533-0/ "Endometriose - Gegen die Qual – neue Therapien lindern Beschwerden")
+* [Falsch­geld: Falsche Fuff­ziger müssen Ihnen nicht durch­gehen](https://www.test.de/Falschgeld-So-erkennen-Sie-falsche-Fuffziger-5838483-0/ "Falschgeld - Falsche Fuffziger müssen Ihnen nicht durchgehen")
 
 Neueste Tests
 
+* [Krankenkassen­vergleich 2024: Krankenkasse – güns­tige finden mit Top-Zusatz­leistungen](https://www.test.de/Krankenkassenvergleich-1801418-0/ "Krankenkassenvergleich 2024 - Krankenkasse – günstige finden mit Top-Zusatzleistungen")
 * [Badreiniger im Test: Günstig glänzt](https://www.test.de/Badreiniger-im-Test-Meister-Proper-Schlusslicht-4980485-0/ "Badreiniger im Test - Günstig glänzt")
 * [Fahr­radversicherungen im Vergleich: Fahr­rad und E-Bike günstig versichern](https://www.test.de/Fahrradversicherungen-Vergleich-5205101-0/ "Fahrradversicherungen im Vergleich - Fahrrad und E-Bike günstig versichern")
 * [Fonds und ETF im Vergleich: Hier finden Sie die besten Fonds für Ihr Portfolio](https://www.test.de/Fonds-im-Test-Fuenf-Punkte-fuer-die-Besten-4331006-0/ "Fonds und ETF im Vergleich - Hier finden Sie die besten Fonds für Ihr Portfolio")
 * [Nach­haltige Fonds und ETF: Warum wir grüne Fonds jetzt strenger testen](https://www.test.de/nachhaltige-fonds-etf-test-4741500-0/ "Nachhaltige Fonds und ETF - Warum wir grüne Fonds jetzt strenger testen")
 * [Wohn­gebäude­versicherung im Vergleich: Tarife teuer und oft mangelhaft – so schützen Sie Ihr Haus gut und günstig](https://www.test.de/Wohngebaeudeversicherung-Vergleich-4255878-0/ "Wohngebäudeversicherung im Vergleich - Tarife teuer und oft mangelhaft – so schützen Sie Ihr Haus gut und günstig")
-* [Tiefkühlpizza im Test: Italien für zu Hause](https://www.test.de/tiefkuehlpizza-salami-im-test-4830454-0/ "Tiefkühlpizza im Test - Italien für zu Hause")
 
 test.de entdecken
 
-* [Hacker-Angriff auf Pass­wort-Manager: Kunden­daten von LastPass gestohlen](https://www.test.de/Hacker-Angriff-auf-Passwort-Manager-Kundendaten-von-LastPass-gestohlen-5952137-0/ "Hacker-Angriff auf Passwort-Manager - Kundendaten von LastPass gestohlen")
-* [Lang­zeit­folgen von Covid-19: Riech­training wirkt bei Geruchs­verlust](https://www.test.de/Langzeitfolgen-von-Covid-19-Riechtraining-wirkt-bei-Geruchsverlust-6066247-0/ "Langzeitfolgen von Covid-19 - Riechtraining wirkt bei Geruchsverlust")
-* [Ökobilanz Kaffee­zubereitung: Lecker, aber auch ökologisch?](https://www.test.de/Oekobilanz-und-Preisvergleich-Kaffeezubereitung-6093120-0/ "Ökobilanz Kaffeezubereitung - Lecker, aber auch ökologisch?")
-* [Nicht­raucher-Apps im Test: Digital mit dem Rauchen aufhören](https://www.test.de/nichtraucher-apps-und-programme-im-test-6072606-0/ "Nichtraucher-Apps im Test - Digital mit dem Rauchen aufhören")
-* [Hoch­druck­reiniger im Test: Wer ist der beste Moos-Hammer?](https://www.test.de/Hochdruckreiniger-im-Test-Wer-ist-der-beste-Moos-Hammer-6140878-0/ "Hochdruckreiniger im Test - Wer ist der beste Moos-Hammer?")
-* [Riester-Fonds­sparpläne: Viele Riester-Verträge laufen gut – doch am Ende drohen hohe Kosten](https://www.test.de/Riester-Vertraege-Riester-Fondssparplaene-im-Rendite-Check-6044518-0/ "Riester-Fondssparpläne - Viele Riester-Verträge laufen gut – doch am Ende drohen hohe Kosten")
+* [kaizentech­limited.com: Betrügerischer Broker](https://www.test.de/kaizentechlimitedcom-Betruegerischer-Broker-6051684-0/ "kaizentechlimited.com - Betrügerischer Broker")
+* [Online-Broker: Anzeige gegen NXS Fund](https://www.test.de/Online-Broker-NXS-Fund-angezeigt-6084720-0/ "Online-Broker - Anzeige gegen NXS Fund")
+* [ETF-Sonder­heft: Fonds­liste zur Komplettierung](https://www.test.de/ETF-Sonderheft-Fondsliste-zur-Komplettierung-6065383-0/ "ETF-Sonderheft - Fondsliste zur Komplettierung")
+* [Lebens­versicherung: Höherer Garan­tiezins ab 2025](https://www.test.de/Lebensversicherung-Hoeherer-Garantiezins-ab-2025-6140352-0/ "Lebensversicherung - Höherer Garantiezins ab 2025")
+* [Endometriose: Gegen die Qual – neue Therapien lindern Beschwerden](https://www.test.de/Endometriose-neue-Therapien-lindern-Beschwerden-6091533-0/ "Endometriose - Gegen die Qual – neue Therapien lindern Beschwerden")
+* [Falsch­geld: Falsche Fuff­ziger müssen Ihnen nicht durch­gehen](https://www.test.de/Falschgeld-So-erkennen-Sie-falsche-Fuffziger-5838483-0/ "Falschgeld - Falsche Fuffziger müssen Ihnen nicht durchgehen")
 
 Service Stiftung Warentest
 
