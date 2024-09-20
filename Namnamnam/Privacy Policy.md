@@ -50,7 +50,9 @@ Søk  Søk
 * [Alle oppskrifter](https://namnamnam.no/oppskrifter/)
 * [Om oss](https://namnamnam.no/om-oss/)
 
-[![](https://namnamnam.no/wp-content/uploads/2021/01/5-Mouth_wordmark_circle_white.png.webp)](https://www.namnamnam.no/?redirect_to=random&cat=11)
+[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20602%20602'%3E%3C/svg%3E)
+
+![](https://namnamnam.no/wp-content/uploads/2021/01/5-Mouth_wordmark_circle_white.png.webp)](https://www.namnamnam.no/?redirect_to=random&cat=11)
 
 ### [Ubesluttsom?](https://www.namnamnam.no/?redirect_to=random&cat=11)
 
