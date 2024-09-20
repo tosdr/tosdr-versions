@@ -172,7 +172,7 @@ Unless you clear these cookies from your browser, we may use this information to
 * Detect and defend against fraud and other risks to protect users and partners
 * Improve our products
 
-Controlling cookies. Most browsers allow you to control and erase cookies through their settings preferences. However, if you limit the ability of websites to set cookies, you may worsen your overall user experience, since it will no longer be personalized to you. Additionally, some features may work improperly or not at all. It may also stop you from saving customized settings. You also have the right to opt-out of online tracking based targeted advertising (e.g., cookies) by clicking the link in the footer of this website. 
+Controlling cookies. Most browsers allow you to control and erase cookies through their settings preferences. However, if you limit the ability of websites to set cookies, you may worsen your overall user experience, since it will no longer be personalized to you. Additionally, some features may work improperly or not at all. It may also stop you from saving customized settings. You also have the right to opt-out of online tracking based targeted advertising (e.g., cookies) by clicking the link "Do Not Sell My information" in the footer of this website. 
 
 ### **Sharing Of Information.**
 
@@ -240,9 +240,9 @@ If you have any questions, comments, or complaints concerning our privacy practi
 Mailing Address:  
 3 Day Blinds  
 Attention: Privacy Policy Manager  
-1 Blue Hill Plaza  
-P.O. Box 1569  
-Pearl River, NY 10965
+55 West 46th Street  
+27th Floor  
+New York, NY 10036
 
 If you would like to request access or deletion of your data please use our Request Portal by clicking on the link below or you may call us at:  
 Link to Request Portal: [Click Here](https://hdug.exterro.net/portal/dsar.htm?target=3_Day_Blinds)  
