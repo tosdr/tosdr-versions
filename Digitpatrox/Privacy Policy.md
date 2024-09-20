@@ -20,16 +20,16 @@ Friday, September 20 2024
 
 Latest
 
-* [Best and Worst of Trader Joe’s Pumpkin Spice Foods and Other Fall Items](https://digitpatrox.com/best-and-worst-of-trader-joes-pumpkin-spice-foods-and-other-fall-items/)
-* [Microsoft Edge Will Warn You About Slow Extensions](https://digitpatrox.com/microsoft-edge-will-warn-you-about-slow-extensions/)
-* [Expands Sources, Adds Audio Features](https://digitpatrox.com/expands-sources-adds-audio-features/)
-* [Why your new mattress is sagging after one month and how to fix it](https://digitpatrox.com/why-your-new-mattress-is-sagging-after-one-month-and-how-to-fix-it/)
-* [Netflix adds Civilization 6 and Street Fighter 4 to its games lineup](https://digitpatrox.com/netflix-adds-civilization-6-and-street-fighter-4-to-its-games-lineup/)
-* [Arcane Season 2 Will Be Released in Three Parts, Netflix Confirms](https://digitpatrox.com/arcane-season-2-will-be-released-in-three-parts-netflix-confirms/)
-* [How hackers are using legitimate tools to distribute phishing links](https://digitpatrox.com/how-hackers-are-using-legitimate-tools-to-distribute-phishing-links/)
-* [IBM has reportedly laid off thousands – Computerworld](https://digitpatrox.com/ibm-has-reportedly-laid-off-thousands-computerworld/)
-* [You Can Get a 3-Month Xbox Game Pass Membership for $37 Right Now](https://digitpatrox.com/you-can-get-a-3-month-xbox-game-pass-membership-for-37-right-now/)
-* [Most and Least Reliable Vacuum Cleaners](https://digitpatrox.com/most-and-least-reliable-vacuum-cleaners/)
+* [Apple embraced Meta’s vision (and Meta embraced Apple’s) – Computerworld](https://digitpatrox.com/apple-embraced-metas-vision-and-meta-embraced-apples-computerworld/)
+* [You Can Get a Sam’s Club Memberships on Sale for $15 Right Now](https://digitpatrox.com/you-can-get-a-sams-club-memberships-on-sale-for-15-right-now/)
+* [How to get a Scottish IP address with a VPN](https://digitpatrox.com/how-to-get-a-scottish-ip-address-with-a-vpn/)
+* [How to Reset a Smoke Alarm That Won’t Stop](https://digitpatrox.com/how-to-reset-a-smoke-alarm-that-wont-stop/)
+* [I’m Ditching my Apple Watch Ultra 2 for a Series 10, Here’s Why](https://digitpatrox.com/im-ditching-my-apple-watch-ultra-2-for-a-series-10-heres-why/)
+* [Salesforce may have had its ‘ChatGPT moment’ with AI agents – and it will take a lot to knock the company off its perch](https://digitpatrox.com/salesforce-may-have-had-its-chatgpt-moment-with-ai-agents-and-it-will-take-a-lot-to-knock-the-company-off-its-perch/)
+* [PDF Editing Magic for Just $50](https://digitpatrox.com/pdf-editing-magic-for-just-50/)
+* [What is Nord’s Identity Theft Insurance?](https://digitpatrox.com/what-is-nords-identity-theft-insurance/)
+* [Up close with Sony’s PS5 Pro — and the 30th Anniversary model](https://digitpatrox.com/up-close-with-sonys-ps5-pro-and-the-30th-anniversary-model/)
+* [Transformers One Post-Credits Scene Explained](https://digitpatrox.com/transformers-one-post-credits-scene-explained/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,35 +171,35 @@ Popular Posts
     August 21, 2024
     
 
-* [![](https://article.images.consumerreports.org/image/upload/t_article_tout/v1663847711/prod/content/dam/CRO-Images-2022/Audience-Growth/09September/CR-AG-InlineHero-Trader-Joes-Fall-09-22)](https://digitpatrox.com/best-and-worst-of-trader-joes-pumpkin-spice-foods-and-other-fall-items/)
+* [![](https://www.computerworld.com/wp-content/uploads/2024/09/3523752-0-54854600-1726826679-shutterstock_1964316664.jpg?quality=50&strip=all&w=1024)](https://digitpatrox.com/apple-embraced-metas-vision-and-meta-embraced-apples-computerworld/)
     
-    [Best and Worst of Trader Joe’s Pumpkin Spice Foods and Other Fall Items](https://digitpatrox.com/best-and-worst-of-trader-joes-pumpkin-spice-foods-and-other-fall-items/)
+    [Apple embraced Meta’s vision (and Meta embraced Apple’s) – Computerworld](https://digitpatrox.com/apple-embraced-metas-vision-and-meta-embraced-apples-computerworld/)
     
-    11 mins ago
+    3 seconds ago
     
-* [![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/edge.jpg)](https://digitpatrox.com/microsoft-edge-will-warn-you-about-slow-extensions/)
+* [![](https://lifehacker.com/imagery/articles/01HF2HDZM8HW3FQW65ZP2XCP1C/hero-image.fill.size_1200x675.png)](https://digitpatrox.com/you-can-get-a-sams-club-memberships-on-sale-for-15-right-now/)
     
-    [Microsoft Edge Will Warn You About Slow Extensions](https://digitpatrox.com/microsoft-edge-will-warn-you-about-slow-extensions/)
+    [You Can Get a Sam’s Club Memberships on Sale for $15 Right Now](https://digitpatrox.com/you-can-get-a-sams-club-memberships-on-sale-for-15-right-now/)
     
-    12 mins ago
+    25 mins ago
     
-* [![](https://assets.techrepublic.com/uploads/2024/09/tr_20240919-google-notebooklm-expands-sources-citations.jpg)](https://digitpatrox.com/expands-sources-adds-audio-features/)
+* [![](https://cdn.comparitech.com/wp-content/uploads/2024/09/How-to-get-a-Scottish-IP-address.jpg)](https://digitpatrox.com/how-to-get-a-scottish-ip-address-with-a-vpn/)
     
-    [Expands Sources, Adds Audio Features](https://digitpatrox.com/expands-sources-adds-audio-features/)
+    [How to get a Scottish IP address with a VPN](https://digitpatrox.com/how-to-get-a-scottish-ip-address-with-a-vpn/)
     
-    1 hour ago
+    36 mins ago
     
-* [![](https://cdn.mos.cms.futurecdn.net/oq8pkRrZheECgv3wfiKFKW-1200-80.jpg)](https://digitpatrox.com/why-your-new-mattress-is-sagging-after-one-month-and-how-to-fix-it/)
+* [![](https://article.images.consumerreports.org/image/upload/t_article_tout/v1623683298/prod/content/dam/CRO-Images-2021/Home/06June/CR-Home-Inlinehero-how-to-reset-a-fire-alarm-0621)](https://digitpatrox.com/how-to-reset-a-smoke-alarm-that-wont-stop/)
     
-    [Why your new mattress is sagging after one month and how to fix it](https://digitpatrox.com/why-your-new-mattress-is-sagging-after-one-month-and-how-to-fix-it/)
+    [How to Reset a Smoke Alarm That Won’t Stop](https://digitpatrox.com/how-to-reset-a-smoke-alarm-that-wont-stop/)
     
-    1 hour ago
+    58 mins ago
     
-* [![](https://cdn.vox-cdn.com/thumbor/FiKtPaBd70lsc7Vc3ITjg4hB8Gw=/0x0:644x362/1200x628/filters:focal(435x203:436x204)/cdn.vox-cdn.com/uploads/chorus_asset/file/25629979/Civ6_Caesar_embed.jpeg)](https://digitpatrox.com/netflix-adds-civilization-6-and-street-fighter-4-to-its-games-lineup/)
+* [![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/09/a-woman-running-with-an-apple-watch-series-10-in-the-background-1.jpg)](https://digitpatrox.com/im-ditching-my-apple-watch-ultra-2-for-a-series-10-heres-why/)
     
-    [Netflix adds Civilization 6 and Street Fighter 4 to its games lineup](https://digitpatrox.com/netflix-adds-civilization-6-and-street-fighter-4-to-its-games-lineup/)
+    [I’m Ditching my Apple Watch Ultra 2 for a Series 10, Here’s Why](https://digitpatrox.com/im-ditching-my-apple-watch-ultra-2-for-a-series-10-heres-why/)
     
-    2 hours ago
+    59 mins ago
     
 
 ![](https://digitpatrox.com/wp-content/uploads/2023/12/Digitpatrox-NEW-Logo-White.png)
@@ -208,51 +208,51 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [11 mins ago
+* [3 seconds ago
     
-    ### Best and Worst of Trader Joe’s Pumpkin Spice Foods and Other Fall Items](https://digitpatrox.com/best-and-worst-of-trader-joes-pumpkin-spice-foods-and-other-fall-items/)
-* [12 mins ago
+    ### Apple embraced Meta’s vision (and Meta embraced Apple’s) – Computerworld](https://digitpatrox.com/apple-embraced-metas-vision-and-meta-embraced-apples-computerworld/)
+* [25 mins ago
     
-    ### Microsoft Edge Will Warn You About Slow Extensions](https://digitpatrox.com/microsoft-edge-will-warn-you-about-slow-extensions/)
-* [1 hour ago
+    ### You Can Get a Sam’s Club Memberships on Sale for $15 Right Now](https://digitpatrox.com/you-can-get-a-sams-club-memberships-on-sale-for-15-right-now/)
+* [36 mins ago
     
-    ### Expands Sources, Adds Audio Features](https://digitpatrox.com/expands-sources-adds-audio-features/)
+    ### How to get a Scottish IP address with a VPN](https://digitpatrox.com/how-to-get-a-scottish-ip-address-with-a-vpn/)
 
 Most Popular Topics
 
 * [2 weeks ago
     
-    ### European semiconductor group urges accelerated support and policy overhaul – Computerworld](https://digitpatrox.com/european-semiconductor-group-urges-accelerated-support-and-policy-overhaul-computerworld/)
-* [4 weeks ago
+    ### How to install Google Gemini as an app on Windows 11, 10](https://digitpatrox.com/how-to-install-google-gemini-as-an-app-on-windows-11-10/)
+* [August 18, 2024
     
-    ### Leonardo review | Tom’s Guide](https://digitpatrox.com/leonardo-review-toms-guide/)
-* [2 weeks ago
+    ### A Googler’s guide to getting things done](https://digitpatrox.com/a-googlers-guide-to-getting-things-done/)
+* [3 weeks ago
     
-    ### Dyson WashG1 wet floor cleaner review: the best washer vacuum for hard floors](https://digitpatrox.com/dyson-washg1-wet-floor-cleaner-review-the-best-washer-vacuum-for-hard-floors/)
+    ### Boeing’s Starliner started making a repeating ‘pulsing’ sound yesterday](https://digitpatrox.com/boeings-starliner-started-making-a-repeating-pulsing-sound-yesterday/)
 
 Last Modified Topics
 
-* [4 hours ago
+* [2 hours ago
     
-    ### How hackers are using legitimate tools to distribute phishing links](https://digitpatrox.com/how-hackers-are-using-legitimate-tools-to-distribute-phishing-links/)
-* [4 hours ago
+    ### PDF Editing Magic for Just $50](https://digitpatrox.com/pdf-editing-magic-for-just-50/)
+* [2 hours ago
     
-    ### IBM has reportedly laid off thousands – Computerworld](https://digitpatrox.com/ibm-has-reportedly-laid-off-thousands-computerworld/)
-* [5 hours ago
+    ### What is Nord’s Identity Theft Insurance?](https://digitpatrox.com/what-is-nords-identity-theft-insurance/)
+* [3 hours ago
     
-    ### You Can Get a 3-Month Xbox Game Pass Membership for $37 Right Now](https://digitpatrox.com/you-can-get-a-3-month-xbox-game-pass-membership-for-37-right-now/)
+    ### Up close with Sony’s PS5 Pro — and the 30th Anniversary model](https://digitpatrox.com/up-close-with-sonys-ps5-pro-and-the-30th-anniversary-model/)
 
 Most Viewed Topics
 
-* [August 12, 2024
-    
-    ### How to enable Do Not Track on your web browser for Windows](https://digitpatrox.com/how-to-enable-do-not-track-on-your-web-browser-for-windows/)
-* [3 weeks ago
-    
-    ### Getting Your iPhone Repaired Could Ban You From Snapchat](https://digitpatrox.com/getting-your-iphone-repaired-could-ban-you-from-snapchat/)
-* [4 weeks ago
+* [August 21, 2024
     
     ### Wordle Answer for Today, August 21, 2024](https://digitpatrox.com/wordle-answer-for-today-august-21-2024/)
+* [August 11, 2024
+    
+    ### US citizen charged with aiding North Korean hackers moonlighting as tech workers](https://digitpatrox.com/us-citizen-charged-with-aiding-north-korean-hackers-moonlighting-as-tech-workers/)
+* [August 12, 2024
+    
+    ### Texas Board of Physical Therapy Examiners breached, SSNs and other info compromised](https://digitpatrox.com/texas-board-of-physical-therapy-examiners-breached-ssns-and-other-info-compromised/)
 
 © Copyright 2018 - 2024, All Rights Reserved
 
