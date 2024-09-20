@@ -14,6 +14,7 @@ Log In
 [Frequently Asked Questions
 --------------------------](https://www.ajc.com/frequently-asked-questions)
 
+* [A.M. ATL Newsletter](https://www.ajc.com/news/am-atl-going-rogue-on-medical-marijuana/3JVUEQ2HRVCZXD3L27C6Z5TUJA/)
 * [Weekend Things to Do](https://www.ajc.com/things-to-do/things-to-do-in-atlanta-this-weekend-sept-20-22/JRRVFRDW6ZA6TFL4TIFEC6YUGY/)
 * [Georgia School Shooting](https://www.ajc.com/news/georgia-school-shooting/)
 * [UATL](https://www.ajc.com/uatl/)
