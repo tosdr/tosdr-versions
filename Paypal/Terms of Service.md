@@ -1157,7 +1157,8 @@ Any personal data you collect in connection with the PayPal services (and not ot
 * [Help](https://www.paypal.com/us/cshelp/personal)
 * [Contact](https://www.paypal.com/us/smarthelp/contact-us)
 * [Fees](https://www.paypal.com/us/webapps/mpp/paypal-fees)
-* [Security](https://www.paypal.com/us/security)
+* [Security Center](https://www.paypal.com/us/security)
+* [Privacy Center](https://www.paypal.com/us/privacy-center/home)
 * [Shop](https://www.paypal.com/us/webapps/mpp/shopping-selection)
 * [Apps](https://www.paypal.com/us/digital-wallet/mobile-apps)
 * [Enterprise](https://www.paypal.com/us/enterprise)
@@ -1175,7 +1176,7 @@ Any personal data you collect in connection with the PayPal services (and not ot
 
 * © 1999–2024
 * [Accessibility](https://www.paypal.com/us/webapps/mpp/accessibility)
-* [Privacy](https://www.paypal.com/myaccount/privacy/privacyhub)
+* [Privacy Statement](https://www.paypal.com/us/legalhub/privacy-full)
 * [Cookies](https://www.paypal.com/myaccount/privacy/cookiePrefs)
 * [Legal](https://www.paypal.com/us/legalhub/home)
 
