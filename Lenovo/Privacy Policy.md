@@ -438,7 +438,10 @@ Hamburger Menu
 
 * [Business](https://www.lenovo.com/us/en/business/benefits/)
     
-    * [Lenovo Pro for Business](https://account.lenovo.com/us/lenovopro/en/smbaccount/gatekeeper/showpage) [Business Store Benefits](https://www.lenovo.com/us/en/business/benefits/) [Small Business](https://www.lenovo.com/us/en/business/small-business-benefits/) [Medium Business](https://www.lenovo.com/us/en/business/medium-business-benefits/) [Partners](https://www.lenovo.com/us/en/business/reseller-benefits/) [Business Community](https://smbcommunity.lenovo.com/us/)
+    * [Lenovo Pro for Business](https://account.lenovo.com/us/lenovopro/en/smbaccount/gatekeeper/showpage) [Business Store Benefits](https://www.lenovo.com/us/en/business/benefits/) [Lenovo for Startups](https://www.lenovo.com/us/en/startups/) [Small Business](https://www.lenovo.com/us/en/business/small-business-benefits/) [Medium Business](https://www.lenovo.com/us/en/business/medium-business-benefits/) [Partners](https://www.lenovo.com/us/en/business/reseller-benefits/)
+    * Explore
+        
+        [AI Laptops](https://www.lenovo.com/us/en/business/ai-laptops/) [Windows 11 Pro](https://www.lenovo.com/us/en/business/windows-11/) [Small Business Solutions](https://www.lenovo.com/us/en/solutions-for-smb/) [Legion PC's for Business](https://www.lenovo.com/us/en/gaming-and-work-laptops/) [Business Community](https://smbcommunity.lenovo.com/)
     
 * [Student](https://www.lenovo.com/us/en/student/)
     
