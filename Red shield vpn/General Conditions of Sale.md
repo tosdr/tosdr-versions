@@ -100,7 +100,7 @@ En
     * [Bug Bounty](https://redshieldvpn.com/en/help/description/bb)
     * [Warrant Canary](https://redshieldvpn.com/en/help/description/warrant_canary)
     * [Terms of Service](https://redshieldvpn.com/en/help/description/tos)
-    * [Refund Policy](https://redshieldvpn.com/en/help/description/rp)
+    * [Refund Policy - Red Shield VPN subscription and Gift Codes.](https://redshieldvpn.com/en/help/description/rp)
     * [Privacy Policy](https://redshieldvpn.com/en/help/description/pp)
     * [Auto-renewal Terms](https://redshieldvpn.com/en/help/description/art)
     
@@ -113,49 +113,55 @@ En
     * [Kill Switch](https://redshieldvpn.com/en/help/features/killswitch)
     
 
-Refund Policy
--------------
+Refund Policy - Red Shield VPN subscription and Gift Codes.
+-----------------------------------------------------------
 
-**Updated October 24, 2023**
+**Updated September 20, 2024**  
 
-### In brief
-
-If you paid for a subscription **using a bank card** and requested a refund **no later than 14 days** after the **first payment**, providing the number of the card with which the subscription was paid, we will refund the funds excluding the costs of accepting the payment and returning the payment.
-
-You can send a request for a refund in the "Support" section of the application or send an email to [contact@redshieldvpn.com](mailto:contact@redshieldvpn.com).  
-In the request, send us the full number of the card with which the subscription was paid.
-
-###   
-Glossary
-
-_Fees –_ the sum of any charges, costs and expenses related to refund, including without limitation any currency exchange related costs.  
-_Gift card_ – one of the ways to subscribe to Red Shield VPN using gift coupon, which may be transferred to any user.  
-_Money-back Guarantee_ – guarantee period for full refund regardless of the reason.  
-_Resellers_ – intermediary internet platforms through which it is also possible to purchase subscription to Red Shield VPN.  
-_Red Shield VPN_ – VPN service provider. Hereinafter also ‘we’, ‘our’ _Services_ – virtual private network (VPN) services.  
-_Subscriber_ – the user, who purchased subscription to Red Shield VPN or Gift card.  
-Subscription - the ability to use Red Shield VPN services for a paid period.
-
-### **Terms of refund - Red Shield VPN subscription.**
-
-1. Only payments made by bank card can be refunded.  
-    To avoid violating anti-money laundering laws, refunds of payments in cryptocurrency or cash are not possible at all.
+1. Refunds are not guaranteed, even if all conditions listed in this document are met.  
+    Refund requests may be rejected without any explanation.  
     
-2. Refunds are only possible upon request no later than 14 days after first payment.
+2. Since the refund depends on many factors and actions of third parties, such as a request from the payment system to the bank, a request from the bank to the payment system that issued your card and many others, the refund is not guaranteed even if the refund request is approved.  
     
-3. Only the first payment on an account and / or with the same bank card, regardless of the account, can be refunded.
+3. Refunds are made minus all service costs for accepting funds and refund.  
     
-4. Refunds will be made less all processing fees for the incoming Subscription payment and refund costs.
+4. Refunds for payments made via the AppStore are made in accordance with the AppStore rules.  
+    To refund, you must contact the AppStore.  
+    Refunds for payments made via the AppStore are not guaranteed.  
     
-5. Refunds are only possible to the same card from which the subscription was paid.
+5. Gift Codes ("Gift a VPN" sections in apps and Personal Area - [my.redshieldvpn.com](http://my.redshieldvpn.com/)) are non-refundable at all.  
     
-6. A payment that was made in an iOS app via Apple in-app payments can only be refunded through a request to Apple.  
-    Follow [Apple’s instructions](https://support.apple.com/ru-ru/HT204084) on how to request a refund.
+6. If you want to create a refund request, you must meet all the conditions:  
+      
+    6.1. The reason for the refund is the inability to connect to the service using Red Shield VPN apps and browser extensions.  
+    Refunds will not be issued for any other reasons, including connection issues or inability to connect when using other devices or software.  
+      
+    6.2. The reason for the inability to connect is a problem with the Red Shield VPN software.  
+    If such a reason for the inability to connect is your ISP or another ISP in the chain, government restrictions, other software (including antiviruses, firewalls, etc) on your device and any other third parties and software, a refund is not possible.  
+      
+    6.3. When using the service, you transferred and received a total of less than 5 gigabytes of data.  
+    The calculation of the traffic spent is made by the service.  
+      
+    6.4. You contacted Red Shield VPN support via email [contact@redshieldvpn.com](mailto:contact@redshieldvpn.com) or via the "Support" section in the application (if available), and after following all the recommendations from support, we were unable to help you within 5 days.  
+      
+    6.5. Only payments made by bank card can be refunded. Refunds of cryptocurrency payments are not possible at all.  
+      
+    6.6 Refunds are only possible upon request no later than 14 days after first payment.  
+      
+    6.7. Refunds are only possible if the account has one payment.  
+      
+    6.8. The card from which the payment was made, the refund of which was requested, was used to pay for the service subscription only once (regardless of the account).  
     
-
-### **Terms of refund - Gift card.**
-
-Refunds for Gift cards are not possible at all.
+7. If you would like to request a refund, you must send a request to [contact@redshieldvpn.com](mailto:contact@redshieldvpn.com) or via the Support section in the app (if available).  
+    The request must be sent from an email that matches your Red Shield VPN account name.  
+    It must include **all of the following information**:  
+      
+    7.1. Reason for refund.  
+      
+    7.2. The full number of the card used to pay for the subscription.  
+    
+8. Refund requests are processed within 30 days. If your request is approved, you will receive a message about it and the time frame in which you will receive your refund.
+    
 
 ###### Red Shield VPN
 
