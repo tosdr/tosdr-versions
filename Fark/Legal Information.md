@@ -228,11 +228,13 @@ It's Not News, It's Fark
 
 [Report](https://www.fark.com/farkback/)
 
-Can't get enough Fark in your life? Try
+If you like these links, you'll love
 
 ![TotalFark](https://img.fark.net/images/2017/site/totalfark_logo_2017.png)
 
-More threads. More community. More Farking.
+Total access  
+Total knowledge  
+Total Fark
 
 [learn more](https://www.fark.com/farq/about/#What_is_TotalFark) | [sign up](https://www.fark.com/totalfarksignup)
 
@@ -332,16 +334,16 @@ Also on Fark
 
 |     |     |
 | --- | --- |
-| [Main](https://www.fark.com/) | ["You can visualize, as he is coming forward, the bridge is collapsing behind him." You can visualize, as his lawsuit gets filed, the owner and manager of the Dali collapsing](https://www.fark.com/goto/13400050) ( [wtop.com](https://www.fark.com/goto/13400050) ) » [(0 comments)](https://www.fark.com/comments/13400050/You-can-visualize-as-he-is-coming-forward-bridge-is-collapsing-behind-him-You-can-visualize-as-his-lawsuit-gets-filed-owner-manager-of-Dali-collapsing) |
-| [Discussion](https://www.fark.com/discussion/) | [Are you suffering from gramnesia?](https://www.fark.com/goto/13399542) ( [huffpost.com](https://www.fark.com/goto/13399542) ) » [(6 comments)](https://www.fark.com/comments/13399542/Are-you-suffering-from-gramnesia) |
-| [Sports](https://www.fark.com/sports/) | [Look ma No Pads](https://www.fark.com/goto/13399946) ( [youtube.com](https://www.fark.com/goto/13399946) ) » [(0 comments)](https://www.fark.com/comments/13399946/Look-ma-No-Pads) |
-| [Business](https://www.fark.com/business/) | [He founded GM, made Buick a success, invented the car dealer franchise system, and died flat broke](https://www.fark.com/goto/13399512) ( [jalopnik.com](https://www.fark.com/goto/13399512) ) » [(0 comments)](https://www.fark.com/comments/13399512/He-founded-GM-made-Buick-a-success-invented-car-dealer-franchise-system-died-flat-broke) |
-| [STEM](https://www.fark.com/stem/) | [The AC-130 is keeping its airborne Howitzer. Ghostrider, the pattern is destroyed](https://www.fark.com/goto/13399786) ( [yahoo.com](https://www.fark.com/goto/13399786) ) » [(0 comments)](https://www.fark.com/comments/13399786/The-AC-130-is-keeping-its-airborne-Howitzer-Ghostrider-pattern-is-destroyed) |
-| [Entertainment](https://www.fark.com/entertainment/) | [Thanks to one terrible mistake, "The Golden Bachelorette" is now ruined. RUINED FOREVER](https://www.fark.com/goto/13399584) ( [slate.com](https://www.fark.com/goto/13399584) ) » [(1 comment)](https://www.fark.com/comments/13399584/Thanks-to-one-terrible-mistake-The-Golden-Bachelorette-is-now-ruined-RUINED-FOREVER) |
-| [Fandom](https://www.fark.com/fandom/) | [Activision, clearly the greediest game company in his--Bethesda: hold my Nuka Cola. I'm taking your caps. All of them](https://www.fark.com/goto/13399480) ( [windowscentral.com](https://www.fark.com/goto/13399480) ) » [(3 comments)](https://www.fark.com/comments/13399480/Activision-clearly-greediest-game-company-in-his-Bethesda-hold-my-Nuka-Cola-Im-taking-your-caps-All-of-them) |
-| [D'awww](https://www.fark.com/dawww/) | [There's enough cat cafes, so let's have a dog cafe in Paris called Le Bone Appart](https://www.fark.com/goto/13399914) ( [aol.com](https://www.fark.com/goto/13399914) ) » [(0 comments)](https://www.fark.com/comments/13399914/Theres-enough-cat-cafes-so-lets-have-a-dog-cafe-in-Paris-called-Le-Bone-Appart) |
-| [Food](https://www.fark.com/food/) | [M&M's unveils a new peanut butter and jelly flavor. Given the color of peanut butter, there will always be brown ones much to Van Halen's chagrin](https://www.fark.com/goto/13399728) ( [yahoo.com](https://www.fark.com/goto/13399728) ) » [(24 comments)](https://www.fark.com/comments/13399728/MMs-unveils-a-new-peanut-butter-jelly-flavor-Given-color-of-peanut-butter-there-will-always-be-brown-ones-much-to-Van-Halens-chagrin) |
-| [Politics](https://www.fark.com/politics/) | [Pop quiz: Who am I referring to? "Thought he couldn't get worse? You'd be wrong"](https://www.fark.com/goto/13399750) ( [yahoo.com](https://www.fark.com/goto/13399750) ) » [(4 comments)](https://www.fark.com/comments/13399750/Pop-quiz-Who-am-I-referring-to-Thought-he-couldnt-get-worse-Youd-be-wrong) |
+| [Main](https://www.fark.com/) | [Gang rape victim gets to ask her own questions in court. "What are these men? Are they degenerates? They have committed rapes"](https://www.fark.com/goto/13400028) ( [independent.co.uk](https://www.fark.com/goto/13400028) ) » [(7 comments)](https://www.fark.com/comments/13400028/Gang-rape-victim-gets-to-ask-her-own-questions-in-court-What-are-these-men-Are-they-degenerates-They-have-committed-rapes) |
+| [Discussion](https://www.fark.com/discussion/) | [Are you suffering from gramnesia?](https://www.fark.com/goto/13399542) ( [huffpost.com](https://www.fark.com/goto/13399542) ) » [(13 comments)](https://www.fark.com/comments/13399542/Are-you-suffering-from-gramnesia) |
+| [Sports](https://www.fark.com/sports/) | [Derek Carr fined for acting like a pedophile](https://www.fark.com/goto/13399996) ( [espn.com](https://www.fark.com/goto/13399996) ) » [(11 comments)](https://www.fark.com/comments/13399996/Derek-Carr-fined-for-acting-like-a-pedophile) |
+| [Business](https://www.fark.com/business/) | [European August car sales were the lowest in 3 years, with German EV sales down a not so nice 69%](https://www.fark.com/goto/13400082) ( [msn.com](https://www.fark.com/goto/13400082) ) » [(1 comment)](https://www.fark.com/comments/13400082/European-August-car-sales-were-lowest-in-3-years-with-German-EV-sales-down-a-not-so-nice-69) |
+| [STEM](https://www.fark.com/stem/) | [That's no moon](https://www.fark.com/goto/13400154) ( [yahoo.com](https://www.fark.com/goto/13400154) ) » [(4 comments)](https://www.fark.com/comments/13400154/Thats-no-moon) |
+| [Entertainment](https://www.fark.com/entertainment/) | [JD Souther, songwriter for the Eagles and Linda Ronstadt, has penned his last verse](https://www.fark.com/goto/13400092) ( [deadline.com](https://www.fark.com/goto/13400092) ) » [(4 comments)](https://www.fark.com/comments/13400092/JD-Souther-songwriter-for-Eagles-Linda-Ronstadt-has-penned-his-last-verse) |
+| [Fandom](https://www.fark.com/fandom/) | [Famously unkillable comic book character who was the protagonist of one of the biggest movies of the year is permanently killed off, for realsies, we swear](https://www.fark.com/goto/13400150) ( [gamingbible.com](https://www.fark.com/goto/13400150) ) » [(2 comments)](https://www.fark.com/comments/13400150/Famously-unkillable-comic-book-character-who-was-protagonist-of-one-of-biggest-movies-of-year-is-permanently-killed-off-for-realsies-we-swear) |
+| [D'awww](https://www.fark.com/dawww/) | [Fark mascots cause train cancellation. That's nuts](https://www.fark.com/goto/13400078) ( [itv.com](https://www.fark.com/goto/13400078) ) » [(0 comments)](https://www.fark.com/comments/13400078/Fark-mascots-cause-train-cancellation-Thats-nuts) |
+| [Food](https://www.fark.com/food/) | [The latest, dumb thing that the Internet is trying to popularize? Viral sardine fasts](https://www.fark.com/goto/13400120) ( [slate.com](https://www.fark.com/goto/13400120) ) » [(4 comments)](https://www.fark.com/comments/13400120/The-latest-dumb-thing-that-Internet-is-trying-to-popularize-Viral-sardine-fasts) |
+| [Politics](https://www.fark.com/politics/) | [The right can't troll](https://www.fark.com/goto/13400284) ( [politico.com](https://www.fark.com/goto/13400284) ) » [(15 comments)](https://www.fark.com/comments/13400284/The-right-cant-troll) |
 
 * Fark :: [Main](https://www.fark.com/) | [Discussion](https://www.fark.com/discussion/) | [Sports](https://www.fark.com/sports/) | [Business](https://www.fark.com/business/) | [STEM](https://www.fark.com/stem/) | [Entertainment](https://www.fark.com/entertainment/) | [Fandom](https://www.fark.com/fandom/) | [D'awww](https://www.fark.com/dawww/) | [Food](https://www.fark.com/food/) | [Politics](https://www.fark.com/politics/)
 * Total Fark :: [TotalFark](https://total.fark.com/) | [TF Live](https://total.fark.com/live/) | [TF Advice](https://total.fark.com/advice/) | [TF Discussion](https://total.fark.com/tfdiscussion/) | [Commented](https://total.fark.com/commented/) | [Top Voted](https://total.fark.com/linkvote/) | [Greenlit](https://total.fark.com/greenlit/)
@@ -351,7 +353,7 @@ Also on Fark
 
 [Submit a Link »](https://www.fark.com/submit/)
 
-Copyright © 1999 - 2024 Fark, Inc | Last updated: Sep 20 2024 02:43:12  
+Copyright © 1999 - 2024 Fark, Inc | Last updated: Sep 20 2024 08:42:56  
 [Contact Us via Farkback](https://www.fark.com/farkback)  |  [Report a bug/error msg](https://www.fark.com/farkback/error)  |  [Terms of service/legal/privacy policy](https://www.fark.com/farq/legal)  |  [Do Not Sell or Share My Personal Information](javascript:void(0))  
 ![](https://www.fark.com/ll)
 
