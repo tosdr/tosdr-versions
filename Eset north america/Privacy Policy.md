@@ -645,7 +645,7 @@ San Diego, California
 San Diego, California  
 [More contacts](https://www.eset.com/us/about/contact/)
 
-[United States (EN)](https://www.eset.com/us/contest-form/)
+[United States (EN)](https://www.eset.com/us/policy-hub/legal-information/)
 
 * * *
 
