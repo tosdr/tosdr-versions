@@ -12,6 +12,7 @@ High-Tech Sunglasses Fit Over Prescriptions!
 * [Home](https://getwraparounds.com/Home)
 * [Contact Us](https://getwraparounds.com/Contact-Us)
 * [FAQ](https://getwraparounds.com/FAQ)
+* [Wholesale](https://faire.com/direct/battlevision)
 
 Call 1-800-618-5804
 
