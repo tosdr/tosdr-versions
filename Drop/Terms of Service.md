@@ -444,7 +444,7 @@ Drop Keyboard Club
 
 Collaborate With Us
 
-[For Brands & Designers](https://drop.com/support?reason=DESIGNER_CONTACT)
+[Become an Affiliate](https://drop.com/affiliate)[For Brands & Designers](https://drop.com/support?reason=DESIGNER_CONTACT)
 
 Support
 
