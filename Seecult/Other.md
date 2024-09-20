@@ -322,11 +322,11 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 
 [Galerija umetnika](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")[](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/galerija-talenata/perspektive-art-klinike/dus-lazic/dusan-lazic.jpg?itok=esyK91XG)](http://seecult.org/galerija/galerija-umetnika/galerija-talenata/perspektive-art-klinike/dusan-lazic)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/zoran-popovic-escapism/zoran-popovic-fotografije/photos/jesadenegri-jasnatijardovic-belgrade.jpg?itok=NLQMDiad)](http://seecult.org/galerija/galerija-umetnika/zoran-popovic-escapism/zoran-popovic-fotografije-photos)
 
 [Foto galerija](http://seecult.org/galerija/foto-galerija "Foto galerija")[](http://seecult.org/galerija/foto-galerija "Foto galerija")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/dis-patch-2007/dis-kevin-w.jpg?itok=wDU23LkI)](http://seecult.org/galerija/foto-galerija/foto-arhiva/dis-patch-2007)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/sizve-banzi.jpg?itok=wZBZVXoD)](http://seecult.org/galerija/foto-galerija/foto-arhiva)
 
 * [Najčitanije](#news_1)
 * [Najnovije](#news_2)
