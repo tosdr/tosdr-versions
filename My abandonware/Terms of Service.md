@@ -85,11 +85,11 @@ Top downloads
 
 Latest releases
 
+* [Growl](https://www.myabandonware.com/game/growl-8b3)
+* [Hang-On](https://www.myabandonware.com/game/hang-on-7wz)
 * [Gyruss](https://www.myabandonware.com/game/gyruss-4vg)
 * [Night Stocker](https://www.myabandonware.com/game/night-stocker-sfc)
 * [NFL Blitz](https://www.myabandonware.com/game/nfl-blitz-sfb)
-* [New York! New York!](https://www.myabandonware.com/game/new-york-new-york-sfa)
-* [NBA Play By Play](https://www.myabandonware.com/game/nba-play-by-play-sf9)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [Facebook](https://www.facebook.com/myabandonware) or [X (Twitter)](https://x.com/myabandonware)
