@@ -401,17 +401,15 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
- [![Coyotes viscously attack woman's cat in Arlington neighborhood, video shows](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/9P-H2-ARLINGTON-COYOTE-ATTACKS_00.00.06.56.png?ve=1&tl=1)
+ [![Coyotes viciously attack woman's cat in Arlington neighborhood, video shows](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/9P-H2-ARLINGTON-COYOTE-ATTACKS_00.00.06.56.png?ve=1&tl=1)
 
- ![Coyotes viscously attack woman's cat in Arlington neighborhood, video shows](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/592/333/9P-H2-ARLINGTON-COYOTE-ATTACKS_00.00.06.56.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/arlington-coyote-attacks-house-cats-killed)
+ ![Coyotes viciously attack woman's cat in Arlington neighborhood, video shows](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/592/333/9P-H2-ARLINGTON-COYOTE-ATTACKS_00.00.06.56.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/arlington-coyote-attacks-house-cats-killed)
 
-### [Coyotes viscously attack woman's cat in Arlington neighborhood, video shows](https://www.fox4news.com/news/arlington-coyote-attacks-house-cats-killed)
+### [Coyotes viciously attack woman's cat in Arlington neighborhood, video shows](https://www.fox4news.com/news/arlington-coyote-attacks-house-cats-killed)
 
  [![LIVE: La Porte pipeline fire is out, human remains found in SUV](https://images.foxtv.com/static.fox26houston.com/www.fox26houston.com/content/uploads/2024/09/32/18/snapshot-28.jpg?ve=1&tl=1)
 
  ![LIVE: La Porte pipeline fire is out, human remains found in SUV](https://images.foxtv.com/images.foxtv.com/static.fox26houston.com/www.fox26houston.com/content/uploads/2024/09/32/18/592/333/snapshot-28.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/live-updates-suv-from-la-porte-pipeline-explosion-under-investigation)
-
-Developing
 
 ### [SUV involved in La Porte pipeline explosion yields human remains, fire extinguished, investigation intensifies](https://www.fox4news.com/news/live-updates-suv-from-la-porte-pipeline-explosion-under-investigation)
 
