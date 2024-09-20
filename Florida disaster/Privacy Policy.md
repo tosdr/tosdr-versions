@@ -78,6 +78,7 @@ Search
             * [Comprehensive Emergency Management Plan](https://www.floridadisaster.org/dem/preparedness/all-hazards/comprehensive-emergency-management-plan/)
         * [Regional Evacuation Studies](https://www.floridadisaster.org/dem/preparedness/regional-evacuation-studies/)
         * [Training and Exercise](https://www.floridadisaster.org/dem/preparedness/training-and-exercise/)
+        * [Continuity of Operations Planning](https://www.floridadisaster.org/dem/preparedness/continuity-of-operations-planning/)
     * [Recovery](https://www.floridadisaster.org/dem/recovery/)
         * [Fire Management Assistance Grant Program](https://www.floridadisaster.org/dem/recovery/fmagp/)
         * [Individual Assistance](https://www.floridadisaster.org/dem/recovery/individual-assistance/)
