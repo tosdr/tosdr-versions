@@ -97,30 +97,30 @@ Welcome! [Login](https://knowyourmeme.com/login) or [signup](https://knowyourmem
 * [Meme Insider](https://memeinsider.com/)
 * [Newsletter](https://knowyourmeme.com/newsletter)
 
-* [![Rigged Pagers Have Been Used As Explosive Devices In A Deadly Attack On Hezbollah In Lebanon](https://i.kym-cdn.com/featured_items/icons/wide/000/025/943/cover6.jpg "Rigged Pagers Have Been Used As Explosive Devices In A Deadly Attack On Hezbollah In Lebanon")
+* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/025/964/dax_flame.jpg "Where Are They Now? This Is What Internet Legend 'Dax Flame' Has Been Up To Since His Late 2000s YouTube VlogsTube")
     
-    Rigged Pagers Have Been Used As Explosive Devices In A Deadly Attack On Hezbollah In Lebanon](https://knowyourmeme.com/memes/events/2024-pager-and-radio-attacks-on-hezbollah)
+    Where Are They Now? This Is What Internet Legend 'Dax Flame' Has Been Up To Since His Late 2000s YouTube VlogsTube](https://knowyourmeme.com/editorials/guides/where-are-they-now-this-is-what-internet-legend-dax-flame-has-been-up-to-since-his-late-2000s-youtube-vlogstube)
     
-* [!['Shingles Doesn't Care': TV Vaccination Ad Meme Becomes Viral Topic After Random Voice-over Boomed At The Emmy's](https://i.kym-cdn.com/featured_items/icons/wide/000/025/942/shingles_doesn't_care_meme_cover.jpg "'Shingles Doesn't Care': TV Vaccination Ad Meme Becomes Viral Topic After Random Voice-over Boomed At The Emmy's")
+* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/025/963/Nike_Elite_Zipper_trend_explainer_cover.jpg "What Is The 'Nike Elite Zipper Trend' And Why Are People Stealing The Zippers? The Latest TikTok Trend Explained")
     
-    'Shingles Doesn't Care': TV Vaccination Ad Meme Becomes Viral Topic After Random Voice-over Boomed At The Emmy's](https://knowyourmeme.com/memes/shingles-doesnt-care)
+    What Is The 'Nike Elite Zipper Trend' And Why Are People Stealing The Zippers? The Latest TikTok Trend Explained](https://knowyourmeme.com/editorials/guides/what-is-the-nike-elite-zipper-trend-and-why-are-people-stealing-the-zippers-the-latest-tiktok-trend-explained)
     
-* [![wife wife wife wife wife wife pukes from excitement ghgwife post over image of Rakan from LoL](https://i.kym-cdn.com/featured_items/icons/wide/000/025/941/www.jpg "If You've Ever Puked From Excitement Over Seeing Your Wife, This Meme Is For You")
+* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/025/962/20240919-olivianuzzirfkjrsplit.jpg "Journalist Implies RFK Jr. and Olivia Nuzzi's 70-31 Age Gap Is Problematic, Recalling The Halcyon Days Of Twitter Hot Takes")
     
-    If You've Ever Puked From Excitement Over Seeing Your Wife, This Meme Is For You](https://knowyourmeme.com/memes/wife-wife-wife-pukes-from-excitement-ghgwife)
+    Journalist Implies RFK Jr. and Olivia Nuzzi's 70-31 Age Gap Is Problematic, Recalling The Halcyon Days Of Twitter Hot Takes](https://knowyourmeme.com/news/journalist-implies-rfk-jr-and-olivia-nuzzis-70-31-age-gap-is-problematic-recalling-the-halcyon-days-of-twitter-hot-takes)
     
-* [![too many sweats meme example](https://i.kym-cdn.com/featured_items/icons/wide/000/025/940/tms.jpg ""Too Many Sweats" Rises As A Spam Comment On TikTok And Copypasta On X")
+* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/025/961/goatcover.jpg "What Does The 'Salt Water Goat Torture' Two-Sentence Horror Story Mean? The Viral Reddit Post Explained")
     
-    "Too Many Sweats" Rises As A Spam Comment On TikTok And Copypasta On X](https://knowyourmeme.com/memes/too-many-sweats)
+    What Does The 'Salt Water Goat Torture' Two-Sentence Horror Story Mean? The Viral Reddit Post Explained](https://knowyourmeme.com/editorials/guides/what-does-the-salt-water-goat-torture-two-sentence-horror-story-mean-the-viral-reddit-post-explained)
     
-* [![The Nutter Butter TikTok Has Devolved Into Surreal Analog Horror](https://i.kym-cdn.com/featured_items/icons/wide/000/025/939/172659188172621580.jpeg "The Nutter Butter TikTok Has Devolved Into Surreal Analog Horror")
+* [![His Smile Is Very Creepy Naima Charlie Kirk Jubilee Debate meme.](https://i.kym-cdn.com/featured_items/icons/wide/000/025/960/his_smile_is_very_creepy.jpg "Charlie Kirk's Smile Scared This College Student Who Said 'His Smile Is Very Creepy'")
     
-    The Nutter Butter TikTok Has Devolved Into Surreal Analog Horror](https://knowyourmeme.com/memes/sites/nutter-butter-tiktok)
+    Charlie Kirk's Smile Scared This College Student Who Said 'His Smile Is Very Creepy'](https://knowyourmeme.com/memes/his-smile-is-very-creepy-girl)
     
 
 ##### Also Trending:
 
-[You Can't Be Punk and Also Be](https://knowyourmeme.com/memes/you-cant-be-punk-and-also-be-racist-sexist-homophobic-or-transphobic "You Can't Be Punk and Also Be") [Horse Electrolytes](https://knowyourmeme.com/memes/subcultures/horse-electrolytes "Horse Electrolytes") [Nintendo vs. Palworld Lawsuit](https://knowyourmeme.com/memes/events/nintendo-vs-palworld-lawsuit "Nintendo vs. Palworld Lawsuit")
+[You Can't Be Punk and Also Be](https://knowyourmeme.com/memes/you-cant-be-punk-and-also-be-racist-sexist-homophobic-or-transphobic "You Can't Be Punk and Also Be") [Horse Electrolytes](https://knowyourmeme.com/memes/subcultures/horse-electrolytes "Horse Electrolytes") [His Smile Is Very Creepy Girl](https://knowyourmeme.com/memes/his-smile-is-very-creepy-girl "His Smile Is Very Creepy Girl") [Nintendo vs. Palworld Lawsuit](https://knowyourmeme.com/memes/events/nintendo-vs-palworld-lawsuit "Nintendo vs. Palworld Lawsuit") [Pager and Radio Attacks on Hezbollah](https://knowyourmeme.com/memes/events/2024-pager-and-radio-attacks-on-hezbollah "Pager and Radio Attacks on Hezbollah") [Hololive](https://knowyourmeme.com/memes/subcultures/hololive "Hololive") [SocialAI](https://knowyourmeme.com/memes/sites/socialai "SocialAI")
 
 Terms of Service and Use
 ========================
@@ -261,7 +261,7 @@ If you have any questions or concerns about these Terms of Service or the Websit
 **Legal Information:** [Know Your Meme ®](https://knowyourmeme.com/) is a trademark of [Literally Media Ltd.](https://literally.media/) By using this site, you are agreeing by the site's [terms of use](https://knowyourmeme.com/terms-of-service) and [privacy policy](https://knowyourmeme.com/privacy) and [DMCA policy](https://knowyourmeme.com/dmca).  
 © 2007-2024 [Literally Media Ltd.](https://literally.media/)
 
-### Yo Yo! You must login or signup first!
+### Yo! You must login or signup first!
 
 |     |     |
 | --- | --- |
