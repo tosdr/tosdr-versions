@@ -127,7 +127,7 @@
 * [Contact](https://cloudinary.com/contact)
 * [Support](https://support.cloudinary.com/)
 * [Documentation](https://cloudinary.com/documentation)
-* [Login](https://cloudinary.com/users/login)
+* [Login](https://console.cloudinary.com/users/login)
 
 [sign up for free](https://console.cloudinary.com/users/register_free)
 
