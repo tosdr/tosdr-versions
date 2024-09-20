@@ -208,16 +208,16 @@ this hour
 
 * * *
 
-* [Genetic Tracing Supports COVID Animal Origins](https://www.sciencedaily.com/releases/2024/09/240919115136.htm)
-* [Early Dingoes Are Related to Dogs](https://www.sciencedaily.com/releases/2024/09/240918124929.htm)
-* [World's Last 'Snowball Earth' Event](https://www.sciencedaily.com/releases/2024/09/240918165736.htm)
-* [Diabetes Drug: Less Risk of Dementia, ...](https://www.sciencedaily.com/releases/2024/09/240918165739.htm)
-* [CVD Risk and Metal Exposure](https://www.sciencedaily.com/releases/2024/09/240918125039.htm)
-* [Why Petting Your Cat Leads to Static Electricity](https://www.sciencedaily.com/releases/2024/09/240918125057.htm)
-* [Homemade 'Play-Putty' as Biometric Sensor](https://www.sciencedaily.com/releases/2024/09/240918125110.htm)
-* [Magnifying Deep Space Through 'Carousel Lens'](https://www.sciencedaily.com/releases/2024/09/240918125107.htm)
-* [Gargantuan Black Hole Jets Are Biggest Yet](https://www.sciencedaily.com/releases/2024/09/240918125024.htm)
-* [Galactic Collisions](https://www.sciencedaily.com/releases/2024/09/240918125013.htm)
+* [Lake Ice Quality Degrading as Planet Warms](https://www.sciencedaily.com/releases/2024/09/240919115157.htm)
+* [Slap Fighting: Risk to Neurological Health](https://www.sciencedaily.com/releases/2024/09/240918125032.htm)
+* [Palaeolithic Cyprus: Dwarf Hippos and Elephants](https://www.sciencedaily.com/releases/2024/09/240917195402.htm)
+* [Volcanoes and Interior Heat On Jupiter Moon](https://www.sciencedaily.com/releases/2024/09/240919174819.htm)
+* [Catastrophic River Shifts Predicted](https://www.sciencedaily.com/releases/2024/09/240919174816.htm)
+* [Over Eons, Earth's Temps Change Drastically](https://www.sciencedaily.com/releases/2024/09/240919174739.htm)
+* [Organic Matter On Mars from Formaldehyde](https://www.sciencedaily.com/releases/2024/09/240919115109.htm)
+* [10,000-Year-Old Human DNA](https://www.sciencedaily.com/releases/2024/09/240919115012.htm)
+* [Breastfeeding, Microbiome, Healthy Lungs](https://www.sciencedaily.com/releases/2024/09/240919114105.htm)
+* [Why Do Songbirds Migrate? Not Energy Savings](https://www.sciencedaily.com/releases/2024/09/240918124937.htm)
 
 Trending Topics
 ---------------
@@ -230,9 +230,9 @@ this week
 
 [Chronic Illness](https://www.sciencedaily.com/news/health_medicine/chronic_illness/)
 
-[Nutrition](https://www.sciencedaily.com/news/health_medicine/nutrition/)
-
 [Obesity](https://www.sciencedaily.com/news/health_medicine/obesity/)
+
+[Nutrition](https://www.sciencedaily.com/news/health_medicine/nutrition/)
 
 [PHYSICAL & TECH](https://www.sciencedaily.com/news/top/technology/)
 
@@ -248,7 +248,7 @@ this week
 
 [Geography](https://www.sciencedaily.com/news/earth_climate/geography/)
 
-[Dogs](https://www.sciencedaily.com/news/plants_animals/dogs/)
+[Snow and Avalanches](https://www.sciencedaily.com/news/earth_climate/snow_and_avalanches/)
 
   
 
