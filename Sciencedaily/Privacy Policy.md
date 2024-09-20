@@ -209,6 +209,7 @@ this hour
 * * *
 
 * [Lake Ice Quality Degrading as Planet Warms](https://www.sciencedaily.com/releases/2024/09/240919115157.htm)
+* [Lava from Hotspots from Worldwide Reservoir](https://www.sciencedaily.com/releases/2024/09/240919115023.htm)
 * [Slap Fighting: Risk to Neurological Health](https://www.sciencedaily.com/releases/2024/09/240918125032.htm)
 * [Palaeolithic Cyprus: Dwarf Hippos and Elephants](https://www.sciencedaily.com/releases/2024/09/240917195402.htm)
 * [Volcanoes and Interior Heat On Jupiter Moon](https://www.sciencedaily.com/releases/2024/09/240919174819.htm)
@@ -217,7 +218,6 @@ this hour
 * [Organic Matter On Mars from Formaldehyde](https://www.sciencedaily.com/releases/2024/09/240919115109.htm)
 * [10,000-Year-Old Human DNA](https://www.sciencedaily.com/releases/2024/09/240919115012.htm)
 * [Breastfeeding, Microbiome, Healthy Lungs](https://www.sciencedaily.com/releases/2024/09/240919114105.htm)
-* [Why Do Songbirds Migrate? Not Energy Savings](https://www.sciencedaily.com/releases/2024/09/240918124937.htm)
 
 Trending Topics
 ---------------
@@ -236,11 +236,11 @@ this week
 
 [PHYSICAL & TECH](https://www.sciencedaily.com/news/top/technology/)
 
-[Black Holes](https://www.sciencedaily.com/news/space_time/black_holes/)
-
 [Graphene](https://www.sciencedaily.com/news/matter_energy/graphene/)
 
-[Astrophysics](https://www.sciencedaily.com/news/space_time/astrophysics/)
+[Electronics](https://www.sciencedaily.com/news/matter_energy/electronics/)
+
+[Black Holes](https://www.sciencedaily.com/news/space_time/black_holes/)
 
 [ENVIRONMENT](https://www.sciencedaily.com/news/top/environment/)
 
@@ -248,7 +248,7 @@ this week
 
 [Geography](https://www.sciencedaily.com/news/earth_climate/geography/)
 
-[Snow and Avalanches](https://www.sciencedaily.com/news/earth_climate/snow_and_avalanches/)
+[Endangered Plants](https://www.sciencedaily.com/news/plants_animals/endangered_plants/)
 
   
 
