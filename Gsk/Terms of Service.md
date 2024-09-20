@@ -251,7 +251,7 @@ Location
     * [Our social media](https://www.gsk.com/en-gb/media/social-media/)
     * [RSS feeds](https://www.gsk.com/en-gb/media/rss-feeds/)
     
-    [FEATURED SECTION Behind the science magazine ![Scientist works in a futurist vaccine laboratory for GSK](/media/11381/vaccine-manufacturing-production-line-2.jpg?mode=stretch&quality=60&width=329&height=185&bgcolor=fff)](https://www.gsk.com/en-gb/behind-the-science-magazine/)  [SPOTLIGHT ON Conferences ![Lab test equipment](/media/10155/up_10_2022_lab_023_hess_jpg.png?mode=stretch&quality=60&width=329&height=185&bgcolor=fff)](https://www.gsk.com/en-gb/media/conferences/) 
+    [Spotlight on Behind the science magazine ![Scientist works in a futurist vaccine laboratory for GSK](/media/11381/vaccine-manufacturing-production-line-2.jpg?mode=stretch&quality=60&width=329&height=185&bgcolor=fff)](https://www.gsk.com/en-gb/behind-the-science-magazine/)  [Featured section Conferences ![Lab test equipment](/media/10155/up_10_2022_lab_023_hess_jpg.png?mode=stretch&quality=60&width=329&height=185&bgcolor=fff)](https://www.gsk.com/en-gb/media/conferences/) 
     
     Close menu
     
@@ -321,7 +321,7 @@ Location
         * [Fraudulent internet recruitment activities](https://www.gsk.com/en-gb/careers/how-we-hire/fraudulent-internet-recruitment-activities/)
         
     
-    [FEATURED SECTION Outstanding people ![Angeles sitting on a sofa in a pink shirt](/media/11484/sddefault-2.jpg?mode=stretch&quality=60&width=329&height=185&bgcolor=fff)](https://www.gsk.com/en-gb/company/outstanding-people/)  [FEATURED SECTION Diversity equity and inclusion ![Lab technician smiling](/media/9346/web16-header-stvg_2_2022_port_13_hess_nav.jpg?mode=stretch&quality=60&width=329&height=185&bgcolor=fff)](https://www.gsk.com/en-gb/responsibility/diversity-equity-and-inclusion/) 
+    [Spotlight on Outstanding people ![Angeles sitting on a sofa in a pink shirt](/media/11484/sddefault-2.jpg?mode=stretch&quality=60&width=329&height=185&bgcolor=fff)](https://www.gsk.com/en-gb/company/outstanding-people/)  [Spotlight on Diversity equity and inclusion ![Lab technician smiling](/media/9346/web16-header-stvg_2_2022_port_13_hess_nav.jpg?mode=stretch&quality=60&width=329&height=185&bgcolor=fff)](https://www.gsk.com/en-gb/responsibility/diversity-equity-and-inclusion/) 
     
     Close menu
     
