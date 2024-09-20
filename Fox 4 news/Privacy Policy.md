@@ -401,35 +401,37 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
- [![Dallas police chief Eddie Garcia retiring to take job in Austin](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/7E2FCAD7220EF6E33A308454B6AC5B3B-0-1716215596232-1.jpg?ve=1&tl=1)
+ [![Coyotes viscously attack woman's cat in Arlington neighborhood, video shows](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/9P-H2-ARLINGTON-COYOTE-ATTACKS_00.00.06.56.png?ve=1&tl=1)
 
- ![Dallas police chief Eddie Garcia retiring to take job in Austin](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/592/333/7E2FCAD7220EF6E33A308454B6AC5B3B-0-1716215596232-1.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/dallas-police-chief-eddie-garcia-retiring-austin-city-manager)
+ ![Coyotes viscously attack woman's cat in Arlington neighborhood, video shows](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/592/333/9P-H2-ARLINGTON-COYOTE-ATTACKS_00.00.06.56.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/arlington-coyote-attacks-house-cats-killed)
 
-### [Dallas police chief Eddie Garcia retiring to take job in Austin](https://www.fox4news.com/news/dallas-police-chief-eddie-garcia-retiring-austin-city-manager)
+### [Coyotes viscously attack woman's cat in Arlington neighborhood, video shows](https://www.fox4news.com/news/arlington-coyote-attacks-house-cats-killed)
 
- [![18-wheeler driver charged after deadly DWI crash on Loop 820](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/091924-820-Fatal-Crash-KDFWEME003_03_44_04_mpg_00.09.14.10.jpg?ve=1&tl=1)
+ [![LIVE: La Porte pipeline fire is out, human remains found in SUV](https://images.foxtv.com/static.fox26houston.com/www.fox26houston.com/content/uploads/2024/09/32/18/snapshot-28.jpg?ve=1&tl=1)
 
- ![18-wheeler driver charged after deadly DWI crash on Loop 820](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/592/333/091924-820-Fatal-Crash-KDFWEME003_03_44_04_mpg_00.09.14.10.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/crash-820-s-loop-white-settlement)
+ ![LIVE: La Porte pipeline fire is out, human remains found in SUV](https://images.foxtv.com/images.foxtv.com/static.fox26houston.com/www.fox26houston.com/content/uploads/2024/09/32/18/592/333/snapshot-28.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/live-updates-suv-from-la-porte-pipeline-explosion-under-investigation)
 
-### [18-wheeler driver charged after deadly DWI crash on Loop 820](https://www.fox4news.com/news/crash-820-s-loop-white-settlement)
+Developing
 
- [![3-year-old girl dies in Arlington single-car crash](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/Deadly-crash.jpg?ve=1&tl=1)
+### [SUV involved in La Porte pipeline explosion yields human remains, fire extinguished, investigation intensifies](https://www.fox4news.com/news/live-updates-suv-from-la-porte-pipeline-explosion-under-investigation)
 
- ![3-year-old girl dies in Arlington single-car crash](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/592/333/Deadly-crash.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/3-year-old-girl-dies-arlington-single-car-crash)
+ [![Texas lawmakers push City of Dallas, pension fund leaders to solve problems](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/P-LORI-TEXAS-HOUSE-PENSIONS-5P_00.01.03.54.jpg?ve=1&tl=1)
 
-### [3-year-old girl dies in Arlington single-car crash](https://www.fox4news.com/news/3-year-old-girl-dies-arlington-single-car-crash)
+ ![Texas lawmakers push City of Dallas, pension fund leaders to solve problems](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/592/333/P-LORI-TEXAS-HOUSE-PENSIONS-5P_00.01.03.54.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/texas-lawmakers-push-city-dallas-solve-pension-problems)
 
- [![State Fair of Texas gun ban allowed to stand](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/08/32/18/paxton-big-tex.jpg?ve=1&tl=1)
+### [Texas lawmakers push City of Dallas, pension fund leaders to solve problems](https://www.fox4news.com/news/texas-lawmakers-push-city-dallas-solve-pension-problems)
 
- ![State Fair of Texas gun ban allowed to stand](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/08/32/18/592/333/paxton-big-tex.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/state-fair-texas-gun-ban-allowed-stand)
+ [![Texas DPS Troopers find 16 illegal immigrants inside trailer with false wall](https://images.foxtv.com/static.fox26houston.com/www.fox26houston.com/content/uploads/2024/09/32/18/vlcsnap-2024-09-19-17h09m39s109.png?ve=1&tl=1)
 
-### [State Fair of Texas gun ban allowed to stand](https://www.fox4news.com/news/state-fair-texas-gun-ban-allowed-stand)
+ ![Texas DPS Troopers find 16 illegal immigrants inside trailer with false wall](https://images.foxtv.com/images.foxtv.com/static.fox26houston.com/www.fox26houston.com/content/uploads/2024/09/32/18/592/333/vlcsnap-2024-09-19-17h09m39s109.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/texas-dps-troopers-find-16-illegal-immigrants-inside-trailer)
 
- [![You can now get verified on Uber; here's why](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/uber-getty.jpg?ve=1&tl=1)
+### [Houston man arrested after 16 illegal immigrants found in trailer](https://www.fox4news.com/news/texas-dps-troopers-find-16-illegal-immigrants-inside-trailer)
 
- ![You can now get verified on Uber; here's why](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/592/333/uber-getty.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/get-verified-uber-verification-heres-why)
+ [![Fans flocking to meet Moo Deng, the viral pigmy hippo](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/Moo-Deng.jpg?ve=1&tl=1)
 
-### [You can now get verified on Uber; here's why](https://www.fox4news.com/news/get-verified-uber-verification-heres-why)
+ ![Fans flocking to meet Moo Deng, the viral pigmy hippo](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/592/333/Moo-Deng.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/meet-moo-deng-viral-pigmy-hippo)
+
+### [Fans flocking to meet Moo Deng, the viral pigmy hippo](https://www.fox4news.com/news/meet-moo-deng-viral-pigmy-hippo)
 
 ###### [News](https://www.fox4news.com/news)
 
