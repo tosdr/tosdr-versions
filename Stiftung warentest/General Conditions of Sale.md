@@ -588,21 +588,21 @@ Weitere spannende Themen
 
 Neueste Tests
 
+* [Badreiniger im Test: Günstig glänzt](https://www.test.de/Badreiniger-im-Test-Meister-Proper-Schlusslicht-4980485-0/ "Badreiniger im Test - Günstig glänzt")
 * [Fahr­radversicherungen im Vergleich: Fahr­rad und E-Bike günstig versichern](https://www.test.de/Fahrradversicherungen-Vergleich-5205101-0/ "Fahrradversicherungen im Vergleich - Fahrrad und E-Bike günstig versichern")
 * [Fonds und ETF im Vergleich: Hier finden Sie die besten Fonds für Ihr Portfolio](https://www.test.de/Fonds-im-Test-Fuenf-Punkte-fuer-die-Besten-4331006-0/ "Fonds und ETF im Vergleich - Hier finden Sie die besten Fonds für Ihr Portfolio")
 * [Nach­haltige Fonds und ETF: Warum wir grüne Fonds jetzt strenger testen](https://www.test.de/nachhaltige-fonds-etf-test-4741500-0/ "Nachhaltige Fonds und ETF - Warum wir grüne Fonds jetzt strenger testen")
 * [Wohn­gebäude­versicherung im Vergleich: Tarife teuer und oft mangelhaft – so schützen Sie Ihr Haus gut und günstig](https://www.test.de/Wohngebaeudeversicherung-Vergleich-4255878-0/ "Wohngebäudeversicherung im Vergleich - Tarife teuer und oft mangelhaft – so schützen Sie Ihr Haus gut und günstig")
 * [Tiefkühlpizza im Test: Italien für zu Hause](https://www.test.de/tiefkuehlpizza-salami-im-test-4830454-0/ "Tiefkühlpizza im Test - Italien für zu Hause")
-* [Körperfett­waagen im Test: Einige leisten sich fette Mess­fehler](https://www.test.de/koerperfettwaage-test-4645874-0/ "Körperfettwaagen im Test - Einige leisten sich fette Messfehler")
 
 test.de entdecken
 
-* [Handy selbst reparieren: Samsungs und Apples Reparier-Sets im Selbst­versuch](https://www.test.de/Handy-selbst-reparieren-Samsungs-und-Apples-Reparier-Sets-im-Selbstversuch-6053520-0/ "Handy selbst reparieren - Samsungs und Apples Reparier-Sets im Selbstversuch")
-* [Fest­geld: Zweifelhafte Zins­angebote](https://www.test.de/Festgeld-Zweifelhafte-Zinsangebote-5964123-0/ "Festgeld - Zweifelhafte Zinsangebote")
-* [Schlank­heits­spritze: Behörde warnt vor Lemon Bottle](https://www.test.de/Schlankheitsspritze-Behoerde-warnt-vor-Lemon-Bottle-6147488-0/ "Schlankheitsspritze - Behörde warnt vor Lemon Bottle")
-* [Rohgold: Rohe Gold­klumpen als Geld­anlage?](https://www.test.de/Rohgold-Rohe-Goldklumpen-als-Geldanlage-6019655-0/ "Rohgold - Rohe Goldklumpen als Geldanlage?")
-* [Digital-Analog-Wandler (Dacs): Besserer Klang für Laptops, Tablets und Handys](https://www.test.de/Digital-Analog-Wandler-Dacs-Besserer-Klang-fuer-Laptops-Tablets-und-Handys-6148294-0/ "Digital-Analog-Wandler (Dacs) - Besserer Klang für Laptops, Tablets und Handys")
-* [49-Euro-Ticket: Günstig reisen mit dem Deutsch­land­ticket](https://www.test.de/49-Euro-Ticket-Das-muessen-Sie-wissen-5944873-0/ "49-Euro-Ticket - Günstig reisen mit dem Deutschlandticket")
+* [bel-finanz.de: Dubioses Fest­geld](https://www.test.de/bel-finanzde-Dubioses-Festgeld-6051673-0/ "bel-finanz.de - Dubioses Festgeld")
+* [Riester-Rente: Urteil lässt hoffen – Zurich darf Rente nicht kürzen](https://www.test.de/Riester-Rente-Zurich-darf-Rente-nicht-kuerzen-5981307-0/ "Riester-Rente - Urteil lässt hoffen – Zurich darf Rente nicht kürzen")
+* [Dispozinsen: Alle Banken im Test](https://www.test.de/Dispozinsen-Alle-Banken-im-Test-6007265-0/ "Dispozinsen - Alle Banken im Test")
+* [Bewertung von Fonds und ETF: Risiko­klasse hilft bei der Fonds­wahl](https://www.test.de/Bewertung-von-Fonds-und-ETF-Risikoklasse-hilft-bei-der-Fondswahl-6139024-0/ "Bewertung von Fonds und ETF - Risikoklasse hilft bei der Fondswahl")
+* [Diagnose Demenz: Das Vergessen liebevoll begleiten](https://www.test.de/Diagnose-Demenz-Das-Vergessen-liebevoll-begleiten-6142415-0/ "Diagnose Demenz - Das Vergessen liebevoll begleiten")
+* [Preisfallen im Supermarkt: Die Tricks der Händler erkennen](https://www.test.de/Preisfallen-im-Supermarkt-Die-Tricks-der-Haendler-erkennen-5929356-0/ "Preisfallen im Supermarkt - Die Tricks der Händler erkennen")
 
 Fußbereich
 
@@ -2728,21 +2728,21 @@ Weitere spannende Themen
 
 Neueste Tests
 
+* [Badreiniger im Test: Günstig glänzt](https://www.test.de/Badreiniger-im-Test-Meister-Proper-Schlusslicht-4980485-0/ "Badreiniger im Test - Günstig glänzt")
 * [Fahr­radversicherungen im Vergleich: Fahr­rad und E-Bike günstig versichern](https://www.test.de/Fahrradversicherungen-Vergleich-5205101-0/ "Fahrradversicherungen im Vergleich - Fahrrad und E-Bike günstig versichern")
 * [Fonds und ETF im Vergleich: Hier finden Sie die besten Fonds für Ihr Portfolio](https://www.test.de/Fonds-im-Test-Fuenf-Punkte-fuer-die-Besten-4331006-0/ "Fonds und ETF im Vergleich - Hier finden Sie die besten Fonds für Ihr Portfolio")
 * [Nach­haltige Fonds und ETF: Warum wir grüne Fonds jetzt strenger testen](https://www.test.de/nachhaltige-fonds-etf-test-4741500-0/ "Nachhaltige Fonds und ETF - Warum wir grüne Fonds jetzt strenger testen")
 * [Wohn­gebäude­versicherung im Vergleich: Tarife teuer und oft mangelhaft – so schützen Sie Ihr Haus gut und günstig](https://www.test.de/Wohngebaeudeversicherung-Vergleich-4255878-0/ "Wohngebäudeversicherung im Vergleich - Tarife teuer und oft mangelhaft – so schützen Sie Ihr Haus gut und günstig")
 * [Tiefkühlpizza im Test: Italien für zu Hause](https://www.test.de/tiefkuehlpizza-salami-im-test-4830454-0/ "Tiefkühlpizza im Test - Italien für zu Hause")
-* [Körperfett­waagen im Test: Einige leisten sich fette Mess­fehler](https://www.test.de/koerperfettwaage-test-4645874-0/ "Körperfettwaagen im Test - Einige leisten sich fette Messfehler")
 
 test.de entdecken
 
-* [Handy selbst reparieren: Samsungs und Apples Reparier-Sets im Selbst­versuch](https://www.test.de/Handy-selbst-reparieren-Samsungs-und-Apples-Reparier-Sets-im-Selbstversuch-6053520-0/ "Handy selbst reparieren - Samsungs und Apples Reparier-Sets im Selbstversuch")
-* [Fest­geld: Zweifelhafte Zins­angebote](https://www.test.de/Festgeld-Zweifelhafte-Zinsangebote-5964123-0/ "Festgeld - Zweifelhafte Zinsangebote")
-* [Schlank­heits­spritze: Behörde warnt vor Lemon Bottle](https://www.test.de/Schlankheitsspritze-Behoerde-warnt-vor-Lemon-Bottle-6147488-0/ "Schlankheitsspritze - Behörde warnt vor Lemon Bottle")
-* [Rohgold: Rohe Gold­klumpen als Geld­anlage?](https://www.test.de/Rohgold-Rohe-Goldklumpen-als-Geldanlage-6019655-0/ "Rohgold - Rohe Goldklumpen als Geldanlage?")
-* [Digital-Analog-Wandler (Dacs): Besserer Klang für Laptops, Tablets und Handys](https://www.test.de/Digital-Analog-Wandler-Dacs-Besserer-Klang-fuer-Laptops-Tablets-und-Handys-6148294-0/ "Digital-Analog-Wandler (Dacs) - Besserer Klang für Laptops, Tablets und Handys")
-* [49-Euro-Ticket: Günstig reisen mit dem Deutsch­land­ticket](https://www.test.de/49-Euro-Ticket-Das-muessen-Sie-wissen-5944873-0/ "49-Euro-Ticket - Günstig reisen mit dem Deutschlandticket")
+* [bel-finanz.de: Dubioses Fest­geld](https://www.test.de/bel-finanzde-Dubioses-Festgeld-6051673-0/ "bel-finanz.de - Dubioses Festgeld")
+* [Riester-Rente: Urteil lässt hoffen – Zurich darf Rente nicht kürzen](https://www.test.de/Riester-Rente-Zurich-darf-Rente-nicht-kuerzen-5981307-0/ "Riester-Rente - Urteil lässt hoffen – Zurich darf Rente nicht kürzen")
+* [Dispozinsen: Alle Banken im Test](https://www.test.de/Dispozinsen-Alle-Banken-im-Test-6007265-0/ "Dispozinsen - Alle Banken im Test")
+* [Bewertung von Fonds und ETF: Risiko­klasse hilft bei der Fonds­wahl](https://www.test.de/Bewertung-von-Fonds-und-ETF-Risikoklasse-hilft-bei-der-Fondswahl-6139024-0/ "Bewertung von Fonds und ETF - Risikoklasse hilft bei der Fondswahl")
+* [Diagnose Demenz: Das Vergessen liebevoll begleiten](https://www.test.de/Diagnose-Demenz-Das-Vergessen-liebevoll-begleiten-6142415-0/ "Diagnose Demenz - Das Vergessen liebevoll begleiten")
+* [Preisfallen im Supermarkt: Die Tricks der Händler erkennen](https://www.test.de/Preisfallen-im-Supermarkt-Die-Tricks-der-Haendler-erkennen-5929356-0/ "Preisfallen im Supermarkt - Die Tricks der Händler erkennen")
 
 Jetzt anmelden und 10% Rabatt auf die test.de-Flatrate im ersten Jahr erhalten!
 
@@ -2786,39 +2786,39 @@ Weitere spannende Themen
 
 Neueste Tests
 
+* [Badreiniger im Test: Günstig glänzt](https://www.test.de/Badreiniger-im-Test-Meister-Proper-Schlusslicht-4980485-0/ "Badreiniger im Test - Günstig glänzt")
 * [Fahr­radversicherungen im Vergleich: Fahr­rad und E-Bike günstig versichern](https://www.test.de/Fahrradversicherungen-Vergleich-5205101-0/ "Fahrradversicherungen im Vergleich - Fahrrad und E-Bike günstig versichern")
 * [Fonds und ETF im Vergleich: Hier finden Sie die besten Fonds für Ihr Portfolio](https://www.test.de/Fonds-im-Test-Fuenf-Punkte-fuer-die-Besten-4331006-0/ "Fonds und ETF im Vergleich - Hier finden Sie die besten Fonds für Ihr Portfolio")
 * [Nach­haltige Fonds und ETF: Warum wir grüne Fonds jetzt strenger testen](https://www.test.de/nachhaltige-fonds-etf-test-4741500-0/ "Nachhaltige Fonds und ETF - Warum wir grüne Fonds jetzt strenger testen")
 * [Wohn­gebäude­versicherung im Vergleich: Tarife teuer und oft mangelhaft – so schützen Sie Ihr Haus gut und günstig](https://www.test.de/Wohngebaeudeversicherung-Vergleich-4255878-0/ "Wohngebäudeversicherung im Vergleich - Tarife teuer und oft mangelhaft – so schützen Sie Ihr Haus gut und günstig")
 * [Tiefkühlpizza im Test: Italien für zu Hause](https://www.test.de/tiefkuehlpizza-salami-im-test-4830454-0/ "Tiefkühlpizza im Test - Italien für zu Hause")
-* [Körperfett­waagen im Test: Einige leisten sich fette Mess­fehler](https://www.test.de/koerperfettwaage-test-4645874-0/ "Körperfettwaagen im Test - Einige leisten sich fette Messfehler")
 
 test.de entdecken
 
-* [Handy selbst reparieren: Samsungs und Apples Reparier-Sets im Selbst­versuch](https://www.test.de/Handy-selbst-reparieren-Samsungs-und-Apples-Reparier-Sets-im-Selbstversuch-6053520-0/ "Handy selbst reparieren - Samsungs und Apples Reparier-Sets im Selbstversuch")
-* [Fest­geld: Zweifelhafte Zins­angebote](https://www.test.de/Festgeld-Zweifelhafte-Zinsangebote-5964123-0/ "Festgeld - Zweifelhafte Zinsangebote")
-* [Schlank­heits­spritze: Behörde warnt vor Lemon Bottle](https://www.test.de/Schlankheitsspritze-Behoerde-warnt-vor-Lemon-Bottle-6147488-0/ "Schlankheitsspritze - Behörde warnt vor Lemon Bottle")
-* [Rohgold: Rohe Gold­klumpen als Geld­anlage?](https://www.test.de/Rohgold-Rohe-Goldklumpen-als-Geldanlage-6019655-0/ "Rohgold - Rohe Goldklumpen als Geldanlage?")
-* [Digital-Analog-Wandler (Dacs): Besserer Klang für Laptops, Tablets und Handys](https://www.test.de/Digital-Analog-Wandler-Dacs-Besserer-Klang-fuer-Laptops-Tablets-und-Handys-6148294-0/ "Digital-Analog-Wandler (Dacs) - Besserer Klang für Laptops, Tablets und Handys")
-* [49-Euro-Ticket: Günstig reisen mit dem Deutsch­land­ticket](https://www.test.de/49-Euro-Ticket-Das-muessen-Sie-wissen-5944873-0/ "49-Euro-Ticket - Günstig reisen mit dem Deutschlandticket")
+* [bel-finanz.de: Dubioses Fest­geld](https://www.test.de/bel-finanzde-Dubioses-Festgeld-6051673-0/ "bel-finanz.de - Dubioses Festgeld")
+* [Riester-Rente: Urteil lässt hoffen – Zurich darf Rente nicht kürzen](https://www.test.de/Riester-Rente-Zurich-darf-Rente-nicht-kuerzen-5981307-0/ "Riester-Rente - Urteil lässt hoffen – Zurich darf Rente nicht kürzen")
+* [Dispozinsen: Alle Banken im Test](https://www.test.de/Dispozinsen-Alle-Banken-im-Test-6007265-0/ "Dispozinsen - Alle Banken im Test")
+* [Bewertung von Fonds und ETF: Risiko­klasse hilft bei der Fonds­wahl](https://www.test.de/Bewertung-von-Fonds-und-ETF-Risikoklasse-hilft-bei-der-Fondswahl-6139024-0/ "Bewertung von Fonds und ETF - Risikoklasse hilft bei der Fondswahl")
+* [Diagnose Demenz: Das Vergessen liebevoll begleiten](https://www.test.de/Diagnose-Demenz-Das-Vergessen-liebevoll-begleiten-6142415-0/ "Diagnose Demenz - Das Vergessen liebevoll begleiten")
+* [Preisfallen im Supermarkt: Die Tricks der Händler erkennen](https://www.test.de/Preisfallen-im-Supermarkt-Die-Tricks-der-Haendler-erkennen-5929356-0/ "Preisfallen im Supermarkt - Die Tricks der Händler erkennen")
 
 Neueste Tests
 
+* [Badreiniger im Test: Günstig glänzt](https://www.test.de/Badreiniger-im-Test-Meister-Proper-Schlusslicht-4980485-0/ "Badreiniger im Test - Günstig glänzt")
 * [Fahr­radversicherungen im Vergleich: Fahr­rad und E-Bike günstig versichern](https://www.test.de/Fahrradversicherungen-Vergleich-5205101-0/ "Fahrradversicherungen im Vergleich - Fahrrad und E-Bike günstig versichern")
 * [Fonds und ETF im Vergleich: Hier finden Sie die besten Fonds für Ihr Portfolio](https://www.test.de/Fonds-im-Test-Fuenf-Punkte-fuer-die-Besten-4331006-0/ "Fonds und ETF im Vergleich - Hier finden Sie die besten Fonds für Ihr Portfolio")
 * [Nach­haltige Fonds und ETF: Warum wir grüne Fonds jetzt strenger testen](https://www.test.de/nachhaltige-fonds-etf-test-4741500-0/ "Nachhaltige Fonds und ETF - Warum wir grüne Fonds jetzt strenger testen")
 * [Wohn­gebäude­versicherung im Vergleich: Tarife teuer und oft mangelhaft – so schützen Sie Ihr Haus gut und günstig](https://www.test.de/Wohngebaeudeversicherung-Vergleich-4255878-0/ "Wohngebäudeversicherung im Vergleich - Tarife teuer und oft mangelhaft – so schützen Sie Ihr Haus gut und günstig")
 * [Tiefkühlpizza im Test: Italien für zu Hause](https://www.test.de/tiefkuehlpizza-salami-im-test-4830454-0/ "Tiefkühlpizza im Test - Italien für zu Hause")
-* [Körperfett­waagen im Test: Einige leisten sich fette Mess­fehler](https://www.test.de/koerperfettwaage-test-4645874-0/ "Körperfettwaagen im Test - Einige leisten sich fette Messfehler")
 
 test.de entdecken
 
-* [Handy selbst reparieren: Samsungs und Apples Reparier-Sets im Selbst­versuch](https://www.test.de/Handy-selbst-reparieren-Samsungs-und-Apples-Reparier-Sets-im-Selbstversuch-6053520-0/ "Handy selbst reparieren - Samsungs und Apples Reparier-Sets im Selbstversuch")
-* [Fest­geld: Zweifelhafte Zins­angebote](https://www.test.de/Festgeld-Zweifelhafte-Zinsangebote-5964123-0/ "Festgeld - Zweifelhafte Zinsangebote")
-* [Schlank­heits­spritze: Behörde warnt vor Lemon Bottle](https://www.test.de/Schlankheitsspritze-Behoerde-warnt-vor-Lemon-Bottle-6147488-0/ "Schlankheitsspritze - Behörde warnt vor Lemon Bottle")
-* [Rohgold: Rohe Gold­klumpen als Geld­anlage?](https://www.test.de/Rohgold-Rohe-Goldklumpen-als-Geldanlage-6019655-0/ "Rohgold - Rohe Goldklumpen als Geldanlage?")
-* [Digital-Analog-Wandler (Dacs): Besserer Klang für Laptops, Tablets und Handys](https://www.test.de/Digital-Analog-Wandler-Dacs-Besserer-Klang-fuer-Laptops-Tablets-und-Handys-6148294-0/ "Digital-Analog-Wandler (Dacs) - Besserer Klang für Laptops, Tablets und Handys")
-* [49-Euro-Ticket: Günstig reisen mit dem Deutsch­land­ticket](https://www.test.de/49-Euro-Ticket-Das-muessen-Sie-wissen-5944873-0/ "49-Euro-Ticket - Günstig reisen mit dem Deutschlandticket")
+* [bel-finanz.de: Dubioses Fest­geld](https://www.test.de/bel-finanzde-Dubioses-Festgeld-6051673-0/ "bel-finanz.de - Dubioses Festgeld")
+* [Riester-Rente: Urteil lässt hoffen – Zurich darf Rente nicht kürzen](https://www.test.de/Riester-Rente-Zurich-darf-Rente-nicht-kuerzen-5981307-0/ "Riester-Rente - Urteil lässt hoffen – Zurich darf Rente nicht kürzen")
+* [Dispozinsen: Alle Banken im Test](https://www.test.de/Dispozinsen-Alle-Banken-im-Test-6007265-0/ "Dispozinsen - Alle Banken im Test")
+* [Bewertung von Fonds und ETF: Risiko­klasse hilft bei der Fonds­wahl](https://www.test.de/Bewertung-von-Fonds-und-ETF-Risikoklasse-hilft-bei-der-Fondswahl-6139024-0/ "Bewertung von Fonds und ETF - Risikoklasse hilft bei der Fondswahl")
+* [Diagnose Demenz: Das Vergessen liebevoll begleiten](https://www.test.de/Diagnose-Demenz-Das-Vergessen-liebevoll-begleiten-6142415-0/ "Diagnose Demenz - Das Vergessen liebevoll begleiten")
+* [Preisfallen im Supermarkt: Die Tricks der Händler erkennen](https://www.test.de/Preisfallen-im-Supermarkt-Die-Tricks-der-Haendler-erkennen-5929356-0/ "Preisfallen im Supermarkt - Die Tricks der Händler erkennen")
 
 Service Stiftung Warentest
 
