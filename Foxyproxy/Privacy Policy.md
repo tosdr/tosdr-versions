@@ -124,6 +124,6 @@ If you have questions about (or suggestions for!) this policy, please [contact u
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-No feedback other than to say I think you provide a great service. The need I had for a proxy expired which is why I cancelled rather than the service wasn't up to snuff. It was fantastic. wishing you future success
+Super fast customer care.
 
-Stew McTavish
+Mike Stange
