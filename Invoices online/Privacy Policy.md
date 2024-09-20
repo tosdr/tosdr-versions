@@ -118,61 +118,63 @@ This policy is effective as of 29 June 2021.
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Wish I started ages ago!
-> ------------------------
+> Impossible to run our businesses without IO
+> -------------------------------------------
 > 
-> I just want to compliment you and your team for an amazing back office software.
-> 
-> I have been struggling with a proper invoicing solution for six months now (to make time each month)
-> 
-> I just wish I started using Invoices Online ages ago.
+> IO is an integral part of our day to day business. It allows me complete control and overview functionality, while still enabling franchise owners to run their various franchises without interruption.  
+>   
+> At Storietyd.co.za - a bookclub for Afrikaans children, with thousands of members - all our billing is automated, automated invoices, automated debit orders, automated payment allocation, and so forth. Administration would be an absolute nightmare without IO.  
+>   
+> We are suppliers of bulk educational products to schools, our reps in the field use IO for quotes, invoicing and managing debtors, directly from their smartphones / tablets.  
+>   
+> We are extremely satisfied with Invoices Online, and would certainly recommend that you try it out.
 
-Terri Winfield
+Kobus Venter
 
-![valued client Cooper Power South Africa (Pty) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2012&file=logo_300_100&type=&fe=7dbf55068e5cd0fe4d6b6621308079edb8cb3707b2d4455402f92d6488488a11&c=68068139)  
-Cooper Power South Africa (Pty) LTD
+![valued client Karino Merinos ( PTY ) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2349&file=logo_300_100&type=&fe=25155d2b67b1240371753b92306e79a1a5a4f9ced455ed6ddb7062c58743ab62&c=156619664)  
+Karino Merinos ( PTY ) LTD
 
-![valued client Salt & Pepper Guest Accommodation (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=8332&file=logo_300_100&type=&fe=7dbf55068e5cd0fe4d6b6621308079edb8cb3707b2d4455402f92d6488488a11&c=45071135)  
-Salt & Pepper Guest Accommodation (Pty) Ltd.
+![valued client MONSTER SECURITY SERVICES](https://www.invoicesonline.co.za/scripts/image.php?bid=5438&file=logo_300_100&type=&fe=25155d2b67b1240371753b92306e79a1a5a4f9ced455ed6ddb7062c58743ab62&c=127340148)  
+MONSTER SECURITY SERVICES
 
-![valued client Chiron Medical Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=6720&file=logo_300_100&type=&fe=7dbf55068e5cd0fe4d6b6621308079edb8cb3707b2d4455402f92d6488488a11&c=75314410)  
+![valued client Digifax (Pty) Ltd T/A SecurityHyper](https://www.invoicesonline.co.za/scripts/image.php?bid=3135&file=logo_300_100&type=&fe=25155d2b67b1240371753b92306e79a1a5a4f9ced455ed6ddb7062c58743ab62&c=65944922)  
+Digifax (Pty) Ltd T/A SecurityHyper
+
+![valued client LEONARD](https://www.invoicesonline.co.za/scripts/image.php?bid=4785&file=logo_300_100&type=&fe=25155d2b67b1240371753b92306e79a1a5a4f9ced455ed6ddb7062c58743ab62&c=50779549)  
+LEONARD
+
+![valued client Electro-Heat](https://www.invoicesonline.co.za/scripts/image.php?bid=8547&file=logo_300_100&type=&fe=25155d2b67b1240371753b92306e79a1a5a4f9ced455ed6ddb7062c58743ab62&c=41769492)  
+Electro-Heat
+
+![valued client Moving Made Easy (PTY) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8622&file=logo_300_100&type=&fe=25155d2b67b1240371753b92306e79a1a5a4f9ced455ed6ddb7062c58743ab62&c=114366270)  
+Moving Made Easy (PTY) Ltd
+
+![valued client Chiron Medical Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=6720&file=logo_300_100&type=&fe=25155d2b67b1240371753b92306e79a1a5a4f9ced455ed6ddb7062c58743ab62&c=62533535)  
 Chiron Medical Solutions
 
-![valued client Goju-Ryu Pretoria East](https://www.invoicesonline.co.za/scripts/image.php?bid=8346&file=logo_300_100&type=&fe=7dbf55068e5cd0fe4d6b6621308079edb8cb3707b2d4455402f92d6488488a11&c=26180319)  
-Goju-Ryu Pretoria East
+![valued client NEW BEGINNINGS DESIGNS](https://www.invoicesonline.co.za/scripts/image.php?bid=8177&file=logo_300_100&type=&fe=25155d2b67b1240371753b92306e79a1a5a4f9ced455ed6ddb7062c58743ab62&c=17839688)  
+NEW BEGINNINGS DESIGNS
 
-![valued client TurboFibre](https://www.invoicesonline.co.za/scripts/image.php?bid=6535&file=logo_300_100&type=&fe=7dbf55068e5cd0fe4d6b6621308079edb8cb3707b2d4455402f92d6488488a11&c=10610388)  
-TurboFibre
+![valued client IEMS (PTY) ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7805&file=logo_300_100&type=&fe=25155d2b67b1240371753b92306e79a1a5a4f9ced455ed6ddb7062c58743ab62&c=160148956)  
+IEMS (PTY) ltd
 
-![valued client Brand's Fountains Deco and Events Coordinatoin ](https://www.invoicesonline.co.za/scripts/image.php?bid=6303&file=logo_300_100&type=&fe=7dbf55068e5cd0fe4d6b6621308079edb8cb3707b2d4455402f92d6488488a11&c=56017581)  
-Brand's Fountains Deco and Events Coordinatoin
+![valued client ARCHITEK PTY LTD ](https://www.invoicesonline.co.za/scripts/image.php?bid=8208&file=logo_300_100&type=&fe=25155d2b67b1240371753b92306e79a1a5a4f9ced455ed6ddb7062c58743ab62&c=84976301)  
+ARCHITEK PTY LTD
 
-![valued client Oukraal Merino's](https://www.invoicesonline.co.za/scripts/image.php?bid=3971&file=logo_300_100&type=&fe=7dbf55068e5cd0fe4d6b6621308079edb8cb3707b2d4455402f92d6488488a11&c=169309171)  
-Oukraal Merino's
+![valued client Network Grey (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7333&file=logo_300_100&type=&fe=25155d2b67b1240371753b92306e79a1a5a4f9ced455ed6ddb7062c58743ab62&c=196373546)  
+Network Grey (Pty) Ltd
 
-![valued client Adele Jordaan T/A Joyful Noise Music Room](https://www.invoicesonline.co.za/scripts/image.php?bid=7958&file=logo_300_100&type=&fe=7dbf55068e5cd0fe4d6b6621308079edb8cb3707b2d4455402f92d6488488a11&c=119377762)  
-Adele Jordaan T/A Joyful Noise Music Room
+![valued client Mtunzini Group ](https://www.invoicesonline.co.za/scripts/image.php?bid=5721&file=logo_300_100&type=&fe=25155d2b67b1240371753b92306e79a1a5a4f9ced455ed6ddb7062c58743ab62&c=214095102)  
+Mtunzini Group
 
-![valued client Nilbet T/A Waterman](https://www.invoicesonline.co.za/scripts/image.php?bid=4407&file=logo_300_100&type=&fe=7dbf55068e5cd0fe4d6b6621308079edb8cb3707b2d4455402f92d6488488a11&c=196649706)  
-Nilbet T/A Waterman
-
-![valued client Cpower Projects t/a Pro Pure Water ](https://www.invoicesonline.co.za/scripts/image.php?bid=7742&file=logo_300_100&type=&fe=7dbf55068e5cd0fe4d6b6621308079edb8cb3707b2d4455402f92d6488488a11&c=21775009)  
+![valued client Cpower Projects t/a Pro Pure Water ](https://www.invoicesonline.co.za/scripts/image.php?bid=7742&file=logo_300_100&type=&fe=25155d2b67b1240371753b92306e79a1a5a4f9ced455ed6ddb7062c58743ab62&c=19514572)  
 Cpower Projects t/a Pro Pure Water
 
-![valued client Wiselink Broadband Vryheid](https://www.invoicesonline.co.za/scripts/image.php?bid=6023&file=logo_300_100&type=&fe=7dbf55068e5cd0fe4d6b6621308079edb8cb3707b2d4455402f92d6488488a11&c=136148550)  
-Wiselink Broadband Vryheid
+![valued client Blue Sky Solar Services](https://www.invoicesonline.co.za/scripts/image.php?bid=7332&file=logo_300_100&type=&fe=25155d2b67b1240371753b92306e79a1a5a4f9ced455ed6ddb7062c58743ab62&c=24962385)  
+Blue Sky Solar Services
 
-![valued client Three Moons Emporium](https://www.invoicesonline.co.za/scripts/image.php?bid=7645&file=logo_300_100&type=&fe=7dbf55068e5cd0fe4d6b6621308079edb8cb3707b2d4455402f92d6488488a11&c=209805105)  
-Three Moons Emporium
-
-![valued client Tantra Sound and Lightz](https://www.invoicesonline.co.za/scripts/image.php?bid=1208&file=logo_300_100&type=&fe=7dbf55068e5cd0fe4d6b6621308079edb8cb3707b2d4455402f92d6488488a11&c=142116831)  
-Tantra Sound and Lightz
-
-![valued client VA AND M DEBT-AID (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8114&file=logo_300_100&type=&fe=7dbf55068e5cd0fe4d6b6621308079edb8cb3707b2d4455402f92d6488488a11&c=84443515)  
-VA AND M DEBT-AID (PTY) LTD
-
-![valued client LEONARD](https://www.invoicesonline.co.za/scripts/image.php?bid=4785&file=logo_300_100&type=&fe=7dbf55068e5cd0fe4d6b6621308079edb8cb3707b2d4455402f92d6488488a11&c=166770169)  
-LEONARD
+![valued client FX ACCOUNTING](https://www.invoicesonline.co.za/scripts/image.php?bid=6924&file=logo_300_100&type=&fe=25155d2b67b1240371753b92306e79a1a5a4f9ced455ed6ddb7062c58743ab62&c=166347769)  
+FX ACCOUNTING
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
