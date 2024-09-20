@@ -1119,6 +1119,8 @@ Free standard shipping on any $35 purchase
     * [Ear Piercing](https://www.ulta.com/beautyservices/ear-piercing)
         
     
+* [21 Days of Beauty Event](https://www.ulta.com/promotion/21-days-of-beauty)
+    
 
 * [](https://www.ulta.com/bag)
     
