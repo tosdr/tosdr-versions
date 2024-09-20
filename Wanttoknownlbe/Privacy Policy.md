@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/inspiratie/meelezen/waar-zat-robert-boerman-al-die-tijd/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/inspiratie/meelezen/kamp-110-aardbevingsdoden-groningen-acceptabel/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
