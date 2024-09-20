@@ -11,7 +11,9 @@ Terms and Conditions
 
   
 
-#### [**Download PDF**](https://assets.ctfassets.net/sb7j5o4oxtgv/7kp0uiPxiF5mx0CxnVkqnp/9460a19a1ccaa7169e134fdbb7cafbe3/ZEPZ_US_Terms_V.1_FINAL_-_WorldRemit_and_Sendwave.._.docx__1_.pdf)
+[Terms and Conditions | United States (effective before October 11, 2024)](https://www.worldremit.com/en/about-us/terms-and-conditions-us-jan-2024)
+
+[**Download**](https://assets.ctfassets.net/sb7j5o4oxtgv/6CbmpKy9yhve5QN8AxOq2N/58e475380e6efd3aec922979247cccec/WR-English_WorldRemit_Draft_US_User_Terms.pdf)
 
   
 
