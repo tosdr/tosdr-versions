@@ -66,7 +66,9 @@ triangle borderless
     
     Battery-Operated Systems and Cameras](https://www.lorex.com/collections/wire-free-security-systems)[![](//www.lorex.com/cdn/shop/collections/AY41TR-KTK2-MTK1-L1_80x.png?v=1686081704)
     
-    Sensors](https://www.lorex.com/collections/sensors)[![](//www.lorex.com/cdn/shop/collections/ACWFDPS-L1_80x.png?v=1686081784)
+    Sensors](https://www.lorex.com/collections/sensors)[![](//www.lorex.com/cdn/shop/collections/LK100-L2_80x.png?v=1691693837)
+    
+    Smart Locks](https://www.lorex.com/collections/smart-locks)[![](//www.lorex.com/cdn/shop/collections/ACWFDPS-L1_80x.png?v=1686081784)
     
     Accessories](https://www.lorex.com/collections/accessories-smart-home)
     
@@ -94,9 +96,7 @@ triangle borderless
     
     Other Security Solutions arrow bottom
     
-    [![](//www.lorex.com/cdn/shop/files/74d4d4067c38eca625e5e7f1f3189cda8dc3ac9ea1cdcde7a80dfde315c93799_80x.png?v=1699311454)
-    
-    Bluetooth Deadbolt Smart Lock with Touchpad and App Control - Matte Black](https://www.lorex.com/products/lk100-smart-lock)[![](//www.lorex.com/cdn/shop/files/4182405c6737dba05ed8d72ac1dba38cfc283d0bbf8ed3322b047203aca3c646_80x.png?v=1699310476)
+    [![](//www.lorex.com/cdn/shop/files/4182405c6737dba05ed8d72ac1dba38cfc283d0bbf8ed3322b047203aca3c646_80x.png?v=1699310476)
     
     Portable Thermal Monocular Camera](https://www.lorex.com/products/thermal-monocular-camera)
     
@@ -196,6 +196,7 @@ arrow left Back
 * [Floodlight Cameras](https://www.lorex.com/collections/floodlights)
 * [Battery-Operated Systems and Cameras](https://www.lorex.com/collections/wire-free-security-systems)
 * [Sensors](https://www.lorex.com/collections/sensors)
+* [Smart Locks](https://www.lorex.com/collections/smart-locks)
 * [Accessories](https://www.lorex.com/collections/accessories-smart-home)
 
 arrow left Back
@@ -216,7 +217,6 @@ arrow left Back
 arrow left Back
 
 * [Other Security Solutions](https://www.lorex.com/collections/other-security-solutions)
-* [Bluetooth Deadbolt Smart Lock with Touchpad and App Control - Matte Black](https://www.lorex.com/products/lk100-smart-lock)
 * [Portable Thermal Monocular Camera](https://www.lorex.com/products/thermal-monocular-camera)
 
 [![Lorex Corporation](//www.lorex.com/cdn/shop/files/Lorex-Logo-White_140x@2x.png?v=1626284896)](https://www.lorex.com/)
@@ -428,7 +428,7 @@ Your cart is empty
     
     Plug and play cameras for interiors](https://www.lorex.com/collections/indoor-security-cameras)
     
-    * [2K Pan-Tilt Security Camera (...](https://www.lorex.com/products/2k-pan-tilt-indoor-wi-fi-security-camera)
+    * [2K Pan-Tilt Security Camer...](https://www.lorex.com/products/2k-pan-tilt-indoor-wi-fi-security-camera)
     * [2K Security Camera](https://www.lorex.com/products/2k-indoor-wi-fi-security-camera)
     
     * [Wi-Fi Security Cameras](https://www.lorex.com/collections/wi-fi-security-cameras)
@@ -441,8 +441,8 @@ Your cart is empty
     
     Exterior light fixtures with a camera and customizable floodlights](https://www.lorex.com/collections/floodlights)
     
-    * [2K Floodlight Security Camera ...](https://www.lorex.com/products/2k-floodlight-camera)
-    * [1080p Floodlight Security Came...](https://www.lorex.com/products/1080p-wi-fi-floodlight-camera)
+    * [2K Floodlight Security Came...](https://www.lorex.com/products/2k-floodlight-camera)
+    * [1080p Floodlight Security C...](https://www.lorex.com/products/1080p-wi-fi-floodlight-camera)
     
     [**Shop All >**](https://www.lorex.com/collections/floodlights)
     
@@ -468,6 +468,16 @@ Your cart is empty
     * [Sensor Hub](https://www.lorex.com/products/sensor-hub)
     
     [**Shop All >**](https://www.lorex.com/collections/sensors)
+    
+    [![](//www.lorex.com/cdn/shop/collections/LK100-L2_x150.png?v=1691693837)
+    
+    Smart Locks
+    
+    Keyless entry devices with smartphone connectivity](https://www.lorex.com/collections/smart-locks)
+    
+    * [Bluetooth Deadbolt Smart Lock...](https://www.lorex.com/products/lk100-smart-lock)
+    
+    [**Shop All >**](https://www.lorex.com/collections/smart-locks)
     
     [![](//www.lorex.com/cdn/shop/collections/ACWFDPS-L1_x150.png?v=1686081784)
     
@@ -512,10 +522,6 @@ Your cart is empty
     [![](//www.lorex.com/cdn/shop/files/b560f576100df6e145b2c85fd68d2fc43ade0937710d29d208a1e08e15e55382_x150.png?v=1699309499)
     
     Wi-Fi Chimebox](https://www.lorex.com/products/acchm2-add-on-wi-fi-chime-for-lorex-video-doorbells)
-    
-    [![](//www.lorex.com/cdn/shop/files/74d4d4067c38eca625e5e7f1f3189cda8dc3ac9ea1cdcde7a80dfde315c93799_x150.png?v=1699311454)
-    
-    Bluetooth Deadbolt Smart Lock with Touchpad and App Control - Matte Black](https://www.lorex.com/products/lk100-smart-lock)
     
     [![](//www.lorex.com/cdn/shop/files/4182405c6737dba05ed8d72ac1dba38cfc283d0bbf8ed3322b047203aca3c646_x150.png?v=1699310476)
     
