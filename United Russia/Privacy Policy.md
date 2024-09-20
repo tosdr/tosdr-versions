@@ -299,6 +299,46 @@
 
 [Все новости](https://er.ru/activity/news)
 
+[![При поддержке «Единой России» в Санкт-Петербурге высадили аллею в честь 50-летия с начала строительства Байкало-Амурской магистрали](https://cdn.er.ru/media/news/September2024/JPNwPXekngdrGHNiHIRE-small.jpg)](https://er.ru/activity/news/pri-podderzhke-edinoj-rossii-v-sankt-peterburge-vysadili-alleyu-v-chest-50-letiya-s-nachala-stroitelstva-bajkalo-amurskoj-magistrali)
+
+[При поддержке «Единой России» в Санкт-Петербурге высадили аллею в честь 50-летия с начала строительства Байкало-Амурской магистрали](https://er.ru/activity/news/pri-podderzhke-edinoj-rossii-v-sankt-peterburge-vysadili-alleyu-v-chest-50-letiya-s-nachala-stroitelstva-bajkalo-amurskoj-magistrali)
+
+[#Санкт-Петербург](https://er.ru/activity/news?tags%5B0%5D=622) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#партпроект](https://er.ru/activity/news?tags%5B0%5D=632) [#ЧистаяСтрана](https://er.ru/activity/news?tags%5B0%5D=1090024) [#аллея](https://er.ru/activity/news?tags%5B0%5D=3538) [#кедры](https://er.ru/activity/news?tags%5B0%5D=58944) [#БАМ](https://er.ru/activity/news?tags%5B0%5D=8418) [#Боярский](https://er.ru/activity/news?tags%5B0%5D=73244) [#Рябцева](https://er.ru/activity/news?tags%5B0%5D=38343)
+
+Сегодня 18:15
+
+[![«Единая Россия» доставила почти 1,5 тысячи тонн гуманитарной помощи в Курскую область](https://cdn.er.ru/media/news/September2024/RQmikmdZkdBVM1rBJQzg-small.JPG)](https://er.ru/activity/news/edinaya-rossiya-dostavila-pochti-1-5-tysyachi-tonn-gumanitarnoj-pomoshi-v-kurskuyu-oblast)
+
+[«Единая Россия» доставила почти 1,5 тысячи тонн гуманитарной помощи в Курскую область](https://er.ru/activity/news/edinaya-rossiya-dostavila-pochti-1-5-tysyachi-tonn-gumanitarnoj-pomoshi-v-kurskuyu-oblast)
+
+[#Курская область](https://er.ru/activity/news?tags%5B0%5D=579) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#гумпомощь](https://er.ru/activity/news?tags%5B0%5D=8562) [#штабобщественнойподдержки](https://er.ru/activity/news?tags%5B0%5D=1092101) [#ЕРпомогает](https://er.ru/activity/news?tags%5B0%5D=146978)
+
+Сегодня 16:43
+
+[![«Единая Россия» назвала победителей VI Всероссийского фестиваля детского футбола 6х6](https://cdn.er.ru/media/news/September2024/ueMxsN0xHi6fW8QiFuyR-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-nazvala-pobeditelej-vi-vserossijskogo-festivalya-detskogo-futbola-6h6)
+
+[«Единая Россия» назвала победителей VI Всероссийского фестиваля детского футбола 6х6](https://er.ru/activity/news/edinaya-rossiya-nazvala-pobeditelej-vi-vserossijskogo-festivalya-detskogo-futbola-6h6)
+
+[#Ленинградская область](https://er.ru/activity/news?tags%5B0%5D=1669) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#Роднина](https://er.ru/activity/news?tags%5B0%5D=2239) [#Дрозденко](https://er.ru/activity/news?tags%5B0%5D=19558) [#партпроекты](https://er.ru/activity/news?tags%5B0%5D=1090407) [#ДетскийСпорт](https://er.ru/activity/news?tags%5B0%5D=1091126) [#фестиваль](https://er.ru/activity/news?tags%5B0%5D=1671) [#награждение](https://er.ru/activity/news?tags%5B0%5D=2365) [#дворовойфутбол](https://er.ru/activity/news?tags%5B0%5D=131214) [#соревнования](https://er.ru/activity/news?tags%5B0%5D=1175) [#турнир](https://er.ru/activity/news?tags%5B0%5D=787)
+
+Сегодня 14:38
+
+[![«Единая Россия» провела лекции по финансовой грамотности для жителей в новых регионах](https://cdn.er.ru/media/news/September2024/yQXicR95wAou0c6AsQA5-small.JPG)](https://er.ru/activity/news/edinaya-rossiya-provela-lekcii-po-finansovoj-gramotnosti-dlya-zhitelej-v-novyh-regionah)
+
+[«Единая Россия» провела лекции по финансовой грамотности для жителей в новых регионах](https://er.ru/activity/news/edinaya-rossiya-provela-lekcii-po-finansovoj-gramotnosti-dlya-zhitelej-v-novyh-regionah)
+
+[#Кузнецова](https://er.ru/activity/news?tags%5B0%5D=4127) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#Луганская Народная Республика](https://er.ru/activity/news?tags%5B0%5D=126130) [#Донецкая Народная Республика](https://er.ru/activity/news?tags%5B0%5D=60937) [#Запорожская область](https://er.ru/activity/news?tags%5B0%5D=1093589) [#Херсонская область](https://er.ru/activity/news?tags%5B0%5D=1093586) [#финансоваяграмотность](https://er.ru/activity/news?tags%5B0%5D=113290) [#лекции](https://er.ru/activity/news?tags%5B0%5D=18064) [#консультации](https://er.ru/activity/news?tags%5B0%5D=135175) [#финансы](https://er.ru/activity/news?tags%5B0%5D=1748)
+
+Сегодня 14:32
+
+[![Владимир Якушев: В основе поддержки Алексея Текслера на выборах лежат позитивные изменения в Челябинской области](https://cdn.er.ru/media/news/September2024/QN8GuMClbTuN1pKB5ocO-small.jpg)](https://er.ru/activity/news/vladimir-yakushev-v-osnove-podderzhki-alekseya-tekslera-na-vyborah-lezhat-pozitivnye-izmeneniya-v-chelyabinskoj-oblasti)
+
+[Владимир Якушев: В основе поддержки Алексея Текслера на выборах лежат позитивные изменения в Челябинской области](https://er.ru/activity/news/vladimir-yakushev-v-osnove-podderzhki-alekseya-tekslera-na-vyborah-lezhat-pozitivnye-izmeneniya-v-chelyabinskoj-oblasti)
+
+[#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#Текслер](https://er.ru/activity/news?tags%5B0%5D=131613) [#Челябинская область](https://er.ru/activity/news?tags%5B0%5D=191) [#инаугурация](https://er.ru/activity/news?tags%5B0%5D=3430) [#выборы2024](https://er.ru/activity/news?tags%5B0%5D=1095001) [#ЕДГ2024](https://er.ru/activity/news?tags%5B0%5D=1095607)
+
+Сегодня 12:42
+
 [![«Единая Россия» подвела итоги акции «Русский Крым и Севастополь»](https://cdn.er.ru/media/news/September2024/Vp5Hr9mvJTReBGUl5eoW-small.png)](https://er.ru/activity/news/edinaya-rossiya-podvela-itogi-akcii-russkij-krym-i-sevastopol)
 
 [«Единая Россия» подвела итоги акции «Русский Крым и Севастополь»](https://er.ru/activity/news/edinaya-rossiya-podvela-itogi-akcii-russkij-krym-i-sevastopol)
@@ -306,46 +346,6 @@
 [#Романов](https://er.ru/activity/news?tags%5B0%5D=8320) [#партпроект](https://er.ru/activity/news?tags%5B0%5D=632) [#МирВозможностей](https://er.ru/activity/news?tags%5B0%5D=1092793) [#акция](https://er.ru/activity/news?tags%5B0%5D=238) [#русскийкрымисевастополь](https://er.ru/activity/news?tags%5B0%5D=1095762) [#школьники](https://er.ru/activity/news?tags%5B0%5D=127834) [#занятия](https://er.ru/activity/news?tags%5B0%5D=24809) [#Развожаев](https://er.ru/activity/news?tags%5B0%5D=140170)
 
 Сегодня 11:00
-
-[![«Единая Россия» провела первый Совет первичных отделений партии](https://cdn.er.ru/media/news/September2024/cpJdMu1pxBNkR7Y82M5X-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-provela-pervyj-sovet-pervichnyh-otdelenij-partii)
-
-[«Единая Россия» провела первый Совет первичных отделений партии](https://er.ru/activity/news/edinaya-rossiya-provela-pervyj-sovet-pervichnyh-otdelenij-partii)
-
-[#Медведев](https://er.ru/activity/news?tags%5B0%5D=105) [#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#дамедведев](https://er.ru/activity/news?tags%5B0%5D=1095751) [#первичныеотдления](https://er.ru/activity/news?tags%5B0%5D=126424) [#первички](https://er.ru/activity/news?tags%5B0%5D=127619)
-
-19.09.24
-
-[![Дмитрий Медведев: Применительно к поддержке нашей Армии, семей участников СВО нет политической конкуренции](https://cdn.er.ru/media/news/September2024/Q7LSQfkoZ8hQqGXsIURs-small.jpg)](https://er.ru/activity/news/dmitrij-medvedev-primenitelno-k-podderzhke-nashej-armii-semej-uchastnikov-svo-net-politicheskoj-konkurencii)
-
-[Дмитрий Медведев: Применительно к поддержке нашей Армии, семей участников СВО нет политической конкуренции](https://er.ru/activity/news/dmitrij-medvedev-primenitelno-k-podderzhke-nashej-armii-semej-uchastnikov-svo-net-politicheskoj-konkurencii)
-
-[#Медведев](https://er.ru/activity/news?tags%5B0%5D=105) [#дамедведев](https://er.ru/activity/news?tags%5B0%5D=1095751) [#спецоперация](https://er.ru/activity/news?tags%5B0%5D=1092566) [#первички](https://er.ru/activity/news?tags%5B0%5D=7517)
-
-19.09.24
-
-[![Дмитрий Медведев о работе первичек «Единой России» с участниками СВО и их семьями: Это - наш священный долг](https://cdn.er.ru/media/news/September2024/CewqZvww8adsdKBEiECB-small.JPG)](https://er.ru/activity/news/dmitrij-medvedev-o-rabote-pervichek-edinoj-rossii-s-uchastnikami-svo-i-ih-semyami-eto-nash-svyashennyj-dolg)
-
-[Дмитрий Медведев о работе первичек «Единой России» с участниками СВО и их семьями: Это - наш священный долг](https://er.ru/activity/news/dmitrij-medvedev-o-rabote-pervichek-edinoj-rossii-s-uchastnikami-svo-i-ih-semyami-eto-nash-svyashennyj-dolg)
-
-[#Медведев](https://er.ru/activity/news?tags%5B0%5D=105) [#дамедведев](https://er.ru/activity/news?tags%5B0%5D=1095751) [#первичныеотделения](https://er.ru/activity/news?tags%5B0%5D=113123) [#первички](https://er.ru/activity/news?tags%5B0%5D=7517) [#семьиучастниковСВО](https://er.ru/activity/news?tags%5B0%5D=1093476) [#поддержкавоеннослужащих](https://er.ru/activity/news?tags%5B0%5D=1094152)
-
-19.09.24
-
-[![Дмитрий Медведев: Советы первичных отделений «Единой России» в регионах - хорошая форма взаимодействия](https://cdn.er.ru/media/news/September2024/CTrZOoZlJtXKbR2EoADl-small.jpg)](https://er.ru/activity/news/dmitrij-medvedev-sovety-pervichnyh-otdelenij-edinoj-rossii-v-regionah-horoshaya-forma-vzaimodejstviya)
-
-[Дмитрий Медведев: Советы первичных отделений «Единой России» в регионах - хорошая форма взаимодействия](https://er.ru/activity/news/dmitrij-medvedev-sovety-pervichnyh-otdelenij-edinoj-rossii-v-regionah-horoshaya-forma-vzaimodejstviya)
-
-[#первички](https://er.ru/activity/news?tags%5B0%5D=7517) [#дамедведев](https://er.ru/activity/news?tags%5B0%5D=1095751) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#Тюменская область](https://er.ru/activity/news?tags%5B0%5D=784) [#взаимодействие](https://er.ru/activity/news?tags%5B0%5D=1502)
-
-19.09.24
-
-[![Дмитрий Медведев: «Единая Россия» должна вести себя максимально корректно](https://cdn.er.ru/media/news/September2024/C0AOyif5H8Rn4Q0LuG7u-small.JPG)](https://er.ru/activity/news/dmitrij-medvedev-edinaya-rossiya-dolzhna-vesti-sebya-maksimalno-korrektno)
-
-[Дмитрий Медведев: «Единая Россия» должна вести себя максимально корректно](https://er.ru/activity/news/dmitrij-medvedev-edinaya-rossiya-dolzhna-vesti-sebya-maksimalno-korrektno)
-
-[#Медведев](https://er.ru/activity/news?tags%5B0%5D=105) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#первички](https://er.ru/activity/news?tags%5B0%5D=7517) [#политика](https://er.ru/activity/news?tags%5B0%5D=134108) [#дамедведев](https://er.ru/activity/news?tags%5B0%5D=1095751)
-
-19.09.24
 
 ![Сайт президента РФ](https://cdn.er.ru/media/sites/July2020/7T7J24LxtsdGGJVk1lL0.jpg)
 
