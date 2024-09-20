@@ -120,7 +120,7 @@ Most web browsers allow some control of most cookies through the browser setting
 
 #### Was this article helpful?
 
-[4214](#) [5672](#)
+[4214](#) [5673](#)
 
 #### Related Questions:
 
