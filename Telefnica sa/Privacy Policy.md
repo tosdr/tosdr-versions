@@ -2,7 +2,7 @@
 
 Buscar 
 
-[Telefónica](https://www.telefonica.com/es/)
+[Telefónica ![](https://www.telefonica.com/es/wp-content/themes/telefonica-theme/img/svg/logo-germany.svg)](https://www.telefonica.com/es/) 
 
 Telefonica.com
 
@@ -335,6 +335,8 @@ Telefónica se reserva el derecho a actualizar la presente Política de Privacid
 
 _Política de Privacidad actualizada a septiembre 2021_.
 
+![](https://www.telefonica.com/es/wp-content/themes/telefonica-theme/img/svg/logo-germany-white.svg)
+
 Hacer nuestro mundo más humano, conectando la vida de las personas.
 
 * [facebook](https://www.facebook.com/telefonica)
@@ -348,7 +350,7 @@ Hacer nuestro mundo más humano, conectando la vida de las personas.
 * [Canal de Denuncias y Consultas](https://www.telefonica.com/es/canal-denuncias-consultas/)
 * [Centro Global Transparencia](https://www.telefonica.com/es/centro-global-de-transparencia/)
 
-[Volver a la portada](https://www.telefonica.com/es/)
+[![](https://www.telefonica.com/es/wp-content/themes/telefonica-theme/img/png/bola-blanca.png)Volver a la portada](https://www.telefonica.com/es/)
 
 [Subir](#page)
 
