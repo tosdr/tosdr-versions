@@ -242,35 +242,35 @@ We have included on the pages of this website a robots meta tag with the “noai
 
 This privacy policy was created in party by using [Termly’s Privacy Policy Generator](https://termly.io/products/privacy-policy-generator/?ftseo).
 
-[![](https://cwbchicago.com/wp-content/uploads/2024/09/Kenneth-Horner-326x245.jpg)](https://cwbchicago.com/2024/09/12-years-for-man-who-beat-sexually-assaulted-woman-he-lured-from-greyhound-bus-terminal.html "12 years for man who beat, sexually assaulted woman he lured from Greyhound bus terminal")
+[![CTA-subway-red-line-moving-camera-2019](https://cwbchicago.com/wp-content/uploads/2020/02/CTA-subway-red-line-moving-camera-2019-326x245.jpg)](https://cwbchicago.com/2024/09/robbery-crew-attacks-4-people-on-red-line-trains-overnight.html "Robbery crew attacks 4 people on Red Line trains overnight")
 
-West Loop
+CTA
 
-### [12 years for man who beat, sexually assaulted woman he lured from Greyhound bus terminal](https://cwbchicago.com/2024/09/12-years-for-man-who-beat-sexually-assaulted-woman-he-lured-from-greyhound-bus-terminal.html "12 years for man who beat, sexually assaulted woman he lured from Greyhound bus terminal")
+### [Robbery crew attacks 4 people on Red Line trains overnight](https://cwbchicago.com/2024/09/robbery-crew-attacks-4-people-on-red-line-trains-overnight.html "Robbery crew attacks 4 people on Red Line trains overnight")
 
-[September 17, 2024 7:47 PM](https://cwbchicago.com/2024/09)
+[September 18, 2024 12:36 PM](https://cwbchicago.com/2024/09)
 
-A man has been given a 12-year sentence for luring a woman from the Greyhound bus terminal in Chicago and sexually assaulting her in a nearby homeless encampment.[](https://cwbchicago.com/2024/09/12-years-for-man-who-beat-sexually-assaulted-woman-he-lured-from-greyhound-bus-terminal.html "12 years for man who beat, sexually assaulted woman he lured from Greyhound bus terminal")
+Police are investigating a string of violent robberies reported along the Red Line between Howard and the Loop last night. All of the victims reported that a group of five to seven people attacked and robbed them on southbound trains.[](https://cwbchicago.com/2024/09/robbery-crew-attacks-4-people-on-red-line-trains-overnight.html "Robbery crew attacks 4 people on Red Line trains overnight")
 
-[![](https://cwbchicago.com/wp-content/uploads/2024/09/Clockwise-from-top-left-Daniel-Bueno-Carranza-Irving-Diaz-Anthony-Hernandez-Jocelyn-Lara-Adrian-Ramirez-Normando-Riquelme-and-Antonio-Rosales-Chicago-Police-Department-Cook-County-Sheriffs-Office--326x245.jpg)](https://cwbchicago.com/2024/09/seven-charged-guns-chicag-mexican-indepence-day-weekend.html "At least 7 charged with gun possession during Chicago’s Mexican Independence Day weekend; 5 are from the suburbs")
+[![](https://cwbchicago.com/wp-content/uploads/2024/09/Ballys-326x245.jpg)](https://cwbchicago.com/2024/09/man-robbed-at-gunpoint-after-leaving-ballys-casino-report.html "Man robbed at gunpoint after leaving Bally’s casino: report")
 
-Citywide
+River North
 
-### [At least 7 charged with gun possession during Chicago’s Mexican Independence Day weekend; 5 are from the suburbs](https://cwbchicago.com/2024/09/seven-charged-guns-chicag-mexican-indepence-day-weekend.html "At least 7 charged with gun possession during Chicago’s Mexican Independence Day weekend; 5 are from the suburbs")
+### [Man robbed at gunpoint after leaving Bally’s casino: report](https://cwbchicago.com/2024/09/man-robbed-at-gunpoint-after-leaving-ballys-casino-report.html "Man robbed at gunpoint after leaving Bally’s casino: report")
 
-[September 17, 2024 5:50 PM](https://cwbchicago.com/2024/09)
+[September 18, 2024 9:54 AM](https://cwbchicago.com/2024/09)
 
-Chicago police arrested at least 18 people during Mexican Independence Day festivities last weekend, according to court records, with seven of those arrests being for felony gun violations.[](https://cwbchicago.com/2024/09/seven-charged-guns-chicag-mexican-indepence-day-weekend.html "At least 7 charged with gun possession during Chicago’s Mexican Independence Day weekend; 5 are from the suburbs")
+A man reported being robbed at gunpoint as he got into his car after leaving Bally’s casino in River North overnight.[](https://cwbchicago.com/2024/09/man-robbed-at-gunpoint-after-leaving-ballys-casino-report.html "Man robbed at gunpoint after leaving Bally’s casino: report")
 
-[![](https://cwbchicago.com/wp-content/uploads/2024/09/Marque-McCray-and-Royal-Darring-326x245.jpg)](https://cwbchicago.com/2024/09/hes-the-25th-person-charged-with-killing-or-trying-to-kill-someone-in-chicago-this-year-while-having-a-felony-case-pending.html "He’s the 25th person charged with killing or trying to kill someone in Chicago this year while having a felony case pending")
+[![](https://cwbchicago.com/wp-content/uploads/2024/09/Richard-Brito-cpd-326x245.jpg)](https://cwbchicago.com/2024/09/6-months-after-completing-murder-sentence-man-is-charged-with-beating-and-carjacking-a-road-rage-victim.html "6 months after completing murder sentence, man is charged with beating and carjacking a road rage victim")
 
-Auburn Gresham
+Gage Park
 
-### [He’s the 25th person charged with killing or trying to kill someone in Chicago this year while having a felony case pending](https://cwbchicago.com/2024/09/hes-the-25th-person-charged-with-killing-or-trying-to-kill-someone-in-chicago-this-year-while-having-a-felony-case-pending.html "He’s the 25th person charged with killing or trying to kill someone in Chicago this year while having a felony case pending")
+### [6 months after completing murder sentence, man is charged with beating and carjacking a road rage victim](https://cwbchicago.com/2024/09/6-months-after-completing-murder-sentence-man-is-charged-with-beating-and-carjacking-a-road-rage-victim.html "6 months after completing murder sentence, man is charged with beating and carjacking a road rage victim")
 
-[September 17, 2024 6:59 AM](https://cwbchicago.com/2024/09)
+[September 18, 2024 9:13 AM](https://cwbchicago.com/2024/09)
 
-A man with a pending juvenile gun case has become the 25th person accused of shooting, killing, or trying to shoot or kill someone in Chicago this year while on felony pretrial release. The crimes involved 40 victims, eight of whom died.[](https://cwbchicago.com/2024/09/hes-the-25th-person-charged-with-killing-or-trying-to-kill-someone-in-chicago-this-year-while-having-a-felony-case-pending.html "He’s the 25th person charged with killing or trying to kill someone in Chicago this year while having a felony case pending")
+A Chicago man who completed a murder sentence earlier this year stands accused of carjacking and threatening to kill another driver during a road rage altercation.[](https://cwbchicago.com/2024/09/6-months-after-completing-murder-sentence-man-is-charged-with-beating-and-carjacking-a-road-rage-victim.html "6 months after completing murder sentence, man is charged with beating and carjacking a road rage victim")
 
 Search
 
