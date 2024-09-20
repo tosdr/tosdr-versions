@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-b533bbabb18b223a0874147eecbca070
+23db0dbd3f13e576afb246f48ab419f5
 
 [](# "Expand for more options")[](# "Search")
 
@@ -142,11 +142,11 @@ Terms and Conditions
 
 ### Featured Product
 
-[![12 mm by 10 mm faceted etched glass pink-purple oval beads](https://sojourner.biz/images/cache/glass/GL0124.200.jpg)](https://sojourner.biz/beads/glass/12-mm-by-10-mm-faceted-etched-glass-pink-purple-oval-beads.html "12 mm by 10 mm faceted etched glass pink-purple oval beads")
+[![Small lime stripe clasp](https://sojourner.biz/images/cache/SKU0531front.200.jpg)](https://sojourner.biz/clasps/glass/small-lime-stripe-clasp.html "Small lime stripe clasp")
 
-#### [12 mm by 10 mm faceted etched glass pink-purple oval beads](https://sojourner.biz/beads/glass/12-mm-by-10-mm-faceted-etched-glass-pink-purple-oval-beads.html "12 mm by 10 mm faceted etched glass pink-purple oval beads")
+#### [Small lime stripe clasp](https://sojourner.biz/clasps/glass/small-lime-stripe-clasp.html "Small lime stripe clasp")
 
-$10.00
+$21.00
 
 ### Best Sellers
 
