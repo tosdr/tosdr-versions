@@ -351,6 +351,10 @@ Let’s Connect
 
 [About Sucuri](https://sucuri.net/company/) [Contact](https://sucuri.net/company/contact-us/) [Blog](https://blog.sucuri.net/) [Referral](https://sucuri.net/referral/) [Partners](https://sucuri.net/partners/) [Testimonials](https://sucuri.net/customers/)
 
+[Definitions](#)
+
+[Firewall](https://sucuri.net/definitions/) [Bots](https://sucuri.net/definitions/) [Security](https://sucuri.net/definitions/)
+
 [Terms of Use](https://sucuri.net/terms/) [Privacy Policy](https://sucuri.net/privacy/) [Do Not Sell My Personal Information](https://sucuri.net/cookies/) [Frequently Asked Questions](https://sucuri.net/faq/)
 
 © 2024 GoDaddy Mediatemple, Inc., d/b/a Sucuri. All rights reserved.
