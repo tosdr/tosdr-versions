@@ -123,44 +123,44 @@ Advertisement
     The Beginning and the End of the Universe
     
     Episode 1: The BeginingEmbarking on a cosmic journey, Professor Jim Al-Khalili transports us through the corridors of time to confront science's most profound inquiry: the genesis of the univers...](https://documentaryheaven.com/the-beginning-and-the-end-of-the-universe/ "The Beginning and the End of the Universe")
-* [![These Streets Are Watching](/wp-content/thumbnails/1269-100x70.jpg?x53432)
+* [![The War On Drugs: The Prison Industrial Complex](/wp-content/thumbnails/958-100x70.gif?x53432)
     
-    These Streets Are Watching
+    The War On Drugs: The Prison Industrial Complex
     
-    However, if nothing else, cop watch can and will and does inform citizens of their lefts as citizens. Informs citizens of what is proper police conduct and what is improper police conduct. Informs cit...](https://documentaryheaven.com/these-streets-are-watching/ "These Streets Are Watching")
-* [![The Forgotten Refugees](/wp-content/thumbnails/1718-100x70.jpg?x53432)
+    The war on drugs has been going on for more than three decades. Today, nearly 500,000 Americans are imprisoned on drug charges. In 1980 the number was 50,000. Last year $40 billion in taxpayer dollars...](https://documentaryheaven.com/the-war-on-drugs-the-prison-industrial-complex/ "The War On Drugs: The Prison Industrial Complex")
+* [![ZERO: An Investigation Into 9/11](/wp-content/thumbnails/4643-100x70.jpg?x53432)
     
-    The Forgotten Refugees
+    ZERO: An Investigation Into 9/11
     
-    Executive Producer: Ralph Avi Goldwasser Director: Michael GrynszpanRunning time: 49 minutesA film about the mass exodus of Jews from the Middle East and North Africa in the 20th centuryProdu...](https://documentaryheaven.com/the-forgotten-refugees/ "The Forgotten Refugees")
+    ZERO: An Investigation into 9/11, has one central thesis - that the official version of the events surrounding the attacks on 9/11 can not be true. This brand new feature documentary from Italian prod...](https://documentaryheaven.com/zero-an-investigation-into-911/ "ZERO: An Investigation Into 9/11")
 
 ###### Throwback Documentaries
 
-* [![The World’s Saddest Dance](/wp-content/thumbnails/6481-100x70.jpg?x53432)
+* [![Darwin’s Secret Notebooks](/wp-content/thumbnails/3695)
     
-    The World’s Saddest Dance
+    Darwin’s Secret Notebooks
     
-    The World's Saddest Dance is a documentary that explore's the old Bulgarian tradition of Dancing Bears. In this short film I investigate the way's in which the bears were once treated and the cruelty](https://documentaryheaven.com/the-worlds-saddest-dance/ "The World’s Saddest Dance") 
-* [![Beavis & Butthead Save The World](/wp-content/thumbnails/7898-100x70.jpg?x53432)
+    Using Darwin’s own diary and field notes as a travel guide, retrace Darwin’s expedition beyond the Galapagos to uncover the forgotten evidence that inspired his revolutionary work. He wasn’t a mathema](https://documentaryheaven.com/darwins-secret-notebooks/ "Darwin’s Secret Notebooks")
+* [![The Man Who Knew](/wp-content/thumbnails/6044-100x70.jpg?x53432)
     
-    Beavis & Butthead Save The World
+    The Man Who Knew
     
-    Alex Jones visited Mike Judge at his Austin Tx home for a one on one interview. Mike covered the current IRS scandal, Alex’s epic interview on Piers Morgan, and The 2nd Amendment Debate.He gave insi](https://documentaryheaven.com/beavis-butthead-save-world/ "Beavis & Butthead Save The World")
-* [![Louis Theroux: Behind Bars](/wp-content/thumbnails/4968-100x70.jpg?x53432)
+    PBS Frontline details FBI Special Agent John O'Neill's efforts to sound the alarms about al Qaeda's growing reach and threat to the U.S., only to be branded a maverick and roundly ignored. O'Neill elf](https://documentaryheaven.com/the-man-who-knew/ "The Man Who Knew")
+* [![Quantum Revolution](/wp-content/thumbnails/7556-100x70.jpg?x53432)
     
-    Louis Theroux: Behind Bars
+    Quantum Revolution
     
-    Louis goes inside California's San Quentin's prison - one of America's most notorious prisons - to meet serial murderers, gang members, at risk inmates and guards.](https://documentaryheaven.com/louis-theroux-behind-bars/ "Louis Theroux: Behind Bars")
-* [![Dear Zachary: A Letter to a Son About His Father](/wp-content/thumbnails/1968-100x70.jpg?x53432)
+    Professor Michio Kaku, famous Theoretical Physicist and one of the inventors of Light Cone String Field Theory (one of the Relativistic forms of M-Theory), hosts a documentary on the use of the body o](https://documentaryheaven.com/quantum-revolution/ "Quantum Revolution")
+* [![Flow: For Love of Water](/wp-content/thumbnails/235-100x70.png?x53432)
     
-    Dear Zachary: A Letter to a Son About His Father
+    Flow: For Love of Water
     
-    In 2001, Andrew Bagby, a medical resident, is murdered not long after breaking up with his girlfriend. Soon after, when she announces she’s pregnant, one of Andrew’s many close friends, Kurt Kuenne, b](https://documentaryheaven.com/dear-zachary-a-letter-to-a-son-about-his-father/ "Dear Zachary: A Letter to a Son About His Father")
-* [![Modern Spies](/wp-content/thumbnails/7802-100x70.jpg?x53432)
+    Irena Salinas' documentary is about the global crisis we face as Earth's fresh water supply constantly diminishes. The film presents top experts and advocates to show us that every aspect of human lif](https://documentaryheaven.com/flow-for-love-of-water/ "Flow: For Love of Water")
+* [![Child of Rage](/wp-content/thumbnails/5921-100x70.jpg?x53432)
     
-    Modern Spies
+    Child of Rage
     
-    From James Bond to Jason Bourne, the fictional world of spying is a world of danger and deception, glamour and lies. But how does the myth compare with the reality?Episode 1: Peter Taylor looks at](https://documentaryheaven.com/modern-spies/ "Modern Spies")
+    Beth Thomas, once labeled "The Child Of Rage" by HBO, tells the story of her healing from Reactive Attachment Disorder in a powerful story you will never forget! Beth's story of hope and healing will](https://documentaryheaven.com/child-of-rage/ "Child of Rage")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
