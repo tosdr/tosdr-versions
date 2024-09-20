@@ -2,7 +2,7 @@
 
                   
 
-![](https://tags.w55c.net/rs?id=d5308c050ef44dc58b06a9f3df60d349&t=marketing)![](//legacybox.com/cdn/shop/t/551/assets/placeholder-pixel.png?v=50439485113009717681722887814)
+![](https://tags.w55c.net/rs?id=d5308c050ef44dc58b06a9f3df60d349&t=marketing)![](//legacybox.com/cdn/shop/t/566/assets/placeholder-pixel.png?v=50439485113009717681726754073)
 
 FLASH SALE – 50% OFF LEGACYBOX FLASH SALE – 50% OFF LEGACYBOX Plus, get an extra 10% off with code GETLB10
 
