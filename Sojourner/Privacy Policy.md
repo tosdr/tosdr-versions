@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-133f80913231116804f330164f93daa7
+b6114157cfff408dcc66d649ccb85bd9
 
 [](# "Expand for more options")[](# "Search")
 
@@ -171,11 +171,11 @@ Sojourner may revise this policy as needed by updating this posting.
 
 ### Featured Product
 
-[![Ribbon scissors](https://www.sojourner.biz/images/cache/SZ008.200.jpg)](https://www.sojourner.biz/beads/tools/ribbon-scissors.html "Ribbon scissors")
+[![3 mm by 6 mm white pearls](https://www.sojourner.biz/images/cache/pearls/PE0191.200.jpg)](https://www.sojourner.biz/beads/pearls/3-mm-by-6-mm-white-pearls.html "3 mm by 6 mm white pearls")
 
-#### [Ribbon scissors](https://www.sojourner.biz/beads/tools/ribbon-scissors.html "Ribbon scissors")
+#### [3 mm by 6 mm white pearls](https://www.sojourner.biz/beads/pearls/3-mm-by-6-mm-white-pearls.html "3 mm by 6 mm white pearls")
 
-$38.00
+$12.00
 
 ### Best Sellers
 
