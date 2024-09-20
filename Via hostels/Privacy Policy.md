@@ -68,20 +68,20 @@ travel • live • work • interact • share • repeat • 
 [fun from day one!](#)
 ----------------------
 
-* [fun from day one!](#tab_66ed46ca5cb44)
+* [fun from day one!](#tab_66ed9cde64388)
     ---------------------------------------
     
-    [We are here to offer more than just accommodation. We are committed to provide you a home away from home, where you can instantly feel like a part of a community of likeminded people. We have events running at the hostel every day of the week, so that you can meet other travellers and have fun from day one!](#tab_66ed46ca5cb44)
+    [We are here to offer more than just accommodation. We are committed to provide you a home away from home, where you can instantly feel like a part of a community of likeminded people. We have events running at the hostel every day of the week, so that you can meet other travellers and have fun from day one!](#tab_66ed9cde64388)
     
-* [fomo no more!](#tab_66ed46ca5cb53)
+* [fomo no more!](#tab_66ed9cde64398)
     -----------------------------------
     
-    [We want you to experience Amsterdam in the best way possible, with no room for fomo. We’re here to give you the coolest tips and recommendations for your visit, from our many local perspectives. Our staff is an amazing mix of true Amsterdammers and international locals who are there for you 24/7.](#tab_66ed46ca5cb53)
+    [We want you to experience Amsterdam in the best way possible, with no room for fomo. We’re here to give you the coolest tips and recommendations for your visit, from our many local perspectives. Our staff is an amazing mix of true Amsterdammers and international locals who are there for you 24/7.](#tab_66ed9cde64398)
     
-* [we’ve got you covered, dude](#tab_66ed46ca5cb5f)
+* [we’ve got you covered, dude](#tab_66ed9cde643a4)
     -------------------------------------------------
     
-    [You are part of the international and unique Via family as you check in. Our spaces just boost creativity and they are designed for all kinds of needs; make connections, have fun, eat & drink, join activities, sleep, connect online and offline, make memories, take cool photos… We come from all around the world just like our guests, so we really get you, dude.](#tab_66ed46ca5cb5f)
+    [You are part of the international and unique Via family as you check in. Our spaces just boost creativity and they are designed for all kinds of needs; make connections, have fun, eat & drink, join activities, sleep, connect online and offline, make memories, take cool photos… We come from all around the world just like our guests, so we really get you, dude.](#tab_66ed9cde643a4)
     
 
 ##### [view facilities](https://www.viahostels.com/facilities/)
@@ -117,6 +117,9 @@ follow us on social
 
 [](https://www.instagram.com/viaamsterdam/)
 
+[The verdict is in, Via💛bloody mary’s! Grab ![The verdict is in, Via💛bloody mary’s! 
+Grab our brunch deal before it’s too late🫡⏰👀](https://www.viahostels.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/reel/DAIZK4ht9g1/) 
+
 [BLOODY BRUNCH BASH🤩🙌🍹 Attention brunch lo ![BLOODY BRUNCH BASH🤩🙌🍹
 Attention brunch lovers!!! Grab a bloody mary and your pick of eggs benedict or avocado toast – all for just €15 🎉](https://www.viahostels.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/reel/DAGssUet_by/) 
 
@@ -147,10 +150,6 @@ Sign from our amazing weekend with @yestheory @dutchyesfam 💓](https://www.via
 
 [![When in doubt, grab a beer in the dude bar!🍻🙏🤩
 #viaamsterdam #travellife #hostellife #peroni](https://www.viahostels.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/C_N1c0SN0As/)
-
-[Three of our signature icons🍹🌟 Comment below ![Three of our signature icons🍹🌟
-Comment below which cocktail you would order!🙌🏼🤩💛
-#viaamsterdam #hostellife #signaturecocktails #bartenderlife #cocktails](https://www.viahostels.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/reel/C_IN1lBt4z1/) 
 
 current & upcoming events
 -------------------------
