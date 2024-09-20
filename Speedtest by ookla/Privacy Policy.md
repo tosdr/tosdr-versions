@@ -22,7 +22,7 @@
     * [Speedtest Performance Directory™](https://www.speedtest.net/performance/united-states)
 * About
     * [Apps](https://www.speedtest.net/apps)
-    * [Methodology](https://www.speedtest.net/methodology)
+    * [Methodology](https://www.ookla.com/resources/guides/speedtest-methodology)
     * [Press](https://www.ookla.com/about/press)
     * [Ookla](https://www.ookla.com/)
     * [Advertise](https://www.speedtest.net/about/advertising)
