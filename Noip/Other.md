@@ -230,7 +230,7 @@ Resources
                 
         * [Board Code of Conduct](https://www.icann.org/resources/pages/code-of-conduct-2023-01-24-en)
             
-        * [Board Conflicts of Interest Policy](https://www.icann.org/resources/pages/coi-2018-07-20-en)
+        * [Board Conflicts of Interest Policy](https://www.icann.org/resources/pages/governance/coi-en)
             
         * [Board Statements of Interest](https://www.icann.org/resources/pages/sois-2012-02-25-en)
             
