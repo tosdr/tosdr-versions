@@ -260,29 +260,6 @@ About Intuit
     * [Executive Leadership](https://www.intuit.com/company/executives/)
     
 
-![A woman wearing jean jocket, hat, and smiling](https://www.intuit.com/oidam/intuit/ic/en_us/images/01-g/customer-lisa-gotts-smiling-storefront-hero-photo-icom-desktop-tablet-20230401-312x467.jpg)
-
-OUR MISSION
-
-Powering prosperity around the world
-====================================
-
-Giving everyone the opportunity to prosper is the heartbeat of Intuit culture, and we never stop working to find innovative ways to make that possible.
-
-WHAT WE STAND FOR
-
-### Intuit believes everyone should have the opportunity to prosper and we never stop working to find new innovative ways to make that possible.
-
-How Intuit powers prosperity for customers
-------------------------------------------
-
-Intuit news
------------
-
-Please add children elements
-
-1 of 1
-
 Company
 
 [About Intuit](https://www.intuit.com/company/ "About Intuit")
