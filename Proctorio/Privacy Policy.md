@@ -1,4 +1,4 @@
-![Home](/images/3e956902667b3572.svg)
+[![Home](/images/3e956902667b3572.svg)](https://proctorio.com/)
 
 * [Products](https://proctorio.com/products)
 * [Privacy](https://proctorio.com/privacy)
@@ -75,20 +75,22 @@ With industry-leading tools, techniques, and penetration testing processes, the 
 
 The third-party security consulting company determined that video and audio for exams are stored in the proper geographical regions based on the institution in accordance with local privacy and security laws. The regions tested include the USA, Canada, the European Union, the Middle East, and Australia.
 
-HackerOne
----------
+Hackrate
+--------
 
-We have partnered with [HackerOne](https://www.hackerone.com/), a global team of security leaders with a mission to make the Internet safer. This partnership allows us to ensure that our software remains secure, private, and accessible for our end users: test takers and exam administrators.
+We have partnered with [Hackrate](https://www.hckrt.com/), a leading ethical hacking company. This partnership allows us to ensure that our software remains secure, private, and accessible for our end users: test takers and exam administrators.
 
-We welcome ethical hackers to participate within our HackerOne program by filling out their vulnerability form and clicking below. We offer both a free and a paid bounty program.
+To keep user data safe and ensure privacy is protected, Proctorio is looking forward to working with the security community to help identify vulnerabilities.
 
-As of January 1, 2022, we have updated our disclosure policy with HackerOne. In light of the quickness of our response time and in an effort at greater transparency, Proctorio will have the option to publish any patched vulnerabilities in a dramatically shortened window. Going forward, we will not need a second key to publish after 30 days.
+If you're a security researcher or ethical hacker and you've found a vulnerability in our service, please let us know by using the Hackrate form linked below.
 
-[Report a vulnerability](https://hackerone.com/proctorio)
+As of July 1, 2024, we have updated our program with Hackrate. In light of our quick response time and in an effort to be more transparent, Proctorio will have the option to publish any patched vulnerabilities in a shortened window.
+
+[Report a vulnerability](https://www.hckrt.com/Catalog/Program?alias=proctorio)
 
 ![A person wearing headphones reclined on a beanbag, computer on lap. Above, we see their screen, populated with lines of code.](/images/fef941228a33b0ac.png)
 
-![Home](/images/cfad44e5dccdb3c4.svg)
+[![Home](/images/cfad44e5dccdb3c4.svg)](https://proctorio.com/)
 
 #### [Products](https://proctorio.com/products)
 
