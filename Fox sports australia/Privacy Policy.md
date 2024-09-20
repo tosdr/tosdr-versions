@@ -40,48 +40,26 @@ FOX SCORES
     Match Centre](https://www.foxsports.com.au/afl/match-centre/AFL20242701)
 * [AFL Women's
     
-    20/9 17:05 AEST
+    2nd Qtr
     
     |     |     |
     | --- | --- |
-    | NM  | –   |
-    | POR | –   |
+    | NM  | 5.5.35 |
+    | POR | 0.0.0 |
     
     Match Centre](https://www.foxsports.com.au/afl/aflw/match-centre/AFLW20240404)
-* Netball
-    
-* [Women's Tests
-    
-    Full Time
-    
-    |     |     |
-    | --- | --- |
-    | AUS | 70  |
-    | ENG | 57  |
-    
-    Match Centre](https://www.foxsports.com.au/netball/match-centre/TEST20240101)
 * Cricket
     
 * [Men's Test
     
-    Day 1
+    Day 2 Session 2
     
     |     |     |
     | --- | --- |
-    | IND | 6 /339 |
-    | BAN |     |
+    | IND | 376 |
+    | BAN | 5 /76 |
     
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/TEST2024-250101)
-* [Women's T20I
-    
-    AUS won by 5 wkts
-    
-    |     |     |
-    | --- | --- |
-    | AUS | 5 /145 |
-    | NZL | 7 /143 |
-    
-    Match Centre](https://www.foxsports.com.au/cricket/match-centre/WT20I2024-250101)
 * [Men's ODI
     
     AUS won by 7 wkts
@@ -96,11 +74,11 @@ FOX SCORES
     
 * [NFL
     
-    Half Time
+    Full Time
     
     |     |     |
     | --- | --- |
-    | NYJ | 14  |
+    | NYJ | 24  |
     | NE  | 3   |
     
     Match Centre](https://www.foxsports.com.au/gridiron/nfl/match-centre/NFL2024-250317)
@@ -128,16 +106,6 @@ FOX SCORES
     Race Centre](https://www.foxsports.com.au/motorsport/moto-gp/race-centre?meetingid=709)
 * Basketball
     
-* [NBL
-    
-    Full Time
-    
-    |     |     |
-    | --- | --- |
-    | MEL | 88  |
-    | TAS | 79  |
-    
-    Match Centre](https://www.foxsports.com.au/basketball/nbl/match-centre/NBL2024-25010001/play-by-play)
 * [NBL
     
     20/9 20:30 AEST
@@ -887,6 +855,7 @@ FOX SCORES
 
 * [NFL](https://www.foxsports.com.au/video/other-sports/nfl)
 * [Other Sports](https://www.foxsports.com.au/video/other-sports/other-sports)
+* [Baseball](https://www.foxsports.com.au/video/other-sports/baseball)
 * [WWE](https://www.foxsports.com.au/video/other-sports/wwe)
 * [Netball](https://www.foxsports.com.au/video/other-sports/netball)
 * [Cycling](https://www.foxsports.com.au/video/other-sports/cycling)
