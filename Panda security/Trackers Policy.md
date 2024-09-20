@@ -11,14 +11,6 @@ If this is not what you’re looking for,
 
 [Visit our Welcome Page!](https://www.pandasecurity.com/)
 
-![image](/rfilescms/Teaser-resources/pandasecurity-image-teaser-girl-boxes-transparent-v2.webp)
-
-50% off Panda Dome for all your devices! For a limited time only!
-
-\-50%
-
-[**Buy now**](https://www.pandasecurity.com/security-promotion/?campaign=dome2305&coupon=50OFFMULTIP&track=190478)
-
 * Protection
 * [Panda Dome product range](https://www.pandasecurity.com/en/homeusers/)
 * [Panda Dome Essential](https://www.pandasecurity.com/en/dome/essential/)
