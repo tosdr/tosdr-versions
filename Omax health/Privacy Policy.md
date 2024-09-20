@@ -1,6 +1,6 @@
-![](https://www.facebook.com/tr?id=811491626833587&ev=PageView&noscript=1)           Privacy Policy – Omax Health - Omax Health                  
+![](https://www.facebook.com/tr?id=811491626833587&ev=PageView&noscript=1)   
 
-    
+Privacy Policy – Omax Health - Omax Health                         
 
                 
 
@@ -305,13 +305,13 @@ Go to product page
 
 ### Let customers speak for us
 
-[3386 reviews](https://omaxhealth.com/pages/reviews)
+[3387 reviews](https://omaxhealth.com/pages/reviews)
 
 [Write a review](#)
 
 91%
 
-(3067)
+(3068)
 
 5%
 
@@ -329,7 +329,17 @@ Go to product page
 
 (53)
 
-2184
+2185
+
+M
+
+[CryoFreeze® Hemp CBD Roll-On | Extra Strength](https://omaxhealth.com/products/new-cryofreeze-cbd-roll-on-extra-strength#judgeme_product_reviews)
+
+Marsha B.
+
+**Best ever roll on!**
+
+This is the best pain reliever I have ever used!!!!!
 
 A
 
@@ -350,19 +360,5 @@ D.G.
 **Rapid Results You Can Feel**
 
 I’ve been really impressed with Cellmax. After taking it, I noticed a quick improvement in how I felt, especially in terms of energy and alertness. The fact that it supports immune function and cellular repair is a huge plus. It’s definitely a product I’ll keep using to help maintain my health.
-
-M
-
-[CryoFreeze® Hemp CBD Roll-On | Regular](https://omaxhealth.com/products/omax-cryofreeze-cbd-roll-on#judgeme_product_reviews)
-
-Mike P.
-
-**Cbd roll on**
-
-My wife and I have been using the Omax cbd roll on for about six months.  
-She uses them for her knees and I use it for my shoulder.  
-We absolutely love this product as it gives us pain relief.  
-We have purchased this product 3-4 times and we will continue to use it in the.  
-Thank you Omar!
 
 Load More
