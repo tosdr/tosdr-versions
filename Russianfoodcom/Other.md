@@ -7,7 +7,7 @@
 | --- | --- |
 |     | [Рецепты](https://www.russianfood.com/recipes/) [Статьи](https://www.russianfood.com/reading/clauses/) [Наша Кухня](https://www.russianfood.com/blogs/) [Супер Поиск](https://www.russianfood.com/search/) [Рассылки](https://www.russianfood.com/subscribe/) |
 
-[![](//img1.russianfood.com/images/recipes/recipe_add_btn_10.gif)](https://www.russianfood.com/recipes/recipeadd.php)
+[![](//img1.russianfood.com/images/recipes/recipe_add_btn_4.gif)](https://www.russianfood.com/recipes/recipeadd.php)
 
 [Добавить  
 рецепт](https://www.russianfood.com/recipes/recipeadd.php)
@@ -148,16 +148,16 @@
 
 Сейчас читают
 
-* [Икра из перца](https://www.russianfood.com/recipes/recipe.php?rid=44303)
 * [Горчичное масло](https://www.russianfood.com/recipes/recipe.php?rid=44743)
-* [Бефстроганов](https://www.russianfood.com/recipes/recipe.php?rid=45011)
 * [Шпигованная говядина в пиве](https://www.russianfood.com/recipes/recipe.php?rid=45016)
 * [Смесь пестрая](https://www.russianfood.com/recipes/recipe.php?rid=46299)
 * [«Кровавая Мэри»](https://www.russianfood.com/recipes/recipe.php?rid=46414)
-* [Напиток «Бодрость»](https://www.russianfood.com/recipes/recipe.php?rid=46805)
-* [Бальзам с вермутом и коньяком](https://www.russianfood.com/recipes/recipe.php?rid=46808)
-* [Бальзам с водкой](https://www.russianfood.com/recipes/recipe.php?rid=46811)
-* [Бальзам с кофе](https://www.russianfood.com/recipes/recipe.php?rid=46814)
+* [Сдобные булочки](https://www.russianfood.com/recipes/recipe.php?rid=47267)
+* [Булочки с шоколадом и орехами](https://www.russianfood.com/recipes/recipe.php?rid=47269)
+* [Песочные "звезды" с глазурью](https://www.russianfood.com/recipes/recipe.php?rid=47271)
+* [Печенье с имбирем](https://www.russianfood.com/recipes/recipe.php?rid=47272)
+* [Новогодние елочки](https://www.russianfood.com/recipes/recipe.php?rid=47273)
+* [Уголки с малиной](https://www.russianfood.com/recipes/recipe.php?rid=47274)
 
 |     |
 | --- |
@@ -179,6 +179,20 @@
 исключить ингредиенты (все): 
 
 Найти рецепты Другие варианты поиска Свернуть
+
+|     |     |
+| --- | --- |
+| Для прессы<br><br>[Аппетитные ароматы палитрой богаты. Лучшие рецепты НА ВЫХОДНЫЕ №24-38](https://www.russianfood.com/reading/?post_id=22618) |     |
+
+[![](//img1.russianfood.com/dycontent/images_upl/670/sm_669205.jpg)](https://www.russianfood.com/reading/?post_id=22618)
+
+Паприкаш из курицы с грибами. Тефтели с яблоком и сыром. Куриные шарики с сыром. Булгур с фаршем, свёклой. Филе индейки с брокколи, цветной капустой. Курица в пряном молоке. Рыбный рулет с гречкой и грибами.
+
+[Читать дальше...](https://www.russianfood.com/reading/?post_id=22618)  
+
+|     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- |
+|     | [Лучшие рецепты на выходные](https://www.russianfood.com/blogs/?id=325002) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22618#comments) | 20.09.24 |     |
 
 |     |     |
 | --- | --- |
@@ -220,7 +234,7 @@
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [Yuliya-s](https://www.russianfood.com/blogs/?id=314972) | _![](/images/blank.gif)_2 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174365#comments) | 19.09.24 |     |
+|     | [Yuliya-s](https://www.russianfood.com/blogs/?id=314972) | _![](/images/blank.gif)_5 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174365#comments) | 19.09.24 |     |
 
 |     |     |
 | --- | --- |
@@ -290,7 +304,7 @@
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [Sve4kaSV](https://www.russianfood.com/blogs/?id=217903) | _![](/images/blank.gif)_4 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174374#comments) | 19.09.24 |     |
+|     | [Sve4kaSV](https://www.russianfood.com/blogs/?id=217903) | _![](/images/blank.gif)_9 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174374#comments) | 19.09.24 |     |
 
 |     |     |
 | --- | --- |
@@ -304,7 +318,7 @@
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [Sve4kaSV](https://www.russianfood.com/blogs/?id=217903) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174375#comments) | 19.09.24 |     |
+|     | [Sve4kaSV](https://www.russianfood.com/blogs/?id=217903) | _![](/images/blank.gif)_2 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174375#comments) | 19.09.24 |     |
 
 |     |     |
 | --- | --- |
@@ -332,7 +346,7 @@
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [Yuliya-s](https://www.russianfood.com/blogs/?id=314972) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174380#comments) | 19.09.24 |     |
+|     | [Yuliya-s](https://www.russianfood.com/blogs/?id=314972) | _![](/images/blank.gif)_2 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174380#comments) | 19.09.24 |     |
 
 |     |     |
 | --- | --- |
@@ -375,20 +389,6 @@
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
 |     | [Безсупажизнинет](https://www.russianfood.com/blogs/?id=422075) | _![](/images/blank.gif)_2 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=173459#comments) | 19.09.24 |     |
-
-|     |     |
-| --- | --- |
-| Рецепты<br><br>[Сырный суп с кабачками, помидорами и кукурузой](https://www.russianfood.com/recipes/recipe.php?rid=174136) |     |
-
-[![Фото к рецепту: Сырный суп с кабачками, помидорами и кукурузой](//img1.russianfood.com/dycontent/images_upl/740/sm_739353.jpg "Фото к рецепту: Сырный суп с кабачками, помидорами и кукурузой")](https://www.russianfood.com/recipes/recipe.php?rid=174136)
-
-Сырный суп с кабачками, помидорами и кукурузой - быстрый и простой рецепт первого блюда. Приятная кислинка помидоров, чуть хрустящие кабачки и сладость кукурузы отлично дополняет сливочность плавленого сыра.
-
-[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=174136)  
-
-|     |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- |
-|     | [Безсупажизнинет](https://www.russianfood.com/blogs/?id=422075) | _![](/images/blank.gif)_1 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174136#comments) | 19.09.24 |     |
 
 |     |
 | --- |
@@ -461,10 +461,10 @@
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-| [![](//img1.russianfood.com/dycontent/images_upl/738/alt1_737034.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=173525) | [![](//img1.russianfood.com/dycontent/images_upl/740/alt1_739463.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174365) | [![](//img1.russianfood.com/dycontent/images_upl/740/alt1_739353.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174136) | [![](//img1.russianfood.com/dycontent/images_upl/740/alt1_739868.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174387) | [![](//img1.russianfood.com/dycontent/images_upl/740/alt1_739896.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174378) | [![](//img1.russianfood.com/dycontent/images_upl/740/alt1_739485.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174366) | [![](//img1.russianfood.com/dycontent/images_upl/739/alt1_738703.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174107) |
-| [Сырный суп с клецками из кабачка](https://www.russianfood.com/recipes/recipe.php?rid=173525) | [Куриная печень, тушенная с баклажанами в сметане](https://www.russianfood.com/recipes/recipe.php?rid=174365) | [Сырный суп с кабачками, помидорами и кукурузой](https://www.russianfood.com/recipes/recipe.php?rid=174136) | [Помидоры, запечённые с чесноком](https://www.russianfood.com/recipes/recipe.php?rid=174387) | [Рыба в сметанно-грибном соусе, в микроволновке](https://www.russianfood.com/recipes/recipe.php?rid=174378) | [Котлеты со свеклой и жареным луком](https://www.russianfood.com/recipes/recipe.php?rid=174366) | [Томатный суп с булгуром](https://www.russianfood.com/recipes/recipe.php?rid=174107) |
-| [![](//img1.russianfood.com/dycontent/images_upl/740/alt1_739890.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=173459) | [![](//img1.russianfood.com/dycontent/images_upl/740/alt1_739561.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174372) | [![](//img1.russianfood.com/dycontent/images_upl/740/alt1_739378.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174200) | [![](//img1.russianfood.com/dycontent/images_upl/740/alt1_739881.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174371) |
-| [Томатный суп с курицей, фасолью и шпинатом](https://www.russianfood.com/recipes/recipe.php?rid=173459) | [Рис с брокколи и консервированным тунцом](https://www.russianfood.com/recipes/recipe.php?rid=174372) | [Суп со стручковой фасолью, сельдереем и беконом](https://www.russianfood.com/recipes/recipe.php?rid=174200) | [Тыквенные булочки](https://www.russianfood.com/recipes/recipe.php?rid=174371) |
+| [![](//img1.russianfood.com/dycontent/images_upl/739/alt1_738703.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174107) | [![](//img1.russianfood.com/dycontent/images_upl/740/alt1_739463.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174365) | [![](//img1.russianfood.com/dycontent/images_upl/740/alt1_739561.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174372) | [![](//img1.russianfood.com/dycontent/images_upl/740/alt1_739881.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174371) | [![](//img1.russianfood.com/dycontent/images_upl/740/alt1_739868.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174387) | [![](//img1.russianfood.com/dycontent/images_upl/740/alt1_739896.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174378) | [![](//img1.russianfood.com/dycontent/images_upl/740/alt1_739378.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174200) |
+| [Томатный суп с булгуром](https://www.russianfood.com/recipes/recipe.php?rid=174107) | [Куриная печень, тушенная с баклажанами в сметане](https://www.russianfood.com/recipes/recipe.php?rid=174365) | [Рис с брокколи и консервированным тунцом](https://www.russianfood.com/recipes/recipe.php?rid=174372) | [Тыквенные булочки](https://www.russianfood.com/recipes/recipe.php?rid=174371) | [Помидоры, запечённые с чесноком](https://www.russianfood.com/recipes/recipe.php?rid=174387) | [Рыба в сметанно-грибном соусе, в микроволновке](https://www.russianfood.com/recipes/recipe.php?rid=174378) | [Суп со стручковой фасолью, сельдереем и беконом](https://www.russianfood.com/recipes/recipe.php?rid=174200) |
+| [![](//img1.russianfood.com/dycontent/images_upl/740/alt1_739485.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174366) | [![](//img1.russianfood.com/dycontent/images_upl/740/alt1_739353.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174136) | [![](//img1.russianfood.com/dycontent/images_upl/740/alt1_739890.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=173459) | [![](//img1.russianfood.com/dycontent/images_upl/738/alt1_737034.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=173525) |
+| [Котлеты со свеклой и жареным луком](https://www.russianfood.com/recipes/recipe.php?rid=174366) | [Сырный суп с кабачками, помидорами и кукурузой](https://www.russianfood.com/recipes/recipe.php?rid=174136) | [Томатный суп с курицей, фасолью и шпинатом](https://www.russianfood.com/recipes/recipe.php?rid=173459) | [Сырный суп с клецками из кабачка](https://www.russianfood.com/recipes/recipe.php?rid=173525) |
 
 |     |     |     |
 | --- | --- | --- |
@@ -481,4 +481,4 @@
 
 Этот сайт использует файлы cookie, чтобы предоставить вам наилучший сервис. Оставаясь на сайте, вы соглашаетесь с [политикой сайта по обработке персональных данных](https://www.russianfood.com/blogs/?post_id=13800).СОГЛАСЕН
 
-(117)
+(154)
