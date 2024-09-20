@@ -241,7 +241,6 @@ for free.
 Product
 
 * [Platform](https://www.sendowl.com/platform)
-* [Benefits](https://www.sendowl.com/benefits)
 * [Pricing](https://www.sendowl.com/pricing)
 
 Company
@@ -256,13 +255,11 @@ Community
 * [Help and Support](https://help.sendowl.com/)
 * [Developers](https://dashboard.sendowl.com/developers)
 
-* * *
-
-* [![Facebook](/_next/static/media/icon-footer-facebook.67926b7d.svg)](https://www.facebook.com/sendowl)
-* [![Instagram](/_next/static/media/icon-footer-instagram.62b86c0a.svg)](https://www.instagram.com/sendowlofficial/)
-* [![X](/_next/static/media/icon-footer-x.4538ecd6.svg)](https://twitter.com/sendowlhq)
-* [![Youtube](/_next/static/media/icon-footer-youtube.ee917f25.svg)](https://www.youtube.com/@Sendowl)
-* [![TikTok](/_next/static/media/icon-footer-tiktok.59db2fe7.svg)](https://www.tiktok.com/@sendowl)
+* [![Facebook](/_next/static/media/icon-footer-facebook.2a4f4755.svg)](https://www.facebook.com/sendowl)
+* [![Instagram](/_next/static/media/icon-footer-instagram.60fa6fba.svg)](https://www.instagram.com/sendowlofficial/)
+* [![X](/_next/static/media/icon-footer-x.c8565b33.svg)](https://twitter.com/sendowlhq)
+* [![Youtube](/_next/static/media/icon-footer-youtube.fe5df559.svg)](https://www.youtube.com/@Sendowl)
+* [![TikTok](/_next/static/media/icon-footer-tiktok.993e072a.svg)](https://www.tiktok.com/@sendowl)
 
 * [Terms of Service](https://www.sendowl.com/terms)
 * [Privacy Policy](https://www.sendowl.com/privacy)
