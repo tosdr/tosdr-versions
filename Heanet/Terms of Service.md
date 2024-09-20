@@ -18,7 +18,7 @@
     * [Brokerage](#)
         * [Brokerage Services](https://www.heanet.ie/brokerage)
         * [Products / Suppliers](https://www.heanet.ie/brokerage-products-suppliers)
-        * [HEAnet Store](https://www.heanet.ie/store-2)
+        * [HEAnet Store](https://www.heanet.ie/store)
     * [Connectivity](#)
         * [eduroam (Wifi)](https://www.heanet.ie/services/connectivity/eduroam-2)
         * [eduroam Visitor Access (eVA)](https://www.heanet.ie/services/connectivity/eduroam-visitor-access)
@@ -62,7 +62,7 @@
     * [Upcoming Events](https://www.heanet.ie/workshops/)
     * [Conference Archive](https://www.heanet.ie/conferences)
 * [Find Us](https://www.heanet.ie/who-we-are/contact-heanet)
-* [Logout](https://www.heanet.ie/wp-login.php?action=logout&redirect_to=%2F&_wpnonce=398216f852)
+* [Logout](https://www.heanet.ie/wp-login.php?action=logout&redirect_to=%2F&_wpnonce=60f1bd4335)
 
 [](#)
 
