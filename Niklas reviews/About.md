@@ -22,21 +22,21 @@ Hi. My name is Niklas Pivic. I read and review books that have somehow intereste
 
 ### Latest Posts
 
-[](https://niklas.reviews/nick-banks-so-it-started-there)
+[](https://niklas.reviews/graeme-thomson-under-the-ivy)
 
-9 min read Aug 23, 2024
+7 min read Sep 20, 2024
 
-#### [Nick Banks - 'So it Started There'](https://niklas.reviews/nick-banks-so-it-started-there)
+#### [Graeme Thomson - 'Under the Ivy'](https://niklas.reviews/graeme-thomson-under-the-ivy)
 
 [](https://niklas.reviews/about/)
 
 [Niklas Pivic](https://niklas.reviews/about/)
 
-[](https://niklas.reviews/gary-indiana-i-can-give-you-anything-but-love)
+[](https://niklas.reviews/nick-banks-so-it-started-there)
 
-3 min read Jul 5, 2024
+9 min read Aug 23, 2024
 
-#### [Gary Indiana - 'I Can Give You Anything but Love'](https://niklas.reviews/gary-indiana-i-can-give-you-anything-but-love)
+#### [Nick Banks - 'So it Started There'](https://niklas.reviews/nick-banks-so-it-started-there)
 
 [](https://niklas.reviews/about/)
 
