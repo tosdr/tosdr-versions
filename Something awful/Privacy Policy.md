@@ -205,26 +205,25 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [Frog Bog! (Part 1 of 2)](https://www.somethingawful.com/photoshop-phriday/frog-get-out/1/)
-* [Amir and the Outsourcing of Comedy](https://www.somethingawful.com/email-pranks/amir-outsourcing-comedy/1/)
-* [Social Media Marketing Beat](https://www.somethingawful.com/news/social-media-beat/)
-* [Dungeons & Dragons: The Book of Wondrous Inventions](https://www.somethingawful.com/dungeons-and-dragons/wtf-wondrous-items/1/)
-* [What's Cookin'?](https://www.somethingawful.com/email-pranks/email-spam-whats/)
+* [Guide to the Sweetest Dragon Magazine Covers (R.I.P.)](https://www.somethingawful.com/guides/dragon-memory-love/1/)
+* [Memos from Bear Cave: Employee Reviews](https://www.somethingawful.com/news/bear-cave-raises/)
+* [You're wearing a DOG COSTUME!](https://www.somethingawful.com/awfulvision/furry-expert-juche/1/)
+* [Dungeons & Dragons: 1st Edition Monster Manual (part 1)](https://www.somethingawful.com/dungeons-and-dragons/wtf-monster-manual/1/)
 
 ### Popular Threads
 
 * ![](https://fi.somethingawful.com/forums/posticons/tails.gif) [:bighow: smilie](http://forums.somethingawful.com/showthread.php?threadid=4070734 ":bighow: smilie")
-* ![](https://fi.somethingawful.com/forums/posticons/byob-grumpy.gif) [What's it like being in an extremely long blight?](http://forums.somethingawful.com/showthread.php?threadid=4070718 "What's it like being in an extremely long blight?")
-* ![](https://fi.somethingawful.com/forums/posticons/games-regret.gif) ["using" "quotation" "marks" "to" "emphasize" "](http://forums.somethingawful.com/showthread.php?threadid=4070682 ""using" "quotation" "marks" "to" "emphasize" "")
 * ![](https://fi.somethingawful.com/forums/posticons/tfr-box.gif) [Post your predictions for the year 2035](http://forums.somethingawful.com/showthread.php?threadid=4070705 "Post your predictions for the year 2035")
+* ![](https://fi.somethingawful.com/forums/posticons/byob-grumpy.gif) [What's it like being in an extremely long blight?](http://forums.somethingawful.com/showthread.php?threadid=4070718 "What's it like being in an extremely long blight?")
+* ![](https://fi.somethingawful.com/forums/posticons/tviv-competition.gif) [Have there been any famous SA goons?](http://forums.somethingawful.com/showthread.php?threadid=4070782 "Have there been any famous SA goons?")
 
 ### Random Articles
 
-* [Stay hydrated, Homies!](https://www.somethingawful.com/awfulvision/autism-sonic-brony/1/)
-* [Little Joey Needs Your Help!](https://www.somethingawful.com/news/little-joey-needs/)
-* [In heaven, you are reunited with all the things you've ever eaten](https://www.somethingawful.com/mooflogs/heaven-you-reunited/)
-* [Black Swap](https://www.somethingawful.com/horrors-of-porn/black-swap/)
-* [Mrs. Huckabee Sanders, You Will ALWAYS Be Welcome at Blimpie](https://www.somethingawful.com/news/sarah-huckabee-sanders/)
+* [Beyond Loch Ness](https://www.somethingawful.com/movie-reviews/beyond-loch-ness/1/)
+* [Dr who FYAD thread: Yea we love that coat guy pretending to see aliens!! YEA](https://www.somethingawful.com/comedy-goldmine/doctor-who-fyad/)
+* [NFL Week 1 Preview With Special Guest Flea](https://www.somethingawful.com/pregame-wrapup/nfl-week-preview/1/)
+* [Operation Clambake](https://www.somethingawful.com/awful-links/awful-link-830/)
+* [Gaming Guyz 34: The First Last Ever](https://www.somethingawful.com/flash-tub/gaming-guyz-34/)
 
 [Random!](https://www.somethingawful.com/random/)
 
