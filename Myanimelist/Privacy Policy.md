@@ -50,6 +50,7 @@ View all results for ${ keyword }
     * [Report](https://myanimelist.net/modules.php?go=report&_location=mal_h_m)
     * [Staff](https://myanimelist.net/staff?_location=mal_h_m)
     * [MAL Supporter](https://myanimelist.net/membership?_location=mal_h_m)
+* [![Stacks challenge 2024 september](https://cdn.myanimelist.net/images/event/20240920_IS_Challenge_2024_september/badge.png)](https://myanimelist.net/forum/?topicid=2171740&_location=mal_h_m)
 
 MyAnimeList Privacy Policy
 ==========================
