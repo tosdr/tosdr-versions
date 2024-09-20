@@ -208,21 +208,21 @@ Turn Your Curiosity Into Discovery
 
 Latest Facts
 
-[![37 Facts About Venatio ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22113%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/general/37-facts-about-venatio/)
+[![35 Facts About Texas Killing Fields ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%2279%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/society-and-social-sciences/35-facts-about-texas-killing-fields/)
 
-General
+Society & Social Sciences
 
-19 Sep 2024
+20 Sep 2024
 
-[37 Facts About Venatio](https://facts.net/general/37-facts-about-venatio/)
+[35 Facts About Texas Killing Fields](https://facts.net/society-and-social-sciences/35-facts-about-texas-killing-fields/)
 
-[![30 Facts About Monicagate ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%2299%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/history/30-facts-about-monicagate/)
+[![35 Facts About Joshua Phillips ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%2285%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/history/people/35-facts-about-joshua-phillips/)
 
-History
+People
 
-19 Sep 2024
+20 Sep 2024
 
-[30 Facts About Monicagate](https://facts.net/history/30-facts-about-monicagate/)
+[35 Facts About Joshua Phillips](https://facts.net/history/people/35-facts-about-joshua-phillips/)
 
 [Home](https://facts.net/) [Privacy Policy](https://facts.net/privacy-policy/)
 
