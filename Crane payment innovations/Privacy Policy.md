@@ -966,9 +966,4 @@ Quick Links
 
 [Experience by ![Concentric CX](/images/concentric-cx.png)](http://concentric.cx/) 
 
-Gaming surveys block (non-gaming)
----------------------------------
-
-[Open Survey](#)
-
 ![](https://px.ads.linkedin.com/collect/?pid=4605972&fmt=gif)
