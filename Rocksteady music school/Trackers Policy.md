@@ -108,7 +108,7 @@ GU30 7DL
 
 Contact
 
-[info@rocksteadymusicschool.com](mailto:info@rocksteadymusicschool.com) [Parents - 0330 113 0330](tel:Parents - 0330 113 0330) [Schools - 0330 113 0401](tel:Schools - 0330 113 0401) (Calls are charged at local rate)
+[info@rocksteadymusicschool.com](mailto:info@rocksteadymusicschool.com) [Parents - 0330 113 0330](tel:Parents - 0330 113 0330) [Schools - 0330 113 0401](tel:Schools - 0330 113 0401) [Recruitment - 0330 113 0412](tel:Recruitment - 0330 113 0412) (Calls are charged at local rate)
 
 [](https://www.rocksteadymusicschool.com/ "Home page")
 
