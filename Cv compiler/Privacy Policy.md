@@ -1765,6 +1765,8 @@ What do top resumes look like? Check out these expertly-written samples:
 
 [Consulting Manager](https://cvcompiler.com/consulting-manager-resume-examples)
 
+[Database Developer](https://cvcompiler.com/database-developer-resume-examples)
+
 ![Upload resume illustration](uploads-pre-acq/img/upload-illustration.svg)
 
 ### Upload  
