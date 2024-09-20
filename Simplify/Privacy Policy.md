@@ -1,6 +1,6 @@
 [![Simplify Logo](/images/logos/logo.svg)](https://simplify.jobs/)
 
-Open menu
+[Sign Up](https://simplify.jobs/auth/register)Open menu
 
 [Copilot](https://simplify.jobs/copilot)[Job Application Tracker](https://simplify.jobs/job-application-tracker)[Resume Builder](https://simplify.jobs/resume-builder)[Employers](https://simplify.jobs/employers)[Blog](https://simplify.jobs/blog)
 
