@@ -493,8 +493,8 @@ EN
 
 ©2024 Gcore. All rights reserved.
 
-* [Terms of Service](https://policies.google.com/terms)
+* [Terms of Service](https://gcorelabs.com/legal)
     
-* [Privacy Policy](https://policies.google.com/privacy)
+* [Privacy Policy](https://gcorelabs.com/legal?tab=privacy_policy)
     
 * [Report Abuse](https://gcorelabs.com/report-abuse)
