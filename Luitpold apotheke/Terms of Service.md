@@ -334,25 +334,25 @@ Mo-Fr 8:00 - 17:00
 
 Klick des Tages
 
-[WICK MediNait Erkältungssirup für die Nacht 180ml](https://www.medikamente-per-klick.de/product?artnr=01689009&simpleContentAttachmentId=14183&wochenklick)  
+[Aqualibra bei wiederkehrenden Blasenentzündung 60St](https://www.medikamente-per-klick.de/product?artnr=00795287&simpleContentAttachmentId=14183&wochenklick)  
 **Sonderpreis**  
-[![Sonderpreis](/images/products/medikamenteperklick/mittel/01689009_m.jpg "Sonderpreis")](https://www.medikamente-per-klick.de/product?artnr=01689009&simpleContentAttachmentId=14183&wochenklick)
+[![Sonderpreis](/images/products/medikamenteperklick/mittel/00795287_m.jpg "Sonderpreis")](https://www.medikamente-per-klick.de/product?artnr=00795287&simpleContentAttachmentId=14183&wochenklick)
 
 UVP2:
 
-25,49 €\*
+26,88 €\*
 
 Ihr Preis:
 
-15,15 €\*
+17,67 €\*
 
 Sie sparen:
 
-10,34 € \-41%
+9,21 € \-34%
 
-2024-09-19 12:00:00
+2024-09-27 12:00:00
 
-[Jetzt sichern](https://www.medikamente-per-klick.de/quickAddProductsToCart?pzn=01689009&quantity=1&simpleContentAttachmentId=14183&Wochenklick)
+[Jetzt sichern](https://www.medikamente-per-klick.de/quickAddProductsToCart?pzn=00795287&quantity=1&simpleContentAttachmentId=14183&Wochenklick)
 
 layoutStyle2
 
@@ -644,4 +644,4 @@ Haben Sie bitte auch dafür Verständnis, dass wir aus Datenschutzgründen Ausk�
 
 ![](https://www.facebook.com/tr?id=338982736604254&ev=PageView&noscript=1)
 
-![](https://c.paypal.com/v1/r/d/b/ns?f=qettrlblvbitbkgccbgogrijfflztluu&s=MedikamentePerKlick_53G7W4P47GKSG_RT&js=0&r=1)
+![](https://c.paypal.com/v1/r/d/b/ns?f=vixlbrpxcszawqlbuwwvjgtkctdjgbjs&s=MedikamentePerKlick_53G7W4P47GKSG_RT&js=0&r=1)
