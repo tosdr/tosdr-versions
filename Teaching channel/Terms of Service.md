@@ -509,7 +509,7 @@ In addition to confirming your agreement to the Terms of Use, this notice servic
 
  
 
-[Use promo code FALLHARVEST24 to get 16% off 1, 2, and 3-credit courses! Now through September 24. Register Now](http://courses.teachingchannel.com/courses/dl/all?content=&grade=&credits=&format=&partner=&bundle=&srch=&nat=false) >>
+[Use promo code FALLHARVEST24 to get $76 off a 3-credit course! Now through September 24.](http://courses.teachingchannel.com/courses/dl/all?content=&grade=&credits=&format=&partner=&bundle=&srch=&nat=false) [Register Now >>](https://courses.teachingchannel.com/courses/dl/all?content=&grade=&credits=&format=OL&partner=&bundle=&srch=&nat=false)
 
 ![close-image](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2015%2015'%3E%3C/svg%3E)
 
