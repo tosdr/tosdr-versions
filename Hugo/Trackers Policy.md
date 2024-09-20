@@ -1,11 +1,11 @@
 ![](https://www.facebook.com/tr?id=853116159045904&ev=PageView&noscript=1)     
 
- [![](https://z4pda9.n3cdn1.secureserver.net/wp-content/uploads/2019/06/hugo_logo@2x.png?time=1726767759) ![](https://z4pda9.n3cdn1.secureserver.net/wp-content/uploads/2019/06/hugo_logo_dark@2x.png?time=1726767759)](https://hugoenergyapp.co.uk/)
+ [![](https://z4pda9.n3cdn1.secureserver.net/wp-content/uploads/2019/06/hugo_logo@2x.png?time=1726819752) ![](https://z4pda9.n3cdn1.secureserver.net/wp-content/uploads/2019/06/hugo_logo_dark@2x.png?time=1726819752)](https://hugoenergyapp.co.uk/)
 
 * [Features](#features "Features")
 * [Media](# "Media")
     
-    [HUGO Gifts](https://hugoenergyapp.co.uk/hugo-gifts/ "HUGO Gifts")[Meet Hugo](https://hugoenergyapp.co.uk/meet-hugo/ "Meet Hugo")[Press](https://hugoenergyapp.co.uk/topics/press/ "Press")[Blog](https://hugoenergyapp.co.uk/topics/blog/ "Blog")
+    [HUGO Gifts](https://hugoenergyapp.co.uk/hugo-gifts/ "HUGO Gifts")[HUGO Videos](https://hugoenergyapp.co.uk/meet-hugo/ "HUGO Videos")[Press](https://hugoenergyapp.co.uk/topics/press/ "Press")[Blog](https://hugoenergyapp.co.uk/topics/blog/ "Blog")
     
 * [Ask HUGO](# "Ask HUGO")
     
