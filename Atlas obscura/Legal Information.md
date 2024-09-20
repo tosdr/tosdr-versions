@@ -14,42 +14,11 @@ Force Open Search
 
 Open main menu
 
-![](https://assets.atlasobscura.com/assets/hermes/aoa_logo_aon-fb53a8d4415047286c25915bdbbdf3721acc39fd90bd71bf7712345c0096a45b.svg)
-
-Take your next trip with Atlas Obscura!
----------------------------------------
-
-Our small-group adventures are inspired by our Atlas of the world's most fascinating places, the stories behind them, and the people who bring them to life.
-
-[Visit Adventures](https://www.atlasobscura.com/adventures/)
-
-Trips Highlight
-
-   [![Egypt - Abu Simbel](https://img.atlasobscura.com/zmL_8N1QLi_bg4azbHqED4RVtZOZrf_l2Nzm9hkOaV8/rs:fill:256:192/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2V2ZW50/X2ltYWdlcy9lOWVl/Mjg5Yy1jY2I4LTRm/ZjgtOTgxYy1kNmM3/ZWNhNTI0N2YyYjg3/MWUxYWQwYWZmYTk5/MDdfRWd5cHQgMSAt/IEFidSBTaW1iZWwu/cG5n.png)](https://www.atlasobscura.com/adventures/trips/egypt)
-
-Egypt • 11 days, 10 nights
-
-[Treasures of Egypt: Hidden Tombs, Ancient Pyramids & Old Cairo](https://www.atlasobscura.com/adventures/trips/egypt)
-
-from
-
-   [![New Zealand, South Island, Wanaka](https://img.atlasobscura.com/knTC-fD-tJhZigIK456j_esuV2jEb8sBH855Yw3DJmA/rs:fill:256:192/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2V2ZW50/X2ltYWdlcy8yYThk/NTNkOS0wZTQyLTQ1/MjAtOWFkNC02Yzlj/NGFjNDUwMWUxYWJm/ZThmZTc2OGViYzNh/Y2RfR2V0dHlJbWFn/ZXMtMTA5MDcwNTUx/Ni5qcGc.jpg)](https://www.atlasobscura.com/adventures/trips/new-zealand)
-
-New Zealand • 12 days, 11 nights
-
-[Wild New Zealand: Exploring the North & South Islands](https://www.atlasobscura.com/adventures/trips/new-zealand)
-
-from
-
-[View all trips](https://www.atlasobscura.com/adventures/trips)
+Loading...
 
 Upcoming Experiences
 
 [View All Experiences »](https://www.atlasobscura.com/events)
-
-   [![](https://img.atlasobscura.com/h8QJFiy9nS4aWwkMrRcmui5h0Gq_Puhh218ZKRA8eTQ/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2V4cGVy/aWVuY2Vfc2VyaWVz/X2ltYWdlcy82NGJl/MzBjYS0yNGUwLTRm/NmItOWFiMi04ZDJm/OGVkM2E5NGIyMzVj/YWRhNjZmMTJlMjJi/NzRfMjAxOTA1MThf/U2VhcG9ydF8xODc0/LmpwZw.jpg)
-
-Wild Life Book Launch Aboard the Tall Ship Wavertree](https://www.atlasobscura.com/experiences/wild-life-book-event-nyc)
 
    [![](https://img.atlasobscura.com/rHgWDyNgbn2PLJ4fPnve5r--YDSMfBkSbNDqnDrd6NE/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2V4cGVy/aWVuY2Vfc2VyaWVz/X2ltYWdlcy8xODAz/Mjk3OS0xYThiLTQ1/YjQtYjFkMC1hNDhk/MTcxZmUxNTBhZjcx/MWI1MGE0MjY5NTAy/ZjZfanVuaW9yLWZl/cnJlaXJhLTdlc1JQ/VHQzOG5JLXVuc3Bs/YXNoLmpwZw.jpg)
 
@@ -69,29 +38,7 @@ Wild Life: An Explorer's Guide to the World's Living Wonders](https://www.atlaso
 
 Wild Life: An Explorer's Guide to the World's Living Wonders](https://www.atlasobscura.com/experiences/wild-life-book-event-santa-cruz)
 
-Upcoming Courses
-
-[View All Courses »](https://www.atlasobscura.com/online-courses)
-
-   [![](https://img.atlasobscura.com/qsjldIj5qK07gCdxw2VOKvN5GgtIYtyj4-JQNok_A0M/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2V4cGVy/aWVuY2Vfc2VyaWVz/X2ltYWdlcy80MTk1/ZDlmYi01M2Q2LTQ4/NzYtYjZiOS1kZWVl/YTU5YTllMGNhNDE0/MTY4MTE2OTZiMWQ0/OWNfSU1HXzk3NjAu/anBn.jpg)
-
-In Deep: Life at the Bottom of the Ocean With Dr. Sarah McAnulty](https://www.atlasobscura.com/experiences/deep-sea-course)
-
-   [![](https://img.atlasobscura.com/mw6XQrcvv8bED55hweNZfTLYB7myt__AO5BFAUThhZg/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2V4cGVy/aWVuY2Vfc2VyaWVz/X2ltYWdlcy8zMmU3/OTA4NS1jNGMyLTQ3/MWYtOGEyNy04M2I3/ODY2MmRhM2ZjYzkz/MmIxMjg4NTkzM2I4/OTdfUnViU3VtbWVy/UGxheS00Mi5qcGc.jpg)
-
-How to Make a Murder: Writing Your Own Murder Mystery Party With Abi Inman](https://www.atlasobscura.com/experiences/murder-mystery-party-online-course)
-
-   [![](https://img.atlasobscura.com/-BHb2cg8f71hNJMoFtoio8UWnFrrWIAo4TK6498kLU0/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2V4cGVy/aWVuY2Vfc2VyaWVz/X2ltYWdlcy80ZTJh/ZTZjNS1iYzgzLTQx/N2YtOWRiNC1mOGNm/NmNjYWE4YmEwY2E3/YzQ5Yzk2MDUxYzlj/YWZfSU1HXzI0NzQu/anBn.jpg)
-
-Stories in the Stones: How to Read a Gravestone With Dr. Elise M. Ciregna](https://www.atlasobscura.com/experiences/gravestone-reading-online-course)
-
-   [![](https://img.atlasobscura.com/oteCwywQUV_z7ByuIyJNpVBM8xr7Fl_GCkrW3rCKXIM/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2V4cGVy/aWVuY2Vfc2VyaWVz/X2ltYWdlcy8yZWZl/Y2ZhYS1mZTQ2LTQ3/YmEtOWYyZi1jMDQz/YmI2ODY0NGUwMmYz/ZTU5ZjMzZWZhNjE3/YTFfYW5pdGEtamFu/a292aWMtbTVvRnp6/cmNLd2MtdW5zcGxh/c2guanBn.jpg)
-
-Historical Nonfiction: Research-Based Writing With Hadley Meares](https://www.atlasobscura.com/experiences/writing-history-online-course)
-
-   [![](https://img.atlasobscura.com/PphIsMY6kFPUrMlyHCOlsqf35AYxwM6NF5sLKhzKWY0/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2V4cGVy/aWVuY2Vfc2VyaWVz/X2ltYWdlcy9kZWM3/OWU0NS1mZGIxLTQ3/YjMtYjZhMS1hNGIy/ZDMxODRkOTE2ZWI3/ZTc3ZTBkN2I0ZmFm/MmZfY2hhbmRyYW1v/dWxpLWJha3VsYXBh/bGx5LTk4ZFlvS1BK/ZWF3LXVuc3BsYXNo/LmpwZw.jpg)
-
-How The Living See The Dead: Comparative Thanatology With Dânia Rodrigues](https://www.atlasobscura.com/experiences/thanatology-course)
+Loading...
 
 Top Destinations
 
@@ -145,25 +92,29 @@ Latest Places
 
 [View All Places »](https://www.atlasobscura.com/places?sort=published_at)
 
+   [![The Mackintoshes reconstructed house.](https://img.atlasobscura.com/Ltni60wOinRcI_i3esDkun7zHmahIWoRQC1yPmAVUZs/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy8xMWNk/MTQ0MC0xNWRkLTQ4/ZDUtOGY4Ny1hM2Zj/ZmE2OTVjOTliNDUz/NWNjNGFjNWM4OWEw/MWFfNTMxMjMwODU3/MzRfYWI3MTM5Mjgw/OV9rLmpwZw.jpg)
+
+Mackintosh House](https://www.atlasobscura.com/places/mackintosh-house-hunterian)
+
+   [![Hike out to these ruins with a view of mountain peaks.](https://img.atlasobscura.com/zbFlreL0Kj_FZDzzYE-m2VN_19c5suFSl9RCn9nRlFY/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy85MmI4/YjEyNy00OTQ3LTRi/MTMtYmI0ZS1mMjQ0/Yjk0ODU2NjVmMGYz/N2IyNGNiZDY4Nzlh/NDRfSU1HXzYxMDUu/anBn.jpg)
+
+Birch Ruins](https://www.atlasobscura.com/places/birch-ruins)
+
    [![](https://img.atlasobscura.com/VsVAoQ6rp4jK0sX_WeNMNUN54JZNr1sApYnhAJneZsY/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy9mNzAz/MWY0ZS1lN2QyLTQ1/YmQtOGNiOC1hNWQ4/MmQxMGM5MDE4Zjc3/NDJkODVjNzkyOGEz/OGFfRFNDXzAzOTku/anBlZw.jpg)
 
 ‘Shake Hands With Lima-chan’](https://www.atlasobscura.com/places/shake-hands-with-lima-chan)
 
-   [![Mini-sculpture on display](https://img.atlasobscura.com/I7AJC1MzbVjqQ3baYwAP35ICfzd86HebHgFJJDeRorY/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy9jZTRk/Yjk0ZS1mMzBiLTQx/MjUtYjIxNi05NGRm/OTM5OGZmMWU5MDdi/YmUwY2YwMjJhYTY3/MjZfNTM1ODA3MTAz/NTFfYTNjZjQ0OWQ1/ZV9rLmpwZw.jpg)
+   [![A sign welcomes diners to the restaurant.](https://img.atlasobscura.com/GJHRPT_vX3OVP8tGAR-vApRqruwzg574km-YrRKOHJU/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy81OWRi/ZDdlNC1mMmE1LTQ5/OGQtOWNmOC03ODg0/NWY2OGUyYTNjNTM1/YzQ4ZjlmYmEwY2Iy/NDRfaW1hZ2UgKDEw/KS5qcGc.jpg)
 
-Miniatures of Isaac Cordal](https://www.atlasobscura.com/places/miniatures-of-isaac-cordal-namur)
-
-   [![](https://img.atlasobscura.com/FaGcKO9AgOyDd4iSJv96pEO2C-mF5gfabb9UfLnJW14/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy9mN2Rh/N2RmNi01NmRmLTQ1/MjctYmMzOS00OTdk/ZmRlMDg5MWY1ZTI5/YWViZWY4OGJkMWY2/MWJfSU1HXzIwMjMw/NzIwXzExMzM1My5q/cGc.jpg)
-
-Soufflaculs de Nontron](https://www.atlasobscura.com/places/les-soufflaculs-de-nontron)
-
-   [![The new Panel 36 on display.](https://img.atlasobscura.com/wPcmdWWms4WMeVSJKWSTwf0TZCdJ3MYfqTNb6boS524/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy8wMTE2/ZjY4YS0xNzdmLTQz/MWItOTQyNC05MjRh/NDk2ODJjYTJiMzQy/ZGVhZGJlYzk5MmRm/OTBfdGFwICg0KS5q/cGc.jpg)
-
-Panel 36 (Rosslyn Chapel)](https://www.atlasobscura.com/places/panel-36-rosslyn-chapel)
+Guluf Airline Restaurant & Hotel](https://www.atlasobscura.com/places/guluf-airline-restaurant-hotel)
 
 Latest Places to Eat & Drink
 
 [View All Places to Eat »](https://www.atlasobscura.com/cool-places-to-eat)
+
+   [![A sign welcomes diners to the restaurant.](https://img.atlasobscura.com/GJHRPT_vX3OVP8tGAR-vApRqruwzg574km-YrRKOHJU/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy81OWRi/ZDdlNC1mMmE1LTQ5/OGQtOWNmOC03ODg0/NWY2OGUyYTNjNTM1/YzQ4ZjlmYmEwY2Iy/NDRfaW1hZ2UgKDEw/KS5qcGc.jpg)
+
+Guluf Airline Restaurant & Hotel](https://www.atlasobscura.com/places/guluf-airline-restaurant-hotel)
 
    [![The sushi memorial at Namiyoke Shrine remembers the spirits of the seafood that made your lunch.](https://img.atlasobscura.com/jxfRj0Wnbf3GhWM-MbKK33Gs6g35RUXZ5adSLKuInXk/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy9mOTcx/YTU4Mi1iMjdlLTRh/OTUtOGE5Mi01YjIy/ZmJlODM1Njg3NjM0/NjliMThmMjI3ZWFm/MTdfRFNDXzAxNTcu/anBlZw.jpg)
 
@@ -180,10 +131,6 @@ Economy Drug & Old Fashioned Soda Fountain](https://www.atlasobscura.com/places/
    [![The Silver Cafe is a mom-and-pop diner that has been family operated for generations. ](https://img.atlasobscura.com/Le-mR9u5GNWOSGYAUlxewjk1b19k-L_L2vtgIBNgxzg/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy84NjM3/NDU1MWY2ZTMxOGQx/MzBfU2lsdmVyQ2Fm/ZTUuanBn.jpg)
 
 Historic Silver Café](https://www.atlasobscura.com/places/historic-silver-cafe)
-
-   [![The antique, embossed tin on the walls and ceiling of the Martin Hotel have an “Arabesque” design motif, popular at the time of establishment. ](https://img.atlasobscura.com/LxVhc6Odbmm1beoxgsnxC-qERVNTDxbEJmWwS6o0JC8/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy82OTZj/MDNmZjg4YTQxOWVi/NTFfTWFydGluSG90/ZWwxOS5qcGc.jpg)
-
-The Martin Hotel](https://www.atlasobscura.com/places/the-martin-hotel)
 
 Recent Stories
 
@@ -205,7 +152,7 @@ This Annual Pipe Walk Maps a Medieval Tradition in Bristol](https://www.atlasobs
 
 ‘Palacsinta Americana’ Are Pure Grandma Magic](https://www.atlasobscura.com/articles/second-generation-cookbook-jeremy-salamon-agis-counter)
 
-   [![While you’re searching for birds at Corkscrew Swamp Sanctuary, don’t forget to look down where you’re likely to see alligators navigating the water beneath the 2.25-mile boardwalk that winds through the swamp. ](https://img.atlasobscura.com/Mbb5kMHYS1CgtRCB5E62_5loXAhFyMM6TbpCWvvvyWs/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2Fzc2V0/cy85NzEwNmU3Njdl/MGUyMGQ3NDFfc2h1/dHRlcnN0b2NrXzIz/NzY0MTM3MDMuanBn.jpg)
+   [![Vibrant Roseate Spoonbills get their distinctive pink color from a diet of crustaceans and aquatic invertebrates. It’s just one of the spectacular avian species on view in Florida.](https://img.atlasobscura.com/Vc0Ixdgpz6cQjnavdIa6RIlWsLFnDnF1hrIhR9GnO-4/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2Fzc2V0/cy80Y2I3NmI0MGI2/MDk3YmE1MDVfNDAy/MjE0MDk3MjNfOTc3/ZmIwZTRiOV9vLmpw/Zw.jpg)
 
 A Field Guide to Exploring Florida’s Best Birding Spots](https://www.atlasobscura.com/articles/a-field-guide-to-exploring-florida-s-best-birding-spots)
 
