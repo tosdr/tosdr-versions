@@ -222,6 +222,18 @@ out of 5 based on
 
 ![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
 
+> Sep 20, 2024
+
+> Great experience booking was so fast
+
+> Great experience booking was so fast. I already recommended for my friends.
+
+Shakoas Atiani
+
+,
+
+![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
+
 > Sep 19, 2024
 
 > Quick and friendly service
@@ -325,20 +337,6 @@ DE
 > Fadiel was very prompt in responding to my emails. Despite a double booking for our Safari - not his fault - everything worked out well in the end.
 
 PeterB
-
-,
-
-GB
-
-![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
-
-> Sep 14, 2024
-
-> Sara Van Coillie
-
-> Sara Van Coillie, representing Safari.com, has gone above and beyond in assisting with a custom booking for an African safari experience I wanted arranged for my colleagues visiting Namibia for the first time. I highly recommend reaching out to her—she’s a true champion! It’s been a pleasure working with her.
-
-Christina Hutchinson
 
 ,
 
