@@ -13,8 +13,8 @@ Menu
     TOP STORIES
     
     * [Hezbollah leader vows retaliation against Israel for attacks on devices as both sides trade strikes](https://apnews.com/article/israel-lebanon-exploding-devices-hezbollah-mideast-ab2436cf5bae5e2fe2dddb293671a0ac)
-    * [What to know about the two waves of deadly explosions that hit Lebanon and Syria](https://apnews.com/article/lebanon-israel-hezbollah-pager-explosion-e9493409a0648b846fdcadffdb02d71e)
-    * [The exploding device attacks dealt a major but not crippling blow to Hezbollah, analysts say](https://apnews.com/article/hezbollah-israel-exploding-pagers-walkie-talkies-devices-b8506471525e3848023b1d6a863827e8)
+    * [Thousands of exploding devices in Lebanon trigger a nation that has been on edge for years](https://apnews.com/article/lebanon-pagers-hezbollahexplosion-israel-beirut-port-6c51ff6c743ba63154b95790357d31df)
+    * [Israeli soldiers pushed three apparently lifeless bodies from roofs during a West Bank raid](https://apnews.com/article/israel-palestinians-soldiers-qabatiya-west-bank-ae65d70f7da5db4603ba1b7c77f2ccd3)
     
     Newsletters
     
@@ -30,9 +30,9 @@ Menu
     
     TOP STORIES
     
-    * [Justice Department opens civil rights probe of sheriff's office after torture of 2 Black men](https://apnews.com/article/mississippi-civil-rights-police-brutality-goon-squad-2554c21a0c7366849d6119b07855f8c1)
-    * [Residents of Springfield, Ohio, hunker down and pray for a political firestorm to blow over](https://apnews.com/article/election-2024-haitian-immigrants-springfield-ohio-7e8b09654c0dd90d72c884dbb798c71b)
-    * [North Carolina Republican governor candidate Mark Robinson vows to stay in race despite media report](https://apnews.com/article/north-carolina-governor-mark-robinson-2339d442ffe7e38b9a83e3ce3ad4f4d2)
+    * [Kentucky sheriff charged in killing of judge at courthouse](https://apnews.com/article/courthouse-shooting-kentucky-f93419fff14202a88e28b5ea49b26810)
+    * [White officer who fatally shot Black man shouldn't have been in his backyard, judge rules in suit](https://apnews.com/article/exkansas-city-detective-wrongful-death-lawsuit-59a7e2b9fa8c512969608d52bd94fab3)
+    * [Senator's son to appear in court to change plea in North Dakota deputy's crash death](https://apnews.com/article/north-dakota-ian-cramer-kevin-cramer-f60fccd24b401cf68dca2bd39e13e72f)
     
     Newsletters
     
@@ -72,9 +72,9 @@ Menu
     
     TOP STORIES
     
-    * [The FBI says Iran tried to send hacked files to Democrats. It's another sign of foreign meddling](https://apnews.com/article/iran-fbi-hacking-trump-election-interference-2020-3631e1832a8edb549d53126585503f32)
-    * [Israel warned the US that an operation in Lebanon was coming but gave no details, officials say](https://apnews.com/article/israel-lebanon-pentagon-austin-gallant-4d893bb3fc1b23031c3bfc30e3650e0a)
-    * [America's political system is under stress as voters and their leaders navigate unfamiliar terrain](https://apnews.com/article/trump-harris-political-divisions-assassination-attempt-476dbd9915ec3cf94e1f0602e510578e)
+    * [Voters split on whether Harris or Trump would do a better job on the economy: AP-NORC poll](https://apnews.com/article/harris-trump-economy-poll-inflation-dc80ac9e5d7da42900762910d5f0a283)
+    * [The politics of immigration play differently along the US-Mexico border](https://apnews.com/article/immigration-border-town-us-mexico-7b0e02f167bb6d01159f2fda80566752)
+    * [In-person voting for the US presidential contest is about to start as Election Day closes in](https://apnews.com/article/early-voting-presidential-election-trump-harris-7fb7a8ff28490f71cd15529321dfe765)
     
     Newsletters
     
@@ -92,9 +92,9 @@ Menu
     
     TOP STORIES
     
-    * [Shohei Ohtani steals 50th base. He's 2 homers away from MLB's first 50-50 season](https://apnews.com/article/dodgers-shohei-ohtani-f8141d695112175fc2b695a0e9e748d9)
-    * [Guardians clinch AL playoff berth with walk-off, 3-2 win in 10 innings over Twins](https://apnews.com/article/twins-guardians-score-1dfcb6dd67cd0c7a2593a99c2d27db55)
-    * [Caitlin Clark and Angel Reese change the WNBA's landscape, and its future](https://apnews.com/article/caitlin-clark-angel-reese-wilson-wnba-22a22daa0150096d5cd95b6600c0439f)
+    * [Shohei Ohtani surpasses 50-50 milestone in spectacular fashion with a 3-homer, 2-steal game](https://apnews.com/article/dodgers-shohei-ohtani-f8141d695112175fc2b695a0e9e748d9)
+    * [Rodgers sparkles in his first home start since his injury to lead Jets to 24-3 win over Patriots](https://apnews.com/article/patriots-jets-score-656da51d47c0e41b2d49fbf2d8dea068)
+    * [Why does Shohei Ohtani's 50-50 feat resonate so much in baseball?](https://apnews.com/article/ohtani-5050-dodgers-abde758525ac0e2a3f972c219092fc85)
     
     Newsletters
     
@@ -114,7 +114,7 @@ Menu
     
     TOP STORIES
     
-    * [Sean ‘Diddy’ Combs joins list of Hollywood stars charged with sex crimes](https://apnews.com/article/bill-cosby-diddy-combs-harvey-weinstein-metoo-a2a6259e87b89b9f85baedabf6bb5074)
+    * [Movie Review: 'The Substance' is brilliantly disgusting and deranged](https://apnews.com/article/substance-demi-moore-review-ac324cb066b487b1ffe748d5b41a34ae)
     * [Happy 50th 'SNL!' Here's a look back at the show's very first cast](https://apnews.com/article/saturday-night-live-snl-original-cast-7e6475d12a0be575c1f9825fc276a6a2)
     * [Keith Urban says 'High' is about order and chaos, with songs about love, life and his late father](https://apnews.com/article/keith-urban-high-album-57d69f7f303c6043123bc24da7e980ad)
     
@@ -126,9 +126,9 @@ Menu
     
     TOP STORIES
     
-    * [Wall Street soars to records as Dow leaps 500 in a rate-cut rally that swept the world](https://apnews.com/article/stock-markets-rates-inflation-powell-a64fe0c4c099fa2469a8a6a4441f1189)
     * [At Google antitrust trial, documents say one thing. The tech giant's witnesses say different](https://apnews.com/article/google-antitrust-monopoly-ads-trial-f13bdceec0ed494973300b797f2f2990)
-    * [Federal Reserve signals end to inflation fight with a sizable half-point rate cut](https://apnews.com/article/interest-rates-inflation-prices-federal-reserve-economy-0283bc6f92e9f9920094b78d821df227)
+    * [Asian stocks follow Wall Street's rate-cut rally higher, as BOJ stands pat](https://apnews.com/article/stocks-markets-rates-fed-japan-acfb636ed8e0e341a1e93b1567ff0358)
+    * [Biden says Fed made 'declaration of progress' with interest rate cut](https://apnews.com/article/joe-biden-economics-fed-harris-federal-reserve-29c3216e0b7f86f351adae8e0aef646a)
     
 * [Science](https://apnews.com/science)
     
@@ -157,11 +157,11 @@ Menu
     
     TOP STORIES
     
+    * [Thailand's adorable pygmy hippo Moo Deng has the kind of face that launches a thousand memes](https://apnews.com/article/moo-deng-baby-hippo-thailand-zoo-27485f0cbc70071252be45d870d507aa)
     * [Police say a pair took an NYC subway train on a joyride and crashed it. They have arrested 1 teen](https://apnews.com/article/subway-joyride-crash-new-york-b61ed588ccef4e002a5d125b3cd75a50)
     * [A bewildered seal found itself in the mouth of a humpback whale](https://apnews.com/article/humpback-whale-gulps-seal-51cc65b5099f71a8d5b0d9469e2376fe)
     * [Grand prize winner removed 20 Burmese pythons from the wild in Florida challenge](https://apnews.com/article/florida-python-challenge-2024-burmese-snakes-winner-414c2fae8726fc31e4049124f0f50510)
     * [Purple place: Mets unveil the new Grimace seat at Citi Field](https://apnews.com/article/mets-grimace-seat-citi-field-7507393b90dadce40682024de63094d8)
-    * [A smelly penguin wins New Zealand's hard-fought bird election](https://apnews.com/article/bird-zealand-hoiho-yellow-eyed-penguin-robin-bb22c610345daffb4de24aad4a4db7b5)
     * [An 8-year-old Ohio girl drove an SUV on a solo Target run](https://apnews.com/article/ohio-girl-drives-to-store-9ac769122b7b139ce21e5ca2490c65da)
     
 * [Be Well](https://apnews.com/hub/be-well)
@@ -234,9 +234,9 @@ Menu
     
     TOP STORIES
     
+    * [Youth activists plan protests to demand action on climate as big events open in NYC](https://apnews.com/article/climate-protests-change-united-nations-climate-week-3c944a1d05d5bb4415c6b811bddc48b9)
     * [Brazil court drops a suspect in Amazon slayings of a British journalist and an Indigenous advocate](https://apnews.com/article/brazil-amazon-crime-dom-phillips-bruno-pereira-8d9a309c40a61d1a612fe9ef503e4e40)
     * [Hallmarks of climate change seen in floods, fires and drought around the globe](https://apnews.com/article/climate-floods-drought-wildfires-05ed09c4c299effedb1d1ed0e4ee21c1)
-    * [How Churchill embraces its title as polar bear capital of the world](https://apnews.com/article/canada-churchill-polar-bear-climate-photo-gallery-92a25e2df704da7a9e6003e66abab699)
     
 * [Health](https://apnews.com/health)
     
@@ -247,7 +247,7 @@ Menu
     * [Scientists show how pregnancy changes the brain in innumerable ways](https://apnews.com/article/pregnancy-brain-changes-mri-164b505abd05d3e5c9d93c0ef2953a80)
     * [Menopause can bring on dental problems, but you can protect your mouth](https://apnews.com/article/menopause-dental-dry-mouth-estrogen-414c39e119f4d3f17e9be289c9dd6914)
     * [Florida hospitals ask immigrants about their legal status. Texas will try it next](https://apnews.com/article/immigration-hospitals-florida-texas-desantis-abbott-21faed1d4d1b984ea3557d09f22dab9d)
-    * [Human remains are found inside an SUV that officials say caused pipeline fire in suburban Houston](https://apnews.com/article/texas-pipeline-fire-f994cc6266bb7be3473010450e270f27)
+    * [A gold mining town in Congo has become an mpox hot spot as a new strain spreads](https://apnews.com/article/mpox-new-strain-outbreak-kamituga-eastern-congo-f9affb7a7d73c8c30daf296c51c920c7)
     
 * [Tech](https://apnews.com/technology)
     
@@ -259,7 +259,7 @@ Menu
     
     * [Apple begins testing AI software designed to bring a smarter Siri to the iPhone 16](https://apnews.com/article/apple-artificial-intelligence-iphone-16-siri-3bbf16e06e29f09320dcbefcf4ffc40b)
     * [The Lebanon explosions raise a question: Deep into the smartphone era, who is still using pagers?](https://apnews.com/article/pagers-explosions-lebanon-doctors-security-israel-f35bd0f0e0a57bb5f37c139d1f32926d)
-    * [At Google antitrust trial, documents say one thing. The tech giant's witnesses say different](https://apnews.com/article/google-antitrust-monopoly-ads-trial-f13bdceec0ed494973300b797f2f2990)
+    * [UN experts urge United Nations to lay foundations for global governance of artificial intelligence](https://apnews.com/article/un-artificial-intelligence-global-governance-risks-benefits-f755788da7d5905fcc2d44edf93c4bec)
     
 * [Lifestyle](https://apnews.com/lifestyle)
     
@@ -269,9 +269,9 @@ Menu
     
     TOP STORIES
     
+    * [Through two games, Giants offensive line has shown some improvement](https://apnews.com/article/ny-giants-offensive-line-2e9896ca93e8ba254028fc2abda6e77a)
     * [This fund has launched some of the biggest names in fashion. It's marking 20 years](https://apnews.com/article/cfda-vogue-fashion-fund-20-years-0a80ae1f9d2827fd17358299149c4587)
     * [Nearly 138,000 beds are being recalled after reports of them breaking or collapsing during use](https://apnews.com/article/bed-recall-lucid-fall-injuries-cpsc-7cb837e8c011586c4f2dd526f9fd2e0f)
-    * [Prada's Eras Tour explores the past to offer infinite options during Milan Fashion Week](https://apnews.com/article/milan-fashion-week-prada-moschino-max-mara-a1ed2af5f47ab44095c2f09d42cfd759)
     
 * [Religion](https://apnews.com/religion)
     
@@ -293,12 +293,12 @@ Menu
     
     TOP STORIES
     
+    * [La reforma para pasar la Guardia Nacional a manos del Ejército avanza en el Congreso mexicano](https://apnews.com/world-news/general-news-224924522909b55b5729eaca0331c634)
+    * [Diez años sin respuestas en México. Los padres de los 43 desaparecidos de Ayotzinapa no se rinden](https://apnews.com/world-news/general-news-e7e00859ee3dc4dd12afd36c7e8f378b)
+    * [La noche de la desaparición de 43 estudiantes en el sur de México, en la voz de un superviviente](https://apnews.com/world-news/general-news-29eaf6828082b471997025bf995674cd)
     * [Líder de Hezbollah dice que detonaciones fueron "golpe severo" que cruzaron una "línea roja"](https://apnews.com/world-news/general-news-9f0fd437f64ccb1c7ba77bf98cb4c580)
     * [Las explosiones de dispositivos asestan duro golpe a Hezbollah, pero no fulminante, dicen analistas](https://apnews.com/world-news/general-news-8519fa0bf94296b1066e218df16971cc)
-    * [¿Se está preparando Israel para una guerra con Hezbollah?](https://apnews.com/world-news/general-news-366003011a62075fddf4742018490009)
-    * [Claves sobre las letales explosiones de bípers dirigidas contra Hezbollah](https://apnews.com/world-news/general-news-d830156fb22c4104ee9dab8b5af35f0c)
-    * [El sistema político de EEUU está bajo estrés; electores y líderes navegan terreno desconocido](https://apnews.com/us-news/general-news-db19b2bdd4f63ff3cffc00a53c12f5a1)
-    * [Una persona fue asesinada y otra resultó herida en ataque a puñaladas en Rotterdam, dice la policía](https://apnews.com/world-news/general-news-648aee7e95b852a6a0971a3fc7376a74)
+    * [Harris busca el impulso de Oprah como parte de su estrategia de medios digitales](https://apnews.com/politics/harris-busca-el-impulso-de-oprah-como-parte-de-su-estrategia-de-medios-digitales-84228a7a1a0085df0b42bf5af4e0cf08)
     
 * [AP Buyline Personal Finance](https://apnews.com/buyline-personal-finance/)
     
@@ -454,8 +454,8 @@ Submit Search
     TOP STORIES
     
     * [Hezbollah leader vows retaliation against Israel for attacks on devices as both sides trade strikes](https://apnews.com/article/israel-lebanon-exploding-devices-hezbollah-mideast-ab2436cf5bae5e2fe2dddb293671a0ac)
-    * [What to know about the two waves of deadly explosions that hit Lebanon and Syria](https://apnews.com/article/lebanon-israel-hezbollah-pager-explosion-e9493409a0648b846fdcadffdb02d71e)
-    * [The exploding device attacks dealt a major but not crippling blow to Hezbollah, analysts say](https://apnews.com/article/hezbollah-israel-exploding-pagers-walkie-talkies-devices-b8506471525e3848023b1d6a863827e8)
+    * [Thousands of exploding devices in Lebanon trigger a nation that has been on edge for years](https://apnews.com/article/lebanon-pagers-hezbollahexplosion-israel-beirut-port-6c51ff6c743ba63154b95790357d31df)
+    * [Israeli soldiers pushed three apparently lifeless bodies from roofs during a West Bank raid](https://apnews.com/article/israel-palestinians-soldiers-qabatiya-west-bank-ae65d70f7da5db4603ba1b7c77f2ccd3)
     
     Newsletters
     
@@ -471,9 +471,9 @@ Submit Search
     
     TOP STORIES
     
-    * [Justice Department opens civil rights probe of sheriff's office after torture of 2 Black men](https://apnews.com/article/mississippi-civil-rights-police-brutality-goon-squad-2554c21a0c7366849d6119b07855f8c1)
-    * [Residents of Springfield, Ohio, hunker down and pray for a political firestorm to blow over](https://apnews.com/article/election-2024-haitian-immigrants-springfield-ohio-7e8b09654c0dd90d72c884dbb798c71b)
-    * [North Carolina Republican governor candidate Mark Robinson vows to stay in race despite media report](https://apnews.com/article/north-carolina-governor-mark-robinson-2339d442ffe7e38b9a83e3ce3ad4f4d2)
+    * [Kentucky sheriff charged in killing of judge at courthouse](https://apnews.com/article/courthouse-shooting-kentucky-f93419fff14202a88e28b5ea49b26810)
+    * [White officer who fatally shot Black man shouldn't have been in his backyard, judge rules in suit](https://apnews.com/article/exkansas-city-detective-wrongful-death-lawsuit-59a7e2b9fa8c512969608d52bd94fab3)
+    * [Senator's son to appear in court to change plea in North Dakota deputy's crash death](https://apnews.com/article/north-dakota-ian-cramer-kevin-cramer-f60fccd24b401cf68dca2bd39e13e72f)
     
     Newsletters
     
@@ -523,9 +523,9 @@ Submit Search
     
     TOP STORIES
     
-    * [The FBI says Iran tried to send hacked files to Democrats. It's another sign of foreign meddling](https://apnews.com/article/iran-fbi-hacking-trump-election-interference-2020-3631e1832a8edb549d53126585503f32)
-    * [Israel warned the US that an operation in Lebanon was coming but gave no details, officials say](https://apnews.com/article/israel-lebanon-pentagon-austin-gallant-4d893bb3fc1b23031c3bfc30e3650e0a)
-    * [America's political system is under stress as voters and their leaders navigate unfamiliar terrain](https://apnews.com/article/trump-harris-political-divisions-assassination-attempt-476dbd9915ec3cf94e1f0602e510578e)
+    * [Voters split on whether Harris or Trump would do a better job on the economy: AP-NORC poll](https://apnews.com/article/harris-trump-economy-poll-inflation-dc80ac9e5d7da42900762910d5f0a283)
+    * [The politics of immigration play differently along the US-Mexico border](https://apnews.com/article/immigration-border-town-us-mexico-7b0e02f167bb6d01159f2fda80566752)
+    * [In-person voting for the US presidential contest is about to start as Election Day closes in](https://apnews.com/article/early-voting-presidential-election-trump-harris-7fb7a8ff28490f71cd15529321dfe765)
     
     Newsletters
     
@@ -553,9 +553,9 @@ Submit Search
     
     TOP STORIES
     
-    * [Shohei Ohtani steals 50th base. He's 2 homers away from MLB's first 50-50 season](https://apnews.com/article/dodgers-shohei-ohtani-f8141d695112175fc2b695a0e9e748d9)
-    * [Guardians clinch AL playoff berth with walk-off, 3-2 win in 10 innings over Twins](https://apnews.com/article/twins-guardians-score-1dfcb6dd67cd0c7a2593a99c2d27db55)
-    * [Caitlin Clark and Angel Reese change the WNBA's landscape, and its future](https://apnews.com/article/caitlin-clark-angel-reese-wilson-wnba-22a22daa0150096d5cd95b6600c0439f)
+    * [Shohei Ohtani surpasses 50-50 milestone in spectacular fashion with a 3-homer, 2-steal game](https://apnews.com/article/dodgers-shohei-ohtani-f8141d695112175fc2b695a0e9e748d9)
+    * [Rodgers sparkles in his first home start since his injury to lead Jets to 24-3 win over Patriots](https://apnews.com/article/patriots-jets-score-656da51d47c0e41b2d49fbf2d8dea068)
+    * [Why does Shohei Ohtani's 50-50 feat resonate so much in baseball?](https://apnews.com/article/ohtani-5050-dodgers-abde758525ac0e2a3f972c219092fc85)
     
     Newsletters
     
@@ -582,7 +582,7 @@ Submit Search
     
     TOP STORIES
     
-    * [Sean ‘Diddy’ Combs joins list of Hollywood stars charged with sex crimes](https://apnews.com/article/bill-cosby-diddy-combs-harvey-weinstein-metoo-a2a6259e87b89b9f85baedabf6bb5074)
+    * [Movie Review: 'The Substance' is brilliantly disgusting and deranged](https://apnews.com/article/substance-demi-moore-review-ac324cb066b487b1ffe748d5b41a34ae)
     * [Happy 50th 'SNL!' Here's a look back at the show's very first cast](https://apnews.com/article/saturday-night-live-snl-original-cast-7e6475d12a0be575c1f9825fc276a6a2)
     * [Keith Urban says 'High' is about order and chaos, with songs about love, life and his late father](https://apnews.com/article/keith-urban-high-album-57d69f7f303c6043123bc24da7e980ad)
     
@@ -598,9 +598,9 @@ Submit Search
     
     TOP STORIES
     
-    * [Wall Street soars to records as Dow leaps 500 in a rate-cut rally that swept the world](https://apnews.com/article/stock-markets-rates-inflation-powell-a64fe0c4c099fa2469a8a6a4441f1189)
     * [At Google antitrust trial, documents say one thing. The tech giant's witnesses say different](https://apnews.com/article/google-antitrust-monopoly-ads-trial-f13bdceec0ed494973300b797f2f2990)
-    * [Federal Reserve signals end to inflation fight with a sizable half-point rate cut](https://apnews.com/article/interest-rates-inflation-prices-federal-reserve-economy-0283bc6f92e9f9920094b78d821df227)
+    * [Asian stocks follow Wall Street's rate-cut rally higher, as BOJ stands pat](https://apnews.com/article/stocks-markets-rates-fed-japan-acfb636ed8e0e341a1e93b1567ff0358)
+    * [Biden says Fed made 'declaration of progress' with interest rate cut](https://apnews.com/article/joe-biden-economics-fed-harris-federal-reserve-29c3216e0b7f86f351adae8e0aef646a)
     
 * [Science](https://apnews.com/science)
     
@@ -635,11 +635,11 @@ Submit Search
     
     TOP STORIES
     
+    * [Thailand's adorable pygmy hippo Moo Deng has the kind of face that launches a thousand memes](https://apnews.com/article/moo-deng-baby-hippo-thailand-zoo-27485f0cbc70071252be45d870d507aa)
     * [Police say a pair took an NYC subway train on a joyride and crashed it. They have arrested 1 teen](https://apnews.com/article/subway-joyride-crash-new-york-b61ed588ccef4e002a5d125b3cd75a50)
     * [A bewildered seal found itself in the mouth of a humpback whale](https://apnews.com/article/humpback-whale-gulps-seal-51cc65b5099f71a8d5b0d9469e2376fe)
     * [Grand prize winner removed 20 Burmese pythons from the wild in Florida challenge](https://apnews.com/article/florida-python-challenge-2024-burmese-snakes-winner-414c2fae8726fc31e4049124f0f50510)
     * [Purple place: Mets unveil the new Grimace seat at Citi Field](https://apnews.com/article/mets-grimace-seat-citi-field-7507393b90dadce40682024de63094d8)
-    * [A smelly penguin wins New Zealand's hard-fought bird election](https://apnews.com/article/bird-zealand-hoiho-yellow-eyed-penguin-robin-bb22c610345daffb4de24aad4a4db7b5)
     * [An 8-year-old Ohio girl drove an SUV on a solo Target run](https://apnews.com/article/ohio-girl-drives-to-store-9ac769122b7b139ce21e5ca2490c65da)
     
 * [Be Well](https://apnews.com/hub/be-well)
@@ -719,9 +719,9 @@ Submit Search
     
     TOP STORIES
     
+    * [Youth activists plan protests to demand action on climate as big events open in NYC](https://apnews.com/article/climate-protests-change-united-nations-climate-week-3c944a1d05d5bb4415c6b811bddc48b9)
     * [Brazil court drops a suspect in Amazon slayings of a British journalist and an Indigenous advocate](https://apnews.com/article/brazil-amazon-crime-dom-phillips-bruno-pereira-8d9a309c40a61d1a612fe9ef503e4e40)
     * [Hallmarks of climate change seen in floods, fires and drought around the globe](https://apnews.com/article/climate-floods-drought-wildfires-05ed09c4c299effedb1d1ed0e4ee21c1)
-    * [How Churchill embraces its title as polar bear capital of the world](https://apnews.com/article/canada-churchill-polar-bear-climate-photo-gallery-92a25e2df704da7a9e6003e66abab699)
     
 * [Health](https://apnews.com/health)
     
@@ -732,7 +732,7 @@ Submit Search
     * [Scientists show how pregnancy changes the brain in innumerable ways](https://apnews.com/article/pregnancy-brain-changes-mri-164b505abd05d3e5c9d93c0ef2953a80)
     * [Menopause can bring on dental problems, but you can protect your mouth](https://apnews.com/article/menopause-dental-dry-mouth-estrogen-414c39e119f4d3f17e9be289c9dd6914)
     * [Florida hospitals ask immigrants about their legal status. Texas will try it next](https://apnews.com/article/immigration-hospitals-florida-texas-desantis-abbott-21faed1d4d1b984ea3557d09f22dab9d)
-    * [Human remains are found inside an SUV that officials say caused pipeline fire in suburban Houston](https://apnews.com/article/texas-pipeline-fire-f994cc6266bb7be3473010450e270f27)
+    * [A gold mining town in Congo has become an mpox hot spot as a new strain spreads](https://apnews.com/article/mpox-new-strain-outbreak-kamituga-eastern-congo-f9affb7a7d73c8c30daf296c51c920c7)
     
 * [Tech](https://apnews.com/technology)
     
@@ -747,7 +747,7 @@ Submit Search
     
     * [Apple begins testing AI software designed to bring a smarter Siri to the iPhone 16](https://apnews.com/article/apple-artificial-intelligence-iphone-16-siri-3bbf16e06e29f09320dcbefcf4ffc40b)
     * [The Lebanon explosions raise a question: Deep into the smartphone era, who is still using pagers?](https://apnews.com/article/pagers-explosions-lebanon-doctors-security-israel-f35bd0f0e0a57bb5f37c139d1f32926d)
-    * [At Google antitrust trial, documents say one thing. The tech giant's witnesses say different](https://apnews.com/article/google-antitrust-monopoly-ads-trial-f13bdceec0ed494973300b797f2f2990)
+    * [UN experts urge United Nations to lay foundations for global governance of artificial intelligence](https://apnews.com/article/un-artificial-intelligence-global-governance-risks-benefits-f755788da7d5905fcc2d44edf93c4bec)
     
 * [Lifestyle](https://apnews.com/lifestyle)
     
@@ -765,9 +765,9 @@ Submit Search
     
     TOP STORIES
     
+    * [Through two games, Giants offensive line has shown some improvement](https://apnews.com/article/ny-giants-offensive-line-2e9896ca93e8ba254028fc2abda6e77a)
     * [This fund has launched some of the biggest names in fashion. It's marking 20 years](https://apnews.com/article/cfda-vogue-fashion-fund-20-years-0a80ae1f9d2827fd17358299149c4587)
     * [Nearly 138,000 beds are being recalled after reports of them breaking or collapsing during use](https://apnews.com/article/bed-recall-lucid-fall-injuries-cpsc-7cb837e8c011586c4f2dd526f9fd2e0f)
-    * [Prada's Eras Tour explores the past to offer infinite options during Milan Fashion Week](https://apnews.com/article/milan-fashion-week-prada-moschino-max-mara-a1ed2af5f47ab44095c2f09d42cfd759)
     
 * [Religion](https://apnews.com/religion)
     
@@ -789,12 +789,12 @@ Submit Search
     
     TOP STORIES
     
+    * [La reforma para pasar la Guardia Nacional a manos del Ejército avanza en el Congreso mexicano](https://apnews.com/world-news/general-news-224924522909b55b5729eaca0331c634)
+    * [Diez años sin respuestas en México. Los padres de los 43 desaparecidos de Ayotzinapa no se rinden](https://apnews.com/world-news/general-news-e7e00859ee3dc4dd12afd36c7e8f378b)
+    * [La noche de la desaparición de 43 estudiantes en el sur de México, en la voz de un superviviente](https://apnews.com/world-news/general-news-29eaf6828082b471997025bf995674cd)
     * [Líder de Hezbollah dice que detonaciones fueron "golpe severo" que cruzaron una "línea roja"](https://apnews.com/world-news/general-news-9f0fd437f64ccb1c7ba77bf98cb4c580)
     * [Las explosiones de dispositivos asestan duro golpe a Hezbollah, pero no fulminante, dicen analistas](https://apnews.com/world-news/general-news-8519fa0bf94296b1066e218df16971cc)
-    * [¿Se está preparando Israel para una guerra con Hezbollah?](https://apnews.com/world-news/general-news-366003011a62075fddf4742018490009)
-    * [Claves sobre las letales explosiones de bípers dirigidas contra Hezbollah](https://apnews.com/world-news/general-news-d830156fb22c4104ee9dab8b5af35f0c)
-    * [El sistema político de EEUU está bajo estrés; electores y líderes navegan terreno desconocido](https://apnews.com/us-news/general-news-db19b2bdd4f63ff3cffc00a53c12f5a1)
-    * [Una persona fue asesinada y otra resultó herida en ataque a puñaladas en Rotterdam, dice la policía](https://apnews.com/world-news/general-news-648aee7e95b852a6a0971a3fc7376a74)
+    * [Harris busca el impulso de Oprah como parte de su estrategia de medios digitales](https://apnews.com/politics/harris-busca-el-impulso-de-oprah-como-parte-de-su-estrategia-de-medios-digitales-84228a7a1a0085df0b42bf5af4e0cf08)
     
 * [AP Buyline Personal Finance](https://apnews.com/buyline-personal-finance/)
     
