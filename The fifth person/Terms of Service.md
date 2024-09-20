@@ -131,14 +131,6 @@ Quick Guides
 
 * [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
-    ![](https://fifthperson.com/wp-content/uploads/2019/08/vivocity.jpg)](https://fifthperson.com/2024-mapletree-pan-asia-commercial-trust-agm/)
-    
-    [8 things I learned from the 2024 Mapletree Pan Asia Commercial Trust AGM](https://fifthperson.com/2024-mapletree-pan-asia-commercial-trust-agm/)
-    
-    August 19, 2024
-    
-* [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
     ![](https://fifthperson.com/wp-content/uploads/2022/11/USD-220x150.jpg)](https://fifthperson.com/best-places-to-stash-us-dollars/)
     
     [4 best places to stash your U.S. dollars](https://fifthperson.com/best-places-to-stash-us-dollars/)
@@ -155,6 +147,14 @@ Quick Guides
     
 * [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
+    ![](https://fifthperson.com/wp-content/uploads/2019/08/vivocity.jpg)](https://fifthperson.com/2024-mapletree-pan-asia-commercial-trust-agm/)
+    
+    [8 things I learned from the 2024 Mapletree Pan Asia Commercial Trust AGM](https://fifthperson.com/2024-mapletree-pan-asia-commercial-trust-agm/)
+    
+    August 19, 2024
+    
+* [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
     ![](https://fifthperson.com/wp-content/uploads/2014/11/monopoly.jpg)](https://fifthperson.com/7-quick-steps-to-pick-the-best-dividend-stocks/)
     
     [7 quick steps to pick the best dividend stocks](https://fifthperson.com/7-quick-steps-to-pick-the-best-dividend-stocks/)
@@ -163,19 +163,19 @@ Quick Guides
     
 * [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
-    ![](https://fifthperson.com/wp-content/uploads/2022/09/starbucks-220x150.jpg)](https://fifthperson.com/starbucks-operates-like-a-bank/)
-    
-    [How Starbucks secretly operates like a bank](https://fifthperson.com/starbucks-operates-like-a-bank/)
-    
-    September 13, 2022
-    
-* [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
     ![](https://fifthperson.com/wp-content/uploads/2024/09/chart-220x150.jpg)](https://fifthperson.com/net-profit-vs-free-cash-flow/)
     
     [Net profit vs. free cash flow: Which metric matters most?](https://fifthperson.com/net-profit-vs-free-cash-flow/)
     
     3 days ago
+    
+* [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    ![](https://fifthperson.com/wp-content/uploads/2022/09/starbucks-220x150.jpg)](https://fifthperson.com/starbucks-operates-like-a-bank/)
+    
+    [How Starbucks secretly operates like a bank](https://fifthperson.com/starbucks-operates-like-a-bank/)
+    
+    September 13, 2022
     
 * [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
