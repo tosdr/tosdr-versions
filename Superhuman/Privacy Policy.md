@@ -717,8 +717,8 @@ Note that, because these opt out mechanisms are specific to the device or browse
 
 **Do Not Track**. Some Internet browsers can be configured to send “**Do Not Track**” signals to the online services that you visit. We currently do not respond to “Do Not Track” or similar signals. To find out more about “Do Not Track,” please visit [http://www.allaboutdnt.com](https://www.allaboutdnt.com/).
 
-The Fastest Email Experience Ever Made
---------------------------------------
+The Most Productive Email App Ever Made
+---------------------------------------
 
 Company
 
@@ -768,8 +768,8 @@ Legal
 
 [](https://youtube.com/@SuperhumanCo)
 
-The Fastest Email Experience Ever Made
---------------------------------------
+The Most Productive Email App Ever Made
+---------------------------------------
 
 Company
 
@@ -819,8 +819,8 @@ Legal
 
 [](https://youtube.com/@SuperhumanCo)
 
-The Fastest Email Experience Ever Made
---------------------------------------
+The Most Productive Email App Ever Made
+---------------------------------------
 
 Company
 
@@ -870,8 +870,8 @@ Legal
 
 [](https://youtube.com/@SuperhumanCo)
 
-The Fastest Email Experience Ever Made
---------------------------------------
+The Most Productive Email App Ever Made
+---------------------------------------
 
 Company
 
