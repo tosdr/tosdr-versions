@@ -212,8 +212,8 @@ Menu
         [Read more news](http://news.harvard.edu/)
         
         1. [**Harvard releases race data for Class of 2028** Cohort is first to be impacted by Supreme Court’s admissions ruling](https://news.harvard.edu/gazette/story/2024/09/harvard-releases-race-data-for-class-of-2028/)
-        2. [**Parkinson’s may take a ‘gut-first’ path** Damage to upper GI lining linked to future risk of Parkinson’s disease, says new study](https://news.harvard.edu/gazette/story/2024/09/parkinsons-may-take-a-gut-first-path/)
-        3. [**High doses of Adderall may increase psychosis risk** Among those who take prescription amphetamines, 81% of cases of psychosis or mania could have been eliminated if they were not on the high dose, findings suggest](https://news.harvard.edu/gazette/story/2024/09/high-doses-of-adderall-may-increase-psychosis-risk/)
+        2. [**High doses of Adderall may increase psychosis risk** Among those who take prescription amphetamines, 81% of cases of psychosis or mania could have been eliminated if they were not on the high dose, findings suggest](https://news.harvard.edu/gazette/story/2024/09/high-doses-of-adderall-may-increase-psychosis-risk/)
+        3. [**For this ring, I thee sue**  Unhappy suitor wants $70,000 engagement gift back. Now court must decide whether 1950s legal standard has outlived relevance.](https://news.harvard.edu/gazette/story/2024/09/for-this-ring-i-thee-sue/)
         
     2. [Sign up for the Daily Gazette](https://www.pages01.net/harvard/gazette?email=)
     
