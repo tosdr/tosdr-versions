@@ -383,7 +383,7 @@ weiter
 
 Suchen
 
-![test.de print logo](https://cdn.test.de/static/images/modules/header/test-de-print-logo;v117286944.svg)
+![test.de print logo](https://cdn.test.de/static/images/modules/header/test-de-print-logo;v117358386.svg)
 
 1. [Startweiter](https://www.test.de/)
 2. Daten­schutz­erklärung
@@ -818,12 +818,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Fonds: Globale 1. Wahl-ETF aus unserem Dauer­test](https://www.test.de/Fonds-Globale-1-Wahl-ETF-aus-unserem-Dauertest-6133627-0/ "Fonds - Globale 1. Wahl-ETF aus unserem Dauertest")
-* [Druckertinte im Abo: Wann sich ein Tinten-Abo lohnt](https://www.test.de/Druckertinte-im-Abo-Wann-sich-ein-Tinten-Abo-lohnt-5971943-0/ "Druckertinte im Abo - Wann sich ein Tinten-Abo lohnt")
-* [Ganz­jahres­reifen im Test: Die besten Reifen für jedes Wetter](https://www.test.de/Ganzjahresreifen-im-Test-5391687-0/ "Ganzjahresreifen im Test - Die besten Reifen für jedes Wetter")
-* [Wert­papierdepots: Kunden des Smart­broker müssen umziehen](https://www.test.de/Wertpapierdepots-Kunden-des-Smartbroker-muessen-umziehen-6048760-0/ "Wertpapierdepots - Kunden des Smartbroker müssen umziehen")
-* [Technologie-Aktienfonds: Geld anlegen mit künst­licher Intelligenz](https://www.test.de/Technologie-Aktienfonds-Geld-anlegen-mit-kuenstlicher-Intelligenz-5978907-0/ "Technologie-Aktienfonds - Geld anlegen mit künstlicher Intelligenz")
-* [Wohn­gebäude­versicherung: Enorme Preis­sprünge für Haus­besitzer](https://www.test.de/Wohngebaeudeversicherung-Enorme-Preisspruenge-fuer-Hausbesitzer-5935351-0/ "Wohngebäudeversicherung - Enorme Preissprünge für Hausbesitzer")
+* [Hilferuf per Satellit: iPhones funken jetzt ins Welt­all](https://www.test.de/Neue-iPhone-Funktion-Hilferuf-per-Satellit-5952479-0/ "Hilferuf per Satellit - iPhones funken jetzt ins Weltall")
+* [Tomaten im Test: Diese Sorten sind robust](https://www.test.de/Tomaten-im-Test-Diese-Sorten-sind-robust-6105389-0/ "Tomaten im Test - Diese Sorten sind robust")
+* [Dax-Kappungs­grenze: Bei Börsenindizes kommt es auf breite Streuung an](https://www.test.de/Dax-Kappungsgrenze-erhoeht-6111224-0/ "Dax-Kappungsgrenze - Bei Börsenindizes kommt es auf breite Streuung an")
+* [Preis­anstieg für Eis: So schle­cken Sie preis­wert und lecker](https://www.test.de/Preisanstieg-fuer-Eis-So-schlecken-Sie-preiswert-und-lecker-6011081-0/ "Preisanstieg für Eis - So schlecken Sie preiswert und lecker")
+* [Ärger beim Bahnfahren: Schön cool bleiben – unsere Tipps für Buchung und Entschädigung](https://www.test.de/Aerger-beim-Bahnfahren-Wie-Sie-das-Beste-draus-machen-4200668-0/ "Ärger beim Bahnfahren - Schön cool bleiben – unsere Tipps für Buchung und Entschädigung")
+* [Sicher­heits­lücke: Abus lässt Betroffene im Stich](https://www.test.de/Sicherheitsluecke-Abus-laesst-Betroffene-im-Stich-5923244-0/ "Sicherheitslücke - Abus lässt Betroffene im Stich")
 
 Fußbereich
 
@@ -3863,12 +3863,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Fonds: Globale 1. Wahl-ETF aus unserem Dauer­test](https://www.test.de/Fonds-Globale-1-Wahl-ETF-aus-unserem-Dauertest-6133627-0/ "Fonds - Globale 1. Wahl-ETF aus unserem Dauertest")
-* [Druckertinte im Abo: Wann sich ein Tinten-Abo lohnt](https://www.test.de/Druckertinte-im-Abo-Wann-sich-ein-Tinten-Abo-lohnt-5971943-0/ "Druckertinte im Abo - Wann sich ein Tinten-Abo lohnt")
-* [Ganz­jahres­reifen im Test: Die besten Reifen für jedes Wetter](https://www.test.de/Ganzjahresreifen-im-Test-5391687-0/ "Ganzjahresreifen im Test - Die besten Reifen für jedes Wetter")
-* [Wert­papierdepots: Kunden des Smart­broker müssen umziehen](https://www.test.de/Wertpapierdepots-Kunden-des-Smartbroker-muessen-umziehen-6048760-0/ "Wertpapierdepots - Kunden des Smartbroker müssen umziehen")
-* [Technologie-Aktienfonds: Geld anlegen mit künst­licher Intelligenz](https://www.test.de/Technologie-Aktienfonds-Geld-anlegen-mit-kuenstlicher-Intelligenz-5978907-0/ "Technologie-Aktienfonds - Geld anlegen mit künstlicher Intelligenz")
-* [Wohn­gebäude­versicherung: Enorme Preis­sprünge für Haus­besitzer](https://www.test.de/Wohngebaeudeversicherung-Enorme-Preisspruenge-fuer-Hausbesitzer-5935351-0/ "Wohngebäudeversicherung - Enorme Preissprünge für Hausbesitzer")
+* [Hilferuf per Satellit: iPhones funken jetzt ins Welt­all](https://www.test.de/Neue-iPhone-Funktion-Hilferuf-per-Satellit-5952479-0/ "Hilferuf per Satellit - iPhones funken jetzt ins Weltall")
+* [Tomaten im Test: Diese Sorten sind robust](https://www.test.de/Tomaten-im-Test-Diese-Sorten-sind-robust-6105389-0/ "Tomaten im Test - Diese Sorten sind robust")
+* [Dax-Kappungs­grenze: Bei Börsenindizes kommt es auf breite Streuung an](https://www.test.de/Dax-Kappungsgrenze-erhoeht-6111224-0/ "Dax-Kappungsgrenze - Bei Börsenindizes kommt es auf breite Streuung an")
+* [Preis­anstieg für Eis: So schle­cken Sie preis­wert und lecker](https://www.test.de/Preisanstieg-fuer-Eis-So-schlecken-Sie-preiswert-und-lecker-6011081-0/ "Preisanstieg für Eis - So schlecken Sie preiswert und lecker")
+* [Ärger beim Bahnfahren: Schön cool bleiben – unsere Tipps für Buchung und Entschädigung](https://www.test.de/Aerger-beim-Bahnfahren-Wie-Sie-das-Beste-draus-machen-4200668-0/ "Ärger beim Bahnfahren - Schön cool bleiben – unsere Tipps für Buchung und Entschädigung")
+* [Sicher­heits­lücke: Abus lässt Betroffene im Stich](https://www.test.de/Sicherheitsluecke-Abus-laesst-Betroffene-im-Stich-5923244-0/ "Sicherheitslücke - Abus lässt Betroffene im Stich")
 
 Weitere spannende Themen
 
@@ -3883,12 +3883,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Fonds: Globale 1. Wahl-ETF aus unserem Dauer­test](https://www.test.de/Fonds-Globale-1-Wahl-ETF-aus-unserem-Dauertest-6133627-0/ "Fonds - Globale 1. Wahl-ETF aus unserem Dauertest")
-* [Druckertinte im Abo: Wann sich ein Tinten-Abo lohnt](https://www.test.de/Druckertinte-im-Abo-Wann-sich-ein-Tinten-Abo-lohnt-5971943-0/ "Druckertinte im Abo - Wann sich ein Tinten-Abo lohnt")
-* [Ganz­jahres­reifen im Test: Die besten Reifen für jedes Wetter](https://www.test.de/Ganzjahresreifen-im-Test-5391687-0/ "Ganzjahresreifen im Test - Die besten Reifen für jedes Wetter")
-* [Wert­papierdepots: Kunden des Smart­broker müssen umziehen](https://www.test.de/Wertpapierdepots-Kunden-des-Smartbroker-muessen-umziehen-6048760-0/ "Wertpapierdepots - Kunden des Smartbroker müssen umziehen")
-* [Technologie-Aktienfonds: Geld anlegen mit künst­licher Intelligenz](https://www.test.de/Technologie-Aktienfonds-Geld-anlegen-mit-kuenstlicher-Intelligenz-5978907-0/ "Technologie-Aktienfonds - Geld anlegen mit künstlicher Intelligenz")
-* [Wohn­gebäude­versicherung: Enorme Preis­sprünge für Haus­besitzer](https://www.test.de/Wohngebaeudeversicherung-Enorme-Preisspruenge-fuer-Hausbesitzer-5935351-0/ "Wohngebäudeversicherung - Enorme Preissprünge für Hausbesitzer")
+* [Hilferuf per Satellit: iPhones funken jetzt ins Welt­all](https://www.test.de/Neue-iPhone-Funktion-Hilferuf-per-Satellit-5952479-0/ "Hilferuf per Satellit - iPhones funken jetzt ins Weltall")
+* [Tomaten im Test: Diese Sorten sind robust](https://www.test.de/Tomaten-im-Test-Diese-Sorten-sind-robust-6105389-0/ "Tomaten im Test - Diese Sorten sind robust")
+* [Dax-Kappungs­grenze: Bei Börsenindizes kommt es auf breite Streuung an](https://www.test.de/Dax-Kappungsgrenze-erhoeht-6111224-0/ "Dax-Kappungsgrenze - Bei Börsenindizes kommt es auf breite Streuung an")
+* [Preis­anstieg für Eis: So schle­cken Sie preis­wert und lecker](https://www.test.de/Preisanstieg-fuer-Eis-So-schlecken-Sie-preiswert-und-lecker-6011081-0/ "Preisanstieg für Eis - So schlecken Sie preiswert und lecker")
+* [Ärger beim Bahnfahren: Schön cool bleiben – unsere Tipps für Buchung und Entschädigung](https://www.test.de/Aerger-beim-Bahnfahren-Wie-Sie-das-Beste-draus-machen-4200668-0/ "Ärger beim Bahnfahren - Schön cool bleiben – unsere Tipps für Buchung und Entschädigung")
+* [Sicher­heits­lücke: Abus lässt Betroffene im Stich](https://www.test.de/Sicherheitsluecke-Abus-laesst-Betroffene-im-Stich-5923244-0/ "Sicherheitslücke - Abus lässt Betroffene im Stich")
 
 Neueste Tests
 
@@ -3901,12 +3901,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Fonds: Globale 1. Wahl-ETF aus unserem Dauer­test](https://www.test.de/Fonds-Globale-1-Wahl-ETF-aus-unserem-Dauertest-6133627-0/ "Fonds - Globale 1. Wahl-ETF aus unserem Dauertest")
-* [Druckertinte im Abo: Wann sich ein Tinten-Abo lohnt](https://www.test.de/Druckertinte-im-Abo-Wann-sich-ein-Tinten-Abo-lohnt-5971943-0/ "Druckertinte im Abo - Wann sich ein Tinten-Abo lohnt")
-* [Ganz­jahres­reifen im Test: Die besten Reifen für jedes Wetter](https://www.test.de/Ganzjahresreifen-im-Test-5391687-0/ "Ganzjahresreifen im Test - Die besten Reifen für jedes Wetter")
-* [Wert­papierdepots: Kunden des Smart­broker müssen umziehen](https://www.test.de/Wertpapierdepots-Kunden-des-Smartbroker-muessen-umziehen-6048760-0/ "Wertpapierdepots - Kunden des Smartbroker müssen umziehen")
-* [Technologie-Aktienfonds: Geld anlegen mit künst­licher Intelligenz](https://www.test.de/Technologie-Aktienfonds-Geld-anlegen-mit-kuenstlicher-Intelligenz-5978907-0/ "Technologie-Aktienfonds - Geld anlegen mit künstlicher Intelligenz")
-* [Wohn­gebäude­versicherung: Enorme Preis­sprünge für Haus­besitzer](https://www.test.de/Wohngebaeudeversicherung-Enorme-Preisspruenge-fuer-Hausbesitzer-5935351-0/ "Wohngebäudeversicherung - Enorme Preissprünge für Hausbesitzer")
+* [Hilferuf per Satellit: iPhones funken jetzt ins Welt­all](https://www.test.de/Neue-iPhone-Funktion-Hilferuf-per-Satellit-5952479-0/ "Hilferuf per Satellit - iPhones funken jetzt ins Weltall")
+* [Tomaten im Test: Diese Sorten sind robust](https://www.test.de/Tomaten-im-Test-Diese-Sorten-sind-robust-6105389-0/ "Tomaten im Test - Diese Sorten sind robust")
+* [Dax-Kappungs­grenze: Bei Börsenindizes kommt es auf breite Streuung an](https://www.test.de/Dax-Kappungsgrenze-erhoeht-6111224-0/ "Dax-Kappungsgrenze - Bei Börsenindizes kommt es auf breite Streuung an")
+* [Preis­anstieg für Eis: So schle­cken Sie preis­wert und lecker](https://www.test.de/Preisanstieg-fuer-Eis-So-schlecken-Sie-preiswert-und-lecker-6011081-0/ "Preisanstieg für Eis - So schlecken Sie preiswert und lecker")
+* [Ärger beim Bahnfahren: Schön cool bleiben – unsere Tipps für Buchung und Entschädigung](https://www.test.de/Aerger-beim-Bahnfahren-Wie-Sie-das-Beste-draus-machen-4200668-0/ "Ärger beim Bahnfahren - Schön cool bleiben – unsere Tipps für Buchung und Entschädigung")
+* [Sicher­heits­lücke: Abus lässt Betroffene im Stich](https://www.test.de/Sicherheitsluecke-Abus-laesst-Betroffene-im-Stich-5923244-0/ "Sicherheitslücke - Abus lässt Betroffene im Stich")
 
 Service Stiftung Warentest
 
