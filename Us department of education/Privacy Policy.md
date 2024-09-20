@@ -200,20 +200,8 @@ Breadcrumb
 4. [Required Notices](https://www2.ed.gov/about/ed-overview/required-notices)
 5. [Privacy](https://www2.ed.gov/about/ed-overview/required-notices/privacy)
 
-Privacy Policy | U.S. Department of Education
-=============================================
-
-Privacy Policy  
-![ ](/sites/ed/files/images/ed_c_dline.gif)  
- 
-
-![](/sites/ed/files/images/ed_c_dline.gif)
-
-|     |     |
-| --- | --- |
-| ![](/sites/ed/files/images/ed_arrow_down.gif) | Select a link below to jump to the relevant page section. |
-
-![](/sites/ed/files/images/spacer.gif)
+Privacy Policy
+==============
 
 1. [Privacy Policy Summary](#summary)
 2. [Non-personal Information We Record](#non-p)
@@ -333,7 +321,7 @@ Office of Communications and Outreach (OCO)
 
 Page Last Reviewed:
 
-August 12, 2024
+September 20, 2024
 
 Related Content
 ---------------
