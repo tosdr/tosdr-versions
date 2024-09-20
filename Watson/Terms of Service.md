@@ -1,4 +1,4 @@
-[![watson](https://www.watson.ch/fr/_watsui/static/img/logos/logo_watson_navi_ch.png)](https://www.watson.ch/fr/)[![brouillard](https://www.watson.ch/fr/_watsui/static/img/weather/w-56.svg)9°](https://www.watson.ch/fr/o/meteo)
+[![watson](https://www.watson.ch/fr/_watsui/static/img/logos/logo_watson_navi_ch.png)](https://www.watson.ch/fr/)[![assez ensoleillé](https://www.watson.ch/fr/_watsui/static/img/weather/w-55.svg)12°](https://www.watson.ch/fr/o/meteo)
 
 [DE](https://www.watson.ch/) | [FR](https://www.watson.ch/fr/)
 
@@ -55,26 +55,26 @@
 
 Thèmes du moment
 
+* [Musique](https://www.watson.ch/fr/musique/)
+* [Guerre contre l'Ukraine](https://www.watson.ch/fr/guerre-contre-l-ukraine/)
+* [républicain](https://www.watson.ch/fr/republicain/)
+* [Politique](https://www.watson.ch/fr/politique/)
+* [Vidéo](https://www.watson.ch/fr/video/)
 * [Etats-Unis](https://www.watson.ch/fr/etats-unis/)
 * [Donald Trump](https://www.watson.ch/fr/donald-trump/)
-* [Emmanuel Macron](https://www.watson.ch/fr/emmanuel-macron/)
 * [Valais](https://www.watson.ch/fr/valais/)
-* [Sécurité](https://www.watson.ch/fr/securite/)
+* [Israël](https://www.watson.ch/fr/israel/)
+* [Histoire](https://www.watson.ch/fr/histoire/)
 * [Nature](https://www.watson.ch/fr/nature/)
-* [Abus sexuel](https://www.watson.ch/fr/abus-sexuel/)
-* [Cinéma](https://www.watson.ch/fr/cinema/)
+* [Suisse romande](https://www.watson.ch/fr/suisse-romande/)
 * [Football](https://www.watson.ch/fr/football/)
-* [Genève](https://www.watson.ch/fr/geneve/)
 * [France](https://www.watson.ch/fr/france/)
 * [Russie](https://www.watson.ch/fr/russie/)
-* [Poutine](https://www.watson.ch/fr/poutine/)
-* [voiture](https://www.watson.ch/fr/voiture/)
 * [Viol](https://www.watson.ch/fr/viol/)
 * [votations 2024](https://www.watson.ch/fr/votations-2024/)
 * [Réseaux sociaux](https://www.watson.ch/fr/reseaux-sociaux/)
-* [Politique](https://www.watson.ch/fr/politique/)
+* [Liban](https://www.watson.ch/fr/liban/)
 * [Justice](https://www.watson.ch/fr/justice/)
-* [Statistiques](https://www.watson.ch/fr/statistiques/)
 * [Tous les thèmes](https://www.watson.ch/fr/u/tag_list)
 
 * [Obtenir l'application](https://www.watson.ch/fr/u/app)
