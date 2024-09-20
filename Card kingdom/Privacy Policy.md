@@ -36,7 +36,7 @@ MTG Tools
 
 Retail Locations
 
-_Mox Boarding House_ [Seattle, WA](https://www.moxboardinghouse.com/seattle/) [Bellevue, WA](https://www.moxboardinghouse.com/bellevue/) [Portland, OR](https://www.moxboardinghouse.com/portland/) [Chandler, AZ](https://www.moxboardinghouse.com/mox-is-coming-to-arizona/)
+_Mox Boarding House_ [Seattle, WA](https://www.moxboardinghouse.com/seattle/) [Bellevue, WA](https://www.moxboardinghouse.com/bellevue/) [Portland, OR](https://www.moxboardinghouse.com/portland/) [Chandler, AZ](https://www.moxboardinghouse.com/blog/mox-chandler-everything-you-need-to-know/)
 
 Card Kingdom
 
