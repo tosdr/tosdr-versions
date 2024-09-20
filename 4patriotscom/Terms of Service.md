@@ -74,7 +74,7 @@ We Champion Freedom & Self-Reliance
         
         ###### Ultimate Meat Medley Jumbo Meat - Jumbo Can
         
-        38 reviews](https://4patriots.com/products/ultimate-meat-medley-jumbo-survival-food-kit)
+        39 reviews](https://4patriots.com/products/ultimate-meat-medley-jumbo-survival-food-kit)
         
     
 * [Survival Food](https://4patriots.com/collections/food)
