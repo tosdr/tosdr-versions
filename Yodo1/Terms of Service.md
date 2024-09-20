@@ -4,7 +4,7 @@
 
 * [Licensing](https://www.yodo1.com/ip-licensing/)
 * [Game Growth](#)
-    * [Monetization](https://www.yodo1.com/mobile-game-monetization/)
+    * [Ad Monetization](https://www.yodo1.com/mobile-game-monetization/)
     * [Growth Program](https://www.yodo1.com/mobile-game-growth/)
     * [Publishing](https://www.yodo1.com/mobile-game-publishers/)
     * [FanCraft](https://fancraft.yodo1.com/)
@@ -19,7 +19,7 @@ Menu
 
 * [Licensing](https://www.yodo1.com/ip-licensing/)
 * [Game Growth](#)
-    * [Monetization](https://www.yodo1.com/mobile-game-monetization/)
+    * [Ad Monetization](https://www.yodo1.com/mobile-game-monetization/)
     * [Growth Program](https://www.yodo1.com/mobile-game-growth/)
     * [Publishing](https://www.yodo1.com/mobile-game-publishers/)
     * [FanCraft](https://fancraft.yodo1.com/)
@@ -42,7 +42,7 @@ Menu
 
 * [Licensing](https://www.yodo1.com/ip-licensing/)
 * [Game Growth](#)
-    * [Monetization](https://www.yodo1.com/mobile-game-monetization/)
+    * [Ad Monetization](https://www.yodo1.com/mobile-game-monetization/)
     * [Growth Program](https://www.yodo1.com/mobile-game-growth/)
     * [Publishing](https://www.yodo1.com/mobile-game-publishers/)
     * [FanCraft](https://fancraft.yodo1.com/)
@@ -57,7 +57,7 @@ Menu
 
 * [Licensing](https://www.yodo1.com/ip-licensing/)
 * [Game Growth](#)
-    * [Monetization](https://www.yodo1.com/mobile-game-monetization/)
+    * [Ad Monetization](https://www.yodo1.com/mobile-game-monetization/)
     * [Growth Program](https://www.yodo1.com/mobile-game-growth/)
     * [Publishing](https://www.yodo1.com/mobile-game-publishers/)
     * [FanCraft](https://fancraft.yodo1.com/)
@@ -241,12 +241,12 @@ Simplifying mobile game growth.
 
 [LinkedIn](https://www.linkedin.com/company/yodo1/) [Instagram](https://www.instagram.com/yodo1games/) [Facebook Icon](https://www.facebook.com/Yodo1Games/) [Twitter](https://twitter.com/yodo1games)
 
-* [Monetization](https://www.yodo1.com/mobile-game-monetization/)
+* [Ad Monetization](https://www.yodo1.com/mobile-game-monetization/)
 * [Licensing](https://www.yodo1.com/ip-licensing/)
 * [Growth Program](https://www.yodo1.com/mobile-game-growth/)
 * [Publishing](https://www.yodo1.com/mobile-game-publishers/)
 
-* [Monetization](https://www.yodo1.com/mobile-game-monetization/)
+* [Ad Monetization](https://www.yodo1.com/mobile-game-monetization/)
 * [Licensing](https://www.yodo1.com/ip-licensing/)
 * [Growth Program](https://www.yodo1.com/mobile-game-growth/)
 * [Publishing](https://www.yodo1.com/mobile-game-publishers/)
