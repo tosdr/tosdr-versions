@@ -311,7 +311,7 @@ Advertise
 
 * Patrick Durkin
 
-* ### [Suffering in silence: Swans chairman on finals, fans and Robin Khuda](https://www.afr.com/work-and-careers/leaders/suffering-in-silence-swans-chairman-on-finals-fans-and-robin-khuda-20240911-p5k9uw)
+* ### [AFL more important to Khuda than data centres, Swans chairman suspects](https://www.afr.com/work-and-careers/leaders/suffering-in-silence-swans-chairman-on-finals-fans-and-robin-khuda-20240911-p5k9uw)
     
 * ### [Tabcorp CEO Gill McLachlan orders staff back to office five days a week](https://www.afr.com/work-and-careers/workplace/tabcorp-ceo-gill-mclachlan-orders-staff-back-to-office-five-days-a-week-20240909-p5k8xt)
     
@@ -319,15 +319,15 @@ Advertise
 [Life & Leisure](https://www.afr.com/life-and-leisure)
 ------------------------------------------------------
 
-[![Xiaopu-Wine-Tour-](https://static.ffx.io/images/$zoom_0.706%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_110/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/8bd819a4cdf333a760ce09aa1ef89c7f9c6c1ba5)](https://www.afr.com/life-and-luxury/food-and-wine/wine-made-in-china-is-starting-to-get-interesting-20240911-p5k9ud)
+[![ ](https://static.ffx.io/images/$zoom_0.1938%2C$multiply_4%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_334/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/e18c7ef757759b09c225cde4885718d54d8111ab)](https://www.afr.com/life-and-luxury/fashion-and-style/this-summer-is-going-to-be-hot-but-in-a-good-way-20240910-p5k9df)
 
-### [Next-gen Chinese winemaker starts exporting to Australia](https://www.afr.com/life-and-luxury/food-and-wine/wine-made-in-china-is-starting-to-get-interesting-20240911-p5k9ud)
+### [This summer is going to be hot, but in a good way](https://www.afr.com/life-and-luxury/fashion-and-style/this-summer-is-going-to-be-hot-but-in-a-good-way-20240910-p5k9df)
 
-* Max Allen
+* Eugenie Kelly
 
-* ### [The Australian gallery making moves on Mayfair](https://www.afr.com/life-and-luxury/arts-and-culture/the-australian-gallery-making-moves-on-mayfair-20240912-p5k9xk)
+* ### [The fastest car in the Mercedes-Benz line-up has arrived in Australia](https://www.afr.com/life-and-luxury/cars-bikes-and-boats/the-fastest-car-in-the-mercedes-benz-line-up-has-arrived-in-australia-20240817-p5k351)
     
-* ### [Sea Sea hotel aims for win win blend of old cool and new vogue](https://www.afr.com/life-and-luxury/travel/sea-sea-hotel-aims-for-win-win-blend-of-old-cool-and-new-vogue-20240909-p5k95g)
+* ### [Next-gen Chinese winemaker starts exporting to Australia](https://www.afr.com/life-and-luxury/food-and-wine/wine-made-in-china-is-starting-to-get-interesting-20240911-p5k9ud)
     
 
 [Rich List](https://www.afr.com/rich-list)
