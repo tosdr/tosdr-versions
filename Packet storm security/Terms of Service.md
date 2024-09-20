@@ -69,6 +69,14 @@ Recent News
 
 [![News RSS Feed](https://packetstatic.com/img1514015884/bt_rss.gif)](https://rss.packetstormsecurity.com/news/)  
 
+[Social Media Users Lack Control Over Data Used By AI, US FTC Says](https://packetstormsecurity.com/news/view/36363/Social-Media-Users-Lack-Control-Over-Data-Used-By-AI-US-FTC-Says.html)
+
+Posted [Sep 19, 2024](https://packetstormsecurity.com/news/date/2024-09-19/ "20:43:44 UTC")
+
+tags | [headline](https://packetstormsecurity.com/news/tags/headline), [government](https://packetstormsecurity.com/news/tags/government), [privacy](https://packetstormsecurity.com/news/tags/privacy), [usa](https://packetstormsecurity.com/news/tags/usa), [data loss](https://packetstormsecurity.com/news/tags/data_loss), [botnet](https://packetstormsecurity.com/news/tags/botnet)
+
+[Favorite](https://packetstormsecurity.com/news/favorite/36363/) | [View](https://www.reuters.com/technology/artificial-intelligence/social-media-users-lack-control-over-data-used-by-ai-us-ftc-says-2024-09-19/)
+
 [Hackers Demand $6 Million From Seattle Airport Operators](https://packetstormsecurity.com/news/view/36362/Hackers-Demand-6-Million-From-Seattle-Airport-Operators.html)
 
 Posted [Sep 19, 2024](https://packetstormsecurity.com/news/date/2024-09-19/ "13:06:38 UTC")
@@ -141,14 +149,6 @@ tags | [headline](https://packetstormsecurity.com/news/tags/headline), [privacy]
 
 [Favorite](https://packetstormsecurity.com/news/favorite/36350/) | [View](https://arstechnica.com/tech-policy/2024/09/att-fined-13m-for-data-breach-after-giving-customer-bill-info-to-vendor/)
 
-[WhatsApp View Once Fix Gets Defeated In Less Than A Week](https://packetstormsecurity.com/news/view/36349/WhatsApp-View-Once-Fix-Gets-Defeated-In-Less-Than-A-Week.html)
-
-Posted [Sep 18, 2024](https://packetstormsecurity.com/news/date/2024-09-18/ "13:22:19 UTC")
-
-tags | [headline](https://packetstormsecurity.com/news/tags/headline), [privacy](https://packetstormsecurity.com/news/tags/privacy), [facebook](https://packetstormsecurity.com/news/tags/facebook), [social](https://packetstormsecurity.com/news/tags/social)
-
-[Favorite](https://packetstormsecurity.com/news/favorite/36349/) | [View](https://www.theregister.com/2024/09/18/whatsapp_view_once_flaw_unfixed/)
-
 [View More News →](https://packetstormsecurity.com/news/)
 
 [![packet storm](https://packetstatic.com/img1514015884/ps_logo.png)](https://packetstormsecurity.com/)
@@ -193,4 +193,4 @@ Hosting By
 
 ![close](https://packetstatic.com/img1514015884/o_close.png)
 
-![](https://ssl.google-analytics.com/__utm.gif?utmwv=1.3&utmn=2042257105&utmcs=ISO-8859-1&utmsr=31337x31337&utmsc=32-bit&utmul=en-us&utmje=0&utmfl=-&utmcn=1&utmdt=Terms%20of%20Service%u2248%20Packet%20Storm&utmhn=packetstormsecurity.com&utmr=-&utmp=%2Flegal%2Ftos.html&utmac=UA-18885198-1&utmcc=__utma%3D32867617.2042257105.1726779660.1726779660.1726779660.1%3B%2B__utmz%3D32867617.1726779660.1.1.utmccn%3D(direct)%7Cutmcsr%3D(direct)%7Cutmcmd%3D(none))
+![](https://ssl.google-analytics.com/__utm.gif?utmwv=1.3&utmn=2324262560&utmcs=ISO-8859-1&utmsr=31337x31337&utmsc=32-bit&utmul=en-us&utmje=0&utmfl=-&utmcn=1&utmdt=Terms%20of%20Service%u2248%20Packet%20Storm&utmhn=packetstormsecurity.com&utmr=-&utmp=%2Flegal%2Ftos.html&utmac=UA-18885198-1&utmcc=__utma%3D32867617.2324262560.1726800727.1726800727.1726800727.1%3B%2B__utmz%3D32867617.1726800727.1.1.utmccn%3D(direct)%7Cutmcsr%3D(direct)%7Cutmcmd%3D(none))
