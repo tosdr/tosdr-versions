@@ -124,6 +124,6 @@ If you have questions about (or suggestions for!) this policy, please [contact u
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-Thank you so much for your super fast support!
+I must say that I am impressed by the FoxyProxy support. Having done similar work in the past I know how difficult it is to provide timely and effective IT support.
 
-Christoph Hahn
+Norbert Fortelny
