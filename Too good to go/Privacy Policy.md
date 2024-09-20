@@ -90,7 +90,7 @@ About Food Waste
 
 [FOOD WASTE FACTS
 
-Dive into the world of food waste and explore its impact on society, the economy and the environment.](https://toogoodtogo.com/en-us/food-waste-home)
+Dive into the world of food waste and explore its impact on society, the economy and the environment.](https://toogoodtogo.com/en-us/about-food-waste)
 
 [Resources
 
