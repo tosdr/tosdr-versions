@@ -50,31 +50,31 @@ Motociclista morre após se chocar com carro e ser atropelado por caminhão, no 
 
 [Leia tudo sobre Alagoas](https://www.tnh1.com.br/noticias/editoria/alagoas/ "Ir para Alagoas")
 
-   [![Novo episódio: "Territórios do Crime" mostra como traficantes usam dinheiro para promover festas e ostentação ](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/e/3/csm_Still_Territorios_do_crime_d7bdc35c5f.png)
+   [![Polícia Científica procura familiares de homem que vivia em situação de rua em Penedo](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/0/c/csm_policia-cientifica-procura-familiares-de-homem-que-vivia-em-situacao-de-rua-em-penedo_2c1a75ba69.jpeg)
 
 Alagoas
 
-Novo episódio: "Territórios do Crime" mostra como traficantes usam dinheiro para promover festas e ostentação](https://www.tnh1.com.br/noticia/nid/novo-episodio-territorios-do-crime-mostra-como-traficantes-usam-dinheiro-para-promover-festas-e-ostentacao/ "Novo episódio: "Territórios do Crime" mostra como traficantes usam dinheiro para promover festas e ostentação ")   [![Veja a previsão do tempo para esta sexta-feira, 20, em todas as regiões de Alagoas](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/1/e/csm_csm_csm_CALOR-Pixabay_31e7dfd61d_25ebb1510f__1__fcd1296cc8.jpg)
+Polícia Científica procura familiares de homem que vivia em situação de rua em Penedo](https://www.tnh1.com.br/noticia/nid/policia-cientifica-procura-familiares-de-homem-que-vivia-em-situacao-de-rua-em-penedo/ "Polícia Científica procura familiares de homem que vivia em situação de rua em Penedo")   [![Novo episódio: "Territórios do Crime" mostra como traficantes usam dinheiro para promover festas e ostentação ](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/e/3/csm_Still_Territorios_do_crime_d7bdc35c5f.png)
+
+Alagoas
+
+Novo episódio: "Territórios do Crime" mostra como traficantes usam dinheiro para promover festas e ostentação](https://www.tnh1.com.br/noticia/nid/novo-episodio-territorios-do-crime-mostra-como-traficantes-usam-dinheiro-para-promover-festas-e-ostentacao/ "Novo episódio: "Territórios do Crime" mostra como traficantes usam dinheiro para promover festas e ostentação ")   [![Veja a previsão do tempo para esta sexta-feira, 20, em todas as regiões de Alagoas](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/1/e/csm_csm_csm_CALOR-Pixabay_31e7dfd61d_25ebb1510f__1__fcd1296cc8.jpg)
 
 Meteorologia
 
-Veja a previsão do tempo para esta sexta-feira, 20, em todas as regiões de Alagoas](https://www.tnh1.com.br/noticia/nid/veja-a-previsao-do-tempo-para-esta-sexta-feira-20-em-todas-as-regioes-de-alagoas/ "Veja a previsão do tempo para esta sexta-feira, 20, em todas as regiões de Alagoas")   [![Polícia Militar recupera veículo roubado no interior de Alagoas](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/1/8/csm_policia-militar-recupera-veiculo-roubado-no-interior-de-alagoas_3728f3654e.jpg)
+Veja a previsão do tempo para esta sexta-feira, 20, em todas as regiões de Alagoas](https://www.tnh1.com.br/noticia/nid/veja-a-previsao-do-tempo-para-esta-sexta-feira-20-em-todas-as-regioes-de-alagoas/ "Veja a previsão do tempo para esta sexta-feira, 20, em todas as regiões de Alagoas")   [![Polícia Militar recupera veículo roubado no interior de Alagoas](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/1/8/csm_policia-militar-recupera-veiculo-roubado-no-interior-de-alagoas_3728f3654e.jpg)
 
 Alagoas
 
-Polícia Militar recupera veículo roubado no interior de Alagoas](https://www.tnh1.com.br/noticia/nid/policia-militar-recupera-veiculo-roubado-no-interior-de-alagoas/ "Polícia Militar recupera veículo roubado no interior de Alagoas")   [![Segundo episódio da série "Territórios do Crime" mostra como o RJ virou refúgio de traficantes alagoanos](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/e/3/csm_Still_Territorios_do_crime_d7bdc35c5f.png)
+Polícia Militar recupera veículo roubado no interior de Alagoas](https://www.tnh1.com.br/noticia/nid/policia-militar-recupera-veiculo-roubado-no-interior-de-alagoas/ "Polícia Militar recupera veículo roubado no interior de Alagoas")   [![Segundo episódio da série "Territórios do Crime" mostra como o RJ virou refúgio de traficantes alagoanos](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/e/3/csm_Still_Territorios_do_crime_d7bdc35c5f.png)
 
 Polícia
 
-Segundo episódio da série "Territórios do Crime" mostra como o RJ virou refúgio de traficantes alagoanos](https://www.tnh1.com.br/noticia/nid/segundo-episodio-da-serie-territorios-do-crime-mostra-como-o-rj-virou-refugio-de-traficantes-alagoanos/ "Segundo episódio da série "Territórios do Crime" mostra como o RJ virou refúgio de traficantes alagoanos")   [![Senador Rui Palmeira: juiz eleitoral condena prefeita  e cassa registro de candidato à prefeitura](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/7/c/csm_csm_Senador-Rui-Palmeira-ascom_9c363eb8f8_ed5efc79bd.jpg)
+Segundo episódio da série "Territórios do Crime" mostra como o RJ virou refúgio de traficantes alagoanos](https://www.tnh1.com.br/noticia/nid/segundo-episodio-da-serie-territorios-do-crime-mostra-como-o-rj-virou-refugio-de-traficantes-alagoanos/ "Segundo episódio da série "Territórios do Crime" mostra como o RJ virou refúgio de traficantes alagoanos")   [![Senador Rui Palmeira: juiz eleitoral condena prefeita  e cassa registro de candidato à prefeitura](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/7/c/csm_csm_Senador-Rui-Palmeira-ascom_9c363eb8f8_ed5efc79bd.jpg)
 
 PROMOÇÃO PESSOAL
 
-Senador Rui Palmeira: juiz eleitoral condena prefeita e cassa registro de candidato à prefeitura](https://www.tnh1.com.br/noticia/nid/senador-rui-palmeira-juiz-eleitoral-condena-prefeita-e-cassa-registro-de-candidato-a-prefeitura/ "Senador Rui Palmeira: juiz eleitoral condena prefeita  e cassa registro de candidato à prefeitura")   [![Governo do Estado diploma três novos patrimônios vivos de Alagoas](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/c/1/csm_governo-do-estado-diploma-tres-novos-patrimonios-vivos-de-alagoas_e5e42bd909.jpeg)
-
-Cultura
-
-Governo do Estado diploma três novos patrimônios vivos de Alagoas](https://www.tnh1.com.br/noticia/nid/governo-do-estado-diploma-tres-novos-patrimonios-vivos-de-alagoas/ "Governo do Estado diploma três novos patrimônios vivos de Alagoas")
+Senador Rui Palmeira: juiz eleitoral condena prefeita e cassa registro de candidato à prefeitura](https://www.tnh1.com.br/noticia/nid/senador-rui-palmeira-juiz-eleitoral-condena-prefeita-e-cassa-registro-de-candidato-a-prefeitura/ "Senador Rui Palmeira: juiz eleitoral condena prefeita  e cassa registro de candidato à prefeitura")
 
 [Polícia](https://www.tnh1.com.br/noticias/editoria/policia/ "Polícia")
 
@@ -198,15 +198,7 @@ O Portal TNH1 não entra em contato com os ganhadores de qualquer promoção atr
 * [ÚLTIMAS](#ultimas "Ultimas")
 * [VÍDEOS](#videos "Videos")
 
-[![Delegado é preso em Maceió suspeito de prejudicar investigação da morte de empresário](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/a/7/csm_policia_federal_sede_maceio_e65da481b1.jpg)
-
-caso kleber malaquias
-
-caso kleber malaquias
-
-Delegado é preso em Maceió suspeito de prejudicar investigação da morte de empresário
-
-Delegado é preso em Maceió suspeito de prejudicar investigação da morte de empresário](https://www.tnh1.com.br/noticia/nid/delegado-e-preso-em-maceio-suspeito-de-prejudicar-investigacao-da-morte-de-empresario/ "Delegado é preso em Maceió suspeito de prejudicar investigação da morte de empresário")[![Filho revela a última promessa que fez para Christopher Reeve, o Superman clássico do cinema](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/6/4/csm_christopher-reeve-matt-reeve-filho-reproducao-redes-sociais_95606d02b9.jpg)
+[![Filho revela a última promessa que fez para Christopher Reeve, o Superman clássico do cinema](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/6/4/csm_christopher-reeve-matt-reeve-filho-reproducao-redes-sociais_95606d02b9.jpg)
 
 32 anos
 
@@ -214,7 +206,7 @@ Delegado é preso em Maceió suspeito de prejudicar investigação da morte de e
 
 Filho revela a última promessa que fez para Christopher Reeve, o Superman clássico do cinema
 
-Filho revela a última promessa que fez para Christopher Reeve, o Superman clássico do cinema](https://www.tnh1.com.br/noticia/nid/filho-revela-a-ultima-promessa-que-fez-para-christopher-reeve-o-superman-classico-do-cinema/ "Filho revela a última promessa que fez para Christopher Reeve, o Superman clássico do cinema")[![Promotores se posicionam sobre prisão de delegado: "Grave conduta jamais esperada"](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/1/e/csm_Promotores_Kleber_Valadares_e_Lidia_Malta_-_foto_Reproducao_MPAL_4310cb7162.jpg)
+Filho revela a última promessa que fez para Christopher Reeve, o Superman clássico do cinema](https://www.tnh1.com.br/noticia/nid/filho-revela-a-ultima-promessa-que-fez-para-christopher-reeve-o-superman-classico-do-cinema/ "Filho revela a última promessa que fez para Christopher Reeve, o Superman clássico do cinema")[![Promotores se posicionam sobre prisão de delegado: "Grave conduta jamais esperada"](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/1/e/csm_Promotores_Kleber_Valadares_e_Lidia_Malta_-_foto_Reproducao_MPAL_4310cb7162.jpg)
 
 kleber malaquias
 
@@ -222,7 +214,7 @@ kleber malaquias
 
 Promotores se posicionam sobre prisão de delegado: "Grave conduta jamais esperada"
 
-Promotores se posicionam sobre prisão de delegado: "Grave conduta jamais esperada"](https://www.tnh1.com.br/noticia/nid/promotores-se-posicionam-sobre-prisao-de-delegado-grave-conduta-jamais-esperada/ "Promotores se posicionam sobre prisão de delegado: "Grave conduta jamais esperada"")[![Longa alagoano é pré-selecionado para o Oscar de Melhor Filme Internacional](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/8/3/csm_longa-alagoano-sem-coracao-e-pre-selecionado-para-o-oscar-de-melhor-filme-internacional_e4c9125556.jpg)
+Promotores se posicionam sobre prisão de delegado: "Grave conduta jamais esperada"](https://www.tnh1.com.br/noticia/nid/promotores-se-posicionam-sobre-prisao-de-delegado-grave-conduta-jamais-esperada/ "Promotores se posicionam sobre prisão de delegado: "Grave conduta jamais esperada"")[![Longa alagoano é pré-selecionado para o Oscar de Melhor Filme Internacional](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/8/3/csm_longa-alagoano-sem-coracao-e-pre-selecionado-para-o-oscar-de-melhor-filme-internacional_e4c9125556.jpg)
 
 Cinema
 
@@ -230,41 +222,49 @@ Cinema
 
 Longa alagoano é pré-selecionado para o Oscar de Melhor Filme Internacional
 
-Longa alagoano é pré-selecionado para o Oscar de Melhor Filme Internacional](https://www.tnh1.com.br/noticia/nid/longa-alagoano-e-pre-selecionado-para-o-oscar-de-melhor-filme-internacional/ "Longa alagoano é pré-selecionado para o Oscar de Melhor Filme Internacional")
+Longa alagoano é pré-selecionado para o Oscar de Melhor Filme Internacional](https://www.tnh1.com.br/noticia/nid/longa-alagoano-e-pre-selecionado-para-o-oscar-de-melhor-filme-internacional/ "Longa alagoano é pré-selecionado para o Oscar de Melhor Filme Internacional")[!['É doloroso, mas há tanto amor', diz filha sobre saúde de Bruce Willis](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/9/b/csm_csm_bruce-willis-reproducao-instagram_fb592b766e_4bc4b33481.jpg)
 
-[![Fumaça deixa 160 mil alunos sem aulas no Acre](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/8/4/csm_fumaca-acre-secom-divulgacao_f1516ac2db.jpg)
+ator
 
-situação crítica
+ator
 
-situação crítica
+'É doloroso, mas há tanto amor', diz filha sobre saúde de Bruce Willis
 
-Fumaça deixa 160 mil alunos sem aulas no Acre
+'É doloroso, mas há tanto amor', diz filha sobre saúde de Bruce Willis](https://www.tnh1.com.br/noticia/nid/e-doloroso-mas-ha-tanto-amor-diz-filha-sobre-saude-de-bruce-willis/ "'É doloroso, mas há tanto amor', diz filha sobre saúde de Bruce Willis")
 
-Fumaça deixa 160 mil alunos sem aulas no Acre](https://www.tnh1.com.br/noticia/nid/fumaca-deixa-160-mil-alunos-sem-aulas-no-acre/ "Fumaça deixa 160 mil alunos sem aulas no Acre")[![Documentário de Simone Biles revela erro que poderia tirar ouro de Rebeca Andrade](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/8/a/csm_Rebeca-Andrade-Biles-Instagram_ff69bb2ce5.jpg)
+[![Menino de 7 anos tem passaporte negado por ter sido batizado com nome de personagem de 'Star Wars'](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/7/3/csm_menino-passaporte-negado-nome-reproducao_5fa9a255b6.jpg)
 
-Revelações
+Na Inglaterra
 
-Revelações
+Na Inglaterra
 
-Documentário de Simone Biles revela erro que poderia tirar ouro de Rebeca Andrade
+Menino de 7 anos tem passaporte negado por ter sido batizado com nome de personagem de 'Star Wars'
 
-Documentário de Simone Biles revela erro que poderia tirar ouro de Rebeca Andrade](https://www.tnh1.com.br/noticia/nid/documentario-de-simone-biles-revela-erro-que-poderia-tirar-ouro-de-rebeca-andrade/ "Documentário de Simone Biles revela erro que poderia tirar ouro de Rebeca Andrade")[![Existe abstinência de café? Veja o que a falta de cafeína faz com o corpo](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/f/4/csm_coffee-cup-wooden-table-dark-background_reduzida_ae3822e30e.jpg)
+Menino de 7 anos tem passaporte negado por ter sido batizado com nome de personagem de 'Star Wars'](https://www.tnh1.com.br/noticia/nid/menino-de-7-anos-tem-passaporte-negado-por-ter-sido-batizado-com-nome-de-personagem-de-star-wars/ "Menino de 7 anos tem passaporte negado por ter sido batizado com nome de personagem de 'Star Wars'")[![Raquel Brito diz que Davi está abalado após vencer BBB](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/9/d/csm_raquel-brito-davi-reproducao_34dccc1480.jpg)
 
-Saúde
+fez revelações
 
-Saúde
+fez revelações
 
-Existe abstinência de café? Veja o que a falta de cafeína faz com o corpo
+Raquel Brito diz que Davi está abalado após vencer BBB
 
-Existe abstinência de café? Veja o que a falta de cafeína faz com o corpo](https://www.tnh1.com.br/noticia/nid/existe-abstinencia-de-cafe-veja-o-que-a-falta-de-cafeina-faz-com-o-corpo-1/ "Existe abstinência de café? Veja o que a falta de cafeína faz com o corpo")[![Novo episódio: "Territórios do Crime" mostra como traficantes usam dinheiro para promover festas e ostentação ](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/e/3/csm_Still_Territorios_do_crime_9763e2056c.png)
+Raquel Brito diz que Davi está abalado após vencer BBB](https://www.tnh1.com.br/noticia/nid/raquel-brito-diz-que-davi-esta-abalado-apos-vencer-bbb/ "Raquel Brito diz que Davi está abalado após vencer BBB")[![Saiba quem é brasileira que atropelou sete e matou duas jovens alemãs na Itália](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/8/3/csm_brasileira-atropelou-sete-pessoas-reproducao_3b2884649f.jpg)
 
-Alagoas
+Brasil
 
-Alagoas
+Brasil
 
-Novo episódio: "Territórios do Crime" mostra como traficantes usam dinheiro para promover festas e ostentação
+Saiba quem é brasileira que atropelou sete e matou duas jovens alemãs na Itália
 
-Novo episódio: "Territórios do Crime" mostra como traficantes usam dinheiro para promover festas e ostentação](https://www.tnh1.com.br/noticia/nid/novo-episodio-territorios-do-crime-mostra-como-traficantes-usam-dinheiro-para-promover-festas-e-ostentacao/ "Novo episódio: "Territórios do Crime" mostra como traficantes usam dinheiro para promover festas e ostentação ")
+Saiba quem é brasileira que atropelou sete e matou duas jovens alemãs na Itália](https://www.tnh1.com.br/noticia/nid/saiba-quem-e-brasileira-que-atropelou-sete-e-matou-duas-jovens-alemas-na-italia/ "Saiba quem é brasileira que atropelou sete e matou duas jovens alemãs na Itália")[![Noiva joga o buquê para convidados, que protagonizam pancadaria na Bósnia](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/3/5/csm_briga-generalizada-buque-flores-reproducao_eed4cb4b08.jpg)
+
+durante festa
+
+durante festa
+
+Noiva joga o buquê para convidados, que protagonizam pancadaria na Bósnia
+
+Noiva joga o buquê para convidados, que protagonizam pancadaria na Bósnia](https://www.tnh1.com.br/noticia/nid/noiva-joga-o-buque-para-convidados-que-protagonizam-pancadaria-na-bosnia/ "Noiva joga o buquê para convidados, que protagonizam pancadaria na Bósnia")
 
 [](https://www.tnh1.com.br/ "TNH1 logo")
 
