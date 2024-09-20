@@ -91,7 +91,7 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [Vaccines for mpox are finally reaching Africa. But questions about the virus remain](https://www.sciencenews.org/article/mpox-africa-vaccines-outbreak-virus)
             
-            By [Erin Garcia de Jesús](https://www.sciencenews.org/author/erin-garcia-de-jesus "Posts by Erin Garcia de Jesús")17 hours ago
+            By [Erin Garcia de Jesús](https://www.sciencenews.org/author/erin-garcia-de-jesus "Posts by Erin Garcia de Jesús")24 hours ago
             
         * [Anthropology](https://www.sciencenews.org/topic/anthropology)
             
@@ -118,7 +118,7 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [Ants changed the architecture of their nests when exposed to a pathogen](https://www.sciencenews.org/article/ants-change-nest-architecture-pathogen)
             
-            By [Richard Kemeny](https://www.sciencenews.org/author/richard-kemeny "Posts by Richard Kemeny")20 hours ago
+            By [Richard Kemeny](https://www.sciencenews.org/author/richard-kemeny "Posts by Richard Kemeny")September 19, 2024
             
         * [Neuroscience](https://www.sciencenews.org/topic/neuroscience)
             
@@ -142,7 +142,7 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [Earth’s ancient ‘greenhouse’ conditions were hotter than thought](https://www.sciencenews.org/article/earth-greenhouse-temperature-timeline)
             
-            By [Carolyn Gramling](https://www.sciencenews.org/author/carolyn-gramling "Posts by Carolyn Gramling")14 hours ago
+            By [Carolyn Gramling](https://www.sciencenews.org/author/carolyn-gramling "Posts by Carolyn Gramling")21 hours ago
             
         * [Climate](https://www.sciencenews.org/topic/climate)
             
@@ -163,6 +163,12 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
         * [Particle Physics](https://www.sciencenews.org/topic/particle-physics)
     * * [Particle Physics](https://www.sciencenews.org/topic/particle-physics)
             
+            ### [A neutrino mass mismatch could shake cosmology’s foundations](https://www.sciencenews.org/article/neutrino-mass-phenomenon-cosmology)
+            
+            By [Emily Conover](https://www.sciencenews.org/author/emily-conover "Posts by Emily Conover")2 hours ago
+            
+        * [Particle Physics](https://www.sciencenews.org/topic/particle-physics)
+            
             ### [The Large Hadron Collider exposes quarks’ quantum entanglement](https://www.sciencenews.org/article/quarks-quantum-entanglement)
             
             By [Emily Conover](https://www.sciencenews.org/author/emily-conover "Posts by Emily Conover")September 18, 2024
@@ -173,18 +179,18 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             By [Emily Conover](https://www.sciencenews.org/author/emily-conover "Posts by Emily Conover")September 17, 2024
             
-        * [Quantum Physics](https://www.sciencenews.org/topic/quantum-physics)
-            
-            ### [A quantum computer corrected its own errors, improving its calculations](https://www.sciencenews.org/article/quantum-computer-error-correction) 
-            
-            By [Emily Conover](https://www.sciencenews.org/author/emily-conover "Posts by Emily Conover")September 10, 2024
-            
 * [Space](https://www.sciencenews.org/topic/space)
     * [Space](https://www.sciencenews.org/topic/space)
         * [Astronomy](https://www.sciencenews.org/topic/astronomy)
         * [Planetary Science](https://www.sciencenews.org/topic/planetary-science)
         * [Cosmology](https://www.sciencenews.org/topic/cosmology)
-    * * [Space](https://www.sciencenews.org/topic/space)
+    * * [Particle Physics](https://www.sciencenews.org/topic/particle-physics)
+            
+            ### [A neutrino mass mismatch could shake cosmology’s foundations](https://www.sciencenews.org/article/neutrino-mass-phenomenon-cosmology)
+            
+            By [Emily Conover](https://www.sciencenews.org/author/emily-conover "Posts by Emily Conover")2 hours ago
+            
+        * [Space](https://www.sciencenews.org/topic/space)
             
             ### [Meet Porphyrion, the largest pair of black hole jets ever seen](https://www.sciencenews.org/article/universe-largest-black-hole-jets)
             
@@ -195,12 +201,6 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             ### [How to spot tiny black holes that might pass through the solar system](https://www.sciencenews.org/article/primordial-black-holes-solar-system) 
             
             By [Emily Conover](https://www.sciencenews.org/author/emily-conover "Posts by Emily Conover")September 17, 2024
-            
-        * [Space](https://www.sciencenews.org/topic/space)
-            
-            ### [How a dying star is similar to a lava lamp](https://www.sciencenews.org/article/dying-star-lava-lamp-convection)
-            
-            By [Lisa Grossman](https://www.sciencenews.org/author/lisa-grossman "Posts by Lisa Grossman")September 16, 2024
             
 
 Privacy Policy
