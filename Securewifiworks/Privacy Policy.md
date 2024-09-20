@@ -168,7 +168,7 @@ Cary, NC 27518
 
 [](https://www.facebook.com/BlueAllyTech "Facebook page")[](https://twitter.com/BlueAlly_IT "Twitter page")[](https://www.youtube.com/c/BlueAllyTechnologies "Youtube page")[](https://www.linkedin.com/company/blueally "LinkedIn page")
 
-**DataSwitchStore.com is a division of [BlueAlly, an authorized Arista Networks reseller.](http://www.blueally.com/)**  
+**DataSwitchStore.com is a division of [BlueAlly, an authorized Arista Networks reseller.](https://www.blueally.com/)**  
 Copyright © 2000 . All Rights Reserved. [Site Terms](https://www.securewifiworks.com/policies/legal.asp) and [Privacy Policy](https://www.securewifiworks.com/policies/privacy-policy.asp)
 
 ### Arista AI Etherlink Portfolio
