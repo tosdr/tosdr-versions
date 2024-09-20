@@ -264,7 +264,7 @@ Resources
     
 * [Brightcove Community](https://community.brightcove.com/member/register)
     
-* [Channel Partners](https://www.brightcove.com/en/partners/)
+* [Channel Partners](https://marketplace.brightcove.com/?menu_open=1&partnerrelationship=26)
     
 * [Contact Support](https://supportportal.brightcove.com/s/login)
     
