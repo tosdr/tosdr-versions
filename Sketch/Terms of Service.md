@@ -175,7 +175,7 @@ If You accept the terms and conditions in the Agreement on behalf of a company o
 * **“Affiliate(s)”** — means an entity that directly or indirectly, through one or more intermediaries, controls, is controlled by or is under common control with Sketch B.V.;
 * **“Agreement”** — the agreement between Sketch B.V. and You, as further defined in clause 2.2;
 * **“Beta Features”** - means product features clearly identified as Beta Features that may be made available to You by Sketch B.V. for testing purposes only;
-* **“Business Plan”** - means Sketch B.V.’s business offer that includes, in addition to the services offered under the Standard Plan: SSO (SAML 2.0); unlimited storage on the Web app; Priority Support (as defined below), an invoice-based billing and may include a dedicated Sketch customer success manager; notwithstanding the foregoing, the full availability of the additional Business Plan services may be subject to some qualifying conditions;
+* **“Business plan”** - means Sketch B.V.’s business offer that includes, in addition to the services offered under the Standard Plan: SSO (SAML 2.0); unlimited storage on the Web app; Priority Support (as defined below), an invoice-based billing and may include a dedicated Sketch customer success manager; notwithstanding the foregoing, the full availability of the additional Business plan services may be subject to some qualifying conditions;
 * **”Comments”** — includes, but is not limited to, any comment, opinion, advice, suggestion, recommendation or critic;
 * **“Confidential Information”** — means any and all information that Sketch discloses to You, whether in writing, electronically or orally and in any form (tangible or intangible) that is confidential, proprietary, or relates to shareholders, whether commercial, technical, financial, customer, supplier, product or production related, where existing at the effective date or developed thereafter;
 * **“Content”** — includes, but is not limited to any content, graphic, design, fonts, document or material created with or embedded in the Sketch Platform by You;
@@ -189,7 +189,7 @@ If You accept the terms and conditions in the Agreement on behalf of a company o
 * **“Open Source Software”** — means any software that requires as a condition of use, copying, modification and/or distribution of such software that such software or other software incorporated into, derived from or distributed with such software (a) be disclosed or distributed in source code form, and (b) be licensed for the purpose of making and/or distributing derivative works, and (c) be redistributable at no charge;
 * **“Priority Support”** — means support guaranteed to within 24 (twenty four) hours from Your request on working days from 9 am to 7 pm as reflected in Central European Time;
 * **“Promotions”** — means promotional codes that may be offered to You by Sketch B.V;
-* **“Restricted Upload”** – means a feature available for the yearly Standard Plan and for the Business Plan which, upon its activation by Sketch B.V., enables Admins and the Workspace Owner to restrict uploading files in their Workspace;
+* **“Restricted Upload”** – means a feature available for the yearly Standard Plan and for the Business plan which, upon its activation by Sketch B.V., enables Admins and the Workspace Owner to restrict uploading files in their Workspace;
 * **“Sketch B.V.” or “Sketch”** — means Sketch B.V., Flight Forum 40, Ground floor, 5657 DB Eindhoven, the Netherlands with chamber of commerce registration number 60360461 and VAT number NL8538.75.273.B01;
 * **“Sketch Account”** — means the account customers use to sign into the Web app, and/or the Mac app, as applicable;
 * **“Sketch iOS App”** — means a companion application for the Mac app that lets You preview designs on Your iOS devices. Sketch iOS App is available for free on the Apple iOS App Store;
@@ -238,7 +238,7 @@ If You accept the terms and conditions in the Agreement on behalf of a company o
 
 ### Sketch Platform subscription
 
-1. If You register directly on Sketch B.V.’s website, You can start a trial of the Sketch Platform and create a Workspace in the Web app via [www.sketch.com](https://www.sketch.com/home). Once You have created a Workspace, You are the Admin for that Workspace. In case of a Business Plan, you may be assigned a Sketch customer success manager (depending on the number of Editor’s seats purchased) who will assist You with the onboarding process and will further support You with priority support in accordance with clause 8.6 of these Terms.
+1. If You register directly on Sketch B.V.’s website, You can start a trial of the Sketch Platform and create a Workspace in the Web app via [www.sketch.com](https://www.sketch.com/home). Once You have created a Workspace, You are the Admin for that Workspace. In case of a Business plan, you may be assigned a Sketch customer success manager (depending on the number of Editor’s seats purchased) who will assist You with the onboarding process and will further support You with priority support in accordance with clause 8.6 of these Terms.
     
 2. After confirming Your agreement with our Terms of Service, You can trial the Sketch Platform for a one-time, limited term of 30 (thirty) consecutive days for the sole purpose of testing and evaluating Sketch. Upon expiration of the trial, You will be prompted for payment information in order to convert Your trial into a paid subscription, and You will need to reconfirm acceptance of our Terms of Service. Sketch B.V. will charge Your designated payment method for the coming period so that You can keep using the Sketch Platform. In case You don’t convert your trial into a paid subscription, You acknowledge and agree that Sketch B.V. may delete all of your content or data associated with the Workspace that was assigned to Your trial, provided that You will be granted 90 (ninety) days from the end of the trial to recover the files. Also, Sketch B.V. reserves the right to modify the terms of service of any trial and/or cancel any trial subscription at any time. If You are purchasing the Sketch Platform via or thanks to a third-party Partner, the free trial referenced in this clause 4.2 and in the preceding clause 4.1 won’t apply to Your purchase.
     
@@ -307,7 +307,7 @@ If You accept the terms and conditions in the Agreement on behalf of a company o
     
 5. Unless as otherwise specified in this Agreement, Sketch B.V. is not obliged to provide any maintenance, technical or other support for the Sketch Platform, including the Updates.
     
-6. Priority Support for Business Plan addressed at [productsupport@sketch.com](mailto:productsupport@sketch.com), and [mail@sketch.com](mailto:mail@sketch.com) will be guaranteed to You within 24 (twenty four) hours from Your request from Monday to Friday from 9 am to 7 pm CET.
+6. Priority Support for Business plan addressed at [productsupport@sketch.com](mailto:productsupport@sketch.com), and [mail@sketch.com](mailto:mail@sketch.com) will be guaranteed to You within 24 (twenty four) hours from Your request from Monday to Friday from 9 am to 7 pm CET.
     
 7. Without prejudice to the foregoing, You will be entitled to receive Updates to the Mac App free of charge:
     
@@ -362,11 +362,11 @@ If You accept the terms and conditions in the Agreement on behalf of a company o
     
     1. Within 90 days from the day that the Agreement is terminated pursuant to clause 14; and
     2. For existing licenses not tied to a Workspace, within 90 days from the last day that You accessed Your stored data and/or Content, in connection to data and Content created in the Mac app that is resident in Sketch Workspace(s).
-7. With the exception of the Business Plan, You have 50 GB of storage per Editor in Your Workspace on the Web app. If You exceed this cap, You will be contacted by Sketch B.V..
+7. With the exception of the Business plan, You have 50 GB of storage per Editor in Your Workspace on the Web app. If You exceed this cap, You will be contacted by Sketch B.V..
     
 8. Sketch B.V. saves frequently recent Versions and less frequently older Versions. In addition, Sketch B.V. always preserves any Version that was starred by You.
     
-9. For avoidance of doubt, and without prejudice to Sketch B.V.’s rights under the preceding article 10.8, by subscribing to the Business Plan, You will have access to unlimited storage.
+9. For avoidance of doubt, and without prejudice to Sketch B.V.’s rights under the preceding article 10.8, by subscribing to the Business plan, You will have access to unlimited storage.
     
 
 ### Warranty Disclaimer
@@ -412,7 +412,7 @@ If You accept the terms and conditions in the Agreement on behalf of a company o
     3. If Sketch B.V. discontinues Your use of the Sketch Platform or terminates the Agreement for convenience upon prior written notice (including email) to You.
 2. Sketch B.V. is entitled to terminate any subscriptions for the Sketch Platform, including trials, during the license term with immediate effect and without prior notice in the event You fail to comply with the Agreement or applicable laws and regulations, in the event You fail to pay Your fee for the applicable payment term, or in the event Sketch B.V. is required to do so by law or an order of an applicable court or other authoritative body.
     
-3. Sketch B.V. may suspend Your access to and Your use of the Sketch Platform and terminate this Agreement immediately in writing (including email or text message), without prior written notice (i) if You fail to comply with any term(s) and conditions of the Agreement, (ii) on becoming aware of any potential violation of the Agreement. Sketch B.V. relies on third-party payment processors. In case You dispute a payment with one of such third-party payment processors and You lose such dispute, You will have to reach out to Sketch B.V. to reactivate Your subscription contacting Sketch B.V. at [mail@sketch.com](mailto:mail@sketch.com) or, if You have purchased a Business Plan subscription, contacting Your customer success manager, if applicable.
+3. Sketch B.V. may suspend Your access to and Your use of the Sketch Platform and terminate this Agreement immediately in writing (including email or text message), without prior written notice (i) if You fail to comply with any term(s) and conditions of the Agreement, (ii) on becoming aware of any potential violation of the Agreement. Sketch B.V. relies on third-party payment processors. In case You dispute a payment with one of such third-party payment processors and You lose such dispute, You will have to reach out to Sketch B.V. to reactivate Your subscription contacting Sketch B.V. at [mail@sketch.com](mailto:mail@sketch.com) or, if You have purchased a Business plan subscription, contacting Your customer success manager, if applicable.
     
 4. Any terms and conditions of the Agreement that by their nature should survive termination shall survive termination, including but not limited to payment obligations stemming from entering into this Agreement (as described in clause 2.2).
     
@@ -509,7 +509,7 @@ Email  Sign up
 ### Learn
 
 * [Blog](https://www.sketch.com/blog/)
-* [Guides & Courses](https://www.sketch.com/guides-and-courses/)
+* [Guides & Courses](https://www.sketch.com/guides/)
 * [Course: Sketch 101](https://www.sketch.com/courses/sketch-101/)
 * [Course: Sketch 102](https://www.sketch.com/courses/sketch-102/)
 * [Documentation](https://www.sketch.com/docs/)
