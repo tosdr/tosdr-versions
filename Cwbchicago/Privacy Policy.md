@@ -242,35 +242,35 @@ We have included on the pages of this website a robots meta tag with the “noai
 
 This privacy policy was created in party by using [Termly’s Privacy Policy Generator](https://termly.io/products/privacy-policy-generator/?ftseo).
 
-[![CTA-subway-red-line-moving-camera-2019](https://cwbchicago.com/wp-content/uploads/2020/02/CTA-subway-red-line-moving-camera-2019-326x245.jpg)](https://cwbchicago.com/2024/09/robbery-crew-attacks-4-people-on-red-line-trains-overnight.html "Robbery crew attacks 4 people on Red Line trains overnight")
+[![](https://cwbchicago.com/wp-content/uploads/2024/09/chain-snatch-map-326x245.jpg)](https://cwbchicago.com/2024/09/thieves-riding-bikes-and-scooters-are-snatching-peoples-jewelry-in-the-loop-along-the-lake.html "Thieves riding bikes and scooters are snatching people’s jewelry in the Loop, along the lake")
+
+Lincoln Park
+
+### [Thieves riding bikes and scooters are snatching people’s jewelry in the Loop, along the lake](https://cwbchicago.com/2024/09/thieves-riding-bikes-and-scooters-are-snatching-peoples-jewelry-in-the-loop-along-the-lake.html "Thieves riding bikes and scooters are snatching people’s jewelry in the Loop, along the lake")
+
+[September 19, 2024 7:47 AM](https://cwbchicago.com/2024/09)
+
+Thieves riding bikes and scooters have been snatching jewelry and other valuables from people in the Loop, Streeterville, and along the lakefront this week, according to Chicago police reports reviewed by CWBChicago.[](https://cwbchicago.com/2024/09/thieves-riding-bikes-and-scooters-are-snatching-peoples-jewelry-in-the-loop-along-the-lake.html "Thieves riding bikes and scooters are snatching people’s jewelry in the Loop, along the lake")
+
+[![](https://cwbchicago.com/wp-content/uploads/2022/11/David-Buckner-rec-326x245.jpg)](https://cwbchicago.com/2024/09/registered-sex-offender-gets-4-years-for-molesting-women-downtaon-and-on-the-cta.html "Registered sex offender gets 4 years for molesting women downtown and on the CTA")
 
 CTA
 
-### [Robbery crew attacks 4 people on Red Line trains overnight](https://cwbchicago.com/2024/09/robbery-crew-attacks-4-people-on-red-line-trains-overnight.html "Robbery crew attacks 4 people on Red Line trains overnight")
+### [Registered sex offender gets 4 years for molesting women downtown and on the CTA](https://cwbchicago.com/2024/09/registered-sex-offender-gets-4-years-for-molesting-women-downtaon-and-on-the-cta.html "Registered sex offender gets 4 years for molesting women downtown and on the CTA")
 
-[September 18, 2024 12:36 PM](https://cwbchicago.com/2024/09)
+[September 18, 2024 7:58 PM](https://cwbchicago.com/2024/09)
 
-Police are investigating a string of violent robberies reported along the Red Line between Howard and the Loop last night. All of the victims reported that a group of five to seven people attacked and robbed them on southbound trains.[](https://cwbchicago.com/2024/09/robbery-crew-attacks-4-people-on-red-line-trains-overnight.html "Robbery crew attacks 4 people on Red Line trains overnight")
+A convicted sex offender who repeatedly molested women on the CTA and on downtown streets received a four-year prison sentence after pleading guilty to three felonies on Tuesday.[](https://cwbchicago.com/2024/09/registered-sex-offender-gets-4-years-for-molesting-women-downtaon-and-on-the-cta.html "Registered sex offender gets 4 years for molesting women downtown and on the CTA")
 
-[![](https://cwbchicago.com/wp-content/uploads/2024/09/Ballys-326x245.jpg)](https://cwbchicago.com/2024/09/man-robbed-at-gunpoint-after-leaving-ballys-casino-report.html "Man robbed at gunpoint after leaving Bally’s casino: report")
+[![](https://cwbchicago.com/wp-content/uploads/2024/09/From-left-Michael-Bailey-Julio-Beltran-Escobar-and-Estevan-Maldonado.-Chicago-Police-Department-Cook-County-Sheriffs-Office--326x245.jpg)](https://cwbchicago.com/2024/09/shotspotter-led-to-3-gun-arrests-in-under-an-hour-monday-chicago-police-reports-say.html "ShotSpotter alerts led to 3 gun arrests in under an hour Monday, Chicago police reports say")
 
-River North
+Citywide
 
-### [Man robbed at gunpoint after leaving Bally’s casino: report](https://cwbchicago.com/2024/09/man-robbed-at-gunpoint-after-leaving-ballys-casino-report.html "Man robbed at gunpoint after leaving Bally’s casino: report")
+### [ShotSpotter alerts led to 3 gun arrests in under an hour Monday, Chicago police reports say](https://cwbchicago.com/2024/09/shotspotter-led-to-3-gun-arrests-in-under-an-hour-monday-chicago-police-reports-say.html "ShotSpotter alerts led to 3 gun arrests in under an hour Monday, Chicago police reports say")
 
-[September 18, 2024 9:54 AM](https://cwbchicago.com/2024/09)
+[September 18, 2024 7:13 PM](https://cwbchicago.com/2024/09)
 
-A man reported being robbed at gunpoint as he got into his car after leaving Bally’s casino in River North overnight.[](https://cwbchicago.com/2024/09/man-robbed-at-gunpoint-after-leaving-ballys-casino-report.html "Man robbed at gunpoint after leaving Bally’s casino: report")
-
-[![](https://cwbchicago.com/wp-content/uploads/2024/09/Richard-Brito-cpd-326x245.jpg)](https://cwbchicago.com/2024/09/6-months-after-completing-murder-sentence-man-is-charged-with-beating-and-carjacking-a-road-rage-victim.html "6 months after completing murder sentence, man is charged with beating and carjacking a road rage victim")
-
-Gage Park
-
-### [6 months after completing murder sentence, man is charged with beating and carjacking a road rage victim](https://cwbchicago.com/2024/09/6-months-after-completing-murder-sentence-man-is-charged-with-beating-and-carjacking-a-road-rage-victim.html "6 months after completing murder sentence, man is charged with beating and carjacking a road rage victim")
-
-[September 18, 2024 9:13 AM](https://cwbchicago.com/2024/09)
-
-A Chicago man who completed a murder sentence earlier this year stands accused of carjacking and threatening to kill another driver during a road rage altercation.[](https://cwbchicago.com/2024/09/6-months-after-completing-murder-sentence-man-is-charged-with-beating-and-carjacking-a-road-rage-victim.html "6 months after completing murder sentence, man is charged with beating and carjacking a road rage victim")
+In under one hour on Monday, Chicago police officers responding to separate ShotSpotter alerts arrested three people for illegal firearm possession, including one man who allegedly had a machine gun.[](https://cwbchicago.com/2024/09/shotspotter-led-to-3-gun-arrests-in-under-an-hour-monday-chicago-police-reports-say.html "ShotSpotter alerts led to 3 gun arrests in under an hour Monday, Chicago police reports say")
 
 Search
 
