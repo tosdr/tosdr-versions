@@ -125,6 +125,8 @@ Customer:
     — applies to most domain registrations, except **.uk**
 * [Terms and Conditions for Nominet **Domain Registrations**](https://media.nominet.uk/wp-content/uploads/2020/04/Terms-and-Conditions-of-Domain-Name-Registration-24-04-2020-v1.pdf)  
     — applies to **.uk** domain registrations
+* [Additional Terms and Conditions for **.gov.uk Domain Registrations**](https://www.gov.uk/guidance/additional-terms-for-govuk-agreements)  
+    — from the Central Digitial and Data Office of the Department of Science, Innovation and Technology
 
 ### Other policies
 
