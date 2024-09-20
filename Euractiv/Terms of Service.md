@@ -986,15 +986,15 @@ Languages: [Français](https://www.euractiv.fr/?post_type=page&p=179361) | [Deut
 ### Most read articles
 
 * 1[Ammunition from India enters Ukraine, raising Russian ire](http://en.euractiv.eu/section/defence-and-security/news/ammunition-from-india-enters-ukraine-raising-russian-ire/?utm_source=website&utm_campaign=popular)
-* 2[Poland backs ending EU benefits for Ukrainian men of fighting age](http://en.euractiv.eu/section/europe-s-east/news/poland-backs-ending-eu-benefits-for-ukrainian-men-of-fighting-age/?utm_source=website&utm_campaign=popular)
-* 3[Gazprom-friendly Hungary blames EU for failing to end Russian gas dependence](http://en.euractiv.eu/section/energy/news/gazprom-friendly-hungary-blames-eu-for-failing-to-end-russian-gas-dependence/?utm_source=website&utm_campaign=popular)
-* 4[NATO chief: Each country to decide if Ukraine can use its long-range missiles on Russia](http://en.euractiv.eu/section/global-europe/news/nato-chief-each-country-to-decide-if-ukraine-can-use-its-long-range-missiles-on-russia/?utm_source=website&utm_campaign=popular)
-* 5[French Commissioner Thierry Breton resigns over row with von der Leyen](http://en.euractiv.eu/section/defence-and-security/news/french-commissioner-thierry-breton-resigns-over-row-with-von-der-leyen/?utm_source=website&utm_campaign=popular)
-* 6[EU Commission rebuffs car industry calls to delay CO2 targets](http://en.euractiv.eu/section/electric-cars/news/eu-commission-rebuffs-car-industry-calls-to-delay-co2-targets/?utm_source=website&utm_campaign=popular)
-* 7[Von der Leyen unveils EU Commission top jobs, with some surprises](http://en.euractiv.eu/section/politics/news/von-der-leyen-unveils-eu-commission-top-jobs-with-some-surprises/?utm_source=website&utm_campaign=popular) 
-* 8[European competitiveness in the energy transition: Shell's views for the next EU cycle](http://en.euractiv.eu/section/energy-environment/opinion/european-competitiveness-in-the-energy-transition-shells-views-for-the-next-eu-cycle/?utm_source=website&utm_campaign=popular)
-* 9[Von der Leyen plans five more years of intense energy and climate rule-making](http://en.euractiv.eu/section/energy-environment/news/von-der-leyen-plans-five-more-years-of-intense-energy-and-climate-rule-making/?utm_source=website&utm_campaign=popular)
-* 10[Fake Kamala hit-and-run story is the work of Russian propaganda group, Microsoft says](http://en.euractiv.eu/section/global-europe/news/fake-kamala-hit-and-run-story-is-the-work-of-russian-propaganda-group-microsoft-says/?utm_source=website&utm_campaign=popular)
+* 2[Gazprom-friendly Hungary blames EU for failing to end Russian gas dependence](http://en.euractiv.eu/section/energy/news/gazprom-friendly-hungary-blames-eu-for-failing-to-end-russian-gas-dependence/?utm_source=website&utm_campaign=popular)
+* 3[NATO chief: Each country to decide if Ukraine can use its long-range missiles on Russia](http://en.euractiv.eu/section/global-europe/news/nato-chief-each-country-to-decide-if-ukraine-can-use-its-long-range-missiles-on-russia/?utm_source=website&utm_campaign=popular)
+* 4[French Commissioner Thierry Breton resigns over row with von der Leyen](http://en.euractiv.eu/section/defence-and-security/news/french-commissioner-thierry-breton-resigns-over-row-with-von-der-leyen/?utm_source=website&utm_campaign=popular)
+* 5[EU Commission rebuffs car industry calls to delay CO2 targets](http://en.euractiv.eu/section/electric-cars/news/eu-commission-rebuffs-car-industry-calls-to-delay-co2-targets/?utm_source=website&utm_campaign=popular)
+* 6[Von der Leyen unveils EU Commission top jobs, with some surprises](http://en.euractiv.eu/section/politics/news/von-der-leyen-unveils-eu-commission-top-jobs-with-some-surprises/?utm_source=website&utm_campaign=popular) 
+* 7[European competitiveness in the energy transition: Shell's views for the next EU cycle](http://en.euractiv.eu/section/energy-environment/opinion/european-competitiveness-in-the-energy-transition-shells-views-for-the-next-eu-cycle/?utm_source=website&utm_campaign=popular)
+* 8[Von der Leyen plans five more years of intense energy and climate rule-making](http://en.euractiv.eu/section/energy-environment/news/von-der-leyen-plans-five-more-years-of-intense-energy-and-climate-rule-making/?utm_source=website&utm_campaign=popular)
+* 9[Fake Kamala hit-and-run story is the work of Russian propaganda group, Microsoft says](http://en.euractiv.eu/section/global-europe/news/fake-kamala-hit-and-run-story-is-the-work-of-russian-propaganda-group-microsoft-says/?utm_source=website&utm_campaign=popular)
+* 10[Intel halts plans for flagship factories in Germany, Poland amid financial woes](http://en.euractiv.eu/section/industrial-strategy/news/intel-halts-plans-for-flagship-factories-in-germany-poland-amid-financial-woes/?utm_source=website&utm_campaign=popular)
 
 ###### Advertisement
 
