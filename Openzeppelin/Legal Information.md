@@ -117,6 +117,7 @@
     *  [![](https://www.openzeppelin.com/hubfs/inspector-mobile-dark.svg) ![](https://www.openzeppelin.com/hubfs/inspector-mobile.svg)Code Inspector](https://www.openzeppelin.com/defender#secure-code)
     *  [![](https://www.openzeppelin.com/hubfs/deploy-mobile-dark.svg) ![](https://www.openzeppelin.com/hubfs/deploy-mobile.svg)Deploy](https://www.openzeppelin.com/defender#secure-deploy)
     *  [![](https://www.openzeppelin.com/hubfs/transaction-mobile-dark.svg) ![](https://www.openzeppelin.com/hubfs/transaction-mobile.svg)Transaction Proposals](https://www.openzeppelin.com/defender#secure-operations)
+    * [Defender Pricing](https://www.openzeppelin.com/pricing)
     
 * [Services](#)
     
@@ -139,7 +140,6 @@
     * [Careers](https://www.openzeppelin.com/jobs)
     * [Security Center](https://contracts.openzeppelin.com/security)
     
-* [Pricing](https://www.openzeppelin.com/pricing)
 
 Data Privacy Notice
 ===================
