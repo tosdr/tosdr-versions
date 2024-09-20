@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-b216fbec6a235030bec06fa389a658d7
+133f80913231116804f330164f93daa7
 
 [](# "Expand for more options")[](# "Search")
 
@@ -171,11 +171,11 @@ Sojourner may revise this policy as needed by updating this posting.
 
 ### Featured Product
 
-[![Hand and body wash Champs de Lavande](https://www.sojourner.biz/images/cache/soaps/SS002_BodyWashChampsDeLavande_SA11-IB.200.webp)](https://www.sojourner.biz/hand-and-body-wash-champs-de-lavande.html "Hand and body wash Champs de Lavande")
+[![Ribbon scissors](https://www.sojourner.biz/images/cache/SZ008.200.jpg)](https://www.sojourner.biz/beads/tools/ribbon-scissors.html "Ribbon scissors")
 
-#### [Hand and body wash Champs de Lavande](https://www.sojourner.biz/hand-and-body-wash-champs-de-lavande.html "Hand and body wash Champs de Lavande")
+#### [Ribbon scissors](https://www.sojourner.biz/beads/tools/ribbon-scissors.html "Ribbon scissors")
 
-$24.00
+$38.00
 
 ### Best Sellers
 
