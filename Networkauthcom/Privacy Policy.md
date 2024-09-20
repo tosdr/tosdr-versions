@@ -1393,5 +1393,3 @@ You are about to leave the US Meraki site...
 Don't Leave
 
 OK, Leave Site
-
-This site is registered on [wpml.org](https://wpml.org/) as a development site.
