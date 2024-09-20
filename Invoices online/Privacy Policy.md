@@ -118,57 +118,61 @@ This policy is effective as of 29 June 2021.
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Fast, Accurate & Easy to Use
-> ----------------------------
+> Wish I started ages ago!
+> ------------------------
 > 
-> Small Business Management System or SBMS, now rebranded as Invoices Online is an online invoicing system developed by the same guys that developed our site, we use it and honestly recommend it to all people who have dynamic sites, or want an online invoicing solution.  The invoicing application is fast, accurate, easy to use, and it really enhances the online experience of our clients.
+> I just want to compliment you and your team for an amazing back office software.
+> 
+> I have been struggling with a proper invoicing solution for six months now (to make time each month)
+> 
+> I just wish I started using Invoices Online ages ago.
 
-Jannie Schutte - myFinance-Online.co.za
+Terri Winfield
 
-![valued client Know Informatics](https://www.invoicesonline.co.za/scripts/image.php?bid=6598&file=logo_300_100&type=&fe=7e698c7053946fb06f50c254c35933ae4513f07282413d9f7ea1ff5f525fdcb1&c=55432250)  
-Know Informatics
+![valued client Cooper Power South Africa (Pty) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2012&file=logo_300_100&type=&fe=7dbf55068e5cd0fe4d6b6621308079edb8cb3707b2d4455402f92d6488488a11&c=68068139)  
+Cooper Power South Africa (Pty) LTD
 
-![valued client Stevens Consulting](https://www.invoicesonline.co.za/scripts/image.php?bid=5551&file=logo_300_100&type=&fe=7e698c7053946fb06f50c254c35933ae4513f07282413d9f7ea1ff5f525fdcb1&c=17210712)  
-Stevens Consulting
+![valued client Salt & Pepper Guest Accommodation (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=8332&file=logo_300_100&type=&fe=7dbf55068e5cd0fe4d6b6621308079edb8cb3707b2d4455402f92d6488488a11&c=45071135)  
+Salt & Pepper Guest Accommodation (Pty) Ltd.
 
-![valued client Electro-Heat](https://www.invoicesonline.co.za/scripts/image.php?bid=8547&file=logo_300_100&type=&fe=7e698c7053946fb06f50c254c35933ae4513f07282413d9f7ea1ff5f525fdcb1&c=122797649)  
-Electro-Heat
+![valued client Chiron Medical Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=6720&file=logo_300_100&type=&fe=7dbf55068e5cd0fe4d6b6621308079edb8cb3707b2d4455402f92d6488488a11&c=75314410)  
+Chiron Medical Solutions
 
-![valued client Durbanville Classifieds (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8122&file=logo_300_100&type=&fe=7e698c7053946fb06f50c254c35933ae4513f07282413d9f7ea1ff5f525fdcb1&c=49769192)  
-Durbanville Classifieds (Pty) Ltd
+![valued client Goju-Ryu Pretoria East](https://www.invoicesonline.co.za/scripts/image.php?bid=8346&file=logo_300_100&type=&fe=7dbf55068e5cd0fe4d6b6621308079edb8cb3707b2d4455402f92d6488488a11&c=26180319)  
+Goju-Ryu Pretoria East
 
-![valued client Repairs In Motion](https://www.invoicesonline.co.za/scripts/image.php?bid=6788&file=logo_300_100&type=&fe=7e698c7053946fb06f50c254c35933ae4513f07282413d9f7ea1ff5f525fdcb1&c=31515884)  
-Repairs In Motion
+![valued client TurboFibre](https://www.invoicesonline.co.za/scripts/image.php?bid=6535&file=logo_300_100&type=&fe=7dbf55068e5cd0fe4d6b6621308079edb8cb3707b2d4455402f92d6488488a11&c=10610388)  
+TurboFibre
 
-![valued client Import Maaw](https://www.invoicesonline.co.za/scripts/image.php?bid=6159&file=logo_300_100&type=&fe=7e698c7053946fb06f50c254c35933ae4513f07282413d9f7ea1ff5f525fdcb1&c=91000500)  
-Import Maaw
+![valued client Brand's Fountains Deco and Events Coordinatoin ](https://www.invoicesonline.co.za/scripts/image.php?bid=6303&file=logo_300_100&type=&fe=7dbf55068e5cd0fe4d6b6621308079edb8cb3707b2d4455402f92d6488488a11&c=56017581)  
+Brand's Fountains Deco and Events Coordinatoin
 
-![valued client United Paintball Federation](https://www.invoicesonline.co.za/scripts/image.php?bid=7016&file=logo_300_100&type=&fe=7e698c7053946fb06f50c254c35933ae4513f07282413d9f7ea1ff5f525fdcb1&c=192478091)  
-United Paintball Federation
+![valued client Oukraal Merino's](https://www.invoicesonline.co.za/scripts/image.php?bid=3971&file=logo_300_100&type=&fe=7dbf55068e5cd0fe4d6b6621308079edb8cb3707b2d4455402f92d6488488a11&c=169309171)  
+Oukraal Merino's
 
-![valued client KTEN PARTS](https://www.invoicesonline.co.za/scripts/image.php?bid=7612&file=logo_300_100&type=&fe=7e698c7053946fb06f50c254c35933ae4513f07282413d9f7ea1ff5f525fdcb1&c=1550444)  
-KTEN PARTS
+![valued client Adele Jordaan T/A Joyful Noise Music Room](https://www.invoicesonline.co.za/scripts/image.php?bid=7958&file=logo_300_100&type=&fe=7dbf55068e5cd0fe4d6b6621308079edb8cb3707b2d4455402f92d6488488a11&c=119377762)  
+Adele Jordaan T/A Joyful Noise Music Room
 
-![valued client FJW Security Cc](https://www.invoicesonline.co.za/scripts/image.php?bid=1343&file=logo_300_100&type=&fe=7e698c7053946fb06f50c254c35933ae4513f07282413d9f7ea1ff5f525fdcb1&c=86690228)  
-FJW Security Cc
+![valued client Nilbet T/A Waterman](https://www.invoicesonline.co.za/scripts/image.php?bid=4407&file=logo_300_100&type=&fe=7dbf55068e5cd0fe4d6b6621308079edb8cb3707b2d4455402f92d6488488a11&c=196649706)  
+Nilbet T/A Waterman
 
-![valued client AMS Ambu Medical Supplies ](https://www.invoicesonline.co.za/scripts/image.php?bid=4689&file=logo_300_100&type=&fe=7e698c7053946fb06f50c254c35933ae4513f07282413d9f7ea1ff5f525fdcb1&c=204900134)  
-AMS Ambu Medical Supplies
+![valued client Cpower Projects t/a Pro Pure Water ](https://www.invoicesonline.co.za/scripts/image.php?bid=7742&file=logo_300_100&type=&fe=7dbf55068e5cd0fe4d6b6621308079edb8cb3707b2d4455402f92d6488488a11&c=21775009)  
+Cpower Projects t/a Pro Pure Water
 
-![valued client Bchange Online CC](https://www.invoicesonline.co.za/scripts/image.php?bid=8330&file=logo_300_100&type=&fe=7e698c7053946fb06f50c254c35933ae4513f07282413d9f7ea1ff5f525fdcb1&c=45501864)  
-Bchange Online CC
+![valued client Wiselink Broadband Vryheid](https://www.invoicesonline.co.za/scripts/image.php?bid=6023&file=logo_300_100&type=&fe=7dbf55068e5cd0fe4d6b6621308079edb8cb3707b2d4455402f92d6488488a11&c=136148550)  
+Wiselink Broadband Vryheid
 
-![valued client Westside Car Audio CC](https://www.invoicesonline.co.za/scripts/image.php?bid=7028&file=logo_300_100&type=&fe=7e698c7053946fb06f50c254c35933ae4513f07282413d9f7ea1ff5f525fdcb1&c=100956569)  
-Westside Car Audio CC
+![valued client Three Moons Emporium](https://www.invoicesonline.co.za/scripts/image.php?bid=7645&file=logo_300_100&type=&fe=7dbf55068e5cd0fe4d6b6621308079edb8cb3707b2d4455402f92d6488488a11&c=209805105)  
+Three Moons Emporium
 
-![valued client Tracknetics](https://www.invoicesonline.co.za/scripts/image.php?bid=8211&file=logo_300_100&type=&fe=7e698c7053946fb06f50c254c35933ae4513f07282413d9f7ea1ff5f525fdcb1&c=52441369)  
-Tracknetics
+![valued client Tantra Sound and Lightz](https://www.invoicesonline.co.za/scripts/image.php?bid=1208&file=logo_300_100&type=&fe=7dbf55068e5cd0fe4d6b6621308079edb8cb3707b2d4455402f92d6488488a11&c=142116831)  
+Tantra Sound and Lightz
 
-![valued client MR Compressors& Industrial Supplies](https://www.invoicesonline.co.za/scripts/image.php?bid=7893&file=logo_300_100&type=&fe=7e698c7053946fb06f50c254c35933ae4513f07282413d9f7ea1ff5f525fdcb1&c=132051945)  
-MR Compressors& Industrial Supplies
+![valued client VA AND M DEBT-AID (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8114&file=logo_300_100&type=&fe=7dbf55068e5cd0fe4d6b6621308079edb8cb3707b2d4455402f92d6488488a11&c=84443515)  
+VA AND M DEBT-AID (PTY) LTD
 
-![valued client Environment Friendly Toilets (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=2934&file=logo_300_100&type=&fe=7e698c7053946fb06f50c254c35933ae4513f07282413d9f7ea1ff5f525fdcb1&c=51259617)  
-Environment Friendly Toilets (Pty) Ltd
+![valued client LEONARD](https://www.invoicesonline.co.za/scripts/image.php?bid=4785&file=logo_300_100&type=&fe=7dbf55068e5cd0fe4d6b6621308079edb8cb3707b2d4455402f92d6488488a11&c=166770169)  
+LEONARD
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
