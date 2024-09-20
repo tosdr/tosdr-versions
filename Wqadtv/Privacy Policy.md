@@ -32,16 +32,12 @@ Navigation
     
     *  [![](https://media.tegna-media.com/assets/WQAD/images/f6a2858c-b7d5-4e52-be8b-2164c80f3032/20240919T213219/f6a2858c-b7d5-4e52-be8b-2164c80f3032_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/f6a2858c-b7d5-4e52-be8b-2164c80f3032/20240919T213219/f6a2858c-b7d5-4e52-be8b-2164c80f3032_360x203.jpg)](https://www.wqad.com/article/news/local/centennial-bridge-shutting-lights-off-migrating-birds/526-af6b0b46-2799-4c68-b8e0-78a1a54b9c42)
         
-        #### [Centennial Bridge shuts its lights off for migrating birds](https://www.wqad.com/article/news/local/centennial-bridge-shutting-lights-off-migrating-birds/526-af6b0b46-2799-4c68-b8e0-78a1a54b9c42) [![](https://media.tegna-media.com/assets/WQAD/images/f6a2858c-b7d5-4e52-be8b-2164c80f3032/20240919T213219/f6a2858c-b7d5-4e52-be8b-2164c80f3032_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/f6a2858c-b7d5-4e52-be8b-2164c80f3032/20240919T213219/f6a2858c-b7d5-4e52-be8b-2164c80f3032_360x203.jpg)](https://www.wqad.com/article/news/local/centennial-bridge-shutting-lights-off-migrating-birds/526-af6b0b46-2799-4c68-b8e0-78a1a54b9c42)
+        #### [Centennial Bridge shuts its lights off for migrating birds](https://www.wqad.com/article/news/local/centennial-bridge-shutting-lights-off-migrating-birds/526-af6b0b46-2799-4c68-b8e0-78a1a54b9c42)
         
-        #### [Lights will be out on the Centennial Bridge to help migrating birds](https://www.wqad.com/article/news/local/centennial-bridge-shutting-lights-off-migrating-birds/526-af6b0b46-2799-4c68-b8e0-78a1a54b9c42)
-    *  [![](https://media.tegna-media.com/assets/WFAA/images/b46f2a44-299d-4cf7-8ede-eaa84d11e239/b46f2a44-299d-4cf7-8ede-eaa84d11e239_16x9.jpg) ![](https://media.tegna-media.com/assets/WFAA/images/b46f2a44-299d-4cf7-8ede-eaa84d11e239/b46f2a44-299d-4cf7-8ede-eaa84d11e239_360x203.jpg)](https://www.wqad.com/article/news/local/clinton-woman-arrested-drug-related-death-february/526-29ac0f0b-a3b7-42ef-b688-61efd6febb99)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/1cb48a16-c5de-4242-b677-d2f6cc97813b/20240918T233806/1cb48a16-c5de-4242-b677-d2f6cc97813b_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/1cb48a16-c5de-4242-b677-d2f6cc97813b/20240918T233806/1cb48a16-c5de-4242-b677-d2f6cc97813b_360x203.jpg)](https://www.wqad.com/article/news/local/as-seen-on-tv/hyvee-honor-flight-quad-cities-veterans-travel-washington-application/526-971d4be3-7a18-4ce8-a6e4-37ae9b5d1f4a)
         
-        #### [Clinton woman arrested in connection to February drug-related death](https://www.wqad.com/article/news/local/clinton-woman-arrested-drug-related-death-february/526-29ac0f0b-a3b7-42ef-b688-61efd6febb99) [![](https://media.tegna-media.com/assets/WFAA/images/b46f2a44-299d-4cf7-8ede-eaa84d11e239/b46f2a44-299d-4cf7-8ede-eaa84d11e239_16x9.jpg) ![](https://media.tegna-media.com/assets/WFAA/images/b46f2a44-299d-4cf7-8ede-eaa84d11e239/b46f2a44-299d-4cf7-8ede-eaa84d11e239_360x203.jpg)](https://www.wqad.com/article/news/local/clinton-woman-arrested-drug-related-death-february/526-29ac0f0b-a3b7-42ef-b688-61efd6febb99)
+        #### ['Once in a lifetime chance' | 80 local veterans return from 14th Hy-Vee Honor Flight](https://www.wqad.com/article/news/local/as-seen-on-tv/hyvee-honor-flight-quad-cities-veterans-travel-washington-application/526-971d4be3-7a18-4ce8-a6e4-37ae9b5d1f4a)
         
-        #### [Clinton woman charged with selling fentanyl that led to 19-year-old's death](https://www.wqad.com/article/news/local/clinton-woman-arrested-drug-related-death-february/526-29ac0f0b-a3b7-42ef-b688-61efd6febb99) [![](https://media.tegna-media.com/assets/WFAA/images/b46f2a44-299d-4cf7-8ede-eaa84d11e239/b46f2a44-299d-4cf7-8ede-eaa84d11e239_16x9.jpg) ![](https://media.tegna-media.com/assets/WFAA/images/b46f2a44-299d-4cf7-8ede-eaa84d11e239/b46f2a44-299d-4cf7-8ede-eaa84d11e239_360x203.jpg)](https://www.wqad.com/article/news/local/clinton-woman-arrested-drug-related-death-february/526-29ac0f0b-a3b7-42ef-b688-61efd6febb99)
-        
-        #### [Clinton woman charged in connection to fentanyl-related death](https://www.wqad.com/article/news/local/clinton-woman-arrested-drug-related-death-february/526-29ac0f0b-a3b7-42ef-b688-61efd6febb99)
     
 * [Weather](https://www.wqad.com/weather)
     
@@ -90,9 +86,9 @@ Navigation
 
 Davenport, IA »
 
-88°
+78°
 
-![Sunny](/assets/shared-images/weather-icons/clear-day_210x210.png)
+![Mostly Cloudy](/assets/shared-images/weather-icons/mostly-cloudy-night_210x210.png)
 
 Davenport, IA »](https://www.wqad.com/weather)
 
