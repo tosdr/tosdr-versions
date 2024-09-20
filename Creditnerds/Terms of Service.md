@@ -287,6 +287,30 @@ PARAGOULD, AR 72450
 Check Out Our Blog
 ------------------
 
+[![Cartoon-style image of a person wearing glasses, holding business documents labeled 'Business Credit.' The character stands confidently next to a large credit card, with a tall building and financial icons like graphs and coins in the background, symbolizing the process of building business credit.](https://creditnerds.com/wp-content/uploads/2024/09/business-credit-30x30.webp)](https://creditnerds.com/how-do-i-build-business-credit/)
+
+[Credit](https://creditnerds.com/category/credit/)
+
+September 20, 2024
+
+#### [How Do I Build Business Credit?](https://creditnerds.com/how-do-i-build-business-credit/)
+
+Just like individuals, businesses have credit scores that reflect how they handle debt. A strong business credit score can open doors to new financial opportunities, helping your business grow and succeed. But how do I build business credit? Here’s a step-by-step guide to help you get started. What Is Business Credit? Business credit is a …
+
+[Read More](https://creditnerds.com/how-do-i-build-business-credit/)
+
+[![2D cartoon-style image of a person wearing glasses, holding a document titled 'Mortgage Prequalification' with a checklist. The character stands in front of a flat suburban house with a 'For Sale' sign on a sunny day, representing the process of prequalifying for a mortgage and the journey toward homeownership.](https://creditnerds.com/wp-content/uploads/2024/09/mortgage-prequalification-30x30.webp)](https://creditnerds.com/how-to-prequalify-for-a-mortgage/)
+
+[Credit](https://creditnerds.com/category/credit/)
+
+September 19, 2024
+
+#### [How to Prequalify for a Mortgage](https://creditnerds.com/how-to-prequalify-for-a-mortgage/)
+
+Buying a house is a big milestone, especially if it's your first time. Before you begin house hunting, it’s smart to get prequalified for a mortgage. Prequalification gives you an estimate of what you can afford and helps you plan your homebuying journey. Mortgage Prequalification vs. Preapproval You may have heard the terms prequalification and …
+
+[Read More](https://creditnerds.com/how-to-prequalify-for-a-mortgage/)
+
 [![Cartoon-style image of a person wearing glasses standing in front of two large scales. One scale is labeled 'Good Debt' with symbols like a house, graduation cap, and small business sign. The other scale is labeled 'Bad Debt' with items such as credit cards, shopping bags, and a car loan. The character looks thoughtful, emphasizing the concept of distinguishing between good and bad debt.](https://creditnerds.com/wp-content/uploads/2024/09/Good-v-Bad-Debt-30x30.webp)](https://creditnerds.com/good-debt-vs-bad-debt-whats-the-difference/)
 
 [Credit](https://creditnerds.com/category/credit/)
@@ -370,30 +394,6 @@ September 3, 2024
 An annuity can be a valuable retirement planning tool, offering guaranteed income when you're no longer working. Some annuities even allow your premiums to grow tax-deferred. Understanding how to buy an annuity can help you make the most of this financial product. Here’s a closer look at what annuities are, how they work, and what …
 
 [Read More](https://creditnerds.com/how-to-buy-an-annuity/)
-
-[![A semi-realistic cartoony image of a person with short brown hair and glasses standing next to a rental car. The person looks thoughtful, holding an insurance policy document in one hand and a calendar marked with dates in the other. The background shows a parking lot with a few cars and a clear blue sky, conveying a bright and approachable atmosphere.](https://creditnerds.com/wp-content/uploads/2024/08/Insurance-Cover-Rental-Car-30x30.webp)](https://creditnerds.com/how-long-will-insurance-cover-a-rental-car-after-an-accident/)
-
-[Credit](https://creditnerds.com/category/credit/)
-
-August 30, 2024
-
-#### [How Long Will Insurance Cover a Rental Car After an Accident?](https://creditnerds.com/how-long-will-insurance-cover-a-rental-car-after-an-accident/)
-
-Dealing with car repairs after an accident can be stressful. One common concern is finding transportation while your vehicle is in the shop. If you have rental reimbursement coverage, your auto insurance may pay for a rental car after an accident for up to 30 days. However, not all insurance policies include rental reimbursement, and …
-
-[Read More](https://creditnerds.com/how-long-will-insurance-cover-a-rental-car-after-an-accident/)
-
-[![A semi-realistic cartoony image of a person with short brown hair and glasses, sitting at a kitchen table surrounded by money-saving items like a piggy bank, calculator, coupons, and a notepad. The person has a thoughtful expression and is holding a lightbulb symbolizing new ideas. The background features a cozy kitchen with a fridge, potted plants, and a window letting in natural light](https://creditnerds.com/wp-content/uploads/2024/08/Save-Money-at-Home-30x30.webp)](https://creditnerds.com/ways-to-save-money-at-home/)
-
-[Credit](https://creditnerds.com/category/credit/)
-
-August 28, 2024
-
-#### [Ways to Save Money at Home](https://creditnerds.com/ways-to-save-money-at-home/)
-
-Your home is your castle, but sometimes it can feel more like a money pit. Fortunately, there are many ways to save money and reduce home-related expenses. From budgeting to reducing utility usage, making simple changes can lead to significant savings. Below are 20 practical ways to save money at home. Some require an upfront …
-
-[Read More](https://creditnerds.com/ways-to-save-money-at-home/)
 
 ![](https://creditnerds.com/wp-content/uploads/2023/12/small-logo-white-30x30.png)
 
