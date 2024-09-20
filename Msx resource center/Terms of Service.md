@@ -13,7 +13,7 @@
     * [ARCHIVE](https://www.msx.org/archive)
 * [FORUM](https://www.msx.org/forum)
     * [MSX TALK](https://www.msx.org/forum/msx-talk)
-    * [DEBATES EN ESPAÑOL](https://www.msx.org/forum/debates-en-espagnol)
+    * [DEBATES EN ESPAÑOL](https://www.msx.org/forum/debates-en-espa-ol)
     * [MULTILINGUAL FORUMS](https://www.msx.org/forum/multilingual-forums-1)
 * [WIKI](http://www.msx.org/wiki/)
     * [INDEX](http://www.msx.org/wiki/)
@@ -140,6 +140,8 @@ MSX Music player
 
 Latest reactions
 
+* [New website Repair-Bas](https://www.msx.org/news/en/new-server-repair-bas-youtube-channel-english-translation "New website Repair-Bas")
+* [BrewOtaku magazine](https://www.msx.org/news/media/en/brewotaku-magazine "BrewOtaku magazine")
 * [OCMINFO for MSX++ compatibles](https://www.msx.org/news/en/ocminfo-for-msx-compatibles "OCMINFO for MSX++ compatibles")
 * [Markus Vordermeier aka Hamlet passed away](https://www.msx.org/news/msx-related/en/markus-vordermeier-aka-hamlet-passed-away "Markus Vordermeier aka Hamlet passed away")
 * [I-Logic](https://www.msx.org/news/software/en/i-logic "I-Logic")
@@ -148,24 +150,22 @@ Latest reactions
 * [MSX Logo policy updated](https://www.msx.org/news/msx-revival/en/msx-logo-policy-updated "MSX Logo policy updated")
 * [MSX Fair Nijmegen 2025](https://www.msx.org/news/en/march-8-2025-20th-msx-fair-nijmegen "MSX Fair Nijmegen 2025")
 * [MSX UK fun day](https://www.msx.org/news/en/msx-uk-fun-day "MSX UK fun day")
-* [Rambo MSX2 remake announced](https://www.msx.org/news/en/rambo-msx2-remake "Rambo MSX2 remake announced")
-* [HD Menu 3.2](https://www.msx.org/downloads/utilities/msx-dos-2/hd-menu-32 "HD Menu 3.2")
 
 Latest forum posts
 
-* [Performance Profiler - A first attempt](https://www.msx.org/forum/msx-talk/openmsx/performance-profiler-first-attempt?page=9 "Performance Profiler - A first attempt")
+* [WonderTANG! Who wants to juice up your MSX?](https://www.msx.org/forum/msx-talk/hardware/wondertang-who-wants-to-juice-up-your-msx?page=52 "WonderTANG! Who wants to juice up your MSX?")
 * [MSX & AI](https://www.msx.org/forum/msx-talk/development/msx-ai?page=4 "MSX & AI")
+* [Performance Profiler - A first attempt](https://www.msx.org/forum/msx-talk/openmsx/performance-profiler-first-attempt?page=9 "Performance Profiler - A first attempt")
+* [SX-E FPGA MSX](https://www.msx.org/forum/msx-talk/hardware/sx-e-fpga-msx?page=2 "SX-E FPGA MSX")
 * [Full English translation of Illusion City for MSX Turbo-R](https://www.msx.org/forum/msx-talk/software/full-english-translation-of-illusion-city-for-msx-turbo-r?page=14 "Full English translation of Illusion City for MSX Turbo-R")
 * [Anbernic console for msx](https://www.msx.org/forum/msx-talk/hardware/anbernic-console-for-msx?page=1 "Anbernic console for msx")
 * [VATT - VRAM Access Timing Tester](https://www.msx.org/forum/msx-talk/development/vatt-vram-access-timing-tester?page=16 "VATT - VRAM Access Timing Tester")
 * [Carnivore2 : First impressions and bugs...](https://www.msx.org/forum/msx-talk/hardware/carnivore2-first-impressions-and-bugs?page=54 "Carnivore2 : First impressions and bugs...")
-* [WonderTANG! Who wants to juice up your MSX?](https://www.msx.org/forum/msx-talk/hardware/wondertang-who-wants-to-juice-up-your-msx?page=51 "WonderTANG! Who wants to juice up your MSX?")
 * [Konami SCC cart (E)Eprom substitution](https://www.msx.org/forum/msx-talk/hardware/konami-scc-cart-eeprom-substitution "Konami SCC cart (E)Eprom substitution")
 * [OCMINFO: Tool for OCM/MSX++ compatibles](https://www.msx.org/forum/msx-talk/software/ocminfo-tool-for-ocmmsx-compatibles "OCMINFO: Tool for OCM/MSX++ compatibles")
 * [Casio MX-10 Technical cartridge port questions](https://www.msx.org/forum/msx-talk/hardware/casio-mx-10-technical-cartridge-port-questions " Casio MX-10 Technical cartridge port questions")
 * [Joypad wiring for pcb from Aliexpress](https://www.msx.org/forum/msx-talk/hardware/joypad-wiring-for-pcb-from-aliexpress?page=13 "Joypad wiring for pcb from Aliexpress")
 * [Save MRC](https://www.msx.org/forum/msx-talk/msx-resource-center/save-mrc?page=3 "Save MRC ")
-* [Cannot see symbols in the openMSX debugger](https://www.msx.org/forum/msx-talk/openmsx/cannot-see-symbols-in-the-openmsx-debugger "Cannot see symbols in the openMSX debugger")
 
 [](https://www.msx.org/forum/)[More forum topics](https://www.msx.org/forum/)
 
@@ -176,7 +176,7 @@ News headlines
 * [I-Logic](https://www.msx.org/news/software/en/i-logic "I-Logic")
 * [MSX and Networking book crowdfunding](https://www.msx.org/news/en/new-book-about-msx-and-networking-crowdfunding-campaign "MSX and Networking book crowdfunding")
 * [MSX UK fun day](https://www.msx.org/news/en/msx-uk-fun-day "MSX UK fun day")
-* [Hype OPL3](https://www.msx.org/news/en/hypeopl3 "Hype OPL3")
+* [Hype OPL3](https://www.msx.org/news/en/hypeopl "Hype OPL3")
 * [Fruit Mazes and Pallo](https://www.msx.org/news/en/pallo-a-new-game-for-your-msx2 "Fruit Mazes and Pallo")
 * [MSX Fair Nijmegen 2025](https://www.msx.org/news/en/march-8-2025-20th-msx-fair-nijmegen "MSX Fair Nijmegen 2025")
 * [Shockwave2 and Audiowave new batches](https://www.msx.org/news/en/opl4-shockwave-2-ready-delivery "Shockwave2 and Audiowave new batches")
