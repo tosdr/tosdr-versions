@@ -299,6 +299,14 @@
 
 [Все новости](https://er.ru/activity/news)
 
+[![«Единая Россия» подвела итоги акции «Русский Крым и Севастополь»](https://cdn.er.ru/media/news/September2024/Vp5Hr9mvJTReBGUl5eoW-small.png)](https://er.ru/activity/news/edinaya-rossiya-podvela-itogi-akcii-russkij-krym-i-sevastopol)
+
+[«Единая Россия» подвела итоги акции «Русский Крым и Севастополь»](https://er.ru/activity/news/edinaya-rossiya-podvela-itogi-akcii-russkij-krym-i-sevastopol)
+
+[#Романов](https://er.ru/activity/news?tags%5B0%5D=8320) [#партпроект](https://er.ru/activity/news?tags%5B0%5D=632) [#МирВозможностей](https://er.ru/activity/news?tags%5B0%5D=1092793) [#акция](https://er.ru/activity/news?tags%5B0%5D=238) [#русскийкрымисевастополь](https://er.ru/activity/news?tags%5B0%5D=1095762) [#школьники](https://er.ru/activity/news?tags%5B0%5D=127834) [#занятия](https://er.ru/activity/news?tags%5B0%5D=24809) [#Развожаев](https://er.ru/activity/news?tags%5B0%5D=140170)
+
+Сегодня 11:00
+
 [![«Единая Россия» провела первый Совет первичных отделений партии](https://cdn.er.ru/media/news/September2024/cpJdMu1pxBNkR7Y82M5X-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-provela-pervyj-sovet-pervichnyh-otdelenij-partii)
 
 [«Единая Россия» провела первый Совет первичных отделений партии](https://er.ru/activity/news/edinaya-rossiya-provela-pervyj-sovet-pervichnyh-otdelenij-partii)
@@ -336,14 +344,6 @@
 [Дмитрий Медведев: «Единая Россия» должна вести себя максимально корректно](https://er.ru/activity/news/dmitrij-medvedev-edinaya-rossiya-dolzhna-vesti-sebya-maksimalno-korrektno)
 
 [#Медведев](https://er.ru/activity/news?tags%5B0%5D=105) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#первички](https://er.ru/activity/news?tags%5B0%5D=7517) [#политика](https://er.ru/activity/news?tags%5B0%5D=134108) [#дамедведев](https://er.ru/activity/news?tags%5B0%5D=1095751)
-
-19.09.24
-
-[![Дмитрий Медведев: Тех, кто выступает против нашей страны, мы должны хранить в памяти, кто это был и что это за люди](https://cdn.er.ru/media/news/September2024/ks6Le1bwwOwV9bnkmxpw-small.JPG)](https://er.ru/activity/news/dmitrij-medvedev-teh-kto-vystupaet-protiv-nashej-strany-my-dolzhny-hranit-v-pamyati-kto-eto-byl-i-chto-eto-za-lyudi)
-
-[Дмитрий Медведев: Тех, кто выступает против нашей страны, мы должны хранить в памяти, кто это был и что это за люди](https://er.ru/activity/news/dmitrij-medvedev-teh-kto-vystupaet-protiv-nashej-strany-my-dolzhny-hranit-v-pamyati-kto-eto-byl-i-chto-eto-za-lyudi)
-
-[#Медведев](https://er.ru/activity/news?tags%5B0%5D=105) [#дамедведев](https://er.ru/activity/news?tags%5B0%5D=1095751) [#советпервичек](https://er.ru/activity/news?tags%5B0%5D=128798) [#Ростовская область](https://er.ru/activity/news?tags%5B0%5D=1284) [#Зяблова](https://er.ru/activity/news?tags%5B0%5D=1095176) [#международныеотношения](https://er.ru/activity/news?tags%5B0%5D=130522)
 
 19.09.24
 
