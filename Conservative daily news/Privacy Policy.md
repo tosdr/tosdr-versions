@@ -1,4 +1,4 @@
-Thursday, September 19 2024
+Friday, September 20 2024
 
 Breaking News
 
@@ -177,6 +177,7 @@ Recent Posts
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
 
+* [Evangelicals And Gun Owners Need To Vote](https://www.thegunpage.com/evangelicals-and-gun-owners-need-to-vote/10610692)
 * [What to Bring to Your First Competition](https://www.thegunpage.com/what-to-bring-to-your-first-competition/10610687)
 * [POTD: M1 Garand During Friendship Shoot](https://www.thegunpage.com/potd-m1-garand-during-friendship-shoot/10610688)
 * [Concealed Carry Corner: Best Ways To Train For Carrying](https://www.thegunpage.com/concealed-carry-corner-best-ways-to-train-for-carrying/10610689)
@@ -186,7 +187,6 @@ Recent Posts
 * [Mission First Tactical Announces The ACHRO Chest Pack & Harness](https://www.thegunpage.com/mission-first-tactical-announces-the-achro-chest-pack-harness/10610681)
 * [New Anti-Gun Group Will Focus on Policy in State Legislatures](https://www.thegunpage.com/new-anti-gun-group-will-focus-on-policy-in-state-legislatures/10610678)
 * [TFB Behind the Gun #133: Soft Goods FAQ w/ Kurt from Blue Alpha Belts](https://www.thegunpage.com/tfb-behind-the-gun-133-soft-goods-faq-w-kurt-from-blue-alpha-belts/10610680)
-* [It’s An AR-15… It’s An AK-47… No Media, It’s An SKS](https://www.thegunpage.com/its-an-ar-15-its-an-ak-47-no-media-its-an-sks/10610673)
 
 [![ Conservative Political Blogs](https://blog.feedspot.com/wp-content/uploads/2016/12/conservative_political_216px.png?x58297)](https://blog.feedspot.com/conservative_political_blogs/ "Conservative Political Blogs")
 
@@ -228,6 +228,7 @@ Contact Us
 
 Recent Comments
 
+* AlwaysVictoria on [Teamsters Don’t Support Trump, But Teamsters Do](https://www.conservativedailynews.com/2024/09/teamsters-dont-support-trump-but-teamsters-do/#comment-782210)
 * Spit-N-Seeds on [The Reasons Young Women Embrace the Left Do Not Reflect Well on Those Women](https://www.conservativedailynews.com/2024/09/the-reasons-young-women-embrace-the-left-do-not-reflect-well-on-those-women/#comment-782201)
 * Jim on [Caption This…](https://www.conservativedailynews.com/2024/09/caption-this/#comment-782189)
 * charles wilkins on [Dangerous Rhetoric](https://www.conservativedailynews.com/2024/09/dangerous-rhetoric/#comment-782180)
@@ -236,7 +237,6 @@ Recent Comments
 * Jeff L. on [The Democrats, the Media and Would-be Trump Assassin Ryan Routh](https://www.conservativedailynews.com/2024/09/the-democrats-the-media-and-would-be-trump-assassin-ryan-routh/#comment-782171)
 * Gary D. Chambers on [We Are Different, and the Left Keeps Attacking Us For It](https://www.conservativedailynews.com/2024/09/we-are-different-and-the-left-keeps-attacking-us-for-it/#comment-782156)
 * charles wilkins on [Tip of the Iceberg](https://www.conservativedailynews.com/2024/09/tip-of-the-iceberg/#comment-782148)
-* Missy B on [MSNBC Anchor Says Trump Should Tone Down Rhetoric After Potential Second Assassination Attempt](https://www.conservativedailynews.com/2024/09/msnbc-anchor-says-trump-should-tone-down-rhetoric-after-potential-second-assassination-attempt/#comment-782143)
 
 [Close](#)
 
