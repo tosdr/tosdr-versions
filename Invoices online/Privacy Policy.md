@@ -118,61 +118,59 @@ This policy is effective as of 29 June 2021.
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Support even on Sundays!
+> Enjoying Invoices Online
 > ------------------------
 > 
-> Thanks Adriaan...
+> I have enjoyed using your system so much at \*(business name removed), that I have decided to load my personal business onto it as well.
 > 
-> You guys even work on Sundays?
-> 
-> I’m impressed!!
+> I have upgraded to the Gold account in order to support you guys!
 
-Johan Botha - Brand Xplosion
+Shaun Gartshore
 
-![valued client Hydroworld T/A Milliqua](https://www.invoicesonline.co.za/scripts/image.php?bid=3671&file=logo_300_100&type=&fe=6a48bf9aa0e29338a2f3d14657a89982fdc92b283fcf01a5804aa931775ed48d&c=170317949)  
-Hydroworld T/A Milliqua
+![valued client VIR Electrical (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=7991&file=logo_300_100&type=&fe=e51e6158a9d5dfa1d25e03b43625e7ddf3ef0362a43d32b9bfe194d45ddde85e&c=89301552)  
+VIR Electrical (PTY) LTD
 
-![valued client OrgChart Hosting Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=658&file=logo_300_100&type=&fe=6a48bf9aa0e29338a2f3d14657a89982fdc92b283fcf01a5804aa931775ed48d&c=16475250)  
-OrgChart Hosting Pty Ltd
+![valued client Import Maaw](https://www.invoicesonline.co.za/scripts/image.php?bid=6159&file=logo_300_100&type=&fe=e51e6158a9d5dfa1d25e03b43625e7ddf3ef0362a43d32b9bfe194d45ddde85e&c=115254338)  
+Import Maaw
 
-![valued client Cooper Power South Africa (Pty) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2012&file=logo_300_100&type=&fe=6a48bf9aa0e29338a2f3d14657a89982fdc92b283fcf01a5804aa931775ed48d&c=213956012)  
-Cooper Power South Africa (Pty) LTD
+![valued client Peter Salvage Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7407&file=logo_300_100&type=&fe=e51e6158a9d5dfa1d25e03b43625e7ddf3ef0362a43d32b9bfe194d45ddde85e&c=37054437)  
+Peter Salvage Pty Ltd
 
-![valued client Shades of Summer Investments 184cc t/a Junker Construction](https://www.invoicesonline.co.za/scripts/image.php?bid=7053&file=logo_300_100&type=&fe=6a48bf9aa0e29338a2f3d14657a89982fdc92b283fcf01a5804aa931775ed48d&c=139352446)  
-Shades of Summer Investments 184cc t/a Junker Construction
+![valued client TRACKFORCE (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=1722&file=logo_300_100&type=&fe=e51e6158a9d5dfa1d25e03b43625e7ddf3ef0362a43d32b9bfe194d45ddde85e&c=104021544)  
+TRACKFORCE (Pty) Ltd
 
-![valued client PHESA TECHNOLOGY(PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2461&file=logo_300_100&type=&fe=6a48bf9aa0e29338a2f3d14657a89982fdc92b283fcf01a5804aa931775ed48d&c=22415664)  
-PHESA TECHNOLOGY(PTY) LTD
+![valued client Adele Jordaan T/A Joyful Noise Music Room](https://www.invoicesonline.co.za/scripts/image.php?bid=7958&file=logo_300_100&type=&fe=e51e6158a9d5dfa1d25e03b43625e7ddf3ef0362a43d32b9bfe194d45ddde85e&c=86448028)  
+Adele Jordaan T/A Joyful Noise Music Room
 
-![valued client Depot Diesel (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6813&file=logo_300_100&type=&fe=6a48bf9aa0e29338a2f3d14657a89982fdc92b283fcf01a5804aa931775ed48d&c=210437953)  
-Depot Diesel (Pty) Ltd
+![valued client Goju Ryu Karate Centre](https://www.invoicesonline.co.za/scripts/image.php?bid=2827&file=logo_300_100&type=&fe=e51e6158a9d5dfa1d25e03b43625e7ddf3ef0362a43d32b9bfe194d45ddde85e&c=105876684)  
+Goju Ryu Karate Centre
 
-![valued client Lion Software Develepment](https://www.invoicesonline.co.za/scripts/image.php?bid=7097&file=logo_300_100&type=&fe=6a48bf9aa0e29338a2f3d14657a89982fdc92b283fcf01a5804aa931775ed48d&c=68557822)  
-Lion Software Develepment
+![valued client SR Travel Services](https://www.invoicesonline.co.za/scripts/image.php?bid=7537&file=logo_300_100&type=&fe=e51e6158a9d5dfa1d25e03b43625e7ddf3ef0362a43d32b9bfe194d45ddde85e&c=82975345)  
+SR Travel Services
 
-![valued client NIMAWELL  ](https://www.invoicesonline.co.za/scripts/image.php?bid=6419&file=logo_300_100&type=&fe=6a48bf9aa0e29338a2f3d14657a89982fdc92b283fcf01a5804aa931775ed48d&c=55451214)  
+![valued client Moving Made Easy (PTY) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8622&file=logo_300_100&type=&fe=e51e6158a9d5dfa1d25e03b43625e7ddf3ef0362a43d32b9bfe194d45ddde85e&c=22475640)  
+Moving Made Easy (PTY) Ltd
+
+![valued client NIMAWELL  ](https://www.invoicesonline.co.za/scripts/image.php?bid=6419&file=logo_300_100&type=&fe=e51e6158a9d5dfa1d25e03b43625e7ddf3ef0362a43d32b9bfe194d45ddde85e&c=121453660)  
 NIMAWELL
 
-![valued client VIV'S TRUCKS (Pty) Ltd. (651)](https://www.invoicesonline.co.za/scripts/image.php?bid=6481&file=logo_300_100&type=&fe=6a48bf9aa0e29338a2f3d14657a89982fdc92b283fcf01a5804aa931775ed48d&c=38007305)  
-VIV'S TRUCKS (Pty) Ltd. (651)
+![valued client Brilliant Roof Products](https://www.invoicesonline.co.za/scripts/image.php?bid=8079&file=logo_300_100&type=&fe=e51e6158a9d5dfa1d25e03b43625e7ddf3ef0362a43d32b9bfe194d45ddde85e&c=196679414)  
+Brilliant Roof Products
 
-![valued client ARCHITEK PTY LTD ](https://www.invoicesonline.co.za/scripts/image.php?bid=8208&file=logo_300_100&type=&fe=6a48bf9aa0e29338a2f3d14657a89982fdc92b283fcf01a5804aa931775ed48d&c=201813740)  
-ARCHITEK PTY LTD
+![valued client Durbanville Classifieds (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8122&file=logo_300_100&type=&fe=e51e6158a9d5dfa1d25e03b43625e7ddf3ef0362a43d32b9bfe194d45ddde85e&c=161547792)  
+Durbanville Classifieds (Pty) Ltd
 
-![valued client INDUSTRIAL DRUM SERVICES (PTY)LTD ](https://www.invoicesonline.co.za/scripts/image.php?bid=7576&file=logo_300_100&type=&fe=6a48bf9aa0e29338a2f3d14657a89982fdc92b283fcf01a5804aa931775ed48d&c=22969201)  
-INDUSTRIAL DRUM SERVICES (PTY)LTD
+![valued client Tagline Brands](https://www.invoicesonline.co.za/scripts/image.php?bid=6177&file=logo_300_100&type=&fe=e51e6158a9d5dfa1d25e03b43625e7ddf3ef0362a43d32b9bfe194d45ddde85e&c=144668146)  
+Tagline Brands
 
-![valued client APTV Telecoms CC](https://www.invoicesonline.co.za/scripts/image.php?bid=8378&file=logo_300_100&type=&fe=6a48bf9aa0e29338a2f3d14657a89982fdc92b283fcf01a5804aa931775ed48d&c=38218220)  
-APTV Telecoms CC
+![valued client MSPCloud (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=4645&file=logo_300_100&type=&fe=e51e6158a9d5dfa1d25e03b43625e7ddf3ef0362a43d32b9bfe194d45ddde85e&c=29118480)  
+MSPCloud (Pty) Ltd
 
-![valued client NGB HOLDINGS PTY LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=6918&file=logo_300_100&type=&fe=6a48bf9aa0e29338a2f3d14657a89982fdc92b283fcf01a5804aa931775ed48d&c=98280303)  
-NGB HOLDINGS PTY LTD
+![valued client High Point Marketing CC t/a Leads For Africa](https://www.invoicesonline.co.za/scripts/image.php?bid=6845&file=logo_300_100&type=&fe=e51e6158a9d5dfa1d25e03b43625e7ddf3ef0362a43d32b9bfe194d45ddde85e&c=175366913)  
+High Point Marketing CC t/a Leads For Africa
 
-![valued client RADIO TYGERBERG 104FM NPC](https://www.invoicesonline.co.za/scripts/image.php?bid=8595&file=logo_300_100&type=&fe=6a48bf9aa0e29338a2f3d14657a89982fdc92b283fcf01a5804aa931775ed48d&c=57761815)  
-RADIO TYGERBERG 104FM NPC
-
-![valued client Adele Jordaan T/A Joyful Noise Music Room](https://www.invoicesonline.co.za/scripts/image.php?bid=7958&file=logo_300_100&type=&fe=6a48bf9aa0e29338a2f3d14657a89982fdc92b283fcf01a5804aa931775ed48d&c=126268938)  
-Adele Jordaan T/A Joyful Noise Music Room
+![valued client Wiselink Broadband Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=4072&file=logo_300_100&type=&fe=e51e6158a9d5dfa1d25e03b43625e7ddf3ef0362a43d32b9bfe194d45ddde85e&c=20774466)  
+Wiselink Broadband Pty Ltd
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
