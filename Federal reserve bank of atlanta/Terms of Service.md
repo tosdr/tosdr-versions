@@ -187,7 +187,7 @@ Menutoggle menu
     * [The Atlanta Fed](https://www.atlantafed.org/about/atlantafed)
         * [Advisory Groups](https://www.atlantafed.org/about/atlantafed/advisory-groups)
         * [Annual Reports](https://www.atlantafed.org/about/publications/annual-reports)
-        * [Branches](https://www.atlantafed.org/community-development/about-us/federal-reserve-community-development)
+        * [Branches](https://www.atlantafed.org/about/atlantafed/branches)
         * [Directors](https://www.atlantafed.org/about/atlantafed/directors)
         * [Executive Leadership Committee](https://www.atlantafed.org/about/atlantafed/executive-leadership-committee)
         * [Outreach](https://www.atlantafed.org/about/atlantafed/outreach)
