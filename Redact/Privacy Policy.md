@@ -1,6 +1,6 @@
 ![mobile preview](/images/svgs/exit_banner.svg)[![mobile preview](/images/svgs/clock.svg)
 
-Expires in \-405:-50:-12
+Expires in \-414:-59:-33
 
 25% OFF SALE with code 'LABOR25'](https://redact.dev/login)
 
