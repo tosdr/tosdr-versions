@@ -168,37 +168,37 @@ Questions regarding Pastebin's Privacy Statement or information practices should
 
 [Public Pastes](https://pastebin.com/archive)
 
-* [Private guide](https://pastebin.com/tBW0AFxh)
+* [Private guide](https://pastebin.com/0xEnFf0h)
     
     JavaScript | 1 sec ago | 0.18 KB
     
-* [Amazon Giftcards](https://pastebin.com/5cPCyHy2)
+* [☀️FREE voucher method latest☀️](https://pastebin.com/K2bejBd7)
     
-    JavaScript | 2 sec ago | 0.17 KB
+    Python | 1 sec ago | 0.30 KB
     
-* [😍FREE gift method latest☀️](https://pastebin.com/B2w57mau)
+* [Leaked by Zack](https://pastebin.com/qJFq19qN)
     
-    Python | 3 sec ago | 0.31 KB
+    JavaScript | 1 sec ago | 0.17 KB
     
-* [❤️ MAKE $500 IN 15 MINUTES ❤](https://pastebin.com/YRbKHt3W)
+* [This method is now public](https://pastebin.com/G2DHQAB3)
+    
+    JavaScript | 3 sec ago | 0.20 KB
+    
+* [Private guide](https://pastebin.com/2a8RyWSt)
+    
+    JavaScript | 3 sec ago | 0.18 KB
+    
+* [❤️ MAKE $500 IN 15 MINUTES ❤](https://pastebin.com/rM59SM1d)
     
     JavaScript | 3 sec ago | 0.17 KB
     
-* [Amazon Giftcards](https://pastebin.com/XgzAieYG)
+* [☀️FREE gift Method new☀️](https://pastebin.com/WTkmSpMF)
     
-    JavaScript | 3 sec ago | 0.17 KB
+    Python | 4 sec ago | 0.29 KB
     
-* [Leaked by Zack](https://pastebin.com/QqWeYLhw)
-    
-    JavaScript | 4 sec ago | 0.17 KB
-    
-* [Leaked by Zack](https://pastebin.com/7AgtpB7z)
+* [❤️ MAKE $500 IN 15 MINUTES ❤](https://pastebin.com/M6kNUbmy)
     
     JavaScript | 5 sec ago | 0.17 KB
-    
-* [This method is now public](https://pastebin.com/gVXBmpGp)
-    
-    JavaScript | 6 sec ago | 0.20 KB
     
 
 [](https://pastebin.com/tools#chrome "Google Chrome Extension")[](https://pastebin.com/tools#firefox "Firefox Extension")[](https://pastebin.com/tools#iphone "iPhone/iPad Application")[](https://pastebin.com/tools#windows "Windows Desktop Application")[](https://pastebin.com/tools#android "Android Application")[](https://pastebin.com/tools#macos "MacOS X Widget")[](https://pastebin.com/tools#opera "Opera Extension")[](https://pastebin.com/tools#pastebincl "Linux Application")
