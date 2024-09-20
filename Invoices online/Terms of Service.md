@@ -197,59 +197,61 @@ Note: If at any time you should have any concern regarding security, privacy or 
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Enjoying Invoices Online
+> Wish I started ages ago!
 > ------------------------
 > 
-> I have enjoyed using your system so much at \*(business name removed), that I have decided to load my personal business onto it as well.
+> I just want to compliment you and your team for an amazing back office software.
 > 
-> I have upgraded to the Gold account in order to support you guys!
+> I have been struggling with a proper invoicing solution for six months now (to make time each month)
+> 
+> I just wish I started using Invoices Online ages ago.
 
-Shaun Gartshore
+Terri Winfield
 
-![valued client Testpro Laboratory (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5981&file=logo_300_100&type=&fe=e7455f1c9c80845bac08f2fd652b9fde1e3949be472d896ac6ceb48c1a6d4387&c=140779845)  
-Testpro Laboratory (Pty) Ltd
+![valued client #DiGi3 Marketing & Design](https://www.invoicesonline.co.za/scripts/image.php?bid=3234&file=logo_300_100&type=&fe=1806cb362316417d12dc8d7108f35b005bbaddc75bb0fd233120381c438e9121&c=134008211)  
+#DiGi3 Marketing & Design
 
-![valued client Itroniq (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8072&file=logo_300_100&type=&fe=e7455f1c9c80845bac08f2fd652b9fde1e3949be472d896ac6ceb48c1a6d4387&c=52535503)  
-Itroniq (Pty) Ltd
+![valued client SR Travel Services](https://www.invoicesonline.co.za/scripts/image.php?bid=7537&file=logo_300_100&type=&fe=1806cb362316417d12dc8d7108f35b005bbaddc75bb0fd233120381c438e9121&c=56383847)  
+SR Travel Services
 
-![valued client VerdanTech Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5389&file=logo_300_100&type=&fe=e7455f1c9c80845bac08f2fd652b9fde1e3949be472d896ac6ceb48c1a6d4387&c=133149135)  
-VerdanTech Pty Ltd
+![valued client Entidee Enterprise PTY (ltd)](https://www.invoicesonline.co.za/scripts/image.php?bid=4344&file=logo_300_100&type=&fe=1806cb362316417d12dc8d7108f35b005bbaddc75bb0fd233120381c438e9121&c=193088312)  
+Entidee Enterprise PTY (ltd)
 
-![valued client Goju Ryu Karate Centre](https://www.invoicesonline.co.za/scripts/image.php?bid=2827&file=logo_300_100&type=&fe=e7455f1c9c80845bac08f2fd652b9fde1e3949be472d896ac6ceb48c1a6d4387&c=132819672)  
-Goju Ryu Karate Centre
+![valued client Kinetic Power Solutions (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=8094&file=logo_300_100&type=&fe=1806cb362316417d12dc8d7108f35b005bbaddc75bb0fd233120381c438e9121&c=179687378)  
+Kinetic Power Solutions (Pty) Ltd.
 
-![valued client Secunda Signs T/A Local Print and Signs](https://www.invoicesonline.co.za/scripts/image.php?bid=8292&file=logo_300_100&type=&fe=e7455f1c9c80845bac08f2fd652b9fde1e3949be472d896ac6ceb48c1a6d4387&c=112857779)  
-Secunda Signs T/A Local Print and Signs
-
-![valued client ARCHITEK PTY LTD ](https://www.invoicesonline.co.za/scripts/image.php?bid=8208&file=logo_300_100&type=&fe=e7455f1c9c80845bac08f2fd652b9fde1e3949be472d896ac6ceb48c1a6d4387&c=63702388)  
-ARCHITEK PTY LTD
-
-![valued client High Point Marketing CC t/a Leads For Africa](https://www.invoicesonline.co.za/scripts/image.php?bid=6845&file=logo_300_100&type=&fe=e7455f1c9c80845bac08f2fd652b9fde1e3949be472d896ac6ceb48c1a6d4387&c=189533244)  
-High Point Marketing CC t/a Leads For Africa
-
-![valued client Little Nutty Professors](https://www.invoicesonline.co.za/scripts/image.php?bid=4826&file=logo_300_100&type=&fe=e7455f1c9c80845bac08f2fd652b9fde1e3949be472d896ac6ceb48c1a6d4387&c=174039173)  
-Little Nutty Professors
-
-![valued client Konsortium Operations ( Roamfree Meats )](https://www.invoicesonline.co.za/scripts/image.php?bid=2819&file=logo_300_100&type=&fe=e7455f1c9c80845bac08f2fd652b9fde1e3949be472d896ac6ceb48c1a6d4387&c=60580787)  
+![valued client Konsortium Operations ( Roamfree Meats )](https://www.invoicesonline.co.za/scripts/image.php?bid=2819&file=logo_300_100&type=&fe=1806cb362316417d12dc8d7108f35b005bbaddc75bb0fd233120381c438e9121&c=92260140)  
 Konsortium Operations ( Roamfree Meats )
 
-![valued client Cooper Logistics (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=1974&file=logo_300_100&type=&fe=e7455f1c9c80845bac08f2fd652b9fde1e3949be472d896ac6ceb48c1a6d4387&c=105016094)  
-Cooper Logistics (Pty) Ltd
+![valued client VerdanTech Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5389&file=logo_300_100&type=&fe=1806cb362316417d12dc8d7108f35b005bbaddc75bb0fd233120381c438e9121&c=163512840)  
+VerdanTech Pty Ltd
 
-![valued client Import Maaw](https://www.invoicesonline.co.za/scripts/image.php?bid=6159&file=logo_300_100&type=&fe=e7455f1c9c80845bac08f2fd652b9fde1e3949be472d896ac6ceb48c1a6d4387&c=153670967)  
-Import Maaw
+![valued client Lincosa](https://www.invoicesonline.co.za/scripts/image.php?bid=8659&file=logo_300_100&type=&fe=1806cb362316417d12dc8d7108f35b005bbaddc75bb0fd233120381c438e9121&c=18393500)  
+Lincosa
 
-![valued client Xpress Designs](https://www.invoicesonline.co.za/scripts/image.php?bid=6143&file=logo_300_100&type=&fe=e7455f1c9c80845bac08f2fd652b9fde1e3949be472d896ac6ceb48c1a6d4387&c=26115458)  
-Xpress Designs
+![valued client Lily Fern & Co](https://www.invoicesonline.co.za/scripts/image.php?bid=7678&file=logo_300_100&type=&fe=1806cb362316417d12dc8d7108f35b005bbaddc75bb0fd233120381c438e9121&c=128993998)  
+Lily Fern & Co
 
-![valued client Bchange Online CC](https://www.invoicesonline.co.za/scripts/image.php?bid=8330&file=logo_300_100&type=&fe=e7455f1c9c80845bac08f2fd652b9fde1e3949be472d896ac6ceb48c1a6d4387&c=175627711)  
-Bchange Online CC
+![valued client ARCHITEK PTY LTD ](https://www.invoicesonline.co.za/scripts/image.php?bid=8208&file=logo_300_100&type=&fe=1806cb362316417d12dc8d7108f35b005bbaddc75bb0fd233120381c438e9121&c=69772557)  
+ARCHITEK PTY LTD
 
-![valued client IYD](https://www.invoicesonline.co.za/scripts/image.php?bid=7541&file=logo_300_100&type=&fe=e7455f1c9c80845bac08f2fd652b9fde1e3949be472d896ac6ceb48c1a6d4387&c=191100379)  
-IYD
+![valued client Stories4Kids (Pty) Ltd t/a Storietyd](https://www.invoicesonline.co.za/scripts/image.php?bid=2162&file=logo_300_100&type=&fe=1806cb362316417d12dc8d7108f35b005bbaddc75bb0fd233120381c438e9121&c=210794629)  
+Stories4Kids (Pty) Ltd t/a Storietyd
 
-![valued client Prosper Park](https://www.invoicesonline.co.za/scripts/image.php?bid=8286&file=logo_300_100&type=&fe=e7455f1c9c80845bac08f2fd652b9fde1e3949be472d896ac6ceb48c1a6d4387&c=200352737)  
-Prosper Park
+![valued client VA AND M DEBT-AID (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8114&file=logo_300_100&type=&fe=1806cb362316417d12dc8d7108f35b005bbaddc75bb0fd233120381c438e9121&c=95572049)  
+VA AND M DEBT-AID (PTY) LTD
+
+![valued client Safe-Train Consulting (PTY) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5066&file=logo_300_100&type=&fe=1806cb362316417d12dc8d7108f35b005bbaddc75bb0fd233120381c438e9121&c=178875953)  
+Safe-Train Consulting (PTY) Ltd
+
+![valued client NEW BEGINNINGS DESIGNS](https://www.invoicesonline.co.za/scripts/image.php?bid=8177&file=logo_300_100&type=&fe=1806cb362316417d12dc8d7108f35b005bbaddc75bb0fd233120381c438e9121&c=114038113)  
+NEW BEGINNINGS DESIGNS
+
+![valued client GF CASTELYN Trading as ELECTROPRINT ARMATURE REWINDERS](https://www.invoicesonline.co.za/scripts/image.php?bid=3194&file=logo_300_100&type=&fe=1806cb362316417d12dc8d7108f35b005bbaddc75bb0fd233120381c438e9121&c=86256166)  
+GF CASTELYN Trading as ELECTROPRINT ARMATURE REWINDERS
+
+![valued client Imvubu General Trading](https://www.invoicesonline.co.za/scripts/image.php?bid=299&file=logo_300_100&type=&fe=1806cb362316417d12dc8d7108f35b005bbaddc75bb0fd233120381c438e9121&c=165292205)  
+Imvubu General Trading
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
