@@ -46,15 +46,15 @@ Privacy Policy
 * [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     ![](https://karkhane.org/app/uploads/2024/09/workers-painting-29-3094829999-95x65.jpg)](https://karkhane.org/5844/cosmetic_factory_98/)[تجربه‌ی کارگری در کارخانه‌ی لوازم آرایشی و اعتراضات گرانی بنزین آبان ۹۸](https://karkhane.org/5844/cosmetic_factory_98/)
-* [![داستان کوتاه «صاحب‌خانه‌ی ما» از عزیز نسین](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+* [![نساجی مازندران: نمونه‌ای از اولویت منافع سرمایه‌داران](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
-    ![داستان کوتاه «صاحب‌خانه‌ی ما» از عزیز نسین](https://karkhane.org/app/uploads/2021/07/sahebxane-e-ma-aziz-nesin-95x65.jpg)](https://karkhane.org/2908/%d8%af%d8%a7%d8%b3%d8%aa%d8%a7%d9%86-%d8%b5%d8%a7%d8%ad%d8%a8%d8%ae%d8%a7%d9%86%d9%87-%d9%85%d8%a7-%d8%b9%d8%b2%db%8c%d8%b2-%d9%86%d8%b3%db%8c%d9%86/)[داستان کوتاه «صاحب‌خانه‌ی ما» از عزیز نسین](https://karkhane.org/2908/%d8%af%d8%a7%d8%b3%d8%aa%d8%a7%d9%86-%d8%b5%d8%a7%d8%ad%d8%a8%d8%ae%d8%a7%d9%86%d9%87-%d9%85%d8%a7-%d8%b9%d8%b2%db%8c%d8%b2-%d9%86%d8%b3%db%8c%d9%86/)
-* [![افزایش مزد کارگران، تورم و عربده‌کشی سرمایه‌داران](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    ![نساجی مازندران: نمونه‌ای از اولویت منافع سرمایه‌داران](https://karkhane.org/app/uploads/2020/10/nassaji-mazandaran-95x65.jpg)](https://karkhane.org/2262/%d9%86%d8%b3%d8%a7%d8%ac%db%8c-%d9%85%d8%a7%d8%b2%d9%86%d8%af%d8%b1%d8%a7%d9%86-%d8%a7%d9%88%d9%84%d9%88%db%8c%d8%aa-%d9%85%d9%86%d8%a7%d9%81%d8%b9-%d8%b3%d8%b1%d9%85%d8%a7%db%8c/)[نساجی مازندران: نمونه‌ای از اولویت منافع سرمایه‌داران](https://karkhane.org/2262/%d9%86%d8%b3%d8%a7%d8%ac%db%8c-%d9%85%d8%a7%d8%b2%d9%86%d8%af%d8%b1%d8%a7%d9%86-%d8%a7%d9%88%d9%84%d9%88%db%8c%d8%aa-%d9%85%d9%86%d8%a7%d9%81%d8%b9-%d8%b3%d8%b1%d9%85%d8%a7%db%8c/)
+* [![اشغال کارخانه صنعتی جنرال توسط کارگران مبارز](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
-    ![افزایش مزد کارگران، تورم و عربده‌کشی سرمایه‌داران](https://karkhane.org/app/uploads/2022/05/afzayesh-mozd-e-kargaran-tavarrom-arbadekeshi-e-sarmayedaran-95x65.jpg)](https://karkhane.org/4031/%d8%a7%d9%81%d8%b2%d8%a7%db%8c%d8%b4-%d9%85%d8%b2%d8%af-1401-%d8%b9%d8%b1%d8%a8%d8%af%d9%87-%da%a9%d8%b4%db%8c-%d8%b3%d8%b1%d9%85%d8%a7%db%8c%d9%87-%d8%af%d8%a7%d8%b1%d8%a7%d9%86/)[افزایش مزد کارگران، تورم و عربده‌کشی سرمایه‌داران](https://karkhane.org/4031/%d8%a7%d9%81%d8%b2%d8%a7%db%8c%d8%b4-%d9%85%d8%b2%d8%af-1401-%d8%b9%d8%b1%d8%a8%d8%af%d9%87-%da%a9%d8%b4%db%8c-%d8%b3%d8%b1%d9%85%d8%a7%db%8c%d9%87-%d8%af%d8%a7%d8%b1%d8%a7%d9%86/)
+    ![اشغال کارخانه صنعتی جنرال توسط کارگران مبارز](https://karkhane.org/app/uploads/2023/02/eshqal-e-karxane-jeneral-1357-95x65.jpg)](https://karkhane.org/4780/general-electric-occupation-by-workers/)[اشغال کارخانه صنعتی جنرال توسط کارگران مبارز](https://karkhane.org/4780/general-electric-occupation-by-workers/)
 * [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
-    ![](https://karkhane.org/app/uploads/2024/04/Season-Worker-95x65.jpg)](https://karkhane.org/5468/on-workers-deathsuicide/)[درباره‌ی مرگ و خودکشی کارگران و فرودستان](https://karkhane.org/5468/on-workers-deathsuicide/)
+    ![](https://karkhane.org/app/uploads/2020/10/hadese-dar-kargah-e-markazi-qazi-rabihavi-95x65.jpg)](https://karkhane.org/2279/%d8%af%d8%a7%d8%b3%d8%aa%d8%a7%d9%86-%d8%a8%d9%84%d9%86%d8%af%db%8c%d9%87%d8%a7%db%8c-%d8%a2%d8%aa%d8%b4-%d9%82%d8%a7%d8%b6%db%8c-%d8%b1%d8%a8%db%8c%d8%ad%d8%a7%d9%88%db%8c/)[داستان «بلندی‌های آتش» از قاضی ربیحاوی](https://karkhane.org/2279/%d8%af%d8%a7%d8%b3%d8%aa%d8%a7%d9%86-%d8%a8%d9%84%d9%86%d8%af%db%8c%d9%87%d8%a7%db%8c-%d8%a2%d8%aa%d8%b4-%d9%82%d8%a7%d8%b6%db%8c-%d8%b1%d8%a8%db%8c%d8%ad%d8%a7%d9%88%db%8c/)
 
 * [Facebook](https://www.facebook.com/--107914377686249)
 * [YouTube](https://www.youtube.com/channel/UCnz481dcaM1p7c3oDR5Ot9A)
