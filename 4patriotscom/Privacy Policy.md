@@ -74,7 +74,7 @@ We Champion Freedom & Self-Reliance
         
         ###### Ultimate Meat Medley Jumbo Meat - Jumbo Can
         
-        39 reviews](https://4patriots.com/products/ultimate-meat-medley-jumbo-survival-food-kit)
+        40 reviews](https://4patriots.com/products/ultimate-meat-medley-jumbo-survival-food-kit)
         
     
 * [Survival Food](https://4patriots.com/collections/food)
@@ -228,7 +228,7 @@ We Champion Freedom & Self-Reliance
         
         ###### Patriot Power Greens Energy & Nutrition Powder Blend - Double Size
         
-        56 reviews](https://4patriots.com/products/patriot-power-greens-1-double-size-can)
+        57 reviews](https://4patriots.com/products/patriot-power-greens-1-double-size-can)
         
     
 * [Deals](https://4patriots.com/collections/deal-of-the-week)
@@ -237,7 +237,6 @@ We Champion Freedom & Self-Reliance
     
     * [⚡ Buy 1, Get 1 FREE Solar Generator Event](https://products.4patriots.com/holiday/leap-year/solar-event?afid=mkt&aff_sub=20240903_cam_4p_ecom_pdp_ppgs-x&utm_campaign=mkt_ecom_ppgs-x_20240903&utm_medium=ecom&utm_source=cam&utm_content=pdp&utm_term=4p&nb_klid=%7B%7B)
     * [72-Hour Food Kit - Buy 1, Get 2 FREE](https://products.4patriots.com/food/72hour-b1g2/perfect-starter?afid=mkt&aff_sub=20240708_cam_4p_ecom_dealsnav_72hr-b1g2&utm_campaign=mkt_ecom_72hr-b1g2_20240708&utm_medium=ecom&utm_source=cam&utm_content=dealsnav&utm_term=4p&nb_klid=%7B%7B)
-    * [🍔 Flash Sale: $25 OFF Black Bean Burger Pack](https://4patriots.com/products/black-bean-burger-mix-kit)
     * [$100.00 OFF Food & Fire Bundle](https://4patriots.com/products/food-fire-survival-cooking-bundle)
     * ["Supercharge" Package - Bundle & Save](https://4patriots.com/products/super-charged-solar-generator-bundle)
     * [Buy 5, Get 1 Free Customizable Kits](https://4patriots.com/collections/custom-case-pack-builder)
