@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.king5.com/assets/WUSA/images/d0c922dd-52b9-425a-ad2a-cbac66e01511/20240731T155928/d0c922dd-52b9-425a-ad2a-cbac66e01511_16x9.jpg) ![](https://media.king5.com/assets/WUSA/images/d0c922dd-52b9-425a-ad2a-cbac66e01511/20240731T155928/d0c922dd-52b9-425a-ad2a-cbac66e01511_360x203.jpg)](https://www.king5.com/article/life/food/fast-casual-burger-custard-chain-expand-seattle/281-88d7071f-3d07-4f7d-9649-f8f148026d42)
+    *  [![](https://media.king5.com/assets/KING/images/e22a0616-d934-4c1d-be71-bdecef33f4a5/20240920T053137/e22a0616-d934-4c1d-be71-bdecef33f4a5_16x9.jpg) ![](https://media.king5.com/assets/KING/images/e22a0616-d934-4c1d-be71-bdecef33f4a5/20240920T053137/e22a0616-d934-4c1d-be71-bdecef33f4a5_360x203.jpg)](https://www.king5.com/article/money/west-seattle-neighbors-questioning-everything-light-rail-price-ticks-up-by-2-billion/281-3176a017-5291-4b7c-81b1-9726b3c00099)
         
-        #### [National burger, custard fast-food chain to expand into Seattle market](https://www.king5.com/article/life/food/fast-casual-burger-custard-chain-expand-seattle/281-88d7071f-3d07-4f7d-9649-f8f148026d42)
+        #### [West Seattle neighbors say $2 billion increase for light rail extension is 'astronomical'](https://www.king5.com/article/money/west-seattle-neighbors-questioning-everything-light-rail-price-ticks-up-by-2-billion/281-3176a017-5291-4b7c-81b1-9726b3c00099)
         
-    *  [![](https://media.king5.com/assets/KING/images/1bc618f6-f8e1-4f7d-aa42-9d0948d9c808/20240920T014408/1bc618f6-f8e1-4f7d-aa42-9d0948d9c808_16x9.jpg) ![](https://media.king5.com/assets/KING/images/1bc618f6-f8e1-4f7d-aa42-9d0948d9c808/20240920T014408/1bc618f6-f8e1-4f7d-aa42-9d0948d9c808_360x203.jpg)](https://www.king5.com/article/news/local/king-county-executive-temporary-funding-public-health-clinics/281-015f810d-f020-43c5-9cdd-80c3e3c22e55)
+    *  [![](https://media.king5.com/assets/KING/images/a1f70337-f034-4f98-9c8e-70925cb46e20/20240920T041850/a1f70337-f034-4f98-9c8e-70925cb46e20_16x9.jpg) ![](https://media.king5.com/assets/KING/images/a1f70337-f034-4f98-9c8e-70925cb46e20/20240920T041850/a1f70337-f034-4f98-9c8e-70925cb46e20_360x203.jpg)](https://www.king5.com/article/news/local/small-businesses-near-boeing-plant-renton-economic-crunch-during-strike/281-8de1497f-1a02-4be5-844c-5d97c42ae6b7)
         
-        #### [King County executive proposes temporary funding fix to keep public health clinics open](https://www.king5.com/article/news/local/king-county-executive-temporary-funding-public-health-clinics/281-015f810d-f020-43c5-9cdd-80c3e3c22e55)
+        #### ['It's been very slow': Local businesses see fewer customers during Boeing Machinists strike](https://www.king5.com/article/news/local/small-businesses-near-boeing-plant-renton-economic-crunch-during-strike/281-8de1497f-1a02-4be5-844c-5d97c42ae6b7)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -95,9 +95,9 @@ Navigation
 
 Seattle, WA »
 
-66°
+58°
 
-![Partly Cloudy](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
+![Cloudy](/assets/shared-images/weather-icons/cloudy-night_210x210.png)
 
 Seattle, WA »](https://www.king5.com/weather)
 
