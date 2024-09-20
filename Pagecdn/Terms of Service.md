@@ -30,10 +30,14 @@ Site Arrow Pte. Ltd.
 
 ###### Our Service
 
-* [Pricing](https://pagecdn.com/pricing/)
+* [CDN Pricing](https://pagecdn.com/pricing/)
 * [Our Network](https://pagecdn.com/network/)
 * [Knowledgebase](https://my.simplecdn.com/knowledgebase)
 * [Blog](https://pagecdn.com/blog/)
+
+###### Solutions & Applications
+
+* [WordPress CDN](https://pagecdn.com/wordpress-cdn/)
 
 ###### Comparison Pages
 
