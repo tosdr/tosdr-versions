@@ -130,13 +130,6 @@ Important Update: We have updated our privacy statement effective September 8, 2
 
 **Important Update: We have updated our privacy statement effective September 8, 2024.** 
 
-![A person is opening a blue door representing encryption and privacy](https://www.intuit.com/oidam/intuit/ic/en_us/images/h-z/privacy-woman-door-hero-illo-life-icom-desktop-tablet-20230703-312x467.jpg)
-
-GLOBAL PRIVACY STATEMENTS
-
-You deserve transparency into our data use
-==========================================
-
 Select your preferred language
 
 [English](https://www.intuit.com/privacy/statement/)
