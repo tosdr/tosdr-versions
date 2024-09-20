@@ -131,6 +131,12 @@ SEND
 
 #### Featured POSts
 
+[![](https://www.sickchirpse.com/wp-content/uploads/2024/09/black-mirror.jpg)](https://www.sickchirpse.com/season-7-black-mirror-confirmed-with-release-date/)
+
+### [Season 7 Of Black Mirror Confirmed With Release Date + New Episode Details](https://www.sickchirpse.com/season-7-black-mirror-confirmed-with-release-date/)
+
+[Read More »](https://www.sickchirpse.com/season-7-black-mirror-confirmed-with-release-date/)
+
 [![](https://www.sickchirpse.com/wp-content/uploads/2024/09/dua-lipa-taylor-swift.jpg)](https://www.sickchirpse.com/fans-are-convinced-dua-lipa-just-dissed-taylor-swift-in-new-interview/)
 
 ### [Fans Are Convinced Dua Lipa Just Dissed Taylor Swift In New Interview](https://www.sickchirpse.com/fans-are-convinced-dua-lipa-just-dissed-taylor-swift-in-new-interview/)
@@ -154,12 +160,6 @@ SEND
 ### [More Than 1,000 Bottles Of Baby Oil And Lubricant Seized In P Diddy Probe](https://www.sickchirpse.com/more-than-1000-bottles-of-baby-oil-and-lubricant-seized-in-p-diddy-probe/)
 
 [Read More »](https://www.sickchirpse.com/more-than-1000-bottles-of-baby-oil-and-lubricant-seized-in-p-diddy-probe/)
-
-[![](https://www.sickchirpse.com/wp-content/uploads/2024/09/freshers.webp)](https://www.sickchirpse.com/british-onlyfans-girl-says-shes-getting-rich-sleeping-with-50-freshers-a-day-at-unis-around-the-uk/)
-
-### [British OnlyFans Girl Says She’s ‘Getting Rich Sleeping With 50 Freshers A Day’ At Unis Around The UK](https://www.sickchirpse.com/british-onlyfans-girl-says-shes-getting-rich-sleeping-with-50-freshers-a-day-at-unis-around-the-uk/)
-
-[Read More »](https://www.sickchirpse.com/british-onlyfans-girl-says-shes-getting-rich-sleeping-with-50-freshers-a-day-at-unis-around-the-uk/)
 
 #### trending post
 
