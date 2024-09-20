@@ -288,15 +288,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-During the Harry Potter and the Philosopher’s/Sorcerer’s Stone film, viewers can hear Rubeus Hagrid playing Hedwig’s Theme on a flute right before the trio approaches and asks him about obtaining Norbert.
+Hermione Granger is an only child. She originally had a younger sister, but the storyline didn’t work out.
 
 ### Potter History
 
-July 16, 2009 – Harry Potter and the Half-Blood Prince film breaks records to have the highest grossing first 24 hours of all time.
+June 4, 2012 – Sony unveils Wonderbook: Book of Spells at the Electronic Entertainment Expo in Los Angeles.
 
 ### Potter Quote
 
-“I’m worth twelve of you, Malfoy.”
+“Numbing the pain for a while will make it worse when you finally feel it.”
 
 [](#)
 
