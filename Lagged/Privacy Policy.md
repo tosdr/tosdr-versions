@@ -245,9 +245,9 @@ Games you might like
 
 [Thief Puzzle](https://lagged.com/en/g/thief-puzzle) ![Thief Puzzle Game](https://imgs2.dab3games.com/thief-puzzle-game-online-big.png) top rated
 
-[Toilet Race](https://lagged.com/en/g/toilet-race) ![Toilet Race Game](https://imgs2.dab3games.com/toilet-race-game-big.png)
-
 [Marble Run 3D](https://lagged.com/en/g/marble-run-3d739) ![Marble Run 3D Game](https://imgs2.dab3games.com/marble-run-3d-ft1942.png)
+
+[Toilet Race](https://lagged.com/en/g/toilet-race) ![Toilet Race Game](https://imgs2.dab3games.com/toilet-race-game-big.png)
 
 [Suika Game: Watermelon](https://lagged.com/en/g/suika-game-watermelon) ![Suika Game: Watermelon Game](https://imgs2.dab3games.com/suika-game-watermelon-ft32.png) top rated
 
