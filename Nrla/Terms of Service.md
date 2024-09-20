@@ -538,11 +538,3 @@ The home for landlords
 * [Cookies](https://www.nrla.org.uk/about-us/cookie-policy)
 
 [](https://www.facebook.com/NRLANews/)[](https://twitter.com/NRLAssociation)[](https://www.linkedin.com/company/nrlassociation)[](https://www.instagram.com/nrla_news/)[](https://www.youtube.com/channel/UCq0GyQVlSuEupGKxFUqqWbw)
-
-[![](/image/6014:5e4cbe4e2dc627d8f7be15799b3f8504c4894e816c9761390bdb364e88cf6c83:750:200)](https://www.nrla.org.uk/join)
-
-Hide
-
-[Join  
-the  
-NRLA](https://www.nrla.org.uk/join) More
