@@ -138,11 +138,11 @@ Explore
 
 [Press releases](https://www.structural.com/press-releases)[Case studies](https://www.structural.com/case-studies)[Industry awards](https://www.structural.com/industry-awards)
 
-[![](https://cdn.prod.website-files.com/63a9e1371ec7d6434bdb1c20/66e21cc7daceb04a74abd888_BlogCard_EXbrand-supporting_03b.png)
+[![](https://cdn.prod.website-files.com/63a9e1371ec7d6434bdb1c20/66e215c0ca6b62914b3009bd_BlogCard_VisierGTM-op1.png)
 
-Event evolution: Reinventing your brand experience
+Transform employee engagement: Unleash the power of next-gen insights
 
-![](https://cdn.prod.website-files.com/63a9e1371ec7d68018db1c47/63efd4892c19237811facd69_arrow-up-circle.svg)](https://www.structural.com/blog-posts/event-evolution-reinventing-your-brand-experience)
+![](https://cdn.prod.website-files.com/63a9e1371ec7d68018db1c47/63efd4892c19237811facd69_arrow-up-circle.svg)](https://www.structural.com/blog-posts/transform-employee-engagement-unleash-the-power-of-next-gen-insights)
 
 [![](https://cdn.prod.website-files.com/63a9e1371ec7d68018db1c47/64e816543609488b3e82e8ad_Blog_AI_Aug2023.jpg)
 
