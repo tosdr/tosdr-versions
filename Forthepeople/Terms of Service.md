@@ -227,7 +227,11 @@
         * [Tepezza](https://www.forthepeople.com/practice-areas/mass-tort-lawyers/tepezza-lawsuit/)
         * [Weight Loss Drug](https://www.forthepeople.com/practice-areas/mass-tort-lawyers/weight-loss-lawsuit/)
         * [Zantac](https://www.forthepeople.com/blog/did-recalled-drug-zantac-cause-your-cancer-diagnosis/)
-    * [Data Breach](https://www.forthepeople.com/practice-areas/data-privacy-attorneys/)
+    * Data Breach
+        * [Comcast Xfinity](https://www.forthepeople.com/blog/comcast-xfinity-data-breach-how-it-could-impact-millions-and-what-you-can-do/)
+        * [Live Nation and Ticketmaster](https://www.forthepeople.com/blog/live-nation-and-ticketmaster-data-breach-lawsuit-what-know/)
+        * [TitleMax](https://www.forthepeople.com/blog/titlemax-data-breach-what-you-need-know-and-how-protect-yourself/)
+        * [View All](https://www.forthepeople.com/practice-areas/data-privacy-attorneys/)
     * Defective Products
         * [Exploding Airbags](https://www.forthepeople.com/practice-areas/defective-product-lawyers/exploding-airbags/)
         * [ARC Airbags](https://www.forthepeople.com/practice-areas/product-liability-attorneys/faulty-arc-airbags/)
