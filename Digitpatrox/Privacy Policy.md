@@ -20,16 +20,16 @@ Friday, September 20 2024
 
 Latest
 
-* [Virgin Media O2 cuts data center cooling costs by £1 million per year](https://digitpatrox.com/virgin-media-o2-cuts-data-center-cooling-costs-by-1-million-per-year/)
-* [China-Linked Attack Hits 260,000 Devices, FBI Confirms](https://digitpatrox.com/china-linked-attack-hits-260000-devices-fbi-confirms/)
-* [Illinois vs Nebraska livestream: How to watch college football Week 4 game online from anywhere](https://digitpatrox.com/illinois-vs-nebraska-livestream-how-to-watch-college-football-week-4-game-online-from-anywhere/)
-* [US online passport renewal is now fully open for business](https://digitpatrox.com/us-online-passport-renewal-is-now-fully-open-for-business/)
-* [All the Easter Eggs and Cool Details in One Piece Season 2 Set Tour Video](https://digitpatrox.com/all-the-easter-eggs-and-cool-details-in-one-piece-season-2-set-tour-video/)
-* [API and bot attacks are costing businesses billions – and they’re on the rise](https://digitpatrox.com/api-and-bot-attacks-are-costing-businesses-billions-and-theyre-on-the-rise/)
-* [UN lays out plans for how AI can best serve humanity – Computerworld](https://digitpatrox.com/un-lays-out-plans-for-how-ai-can-best-serve-humanity-computerworld/)
-* [I Put This Savory, Spicy Thai Sauce on Every Rice Dish](https://digitpatrox.com/i-put-this-savory-spicy-thai-sauce-on-every-rice-dish/)
-* [Most Reliable New Cars and SUVs Under $30,000](https://digitpatrox.com/most-reliable-new-cars-and-suvs-under-30000/)
-* [Now’s the Worst Time to Get a Windows PC Gaming Handheld](https://digitpatrox.com/nows-the-worst-time-to-get-a-windows-pc-gaming-handheld/)
+* [Best and Worst of Trader Joe’s Pumpkin Spice Foods and Other Fall Items](https://digitpatrox.com/best-and-worst-of-trader-joes-pumpkin-spice-foods-and-other-fall-items/)
+* [Microsoft Edge Will Warn You About Slow Extensions](https://digitpatrox.com/microsoft-edge-will-warn-you-about-slow-extensions/)
+* [Expands Sources, Adds Audio Features](https://digitpatrox.com/expands-sources-adds-audio-features/)
+* [Why your new mattress is sagging after one month and how to fix it](https://digitpatrox.com/why-your-new-mattress-is-sagging-after-one-month-and-how-to-fix-it/)
+* [Netflix adds Civilization 6 and Street Fighter 4 to its games lineup](https://digitpatrox.com/netflix-adds-civilization-6-and-street-fighter-4-to-its-games-lineup/)
+* [Arcane Season 2 Will Be Released in Three Parts, Netflix Confirms](https://digitpatrox.com/arcane-season-2-will-be-released-in-three-parts-netflix-confirms/)
+* [How hackers are using legitimate tools to distribute phishing links](https://digitpatrox.com/how-hackers-are-using-legitimate-tools-to-distribute-phishing-links/)
+* [IBM has reportedly laid off thousands – Computerworld](https://digitpatrox.com/ibm-has-reportedly-laid-off-thousands-computerworld/)
+* [You Can Get a 3-Month Xbox Game Pass Membership for $37 Right Now](https://digitpatrox.com/you-can-get-a-3-month-xbox-game-pass-membership-for-37-right-now/)
+* [Most and Least Reliable Vacuum Cleaners](https://digitpatrox.com/most-and-least-reliable-vacuum-cleaners/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -133,7 +133,7 @@ Popular Posts
     
     [Indiana Jones The Great Circle Is Here with a Release Date and a PS5 Launch](https://digitpatrox.com/indiana-jones-the-great-circle-is-here-with-a-release-date-and-a-ps5-launch/)
     
-    4 weeks ago
+    August 21, 2024
     
 
 * [Popular](#widget_tabs-1-popular)
@@ -168,38 +168,38 @@ Popular Posts
     
     [Indiana Jones The Great Circle Is Here with a Release Date and a PS5 Launch](https://digitpatrox.com/indiana-jones-the-great-circle-is-here-with-a-release-date-and-a-ps5-launch/)
     
-    4 weeks ago
+    August 21, 2024
     
 
-* [![](https://cdn.mos.cms.futurecdn.net/ZwzBmPCEgfgWYsgRgyLSwN-1200-80.jpg)](https://digitpatrox.com/virgin-media-o2-cuts-data-center-cooling-costs-by-1-million-per-year/)
+* [![](https://article.images.consumerreports.org/image/upload/t_article_tout/v1663847711/prod/content/dam/CRO-Images-2022/Audience-Growth/09September/CR-AG-InlineHero-Trader-Joes-Fall-09-22)](https://digitpatrox.com/best-and-worst-of-trader-joes-pumpkin-spice-foods-and-other-fall-items/)
     
-    [Virgin Media O2 cuts data center cooling costs by £1 million per year](https://digitpatrox.com/virgin-media-o2-cuts-data-center-cooling-costs-by-1-million-per-year/)
+    [Best and Worst of Trader Joe’s Pumpkin Spice Foods and Other Fall Items](https://digitpatrox.com/best-and-worst-of-trader-joes-pumpkin-spice-foods-and-other-fall-items/)
     
     11 mins ago
     
-* [![](https://assets.techrepublic.com/uploads/2024/09/tr_20240919-china-ddos-attack-fbi-confirms.jpg)](https://digitpatrox.com/china-linked-attack-hits-260000-devices-fbi-confirms/)
+* [![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/edge.jpg)](https://digitpatrox.com/microsoft-edge-will-warn-you-about-slow-extensions/)
     
-    [China-Linked Attack Hits 260,000 Devices, FBI Confirms](https://digitpatrox.com/china-linked-attack-hits-260000-devices-fbi-confirms/)
+    [Microsoft Edge Will Warn You About Slow Extensions](https://digitpatrox.com/microsoft-edge-will-warn-you-about-slow-extensions/)
     
     12 mins ago
     
-* [![](https://cdn.mos.cms.futurecdn.net/5DaTSmqoWtiwNT8aFVKuoP-1200-80.jpg)](https://digitpatrox.com/illinois-vs-nebraska-livestream-how-to-watch-college-football-week-4-game-online-from-anywhere/)
+* [![](https://assets.techrepublic.com/uploads/2024/09/tr_20240919-google-notebooklm-expands-sources-citations.jpg)](https://digitpatrox.com/expands-sources-adds-audio-features/)
     
-    [Illinois vs Nebraska livestream: How to watch college football Week 4 game online from anywhere](https://digitpatrox.com/illinois-vs-nebraska-livestream-how-to-watch-college-football-week-4-game-online-from-anywhere/)
-    
-    30 mins ago
-    
-* [![](https://cdn.vox-cdn.com/thumbor/IkBCTgBdqg4PyblSczqvwpyhq5A=/0x0:2040x1530/1200x628/filters:focal(1020x765:1021x766)/cdn.vox-cdn.com/uploads/chorus_asset/file/25514575/passport_2040.jpg)](https://digitpatrox.com/us-online-passport-renewal-is-now-fully-open-for-business/)
-    
-    [US online passport renewal is now fully open for business](https://digitpatrox.com/us-online-passport-renewal-is-now-fully-open-for-business/)
+    [Expands Sources, Adds Audio Features](https://digitpatrox.com/expands-sources-adds-audio-features/)
     
     1 hour ago
     
-* [![](https://beebom.com/wp-content/uploads/2024/09/Easter-Eggs-and-Cool-Details-in-One-Piece-Season-2-Set-Tour-Video.jpg)](https://digitpatrox.com/all-the-easter-eggs-and-cool-details-in-one-piece-season-2-set-tour-video/)
+* [![](https://cdn.mos.cms.futurecdn.net/oq8pkRrZheECgv3wfiKFKW-1200-80.jpg)](https://digitpatrox.com/why-your-new-mattress-is-sagging-after-one-month-and-how-to-fix-it/)
     
-    [All the Easter Eggs and Cool Details in One Piece Season 2 Set Tour Video](https://digitpatrox.com/all-the-easter-eggs-and-cool-details-in-one-piece-season-2-set-tour-video/)
+    [Why your new mattress is sagging after one month and how to fix it](https://digitpatrox.com/why-your-new-mattress-is-sagging-after-one-month-and-how-to-fix-it/)
     
     1 hour ago
+    
+* [![](https://cdn.vox-cdn.com/thumbor/FiKtPaBd70lsc7Vc3ITjg4hB8Gw=/0x0:644x362/1200x628/filters:focal(435x203:436x204)/cdn.vox-cdn.com/uploads/chorus_asset/file/25629979/Civ6_Caesar_embed.jpeg)](https://digitpatrox.com/netflix-adds-civilization-6-and-street-fighter-4-to-its-games-lineup/)
+    
+    [Netflix adds Civilization 6 and Street Fighter 4 to its games lineup](https://digitpatrox.com/netflix-adds-civilization-6-and-street-fighter-4-to-its-games-lineup/)
+    
+    2 hours ago
     
 
 ![](https://digitpatrox.com/wp-content/uploads/2023/12/Digitpatrox-NEW-Logo-White.png)
@@ -210,37 +210,37 @@ Recent Topics
 
 * [11 mins ago
     
-    ### Virgin Media O2 cuts data center cooling costs by £1 million per year](https://digitpatrox.com/virgin-media-o2-cuts-data-center-cooling-costs-by-1-million-per-year/)
+    ### Best and Worst of Trader Joe’s Pumpkin Spice Foods and Other Fall Items](https://digitpatrox.com/best-and-worst-of-trader-joes-pumpkin-spice-foods-and-other-fall-items/)
 * [12 mins ago
     
-    ### China-Linked Attack Hits 260,000 Devices, FBI Confirms](https://digitpatrox.com/china-linked-attack-hits-260000-devices-fbi-confirms/)
-* [30 mins ago
+    ### Microsoft Edge Will Warn You About Slow Extensions](https://digitpatrox.com/microsoft-edge-will-warn-you-about-slow-extensions/)
+* [1 hour ago
     
-    ### Illinois vs Nebraska livestream: How to watch college football Week 4 game online from anywhere](https://digitpatrox.com/illinois-vs-nebraska-livestream-how-to-watch-college-football-week-4-game-online-from-anywhere/)
+    ### Expands Sources, Adds Audio Features](https://digitpatrox.com/expands-sources-adds-audio-features/)
 
 Most Popular Topics
 
-* [August 17, 2024
+* [2 weeks ago
     
-    ### NYT Connections Today: Hints and Answers for August 17, 2024](https://digitpatrox.com/nyt-connections-today-hints-and-answers-for-august-17-2024/)
-* [3 weeks ago
+    ### European semiconductor group urges accelerated support and policy overhaul – Computerworld](https://digitpatrox.com/european-semiconductor-group-urges-accelerated-support-and-policy-overhaul-computerworld/)
+* [4 weeks ago
     
-    ### Young Consulting notifies 954K people of data breach that compromised SSNs and other info](https://digitpatrox.com/young-consulting-notifies-954k-people-of-data-breach-that-compromised-ssns-and-other-info/)
-* [5 days ago
+    ### Leonardo review | Tom’s Guide](https://digitpatrox.com/leonardo-review-toms-guide/)
+* [2 weeks ago
     
-    ### Every Fire TV Stick Is on Sale Right Now](https://digitpatrox.com/every-fire-tv-stick-is-on-sale-right-now/)
+    ### Dyson WashG1 wet floor cleaner review: the best washer vacuum for hard floors](https://digitpatrox.com/dyson-washg1-wet-floor-cleaner-review-the-best-washer-vacuum-for-hard-floors/)
 
 Last Modified Topics
 
-* [3 hours ago
-    
-    ### UN lays out plans for how AI can best serve humanity – Computerworld](https://digitpatrox.com/un-lays-out-plans-for-how-ai-can-best-serve-humanity-computerworld/)
 * [4 hours ago
     
-    ### I Put This Savory, Spicy Thai Sauce on Every Rice Dish](https://digitpatrox.com/i-put-this-savory-spicy-thai-sauce-on-every-rice-dish/)
+    ### How hackers are using legitimate tools to distribute phishing links](https://digitpatrox.com/how-hackers-are-using-legitimate-tools-to-distribute-phishing-links/)
 * [4 hours ago
     
-    ### Most Reliable New Cars and SUVs Under $30,000](https://digitpatrox.com/most-reliable-new-cars-and-suvs-under-30000/)
+    ### IBM has reportedly laid off thousands – Computerworld](https://digitpatrox.com/ibm-has-reportedly-laid-off-thousands-computerworld/)
+* [5 hours ago
+    
+    ### You Can Get a 3-Month Xbox Game Pass Membership for $37 Right Now](https://digitpatrox.com/you-can-get-a-3-month-xbox-game-pass-membership-for-37-right-now/)
 
 Most Viewed Topics
 
