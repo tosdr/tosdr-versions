@@ -94,12 +94,12 @@ Hide Main Navigation Menu
 
 ### Featured
 
-* [![](https://www.unc.edu/wp-content/uploads/2024/09/CPA-hero-250x141.jpg)
+* [![](https://www.unc.edu/wp-content/uploads/2024/09/ProjectUpliftHERO-250x141.jpg)
     
-    Jazz legend Herbie Hancock kicks off CPA’s 20th season](https://www.unc.edu/posts/2024/09/18/jazz-legend-herbie-hancock-kicks-off-cpas-20th-season/)
-* [![](https://www.unc.edu/wp-content/uploads/2024/09/KellyAlexander-250x141.jpg)
+    Project Uplift’s legacy spans generations](https://www.unc.edu/posts/2024/09/19/project-uplifts-legacy-spans-generations/)
+* [![](https://www.unc.edu/wp-content/uploads/2024/09/MiaHammHero-250x141.jpg)
     
-    Kelly Alexander, cofounder of Project Uplift, dies at 75](https://www.unc.edu/posts/2024/09/18/kelly-alexander-cofounder-of-project-uplift-dies-at-75/)
+    Mia Hamm ’94 to deliver 2025 Spring Commencement address](https://www.unc.edu/posts/2024/09/19/mia-hamm-94-to-deliver-2025-spring-commencement-address/)
 
 About the University
 
@@ -477,7 +477,7 @@ Please contact [privacy@unc.edu](mailto:privacy@unc.edu) for more information on
 
  [LinkedIn](https://www.linkedin.com/sharing/share-offsite/?mini=true&url=%url%&title=%title%)
 
- [Email](https://www.unc.edu/wp-admin/admin-ajax.php?action=has_email_social_modal&permalink=%url%&nonce=bf4f5dfed6&text=%prefix%%text%%suffix%&post_id=0&type=%type%)
+ [Email](https://www.unc.edu/wp-admin/admin-ajax.php?action=has_email_social_modal&permalink=%url%&nonce=ca737c7298&text=%prefix%%text%%suffix%&post_id=0&type=%type%)
 
 ### Share on Mastodon
 
