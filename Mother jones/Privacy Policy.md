@@ -8,10 +8,10 @@
 
 *  
     
-* [Donald Trump](https://www.motherjones.com/politics/2024/09/harris-blames-georgia-mothers-death-on-trump-abortion-bans/)
-* [JD Vance](https://www.motherjones.com/politics/2024/09/jd-vance-just-decried-political-violence-but-he-endorsed-a-book-celebrating-it/)
-* [Reproductive Rights](https://www.motherjones.com/politics/2024/09/republicans-ivf-bill-blocked-again-trump-fertilization/)
-* [Kamala Harris](https://www.motherjones.com/politics/2024/09/kamala-harris-israel-gaza-questions/)
+* [Project 2025](https://www.motherjones.com/politics/2024/09/project-2025-federal-subsidies-carbon-removal-direct-air-capture/)
+* [The Uncommitted Movement](https://www.motherjones.com/politics/2024/09/uncommitted-endorsement-kamala-harris-2024-donald-trump-gaza-israel-protest/)
+* [2024 Election](https://www.motherjones.com/politics/2024/09/how-republicans-could-block-a-democratic-victory-in-georgia-stacey-abrams/)
+* [Republicans](https://www.motherjones.com/politics/2024/09/young-guns-republicans-2024/)
 
 * [Newsletters](https://www.motherjones.com/newsletters/?mj_oac=dropdown_nav)
 * [Politics](https://www.motherjones.com/politics/)
@@ -27,10 +27,10 @@
 
 *  
     
-* [Donald Trump](https://www.motherjones.com/politics/2024/09/harris-blames-georgia-mothers-death-on-trump-abortion-bans/)
-* [JD Vance](https://www.motherjones.com/politics/2024/09/jd-vance-just-decried-political-violence-but-he-endorsed-a-book-celebrating-it/)
-* [Reproductive Rights](https://www.motherjones.com/politics/2024/09/republicans-ivf-bill-blocked-again-trump-fertilization/)
-* [Kamala Harris](https://www.motherjones.com/politics/2024/09/kamala-harris-israel-gaza-questions/)
+* [Project 2025](https://www.motherjones.com/politics/2024/09/project-2025-federal-subsidies-carbon-removal-direct-air-capture/)
+* [The Uncommitted Movement](https://www.motherjones.com/politics/2024/09/uncommitted-endorsement-kamala-harris-2024-donald-trump-gaza-israel-protest/)
+* [2024 Election](https://www.motherjones.com/politics/2024/09/how-republicans-could-block-a-democratic-victory-in-georgia-stacey-abrams/)
+* [Republicans](https://www.motherjones.com/politics/2024/09/young-guns-republicans-2024/)
 
 [Subscribe to our magazine](https://secure.motherjones.com/flex/MOJ/SUBS/?p=SEGHOP&c=SEGHOC&d=SEGHOD&f=SEGHOF "Subscribe")
 
