@@ -150,6 +150,11 @@ For further information regarding the applicable laws, regulations, and policies
 
 #### Defense News
 
+* [US Air Force names second and third B-21 Raider bases](https://www.defensenews.com/air/2024/09/19/us-air-force-names-second-and-third-b-21-raider-bases/)  
+    09/19/24 04:00pm  
+    
+    The U.S. Air Force recently announced two additional basing locations for its new B-21 Raider stealth bomber. (U.S. Air Force)
+    
 * [Air Force’s information warfare hub seeks high-tech sensors, AI tools](https://www.defensenews.com/air/2024/09/19/air-forces-information-warfare-hub-seeks-high-tech-sensors-ai-tools/)  
     09/19/24 02:01pm  
     
@@ -164,11 +169,6 @@ For further information regarding the applicable laws, regulations, and policies
     09/18/24 03:51pm  
     
     The Pentagon refused deliveries of new F-35s until Lockheed Martin developed a partial version of its latest upgrade software. (Staff Sgt. Zachary Rufus/Air Force)
-    
-* [Marines reopen second WWII-era airfield to prep for future combat](https://www.defensenews.com/air/2024/09/18/marines-reopen-second-wwii-era-airfield-to-prep-for-future-combat/)  
-    09/18/24 10:25am  
-    
-    A Marine looks out of an MV-22 Osprey aircraft over Marine Corps Air Station New River, North Carolina. (Cpl. Alexander Mitchell/Marine Corps)
     
 
 Recent parts by keyword  
