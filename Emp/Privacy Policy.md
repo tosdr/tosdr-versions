@@ -152,11 +152,13 @@ Ok](https://www.emp-online.com/home?forceThisShop=1)
 
 Katalog durchsuchen  löschen Packstation suchen
 
-[](https://www.emp.de/autumn-must-haves/)
+[](https://www.emp.de/bekleidung/?srule=release-date)
 
-Highway to Herbst: Alles für deine Dark Season!
+LOUD ins Laub
 
-[Schlag zu!](https://www.emp.de/autumn-must-haves/ "Schlag zu!")
+20% Rabatt auf (fast) alles!
+
+[Jetzt shoppen!](https://www.emp.de/bekleidung/?srule=release-date "Jetzt shoppen!") Code **SAVE20** kopieren
 
 Die Javascript-Funktion Ihres Browsers ist deaktiviert.
 
@@ -491,7 +493,7 @@ Anmelden
 
 Unser Kundenservice ist für dich da
 
-Ja, unser Kundenservice ist heute erreichbar bis 18:00 Uhr. [Mehr Infos](https://www.emp.de/kontakt)
+Ja, unser Kundenservice ist heute wieder erreichbar von 08:00 Uhr bis 18:00 Uhr. [Mehr Infos](https://www.emp.de/kontakt)
 
 Live-Chat starten
 
