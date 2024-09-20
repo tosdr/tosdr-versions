@@ -56,13 +56,13 @@ Featured stories
 
 [![ ](https://images.everydayhealth.com/react-component-images/image-src-placeholder-16x9288625876.png)
 
-![ ](https://images.everydayhealth.com/images/news/fda-approves-airpod-pros-2-as-hearing-aid-1440x810.jpg)
+![ ](https://images.everydayhealth.com/images/news/avoid-four-types-processed-foods-diabetes-risk-1440x810.jpg)
 
-New AirPods Pro Can Double as Hearing Aids, FDA Says](https://www.everydayhealth.com/healthy-hearing/fda-approves-airpods-as-non-prescription-hearing-aids/)[![ ](https://images.everydayhealth.com/react-component-images/image-src-placeholder-16x9288625876.png)
+Cutting Back on Certain Ultraprocessed Foods Can Slash Diabetes Risk](https://www.everydayhealth.com/diabetes/cutting-back-on-ultraprocessed-foods-can-slash-diabetes-risk/)[![ ](https://images.everydayhealth.com/react-component-images/image-src-placeholder-16x9288625876.png)
 
-![ ](https://images.everydayhealth.com/images/news/high-doses-adhd-meds-raise-psychosis-risk-1440x810.jpg)
+![ ](https://images.everydayhealth.com/images/news/shorter-radiation-better-for-breast-cancer-patients-1440x810.jpg)
 
-High-Dose ADHD Drugs May Increase Psychosis Risk](https://www.everydayhealth.com/mental-health-conditions/high-dose-adhd-drugs-may-increase-psychosis-risk/)[![ ](https://images.everydayhealth.com/react-component-images/image-src-placeholder-16x9288625876.png)
+Is There Any Way to Minimize Side Effects of Radiation for Breast Cancer?](https://www.everydayhealth.com/cancer/minimizing-side-effects-of-radiation-for-breast-cancer/) [![ ](https://images.everydayhealth.com/react-component-images/image-src-placeholder-16x9288625876.png)
 
 ![ ](https://images.everydayhealth.com/images/news/fda-approves-updated-covid-vaccines-fall-2024-1440x810.jpg)
 
