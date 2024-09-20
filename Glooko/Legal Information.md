@@ -69,7 +69,7 @@ Privacy Notice
 Glooko’s Privacy Notice
 =======================
 
-Effective Date: March 26, 2021
+Effective Date: September 19, 2024
 
 **Languages**
 
