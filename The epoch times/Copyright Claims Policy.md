@@ -158,76 +158,76 @@ Please note that under Section 512(f) of the DMCA, any person who knowingly mate
 
 TOP NEWS
 
-* [Supreme Court Won’t Restore Green Party to Nevada Ballot](https://www.theepochtimes.com/us/supreme-court-wont-restore-green-party-to-nevada-ballot-5725876)
+* [Mass Deportation of Illegal Immigrants Could Have Economic Consequences: Yellen](https://www.theepochtimes.com/us/mass-deportation-of-illegal-immigrants-could-have-economic-consequences-yellen-5726943)
     
-    NEW By [Matthew Vadum](https://www.theepochtimes.com/author/matthew-vadum)
+    1hr By [Andrew Moran](https://www.theepochtimes.com/author/andrew-moran)
     
-    [![Supreme Court Won’t Restore Green Party to Nevada Ballot](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Mass Deportation of Illegal Immigrants Could Have Economic Consequences: Yellen](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Supreme Court Won’t Restore Green Party to Nevada Ballot](https://img.theepochtimes.com/assets/uploads/2024/09/09/id5720765-09092024-DSC07970-SCOTUS-205x123.jpg.webp)](https://www.theepochtimes.com/us/supreme-court-wont-restore-green-party-to-nevada-ballot-5725876)
-* [Why App-Based Jobs Don’t Pay Like They Used To](https://www.theepochtimes.com/article/why-app-based-jobs-dont-pay-like-they-used-to-5722960)
+    ![Mass Deportation of Illegal Immigrants Could Have Economic Consequences: Yellen](https://img.theepochtimes.com/assets/uploads/2024/09/20/id5727753-GettyImages-2139245156.jpg-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/mass-deportation-of-illegal-immigrants-could-have-economic-consequences-yellen-5726943)
+* [Secret Service Agents to Be Disciplined Over July 13 Trump Shooting, Director Says](https://www.theepochtimes.com/us/secret-service-agents-to-be-disciplined-over-july-13-trump-shooting-director-says-5727589)
     
-    2hr By [Austin Alonzo](https://www.theepochtimes.com/author/austin-alonzo)
+    2hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
     
-    [![Why App-Based Jobs Don’t Pay Like They Used To](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Secret Service Agents to Be Disciplined Over July 13 Trump Shooting, Director Says](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Why App-Based Jobs Don’t Pay Like They Used To](https://img.theepochtimes.com/assets/uploads/2024/09/20/id5727370-GettyImages-467522442-205x123.jpg.webp)](https://www.theepochtimes.com/article/why-app-based-jobs-dont-pay-like-they-used-to-5722960)
-* [Olive Garden’s Parent Company Announces Multiyear Deal With Uber](https://www.theepochtimes.com/business/olive-gardens-parent-company-announces-multiyear-deal-with-uber-5727326)
+    ![Secret Service Agents to Be Disciplined Over July 13 Trump Shooting, Director Says](https://img.theepochtimes.com/assets/uploads/2024/09/20/id5727620-Secret-Service-GettyImages-2172425869-205x123.jpg.webp)](https://www.theepochtimes.com/us/secret-service-agents-to-be-disciplined-over-july-13-trump-shooting-director-says-5727589)
+* [Israel Says It Has Killed Top Hezbollah Commander in Beirut Strike](https://www.theepochtimes.com/world/israel-says-it-has-killed-top-hezbollah-commander-5727615)
     
-    3hr By [Katabella Roberts](https://www.theepochtimes.com/author/katabella-roberts)
+    3hr By [Dan M. Berger](https://www.theepochtimes.com/author/dan-m-berger)
     
-    [![Olive Garden’s Parent Company Announces Multiyear Deal With Uber](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Israel Says It Has Killed Top Hezbollah Commander in Beirut Strike](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Olive Garden’s Parent Company Announces Multiyear Deal With Uber](https://img.theepochtimes.com/assets/uploads/2014/10/10/Olive-Garden-Breadsti_Mitc-205x123.jpg.webp)](https://www.theepochtimes.com/business/olive-gardens-parent-company-announces-multiyear-deal-with-uber-5727326)
-* [Microsoft-Owned LinkedIn Using People’s Data to Train Artificial Intelligence Models](https://www.theepochtimes.com/tech/microsoft-owned-linkedin-using-peoples-data-to-train-artificial-intelligence-models-5727290)
+    ![Israel Says It Has Killed Top Hezbollah Commander in Beirut Strike](https://img.theepochtimes.com/assets/uploads/2024/09/20/id5727737-Israel-strike-GettyImages-2172375857-205x123.jpg.webp)](https://www.theepochtimes.com/world/israel-says-it-has-killed-top-hezbollah-commander-5727615)
+* [NTD’s 9th International Chinese Vocal Competition Kicks Off With Preliminary Round in NYC](https://www.theepochtimes.com/bright/ntds-9th-international-chinese-vocal-competition-kicks-off-with-preliminary-round-in-nyc-5727555)
     
-    3hr By [Katabella Roberts](https://www.theepochtimes.com/author/katabella-roberts)
+    3hr By [Juliet Song](https://www.theepochtimes.com/author/juliet-song)
     
-    [![Microsoft-Owned LinkedIn Using People’s Data to Train Artificial Intelligence Models](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![NTD’s 9th International Chinese Vocal Competition Kicks Off With Preliminary Round in NYC](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Microsoft-Owned LinkedIn Using People’s Data to Train Artificial Intelligence Models](https://img.theepochtimes.com/assets/uploads/2021/06/04/GettyImages-1230537855-205x123.jpg.webp)](https://www.theepochtimes.com/tech/microsoft-owned-linkedin-using-peoples-data-to-train-artificial-intelligence-models-5727290)
-* [EU Commissioner Visits Ukraine As Bloc Pledges 160 Million Euros for Winter](https://www.theepochtimes.com/world/eu-commissioner-visits-ukraine-as-bloc-pledges-160-million-euros-for-winter-5727328)
+    ![NTD’s 9th International Chinese Vocal Competition Kicks Off With Preliminary Round in NYC](https://img.theepochtimes.com/assets/uploads/2024/09/20/id5727557-preliminary-xuehui-JunwenZhang-205x123.jpeg.webp)](https://www.theepochtimes.com/bright/ntds-9th-international-chinese-vocal-competition-kicks-off-with-preliminary-round-in-nyc-5727555)
+* [Secret Service Admits Communication Failures in Trump Assassination Attempt](https://www.theepochtimes.com/us/secret-service-admits-communication-failures-in-trump-assassination-attempt-5727586)
     
-    4hr By [Guy Birchall](https://www.theepochtimes.com/author/guy-birchall)
+    4hr By [Zachary Stieber](https://www.theepochtimes.com/author/zachary-stieber)
     
-    [![EU Commissioner Visits Ukraine As Bloc Pledges 160 Million Euros for Winter](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Secret Service Admits Communication Failures in Trump Assassination Attempt](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![EU Commissioner Visits Ukraine As Bloc Pledges 160 Million Euros for Winter](https://img.theepochtimes.com/assets/uploads/2024/09/20/id5727354-Russia_Ukraine_War_EU_24264217815203-205x123.jpg.webp)](https://www.theepochtimes.com/world/eu-commissioner-visits-ukraine-as-bloc-pledges-160-million-euros-for-winter-5727328)
-* [Taiwan Says Exploding Pager Components Were Not Produced on Island](https://www.theepochtimes.com/world/taiwan-says-exploding-pager-components-were-not-produced-on-island-5727330)
+    ![Secret Service Admits Communication Failures in Trump Assassination Attempt](https://img.theepochtimes.com/assets/uploads/2024/09/20/id5727763-GettyImages-2172425680-2-1200x848.jpg-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/secret-service-admits-communication-failures-in-trump-assassination-attempt-5727586)
+* [Georgia Election Board Approves Rule Requiring Hand Count of Ballots](https://www.theepochtimes.com/us/georgia-election-board-approves-rule-requiring-hand-count-of-ballots-5727574)
     
-    5hr By [Chris Summers](https://www.theepochtimes.com/author/chris-summers)
+    4hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
     
-    [![Taiwan Says Exploding Pager Components Were Not Produced on Island](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Georgia Election Board Approves Rule Requiring Hand Count of Ballots](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Taiwan Says Exploding Pager Components Were Not Produced on Island](https://img.theepochtimes.com/assets/uploads/2024/09/18/id5726468-GettyImages-2171996113-OP-205x123.jpg.webp)](https://www.theepochtimes.com/world/taiwan-says-exploding-pager-components-were-not-produced-on-island-5727330)
-* [Lawmakers Mull Revamp of Secret Service Funding, Policy After Trump Assassination Attempts](https://www.theepochtimes.com/us/lawmakers-mull-revamp-of-secret-service-funding-policy-after-trump-assassination-attempts-5727081)
+    ![Georgia Election Board Approves Rule Requiring Hand Count of Ballots](https://img.theepochtimes.com/assets/uploads/2024/09/20/id5727764-Georgia-Election-Board-AP24264510555935.jpg-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/georgia-election-board-approves-rule-requiring-hand-count-of-ballots-5727574)
+* [House Passes Bill to Boost Secret Service Protection for Presidential Candidates](https://www.theepochtimes.com/us/house-unanimously-passes-bill-to-boost-secret-service-protection-for-presidential-candidates-5727473)
     
-    7hr By [Joseph Lord](https://www.theepochtimes.com/author/joseph-lord) and [Arjun Singh](https://www.theepochtimes.com/author/arjun-singh)
+    5hr By [Jackson Richman](https://www.theepochtimes.com/author/jackson-richman)
     
-    [![Lawmakers Mull Revamp of Secret Service Funding, Policy After Trump Assassination Attempts](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![House Passes Bill to Boost Secret Service Protection for Presidential Candidates](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Lawmakers Mull Revamp of Secret Service Funding, Policy After Trump Assassination Attempts](https://img.theepochtimes.com/assets/uploads/2024/09/17/id5725607-GettyImages-1249593543.jpg-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/lawmakers-mull-revamp-of-secret-service-funding-policy-after-trump-assassination-attempts-5727081)
-* [US Home Sales Dropped in August Despite Falling Mortgage Rates](https://www.theepochtimes.com/real-estate/us-home-sales-dropped-in-august-despite-falling-mortgage-rates-5727187)
+    ![House Passes Bill to Boost Secret Service Protection for Presidential Candidates](https://img.theepochtimes.com/assets/uploads/2024/09/16/id5725322-09162024-DSC00799-US-Capitol-205x123.jpg.webp)](https://www.theepochtimes.com/us/house-unanimously-passes-bill-to-boost-secret-service-protection-for-presidential-candidates-5727473)
+* [Trump Proposes Temporary 10 Percent Cap on Credit Card Interest Rates](https://www.theepochtimes.com/us/trump-proposes-temporary-10-percent-cap-on-credit-card-interest-rates-5727448)
     
-    7hr By [Andrew Moran](https://www.theepochtimes.com/author/andrew-moran)
+    5hr By [Andrew Moran](https://www.theepochtimes.com/author/andrew-moran)
     
-    [![US Home Sales Dropped in August Despite Falling Mortgage Rates](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Trump Proposes Temporary 10 Percent Cap on Credit Card Interest Rates](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![US Home Sales Dropped in August Despite Falling Mortgage Rates](https://img.theepochtimes.com/assets/uploads/2024/06/24/id5674249-GettyImages-2154182627_web-205x123.jpg.webp)](https://www.theepochtimes.com/real-estate/us-home-sales-dropped-in-august-despite-falling-mortgage-rates-5727187)
-* [Energy Companies Urge Supreme Court to Block Stricter Rule on Power Plant Emissions](https://www.theepochtimes.com/us/energy-companies-urge-supreme-court-to-block-stricter-rule-on-power-plant-emissions-5725177)
+    ![Trump Proposes Temporary 10 Percent Cap on Credit Card Interest Rates](https://img.theepochtimes.com/assets/uploads/2024/01/19/id5569401-GettyImages-1209301796-205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-proposes-temporary-10-percent-cap-on-credit-card-interest-rates-5727448)
+* [US Border Patrol Apprehends Record Number of Migrants Crossing From Canada](https://www.theepochtimes.com/world/us-border-patrol-apprehends-record-number-of-migrants-crossing-from-canada-5725644)
     
-    7hr By [Matthew Vadum](https://www.theepochtimes.com/author/matthew-vadum)
+    5hr By [Jennifer Cowan](https://www.theepochtimes.com/author/jennifer-cowan)
     
-    [![Energy Companies Urge Supreme Court to Block Stricter Rule on Power Plant Emissions](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![US Border Patrol Apprehends Record Number of Migrants Crossing From Canada](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Energy Companies Urge Supreme Court to Block Stricter Rule on Power Plant Emissions](https://img.theepochtimes.com/assets/uploads/2024/09/20/id5727457-GettyImages-1182371404.jpg-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/energy-companies-urge-supreme-court-to-block-stricter-rule-on-power-plant-emissions-5725177)
-* [Caterpillar Pulls Back on DEI, Joining John Deere, Ford, and Others](https://www.theepochtimes.com/business/caterpillar-pulls-back-on-dei-joining-john-deere-ford-and-others-5727161)
+    ![US Border Patrol Apprehends Record Number of Migrants Crossing From Canada](https://img.theepochtimes.com/assets/uploads/2023/03/30/id5160725-DSC08636-205x123.jpg.webp)](https://www.theepochtimes.com/world/us-border-patrol-apprehends-record-number-of-migrants-crossing-from-canada-5725644)
+* [Exploitative Marketers Taking Advantage of Taxpayers Facing Payment Difficulties: IRS](https://www.theepochtimes.com/us/exploitative-marketers-taking-advantage-of-taxpayers-facing-payment-difficulties-irs-5727342)
     
-    7hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
+    5hr By [Naveen Athrappully](https://www.theepochtimes.com/author/naveen-athrappully)
     
-    [![Caterpillar Pulls Back on DEI, Joining John Deere, Ford, and Others](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Exploitative Marketers Taking Advantage of Taxpayers Facing Payment Difficulties: IRS](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Caterpillar Pulls Back on DEI, Joining John Deere, Ford, and Others](https://img.theepochtimes.com/assets/uploads/2024/09/20/id5727456-CATERPILLAR-RESULTS-1200x804.jpg-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/business/caterpillar-pulls-back-on-dei-joining-john-deere-ford-and-others-5727161)
+    ![Exploitative Marketers Taking Advantage of Taxpayers Facing Payment Difficulties: IRS](https://img.theepochtimes.com/assets/uploads/2024/02/09/id5584270-IRS-buildingKO-205x123.jpg.webp)](https://www.theepochtimes.com/us/exploitative-marketers-taking-advantage-of-taxpayers-facing-payment-difficulties-irs-5727342)
 
 [![The Epoch Times](https://www.theepochtimes.com/assets/themes/eet/images/logo_eet.svg)](https://www.theepochtimes.com/)
 
