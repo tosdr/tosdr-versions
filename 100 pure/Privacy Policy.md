@@ -362,22 +362,6 @@ Default Title - $45
 
 ADD TO TOTE
 
-[![Featured](https://www.100percentpure.com/cdn/shop/files/veggie-awards-2023-bronze-2.png?crop=center&height=85&v=1723125369&width=85)](https://www.100percentpure.com/products/apple-enzyme-resurfacing-serum)
-
-[![10%-fruit-acids-apple-enzyme-resurfacing-serum](https://www.100percentpure.com/cdn/shop/files/FGFAERS_Primary_239x254.png?v=1696450271)](https://www.100percentpure.com/products/apple-enzyme-resurfacing-serum)
-
-![ FGFAERS_Primary](//www.100percentpure.com/cdn/shop/files/FGFAERS_Primary_220x.png?v=1696450271)
-
-### [10% Fruit Acids Apple Enzyme Resurfacing Serum](https://www.100percentpure.com/products/apple-enzyme-resurfacing-serum)
-
-81 reviews (81)
-
-$25.00
-
-Default Title - $25
-
-ADD TO TOTE
-
 [![green-tea-egcg-concentrate-cream](https://www.100percentpure.com/cdn/shop/files/1FEGCGCC_Green_Tea_EGCG_Concentrate_Cream_Primary_6f98d162-56fd-4d08-9d5a-703d2ea902e6_239x254.webp?v=1725380733)](https://www.100percentpure.com/products/green-tea-egcg-concentrate-cream)
 
 ![ Green Tea EGCG Concentrate Cream](//www.100percentpure.com/cdn/shop/files/1FEGCGCC_Green_Tea_EGCG_Concentrate_Cream_Primary_6f98d162-56fd-4d08-9d5a-703d2ea902e6_220x.webp?v=1725380733)
