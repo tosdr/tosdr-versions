@@ -180,8 +180,6 @@
 
 [Konrad Duden](https://www.duden.de/ueber_duden/konrad-duden)
 
-[Duden-Mentor Premium 50 % günstiger – nur bis 30.09.](https://angebot.mentor.duden.de/premium_angebot_nlk24_2024_09/)  [Duden-Mentor Premium 50 % günstiger – nur bis 30.09.](https://angebot.mentor.duden.de/premium_angebot_nlk24_2024_09/)  [Duden-Mentor Premium 50 % günstiger – nur bis 30.09.](https://angebot.mentor.duden.de/premium_angebot_nlk24_2024_09/)  [Duden-Mentor Premium 50 % günstiger – nur bis 30.09.](https://angebot.mentor.duden.de/premium_angebot_nlk24_2024_09/)  [Duden-Mentor Premium 50 % günstiger – nur bis 30.09.](https://angebot.mentor.duden.de/premium_angebot_nlk24_2024_09/) 
-
 Datenschutz­erklärung
 =====================
 
