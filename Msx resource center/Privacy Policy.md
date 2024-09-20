@@ -137,8 +137,8 @@ MSX Music player
 
 Latest reactions
 
-* [OCMINFO for MSX++ compatibles](https://www.msx.org/news/en/ocminfo-for-msx-compatibles "OCMINFO for MSX++ compatibles")
 * [I-Logic](https://www.msx.org/news/software/en/i-logic "I-Logic")
+* [OCMINFO for MSX++ compatibles](https://www.msx.org/news/en/ocminfo-for-msx-compatibles "OCMINFO for MSX++ compatibles")
 * [MSX and Networking book crowdfunding](https://www.msx.org/news/en/new-book-about-msx-and-networking-crowdfunding-campaign "MSX and Networking book crowdfunding")
 * [Markus Vordermeier aka Hamlet passed away](https://www.msx.org/news/msx-related/en/markus-vordermeier-aka-hamlet-passed-away "Markus Vordermeier aka Hamlet passed away")
 * [Fruit Mazes and Pallo](https://www.msx.org/news/en/pallo-a-new-game-for-your-msx2 "Fruit Mazes and Pallo")
@@ -150,10 +150,10 @@ Latest reactions
 
 Latest forum posts
 
-* [Casio MX-10 Technical cartridge port questions](https://www.msx.org/forum/msx-talk/hardware/casio-mx-10-technical-cartridge-port-questions " Casio MX-10 Technical cartridge port questions")
+* [Konami SCC cart (E)Eprom substitution](https://www.msx.org/forum/msx-talk/hardware/konami-scc-cart-eeprom-substitution "Konami SCC cart (E)Eprom substitution")
 * [WonderTANG! Who wants to juice up your MSX?](https://www.msx.org/forum/msx-talk/hardware/wondertang-who-wants-to-juice-up-your-msx?page=51 "WonderTANG! Who wants to juice up your MSX?")
 * [OCMINFO: Tool for OCM/MSX++ compatibles](https://www.msx.org/forum/msx-talk/software/ocminfo-tool-for-ocmmsx-compatibles "OCMINFO: Tool for OCM/MSX++ compatibles")
-* [Konami SCC cart (E)Eprom substitution](https://www.msx.org/forum/msx-talk/hardware/konami-scc-cart-eeprom-substitution "Konami SCC cart (E)Eprom substitution")
+* [Casio MX-10 Technical cartridge port questions](https://www.msx.org/forum/msx-talk/hardware/casio-mx-10-technical-cartridge-port-questions " Casio MX-10 Technical cartridge port questions")
 * [Anbernic console for msx](https://www.msx.org/forum/msx-talk/hardware/anbernic-console-for-msx "Anbernic console for msx")
 * [Joypad wiring for pcb from Aliexpress](https://www.msx.org/forum/msx-talk/hardware/joypad-wiring-for-pcb-from-aliexpress?page=13 "Joypad wiring for pcb from Aliexpress")
 * [Save MRC](https://www.msx.org/forum/msx-talk/msx-resource-center/save-mrc?page=3 "Save MRC ")
