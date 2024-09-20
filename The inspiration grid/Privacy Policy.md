@@ -291,6 +291,18 @@ Latest
 inspiration
 -----------
 
+![](https://inspgr.id/app/uploads/2024/09/art-mohsen-yeganeh-feature.jpg)
+
+[](https://theinspirationgrid.com/upcycled-animal-sculptures-by-mohsen-heydari-yeganeh/)
+
+### Upcycled Animal Sculptures by Mohsen Heydari Yeganeh
+
+![](https://inspgr.id/app/uploads/2024/09/packaging-daroma-studio-feature.jpg)
+
+[](https://theinspirationgrid.com/gorgeous-packaging-design-by-daroma-studio/)
+
+### Gorgeous Packaging Design by D’Aroma Studio
+
 ![](https://inspgr.id/app/uploads/2024/09/art-jon-zabalegui-feature.jpg)
 
 [](https://theinspirationgrid.com/typographic-murals-street-art-by-jon-zabalegui/)
@@ -326,18 +338,6 @@ inspiration
 [](https://theinspirationgrid.com/beauty-photography-by-darius-voncel/)
 
 ### Beauty Photography by Darius Voncel
-
-![](https://inspgr.id/app/uploads/2024/09/typography-gabriel-pang-feature.jpg)
-
-[](https://theinspirationgrid.com/food-type-typographic-creations-by-gabriel-pang/)
-
-### Food Type: Typographic Creations by Gabriel Pang
-
-![](https://inspgr.id/app/uploads/2024/09/design-rubioydelamo-feature.jpg)
-
-[](https://theinspirationgrid.com/ax-awards-trophy-design-branding-by-rubio-del-amo/)
-
-### AX Awards Trophy Design & Branding by Rubio & del Amo
 
 Awesome products for creatives
 ------------------------------
