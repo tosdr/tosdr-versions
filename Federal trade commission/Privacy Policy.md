@@ -235,11 +235,11 @@ Main Menu Mega
     Upcoming Event
     --------------
     
-    Sep19
+    Sep20
     
-    ### [Open Commission Meeting - September 19, 2024](https://www.ftc.gov/news-events/events/2024/09/open-commission-meeting-september-19-2024)
+    ### [Fireside Chat with Chair Khan at the Council of Foreign Relations](https://www.ftc.gov/news-events/events/2024/09/fireside-chat-chair-khan-council-foreign-relations)
     
-    Thursday, September 19, 2024 | 11:00AM - 1:00PM
+    Friday, September 20, 2024 | 5:00PM - 6:00PM
     
     [View more Events](https://www.ftc.gov/news-events/events)
     
