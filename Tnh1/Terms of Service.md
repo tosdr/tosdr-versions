@@ -18,31 +18,31 @@
 
 [Leia tudo sobre Maceió](https://www.tnh1.com.br/noticias/editoria/maceio/ "Ir para Maceió")
 
-   [![Vídeo: mulher tem carteira furtada da bolsa enquanto escolhia legumes em supermercado](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/d/8/csm_furto_mulher_carteira_maceio_a25bc6605a.jpg)
+   [![Outlet da beleza 'Maceió Beauty Hair' vai agitar mercado em Alagoas](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/0/b/csm_MACEIO_BEAUTY_HAIR_b5689dca6a.jpeg)
+
+6 a 8 de Outubro
+
+Outlet da beleza 'Maceió Beauty Hair' vai agitar mercado em Alagoas](https://www.tnh1.com.br/noticia/nid/outlet-da-beleza-maceio-beauty-hair-vai-agitar-mercado-em-alagoas/ "Outlet da beleza 'Maceió Beauty Hair' vai agitar mercado em Alagoas")   [![Motociclistas recebem multas de quase R$ 6 mil após protesto na frente do DMTT ](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/3/3/csm_protesto_DMTT_d3049487e1.png)
+
+denúncia
+
+Motociclistas recebem multas de quase R$ 6 mil após protesto na frente do DMTT](https://www.tnh1.com.br/noticia/nid/motociclistas-recebem-multas-de-quase-r-6-mil-apos-protesto-na-frente-do-dmtt/ "Motociclistas recebem multas de quase R$ 6 mil após protesto na frente do DMTT ")   [![Restaurante, farmácia e barbearia na Ponta Verde e Jatiúca são autuados por furto de energia ](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/f/5/csm_furto_de_energia_Equatorial_Alagoas_53e3aa6720.jpeg)
+
+operação
+
+Restaurante, farmácia e barbearia na Ponta Verde e Jatiúca são autuados por furto de energia](https://www.tnh1.com.br/noticia/nid/restaurante-farmacia-e-barbearia-na-ponta-verde-e-jatiuca-sao-autuados-por-furto-de-energia/ "Restaurante, farmácia e barbearia na Ponta Verde e Jatiúca são autuados por furto de energia ")   [![Estado e município têm um mês para dar assistência a famílias em situação de rua](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/f/8/csm_reuniao_mp_d876e8973e.png)
+
+três gerações
+
+Estado e município têm um mês para dar assistência a famílias em situação de rua](https://www.tnh1.com.br/noticia/nid/estado-e-municipio-tem-um-mes-para-dar-assistencia-a-familias-em-situacao-de-rua/ "Estado e município têm um mês para dar assistência a famílias em situação de rua")   [![Vídeo: mulher tem carteira furtada da bolsa enquanto escolhia legumes em supermercado](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/d/8/csm_furto_mulher_carteira_maceio_a25bc6605a.jpg)
 
 EM MACEIÓ
 
-Vídeo: mulher tem carteira furtada da bolsa enquanto escolhia legumes em supermercado](https://www.tnh1.com.br/noticia/nid/video-mulher-tem-carteira-furtada-da-bolsa-enquanto-escolhia-legumes-em-supermercado/ "Vídeo: mulher tem carteira furtada da bolsa enquanto escolhia legumes em supermercado")   [![Defensoria Pública flagra diversos problemas em atendimento na UPA do Jacintinho](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/c/4/csm_fiscalizacao_upa_defensoria_ascom_08242aa772.jpg)
+Vídeo: mulher tem carteira furtada da bolsa enquanto escolhia legumes em supermercado](https://www.tnh1.com.br/noticia/nid/video-mulher-tem-carteira-furtada-da-bolsa-enquanto-escolhia-legumes-em-supermercado/ "Vídeo: mulher tem carteira furtada da bolsa enquanto escolhia legumes em supermercado")   [![Defensoria Pública flagra diversos problemas em atendimento na UPA do Jacintinho](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/c/4/csm_fiscalizacao_upa_defensoria_ascom_08242aa772.jpg)
 
 Durante vistoria
 
-Defensoria Pública flagra diversos problemas em atendimento na UPA do Jacintinho](https://www.tnh1.com.br/noticia/nid/defensoria-publica-flagra-diversos-problemas-em-atendimento-na-upa-do-jacintinho/ "Defensoria Pública flagra diversos problemas em atendimento na UPA do Jacintinho")   [![Suspeito de invadir casa para tentar matar idoso é amarrado e agredido pela população](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/5/f/csm_csm_viatura_policia_militar_-_ascom_ssp_b65a315e7e_6d5bc954da.jpg)
-
-Cidade Universitária
-
-Suspeito de invadir casa para tentar matar idoso é amarrado e agredido pela população](https://www.tnh1.com.br/noticia/nid/suspeito-de-invadir-casa-para-tentar-matar-idoso-e-amarrado-e-agredido-pela-populacao/ "Suspeito de invadir casa para tentar matar idoso é amarrado e agredido pela população")   [![Homem é preso após jogar cadeira em esposa idosa por ela negar dinheiro para drogas](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/f/7/csm_violencia_mulher_agencia_brasil_1e8999e241.png)
-
-No Clima Bom
-
-Homem é preso após jogar cadeira em esposa idosa por ela negar dinheiro para drogas](https://www.tnh1.com.br/noticia/nid/homem-e-preso-apos-jogar-cadeira-em-esposa-idosa-por-ela-negar-dinheiro-para-drogas/ "Homem é preso após jogar cadeira em esposa idosa por ela negar dinheiro para drogas")   [![Festival Massayó Gospel leva três dias de fé e adoração no Jaraguá; veja programação](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/7/d/csm_massayo_gospel_675c1b268a.jpeg)
-
-Maceió
-
-Festival Massayó Gospel leva três dias de fé e adoração no Jaraguá; veja programação](https://www.tnh1.com.br/noticia/nid/festival-massayo-gospel-leva-tres-dias-de-fe-e-adoracao-no-jaragua-veja-programacao/ "Festival Massayó Gospel leva três dias de fé e adoração no Jaraguá; veja programação")   [![Motociclista morre após se chocar com carro e ser atropelado por caminhão, no Barro Duro](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/2/2/csm_motociclista-morre-atropelado-barro-duro__2__10537dca17.jpg)
-
-Av. Juca Sampaio
-
-Motociclista morre após se chocar com carro e ser atropelado por caminhão, no Barro Duro](https://www.tnh1.com.br/noticia/nid/motociclista-morre-apos-se-chocar-com-carro-e-ser-atropelado-por-caminhao-no-barro-duro/ "Motociclista morre após se chocar com carro e ser atropelado por caminhão, no Barro Duro")
+Defensoria Pública flagra diversos problemas em atendimento na UPA do Jacintinho](https://www.tnh1.com.br/noticia/nid/defensoria-publica-flagra-diversos-problemas-em-atendimento-na-upa-do-jacintinho/ "Defensoria Pública flagra diversos problemas em atendimento na UPA do Jacintinho")
 
 [Alagoas](https://www.tnh1.com.br/noticias/editoria/alagoas/ "Alagoas")
 
@@ -50,7 +50,19 @@ Motociclista morre após se chocar com carro e ser atropelado por caminhão, no 
 
 [Leia tudo sobre Alagoas](https://www.tnh1.com.br/noticias/editoria/alagoas/ "Ir para Alagoas")
 
-   [![Polícia Científica procura familiares de homem que vivia em situação de rua em Penedo](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/0/c/csm_policia-cientifica-procura-familiares-de-homem-que-vivia-em-situacao-de-rua-em-penedo_2c1a75ba69.jpeg)
+   [![Veterinários alagoanos serão homenageados em premiação nesta sexta-feira](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/0/a/csm_veterinarios_ac39f32153.png)
+
+Mês do Veterinário
+
+Veterinários alagoanos serão homenageados em premiação nesta sexta-feira](https://www.tnh1.com.br/noticia/nid/veterinarios-alagoanos-serao-homenageados-em-premiacao-nesta-sexta-feira/ "Veterinários alagoanos serão homenageados em premiação nesta sexta-feira")   [![Governo publica procedimentos para pagamento do rateio do Fundef em Alagoas; confira](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/1/f/csm_real_moedadinheiro_jfcrz_abr_1701220049_1_14b8d66d3b.jpg)
+
+mais de R$ 827 milhões
+
+Governo publica procedimentos para pagamento do rateio do Fundef em Alagoas; confira](https://www.tnh1.com.br/noticia/nid/governo-publica-procedimentos-para-pagamento-do-rateio-do-fundef-em-alagoas-confira/ "Governo publica procedimentos para pagamento do rateio do Fundef em Alagoas; confira")   [![Estudos e soluções: reunião no MPF discute prevenção de enchentes, inundações e deslizamentos em AL](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/f/9/csm_reuniao_mpf_19-09-24_367b35768d.jpeg)
+
+minimizar impacto
+
+Estudos e soluções: reunião no MPF discute prevenção de enchentes, inundações e deslizamentos em AL](https://www.tnh1.com.br/noticia/nid/estudos-e-solucoes-reuniao-no-mpf-discute-prevencao-de-enchentes-inundacoes-e-deslizamentos-em-al/ "Estudos e soluções: reunião no MPF discute prevenção de enchentes, inundações e deslizamentos em AL")   [![Polícia Científica procura familiares de homem que vivia em situação de rua em Penedo](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/0/c/csm_policia-cientifica-procura-familiares-de-homem-que-vivia-em-situacao-de-rua-em-penedo_2c1a75ba69.jpeg)
 
 Alagoas
 
@@ -62,19 +74,7 @@ Novo episódio: "Territórios do Crime" mostra como traficantes usam dinheiro pa
 
 Meteorologia
 
-Veja a previsão do tempo para esta sexta-feira, 20, em todas as regiões de Alagoas](https://www.tnh1.com.br/noticia/nid/veja-a-previsao-do-tempo-para-esta-sexta-feira-20-em-todas-as-regioes-de-alagoas/ "Veja a previsão do tempo para esta sexta-feira, 20, em todas as regiões de Alagoas")   [![Polícia Militar recupera veículo roubado no interior de Alagoas](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/1/8/csm_policia-militar-recupera-veiculo-roubado-no-interior-de-alagoas_3728f3654e.jpg)
-
-Alagoas
-
-Polícia Militar recupera veículo roubado no interior de Alagoas](https://www.tnh1.com.br/noticia/nid/policia-militar-recupera-veiculo-roubado-no-interior-de-alagoas/ "Polícia Militar recupera veículo roubado no interior de Alagoas")   [![Segundo episódio da série "Territórios do Crime" mostra como o RJ virou refúgio de traficantes alagoanos](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/e/3/csm_Still_Territorios_do_crime_d7bdc35c5f.png)
-
-Polícia
-
-Segundo episódio da série "Territórios do Crime" mostra como o RJ virou refúgio de traficantes alagoanos](https://www.tnh1.com.br/noticia/nid/segundo-episodio-da-serie-territorios-do-crime-mostra-como-o-rj-virou-refugio-de-traficantes-alagoanos/ "Segundo episódio da série "Territórios do Crime" mostra como o RJ virou refúgio de traficantes alagoanos")   [![Senador Rui Palmeira: juiz eleitoral condena prefeita  e cassa registro de candidato à prefeitura](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/7/c/csm_csm_Senador-Rui-Palmeira-ascom_9c363eb8f8_ed5efc79bd.jpg)
-
-PROMOÇÃO PESSOAL
-
-Senador Rui Palmeira: juiz eleitoral condena prefeita e cassa registro de candidato à prefeitura](https://www.tnh1.com.br/noticia/nid/senador-rui-palmeira-juiz-eleitoral-condena-prefeita-e-cassa-registro-de-candidato-a-prefeitura/ "Senador Rui Palmeira: juiz eleitoral condena prefeita  e cassa registro de candidato à prefeitura")
+Veja a previsão do tempo para esta sexta-feira, 20, em todas as regiões de Alagoas](https://www.tnh1.com.br/noticia/nid/veja-a-previsao-do-tempo-para-esta-sexta-feira-20-em-todas-as-regioes-de-alagoas/ "Veja a previsão do tempo para esta sexta-feira, 20, em todas as regiões de Alagoas")
 
 [Polícia](https://www.tnh1.com.br/noticias/editoria/policia/ "Polícia")
 
@@ -82,31 +82,31 @@ Senador Rui Palmeira: juiz eleitoral condena prefeita e cassa registro de candid
 
 [Leia tudo sobre Polícia](https://www.tnh1.com.br/noticias/editoria/policia/ "Ir para Polícia")
 
-   [![Novo episódio: "Territórios do Crime" mostra como traficantes usam dinheiro para promover festas e ostentação ](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/e/3/csm_Still_Territorios_do_crime_d7bdc35c5f.png)
+   [![Dupla é presa após flagrante de pedras de crack, revólveres e R$ 11,5 mil, no Sertão de Alagoas](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/5/4/csm_apreensao_santana_do_ipanema_-_foto_cortesia_0c5f99c331.jpeg)
+
+comparsas de crimes
+
+Dupla é presa após flagrante de pedras de crack, revólveres e R$ 11,5 mil, no Sertão de Alagoas](https://www.tnh1.com.br/noticia/nid/dupla-e-presa-apos-flagrante-de-pedras-de-crack-revolveres-e-r-115-mil-no-sertao-de-alagoas/ "Dupla é presa após flagrante de pedras de crack, revólveres e R$ 11,5 mil, no Sertão de Alagoas")   [![Acusado de matar vizinho por ciúmes em Pernambuco é preso após se esconder em Alagoas](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/3/f/csm_prisao_cha_preta_-_foto_ascom_pc_dcff7debf8.jpeg)
+
+Foragido
+
+Acusado de matar vizinho por ciúmes em Pernambuco é preso após se esconder em Alagoas](https://www.tnh1.com.br/noticia/nid/acusado-de-matar-vizinho-por-ciumes-em-pernambuco-e-preso-apos-se-esconder-em-alagoas/ "Acusado de matar vizinho por ciúmes em Pernambuco é preso após se esconder em Alagoas")   [![Dupla em moto rende frentistas e leva mais de R$ 600 em posto no interior de Alagoas](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/5/a/csm_Central_de_Policia_de_Arapiraca_fb9d405eee.jpg)
+
+Em Arapiraca
+
+Dupla em moto rende frentistas e leva mais de R$ 600 em posto no interior de Alagoas](https://www.tnh1.com.br/noticia/nid/dupla-em-moto-rende-frentistas-e-leva-mais-de-r-600-em-posto-no-interior-de-alagoas/ "Dupla em moto rende frentistas e leva mais de R$ 600 em posto no interior de Alagoas")   [![Assaltante golpeia vítima com machado, foge com celular dela, mas é alcançado por PMs](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/9/c/csm_csm_csm_Viatura_Policia_Militar_-_Foto_Cortesia_ao_TNH1__Bruno_Protasio_4e80112b48_630098ddc8_72b789d7a0.jpeg)
+
+Cruz das Almas
+
+Assaltante golpeia vítima com machado, foge com celular dela, mas é alcançado por PMs](https://www.tnh1.com.br/noticia/nid/assaltante-golpeia-vitima-com-machado-foge-com-celular-dela-mas-e-alcancado-por-pms/ "Assaltante golpeia vítima com machado, foge com celular dela, mas é alcançado por PMs")   [![Triplo homicídio: adolescentes foram executados com mais de 30 tiros em Rio Largo](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/2/d/csm_Triplo_homicidio_Rio_Largo_-_foto_Reproducao_d0a56ab22c.jpg)
+
+Tinham 16 e 17 anos
+
+Triplo homicídio: adolescentes foram executados com mais de 30 tiros em Rio Largo](https://www.tnh1.com.br/noticia/nid/triplo-homicidio-adolescentes-foram-executados-com-mais-de-30-tiros-em-rio-largo/ "Triplo homicídio: adolescentes foram executados com mais de 30 tiros em Rio Largo")   [![Novo episódio: "Territórios do Crime" mostra como traficantes usam dinheiro para promover festas e ostentação ](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/e/3/csm_Still_Territorios_do_crime_d7bdc35c5f.png)
 
 Alagoas
 
-Novo episódio: "Territórios do Crime" mostra como traficantes usam dinheiro para promover festas e ostentação](https://www.tnh1.com.br/noticia/nid/novo-episodio-territorios-do-crime-mostra-como-traficantes-usam-dinheiro-para-promover-festas-e-ostentacao/ "Novo episódio: "Territórios do Crime" mostra como traficantes usam dinheiro para promover festas e ostentação ")   [![Polícia Militar recupera veículo roubado no interior de Alagoas](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/1/8/csm_policia-militar-recupera-veiculo-roubado-no-interior-de-alagoas_3728f3654e.jpg)
-
-Alagoas
-
-Polícia Militar recupera veículo roubado no interior de Alagoas](https://www.tnh1.com.br/noticia/nid/policia-militar-recupera-veiculo-roubado-no-interior-de-alagoas/ "Polícia Militar recupera veículo roubado no interior de Alagoas")   [![Três homens são assassinados a tiros dentro de residência em Rio Largo](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/2/d/csm_Triplo_homicidio_Rio_Largo_-_foto_Reproducao_d0a56ab22c.jpg)
-
-triplo homicídio
-
-Três homens são assassinados a tiros dentro de residência em Rio Largo](https://www.tnh1.com.br/noticia/nid/tres-homens-sao-assassinados-a-tiros-dentro-de-residencia-em-rio-largo/ "Três homens são assassinados a tiros dentro de residência em Rio Largo")   [![Relatório da PF revela conversas entre delegado e um dos suspeitos da morte de Kleber Malaquias](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/4/8/csm_Print_conversa_delegado_1_961d4b1da8.jpeg)
-
-Veja prints
-
-Relatório da PF revela conversas entre delegado e um dos suspeitos da morte de Kleber Malaquias](https://www.tnh1.com.br/noticia/nid/relatorio-da-pf-revela-conversas-entre-delegado-e-um-dos-suspeitos-da-morte-de-kleber-malaquias/ "Relatório da PF revela conversas entre delegado e um dos suspeitos da morte de Kleber Malaquias")   [![Drogas avaliadas em R$ 300 mil são incineradas no interior de Alagoas; veja vídeo](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/f/0/csm_incineracao_droga_fcf45bf0ce.png)
-
-Polícia
-
-Drogas avaliadas em R$ 300 mil são incineradas no interior de Alagoas; veja vídeo](https://www.tnh1.com.br/noticia/nid/drogas-avaliadas-em-r-300-mil-sao-incineradas-no-interior-de-alagoas-veja-video/ "Drogas avaliadas em R$ 300 mil são incineradas no interior de Alagoas; veja vídeo")   [![Acusado de oferecer bens para fazer sexo com criança de 12 anos é preso por estupro ](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/f/e/csm_Senador-Rui-Palmeira_e1182a335b.jpg)
-
-interior de AL
-
-Acusado de oferecer bens para fazer sexo com criança de 12 anos é preso por estupro](https://www.tnh1.com.br/noticia/nid/acusado-de-oferecer-bens-para-fazer-sexo-com-crianca-de-12-anos-e-preso-por-estupro/ "Acusado de oferecer bens para fazer sexo com criança de 12 anos é preso por estupro ") 
+Novo episódio: "Territórios do Crime" mostra como traficantes usam dinheiro para promover festas e ostentação](https://www.tnh1.com.br/noticia/nid/novo-episodio-territorios-do-crime-mostra-como-traficantes-usam-dinheiro-para-promover-festas-e-ostentacao/ "Novo episódio: "Territórios do Crime" mostra como traficantes usam dinheiro para promover festas e ostentação ")
 
 [Blogs](https://www.tnh1.com.br/blogs/ "Blogs")
 
@@ -198,23 +198,15 @@ O Portal TNH1 não entra em contato com os ganhadores de qualquer promoção atr
 * [ÚLTIMAS](#ultimas "Ultimas")
 * [VÍDEOS](#videos "Videos")
 
-[![Filho revela a última promessa que fez para Christopher Reeve, o Superman clássico do cinema](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/6/4/csm_christopher-reeve-matt-reeve-filho-reproducao-redes-sociais_95606d02b9.jpg)
+[![Foto de baleia 'jantando' um cardume vence concurso de Fotógrafo de Oceano do Ano](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/e/a/csm_foto-de-baleia-jantando-um-cardume-vence-o-concurso-ocean-photographer-of-the-year-de-20242__1__4db966372f.jpg)
 
-32 anos
+MOMENTO ESPECIAL
 
-32 anos
+MOMENTO ESPECIAL
 
-Filho revela a última promessa que fez para Christopher Reeve, o Superman clássico do cinema
+Foto de baleia 'jantando' um cardume vence concurso de Fotógrafo de Oceano do Ano
 
-Filho revela a última promessa que fez para Christopher Reeve, o Superman clássico do cinema](https://www.tnh1.com.br/noticia/nid/filho-revela-a-ultima-promessa-que-fez-para-christopher-reeve-o-superman-classico-do-cinema/ "Filho revela a última promessa que fez para Christopher Reeve, o Superman clássico do cinema")[!['É doloroso, mas há tanto amor', diz filha sobre saúde de Bruce Willis](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/9/b/csm_csm_bruce-willis-reproducao-instagram_fb592b766e_4bc4b33481.jpg)
-
-ator
-
-ator
-
-'É doloroso, mas há tanto amor', diz filha sobre saúde de Bruce Willis
-
-'É doloroso, mas há tanto amor', diz filha sobre saúde de Bruce Willis](https://www.tnh1.com.br/noticia/nid/e-doloroso-mas-ha-tanto-amor-diz-filha-sobre-saude-de-bruce-willis/ "'É doloroso, mas há tanto amor', diz filha sobre saúde de Bruce Willis")[![Três homens são assassinados a tiros dentro de residência em Rio Largo](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/2/d/csm_Triplo_homicidio_Rio_Largo_-_foto_Reproducao_cc6c5ca92d.jpg)
+Foto de baleia 'jantando' um cardume vence concurso de Fotógrafo de Oceano do Ano](https://www.tnh1.com.br/noticia/nid/foto-de-baleia-jantando-um-cardume-vence-concurso-de-fotografo-de-oceano-do-ano/ "Foto de baleia 'jantando' um cardume vence concurso de Fotógrafo de Oceano do Ano")[![Três homens são assassinados a tiros dentro de residência em Rio Largo](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/2/d/csm_Triplo_homicidio_Rio_Largo_-_foto_Reproducao_cc6c5ca92d.jpg)
 
 triplo homicídio
 
@@ -222,7 +214,7 @@ triplo homicídio
 
 Três homens são assassinados a tiros dentro de residência em Rio Largo
 
-Três homens são assassinados a tiros dentro de residência em Rio Largo](https://www.tnh1.com.br/noticia/nid/tres-homens-sao-assassinados-a-tiros-dentro-de-residencia-em-rio-largo/ "Três homens são assassinados a tiros dentro de residência em Rio Largo")[![Relatório da PF revela conversas entre delegado e um dos suspeitos da morte de Kleber Malaquias](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/4/8/csm_Print_conversa_delegado_1_e4b61b7d12.jpeg)
+Três homens são assassinados a tiros dentro de residência em Rio Largo](https://www.tnh1.com.br/noticia/nid/tres-homens-sao-assassinados-a-tiros-dentro-de-residencia-em-rio-largo/ "Três homens são assassinados a tiros dentro de residência em Rio Largo")[![Relatório da PF revela conversas entre delegado e um dos suspeitos da morte de Kleber Malaquias](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/4/8/csm_Print_conversa_delegado_1_e4b61b7d12.jpeg)
 
 Veja prints
 
@@ -230,9 +222,7 @@ Veja prints
 
 Relatório da PF revela conversas entre delegado e um dos suspeitos da morte de Kleber Malaquias
 
-Relatório da PF revela conversas entre delegado e um dos suspeitos da morte de Kleber Malaquias](https://www.tnh1.com.br/noticia/nid/relatorio-da-pf-revela-conversas-entre-delegado-e-um-dos-suspeitos-da-morte-de-kleber-malaquias/ "Relatório da PF revela conversas entre delegado e um dos suspeitos da morte de Kleber Malaquias")
-
-[![Menino de 7 anos tem passaporte negado por ter sido batizado com nome de personagem de 'Star Wars'](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/7/3/csm_menino-passaporte-negado-nome-reproducao_5fa9a255b6.jpg)
+Relatório da PF revela conversas entre delegado e um dos suspeitos da morte de Kleber Malaquias](https://www.tnh1.com.br/noticia/nid/relatorio-da-pf-revela-conversas-entre-delegado-e-um-dos-suspeitos-da-morte-de-kleber-malaquias/ "Relatório da PF revela conversas entre delegado e um dos suspeitos da morte de Kleber Malaquias")[![Menino de 7 anos tem passaporte negado por ter sido batizado com nome de personagem de 'Star Wars'](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/7/3/csm_menino-passaporte-negado-nome-reproducao_5fa9a255b6.jpg)
 
 Na Inglaterra
 
@@ -240,31 +230,41 @@ Na Inglaterra
 
 Menino de 7 anos tem passaporte negado por ter sido batizado com nome de personagem de 'Star Wars'
 
-Menino de 7 anos tem passaporte negado por ter sido batizado com nome de personagem de 'Star Wars'](https://www.tnh1.com.br/noticia/nid/menino-de-7-anos-tem-passaporte-negado-por-ter-sido-batizado-com-nome-de-personagem-de-star-wars/ "Menino de 7 anos tem passaporte negado por ter sido batizado com nome de personagem de 'Star Wars'")[![Raquel Brito diz que Davi está abalado após vencer BBB](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/9/d/csm_raquel-brito-davi-reproducao_34dccc1480.jpg)
+Menino de 7 anos tem passaporte negado por ter sido batizado com nome de personagem de 'Star Wars'](https://www.tnh1.com.br/noticia/nid/menino-de-7-anos-tem-passaporte-negado-por-ter-sido-batizado-com-nome-de-personagem-de-star-wars/ "Menino de 7 anos tem passaporte negado por ter sido batizado com nome de personagem de 'Star Wars'")
 
-fez revelações
+[![Veterinários alagoanos serão homenageados em premiação nesta sexta-feira](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/0/a/csm_veterinarios_135f06727b.png)
 
-fez revelações
+Mês do Veterinário
 
-Raquel Brito diz que Davi está abalado após vencer BBB
+Mês do Veterinário
 
-Raquel Brito diz que Davi está abalado após vencer BBB](https://www.tnh1.com.br/noticia/nid/raquel-brito-diz-que-davi-esta-abalado-apos-vencer-bbb/ "Raquel Brito diz que Davi está abalado após vencer BBB")[![Saiba quem é brasileira que atropelou sete e matou duas jovens alemãs na Itália](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/8/3/csm_brasileira-atropelou-sete-pessoas-reproducao_3b2884649f.jpg)
+Veterinários alagoanos serão homenageados em premiação nesta sexta-feira
 
-Brasil
+Veterinários alagoanos serão homenageados em premiação nesta sexta-feira](https://www.tnh1.com.br/noticia/nid/veterinarios-alagoanos-serao-homenageados-em-premiacao-nesta-sexta-feira/ "Veterinários alagoanos serão homenageados em premiação nesta sexta-feira")[![Governo publica procedimentos para pagamento do rateio do Fundef em Alagoas; confira](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/1/f/csm_real_moedadinheiro_jfcrz_abr_1701220049_1_b51dd6e180.jpg)
 
-Brasil
+mais de R$ 827 milhões
 
-Saiba quem é brasileira que atropelou sete e matou duas jovens alemãs na Itália
+mais de R$ 827 milhões
 
-Saiba quem é brasileira que atropelou sete e matou duas jovens alemãs na Itália](https://www.tnh1.com.br/noticia/nid/saiba-quem-e-brasileira-que-atropelou-sete-e-matou-duas-jovens-alemas-na-italia/ "Saiba quem é brasileira que atropelou sete e matou duas jovens alemãs na Itália")[![Noiva joga o buquê para convidados, que protagonizam pancadaria na Bósnia](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/3/5/csm_briga-generalizada-buque-flores-reproducao_eed4cb4b08.jpg)
+Governo publica procedimentos para pagamento do rateio do Fundef em Alagoas; confira
 
-durante festa
+Governo publica procedimentos para pagamento do rateio do Fundef em Alagoas; confira](https://www.tnh1.com.br/noticia/nid/governo-publica-procedimentos-para-pagamento-do-rateio-do-fundef-em-alagoas-confira/ "Governo publica procedimentos para pagamento do rateio do Fundef em Alagoas; confira")[![Luan Santana e Jade Magalhães fazem chá revelação e descobrem sexo do bebê](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/4/6/csm_luan_santana_e_jade_redes_sociais_898f1ad49d.jpg)
 
-durante festa
+menino ou menina?
 
-Noiva joga o buquê para convidados, que protagonizam pancadaria na Bósnia
+menino ou menina?
 
-Noiva joga o buquê para convidados, que protagonizam pancadaria na Bósnia](https://www.tnh1.com.br/noticia/nid/noiva-joga-o-buque-para-convidados-que-protagonizam-pancadaria-na-bosnia/ "Noiva joga o buquê para convidados, que protagonizam pancadaria na Bósnia")
+Luan Santana e Jade Magalhães fazem chá revelação e descobrem sexo do bebê
+
+Luan Santana e Jade Magalhães fazem chá revelação e descobrem sexo do bebê](https://www.tnh1.com.br/noticia/nid/luan-santana-e-jade-magalhaes-fazem-cha-revelacao-e-descobrem-sexo-do-bebe/ "Luan Santana e Jade Magalhães fazem chá revelação e descobrem sexo do bebê")[![Agora é oficial! CRB anuncia Hélio dos Anjos como novo técnico para o restante da Série B](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/f/f/csm_helio_dos_anjos_divulgacao_crb_3d009a5344.png)
+
+Luta contra o Z4
+
+Luta contra o Z4
+
+Agora é oficial! CRB anuncia Hélio dos Anjos como novo técnico para o restante da Série B
+
+Agora é oficial! CRB anuncia Hélio dos Anjos como novo técnico para o restante da Série B](https://www.tnh1.com.br/noticia/nid/agora-e-oficial-crb-anuncia-helio-dos-anjos-como-novo-tecnico-para-o-restante-da-serie-b/ "Agora é oficial! CRB anuncia Hélio dos Anjos como novo técnico para o restante da Série B")
 
 [](https://www.tnh1.com.br/ "TNH1 logo")
 
