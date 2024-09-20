@@ -177,11 +177,11 @@
     
     8 月 22, 2024 1
     
-* [![InputTip - 又一个输入法状态提示工具，中英文、大写锁定，支持快捷键[Windows] 10](https://www.appinn.com/wp-content/uploads/2024/09/Appinn-feature-images-2024-09-18T161107.545-115x115.jpg "InputTip - 又一个输入法状态提示工具，中英文、大写锁定，支持快捷键[Windows] 10")](https://www.appinn.com/inputtip-abgox/ "InputTip – 又一个输入法状态提示工具，中英文、大写锁定，支持快捷键[Windows]")
+* [![免费获取！Winxvideo AI：高效提升视频与照片的质量和像素 10](https://www.appinn.com/wp-content/uploads/2024/09/0-115x115.jpg "免费获取！Winxvideo AI：高效提升视频与照片的质量和像素 10")](https://www.appinn.com/winxvideo-ai/ "免费获取！Winxvideo AI：高效提升视频与照片的质量和像素")
     
-    [InputTip – 又一个输入法状态提示工具，中英文、大写锁定，支持快捷键\[Windows\]](https://www.appinn.com/inputtip-abgox/ "InputTip – 又一个输入法状态提示工具，中英文、大写锁定，支持快捷键[Windows]")
+    [免费获取！Winxvideo AI：高效提升视频与照片的质量和像素](https://www.appinn.com/winxvideo-ai/ "免费获取！Winxvideo AI：高效提升视频与照片的质量和像素")
     
-    9 月 18, 2024 0
+    9 月 19, 2024 0
     
 
 ### 分类
