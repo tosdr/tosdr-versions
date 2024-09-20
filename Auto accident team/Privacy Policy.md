@@ -1,4 +1,4 @@
-[![](https://www.autoaccidentteam.com/wp-content/uploads/2024/06/logo-v4-1.svg)](https://www.autoaccidentteam.com/)
+[![](data:image/svg+xml;nitro-empty-id=MTQ2MToxNjk=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjk3IDExMSIgd2lkdGg9IjI5NyIgaGVpZ2h0PSIxMTEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)](https://www.autoaccidentteam.com/)
 
 [877-508-8778](tel:877-508-8778)
 
@@ -230,7 +230,7 @@ Unit #2001
 Brewster, NY 10509  
 [info@autoaccidentteam.com](mailto:info@autoaccidentteam.com)
 
-[![](https://www.autoaccidentteam.com/wp-content/uploads/2024/06/logo-v4-1.svg)](https://www.autoaccidentteam.com/)
+[![](data:image/svg+xml;nitro-empty-id=MTkzMjoxNjk=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjk3IDExMSIgd2lkdGg9IjI5NyIgaGVpZ2h0PSIxMTEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)](https://www.autoaccidentteam.com/)
 
 * [888.303.2581](tel:888.303.2581)
 * [info@autoaccidentteam.com](mailto:info@autoaccidentteam.com)
@@ -259,7 +259,7 @@ Advertising paid for by participating attorneys in a joint advertising program, 
 
 [FILE Your Claim TOday](https://autoaccidentteam.com/contact/)
 
-[![](https://www.autoaccidentteam.com/wp-content/uploads/2024/06/logo-v4-1.svg)](https://www.autoaccidentteam.com/)
+[![](data:image/svg+xml;nitro-empty-id=MjA0MToxNjk=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjk3IDExMSIgd2lkdGg9IjI5NyIgaGVpZ2h0PSIxMTEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)](https://www.autoaccidentteam.com/)
 
 * [Car Accident Laws](https://www.autoaccidentteam.com/car-accident-laws/)
     * [Texas](https://www.autoaccidentteam.com/car-accident-laws/texas/)
