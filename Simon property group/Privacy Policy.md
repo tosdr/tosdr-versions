@@ -255,7 +255,7 @@ Terms of Use Privacy Policy California Privacy Rights Canada Privacy Rights Colo
 * [VIP Passport Participation Agreement](https://www.simon.com/legal/vip-offer-participation-agreement)
 * [Wi-Fi Terms of Use](https://www.simon.com/legal/wifi-terms-of-use)
 
-Last Updated: August 1, 2024
+Last Updated: September 20, 2024
 
 Table of Contents
 =================
@@ -303,7 +303,7 @@ Personal Information We Collect
 We collect or receive the types of personal information in the following list, which depends on the products or services you use from us, as well as your device or account settings. Not all types of personal information listed below will be collected or received about every person who visits our Sites and we will not collect any information that is prohibited by, or for which we cannot gather adequate consent under, applicable law.
 
 * **Basic Personal Contact Information**, such as your name, physical address, email address, telephone number, and other similar basic identifiers;
-* **Device and Account Identifiers,** such as account login information, Media Access Control (“MAC”) address(es), Internet Protocol (“IP”) address, cookie IDs, mobile ad IDs, device or software settings and version information, and social media account information;
+* **Device and Account Identifiers,** such as account login information, Media Access Control (“**MAC**”) address(es), Internet Protocol (“**IP**”) address, cookie IDs, mobile ad IDs, device or software settings and version information, and social media account information;
 * **Internet Usage Information**, such as your browsing or search activity as well as your interactions with our websites, mobile applications, emails, or advertisements, your methods of accessing this information (to determine if you are a human or a bot) such as your ability to recognize visual patterns or your keyboard, mouse, touchpad, and/or touchscreen usage patterns;
 * **Commercial Transaction Information**, such as purchase and transaction history information (such as products or services you have purchased or returned, the price and taxes paid, and shipping information), product reviews, and sweepstakes and contest entries;
 * **Communication Detail**, such as content of communications to or from Simon, public communications you make, or communications where Simon is otherwise included or copied such as emails, text messages, call or chat logs, social media posts or direct messages, online reviews, survey responses, voicemail and recorded phone calls, mailed letters, calendar information, or other similar communications;
@@ -447,7 +447,7 @@ Interest-Based Advertising
 
 Interest-based (or targeted) ads are ads optimized for you based on your preferences or inferences we or advertising vendors make about you. For more information about interest-based advertising, see the [_Advertising and Data Technology Vendors_](#advertising-and-data-technology-vendors) section above. To adjust your interest-based advertising preferences, follow the instructions below:
 
-* **Opt out of Simon interest-based ads by changing your preferences.** [Click here](https://privacyportal.onetrust.com/webform/80ecbc6e-7e6b-4595-8581-8c2c595a58d9/334a81ba-4130-4922-90c2-15520194ef75) to fill out our general opt-out form or, if you are a resident of a State referenced in our [_State Privacy Rights_](#state-privacy-rights) section below, click on _Do Not Sell or Share My Personal Information and Opt Out of Targeted Advertising_ here or in the footer of this page. Our Sites may respond to the Global Privacy Control (“GPC”) signal from your browser but not other types of “do not track” signals. You may have to accept our cookies when asked for your cookie preferences for these opt-outs to work.
+* **Opt out of Simon interest-based ads by changing your preferences.** [Click here](https://privacyportal.onetrust.com/webform/80ecbc6e-7e6b-4595-8581-8c2c595a58d9/334a81ba-4130-4922-90c2-15520194ef75) to fill out our general opt-out form or, if you are a resident of a State referenced in our [_State Privacy Rights_](#state-privacy-rights) section below, click on _Do Not Sell or Share My Personal Information and Opt Out of Targeted Advertising_ here or in the footer of this page. Our Sites may respond to the Global Privacy Control (“**GPC**”) signal from your browser but not other types of “**do not track**” signals. You may have to accept our cookies when asked for your cookie preferences for these opt-outs to work.
 * **Opt out of interest-based ads on your mobile device**. Mobile devices offer options for opting in or out of interest-based advertising. Please refer to your device settings and instructions for additional information.
 * **Opt out of interest-based ads from third-party advertisers that participate in industry groups.** See the websites of the [National Advertising Initiative](https://optout.networkadvertising.org/)or the [Digital Advertising Alliance](http://www.aboutads.info/choices) to opt out of interest-based ads from their participant companies, which does not guarantee that you will not see interested-based ads from other companies either on the Sites or elsewhere.
 
