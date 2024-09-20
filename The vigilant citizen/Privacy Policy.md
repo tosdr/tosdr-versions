@@ -160,7 +160,7 @@ We use a third-party to provide monetisation technologies for our site. You can 
 
 ![](https://vigilantcitizen.com/wp-content/uploads/2024/09/logosvg11.svg) 
 
-[![The Vigilant Citizen](https://vigilantcitizen.com/wp-content/uploads/2018/08/headmob2-3.png)](https://vigilantcitizen.com/)
+[![The Vigilant Citizen](https://vigilantcitizen.com/wp-content/uploads/2024/09/logosvg11.svg)](https://vigilantcitizen.com/)
 
 * [](https://www.facebook.com/realvigilantcitizen/)
 * [](https://twitter.com/vigilantfeed)
