@@ -212,7 +212,7 @@ Toggle navigation
     ##### Events
     
     * 24 September - [Media Partnership - Smart siting: Unlocking Europe's Solar and Wind Potential](https://events.euractiv.com/event/info/media-partnership-smart-siting-unlocking-europes-solar-and-wind-potential)
-    * 13 November - [The path to the climate neutrality of district heating systems - Solutions, regulations, technologies](https://events.euractiv.com/event/info/the-path-to-the-climate-neutrality-of-district-heating-systems-solutions-regulations-technologies)
+    * 30 October - [The future of the European raw materials industry - How can Europe remain competitive on the global stage?](https://events.euractiv.com/event/info/carbon-and-graphite-navigating-the-challenges-between-energy-and-trade)
     
     ##### Promoted Content
     
@@ -823,8 +823,8 @@ If you have any questions about this Privacy Policy, please contact us:
 * 6[EU Commission rebuffs car industry calls to delay CO2 targets](http://en.euractiv.eu/section/electric-cars/news/eu-commission-rebuffs-car-industry-calls-to-delay-co2-targets/?utm_source=website&utm_campaign=popular)
 * 7[Von der Leyen unveils EU Commission top jobs, with some surprises](http://en.euractiv.eu/section/politics/news/von-der-leyen-unveils-eu-commission-top-jobs-with-some-surprises/?utm_source=website&utm_campaign=popular) 
 * 8[European competitiveness in the energy transition: Shell's views for the next EU cycle](http://en.euractiv.eu/section/energy-environment/opinion/european-competitiveness-in-the-energy-transition-shells-views-for-the-next-eu-cycle/?utm_source=website&utm_campaign=popular)
-* 9[Fake Kamala hit-and-run story is the work of Russian propaganda group, Microsoft says](http://en.euractiv.eu/section/global-europe/news/fake-kamala-hit-and-run-story-is-the-work-of-russian-propaganda-group-microsoft-says/?utm_source=website&utm_campaign=popular)
-* 10[Von der Leyen plans five more years of intense energy and climate rule-making](http://en.euractiv.eu/section/energy-environment/news/von-der-leyen-plans-five-more-years-of-intense-energy-and-climate-rule-making/?utm_source=website&utm_campaign=popular)
+* 9[Von der Leyen plans five more years of intense energy and climate rule-making](http://en.euractiv.eu/section/energy-environment/news/von-der-leyen-plans-five-more-years-of-intense-energy-and-climate-rule-making/?utm_source=website&utm_campaign=popular)
+* 10[Fake Kamala hit-and-run story is the work of Russian propaganda group, Microsoft says](http://en.euractiv.eu/section/global-europe/news/fake-kamala-hit-and-run-story-is-the-work-of-russian-propaganda-group-microsoft-says/?utm_source=website&utm_campaign=popular)
 
 ###### Advertisement
 
