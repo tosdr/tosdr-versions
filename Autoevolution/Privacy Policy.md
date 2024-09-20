@@ -39,9 +39,9 @@ editorial \_
 
 coverstory \_
 
-[![Ghia L6.4: A Look Back at the Ultra-Rare Italian Coupe Powered by American Muscle](https://s1.cdn.autoevolution.com/images/news/ghia-l64-a-look-back-at-the-ultra-rare-italian-coupe-powered-by-american-muscle-240071-5.jpg "Ghia L6.4: A Look Back at the Ultra-Rare Italian Coupe Powered by American Muscle")
+[![Airstream Will Make Only 30 Outland Edition Camper Vans With Never-Before-Seen Features](https://s1.cdn.autoevolution.com/images/news/airstream-will-make-only-30-outland-edition-19x-campervans-with-never-before-seen-features-240085-5.jpg "Airstream Will Make Only 30 Outland Edition Camper Vans With Never-Before-Seen Features")
 
-Ghia L6.4: A Look Back at the Ultra-Rare Italian Coupe Powered by American Muscle](https://www.autoevolution.com/news/ghia-l64-a-look-back-at-the-ultra-rare-italian-coupe-powered-by-american-muscle-240071.html)
+Airstream Will Make Only 30 Outland Edition Camper Vans With Never-Before-Seen Features](https://www.autoevolution.com/news/airstream-will-make-only-30-outland-edition-camper-vans-with-never-before-seen-features-240085.html)
 
 how-to \_
 
