@@ -187,11 +187,10 @@ Newsletter Signup
 
 ![Red Star Icon](https://cdn.returningveterans.org/images/site/star_red.png)[### Wall of Honor
 
-![Richard (Dick) Palermo](https://cdn.returningveterans.org/images/honor/Dick_s_Promo__2_.jpg)  
+![Nam Vets](https://cdn.returningveterans.org/images/honor/flag_generic_wall_of_honor.jpg)  
 
-**In Memory of Richard (Dick) Palermo**  
-United States Army  
-Submitted by Peter Palermo](https://returningveterans.org/wall-of-honor/ "Visit the Wall of Honor")
+**In Honor of Nam Vets**  
+Submitted by James Hurley](https://returningveterans.org/wall-of-honor/ "Visit the Wall of Honor")
 
 Returning Veterans Project
 
@@ -236,5 +235,5 @@ _The appearance of U.S. Department of Defense (DoD) visual information does not 
 * [Site by NetRaising](https://netraising.com/ "NetRaising | a web consultancy")
 
 https://returningveterans.org/about/privacy-statement/  
-Printed 9/19/24 - 2:20:22  
+Printed 9/19/24 - 8:09:22  
 © 2024 Returning Veterans Project
