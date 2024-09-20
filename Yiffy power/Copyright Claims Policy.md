@@ -85,7 +85,7 @@ August 24, 2024
 
 [elena and elin (mythology) created by psychorodent](https://yiff-party.com/yiff/elena-and-elin-mythology-created-by-psychorodent/)
 
-0 438 1
+0 446 1
 
 August 24, 2024
 
@@ -93,15 +93,15 @@ August 24, 2024
 
 [created by rabbitbrush](https://yiff-party.com/yiff/created-by-rabbitbrush/)
 
-0 119 1
+0 131 1
 
 September 11, 2024
 
-[](https://yiff-party.com/yiff/nubia-and-ruins-style-lucario-pokemon-unite-and-etc-created-by-muart242/)
+[](https://yiff-party.com/yiff/nintendo-and-etc-created-by-brradett/)
 
-[nubia and ruins style lucario (pokemon unite and etc) created by muart242](https://yiff-party.com/yiff/nubia-and-ruins-style-lucario-pokemon-unite-and-etc-created-by-muart242/)
+[nintendo and etc created by brradett](https://yiff-party.com/yiff/nintendo-and-etc-created-by-brradett/)
 
-0 99 0
+0 184 0
 
 August 21, 2024
 
