@@ -1,4 +1,4 @@
-How to simplify web development, a special event with Astro on Sept 19. [Watch the event](https://www.linkedin.com/events/fromcomplexitytosimplicity-buil7239674008034586627/?utm_content=eyebrow)
+Compose 2024 is coming up fast on Oct 3 – [grab your ticket today!](https://www.netlify.com/compose/?utm_content=eyebrow)
 
 Close announcement bar
 
