@@ -186,12 +186,17 @@ Get Directions
 
 [Back to Menu](#)
 
-[Small Spaces](https://www.thebrick.com/collections/small-space-furniture) [Small Space Living Room Furniture](#)
+[Small Spaces](https://www.thebrick.com/collections/small-space-furniture) [Small Space Living Room Furniture](#) [Small Space Dining Furniture](#)
 
 [Back to Small Spaces](#)
 
 * Small Space Living Room Furniture
 [Sofas](https://www.thebrick.com/collections/small-space-sofas) [Loveseats](https://www.thebrick.com/collections/small-space-loveseats) [Sectionals](https://www.thebrick.com/collections/small-space-sectionals) [Sleeper Sectionals](https://www.thebrick.com/collections/small-space-sleeper-sectionals) [Accent Chairs](https://www.thebrick.com/collections/small-space-accent-chairs) [Living Room Chairs](https://www.thebrick.com/collections/small-space-living-room-chairs) [Sofa Beds and Futons](https://www.thebrick.com/collections/small-space-sofa-beds-and-futons) [Occasional Tables](https://www.thebrick.com/collections/small-space-occasional-tables) [TV Stands](https://www.thebrick.com/collections/small-space-tv-stands) [Ottomans](https://www.thebrick.com/collections/small-space-ottomans) [Trunks and Benches](https://www.thebrick.com/collections/small-space-trunks-and-benches) [Electric Fireplaces](https://www.thebrick.com/collections/small-space-electric-fireplaces)
+
+[Back to Small Spaces](#)
+
+* Small Space Dining Furniture
+[Dining Tables](https://www.thebrick.com/collections/small-space-dining-tables-tables-de-salle-a-manger-pour-petits-espaces-nav) [Dining Chairs](https://www.thebrick.com/collections/small-space-dining-chairs)
 
 [Back to Menu](#)
 
