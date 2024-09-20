@@ -5,6 +5,10 @@ United States (EN)
 
 [Change location](https://us.gsk.com/en-us/locations/) [Global](https://www.gsk.com/)
 
+[Dark Mode](#)
+
+Switch to dark mode to head towards a more sustainable world together. [More info](https://us.gsk.com/en-us/digital-sustainability/ "Digital sustainability")
+
 [Healthcare professionals Healthcare professionals](https://gskpro.com/ "Directing you to your local GSK healthcare professionals' website for info on GSK's medicines, vaccines and educational resources Opens in a new window") [Contact us Contact us](https://us.gsk.com/en-us/contact-us/) [Search](https://us.gsk.com/en-us/search/)[](#)
 
 Location 
@@ -47,7 +51,7 @@ Location
         
     * [HIV](https://us.gsk.com/en-us/company/hiv/)
     
-    [Feature section Global Outstanding people ![Two people walking in an office](/media/11676/20250115-extra-6-phl-small.jpg?mode=stretch&quality=60&width=329&height=185&bgcolor=fff)](https://www.gsk.com/en-gb/company/outstanding-people/)  [Feature section Global policy positions ![An employee attending an online meeting](/media/11524/20250115-extra-14-phl.jpg?mode=stretch&quality=60&width=329&height=185&bgcolor=fff)](https://www.gsk.com/en-gb/company/policy-positions) 
+    [Spotlight on Global Outstanding people ![Two people walking in an office](/media/11676/20250115-extra-6-phl-small.jpg?mode=stretch&quality=60&width=329&height=185&bgcolor=fff)](https://www.gsk.com/en-gb/company/outstanding-people/)  [Spotlight on Global policy positions ![An employee attending an online meeting](/media/11524/20250115-extra-14-phl.jpg?mode=stretch&quality=60&width=329&height=185&bgcolor=fff)](https://www.gsk.com/en-gb/company/policy-positions) 
     
     Close menu
     
@@ -65,7 +69,7 @@ Location
         * [Diversity in clinical studies](https://us.gsk.com/en-us/innovation/clinical-studies/diversity-in-clinical-studies/)
         
     
-    [Feature section Global pipeline ![A close-up shot of scientist's hands handling a vial](/media/11514/20281231-c1-innovation-um.jpg?mode=stretch&quality=60&width=329&height=185&bgcolor=fff)](https://www.gsk.com/en-gb/innovation/pipeline/)  [Feature section Global Behind the science magazine ![GSK Tech Human Image](/media/10847/gsk_tech_human_image_6k.jpg?mode=stretch&quality=60&width=329&height=185&bgcolor=fff)](https://www.gsk.com/en-gb/behind-the-science-magazine/) 
+    [Spotlight on Global pipeline ![A close-up shot of scientist's hands handling a vial](/media/11514/20281231-c1-innovation-um.jpg?mode=stretch&quality=60&width=329&height=185&bgcolor=fff)](https://www.gsk.com/en-gb/innovation/pipeline/)  [Spotlight on Global Behind the science magazine ![GSK Tech Human Image](/media/10847/gsk_tech_human_image_6k.jpg?mode=stretch&quality=60&width=329&height=185&bgcolor=fff)](https://www.gsk.com/en-gb/behind-the-science-magazine/) 
     
     Close menu
     
@@ -92,7 +96,7 @@ Location
         
     * [Ethical standards](https://us.gsk.com/en-us/responsibility/ethical-standards/)
     
-    [FEATURED WEBSITE Access to medicines ![A scientist checking experiment results in the lab](/media/11540/20271231-a1-careers-up.jpg?mode=stretch&quality=60&width=329&height=185&bgcolor=fff)](https://www.gskforyou.com/)  [FEATURED SECTION Global Responsibility ![A smiling scientist posing in the lab](/media/11557/20250115-f4-ethical-standards-um.jpg?mode=stretch&quality=60&width=329&height=185&bgcolor=fff)](https://www.gsk.com/en-gb/responsibility/) 
+    [FEATURED WEBSITE Access to medicines ![A scientist checking experiment results in the lab](/media/11540/20271231-a1-careers-up.jpg?mode=stretch&quality=60&width=329&height=185&bgcolor=fff)](https://www.gskforyou.com/)  [Spotlight on Global Responsibility ![A smiling scientist posing in the lab](/media/11557/20250115-f4-ethical-standards-um.jpg?mode=stretch&quality=60&width=329&height=185&bgcolor=fff)](https://www.gsk.com/en-gb/responsibility/) 
     
     Close menu
     
@@ -113,7 +117,7 @@ Location
         * [Five for Five](https://us.gsk.com/en-us/media/in-focus/five-for-five/)
         
     
-    [Feature Section Global press releases ![Two employees discussing work in the office](/media/11553/20271231-h2-visit-our-global-careers-site-link-um.jpg?mode=stretch&quality=60&width=329&height=185&bgcolor=fff)](https://www.gsk.com/en-gb/media/press-releases/) 
+    [Spotlight on Global press releases ![Two employees discussing work in the office](/media/11553/20271231-h2-visit-our-global-careers-site-link-um.jpg?mode=stretch&quality=60&width=329&height=185&bgcolor=fff)](https://www.gsk.com/en-gb/media/press-releases/) 
     
     Close menu
     
@@ -147,9 +151,13 @@ Location
         
     * [Veterans at GSK](https://us.gsk.com/en-us/careers/veterans-at-gsk/)
     
-    [FEATURED SECTION Global how we hire ![Three employees meeting in the office](/media/11526/20271231-a3-contact-us-phl.jpg?mode=stretch&quality=60&width=329&height=185&bgcolor=fff)](https://www.gsk.com/en-gb/careers/how-we-hire/)  [FEATURED SECTION Global future leaders program ![A smiling scientist posing in the lab](/media/11539/20281231-h4a-achieve-your-career-goals-up.jpg?mode=stretch&quality=60&width=329&height=185&bgcolor=fff)](https://www.gsk.com/en-gb/careers/early-talent/future-leaders-graduate-programme) 
+    [Spotlight on Global how we hire ![Three employees meeting in the office](/media/11526/20271231-a3-contact-us-phl.jpg?mode=stretch&quality=60&width=329&height=185&bgcolor=fff)](https://www.gsk.com/en-gb/careers/how-we-hire/)  [Spotlight on Global future leaders program ![A smiling scientist posing in the lab](/media/11539/20281231-h4a-achieve-your-career-goals-up.jpg?mode=stretch&quality=60&width=329&height=185&bgcolor=fff)](https://www.gsk.com/en-gb/careers/early-talent/future-leaders-graduate-programme) 
     
     Close menu
+    
+* [Dark Mode](#)
+    
+    Switch to dark mode to head towards a more sustainable world together. [More info](https://us.gsk.com/en-us/digital-sustainability/ "Digital sustainability")
     
 * [Healthcare professionals Healthcare professionals](https://gskpro.com/ "Opens in a new window")
 * [Contact us Contact us](https://us.gsk.com/en-us/contact-us/)
@@ -239,6 +247,7 @@ Registered office: 79 New Oxford Street, London. United Kingdom. WC1A 1DG  
     * [instagram](https://www.instagram.com/gsk/)
 
 * [Accessibility](https://us.gsk.com/en-us/accessibility/)
+* [Digital sustainability](https://us.gsk.com/en-us/digital-sustainability/)
 * [Terms of use](https://us.gsk.com/en-us/terms-of-use/)
 * [Cookie policy](https://us.gsk.com/en-us/cookie-policy/)
 * [Privacy notice](https://privacy.gsk.com/en-us/privacy-notice/ "Opens in a new window")
