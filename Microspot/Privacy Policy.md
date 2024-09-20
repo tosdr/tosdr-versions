@@ -64,7 +64,7 @@ Vous avez désactivé JavaScript dans votre navigateur. Veuillez activer JavaScr
 Recherche de succursale
 -----------------------
 
-![Direction de la succursale](/medien/id/marketing/filialleiter/9651.jpg)
+![Direction de la succursale](/medien/id/marketing/filialleiter/9529.jpg)
 
 Nous vous conseillons volontiers.
 
@@ -77,6 +77,10 @@ Visitez l'une de nos quelques environ
 [![](/_next/image?url=https%3A%2F%2Fwww.interdiscount.ch%2Fmedias%2F860x484-I24-ID-Weekend-Deals-KW38-.jpg%3Fcontext%3DbWFzdGVyfGNtc3w1ODQ5OXxpbWFnZS9qcGVnfGFETTVMMmcxTkM4NE5qQjRORGcwWDBreU5GOUpSRjlYWldWclpXNWtYMFJsWVd4elgwdFhNemhmTG1wd1oxTjBZV2RsWkc5d2RHbHRhWHBsWkM4NE5qQjRORGcwWDBreU5GOUpSRjlYWldWclpXNWtYMFJsWVd4elgwdFhNemhmTG1wd1oxTjBZV2RsWkc5d2RHbHRhWHBsWkF8Y2E0YWI0NzdjMzdiNTdkYmM0N2I0ZTk5ZmEwMTNiZjRkMTFlMjEyMzdlYjc0NDlhYmI1NDNiMGJkZDc0ZWUxNg&w=2360&q=75)
 
 20%de rabais sur une sélection de produits PHILIPS](https://www.microspot.ch/fr/cms/id-weekend-deal)
+
+[![iPhone 16 Pro](/_next/image?url=https%3A%2F%2Fwww.interdiscount.ch%2Fmedias%2F860x484-i24-iPhone16-Pro-Banner-fr-Vorbestellen.jpg%3Fcontext%3DbWFzdGVyfGNtc3wyNTkxNHxpbWFnZS9qcGVnfGFERXhMMmd5Wmk4NE5qQjRORGcwWDJreU5GOXBVR2h2Ym1VeE5sOVFjbTlmUW1GdWJtVnlYMlp5WDFadmNtSmxjM1JsYkd4bGJuWXlMbXB3WjFOMFlXZGxaRzl3ZEdsdGFYcGxaQzg0TmpCNE5EZzBYMmt5TkY5cFVHaHZibVV4Tmw5UWNtOWZRbUZ1Ym1WeVgyWnlYMVp2Y21KbGMzUmxiR3hsYm5ZeUxtcHdaMU4wWVdkbFpHOXdkR2x0YVhwbFpBfDNlMDI3MTE0N2E4ZGMxNmMwOTBkY2I2Mjk0YzcwZGY3MjA3YTE0M2JiMGM1YzAwMzUzMTIwMWU5MzVmZjM1NTA&w=2360&q=75)
+
+NEWAcheter iPhone 16 Pro maintenant!](https://www.microspot.ch/fr/cms/iphone-16-pro)
 
 [![](/_next/image?url=https%3A%2F%2Fwww.interdiscount.ch%2Fmedias%2F860x484-I24-0597-CM2-PROMO-Instax-Mini-Lenovo-KW36-382-1-.jpg%3Fcontext%3DbWFzdGVyfGNtc3w3Nzg1NnxpbWFnZS9qcGVnfGFEZGtMMmd4TlM4NE5qQjRORGcwWDBreU5GOHdOVGszWDBOTk1sOVFVazlOVDE5SmJuTjBZWGhmVFdsdWFWOU1aVzV2ZG05ZlMxY3pObDh6T0RJZ2N5Z3hLUzVxY0dkVGRHRm5aV1J2Y0hScGJXbDZaV1F2T0RZd2VEUTRORjlKTWpSZk1EVTVOMTlEVFRKZlVGSlBUVTlmU1c1emRHRjRYMDFwYm1sZlRHVnViM1p2WDB0WE16WmZNemd5SUhNb01Ta3VhbkJuVTNSaFoyVmtiM0IwYVcxcGVtVmt8ZjUzNmFjMGFiMmU5YzJkYWMzY2E3OWFkZWMxNzBhZGFjNjEyZTE0YTY1YmY4YmVkMmM2N2Y1MTFmYmI2Mjc4OA&w=2360&q=75)
 
@@ -125,11 +129,11 @@ Gadgets](https://www.microspot.ch/fr/cms/gadget)
 
 Bébé & Famille](https://www.microspot.ch/fr/cms/tout-pour-la-famille-bebe)
 
-[![](/_next/image?url=https%3A%2F%2Fwww.interdiscount.ch%2Fmedias%2F1180x350-i24-iPhone16-Banner-fr-Vorbestellen.jpg%3Fcontext%3DbWFzdGVyfGNtc3w3NDU4NXxpbWFnZS9qcGVnfGFEWTFMMmd5Wmk4eE1UZ3dlRE0xTUY5cE1qUmZhVkJvYjI1bE1UWmZRbUZ1Ym1WeVgyWnlYMVp2Y21KbGMzUmxiR3hsYm5ZeUxtcHdaMU4wWVdkbFpHOXdkR2x0YVhwbFpDOHhNVGd3ZURNMU1GOXBNalJmYVZCb2IyNWxNVFpmUW1GdWJtVnlYMlp5WDFadmNtSmxjM1JsYkd4bGJuWXlMbXB3WjFOMFlXZGxaRzl3ZEdsdGFYcGxaQXxkYzk5YWJkM2ZhNzU0OGRjMjdlYmQzMTkwZGJiZTQ1NjE3ZDIxNmJmMmU5MjExNjMwMzAzYTRiNGFkOTNiNzlk&w=2360&q=75)![](/_next/image?url=https%3A%2F%2Fwww.interdiscount.ch%2Fmedias%2F828x350-i24-iPhone16-Banner-fr-Vorbestellen.jpg%3Fcontext%3DbWFzdGVyfGNtc3w2OTQ4N3xpbWFnZS9qcGVnfGFEWmlMMmhrTVM4NE1qaDRNelV3WDJreU5GOXBVR2h2Ym1VeE5sOUNZVzV1WlhKZlpuSmZWbTl5WW1WemRHVnNiR1Z1ZGpJdWFuQm5VM1JoWjJWa2IzQjBhVzFwZW1Wa0x6Z3lPSGd6TlRCZmFUSTBYMmxRYUc5dVpURTJYMEpoYm01bGNsOW1jbDlXYjNKaVpYTjBaV3hzWlc1Mk1pNXFjR2RUZEdGblpXUnZjSFJwYldsNlpXUXxhYmZjZWYxYzU1NzFkMWM2NjA0ZjcxZjY3OGM4MWExNTFjZWNmOGRhNDMzMmRlMWM5NGYzNDJlN2UyMDdlOTQz&w=2360&q=75)](https://www.microspot.ch/fr/cms/iphone-16)
+[![](/_next/image?url=https%3A%2F%2Fwww.interdiscount.ch%2Fmedias%2F1180x350-i24-iPhone16-Banner-fr-jetzt-kaufen.jpg%3Fcontext%3DbWFzdGVyfGNtc3w3NTY5MnxpbWFnZS9qcGVnfGFHVXhMMmcwTkM4eE1UZ3dlRE0xTUY5cE1qUmZhVkJvYjI1bE1UWmZRbUZ1Ym1WeVgyWnlYMnBsZEhwMFgydGhkV1psYm5ZeUxtcHdaMU4wWVdkbFpHOXdkR2x0YVhwbFpDOHhNVGd3ZURNMU1GOXBNalJmYVZCb2IyNWxNVFpmUW1GdWJtVnlYMlp5WDJwbGRIcDBYMnRoZFdabGJuWXlMbXB3WjFOMFlXZGxaRzl3ZEdsdGFYcGxaQXxmMWQ1N2Y3ZmUzMDI3MmNiYjFjYjdjMjVmOGE0ODJkMTU0ODBkMjI3MWMyYzY5NDJkOGJkZThjZjY1Nzg4NGUx&w=2360&q=75)![](/_next/image?url=https%3A%2F%2Fwww.interdiscount.ch%2Fmedias%2F828x350-i24-iPhone16-Banner-fr-jetzt-kaufen.jpg%3Fcontext%3DbWFzdGVyfGNtc3w3MDIyOXxpbWFnZS9qcGVnfGFHVm1MMmhpWWk4NE1qaDRNelV3WDJreU5GOXBVR2h2Ym1VeE5sOUNZVzV1WlhKZlpuSmZhbVYwZW5SZmEyRjFabVZ1ZGpJdWFuQm5VM1JoWjJWa2IzQjBhVzFwZW1Wa0x6Z3lPSGd6TlRCZmFUSTBYMmxRYUc5dVpURTJYMEpoYm01bGNsOW1jbDlxWlhSNmRGOXJZWFZtWlc1Mk1pNXFjR2RUZEdGblpXUnZjSFJwYldsNlpXUXw0OTkwMDU0YmRhNmFkNmVjNGM2ODcyNmU2YzNhMGU4NWI5MThlZTA0MzdmYzM4ZTJjZDQyMGI3ODI3YmJkNGZm&w=2360&q=75)](https://www.microspot.ch/fr/cms/iphone-16)
 
-[![](/_next/image?url=https%3A%2F%2Fwww.interdiscount.ch%2Fmedias%2F1180x350-i24-AppleWatch-S10-Banner-fr.jpg%3Fcontext%3DbWFzdGVyfGNtc3w0NzE1OHxpbWFnZS9qcGVnfGFESXpMMmd5WlM4eE1UZ3dlRE0xTUY5cE1qUmZRWEJ3YkdWWFlYUmphRjlUTVRCZlFtRnVibVZ5WDJaeUxtcHdaM1l6VTNSaFoyVmtiM0IwYVcxcGVtVmtMekV4T0RCNE16VXdYMmt5TkY5QmNIQnNaVmRoZEdOb1gxTXhNRjlDWVc1dVpYSmZabkl1YW5CbmRqTlRkR0ZuWldSdmNIUnBiV2w2WldRfDBmZjFhNjkzYmE5Y2M2ZTczMTk0ZjEwMjkzYTViZTZhZDdkODcxOTYzMmFkNjg3ZGI0ZTUwNzdhNmI3Nzc2MDk&w=2360&q=75)![](/_next/image?url=https%3A%2F%2Fwww.interdiscount.ch%2Fmedias%2F828x350-i24-AppleWatch-S10-Banner-fr.jpg%3Fcontext%3DbWFzdGVyfGNtc3w0MDE4NnxpbWFnZS9qcGVnfGFETXpMMmhrTUM4NE1qaDRNelV3WDJreU5GOUJjSEJzWlZkaGRHTm9YMU14TUY5Q1lXNXVaWEpmWm5JdWFuQm5kak5UZEdGblpXUnZjSFJwYldsNlpXUXZPREk0ZURNMU1GOXBNalJmUVhCd2JHVlhZWFJqYUY5VE1UQmZRbUZ1Ym1WeVgyWnlMbXB3WjNZelUzUmhaMlZrYjNCMGFXMXBlbVZrfDczZmFmYzc5OTZlMDY5NDQzMzdjYzMzNTU4ZjE4NjgwMDUyMTM5N2FmOWRmYWQwY2MyNDM1MWM0Y2I0N2M3YzQ&w=2360&q=75)](https://www.microspot.ch/fr/cms/apple-watch-series-10)
+[![](/_next/image?url=https%3A%2F%2Fwww.interdiscount.ch%2Fmedias%2F1180x350-i24-AppleWatch-S10-Banner-fr-Jetzt-kaufen.jpg%3Fcontext%3DbWFzdGVyfGNtc3wzNzIxMHxpbWFnZS9qcGVnfGFHVTBMMmhrTUM4eE1UZ3dlRE0xTUY5cE1qUmZRWEJ3YkdWWFlYUmphRjlUTVRCZlFtRnVibVZ5WDJaeVgwcGxkSHAwWDJ0aGRXWmxibll5TG1wd1oxTjBZV2RsWkc5d2RHbHRhWHBsWkM4eE1UZ3dlRE0xTUY5cE1qUmZRWEJ3YkdWWFlYUmphRjlUTVRCZlFtRnVibVZ5WDJaeVgwcGxkSHAwWDJ0aGRXWmxibll5TG1wd1oxTjBZV2RsWkc5d2RHbHRhWHBsWkF8OGNkZTdhYjhlOWY0NjAxYWRhMTk4NjlmN2E5MTI0MWI5NTk2MGExYzhlY2E1MzMxNGE4YTE4ODhkNjhmNTNjNA&w=2360&q=75)![](/_next/image?url=https%3A%2F%2Fwww.interdiscount.ch%2Fmedias%2F828x350-i24-AppleWatch-S10-Banner-fr-Jetzt-kaufen.jpg%3Fcontext%3DbWFzdGVyfGNtc3wzNTc1MXxpbWFnZS9qcGVnfGFEUmpMMmd6TkM4NE1qaDRNelV3WDJreU5GOUJjSEJzWlZkaGRHTm9YMU14TUY5Q1lXNXVaWEpmWm5KZlNtVjBlblJmYTJGMVptVnVkakl1YW5CblUzUmhaMlZrYjNCMGFXMXBlbVZrTHpneU9IZ3pOVEJmYVRJMFgwRndjR3hsVjJGMFkyaGZVekV3WDBKaGJtNWxjbDltY2w5S1pYUjZkRjlyWVhWbVpXNTJNaTVxY0dkVGRHRm5aV1J2Y0hScGJXbDZaV1F8ZTViMWM0MzFmYzAwMTg2M2EyYzdlMzM3YjhkOTNmMjdhNDY3MjRhNGFkMmU1ZjdjMjczNTk4ZTEzY2I4MGU3Mw&w=2360&q=75)](https://www.microspot.ch/fr/cms/apple-watch-series-10)
 
-[![](/_next/image?url=https%3A%2F%2Fwww.interdiscount.ch%2Fmedias%2F1180x350-i24-AirPods-4-Banner-fr.jpg%3Fcontext%3DbWFzdGVyfGNtc3wzODc4OHxpbWFnZS9qcGVnfGFETmlMMmcxWkM4eE1UZ3dlRE0xTUY5cE1qUmZRV2x5VUc5a2MxODBYMEpoYm01bGNsOW1jaTVxY0dkMk1sTjBZV2RsWkc5d2RHbHRhWHBsWkM4eE1UZ3dlRE0xTUY5cE1qUmZRV2x5VUc5a2MxODBYMEpoYm01bGNsOW1jaTVxY0dkMk1sTjBZV2RsWkc5d2RHbHRhWHBsWkF8Zjc5ODJhZTdmZGFiNTQwN2U5ZGRjYTdjNzhkZjk4NTE5MmJjMjQ0NjBjNGI2YTUxYmFhYmVlYmIxMTVjZWFkOA&w=2360&q=75)![](/_next/image?url=https%3A%2F%2Fwww.interdiscount.ch%2Fmedias%2F828x350-i24-AirPods-4-Banner-fr.jpg%3Fcontext%3DbWFzdGVyfGNtc3wzMDM0NnxpbWFnZS9qcGVnfGFETTVMMmd3TkM4NE1qaDRNelV3WDJreU5GOUJhWEpRYjJSelh6UmZRbUZ1Ym1WeVgyWnlMbXB3WjNZeVUzUmhaMlZrYjNCMGFXMXBlbVZrTHpneU9IZ3pOVEJmYVRJMFgwRnBjbEJ2WkhOZk5GOUNZVzV1WlhKZlpuSXVhbkJuZGpKVGRHRm5aV1J2Y0hScGJXbDZaV1F8YTkzY2I3NjM4Y2I2MDM4ZDE0NDMyYmFkNmJjZDY2YzVmMTExYTVmM2JkMGUxYjU1ZTRkZDg0YTcyNWEwYzYzYQ&w=2360&q=75)](https://www.microspot.ch/fr/cms/apple-airpods)
+[![](/_next/image?url=https%3A%2F%2Fwww.interdiscount.ch%2Fmedias%2F1180x350-i24-AirPods-4-Banner-fr-jetzt-kaufen.jpg%3Fcontext%3DbWFzdGVyfGNtc3w0MTU5OHxpbWFnZS9qcGVnfGFEUTRMMmc1T1M4eE1UZ3dlRE0xTUY5cE1qUmZRV2x5VUc5a2MxODBYMEpoYm01bGNsOW1jbDlxWlhSNmRGOXJZWFZtWlc1Mk1pNXFjR2RUZEdGblpXUnZjSFJwYldsNlpXUXZNVEU0TUhnek5UQmZhVEkwWDBGcGNsQnZaSE5mTkY5Q1lXNXVaWEpmWm5KZmFtVjBlblJmYTJGMVptVnVkakl1YW5CblUzUmhaMlZrYjNCMGFXMXBlbVZrfDdmYmY4NzkxZWI4MzZmNWU3MWIyMzVkNmQwZGUyYTc5ZDAwNjc4MmMyMDBhYTgyYTM5ODZhZTJlNGQyZWFiN2U&w=2360&q=75)![](/_next/image?url=https%3A%2F%2Fwww.interdiscount.ch%2Fmedias%2F828x350-i24-AirPods-4-Banner-fr-jetzt-kaufen.jpg%3Fcontext%3DbWFzdGVyfGNtc3wzMTE4M3xpbWFnZS9qcGVnfGFEQTBMMmc0TUM4NE1qaDRNelV3WDJreU5GOUJhWEpRYjJSelh6UmZRbUZ1Ym1WeVgyWnlYMnBsZEhwMFgydGhkV1psYm5ZeUxtcHdaMU4wWVdkbFpHOXdkR2x0YVhwbFpDODRNamg0TXpVd1gya3lORjlCYVhKUWIyUnpYelJmUW1GdWJtVnlYMlp5WDJwbGRIcDBYMnRoZFdabGJuWXlMbXB3WjFOMFlXZGxaRzl3ZEdsdGFYcGxaQXw2YjM5ZWJiZjZjNzA2YWIzNWViYTI2NzA5ZDQ0MjlhMjllZDgyMzJmN2VmOWI4YWIwOGFjNTMzZTk0NjdjNDk5&w=2360&q=75)](https://www.microspot.ch/fr/cms/apple-airpods)
 
 Testé pour vous
 ---------------
@@ -203,10 +207,6 @@ Inscrivez-vous à notre newsletter et soyez parmi les premiers à être informé
 Achetez comme vous aimez
 ------------------------
 
-[Garantie Plus
-
-prolongation de 24 mois de la garantie du fabricant](https://www.microspot.ch/fr/cms/service/garantie-plus)
-
 [Commandé aujourd'hui avant 20h
 
 livré le lendemain](https://helpcenter.interdiscount.ch/s/?c__cun=Delivery_Collection&c__cl=Lieferung%20%26%20Abholung&language=fr)
@@ -214,6 +214,10 @@ livré le lendemain](https://helpcenter.interdiscount.ch/s/?c__cun=Delivery_Coll
 [Frais de port gratuits pour livraison
 
 à domicile dès CHF 49.-](https://helpcenter.interdiscount.ch/s/?c__cun=Delivery_Collection&c__cl=Lieferung%20%26%20Abholung&language=fr)
+
+[Retrait gratuit
+
+dans tous les magasins](https://helpcenter.interdiscount.ch/s/?c__cun=Delivery_Collection&c__cl=Lieferung%20%26%20Abholung&language=fr)
 
 interdiscount.ch
 
