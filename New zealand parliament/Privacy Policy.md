@@ -2,7 +2,7 @@
 
 [New Zealand Parliament Pāremata Aotearoa](https://www.parliament.nz/en/)
 
-Language [English](#) [Māori](https://www.parliament.nz/mi/pb/hansard-debates/rhr/document/HansS_20240919_052140000/andersen-ginny/)
+Language [English](#) [Māori](https://www.parliament.nz/mi/pb/sc/scl/environment/)
 
 Search [Advanced Search](https://www.parliament.nz/en/search)
 
@@ -14,7 +14,7 @@ Search
 
 [Advanced Search](https://www.parliament.nz/en/search)
 
-Language [English](#) [Māori](https://www.parliament.nz/mi/pb/hansard-debates/rhr/document/HansS_20240919_052140000/andersen-ginny/)
+Language [English](#) [Māori](https://www.parliament.nz/mi/pb/sc/scl/environment/)
 
 * [Home](https://www.parliament.nz/en/ "Home")
 * [Parliamentary Business](https://www.parliament.nz/en/pb/)
