@@ -1,6 +1,10 @@
 [Skip to main content](#maincontent) [Skip to footer content](#footercontent)
 
-**Pilots Wanted!** Save up to $130 [Shop Now](https://www.horizonhobby.com/horizon-hobby-rc-sale/)
+2024 Pro-Line By The Fire is Happening Now! [Save 25%](https://www.horizonhobby.com/horizon-hobby-rc-sale/pro-line-sale/)
+-------------------------------------------------------------------------------------------------------------------------
+
+Pilots Wanted Sale! Save up to $130 [Shop Now](https://www.horizonhobby.com/horizon-hobby-rc-sale/pilots-wanted-sale/)
+----------------------------------------------------------------------------------------------------------------------
 
  
 
@@ -84,7 +88,11 @@ My store
 
 [](#)
 
-**Pilots Wanted!** Save up to $130 [Shop Now](https://www.horizonhobby.com/horizon-hobby-rc-sale/)
+2024 Pro-Line By The Fire is Happening Now! [Save 25%](https://www.horizonhobby.com/horizon-hobby-rc-sale/pro-line-sale/)
+-------------------------------------------------------------------------------------------------------------------------
+
+Pilots Wanted Sale! Save up to $130 [Shop Now](https://www.horizonhobby.com/horizon-hobby-rc-sale/pilots-wanted-sale/)
+----------------------------------------------------------------------------------------------------------------------
 
 * [Shop](https://www.horizonhobby.com/s/horizon-us/home "Shop Radio Control")
 * [Learn](https://www.horizonhobby.com/learn.html "Learn about the RC Hobby")
