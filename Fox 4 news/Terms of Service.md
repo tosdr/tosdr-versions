@@ -28,7 +28,7 @@ Search site
 * [Business](https://www.fox4news.com/tag/business)
 * [Health](https://www.fox4news.com/tag/health)
 * [FOX News Sunday](https://www.fox4news.com/news/fox-news-sunday-with-shannon-bream)
-* [Election](https://www.fox4news.com/election)
+* [2024 Election](https://www.fox4news.com/election)
 
 ###### [Weather](https://www.fox4news.com/weather)
 
@@ -52,25 +52,23 @@ Search site
 
 ###### [Good Day](https://www.fox4news.com/shows/good-day)
 
-* [Recipes](https://www.fox4news.com/tag/series/good-day-recipes)
+* [Links from On Air](https://www.fox4news.com/links)
+* [Birthdays](https://www.fox4news.com/good-day-birthdays)
+* [Recipes](https://www.fox4news.com/tag/good-day/good-day-recipes)
 * [Traffic](https://www.fox4news.com/traffic)
 * [Entertainment](https://www.fox4news.com/tag/entertainment)
 * [Things To Do](https://www.fox4news.com/tag/lifestyle/things-to-do-in-dallas)
 * [Save Me Steve](https://www.fox4news.com/tag/series/save-me-steve)
-* [Birthdays](https://www.fox4news.com/good-day-birthdays)
 
-###### [Only on FOX 4](https://www.fox4news.com/tag/series/fox-4-features)
+###### [Latest Episodes](https://www.fox4news.com/tag/series/)
 
 * [Watch Live](https://www.fox4news.com/live)
-* [Links from On Air](https://www.fox4news.com/links)
-* [FOX 4 Features](https://www.fox4news.com/tag/series/fox-4-features)
+* [Last Call with Steve Noviello](https://www.fox4news.com/lastcall)
 * [Trackdown](https://www.fox4news.com/tag/series/trackdown)
 * [Texas: The Issue Is](https://www.fox4news.com/tag/tx-politics/texas-the-issue-is)
 * [The Tex Factor](https://www.fox4news.com/shows/the-tex-factor)
 * [Texas To-Do List](https://www.fox4news.com/tag/series/texas-to-do-list)
 * [Here's To You](https://www.fox4news.com/herestoyou)
-* [Last Call with Steve Noviello](https://www.fox4news.com/lastcall)
-* [Brand Spotlight](https://www.fox4news.com/shows/brand-spotlight)
 
 ###### [About Us](https://www.fox4news.com/about-us)
 
@@ -84,6 +82,7 @@ Search site
 * [FCC Public File](https://www.fox4news.com/public-file)
 * [FCC Applications](https://www.fox4news.com/fcc-applications)
 * [KDFI / MORE 27](https://www.fox4news.com/more-27)
+* [Brand Spotlight](https://www.fox4news.com/shows/brand-spotlight)
 
 ###### [Regional News](https://www.fox4news.com/tag/us/tx)
 
@@ -404,7 +403,7 @@ Please contact the Site Administrator with any questions regarding this Agreemen
 * [Business](https://www.fox4news.com/tag/business)
 * [Health](https://www.fox4news.com/tag/health)
 * [FOX News Sunday](https://www.fox4news.com/news/fox-news-sunday-with-shannon-bream)
-* [Election](https://www.fox4news.com/election)
+* [2024 Election](https://www.fox4news.com/election)
 
 ###### [Weather](https://www.fox4news.com/weather)
 
@@ -428,25 +427,23 @@ Please contact the Site Administrator with any questions regarding this Agreemen
 
 ###### [Good Day](https://www.fox4news.com/shows/good-day)
 
-* [Recipes](https://www.fox4news.com/tag/series/good-day-recipes)
+* [Links from On Air](https://www.fox4news.com/links)
+* [Birthdays](https://www.fox4news.com/good-day-birthdays)
+* [Recipes](https://www.fox4news.com/tag/good-day/good-day-recipes)
 * [Traffic](https://www.fox4news.com/traffic)
 * [Entertainment](https://www.fox4news.com/tag/entertainment)
 * [Things To Do](https://www.fox4news.com/tag/lifestyle/things-to-do-in-dallas)
 * [Save Me Steve](https://www.fox4news.com/tag/series/save-me-steve)
-* [Birthdays](https://www.fox4news.com/good-day-birthdays)
 
-###### [Only on FOX 4](https://www.fox4news.com/tag/series/fox-4-features)
+###### [Latest Episodes](https://www.fox4news.com/tag/series/)
 
 * [Watch Live](https://www.fox4news.com/live)
-* [Links from On Air](https://www.fox4news.com/links)
-* [FOX 4 Features](https://www.fox4news.com/tag/series/fox-4-features)
+* [Last Call with Steve Noviello](https://www.fox4news.com/lastcall)
 * [Trackdown](https://www.fox4news.com/tag/series/trackdown)
 * [Texas: The Issue Is](https://www.fox4news.com/tag/tx-politics/texas-the-issue-is)
 * [The Tex Factor](https://www.fox4news.com/shows/the-tex-factor)
 * [Texas To-Do List](https://www.fox4news.com/tag/series/texas-to-do-list)
 * [Here's To You](https://www.fox4news.com/herestoyou)
-* [Last Call with Steve Noviello](https://www.fox4news.com/lastcall)
-* [Brand Spotlight](https://www.fox4news.com/shows/brand-spotlight)
 
 ###### [About Us](https://www.fox4news.com/about-us)
 
@@ -460,6 +457,7 @@ Please contact the Site Administrator with any questions regarding this Agreemen
 * [FCC Public File](https://www.fox4news.com/public-file)
 * [FCC Applications](https://www.fox4news.com/fcc-applications)
 * [KDFI / MORE 27](https://www.fox4news.com/more-27)
+* [Brand Spotlight](https://www.fox4news.com/shows/brand-spotlight)
 
 ###### [Regional News](https://www.fox4news.com/tag/us/tx)
 
