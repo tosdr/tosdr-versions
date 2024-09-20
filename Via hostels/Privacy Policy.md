@@ -68,20 +68,20 @@ travel • live • work • interact • share • repeat • 
 [fun from day one!](#)
 ----------------------
 
-* [fun from day one!](#tab_66eca19101a17)
+* [fun from day one!](#tab_66ecf2aa6b48b)
     ---------------------------------------
     
-    [We are here to offer more than just accommodation. We are committed to provide you a home away from home, where you can instantly feel like a part of a community of likeminded people. We have events running at the hostel every day of the week, so that you can meet other travellers and have fun from day one!](#tab_66eca19101a17)
+    [We are here to offer more than just accommodation. We are committed to provide you a home away from home, where you can instantly feel like a part of a community of likeminded people. We have events running at the hostel every day of the week, so that you can meet other travellers and have fun from day one!](#tab_66ecf2aa6b48b)
     
-* [fomo no more!](#tab_66eca19101a27)
+* [fomo no more!](#tab_66ecf2aa6b49d)
     -----------------------------------
     
-    [We want you to experience Amsterdam in the best way possible, with no room for fomo. We’re here to give you the coolest tips and recommendations for your visit, from our many local perspectives. Our staff is an amazing mix of true Amsterdammers and international locals who are there for you 24/7.](#tab_66eca19101a27)
+    [We want you to experience Amsterdam in the best way possible, with no room for fomo. We’re here to give you the coolest tips and recommendations for your visit, from our many local perspectives. Our staff is an amazing mix of true Amsterdammers and international locals who are there for you 24/7.](#tab_66ecf2aa6b49d)
     
-* [we’ve got you covered, dude](#tab_66eca19101a33)
+* [we’ve got you covered, dude](#tab_66ecf2aa6b4ab)
     -------------------------------------------------
     
-    [You are part of the international and unique Via family as you check in. Our spaces just boost creativity and they are designed for all kinds of needs; make connections, have fun, eat & drink, join activities, sleep, connect online and offline, make memories, take cool photos… We come from all around the world just like our guests, so we really get you, dude.](#tab_66eca19101a33)
+    [You are part of the international and unique Via family as you check in. Our spaces just boost creativity and they are designed for all kinds of needs; make connections, have fun, eat & drink, join activities, sleep, connect online and offline, make memories, take cool photos… We come from all around the world just like our guests, so we really get you, dude.](#tab_66ecf2aa6b4ab)
     
 
 ##### [view facilities](https://www.viahostels.com/facilities/)
@@ -117,6 +117,9 @@ follow us on social
 
 [](https://www.instagram.com/viaamsterdam/)
 
+[BLOODY BRUNCH BASH🤩🙌🍹 Attention brunch lo ![BLOODY BRUNCH BASH🤩🙌🍹
+Attention brunch lovers!!! Grab a bloody mary and your pick of eggs benedict or avocado toast – all for just €15 🎉](https://www.viahostels.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/reel/DAGssUet_by/) 
+
 [![Shaking up your week with a classic!🍊🥃 Here’s how to make the perfect negroni - the Via way!!
 #negroninight #cocktailrecipes #cocktails30sec #bartending #viaamsterdam](https://www.viahostels.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/reel/DABM1vDtqRk/)
 
@@ -148,10 +151,6 @@ Sign from our amazing weekend with @yestheory @dutchyesfam 💓](https://www.via
 [Three of our signature icons🍹🌟 Comment below ![Three of our signature icons🍹🌟
 Comment below which cocktail you would order!🙌🏼🤩💛
 #viaamsterdam #hostellife #signaturecocktails #bartenderlife #cocktails](https://www.viahostels.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/reel/C_IN1lBt4z1/) 
-
-[Long day? Our cinema room is the perfect spot to u ![Long day? Our cinema room is the perfect spot to unwind and recharge!🍿
-It's free to use for all our guests, just ask the receptionists to turn on your favourite movie😍🙏
-#viaamsterdam #movietime #cinemaroom #relaxing #hostellife😍](https://www.viahostels.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/C_FrmSgMlzj/) 
 
 current & upcoming events
 -------------------------
