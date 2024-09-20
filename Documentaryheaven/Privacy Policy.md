@@ -136,31 +136,31 @@ Advertisement
 
 ###### Throwback Documentaries
 
-* [![Darwin’s Secret Notebooks](/wp-content/thumbnails/3695)
+* [![Mick Foley: Hardcore Legend](/wp-content/thumbnails/8493-100x70.jpg?x53432)
     
-    Darwin’s Secret Notebooks
+    Mick Foley: Hardcore Legend
     
-    Using Darwin’s own diary and field notes as a travel guide, retrace Darwin’s expedition beyond the Galapagos to uncover the forgotten evidence that inspired his revolutionary work. He wasn’t a mathema](https://documentaryheaven.com/darwins-secret-notebooks/ "Darwin’s Secret Notebooks")
-* [![The Man Who Knew](/wp-content/thumbnails/6044-100x70.jpg?x53432)
+    A behind the scenes look into the world of Mick Foley, the professional wrestler who was best known for his outrageous hardcore matches where anything goes, from landing in a bed of thumbtacks to gett](https://documentaryheaven.com/mick-foley-hardcore-legend/ "Mick Foley: Hardcore Legend")
+* [![Citizenfour](/wp-content/thumbnails/9535-100x70.jpg?x53432)
     
-    The Man Who Knew
+    Citizenfour
     
-    PBS Frontline details FBI Special Agent John O'Neill's efforts to sound the alarms about al Qaeda's growing reach and threat to the U.S., only to be branded a maverick and roundly ignored. O'Neill elf](https://documentaryheaven.com/the-man-who-knew/ "The Man Who Knew")
-* [![Quantum Revolution](/wp-content/thumbnails/7556-100x70.jpg?x53432)
+    Back in January of 2013, Laura Poitras a documentary filmmaker who received the MacArthur Genius Fellowship award in 2012 and shared a 2014 Pulitzer Prize for Public Service was a few y](https://documentaryheaven.com/citizenfour/ "Citizenfour")
+* [![Trial of Henry Kissinger](/wp-content/thumbnails/26-100x70.png?x53432)
     
-    Quantum Revolution
+    Trial of Henry Kissinger
     
-    Professor Michio Kaku, famous Theoretical Physicist and one of the inventors of Light Cone String Field Theory (one of the Relativistic forms of M-Theory), hosts a documentary on the use of the body o](https://documentaryheaven.com/quantum-revolution/ "Quantum Revolution")
-* [![Flow: For Love of Water](/wp-content/thumbnails/235-100x70.png?x53432)
+    THE TRIALS OF HENRY KISSINGER, a documentary based on the book by British journalist Christopher Hitchens, argues that Kissinger, the former U.S. Secretary of State and the recipient of the Nobel Peac](https://documentaryheaven.com/trial-of-henry-kissinger/ "Trial of Henry Kissinger")
+* [![Vaccine Nation](/wp-content/thumbnails/1444-100x70.jpg?x53432)
     
-    Flow: For Love of Water
+    Vaccine Nation
     
-    Irena Salinas' documentary is about the global crisis we face as Earth's fresh water supply constantly diminishes. The film presents top experts and advocates to show us that every aspect of human lif](https://documentaryheaven.com/flow-for-love-of-water/ "Flow: For Love of Water")
-* [![Child of Rage](/wp-content/thumbnails/5921-100x70.jpg?x53432)
+    In the United States, the number of mandatory vaccine injections has risen to 36 per child. Each of these injections contains neurotoxins such as aluminum, formaldehyde, aborted fetal tissue, animal b](https://documentaryheaven.com/vaccine-nation/ "Vaccine Nation")
+* [![The Endless Summer](/wp-content/thumbnails/1539-100x70.jpg?x53432)
     
-    Child of Rage
+    The Endless Summer
     
-    Beth Thomas, once labeled "The Child Of Rage" by HBO, tells the story of her healing from Reactive Attachment Disorder in a powerful story you will never forget! Beth's story of hope and healing will](https://documentaryheaven.com/child-of-rage/ "Child of Rage")
+    Before there was sunscreen, high-tech wet suits, and corporate-sponsored surfing competitions, there was Bruce Brown, the original beach bum and the director of the greatest surf movie ever made, The](https://documentaryheaven.com/the-endless-summer/ "The Endless Summer")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
