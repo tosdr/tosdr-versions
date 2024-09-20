@@ -106,6 +106,9 @@ Light/Dark
 * Light/Dark
     
 
+* [](https://www.resetera.com/account/dismiss-notice?notice_id=396 "Dismiss notice")For our US members, be sure to [check on your voter registration status](https://www.vote.org/am-i-registered-to-vote/) and if you are not registered [it will only take a second](https://vote.gov/) to do so!
+    
+
 Cookie usage
 ============
 
