@@ -941,6 +941,7 @@ Solution
 * ###### Surveillance
     
     * [Surveillance Overview](https://www.qnap.com/go/solution/qvr-surveillance/)
+    * [Active Backup for Surveillance](https://www.qnap.com/go/software/qvr-recording-vault)
     * [Surveillance Client Software](https://www.qnap.com/go/software/qvr-pro-client)
     * [Smart Search](https://www.qnap.com/go/software/qvr-smart-search)
     * [Face Recognition](https://www.qnap.com/go/solution/qvr-face/)
@@ -948,7 +949,6 @@ Solution
     * [People Counting](https://www.qnap.com/go/software/qvr-human)
     * [Central Management System](https://www.qnap.com/go/software/qvr-center)
     * [Support Milestone Platform](https://www.qnap.com/go/solution/surveillance-milestone/)
-    * [Surveillance NAS Selector](https://www.qnap.com/go/qvr-nas-selector/)
     * [QVR Developer Center](https://www.qnap.com/go/solution/qvr-developer/)
     * [View All](https://www.qnap.com/go/solution/surveillance-smartvideo/)
 * ###### Product Security
