@@ -8,7 +8,7 @@ Table of Contents
 Terms of Use for Webhook.site
 -----------------------------
 
-Last Updated: 13 September 2024.
+Last Updated: 20 September 2024.
 
 ### 1\. Your Responsibilities
 
@@ -66,13 +66,11 @@ A full refund of a subscription period can be issued at most 14 days after creat
 
 The Service does not provide any guarantee of the availability, response time, uptime, throughput or any other kind of connectivity to the Service.
 
-#### 4.2 Data Storage
+#### 4.2 Data Storage Duration
 
-For Webhook.site URLs not belonging to a Webhook.site account, or a Webhook.site account with a cancelled subscription, data may be automatically deleted after 7 days.
+For Webhook.site URLs not belonging to a Webhook.site account, or to a Webhook.site account with a cancelled subscription, data may be automatically deleted after 7 days.
 
-For Webhook.site URLs belonging to a Webhook.site account with a paid subscription, data may be automatically deleted after a maximum of one year (365 days).
-
-Additionally, a maximum of 10000 requests or emails can be stored at any given URL, after which, the oldest data is periodically purged.
+For Webhook.site URLs belonging to a Webhook.site account with a paid subscription, request, emailhook or DNShook data may be automatically deleted after a maximum of one year (365 days). Additionally, a maximum of 10000 requests or emails can be stored at any given URL, after which, the oldest data is periodically purged.
 
 ### 5\. Intellectual Property Rights
 
@@ -111,7 +109,7 @@ These Terms constitute the entire agreement between us regarding our Service, an
 Privacy Policy for Webhook.site
 -------------------------------
 
-Last Updated: 6 February 2024.
+Last Updated: 20 September 2024.
 
 ### 1\. Who We Are
 
@@ -158,19 +156,17 @@ Google Analytics is used to collect and gather statistics.
 
 ### 4\. Data Retention
 
-Without user action, for non-Pro upgraded URLs, all data automatically expires and may be deleted after 7 days. For data related to Webhook.site Pro and Enterprise, see Terms and Conditions [section 4.2](#terms-4-2).
+Without user action, for data not associated with an upgraded account, all data automatically expires and may be deleted after 7 days. For data related to Webhook.site Pro and Enterprise, see Terms and Conditions [section 4.2](#terms-4-2).
+
+For expired Webhook.site accounts (due to e.g. missing payment), the account is automatically marked as inactive after 30 days. If no action is taken by the user (e.g. recreating the subscription or updating payment details), the account and all its associated data is automatically deleted permanently after 30 additional days.
 
 ### 5\. Your Rights
 
-If you have used the service and want to delete the data, "delete" buttons are present.
-
-User accounts can be deleted (resulting in subscription being canceled) by contacting [Webhook.site Support](https://support.webhook.site/).
+If you have used the Service and want to delete the data, "delete" buttons are present both for single objects as well as the user account in its entirety.
 
 ### 6\. Where We Send Your Data
 
 Data is not sent to third parties by Webhook.site.
-
-A user can choose to redirect content to any URL using the _Server Redirect_ feature, the response of which is logged in Webhook.site.
 
 ### 7\. Data Protection
 
