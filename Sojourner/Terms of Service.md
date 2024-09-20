@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-e5e13062adaaca715b4b576cfce8dabb
+960a3daed61491280ee16ab72f1a15be
 
 [](# "Expand for more options")[](# "Search")
 
@@ -142,11 +142,11 @@ Terms and Conditions
 
 ### Featured Product
 
-[![12 mm by 15 mm round faceted glass beads](https://sojourner.biz/images/cache/glass/GL0114.200.jpg)](https://sojourner.biz/beads/glass/12-mm-by-15-mm-round-faceted-glass-beads.html "12 mm by 15 mm round faceted glass beads")
+[![10 mm by 6 mm top-drilled vintage blue-green glass leaves](https://sojourner.biz/images/cache/glass/GL0199strand.200.jpg)](https://sojourner.biz/beads/glass/10-mm-by-6-mm-top-drilled-vintage-blue-green-glass-leaves.html "10 mm by 6 mm top-drilled vintage blue-green glass leaves")
 
-#### [12 mm by 15 mm round faceted glass beads](https://sojourner.biz/beads/glass/12-mm-by-15-mm-round-faceted-glass-beads.html "12 mm by 15 mm round faceted glass beads")
+#### [10 mm by 6 mm top-drilled vintage blue-green glass leaves](https://sojourner.biz/beads/glass/10-mm-by-6-mm-top-drilled-vintage-blue-green-glass-leaves.html "10 mm by 6 mm top-drilled vintage blue-green glass leaves")
 
-$9.00
+$4.00
 
 ### Best Sellers
 
