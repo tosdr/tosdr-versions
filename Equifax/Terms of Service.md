@@ -309,7 +309,7 @@
         
         [Financial Inclusion](https://www.equifax.com/about-equifax/financial-inclusion-hub/)
         
-        Inclusion and diversity is at the core of our shared values, and we are committed to seeking and embracing new and unique perspectives.
+        Positive economic change starts with a single financial opportunity. Equifax’s unique blend of data, analytics and technology unlocks innovative, financially-inclusive opportunities that move people forward.
         
         [Security](https://www.equifax.com/about-equifax/security/)
         
