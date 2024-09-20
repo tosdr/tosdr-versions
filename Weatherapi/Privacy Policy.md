@@ -1,7 +1,5 @@
  
 
-Pollen data and Weather Map overlay are coming soon.
-
 [![logo](//cdn.weatherapi.com/v4/images/weatherapi_logo.png)](https://www.weatherapi.com/)
 
 * [Features](https://www.weatherapi.com/api.aspx)
