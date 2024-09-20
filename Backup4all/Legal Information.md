@@ -142,15 +142,15 @@ We develop software that matters since 1999. These are our products: Backup4all/
 * [Forum](https://forum.backup4all.com/)
 * [Blog](https://blog.backup4all.com/)
 
-* [How to back up data files from T Cloud using ...](https://www.backup4all.com/how-to-back-up-data-files-from-t-cloud-using-backup4all-kb.html)  
+* [How to use the command line application](https://www.backup4all.com/how-to-use-the-command-line-application-kb.html)  
     
-* [How to back up data files from Box using Back ...](https://www.backup4all.com/how-to-back-up-data-files-from-box-using-backup4all-kb.html)  
+* [How to backup your data to Akaza](https://www.backup4all.com/how-to-backup-your-data-to-akaza-kb.html)  
     
-* [How to start your free Backup4all trial](https://www.backup4all.com/how-to-start-your-free-backup4all-trial-kb.html)  
+* [How to back up data files from Cisco using Ba ...](https://www.backup4all.com/how-to-back-up-data-files-from-cisco-using-backup4all-kb.html)  
     
-* [How to use "Clean destination folder" feature ...](https://www.backup4all.com/how-to-use-clean-destination-folder-feature-in-backup4all-kb.html)  
+* [How to filter a backup?](https://www.backup4all.com/how-to-filter-a-backup-kb.html)  
     
-* [How to force Backup4all to copy again some mi ...](https://www.backup4all.com/how-to-force-backup4all-to-copy-again-some-missing-files-in-destination-kb.html)  
+* [How to use independent zip splits in Backup4a ...](https://www.backup4all.com/how-to-use-independent-zip-splits-in-backup4all-kb.html)  
     
 
 Choose language:
