@@ -211,16 +211,20 @@ Renaissance has been honored with four SIIA CODiE Awards, including Best Educati
 
 Learn More
 
-![Hero image for the Privacy Hub page](https://www.renaissance.com/wp-content/uploads/2022/12/star-spanish-student-library-tablet-hero-banner.webp)
+![star spanish student in library with a tablet ](https://www.renaissance.com/wp-content/uploads/2022/12/star-spanish-student-library-tablet-hero-banner.webp)
 
 Privacy Hub
 ===========
 
-Last updated: September 3, 2024
+Last Page Update: WIP
 
-We recently updated the sub-processors connected to several Renaissance products. For more information, please review the revised list.
-
-[View the revised list](https://renaissance.widen.net/view/pdf/yvg6muiwxr/Vendors---Hosting-Data-Center.pdf?t.download=true&u=zceria)
+* [Note to Parents](javascript:void(0);)
+* [Product Privacy Notice](javascript:void(0);)
+* [Website Privacy Notice](javascript:void(0);)
+* [Information Security](javascript:void(0);)
+* [SOC2 Report](javascript:void(0);)
+* [Content Appropriateness](javascript:void(0);)
+* [Career Applicants](javascript:void(0);)
 
 Note to Parents of Students who use Renaissance Products
 --------------------------------------------------------
@@ -234,26 +238,34 @@ Products: Data Protection Addendum & Privacy Notices
 
 For information on Renaissance practices with respect to our software products and the privacy of all student data, refer to the documents below.
 
-#### US Customer Data Protection Addendum
+![United States Map](https://www.renaissance.com/wp-content/uploads/2024/06/us.webp)
+
+### United States
+
+Customer Data Protection Addendum
 
 [Read DPA](https://renaissance.widen.net/view/pdf/rtvix11tcw/US-Terms-of-Service-and-License---Exhibit-D---Personal-Data-Annex.pdf?u=zceria)
 
-#### UK/EU Customer Data Protection Addendum
+![UK/EU Map](https://www.renaissance.com/wp-content/uploads/2024/06/europe.webp)
 
-[Read DPA](https://docs.renaissance.com/R61743)
+### UK/EU
 
-#### Australia Privacy Notice
+Customer Data Protection Addendum
 
-[Read Australia notice](https://docs.renaissance.com/R63311)
+[Read DPA](https://renaissance.widen.net/view/pdf/vclhmbenic/UK-Terms-of-Service-and-License---Exhibit-D---Data-Protection-Addendum.pdf?t.download=true&u=zceria)
+
+![Australia Map](https://www.renaissance.com/wp-content/uploads/2024/06/australia.webp)
+
+### Australia
+
+Privacy Notice
+
+[Read Australia Notice](https://renlearncrm.sharepoint.com/sites/corpdocs/33/Australia%20New%20Zealand%20Privacy%20Notice.pdf)
 
 Website Privacy Notice
 ----------------------
 
-Read Website Privacy Notice
-
-Effective date: 4/16/2020
-
-Renaissance Learning, Inc. and its subsidiaries (collectively, “**Renaissance**”) consider the privacy and security of visitors to our websites to be of paramount importance. We have developed this privacy notice to inform you about our collection, use, and disclosure of personally identifiable information and non-personal information we receive from users of [renaissance.com](https://www.renaissance.com/), [freckle.com](https://www.freckle.com/), [myigdis.com](https://www.myigdis.com/), [schoolzilla.com](https://schoolzilla.com/) or related Renaissance websites where this Privacy Notice appears, including users accessing such website through content provided via emails from Renaissance (collectively, the “**Website**”). This Website is intended for users from the United States. For visitors from the European Union, please use [renlearn.co.uk](http://www.renlearn.co.uk/), which is governed by a different privacy notice.
+Renaissance Learning, Inc. and its subsidiaries (collectively, “**Renaissance**”) consider the privacy and security of visitors to our websites to be of paramount importance. We have developed this privacy notice to inform you about our collection, use, and disclosure of personally identifiable information and non-personal information we receive from users of [renaissance.com](https://www.renaissance.com/), [freckle.com](https://www.freckle.com/), [myigdis.com](https://www.myigdis.com/), [schoolzilla.com](https://schoolzilla.com/) or related Renaissance websites where this Privacy Notice appears, including users accessing such website through content provided via emails from Renaissance (collectively, the “**Website**”). This Website is intended for users from the United States. For visitors from the European Union, please use [renlearn.co.uk](http://www.renlearn.co.uk/), which is governed by a different privacy notice.
 
 Unless otherwise defined in this Privacy Notice, terms used in this Privacy Notice have the same meanings as in our Terms of Use, accessible at [renaissance.com/terms-of-use](https://www.renaissance.com/terms-of-use).
 
@@ -297,7 +309,7 @@ Subject to the usage of the third-party service providers discussed above, we do
 
 #### Children’s Personally Identifiable Information
 
-We do not direct the Website to nor do we knowingly collect any personally identifiable information from children under 13 (“children’s personally identifiable information”). **Children under the age of 13 are specifically requested to NOT provide any personally identifiable information through this Website.**  If you become aware that a child has provided us with personally identifiable information without parental consent, please contact us at [\[email protected\]](https://www.renaissance.com/cdn-cgi/l/email-protection). If we become aware that a child under 13 has provided us with personally identifiable information, we take commercially reasonable steps to remove such information and terminate the child’s account.
+We do not direct the Website to nor do we knowingly collect any personally identifiable information from children under 13 (“children’s personally identifiable information”). **Children under the age of 13 are specifically requested to NOT provide any personally identifiable information through this Website.**  If you become aware that a child has provided us with personally identifiable information without parental consent, please contact us at [\[email protected\]](https://www.renaissance.com/cdn-cgi/l/email-protection). If we become aware that a child under 13 has provided us with personally identifiable information, we take commercially reasonable steps to remove such information and terminate the child’s account.
 
 #### Cookies
 
@@ -331,9 +343,9 @@ Your information may be transferred to—and maintained on—computers located o
 
 #### EU – U.S. Privacy Shield
 
-Renaissance participates in and complies with the EU-U.S. Privacy Shield Framework (the “Framework”). Renaissance has certified that it adheres to the Privacy Shield Principles of Notice; Choice; Accountability for Onward Transfer; Security; Data Integrity and Purpose Limitation; Access; and Recourse, Enforcement and Liability. If there is any conflict between the policies in this Website Privacy Notice and the Privacy Shield Principles the Privacy Shield Principles shall govern. To learn more about the Privacy Shield Framework, visit [privacyshield.gov/](https://www.privacyshield.gov/). To view our certification, visit the [U.S. Department of Commerce’s Privacy Shield List](https://www.privacyshield.gov/list). 
+Renaissance participates in and complies with the EU-U.S. Privacy Shield Framework (the “Framework”). Renaissance has certified that it adheres to the Privacy Shield Principles of Notice; Choice; Accountability for Onward Transfer; Security; Data Integrity and Purpose Limitation; Access; and Recourse, Enforcement and Liability. If there is any conflict between the policies in this Website Privacy Notice and the Privacy Shield Principles the Privacy Shield Principles shall govern. To learn more about the Privacy Shield Framework, visit [privacyshield.gov/](https://www.privacyshield.gov/). To view our certification, visit the [U.S. Department of Commerce’s Privacy Shield List](https://www.privacyshield.gov/list). 
 
-Renaissance is responsible for the processing of personal data it received, under the Framework. For personal data transferred from the EU, if Renaissance transfers your personal data to a third party, Renaissance will ensure that the third party is contractually obligated to process your data only for limited, specific purposes consistent with this Website Privacy Notice. Renaissance will also ensure that the third party will apply the same level of protection to that data as the EU-U.S. Privacy Shield Principles and will notify us if it makes a determination that it can no longer meet this obligation. Renaissance also complies with the Privacy Shield Principles for the onward transfer liability provisions. You have the option to request that your personal data not be disclosed to a third party, although this may impact your ability to access or the functionality of our products and services. 
+Renaissance is responsible for the processing of personal data it received, under the Framework. For personal data transferred from the EU, if Renaissance transfers your personal data to a third party, Renaissance will ensure that the third party is contractually obligated to process your data only for limited, specific purposes consistent with this Website Privacy Notice. Renaissance will also ensure that the third party will apply the same level of protection to that data as the EU-U.S. Privacy Shield Principles and will notify us if it makes a determination that it can no longer meet this obligation. Renaissance also complies with the Privacy Shield Principles for the onward transfer liability provisions. You have the option to request that your personal data not be disclosed to a third party, although this may impact your ability to access or the functionality of our products and services. 
 
 You can also request that the personal data not be used for a purpose materially different than that for which it was collected or authorized. Please use the contact information below to inquire further or to make a request. 
 
@@ -358,11 +370,6 @@ If you have any questions about this Website Privacy Notice, the practices of th
 ATTN: Privacy Inquiry | DPO  
 6625 W. 78th Street, Suite 220, Bloomington, MN 55439
 
-CCPA
-----
-
-[California Consumer Privacy Act of 2018](https://renaissance.widen.net/view/pdf/afxbltwqqq/Privacy-Notice-for-California-Residents.pdf)
-
 Information Security
 --------------------
 
@@ -373,10 +380,9 @@ Information Security is a critical aspect of Renaissance’s business. For detai
 System and Organization Controls
 --------------------------------
 
-Our Information Security & Compliance Program completes the SOC 2 Type 2 examination of controls on an annual basis. For more information and to request a copy of the report, please visit our Trust Center.  
-![SOC2](/wp-content/uploads/2023/01/SOC-Award.webp)
+Our Information Security & Compliance Program completes the SOC 2 Type 2 examination of controls on an annual basis. For more information and to request a copy of the report, please visit our Trust Center.
 
-[Renaissance Trust Center](https://trust.renaissance.com/)
+[Renaissance Trust Center](https://trust.renaissance.com/?_gl=1*1v1tjjf*_gcl_au*NjA4MjM2MjUyLjE3MTU3MjMzMjE.)
 
 Renaissance’s Commitment to Diversity, Equity, and Inclusion in Education
 -------------------------------------------------------------------------
@@ -388,7 +394,9 @@ Renaissance’s mission is to accelerate learning for all children and adults of
 Career Applicants
 -----------------
 
-[Notice for California Residents](https://docs.renaissance.com/R63342)
+Job Applicant Privacy Notice for California Residents.
+
+[Notice for California Residents](https://renaissance.widen.net/view/pdf/8idcjno64k/CCPA-HR-Privacy-Notice---Applicants-2021.pdf?t.download=true&u=zceria)
 
 See Every Student.
 
