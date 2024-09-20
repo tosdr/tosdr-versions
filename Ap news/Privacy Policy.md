@@ -14,7 +14,7 @@ Menu
     
     * [Hezbollah leader vows retaliation against Israel for attacks on devices as both sides trade strikes](https://apnews.com/article/israel-lebanon-exploding-devices-hezbollah-mideast-ab2436cf5bae5e2fe2dddb293671a0ac)
     * [Thousands of exploding devices in Lebanon trigger a nation that has been on edge for years](https://apnews.com/article/lebanon-pagers-hezbollahexplosion-israel-beirut-port-6c51ff6c743ba63154b95790357d31df)
-    * [Israeli soldiers pushed three apparently lifeless bodies from roofs during a West Bank raid](https://apnews.com/article/israel-palestinians-soldiers-qabatiya-west-bank-ae65d70f7da5db4603ba1b7c77f2ccd3)
+    * [Western nations were desperate for Korean babies. Now many adoptees believe they were stolen](https://apnews.com/article/south-korean-adoptions-investigation-united-states-europe-67d6bb03fddede7dcca199c2e3cd486e)
     
     Newsletters
     
@@ -52,9 +52,9 @@ Menu
     
     TOP STORIES
     
-    * [Harris hopes to turn Ukraine war into winning issue in battle with Trump for Polish American votes](https://apnews.com/article/kamala-harris-polish-american-voters-trump-4a0bb4126ab2ded70cf78bb76501d7d9)
-    * [Teamsters union declines to endorse Trump or Harris for president](https://apnews.com/article/teamsters-endorse-presidential-election-2d29668ace1ce239b7b6b209409bb6f5)
-    * [Iranian hackers tried but failed to interest Biden's campaign in stolen Trump info, FBI says](https://apnews.com/article/iran-fbi-election-interference-dni-ae96f57f438772dac08e076be7aa4904)
+    * [Voters split on whether Harris or Trump would do a better job on the economy: AP-NORC poll](https://apnews.com/article/harris-trump-economy-poll-inflation-dc80ac9e5d7da42900762910d5f0a283)
+    * [Harris looks for boost from Oprah as part of digital-first media strategy](https://apnews.com/article/oprah-harris-michigan-trump-4ccf9234d489a61b5dacbde32fe015ca)
+    * [Trump vows to be 'best friend' to Jewish Americans, as allegations of ally's antisemitism surface](https://apnews.com/article/harris-trump-oprah-winfrey-miriam-adelson-f9384395f54a0d071ab52bca80d3659e)
     
     Newsletters
     
@@ -72,9 +72,9 @@ Menu
     
     TOP STORIES
     
+    * [Seeking to counter China, US awards $3 billion for EV battery production in 14 states](https://apnews.com/article/ev-batteries-lithium-biden-harris-china-3eaa57b34878a23dd55fe167eb8095f2)
     * [Voters split on whether Harris or Trump would do a better job on the economy: AP-NORC poll](https://apnews.com/article/harris-trump-economy-poll-inflation-dc80ac9e5d7da42900762910d5f0a283)
     * [The politics of immigration play differently along the US-Mexico border](https://apnews.com/article/immigration-border-town-us-mexico-7b0e02f167bb6d01159f2fda80566752)
-    * [In-person voting for the US presidential contest is about to start as Election Day closes in](https://apnews.com/article/early-voting-presidential-election-trump-harris-7fb7a8ff28490f71cd15529321dfe765)
     
     Newsletters
     
@@ -114,9 +114,9 @@ Menu
     
     TOP STORIES
     
+    * [French cult film 'La Haine' returns as hip-hop musical with tensions persisting in poor suburbs](https://apnews.com/article/la-haine-stage-musical-france-cult-film-8f35b88ea4c3a700c260deed3a4a27d6)
     * [Movie Review: 'The Substance' is brilliantly disgusting and deranged](https://apnews.com/article/substance-demi-moore-review-ac324cb066b487b1ffe748d5b41a34ae)
     * [Happy 50th 'SNL!' Here's a look back at the show's very first cast](https://apnews.com/article/saturday-night-live-snl-original-cast-7e6475d12a0be575c1f9825fc276a6a2)
-    * [Keith Urban says 'High' is about order and chaos, with songs about love, life and his late father](https://apnews.com/article/keith-urban-high-album-57d69f7f303c6043123bc24da7e980ad)
     
 * [Business](https://apnews.com/business)
     
@@ -126,8 +126,8 @@ Menu
     
     TOP STORIES
     
+    * [Seeking to counter China, US awards $3 billion for EV battery production in 14 states](https://apnews.com/article/ev-batteries-lithium-biden-harris-china-3eaa57b34878a23dd55fe167eb8095f2)
     * [At Google antitrust trial, documents say one thing. The tech giant's witnesses say different](https://apnews.com/article/google-antitrust-monopoly-ads-trial-f13bdceec0ed494973300b797f2f2990)
-    * [Asian stocks follow Wall Street's rate-cut rally higher, as BOJ stands pat](https://apnews.com/article/stocks-markets-rates-fed-japan-acfb636ed8e0e341a1e93b1567ff0358)
     * [Biden says Fed made 'declaration of progress' with interest rate cut](https://apnews.com/article/joe-biden-economics-fed-harris-federal-reserve-29c3216e0b7f86f351adae8e0aef646a)
     
 * [Science](https://apnews.com/science)
@@ -247,7 +247,7 @@ Menu
     * [Scientists show how pregnancy changes the brain in innumerable ways](https://apnews.com/article/pregnancy-brain-changes-mri-164b505abd05d3e5c9d93c0ef2953a80)
     * [Menopause can bring on dental problems, but you can protect your mouth](https://apnews.com/article/menopause-dental-dry-mouth-estrogen-414c39e119f4d3f17e9be289c9dd6914)
     * [Florida hospitals ask immigrants about their legal status. Texas will try it next](https://apnews.com/article/immigration-hospitals-florida-texas-desantis-abbott-21faed1d4d1b984ea3557d09f22dab9d)
-    * [A gold mining town in Congo has become an mpox hot spot as a new strain spreads](https://apnews.com/article/mpox-new-strain-outbreak-kamituga-eastern-congo-f9affb7a7d73c8c30daf296c51c920c7)
+    * [Scientists in South Africa say they have identified the first known outbreak of rabies in seals](https://apnews.com/article/seals-rabies-south-africa-environment-wildlife-faafc6b19a3e211853cd50952c5c802b)
     
 * [Tech](https://apnews.com/technology)
     
@@ -258,8 +258,8 @@ Menu
     TOP STORIES
     
     * [Apple begins testing AI software designed to bring a smarter Siri to the iPhone 16](https://apnews.com/article/apple-artificial-intelligence-iphone-16-siri-3bbf16e06e29f09320dcbefcf4ffc40b)
-    * [The Lebanon explosions raise a question: Deep into the smartphone era, who is still using pagers?](https://apnews.com/article/pagers-explosions-lebanon-doctors-security-israel-f35bd0f0e0a57bb5f37c139d1f32926d)
     * [UN experts urge United Nations to lay foundations for global governance of artificial intelligence](https://apnews.com/article/un-artificial-intelligence-global-governance-risks-benefits-f755788da7d5905fcc2d44edf93c4bec)
+    * [At Google antitrust trial, documents say one thing. The tech giant's witnesses say different](https://apnews.com/article/google-antitrust-monopoly-ads-trial-f13bdceec0ed494973300b797f2f2990)
     
 * [Lifestyle](https://apnews.com/lifestyle)
     
@@ -269,9 +269,9 @@ Menu
     
     TOP STORIES
     
+    * [Turkey wants to regulate Germany's beloved döner kebab street food](https://apnews.com/article/germany-turkey-doner-kebab-45c9582057c544935420e917c305f15a)
     * [Through two games, Giants offensive line has shown some improvement](https://apnews.com/article/ny-giants-offensive-line-2e9896ca93e8ba254028fc2abda6e77a)
     * [This fund has launched some of the biggest names in fashion. It's marking 20 years](https://apnews.com/article/cfda-vogue-fashion-fund-20-years-0a80ae1f9d2827fd17358299149c4587)
-    * [Nearly 138,000 beds are being recalled after reports of them breaking or collapsing during use](https://apnews.com/article/bed-recall-lucid-fall-injuries-cpsc-7cb837e8c011586c4f2dd526f9fd2e0f)
     
 * [Religion](https://apnews.com/religion)
     
@@ -296,8 +296,8 @@ Menu
     * [La reforma para pasar la Guardia Nacional a manos del Ejército avanza en el Congreso mexicano](https://apnews.com/world-news/general-news-224924522909b55b5729eaca0331c634)
     * [Diez años sin respuestas en México. Los padres de los 43 desaparecidos de Ayotzinapa no se rinden](https://apnews.com/world-news/general-news-e7e00859ee3dc4dd12afd36c7e8f378b)
     * [La noche de la desaparición de 43 estudiantes en el sur de México, en la voz de un superviviente](https://apnews.com/world-news/general-news-29eaf6828082b471997025bf995674cd)
+    * [AP Fotos: Las mejores fotos de la semana en América Latina](https://apnews.com/world-news/general-news-7801a02a6f4d9b28b964511fb7ecc752)
     * [Líder de Hezbollah dice que detonaciones fueron "golpe severo" que cruzaron una "línea roja"](https://apnews.com/world-news/general-news-9f0fd437f64ccb1c7ba77bf98cb4c580)
-    * [Las explosiones de dispositivos asestan duro golpe a Hezbollah, pero no fulminante, dicen analistas](https://apnews.com/world-news/general-news-8519fa0bf94296b1066e218df16971cc)
     * [Harris busca el impulso de Oprah como parte de su estrategia de medios digitales](https://apnews.com/politics/harris-busca-el-impulso-de-oprah-como-parte-de-su-estrategia-de-medios-digitales-84228a7a1a0085df0b42bf5af4e0cf08)
     
 * [AP Buyline Personal Finance](https://apnews.com/buyline-personal-finance/)
@@ -455,7 +455,7 @@ Submit Search
     
     * [Hezbollah leader vows retaliation against Israel for attacks on devices as both sides trade strikes](https://apnews.com/article/israel-lebanon-exploding-devices-hezbollah-mideast-ab2436cf5bae5e2fe2dddb293671a0ac)
     * [Thousands of exploding devices in Lebanon trigger a nation that has been on edge for years](https://apnews.com/article/lebanon-pagers-hezbollahexplosion-israel-beirut-port-6c51ff6c743ba63154b95790357d31df)
-    * [Israeli soldiers pushed three apparently lifeless bodies from roofs during a West Bank raid](https://apnews.com/article/israel-palestinians-soldiers-qabatiya-west-bank-ae65d70f7da5db4603ba1b7c77f2ccd3)
+    * [Western nations were desperate for Korean babies. Now many adoptees believe they were stolen](https://apnews.com/article/south-korean-adoptions-investigation-united-states-europe-67d6bb03fddede7dcca199c2e3cd486e)
     
     Newsletters
     
@@ -498,9 +498,9 @@ Submit Search
     
     TOP STORIES
     
-    * [Harris hopes to turn Ukraine war into winning issue in battle with Trump for Polish American votes](https://apnews.com/article/kamala-harris-polish-american-voters-trump-4a0bb4126ab2ded70cf78bb76501d7d9)
-    * [Teamsters union declines to endorse Trump or Harris for president](https://apnews.com/article/teamsters-endorse-presidential-election-2d29668ace1ce239b7b6b209409bb6f5)
-    * [Iranian hackers tried but failed to interest Biden's campaign in stolen Trump info, FBI says](https://apnews.com/article/iran-fbi-election-interference-dni-ae96f57f438772dac08e076be7aa4904)
+    * [Voters split on whether Harris or Trump would do a better job on the economy: AP-NORC poll](https://apnews.com/article/harris-trump-economy-poll-inflation-dc80ac9e5d7da42900762910d5f0a283)
+    * [Harris looks for boost from Oprah as part of digital-first media strategy](https://apnews.com/article/oprah-harris-michigan-trump-4ccf9234d489a61b5dacbde32fe015ca)
+    * [Trump vows to be 'best friend' to Jewish Americans, as allegations of ally's antisemitism surface](https://apnews.com/article/harris-trump-oprah-winfrey-miriam-adelson-f9384395f54a0d071ab52bca80d3659e)
     
     Newsletters
     
@@ -523,9 +523,9 @@ Submit Search
     
     TOP STORIES
     
+    * [Seeking to counter China, US awards $3 billion for EV battery production in 14 states](https://apnews.com/article/ev-batteries-lithium-biden-harris-china-3eaa57b34878a23dd55fe167eb8095f2)
     * [Voters split on whether Harris or Trump would do a better job on the economy: AP-NORC poll](https://apnews.com/article/harris-trump-economy-poll-inflation-dc80ac9e5d7da42900762910d5f0a283)
     * [The politics of immigration play differently along the US-Mexico border](https://apnews.com/article/immigration-border-town-us-mexico-7b0e02f167bb6d01159f2fda80566752)
-    * [In-person voting for the US presidential contest is about to start as Election Day closes in](https://apnews.com/article/early-voting-presidential-election-trump-harris-7fb7a8ff28490f71cd15529321dfe765)
     
     Newsletters
     
@@ -582,9 +582,9 @@ Submit Search
     
     TOP STORIES
     
+    * [French cult film 'La Haine' returns as hip-hop musical with tensions persisting in poor suburbs](https://apnews.com/article/la-haine-stage-musical-france-cult-film-8f35b88ea4c3a700c260deed3a4a27d6)
     * [Movie Review: 'The Substance' is brilliantly disgusting and deranged](https://apnews.com/article/substance-demi-moore-review-ac324cb066b487b1ffe748d5b41a34ae)
     * [Happy 50th 'SNL!' Here's a look back at the show's very first cast](https://apnews.com/article/saturday-night-live-snl-original-cast-7e6475d12a0be575c1f9825fc276a6a2)
-    * [Keith Urban says 'High' is about order and chaos, with songs about love, life and his late father](https://apnews.com/article/keith-urban-high-album-57d69f7f303c6043123bc24da7e980ad)
     
 * [Business](https://apnews.com/business)
     
@@ -598,8 +598,8 @@ Submit Search
     
     TOP STORIES
     
+    * [Seeking to counter China, US awards $3 billion for EV battery production in 14 states](https://apnews.com/article/ev-batteries-lithium-biden-harris-china-3eaa57b34878a23dd55fe167eb8095f2)
     * [At Google antitrust trial, documents say one thing. The tech giant's witnesses say different](https://apnews.com/article/google-antitrust-monopoly-ads-trial-f13bdceec0ed494973300b797f2f2990)
-    * [Asian stocks follow Wall Street's rate-cut rally higher, as BOJ stands pat](https://apnews.com/article/stocks-markets-rates-fed-japan-acfb636ed8e0e341a1e93b1567ff0358)
     * [Biden says Fed made 'declaration of progress' with interest rate cut](https://apnews.com/article/joe-biden-economics-fed-harris-federal-reserve-29c3216e0b7f86f351adae8e0aef646a)
     
 * [Science](https://apnews.com/science)
@@ -732,7 +732,7 @@ Submit Search
     * [Scientists show how pregnancy changes the brain in innumerable ways](https://apnews.com/article/pregnancy-brain-changes-mri-164b505abd05d3e5c9d93c0ef2953a80)
     * [Menopause can bring on dental problems, but you can protect your mouth](https://apnews.com/article/menopause-dental-dry-mouth-estrogen-414c39e119f4d3f17e9be289c9dd6914)
     * [Florida hospitals ask immigrants about their legal status. Texas will try it next](https://apnews.com/article/immigration-hospitals-florida-texas-desantis-abbott-21faed1d4d1b984ea3557d09f22dab9d)
-    * [A gold mining town in Congo has become an mpox hot spot as a new strain spreads](https://apnews.com/article/mpox-new-strain-outbreak-kamituga-eastern-congo-f9affb7a7d73c8c30daf296c51c920c7)
+    * [Scientists in South Africa say they have identified the first known outbreak of rabies in seals](https://apnews.com/article/seals-rabies-south-africa-environment-wildlife-faafc6b19a3e211853cd50952c5c802b)
     
 * [Tech](https://apnews.com/technology)
     
@@ -746,8 +746,8 @@ Submit Search
     TOP STORIES
     
     * [Apple begins testing AI software designed to bring a smarter Siri to the iPhone 16](https://apnews.com/article/apple-artificial-intelligence-iphone-16-siri-3bbf16e06e29f09320dcbefcf4ffc40b)
-    * [The Lebanon explosions raise a question: Deep into the smartphone era, who is still using pagers?](https://apnews.com/article/pagers-explosions-lebanon-doctors-security-israel-f35bd0f0e0a57bb5f37c139d1f32926d)
     * [UN experts urge United Nations to lay foundations for global governance of artificial intelligence](https://apnews.com/article/un-artificial-intelligence-global-governance-risks-benefits-f755788da7d5905fcc2d44edf93c4bec)
+    * [At Google antitrust trial, documents say one thing. The tech giant's witnesses say different](https://apnews.com/article/google-antitrust-monopoly-ads-trial-f13bdceec0ed494973300b797f2f2990)
     
 * [Lifestyle](https://apnews.com/lifestyle)
     
@@ -765,9 +765,9 @@ Submit Search
     
     TOP STORIES
     
+    * [Turkey wants to regulate Germany's beloved döner kebab street food](https://apnews.com/article/germany-turkey-doner-kebab-45c9582057c544935420e917c305f15a)
     * [Through two games, Giants offensive line has shown some improvement](https://apnews.com/article/ny-giants-offensive-line-2e9896ca93e8ba254028fc2abda6e77a)
     * [This fund has launched some of the biggest names in fashion. It's marking 20 years](https://apnews.com/article/cfda-vogue-fashion-fund-20-years-0a80ae1f9d2827fd17358299149c4587)
-    * [Nearly 138,000 beds are being recalled after reports of them breaking or collapsing during use](https://apnews.com/article/bed-recall-lucid-fall-injuries-cpsc-7cb837e8c011586c4f2dd526f9fd2e0f)
     
 * [Religion](https://apnews.com/religion)
     
@@ -792,8 +792,8 @@ Submit Search
     * [La reforma para pasar la Guardia Nacional a manos del Ejército avanza en el Congreso mexicano](https://apnews.com/world-news/general-news-224924522909b55b5729eaca0331c634)
     * [Diez años sin respuestas en México. Los padres de los 43 desaparecidos de Ayotzinapa no se rinden](https://apnews.com/world-news/general-news-e7e00859ee3dc4dd12afd36c7e8f378b)
     * [La noche de la desaparición de 43 estudiantes en el sur de México, en la voz de un superviviente](https://apnews.com/world-news/general-news-29eaf6828082b471997025bf995674cd)
+    * [AP Fotos: Las mejores fotos de la semana en América Latina](https://apnews.com/world-news/general-news-7801a02a6f4d9b28b964511fb7ecc752)
     * [Líder de Hezbollah dice que detonaciones fueron "golpe severo" que cruzaron una "línea roja"](https://apnews.com/world-news/general-news-9f0fd437f64ccb1c7ba77bf98cb4c580)
-    * [Las explosiones de dispositivos asestan duro golpe a Hezbollah, pero no fulminante, dicen analistas](https://apnews.com/world-news/general-news-8519fa0bf94296b1066e218df16971cc)
     * [Harris busca el impulso de Oprah como parte de su estrategia de medios digitales](https://apnews.com/politics/harris-busca-el-impulso-de-oprah-como-parte-de-su-estrategia-de-medios-digitales-84228a7a1a0085df0b42bf5af4e0cf08)
     
 * [AP Buyline Personal Finance](https://apnews.com/buyline-personal-finance/)
