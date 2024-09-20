@@ -34,11 +34,11 @@ Login Stay logged in
 
 Latest Forum Topics
 
-* [Hot or Cold: BN/BU Edition (1,094)](https://forum.nationstates.net/viewtopic.php?t=553202&f=25&view=unread#unread ""Hot or Cold: BN/BU Edition" (1,094 posts)")
-* [Does Your Nation Support? (7,939)](https://forum.nationstates.net/viewtopic.php?t=524926&f=25&view=unread#unread ""Does Your Nation Support?" (7,939 posts)")
-* [YOU'RE FIRED! (96)](https://forum.nationstates.net/viewtopic.php?t=555261&f=25&view=unread#unread ""YOU'RE FIRED!" (96 posts)")
-* [The One Spacecraft \[IC\] \[Ft\] (57)](https://forum.nationstates.net/viewtopic.php?t=555407&f=31&view=unread#unread ""The One Spacecraft [IC] [Ft]" (57 posts)")
-* [Give AN A Nickname! (888)](https://forum.nationstates.net/viewtopic.php?t=553555&f=25&view=unread#unread ""Give AN A Nickname!" (888 posts)")
+* [Your nation's punishment for the abov… (2,677)](https://forum.nationstates.net/viewtopic.php?t=545645&f=25&view=unread#unread ""Your nation's punishment for the above crime V" (2,677 posts)")
+* [Commend or Condemn AN II (660)](https://forum.nationstates.net/viewtopic.php?t=553545&f=25&view=unread#unread ""Commend or Condemn AN II" (660 posts)")
+* [Guess how old the user behind AN is (894)](https://forum.nationstates.net/viewtopic.php?t=551620&f=25&view=unread#unread ""Guess how old the user behind AN is" (894 posts)")
+* [How is AN morally aligned in DnD? (RE… (856)](https://forum.nationstates.net/viewtopic.php?t=550821&f=25&view=unread#unread ""How is AN morally aligned in DnD? (REVIVAL)" (856 posts)")
+* [What do you love about AN? (1,328)](https://forum.nationstates.net/viewtopic.php?t=551356&f=25&view=unread#unread ""What do you love about AN?" (1,328 posts)")
 
 Advertisement
 
