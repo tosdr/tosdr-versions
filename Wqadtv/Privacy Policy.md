@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/aa77a2fe-7842-4432-b286-55e0fa96ab11/20240523T232213/aa77a2fe-7842-4432-b286-55e0fa96ab11_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/aa77a2fe-7842-4432-b286-55e0fa96ab11/20240523T232213/aa77a2fe-7842-4432-b286-55e0fa96ab11_360x203.jpg)](https://www.wqad.com/article/news/local/heres-whats-in-store-for-the-qc-marathon-this-weekend/526-88291e87-5820-41c8-9b26-610f673d700f)
+        
+        #### [Here's what's in store for the QC Marathon this weekend](https://www.wqad.com/article/news/local/heres-whats-in-store-for-the-qc-marathon-this-weekend/526-88291e87-5820-41c8-9b26-610f673d700f)
+        
     *  [![](https://media.tegna-media.com/assets/WQAD/images/f6a2858c-b7d5-4e52-be8b-2164c80f3032/20240919T213219/f6a2858c-b7d5-4e52-be8b-2164c80f3032_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/f6a2858c-b7d5-4e52-be8b-2164c80f3032/20240919T213219/f6a2858c-b7d5-4e52-be8b-2164c80f3032_360x203.jpg)](https://www.wqad.com/article/news/local/centennial-bridge-shutting-lights-off-migrating-birds/526-af6b0b46-2799-4c68-b8e0-78a1a54b9c42)
         
         #### [Centennial Bridge shuts its lights off for migrating birds](https://www.wqad.com/article/news/local/centennial-bridge-shutting-lights-off-migrating-birds/526-af6b0b46-2799-4c68-b8e0-78a1a54b9c42)
-        
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/1cb48a16-c5de-4242-b677-d2f6cc97813b/20240918T233806/1cb48a16-c5de-4242-b677-d2f6cc97813b_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/1cb48a16-c5de-4242-b677-d2f6cc97813b/20240918T233806/1cb48a16-c5de-4242-b677-d2f6cc97813b_360x203.jpg)](https://www.wqad.com/article/news/local/as-seen-on-tv/hyvee-honor-flight-quad-cities-veterans-travel-washington-application/526-971d4be3-7a18-4ce8-a6e4-37ae9b5d1f4a)
-        
-        #### ['Once in a lifetime chance' | 80 local veterans return from 14th Hy-Vee Honor Flight](https://www.wqad.com/article/news/local/as-seen-on-tv/hyvee-honor-flight-quad-cities-veterans-travel-washington-application/526-971d4be3-7a18-4ce8-a6e4-37ae9b5d1f4a)
         
     
 * [Weather](https://www.wqad.com/weather)
@@ -56,13 +56,13 @@ Navigation
     
     Latest Weather Stories
     
+    *  [![](https://media.tegna-media.com/assets/KARE/images/c6306684-4c3a-475e-87d3-405075266334/20240920T120937/c6306684-4c3a-475e-87d3-405075266334_16x9.jpg) ![](https://media.tegna-media.com/assets/KARE/images/c6306684-4c3a-475e-87d3-405075266334/20240920T120937/c6306684-4c3a-475e-87d3-405075266334_360x203.jpg)](https://www.wqad.com/article/weather/national-weather-service-tornado-st-louis-county/89-0ed781aa-9541-4b23-819b-a351e20c8af1)
+        
+        #### [NWS confirms tornado touched down in northern Minnesota](https://www.wqad.com/article/weather/national-weather-service-tornado-st-louis-county/89-0ed781aa-9541-4b23-819b-a351e20c8af1)
+        
     *  [![](https://media.tegna-media.com/assets/WQAD/images/1f3c163d-f76d-4941-b33a-41aa3f493833/20240920T121509/1f3c163d-f76d-4941-b33a-41aa3f493833_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/1f3c163d-f76d-4941-b33a-41aa3f493833/20240920T121509/1f3c163d-f76d-4941-b33a-41aa3f493833_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
         #### [More rainfall opportunities ahead this weekend](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
-        
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/daaebd14-c02f-4777-982b-67701e0d036f/20240918T134904/daaebd14-c02f-4777-982b-67701e0d036f_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/daaebd14-c02f-4777-982b-67701e0d036f/20240918T134904/daaebd14-c02f-4777-982b-67701e0d036f_360x203.jpg)](https://www.wqad.com/video/news/live_breaking/ask-andrew-live-episode-1/526-edcd839a-9189-4088-800e-a5cf184394ab)
-        
-        #### [Ask Andrew Live](https://www.wqad.com/video/news/live_breaking/ask-andrew-live-episode-1/526-edcd839a-9189-4088-800e-a5cf184394ab)
         
     
 * [Sports](https://www.wqad.com/sports)
@@ -86,7 +86,7 @@ Navigation
 
 Davenport, IA »
 
-83°
+89°
 
 ![Sunny](/assets/shared-images/weather-icons/clear-day_210x210.png)
 
