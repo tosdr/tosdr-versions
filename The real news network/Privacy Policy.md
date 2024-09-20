@@ -72,16 +72,16 @@ Follow Us
 Trending Posts
 --------------
 
-* [The Harris-Trump debate was a slap in the face to us all](https://therealnews.com/the-harris-trump-debate-was-a-slap-in-the-face-to-us-all)
 * [In 8 days, Missouri could execute an innocent man](https://therealnews.com/in-8-days-missouri-could-execute-an-innocent-man)
+* [The Harris-Trump debate was a slap in the face to us all](https://therealnews.com/the-harris-trump-debate-was-a-slap-in-the-face-to-us-all)
 * [Defending Trump may seem absurd—I spoke to a Black woman who does it every day](https://therealnews.com/defending-trump-may-seem-absurd-i-spoke-to-a-black-woman-who-does-it-every-day)
 * [Into the maelstrom: Can French democracy survive its political crisis?](https://therealnews.com/into-the-maelstrom-can-french-democracy-survive-its-political-crisis)
 * [Cops cuffed her for failing to signal, but a camera turned their plan upside down](https://therealnews.com/cops-cuffed-her-for-failing-to-signal-but-a-camera-turned-their-plan-upside-down)
-* [Black, conservative, and unapologetic: A deep dive with the Black women fighting to get Trump reelected](https://therealnews.com/black-conservative-and-unapologetic-a-deep-dive-with-the-black-women-fighting-to-get-trump-reelected)
 * [The latest theories on how Rey Rivera died don't point to the rooftop](https://therealnews.com/the-latest-theories-on-how-rey-rivera-died-dont-point-to-the-rooftop)
-* [Harris clobbered Trump in the debate—but does it matter?](https://therealnews.com/harris-clobbered-trump-in-the-debate-but-does-it-matter)
+* [Black, conservative, and unapologetic: A deep dive with the Black women fighting to get Trump reelected](https://therealnews.com/black-conservative-and-unapologetic-a-deep-dive-with-the-black-women-fighting-to-get-trump-reelected)
 * ['An act of terror': Israel behind pager explosions that killed 11, wounded thousands](https://therealnews.com/an-act-of-terror-israel-behind-pager-explosions-that-killed-11-wounded-thousands)
 * [Unmarked Sacramento gang unit cops stop, arrest father and child at gunpoint](https://therealnews.com/unmarked-sacramento-gang-unit-cops-stop-arrest-father-and-child-at-gunpoint)
+* [California is about to execute an innocent Black man](https://therealnews.com/california-is-about-to-execute-an-innocent-black-man)
 
 Close
 
@@ -136,16 +136,16 @@ Follow Us
 Trending Posts
 --------------
 
-* [The Harris-Trump debate was a slap in the face to us all](https://therealnews.com/the-harris-trump-debate-was-a-slap-in-the-face-to-us-all)
 * [In 8 days, Missouri could execute an innocent man](https://therealnews.com/in-8-days-missouri-could-execute-an-innocent-man)
+* [The Harris-Trump debate was a slap in the face to us all](https://therealnews.com/the-harris-trump-debate-was-a-slap-in-the-face-to-us-all)
 * [Defending Trump may seem absurd—I spoke to a Black woman who does it every day](https://therealnews.com/defending-trump-may-seem-absurd-i-spoke-to-a-black-woman-who-does-it-every-day)
 * [Into the maelstrom: Can French democracy survive its political crisis?](https://therealnews.com/into-the-maelstrom-can-french-democracy-survive-its-political-crisis)
 * [Cops cuffed her for failing to signal, but a camera turned their plan upside down](https://therealnews.com/cops-cuffed-her-for-failing-to-signal-but-a-camera-turned-their-plan-upside-down)
-* [Black, conservative, and unapologetic: A deep dive with the Black women fighting to get Trump reelected](https://therealnews.com/black-conservative-and-unapologetic-a-deep-dive-with-the-black-women-fighting-to-get-trump-reelected)
 * [The latest theories on how Rey Rivera died don't point to the rooftop](https://therealnews.com/the-latest-theories-on-how-rey-rivera-died-dont-point-to-the-rooftop)
-* [Harris clobbered Trump in the debate—but does it matter?](https://therealnews.com/harris-clobbered-trump-in-the-debate-but-does-it-matter)
+* [Black, conservative, and unapologetic: A deep dive with the Black women fighting to get Trump reelected](https://therealnews.com/black-conservative-and-unapologetic-a-deep-dive-with-the-black-women-fighting-to-get-trump-reelected)
 * ['An act of terror': Israel behind pager explosions that killed 11, wounded thousands](https://therealnews.com/an-act-of-terror-israel-behind-pager-explosions-that-killed-11-wounded-thousands)
 * [Unmarked Sacramento gang unit cops stop, arrest father and child at gunpoint](https://therealnews.com/unmarked-sacramento-gang-unit-cops-stop-arrest-father-and-child-at-gunpoint)
+* [California is about to execute an innocent Black man](https://therealnews.com/california-is-about-to-execute-an-innocent-black-man)
 
 [Skip to content](#main)
 
