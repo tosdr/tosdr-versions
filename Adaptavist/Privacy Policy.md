@@ -263,7 +263,7 @@ Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 Apr
 
 As part of the requirements of the data protection law, Adaptavist Group Ltd and its affiliates have registered with the supervisory authority.
 
-Adaptavist Group LTD has registered with the Information Commissioner (ICO) in the United Kingdom. You can contact the ICO on + 44 0303 123 1113. or on their website: [http://ico.org.uk/concerns.](https://http/ico.org.uk/concerns) You can see Adaptavist Group LTD [notification report on their website](https://ico.org.uk/ESDWebPages/Entry/ZA427599) (after clicking the search link, enter "Adaptavist" as the name and click the ‘[Search Register](https://ico.org.uk/ESDWebPages/Search)’ button).
+Adaptavist Group LTD has registered with the Information Commissioner (ICO) in the United Kingdom. You can contact the ICO on + 44 0303 123 1113. or on their website: [http://ico.org.uk/concerns.](https://ico.org.uk/concerns) You can see Adaptavist Group LTD [notification report on their website](https://ico.org.uk/ESDWebPages/Entry/ZA427599) (after clicking the search link, enter "Adaptavist" as the name and click the ‘[Search Register](https://ico.org.uk/ESDWebPages/Search)’ button).
 
 **4\. YOUR USAGE OF WEBSITES**
 
