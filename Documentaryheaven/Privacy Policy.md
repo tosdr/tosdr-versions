@@ -118,49 +118,49 @@ Advertisement
     Canada’s woke nightmare: A warning to the West
     
     Canada, under the leadership of Justin Trudeau, has positioned itself as a global advocate for progressive policies. In my latest documentary featured in The Telegraph, I embarked on a journey to the...](https://documentaryheaven.com/canadas-woke-nightmare-a-warning-to-the-west/ "Canada’s woke nightmare: A warning to the West")
-* [![Horizon: The Secret You](/wp-content/thumbnails/4506-100x70.jpg?x53432)
-    
-    Horizon: The Secret You
-    
-    With the help of a hammer-wielding scientist, Jennifer Aniston and a general anaesthetic, Professor Marcus du Sautoy goes in search of answers to one of science’s greatest mysteries: how do we know wh...](https://documentaryheaven.com/horizon-the-secret-you/ "Horizon: The Secret You")
 * [![The Beginning and the End of the Universe](/wp-content/thumbnails/16715-100x70.jpg?x53432)
     
     The Beginning and the End of the Universe
     
     Episode 1: The BeginingEmbarking on a cosmic journey, Professor Jim Al-Khalili transports us through the corridors of time to confront science's most profound inquiry: the genesis of the univers...](https://documentaryheaven.com/the-beginning-and-the-end-of-the-universe/ "The Beginning and the End of the Universe")
-* [![I Am Heath Ledger](/wp-content/thumbnails/14195-100x70.jpg?x53432)
+* [![These Streets Are Watching](/wp-content/thumbnails/1269-100x70.jpg?x53432)
     
-    I Am Heath Ledger
+    These Streets Are Watching
     
-    I Am Heath Ledger is a new feature length film which details the life of hollywood actor Heath Ledger. It is a celebration of his life which was tragically cut short in 2008 when Ledger passed away fr...](https://documentaryheaven.com/i-am-heath-ledger/ "I Am Heath Ledger")
+    However, if nothing else, cop watch can and will and does inform citizens of their lefts as citizens. Informs citizens of what is proper police conduct and what is improper police conduct. Informs cit...](https://documentaryheaven.com/these-streets-are-watching/ "These Streets Are Watching")
+* [![The Forgotten Refugees](/wp-content/thumbnails/1718-100x70.jpg?x53432)
+    
+    The Forgotten Refugees
+    
+    Executive Producer: Ralph Avi Goldwasser Director: Michael GrynszpanRunning time: 49 minutesA film about the mass exodus of Jews from the Middle East and North Africa in the 20th centuryProdu...](https://documentaryheaven.com/the-forgotten-refugees/ "The Forgotten Refugees")
 
 ###### Throwback Documentaries
 
-* [![Richard Dawkins – The Blind Watch Maker](/wp-content/thumbnails/559-100x70.png?x53432)
+* [![The World’s Saddest Dance](/wp-content/thumbnails/6481-100x70.jpg?x53432)
     
-    Richard Dawkins – The Blind Watch Maker
+    The World’s Saddest Dance
     
-    One of the earliest efforts from Richard Dawkins in his identification and attack on the rise of creationism with the rising star of the US fundamentalist christian demographic. In the important docum](https://documentaryheaven.com/richard-dawkins-the-blind-watch-maker/ "Richard Dawkins – The Blind Watch Maker")
-* [![John &amp: Yoko’s Year of Peace](/wp-content/thumbnails/548-100x70.png?x53432)
+    The World's Saddest Dance is a documentary that explore's the old Bulgarian tradition of Dancing Bears. In this short film I investigate the way's in which the bears were once treated and the cruelty](https://documentaryheaven.com/the-worlds-saddest-dance/ "The World’s Saddest Dance") 
+* [![Beavis & Butthead Save The World](/wp-content/thumbnails/7898-100x70.jpg?x53432)
     
-    John &amp: Yoko’s Year of Peace
+    Beavis & Butthead Save The World
     
-    The year: 1969. Headlines blare war and civil unrest while John Lennon and Yoko Ono are in love. The eccentic rock 'n' roll couple has just gotten married, and more than happy to be together, they wan](https://documentaryheaven.com/john-yokos-year-of-peace/ "John &amp: Yoko’s Year of Peace")
-* [![Science Under Attack](/wp-content/thumbnails/5028-100x70.jpg?x53432)
+    Alex Jones visited Mike Judge at his Austin Tx home for a one on one interview. Mike covered the current IRS scandal, Alex’s epic interview on Piers Morgan, and The 2nd Amendment Debate.He gave insi](https://documentaryheaven.com/beavis-butthead-save-world/ "Beavis & Butthead Save The World")
+* [![Louis Theroux: Behind Bars](/wp-content/thumbnails/4968-100x70.jpg?x53432)
     
-    Science Under Attack
+    Louis Theroux: Behind Bars
     
-    Nobel Prize winner Sir Paul Nurse examines why science appears to be under attack, and why public trust in key scientific theories has been eroded – from the theory that man-made climate change is war](https://documentaryheaven.com/science-under-attack/ "Science Under Attack")
-* [![The Secret of El Dorado](/wp-content/thumbnails/1001-100x70.jpg?x53432)
+    Louis goes inside California's San Quentin's prison - one of America's most notorious prisons - to meet serial murderers, gang members, at risk inmates and guards.](https://documentaryheaven.com/louis-theroux-behind-bars/ "Louis Theroux: Behind Bars")
+* [![Dear Zachary: A Letter to a Son About His Father](/wp-content/thumbnails/1968-100x70.jpg?x53432)
     
-    The Secret of El Dorado
+    Dear Zachary: A Letter to a Son About His Father
     
-    In 1542, the Spanish Conquistador, Francisco de Orellana ventured along the Rio Negro, one of the Amazon Basin's great rivers. Hunting a hidden city of gold, his expedition found a network of farms, v](https://documentaryheaven.com/the-secret-of-el-dorado/ "The Secret of El Dorado")
-* [![Oil, Smoke and Mirrors](/wp-content/thumbnails/803-100x70.png?x53432)
+    In 2001, Andrew Bagby, a medical resident, is murdered not long after breaking up with his girlfriend. Soon after, when she announces she’s pregnant, one of Andrew’s many close friends, Kurt Kuenne, b](https://documentaryheaven.com/dear-zachary-a-letter-to-a-son-about-his-father/ "Dear Zachary: A Letter to a Son About His Father")
+* [![Modern Spies](/wp-content/thumbnails/7802-100x70.jpg?x53432)
     
-    Oil, Smoke and Mirrors
+    Modern Spies
     
-    Through a series of interviews, this film argues that the bizarre events surrounding the 9/11 attacks, and the equally bizarre prosecution of the so-called “war on terror”, can be more credibly unders](https://documentaryheaven.com/oil-smoke-and-mirrors/ "Oil, Smoke and Mirrors")
+    From James Bond to Jason Bourne, the fictional world of spying is a world of danger and deception, glamour and lies. But how does the myth compare with the reality?Episode 1: Peter Taylor looks at](https://documentaryheaven.com/modern-spies/ "Modern Spies")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
