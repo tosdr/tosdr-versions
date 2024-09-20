@@ -16,7 +16,9 @@ Try Enhance Select hearing aids risk-free for 100 days. [Shop now](https://www.l
 
 [Hearing aids](https://www.listenlively.com/product)[Remote care](https://www.listenlively.com/hearing-care)[Hearing resources](https://www.listenlively.com/hearing-aid-guide)
 
-[(800) 854-2772We're open! Call now](tel:8008542772)[](tel:8008542772 "Call us")
+Schedule call[(800) 854-2772](tel:8008542772)
+
+[](tel:8008542772 "Call us")
 
 [](https://www.listenlively.com/survey)
 
@@ -147,11 +149,19 @@ With our **Premium Package**, our Audiology Team works with you remotely to impr
     With our **Premium Package**, get a 3-year comprehensive virtual care plan with our Audiology Team (aka no office visits).
     
 
-* [New![](/cdn-cgi/image/width=640,quality=80,format=auto/_next/static/media/es500-home-bundle.5d719ae0.png)**Enhance Select 500**Our smallest, most advanced hearing aids. Excellent in the most complex listening situations like hearing multiple people at a loud party.$1,795 - $1,995  
+* [New
+    
+    ![](/cdn-cgi/image/width=640,quality=80,format=auto/_next/static/media/es500-home-bundle.5d719ae0.png)
+    
+    **Enhance Select 500**Our smallest, most advanced hearing aids. Excellent in the most complex listening situations like hearing multiple people at a loud party.$1,795 - $1,995  
     or as low as $58/mo per pair\*](https://www.listenlively.com/product/enhanceselect500)
-* [![](/cdn-cgi/image/width=640,quality=80,format=auto/_next/static/media/es300-home-bundle.e9cd8a33.png)**Enhance Select 300**Excellent in the most complex listening situations like hearing multiple people at a loud party.$1,495 - $1,695  
+* [![](/cdn-cgi/image/width=640,quality=80,format=auto/_next/static/media/es300-home-bundle-test-variant.23ae3568.png)
+    
+    **Enhance Select 300**Excellent in the most complex listening situations like hearing multiple people at a loud party.$1,495 - $1,695  
     or as low as $49/mo per pair\*](https://www.listenlively.com/product/enhanceselect300)
-* [![](/cdn-cgi/image/width=640,quality=80,format=auto/_next/static/media/es50r-home-bundle.23118445.png)**Enhance Select 50R**Works well in quieter situations, like one-on-one conversations and watching TV at home.$995 - $1,195  
+* [![](/cdn-cgi/image/width=640,quality=80,format=auto/_next/static/media/es50r-home-bundle.23118445.png)
+    
+    **Enhance Select 50R**Works well in quieter situations, like one-on-one conversations and watching TV at home.$995 - $1,195  
     or as low as $33/mo per pair\*](https://www.listenlively.com/product/enhanceselect50r)
 
 [Shop hearing aids](https://www.listenlively.com/product)
