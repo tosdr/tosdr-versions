@@ -2,8 +2,6 @@
 
 [](https://ethereum.org/en/)
 
-search
-
 1. [Home](https://ethereum.org/en/)/
 2. Privacy policy
 
@@ -247,7 +245,7 @@ On this page
 
 * [Privacy Policy](#privacy-policy)
 
-Website last updated: September 4, 2024
+Website last updated: September 18, 2024
 
 Go to top
 
