@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/inspiratie/het-pleiadisch-perspectief-uit-de-doofpot/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/nieuws/ons-immuunsysteem-de-beste-kankerbestrijder/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
