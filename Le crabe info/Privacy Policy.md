@@ -121,7 +121,7 @@ En acceptant les cookies, vous aideriez et contribueriez à la gratuité du Crab
 
 Si vous changez d'avis et que **vous avez envie de nous donner un coup de pince**, cliquez ici : J'accepte les cookies 🍪️
 
-##### 160 utilisateurs actifs
+##### 615 utilisateurs actifs
 
 Chargement en cours
 
@@ -131,9 +131,9 @@ Chargement en cours
 
 ### À la une
 
+* [Windows 11 : Afficher la clé de sécurité Wifi de n’importe quel réseau](https://lecrabeinfo.net/windows-11-afficher-la-cle-de-securite-wifi-de-nimporte-quel-reseau.html)
 * [Arrivée officielle du noyau Linux 6.10 : que contient-il ?](https://lecrabeinfo.net/arrivee-officielle-du-noyau-linux-6-10-que-contient-il.html)
 * [La build 26120.1340 de Windows 11 est là ! Quoi de neuf ?](https://lecrabeinfo.net/la-build-26120-1340-de-windows-11-est-la-quoi-de-neuf.html)
-* [Les 4 meilleurs logiciels pour prendre le contrôle d'un PC à distance en 2024](https://lecrabeinfo.net/les-4-meilleurs-logiciels-pour-prendre-le-controle-dun-pc-a-distance-en-2024.html)
 
 ### Tendance
 
@@ -153,7 +153,7 @@ Chargement en cours
 ### Statistiques
 
 * 68 516 membres
-* 898 articles
+* 899 articles
 * 26 570 commentaires
 
 * [BY-NC-SA](http://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr "CC BY-NC-SA")
