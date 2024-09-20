@@ -169,7 +169,7 @@ Last Modified: September 18, 2024
 
 _\[_Need a signed copy (including the full text of the SCCs, UK Addendum, and Sub-Processors)_? Click [here.](https://742851.fs1.hubspotusercontent-na1.net/hubfs/742851/HubSpot%20DPA%2018%20September%202024%20Signed.pdf)\]_
 
-This HubSpot Data Processing Agreement and its Annexes (“DPA”) This HubSpot Data Processing Agreement and its Annexes (“DPA”) is incorporated into and forms part of the [HubSpot Customer Terms of Service](https://legal.hubspot.com/terms-of-service) between you and us (the “Agreement”). This DPA reflects the parties’ agreement with respect to (i) the Processing of Customer Personal Data by us as a Processor on your behalf, and (ii) the Processing of Controller Personal Data by each party as a Controller in connection with our enrichment products and your use of the HubSpot tracking code. 
+This HubSpot Data Processing Agreement and its Annexes (“DPA”) is incorporated into and forms part of the [HubSpot Customer Terms of Service](https://legal.hubspot.com/terms-of-service) between you and us (the “Agreement”). This DPA reflects the parties’ agreement with respect to (i) the Processing of Customer Personal Data by us as a Processor on your behalf, and (ii) the Processing of Controller Personal Data by each party as a Controller in connection with our enrichment products and your use of the HubSpot tracking code. 
 
 In case of any conflict or inconsistency with the terms of the Agreement, this DPA will take precedence over other terms in the Agreement to the extent of such conflict or inconsistency. 
 
@@ -177,7 +177,7 @@ Sections 3 through 9 of this DPA apply solely to the extent that HubSpot is a Pr
 
 Section 10 applies solely to the extent that Customer uses our enrichment products or the HubSpot Tracking Code with Intent data sharing enabled, and each party is considered a Controller under Data Protection Laws.
 
-We update these terms from time to time. If you have an active HubSpot subscription, we will let you know when we do through an in-app notice (or via email if you have subscribed to receive email notifications via the link in our General Terms). You can find archived versions of the DPA in our archives at [https://legal.hubspot.com/legal-stuff/archive](https://legal.hubspot.com/legal-stuff/archive).
+We update these terms from time to time. If you have an active HubSpot subscription, we will let you know when we do through an in-app notice (or via email if you have subscribed to receive email notifications via the link in our [General Terms](https://legal.hubspot.com/terms-of-service)). You can find archived versions of the DPA in our archives at [https://legal.hubspot.com/legal-stuff/archive](https://legal.hubspot.com/legal-stuff/archive).
 
 The term of this DPA will follow the term of the Agreement. Terms not otherwise defined in this DPA will have the meaning as set forth in the Agreement.
 
@@ -301,7 +301,7 @@ Where we engage Sub-Processors, we will impose data protection terms on the Sub-
 
 **6\. Data Transfers**
 
-You acknowledge and agree that we may access and Process Customer Personal Data on a global basis as necessary to provide the Subscription Service in accordance with the Agreement, and in particular that Personal Data may be transferred to and Processed by HubSpot, Inc. in the United States and to other jurisdictions where HubSpot Affiliates and Sub-Processors have operations. Wherever Customer Personal Data is transferred outside its country of origin, each party will ensure such transfers are made in compliance with the requirements of Data Protection Laws.
+You acknowledge and agree that we may access and Process Customer Personal Data on a global basis as necessary to provide the Subscription Service in accordance with the Agreement, and in particular that Customer Personal Data may be transferred to and Processed by HubSpot, Inc. in the United States and to other jurisdictions where HubSpot Affiliates and Sub-Processors have operations. Wherever Customer Personal Data is transferred outside its country of origin, each party will ensure such transfers are made in compliance with the requirements of Data Protection Laws.
 
 **7\. Demonstration of Compliance**
 
@@ -381,7 +381,7 @@ d. Governing Law. This DPA will be governed by and construed in accordance with 
 
 **13\. Parties to this DPA**
 
-a. Permitted Affiliates. By signing the Agreement, you enter into this DPA (including, where applicable, the Standard Contractual Clauses) on behalf of yourself and in the name and on behalf of your Permitted Affiliates. For the purposes of this DPA only, and except where indicated otherwise, the terms “Customer, “you,” and “your” will include you and such Permitted Affiliates.
+a. Permitted Affiliates. By signing the Agreement, you enter into this DPA (including, where applicable, the Standard Contractual Clauses) on behalf of yourself and in the name and on behalf of your Permitted Affiliates. For the purposes of this DPA only, and except where indicated otherwise, the terms “Customer," “you,” and “your” will include you and such Permitted Affiliates.
 
 b. Authorization. The legal entity agreeing to this DPA as Customer represents that it is authorized to agree to and enter into this DPA for and on behalf of itself and, as applicable, each of its Permitted Affiliates.
 
@@ -543,7 +543,7 @@ Product access: A subset of our employees have access to the products and to cus
 
 In-transit: We require HTTPS encryption (also referred to as SSL or TLS)  on all login interfaces and for free on every customer site hosted on the HubSpot products. Our HTTPS implementation uses industry standard algorithms and certificates.
 
-At-rest: We store user passwords following policies that follow industry standard practices for security. We take a layered approach of at-rest encryption technologies to ensure Customer data and Customer-identified Permitted Sensitive Data are appropriately encrypted.
+At-rest: We store user passwords following policies that follow industry standard practices for security. We take a layered approach of at-rest encryption technologies to ensure Customer Data and Customer-identified Permitted Sensitive Data are appropriately encrypted.
 
 **d) Incident Management, Logging, and Monitoring**
 
