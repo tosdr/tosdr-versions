@@ -196,6 +196,11 @@ Diet Restrictions Dairy-free Egg-free Gluten-free Low Carb Low Sodium Nightshade
 
 RESET [Search](https://www.furtherfood.com/search?type=article)
 
+[Hazelnut Cold Brew Ice Cubes](https://www.furtherfood.com/blogs/recipes/hazelnut-cold-brew-ice-cubes)
+------------------------------------------------------------------------------------------------------
+
+These Hazelnut Cold Brew Ice Cubes are the perfect way to elevate your morning routine....
+
 [![Pumpkin Spice Snack Cake](//www.furtherfood.com/cdn/shop/articles/20240911145214-pumpkin-20spice-20snack-20cake-202_1200x900.jpg?v=1726067244)
 
 ![Pumpkin Spice Snack Cake](//www.furtherfood.com/cdn/shop/articles/20240911145214-pumpkin-20spice-20snack-20cake-202_1200x900.jpg?v=1726067244)](https://www.furtherfood.com/blogs/recipes/pumpkin-spice-snack-cake)
@@ -240,15 +245,6 @@ Looking for a healthy yet indulgent treat that feels like dessert but is packed 
 --------------------------------------------------------------------------------------------------------------------
 
 Indulge in the flavors of fall with our Pumpkin Pie Spice Cookie Dough Bark, a decadent...
-
-[![Pumpkin Spice Protein Bites](//www.furtherfood.com/cdn/shop/articles/Pumpkin_Bites_1200x900.jpg?v=1725458276)
-
-![Pumpkin Spice Protein Bites](//www.furtherfood.com/cdn/shop/articles/Pumpkin_Bites_1200x900.jpg?v=1725458276)](https://www.furtherfood.com/blogs/recipes/pumpkin-spice-protein-bites)
-
-[Pumpkin Spice Protein Bites](https://www.furtherfood.com/blogs/recipes/pumpkin-spice-protein-bites)
-----------------------------------------------------------------------------------------------------
-
-Get ready to embrace the cozy flavors of fall with these Pumpkin Spice Protein Bites! P...
 
 * 1
 * [2](https://www.furtherfood.com/blogs/recipes?page=2)
