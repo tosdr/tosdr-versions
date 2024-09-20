@@ -122,9 +122,9 @@ Toggle navigation
     
     ##### Promoted Content
     
+    * [Our life with specialty food ingredients](https://www.euractiv.com/section/agriculture-food/video/our-life-with-specialty-food-ingredients/)
     * [Turning the tide on tail-docking: will Denmark’s State Aid scheme to improve pig welfare inspire other Member States?](https://www.euractiv.com/section/agriculture-food/opinion/turning-the-tide-on-tail-docking-will-denmarks-state-aid-scheme-to-improve-pig-welfare-inspire-other-member-states/)
     * [Benefits of selected specialty food ingredients for gut health](https://www.euractiv.com/section/agriculture-food/infographic/benefits-of-selected-specialty-food-ingredients-for-gut-health/)
-    * [Used cooking oil: there is a cobra in the room](https://www.euractiv.com/section/agriculture-food/opinion/used-cooking-oil-there-is-a-cobra-in-the-room/)
     
 * [Economy](https://www.euractiv.com/sections/economy-jobs/)
     
@@ -424,7 +424,7 @@ Toggle navigation
     
     ##### Promoted Content
     
-    * [Future-proofing the EU’s road transport sector: a roadmap for policymaker action](https://www.euractiv.com/section/transport/opinion/future-proofing-the-eus-road-transport-sector-a-roadmap-for-policymaker-action/)
+    * [Future-proofing the EU’s road transport sector: A roadmap for policymaker action](https://www.euractiv.com/section/transport/opinion/future-proofing-the-eus-road-transport-sector-a-roadmap-for-policymaker-action/)
     * [Paving the Way: Fostering Affordable, Sustainable, and Safe Mobility for All](https://www.euractiv.com/section/transport/opinion/paving-the-way-fostering-affordable-sustainable-and-safe-mobility-for-all/)
     * [New multimodal infrastructure in CEE region to help EU meet its transport goals](https://www.euractiv.com/section/transport/opinion/new-multimodal-infrastructure-in-cee-region-to-help-eu-meet-its-transport-goals/)
     
