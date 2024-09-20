@@ -323,9 +323,9 @@ Please email us at [\[email protected\]](https://www.identrust.com/cdn-cgi/l/e
 
 In compliance with the EU-U.S. DPF, the UK Extension to the EU-U.S. DPF, and the Swiss-U.S.DPF, IdenTrust commits to resolve DPF Principles-related complaints about our collection and use of your personal information. EU and UK individuals and Swiss individuals with inquiries or complaints regarding our handling of personal data received in reliance on the EU-U.S. DPF and the UK Extension to the EU-U.S. DPF, and the Swiss-U.S. DPF should first contact IdenTrust at [\[email protected\]](https://www.identrust.com/cdn-cgi/l/email-protection).
 
-[![WebTrust S/MIME Logo](/sites/default/files/styles/accreditation_footer_slider_images/public/gallery/WebTrust_S-MIME_0.png.webp?itok=vnx0sfzW)](https://www.cpacanada.ca/webtrustseal?sealid=11485)
+[![WebTrust S/MIME Logo](/sites/default/files/styles/accreditation_footer_slider_images/public/gallery/Schellman%20WebTrust%20Seal%20S-MIME.jpg.webp?itok=AjCU74xp)](https://www.cpacanada.ca/webtrustseal?sealid=11485)
 
-[![BR Code Signing Seal by WebTrust](/sites/default/files/styles/accreditation_footer_slider_images/public/gallery/Web%20Trust%20BR%20CodeSigning.png.webp?itok=-loA9BiH)](https://www.cpacanada.ca/webtrustseal?sealid=11484)
+[![BR Code Signing Seal by WebTrust](/sites/default/files/styles/accreditation_footer_slider_images/public/gallery/Schellman%20WebTrust%20Seal%20BR-Code%20Signing_0.jpg.webp?itok=taZmJMxY)](https://www.cpacanada.ca/webtrustseal?sealid=11484)
 
 ![BBB logo](/sites/default/files/styles/accreditation_footer_slider_images/public/gallery/accred_bus_7469%20Transparent-he75xl_0.png.webp?itok=FYd2stw0)
 
@@ -337,11 +337,11 @@ In compliance with the EU-U.S. DPF, the UK Extension to the EU-U.S. DPF, and the
 
 [![DirectTrust EHNAC Accredited](/sites/default/files/styles/accreditation_footer_slider_images/public/gallery/EHNAC%20Logo_A_DTAAP_CA%20Transparent-29b5rm_0.png.webp?itok=LZ759Z3m)](https://www.ehnac.org/)
 
-[![Authorities Web Trust General Logo](/sites/default/files/styles/accreditation_footer_slider_images/public/gallery/WebTrust_CertificationAuthorities.png.webp?itok=QpWQVI9r)](https://www.cpacanada.ca/webtrustseal?sealid=11481)
+[![Authorities Web Trust General Logo](/sites/default/files/styles/accreditation_footer_slider_images/public/gallery/Schellman%20WebTrust%20Seal%20Standard.jpg.webp?itok=G3fHWf4b)](https://www.cpacanada.ca/webtrustseal?sealid=11481)
 
-[![Web Trust BR - SSL](/sites/default/files/styles/accreditation_footer_slider_images/public/gallery/WebTrust_BR-SSL.png.webp?itok=dwijMr0J)](https://www.cpacanada.ca/webtrustseal?sealid=11482)
+[![Web Trust BR - SSL](/sites/default/files/styles/accreditation_footer_slider_images/public/gallery/Schellman%20WebTrust%20Seal%20BR-SSL.jpg.webp?itok=vOFRj5ko)](https://www.cpacanada.ca/webtrustseal?sealid=11482)
 
-[![WebTrust Extended Validation Seal](/sites/default/files/styles/accreditation_footer_slider_images/public/gallery/WebTrust_ExtendedValidation.png.webp?itok=mqRZhBLW)](https://www.cpacanada.ca/webtrustseal?sealid=11483)
+[![WebTrust Extended Validation Seal](/sites/default/files/styles/accreditation_footer_slider_images/public/gallery/Schellman%20WebTrust%20Seal%20Extended%20Validation.jpg.webp?itok=RmqrFnfY)](https://www.cpacanada.ca/webtrustseal?sealid=11483)
 
 * **[Industries & Communities](https://www.identrust.com/my-buying-community)**
 * [Banking & Finance](https://www.identrust.com/my-buying-community/banking-and-finance)
