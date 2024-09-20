@@ -159,11 +159,7 @@ We may change any short code or telephone number we use to operate the Service a
 
 The wireless carriers supported by the Service are not liable for delayed or undelivered messages. You agree to provide us with a valid mobile number. If you get a new mobile number, you will need to sign up for the Service with your new number.
 
-To the extent permitted by applicable law, you agree that we will not be liable for failed, delayed, or misdirected delivery of any information sent through the Service, any errors in such information, and/or any action you may or may not take in reliance on the information or Service. We respect your right to privacy. To see how we collect and use your personal information, please see our[](https://www.blueland.com/privacy-policy)
-
-[Privacy Notice](https://www.blueland.com/privacy-policy)
-
-.
+To the extent permitted by applicable law, you agree that we will not be liable for failed, delayed, or misdirected delivery of any information sent through the Service, any errors in such information, and/or any action you may or may not take in reliance on the information or Service. We respect your right to privacy. To see how we collect and use your personal information, please see our [Privacy Notice](https://www.blueland.com/privacy-policy).
 
 Indemnification for these Mobile Terms  
 YOU AGREE THAT YOU SHALL INDEMNIFY, DEFEND, AND HOLD US HARMLESS FROM ANY CLAIM OR LIABILITY RESULTING FROM YOUR FAILURE TO NOTIFY US OF A CHANGE IN THE INFORMATION YOU HAVE PROVIDED, INCLUDING ANY CLAIM OR LIABILITY UNDER THE TELEPHONE CONSUMER PROTECTION ACT, 47 U.S.C. § 227, et seq., OR SIMILAR STATE AND FEDERAL LAWS, AND ANY REGULATIONS PROMULGATED THEREUNDER RESULTING FROM US ATTEMPTING TO CONTACT YOU AT THE MOBILE TELEPHONE NUMBER YOU PROVIDED.
@@ -270,11 +266,7 @@ You've joined the movement!
 
 Oops, something went wrong
 
-By signing up, you consent to our[](https://www.blueland.com/privacy-policy)
-
-[Privacy Policy](https://www.blueland.com/privacy-policy)
-
-. You may unsubscribe at any time.
+By signing up, you consent to our [Privacy Policy](https://www.blueland.com/privacy-policy). You may unsubscribe at any time.
 
 * [![Blueland: Eco-Friendly Cleaning Products](https://cdn.sanity.io/images/d864s8gp/production/d41921b9a74af010b21cd04da21ebc507926884c-13x13.svg?q=80&fit=max&auto=format)](https://www.instagram.com/blueland/)
 * [![Blueland: Eco-Friendly Cleaning Products](https://cdn.sanity.io/images/d864s8gp/production/b8b6494962c3a199a7597f253c23ff43cb1e345a-96x96.png?q=80&fit=max&auto=format)](https://www.facebook.com/liveblueland/)
@@ -357,18 +349,11 @@ Copyright 2024 Blueland
 * [hello@blueland.com](https://help.blueland.com/en-US/contact)
 * [Terms & Conditions](https://www.blueland.com/terms-and-conditions)
 * [Privacy Policy](https://www.blueland.com/privacy-policy)
-
 * Your Privacy Choices
     
 
-* ![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2760%27%20height=%2791%27/%3e)![B Corp Certification](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![B Corp Certification](https://cdn.sanity.io/images/d864s8gp/production/abd9e30d9f0f3d79d061f4c297ff3fe94b858a6c-261x400.png?rect=0,2,261,396&w=60&h=91&q=100&fit=clip&auto=format)
-    
-* ![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2760%27%20height=%2791%27/%3e)![Climate Neutral Certification](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![Climate Neutral Certification](https://cdn.sanity.io/images/d864s8gp/production/642db334d2cdcb0946903582cc92647213cb1f49-300x430.png?rect=8,0,284,430&w=60&h=91&q=100&fit=clip&auto=format)
-    
+* ![B Corp Certification](https://cdn.sanity.io/images/d864s8gp/production/abd9e30d9f0f3d79d061f4c297ff3fe94b858a6c-261x400.png?rect=0,2,261,396&w=60&h=91&q=100&fit=clip&auto=format&w=3840)
+* ![Climate Neutral Certification](https://cdn.sanity.io/images/d864s8gp/production/642db334d2cdcb0946903582cc92647213cb1f49-300x430.png?rect=8,0,284,430&w=60&h=91&q=100&fit=clip&auto=format&w=3840)
 
 Your Cart
 
@@ -381,13 +366,9 @@ Your cart is empty
 Explore Our Bestsellers
 -----------------------
 
-[![The Clean Suite](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+[![The Clean Suite](https://cdn.sanity.io/images/d864s8gp/production/19839a6eb31009ffc3669f499a3e18f34e917f14-1790x1790.jpg?w=300&h=300&q=100&fit=clip&auto=format&w=3840)
 
-![The Clean Suite](https://cdn.sanity.io/images/d864s8gp/production/19839a6eb31009ffc3669f499a3e18f34e917f14-1790x1790.jpg?w=300&h=300&q=100&fit=clip&auto=format)
-
-![Blueland: Eco-Friendly Cleaning Products](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-
-![Blueland: Eco-Friendly Cleaning Products](https://cdn.sanity.io/images/d864s8gp/production/b90a5bb78599d7f2211545acde3308ce3aa691d0-1790x1790.jpg?w=300&h=300&q=100&fit=clip&auto=format)
+![Blueland: Eco-Friendly Cleaning Products](https://cdn.sanity.io/images/d864s8gp/production/b90a5bb78599d7f2211545acde3308ce3aa691d0-1790x1790.jpg?w=300&h=300&q=100&fit=clip&auto=format&w=3840)
 
 Bestseller
 
@@ -402,13 +383,9 @@ No Reviews Yet
 
 Quick Add
 
-[![Blueland Dishwasher Tablets Starter Set](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+[![Blueland Dishwasher Tablets Starter Set](https://cdn.sanity.io/images/d864s8gp/production/f73028225df35b05bf6cca1e3f36556478c0e2f1-1790x1790.jpg?w=300&h=300&q=100&fit=clip&auto=format&w=3840)
 
-![Blueland Dishwasher Tablets Starter Set](https://cdn.sanity.io/images/d864s8gp/production/f73028225df35b05bf6cca1e3f36556478c0e2f1-1790x1790.jpg?w=300&h=300&q=100&fit=clip&auto=format)
-
-![Blueland: Eco-Friendly Cleaning Products](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-
-![Blueland: Eco-Friendly Cleaning Products](https://cdn.sanity.io/images/d864s8gp/production/070a9a34c74b4d16eff25a1807431b85d2cae82b-1790x1790.jpg?w=300&h=300&q=100&fit=clip&auto=format)
+![Blueland: Eco-Friendly Cleaning Products](https://cdn.sanity.io/images/d864s8gp/production/070a9a34c74b4d16eff25a1807431b85d2cae82b-1790x1790.jpg?w=300&h=300&q=100&fit=clip&auto=format&w=3840)
 
 Bestseller](https://www.blueland.com/products/dishwasher-starter-set)
 
@@ -421,9 +398,7 @@ No Reviews Yet
 
 Quick Add
 
-[![Laundry Starter Set](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-
-![Laundry Starter Set](https://cdn.sanity.io/images/d864s8gp/production/7025db7b813ff428d0930a54bd5579603e9b2600-1790x1790.jpg?w=300&h=300&q=100&fit=clip&auto=format)](https://www.blueland.com/products/laundry-starter-set)
+[![Laundry Starter Set](https://cdn.sanity.io/images/d864s8gp/production/7025db7b813ff428d0930a54bd5579603e9b2600-1790x1790.jpg?w=300&h=300&q=100&fit=clip&auto=format&w=3840)](https://www.blueland.com/products/laundry-starter-set)
 
 [Laundry Starter Set](https://www.blueland.com/products/laundry-starter-set)$25
 
@@ -434,13 +409,9 @@ No Reviews Yet
 
 Quick Add
 
-[![Toilet Bowl Cleaner Starter Set](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+[![Toilet Bowl Cleaner Starter Set](https://cdn.sanity.io/images/d864s8gp/production/144dfa9bd95f9339c6944e054ed6e8943612eff6-1790x1790.jpg?w=300&h=300&q=100&fit=clip&auto=format&w=3840)
 
-![Toilet Bowl Cleaner Starter Set](https://cdn.sanity.io/images/d864s8gp/production/144dfa9bd95f9339c6944e054ed6e8943612eff6-1790x1790.jpg?w=300&h=300&q=100&fit=clip&auto=format)
-
-![Blueland: Eco-Friendly Cleaning Products](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-
-![Blueland: Eco-Friendly Cleaning Products](https://cdn.sanity.io/images/d864s8gp/production/1eed58fd0bdd865c4d65eac1efd528478e11694f-1790x1790.jpg?w=300&h=300&q=100&fit=clip&auto=format)
+![Blueland: Eco-Friendly Cleaning Products](https://cdn.sanity.io/images/d864s8gp/production/1eed58fd0bdd865c4d65eac1efd528478e11694f-1790x1790.jpg?w=300&h=300&q=100&fit=clip&auto=format&w=3840)
 
 Bestseller](https://www.blueland.com/products/toilet-cleaner-starter-set)
 
