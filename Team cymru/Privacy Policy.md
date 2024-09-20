@@ -30,12 +30,6 @@ top of page
     * [Resource Library](https://www.team-cymru.com/resource-library)
     * [CTEM](https://www.team-cymru.com/ctem)
     * [Events](https://www.team-cymru.com/see-us-here)
-        
-        * [SecureWorld Webinar](https://www.team-cymru.com/see-us-at/secureworld-webinar)
-        * [Maltego Workshop](https://www.team-cymru.com/see-us-at/maltego-workshop)
-        * [Code Blue - Tokyo, Japan](https://www.team-cymru.com/see-us-at/code-blue-)
-        * [RISE - Singapore](https://www.team-cymru.com/see-us-at/rise-singapore)
-        
     * [Podcast](https://www.team-cymru.com/podcast)
     
 * [Partners](https://www.team-cymru.com/partner-program)
@@ -407,7 +401,7 @@ By mail: 901 International Parkway, Suite 350, Lake Mary, FL 32746, USA
 
 ​
 
-![Dots 12.png](https://static.wixstatic.com/media/ad75df_2ab95ecf808c49f89475e1e70c5fadf1~mv2.png/v1/fill/w_71,h_15,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_auto/ad75df_2ab95ecf808c49f89475e1e70c5fadf1~mv2.png)
+![Dots 12.png](https://static.wixstatic.com/media/ad75df_2ab95ecf808c49f89475e1e70c5fadf1~mv2.png/v1/fill/w_75,h_15,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_auto/ad75df_2ab95ecf808c49f89475e1e70c5fadf1~mv2.png)
 
 ![Dots 12.png](https://static.wixstatic.com/media/ad75df_2ab95ecf808c49f89475e1e70c5fadf1~mv2.png/v1/fill/w_79,h_16,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_auto/ad75df_2ab95ecf808c49f89475e1e70c5fadf1~mv2.png)
 
