@@ -193,6 +193,14 @@ Some of our posts may contain affiliate links to partner brands. We earn a small
 
 ### More articles
 
+![](https://inspgr.id/app/uploads/2024/09/book-michael-doret-cover.jpg)
+
+[Branding](https://theinspirationgrid.com/category/identity/)[Graphic Design](https://theinspirationgrid.com/category/design/)
+
+[](https://theinspirationgrid.com/editorial/growing-up-in-alphabet-city-michael-dorets-incredible-visual-autobiography/)
+
+### Growing Up in Alphabet City: Michael Doret’s Incredible Visual Autobiography
+
 ![](https://inspgr.id/app/uploads/2024/09/adesign-call-24-feature.jpg)
 
 [Architecture](https://theinspirationgrid.com/category/architecture/)[Fashion & Beauty](https://theinspirationgrid.com/category/fashion-2/)
@@ -216,14 +224,6 @@ Some of our posts may contain affiliate links to partner brands. We earn a small
 [](https://theinspirationgrid.com/editorial/in-full-bloom-cj-hendrys-immersive-flower-market-exhibition/)
 
 ### In Full Bloom: Cj Hendry’s Immersive Flower Market Exhibition
-
-![](https://inspgr.id/app/uploads/2024/09/ayaneo-retro-power-bank-feature-new.jpg)
-
-[Gaming](https://theinspirationgrid.com/category/gaming/)[Industrial Design](https://theinspirationgrid.com/category/industrial-design/)
-
-[](https://theinspirationgrid.com/editorial/ayaneos-retro-power-bank-blends-classic-console-vibes-with-modern-functionality/)
-
-### AYANEO’s Retro Power Bank Blends Classic Console Vibes with Modern Functionality
 
 #want
 -----
