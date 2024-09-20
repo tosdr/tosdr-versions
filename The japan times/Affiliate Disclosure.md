@@ -254,15 +254,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
-[Hyogo assembly passes no-confidence motion against embattled governor](https://www.japantimes.co.jp/news/2024/09/19/japan/politics/hyogo-no-confidence-motion/ "Hyogo assembly passes no-confidence motion against embattled governor")
+[Survey shows record number of South Koreans view Japan positively](https://www.japantimes.co.jp/news/2024/09/20/japan/south-korea-japan-sentiment/ "Survey shows record number of South Koreans view Japan positively")
 
-[Nintendo sues 'Pokemon with guns' maker for patent infringement](https://www.japantimes.co.jp/business/2024/09/19/companies/nintendo-patent-suit/ "Nintendo sues 'Pokemon with guns' maker for patent infringement")
+27 mins ago
 
-[Boeing furloughs thousands as no progress made to resolve strike](https://www.japantimes.co.jp/business/2024/09/19/companies/boeing-furloughs-thousands-strike/ "Boeing furloughs thousands as no progress made to resolve strike")
+[A deepening U.S.-China rivalry hangs over Sri Lanka’s election](https://www.japantimes.co.jp/news/2024/09/20/asia-pacific/politics/sri-lanka-election-us-china-loom/ "A deepening U.S.-China rivalry hangs over Sri Lanka’s election")
 
-[Third TSMC plant in Japan remains up in the air](https://www.japantimes.co.jp/business/2024/09/19/companies/taiwan-boost-japan-investments/ "Third TSMC plant in Japan remains up in the air ") 
+35 mins ago
 
-[17% of kick scooter accidents caused by drunken drivers](https://www.japantimes.co.jp/news/2024/09/19/japan/crime-legal/japan-scooter-accidents/ "17% of kick scooter accidents caused by drunken drivers")
+[Battle rages over U.S.' first binding AI safety bill in California](https://www.japantimes.co.jp/news/2024/09/20/world/politics/california-ai-safety-bill-divisive/ "Battle rages over U.S.' first binding AI safety bill in California")
+
+1 hours ago
+
+[U.S. accuses social media giants of 'vast surveillance'](https://www.japantimes.co.jp/business/2024/09/20/tech/us-social-media-surveillance-report/ "U.S. accuses social media giants of 'vast surveillance'")
+
+1 hours ago
+
+[OpenAI unveils new ChatGPT that can reason through math and science](https://www.japantimes.co.jp/business/2024/09/20/tech/new-chatgpt-reasoning-power/ "OpenAI unveils new ChatGPT that can reason through math and science")
+
+1 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
