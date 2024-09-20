@@ -525,9 +525,9 @@ Weitere Informationen zu Umfang und Zweck der Datenverarbeitung durch INFOnline 
 
 ### [NachDenkSeiten im Gespräch](https://www.youtube.com/playlist?list=PLpNi0Wmi7L80YYabA3qOGKP8ZporDTlRA)
 
-[![Notfalls müssen wir auf dem Abzug US-amerikanischer Truppen aus Deutschland bestehen, …](https://www.nachdenkseiten.de/wp-content/uploads/2023/03/230303-Gespraech-Oskar-Lafontaine-mit-Albrecht-Mueller-NDS-CoverKasten.jpg "Notfalls müssen wir auf dem Abzug US-amerikanischer Truppen aus Deutschland bestehen, …")](https://www.nachdenkseiten.de/?p=94575)
+[![Ein umfassendes Gespräch mit der Weltwoche](https://www.nachdenkseiten.de/wp-content/uploads/2023/07/230724-Weltwoche.png "Ein umfassendes Gespräch mit der Weltwoche")](https://www.nachdenkseiten.de/?p=101625)
 
-* [Notfalls müssen wir auf dem Abzug US-amerikanischer Truppen aus Deutschland bestehen, …](https://www.nachdenkseiten.de/?p=94575)
+* [Ein umfassendes Gespräch mit der Weltwoche](https://www.nachdenkseiten.de/?p=101625)
 * [Videoangebot der NachDenkSeiten](https://www.nachdenkseiten.de/?page_id=47509)
 
 ![Albrecht Müller: Glaube wenig. Hinterfrage alles. Denke selbst.](https://www.nachdenkseiten.de/wp-content/uploads/2022/05/220510-glaube.jpg "Albrecht Müller: Glaube wenig. Hinterfrage alles. Denke selbst.")
@@ -542,12 +542,12 @@ Weitere Informationen zu Umfang und Zweck der Datenverarbeitung durch INFOnline 
 
 ### Wichtige Artikel
 
-* [US-Diplomatin Nuland räumt offen ein: Friedensverhandlungen zwischen Kiew und Moskau auf „Empfehlung“ von Washington abgebrochen](https://www.nachdenkseiten.de/?p=121031)
-* [Verbreiten die NachDenkSeiten russische Narrative? Der bayerische Verfassungsschutz rudert zurück](https://www.nachdenkseiten.de/?p=121174)
-* [„Der Kanzler lügt“ – Der hilflose Versuch des Regierungssprechers, Wagenknecht-Vorwurf zu entkräften](https://www.nachdenkseiten.de/?p=121180)
-* [Corona-Urteil von Osnabrück: „Das alleine hätte noch vor einem Jahr (…) die Richter in die Querdenker-Ecke gestellt“](https://www.nachdenkseiten.de/?p=121119)
-* [„Denn eine Meinungsfreiheit, die nur politisch genehme Positionen zulässt, ist keine“](https://www.nachdenkseiten.de/?p=121102)
-* [Videos vom Vortrag Krone-Schmalz und von der Diskussion beim Pleisweiler Gespräch](https://www.nachdenkseiten.de/?p=121107)
+* [EU-Parlament auf Kriegskurs: „Legitime militärische Ziele in Russland angreifen“](https://www.nachdenkseiten.de/?p=121594)
+* [Keine Freigabe für Kiew zum Einsatz von Langstreckenraketen: Kommt der Westen endlich zur Vernunft?](https://www.nachdenkseiten.de/?p=121517)
+* [Bundesregierung zur Pager-Massenexplosion im Libanon: Völkerrechtliche Bewertung nicht möglich](https://www.nachdenkseiten.de/?p=121506)
+* [Kanzler Scholz in Zentralasien](https://www.nachdenkseiten.de/?p=121385)
+* [Toxische Atmosphäre](https://www.nachdenkseiten.de/?p=121441)
+* [Was sagt der Kanzler zur fragwürdigen Wahlkampfspende von Campact für die Grünen in Brandenburg?](https://www.nachdenkseiten.de/?p=121551)
 
 ### Audioangebot
 
