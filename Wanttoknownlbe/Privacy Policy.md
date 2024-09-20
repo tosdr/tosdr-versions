@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/inspiratie/meelezen/kamp-110-aardbevingsdoden-groningen-acceptabel/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/inspiratie/keys-to-life/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
