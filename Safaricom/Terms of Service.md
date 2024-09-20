@@ -224,6 +224,18 @@ out of 5 based on
 
 > Sep 20, 2024
 
+> Sabi Sands Game Reserve reservations made easy
+
+> Made safari reservations with Pascal John. He was very helpful as we had a specific time frame that corresponded with the rest of our Africa trip. Pascal John was professional, sent documents on time, and and with no errors. He responded via email very very quickly. We definitely recommend Safari.com and Pascal John!
+
+George
+
+,
+
+![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
+
+> Sep 20, 2024
+
 > Great experience booking was so fast
 
 > Great experience booking was so fast. I already recommended for my friends.
@@ -327,20 +339,6 @@ Anna
 ,
 
 DE
-
-![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
-
-> Sep 15, 2024
-
-> Safari booking
-
-> Fadiel was very prompt in responding to my emails. Despite a double booking for our Safari - not his fault - everything worked out well in the end.
-
-PeterB
-
-,
-
-GB
 
 VIP service
 
