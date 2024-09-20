@@ -802,7 +802,7 @@ If you have any questions or suggestions regarding this Privacy Policy, please c
 Suite 95997  
 Wilmington, Delaware 19802-4447
 
-[contact@evidentid.com](mailto:contact@evidentid.com)
+[support@evidentid.com](mailto:support@evidentid.com)
 
 [+1.877.832.5298](tel:+1.877.832.5298)
 
