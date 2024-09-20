@@ -309,7 +309,7 @@
     * [**State of Customer Engagement**
         
         See the top trends shaping customer engagement in our annual report](https://www.twilio.com/en-us/state-of-customer-engagement)
-    * [**Developer Events**
+    * [**Twilio Events**
         
         Join upcoming group events](https://www.twilio.com/en-us/events)
     
@@ -660,7 +660,7 @@ Data is collected based on search terms. [Privacy Policy](https://www.twilio.co
     * [**State of Customer Engagement**
         
         See the top trends shaping customer engagement in our annual report](https://www.twilio.com/en-us/state-of-customer-engagement)
-    * [**Developer Events**
+    * [**Twilio Events**
         
         Join upcoming group events](https://www.twilio.com/en-us/events)
     
