@@ -28,7 +28,7 @@ Search site
 * [Business](https://www.fox4news.com/tag/business)
 * [Health](https://www.fox4news.com/tag/health)
 * [FOX News Sunday](https://www.fox4news.com/news/fox-news-sunday-with-shannon-bream)
-* [Election](https://www.fox4news.com/election)
+* [2024 Election](https://www.fox4news.com/election)
 
 ###### [Weather](https://www.fox4news.com/weather)
 
@@ -52,25 +52,23 @@ Search site
 
 ###### [Good Day](https://www.fox4news.com/shows/good-day)
 
-* [Recipes](https://www.fox4news.com/tag/series/good-day-recipes)
+* [Links from On Air](https://www.fox4news.com/links)
+* [Birthdays](https://www.fox4news.com/good-day-birthdays)
+* [Recipes](https://www.fox4news.com/tag/good-day/good-day-recipes)
 * [Traffic](https://www.fox4news.com/traffic)
 * [Entertainment](https://www.fox4news.com/tag/entertainment)
 * [Things To Do](https://www.fox4news.com/tag/lifestyle/things-to-do-in-dallas)
 * [Save Me Steve](https://www.fox4news.com/tag/series/save-me-steve)
-* [Birthdays](https://www.fox4news.com/good-day-birthdays)
 
-###### [Only on FOX 4](https://www.fox4news.com/tag/series/fox-4-features)
+###### [Latest Episodes](https://www.fox4news.com/tag/series/)
 
 * [Watch Live](https://www.fox4news.com/live)
-* [Links from On Air](https://www.fox4news.com/links)
-* [FOX 4 Features](https://www.fox4news.com/tag/series/fox-4-features)
+* [Last Call with Steve Noviello](https://www.fox4news.com/lastcall)
 * [Trackdown](https://www.fox4news.com/tag/series/trackdown)
 * [Texas: The Issue Is](https://www.fox4news.com/tag/tx-politics/texas-the-issue-is)
 * [The Tex Factor](https://www.fox4news.com/shows/the-tex-factor)
 * [Texas To-Do List](https://www.fox4news.com/tag/series/texas-to-do-list)
 * [Here's To You](https://www.fox4news.com/herestoyou)
-* [Last Call with Steve Noviello](https://www.fox4news.com/lastcall)
-* [Brand Spotlight](https://www.fox4news.com/shows/brand-spotlight)
 
 ###### [About Us](https://www.fox4news.com/about-us)
 
@@ -84,6 +82,7 @@ Search site
 * [FCC Public File](https://www.fox4news.com/public-file)
 * [FCC Applications](https://www.fox4news.com/fcc-applications)
 * [KDFI / MORE 27](https://www.fox4news.com/more-27)
+* [Brand Spotlight](https://www.fox4news.com/shows/brand-spotlight)
 
 ###### [Regional News](https://www.fox4news.com/tag/us/tx)
 
@@ -401,35 +400,35 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
- [![Another Dallas pastor fired for inappropriate relationship with woman](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/V-DALLAS-TRINITY-BIBLE-CHURCH-PASTOR-REMOVED-4A_00.00.33.46.jpg?ve=1&tl=1)
+ [![Denton chiropractor accused of sexually assaulting patients](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/Hector-Reyes-Mugshot.jpg?ve=1&tl=1)
 
- ![Another Dallas pastor fired for inappropriate relationship with woman](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/592/333/V-DALLAS-TRINITY-BIBLE-CHURCH-PASTOR-REMOVED-4A_00.00.33.46.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/another-dallas-pastor-fired-inappropriate-relationship-woman)
+ ![Denton chiropractor accused of sexually assaulting patients](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/592/333/Hector-Reyes-Mugshot.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/denton-chiropractor-accused-sexually-assaulting-patients)
 
-### [Another Dallas pastor fired for inappropriate relationship with woman](https://www.fox4news.com/news/another-dallas-pastor-fired-inappropriate-relationship-woman)
+### [Denton chiropractor accused of sexually assaulting patients](https://www.fox4news.com/news/denton-chiropractor-accused-sexually-assaulting-patients)
 
- [![Gausman pitches 5 no-hit innings and Guerrero goes deep twice as Blue Jays beat Rangers 4-0](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/GettyImages-2173207527.jpg?ve=1&tl=1)
+ [![Dallas Symphony Orchestra hosts 60th anniversary Beatles experience](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2021/10/32/18/GettyImages-592194576.jpg?ve=1&tl=1)
 
- ![Gausman pitches 5 no-hit innings and Guerrero goes deep twice as Blue Jays beat Rangers 4-0](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/592/333/GettyImages-2173207527.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/sports/gausman-pitches-5-no-hit-innings-guerrero-goes-deep-twice-blue-jays-beat-rangers-4-0)
+ ![Dallas Symphony Orchestra hosts 60th anniversary Beatles experience](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2021/10/32/18/592/333/GettyImages-592194576.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/dallas-symphony-orchestra-hosts-60th-anniversary-beatles-experience)
 
-### [Gausman pitches 5 no-hit innings and Guerrero goes deep twice as Blue Jays beat Rangers 4-0](https://www.fox4news.com/sports/gausman-pitches-5-no-hit-innings-guerrero-goes-deep-twice-blue-jays-beat-rangers-4-0)
+### [Dallas Symphony Orchestra hosts 60th anniversary Beatles experience](https://www.fox4news.com/news/dallas-symphony-orchestra-hosts-60th-anniversary-beatles-experience)
 
- [![Big Tex put into place at State Fair of Texas in Fair Park](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2022/09/32/18/GettyImages-497348327.jpg?ve=1&tl=1)
+ [![Springfield, Ohio church offers support to Haitian immigrants](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/Springfield-Ohio-mural.jpg?ve=1&tl=1)
 
- ![Big Tex put into place at State Fair of Texas in Fair Park](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2022/09/32/18/592/333/GettyImages-497348327.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/big-tex-state-fair-texas-fair-park)
+ ![Springfield, Ohio church offers support to Haitian immigrants](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/592/333/Springfield-Ohio-mural.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/springfield-church-support-haitian-immigrants)
 
-### [Big Tex put into place at State Fair of Texas in Fair Park](https://www.fox4news.com/news/big-tex-state-fair-texas-fair-park)
+### [‘He called us to welcome strangers:’ Springfield church offers support to Haitian immigrants](https://www.fox4news.com/news/springfield-church-support-haitian-immigrants)
 
- [![Kentucky sheriff charged in judge's shooting death: What we know](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/Mullins1.jpg?ve=1&tl=1)
+ [![Fort Worth Mayor Mattie Parker wears 'Life is Too Short to Live in Dallas' shirt](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/mattie-parker.jpg?ve=1&tl=1)
 
- ![Kentucky sheriff charged in judge's shooting death: What we know](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/592/333/Mullins1.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/kentucky-judge-shot-sheriff-charged-what-we-know)
+ ![Fort Worth Mayor Mattie Parker wears 'Life is Too Short to Live in Dallas' shirt](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/592/333/mattie-parker.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/fort-worth-mayor-parker-shirt-iron-skillet-dallas)
 
-### [Kentucky sheriff charged in judge’s shooting death at courthouse: What we know](https://www.fox4news.com/news/kentucky-judge-shot-sheriff-charged-what-we-know)
+### [Fort Worth Mayor Mattie Parker wears 'Life is Too Short to Live in Dallas' shirt](https://www.fox4news.com/news/fort-worth-mayor-parker-shirt-iron-skillet-dallas)
 
- [![Denton Animal Services manager fired after family's dog euthanized](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/P-ALEX-DENTON-DOG-EUTHANIZED-530P_00.01.15.10.jpg?ve=1&tl=1)
+ [![Mansfield man killed in shooting; suspect on the run](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2021/05/32/18/1d79ac79-7adf2996-POLICE-GENERIC.jpg?ve=1&tl=1)
 
- ![Denton Animal Services manager fired after family's dog euthanized](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/592/333/P-ALEX-DENTON-DOG-EUTHANIZED-530P_00.01.15.10.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/gunner-denton-animal-shelter-euthanized-manager-firing-update)
+ ![Mansfield man killed in shooting; suspect on the run](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2021/05/32/18/592/333/1d79ac79-7adf2996-POLICE-GENERIC.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/mansfield-shooting-one-dead)
 
-### [Denton Animal Services manager fired after family's dog euthanized](https://www.fox4news.com/news/gunner-denton-animal-shelter-euthanized-manager-firing-update)
+### [Mansfield man killed in shooting; suspect on the run](https://www.fox4news.com/news/mansfield-shooting-one-dead)
 
 ###### [News](https://www.fox4news.com/news)
 
@@ -442,7 +441,7 @@ Please note that, in some instances, we may decline to honor your request where,
 * [Business](https://www.fox4news.com/tag/business)
 * [Health](https://www.fox4news.com/tag/health)
 * [FOX News Sunday](https://www.fox4news.com/news/fox-news-sunday-with-shannon-bream)
-* [Election](https://www.fox4news.com/election)
+* [2024 Election](https://www.fox4news.com/election)
 
 ###### [Weather](https://www.fox4news.com/weather)
 
@@ -466,25 +465,23 @@ Please note that, in some instances, we may decline to honor your request where,
 
 ###### [Good Day](https://www.fox4news.com/shows/good-day)
 
-* [Recipes](https://www.fox4news.com/tag/series/good-day-recipes)
+* [Links from On Air](https://www.fox4news.com/links)
+* [Birthdays](https://www.fox4news.com/good-day-birthdays)
+* [Recipes](https://www.fox4news.com/tag/good-day/good-day-recipes)
 * [Traffic](https://www.fox4news.com/traffic)
 * [Entertainment](https://www.fox4news.com/tag/entertainment)
 * [Things To Do](https://www.fox4news.com/tag/lifestyle/things-to-do-in-dallas)
 * [Save Me Steve](https://www.fox4news.com/tag/series/save-me-steve)
-* [Birthdays](https://www.fox4news.com/good-day-birthdays)
 
-###### [Only on FOX 4](https://www.fox4news.com/tag/series/fox-4-features)
+###### [Latest Episodes](https://www.fox4news.com/tag/series/)
 
 * [Watch Live](https://www.fox4news.com/live)
-* [Links from On Air](https://www.fox4news.com/links)
-* [FOX 4 Features](https://www.fox4news.com/tag/series/fox-4-features)
+* [Last Call with Steve Noviello](https://www.fox4news.com/lastcall)
 * [Trackdown](https://www.fox4news.com/tag/series/trackdown)
 * [Texas: The Issue Is](https://www.fox4news.com/tag/tx-politics/texas-the-issue-is)
 * [The Tex Factor](https://www.fox4news.com/shows/the-tex-factor)
 * [Texas To-Do List](https://www.fox4news.com/tag/series/texas-to-do-list)
 * [Here's To You](https://www.fox4news.com/herestoyou)
-* [Last Call with Steve Noviello](https://www.fox4news.com/lastcall)
-* [Brand Spotlight](https://www.fox4news.com/shows/brand-spotlight)
 
 ###### [About Us](https://www.fox4news.com/about-us)
 
@@ -498,6 +495,7 @@ Please note that, in some instances, we may decline to honor your request where,
 * [FCC Public File](https://www.fox4news.com/public-file)
 * [FCC Applications](https://www.fox4news.com/fcc-applications)
 * [KDFI / MORE 27](https://www.fox4news.com/more-27)
+* [Brand Spotlight](https://www.fox4news.com/shows/brand-spotlight)
 
 ###### [Regional News](https://www.fox4news.com/tag/us/tx)
 
