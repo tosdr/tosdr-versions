@@ -66,9 +66,7 @@ Any e-mail addresses are not used or collected for any purpose other than notify
 
 ### Look at this!
 
-[![MoneyMaze](/assets/logos/thelowroad.png)](http://www.followthemoney.org/research/institute-research/best-practices-for-independent-spending-part-one)
-
-Just try to follow the maze of independent expenditures.
+[![Dark Money Pushes Into State Elections](/assets/Images/teasers/small/DarkMoneyStates.JPG)](https://www.followthemoney.org/research/blog/darkness-on-the-edge-of-town-national-dark-money-targets-states)
 
   [See More Visualizations](https://www.followthemoney.org/look-at-this)
 
