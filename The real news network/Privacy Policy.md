@@ -78,10 +78,10 @@ Trending Posts
 * [Into the maelstrom: Can French democracy survive its political crisis?](https://therealnews.com/into-the-maelstrom-can-french-democracy-survive-its-political-crisis)
 * [Cops cuffed her for failing to signal, but a camera turned their plan upside down](https://therealnews.com/cops-cuffed-her-for-failing-to-signal-but-a-camera-turned-their-plan-upside-down)
 * [Black, conservative, and unapologetic: A deep dive with the Black women fighting to get Trump reelected](https://therealnews.com/black-conservative-and-unapologetic-a-deep-dive-with-the-black-women-fighting-to-get-trump-reelected)
-* [Harris clobbered Trump in the debate—but does it matter?](https://therealnews.com/harris-clobbered-trump-in-the-debate-but-does-it-matter)
 * [The latest theories on how Rey Rivera died don't point to the rooftop](https://therealnews.com/the-latest-theories-on-how-rey-rivera-died-dont-point-to-the-rooftop)
-* [Unmarked Sacramento gang unit cops stop, arrest father and child at gunpoint](https://therealnews.com/unmarked-sacramento-gang-unit-cops-stop-arrest-father-and-child-at-gunpoint)
+* [Harris clobbered Trump in the debate—but does it matter?](https://therealnews.com/harris-clobbered-trump-in-the-debate-but-does-it-matter)
 * ['An act of terror': Israel behind pager explosions that killed 11, wounded thousands](https://therealnews.com/an-act-of-terror-israel-behind-pager-explosions-that-killed-11-wounded-thousands)
+* [Unmarked Sacramento gang unit cops stop, arrest father and child at gunpoint](https://therealnews.com/unmarked-sacramento-gang-unit-cops-stop-arrest-father-and-child-at-gunpoint)
 
 Close
 
@@ -142,10 +142,10 @@ Trending Posts
 * [Into the maelstrom: Can French democracy survive its political crisis?](https://therealnews.com/into-the-maelstrom-can-french-democracy-survive-its-political-crisis)
 * [Cops cuffed her for failing to signal, but a camera turned their plan upside down](https://therealnews.com/cops-cuffed-her-for-failing-to-signal-but-a-camera-turned-their-plan-upside-down)
 * [Black, conservative, and unapologetic: A deep dive with the Black women fighting to get Trump reelected](https://therealnews.com/black-conservative-and-unapologetic-a-deep-dive-with-the-black-women-fighting-to-get-trump-reelected)
-* [Harris clobbered Trump in the debate—but does it matter?](https://therealnews.com/harris-clobbered-trump-in-the-debate-but-does-it-matter)
 * [The latest theories on how Rey Rivera died don't point to the rooftop](https://therealnews.com/the-latest-theories-on-how-rey-rivera-died-dont-point-to-the-rooftop)
-* [Unmarked Sacramento gang unit cops stop, arrest father and child at gunpoint](https://therealnews.com/unmarked-sacramento-gang-unit-cops-stop-arrest-father-and-child-at-gunpoint)
+* [Harris clobbered Trump in the debate—but does it matter?](https://therealnews.com/harris-clobbered-trump-in-the-debate-but-does-it-matter)
 * ['An act of terror': Israel behind pager explosions that killed 11, wounded thousands](https://therealnews.com/an-act-of-terror-israel-behind-pager-explosions-that-killed-11-wounded-thousands)
+* [Unmarked Sacramento gang unit cops stop, arrest father and child at gunpoint](https://therealnews.com/unmarked-sacramento-gang-unit-cops-stop-arrest-father-and-child-at-gunpoint)
 
 [Skip to content](#main)
 
