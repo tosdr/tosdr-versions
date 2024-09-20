@@ -576,6 +576,14 @@ Sign up for our emails and get exclusive benefits
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
+Easy to talk to.
+
+Treb Ghenz Calgary 14/09/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
 Amazing service,!on time and did a great job for me. John and his partner were very courteous and efficient. Great job. Highly recommend.
 
 Dennis Church Calgary 14/09/2024
@@ -587,14 +595,6 @@ Dennis Church Calgary 14/09/2024
 Great people.
 
 Yves Rusi Calgary 14/09/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
-Easy to talk to.
-
-Treb Ghenz Calgary 14/09/2024
 
 ![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
 
@@ -656,6 +656,14 @@ Liesa Evans Calgary 11/09/2024
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
+Quick, courteous and clean service.
+
+Robert Hill Calgary 10/09/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
 Early to appointment, very easy to work with, polite and clean. Moved a difficult piece of furniture.
 
 L. Dee Calgary 10/09/2024
@@ -675,14 +683,6 @@ lorne stasiuk Calgary 10/09/2024
 Guys were great! Very nice :)
 
 Darnelle Noel Calgary 10/09/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
-Quick, courteous and clean service.
-
-Robert Hill Calgary 10/09/2024
 
 ![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
 
