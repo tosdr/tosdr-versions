@@ -1,3 +1,5 @@
+[Breaking: Georgia Election Board passes election night hand-counting rule](https://www.ajc.com/politics/georgia-election-board-passes-hand-counting-requirement-on-election-night/234EQUP27VBL5CW2VS2HYQJCS4/)
+
 [![ajc logo](/pf/resources/logos/AJC/logo-full-redesign.svg?d=1692)![ajc logo](/pf/resources/logos/AJC/logo-short.svg?d=1692)](https://www.ajc.com/)
 
 Log In
@@ -14,7 +16,6 @@ Log In
 [Frequently Asked Questions
 --------------------------](https://www.ajc.com/frequently-asked-questions)
 
-* [A.M. ATL Newsletter](https://www.ajc.com/news/am-atl-going-rogue-on-medical-marijuana/3JVUEQ2HRVCZXD3L27C6Z5TUJA/)
 * [Weekend Things to Do](https://www.ajc.com/things-to-do/things-to-do-in-atlanta-this-weekend-sept-20-22/JRRVFRDW6ZA6TFL4TIFEC6YUGY/)
 * [Georgia School Shooting](https://www.ajc.com/news/georgia-school-shooting/)
 * [UATL](https://www.ajc.com/uatl/)
