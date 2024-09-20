@@ -14,6 +14,40 @@ FOX SCORES
 * NHL
 * US Sports
 
+* NRL
+    
+* [NRL
+    
+    20/9 19:50 AEST
+    
+    |     |     |
+    | --- | --- |
+    | CRO | –   |
+    | NQL | –   |
+    
+    Match Centre](https://www.foxsports.com.au/nrl/nrl-premiership/match-centre/NRL20242901)
+* AFL
+    
+* [AFL
+    
+    20/9 19:40 AEST
+    
+    |     |     |
+    | --- | --- |
+    | SYD | –   |
+    | POR | –   |
+    
+    Match Centre](https://www.foxsports.com.au/afl/match-centre/AFL20242701)
+* [AFL Women's
+    
+    20/9 17:05 AEST
+    
+    |     |     |
+    | --- | --- |
+    | NM  | –   |
+    | POR | –   |
+    
+    Match Centre](https://www.foxsports.com.au/afl/aflw/match-centre/AFLW20240404)
 * Netball
     
 * [Women's Tests
@@ -58,70 +92,16 @@ FOX SCORES
     | AUS | 3 /317 |
     
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/ODI20240701)
-* NRL
-    
-* [NRL
-    
-    20/9 19:50 AEST
-    
-    |     |     |
-    | --- | --- |
-    | CRO | –   |
-    | NQL | –   |
-    
-    Match Centre](https://www.foxsports.com.au/nrl/nrl-premiership/match-centre/NRL20242901)
-* [NRL Women's
-    
-    Complete
-    
-    |     |     |
-    | --- | --- |
-    | CRO | 10  |
-    | WST | 12  |
-    
-    Match Centre](https://www.foxsports.com.au/nrl/nrlw/match-centre/NRLW20240901)
-* AFL
-    
-* [AFL
-    
-    20/9 19:40 AEST
-    
-    |     |     |
-    | --- | --- |
-    | SYD | –   |
-    | POR | –   |
-    
-    Match Centre](https://www.foxsports.com.au/afl/match-centre/AFL20242701)
-* [AFL Women's
-    
-    Complete
-    
-    |     |     |
-    | --- | --- |
-    | RIC | 6.3.39 |
-    | CAR | 0.6.6 |
-    
-    Match Centre](https://www.foxsports.com.au/afl/aflw/match-centre/AFLW20240403)
-* [AFL Women's
-    
-    20/9 17:05 AEST
-    
-    |     |     |
-    | --- | --- |
-    | NM  | –   |
-    | POR | –   |
-    
-    Match Centre](https://www.foxsports.com.au/afl/aflw/match-centre/AFLW20240404)
 * NFL
     
 * [NFL
     
-    20/9 10:15 AEST
+    Half Time
     
     |     |     |
     | --- | --- |
-    | NYJ | –   |
-    | NE  | –   |
+    | NYJ | 14  |
+    | NE  | 3   |
     
     Match Centre](https://www.foxsports.com.au/gridiron/nfl/match-centre/NFL2024-250317)
 * Motorsport
@@ -204,37 +184,17 @@ FOX SCORES
     Match Centre](https://www.foxsports.com.au/football/champions-league/match-centre/UCL2024-250125)
 * [UCL
     
-    1st Half
+    Full Time
     
     |     |     |
     | --- | --- |
-    | BRE | 1   |
-    | SG  | 0   |
+    | BGD | 1   |
+    | BEN | 2   |
     
-    Match Centre](https://www.foxsports.com.au/football/champions-league/match-centre/UCL2024-250135)
+    Match Centre](https://www.foxsports.com.au/football/champions-league/match-centre/UCL2024-250127)
 * [UCL
     
-    1st Half
-    
-    |     |     |
-    | --- | --- |
-    | AMD | 1   |
-    | RBL | 1   |
-    
-    Match Centre](https://www.foxsports.com.au/football/champions-league/match-centre/UCL2024-250133)
-* [UCL
-    
-    1st Half
-    
-    |     |     |
-    | --- | --- |
-    | MCO | 1   |
-    | BAR | 1   |
-    
-    Match Centre](https://www.foxsports.com.au/football/champions-league/match-centre/UCL2024-250131)
-* [UCL
-    
-    1st Half
+    Full Time
     
     |     |     |
     | --- | --- |
@@ -248,10 +208,30 @@ FOX SCORES
     
     |     |     |
     | --- | --- |
-    | BGD | 1   |
-    | BEN | 2   |
+    | BRE | 2   |
+    | SG  | 1   |
     
-    Match Centre](https://www.foxsports.com.au/football/champions-league/match-centre/UCL2024-250127)
+    Match Centre](https://www.foxsports.com.au/football/champions-league/match-centre/UCL2024-250135)
+* [UCL
+    
+    Full Time
+    
+    |     |     |
+    | --- | --- |
+    | MCO | 2   |
+    | BAR | 1   |
+    
+    Match Centre](https://www.foxsports.com.au/football/champions-league/match-centre/UCL2024-250131)
+* [UCL
+    
+    Full Time
+    
+    |     |     |
+    | --- | --- |
+    | AMD | 2   |
+    | RBL | 1   |
+    
+    Match Centre](https://www.foxsports.com.au/football/champions-league/match-centre/UCL2024-250133)
 
 [Go to All Scores](https://www.foxsports.com.au/score-centre/)
 
