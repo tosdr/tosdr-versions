@@ -142,14 +142,6 @@ Sherman, TX 75090
 Upcoming Events
 ---------------
 
-Sep 19
-
-5:30 pm - 7:00 pm [Event Series](https://tcog.com/series/governing-board-meeting-2/ "Event Series")
-
-### [Governing Board Meeting](https://tcog.com/event/governing-board-meeting-11/ "Governing Board Meeting")
-
-Sherman
-
 Oct 5
 
 8:00 am - 12:00 pm
@@ -171,6 +163,14 @@ Oct 10
 5:30 pm - 6:00 pm [Event Series](https://tcog.com/series/executive-officers-committee/ "Event Series")
 
 ### [Executive Officers Committee](https://tcog.com/event/executive-officers-committee-2/2024-10-10/ "Executive Officers Committee")
+
+Sherman
+
+Oct 17
+
+5:30 pm - 7:00 pm [Event Series](https://tcog.com/series/governing-board-meeting-2/ "Event Series")
+
+### [Governing Board Meeting](https://tcog.com/event/governing-board-meeting/2024-10-17/ "Governing Board Meeting")
 
 Sherman
 
