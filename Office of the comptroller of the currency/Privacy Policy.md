@@ -38,6 +38,8 @@ An official website of the United States government
         * [Office of Thrift Supervision Archive Search](https://www.occ.gov/news-events/newsroom/news-issuances-by-year/ots-issuances/index-ots-issuances.html "Office of Thrift Supervision (OTS) Issuances")
     
 
+Parts of this site may be down for maintenance from Saturday, September 21, 7:00 p.m. to Sunday, September 22, 9:00 a.m. (Eastern).
+
 _[![OCC logo - search](/images/c-clamp-images/occ-logo-des.svg "OCC logo")​![OCC logo - mobile](/images/c-clamp-images/occ-logo-mob.svg "occ-logo-mob-white")](https://www.occ.gov/index.html "Home")_
 
 Search
@@ -75,7 +77,7 @@ Menu
     * [Public Comments](https://www.occ.gov/about/connect-with-us/public-comments/index-public-comments.html)
     * [Congressional Relations](https://www.occ.gov/about/connect-with-us/congressional-relations/index-congressional-relations.html)
     * [Consumer Information](https://www.occ.gov/topics/consumers-and-communities/consumer-protection/index-consumer-protection.html)
-    * [BankNet](https://www.banknet.gov/entrance/default.html)
+    * [BankNet](https://www.banknet.gov/)
     * [OCC Alumni](https://www.occ.gov/publications-and-resources/information-for/occ-alumni/index-information-for-occ-alumni.html)
     * [Whistleblower Protections](https://www.occ.gov/about/connect-with-us/whistleblower-protections/index-whistleblower-protection-and-prohibited-personnel-practices.html)
     * [Licensing Office Contacts](https://www.occ.gov/topics/charters-and-licensing/licensing-office-contacts.html)
