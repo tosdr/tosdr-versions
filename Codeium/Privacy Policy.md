@@ -2,15 +2,15 @@
 
 [](https://codeium.com/)
 
-[Docs](https://docs.codeium.com/)
-
 Open Product optionsProduct
-
-Open Resources optionsResources
 
 [Pricing](https://codeium.com/pricing)
 
 [Enterprise](https://codeium.com/enterprise)
+
+Open Resources optionsResources
+
+[Docs](https://docs.codeium.com/)
 
 Open Company optionsCompany
 
