@@ -313,13 +313,13 @@ article 1 week ago](https://www.nasa.gov/earth/nasa-finds-summer-2024-hottest-to
 
 ### NASA Develops Process to Create Very Accurate Eclipse Maps
 
-article 10 hours ago](https://science.nasa.gov/solar-system/skywatching/eclipses/solar-eclipses/nasa-develops-process-to-create-very-accurate-eclipse-maps/)[![Artist’s concept depicts NASA’s Europa Clipper spacecraft in orbit around Jupiter](https://www.nasa.gov/wp-content/uploads/2024/08/e3-pia26068-europa-clipper-spacecraft-stylized-illustration.jpg?w=1024)
+article 12 hours ago](https://science.nasa.gov/solar-system/skywatching/eclipses/solar-eclipses/nasa-develops-process-to-create-very-accurate-eclipse-maps/)[![Artist’s concept depicts NASA’s Europa Clipper spacecraft in orbit around Jupiter](https://www.nasa.gov/wp-content/uploads/2024/08/e3-pia26068-europa-clipper-spacecraft-stylized-illustration.jpg?w=1024)
 
 6 min read
 
 ### 8 Things to Know About NASA’s Mission to an Ocean Moon of Jupiter
 
-article 2 days ago](https://www.nasa.gov/missions/europa-clipper/8-things-to-know-about-nasas-mission-to-an-ocean-moon-of-jupiter/)[![Solar Storms and Flares](https://science.nasa.gov/wp-content/uploads/2024/06/x-flare-may-8-2024-131-171-red-crop2.jpg)
+article 3 days ago](https://www.nasa.gov/missions/europa-clipper/8-things-to-know-about-nasas-mission-to-an-ocean-moon-of-jupiter/)[![Solar Storms and Flares](https://science.nasa.gov/wp-content/uploads/2024/06/x-flare-may-8-2024-131-171-red-crop2.jpg)
 
 2 min read
 
@@ -335,13 +335,13 @@ article 6 days ago](https://science.nasa.gov/sun/solar-storms-and-flares/)
 
 ### Burst Chaser
 
-article 4 hours ago](https://science.nasa.gov/citizen-science/burst-chaser/)[![NASA’s Webb Provides Another Look Into Galactic Collisions](https://science.nasa.gov/wp-content/uploads/2024/09/webb-stsci-01j7493cj4zg05r3txkm6be0s6-2k.png)
+article 6 hours ago](https://science.nasa.gov/citizen-science/burst-chaser/)[![NASA’s Webb Provides Another Look Into Galactic Collisions](https://science.nasa.gov/wp-content/uploads/2024/09/webb-stsci-01j7493cj4zg05r3txkm6be0s6-2k.png)
 
 4 min read
 
 ### NASA’s Webb Provides Another Look Into Galactic Collisions
 
-article 1 day ago](https://science.nasa.gov/missions/webb/nasas-webb-provides-another-look-into-galactic-collisions/)[![the Roman spacecraft bus](https://www.nasa.gov/wp-content/uploads/2024/09/spacecraft-001.jpg?w=1024)
+article 2 days ago](https://science.nasa.gov/missions/webb/nasas-webb-provides-another-look-into-galactic-collisions/)[![the Roman spacecraft bus](https://www.nasa.gov/wp-content/uploads/2024/09/spacecraft-001.jpg?w=1024)
 
 5 min read
 
@@ -357,19 +357,19 @@ article 2 days ago](https://www.nasa.gov/missions/roman-space-telescope/nasa-com
 
 ### Burst Chaser
 
-article 4 hours ago](https://science.nasa.gov/citizen-science/burst-chaser/)[![Amendment 50: F.18 MOSAICS DRAFT Text Released for Community Comment.](https://science.nasa.gov/wp-content/uploads/2024/09/mars-perseverance-zl0-1244-0777389210-678eby-n0564106zcam09300-1100lmj.png)
+article 6 hours ago](https://science.nasa.gov/citizen-science/burst-chaser/)[![Amendment 50: F.18 MOSAICS DRAFT Text Released for Community Comment.](https://science.nasa.gov/wp-content/uploads/2024/09/mars-perseverance-zl0-1244-0777389210-678eby-n0564106zcam09300-1100lmj.png)
 
 1 min read
 
 ### Amendment 50: F.18 MOSAICS DRAFT Text Released for Community Comment.
 
-article 5 hours ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-50-f-18-mosaics-draft-text-released-for-community-comment/)[![A.55 Decadal Survey Incubation Program: Science and Technology Date Change for Preproposal Telecon](https://science.nasa.gov/wp-content/uploads/2023/12/Humboldt_Glacier_draped_over_topographic_data.jpeg)
+article 7 hours ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-50-f-18-mosaics-draft-text-released-for-community-comment/)[![A.55 Decadal Survey Incubation Program: Science and Technology Date Change for Preproposal Telecon](https://science.nasa.gov/wp-content/uploads/2023/12/Humboldt_Glacier_draped_over_topographic_data.jpeg)
 
 1 min read
 
 ### A.55 Decadal Survey Incubation Program: Science and Technology Date Change for Preproposal Telecon
 
-article 9 hours ago](https://science.nasa.gov/researchers/solicitations/roses-2024/a-55-decadal-survey-incubation-program-science-and-technology-date-change-for-preproposal-telecon/)
+article 11 hours ago](https://science.nasa.gov/researchers/solicitations/roses-2024/a-55-decadal-survey-incubation-program-science-and-technology-date-change-for-preproposal-telecon/)
 
 ### Highlights
 
@@ -401,7 +401,7 @@ article 2 weeks ago](https://www.nasa.gov/centers-and-facilities/glenn/nasa-tunn
 
 ### A.55 Decadal Survey Incubation Program: Science and Technology Date Change for Preproposal Telecon
 
-article 9 hours ago](https://science.nasa.gov/researchers/solicitations/roses-2024/a-55-decadal-survey-incubation-program-science-and-technology-date-change-for-preproposal-telecon/)[![](https://www.nasa.gov/wp-content/uploads/2024/09/image-819d21.jpeg?w=1024)
+article 11 hours ago](https://science.nasa.gov/researchers/solicitations/roses-2024/a-55-decadal-survey-incubation-program-science-and-technology-date-change-for-preproposal-telecon/)[![](https://www.nasa.gov/wp-content/uploads/2024/09/image-819d21.jpeg?w=1024)
 
 5 min read
 
@@ -423,7 +423,7 @@ article 2 days ago](https://www.nasa.gov/technology/tech-transfer-spinoffs/measu
 
 ### Amendment 50: F.18 MOSAICS DRAFT Text Released for Community Comment.
 
-article 5 hours ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-50-f-18-mosaics-draft-text-released-for-community-comment/)[![Screen capture of the My NASA Data homepage. Graphic has a blue background with an image of the Earth and rows across half of the picture representing water, sea ice, forests, clouds, and lava. Words at the top list the content categories.](https://www.nasa.gov/wp-content/uploads/2024/09/1-my-nasa-data-homepage.png?w=1024)
+article 7 hours ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-50-f-18-mosaics-draft-text-released-for-community-comment/)[![Screen capture of the My NASA Data homepage. Graphic has a blue background with an image of the Earth and rows across half of the picture representing water, sea ice, forests, clouds, and lava. Words at the top list the content categories.](https://www.nasa.gov/wp-content/uploads/2024/09/1-my-nasa-data-homepage.png?w=1024)
 
 4 min read
 
@@ -435,7 +435,7 @@ article 3 days ago](https://www.nasa.gov/earth/going-back-to-school-with-nasa-da
 
 ### NASA Mobilizes Resource for HBCU Scholars, Highlighted at Conference
 
-article 3 days ago](https://www.nasa.gov/learning-resources/nasa-mobilizes-resource-for-hbcu-scholars-highlighted-at-conference/)
+article 4 days ago](https://www.nasa.gov/learning-resources/nasa-mobilizes-resource-for-hbcu-scholars-highlighted-at-conference/)
 
 ### Featured
 
