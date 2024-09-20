@@ -1767,6 +1767,8 @@ What do top resumes look like? Check out these expertly-written samples:
 
 [Database Developer](https://cvcompiler.com/database-developer-resume-examples)
 
+[Senior Administrative Assistant](https://cvcompiler.com/senior-administrative-assistant-resume-examples)
+
 ![Upload resume illustration](uploads-pre-acq/img/upload-illustration.svg)
 
 ### Upload  
