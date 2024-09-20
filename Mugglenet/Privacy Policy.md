@@ -244,12 +244,6 @@ MuggleNet Archive Select Month September 2024  (17) August 2024  (30) July 202
 
 ### September 2024
 
-#### Thu, Sep 19
-
-Hermione Granger's birthday
-
-Recurs yearly
-
 #### Fri, Sep 20
 
 Harry receives his Nimbus 2000
@@ -278,6 +272,12 @@ Garrick Ollivander's birthday
 
 Recurs yearly
 
+#### Thu, Sep 26
+
+Quirinus Quirrell's birthday
+
+Recurs yearly
+
 MuggleNet podcasts are sponsored in part by [Secretlab](https://secretlab.co/harrypotter?rfsn=8013987.9df8fbc&utm_source=refersion&utm_medium=affiliate&utm_campaign=8013987.9df8fbc&utm_source=refersion&utm_medium=affiliate&utm_campaign=8013987.9df8fbc).
 
 ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
@@ -288,15 +288,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-The name Voldemort comes from the French words meaning “fly from death,” and his entire goal is to conquer death.
+During the Harry Potter and the Philosopher’s/Sorcerer’s Stone film, viewers can hear Rubeus Hagrid playing Hedwig’s Theme on a flute right before the trio approaches and asks him about obtaining Norbert.
 
 ### Potter History
 
-March 29, 2006 – “Harry Potter and the Half-Blood Prince” is named Book of the Year at the British Book Awards ceremony.
+July 16, 2009 – Harry Potter and the Half-Blood Prince film breaks records to have the highest grossing first 24 hours of all time.
 
 ### Potter Quote
 
-“Sunshine, daisies, butter mellow, Turn this stupid, fat rat yellow.”
+“I’m worth twelve of you, Malfoy.”
 
 [](#)
 
