@@ -864,14 +864,6 @@ Lonimi Meseko Monteregie Metro 03/01/2023
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
-Jason and Syl were quick and extremely professional.
-
-Andrew Duhig LA Metro 14/09/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
 Fast professional and friendly!
 
 Tamra Mast Austin 14/09/2024
@@ -944,17 +936,9 @@ Evan Johnston Wisconsin 14/09/2024
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
-Wonderful experience! Great job and very helpful! Thank you David and Keone
+Jason and Syl were quick and extremely professional.
 
-Sonia Dhingra Wisconsin 13/09/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
-What a great company. Ethan and Damien did such a wonderful job. They both had great customer service and worked so hard.
-
-Jenny Duvall Wisconsin 13/09/2024
+Andrew Duhig LA Metro 14/09/2024
 
 ![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
 
@@ -1003,6 +987,22 @@ Sam Brady Austin 13/09/2024
 Great service. Mason has a gentle touch!
 
 Corby Houser Austin 13/09/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
+Avron and Alex were freakin awesome! Thank you fellas!
+
+Alisha Bell Naples 13/09/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
+Avron and Alex are 100% the best
+
+Angela White Naples 13/09/2024
 
 ### 
 
