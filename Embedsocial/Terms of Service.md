@@ -65,49 +65,49 @@ Search
     
     [EmbedFeedSocial media aggregator](https://embedsocial.com/social-media-aggregator/)
     
-    *   [![Instagram widget logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2036%2036'%3E%3C/svg%3E)
+    * [![Instagram widget logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2036%2036'%3E%3C/svg%3E)
         
-         ![Instagram widget logo](https://embedsocial.com/wp-content/uploads/2024/03/instagram-logo-new.png)
+        ![Instagram widget logo](https://embedsocial.com/wp-content/uploads/2024/03/instagram-logo-new.png)
         
         Instagram Reels](https://embedsocial.com/instagram-reels-widget/ "Instagram Reels")
-    *   [![Instagram widget logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2036%2036'%3E%3C/svg%3E)
+    * [![Instagram widget logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2036%2036'%3E%3C/svg%3E)
         
-         ![Instagram widget logo](https://embedsocial.com/wp-content/uploads/2024/03/instagram-logo-new.png)
+        ![Instagram widget logo](https://embedsocial.com/wp-content/uploads/2024/03/instagram-logo-new.png)
         
         Instagram Stories](https://embedsocial.com/widgets/instagram-stories/ "Instagram Stories")
-    *   [![Instagram widget logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2036%2036'%3E%3C/svg%3E)
+    * [![Instagram widget logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2036%2036'%3E%3C/svg%3E)
         
-         ![Instagram widget logo](https://embedsocial.com/wp-content/uploads/2024/03/instagram-logo-new.png)
+        ![Instagram widget logo](https://embedsocial.com/wp-content/uploads/2024/03/instagram-logo-new.png)
         
         Instagram Widget](https://embedsocial.com/instagram-widget/ "Instagram Widget")
-    *   [![LinkedIn Widget](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2036%2036'%3E%3C/svg%3E)
+    * [![LinkedIn Widget](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2036%2036'%3E%3C/svg%3E)
         
-         ![LinkedIn Widget](https://embedsocial.com/wp-content/uploads/2023/08/linkedin-logo-menu.png)
+        ![LinkedIn Widget](https://embedsocial.com/wp-content/uploads/2023/08/linkedin-logo-menu.png)
         
         LinkedIn Widget](https://embedsocial.com/linkedin-widget/ "LinkedIn Widget")
-    *   [![Facebook logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2036%2036'%3E%3C/svg%3E)
+    * [![Facebook logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2036%2036'%3E%3C/svg%3E)
         
-         ![Facebook logo](https://embedsocial.com/wp-content/uploads/2021/12/facebook-logo-36x36.png)
+        ![Facebook logo](https://embedsocial.com/wp-content/uploads/2021/12/facebook-logo-36x36.png)
         
         Facebook Feed Widget](https://embedsocial.com/facebook-widget/ "Facebook Feed Widget")
-    *   [![TikTok Icon](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2036%2036'%3E%3C/svg%3E)
+    * [![TikTok Icon](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2036%2036'%3E%3C/svg%3E)
         
-         ![TikTok Icon](https://embedsocial.com/wp-content/uploads/2022/01/tiktok-icon-36x36.png)
+        ![TikTok Icon](https://embedsocial.com/wp-content/uploads/2022/01/tiktok-icon-36x36.png)
         
         TikTok Widget](https://embedsocial.com/tiktok-widget/ "TikTok Widget")
-    *   [![Twitter Icon](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2036%2036'%3E%3C/svg%3E)
+    * [![Twitter Icon](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2036%2036'%3E%3C/svg%3E)
         
-         ![Twitter Icon](https://embedsocial.com/wp-content/uploads/2022/01/twitter-36x36.png)
+        ![Twitter Icon](https://embedsocial.com/wp-content/uploads/2022/01/twitter-36x36.png)
         
         Twitter Widget](https://embedsocial.com/twitter-widget/ "Twitter Widget")
-    *   [![vimeo icon](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2036%2036'%3E%3C/svg%3E)
+    * [![vimeo icon](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2036%2036'%3E%3C/svg%3E)
         
-         ![vimeo icon](https://embedsocial.com/wp-content/uploads/2022/01/vimeo-icon-36x36.png)
+        ![vimeo icon](https://embedsocial.com/wp-content/uploads/2022/01/vimeo-icon-36x36.png)
         
         Vimeo Widget](https://embedsocial.com/vimeo-widget/ "Vimeo Widget")
-    *   [![YouTube Icon](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2036%2036'%3E%3C/svg%3E)
+    * [![YouTube Icon](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2036%2036'%3E%3C/svg%3E)
         
-         ![YouTube Icon](https://embedsocial.com/wp-content/uploads/2022/01/youtube-icon-36x36.png)
+        ![YouTube Icon](https://embedsocial.com/wp-content/uploads/2022/01/youtube-icon-36x36.png)
         
         YouTube Widget](https://embedsocial.com/youtube-widget/ "YouTube Widget")
     * [![facebook feeds](https://embedsocial.com/wp-content/uploads/2020/12/facebook.svg)Facebook Albums](https://embedsocial.com/facebook-albums/ "Facebook Albums")
@@ -115,45 +115,45 @@ Search
     
     [EmbedReviewsReviews management](https://embedsocial.com/products/reviews/)
     
-    *   [![google icon](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2036%2036'%3E%3C/svg%3E)
+    * [![google icon](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2036%2036'%3E%3C/svg%3E)
         
-         ![google icon](https://embedsocial.com/wp-content/uploads/2021/12/google-icon-36x36.png)
+        ![google icon](https://embedsocial.com/wp-content/uploads/2021/12/google-icon-36x36.png)
         
         Google Reviews Widget](https://embedsocial.com/google-reviews-widget/ "Google Reviews Widget")
     * [![google reviews](https://embedsocial.com/wp-content/uploads/2021/04/google-logo-icon.svg)Google Reviews NFC Card](https://embedsocial.com/google-reviews-nfc-card/ "Google Reviews NFC Card")
-    *   [![Facebook logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2036%2036'%3E%3C/svg%3E)
+    * [![Facebook logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2036%2036'%3E%3C/svg%3E)
         
-         ![Facebook logo](https://embedsocial.com/wp-content/uploads/2021/12/facebook-logo-36x36.png)
+        ![Facebook logo](https://embedsocial.com/wp-content/uploads/2021/12/facebook-logo-36x36.png)
         
         Facebook Reviews Widget](https://embedsocial.com/widgets/facebook-reviews/ "Facebook Reviews Widget")
-    *   [![Yelp logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2036%2036'%3E%3C/svg%3E)
+    * [![Yelp logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2036%2036'%3E%3C/svg%3E)
         
-         ![Yelp logo](https://embedsocial.com/wp-content/uploads/2021/12/yelp-logo-36x36.png)
+        ![Yelp logo](https://embedsocial.com/wp-content/uploads/2021/12/yelp-logo-36x36.png)
         
         Yelp Reviews Widget](https://embedsocial.com/yelp-reviews/ "Yelp Reviews Widget")
-    *   [![Reviews badges by EmbedSocial](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2036%2036'%3E%3C/svg%3E)
+    * [![Reviews badges by EmbedSocial](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2036%2036'%3E%3C/svg%3E)
         
-         ![Reviews badges by EmbedSocial](https://embedsocial.com/wp-content/uploads/2023/10/reviews-badge-embedsocial-36x36.png)
+        ![Reviews badges by EmbedSocial](https://embedsocial.com/wp-content/uploads/2023/10/reviews-badge-embedsocial-36x36.png)
         
         Reviews Badges](https://embedsocial.com/reviews-badges/ "Reviews Badges")
-    *   [![sms reviews](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2036%2036'%3E%3C/svg%3E)
+    * [![sms reviews](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2036%2036'%3E%3C/svg%3E)
         
-         ![sms reviews](https://embedsocial.com/wp-content/uploads/2021/12/sms-reviews-36x36.png)
+        ![sms reviews](https://embedsocial.com/wp-content/uploads/2021/12/sms-reviews-36x36.png)
         
         Email Reviews](https://embedsocial.com/email-reviews/ "Email Reviews")
-    *   [![shopify icon](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2036%2036'%3E%3C/svg%3E)
+    * [![shopify icon](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2036%2036'%3E%3C/svg%3E)
         
-         ![shopify icon](https://embedsocial.com/wp-content/uploads/2021/12/shopify-icon-36x36.png)
+        ![shopify icon](https://embedsocial.com/wp-content/uploads/2021/12/shopify-icon-36x36.png)
         
         Shopify Reviews](https://embedsocial.com/verified-reviews/ "Shopify Reviews")
-    *   [![Wall of love by EmbedSocial](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2036%2036'%3E%3C/svg%3E)
+    * [![Wall of love by EmbedSocial](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2036%2036'%3E%3C/svg%3E)
         
-         ![Wall of love by EmbedSocial](https://embedsocial.com/wp-content/uploads/2023/10/wall-of-love-36x36.png)
+        ![Wall of love by EmbedSocial](https://embedsocial.com/wp-content/uploads/2023/10/wall-of-love-36x36.png)
         
         ‘Wall of Love’ Page](https://embedsocial.com/products/reviews/reviews-page/ "'Wall of Love' Page")
-    *   [![EmbedForms logo icon](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2036%2036'%3E%3C/svg%3E)
+    * [![EmbedForms logo icon](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2036%2036'%3E%3C/svg%3E)
         
-         ![EmbedForms logo icon](https://embedsocial.com/wp-content/uploads/2022/01/forms-icon-36x36.png)
+        ![EmbedForms logo icon](https://embedsocial.com/wp-content/uploads/2022/01/forms-icon-36x36.png)
         
         Collect Reviews Forms](https://embedsocial.com/products/reviews/forms/ "Collect Reviews Forms")
     
