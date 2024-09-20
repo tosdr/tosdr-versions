@@ -4,6 +4,8 @@ Previous
 
 [Get a free bestsellers set on $85+ ($55 value). Use code: bests at checkout.](https://www.bobbibrowncosmetics.com/offers-landing-page)
 
+[2 DAYS ONLY – Buy one Crushed Oil-Infused Gloss, get a 2nd 50% off\*. No code needed.](https://www.bobbibrowncosmetics.com/products/2340/Makeup/Lips/Lip-Gloss)
+
 [Join our mailing list and get 15% off your first order.](https://www.bobbibrowncosmetics.com/account/signin.tmpl)
 
 Enjoy Free Standard Shipping on any $65+ order.
