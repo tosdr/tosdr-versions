@@ -570,23 +570,15 @@ Latest News
 
 [Japan agrees to stricter monitoring of Fukushima plant's treated water](https://www.japantimes.co.jp/news/2024/09/20/japan/japan-china-iaea-import/ "Japan agrees to stricter monitoring of Fukushima plant's treated water")
 
-5 hours ago
+11 hours ago
 
 [CDP leader hopefuls must bridge internal and external differences](https://www.japantimes.co.jp/news/2024/09/20/japan/politics/cdp-election-preview/ "CDP leader hopefuls must bridge internal and external differences")
 
-6 hours ago
-
 [Tokyo Metro, Rigaku set stage for $3 billion Japan IPOs as listings gather pace](https://www.japantimes.co.jp/business/2024/09/20/companies/tokyo-metro-ipo-date/ "Tokyo Metro, Rigaku set stage for $3 billion Japan IPOs as listings gather pace")
-
-7 hours ago
 
 [Dementia advocates worry public attitudes preventing diagnosis](https://www.japantimes.co.jp/news/2024/09/20/japan/science-health/alzheimers-attitudes-survey/ "Dementia advocates worry public attitudes preventing diagnosis")
 
-9 hours ago
-
 [Court rejects petition against low-altitude Haneda routes](https://www.japantimes.co.jp/news/2024/09/20/japan/crime-legal/haneda-airport-ruling/ "Court rejects petition against low-altitude Haneda routes")
-
-9 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
