@@ -23,31 +23,31 @@
     * [Featured](#nfeatured)
     * [Latest](#nlatest)
     
-    * [![Chinese botnet infects 260,000 SOHO routers, IP cameras with malware](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        Chinese botnet infects 260,000 SOHO routers, IP cameras with malware](https://www.bleepingcomputer.com/news/security/flax-typhoon-hackers-infect-260-000-routers-ip-cameras-with-botnet-malware/)
-    * [![Apple pulls iPadOS 18 update bricking M4 iPad Pro devices](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        Apple pulls iPadOS 18 update bricking M4 iPad Pro devices](https://www.bleepingcomputer.com/news/apple/apple-pulls-ipados-18-update-bricking-m4-ipad-pro-devices/)
-    * [![Russian security firm Dr.Web disconnects all servers after breach](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        Russian security firm Dr.Web disconnects all servers after breach](https://www.bleepingcomputer.com/news/security/russian-security-firm-drweb-disconnects-all-servers-after-breach/)
-    * [![Microsoft may have revealed Windows 11 24H2 is coming this month](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        Microsoft may have revealed Windows 11 24H2 is coming this month](https://www.bleepingcomputer.com/news/microsoft/microsoft-may-have-revealed-windows-11-24h2-is-coming-this-month/)
-    
-    * [![Ivanti warns of another critical CSA flaw exploited in attacks](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        Ivanti warns of another critical CSA flaw exploited in attacks](https://www.bleepingcomputer.com/news/security/ivanti-warns-of-another-critical-csa-flaw-exploited-in-attacks/)
-    * [![Want to be a certified ethical hacker? These courses help you get started](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        Want to be a certified ethical hacker? These courses help you get started](https://www.bleepingcomputer.com/offer/deals/want-to-be-a-certified-ethical-hacker-these-courses-help-you-get-started/)
     * [![FTC exposes massive surveillance of kids, teens by social media giants](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         FTC exposes massive surveillance of kids, teens by social media giants](https://www.bleepingcomputer.com/news/technology/ftc-exposes-massive-surveillance-of-kids-teens-by-social-media-giants/)
-    * [![Google Password Manager now automatically syncs your passkeys](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    * [![Unexplained ‘Noise Storms’ flood the Internet, puzzle experts](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Google Password Manager now automatically syncs your passkeys](https://www.bleepingcomputer.com/news/google/google-password-manager-now-automatically-syncs-your-passkeys/)
+        Unexplained ‘Noise Storms’ flood the Internet, puzzle experts](https://www.bleepingcomputer.com/news/security/unexplained-noise-storms-flood-the-internet-puzzle-experts/)
+    * [![Ivanti warns of another critical CSA flaw exploited in attacks](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        Ivanti warns of another critical CSA flaw exploited in attacks](https://www.bleepingcomputer.com/news/security/ivanti-warns-of-another-critical-csa-flaw-exploited-in-attacks/)
+    * [![Tor says it’s ](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        Tor says it’s "still safe" amid reports of police deanonymizing users](https://www.bleepingcomputer.com/news/security/tor-says-its-still-safe-amid-reports-of-police-deanonymizing-users/)
+    
+    * [![Suspects behind $230 million cryptocurrency theft arrested in Miami](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        Suspects behind $230 million cryptocurrency theft arrested in Miami](https://www.bleepingcomputer.com/news/security/suspects-behind-230-million-cryptocurrency-theft-arrested-in-miami/)
+    * [![CISA warns of actively exploited Apache HugeGraph-Server bug](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        CISA warns of actively exploited Apache HugeGraph-Server bug](https://www.bleepingcomputer.com/news/security/cisa-warns-of-actively-exploited-apache-hugegraph-server-bug/)
+    * [![Microsoft Edge will flag extensions causing performance issues](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        Microsoft Edge will flag extensions causing performance issues](https://www.bleepingcomputer.com/news/microsoft/microsoft-edge-will-flag-extensions-causing-performance-issues/)
+    * [![Tor says it’s ](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        Tor says it’s "still safe" amid reports of police deanonymizing users](https://www.bleepingcomputer.com/news/security/tor-says-its-still-safe-amid-reports-of-police-deanonymizing-users/)
     
 * [Tutorials](https://www.bleepingcomputer.com/tutorials/)
     
