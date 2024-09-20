@@ -22,6 +22,7 @@ English
 
 * [f2pool launches Fractal Bitcoin (FB) mining pool](https://f2pool.zendesk.com/hc/en-us/articles/37460449409689-f2pool-launches-Fractal-Bitcoin-FB-mining-pool) [More >](https://f2pool.zendesk.com/hc/en-us/sections/360013149492)
 * [ALEO zero-fee mining event and payout threshold reduction](https://f2pool.zendesk.com/hc/en-us/articles/37667130285849) [More >](https://f2pool.zendesk.com/hc/en-us/sections/360013149492)
+* [Announcing ALPH mining contest winners](https://f2pool.zendesk.com/hc/en-us/articles/37944442346649-Announcing-the-winners-of-the-ALPH-mining-contest-at-f2pool) [More >](https://f2pool.zendesk.com/hc/en-us/sections/360013149492)
 
 Terms of Service
 ----------------
