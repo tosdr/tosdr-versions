@@ -1,6 +1,8 @@
 [Skip to content](#content "Skip to content")
 
-[![cropped-logo-2.png](https://www.theottoolbox.com/wp-content/uploads/elementor/thumbs/cropped-logo-2-ou7ammxyc2z4dwsar7dbuv2el24qamlc9leth579ui.png "cropped-logo-2.png")](https://www.theottoolbox.com/)
+[![cropped-logo-2.png](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw== "cropped-logo-2.png")
+
+![cropped-logo-2.png](https://www.theottoolbox.com/wp-content/uploads/elementor/thumbs/cropped-logo-2-ou7ammxyc2z4dwsar7dbuv2el24qamlc9leth579ui.png "cropped-logo-2.png")](https://www.theottoolbox.com/)
 
 Search  Search
 
@@ -72,11 +74,11 @@ MENUMENU
                 * [Activities to Improve Smooth Visual Pursuits](https://www.theottoolbox.com/activities-smooth-pursuits/)
                 * [What is Visual Scanning](https://www.theottoolbox.com/what-is-visual-scanning/)
                 * [Classroom Accommodations for Visual Impairments](https://www.theottoolbox.com/visual-impairment-accommodations/)
-        * * [![Picture of a checklist and magnifying glass. Text reads sensory processing evaluations](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        * * [![Oats and craft pom poms with text reading "apple pie sensory bin"](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
                 
-                ![Picture of a checklist and magnifying glass. Text reads sensory processing evaluations](https://www.theottoolbox.com/wp-content/uploads/2022/02/sensory-processing-disorder-test.png)](https://www.theottoolbox.com/sensory-processing-disorder-checklist/)
+                ![Oats and craft pom poms with text reading "apple pie sensory bin"](https://www.theottoolbox.com/wp-content/uploads/2024/09/apple-pie-sensory-bin-with-tongs.png)](https://www.theottoolbox.com/apple-pie-sensory-bin/)
                 
-                #### [Sensory Processing Disorder Checklist](https://www.theottoolbox.com/sensory-processing-disorder-checklist/)
+                #### [Apple Pie Sensory Bin](https://www.theottoolbox.com/apple-pie-sensory-bin/)
                 
 * [Free Resources](https://www.theottoolbox.com/category/free-resources/)
 * [The Shop](https://www.theottoolbox.com/shop/)
