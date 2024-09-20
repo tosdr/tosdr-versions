@@ -85,7 +85,7 @@ August 24, 2024
 
 [elena and elin (mythology) created by psychorodent](https://yiff-party.com/yiff/elena-and-elin-mythology-created-by-psychorodent/)
 
-0 446 1
+0 454 1
 
 August 24, 2024
 
@@ -93,15 +93,15 @@ August 24, 2024
 
 [created by rabbitbrush](https://yiff-party.com/yiff/created-by-rabbitbrush/)
 
-0 131 1
+0 142 1
 
 September 11, 2024
 
-[](https://yiff-party.com/yiff/nintendo-and-etc-created-by-brradett/)
+[](https://yiff-party.com/yiff/derpy-hooves-and-twilight-sparkle-friendship-is-magic-and-etc-created-by-hooves-art/)
 
-[nintendo and etc created by brradett](https://yiff-party.com/yiff/nintendo-and-etc-created-by-brradett/)
+[derpy hooves and twilight sparkle (friendship is magic and etc) created by hooves-art](https://yiff-party.com/yiff/derpy-hooves-and-twilight-sparkle-friendship-is-magic-and-etc-created-by-hooves-art/)
 
-0 184 0
+0 133 0
 
 August 21, 2024
 
