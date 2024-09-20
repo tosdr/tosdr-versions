@@ -158,76 +158,76 @@ Please note that under Section 512(f) of the DMCA, any person who knowingly mate
 
 TOP NEWS
 
-* [Israel Airstrikes Hit Multiple Targets in Lebanon as Wider War Looms](https://www.theepochtimes.com/world/israel-airstrikes-hit-multiple-targets-in-lebanon-as-wider-war-looms-5727056)
+* [Shohei Ohtani Makes 50 Homers/50 Steals Club as the Only Member](https://www.theepochtimes.com/sports/shohei-ohtani-makes-50-homers-50-steals-club-as-the-only-member-5727179)
     
-    NEW By [Dan M. Berger](https://www.theepochtimes.com/author/dan-m-berger)
+    1hr By [Ross Kelly](https://www.theepochtimes.com/author/ross-kelly)
     
-    [![Israel Airstrikes Hit Multiple Targets in Lebanon as Wider War Looms](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Shohei Ohtani Makes 50 Homers/50 Steals Club as the Only Member](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Israel Airstrikes Hit Multiple Targets in Lebanon as Wider War Looms](https://img.theepochtimes.com/assets/uploads/2024/09/18/id5726511-Lebanon-explosion.jpg-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/world/israel-airstrikes-hit-multiple-targets-in-lebanon-as-wider-war-looms-5727056)
+    ![Shohei Ohtani Makes 50 Homers/50 Steals Club as the Only Member](https://img.theepochtimes.com/assets/uploads/2024/09/20/id5727206-Shohei-Ohtani-AP24263833105998-205x123.jpg.webp)](https://www.theepochtimes.com/sports/shohei-ohtani-makes-50-homers-50-steals-club-as-the-only-member-5727179)
+* [Day in Photos: An Unfinished Basilica, A Luxury Embroidery](https://www.theepochtimes.com/article/day-in-photos-an-unfinished-basilica-a-luxury-embroidery-5721006)
+    
+    2hr By [Epoch Times Staff](https://www.theepochtimes.com/author/epoch-times-staff)
+    
+    [![Day in Photos: An Unfinished Basilica, A Luxury Embroidery](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Day in Photos: An Unfinished Basilica, A Luxury Embroidery](https://img.theepochtimes.com/assets/uploads/2024/09/19/id5727086-GettyImages-2172167600-1-OP-205x123.jpg.webp)](https://www.theepochtimes.com/article/day-in-photos-an-unfinished-basilica-a-luxury-embroidery-5721006)
+* [Cheaper Migraine Drugs Outperform Newer, More Expensive Options: Oxford Study](https://www.theepochtimes.com/health/triptans-outperform-new-migraine-drugs-oxford-study-5726866)
+    
+    5hr By [Cara Michelle Miller](https://www.theepochtimes.com/author/cara-michelle-miller)
+    
+    [![Cheaper Migraine Drugs Outperform Newer, More Expensive Options: Oxford Study](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Cheaper Migraine Drugs Outperform Newer, More Expensive Options: Oxford Study](https://img.theepochtimes.com/assets/uploads/2024/09/19/id5727045-shutterstock_2314205811_triptan-205x123.jpg.webp)](https://www.theepochtimes.com/health/triptans-outperform-new-migraine-drugs-oxford-study-5726866)
+* [Wall Street Soars as Dow, S&P 500 Set Record Highs After Fed Rate Cut](https://www.theepochtimes.com/business/wall-street-soars-as-dow-sp-500-set-record-highs-after-fed-rate-cut-5727067)
+    
+    6hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
+    
+    [![Wall Street Soars as Dow, S&P 500 Set Record Highs After Fed Rate Cut](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Wall Street Soars as Dow, S&P 500 Set Record Highs After Fed Rate Cut](https://img.theepochtimes.com/assets/uploads/2024/09/20/id5727252-stock-GettyImages-2173210136-205x123.jpg.webp)](https://www.theepochtimes.com/business/wall-street-soars-as-dow-sp-500-set-record-highs-after-fed-rate-cut-5727067)
+* [Israel Airstrikes Hit Multiple Targets in Lebanon as Fears of Wider War Grow](https://www.theepochtimes.com/world/israel-airstrikes-hit-multiple-targets-in-lebanon-as-wider-war-looms-5727056)
+    
+    6hr By [Dan M. Berger](https://www.theepochtimes.com/author/dan-m-berger)
+    
+    [![Israel Airstrikes Hit Multiple Targets in Lebanon as Fears of Wider War Grow](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Israel Airstrikes Hit Multiple Targets in Lebanon as Fears of Wider War Grow](https://img.theepochtimes.com/assets/uploads/2024/09/20/id5727201-ISRAEL-PALESTINIANS-LEBANON-AIRSTRIKES-205x123.jpg.webp)](https://www.theepochtimes.com/world/israel-airstrikes-hit-multiple-targets-in-lebanon-as-wider-war-looms-5727056)
 * [Federal Judge Extends Freeze on Biden Admin’s Newest Student Loan Forgiveness Plan](https://www.theepochtimes.com/us/federal-judge-extends-freeze-on-biden-admins-newest-student-loan-forgiveness-plan-5726896)
     
-    NEW By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
+    7hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
     
     [![Federal Judge Extends Freeze on Biden Admin’s Newest Student Loan Forgiveness Plan](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Federal Judge Extends Freeze on Biden Admin’s Newest Student Loan Forgiveness Plan](https://img.theepochtimes.com/assets/uploads/2024/08/14/id5705471-Biden-Miguel-Cardona-GettyImages-1244043030-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/federal-judge-extends-freeze-on-biden-admins-newest-student-loan-forgiveness-plan-5726896)
+    ![Federal Judge Extends Freeze on Biden Admin’s Newest Student Loan Forgiveness Plan](https://img.theepochtimes.com/assets/uploads/2024/06/10/id5666149-EpochImages-8583264884-xl-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/federal-judge-extends-freeze-on-biden-admins-newest-student-loan-forgiveness-plan-5726896)
 * [317 People Have Voted So Far in 2024 General Election, Data Show](https://www.theepochtimes.com/us/317-people-have-voted-so-far-in-2024-general-election-data-show-5726994)
     
-    2hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
+    8hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
     
     [![317 People Have Voted So Far in 2024 General Election, Data Show](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![317 People Have Voted So Far in 2024 General Election, Data Show](https://img.theepochtimes.com/assets/uploads/2024/09/02/id5716919-GettyImages-1229312707-OP-205x123.jpg.webp)](https://www.theepochtimes.com/us/317-people-have-voted-so-far-in-2024-general-election-data-show-5726994)
+    ![317 People Have Voted So Far in 2024 General Election, Data Show](https://img.theepochtimes.com/assets/uploads/2024/06/13/id5668246-Voting-California-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/317-people-have-voted-so-far-in-2024-general-election-data-show-5726994)
 * [Schumer Moves on Senate Stopgap Funding Bill as Shutdown Looms](https://www.theepochtimes.com/us/schumer-moves-on-senate-stopgap-funding-bill-as-shutdown-looms-5726876)
     
-    2hr By [Jackson Richman](https://www.theepochtimes.com/author/jackson-richman)
+    8hr By [Jackson Richman](https://www.theepochtimes.com/author/jackson-richman)
     
     [![Schumer Moves on Senate Stopgap Funding Bill as Shutdown Looms](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Schumer Moves on Senate Stopgap Funding Bill as Shutdown Looms](https://img.theepochtimes.com/assets/uploads/2024/09/16/id5725280-09162024-DSC00724-US-Capitol-205x123.jpg.webp)](https://www.theepochtimes.com/us/schumer-moves-on-senate-stopgap-funding-bill-as-shutdown-looms-5726876)
+    ![Schumer Moves on Senate Stopgap Funding Bill as Shutdown Looms](https://img.theepochtimes.com/assets/uploads/2024/09/20/id5727203-Schumer-GettyImages-2173166734-205x123.jpg.webp)](https://www.theepochtimes.com/us/schumer-moves-on-senate-stopgap-funding-bill-as-shutdown-looms-5726876)
 * [GOP Senators Introduce Bill to Enhance Trump’s Secret Service Protection](https://www.theepochtimes.com/us/gop-senators-introduce-bill-to-enhance-trumps-secret-service-protection-5726965)
     
-    3hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
+    8hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
     
     [![GOP Senators Introduce Bill to Enhance Trump’s Secret Service Protection](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![GOP Senators Introduce Bill to Enhance Trump’s Secret Service Protection](https://img.theepochtimes.com/assets/uploads/2024/09/19/id5727022-GettyImages-2171768018-OP-205x123.jpg.webp)](https://www.theepochtimes.com/us/gop-senators-introduce-bill-to-enhance-trumps-secret-service-protection-5726965)
 * [Pennsylvania County Rejects Mail Ballot Drop Boxes for 2024 Election](https://www.theepochtimes.com/us/pennsylvania-county-rejects-mail-ballot-drop-boxes-for-2024-election-5726929)
     
-    3hr By [Zachary Stieber](https://www.theepochtimes.com/author/zachary-stieber)
+    9hr By [Zachary Stieber](https://www.theepochtimes.com/author/zachary-stieber)
     
     [![Pennsylvania County Rejects Mail Ballot Drop Boxes for 2024 Election](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Pennsylvania County Rejects Mail Ballot Drop Boxes for 2024 Election](https://img.theepochtimes.com/assets/uploads/2024/09/19/id5727118-GettyImages-1229133563-OP-205x123.jpg.webp)](https://www.theepochtimes.com/us/pennsylvania-county-rejects-mail-ballot-drop-boxes-for-2024-election-5726929)
-* [Iran Hacked Trump Data, Sent It to Biden Campaign: Here’s What We Know](https://www.theepochtimes.com/us/iran-hacked-trump-data-sent-it-to-biden-campaign-heres-what-we-know-5726885)
-    
-    3hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
-    
-    [![Iran Hacked Trump Data, Sent It to Biden Campaign: Here’s What We Know](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Iran Hacked Trump Data, Sent It to Biden Campaign: Here’s What We Know](https://img.theepochtimes.com/assets/uploads/2024/05/05/id5644183-Trump-Biden-EETKO-205x123.jpg.webp)](https://www.theepochtimes.com/us/iran-hacked-trump-data-sent-it-to-biden-campaign-heres-what-we-know-5726885)
-* [Hezbollah Leader Says Mass Pager Attacks Are a ‘Declaration of War’](https://www.theepochtimes.com/world/hezbollah-leader-says-mass-pager-attacks-are-a-declaration-of-war-5726922)
-    
-    4hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
-    
-    [![Hezbollah Leader Says Mass Pager Attacks Are a ‘Declaration of War’](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Hezbollah Leader Says Mass Pager Attacks Are a ‘Declaration of War’](https://img.theepochtimes.com/assets/uploads/2024/09/19/id5727074-GettyImages-1762017654.jpg-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/world/hezbollah-leader-says-mass-pager-attacks-are-a-declaration-of-war-5726922)
-* [Fed’s Powell Says Political Motives Not Behind First Rate Cut Since 2020](https://www.theepochtimes.com/business/feds-powell-says-political-motives-not-behind-first-rate-cut-since-2020-post-5726857)
-    
-    4hr By [Andrew Moran](https://www.theepochtimes.com/author/andrew-moran)
-    
-    [![Fed’s Powell Says Political Motives Not Behind First Rate Cut Since 2020](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Fed’s Powell Says Political Motives Not Behind First Rate Cut Since 2020](https://img.theepochtimes.com/assets/uploads/2024/09/18/id5726417-Fed-chair_Sept-2024-205x123.jpg.webp)](https://www.theepochtimes.com/business/feds-powell-says-political-motives-not-behind-first-rate-cut-since-2020-post-5726857)
-* [Federal Court Affirms HHS Authority to Deny Convicted Physician’s Access to Federal Health Care Programs](https://www.theepochtimes.com/us/new-york-court-affirms-hhs-authority-to-deny-convicted-physicians-access-to-federal-health-care-programs-5726887)
-    
-    4hr By [Matt McGregor](https://www.theepochtimes.com/author/matt-mcgregor)
-    
-    [![Federal Court Affirms HHS Authority to Deny Convicted Physician’s Access to Federal Health Care Programs](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Federal Court Affirms HHS Authority to Deny Convicted Physician’s Access to Federal Health Care Programs](https://img.theepochtimes.com/assets/uploads/2024/06/12/id5667095-11082023-DSC04387-Xavier-BecerraKO-205x123.jpg.webp)](https://www.theepochtimes.com/us/new-york-court-affirms-hhs-authority-to-deny-convicted-physicians-access-to-federal-health-care-programs-5726887)
 
 [![The Epoch Times](https://www.theepochtimes.com/assets/themes/eet/images/logo_eet.svg)](https://www.theepochtimes.com/)
 
