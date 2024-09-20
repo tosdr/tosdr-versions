@@ -18,58 +18,58 @@ FOX SCORES
     
 * [NRL
     
-    20/9 19:50 AEST
+    Complete
     
     |     |     |
     | --- | --- |
-    | CRO | –   |
-    | NQL | –   |
+    | CRO | 26  |
+    | NQL | 18  |
     
-    Match Centre](https://www.foxsports.com.au/nrl/nrl-premiership/match-centre/NRL20242901)
+    Match Centre](https://www.foxsports.com.au/nrl/nrl-premiership/match-centre/NRL20242901/match-report)
 * AFL
     
 * [AFL
     
-    20/9 19:40 AEST
+    Complete
     
     |     |     |
     | --- | --- |
-    | SYD | –   |
-    | POR | –   |
+    | SYD | 14.11.95 |
+    | POR | 8.11.59 |
     
     Match Centre](https://www.foxsports.com.au/afl/match-centre/AFL20242701)
-* [AFL Women's
+* [AFL
     
-    2nd Qtr
+    21/9 17:15 AEST
     
     |     |     |
     | --- | --- |
-    | NM  | 5.5.35 |
-    | POR | 0.0.0 |
+    | GEE | –   |
+    | BRI | –   |
+    
+    Match Centre](https://www.foxsports.com.au/afl/match-centre/AFL20242702)
+* [AFL Women's
+    
+    Complete
+    
+    |     |     |
+    | --- | --- |
+    | NM  | 6.6.42 |
+    | POR | 1.0.6 |
     
     Match Centre](https://www.foxsports.com.au/afl/aflw/match-centre/AFLW20240404)
 * Cricket
     
 * [Men's Test
     
-    Day 2 Session 2
+    Day 2
     
     |     |     |
     | --- | --- |
-    | IND | 376 |
-    | BAN | 5 /76 |
+    | IND | 376 & 3 /81 |
+    | BAN | 149 |
     
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/TEST2024-250101)
-* [Men's ODI
-    
-    AUS won by 7 wkts
-    
-    |     |     |
-    | --- | --- |
-    | ENG | 315 |
-    | AUS | 3 /317 |
-    
-    Match Centre](https://www.foxsports.com.au/cricket/match-centre/ODI20240701)
 * NFL
     
 * [NFL
@@ -86,8 +86,6 @@ FOX SCORES
     
 * [Formula 1
     
-    20/9 19:30 AEST
-    
     |     |
     | --- |
     | Singapore Grand Prix |
@@ -95,8 +93,6 @@ FOX SCORES
     
     Race Centre](https://www.foxsports.com.au/motorsport/formula-one/race-centre?meetingid=592)
 * [MotoGP
-    
-    20/9 18:45 AEST
     
     |     |
     | --- |
@@ -108,14 +104,14 @@ FOX SCORES
     
 * [NBL
     
-    20/9 20:30 AEST
+    Full Time
     
     |     |     |
     | --- | --- |
-    | PER | –   |
-    | SEM | –   |
+    | PER | 106 |
+    | SEM | 98  |
     
-    Match Centre](https://www.foxsports.com.au/basketball/nbl/match-centre/NBL2024-25010002)
+    Match Centre](https://www.foxsports.com.au/basketball/nbl/match-centre/NBL2024-25010002/play-by-play)
 * Rugby
     
 * [Rugby Champs
@@ -138,68 +134,6 @@ FOX SCORES
     | RSA | –   |
     
     Match Centre](https://www.foxsports.com.au/rugby/the-rugby-championship/match-centre/RTN20240502)
-* Football
-    
-* [UCL
-    
-    Full Time
-    
-    |     |     |
-    | --- | --- |
-    | FEY | 0   |
-    | BLV | 4   |
-    
-    Match Centre](https://www.foxsports.com.au/football/champions-league/match-centre/UCL2024-250125)
-* [UCL
-    
-    Full Time
-    
-    |     |     |
-    | --- | --- |
-    | BGD | 1   |
-    | BEN | 2   |
-    
-    Match Centre](https://www.foxsports.com.au/football/champions-league/match-centre/UCL2024-250127)
-* [UCL
-    
-    Full Time
-    
-    |     |     |
-    | --- | --- |
-    | ATA | 0   |
-    | ARS | 0   |
-    
-    Match Centre](https://www.foxsports.com.au/football/champions-league/match-centre/UCL2024-250129)
-* [UCL
-    
-    Full Time
-    
-    |     |     |
-    | --- | --- |
-    | BRE | 2   |
-    | SG  | 1   |
-    
-    Match Centre](https://www.foxsports.com.au/football/champions-league/match-centre/UCL2024-250135)
-* [UCL
-    
-    Full Time
-    
-    |     |     |
-    | --- | --- |
-    | MCO | 2   |
-    | BAR | 1   |
-    
-    Match Centre](https://www.foxsports.com.au/football/champions-league/match-centre/UCL2024-250131)
-* [UCL
-    
-    Full Time
-    
-    |     |     |
-    | --- | --- |
-    | AMD | 2   |
-    | RBL | 1   |
-    
-    Match Centre](https://www.foxsports.com.au/football/champions-league/match-centre/UCL2024-250133)
 
 [Go to All Scores](https://www.foxsports.com.au/score-centre/)
 
