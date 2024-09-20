@@ -54,19 +54,7 @@
     
     By Emily Hutchinson [Read More](https://www.women.com/1668756/secret-lives-of-mormon-wives-sex-questions-answered/)
     
-* *  [![](https://www.women.com/img/gallery/how-to-steal-the-witchy-90s-aesthetic-from-practical-magic/intro-1726509329.jpg)](https://www.women.com/1665826/steal-witchy-90s-aesthetic-practical-magic/)
-        
-        [Fashion](https://www.women.com/category/fashion/)
-        
-        [Fashion](https://www.women.com/category/fashion/) By Amanda Chatel
-        
-        ### [How To Steal The Witchy '90s Aesthetic From Practical Magic](https://www.women.com/1665826/steal-witchy-90s-aesthetic-practical-magic/)
-        
-        The iconic looks in 90s movie "Practical Magic" are the perfect fashion inspo for fall. Embrace the witchy aesthetic with vintage jewelry and velvet.
-        
-        By Amanda Chatel [Read More](https://www.women.com/1665826/steal-witchy-90s-aesthetic-practical-magic/)
-        
-    *  [![Princess Diana bixie cut](https://www.women.com/img/gallery/princess-dianas-90s-bixie-is-the-sophisticated-short-hairstyle-of-our-dreams/intro-1726603909.jpg)](https://www.women.com/1667019/princess-diana-90s-bixie-sophisticated-short-hair-style/)
+* *  [![Princess Diana bixie cut](https://www.women.com/img/gallery/princess-dianas-90s-bixie-is-the-sophisticated-short-hairstyle-of-our-dreams/intro-1726603909.jpg)](https://www.women.com/1667019/princess-diana-90s-bixie-sophisticated-short-hair-style/)
         
         [Exclusives](https://www.women.com/category/exclusives/)
         
@@ -78,22 +66,22 @@
         
         By Amanda Chatel [Read More](https://www.women.com/1667019/princess-diana-90s-bixie-sophisticated-short-hair-style/)
         
+    *  [![hailey bieber with flushed cheeks](https://www.women.com/img/gallery/hailey-biebers-flushed-cheeks-other-fall-2024-makeup-trends-to-have-on-your-radar/intro-1726682871.jpg)](https://www.women.com/1667956/hailey-bieber-flushed-cheeks-other-fall-2024-makeup-trends/)
+        
+        [Beauty](https://www.women.com/category/beauty/)
+        
+        [Beauty](https://www.women.com/category/beauty/) By Amanda Chatel
+        
+        ### [Hailey Bieber's Flushed Cheeks & Other Fall 2024 Makeup Trends To Have On Your Radar](https://www.women.com/1667956/hailey-bieber-flushed-cheeks-other-fall-2024-makeup-trends/)
+        
+        From lived-in eyeliner to clean, dewy skin fall 2024's hottest makeup trends are all about keeping things extra low-key.
+        
+        By Amanda Chatel [Read More](https://www.women.com/1667956/hailey-bieber-flushed-cheeks-other-fall-2024-makeup-trends/)
+        
 
 More Stories
 ------------
 
-*  [![hailey bieber with flushed cheeks](https://www.women.com/img/gallery/hailey-biebers-flushed-cheeks-other-fall-2024-makeup-trends-to-have-on-your-radar/intro-1726682871.jpg)](https://www.women.com/1667956/hailey-bieber-flushed-cheeks-other-fall-2024-makeup-trends/)
-    
-    [Beauty](https://www.women.com/category/beauty/)
-    
-    [Beauty](https://www.women.com/category/beauty/) By Amanda Chatel
-    
-    ### [Hailey Bieber's Flushed Cheeks & Other Fall 2024 Makeup Trends To Have On Your Radar](https://www.women.com/1667956/hailey-bieber-flushed-cheeks-other-fall-2024-makeup-trends/)
-    
-    From lived-in eyeliner to clean, dewy skin fall 2024's hottest makeup trends are all about keeping things extra low-key.
-    
-    By Amanda Chatel [Read More](https://www.women.com/1667956/hailey-bieber-flushed-cheeks-other-fall-2024-makeup-trends/)
-    
 *  [![Kylie Jenner and Timotheé Chalamet at an event](https://www.women.com/img/gallery/red-flags-in-kylie-jenner-and-timothe-chalamets-relationship/intro-1726508612.jpg)](https://www.women.com/1665832/red-flags-kylie-jenner-timothee-chalamet-relationship/)
     
     [Relationships](https://www.women.com/category/relationships/)
@@ -117,6 +105,18 @@ More Stories
     After divorcing Joe Jonas, Sophie Turner is burnin' up on the fashion scene. Here's how the actor's style has evolved after her relationship.
     
     By Emily Hutchinson [Read More](https://www.women.com/1667245/sophie-turner-style-post-divorce-joe-jonas/)
+    
+*  [![practical magic](https://www.women.com/img/gallery/how-to-steal-the-witchy-90s-aesthetic-from-practical-magic/intro-1726509329.jpg)](https://www.women.com/1665826/steal-witchy-90s-aesthetic-practical-magic/)
+    
+    [Fashion](https://www.women.com/category/fashion/)
+    
+    [Fashion](https://www.women.com/category/fashion/) By Amanda Chatel
+    
+    ### [How To Steal The Witchy '90s Aesthetic From Practical Magic](https://www.women.com/1665826/steal-witchy-90s-aesthetic-practical-magic/)
+    
+    The iconic looks in 90s movie "Practical Magic" are the perfect fashion inspo for fall. Embrace the witchy aesthetic with vintage jewelry and velvet.
+    
+    By Amanda Chatel [Read More](https://www.women.com/1665826/steal-witchy-90s-aesthetic-practical-magic/)
     
 *  [![Paris Hilton at an event](https://www.women.com/img/gallery/6-celebrity-memoirs-that-are-actually-great-well-written-books/intro-1726506825.jpg)](https://www.women.com/1665746/celebrity-memoirs-great-well-written-books/)
     
