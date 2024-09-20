@@ -168,17 +168,17 @@ By Theme
 
 Latest Real Weddings
 
+[![Ria and Kartik](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8XQ8AAnsBfKyAV94AAAAASUVORK5CYII=)
+
+![Ria and Kartik](https://image.wedmegood.com/resized/250X/uploads/images/799bf9c2f7774f5fb2923c0d2030787erealwedding/IMG_8074.JPG?crop=553,230,2174,1223)
+
+Ria and Kartik (Delhi NCR)](https://www.wedmegood.com/real_wedding/detail/ria-and-kartik-delhi-ncr-punjabi-sikh-wedding-4392)
+
 [![Tushika and Prateek](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8XQ8AAnsBfKyAV94AAAAASUVORK5CYII=)
 
 ![Tushika and Prateek](https://image.wedmegood.com/resized/250X/uploads/images/d535d54cb2144c24a18ad4933fe688f3realwedding/Prateek&Tushika_Wedding2546.jpg?crop=364,147,1360,765)
 
 Tushika and Prateek (Dubai)](https://www.wedmegood.com/real_wedding/detail/tushika-and-prateek-dubai-punjabi-sikh-wedding-4391)
-
-[![Sheetal and Akhil](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8XQ8AAnsBfKyAV94AAAAASUVORK5CYII=)
-
-![Sheetal and Akhil](https://image.wedmegood.com/resized/250X/uploads/images/79a21d14edc1414081cd5c6a64b08913realwedding/A+S-515Large.jpeg?crop=151,151,1012,569)
-
-Sheetal and Akhil (Canada)](https://www.wedmegood.com/real_wedding/detail/sheetal-and-akhil-canada-gujarati-wedding-4387)
 
 Browse by Category
 
