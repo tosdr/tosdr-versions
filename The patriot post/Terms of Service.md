@@ -191,7 +191,7 @@ All users and subscribers of Web site agree to abide by and comply with these "S
 
 ### Memesters Union
 
-     [](https://patriotpost.us/memes/110394-come-in-2024-09-19)
+     [](https://patriotpost.us/memes/110402-which-works-better-2024-09-20)
 
 * [More Memes >](https://patriotpost.us/memes)
 
@@ -203,6 +203,7 @@ All users and subscribers of Web site agree to abide by and comply with these "S
 
 ### Top Opinion
 
+*      [Mark Alexander Profiles of Valor: CPT Tom Cotton (USA)](https://patriotpost.us/alexander/110395-profiles-of-valor-cpt-tom-cotton-usa-2024-09-20)
 *      [Hans von Spakovsky More Good News for Trump in Fani Willis’ Case Against Him](https://patriotpost.us/opinion/110381-more-good-news-for-trump-in-fani-willis-case-against-him-2024-09-19)
 *      [Gary Bauer Random Observations](https://patriotpost.us/opinion/110378-random-observations-2024-09-19)
 *      [Ann Coulter Agent 00-Zero](https://patriotpost.us/opinion/110376-agent-00-zero-2024-09-19)
@@ -210,9 +211,6 @@ All users and subscribers of Web site agree to abide by and comply with these "S
 *      [Larry Elder Joe Biden, 20 Years Ago, Blocked the Potential First Black Female on the Supreme Court](https://patriotpost.us/opinion/110379-joe-biden-20-years-ago-blocked-the-potential-first-black-female-on-the-supreme-court-2024-09-19)
 *      [Armstrong Williams How Falsehoods About Haitian Immigrants Consumed America](https://patriotpost.us/opinion/110380-how-falsehoods-about-haitian-immigrants-consumed-america-2024-09-19)
 *      [The Washington Stand Hezbollah Pagers Explode Simultaneously](https://patriotpost.us/opinion/110383-hezbollah-pagers-explode-simultaneously-2024-09-19)
-*      [Allen West The Real Question of the 2024 Election](https://patriotpost.us/opinion/110357-the-real-question-of-the-2024-election-2024-09-19)
-*      [Cal Thomas Words and Deeds](https://patriotpost.us/opinion/110356-words-and-deeds-2024-09-19)
-*      [The Babylon Bee Here Are 9 AI-Generated Deep Fakes of Gavin Newsom That Are Illegal to Share in California](https://patriotpost.us/opinion/110382-here-are-9-ai-generated-deep-fakes-of-gavin-newsom-that-are-illegal-to-share-in-california-2024-09-19)
 
 * [More Opinion >](https://patriotpost.us/opinion)
 
