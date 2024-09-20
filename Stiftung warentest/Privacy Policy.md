@@ -809,21 +809,21 @@ Weitere spannende Themen
 
 Neueste Tests
 
+* [Badreiniger im Test: Günstig glänzt](https://www.test.de/Badreiniger-im-Test-Meister-Proper-Schlusslicht-4980485-0/ "Badreiniger im Test - Günstig glänzt")
 * [Fahr­radversicherungen im Vergleich: Fahr­rad und E-Bike günstig versichern](https://www.test.de/Fahrradversicherungen-Vergleich-5205101-0/ "Fahrradversicherungen im Vergleich - Fahrrad und E-Bike günstig versichern")
 * [Fonds und ETF im Vergleich: Hier finden Sie die besten Fonds für Ihr Portfolio](https://www.test.de/Fonds-im-Test-Fuenf-Punkte-fuer-die-Besten-4331006-0/ "Fonds und ETF im Vergleich - Hier finden Sie die besten Fonds für Ihr Portfolio")
 * [Nach­haltige Fonds und ETF: Warum wir grüne Fonds jetzt strenger testen](https://www.test.de/nachhaltige-fonds-etf-test-4741500-0/ "Nachhaltige Fonds und ETF - Warum wir grüne Fonds jetzt strenger testen")
 * [Wohn­gebäude­versicherung im Vergleich: Tarife teuer und oft mangelhaft – so schützen Sie Ihr Haus gut und günstig](https://www.test.de/Wohngebaeudeversicherung-Vergleich-4255878-0/ "Wohngebäudeversicherung im Vergleich - Tarife teuer und oft mangelhaft – so schützen Sie Ihr Haus gut und günstig")
 * [Tiefkühlpizza im Test: Italien für zu Hause](https://www.test.de/tiefkuehlpizza-salami-im-test-4830454-0/ "Tiefkühlpizza im Test - Italien für zu Hause")
-* [Körperfett­waagen im Test: Einige leisten sich fette Mess­fehler](https://www.test.de/koerperfettwaage-test-4645874-0/ "Körperfettwaagen im Test - Einige leisten sich fette Messfehler")
 
 test.de entdecken
 
-* [Boden­reiniger im Test: Sanft gepflegt mit einem Wisch](https://www.test.de/Bodenreiniger-im-Test-5992245-0/ "Bodenreiniger im Test - Sanft gepflegt mit einem Wisch")
-* [Fitness-Apps im Test: Die richtige App fürs Training](https://www.test.de/Fitness-Apps-im-Test-6010207-0/ "Fitness-Apps im Test - Die richtige App fürs Training")
-* [Geld­anlage mit Fonds und ETF: Kurs­raketen? Uninteres­sant!](https://www.test.de/Geldanlage-mit-Fonds-und-ETF-Kursraketen-Uninteressant-6120154-0/ "Geldanlage mit Fonds und ETF - Kursraketen? Uninteressant!")
-* [Verpackungs­ärger: Ovomaltine Extra Schoko](https://www.test.de/Verpackungsaerger-Ovomaltine-Extra-Schoko-6013649-0/ "Verpackungsärger - Ovomaltine Extra Schoko")
-* [Drucker im Test: Die Unterschiede bei den Druck­kosten sind enorm](https://www.test.de/Drucker-im-Test-4339831-0/ "Drucker im Test - Die Unterschiede bei den Druckkosten sind enorm")
-* [Gemischte Säfte und Smoothies: Viel Apfel, viel Enttäuschung](https://www.test.de/Gemischte-Saefte-und-Smoothies-Viel-Apfel-viel-Enttaeuschung-6138284-0/ "Gemischte Säfte und Smoothies - Viel Apfel, viel Enttäuschung")
+* [Fonds: Globale 1. Wahl-ETF aus unserem Dauer­test](https://www.test.de/Fonds-Globale-1-Wahl-ETF-aus-unserem-Dauertest-6133627-0/ "Fonds - Globale 1. Wahl-ETF aus unserem Dauertest")
+* [Druckertinte im Abo: Wann sich ein Tinten-Abo lohnt](https://www.test.de/Druckertinte-im-Abo-Wann-sich-ein-Tinten-Abo-lohnt-5971943-0/ "Druckertinte im Abo - Wann sich ein Tinten-Abo lohnt")
+* [Ganz­jahres­reifen im Test: Die besten Reifen für jedes Wetter](https://www.test.de/Ganzjahresreifen-im-Test-5391687-0/ "Ganzjahresreifen im Test - Die besten Reifen für jedes Wetter")
+* [Wert­papierdepots: Kunden des Smart­broker müssen umziehen](https://www.test.de/Wertpapierdepots-Kunden-des-Smartbroker-muessen-umziehen-6048760-0/ "Wertpapierdepots - Kunden des Smartbroker müssen umziehen")
+* [Technologie-Aktienfonds: Geld anlegen mit künst­licher Intelligenz](https://www.test.de/Technologie-Aktienfonds-Geld-anlegen-mit-kuenstlicher-Intelligenz-5978907-0/ "Technologie-Aktienfonds - Geld anlegen mit künstlicher Intelligenz")
+* [Wohn­gebäude­versicherung: Enorme Preis­sprünge für Haus­besitzer](https://www.test.de/Wohngebaeudeversicherung-Enorme-Preisspruenge-fuer-Hausbesitzer-5935351-0/ "Wohngebäudeversicherung - Enorme Preissprünge für Hausbesitzer")
 
 Fußbereich
 
@@ -3854,59 +3854,59 @@ Weitere spannende Themen
 
 Neueste Tests
 
+* [Badreiniger im Test: Günstig glänzt](https://www.test.de/Badreiniger-im-Test-Meister-Proper-Schlusslicht-4980485-0/ "Badreiniger im Test - Günstig glänzt")
 * [Fahr­radversicherungen im Vergleich: Fahr­rad und E-Bike günstig versichern](https://www.test.de/Fahrradversicherungen-Vergleich-5205101-0/ "Fahrradversicherungen im Vergleich - Fahrrad und E-Bike günstig versichern")
 * [Fonds und ETF im Vergleich: Hier finden Sie die besten Fonds für Ihr Portfolio](https://www.test.de/Fonds-im-Test-Fuenf-Punkte-fuer-die-Besten-4331006-0/ "Fonds und ETF im Vergleich - Hier finden Sie die besten Fonds für Ihr Portfolio")
 * [Nach­haltige Fonds und ETF: Warum wir grüne Fonds jetzt strenger testen](https://www.test.de/nachhaltige-fonds-etf-test-4741500-0/ "Nachhaltige Fonds und ETF - Warum wir grüne Fonds jetzt strenger testen")
 * [Wohn­gebäude­versicherung im Vergleich: Tarife teuer und oft mangelhaft – so schützen Sie Ihr Haus gut und günstig](https://www.test.de/Wohngebaeudeversicherung-Vergleich-4255878-0/ "Wohngebäudeversicherung im Vergleich - Tarife teuer und oft mangelhaft – so schützen Sie Ihr Haus gut und günstig")
 * [Tiefkühlpizza im Test: Italien für zu Hause](https://www.test.de/tiefkuehlpizza-salami-im-test-4830454-0/ "Tiefkühlpizza im Test - Italien für zu Hause")
-* [Körperfett­waagen im Test: Einige leisten sich fette Mess­fehler](https://www.test.de/koerperfettwaage-test-4645874-0/ "Körperfettwaagen im Test - Einige leisten sich fette Messfehler")
 
 test.de entdecken
 
-* [Boden­reiniger im Test: Sanft gepflegt mit einem Wisch](https://www.test.de/Bodenreiniger-im-Test-5992245-0/ "Bodenreiniger im Test - Sanft gepflegt mit einem Wisch")
-* [Fitness-Apps im Test: Die richtige App fürs Training](https://www.test.de/Fitness-Apps-im-Test-6010207-0/ "Fitness-Apps im Test - Die richtige App fürs Training")
-* [Geld­anlage mit Fonds und ETF: Kurs­raketen? Uninteres­sant!](https://www.test.de/Geldanlage-mit-Fonds-und-ETF-Kursraketen-Uninteressant-6120154-0/ "Geldanlage mit Fonds und ETF - Kursraketen? Uninteressant!")
-* [Verpackungs­ärger: Ovomaltine Extra Schoko](https://www.test.de/Verpackungsaerger-Ovomaltine-Extra-Schoko-6013649-0/ "Verpackungsärger - Ovomaltine Extra Schoko")
-* [Drucker im Test: Die Unterschiede bei den Druck­kosten sind enorm](https://www.test.de/Drucker-im-Test-4339831-0/ "Drucker im Test - Die Unterschiede bei den Druckkosten sind enorm")
-* [Gemischte Säfte und Smoothies: Viel Apfel, viel Enttäuschung](https://www.test.de/Gemischte-Saefte-und-Smoothies-Viel-Apfel-viel-Enttaeuschung-6138284-0/ "Gemischte Säfte und Smoothies - Viel Apfel, viel Enttäuschung")
+* [Fonds: Globale 1. Wahl-ETF aus unserem Dauer­test](https://www.test.de/Fonds-Globale-1-Wahl-ETF-aus-unserem-Dauertest-6133627-0/ "Fonds - Globale 1. Wahl-ETF aus unserem Dauertest")
+* [Druckertinte im Abo: Wann sich ein Tinten-Abo lohnt](https://www.test.de/Druckertinte-im-Abo-Wann-sich-ein-Tinten-Abo-lohnt-5971943-0/ "Druckertinte im Abo - Wann sich ein Tinten-Abo lohnt")
+* [Ganz­jahres­reifen im Test: Die besten Reifen für jedes Wetter](https://www.test.de/Ganzjahresreifen-im-Test-5391687-0/ "Ganzjahresreifen im Test - Die besten Reifen für jedes Wetter")
+* [Wert­papierdepots: Kunden des Smart­broker müssen umziehen](https://www.test.de/Wertpapierdepots-Kunden-des-Smartbroker-muessen-umziehen-6048760-0/ "Wertpapierdepots - Kunden des Smartbroker müssen umziehen")
+* [Technologie-Aktienfonds: Geld anlegen mit künst­licher Intelligenz](https://www.test.de/Technologie-Aktienfonds-Geld-anlegen-mit-kuenstlicher-Intelligenz-5978907-0/ "Technologie-Aktienfonds - Geld anlegen mit künstlicher Intelligenz")
+* [Wohn­gebäude­versicherung: Enorme Preis­sprünge für Haus­besitzer](https://www.test.de/Wohngebaeudeversicherung-Enorme-Preisspruenge-fuer-Hausbesitzer-5935351-0/ "Wohngebäudeversicherung - Enorme Preissprünge für Hausbesitzer")
 
 Weitere spannende Themen
 
 Neueste Tests
 
+* [Badreiniger im Test: Günstig glänzt](https://www.test.de/Badreiniger-im-Test-Meister-Proper-Schlusslicht-4980485-0/ "Badreiniger im Test - Günstig glänzt")
 * [Fahr­radversicherungen im Vergleich: Fahr­rad und E-Bike günstig versichern](https://www.test.de/Fahrradversicherungen-Vergleich-5205101-0/ "Fahrradversicherungen im Vergleich - Fahrrad und E-Bike günstig versichern")
 * [Fonds und ETF im Vergleich: Hier finden Sie die besten Fonds für Ihr Portfolio](https://www.test.de/Fonds-im-Test-Fuenf-Punkte-fuer-die-Besten-4331006-0/ "Fonds und ETF im Vergleich - Hier finden Sie die besten Fonds für Ihr Portfolio")
 * [Nach­haltige Fonds und ETF: Warum wir grüne Fonds jetzt strenger testen](https://www.test.de/nachhaltige-fonds-etf-test-4741500-0/ "Nachhaltige Fonds und ETF - Warum wir grüne Fonds jetzt strenger testen")
 * [Wohn­gebäude­versicherung im Vergleich: Tarife teuer und oft mangelhaft – so schützen Sie Ihr Haus gut und günstig](https://www.test.de/Wohngebaeudeversicherung-Vergleich-4255878-0/ "Wohngebäudeversicherung im Vergleich - Tarife teuer und oft mangelhaft – so schützen Sie Ihr Haus gut und günstig")
 * [Tiefkühlpizza im Test: Italien für zu Hause](https://www.test.de/tiefkuehlpizza-salami-im-test-4830454-0/ "Tiefkühlpizza im Test - Italien für zu Hause")
-* [Körperfett­waagen im Test: Einige leisten sich fette Mess­fehler](https://www.test.de/koerperfettwaage-test-4645874-0/ "Körperfettwaagen im Test - Einige leisten sich fette Messfehler")
 
 test.de entdecken
 
-* [Boden­reiniger im Test: Sanft gepflegt mit einem Wisch](https://www.test.de/Bodenreiniger-im-Test-5992245-0/ "Bodenreiniger im Test - Sanft gepflegt mit einem Wisch")
-* [Fitness-Apps im Test: Die richtige App fürs Training](https://www.test.de/Fitness-Apps-im-Test-6010207-0/ "Fitness-Apps im Test - Die richtige App fürs Training")
-* [Geld­anlage mit Fonds und ETF: Kurs­raketen? Uninteres­sant!](https://www.test.de/Geldanlage-mit-Fonds-und-ETF-Kursraketen-Uninteressant-6120154-0/ "Geldanlage mit Fonds und ETF - Kursraketen? Uninteressant!")
-* [Verpackungs­ärger: Ovomaltine Extra Schoko](https://www.test.de/Verpackungsaerger-Ovomaltine-Extra-Schoko-6013649-0/ "Verpackungsärger - Ovomaltine Extra Schoko")
-* [Drucker im Test: Die Unterschiede bei den Druck­kosten sind enorm](https://www.test.de/Drucker-im-Test-4339831-0/ "Drucker im Test - Die Unterschiede bei den Druckkosten sind enorm")
-* [Gemischte Säfte und Smoothies: Viel Apfel, viel Enttäuschung](https://www.test.de/Gemischte-Saefte-und-Smoothies-Viel-Apfel-viel-Enttaeuschung-6138284-0/ "Gemischte Säfte und Smoothies - Viel Apfel, viel Enttäuschung")
+* [Fonds: Globale 1. Wahl-ETF aus unserem Dauer­test](https://www.test.de/Fonds-Globale-1-Wahl-ETF-aus-unserem-Dauertest-6133627-0/ "Fonds - Globale 1. Wahl-ETF aus unserem Dauertest")
+* [Druckertinte im Abo: Wann sich ein Tinten-Abo lohnt](https://www.test.de/Druckertinte-im-Abo-Wann-sich-ein-Tinten-Abo-lohnt-5971943-0/ "Druckertinte im Abo - Wann sich ein Tinten-Abo lohnt")
+* [Ganz­jahres­reifen im Test: Die besten Reifen für jedes Wetter](https://www.test.de/Ganzjahresreifen-im-Test-5391687-0/ "Ganzjahresreifen im Test - Die besten Reifen für jedes Wetter")
+* [Wert­papierdepots: Kunden des Smart­broker müssen umziehen](https://www.test.de/Wertpapierdepots-Kunden-des-Smartbroker-muessen-umziehen-6048760-0/ "Wertpapierdepots - Kunden des Smartbroker müssen umziehen")
+* [Technologie-Aktienfonds: Geld anlegen mit künst­licher Intelligenz](https://www.test.de/Technologie-Aktienfonds-Geld-anlegen-mit-kuenstlicher-Intelligenz-5978907-0/ "Technologie-Aktienfonds - Geld anlegen mit künstlicher Intelligenz")
+* [Wohn­gebäude­versicherung: Enorme Preis­sprünge für Haus­besitzer](https://www.test.de/Wohngebaeudeversicherung-Enorme-Preisspruenge-fuer-Hausbesitzer-5935351-0/ "Wohngebäudeversicherung - Enorme Preissprünge für Hausbesitzer")
 
 Neueste Tests
 
+* [Badreiniger im Test: Günstig glänzt](https://www.test.de/Badreiniger-im-Test-Meister-Proper-Schlusslicht-4980485-0/ "Badreiniger im Test - Günstig glänzt")
 * [Fahr­radversicherungen im Vergleich: Fahr­rad und E-Bike günstig versichern](https://www.test.de/Fahrradversicherungen-Vergleich-5205101-0/ "Fahrradversicherungen im Vergleich - Fahrrad und E-Bike günstig versichern")
 * [Fonds und ETF im Vergleich: Hier finden Sie die besten Fonds für Ihr Portfolio](https://www.test.de/Fonds-im-Test-Fuenf-Punkte-fuer-die-Besten-4331006-0/ "Fonds und ETF im Vergleich - Hier finden Sie die besten Fonds für Ihr Portfolio")
 * [Nach­haltige Fonds und ETF: Warum wir grüne Fonds jetzt strenger testen](https://www.test.de/nachhaltige-fonds-etf-test-4741500-0/ "Nachhaltige Fonds und ETF - Warum wir grüne Fonds jetzt strenger testen")
 * [Wohn­gebäude­versicherung im Vergleich: Tarife teuer und oft mangelhaft – so schützen Sie Ihr Haus gut und günstig](https://www.test.de/Wohngebaeudeversicherung-Vergleich-4255878-0/ "Wohngebäudeversicherung im Vergleich - Tarife teuer und oft mangelhaft – so schützen Sie Ihr Haus gut und günstig")
 * [Tiefkühlpizza im Test: Italien für zu Hause](https://www.test.de/tiefkuehlpizza-salami-im-test-4830454-0/ "Tiefkühlpizza im Test - Italien für zu Hause")
-* [Körperfett­waagen im Test: Einige leisten sich fette Mess­fehler](https://www.test.de/koerperfettwaage-test-4645874-0/ "Körperfettwaagen im Test - Einige leisten sich fette Messfehler")
 
 test.de entdecken
 
-* [Boden­reiniger im Test: Sanft gepflegt mit einem Wisch](https://www.test.de/Bodenreiniger-im-Test-5992245-0/ "Bodenreiniger im Test - Sanft gepflegt mit einem Wisch")
-* [Fitness-Apps im Test: Die richtige App fürs Training](https://www.test.de/Fitness-Apps-im-Test-6010207-0/ "Fitness-Apps im Test - Die richtige App fürs Training")
-* [Geld­anlage mit Fonds und ETF: Kurs­raketen? Uninteres­sant!](https://www.test.de/Geldanlage-mit-Fonds-und-ETF-Kursraketen-Uninteressant-6120154-0/ "Geldanlage mit Fonds und ETF - Kursraketen? Uninteressant!")
-* [Verpackungs­ärger: Ovomaltine Extra Schoko](https://www.test.de/Verpackungsaerger-Ovomaltine-Extra-Schoko-6013649-0/ "Verpackungsärger - Ovomaltine Extra Schoko")
-* [Drucker im Test: Die Unterschiede bei den Druck­kosten sind enorm](https://www.test.de/Drucker-im-Test-4339831-0/ "Drucker im Test - Die Unterschiede bei den Druckkosten sind enorm")
-* [Gemischte Säfte und Smoothies: Viel Apfel, viel Enttäuschung](https://www.test.de/Gemischte-Saefte-und-Smoothies-Viel-Apfel-viel-Enttaeuschung-6138284-0/ "Gemischte Säfte und Smoothies - Viel Apfel, viel Enttäuschung")
+* [Fonds: Globale 1. Wahl-ETF aus unserem Dauer­test](https://www.test.de/Fonds-Globale-1-Wahl-ETF-aus-unserem-Dauertest-6133627-0/ "Fonds - Globale 1. Wahl-ETF aus unserem Dauertest")
+* [Druckertinte im Abo: Wann sich ein Tinten-Abo lohnt](https://www.test.de/Druckertinte-im-Abo-Wann-sich-ein-Tinten-Abo-lohnt-5971943-0/ "Druckertinte im Abo - Wann sich ein Tinten-Abo lohnt")
+* [Ganz­jahres­reifen im Test: Die besten Reifen für jedes Wetter](https://www.test.de/Ganzjahresreifen-im-Test-5391687-0/ "Ganzjahresreifen im Test - Die besten Reifen für jedes Wetter")
+* [Wert­papierdepots: Kunden des Smart­broker müssen umziehen](https://www.test.de/Wertpapierdepots-Kunden-des-Smartbroker-muessen-umziehen-6048760-0/ "Wertpapierdepots - Kunden des Smartbroker müssen umziehen")
+* [Technologie-Aktienfonds: Geld anlegen mit künst­licher Intelligenz](https://www.test.de/Technologie-Aktienfonds-Geld-anlegen-mit-kuenstlicher-Intelligenz-5978907-0/ "Technologie-Aktienfonds - Geld anlegen mit künstlicher Intelligenz")
+* [Wohn­gebäude­versicherung: Enorme Preis­sprünge für Haus­besitzer](https://www.test.de/Wohngebaeudeversicherung-Enorme-Preisspruenge-fuer-Hausbesitzer-5935351-0/ "Wohngebäudeversicherung - Enorme Preissprünge für Hausbesitzer")
 
 Service Stiftung Warentest
 
