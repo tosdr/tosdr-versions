@@ -145,7 +145,7 @@ Main navigation
     
     #### Gift By Price
     
-    [$10 and Under](https://www.morphe.com/collections/10-and-under) [Gifts Under $20](https://www.morphe.com/collections/gift-guide-under-20) [Gifts Under $40](https://www.morphe.com/collections/gift-guide-under-40)
+    [$10 and Under](https://www.morphe.com/collections/10-and-under) [Gifts Under $20](https://www.morphe.com/collections/gifts-under-25) [Gifts Under $40](https://www.morphe.com/collections/gift-guide-under-40)
     
     [![How To Prep & Set Your Makeup All Summer](//www.morphe.com/cdn/shop/articles/Morphe-2024-July-Blog-Thumbail-MakeupPrep-1020x580-1_600x.jpg?v=1724199599)
     
@@ -354,7 +354,7 @@ Main navigation
     
     [$10 and Under](https://www.morphe.com/collections/10-and-under)
     
-    [Gifts Under $20](https://www.morphe.com/collections/gift-guide-under-20)
+    [Gifts Under $20](https://www.morphe.com/collections/gifts-under-25)
     
     [Gifts Under $40](https://www.morphe.com/collections/gift-guide-under-40)
     
