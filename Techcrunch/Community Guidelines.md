@@ -102,7 +102,7 @@ Trending Tech Topics
 * [Amazo Video Generator](https://techcrunch.com/2024/09/19/amazon-releases-a-video-generator-but-only-for-ads/)
 * [iOS 18](https://techcrunch.com/2024/09/16/ios-18-is-now-available-to-download/)
 * [Snap Spectacles](https://techcrunch.com/2024/09/17/snaps-extremely-large-spectacles-bring-impressive-ar-to-developers-at-99-a-month/)
-* [Tech Layoffs](https://techcrunch.com/2024/09/17/tech-layoffs-2024-list/)
+* [Tech Layoffs](https://techcrunch.com/2024/09/20/tech-layoffs-2024-list/)
 * [ChatGPT](https://techcrunch.com/2024/09/12/chatgpt-everything-to-know-about-the-ai-chatbot/)
 
 * [Facebook](https://www.facebook.com/techcrunch)
