@@ -250,6 +250,7 @@ Where to Buy
     Explore more products you need
     
     * [Easy Smart Switches](https://www.kasasmart.com/us/business-networking/soho-switch-easy-smart/)
+    * [Accessories](https://www.kasasmart.com/us/business-networking/soho-accessory/)
     * [Pharos Wireless Bridges](https://www.kasasmart.com/us/business-networking/all-pharos-wireless-bridge/)
     
 * Service Providers
@@ -482,6 +483,8 @@ Where to Buy
     * More Products
         
         * [Easy Smart Switches](https://www.kasasmart.com/us/business-networking/soho-switch-easy-smart/)
+            
+        * [Accessories](https://www.kasasmart.com/us/business-networking/soho-accessory/)
             
         * [Pharos Wireless Bridges](https://www.kasasmart.com/us/business-networking/all-pharos-wireless-bridge/)
             
