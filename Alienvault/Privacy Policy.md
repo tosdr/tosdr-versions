@@ -417,7 +417,7 @@ Who We Are
 
 * [About Us](https://www.alienvault.com/about-us)
 * [LevelBlue Labs](https://www.alienvault.com/levelblue-labs)
-* [Careers](https://www.att.jobs/search-jobs?acm=47406&alrpm=ALL&ascf=%5B%7B%22key%22:%22ALL%22,%22value%22:%22%22%7D%5D)
+* [Careers](https://www.alienvault.com/careers)
 * [Contact Us](https://www.alienvault.com/contact)
 
 News
