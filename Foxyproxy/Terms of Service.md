@@ -133,6 +133,6 @@ These Terms will be governed by and construed in accordance with the laws of the
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-I used FoxyProxy for a month to get around the state filters here in Dubai to watch 4oD.
+I am finding FoxyProxy on the laptop quite fantastic.
 
-Marco Dalco
+Chris McRaib
