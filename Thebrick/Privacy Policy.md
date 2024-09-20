@@ -31,7 +31,7 @@ Get Directions
 
 [Back to Menu](#)
 
-[Furniture](https://www.thebrick.com/collections/furniture) [Living Room](https://www.thebrick.com/collections/furniture-living-room) [Bedroom](https://www.thebrick.com/collections/furniture-bedroom) [Dining Room](https://www.thebrick.com/collections/furniture-dining-room) [Entry & Mudroom](https://www.thebrick.com/collections/furniture-entry-mudroom) [Office](https://www.thebrick.com/collections/furniture-home-office) [Small Spaces](https://www.thebrick.com/collections/small-space-furniture) [Kids](https://www.thebrick.com/collections/furniture-kids) [Brands](#)
+[Furniture](https://www.thebrick.com/collections/furniture) [Living Room](https://www.thebrick.com/collections/furniture-living-room) [Bedroom](https://www.thebrick.com/collections/furniture-bedroom) [Dining Room](https://www.thebrick.com/collections/furniture-dining-room) [Entry & Mudroom](https://www.thebrick.com/collections/furniture-entry-mudroom) [Office](https://www.thebrick.com/collections/furniture-home-office) [Kids](https://www.thebrick.com/collections/furniture-kids) [Outdoor and Patio](https://www.thebrick.com/pages/seasonal-outdoor-furniture) [Brands](#)
 
 [Back to Furniture](#)
 
@@ -56,6 +56,10 @@ Get Directions
 [Back to Furniture](#)
 
 [Kids](https://www.thebrick.com/collections/furniture-kids) [Beds](https://www.thebrick.com/collections/furniture-bedroom-kids-and-teens-beds) [Bunk Beds](https://www.thebrick.com/collections/furniture-bedroom-kids-and-teens-bunkbeds) [Kids Headboards](https://www.thebrick.com/collections/furniture-bedroom-kids-and-teens-headboards) [Kids Bedroom Packages](https://www.thebrick.com/collections/furniture-bedroom-kids-and-teens-kids-bedroom-packages) [Mattresses](https://www.thebrick.com/collections/furniture-mattresses-kids-mattresses) [Infants and Toddlers](https://www.thebrick.com/collections/furniture-bedroom-baby-and-toddler) [Cribs](https://www.thebrick.com/collections/furniture-bedroom-kids-and-teens-infants-and-toddlers-crib) [Crib Mattresses](https://www.thebrick.com/collections/furniture-bedroom-kids-and-teens-infants-and-toddlers-crib-mattresses) [Change Tables](https://www.thebrick.com/collections/furniture-bedroom-kids-and-teens-infants-and-toddlers-change-tables) [Desks & Hutches](https://www.thebrick.com/collections/furniture-kids-desks-hutches)
+
+[Back to Furniture](#)
+
+[Outdoor and Patio](https://www.thebrick.com/pages/seasonal-outdoor-furniture) [Outdoor Furniture](https://www.thebrick.com/collections/furniture-outdoor-and-patio-outdoor-furniture) [Outdoor Dining](https://www.thebrick.com/collections/furniture-outdoor-and-patio-dining) [Outdoor Entertaining](https://www.thebrick.com/collections/outdoor-entertaining) [Outdoor Accessories](https://www.thebrick.com/collections/seasonal-outdoor-accessories) [Online Exclusives](https://www.thebrick.com/collections/online-only-seasonal)
 
 [Back to Furniture](#)
 
@@ -186,17 +190,27 @@ Get Directions
 
 [Back to Menu](#)
 
-[Small Spaces](https://www.thebrick.com/collections/small-space-furniture) [Small Space Living Room Furniture](#) [Small Space Dining Furniture](#)
+[Small Spaces](https://www.thebrick.com/collections/small-space-furniture) [Small Space Living Room Furniture](#) [Small Space Dining Furniture](#) [Small Space Bedroom Furniture](#) [Small Space Office Furniture](#)
 
 [Back to Small Spaces](#)
 
 * Small Space Living Room Furniture
-[Sofas](https://www.thebrick.com/collections/small-space-sofas) [Loveseats](https://www.thebrick.com/collections/small-space-loveseats) [Sectionals](https://www.thebrick.com/collections/small-space-sectionals) [Sleeper Sectionals](https://www.thebrick.com/collections/small-space-sleeper-sectionals) [Accent Chairs](https://www.thebrick.com/collections/small-space-accent-chairs) [Living Room Chairs](https://www.thebrick.com/collections/small-space-living-room-chairs) [Sofa Beds and Futons](https://www.thebrick.com/collections/small-space-sofa-beds-and-futons) [Occasional Tables](https://www.thebrick.com/collections/small-space-occasional-tables) [TV Stands](https://www.thebrick.com/collections/small-space-tv-stands) [Ottomans](https://www.thebrick.com/collections/small-space-ottomans) [Trunks and Benches](https://www.thebrick.com/collections/small-space-trunks-and-benches) [Electric Fireplaces](https://www.thebrick.com/collections/small-space-electric-fireplaces)
+[Sofas](https://www.thebrick.com/collections/small-space-sofas) [Loveseats](https://www.thebrick.com/collections/small-space-loveseats) [Sectionals](https://www.thebrick.com/collections/small-space-sectionals) [Sleeper Sectionals](https://www.thebrick.com/collections/small-space-sleeper-sectionals) [Accent Chairs](https://www.thebrick.com/collections/small-space-accent-chairs) [Living Room Chairs](https://www.thebrick.com/collections/small-space-living-room-chairs) [Sofa Beds and Futons](https://www.thebrick.com/collections/small-space-sofa-beds-and-futons) [Occasional Tables](https://www.thebrick.com/collections/small-space-occasional-tables) [TV Stands](https://www.thebrick.com/collections/small-space-tv-stands) [Ottomans](https://www.thebrick.com/collections/small-space-ottomans) [Chests](https://www.thebrick.com/collections/small-space-trunks-and-benches) [Electric Fireplaces](https://www.thebrick.com/collections/small-space-electric-fireplaces)
 
 [Back to Small Spaces](#)
 
 * Small Space Dining Furniture
-[Dining Tables](https://www.thebrick.com/collections/small-space-dining-tables-tables-de-salle-a-manger-pour-petits-espaces-nav) [Dining Chairs](https://www.thebrick.com/collections/small-space-dining-chairs)
+[Dining Tables](https://www.thebrick.com/collections/small-space-dining-tables) [Dining Chairs](https://www.thebrick.com/collections/small-space-dining-chairs) [Dining Sets](https://www.thebrick.com/collections/small-space-dining-sets) [Bar Stools](https://www.thebrick.com/collections/small-space-bar-stools) [Accent Dining Chairs](https://www.thebrick.com/collections/small-space-accent-dining-chairs) [Dining Benches](https://www.thebrick.com/collections/small-space-dining-benches)
+
+[Back to Small Spaces](#)
+
+* Small Space Bedroom Furniture
+[Bedroom Packages](https://www.thebrick.com/collections/small-space-bedroom-packages) [Beds](https://www.thebrick.com/collections/small-space-beds) [Bunk Beds](https://www.thebrick.com/collections/small-space-bunk-beds) [Dressers, Chests & Mirrors](https://www.thebrick.com/collections/small-space-dressers-chests-mirrors) [Nightstands](https://www.thebrick.com/collections/small-space-nightstands) [Headboards](https://www.thebrick.com/collections/small-space-headboards)
+
+[Back to Small Spaces](#)
+
+* Small Space Office Furniture
+[Desks](https://www.thebrick.com/collections/small-space-desks) [Bookcases](https://www.thebrick.com/collections/small-space-bookcases) [Filing Cabinets](https://www.thebrick.com/collections/small-space-filing-cabinets)
 
 [Back to Menu](#)
 
@@ -453,7 +467,7 @@ Join the Conversation
 Customer Service
 ----------------
 
-[Contact Us](https://www.thebrick.com/pages/contact-us) [Help Centre](https://www.thebrick.com/pages/help-centre) [Store Locator](https://www.thebrick.com/pages/store-locator) [Stores Listing](https://www.thebrick.com/pages/stores-listing) [The Brick Financing](https://www.thebrick.com/pages/financing) [Gift Card Purchase](https://www.thebrick.com/pages/egift-card) [Check Gift Card Balance](https://www.thebrick.com/pages/egift-card-check-balance) [Trans Global Insurance](http://transglobalinsurance.ca/)[Price Guarantee](https://www.thebrick.com/pages/holiday-price-guarantee) [Returns and Exchanges](https://www.thebrick.com/pages/satisfaction-guarantee) [Accessible Customer Service Policy for Manitoba](https://www.thebrick.com/pages/accessible-customer-service-policy-for-manitoba)[Warranties and Protection Plans](https://www.thebrick.com/pages/warranties-and-protection-plans) [Installation and Assembly](https://www.thebrick.com/pages/installation-and-assembly) [Appliance and Electronics Repairs](http://transglobalservice.com/) [Shipping and Delivery](https://www.thebrick.com/pages/shipping-and-delivery)[Delivery Tracking](https://bit.ly/3LQs8CZEN) [Removal and Recycling](https://www.thebrick.com/pages/removal-and-recycling) [Complete Your Payment](https://www.thebrick.com/pages/complete-your-payment)
+[Contact Us](https://www.thebrick.com/pages/contact-us) [Help Centre](https://www.thebrick.com/pages/help-centre) [Store Locator](https://www.thebrick.com/pages/store-locator) [Stores Listing](https://www.thebrick.com/pages/stores-listing) [The Brick Financing](https://www.thebrick.com/pages/financing) [Gift Card Purchase](https://www.thebrick.com/pages/egift-card) [Check Gift Card Balance](https://www.thebrick.com/pages/egift-card-check-balance) [Trans Global Insurance](http://transglobalinsurance.ca/)[Price Guarantee](https://www.thebrick.com/pages/holiday-price-guarantee) [Returns and Exchanges](https://www.thebrick.com/pages/satisfaction-guarantee) [Accessible Customer Service Policy for Manitoba](https://www.thebrick.com/pages/accessible-customer-service-policy-for-manitoba)[Warranties and Protection Plans](https://www.thebrick.com/pages/warranties-and-protection-plans) [Installation and Assembly](https://www.thebrick.com/pages/installation-and-assembly) [Appliance and Electronics Repairs](http://transglobalservice.com/) [Shipping and Delivery](https://www.thebrick.com/pages/shipping-and-delivery)[Track Your Delivery](https://bit.ly/3LQs8CZEN) [Removal and Recycling](https://www.thebrick.com/pages/removal-and-recycling) [Complete Your Payment](https://www.thebrick.com/pages/complete-your-payment)
 
 Company Information
 -------------------
