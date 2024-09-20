@@ -11,7 +11,6 @@
 Main Navigation
 ---------------
 
-* [TIFF](https://www.thewrap.com/category/report-toronto/)
 * [TheWrapBook](https://www.thewrap.com/the-wrapbook-tv-issue/)
     * [TheWrapBook: The Art of Television](https://www.thewrap.com/the-wrapbook-tv-issue/)
     * [The WrapBook: The Art of Cinema](https://www.thewrap.com/the-wrapbook-the-art-of-cinema-2023/)
@@ -27,6 +26,7 @@ Main Navigation
     * [Box Office](https://www.thewrap.com/category/box-office-2/)
     * [Sundance](https://www.thewrap.com/tag/sundance/)
     * [Sundance Videos](https://thewrap.com/tag/sundance-videos/)
+    * [TIFF](https://www.thewrap.com/category/report-toronto/)
     * [Report From Toronto](https://www.thewrap.com/category/report-toronto/)
     * [Cannes](https://www.thewrap.com/category/report-cannes/)
     * [Cannes Magazine](https://www.thewrap.com/cannes-2024/)
