@@ -120,7 +120,7 @@ Welcome! [Login](https://knowyourmeme.com/login) or [signup](https://knowyourmem
 
 ##### Also Trending:
 
-[You Can't Be Punk and Also Be](https://knowyourmeme.com/memes/you-cant-be-punk-and-also-be-racist-sexist-homophobic-or-transphobic "You Can't Be Punk and Also Be") [SocialAI](https://knowyourmeme.com/memes/sites/socialai "SocialAI") [Nintendo vs. Palworld Lawsuit](https://knowyourmeme.com/memes/events/nintendo-vs-palworld-lawsuit "Nintendo vs. Palworld Lawsuit") [Pager and Radio Attacks on Hezbollah](https://knowyourmeme.com/memes/events/2024-pager-and-radio-attacks-on-hezbollah "Pager and Radio Attacks on Hezbollah") [Fugget About It](https://knowyourmeme.com/memes/subcultures/fugget-about-it "Fugget About It")
+[Nintendo vs. Palworld Lawsuit](https://knowyourmeme.com/memes/events/nintendo-vs-palworld-lawsuit "Nintendo vs. Palworld Lawsuit") [You Can't Be Punk and Also Be](https://knowyourmeme.com/memes/you-cant-be-punk-and-also-be-racist-sexist-homophobic-or-transphobic "You Can't Be Punk and Also Be") [Expecting Tongue](https://knowyourmeme.com/memes/has-never-kissed-anyone-before-expecting-tongue "Expecting Tongue")
 
 Terms of Service and Use
 ========================
@@ -261,7 +261,7 @@ If you have any questions or concerns about these Terms of Service or the Websit
 **Legal Information:** [Know Your Meme ®](https://knowyourmeme.com/) is a trademark of [Literally Media Ltd.](https://literally.media/) By using this site, you are agreeing by the site's [terms of use](https://knowyourmeme.com/terms-of-service) and [privacy policy](https://knowyourmeme.com/privacy) and [DMCA policy](https://knowyourmeme.com/dmca).  
 © 2007-2024 [Literally Media Ltd.](https://literally.media/)
 
-### Greetings! You must login or signup first!
+### Word Up! You must login or signup first!
 
 |     |     |
 | --- | --- |
