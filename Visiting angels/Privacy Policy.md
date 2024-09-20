@@ -260,15 +260,15 @@ Or write to us at: 937 Haverford Road Suite 200, Bryn Mawr PA 19010
 
  related  categories
 
-[Loneliness in Seniors](https://www.visitingangels.com/knowledge-center/senior-health-and-well-being/loneliness-in-seniors/14)
+[Alzheimer’s Care: Helping To Manage Sundowner’s Syndrome](https://www.visitingangels.com/knowledge-center/senior-health-and-well-being/alzheimers-care-helping-to-manage-sundowners-syndrome/478)
 
-[What Skills Matter Most for Personal Care?](https://www.visitingangels.com/knowledge-center/care-options/what-skills-matter-most-for-personal-care/467)
+[Select Your Caregiver® by Visiting Angels](https://www.visitingangels.com/knowledge-center/selecting-care/select-your-caregiver-by-visiting-angels/266)
 
-[How Widowhood Can Affect Seniors](https://www.visitingangels.com/knowledge-center/senior-health-and-well-being/how-widowhood-can-affect-seniors/396)
+[Is it Dementia or Just Memory Loss?](https://www.visitingangels.com/knowledge-center/senior-health-and-well-being/is-it-dementia-or-just-memory-loss/71)
 
-[What You Need to Know About End-of-Life Home Care](https://www.visitingangels.com/knowledge-center/senior-health-and-well-being/what-you-need-to-know-about-end-of-life-home-care/323)
+[Preparing for Mid-Stage & Late-Stage Alzheimer’s Care](https://www.visitingangels.com/knowledge-center/preparing-loved-ones/preparing-for-mid-stage-late-stage-alzheimers-care/454)
 
-[How Palliative Care is Different Than Hospice](https://www.visitingangels.com/knowledge-center/care-options/how-palliative-care-is-different-than-hospice/301)
+[Dementia Care: Visiting Angels Provides Insight into Care and Symptoms](https://www.visitingangels.com/knowledge-center/care-options/dementia-care-visiting-angels-provides-insight-into-care-and-symptoms/326)
 
 * [Care Options](https://www.visitingangels.com/knowledge-center/care-options)
 * [Selecting Care](https://www.visitingangels.com/knowledge-center/selecting-care)
