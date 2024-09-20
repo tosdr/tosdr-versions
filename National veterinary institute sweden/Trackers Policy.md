@@ -20,11 +20,15 @@ Gå direkt till :
 
 [Aktuellt](https://www.sva.se/aktuellt/) [Giftiga växter A-Ö](https://www.sva.se/amnesomraden/giftiga-vaxter-a-o/) [Sjukdomar A-Ö](https://www.sva.se/amnesomraden/djursjukdomar-a-o/)
 
+Vi har driftsstörningar i telefonnätet. För tillfället når du oss på 018-30 26 60 eller sva@sva.se.
+
 [Produktionsdjur](https://www.sva.se/produktionsdjur/) [Sport- och sällskapsdjur](https://www.sva.se/sport-och-sallskapsdjur/) [Vilda djur](https://www.sva.se/vilda-djur/) [Ämnesområden](https://www.sva.se/amnesomraden/) [Vi erbjuder](https://www.sva.se/vi-erbjuder/)
 
 [![logo](/media/j5th5vl0/sva_logo.svg)](https://www.sva.se/)
 
 [Sök](#) [Meny](#)
+
+Vi har driftsstörningar i telefonnätet. För tillfället når du oss på 018-30 26 60 eller sva@sva.se.
 
 * [Produktionsdjur](https://www.sva.se/produktionsdjur/)[](#)
     * [Exotiska idisslare](https://www.sva.se/produktionsdjur/exotiska-idisslare/)[](#)
@@ -1283,6 +1287,7 @@ Gå direkt till :
             * [Projektledare och redaktör för årsredovisning](https://www.sva.se/om-oss/arbeta-hos-oss/lediga-jobb/projektledare-och-redaktor-for-arsredovisning/)
             * [Informationssäkerhetsspecialist](https://www.sva.se/om-oss/arbeta-hos-oss/lediga-jobb/informationssakerhetsspecialist/)
             * [Registrator/arkivarie](https://www.sva.se/om-oss/arbeta-hos-oss/lediga-jobb/registrator-arkivarie/)
+            * [Helpdesktekniker](https://www.sva.se/om-oss/arbeta-hos-oss/lediga-jobb/helpdesktekniker/)
         * [SVA som arbetsplats](https://www.sva.se/om-oss/arbeta-hos-oss/sva-som-arbetsplats/)
         * [Möt våra medarbetare](https://www.sva.se/om-oss/arbeta-hos-oss/mot-vara-medarbetare/)[](#)
             * [Ylva, mikrobiolog](https://www.sva.se/om-oss/arbeta-hos-oss/mot-vara-medarbetare/ylva-mikrobiolog/)
