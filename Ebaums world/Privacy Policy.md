@@ -261,13 +261,13 @@ Advertisement
 
 * ### eBaum's Picks
     
-    [![](https://cdn.ebaumsworld.com/img/blank.gif)](https://www.ebaumsworld.com/videos/dude-shoots-himself-to-prove-durability-of-bulletproof-jacket/85790638/) [Dude Shoots Himself To Prove the Durability of His Bulletproof Jacket](https://www.ebaumsworld.com/videos/dude-shoots-himself-to-prove-durability-of-bulletproof-jacket/85790638/)
+    [![a gallery of wtf and cringeworthy pics](https://cdn.ebaumsworld.com/img/blank.gif)](https://www.ebaumsworld.com/pictures/27-pics-that-are-the-epitome-of-cringe/87028105/) [59 Pics That Are The Epitome of Cringe](https://www.ebaumsworld.com/pictures/27-pics-that-are-the-epitome-of-cringe/87028105/)
     
-    [![25 People Share Unexpectedly Genius Decisions They Made On a Whim](https://cdn.ebaumsworld.com/img/blank.gif)](https://trending.ebaumsworld.com/pictures/25-people-share-unexpectedly-genius-decisions-they-made-on-a-whim/87496580/) [25 People Share Unexpectedly Genius Decisions They Made On a Whim](https://trending.ebaumsworld.com/pictures/25-people-share-unexpectedly-genius-decisions-they-made-on-a-whim/87496580/)
+    [![Hilarious Pic to Sum Up Each State - Redneck in Alabama | Funny pic of a redneck living in a trailer in Alabama](https://cdn.ebaumsworld.com/img/blank.gif)](https://www.ebaumsworld.com/pictures/50-funny-photos-that-perfectly-sums-up-each-of-the-american-states/85216290/) [50 Funny Photos that Perfectly Sums Up Each of the American States](https://www.ebaumsworld.com/pictures/50-funny-photos-that-perfectly-sums-up-each-of-the-american-states/85216290/)
     
-    [![a man sipping whiskey in his cluttered home | video of a man drinking and his wife leaving him in the backround](https://cdn.ebaumsworld.com/img/blank.gif)](https://www.ebaumsworld.com/videos/man-reviews-scotch-while-his-wife-packs-up-her-things-and-leaves-him-in-the-background/85847868/) [Man Reviews Scotch While His Wife Packs Up Her Things and Leaves Him in The Background](https://www.ebaumsworld.com/videos/man-reviews-scotch-while-his-wife-packs-up-her-things-and-leaves-him-in-the-background/85847868/)
+    [![22 Fails and Facepalms From the Past Few Weeks](https://cdn.ebaumsworld.com/img/blank.gif)](https://trending.ebaumsworld.com/pictures/22-fails-flounders-and-facepalms-that-cracked-us-up/87507571/) [22 Fails, Flounders, and Facepalms That Cracked Us Up](https://trending.ebaumsworld.com/pictures/22-fails-flounders-and-facepalms-that-cracked-us-up/87507571/)
     
-    [![Climber Forgets to Attach His Rope, Pays the Price](https://cdn.ebaumsworld.com/img/blank.gif)](https://www.ebaumsworld.com/articles/climber-forgets-to-attach-his-rope-pays-the-price/87504587/) [Climber Forgets to Attach His Rope, Pays the Price](https://www.ebaumsworld.com/articles/climber-forgets-to-attach-his-rope-pays-the-price/87504587/)
+    [![list of cool and fascinating pics | a close up photo of an elephants tail |](https://cdn.ebaumsworld.com/img/blank.gif)](https://www.ebaumsworld.com/pictures/32-fascinating-things-you-rarely-get-to-see/85916369/) [32 Fascinating Things You Rarely Get to See](https://www.ebaumsworld.com/pictures/32-fascinating-things-you-rarely-get-to-see/85916369/)
     
 
 * Advertisement
