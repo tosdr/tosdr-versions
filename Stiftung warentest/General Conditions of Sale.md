@@ -383,7 +383,7 @@ weiter
 
 Suchen
 
-![test.de print logo](https://cdn.test.de/static/images/modules/header/test-de-print-logo;v117286944.svg)
+![test.de print logo](https://cdn.test.de/static/images/modules/header/test-de-print-logo;v117358386.svg)
 
 1. [Startweiter](https://www.test.de/)
 2. Hilfe
@@ -597,12 +597,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [bel-finanz.de: Dubioses Fest­geld](https://www.test.de/bel-finanzde-Dubioses-Festgeld-6051673-0/ "bel-finanz.de - Dubioses Festgeld")
-* [Riester-Rente: Urteil lässt hoffen – Zurich darf Rente nicht kürzen](https://www.test.de/Riester-Rente-Zurich-darf-Rente-nicht-kuerzen-5981307-0/ "Riester-Rente - Urteil lässt hoffen – Zurich darf Rente nicht kürzen")
-* [Dispozinsen: Alle Banken im Test](https://www.test.de/Dispozinsen-Alle-Banken-im-Test-6007265-0/ "Dispozinsen - Alle Banken im Test")
-* [Bewertung von Fonds und ETF: Risiko­klasse hilft bei der Fonds­wahl](https://www.test.de/Bewertung-von-Fonds-und-ETF-Risikoklasse-hilft-bei-der-Fondswahl-6139024-0/ "Bewertung von Fonds und ETF - Risikoklasse hilft bei der Fondswahl")
-* [Diagnose Demenz: Das Vergessen liebevoll begleiten](https://www.test.de/Diagnose-Demenz-Das-Vergessen-liebevoll-begleiten-6142415-0/ "Diagnose Demenz - Das Vergessen liebevoll begleiten")
-* [Preisfallen im Supermarkt: Die Tricks der Händler erkennen](https://www.test.de/Preisfallen-im-Supermarkt-Die-Tricks-der-Haendler-erkennen-5929356-0/ "Preisfallen im Supermarkt - Die Tricks der Händler erkennen")
+* [Hacker-Angriff auf Pass­wort-Manager: Kunden­daten von LastPass gestohlen](https://www.test.de/Hacker-Angriff-auf-Passwort-Manager-Kundendaten-von-LastPass-gestohlen-5952137-0/ "Hacker-Angriff auf Passwort-Manager - Kundendaten von LastPass gestohlen")
+* [Lang­zeit­folgen von Covid-19: Riech­training wirkt bei Geruchs­verlust](https://www.test.de/Langzeitfolgen-von-Covid-19-Riechtraining-wirkt-bei-Geruchsverlust-6066247-0/ "Langzeitfolgen von Covid-19 - Riechtraining wirkt bei Geruchsverlust")
+* [Ökobilanz Kaffee­zubereitung: Lecker, aber auch ökologisch?](https://www.test.de/Oekobilanz-und-Preisvergleich-Kaffeezubereitung-6093120-0/ "Ökobilanz Kaffeezubereitung - Lecker, aber auch ökologisch?")
+* [Nicht­raucher-Apps im Test: Digital mit dem Rauchen aufhören](https://www.test.de/nichtraucher-apps-und-programme-im-test-6072606-0/ "Nichtraucher-Apps im Test - Digital mit dem Rauchen aufhören")
+* [Hoch­druck­reiniger im Test: Wer ist der beste Moos-Hammer?](https://www.test.de/Hochdruckreiniger-im-Test-Wer-ist-der-beste-Moos-Hammer-6140878-0/ "Hochdruckreiniger im Test - Wer ist der beste Moos-Hammer?")
+* [Riester-Fonds­sparpläne: Viele Riester-Verträge laufen gut – doch am Ende drohen hohe Kosten](https://www.test.de/Riester-Vertraege-Riester-Fondssparplaene-im-Rendite-Check-6044518-0/ "Riester-Fondssparpläne - Viele Riester-Verträge laufen gut – doch am Ende drohen hohe Kosten")
 
 Fußbereich
 
@@ -2737,12 +2737,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [bel-finanz.de: Dubioses Fest­geld](https://www.test.de/bel-finanzde-Dubioses-Festgeld-6051673-0/ "bel-finanz.de - Dubioses Festgeld")
-* [Riester-Rente: Urteil lässt hoffen – Zurich darf Rente nicht kürzen](https://www.test.de/Riester-Rente-Zurich-darf-Rente-nicht-kuerzen-5981307-0/ "Riester-Rente - Urteil lässt hoffen – Zurich darf Rente nicht kürzen")
-* [Dispozinsen: Alle Banken im Test](https://www.test.de/Dispozinsen-Alle-Banken-im-Test-6007265-0/ "Dispozinsen - Alle Banken im Test")
-* [Bewertung von Fonds und ETF: Risiko­klasse hilft bei der Fonds­wahl](https://www.test.de/Bewertung-von-Fonds-und-ETF-Risikoklasse-hilft-bei-der-Fondswahl-6139024-0/ "Bewertung von Fonds und ETF - Risikoklasse hilft bei der Fondswahl")
-* [Diagnose Demenz: Das Vergessen liebevoll begleiten](https://www.test.de/Diagnose-Demenz-Das-Vergessen-liebevoll-begleiten-6142415-0/ "Diagnose Demenz - Das Vergessen liebevoll begleiten")
-* [Preisfallen im Supermarkt: Die Tricks der Händler erkennen](https://www.test.de/Preisfallen-im-Supermarkt-Die-Tricks-der-Haendler-erkennen-5929356-0/ "Preisfallen im Supermarkt - Die Tricks der Händler erkennen")
+* [Hacker-Angriff auf Pass­wort-Manager: Kunden­daten von LastPass gestohlen](https://www.test.de/Hacker-Angriff-auf-Passwort-Manager-Kundendaten-von-LastPass-gestohlen-5952137-0/ "Hacker-Angriff auf Passwort-Manager - Kundendaten von LastPass gestohlen")
+* [Lang­zeit­folgen von Covid-19: Riech­training wirkt bei Geruchs­verlust](https://www.test.de/Langzeitfolgen-von-Covid-19-Riechtraining-wirkt-bei-Geruchsverlust-6066247-0/ "Langzeitfolgen von Covid-19 - Riechtraining wirkt bei Geruchsverlust")
+* [Ökobilanz Kaffee­zubereitung: Lecker, aber auch ökologisch?](https://www.test.de/Oekobilanz-und-Preisvergleich-Kaffeezubereitung-6093120-0/ "Ökobilanz Kaffeezubereitung - Lecker, aber auch ökologisch?")
+* [Nicht­raucher-Apps im Test: Digital mit dem Rauchen aufhören](https://www.test.de/nichtraucher-apps-und-programme-im-test-6072606-0/ "Nichtraucher-Apps im Test - Digital mit dem Rauchen aufhören")
+* [Hoch­druck­reiniger im Test: Wer ist der beste Moos-Hammer?](https://www.test.de/Hochdruckreiniger-im-Test-Wer-ist-der-beste-Moos-Hammer-6140878-0/ "Hochdruckreiniger im Test - Wer ist der beste Moos-Hammer?")
+* [Riester-Fonds­sparpläne: Viele Riester-Verträge laufen gut – doch am Ende drohen hohe Kosten](https://www.test.de/Riester-Vertraege-Riester-Fondssparplaene-im-Rendite-Check-6044518-0/ "Riester-Fondssparpläne - Viele Riester-Verträge laufen gut – doch am Ende drohen hohe Kosten")
 
 Jetzt anmelden und 10% Rabatt auf die test.de-Flatrate im ersten Jahr erhalten!
 
@@ -2795,12 +2795,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [bel-finanz.de: Dubioses Fest­geld](https://www.test.de/bel-finanzde-Dubioses-Festgeld-6051673-0/ "bel-finanz.de - Dubioses Festgeld")
-* [Riester-Rente: Urteil lässt hoffen – Zurich darf Rente nicht kürzen](https://www.test.de/Riester-Rente-Zurich-darf-Rente-nicht-kuerzen-5981307-0/ "Riester-Rente - Urteil lässt hoffen – Zurich darf Rente nicht kürzen")
-* [Dispozinsen: Alle Banken im Test](https://www.test.de/Dispozinsen-Alle-Banken-im-Test-6007265-0/ "Dispozinsen - Alle Banken im Test")
-* [Bewertung von Fonds und ETF: Risiko­klasse hilft bei der Fonds­wahl](https://www.test.de/Bewertung-von-Fonds-und-ETF-Risikoklasse-hilft-bei-der-Fondswahl-6139024-0/ "Bewertung von Fonds und ETF - Risikoklasse hilft bei der Fondswahl")
-* [Diagnose Demenz: Das Vergessen liebevoll begleiten](https://www.test.de/Diagnose-Demenz-Das-Vergessen-liebevoll-begleiten-6142415-0/ "Diagnose Demenz - Das Vergessen liebevoll begleiten")
-* [Preisfallen im Supermarkt: Die Tricks der Händler erkennen](https://www.test.de/Preisfallen-im-Supermarkt-Die-Tricks-der-Haendler-erkennen-5929356-0/ "Preisfallen im Supermarkt - Die Tricks der Händler erkennen")
+* [Hacker-Angriff auf Pass­wort-Manager: Kunden­daten von LastPass gestohlen](https://www.test.de/Hacker-Angriff-auf-Passwort-Manager-Kundendaten-von-LastPass-gestohlen-5952137-0/ "Hacker-Angriff auf Passwort-Manager - Kundendaten von LastPass gestohlen")
+* [Lang­zeit­folgen von Covid-19: Riech­training wirkt bei Geruchs­verlust](https://www.test.de/Langzeitfolgen-von-Covid-19-Riechtraining-wirkt-bei-Geruchsverlust-6066247-0/ "Langzeitfolgen von Covid-19 - Riechtraining wirkt bei Geruchsverlust")
+* [Ökobilanz Kaffee­zubereitung: Lecker, aber auch ökologisch?](https://www.test.de/Oekobilanz-und-Preisvergleich-Kaffeezubereitung-6093120-0/ "Ökobilanz Kaffeezubereitung - Lecker, aber auch ökologisch?")
+* [Nicht­raucher-Apps im Test: Digital mit dem Rauchen aufhören](https://www.test.de/nichtraucher-apps-und-programme-im-test-6072606-0/ "Nichtraucher-Apps im Test - Digital mit dem Rauchen aufhören")
+* [Hoch­druck­reiniger im Test: Wer ist der beste Moos-Hammer?](https://www.test.de/Hochdruckreiniger-im-Test-Wer-ist-der-beste-Moos-Hammer-6140878-0/ "Hochdruckreiniger im Test - Wer ist der beste Moos-Hammer?")
+* [Riester-Fonds­sparpläne: Viele Riester-Verträge laufen gut – doch am Ende drohen hohe Kosten](https://www.test.de/Riester-Vertraege-Riester-Fondssparplaene-im-Rendite-Check-6044518-0/ "Riester-Fondssparpläne - Viele Riester-Verträge laufen gut – doch am Ende drohen hohe Kosten")
 
 Neueste Tests
 
@@ -2813,12 +2813,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [bel-finanz.de: Dubioses Fest­geld](https://www.test.de/bel-finanzde-Dubioses-Festgeld-6051673-0/ "bel-finanz.de - Dubioses Festgeld")
-* [Riester-Rente: Urteil lässt hoffen – Zurich darf Rente nicht kürzen](https://www.test.de/Riester-Rente-Zurich-darf-Rente-nicht-kuerzen-5981307-0/ "Riester-Rente - Urteil lässt hoffen – Zurich darf Rente nicht kürzen")
-* [Dispozinsen: Alle Banken im Test](https://www.test.de/Dispozinsen-Alle-Banken-im-Test-6007265-0/ "Dispozinsen - Alle Banken im Test")
-* [Bewertung von Fonds und ETF: Risiko­klasse hilft bei der Fonds­wahl](https://www.test.de/Bewertung-von-Fonds-und-ETF-Risikoklasse-hilft-bei-der-Fondswahl-6139024-0/ "Bewertung von Fonds und ETF - Risikoklasse hilft bei der Fondswahl")
-* [Diagnose Demenz: Das Vergessen liebevoll begleiten](https://www.test.de/Diagnose-Demenz-Das-Vergessen-liebevoll-begleiten-6142415-0/ "Diagnose Demenz - Das Vergessen liebevoll begleiten")
-* [Preisfallen im Supermarkt: Die Tricks der Händler erkennen](https://www.test.de/Preisfallen-im-Supermarkt-Die-Tricks-der-Haendler-erkennen-5929356-0/ "Preisfallen im Supermarkt - Die Tricks der Händler erkennen")
+* [Hacker-Angriff auf Pass­wort-Manager: Kunden­daten von LastPass gestohlen](https://www.test.de/Hacker-Angriff-auf-Passwort-Manager-Kundendaten-von-LastPass-gestohlen-5952137-0/ "Hacker-Angriff auf Passwort-Manager - Kundendaten von LastPass gestohlen")
+* [Lang­zeit­folgen von Covid-19: Riech­training wirkt bei Geruchs­verlust](https://www.test.de/Langzeitfolgen-von-Covid-19-Riechtraining-wirkt-bei-Geruchsverlust-6066247-0/ "Langzeitfolgen von Covid-19 - Riechtraining wirkt bei Geruchsverlust")
+* [Ökobilanz Kaffee­zubereitung: Lecker, aber auch ökologisch?](https://www.test.de/Oekobilanz-und-Preisvergleich-Kaffeezubereitung-6093120-0/ "Ökobilanz Kaffeezubereitung - Lecker, aber auch ökologisch?")
+* [Nicht­raucher-Apps im Test: Digital mit dem Rauchen aufhören](https://www.test.de/nichtraucher-apps-und-programme-im-test-6072606-0/ "Nichtraucher-Apps im Test - Digital mit dem Rauchen aufhören")
+* [Hoch­druck­reiniger im Test: Wer ist der beste Moos-Hammer?](https://www.test.de/Hochdruckreiniger-im-Test-Wer-ist-der-beste-Moos-Hammer-6140878-0/ "Hochdruckreiniger im Test - Wer ist der beste Moos-Hammer?")
+* [Riester-Fonds­sparpläne: Viele Riester-Verträge laufen gut – doch am Ende drohen hohe Kosten](https://www.test.de/Riester-Vertraege-Riester-Fondssparplaene-im-Rendite-Check-6044518-0/ "Riester-Fondssparpläne - Viele Riester-Verträge laufen gut – doch am Ende drohen hohe Kosten")
 
 Service Stiftung Warentest
 
