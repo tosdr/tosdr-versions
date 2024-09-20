@@ -1,15 +1,17 @@
-![](https://www.facebook.com/tr?id=181373849168743&ev=PageView
-&noscript=1)              
+               [Skip to content](#MainContent)
 
-* [Treats](https://rockykanaka.com/collections/all-treats)
+      
+
+* Treats
     
-    Expand submenu Treats Collapse submenu Treats
+    [Treats](https://rockykanaka.com/collections/all-treats)
     
     * [Jerky](https://rockykanaka.com/collections/jerky)
     * [Chews](https://rockykanaka.com/collections/chew)
-* [Merch](https://rockykanaka.com/collections/merch-by-rocky-kanaka)
     
-    Expand submenu Merch Collapse submenu Merch
+* Merch
+    
+    [Merch](https://rockykanaka.com/collections/merch-by-rocky-kanaka)
     
     * [Easily Distracted by Dogs](https://rockykanaka.com/collections/easily-distracted-by-dogs)
     * [Keep Calm & Rescue A dog](https://rockykanaka.com/collections/keep-calm-rescue-a-dog)
@@ -18,19 +20,22 @@
     * [Dog Mom](https://rockykanaka.com/collections/dog-mom)
     * [My Dog is My Happy Place](https://rockykanaka.com/collections/my-dog-is-my-happy-place)
     * [Hello Aloha Woof Meow](https://rockykanaka.com/collections/hello-aloha-woof-meow)
+    
 * [About](https://www.rockykanaka.com/about)
 
-* [Log In](https://rockykanaka.com/account/login)
-* [Create Account](https://rockykanaka.com/account/register)
+[Log in](https://rockykanaka.com/account/login)
 
-Site navigation
+* [Facebook](https://www.facebook.com/rockykanaka/)
 
-[![RockyKanaka](//www.shoprockykanaka.com/cdn/shop/files/rocky_logo_260x.png?v=1686719816)](https://rockykanaka.com/)
+[![RockyKanaka](//www.shoprockykanaka.com/cdn/shop/files/RK-logo.png?height=86&v=1726185004)![RockyKanaka](//www.shoprockykanaka.com/cdn/shop/files/RK-logo.png?height=80&v=1726185004)](https://rockykanaka.com/)
 
 * [Treats](https://rockykanaka.com/collections/all-treats)
+    
     * [Jerky](https://rockykanaka.com/collections/jerky)
     * [Chews](https://rockykanaka.com/collections/chew)
+    
 * [Merch](https://rockykanaka.com/collections/merch-by-rocky-kanaka)
+    
     * [Easily Distracted by Dogs](https://rockykanaka.com/collections/easily-distracted-by-dogs)
     * [Keep Calm & Rescue A dog](https://rockykanaka.com/collections/keep-calm-rescue-a-dog)
     * [Sitting With Dogs](https://rockykanaka.com/collections/sitting-with-dogs)
@@ -38,21 +43,19 @@ Site navigation
     * [Dog Mom](https://rockykanaka.com/collections/dog-mom)
     * [My Dog is My Happy Place](https://rockykanaka.com/collections/my-dog-is-my-happy-place)
     * [Hello Aloha Woof Meow](https://rockykanaka.com/collections/hello-aloha-woof-meow)
+    
 * [About](https://www.rockykanaka.com/about)
-* [Log In](https://rockykanaka.com/account)
-* [Search](https://rockykanaka.com/search)
-* [Cart](https://rockykanaka.com/cart)
 
-[Search](https://rockykanaka.com/search) [Cart](https://rockykanaka.com/cart)
+ Search our site  
 
-Your cart
+Clear[Log in](https://rockykanaka.com/account/login) Cart
 
-Close Cart
+[Cart](https://rockykanaka.com/cart)
+
+ 
 
 Privacy Policy
 ==============
-
-* * *
 
 The Policy is designed to assist you in understanding how we collect, use and safeguard the personal information you provide to us and to assist you in making informed decisions when using our site and our products and services. This statement will be continuously assessed against new technologies, business practices and our customers' needs.
 
@@ -190,28 +193,277 @@ RockyKanaka.com- support@rockykanaka.com
 
 This Privacy Policy is strictly limited to the Program and has no effect on any other privacy policy(ies) that may govern the relationship between you and Us in other contexts.
 
-* * *
+     
 
-* [Contact Us](https://rockykanaka.com/pages/contact)
+The Details
+
 * [Shipping & Returns Policy](https://rockykanaka.com/pages/shipping-policy)
-* [Terms of Service](https://rockykanaka.com/pages/terms-of-service)
+* [Terms Of Service](https://rockykanaka.com/pages/terms-of-service)
+* [Contact Us](https://rockykanaka.com/pages/contact)
 * [Privacy Policy](https://rockykanaka.com/pages/privacy-policy)
 
-© 2024, [RockyKanaka](https://rockykanaka.com/)  
-[](https://www.shopify.com/?utm_campaign=poweredby&utm_medium=shopify&utm_source=onlinestore)
+© 2024, [RockyKanaka](https://rockykanaka.com/). All rights reserved.
 
-Payment methods
+* [](https://www.shopify.com/?utm_campaign=poweredby&utm_medium=shopify&utm_source=onlinestore)
 
-* American Express
-* Apple Pay
-* Diners Club
-* Discover
-* Meta Pay
-* Google Pay
-* Mastercard
-* Shop Pay
-* Visa
+Country/region
 
- Search
+AFN ؋ EUR € ALL L DZD د.ج EUR € USD $ XCD $ XCD $ USD $ AMD դր. AWG ƒ SHP £ AUD $ EUR € AZN ₼ BSD $ USD $ BDT ৳ BBD $ USD $ EUR € BZD $ XOF Fr USD $ USD $ BOB Bs. BAM КМ BWP P USD $ USD $ USD $ BND $ BGN лв. XOF Fr BIF Fr KHR ៛ XAF Fr CAD $ CVE $ USD $ KYD $ XAF Fr XAF Fr USD $ CNY ¥ AUD $ AUD $ USD $ KMF Fr XAF Fr CDF Fr NZD $ CRC ₡ XOF Fr EUR € ANG ƒ EUR € CZK Kč DKK kr. DJF Fdj XCD $ DOP $ USD $ EGP ج.م USD $ XAF Fr USD $ EUR € USD $ ETB Br FKP £ DKK kr. FJD $ EUR € EUR € EUR € XPF Fr EUR € XOF Fr GMD D USD $ EUR € USD $ GBP £ EUR € DKK kr. XCD $ EUR € GTQ Q GBP £ GNF Fr XOF Fr GYD $ USD $ HNL L HKD $ HUF Ft ISK kr INR ₹ IDR Rp USD $ EUR € GBP £ ILS ₪ EUR € JMD $ JPY ¥ USD $ USD $ KZT 〒 KES KSh USD $ EUR € USD $ KGS som LAK ₭ EUR € LBP ل.ل USD $ USD $ USD $ CHF CHF EUR € EUR € MOP P USD $ MWK MK MYR RM MVR MVR XOF Fr EUR € EUR € USD $ MUR ₨ EUR € USD $ MDL L EUR € MNT ₮ EUR € XCD $ MAD د.م. USD $ MMK K USD $ AUD $ NPR ₨ EUR € XPF Fr NZD $ NIO C$ XOF Fr NGN ₦ NZD $ AUD $ MKD ден USD $ USD $ PKR ₨ ILS ₪ USD $ PGK K PYG ₲ PEN S/. PHP ₱ NZD $ PLN zł EUR € QAR ر.ق EUR € RON Lei USD $ RWF FRw WST T EUR € STD Db SAR ر.س XOF Fr RSD РСД USD $ SLL Le SGD $ ANG ƒ EUR € EUR € SBD $ USD $ USD $ GBP £ KRW ₩ USD $ EUR € LKR ₨ EUR € SHP £ XCD $ XCD $ EUR € EUR € XCD $ USD $ USD $ USD $ SEK kr CHF CHF TWD $ TJS ЅМ TZS Sh THB ฿ USD $ XOF Fr NZD $ TOP T$ TTD $ GBP £ USD $ USD $ USD $ USD $ AUD $ USD $ UGX USh UAH ₴ AED د.إ GBP £ USD $ UYU $ UZS VUV Vt EUR € USD $ VND ₫ XPF Fr MAD د.م. YER ﷼ USD $ USD $
 
-* choosing a selection results in a full page refresh
+Update country/region
+
+Country/region
+
+United States (USD $)
+
+* [United States (USD $)](#)
+* [Afghanistan (AFN ؋)](#)
+* [Åland Islands (EUR €)](#)
+* [Albania (ALL L)](#)
+* [Algeria (DZD د.ج)](#)
+* [Andorra (EUR €)](#)
+* [Angola (USD $)](#)
+* [Anguilla (XCD $)](#)
+* [Antigua & Barbuda (XCD $)](#)
+* [Argentina (USD $)](#)
+* [Armenia (AMD դր.)](#)
+* [Aruba (AWG ƒ)](#)
+* [Ascension Island (SHP £)](#)
+* [Australia (AUD $)](#)
+* [Austria (EUR €)](#)
+* [Azerbaijan (AZN ₼)](#)
+* [Bahamas (BSD $)](#)
+* [Bahrain (USD $)](#)
+* [Bangladesh (BDT ৳)](#)
+* [Barbados (BBD $)](#)
+* [Belarus (USD $)](#)
+* [Belgium (EUR €)](#)
+* [Belize (BZD $)](#)
+* [Benin (XOF Fr)](#)
+* [Bermuda (USD $)](#)
+* [Bhutan (USD $)](#)
+* [Bolivia (BOB Bs.)](#)
+* [Bosnia & Herzegovina (BAM КМ)](#)
+* [Botswana (BWP P)](#)
+* [Brazil (USD $)](#)
+* [British Indian Ocean Territory (USD $)](#)
+* [British Virgin Islands (USD $)](#)
+* [Brunei (BND $)](#)
+* [Bulgaria (BGN лв.)](#)
+* [Burkina Faso (XOF Fr)](#)
+* [Burundi (BIF Fr)](#)
+* [Cambodia (KHR ៛)](#)
+* [Cameroon (XAF Fr)](#)
+* [Canada (CAD $)](#)
+* [Cape Verde (CVE $)](#)
+* [Caribbean Netherlands (USD $)](#)
+* [Cayman Islands (KYD $)](#)
+* [Central African Republic (XAF Fr)](#)
+* [Chad (XAF Fr)](#)
+* [Chile (USD $)](#)
+* [China (CNY ¥)](#)
+* [Christmas Island (AUD $)](#)
+* [Cocos (Keeling) Islands (AUD $)](#)
+* [Colombia (USD $)](#)
+* [Comoros (KMF Fr)](#)
+* [Congo - Brazzaville (XAF Fr)](#)
+* [Congo - Kinshasa (CDF Fr)](#)
+* [Cook Islands (NZD $)](#)
+* [Costa Rica (CRC ₡)](#)
+* [Côte d’Ivoire (XOF Fr)](#)
+* [Croatia (EUR €)](#)
+* [Curaçao (ANG ƒ)](#)
+* [Cyprus (EUR €)](#)
+* [Czechia (CZK Kč)](#)
+* [Denmark (DKK kr.)](#)
+* [Djibouti (DJF Fdj)](#)
+* [Dominica (XCD $)](#)
+* [Dominican Republic (DOP $)](#)
+* [Ecuador (USD $)](#)
+* [Egypt (EGP ج.م)](#)
+* [El Salvador (USD $)](#)
+* [Equatorial Guinea (XAF Fr)](#)
+* [Eritrea (USD $)](#)
+* [Estonia (EUR €)](#)
+* [Eswatini (USD $)](#)
+* [Ethiopia (ETB Br)](#)
+* [Falkland Islands (FKP £)](#)
+* [Faroe Islands (DKK kr.)](#)
+* [Fiji (FJD $)](#)
+* [Finland (EUR €)](#)
+* [France (EUR €)](#)
+* [French Guiana (EUR €)](#)
+* [French Polynesia (XPF Fr)](#)
+* [French Southern Territories (EUR €)](#)
+* [Gabon (XOF Fr)](#)
+* [Gambia (GMD D)](#)
+* [Georgia (USD $)](#)
+* [Germany (EUR €)](#)
+* [Ghana (USD $)](#)
+* [Gibraltar (GBP £)](#)
+* [Greece (EUR €)](#)
+* [Greenland (DKK kr.)](#)
+* [Grenada (XCD $)](#)
+* [Guadeloupe (EUR €)](#)
+* [Guatemala (GTQ Q)](#)
+* [Guernsey (GBP £)](#)
+* [Guinea (GNF Fr)](#)
+* [Guinea-Bissau (XOF Fr)](#)
+* [Guyana (GYD $)](#)
+* [Haiti (USD $)](#)
+* [Honduras (HNL L)](#)
+* [Hong Kong SAR (HKD $)](#)
+* [Hungary (HUF Ft)](#)
+* [Iceland (ISK kr)](#)
+* [India (INR ₹)](#)
+* [Indonesia (IDR Rp)](#)
+* [Iraq (USD $)](#)
+* [Ireland (EUR €)](#)
+* [Isle of Man (GBP £)](#)
+* [Israel (ILS ₪)](#)
+* [Italy (EUR €)](#)
+* [Jamaica (JMD $)](#)
+* [Japan (JPY ¥)](#)
+* [Jersey (USD $)](#)
+* [Jordan (USD $)](#)
+* [Kazakhstan (KZT 〒)](#)
+* [Kenya (KES KSh)](#)
+* [Kiribati (USD $)](#)
+* [Kosovo (EUR €)](#)
+* [Kuwait (USD $)](#)
+* [Kyrgyzstan (KGS som)](#)
+* [Laos (LAK ₭)](#)
+* [Latvia (EUR €)](#)
+* [Lebanon (LBP ل.ل)](#)
+* [Lesotho (USD $)](#)
+* [Liberia (USD $)](#)
+* [Libya (USD $)](#)
+* [Liechtenstein (CHF CHF)](#)
+* [Lithuania (EUR €)](#)
+* [Luxembourg (EUR €)](#)
+* [Macao SAR (MOP P)](#)
+* [Madagascar (USD $)](#)
+* [Malawi (MWK MK)](#)
+* [Malaysia (MYR RM)](#)
+* [Maldives (MVR MVR)](#)
+* [Mali (XOF Fr)](#)
+* [Malta (EUR €)](#)
+* [Martinique (EUR €)](#)
+* [Mauritania (USD $)](#)
+* [Mauritius (MUR ₨)](#)
+* [Mayotte (EUR €)](#)
+* [Mexico (USD $)](#)
+* [Moldova (MDL L)](#)
+* [Monaco (EUR €)](#)
+* [Mongolia (MNT ₮)](#)
+* [Montenegro (EUR €)](#)
+* [Montserrat (XCD $)](#)
+* [Morocco (MAD د.م.)](#)
+* [Mozambique (USD $)](#)
+* [Myanmar (Burma) (MMK K)](#)
+* [Namibia (USD $)](#)
+* [Nauru (AUD $)](#)
+* [Nepal (NPR ₨)](#)
+* [Netherlands (EUR €)](#)
+* [New Caledonia (XPF Fr)](#)
+* [New Zealand (NZD $)](#)
+* [Nicaragua (NIO C$)](#)
+* [Niger (XOF Fr)](#)
+* [Nigeria (NGN ₦)](#)
+* [Niue (NZD $)](#)
+* [Norfolk Island (AUD $)](#)
+* [North Macedonia (MKD ден)](#)
+* [Norway (USD $)](#)
+* [Oman (USD $)](#)
+* [Pakistan (PKR ₨)](#)
+* [Palestinian Territories (ILS ₪)](#)
+* [Panama (USD $)](#)
+* [Papua New Guinea (PGK K)](#)
+* [Paraguay (PYG ₲)](#)
+* [Peru (PEN S/.)](#)
+* [Philippines (PHP ₱)](#)
+* [Pitcairn Islands (NZD $)](#)
+* [Poland (PLN zł)](#)
+* [Portugal (EUR €)](#)
+* [Qatar (QAR ر.ق)](#)
+* [Réunion (EUR €)](#)
+* [Romania (RON Lei)](#)
+* [Russia (USD $)](#)
+* [Rwanda (RWF FRw)](#)
+* [Samoa (WST T)](#)
+* [San Marino (EUR €)](#)
+* [São Tomé & Príncipe (STD Db)](#)
+* [Saudi Arabia (SAR ر.س)](#)
+* [Senegal (XOF Fr)](#)
+* [Serbia (RSD РСД)](#)
+* [Seychelles (USD $)](#)
+* [Sierra Leone (SLL Le)](#)
+* [Singapore (SGD $)](#)
+* [Sint Maarten (ANG ƒ)](#)
+* [Slovakia (EUR €)](#)
+* [Slovenia (EUR €)](#)
+* [Solomon Islands (SBD $)](#)
+* [Somalia (USD $)](#)
+* [South Africa (USD $)](#)
+* [South Georgia & South Sandwich Islands (GBP £)](#)
+* [South Korea (KRW ₩)](#)
+* [South Sudan (USD $)](#)
+* [Spain (EUR €)](#)
+* [Sri Lanka (LKR ₨)](#)
+* [St. Barthélemy (EUR €)](#)
+* [St. Helena (SHP £)](#)
+* [St. Kitts & Nevis (XCD $)](#)
+* [St. Lucia (XCD $)](#)
+* [St. Martin (EUR €)](#)
+* [St. Pierre & Miquelon (EUR €)](#)
+* [St. Vincent & Grenadines (XCD $)](#)
+* [Sudan (USD $)](#)
+* [Suriname (USD $)](#)
+* [Svalbard & Jan Mayen (USD $)](#)
+* [Sweden (SEK kr)](#)
+* [Switzerland (CHF CHF)](#)
+* [Taiwan (TWD $)](#)
+* [Tajikistan (TJS ЅМ)](#)
+* [Tanzania (TZS Sh)](#)
+* [Thailand (THB ฿)](#)
+* [Timor-Leste (USD $)](#)
+* [Togo (XOF Fr)](#)
+* [Tokelau (NZD $)](#)
+* [Tonga (TOP T$)](#)
+* [Trinidad & Tobago (TTD $)](#)
+* [Tristan da Cunha (GBP £)](#)
+* [Tunisia (USD $)](#)
+* [Türkiye (USD $)](#)
+* [Turkmenistan (USD $)](#)
+* [Turks & Caicos Islands (USD $)](#)
+* [Tuvalu (AUD $)](#)
+* [U.S. Outlying Islands (USD $)](#)
+* [Uganda (UGX USh)](#)
+* [Ukraine (UAH ₴)](#)
+* [United Arab Emirates (AED د.إ)](#)
+* [United Kingdom (GBP £)](#)
+* [Uruguay (UYU $)](#)
+* [Uzbekistan (UZS )](#)
+* [Vanuatu (VUV Vt)](#)
+* [Vatican City (EUR €)](#)
+* [Venezuela (USD $)](#)
+* [Vietnam (VND ₫)](#)
+* [Wallis & Futuna (XPF Fr)](#)
+* [Western Sahara (MAD د.م.)](#)
+* [Yemen (YER ﷼)](#)
+* [Zambia (USD $)](#)
+* [Zimbabwe (USD $)](#)
+
+[Home](https://rockykanaka.com/)
+
+Menu
+
+Search
+
+[Shop](https://rockykanaka.com/collections/all)
+
+Cart
+
+[Account](https://rockykanaka.com/account/login)
+
+* Choosing a selection results in a full page refresh.
