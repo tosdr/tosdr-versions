@@ -170,6 +170,7 @@ Share This Article
 ### Parenting and Well-Being
 
 * [How Women’s Soccer Programs are Shaping the Future](https://www.safesearchkids.com/game-changers-how-womens-soccer-programs-are-shaping-the-future/)
+* [Exploring Instagram’s New Teen Accounts for Ages 13 – 17](https://www.safesearchkids.com/instagram-teen-accounts-for-ages-13-17/)
 * [Advisory on Social Media and Youth Mental Health](https://www.safesearchkids.com/advisory-on-social-media-and-youth-mental-health/)
 * [Creative Screen-Free Adventures for Kids](https://www.safesearchkids.com/creative-screen-free-adventures-keeping-kids-engaged-for-hours/)
 * [What Parents Should Know About Artificial Intelligence](https://www.safesearchkids.com/what-parents-should-know-about-artificial-intelligence/)
@@ -370,21 +371,21 @@ Share This Article
 
  
 
-* [Phones in School](https://www.safesearchkids.com/cell-phones-in-school/)
-* [CyberBullying](https://www.safesearchkids.com/cyber-bullying-for-parents/)
-* [Safe Search Engine](https://www.safesearchkids.com/kids-search-engine/)
-* [Is Discord Safe?](https://www.safesearchkids.com/is-discord-safe-for-your-kids-a-complete-parental-guide/)
-* [Roblox Controls](https://www.safesearchkids.com/roblox-parental-controls/)
-* [Safer Messenger](https://www.safesearchkids.com/parental-controls-for-facebook-messenger/)
-* [Is Mastodon Safe?](https://www.safesearchkids.com/is-mastodon-safe/)
-* [Snapchat Safety](https://www.safesearchkids.com/snapchat-kids/)
 * [Is TikTok Safe?](https://www.safesearchkids.com/5-things-parents-need-to-know-about-tiktok/)
+* [Instagram Safety](https://www.safesearchkids.com/instagram-sensitive-content-and-family-center/)
+* [Phones in School](https://www.safesearchkids.com/cell-phones-in-school/)
+* [Is Threads Safe?](https://www.safesearchkids.com/is-threads-safe-for-teens/)
+* [CyberBullying](https://www.safesearchkids.com/cyber-bullying-for-parents/)
+* [Roblox Controls](https://www.safesearchkids.com/roblox-parental-controls/)
+* [Safe Search Engine](https://www.safesearchkids.com/kids-search-engine/)
+* [WhatsApp Safety](https://www.safesearchkids.com/whatsapp-safety-for-kids/)
+* [Is Discord Safe?](https://www.safesearchkids.com/is-discord-safe-for-your-kids-a-complete-parental-guide/)
+* [Safer Messenger](https://www.safesearchkids.com/parental-controls-for-facebook-messenger/)
+* [Snapchat Safety](https://www.safesearchkids.com/snapchat-kids/)
+* [Is Mastodon Safe?](https://www.safesearchkids.com/is-mastodon-safe/)
 * [Kik Messenger](https://www.safesearchkids.com/what-parents-should-know-about-kik-messenger/)
 * [Teens on Twitter](https://www.safesearchkids.com/tips-to-help-keep-teens-safe-on-twitter/)
-* [WhatsApp Safety](https://www.safesearchkids.com/whatsapp-safety-for-kids/)
 * [Navigating Twitch](https://www.safesearchkids.com/parents-guide-to-navigating-twitch-tv/)
-* [Instagram Safety](https://www.safesearchkids.com/instagram-sensitive-content-and-family-center/)
-* [Is Threads Safe?](https://www.safesearchkids.com/is-threads-safe-for-teens/)
 
 Safe and Secure Internet Browsing
 ---------------------------------
