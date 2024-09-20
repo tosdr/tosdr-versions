@@ -375,11 +375,11 @@
     
     Upcoming Events
     
-    ![](https://www.kaseya.com/wp-content/uploads/2023/07/CITlocal-Netherlands-300x200.jpg)
+    ![](https://www.kaseya.com/wp-content/uploads/2024/09/K365-Webinar-Top-Tips-1200x800-px-300x200.jpg)
     
-    Connect Local “The Kaseya 365 World Tour” Netherlands
+    Top Tips for Improving Security With Kaseya 365
     
-    September 19
+    September 25
     
     [View All Events](https://www.kaseya.com/events/)
     
