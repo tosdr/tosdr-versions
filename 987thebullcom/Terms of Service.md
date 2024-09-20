@@ -210,11 +210,11 @@ Recently Played
 
 |     |
 | --- |
-| You ProofMorgan Wallen<br><br>11:39am |
-| Shes In Love With The BoyTrisha Yearwood<br><br>11:35am |
-| A Bar Song (Tipsy)Shaboozey<br><br>11:32am |
-| Til You Can'TCody Johnson<br><br>11:28am |
-| LosersPost Malone Ft Jelly Roll<br><br>11:25am |
+| I Had Some HelpPost Malone Ft Morgan Wallen<br><br>5:40pm |
+| Live Like You Were DyingTim Mcgraw<br><br>5:36pm |
+| Ain'T No Love In OklahomaLuke Combs<br><br>5:33pm |
+| Something Like ThatTim Mcgraw<br><br>5:24pm |
+| 23Chayce Beckham<br><br>5:20pm |
 
 [View Full Playlist](https://www.987thebull.com/recently-played)
 
@@ -358,13 +358,13 @@ State
 Featured Brands
 ---------------
 
-[![98.5 The Bull Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KDES.png)](https://www.985thebull.com/)
+[![Latino 106.3 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBMG.png)](https://www.latinosaltlake.com/)
 
-Country • Western
+Spanish • Western
 
-[![Live 95.5 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBFF.png)](https://www.live955.com/)
+[![Panhandle Sports Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/KVWE-Logo-RedBlack-Dk.png)](https://www.panhandlesportsstar.com/)
 
-Top 40 • Pacific NW
+Sports • Midwest
 
 [![News-Talk 1480 WHBC Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WHBCAM.png)](https://www.whbc.com/)
 
