@@ -1,6 +1,6 @@
 [Skip to main content](#main-content)
 
-![U.S. flag](/themes/custom/usdoj_uswds/assets/img/us_flag_small.png)
+![](/themes/custom/usdoj_uswds/assets/img/us_flag_small.png)
 
 An official website of the United States government
 
@@ -16,7 +16,7 @@ A **.gov** website belongs to an official government organization in the United 
 ![Https](/themes/custom/usdoj_uswds/assets/img/icon-https.svg)
 
 **Secure .gov websites use HTTPS**  
-A **lock** ( Lock A locked padlock ) or **https://** means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+A **lock** ( Lock Locked padlock ) or **https://** means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
 
 _[![U.S. Department of Justice seal](/themes/custom/usdoj_uswds/images/doj-main-header-logo.svg)](https://www.justice.gov/ "Home")_
 
@@ -109,7 +109,7 @@ Breadcrumb
 Legal Policies and Disclaimers
 ==============================
 
-Share![right caret](/themes/custom/usdoj_uswds/assets/img/angle-arrow-right-white.svg)
+Share ![right caret](/themes/custom/usdoj_uswds/svg/angle-arrow-right-white.svg) 
 
 * [Facebook](http://www.facebook.com/sharer/sharer.php?u=https://www.justice.gov/legalpolicies "Share on Facebook")
 * [X](http://twitter.com/intent/tweet?url=https://www.justice.gov/legalpolicies&text=Legal%20Policies%20and%20Disclaimers "Share on X")
