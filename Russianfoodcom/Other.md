@@ -7,7 +7,7 @@
 | --- | --- |
 |     | [Рецепты](https://www.russianfood.com/recipes/) [Статьи](https://www.russianfood.com/reading/clauses/) [Наша Кухня](https://www.russianfood.com/blogs/) [Супер Поиск](https://www.russianfood.com/search/) [Рассылки](https://www.russianfood.com/subscribe/) |
 
-[![](//img1.russianfood.com/images/recipes/recipe_add_btn_7.gif)](https://www.russianfood.com/recipes/recipeadd.php)
+[![](//img1.russianfood.com/images/recipes/recipe_add_btn_1.gif)](https://www.russianfood.com/recipes/recipeadd.php)
 
 [Добавить  
 рецепт](https://www.russianfood.com/recipes/recipeadd.php)
@@ -148,16 +148,16 @@
 
 Сейчас читают
 
-* [Грушевый торт с грильяжем](https://www.russianfood.com/recipes/recipe.php?rid=47323)
-* [Шоколадный торт](https://www.russianfood.com/recipes/recipe.php?rid=47328)
-* [Лимон с виски](https://www.russianfood.com/recipes/recipe.php?rid=47333)
-* [Яблочный глинтвейн](https://www.russianfood.com/recipes/recipe.php?rid=47335)
-* [Яичный пунш](https://www.russianfood.com/recipes/recipe.php?rid=47338)
-* [Лимонно-яблочный пунш](https://www.russianfood.com/recipes/recipe.php?rid=47341)
-* [Яблочно-кленовый пунш](https://www.russianfood.com/recipes/recipe.php?rid=47344)
-* [Глинтвейн с фруктами](https://www.russianfood.com/recipes/recipe.php?rid=47346)
-* [Свинина по-гуцульски](https://www.russianfood.com/recipes/recipe.php?rid=47444)
-* [Закуска «Огненные шары»](https://www.russianfood.com/recipes/recipe.php?rid=47481)
+* [Напиток «Новогодняя феерия» 1 вариант.](https://www.russianfood.com/recipes/recipe.php?rid=49183)
+* [Сельдь с беконом и грибами](https://www.russianfood.com/recipes/recipe.php?rid=49338)
+* [Торт «Воздушный»](https://www.russianfood.com/recipes/recipe.php?rid=49342)
+* [Торт «Чародейка»](https://www.russianfood.com/recipes/recipe.php?rid=49343)
+* [Торт «Герцог мандарин»](https://www.russianfood.com/recipes/recipe.php?rid=49344)
+* [Печенье «Нежный поцелуй»](https://www.russianfood.com/recipes/recipe.php?rid=49345)
+* [Пирожное «кофеманка»](https://www.russianfood.com/recipes/recipe.php?rid=49346)
+* [«Лисенок»](https://www.russianfood.com/recipes/recipe.php?rid=49347)
+* [Торт «Орешек»](https://www.russianfood.com/recipes/recipe.php?rid=49348)
+* [Торт «Корзинка»](https://www.russianfood.com/recipes/recipe.php?rid=49349)
 
 |     |
 | --- |
@@ -276,7 +276,7 @@
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [Sve4kaSV](https://www.russianfood.com/blogs/?id=217903) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174371#comments) | 19.09.24 |     |
+|     | [Sve4kaSV](https://www.russianfood.com/blogs/?id=217903) | _![](/images/blank.gif)_1 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174371#comments) | 19.09.24 |     |
 
 |     |     |
 | --- | --- |
@@ -290,7 +290,7 @@
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [Sve4kaSV](https://www.russianfood.com/blogs/?id=217903) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174372#comments) | 19.09.24 |     |
+|     | [Sve4kaSV](https://www.russianfood.com/blogs/?id=217903) | _![](/images/blank.gif)_1 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174372#comments) | 19.09.24 |     |
 
 |     |     |
 | --- | --- |
@@ -332,7 +332,7 @@
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [Sve4kaSV](https://www.russianfood.com/blogs/?id=217903) | _![](/images/blank.gif)_10 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174374#comments) | 19.09.24 |     |
+|     | [Sve4kaSV](https://www.russianfood.com/blogs/?id=217903) | _![](/images/blank.gif)_13 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174374#comments) | 19.09.24 |     |
 
 |     |     |
 | --- | --- |
@@ -461,10 +461,10 @@
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-| [![](//img1.russianfood.com/dycontent/images_upl/740/alt1_739378.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174200) | [![](//img1.russianfood.com/dycontent/images_upl/740/alt1_739868.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174387) | [![](//img1.russianfood.com/dycontent/images_upl/740/alt1_739561.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174372) | [![](//img1.russianfood.com/dycontent/images_upl/739/alt1_738703.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174107) | [![](//img1.russianfood.com/dycontent/images_upl/740/alt1_739463.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174365) | [![](//img1.russianfood.com/dycontent/images_upl/740/alt1_739896.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174378) | [![](//img1.russianfood.com/dycontent/images_upl/740/alt1_739881.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174371) |
-| [Суп со стручковой фасолью, сельдереем и беконом](https://www.russianfood.com/recipes/recipe.php?rid=174200) | [Помидоры, запечённые с чесноком](https://www.russianfood.com/recipes/recipe.php?rid=174387) | [Рис с брокколи и консервированным тунцом](https://www.russianfood.com/recipes/recipe.php?rid=174372) | [Томатный суп с булгуром](https://www.russianfood.com/recipes/recipe.php?rid=174107) | [Куриная печень, тушенная с баклажанами в сметане](https://www.russianfood.com/recipes/recipe.php?rid=174365) | [Рыба в сметанно-грибном соусе, в микроволновке](https://www.russianfood.com/recipes/recipe.php?rid=174378) | [Тыквенные булочки](https://www.russianfood.com/recipes/recipe.php?rid=174371) |
-| [![](//img1.russianfood.com/dycontent/images_upl/740/alt1_739860.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174367) | [![](//img1.russianfood.com/dycontent/images_upl/740/alt1_739890.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=173459) | [![](//img1.russianfood.com/dycontent/images_upl/738/alt1_737034.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=173525) | [![](//img1.russianfood.com/dycontent/images_upl/740/alt1_739353.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174136) | [![](//img1.russianfood.com/dycontent/images_upl/740/alt1_739485.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174366) |
-| [Тыква, запечённая с картошкой, перцем и грибами](https://www.russianfood.com/recipes/recipe.php?rid=174367) | [Томатный суп с курицей, фасолью и шпинатом](https://www.russianfood.com/recipes/recipe.php?rid=173459) | [Сырный суп с клецками из кабачка](https://www.russianfood.com/recipes/recipe.php?rid=173525) | [Сырный суп с кабачками, помидорами и кукурузой](https://www.russianfood.com/recipes/recipe.php?rid=174136) | [Котлеты со свеклой и жареным луком](https://www.russianfood.com/recipes/recipe.php?rid=174366) |
+| [![](//img1.russianfood.com/dycontent/images_upl/740/alt1_739353.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174136) | [![](//img1.russianfood.com/dycontent/images_upl/740/alt1_739860.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174367) | [![](//img1.russianfood.com/dycontent/images_upl/740/alt1_739896.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174378) | [![](//img1.russianfood.com/dycontent/images_upl/740/alt1_739890.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=173459) | [![](//img1.russianfood.com/dycontent/images_upl/740/alt1_739463.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174365) | [![](//img1.russianfood.com/dycontent/images_upl/740/alt1_739868.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174387) | [![](//img1.russianfood.com/dycontent/images_upl/740/alt1_739561.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174372) |
+| [Сырный суп с кабачками, помидорами и кукурузой](https://www.russianfood.com/recipes/recipe.php?rid=174136) | [Тыква, запечённая с картошкой, перцем и грибами](https://www.russianfood.com/recipes/recipe.php?rid=174367) | [Рыба в сметанно-грибном соусе, в микроволновке](https://www.russianfood.com/recipes/recipe.php?rid=174378) | [Томатный суп с курицей, фасолью и шпинатом](https://www.russianfood.com/recipes/recipe.php?rid=173459) | [Куриная печень, тушенная с баклажанами в сметане](https://www.russianfood.com/recipes/recipe.php?rid=174365) | [Помидоры, запечённые с чесноком](https://www.russianfood.com/recipes/recipe.php?rid=174387) | [Рис с брокколи и консервированным тунцом](https://www.russianfood.com/recipes/recipe.php?rid=174372) |
+| [![](//img1.russianfood.com/dycontent/images_upl/740/alt1_739881.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174371) | [![](//img1.russianfood.com/dycontent/images_upl/738/alt1_737034.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=173525) | [![](//img1.russianfood.com/dycontent/images_upl/740/alt1_739485.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174366) | [![](//img1.russianfood.com/dycontent/images_upl/739/alt1_738703.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174107) | [![](//img1.russianfood.com/dycontent/images_upl/740/alt1_739378.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174200) |
+| [Тыквенные булочки](https://www.russianfood.com/recipes/recipe.php?rid=174371) | [Сырный суп с клецками из кабачка](https://www.russianfood.com/recipes/recipe.php?rid=173525) | [Котлеты со свеклой и жареным луком](https://www.russianfood.com/recipes/recipe.php?rid=174366) | [Томатный суп с булгуром](https://www.russianfood.com/recipes/recipe.php?rid=174107) | [Суп со стручковой фасолью, сельдереем и беконом](https://www.russianfood.com/recipes/recipe.php?rid=174200) |
 
 |     |     |     |
 | --- | --- | --- |
@@ -481,4 +481,4 @@
 
 Этот сайт использует файлы cookie, чтобы предоставить вам наилучший сервис. Оставаясь на сайте, вы соглашаетесь с [политикой сайта по обработке персональных данных](https://www.russianfood.com/blogs/?post_id=13800).СОГЛАСЕН
 
-(126)
+(94)
