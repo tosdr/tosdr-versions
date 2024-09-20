@@ -138,6 +138,13 @@ Provider ID# 317924
 
 [### decisionsindentistry](https://www.instagram.com/decisionsindentistry/ "@decisionsindentistry")
 
+[In this episode of The Art of Dental Finance and M ![In this episode of The Art of Dental Finance and Management, host Art Wiederman is joined by Dr. Martin Mendelson for a conversation about the transformative power of positivity, specifically in dental practices. Dr. Mendelson shares his personal journey from dentist to coach and the mindset shifts that allowed him to turn a devastating diagnosis into a fulfilling career. Dr. Mendelson introduces the concept of T.E.A.M. — how our Thoughts drive our Emotions, which drive our Actions, which Manifest our results. He also discusses the importance of curiosity and open communication in creating a positive workplace culture. Link in bio.⁠
+⁠
+⁠
+---⁠
+⁠
+#dentistry #dentist #dental #smile #dentista #teeth #cosmeticdentistry #dentistryworld #dentalphotography #odonto #tooth #dentistrylife #orthodontics #dentalcare #dentalhygienist #dentalimplants #oralhealth #veneers #dentalstudent #dentalassistant #dentalclinic #dentistlife #dentalhygiene #teethwhitening #oralsurgery #dds #endodontics #continuingeducation #education](https://decisionsindentistry.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/DAGe5-tNaOj/) 
+
 [Research reveals how periodontal bacteria, specifi ![Research reveals how periodontal bacteria, specifically Aggregatibacter actinomycetemcomitans, exacerbate rheumatoid arthritis by activating inflammatory pathways. Researchers from Tokyo Medical and Dental University offer hope for novel treatments to manage RA and other systemic diseases linked to oral health. Link in bio.⁠
 ⁠
 ⁠
@@ -180,17 +187,6 @@ Link in bio.⁠
 ---⁠
 ⁠
 #dentistry #dentist #dental #smile #dentista #teeth #cosmeticdentistry #dentistryworld #dentalphotography #odonto #tooth #dentistrylife #orthodontics #dentalcare #dentalhygienist #dentalimplants #oralhealth #veneers #dentalstudent #dentalassistant #dentalclinic #dentistlife #dentalhygiene #teethwhitening #oralsurgery #dds #endodontics #continuingeducation #education](https://decisionsindentistry.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/C_5tzBkN3AR/) 
-
-[Janice Hurley has helped practices across the coun ![Janice Hurley has helped practices across the country increase their profit margins by decreasing their dependency on outside insurance plans. In this episode of The Art of Dental Finance and Management, Janice walks Art through the five things any dental practice must consider before dropping an insurance plan, as well as how to prevent losing patients during the transition.⁠
-⁠
-Listeners of the podcast are encouraged to email Janice at jhurley@janicehurley.com for a chance to win a free copy of her book, Dental Image Branding: How to Create Optimal Patient Impact.⁠
-⁠
-Link in bio.⁠
-⁠
-⁠
----⁠
-⁠
-#dentistry #dentist #dental #smile #dentista #teeth #cosmeticdentistry #dentistryworld #dentalphotography #odonto #tooth #dentistrylife #orthodontics #dentalcare #dentalhygienist #dentalimplants #oralhealth #veneers #dentalstudent #dentalassistant #dentalclinic #dentistlife #dentalhygiene #teethwhitening #oralsurgery #dds #endodontics #continuingeducation #education](https://decisionsindentistry.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/C_3CKU1ME05/) 
 
 [Load More](javascript:void(0);) [Follow on Instagram](https://www.instagram.com/decisionsindentistry/)
 
