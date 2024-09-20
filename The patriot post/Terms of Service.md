@@ -1,6 +1,6 @@
 [![](/assets/logo-3b6b6294dd1ca7308b9a9754bfeffaef9918dcc5467b9d15a5a8937b4c1e7e6d.svg)](https://patriotpost.us/)
 
-[Read The Latest Digest](https://patriotpost.us/digests/110387-mid-day-digest-2024-09-19?utm_campaign=latest_digest&utm_content=subscribe_sidebar&utm_medium=web&utm_source=patriotpost.us)
+[Read The Latest Digest](https://patriotpost.us/digests/110428-mid-day-digest-2024-09-20?utm_campaign=latest_digest&utm_content=subscribe_sidebar&utm_medium=web&utm_source=patriotpost.us)
 
 Subscriber/User Terms and Conditions of Service
 
@@ -185,7 +185,7 @@ These Terms and Conditions, together with the Privacy Policy, represent the enti
 
 All users and subscribers of Web site agree to abide by and comply with these "Subscriber/User Terms and Conditions of Service," as set forth by Publius Press, Inc., publisher of The Patriot Post, as a condition of subscription or use.
 
-[Read The Mid-Day Digest](https://patriotpost.us/digests/110387-mid-day-digest-2024-09-19?utm_campaign=latest_digest&utm_content=subscribe_sidebar&utm_medium=web&utm_source=patriotpost.us)
+[Read The Mid-Day Digest](https://patriotpost.us/digests/110428-mid-day-digest-2024-09-20?utm_campaign=latest_digest&utm_content=subscribe_sidebar&utm_medium=web&utm_source=patriotpost.us)
 
 [Executive News Summary](https://patriotpost.us/categories/74-headlines)
 
@@ -197,20 +197,22 @@ All users and subscribers of Web site agree to abide by and comply with these "S
 
 ### Cartoons
 
-     [](https://patriotpost.us/cartoons/34245)
+     [](https://patriotpost.us/cartoons/34249)
 
 * [More Cartoons >](https://patriotpost.us/cartoons)
 
 ### Top Opinion
 
+*      [Hans von Spakovsky Did Elite Colleges Lie to the Supreme Court or Are They Breaking the Law Today?](https://patriotpost.us/opinion/110418-did-elite-colleges-lie-to-the-supreme-court-or-are-they-breaking-the-law-today-2024-09-20)
+*      [David Harsanyi On Abortion, Kamala Harris Is the Extremist](https://patriotpost.us/opinion/110416-on-abortion-kamala-harris-is-the-extremist-2024-09-20)
+*      [Josh Hammer Why Are the Nutjobs Trying to Kill Political Opponents All Left-Wingers?](https://patriotpost.us/opinion/110414-why-are-the-nutjobs-trying-to-kill-political-opponents-all-left-wingers-2024-09-20)
+*      [Erick Erickson Progressives Lied. A Woman Died. Republicans Were Blamed.](https://patriotpost.us/opinion/110413-progressives-lied-a-woman-died-republicans-were-blamed-2024-09-20)
+*      [Tim Graham Kamala Harris Had Minority Journalists at ‘Hello’](https://patriotpost.us/opinion/110408-kamala-harris-had-minority-journalists-at-hello-2024-09-20)
+*      [Victor Davis Hanson Can Harris’s Cynical, Run-Out-the Clock Campaign Succeed?](https://patriotpost.us/opinion/110406-can-harriss-cynical-run-out-the-clock-campaign-succeed-2024-09-20)
+*      [Michael Reagan In Politics, the Pursuit of Purism Is for Losers](https://patriotpost.us/opinion/110417-in-politics-the-pursuit-of-purism-is-for-losers-2024-09-20)
+*      [Michael Barone Voters Don’t Want Harris’ or Trump’s Campaign Policies](https://patriotpost.us/opinion/110415-voters-dont-want-harris-or-trumps-campaign-policies-2024-09-20)
+*      [Gary Bauer A Big Deal](https://patriotpost.us/opinion/110411-a-big-deal-2024-09-20)
 *      [Mark Alexander Profiles of Valor: CPT Tom Cotton (USA)](https://patriotpost.us/alexander/110395-profiles-of-valor-cpt-tom-cotton-usa-2024-09-20)
-*      [Hans von Spakovsky More Good News for Trump in Fani Willis’ Case Against Him](https://patriotpost.us/opinion/110381-more-good-news-for-trump-in-fani-willis-case-against-him-2024-09-19)
-*      [Gary Bauer Random Observations](https://patriotpost.us/opinion/110378-random-observations-2024-09-19)
-*      [Ann Coulter Agent 00-Zero](https://patriotpost.us/opinion/110376-agent-00-zero-2024-09-19)
-*      [Laura Hollis Trump’s Republican Party Is the ‘Big Tent’ Party](https://patriotpost.us/opinion/110373-trumps-republican-party-is-the-big-tent-party-2024-09-19)
-*      [Larry Elder Joe Biden, 20 Years Ago, Blocked the Potential First Black Female on the Supreme Court](https://patriotpost.us/opinion/110379-joe-biden-20-years-ago-blocked-the-potential-first-black-female-on-the-supreme-court-2024-09-19)
-*      [Armstrong Williams How Falsehoods About Haitian Immigrants Consumed America](https://patriotpost.us/opinion/110380-how-falsehoods-about-haitian-immigrants-consumed-america-2024-09-19)
-*      [The Washington Stand Hezbollah Pagers Explode Simultaneously](https://patriotpost.us/opinion/110383-hezbollah-pagers-explode-simultaneously-2024-09-19)
 
 * [More Opinion >](https://patriotpost.us/opinion)
 
@@ -224,15 +226,11 @@ All users and subscribers of Web site agree to abide by and comply with these "S
 
 [END OF WATCH](https://patriotpost.us/end-of-watch)
 
-[Wear Your Patriotism on Your Sleeve
-
- 
-
-Shop Now](https://patriotpostshop.com/)
+[The Web's First and Foremost Conservative News Digest](https://patriotpost.us/alexander/2810)
 
 ### The Foundation
 
-“Without Freedom of Thought there can be no such Thing as Wisdom; and no such Thing as Public Liberty, without Freedom of Speech.” —Benjamin Franklin (1722)
+“The same prudence which in private life would forbid our paying our own money for unexplained projects, forbids it in the dispensation of the public moneys.” —Thomas Jefferson (1808)
 
 * [More Founders' Quotes >](https://patriotpost.us/quotes)
 
