@@ -305,7 +305,7 @@
 
 [#Санкт-Петербург](https://er.ru/activity/news?tags%5B0%5D=622) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#партпроект](https://er.ru/activity/news?tags%5B0%5D=632) [#ЧистаяСтрана](https://er.ru/activity/news?tags%5B0%5D=1090024) [#аллея](https://er.ru/activity/news?tags%5B0%5D=3538) [#кедры](https://er.ru/activity/news?tags%5B0%5D=58944) [#БАМ](https://er.ru/activity/news?tags%5B0%5D=8418) [#Боярский](https://er.ru/activity/news?tags%5B0%5D=73244) [#Рябцева](https://er.ru/activity/news?tags%5B0%5D=38343)
 
-Сегодня 18:15
+20.09.24
 
 [![«Единая Россия» доставила почти 1,5 тысячи тонн гуманитарной помощи в Курскую область](https://cdn.er.ru/media/news/September2024/RQmikmdZkdBVM1rBJQzg-small.JPG)](https://er.ru/activity/news/edinaya-rossiya-dostavila-pochti-1-5-tysyachi-tonn-gumanitarnoj-pomoshi-v-kurskuyu-oblast)
 
@@ -313,7 +313,7 @@
 
 [#Курская область](https://er.ru/activity/news?tags%5B0%5D=579) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#гумпомощь](https://er.ru/activity/news?tags%5B0%5D=8562) [#штабобщественнойподдержки](https://er.ru/activity/news?tags%5B0%5D=1092101) [#ЕРпомогает](https://er.ru/activity/news?tags%5B0%5D=146978)
 
-Сегодня 16:43
+20.09.24
 
 [![«Единая Россия» назвала победителей VI Всероссийского фестиваля детского футбола 6х6](https://cdn.er.ru/media/news/September2024/ueMxsN0xHi6fW8QiFuyR-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-nazvala-pobeditelej-vi-vserossijskogo-festivalya-detskogo-futbola-6h6)
 
@@ -321,7 +321,7 @@
 
 [#Ленинградская область](https://er.ru/activity/news?tags%5B0%5D=1669) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#Роднина](https://er.ru/activity/news?tags%5B0%5D=2239) [#Дрозденко](https://er.ru/activity/news?tags%5B0%5D=19558) [#партпроекты](https://er.ru/activity/news?tags%5B0%5D=1090407) [#ДетскийСпорт](https://er.ru/activity/news?tags%5B0%5D=1091126) [#фестиваль](https://er.ru/activity/news?tags%5B0%5D=1671) [#награждение](https://er.ru/activity/news?tags%5B0%5D=2365) [#дворовойфутбол](https://er.ru/activity/news?tags%5B0%5D=131214) [#соревнования](https://er.ru/activity/news?tags%5B0%5D=1175) [#турнир](https://er.ru/activity/news?tags%5B0%5D=787)
 
-Сегодня 14:38
+20.09.24
 
 [![«Единая Россия» провела лекции по финансовой грамотности для жителей в новых регионах](https://cdn.er.ru/media/news/September2024/yQXicR95wAou0c6AsQA5-small.JPG)](https://er.ru/activity/news/edinaya-rossiya-provela-lekcii-po-finansovoj-gramotnosti-dlya-zhitelej-v-novyh-regionah)
 
@@ -329,7 +329,7 @@
 
 [#Кузнецова](https://er.ru/activity/news?tags%5B0%5D=4127) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#Луганская Народная Республика](https://er.ru/activity/news?tags%5B0%5D=126130) [#Донецкая Народная Республика](https://er.ru/activity/news?tags%5B0%5D=60937) [#Запорожская область](https://er.ru/activity/news?tags%5B0%5D=1093589) [#Херсонская область](https://er.ru/activity/news?tags%5B0%5D=1093586) [#финансоваяграмотность](https://er.ru/activity/news?tags%5B0%5D=113290) [#лекции](https://er.ru/activity/news?tags%5B0%5D=18064) [#консультации](https://er.ru/activity/news?tags%5B0%5D=135175) [#финансы](https://er.ru/activity/news?tags%5B0%5D=1748)
 
-Сегодня 14:32
+20.09.24
 
 [![Владимир Якушев: В основе поддержки Алексея Текслера на выборах лежат позитивные изменения в Челябинской области](https://cdn.er.ru/media/news/September2024/QN8GuMClbTuN1pKB5ocO-small.jpg)](https://er.ru/activity/news/vladimir-yakushev-v-osnove-podderzhki-alekseya-tekslera-na-vyborah-lezhat-pozitivnye-izmeneniya-v-chelyabinskoj-oblasti)
 
@@ -337,7 +337,7 @@
 
 [#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#Текслер](https://er.ru/activity/news?tags%5B0%5D=131613) [#Челябинская область](https://er.ru/activity/news?tags%5B0%5D=191) [#инаугурация](https://er.ru/activity/news?tags%5B0%5D=3430) [#выборы2024](https://er.ru/activity/news?tags%5B0%5D=1095001) [#ЕДГ2024](https://er.ru/activity/news?tags%5B0%5D=1095607)
 
-Сегодня 12:42
+20.09.24
 
 [![«Единая Россия» подвела итоги акции «Русский Крым и Севастополь»](https://cdn.er.ru/media/news/September2024/Vp5Hr9mvJTReBGUl5eoW-small.png)](https://er.ru/activity/news/edinaya-rossiya-podvela-itogi-akcii-russkij-krym-i-sevastopol)
 
@@ -345,7 +345,7 @@
 
 [#Романов](https://er.ru/activity/news?tags%5B0%5D=8320) [#партпроект](https://er.ru/activity/news?tags%5B0%5D=632) [#МирВозможностей](https://er.ru/activity/news?tags%5B0%5D=1092793) [#акция](https://er.ru/activity/news?tags%5B0%5D=238) [#русскийкрымисевастополь](https://er.ru/activity/news?tags%5B0%5D=1095762) [#школьники](https://er.ru/activity/news?tags%5B0%5D=127834) [#занятия](https://er.ru/activity/news?tags%5B0%5D=24809) [#Развожаев](https://er.ru/activity/news?tags%5B0%5D=140170)
 
-Сегодня 11:00
+20.09.24
 
 ![Сайт президента РФ](https://cdn.er.ru/media/sites/July2020/7T7J24LxtsdGGJVk1lL0.jpg)
 
