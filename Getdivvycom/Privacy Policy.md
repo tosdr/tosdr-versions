@@ -94,17 +94,17 @@ Discover why millions of businesses and top accounting firms use BILL](https://g
 
 ###### Recently Featured
 
+[![](https://cdn.prod.website-files.com/63e56114746188c54e2936e0/66ecee7085d3393ae269135d_guide-hero.png)
+
+4 ways financial automation amplifies efficiency in healthcare
+
+Download the guide](https://getdivvy.com/guides/4-ways-financial-automation-amplifies-efficiency-in-healthcare)
+
 [![](https://cdn.prod.website-files.com/63e56114746188c54e2936e0/66bd3eeeedeb9d6ee29e31ad_webinar-ai.png)
 
 Bringing AI to Accounting Firms
 
 Download the guide](https://getdivvy.com/guides/bringing-ai-to-accounting-firms)
-
-[![](https://cdn.prod.website-files.com/63e56114746188c54e2936e0/66ba98a1a76c37756ca4fe74_accounting-marketing.png)
-
-Accounting Firm Marketing Playbook
-
-Download the guide](https://getdivvy.com/guides/ac-firm-marketing-playbook)
 
 ![](https://cdn.prod.website-files.com/63e3da3df35cd62f54751985/645aa9a995de8ad858bf3101_halftone-bg-1.svg)
 
