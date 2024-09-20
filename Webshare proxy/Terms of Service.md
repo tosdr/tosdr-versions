@@ -62,7 +62,7 @@ RESIDENTIAL
 
 Static Residential Proxy
 
-Premium proxies with static Residential IP
+High performance residential proxies
 
 Starting at
 
@@ -70,7 +70,7 @@ $0.22/Proxy](https://www.webshare.io/static-residential-proxy)[![](https://cdn.p
 
 Residential Proxy
 
-Unlimited Residential IPs, pay only for bandwidth
+Most affordable residential proxies
 
 Starting at
 
