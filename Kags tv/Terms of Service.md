@@ -29,13 +29,13 @@ Navigation
     
     Latest News Stories
     
+    *  [![](https://media.kagstv.com/assets/KPNX/images/9371aa92-d765-4f2c-963e-a3b723eb9f4f/20240919T010623/9371aa92-d765-4f2c-963e-a3b723eb9f4f_16x9.jpg) ![](https://media.kagstv.com/assets/KPNX/images/9371aa92-d765-4f2c-963e-a3b723eb9f4f/20240919T010623/9371aa92-d765-4f2c-963e-a3b723eb9f4f_360x203.jpg)](https://www.kagstv.com/article/news/local/several-trump-supporters-seated-on-stage-during-tucson-rally-experience-eye-injuries/75-9a629b05-a0d3-414d-b4e8-ce7fa1296fb6)
+        
+        #### [Several Trump supporters seated on stage during Tucson rally experience eye injuries](https://www.kagstv.com/article/news/local/several-trump-supporters-seated-on-stage-during-tucson-rally-experience-eye-injuries/75-9a629b05-a0d3-414d-b4e8-ce7fa1296fb6)
+        
     *  [![](https://media.kagstv.com/assets/KCEN/images/b2cd26fc-e40a-45f5-a8e3-18a68c29dd97/20240920T135826/b2cd26fc-e40a-45f5-a8e3-18a68c29dd97_16x9.jpg) ![](https://media.kagstv.com/assets/KCEN/images/b2cd26fc-e40a-45f5-a8e3-18a68c29dd97/20240920T135826/b2cd26fc-e40a-45f5-a8e3-18a68c29dd97_360x203.jpg)](https://www.kagstv.com/article/news/crime/college-station-aggravated-sexual-assault-suspect-arrested-sept-19-2024/500-5bc45625-ed36-4194-a9a5-eea6abf6d4a8)
         
         #### [College Station Police arrest Aggravated Sexual Assault suspect](https://www.kagstv.com/article/news/crime/college-station-aggravated-sexual-assault-suspect-arrested-sept-19-2024/500-5bc45625-ed36-4194-a9a5-eea6abf6d4a8)
-        
-    *  [![](https://media.kagstv.com/assets/KHOU/images/cbbcc49b-08cb-4750-aaf7-2c9b551bde79/20240919T125741/cbbcc49b-08cb-4750-aaf7-2c9b551bde79_16x9.jpg) ![](https://media.kagstv.com/assets/KHOU/images/cbbcc49b-08cb-4750-aaf7-2c9b551bde79/20240919T125741/cbbcc49b-08cb-4750-aaf7-2c9b551bde79_360x203.jpg)](https://www.kagstv.com/article/news/local/pipeline-fire-car-crash-driver-deer-park-texas/285-2e5d05bc-f8a5-4a06-9a3f-6a570ad8f749)
-        
-        #### [Deer Park pipeline fire is finally out; criminal investigation underway after human remains found in nearby SUV](https://www.kagstv.com/article/news/local/pipeline-fire-car-crash-driver-deer-park-texas/285-2e5d05bc-f8a5-4a06-9a3f-6a570ad8f749)
         
     
 * [Weather](https://www.kagstv.com/weather/)
@@ -86,9 +86,9 @@ Navigation
 
 Bryan, TX »
 
-81°
+97°
 
-![Cloudy](/assets/shared-images/weather-icons/cloudy-day_210x210.png)
+![Sunny](/assets/shared-images/weather-icons/clear-day_210x210.png)
 
 Bryan, TX »](https://www.kagstv.com/weather)
 
