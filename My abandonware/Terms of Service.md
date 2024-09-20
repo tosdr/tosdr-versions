@@ -61,7 +61,7 @@ Monthly Newsletter
 
 Hand picked games every month  OK
 
-[![Support Us on BuyMeACoffee](/media/css/img/support-us.png)](https://www.buymeacoffee.com/myabandonware "Ad-free browsing included")
+[![Support Us on BuyMeACoffee](/media/css/img/support-us.png)](https://www.buymeacoffee.com/myabandonware?utm_source=bmac-sidebar "Ad-free browsing included")
 
 Top downloads
 
@@ -85,11 +85,11 @@ Top downloads
 
 Latest releases
 
-* [Othello Derby](https://www.myabandonware.com/game/othello-derby-sf1)
-* [Off the Wall](https://www.myabandonware.com/game/off-the-wall-sf0)
-* [Off Road Challenge](https://www.myabandonware.com/game/off-road-challenge-sez)
-* [Poly-Play](https://www.myabandonware.com/game/poly-play-sey)
-* [Point Blank 2](https://www.myabandonware.com/game/point-blank-2-sex)
+* [Gyruss](https://www.myabandonware.com/game/gyruss-4vg)
+* [Night Stocker](https://www.myabandonware.com/game/night-stocker-sfc)
+* [NFL Blitz](https://www.myabandonware.com/game/nfl-blitz-sfb)
+* [New York! New York!](https://www.myabandonware.com/game/new-york-new-york-sfa)
+* [NBA Play By Play](https://www.myabandonware.com/game/nba-play-by-play-sf9)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [Facebook](https://www.facebook.com/myabandonware) or [X (Twitter)](https://x.com/myabandonware)
