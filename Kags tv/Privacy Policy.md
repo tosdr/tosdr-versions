@@ -31,7 +31,7 @@ Navigation
     
     *  [![](https://media.kagstv.com/assets/KHOU/images/cbbcc49b-08cb-4750-aaf7-2c9b551bde79/20240919T125741/cbbcc49b-08cb-4750-aaf7-2c9b551bde79_16x9.jpg) ![](https://media.kagstv.com/assets/KHOU/images/cbbcc49b-08cb-4750-aaf7-2c9b551bde79/20240919T125741/cbbcc49b-08cb-4750-aaf7-2c9b551bde79_360x203.jpg)](https://www.kagstv.com/article/news/local/pipeline-fire-car-crash-driver-deer-park-texas/285-2e5d05bc-f8a5-4a06-9a3f-6a570ad8f749)
         
-        #### [Human remains recovered from white SUV pulled from Deer Park pipeline fire, officials say | What we know so far](https://www.kagstv.com/article/news/local/pipeline-fire-car-crash-driver-deer-park-texas/285-2e5d05bc-f8a5-4a06-9a3f-6a570ad8f749)
+        #### [Deer Park pipeline fire is finally out; criminal investigation underway after human remains found in nearby SUV](https://www.kagstv.com/article/news/local/pipeline-fire-car-crash-driver-deer-park-texas/285-2e5d05bc-f8a5-4a06-9a3f-6a570ad8f749)
         
     *  [![](https://media.kagstv.com/assets/KVUE/images/a551da2d-9d01-4fa3-bc6f-20d89f00fb00/20240919T005649/a551da2d-9d01-4fa3-bc6f-20d89f00fb00_16x9.jpg) ![](https://media.kagstv.com/assets/KVUE/images/a551da2d-9d01-4fa3-bc6f-20d89f00fb00/20240919T005649/a551da2d-9d01-4fa3-bc6f-20d89f00fb00_360x203.jpg)](https://www.kagstv.com/article/news/local/progressive-coverage-issues-texas-rising-weather-related-damage-reaction-from-homeowners/269-bf00c910-35e6-4926-ab86-a6027e83fb7d)
         
@@ -86,9 +86,9 @@ Navigation
 
 Bryan, TX »
 
-97°
+87°
 
-![Sunny](/assets/shared-images/weather-icons/clear-day_210x210.png)
+![Clear](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
 
 Bryan, TX »](https://www.kagstv.com/weather)
 
