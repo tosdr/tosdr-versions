@@ -1,4 +1,4 @@
-![Home](/images/3e956902667b3572.svg)
+[![Home](/images/3e956902667b3572.svg)](https://proctorio.com/)
 
 * [Products](https://proctorio.com/products)
 * [Privacy](https://proctorio.com/privacy)
@@ -118,7 +118,7 @@ Table of Contents
 Privacy Notice
 --------------
 
-Last modified October 27, 2023.
+Last modified July 17, 2024.
 
 * General
 * "Personal Information" means information that identifies, relates to, describes, is capable of being associated with or could reasonably be linked, directly or indirectly, with a particular consumer or household, such as your name, mailing and email addresses, phone number, and other information that permits us to contact you at a physical location, online, or by electronic communication, including telephone or email.
@@ -891,6 +891,8 @@ Test-taker audio, video, and screen recordings and images are secured and proces
 
 Security systems breach notification
 
+Proctorio investigates and provides notification of data breaches in accordance with our internal Security Incident Policy ­and applicable law.
+
 #### As a data processor
 
 **Proctorio will notify the Institution. The Institution is responsible for notifying its test takers.**
@@ -995,7 +997,7 @@ What does this Privacy Policy apply to?
 
 This Privacy Policy applies to all of Proctorio’s Product and Services Users (test takers and Institution representatives), Partnered Institutions and their representatives, and those who are visiting Proctorio’s websites, including potential clients and interested parties.
 
-This Privacy Policy applies to Personal Information that Proctorio collects when it is a data controller from any of Proctorio’s websites (Proctorio’s “Sites”), [pruefungendaheim.de](https://pruefungendaheim.de/), [proctorio.com](https://proctorio.com/), [getproctorio.com](https://getproctorio.com/), [proctoriostatus.com](https://proctoriostatus.com/), Proctorio’s mobile apps, customer service, partner relationships, and when someone contacts Proctorio directly. In those instances, individuals may be providing Personal Information to Proctorio. When Proctorio operates as a processor for an Institution, the Institution’s privacy policies are in control. See the section above for a description of when we operate as a processor.
+This Privacy Policy applies to Personal Information that Proctorio collects when it is a data controller from any of Proctorio’s websites (Proctorio’s “Sites”), [proctorio.com](https://proctorio.com/), [getproctorio.com](https://getproctorio.com/), [proctoriostatus.com](https://proctoriostatus.com/), Proctorio’s mobile apps, customer service, partner relationships, and when someone contacts Proctorio directly. In those instances, individuals may be providing Personal Information to Proctorio. When Proctorio operates as a processor for an Institution, the Institution’s privacy policies are in control. See the section above for a description of when we operate as a processor.
 
 ### Institution uses
 
@@ -1029,7 +1031,7 @@ If so, Proctorio will post its updated Privacy Policy on Proctorio’s Site loca
 
 Proctorio encourages you to review this Privacy Policy regularly for any changes. Your continued use of the Services and/or continued provision of Personal Information to Proctorio will be subject to the terms of the then-current Privacy Policy.
 
-![Home](/images/cfad44e5dccdb3c4.svg)
+[![Home](/images/cfad44e5dccdb3c4.svg)](https://proctorio.com/)
 
 #### [Products](https://proctorio.com/products)
 
