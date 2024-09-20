@@ -36,6 +36,9 @@
         
         Tor says it’s "still safe" amid reports of police deanonymizing users](https://www.bleepingcomputer.com/news/security/tor-says-its-still-safe-amid-reports-of-police-deanonymizing-users/)
     
+    * [![Study for GSEC, CISSP, and more certifications with this $56 bundle deal](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        Study for GSEC, CISSP, and more certifications with this $56 bundle deal](https://www.bleepingcomputer.com/offer/deals/study-for-gsec-cissp-and-more-certifications-with-this-56-bundle-deal/)
     * [![Suspects behind $230 million cryptocurrency theft arrested in Miami](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         Suspects behind $230 million cryptocurrency theft arrested in Miami](https://www.bleepingcomputer.com/news/security/suspects-behind-230-million-cryptocurrency-theft-arrested-in-miami/)
@@ -45,9 +48,6 @@
     * [![Microsoft Edge will flag extensions causing performance issues](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         Microsoft Edge will flag extensions causing performance issues](https://www.bleepingcomputer.com/news/microsoft/microsoft-edge-will-flag-extensions-causing-performance-issues/)
-    * [![Tor says it’s ](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        Tor says it’s "still safe" amid reports of police deanonymizing users](https://www.bleepingcomputer.com/news/security/tor-says-its-still-safe-amid-reports-of-police-deanonymizing-users/)
     
 * [Tutorials](https://www.bleepingcomputer.com/tutorials/)
     
