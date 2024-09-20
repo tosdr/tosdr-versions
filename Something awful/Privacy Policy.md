@@ -205,25 +205,26 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [Guide to the Sweetest Dragon Magazine Covers (R.I.P.)](https://www.somethingawful.com/guides/dragon-memory-love/1/)
-* [Memos from Bear Cave: Employee Reviews](https://www.somethingawful.com/news/bear-cave-raises/)
+* [The Good Nerd From the GE Commercials is Developing the Singularity](https://www.somethingawful.com/news/bad-commercial-hipster/)
+* [Memos from Bear Cave: Company Picnic Day](https://www.somethingawful.com/news/bear-cave-picnic/)
+* [Memos from Bear Cave: The '79 Houston Soup & Broth Expo](https://www.somethingawful.com/news/bear-cave-expo/)
 * [You're wearing a DOG COSTUME!](https://www.somethingawful.com/awfulvision/furry-expert-juche/1/)
-* [Dungeons & Dragons: 1st Edition Monster Manual (part 1)](https://www.somethingawful.com/dungeons-and-dragons/wtf-monster-manual/1/)
+* [Memos from Bear Cave: Employee Reviews](https://www.somethingawful.com/news/bear-cave-raises/)
 
 ### Popular Threads
 
-* ![](https://fi.somethingawful.com/forums/posticons/tails.gif) [:bighow: smilie](http://forums.somethingawful.com/showthread.php?threadid=4070734 ":bighow: smilie")
-* ![](https://fi.somethingawful.com/forums/posticons/tfr-box.gif) [Post your predictions for the year 2035](http://forums.somethingawful.com/showthread.php?threadid=4070705 "Post your predictions for the year 2035")
-* ![](https://fi.somethingawful.com/forums/posticons/byob-grumpy.gif) [What's it like being in an extremely long blight?](http://forums.somethingawful.com/showthread.php?threadid=4070718 "What's it like being in an extremely long blight?")
+* ![](https://fi.somethingawful.com/forums/posticons/icons-08/drugs.png) [FREE CANDY](http://forums.somethingawful.com/showthread.php?threadid=4070796 "FREE CANDY")
 * ![](https://fi.somethingawful.com/forums/posticons/tviv-competition.gif) [Have there been any famous SA goons?](http://forums.somethingawful.com/showthread.php?threadid=4070782 "Have there been any famous SA goons?")
+* ![](https://fi.somethingawful.com/forums/posticons/byob-grumpy.gif) [What's it like being in an extremely long blight?](http://forums.somethingawful.com/showthread.php?threadid=4070718 "What's it like being in an extremely long blight?")
+* ![](https://fi.somethingawful.com/forums/posticons/tails.gif) [:bighow: smilie](http://forums.somethingawful.com/showthread.php?threadid=4070734 ":bighow: smilie")
 
 ### Random Articles
 
-* [Beyond Loch Ness](https://www.somethingawful.com/movie-reviews/beyond-loch-ness/1/)
-* [Dr who FYAD thread: Yea we love that coat guy pretending to see aliens!! YEA](https://www.somethingawful.com/comedy-goldmine/doctor-who-fyad/)
-* [NFL Week 1 Preview With Special Guest Flea](https://www.somethingawful.com/pregame-wrapup/nfl-week-preview/1/)
-* [Operation Clambake](https://www.somethingawful.com/awful-links/awful-link-830/)
-* [Gaming Guyz 34: The First Last Ever](https://www.somethingawful.com/flash-tub/gaming-guyz-34/)
+* [Going Overboard](https://www.somethingawful.com/movie-reviews/going-overboard/1/)
+* [Voodoo Tailz](https://www.somethingawful.com/movie-reviews/voodoo-tailz/1/)
+* [Wendy's LOL-Spot (Thanks, Arius!)](https://www.somethingawful.com/awful-links/wendys-lol-spot/)
+* [May 11, 2010](https://www.somethingawful.com/forum-fridays/ff05-11-2010/1/)
+* [Thing of the Week: Living Lightning Rods](https://www.somethingawful.com/daily-dirt/noo-betsy-noo/)
 
 [Random!](https://www.somethingawful.com/random/)
 
