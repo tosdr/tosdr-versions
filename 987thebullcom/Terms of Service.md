@@ -210,11 +210,11 @@ Recently Played
 
 |     |
 | --- |
-| One MargaritaLuke Bryan<br><br>4:58am |
-| Watching YouRodney Atkins<br><br>4:54am |
-| Coming HomeOld Dominion<br><br>4:51am |
-| White HorseChris Stapleton<br><br>4:47am |
-| Drinkin' BuddiesLee Brice Ft Hailey Whitters And Nat<br><br>4:44am |
+| Last NightMorgan Wallen<br><br>11:40am |
+| Love You, Miss You, Mean ItLuke Bryan<br><br>11:36am |
+| Ain'T No Love In OklahomaLuke Combs<br><br>11:33am |
+| I Remember EverythingZach Bryan Ft Kacey Musgraves<br><br>11:29am |
+| Good DirectionsBilly Currington<br><br>11:26am |
 
 [View Full Playlist](https://www.987thebull.com/recently-played)
 
@@ -358,21 +358,21 @@ State
 Featured Brands
 ---------------
 
-[![Panhandle Sports Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/KVWE-Logo-RedBlack-Dk.png)](https://www.panhandlesportsstar.com/)
+[![Latino 106.3 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBMG.png)](https://www.latinosaltlake.com/)
 
-Sports • Midwest
+Spanish • Western
+
+[![Live 95.5 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBFF.png)](https://www.live955.com/)
+
+Top 40 • Pacific NW
 
 [![Bay Country Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/BayCountry-BothFrequencies-DK%20(2).png)](https://www.kbaycountry.com/)
 
 Country • Western
 
-[![News-Talk 1480 WHBC Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WHBCAM.png)](https://www.whbc.com/)
+[![99.7 DJX Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WDJX.png)](https://www.wdjx.com/)
 
-News Talk • Eastern
-
-[![Latino 106.3 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBMG.png)](https://www.latinosaltlake.com/)
-
-Spanish • Western
+Top 40 • Eastern
 
 [](https://www.alphamediausa.com/)
 
