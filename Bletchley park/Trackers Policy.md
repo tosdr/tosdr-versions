@@ -16,6 +16,11 @@ GPNQHZ987
 
 Type above to decrypt our story...
 
+1940s Weekend
+-------------
+
+We expect our car park to be very busy on 21 and 22 September and alternative parking may need to be found. Please walk, cycle or use public transport if you are able. Thank you.
+
 Back
 
 * [Tickets](https://bletchleypark.org.uk/book-now/)
