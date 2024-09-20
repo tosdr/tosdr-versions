@@ -31,6 +31,136 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
+La agenda para este 20, 21 y 22 de septiembre de 2024 en Quito 
+===============================================================
+
+A continuación, la vibrante agenda cultural de Quito para este fin de semana, con eventos destacados.
+-----------------------------------------------------------------------------------------------------
+
+![La agenda cultural en Quito para este fin de semana incluye exposiciones, talleres y hasta cine. Foto: Cortesía Fundación Museos de la Ciudad.](https://www.elcomercio.com/wp-content/uploads/2024/09/agenda-cultural-1.jpg)
+
+La **agenda cultural en Quito** para el 20, 21 y 22 de septiembre de 2024 ofrece una variedad de actividades para todas las edades.  
+
+### Más noticias
+
+* [Seis películas con sorprendentes finales abiertos y su análisis](https://www.elcomercio.com/tendencias/cine/peliculas-cine-analisis-final-abierto.html "https://www.elcomercio.com/tendencias/cine/peliculas-cine-analisis-final-abierto.html") 
+* [Muere Juan Brujo, líder de la banda mexicana de metal Brujería](https://elcomercio.com/tendencias/cultura/juan-brujo-brujeria-obituario-metal.html "https://elcomercio.com/tendencias/cultura/juan-brujo-brujeria-obituario-metal.html") 
+
+El **Museo de la Ciudad** presenta un **taller para niños y adolescentes** sobre restauración, mientras que el **Museo del Agua** proyectará **películas y documentales**.  
+
+El **Centro de Arte Contemporáneo** organiza un **taller sobre memoria y herencias** multiétnicas. Además, el **Museo Precolombiano Casa del Alabado** inaugurará Tiempo de Ají y Maní. Asimismo, habrá una **exposición acerca de la cultura japonesa** y un encuentro sobre **terapias alternativas**, que buscan el equilibrio personal. 
+
+**Un día como restaurador** 
+----------------------------
+
+El **Museo de la Ciudad** (García Moreno E1-47 y Rocafuerte) invita a niños y adolescentes de 8 a 12 años, junto a sus familias, a participar en una experiencia que les permitirá **explorar el mundo de la conservación y restauración en los espacios culturales**.  
+
+A través de un **recorrido especial y un taller creativo**, los participantes descubrirán el **proceso de restauración de obras del Museo**, aprenderán sobre las técnicas utilizadas y los colores, y finalmente replicarán lo aprendido en una actividad lúdica con cartulina. La actividad se realizará el viernes 20 de septiembre de 2024, a las 10:00. 
+
+**Yakucinema** 
+---------------
+
+Todos los **domingos del mes** se ofrece una cita en el **Museo del Agua** (El Placer Oe11-271), donde se pueden **disfrutar de diversas películas, documentales y cortometrajes**. Este fin de semana se presentarán dos propuestas imperdibles: ‘De regreso a mi identidad yumbo – Wawas para wawas 2024’, en colaboración con el **Núcleo Pichincha de la Casa de las Culturas**, y ‘Somos páramo: miradas compartidas’. Las funciones serán desde el 20 de septiembre de 2024, a las 11:30 y 14:30. 
+
+**Memoria, ancestras y orígenes** 
+----------------------------------
+
+El **Consejo Educativo del Centro de Arte Contemporáneo** (Montevideo y Luis Dávila) invita a participar en un **taller educativo** enfocado en la **reflexión sobre la memoria y la conexión con nuestras herencias multiétnicas**. A través de lenguajes artísticos como la fotografía y la narración, se **construirá un árbol genealógico colectivo** que permitirá vincularnos con nuestras memorias familiares. Este evento se llevará a cabo el sábado 21 de septiembre de 2024, de 11:00 a 14:00. 
+
+**Jambicuna Ñan: recorridos de sanación** 
+------------------------------------------
+
+Uno de los **proyectos ganadores de** **las Becas de Cocreación** invita a un recorrido por la **comunidad de la Toglla**, en el cerro Ilaló, con un taller inmersivo sobre su sabiduría e identidad. El evento se realizará el sábado 21 de septiembre de 2024, de 10h30 a 14h00, con acceso libre. El punto de encuentro será en el **Museo Interactivo de Ciencia**, Av. Maldonado y Sincholagua, a las 9:00, desde donde saldrá un bus con capacidad para 40 personas. 
+
+**Yaku a la Carta** 
+--------------------
+
+Este mes de septiembre ofrece diversas oportunidades para redescubrir el **Museo del Agua**. Elija el recorrido que más le guste y **participe en una experiencia única que se aparta de la oferta habitual** del museo. En Raíces, historias y herencias, podrá explorar el **concepto de patrimonio** de forma interactiva. Además, en Plantas, aromas y flores de Yaku, descubrirá los espacios naturales del museo mediante un transformable interactivo que muestra la diversidad de plantas y aves presentes. Las actividades se llevarán a cabo el sábado 21 de septiembre de 2024, a las 11:30 y 14:30. 
+
+**Tiempo de ají y maní** 
+-------------------------
+
+El **Museo de Arte Precolombiano Casa del Alabado** (Cuenca N1-41) invita a la inauguración de Tiempo de Ají y Maní el sábado 21 de septiembre a las 11h00. El **ají, cultivado en Ecuador desde 3 000 a.C.** y utilizado como tributo por los Incas, y el maní, clave en la dieta de los pueblos originarios, destacan por su importancia en la **gastronomía ecuatoriana**. La exhibición incluye objetos que revelan su preparación y consumo en la historia. 
+
+**Quito se llena de tradición y cultura japonesa** 
+---------------------------------------------------
+
+**Durante septiembre**, el centro comercial **Paseo San Francisco** en Cumbayá, Quito, se convierte en un **epicentro de cultura japonesa** con exhibiciones de kimonos, bonsáis y demostraciones de artes marciales como kyudo y kendo.  
+
+Renombrados talleristas como **Juan Diego Fonseca, Nichole Fiorentino y Mariella Granja** ofrecerán actividades interactivas sobre estas tradiciones. El evento busca educar, fortalecer lazos comunitarios y celebrar la rica diversidad cultural, al brindar una experiencia inolvidable. 
+
+**Terapias alternativas** 
+--------------------------
+
+**Experiencia terapéutica con psilocibina** y los Niños Santos, enfocada en el Equilibrio entre lo femenino y lo masculino en mí. El evento se llevará a cabo en Quito el viernes 20 de septiembre a las 21:00, y en Ibarra el sábado 21 de septiembre a la misma hora. Para más información: 0991629227. 
+
+Así funciona el Pico y placa este viernes 20 de septiembre en Quito
+===================================================================
+
+El Pico y placa es una medida de restricción vehicular que rige en Quito.
+-------------------------------------------------------------------------
+
+![Los agentes de tránsito de Quito realizan el control a los autos que circulan por la ciudad.](https://www.elcomercio.com/wp-content/uploads/2024/07/transito-2.jpg)
+
+El **Pico y placa** es una restricción vehicular que rige en **Quito** como medida para **gestionar el tránsito** de la ciudad en las horas pico.
+
+Esta **medida excluye** a los autos conducidos por **personas de la tercera edad** o personas con discapacidad.
+
+### Más noticias
+
+* [Inicio de clases arranca con implementación de medidas de movilidad](https://www.elcomercio.com/actualidad/quito/inicio-de-clases-arranca-con-implementacion-de-medidas-de-movilidad.html "Inicio de clases arranca con implementación de medidas de movilidad")
+* [Municipio de Quito lanza un visualizador de siniestros de tránsito](https://www.elcomercio.com/actualidad/quito/visualizador-siniestros-transito-municipio-quito.html "Municipio de Quito lanza un visualizador de siniestros de tránsito")
+
+De acuerdo con el **cronograma**, este viernes no pueden circular las placas terminadas en **9 y 0**.
+
+Horarios de Pico y placa
+------------------------
+
+Esta medida se aplica en dos horarios de **lunes a viernes**. Los feriados, sábados y domingo no aplica la restricción.
+
+Estos son los horarios de aplicación:
+
+* En la **mañana**: de 06:00 a 09:30
+* En la **tarde**: de 16:00 a 20:00
+
+El **Pico y placa** es una medida que ha sido implementada en **diversas ciudades** alrededor del mundo como respuesta a los desafíos de la **urbanización** y el aumento del tránsito vehicular.
+
+Multas por infringir el Pico y placa
+------------------------------------
+
+La multa por incumplir el **Pico y placa** es del **15% del Salario Básico Unificado, es decir 69 dólares** la primera vez; la segunda vez será el 25%, es decir, **115 dólares**.
+
+Si incumples por tercera vez, la multa asciende al 50% de un salario básico, es decir, **230 dólares**.
+
+Recuerda retirar tu auto de las plazas de parqueo
+-------------------------------------------------
+
+Está vigente la resolución que dispone el proceso de **chatarrización** de los vehículos ingresados en los Centros de Retención Vehicular (CRV) por **más de tres años**, que no hayan sido retirados por sus propietarios.
+
+Con estos vehículos se emite una **declaratoria de abandono** y luego se procede a la chatarrización.
+
+Por esta razón, la Agencia de Tránsito llama a los **legítimos propietarios** a realizar el proceso de [liberación](https://es.wikipedia.org/wiki/Quito) vehicular.
+
+Quito siempre requiere planificación urbana integral
+====================================================
+
+Quito necesita una planificación integral de obras públicas para mejorar la movilidad. La coordinación, la participación ciudadana y el uso de datos son clave para reducir la congestión y construir una ciudad más eficiente y sostenible.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+![Este 19 de septiembre colapsó El Trébol, en Quito, por un hecho de violencia.](https://www.elcomercio.com/wp-content/uploads/2024/09/Trafico-vehicular-en-El-Trebol.jpg)
+
+La problemática de la movilidad en Quito es un reflejo de un desafío mayor: la necesidad de una planificación urbana integral que considere no solo las infraestructuras viales, sino también el transporte público, el uso del suelo, la vivienda y la participación ciudadana. Parece repetitivo, pero no lo es.
+
+> La problemática de la movilidad en Quito se ha convertido en un desafío recurrente para sus habitantes. La ejecución de obras públicas, aunque necesarias para el desarrollo de la ciudad, ha generado un caos vehicular que afecta la calidad de vida y la productividad de los quiteños.
+
+**La falta de planificación y coordinación** en la ejecución de estas obras ha sido una constante. Las intervenciones en vías principales como la 6 de Diciembre, Río Coca y la Colón, solo por poner ejemplos, han evidenciado la necesidad de una visión más integral y a largo plazo. Estas obras, sumadas a eventos imprevistos como siniestros o eventualidades como el hecho violento en [El Trébol de este 19 de septiembre, han saturado las vías.](https://www.elcomercio.com/actualidad/quito/atentado-trebol-colapso-trafico-quito.html "Atentado en El Trébol colapsó el tráfico en Quito")
+
+Una planificación adecuada permite identificar y mitigar los impactos negativos de las obras, como la congestión vehicular, la contaminación y la afectación a los negocios locales. Asimismo, al coordinar las diferentes obras, se pueden optimizar los recursos económicos y humanos, evitando duplicidades y retrasos, que suele ser una constante en Quito.
+
+Las autoridades también deben modernizarse. El uso de herramientas tecnológicas y la recopilación de datos permiten identificar los problemas y encontrar soluciones más eficientes. Además, es necesario profundizar la colaboración entre las diferentes instituciones involucradas en la gestión de la movilidad para garantizar la coherencia de las acciones.
+
+Es fundamental que los ciudadanos exijan a las autoridades una planificación eficiente y transparente de las obras públicas. La participación ciudadana es clave para influir en las decisiones que afectan la movilidad. Al optar por el transporte público, se contribuye a reducir la congestión vehicular y a mejorar la calidad del aire. Pero, también, la ciudadanía debe insistir en que los buses deben ser seguros y adecuados.
+
 Cultivando el futuro
 ====================
 
@@ -56,56 +186,6 @@ Desde la primera **revolución industrial** en el siglo XVIII hasta el presente 
 La necesidad de entender los **ajustes tecnológicos** y **medioambientales** son una realidad impostergable lo cual nos exige no solo realizar los **ajustes adecuados** en los **sistemas de educación** que deben ser transformados a un concepto de **educación** durante toda la vida desde el nacimiento donde es importantísimo la **nutrición infantil**. Como punto de partida la **transformación** de los **procesos educativos** en la escuela, el colegio y los estudios superiores incluyendo una **transformación digital** fundamental para mantener al **país** competitivo y a las personas con **capacidades cognitivas** adecuadas para las profesiones del mañana que se están transformando en todos los **testamentos de la sociedad, p**ues la guía está revolucionando **sectores financieros**, de la salud, de la bío ingeniería pongamos en factura con **procesos automatizados** y el **comercio**, dónde hoy se pone por delante los **requerimientos** y la **satisfacción del cliente**. En general, a pesar de ese pronóstico perturbante, la IA está mejorando la **calidad de vida** mediante **asistentes virtuales**, vehículos de autónomos, diagnósticos médicos más precisos y **tratamientos** personalizados.
 
 Cómo vemos frente a estas **perspectivas** es importante una buena elección de **líderes** para que con adecuada **capacidad** y desempeño saquen a este país del **círculo vicioso** y lo puedan ubicar en un **círculo virtuoso** para el **progreso** y bienestar de los **ecuatorianos**.
-
-Quito siempre requiere planificación urbana integral
-====================================================
-
-Quito necesita una planificación integral de obras públicas para mejorar la movilidad. La coordinación, la participación ciudadana y el uso de datos son clave para reducir la congestión y construir una ciudad más eficiente y sostenible.
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-![Este 19 de septiembre colapsó El Trébol, en Quito, por un hecho de violencia.](https://www.elcomercio.com/wp-content/uploads/2024/09/Trafico-vehicular-en-El-Trebol.jpg)
-
-La problemática de la movilidad en Quito es un reflejo de un desafío mayor: la necesidad de una planificación urbana integral que considere no solo las infraestructuras viales, sino también el transporte público, el uso del suelo, la vivienda y la participación ciudadana. Parece repetitivo, pero no lo es.
-
-> La problemática de la movilidad en Quito se ha convertido en un desafío recurrente para sus habitantes. La ejecución de obras públicas, aunque necesarias para el desarrollo de la ciudad, ha generado un caos vehicular que afecta la calidad de vida y la productividad de los quiteños.
-
-**La falta de planificación y coordinación** en la ejecución de estas obras ha sido una constante. Las intervenciones en vías principales como la 6 de Diciembre, Río Coca y la Colón, solo por poner ejemplos, han evidenciado la necesidad de una visión más integral y a largo plazo. Estas obras, sumadas a eventos imprevistos como siniestros o eventualidades como el hecho violento en [El Trébol de este 19 de septiembre, han saturado las vías.](https://www.elcomercio.com/actualidad/quito/atentado-trebol-colapso-trafico-quito.html "Atentado en El Trébol colapsó el tráfico en Quito")
-
-Una planificación adecuada permite identificar y mitigar los impactos negativos de las obras, como la congestión vehicular, la contaminación y la afectación a los negocios locales. Asimismo, al coordinar las diferentes obras, se pueden optimizar los recursos económicos y humanos, evitando duplicidades y retrasos, que suele ser una constante en Quito.
-
-Las autoridades también deben modernizarse. El uso de herramientas tecnológicas y la recopilación de datos permiten identificar los problemas y encontrar soluciones más eficientes. Además, es necesario profundizar la colaboración entre las diferentes instituciones involucradas en la gestión de la movilidad para garantizar la coherencia de las acciones.
-
-Es fundamental que los ciudadanos exijan a las autoridades una planificación eficiente y transparente de las obras públicas. La participación ciudadana es clave para influir en las decisiones que afectan la movilidad. Al optar por el transporte público, se contribuye a reducir la congestión vehicular y a mejorar la calidad del aire. Pero, también, la ciudadanía debe insistir en que los buses deben ser seguros y adecuados.
-
-Cartas a Quito / 20 de septiembre de 2024
-=========================================
-
-Estas son las cartas a Quito de este viernes 20 de septiembre de 2024
----------------------------------------------------------------------
-
-![Cartas a Quito. Foto: Archivo / EL COMERCIO](https://www.elcomercio.com/wp-content/uploads/2024/04/CARTAS-A-QUITO-1.jpg)
-
-El cuento de nunca acabar
--------------------------
-
-“El paro de buses concluye, pero el aumento del pasaje citará a transportistas y Alcaldía” titular de prensa. Guayaquil acaba de pasar un paro de cuatro días provocado por el transporte de buses urbanos, la razón, la de siempre -alza del pasaje-. La Federación de Transportadores Urbanos del Guayas (Fetug) considera que el pasaje debe pasar de 0,30 a 0,45 USD, para aliviar la precaria economía de sus agremiados, que están a punto de quebrar. Por otro lado, la Autoridad, en este caso el Alcalde de Guayaquil, rechaza la medida,  argumento, el de siempre,- pésimo servicio-, así, nunca llegarán a un consenso definitivo. Esto que hora está pasando en Guayaquil, ayer pasó en Quito, mañana pasará en Cuenca o en cualquier otra ciudad. El problema es que, el argumento de las partes, es espurio, se preocupan de variables aisladas y no del  conjunto al que pertenecen, priorizan la variación del costo de las características del vehículo: alza del precio del combustible, implementos para la comodidad del pasajero, etc., que son variables necesarias, pero de poca sensibilidad y, se olvidan de las variables que verdaderamente influyen en el precio del pasaje técnico, las de la condición de movilización: longitud de ruta, velocidad, frecuencia de salida, cantidad de pasajeros servidos (propias de cada ciudad). La solución es, disponer de una metodología fácil y flexible que permita calcular y actualizar el pasaje técnico en cualquier lugar y momento, que esté al alcance de todos y, el resultado sirva de base para el debate de las partes de donde saldrá el pasaje consensuado, que evitará los tediosos paros del transporte urbano que tanto  daño hacen a la población. La ANT tiene publicado una metodología para calcular el pasaje técnico, poco aplicable, pero puede ayudar a encontrar la solución definitiva para terminar con “El cuento de nunca acabar”.
-
-Marco A. Zurita Ríos
-
-La alharaca como práctica política
-----------------------------------
-
-Cuando en cualquier discusión o análisis se hace presente la alharaca, es signo de degradación. Alharaca es, según el diccionario: “Extraordinaria demostración o expresión con que por ligero motivo se manifiesta la vehemencia de algún afecto, como de ira, queja, admiración, alegría, etcétera”. En Esmeraldas lo calificamos como una reacción estrepitosa ante cualquier acontecimiento, o, un apoyo extremo a causas, sin razonarlas o sin entenderlas.
-
-Es claro que es una herramienta que busca enfatizar una demostración de afinidad, especialmente cuando se actúa en política. Acá, la usamos con exageración y bullicio, cuál si el tono de voz otorgara razón. Pero, en política o en la vida cotidiana, cuando se tiene razón, nadie requiere de procedimientos alharaquientos.
-
-Lo que acabamos de presenciar en la comisión de fiscalización de la Asamblea Nacional, es una exhibición, impúdica, de quienes creen que la voz alta, la agitación de manos, el palmoteo de mesas, es un fortalecimiento de posesión de la razón. Desde luego que ese comportamiento desdice de su posición política y de su dignidad como personas. Lo vemos más como un afán de hacer descender a toda la legislatura, al campo de la grosería, a la rudimentaria ignorancia, a la imposición por el grito, pensando que llevando a todos a ese nivel van a ganar, pues allí son especialistas.
-
-El parlamento, que es lo que define a la asamblea, debe ser un sitio de debate de ideas, con razonamientos claros, altura, cultura y dignidad personal. Quienes fueron llevados al parlamento, no por sus características académicas ni culturales, sino por sus fidelidades a dioses domésticos o personales, que la antigua Roma llamaba Penates, por su misma condición, están degradando la dignidad del parlamento.
-
-Los espectáculos bochornosos de meneadores de caderas mientras conversan, o de gritones en discusiones en mesas de debate, no son dignos de un parlamentario, pero es aquí donde se evalúa la calidad de quienes los seleccionan como candidatos: o están al mismo nivel o quizás más bajo.
-
-José M. Jalil Haas
 
 A 60 años de la doctrina de la seguridad nacional
 =================================================
@@ -136,6 +216,36 @@ Nadie discute que fue en **Brasil,** en donde mayor arraigo y posterior desarrol
 Los **militares brasileros** fueron precedidos desde los 50 por el General Stroessner en Paraguay. Después cuál palitroques cayeron Uruguay, Chile, Argentina y Bolivia, conformando entre ellos (más otros) la tenebrosa Operación Cóndor, cuyo propósito principal fue el intercambiar **detenidos políticos** para hacerlos desaparecer lejos de su **tierra natal**.
 
 Ello fue macabro, pero real.  La **historia** debe ser conocida para no repetirla.
+
+Cartas a Quito / 20 de septiembre de 2024
+=========================================
+
+Estas son las cartas a Quito de este viernes 20 de septiembre de 2024
+---------------------------------------------------------------------
+
+![Cartas a Quito. Foto: Archivo / EL COMERCIO](https://www.elcomercio.com/wp-content/uploads/2024/04/CARTAS-A-QUITO-1.jpg)
+
+El cuento de nunca acabar
+-------------------------
+
+“El paro de buses concluye, pero el aumento del pasaje citará a transportistas y Alcaldía” titular de prensa. Guayaquil acaba de pasar un paro de cuatro días provocado por el transporte de buses urbanos, la razón, la de siempre -alza del pasaje-. La Federación de Transportadores Urbanos del Guayas (Fetug) considera que el pasaje debe pasar de 0,30 a 0,45 USD, para aliviar la precaria economía de sus agremiados, que están a punto de quebrar. Por otro lado, la Autoridad, en este caso el Alcalde de Guayaquil, rechaza la medida,  argumento, el de siempre,- pésimo servicio-, así, nunca llegarán a un consenso definitivo. Esto que hora está pasando en Guayaquil, ayer pasó en Quito, mañana pasará en Cuenca o en cualquier otra ciudad. El problema es que, el argumento de las partes, es espurio, se preocupan de variables aisladas y no del  conjunto al que pertenecen, priorizan la variación del costo de las características del vehículo: alza del precio del combustible, implementos para la comodidad del pasajero, etc., que son variables necesarias, pero de poca sensibilidad y, se olvidan de las variables que verdaderamente influyen en el precio del pasaje técnico, las de la condición de movilización: longitud de ruta, velocidad, frecuencia de salida, cantidad de pasajeros servidos (propias de cada ciudad). La solución es, disponer de una metodología fácil y flexible que permita calcular y actualizar el pasaje técnico en cualquier lugar y momento, que esté al alcance de todos y, el resultado sirva de base para el debate de las partes de donde saldrá el pasaje consensuado, que evitará los tediosos paros del transporte urbano que tanto  daño hacen a la población. La ANT tiene publicado una metodología para calcular el pasaje técnico, poco aplicable, pero puede ayudar a encontrar la solución definitiva para terminar con “El cuento de nunca acabar”.
+
+Marco A. Zurita Ríos
+
+La alharaca como práctica política
+----------------------------------
+
+Cuando en cualquier discusión o análisis se hace presente la alharaca, es signo de degradación. Alharaca es, según el diccionario: “Extraordinaria demostración o expresión con que por ligero motivo se manifiesta la vehemencia de algún afecto, como de ira, queja, admiración, alegría, etcétera”. En Esmeraldas lo calificamos como una reacción estrepitosa ante cualquier acontecimiento, o, un apoyo extremo a causas, sin razonarlas o sin entenderlas.
+
+Es claro que es una herramienta que busca enfatizar una demostración de afinidad, especialmente cuando se actúa en política. Acá, la usamos con exageración y bullicio, cuál si el tono de voz otorgara razón. Pero, en política o en la vida cotidiana, cuando se tiene razón, nadie requiere de procedimientos alharaquientos.
+
+Lo que acabamos de presenciar en la comisión de fiscalización de la Asamblea Nacional, es una exhibición, impúdica, de quienes creen que la voz alta, la agitación de manos, el palmoteo de mesas, es un fortalecimiento de posesión de la razón. Desde luego que ese comportamiento desdice de su posición política y de su dignidad como personas. Lo vemos más como un afán de hacer descender a toda la legislatura, al campo de la grosería, a la rudimentaria ignorancia, a la imposición por el grito, pensando que llevando a todos a ese nivel van a ganar, pues allí son especialistas.
+
+El parlamento, que es lo que define a la asamblea, debe ser un sitio de debate de ideas, con razonamientos claros, altura, cultura y dignidad personal. Quienes fueron llevados al parlamento, no por sus características académicas ni culturales, sino por sus fidelidades a dioses domésticos o personales, que la antigua Roma llamaba Penates, por su misma condición, están degradando la dignidad del parlamento.
+
+Los espectáculos bochornosos de meneadores de caderas mientras conversan, o de gritones en discusiones en mesas de debate, no son dignos de un parlamentario, pero es aquí donde se evalúa la calidad de quienes los seleccionan como candidatos: o están al mismo nivel o quizás más bajo.
+
+José M. Jalil Haas
 
 Fiscalización con vía libre para continuar con el juicio contra Mónica Palencia
 ===============================================================================
@@ -975,138 +1085,3 @@ Además, **se presume que estaría produciendo nuevo contenido de carácter sexu
 Tras el operativo, kas autoridades protegieron a **dos menores de edad**. Entre los indicios encontrados están 351 archivos digitales.
 
 Las autoridades señalaron que este caso continuará en investigaciones para desarticular esta **red de presuntos pedófilos**.
-
-‘Shogun’ ¿Es tan buena como dicen?
-==================================
-
-Se estrenó en Disney+ el 27 de febrero de 2024 y está compuesta por 10 episodios de casi una hora.
---------------------------------------------------------------------------------------------------
-
-![Ana Sawai interpreta a Lady Mariko en la serie 'Shogun'. Foto: IMDB](https://www.elcomercio.com/wp-content/uploads/2024/09/shogun-El-comercio-1.jpg)
-
-‘**Shogun’** es la ‘mamá’ de las **series** tras ganar **18 premios Emmy**. Esa cantidad de galardones en un año, con una sola temporada al aire y que no tiene al inglés como idioma principal marca un verdadero récord.
-
-¿A qué se debe tanto alboroto por una serie? A distintos factores que se explican a continuación, pero antes de empezar, advertimos que podría haber _spoilers_.
-
-La fidelidad histórica
-----------------------
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/09/shogun-El-comercio-1024x683.jpg)
-
-‘Shogun’ es una ficción histórica que demuestra precisión histórica y cultural. Para el sitio especializado Cinemanía, esa era justamente la [bandera](https://www.20minutos.es/cinemania/series/shogun-critica-disney-japon-feudal-proyecto-ambicioso-5222702/ "https://www.20minutos.es/cinemania/series/shogun-critica-disney-japon-feudal-proyecto-ambicioso-5222702/") de lucha cuando se estrenó.
-
-La página acertó; la combinación de eventos y personajes históricos reales con elementos ficticios crearon una narrativa imaginativa y entretenida del **Japón feudal del año 1600**.
-
-La trama
---------
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/09/shogun-El-comercio-4-1024x683.jpg)
-
-‘Shogun’ sigue a tres personajes clave, cuyas relaciones influirán en el futuro de Japón: John Blackthorne, señor Toranaga y Lady Mariko.
-
-La historia cuenta que Blackthorne, un náufrago inglés, revela una división mundial en el cristianismo a los gobernantes japoneses, quienes estaban desinformados por sus socios comerciales portugueses.
-
-Para cambiar el equilibrio de poder, Blackthorne debe convencer al señor Yoshii Toranaga (**[Hiroyuki Sanada](https://es.wikipedia.org/wiki/Hiroyuki_Sanada "https://es.wikipedia.org/wiki/Hiroyuki_Sanada")**), quien lucha por sobrevivir en un complejo juego político contra lord Ishido (Takehiro Hira).
-
-Lady Toda Mariko (**[Anna Sawai](https://www.instagram.com/annasawai/?hl=es "https://www.instagram.com/annasawai/?hl=es")**), con un pasado de deshonor y una conexión inesperada con Blackthorne, emerge como una figura central en el conflicto. Es la primera mujer japonesa (y neozelandesa) en ganar un Emmy.
-
-El respeto por el idioma
-------------------------
-
-La sitcom está en japonés y no hubo ninguna intención de doblaje. Se buscaba respetar su esencia cultural al no traducir sus diálogos, ni siquiera en mercados como Estados Unidos y España.
-
-Series en lengua extranjera como **‘El juego del calamar**‘ han ganado Emmys, pero no como lo ha hecho Shogun. No se menciona a la película sucoreana ‘Parasite’ (2019) que ganó el Oscar porque la televisión tiene más reparos con estos elementos que el cine.
-
-El elenco
----------
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/09/shogun-El-comercio-2-1024x683.jpg)
-
-La historia se cuenta principalmente **desde el punto de vista nipón**, por lo que hubiera sido incoherente que actores occidentales intepreten el papel de japoneses. Así que el programa tuvo, entre otros, a Hiroyuki Sanada como el Sr. Toranaga y a Anna Sawai como Lady Mariko.
-
-Ambos ganaron Emmys por sus roles. La interpretación de Sanada añadió profundidad al personaje, mientras que Sawai destacó en secuencias de acción intensas y en otras románticas.
-
-El protagonista inglés **John Blackthorne encarnado por [Cosmo Jarvis](https://es.wikipedia.org/wiki/Cosmo_Jarvis "https://es.wikipedia.org/wiki/Cosmo_Jarvis")** no acaparó diálogos ni secuencias, más bien era uno más entre varios personajes principales, en lugar de ser el centro absoluto de la historia.
-
-El vestuario no fue un adorno
------------------------------
-
-![Ana Sawai interpreta a Lady Mariko en la serie 'Shogun'. Foto: IMDB](https://www.elcomercio.com/wp-content/uploads/2024/09/shogun-El-comercio-1-1024x683.jpg)
-
-Ana Sawai interpreta a Lady Mariko en la serie ‘Shogun’. Foto: IMDB
-
-Carlos Rosario fue el responsable del **vestuario en ‘Shogun**‘. Estudió pinturas japonesas del siglo XVII para inspirarse, según la revista Vanitatis.
-
-Trabajó con expertos e historiadores, incluido un profesor de la Universidad de Kyoto, para recrear un Japón feudal históricamente preciso. “Supervisó un taller de más de 125 personas que abarcaba cinco países (Japón, Canadá, EE.UU., Tailandia y China) para crear los más de 2.300 trajes de la serie”, recoge el [medio](https://www.vanitatis.elconfidencial.com/estilo/moda/2024-03-24/shogun-serie-vestuario-looks-estilista_3853462/ "https://www.vanitatis.elconfidencial.com/estilo/moda/2024-03-24/shogun-serie-vestuario-looks-estilista_3853462/").
-
-### **Más del tema**
-
-* **[El final de ‘Shogun’ deja las puertas abiertas para una segunda temporada](https://www.elcomercio.com/tendencias/final-shogun-serie-disney-segunda-temporada.html "https://www.elcomercio.com/tendencias/final-shogun-serie-disney-segunda-temporada.html")**
-* **[‘Shogun’, ‘The Bear’, ‘Hacks’ y ‘Bebé Reno’, las más ganadoras de los Premios Emmy](https://www.elcomercio.com/tendencias/shogun-the-bear-hacks-y-bebe-reno-las-mas-ganadoras-de-los-premios-emmy.html "https://www.elcomercio.com/tendencias/shogun-the-bear-hacks-y-bebe-reno-las-mas-ganadoras-de-los-premios-emmy.html")**
-
-A eso se suma un protocolo y normas de vestimenta desconocidos para muchos; por ejemplo, las mujeres nobles de mayor rango usan más capas, y los nobles varones tienen más pliegues en sus **[hakama](https://es.wikipedia.org/wiki/Hakama "https://es.wikipedia.org/wiki/Hakama")**.
-
-Los cinco señores del Consejo de Regentes tienen paletas de colores distintos que indican sus lealtades: Toranaga usa tonos amarillos, dorados y cobrizos, el Señor Ishido se viste de plateado y el Señor Kiyama de rojo.
-
-Con todo esto queda en evidencia que e**l vestuario es un aspecto fundamental** en un producto audiovisual histórico. Resultaría imposible ‘atrapar’ al espectador en una trama del pasado sin los atuendos adecuados.
-
-‘Shogun’ capturó la vestimenta y la estética de la época de la forma más realista posible. No en vano se llevó Emmys en las categorías de Mejores trajes, Mejor maquillaje y Mejor peinado de época.
-
-Dosis justa de violencia
-------------------------
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/09/shogun-El-comercio-3-1024x683.jpg)
-
-Quizás esto es relativo, cada espectador tendrá su opinión sobre el nivel de violencia que presenta la serie. Sin embargo, el sitio **Cinemanía** señala que la violencia no es desmedida en los primeros episodios sino lo suficientemente palpable como para destacar la tensión que se siente ante un conflicto inminente.
-
-Estos elementos pueden servirle a quienes se pregunten si vale la pena ver ‘Shogun’. La serie está disponible en [Disney+.](https://www.disneyplus.com/es-ec/series/shogun/77sCbAqhMU5H)
-
-Segundo Portocarrero se paró sobre el balón y armó una pelea
-============================================================
-
-Segundo Portocarrero juega su primera temporada como jugador del Universitario de Perú, pedido por Fabián Bustos.
------------------------------------------------------------------------------------------------------------------
-
-![Imagen de Segundo Portocarrero como jugador de Universitario de Perú en el 2024.](https://www.elcomercio.com/wp-content/uploads/2024/09/portocarrero_pelea.jpg)
-
-**Segundo Portocarrero** llegó en el 2024 a Universitario de Perú como uno de sus refuerzos para la zona izquierda de la cancha por pedido de Fabián Bustos, entrenador con un largo camino en el fútbol de Ecuador.
-
-El inicio de Segundo Portocarrero fue fulminante y por todo lo alto, al punto que los hinchas de Universitario **lo bautizaron como el ‘Cafú ecuatoriano’** por su velocidad, dribling y la facilidad para superar a los rivales en posición de ataque.
-
-### Más noticias:
-
-* [Desde 2017, Deportivo Quito jugó una vez el Ascenso Nacional](https://www.elcomercio.com/deportes/futbol/deportivo-quito-ascenso-nacional-historial.html "Desde 2017, Deportivo Quito jugó una vez el Ascenso Nacional")
-* [Árbitro revela que favoreció a Lionel Messi a cambio de un obsequio](https://www.elcomercio.com/deportes/lionel-messi-ayuda-arbitro-carlos-chandia.html "Árbitro revela que favoreció a Lionel Messi a cambio de un obsequio")
-* [Galo Rodríguez goleó a Liga de Quito y recibió un premio](https://www.elcomercio.com/deportes/futbol/galo-rodriguez-entrenador-imbabura-premio.html "Galo Rodríguez goleó a Liga de Quito y recibió un premio")
-
-Con el pasar de los partidos el rendimiento de Portocarrero se ha mantenido y **participó en 33 de los 34 partidos que los ‘Cremas’** han tenido entre la Liga peruana y la Copa Libertadores. En 21 arrancó como titular y en el resto entró desde el banco.
-
-El esmeraldeño se perdió solo un partido del Torneo Apertura por una contusión en una de sus piernas.
-
-Según Transfermarkt, **anotó un gol (Cusco FC), asistió una vez (Alianza Lima)**, fue amonestado con tarjeta amarillas cinco veces y no fue expulsado. Acumula 2 019 minutos.
-
-En cuanto a títulos, **ganó el Apertura y están clasificados para la gran final** en la que se decidirá, junto al ganador del Clausura, el campeón anual de Perú.
-
-Segundo Portocarrero generó un tumulto
---------------------------------------
-
-Pese a su experiencia, Portocarrero tuvo un episodio poco feliz la noche del miércoles 18 de septiembre en la fecha 11, cuando **Universitario goleó por 3-0 a Sport Boys** con tantos de Álex Varela (2), Marín Pérez Guedes (69).
-
-Con este resultado, Universitario recuperó la punta de la tabla de posiciones con 24 unidades, por delante de **Alianza Lima (23) y Sporting Cristal (21)**, dos de sus más tradicionales rivales.
-
-Con el partido resuelto, **Portocarrero decidió pararse sobre el balón desatando la furia** de los jugadores de Sports Boys, que le cometieron una falta e inmediatamente fueron a increparlo, con insultos de por medio, por la acción generada.
-
-Christian Ramos, campeón con Emelec en 2017 junto con Portocarrero, fue el que le cometió la falta y el primero en recriminarlo.
-
-El defensor cayó al piso hasta que sus compañeros fueron en su ayuda y **empezaron a dispersar a sus rivales**. Luego se levantó y retornó a su cancha ante el constante reclamo de los jugadores contrarios que no daban crédito a lo sucedido.
-
-“Esto es innecesario, ¿**para qué te sirve esta acción con el partido resultado**?”, se preguntaron los periodistas que estaban comentando el partido en vivo, mientras los hinchas de Universitario seguían atentos a lo que sucedía.
-
-Universitario **volverá a tener acción el domingo 22 de septiembre**, desde las 15:30. Será ante Unión Comercio en la jornada 12 en el estadio Monumental «U».
-
-> ¡SE MOLESTARON! Segundo Portocarrero ⚽ hizo un lujo y los jugadores de [@sportboys](https://twitter.com/sportboys?ref_src=twsrc%5Etfw) 💗 fueron a encararlo. [#TorneoClausuraXGOLPERU](https://twitter.com/hashtag/TorneoClausuraXGOLPERU?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/j0xDYvD1nq](https://t.co/j0xDYvD1nq)
-> 
-> — GOLPERU (@GOLPERUoficial) [September 19, 2024](https://twitter.com/GOLPERUoficial/status/1836606665317056847?ref_src=twsrc%5Etfw)
-
-No te pierdas – El Confesionario
---------------------------------
