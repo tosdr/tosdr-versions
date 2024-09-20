@@ -377,7 +377,7 @@ Version 2023.12.12
     
 * [](https://www.linkedin.com/company/comptia)  
     
-* [](https://www.youtube.com/comptia)  
+* [](https://www.youtube.com/@comptiaexplore)  
     
 * [](https://www.instagram.com/comptiaofficial/)  
     
