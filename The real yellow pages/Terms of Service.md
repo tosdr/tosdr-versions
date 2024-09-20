@@ -1,6 +1,6 @@
-![](https://c.ypcdn.com/2/p/webyp?ptid=www.yellowpages.com&rid=webyp-e5e67ba1-39af-43fe-bdae-e0ba94b9d9ae&vrid=a49f7fdf-7e67-4f10-a479-8c0428d34ddc)
+![](https://c.ypcdn.com/2/p/webyp?ptid=www.yellowpages.com&rid=webyp-0791647e-8f5a-432a-95ea-099c53e640c4&vrid=648d38db-54a4-42ec-803e-1daf57d44b07)
 
-[![The Real Yellow Pages logo](//i3.ypcdn.com/ypu/images/svgs/mobile_yp_logo.svg?897efab)![The Real Yellow Pages logo](//i4.ypcdn.com/ypu/images/svgs/yp.svg?897efab)](https://www.yellowpages.com/)
+[![The Real Yellow Pages logo](//i3.ypcdn.com/ypu/images/svgs/mobile_yp_logo.svg?a356eb9)![The Real Yellow Pages logo](//i4.ypcdn.com/ypu/images/svgs/yp.svg?a356eb9)](https://www.yellowpages.com/)
 
 Find a business
 
@@ -12,11 +12,11 @@ Recent Locations
 
 Find
 
-[![](//i3.ypcdn.com/ypu/images/svgs/log-in.svg?897efab)Log In](https://www.yellowpages.com/login)•[![](//i2.ypcdn.com/ypu/images/svgs/sign-up.svg?897efab)Sign Up](https://www.yellowpages.com/register)
+[![](//i3.ypcdn.com/ypu/images/svgs/log-in.svg?a356eb9)Log In](https://www.yellowpages.com/login)•[![](//i2.ypcdn.com/ypu/images/svgs/sign-up.svg?a356eb9)Sign Up](https://www.yellowpages.com/register)
 
 More
 
-[![Explore Cities Icon](//i1.ypcdn.com/ypu/images/svgs/explore-cities.svg?897efab)Explore Cities](https://www.yellowpages.com/sitemap)[![Find People Icon](//i1.ypcdn.com/ypu/images/svgs/find-people.svg?897efab)Find People](https://people.yellowpages.com/whitepages)[![Get the App Icon](//i3.ypcdn.com/ypu/images/svgs/download.svg?897efab)Get the App!](https://www.yellowpages.com/yp-app)[![Advertise with Us Icon](//i1.ypcdn.com/ypu/images/svgs/advertise-w-us.svg?897efab)Advertise with Us](https://www.yellowpages.com/marketing-services?from=advertise-with-us-YP)
+[![Explore Cities Icon](//i1.ypcdn.com/ypu/images/svgs/explore-cities.svg?a356eb9)Explore Cities](https://www.yellowpages.com/sitemap)[![Find People Icon](//i1.ypcdn.com/ypu/images/svgs/find-people.svg?a356eb9)Find People](https://people.yellowpages.com/whitepages)[![Get the App Icon](//i3.ypcdn.com/ypu/images/svgs/download.svg?a356eb9)Get the App!](https://www.yellowpages.com/yp-app)[![Advertise with Us Icon](//i1.ypcdn.com/ypu/images/svgs/advertise-w-us.svg?a356eb9)Advertise with Us](https://www.yellowpages.com/marketing-services?from=advertise-with-us-YP)
 
 1. [Home](https://www.yellowpages.com/)
 2. [About](https://www.yellowpages.com/about)
