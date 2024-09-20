@@ -360,7 +360,7 @@ Email  Sign up
 ### Learn
 
 * [Blog](https://www.sketch.com/blog/)
-* [Guides & Courses](https://www.sketch.com/guides-and-courses/)
+* [Guides & Courses](https://www.sketch.com/guides/)
 * [Course: Sketch 101](https://www.sketch.com/courses/sketch-101/)
 * [Course: Sketch 102](https://www.sketch.com/courses/sketch-102/)
 * [Documentation](https://www.sketch.com/docs/)
