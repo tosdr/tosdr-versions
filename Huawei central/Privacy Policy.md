@@ -65,21 +65,21 @@ Huawei Central
     
 * [Wearables](https://www.huaweicentral.com/category/wearables/)
     
+    * [![Huawei Malaysia Watch September 26](https://www.huaweicentral.com/wp-content/uploads/2024/09/Malaysia-event-400x240.jpg)
+        
+        Huawei to launch Watch GT 5, Watch D2, and more in Malaysia on September 26](https://www.huaweicentral.com/huawei-to-launch-watch-gt-5-watch-d2-and-more-in-malaysia-on-september-26/)
+    * [![Huawei Watch GT 5 Pro specifications](https://www.huaweicentral.com/wp-content/uploads/2024/09/GT-5-Pro-img-400x240.jpg)
+        
+        Huawei Watch GT 5 Pro: Specifications, Features, and Price](https://www.huaweicentral.com/huawei-watch-gt-5-pro-specifications-features-and-price/)
+    * [![Huawei Watch GT 5 Specifications](https://www.huaweicentral.com/wp-content/uploads/2024/09/GT-5-standard-400x240.jpg)
+        
+        Huawei Watch GT 5: Specifications, Features, and Price](https://www.huaweicentral.com/huawei-watch-gt-5-specifications-features-and-price/)
     * [![Huawei Watch Ultimate Green Edition](https://www.huaweicentral.com/wp-content/uploads/2024/09/Watch-Ultimate-Green-400x240.jpg)
         
         Huawei unveils Watch Ultimate Green Edition with Pro-level sports features](https://www.huaweicentral.com/huawei-unveils-watch-ultimate-green-edition-with-pro-level-sports-features/)
     * [![Huawei launches Watch D2](https://www.huaweicentral.com/wp-content/uploads/2024/09/Watch-D2-1-400x240.jpg)
         
         Huawei launches Watch D2 featuring new design and 1.82-inch huge display](https://www.huaweicentral.com/huawei-launches-watch-d2-featuring-new-design-and-1-82-inch-huge-display/)
-    * [![Huawei Watch GT 5 series](https://www.huaweicentral.com/wp-content/uploads/2024/09/huawei-watch-gt-5-img1-400x240.jpg)
-        
-        Huawei Watch GT 5 Series launched with sharp-edged design, TruSense and more](https://www.huaweicentral.com/huawei-watch-gt-5-series-launched/)
-    * [![Huawei Watch GT 5 variants](https://www.huaweicentral.com/wp-content/uploads/2024/09/Watch-GT-5-variants-400x240.jpg)
-        
-        Exclusive: Check Huawei Watch GT 5 variants before today’s launch](https://www.huaweicentral.com/exclusive-check-huawei-watch-gt-5-variants-before-todays-launch/)
-    * [![Huawei wearables China September 24](https://www.huaweicentral.com/wp-content/uploads/2024/09/Wearable-launch-400x240.jpg)
-        
-        Huawei could launch new wearables in China on September 24](https://www.huaweicentral.com/huawei-could-launch-new-wearables-in-china-on-september-24/)
     
 * [Contact Us](https://www.huaweicentral.com/contact/)
 
