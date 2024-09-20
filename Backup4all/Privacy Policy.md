@@ -301,15 +301,15 @@ We develop software that matters since 1999. These are our products: Backup4all/
 * [Forum](https://forum.backup4all.com/)
 * [Blog](https://blog.backup4all.com/)
 
-* [Using Backup4all - FAQ](https://www.backup4all.com/using-backup4all-faq-1-kb.html)  
+* [How to back up data files from Dunkel using B ...](https://www.backup4all.com/how-to-back-up-data-files-from-dunkel-using-backup4all-kb.html)  
     
-* [Configure the scheduler to run missed backups](https://www.backup4all.com/how-to-configure-the-scheduler-to-run-missed-backups-kb.html)  
+* [How to keep multiple Mirror backup versions i ...](https://www.backup4all.com/how-to-keep-multiple-mirror-backup-versions-in-destination-kb.html)  
     
-* [How to upgrade from FBackup to Backup4all](https://www.backup4all.com/how-to-upgrade-from-fbackup-to-backup4all-kb.html)  
+* [How to override the application folders](https://www.backup4all.com/how-to-override-the-application-folders-kb.html)  
     
-* [How to import backup jobs?](https://www.backup4all.com/how-to-import-backup-jobs-kb.html)  
+* [Backup to SFTP](https://www.backup4all.com/backup-to-sftp-kb.html)  
     
-* [Smart backup type](https://www.backup4all.com/smart-backup-type-kb.html)  
+* [Backup software](https://www.backup4all.com/backup-software-kb.html)  
     
 
 Choose language:
