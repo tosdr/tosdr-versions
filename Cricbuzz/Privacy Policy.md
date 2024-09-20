@@ -48,7 +48,7 @@ SEARCH
 
 [My Account](https://www.cricbuzz.com/premium-subscription/user/account-info "My Account") Sign Out
 
-[MATCHES](https://www.cricbuzz.com/cricket-match/live-scores)[ENG vs AUS - Complete](https://www.cricbuzz.com/live-cricket-scores/76549/eng-vs-aus-1st-odi-australia-tour-of-england-2024 "England v Australia, 1st ODI - Complete")[IND vs BAN - Stumps](https://www.cricbuzz.com/live-cricket-scores/100220/ind-vs-ban-1st-test-bangladesh-tour-of-india-2024 "India v Bangladesh, 1st Test - Stumps")[TKR vs ABF - Preview](https://www.cricbuzz.com/live-cricket-scores/92865/tkr-vs-abf-20th-match-caribbean-premier-league-2024 "Trinbago Knight Riders v Antigua and Barbuda Falcons, 20th Match - Preview")[SL vs NZ - Stumps](https://www.cricbuzz.com/live-cricket-scores/105962/sl-vs-nz-1st-test-new-zealand-tour-of-sri-lanka-2024 "Sri Lanka v New Zealand, 1st Test - Stumps")[AFG vs RSA - Preview](https://www.cricbuzz.com/live-cricket-scores/103852/afg-vs-rsa-2nd-odi-afghanistan-v-south-africa-in-uae-2024 "Afghanistan v South Africa, 2nd ODI - Preview")
+[MATCHES](https://www.cricbuzz.com/cricket-match/live-scores)[TKR vs ABF - Live](https://www.cricbuzz.com/live-cricket-scores/92865/tkr-vs-abf-20th-match-caribbean-premier-league-2024 "Trinbago Knight Riders v Antigua and Barbuda Falcons, 20th Match - Live")[ENG vs AUS - AUS Won](https://www.cricbuzz.com/live-cricket-scores/76549/eng-vs-aus-1st-odi-australia-tour-of-england-2024 "England v Australia, 1st ODI - AUS Won")[IND vs BAN - Stumps](https://www.cricbuzz.com/live-cricket-scores/100220/ind-vs-ban-1st-test-bangladesh-tour-of-india-2024 "India v Bangladesh, 1st Test - Stumps")[SL vs NZ - Stumps](https://www.cricbuzz.com/live-cricket-scores/105962/sl-vs-nz-1st-test-new-zealand-tour-of-sri-lanka-2024 "Sri Lanka v New Zealand, 1st Test - Stumps")[AFG vs RSA - Preview](https://www.cricbuzz.com/live-cricket-scores/103852/afg-vs-rsa-2nd-odi-afghanistan-v-south-africa-in-uae-2024 "Afghanistan v South Africa, 2nd ODI - Preview")
 
 AllLive NowToday
 
@@ -62,7 +62,7 @@ AllLive NowToday
     
 * England v Australia, 2024
     
-    [England vs Australia](https://www.cricbuzz.com/live-cricket-scores/76549/eng-vs-aus-1st-odi-england-v-australia-2024 "England v Australia, 1st ODI - Complete")
+    [England vs Australia](https://www.cricbuzz.com/live-cricket-scores/76549/eng-vs-aus-1st-odi-england-v-australia-2024 "England v Australia, 1st ODI - AUS Won")
     
     1st ODI
     
@@ -130,7 +130,7 @@ AllLive NowToday
     
     19th Match
     
-* [Trinbago Knight Riders vs Antigua and Barbuda Falcons](https://www.cricbuzz.com/live-cricket-scores/92865/tkr-vs-abf-20th-match-cpl-2024 "Trinbago Knight Riders v Antigua and Barbuda Falcons, 20th Match - Preview")
+* [Trinbago Knight Riders vs Antigua and Barbuda Falcons  LIVE](https://www.cricbuzz.com/live-cricket-scores/92865/tkr-vs-abf-20th-match-cpl-2024 "Trinbago Knight Riders v Antigua and Barbuda Falcons, 20th Match - Live")
     
     20th Match
     
@@ -141,6 +141,10 @@ AllLive NowToday
 * [Saint Lucia Kings vs Barbados Royals](https://www.cricbuzz.com/live-cricket-scores/92883/slk-vs-br-22nd-match-cpl-2024 "Saint Lucia Kings v Barbados Royals, 22nd Match - Upcoming")
     
     22nd Match
+    
+* [Guyana Amazon Warriors vs Antigua and Barbuda Falcons](https://www.cricbuzz.com/live-cricket-scores/92892/gaw-vs-abf-23rd-match-cpl-2024 "Guyana Amazon Warriors v Antigua and Barbuda Falcons, 23rd Match - Upcoming")
+    
+    23rd Match
     
 * T10 League
     
@@ -214,6 +218,12 @@ AllLive NowToday
     
     61st Match
     
+* Australia Domestic One-Day Cup 2024-25
+    
+    [New South Wales vs Western Australia](https://www.cricbuzz.com/live-cricket-scores/103105/nsw-vs-wa-1st-match-australia-domestic-one-day-cup-2024-25 "New South Wales v Western Australia, 1st Match - Upcoming")
+    
+    1st Match
+    
 * Australia Under 19 tour of India
     
     [India U19 vs Australia U19](https://www.cricbuzz.com/live-cricket-scores/106428/indu19-vs-ausu19-1st-youth-odi-australia-under-19-tour-of-india "India U19 v Australia U19, 1st Youth ODI - Upcoming")
@@ -222,7 +232,11 @@ AllLive NowToday
     
 * County Division 2
     
-    [Yorkshire vs Glamorgan](https://www.cricbuzz.com/live-cricket-scores/85524/yorks-vs-glam-50th-match-county-division-2 "Yorkshire v Glamorgan, 50th Match - Stumps")
+    [Gloucestershire vs Sussex](https://www.cricbuzz.com/live-cricket-scores/85528/gloucs-vs-sus-51st-match-county-division-2 "Gloucestershire v Sussex, 51st Match - SUS Won")
+    
+    51st Match
+    
+* [Yorkshire vs Glamorgan](https://www.cricbuzz.com/live-cricket-scores/85524/yorks-vs-glam-50th-match-county-division-2 "Yorkshire v Glamorgan, 50th Match - Stumps")
     
     50th Match
     
@@ -233,10 +247,6 @@ AllLive NowToday
 * [Leicestershire vs Northamptonshire](https://www.cricbuzz.com/live-cricket-scores/85535/leic-vs-nhnts-52nd-match-county-division-2 "Leicestershire v Northamptonshire, 52nd Match - NOR Won")
     
     52nd Match
-    
-* [Gloucestershire vs Sussex](https://www.cricbuzz.com/live-cricket-scores/85528/gloucs-vs-sus-51st-match-county-division-2 "Gloucestershire v Sussex, 51st Match - SUS Won")
-    
-    51st Match
     
 * South Africa v Sri Lanka
     
@@ -587,37 +597,37 @@ This Privacy Policy (the “**Privacy Policy**”) serves to inform you of our p
 
 [Head, Labuschagne cap off Australia's facile win in opening ODI](https://www.cricbuzz.com/cricket-news/131680/head-labuschagne-cap-off-australias-facile-win-in-opening-odi "Head, Labuschagne cap off Australia's facile win in opening ODI")
 
-7m ago
+6h ago
 
   [](https://www.cricbuzz.com/cricket-news/131679/ashwins-expertise-drives-india-past-chennais-opening-day-hurdles "Ashwin's expertise drives India past Chennai's opening-day hurdles")
 
 [Ashwin's expertise drives India past Chennai's opening-day hurdles](https://www.cricbuzz.com/cricket-news/131679/ashwins-expertise-drives-india-past-chennais-opening-day-hurdles "Ashwin's expertise drives India past Chennai's opening-day hurdles")
 
-2h ago
+8h ago
 
   [](https://www.cricbuzz.com/cricket-news/131678/australia-spinners-enjoy-a-field-day-despite-ducketts-95 "Australia spinners enjoy a field day despite Duckett's 95")
 
 [Australia spinners enjoy a field day despite Duckett's 95](https://www.cricbuzz.com/cricket-news/131678/australia-spinners-enjoy-a-field-day-despite-ducketts-95 "Australia spinners enjoy a field day despite Duckett's 95")
 
-3h ago
+9h ago
 
   [](https://www.cricbuzz.com/cricket-news/131677/csa-reaffirms-sa-to-continue-playing-afghanistan-in-odis "CSA reaffirms SA to continue playing Afghanistan in ODIs ")
 
 [CSA reaffirms SA to continue playing Afghanistan in ODIs](https://www.cricbuzz.com/cricket-news/131677/csa-reaffirms-sa-to-continue-playing-afghanistan-in-odis "CSA reaffirms SA to continue playing Afghanistan in ODIs ")
 
-4h ago
+10h ago
 
   [](https://www.cricbuzz.com/cricket-news/131676/series-digest-new-zealand-women-tour-of-australia-2024 "Series digest: New Zealand Women tour of Australia, 2024")
 
 [Series digest: New Zealand Women tour of Australia, 2024](https://www.cricbuzz.com/cricket-news/131676/series-digest-new-zealand-women-tour-of-australia-2024 "Series digest: New Zealand Women tour of Australia, 2024")
 
-5h ago
+11h ago
 
   [](https://www.cricbuzz.com/cricket-news/131675/hasan-mahmud-success-story-of-a-domestic-program "Hasan Mahmud: Success story of a domestic program")
 
 [Hasan Mahmud: Success story of a domestic program](https://www.cricbuzz.com/cricket-news/131675/hasan-mahmud-success-story-of-a-domestic-program "Hasan Mahmud: Success story of a domestic program")
 
-5h ago
+11h ago
 
 [More News](https://www.cricbuzz.com/cricket-news "Click to view more News")
 
