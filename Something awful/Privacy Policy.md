@@ -205,26 +205,26 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [The Good Nerd From the GE Commercials is Developing the Singularity](https://www.somethingawful.com/news/bad-commercial-hipster/)
-* [Memos from Bear Cave: Company Picnic Day](https://www.somethingawful.com/news/bear-cave-picnic/)
-* [Memos from Bear Cave: The '79 Houston Soup & Broth Expo](https://www.somethingawful.com/news/bear-cave-expo/)
-* [You're wearing a DOG COSTUME!](https://www.somethingawful.com/awfulvision/furry-expert-juche/1/)
-* [Memos from Bear Cave: Employee Reviews](https://www.somethingawful.com/news/bear-cave-raises/)
+* [Mohammad Said al-Sahaf tells it how it is](https://www.somethingawful.com/comedy-goldmine/mohammad-said-alsahaf/1/)
+* [MSpaint cartoon characters dealing with serious, frightening issues, Part I](https://www.somethingawful.com/comedy-goldmine/mspaint-cartoon-characters/1/)
+* [Adding Violence To Nonviolent Video Games](https://www.somethingawful.com/comedy-goldmine/adding-violence-nonviolent/1/)
+* [Movie Combinations that were Never Meant to Be...](https://www.somethingawful.com/comedy-goldmine/movie-combinations-that/1/)
+* [History's Worst Weapons!](https://www.somethingawful.com/comedy-goldmine/historys-worst-weapons/1/)
 
 ### Popular Threads
 
+* ![](https://fi.somethingawful.com/forums/posticons/tails.gif) [:bighow: smilie](http://forums.somethingawful.com/showthread.php?threadid=4070734 ":bighow: smilie")
+* ![](https://fi.somethingawful.com/forums/posticons/icons-08/whine.png) [Types of Walkers I Hate](http://forums.somethingawful.com/showthread.php?threadid=4070800 "Types of Walkers I Hate")
 * ![](https://fi.somethingawful.com/forums/posticons/icons-08/drugs.png) [FREE CANDY](http://forums.somethingawful.com/showthread.php?threadid=4070796 "FREE CANDY")
 * ![](https://fi.somethingawful.com/forums/posticons/tviv-competition.gif) [Have there been any famous SA goons?](http://forums.somethingawful.com/showthread.php?threadid=4070782 "Have there been any famous SA goons?")
-* ![](https://fi.somethingawful.com/forums/posticons/byob-grumpy.gif) [What's it like being in an extremely long blight?](http://forums.somethingawful.com/showthread.php?threadid=4070718 "What's it like being in an extremely long blight?")
-* ![](https://fi.somethingawful.com/forums/posticons/tails.gif) [:bighow: smilie](http://forums.somethingawful.com/showthread.php?threadid=4070734 ":bighow: smilie")
 
 ### Random Articles
 
-* [Going Overboard](https://www.somethingawful.com/movie-reviews/going-overboard/1/)
-* [Voodoo Tailz](https://www.somethingawful.com/movie-reviews/voodoo-tailz/1/)
-* [Wendy's LOL-Spot (Thanks, Arius!)](https://www.somethingawful.com/awful-links/wendys-lol-spot/)
-* [May 11, 2010](https://www.somethingawful.com/forum-fridays/ff05-11-2010/1/)
-* [Thing of the Week: Living Lightning Rods](https://www.somethingawful.com/daily-dirt/noo-betsy-noo/)
+* [The Dark Hearted Realm](https://www.somethingawful.com/awful-links/awful-link-1542/)
+* [The Bitterest Soup: Part 2](https://www.somethingawful.com/news/bitterest-soup-part-2/)
+* [Condor](https://www.somethingawful.com/movie-reviews/condor/1/)
+* [The World According To ME!!](https://www.somethingawful.com/awful-links/awful-link-852/)
+* [The 26 Most Awful Toys from China](https://www.somethingawful.com/most-awful/most-awful-china/1/)
 
 [Random!](https://www.somethingawful.com/random/)
 
