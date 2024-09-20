@@ -7,7 +7,7 @@ Privacy Notice for Square Sellers and Website Visitors
 
 Effective Date: July 1, 2024
 
-This Privacy Notice describes how your Square entity as indicated below (“Square,” “we” and “us”) collects, uses, discloses, transfers, stores, retains or otherwise processes your information when you (whether you are a person acting as a sole proprietor or on behalf of another business entity) visit our website [(www.squareup.com)](https://squareup.com/us/en/legal/general/www.squareup.com) or apply or sign up for a Square account (collectively, “Services”).
+This Privacy Notice describes how your Square entity as indicated below (“Square,” “we” and “us”) collects, uses, discloses, transfers, stores, retains or otherwise processes your information when you (whether you are a person acting as a sole proprietor or on behalf of another business entity) visit our website [(www.squareup.com)](https://www.squareup.com/) or apply or sign up for a Square account (collectively, “Services”).
 
 If you are a consumer shopping at a business that uses Square, please refer instead to the Privacy Notice available [here](https://squareup.com/us/en/legal/general/privacy-no-account). If you are a consumer shopping at a business that uses Square and you provide information to Square in order to receive a digital receipt and email marketing messages, and/or you have signed up to use Square Pay, please refer to the Privacy Notice available [here](https://squareup.com/us/en/legal/general/buyer-features).
 
