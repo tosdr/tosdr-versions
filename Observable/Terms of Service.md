@@ -28,7 +28,7 @@ Edited
 
 7 forks
 
-16 Likes
+16 stars
 
 More from Observable creators
 
