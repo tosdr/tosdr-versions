@@ -1,3 +1,5 @@
+<img alt="" src="https://www.innovative-astute.com/798073.png" style="display:none;">   
+
  [![CRAYON, Inc](https://www.crayon.co/hubfs/Logo.svg) ![CRAYON, Inc](https://www.crayon.co/hubfs/Logo.svg)](https://www.crayon.co/)
 
 * [Product](https://www.crayon.co/competitive-intelligence-analysis)
