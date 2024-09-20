@@ -94,7 +94,7 @@ Recent Stories
 
 [Cooperation
 
-### Chivalry in sports](https://www.csmonitor.com/Commentary/the-monitors-view/2024/0920/Chivalry-in-sports "Chivalry in sports")
+### Pro athletes as star exemplars](https://www.csmonitor.com/Commentary/the-monitors-view/2024/0920/Pro-athletes-as-star-exemplars "Pro athletes as star exemplars")
 
 [Prosperity
 
@@ -140,11 +140,11 @@ More
 
 Monitor Daily
 
-September 19, 2024
+September 20, 2024
 
-A collision of hate and love
+Who is responsible for climate change?
 
-Nothing serves journalism better than being there, reporting with a sense of place, and speaking with people whose stories have yet to be told. We have a story today from Springfield, Ohio, on the effect of recanted charges of aberrant behavior – claims that have led to the political demonization of a community. Claims that have hurt people – mostly legal residents on Temporary Protected Status and those around them. It’s another deftly executed Monitor piece by a careful writer. It showcases not only the indiscriminate effects of hate and fear – mental terrorism, really – but also the agency of those who are responding with love.
+What stands out to me about today’s story by Taylor Luck and Erika Page is how effectively they explore the matter of responsibility in climate change. They avoid the scolding tone or simplistic blame game that so often tempts the media. But their story raises hard questions. In Tunisia, families desperate to stay in the rural communities they love are no longer able to eke out a living from the parched dirt.Who is responsible for fixing that? Climate change is a new kind of challenge, because the responsibility is collective and the solution is collective. There is no lack of ways forward. But they all begin with a more honest sense of responsibility, both as individuals and in a way that transcends borders.
 
 [Listen to or read today's issue](https://www.csmonitor.com/Daily)
 
@@ -158,11 +158,11 @@ Regions
 
 Recent Stories
 
+[### Hezbollah and Israel exchange hundreds of missiles in worst conflict since 2006 war](https://www.csmonitor.com/World/Middle-East/2024/0920/Israel-Beirut-Hezbollah-strikes-explosions "Hezbollah and Israel exchange hundreds of missiles in worst conflict since 2006 war")
+
 [### What a Tunisian exodus says about the future of global migration](https://www.csmonitor.com/World/Middle-East/2024/0920/climate-migration-inequality-Tunisia "What a Tunisian exodus says about the future of global migration")
 
 [### Why Shohei Ohtani may have just passed Babe Ruth as the greatest baseball player ever](https://www.csmonitor.com/USA/2024/0920/shohei-ohtani-50-50-LA-dodgers-record "Why Shohei Ohtani may have just passed Babe Ruth as the greatest baseball player ever")
-
-[### Why Putin’s nuclear saber-rattling on Ukraine sounds different this time](https://www.csmonitor.com/World/Europe/2024/0919/putin-ukraine-war-russia-nuclear-war-ww3 "Why Putin’s nuclear saber-rattling on Ukraine sounds different this time")
 
 * * *
 
