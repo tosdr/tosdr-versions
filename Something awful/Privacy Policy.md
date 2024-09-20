@@ -205,26 +205,25 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [Mohammad Said al-Sahaf tells it how it is](https://www.somethingawful.com/comedy-goldmine/mohammad-said-alsahaf/1/)
-* [MSpaint cartoon characters dealing with serious, frightening issues, Part I](https://www.somethingawful.com/comedy-goldmine/mspaint-cartoon-characters/1/)
-* [Adding Violence To Nonviolent Video Games](https://www.somethingawful.com/comedy-goldmine/adding-violence-nonviolent/1/)
-* [Movie Combinations that were Never Meant to Be...](https://www.somethingawful.com/comedy-goldmine/movie-combinations-that/1/)
-* [History's Worst Weapons!](https://www.somethingawful.com/comedy-goldmine/historys-worst-weapons/1/)
+* [MS Paint Dudes Flash the D at Ghosts! (NWS!)](https://www.somethingawful.com/comedy-goldmine/mspaint-ghost-dick/1/)
+* [The War for Lake Michigan](https://www.somethingawful.com/news/lake-michigan-war/1/)
+* [Rio; Your Highness; Hanna; Arthur](https://www.somethingawful.com/current-movie-reviews/rio-your-highness/1/)
+* [I Hate You Page 01](https://www.somethingawful.com/cliff-yablonski/i-hate-you-01/)
+* [International Male](https://www.somethingawful.com/fashion-swat/international-male/1/)
 
 ### Popular Threads
 
-* ![](https://fi.somethingawful.com/forums/posticons/tails.gif) [:bighow: smilie](http://forums.somethingawful.com/showthread.php?threadid=4070734 ":bighow: smilie")
-* ![](https://fi.somethingawful.com/forums/posticons/icons-08/whine.png) [Types of Walkers I Hate](http://forums.somethingawful.com/showthread.php?threadid=4070800 "Types of Walkers I Hate")
 * ![](https://fi.somethingawful.com/forums/posticons/icons-08/drugs.png) [FREE CANDY](http://forums.somethingawful.com/showthread.php?threadid=4070796 "FREE CANDY")
+* ![](https://fi.somethingawful.com/forums/posticons/icons-08/whine.png) [Types of Walkers I Hate](http://forums.somethingawful.com/showthread.php?threadid=4070800 "Types of Walkers I Hate")
 * ![](https://fi.somethingawful.com/forums/posticons/tviv-competition.gif) [Have there been any famous SA goons?](http://forums.somethingawful.com/showthread.php?threadid=4070782 "Have there been any famous SA goons?")
 
 ### Random Articles
 
-* [The Dark Hearted Realm](https://www.somethingawful.com/awful-links/awful-link-1542/)
-* [The Bitterest Soup: Part 2](https://www.somethingawful.com/news/bitterest-soup-part-2/)
-* [Condor](https://www.somethingawful.com/movie-reviews/condor/1/)
-* [The World According To ME!!](https://www.somethingawful.com/awful-links/awful-link-852/)
-* [The 26 Most Awful Toys from China](https://www.somethingawful.com/most-awful/most-awful-china/1/)
+* [Paul Ryan's "Insane" Workout Routine](https://www.somethingawful.com/news/p90x-ryan-romney/)
+* [MERRY CHRISTMAS FROM THE KING OF KASH](https://www.somethingawful.com/news/merry-christmas-from/)
+* [The NASCAR Russet Potato Challenge](https://www.somethingawful.com/news/nascar-russet-potato/)
+* [Appease a Centipede](https://www.somethingawful.com/news/appease-a-centipede/)
+* [Oh My God, It's Full of Junk!](https://www.somethingawful.com/news/oh-my-god/)
 
 [Random!](https://www.somethingawful.com/random/)
 
