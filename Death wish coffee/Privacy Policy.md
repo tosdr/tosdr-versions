@@ -2,8 +2,6 @@
 
  
 
-PLACE ANY ORDER ON 9/19 FOR A CHANCE TO WIN 1 OF 12 GOLDEN TICKET MUGS
-
 [SPEND $75 & BE ONE OF THE FIRST TO TRY OUR LATEST ROAST FOR FREE](https://www.deathwishcoffee.com/pages/light-roast)
 
      
