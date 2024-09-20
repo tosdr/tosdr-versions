@@ -293,25 +293,25 @@ Sponsor may conduct a background check to confirm any potential winner’s eligi
 Top of Today
 ------------
 
-1. [![Jason Carlson, Sherell Allen and Luke Anaya](https://am23.mediaite.com/lc/cnt/uploads/2024/09/Jason-Carlson-Sherell-Allen-and-Luke-Anaya-432x243.jpg)](https://lawandcrime.com/crime/men-attacked-roommate-with-rock-salt-loaded-airsoft-guns-kept-him-captive-for-14-hours-while-beating-him-with-bat-crow-bar-cops/)
+1. [![Inset: Todd A. Morgan (Heritage Life Story Funeral Homes). Background: Terreionna Paschal in court (WKYC).](https://am23.mediaite.com/lc/cnt/uploads/2024/09/ohiomurder-1-432x243.jpg)](https://lawandcrime.com/crime/died-for-nothing-woman-learns-fate-after-admitting-to-killing-professor-and-father-of-2-she-met-on-app/)
     
-    ### [Men attacked roommate with rock salt loaded airsoft guns, kept him captive for 14 hours while beating him with bat, crow bar: Cops](https://lawandcrime.com/crime/men-attacked-roommate-with-rock-salt-loaded-airsoft-guns-kept-him-captive-for-14-hours-while-beating-him-with-bat-crow-bar-cops/)
+    ### ['Died for nothing': Woman learns fate after admitting to killing professor and father of 2 she met on app](https://lawandcrime.com/crime/died-for-nothing-woman-learns-fate-after-admitting-to-killing-professor-and-father-of-2-she-met-on-app/)
     
-2. [![Inset: Johnathan James Willette (Affordable Cremation & Burial Service). Background: Devyn Michaels in court (KLAS).](https://am24.mediaite.com/lc/cnt/uploads/2024/09/vegasmurder-432x243.jpg)](https://lawandcrime.com/crime/woman-accused-of-decapitating-ex-boyfriend-and-tossing-his-head-in-the-trash-makes-plea-deal/)
+2. [![Rudy Giuliani NYC apartment](https://am21.mediaite.com/lc/cnt/uploads/2024/06/AP23235450331097-432x243.jpg)](https://lawandcrime.com/high-profile/forensic-financial-firm-insists-rudy-giuliani-is-on-another-bad-faith-crusade-to-avoid-paying-bankruptcy-related-tab/)
     
-    ### [Woman accused of decapitating ex-boyfriend and tossing his head in the trash makes plea deal](https://lawandcrime.com/crime/woman-accused-of-decapitating-ex-boyfriend-and-tossing-his-head-in-the-trash-makes-plea-deal/)
+    ### ['Specialized' forensic financial advisor insists Rudy Giuliani 'got an incredible deal' and is on 'another baseless and bad faith crusade' to avoid paying up](https://lawandcrime.com/high-profile/forensic-financial-firm-insists-rudy-giuliani-is-on-another-bad-faith-crusade-to-avoid-paying-bankruptcy-related-tab/)
     
 3. [![Peyton Stewart, Deslyn Williams, Asha Weir, Niamh Rolston, Fraser Michael Bohm](https://am23.mediaite.com/lc/cnt/uploads/2023/10/Pepperdine-432x243.jpg)](https://lawandcrime.com/lawsuit/parents-of-sorority-sisters-and-college-seniors-killed-while-walking-along-dead-mans-curve-by-alleged-speeding-bmw-driver-are-now-suing-california/)
     
     ### [Parents of sorority sisters and college seniors killed while walking along 'Dead Man's Curve' by alleged speeding BMW driver are now suing California](https://lawandcrime.com/lawsuit/parents-of-sorority-sisters-and-college-seniors-killed-while-walking-along-dead-mans-curve-by-alleged-speeding-bmw-driver-are-now-suing-california/)
     
-4. [![Haley Ryan appears in two mugshots](https://am23.mediaite.com/lc/cnt/uploads/2024/09/Haley-Ryan-1-432x243.jpg)](https://lawandcrime.com/crime/mother-lightly-sentenced-over-disturbing-video-apparently-showing-her-screaming-at-and-hitting-months-old-baby-boy-in-crib/)
+4. [![Background: In this image taken from video released by the National Transportation and Safety Board, the cargo ship Dali is stuck under part of the structure of the Francis Scott Key Bridge after the ship hit the bridge, Tuesday, March 26, 2024, in Baltimore (NTSB via AP). Inset top: Cargo chain turnbuckle, welded to angle iron, and wedged between the number 1 step-down transformer and steel beam (DOJ court filing). Inset bottom: Cracked steel bracked with weld repair at the number 1 step-down transformer (DOJ court filing).](https://am22.mediaite.com/lc/cnt/uploads/2024/09/Dali-Francis-Scott-Key-bridge-432x243.jpg)](https://lawandcrime.com/lawsuit/cargo-ship-that-knocked-down-francis-scott-key-bridge-was-jury-rigged-with-makeshift-attempts-to-cover-dangerous-conditions-lawsuit/)
     
-    ### [Mother lightly sentenced over 'disturbing' video apparently showing her ‘screaming at and hitting’ months-old baby boy in crib](https://lawandcrime.com/crime/mother-lightly-sentenced-over-disturbing-video-apparently-showing-her-screaming-at-and-hitting-months-old-baby-boy-in-crib/)
+    ### [Cargo ship that knocked down Francis Scott Key Bridge was ‘jury-rigged’ with ‘makeshift’ attempts to cover dangerous conditions: Lawsuit](https://lawandcrime.com/lawsuit/cargo-ship-that-knocked-down-francis-scott-key-bridge-was-jury-rigged-with-makeshift-attempts-to-cover-dangerous-conditions-lawsuit/)
     
-5. [![Daman Smith peeping tom](https://am24.mediaite.com/lc/cnt/uploads/2024/09/Damon-Smith-432x243.jpg)](https://lawandcrime.com/crime/i-got-something-for-you-angry-florida-dad-with-baseball-bat-chases-michael-myers-t-shirt-wearing-peeping-tom-peering-into-daughters-bedroom-window-cops-say/)
+5. [![Fani Willis, on the left; Judge Rachel Krause, in the center, Ashleigh Merchant, on the right.](https://am22.mediaite.com/lc/cnt/uploads/2024/09/Willis-Krause-Merchant-432x243.jpg)](https://lawandcrime.com/high-profile/im-tired-of-listening-hearing-related-to-trump-rico-case-goes-off-the-rails-as-judge-says-i-can-read-and-upbraids-both-witness-and-attorney/)
     
-    ### ['I got something for you:' Angry Florida dad with baseball bat chases Michael Myers T-shirt-wearing peeping Tom peering into daughter's bedroom window, cops say](https://lawandcrime.com/crime/i-got-something-for-you-angry-florida-dad-with-baseball-bat-chases-michael-myers-t-shirt-wearing-peeping-tom-peering-into-daughters-bedroom-window-cops-say/)
+    ### ['I'm tired of listening': Hearing related to Trump RICO case goes off the rails as judge says 'I can read' and upbraids both witness and attorney](https://lawandcrime.com/high-profile/im-tired-of-listening-hearing-related-to-trump-rico-case-goes-off-the-rails-as-judge-says-i-can-read-and-upbraids-both-witness-and-attorney/)
     
 
 [](http://eepurl.com/c89Jdb)
