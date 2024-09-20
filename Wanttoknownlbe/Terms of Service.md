@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/gezondheid/vaccinaties-gezondheid/een-onthutsende-waarheid-over-griepvaccinaties/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/nieuws/help-deze-dolfijnen-avaaz-actie/ "Feeling Lucky? »")
 
 Algemene voorwaarden WantToKnow aanbiedingen
 ============================================
