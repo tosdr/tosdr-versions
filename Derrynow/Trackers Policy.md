@@ -282,13 +282,6 @@ Bishop Alphonsus Cullinan, chair of the Bishops' Council for Vocations, with sem
 [PICTURES: All smiles as the school year begins at St Brigid's Primary School](https://www.derrynow.com/news/pictures---videos/1609000/pictures-all-smiles-as-the-school-year-begins-at-st-brigid-s-primary-school.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Derry Death Notices - Monday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Monday")](https://www.derrynow.com/news/deaths/1608384/derry-death-notices-thursday-19th-september-2024.html)
-
-[Deaths](https://www.derrynow.com/section/977/deaths)
-
-[Derry Death Notices - Thursday, 19th September 2024](https://www.derrynow.com/news/deaths/1608384/derry-death-notices-thursday-19th-september-2024.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------
-
 [![Derry man admits ramming two police vehicles and injuring seven police officers jailed](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry man admits ramming two police vehicles and injuring seven police officers jailed")](https://www.derrynow.com/news/local-news/1609113/derry-man-admits-ramming-two-police-vehicles-and-injuring-seven-police-officers-jailed.html)
 
 Derry Court
@@ -305,13 +298,6 @@ Derry Court
 [Man arrested in Derry search operation into INLA drug criminality](https://www.derrynow.com/news/local-news/1609376/man-arrested-in-derry-search-operation-into-inla-drug-criminality.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Derry man (21) charged with number of drugs offences](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry man (21) charged with number of drugs offences")](https://www.derrynow.com/news/local-news/1608957/derry-man-21-charged-with-number-of-drugs-offences.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Derry man (21) charged with number of drugs offences](https://www.derrynow.com/news/local-news/1608957/derry-man-21-charged-with-number-of-drugs-offences.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 [![Man who faces immediate deportation upon release from prison jailed for bringing drugs valued up to £40,000 from Belfast to Derry](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man who faces immediate deportation upon release from prison jailed for bringing drugs valued up to £40,000 from Belfast to Derry")](https://www.derrynow.com/news/local-news/1609048/man-who-faces-immediate-deportation-upon-release-from-prison-jailed-for-bringing-drugs-valued-up-to-40-000-from-belfast-to-derry.html)
 
 Derry Crown Court
@@ -321,12 +307,26 @@ Derry Crown Court
 [Man who faces immediate deportation upon release from prison jailed for bringing drugs valued up to £40,000 from Belfast to Derry](https://www.derrynow.com/news/local-news/1609048/man-who-faces-immediate-deportation-upon-release-from-prison-jailed-for-bringing-drugs-valued-up-to-40-000-from-belfast-to-derry.html)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+[![Derry man (21) charged with number of drugs offences](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry man (21) charged with number of drugs offences")](https://www.derrynow.com/news/local-news/1608957/derry-man-21-charged-with-number-of-drugs-offences.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Derry man (21) charged with number of drugs offences](https://www.derrynow.com/news/local-news/1608957/derry-man-21-charged-with-number-of-drugs-offences.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 [![Derry man charged with possession of thousands of pounds worth of drugs remanded](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry man charged with possession of thousands of pounds worth of drugs remanded")](https://www.derrynow.com/news/local-news/1609057/derry-man-charged-with-possession-of-thousands-of-pounds-worth-of-drugs-remanded.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
 
 [Derry man charged with possession of thousands of pounds worth of drugs remanded](https://www.derrynow.com/news/local-news/1609057/derry-man-charged-with-possession-of-thousands-of-pounds-worth-of-drugs-remanded.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Former Sinn Fein press officer charged with sex offences fails to appear in court](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Former Sinn Fein press officer charged with sex offences fails to appear in court")](https://www.derrynow.com/news/local-news/1609021/former-sinn-fein-press-officer-charged-with-sex-offences-fails-to-appear-in-court.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Former Sinn Fein press officer charged with sex offences fails to appear in court](https://www.derrynow.com/news/local-news/1609021/former-sinn-fein-press-officer-charged-with-sex-offences-fails-to-appear-in-court.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![23-year-old Derry man charged to court for drug related offences](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "23-year-old Derry man charged to court for drug related offences")](https://www.derrynow.com/news/local-news/1608845/23-year-old-derry-man-charged-to-court-for-drug-related-offences.html)
 
@@ -519,7 +519,23 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
-[![Clonmany crash victim Michael Toland to be laid to rest on Saturday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Clonmany crash victim Michael Toland to be laid to rest on Saturday")](https://www.derrynow.com/news/local-news/1609408/clonmany-crash-victim-michael-toland-to-be-laid-to-rest-on-saturday.html)
+[![Police in Derry charge 25-year-old man with number of drugs offences](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Police in Derry charge 25-year-old man with number of drugs offences")](https://www.derrynow.com/news/local-news/1609669/police-in-derry-charge-25-year-old-man-with-number-of-drugs-offences.html)
+
+PSNI
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Police in Derry charge 25-year-old man with number of drugs offences](https://www.derrynow.com/news/local-news/1609669/police-in-derry-charge-25-year-old-man-with-number-of-drugs-offences.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Derry Death Notices - Friday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Friday")](https://www.derrynow.com/news/deaths/1609403/derry-death-notices-friday-20th-september-2024.html)
+
+[Deaths](https://www.derrynow.com/section/977/deaths)
+
+[Derry Death Notices - Friday, 20th September 2024](https://www.derrynow.com/news/deaths/1609403/derry-death-notices-friday-20th-september-2024.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Clonmany crash victim Michael Toland to be laid to rest on Saturday](https://www.derrynow.com/resizer/165/93/true/2024_09_19/Donegal_Live_image-1726760413823.png--.png?1726760413894 "Clonmany crash victim Michael Toland to be laid to rest on Saturday")](https://www.derrynow.com/news/local-news/1609408/clonmany-crash-victim-michael-toland-to-be-laid-to-rest-on-saturday.html)
 
 Gardai at the scene of the fatal collision where Michael Toland (inset) lost his life. (North West Newspix)
 
@@ -528,7 +544,7 @@ Gardai at the scene of the fatal collision where Michael Toland (inset) lost his
 [Clonmany crash victim Michael Toland to be laid to rest on Saturday](https://www.derrynow.com/news/local-news/1609408/clonmany-crash-victim-michael-toland-to-be-laid-to-rest-on-saturday.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![ERG thanks community of Dungiven for attending public consultation](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "ERG thanks community of Dungiven for attending public consultation")](https://www.derrynow.com/news/home/1609375/erg-thanks-community-of-dungiven-for-attending-public-consultation.html)
+[![ERG thanks community of Dungiven for attending public consultation](https://www.derrynow.com/resizer/165/93/true/2024_09_19/ERG_team_members_at_the_public_consultation-1726760962830.jpg--.jpg?1726760965068 "ERG thanks community of Dungiven for attending public consultation")](https://www.derrynow.com/news/home/1609375/erg-thanks-community-of-dungiven-for-attending-public-consultation.html)
 
 ERG team members at the public consultation.
 
@@ -552,24 +568,6 @@ Kit Cassingham and Dr Richard Namikas complete their walk from Belfast to Derry
 
 [Man arrested in Derry search operation into INLA drug criminality](https://www.derrynow.com/news/local-news/1609376/man-arrested-in-derry-search-operation-into-inla-drug-criminality.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Maghera family has ‘no confidence’ in ICRIR to probe allegations of collusion in murder](https://www.derrynow.com/resizer/165/93/true/2018/01/18132133/Fergal-McCusker.jpg--.jpg "Maghera family has ‘no confidence’ in ICRIR to probe allegations of collusion in murder")](https://www.derrynow.com/news/home/1609371/maghera-family-has-no-confidence-in-icrir-to-probe-allegations-of-collusion-in-murder.html)
-
-Fergal McCusker was killed at the back of a youth club on January 18, 1998.
-
-[Home](https://www.derrynow.com/)
-
-[Maghera family has ‘no confidence’ in ICRIR to probe allegations of collusion in murder](https://www.derrynow.com/news/home/1609371/maghera-family-has-no-confidence-in-icrir-to-probe-allegations-of-collusion-in-murder.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Mid Ulster Walking for Wellness](https://www.derrynow.com/resizer/165/93/true/2024_09_19/Pic_2-1726751296272_1726751414.jpg--.jpg?1726751414800 "Mid Ulster Walking for Wellness")](https://www.derrynow.com/news/home/1609133/walking-and-talking-has-taken-off-in-mid-ulster.html)
-
-Mid Ulster Walking for Wellness
-
-[Home](https://www.derrynow.com/)
-
-[‘Walking and talking’ has taken off in Mid Ulster](https://www.derrynow.com/news/home/1609133/walking-and-talking-has-taken-off-in-mid-ulster.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
