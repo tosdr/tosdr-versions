@@ -273,17 +273,17 @@ This field is for validation purposes and should be left unchanged.
 
 #### Frequently Asked Questions
 
-[![What lung cancer is caused by asbestos?](https://www.pintas.com/wp-content/uploads/2020/04/lung-cancer-what-lung-cancer-is-caused-by-asbestos.jpg "What Lung Cancer Is Caused By Asbestos?")](https://www.pintas.com/lung-cancer/what-lung-cancer-is-caused-by-asbestos/ "What Lung Cancer Is Caused By Asbestos?")
+[![Suing for abuse at assisted living facilities](https://www.pintas.com/wp-content/uploads/2021/03/practice-areas-personal-injury-nursing-home-abuse-lawyer-can-i-sue-someone-personally-for-the-abuse-and-neglect-of-a-loved-one-at-an-assisted-living-facility-300x200.jpg "Suing for Abuse at Assisted Living Facilities")](https://www.pintas.com/faq/can-i-sue-someone-personally-for-the-abuse-and-neglect-of-a-loved-one-at-an-assisted-living-facility/ "Suing for Abuse at Assisted Living Facilities")
 
-[#### What Lung Cancer Is Caused By Asbestos?](https://www.pintas.com/lung-cancer/what-lung-cancer-is-caused-by-asbestos/)
+[#### Suing for Abuse at Assisted Living Facilities](https://www.pintas.com/faq/can-i-sue-someone-personally-for-the-abuse-and-neglect-of-a-loved-one-at-an-assisted-living-facility/)
 
-[![What happens if a hip fracture goes untreated?](https://www.pintas.com/wp-content/uploads/2020/09/nursing-home-abuse-lawyer-what-happens-if-a-hip-fracture-goes-untreated-scaled.jpg "What Happens If a Hip Fracture Goes Untreated?")](https://www.pintas.com/faq/what-happens-if-a-hip-fracture-goes-untreated/ "What Happens If a Hip Fracture Goes Untreated?")
+[![How long can you live with asbestosis?](https://www.pintas.com/wp-content/uploads/2020/02/lung-cancer-how-long-can-you-live-with-asbestosis.jpg "How Long Can You Live With Asbestosis?")](https://www.pintas.com/lung-cancer/how-long-can-you-live-with-asbestosis/ "How Long Can You Live With Asbestosis?")
 
-[#### What Happens If a Hip Fracture Goes Untreated?](https://www.pintas.com/faq/what-happens-if-a-hip-fracture-goes-untreated/)
+[#### How Long Can You Live With Asbestosis?](https://www.pintas.com/lung-cancer/how-long-can-you-live-with-asbestosis/)
 
-[![What is worse, asbestos or smoking?](https://www.pintas.com/wp-content/uploads/2020/04/lung-cancer-what-is-worse-asbestos-or-smoking.jpg "What Is Worse, Asbestos or Smoking?")](https://www.pintas.com/practice-areas/lung-cancer/what-is-worse-asbestos-or-smoking/ "What Is Worse, Asbestos or Smoking?")
+[![Is malnutrition common in seniors with dementia?](https://www.pintas.com/wp-content/uploads/2021/03/elderly-woman-with-a-memory-problem-300x169.jpg "Is Malnutrition Common in Seniors with Dementia?")](https://www.pintas.com/faq/is-malnutrition-common-in-seniors-with-dementia/ "Is Malnutrition Common in Seniors with Dementia?")
 
-[#### What Is Worse, Asbestos or Smoking?](https://www.pintas.com/practice-areas/lung-cancer/what-is-worse-asbestos-or-smoking/)
+[#### Is Malnutrition Common in Seniors with Dementia?](https://www.pintas.com/faq/is-malnutrition-common-in-seniors-with-dementia/)
 
 ### Injured?  
 Tell Us What Happened.
@@ -306,7 +306,7 @@ message
 
 Yes. Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. They may contact me by email or telephone (including phone calls, text messages, autodialed / auto-selected or pre-recorded calls). I understand that message and data rates may apply and that consent to such contact is not required for use of these services. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/), [Anti Fraud Policy](https://www.pintas.com/anti-fraud-policy/) and [online Terms](https://www.pintas.com/website-terms-of-use/), including its mandatory arbitration provision.
 
-Comments
+Name
 
 This field is for validation purposes and should be left unchanged.
 
