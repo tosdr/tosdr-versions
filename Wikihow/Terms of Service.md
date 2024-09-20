@@ -390,25 +390,23 @@ This Agreement was last modified on 4, December 2012.
 
 ### Featured Articles
 
+[![Gyatt Meaning](https://www.wikihow.com/images/thumb/6/69/Gyatt-Meaning-Step-11.jpg/-crop-126-120-126px-Gyatt-Meaning-Step-11.jpg)
+
+What Does “GYATT” Mean? Plus, When & How to Use It](https://www.wikihow.com/Gyatt-Meaning)
+
+[![Order at Starbucks](https://www.wikihow.com/images/thumb/d/db/Order-at-Starbucks-Step-16-Version-2.jpg/-crop-126-120-126px-Order-at-Starbucks-Step-16-Version-2.jpg)
+
+How to  
+Order at Starbucks](https://www.wikihow.com/Order-at-Starbucks)
+
+[![Anger Issues Test](https://www.wikihow.com/images/thumb/b/b4/Anger_issues_quiz_image.png/-crop-126-120-126px-Anger_issues_quiz_image.png)
+
+Anger Issues Test](https://www.wikihow.com/Anger-Issues-Test)
+
 [![Take a Mirror Selfie](https://www.wikihow.com/images/thumb/0/0b/Take-a-Mirror-Selfie-Step-15.jpg/-crop-126-120-126px-Take-a-Mirror-Selfie-Step-15.jpg)
 
 How to  
 Frame and Pose for a Mirror Selfie](https://www.wikihow.com/Take-a-Mirror-Selfie)
-
-[![Survive a Bear Attack](https://www.wikihow.com/images/thumb/d/d9/Survive-a-Bear-Attack-Step-10-Version-5.jpg/-crop-126-120-126px-Survive-a-Bear-Attack-Step-10-Version-5.jpg)
-
-How to  
-Survive a Bear Attack](https://www.wikihow.com/Survive-a-Bear-Attack)
-
-[![Transition from Dating to Relationship](https://www.wikihow.com/images/thumb/9/9a/Transition-from-Dating-to-Relationship-Step-18.jpg/-crop-126-120-126px-Transition-from-Dating-to-Relationship-Step-18.jpg)
-
-How to  
-Go From Casual Dating to Being In an Exclusive Relationship](https://www.wikihow.com/Transition-from-Dating-to-Relationship)
-
-[![Get to Know Yourself](https://www.wikihow.com/images/thumb/2/28/Get-to-Know-Yourself-Step-14.jpg/-crop-126-120-126px-Get-to-Know-Yourself-Step-14.jpg)
-
-How to  
-Get to Know Yourself: A Guide to Self-Discovery](https://www.wikihow.com/Get-to-Know-Yourself)
 
   
 
@@ -451,4 +449,4 @@ Follow Us
 
 ![](https://sb.scorecardresearch.com/p?c1=2&c2=8003466&cv=3.9.1&cj=1)
 
-172
+189
