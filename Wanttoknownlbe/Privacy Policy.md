@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/nieuws/ons-immuunsysteem-de-beste-kankerbestrijder/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/inspiratie/meelezen/waar-zat-robert-boerman-al-die-tijd/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
