@@ -26,7 +26,7 @@ Brisk's Tools
 
 Plans
 
-[Brisk's Plans](https://www.briskteaching.com/plans)[Brisk for Schools and Districts](#)
+[Brisk's Plans](https://www.briskteaching.com/plans)[Brisk for Schools & Districts](https://www.briskteaching.com/schools-and-districts)
 
 [Plans](https://www.briskteaching.com/plans)
 
