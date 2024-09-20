@@ -133,6 +133,6 @@ These Terms will be governed by and construed in accordance with the laws of the
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-Thank you for resolving this so quickly.
+I have had a proxy account with FoxyProxy each year for the past 5 or 6 years and have always been extremely satisfied. As a result of this I will definitely be setting up a new account in around 6 months time.
 
-Johnson Samuel
+Michael Dally
