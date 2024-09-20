@@ -3,7 +3,7 @@
 * [Blog](https://mynextpay.ca/blog/)
 * [Français](https://mynextpay.ca/fr)
 
-[![Mynextpay](https://mynextpay.ca/wp-content/uploads/2024/08/logo_mynextpays-3.png)](https://mynextpay.ca/)
+[![Mynextpay](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzNTAiIGhlaWdodD0iOTQiIHZpZXdCb3g9IjAgMCAzNTAgOTQiPjxyZWN0IHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIHN0eWxlPSJmaWxsOiNjZmQ0ZGI7ZmlsbC1vcGFjaXR5OiAwLjE7Ii8+PC9zdmc+)](https://mynextpay.ca/)
 
 * [Credit Know-how](#)
     * [Payday Loans](https://mynextpay.ca/payday-loans/)
