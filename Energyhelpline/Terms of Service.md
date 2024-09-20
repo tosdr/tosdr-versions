@@ -1,5 +1,3 @@
-This website uses cookies to ensure you get the best experience on our website. [Find out more.](https://www.energyhelpline.com/terms/) Okay
-
 [![](/images/logos/logo-blue.svg)](https://www.energyhelpline.com/)
 
 ![](/images/logos/logo-blue.svg)
