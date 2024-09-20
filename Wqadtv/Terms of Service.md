@@ -56,9 +56,9 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/97bc9ff7-3d09-4a76-beba-d82f65f7e811/20240919T213205/97bc9ff7-3d09-4a76-beba-d82f65f7e811_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/97bc9ff7-3d09-4a76-beba-d82f65f7e811/20240919T213205/97bc9ff7-3d09-4a76-beba-d82f65f7e811_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/1f3c163d-f76d-4941-b33a-41aa3f493833/20240920T121509/1f3c163d-f76d-4941-b33a-41aa3f493833_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/1f3c163d-f76d-4941-b33a-41aa3f493833/20240920T121509/1f3c163d-f76d-4941-b33a-41aa3f493833_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
-        #### [Chance of storms later tonight](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+        #### [More rainfall opportunities ahead this weekend](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
     *  [![](https://media.tegna-media.com/assets/WQAD/images/daaebd14-c02f-4777-982b-67701e0d036f/20240918T134904/daaebd14-c02f-4777-982b-67701e0d036f_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/daaebd14-c02f-4777-982b-67701e0d036f/20240918T134904/daaebd14-c02f-4777-982b-67701e0d036f_360x203.jpg)](https://www.wqad.com/video/news/live_breaking/ask-andrew-live-episode-1/526-edcd839a-9189-4088-800e-a5cf184394ab)
         
@@ -86,9 +86,9 @@ Navigation
 
 Davenport, IA »
 
-69°
+83°
 
-![Clear](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
+![Sunny](/assets/shared-images/weather-icons/clear-day_210x210.png)
 
 Davenport, IA »](https://www.wqad.com/weather)
 
