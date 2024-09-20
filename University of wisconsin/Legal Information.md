@@ -1,6 +1,6 @@
 [Skip to main content](#main)
 
-[W crest logo for the university](https://www.wisc.edu/)
+[University of Wisconsin–Madison](https://www.wisc.edu/)
 
 Menumenuclose
 
