@@ -16,6 +16,7 @@ Please click on the links below to review the specific privacy notice that appl
 * [Commercial Lines - including Surety](https://www.libertymutualgroup.com/general/about-lm/corporate-information/commercial-lines)
 * [State Auto Business Lines](https://www.libertymutualgroup.com/general/about-lm/corporate-information/state-auto-privacy-notices)
 * [Liberty Mutual Bermuda](https://www.libertymutualgroup.com/general/about-lm/corporate-information/liberty-mutual-bermuda)
+* [Canada Privacy Notice](https://www.libertymutualcanada.com/legal-notices/privacy-policy/) 
 * [Specialty Lines - including Ironshore & Equine](https://www.libertymutualgroup.com/general/about-lm/corporate-information/specialty-lines)
 * [Comparion Insurance](https://www.comparioninsurance.com/privacy-policy)
 * [Website and Mobile Application Privacy Notice](https://www.libertymutualgroup.com/general/about-lm/corporate-information/website-and-mobile-data-privacy)
