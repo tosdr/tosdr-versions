@@ -18,7 +18,29 @@ Loading...
 
 Loading...
 
-Loading...
+Upcoming Courses
+
+[View All Courses »](https://www.atlasobscura.com/online-courses)
+
+   [![](https://img.atlasobscura.com/qsjldIj5qK07gCdxw2VOKvN5GgtIYtyj4-JQNok_A0M/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2V4cGVy/aWVuY2Vfc2VyaWVz/X2ltYWdlcy80MTk1/ZDlmYi01M2Q2LTQ4/NzYtYjZiOS1kZWVl/YTU5YTllMGNhNDE0/MTY4MTE2OTZiMWQ0/OWNfSU1HXzk3NjAu/anBn.jpg)
+
+In Deep: Life at the Bottom of the Ocean With Dr. Sarah McAnulty](https://www.atlasobscura.com/experiences/deep-sea-course)
+
+   [![](https://img.atlasobscura.com/mw6XQrcvv8bED55hweNZfTLYB7myt__AO5BFAUThhZg/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2V4cGVy/aWVuY2Vfc2VyaWVz/X2ltYWdlcy8zMmU3/OTA4NS1jNGMyLTQ3/MWYtOGEyNy04M2I3/ODY2MmRhM2ZjYzkz/MmIxMjg4NTkzM2I4/OTdfUnViU3VtbWVy/UGxheS00Mi5qcGc.jpg)
+
+How to Make a Murder: Writing Your Own Murder Mystery Party With Abi Inman](https://www.atlasobscura.com/experiences/murder-mystery-party-online-course)
+
+   [![](https://img.atlasobscura.com/-BHb2cg8f71hNJMoFtoio8UWnFrrWIAo4TK6498kLU0/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2V4cGVy/aWVuY2Vfc2VyaWVz/X2ltYWdlcy80ZTJh/ZTZjNS1iYzgzLTQx/N2YtOWRiNC1mOGNm/NmNjYWE4YmEwY2E3/YzQ5Yzk2MDUxYzlj/YWZfSU1HXzI0NzQu/anBn.jpg)
+
+Stories in the Stones: How to Read a Gravestone With Dr. Elise M. Ciregna](https://www.atlasobscura.com/experiences/gravestone-reading-online-course)
+
+   [![](https://img.atlasobscura.com/oteCwywQUV_z7ByuIyJNpVBM8xr7Fl_GCkrW3rCKXIM/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2V4cGVy/aWVuY2Vfc2VyaWVz/X2ltYWdlcy8yZWZl/Y2ZhYS1mZTQ2LTQ3/YmEtOWYyZi1jMDQz/YmI2ODY0NGUwMmYz/ZTU5ZjMzZWZhNjE3/YTFfYW5pdGEtamFu/a292aWMtbTVvRnp6/cmNLd2MtdW5zcGxh/c2guanBn.jpg)
+
+Historical Nonfiction: Research-Based Writing With Hadley Meares](https://www.atlasobscura.com/experiences/writing-history-online-course)
+
+   [![](https://img.atlasobscura.com/PphIsMY6kFPUrMlyHCOlsqf35AYxwM6NF5sLKhzKWY0/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2V4cGVy/aWVuY2Vfc2VyaWVz/X2ltYWdlcy9kZWM3/OWU0NS1mZGIxLTQ3/YjMtYjZhMS1hNGIy/ZDMxODRkOTE2ZWI3/ZTc3ZTBkN2I0ZmFm/MmZfY2hhbmRyYW1v/dWxpLWJha3VsYXBh/bGx5LTk4ZFlvS1BK/ZWF3LXVuc3BsYXNo/LmpwZw.jpg)
+
+How The Living See The Dead: Comparative Thanatology With Dânia Rodrigues](https://www.atlasobscura.com/experiences/thanatology-course)
 
 Loading...
 
