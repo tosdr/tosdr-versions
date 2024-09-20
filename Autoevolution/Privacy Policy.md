@@ -39,9 +39,9 @@ editorial \_
 
 coverstory \_
 
-[![1976 Pontiac Trans Am 455 With 23k Miles Has Too Many Haters (It's Probably the Price)](https://s1.cdn.autoevolution.com/images/news/1976-pontiac-trans-am-455-with-23k-miles-has-too-many-haters-it-s-probably-the-price-240043-5.jpg "1976 Pontiac Trans Am 455 With 23k Miles Has Too Many Haters (It's Probably the Price)")
+[![Three Into One Doesn't Go: Who Are the Main Contenders for the Second Sauber F1 Seat](https://s1.cdn.autoevolution.com/images/news/three-into-one-doesn-t-go-who-are-the-main-contenders-for-the-second-sauber-f1-seat-240018-5.jpg "Three Into One Doesn't Go: Who Are the Main Contenders for the Second Sauber F1 Seat")
 
-1976 Pontiac Trans Am 455 With 23k Miles Has Too Many Haters (It's Probably the Price)](https://www.autoevolution.com/news/1976-pontiac-trans-am-455-with-23k-miles-has-too-many-haters-it-s-probably-the-price-240043.html)
+Three Into One Doesn't Go: Who Are the Main Contenders for the Second Sauber F1 Seat](https://www.autoevolution.com/news/three-into-one-doesn-t-go-who-are-the-main-contenders-for-the-second-sauber-f1-seat-240018.html)
 
 how-to \_
 
