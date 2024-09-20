@@ -41,47 +41,71 @@
 * [Newsletter](https://subscribe.women.com/newsletter "Newsletter")
 * [Advertise](https://static.com/advertise "Advertise")
 
-*  [![Secret Lives stars](https://www.women.com/img/gallery/the-secret-lives-of-mormon-wives-all-your-sex-questions-about-the-show-answered/intro-1726762119.jpg)](https://www.women.com/1668756/secret-lives-of-mormon-wives-sex-questions-answered/)
+*  [![Sydney Sweeney on the red carpet](https://www.women.com/img/gallery/sydney-sweeney-outfits-that-totally-missed-the-mark/intro-1726589829.jpg)](https://www.women.com/1666623/sydney-sweeney-outfits-totally-missed-the-mark/)
     
-    [Sex](https://www.women.com/category/sex-life/)
+    [Fashion](https://www.women.com/category/fashion/)
     
-    [Sex](https://www.women.com/category/sex-life/) By Emily Hutchinson
+    [Fashion](https://www.women.com/category/fashion/) By Emily Hutchinson
     
-    [The Secret Lives Of Mormon Wives: All Your Sex Questions About The Show, Answered](https://www.women.com/1668756/secret-lives-of-mormon-wives-sex-questions-answered/)
-    =======================================================================================================================================================================
+    [Sydney Sweeney Outfits That Totally Missed The Mark](https://www.women.com/1666623/sydney-sweeney-outfits-totally-missed-the-mark/)
+    ====================================================================================================================================
     
-    After dusting off from the drama and rebuilding bridges, these Mormon wives had audiences asking plenty of questions about their secret lives.
+    Sydney Sweeney has won over countless fans with her acting skills, but when it comes to fashion, let's just say it isn't her strong suit.
     
-    By Emily Hutchinson [Read More](https://www.women.com/1668756/secret-lives-of-mormon-wives-sex-questions-answered/)
+    By Emily Hutchinson [Read More](https://www.women.com/1666623/sydney-sweeney-outfits-totally-missed-the-mark/)
     
-* *  [![Princess Diana bixie cut](https://www.women.com/img/gallery/princess-dianas-90s-bixie-is-the-sophisticated-short-hairstyle-of-our-dreams/intro-1726603909.jpg)](https://www.women.com/1667019/princess-diana-90s-bixie-sophisticated-short-hair-style/)
+* *  [![man and woman on boat](https://www.women.com/img/gallery/hypergamy-is-the-dating-trend-enhancing-connections-and-lives/intro-1726598106.jpg)](https://www.women.com/1666859/hypergamy-dating-trend-explained/)
         
         [Exclusives](https://www.women.com/category/exclusives/)
         
         [Exclusives](https://www.women.com/category/exclusives/) By Amanda Chatel
         
-        ### [Princess Diana's '90s Bixie Is The Sophisticated Short Hairstyle Of Our Dreams](https://www.women.com/1667019/princess-diana-90s-bixie-sophisticated-short-hair-style/)
+        ### [Hypergamy Is The Dating Trend Enhancing Connections - And Lives](https://www.women.com/1666859/hypergamy-dating-trend-explained/)
         
-        Whether you're trying to find the perfect short cut or growing out a pixie, the bixie is a fun, reliable option. It's also Princess Diana approved.
+        Hypergamy, or "dating up" isn't necessarily toxic. If done right, it can enhance your relationship and life, an expert tells Women.
         
-        By Amanda Chatel [Read More](https://www.women.com/1667019/princess-diana-90s-bixie-sophisticated-short-hair-style/)
+        By Amanda Chatel [Read More](https://www.women.com/1666859/hypergamy-dating-trend-explained/)
         
-    *  [![hailey bieber with flushed cheeks](https://www.women.com/img/gallery/hailey-biebers-flushed-cheeks-other-fall-2024-makeup-trends-to-have-on-your-radar/intro-1726682871.jpg)](https://www.women.com/1667956/hailey-bieber-flushed-cheeks-other-fall-2024-makeup-trends/)
+    *  [![Secret Lives stars](https://www.women.com/img/gallery/the-secret-lives-of-mormon-wives-all-your-sex-questions-about-the-show-answered/intro-1726762119.jpg)](https://www.women.com/1668756/secret-lives-of-mormon-wives-sex-questions-answered/)
         
-        [Beauty](https://www.women.com/category/beauty/)
+        [Sex](https://www.women.com/category/sex-life/)
         
-        [Beauty](https://www.women.com/category/beauty/) By Amanda Chatel
+        [Sex](https://www.women.com/category/sex-life/) By Emily Hutchinson
         
-        ### [Hailey Bieber's Flushed Cheeks & Other Fall 2024 Makeup Trends To Have On Your Radar](https://www.women.com/1667956/hailey-bieber-flushed-cheeks-other-fall-2024-makeup-trends/)
+        ### [The Secret Lives Of Mormon Wives: All Your Sex Questions About The Show, Answered](https://www.women.com/1668756/secret-lives-of-mormon-wives-sex-questions-answered/)
         
-        From lived-in eyeliner to clean, dewy skin fall 2024's hottest makeup trends are all about keeping things extra low-key.
+        After dusting off from the drama and rebuilding bridges, these Mormon wives had audiences asking plenty of questions about their secret lives.
         
-        By Amanda Chatel [Read More](https://www.women.com/1667956/hailey-bieber-flushed-cheeks-other-fall-2024-makeup-trends/)
+        By Emily Hutchinson [Read More](https://www.women.com/1668756/secret-lives-of-mormon-wives-sex-questions-answered/)
         
 
 More Stories
 ------------
 
+*  [![Princess Diana bixie cut](https://www.women.com/img/gallery/princess-dianas-90s-bixie-is-the-sophisticated-short-hairstyle-of-our-dreams/intro-1726603909.jpg)](https://www.women.com/1667019/princess-diana-90s-bixie-sophisticated-short-hair-style/)
+    
+    [Exclusives](https://www.women.com/category/exclusives/)
+    
+    [Exclusives](https://www.women.com/category/exclusives/) By Amanda Chatel
+    
+    ### [Princess Diana's '90s Bixie Is The Sophisticated Short Hairstyle Of Our Dreams](https://www.women.com/1667019/princess-diana-90s-bixie-sophisticated-short-hair-style/)
+    
+    Whether you're trying to find the perfect short cut or growing out a pixie, the bixie is a fun, reliable option. It's also Princess Diana approved.
+    
+    By Amanda Chatel [Read More](https://www.women.com/1667019/princess-diana-90s-bixie-sophisticated-short-hair-style/)
+    
+*  [![hailey bieber with flushed cheeks](https://www.women.com/img/gallery/hailey-biebers-flushed-cheeks-other-fall-2024-makeup-trends-to-have-on-your-radar/intro-1726682871.jpg)](https://www.women.com/1667956/hailey-bieber-flushed-cheeks-other-fall-2024-makeup-trends/)
+    
+    [Beauty](https://www.women.com/category/beauty/)
+    
+    [Beauty](https://www.women.com/category/beauty/) By Amanda Chatel
+    
+    ### [Hailey Bieber's Flushed Cheeks & Other Fall 2024 Makeup Trends To Have On Your Radar](https://www.women.com/1667956/hailey-bieber-flushed-cheeks-other-fall-2024-makeup-trends/)
+    
+    From lived-in eyeliner to clean, dewy skin fall 2024's hottest makeup trends are all about keeping things extra low-key.
+    
+    By Amanda Chatel [Read More](https://www.women.com/1667956/hailey-bieber-flushed-cheeks-other-fall-2024-makeup-trends/)
+    
 *  [![Kylie Jenner and Timotheé Chalamet at an event](https://www.women.com/img/gallery/red-flags-in-kylie-jenner-and-timothe-chalamets-relationship/intro-1726508612.jpg)](https://www.women.com/1665832/red-flags-kylie-jenner-timothee-chalamet-relationship/)
     
     [Relationships](https://www.women.com/category/relationships/)
@@ -381,30 +405,6 @@ More Stories
     For those who've given pixie cuts a try, you know that out of all the short hair trends that have come and gone, the pixie remains iconic.
     
     By Amanda Chatel [Read More](https://www.women.com/1657110/celebrity-pixie-cuts-inspire-super-short-haircut/)
-    
-*  [![Brittany Mahomes at an event](https://www.women.com/img/gallery/5-outdated-trends-weve-spotted-on-brittany-mahomes/intro-1725644557.jpg)](https://www.women.com/1659121/outdated-trends-spotted-brittany-mahomes/)
-    
-    [Fashion](https://www.women.com/category/fashion/)
-    
-    [Fashion](https://www.women.com/category/fashion/) By Bernadette Roe
-    
-    ### [5 Outdated Trends We've Spotted On Brittany Mahomes](https://www.women.com/1659121/outdated-trends-spotted-brittany-mahomes/)
-    
-    Brittany Mahomes is most often seen sporting trendy NFL gameday outfits, but her Instagram is treasure trove of old fashion fads we once forgot about.
-    
-    By Bernadette Roe [Read More](https://www.women.com/1659121/outdated-trends-spotted-brittany-mahomes/)
-    
-*  [![Chappell Roan performing](https://www.women.com/img/gallery/5-chappell-roan-inspired-nail-ideas-fit-for-the-pink-pony-club/intro-1725556248.jpg)](https://www.women.com/1658094/chappell-roan-inspired-nail-ideas-pink-pony-club/)
-    
-    [Beauty](https://www.women.com/category/beauty/)
-    
-    [Beauty](https://www.women.com/category/beauty/) By Emily Hutchinson
-    
-    ### [5 Chappell Roan Inspired Nail Ideas Fit For The Pink Pony Club](https://www.women.com/1658094/chappell-roan-inspired-nail-ideas-pink-pony-club/)
-    
-    Chappell Roan's dramatic, daring looks are the perfect inspiration for bold manicures suited to a night out at the Pink Pony Club or Roan's next concert.
-    
-    By Emily Hutchinson [Read More](https://www.women.com/1658094/chappell-roan-inspired-nail-ideas-pink-pony-club/)
     
 
 Back
