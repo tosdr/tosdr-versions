@@ -10,6 +10,7 @@
     
 * [Log In](https://traderonthestreet.com/wp-login.php?redirect_to=https%3A%2F%2Ftraderonthestreet.com%2Fprivacy-policy%2F)
 * [Register](https://traderonthestreet.com/register/)
+* [Live](https://traderonthestreet.com/wp-admin/admin.php?page=wc-settings&tab=site-visibility)
 * [Events](https://traderonthestreet.com/events-filter/)
     
     * [View Calendar](https://traderonthestreet.com/events-filter/)
