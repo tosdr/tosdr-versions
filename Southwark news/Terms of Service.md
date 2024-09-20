@@ -19,6 +19,26 @@
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![A still taken from footage of the incident. Image: Channel 4](https://southwarknews.co.uk/wp-content/uploads/2024/09/A-still-taken-from-footage-of-the-incident.-Image-Channel-4-360x180.png)](https://southwarknews.co.uk/area/around-south-east-london/policeman-who-pressed-taser-against-16-year-old-boys-neck-gets-final-warning/)
+    
+    ### [Policeman who ‘pressed Taser’ against 16-year-old boy’s neck gets ‘final warning’](https://southwarknews.co.uk/area/around-south-east-london/policeman-who-pressed-taser-against-16-year-old-boys-neck-gets-final-warning/)
+    
+    [![](https://southwarknews.co.uk/wp-content/uploads/2024/09/Pict-1-360x180.jpg)](https://southwarknews.co.uk/news/community/essential-information-for-those-starting-secondary-school-next-year/)
+    
+    ### [Essential information for those starting secondary school next year](https://southwarknews.co.uk/news/community/essential-information-for-those-starting-secondary-school-next-year/)
+    
+    [![Tesco Southwark Superstore. Image: Google](https://southwarknews.co.uk/wp-content/uploads/2024/09/Tesco-Southwark-Superstore.-Image-Google-360x180.png)](https://southwarknews.co.uk/area/bermondsey/tesco-southwark-superstore-hosting-volunteer-fair/)
+    
+    ### [Tesco Southwark Superstore hosting volunteer fair](https://southwarknews.co.uk/area/bermondsey/tesco-southwark-superstore-hosting-volunteer-fair/)
+    
+    [![Peckham Hill Street, by Peckham Library. Image: Google Maps](https://southwarknews.co.uk/wp-content/uploads/2024/09/Peckham-Hill-Street-by-Peckham-Library.-Image-Google-Maps-360x180.png)](https://southwarknews.co.uk/area/peckham/girl-14-arrested-on-suspicion-of-grievous-bodily-harm-in-peckham/)
+    
+    ### [Girl, 14, arrested on suspicion of grievous bodily harm in Peckham](https://southwarknews.co.uk/area/peckham/girl-14-arrested-on-suspicion-of-grievous-bodily-harm-in-peckham/)
+    
+    [![Southwark Police are appealing for Richard's whereabouts. Image: Southark Police (X)](https://southwarknews.co.uk/wp-content/uploads/2024/09/Southwark-Police-are-appealing-for-Richards-whereabouts.-Image-Southark-Police-X-360x180.png)](https://southwarknews.co.uk/area/peckham/man-missing-from-peckham-for-a-week/)
+    
+    ### [Man missing from Peckham for a week](https://southwarknews.co.uk/area/peckham/man-missing-from-peckham-for-a-week/)
+    
     [![A stock image of a pizza. Credit: Daria Yakovleva (Creative Commons)](https://southwarknews.co.uk/wp-content/uploads/2024/09/A-stock-image-of-a-pizza.-Credit-Daria-Yakovleva-Creative-Commons-360x180.png)](https://southwarknews.co.uk/area/southwark/which-southwark-restaurants-got-top-marks-in-the-latest-food-hygiene-inspections/)
     
     ### [Which Southwark restaurants got top marks in the latest food hygiene inspections?](https://southwarknews.co.uk/area/southwark/which-southwark-restaurants-got-top-marks-in-the-latest-food-hygiene-inspections/)
@@ -34,27 +54,6 @@
     [![The 118 bus route. Credit: London Bus Routes (Creative Commons)](https://southwarknews.co.uk/wp-content/uploads/2024/09/The-118-Bus-Route.-Credit-London-Bus-Routes-Wiki-360x180.webp)](https://southwarknews.co.uk/area/south-london/118-bus-route-through-to-be-axed-under-tfl-plans/)
     
     ### [118 bus route to be axed under TfL plans](https://southwarknews.co.uk/area/south-london/118-bus-route-through-to-be-axed-under-tfl-plans/)
-    
-    [![Police have released these images of a man they would like to speak to in connection with a Brixton shooting. Image: Met Police](https://southwarknews.co.uk/wp-content/uploads/2024/09/Deepdene-Susp-img-02-360x180.png)](https://southwarknews.co.uk/news/crime/brixton-shooting-suspect-seen-in-corner-shop-hours-before-shooting-in-newly-released-cctv/)
-    
-    ### [Brixton shooting: Suspect seen in corner shop hours before shooting in newly-released CCTV](https://southwarknews.co.uk/news/crime/brixton-shooting-suspect-seen-in-corner-shop-hours-before-shooting-in-newly-released-cctv/)
-    
-    [![The Aylesbury estate in Southwark is due to be demolished and rebuilt. CREDIT: Robert Firth](https://southwarknews.co.uk/wp-content/uploads/2024/09/281443832_1271655566700908_3428153952989453541_n-360x180.jpg)](https://southwarknews.co.uk/area/walworth/social-housing-on-regenerated-ayslesbury-estate-more-expensive-than-normal-council-housing-report-claims/)
-    
-    ### [Social housing on regenerated Ayslesbury Estate ‘more expensive’ than normal council housing, report claims](https://southwarknews.co.uk/area/walworth/social-housing-on-regenerated-ayslesbury-estate-more-expensive-than-normal-council-housing-report-claims/)
-    
-    [![The floor design is a faithful reproduction of the original flooring from Victorian times
-    Credit: Harrison Galliven](https://southwarknews.co.uk/wp-content/uploads/2024/09/Crystal-Palace-Subway-flooring-360x180.jpg)](https://southwarknews.co.uk/area/crystal-palace/first-glimpse-at-crystal-palaces-160-year-old-subway-to-open-to-public-this-saturday-after-3-5-million-restoration/)
-    
-    ### [First glimpse at Crystal Palace’s 160-year-old subway to open to public this Saturday after £3.5 million restoration](https://southwarknews.co.uk/area/crystal-palace/first-glimpse-at-crystal-palaces-160-year-old-subway-to-open-to-public-this-saturday-after-3-5-million-restoration/)
-    
-    [![Simon Drake stood beside the mural outside his Walworth home. Credit: Herbie Russell](https://southwarknews.co.uk/wp-content/uploads/2024/09/Simon-Drake-stood-beside-the-mural-outside-his-Walworth-home.-Credit-Herbie-Russell-360x180.png)](https://southwarknews.co.uk/area/walworth/giraffe-painting-outside-my-walworth-home-could-be-a-banksy-says-tv-magician/)
-    
-    ### [‘Giraffe painting outside my Walworth home could be a Banksy’, says TV magician](https://southwarknews.co.uk/area/walworth/giraffe-painting-outside-my-walworth-home-could-be-a-banksy-says-tv-magician/)
-    
-    [![Ben Spencer's outrage has got people talking on X (formerly Twitter) Credit: Ben Spencer](https://southwarknews.co.uk/wp-content/uploads/2024/09/bingo-360x180.png)](https://southwarknews.co.uk/area/london/disabled-millwall-fan-demands-mayor-sorts-out-e-bikes-once-and-for-all-in-passionate-video-after-ridiculous-pile-up-in-central-london/)
-    
-    ### [Disabled Millwall fan demands Mayor ‘sorts out’ e-bikes ‘once and for all’ in passionate video after ridiculous pile-up in Central London](https://southwarknews.co.uk/area/london/disabled-millwall-fan-demands-mayor-sorts-out-e-bikes-once-and-for-all-in-passionate-video-after-ridiculous-pile-up-in-central-london/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [In depth history](https://southwarknews.co.uk/category/history/in-depth-history/)
@@ -100,6 +99,26 @@ View All Result
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![A still taken from footage of the incident. Image: Channel 4](https://southwarknews.co.uk/wp-content/uploads/2024/09/A-still-taken-from-footage-of-the-incident.-Image-Channel-4-360x180.png)](https://southwarknews.co.uk/area/around-south-east-london/policeman-who-pressed-taser-against-16-year-old-boys-neck-gets-final-warning/)
+    
+    ### [Policeman who ‘pressed Taser’ against 16-year-old boy’s neck gets ‘final warning’](https://southwarknews.co.uk/area/around-south-east-london/policeman-who-pressed-taser-against-16-year-old-boys-neck-gets-final-warning/)
+    
+    [![](https://southwarknews.co.uk/wp-content/uploads/2024/09/Pict-1-360x180.jpg)](https://southwarknews.co.uk/news/community/essential-information-for-those-starting-secondary-school-next-year/)
+    
+    ### [Essential information for those starting secondary school next year](https://southwarknews.co.uk/news/community/essential-information-for-those-starting-secondary-school-next-year/)
+    
+    [![Tesco Southwark Superstore. Image: Google](https://southwarknews.co.uk/wp-content/uploads/2024/09/Tesco-Southwark-Superstore.-Image-Google-360x180.png)](https://southwarknews.co.uk/area/bermondsey/tesco-southwark-superstore-hosting-volunteer-fair/)
+    
+    ### [Tesco Southwark Superstore hosting volunteer fair](https://southwarknews.co.uk/area/bermondsey/tesco-southwark-superstore-hosting-volunteer-fair/)
+    
+    [![Peckham Hill Street, by Peckham Library. Image: Google Maps](https://southwarknews.co.uk/wp-content/uploads/2024/09/Peckham-Hill-Street-by-Peckham-Library.-Image-Google-Maps-360x180.png)](https://southwarknews.co.uk/area/peckham/girl-14-arrested-on-suspicion-of-grievous-bodily-harm-in-peckham/)
+    
+    ### [Girl, 14, arrested on suspicion of grievous bodily harm in Peckham](https://southwarknews.co.uk/area/peckham/girl-14-arrested-on-suspicion-of-grievous-bodily-harm-in-peckham/)
+    
+    [![Southwark Police are appealing for Richard's whereabouts. Image: Southark Police (X)](https://southwarknews.co.uk/wp-content/uploads/2024/09/Southwark-Police-are-appealing-for-Richards-whereabouts.-Image-Southark-Police-X-360x180.png)](https://southwarknews.co.uk/area/peckham/man-missing-from-peckham-for-a-week/)
+    
+    ### [Man missing from Peckham for a week](https://southwarknews.co.uk/area/peckham/man-missing-from-peckham-for-a-week/)
+    
     [![A stock image of a pizza. Credit: Daria Yakovleva (Creative Commons)](https://southwarknews.co.uk/wp-content/uploads/2024/09/A-stock-image-of-a-pizza.-Credit-Daria-Yakovleva-Creative-Commons-360x180.png)](https://southwarknews.co.uk/area/southwark/which-southwark-restaurants-got-top-marks-in-the-latest-food-hygiene-inspections/)
     
     ### [Which Southwark restaurants got top marks in the latest food hygiene inspections?](https://southwarknews.co.uk/area/southwark/which-southwark-restaurants-got-top-marks-in-the-latest-food-hygiene-inspections/)
@@ -115,27 +134,6 @@ View All Result
     [![The 118 bus route. Credit: London Bus Routes (Creative Commons)](https://southwarknews.co.uk/wp-content/uploads/2024/09/The-118-Bus-Route.-Credit-London-Bus-Routes-Wiki-360x180.webp)](https://southwarknews.co.uk/area/south-london/118-bus-route-through-to-be-axed-under-tfl-plans/)
     
     ### [118 bus route to be axed under TfL plans](https://southwarknews.co.uk/area/south-london/118-bus-route-through-to-be-axed-under-tfl-plans/)
-    
-    [![Police have released these images of a man they would like to speak to in connection with a Brixton shooting. Image: Met Police](https://southwarknews.co.uk/wp-content/uploads/2024/09/Deepdene-Susp-img-02-360x180.png)](https://southwarknews.co.uk/news/crime/brixton-shooting-suspect-seen-in-corner-shop-hours-before-shooting-in-newly-released-cctv/)
-    
-    ### [Brixton shooting: Suspect seen in corner shop hours before shooting in newly-released CCTV](https://southwarknews.co.uk/news/crime/brixton-shooting-suspect-seen-in-corner-shop-hours-before-shooting-in-newly-released-cctv/)
-    
-    [![The Aylesbury estate in Southwark is due to be demolished and rebuilt. CREDIT: Robert Firth](https://southwarknews.co.uk/wp-content/uploads/2024/09/281443832_1271655566700908_3428153952989453541_n-360x180.jpg)](https://southwarknews.co.uk/area/walworth/social-housing-on-regenerated-ayslesbury-estate-more-expensive-than-normal-council-housing-report-claims/)
-    
-    ### [Social housing on regenerated Ayslesbury Estate ‘more expensive’ than normal council housing, report claims](https://southwarknews.co.uk/area/walworth/social-housing-on-regenerated-ayslesbury-estate-more-expensive-than-normal-council-housing-report-claims/)
-    
-    [![The floor design is a faithful reproduction of the original flooring from Victorian times
-    Credit: Harrison Galliven](https://southwarknews.co.uk/wp-content/uploads/2024/09/Crystal-Palace-Subway-flooring-360x180.jpg)](https://southwarknews.co.uk/area/crystal-palace/first-glimpse-at-crystal-palaces-160-year-old-subway-to-open-to-public-this-saturday-after-3-5-million-restoration/)
-    
-    ### [First glimpse at Crystal Palace’s 160-year-old subway to open to public this Saturday after £3.5 million restoration](https://southwarknews.co.uk/area/crystal-palace/first-glimpse-at-crystal-palaces-160-year-old-subway-to-open-to-public-this-saturday-after-3-5-million-restoration/)
-    
-    [![Simon Drake stood beside the mural outside his Walworth home. Credit: Herbie Russell](https://southwarknews.co.uk/wp-content/uploads/2024/09/Simon-Drake-stood-beside-the-mural-outside-his-Walworth-home.-Credit-Herbie-Russell-360x180.png)](https://southwarknews.co.uk/area/walworth/giraffe-painting-outside-my-walworth-home-could-be-a-banksy-says-tv-magician/)
-    
-    ### [‘Giraffe painting outside my Walworth home could be a Banksy’, says TV magician](https://southwarknews.co.uk/area/walworth/giraffe-painting-outside-my-walworth-home-could-be-a-banksy-says-tv-magician/)
-    
-    [![Ben Spencer's outrage has got people talking on X (formerly Twitter) Credit: Ben Spencer](https://southwarknews.co.uk/wp-content/uploads/2024/09/bingo-360x180.png)](https://southwarknews.co.uk/area/london/disabled-millwall-fan-demands-mayor-sorts-out-e-bikes-once-and-for-all-in-passionate-video-after-ridiculous-pile-up-in-central-london/)
-    
-    ### [Disabled Millwall fan demands Mayor ‘sorts out’ e-bikes ‘once and for all’ in passionate video after ridiculous pile-up in Central London](https://southwarknews.co.uk/area/london/disabled-millwall-fan-demands-mayor-sorts-out-e-bikes-once-and-for-all-in-passionate-video-after-ridiculous-pile-up-in-central-london/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [In depth history](https://southwarknews.co.uk/category/history/in-depth-history/)
@@ -236,6 +234,18 @@ Photo by  Joe Coughlan.](https://southwarknews.co.uk/wp-content/uploads/2024/09/
 
 ### Featured Articles
 
+[![](https://southwarknews.co.uk/wp-content/uploads/2024/09/Pict-1-120x86.jpg)](https://southwarknews.co.uk/news/community/essential-information-for-those-starting-secondary-school-next-year/)
+
+### [Essential information for those starting secondary school next year](https://southwarknews.co.uk/news/community/essential-information-for-those-starting-secondary-school-next-year/)
+
+[20th September 2024](https://southwarknews.co.uk/news/community/essential-information-for-those-starting-secondary-school-next-year/)
+
+[![Southwark Police are appealing for Richard's whereabouts. Image: Southark Police (X)](https://southwarknews.co.uk/wp-content/uploads/2024/09/Southwark-Police-are-appealing-for-Richards-whereabouts.-Image-Southark-Police-X-120x86.png)](https://southwarknews.co.uk/area/peckham/man-missing-from-peckham-for-a-week/)
+
+### [Man missing from Peckham for a week](https://southwarknews.co.uk/area/peckham/man-missing-from-peckham-for-a-week/)
+
+[20th September 2024](https://southwarknews.co.uk/area/peckham/man-missing-from-peckham-for-a-week/)
+
 [![A stock image of a pizza. Credit: Daria Yakovleva (Creative Commons)](https://southwarknews.co.uk/wp-content/uploads/2024/09/A-stock-image-of-a-pizza.-Credit-Daria-Yakovleva-Creative-Commons-120x86.png)](https://southwarknews.co.uk/area/southwark/which-southwark-restaurants-got-top-marks-in-the-latest-food-hygiene-inspections/)
 
 ### [Which Southwark restaurants got top marks in the latest food hygiene inspections?](https://southwarknews.co.uk/area/southwark/which-southwark-restaurants-got-top-marks-in-the-latest-food-hygiene-inspections/)
@@ -260,18 +270,6 @@ Credit: Harrison Galliven](https://southwarknews.co.uk/wp-content/uploads/2024/0
 ### [First glimpse at Crystal Palace’s 160-year-old subway to open to public this Saturday after £3.5 million restoration](https://southwarknews.co.uk/area/crystal-palace/first-glimpse-at-crystal-palaces-160-year-old-subway-to-open-to-public-this-saturday-after-3-5-million-restoration/)
 
 [19th September 2024](https://southwarknews.co.uk/area/crystal-palace/first-glimpse-at-crystal-palaces-160-year-old-subway-to-open-to-public-this-saturday-after-3-5-million-restoration/)
-
-[![Simon Drake stood beside the mural outside his Walworth home. Credit: Herbie Russell](https://southwarknews.co.uk/wp-content/uploads/2024/09/Simon-Drake-stood-beside-the-mural-outside-his-Walworth-home.-Credit-Herbie-Russell-120x86.png)](https://southwarknews.co.uk/area/walworth/giraffe-painting-outside-my-walworth-home-could-be-a-banksy-says-tv-magician/)
-
-### [‘Giraffe painting outside my Walworth home could be a Banksy’, says TV magician](https://southwarknews.co.uk/area/walworth/giraffe-painting-outside-my-walworth-home-could-be-a-banksy-says-tv-magician/)
-
-[18th September 2024](https://southwarknews.co.uk/area/walworth/giraffe-painting-outside-my-walworth-home-could-be-a-banksy-says-tv-magician/)
-
-[![Ben Spencer's outrage has got people talking on X (formerly Twitter) Credit: Ben Spencer](https://southwarknews.co.uk/wp-content/uploads/2024/09/bingo-120x86.png)](https://southwarknews.co.uk/area/london/disabled-millwall-fan-demands-mayor-sorts-out-e-bikes-once-and-for-all-in-passionate-video-after-ridiculous-pile-up-in-central-london/)
-
-### [Disabled Millwall fan demands Mayor ‘sorts out’ e-bikes ‘once and for all’ in passionate video after ridiculous pile-up in Central London](https://southwarknews.co.uk/area/london/disabled-millwall-fan-demands-mayor-sorts-out-e-bikes-once-and-for-all-in-passionate-video-after-ridiculous-pile-up-in-central-london/)
-
-[18th September 2024](https://southwarknews.co.uk/area/london/disabled-millwall-fan-demands-mayor-sorts-out-e-bikes-once-and-for-all-in-passionate-video-after-ridiculous-pile-up-in-central-london/)
 
 ### USEFUL PAGES
 
