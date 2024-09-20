@@ -221,6 +221,7 @@ Footer
 * [Blog](https://foresight.is/blog/)
 * [Changelog](https://foresight.is/changelog/)
 * [Contact](https://foresight.is/contact/)
+* [Talent](https://foresight.is/talent/)
 
 ### Legal
 
