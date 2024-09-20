@@ -133,6 +133,6 @@ These Terms will be governed by and construed in accordance with the laws of the
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-I am finding FoxyProxy on the laptop quite fantastic.
+Thank you for resolving this so quickly.
 
-Chris McRaib
+Johnson Samuel
