@@ -1,6 +1,8 @@
-![](https://www.facebook.com/tr?id=811491626833587&ev=PageView&noscript=1)             
+![](https://www.facebook.com/tr?id=811491626833587&ev=PageView&noscript=1)   
 
-Terms & Conditions – Omax Health - Omax Health                                  
+    
+
+Terms & Conditions – Omax Health - Omax Health                                 
 
 FREE U.S. SHIPPING ON ALL ORDERS
 
@@ -301,13 +303,13 @@ Go to product page
 
 ### Let customers speak for us
 
-[3385 reviews](https://omaxhealth.com/pages/reviews)
+[3386 reviews](https://omaxhealth.com/pages/reviews)
 
 [Write a review](#)
 
 91%
 
-(3066)
+(3067)
 
 5%
 
@@ -325,7 +327,17 @@ Go to product page
 
 (53)
 
-2183
+2184
+
+A
+
+[CryoFreeze® Hemp CBD Roll-On | Extra Strength](https://omaxhealth.com/products/new-cryofreeze-cbd-roll-on-extra-strength#judgeme_product_reviews)
+
+Annette R.
+
+**Good stuff!**
+
+Helps the aches & pains like nothing else!
 
 D
 
@@ -350,13 +362,5 @@ She uses them for her knees and I use it for my shoulder.
 We absolutely love this product as it gives us pain relief.  
 We have purchased this product 3-4 times and we will continue to use it in the.  
 Thank you Omar!
-
-V
-
-[3 Pack CryoFreeze® Hemp CBD Roll-On | Extra Strength](https://omaxhealth.com/products/3-pack-cryofreeze-hemp-cbd-roll-on-extra-strength#judgeme_product_reviews)
-
-Valerie
-
-One of the best I have ever tried. If you’re used to muscle rubs- then try this one. I prefer the extra strength option. But it’s great on my back and knees.
 
 Load More
