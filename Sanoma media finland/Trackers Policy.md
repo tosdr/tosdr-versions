@@ -294,6 +294,7 @@ Kuinka voimme auttaa?
 * [Keitä olemme](https://www.sanoma.fi/keita-olemme/)
 * [Tietosuojalauseke](https://www.sanoma.fi/mita-teemme/tietosuoja/tietosuojalauseke/)
 * [Evästekäytännöt](javascript:utag.link({event_name:'cmp_privacy_manager', event_action: 'show'}))
+* [Palveluntuottajille ja tavarantoimittajille](https://www.sanoma.com/fi/suppliers/)
 * [Whistle blowing -raportointikanava](https://report.whistleb.com/fi/Sanoma)
 
 © 2024 Kaikki oikeudet pidätetään
