@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/457cb47b-6aa9-454f-844d-36fb5ffeb8a7/20240919T061944/457cb47b-6aa9-454f-844d-36fb5ffeb8a7_16x9.jpg) ![](https://media.king5.com/assets/KING/images/457cb47b-6aa9-454f-844d-36fb5ffeb8a7/20240919T061944/457cb47b-6aa9-454f-844d-36fb5ffeb8a7_360x203.jpg)](https://www.king5.com/article/news/crime/wsp-troopers-increasing-patrols-i5-after-armed-carjackings/281-178b1b14-7898-4dff-8296-78b0aefb2501)
+    *  [![](https://media.king5.com/assets/WUSA/images/d0c922dd-52b9-425a-ad2a-cbac66e01511/20240731T155928/d0c922dd-52b9-425a-ad2a-cbac66e01511_16x9.jpg) ![](https://media.king5.com/assets/WUSA/images/d0c922dd-52b9-425a-ad2a-cbac66e01511/20240731T155928/d0c922dd-52b9-425a-ad2a-cbac66e01511_360x203.jpg)](https://www.king5.com/article/life/food/fast-casual-burger-custard-chain-expand-seattle/281-88d7071f-3d07-4f7d-9649-f8f148026d42)
         
-        #### [WSP increasing patrols on I-5 after string of armed carjackings in Federal Way area](https://www.king5.com/article/news/crime/wsp-troopers-increasing-patrols-i5-after-armed-carjackings/281-178b1b14-7898-4dff-8296-78b0aefb2501)
+        #### [National burger, custard fast-food chain to expand into Seattle market](https://www.king5.com/article/life/food/fast-casual-burger-custard-chain-expand-seattle/281-88d7071f-3d07-4f7d-9649-f8f148026d42)
         
-    *  [![](https://media.king5.com/assets/KING/images/a2e82c4b-8812-4c82-b210-aa744ae6114b/20240919T005649/a2e82c4b-8812-4c82-b210-aa744ae6114b_16x9.jpg) ![](https://media.king5.com/assets/KING/images/a2e82c4b-8812-4c82-b210-aa744ae6114b/20240919T005649/a2e82c4b-8812-4c82-b210-aa744ae6114b_360x203.jpg)](https://www.king5.com/article/news/local/shoreline-coffee-shop-shut-down-bondage-event/281-32593ceb-b728-4d37-8b6a-09d58e1b01ab)
+    *  [![](https://media.king5.com/assets/KING/images/1bc618f6-f8e1-4f7d-aa42-9d0948d9c808/20240920T014408/1bc618f6-f8e1-4f7d-aa42-9d0948d9c808_16x9.jpg) ![](https://media.king5.com/assets/KING/images/1bc618f6-f8e1-4f7d-aa42-9d0948d9c808/20240920T014408/1bc618f6-f8e1-4f7d-aa42-9d0948d9c808_360x203.jpg)](https://www.king5.com/article/news/local/king-county-executive-temporary-funding-public-health-clinics/281-015f810d-f020-43c5-9cdd-80c3e3c22e55)
         
-        #### [Shoreline coffee shop to reopen following shutdown after bondage event](https://www.king5.com/article/news/local/shoreline-coffee-shop-shut-down-bondage-event/281-32593ceb-b728-4d37-8b6a-09d58e1b01ab)
+        #### [King County executive proposes temporary funding fix to keep public health clinics open](https://www.king5.com/article/news/local/king-county-executive-temporary-funding-public-health-clinics/281-015f810d-f020-43c5-9cdd-80c3e3c22e55)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -56,7 +56,7 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/a7e9cbb8-2b1e-4958-a028-1b6701ba9462/20240919T115636/a7e9cbb8-2b1e-4958-a028-1b6701ba9462_16x9.jpg) ![](https://media.king5.com/assets/KING/images/a7e9cbb8-2b1e-4958-a028-1b6701ba9462/20240919T115636/a7e9cbb8-2b1e-4958-a028-1b6701ba9462_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
+    *  [![](https://media.king5.com/assets/KING/images/456ad034-25d5-4d5c-8018-7cab0edc84ea/20240920T005643/456ad034-25d5-4d5c-8018-7cab0edc84ea_16x9.jpg) ![](https://media.king5.com/assets/KING/images/456ad034-25d5-4d5c-8018-7cab0edc84ea/20240920T005643/456ad034-25d5-4d5c-8018-7cab0edc84ea_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
         #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
@@ -95,9 +95,9 @@ Navigation
 
 Seattle, WA »
 
-65°
+66°
 
-![Cloudy](/assets/shared-images/weather-icons/cloudy-day_210x210.png)
+![Partly Cloudy](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
 
 Seattle, WA »](https://www.king5.com/weather)
 
