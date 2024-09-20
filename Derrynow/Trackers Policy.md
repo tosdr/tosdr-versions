@@ -259,13 +259,6 @@ Advertise with Us
 
 Most Popular
 
-[![Throwback Thursday: Partytime out and about around Derry (2009)](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Throwback Thursday: Partytime out and about around Derry (2009)")](https://www.derrynow.com/story-telling/pictures---videos/1608382/throwback-thursday-partytime-out-and-about-around-derry-2009.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[Throwback Thursday: Partytime out and about around Derry (2009)](https://www.derrynow.com/story-telling/pictures---videos/1608382/throwback-thursday-partytime-out-and-about-around-derry-2009.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 [![Meet the 21 men who have just entered training to become priests in Ireland](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Meet the 21 men who have just entered training to become priests in Ireland")](https://www.derrynow.com/news/national-news/1609214/thank-god-for-them-meet-the-21-men-now-training-to-become-priests-in-ireland.html)
 
 Bishop Alphonsus Cullinan, chair of the Bishops' Council for Vocations, with seminarians for the launch of the 'Year for Vocation to the Diocesan Priesthood', in April 2023 (Catholic Communications)
@@ -298,22 +291,6 @@ Derry Court
 [Man arrested in Derry search operation into INLA drug criminality](https://www.derrynow.com/news/local-news/1609376/man-arrested-in-derry-search-operation-into-inla-drug-criminality.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Man who faces immediate deportation upon release from prison jailed for bringing drugs valued up to £40,000 from Belfast to Derry](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man who faces immediate deportation upon release from prison jailed for bringing drugs valued up to £40,000 from Belfast to Derry")](https://www.derrynow.com/news/local-news/1609048/man-who-faces-immediate-deportation-upon-release-from-prison-jailed-for-bringing-drugs-valued-up-to-40-000-from-belfast-to-derry.html)
-
-Derry Crown Court
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Man who faces immediate deportation upon release from prison jailed for bringing drugs valued up to £40,000 from Belfast to Derry](https://www.derrynow.com/news/local-news/1609048/man-who-faces-immediate-deportation-upon-release-from-prison-jailed-for-bringing-drugs-valued-up-to-40-000-from-belfast-to-derry.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry man (21) charged with number of drugs offences](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry man (21) charged with number of drugs offences")](https://www.derrynow.com/news/local-news/1608957/derry-man-21-charged-with-number-of-drugs-offences.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Derry man (21) charged with number of drugs offences](https://www.derrynow.com/news/local-news/1608957/derry-man-21-charged-with-number-of-drugs-offences.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 [![Derry man charged with possession of thousands of pounds worth of drugs remanded](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry man charged with possession of thousands of pounds worth of drugs remanded")](https://www.derrynow.com/news/local-news/1609057/derry-man-charged-with-possession-of-thousands-of-pounds-worth-of-drugs-remanded.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
@@ -321,21 +298,46 @@ Derry Crown Court
 [Derry man charged with possession of thousands of pounds worth of drugs remanded](https://www.derrynow.com/news/local-news/1609057/derry-man-charged-with-possession-of-thousands-of-pounds-worth-of-drugs-remanded.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Former Sinn Fein press officer charged with sex offences fails to appear in court](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Former Sinn Fein press officer charged with sex offences fails to appear in court")](https://www.derrynow.com/news/local-news/1609021/former-sinn-fein-press-officer-charged-with-sex-offences-fails-to-appear-in-court.html)
+[![Derry Death Notices - Friday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Friday")](https://www.derrynow.com/news/deaths/1609403/derry-death-notices-friday-20th-september-2024.html)
+
+[Deaths](https://www.derrynow.com/section/977/deaths)
+
+[Derry Death Notices - Friday, 20th September 2024](https://www.derrynow.com/news/deaths/1609403/derry-death-notices-friday-20th-september-2024.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Kit Cassingham and Dr Richard Namikas complete their walk from Belfast to Derry](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Kit Cassingham and Dr Richard Namikas complete their walk from Belfast to Derry")](https://www.derrynow.com/news/local-news/1609139/american-cruise-passengers-complete-their-belfast-to-derry-walk-while-docked-in-northern-ireland.html)
+
+Kit Cassingham and Dr Richard Namikas complete their walk from Belfast to Derry
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[Former Sinn Fein press officer charged with sex offences fails to appear in court](https://www.derrynow.com/news/local-news/1609021/former-sinn-fein-press-officer-charged-with-sex-offences-fails-to-appear-in-court.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[American cruise passengers complete their Belfast to Derry walk while docked in Northern Ireland](https://www.derrynow.com/news/local-news/1609139/american-cruise-passengers-complete-their-belfast-to-derry-walk-while-docked-in-northern-ireland.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![23-year-old Derry man charged to court for drug related offences](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "23-year-old Derry man charged to court for drug related offences")](https://www.derrynow.com/news/local-news/1608845/23-year-old-derry-man-charged-to-court-for-drug-related-offences.html)
+[![Who are the guest on this week's RTE Late Late Show with big names confirmed?](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Who are the guest on this week's RTE Late Late Show with big names confirmed?")](https://www.derrynow.com/news/arts---entertainment/1609184/who-are-the-guest-on-this-week-s-rte-late-late-show-with-big-names-confirmed.html)
 
-Derry Magistrate's Court
+Who are the guest on this week's RTE Late Late Show with big names confirmed?
+
+[Arts & Entertainment](https://www.derrynow.com/section/997/cookie-policy)
+
+[Who are the guest on this week's RTE Late Late Show with big names confirmed?](https://www.derrynow.com/news/arts---entertainment/1609184/who-are-the-guest-on-this-week-s-rte-late-late-show-with-big-names-confirmed.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Clonmany crash victim Michael Toland to be laid to rest on Saturday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Clonmany crash victim Michael Toland to be laid to rest on Saturday")](https://www.derrynow.com/news/local-news/1609408/clonmany-crash-victim-michael-toland-to-be-laid-to-rest-on-saturday.html)
+
+Gardai at the scene of the fatal collision where Michael Toland (inset) lost his life. (North West Newspix)
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[23-year-old Derry man charged to court for drug related offences](https://www.derrynow.com/news/local-news/1608845/23-year-old-derry-man-charged-to-court-for-drug-related-offences.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Clonmany crash victim Michael Toland to be laid to rest on Saturday](https://www.derrynow.com/news/local-news/1609408/clonmany-crash-victim-michael-toland-to-be-laid-to-rest-on-saturday.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Former Sinn Fein press officer charged with sex offences found unconscious and currently in hospital](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Former Sinn Fein press officer charged with sex offences found unconscious and currently in hospital")](https://www.derrynow.com/news/local-news/1609884/former-sinn-fein-press-officer-charged-with-sex-offences-found-unconscious-and-currently-in-hospital.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Former Sinn Fein press officer charged with sex offences found unconscious and currently in hospital](https://www.derrynow.com/news/local-news/1609884/former-sinn-fein-press-officer-charged-with-sex-offences-found-unconscious-and-currently-in-hospital.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
@@ -519,55 +521,53 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
-[![Police in Derry charge 25-year-old man with number of drugs offences](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Police in Derry charge 25-year-old man with number of drugs offences")](https://www.derrynow.com/news/local-news/1609669/police-in-derry-charge-25-year-old-man-with-number-of-drugs-offences.html)
+[![Community efforts to tackle anti-social behaviour in Derry praised](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Community efforts to tackle anti-social behaviour in Derry praised")](https://www.derrynow.com/news/local-news/1609809/community-efforts-to-tackle-anti-social-behaviour-in-derry-praised.html)
 
-PSNI
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Police in Derry charge 25-year-old man with number of drugs offences](https://www.derrynow.com/news/local-news/1609669/police-in-derry-charge-25-year-old-man-with-number-of-drugs-offences.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry Death Notices - Friday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Friday")](https://www.derrynow.com/news/deaths/1609403/derry-death-notices-friday-20th-september-2024.html)
-
-[Deaths](https://www.derrynow.com/section/977/deaths)
-
-[Derry Death Notices - Friday, 20th September 2024](https://www.derrynow.com/news/deaths/1609403/derry-death-notices-friday-20th-september-2024.html)
------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Clonmany crash victim Michael Toland to be laid to rest on Saturday](https://www.derrynow.com/resizer/165/93/true/2024_09_19/Donegal_Live_image-1726760413823.png--.png?1726760413894 "Clonmany crash victim Michael Toland to be laid to rest on Saturday")](https://www.derrynow.com/news/local-news/1609408/clonmany-crash-victim-michael-toland-to-be-laid-to-rest-on-saturday.html)
-
-Gardai at the scene of the fatal collision where Michael Toland (inset) lost his life. (North West Newspix)
+Glenabbey
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[Clonmany crash victim Michael Toland to be laid to rest on Saturday](https://www.derrynow.com/news/local-news/1609408/clonmany-crash-victim-michael-toland-to-be-laid-to-rest-on-saturday.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Community efforts to tackle anti-social behaviour in Derry praised](https://www.derrynow.com/news/local-news/1609809/community-efforts-to-tackle-anti-social-behaviour-in-derry-praised.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![ERG thanks community of Dungiven for attending public consultation](https://www.derrynow.com/resizer/165/93/true/2024_09_19/ERG_team_members_at_the_public_consultation-1726760962830.jpg--.jpg?1726760965068 "ERG thanks community of Dungiven for attending public consultation")](https://www.derrynow.com/news/home/1609375/erg-thanks-community-of-dungiven-for-attending-public-consultation.html)
-
-ERG team members at the public consultation.
-
-[Home](https://www.derrynow.com/)
-
-[ERG thanks community of Dungiven for attending public consultation](https://www.derrynow.com/news/home/1609375/erg-thanks-community-of-dungiven-for-attending-public-consultation.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Kit Cassingham and Dr Richard Namikas complete their walk from Belfast to Derry](https://www.derrynow.com/resizer/165/93/true/2024_09_19/20240919_112914-1726751570843.jpg--.jpg?1726751571856 "Kit Cassingham and Dr Richard Namikas complete their walk from Belfast to Derry")](https://www.derrynow.com/news/local-news/1609139/american-cruise-passengers-complete-their-belfast-to-derry-walk-while-docked-in-northern-ireland.html)
-
-Kit Cassingham and Dr Richard Namikas complete their walk from Belfast to Derry
+[![Government veto on Troubles commission disclosure ruled unlawful](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Government veto on Troubles commission disclosure ruled unlawful")](https://www.derrynow.com/news/local-news/1610032/government-veto-on-troubles-commission-disclosure-ruled-unlawful.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[American cruise passengers complete their Belfast to Derry walk while docked in Northern Ireland](https://www.derrynow.com/news/local-news/1609139/american-cruise-passengers-complete-their-belfast-to-derry-walk-while-docked-in-northern-ireland.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Government veto on Troubles commission disclosure ruled unlawful](https://www.derrynow.com/news/local-news/1610032/government-veto-on-troubles-commission-disclosure-ruled-unlawful.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Man arrested in Derry search operation into INLA drug criminality](https://www.derrynow.com/resizer/165/93/true/2024_09_19/PSNI_Police-1726760981802.jpg--.jpg?1726760981828 "Man arrested in Derry search operation into INLA drug criminality")](https://www.derrynow.com/news/local-news/1609376/man-arrested-in-derry-search-operation-into-inla-drug-criminality.html)
+[![Derry judge says possessing Pregablin with intent to supply should be deemed a Class A offence](https://www.derrynow.com/resizer/165/93/true/2024_03_28/derrycourthouse2.jpg--man_remanded_at_derry_magistrate_s_court_on_series_of_driving_charges-1711633542377.jpg--.jpg?1711633542414 "Derry judge says possessing Pregablin with intent to supply should be deemed a Class A offence")](https://www.derrynow.com/news/local-news/1609881/derry-judge-says-possessing-pregablin-with-intent-to-supply-should-be-deemed-a-class-a-offence.html)
+
+Derry Magistrate's Court
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[Man arrested in Derry search operation into INLA drug criminality](https://www.derrynow.com/news/local-news/1609376/man-arrested-in-derry-search-operation-into-inla-drug-criminality.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Derry judge says possessing Pregablin with intent to supply should be deemed a Class A offence](https://www.derrynow.com/news/local-news/1609881/derry-judge-says-possessing-pregablin-with-intent-to-supply-should-be-deemed-a-class-a-offence.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Magherafelt](https://www.derrynow.com/resizer/165/93/true/2024_09_20/IMG-20240918-WA0014-1726830557046.jpg--.jpg?1726830557363 "Magherafelt")](https://www.derrynow.com/news/derry-sport/1609943/sensational-magherafelt-see-off-lavey-to-reach-the-final.html)
+
+Captains and match officials before the game.
+
+[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
+
+[Sensational Magherafelt see off Lavey to reach the final](https://www.derrynow.com/news/derry-sport/1609943/sensational-magherafelt-see-off-lavey-to-reach-the-final.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Former Derry manager Rory Gallagher 'fully intends' to return to inter-county management](https://www.derrynow.com/resizer/165/93/true/2023_09_10/2484418_Cropped-1694379046063.jpg--.jpg?1694379047027 "Former Derry manager Rory Gallagher 'fully intends' to return to inter-county management")](https://www.derrynow.com/news/gaa/1609864/former-derry-manager-rory-gallagher-fully-intends-to-return-to-inter-county-management.html)
+
+[GAA](https://www.derrynow.com/section/1060/gaa)
+
+[Former Derry manager Rory Gallagher 'fully intends' to return to inter-county management](https://www.derrynow.com/news/gaa/1609864/former-derry-manager-rory-gallagher-fully-intends-to-return-to-inter-county-management.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Former Sinn Fein press officer charged with sex offences found unconscious and currently in hospital](https://www.derrynow.com/resizer/165/93/true/2023_08_04/Michael_McMonagle-1691147368533.jpg--.jpg?1691147368558 "Former Sinn Fein press officer charged with sex offences found unconscious and currently in hospital")](https://www.derrynow.com/news/local-news/1609884/former-sinn-fein-press-officer-charged-with-sex-offences-found-unconscious-and-currently-in-hospital.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Former Sinn Fein press officer charged with sex offences found unconscious and currently in hospital](https://www.derrynow.com/news/local-news/1609884/former-sinn-fein-press-officer-charged-with-sex-offences-found-unconscious-and-currently-in-hospital.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
