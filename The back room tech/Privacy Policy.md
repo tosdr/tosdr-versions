@@ -116,18 +116,18 @@ Supreme caution has been taken to make sure that there are no copyright infringe
 
 #### Random Posts
 
-* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2042'%3E%3C/svg%3E)
+* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2047'%3E%3C/svg%3E)
     
-    ![](https://s11921.pcdn.co/wp-content/uploads/Cisco-VPN-Setup-main-80x42.jpg.optimal.jpg)](https://thebackroomtech.com/2019/08/19/how-to-set-up-a-vpn-with-cisco/ "How To Set Up a VPN With Cisco")[How To Set Up a VPN With Cisco](https://thebackroomtech.com/2019/08/19/how-to-set-up-a-vpn-with-cisco/ "How To Set Up a VPN With Cisco")
-* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2050'%3E%3C/svg%3E)
+    ![](https://s11921.pcdn.co/wp-content/uploads/powerbuttonaction-80x47.png)](https://thebackroomtech.com/2010/09/01/change-default-log-off-button-in-windows-7-start-menu/ "Change Default Log Off Button in Windows 7 Start Menu")[Change Default Log Off Button in Windows 7 Start Menu](https://thebackroomtech.com/2010/09/01/change-default-log-off-button-in-windows-7-start-menu/ "Change Default Log Off Button in Windows 7 Start Menu")
+* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2052'%3E%3C/svg%3E)
     
-    ![](https://s11921.pcdn.co/wp-content/uploads/10-select-an-existing-key-pair-linux-ec2-80x50.png)](https://thebackroomtech.com/2018/11/05/how-to-ssh-to-an-ec2-instance-from-mac/ "How to SSH to a Linux EC2 Instance from Mac")[How to SSH to a Linux EC2 Instance from Mac](https://thebackroomtech.com/2018/11/05/how-to-ssh-to-an-ec2-instance-from-mac/ "How to SSH to a Linux EC2 Instance from Mac")
-* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2042'%3E%3C/svg%3E)
-    
-    ![](https://s11921.pcdn.co/wp-content/uploads/create-port-groups-vmware-80x42.jpg.optimal.jpg)](https://thebackroomtech.com/2018/04/25/vmware-powercli-create-port-groups-script/ "VMware PowerCLI – Create Port Groups Script")[VMware PowerCLI – Create Port Groups Script](https://thebackroomtech.com/2018/04/25/vmware-powercli-create-port-groups-script/ "VMware PowerCLI – Create Port Groups Script")
+    ![](https://s11921.pcdn.co/wp-content/uploads/malware-script-1-80x52.jpeg.optimal.jpeg)](https://thebackroomtech.com/2019/04/22/using-microsoft-anti-malware-script-interface/ "How to Use the Microsoft Anti-Malware Script Interface")[How to Use the Microsoft Anti-Malware Script Interface](https://thebackroomtech.com/2019/04/22/using-microsoft-anti-malware-script-interface/ "How to Use the Microsoft Anti-Malware Script Interface")
 * [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2039'%3E%3C/svg%3E)
     
     ![](https://s11921.pcdn.co/wp-content/uploads/network-ports-80x39.jpg.optimal.jpg)](https://thebackroomtech.com/2019/01/10/how-to-configure-nic-teaming-on-windows-server/ "How to Configure NIC Teaming on Windows Server")[How to Configure NIC Teaming on Windows Server](https://thebackroomtech.com/2019/01/10/how-to-configure-nic-teaming-on-windows-server/ "How to Configure NIC Teaming on Windows Server")
+* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2045'%3E%3C/svg%3E)
+    
+    ![](https://s11921.pcdn.co/wp-content/uploads/amazon-sns-ft-80x45.png)](https://thebackroomtech.com/2021/03/12/how-to-setup-amazon-sns/ "How to Setup Amazon SNS")[How to Setup Amazon SNS](https://thebackroomtech.com/2021/03/12/how-to-setup-amazon-sns/ "How to Setup Amazon SNS")
 
 #### Our Publishing Family
 
