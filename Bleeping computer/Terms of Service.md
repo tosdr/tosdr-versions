@@ -23,31 +23,31 @@
     * [Featured](#nfeatured)
     * [Latest](#nlatest)
     
-    * [![FTC exposes massive surveillance of kids, teens by social media giants](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    * [![Clever 'GitHub Scanner' campaign abusing repos to push malware](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        FTC exposes massive surveillance of kids, teens by social media giants](https://www.bleepingcomputer.com/news/technology/ftc-exposes-massive-surveillance-of-kids-teens-by-social-media-giants/)
+        Clever 'GitHub Scanner' campaign abusing repos to push malware](https://www.bleepingcomputer.com/news/security/clever-github-scanner-campaign-abusing-repos-to-push-malware/)
+    * [![Police dismantles phone unlocking ring linked to 483,000 victims](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        Police dismantles phone unlocking ring linked to 483,000 victims](https://www.bleepingcomputer.com/news/security/police-dismantles-iserver-phone-unlocking-network-linked-to-483-000-victims/)
     * [![Unexplained ‘Noise Storms’ flood the Internet, puzzle experts](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         Unexplained ‘Noise Storms’ flood the Internet, puzzle experts](https://www.bleepingcomputer.com/news/security/unexplained-noise-storms-flood-the-internet-puzzle-experts/)
-    * [![Ivanti warns of another critical CSA flaw exploited in attacks](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        Ivanti warns of another critical CSA flaw exploited in attacks](https://www.bleepingcomputer.com/news/security/ivanti-warns-of-another-critical-csa-flaw-exploited-in-attacks/)
     * [![Tor says it’s ](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         Tor says it’s "still safe" amid reports of police deanonymizing users](https://www.bleepingcomputer.com/news/security/tor-says-its-still-safe-amid-reports-of-police-deanonymizing-users/)
     
-    * [![Study for GSEC, CISSP, and more certifications with this $56 bundle deal](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    * [![Disney ditching Slack after massive July data breach](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Study for GSEC, CISSP, and more certifications with this $56 bundle deal](https://www.bleepingcomputer.com/offer/deals/study-for-gsec-cissp-and-more-certifications-with-this-56-bundle-deal/)
-    * [![Suspects behind $230 million cryptocurrency theft arrested in Miami](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        Disney ditching Slack after massive July data breach](https://www.bleepingcomputer.com/news/security/disney-ditching-slack-after-massive-july-data-breach/)
+    * [![Ukraine bans Telegram on military, govt devices over security risks](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Suspects behind $230 million cryptocurrency theft arrested in Miami](https://www.bleepingcomputer.com/news/security/suspects-behind-230-million-cryptocurrency-theft-arrested-in-miami/)
-    * [![CISA warns of actively exploited Apache HugeGraph-Server bug](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        Ukraine bans Telegram on military, govt devices over security risks](https://www.bleepingcomputer.com/news/security/ukraine-bans-telegram-on-military-govt-devices-over-security-risks/)
+    * [![Dell investigates data breach claims after hacker leaks employee info](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        CISA warns of actively exploited Apache HugeGraph-Server bug](https://www.bleepingcomputer.com/news/security/cisa-warns-of-actively-exploited-apache-hugegraph-server-bug/)
-    * [![Microsoft Edge will flag extensions causing performance issues](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        Dell investigates data breach claims after hacker leaks employee info](https://www.bleepingcomputer.com/news/security/dell-investigates-data-breach-claims-after-hacker-leaks-employee-info/)
+    * [![macOS Sequoia change breaks networking for VPN, antivirus software](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Microsoft Edge will flag extensions causing performance issues](https://www.bleepingcomputer.com/news/microsoft/microsoft-edge-will-flag-extensions-causing-performance-issues/)
+        macOS Sequoia change breaks networking for VPN, antivirus software](https://www.bleepingcomputer.com/news/apple/macos-sequoia-change-breaks-networking-for-vpn-antivirus-software/)
     
 * [Tutorials](https://www.bleepingcomputer.com/tutorials/)
     
