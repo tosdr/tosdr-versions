@@ -251,7 +251,7 @@ El presente Aviso de Privacidad puede sufrir modificaciones, cambios o actualiza
 
 Los cambios al Aviso de Privacidad se informarán a través de nuestro sitio web en la siguiente dirección: www.mediasource.mx/privacidad, para que usted como titular de la PII o los Datos Personales tome las medidas correspondientes a fin de resguardar sus derechos. En tal caso, indicaremos la fecha en la cual se haya actualizado y/o realizado alguna modificación a este Aviso de Privacidad.
 
- ![logo-media-source-blanco](https://www.mediasource.mx/hubfs/LogoMediaSource/logo-media-source-blanco.svg)
+![logo-media-source-blanco](https://www.mediasource.mx/hubfs/LogoMediaSource/logo-media-source-blanco.svg)
 
 * [Recursos y herramientas](javascript:;)
     * [Blog de Marketing, Ventas, HubSpot](https://www.mediasource.mx/centro-de-aprendizaje)
