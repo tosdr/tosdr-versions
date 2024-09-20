@@ -288,15 +288,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-Hermione Granger is an only child. She originally had a younger sister, but the storyline didn’t work out.
+Ginny Weasley’s full first name is Ginevra, not Virginia.
 
 ### Potter History
 
-June 4, 2012 – Sony unveils Wonderbook: Book of Spells at the Electronic Entertainment Expo in Los Angeles.
+February 25, 2005 – Bad weather plagued the filming of Goblet of Fire and delayed production.
 
 ### Potter Quote
 
-“Numbing the pain for a while will make it worse when you finally feel it.”
+“Make way for the Heir of Slytherin, seriously evil wizard coming through. . . .”
 
 [](#)
 
