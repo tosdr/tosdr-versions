@@ -223,8 +223,8 @@ Under California Civil Code Section 1789.3, users of the Service from California
 
 Please contact us at [hello@superhuman.com](mailto:hello@superhuman.com) to report any violations of these Terms of Service or to pose any questions regarding this Terms of Service or the Service.
 
-The Fastest Email Experience Ever Made
---------------------------------------
+The Most Productive Email App Ever Made
+---------------------------------------
 
 Company
 
@@ -274,8 +274,8 @@ Legal
 
 [](https://youtube.com/@SuperhumanCo)
 
-The Fastest Email Experience Ever Made
---------------------------------------
+The Most Productive Email App Ever Made
+---------------------------------------
 
 Company
 
@@ -325,8 +325,8 @@ Legal
 
 [](https://youtube.com/@SuperhumanCo)
 
-The Fastest Email Experience Ever Made
---------------------------------------
+The Most Productive Email App Ever Made
+---------------------------------------
 
 Company
 
@@ -376,8 +376,8 @@ Legal
 
 [](https://youtube.com/@SuperhumanCo)
 
-The Fastest Email Experience Ever Made
---------------------------------------
+The Most Productive Email App Ever Made
+---------------------------------------
 
 Company
 
