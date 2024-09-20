@@ -253,13 +253,13 @@ this week
 
 [Nutrition Research](https://www.sciencedaily.com/news/mind_brain/nutrition/)
 
-[Workplace Health](https://www.sciencedaily.com/news/health_medicine/workplace_health/)
+[Language Acquisition](https://www.sciencedaily.com/news/mind_brain/language_acquisition/)
 
 [PHYSICAL & TECH](https://www.sciencedaily.com/news/top/technology/)
 
-[Graphene](https://www.sciencedaily.com/news/matter_energy/graphene/)
+[Astrophysics](https://www.sciencedaily.com/news/space_time/astrophysics/)
 
-[Mathematical Modeling](https://www.sciencedaily.com/news/computers_math/mathematical_modeling/)
+[Graphene](https://www.sciencedaily.com/news/matter_energy/graphene/)
 
 [Black Holes](https://www.sciencedaily.com/news/space_time/black_holes/)
 
@@ -267,9 +267,9 @@ this week
 
 [New Species](https://www.sciencedaily.com/news/plants_animals/new_species/)
 
-[Dogs](https://www.sciencedaily.com/news/plants_animals/dogs/)
+[Ecology](https://www.sciencedaily.com/news/earth_climate/ecology/)
 
-[Endangered Plants](https://www.sciencedaily.com/news/plants_animals/endangered_plants/)
+[Ice Ages](https://www.sciencedaily.com/news/earth_climate/ice_ages/)
 
   
 
