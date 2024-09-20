@@ -228,13 +228,12 @@ It's Not News, It's Fark
 
 [Report](https://www.fark.com/farkback/)
 
-If you like these links, you'll love
+Want more stories with less ads? Try
 
 ![TotalFark](https://img.fark.net/images/2017/site/totalfark_logo_2017.png)
 
-Total access  
-Total knowledge  
-Total Fark
+It's what the cool kids are doing.  
+It also helps us pay the bills.
 
 [learn more](https://www.fark.com/farq/about/#What_is_TotalFark) | [sign up](https://www.fark.com/totalfarksignup)
 
@@ -334,16 +333,16 @@ Also on Fark
 
 |     |     |
 | --- | --- |
-| [Main](https://www.fark.com/) | [Gang rape victim gets to ask her own questions in court. "What are these men? Are they degenerates? They have committed rapes"](https://www.fark.com/goto/13400028) ( [independent.co.uk](https://www.fark.com/goto/13400028) ) » [(7 comments)](https://www.fark.com/comments/13400028/Gang-rape-victim-gets-to-ask-her-own-questions-in-court-What-are-these-men-Are-they-degenerates-They-have-committed-rapes) |
-| [Discussion](https://www.fark.com/discussion/) | [Are you suffering from gramnesia?](https://www.fark.com/goto/13399542) ( [huffpost.com](https://www.fark.com/goto/13399542) ) » [(13 comments)](https://www.fark.com/comments/13399542/Are-you-suffering-from-gramnesia) |
-| [Sports](https://www.fark.com/sports/) | [Derek Carr fined for acting like a pedophile](https://www.fark.com/goto/13399996) ( [espn.com](https://www.fark.com/goto/13399996) ) » [(11 comments)](https://www.fark.com/comments/13399996/Derek-Carr-fined-for-acting-like-a-pedophile) |
-| [Business](https://www.fark.com/business/) | [European August car sales were the lowest in 3 years, with German EV sales down a not so nice 69%](https://www.fark.com/goto/13400082) ( [msn.com](https://www.fark.com/goto/13400082) ) » [(1 comment)](https://www.fark.com/comments/13400082/European-August-car-sales-were-lowest-in-3-years-with-German-EV-sales-down-a-not-so-nice-69) |
-| [STEM](https://www.fark.com/stem/) | [That's no moon](https://www.fark.com/goto/13400154) ( [yahoo.com](https://www.fark.com/goto/13400154) ) » [(4 comments)](https://www.fark.com/comments/13400154/Thats-no-moon) |
-| [Entertainment](https://www.fark.com/entertainment/) | [JD Souther, songwriter for the Eagles and Linda Ronstadt, has penned his last verse](https://www.fark.com/goto/13400092) ( [deadline.com](https://www.fark.com/goto/13400092) ) » [(4 comments)](https://www.fark.com/comments/13400092/JD-Souther-songwriter-for-Eagles-Linda-Ronstadt-has-penned-his-last-verse) |
-| [Fandom](https://www.fark.com/fandom/) | [Famously unkillable comic book character who was the protagonist of one of the biggest movies of the year is permanently killed off, for realsies, we swear](https://www.fark.com/goto/13400150) ( [gamingbible.com](https://www.fark.com/goto/13400150) ) » [(2 comments)](https://www.fark.com/comments/13400150/Famously-unkillable-comic-book-character-who-was-protagonist-of-one-of-biggest-movies-of-year-is-permanently-killed-off-for-realsies-we-swear) |
-| [D'awww](https://www.fark.com/dawww/) | [Fark mascots cause train cancellation. That's nuts](https://www.fark.com/goto/13400078) ( [itv.com](https://www.fark.com/goto/13400078) ) » [(0 comments)](https://www.fark.com/comments/13400078/Fark-mascots-cause-train-cancellation-Thats-nuts) |
-| [Food](https://www.fark.com/food/) | [The latest, dumb thing that the Internet is trying to popularize? Viral sardine fasts](https://www.fark.com/goto/13400120) ( [slate.com](https://www.fark.com/goto/13400120) ) » [(4 comments)](https://www.fark.com/comments/13400120/The-latest-dumb-thing-that-Internet-is-trying-to-popularize-Viral-sardine-fasts) |
-| [Politics](https://www.fark.com/politics/) | [The right can't troll](https://www.fark.com/goto/13400284) ( [politico.com](https://www.fark.com/goto/13400284) ) » [(15 comments)](https://www.fark.com/comments/13400284/The-right-cant-troll) |
+| [Main](https://www.fark.com/) | [Why should they sell you the cheaper product when rebates to the middle managers by the pharmaceutical companies are so high?](https://www.fark.com/goto/13400630) ( [cnn.com](https://www.fark.com/goto/13400630) ) » [(5 comments)](https://www.fark.com/comments/13400630/Why-should-they-sell-you-cheaper-product-when-rebates-to-middle-managers-by-pharmaceutical-companies-are-so-high) |
+| [Discussion](https://www.fark.com/discussion/) | [The Nationals and Cubs starts Friday Baseball up at 2:20 PM ET, and other key series are Jays-Rays, Tigers-Orioles, Phillies-Mets, D'backs-Brewers, and Guardians-Cardinals. There's not much time left to make a playoff push now](https://www.fark.com/goto/13400016) ( [espn.com](https://www.fark.com/goto/13400016) ) » [(5 comments)](https://www.fark.com/comments/13400016/The-Nationals-Cubs-starts-Friday-Baseball-up-at-220-PM-ET-other-key-series-are-Jays-Rays-Tigers-Orioles-Phillies-Mets-Dbacks-Brewers-Guardians-Cardinals-Theres-not-much-time-left-to-make-a-playoff-push-now) |
+| [Sports](https://www.fark.com/sports/) | [The Nationals and Cubs starts Friday Baseball up at 2:20 PM ET, and other key series are Jays-Rays, Tigers-Orioles, Phillies-Mets, D'backs-Brewers, and Guardians-Cardinals. There's not much time left to make a playoff push now](https://www.fark.com/goto/13400016) ( [espn.com](https://www.fark.com/goto/13400016) ) » [(5 comments)](https://www.fark.com/comments/13400016/The-Nationals-Cubs-starts-Friday-Baseball-up-at-220-PM-ET-other-key-series-are-Jays-Rays-Tigers-Orioles-Phillies-Mets-Dbacks-Brewers-Guardians-Cardinals-Theres-not-much-time-left-to-make-a-playoff-push-now) |
+| [Business](https://www.fark.com/business/) | [Toys R Us opening 37 new stores--but only in the UK](https://www.fark.com/goto/13400500) ( [metro.co.uk](https://www.fark.com/goto/13400500) ) » [(4 comments)](https://www.fark.com/comments/13400500/Toys-R-Us-opening-37-new-stores-but-only-in-UK) |
+| [STEM](https://www.fark.com/stem/) | [A runaway asteroid becoming a new Earth moon? I think I watched that cartoon when I was kid](https://www.fark.com/goto/13400690) ( [cnn.com](https://www.fark.com/goto/13400690) ) » [(7 comments)](https://www.fark.com/comments/13400690/A-runaway-asteroid-becoming-a-new-Earth-moon-I-think-I-watched-that-cartoon-when-I-was-kid) |
+| [Entertainment](https://www.fark.com/entertainment/) | [Remember medical drama ER? This is where the cast is now](https://www.fark.com/goto/13400346) ( [deadline.com](https://www.fark.com/goto/13400346) ) » [(25 comments)](https://www.fark.com/comments/13400346/Remember-medical-drama-ER-This-is-where-cast-is-now) |
+| [Fandom](https://www.fark.com/fandom/) | [Now with less moon-logic than a King's Quest game it's the Friday Fark Gaming Thread. LGT the best point & click adventure games. What have you been playing this week? CK III? Cult of the Lamb? Norland? Side note: favourite "chill" games? Tell us](https://www.fark.com/goto/13399238) ( [ranker.com](https://www.fark.com/goto/13399238) ) » [(126 comments)](https://www.fark.com/comments/13399238/Now-with-less-moon-logic-than-a-Kings-Quest-game-its-Friday-Fark-Gaming-Thread-LGT-best-point-click-adventure-games-What-have-you-been-playing-this-week-CK-III-Cult-of-Lamb-Norland-Side-note-favourite-chill-games-Tell-us) |
+| [D'awww](https://www.fark.com/dawww/) | [Fark mascots cause train cancellation. That's nuts](https://www.fark.com/goto/13400078) ( [itv.com](https://www.fark.com/goto/13400078) ) » [(2 comments)](https://www.fark.com/comments/13400078/Fark-mascots-cause-train-cancellation-Thats-nuts) |
+| [Food](https://www.fark.com/food/) | ["The kebab belongs to Germany. Everyone should be allowed to decide for themselves how it is prepared and eaten here"](https://www.fark.com/goto/13400318) ( [abcnews.go.com](https://www.fark.com/goto/13400318) ) » [(17 comments)](https://www.fark.com/comments/13400318/The-kebab-belongs-to-Germany-Everyone-should-be-allowed-to-decide-for-themselves-how-it-is-prepared-eaten-here) |
+| [Politics](https://www.fark.com/politics/) | [If you sent "special" packages to elections officials in several states and signed them "The US Traitor Elimination Army", the FBI and the US Postal Inspection Service would like a few words](https://www.fark.com/goto/13400452) ( [bbc.com](https://www.fark.com/goto/13400452) ) » [(12 comments)](https://www.fark.com/comments/13400452/If-you-sent-special-packages-to-elections-officials-in-several-states-signed-them-The-US-Traitor-Elimination-Army-FBI-the-US-Postal-Inspection-Service-would-like-a-few-words) |
 
 * Fark :: [Main](https://www.fark.com/) | [Discussion](https://www.fark.com/discussion/) | [Sports](https://www.fark.com/sports/) | [Business](https://www.fark.com/business/) | [STEM](https://www.fark.com/stem/) | [Entertainment](https://www.fark.com/entertainment/) | [Fandom](https://www.fark.com/fandom/) | [D'awww](https://www.fark.com/dawww/) | [Food](https://www.fark.com/food/) | [Politics](https://www.fark.com/politics/)
 * Total Fark :: [TotalFark](https://total.fark.com/) | [TF Live](https://total.fark.com/live/) | [TF Advice](https://total.fark.com/advice/) | [TF Discussion](https://total.fark.com/tfdiscussion/) | [Commented](https://total.fark.com/commented/) | [Top Voted](https://total.fark.com/linkvote/) | [Greenlit](https://total.fark.com/greenlit/)
@@ -353,7 +352,7 @@ Also on Fark
 
 [Submit a Link »](https://www.fark.com/submit/)
 
-Copyright © 1999 - 2024 Fark, Inc | Last updated: Sep 20 2024 08:42:56  
+Copyright © 1999 - 2024 Fark, Inc | Last updated: Sep 20 2024 14:44:00  
 [Contact Us via Farkback](https://www.fark.com/farkback)  |  [Report a bug/error msg](https://www.fark.com/farkback/error)  |  [Terms of service/legal/privacy policy](https://www.fark.com/farq/legal)  |  [Do Not Sell or Share My Personal Information](javascript:void(0))  
 ![](https://www.fark.com/ll)
 
