@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/gezondheid/voedsel/professor-seralini-wint-weer-gmo-zaak/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/gezondheid/corona-kwestie/wybren-van-haga-en-de-1984-realiteit/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
