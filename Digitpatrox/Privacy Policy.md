@@ -20,16 +20,16 @@ Friday, September 20 2024
 
 Latest
 
-* [Apple embraced Meta’s vision (and Meta embraced Apple’s) – Computerworld](https://digitpatrox.com/apple-embraced-metas-vision-and-meta-embraced-apples-computerworld/)
-* [You Can Get a Sam’s Club Memberships on Sale for $15 Right Now](https://digitpatrox.com/you-can-get-a-sams-club-memberships-on-sale-for-15-right-now/)
-* [How to get a Scottish IP address with a VPN](https://digitpatrox.com/how-to-get-a-scottish-ip-address-with-a-vpn/)
-* [How to Reset a Smoke Alarm That Won’t Stop](https://digitpatrox.com/how-to-reset-a-smoke-alarm-that-wont-stop/)
-* [I’m Ditching my Apple Watch Ultra 2 for a Series 10, Here’s Why](https://digitpatrox.com/im-ditching-my-apple-watch-ultra-2-for-a-series-10-heres-why/)
-* [Salesforce may have had its ‘ChatGPT moment’ with AI agents – and it will take a lot to knock the company off its perch](https://digitpatrox.com/salesforce-may-have-had-its-chatgpt-moment-with-ai-agents-and-it-will-take-a-lot-to-knock-the-company-off-its-perch/)
-* [PDF Editing Magic for Just $50](https://digitpatrox.com/pdf-editing-magic-for-just-50/)
-* [What is Nord’s Identity Theft Insurance?](https://digitpatrox.com/what-is-nords-identity-theft-insurance/)
-* [Up close with Sony’s PS5 Pro — and the 30th Anniversary model](https://digitpatrox.com/up-close-with-sonys-ps5-pro-and-the-30th-anniversary-model/)
-* [Transformers One Post-Credits Scene Explained](https://digitpatrox.com/transformers-one-post-credits-scene-explained/)
+* [Vendor Spotlight: Faddom](https://digitpatrox.com/vendor-spotlight-faddom/)
+* [Google says UK needs policy step change to embrace its AI potential](https://digitpatrox.com/google-says-uk-needs-policy-step-change-to-embrace-its-ai-potential/)
+* [Disney to ditch Slack after security breach, will move to Microsoft Teams – Computerworld](https://digitpatrox.com/disney-to-ditch-slack-after-security-breach-will-move-to-microsoft-teams-computerworld/)
+* [Red Flags to Look For When Buying a Used Car](https://digitpatrox.com/red-flags-to-look-for-when-buying-a-used-car/)
+* [Ransomware attack on cancer diagnostic lab compromises SSNs and medical info](https://digitpatrox.com/ransomware-attack-on-cancer-diagnostic-lab-compromises-ssns-and-medical-info/)
+* [Windows App doesn’t replace the Remote Desktop app for Windows PCs, only for Apple and Android users](https://digitpatrox.com/windows-app-doesnt-replace-the-remote-desktop-app-for-windows-pcs-only-for-apple-and-android-users/)
+* [Best Exterior Paints of 2024](https://digitpatrox.com/best-exterior-paints-of-2024/)
+* [8 Google Home Features You Need to Try](https://digitpatrox.com/8-google-home-features-you-need-to-try/)
+* [High wire acts, Microsoft Clippy, and DIY AI at Dreamforce 2024](https://digitpatrox.com/high-wire-acts-microsoft-clippy-and-diy-ai-at-dreamforce-2024/)
+* [5 Best Android Credit Card Readers (Recommended By Experts)](https://digitpatrox.com/5-best-android-credit-card-readers-recommended-by-experts/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,35 +171,35 @@ Popular Posts
     August 21, 2024
     
 
-* [![](https://www.computerworld.com/wp-content/uploads/2024/09/3523752-0-54854600-1726826679-shutterstock_1964316664.jpg?quality=50&strip=all&w=1024)](https://digitpatrox.com/apple-embraced-metas-vision-and-meta-embraced-apples-computerworld/)
+* [![](https://cdn.comparitech.com/wp-content/uploads/2024/09/Faddom-Vendor-Spotlight.jpeg)](https://digitpatrox.com/vendor-spotlight-faddom/)
     
-    [Apple embraced Meta’s vision (and Meta embraced Apple’s) – Computerworld](https://digitpatrox.com/apple-embraced-metas-vision-and-meta-embraced-apples-computerworld/)
+    [Vendor Spotlight: Faddom](https://digitpatrox.com/vendor-spotlight-faddom/)
     
-    3 seconds ago
+    15 mins ago
     
-* [![](https://lifehacker.com/imagery/articles/01HF2HDZM8HW3FQW65ZP2XCP1C/hero-image.fill.size_1200x675.png)](https://digitpatrox.com/you-can-get-a-sams-club-memberships-on-sale-for-15-right-now/)
+* [![](https://cdn.mos.cms.futurecdn.net/sffQdfqLjSzZR2p5AfSNPG-1200-80.jpg)](https://digitpatrox.com/google-says-uk-needs-policy-step-change-to-embrace-its-ai-potential/)
     
-    [You Can Get a Sam’s Club Memberships on Sale for $15 Right Now](https://digitpatrox.com/you-can-get-a-sams-club-memberships-on-sale-for-15-right-now/)
+    [Google says UK needs policy step change to embrace its AI potential](https://digitpatrox.com/google-says-uk-needs-policy-step-change-to-embrace-its-ai-potential/)
     
-    25 mins ago
+    34 mins ago
     
-* [![](https://cdn.comparitech.com/wp-content/uploads/2024/09/How-to-get-a-Scottish-IP-address.jpg)](https://digitpatrox.com/how-to-get-a-scottish-ip-address-with-a-vpn/)
+* [![](https://www.computerworld.com/wp-content/uploads/2024/09/3535458-0-12994900-1726847270-shutterstock_editorial_1455626558.jpg?quality=50&strip=all&w=1024)](https://digitpatrox.com/disney-to-ditch-slack-after-security-breach-will-move-to-microsoft-teams-computerworld/)
     
-    [How to get a Scottish IP address with a VPN](https://digitpatrox.com/how-to-get-a-scottish-ip-address-with-a-vpn/)
+    [Disney to ditch Slack after security breach, will move to Microsoft Teams – Computerworld](https://digitpatrox.com/disney-to-ditch-slack-after-security-breach-will-move-to-microsoft-teams-computerworld/)
     
-    36 mins ago
+    57 mins ago
     
-* [![](https://article.images.consumerreports.org/image/upload/t_article_tout/v1623683298/prod/content/dam/CRO-Images-2021/Home/06June/CR-Home-Inlinehero-how-to-reset-a-fire-alarm-0621)](https://digitpatrox.com/how-to-reset-a-smoke-alarm-that-wont-stop/)
+* [![](https://lifehacker.com/imagery/articles/01J87VYN1N2Q1BVC749JHF3W76/hero-image.fill.size_1200x675.jpg)](https://digitpatrox.com/red-flags-to-look-for-when-buying-a-used-car/)
     
-    [How to Reset a Smoke Alarm That Won’t Stop](https://digitpatrox.com/how-to-reset-a-smoke-alarm-that-wont-stop/)
+    [Red Flags to Look For When Buying a Used Car](https://digitpatrox.com/red-flags-to-look-for-when-buying-a-used-car/)
     
-    58 mins ago
+    1 hour ago
     
-* [![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/09/a-woman-running-with-an-apple-watch-series-10-in-the-background-1.jpg)](https://digitpatrox.com/im-ditching-my-apple-watch-ultra-2-for-a-series-10-heres-why/)
+* [![](https://cdn.comparitech.com/wp-content/uploads/2024/09/siparadigm-ransomware.jpg)](https://digitpatrox.com/ransomware-attack-on-cancer-diagnostic-lab-compromises-ssns-and-medical-info/)
     
-    [I’m Ditching my Apple Watch Ultra 2 for a Series 10, Here’s Why](https://digitpatrox.com/im-ditching-my-apple-watch-ultra-2-for-a-series-10-heres-why/)
+    [Ransomware attack on cancer diagnostic lab compromises SSNs and medical info](https://digitpatrox.com/ransomware-attack-on-cancer-diagnostic-lab-compromises-ssns-and-medical-info/)
     
-    59 mins ago
+    2 hours ago
     
 
 ![](https://digitpatrox.com/wp-content/uploads/2023/12/Digitpatrox-NEW-Logo-White.png)
@@ -208,51 +208,51 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [3 seconds ago
+* [15 mins ago
     
-    ### Apple embraced Meta’s vision (and Meta embraced Apple’s) – Computerworld](https://digitpatrox.com/apple-embraced-metas-vision-and-meta-embraced-apples-computerworld/)
-* [25 mins ago
+    ### Vendor Spotlight: Faddom](https://digitpatrox.com/vendor-spotlight-faddom/)
+* [34 mins ago
     
-    ### You Can Get a Sam’s Club Memberships on Sale for $15 Right Now](https://digitpatrox.com/you-can-get-a-sams-club-memberships-on-sale-for-15-right-now/)
-* [36 mins ago
+    ### Google says UK needs policy step change to embrace its AI potential](https://digitpatrox.com/google-says-uk-needs-policy-step-change-to-embrace-its-ai-potential/)
+* [57 mins ago
     
-    ### How to get a Scottish IP address with a VPN](https://digitpatrox.com/how-to-get-a-scottish-ip-address-with-a-vpn/)
+    ### Disney to ditch Slack after security breach, will move to Microsoft Teams – Computerworld](https://digitpatrox.com/disney-to-ditch-slack-after-security-breach-will-move-to-microsoft-teams-computerworld/)
 
 Most Popular Topics
 
-* [2 weeks ago
+* [4 weeks ago
     
-    ### How to install Google Gemini as an app on Windows 11, 10](https://digitpatrox.com/how-to-install-google-gemini-as-an-app-on-windows-11-10/)
-* [August 18, 2024
+    ### Patelco notifies 726,000 customers of ransomware data breach](https://digitpatrox.com/patelco-notifies-726000-customers-of-ransomware-data-breach/)
+* [August 19, 2024
     
-    ### A Googler’s guide to getting things done](https://digitpatrox.com/a-googlers-guide-to-getting-things-done/)
+    ### The Navimow i110N robot lawn mower might just replace your landscapers](https://digitpatrox.com/the-navimow-i110n-robot-lawn-mower-might-just-replace-your-landscapers/)
 * [3 weeks ago
     
-    ### Boeing’s Starliner started making a repeating ‘pulsing’ sound yesterday](https://digitpatrox.com/boeings-starliner-started-making-a-repeating-pulsing-sound-yesterday/)
+    ### What is an adjustable smart bed and should you buy one in the Labor Day sales?](https://digitpatrox.com/what-is-an-adjustable-smart-bed-and-should-you-buy-one-in-the-labor-day-sales/)
 
 Last Modified Topics
 
 * [2 hours ago
     
-    ### PDF Editing Magic for Just $50](https://digitpatrox.com/pdf-editing-magic-for-just-50/)
+    ### Best Exterior Paints of 2024](https://digitpatrox.com/best-exterior-paints-of-2024/)
 * [2 hours ago
     
-    ### What is Nord’s Identity Theft Insurance?](https://digitpatrox.com/what-is-nords-identity-theft-insurance/)
+    ### 8 Google Home Features You Need to Try](https://digitpatrox.com/8-google-home-features-you-need-to-try/)
 * [3 hours ago
     
-    ### Up close with Sony’s PS5 Pro — and the 30th Anniversary model](https://digitpatrox.com/up-close-with-sonys-ps5-pro-and-the-30th-anniversary-model/)
+    ### High wire acts, Microsoft Clippy, and DIY AI at Dreamforce 2024](https://digitpatrox.com/high-wire-acts-microsoft-clippy-and-diy-ai-at-dreamforce-2024/)
 
 Most Viewed Topics
 
 * [August 21, 2024
     
     ### Wordle Answer for Today, August 21, 2024](https://digitpatrox.com/wordle-answer-for-today-august-21-2024/)
-* [August 11, 2024
-    
-    ### US citizen charged with aiding North Korean hackers moonlighting as tech workers](https://digitpatrox.com/us-citizen-charged-with-aiding-north-korean-hackers-moonlighting-as-tech-workers/)
 * [August 12, 2024
     
-    ### Texas Board of Physical Therapy Examiners breached, SSNs and other info compromised](https://digitpatrox.com/texas-board-of-physical-therapy-examiners-breached-ssns-and-other-info-compromised/)
+    ### How to enable Do Not Track on your web browser for Windows](https://digitpatrox.com/how-to-enable-do-not-track-on-your-web-browser-for-windows/)
+* [3 weeks ago
+    
+    ### Getting Your iPhone Repaired Could Ban You From Snapchat](https://digitpatrox.com/getting-your-iphone-repaired-could-ban-you-from-snapchat/)
 
 © Copyright 2018 - 2024, All Rights Reserved
 
