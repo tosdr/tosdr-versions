@@ -144,18 +144,18 @@
         
         [Talk to sales](https://www.sanity.io/contact/sales?ref=navbar-resources)
         
-        Case studies
-        ------------
+        Customer stories
+        ----------------
         
         [Puma
         
-        Source of truth for global markets](https://www.sanity.io/case-studies/puma)[Tata Digital
+        Source of truth for global markets](https://www.sanity.io/customers/puma)[Tata Digital
         
-        Scaling multi-brand e-commerce with composability](https://www.sanity.io/case-studies/tata)[Morning Brew
+        Scaling multi-brand e-commerce with composability](https://www.sanity.io/customers/tata)[Morning Brew
         
-        Omnichannel media distribution](https://www.sanity.io/case-studies/morning-brew)[Aether
+        Omnichannel media distribution](https://www.sanity.io/customers/morning-brew)[Aether
         
-        Unique digital shopping experience](https://www.sanity.io/case-studies/aether)
+        Unique digital shopping experience](https://www.sanity.io/customers/aether)
         
         [View all](https://www.sanity.io/case-studies)
         
@@ -426,7 +426,7 @@ Product
 Resources
 ---------
 
-[Documentation](https://www.sanity.io/docs)[Blog](https://www.sanity.io/blog)[Resource library](https://www.sanity.io/resources)[Case Studies](https://www.sanity.io/case-studies)
+[Documentation](https://www.sanity.io/docs)[Blog](https://www.sanity.io/blog)[Resource library](https://www.sanity.io/resources)[Customer stories](https://www.sanity.io/customers)
 
 Guides
 
