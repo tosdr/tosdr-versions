@@ -80,7 +80,7 @@
 
 * [Notifications & Disaster Information](https://colonialpenn.com/disaster-information)
 
-[Get a Quote](https://colonialpenn.com/quote?pname=GBL) ![right arrow](/o/cptheme/images/White.svg) 
+[Get a Quote ![right arrow](/o/cptheme/images/White.svg)](https://colonialpenn.com/quote?pname=GBL) 
 
 [1-877-877-8052](tel:1-877-877-8052 "phone number")
 
