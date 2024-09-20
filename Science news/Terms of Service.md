@@ -87,23 +87,23 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
         * [Health & Medicine](https://www.sciencenews.org/topic/health-medicine)
         * [Archaeology](https://www.sciencenews.org/topic/archaeology)
         * [Psychology](https://www.sciencenews.org/topic/psychology)
-    * * [Health & Medicine](https://www.sciencenews.org/topic/health-medicine)
+    * * [Climate](https://www.sciencenews.org/topic/climate)
             
-            ### [Vaccines for mpox are finally reaching Africa. But questions about the virus remain](https://www.sciencenews.org/article/mpox-africa-vaccines-outbreak-virus)
+            ### [Climate change could double U.S. temperature-linked deaths by mid-century](https://www.sciencenews.org/article/climate-change-double-temperature-death)
             
-            By [Erin Garcia de Jesús](https://www.sciencenews.org/author/erin-garcia-de-jesus "Posts by Erin Garcia de Jesús")24 hours ago
+            By [Andrea Tamayo](https://www.sciencenews.org/author/andrea-tamayo "Posts by Andrea Tamayo")2 hours ago
             
-        * [Anthropology](https://www.sciencenews.org/topic/anthropology)
+        * [Microbes](https://www.sciencenews.org/topic/microbes)
             
-            ### [Fossils of an extinct animal may have inspired this cave art drawing](https://www.sciencenews.org/article/fossils-extinct-animal-cave-art)
+            ### [Some bacteria in your mouth can divide into as many as 14 cells at once](https://www.sciencenews.org/article/bacteria-unique-mouth-division)
             
-            By [Bruce Bower](https://www.sciencenews.org/author/bruce-bower "Posts by Bruce Bower")September 18, 2024
+            By [Saugat Bolakhe](https://www.sciencenews.org/author/saugat-bolakhe "Posts by Saugat Bolakhe")6 hours ago
             
         * [Health & Medicine](https://www.sciencenews.org/topic/health-medicine)
             
-            ### [Can taking ashwagandha supplements improve health?](https://www.sciencenews.org/article/does-ashwagandha-improve-health)
+            ### [Vaccines for mpox are finally reaching Africa. But questions about the virus remain](https://www.sciencenews.org/article/mpox-africa-vaccines-outbreak-virus)
             
-            By [Sean Cummings](https://www.sciencenews.org/author/sean-cummings "Posts by Sean Cummings")September 13, 2024
+            By [Erin Garcia de Jesús](https://www.sciencenews.org/author/erin-garcia-de-jesus "Posts by Erin Garcia de Jesús")September 19, 2024
             
 * [Life](https://www.sciencenews.org/topic/life)
     * [Life](https://www.sciencenews.org/topic/life)
@@ -116,21 +116,21 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
         * [Microbes](https://www.sciencenews.org/topic/microbes)
     * * [Animals](https://www.sciencenews.org/topic/animals)
             
+            ### [Scientists have just turned giant panda skin cells into stem cells](https://www.sciencenews.org/article/giant-panda-skin-cells-turned-stem-cells)
+            
+            By [Jason Bittel](https://www.sciencenews.org/author/jason-bittel "Posts by Jason Bittel")3 hours ago
+            
+        * [Microbes](https://www.sciencenews.org/topic/microbes)
+            
+            ### [Some bacteria in your mouth can divide into as many as 14 cells at once](https://www.sciencenews.org/article/bacteria-unique-mouth-division)
+            
+            By [Saugat Bolakhe](https://www.sciencenews.org/author/saugat-bolakhe "Posts by Saugat Bolakhe")6 hours ago
+            
+        * [Animals](https://www.sciencenews.org/topic/animals)
+            
             ### [Ants changed the architecture of their nests when exposed to a pathogen](https://www.sciencenews.org/article/ants-change-nest-architecture-pathogen)
             
             By [Richard Kemeny](https://www.sciencenews.org/author/richard-kemeny "Posts by Richard Kemeny")September 19, 2024
-            
-        * [Neuroscience](https://www.sciencenews.org/topic/neuroscience)
-            
-            ### [Some healthy fish have bacteria in their brains](https://www.sciencenews.org/article/fish-brain-bacteria)
-            
-            By [Erin Garcia de Jesús](https://www.sciencenews.org/author/erin-garcia-de-jesus "Posts by Erin Garcia de Jesús")September 18, 2024
-            
-        * [Neuroscience](https://www.sciencenews.org/topic/neuroscience)
-            
-            ### [Mitochondria can sneak DNA into the nuclei of brain cells](https://www.sciencenews.org/article/mitochondria-insertions-brain-cells)
-            
-            By [Claudia López Lloreda](https://www.sciencenews.org/author/claudia-lopez-lloreda "Posts by Claudia López Lloreda")September 18, 2024
             
 * [Earth](https://www.sciencenews.org/topic/earth)
     * [Earth](https://www.sciencenews.org/topic/earth)
@@ -140,21 +140,21 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
         * [Environment](https://www.sciencenews.org/topic/environment)
     * * [Climate](https://www.sciencenews.org/topic/climate)
             
+            ### [Climate change could double U.S. temperature-linked deaths by mid-century](https://www.sciencenews.org/article/climate-change-double-temperature-death)
+            
+            By [Andrea Tamayo](https://www.sciencenews.org/author/andrea-tamayo "Posts by Andrea Tamayo")2 hours ago
+            
+        * [Climate](https://www.sciencenews.org/topic/climate)
+            
             ### [Earth’s ancient ‘greenhouse’ conditions were hotter than thought](https://www.sciencenews.org/article/earth-greenhouse-temperature-timeline)
             
-            By [Carolyn Gramling](https://www.sciencenews.org/author/carolyn-gramling "Posts by Carolyn Gramling")21 hours ago
+            By [Carolyn Gramling](https://www.sciencenews.org/author/carolyn-gramling "Posts by Carolyn Gramling")September 19, 2024
             
         * [Climate](https://www.sciencenews.org/topic/climate)
             
             ### [Can solar farms and crop farms coexist?](https://www.sciencenews.org/article/solar-agriculture-farming-argivoltaic)
             
             By [Luke Groskin](https://www.sciencenews.org/author/luke-groskin "Posts by Luke Groskin")September 13, 2024
-            
-        * [Planetary Science](https://www.sciencenews.org/topic/planetary-science)
-            
-            ### [Scientists find a long-sought electric field in Earth’s atmosphere](https://www.sciencenews.org/article/electric-field-in-earths-atmosphere)
-            
-            By [Lisa Grossman](https://www.sciencenews.org/author/lisa-grossman "Posts by Lisa Grossman")September 13, 2024
             
 * [Physics](https://www.sciencenews.org/topic/physics)
     * [Physics](https://www.sciencenews.org/topic/physics)
@@ -165,7 +165,7 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [A neutrino mass mismatch could shake cosmology’s foundations](https://www.sciencenews.org/article/neutrino-mass-phenomenon-cosmology)
             
-            By [Emily Conover](https://www.sciencenews.org/author/emily-conover "Posts by Emily Conover")2 hours ago
+            By [Emily Conover](https://www.sciencenews.org/author/emily-conover "Posts by Emily Conover")8 hours ago
             
         * [Particle Physics](https://www.sciencenews.org/topic/particle-physics)
             
@@ -188,7 +188,7 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [A neutrino mass mismatch could shake cosmology’s foundations](https://www.sciencenews.org/article/neutrino-mass-phenomenon-cosmology)
             
-            By [Emily Conover](https://www.sciencenews.org/author/emily-conover "Posts by Emily Conover")2 hours ago
+            By [Emily Conover](https://www.sciencenews.org/author/emily-conover "Posts by Emily Conover")8 hours ago
             
         * [Space](https://www.sciencenews.org/topic/space)
             
