@@ -33,7 +33,7 @@ Connect & learn
 * [Innovation history](https://www.yubico.com/why-yubico/yubico-innovation-history/)
 * [Secure it Forward](https://www.yubico.com/why-yubico/secure-it-forward/)
 
-[![Man holding YubiKey](https://www.yubico.com/wp-content/uploads/2023/03/WhyY-nav-easy-to-use-1.jpg)
+[![](https://www.yubico.com/wp-content/uploads/2023/03/WhyY-nav-easy-to-use-1.jpg)
 
 Easy-to-use, secure authentication
 
@@ -41,7 +41,7 @@ With YubiKey there’s no tradeoff between great security and usability
 
 Why YubiKey
 
-* terms and conditions](https://www.yubico.com/why-yubico/)[![Google headquarters](https://www.yubico.com/wp-content/uploads/2023/03/WhyY-nav-google-1.jpg)
+* terms and conditions](https://www.yubico.com/why-yubico/)[![](https://www.yubico.com/wp-content/uploads/2023/03/WhyY-nav-google-1.jpg)
 
 Proven at scale at Google
 
@@ -49,7 +49,7 @@ Google defends against account takeovers and reduces IT costs
 
 Google Case Study
 
-* terms and conditions](https://www.yubico.com/resources/reference-customers/google/)[![Hand holding YubiKey behind Apple iPhone](https://www.yubico.com/wp-content/uploads/2023/03/img-passwordless-nav-5-1.jpg)
+* terms and conditions](https://www.yubico.com/resources/reference-customers/google/)[![](https://www.yubico.com/wp-content/uploads/2023/03/img-passwordless-nav-5-1.jpg)
 
 Protecting vulnerable organizations
 
@@ -90,7 +90,7 @@ Discover the YubiKey
 * [Works with YubiKey](https://www.yubico.com/works-with-yubikey/catalog/)
 * [Compare YubiKeys](https://www.yubico.com/store/compare/)
 
-[![Woman holding YubiKey 5ci](https://www.yubico.com/wp-content/uploads/2023/03/img-hundreds-services-nav-3-1.jpg)
+[![](https://www.yubico.com/wp-content/uploads/2023/03/img-hundreds-services-nav-3-1.jpg)
 
 One key for hundreds of apps and services
 
@@ -140,7 +140,7 @@ Technologies
 * [HYPR experience](https://www.yubico.com/solutions/hypr-and-yubico/)
 * [Okta identity solutions](https://www.yubico.com/solutions/okta-and-yubico/)
 
-[![Hand holding YubiKey behind Apple iPhone](https://www.yubico.com/wp-content/uploads/2023/03/img-passwordless-nav-5-1.jpg)
+[![](https://www.yubico.com/wp-content/uploads/2023/03/img-passwordless-nav-5-1.jpg)
 
 The Bridge to Passwordless
 
@@ -148,7 +148,7 @@ Begin the journey to make your organization passwordless
 
 Get the white paper
 
-* terms and conditions](https://www.yubico.com/resource/bridge-to-passwordless-separating-fact-from-fiction/)[![Lock on a laptop](https://www.yubico.com/wp-content/uploads/2023/03/img-zero-trust-nav-3.jpg)
+* terms and conditions](https://www.yubico.com/resource/bridge-to-passwordless-separating-fact-from-fiction/)[![](https://www.yubico.com/wp-content/uploads/2023/03/img-zero-trust-nav-3.jpg)
 
 Accelerate your Zero Trust Strategy
 
@@ -156,7 +156,7 @@ Accelerate your Zero Trust Strategy
 
 Get the white paper
 
-* terms and conditions](https://www.yubico.com/resource/accelerate-zero-trust-with-strong-authentication/)[![Government building](https://www.yubico.com/wp-content/uploads/2023/03/img-federal-nav-3.jpg)
+* terms and conditions](https://www.yubico.com/resource/accelerate-zero-trust-with-strong-authentication/)[![](https://www.yubico.com/wp-content/uploads/2023/03/img-federal-nav-3.jpg)
 
 Federal cybersecurity requirements
 
@@ -190,7 +190,7 @@ Industries
 * [Elections & campaigns](https://www.yubico.com/industries/political-campaigns/)
 * [Insurance organizations](https://www.yubico.com/industries/phishing-resistant-mfa-and-passwordless-for-insurance-organizations/)
 
-[![man working a manufacturing line](https://www.yubico.com/wp-content/uploads/2023/03/img-mfg-nav.jpg)
+[![](https://www.yubico.com/wp-content/uploads/2023/03/img-mfg-nav.jpg)
 
 Manufacturing and supply chain security
 
@@ -198,7 +198,7 @@ Authentication best practices for manufacturing
 
 Get the white paper
 
-* terms and conditions](https://www.yubico.com/resource/protecting-manufacturing-with-highest-assurance-security/)[![Person looking at a computer with a government building showing](https://www.yubico.com/wp-content/uploads/2023/03/img-phishing-nav.jpg)
+* terms and conditions](https://www.yubico.com/resource/protecting-manufacturing-with-highest-assurance-security/)[![](https://www.yubico.com/wp-content/uploads/2023/03/img-phishing-nav.jpg)
 
 Phishing-resistant MFA: Fact vs. Fiction
 
@@ -206,7 +206,7 @@ Meet requirements for phishing-resistant MFA in OMB M-22-09 guidelines
 
 Get the white paper
 
-* terms and conditions](https://www.yubico.com/resource/phishing-resistant-mfa-fact-vs-fiction/)[![Remote workers at a wind farm](https://www.yubico.com/wp-content/uploads/2023/03/img-nat-resources-nav.jpg)
+* terms and conditions](https://www.yubico.com/resource/phishing-resistant-mfa-fact-vs-fiction/)[![](https://www.yubico.com/wp-content/uploads/2023/03/img-nat-resources-nav.jpg)
 
 Secure energy and natural resources from cyber threats
 
@@ -238,7 +238,7 @@ Best practices
 * [White papers and reports](https://www.yubico.com/resource_categories/white-papers/)
 * [Webinars](https://www.yubico.com/resource_categories/webinars/)
 
-[![Laptop with a YubiKey inserted](https://www.yubico.com/wp-content/uploads/2023/03/img-beyondTrust-nav.jpg)
+[![](https://www.yubico.com/wp-content/uploads/2023/03/img-beyondTrust-nav.jpg)
 
 BeyondTrust: secured with a subscription
 
@@ -289,7 +289,7 @@ Additional resources
 * [Security advisories](https://www.yubico.com/support/security-advisories/)
 * [Help center](https://support.yubico.com/hc/en-us/)
 
-[![YubiKeys in lots of form factors](https://www.yubico.com/wp-content/uploads/2023/03/img-setup-nav-3.jpg)
+[![](https://www.yubico.com/wp-content/uploads/2023/03/img-setup-nav-3.jpg)
 
 How to set up your YubiKey
 
@@ -297,7 +297,7 @@ Follow our guided tutorials to start protecting your services
 
 Set up your YubiKey
 
-* terms and conditions](https://www.yubico.com/setup/)[![YubiKey on a keychain plugged into a laptop](https://www.yubico.com/wp-content/uploads/2023/03/img-find-nav-3.jpg)
+* terms and conditions](https://www.yubico.com/setup/)[![](https://www.yubico.com/wp-content/uploads/2023/03/img-find-nav-3.jpg)
 
 Find the best YubiKey for your needs
 
@@ -305,7 +305,7 @@ Take the guided quiz and see which YubiKeys fit your needs
 
 Take the quiz
 
-* terms and conditions](https://www.yubico.com/quiz/)[![Worker with a calculator and laptop with a spreadsheet](https://www.yubico.com/wp-content/uploads/2023/03/img-accelerate-nav-3.jpg)
+* terms and conditions](https://www.yubico.com/quiz/)[![](https://www.yubico.com/wp-content/uploads/2023/03/img-accelerate-nav-3.jpg)
 
 Accelerate your YubiKey deployment
 
