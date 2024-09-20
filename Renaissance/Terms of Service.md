@@ -211,29 +211,35 @@ Renaissance has been honored with four SIIA CODiE Awards, including Best Educati
 
 Learn More
 
-![Hero image for the Terms of Use page](https://www.renaissance.com/wp-content/uploads/2022/07/TaxWarrantyBanner.webp)
+![three smiling people](https://www.renaissance.com/wp-content/uploads/2022/07/TaxWarrantyBanner.webp)
 
 Terms of Use Agreement
 ======================
 
-Last updated: September 6, 2023
+LAST UPDATED: SEPTEMBER 6, 2023
 
-Application Terms of Service and License
+Application terms of service and license
 ----------------------------------------
 
 For the terms that apply to use of our applications and products, please visit the appropriate links below:
 
+![map of america](https://www.renaissance.com/wp-content/uploads/2024/06/us.webp)
+
 ### United States
 
-[Read USA Terms](https://docs.renaissance.com/R62416)
+[Read USA terms](https://renaissance.widen.net/view/pdf/lpbviw3kbm/US-Terms-of-Service-and-License-Short-Form.pdf?t.download=true&u=zceria)
+
+![map of the United Kingdom](https://www.renaissance.com/wp-content/uploads/2024/06/uk.webp)
 
 ### United Kingdom
 
-[Read UK Terms](https://docs.renaissance.com/R60994)
+[Read UK terms](https://renaissance.widen.net/view/pdf/cn0wdggxly/Terms-of-Services-and-License---UK.pdf?t.download=true&u=zceria)
+
+![map of South Korea](https://www.renaissance.com/wp-content/uploads/2024/06/south-korea.webp)
 
 ### South Korea
 
-[Read South Korea Terms](https://docs.renaissance.com/R60993)
+[Read South Korea terms](https://renaissance.widen.net/view/pdf/olvehrck95/Terms-of-Services-and-License---Korea.pdf?t.download=true&u=zceria)
 
 Website terms of use agreement notice
 -------------------------------------
@@ -342,7 +348,7 @@ Notwithstanding the foregoing, Renaissance has the right to:
 * Take appropriate legal action, including without limitation, referral to law enforcement, for any illegal or unauthorized use of the Website.
 * Terminate or suspend your access to all or part of the Website for any or no reason, including without limitation, any violation of these Terms of Use.
 
-Without limiting the foregoing, Renaissance has the right to fully cooperate with any law enforcement authorities or court order requesting or directing Renaissance to disclose the identity or other information of anyone posting any materials on or through the Website. YOU WAIVE AND HOLD HARMLESS RENAISSANCE AND ITS AFFILIATES, LICENSEES AND SERVICE PROVIDERS FROM ANY CLAIMS RESULTING FROM ANY ACTION TAKEN BY ANY OF THE FOREGOING PARTIES DURING OR AS A RESULT OF ITS INVESTIGATIONS AND FROM ANY ACTIONS TAKEN AS A CONSEQUENCE OF INVESTIGATIONS BY SUCH PARTIES OR LAW ENFORCEMENT AUTHORITIES.
+Without limiting the foregoing, Renaissance has the right to fully cooperate with any law enforcement authorities or court order requesting or directing Renaissance to disclose the identity or other information of anyone posting any materials on or through the Website. **You waive and hold harmless renaissance and its affiliates, licensees and service providers from any claims resulting from any action taken by any of the foregoing parties during or as a result of its investigations and from any actions taken as a consequence of investigations by such parties or law enforcement authorities.**
 
 Products and tools
 ------------------
@@ -389,7 +395,7 @@ If you print, copy, modify, download or otherwise use or provide any other perso
 Copyright infringement
 ----------------------
 
-If you believe that any User Contributions violate your copyright, please see our [Copyright Policy](https://www.renaissance.com/copyright-policy/) for instructions on sending us a notice of copyright infringement.
+If you believe that any User Contributions violate your copyright, please see our [Copyright Policy](https://www.renaissance.com/copyright-policy/) for instructions on sending us a notice of copyright infringement.
 
 Privacy Notice
 --------------
@@ -421,9 +427,6 @@ Entire agreement
 ----------------
 
 The Terms of Use and all documents called out specifically therein constitute the sole and entire agreement between you and Renaissance with respect to the Website and supersede all prior and contemporaneous understandings, agreements, representations and warranties, both written and oral, with respect to the Website.
-
-Tax Information
----------------
 
 [See information](https://www.renaissance.com/tax-warranty/)
 
