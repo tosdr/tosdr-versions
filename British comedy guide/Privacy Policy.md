@@ -140,6 +140,10 @@ _This privacy policy was last updated on 24th May 2018, with minor clarification
 
 ### See also
 
+[![Ask Your Mother. Fin Taylor](https://cdn.comedy.co.uk/images/library/misc/300x200/f/fin_taylor_ask_your_mother.jpg "Ask Your Mother. Fin Taylor")](https://www.comedy.co.uk/live/features/bobby-carroll-diary-fin-taylor-lou-conran-sarah-millican/) Live
+
+[Fin Taylor / Lou Conran / Sarah Millican - Bobby Carroll's Live Comedy Diary](https://www.comedy.co.uk/live/features/bobby-carroll-diary-fin-taylor-lou-conran-sarah-millican/)
+
 [![Smack The Pony. Image shows left to right: Doon Mackichan, Fiona Allen, Sally Phillips](https://cdn.comedy.co.uk/images/library/comedies/300x200/s/smack_the_pony_c.jpg "Smack The Pony. Image shows left to right: Doon Mackichan, Fiona Allen, Sally Phillips")](https://www.comedy.co.uk/quiz/324/) Quiz
 
 [British Comedy Quiz #324](https://www.comedy.co.uk/quiz/324/)
@@ -151,10 +155,6 @@ _This privacy policy was last updated on 24th May 2018, with minor clarification
 [![Katie Norris](https://cdn.comedy.co.uk/images/library/people/300x200/k/katie_norris_farm.jpg "Katie Norris")](https://www.comedy.co.uk/live/random8/katie-norris/) Live
 
 [Random 8: Katie Norris](https://www.comedy.co.uk/live/random8/katie-norris/)
-
-[![Clockwise. Brian Stimpson (John Cleese)](https://cdn.comedy.co.uk/images/library/comedies/300x200/c/clockwise_watch.jpg "Clockwise. Brian Stimpson (John Cleese)")](https://www.comedy.co.uk/features/comedy-rewind/clockwise/) Features
-
-[Comedy Rewind: Keeping time with Clockwise](https://www.comedy.co.uk/features/comedy-rewind/clockwise/)
 
 #### Subscribe to our newsletters
 
