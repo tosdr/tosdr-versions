@@ -1,6 +1,6 @@
 [Skip to main content](#main-content)
 
-![U.S. flag](/themes/custom/usdoj_uswds/assets/img/us_flag_small.png)
+![](/themes/custom/usdoj_uswds/assets/img/us_flag_small.png)
 
 An official website of the United States government
 
@@ -16,7 +16,7 @@ A **.gov** website belongs to an official government organization in the United 
 ![Https](/themes/custom/usdoj_uswds/assets/img/icon-https.svg)
 
 **Secure .gov websites use HTTPS**  
-A **lock** ( Lock A locked padlock ) or **https://** means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+A **lock** ( Lock Locked padlock ) or **https://** means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
 
 _[![U.S. Department of Justice seal](/themes/custom/usdoj_uswds/images/doj-main-header-logo.svg)](https://www.justice.gov/ "Home")_
 
@@ -109,7 +109,7 @@ Breadcrumb
 Privacy Policy
 ==============
 
-Share![right caret](/themes/custom/usdoj_uswds/assets/img/angle-arrow-right-white.svg)
+Share ![right caret](/themes/custom/usdoj_uswds/svg/angle-arrow-right-white.svg) 
 
 * [Facebook](http://www.facebook.com/sharer/sharer.php?u=https://www.justice.gov/doj/privacy-policy "Share on Facebook")
 * [X](http://twitter.com/intent/tweet?url=https://www.justice.gov/doj/privacy-policy&text=Privacy%20Policy "Share on X")
@@ -280,11 +280,11 @@ For additional information about EINSTEIN capabilities, please see the EINSTEIN 
 Vulnerability Disclosure Policy (VDP)
 -------------------------------------
 
-The Department is committed to ensuring the security of the American public by safeguarding their digital information. The [Vulnerability Disclosure Policy (VDP)](https://www.justice.gov/jmd/vulnerability-disclosure-policy) provides guidelines for the cybersecurity research community and members of the general public (hereafter referred to as researchers) on conducting good faith vulnerability discovery activities directed at public facing DOJ websites and services.  The VDP also instructs researchers on how to submit discovered vulnerabilities to the DOJ’s Office of the Chief Information Officer (OCIO), within the Justice Management Division.
+The Department is committed to ensuring the security of the American public by safeguarding their digital information. The [Vulnerability Disclosure Policy (VDP)](https://www.justice.gov/node/190476) provides guidelines for the cybersecurity research community and members of the general public (hereafter referred to as researchers) on conducting good faith vulnerability discovery activities directed at public facing DOJ websites and services.  The VDP also instructs researchers on how to submit discovered vulnerabilities to the DOJ’s Office of the Chief Information Officer (OCIO), within the Justice Management Division.
 
 Public Key Encryption information will be posted in this location soon.
 
-For more information, see our [Vulnerability Disclosure Policy](https://www.justice.gov/jmd/vulnerability-disclosure-policy).
+For more information, see our [Vulnerability Disclosure Policy](https://www.justice.gov/node/190476).
 
 Updated June 3, 2024
 
