@@ -20,7 +20,7 @@ privacy
 
  ![Search](/theme_japantimes/images/search_icon.svg)
 
-[September 20, 2024](https://www.japantimes.co.jp/archive/2024/09/20/ "archive page")
+[September 21, 2024](https://www.japantimes.co.jp/archive/2024/09/21/ "archive page")
 
  [![The Japan Times](/theme_japantimes/images/logo-white-2.png)](https://www.japantimes.co.jp/ "The Japan Times")
 
@@ -467,41 +467,45 @@ Revised June 1, 2022
 
   [![The street where a 10-year-old boy is said to have been stabbed with a knife, on Thursday in Shenzhen in southern China.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/19/422720.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "The street where a 10-year-old boy is said to have been stabbed with a knife, on Thursday in Shenzhen in southern China.")](https://www.japantimes.co.jp/news/2024/09/19/japan/crime-legal/japanese-school-boy-china-dead/ "Japanese school student stabbed in Shenzhen dies")
 
-[Lawson to open convenience stores of the 'future' next spring in Tokyo](https://www.japantimes.co.jp/business/2024/09/19/companies/japan-lawson-new-convenience-store/ "Lawson to open convenience stores of the 'future' next spring in Tokyo")
+[Shohei Ohtani records baseball's first 50-50 season with huge night in Miami](https://www.japantimes.co.jp/sports/2024/09/20/baseball/mlb/ohtani-50-50-season/ "Shohei Ohtani records baseball's first 50-50 season with huge night in Miami")
 
-  [![Lawson President Sadanobu Takemasu (center) says the nation's labor shortage is the biggest challenge its convenience stores face.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/19/422629.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Lawson President Sadanobu Takemasu (center) says the nation's labor shortage is the biggest challenge its convenience stores face.")](https://www.japantimes.co.jp/business/2024/09/19/companies/japan-lawson-new-convenience-store/ "Lawson to open convenience stores of the 'future' next spring in Tokyo")
+  [![Shohei Ohtani connects on his 50th home run of the season during the seventh inning against the Marlins in Miami on Thursday. Ohtani became the first player in MLB history to reach 50 home runs and 50 stolen bases in the same season.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/20/422799.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Shohei Ohtani connects on his 50th home run of the season during the seventh inning against the Marlins in Miami on Thursday. Ohtani became the first player in MLB history to reach 50 home runs and 50 stolen bases in the same season.")](https://www.japantimes.co.jp/sports/2024/09/20/baseball/mlb/ohtani-50-50-season/ "Shohei Ohtani records baseball's first 50-50 season with huge night in Miami")
 
-[U.S. keeps missile system in Philippines as China tensions rise](https://www.japantimes.co.jp/news/2024/09/19/asia-pacific/us-missile-system-philippines-china/ "U.S. keeps missile system in Philippines as China tensions rise")
+[The forgotten impact of 9/11 on Japan](https://www.japantimes.co.jp/commentary/2024/09/18/japan/911-impact-on-japan/ "The forgotten impact of 9/11 on Japan")
 
-  [![The Typhon missile system at Laoag International Airport, in Laoag, Philippines, on Wednesday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/19/422612.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "The Typhon missile system at Laoag International Airport, in Laoag, Philippines, on Wednesday.")](https://www.japantimes.co.jp/news/2024/09/19/asia-pacific/us-missile-system-philippines-china/ "U.S. keeps missile system in Philippines as China tensions rise")
+  [![The World Trade Center's South Tower (left) and the North Tower burn after al-Qaida terrorists flew hijacked airliners into the buildings in New York City on
+Sept. 11, 2001. Nearly 3,000 people died in the incident, including 24 Japanese nationals. 
+REUTERS](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/18/422465.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "The World Trade Center's South Tower (left) and the North Tower burn after al-Qaida terrorists flew hijacked airliners into the buildings in New York City on
+Sept. 11, 2001. Nearly 3,000 people died in the incident, including 24 Japanese nationals. 
+REUTERS")](https://www.japantimes.co.jp/commentary/2024/09/18/japan/911-impact-on-japan/ "The forgotten impact of 9/11 on Japan")
 
-[Chinese carrier sails between Japanese islands near Taiwan for first time](https://www.japantimes.co.jp/news/2024/09/19/japan/china-aircraft-carrier-japan-yonaguni/ "Chinese carrier sails between Japanese islands near Taiwan for first time")
+[Third TSMC plant in Japan remains up in the air](https://www.japantimes.co.jp/business/2024/09/19/companies/taiwan-boost-japan-investments/ "Third TSMC plant in Japan remains up in the air ") 
 
-  [![China's Liaoning aircraft carrier sails in waters near Okinawa Prefecture on Wednesday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/18/422536.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "China's Liaoning aircraft carrier sails in waters near Okinawa Prefecture on Wednesday.")](https://www.japantimes.co.jp/news/2024/09/19/japan/china-aircraft-carrier-japan-yonaguni/ "Chinese carrier sails between Japanese islands near Taiwan for first time")
+  [![Taiwan Semiconductor Manufacturing Co.’s plant in Kikuyo, Kumamoto Prefecture. The chipmaker is building a second plant in the prefecture that is scheduled to commence production in 2027.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/19/422607.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Taiwan Semiconductor Manufacturing Co.’s plant in Kikuyo, Kumamoto Prefecture. The chipmaker is building a second plant in the prefecture that is scheduled to commence production in 2027.")](https://www.japantimes.co.jp/business/2024/09/19/companies/taiwan-boost-japan-investments/ "Third TSMC plant in Japan remains up in the air ")
 
-[LDP leader candidates split on separate surnames for married couples](https://www.japantimes.co.jp/news/2024/09/18/japan/politics/ldp-separate-surnames/ "LDP leader candidates split on separate surnames for married couples")
+[Hyogo assembly passes no-confidence motion against embattled governor](https://www.japantimes.co.jp/news/2024/09/19/japan/politics/hyogo-no-confidence-motion/ "Hyogo assembly passes no-confidence motion against embattled governor")
 
-  [![Liberal Democratic Party presidential election candidates after a campaign event in Nagoya on Saturday](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/18/422363.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Liberal Democratic Party presidential election candidates after a campaign event in Nagoya on Saturday")](https://www.japantimes.co.jp/news/2024/09/18/japan/politics/ldp-separate-surnames/ "LDP leader candidates split on separate surnames for married couples")
+  [![Hyogo Gov. Motohiko Saito speaks during a prefectural assembly session on Thursday in Kobe. A motion of no confidence against Saito, who is accused of workplace bullying, was submitted to the prefectural assembly on Thursday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/19/422717.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Hyogo Gov. Motohiko Saito speaks during a prefectural assembly session on Thursday in Kobe. A motion of no confidence against Saito, who is accused of workplace bullying, was submitted to the prefectural assembly on Thursday.")](https://www.japantimes.co.jp/news/2024/09/19/japan/politics/hyogo-no-confidence-motion/ "Hyogo assembly passes no-confidence motion against embattled governor")
+
+[Yuriyan Retriever is Japan's biggest heel — and proud of it](https://www.japantimes.co.jp/culture/2024/09/20/tv-streaming/yuriyan-retriever-dump-matsumoto/ "Yuriyan Retriever is Japan's biggest heel — and proud of it")
+
+  [![Comedian Yuriyan Retriever takes on the role of Japan’s most hated heel, Kaoru “Dump” Matsumoto, in “The Queen of Villains.”](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/20/422369.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Comedian Yuriyan Retriever takes on the role of Japan’s most hated heel, Kaoru “Dump” Matsumoto, in “The Queen of Villains.”")](https://www.japantimes.co.jp/culture/2024/09/20/tv-streaming/yuriyan-retriever-dump-matsumoto/ "Yuriyan Retriever is Japan's biggest heel — and proud of it")
 
 [Top skaters and riders set to wow Japan crowd at X Games Chiba](https://www.japantimes.co.jp/sports/2024/09/19/more-sports/x-games-chiba-preview/ "Top skaters and riders set to wow Japan crowd at X Games Chiba")
 
   [![Coco Yoshizawa competes in the women's street skateboarding final, which she went on to win, at the Paris Olympics on July 28.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/19/422715.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Coco Yoshizawa competes in the women's street skateboarding final, which she went on to win, at the Paris Olympics on July 28.")](https://www.japantimes.co.jp/sports/2024/09/19/more-sports/x-games-chiba-preview/ "Top skaters and riders set to wow Japan crowd at X Games Chiba")
 
-[Onosato’s meteoric rise is stunning — but not surprising](https://www.japantimes.co.jp/sports/2024/09/18/sumo/onosato-technical-analysis/ "Onosato’s meteoric rise is stunning — but not surprising")
+[‘The people I’d seen in kimono didn’t have as much melanin as I do’](https://www.japantimes.co.jp/community/2024/09/16/our-lives/kimono-instructor-license-black-women-japan/ "‘The people I’d seen in kimono didn’t have as much melanin as I do’")
 
-  [![Onosato shoves out Mitakeumi on Sunday in Tokyo to continue his perfect run at the Autumn Basho. At 192-centimeters-tall and 177 kilograms, Onosato may be neither the tallest nor the heaviest wrestler in the makuuchi division, but he is very close to the top in each of those two categories.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/18/422479.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Onosato shoves out Mitakeumi on Sunday in Tokyo to continue his perfect run at the Autumn Basho. At 192-centimeters-tall and 177 kilograms, Onosato may be neither the tallest nor the heaviest wrestler in the makuuchi division, but he is very close to the top in each of those two categories.")](https://www.japantimes.co.jp/sports/2024/09/18/sumo/onosato-technical-analysis/ "Onosato’s meteoric rise is stunning — but not surprising")
+  [![American Kara Harris is on the verge of attaining a high-level certification in the world of kimono — and may possibly be the first Black woman to do so.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/13/421162.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "American Kara Harris is on the verge of attaining a high-level certification in the world of kimono — and may possibly be the first Black woman to do so.")](https://www.japantimes.co.jp/community/2024/09/16/our-lives/kimono-instructor-license-black-women-japan/ "‘The people I’d seen in kimono didn’t have as much melanin as I do’")
 
 [France-Japan military pact expected by year-end, envoy to Tokyo says](https://www.japantimes.co.jp/news/2024/09/18/japan/politics/france-ambassador-japan-interview/ "France-Japan military pact expected by year-end, envoy to Tokyo says")
 
   [![French Ambassador Philippe Setton says that, despite previous differences over whether Japan should host a NATO liaison office, Paris aims to deepen ties with Tokyo "in all security areas."](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/18/422435.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "French Ambassador Philippe Setton says that, despite previous differences over whether Japan should host a NATO liaison office, Paris aims to deepen ties with Tokyo "in all security areas."")](https://www.japantimes.co.jp/news/2024/09/18/japan/politics/france-ambassador-japan-interview/ "France-Japan military pact expected by year-end, envoy to Tokyo says")
 
-[Japan’s schools battle to keep kids cool, with or without AC](https://www.japantimes.co.jp/news/2024/09/16/japan/society/extreme-heat-education-cooling/ "Japan’s schools battle to keep kids cool, with or without AC")
+[Onosato’s meteoric rise is stunning — but not surprising](https://www.japantimes.co.jp/sports/2024/09/18/sumo/onosato-technical-analysis/ "Onosato’s meteoric rise is stunning — but not surprising")
 
-  [![Students sit under a misting system during recess at Hikarigaoka Haru no Kaze Elementary School in Nerima Ward, Tokyo, on Sept. 6.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/16/421138.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Students sit under a misting system during recess at Hikarigaoka Haru no Kaze Elementary School in Nerima Ward, Tokyo, on Sept. 6.")](https://www.japantimes.co.jp/news/2024/09/16/japan/society/extreme-heat-education-cooling/ "Japan’s schools battle to keep kids cool, with or without AC")
-
-[‘Shogun’ and the painstaking art of ‘getting it right’](https://www.japantimes.co.jp/culture/2024/09/16/tv-streaming/shogun-emmys-authentic-portrayal/ "‘Shogun’ and the painstaking art of ‘getting it right’")
-
-  [![Hiroyuki Sanada and the cast and crew of "Shogun" accept the award for best drama series at the 76th Primetime Emmy Awards in Los Angeles, California.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/16/422080.JPG?v=3.1&w=400&q=100&f=jpg&t=1.2 "Hiroyuki Sanada and the cast and crew of "Shogun" accept the award for best drama series at the 76th Primetime Emmy Awards in Los Angeles, California.")](https://www.japantimes.co.jp/culture/2024/09/16/tv-streaming/shogun-emmys-authentic-portrayal/ "‘Shogun’ and the painstaking art of ‘getting it right’")
+  [![Onosato shoves out Mitakeumi on Sunday in Tokyo to continue his perfect run at the Autumn Basho. At 192-centimeters-tall and 177 kilograms, Onosato may be neither the tallest nor the heaviest wrestler in the makuuchi division, but he is very close to the top in each of those two categories.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/18/422479.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Onosato shoves out Mitakeumi on Sunday in Tokyo to continue his perfect run at the Autumn Basho. At 192-centimeters-tall and 177 kilograms, Onosato may be neither the tallest nor the heaviest wrestler in the makuuchi division, but he is very close to the top in each of those two categories.")](https://www.japantimes.co.jp/sports/2024/09/18/sumo/onosato-technical-analysis/ "Onosato’s meteoric rise is stunning — but not surprising")
 
 Podcast
 -------
@@ -564,25 +568,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
+[Japan agrees to stricter monitoring of Fukushima plant's treated water](https://www.japantimes.co.jp/news/2024/09/20/japan/japan-china-iaea-import/ "Japan agrees to stricter monitoring of Fukushima plant's treated water")
+
+5 hours ago
+
 [CDP leader hopefuls must bridge internal and external differences](https://www.japantimes.co.jp/news/2024/09/20/japan/politics/cdp-election-preview/ "CDP leader hopefuls must bridge internal and external differences")
 
-14 mins ago
+6 hours ago
 
 [Tokyo Metro, Rigaku set stage for $3 billion Japan IPOs as listings gather pace](https://www.japantimes.co.jp/business/2024/09/20/companies/tokyo-metro-ipo-date/ "Tokyo Metro, Rigaku set stage for $3 billion Japan IPOs as listings gather pace")
 
-1 hours ago
+7 hours ago
 
 [Dementia advocates worry public attitudes preventing diagnosis](https://www.japantimes.co.jp/news/2024/09/20/japan/science-health/alzheimers-attitudes-survey/ "Dementia advocates worry public attitudes preventing diagnosis")
 
-2 hours ago
+9 hours ago
 
 [Court rejects petition against low-altitude Haneda routes](https://www.japantimes.co.jp/news/2024/09/20/japan/crime-legal/haneda-airport-ruling/ "Court rejects petition against low-altitude Haneda routes")
 
-3 hours ago
-
-[Apple's iPhone 16 released in Japan](https://www.japantimes.co.jp/business/2024/09/20/companies/iphone16-japan-stores/ "Apple's iPhone 16 released in Japan")
-
-3 hours ago
+9 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
