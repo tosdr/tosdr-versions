@@ -20,15 +20,11 @@ Gå direkt till :
 
 [Aktuellt](https://www.sva.se/aktuellt/) [Giftiga växter A-Ö](https://www.sva.se/amnesomraden/giftiga-vaxter-a-o/) [Sjukdomar A-Ö](https://www.sva.se/amnesomraden/djursjukdomar-a-o/)
 
-Vi har driftsstörningar i telefonnätet. För tillfället når du oss på 018-30 26 60 eller sva@sva.se.
-
 [Produktionsdjur](https://www.sva.se/produktionsdjur/) [Sport- och sällskapsdjur](https://www.sva.se/sport-och-sallskapsdjur/) [Vilda djur](https://www.sva.se/vilda-djur/) [Ämnesområden](https://www.sva.se/amnesomraden/) [Vi erbjuder](https://www.sva.se/vi-erbjuder/)
 
 [![logo](/media/j5th5vl0/sva_logo.svg)](https://www.sva.se/)
 
 [Sök](#) [Meny](#)
-
-Vi har driftsstörningar i telefonnätet. För tillfället når du oss på 018-30 26 60 eller sva@sva.se.
 
 * [Produktionsdjur](https://www.sva.se/produktionsdjur/)[](#)
     * [Exotiska idisslare](https://www.sva.se/produktionsdjur/exotiska-idisslare/)[](#)
