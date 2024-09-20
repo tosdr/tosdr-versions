@@ -178,7 +178,7 @@ Company
 * [Press Newsroom](https://affinity.serif.com/en-us/press/)
 * [Press Kits](https://affinity.serif.com/en-us/press/press-kits/)
 * [Contact](https://affinity.serif.com/en-us/contact/)
-* [Careers](https://affinity.serif.com/en-us/careers/) We’re hiring!
+* [Careers](https://affinity.serif.com/en-us/careers/)
 
 Help & Support
 
@@ -191,9 +191,9 @@ Help & Support
 
 Information
 
-* [Privacy Policy](https://affinity.serif.com/en-us/privacy/) Updated
+* [Privacy Policy](https://affinity.serif.com/en-us/privacy/)
 * [Terms & Conditions](https://affinity.serif.com/en-us/terms/)
-* [Cookies Policy](https://affinity.serif.com/en-us/cookies-policy/) Updated
+* [Cookies Policy](https://affinity.serif.com/en-us/cookies-policy/)
 
 Follow us
 
