@@ -85,20 +85,20 @@ Top downloads
 
 Latest releases
 
-* [Hit the Ice: The Video Hockey League](https://www.myabandonware.com/game/hit-the-ice-the-video-hockey-league-8bd)
-* [Heiankyo Alien](https://www.myabandonware.com/game/heiankyo-alien-94z)
-* [Heavy Unit](https://www.myabandonware.com/game/heavy-unit-8b9)
-* [Hatris](https://www.myabandonware.com/game/hatris-94x)
-* [Hyper Sports](https://www.myabandonware.com/game/hyper-sports-50e)
+* [Othello Derby](https://www.myabandonware.com/game/othello-derby-sf1)
+* [Off the Wall](https://www.myabandonware.com/game/off-the-wall-sf0)
+* [Off Road Challenge](https://www.myabandonware.com/game/off-road-challenge-sez)
+* [Poly-Play](https://www.myabandonware.com/game/poly-play-sey)
+* [Point Blank 2](https://www.myabandonware.com/game/point-blank-2-sex)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [Facebook](https://www.facebook.com/myabandonware) or [X (Twitter)](https://x.com/myabandonware)
 
 Screenshots needed
 
-* [Der Clou! Profidiskette](https://www.myabandonware.com/game/der-clou-profidiskette-72t)
-* [Metal Marines Master Edition](https://www.myabandonware.com/game/metal-marines-master-edition-dbe)
-* [Down to Earth](https://www.myabandonware.com/game/down-to-earth-kfx)
+* [Super Momotarō Dentetsu II](https://www.myabandonware.com/game/super-momotaro-dentetsu-ii-kq4)
+* [Shipwreck / Castle Eerie](https://www.myabandonware.com/game/shipwreck-castle-eerie-k4e)
+* [4 Most Air Power](https://www.myabandonware.com/game/4-most-air-power-knb)
 
 Read our [screenshot tutorial](https://www.myabandonware.com/screenshots/)
 
