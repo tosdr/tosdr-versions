@@ -67,6 +67,7 @@ Public Notices
 
 * [View Notices](https://thesheridanpress.column.us/search)
 * [Place a Notice](https://www.thesheridanpress.com/notices/)
+* [Statewide Notices](https://www.thesheridanpress.com/notices/statewide_notices/)
 
 [Booking](https://www.thesheridanpress.com/booking/)
 
@@ -178,6 +179,7 @@ Toggle navigation
 * Public Notices
     * [View Notices](https://thesheridanpress.column.us/search)
     * [Place a Notice](https://www.thesheridanpress.com/notices/)
+    * [Statewide Notices](https://www.thesheridanpress.com/notices/statewide_notices/)
 * [Booking](https://www.thesheridanpress.com/booking/)
 
 Privacy Policy
