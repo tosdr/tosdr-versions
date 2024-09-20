@@ -413,38 +413,38 @@ The future of Coursera’s only credible alternative for universities rests in t
 Most common
 -----------
 
-1. digital marketing
+1. marketing
     
 2. data science
     
-3. html
+3. sql
     
 
 Popular subjects
 ----------------
 
-1. [Web Development
+1. [Project Management
     
-    12,537 courses](https://www.classcentral.com/subject/web-development)
-2. [Data Analysis
+    3,715 courses](https://www.classcentral.com/subject/project-management)
+2. [Digital Marketing
     
-    7,639 courses](https://www.classcentral.com/subject/data-analysis)
-3. [Python
+    5,788 courses](https://www.classcentral.com/subject/digital-marketing)
+3. [Data Analysis
     
-    8,519 courses](https://www.classcentral.com/subject/python)
+    7,645 courses](https://www.classcentral.com/subject/data-analysis)
 
 Popular courses
 ---------------
 
-1. [Applied Scrum for Agile Project Management
+1. [Forensic Facial Reconstruction: Finding Mr. X
     
-    University System of Maryland](https://www.classcentral.com/course/scrum-the-university-of-maryland-college-park-app-11917)
-2. [The Art of Structural Engineering: Vaults
+    The University of Sheffield](https://www.classcentral.com/course/forensic-facial-reconstruction-7641)
+2. [Project Management: The Basics for Success
     
-    Princeton University](https://www.classcentral.com/course/structural-engineering-princeton-university-the-a-12040)
-3. [Moralities of Everyday Life
+    University of California, Irvine](https://www.classcentral.com/course/basicprojmanage-2782)
+3. [Design Patterns
     
-    Yale University](https://www.classcentral.com/course/moralities-911)
+    University of Alberta](https://www.classcentral.com/course/design-patterns-9215)
 
 ![](https://ccweb.imgix.net/https%3A%2F%2Fwww.classcentral.com%2Fimages%2Flists%2Flist-empty.png?auto=format&ixlib=php-4.1.0&w=100&s=d64b43c1b6dcf041e56fce6ac1794fcf)
 
