@@ -66,7 +66,9 @@ Any e-mail addresses are not used or collected for any purpose other than notify
 
 ### Look at this!
 
-[![2013-2014 Ballot Measure Overview](/assets/Images/teasers/full/2013-14-Giving-to-BM-by-Industry.png)](https://www.followthemoney.org/research/institute-reports/ballot-measures-2013-and-2014/)
+[![scorecard2013](/assets/logos/bestpracticescorecardmap2012.png)](http://www.followthemoney.org/research/institute-research/scorecard-essential-disclosure-requirements-for-independent-spending-2013)
+
+2013: Who got an F on essential disclosure requirements?
 
   [See More Visualizations](https://www.followthemoney.org/look-at-this)
 
