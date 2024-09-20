@@ -86,13 +86,13 @@ MENU SEARCH FIND [SUBSCRIBE](https://independentaustralia.net/about-ia/subscribe
 
 * * *
 
-[ABC trails Coalition on its Road to Nowhere](https://independentaustralia.net/article-display/abc-trails-coalition-on-its-road-to-nowhere,18972)
+[Donald Trump and the voters of America](https://independentaustralia.net/article-display/donald-trump-and-the-voters-of-america,18993)
 
 [More time to write and win in IA Writing Comp!](https://independentaustralia.net/article-display/ia-writing-competition-more-time-to-win-prizes,18918)
 
-[Under cloud of secrecy, U.S. weaponises Western Australia](https://independentaustralia.net/article-display/politics-display/under-cloud-of-secrecy-us-weaponises-western-australia,18991)
+[A more effective Australian electoral system is long overdue](https://independentaustralia.net/article-display/politics-display/a-more-effective-australian-electoral-system-is-long-overdue,18994)
 
-[Colac Council creates chaos by controlling media criticism](https://independentaustralia.net/article-display/colac-council-creates-chaos-by-controlling-media-criticism,18990)
+[Under cloud of secrecy, U.S. weaponises Western Australia](https://independentaustralia.net/article-display/under-cloud-of-secrecy-us-weaponises-western-australia,18991)
 
 [Presidential Election to determine future of Australia-U.S. relations](https://independentaustralia.net/article-display/presidential-election-to-determine-future-of-australia-us-relations,18988)
 
