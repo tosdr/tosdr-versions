@@ -1,4 +1,4 @@
-![](https://assets-6.mxplay.com/static/mxoneweb/desktop/images/icons/logo.svg)
+![](https://assets-6.mxplay.com/static/mxoneweb/desktop/images/icons/rebranding-logo.svg)
 
 Privacy Policy
 
