@@ -261,6 +261,7 @@ This Privacy Statement describes how Mural processes personal information, and w
 * [Accessibility](https://www.mural.co/accessibility)
 * [Mural status](http://status.mural.co/)
 * [Help center](https://support.mural.co/s/)
+* [Sitemap](https://www.mural.co/sitemap)
 
 * Company
     
