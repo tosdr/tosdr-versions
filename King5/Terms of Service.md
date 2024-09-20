@@ -30,14 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/9d002078-b7f5-4675-8218-dbe2f8a56255/20240502T012235/9d002078-b7f5-4675-8218-dbe2f8a56255_16x9.jpg) ![](https://media.king5.com/assets/KING/images/9d002078-b7f5-4675-8218-dbe2f8a56255/20240502T012235/9d002078-b7f5-4675-8218-dbe2f8a56255_360x203.jpg)](https://www.king5.com/article/news/local/seattle/climate-pledge-arena-hidden-fee-penalty-washington-state/281-b1473623-543b-423e-815e-b8fbf8fec9d9)
+    *  [![](https://media.king5.com/assets/WUSA/images/d0c922dd-52b9-425a-ad2a-cbac66e01511/20240731T155928/d0c922dd-52b9-425a-ad2a-cbac66e01511_16x9.jpg) ![](https://media.king5.com/assets/WUSA/images/d0c922dd-52b9-425a-ad2a-cbac66e01511/20240731T155928/d0c922dd-52b9-425a-ad2a-cbac66e01511_360x203.jpg)](https://www.king5.com/article/life/food/fast-casual-burger-custard-chain-expand-seattle/281-88d7071f-3d07-4f7d-9649-f8f148026d42)
         
-        #### [Climate Pledge Arena to pay $477k penalty over charging customers a hidden fee](https://www.king5.com/article/news/local/seattle/climate-pledge-arena-hidden-fee-penalty-washington-state/281-b1473623-543b-423e-815e-b8fbf8fec9d9) [![](https://media.king5.com/assets/KING/images/9d002078-b7f5-4675-8218-dbe2f8a56255/20240502T012235/9d002078-b7f5-4675-8218-dbe2f8a56255_16x9.jpg) ![](https://media.king5.com/assets/KING/images/9d002078-b7f5-4675-8218-dbe2f8a56255/20240502T012235/9d002078-b7f5-4675-8218-dbe2f8a56255_360x203.jpg)](https://www.king5.com/article/news/local/seattle/climate-pledge-arena-hidden-fee-penalty-washington-state/281-b1473623-543b-423e-815e-b8fbf8fec9d9)
+        #### [National burger, custard fast-food chain to expand into Seattle market](https://www.king5.com/article/life/food/fast-casual-burger-custard-chain-expand-seattle/281-88d7071f-3d07-4f7d-9649-f8f148026d42)
         
-        #### [Climate Pledge Arena charged thousands of customers this hidden fee. Now they'll pay a $477k penalty](https://www.king5.com/article/news/local/seattle/climate-pledge-arena-hidden-fee-penalty-washington-state/281-b1473623-543b-423e-815e-b8fbf8fec9d9)
-    *  [![](https://media.king5.com/assets/KING/images/25f10a5b-9913-4f62-be92-5fbbedc05294/20240917T134919/25f10a5b-9913-4f62-be92-5fbbedc05294_16x9.jpg) ![](https://media.king5.com/assets/KING/images/25f10a5b-9913-4f62-be92-5fbbedc05294/20240917T134919/25f10a5b-9913-4f62-be92-5fbbedc05294_360x203.jpg)](https://www.king5.com/article/news/local/washington-states-cannabis-industry-federal-reclassification/281-76dc062c-3242-4e6e-8b5a-fde4eb179053)
+    *  [![](https://media.king5.com/assets/KING/images/601d0d12-3405-491c-86d4-cc610e110be1/20240920T181719/601d0d12-3405-491c-86d4-cc610e110be1_16x9.jpg) ![](https://media.king5.com/assets/KING/images/601d0d12-3405-491c-86d4-cc610e110be1/20240920T181719/601d0d12-3405-491c-86d4-cc610e110be1_360x203.jpg)](https://www.king5.com/article/sports/zach-lavine-bothell-high-school-gift/281-14c7ea43-4568-44a8-a1d6-71fa2eb1f016)
         
-        #### [Washington state's cannabis industry braces for change as federal reclassification considered](https://www.king5.com/article/news/local/washington-states-cannabis-industry-federal-reclassification/281-76dc062c-3242-4e6e-8b5a-fde4eb179053)
+        #### [NBA star Zach LaVine gives back to Bothell High School, where his basketball career took off](https://www.king5.com/article/sports/zach-lavine-bothell-high-school-gift/281-14c7ea43-4568-44a8-a1d6-71fa2eb1f016)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -96,9 +95,9 @@ Navigation
 
 Seattle, WA »
 
-54°
+62°
 
-![Cloudy](/assets/shared-images/weather-icons/cloudy-day_210x210.png)
+![Mostly Cloudy](/assets/shared-images/weather-icons/mostly-cloudy-day_210x210.png)
 
 Seattle, WA »](https://www.king5.com/weather)
 
