@@ -123,7 +123,17 @@ Menu
     
     **Explore and understand the world with Harvard** In Focus is a curated examination of Harvard's research, scholarly work, and community. Recent topics include:
     
-    1. Housing
+    1. Water
+        
+        In Focus
+        
+        **Water** The Harvard community is exploring ways to ensure that the world’s water—from the vast oceans to a glass of tap water—is healthful, unpolluted, and abundant. [Dip your toe](https://www.harvard.edu/in-focus/water/)
+        
+        1. **What's inside?**
+            1. [**Reevaluating Colorado River water usage as the supply dwindles**](https://news.harvard.edu/gazette/story/2023/02/colorado-river-crisis-explained/)
+            2. [**How new federal rules will impact "forever chemicals" in our drinking water**](https://hls.harvard.edu/today/the-impact-of-the-epas-first-ever-federal-pfas-rule-limiting-toxic-forever-chemicals-in-drinking-water/)
+        
+    2. Housing
         
         In Focus
         
@@ -133,7 +143,7 @@ Menu
             1. [**Home prices have far outpaced income**](https://www.jchs.harvard.edu/state-nations-housing-2024)
             2. [**The difficulty of ending homelessness**](https://news.harvard.edu/gazette/story/2024/01/why-its-so-hard-to-end-homelessness-in-america/)
         
-    2. Welcome to Harvard
+    3. Welcome to Harvard
         
         In Focus
         
@@ -142,16 +152,6 @@ Menu
         1. **What's inside**
             1. [**Harvard's history**](https://www.harvard.edu/about/history/)
             2. [**Harvard's Schools**](https://www.harvard.edu/academics/schools/)
-        
-    3. The Brain
-        
-        In Focus
-        
-        **The Brain** Since founding the world’s first neurobiology department in 1966, Harvard has been a hub for researchers who aspire to understand how the brain works, and clinician-scientists who are driven to fix it when it doesn’t. [Wrap your brain around this research](https://www.harvard.edu/in-focus/the-brain/)
-        
-        1. **What's inside?**
-            1. [**Probiotics to treat multiple sclerosis**](https://news.harvard.edu/gazette/story/2023/08/engineered-probiotic-developed-to-treat-multiple-sclerosis/)
-            2. [**Did fermented foods fuel brain growth in our ancestors?**](https://news.harvard.edu/gazette/story/2024/02/did-fermented-foods-fuel-brain-growth/)
         
     4. [Explore the In Focus archives](https://www.harvard.edu/in-focus/)
     
