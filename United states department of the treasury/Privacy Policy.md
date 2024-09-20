@@ -538,6 +538,10 @@ MENU MENU
     [Featured Stories](https://home.treasury.gov/news/featured-stories)
     -------------------------------------------------------------------
     
+    September 20, 2024
+    
+    [Spotlighting Women’s Retirement Security](https://home.treasury.gov/news/featured-stories/spotlighting-womens-retirement-security)
+    
     September 12, 2024
     
     [From Car Dealers to Union Workers: Engaging Stakeholders on Historic Biden-Harris Climate Law](https://home.treasury.gov/news/featured-stories/from-car-dealers-to-union-workers-engaging-stakeholders-on-historic-biden-harris-climate-law)
@@ -545,10 +549,6 @@ MENU MENU
     September 4, 2024
     
     [Analysis of the First Year of the Low-Income Communities Bonus Credit Program: Building an Inclusive and Affordable Clean Energy Economy](https://home.treasury.gov/news/featured-stories/analysis-of-the-first-year-of-the-low-income-communities-bonus-credit-program-building-an-inclusive-and-affordable-clean-energy-economy)
-    
-    September 3, 2024
-    
-    [Small Business and Entrepreneurship in the Post-COVID Expansion](https://home.treasury.gov/news/featured-stories/small-business-and-entrepreneurship-in-the-post-covid-expansion)
     
     [View all Featured Stories](https://home.treasury.gov/news/featured-stories "View all Featured Stories")
     
@@ -572,6 +572,10 @@ MENU MENU
     [Remarks and Statements](https://home.treasury.gov/news/press-releases/statements-remarks)
     ------------------------------------------------------------------------------------------
     
+    September 20, 2024
+    
+    [Statement by Secretary of the Treasury Janet L. Yellen on Commodity Futures Trading Commission’s (CFTC) Final Guidance on Voluntary Carbon Markets](https://home.treasury.gov/news/press-releases/jy2596)
+    
     September 19, 2024
     
     [Remarks by Secretary of the Treasury Janet L. Yellen at the Community Development Advisory Board Meeting Celebrating the CDFI Fund’s 30th Anniversary](https://home.treasury.gov/news/press-releases/jy2592)
@@ -579,10 +583,6 @@ MENU MENU
     September 17, 2024
     
     [Remarks by Under Secretary of Domestic Finance Nellie Liang at the Future of Financial Markets: Innovation and Uncertainty, Georgetown Psaros Center for Financial Markets and Policy](https://home.treasury.gov/news/press-releases/jy2584)
-    
-    September 17, 2024
-    
-    [Remarks by Acting Assistant Secretary for Financial Institutions Laurie Schaffer at The Geneva Association’s Programme on Regulation and Supervision (PROGRES) Seminar 2024](https://home.treasury.gov/news/press-releases/jy2583)
     
     [View All Remarks and Statements](https://home.treasury.gov/news/press-releases/statements-remarks "View all Remarks and Statements")
     
