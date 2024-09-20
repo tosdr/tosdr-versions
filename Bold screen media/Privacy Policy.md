@@ -199,7 +199,7 @@ The Privacy Policy was last revised on March 23, 2022.
 
 © 2023, Bold Collective
 
-![linkedin.png](https://static.wixstatic.com/media/303e63_3308dcf7058d48b9925641ee677af790~mv2.png/v1/crop/x_38,y_33,w_220,h_233/fill/w_74,h_78,al_c,q_85,usm_0.66_1.00_0.01,blur_3,enc_auto/linkedin.png)
+[![linkedin.png](https://static.wixstatic.com/media/303e63_3308dcf7058d48b9925641ee677af790~mv2.png/v1/crop/x_38,y_33,w_220,h_233/fill/w_74,h_78,al_c,q_85,usm_0.66_1.00_0.01,blur_3,enc_auto/linkedin.png)](https://www.boldcollective.co/)
 
 2060-D E. Avenida de Los Arboles, #289
 
@@ -226,7 +226,7 @@ Follow Us On:
 
 ![poweredbyBC.png](https://static.wixstatic.com/media/16fa8f_07bf88ea25a24c4c94cedd7416e7391a~mv2.png/v1/fill/w_130,h_78,al_c,q_85,usm_0.66_1.00_0.01,blur_3,enc_auto/poweredbyBC.png)
 
-© 2023 Bold Collective
+© 2024 Bold Collective
 
 Subscribe to Our Newsletter
 ---------------------------
