@@ -322,11 +322,11 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 
 [Galerija umetnika](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")[](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/milovan-destil-markovic/self-portraits/selfshave-300800-w.jpg?itok=35F_vMoL)](http://seecult.org/galerija/galerija-umetnika/milovan-destil-markovic/self-portraits)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/galerija-talenata/perspektive-art-klinike/dus-lazic/dusan-lazic.jpg?itok=esyK91XG)](http://seecult.org/galerija/galerija-umetnika/galerija-talenata/perspektive-art-klinike/dusan-lazic)
 
 [Foto galerija](http://seecult.org/galerija/foto-galerija "Foto galerija")[](http://seecult.org/galerija/foto-galerija "Foto galerija")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/pol-v-001.jpg?itok=laCRgsfF)](http://seecult.org/galerija/foto-galerija/foto-arhiva)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/dis-patch-2007/dis-kevin-w.jpg?itok=wDU23LkI)](http://seecult.org/galerija/foto-galerija/foto-arhiva/dis-patch-2007)
 
 * [Najčitanije](#news_1)
 * [Najnovije](#news_2)
@@ -342,6 +342,8 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 * [Preminula Jasna Tijardović Popović](http://seecult.org/vest/preminula-jasna-tijardovic-popovic)
 * [Najuži izbor za NIN-ovu nagradu za 2022.](http://seecult.org/vest/najuzi-izbor-za-nin-ovu-nagradu-za-2022)
 
+* [Serđo i Pjetro Kastelito gosti Italijansko-srpskog festivala](http://seecult.org/vest/serdo-i-pjetro-kastelito-gosti-italijansko-srpskog-festivala)
+* [Ekološki aktivizam za kraj 7 veličanstvenih](http://seecult.org/vest/ekoloski-aktivizam-za-kraj-7-velicanstvenih)
 * [Berlinsko izdanje Import/Export - Tanja Ostojić, Ivana Ranisavljević...](http://seecult.org/vest/berlinsko-izdanje-importexport-tanja-ostojic-ivana-ranisavljevic)
 * [Inkluzijada u Zvezdarskoj šumi](http://seecult.org/vest/inkluzijada-u-zvezdarskoj-sumi)
 * [Milo Rau otvara 58. Bitef](http://seecult.org/vest/milo-rau-otvara-58-bitef)
@@ -350,8 +352,6 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 * [40 godina Zvezdara teatra - slobodnog pozorišta](http://seecult.org/vest/40-godina-zvezdara-teatra-slobodnog-pozorista)
 * [Urban režira Majstora i Margaritu](http://seecult.org/vest/urban-rezira-majstora-i-margaritu)
 * [Mateja Nikolić dobitnik nagrade Neda Depolo](http://seecult.org/vest/mateja-nikolic-dobitnik-nagrade-neda-depolo)
-* [Obnova Sremskih Karlovaca](http://seecult.org/vest/obnova-sremskih-karlovaca)
-* [Nauka i umetnost u Botaničkoj bašti](http://seecult.org/vest/nauka-i-umetnost-u-botanickoj-basti)
 
 * [Konkursi](#tab1_1)
 
