@@ -200,6 +200,11 @@ This document was last updated on January 1, 2014
 
 #### Defense News
 
+* [Recruits need real rifles at boot camp, top enlisted airman says](https://www.defensenews.com/air/2024/09/20/rifles-at-air-force-boot-camp-top-leader-calls-it-desired-end-state/)  
+    09/20/24 08:00am  
+    
+    The top enlisted airman said Air Force recruits should one day carry actual rifles during basic military training. (Ava Leone/U.S. Air Force)
+    
 * [US Air Force names second and third B-21 Raider bases](https://www.defensenews.com/air/2024/09/19/us-air-force-names-second-and-third-b-21-raider-bases/)  
     09/19/24 04:00pm  
     
@@ -214,11 +219,6 @@ This document was last updated on January 1, 2014
     09/19/24 11:46am  
     
     A crew chief marshals a CV-22B Osprey at Yokota Air Base, Japan, July 2, 2024. (A1C Samantha White/Air Force)
-    
-* [US has accepted 36 upgraded F-35s since lifting delivery pause](https://www.defensenews.com/air/2024/09/18/us-has-accepted-36-upgraded-f-35s-since-lifting-delivery-pause/)  
-    09/18/24 03:51pm  
-    
-    The Pentagon refused deliveries of new F-35s until Lockheed Martin developed a partial version of its latest upgrade software. (Staff Sgt. Zachary Rufus/Air Force)
     
 
 Recent parts by keyword  
