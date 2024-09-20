@@ -85,11 +85,11 @@ Top downloads
 
 Latest releases
 
+* [Hit the Ice: The Video Hockey League](https://www.myabandonware.com/game/hit-the-ice-the-video-hockey-league-8bd)
+* [Heiankyo Alien](https://www.myabandonware.com/game/heiankyo-alien-94z)
+* [Heavy Unit](https://www.myabandonware.com/game/heavy-unit-8b9)
 * [Hatris](https://www.myabandonware.com/game/hatris-94x)
 * [Hyper Sports](https://www.myabandonware.com/game/hyper-sports-50e)
-* [Juno First](https://www.myabandonware.com/game/juno-first-5u3)
-* [Create](https://www.myabandonware.com/game/create-skz)
-* [pop'n music](https://www.myabandonware.com/game/pop-n-music-sep)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [Facebook](https://www.facebook.com/myabandonware) or [X (Twitter)](https://x.com/myabandonware)
