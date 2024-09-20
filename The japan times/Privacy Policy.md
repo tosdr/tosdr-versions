@@ -467,6 +467,14 @@ Revised June 1, 2022
 
   [![The street where a 10-year-old boy is said to have been stabbed with a knife, on Thursday in Shenzhen in southern China.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/19/422720.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "The street where a 10-year-old boy is said to have been stabbed with a knife, on Thursday in Shenzhen in southern China.")](https://www.japantimes.co.jp/news/2024/09/19/japan/crime-legal/japanese-school-boy-china-dead/ "Japanese school student stabbed in Shenzhen dies")
 
+[Lawson to open convenience stores of the 'future' next spring in Tokyo](https://www.japantimes.co.jp/business/2024/09/19/companies/japan-lawson-new-convenience-store/ "Lawson to open convenience stores of the 'future' next spring in Tokyo")
+
+  [![Lawson President Sadanobu Takemasu (center) says the nation's labor shortage is the biggest challenge its convenience stores face.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/19/422629.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Lawson President Sadanobu Takemasu (center) says the nation's labor shortage is the biggest challenge its convenience stores face.")](https://www.japantimes.co.jp/business/2024/09/19/companies/japan-lawson-new-convenience-store/ "Lawson to open convenience stores of the 'future' next spring in Tokyo")
+
+[U.S. keeps missile system in Philippines as China tensions rise](https://www.japantimes.co.jp/news/2024/09/19/asia-pacific/us-missile-system-philippines-china/ "U.S. keeps missile system in Philippines as China tensions rise")
+
+  [![The Typhon missile system at Laoag International Airport, in Laoag, Philippines, on Wednesday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/19/422612.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "The Typhon missile system at Laoag International Airport, in Laoag, Philippines, on Wednesday.")](https://www.japantimes.co.jp/news/2024/09/19/asia-pacific/us-missile-system-philippines-china/ "U.S. keeps missile system in Philippines as China tensions rise")
+
 [Chinese carrier sails between Japanese islands near Taiwan for first time](https://www.japantimes.co.jp/news/2024/09/19/japan/china-aircraft-carrier-japan-yonaguni/ "Chinese carrier sails between Japanese islands near Taiwan for first time")
 
   [![China's Liaoning aircraft carrier sails in waters near Okinawa Prefecture on Wednesday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/18/422536.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "China's Liaoning aircraft carrier sails in waters near Okinawa Prefecture on Wednesday.")](https://www.japantimes.co.jp/news/2024/09/19/japan/china-aircraft-carrier-japan-yonaguni/ "Chinese carrier sails between Japanese islands near Taiwan for first time")
@@ -475,13 +483,9 @@ Revised June 1, 2022
 
   [![Liberal Democratic Party presidential election candidates after a campaign event in Nagoya on Saturday](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/18/422363.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Liberal Democratic Party presidential election candidates after a campaign event in Nagoya on Saturday")](https://www.japantimes.co.jp/news/2024/09/18/japan/politics/ldp-separate-surnames/ "LDP leader candidates split on separate surnames for married couples")
 
-[Onosato’s meteoric rise is stunning — but not surprising](https://www.japantimes.co.jp/sports/2024/09/18/sumo/onosato-technical-analysis/ "Onosato’s meteoric rise is stunning — but not surprising")
+[Top skaters and riders set to wow Japan crowd at X Games Chiba](https://www.japantimes.co.jp/sports/2024/09/19/more-sports/x-games-chiba-preview/ "Top skaters and riders set to wow Japan crowd at X Games Chiba")
 
-  [![Onosato shoves out Mitakeumi on Sunday in Tokyo to continue his perfect run at the Autumn Basho. At 192-centimeters-tall and 177 kilograms, Onosato may be neither the tallest nor the heaviest wrestler in the makuuchi division, but he is very close to the top in each of those two categories.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/18/422479.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Onosato shoves out Mitakeumi on Sunday in Tokyo to continue his perfect run at the Autumn Basho. At 192-centimeters-tall and 177 kilograms, Onosato may be neither the tallest nor the heaviest wrestler in the makuuchi division, but he is very close to the top in each of those two categories.")](https://www.japantimes.co.jp/sports/2024/09/18/sumo/onosato-technical-analysis/ "Onosato’s meteoric rise is stunning — but not surprising")
-
-[Scientists win Ig Nobel for discovering anal breathing in mammals](https://www.japantimes.co.jp/news/2024/09/13/japan/science-health/ig-nobel-prize-winner/ "Scientists win Ig Nobel for discovering anal breathing in mammals")
-
-  [![Takanori Takebe (behind the lectern) speaks after his team of researchers and he were awarded the Ig Nobel Prize in physiology at the Massachusetts Institute of Technology in Cambridge, Massachusetts, on Thursday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/13/421513.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Takanori Takebe (behind the lectern) speaks after his team of researchers and he were awarded the Ig Nobel Prize in physiology at the Massachusetts Institute of Technology in Cambridge, Massachusetts, on Thursday.")](https://www.japantimes.co.jp/news/2024/09/13/japan/science-health/ig-nobel-prize-winner/ "Scientists win Ig Nobel for discovering anal breathing in mammals")
+  [![Coco Yoshizawa competes in the women's street skateboarding final, which she went on to win, at the Paris Olympics on July 28.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/19/422715.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Coco Yoshizawa competes in the women's street skateboarding final, which she went on to win, at the Paris Olympics on July 28.")](https://www.japantimes.co.jp/sports/2024/09/19/more-sports/x-games-chiba-preview/ "Top skaters and riders set to wow Japan crowd at X Games Chiba")
 
 [Onosato’s meteoric rise is stunning — but not surprising](https://www.japantimes.co.jp/sports/2024/09/18/sumo/onosato-technical-analysis/ "Onosato’s meteoric rise is stunning — but not surprising")
 
@@ -498,10 +502,6 @@ Revised June 1, 2022
 [‘Shogun’ and the painstaking art of ‘getting it right’](https://www.japantimes.co.jp/culture/2024/09/16/tv-streaming/shogun-emmys-authentic-portrayal/ "‘Shogun’ and the painstaking art of ‘getting it right’")
 
   [![Hiroyuki Sanada and the cast and crew of "Shogun" accept the award for best drama series at the 76th Primetime Emmy Awards in Los Angeles, California.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/16/422080.JPG?v=3.1&w=400&q=100&f=jpg&t=1.2 "Hiroyuki Sanada and the cast and crew of "Shogun" accept the award for best drama series at the 76th Primetime Emmy Awards in Los Angeles, California.")](https://www.japantimes.co.jp/culture/2024/09/16/tv-streaming/shogun-emmys-authentic-portrayal/ "‘Shogun’ and the painstaking art of ‘getting it right’")
-
-[Chris Broad's new bar puts cocktails first, YouTube second](https://www.japantimes.co.jp/life/2024/09/15/food-drink/lost-bar-chris-broad-abroad-in-japan-shibuya/ "Chris Broad's new bar puts cocktails first, YouTube second")
-
-  [![A self-proclaimed lover of great cocktails, YouTuber Chris Broad says his new Shibuya watering hole is more a place to get yourself a solid drink than it is anything related to his social media career.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/13/421419.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "A self-proclaimed lover of great cocktails, YouTuber Chris Broad says his new Shibuya watering hole is more a place to get yourself a solid drink than it is anything related to his social media career.")](https://www.japantimes.co.jp/life/2024/09/15/food-drink/lost-bar-chris-broad-abroad-in-japan-shibuya/ "Chris Broad's new bar puts cocktails first, YouTube second")
 
 Podcast
 -------
@@ -564,25 +564,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
-[Survey shows record number of South Koreans view Japan positively](https://www.japantimes.co.jp/news/2024/09/20/japan/south-korea-japan-sentiment/ "Survey shows record number of South Koreans view Japan positively")
+[CDP leader hopefuls must bridge internal and external differences](https://www.japantimes.co.jp/news/2024/09/20/japan/politics/cdp-election-preview/ "CDP leader hopefuls must bridge internal and external differences")
 
-27 mins ago
+14 mins ago
 
-[A deepening U.S.-China rivalry hangs over Sri Lanka’s election](https://www.japantimes.co.jp/news/2024/09/20/asia-pacific/politics/sri-lanka-election-us-china-loom/ "A deepening U.S.-China rivalry hangs over Sri Lanka’s election")
-
-35 mins ago
-
-[Battle rages over U.S.' first binding AI safety bill in California](https://www.japantimes.co.jp/news/2024/09/20/world/politics/california-ai-safety-bill-divisive/ "Battle rages over U.S.' first binding AI safety bill in California")
+[Tokyo Metro, Rigaku set stage for $3 billion Japan IPOs as listings gather pace](https://www.japantimes.co.jp/business/2024/09/20/companies/tokyo-metro-ipo-date/ "Tokyo Metro, Rigaku set stage for $3 billion Japan IPOs as listings gather pace")
 
 1 hours ago
 
-[U.S. accuses social media giants of 'vast surveillance'](https://www.japantimes.co.jp/business/2024/09/20/tech/us-social-media-surveillance-report/ "U.S. accuses social media giants of 'vast surveillance'")
+[Dementia advocates worry public attitudes preventing diagnosis](https://www.japantimes.co.jp/news/2024/09/20/japan/science-health/alzheimers-attitudes-survey/ "Dementia advocates worry public attitudes preventing diagnosis")
 
-1 hours ago
+2 hours ago
 
-[OpenAI unveils new ChatGPT that can reason through math and science](https://www.japantimes.co.jp/business/2024/09/20/tech/new-chatgpt-reasoning-power/ "OpenAI unveils new ChatGPT that can reason through math and science")
+[Court rejects petition against low-altitude Haneda routes](https://www.japantimes.co.jp/news/2024/09/20/japan/crime-legal/haneda-airport-ruling/ "Court rejects petition against low-altitude Haneda routes")
 
-1 hours ago
+3 hours ago
+
+[Apple's iPhone 16 released in Japan](https://www.japantimes.co.jp/business/2024/09/20/companies/iphone16-japan-stores/ "Apple's iPhone 16 released in Japan")
+
+3 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
