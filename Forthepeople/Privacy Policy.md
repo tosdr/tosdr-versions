@@ -223,12 +223,14 @@
         * [Insurance Company Data Breach Attorneys](https://www.forthepeople.com/practice-areas/data-privacy-attorneys/insurance-company-data-breach-attorneys/)
     * Dangerous Drugs
         * [Dangerous Drugs](https://www.forthepeople.com/practice-areas/dangerous-drug-lawyers/)
+        * [Depo-Provera](https://www.forthepeople.com/blog/depo-provera-lawsuits-your-rights-after-serious-health-complications/)
         * [Gardasil](https://www.forthepeople.com/practice-areas/mass-tort-lawyers/gardasil-lawsuit/)
         * [Tepezza](https://www.forthepeople.com/practice-areas/mass-tort-lawyers/tepezza-lawsuit/)
         * [Weight Loss Drug](https://www.forthepeople.com/practice-areas/mass-tort-lawyers/weight-loss-lawsuit/)
         * [Zantac](https://www.forthepeople.com/blog/did-recalled-drug-zantac-cause-your-cancer-diagnosis/)
     * Data Breach
         * [Comcast Xfinity](https://www.forthepeople.com/blog/comcast-xfinity-data-breach-how-it-could-impact-millions-and-what-you-can-do/)
+        * [HR Block](https://www.forthepeople.com/blog/hr-block-lawsuit-what-you-need-know-about-data-sharing-without-consent/)
         * [Live Nation and Ticketmaster](https://www.forthepeople.com/blog/live-nation-and-ticketmaster-data-breach-lawsuit-what-know/)
         * [TitleMax](https://www.forthepeople.com/blog/titlemax-data-breach-what-you-need-know-and-how-protect-yourself/)
         * [View All](https://www.forthepeople.com/practice-areas/data-privacy-attorneys/)
