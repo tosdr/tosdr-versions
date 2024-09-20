@@ -284,9 +284,9 @@ We Champion Freedom & Self-Reliance
 
  [](#)
 
-[🍔 \[1-Day Sale\] Get $25.00 OFF Black Bean Burger Mix Case Pack
+[⚡ \[Limited-Time\] Buy 1, Get 2 FREE 72-Hour Food Kits
 
-Shop Now >>](https://4patriots.com/products/black-bean-burger-mix-kit?position=hellobar&pdp=bbb)
+Shop Now >>](https://products.4patriots.com/food/72hour-b1g2/perfect-starter?afid=mkt&aff_sub=20240708_cam_4p_ecom_hello_72hr-b1g2&utm_campaign=mkt_ecom_72hr-b1g2_20240708&utm_medium=ecom&utm_source=cam&utm_content=hello&utm_term=4p&nb_klid=%7B%7B)
 
 Enter some text...
 
