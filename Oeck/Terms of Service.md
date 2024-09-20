@@ -76,7 +76,7 @@ OECK
 
 * [Network Graphs](https://www.oeck.com/network-graphs/)
 * [Manual](https://www.oeck.com/manual/)
-* [Youtube Channel](https://www.youtube.com/@oeckvpn)
+* [Youtube Channel](https://www.youtube.com/@oecknetworks)
 
 Manage
 
