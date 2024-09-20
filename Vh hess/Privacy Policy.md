@@ -5,12 +5,6 @@ Close menu
 * [Log in](https://vhhess.com/account)
     
 
-* [Instagram](https://instagram.com/metafurstv "MetaFurs™ on Instagram")
-* [YouTube](https://www.youtube.com/@metafurs "MetaFurs™ on YouTube")
-* [Twitter](https://twitter.com/metafurstv "MetaFurs™ on Twitter")
-* [Pinterest](https://pinterest.com/MetaFurs "MetaFurs™ on Pinterest")
-* [TikTok](https://www.tiktok.com/@metafurs "MetaFurs™ on TickTok")
-
 Cart
 
 Close cart
@@ -24,12 +18,6 @@ Shipping, taxes, and discount codes calculated at checkout.
 Check out
 
 Your cart is currently empty.
-
-* [Instagram](https://instagram.com/metafurstv "MetaFurs™ on Instagram")
-* [YouTube](https://www.youtube.com/@metafurs "MetaFurs™ on YouTube")
-* [Twitter](https://twitter.com/metafurstv "MetaFurs™ on Twitter")
-* [Pinterest](https://pinterest.com/MetaFurs "MetaFurs™ on Pinterest")
-* [TikTok](https://www.tiktok.com/@metafurs "MetaFurs™ on TikTok")
 
 Site navigation
 
@@ -91,12 +79,6 @@ Stay tuned for our initial launch! Interested in working together? There will be
 Enter your email Subscribe  
 
  Subscribe
-
-* [Instagram](https://instagram.com/metafurstv "MetaFurs™ on Instagram")
-* [YouTube](https://www.youtube.com/@metafurs "MetaFurs™ on YouTube")
-* [Twitter](https://twitter.com/metafurstv "MetaFurs™ on Twitter")
-* [Pinterest](https://pinterest.com/MetaFurs "MetaFurs™ on Pinterest")
-* [TikTok](https://www.tiktok.com/@metafurs "MetaFurs™ on TikTok")
 
 © 2024 MetaFurs™ LLC. All Rights Reserved.
 
