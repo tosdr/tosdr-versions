@@ -158,76 +158,76 @@ Please note that under Section 512(f) of the DMCA, any person who knowingly mate
 
 TOP NEWS
 
+* [Lawmakers Mull Revamp of Secret Service Funding, Policy After Trump Assassination Attempts](https://www.theepochtimes.com/us/lawmakers-mull-revamp-of-secret-service-funding-policy-after-trump-assassination-attempts-5727081)
+    
+    NEW By [Joseph Lord](https://www.theepochtimes.com/author/joseph-lord)
+    
+    [![Lawmakers Mull Revamp of Secret Service Funding, Policy After Trump Assassination Attempts](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Lawmakers Mull Revamp of Secret Service Funding, Policy After Trump Assassination Attempts](https://img.theepochtimes.com/assets/uploads/2024/09/17/id5725412-Trump-assassination-attempt-GettyImages-2172410244-205x123.jpg.webp)](https://www.theepochtimes.com/us/lawmakers-mull-revamp-of-secret-service-funding-policy-after-trump-assassination-attempts-5727081)
+* [US Home Sales Dropped in August Despite Falling Mortgage Rates](https://www.theepochtimes.com/real-estate/us-home-sales-dropped-in-august-despite-falling-mortgage-rates-5727187)
+    
+    NEW By [Andrew Moran](https://www.theepochtimes.com/author/andrew-moran)
+    
+    [![US Home Sales Dropped in August Despite Falling Mortgage Rates](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![US Home Sales Dropped in August Despite Falling Mortgage Rates](https://img.theepochtimes.com/assets/uploads/2024/06/24/id5674249-GettyImages-2154182627_web-205x123.jpg.webp)](https://www.theepochtimes.com/real-estate/us-home-sales-dropped-in-august-despite-falling-mortgage-rates-5727187)
+* [Energy Companies Urge Supreme Court to Block Stricter Rule on Power Plant Emissions](https://www.theepochtimes.com/us/energy-companies-urge-supreme-court-to-block-stricter-rule-on-power-plant-emissions-5725177)
+    
+    NEW By [Matthew Vadum](https://www.theepochtimes.com/author/matthew-vadum)
+    
+    [![Energy Companies Urge Supreme Court to Block Stricter Rule on Power Plant Emissions](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Energy Companies Urge Supreme Court to Block Stricter Rule on Power Plant Emissions](https://img.theepochtimes.com/assets/uploads/2021/12/07/GettyImages-1182371404-205x123.jpg.webp)](https://www.theepochtimes.com/us/energy-companies-urge-supreme-court-to-block-stricter-rule-on-power-plant-emissions-5725177)
+* [Caterpillar Pulls Back on DEI, Joining John Deere, Ford, and Others](https://www.theepochtimes.com/business/caterpillar-pulls-back-on-dei-joining-john-deere-ford-and-others-5727161)
+    
+    NEW By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
+    
+    [![Caterpillar Pulls Back on DEI, Joining John Deere, Ford, and Others](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Caterpillar Pulls Back on DEI, Joining John Deere, Ford, and Others](https://img.theepochtimes.com/assets/uploads/2021/10/29/CATERPILLAR-RESULTS-1200x804-205x123.jpg.webp)](https://www.theepochtimes.com/business/caterpillar-pulls-back-on-dei-joining-john-deere-ford-and-others-5727161)
+* [Congressional Probe Into Political Fundraising Platform ActBlue Finds Potential ‘Criminal Activity’](https://www.theepochtimes.com/us/congressional-probe-into-political-fundraising-platform-actblue-finds-potential-criminal-activity-5727142)
+    
+    NEW By [Darlene McCormick Sanchez](https://www.theepochtimes.com/author/darlene-sanchez)
+    
+    [![Congressional Probe Into Political Fundraising Platform ActBlue Finds Potential ‘Criminal Activity’](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Congressional Probe Into Political Fundraising Platform ActBlue Finds Potential ‘Criminal Activity’](https://img.theepochtimes.com/assets/uploads/2024/09/11/id5722265-GettyImages-2171255206-OP-205x123.jpg.webp)](https://www.theepochtimes.com/us/congressional-probe-into-political-fundraising-platform-actblue-finds-potential-criminal-activity-5727142)
+* [Harris Promises Working Families 7 Percent Limit on Child Care Spending](https://www.theepochtimes.com/us/harris-promises-working-families-7-percent-limit-on-child-care-spending-5726363)
+    
+    NEW By [Matt McGregor](https://www.theepochtimes.com/author/matt-mcgregor)
+    
+    [![Harris Promises Working Families 7 Percent Limit on Child Care Spending](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Harris Promises Working Families 7 Percent Limit on Child Care Spending](https://img.theepochtimes.com/assets/uploads/2024/09/17/id5725932-GettyImages-2171843674-OP-205x123.jpg.webp)](https://www.theepochtimes.com/us/harris-promises-working-families-7-percent-limit-on-child-care-spending-5726363)
+* [Trump Denounces Antisemitism, Reaffirms Support for Israel at Washington Events](https://www.theepochtimes.com/us/trump-denounces-antisemitism-reaffirms-support-for-israel-at-washington-events-5727235)
+    
+    5hr By [Stacy Robinson](https://www.theepochtimes.com/author/stacy-robinson) and [Jackson Richman](https://www.theepochtimes.com/author/jackson-richman)
+    
+    [![Trump Denounces Antisemitism, Reaffirms Support for Israel at Washington Events](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Trump Denounces Antisemitism, Reaffirms Support for Israel at Washington Events](https://img.theepochtimes.com/assets/uploads/2024/09/20/id5727267-GettyImages-2173243376-205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-denounces-antisemitism-reaffirms-support-for-israel-at-washington-events-5727235)
+* [In-Person Voting Starts Friday in Virginia, South Dakota, and Minnesota](https://www.theepochtimes.com/us/in-person-voting-starts-today-in-virginia-south-dakota-and-minnesota-5727225)
+    
+    5hr By [Nathan Worcester](https://www.theepochtimes.com/author/nathan-worcester)
+    
+    [![In-Person Voting Starts Friday in Virginia, South Dakota, and Minnesota](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![In-Person Voting Starts Friday in Virginia, South Dakota, and Minnesota](https://img.theepochtimes.com/assets/uploads/2024/02/21/id5592216-GettyImages-1229455099-205x123.jpg.webp)](https://www.theepochtimes.com/us/in-person-voting-starts-today-in-virginia-south-dakota-and-minnesota-5727225)
+* [Harris Appears With Oprah in Key Battleground State Michigan](https://www.theepochtimes.com/us/harris-joins-oprah-for-event-in-key-battleground-michigan-5727205)
+    
+    6hr By [Jacob Burg](https://www.theepochtimes.com/author/jacob-burg)
+    
+    [![Harris Appears With Oprah in Key Battleground State Michigan](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Harris Appears With Oprah in Key Battleground State Michigan](https://img.theepochtimes.com/assets/uploads/2024/09/20/id5727238-GettyImages-2172272328-205x123.jpg.webp)](https://www.theepochtimes.com/us/harris-joins-oprah-for-event-in-key-battleground-michigan-5727205)
 * [Shohei Ohtani Makes 50 Homers/50 Steals Club as the Only Member](https://www.theepochtimes.com/sports/shohei-ohtani-makes-50-homers-50-steals-club-as-the-only-member-5727179)
     
-    1hr By [Ross Kelly](https://www.theepochtimes.com/author/ross-kelly)
+    7hr By [Ross Kelly](https://www.theepochtimes.com/author/ross-kelly)
     
     [![Shohei Ohtani Makes 50 Homers/50 Steals Club as the Only Member](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Shohei Ohtani Makes 50 Homers/50 Steals Club as the Only Member](https://img.theepochtimes.com/assets/uploads/2024/09/20/id5727206-Shohei-Ohtani-AP24263833105998-205x123.jpg.webp)](https://www.theepochtimes.com/sports/shohei-ohtani-makes-50-homers-50-steals-club-as-the-only-member-5727179)
-* [Day in Photos: An Unfinished Basilica, A Luxury Embroidery](https://www.theepochtimes.com/article/day-in-photos-an-unfinished-basilica-a-luxury-embroidery-5721006)
-    
-    2hr By [Epoch Times Staff](https://www.theepochtimes.com/author/epoch-times-staff)
-    
-    [![Day in Photos: An Unfinished Basilica, A Luxury Embroidery](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Day in Photos: An Unfinished Basilica, A Luxury Embroidery](https://img.theepochtimes.com/assets/uploads/2024/09/19/id5727086-GettyImages-2172167600-1-OP-205x123.jpg.webp)](https://www.theepochtimes.com/article/day-in-photos-an-unfinished-basilica-a-luxury-embroidery-5721006)
-* [Cheaper Migraine Drugs Outperform Newer, More Expensive Options: Oxford Study](https://www.theepochtimes.com/health/triptans-outperform-new-migraine-drugs-oxford-study-5726866)
-    
-    5hr By [Cara Michelle Miller](https://www.theepochtimes.com/author/cara-michelle-miller)
-    
-    [![Cheaper Migraine Drugs Outperform Newer, More Expensive Options: Oxford Study](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Cheaper Migraine Drugs Outperform Newer, More Expensive Options: Oxford Study](https://img.theepochtimes.com/assets/uploads/2024/09/19/id5727045-shutterstock_2314205811_triptan-205x123.jpg.webp)](https://www.theepochtimes.com/health/triptans-outperform-new-migraine-drugs-oxford-study-5726866)
-* [Wall Street Soars as Dow, S&P 500 Set Record Highs After Fed Rate Cut](https://www.theepochtimes.com/business/wall-street-soars-as-dow-sp-500-set-record-highs-after-fed-rate-cut-5727067)
-    
-    6hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
-    
-    [![Wall Street Soars as Dow, S&P 500 Set Record Highs After Fed Rate Cut](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Wall Street Soars as Dow, S&P 500 Set Record Highs After Fed Rate Cut](https://img.theepochtimes.com/assets/uploads/2024/09/20/id5727252-stock-GettyImages-2173210136-205x123.jpg.webp)](https://www.theepochtimes.com/business/wall-street-soars-as-dow-sp-500-set-record-highs-after-fed-rate-cut-5727067)
-* [Israel Airstrikes Hit Multiple Targets in Lebanon as Fears of Wider War Grow](https://www.theepochtimes.com/world/israel-airstrikes-hit-multiple-targets-in-lebanon-as-wider-war-looms-5727056)
-    
-    6hr By [Dan M. Berger](https://www.theepochtimes.com/author/dan-m-berger)
-    
-    [![Israel Airstrikes Hit Multiple Targets in Lebanon as Fears of Wider War Grow](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Israel Airstrikes Hit Multiple Targets in Lebanon as Fears of Wider War Grow](https://img.theepochtimes.com/assets/uploads/2024/09/20/id5727201-ISRAEL-PALESTINIANS-LEBANON-AIRSTRIKES-205x123.jpg.webp)](https://www.theepochtimes.com/world/israel-airstrikes-hit-multiple-targets-in-lebanon-as-wider-war-looms-5727056)
-* [Federal Judge Extends Freeze on Biden Admin’s Newest Student Loan Forgiveness Plan](https://www.theepochtimes.com/us/federal-judge-extends-freeze-on-biden-admins-newest-student-loan-forgiveness-plan-5726896)
-    
-    7hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
-    
-    [![Federal Judge Extends Freeze on Biden Admin’s Newest Student Loan Forgiveness Plan](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Federal Judge Extends Freeze on Biden Admin’s Newest Student Loan Forgiveness Plan](https://img.theepochtimes.com/assets/uploads/2024/06/10/id5666149-EpochImages-8583264884-xl-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/federal-judge-extends-freeze-on-biden-admins-newest-student-loan-forgiveness-plan-5726896)
-* [317 People Have Voted So Far in 2024 General Election, Data Show](https://www.theepochtimes.com/us/317-people-have-voted-so-far-in-2024-general-election-data-show-5726994)
-    
-    8hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
-    
-    [![317 People Have Voted So Far in 2024 General Election, Data Show](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![317 People Have Voted So Far in 2024 General Election, Data Show](https://img.theepochtimes.com/assets/uploads/2024/06/13/id5668246-Voting-California-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/317-people-have-voted-so-far-in-2024-general-election-data-show-5726994)
-* [Schumer Moves on Senate Stopgap Funding Bill as Shutdown Looms](https://www.theepochtimes.com/us/schumer-moves-on-senate-stopgap-funding-bill-as-shutdown-looms-5726876)
-    
-    8hr By [Jackson Richman](https://www.theepochtimes.com/author/jackson-richman)
-    
-    [![Schumer Moves on Senate Stopgap Funding Bill as Shutdown Looms](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Schumer Moves on Senate Stopgap Funding Bill as Shutdown Looms](https://img.theepochtimes.com/assets/uploads/2024/09/20/id5727203-Schumer-GettyImages-2173166734-205x123.jpg.webp)](https://www.theepochtimes.com/us/schumer-moves-on-senate-stopgap-funding-bill-as-shutdown-looms-5726876)
-* [GOP Senators Introduce Bill to Enhance Trump’s Secret Service Protection](https://www.theepochtimes.com/us/gop-senators-introduce-bill-to-enhance-trumps-secret-service-protection-5726965)
-    
-    8hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
-    
-    [![GOP Senators Introduce Bill to Enhance Trump’s Secret Service Protection](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![GOP Senators Introduce Bill to Enhance Trump’s Secret Service Protection](https://img.theepochtimes.com/assets/uploads/2024/09/19/id5727022-GettyImages-2171768018-OP-205x123.jpg.webp)](https://www.theepochtimes.com/us/gop-senators-introduce-bill-to-enhance-trumps-secret-service-protection-5726965)
-* [Pennsylvania County Rejects Mail Ballot Drop Boxes for 2024 Election](https://www.theepochtimes.com/us/pennsylvania-county-rejects-mail-ballot-drop-boxes-for-2024-election-5726929)
-    
-    9hr By [Zachary Stieber](https://www.theepochtimes.com/author/zachary-stieber)
-    
-    [![Pennsylvania County Rejects Mail Ballot Drop Boxes for 2024 Election](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Pennsylvania County Rejects Mail Ballot Drop Boxes for 2024 Election](https://img.theepochtimes.com/assets/uploads/2024/09/19/id5727118-GettyImages-1229133563-OP-205x123.jpg.webp)](https://www.theepochtimes.com/us/pennsylvania-county-rejects-mail-ballot-drop-boxes-for-2024-election-5726929)
 
 [![The Epoch Times](https://www.theepochtimes.com/assets/themes/eet/images/logo_eet.svg)](https://www.theepochtimes.com/)
 
