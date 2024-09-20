@@ -214,10 +214,10 @@ Homepage](https://atos.net/en)
         * [Media Resources](https://atos.net/en/newsroom/media-resources)
         * [Media Contacts](https://atos.net/en/newsroom#contacts)
         
-        19 September 2024
+        20 September 2024
         
-        Extension of the accelerated safeguard proceedings period
-        ---------------------------------------------------------
+        Atos achieves landmark IT delivery for the Olympic and Paralympic Games Paris 2024: the most digital and secure in history
+        --------------------------------------------------------------------------------------------------------------------------
         
     * [Awards](https://atos.net/en/newsroom/awards)˅
         
