@@ -47,6 +47,7 @@ MENUMENU
     * [Bid Specs](https://www.rigidlifelines.com/bid-specs/)
     * [Photo and Video Gallery](https://www.rigidlifelines.com/photo-video-gallery/)
     * [Blog](https://www.rigidlifelines.com/blog/)
+* [System Selector](https://www.rigidlifelines.com/system-selector/)
 * [Find a Rep](https://www.rigidlifelines.com/find-a-rep/)
 * [Contact](https://www.rigidlifelines.com/contact/)
 
