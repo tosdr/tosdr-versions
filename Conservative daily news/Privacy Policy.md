@@ -2,14 +2,14 @@ Friday, September 20 2024
 
 Breaking News
 
+* [What Could Go Wrong? Dem Investor Bankrolling Development Of Mobile Voting App](https://www.conservativedailynews.com/2024/09/what-could-go-wrong-dem-investor-bankrolling-development-of-mobile-voting-app/)
+* [Trump And Harris Neck And Neck In Swing State That Could Sway The Election](https://www.conservativedailynews.com/2024/09/trump-and-harris-neck-and-neck-in-swing-state-that-could-sway-the-election/)
+* [House Committee Calls On Five States To Probe ‘Potential Criminal Activity’ Involving ActBlue Donations](https://www.conservativedailynews.com/2024/09/house-committee-calls-on-five-states-to-probe-potential-criminal-activity-involving-actblue-donations/)
+* [Janet Yellen Claims Deporting Illegal Migrant Workers Would Make Inflation Worse](https://www.conservativedailynews.com/2024/09/janet-yellen-claims-deporting-illegal-migrant-workers-would-make-inflation-worse/)
+* [Alaska Man Arrested For Threatening To Murder Six Supreme Court Justices](https://www.conservativedailynews.com/2024/09/alaska-man-arrested-for-threatening-to-murder-six-supreme-court-justices/)
+* [President Joe Biden’s Schedule for Friday, September 20, 2024](https://www.conservativedailynews.com/2024/09/president-joe-bidens-schedule-for-friday-september-20-2024/)
 * [Trump Vows To Turn ‘Hallowed’ World Trade Center Site Into National Monument During New York Rally](https://www.conservativedailynews.com/2024/09/trump-vows-to-turn-hallowed-world-trade-center-site-into-national-monument-during-new-york-rally/)
 * [Evangelicals And Gun Owners Need To Vote](https://www.conservativedailynews.com/2024/09/evangelicals-and-gun-owners-need-to-vote/)
-* [EPA ‘Retaliated Against’ Three Dissenting Scientists, Inspector General Finds](https://www.conservativedailynews.com/2024/09/epa-retaliated-against-three-dissenting-scientists-inspector-general-finds/)
-* [Teamsters Don’t Support Trump, But Teamsters Do](https://www.conservativedailynews.com/2024/09/teamsters-dont-support-trump-but-teamsters-do/)
-* [Biden-Harris Admin’s Multi-Billion Dollar Electric School Bus Program Is A Huge Gift To China, House Report Finds](https://www.conservativedailynews.com/2024/09/biden-harris-admins-multi-billion-dollar-electric-school-bus-program-is-a-huge-gift-to-china-house-report-finds/)
-* [New Docs Shed Light On Air Force’s ‘Goal’ To Reduce ‘White Male Population’ Joining Officer Ranks](https://www.conservativedailynews.com/2024/09/new-docs-shed-light-on-air-forces-goal-to-reduce-white-male-population-joining-officer-ranks/)
-* [Powell’s Fed Just Made Its 4th Mistake](https://www.conservativedailynews.com/2024/09/powells-fed-just-made-its-4th-mistake/)
-* [Newt Gingrich Lists Reasons Why Trump Feels ‘He Has Real Chance’ To Flip Major Blue State Red](https://www.conservativedailynews.com/2024/09/newt-gingrich-lists-reasons-why-trump-feels-he-has-real-chance-to-flip-major-blue-state-red/)
 
 * [Sidebar](#)
 * [Random Article](https://www.conservativedailynews.com/privacy-policy/?random-post=1 "Random Article")
@@ -126,67 +126,67 @@ Created using the Donation Thermometer plugin https://wordpress.org/plugins/dona
 
 Recent Posts
 
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2020/09/Donald-Trump-flag-speech.jpg)](https://www.conservativedailynews.com/2024/09/trump-vows-to-turn-hallowed-world-trade-center-site-into-national-monument-during-new-york-rally/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2020/12/caution-democrat-voter-fraud-ahead-corrupt-treasonous-democrats-hope-to-cheat-election-1-220x150.jpg)](https://www.conservativedailynews.com/2024/09/what-could-go-wrong-dem-investor-bankrolling-development-of-mobile-voting-app/)
     
-    [Trump Vows To Turn ‘Hallowed’ World Trade Center Site Into National Monument During New York Rally](https://www.conservativedailynews.com/2024/09/trump-vows-to-turn-hallowed-world-trade-center-site-into-national-monument-during-new-york-rally/)
+    [What Could Go Wrong? Dem Investor Bankrolling Development Of Mobile Voting App](https://www.conservativedailynews.com/2024/09/what-could-go-wrong-dem-investor-bankrolling-development-of-mobile-voting-app/)
     
-    September 19, 2024
+    September 20, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/09/Screenshot-2024-09-19-165502-220x150.png)](https://www.conservativedailynews.com/2024/09/evangelicals-and-gun-owners-need-to-vote/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/09/Donald-Trump-Kamala-Harris-tied-in-Pennsylvania-220x150.jpg)](https://www.conservativedailynews.com/2024/09/trump-and-harris-neck-and-neck-in-swing-state-that-could-sway-the-election/)
     
-    [Evangelicals And Gun Owners Need To Vote](https://www.conservativedailynews.com/2024/09/evangelicals-and-gun-owners-need-to-vote/)
+    [Trump And Harris Neck And Neck In Swing State That Could Sway The Election](https://www.conservativedailynews.com/2024/09/trump-and-harris-neck-and-neck-in-swing-state-that-could-sway-the-election/)
     
-    September 19, 2024
+    September 20, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2019/03/Environmental-Protection-Agency.jpg)](https://www.conservativedailynews.com/2024/09/epa-retaliated-against-three-dissenting-scientists-inspector-general-finds/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2019/10/capitalbuilding.jpg)](https://www.conservativedailynews.com/2024/09/house-committee-calls-on-five-states-to-probe-potential-criminal-activity-involving-actblue-donations/)
     
-    [EPA ‘Retaliated Against’ Three Dissenting Scientists, Inspector General Finds](https://www.conservativedailynews.com/2024/09/epa-retaliated-against-three-dissenting-scientists-inspector-general-finds/)
+    [House Committee Calls On Five States To Probe ‘Potential Criminal Activity’ Involving ActBlue Donations](https://www.conservativedailynews.com/2024/09/house-committee-calls-on-five-states-to-probe-potential-criminal-activity-involving-actblue-donations/)
     
-    September 19, 2024
+    September 20, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/09/Screenshot-2024-09-19-095653-220x150.png)](https://www.conservativedailynews.com/2024/09/teamsters-dont-support-trump-but-teamsters-do/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2023/04/crazy-donkey-democrat-left-huh-shock-1-220x150.png)](https://www.conservativedailynews.com/2024/09/janet-yellen-claims-deporting-illegal-migrant-workers-would-make-inflation-worse/)
     
-    [Teamsters Don’t Support Trump, But Teamsters Do](https://www.conservativedailynews.com/2024/09/teamsters-dont-support-trump-but-teamsters-do/)
+    [Janet Yellen Claims Deporting Illegal Migrant Workers Would Make Inflation Worse](https://www.conservativedailynews.com/2024/09/janet-yellen-claims-deporting-illegal-migrant-workers-would-make-inflation-worse/)
     
-    September 19, 2024
+    September 20, 2024
     
-* [![China Xi Kamala Harris Tim Walz socialists](https://www.conservativedailynews.com/wp-content/uploads/2024/08/gv080724dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/09/biden-harris-admins-multi-billion-dollar-electric-school-bus-program-is-a-huge-gift-to-china-house-report-finds/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2022/04/Hunter_Biden_-_Caricature_51338712005-220x150.jpg)](https://www.conservativedailynews.com/2024/09/hunter-biden-sentencing-delayed-to-december/)
     
-    [Biden-Harris Admin’s Multi-Billion Dollar Electric School Bus Program Is A Huge Gift To China, House Report Finds](https://www.conservativedailynews.com/2024/09/biden-harris-admins-multi-billion-dollar-electric-school-bus-program-is-a-huge-gift-to-china-house-report-finds/)
+    [Hunter Biden Sentencing Delayed To December](https://www.conservativedailynews.com/2024/09/hunter-biden-sentencing-delayed-to-december/)
     
-    September 19, 2024
+    September 20, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/09/AFROTC-race-based-promotion-220x150.jpg)](https://www.conservativedailynews.com/2024/09/new-docs-shed-light-on-air-forces-goal-to-reduce-white-male-population-joining-officer-ranks/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2018/07/man-in-handcuffs.jpg)](https://www.conservativedailynews.com/2024/09/alaska-man-arrested-for-threatening-to-murder-six-supreme-court-justices/)
     
-    [New Docs Shed Light On Air Force’s ‘Goal’ To Reduce ‘White Male Population’ Joining Officer Ranks](https://www.conservativedailynews.com/2024/09/new-docs-shed-light-on-air-forces-goal-to-reduce-white-male-population-joining-officer-ranks/)
+    [Alaska Man Arrested For Threatening To Murder Six Supreme Court Justices](https://www.conservativedailynews.com/2024/09/alaska-man-arrested-for-threatening-to-murder-six-supreme-court-justices/)
     
-    September 19, 2024
+    September 20, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2021/11/Federal-Reserve-220x150.jfif)](https://www.conservativedailynews.com/2024/09/powells-fed-just-made-its-4th-mistake/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2023/08/MV-22-Osprey-220x150.jpg)](https://www.conservativedailynews.com/2024/09/air-force-gets-ready-to-bring-back-troubled-aircraft-for-full-deployment-despite-ongoing-safety-concerns/)
     
-    [Powell’s Fed Just Made Its 4th Mistake](https://www.conservativedailynews.com/2024/09/powells-fed-just-made-its-4th-mistake/)
+    [Air Force Gets Ready To Bring Back Troubled Aircraft For Full Deployment Despite Ongoing Safety Concerns](https://www.conservativedailynews.com/2024/09/air-force-gets-ready-to-bring-back-troubled-aircraft-for-full-deployment-despite-ongoing-safety-concerns/)
     
-    September 19, 2024
+    September 20, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2019/09/wp1816998-donald-trump-wallpapers.jpg)](https://www.conservativedailynews.com/2024/09/newt-gingrich-lists-reasons-why-trump-feels-he-has-real-chance-to-flip-major-blue-state-red/)
+* [![Kamala Harris Tim Walz airheads weird candy](https://www.conservativedailynews.com/wp-content/uploads/2024/09/stg092024dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/09/airheads/)
     
-    [Newt Gingrich Lists Reasons Why Trump Feels ‘He Has Real Chance’ To Flip Major Blue State Red](https://www.conservativedailynews.com/2024/09/newt-gingrich-lists-reasons-why-trump-feels-he-has-real-chance-to-flip-major-blue-state-red/)
+    [Airheads](https://www.conservativedailynews.com/2024/09/airheads/)
     
-    September 19, 2024
+    September 20, 2024
     
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
 
+* [Henry Announces The 10-Shot .22 Golden Boy](https://www.thegunpage.com/henry-announces-the-10-shot-22-golden-boy/10610705)
+* [Michigan Man Free After Shooting Ruled Self-Defense](https://www.thegunpage.com/michigan-man-free-after-shooting-ruled-self-defense/10610704)
+* [Galco Miami Classic II Now Available For Colt King Cobra](https://www.thegunpage.com/galco-miami-classic-ii-now-available-for-colt-king-cobra/10610700)
+* [Another Year, Another Worthless Columbus, Ohio, Gun “Buyback”](https://www.thegunpage.com/another-year-another-worthless-columbus-ohio-gun-buyback/10610699)
+* [New: Cabot Guns High Voltage Pistols](https://www.thegunpage.com/new-cabot-guns-high-voltage-pistols/10610708)
+* [CrossBreed Announces The Chest Rig Nomad](https://www.thegunpage.com/crossbreed-announces-the-chest-rig-nomad/10610701)
+* [High Noon in America: Breitbart Article Compares Trump to the Western Anti-Hero](https://www.thegunpage.com/high-noon-in-america-breitbart-article-compares-trump-to-the-western-anti-hero/10610696)
+* [What Do The Different Range Commands Mean?](https://www.thegunpage.com/what-do-the-different-range-commands-mean/10610695)
 * [Evangelicals And Gun Owners Need To Vote](https://www.thegunpage.com/evangelicals-and-gun-owners-need-to-vote/10610692)
 * [What to Bring to Your First Competition](https://www.thegunpage.com/what-to-bring-to-your-first-competition/10610687)
-* [POTD: M1 Garand During Friendship Shoot](https://www.thegunpage.com/potd-m1-garand-during-friendship-shoot/10610688)
-* [Concealed Carry Corner: Best Ways To Train For Carrying](https://www.thegunpage.com/concealed-carry-corner-best-ways-to-train-for-carrying/10610689)
-* [Savage Axis XP 2: Long-Range Shooting & Hunting on a Budget](https://www.thegunpage.com/savage-axis-xp-2-long-range-shooting-hunting-on-a-budget/10610686)
-* [Poll: Georgia Parents Call for Stricter School Safety Measures Following Deadly Shooting](https://www.thegunpage.com/poll-georgia-parents-call-for-stricter-school-safety-measures-following-deadly-shooting/10610683)
-* [TFB Review: Black Creek Labs MRX Bison Scout Rifle](https://www.thegunpage.com/tfb-review-black-creek-labs-mrx-bison-scout-rifle/10610685)
-* [Mission First Tactical Announces The ACHRO Chest Pack & Harness](https://www.thegunpage.com/mission-first-tactical-announces-the-achro-chest-pack-harness/10610681)
-* [New Anti-Gun Group Will Focus on Policy in State Legislatures](https://www.thegunpage.com/new-anti-gun-group-will-focus-on-policy-in-state-legislatures/10610678)
-* [TFB Behind the Gun #133: Soft Goods FAQ w/ Kurt from Blue Alpha Belts](https://www.thegunpage.com/tfb-behind-the-gun-133-soft-goods-faq-w-kurt-from-blue-alpha-belts/10610680)
 
 [![ Conservative Political Blogs](https://blog.feedspot.com/wp-content/uploads/2016/12/conservative_political_216px.png?x58297)](https://blog.feedspot.com/conservative_political_blogs/ "Conservative Political Blogs")
 
