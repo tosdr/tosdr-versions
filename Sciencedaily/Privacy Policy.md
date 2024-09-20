@@ -12,7 +12,7 @@ Your source for the latest research news
 
 ScienceDaily
 
-**September 19, 2024**
+**September 20, 2024**
 
 * * *
 
@@ -208,6 +208,7 @@ this hour
 
 * * *
 
+* [Global Action On Microplastics?](https://www.sciencedaily.com/releases/2024/09/240919174742.htm)
 * [Lake Ice Quality Degrading as Planet Warms](https://www.sciencedaily.com/releases/2024/09/240919115157.htm)
 * [Lava from Hotspots from Worldwide Reservoir](https://www.sciencedaily.com/releases/2024/09/240919115023.htm)
 * [Slap Fighting: Risk to Neurological Health](https://www.sciencedaily.com/releases/2024/09/240918125032.htm)
@@ -217,7 +218,6 @@ this hour
 * [Over Eons, Earth's Temps Change Drastically](https://www.sciencedaily.com/releases/2024/09/240919174739.htm)
 * [Organic Matter On Mars from Formaldehyde](https://www.sciencedaily.com/releases/2024/09/240919115109.htm)
 * [10,000-Year-Old Human DNA](https://www.sciencedaily.com/releases/2024/09/240919115012.htm)
-* [Breastfeeding, Microbiome, Healthy Lungs](https://www.sciencedaily.com/releases/2024/09/240919114105.htm)
 
 Trending Topics
 ---------------
@@ -230,15 +230,15 @@ this week
 
 [Chronic Illness](https://www.sciencedaily.com/news/health_medicine/chronic_illness/)
 
-[Obesity](https://www.sciencedaily.com/news/health_medicine/obesity/)
+[Nutrition Research](https://www.sciencedaily.com/news/mind_brain/nutrition/)
 
-[Nutrition](https://www.sciencedaily.com/news/health_medicine/nutrition/)
+[Workplace Health](https://www.sciencedaily.com/news/health_medicine/workplace_health/)
 
 [PHYSICAL & TECH](https://www.sciencedaily.com/news/top/technology/)
 
 [Graphene](https://www.sciencedaily.com/news/matter_energy/graphene/)
 
-[Electronics](https://www.sciencedaily.com/news/matter_energy/electronics/)
+[Mathematical Modeling](https://www.sciencedaily.com/news/computers_math/mathematical_modeling/)
 
 [Black Holes](https://www.sciencedaily.com/news/space_time/black_holes/)
 
@@ -246,7 +246,7 @@ this week
 
 [New Species](https://www.sciencedaily.com/news/plants_animals/new_species/)
 
-[Geography](https://www.sciencedaily.com/news/earth_climate/geography/)
+[Dogs](https://www.sciencedaily.com/news/plants_animals/dogs/)
 
 [Endangered Plants](https://www.sciencedaily.com/news/plants_animals/endangered_plants/)
 
