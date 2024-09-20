@@ -31,6 +31,10 @@ Search  Search
 1. [Home](https://www.toastmasters.org/)
 2. /Conditions of Use
 
+[×](#)
+
+Club officer paying dues? [Click here](https://www.toastmasters.org/sitecore/content/Toastmasters/Home/Login?returnUrl=/My-Toastmasters/profile/club-central) to access Club Central. Please note: due to the volume of renewal payments and club business, you may experience delays in accessing areas of our website.
+
 Conditions of Use
 =================
 
