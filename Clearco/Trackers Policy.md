@@ -90,11 +90,11 @@ Learn more about our enterprise solution and get a demo from our sales team.](ht
 
 **Read our latest content**
 
-![](https://cdn.prod.website-files.com/65fde10e62e6a7603e92222e/66eb2ea718937e2e12b955e1_transimpact-becomes-clearco-approved-vendor.png)
+![](https://cdn.prod.website-files.com/65fde10e62e6a7603e92222e/66ed9976998ac172e258474e_set-up-amazon-store.png)
 
-###### TransImpact Joins Our Approved Vendor List
+###### How to Set up Your Amazon Store
 
-[Read now >](https://clear.co/blog/transimpact-becomes-clearco-approved-vendor)
+[Read now >](https://clear.co/blog/set-up-your-amazon-store)
 
 [Sign In](http://my.clearbanc.com/login)[Get Funding](http://my.clearbanc.com/signup)
 
