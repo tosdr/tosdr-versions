@@ -204,11 +204,11 @@ Top VPNs
 
 #### Recent Posts
 
-* [How to Watch Anthony Joshua vs. Daniel Dubois on FireStick](https://www.firesticktricks.com/watch-anthony-joshua-vs-daniel-dubois-on-firestick.html)
-* [Streameast Domains Seized by Feds!](https://www.firesticktricks.com/streameast-domains-seized.html)
-* [How to AirPlay to FireStick from iPhone, iOS & Mac (2024)](https://www.firesticktricks.com/connect-airplay-to-firestick.html)
-* [5 Best (Totally Free) VPNs for FireStick (with Setup Guides)](https://www.firesticktricks.com/best-free-vpn-firestick.html)
-* [Streameast Appeals Against Domain Seizures](https://www.firesticktricks.com/streameast-appeal.html)
+* [How to Watch Monday Night Football on FireStick](https://www.firesticktricks.com/watch-nfl-monday-night-football-on-firestick.html)
+* [How to Watch Sunday Night Football on FireStick for Free](https://www.firesticktricks.com/watch-sunday-night-football-on-firestick.html)
+* [How to Install EzzerMacs Kodi Builds on FireStick (2024)](https://www.firesticktricks.com/ezzermacs-kodi-builds.html)
+* [How to Install Fight Club Kodi Addon on FireStick](https://www.firesticktricks.com/fight-club-kodi-addon.html)
+* [How to Watch Thursday Night Football (TNF) on FireStick (Free)](https://www.firesticktricks.com/watch-thursday-night-football-on-firestick.html)
 
 [![Fire Stick Tricks](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%2059'%3E%3C/svg%3E)
 
