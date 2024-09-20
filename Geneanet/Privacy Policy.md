@@ -123,6 +123,14 @@ Geneanet is ad free and your Ad Blocker may affect your Geneanet experience. We 
 
 [Geneastar](https://en.geneastar.org/)
 
+October 4-6, 2024, participate in Geneanet's "Save our Graves" Weekend!
+
+1,687 photos
+
+[Participate](https://en.geneanet.org/genealogyblog/post/2024/09/geneanet-save-our-graves-weekend-october-04-06-2024)
+
+[](#)
+
 [Geneanet Homepage](https://en.geneanet.org/) > Privacy policy
 
 Privacy policy
