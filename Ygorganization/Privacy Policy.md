@@ -135,35 +135,35 @@ For specific information about Mediavine Partners, the data each collects and th
 
 ##### Recent Posts
 
-[](https://ygorganization.com/darkmattertechtown/ "Cards from Episode 123 [GO RUSH!!]")
+[](https://ygorganization.com/doublefusionpromo/ "The Next V Jump Promo Is… [VJMP]")
 
-#### [Cards from Episode 123 \[GO RUSH!!\]](https://ygorganization.com/darkmattertechtown/)
+#### [The Next V Jump Promo Is… \[VJMP\]](https://ygorganization.com/doublefusionpromo/)
 
-September 2, 2024
+September 19, 2024
 
-[](https://ygorganization.com/ocg-8-31-2024-rulings-update/ "[OCG] 8/31/2024 Rulings Update")
+[](https://ygorganization.com/tournamentpackyugo/ "[24TP] Tournament Pack 2024 Vol. 4 (Round 2)")
 
-#### [\[OCG\] 8/31/2024 Rulings Update](https://ygorganization.com/ocg-8-31-2024-rulings-update/)
+#### [\[24TP\] Tournament Pack 2024 Vol. 4 (Round 2)](https://ygorganization.com/tournamentpackyugo/)
 
-August 31, 2024
+September 19, 2024
 
-[](https://ygorganization.com/abyss-soldier-reprint-rd-lgp2/ "“Abyss Soldier” Reprint [RD/LGP2]")
+[](https://ygorganization.com/cdp_malisslivetwin/ "CDP: Maliss Live Twin Cynet, ft. DBCB Support")
 
-#### [“Abyss Soldier” Reprint \[RD/LGP2\]](https://ygorganization.com/abyss-soldier-reprint-rd-lgp2/)
+#### [CDP: Maliss Live Twin Cynet, ft. DBCB Support](https://ygorganization.com/cdp_malisslivetwin/)
 
-August 31, 2024
+September 18, 2024
 
-[](https://ygorganization.com/400horsepower/ "August 31st TCG Forbidden & Limited List")
+[](https://ygorganization.com/yourfirststepintoalargerworld/ "Alternative Artworks Confirmed For World Premiere Pack 2024 [WPP5]")
 
-#### [August 31st TCG Forbidden & Limited List](https://ygorganization.com/400horsepower/)
+#### [Alternative Artworks Confirmed For World Premiere Pack 2024 \[WPP5\]](https://ygorganization.com/yourfirststepintoalargerworld/)
 
-August 31, 2024
+September 18, 2024
 
-[](https://ygorganization.com/gorush123/ "Episode 123 Summary [GO RUSH!!]")
+[](https://ygorganization.com/1812overture/ "Counterattack With “Ancient Gear Barrage”! [RD/LGP2]")
 
-#### [Episode 123 Summary \[GO RUSH!!\]](https://ygorganization.com/gorush123/)
+#### [Counterattack With “Ancient Gear Barrage”! \[RD/LGP2\]](https://ygorganization.com/1812overture/)
 
-August 31, 2024
+September 18, 2024
 
 [Facebook](https://www.facebook.com/ygorganization) [X (Twitter)](https://twitter.com/ygorganization) [YouTube](https://www.youtube.com/@TheOrganization) [Discord](https://discord.gg/theorganization) [RSS](https://ygorganization.com/feed/)
 
