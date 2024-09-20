@@ -66,7 +66,7 @@ Any e-mail addresses are not used or collected for any purpose other than notify
 
 ### Look at this!
 
-[![Dark Money Pushes Into State Elections](/assets/Images/teasers/small/DarkMoneyStates.JPG)](https://www.followthemoney.org/research/blog/darkness-on-the-edge-of-town-national-dark-money-targets-states)
+[![2013-2014 Ballot Measure Overview](/assets/Images/teasers/full/2013-14-Giving-to-BM-by-Industry.png)](https://www.followthemoney.org/research/institute-reports/ballot-measures-2013-and-2014/)
 
   [See More Visualizations](https://www.followthemoney.org/look-at-this)
 
