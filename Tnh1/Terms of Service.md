@@ -206,23 +206,7 @@ O Portal TNH1 não entra em contato com os ganhadores de qualquer promoção atr
 
 Filho revela a última promessa que fez para Christopher Reeve, o Superman clássico do cinema
 
-Filho revela a última promessa que fez para Christopher Reeve, o Superman clássico do cinema](https://www.tnh1.com.br/noticia/nid/filho-revela-a-ultima-promessa-que-fez-para-christopher-reeve-o-superman-classico-do-cinema/ "Filho revela a última promessa que fez para Christopher Reeve, o Superman clássico do cinema")[![Promotores se posicionam sobre prisão de delegado: "Grave conduta jamais esperada"](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/1/e/csm_Promotores_Kleber_Valadares_e_Lidia_Malta_-_foto_Reproducao_MPAL_4310cb7162.jpg)
-
-kleber malaquias
-
-kleber malaquias
-
-Promotores se posicionam sobre prisão de delegado: "Grave conduta jamais esperada"
-
-Promotores se posicionam sobre prisão de delegado: "Grave conduta jamais esperada"](https://www.tnh1.com.br/noticia/nid/promotores-se-posicionam-sobre-prisao-de-delegado-grave-conduta-jamais-esperada/ "Promotores se posicionam sobre prisão de delegado: "Grave conduta jamais esperada"")[![Longa alagoano é pré-selecionado para o Oscar de Melhor Filme Internacional](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/8/3/csm_longa-alagoano-sem-coracao-e-pre-selecionado-para-o-oscar-de-melhor-filme-internacional_e4c9125556.jpg)
-
-Cinema
-
-Cinema
-
-Longa alagoano é pré-selecionado para o Oscar de Melhor Filme Internacional
-
-Longa alagoano é pré-selecionado para o Oscar de Melhor Filme Internacional](https://www.tnh1.com.br/noticia/nid/longa-alagoano-e-pre-selecionado-para-o-oscar-de-melhor-filme-internacional/ "Longa alagoano é pré-selecionado para o Oscar de Melhor Filme Internacional")[!['É doloroso, mas há tanto amor', diz filha sobre saúde de Bruce Willis](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/9/b/csm_csm_bruce-willis-reproducao-instagram_fb592b766e_4bc4b33481.jpg)
+Filho revela a última promessa que fez para Christopher Reeve, o Superman clássico do cinema](https://www.tnh1.com.br/noticia/nid/filho-revela-a-ultima-promessa-que-fez-para-christopher-reeve-o-superman-classico-do-cinema/ "Filho revela a última promessa que fez para Christopher Reeve, o Superman clássico do cinema")[!['É doloroso, mas há tanto amor', diz filha sobre saúde de Bruce Willis](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/9/b/csm_csm_bruce-willis-reproducao-instagram_fb592b766e_4bc4b33481.jpg)
 
 ator
 
@@ -230,7 +214,23 @@ ator
 
 'É doloroso, mas há tanto amor', diz filha sobre saúde de Bruce Willis
 
-'É doloroso, mas há tanto amor', diz filha sobre saúde de Bruce Willis](https://www.tnh1.com.br/noticia/nid/e-doloroso-mas-ha-tanto-amor-diz-filha-sobre-saude-de-bruce-willis/ "'É doloroso, mas há tanto amor', diz filha sobre saúde de Bruce Willis")
+'É doloroso, mas há tanto amor', diz filha sobre saúde de Bruce Willis](https://www.tnh1.com.br/noticia/nid/e-doloroso-mas-ha-tanto-amor-diz-filha-sobre-saude-de-bruce-willis/ "'É doloroso, mas há tanto amor', diz filha sobre saúde de Bruce Willis")[![Três homens são assassinados a tiros dentro de residência em Rio Largo](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/2/d/csm_Triplo_homicidio_Rio_Largo_-_foto_Reproducao_cc6c5ca92d.jpg)
+
+triplo homicídio
+
+triplo homicídio
+
+Três homens são assassinados a tiros dentro de residência em Rio Largo
+
+Três homens são assassinados a tiros dentro de residência em Rio Largo](https://www.tnh1.com.br/noticia/nid/tres-homens-sao-assassinados-a-tiros-dentro-de-residencia-em-rio-largo/ "Três homens são assassinados a tiros dentro de residência em Rio Largo")[![Relatório da PF revela conversas entre delegado e um dos suspeitos da morte de Kleber Malaquias](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/4/8/csm_Print_conversa_delegado_1_e4b61b7d12.jpeg)
+
+Veja prints
+
+Veja prints
+
+Relatório da PF revela conversas entre delegado e um dos suspeitos da morte de Kleber Malaquias
+
+Relatório da PF revela conversas entre delegado e um dos suspeitos da morte de Kleber Malaquias](https://www.tnh1.com.br/noticia/nid/relatorio-da-pf-revela-conversas-entre-delegado-e-um-dos-suspeitos-da-morte-de-kleber-malaquias/ "Relatório da PF revela conversas entre delegado e um dos suspeitos da morte de Kleber Malaquias")
 
 [![Menino de 7 anos tem passaporte negado por ter sido batizado com nome de personagem de 'Star Wars'](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/7/3/csm_menino-passaporte-negado-nome-reproducao_5fa9a255b6.jpg)
 
