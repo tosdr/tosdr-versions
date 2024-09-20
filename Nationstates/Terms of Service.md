@@ -34,11 +34,11 @@ Login Stay logged in
 
 Latest Forum Topics
 
-* [Your nation's punishment for the abov… (2,677)](https://forum.nationstates.net/viewtopic.php?t=545645&f=25&view=unread#unread ""Your nation's punishment for the above crime V" (2,677 posts)")
-* [Commend or Condemn AN II (660)](https://forum.nationstates.net/viewtopic.php?t=553545&f=25&view=unread#unread ""Commend or Condemn AN II" (660 posts)")
-* [Guess how old the user behind AN is (894)](https://forum.nationstates.net/viewtopic.php?t=551620&f=25&view=unread#unread ""Guess how old the user behind AN is" (894 posts)")
-* [How is AN morally aligned in DnD? (RE… (856)](https://forum.nationstates.net/viewtopic.php?t=550821&f=25&view=unread#unread ""How is AN morally aligned in DnD? (REVIVAL)" (856 posts)")
-* [What do you love about AN? (1,328)](https://forum.nationstates.net/viewtopic.php?t=551356&f=25&view=unread#unread ""What do you love about AN?" (1,328 posts)")
+* [Formulate a foreign policy doctrine t… (102)](https://forum.nationstates.net/viewtopic.php?t=554840&f=25&view=unread#unread ""Formulate a foreign policy doctrine towards AN" (102 posts)")
+* [What impression does AN's banner give… (239)](https://forum.nationstates.net/viewtopic.php?t=553826&f=25&view=unread#unread ""What impression does AN's banner give you?" (239 posts)")
+* [The Collective Security League Assemb… (12,513)](https://forum.nationstates.net/viewtopic.php?t=548406&f=5&view=unread#unread ""The Collective Security League Assembly [IC]" (12,513 posts)")
+* [2023 Israel–Hamas War Thread mk3 (7,397)](https://forum.nationstates.net/viewtopic.php?t=549839&f=20&view=unread#unread ""2023 Israel–Hamas War Thread mk3" (7,397 posts)")
+* [Transformers: Electric Trepidation (7,852)](https://forum.nationstates.net/viewtopic.php?t=548040&f=20&view=unread#unread ""Transformers: Electric Trepidation" (7,852 posts)")
 
 Advertisement
 
