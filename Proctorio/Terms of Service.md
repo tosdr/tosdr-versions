@@ -1,4 +1,4 @@
-![Home](/images/3e956902667b3572.svg)
+[![Home](/images/3e956902667b3572.svg)](https://proctorio.com/)
 
 * [Products](https://proctorio.com/products)
 * [Privacy](https://proctorio.com/privacy)
@@ -92,7 +92,7 @@ If so, Proctorio will post its updated policies on Proctorio's Site located at [
 
 Proctorio encourages you to review these policies regularly for any changes. Your continued use of the Services and/or continued provision of Personally Identifiable Information to Proctorio will be subject to the terms of the then-current policies.
 
-![Home](/images/cfad44e5dccdb3c4.svg)
+[![Home](/images/cfad44e5dccdb3c4.svg)](https://proctorio.com/)
 
 #### [Products](https://proctorio.com/products)
 
