@@ -338,6 +338,10 @@ August 12, 2024
 Related Content
 ---------------
 
+### [The EDFacts Initiative](https://www2.ed.gov/data/edfacts-initiative)
+
+EDFacts is a U.S. Department of Education (ED) initiative to collect, analyze, and promote the use of high-quality, pre-kindergarten through grade 12 data.
+
 ### [Raising the Bar Across America: State by State Fact Sheets](https://www2.ed.gov/about/ed-initiatives/raise-bar/raising-bar-across-america-state-state-fact-sheets)
 
 The Biden-Harris Administration has made billions of dollars in crucial investments to strengthen education in schools, colleges, and universities across America. 
@@ -346,11 +350,7 @@ The Biden-Harris Administration has made billions of dollars in crucial investme
 
 Key Policy Letters Signed by the Education Secretary or Deputy Secretary
 
-### [Letter to Chief State School Officers about information and resources to guard against viruses spread by mosquitoes such as the Zika virus disease](https://www2.ed.gov/letter-chief-state-school-officers-about-information-and-resources-guard-against-viruses-spread)
-
-Key Policy Letters Signed by the Education Secretary or Deputy Secretary
-
-July 26, 2016
+July 13, 2016
 
 [Return to top](#)
 
