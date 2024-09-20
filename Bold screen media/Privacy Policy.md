@@ -1,6 +1,6 @@
 top of page
 
-[![wix.logo.png](https://static.wixstatic.com/media/303e63_cf5d20b03008483bbc2e9a13859780e5~mv2.png/v1/crop/x_51,y_0,w_1982,h_2084/fill/w_111,h_117,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/wix_logo.png)](https://www.boldcollective.co/)
+[![linkedin.png](https://static.wixstatic.com/media/303e63_35a12769816144b49631f00bbeabc3cb~mv2.png/v1/crop/x_31,y_33,w_236,h_236/fill/w_92,h_92,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/linkedin.png)](https://www.boldcollective.co/)
 
 * [PUBLISHERS](https://www.boldcollective.co/publishers)
 * ADVERTISERS
@@ -199,7 +199,7 @@ The Privacy Policy was last revised on March 23, 2022.
 
 © 2023, Bold Collective
 
-![wix.logo.png](https://static.wixstatic.com/media/303e63_cf5d20b03008483bbc2e9a13859780e5~mv2.png/v1/fill/w_84,h_84,al_c,q_85,usm_0.66_1.00_0.01,blur_3,enc_auto/wix_logo.png)
+![linkedin.png](https://static.wixstatic.com/media/303e63_3308dcf7058d48b9925641ee677af790~mv2.png/v1/crop/x_38,y_33,w_220,h_233/fill/w_74,h_78,al_c,q_85,usm_0.66_1.00_0.01,blur_3,enc_auto/linkedin.png)
 
 2060-D E. Avenida de Los Arboles, #289
 
