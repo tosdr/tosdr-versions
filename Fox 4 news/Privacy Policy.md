@@ -401,35 +401,35 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
- [![Coyotes viciously attack woman's cat in Arlington neighborhood, video shows](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/9P-H2-ARLINGTON-COYOTE-ATTACKS_00.00.06.56.png?ve=1&tl=1)
+ [![Another Dallas pastor fired for inappropriate relationship with woman](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/V-DALLAS-TRINITY-BIBLE-CHURCH-PASTOR-REMOVED-4A_00.00.33.46.jpg?ve=1&tl=1)
 
- ![Coyotes viciously attack woman's cat in Arlington neighborhood, video shows](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/592/333/9P-H2-ARLINGTON-COYOTE-ATTACKS_00.00.06.56.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/arlington-coyote-attacks-house-cats-killed)
+ ![Another Dallas pastor fired for inappropriate relationship with woman](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/592/333/V-DALLAS-TRINITY-BIBLE-CHURCH-PASTOR-REMOVED-4A_00.00.33.46.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/another-dallas-pastor-fired-inappropriate-relationship-woman)
 
-### [Coyotes viciously attack woman's cat in Arlington neighborhood, video shows](https://www.fox4news.com/news/arlington-coyote-attacks-house-cats-killed)
+### [Another Dallas pastor fired for inappropriate relationship with woman](https://www.fox4news.com/news/another-dallas-pastor-fired-inappropriate-relationship-woman)
 
- [![LIVE: La Porte pipeline fire is out, human remains found in SUV](https://images.foxtv.com/static.fox26houston.com/www.fox26houston.com/content/uploads/2024/09/32/18/snapshot-28.jpg?ve=1&tl=1)
+ [![Gausman pitches 5 no-hit innings and Guerrero goes deep twice as Blue Jays beat Rangers 4-0](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/GettyImages-2173207527.jpg?ve=1&tl=1)
 
- ![LIVE: La Porte pipeline fire is out, human remains found in SUV](https://images.foxtv.com/images.foxtv.com/static.fox26houston.com/www.fox26houston.com/content/uploads/2024/09/32/18/592/333/snapshot-28.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/live-updates-suv-from-la-porte-pipeline-explosion-under-investigation)
+ ![Gausman pitches 5 no-hit innings and Guerrero goes deep twice as Blue Jays beat Rangers 4-0](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/592/333/GettyImages-2173207527.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/sports/gausman-pitches-5-no-hit-innings-guerrero-goes-deep-twice-blue-jays-beat-rangers-4-0)
 
-### [SUV involved in La Porte pipeline explosion yields human remains, fire extinguished, investigation intensifies](https://www.fox4news.com/news/live-updates-suv-from-la-porte-pipeline-explosion-under-investigation)
+### [Gausman pitches 5 no-hit innings and Guerrero goes deep twice as Blue Jays beat Rangers 4-0](https://www.fox4news.com/sports/gausman-pitches-5-no-hit-innings-guerrero-goes-deep-twice-blue-jays-beat-rangers-4-0)
 
- [![Texas lawmakers push City of Dallas, pension fund leaders to solve problems](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/P-LORI-TEXAS-HOUSE-PENSIONS-5P_00.01.03.54.jpg?ve=1&tl=1)
+ [![Big Tex put into place at State Fair of Texas in Fair Park](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2022/09/32/18/GettyImages-497348327.jpg?ve=1&tl=1)
 
- ![Texas lawmakers push City of Dallas, pension fund leaders to solve problems](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/592/333/P-LORI-TEXAS-HOUSE-PENSIONS-5P_00.01.03.54.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/texas-lawmakers-push-city-dallas-solve-pension-problems)
+ ![Big Tex put into place at State Fair of Texas in Fair Park](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2022/09/32/18/592/333/GettyImages-497348327.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/big-tex-state-fair-texas-fair-park)
 
-### [Texas lawmakers push City of Dallas, pension fund leaders to solve problems](https://www.fox4news.com/news/texas-lawmakers-push-city-dallas-solve-pension-problems)
+### [Big Tex put into place at State Fair of Texas in Fair Park](https://www.fox4news.com/news/big-tex-state-fair-texas-fair-park)
 
- [![Texas DPS Troopers find 16 illegal immigrants inside trailer with false wall](https://images.foxtv.com/static.fox26houston.com/www.fox26houston.com/content/uploads/2024/09/32/18/vlcsnap-2024-09-19-17h09m39s109.png?ve=1&tl=1)
+ [![Kentucky sheriff charged in judge's shooting death: What we know](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/Mullins1.jpg?ve=1&tl=1)
 
- ![Texas DPS Troopers find 16 illegal immigrants inside trailer with false wall](https://images.foxtv.com/images.foxtv.com/static.fox26houston.com/www.fox26houston.com/content/uploads/2024/09/32/18/592/333/vlcsnap-2024-09-19-17h09m39s109.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/texas-dps-troopers-find-16-illegal-immigrants-inside-trailer)
+ ![Kentucky sheriff charged in judge's shooting death: What we know](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/592/333/Mullins1.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/kentucky-judge-shot-sheriff-charged-what-we-know)
 
-### [Houston man arrested after 16 illegal immigrants found in trailer](https://www.fox4news.com/news/texas-dps-troopers-find-16-illegal-immigrants-inside-trailer)
+### [Kentucky sheriff charged in judge’s shooting death at courthouse: What we know](https://www.fox4news.com/news/kentucky-judge-shot-sheriff-charged-what-we-know)
 
- [![Fans flocking to meet Moo Deng, the viral pigmy hippo](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/Moo-Deng.jpg?ve=1&tl=1)
+ [![Denton Animal Services manager fired after family's dog euthanized](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/P-ALEX-DENTON-DOG-EUTHANIZED-530P_00.01.15.10.jpg?ve=1&tl=1)
 
- ![Fans flocking to meet Moo Deng, the viral pigmy hippo](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/592/333/Moo-Deng.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/meet-moo-deng-viral-pigmy-hippo)
+ ![Denton Animal Services manager fired after family's dog euthanized](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/592/333/P-ALEX-DENTON-DOG-EUTHANIZED-530P_00.01.15.10.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/gunner-denton-animal-shelter-euthanized-manager-firing-update)
 
-### [Fans flocking to meet Moo Deng, the viral pigmy hippo](https://www.fox4news.com/news/meet-moo-deng-viral-pigmy-hippo)
+### [Denton Animal Services manager fired after family's dog euthanized](https://www.fox4news.com/news/gunner-denton-animal-shelter-euthanized-manager-firing-update)
 
 ###### [News](https://www.fox4news.com/news)
 
