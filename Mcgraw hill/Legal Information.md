@@ -88,7 +88,7 @@ Cart
     * [About Us](https://www.mheducation.com/about.html)
     * [News & Insights](https://www.mheducation.com/news-insights.html)
     * [Careers](http://careers.mheducation.com/)
-    * [Diversity, Equity & Inclusion](https://www.mheducation.com/about/diversity-equity-inclusion-belonging.html)
+    * [Diversity, Equity, Inclusion & Belonging](https://www.mheducation.com/about/diversity-equity-inclusion-belonging.html)
     * [Social Responsibility](https://www.mheducation.com/about/social-responsibility-sustainability.html)
     
 
@@ -174,7 +174,7 @@ Company Info
 * [Contact & Locations](https://www.mheducation.com/locations.html)
 * [Trust Center](https://www.mheducation.com/trust-center.html)
 * [Careers](http://careers.mheducation.com/ "Careers, opens in a new window")
-* [Diversity, Equity & Inclusion](https://www.mheducation.com/about/diversity-equity-inclusion-belonging.html)
+* [Diversity, Equity, Inclusion & Belonging](https://www.mheducation.com/about/diversity-equity-inclusion-belonging.html)
 * [Social Responsibility](https://www.mheducation.com/about/social-responsibility-sustainability.html)
 * [Investor Relations](http://investors.mheducation.com/ "Investor Relations, opens in a new window")
 * [Social Media Directory](https://www.mheducation.com/social-media-directory.html)
