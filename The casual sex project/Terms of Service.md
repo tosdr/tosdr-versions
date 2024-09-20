@@ -90,19 +90,29 @@ New York, NY 10017
 Spotlight
 ---------
 
-    ![](https://media4.manhattan-institute.org/wp-content/uploads/school-based-mental-health-initiatives-challenges-and-considerations-for-policymakers.jpg)[](https://admin.mi52siterestore.com/article/school-based-mental-health-initiatives-challenges-and-considerations-for-policymakers/ "Read More")
+    ![](https://media4.manhattan-institute.org/wp-content/uploads/the-lifetime-fiscal-impact-of-immigrants.jpg)[](https://admin.mi52siterestore.com/article/the-lifetime-fiscal-impact-of-immigrants/ "Read More")
 
-Report Education, Governance
+Report Governance, Economics
 
-Sep 12 2024
+Sep 19 2024
 
-Report Education, Governance
+Report Governance, Economics
 
-Sep 12 2024
+Sep 19 2024
 
-### [School-Based Mental Health Initiatives](https://admin.mi52siterestore.com/article/school-based-mental-health-initiatives-challenges-and-considerations-for-policymakers/) Challenges and Considerations for Policymakers
+### [The Lifetime Fiscal Impact of Immigrants](https://admin.mi52siterestore.com/article/the-lifetime-fiscal-impact-of-immigrants/)
 
-By **[Carolyn D. Gorman](https://admin.mi52siterestore.com/person/carolyn-d-gorman/)** Read time **39 mins** [Read More](https://admin.mi52siterestore.com/article/school-based-mental-health-initiatives-challenges-and-considerations-for-policymakers/)
+By **[Daniel Di Martino](https://admin.mi52siterestore.com/person/daniel-di-martino/)** Read time **82 mins** [Read More](https://admin.mi52siterestore.com/article/the-lifetime-fiscal-impact-of-immigrants/)
+
+    ![](https://media4.manhattan-institute.org/wp-content/uploads/fed-reserve.jpg)[](https://admin.mi52siterestore.com/article/comments-on-the-federal-reserves-interest-rate-decision/ "Read More")
+
+Commentary Economics Finance
+
+Sep 18 2024
+
+[Comments on the Federal Reserve's Interest Rate Decision](https://admin.mi52siterestore.com/article/comments-on-the-federal-reserves-interest-rate-decision/)
+
+By **[Dan Katz](https://admin.mi52siterestore.com/person/dan-katz/)** Read time **2 mins** [Read More](https://admin.mi52siterestore.com/article/comments-on-the-federal-reserves-interest-rate-decision/)
 
     ![](https://media4.manhattan-institute.org/wp-content/uploads/income-inequality-isn-t-the-problem-uneven-growth-is.jpg)[](https://admin.mi52siterestore.com/article/inequality-isnt-the-problem-uneven-growth-is/ "Read More")
 
@@ -133,16 +143,6 @@ Sep 12 2024
 [Blame the Biden Admin for Venezuelan Gangs, Migrants Taking Over Aurora, Colorado](https://admin.mi52siterestore.com/article/blame-the-biden-admin-for-venezuelan-gangs-migrants-taking-over-aurora-colorado/)
 
 By **[Christopher F. Rufo](https://admin.mi52siterestore.com/person/christopher-f-rufo/)** Read time **2 mins** [Read More](https://admin.mi52siterestore.com/article/blame-the-biden-admin-for-venezuelan-gangs-migrants-taking-over-aurora-colorado/)
-
-    ![](https://media4.manhattan-institute.org/wp-content/uploads/a-reformation-in-public-education-school-choice-in-theory-and-practice-1.jpg)[](https://admin.mi52siterestore.com/article/the-school-choice-battle-will-happen-at-the-statehouse/ "Read More")
-
-Commentary Education School Choice
-
-Sep 12 2024
-
-[The School Choice Battle Will Happen at the Statehouse](https://admin.mi52siterestore.com/article/the-school-choice-battle-will-happen-at-the-statehouse/)
-
-By **[Ray Domanico](https://admin.mi52siterestore.com/person/ray-domanico/)** Read time **2 mins** [Read More](https://admin.mi52siterestore.com/article/the-school-choice-battle-will-happen-at-the-statehouse/)
 
 Our Policy Areas
 ----------------
