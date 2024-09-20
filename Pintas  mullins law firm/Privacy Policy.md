@@ -273,17 +273,17 @@ This field is for validation purposes and should be left unchanged.
 
 #### Frequently Asked Questions
 
-[![Suing for abuse at assisted living facilities](https://www.pintas.com/wp-content/uploads/2021/03/practice-areas-personal-injury-nursing-home-abuse-lawyer-can-i-sue-someone-personally-for-the-abuse-and-neglect-of-a-loved-one-at-an-assisted-living-facility-300x200.jpg "Suing for Abuse at Assisted Living Facilities")](https://www.pintas.com/faq/can-i-sue-someone-personally-for-the-abuse-and-neglect-of-a-loved-one-at-an-assisted-living-facility/ "Suing for Abuse at Assisted Living Facilities")
+[![How to keep track of my parents in a nursing home?](https://www.pintas.com/wp-content/uploads/2020/09/nursing-home-abuse-how-to-keep-track-of-my-parents-in-a-nursing-home-300x200-1.jpg "How to Keep Track of My Parents in a Nursing Home?")](https://www.pintas.com/faq/how-to-keep-track-of-my-parents-in-a-nursing-home/ "How to Keep Track of My Parents in a Nursing Home?")
 
-[#### Suing for Abuse at Assisted Living Facilities](https://www.pintas.com/faq/can-i-sue-someone-personally-for-the-abuse-and-neglect-of-a-loved-one-at-an-assisted-living-facility/)
+[#### How to Keep Track of My Parents in a Nursing Home?](https://www.pintas.com/faq/how-to-keep-track-of-my-parents-in-a-nursing-home/)
 
-[![How long can you live with asbestosis?](https://www.pintas.com/wp-content/uploads/2020/02/lung-cancer-how-long-can-you-live-with-asbestosis.jpg "How Long Can You Live With Asbestosis?")](https://www.pintas.com/lung-cancer/how-long-can-you-live-with-asbestosis/ "How Long Can You Live With Asbestosis?")
+[![Is asbestos harmful to skin?](https://www.pintas.com/wp-content/uploads/2020/11/lung-cancer-lawyer-is-asbestos-harmful-to-skin.jpg "Is Asbestos Harmful to Skin?")](https://www.pintas.com/practice-areas/lung-cancer/is-asbestos-harmful-to-skin/ "Is Asbestos Harmful to Skin?")
 
-[#### How Long Can You Live With Asbestosis?](https://www.pintas.com/lung-cancer/how-long-can-you-live-with-asbestosis/)
+[#### Is Asbestos Harmful to Skin?](https://www.pintas.com/practice-areas/lung-cancer/is-asbestos-harmful-to-skin/)
 
-[![Is malnutrition common in seniors with dementia?](https://www.pintas.com/wp-content/uploads/2021/03/elderly-woman-with-a-memory-problem-300x169.jpg "Is Malnutrition Common in Seniors with Dementia?")](https://www.pintas.com/faq/is-malnutrition-common-in-seniors-with-dementia/ "Is Malnutrition Common in Seniors with Dementia?")
+[![What is the average compensation for asbestosis?](https://www.pintas.com/wp-content/uploads/2020/04/lung-cancer-what-is-the-average-compensation-for-asbestosis.jpg "What Is the Average Compensation for Asbestosis?")](https://www.pintas.com/practice-areas/lung-cancer/average-asbestosis-settlement "What Is the Average Compensation for Asbestosis?")
 
-[#### Is Malnutrition Common in Seniors with Dementia?](https://www.pintas.com/faq/is-malnutrition-common-in-seniors-with-dementia/)
+[#### What Is the Average Compensation for Asbestosis?](https://www.pintas.com/practice-areas/lung-cancer/average-asbestosis-settlement)
 
 ### Injured?  
 Tell Us What Happened.
@@ -306,7 +306,7 @@ message
 
 Yes. Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. They may contact me by email or telephone (including phone calls, text messages, autodialed / auto-selected or pre-recorded calls). I understand that message and data rates may apply and that consent to such contact is not required for use of these services. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/), [Anti Fraud Policy](https://www.pintas.com/anti-fraud-policy/) and [online Terms](https://www.pintas.com/website-terms-of-use/), including its mandatory arbitration provision.
 
-Name
+Comments
 
 This field is for validation purposes and should be left unchanged.
 
