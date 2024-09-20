@@ -118,63 +118,61 @@ This policy is effective as of 29 June 2021.
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Impossible to run our businesses without IO
-> -------------------------------------------
+> Support even on Sundays!
+> ------------------------
 > 
-> IO is an integral part of our day to day business. It allows me complete control and overview functionality, while still enabling franchise owners to run their various franchises without interruption.  
->   
-> At Storietyd.co.za - a bookclub for Afrikaans children, with thousands of members - all our billing is automated, automated invoices, automated debit orders, automated payment allocation, and so forth. Administration would be an absolute nightmare without IO.  
->   
-> We are suppliers of bulk educational products to schools, our reps in the field use IO for quotes, invoicing and managing debtors, directly from their smartphones / tablets.  
->   
-> We are extremely satisfied with Invoices Online, and would certainly recommend that you try it out.
+> Thanks Adriaan...
+> 
+> You guys even work on Sundays?
+> 
+> I’m impressed!!
 
-Kobus Venter
+Johan Botha - Brand Xplosion
 
-![valued client Karino Merinos ( PTY ) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2349&file=logo_300_100&type=&fe=25155d2b67b1240371753b92306e79a1a5a4f9ced455ed6ddb7062c58743ab62&c=156619664)  
-Karino Merinos ( PTY ) LTD
+![valued client Hydroworld T/A Milliqua](https://www.invoicesonline.co.za/scripts/image.php?bid=3671&file=logo_300_100&type=&fe=6a48bf9aa0e29338a2f3d14657a89982fdc92b283fcf01a5804aa931775ed48d&c=170317949)  
+Hydroworld T/A Milliqua
 
-![valued client MONSTER SECURITY SERVICES](https://www.invoicesonline.co.za/scripts/image.php?bid=5438&file=logo_300_100&type=&fe=25155d2b67b1240371753b92306e79a1a5a4f9ced455ed6ddb7062c58743ab62&c=127340148)  
-MONSTER SECURITY SERVICES
+![valued client OrgChart Hosting Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=658&file=logo_300_100&type=&fe=6a48bf9aa0e29338a2f3d14657a89982fdc92b283fcf01a5804aa931775ed48d&c=16475250)  
+OrgChart Hosting Pty Ltd
 
-![valued client Digifax (Pty) Ltd T/A SecurityHyper](https://www.invoicesonline.co.za/scripts/image.php?bid=3135&file=logo_300_100&type=&fe=25155d2b67b1240371753b92306e79a1a5a4f9ced455ed6ddb7062c58743ab62&c=65944922)  
-Digifax (Pty) Ltd T/A SecurityHyper
+![valued client Cooper Power South Africa (Pty) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2012&file=logo_300_100&type=&fe=6a48bf9aa0e29338a2f3d14657a89982fdc92b283fcf01a5804aa931775ed48d&c=213956012)  
+Cooper Power South Africa (Pty) LTD
 
-![valued client LEONARD](https://www.invoicesonline.co.za/scripts/image.php?bid=4785&file=logo_300_100&type=&fe=25155d2b67b1240371753b92306e79a1a5a4f9ced455ed6ddb7062c58743ab62&c=50779549)  
-LEONARD
+![valued client Shades of Summer Investments 184cc t/a Junker Construction](https://www.invoicesonline.co.za/scripts/image.php?bid=7053&file=logo_300_100&type=&fe=6a48bf9aa0e29338a2f3d14657a89982fdc92b283fcf01a5804aa931775ed48d&c=139352446)  
+Shades of Summer Investments 184cc t/a Junker Construction
 
-![valued client Electro-Heat](https://www.invoicesonline.co.za/scripts/image.php?bid=8547&file=logo_300_100&type=&fe=25155d2b67b1240371753b92306e79a1a5a4f9ced455ed6ddb7062c58743ab62&c=41769492)  
-Electro-Heat
+![valued client PHESA TECHNOLOGY(PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2461&file=logo_300_100&type=&fe=6a48bf9aa0e29338a2f3d14657a89982fdc92b283fcf01a5804aa931775ed48d&c=22415664)  
+PHESA TECHNOLOGY(PTY) LTD
 
-![valued client Moving Made Easy (PTY) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8622&file=logo_300_100&type=&fe=25155d2b67b1240371753b92306e79a1a5a4f9ced455ed6ddb7062c58743ab62&c=114366270)  
-Moving Made Easy (PTY) Ltd
+![valued client Depot Diesel (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6813&file=logo_300_100&type=&fe=6a48bf9aa0e29338a2f3d14657a89982fdc92b283fcf01a5804aa931775ed48d&c=210437953)  
+Depot Diesel (Pty) Ltd
 
-![valued client Chiron Medical Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=6720&file=logo_300_100&type=&fe=25155d2b67b1240371753b92306e79a1a5a4f9ced455ed6ddb7062c58743ab62&c=62533535)  
-Chiron Medical Solutions
+![valued client Lion Software Develepment](https://www.invoicesonline.co.za/scripts/image.php?bid=7097&file=logo_300_100&type=&fe=6a48bf9aa0e29338a2f3d14657a89982fdc92b283fcf01a5804aa931775ed48d&c=68557822)  
+Lion Software Develepment
 
-![valued client NEW BEGINNINGS DESIGNS](https://www.invoicesonline.co.za/scripts/image.php?bid=8177&file=logo_300_100&type=&fe=25155d2b67b1240371753b92306e79a1a5a4f9ced455ed6ddb7062c58743ab62&c=17839688)  
-NEW BEGINNINGS DESIGNS
+![valued client NIMAWELL  ](https://www.invoicesonline.co.za/scripts/image.php?bid=6419&file=logo_300_100&type=&fe=6a48bf9aa0e29338a2f3d14657a89982fdc92b283fcf01a5804aa931775ed48d&c=55451214)  
+NIMAWELL
 
-![valued client IEMS (PTY) ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7805&file=logo_300_100&type=&fe=25155d2b67b1240371753b92306e79a1a5a4f9ced455ed6ddb7062c58743ab62&c=160148956)  
-IEMS (PTY) ltd
+![valued client VIV'S TRUCKS (Pty) Ltd. (651)](https://www.invoicesonline.co.za/scripts/image.php?bid=6481&file=logo_300_100&type=&fe=6a48bf9aa0e29338a2f3d14657a89982fdc92b283fcf01a5804aa931775ed48d&c=38007305)  
+VIV'S TRUCKS (Pty) Ltd. (651)
 
-![valued client ARCHITEK PTY LTD ](https://www.invoicesonline.co.za/scripts/image.php?bid=8208&file=logo_300_100&type=&fe=25155d2b67b1240371753b92306e79a1a5a4f9ced455ed6ddb7062c58743ab62&c=84976301)  
+![valued client ARCHITEK PTY LTD ](https://www.invoicesonline.co.za/scripts/image.php?bid=8208&file=logo_300_100&type=&fe=6a48bf9aa0e29338a2f3d14657a89982fdc92b283fcf01a5804aa931775ed48d&c=201813740)  
 ARCHITEK PTY LTD
 
-![valued client Network Grey (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7333&file=logo_300_100&type=&fe=25155d2b67b1240371753b92306e79a1a5a4f9ced455ed6ddb7062c58743ab62&c=196373546)  
-Network Grey (Pty) Ltd
+![valued client INDUSTRIAL DRUM SERVICES (PTY)LTD ](https://www.invoicesonline.co.za/scripts/image.php?bid=7576&file=logo_300_100&type=&fe=6a48bf9aa0e29338a2f3d14657a89982fdc92b283fcf01a5804aa931775ed48d&c=22969201)  
+INDUSTRIAL DRUM SERVICES (PTY)LTD
 
-![valued client Mtunzini Group ](https://www.invoicesonline.co.za/scripts/image.php?bid=5721&file=logo_300_100&type=&fe=25155d2b67b1240371753b92306e79a1a5a4f9ced455ed6ddb7062c58743ab62&c=214095102)  
-Mtunzini Group
+![valued client APTV Telecoms CC](https://www.invoicesonline.co.za/scripts/image.php?bid=8378&file=logo_300_100&type=&fe=6a48bf9aa0e29338a2f3d14657a89982fdc92b283fcf01a5804aa931775ed48d&c=38218220)  
+APTV Telecoms CC
 
-![valued client Cpower Projects t/a Pro Pure Water ](https://www.invoicesonline.co.za/scripts/image.php?bid=7742&file=logo_300_100&type=&fe=25155d2b67b1240371753b92306e79a1a5a4f9ced455ed6ddb7062c58743ab62&c=19514572)  
-Cpower Projects t/a Pro Pure Water
+![valued client NGB HOLDINGS PTY LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=6918&file=logo_300_100&type=&fe=6a48bf9aa0e29338a2f3d14657a89982fdc92b283fcf01a5804aa931775ed48d&c=98280303)  
+NGB HOLDINGS PTY LTD
 
-![valued client Blue Sky Solar Services](https://www.invoicesonline.co.za/scripts/image.php?bid=7332&file=logo_300_100&type=&fe=25155d2b67b1240371753b92306e79a1a5a4f9ced455ed6ddb7062c58743ab62&c=24962385)  
-Blue Sky Solar Services
+![valued client RADIO TYGERBERG 104FM NPC](https://www.invoicesonline.co.za/scripts/image.php?bid=8595&file=logo_300_100&type=&fe=6a48bf9aa0e29338a2f3d14657a89982fdc92b283fcf01a5804aa931775ed48d&c=57761815)  
+RADIO TYGERBERG 104FM NPC
 
-![valued client FX ACCOUNTING](https://www.invoicesonline.co.za/scripts/image.php?bid=6924&file=logo_300_100&type=&fe=25155d2b67b1240371753b92306e79a1a5a4f9ced455ed6ddb7062c58743ab62&c=166347769)  
-FX ACCOUNTING
+![valued client Adele Jordaan T/A Joyful Noise Music Room](https://www.invoicesonline.co.za/scripts/image.php?bid=7958&file=logo_300_100&type=&fe=6a48bf9aa0e29338a2f3d14657a89982fdc92b283fcf01a5804aa931775ed48d&c=126268938)  
+Adele Jordaan T/A Joyful Noise Music Room
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
