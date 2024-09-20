@@ -190,6 +190,6 @@ We may change this privacy notice at any time. The new privacy notice will be di
 
 [Contact](https://www.dazeddigital.com/contact) [About](https://www.dazeddigital.com/info/article/824/1/dazed-confused) [Jobs](https://www.dazedmedia.com/careers) [Internship](https://careers.dazedmedia.com/) [Legal](https://www.dazeddigital.com/info/article/825/1/terms-conditions) [Privacy Policy](https://www.dazeddigital.com/privacy-policy)
 
-[Dazed Media](https://www.dazedmedia.com/) [Another](https://www.anothermag.com/) [Another Man](https://www.anothermanmag.com/) [Nowness](https://www.nowness.com/) [Dazed Studio](https://dazed.studio/)
+[Dazed Media](https://www.dazedmedia.com/) [Another](https://www.anothermag.com/) [Another Man](https://www.anothermanmag.com/) [Nowness](https://www.nowness.com/) [Dazed Studio](https://dazed.studio/) [Dazed MENA](https://dazed.me/)
 
 ![FB-tracker](https://www.facebook.com/tr?id=357833301087547&ev=PageView&noscript=1)
