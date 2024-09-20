@@ -8,7 +8,7 @@
 
 |     |     |
 | --- | --- |
-| **You are 1 of 364 active visitors** | **Friday, September 20, 2024** |
+| **You are 1 of 295 active visitors** | **Friday, September 20, 2024** |
 
 **EMAIL NEWS**![](/images/clear.gif)
 
@@ -109,7 +109,7 @@ Should you have questions or concerns relating to this Privacy Statement or comp
 |     |     |
 |     |     |    
 
- **QUOTES TO REMEMBER**Gun control? It's the best thing you can do for crooks and gangsters. I want you to have nothing. If I'm a bad guy, I'm always gonna have a gun. Safety locks? You will pull the trigger with a lock on, and I'll pull the trigger. We'll see who wins. � Sammy "The Bull" Gravano, whose testimony convicted John Gotti.
+ **QUOTES TO REMEMBER**The American Republic will endure, until politicians realize they can bribe the people with their own money. � Alexis de Tocqueville
 
 **COPYRIGHT POLICY:** The posting of copyrighted articles and other content, in whole or in part, is not allowed here. We have made an effort to educate our users about this policy and we are extremely serious about this. Users who are caught violating this rule will be warned and/or banned.  
 If you are the owner of content that you believe has been posted on this site without your permission, [please contact our webmaster by following this link](http://keepandbeararms.com/about/contact_us.asp). Please include with your message: (1) the particulars of the infringement, including a description of the content, (2) a link to that content here and (3) information concerning where the content in question was originally posted/published. We will address your complaint as quickly as possible. Thank you.
