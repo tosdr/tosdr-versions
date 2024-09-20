@@ -288,15 +288,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-Nearly Headless Nick died on October 31, 1492, after being hit in the neck 45 times with a blunt ax.
+The name Voldemort comes from the French words meaning “fly from death,” and his entire goal is to conquer death.
 
 ### Potter History
 
-July 15, 2001 – Harry Potter and the Deathly Hallows – Part 2 is released in theaters, breaking records to have the highest-grossing midnight release, first 24 hours, and opening weekend of all time. It is also currently the third highest-grossing film of all time.
+March 29, 2006 – “Harry Potter and the Half-Blood Prince” is named Book of the Year at the British Book Awards ceremony.
 
 ### Potter Quote
 
-“She’s been breaking into your broom shed in the garden since the age of six and taking each of your brooms out in turn when you weren’t looking.”
+“Sunshine, daisies, butter mellow, Turn this stupid, fat rat yellow.”
 
 [](#)
 
