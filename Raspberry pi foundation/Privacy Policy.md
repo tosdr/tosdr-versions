@@ -262,6 +262,13 @@ The only special category data we may process about you is listed under the head
 
 We take additional measures to protect this data by storing it in our Customer Relation Management Platform only. We restrict access to this data and only provide access to certain staff groups who need to access this information, for example, the event lead for the particular event you are attending.
 
+### Student Accounts for Code Editor for Education
+
+* Student Accounts are accounts created on an individual’s behalf and managed by teachers in their School. 
+* RPF is not the data controller of any personal data associated with or from these accounts.
+* Your School is responsible and decides how your personal data is used. However, your School may provide us with information about you in order for us to maintain, manage, and store your Student Account.
+* To see what data and how that data is processed and managed please review your School’s privacy policy or contact them directly.
+
 9\. Who we share your information with
 --------------------------------------
 
