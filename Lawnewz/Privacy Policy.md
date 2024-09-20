@@ -258,25 +258,25 @@ New York, NY 10001
 Top of Today
 ------------
 
-1. [![Fani Willis, on the left; Judge Rachel Krause, in the center, Ashleigh Merchant, on the right.](https://am22.mediaite.com/lc/cnt/uploads/2024/09/Willis-Krause-Merchant-432x243.jpg)](https://lawandcrime.com/high-profile/im-tired-of-listening-hearing-related-to-trump-rico-case-goes-off-the-rails-as-judge-says-i-can-read-and-upbraids-both-witness-and-attorney/)
+1. [![Jason Carlson, Sherell Allen and Luke Anaya](https://am23.mediaite.com/lc/cnt/uploads/2024/09/Jason-Carlson-Sherell-Allen-and-Luke-Anaya-432x243.jpg)](https://lawandcrime.com/crime/men-attacked-roommate-with-rock-salt-loaded-airsoft-guns-kept-him-captive-for-14-hours-while-beating-him-with-bat-crow-bar-cops/)
     
-    ### ['I'm tired of listening': Hearing related to Trump RICO case goes off the rails as judge says 'I can read' and upbraids both witness and attorney](https://lawandcrime.com/high-profile/im-tired-of-listening-hearing-related-to-trump-rico-case-goes-off-the-rails-as-judge-says-i-can-read-and-upbraids-both-witness-and-attorney/)
+    ### [Men attacked roommate with rock salt loaded airsoft guns, kept him captive for 14 hours while beating him with bat, crow bar: Cops](https://lawandcrime.com/crime/men-attacked-roommate-with-rock-salt-loaded-airsoft-guns-kept-him-captive-for-14-hours-while-beating-him-with-bat-crow-bar-cops/)
     
-2. [![Left to right: Special Counsel Jack Smith (AP Photo/J. Scott Applewhite, File), Aileen M. Cannon speaks remotely during a Senate Judiciary Committee hearing (U.S. Senate), Donald Trump speaks with supporters at the Westside Conservative Breakfast, June 1, 2023, in Des Moines, Iowa (AP Photo/Charlie Neibergall, File).](https://am24.mediaite.com/lc/cnt/uploads/2024/02/smith-cannon-trump-composite-432x243.jpg)](https://lawandcrime.com/high-profile/lawyers-law-professors-ex-doj-officials-tell-11th-circuit-that-trumps-dismissed-yet-seemingly-straightforward-mar-a-lago-case-must-be-taken-away-from-judge-cannon/)
+2. [![Inset: Johnathan James Willette (Affordable Cremation & Burial Service). Background: Devyn Michaels in court (KLAS).](https://am24.mediaite.com/lc/cnt/uploads/2024/09/vegasmurder-432x243.jpg)](https://lawandcrime.com/crime/woman-accused-of-decapitating-ex-boyfriend-and-tossing-his-head-in-the-trash-makes-plea-deal/)
     
-    ### [Lawyers, law professors, ex-DOJ officials tell 11th Circuit that Trump's dismissed yet 'seemingly straightforward' Mar-a-Lago case must be taken away from Judge Cannon](https://lawandcrime.com/high-profile/lawyers-law-professors-ex-doj-officials-tell-11th-circuit-that-trumps-dismissed-yet-seemingly-straightforward-mar-a-lago-case-must-be-taken-away-from-judge-cannon/)
+    ### [Woman accused of decapitating ex-boyfriend and tossing his head in the trash makes plea deal](https://lawandcrime.com/crime/woman-accused-of-decapitating-ex-boyfriend-and-tossing-his-head-in-the-trash-makes-plea-deal/)
     
-3. [![Background: In this image taken from video released by the National Transportation and Safety Board, the cargo ship Dali is stuck under part of the structure of the Francis Scott Key Bridge after the ship hit the bridge, Tuesday, March 26, 2024, in Baltimore (NTSB via AP). Inset top: Cargo chain turnbuckle, welded to angle iron, and wedged between the number 1 step-down transformer and steel beam (DOJ court filing). Inset bottom: Cracked steel bracked with weld repair at the number 1 step-down transformer (DOJ court filing).](https://am22.mediaite.com/lc/cnt/uploads/2024/09/Dali-Francis-Scott-Key-bridge-432x243.jpg)](https://lawandcrime.com/lawsuit/cargo-ship-that-knocked-down-francis-scott-key-bridge-was-jury-rigged-with-makeshift-attempts-to-cover-dangerous-conditions-lawsuit/)
+3. [![Peyton Stewart, Deslyn Williams, Asha Weir, Niamh Rolston, Fraser Michael Bohm](https://am23.mediaite.com/lc/cnt/uploads/2023/10/Pepperdine-432x243.jpg)](https://lawandcrime.com/lawsuit/parents-of-sorority-sisters-and-college-seniors-killed-while-walking-along-dead-mans-curve-by-alleged-speeding-bmw-driver-are-now-suing-california/)
     
-    ### [Cargo ship that knocked down Francis Scott Key Bridge was ‘jury-rigged’ with ‘makeshift’ attempts to cover dangerous conditions: Lawsuit](https://lawandcrime.com/lawsuit/cargo-ship-that-knocked-down-francis-scott-key-bridge-was-jury-rigged-with-makeshift-attempts-to-cover-dangerous-conditions-lawsuit/)
+    ### [Parents of sorority sisters and college seniors killed while walking along 'Dead Man's Curve' by alleged speeding BMW driver are now suing California](https://lawandcrime.com/lawsuit/parents-of-sorority-sisters-and-college-seniors-killed-while-walking-along-dead-mans-curve-by-alleged-speeding-bmw-driver-are-now-suing-california/)
     
-4. [![Hailey O'Connor](https://am21.mediaite.com/lc/cnt/uploads/2024/09/Hailey-OConnor-432x243.jpg)](https://lawandcrime.com/crime/pet-day-care-worker-who-apparently-forgot-about-2-dogs-outside-for-potty-break-let-them-collapse-in-florida-heat-and-then-clocked-out-is-arrested-months-after-allegedly-spitting-on-cop/)
-    
-    ### [Pet day care worker who apparently 'forgot' about 2 dogs outside for 'potty break,' let them collapse in Florida heat, and then clocked out is arrested months after allegedly spitting on cop](https://lawandcrime.com/crime/pet-day-care-worker-who-apparently-forgot-about-2-dogs-outside-for-potty-break-let-them-collapse-in-florida-heat-and-then-clocked-out-is-arrested-months-after-allegedly-spitting-on-cop/)
-    
-5. [![Haley Ryan appears in two mugshots](https://am23.mediaite.com/lc/cnt/uploads/2024/09/Haley-Ryan-1-432x243.jpg)](https://lawandcrime.com/crime/mother-lightly-sentenced-over-disturbing-video-apparently-showing-her-screaming-at-and-hitting-months-old-baby-boy-in-crib/)
+4. [![Haley Ryan appears in two mugshots](https://am23.mediaite.com/lc/cnt/uploads/2024/09/Haley-Ryan-1-432x243.jpg)](https://lawandcrime.com/crime/mother-lightly-sentenced-over-disturbing-video-apparently-showing-her-screaming-at-and-hitting-months-old-baby-boy-in-crib/)
     
     ### [Mother lightly sentenced over 'disturbing' video apparently showing her ‘screaming at and hitting’ months-old baby boy in crib](https://lawandcrime.com/crime/mother-lightly-sentenced-over-disturbing-video-apparently-showing-her-screaming-at-and-hitting-months-old-baby-boy-in-crib/)
+    
+5. [![Daman Smith peeping tom](https://am24.mediaite.com/lc/cnt/uploads/2024/09/Damon-Smith-432x243.jpg)](https://lawandcrime.com/crime/i-got-something-for-you-angry-florida-dad-with-baseball-bat-chases-michael-myers-t-shirt-wearing-peeping-tom-peering-into-daughters-bedroom-window-cops-say/)
+    
+    ### ['I got something for you:' Angry Florida dad with baseball bat chases Michael Myers T-shirt-wearing peeping Tom peering into daughter's bedroom window, cops say](https://lawandcrime.com/crime/i-got-something-for-you-angry-florida-dad-with-baseball-bat-chases-michael-myers-t-shirt-wearing-peeping-tom-peering-into-daughters-bedroom-window-cops-say/)
     
 
 [](http://eepurl.com/c89Jdb)
