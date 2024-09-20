@@ -398,6 +398,7 @@ Please contact us at [legal@mural.co](mailto:legal@mural.co)  with any question
 * [Accessibility](https://www.mural.co/accessibility)
 * [Mural status](http://status.mural.co/)
 * [Help center](https://support.mural.co/s/)
+* [Sitemap](https://www.mural.co/sitemap)
 
 * Company
     
