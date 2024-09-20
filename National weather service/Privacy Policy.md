@@ -27,8 +27,8 @@
     
 * [SAFETY](https://www.weather.gov/safety)
     
-    * [Tsunamis](https://www.weather.gov/safety/tsunami)
     * [Floods](https://www.weather.gov/safety/flood)
+    * [Tsunamis](https://www.weather.gov/safety/tsunami)
     * [Beach Hazards](https://www.weather.gov/safety/beachhazards)
     * [Wildfire](https://www.weather.gov/safety/wildfire)
     * [Cold](https://www.weather.gov/safety/cold)
@@ -38,8 +38,8 @@
     * [Heat](https://www.weather.gov/safety/heat)
     * [Hurricanes](https://www.weather.gov/safety/hurricane)
     * [Lightning](https://www.weather.gov/safety/lightning)
-    * [Safe Boating](https://www.weather.gov/safety/safeboating)
     * [Rip Currents](https://www.weather.gov/safety/ripcurrent)
+    * [Safe Boating](https://www.weather.gov/safety/safeboating)
     * [Thunderstorms](https://www.weather.gov/safety/thunderstorm)
     * [Space Weather](https://www.weather.gov/safety/space)
     * [Sun (Ultraviolet Radiation)](https://www.weather.gov/safety/heat-uv)
