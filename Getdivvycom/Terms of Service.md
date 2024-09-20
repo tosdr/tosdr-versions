@@ -244,16 +244,6 @@ BILL is making the financial back office a better place.
 
 [Get Started](https://getdivvy.com/signup)
 
-[](#)
-
-![](https://cdn.prod.website-files.com/63e3da3df35cd62f54751985/64ef9dfe94d80826aa330196_divvy-to-bill-banner-image%20(1).png)
-
-It's official: Divvy is now BILL Spend & Expense
-
-Keep everything you love about Divvy—and access more ways to automate your financial operations.
-
-![](https://cdn.prod.website-files.com/63e3da3df35cd62f54751985/64ef9f3921fd2084f5dac645_banner-halftone-accent.png)
-
 Card first. Software second. Expense reports, never.
 ====================================================
 
