@@ -286,3 +286,5 @@ Copyright 2024 CobbleStone Software. All rights reserved. [Privacy Policy.](http
 * [Blog](https://www.cobblestonesoftware.com/blog)
 
 [![Free Demo](https://no-cache.hubspot.com/cta/default/4453622/62251e7a-0cfe-4377-a901-96d3b6fd6aeb.png)](https://cta-redirect.hubspot.com/cta/redirect/4453622/62251e7a-0cfe-4377-a901-96d3b6fd6aeb)
+
+Cookie Settings
