@@ -10,7 +10,7 @@
 
 User icon An illustration of a person's head and chest. [Sign up](https://archive.org/account/signup) | [Log in](https://archive.org/account/login)
 
-[Web icon An illustration of a computer application window Wayback Machine](https://web.archive.org/ "Expand web menu") [Texts icon An illustration of an open book. Books](https://archive.org/details/texts "Expand texts menu") [Video icon An illustration of two cells of a film strip. Video](https://archive.org/details/movies "Expand video menu") [Audio icon An illustration of an audio speaker. Audio](https://archive.org/details/audio "Expand audio menu") [Software icon An illustration of a 3.5" floppy disk. Software](https://archive.org/details/software "Expand software menu") [Images icon An illustration of two photographs. Images](https://archive.org/details/image "Expand images menu") [Donate icon An illustration of a heart shape Donate](https://archive.org/donate/ "Expand donate menu") [Ellipses icon An illustration of text ellipses. More](https://archive.org/about/ "Expand more menu")
+[Web icon An illustration of a computer application window Wayback Machine](https://web.archive.org/ "Expand web menu") [Texts icon An illustration of an open book. Texts](https://archive.org/details/texts "Expand texts menu") [Video icon An illustration of two cells of a film strip. Video](https://archive.org/details/movies "Expand video menu") [Audio icon An illustration of an audio speaker. Audio](https://archive.org/details/audio "Expand audio menu") [Software icon An illustration of a 3.5" floppy disk. Software](https://archive.org/details/software "Expand software menu") [Images icon An illustration of two photographs. Images](https://archive.org/details/image "Expand images menu") [Donate icon An illustration of a heart shape Donate](https://archive.org/donate/ "Expand donate menu") [Ellipses icon An illustration of text ellipses. More](https://archive.org/about/ "Expand more menu")
 
 Hamburger icon An icon used to represent a menu that can be toggled by interacting with this icon.
 
@@ -21,7 +21,6 @@ Hamburger icon An icon used to represent a menu that can be toggled by interacti
 #### Featured
 
 * [All Audio](https://archive.org/details/audio)
-* [This Just In](https://archive.org/search.php?query=mediatype:audio&sort=-publicdate)
 * [Grateful Dead](https://archive.org/details/GratefulDead)
 * [Netlabels](https://archive.org/details/netlabels)
 * [Old Time Radio](https://archive.org/details/oldtimeradio)
@@ -44,7 +43,6 @@ Hamburger icon An icon used to represent a menu that can be toggled by interacti
 #### Featured
 
 * [All Images](https://archive.org/details/image)
-* [This Just In](https://archive.org/search.php?query=mediatype:image&sort=-publicdate)
 * [Flickr Commons](https://archive.org/details/flickrcommons)
 * [Occupy Wall Street Flickr](https://archive.org/details/flickr-ows)
 * [Cover Art](https://archive.org/details/coverartarchive)
@@ -63,7 +61,6 @@ Hamburger icon An icon used to represent a menu that can be toggled by interacti
 #### Featured
 
 * [All Software](https://archive.org/details/software)
-* [This Just In](https://archive.org/search.php?query=mediatype:software&sort=-publicdate)
 * [Old School Emulation](https://archive.org/details/tosec)
 * [MS-DOS Games](https://archive.org/details/softwarelibrary_msdos_games)
 * [Historical Software](https://archive.org/details/historicalsoftware)
@@ -86,15 +83,13 @@ Hamburger icon An icon used to represent a menu that can be toggled by interacti
 * [ZX Spectrum](https://archive.org/details/softwarelibrary_zx_spectrum)
 * [DOOM Level CD](https://archive.org/details/doom-cds)
 
-### Books
+### Texts
 
-[![](/images/book-lend.png)Books to Borrow](https://archive.org/details/inlibrary) [![](/images/widgetOL.png)Open Library](https://openlibrary.org/)
+[![](/images/widgetOL.png)Open Library](https://openlibrary.org/) [![](/services/img/americana)American Libraries](https://archive.org/details/americana)
 
 #### Featured
 
-* [All Books](https://archive.org/details/books)
 * [All Texts](https://archive.org/details/texts)
-* [This Just In](https://archive.org/search.php?query=mediatype:texts&sort=-publicdate)
 * [Smithsonian Libraries](https://archive.org/details/smithsonian)
 * [FEDLINK (US)](https://archive.org/details/fedlink)
 * [Genealogy](https://archive.org/details/genealogy)
@@ -118,7 +113,6 @@ Hamburger icon An icon used to represent a menu that can be toggled by interacti
 #### Featured
 
 * [All Video](https://archive.org/details/movies)
-* [This Just In](https://archive.org/search.php?query=mediatype:movies&sort=-publicdate)
 * [Prelinger Archives](https://archive.org/details/prelinger)
 * [Democracy Now!](https://archive.org/details/democracy_now_vid)
 * [Occupy Wall Street](https://archive.org/details/occupywallstreet)
@@ -284,6 +278,6 @@ Email: [info@archive.org](mailto:info@archive.org)
 **For More Information**  
 If you have any questions or comments regarding these terms and policies or the Archive’s data collection practices, please contact the Archive at [info@archive.org](mailto:info@archive.org) or Internet Archive, 300 Funston Ave., San Francisco, CA 94118, phone 415-561-6767.  
 
-![](//athena.archive.org/0.gif?kind=track_js&track_js_case=control&cache_bust=1526894673)
+![](//athena.archive.org/0.gif?kind=track_js&track_js_case=control&cache_bust=459705166)
 
-![](//athena.archive.org/0.gif?kind=track_js&track_js_case=disabled&cache_bust=1777387338)
+![](//athena.archive.org/0.gif?kind=track_js&track_js_case=disabled&cache_bust=95352847)
