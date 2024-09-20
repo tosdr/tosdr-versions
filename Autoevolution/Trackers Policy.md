@@ -39,9 +39,9 @@ editorial \_
 
 coverstory \_
 
-[![Three Into One Doesn't Go: Who Are the Main Contenders for the Second Sauber F1 Seat](https://s1.cdn.autoevolution.com/images/news/three-into-one-doesn-t-go-who-are-the-main-contenders-for-the-second-sauber-f1-seat-240018-5.jpg "Three Into One Doesn't Go: Who Are the Main Contenders for the Second Sauber F1 Seat")
+[![Ghia L6.4: A Look Back at the Ultra-Rare Italian Coupe Powered by American Muscle](https://s1.cdn.autoevolution.com/images/news/ghia-l64-a-look-back-at-the-ultra-rare-italian-coupe-powered-by-american-muscle-240071-5.jpg "Ghia L6.4: A Look Back at the Ultra-Rare Italian Coupe Powered by American Muscle")
 
-Three Into One Doesn't Go: Who Are the Main Contenders for the Second Sauber F1 Seat](https://www.autoevolution.com/news/three-into-one-doesn-t-go-who-are-the-main-contenders-for-the-second-sauber-f1-seat-240018.html)
+Ghia L6.4: A Look Back at the Ultra-Rare Italian Coupe Powered by American Muscle](https://www.autoevolution.com/news/ghia-l64-a-look-back-at-the-ultra-rare-italian-coupe-powered-by-american-muscle-240071.html)
 
 how-to \_
 
