@@ -4,8 +4,6 @@
 
 ![](https://ct.pinterest.com/v3/?tid=2620017664612&noscript=1)
 
-**Campfire Ban** begins July 26 in Olympic National Park and Olympic National Forest [Learn More >](https://www.olympicnationalparks.com/alerts/2024/campfire-ban/ "Campfire Ban")
-
 * [](https://www.olympicnationalparks.com/photos-videos/)
 [](https://www.olympicnationalparks.com/photos-videos/)* [](https://www.olympicnationalparks.com/photos-videos/)[](https://www.olympicnationalparks.com/email-sign-up/)
 * [](#box-cart-header)
