@@ -310,7 +310,7 @@ Start Free Trial
 AudioEye Terms of Service
 =========================
 
-_Last updated: October 18, 2023_
+_Last updated: August 22, 2024_
 
 These Terms of Service (these “**Terms**”) govern Customer’s relationship with AudioEye, Inc. (“**AudioEye**”) and the use of any Offering. By signing an Order that references these Terms, acquiring the right to use an Offering through an AudioEye Platform, acquiring the right to use an Offering through an authorized Reseller or otherwise using an Offering (including using an AudioEye Website), Customer agrees to these Terms. If you are agreeing to these Terms on behalf of another company, entity or other person, “**Customer**” will refer to such company, entity or other person. Capitalized terms not otherwise defined in the Agreement will have the definitions set forth in these Terms.
 
