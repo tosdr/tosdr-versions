@@ -1769,6 +1769,8 @@ What do top resumes look like? Check out these expertly-written samples:
 
 [Senior Administrative Assistant](https://cvcompiler.com/senior-administrative-assistant-resume-examples)
 
+[Dental Office Administrator](https://cvcompiler.com/dental-office-administrator-resume-examples)
+
 ![Upload resume illustration](uploads-pre-acq/img/upload-illustration.svg)
 
 ### Upload  
