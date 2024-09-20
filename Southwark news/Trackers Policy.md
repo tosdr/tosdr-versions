@@ -19,6 +19,10 @@
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![A stock image of a pizza. Credit: Daria Yakovleva (Creative Commons)](https://southwarknews.co.uk/wp-content/uploads/2024/09/A-stock-image-of-a-pizza.-Credit-Daria-Yakovleva-Creative-Commons-360x180.png)](https://southwarknews.co.uk/area/southwark/which-southwark-restaurants-got-top-marks-in-the-latest-food-hygiene-inspections/)
+    
+    ### [Which Southwark restaurants got top marks in the latest food hygiene inspections?](https://southwarknews.co.uk/area/southwark/which-southwark-restaurants-got-top-marks-in-the-latest-food-hygiene-inspections/)
+    
     [![Left to right: Cllr Mohamed Deen, Miatta Fahnbulleh MP, Neil Coyle MP and Cllr David Parton](https://southwarknews.co.uk/wp-content/uploads/2024/07/Left-to-right-Cllr-Mohamed-Deen-Miatta-Fahnbulleh-MP-Neil-Coyle-MP-and-Cllr-David-Parton-360x180.png)](https://southwarknews.co.uk/area/bermondsey/comment-egging-your-local-mp-isnt-clever-or-funny/)
     
     ### [Comment: Egging your local MP isn’t clever or funny](https://southwarknews.co.uk/area/bermondsey/comment-egging-your-local-mp-isnt-clever-or-funny/)
@@ -51,10 +55,6 @@
     [![Ben Spencer's outrage has got people talking on X (formerly Twitter) Credit: Ben Spencer](https://southwarknews.co.uk/wp-content/uploads/2024/09/bingo-360x180.png)](https://southwarknews.co.uk/area/london/disabled-millwall-fan-demands-mayor-sorts-out-e-bikes-once-and-for-all-in-passionate-video-after-ridiculous-pile-up-in-central-london/)
     
     ### [Disabled Millwall fan demands Mayor ‘sorts out’ e-bikes ‘once and for all’ in passionate video after ridiculous pile-up in Central London](https://southwarknews.co.uk/area/london/disabled-millwall-fan-demands-mayor-sorts-out-e-bikes-once-and-for-all-in-passionate-video-after-ridiculous-pile-up-in-central-london/)
-    
-    [![Stock image (London Fire Brigade)](https://southwarknews.co.uk/wp-content/uploads/2024/09/stock-logo-fire-engine-2-london-fire-brigade-360x180.jpg)](https://southwarknews.co.uk/area/dulwich/flat-catches-fire-in-east-dulwich/)
-    
-    ### [Flat catches fire in East Dulwich](https://southwarknews.co.uk/area/dulwich/flat-catches-fire-in-east-dulwich/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [In depth history](https://southwarknews.co.uk/category/history/in-depth-history/)
@@ -100,6 +100,10 @@ View All Result
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![A stock image of a pizza. Credit: Daria Yakovleva (Creative Commons)](https://southwarknews.co.uk/wp-content/uploads/2024/09/A-stock-image-of-a-pizza.-Credit-Daria-Yakovleva-Creative-Commons-360x180.png)](https://southwarknews.co.uk/area/southwark/which-southwark-restaurants-got-top-marks-in-the-latest-food-hygiene-inspections/)
+    
+    ### [Which Southwark restaurants got top marks in the latest food hygiene inspections?](https://southwarknews.co.uk/area/southwark/which-southwark-restaurants-got-top-marks-in-the-latest-food-hygiene-inspections/)
+    
     [![Left to right: Cllr Mohamed Deen, Miatta Fahnbulleh MP, Neil Coyle MP and Cllr David Parton](https://southwarknews.co.uk/wp-content/uploads/2024/07/Left-to-right-Cllr-Mohamed-Deen-Miatta-Fahnbulleh-MP-Neil-Coyle-MP-and-Cllr-David-Parton-360x180.png)](https://southwarknews.co.uk/area/bermondsey/comment-egging-your-local-mp-isnt-clever-or-funny/)
     
     ### [Comment: Egging your local MP isn’t clever or funny](https://southwarknews.co.uk/area/bermondsey/comment-egging-your-local-mp-isnt-clever-or-funny/)
@@ -132,10 +136,6 @@ View All Result
     [![Ben Spencer's outrage has got people talking on X (formerly Twitter) Credit: Ben Spencer](https://southwarknews.co.uk/wp-content/uploads/2024/09/bingo-360x180.png)](https://southwarknews.co.uk/area/london/disabled-millwall-fan-demands-mayor-sorts-out-e-bikes-once-and-for-all-in-passionate-video-after-ridiculous-pile-up-in-central-london/)
     
     ### [Disabled Millwall fan demands Mayor ‘sorts out’ e-bikes ‘once and for all’ in passionate video after ridiculous pile-up in Central London](https://southwarknews.co.uk/area/london/disabled-millwall-fan-demands-mayor-sorts-out-e-bikes-once-and-for-all-in-passionate-video-after-ridiculous-pile-up-in-central-london/)
-    
-    [![Stock image (London Fire Brigade)](https://southwarknews.co.uk/wp-content/uploads/2024/09/stock-logo-fire-engine-2-london-fire-brigade-360x180.jpg)](https://southwarknews.co.uk/area/dulwich/flat-catches-fire-in-east-dulwich/)
-    
-    ### [Flat catches fire in East Dulwich](https://southwarknews.co.uk/area/dulwich/flat-catches-fire-in-east-dulwich/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [In depth history](https://southwarknews.co.uk/category/history/in-depth-history/)
@@ -232,6 +232,12 @@ Photo by  Joe Coughlan.](https://southwarknews.co.uk/wp-content/uploads/2024/09/
 
 ### Featured Articles
 
+[![A stock image of a pizza. Credit: Daria Yakovleva (Creative Commons)](https://southwarknews.co.uk/wp-content/uploads/2024/09/A-stock-image-of-a-pizza.-Credit-Daria-Yakovleva-Creative-Commons-120x86.png)](https://southwarknews.co.uk/area/southwark/which-southwark-restaurants-got-top-marks-in-the-latest-food-hygiene-inspections/)
+
+### [Which Southwark restaurants got top marks in the latest food hygiene inspections?](https://southwarknews.co.uk/area/southwark/which-southwark-restaurants-got-top-marks-in-the-latest-food-hygiene-inspections/)
+
+[20th September 2024](https://southwarknews.co.uk/area/southwark/which-southwark-restaurants-got-top-marks-in-the-latest-food-hygiene-inspections/)
+
 [![Neil Clayton, a solicitor, said he used the steps twice a week and was “used to it” but had heard of colleagues tumbling down. Credit: Herbie Russell](https://southwarknews.co.uk/wp-content/uploads/2024/09/IMG_2418-1-120x86.jpeg)](https://southwarknews.co.uk/area/borough/steps-by-london-bridge-with-bizarre-slanted-design-branded-worst-in-london/)
 
 ### [Steps by London Bridge with bizarre slanted design branded ‘worst in London’](https://southwarknews.co.uk/area/borough/steps-by-london-bridge-with-bizarre-slanted-design-branded-worst-in-london/)
@@ -262,12 +268,6 @@ Credit: Harrison Galliven](https://southwarknews.co.uk/wp-content/uploads/2024/0
 ### [Disabled Millwall fan demands Mayor ‘sorts out’ e-bikes ‘once and for all’ in passionate video after ridiculous pile-up in Central London](https://southwarknews.co.uk/area/london/disabled-millwall-fan-demands-mayor-sorts-out-e-bikes-once-and-for-all-in-passionate-video-after-ridiculous-pile-up-in-central-london/)
 
 [18th September 2024](https://southwarknews.co.uk/area/london/disabled-millwall-fan-demands-mayor-sorts-out-e-bikes-once-and-for-all-in-passionate-video-after-ridiculous-pile-up-in-central-london/)
-
-[![Locals did a double take as Madame Tussauds London’s Prince Harry figure was spotted at the Duke of Sussex pub in Peckam (4)](https://southwarknews.co.uk/wp-content/uploads/2024/09/Locals-did-a-double-take-as-Madame-Tussauds-Londons-Prince-Harry-figure-was-spotted-at-the-Duke-of-Sussex-pub-in-Peckam-4-120x86.jpeg)](https://southwarknews.co.uk/area/peckham/prince-harry-and-meghan-markle-waxworks-escapes-from-madame-tussauds-for-birthday-pint-at-peckham-pub/)
-
-### [Prince Harry waxwork escapes from Madame Tussauds for birthday pint at Peckham pub](https://southwarknews.co.uk/area/peckham/prince-harry-and-meghan-markle-waxworks-escapes-from-madame-tussauds-for-birthday-pint-at-peckham-pub/)
-
-[18th September 2024](https://southwarknews.co.uk/area/peckham/prince-harry-and-meghan-markle-waxworks-escapes-from-madame-tussauds-for-birthday-pint-at-peckham-pub/)
 
 ### USEFUL PAGES
 
