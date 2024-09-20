@@ -2,7 +2,7 @@
 
 [New Zealand Parliament Pāremata Aotearoa](https://www.parliament.nz/en/)
 
-Language [English](#) [Māori](https://www.parliament.nz/mi/site-search/)
+Language [English](#) [Māori](https://www.parliament.nz/mi/pb/order-paper-questions/written-questions/document/QWA_05848_2006/5848-2006-heather-roy-to-the-minister-of-health/)
 
 Search [Advanced Search](https://www.parliament.nz/en/search)
 
@@ -14,7 +14,7 @@ Search
 
 [Advanced Search](https://www.parliament.nz/en/search)
 
-Language [English](#) [Māori](https://www.parliament.nz/mi/site-search/)
+Language [English](#) [Māori](https://www.parliament.nz/mi/pb/order-paper-questions/written-questions/document/QWA_05848_2006/5848-2006-heather-roy-to-the-minister-of-health/)
 
 * [Home](https://www.parliament.nz/en/ "Home")
 * [Parliamentary Business](https://www.parliament.nz/en/pb/)
