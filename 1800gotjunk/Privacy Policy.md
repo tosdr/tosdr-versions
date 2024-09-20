@@ -139,6 +139,20 @@ search
 O2E Privacy Notice
 ==================
 
+Check Availability
+
+No credit card required
+
+Check Availability 
+
+ 
+
+Go
+
+* No credit card required
+
+Or call [1-800-468-5865](tel://1-800-468-5865)
+
 Book Online Mobile Menu
 
 * [Book Online](https://request.1800gotjunk.com/us_en/onlinebooking)
@@ -602,17 +616,17 @@ Emilo Guhit Calgary 13/09/2024
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
-Mikhail did an amazing job removing my piano. Thank you Mikhail and 1800 Gpt Junk!!
+Quick friendly service! A great job done
 
-Malcolm Propp Calgary 12/09/2024
+Angie Klesken Calgary 12/09/2024
 
 ![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
-Quick friendly service! A great job done
+Mikhail did an amazing job removing my piano. Thank you Mikhail and 1800 Gpt Junk!!
 
-Angie Klesken Calgary 12/09/2024
+Malcolm Propp Calgary 12/09/2024
 
 ![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
 
@@ -850,46 +864,6 @@ Lonimi Meseko Monteregie Metro 03/01/2023
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
-Fast professional and friendly!
-
-Tamra Mast Austin 14/09/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
-Steve and Kegan made me feel welcome and helped me save some money! Great team.
-
-Nancy Sheehan Naples 14/09/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
-Kenneth and Justin were awesome! Fast!
-
-Beth Havens Cincinnati 14/09/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
-Easiest removal of unwanted junk by Kegan and Steven, great guys!
-
-John Masse Naples 14/09/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
-Kenneth and Justin tgey did a great job, I highly reco.mend them. Friendly and professional
-
-Cindy Wesley Cincinnati 14/09/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
 Harrison and Alex did a fantastic job
 
 Kennedy Sean Wisconsin 14/09/2024
@@ -930,6 +904,70 @@ Andrew Duhig LA Metro 14/09/2024
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
+Fast professional and friendly!
+
+Tamra Mast Austin 14/09/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
+Steve and Kegan made me feel welcome and helped me save some money! Great team.
+
+Nancy Sheehan Naples 14/09/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
+Kenneth and Justin were awesome! Fast!
+
+Beth Havens Cincinnati 14/09/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
+Easiest removal of unwanted junk by Kegan and Steven, great guys!
+
+John Masse Naples 14/09/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
+Kenneth and Justin tgey did a great job, I highly reco.mend them. Friendly and professional
+
+Cindy Wesley Cincinnati 14/09/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
+Good guys, quality work. Thanks.
+
+Steve Fuller Madison 13/09/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
+Wonderful experience! Great job and very helpful! Thank you David and Keone
+
+Sonia Dhingra Wisconsin 13/09/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
+What a great company. Ethan and Damien did such a wonderful job. They both had great customer service and worked so hard.
+
+Jenny Duvall Wisconsin 13/09/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
 Keone and David they were very polite friendly and did a good job.They We’re awesome
 
 Jessica Ortiz Wisconsin 13/09/2024
@@ -946,14 +984,6 @@ Andrew Little LA Metro 13/09/2024
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
-AJ and Luis were awesome! They did a quick and thorough job getting years of things out. Highly recommended.
-
-Paulo Almas Austin 13/09/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
 Ethan and Rex were professional and efficient and did a great job for us.
 
 Mister Ed Wisconsin 13/09/2024
@@ -962,33 +992,17 @@ Mister Ed Wisconsin 13/09/2024
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
+AJ and Luis were awesome! They did a quick and thorough job getting years of things out. Highly recommended.
+
+Paulo Almas Austin 13/09/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
 Chase and Zach were outstanding. They were fast with the removal and great guys. Would definitely call them again in the future.
 
 Sam Brady Austin 13/09/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
-Great service. Mason has a gentle touch!
-
-Corby Houser Austin 13/09/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
-Avron and Alex were freakin awesome! Thank you fellas!
-
-Alisha Bell Naples 13/09/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
-Avron and Alex are 100% the best
-
-Angela White Naples 13/09/2024
 
 ### 
 
