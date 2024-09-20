@@ -123,44 +123,44 @@ Advertisement
     The Beginning and the End of the Universe
     
     Episode 1: The BeginingEmbarking on a cosmic journey, Professor Jim Al-Khalili transports us through the corridors of time to confront science's most profound inquiry: the genesis of the univers...](https://documentaryheaven.com/the-beginning-and-the-end-of-the-universe/ "The Beginning and the End of the Universe")
-* [![The War On Drugs: The Prison Industrial Complex](/wp-content/thumbnails/958-100x70.gif?x53432)
+* [![These Streets Are Watching](/wp-content/thumbnails/1269-100x70.jpg?x53432)
     
-    The War On Drugs: The Prison Industrial Complex
+    These Streets Are Watching
     
-    The war on drugs has been going on for more than three decades. Today, nearly 500,000 Americans are imprisoned on drug charges. In 1980 the number was 50,000. Last year $40 billion in taxpayer dollars...](https://documentaryheaven.com/the-war-on-drugs-the-prison-industrial-complex/ "The War On Drugs: The Prison Industrial Complex")
-* [![ZERO: An Investigation Into 9/11](/wp-content/thumbnails/4643-100x70.jpg?x53432)
+    However, if nothing else, cop watch can and will and does inform citizens of their lefts as citizens. Informs citizens of what is proper police conduct and what is improper police conduct. Informs cit...](https://documentaryheaven.com/these-streets-are-watching/ "These Streets Are Watching")
+* [![The Forgotten Refugees](/wp-content/thumbnails/1718-100x70.jpg?x53432)
     
-    ZERO: An Investigation Into 9/11
+    The Forgotten Refugees
     
-    ZERO: An Investigation into 9/11, has one central thesis - that the official version of the events surrounding the attacks on 9/11 can not be true. This brand new feature documentary from Italian prod...](https://documentaryheaven.com/zero-an-investigation-into-911/ "ZERO: An Investigation Into 9/11")
+    Executive Producer: Ralph Avi Goldwasser Director: Michael GrynszpanRunning time: 49 minutesA film about the mass exodus of Jews from the Middle East and North Africa in the 20th centuryProdu...](https://documentaryheaven.com/the-forgotten-refugees/ "The Forgotten Refugees")
 
 ###### Throwback Documentaries
 
-* [![Mick Foley: Hardcore Legend](/wp-content/thumbnails/8493-100x70.jpg?x53432)
+* [![The Putin System](/wp-content/thumbnails/3823-100x70.jpg?x53432)
     
-    Mick Foley: Hardcore Legend
+    The Putin System
     
-    A behind the scenes look into the world of Mick Foley, the professional wrestler who was best known for his outrageous hardcore matches where anything goes, from landing in a bed of thumbtacks to gett](https://documentaryheaven.com/mick-foley-hardcore-legend/ "Mick Foley: Hardcore Legend")
-* [![Citizenfour](/wp-content/thumbnails/9535-100x70.jpg?x53432)
+    For three years, filmmakers Jean-Michel Carr and Jill Emery interviewed dozens of people to gain insight into the life and political motivations of Russia’s most powerful politician, Vladimir Putin. T](https://documentaryheaven.com/the-putin-system/ "The Putin System")
+* [![Meet The Burglars](/wp-content/thumbnails/7585-100x70.jpg?x53432)
     
-    Citizenfour
+    Meet The Burglars
     
-    Back in January of 2013, Laura Poitras a documentary filmmaker who received the MacArthur Genius Fellowship award in 2012 and shared a 2014 Pulitzer Prize for Public Service was a few y](https://documentaryheaven.com/citizenfour/ "Citizenfour")
-* [![Trial of Henry Kissinger](/wp-content/thumbnails/26-100x70.png?x53432)
+    Victims of burglary and other crimes are increasingly being offered the opportunity to meet the criminals who offended against them, in a controversial scheme aimed at empowering victims and potential](https://documentaryheaven.com/meet-the-burglars/ "Meet The Burglars")
+* [![Mad But Glad](/wp-content/thumbnails/651-100x70.png?x53432)
     
-    Trial of Henry Kissinger
+    Mad But Glad
     
-    THE TRIALS OF HENRY KISSINGER, a documentary based on the book by British journalist Christopher Hitchens, argues that Kissinger, the former U.S. Secretary of State and the recipient of the Nobel Peac](https://documentaryheaven.com/trial-of-henry-kissinger/ "Trial of Henry Kissinger")
-* [![Vaccine Nation](/wp-content/thumbnails/1444-100x70.jpg?x53432)
+    Is there really such a thing as the mad genius? Can an illness be both a blessing and a curse? At seven years old, Nick van Bloss started shaking his head, grinding his teeth and making wild whooping](https://documentaryheaven.com/mad-but-glad/ "Mad But Glad")
+* [![The Union: The Business Behind Getting High](/wp-content/thumbnails/2309-100x70.png?x53432)
     
-    Vaccine Nation
+    The Union: The Business Behind Getting High
     
-    In the United States, the number of mandatory vaccine injections has risen to 36 per child. Each of these injections contains neurotoxins such as aluminum, formaldehyde, aborted fetal tissue, animal b](https://documentaryheaven.com/vaccine-nation/ "Vaccine Nation")
-* [![The Endless Summer](/wp-content/thumbnails/1539-100x70.jpg?x53432)
+    Ever wonder what British Columbia’s most profitable industries are? Logging? Fishing? Tourism? Ever think to include marijuana? If you haven’t, think again. No longer a hobby for the stereotypical hip](https://documentaryheaven.com/the-union-the-business-behind-getting-high/ "The Union: The Business Behind Getting High")
+* [![TT3D Closer to the Edge](/wp-content/thumbnails/14611-100x70.jpg?x53432)
     
-    The Endless Summer
+    TT3D Closer to the Edge
     
-    Before there was sunscreen, high-tech wet suits, and corporate-sponsored surfing competitions, there was Bruce Brown, the original beach bum and the director of the greatest surf movie ever made, The](https://documentaryheaven.com/the-endless-summer/ "The Endless Summer")
+    The TT motorcycle race takes place on the Isle of Man every year and TT3D: Closer to the Edge is a film which follows some of the leading riders of the 2010 race, most notably Guy Martin and Ian Hutch](https://documentaryheaven.com/tt3d-closer-to-edge/ "TT3D Closer to the Edge")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
