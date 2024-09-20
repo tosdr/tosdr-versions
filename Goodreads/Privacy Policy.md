@@ -217,7 +217,7 @@ October 16, 2008: We replaced our [former privacy policy](https://www.goodreads.
 * [Author Guidelines](https://www.goodreads.com/author/guidelines)
 * [Q&A Guidelines](https://www.goodreads.com/questions/guidelines)
 * [Group Moderator Guidelines](https://www.goodreads.com/group/moderator_guidelines)
-* [Book Records Guidelines](https://www.goodreads.com/book_records/guidelines)
+* [Catalog Guidelines](https://www.goodreads.com/catalog/guidelines)
 * [Giveaway Terms](https://www.goodreads.com/giveaway/terms)
 
 ### Company
