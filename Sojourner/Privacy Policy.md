@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-b6114157cfff408dcc66d649ccb85bd9
+fe6fe4aea04981d3981632b39499e538
 
 [](# "Expand for more options")[](# "Search")
 
@@ -171,11 +171,11 @@ Sojourner may revise this policy as needed by updating this posting.
 
 ### Featured Product
 
-[![3 mm by 6 mm white pearls](https://www.sojourner.biz/images/cache/pearls/PE0191.200.jpg)](https://www.sojourner.biz/beads/pearls/3-mm-by-6-mm-white-pearls.html "3 mm by 6 mm white pearls")
+[![Shell serving spoon](https://www.sojourner.biz/images/cache/tabletop/TT0066_Shell_serving_spoon_MIN-HDG-SUT-001_A_PZ.200.webp)](https://www.sojourner.biz/shell-serving-spoon.html "Shell serving spoon")
 
-#### [3 mm by 6 mm white pearls](https://www.sojourner.biz/beads/pearls/3-mm-by-6-mm-white-pearls.html "3 mm by 6 mm white pearls")
+#### [Shell serving spoon](https://www.sojourner.biz/shell-serving-spoon.html "Shell serving spoon")
 
-$12.00
+$38.00
 
 ### Best Sellers
 
