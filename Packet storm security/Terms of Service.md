@@ -1,6 +1,6 @@
 [![packet storm](https://packetstatic.com/img1514015884/ps_logo.png)](https://packetstormsecurity.com/)
 
-what you don't know can hurt you
+exploit the possibilities
 
 [Register](https://packetstormsecurity.com/account/register/) | [Login](https://packetstormsecurity.com/account/login/)
 
@@ -53,10 +53,10 @@ Any claim relating to Packet Storm Security's web site shall be governed by the 
 Top Authors In Last 30 Days
 ---------------------------
 
-* [Red Hat](https://packetstormsecurity.com/files/authors/4676) 215 files
-* [indoushka](https://packetstormsecurity.com/files/authors/7697) 165 files
+* [Red Hat](https://packetstormsecurity.com/files/authors/4676) 237 files
+* [indoushka](https://packetstormsecurity.com/files/authors/7697) 172 files
 * [Jay Turla](https://packetstormsecurity.com/files/authors/9975) 150 files
-* [Ubuntu](https://packetstormsecurity.com/files/authors/3695) 74 files
+* [Ubuntu](https://packetstormsecurity.com/files/authors/3695) 78 files
 * [h00die](https://packetstormsecurity.com/files/authors/7166) 54 files
 * [juan vazquez](https://packetstormsecurity.com/files/authors/8993) 43 files
 * [sinn3r](https://packetstormsecurity.com/files/authors/7652) 41 files
@@ -68,6 +68,62 @@ Recent News
 -----------
 
 [![News RSS Feed](https://packetstatic.com/img1514015884/bt_rss.gif)](https://rss.packetstormsecurity.com/news/)  
+
+[Life Imitates xkcd Comic As Florida Gang Beats Crypto Password From Retiree](https://packetstormsecurity.com/news/view/36372/Life-Imitates-xkcd-Comic-As-Florida-Gang-Beats-Crypto-Password-From-Retiree.html)
+
+Posted [Sep 20, 2024](https://packetstormsecurity.com/news/date/2024-09-20/ "15:20:23 UTC")
+
+tags | [headline](https://packetstormsecurity.com/news/tags/headline), [cybercrime](https://packetstormsecurity.com/news/tags/cybercrime), [data loss](https://packetstormsecurity.com/news/tags/data_loss), [cryptography](https://packetstormsecurity.com/news/tags/cryptography)
+
+[Favorite](https://packetstormsecurity.com/news/favorite/36372/) | [View](https://arstechnica.com/security/2024/09/forget-hacking-this-gang-just-beat-people-to-steal-their-crypto/)
+
+[1 In 10 Orgs Dumping Their Security Vendors After CrowdStrike Outage](https://packetstormsecurity.com/news/view/36371/1-In-10-Orgs-Dumping-Their-Security-Vendors-After-CrowdStrike-Outage.html)
+
+Posted [Sep 20, 2024](https://packetstormsecurity.com/news/date/2024-09-20/ "15:20:22 UTC")
+
+tags | [headline](https://packetstormsecurity.com/news/tags/headline), [denial of service](https://packetstormsecurity.com/news/tags/denial_of_service)
+
+[Favorite](https://packetstormsecurity.com/news/favorite/36371/) | [View](https://www.theregister.com/2024/09/19/german_crowdstrike_reaction/)
+
+[Cyber Crooks Strut Away With Haute Couture Harvey Nichols Data](https://packetstormsecurity.com/news/view/36370/Cyber-Crooks-Strut-Away-With-Haute-Couture-Harvey-Nichols-Data.html)
+
+Posted [Sep 20, 2024](https://packetstormsecurity.com/news/date/2024-09-20/ "15:20:19 UTC")
+
+tags | [headline](https://packetstormsecurity.com/news/tags/headline), [hacker](https://packetstormsecurity.com/news/tags/hacker), [privacy](https://packetstormsecurity.com/news/tags/privacy), [britain](https://packetstormsecurity.com/news/tags/britain), [cybercrime](https://packetstormsecurity.com/news/tags/cybercrime), [data loss](https://packetstormsecurity.com/news/tags/data_loss), [fraud](https://packetstormsecurity.com/news/tags/fraud)
+
+[Favorite](https://packetstormsecurity.com/news/favorite/36370/) | [View](https://www.theregister.com/2024/09/20/highstreet_swank_dealer_harvey_nichols/)
+
+[Noise Storms: Massive Amounts Of Spoofed Web Traffic Linked To China](https://packetstormsecurity.com/news/view/36369/Noise-Storms-Massive-Amounts-Of-Spoofed-Web-Traffic-Linked-To-China.html)
+
+Posted [Sep 20, 2024](https://packetstormsecurity.com/news/date/2024-09-20/ "15:20:17 UTC")
+
+tags | [headline](https://packetstormsecurity.com/news/tags/headline), [china](https://packetstormsecurity.com/news/tags/china)
+
+[Favorite](https://packetstormsecurity.com/news/favorite/36369/) | [View](https://www.securityweek.com/noise-storms-massive-amounts-of-spoofed-web-traffic-linked-to-china/)
+
+[Tor Network Denies Report That Anonymity Is Completely Canceled](https://packetstormsecurity.com/news/view/36368/Tor-Network-Denies-Report-That-Anonymity-Is-Completely-Canceled.html)
+
+Posted [Sep 20, 2024](https://packetstormsecurity.com/news/date/2024-09-20/ "15:20:15 UTC")
+
+tags | [headline](https://packetstormsecurity.com/news/tags/headline), [government](https://packetstormsecurity.com/news/tags/government), [privacy](https://packetstormsecurity.com/news/tags/privacy), [cryptography](https://packetstormsecurity.com/news/tags/cryptography)
+
+[Favorite](https://packetstormsecurity.com/news/favorite/36368/) | [View](https://gizmodo.com/tor-network-denies-report-that-anonymity-is-completely-canceled-2000501042)
+
+[Marko Polo Hackers Found To Be Running Dozens Of Scams](https://packetstormsecurity.com/news/view/36367/Marko-Polo-Hackers-Found-To-Be-Running-Dozens-Of-Scams.html)
+
+Posted [Sep 20, 2024](https://packetstormsecurity.com/news/date/2024-09-20/ "15:20:12 UTC")
+
+tags | [headline](https://packetstormsecurity.com/news/tags/headline), [hacker](https://packetstormsecurity.com/news/tags/hacker), [cybercrime](https://packetstormsecurity.com/news/tags/cybercrime), [fraud](https://packetstormsecurity.com/news/tags/fraud), [phish](https://packetstormsecurity.com/news/tags/phish), [cryptography](https://packetstormsecurity.com/news/tags/cryptography)
+
+[Favorite](https://packetstormsecurity.com/news/favorite/36367/) | [View](https://www.scmagazine.com/news/marko-polo-hackers-found-to-be-running-dozens-of-scams)
+
+[Re-Opened Three Mile Island Will Power AI Datacenters Under New Deal](https://packetstormsecurity.com/news/view/36365/Re-Opened-Three-Mile-Island-Will-Power-AI-Datacenters-Under-New-Deal.html)
+
+Posted [Sep 20, 2024](https://packetstormsecurity.com/news/date/2024-09-20/ "15:19:38 UTC")
+
+tags | [headline](https://packetstormsecurity.com/news/tags/headline), [microsoft](https://packetstormsecurity.com/news/tags/microsoft), [botnet](https://packetstormsecurity.com/news/tags/botnet)
+
+[Favorite](https://packetstormsecurity.com/news/favorite/36365/) | [View](https://arstechnica.com/ai/2024/09/re-opened-three-mile-island-will-power-ai-data-centers-under-new-deal/)
 
 [Social Media Users Lack Control Over Data Used By AI, US FTC Says](https://packetstormsecurity.com/news/view/36363/Social-Media-Users-Lack-Control-Over-Data-Used-By-AI-US-FTC-Says.html)
 
@@ -92,62 +148,6 @@ Posted [Sep 19, 2024](https://packetstormsecurity.com/news/date/2024-09-19/ "13:
 tags | [headline](https://packetstormsecurity.com/news/tags/headline), [malware](https://packetstormsecurity.com/news/tags/malware), [cybercrime](https://packetstormsecurity.com/news/tags/cybercrime), [flaw](https://packetstormsecurity.com/news/tags/flaw), [cryptography](https://packetstormsecurity.com/news/tags/cryptography)
 
 [Favorite](https://packetstormsecurity.com/news/favorite/36361/) | [View](https://www.securityweek.com/recent-whatsup-gold-vulnerabilities-possibly-exploited-in-ransomware-attacks/)
-
-[14 Dead As Hezbollah Walkie Talkies Explode In Second, Deadlier Attack](https://packetstormsecurity.com/news/view/36360/14-Dead-As-Hezbollah-Walkie-Talkies-Explode-In-Second-Deadlier-Attack.html)
-
-Posted [Sep 19, 2024](https://packetstormsecurity.com/news/date/2024-09-19/ "13:06:34 UTC")
-
-tags | [headline](https://packetstormsecurity.com/news/tags/headline), [cyberwar](https://packetstormsecurity.com/news/tags/cyberwar), [israel](https://packetstormsecurity.com/news/tags/israel), [terror](https://packetstormsecurity.com/news/tags/terror), [backdoor](https://packetstormsecurity.com/news/tags/backdoor)
-
-[Favorite](https://packetstormsecurity.com/news/favorite/36360/) | [View](https://arstechnica.com/security/2024/09/14-dead-as-hezbollah-walkie-talkies-explode-in-second-deadlier-attack/)
-
-[UK Activists Targeted With Pegasus Spyware Ask Police To Charge NSO Group](https://packetstormsecurity.com/news/view/36355/UK-Activists-Targeted-With-Pegasus-Spyware-Ask-Police-To-Charge-NSO-Group.html)
-
-Posted [Sep 19, 2024](https://packetstormsecurity.com/news/date/2024-09-19/ "13:05:55 UTC")
-
-tags | [headline](https://packetstormsecurity.com/news/tags/headline), [government](https://packetstormsecurity.com/news/tags/government), [privacy](https://packetstormsecurity.com/news/tags/privacy), [britain](https://packetstormsecurity.com/news/tags/britain), [israel](https://packetstormsecurity.com/news/tags/israel), [spyware](https://packetstormsecurity.com/news/tags/spyware)
-
-[Favorite](https://packetstormsecurity.com/news/favorite/36355/) | [View](https://www.theregister.com/2024/09/19/pegasus_spyware_met_police_complaint/)
-
-[Pip Dreams And Security Schemes: Chaos In Your Configuration Files](https://packetstormsecurity.com/news/view/36354/Pip-Dreams-And-Security-Schemes-Chaos-In-Your-Configuration-Files.html)
-
-Posted [Sep 18, 2024](https://packetstormsecurity.com/news/date/2024-09-18/ "17:57:13 UTC")
-
-tags | [headline](https://packetstormsecurity.com/news/tags/headline), [backdoor](https://packetstormsecurity.com/news/tags/backdoor)
-
-[Favorite](https://packetstormsecurity.com/news/favorite/36354/) | [View](https://occamsec.com/pip-dreams-and-security-schemes-chaos-in-your-configuration-files/)
-
-[Apple Suddenly Drops NSO Group Spyware Lawsuit](https://packetstormsecurity.com/news/view/36353/Apple-Suddenly-Drops-NSO-Group-Spyware-Lawsuit.html)
-
-Posted [Sep 18, 2024](https://packetstormsecurity.com/news/date/2024-09-18/ "13:22:31 UTC")
-
-tags | [headline](https://packetstormsecurity.com/news/tags/headline), [privacy](https://packetstormsecurity.com/news/tags/privacy), [phone](https://packetstormsecurity.com/news/tags/phone), [flaw](https://packetstormsecurity.com/news/tags/flaw), [israel](https://packetstormsecurity.com/news/tags/israel), [spyware](https://packetstormsecurity.com/news/tags/spyware), [apple](https://packetstormsecurity.com/news/tags/apple)
-
-[Favorite](https://packetstormsecurity.com/news/favorite/36353/) | [View](https://www.securityweek.com/apple-suddenly-drops-nso-group-spyware-lawsuit/)
-
-[11 Dead, Thousands Injured In Explosive Supply Chain Attack On Hezbollah Pagers](https://packetstormsecurity.com/news/view/36352/11-Dead-Thousands-Injured-In-Explosive-Supply-Chain-Attack-On-Hezbollah-Pagers.html)
-
-Posted [Sep 18, 2024](https://packetstormsecurity.com/news/date/2024-09-18/ "13:22:29 UTC")
-
-tags | [headline](https://packetstormsecurity.com/news/tags/headline), [wireless](https://packetstormsecurity.com/news/tags/wireless), [cyberwar](https://packetstormsecurity.com/news/tags/cyberwar), [israel](https://packetstormsecurity.com/news/tags/israel), [terror](https://packetstormsecurity.com/news/tags/terror), [backdoor](https://packetstormsecurity.com/news/tags/backdoor)
-
-[Favorite](https://packetstormsecurity.com/news/favorite/36352/) | [View](https://arstechnica.com/security/2024/09/8-dead-2700-injured-after-simultaneous-pager-explosions-in-lebanon/)
-
-[CloudImposer Attack Targets Google Cloud Services](https://packetstormsecurity.com/news/view/36351/CloudImposer-Attack-Targets-Google-Cloud-Services.html)
-
-Posted [Sep 18, 2024](https://packetstormsecurity.com/news/date/2024-09-18/ "13:22:27 UTC")
-
-tags | [headline](https://packetstormsecurity.com/news/tags/headline), [hacker](https://packetstormsecurity.com/news/tags/hacker), [google](https://packetstormsecurity.com/news/tags/google)
-
-[Favorite](https://packetstormsecurity.com/news/favorite/36351/) | [View](https://www.scmagazine.com/news/cloudimposer-attack-targets-google-cloud-services)
-
-[AT&T Fined $13 Million For Data Breach](https://packetstormsecurity.com/news/view/36350/AT-T-Fined-13-Million-For-Data-Breach.html)
-
-Posted [Sep 18, 2024](https://packetstormsecurity.com/news/date/2024-09-18/ "13:22:23 UTC")
-
-tags | [headline](https://packetstormsecurity.com/news/tags/headline), [privacy](https://packetstormsecurity.com/news/tags/privacy), [phone](https://packetstormsecurity.com/news/tags/phone), [data loss](https://packetstormsecurity.com/news/tags/data_loss)
-
-[Favorite](https://packetstormsecurity.com/news/favorite/36350/) | [View](https://arstechnica.com/tech-policy/2024/09/att-fined-13m-for-data-breach-after-giving-customer-bill-info-to-vendor/)
 
 [View More News →](https://packetstormsecurity.com/news/)
 
@@ -193,4 +193,4 @@ Hosting By
 
 ![close](https://packetstatic.com/img1514015884/o_close.png)
 
-![](https://ssl.google-analytics.com/__utm.gif?utmwv=1.3&utmn=1709210478&utmcs=ISO-8859-1&utmsr=31337x31337&utmsc=32-bit&utmul=en-us&utmje=0&utmfl=-&utmcn=1&utmdt=Terms%20of%20Service%u2248%20Packet%20Storm&utmhn=packetstormsecurity.com&utmr=-&utmp=%2Flegal%2Ftos.html&utmac=UA-18885198-1&utmcc=__utma%3D32867617.1709210478.1726844162.1726844162.1726844162.1%3B%2B__utmz%3D32867617.1726844162.1.1.utmccn%3D(direct)%7Cutmcsr%3D(direct)%7Cutmcmd%3D(none))
+![](https://ssl.google-analytics.com/__utm.gif?utmwv=1.3&utmn=1011520875&utmcs=ISO-8859-1&utmsr=31337x31337&utmsc=32-bit&utmul=en-us&utmje=0&utmfl=-&utmcn=1&utmdt=Terms%20of%20Service%u2248%20Packet%20Storm&utmhn=packetstormsecurity.com&utmr=-&utmp=%2Flegal%2Ftos.html&utmac=UA-18885198-1&utmcc=__utma%3D32867617.1011520875.1726865569.1726865569.1726865569.1%3B%2B__utmz%3D32867617.1726865569.1.1.utmccn%3D(direct)%7Cutmcsr%3D(direct)%7Cutmcmd%3D(none))
