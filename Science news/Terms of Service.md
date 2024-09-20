@@ -91,7 +91,7 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [Vaccines for mpox are finally reaching Africa. But questions about the virus remain](https://www.sciencenews.org/article/mpox-africa-vaccines-outbreak-virus)
             
-            By [Erin Garcia de Jesús](https://www.sciencenews.org/author/erin-garcia-de-jesus "Posts by Erin Garcia de Jesús")6 hours ago
+            By [Erin Garcia de Jesús](https://www.sciencenews.org/author/erin-garcia-de-jesus "Posts by Erin Garcia de Jesús")12 hours ago
             
         * [Anthropology](https://www.sciencenews.org/topic/anthropology)
             
@@ -118,7 +118,7 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [Ants changed the architecture of their nests when exposed to a pathogen](https://www.sciencenews.org/article/ants-change-nest-architecture-pathogen)
             
-            By [Richard Kemeny](https://www.sciencenews.org/author/richard-kemeny "Posts by Richard Kemeny")8 hours ago
+            By [Richard Kemeny](https://www.sciencenews.org/author/richard-kemeny "Posts by Richard Kemeny")15 hours ago
             
         * [Neuroscience](https://www.sciencenews.org/topic/neuroscience)
             
@@ -142,7 +142,7 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [Earth’s ancient ‘greenhouse’ conditions were hotter than thought](https://www.sciencenews.org/article/earth-greenhouse-temperature-timeline)
             
-            By [Carolyn Gramling](https://www.sciencenews.org/author/carolyn-gramling "Posts by Carolyn Gramling")3 hours ago
+            By [Carolyn Gramling](https://www.sciencenews.org/author/carolyn-gramling "Posts by Carolyn Gramling")9 hours ago
             
         * [Climate](https://www.sciencenews.org/topic/climate)
             
