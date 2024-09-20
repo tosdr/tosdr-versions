@@ -468,7 +468,7 @@ We are committed to earning and maintaining trust by honoring the following prin
 GLOBAL PRIVACY POLICY
 =====================
 
-Last Updated : 09/13/2024
+Last Updated : 09/20/2024
 
 [](javascript:void(0))
 
@@ -1290,8 +1290,8 @@ You may also opt out of receiving marketing communications we send to you about 
 
 Read more Read less
 
-Indonesia, Malaysia, Thailand, and Singapore
---------------------------------------------
+Indonesia, Malaysia, Philippines, Thailand, and Singapore
+---------------------------------------------------------
 
 If you reside in Indonesia, Malaysia, Philippines, or Singapore, you may request access to, and modification, opposition, and deletion of the personal information that we have collected about you. If you would like to do so, please contact us at:
 
@@ -1324,6 +1324,24 @@ Contact Email: [\[email protected\]](https://www.kimberly-clark.com/cdn-cgi/l/e
 Website: www.huggies.com.my  
 Website: www.kotex.com.my  
 Website: www.kleenex.com.my
+
+  
+
+**Kleenex® Philippines**  
+Phone: 884-6402, Monday - Friday (9:00 am - 5:00 pm)  
+Email: [\[email protected\]](https://www.kimberly-clark.com/cdn-cgi/l/email-protection)
+
+  
+
+**Huggies® Philippines**  
+Phone: 884-6402, Monday - Friday (9:00 am - 5:00 pm)  
+Email: [\[email protected\]](https://www.kimberly-clark.com/cdn-cgi/l/email-protection)
+
+  
+
+**Kotex® Philippines**  
+Phone: 884-6402, Monday - Friday (9:00 am - 5:00 pm)  
+Email: [\[email protected\]](https://www.kimberly-clark.com/cdn-cgi/l/email-protection)
 
   
 
