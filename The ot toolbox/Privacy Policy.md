@@ -91,8 +91,6 @@ Search  Search
 * [](https://www.theottoolbox.com/cart/)
 * [](https://www.theottoolbox.com/my-account/)
 
-[Email Gold](https://theottoolbox.ck.page/d01b8e28a7)
-
 Privacy Policy
 ==============
 
