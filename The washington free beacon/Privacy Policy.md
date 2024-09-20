@@ -31,15 +31,15 @@ ADVERTISEMENT
     * [Editorials](https://freebeacon.com/author/washington-free-beacon-editors/)
     * [Men of the Year](https://freebeacon.com/men-of-the-year/)
 
+* [![](https://s4.freebeacon.com/up/2024/09/president-biden-delivers-remarks-at-the-economic-club-of-washington-dc-scaled-e1726781871981.jpg)
+    
+    Biden's Long Shadow](https://freebeacon.com/columns/bidens-long-shadow/)
 * [![](https://s3.freebeacon.com/up/2024/09/2024-09-11T022202Z_1_LYNXMPEK8A02D_RTROPTP_4_USA-ELECTION-DEBATE-scaled-e1726155646118.jpg)
     
     No, 2024 Is Not Over Yet](https://freebeacon.com/columns/no-2024-is-not-over-yet/)
 * [![](https://s1.freebeacon.com/up/2024/09/vice-president-and-democratic-presidential-candidate-kamala-harris-cam-2-scaled-e1725569189225.jpg)
     
     The Harris Mystique](https://freebeacon.com/columns/the-harris-mystique/)
-* [![](https://s1.freebeacon.com/up/2024/08/Screenshot-2024-08-29-at-10.30.16 PM_736x514.png)
-    
-    Kamala Harris Comes Out of Hiding](https://freebeacon.com/columns/kamala-harris-comes-out-of-hiding/)
 
  Search
 
