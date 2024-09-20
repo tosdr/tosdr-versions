@@ -129,7 +129,7 @@ Toggle menu
     [AI Figma pluginGenerate your own unique AI images directly in Figma](https://www.figma.com/community/plugin/1253173167259963280/ai-image-generator-by-freepik)
     
 
-* [Pricing](https://www.freepikcompany.com/pricing)
+* [Pricing](https://www.freepikcompany.com/pricing?origin=freepik_web)
 
 Menu
 
