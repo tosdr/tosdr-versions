@@ -27,9 +27,9 @@
         * [Guides](https://illumin.com/insights/guides/)
         * [Events](https://illumin.com/insights/events/)
         * [Podcasts & Webinars](https://illumin.com/insights/podcasts-webinars/)
-    * ![Fubo launches its new CTV advertising format](https://illumin.com/wp-content/uploads/2024/09/Fubo-CTV-ad-1-263x300.png)
+    * ![Programmatic Advertising: The Ultimate Guide](https://illumin.com/wp-content/uploads/2023/02/Guide-Programmatic-1-263x300.jpg)
         
-        Fubo launches its new CTV advertising format[Read More](https://illumin.com/insights/blog/fubo-sports-ctv-advertising/)
+        Programmatic Advertising: The Ultimate GuideThis guide to programmatic advertising explains how the ad platform works and the best practices for using the format.[Read More](https://illumin.com/insights/guides/guide-programmatic-advertising/)
         
 * [Company](#)
     * [Company](#)
