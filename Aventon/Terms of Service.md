@@ -12,7 +12,7 @@ SUPPORT
 
 Send us a message
 
-Have a question about something not found in our support links? Mon-Fri 1pm-4:30pm PST
+Have a question about something not found in our support links? Mon-Fri 9am-4:30pm PST
 
 [Send us a message](https://rideaventon.zendesk.com/hc/en-us/requests/new)[(866) 300-3311](tel:8663003311)
 
@@ -305,7 +305,7 @@ YOUR OFFERS
     
     Send us a message
     
-    Have a question about something not found in our support links? Mon-Fri 1pm-4:30pm PST
+    Have a question about something not found in our support links? Mon-Fri 9am-4:30pm PST
     
     [Send us a message](https://rideaventon.zendesk.com/hc/en-us/requests/new)
     
@@ -315,7 +315,7 @@ YOUR OFFERS
 
 Send us a message
 
-Have a question about something not found in our support links? Mon-Fri 1pm-4:30pm PST
+Have a question about something not found in our support links? Mon-Fri 9am-4:30pm PST
 
 [Send us a message](https://rideaventon.zendesk.com/hc/en-us/requests/new)
 
@@ -509,7 +509,7 @@ Open menu
     
     Send us a message
     
-    Have a question about something not found in our support links? Mon-Fri 1pm-4:30pm PST
+    Have a question about something not found in our support links? Mon-Fri 9am-4:30pm PST
     
     [Send us a message](https://rideaventon.zendesk.com/hc/en-us/requests/new)
     
