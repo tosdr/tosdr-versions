@@ -26,41 +26,41 @@ Search for:
 
 ### [TOP STORIES](https://www.commdiginews.com/category/top-stories/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-trump-burger-1200x630.jpg)](https://americanwirenews.com/what-a-dude-trump-passes-out-burgers-and-makes-casual-history-in-nyc-bar/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-kamalafarmington-1200-x-628-1200x630.jpg)](https://americanwirenews.com/kamala-now-pro-gun-tells-oprah-if-someone-breaks-into-her-house-theyre-getting-shot/)
 
-[‘What a dude!’ Trump passes out burgers and makes casual history in NYC bar](https://americanwirenews.com/what-a-dude-trump-passes-out-burgers-and-makes-casual-history-in-nyc-bar/)
+[Kamala now pro-gun, tells Oprah if someone breaks into her house, ‘they’re getting shot’](https://americanwirenews.com/kamala-now-pro-gun-tells-oprah-if-someone-breaks-into-her-house-theyre-getting-shot/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-harris-combs-1200x630.jpg)](https://americanwirenews.com/well-what-do-we-have-here-harris-tweet-thanking-diddy-comes-back-to-bite/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/06/sg-trump-swift-1200x630.png)](https://americanwirenews.com/taylor-swifts-favorability-rating-is-lower-than-trumps-ny-times-reports/)
 
-[‘Well what do we have here…’ Harris tweet thanking Diddy comes back to bite](https://americanwirenews.com/well-what-do-we-have-here-harris-tweet-thanking-diddy-comes-back-to-bite/)
+[Taylor Swift’s favorability rating is lower than Trump’s, NY Times reports](https://americanwirenews.com/taylor-swifts-favorability-rating-is-lower-than-trumps-ny-times-reports/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-c-span-vote-1200x630.jpg)](https://americanwirenews.com/158-dems-vote-no-on-bill-to-deport-illegals-who-commit-violent-acts-against-women-and-children/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-ksp-gi-judge-split-1200-x-628-1200x630.jpg)](https://americanwirenews.com/kentucky-judge-shot-and-killed-by-sheriff-in-his-chambers/)
 
-[158 Dems vote NO on bill to deport illegals who commit violent acts against women and children](https://americanwirenews.com/158-dems-vote-no-on-bill-to-deport-illegals-who-commit-violent-acts-against-women-and-children/)
+[Kentucky judge shot and killed by sheriff in his chambers](https://americanwirenews.com/kentucky-judge-shot-and-killed-by-sheriff-in-his-chambers/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/08/sg-harris-dnc-1200x630.jpg)](https://americanwirenews.com/disgusted-harris-asks-americans-to-imagine-what-mass-deportations-would-look-like-x-users-oblige/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-kamala-and-oprah-1200x630.jpg)](https://americanwirenews.com/oprahs-face-while-kamala-spewed-her-most-epic-word-salad-is-priceless/)
 
-[Disgusted Harris asks Americans to ‘imagine’ what mass deportations would look like. X users oblige…](https://americanwirenews.com/disgusted-harris-asks-americans-to-imagine-what-mass-deportations-would-look-like-x-users-oblige/)
+[Oprah’s face while Kamala spewed her most EPIC word salad is priceless](https://americanwirenews.com/oprahs-face-while-kamala-spewed-her-most-epic-word-salad-is-priceless/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-mahomes-hostin-1200x630.jpg)](https://americanwirenews.com/race-baiting-witches-sunny-hostin-goes-low-with-despicable-smear-against-brittany-mahomes/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/08/sg-trump-rally-1200x630.jpg)](https://americanwirenews.com/matt-gaetz-says-there-are-multiple-assassination-teams-out-to-kill-trump/)
 
-[‘Race baiting witches!’ Sunny Hostin goes LOW with despicable smear against Brittany Mahomes](https://americanwirenews.com/race-baiting-witches-sunny-hostin-goes-low-with-despicable-smear-against-brittany-mahomes/)
+[Matt Gaetz says there are multiple ‘assassination teams’ out to kill Trump](https://americanwirenews.com/matt-gaetz-says-there-are-multiple-assassination-teams-out-to-kill-trump/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-varney-oleray-1200x630.jpg)](https://americanwirenews.com/kevin-oleary-uneasy-about-inside-info-he-gets-from-kamala-advisers-im-not-happy/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-kamala-harris-2-470x260_1200_x_628-1200x630.jpg)](https://americanwirenews.com/fmr-nfl-head-coach-confronts-kamala-over-faith-supporting-abortions/)
 
-[Kevin O’Leary uneasy about inside info he gets from Kamala advisers: ‘I’m not happy’](https://americanwirenews.com/kevin-oleary-uneasy-about-inside-info-he-gets-from-kamala-advisers-im-not-happy/)
+[Fmr. NFL head coach confronts Kamala over faith supporting abortions](https://americanwirenews.com/fmr-nfl-head-coach-confronts-kamala-over-faith-supporting-abortions/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-trump-union-1200x630.jpg)](https://americanwirenews.com/steamfitters-for-trump-former-president-takes-sledgehammer-to-reliable-dem-voting-bloc/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-newsom-musk-1200x630.jpg)](https://americanwirenews.com/newsom-so-triggered-by-musk-sharing-meme-that-hes-not-ruling-out-legal-action/)
 
-[Steamfitters for Trump! Former president takes sledgehammer to reliable Dem voting bloc](https://americanwirenews.com/steamfitters-for-trump-former-president-takes-sledgehammer-to-reliable-dem-voting-bloc/)
+[Newsom so triggered by Musk sharing meme that he’s not ruling out legal action](https://americanwirenews.com/newsom-so-triggered-by-musk-sharing-meme-that-hes-not-ruling-out-legal-action/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-daniel-penny-2-1200x630.jpg)](https://americanwirenews.com/daniel-pennys-atty-questions-governments-motives-when-prosecutors-try-to-block-incriminating-testimony-report/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-trump-israel-1200x630.jpg)](https://americanwirenews.com/trump-implores-jewish-voters-to-turn-out-for-him-break-the-curse-of-the-democratic-party/)
 
-[Daniel Penny’s atty questions ‘government’s motives’ when prosecutors try to block incriminating testimony: report](https://americanwirenews.com/daniel-pennys-atty-questions-governments-motives-when-prosecutors-try-to-block-incriminating-testimony-report/)
+[Trump implores Jewish voters to turn out for him, break the curse of the Democratic Party](https://americanwirenews.com/trump-implores-jewish-voters-to-turn-out-for-him-break-the-curse-of-the-democratic-party/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/07/sg-kamala-harris-4-1200x630.jpg)
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-danasean-1200-x-628-1200x630.jpg)
 
-### How is this not disqualifying? Kamala says police can ‘walk into’ locked homes of legal gun owners in unearthed clip](https://americanwirenews.com/how-is-this-not-disqualifying-kamala-says-police-can-walk-into-locked-homes-of-legal-gun-owners-in-unearthed-clip/)
+### Teamsters boss smacks down AOC’s whining after union snubs Kamala, Dana Bash not happy](https://americanwirenews.com/teamsters-boss-smacks-down-aocs-whining-after-union-snubs-kamala-dana-bash-not-happy/)
 
 [THE WIRE...](https://americanwirenews.com/category/the-wire/)
 
@@ -77,6 +77,36 @@ Search for:
 ### [Kamala admits food inflation is out of control, but insists she’ll turn the page, mockery ensues](https://americanwirenews.com/kamala-admits-food-inflation-is-out-of-control-but-insists-shell-turn-the-page-mockery-ensues/)
 
 ### [LATEST](https://www.commdiginews.com/category/latest/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/rg-getty-lights-out-220x180.jpg)](https://americanwirenews.com/entire-us-state-advises-residents-to-turn-off-lights-due-to-high-ozone-pollution/)
+
+[Entire US state advises residents to turn off lights due to high ozone pollution](https://americanwirenews.com/entire-us-state-advises-residents-to-turn-off-lights-due-to-high-ozone-pollution/)
+
+RF Getty Lights Out
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-kudlow-220x180.jpg)](https://americanwirenews.com/kudlow-states-the-obvious-the-fed-gave-an-election-gift-to-kamala/)
+
+[Kudlow states the obvious, the Fed gave an ‘election gift’ to Kamala](https://americanwirenews.com/kudlow-states-the-obvious-the-fed-gave-an-election-gift-to-kamala/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/03/sg-rfk-jr-220x180.jpg)](https://americanwirenews.com/rfk-jr-accused-of-having-an-affair-with-reporter-but-rumors-need-to-be-sorted-from-facts/)
+
+[RFK Jr accused of having an affair with reporter, but rumors need to be sorted from facts](https://americanwirenews.com/rfk-jr-accused-of-having-an-affair-with-reporter-but-rumors-need-to-be-sorted-from-facts/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/rf-pexels-passport-220x180.jpg)](https://americanwirenews.com/how-you-renew-your-passport-is-changing-heres-what-to-know/)
+
+[How you renew your passport is changing. Here’s what to know…](https://americanwirenews.com/how-you-renew-your-passport-is-changing-heres-what-to-know/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-ladfy-gaga-dad-220x180.png)](https://americanwirenews.com/leftist-pop-divas-dad-endorses-patriot-trump/)
+
+[Leftist pop diva’s dad endorses ‘patriot’ Trump](https://americanwirenews.com/leftist-pop-divas-dad-endorses-patriot-trump/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/credit-card-851506_1280-1-220x180.jpg)](https://americanwirenews.com/trumps-latest-idea-to-cap-credit-card-interest-rates-helps-americans-banking-groups-not-happy/)
+
+[Trump’s latest idea to cap credit card interest rates helps Americans, banking groups not happy](https://americanwirenews.com/trumps-latest-idea-to-cap-credit-card-interest-rates-helps-americans-banking-groups-not-happy/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-diddy-gi-epstein-split-1200-x-628-220x180.jpg)](https://americanwirenews.com/epsteined-trends-as-diddy-is-put-on-suicide-watch/)
+
+[‘Epsteined’ trends as Diddy is put on suicide watch](https://americanwirenews.com/epsteined-trends-as-diddy-is-put-on-suicide-watch/)
 
 [![](https://americanwirenews.com/wp-content/uploads/2024/09/rf-pexels-port-220x180.jpg)](https://americanwirenews.com/looming-port-strike-could-be-biggest-wild-card-in-presidential-election-and-hardly-anyones-talking-about-it/)
 
@@ -145,36 +175,6 @@ Search for:
 [![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-dncaoc1-1200-x-628-220x180.jpg)](https://americanwirenews.com/aoc-explodes-over-pager-operation-against-hezbollah-terrorists/)
 
 [AOC explodes over pager operation against Hezbollah terrorists](https://americanwirenews.com/aoc-explodes-over-pager-operation-against-hezbollah-terrorists/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-trump-rally-long-island-220x180.jpg)](https://americanwirenews.com/cops-release-statement-after-false-reports-of-a-bomb-found-outside-trump-rally/)
-
-[Cops release statement after false reports of a bomb found outside Trump rally](https://americanwirenews.com/cops-release-statement-after-false-reports-of-a-bomb-found-outside-trump-rally/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-rowe-butler-220x180.jpg)](https://americanwirenews.com/secret-service-reportedly-said-theyd-take-care-of-would-be-trump-assassins-perch/)
-
-[Secret Service reportedly said they’d ‘take care of’ would-be Trump assassin’s perch](https://americanwirenews.com/secret-service-reportedly-said-theyd-take-care-of-would-be-trump-assassins-perch/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/08/sg-harris-trump-1-220x180.jpg)](https://americanwirenews.com/harris-called-trump-after-second-failed-assassination-attempt-heres-what-she-said/)
-
-[Harris called Trump after second failed assassination attempt. Here’s what she said…](https://americanwirenews.com/harris-called-trump-after-second-failed-assassination-attempt-heres-what-she-said/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-college-students-gen-z-class-220x180.jpg)](https://americanwirenews.com/survey-companies-dont-want-to-hire-gen-z-say-theyre-not-prepared-for-the-workplace/)
-
-[Survey: Companies don’t want to hire Gen Z, say they’re not prepared for the workplace](https://americanwirenews.com/survey-companies-dont-want-to-hire-gen-z-say-theyre-not-prepared-for-the-workplace/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/getty-baruch-protest-220x180.jpg)](https://americanwirenews.com/cunys-baruch-college-slammed-for-trying-to-block-jewish-festival-its-appalling-its-insane/)
-
-[CUNY’s Baruch College slammed for trying to block Jewish festival: ‘It’s appalling. It’s insane’](https://americanwirenews.com/cunys-baruch-college-slammed-for-trying-to-block-jewish-festival-its-appalling-its-insane/)
-
-(Photo by Michael M. Santiago/Getty Images)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-musk-220x180.jpg)](https://americanwirenews.com/elon-musk-recounts-snl-appearance-rejection-of-his-skit-idea-to-pull-baby-rooster-from-his-pants/)
-
-[Elon Musk recounts SNL appearance, rejection of his skit idea to pull ‘baby rooster’ from his pants](https://americanwirenews.com/elon-musk-recounts-snl-appearance-rejection-of-his-skit-idea-to-pull-baby-rooster-from-his-pants/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-portnoy-allin-220x180.jpg)](https://americanwirenews.com/far-worse-than-anything-trump-has-done-portnoy-calls-out-left-for-abandoning-democracy/)
-
-[‘Far worse than anything Trump has done’: Portnoy calls out left for ‘abandoning democracy’](https://americanwirenews.com/far-worse-than-anything-trump-has-done-portnoy-calls-out-left-for-abandoning-democracy/)
 
 Start today! **Enjoy the REAL news** at your fingertips. You could be getting the best stories in your inbox twice a day.
 
