@@ -64,7 +64,7 @@ Vous avez désactivé JavaScript dans votre navigateur. Veuillez activer JavaScr
 Recherche de succursale
 -----------------------
 
-![Direction de la succursale](/medien/id/marketing/filialleiter/.jpg)
+![Direction de la succursale](/medien/id/marketing/filialleiter/9651.jpg)
 
 Nous vous conseillons volontiers.
 
@@ -74,13 +74,9 @@ Visitez l'une de nos quelques environ
 
 [Filiales](https://www.microspot.ch/fr/storefinder)
 
-[![iPhone 16 Pro](/_next/image?url=https%3A%2F%2Fwww.interdiscount.ch%2Fmedias%2F860x484-i24-iPhone16-Pro-Banner-fr-Vorbestellen.jpg%3Fcontext%3DbWFzdGVyfGNtc3wyNTkxNHxpbWFnZS9qcGVnfGFERXhMMmd5Wmk4NE5qQjRORGcwWDJreU5GOXBVR2h2Ym1VeE5sOVFjbTlmUW1GdWJtVnlYMlp5WDFadmNtSmxjM1JsYkd4bGJuWXlMbXB3WjFOMFlXZGxaRzl3ZEdsdGFYcGxaQzg0TmpCNE5EZzBYMmt5TkY5cFVHaHZibVV4Tmw5UWNtOWZRbUZ1Ym1WeVgyWnlYMVp2Y21KbGMzUmxiR3hsYm5ZeUxtcHdaMU4wWVdkbFpHOXdkR2x0YVhwbFpBfDNlMDI3MTE0N2E4ZGMxNmMwOTBkY2I2Mjk0YzcwZGY3MjA3YTE0M2JiMGM1YzAwMzUzMTIwMWU5MzVmZjM1NTA&w=2360&q=75)
+[![](/_next/image?url=https%3A%2F%2Fwww.interdiscount.ch%2Fmedias%2F860x484-I24-ID-Weekend-Deals-KW38-.jpg%3Fcontext%3DbWFzdGVyfGNtc3w1ODQ5OXxpbWFnZS9qcGVnfGFETTVMMmcxTkM4NE5qQjRORGcwWDBreU5GOUpSRjlYWldWclpXNWtYMFJsWVd4elgwdFhNemhmTG1wd1oxTjBZV2RsWkc5d2RHbHRhWHBsWkM4NE5qQjRORGcwWDBreU5GOUpSRjlYWldWclpXNWtYMFJsWVd4elgwdFhNemhmTG1wd1oxTjBZV2RsWkc5d2RHbHRhWHBsWkF8Y2E0YWI0NzdjMzdiNTdkYmM0N2I0ZTk5ZmEwMTNiZjRkMTFlMjEyMzdlYjc0NDlhYmI1NDNiMGJkZDc0ZWUxNg&w=2360&q=75)
 
-NEWPrécommander l'iPhone 16 Pro maintenant!](https://www.microspot.ch/fr/cms/iphone-16-pro)
-
-[![](/_next/image?url=https%3A%2F%2Fwww.interdiscount.ch%2Fmedias%2F860x484-I24-0580-CM1-Promos-KW366.jpg%3Fcontext%3DbWFzdGVyfGNtc3wxOTgzNzd8aW1hZ2UvanBlZ3xhRGd4TDJnM01DODROakI0TkRnMFgwa3lORjh3TlRnd1gwTk5NVjlRY205dGIzTmZTMWN6TmpZdWFuQm5VM1JoWjJWa2IzQjBhVzFwZW1Wa0x6ZzJNSGcwT0RSZlNUSTBYekExT0RCZlEwMHhYMUJ5YjIxdmMxOUxWek0yTmk1cWNHZFRkR0ZuWldSdmNIUnBiV2w2WldRfGRhMzhhZDJiYmU0NTMwYzY4YmQ4Njk3MGJhNjU0ODM5ZGU4NjVkNjIyMzkxNzE1MWY4YTA5NTRkMmMwYWFjYzU&w=2360&q=75)
-
-12% de rabais sur les produits de SONY](https://www.microspot.ch/fr/cms/actions-sony)
+20%de rabais sur une sélection de produits PHILIPS](https://www.microspot.ch/fr/cms/id-weekend-deal)
 
 [![](/_next/image?url=https%3A%2F%2Fwww.interdiscount.ch%2Fmedias%2F860x484-I24-0597-CM2-PROMO-Instax-Mini-Lenovo-KW36-382-1-.jpg%3Fcontext%3DbWFzdGVyfGNtc3w3Nzg1NnxpbWFnZS9qcGVnfGFEZGtMMmd4TlM4NE5qQjRORGcwWDBreU5GOHdOVGszWDBOTk1sOVFVazlOVDE5SmJuTjBZWGhmVFdsdWFWOU1aVzV2ZG05ZlMxY3pObDh6T0RJZ2N5Z3hLUzVxY0dkVGRHRm5aV1J2Y0hScGJXbDZaV1F2T0RZd2VEUTRORjlKTWpSZk1EVTVOMTlEVFRKZlVGSlBUVTlmU1c1emRHRjRYMDFwYm1sZlRHVnViM1p2WDB0WE16WmZNemd5SUhNb01Ta3VhbkJuVTNSaFoyVmtiM0IwYVcxcGVtVmt8ZjUzNmFjMGFiMmU5YzJkYWMzY2E3OWFkZWMxNzBhZGFjNjEyZTE0YTY1YmY4YmVkMmM2N2Y1MTFmYmI2Mjc4OA&w=2360&q=75)
 
@@ -94,9 +90,9 @@ ACTIONsur LEGO](https://www.microspot.ch/fr/brand/lego)
 
 20%de rabais sur les produits ACER](https://www.microspot.ch/fr/brand/acer)
 
-[![APPLE](/_next/image?url=https%3A%2F%2Fwww.interdiscount.ch%2Fmedias%2F860x484-I24-0604-CM2-Promos-KW363.jpg%3Fcontext%3DbWFzdGVyfGNtc3w4ODYxMnxpbWFnZS9qcGVnfGFEZGpMMmd4T0M4NE5qQjRORGcwWDBreU5GOHdOakEwWDBOTk1sOVFjbTl0YjNOZlMxY3pOak11YW5CblUzUmhaMlZrYjNCMGFXMXBlbVZrTHpnMk1IZzBPRFJmU1RJMFh6QTJNRFJmUTAweVgxQnliMjF2YzE5TFZ6TTJNeTVxY0dkVGRHRm5aV1J2Y0hScGJXbDZaV1F8NmQzYzI2NWY2NmIyYmFmNzRkODM5ZmM3ZTI0Y2IyMDA1ZTRiZWQyMTU3MWFhN2IwMGE2MmRkNDMzYWVjMDczNw&w=2360&q=75)
+[![](/_next/image?url=https%3A%2F%2Fwww.interdiscount.ch%2Fmedias%2F860x484-I24-0580-CM1-Promos-KW366.jpg%3Fcontext%3DbWFzdGVyfGNtc3wxOTgzNzd8aW1hZ2UvanBlZ3xhRGd4TDJnM01DODROakI0TkRnMFgwa3lORjh3TlRnd1gwTk5NVjlRY205dGIzTmZTMWN6TmpZdWFuQm5VM1JoWjJWa2IzQjBhVzFwZW1Wa0x6ZzJNSGcwT0RSZlNUSTBYekExT0RCZlEwMHhYMUJ5YjIxdmMxOUxWek0yTmk1cWNHZFRkR0ZuWldSdmNIUnBiV2w2WldRfGRhMzhhZDJiYmU0NTMwYzY4YmQ4Njk3MGJhNjU0ODM5ZGU4NjVkNjIyMzkxNzE1MWY4YTA5NTRkMmMwYWFjYzU&w=2360&q=75)
 
-10%de rabais sur une sélection de MacBook & iMac](https://www.microspot.ch/fr/cms/apple-cto-individuell)
+12% de rabais sur les produits de SONY](https://www.microspot.ch/fr/cms/actions-sony)
 
 Autres actions ici
 
@@ -207,9 +203,9 @@ Inscrivez-vous à notre newsletter et soyez parmi les premiers à être informé
 Achetez comme vous aimez
 ------------------------
 
-[Retrait gratuit
+[Garantie Plus
 
-dans tous les magasins](https://helpcenter.interdiscount.ch/s/?c__cun=Delivery_Collection&c__cl=Lieferung%20%26%20Abholung&language=fr)
+prolongation de 24 mois de la garantie du fabricant](https://www.microspot.ch/fr/cms/service/garantie-plus)
 
 [Commandé aujourd'hui avant 20h
 
