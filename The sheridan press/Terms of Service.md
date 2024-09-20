@@ -66,7 +66,7 @@ Home
 Public Notices
 
 * [View Notices](https://thesheridanpress.column.us/search)
-* [Place a Notice](https://www.thesheridanpress.com/notices/)
+* [Place a Notice](https://thesheridanpress.column.us/place)
 * [Statewide Notices](https://www.thesheridanpress.com/notices/statewide_notices/)
 
 [Booking](https://www.thesheridanpress.com/booking/)
@@ -178,7 +178,7 @@ Toggle navigation
         * [Personals](https://www.thesheridanpress.com/classifieds/personals)
 * Public Notices
     * [View Notices](https://thesheridanpress.column.us/search)
-    * [Place a Notice](https://www.thesheridanpress.com/notices/)
+    * [Place a Notice](https://thesheridanpress.column.us/place)
     * [Statewide Notices](https://www.thesheridanpress.com/notices/statewide_notices/)
 * [Booking](https://www.thesheridanpress.com/booking/)
 
