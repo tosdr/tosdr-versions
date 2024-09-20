@@ -92,17 +92,17 @@ Behind the news are values that drive people and nations. Explore them here.
 
 Recent Stories
 
+[Cooperation
+
+### Chivalry in sports](https://www.csmonitor.com/Commentary/the-monitors-view/2024/0920/Chivalry-in-sports "Chivalry in sports")
+
+[Prosperity
+
+### What a Tunisian exodus says about the future of global migration](https://www.csmonitor.com/World/Middle-East/2024/0920/climate-migration-inequality-Tunisia "What a Tunisian exodus says about the future of global migration")
+
 [Safety
 
-### Why Putin’s nuclear saber-rattling on Ukraine sounds different this time](https://www.csmonitor.com/World/Europe/2024/0919/putin-ukraine-war-russia-nuclear-war-ww3 "Why Putin’s nuclear saber-rattling on Ukraine sounds different this time")
-
-[Safety
-
-### The rumors targeted Haitians. All of Springfield is paying the price.](https://www.csmonitor.com/USA/Education/2024/0919/springfield-ohio-schools-haitian-immigrants-rumors "The rumors targeted Haitians. All of Springfield is paying the price.")
-
-[Humility
-
-### Humble pivots to a political center](https://www.csmonitor.com/Commentary/the-monitors-view/2024/0919/Humble-pivots-to-a-political-center "Humble pivots to a political center")
+### Smartphones at school: Inside a not-so-simple debate](https://www.csmonitor.com/Podcasts/Why-We-Wrote-This/wwwt_2432 "Smartphones at school: Inside a not-so-simple debate")
 
 [See all News & Values stories](https://www.csmonitor.com/values)
 
@@ -158,11 +158,11 @@ Regions
 
 Recent Stories
 
+[### What a Tunisian exodus says about the future of global migration](https://www.csmonitor.com/World/Middle-East/2024/0920/climate-migration-inequality-Tunisia "What a Tunisian exodus says about the future of global migration")
+
+[### Why Shohei Ohtani may have just passed Babe Ruth as the greatest baseball player ever](https://www.csmonitor.com/USA/2024/0920/shohei-ohtani-50-50-LA-dodgers-record "Why Shohei Ohtani may have just passed Babe Ruth as the greatest baseball player ever")
+
 [### Why Putin’s nuclear saber-rattling on Ukraine sounds different this time](https://www.csmonitor.com/World/Europe/2024/0919/putin-ukraine-war-russia-nuclear-war-ww3 "Why Putin’s nuclear saber-rattling on Ukraine sounds different this time")
-
-[### Pressed by far right, European governments raise barriers to migrants](https://www.csmonitor.com/World/Europe/2024/0919/immigration-europe-tougher-treatment "Pressed by far right, European governments raise barriers to migrants")
-
-[### She’s chubby, wet, and fierce. Meet Moo Deng, a baby hippo and internet darling.](https://www.csmonitor.com/World/Asia-South-Central/2024/0919/moo-deng-pygmy-baby-hippo-thailand "She’s chubby, wet, and fierce. Meet Moo Deng, a baby hippo and internet darling.")
 
 * * *
 
