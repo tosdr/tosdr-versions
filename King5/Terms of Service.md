@@ -30,13 +30,14 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/e22a0616-d934-4c1d-be71-bdecef33f4a5/20240920T053137/e22a0616-d934-4c1d-be71-bdecef33f4a5_16x9.jpg) ![](https://media.king5.com/assets/KING/images/e22a0616-d934-4c1d-be71-bdecef33f4a5/20240920T053137/e22a0616-d934-4c1d-be71-bdecef33f4a5_360x203.jpg)](https://www.king5.com/article/money/west-seattle-neighbors-questioning-everything-light-rail-price-ticks-up-by-2-billion/281-3176a017-5291-4b7c-81b1-9726b3c00099)
+    *  [![](https://media.king5.com/assets/KING/images/9d002078-b7f5-4675-8218-dbe2f8a56255/20240502T012235/9d002078-b7f5-4675-8218-dbe2f8a56255_16x9.jpg) ![](https://media.king5.com/assets/KING/images/9d002078-b7f5-4675-8218-dbe2f8a56255/20240502T012235/9d002078-b7f5-4675-8218-dbe2f8a56255_360x203.jpg)](https://www.king5.com/article/news/local/seattle/climate-pledge-arena-hidden-fee-penalty-washington-state/281-b1473623-543b-423e-815e-b8fbf8fec9d9)
         
-        #### [West Seattle neighbors say $2 billion increase for light rail extension is 'astronomical'](https://www.king5.com/article/money/west-seattle-neighbors-questioning-everything-light-rail-price-ticks-up-by-2-billion/281-3176a017-5291-4b7c-81b1-9726b3c00099)
+        #### [Climate Pledge Arena to pay $477k penalty over charging customers a hidden fee](https://www.king5.com/article/news/local/seattle/climate-pledge-arena-hidden-fee-penalty-washington-state/281-b1473623-543b-423e-815e-b8fbf8fec9d9) [![](https://media.king5.com/assets/KING/images/9d002078-b7f5-4675-8218-dbe2f8a56255/20240502T012235/9d002078-b7f5-4675-8218-dbe2f8a56255_16x9.jpg) ![](https://media.king5.com/assets/KING/images/9d002078-b7f5-4675-8218-dbe2f8a56255/20240502T012235/9d002078-b7f5-4675-8218-dbe2f8a56255_360x203.jpg)](https://www.king5.com/article/news/local/seattle/climate-pledge-arena-hidden-fee-penalty-washington-state/281-b1473623-543b-423e-815e-b8fbf8fec9d9)
         
-    *  [![](https://media.king5.com/assets/KING/images/a1f70337-f034-4f98-9c8e-70925cb46e20/20240920T041850/a1f70337-f034-4f98-9c8e-70925cb46e20_16x9.jpg) ![](https://media.king5.com/assets/KING/images/a1f70337-f034-4f98-9c8e-70925cb46e20/20240920T041850/a1f70337-f034-4f98-9c8e-70925cb46e20_360x203.jpg)](https://www.king5.com/article/news/local/small-businesses-near-boeing-plant-renton-economic-crunch-during-strike/281-8de1497f-1a02-4be5-844c-5d97c42ae6b7)
+        #### [Climate Pledge Arena charged thousands of customers this hidden fee. Now they'll pay a $477k penalty](https://www.king5.com/article/news/local/seattle/climate-pledge-arena-hidden-fee-penalty-washington-state/281-b1473623-543b-423e-815e-b8fbf8fec9d9)
+    *  [![](https://media.king5.com/assets/KING/images/25f10a5b-9913-4f62-be92-5fbbedc05294/20240917T134919/25f10a5b-9913-4f62-be92-5fbbedc05294_16x9.jpg) ![](https://media.king5.com/assets/KING/images/25f10a5b-9913-4f62-be92-5fbbedc05294/20240917T134919/25f10a5b-9913-4f62-be92-5fbbedc05294_360x203.jpg)](https://www.king5.com/article/news/local/washington-states-cannabis-industry-federal-reclassification/281-76dc062c-3242-4e6e-8b5a-fde4eb179053)
         
-        #### ['It's been very slow': Local businesses see fewer customers during Boeing Machinists strike](https://www.king5.com/article/news/local/small-businesses-near-boeing-plant-renton-economic-crunch-during-strike/281-8de1497f-1a02-4be5-844c-5d97c42ae6b7)
+        #### [Washington state's cannabis industry braces for change as federal reclassification considered](https://www.king5.com/article/news/local/washington-states-cannabis-industry-federal-reclassification/281-76dc062c-3242-4e6e-8b5a-fde4eb179053)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -56,7 +57,7 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/456ad034-25d5-4d5c-8018-7cab0edc84ea/20240920T005643/456ad034-25d5-4d5c-8018-7cab0edc84ea_16x9.jpg) ![](https://media.king5.com/assets/KING/images/456ad034-25d5-4d5c-8018-7cab0edc84ea/20240920T005643/456ad034-25d5-4d5c-8018-7cab0edc84ea_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
+    *  [![](https://media.king5.com/assets/KING/images/ebcec3bf-a346-41b0-b38a-e8f2f11a203b/20240920T123241/ebcec3bf-a346-41b0-b38a-e8f2f11a203b_16x9.jpg) ![](https://media.king5.com/assets/KING/images/ebcec3bf-a346-41b0-b38a-e8f2f11a203b/20240920T123241/ebcec3bf-a346-41b0-b38a-e8f2f11a203b_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
         #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
@@ -95,9 +96,9 @@ Navigation
 
 Seattle, WA »
 
-58°
+54°
 
-![Cloudy](/assets/shared-images/weather-icons/cloudy-night_210x210.png)
+![Cloudy](/assets/shared-images/weather-icons/cloudy-day_210x210.png)
 
 Seattle, WA »](https://www.king5.com/weather)
 
