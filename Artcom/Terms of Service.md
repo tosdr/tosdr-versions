@@ -667,7 +667,7 @@ If any of the terms or conditions herein shall be deemed invalid, void, or for a
 
 Updated: October 2018
 
-![Logo](/mobify/bundle/678/static/img/logo.svg)
+![Logo](/mobify/bundle/695/static/img/logo.svg)
 
 World's largest selection of art
 
@@ -722,7 +722,7 @@ Text GETINSPIRED to 47138.
 
 Stay in touch with Art.com through text. Get $25 OFF $150 when you sign up.
 
-By signing up you agree to receive recurring automated promotional and personalized marketing text messages (e.g. cart reminders) from Art.com at the cell number used when signing up. Consent is not a condition of any purchase. Reply HELP for help and STOP to cancel. Msg frequency varies. Msg & data rates may apply. View Terms at [https://creatives.attn.tv/art/terms.html](https://creatives.attn.tv/art/terms.html "https://creatives.attn.tv/art/terms.html") & Privacy at [https://attnl.tv/p/cTj](https://attnl.tv/p/cTj "https://attnl.tv/p/cTj").
+By signing up you agree to receive recurring automated promotional and personalized marketing text messages (e.g. cart reminders) from Art.com at the cell number used when signing up. Consent is not a condition of any purchase. Reply HELP for help and STOP to cancel. Msg frequency varies. Msg & data rates may apply. View Terms at [https://attnl.tv/t/cTj/r/US](https://attnl.tv/t/cTj/r/US "https://attnl.tv/t/cTj/r/US") & Privacy at [https://attnl.tv/p/cTj](https://attnl.tv/p/cTj "https://attnl.tv/p/cTj").
 
 \*See site terms for details, as some exclusions apply.
 
