@@ -503,12 +503,12 @@ Whoopee cushion...
 [![Kids' Privacy Assured Privo](https://www.beano.com/app/themes/beano/assets/images/footer/seal.png)](https://www.beano.com/external-link-warning?verify=96fc372701&to=https%3A%2F%2Fcert.privo.com%2F%23%2Fcompanies%2Fbeano_studios)
 
 * [Home](https://www.beano.com/)
-* [Quizzes](https://www.beano.com/categories/quizzes)
-* [Games](https://www.beano.com/categories/games)
-* [Jokes](https://www.beano.com/categories/jokes)
-* [Facts](https://www.beano.com/categories/fun-facts)
-* [Comic](https://www.beano.com/categories/beanotown)
-* [Fun Stuff](https://www.beano.com/categories/fun-stuff)
+* [Quizzes](https://www.beano.com/quiz)
+* [Games](https://www.beano.com/games)
+* [Jokes](https://www.beano.com/jokes)
+* [Facts](https://www.beano.com/facts)
+* [Comic](https://www.beano.com/comic)
+* [Pranks](https://www.beano.com/pranks)
 
 * [FAQs](https://www.beano.com/faq)
 * [About Us](https://www.beano.com/about-us)
