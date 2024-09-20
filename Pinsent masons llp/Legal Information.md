@@ -1,6 +1,6 @@
 [Skip to main content](#skipnav)
 
-[](https://www.pinsentmasons.com/en-gb "Pinsent Masons")
+[](https://www.pinsentmasons.com/ "Pinsent Masons")
 
 1. Legal Notices [Legal Notices](https://www.pinsentmasons.com/legal-notices) 
 
@@ -110,9 +110,6 @@ Please enter a search term
         * [All Financial Services](https://www.pinsentmasons.com/sectors/financial-services)
     * [Infrastructure](https://www.pinsentmasons.com/sectors/infrastructure)
     * [Real Estate](https://www.pinsentmasons.com/sectors/real-estate)
-        * [Real Estate](https://www.pinsentmasons.com/sectors/real-estate)
-        * [Hotels](https://www.pinsentmasons.com/sectors/real-estate/hotels)
-        * [All Real Estate](https://www.pinsentmasons.com/sectors/real-estate)
     * [Technology, Science & Industry](https://www.pinsentmasons.com/sectors/technology-science-industry)
         * [Technology, Science & Industry](https://www.pinsentmasons.com/sectors/technology-science-industry)
         * [Autonomous vehicles](https://www.pinsentmasons.com/sectors/technology-science-industry/autonomous-vehicles)
@@ -797,23 +794,23 @@ Other notices and information
     
     ### Sectors we work in
     
-    * [Energy](https://www.pinsentmasons.com/en-gb/sectors/energy)
-    * [Financial Services](https://www.pinsentmasons.com/en-gb/sectors/financial-services)
-    * [Infrastructure](https://www.pinsentmasons.com/en-gb/sectors/infrastructure)
-    * [Technology, Science & Industry](https://www.pinsentmasons.com/en-gb/sectors/technology-science-industry)
-    * [Real Estate](https://www.pinsentmasons.com/en-gb/sectors/real-estate)
+    * [Energy](https://www.pinsentmasons.com/sectors/energy)
+    * [Financial Services](https://www.pinsentmasons.com/sectors/financial-services)
+    * [Infrastructure](https://www.pinsentmasons.com/sectors/infrastructure)
+    * [Technology, Science & Industry](https://www.pinsentmasons.com/sectors/technology-science-industry)
+    * [Real Estate](https://www.pinsentmasons.com/sectors/real-estate)
     
     ### What we do
     
-    * [Your assets](https://www.pinsentmasons.com/en-gb/what-we-do/your-assets)
-    * [Your company](https://www.pinsentmasons.com/en-gb/what-we-do/your-company)
-    * [Your finance](https://www.pinsentmasons.com/en-gb/what-we-do/your-finance)
-    * [Your legal team and resource](https://www.pinsentmasons.com/en-gb/what-we-do/your-legal-team-and-resource)
-    * [Your people](https://www.pinsentmasons.com/en-gb/what-we-do/your-people)
-    * [Your risks and regulatory environment](https://www.pinsentmasons.com/en-gb/what-we-do/your-risks-and-regulatory-environment)
+    * [Your assets](https://www.pinsentmasons.com/what-we-do/your-assets)
+    * [Your company](https://www.pinsentmasons.com/what-we-do/your-company)
+    * [Your finance](https://www.pinsentmasons.com/what-we-do/your-finance)
+    * [Your legal team and resource](https://www.pinsentmasons.com/what-we-do/your-legal-team-and-resource)
+    * [Your people](https://www.pinsentmasons.com/what-we-do/your-people)
+    * [Your risks and regulatory environment](https://www.pinsentmasons.com/what-we-do/your-risks-and-regulatory-environment)
     
 
-[](https://www.pinsentmasons.com/en-gb "Pinsent Masons")
+[](https://www.pinsentmasons.com/ "Pinsent Masons")
 
 * [Legal Notices](https://www.pinsentmasons.com/legal-notices)
 * [Privacy Policy](https://www.pinsentmasons.com/legal-notices/privacy-policy)
