@@ -56,7 +56,7 @@ Search
 
 [![Home](images/logos/21/logo_white.jpg?v=1696508508227 "Home")](https://www.derrynow.com/)
 
-19 Sept 2024
+20 Sept 2024
 
 * [Home
     
@@ -266,15 +266,6 @@ Most Popular
 [Throwback Thursday: Partytime out and about around Derry (2009)](https://www.derrynow.com/story-telling/pictures---videos/1608382/throwback-thursday-partytime-out-and-about-around-derry-2009.html)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Motorists are advised to expect disruption in Derry city centre on Saturday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Motorists are advised to expect disruption in Derry city centre on Saturday")](https://www.derrynow.com/news/local-news/1608567/motorists-are-advised-to-expect-disruption-in-derry-city-centre-on-saturday.html)
-
-Apprentice Boys of Derry marching through the city centre during a previous march.
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Motorists are advised to expect disruption in Derry city centre on Saturday](https://www.derrynow.com/news/local-news/1608567/motorists-are-advised-to-expect-disruption-in-derry-city-centre-on-saturday.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 [![Meet the 21 men who have just entered training to become priests in Ireland](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Meet the 21 men who have just entered training to become priests in Ireland")](https://www.derrynow.com/news/national-news/1609214/thank-god-for-them-meet-the-21-men-now-training-to-become-priests-in-ireland.html)
 
 Bishop Alphonsus Cullinan, chair of the Bishops' Council for Vocations, with seminarians for the launch of the 'Year for Vocation to the Diocesan Priesthood', in April 2023 (Catholic Communications)
@@ -284,14 +275,12 @@ Bishop Alphonsus Cullinan, chair of the Bishops' Council for Vocations, with sem
 ['Thank God for them' - Meet the 21 men now training to become priests in Ireland](https://www.derrynow.com/news/national-news/1609214/thank-god-for-them-meet-the-21-men-now-training-to-become-priests-in-ireland.html)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Breaking: Elderly man (80s) killed in Clonmany collision](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Breaking: Elderly man (80s) killed in Clonmany collision")](https://www.derrynow.com/news/local-news/1608640/elderly-man-80s-killed-in-clonmany-collision.html)
+[![PICTURES: All smiles as the school year begins at St Brigid's Primary School](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PICTURES: All smiles as the school year begins at St Brigid's Primary School")](https://www.derrynow.com/news/pictures---videos/1609000/pictures-all-smiles-as-the-school-year-begins-at-st-brigid-s-primary-school.html)
 
-The scene of the fatal road traffic collision in Clonmany. (North West Newspix)
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
 
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Elderly man (80s) killed in Clonmany collision](https://www.derrynow.com/news/local-news/1608640/elderly-man-80s-killed-in-clonmany-collision.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------
+[PICTURES: All smiles as the school year begins at St Brigid's Primary School](https://www.derrynow.com/news/pictures---videos/1609000/pictures-all-smiles-as-the-school-year-begins-at-st-brigid-s-primary-school.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Derry Death Notices - Monday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Monday")](https://www.derrynow.com/news/deaths/1608384/derry-death-notices-thursday-19th-september-2024.html)
 
@@ -309,19 +298,19 @@ Derry Court
 [Derry man admits ramming two police vehicles and injuring seven police officers jailed](https://www.derrynow.com/news/local-news/1609113/derry-man-admits-ramming-two-police-vehicles-and-injuring-seven-police-officers-jailed.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+[![Man arrested in Derry search operation into INLA drug criminality](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man arrested in Derry search operation into INLA drug criminality")](https://www.derrynow.com/news/local-news/1609376/man-arrested-in-derry-search-operation-into-inla-drug-criminality.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Man arrested in Derry search operation into INLA drug criminality](https://www.derrynow.com/news/local-news/1609376/man-arrested-in-derry-search-operation-into-inla-drug-criminality.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 [![Derry man (21) charged with number of drugs offences](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry man (21) charged with number of drugs offences")](https://www.derrynow.com/news/local-news/1608957/derry-man-21-charged-with-number-of-drugs-offences.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
 
 [Derry man (21) charged with number of drugs offences](https://www.derrynow.com/news/local-news/1608957/derry-man-21-charged-with-number-of-drugs-offences.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry man charged with possession of thousands of pounds worth of drugs remanded](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry man charged with possession of thousands of pounds worth of drugs remanded")](https://www.derrynow.com/news/local-news/1609057/derry-man-charged-with-possession-of-thousands-of-pounds-worth-of-drugs-remanded.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Derry man charged with possession of thousands of pounds worth of drugs remanded](https://www.derrynow.com/news/local-news/1609057/derry-man-charged-with-possession-of-thousands-of-pounds-worth-of-drugs-remanded.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Man who faces immediate deportation upon release from prison jailed for bringing drugs valued up to £40,000 from Belfast to Derry](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man who faces immediate deportation upon release from prison jailed for bringing drugs valued up to £40,000 from Belfast to Derry")](https://www.derrynow.com/news/local-news/1609048/man-who-faces-immediate-deportation-upon-release-from-prison-jailed-for-bringing-drugs-valued-up-to-40-000-from-belfast-to-derry.html)
 
@@ -331,6 +320,13 @@ Derry Crown Court
 
 [Man who faces immediate deportation upon release from prison jailed for bringing drugs valued up to £40,000 from Belfast to Derry](https://www.derrynow.com/news/local-news/1609048/man-who-faces-immediate-deportation-upon-release-from-prison-jailed-for-bringing-drugs-valued-up-to-40-000-from-belfast-to-derry.html)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Derry man charged with possession of thousands of pounds worth of drugs remanded](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry man charged with possession of thousands of pounds worth of drugs remanded")](https://www.derrynow.com/news/local-news/1609057/derry-man-charged-with-possession-of-thousands-of-pounds-worth-of-drugs-remanded.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Derry man charged with possession of thousands of pounds worth of drugs remanded](https://www.derrynow.com/news/local-news/1609057/derry-man-charged-with-possession-of-thousands-of-pounds-worth-of-drugs-remanded.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![23-year-old Derry man charged to court for drug related offences](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "23-year-old Derry man charged to court for drug related offences")](https://www.derrynow.com/news/local-news/1608845/23-year-old-derry-man-charged-to-court-for-drug-related-offences.html)
 
