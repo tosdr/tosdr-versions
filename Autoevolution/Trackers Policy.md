@@ -33,15 +33,15 @@
 
 editorial \_
 
-[![EREVs Are Way Better Than PHEVs And Here's Why](https://s1.cdn.autoevolution.com/images/news/erevs-are-way-better-than-phevs-and-here-s-why-239983-5.jpg "EREVs Are Way Better Than PHEVs And Here's Why")
+[![Automakers Join Forces Out of Desperation](https://s1.cdn.autoevolution.com/images/news/automakers-join-forces-out-of-desperation-240041-5.jpg "Automakers Join Forces Out of Desperation")
 
-#### EREVs Are Way Better Than PHEVs And Here's Why](https://www.autoevolution.com/news/erevs-are-way-better-than-phevs-and-here-s-why-239983.html "EREVs Are Way Better Than PHEVs And Here's Why")
+#### Automakers Join Forces Out of Desperation](https://www.autoevolution.com/news/automakers-join-forces-out-of-desperation-240041.html "Automakers Join Forces Out of Desperation")
 
 coverstory \_
 
-[![It's a Horse Trailer, a Camper, a Home on Wheels. No, It's the All-Aluminum WeeRoll Nomad!](https://s1.cdn.autoevolution.com/images/news/it-s-a-horse-trailer-a-camper-a-home-on-wheels-no-it-s-the-all-aluminum-weeroll-nomad-240035-5.jpg "It's a Horse Trailer, a Camper, a Home on Wheels. No, It's the All-Aluminum WeeRoll Nomad!")
+[![1976 Pontiac Trans Am 455 With 23k Miles Has Too Many Haters (It's Probably the Price)](https://s1.cdn.autoevolution.com/images/news/1976-pontiac-trans-am-455-with-23k-miles-has-too-many-haters-it-s-probably-the-price-240043-5.jpg "1976 Pontiac Trans Am 455 With 23k Miles Has Too Many Haters (It's Probably the Price)")
 
-It's a Horse Trailer, a Camper, a Home on Wheels. No, It's the All-Aluminum WeeRoll Nomad!](https://www.autoevolution.com/news/it-s-a-horse-trailer-a-camper-a-home-on-wheels-no-it-s-the-all-aluminum-weeroll-nomad-240035.html)
+1976 Pontiac Trans Am 455 With 23k Miles Has Too Many Haters (It's Probably the Price)](https://www.autoevolution.com/news/1976-pontiac-trans-am-455-with-23k-miles-has-too-many-haters-it-s-probably-the-price-240043.html)
 
 how-to \_
 
