@@ -51,14 +51,14 @@ MINS
 
 SECS](https://tuttletwins.store/collections/book)
 
-     
+    
 
      
 
 * [Home](https://tuttletwins.store/)
-* Our Shows
+* Shop Shows
     
-    Our Shows
+    Shop Shows
     
     * [After Death](https://tuttletwins.store/pages/show-after-death)
     * [Angel Studios](https://tuttletwins.store/pages/show-angel-studios)
@@ -379,9 +379,9 @@ USD $ | United States
 
 [![Angel Studios Gift Factory](//shop.angel.com/cdn/shop/files/Angel_Studios_logo-white_1.png?v=1725550543&width=600)](https://tuttletwins.store/)
 
-* Our Shows
+* Shop Shows
     
-    Our Shows
+    Shop Shows
     
     * [After Death](https://tuttletwins.store/pages/show-after-death)
     * [Angel Studios](https://tuttletwins.store/pages/show-angel-studios)
@@ -407,23 +407,6 @@ USD $ | United States
     * [Tuttle Twins](https://tuttletwins.store/pages/show-tuttle-twins)
     * [Wingfeather Saga](https://tuttletwins.store/pages/show-the-wingfeather-saga)
     * [Young David](https://tuttletwins.store/pages/young-david)
-    
-    * [![](//shop.angel.com/cdn/shop/files/ET_logo-bolded-black_1_1024x1024.png?v=1725983352)](https://shop.angel.com/pages/show-empty-tomb)
-    * [![](//shop.angel.com/cdn/shop/files/tuttle-twins_2_1_1024x1024.png?v=1725975718)](https://tuttletwins.store/pages/show-tuttle-twins)
-    * [![](//shop.angel.com/cdn/shop/files/Wingfeather_b54925b3-c2c5-4828-b927-adc9949605d6_1_1_1024x1024.png?v=1725977396)](https://tuttletwins.store/pages/show-the-wingfeather-saga)
-    * [![](//shop.angel.com/cdn/shop/files/Angel-Studios-logo_1_6830d9c7-6eb1-466f-8ce9-5c059b76a2fe_1024x1024.png?v=1725972883)](https://tuttletwins.store/pages/show-angel-studios)
-    * [![](//shop.angel.com/cdn/shop/files/sound-of-hope-yellow_2_1_9cfdc662-7bc9-409a-b478-a492cc4a8b9e_1024x1024.png?v=1725977126)](https://tuttletwins.store/pages/show-sound-of-hope)
-    * [![](//shop.angel.com/cdn/shop/files/homestead-logo_9fff379b-ac1d-4b5f-afd7-e048e4ace651_1024x1024.svg?v=1720487351)](https://tuttletwins.store/pages/show-homestead)
-    * [![](//shop.angel.com/cdn/shop/files/Bonhoeffer_Logo_-_Black_title_1_b7b74af3-cb9f-4d12-a0f0-5802f99ea669_1024x1024.png?v=1725982019)](https://tuttletwins.store/pages/show-bonhoeffer)
-    * [![](//shop.angel.com/cdn/shop/files/david_log__4_2_903e9064-9a92-4179-a12b-5bb9670d8c60_1024x1024.png?v=1725998835)](https://tuttletwins.store/pages/show-david)
-    * [![](//shop.angel.com/cdn/shop/files/Cabrini_Black-Trimmed_2_1_1024x1024.png?v=1725983239)](https://tuttletwins.store/pages/show-cabrini)
-    * [![](//shop.angel.com/cdn/shop/files/drybar_1_1024x1024.svg?v=1719497223)](https://tuttletwins.store/pages/show-dry-bar-comedy)
-    * [![](//shop.angel.com/cdn/shop/files/Sound-of-Freedom-_1_1_8ee1a018-9a0d-441a-a09a-d21f87b93cc2_1024x1024.png?v=1725982511)](https://tuttletwins.store/pages/show-sound-of-freedom)
-    * [![](//shop.angel.com/cdn/shop/files/after-death-black_32b87773-2739-40f7-89d0-3bd8960187dd_1_1024x1024.png?v=1725979455)](https://tuttletwins.store/pages/show-after-death)
-    * [![](//shop.angel.com/cdn/shop/files/Sight_Title_Treatment_Only_1_0095f507-23b1-40ae-8645-476e381d5d05_1024x1024.png?v=1725976129)](https://tuttletwins.store/pages/show-sight)
-    * [![](//shop.angel.com/cdn/shop/files/his-only-son-logo_1_9b7586fd-ab9f-4770-9585-0d13ed0423f5_1024x1024.png?v=1726067606)](https://tuttletwins.store/pages/show-his-only-son)
-    * [![](//shop.angel.com/cdn/shop/files/Shift_Logo-Stacked-light-yellow_2_2_1_84be972d-94d4-4ce8-ad24-89963d2417b1_1024x1024.png?v=1725977329)](https://tuttletwins.store/pages/show-the-shift)
-    * [![](//shop.angel.com/cdn/shop/files/testament-black-lg_2_1024x1024.png?v=1725582952)](https://tuttletwins.store/pages/show-testament)
     
 * Shop Products
     
