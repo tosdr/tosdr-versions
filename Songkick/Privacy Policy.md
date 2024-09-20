@@ -3,10 +3,12 @@
         
         [Jersey City concerts](https://www.songkick.com/metro-areas/4690-us-jersey-city) [Jersey City concerts](https://www.songkick.com/metro-areas/4690-us-jersey-city "Jersey City concerts")
         
-        *  [![Lucinda Williams Concert Tickets - 2024 Tour Dates](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Lucinda Williams  
-            White Eagle Hall](https://www.songkick.com/concerts/42164992-lucinda-williams-at-white-eagle-hall)
+        *  [![Primus Concert Tickets - 2024 Tour Dates](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Primus  
+            PNC Bank Arts Center](https://www.songkick.com/concerts/42175406-primus-at-pnc-bank-arts-center)
         *  [![Thomas Rhett Concert Tickets - 2024 Tour Dates](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Thomas Rhett  
             PNC Bank Arts Center](https://www.songkick.com/concerts/42175592-thomas-rhett-at-pnc-bank-arts-center)
+        *  [![Lucinda Williams Concert Tickets - 2024 Tour Dates](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Lucinda Williams  
+            White Eagle Hall](https://www.songkick.com/concerts/42164992-lucinda-williams-at-white-eagle-hall)
         
         [](https://www.songkick.com/metro-areas/4690-us-jersey-city)See all Jersey City concerts ([Change location](https://www.songkick.com/session/filter_metro_area))  
           
