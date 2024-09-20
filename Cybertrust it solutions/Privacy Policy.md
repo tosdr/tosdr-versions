@@ -297,7 +297,7 @@ All Rights Reserved.
     
 * CAPTCHA
     
-* Name
+* Comments
     
     This field is for validation purposes and should be left unchanged.
     
