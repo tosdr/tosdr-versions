@@ -1,4 +1,6 @@
-GOT HERE Array ( \[strictly\_necessary\] => Array ( ) \[functional\] => Array ( ) \[performance\_analytics\] => Array ( \[0\] => Array ( \[0\] => legacy \[1\] => \[2\] => ) ) \[advertisement\_targeting\] => Array ( ) )   Cookie Policy | UP Hotel Agency | Digital Marketing & Web Design For Hotels                           
+GOT HERE Array ( \[strictly\_necessary\] => Array ( ) \[functional\] => Array ( ) \[performance\_analytics\] => Array ( \[0\] => Array ( \[0\] => legacy \[1\] => \[2\] => ) ) \[advertisement\_targeting\] => Array ( ) )   Cookie Policy | UP Hotel Agency | Digital Marketing & Web Design For Hotels                          
+
+![](https://secure.innovation-perceptive52.com/789401.png)
 
 ### This website uses cookies to improve your experience
 
