@@ -1,4 +1,4 @@
-Toggle navigation [![Driversnote](https://d2mcx4odt2tts0.cloudfront.net/assets/logo-green-65c4d5d253aadb703cbf2b7daeda217a808f2c1865b2ca42aff30b141691b43f.svg)](https://www.driversnote.com/)
+Toggle navigation [![Driversnote](https://d2mcx4odt2tts0.cloudfront.net/assets/logo-green-ae4133ccfd4329490e4413327b8ad1a178bee03161a8d4213b9a69e7b3e999f6.svg)](https://www.driversnote.com/)
 
 * [Features](#)
     * [Tracking](https://www.driversnote.com/tracking)
@@ -12,9 +12,9 @@ Toggle navigation [![Driversnote](https://d2mcx4odt2tts0.cloudfront.net/assets/l
 * [Log in](https://www.driversnote.com/users/sign_in)
 * [Sign up](https://www.driversnote.com/users/sign_up)
 
-[![](/vite/assets/google-play-button-outline.e7dccca9.svg)](https://play.google.com/store/apps/details?id=com.driversnote.driversnote&hl=en&gl=US) [![](/vite/assets/ios-button-outline.ecb5d2ee.svg)](https://apps.apple.com/us/app/mileage-tracker-by-driversnote/id924418916)
+[![](/vite/assets/google-play-button-outline.dec933f0.svg)](https://play.google.com/store/apps/details?id=com.driversnote.driversnote&hl=en&gl=US) [![](/vite/assets/ios-button-outline.f72abf2d.svg)](https://apps.apple.com/us/app/mileage-tracker-by-driversnote/id924418916)
 
-United States ![](https://d2mcx4odt2tts0.cloudfront.net/vite/assets/chevron-down.566b407b.svg) 
+United States ![](https://d2mcx4odt2tts0.cloudfront.net/vite/assets/chevron-down.5937ae9f.svg) 
 
 Get started
 
