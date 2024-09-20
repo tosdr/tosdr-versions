@@ -158,76 +158,76 @@ Please note that under Section 512(f) of the DMCA, any person who knowingly mate
 
 TOP NEWS
 
+* [Supreme Court Won’t Restore Green Party to Nevada Ballot](https://www.theepochtimes.com/us/supreme-court-wont-restore-green-party-to-nevada-ballot-5725876)
+    
+    NEW By [Matthew Vadum](https://www.theepochtimes.com/author/matthew-vadum)
+    
+    [![Supreme Court Won’t Restore Green Party to Nevada Ballot](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Supreme Court Won’t Restore Green Party to Nevada Ballot](https://img.theepochtimes.com/assets/uploads/2024/09/09/id5720765-09092024-DSC07970-SCOTUS-205x123.jpg.webp)](https://www.theepochtimes.com/us/supreme-court-wont-restore-green-party-to-nevada-ballot-5725876)
+* [Why App-Based Jobs Don’t Pay Like They Used To](https://www.theepochtimes.com/article/why-app-based-jobs-dont-pay-like-they-used-to-5722960)
+    
+    2hr By [Austin Alonzo](https://www.theepochtimes.com/author/austin-alonzo)
+    
+    [![Why App-Based Jobs Don’t Pay Like They Used To](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Why App-Based Jobs Don’t Pay Like They Used To](https://img.theepochtimes.com/assets/uploads/2024/09/20/id5727370-GettyImages-467522442-205x123.jpg.webp)](https://www.theepochtimes.com/article/why-app-based-jobs-dont-pay-like-they-used-to-5722960)
+* [Olive Garden’s Parent Company Announces Multiyear Deal With Uber](https://www.theepochtimes.com/business/olive-gardens-parent-company-announces-multiyear-deal-with-uber-5727326)
+    
+    3hr By [Katabella Roberts](https://www.theepochtimes.com/author/katabella-roberts)
+    
+    [![Olive Garden’s Parent Company Announces Multiyear Deal With Uber](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Olive Garden’s Parent Company Announces Multiyear Deal With Uber](https://img.theepochtimes.com/assets/uploads/2014/10/10/Olive-Garden-Breadsti_Mitc-205x123.jpg.webp)](https://www.theepochtimes.com/business/olive-gardens-parent-company-announces-multiyear-deal-with-uber-5727326)
+* [Microsoft-Owned LinkedIn Using People’s Data to Train Artificial Intelligence Models](https://www.theepochtimes.com/tech/microsoft-owned-linkedin-using-peoples-data-to-train-artificial-intelligence-models-5727290)
+    
+    3hr By [Katabella Roberts](https://www.theepochtimes.com/author/katabella-roberts)
+    
+    [![Microsoft-Owned LinkedIn Using People’s Data to Train Artificial Intelligence Models](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Microsoft-Owned LinkedIn Using People’s Data to Train Artificial Intelligence Models](https://img.theepochtimes.com/assets/uploads/2021/06/04/GettyImages-1230537855-205x123.jpg.webp)](https://www.theepochtimes.com/tech/microsoft-owned-linkedin-using-peoples-data-to-train-artificial-intelligence-models-5727290)
+* [EU Commissioner Visits Ukraine As Bloc Pledges 160 Million Euros for Winter](https://www.theepochtimes.com/world/eu-commissioner-visits-ukraine-as-bloc-pledges-160-million-euros-for-winter-5727328)
+    
+    4hr By [Guy Birchall](https://www.theepochtimes.com/author/guy-birchall)
+    
+    [![EU Commissioner Visits Ukraine As Bloc Pledges 160 Million Euros for Winter](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![EU Commissioner Visits Ukraine As Bloc Pledges 160 Million Euros for Winter](https://img.theepochtimes.com/assets/uploads/2024/09/20/id5727354-Russia_Ukraine_War_EU_24264217815203-205x123.jpg.webp)](https://www.theepochtimes.com/world/eu-commissioner-visits-ukraine-as-bloc-pledges-160-million-euros-for-winter-5727328)
+* [Taiwan Says Exploding Pager Components Were Not Produced on Island](https://www.theepochtimes.com/world/taiwan-says-exploding-pager-components-were-not-produced-on-island-5727330)
+    
+    5hr By [Chris Summers](https://www.theepochtimes.com/author/chris-summers)
+    
+    [![Taiwan Says Exploding Pager Components Were Not Produced on Island](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Taiwan Says Exploding Pager Components Were Not Produced on Island](https://img.theepochtimes.com/assets/uploads/2024/09/18/id5726468-GettyImages-2171996113-OP-205x123.jpg.webp)](https://www.theepochtimes.com/world/taiwan-says-exploding-pager-components-were-not-produced-on-island-5727330)
 * [Lawmakers Mull Revamp of Secret Service Funding, Policy After Trump Assassination Attempts](https://www.theepochtimes.com/us/lawmakers-mull-revamp-of-secret-service-funding-policy-after-trump-assassination-attempts-5727081)
     
-    NEW By [Joseph Lord](https://www.theepochtimes.com/author/joseph-lord)
+    7hr By [Joseph Lord](https://www.theepochtimes.com/author/joseph-lord) and [Arjun Singh](https://www.theepochtimes.com/author/arjun-singh)
     
     [![Lawmakers Mull Revamp of Secret Service Funding, Policy After Trump Assassination Attempts](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Lawmakers Mull Revamp of Secret Service Funding, Policy After Trump Assassination Attempts](https://img.theepochtimes.com/assets/uploads/2024/09/17/id5725412-Trump-assassination-attempt-GettyImages-2172410244-205x123.jpg.webp)](https://www.theepochtimes.com/us/lawmakers-mull-revamp-of-secret-service-funding-policy-after-trump-assassination-attempts-5727081)
+    ![Lawmakers Mull Revamp of Secret Service Funding, Policy After Trump Assassination Attempts](https://img.theepochtimes.com/assets/uploads/2024/09/17/id5725607-GettyImages-1249593543.jpg-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/lawmakers-mull-revamp-of-secret-service-funding-policy-after-trump-assassination-attempts-5727081)
 * [US Home Sales Dropped in August Despite Falling Mortgage Rates](https://www.theepochtimes.com/real-estate/us-home-sales-dropped-in-august-despite-falling-mortgage-rates-5727187)
     
-    NEW By [Andrew Moran](https://www.theepochtimes.com/author/andrew-moran)
+    7hr By [Andrew Moran](https://www.theepochtimes.com/author/andrew-moran)
     
     [![US Home Sales Dropped in August Despite Falling Mortgage Rates](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![US Home Sales Dropped in August Despite Falling Mortgage Rates](https://img.theepochtimes.com/assets/uploads/2024/06/24/id5674249-GettyImages-2154182627_web-205x123.jpg.webp)](https://www.theepochtimes.com/real-estate/us-home-sales-dropped-in-august-despite-falling-mortgage-rates-5727187)
 * [Energy Companies Urge Supreme Court to Block Stricter Rule on Power Plant Emissions](https://www.theepochtimes.com/us/energy-companies-urge-supreme-court-to-block-stricter-rule-on-power-plant-emissions-5725177)
     
-    NEW By [Matthew Vadum](https://www.theepochtimes.com/author/matthew-vadum)
+    7hr By [Matthew Vadum](https://www.theepochtimes.com/author/matthew-vadum)
     
     [![Energy Companies Urge Supreme Court to Block Stricter Rule on Power Plant Emissions](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Energy Companies Urge Supreme Court to Block Stricter Rule on Power Plant Emissions](https://img.theepochtimes.com/assets/uploads/2021/12/07/GettyImages-1182371404-205x123.jpg.webp)](https://www.theepochtimes.com/us/energy-companies-urge-supreme-court-to-block-stricter-rule-on-power-plant-emissions-5725177)
+    ![Energy Companies Urge Supreme Court to Block Stricter Rule on Power Plant Emissions](https://img.theepochtimes.com/assets/uploads/2024/09/20/id5727457-GettyImages-1182371404.jpg-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/energy-companies-urge-supreme-court-to-block-stricter-rule-on-power-plant-emissions-5725177)
 * [Caterpillar Pulls Back on DEI, Joining John Deere, Ford, and Others](https://www.theepochtimes.com/business/caterpillar-pulls-back-on-dei-joining-john-deere-ford-and-others-5727161)
     
-    NEW By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
+    7hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
     
     [![Caterpillar Pulls Back on DEI, Joining John Deere, Ford, and Others](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Caterpillar Pulls Back on DEI, Joining John Deere, Ford, and Others](https://img.theepochtimes.com/assets/uploads/2021/10/29/CATERPILLAR-RESULTS-1200x804-205x123.jpg.webp)](https://www.theepochtimes.com/business/caterpillar-pulls-back-on-dei-joining-john-deere-ford-and-others-5727161)
-* [Congressional Probe Into Political Fundraising Platform ActBlue Finds Potential ‘Criminal Activity’](https://www.theepochtimes.com/us/congressional-probe-into-political-fundraising-platform-actblue-finds-potential-criminal-activity-5727142)
-    
-    NEW By [Darlene McCormick Sanchez](https://www.theepochtimes.com/author/darlene-sanchez)
-    
-    [![Congressional Probe Into Political Fundraising Platform ActBlue Finds Potential ‘Criminal Activity’](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Congressional Probe Into Political Fundraising Platform ActBlue Finds Potential ‘Criminal Activity’](https://img.theepochtimes.com/assets/uploads/2024/09/11/id5722265-GettyImages-2171255206-OP-205x123.jpg.webp)](https://www.theepochtimes.com/us/congressional-probe-into-political-fundraising-platform-actblue-finds-potential-criminal-activity-5727142)
-* [Harris Promises Working Families 7 Percent Limit on Child Care Spending](https://www.theepochtimes.com/us/harris-promises-working-families-7-percent-limit-on-child-care-spending-5726363)
-    
-    NEW By [Matt McGregor](https://www.theepochtimes.com/author/matt-mcgregor)
-    
-    [![Harris Promises Working Families 7 Percent Limit on Child Care Spending](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Harris Promises Working Families 7 Percent Limit on Child Care Spending](https://img.theepochtimes.com/assets/uploads/2024/09/17/id5725932-GettyImages-2171843674-OP-205x123.jpg.webp)](https://www.theepochtimes.com/us/harris-promises-working-families-7-percent-limit-on-child-care-spending-5726363)
-* [Trump Denounces Antisemitism, Reaffirms Support for Israel at Washington Events](https://www.theepochtimes.com/us/trump-denounces-antisemitism-reaffirms-support-for-israel-at-washington-events-5727235)
-    
-    5hr By [Stacy Robinson](https://www.theepochtimes.com/author/stacy-robinson) and [Jackson Richman](https://www.theepochtimes.com/author/jackson-richman)
-    
-    [![Trump Denounces Antisemitism, Reaffirms Support for Israel at Washington Events](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Trump Denounces Antisemitism, Reaffirms Support for Israel at Washington Events](https://img.theepochtimes.com/assets/uploads/2024/09/20/id5727267-GettyImages-2173243376-205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-denounces-antisemitism-reaffirms-support-for-israel-at-washington-events-5727235)
-* [In-Person Voting Starts Friday in Virginia, South Dakota, and Minnesota](https://www.theepochtimes.com/us/in-person-voting-starts-today-in-virginia-south-dakota-and-minnesota-5727225)
-    
-    5hr By [Nathan Worcester](https://www.theepochtimes.com/author/nathan-worcester)
-    
-    [![In-Person Voting Starts Friday in Virginia, South Dakota, and Minnesota](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![In-Person Voting Starts Friday in Virginia, South Dakota, and Minnesota](https://img.theepochtimes.com/assets/uploads/2024/02/21/id5592216-GettyImages-1229455099-205x123.jpg.webp)](https://www.theepochtimes.com/us/in-person-voting-starts-today-in-virginia-south-dakota-and-minnesota-5727225)
-* [Harris Appears With Oprah in Key Battleground State Michigan](https://www.theepochtimes.com/us/harris-joins-oprah-for-event-in-key-battleground-michigan-5727205)
-    
-    6hr By [Jacob Burg](https://www.theepochtimes.com/author/jacob-burg)
-    
-    [![Harris Appears With Oprah in Key Battleground State Michigan](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Harris Appears With Oprah in Key Battleground State Michigan](https://img.theepochtimes.com/assets/uploads/2024/09/20/id5727238-GettyImages-2172272328-205x123.jpg.webp)](https://www.theepochtimes.com/us/harris-joins-oprah-for-event-in-key-battleground-michigan-5727205)
-* [Shohei Ohtani Makes 50 Homers/50 Steals Club as the Only Member](https://www.theepochtimes.com/sports/shohei-ohtani-makes-50-homers-50-steals-club-as-the-only-member-5727179)
-    
-    7hr By [Ross Kelly](https://www.theepochtimes.com/author/ross-kelly)
-    
-    [![Shohei Ohtani Makes 50 Homers/50 Steals Club as the Only Member](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Shohei Ohtani Makes 50 Homers/50 Steals Club as the Only Member](https://img.theepochtimes.com/assets/uploads/2024/09/20/id5727206-Shohei-Ohtani-AP24263833105998-205x123.jpg.webp)](https://www.theepochtimes.com/sports/shohei-ohtani-makes-50-homers-50-steals-club-as-the-only-member-5727179)
+    ![Caterpillar Pulls Back on DEI, Joining John Deere, Ford, and Others](https://img.theepochtimes.com/assets/uploads/2024/09/20/id5727456-CATERPILLAR-RESULTS-1200x804.jpg-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/business/caterpillar-pulls-back-on-dei-joining-john-deere-ford-and-others-5727161)
 
 [![The Epoch Times](https://www.theepochtimes.com/assets/themes/eet/images/logo_eet.svg)](https://www.theepochtimes.com/)
 
