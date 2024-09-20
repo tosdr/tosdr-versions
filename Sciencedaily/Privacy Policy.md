@@ -208,6 +208,9 @@ this hour
 
 * * *
 
+* [Origins of Horseback Riding](https://www.sciencedaily.com/releases/2024/09/240920165153.htm)
+* [Food Fussiness Is a Largely Genetic Trait](https://www.sciencedaily.com/releases/2024/09/240919193539.htm)
+* [Complex Dance of Our Beliefs](https://www.sciencedaily.com/releases/2024/09/240919174839.htm)
 * [Global Action On Microplastics?](https://www.sciencedaily.com/releases/2024/09/240919174742.htm)
 * [Lake Ice Quality Degrading as Planet Warms](https://www.sciencedaily.com/releases/2024/09/240919115157.htm)
 * [Lava from Hotspots from Worldwide Reservoir](https://www.sciencedaily.com/releases/2024/09/240919115023.htm)
@@ -215,9 +218,6 @@ this hour
 * [Palaeolithic Cyprus: Dwarf Hippos and Elephants](https://www.sciencedaily.com/releases/2024/09/240917195402.htm)
 * [Volcanoes and Interior Heat On Jupiter Moon](https://www.sciencedaily.com/releases/2024/09/240919174819.htm)
 * [Catastrophic River Shifts Predicted](https://www.sciencedaily.com/releases/2024/09/240919174816.htm)
-* [Over Eons, Earth's Temps Change Drastically](https://www.sciencedaily.com/releases/2024/09/240919174739.htm)
-* [Organic Matter On Mars from Formaldehyde](https://www.sciencedaily.com/releases/2024/09/240919115109.htm)
-* [10,000-Year-Old Human DNA](https://www.sciencedaily.com/releases/2024/09/240919115012.htm)
 
 Trending Topics
 ---------------
@@ -228,27 +228,27 @@ this week
 
 [HEALTH](https://www.sciencedaily.com/news/top/health/)
 
+[Nutrition](https://www.sciencedaily.com/news/health_medicine/nutrition/)
+
 [Chronic Illness](https://www.sciencedaily.com/news/health_medicine/chronic_illness/)
 
-[Nutrition Research](https://www.sciencedaily.com/news/mind_brain/nutrition/)
-
-[Workplace Health](https://www.sciencedaily.com/news/health_medicine/workplace_health/)
+[Infectious Diseases](https://www.sciencedaily.com/news/health_medicine/infectious_diseases/)
 
 [PHYSICAL & TECH](https://www.sciencedaily.com/news/top/technology/)
 
 [Graphene](https://www.sciencedaily.com/news/matter_energy/graphene/)
 
-[Mathematical Modeling](https://www.sciencedaily.com/news/computers_math/mathematical_modeling/)
-
 [Black Holes](https://www.sciencedaily.com/news/space_time/black_holes/)
+
+[Quantum Physics](https://www.sciencedaily.com/news/matter_energy/quantum_physics/)
 
 [ENVIRONMENT](https://www.sciencedaily.com/news/top/environment/)
 
 [New Species](https://www.sciencedaily.com/news/plants_animals/new_species/)
 
-[Dogs](https://www.sciencedaily.com/news/plants_animals/dogs/)
+[Ecology](https://www.sciencedaily.com/news/earth_climate/ecology/)
 
-[Endangered Plants](https://www.sciencedaily.com/news/plants_animals/endangered_plants/)
+[Ice Ages](https://www.sciencedaily.com/news/earth_climate/ice_ages/)
 
   
 
