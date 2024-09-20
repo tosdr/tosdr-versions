@@ -330,9 +330,9 @@ video about why you should buy from 4imprint](https://www.4imprint.com/info/whyb
 * [4imprint Outlet](https://outlet.4imprint.com/)
 * [Deal of the Day](https://promotions.4imprint.com/dealoftheday/)
 
-[![Fortune Best Workplaces in Advertising and Marketing 2023](//cdn.4imprint.com/qtz/infopages/images/awards/advertising2023.png)](https://info.4imprint.com/press-release/best-place-to-work-award-2023) [![PEOPLE Companies that Care® 2022](//cdn.4imprint.com/qtz/secure/images/2022_companiesthatcare.svg)](https://info.4imprint.com/press-release/companies-that-care-2022/) ![Vets Ready Employer Silver 2023](//cdn.4imprint.com/qtz/infopages/images/awards/vetsreadyemployeremblemsilver.png)
+[![Fortune Best Workplaces in Advertising and Marketing 2024](//cdn.4imprint.com/qtz/infopages/images/awards/advertising2024.png)](https://info.4imprint.com/press-release/best-place-to-work-award-2024/) [![PEOPLE Companies that Care® 2022](//cdn.4imprint.com/qtz/secure/images/2022_companiesthatcare.svg)](https://info.4imprint.com/press-release/companies-that-care-2022/) ![Vets Ready Employer Silver 2023](//cdn.4imprint.com/qtz/infopages/images/awards/vetsreadyemployeremblemsilver.png)
 
-From Fortune. © 2023, Fortune Media IP Limited All rights reserved. Used under license.  
+From Fortune. © 2024, Fortune Media IP Limited All rights reserved. Used under license.  
 Fortune and Fortune Media IP Limited are not affiliated with, and do not endorse products or services of, 4imprint.  
 People Companies That Care Logo is used under license, © 2022, TI Gotham, Inc.
 
