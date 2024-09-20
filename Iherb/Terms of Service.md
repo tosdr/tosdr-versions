@@ -1217,7 +1217,7 @@ SALE
 
 [Thorne](https://de.iherb.com/c/thorne)
 
-[Trace Minerals ®](https://de.iherb.com/info/trace-minerals-r)
+[Trace Minerals ®](https://de.iherb.com/info/trace-minerals)
 
 [Vital Proteins](https://de.iherb.com/c/vital-proteins)
 
