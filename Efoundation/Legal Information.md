@@ -4,7 +4,7 @@
 
 * [ABOUT](https://e.foundation/about-e/)
 * [/E/OS](https://e.foundation/e-os/)
-* [CLOUD](https://e.foundation/ecloud/)
+* [WORKSPACE](https://e.foundation/ecloud/)
 * [GET INVOLVED](https://e.foundation/get-involved/)
 * [GET /E/OS](https://e.foundation/get-e-os/)
 * [SUPPORT E FOUNDATION](https://e.foundation/donate-2/)
@@ -18,7 +18,7 @@ Menü
 
 * [ABOUT](https://e.foundation/about-e/)
 * [/E/OS](https://e.foundation/e-os/)
-* [CLOUD](https://e.foundation/ecloud/)
+* [WORKSPACE](https://e.foundation/ecloud/)
 * [GET INVOLVED](https://e.foundation/get-involved/)
 * [GET /E/OS](https://e.foundation/get-e-os/)
 * [SUPPORT E FOUNDATION](https://e.foundation/donate-2/)
@@ -189,14 +189,14 @@ e Foundation cannot be held responsible for any direct or indirect damage caused
 
 e Foundation cannot also be held liable for indirect damages (such as loss of market or opportunity) resulting from the use of the site.
 
-ABOUT YOUR MURENA CLOUD ACCOUNT
--------------------------------
+ABOUT YOUR MURENA WORKSPACE ACCOUNT
+-----------------------------------
 
-**Sign up for your FREE Murena cloud account** with a unique and personal @murena.io ID, 1 GByte of cloud storage and other benefits.
+**Sign up for your FREE Murena workspace account** with a unique and personal @murena.io ID, 1 GByte of cloud storage and other benefits.
 
 [SIGN UP](https://murena.io/signup/)
 
-**LOG IN TO YOUR MURENA CLOUD ACCOUNT**
+**LOG IN TO YOUR MURENA WORKSPACE ACCOUNT**
 
 [Log In](https://murena.io/login)
 
