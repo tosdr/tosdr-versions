@@ -238,7 +238,7 @@ _Dispute Resolution (EU Residents Only)._ If you are a consumer and live in the 
 
 * [https://support.avg.com/business?l=en](https://support.avg.com/business?l=en)
 
-* [About Piriform](https://www.ccleaner.com/about)
+* About Piriform
 * [Press Releases](https://newsroom.gendigital.com/ccleaner)
 * Offices
 * [Partner Program](https://www.ccleaner.com/partners)
