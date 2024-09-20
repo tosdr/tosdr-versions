@@ -328,7 +328,7 @@ This Privacy Policy is effective as of March 1, 2024.
 Double Your Impact
 
 **Today Only  
-$10,000 Match  
+$10,000 DOUBLE Match  
 [Donate Now!](https://freespeech.org/donate-all/?utm_source=email9.19.popup)**
 
 [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20532%2080'%3E%3C/svg%3E)
