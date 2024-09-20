@@ -555,6 +555,10 @@ MENU MENU
     [Press Releases](https://home.treasury.gov/news/press-releases)
     ---------------------------------------------------------------
     
+    September 20, 2024
+    
+    [Inter-Agency Working Group Releases New Report on Treasury Market Resilience Efforts](https://home.treasury.gov/news/press-releases/jy2593)
+    
     September 19, 2024
     
     [Treasury Targets Key Actors in Sanctions Evasion Scheme to Support Russia and North Korea](https://home.treasury.gov/news/press-releases/jy2590)
@@ -562,10 +566,6 @@ MENU MENU
     September 18, 2024
     
     [Treasury International Capital Data for July](https://home.treasury.gov/news/press-releases/jy2588)
-    
-    September 18, 2024
-    
-    [Treasury Sanctions Iranian Officials Connected to Human Rights Violations](https://home.treasury.gov/news/press-releases/jy2587)
     
     [View All Press Releases](https://home.treasury.gov/news/press-releases "View all Press Releases")
     
