@@ -228,11 +228,11 @@ It's Not News, It's Fark
 
 [Report](https://www.fark.com/farkback/)
 
-If you like these links, you'll love
+Can't get enough Fark in your life? Try
 
 ![TotalFark](https://img.fark.net/images/2017/site/totalfark_logo_2017.png)
 
-Come for the Total, stay for the Farking.
+More threads. More community. More Farking.
 
 [learn more](https://www.fark.com/farq/about/#What_is_TotalFark) | [sign up](https://www.fark.com/totalfarksignup)
 
@@ -332,16 +332,16 @@ Also on Fark
 
 |     |     |
 | --- | --- |
-| [Main](https://www.fark.com/) | [Fark ready headline: Sex-crazed seniors are responsible for an "alarming" STI epidemic - here are the horniest states](https://www.fark.com/goto/13399832) ( [nypost.com](https://www.fark.com/goto/13399832) ) » [(33 comments)](https://www.fark.com/comments/13399832/Fark-ready-headline-Sex-crazed-seniors-are-responsible-for-an-alarming-STI-epidemic-here-are-horniest-states) |
-| [Discussion](https://www.fark.com/discussion/) | [Awesome Terrible Movie: No Holds Barred](https://www.fark.com/goto/13399738) ( [awesometerriblemovie.com](https://www.fark.com/goto/13399738) ) » [(4 comments)](https://www.fark.com/comments/13399738/Awesome-Terrible-Movie-No-Holds-Barred) |
-| [Sports](https://www.fark.com/sports/) | [First half of the subway series clinches an AL playoff spot](https://www.fark.com/goto/13399256) ( [cbssports.com](https://www.fark.com/goto/13399256) ) » [(2 comments)](https://www.fark.com/comments/13399256/First-half-of-subway-series-clinches-an-AL-playoff-spot) |
-| [Business](https://www.fark.com/business/) | [FAA: We don't have enough time to review and approve these changes you've requested. SpaceX: Well then, we'll just do them anyway. FAA: Fine. I mean, fines. SpaceX: Suits. I mean, lawsuits](https://www.fark.com/goto/13399062) ( [spacenews.com](https://www.fark.com/goto/13399062) ) » [(3 comments)](https://www.fark.com/comments/13399062/FAA-We-dont-have-enough-time-to-review-approve-these-changes-youve-requested-SpaceX-Well-then-well-just-do-them-anyway-FAA-Fine-I-mean-fines-SpaceX-Suits-I-mean-lawsuits) |
-| [STEM](https://www.fark.com/stem/) | [Microsoft has released Windows App, a unified gateway to Windows on Windows, macOS, iOS, Android, and web browsers. Also, though less advertised, it is an excellent way to use Teams on your personal device and bypass corporate policies with ease](https://www.fark.com/goto/13399412) ( [theverge.com](https://www.fark.com/goto/13399412) ) » [(1 comment)](https://www.fark.com/comments/13399412/Microsoft-has-released-Windows-App-a-unified-gateway-to-Windows-on-Windows-macOS-iOS-Android-web-browsers-Also-though-less-advertised-it-is-an-excellent-way-to-use-Teams-on-your-personal-device-bypass-corporate-policies-with-ease) |
-| [Entertainment](https://www.fark.com/entertainment/) | ["You never forget the first piece of hate mail you get from a Jeopardy contestant"](https://www.fark.com/goto/13399106) ( [slate.com](https://www.fark.com/goto/13399106) ) » [(2 comments)](https://www.fark.com/comments/13399106/You-never-forget-first-piece-of-hate-mail-you-get-from-a-Jeopardy-contestant) |
-| [Fandom](https://www.fark.com/fandom/) | [It might not be a Tuesday but Cinema Sins finally gets to the greatest movie ever made. Subby should know, he saw it in theaters and joined in on laughing at the parts you weren't supposed to laugh at](https://www.fark.com/goto/13399548) ( [youtube.com](https://www.fark.com/goto/13399548) ) » [(4 comments)](https://www.fark.com/comments/13399548/It-might-not-be-a-Tuesday-but-Cinema-Sins-finally-gets-to-greatest-movie-ever-made-Subby-should-know-he-saw-it-in-theaters-joined-in-on-laughing-at-parts-you-werent-supposed-to-laugh-at) |
-| [D'awww](https://www.fark.com/dawww/) | [Chinese zoo visitors realise 'pandas' are living the ruff life as painted DOGS, slam zoo after they start barking](https://www.fark.com/goto/13399766) ( [thescottishsun.co.uk](https://www.fark.com/goto/13399766) ) » [(0 comments)](https://www.fark.com/comments/13399766/Chinese-zoo-visitors-realise-pandas-are-living-ruff-life-as-painted-DOGS-slam-zoo-after-they-start-barking) |
-| [Food](https://www.fark.com/food/) | [M&M's unveils a new peanut butter and jelly flavor. Given the color of peanut butter, there will always be brown ones much to Van Halen's chagrin](https://www.fark.com/goto/13399728) ( [yahoo.com](https://www.fark.com/goto/13399728) ) » [(8 comments)](https://www.fark.com/comments/13399728/MMs-unveils-a-new-peanut-butter-jelly-flavor-Given-color-of-peanut-butter-there-will-always-be-brown-ones-much-to-Van-Halens-chagrin) |
-| [Politics](https://www.fark.com/politics/) | [Papa Gaga says vote for Dumb-Dumb](https://www.fark.com/goto/13399758) ( [independent.co.uk](https://www.fark.com/goto/13399758) ) » [(8 comments)](https://www.fark.com/comments/13399758/Papa-Gaga-says-vote-for-Dumb-Dumb) |
+| [Main](https://www.fark.com/) | ["You can visualize, as he is coming forward, the bridge is collapsing behind him." You can visualize, as his lawsuit gets filed, the owner and manager of the Dali collapsing](https://www.fark.com/goto/13400050) ( [wtop.com](https://www.fark.com/goto/13400050) ) » [(0 comments)](https://www.fark.com/comments/13400050/You-can-visualize-as-he-is-coming-forward-bridge-is-collapsing-behind-him-You-can-visualize-as-his-lawsuit-gets-filed-owner-manager-of-Dali-collapsing) |
+| [Discussion](https://www.fark.com/discussion/) | [Are you suffering from gramnesia?](https://www.fark.com/goto/13399542) ( [huffpost.com](https://www.fark.com/goto/13399542) ) » [(6 comments)](https://www.fark.com/comments/13399542/Are-you-suffering-from-gramnesia) |
+| [Sports](https://www.fark.com/sports/) | [Look ma No Pads](https://www.fark.com/goto/13399946) ( [youtube.com](https://www.fark.com/goto/13399946) ) » [(0 comments)](https://www.fark.com/comments/13399946/Look-ma-No-Pads) |
+| [Business](https://www.fark.com/business/) | [He founded GM, made Buick a success, invented the car dealer franchise system, and died flat broke](https://www.fark.com/goto/13399512) ( [jalopnik.com](https://www.fark.com/goto/13399512) ) » [(0 comments)](https://www.fark.com/comments/13399512/He-founded-GM-made-Buick-a-success-invented-car-dealer-franchise-system-died-flat-broke) |
+| [STEM](https://www.fark.com/stem/) | [The AC-130 is keeping its airborne Howitzer. Ghostrider, the pattern is destroyed](https://www.fark.com/goto/13399786) ( [yahoo.com](https://www.fark.com/goto/13399786) ) » [(0 comments)](https://www.fark.com/comments/13399786/The-AC-130-is-keeping-its-airborne-Howitzer-Ghostrider-pattern-is-destroyed) |
+| [Entertainment](https://www.fark.com/entertainment/) | [Thanks to one terrible mistake, "The Golden Bachelorette" is now ruined. RUINED FOREVER](https://www.fark.com/goto/13399584) ( [slate.com](https://www.fark.com/goto/13399584) ) » [(1 comment)](https://www.fark.com/comments/13399584/Thanks-to-one-terrible-mistake-The-Golden-Bachelorette-is-now-ruined-RUINED-FOREVER) |
+| [Fandom](https://www.fark.com/fandom/) | [Activision, clearly the greediest game company in his--Bethesda: hold my Nuka Cola. I'm taking your caps. All of them](https://www.fark.com/goto/13399480) ( [windowscentral.com](https://www.fark.com/goto/13399480) ) » [(3 comments)](https://www.fark.com/comments/13399480/Activision-clearly-greediest-game-company-in-his-Bethesda-hold-my-Nuka-Cola-Im-taking-your-caps-All-of-them) |
+| [D'awww](https://www.fark.com/dawww/) | [There's enough cat cafes, so let's have a dog cafe in Paris called Le Bone Appart](https://www.fark.com/goto/13399914) ( [aol.com](https://www.fark.com/goto/13399914) ) » [(0 comments)](https://www.fark.com/comments/13399914/Theres-enough-cat-cafes-so-lets-have-a-dog-cafe-in-Paris-called-Le-Bone-Appart) |
+| [Food](https://www.fark.com/food/) | [M&M's unveils a new peanut butter and jelly flavor. Given the color of peanut butter, there will always be brown ones much to Van Halen's chagrin](https://www.fark.com/goto/13399728) ( [yahoo.com](https://www.fark.com/goto/13399728) ) » [(24 comments)](https://www.fark.com/comments/13399728/MMs-unveils-a-new-peanut-butter-jelly-flavor-Given-color-of-peanut-butter-there-will-always-be-brown-ones-much-to-Van-Halens-chagrin) |
+| [Politics](https://www.fark.com/politics/) | [Pop quiz: Who am I referring to? "Thought he couldn't get worse? You'd be wrong"](https://www.fark.com/goto/13399750) ( [yahoo.com](https://www.fark.com/goto/13399750) ) » [(4 comments)](https://www.fark.com/comments/13399750/Pop-quiz-Who-am-I-referring-to-Thought-he-couldnt-get-worse-Youd-be-wrong) |
 
 * Fark :: [Main](https://www.fark.com/) | [Discussion](https://www.fark.com/discussion/) | [Sports](https://www.fark.com/sports/) | [Business](https://www.fark.com/business/) | [STEM](https://www.fark.com/stem/) | [Entertainment](https://www.fark.com/entertainment/) | [Fandom](https://www.fark.com/fandom/) | [D'awww](https://www.fark.com/dawww/) | [Food](https://www.fark.com/food/) | [Politics](https://www.fark.com/politics/)
 * Total Fark :: [TotalFark](https://total.fark.com/) | [TF Live](https://total.fark.com/live/) | [TF Advice](https://total.fark.com/advice/) | [TF Discussion](https://total.fark.com/tfdiscussion/) | [Commented](https://total.fark.com/commented/) | [Top Voted](https://total.fark.com/linkvote/) | [Greenlit](https://total.fark.com/greenlit/)
@@ -351,7 +351,7 @@ Also on Fark
 
 [Submit a Link »](https://www.fark.com/submit/)
 
-Copyright © 1999 - 2024 Fark, Inc | Last updated: Sep 19 2024 20:43:38  
+Copyright © 1999 - 2024 Fark, Inc | Last updated: Sep 20 2024 02:43:12  
 [Contact Us via Farkback](https://www.fark.com/farkback)  |  [Report a bug/error msg](https://www.fark.com/farkback/error)  |  [Terms of service/legal/privacy policy](https://www.fark.com/farq/legal)  |  [Do Not Sell or Share My Personal Information](javascript:void(0))  
 ![](https://www.fark.com/ll)
 
