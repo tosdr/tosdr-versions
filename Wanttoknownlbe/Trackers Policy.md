@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/hoofdartikelen/jaarhoroscoop-2023-de-transitie/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/economie/het-doel-van-de-wereldwijde-valse-vlag-operaties/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
