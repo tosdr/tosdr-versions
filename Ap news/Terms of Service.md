@@ -12,9 +12,9 @@ Menu
     
     TOP STORIES
     
-    * [Hezbollah leader vows retaliation against Israel for attacks on devices as both sides trade strikes](https://apnews.com/article/israel-lebanon-exploding-devices-hezbollah-mideast-ab2436cf5bae5e2fe2dddb293671a0ac)
     * [Thousands of exploding devices in Lebanon trigger a nation that has been on edge for years](https://apnews.com/article/lebanon-pagers-hezbollahexplosion-israel-beirut-port-6c51ff6c743ba63154b95790357d31df)
-    * [Western nations were desperate for Korean babies. Now many adoptees believe they were stolen](https://apnews.com/article/south-korean-adoptions-investigation-united-states-europe-67d6bb03fddede7dcca199c2e3cd486e)
+    * [Israeli official says Israel targeted a senior Hezbollah military official in Beirut airstrike](https://apnews.com/article/israel-hezbollah-rocket-attack-mideast-tensions-a6a95169a21b45dc86d86182e255fa7e)
+    * [Woman whose firm was linked to the exploding pagers is under Hungarian protection, her mother says](https://apnews.com/article/hungarian-company-lebanon-5b1e0fef6b7c0e2a4c0c5b4655bbca61)
     
     Newsletters
     
@@ -30,9 +30,9 @@ Menu
     
     TOP STORIES
     
-    * [Kentucky sheriff charged in killing of judge at courthouse](https://apnews.com/article/courthouse-shooting-kentucky-f93419fff14202a88e28b5ea49b26810)
+    * [Kentucky sheriff charged in judge's death allegedly ignored deputy's abuse of woman in his chambers](https://apnews.com/article/kentucky-sheriff-judge-courthouse-shooting-d8df59f414023489527e9aef49f4c8cf)
+    * [A new life is proposed for Three Mile Island supplying power to Microsoft data centers](https://apnews.com/article/three-mile-island-nuclear-power-microsoft-8f47ba63a7aab8831a7805dfde0e2c39)
     * [White officer who fatally shot Black man shouldn't have been in his backyard, judge rules in suit](https://apnews.com/article/exkansas-city-detective-wrongful-death-lawsuit-59a7e2b9fa8c512969608d52bd94fab3)
-    * [Senator's son to appear in court to change plea in North Dakota deputy's crash death](https://apnews.com/article/north-dakota-ian-cramer-kevin-cramer-f60fccd24b401cf68dca2bd39e13e72f)
     
     Newsletters
     
@@ -72,9 +72,9 @@ Menu
     
     TOP STORIES
     
+    * [Supreme Court leaves Green Party presidential candidate Jill Stein off the ballot in Nevada](https://apnews.com/article/trump-election-nevada-supreme-court-president-153b22ae5f41fe66f578ce430e878624)
+    * [Harris focusing on personal stories as she campaigns on abortion rights](https://apnews.com/article/harris-election-abortion-rights-georgia-amber-thurman-5ba5dabf0dc3c98de12389c34b47475d)
     * [Seeking to counter China, US awards $3 billion for EV battery production in 14 states](https://apnews.com/article/ev-batteries-lithium-biden-harris-china-3eaa57b34878a23dd55fe167eb8095f2)
-    * [Voters split on whether Harris or Trump would do a better job on the economy: AP-NORC poll](https://apnews.com/article/harris-trump-economy-poll-inflation-dc80ac9e5d7da42900762910d5f0a283)
-    * [The politics of immigration play differently along the US-Mexico border](https://apnews.com/article/immigration-border-town-us-mexico-7b0e02f167bb6d01159f2fda80566752)
     
     Newsletters
     
@@ -92,9 +92,9 @@ Menu
     
     TOP STORIES
     
+    * [Ohtani keeps showing a flair for the dramatic during his historic 1st season with the Dodgers](https://apnews.com/article/shohei-ohtani-dodgers-history-54d98e25e093a2041eb566261ad59b93)
     * [Shohei Ohtani surpasses 50-50 milestone in spectacular fashion with a 3-homer, 2-steal game](https://apnews.com/article/dodgers-shohei-ohtani-f8141d695112175fc2b695a0e9e748d9)
-    * [Rodgers sparkles in his first home start since his injury to lead Jets to 24-3 win over Patriots](https://apnews.com/article/patriots-jets-score-656da51d47c0e41b2d49fbf2d8dea068)
-    * [Why does Shohei Ohtani's 50-50 feat resonate so much in baseball?](https://apnews.com/article/ohtani-5050-dodgers-abde758525ac0e2a3f972c219092fc85)
+    * [Joel Embiid signs a 3-year, $193 million contract extension with the 76ers](https://apnews.com/article/joel-embiid-philadelphia-76ers-extension-b6e87d045eb34e62c5864495012f54a4)
     
     Newsletters
     
@@ -114,9 +114,9 @@ Menu
     
     TOP STORIES
     
-    * [French cult film 'La Haine' returns as hip-hop musical with tensions persisting in poor suburbs](https://apnews.com/article/la-haine-stage-musical-france-cult-film-8f35b88ea4c3a700c260deed3a4a27d6)
-    * [Movie Review: 'The Substance' is brilliantly disgusting and deranged](https://apnews.com/article/substance-demi-moore-review-ac324cb066b487b1ffe748d5b41a34ae)
-    * [Happy 50th 'SNL!' Here's a look back at the show's very first cast](https://apnews.com/article/saturday-night-live-snl-original-cast-7e6475d12a0be575c1f9825fc276a6a2)
+    * [50 years after 'The Power Broker,' Robert Caro's dreams are still coming true](https://apnews.com/article/robert-caro-power-broker-50-years-684b96ffb147edb8c1a1935687d2f7c0)
+    * [Music Review: Katy Perry returns with the uninspired and forgettable '143'](https://apnews.com/article/katy-perry-143-music-review-419ff9b2b01354518084c30b3b9d4fab)
+    * [JoJo was a teen sensation. At 33, she's found her voice again](https://apnews.com/article/jojo-joanna-levesque-memoir-book-over-influence-3824730b290c28037016cf80a0196ee7)
     
 * [Business](https://apnews.com/business)
     
@@ -128,7 +128,7 @@ Menu
     
     * [Seeking to counter China, US awards $3 billion for EV battery production in 14 states](https://apnews.com/article/ev-batteries-lithium-biden-harris-china-3eaa57b34878a23dd55fe167eb8095f2)
     * [At Google antitrust trial, documents say one thing. The tech giant's witnesses say different](https://apnews.com/article/google-antitrust-monopoly-ads-trial-f13bdceec0ed494973300b797f2f2990)
-    * [Biden says Fed made 'declaration of progress' with interest rate cut](https://apnews.com/article/joe-biden-economics-fed-harris-federal-reserve-29c3216e0b7f86f351adae8e0aef646a)
+    * [Nike names Elliott Hill as CEO, replacing John Donahoe](https://apnews.com/article/nike-new-ceo-elliott-hill-john-donahoe-6f439a3f5a62e9b2380aaf3e21c7e220)
     
 * [Science](https://apnews.com/science)
     
@@ -234,20 +234,20 @@ Menu
     
     TOP STORIES
     
-    * [Youth activists plan protests to demand action on climate as big events open in NYC](https://apnews.com/article/climate-protests-change-united-nations-climate-week-3c944a1d05d5bb4415c6b811bddc48b9)
+    * [Hotter summers are making high school football a fatal game for some players](https://apnews.com/article/high-school-football-heat-deaths-climate-change-2455ba5852d83f548754e44240abf99b)
+    * [Youth activists protest to demand action on climate as big events open in NYC](https://apnews.com/article/climate-protests-change-united-nations-climate-week-3c944a1d05d5bb4415c6b811bddc48b9)
     * [Brazil court drops a suspect in Amazon slayings of a British journalist and an Indigenous advocate](https://apnews.com/article/brazil-amazon-crime-dom-phillips-bruno-pereira-8d9a309c40a61d1a612fe9ef503e4e40)
-    * [Hallmarks of climate change seen in floods, fires and drought around the globe](https://apnews.com/article/climate-floods-drought-wildfires-05ed09c4c299effedb1d1ed0e4ee21c1)
     
 * [Health](https://apnews.com/health)
     
     TOP STORIES
     
+    * [US will let more people take methadone at home](https://apnews.com/article/methadone-opioids-addiction-treatment-6dc1634de4cdac06410149e6a1372e18)
     * [A new genetic analysis of animals in the Wuhan market in 2019 may help find COVID-19's origin](https://apnews.com/article/covid-origins-racoon-dog-lab-leak-05d573cfd019a20cb46d675af0c669dd)
     * [Two Georgia deaths are tied to abortion restrictions. Experts say abortion pills they took are safe](https://apnews.com/article/abortion-pills-georgia-mifepristone-misoprostol-kamala-harris-fd3c817f42ccc74b04d12450efb92f4a)
     * [Scientists show how pregnancy changes the brain in innumerable ways](https://apnews.com/article/pregnancy-brain-changes-mri-164b505abd05d3e5c9d93c0ef2953a80)
     * [Menopause can bring on dental problems, but you can protect your mouth](https://apnews.com/article/menopause-dental-dry-mouth-estrogen-414c39e119f4d3f17e9be289c9dd6914)
-    * [Florida hospitals ask immigrants about their legal status. Texas will try it next](https://apnews.com/article/immigration-hospitals-florida-texas-desantis-abbott-21faed1d4d1b984ea3557d09f22dab9d)
-    * [Scientists in South Africa say they have identified the first known outbreak of rabies in seals](https://apnews.com/article/seals-rabies-south-africa-environment-wildlife-faafc6b19a3e211853cd50952c5c802b)
+    * [A gold mining town in Congo has become an mpox hot spot as a new strain spreads](https://apnews.com/article/mpox-new-strain-outbreak-kamituga-eastern-congo-f9affb7a7d73c8c30daf296c51c920c7)
     
 * [Tech](https://apnews.com/technology)
     
@@ -269,17 +269,17 @@ Menu
     
     TOP STORIES
     
+    * [A night with Peter Cat Recording Co., the New Delhi band that's found global appeal](https://apnews.com/article/peter-cat-recording-co-interview-84526593feefea3e69953b95ed5c0c3d)
     * [Turkey wants to regulate Germany's beloved döner kebab street food](https://apnews.com/article/germany-turkey-doner-kebab-45c9582057c544935420e917c305f15a)
     * [Through two games, Giants offensive line has shown some improvement](https://apnews.com/article/ny-giants-offensive-line-2e9896ca93e8ba254028fc2abda6e77a)
-    * [This fund has launched some of the biggest names in fashion. It's marking 20 years](https://apnews.com/article/cfda-vogue-fashion-fund-20-years-0a80ae1f9d2827fd17358299149c4587)
     
 * [Religion](https://apnews.com/religion)
     
     TOP STORIES
     
-    * [Kamala Harris steps up outreach to Mormon voters in battleground Arizona](https://apnews.com/article/mormons-trump-harris-arizona-outreach-fcfc9c2a7438b8e8af16f9422e376b96)
-    * [These evangelicals are voting their values — by backing Kamala Harris](https://apnews.com/article/evangelicals-harris-trump-christians-vote-9d5cb379dc3c2fdb3f4954c556a29ec5)
-    * [Malaysian police detain CEO and other leaders of Islamic group as probe into child sex abuse widens](https://apnews.com/article/malaysia-islam-child-sexual-abuse-4bb3623bbd541f8e585018a839ff8f5a)
+    * [Pakistan suspends policemen applauded by locals for killing a blasphemy suspect](https://apnews.com/article/pakistan-blasphemy-police-killing-sindh-2132f74d29871990118de90e1abee02c)
+    * [Takeaways from AP's report on churches starting schools in voucher states](https://apnews.com/article/christian-education-new-church-schools-vouchers-05aa4ca5cb8e88ca08d5c23ee88e886d)
+    * [Vouchers ease start-up stress for churches seeing demand for more Christian schools](https://apnews.com/article/christian-education-new-church-schools-vouchers-12518eeab977b74847292c17fc0b7fe3)
     
     Newsletters
     
@@ -297,8 +297,8 @@ Menu
     * [Diez años sin respuestas en México. Los padres de los 43 desaparecidos de Ayotzinapa no se rinden](https://apnews.com/world-news/general-news-e7e00859ee3dc4dd12afd36c7e8f378b)
     * [La noche de la desaparición de 43 estudiantes en el sur de México, en la voz de un superviviente](https://apnews.com/world-news/general-news-29eaf6828082b471997025bf995674cd)
     * [AP Fotos: Las mejores fotos de la semana en América Latina](https://apnews.com/world-news/general-news-7801a02a6f4d9b28b964511fb7ecc752)
-    * [Líder de Hezbollah dice que detonaciones fueron "golpe severo" que cruzaron una "línea roja"](https://apnews.com/world-news/general-news-9f0fd437f64ccb1c7ba77bf98cb4c580)
-    * [Harris busca el impulso de Oprah como parte de su estrategia de medios digitales](https://apnews.com/politics/harris-busca-el-impulso-de-oprah-como-parte-de-su-estrategia-de-medios-digitales-84228a7a1a0085df0b42bf5af4e0cf08)
+    * [Israel ataca suburbio de Beirut luego de que Hezbollah azotó el norte de Israel con 140 cohetes](https://apnews.com/world-news/general-news-743b277e32d09199f5f38949f49307f1)
+    * [Alcalde de ciudad francesa se disculpa por comentarios que minimizan caso de violación en serie](https://apnews.com/world-news/general-news-758c63ee941c302ab08e89d5354cb1fc)
     
 * [AP Buyline Personal Finance](https://apnews.com/buyline-personal-finance/)
     
@@ -453,9 +453,9 @@ Submit Search
     
     TOP STORIES
     
-    * [Hezbollah leader vows retaliation against Israel for attacks on devices as both sides trade strikes](https://apnews.com/article/israel-lebanon-exploding-devices-hezbollah-mideast-ab2436cf5bae5e2fe2dddb293671a0ac)
     * [Thousands of exploding devices in Lebanon trigger a nation that has been on edge for years](https://apnews.com/article/lebanon-pagers-hezbollahexplosion-israel-beirut-port-6c51ff6c743ba63154b95790357d31df)
-    * [Western nations were desperate for Korean babies. Now many adoptees believe they were stolen](https://apnews.com/article/south-korean-adoptions-investigation-united-states-europe-67d6bb03fddede7dcca199c2e3cd486e)
+    * [Israeli official says Israel targeted a senior Hezbollah military official in Beirut airstrike](https://apnews.com/article/israel-hezbollah-rocket-attack-mideast-tensions-a6a95169a21b45dc86d86182e255fa7e)
+    * [Woman whose firm was linked to the exploding pagers is under Hungarian protection, her mother says](https://apnews.com/article/hungarian-company-lebanon-5b1e0fef6b7c0e2a4c0c5b4655bbca61)
     
     Newsletters
     
@@ -471,9 +471,9 @@ Submit Search
     
     TOP STORIES
     
-    * [Kentucky sheriff charged in killing of judge at courthouse](https://apnews.com/article/courthouse-shooting-kentucky-f93419fff14202a88e28b5ea49b26810)
+    * [Kentucky sheriff charged in judge's death allegedly ignored deputy's abuse of woman in his chambers](https://apnews.com/article/kentucky-sheriff-judge-courthouse-shooting-d8df59f414023489527e9aef49f4c8cf)
+    * [A new life is proposed for Three Mile Island supplying power to Microsoft data centers](https://apnews.com/article/three-mile-island-nuclear-power-microsoft-8f47ba63a7aab8831a7805dfde0e2c39)
     * [White officer who fatally shot Black man shouldn't have been in his backyard, judge rules in suit](https://apnews.com/article/exkansas-city-detective-wrongful-death-lawsuit-59a7e2b9fa8c512969608d52bd94fab3)
-    * [Senator's son to appear in court to change plea in North Dakota deputy's crash death](https://apnews.com/article/north-dakota-ian-cramer-kevin-cramer-f60fccd24b401cf68dca2bd39e13e72f)
     
     Newsletters
     
@@ -523,9 +523,9 @@ Submit Search
     
     TOP STORIES
     
+    * [Supreme Court leaves Green Party presidential candidate Jill Stein off the ballot in Nevada](https://apnews.com/article/trump-election-nevada-supreme-court-president-153b22ae5f41fe66f578ce430e878624)
+    * [Harris focusing on personal stories as she campaigns on abortion rights](https://apnews.com/article/harris-election-abortion-rights-georgia-amber-thurman-5ba5dabf0dc3c98de12389c34b47475d)
     * [Seeking to counter China, US awards $3 billion for EV battery production in 14 states](https://apnews.com/article/ev-batteries-lithium-biden-harris-china-3eaa57b34878a23dd55fe167eb8095f2)
-    * [Voters split on whether Harris or Trump would do a better job on the economy: AP-NORC poll](https://apnews.com/article/harris-trump-economy-poll-inflation-dc80ac9e5d7da42900762910d5f0a283)
-    * [The politics of immigration play differently along the US-Mexico border](https://apnews.com/article/immigration-border-town-us-mexico-7b0e02f167bb6d01159f2fda80566752)
     
     Newsletters
     
@@ -553,9 +553,9 @@ Submit Search
     
     TOP STORIES
     
+    * [Ohtani keeps showing a flair for the dramatic during his historic 1st season with the Dodgers](https://apnews.com/article/shohei-ohtani-dodgers-history-54d98e25e093a2041eb566261ad59b93)
     * [Shohei Ohtani surpasses 50-50 milestone in spectacular fashion with a 3-homer, 2-steal game](https://apnews.com/article/dodgers-shohei-ohtani-f8141d695112175fc2b695a0e9e748d9)
-    * [Rodgers sparkles in his first home start since his injury to lead Jets to 24-3 win over Patriots](https://apnews.com/article/patriots-jets-score-656da51d47c0e41b2d49fbf2d8dea068)
-    * [Why does Shohei Ohtani's 50-50 feat resonate so much in baseball?](https://apnews.com/article/ohtani-5050-dodgers-abde758525ac0e2a3f972c219092fc85)
+    * [Joel Embiid signs a 3-year, $193 million contract extension with the 76ers](https://apnews.com/article/joel-embiid-philadelphia-76ers-extension-b6e87d045eb34e62c5864495012f54a4)
     
     Newsletters
     
@@ -582,9 +582,9 @@ Submit Search
     
     TOP STORIES
     
-    * [French cult film 'La Haine' returns as hip-hop musical with tensions persisting in poor suburbs](https://apnews.com/article/la-haine-stage-musical-france-cult-film-8f35b88ea4c3a700c260deed3a4a27d6)
-    * [Movie Review: 'The Substance' is brilliantly disgusting and deranged](https://apnews.com/article/substance-demi-moore-review-ac324cb066b487b1ffe748d5b41a34ae)
-    * [Happy 50th 'SNL!' Here's a look back at the show's very first cast](https://apnews.com/article/saturday-night-live-snl-original-cast-7e6475d12a0be575c1f9825fc276a6a2)
+    * [50 years after 'The Power Broker,' Robert Caro's dreams are still coming true](https://apnews.com/article/robert-caro-power-broker-50-years-684b96ffb147edb8c1a1935687d2f7c0)
+    * [Music Review: Katy Perry returns with the uninspired and forgettable '143'](https://apnews.com/article/katy-perry-143-music-review-419ff9b2b01354518084c30b3b9d4fab)
+    * [JoJo was a teen sensation. At 33, she's found her voice again](https://apnews.com/article/jojo-joanna-levesque-memoir-book-over-influence-3824730b290c28037016cf80a0196ee7)
     
 * [Business](https://apnews.com/business)
     
@@ -600,7 +600,7 @@ Submit Search
     
     * [Seeking to counter China, US awards $3 billion for EV battery production in 14 states](https://apnews.com/article/ev-batteries-lithium-biden-harris-china-3eaa57b34878a23dd55fe167eb8095f2)
     * [At Google antitrust trial, documents say one thing. The tech giant's witnesses say different](https://apnews.com/article/google-antitrust-monopoly-ads-trial-f13bdceec0ed494973300b797f2f2990)
-    * [Biden says Fed made 'declaration of progress' with interest rate cut](https://apnews.com/article/joe-biden-economics-fed-harris-federal-reserve-29c3216e0b7f86f351adae8e0aef646a)
+    * [Nike names Elliott Hill as CEO, replacing John Donahoe](https://apnews.com/article/nike-new-ceo-elliott-hill-john-donahoe-6f439a3f5a62e9b2380aaf3e21c7e220)
     
 * [Science](https://apnews.com/science)
     
@@ -719,20 +719,20 @@ Submit Search
     
     TOP STORIES
     
-    * [Youth activists plan protests to demand action on climate as big events open in NYC](https://apnews.com/article/climate-protests-change-united-nations-climate-week-3c944a1d05d5bb4415c6b811bddc48b9)
+    * [Hotter summers are making high school football a fatal game for some players](https://apnews.com/article/high-school-football-heat-deaths-climate-change-2455ba5852d83f548754e44240abf99b)
+    * [Youth activists protest to demand action on climate as big events open in NYC](https://apnews.com/article/climate-protests-change-united-nations-climate-week-3c944a1d05d5bb4415c6b811bddc48b9)
     * [Brazil court drops a suspect in Amazon slayings of a British journalist and an Indigenous advocate](https://apnews.com/article/brazil-amazon-crime-dom-phillips-bruno-pereira-8d9a309c40a61d1a612fe9ef503e4e40)
-    * [Hallmarks of climate change seen in floods, fires and drought around the globe](https://apnews.com/article/climate-floods-drought-wildfires-05ed09c4c299effedb1d1ed0e4ee21c1)
     
 * [Health](https://apnews.com/health)
     
     TOP STORIES
     
+    * [US will let more people take methadone at home](https://apnews.com/article/methadone-opioids-addiction-treatment-6dc1634de4cdac06410149e6a1372e18)
     * [A new genetic analysis of animals in the Wuhan market in 2019 may help find COVID-19's origin](https://apnews.com/article/covid-origins-racoon-dog-lab-leak-05d573cfd019a20cb46d675af0c669dd)
     * [Two Georgia deaths are tied to abortion restrictions. Experts say abortion pills they took are safe](https://apnews.com/article/abortion-pills-georgia-mifepristone-misoprostol-kamala-harris-fd3c817f42ccc74b04d12450efb92f4a)
     * [Scientists show how pregnancy changes the brain in innumerable ways](https://apnews.com/article/pregnancy-brain-changes-mri-164b505abd05d3e5c9d93c0ef2953a80)
     * [Menopause can bring on dental problems, but you can protect your mouth](https://apnews.com/article/menopause-dental-dry-mouth-estrogen-414c39e119f4d3f17e9be289c9dd6914)
-    * [Florida hospitals ask immigrants about their legal status. Texas will try it next](https://apnews.com/article/immigration-hospitals-florida-texas-desantis-abbott-21faed1d4d1b984ea3557d09f22dab9d)
-    * [Scientists in South Africa say they have identified the first known outbreak of rabies in seals](https://apnews.com/article/seals-rabies-south-africa-environment-wildlife-faafc6b19a3e211853cd50952c5c802b)
+    * [A gold mining town in Congo has become an mpox hot spot as a new strain spreads](https://apnews.com/article/mpox-new-strain-outbreak-kamituga-eastern-congo-f9affb7a7d73c8c30daf296c51c920c7)
     
 * [Tech](https://apnews.com/technology)
     
@@ -765,17 +765,17 @@ Submit Search
     
     TOP STORIES
     
+    * [A night with Peter Cat Recording Co., the New Delhi band that's found global appeal](https://apnews.com/article/peter-cat-recording-co-interview-84526593feefea3e69953b95ed5c0c3d)
     * [Turkey wants to regulate Germany's beloved döner kebab street food](https://apnews.com/article/germany-turkey-doner-kebab-45c9582057c544935420e917c305f15a)
     * [Through two games, Giants offensive line has shown some improvement](https://apnews.com/article/ny-giants-offensive-line-2e9896ca93e8ba254028fc2abda6e77a)
-    * [This fund has launched some of the biggest names in fashion. It's marking 20 years](https://apnews.com/article/cfda-vogue-fashion-fund-20-years-0a80ae1f9d2827fd17358299149c4587)
     
 * [Religion](https://apnews.com/religion)
     
     TOP STORIES
     
-    * [Kamala Harris steps up outreach to Mormon voters in battleground Arizona](https://apnews.com/article/mormons-trump-harris-arizona-outreach-fcfc9c2a7438b8e8af16f9422e376b96)
-    * [These evangelicals are voting their values — by backing Kamala Harris](https://apnews.com/article/evangelicals-harris-trump-christians-vote-9d5cb379dc3c2fdb3f4954c556a29ec5)
-    * [Malaysian police detain CEO and other leaders of Islamic group as probe into child sex abuse widens](https://apnews.com/article/malaysia-islam-child-sexual-abuse-4bb3623bbd541f8e585018a839ff8f5a)
+    * [Pakistan suspends policemen applauded by locals for killing a blasphemy suspect](https://apnews.com/article/pakistan-blasphemy-police-killing-sindh-2132f74d29871990118de90e1abee02c)
+    * [Takeaways from AP's report on churches starting schools in voucher states](https://apnews.com/article/christian-education-new-church-schools-vouchers-05aa4ca5cb8e88ca08d5c23ee88e886d)
+    * [Vouchers ease start-up stress for churches seeing demand for more Christian schools](https://apnews.com/article/christian-education-new-church-schools-vouchers-12518eeab977b74847292c17fc0b7fe3)
     
     Newsletters
     
@@ -793,8 +793,8 @@ Submit Search
     * [Diez años sin respuestas en México. Los padres de los 43 desaparecidos de Ayotzinapa no se rinden](https://apnews.com/world-news/general-news-e7e00859ee3dc4dd12afd36c7e8f378b)
     * [La noche de la desaparición de 43 estudiantes en el sur de México, en la voz de un superviviente](https://apnews.com/world-news/general-news-29eaf6828082b471997025bf995674cd)
     * [AP Fotos: Las mejores fotos de la semana en América Latina](https://apnews.com/world-news/general-news-7801a02a6f4d9b28b964511fb7ecc752)
-    * [Líder de Hezbollah dice que detonaciones fueron "golpe severo" que cruzaron una "línea roja"](https://apnews.com/world-news/general-news-9f0fd437f64ccb1c7ba77bf98cb4c580)
-    * [Harris busca el impulso de Oprah como parte de su estrategia de medios digitales](https://apnews.com/politics/harris-busca-el-impulso-de-oprah-como-parte-de-su-estrategia-de-medios-digitales-84228a7a1a0085df0b42bf5af4e0cf08)
+    * [Israel ataca suburbio de Beirut luego de que Hezbollah azotó el norte de Israel con 140 cohetes](https://apnews.com/world-news/general-news-743b277e32d09199f5f38949f49307f1)
+    * [Alcalde de ciudad francesa se disculpa por comentarios que minimizan caso de violación en serie](https://apnews.com/world-news/general-news-758c63ee941c302ab08e89d5354cb1fc)
     
 * [AP Buyline Personal Finance](https://apnews.com/buyline-personal-finance/)
     
