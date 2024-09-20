@@ -26,7 +26,7 @@ Data Processing Agreement
   
   
 
-[Company](https://wasabi.com/legal/data-processing-agreement?__nextDataReq=1#)
+[Company](https://wasabi.com/legal/data-processing-agreement#)
 
 * [About Wasabi](https://wasabi.com/company)
     
@@ -50,7 +50,7 @@ Learn
     
 * [Blog](https://wasabi.com/blog)
     
-* [Case Studies](https://wasabi.com/resources?uat_wasabi_most_recent%5BrefinementList%5D%5BassetType%5D%5B0%5D=Case%20Study#jump)
+* [Case Studies](https://wasabi.com/resources/case-studies)
     
 * [Webinars](https://wasabi.com/webinars)
     
