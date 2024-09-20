@@ -6,7 +6,7 @@
     
     * [![Idle Games Icon](/sites/default/files/2022-05/Idle.svg)Idle](https://www.coolmathgames.com/1-idle-games)
     * [![Tower Defense Games Icon](/sites/default/files/2022-05/Tower-defense.svg)Tower Defense](https://www.coolmathgames.com/1-tower-defense-games)
-    * [![Business Games Icon](/sites/default/files/2023-10/Business.svg)Business](https://www.coolmathgames.com/1-business-games)
+    * [![Business Games Icon](/sites/default/files/2024-09/Business.svg)Business](https://www.coolmathgames.com/1-business-games)
     * [![Endless Puzzle Games Icon](/sites/default/files/2022-05/Endless-puzzles.svg)Endless Puzzle](https://www.coolmathgames.com/1-endless-puzzles-games)
     * [![Match 3 Games Icon](/sites/default/files/2022-05/Match3.svg)Match 3](https://www.coolmathgames.com/1-match-3-games)
     * [![Construction Games Icon](/sites/default/files/2022-05/Construction.svg)Construction](https://www.coolmathgames.com/1-construction-games)
@@ -34,8 +34,8 @@
     
 * [Logic](https://www.coolmathgames.com/1-logic-games)
     
-    * [![Block Removal Games Icon](/sites/default/files/2022-05/Block-removal.svg)Block Removal](https://www.coolmathgames.com/1-block-removal-games)
-    * [![Building Games Icon](/sites/default/files/2022-05/Building-blocks.svg)Building](https://www.coolmathgames.com/1-building-games)
+    * [![Block Removal Games Icon](/sites/default/files/2024-09/Block-removal.svg)Block Removal](https://www.coolmathgames.com/1-block-removal-games)
+    * [![Building Games Icon](/sites/default/files/2024-09/Building-blocks.svg)Building](https://www.coolmathgames.com/1-building-games)
     * [![Drawing Games Icon](/sites/default/files/2022-05/Drawing.svg)Drawing Games](https://www.coolmathgames.com/1-drawing-games)
     * [![Escape Games Icon](/sites/default/files/2022-10/Escape.svg)Escape](https://www.coolmathgames.com/1-escape-games)
     * [![Helping Games Icon](/sites/default/files/2022-12/Helping.svg)Helping](https://www.coolmathgames.com/1-helping-games)
@@ -46,8 +46,8 @@
     
 * [Classic](https://www.coolmathgames.com/1-classic-games)
     
-    * [![Board Games Icon](/sites/default/files/2022-11/Board-games.svg)Board](https://www.coolmathgames.com/1-board-games)
-    * [![Card Games Icon](/sites/default/files/2022-05/Card.svg)Card](https://www.coolmathgames.com/1-card-games)
+    * [![Board Games Icon](/sites/default/files/2024-09/Board-games.svg)Board](https://www.coolmathgames.com/1-board-games)
+    * [![Card Games Icon](/sites/default/files/2024-09/Card.svg)Card](https://www.coolmathgames.com/1-card-games)
     * [![Retro Games Icon](/sites/default/files/2023-04/Retro.svg)Retro](https://www.coolmathgames.com/1-retro-games)
     * [![Solitaire Games Icon](/sites/default/files/2023-10/Solitaire.svg)Solitaire](https://www.coolmathgames.com/1-solitaire-games)
     * [![8 Bit Games Icon](/sites/default/files/2024-09/8-bit.svg)8 Bit](https://www.coolmathgames.com/1-8-bit-games)
@@ -124,7 +124,7 @@
     
     * [![Idle Games Icon](/sites/default/files/2022-05/Idle.svg)Idle](https://www.coolmathgames.com/1-idle-games)
     * [![Tower Defense Games Icon](/sites/default/files/2022-05/Tower-defense.svg)Tower Defense](https://www.coolmathgames.com/1-tower-defense-games)
-    * [![Business Games Icon](/sites/default/files/2023-10/Business.svg)Business](https://www.coolmathgames.com/1-business-games)
+    * [![Business Games Icon](/sites/default/files/2024-09/Business.svg)Business](https://www.coolmathgames.com/1-business-games)
     * [![Endless Puzzle Games Icon](/sites/default/files/2022-05/Endless-puzzles.svg)Endless Puzzle](https://www.coolmathgames.com/1-endless-puzzles-games)
     * [![Match 3 Games Icon](/sites/default/files/2022-05/Match3.svg)Match 3](https://www.coolmathgames.com/1-match-3-games)
     * [![Construction Games Icon](/sites/default/files/2022-05/Construction.svg)Construction](https://www.coolmathgames.com/1-construction-games)
@@ -152,8 +152,8 @@
     
 * [![Logic Games Icon](/sites/default/files/2022-05/Logic.svg)Logic](https://www.coolmathgames.com/1-logic-games)
     
-    * [![Block Removal Games Icon](/sites/default/files/2022-05/Block-removal.svg)Block Removal](https://www.coolmathgames.com/1-block-removal-games)
-    * [![Building Games Icon](/sites/default/files/2022-05/Building-blocks.svg)Building](https://www.coolmathgames.com/1-building-games)
+    * [![Block Removal Games Icon](/sites/default/files/2024-09/Block-removal.svg)Block Removal](https://www.coolmathgames.com/1-block-removal-games)
+    * [![Building Games Icon](/sites/default/files/2024-09/Building-blocks.svg)Building](https://www.coolmathgames.com/1-building-games)
     * [![Drawing Games Icon](/sites/default/files/2022-05/Drawing.svg)Drawing](https://www.coolmathgames.com/1-drawing-games)
     * [![Escape Games Icon](/sites/default/files/2022-10/Escape.svg)Escape](https://www.coolmathgames.com/1-escape-games)
     * [![Helping Games Icon](/sites/default/files/2022-12/Helping.svg)Helping](https://www.coolmathgames.com/1-helping-games)
@@ -166,8 +166,8 @@
     
 * [![Classic Games Icon](/sites/default/files/2022-05/Classic.svg)Classic](https://www.coolmathgames.com/1-classic-games)
     
-    * [![Board Games Icon](/sites/default/files/2022-11/Board-games.svg)Board Games](https://www.coolmathgames.com/1-board-games)
-    * [![Card Games Icon](/sites/default/files/2022-05/Card.svg)Card Games](https://www.coolmathgames.com/1-card-games)
+    * [![Board Games Icon](/sites/default/files/2024-09/Board-games.svg)Board Games](https://www.coolmathgames.com/1-board-games)
+    * [![Card Games Icon](/sites/default/files/2024-09/Card.svg)Card Games](https://www.coolmathgames.com/1-card-games)
     * [![Retro Games Icon](/sites/default/files/2023-04/Retro.svg)Retro](https://www.coolmathgames.com/1-retro-games)
     * [![Solitaire Games Icon](/sites/default/files/2023-10/Solitaire.svg)Solitaire](https://www.coolmathgames.com/1-solitaire-games)
     * [![8 Bit Games Icon](/sites/default/files/2024-09/8-bit.svg)8 Bit](https://www.coolmathgames.com/1-8-bit-games)
