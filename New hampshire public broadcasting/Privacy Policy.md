@@ -184,14 +184,14 @@ NHPBS inspires one million Granite Staters each month with engaging and trusted 
 
 ###### LATEST VIDEO
 
-* [**Sneak Peek of Cimafunk at the 37th !** | Hispanic Heritage Awards](https://video.nhpbs.org/video/sneak-peek-of-cimafunk-at-the-37th-hispanic-heritage-awards-hqkf1g?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**Luis Roberto Clemente Receives Hispanic Heritage Award on Father's Behalf** | Hispanic Heritage Awards](https://video.nhpbs.org/video/luis-roberto-clemente-receives-hispanic-heritage-award-on-fathers-behalf-dxhudu?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**September 19, 2024 - full episode** | PBS News Hour](https://video.nhpbs.org/video/september-19-2024-pbs-news-hour-full-episode-1726718446?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Season 11: Extended Trailer** | Finding Your Roots](https://video.nhpbs.org/video/season-11-extended-trailer?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Inundation District Preview** | Local, USA](https://video.nhpbs.org/video/local-usa-inundation-district-preview?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Acadia's Beehive** | Windows to the Wild](https://video.nhpbs.org/video/windows-to-the-wild-acadias-beehive?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**Deep-sea mining raises concerns over impact on environment** | PBS News Hour](https://video.nhpbs.org/video/deep-sea-mining-1726695745?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**Lover of Men: The Untold History of Abraham Lincoln** | Flicks](https://video.nhpbs.org/video/lover-of-men-the-untold-history-of-abraham-lincoln-nojhgz?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**September 18, 2024** | Amanpour and Company](https://video.nhpbs.org/video/september-18-2024-dwjktc?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**First Look at : Earth's Extremes** | Weathered](https://video.nhpbs.org/video/first-look-at-weathered-earths-extremes-nto1mi?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**Lover of Men: The Untold History of Abraham Lincoln** | Flicks](https://video.nhpbs.org/video/lover-of-men-the-untold-history-of-abraham-lincoln-nojhgz?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**at the Met: Madama Butterfly Preview** | Great Performances](https://video.nhpbs.org/video/great-performances-at-the-met-madama-butterfly-preview-y8uuo5?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 
 **FCC Public File Info**: [WENH](https://publicfiles.fcc.gov/tv-profile/wenh-tv) | [WLED](https://publicfiles.fcc.gov/tv-profile/wled-tv) | [WEKW](https://publicfiles.fcc.gov/tv-profile/wekw-tv) | [EEO Public File Report](https://publicfiles.fcc.gov/tv-profile/wenh-tv/equal-employment-opportunity-records/additional-documents/eeo-public-file-reports/5d0f4964-7b9d-41c3-c658-a55a34730f8a/) | For assistance, please email [themailbox@nhpbs.org](mailto:themailbox@nhpbs.org)
