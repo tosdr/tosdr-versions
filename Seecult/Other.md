@@ -273,6 +273,18 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
     
     [https://vymaps.com/RS/BLOK-Galerija-257820474917997/](https://vymaps.com/RS/BLOK-Galerija-257820474917997/)
     
+    [09:00 Lavirint devedesetih, SA](javascript:void(0);)
+    
+    **24.05.2024 | 09:00**
+    
+    Historijski muzej Bosne i Hercegovine, Zmaja od Bosne 5, Sarajevo
+    
+    **LAVIRINT DEVEDESETIH** - izložba (23.5.-15.10.2024.)
+    
+    autorski tim: Dubravka Stojanović, Igor Štiks, Dejan Ubović
+    
+    [https://museum90.com](https://museum90.com/)
+    
     [10:00 Ozvezdja mnogoterih želja: ob vzhodnem obzorju, LJ](javascript:void(0);)
     
     **24.05.2024 | 10:00**
@@ -307,26 +319,14 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
     
     [https://www.mg-lj.si/si/razstave/3931/ozvezdja-mnogoterih-zelja-ob-vzhodnem-obzo...](https://www.mg-lj.si/si/razstave/3931/ozvezdja-mnogoterih-zelja-ob-vzhodnem-obzorju)
     
-    [10:00 Zdravko Pečar, BG](javascript:void(0);)
-    
-    **26.05.2024 | 10:00**
-    
-    Muzej afričke umetnosti, Andre Nikolića 14, Beograd
-    
-    **ZDRAVKO PEČAR: (AUTO)PORTRETI** - izložba (25.5.-29.9.2024.)
-    
-    Urednici kataloga i kustosi izložbe: dr Nemanja Radonjić, Emilia Epštajn, Ana Knežević
-    
-    [http://www.mau.rs/sr](http://www.mau.rs/sr)
-    
 
 [Galerija umetnika](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")[](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/zoran-popovic-escapism/zoran-popovic-fotografije/photos/jesadenegri-jasnatijardovic-belgrade.jpg?itok=NLQMDiad)](http://seecult.org/galerija/galerija-umetnika/zoran-popovic-escapism/zoran-popovic-fotografije-photos)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/galerija-talenata/godisnja-izlozba-studenata-flu-beograd/flu-studenti4.jpg?itok=-Sm_S3hY)](http://seecult.org/galerija/galerija-umetnika/galerija-talenata/godisnja-izlozba-studenata-flu-beograd-20122013)
 
 [Foto galerija](http://seecult.org/galerija/foto-galerija "Foto galerija")[](http://seecult.org/galerija/foto-galerija "Foto galerija")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/sizve-banzi.jpg?itok=wZBZVXoD)](http://seecult.org/galerija/foto-galerija/foto-arhiva)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/ivan-kutuzovzmfk.jpg?itok=lYTefkXA)](http://seecult.org/galerija/foto-galerija/foto-arhiva)
 
 * [Najčitanije](#news_1)
 * [Najnovije](#news_2)
@@ -342,6 +342,8 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 * [Preminula Jasna Tijardović Popović](http://seecult.org/vest/preminula-jasna-tijardovic-popovic)
 * [Najuži izbor za NIN-ovu nagradu za 2022.](http://seecult.org/vest/najuzi-izbor-za-nin-ovu-nagradu-za-2022)
 
+* [60\. Oktobarski salon – Šta ostaje?](http://seecult.org/vest/60-oktobarski-salon-sta-ostaje)
+* [Preminula Radmila Živković](http://seecult.org/vest/preminula-radmila-zivkovic)
 * [Serđo i Pjetro Kastelito gosti Italijansko-srpskog festivala](http://seecult.org/vest/serdo-i-pjetro-kastelito-gosti-italijansko-srpskog-festivala)
 * [Ekološki aktivizam za kraj 7 veličanstvenih](http://seecult.org/vest/ekoloski-aktivizam-za-kraj-7-velicanstvenih)
 * [Berlinsko izdanje Import/Export - Tanja Ostojić, Ivana Ranisavljević...](http://seecult.org/vest/berlinsko-izdanje-importexport-tanja-ostojic-ivana-ranisavljevic)
@@ -350,8 +352,6 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 * [Retrospektiva Dobrice Bisenića](http://seecult.org/vest/retrospektiva-dobrice-bisenica)
 * [Povelja Zmajevih dečjih igara Jasminki Petrović](http://seecult.org/vest/povelja-zmajevih-decjih-igara-jasminki-petrovic)
 * [40 godina Zvezdara teatra - slobodnog pozorišta](http://seecult.org/vest/40-godina-zvezdara-teatra-slobodnog-pozorista)
-* [Urban režira Majstora i Margaritu](http://seecult.org/vest/urban-rezira-majstora-i-margaritu)
-* [Mateja Nikolić dobitnik nagrade Neda Depolo](http://seecult.org/vest/mateja-nikolic-dobitnik-nagrade-neda-depolo)
 
 * [Konkursi](#tab1_1)
 
