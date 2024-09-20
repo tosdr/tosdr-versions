@@ -242,6 +242,8 @@ Join us and share the message of reuse
 * [Instagram](https://instagram.com/jococups)
 * [Facebook](https://facebook.com/jococups)
 
+[Designed from leading knowledge, the Lux delivers ![Designed from leading knowledge, the Lux delivers the optimal drinking experience for lovers of a good brew #stackable #lux #6pack #coldbrew #filteredcoffee](https://jococups.com/usa/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/DAHp2T-SWm9/) 
+
 [Architecture for the perfect pour #luxglass #boros ![Architecture for the perfect pour #luxglass #borosilicateglass #6oz #whisky #Latte #tea](https://jococups.com/usa/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/DACoeweyFvP/) 
 
 [Coffee: the ultimate wingman ☕️ #vibe #coffee ![Coffee: the ultimate wingman ☕️ #vibe #coffee #friends #wingman](https://jococups.com/usa/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/DAASd1hSI7E/) 
@@ -252,8 +254,6 @@ Join us and share the message of reuse
 The hand-crafted Italian wood lid is non-porous, naturally antibacterial and odour resistant. An engineered twist-lock seal instils confidence to stash and stow while providing easy access to your daily hydration. #handcrafted #plasticfree](https://jococups.com/usa/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/C_PWRkVSzGK/) 
 
 [Trending.. This Springs latests fashion tips 2024. ![Trending.. This Springs latests fashion tips 2024.. Its all about neutral.. #neutral #sandstone #fashion #style #springfashion](https://jococups.com/usa/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/C_J3NF9SAAw/) 
-
-["Sippin' on sunshine and coffee." #4oz #coffee #cl !["Sippin' on sunshine and coffee." #4oz #coffee #classic #style #fashion #love](https://jococups.com/usa/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/C-6yK3FyajJ/) 
 
 Keep informed on new releases and subscriber exclusives
 
