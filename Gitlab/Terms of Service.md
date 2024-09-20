@@ -882,6 +882,8 @@
                         * [ ]  [Data model for Dependencies Information](https://handbook.gitlab.com/handbook/engineering/development/sec/secure/tech-docs/data-model-for-dependencies-information/)
                         * [ ]  [Secure Architecture - Feedback (Dismiss, create an issue or a Merge Request)](https://handbook.gitlab.com/handbook/engineering/development/sec/secure/tech-docs/feedback/)
                     * [ ]  [Secure, Composition Analysis](https://handbook.gitlab.com/handbook/engineering/development/sec/secure/composition-analysis/)
+                        * [ ]  [Composition Analysis Runbooks](https://handbook.gitlab.com/handbook/engineering/development/sec/secure/composition-analysis/runbooks/)
+                            * [ ]  [Enable Semver Dialect Errors in Sentry](https://handbook.gitlab.com/handbook/engineering/development/sec/secure/composition-analysis/runbooks/semver-dialect-errors-in-sentry/)
                     * [ ]  [Secure, Vulnerability Research](https://handbook.gitlab.com/handbook/engineering/development/sec/secure/vulnerability-research/)
                         * [ ]  [Secure, Vulnerability Research - CNA Processes](https://handbook.gitlab.com/handbook/engineering/development/sec/secure/vulnerability-research/cna/)
                     * [ ]  [Static Analysis Group](https://handbook.gitlab.com/handbook/engineering/development/sec/secure/static-analysis/)
