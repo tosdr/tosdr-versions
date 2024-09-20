@@ -1,7 +1,5 @@
 * [Skip to content](#content-anchor)
 
-Install App
-
 * [Search](https://www.101soundboards.com/search) Find a sound
 * [Funny](https://www.101soundboards.com/?sort=funny#sort_filters) Funny sounds
 * [Topics](#collapseCategoriesSidebar) Topics
@@ -37,7 +35,7 @@ Install App
 * [Popular](https://www.101soundboards.com/?sort=hits_recent#sort_filters) Most Popular boards
 * [Viral](https://www.101soundboards.com/?sort=viral#sort_filters) Viral boards
 
- ![](/img/hamburger.svg)[![101soundboards.com — Have Fun Playing Sound Clips site logo. Click to return to homepage](https://www.101soundboards.com/img/101soundboards-logo.svg)](https://www.101soundboards.com/)
+ ![](/img/hamburger.svg)[![Logo with soundwave icon in orange and blue on the left, and bold text 101SOUNDBOARDS.COM on a light blue background to the right](https://www.101soundboards.com/img/101soundboards-logo.svg "Click to return to homepage")](https://www.101soundboards.com/)
 
 [* Home](https://www.101soundboards.com/)[* Search](https://www.101soundboards.com/search)[* Funny](https://www.101soundboards.com/featured/funny#sort_filters)[* Hot](https://www.101soundboards.com/featured/hot#sort_filters)[* Popular](https://www.101soundboards.com/featured/popular#sort_filters)[* Categories](https://www.101soundboards.com/tags)[* AI Voices](https://www.101soundboards.com/tts)[* New](https://www.101soundboards.com/featured/created#sort_filters)[* Help](https://www.101soundboards.com/pages/about)* More
     
@@ -205,7 +203,7 @@ To get your free download credits, you need to watch the short advert. Please ju
 
 ##### How can I report a sound?
 
-Please use the [contact form](https://www.101soundboards.com/pages/contact) and send a link to the sound.
+Right-click (press and hold on mobile) then press Report.
 
 ##### How can I convert a Flash soundboard to a 101 Soundboard?
 
