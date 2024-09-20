@@ -30,8 +30,6 @@ Edited
 
 16 stars
 
-More from Observable creators
-
 ### One platform to build and deploy the best data apps
 
 Experiment and prototype by building visualizations in live JavaScript notebooks. Collaborate with your team and decide which concepts to build out.
