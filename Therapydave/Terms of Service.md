@@ -151,7 +151,7 @@ Contact Information
 
 If you have any questions or concerns about this Agreement, please contact us at 2440 Willamette Street, Suite 101-C, Eugene, Oregon, 97405 or by phone at 541-705-4666.
 
-_“I used to feel like a complete mess. I was starting to lose myself and everyone else that I cared about. After working with Dave, I learned how to be mindful and talk myself out of my spiral of endless worry. I don’t feel so completely lost or crazy. Instead, I feel more normal, more at peace. I’m not totally fighting myself at every turn.”_
+_“Dave asks questions that get to the root of the problem but doesn't stop there. He offers suggestions, options or will discuss pros and cons about solutions you might have in mind. He researches things and always gets back to you with an answer.”_
 
 [Get Started Now](https://therapydave.com/therapist-appointments/)
 
