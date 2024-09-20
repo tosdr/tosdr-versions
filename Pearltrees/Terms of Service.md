@@ -12,7 +12,7 @@ These terms of use cover the public version of Pearltrees. You can also access t
 1.      Legal information
 -------------------------
 
-These Terms and Conditions (the “**T&Cs**”) are proposed by BROCELIAND (“**Pearltrees**”), a French Joint Stock Company with a share capital of 685 442,20 euros registered in Paris, France under no. 504 599 267 with a registered address at 129 Boulevard Saint Germain, 75006 Paris, France.
+These Terms and Conditions (the “**T&Cs**”) are proposed by BROCELIAND (“**Pearltrees**”), a French Joint Stock Company with a share capital of 685 442,20 euros registered in Paris, France under no. 504 599 267 with a registered address at 129 Boulevard Saint-Germain, 75006 Paris, France.
 
 Pearltrees can be contacted at the following e-mail address: [contact@pearltrees.com](mailto:contact@pearltrees.com).
 
@@ -165,7 +165,7 @@ Similarly, although Pearltrees does everything possible to ensure the security o
 
 In its capacity as the host as per France’s law no. 2004-575 of 21 June 2004 for promoting trust in the digital economy (“LCEN”), Pearltrees must withdraw any content that is clearly unlawful and that is notified to it in keeping with the formalities laid down by article 6-1-5 LCEN.
 
-Should Users detect any clearly unlawful content while browsing the Account, they should report the content to Pearltrees by sending a notification to [legal@pearltreees.com](mailto:legal@pearltreees.com)
+Should Users detect any clearly unlawful content while browsing the Account, they should report the content to Pearltrees by sending a notification to [legal@pearltrees.com](mailto:legal@pearltrees.com)
 
 Pearltrees undertakes to promptly de-reference the content that is reported, if it is clearly illicit and the alert notification comprises the following elements:
 
