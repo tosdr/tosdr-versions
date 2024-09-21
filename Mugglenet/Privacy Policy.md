@@ -288,11 +288,11 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-Ginny Weasley’s full first name is Ginevra, not Virginia.
+So many fans visit King’s Cross Station to take pictures of Platforms 9 and 10 that the station management erected a sign that says “Platform 9 3/4,” which, in the Harry Potter books, is invisible to Muggles but acts as a gateway for witches and wizards.
 
 ### Potter History
 
-February 25, 2005 – Bad weather plagued the filming of Goblet of Fire and delayed production.
+July 21, 2007 – Harry Potter and the Deathly Hallows is released to the world.
 
 ### Potter Quote
 
