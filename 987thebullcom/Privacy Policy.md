@@ -347,11 +347,11 @@ Recently Played
 
 |     |
 | --- |
-| Lies, Lies, LiesMorgan Wallen<br><br>10:22pm |
-| Need A FavorJelly Roll<br><br>10:18pm |
-| Memory I Don'T Mess WithLee Brice<br><br>10:15pm |
-| Wind Up Missing YouTucker Wetmore<br><br>10:13pm |
-| White HorseChris Stapleton<br><br>10:09pm |
+| What IfsKane Brown Ft Lauren Alaina<br><br>4:58am |
+| Dust On The BottleDavid Lee Murphy<br><br>4:55am |
+| Baby Daddy'S WeekendElle King<br><br>4:52am |
+| I Had Some HelpPost Malone Ft Morgan Wallen<br><br>4:49am |
+| WranglersMiranda Lambert<br><br>4:46am |
 
 [View Full Playlist](https://www.987thebull.com/recently-played)
 
@@ -495,13 +495,13 @@ State
 Featured Brands
 ---------------
 
-[![99.7 DJX Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WDJX.png)](https://www.wdjx.com/)
-
-Top 40 • Eastern
-
 [![News-Talk 1480 WHBC Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WHBCAM.png)](https://www.whbc.com/)
 
 News Talk • Eastern
+
+[![Panhandle Sports Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/KVWE-Logo-RedBlack-Dk.png)](https://www.panhandlesportsstar.com/)
+
+Sports • Midwest
 
 [![Live 95.5 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBFF.png)](https://www.live955.com/)
 
