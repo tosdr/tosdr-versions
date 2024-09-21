@@ -134,15 +134,65 @@ Política de privacidade
 
 * ### Últimos tópicos
     
+    * [![Pedro Wnr](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%236298c4%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EPW%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/974901-pedro-wnr/ "Ir ao perfil de Pedro Wnr")
+        
+        0
+        
+        [Preciso duma placa equivalente](https://www.clubedohardware.com.br/forums/topic/1697910-preciso-duma-placa-equivalente/?do=getNewComment "Preciso duma placa equivalente")
+        
+        [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
+        Por [Pedro Wnr](https://www.clubedohardware.com.br/profile/974901-pedro-wnr/ "Ir ao perfil de Pedro Wnr")  
+        8 minutos atrás
+        
+    * [![Gax2K](https://www.clubedohardware.com.br/uploads/members/monthly_2022_10/superman-henry-cavill-liga-da-justica-traje-preto-snyder-cut-reproducao.thumb.jpeg.c25464ddd5d4e814a2d3298afb43b3b0.jpeg)](https://www.clubedohardware.com.br/profile/1206594-gax2k/ "Ir ao perfil de Gax2K")
+        
+        0
+        
+        Excel [Como gerar Documentos/Contratos automáticos com informações de uma Planilha?](https://www.clubedohardware.com.br/forums/topic/1697909-como-gerar-documentoscontratos-autom%C3%A1ticos-com-informa%C3%A7%C3%B5es-de-uma-planilha/?do=getNewComment "Como gerar Documentos/Contratos automáticos com informações de uma Planilha?")
+        
+        [Microsoft Office e similares](https://www.clubedohardware.com.br/forums/forum/39-microsoft-office-e-similares/ "Microsoft Office e similares")  
+        Por [Gax2K](https://www.clubedohardware.com.br/profile/1206594-gax2k/ "Ir ao perfil de Gax2K")  
+        16 minutos atrás
+        
+    * [![Lord Francos](https://www.clubedohardware.com.br/uploads/members/monthly_2021_08/imported-photo-1078260.thumb.png.ea20e1d8d11f03da4e10c2ce39fb0ee6.png)](https://www.clubedohardware.com.br/profile/1078260-lord-francos/ "Ir ao perfil de Lord Francos")
+        
+        2
+        
+        [Recomendação de fonte, memória RAM 16GB e cooler](https://www.clubedohardware.com.br/forums/topic/1697908-recomenda%C3%A7%C3%A3o-de-fonte-mem%C3%B3ria-ram-16gb-e-cooler/?do=getNewComment "Recomendação de fonte, memória RAM 16GB e cooler")
+        
+        [Montagem e upgrade de computadores de mesa](https://www.clubedohardware.com.br/forums/forum/93-montagem-e-upgrade-de-computadores-de-mesa/ "Montagem e upgrade de computadores de mesa")  
+        Por [Lord Francos](https://www.clubedohardware.com.br/profile/1078260-lord-francos/ "Ir ao perfil de Lord Francos")  
+        1 hora atrás
+        
+    * [![Nani Moneró](https://www.clubedohardware.com.br/uploads/members/monthly_2024_09/imported-photo-1253420.thumb.jpeg.a2bfa7377bad458f39d78ee4b263874f.jpeg)](https://www.clubedohardware.com.br/profile/1253420-nani-moner%C3%B3/ "Ir ao perfil de Nani Moneró")
+        
+        0
+        
+        [WhatsApp enviando mensagem sozinho](https://www.clubedohardware.com.br/forums/topic/1697906-whatsapp-enviando-mensagem-sozinho/?do=getNewComment "WhatsApp enviando mensagem sozinho")
+        
+        [Programas](https://www.clubedohardware.com.br/forums/forum/24-programas/ "Programas")  
+        Por [Nani Moneró](https://www.clubedohardware.com.br/profile/1253420-nani-moner%C3%B3/ "Ir ao perfil de Nani Moneró")  
+        1 hora atrás
+        
+    * [![bebetos](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23c46264%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EB%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1252582-bebetos/ "Ir ao perfil de bebetos")
+        
+        4
+        
+        [Com R$7.500 - R7 5700X e RTX 4060 TI](https://www.clubedohardware.com.br/forums/topic/1697905-com-r7500-r7-5700x-e-rtx-4060-ti/?do=getNewComment "Com R$7.500 - R7 5700X e RTX 4060 TI")
+        
+        [Montagem e upgrade de computadores de mesa](https://www.clubedohardware.com.br/forums/forum/93-montagem-e-upgrade-de-computadores-de-mesa/ "Montagem e upgrade de computadores de mesa")  
+        Por [bebetos](https://www.clubedohardware.com.br/profile/1252582-bebetos/ "Ir ao perfil de bebetos")  
+        5 horas atrás
+        
     * [![diaboles](https://www.clubedohardware.com.br/uploads/members/monthly_2024_01/dogsexy.thumb.jpg.06847fe63e997ec5ee753eb60f2cb646.jpg)](https://www.clubedohardware.com.br/profile/362632-diaboles/ "Ir ao perfil de diaboles")
         
-        1
+        2
         
-        [Upgrade de RTX 3070](https://www.clubedohardware.com.br/forums/topic/1697904-upgrade-de-rtx-3070/?do=getNewComment "Upgrade de RTX 3070")
+        [Upgrade de RTX 3070: vale a pena comprar a Radeon RX 7900 GRE ou RX 7900 XT?](https://www.clubedohardware.com.br/forums/topic/1697904-upgrade-de-rtx-3070-vale-a-pena-comprar-a-radeon-rx-7900-gre-ou-rx-7900-xt/?do=getNewComment "Upgrade de RTX 3070: vale a pena comprar a Radeon RX 7900 GRE ou RX 7900 XT?")
         
         [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
         Por [diaboles](https://www.clubedohardware.com.br/profile/362632-diaboles/ "Ir ao perfil de diaboles")  
-        1 hora atrás
+        7 horas atrás
         
     * [![mz_09](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%237162c4%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EM0%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1253418-mz_09/ "Ir ao perfil de mz_09")
         
@@ -152,7 +202,17 @@ Política de privacidade
         
         [Teclados, mouses e controles para jogos](https://www.clubedohardware.com.br/forums/forum/62-teclados-mouses-e-controles-para-jogos/ "Teclados, mouses e controles para jogos")  
         Por [mz\_09](https://www.clubedohardware.com.br/profile/1253418-mz_09/ "Ir ao perfil de mz_09")  
-        1 hora atrás
+        7 horas atrás
+        
+    * [![daniel godoi](https://www.clubedohardware.com.br/uploads/members/monthly_2024_09/imported-photo-1253417.thumb.jpeg.e7debd5d769c67a88a37a18c98ae7f44.jpeg)](https://www.clubedohardware.com.br/profile/1253417-daniel-godoi/ "Ir ao perfil de daniel godoi")
+        
+        1
+        
+        [Indicação de placa de vídeo para PC com Ryzen 5 5500 e 32GB?](https://www.clubedohardware.com.br/forums/topic/1697907-indica%C3%A7%C3%A3o-de-placa-de-v%C3%ADdeo-para-pc-com-ryzen-5-5500-e-32gb/?do=getNewComment "Indicação de placa de vídeo para PC com Ryzen 5 5500 e 32GB?")
+        
+        [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
+        Por [daniel godoi](https://www.clubedohardware.com.br/profile/1253417-daniel-godoi/ "Ir ao perfil de daniel godoi")  
+        8 horas atrás
         
     * [![Rafael Levi](https://www.clubedohardware.com.br/uploads/members/monthly_2024_09/imported-photo-1252965.thumb.png.a65b888de9b1899a96727105c00162c5.png)](https://www.clubedohardware.com.br/profile/1252965-rafael-levi/ "Ir ao perfil de Rafael Levi")
         
@@ -162,77 +222,17 @@ Política de privacidade
         
         [Refrigeração e superaquecimento](https://www.clubedohardware.com.br/forums/forum/155-refrigera%C3%A7%C3%A3o-e-superaquecimento/ "Refrigeração e superaquecimento")  
         Por [Rafael Levi](https://www.clubedohardware.com.br/profile/1252965-rafael-levi/ "Ir ao perfil de Rafael Levi")  
-        2 horas atrás
+        8 horas atrás
         
     * [![PauloHSPadre](https://www.clubedohardware.com.br/uploads/members/monthly_2024_09/imported-photo-1046425.thumb.png.f9f68755069fbbdd2c1cb7cde5a58484.png)](https://www.clubedohardware.com.br/profile/1046425-paulohspadre/ "Ir ao perfil de PauloHSPadre")
         
-        0
+        1
         
         [Computador só dá vídeo quando entra no Windows](https://www.clubedohardware.com.br/forums/topic/1697901-computador-s%C3%B3-d%C3%A1-v%C3%ADdeo-quando-entra-no-windows/?do=getNewComment "Computador só dá vídeo quando entra no Windows")
         
         [Placas-mãe](https://www.clubedohardware.com.br/forums/forum/28-placas-m%C3%A3e/ "Placas-mãe")  
         Por [PauloHSPadre](https://www.clubedohardware.com.br/profile/1046425-paulohspadre/ "Ir ao perfil de PauloHSPadre")  
-        2 horas atrás
-        
-    * [![JãoSantosLima](https://www.clubedohardware.com.br/uploads/members/monthly_2024_09/imported-photo-1253414.thumb.jpeg.4bbc740bb3a5078f736634d14135b5f6.jpeg)](https://www.clubedohardware.com.br/profile/1253414-j%C3%A3osantoslima/ "Ir ao perfil de JãoSantosLima")
-        
-        0
-        
-        [PUBG caindo FPS depois de um tempo jogando](https://www.clubedohardware.com.br/forums/topic/1697900-pubg-caindo-fps-depois-de-um-tempo-jogando/?do=getNewComment "PUBG caindo FPS depois de um tempo jogando")
-        
-        [Problemas de desempenho](https://www.clubedohardware.com.br/forums/forum/256-problemas-de-desempenho/ "Problemas de desempenho")  
-        Por [JãoSantosLima](https://www.clubedohardware.com.br/profile/1253414-j%C3%A3osantoslima/ "Ir ao perfil de JãoSantosLima")  
-        4 horas atrás
-        
-    * [![Samuel8122](https://www.clubedohardware.com.br/uploads/members/monthly_2024_09/imported-photo-1253335.thumb.png.2d75ad4520ead0755c0abb75a423595a.png)](https://www.clubedohardware.com.br/profile/1253335-samuel8122/ "Ir ao perfil de Samuel8122")
-        
-        1
-        
-        [rx 470 com fragmentação](https://www.clubedohardware.com.br/forums/topic/1697899-rx-470-com-fragmenta%C3%A7%C3%A3o/?do=getNewComment "rx 470 com fragmentação")
-        
-        [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
-        Por [Samuel8122](https://www.clubedohardware.com.br/profile/1253335-samuel8122/ "Ir ao perfil de Samuel8122")  
-        4 horas atrás
-        
-    * [![deejaywesley](https://www.clubedohardware.com.br/uploads/members/monthly_2016_04/190357_106257809456643_1550682_n.jpg.13d39f6a9b427e43f31e66ffabf79a20.thumb.jpg.5c73af97716a456d4171d47c24571776.jpg)](https://www.clubedohardware.com.br/profile/529367-deejaywesley/ "Ir ao perfil de deejaywesley")
-        
-        0
-        
-        Excel [VBA Procurar cabeçalho em plan2 se encontrar copiar e colar](https://www.clubedohardware.com.br/forums/topic/1697898-vba-procurar-cabe%C3%A7alho-em-plan2-se-encontrar-copiar-e-colar/?do=getNewComment "VBA Procurar cabeçalho em plan2 se encontrar copiar e colar")
-        
-        [Microsoft Office e similares](https://www.clubedohardware.com.br/forums/forum/39-microsoft-office-e-similares/ "Microsoft Office e similares")  
-        Por [deejaywesley](https://www.clubedohardware.com.br/profile/529367-deejaywesley/ "Ir ao perfil de deejaywesley")  
-        4 horas atrás
-        
-    * [![mineirimbb](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%239cc462%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EM%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1118639-mineirimbb/ "Ir ao perfil de mineirimbb")
-        
-        1
-        
-        [Fans brancas de 120 e 140mm](https://www.clubedohardware.com.br/forums/topic/1697897-fans-brancas-de-120-e-140mm/?do=getNewComment "Fans brancas de 120 e 140mm")
-        
-        [Refrigeração e superaquecimento](https://www.clubedohardware.com.br/forums/forum/155-refrigera%C3%A7%C3%A3o-e-superaquecimento/ "Refrigeração e superaquecimento")  
-        Por [mineirimbb](https://www.clubedohardware.com.br/profile/1118639-mineirimbb/ "Ir ao perfil de mineirimbb")  
-        4 horas atrás
-        
-    * [![Carlosmoby62](https://www.clubedohardware.com.br/uploads/members/monthly_2024_09/Ukuleleaosol.thumb.jpg.73b679cb9a26dd94108309132bd5e67f.jpg)](https://www.clubedohardware.com.br/profile/1253411-carlosmoby62/ "Ir ao perfil de Carlosmoby62")
-        
-        0
-        
-        [Placa-mãe ASUS B550m plus](https://www.clubedohardware.com.br/forums/topic/1697896-placa-m%C3%A3e-asus-b550m-plus/?do=getNewComment "Placa-mãe ASUS B550m plus")
-        
-        [Placas-mãe](https://www.clubedohardware.com.br/forums/forum/28-placas-m%C3%A3e/ "Placas-mãe")  
-        Por [Carlosmoby62](https://www.clubedohardware.com.br/profile/1253411-carlosmoby62/ "Ir ao perfil de Carlosmoby62")  
-        5 horas atrás
-        
-    * [![Joao Pedro A. Freire](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/imported-photo-1234820.thumb.jpeg.0e3de2cce9342db6843a11e8645c5c32.jpeg)](https://www.clubedohardware.com.br/profile/1234820-joao-pedro-a-freire/ "Ir ao perfil de Joao Pedro A. Freire")
-        
-        7
-        
-        [Fps cravado em 60](https://www.clubedohardware.com.br/forums/topic/1697895-fps-cravado-em-60/?do=getNewComment "Fps cravado em 60")
-        
-        [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
-        Por [Joao Pedro A. Freire](https://www.clubedohardware.com.br/profile/1234820-joao-pedro-a-freire/ "Ir ao perfil de Joao Pedro A. Freire")  
-        5 horas atrás
+        8 horas atrás
         
     
 
