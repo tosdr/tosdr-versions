@@ -471,6 +471,10 @@ Revised June 1, 2022
 
   [![Shohei Ohtani connects on his 50th home run of the season during the seventh inning against the Marlins in Miami on Thursday. Ohtani became the first player in MLB history to reach 50 home runs and 50 stolen bases in the same season.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/20/422799.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Shohei Ohtani connects on his 50th home run of the season during the seventh inning against the Marlins in Miami on Thursday. Ohtani became the first player in MLB history to reach 50 home runs and 50 stolen bases in the same season.")](https://www.japantimes.co.jp/sports/2024/09/20/baseball/mlb/ohtani-50-50-season/ "Shohei Ohtani records baseball's first 50-50 season with huge night in Miami")
 
+[China works to avoid rift with Japan over killing of schoolchild](https://www.japantimes.co.jp/news/2024/09/20/japan/japan-china-stabbing/ "China works to avoid rift with Japan over killing of schoolchild")
+
+  [![The Japanese Embassy in Beijing on Thursday. The embassy and other organizations have urged swift and resolute actions to protect Japanese citizens in China.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/20/422895.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "The Japanese Embassy in Beijing on Thursday. The embassy and other organizations have urged swift and resolute actions to protect Japanese citizens in China.")](https://www.japantimes.co.jp/news/2024/09/20/japan/japan-china-stabbing/ "China works to avoid rift with Japan over killing of schoolchild")
+
 [The forgotten impact of 9/11 on Japan](https://www.japantimes.co.jp/commentary/2024/09/18/japan/911-impact-on-japan/ "The forgotten impact of 9/11 on Japan")
 
   [![The World Trade Center's South Tower (left) and the North Tower burn after al-Qaida terrorists flew hijacked airliners into the buildings in New York City on
@@ -483,9 +487,9 @@ REUTERS")](https://www.japantimes.co.jp/commentary/2024/09/18/japan/911-impact-o
 
   [![A police officer explains with a loudspeaker the correct way of interacting with the deer on July 25 at Nara Park in the city of Nara.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/20/422848.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "A police officer explains with a loudspeaker the correct way of interacting with the deer on July 25 at Nara Park in the city of Nara.")](https://www.japantimes.co.jp/news/2024/09/20/japan/society/nara-deer-kicked-video/ "Nara urges respect for sacred deer after viral abuse video sparks outcry")
 
-[Bank of Japan leaves rates unchanged as Ueda signals pause](https://www.japantimes.co.jp/business/2024/09/20/economy/boj-maintains-policy-rate/ "Bank of Japan leaves rates unchanged as Ueda signals pause")
+[Shohei Ohtani records baseball's first 50-50 season with huge night in Miami](https://www.japantimes.co.jp/sports/2024/09/20/baseball/mlb/ohtani-50-50-season/ "Shohei Ohtani records baseball's first 50-50 season with huge night in Miami")
 
-  [![The Bank of Japan headquarters in Tokyo. Analysts polled ahead of Friday were in agreement that the BOJ would choose not to make any rate adjustments.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/20/422850.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "The Bank of Japan headquarters in Tokyo. Analysts polled ahead of Friday were in agreement that the BOJ would choose not to make any rate adjustments.")](https://www.japantimes.co.jp/business/2024/09/20/economy/boj-maintains-policy-rate/ "Bank of Japan leaves rates unchanged as Ueda signals pause")
+  [![Shohei Ohtani connects on his 50th home run of the season during the seventh inning against the Marlins in Miami on Thursday. Ohtani became the first player in MLB history to reach 50 home runs and 50 stolen bases in the same season.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/20/422799.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Shohei Ohtani connects on his 50th home run of the season during the seventh inning against the Marlins in Miami on Thursday. Ohtani became the first player in MLB history to reach 50 home runs and 50 stolen bases in the same season.")](https://www.japantimes.co.jp/sports/2024/09/20/baseball/mlb/ohtani-50-50-season/ "Shohei Ohtani records baseball's first 50-50 season with huge night in Miami")
 
 [Yuriyan Retriever is Japan's biggest heel — and proud of it](https://www.japantimes.co.jp/culture/2024/09/20/tv-streaming/yuriyan-retriever-dump-matsumoto/ "Yuriyan Retriever is Japan's biggest heel — and proud of it")
 
@@ -498,14 +502,6 @@ REUTERS")](https://www.japantimes.co.jp/commentary/2024/09/18/japan/911-impact-o
 [‘The people I’d seen in kimono didn’t have as much melanin as I do’](https://www.japantimes.co.jp/community/2024/09/16/our-lives/kimono-instructor-license-black-women-japan/ "‘The people I’d seen in kimono didn’t have as much melanin as I do’")
 
   [![American Kara Harris is on the verge of attaining a high-level certification in the world of kimono — and may possibly be the first Black woman to do so.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/13/421162.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "American Kara Harris is on the verge of attaining a high-level certification in the world of kimono — and may possibly be the first Black woman to do so.")](https://www.japantimes.co.jp/community/2024/09/16/our-lives/kimono-instructor-license-black-women-japan/ "‘The people I’d seen in kimono didn’t have as much melanin as I do’")
-
-[France-Japan military pact expected by year-end, envoy to Tokyo says](https://www.japantimes.co.jp/news/2024/09/18/japan/politics/france-ambassador-japan-interview/ "France-Japan military pact expected by year-end, envoy to Tokyo says")
-
-  [![French Ambassador Philippe Setton says that, despite previous differences over whether Japan should host a NATO liaison office, Paris aims to deepen ties with Tokyo "in all security areas."](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/18/422435.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "French Ambassador Philippe Setton says that, despite previous differences over whether Japan should host a NATO liaison office, Paris aims to deepen ties with Tokyo "in all security areas."")](https://www.japantimes.co.jp/news/2024/09/18/japan/politics/france-ambassador-japan-interview/ "France-Japan military pact expected by year-end, envoy to Tokyo says")
-
-[Onosato’s meteoric rise is stunning — but not surprising](https://www.japantimes.co.jp/sports/2024/09/18/sumo/onosato-technical-analysis/ "Onosato’s meteoric rise is stunning — but not surprising")
-
-  [![Onosato shoves out Mitakeumi on Sunday in Tokyo to continue his perfect run at the Autumn Basho. At 192-centimeters-tall and 177 kilograms, Onosato may be neither the tallest nor the heaviest wrestler in the makuuchi division, but he is very close to the top in each of those two categories.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/18/422479.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Onosato shoves out Mitakeumi on Sunday in Tokyo to continue his perfect run at the Autumn Basho. At 192-centimeters-tall and 177 kilograms, Onosato may be neither the tallest nor the heaviest wrestler in the makuuchi division, but he is very close to the top in each of those two categories.")](https://www.japantimes.co.jp/sports/2024/09/18/sumo/onosato-technical-analysis/ "Onosato’s meteoric rise is stunning — but not surprising")
 
 Podcast
 -------
@@ -568,23 +564,23 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
-[Highest-level rain alert issued for quake-hit Ishikawa area](https://www.japantimes.co.jp/news/2024/09/21/japan/ishikawa-heavy-rain-alert/ "Highest-level rain alert issued for quake-hit Ishikawa area")
+[Koizumi ranks as top choice in polls among lawmakers in Japan’s LDP race](https://www.japantimes.co.jp/news/2024/09/21/japan/politics/koizumi-lawmaker-favorite/ "Koizumi ranks as top choice in polls among lawmakers in Japan’s LDP race")
 
-27 mins ago
+52 mins ago
 
-[Prospects for a Gaza cease-fire dim even as U.S. maintains hopes](https://www.japantimes.co.jp/news/2024/09/21/world/politics/gaza-ceasefire-hopes-dim/ "Prospects for a Gaza cease-fire dim even as U.S. maintains hopes")
+[Revolution or mirage? Controversy surrounds new Alzheimer's drugs](https://www.japantimes.co.jp/news/2024/09/21/world/science-health/alzheimers-drugs-controversy/ "Revolution or mirage? Controversy surrounds new Alzheimer's drugs")
 
-4 hours ago
+2 hours ago
 
-[Hack of Hezbollah devices exposes dark corners of Asia supply chains](https://www.japantimes.co.jp/business/2024/09/21/hezbollah-hack-asia-supply-chains-analysis/ "Hack of Hezbollah devices exposes dark corners of Asia supply chains")
+[JR East fails to disclose data tampering for seven years](https://www.japantimes.co.jp/business/2024/09/21/jr-east-data-tampering/ "JR East fails to disclose data tampering for seven years")
 
-4 hours ago
+3 hours ago
 
-[Microsoft AI needs so much power it's tapping site of U.S. nuclear meltdown](https://www.japantimes.co.jp/business/2024/09/21/tech/microsoft-ai-nuclear-power/ "Microsoft AI needs so much power it's tapping site of U.S. nuclear meltdown")
+[U.S. marine in Okinawa indicted for alleged sexual assault](https://www.japantimes.co.jp/news/2024/09/21/japan/crime-legal/us-marine-okinawa-indict/ "U.S. marine in Okinawa indicted for alleged sexual assault")
 
-4 hours ago
+3 hours ago
 
-[Top Hezbollah commander among 14 killed in Israeli strike on Beirut](https://www.japantimes.co.jp/news/2024/09/21/world/israel-hezbollah-commander-killed-beirut/ "Top Hezbollah commander among 14 killed in Israeli strike on Beirut")
+[Kishida vows aid to uncertified Nagasaki atomic bomb survivors](https://www.japantimes.co.jp/news/2024/09/21/japan/kishida-nagasaki-vow/ "Kishida vows aid to uncertified Nagasaki atomic bomb survivors")
 
 4 hours ago
 
