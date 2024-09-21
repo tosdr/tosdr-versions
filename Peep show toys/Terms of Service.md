@@ -7,7 +7,7 @@ Close menu
     * [Vibrators](https://www.peepshowtoys.com/collections/vibrators)
         
         * [Under $50](https://www.peepshowtoys.com/collections/cheap-vibrators)
-        * [Air Pulsation](https://www.peepshowtoys.com/collections/air-pulsation)
+        * [Air Pulse "Clit Suction"](https://www.peepshowtoys.com/collections/air-pulsation)
         * [G-Spot](https://www.peepshowtoys.com/collections/g-spot-vibrators)
         * [Mini Vibes](https://www.peepshowtoys.com/collections/bullet-vibrators)
         * [External/Clitoral Vibrators](https://www.peepshowtoys.com/collections/external-clitoral-vibrators)
@@ -71,17 +71,17 @@ Close menu
         
     * [Bondage Kits](https://www.peepshowtoys.com/collections/bondage-kits)
         
-    * [Restraints](https://www.peepshowtoys.com/collections/bondage-restraints)
+    * [Restraints: Cuffs, Hogtie, & More](https://www.peepshowtoys.com/collections/bondage-restraints)
         
     * [Gags & Blindfolds](https://www.peepshowtoys.com/collections/bondage-bdsm-ball-gags-and-blindfolds)
         
-    * [Paddles](https://www.peepshowtoys.com/collections/paddles)
+    * [Spanking Paddles](https://www.peepshowtoys.com/collections/paddles)
         
-    * [Rope](https://www.peepshowtoys.com/collections/bondage-rope)
+    * [Floggers, Whips, & Crops](https://www.peepshowtoys.com/collections/whips-crops)
+        
+    * [Rope, Shibari, & Bondage Tape](https://www.peepshowtoys.com/collections/bondage-rope)
         
     * [Sensation Play](https://www.peepshowtoys.com/collections/sensation-play-collection)
-        
-    * [Whips & Crops](https://www.peepshowtoys.com/collections/whips-crops)
         
     * [Collars & Leashes](https://www.peepshowtoys.com/collections/collars-and-leashes-for-bondage)
         
@@ -212,7 +212,7 @@ Site navigation
     
     [Under $50](https://www.peepshowtoys.com/collections/cheap-vibrators)
     
-    [Air Pulsation](https://www.peepshowtoys.com/collections/air-pulsation)
+    [Air Pulse "Clit Suction"](https://www.peepshowtoys.com/collections/air-pulsation)
     
     [G-Spot](https://www.peepshowtoys.com/collections/g-spot-vibrators)
     
@@ -317,12 +317,12 @@ Site navigation
 * [BDSM](https://www.peepshowtoys.com/collections/bdsm-accessories-1)
     * [Nipple Clamps](https://www.peepshowtoys.com/collections/nipple-clamps)
     * [Bondage Kits](https://www.peepshowtoys.com/collections/bondage-kits)
-    * [Restraints](https://www.peepshowtoys.com/collections/bondage-restraints)
+    * [Restraints: Cuffs, Hogtie, & More](https://www.peepshowtoys.com/collections/bondage-restraints)
     * [Gags & Blindfolds](https://www.peepshowtoys.com/collections/bondage-bdsm-ball-gags-and-blindfolds)
-    * [Paddles](https://www.peepshowtoys.com/collections/paddles)
-    * [Rope](https://www.peepshowtoys.com/collections/bondage-rope)
+    * [Spanking Paddles](https://www.peepshowtoys.com/collections/paddles)
+    * [Floggers, Whips, & Crops](https://www.peepshowtoys.com/collections/whips-crops)
+    * [Rope, Shibari, & Bondage Tape](https://www.peepshowtoys.com/collections/bondage-rope)
     * [Sensation Play](https://www.peepshowtoys.com/collections/sensation-play-collection)
-    * [Whips & Crops](https://www.peepshowtoys.com/collections/whips-crops)
     * [Collars & Leashes](https://www.peepshowtoys.com/collections/collars-and-leashes-for-bondage)
 * [Hot Deals](https://www.peepshowtoys.com/collections/hot-deals)
     * [Hot Deals](https://www.peepshowtoys.com/collections/hot-deals)
