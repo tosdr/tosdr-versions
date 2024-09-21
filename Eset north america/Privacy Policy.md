@@ -645,7 +645,7 @@ San Diego, California
 San Diego, California  
 [More contacts](https://www.eset.com/us/about/contact/)
 
-[United States (EN)](https://www.eset.com/us/about/newsroom/corporate-blog/)
+[United States (EN)](https://www.eset.com/us/home/antivirus/trial-expired/)
 
 * * *
 
