@@ -413,11 +413,11 @@ Class Central experiments with cataloging online courses from California Communi
 Most common
 -----------
 
-1. excel
+1. project management
     
-2. finance
+2. harvard
     
-3. French
+3. cyber security
     
 
 Popular subjects
