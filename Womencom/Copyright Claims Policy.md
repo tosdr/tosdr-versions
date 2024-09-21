@@ -82,6 +82,30 @@
 More Stories
 ------------
 
+*  [![Two women embracing](https://www.women.com/img/gallery/the-pros-and-cons-to-soft-swinging-because-its-on-everyones-lips/intro-1726848271.jpg)](https://www.women.com/1669700/pros-cons-soft-swinging/)
+    
+    [Exclusives](https://www.women.com/category/exclusives/)
+    
+    [Exclusives](https://www.women.com/category/exclusives/) By Emily Hutchinson
+    
+    ### [The Pros And Cons To 'Soft Swinging' (Because It's On Everyone's Lips)](https://www.women.com/1669700/pros-cons-soft-swinging/)
+    
+    "The Secret Lives of Mormon Wives" has made many curious about "soft swinging." Experts explained the pros and cons of engaging in non-monogamous sex.
+    
+    By Emily Hutchinson [Read More](https://www.women.com/1669700/pros-cons-soft-swinging/)
+    
+*  [![Gwen Stefani on stage](https://www.women.com/img/gallery/the-libra-celebrities-who-perfectly-embody-their-zodiac-sign/intro-1726692736.jpg)](https://www.women.com/1668174/libra-celebrities-perfectly-embody-zodiac-sign/)
+    
+    [Living](https://www.women.com/category/living/)
+    
+    [Living](https://www.women.com/category/living/) By Emily Hutchinson
+    
+    ### [The Libra Celebrities Who Perfectly Embody Their Zodiac Sign](https://www.women.com/1668174/libra-celebrities-perfectly-embody-zodiac-sign/)
+    
+    There are a handful of celebrities who show us what it means to be a Libra, perfectly embodying this diplomatic, romantic, and idealistic zodiac sign.
+    
+    By Emily Hutchinson [Read More](https://www.women.com/1668174/libra-celebrities-perfectly-embody-zodiac-sign/)
+    
 *  [![Princess Diana bixie cut](https://www.women.com/img/gallery/princess-dianas-90s-bixie-is-the-sophisticated-short-hairstyle-of-our-dreams/intro-1726603909.jpg)](https://www.women.com/1667019/princess-diana-90s-bixie-sophisticated-short-hair-style/)
     
     [Exclusives](https://www.women.com/category/exclusives/)
@@ -381,30 +405,6 @@ More Stories
     Even if your brain is rife with dirty kinks and desires you want to explore, trying to find the words and typing them out is a whole other story.
     
     By Amanda Chatel [Read More](https://www.women.com/1658423/how-to-sext-awkward-sex/)
-    
-*  [![Kate Middleton with Meghan Markle](https://www.women.com/img/gallery/royal-family-outfits-that-were-beyond-controversial/intro-1725492073.jpg)](https://www.women.com/1658112/royal-family-outfits-beyond-controversial/)
-    
-    [Fashion](https://www.women.com/category/fashion/)
-    
-    [Fashion](https://www.women.com/category/fashion/) By Emily Hutchinson
-    
-    ### [Royal Family Outfits That Were Beyond Controversial](https://www.women.com/1658112/royal-family-outfits-beyond-controversial/)
-    
-    The royal family is known for keeping up a polished and demure appearance, but that doesn't mean they haven't occasionally gone off-script with their outfits.
-    
-    By Emily Hutchinson [Read More](https://www.women.com/1658112/royal-family-outfits-beyond-controversial/)
-    
-*  [![Zoe Kravitz blonde pixie](https://www.women.com/img/gallery/5-celebrity-pixie-cuts-to-inspire-your-next-super-short-haircut/intro-1725472100.jpg)](https://www.women.com/1657110/celebrity-pixie-cuts-inspire-super-short-haircut/)
-    
-    [Beauty](https://www.women.com/category/beauty/)
-    
-    [Beauty](https://www.women.com/category/beauty/) By Amanda Chatel
-    
-    ### [5 Celebrity Pixie Cuts To Inspire Your Next Super Short Haircut](https://www.women.com/1657110/celebrity-pixie-cuts-inspire-super-short-haircut/)
-    
-    For those who've given pixie cuts a try, you know that out of all the short hair trends that have come and gone, the pixie remains iconic.
-    
-    By Amanda Chatel [Read More](https://www.women.com/1657110/celebrity-pixie-cuts-inspire-super-short-haircut/)
     
 
 Back
