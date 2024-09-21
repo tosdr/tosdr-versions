@@ -120,7 +120,7 @@ Welcome! [Login](https://knowyourmeme.com/login) or [signup](https://knowyourmem
 
 ##### Also Trending:
 
-[Woke Content Detector](https://knowyourmeme.com/memes/sites/woke-content-detector "Woke Content Detector") [You Can't Be Punk and Also Be](https://knowyourmeme.com/memes/you-cant-be-punk-and-also-be-racist-sexist-homophobic-or-transphobic "You Can't Be Punk and Also Be") [Nintendo vs. Palworld Lawsuit](https://knowyourmeme.com/memes/events/nintendo-vs-palworld-lawsuit "Nintendo vs. Palworld Lawsuit") [Pager and Radio Attacks on Hezbollah](https://knowyourmeme.com/memes/events/2024-pager-and-radio-attacks-on-hezbollah "Pager and Radio Attacks on Hezbollah") [His Smile Is Very Creepy Girl](https://knowyourmeme.com/memes/his-smile-is-very-creepy-girl "His Smile Is Very Creepy Girl")
+[Woke Content Detector](https://knowyourmeme.com/memes/sites/woke-content-detector "Woke Content Detector")
 
 Privacy Policy
 ==============
