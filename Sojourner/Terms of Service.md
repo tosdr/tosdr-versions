@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-4f7c6bbc78d47e595f378c5597f0d04d
+aa7ace1010ff5b3da541e3af0dcf785c
 
 [](# "Expand for more options")[](# "Search")
 
@@ -142,11 +142,11 @@ Terms and Conditions
 
 ### Featured Product
 
-[![5 mm by 15 mm top-drilled Czech glass daggers](https://sojourner.biz/images/cache/glass/GL0224strand.200.jpg)](https://sojourner.biz/beads/glass/5-mm-by-15-mm-top-drilled-czech-glass-daggers.html "5 mm by 15 mm top-drilled Czech glass daggers")
+[![Purple and black hand-loomed cotton blanket](https://sojourner.biz/images/cache/bohemian_chic/TX0005.200.webp)](https://sojourner.biz/bohemian-chic-decor/purple-and-black-hand-loomed-cotton-blanket.html "Purple and black hand-loomed cotton blanket")
 
-#### [5 mm by 15 mm top-drilled Czech glass daggers](https://sojourner.biz/beads/glass/5-mm-by-15-mm-top-drilled-czech-glass-daggers.html "5 mm by 15 mm top-drilled Czech glass daggers")
+#### [Purple and black hand-loomed cotton blanket](https://sojourner.biz/bohemian-chic-decor/purple-and-black-hand-loomed-cotton-blanket.html "Purple and black hand-loomed cotton blanket")
 
-$10.00
+$175.00
 
 ### Best Sellers
 
