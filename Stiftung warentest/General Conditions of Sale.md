@@ -597,12 +597,12 @@ Neueste Tests
 
 test.de entdecken
 
+* [Lyoner, Mortadella & Co: Wurst-Aufschnitt im Test](https://www.test.de/Lyoner-Mortadella-Co-Wurst-Aufschnitt-im-Test-6046593-0/ "Lyoner, Mortadella & Co - Wurst-Aufschnitt im Test")
 * [Lang­zeit­analyse der Fünf-Punkte-Strategie: Europafonds besser als die Benchmark](https://www.test.de/Langzeitanalyse-der-Fuenf-Punkte-Strategie-Europafonds-besser-als-die-Benchmark-6004243-0/ "Langzeitanalyse der Fünf-Punkte-Strategie - Europafonds besser als die Benchmark")
-* [Fonds: Globale 1. Wahl-ETF aus unserem Dauer­test](https://www.test.de/Fonds-Globale-1-Wahl-ETF-aus-unserem-Dauertest-6144127-0/ "Fonds - Globale 1. Wahl-ETF aus unserem Dauertest")
-* [Ib-Ex Bank: Geschäfte ohne Erlaubnis](https://www.test.de/Ib-Ex-Bank-Geschaefte-ohne-Erlaubnis-6028212-0/ "Ib-Ex Bank - Geschäfte ohne Erlaubnis")
-* [Ringelröteln: Für Kinder meist harmlos, für Schwangere nicht](https://www.test.de/Ringelroeteln-Fuer-Kinder-meist-harmlos-fuer-Schwangere-nicht-6123237-0/ "Ringelröteln - Für Kinder meist harmlos, für Schwangere nicht")
-* [Strom­preis­erhöhung im Ferien­haus: Wider­spruch ist sinn­voll](https://www.test.de/Strompreiserhoehung-im-Ferienhaus-Widerspruch-ist-sinnvoll-5954040-0/ "Strompreiserhöhung im Ferienhaus - Widerspruch ist sinnvoll")
-* [Gemischte Säfte und Smoothies: Viel Apfel, viel Enttäuschung](https://www.test.de/Gemischte-Saefte-und-Smoothies-Viel-Apfel-viel-Enttaeuschung-6138284-0/ "Gemischte Säfte und Smoothies - Viel Apfel, viel Enttäuschung")
+* [Sport­socken im Test: Zwei schrumpfen, drei scheuern durch](https://www.test.de/Sportsocken-im-Test-Zwei-schrumpfen-drei-scheuern-durch-6141956-0/ "Sportsocken im Test - Zwei schrumpfen, drei scheuern durch")
+* [Seelische Leiden behandeln: Psycho­therapie hilft auch im Alter](https://www.test.de/Psychotherapie-im-Alter-6068656-0/ "Seelische Leiden behandeln - Psychotherapie hilft auch im Alter")
+* [Daten­pannen bei Facebook und Co: 3000 Euro Schmerzens­geld für Telefon-Terror](https://www.test.de/Facebook-Datenpanne-Schmerzensgeld-nach-Hacker-Erfolg-5933730-0/ "Datenpannen bei Facebook und Co - 3000 Euro Schmerzensgeld für Telefon-Terror")
+* [Verpackungs­ärger: Sardellenfilets von Delicius](https://www.test.de/Verpackungsaerger-Sardellenfilets-von-Delicius-6046007-0/ "Verpackungsärger - Sardellenfilets von Delicius")
 
 Fußbereich
 
@@ -2737,12 +2737,12 @@ Neueste Tests
 
 test.de entdecken
 
+* [Lyoner, Mortadella & Co: Wurst-Aufschnitt im Test](https://www.test.de/Lyoner-Mortadella-Co-Wurst-Aufschnitt-im-Test-6046593-0/ "Lyoner, Mortadella & Co - Wurst-Aufschnitt im Test")
 * [Lang­zeit­analyse der Fünf-Punkte-Strategie: Europafonds besser als die Benchmark](https://www.test.de/Langzeitanalyse-der-Fuenf-Punkte-Strategie-Europafonds-besser-als-die-Benchmark-6004243-0/ "Langzeitanalyse der Fünf-Punkte-Strategie - Europafonds besser als die Benchmark")
-* [Fonds: Globale 1. Wahl-ETF aus unserem Dauer­test](https://www.test.de/Fonds-Globale-1-Wahl-ETF-aus-unserem-Dauertest-6144127-0/ "Fonds - Globale 1. Wahl-ETF aus unserem Dauertest")
-* [Ib-Ex Bank: Geschäfte ohne Erlaubnis](https://www.test.de/Ib-Ex-Bank-Geschaefte-ohne-Erlaubnis-6028212-0/ "Ib-Ex Bank - Geschäfte ohne Erlaubnis")
-* [Ringelröteln: Für Kinder meist harmlos, für Schwangere nicht](https://www.test.de/Ringelroeteln-Fuer-Kinder-meist-harmlos-fuer-Schwangere-nicht-6123237-0/ "Ringelröteln - Für Kinder meist harmlos, für Schwangere nicht")
-* [Strom­preis­erhöhung im Ferien­haus: Wider­spruch ist sinn­voll](https://www.test.de/Strompreiserhoehung-im-Ferienhaus-Widerspruch-ist-sinnvoll-5954040-0/ "Strompreiserhöhung im Ferienhaus - Widerspruch ist sinnvoll")
-* [Gemischte Säfte und Smoothies: Viel Apfel, viel Enttäuschung](https://www.test.de/Gemischte-Saefte-und-Smoothies-Viel-Apfel-viel-Enttaeuschung-6138284-0/ "Gemischte Säfte und Smoothies - Viel Apfel, viel Enttäuschung")
+* [Sport­socken im Test: Zwei schrumpfen, drei scheuern durch](https://www.test.de/Sportsocken-im-Test-Zwei-schrumpfen-drei-scheuern-durch-6141956-0/ "Sportsocken im Test - Zwei schrumpfen, drei scheuern durch")
+* [Seelische Leiden behandeln: Psycho­therapie hilft auch im Alter](https://www.test.de/Psychotherapie-im-Alter-6068656-0/ "Seelische Leiden behandeln - Psychotherapie hilft auch im Alter")
+* [Daten­pannen bei Facebook und Co: 3000 Euro Schmerzens­geld für Telefon-Terror](https://www.test.de/Facebook-Datenpanne-Schmerzensgeld-nach-Hacker-Erfolg-5933730-0/ "Datenpannen bei Facebook und Co - 3000 Euro Schmerzensgeld für Telefon-Terror")
+* [Verpackungs­ärger: Sardellenfilets von Delicius](https://www.test.de/Verpackungsaerger-Sardellenfilets-von-Delicius-6046007-0/ "Verpackungsärger - Sardellenfilets von Delicius")
 
 Jetzt anmelden und 10% Rabatt auf die test.de-Flatrate im ersten Jahr erhalten!
 
@@ -2795,12 +2795,12 @@ Neueste Tests
 
 test.de entdecken
 
+* [Lyoner, Mortadella & Co: Wurst-Aufschnitt im Test](https://www.test.de/Lyoner-Mortadella-Co-Wurst-Aufschnitt-im-Test-6046593-0/ "Lyoner, Mortadella & Co - Wurst-Aufschnitt im Test")
 * [Lang­zeit­analyse der Fünf-Punkte-Strategie: Europafonds besser als die Benchmark](https://www.test.de/Langzeitanalyse-der-Fuenf-Punkte-Strategie-Europafonds-besser-als-die-Benchmark-6004243-0/ "Langzeitanalyse der Fünf-Punkte-Strategie - Europafonds besser als die Benchmark")
-* [Fonds: Globale 1. Wahl-ETF aus unserem Dauer­test](https://www.test.de/Fonds-Globale-1-Wahl-ETF-aus-unserem-Dauertest-6144127-0/ "Fonds - Globale 1. Wahl-ETF aus unserem Dauertest")
-* [Ib-Ex Bank: Geschäfte ohne Erlaubnis](https://www.test.de/Ib-Ex-Bank-Geschaefte-ohne-Erlaubnis-6028212-0/ "Ib-Ex Bank - Geschäfte ohne Erlaubnis")
-* [Ringelröteln: Für Kinder meist harmlos, für Schwangere nicht](https://www.test.de/Ringelroeteln-Fuer-Kinder-meist-harmlos-fuer-Schwangere-nicht-6123237-0/ "Ringelröteln - Für Kinder meist harmlos, für Schwangere nicht")
-* [Strom­preis­erhöhung im Ferien­haus: Wider­spruch ist sinn­voll](https://www.test.de/Strompreiserhoehung-im-Ferienhaus-Widerspruch-ist-sinnvoll-5954040-0/ "Strompreiserhöhung im Ferienhaus - Widerspruch ist sinnvoll")
-* [Gemischte Säfte und Smoothies: Viel Apfel, viel Enttäuschung](https://www.test.de/Gemischte-Saefte-und-Smoothies-Viel-Apfel-viel-Enttaeuschung-6138284-0/ "Gemischte Säfte und Smoothies - Viel Apfel, viel Enttäuschung")
+* [Sport­socken im Test: Zwei schrumpfen, drei scheuern durch](https://www.test.de/Sportsocken-im-Test-Zwei-schrumpfen-drei-scheuern-durch-6141956-0/ "Sportsocken im Test - Zwei schrumpfen, drei scheuern durch")
+* [Seelische Leiden behandeln: Psycho­therapie hilft auch im Alter](https://www.test.de/Psychotherapie-im-Alter-6068656-0/ "Seelische Leiden behandeln - Psychotherapie hilft auch im Alter")
+* [Daten­pannen bei Facebook und Co: 3000 Euro Schmerzens­geld für Telefon-Terror](https://www.test.de/Facebook-Datenpanne-Schmerzensgeld-nach-Hacker-Erfolg-5933730-0/ "Datenpannen bei Facebook und Co - 3000 Euro Schmerzensgeld für Telefon-Terror")
+* [Verpackungs­ärger: Sardellenfilets von Delicius](https://www.test.de/Verpackungsaerger-Sardellenfilets-von-Delicius-6046007-0/ "Verpackungsärger - Sardellenfilets von Delicius")
 
 Neueste Tests
 
@@ -2813,12 +2813,12 @@ Neueste Tests
 
 test.de entdecken
 
+* [Lyoner, Mortadella & Co: Wurst-Aufschnitt im Test](https://www.test.de/Lyoner-Mortadella-Co-Wurst-Aufschnitt-im-Test-6046593-0/ "Lyoner, Mortadella & Co - Wurst-Aufschnitt im Test")
 * [Lang­zeit­analyse der Fünf-Punkte-Strategie: Europafonds besser als die Benchmark](https://www.test.de/Langzeitanalyse-der-Fuenf-Punkte-Strategie-Europafonds-besser-als-die-Benchmark-6004243-0/ "Langzeitanalyse der Fünf-Punkte-Strategie - Europafonds besser als die Benchmark")
-* [Fonds: Globale 1. Wahl-ETF aus unserem Dauer­test](https://www.test.de/Fonds-Globale-1-Wahl-ETF-aus-unserem-Dauertest-6144127-0/ "Fonds - Globale 1. Wahl-ETF aus unserem Dauertest")
-* [Ib-Ex Bank: Geschäfte ohne Erlaubnis](https://www.test.de/Ib-Ex-Bank-Geschaefte-ohne-Erlaubnis-6028212-0/ "Ib-Ex Bank - Geschäfte ohne Erlaubnis")
-* [Ringelröteln: Für Kinder meist harmlos, für Schwangere nicht](https://www.test.de/Ringelroeteln-Fuer-Kinder-meist-harmlos-fuer-Schwangere-nicht-6123237-0/ "Ringelröteln - Für Kinder meist harmlos, für Schwangere nicht")
-* [Strom­preis­erhöhung im Ferien­haus: Wider­spruch ist sinn­voll](https://www.test.de/Strompreiserhoehung-im-Ferienhaus-Widerspruch-ist-sinnvoll-5954040-0/ "Strompreiserhöhung im Ferienhaus - Widerspruch ist sinnvoll")
-* [Gemischte Säfte und Smoothies: Viel Apfel, viel Enttäuschung](https://www.test.de/Gemischte-Saefte-und-Smoothies-Viel-Apfel-viel-Enttaeuschung-6138284-0/ "Gemischte Säfte und Smoothies - Viel Apfel, viel Enttäuschung")
+* [Sport­socken im Test: Zwei schrumpfen, drei scheuern durch](https://www.test.de/Sportsocken-im-Test-Zwei-schrumpfen-drei-scheuern-durch-6141956-0/ "Sportsocken im Test - Zwei schrumpfen, drei scheuern durch")
+* [Seelische Leiden behandeln: Psycho­therapie hilft auch im Alter](https://www.test.de/Psychotherapie-im-Alter-6068656-0/ "Seelische Leiden behandeln - Psychotherapie hilft auch im Alter")
+* [Daten­pannen bei Facebook und Co: 3000 Euro Schmerzens­geld für Telefon-Terror](https://www.test.de/Facebook-Datenpanne-Schmerzensgeld-nach-Hacker-Erfolg-5933730-0/ "Datenpannen bei Facebook und Co - 3000 Euro Schmerzensgeld für Telefon-Terror")
+* [Verpackungs­ärger: Sardellenfilets von Delicius](https://www.test.de/Verpackungsaerger-Sardellenfilets-von-Delicius-6046007-0/ "Verpackungsärger - Sardellenfilets von Delicius")
 
 Service Stiftung Warentest
 
