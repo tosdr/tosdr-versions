@@ -29,17 +29,17 @@ Version All 1.21.1 1.21 1.20.6 1.20.5 1.20.4 1.20.3 1.20.2 1.20.1 1.20 1.19.4 1.
 
 Active Servers
 
-[![CraftedSurvival](plugins/MineCraft/icons/25x25xCraftedSurvival_1724663271.png.pagespeed.ic.7xXnoJyxX-.png)
+[![TerminaMC](plugins/MineCraft/icons/25x25xTerminaMC_1726949844.png.pagespeed.ic.L5Ygs_RV_u.jpg)
 
-Crafted Survival](https://minecraft-server.net/details/CraftedSurvival/ "Crafted Survival")[![Crackex_Network](plugins/MineCraft/icons/25x25xCrackex_Network_1719945700.png.pagespeed.ic.5lGRZnbn0U.jpg)
+Termina - Towny Wartime! \[Crossplay\]](https://minecraft-server.net/details/TerminaMC/ "Termina - Towny Wartime! [Crossplay]")[![Niron](plugins/MineCraft/icons/Niron_1706892061.png.pagespeed.ce.IkJB58kMfF.png)
 
-BEST SURVIVAL • CrackexNet](https://minecraft-server.net/details/Crackex_Network/ "BEST SURVIVAL • CrackexNet ")[![creativefun](plugins/MineCraft/icons/25x25xcreativefun_1602168002.png.pagespeed.ic.xhW37hCj2R.jpg)
+Steinercraft - Vanilla-based Anarchy](https://minecraft-server.net/details/Niron/ "Steinercraft - Vanilla-based Anarchy")[![tntw](plugins/MineCraft/icons/25x25xtntw_1638554506.png.pagespeed.ic.HRxhBu2uvh.png)
 
-CreativeFun](https://minecraft-server.net/details/creativefun/ "CreativeFun")[![kchscraft](plugins/MineCraft/icons/25x25xkchscraft_1658311151.png.pagespeed.ic.fnqNIplg0a.png)
+TNTWcraft](https://minecraft-server.net/details/tntw/ "TNTWcraft")[![CommenceSMP](plugins/MineCraft/icons/25x25xCommenceSMP_1719969626.png.pagespeed.ic.Cyrkrvi0-q.jpg)
 
-KCHS Craft](https://minecraft-server.net/details/kchscraft/ "KCHS Craft")[![Niron](plugins/MineCraft/icons/Niron_1706892061.png.pagespeed.ce.IkJB58kMfF.png)
+\- CommenceSMP - play.CommenceSMP.com - The Ultimate Free Experience - 4+ in-depth Game-Modes - Community Focused -](https://minecraft-server.net/details/CommenceSMP/ "- CommenceSMP - play.CommenceSMP.com - The Ultimate Free Experience - 4+ in-depth Game-Modes - Community Focused -")[![Folas1337](plugins/MineCraft/icons/25x25xFolas1337_1706960544.png.pagespeed.ic.Pyg45_j9S1.png)
 
-Steinercraft - Vanilla-based Anarchy](https://minecraft-server.net/details/Niron/ "Steinercraft - Vanilla-based Anarchy")
+~~ MetaUnion ~~ \[Friendly Community, No Pay2Win, RPG Survival, Creative, SkyBlock, Builders, Minigames\]](https://minecraft-server.net/details/Folas1337/ "~~ MetaUnion ~~ [Friendly Community, No Pay2Win, RPG Survival, Creative, SkyBlock, Builders, Minigames]")
 
 1. [Minecraft Servers](https://minecraft-server.net/)
 2. Privacy Policy
@@ -142,4 +142,4 @@ Set
 * [Statistics](https://minecraft-server.net/overall-stats/ "Statistics")
 * [Contact](https://minecraft-server.net/contact/ "Contact")
 
-© Minecraft-Server.net 2024. All rights reserved. 'Minecraft' is a property of [Mojang](https://www.mojang.com/). You can buy [Minecraft here](https://www.minecraft.net/). 7 queries, time: 0.06065 - Created by [Debaucus](https://debauc.us/)
+© Minecraft-Server.net 2024. All rights reserved. 'Minecraft' is a property of [Mojang](https://www.mojang.com/). You can buy [Minecraft here](https://www.minecraft.net/). 7 queries, time: 0.06474 - Created by [Debaucus](https://debauc.us/)
