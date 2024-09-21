@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/politiek/valse-vlag-operaties/george-floyd-vermoord-door-crisisacteur-ben-r-bailey/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/inspiratie/arend-zeevat/doe-niets-en-laat-niets-ongedaan/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
