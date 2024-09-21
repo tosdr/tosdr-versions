@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-d5fdce602f6545203f672745e157ba9d
+5b0e2262bb3232cb2c2f8656a7e167f6
 
 [](# "Expand for more options")[](# "Search")
 
@@ -142,11 +142,11 @@ Terms and Conditions
 
 ### Featured Product
 
-[![EB18 bead](https://sojourner.biz/images/cache/EB18lbl.200.jpg)](https://sojourner.biz/beads/metal/eb18-bead.html "EB18 bead")
+[![Vintage square intaglio pendant](https://sojourner.biz/images/cache/C0008variations.200.jpg)](https://sojourner.biz/components/vintage-square-intaglio-pendant.html "Vintage square intaglio pendant")
 
-#### [EB18 bead](https://sojourner.biz/beads/metal/eb18-bead.html "EB18 bead")
+#### [Vintage square intaglio pendant](https://sojourner.biz/components/vintage-square-intaglio-pendant.html "Vintage square intaglio pendant")
 
-$6.50
+$22.00
 
 ### Best Sellers
 
@@ -158,10 +158,10 @@ $6.50
     $16.00
 4. [Swarovski crystal AB clasp](https://sojourner.biz/clasps/swarovski/swarovski-crystal-ab-clasp.html "Swarovski crystal AB clasp")  
     $28.00
-5. [White pearl toggle clasp](https://sojourner.biz/clasps/toggles/white-pearl-toggle-clasp.html "White pearl toggle clasp")  
-    $28.00
-6. [Square pearl clasp](https://sojourner.biz/clasps/pearl/square-pearl-clasp.html "Square pearl clasp")  
+5. [Square pearl clasp](https://sojourner.biz/clasps/pearl/square-pearl-clasp.html "Square pearl clasp")  
     $16.00
+6. [White pearl toggle clasp](https://sojourner.biz/clasps/toggles/white-pearl-toggle-clasp.html "White pearl toggle clasp")  
+    $28.00
 7. [Neon blue Swarovski polka dot clasp](https://sojourner.biz/clasps/swarovski/neon-blue-swarovski-polka-dot-clasp.html "Neon blue Swarovski polka dot clasp")  
     $15.00
 8. [Red bar clasp](https://sojourner.biz/clasps/glass/red-bar-clasp.html "Red bar clasp")  
