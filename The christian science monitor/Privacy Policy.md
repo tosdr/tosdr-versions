@@ -158,11 +158,11 @@ Regions
 
 Recent Stories
 
+[### Israeli strike on Beirut apartment kills a Hezbollah leader wanted by the US](https://www.csmonitor.com/World/Middle-East/2024/0921/Israeli-strike-on-Beirut-apartment-kills-a-Hezbollah-leader-wanted-by-the-US "Israeli strike on Beirut apartment kills a Hezbollah leader wanted by the US")
+
 [### Hezbollah and Israel exchange hundreds of missiles in worst conflict since 2006 war](https://www.csmonitor.com/World/Middle-East/2024/0920/Israel-Beirut-Hezbollah-strikes-explosions "Hezbollah and Israel exchange hundreds of missiles in worst conflict since 2006 war")
 
 [### What a Tunisian exodus says about the future of global migration](https://www.csmonitor.com/World/Middle-East/2024/0920/climate-migration-inequality-Tunisia "What a Tunisian exodus says about the future of global migration")
-
-[### Why Shohei Ohtani may have just passed Babe Ruth as the greatest baseball player ever](https://www.csmonitor.com/USA/2024/0920/shohei-ohtani-50-50-LA-dodgers-record "Why Shohei Ohtani may have just passed Babe Ruth as the greatest baseball player ever")
 
 * * *
 
