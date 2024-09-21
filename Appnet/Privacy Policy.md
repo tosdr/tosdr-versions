@@ -211,7 +211,7 @@ If you decide that you do not want us to use your personal information in the ma
 
 Effective Date: February 11, 2024
 
-#### FIND LOCAL CONTRACTORS
+#### DISCOVER AI APPS
 
 * * *
 
@@ -248,7 +248,7 @@ Effective Date: February 11, 2024
     * Русский
     
 
-#### © contractor.bar
+#### © app.net
 
 * [Site Map](https://app.net/sitemap)
 * [GDPR](https://app.net/gdpr)
