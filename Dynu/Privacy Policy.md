@@ -240,11 +240,9 @@ Questions, comments and requests regarding this Privacy Policy are welcomed and 
   
 Please check back frequently to see any updates or changes to our privacy policy.
 
-#### Want to integrate our service into your own application?
+Share this page
 
-  
-[Check out our API](https://www.dynu.com/Resources/API)  
-  
+[Join the community >](https://www.dynu.com/Support)
 
 ### News
 
