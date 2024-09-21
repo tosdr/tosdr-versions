@@ -1,6 +1,6 @@
-**Notice:** If you are a merchant processing transactions through PSP Services Inc. or PSiGate, we will no longer be your acquiring financial institution as of August 5, 2024. For questions, please email [\[email protected\]](https://www.peoplestrust.com/cdn-cgi/l/email-protection)
+**Notice:** Please note that there will be a system update to the online banking platform on September 21st and September 22nd that may cause periodic interruptions to online banking services. We apologize for any inconvenience.
 
-**Attention:** Si vous êtes un commerçant et effectuez des transactions par l'intermédiaire de PSP Services Inc. ou de PSiGate, veuillez prendre note qu'à partir du 5 août 2024, nous ne serons plus votre institution financière acquéreuse. Pour toute question, veuillez envoyer un courriel à [\[email protected\]](https://www.peoplestrust.com/cdn-cgi/l/email-protection)
+**Attention:** Veuillez noter qu'il y aura une mise à jour du système de la plateforme bancaire en ligne les 21 et 22 Septembre, ce qui pourrait entraîner des interruptions périodiques des services bancaires en ligne. Nous sommes désolés pour ce désagrément.
 
 ### **Website Terms & Conditions of Use**
 
