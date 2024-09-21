@@ -128,39 +128,39 @@ Advertisement
     The Beginning and the End of the Universe
     
     Episode 1: The BeginingEmbarking on a cosmic journey, Professor Jim Al-Khalili transports us through the corridors of time to confront science's most profound inquiry: the genesis of the univers...](https://documentaryheaven.com/the-beginning-and-the-end-of-the-universe/ "The Beginning and the End of the Universe")
-* [![EP 4/6 The Private Life of Plants](/wp-content/thumbnails/2493-100x70.jpg?x53432)
+* [![The War On Drugs: The Prison Industrial Complex](/wp-content/thumbnails/958-100x70.gif?x53432)
     
-    EP 4/6 The Private Life of Plants
+    The War On Drugs: The Prison Industrial Complex
     
-    Broadcast 26 January 1995, this episode examines how plants either share environments harmoniously or compete for dominance within them. Attenborough highlights the 1987 hurricane and the devastation ...](https://documentaryheaven.com/the-private-life-of-plants-4/ "EP 4/6 The Private Life of Plants")
+    The war on drugs has been going on for more than three decades. Today, nearly 500,000 Americans are imprisoned on drug charges. In 1980 the number was 50,000. Last year $40 billion in taxpayer dollars...](https://documentaryheaven.com/the-war-on-drugs-the-prison-industrial-complex/ "The War On Drugs: The Prison Industrial Complex")
 
 ###### Throwback Documentaries
 
-* [![Cell Phones: What They Didn’t Tell You](/wp-content/thumbnails/769-100x70.png?x53432)
+* [![The Rich Kids Of Instagram](/wp-content/thumbnails/11931-100x70.jpg?x53432)
     
-    Cell Phones: What They Didn’t Tell You
+    The Rich Kids Of Instagram
     
-    "Have you ever noticed how different your ear or head feels after talking on your cell phone? Dr. Nick Begich reveals the findings of studies the cell phone companies don't want you to know about."](https://documentaryheaven.com/cell-phones-what-they-didnt-tell-you/ "Cell Phones: What They Didn’t Tell You")
-* [![Barber Shop City](/wp-content/thumbnails/9597-100x70.jpg?x53432)
+    With the rise of Instagram we saw the worlds richest 1% of people gain a means to show off their jet-setting lifestyles to the remaining 99% of us. This being said Instagram now gets roughly 70 millio](https://documentaryheaven.com/rich-kids-of-instagram/ "The Rich Kids Of Instagram")
+* [![Voices From The Grave](/wp-content/thumbnails/4581-100x70.jpg?x53432)
     
-    Barber Shop City
+    Voices From The Grave
     
-    The barber shop culture that resides within the 32 boroughs of London is extensively unique unto itself. On the streets of South London there are over 500 operating barber shops, open to business to t](https://documentaryheaven.com/barber-shop-city/ "Barber Shop City")
-* [![Anvil! The Story Of Anvil](/wp-content/thumbnails/3162-100x70.jpg?x53432)
+    A compelling documentary tells the story of the Irish Troubles through the unflinching testimony of two men who were on opposite sides of that bloody conflict, the Provisional IRA’s Brendan Hughes, wh](https://documentaryheaven.com/voices-from-the-grave/ "Voices From The Grave")
+* [![Pink Floyd: The Making of Dark Side of the Moon](/wp-content/thumbnails/6908-100x70.png?x53432)
     
-    Anvil! The Story Of Anvil
+    Pink Floyd: The Making of Dark Side of the Moon
     
-    ANVIL! THE STORY OF ANVIL is the sensitive and irresistibly funny story of unsung heroes of Canadian heavy metal Anvil. Jewish teenagers Robb Reiner and Steve "Lips" Kudlow met in the mid-seventies in](https://documentaryheaven.com/anvil-the-story-of-anvil/ "Anvil! The Story Of Anvil")
-* [![The Truth About Size Zero](/wp-content/thumbnails/7321-100x70.jpg?x53432)
+    If there are a handful of albums in the rock universe that deserve a bells-and-whistles DVD treatment, Dark Side of the Moon is clearly among them. In the ’70s and ’80s, the classic 1973 album by Pink](https://documentaryheaven.com/pink-floyd-making-dark-side-of-the-moon/ "Pink Floyd: The Making of Dark Side of the Moon")
+* [![12th and Delaware](/wp-content/thumbnails/5850-100x70.jpg?x53432)
     
-    The Truth About Size Zero
+    12th and Delaware
     
-    Louise Redknapp discovers first hand the dangers of the current obsession with being stick thin when she undertakes an extreme crash diet and exercise regime in an attempt to drop to a US dress size z](https://documentaryheaven.com/truth-about-size-zero/ "The Truth About Size Zero")
-* [![The Outer Planets](/wp-content/thumbnails/62-100x70.png?x53432)
+    The two sides of the abortion debate in America literally face one another in this documentary from filmmakers Heidi Ewing and Rachel Grady. In Fort Pierce, Florida, a women's heath care center is loc](https://documentaryheaven.com/12th-and-delaware/ "12th and Delaware")
+* [![Homeopathy: The Test](/wp-content/thumbnails/574-100x70.png?x53432)
     
-    The Outer Planets
+    Homeopathy: The Test
     
-    New discoveries regarding the Outer Planets are creating a fundamental rethinking of our solar system. Uranus is a toxic combination of hydrogen, helium and methane. Scientists speculate that the plan](https://documentaryheaven.com/the-outer-planets/ "The Outer Planets")
+    Homeopathy was pioneered over 200 years ago. Practitioners and patients are convinced it has the power to heal. Today, some of the most famous and influential people in the world, including pop stars,](https://documentaryheaven.com/homeopathy-the-test/ "Homeopathy: The Test")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
