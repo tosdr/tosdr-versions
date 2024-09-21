@@ -54,7 +54,7 @@ Unless specified otherwise in this document, Personal Data shall be processed an
 The purposes of processing
 --------------------------
 
-The Data concerning the User is collected to allow the Owner to provide its Service, comply with its legal obligations, respond to enforcement requests, protect its rights and interests (or those of its Users or third parties), detect any malicious or fraudulent activity, as well as the following: SPAM protection, Interaction with external social networks and platforms, Displaying content from external platforms, Content commenting, Contacting the User, Managing contacts and sending messages, Traffic optimization and distribution, Handling payments, Tag Management, Hosting and backend infrastructure, Analytics, Heat mapping and session recording, Advertising, Registration and authentication provided directly by this Website, Building and running this Website and Interaction with data collection platforms and other third parties.
+The Data concerning the User is collected to allow the Owner to provide its Service, comply with its legal obligations, respond to enforcement requests, protect its rights and interests (or those of its Users or third parties), detect any malicious or fraudulent activity, as well as the following: SPAM protection, Interaction with external social networks and platforms, Displaying content from external platforms, Content commenting, Contacting the User, Managing contacts and sending messages, Traffic optimization and distribution, Tag Management, Hosting and backend infrastructure, Analytics, Heat mapping and session recording, Handling payments, Advertising, Registration and authentication provided directly by this Website, Building and running this Website and Interaction with data collection platforms and other third parties.
 
 For specific information about the Personal Data used for each purpose, the User may refer to the section “Detailed information on the processing of Personal Data”.
 
@@ -352,18 +352,6 @@ Personal Data is collected for the following purposes and using the following se
     
     Unless otherwise specified, this Website processes any payments by credit card, bank transfer or other means via external payment service providers. In general and unless where otherwise stated, Users are requested to provide their payment details and personal information directly to such payment service providers. This Website isn't involved in the collection and processing of such information: instead, it will only receive a notification by the relevant payment service provider as to whether payment has been successfully completed.
     
-    #### Stripe (Stripe Inc)
-    
-    Stripe is a payment service provided by Stripe Inc.
-    
-    Personal Data processed: various types of Data as specified in the privacy policy of the service.
-    
-    Place of processing: United States – [Privacy Policy](https://stripe.com/gb/privacy).
-    
-    Category of Personal Information collected according to the CCPA: internet or other electronic network activity information.
-    
-    This processing constitutes:
-    
     #### PayPal (PayPal Inc.)
     
     PayPal is a payment service provided by PayPal Inc., which allows Users to make online payments.
@@ -377,6 +365,16 @@ Personal Data is collected for the following purposes and using the following se
     This processing constitutes:
     
     * a Sale in Virginia, Colorado, Connecticut, Utah, Texas, Oregon and Montana
+    
+    #### Stripe (Stripe, Inc.)
+    
+    Stripe is a payment service provided by Stripe, Inc.
+    
+    Personal Data processed: email address; first name; last name; Trackers; Usage Data.
+    
+    Place of processing: United States – [Privacy Policy](https://stripe.com/privacy).
+    
+    Category of Personal Information collected according to the CCPA: identifiers; internet or other electronic network activity information.
     
 * ### Heat mapping and session recording
     
@@ -730,7 +728,7 @@ _While such categorization of Personal Information is mainly based on California
 
 * ### Internet or other electronic network activity information
     
-    **Personal Information collected or disclosed:** various types of Data as specified in the privacy policy of the service, Cookies, Usage Data, Data communicated while using the service, Tracker, session duration, clicks, interaction events, Trackers, answers to questions, keypress events, motion sensor events, mouse movements, scroll position, touch events, browser information, email address, unique device identifiers for advertising (Google Advertiser ID or IDFA, for example), geographic position, language, metadata
+    **Personal Information collected or disclosed:** various types of Data as specified in the privacy policy of the service, Cookies, Usage Data, Data communicated while using the service, Tracker, session duration, clicks, interaction events, Trackers, answers to questions, keypress events, motion sensor events, mouse movements, scroll position, touch events, browser information, email address, unique device identifiers for advertising (Google Advertiser ID or IDFA, for example), geographic position, language, metadata, first name, last name
     
     **Purposes:**
     
@@ -738,7 +736,6 @@ _While such categorization of Personal Information is mainly based on California
     * Interaction with external social networks and platforms
     * Displaying content from external platforms
     * Traffic optimization and distribution
-    * Handling payments
     * Tag Management
     * Hosting and backend infrastructure
     * Further information about Personal Data
@@ -747,6 +744,7 @@ _While such categorization of Personal Information is mainly based on California
     * Advertising
     * Building and running this Website
     * Managing contacts and sending messages
+    * Handling payments
     
     **Retention period:** for the time necessary to fulfill the purpose
     
@@ -754,7 +752,7 @@ _While such categorization of Personal Information is mainly based on California
     
     **Targeted Advertising: ℹ️:** Yes
     
-    **Third-parties:** Automattic Inc., PayPal Inc., Google LLC, Getty Images, Inc., Vimeo, LLC, Facebook, Inc., X Corp., Cloudflare Inc., Stripe Inc, Fonticons, Inc. , iubenda srl, Microsoft Corporation, Meta Platforms, Inc., this Website, AppNexus Inc., Lilomi, Inc.
+    **Third-parties:** Automattic Inc., PayPal Inc., Google LLC, Getty Images, Inc., Vimeo, LLC, Facebook, Inc., X Corp., Cloudflare Inc., Fonticons, Inc. , iubenda srl, Microsoft Corporation, Meta Platforms, Inc., this Website, AppNexus Inc., Lilomi, Inc., Stripe, Inc.
     
     **Service providers or contractors:** Incsub, LLC
     
@@ -780,7 +778,7 @@ _While such categorization of Personal Information is mainly based on California
     
     **Targeted Advertising: ℹ️:** Yes
     
-    **Third-parties:** The Rocket Science Group LLC, PayPal Inc., this Website, Automattic Inc., Intuit Inc., Lilomi, Inc.
+    **Third-parties:** The Rocket Science Group LLC, PayPal Inc., this Website, Automattic Inc., Intuit Inc., Lilomi, Inc., Stripe, Inc.
     
     **Service providers or contractors:** this Website, Mailgun Technologies, Inc.
     
@@ -1002,7 +1000,7 @@ This privacy statement has been prepared based on provisions of multiple legisla
 
 This privacy policy relates solely to this Website, if not stated otherwise within this document.
 
-Latest update: August 23, 2024
+Latest update: September 21, 2024
 
 [iubenda](https://www.iubenda.com/en/privacy-and-cookie-policy-generator "iubenda - Privacy Policy generator") hosts this content and only collects [the Personal Data strictly necessary](https://www.iubenda.com/privacy-policy/65675001) for it to be provided.
 
