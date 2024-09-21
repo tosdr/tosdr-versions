@@ -299,6 +299,14 @@
 
 [Все новости](https://er.ru/activity/news)
 
+[![В регистр доноров костного мозга вступили еще 100 активистов «Молодой Гвардии Единой России»](https://cdn.er.ru/media/news/September2024/R82400pS10Foja917Suc-small.jpg)](https://er.ru/activity/news/v-registr-donorov-kostnogo-mozga-vstupili-eshe-100-aktivistov-molodoj-gvardii-edinoj-rossii)
+
+[В регистр доноров костного мозга вступили еще 100 активистов «Молодой Гвардии Единой России»](https://er.ru/activity/news/v-registr-donorov-kostnogo-mozga-vstupili-eshe-100-aktivistov-molodoj-gvardii-edinoj-rossii)
+
+[#МГЕР](https://er.ru/activity/news?tags%5B0%5D=47) [#Демидов](https://er.ru/activity/news?tags%5B0%5D=8672) [#донорство](https://er.ru/activity/news?tags%5B0%5D=647) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#акция](https://er.ru/activity/news?tags%5B0%5D=238)
+
+Сегодня 15:43
+
 [![При поддержке «Единой России» в Санкт-Петербурге высадили аллею в честь 50-летия с начала строительства Байкало-Амурской магистрали](https://cdn.er.ru/media/news/September2024/JPNwPXekngdrGHNiHIRE-small.jpg)](https://er.ru/activity/news/pri-podderzhke-edinoj-rossii-v-sankt-peterburge-vysadili-alleyu-v-chest-50-letiya-s-nachala-stroitelstva-bajkalo-amurskoj-magistrali)
 
 [При поддержке «Единой России» в Санкт-Петербурге высадили аллею в честь 50-летия с начала строительства Байкало-Амурской магистрали](https://er.ru/activity/news/pri-podderzhke-edinoj-rossii-v-sankt-peterburge-vysadili-alleyu-v-chest-50-letiya-s-nachala-stroitelstva-bajkalo-amurskoj-magistrali)
@@ -336,14 +344,6 @@
 [Владимир Якушев: В основе поддержки Алексея Текслера на выборах лежат позитивные изменения в Челябинской области](https://er.ru/activity/news/vladimir-yakushev-v-osnove-podderzhki-alekseya-tekslera-na-vyborah-lezhat-pozitivnye-izmeneniya-v-chelyabinskoj-oblasti)
 
 [#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#Текслер](https://er.ru/activity/news?tags%5B0%5D=131613) [#Челябинская область](https://er.ru/activity/news?tags%5B0%5D=191) [#инаугурация](https://er.ru/activity/news?tags%5B0%5D=3430) [#выборы2024](https://er.ru/activity/news?tags%5B0%5D=1095001) [#ЕДГ2024](https://er.ru/activity/news?tags%5B0%5D=1095607)
-
-20.09.24
-
-[![«Единая Россия» подвела итоги акции «Русский Крым и Севастополь»](https://cdn.er.ru/media/news/September2024/Vp5Hr9mvJTReBGUl5eoW-small.png)](https://er.ru/activity/news/edinaya-rossiya-podvela-itogi-akcii-russkij-krym-i-sevastopol)
-
-[«Единая Россия» подвела итоги акции «Русский Крым и Севастополь»](https://er.ru/activity/news/edinaya-rossiya-podvela-itogi-akcii-russkij-krym-i-sevastopol)
-
-[#Романов](https://er.ru/activity/news?tags%5B0%5D=8320) [#партпроект](https://er.ru/activity/news?tags%5B0%5D=632) [#МирВозможностей](https://er.ru/activity/news?tags%5B0%5D=1092793) [#акция](https://er.ru/activity/news?tags%5B0%5D=238) [#русскийкрымисевастополь](https://er.ru/activity/news?tags%5B0%5D=1095762) [#школьники](https://er.ru/activity/news?tags%5B0%5D=127834) [#занятия](https://er.ru/activity/news?tags%5B0%5D=24809) [#Развожаев](https://er.ru/activity/news?tags%5B0%5D=140170)
 
 20.09.24
 
