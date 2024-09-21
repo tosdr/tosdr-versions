@@ -89,7 +89,7 @@ Contact us
 
  ![globe icon](https://www.the-qrcode-generator.com/wp-content/themes/tqrcg/img/Globe_icon.svg) English ![arrow](https://www.the-qrcode-generator.com/wp-content/themes/tqrcg/img/arrow-up.svg) 
 
-© 2024 Uniqode Phygital, Inc.
+[© 2024 Uniqode Phygital, Inc.](https://www.uniqode.com/)
 
  [![facebook](https://www.the-qrcode-generator.com/wp-content/themes/tqrcg/img/footer/facebook.svg "facebook")](https://www.facebook.com/people/The-QR-Code-Generator/100094303001130/)[![twitter](https://www.the-qrcode-generator.com/wp-content/themes/tqrcg/img/footer/twitter.svg "twitter")](https://x.com/theqrcodegene)[![youtube](https://www.the-qrcode-generator.com/wp-content/themes/tqrcg/img/footer/youtube.svg "youtube")](https://www.youtube.com/channel/UC9NUH47iH5Sk1EeN0y4Jzaw)[![linkedin](https://www.the-qrcode-generator.com/wp-content/themes/tqrcg/img/footer/linkedin.svg "linkedin")](https://www.linkedin.com/company/the-qr-code-generator/)
 
