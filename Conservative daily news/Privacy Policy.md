@@ -177,6 +177,7 @@ Recent Posts
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
 
+* [Stoeger Presents “The Opener” a New Short Film on One Duck Hunting Tradition](https://www.thegunpage.com/stoeger-presents-the-opener-a-new-short-film-on-one-duck-hunting-tradition/10610725)
 * [Authorities Seize Over 350 Websites Importing Switches And Suppressors From China](https://www.thegunpage.com/authorities-seize-over-350-websites-importing-switches-and-suppressors-from-china/10610720)
 * [Classic SSUSA: Turnbull Manufacturing Restores An Old War Horse](https://www.thegunpage.com/classic-ssusa-turnbull-manufacturing-restores-an-old-war-horse/10610719)
 * [Serbian AKs, Part 6: Morana, an Ambitious AK Upgrade Program](https://www.thegunpage.com/serbian-aks-part-6-morana-an-ambitious-ak-upgrade-program/10610717)
@@ -186,7 +187,6 @@ Recent Posts
 * [Anti-Gunners Distort Evidence on Defensive Firearms Uses](https://www.thegunpage.com/anti-gunners-distort-evidence-on-defensive-firearms-uses/10610709)
 * [Henry Announces The 10-Shot .22 Golden Boy](https://www.thegunpage.com/henry-announces-the-10-shot-22-golden-boy/10610705)
 * [Michigan Man Free After Shooting Ruled Self-Defense](https://www.thegunpage.com/michigan-man-free-after-shooting-ruled-self-defense/10610704)
-* [Galco Miami Classic II Now Available For Colt King Cobra](https://www.thegunpage.com/galco-miami-classic-ii-now-available-for-colt-king-cobra/10610700)
 
 [![ Conservative Political Blogs](https://blog.feedspot.com/wp-content/uploads/2016/12/conservative_political_216px.png?x58297)](https://blog.feedspot.com/conservative_political_blogs/ "Conservative Political Blogs")
 
