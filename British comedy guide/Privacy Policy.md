@@ -140,6 +140,14 @@ _This privacy policy was last updated on 24th May 2018, with minor clarification
 
 ### See also
 
+[![Richard Gill](https://cdn.comedy.co.uk/images/library/people/300x200/r/richard_gill.jpg "Richard Gill")](https://www.comedy.co.uk/live/features/richard-gill-25-special-shows/) Live
+
+[Celebrating 50 years of watching stand-up: Richard Gill's 25 special shows](https://www.comedy.co.uk/live/features/richard-gill-25-special-shows/)
+
+[![Runi Talwar](https://cdn.comedy.co.uk/images/library/people/300x200/r/runi_talwar_b.jpg "Runi Talwar")](https://www.comedy.co.uk/live/fgwg/runi-talwar/) Live
+
+[First Gig, Worst Gig: Runi Talwar](https://www.comedy.co.uk/live/fgwg/runi-talwar/)
+
 [![Ask Your Mother. Fin Taylor](https://cdn.comedy.co.uk/images/library/misc/300x200/f/fin_taylor_ask_your_mother.jpg "Ask Your Mother. Fin Taylor")](https://www.comedy.co.uk/live/features/bobby-carroll-diary-fin-taylor-lou-conran-sarah-millican/) Live
 
 [Fin Taylor / Lou Conran / Sarah Millican - Bobby Carroll's Live Comedy Diary](https://www.comedy.co.uk/live/features/bobby-carroll-diary-fin-taylor-lou-conran-sarah-millican/)
@@ -147,14 +155,6 @@ _This privacy policy was last updated on 24th May 2018, with minor clarification
 [![Smack The Pony. Image shows left to right: Doon Mackichan, Fiona Allen, Sally Phillips](https://cdn.comedy.co.uk/images/library/comedies/300x200/s/smack_the_pony_c.jpg "Smack The Pony. Image shows left to right: Doon Mackichan, Fiona Allen, Sally Phillips")](https://www.comedy.co.uk/quiz/324/) Quiz
 
 [British Comedy Quiz #324](https://www.comedy.co.uk/quiz/324/)
-
-[![Mark Thomas. Credit: Alex Brenner](https://cdn.comedy.co.uk/images/library/people/300x200/m/mark_thomas_england_and_son.jpg "Mark Thomas. Credit: Alex Brenner")](https://www.comedy.co.uk/live/circuit_training/mark-thomas-2024-interview/) Live
-
-[Circuit Training: The Mark Thomas Back-to-Comedy Project](https://www.comedy.co.uk/live/circuit_training/mark-thomas-2024-interview/)
-
-[![Katie Norris](https://cdn.comedy.co.uk/images/library/people/300x200/k/katie_norris_farm.jpg "Katie Norris")](https://www.comedy.co.uk/live/random8/katie-norris/) Live
-
-[Random 8: Katie Norris](https://www.comedy.co.uk/live/random8/katie-norris/)
 
 #### Subscribe to our newsletters
 
