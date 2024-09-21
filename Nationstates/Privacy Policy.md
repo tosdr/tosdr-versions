@@ -34,11 +34,11 @@ Login Stay logged in
 
 Latest Forum Topics
 
-* [American Politics: (Pumpkin)Spicy Sal… (7,561)](https://forum.nationstates.net/viewtopic.php?t=553897&f=20&view=unread#unread ""American Politics: (Pumpkin)Spicy Salaciousness in NC" (7,561 posts)")
-* [Why is Math Hated? (122)](https://forum.nationstates.net/viewtopic.php?t=555518&f=20&view=unread#unread ""Why is Math Hated?" (122 posts)")
-* [What triggers you about the AN? (7,859)](https://forum.nationstates.net/viewtopic.php?t=535499&f=25&view=unread#unread ""What triggers you about the AN?" (7,859 posts)")
-* [Compliment the Above Nation III (6,982)](https://forum.nationstates.net/viewtopic.php?t=513965&f=25&view=unread#unread ""Compliment the Above Nation III" (6,982 posts)")
-* [An Exploration Mission (Closed; Att'n… (2,631)](https://forum.nationstates.net/viewtopic.php?t=298914&f=5&view=unread#unread ""An Exploration Mission (Closed; Att'n Vallermoore)" (2,631 posts)")
+* [What Music Are You Listening to? v18 (10,922)](https://forum.nationstates.net/viewtopic.php?t=534070&f=19&view=unread#unread ""What Music Are You Listening to? v18" (10,922 posts)")
+* [International Security Directorate (O… (528)](https://forum.nationstates.net/viewtopic.php?t=546790&f=5&view=unread#unread ""International Security Directorate (OOC/application)" (528 posts)")
+* [YN's soldier thoughts about fighting AN. (506)](https://forum.nationstates.net/viewtopic.php?t=548986&f=25&view=unread#unread ""YN's soldier thoughts about fighting AN." (506 posts)")
+* [A new generation (IC|Closed|Attn. Ara… (109)](https://forum.nationstates.net/viewtopic.php?t=554018&f=5&view=unread#unread ""A new generation (IC|Closed|Attn. Arakhkhar)" (109 posts)")
+* [Transformers: Electric Trepidation (7,902)](https://forum.nationstates.net/viewtopic.php?t=548040&f=20&view=unread#unread ""Transformers: Electric Trepidation" (7,902 posts)")
 
 Advertisement
 
