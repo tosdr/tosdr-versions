@@ -240,11 +240,14 @@ Questions, comments and requests regarding this Privacy Policy are welcomed and 
   
 Please check back frequently to see any updates or changes to our privacy policy.
 
-#### Want to integrate our service into your own application?
+### Find a domain, create a website, and get custom email
 
   
-[Check out our API](https://www.dynu.com/Resources/API)  
+
+Search
+
   
+[#### I already have a domain name](https://www.dynu.com/ControlPanel/TransferDomainName)
 
 ### News
 
