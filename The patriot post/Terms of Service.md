@@ -203,16 +203,14 @@ All users and subscribers of Web site agree to abide by and comply with these "S
 
 ### Top Opinion
 
+*      [Matthew Continetti Biden’s Long Shadow](https://patriotpost.us/opinion/110429-bidens-long-shadow-2024-09-21)
+*      [Allen West The Delusional and Dangerous Hypocrisy](https://patriotpost.us/opinion/110358-the-delusional-and-dangerous-hypocrisy-2024-09-21)
+*      [The Washington Stand Fact-Checking PolitiFact, the Media, and Democrats on Born-Alive Infants](https://patriotpost.us/opinion/110430-fact-checking-politifact-the-media-and-democrats-on-born-alive-infants-2024-09-21)
 *      [Hans von Spakovsky Did Elite Colleges Lie to the Supreme Court or Are They Breaking the Law Today?](https://patriotpost.us/opinion/110418-did-elite-colleges-lie-to-the-supreme-court-or-are-they-breaking-the-law-today-2024-09-20)
 *      [David Harsanyi On Abortion, Kamala Harris Is the Extremist](https://patriotpost.us/opinion/110416-on-abortion-kamala-harris-is-the-extremist-2024-09-20)
 *      [Josh Hammer Why Are the Nutjobs Trying to Kill Political Opponents All Left-Wingers?](https://patriotpost.us/opinion/110414-why-are-the-nutjobs-trying-to-kill-political-opponents-all-left-wingers-2024-09-20)
 *      [Erick Erickson Progressives Lied. A Woman Died. Republicans Were Blamed.](https://patriotpost.us/opinion/110413-progressives-lied-a-woman-died-republicans-were-blamed-2024-09-20)
 *      [Tim Graham Kamala Harris Had Minority Journalists at ‘Hello’](https://patriotpost.us/opinion/110408-kamala-harris-had-minority-journalists-at-hello-2024-09-20)
-*      [Victor Davis Hanson Can Harris’s Cynical, Run-Out-the Clock Campaign Succeed?](https://patriotpost.us/opinion/110406-can-harriss-cynical-run-out-the-clock-campaign-succeed-2024-09-20)
-*      [Michael Reagan In Politics, the Pursuit of Purism Is for Losers](https://patriotpost.us/opinion/110417-in-politics-the-pursuit-of-purism-is-for-losers-2024-09-20)
-*      [Michael Barone Voters Don’t Want Harris’ or Trump’s Campaign Policies](https://patriotpost.us/opinion/110415-voters-dont-want-harris-or-trumps-campaign-policies-2024-09-20)
-*      [Gary Bauer A Big Deal](https://patriotpost.us/opinion/110411-a-big-deal-2024-09-20)
-*      [Mark Alexander Profiles of Valor: CPT Tom Cotton (USA)](https://patriotpost.us/alexander/110395-profiles-of-valor-cpt-tom-cotton-usa-2024-09-20)
 
 * [More Opinion >](https://patriotpost.us/opinion)
 
@@ -226,11 +224,7 @@ All users and subscribers of Web site agree to abide by and comply with these "S
 
 [END OF WATCH](https://patriotpost.us/end-of-watch)
 
-[Wear Your Patriotism on Your Sleeve
-
- 
-
-Shop Now](https://patriotpostshop.com/)
+[![](https://img.patriotpost.us/01J82YASE4QNMY5QGPJZ5PECFM.jpeg)](https://patriotpostshop.com/collections/founders-wisdom-coffee)
 
 ### The Foundation
 
