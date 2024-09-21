@@ -404,9 +404,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ It's only "work" if you'd rather be doing something else”
+“ Achieving a goal provides immediate satisfaction; the process of achieving a goal is a lasting pleasure”
 
-[Dean Kamen](https://en.wikipedia.org/wiki/Dean_Kamen)
+[Evelyn Berezin](https://computerhistory.org/profile/evelyn-berezin/)
 
 [](https://www.adafruit.com/about)
 
