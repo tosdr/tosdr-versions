@@ -128,39 +128,39 @@ Advertisement
     The Beginning and the End of the Universe
     
     Episode 1: The BeginingEmbarking on a cosmic journey, Professor Jim Al-Khalili transports us through the corridors of time to confront science's most profound inquiry: the genesis of the univers...](https://documentaryheaven.com/the-beginning-and-the-end-of-the-universe/ "The Beginning and the End of the Universe")
-* [![The War On Drugs: The Prison Industrial Complex](/wp-content/thumbnails/958-100x70.gif?x53432)
+* [![EP 4/6 The Private Life of Plants](/wp-content/thumbnails/2493-100x70.jpg?x53432)
     
-    The War On Drugs: The Prison Industrial Complex
+    EP 4/6 The Private Life of Plants
     
-    The war on drugs has been going on for more than three decades. Today, nearly 500,000 Americans are imprisoned on drug charges. In 1980 the number was 50,000. Last year $40 billion in taxpayer dollars...](https://documentaryheaven.com/the-war-on-drugs-the-prison-industrial-complex/ "The War On Drugs: The Prison Industrial Complex")
+    Broadcast 26 January 1995, this episode examines how plants either share environments harmoniously or compete for dominance within them. Attenborough highlights the 1987 hurricane and the devastation ...](https://documentaryheaven.com/the-private-life-of-plants-4/ "EP 4/6 The Private Life of Plants")
 
 ###### Throwback Documentaries
 
-* [![Disenfranchised in America](/wp-content/thumbnails/6599-100x70.jpg?x53432)
+* [![Cell Phones: What They Didn’t Tell You](/wp-content/thumbnails/769-100x70.png?x53432)
     
-    Disenfranchised in America
+    Cell Phones: What They Didn’t Tell You
     
-    New legislation across the US could have a huge impact on the country’s 2012 presidential elections. Largely Republican politicians have passed a range of new voting laws that groups fear could disen](https://documentaryheaven.com/disenfranchised-in-america/ "Disenfranchised in America")
-* [![9/11 The Firemens Story](/wp-content/thumbnails/6830-100x70.jpg?x53432)
+    "Have you ever noticed how different your ear or head feels after talking on your cell phone? Dr. Nick Begich reveals the findings of studies the cell phone companies don't want you to know about."](https://documentaryheaven.com/cell-phones-what-they-didnt-tell-you/ "Cell Phones: What They Didn’t Tell You")
+* [![Barber Shop City](/wp-content/thumbnails/9597-100x70.jpg?x53432)
     
-    9/11 The Firemens Story
+    Barber Shop City
     
-    9/11-The Firemen's Story explores how the brotherhood of New York's bravest was tested and strengthened in the smoke and flames of Sept. 11. An especially unfathomable day for the fire department, the](https://documentaryheaven.com/911-the-firemens-story/ "9/11 The Firemens Story")
-* [![Nazi Concentration Camps](/wp-content/thumbnails/7812-100x70.jpg?x53432)
+    The barber shop culture that resides within the 32 boroughs of London is extensively unique unto itself. On the streets of South London there are over 500 operating barber shops, open to business to t](https://documentaryheaven.com/barber-shop-city/ "Barber Shop City")
+* [![Anvil! The Story Of Anvil](/wp-content/thumbnails/3162-100x70.jpg?x53432)
     
-    Nazi Concentration Camps
+    Anvil! The Story Of Anvil
     
-    The Nazi Concentration Camps documentary was filmed in 1945 and entered as evidence at the Nuremberg Trials of Rudolf Hess, Hermann Göring, and 22 other Nazi officials in the aftermath of World War II](https://documentaryheaven.com/nazi-concentration-camps/ "Nazi Concentration Camps")
-* [![End: Civ Resist or Die](/wp-content/thumbnails/5823-100x70.jpg?x53432)
+    ANVIL! THE STORY OF ANVIL is the sensitive and irresistibly funny story of unsung heroes of Canadian heavy metal Anvil. Jewish teenagers Robb Reiner and Steve "Lips" Kudlow met in the mid-seventies in](https://documentaryheaven.com/anvil-the-story-of-anvil/ "Anvil! The Story Of Anvil")
+* [![The Truth About Size Zero](/wp-content/thumbnails/7321-100x70.jpg?x53432)
     
-    End: Civ Resist or Die
+    The Truth About Size Zero
     
-    END: CIV examines our culture’s addiction to systematic violence and environmental exploitation, and probes the resulting epidemic of poisoned landscapes and shell-shocked nations. Based in part on E](https://documentaryheaven.com/end-civ-resist-or-die/ "End: Civ Resist or Die")
-* [![Who Killed America’s Biggest Gadget?](/wp-content/thumbnails/7099-100x70.jpg?x53432)
+    Louise Redknapp discovers first hand the dangers of the current obsession with being stick thin when she undertakes an extreme crash diet and exercise regime in an attempt to drop to a US dress size z](https://documentaryheaven.com/truth-about-size-zero/ "The Truth About Size Zero")
+* [![The Outer Planets](/wp-content/thumbnails/62-100x70.png?x53432)
     
-    Who Killed America’s Biggest Gadget?
+    The Outer Planets
     
-    The hunt for the Higgs boson, god particle or goddamn particle, the one that gives things mass, came closer to an end.Physicists at CERN’s Large Hadron Collider in Europe, the world’s largest part](https://documentaryheaven.com/who-killed-americas-biggest-gadget/ "Who Killed America’s Biggest Gadget?")
+    New discoveries regarding the Outer Planets are creating a fundamental rethinking of our solar system. Uranus is a toxic combination of hydrogen, helium and methane. Scientists speculate that the plan](https://documentaryheaven.com/the-outer-planets/ "The Outer Planets")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
