@@ -235,11 +235,11 @@ Main Menu Mega
     Upcoming Event
     --------------
     
-    Sep20
+    Oct18
     
-    ### [Fireside Chat with Chair Khan at the Council of Foreign Relations](https://www.ftc.gov/news-events/events/2024/09/fireside-chat-chair-khan-council-foreign-relations)
+    ### [Second Federal Trade Commission Conference on Marketing and Public Policy](https://www.ftc.gov/news-events/events/2024/10/second-federal-trade-commission-conference-marketing-public-policy)
     
-    Friday, September 20, 2024 | 5:00PM - 6:00PM
+    Friday, October 18, 2024 | 8:00AM - 6:00PM
     
     [View more Events](https://www.ftc.gov/news-events/events)
     
