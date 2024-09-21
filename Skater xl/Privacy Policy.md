@@ -466,20 +466,20 @@ Very Positive (51 reviews) ![](https://store.akamai.steamstatic.com/public/share
 
 Review Type
 
- All (19,233)  
+ All (19,234)  
  Positive (16,549)  
- Negative (2,684)
+ Negative (2,685)
 
 Purchase Type
 
- All (19,233)  
+ All (19,234)  
  Steam Purchasers (18,104) ![](https://store.akamai.steamstatic.com/public/shared/images/ico/icon_questionmark_dark.png)   
- Other (1,129) ![](https://store.akamai.steamstatic.com/public/shared/images/ico/icon_questionmark_dark.png) 
+ Other (1,130) ![](https://store.akamai.steamstatic.com/public/shared/images/ico/icon_questionmark_dark.png) 
 
 Language
 
- All Languages (19,233)  
- Your Languages (13,300) ![](https://store.akamai.steamstatic.com/public/shared/images/ico/icon_questionmark_dark.png)   
+ All Languages (19,234)  
+ Your Languages (13,301) ![](https://store.akamai.steamstatic.com/public/shared/images/ico/icon_questionmark_dark.png)   
 
 [Customize](https://store.steampowered.com//account/languagepreferences)
 
