@@ -32,9 +32,8 @@ Navigation
     
     *  [![](https://media.tegna-media.com/assets/WQAD/images/d9e1febb-a562-4815-bbbd-a0ae64cfafb6/20240921T024824/d9e1febb-a562-4815-bbbd-a0ae64cfafb6_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/d9e1febb-a562-4815-bbbd-a0ae64cfafb6/20240921T024824/d9e1febb-a562-4815-bbbd-a0ae64cfafb6_360x203.jpg)](https://www.wqad.com/article/money/davenport-health-center-expand-mental-health-substance-abuse-services-federal-funding/526-1e124b3a-8abe-4b07-bf8a-52fdb7901bfc)
         
-        #### [Davenport health center to expand mental health and substance abuse services with federal support](https://www.wqad.com/article/money/davenport-health-center-expand-mental-health-substance-abuse-services-federal-funding/526-1e124b3a-8abe-4b07-bf8a-52fdb7901bfc) [![](https://media.tegna-media.com/assets/WQAD/images/d9e1febb-a562-4815-bbbd-a0ae64cfafb6/20240921T024824/d9e1febb-a562-4815-bbbd-a0ae64cfafb6_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/d9e1febb-a562-4815-bbbd-a0ae64cfafb6/20240921T024824/d9e1febb-a562-4815-bbbd-a0ae64cfafb6_360x203.jpg)](https://www.wqad.com/article/money/davenport-health-center-expand-mental-health-substance-abuse-services-federal-funding/526-1e124b3a-8abe-4b07-bf8a-52fdb7901bfc)
+        #### [Davenport health center to expand mental health and substance abuse services with federal support](https://www.wqad.com/article/money/davenport-health-center-expand-mental-health-substance-abuse-services-federal-funding/526-1e124b3a-8abe-4b07-bf8a-52fdb7901bfc)
         
-        #### [Federal money helping Davenport health center expand mental health and substance abuse programs](https://www.wqad.com/article/money/davenport-health-center-expand-mental-health-substance-abuse-services-federal-funding/526-1e124b3a-8abe-4b07-bf8a-52fdb7901bfc)
     *  [![](https://media.tegna-media.com/assets/WQAD/images/e10aacd8-5aaa-4e7f-a10b-a10ea420c15f/e10aacd8-5aaa-4e7f-a10b-a10ea420c15f_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/e10aacd8-5aaa-4e7f-a10b-a10ea420c15f/e10aacd8-5aaa-4e7f-a10b-a10ea420c15f_360x203.jpg)](https://www.wqad.com/article/news/local/family-evacuated-fire-wheatland/526-d776784e-9a02-45ad-ba95-38c43976a5e2)
         
         #### [Fire in Wheatland forces family to evacuate](https://www.wqad.com/article/news/local/family-evacuated-fire-wheatland/526-d776784e-9a02-45ad-ba95-38c43976a5e2)
@@ -87,7 +86,7 @@ Navigation
 
 Davenport, IA »
 
-68°
+63°
 
 ![Clear](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
 
