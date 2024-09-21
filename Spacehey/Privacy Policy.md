@@ -1,4 +1,4 @@
- [![SpaceHey](https://static.spacehey.net/img/logo_optimized.svg)](https://spacehey.com/)[![1 MILLION USERS!!](https://spacehey.com/img/1mio.png "1 MILLION USERS!!")](https://blog.spacehey.com/entry?id=1245177)
+ [![SpaceHey](https://static.spacehey.net/img/logo_optimized.svg)](https://spacehey.com/)[![World Peace Day 2024](https://static.spacehey.net/img/special/peace.svg "World Peace Day 2024")](https://www.un.org/en/observances/international-day-peace)[![1 MILLION USERS!!](https://spacehey.com/img/1mio.png "1 MILLION USERS!!")](https://blog.spacehey.com/entry?id=1245177)
 
 Search Users:
 
