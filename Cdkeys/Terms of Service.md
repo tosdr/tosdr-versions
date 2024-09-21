@@ -116,6 +116,7 @@ Menu
 * [New](https://www.cdkeys.com/new)
 * [Coming Soon](https://www.cdkeys.com/coming-soon)
 
+* [My Account](https://www.cdkeys.com/customer/account/login/)
 * [Wishlist](https://www.cdkeys.com/wishlist/)
 * [My Cart](https://www.cdkeys.com/checkout/cart/)
 * [Checkout](https://www.cdkeys.com/checkout/)
@@ -467,19 +468,17 @@ To view games that are valid in your region ‘%1’, click here
     
      Buy Now
     
-3.    [![Minecraft: Java & Bedrock Edition PC (WW)](https://cdn.cdkeys.com/245x340/media/catalog/product/n/e/new_project_88__2_1.jpg)   No 3. \-66%](https://www.cdkeys.com/pc/minecraft-java-bedrock-edition-pc-ww)
+3.    [![Minecraft: Java & Bedrock Edition PC (WW)](https://cdn.cdkeys.com/245x340/media/catalog/product/n/e/new_project_88__2_1.jpg)   No 3. \-68%](https://www.cdkeys.com/pc/minecraft-java-bedrock-edition-pc-ww)
     
     **[Minecraft: Java & Bedrock Edition PC (WW)](https://www.cdkeys.com/pc/minecraft-java-bedrock-edition-pc-ww "Minecraft: Java & Bedrock Edition PC (WW)")**
     
-    Special Price $11.19 RRP $33.19
+    Special Price $10.59 RRP $33.19
     
     [Add to Wish List](# "Add to Wish List")
     
      Buy Now
     
-4.    [![Frostpunk 2 PC](https://cdn.cdkeys.com/245x340/media/catalog/product/f/r/frostpunk_2_1.jpg)   No 4. \-34%
-    
-    Pre-order](https://www.cdkeys.com/pc/frostpunk-2-pc-steam)
+4.    [![Frostpunk 2 PC](https://cdn.cdkeys.com/245x340/media/catalog/product/f/r/frostpunk_2_1.jpg)   No 4. \-34%](https://www.cdkeys.com/pc/frostpunk-2-pc-steam)
     
     **[Frostpunk 2 PC](https://www.cdkeys.com/pc/frostpunk-2-pc-steam "Frostpunk 2 PC")**
     
