@@ -36,6 +36,9 @@
         
         Tor says it’s "still safe" amid reports of police deanonymizing users](https://www.bleepingcomputer.com/news/security/tor-says-its-still-safe-amid-reports-of-police-deanonymizing-users/)
     
+    * [![This cybersecurity study bundle blends theory with hands-on training](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        This cybersecurity study bundle blends theory with hands-on training](https://www.bleepingcomputer.com/offer/deals/this-cybersecurity-study-bundle-blends-theory-with-hands-on-training/)
     * [![Microsoft ends development of Windows Server Update Services (WSUS)](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         Microsoft ends development of Windows Server Update Services (WSUS)](https://www.bleepingcomputer.com/news/microsoft/microsoft-officially-deprecates-windows-server-update-services-wsus/)
@@ -45,9 +48,6 @@
     * [![Disney ditching Slack after massive July data breach](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         Disney ditching Slack after massive July data breach](https://www.bleepingcomputer.com/news/security/disney-ditching-slack-after-massive-july-data-breach/)
-    * [![Ukraine bans Telegram on military, govt devices over security risks](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        Ukraine bans Telegram on military, govt devices over security risks](https://www.bleepingcomputer.com/news/security/ukraine-bans-telegram-on-military-govt-devices-over-security-risks/)
     
 * [Tutorials](https://www.bleepingcomputer.com/tutorials/)
     
@@ -439,12 +439,12 @@ Tel: +1-646-980-4190
 
 Popular Stories
 
-* [![FTC](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    FTC exposes massive surveillance of kids, teens by social media giants](https://www.bleepingcomputer.com/news/technology/ftc-exposes-massive-surveillance-of-kids-teens-by-social-media-giants/)
 * [![Windows](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     Microsoft ends development of Windows Server Update Services (WSUS)](https://www.bleepingcomputer.com/news/microsoft/microsoft-officially-deprecates-windows-server-update-services-wsus/)
+* [![FTC](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    FTC exposes massive surveillance of kids, teens by social media giants](https://www.bleepingcomputer.com/news/technology/ftc-exposes-massive-surveillance-of-kids-teens-by-social-media-giants/)
 * [![Ivanti](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     Ivanti warns of another critical CSA flaw exploited in attacks](https://www.bleepingcomputer.com/news/security/ivanti-warns-of-another-critical-csa-flaw-exploited-in-attacks/)
