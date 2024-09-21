@@ -1,4 +1,4 @@
-Toggle navigation [![URL Shortener NaMaidani](https://url.namaidani.com/banner/xurl_shortener_namaidani.png.pagespeed.ic.6zW8rFwwwM.png)](https://url.namaidani.com/)
+Toggle navigation [![URL Shortener NaMaidani](https://url.namaidani.com/banner/url_shortener_namaidani.png)](https://url.namaidani.com/)
 
 * [Home](https://url.namaidani.com/)
 * [Publisher Rates](https://url.namaidani.com/payout-rates)
