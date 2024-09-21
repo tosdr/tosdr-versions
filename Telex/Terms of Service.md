@@ -2,7 +2,7 @@ Máté, Mirella
 
 [belföld](https://telex.hu/rovat/belfold) [külföld](https://telex.hu/rovat/kulfold) [gazdaság](https://telex.hu/rovat/gazdasag) [videó](https://telex.hu/rovat/video) [élet](https://telex.hu/rovat/eletmod) [techtud](https://telex.hu/rovat/techtud) [after](https://telex.hu/after) [english](https://telex.hu/english)
 
-Budapest: 829 cm
+Budapest: 827 cm
 
 ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNgYAAAAAMAASsJTYQAAAAASUVORK5CYII= "derült")
 
