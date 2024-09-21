@@ -57,7 +57,7 @@
     * [Resource Center](https://bitwarden.com/resources/)
     * [Security and Compliance](https://bitwarden.com/compliance/)
     * [Learning Center](https://bitwarden.com/learning/)
-    * [Success Stories](https://bitwarden.com/bitwarden-reviews/)
+    * [Success Stories](https://bitwarden.com/case-studies/)
     * [Blog](https://bitwarden.com/blog/)
     
 
@@ -472,7 +472,7 @@ Web Form: [https://bitwarden.com/contact/](https://bitwarden.com/contact/)
 
 #### Resources
 
-[Resource Center](https://bitwarden.com/resources/)[Community Forums](https://community.bitwarden.com/)[Security Compliance](https://bitwarden.com/compliance/)[Success Stories](https://bitwarden.com/bitwarden-reviews/)[Newsfeed](https://bitwarden.com/newsfeed/)[Survey Room](https://bitwarden.com/resources/the-survey-room/)[Subscribe to Updates](https://bitwarden.com/newsletter-subscribe/)
+[Resource Center](https://bitwarden.com/resources/)[Community Forums](https://community.bitwarden.com/)[Security Compliance](https://bitwarden.com/compliance/)[Case Studies](https://bitwarden.com/case-studies/)[Newsfeed](https://bitwarden.com/newsfeed/)[Survey Room](https://bitwarden.com/resources/the-survey-room/)[Subscribe to Updates](https://bitwarden.com/newsletter-subscribe/)
 
 #### Tools & Help
 
