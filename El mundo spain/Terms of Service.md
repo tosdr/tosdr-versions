@@ -1,13 +1,12 @@
-![](https://pixelcounter.elmundo.es/pixelcontabilizacion/pixelcontabilizacion.gifctl?r=http%3A%2F%2Fwww%2Eelmundo%2Ees%2Fregistro%2Favisolegal%2Ehtml&s=elmundo&d=Zu7K0woAAVAAAABb5cE)
+![](https://pixelcounter.elmundo.es/pixelcontabilizacion/pixelcontabilizacion.gifctl?r=http%3A%2F%2Fwww%2Eelmundo%2Ees%2Fregistro%2Favisolegal%2Ehtml&s=elmundo&d=Zu8frAoAAVEAAABci2o)
 
 Es noticia
 
 * [Hizbulá](https://www.elmundo.es/internacional/2024/09/20/66ed0da2e9cf4aec2e8b4585.html)
 * [Audiencia ayer](https://www.elmundo.es/television/2024/09/20/66ed1526fdddff73038b4590.html)
-* [Hijo Nuria Roca](https://www.elmundo.es4/09/20/66ed45c5e4d4d8b6088b4597.html/loc/famosos/202)
-* [Antonio Banderas El Hormiguero](https://www.elmundo.es/television/momentvs/2024/09/20/66ed099b21efa0b44b8b4585.html)
+* [Cate Blanchett](https://www.elmundo.es/album/yodona/moda/2024/09/20/66edb1d4e4d4d8350d8b45b0.html)
 * [Guerra Ucrania](https://www.elmundo.es/internacional/2024/09/21/66ee5bd43e373500257403e4-directo.html)
-* [Menores migrantes Canarias](https://www.elmundo.es/espana/2024/09/20/66ed2c77e9cf4a1c328b4588.html)
+* [R. Madrid - Espanyol](https://www.elmundo.es/deportes/futbol/laliga-ea-sports/r-madrid-espanyol/2024/09/21/01_0101_20240921_186_177-directo.html)
 * [Ramón Jordana](https://www.elmundo.es/loc/famosos/2024/09/19/66ec4a3fe85ecede6e8b4597.html)
 * [Felipe VI](https://www.elmundo.es/loc/famosos/2024/09/20/66ed4f5bfc6c83c7428b45a8.html)
 * [Alcalde Bienvenida](https://www.elmundo.es/espana/extremadura/2024/09/20/66ed5abd21efa0c7228b4595.html)
