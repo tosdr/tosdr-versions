@@ -304,15 +304,15 @@ If you have any questions or concerns regarding these policies, please free to 
 
 Popular Stories
 
-* [![Cyberattack ddos network cybersecurity](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    Chinese botnet infects 260,000 SOHO routers, IP cameras with malware](https://www.bleepingcomputer.com/news/security/flax-typhoon-hackers-infect-260-000-routers-ip-cameras-with-botnet-malware/)
-* [![Dr.Web hacker](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    Russian security firm Dr.Web disconnects all servers after breach](https://www.bleepingcomputer.com/news/security/russian-security-firm-drweb-disconnects-all-servers-after-breach/)
 * [![FTC](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     FTC exposes massive surveillance of kids, teens by social media giants](https://www.bleepingcomputer.com/news/technology/ftc-exposes-massive-surveillance-of-kids-teens-by-social-media-giants/)
+* [![Windows](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    Microsoft ends development of Windows Server Update Services (WSUS)](https://www.bleepingcomputer.com/news/microsoft/microsoft-officially-deprecates-windows-server-update-services-wsus/)
+* [![Ivanti](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    Ivanti warns of another critical CSA flaw exploited in attacks](https://www.bleepingcomputer.com/news/security/ivanti-warns-of-another-critical-csa-flaw-exploited-in-attacks/)
 
 ##### Follow us:
 
