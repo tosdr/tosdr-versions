@@ -30,14 +30,15 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.king5.com/assets/WUSA/images/d0c922dd-52b9-425a-ad2a-cbac66e01511/20240731T155928/d0c922dd-52b9-425a-ad2a-cbac66e01511_16x9.jpg) ![](https://media.king5.com/assets/WUSA/images/d0c922dd-52b9-425a-ad2a-cbac66e01511/20240731T155928/d0c922dd-52b9-425a-ad2a-cbac66e01511_360x203.jpg)](https://www.king5.com/article/life/food/fast-casual-burger-custard-chain-expand-seattle/281-88d7071f-3d07-4f7d-9649-f8f148026d42)
+    *  [![](https://media.king5.com/assets/KING/images/e4c45d32-5566-4ea4-aa02-e3a80f3eacdb/20240917T010212/e4c45d32-5566-4ea4-aa02-e3a80f3eacdb_16x9.jpg) ![](https://media.king5.com/assets/KING/images/e4c45d32-5566-4ea4-aa02-e3a80f3eacdb/20240917T010212/e4c45d32-5566-4ea4-aa02-e3a80f3eacdb_360x203.jpg)](https://www.king5.com/article/tech/science/aerospace/boeing/boeing-speea-furlough-request-iam-751-strike/281-a902209d-5495-4845-9089-1e80c4a56182)
         
-        #### [National burger, custard fast-food chain to expand into Seattle market](https://www.king5.com/article/life/food/fast-casual-burger-custard-chain-expand-seattle/281-88d7071f-3d07-4f7d-9649-f8f148026d42)
+        #### [Boeing angers another union by asking to include SPEEA employees in furloughs](https://www.king5.com/article/tech/science/aerospace/boeing/boeing-speea-furlough-request-iam-751-strike/281-a902209d-5495-4845-9089-1e80c4a56182)
         
-    *  [![](https://media.king5.com/assets/KING/images/601d0d12-3405-491c-86d4-cc610e110be1/20240920T181719/601d0d12-3405-491c-86d4-cc610e110be1_16x9.jpg) ![](https://media.king5.com/assets/KING/images/601d0d12-3405-491c-86d4-cc610e110be1/20240920T181719/601d0d12-3405-491c-86d4-cc610e110be1_360x203.jpg)](https://www.king5.com/article/sports/zach-lavine-bothell-high-school-gift/281-14c7ea43-4568-44a8-a1d6-71fa2eb1f016)
+    *  [![](https://media.king5.com/assets/KING/images/12357252-b70f-4885-ac88-19739ce22957/20240921T014617/12357252-b70f-4885-ac88-19739ce22957_16x9.jpg) ![](https://media.king5.com/assets/KING/images/12357252-b70f-4885-ac88-19739ce22957/20240921T014617/12357252-b70f-4885-ac88-19739ce22957_360x203.jpg)](https://www.king5.com/article/news/local/tacoma-rescue-mission-break-ground-new-tiny-home-village-spanaway/281-54bd0cdd-556e-4e0e-b2dc-519a1ed22145)
         
-        #### [NBA star Zach LaVine gives back to Bothell High School, where his basketball career took off](https://www.king5.com/article/sports/zach-lavine-bothell-high-school-gift/281-14c7ea43-4568-44a8-a1d6-71fa2eb1f016)
+        #### [Tacoma Rescue Mission to break ground on new tiny home village in Spanaway](https://www.king5.com/article/news/local/tacoma-rescue-mission-break-ground-new-tiny-home-village-spanaway/281-54bd0cdd-556e-4e0e-b2dc-519a1ed22145) [![](https://media.king5.com/assets/KING/images/12357252-b70f-4885-ac88-19739ce22957/20240921T014617/12357252-b70f-4885-ac88-19739ce22957_16x9.jpg) ![](https://media.king5.com/assets/KING/images/12357252-b70f-4885-ac88-19739ce22957/20240921T014617/12357252-b70f-4885-ac88-19739ce22957_360x203.jpg)](https://www.king5.com/article/news/local/tacoma-rescue-mission-break-ground-new-tiny-home-village-spanaway/281-54bd0cdd-556e-4e0e-b2dc-519a1ed22145)
         
+        #### [Tacoma Rescue Mission will soon break ground on new tiny home village in Spanaway](https://www.king5.com/article/news/local/tacoma-rescue-mission-break-ground-new-tiny-home-village-spanaway/281-54bd0cdd-556e-4e0e-b2dc-519a1ed22145)
     
 * [Weather](https://www.king5.com/weather/)
     
@@ -56,13 +57,13 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/ebcec3bf-a346-41b0-b38a-e8f2f11a203b/20240920T123241/ebcec3bf-a346-41b0-b38a-e8f2f11a203b_16x9.jpg) ![](https://media.king5.com/assets/KING/images/ebcec3bf-a346-41b0-b38a-e8f2f11a203b/20240920T123241/ebcec3bf-a346-41b0-b38a-e8f2f11a203b_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
+    *  [![](https://media.king5.com/assets/KING/images/07a4b00d-1257-4279-8630-ee03b144811b/20240921T004352/07a4b00d-1257-4279-8630-ee03b144811b_16x9.jpg) ![](https://media.king5.com/assets/KING/images/07a4b00d-1257-4279-8630-ee03b144811b/20240921T004352/07a4b00d-1257-4279-8630-ee03b144811b_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
         #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
-    *  [![](https://media.king5.com/assets/CCT/images/e52e645e-0b91-4f26-ba6f-40ba70997361/20240917T114315/e52e645e-0b91-4f26-ba6f-40ba70997361_16x9.jpg) ![](https://media.king5.com/assets/CCT/images/e52e645e-0b91-4f26-ba6f-40ba70997361/20240917T114315/e52e645e-0b91-4f26-ba6f-40ba70997361_360x203.jpg)](https://www.king5.com/article/news/nation-world/september-2024-full-moon-harvest-moon-partial-eclipse-supermoon-time/507-d36e7dcc-254f-4a7b-852b-640017b8e713)
+    *  [![](https://media.king5.com/assets/KING/images/eabc8405-06ba-422e-a512-20fd4e6b4e3c/20240921T005425/eabc8405-06ba-422e-a512-20fd4e6b4e3c_16x9.jpg) ![](https://media.king5.com/assets/KING/images/eabc8405-06ba-422e-a512-20fd4e6b4e3c/20240921T005425/eabc8405-06ba-422e-a512-20fd4e6b4e3c_360x203.jpg)](https://www.king5.com/article/weather/la-nina-winter-expected-western-washington/281-7810baca-d903-4514-8c7f-4d2d7d9e5a3b)
         
-        #### [What time is Tuesday's partial lunar eclipse?](https://www.king5.com/article/news/nation-world/september-2024-full-moon-harvest-moon-partial-eclipse-supermoon-time/507-d36e7dcc-254f-4a7b-852b-640017b8e713)
+        #### [A La Niña winter is expected, what does that mean?](https://www.king5.com/article/weather/la-nina-winter-expected-western-washington/281-7810baca-d903-4514-8c7f-4d2d7d9e5a3b)
         
     
 * [Sports](https://www.king5.com/sports)
@@ -95,9 +96,9 @@ Navigation
 
 Seattle, WA »
 
-62°
+64°
 
-![Mostly Cloudy](/assets/shared-images/weather-icons/mostly-cloudy-day_210x210.png)
+![Partly Cloudy](/assets/shared-images/weather-icons/partly-cloudy-day_210x210.png)
 
 Seattle, WA »](https://www.king5.com/weather)
 
