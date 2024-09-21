@@ -22,7 +22,7 @@ Hi
 
 [SIGN OUT](#)
 
-[80°F ![weather icon](https://res.cloudinary.com/review-journal/image/upload/f_auto,q_auto,c_scale,w_40/rj-project/apple_weather/CloudyDay.png)](https://www.reviewjournal.com/weather "Weather Forecast") 
+[64°F ![weather icon](https://res.cloudinary.com/review-journal/image/upload/f_auto,q_auto,c_scale,w_40/rj-project/apple_weather/CloudyNight.png)](https://www.reviewjournal.com/weather "Weather Forecast") 
 
 * [News](https://www.reviewjournal.com/news/)
 * [Local](https://www.reviewjournal.com/local/)
@@ -39,9 +39,9 @@ Hi
 
 [](#)
 
-80°F
+64°F
 
-![weather icon](https://res.cloudinary.com/review-journal/image/upload/f_auto,q_auto,c_scale,w_40/rj-project/apple_weather/CloudyDay.png) Cloudy
+![weather icon](https://res.cloudinary.com/review-journal/image/upload/f_auto,q_auto,c_scale,w_40/rj-project/apple_weather/CloudyNight.png) Mostly Cloudy
 
 [Las Vegas, NV](https://www.reviewjournal.com/weather "Weather Forecast")
 
