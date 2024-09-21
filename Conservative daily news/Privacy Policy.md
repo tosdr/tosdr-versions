@@ -1,15 +1,15 @@
-Friday, September 20 2024
+Saturday, September 21 2024
 
 Breaking News
 
+* [Elon Musk Makes His Largest Known Political Donation Ever To Boost House Republicans](https://www.conservativedailynews.com/2024/09/elon-musk-makes-his-largest-known-political-donation-ever-to-boost-house-republicans/)
+* [Secret Service Pins Blame On Comms ‘Deficiencies’ For Its Failure To Prevent First Trump Assassination Attempt](https://www.conservativedailynews.com/2024/09/secret-service-pins-blame-on-comms-deficiencies-for-its-failure-to-prevent-first-trump-assassination-attempt/)
+* [CDC Launching ‘Agency-Wide Strategy’ On ‘Health Equity’ For LGBT, Minorities](https://www.conservativedailynews.com/2024/09/cdc-launching-agency-wide-strategy-on-health-equity-for-lgbt-minorities/)
+* [Ilhan Omar Says Thousands Of Haitian Migrants Overrunning Springfield Actually Revived Town](https://www.conservativedailynews.com/2024/09/ilhan-omar-says-thousands-of-haitian-migrants-overrunning-springfield-actually-revived-town/)
+* [Former Dem Fundraisers Call Harris’ Oprah Interview ‘Out Of Touch,’ ‘Patronizing’](https://www.conservativedailynews.com/2024/09/former-dem-fundraisers-call-harris-oprah-interview-out-of-touch-patronizing/)
+* [Trump Needs Catholic Voters To Win](https://www.conservativedailynews.com/2024/09/trump-needs-catholic-voters-to-win/)
 * [What Could Go Wrong? Dem Investor Bankrolling Development Of Mobile Voting App](https://www.conservativedailynews.com/2024/09/what-could-go-wrong-dem-investor-bankrolling-development-of-mobile-voting-app/)
 * [Trump And Harris Neck And Neck In Swing State That Could Sway The Election](https://www.conservativedailynews.com/2024/09/trump-and-harris-neck-and-neck-in-swing-state-that-could-sway-the-election/)
-* [House Committee Calls On Five States To Probe ‘Potential Criminal Activity’ Involving ActBlue Donations](https://www.conservativedailynews.com/2024/09/house-committee-calls-on-five-states-to-probe-potential-criminal-activity-involving-actblue-donations/)
-* [Janet Yellen Claims Deporting Illegal Migrant Workers Would Make Inflation Worse](https://www.conservativedailynews.com/2024/09/janet-yellen-claims-deporting-illegal-migrant-workers-would-make-inflation-worse/)
-* [Alaska Man Arrested For Threatening To Murder Six Supreme Court Justices](https://www.conservativedailynews.com/2024/09/alaska-man-arrested-for-threatening-to-murder-six-supreme-court-justices/)
-* [President Joe Biden’s Schedule for Friday, September 20, 2024](https://www.conservativedailynews.com/2024/09/president-joe-bidens-schedule-for-friday-september-20-2024/)
-* [Trump Vows To Turn ‘Hallowed’ World Trade Center Site Into National Monument During New York Rally](https://www.conservativedailynews.com/2024/09/trump-vows-to-turn-hallowed-world-trade-center-site-into-national-monument-during-new-york-rally/)
-* [Evangelicals And Gun Owners Need To Vote](https://www.conservativedailynews.com/2024/09/evangelicals-and-gun-owners-need-to-vote/)
 
 * [Sidebar](#)
 * [Random Article](https://www.conservativedailynews.com/privacy-policy/?random-post=1 "Random Article")
@@ -126,57 +126,58 @@ Created using the Donation Thermometer plugin https://wordpress.org/plugins/dona
 
 Recent Posts
 
+* [![Elon Musk](https://www.conservativedailynews.com/wp-content/uploads/2022/01/1280px-Elon_Musk_at_a_Press_Conference-220x150.jpg)](https://www.conservativedailynews.com/2024/09/elon-musk-makes-his-largest-known-political-donation-ever-to-boost-house-republicans/)
+    
+    [Elon Musk Makes His Largest Known Political Donation Ever To Boost House Republicans](https://www.conservativedailynews.com/2024/09/elon-musk-makes-his-largest-known-political-donation-ever-to-boost-house-republicans/)
+    
+    September 21, 2024
+    
+* [![Secret service](https://www.conservativedailynews.com/wp-content/uploads/2024/09/gv091724dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/09/secret-service-pins-blame-on-comms-deficiencies-for-its-failure-to-prevent-first-trump-assassination-attempt/)
+    
+    [Secret Service Pins Blame On Comms ‘Deficiencies’ For Its Failure To Prevent First Trump Assassination Attempt](https://www.conservativedailynews.com/2024/09/secret-service-pins-blame-on-comms-deficiencies-for-its-failure-to-prevent-first-trump-assassination-attempt/)
+    
+    September 21, 2024
+    
+* [![Democrats woke gender ideology](https://www.conservativedailynews.com/wp-content/uploads/2023/06/01-wokethroat-sm-1080a.jpg)](https://www.conservativedailynews.com/2024/09/cdc-launching-agency-wide-strategy-on-health-equity-for-lgbt-minorities/)
+    
+    [CDC Launching ‘Agency-Wide Strategy’ On ‘Health Equity’ For LGBT, Minorities](https://www.conservativedailynews.com/2024/09/cdc-launching-agency-wide-strategy-on-health-equity-for-lgbt-minorities/)
+    
+    September 20, 2024
+    
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2019/02/ctyp_Ilhan-Omar-smiling.jpg)](https://www.conservativedailynews.com/2024/09/ilhan-omar-says-thousands-of-haitian-migrants-overrunning-springfield-actually-revived-town/)
+    
+    [Ilhan Omar Says Thousands Of Haitian Migrants Overrunning Springfield Actually Revived Town](https://www.conservativedailynews.com/2024/09/ilhan-omar-says-thousands-of-haitian-migrants-overrunning-springfield-actually-revived-town/)
+    
+    September 20, 2024
+    
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2020/10/Jesus-facepalm-220x150.jpg)](https://www.conservativedailynews.com/2024/09/former-dem-fundraisers-call-harris-oprah-interview-out-of-touch-patronizing/)
+    
+    [Former Dem Fundraisers Call Harris’ Oprah Interview ‘Out Of Touch,’ ‘Patronizing’](https://www.conservativedailynews.com/2024/09/former-dem-fundraisers-call-harris-oprah-interview-out-of-touch-patronizing/)
+    
+    September 20, 2024
+    
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2021/10/church-220x150.jpg)](https://www.conservativedailynews.com/2024/09/trump-needs-catholic-voters-to-win/)
+    
+    [Trump Needs Catholic Voters To Win](https://www.conservativedailynews.com/2024/09/trump-needs-catholic-voters-to-win/)
+    
+    September 20, 2024
+    
+* [![Kamala Harris Donald Trump 2024 election platforms](https://www.conservativedailynews.com/wp-content/uploads/2024/09/04-platforms-sm-1080-220x150.jpg)](https://www.conservativedailynews.com/2024/09/priorities-5/)
+    
+    [Priorities](https://www.conservativedailynews.com/2024/09/priorities-5/)
+    
+    September 20, 2024
+    
 * [![](https://www.conservativedailynews.com/wp-content/uploads/2020/12/caution-democrat-voter-fraud-ahead-corrupt-treasonous-democrats-hope-to-cheat-election-1-220x150.jpg)](https://www.conservativedailynews.com/2024/09/what-could-go-wrong-dem-investor-bankrolling-development-of-mobile-voting-app/)
     
     [What Could Go Wrong? Dem Investor Bankrolling Development Of Mobile Voting App](https://www.conservativedailynews.com/2024/09/what-could-go-wrong-dem-investor-bankrolling-development-of-mobile-voting-app/)
     
     September 20, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/09/Donald-Trump-Kamala-Harris-tied-in-Pennsylvania-220x150.jpg)](https://www.conservativedailynews.com/2024/09/trump-and-harris-neck-and-neck-in-swing-state-that-could-sway-the-election/)
-    
-    [Trump And Harris Neck And Neck In Swing State That Could Sway The Election](https://www.conservativedailynews.com/2024/09/trump-and-harris-neck-and-neck-in-swing-state-that-could-sway-the-election/)
-    
-    September 20, 2024
-    
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2019/10/capitalbuilding.jpg)](https://www.conservativedailynews.com/2024/09/house-committee-calls-on-five-states-to-probe-potential-criminal-activity-involving-actblue-donations/)
-    
-    [House Committee Calls On Five States To Probe ‘Potential Criminal Activity’ Involving ActBlue Donations](https://www.conservativedailynews.com/2024/09/house-committee-calls-on-five-states-to-probe-potential-criminal-activity-involving-actblue-donations/)
-    
-    September 20, 2024
-    
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2023/04/crazy-donkey-democrat-left-huh-shock-1-220x150.png)](https://www.conservativedailynews.com/2024/09/janet-yellen-claims-deporting-illegal-migrant-workers-would-make-inflation-worse/)
-    
-    [Janet Yellen Claims Deporting Illegal Migrant Workers Would Make Inflation Worse](https://www.conservativedailynews.com/2024/09/janet-yellen-claims-deporting-illegal-migrant-workers-would-make-inflation-worse/)
-    
-    September 20, 2024
-    
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2022/04/Hunter_Biden_-_Caricature_51338712005-220x150.jpg)](https://www.conservativedailynews.com/2024/09/hunter-biden-sentencing-delayed-to-december/)
-    
-    [Hunter Biden Sentencing Delayed To December](https://www.conservativedailynews.com/2024/09/hunter-biden-sentencing-delayed-to-december/)
-    
-    September 20, 2024
-    
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2018/07/man-in-handcuffs.jpg)](https://www.conservativedailynews.com/2024/09/alaska-man-arrested-for-threatening-to-murder-six-supreme-court-justices/)
-    
-    [Alaska Man Arrested For Threatening To Murder Six Supreme Court Justices](https://www.conservativedailynews.com/2024/09/alaska-man-arrested-for-threatening-to-murder-six-supreme-court-justices/)
-    
-    September 20, 2024
-    
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2023/08/MV-22-Osprey-220x150.jpg)](https://www.conservativedailynews.com/2024/09/air-force-gets-ready-to-bring-back-troubled-aircraft-for-full-deployment-despite-ongoing-safety-concerns/)
-    
-    [Air Force Gets Ready To Bring Back Troubled Aircraft For Full Deployment Despite Ongoing Safety Concerns](https://www.conservativedailynews.com/2024/09/air-force-gets-ready-to-bring-back-troubled-aircraft-for-full-deployment-despite-ongoing-safety-concerns/)
-    
-    September 20, 2024
-    
-* [![Kamala Harris Tim Walz airheads weird candy](https://www.conservativedailynews.com/wp-content/uploads/2024/09/stg092024dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/09/airheads/)
-    
-    [Airheads](https://www.conservativedailynews.com/2024/09/airheads/)
-    
-    September 20, 2024
-    
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
 
+* [Serbian AKs, Part 6: Morana, an Ambitious AK Upgrade Program](https://www.thegunpage.com/serbian-aks-part-6-morana-an-ambitious-ak-upgrade-program/10610717)
 * [POTD: Joe Easter – Running & Gunning A KelTec RDB](https://www.thegunpage.com/potd-joe-easter-running-gunning-a-keltec-rdb/10610714)
 * [TFB Podcast Roundup 147: The September 20th Roundup](https://www.thegunpage.com/tfb-podcast-roundup-147-the-september-20th-roundup/10610715)
 * [Shooter’s Product Preview: SnapSafe Super Titan](https://www.thegunpage.com/shooters-product-preview-snapsafe-super-titan/10610711)
@@ -186,7 +187,6 @@ Recent Posts
 * [Galco Miami Classic II Now Available For Colt King Cobra](https://www.thegunpage.com/galco-miami-classic-ii-now-available-for-colt-king-cobra/10610700)
 * [Another Year, Another Worthless Columbus, Ohio, Gun “Buyback”](https://www.thegunpage.com/another-year-another-worthless-columbus-ohio-gun-buyback/10610699)
 * [New: Cabot Guns High Voltage Pistols](https://www.thegunpage.com/new-cabot-guns-high-voltage-pistols/10610708)
-* [CrossBreed Announces The Chest Rig Nomad](https://www.thegunpage.com/crossbreed-announces-the-chest-rig-nomad/10610701)
 
 [![ Conservative Political Blogs](https://blog.feedspot.com/wp-content/uploads/2016/12/conservative_political_216px.png?x58297)](https://blog.feedspot.com/conservative_political_blogs/ "Conservative Political Blogs")
 
@@ -237,6 +237,8 @@ Recent Comments
 * Jeff L. on [The Democrats, the Media and Would-be Trump Assassin Ryan Routh](https://www.conservativedailynews.com/2024/09/the-democrats-the-media-and-would-be-trump-assassin-ryan-routh/#comment-782171)
 * Gary D. Chambers on [We Are Different, and the Left Keeps Attacking Us For It](https://www.conservativedailynews.com/2024/09/we-are-different-and-the-left-keeps-attacking-us-for-it/#comment-782156)
 * charles wilkins on [Tip of the Iceberg](https://www.conservativedailynews.com/2024/09/tip-of-the-iceberg/#comment-782148)
+
+ [](https://www.conservativedailynews.com/wp-statistics-honey-pot-page-for-tracking-2024-09-20-225416/)
 
 [Close](#)
 
