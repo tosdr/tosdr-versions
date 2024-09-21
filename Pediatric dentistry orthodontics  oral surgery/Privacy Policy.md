@@ -1,235 +1,142 @@
-![](https://www.facebook.com/tr?id=311800813641865&ev=PageView&noscript=1)   
+[Skip to content](#content)
 
-[Skip to content](#fl-main-content)
+* [Call Wheaton: (630) 469-7696](tel:(630)%20469-7696)
+* [722 S President St, Wheaton, IL 60189](https://maps.app.goo.gl/dB6VQY5fMnNbfLu38)
 
-[722 S. President St. Wheaton, IL 60189](https://g.page/dpdsmiles?share)
+* [Call St. Charles: (630) 883-0856](tel:(630)%20883-0856)
+* [1203 E Main St, St. Charles, IL 60174](https://maps.app.goo.gl/c6tSaYpizepsKNpv6)
 
-[Book Now](https://www.dpdsmiles.com/appointments/ "Click Here")
+* [Call St. Charles: (630) 883-0856](tel:(630)%20883-0856)
+* [Call Wheaton: (630) 469-7696](tel:(630)%20469-7696)
 
-[Appointments](https://www.dpdsmiles.com/appointments/ "Click Here")
+[Contact Us](https://www.dpdsmiles.com/contact-us/)
 
-[(630) 469-7696](tel:+1-630-469-7696 "Click Here")
+[Patient Portal](https://dpdsmiles.curveconnex.com/login/?path=%2Fportal%2F)
 
-[![DPD Smiles - Pediatric Dentistry, Orthodontics & Oral Surgery](https://www.dpdsmiles.com/wp-content/uploads/2020/04/dpd-smiles-pediatrics-orthodontics-oral-surgery.png "DPD Smiles - Pediatric Dentistry, Orthodontics & Oral Surgery")](https://www.dpdsmiles.com/)
+[![](https://www.dpdsmiles.com/wp-content/uploads/2024/08/IMG_20240821_124347-1024x1024.jpg)](https://www.dpdsmiles.com/)
 
-* [Our Team](https://www.dpdsmiles.com/our-doctors/)
+* [Home](https://www.dpdsmiles.com/)
 * [About Us](https://www.dpdsmiles.com/about-us/)
-    
-    * [Technology](https://www.dpdsmiles.com/our-technology/)
+    * [Meet Our Providers](https://www.dpdsmiles.com/our-doctors/)
+    * [Meet Our Team](https://www.dpdsmiles.com/meet-the-team/)
     * [Office Tour](https://www.dpdsmiles.com/office-tour/)
-    * [Testimonials](https://www.dpdsmiles.com/testimonials/)
-    * [Our Blog](https://www.dpdsmiles.com/our-blog/)
-    * [Health & Safety](#)
-        
-        * [COVID-19 Update](https://www.dpdsmiles.com/covid-19-update/)
-        * [Surgically Clean Air](https://www.dpdsmiles.com/surgically-clean-air/)
-* [Pediatrics](https://www.dpdsmiles.com/pediatric-dentistry/)
-    
-    * [First Visit](https://www.dpdsmiles.com/first-dental-visit/)
-    * [Cavities & Fillings](https://www.dpdsmiles.com/dental-bonding-fillings/)
-    * [Dental Cleanings](https://www.dpdsmiles.com/dental-cleanings-exam/)
-    * [Dental Crowns](https://www.dpdsmiles.com/dental-crowns/)
-    * [Dental Sealants](https://www.dpdsmiles.com/dental-sealants/)
-    * [Emergency Dentistry](https://www.dpdsmiles.com/dental-emergencies/)
-    * [Frenectomies](https://www.dpdsmiles.com/frenectomies/)
-    * [Laser Dentistry](https://www.dpdsmiles.com/laser-dentistry/)
-    * [Orthodontics](https://www.dpdsmiles.com/orthodontics/)
-    * [Root Canal Therapy](https://www.dpdsmiles.com/root-canals/)
-    * [Sedation Dentistry](https://www.dpdsmiles.com/sedation-dentistry/)
-    * [Special Needs](https://www.dpdsmiles.com/special-needs-dentistry/)
-    * [Teeth Whitening](https://www.dpdsmiles.com/teeth-whitening/)
-    * [Tooth Extractions](https://www.dpdsmiles.com/tooth-extractions/)
-* [Orthodontics](https://www.dpdsmiles.com/orthodontics/)
-    
-    * [Early Orthodontic Treatment](https://www.dpdsmiles.com/early-orthodontic-treatment/)
-    * [Braces](https://www.dpdsmiles.com/braces/)
-    * [Invisalign](https://www.dpdsmiles.com/invisalign/)
-    * [Adult Orthodontics](https://www.dpdsmiles.com/adult-orthodontics/)
-* [Oral Surgery](https://www.dpdsmiles.com/oral-surgery/)
-    
-    * [Complex Extractions](https://www.dpdsmiles.com/tooth-extractions/#complex-extractions)
-    * [Extra Teeth Extractions](https://www.dpdsmiles.com/tooth-extractions/#extra-extractions)
-    * [Wisdom Teeth Extractions](https://www.dpdsmiles.com/wisdom-teeth-extractions/)
-* [Patients](#)
-    
-    * [Locations](https://www.dpdsmiles.com/locations/)
-    * [Appointments](https://www.dpdsmiles.com/appointments/)
-    * [Contact Us](https://www.dpdsmiles.com/contact-us/)
-    * [Insurance & Financial](https://www.dpdsmiles.com/dental-financing-options/)
-    * [Pay My Bill](https://payments.paynetworx.com/?token=23yQLnGCUhzdxzMYrczupKRb5l4)
-    * [Patient Login](https://dpdsmiles.curveconnex.com/)
-    * [Post Procedure Care](https://www.dpdsmiles.com/post-op-care/)
-    * [Records Release](https://www.dpdsmiles.com/records-release/)
-    * [Referrals](https://www.dpdsmiles.com/doctor-referrals/)
-    * [Request For School Form](https://www.dpdsmiles.com/st-charles/request-for-school-form/)
-
-×
-
-* [Our Team](https://www.dpdsmiles.com/our-doctors/)
-* [About Us](https://www.dpdsmiles.com/about-us/)
-    
     * [Technology](https://www.dpdsmiles.com/our-technology/)
-    * [Office Tour](https://www.dpdsmiles.com/office-tour/)
     * [Testimonials](https://www.dpdsmiles.com/testimonials/)
-    * [Our Blog](https://www.dpdsmiles.com/our-blog/)
-    * [Health & Safety](#)
-        
-        * [COVID-19 Update](https://www.dpdsmiles.com/covid-19-update/)
-        * [Surgically Clean Air](https://www.dpdsmiles.com/surgically-clean-air/)
-* [Pediatrics](https://www.dpdsmiles.com/pediatric-dentistry/)
-    
-    * [First Visit](https://www.dpdsmiles.com/first-dental-visit/)
-    * [Cavities & Fillings](https://www.dpdsmiles.com/dental-bonding-fillings/)
-    * [Dental Cleanings](https://www.dpdsmiles.com/dental-cleanings-exam/)
-    * [Dental Crowns](https://www.dpdsmiles.com/dental-crowns/)
-    * [Dental Sealants](https://www.dpdsmiles.com/dental-sealants/)
-    * [Emergency Dentistry](https://www.dpdsmiles.com/dental-emergencies/)
+    * [Patient Education](https://www.dpdsmiles.com/patient-education/)
+* [Our Services](#)
+    * [Adult Orthodontics](https://www.dpdsmiles.com/adult-orthodontics-2/)
+    * [Emergency Dental](https://www.dpdsmiles.com/emergency-dental/)
     * [Frenectomies](https://www.dpdsmiles.com/frenectomies/)
-    * [Laser Dentistry](https://www.dpdsmiles.com/laser-dentistry/)
     * [Orthodontics](https://www.dpdsmiles.com/orthodontics/)
-    * [Root Canal Therapy](https://www.dpdsmiles.com/root-canals/)
-    * [Sedation Dentistry](https://www.dpdsmiles.com/sedation-dentistry/)
-    * [Special Needs](https://www.dpdsmiles.com/special-needs-dentistry/)
-    * [Teeth Whitening](https://www.dpdsmiles.com/teeth-whitening/)
-    * [Tooth Extractions](https://www.dpdsmiles.com/tooth-extractions/)
-* [Orthodontics](https://www.dpdsmiles.com/orthodontics/)
-    
-    * [Early Orthodontic Treatment](https://www.dpdsmiles.com/early-orthodontic-treatment/)
-    * [Braces](https://www.dpdsmiles.com/braces/)
     * [Invisalign](https://www.dpdsmiles.com/invisalign/)
-    * [Adult Orthodontics](https://www.dpdsmiles.com/adult-orthodontics/)
-* [Oral Surgery](https://www.dpdsmiles.com/oral-surgery/)
-    
-    * [Complex Extractions](https://www.dpdsmiles.com/tooth-extractions/#complex-extractions)
-    * [Extra Teeth Extractions](https://www.dpdsmiles.com/tooth-extractions/#extra-extractions)
-    * [Wisdom Teeth Extractions](https://www.dpdsmiles.com/wisdom-teeth-extractions/)
-* [Patients](#)
-    
-    * [Locations](https://www.dpdsmiles.com/locations/)
-    * [Appointments](https://www.dpdsmiles.com/appointments/)
-    * [Contact Us](https://www.dpdsmiles.com/contact-us/)
-    * [Insurance & Financial](https://www.dpdsmiles.com/dental-financing-options/)
-    * [Pay My Bill](https://payments.paynetworx.com/?token=23yQLnGCUhzdxzMYrczupKRb5l4)
-    * [Patient Login](https://dpdsmiles.curveconnex.com/)
-    * [Post Procedure Care](https://www.dpdsmiles.com/post-op-care/)
-    * [Records Release](https://www.dpdsmiles.com/records-release/)
-    * [Referrals](https://www.dpdsmiles.com/doctor-referrals/)
-    * [Request For School Form](https://www.dpdsmiles.com/st-charles/request-for-school-form/)
-
-[](https://www.facebook.com/dpdsmiles)[](https://www.instagram.com/dpdsmiles/)[](https://www.youtube.com/channel/UCyScqKwXSqWvg3ZT_H6bVeQ)
-
-* [Our Team](https://www.dpdsmiles.com/our-doctors/)
-* [About Us](https://www.dpdsmiles.com/about-us/)
-    
-    * [Technology](https://www.dpdsmiles.com/our-technology/)
-    * [Office Tour](https://www.dpdsmiles.com/office-tour/)
-    * [Testimonials](https://www.dpdsmiles.com/testimonials/)
-    * [Our Blog](https://www.dpdsmiles.com/our-blog/)
-* [Pediatrics](https://www.dpdsmiles.com/pediatric-dentistry/)
-    
-    * [First Visit](https://www.dpdsmiles.com/first-dental-visit/)
-    * [Cavities & Fillings](https://www.dpdsmiles.com/dental-bonding-fillings/)
-    * [Dental Cleanings](https://www.dpdsmiles.com/dental-cleanings-exam/)
-    * [Dental Crowns](https://www.dpdsmiles.com/dental-crowns/)
-    * [Dental Sealants](https://www.dpdsmiles.com/dental-sealants/)
-    * [Emergency Dentistry](https://www.dpdsmiles.com/dental-emergencies/)
-    * [Frenectomies](https://www.dpdsmiles.com/frenectomies/)
     * [Laser Dentistry](https://www.dpdsmiles.com/laser-dentistry/)
-    * [Orthodontics](https://www.dpdsmiles.com/orthodontics/)
-    * [Root Canal Therapy](https://www.dpdsmiles.com/root-canals/)
+    * [Pediatric Dentistry](https://www.dpdsmiles.com/pediatric-dentistry/)
     * [Sedation Dentistry](https://www.dpdsmiles.com/sedation-dentistry/)
-    * [Special Needs](https://www.dpdsmiles.com/special-needs-dentistry/)
-    * [Teeth Whitening](https://www.dpdsmiles.com/teeth-whitening/)
-    * [Tooth Extractions](https://www.dpdsmiles.com/tooth-extractions/)
-* [Orthodontics](https://www.dpdsmiles.com/orthodontics/)
-    
-    * [Early Orthodontic Treatment](https://www.dpdsmiles.com/early-orthodontic-treatment/)
-    * [Braces](https://www.dpdsmiles.com/braces/)
-    * [Invisalign](https://www.dpdsmiles.com/invisalign/)
-    * [Adult Orthodontics](https://www.dpdsmiles.com/adult-orthodontics/)
-* [Oral Surgery](https://www.dpdsmiles.com/oral-surgery/)
-    
-    * [Complex Extractions](https://www.dpdsmiles.com/tooth-extractions/#complex-extractions)
-    * [Extra Teeth Extractions](https://www.dpdsmiles.com/tooth-extractions/#extra-extractions)
-    * [Wisdom Teeth Extractions](https://www.dpdsmiles.com/wisdom-teeth-extractions/)
+    * [Special Needs Dentistry](https://www.dpdsmiles.com/special-needs-dentistry/)
+* [St. Charles](https://www.dpdsmiles.com/st-charles/)
+    * [Orthodontics](https://www.dpdsmiles.com/st-charles-orthodontics/)
+        * [Invisalign](https://www.dpdsmiles.com/st-charles-invisalign/)
+    * [Wisdom Teeth Extractions](https://www.dpdsmiles.com/st-charles-wisdom-teeth-extractions/)
+    * [Dental Emergencies](https://www.dpdsmiles.com/st-charles-dental-emergencies/)
+    * [Frenectomies](https://www.dpdsmiles.com/st-charles-frenectomies/)
+    * [Laser Dentistry](https://www.dpdsmiles.com/st-charles-laser-dentistry/)
+    * [Oral Surgery](https://www.dpdsmiles.com/st-charles-oral-surgery/)
+    * [Sedation Dentistry](https://www.dpdsmiles.com/st-charles-sedation-dentistry/)
+* [Wheaton](https://www.dpdsmiles.com/wheaton/)
+    * [Dental Emergencies](https://www.dpdsmiles.com/dental-emergencies/)
+    * [Dental Cleanings & Exam](https://www.dpdsmiles.com/dental-cleanings-exam/)
+    * [Orthodontics](https://www.dpdsmiles.com/wheaton-orthodontics/)
+        * [Early Orthodontic Treatment](https://www.dpdsmiles.com/early-orthodontic-treatment/)
+        * [Braces](https://www.dpdsmiles.com/braces/)
+        * [Invisalign](https://www.dpdsmiles.com/wheaton-invisalign/)
+    * [General Dentistry](#)
+        * [Oral Surgery](https://www.dpdsmiles.com/oral-surgery/)
+        * [Dental Bonding Fillings](https://www.dpdsmiles.com/dental-bonding-fillings/)
+        * [Dental Crowns](https://www.dpdsmiles.com/dental-crowns/)
+        * [Dental Sealants](https://www.dpdsmiles.com/dental-sealants/)
+    * [Frenectomies](https://www.dpdsmiles.com/wheaton-frenectomies/)
+    * [Laser Dentistry](https://www.dpdsmiles.com/wheaton-laser-dentistry/)
 * [Patients](#)
-    
-    * [Patient Login](https://dpdsmiles.curveconnex.com/)
+    * [Patient Portal](https://dpdsmiles.curveconnex.com/)
     * [Pay My Bill](https://payments.paynetworx.com/?token=23yQLnGCUhzdxzMYrczupKRb5l4)
     * [Insurance & Financial](https://www.dpdsmiles.com/dental-financing-options/)
     * [Post Procedure Care](https://www.dpdsmiles.com/post-op-care/)
     * [Health & Safety](#)
-        
         * [COVID-19 Update](https://www.dpdsmiles.com/covid-19-update/)
         * [Surgically Clean Air](https://www.dpdsmiles.com/surgically-clean-air/)
 * [Contact Us](https://www.dpdsmiles.com/contact-us/)
-    
-    * [Locations](https://www.dpdsmiles.com/locations/)
-    * [Appointments](https://www.dpdsmiles.com/appointments/)
-    * [Records Release](https://www.dpdsmiles.com/records-release/)
     * [Referrals](https://www.dpdsmiles.com/doctor-referrals/)
-    * [Request for School Form](https://www.dpdsmiles.com/request-for-school-form/)
+    * [Request For School Form](https://www.dpdsmiles.com/st-charles-request-for-school-form/)
 
-×
+Menu
 
-* [Our Team](https://www.dpdsmiles.com/our-doctors/)
+* [Home](https://www.dpdsmiles.com/)
 * [About Us](https://www.dpdsmiles.com/about-us/)
-    
-    * [Technology](https://www.dpdsmiles.com/our-technology/)
+    * [Meet Our Providers](https://www.dpdsmiles.com/our-doctors/)
+    * [Meet Our Team](https://www.dpdsmiles.com/meet-the-team/)
     * [Office Tour](https://www.dpdsmiles.com/office-tour/)
+    * [Technology](https://www.dpdsmiles.com/our-technology/)
     * [Testimonials](https://www.dpdsmiles.com/testimonials/)
-    * [Our Blog](https://www.dpdsmiles.com/our-blog/)
-* [Pediatrics](https://www.dpdsmiles.com/pediatric-dentistry/)
-    
-    * [First Visit](https://www.dpdsmiles.com/first-dental-visit/)
-    * [Cavities & Fillings](https://www.dpdsmiles.com/dental-bonding-fillings/)
-    * [Dental Cleanings](https://www.dpdsmiles.com/dental-cleanings-exam/)
-    * [Dental Crowns](https://www.dpdsmiles.com/dental-crowns/)
-    * [Dental Sealants](https://www.dpdsmiles.com/dental-sealants/)
-    * [Emergency Dentistry](https://www.dpdsmiles.com/dental-emergencies/)
+    * [Patient Education](https://www.dpdsmiles.com/patient-education/)
+* [Our Services](#)
+    * [Adult Orthodontics](https://www.dpdsmiles.com/adult-orthodontics-2/)
+    * [Emergency Dental](https://www.dpdsmiles.com/emergency-dental/)
     * [Frenectomies](https://www.dpdsmiles.com/frenectomies/)
-    * [Laser Dentistry](https://www.dpdsmiles.com/laser-dentistry/)
     * [Orthodontics](https://www.dpdsmiles.com/orthodontics/)
-    * [Root Canal Therapy](https://www.dpdsmiles.com/root-canals/)
-    * [Sedation Dentistry](https://www.dpdsmiles.com/sedation-dentistry/)
-    * [Special Needs](https://www.dpdsmiles.com/special-needs-dentistry/)
-    * [Teeth Whitening](https://www.dpdsmiles.com/teeth-whitening/)
-    * [Tooth Extractions](https://www.dpdsmiles.com/tooth-extractions/)
-* [Orthodontics](https://www.dpdsmiles.com/orthodontics/)
-    
-    * [Early Orthodontic Treatment](https://www.dpdsmiles.com/early-orthodontic-treatment/)
-    * [Braces](https://www.dpdsmiles.com/braces/)
     * [Invisalign](https://www.dpdsmiles.com/invisalign/)
-    * [Adult Orthodontics](https://www.dpdsmiles.com/adult-orthodontics/)
-* [Oral Surgery](https://www.dpdsmiles.com/oral-surgery/)
-    
-    * [Complex Extractions](https://www.dpdsmiles.com/tooth-extractions/#complex-extractions)
-    * [Extra Teeth Extractions](https://www.dpdsmiles.com/tooth-extractions/#extra-extractions)
-    * [Wisdom Teeth Extractions](https://www.dpdsmiles.com/wisdom-teeth-extractions/)
+    * [Laser Dentistry](https://www.dpdsmiles.com/laser-dentistry/)
+    * [Pediatric Dentistry](https://www.dpdsmiles.com/pediatric-dentistry/)
+    * [Sedation Dentistry](https://www.dpdsmiles.com/sedation-dentistry/)
+    * [Special Needs Dentistry](https://www.dpdsmiles.com/special-needs-dentistry/)
+* [St. Charles](https://www.dpdsmiles.com/st-charles/)
+    * [Orthodontics](https://www.dpdsmiles.com/st-charles-orthodontics/)
+        * [Invisalign](https://www.dpdsmiles.com/st-charles-invisalign/)
+    * [Wisdom Teeth Extractions](https://www.dpdsmiles.com/st-charles-wisdom-teeth-extractions/)
+    * [Dental Emergencies](https://www.dpdsmiles.com/st-charles-dental-emergencies/)
+    * [Frenectomies](https://www.dpdsmiles.com/st-charles-frenectomies/)
+    * [Laser Dentistry](https://www.dpdsmiles.com/st-charles-laser-dentistry/)
+    * [Oral Surgery](https://www.dpdsmiles.com/st-charles-oral-surgery/)
+    * [Sedation Dentistry](https://www.dpdsmiles.com/st-charles-sedation-dentistry/)
+* [Wheaton](https://www.dpdsmiles.com/wheaton/)
+    * [Dental Emergencies](https://www.dpdsmiles.com/dental-emergencies/)
+    * [Dental Cleanings & Exam](https://www.dpdsmiles.com/dental-cleanings-exam/)
+    * [Orthodontics](https://www.dpdsmiles.com/wheaton-orthodontics/)
+        * [Early Orthodontic Treatment](https://www.dpdsmiles.com/early-orthodontic-treatment/)
+        * [Braces](https://www.dpdsmiles.com/braces/)
+        * [Invisalign](https://www.dpdsmiles.com/wheaton-invisalign/)
+    * [General Dentistry](#)
+        * [Oral Surgery](https://www.dpdsmiles.com/oral-surgery/)
+        * [Dental Bonding Fillings](https://www.dpdsmiles.com/dental-bonding-fillings/)
+        * [Dental Crowns](https://www.dpdsmiles.com/dental-crowns/)
+        * [Dental Sealants](https://www.dpdsmiles.com/dental-sealants/)
+    * [Frenectomies](https://www.dpdsmiles.com/wheaton-frenectomies/)
+    * [Laser Dentistry](https://www.dpdsmiles.com/wheaton-laser-dentistry/)
 * [Patients](#)
-    
-    * [Patient Login](https://dpdsmiles.curveconnex.com/)
+    * [Patient Portal](https://dpdsmiles.curveconnex.com/)
     * [Pay My Bill](https://payments.paynetworx.com/?token=23yQLnGCUhzdxzMYrczupKRb5l4)
     * [Insurance & Financial](https://www.dpdsmiles.com/dental-financing-options/)
     * [Post Procedure Care](https://www.dpdsmiles.com/post-op-care/)
     * [Health & Safety](#)
-        
         * [COVID-19 Update](https://www.dpdsmiles.com/covid-19-update/)
         * [Surgically Clean Air](https://www.dpdsmiles.com/surgically-clean-air/)
 * [Contact Us](https://www.dpdsmiles.com/contact-us/)
-    
-    * [Locations](https://www.dpdsmiles.com/locations/)
-    * [Appointments](https://www.dpdsmiles.com/appointments/)
-    * [Records Release](https://www.dpdsmiles.com/records-release/)
     * [Referrals](https://www.dpdsmiles.com/doctor-referrals/)
-    * [Request for School Form](https://www.dpdsmiles.com/request-for-school-form/)
+    * [Request For School Form](https://www.dpdsmiles.com/st-charles-request-for-school-form/)
 
-[Book Online](https://www.dpdsmiles.com/appointments/ "Click Here")
+* [](https://dpdsmiles.curveconnex.com/login/?path=%2Fportal%2F)
+* [](https://www.dpdsmiles.com/contact-us/)
+* [](https://payments.paynetworx.com/?token=23yQLnGCUhzdxzMYrczupKRb5l4)
+
+* Home
+* Privacy Policy
+
+Privacy Policy
+--------------
 
 Privacy Policy
 ==============
 
-This Privacy Policy governs the manner in which DPD Smiles collects, uses, maintains and discloses information collected from users (each, a "User") of the https://www.dpdsmiles.com website ("Site").
+This Privacy Policy governs the manner in which DPD Smiles collects, uses, maintains and discloses information collected from users (each, a “User”) of the https://www.dpdsmiles.com website (“Site”).
 
 ### Personal identification information
 
@@ -241,7 +148,7 @@ We may collect non-personal identification information about Users whenever they
 
 #### Web browser cookies
 
-Our Site may use "cookies" to enhance User experience. User's web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly. **THESE COOKIES DO NOT IN ANY WAY IDENTIFY YOU OR GIVE ACCESS TO YOUR COMPUTER.** We may at anytime use these cookies to serve relevant ads on other third party websites via Google AdWords Remarketing and AdRoll retargeting platforms. The cookies are used to say “This person visited this page, so show them ads relating to that page.” Google AdWords Remarketing and AdRoll re-targeting allows us to tailor our marketing to better suit your needs and only display ads that are relevant to you.”
+Our Site may use “cookies” to enhance User experience. User’s web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly. **THESE COOKIES DO NOT IN ANY WAY IDENTIFY YOU OR GIVE ACCESS TO YOUR COMPUTER.** We may at anytime use these cookies to serve relevant ads on other third party websites via Google AdWords Remarketing and AdRoll retargeting platforms. The cookies are used to say “This person visited this page, so show them ads relating to that page.” Google AdWords Remarketing and AdRoll re-targeting allows us to tailor our marketing to better suit your needs and only display ads that are relevant to you.”
 
 #### How we use collected information
 
@@ -266,7 +173,7 @@ We do not sell, trade, or rent Users personal identification information to othe
 
 ### Third party websites
 
-Users may find advertising or other content on our Site that link to the sites and services of our partners, suppliers, advertisers, sponsors, licensors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website's own terms and policies.
+Users may find advertising or other content on our Site that link to the sites and services of our partners, suppliers, advertisers, sponsors, licensors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website’s own terms and policies.
 
 ### Changes to this privacy policy
 
@@ -282,43 +189,46 @@ If you have any questions about this Privacy Policy, the practices of this site,
 
 This document was last updated on June 1st, 2020
 
-#### Get in Touch:
+![DPD Smiles Invisalign Studio & Orthodontics](https://www.dpdsmiles.com/wp-content/uploads/2022/07/dpd-smiles-exterior-3-1024x594.jpg)
 
-722 S. President St.  
-Wheaton, IL 60189
+### Do you have any quetions?
 
-[(630) 469-7696](tel:+1-630-469-7696)
+[We are here to help!](https://www.dpdsmiles.com/wheaton/)
+----------------------------------------------------------
 
-[](https://www.facebook.com/dpdsmiles)[](https://www.instagram.com/dpdsmiles/)[](https://www.youtube.com/channel/UCyScqKwXSqWvg3ZT_H6bVeQ)
+[Contact Us!](https://www.dpdsmiles.com/contact-us/)
 
-[![DPD Smiles](https://www.dpdsmiles.com/wp-content/uploads/2020/05/dpd-smiles-logo-alt.png "DPD Smiles")](https://www.dpdsmiles.com/)
+[![](https://www.dpdsmiles.com/wp-content/uploads/2024/08/IMG_20240821_124347.jpg)](https://www.dpdsmiles.com/)
 
-![iapd-logo](https://www.dpdsmiles.com/wp-content/uploads/2020/04/iapd-logo.png "iapd-logo")
+* DPD Smiles is a pediatric, orthodontic and oral surgery dental office committed to creating and nurturing long lasting relationships.
 
-![american-association-pediatric-dentistry](https://www.dpdsmiles.com/wp-content/uploads/2020/04/american-association-pediatric-dentistry.png "american-association-pediatric-dentistry")
+[Facebook](https://www.facebook.com/dpdsmiles) [Instagram](https://www.instagram.com/dpdsmiles/) [Youtube](https://www.youtube.com/channel/UCyScqKwXSqWvg3ZT_H6bVeQ)
 
-![american-association-orthodontics](https://www.dpdsmiles.com/wp-content/uploads/2020/04/american-association-orthodontics.png "american-association-orthodontics")
+[Wheaton](https://www.dpdsmiles.com/wheaton/)
+---------------------------------------------
 
-[HIPAA Policy](https://www.dpdsmiles.com/hipaa-privacy-policy/) • [Privacy Policy](https://www.dpdsmiles.com/privacy-policy/) • [Terms of Service](https://www.dpdsmiles.com/terms-of-service/) • [Disclaimer](https://www.dpdsmiles.com/disclaimer/) • [Accessibility](https://www.dpdsmiles.com/accessibility-statement/) • [Sitemap](https://www.dpdsmiles.com/sitemap/)
+* [722 S President St,  
+    Wheaton, IL 60189](https://www.google.com/maps/place/DPD+Smiles/@41.8583364,-88.0924071,15z/data=!4m6!3m5!1s0x880e5312f2393f57:0x261bef4c19881810!8m2!3d41.8583364!4d-88.0924071!16s%2Fg%2F1trprcy4?entry=ttu&g_ep=EgoyMDI0MDgyMy4wIKXMDSoASAFQAw%3D%3D)
 
-#### Office Hours:
+* [Call: +1 (630) 469-7696](tel:+1%20(630)%20469-7696)
 
-Mon: 8:30 am - 4:30 pm
+[Get Directions](https://www.google.com/maps/place/DPD+Smiles/@41.8583364,-88.0924071,17z/data=!4m16!1m9!3m8!1s0x880e5312f2393f57:0x261bef4c19881810!2sDPD+Smiles!8m2!3d41.8583364!4d-88.0924071!9m1!1b1!16s%2Fg%2F1trprcy4!3m5!1s0x880e5312f2393f57:0x261bef4c19881810!8m2!3d41.8583364!4d-88.0924071!16s%2Fg%2F1trprcy4?entry=ttu&g_ep=EgoyMDI0MDkwMy4wIKXMDSoASAFQAw%3D%3D)
 
-Tues: 8:30 am - 4:30 pm
+[St. Charles](https://www.dpdsmiles.com/st-charles/)
+----------------------------------------------------
 
-Wed: 8:30 am - 4:30 pm
+* [1203 E Main St,  
+    St. Charles, IL 60174](https://www.google.com/maps/place/DPD+Smiles+-+Pediatrics+%26+Orthodontics/@41.916278,-88.3022508,15z/data=!4m6!3m5!1s0x880f03d7da9cde29:0x489ed1cf1461e5cb!8m2!3d41.916278!4d-88.3022508!16s%2Fg%2F11nmprq03n?entry=ttu&g_ep=EgoyMDI0MDgyMy4wIKXMDSoASAFQAw%3D%3D)
 
-Thur: 8:30 am - 4:30 pm
+* [Call: +1 (630) 883-0856](tel:+1%20(630)%20883-0856)
 
-Fri - Sat: By Appt. Only
+[Get Directions](https://www.google.com/maps/place/DPD+Smiles+-+Pediatrics+%26+Orthodontics/@41.9164654,-88.3023869,17z/data=!4m15!1m8!3m7!1s0x880f029833b3ee7b:0xdf9d116c9438652!2s1203+E+Main+St,+St.+Charles,+IL+60174!3b1!8m2!3d41.9162819!4d-88.302274!16s%2Fg%2F11c3q3s06k!3m5!1s0x880f03d7da9cde29:0x489ed1cf1461e5cb!8m2!3d41.916278!4d-88.3022508!16s%2Fg%2F11nmprq03n?entry=ttu&g_ep=EgoyMDI0MDkxNi4wIKXMDSoASAFQAw%3D%3D)
 
-[Driving Directions](https://g.page/dpdsmiles?share "Click Here")
+[DENTAL WEBSITES MADE WITH ♥ BY GARGLE](http://gargle.com/)
 
-Copyright © 2024 DPD Smiles. Powered by [Elevate DDS](https://www.elevatedds.com/).
-
-[Locations](https://www.dpdsmiles.com/locations/ "Click Here")
-
-[(630) 469-7696](tel:+16304697696 "Click Here")
-
-[Pay My Bill](https://payments.paynetworx.com/?token=23yQLnGCUhzdxzMYrczupKRb5l4 "Click Here")
+* [• HIPAA Policy](https://www.dpdsmiles.com/hipaa-privacy-policy/)
+* [• Privacy Policy](https://www.dpdsmiles.com/privacy-policy/)
+* [• Terms of Service](https://www.dpdsmiles.com/terms-of-service/)
+* [• Disclaimer](https://www.dpdsmiles.com/disclaimer/)
+* [• Accessibility](https://www.dpdsmiles.com/accessibility-statement/)
+* [• Sitemap](https://www.dpdsmiles.com/sitemap/)
