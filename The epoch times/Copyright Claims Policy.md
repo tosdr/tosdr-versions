@@ -158,76 +158,76 @@ Please note that under Section 512(f) of the DMCA, any person who knowingly mate
 
 TOP NEWS
 
+* [Two Gold Winners Awarded at NTD 9th International Chinese Vocal Competition](https://www.theepochtimes.com/bright/two-gold-winners-awarded-at-9th-ntd-vocal-competition-5727810)
+    
+    2hr By [Catherine Yang](https://www.theepochtimes.com/author/catherine-yang), Epoch Times
+    
+    [![Two Gold Winners Awarded at NTD 9th International Chinese Vocal Competition](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Two Gold Winners Awarded at NTD 9th International Chinese Vocal Competition](https://img.theepochtimes.com/assets/uploads/2024/09/21/id5728002-LDB8723-205x123.jpg.webp)](https://www.theepochtimes.com/bright/two-gold-winners-awarded-at-9th-ntd-vocal-competition-5727810)
+* [Zelenskyy Says Ukraine ‘Victory Plan’ Includes Deep Strikes Into Russia With Western Missiles](https://www.theepochtimes.com/world/zelenskyy-says-ukraine-victory-plan-includes-deep-strikes-into-russia-with-western-missiles-5727949)
+    
+    3hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
+    
+    [![Zelenskyy Says Ukraine ‘Victory Plan’ Includes Deep Strikes Into Russia With Western Missiles](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Zelenskyy Says Ukraine ‘Victory Plan’ Includes Deep Strikes Into Russia With Western Missiles](https://img.theepochtimes.com/assets/uploads/2024/09/03/id5717443-07102024-DSC08356-Zelenskyy-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/world/zelenskyy-says-ukraine-victory-plan-includes-deep-strikes-into-russia-with-western-missiles-5727949)
+* [Harris Accepts, Trump Declines Second Debate on CNN](https://www.theepochtimes.com/us/harris-accepts-invitation-from-cnn-for-second-debate-against-trump-5727971)
+    
+    4hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
+    
+    [![Harris Accepts, Trump Declines Second Debate on CNN](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Harris Accepts, Trump Declines Second Debate on CNN](https://img.theepochtimes.com/assets/uploads/2024/09/18/id5726109-Trump-Harris-v2-205x123.jpg.webp)](https://www.theepochtimes.com/us/harris-accepts-invitation-from-cnn-for-second-debate-against-trump-5727971)
+* [NTD 9th International Chinese Vocal Competition Finals and Awards Ceremony](https://www.theepochtimes.com/epochtv/ntd-9th-international-chinese-vocal-competition-finals-5719869)
+    
+    5hr By [Epoch Video](https://www.theepochtimes.com/author/epoch-video)
+    
+    [![NTD 9th International Chinese Vocal Competition Finals and Awards Ceremony](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![NTD 9th International Chinese Vocal Competition Finals and Awards Ceremony](https://img.theepochtimes.com/assets/uploads/2024/09/13/id5723860-2024-NTD-Vocal-Competition-1920x1080-1-205x123.jpg.webp)](https://www.theepochtimes.com/epochtv/ntd-9th-international-chinese-vocal-competition-finals-5719869)
 * [US Navy Directed to Prepare for War With China by 2027](https://www.theepochtimes.com/china/us-navy-directed-to-prepare-for-war-with-china-by-2027-post-5727144)
     
-    NEW By [Andrew Thornebrooke](https://www.theepochtimes.com/author/andrew-thornebrooke)
+    6hr By [Andrew Thornebrooke](https://www.theepochtimes.com/author/andrew-thornebrooke)
     
     [![US Navy Directed to Prepare for War With China by 2027](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![US Navy Directed to Prepare for War With China by 2027](https://img.theepochtimes.com/assets/uploads/2024/08/01/id5698243-US_Osprey_Crash_24201442113400-205x123.jpg.webp)](https://www.theepochtimes.com/china/us-navy-directed-to-prepare-for-war-with-china-by-2027-post-5727144)
+    ![US Navy Directed to Prepare for War With China by 2027](https://img.theepochtimes.com/assets/uploads/2024/09/21/id5727982-US_Osprey_Crash_24201442113400-OP-205x123.jpg.webp)](https://www.theepochtimes.com/china/us-navy-directed-to-prepare-for-war-with-china-by-2027-post-5727144)
 * [US Housing Payments Face Biggest Decline in 4 Years: Report](https://www.theepochtimes.com/real-estate/us-housing-payments-face-biggest-decline-in-4-years-report-5727926)
     
-    NEW By [Naveen Athrappully](https://www.theepochtimes.com/author/naveen-athrappully)
+    6hr By [Naveen Athrappully](https://www.theepochtimes.com/author/naveen-athrappully)
     
     [![US Housing Payments Face Biggest Decline in 4 Years: Report](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![US Housing Payments Face Biggest Decline in 4 Years: Report](https://img.theepochtimes.com/assets/uploads/2023/11/23/id5534804-For-Rent-For-Sale-sign-205x123.jpg.webp)](https://www.theepochtimes.com/real-estate/us-housing-payments-face-biggest-decline-in-4-years-report-5727926)
 * [FTC Says Social Media Giants Are Engaged in Mass Data Collection, Surveillance](https://www.theepochtimes.com/tech/ftc-says-social-media-giants-are-engaged-in-mass-data-collection-surveillance-5727315)
     
-    NEW By [Aldgra Fredly](https://www.theepochtimes.com/author/aldgra-fredly)
+    7hr By [Aldgra Fredly](https://www.theepochtimes.com/author/aldgra-fredly)
     
     [![FTC Says Social Media Giants Are Engaged in Mass Data Collection, Surveillance](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![FTC Says Social Media Giants Are Engaged in Mass Data Collection, Surveillance](https://img.theepochtimes.com/assets/uploads/2024/08/21/id5709898-featureimage-205x123.jpg.webp)](https://www.theepochtimes.com/tech/ftc-says-social-media-giants-are-engaged-in-mass-data-collection-surveillance-5727315)
-* [Democrats Widen Cash Advantage Over Republicans in August](https://www.theepochtimes.com/us/democrats-widen-cash-advantage-over-republicans-in-august-5727891)
-    
-    1hr By [Austin Alonzo](https://www.theepochtimes.com/author/austin-alonzo)
-    
-    [![Democrats Widen Cash Advantage Over Republicans in August](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Democrats Widen Cash Advantage Over Republicans in August](https://img.theepochtimes.com/assets/uploads/2024/09/21/id5727940-GettyImages-2167183530-OP-205x123.jpg.webp)](https://www.theepochtimes.com/us/democrats-widen-cash-advantage-over-republicans-in-august-5727891)
 * [An Unlikely Cure for a 9/11 Hero: How Forgiveness Improves Mental and Physical Health](https://www.theepochtimes.com/health/the-priest-who-lost-it-all-then-found-an-unlikely-cure-5719645)
     
-    1hr By [Makai Allbert](https://www.theepochtimes.com/author/makai-allbert)
+    7hr By [Makai Allbert](https://www.theepochtimes.com/author/makai-allbert)
     
     [![An Unlikely Cure for a 9/11 Hero: How Forgiveness Improves Mental and Physical Health](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![An Unlikely Cure for a 9/11 Hero: How Forgiveness Improves Mental and Physical Health](https://img.theepochtimes.com/assets/uploads/2024/09/16/id5724966-Forgiveness-featured-image-205x123.gif)](https://www.theepochtimes.com/health/the-priest-who-lost-it-all-then-found-an-unlikely-cure-5719645)
 * [Dow Jones Closes at Fresh Record After Fed-Fueled Winning Week](https://www.theepochtimes.com/business/dow-jones-closes-at-fresh-record-after-fed-fueled-winning-week-5727831)
     
-    3hr By [Andrew Moran](https://www.theepochtimes.com/author/andrew-moran)
+    9hr By [Andrew Moran](https://www.theepochtimes.com/author/andrew-moran)
     
     [![Dow Jones Closes at Fresh Record After Fed-Fueled Winning Week](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Dow Jones Closes at Fresh Record After Fed-Fueled Winning Week](https://img.theepochtimes.com/assets/uploads/2024/09/18/id5726417-Fed-chair_Sept-2024-205x123.jpg.webp)](https://www.theepochtimes.com/business/dow-jones-closes-at-fresh-record-after-fed-fueled-winning-week-5727831)
-* [LIVE 1 PM ET: NTD 9th International Chinese Vocal Competition Finals and Awards Ceremony](https://www.theepochtimes.com/epochtv/ntd-9th-international-chinese-vocal-competition-finals-5719869)
-    
-    4hr By [Epoch Video](https://www.theepochtimes.com/author/epoch-video)
-    
-    [![LIVE 1 PM ET: NTD 9th International Chinese Vocal Competition Finals and Awards Ceremony](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![LIVE 1 PM ET: NTD 9th International Chinese Vocal Competition Finals and Awards Ceremony](https://img.theepochtimes.com/assets/uploads/2024/09/13/id5723860-2024-NTD-Vocal-Competition-1920x1080-1-205x123.jpg.webp)](https://www.theepochtimes.com/epochtv/ntd-9th-international-chinese-vocal-competition-finals-5719869)
 * [Arizona Supreme Court Allows 98,000 Without Confirmed Citizenship Documents to Vote](https://www.theepochtimes.com/us/arizona-supreme-court-allows-98000-without-confirmed-citizenship-documents-to-vote-5727896)
     
-    7hr By [Caden Pearson](https://www.theepochtimes.com/author/caden-pearson)
+    13hr By [Caden Pearson](https://www.theepochtimes.com/author/caden-pearson)
     
     [![Arizona Supreme Court Allows 98,000 Without Confirmed Citizenship Documents to Vote](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Arizona Supreme Court Allows 98,000 Without Confirmed Citizenship Documents to Vote](https://img.theepochtimes.com/assets/uploads/2022/11/09/arizona-voting-midterms-205x123.jpeg.webp)](https://www.theepochtimes.com/us/arizona-supreme-court-allows-98000-without-confirmed-citizenship-documents-to-vote-5727896)
-* [Everything to Know About How Long-Range Missiles Might Impact the Ukraine-Russia War](https://www.theepochtimes.com/world/everything-to-know-about-how-long-range-missiles-might-impact-the-ukraine-russia-war-5727489)
-    
-    7hr By [Adam Morrow](https://www.theepochtimes.com/author/adam-morrow)
-    
-    [![Everything to Know About How Long-Range Missiles Might Impact the Ukraine-Russia War](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Everything to Know About How Long-Range Missiles Might Impact the Ukraine-Russia War](https://img.theepochtimes.com/assets/uploads/2017/08/20/GettyImages-824113280-205x123.jpg.webp)](https://www.theepochtimes.com/world/everything-to-know-about-how-long-range-missiles-might-impact-the-ukraine-russia-war-5727489)
-* [Amid Growing Violence, More Churches Turn to Faith-Based Security Groups](https://www.theepochtimes.com/article/faith-based-security-groups-see-rise-in-armed-churches-as-violent-attacks-escalate-5726648)
-    
-    7hr By [Allan Stein](https://www.theepochtimes.com/author/allan-stein)
-    
-    [![Amid Growing Violence, More Churches Turn to Faith-Based Security Groups](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Amid Growing Violence, More Churches Turn to Faith-Based Security Groups](https://img.theepochtimes.com/assets/uploads/2024/09/20/id5727539-GettyImages-477864556-205x123.jpg.webp)](https://www.theepochtimes.com/article/faith-based-security-groups-see-rise-in-armed-churches-as-violent-attacks-escalate-5726648)
 
 [![The Epoch Times](https://www.theepochtimes.com/assets/themes/eet/images/logo_eet.svg)](https://www.theepochtimes.com/)
 
