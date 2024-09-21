@@ -280,15 +280,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-Magic makes electronics go haywire, so Muggle devices don’t work at or near Hogwarts.
+During filming, Ollivander’s wand shop had over 17,000 individually labeled wand boxes inside.
 
 ### Potter History
 
-December 11, 2008 – The first stop for Harry Potter: The Exhibition is announced as Chicago, Illinois, opening on April 30, 2009.
+December 5, 2009 – The first trailer for Harry Potter and the Deathly Hallows – Part 1 is released online.
 
 ### Potter Quote
 
-“Sir, I wondered what you know about . . . about Horcruxes?”
+“If you went out and got a bit of snogging done yourself, you wouldn’t mind so much that everyone else does it!”
 
 [](#)
 
