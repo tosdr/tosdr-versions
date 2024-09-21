@@ -260,15 +260,15 @@ Or write to us at: 937 Haverford Road Suite 200, Bryn Mawr PA 19010
 
  related  categories
 
-[How to Make Thanksgiving Easier for Elderly Care Recipients](https://www.visitingangels.com/knowledge-center/care-options/how-to-make-thanksgiving-easier-for-elderly-care-recipients/36)
+[Alzheimer’s Care: Helping To Manage Sundowner’s Syndrome](https://www.visitingangels.com/knowledge-center/senior-health-and-well-being/alzheimers-care-helping-to-manage-sundowners-syndrome/478)
 
-[Elder Care during Holiday Times](https://www.visitingangels.com/knowledge-center/care-options/elder-care-during-holiday-times/50)
+[What is Long-Distance Caregiving from Visiting Angels?](https://www.visitingangels.com/knowledge-center/selecting-care/what-is-long-distance-caregiving-from-visiting-angels/324)
 
-[Understanding Mental Illness in Our Elderly](https://www.visitingangels.com/knowledge-center/senior-health-and-well-being/understanding-mental-illness-in-our-elderly/7)
+[Does Your Senior Show Signs of Depression?](https://www.visitingangels.com/knowledge-center/senior-health-and-well-being/does-your-senior-show-signs-of-depression/460)
 
-[The Best Senior Care: Treat Them with Respect](https://www.visitingangels.com/knowledge-center/why-in-home-care/the-best-senior-care-treat-them-with-respect/476)
+[At Home Living Assistance Helps Families Find Peace of Mind](https://www.visitingangels.com/knowledge-center/why-in-home-care/at-home-living-assistance-helps-families-find-peace-of-mind/327)
 
-[Gentleness Is Important to Personal Care](https://www.visitingangels.com/knowledge-center/care-options/gentleness-is-important-to-personal-care/471)
+[Understanding the Different Kinds of Senior Care Available](https://www.visitingangels.com/knowledge-center/care-options/understanding-the-different-kinds-of-senior-care-available/282)
 
 * [Care Options](https://www.visitingangels.com/knowledge-center/care-options)
 * [Selecting Care](https://www.visitingangels.com/knowledge-center/selecting-care)
