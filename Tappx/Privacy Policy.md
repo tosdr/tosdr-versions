@@ -405,5 +405,3 @@ Cookie Policy
 More information about our Cookie Policy [Cookie Policy](https://www.tappx.com/legal/cookies-policy)
 
 Enable All Reject All Save Changes
-
-We will be at DMEXCO 18-19 Sept in Cologne. 📍 [Come and meet us!](https://www.techsoulogy.com/events/dmexco-2024)
