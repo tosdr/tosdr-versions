@@ -180,7 +180,7 @@ g)         Azure Active Copyright (c) Microsoft Corporation.
 
 h)         core-js 2.5.4 Copyright (c) 2014-2018 Denis Pushkarev
 
-i)          [FirebaseAuthentication.net](https://www.google.com/url?q=http://firebaseauthentication.net/&sa=D&source=editors&ust=1726908576979220&usg=AOvVaw3LE84xCujfrHgSpCrroENb) 3.7.2  Copyright (c) 2016 Step Up Labs
+i)          [FirebaseAuthentication.net](https://www.google.com/url?q=http://firebaseauthentication.net/&sa=D&source=editors&ust=1726930199748293&usg=AOvVaw2Jlwhe3MmqGyEMd7AXx4ho) 3.7.2  Copyright (c) 2016 Step Up Labs
 
 j)          FontAwesome.WPF Copyright (c) 2014-2016 charri
 
@@ -240,7 +240,7 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 
 Third party components licensed under the Apache License.
 
-Global Tasks contains software used under Apache License, Version 2.0. A copy of this license is available at [](https://www.google.com/url?q=http://www.apache.org/licenses/LICENSE-2.0&sa=D&source=editors&ust=1726908576983420&usg=AOvVaw3Uqpy-qo3yX7osMo1SjTDa)[http://www.apache.org/licenses/LICENSE-2.0](https://www.google.com/url?q=http://www.apache.org/licenses/LICENSE-2.0&sa=D&source=editors&ust=1726908576983837&usg=AOvVaw0xN7Rp4zeZ4yDE37K1zCDe)
+Global Tasks contains software used under Apache License, Version 2.0. A copy of this license is available at [](https://www.google.com/url?q=http://www.apache.org/licenses/LICENSE-2.0&sa=D&source=editors&ust=1726930199751682&usg=AOvVaw3FR3116SV0sCq7ybB16MiC)[http://www.apache.org/licenses/LICENSE-2.0](https://www.google.com/url?q=http://www.apache.org/licenses/LICENSE-2.0&sa=D&source=editors&ust=1726930199751906&usg=AOvVaw25NolFDDG-Sjiigvc-nXw7)
 
 a)        Google.Cloud.Firestore 2.2.0 Copyright (c) Google, Inc.
 
