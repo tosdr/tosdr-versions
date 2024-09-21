@@ -56,9 +56,9 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/b513f5a2-9a30-4d68-8a4f-0e2b1608957d/20240920T225113/b513f5a2-9a30-4d68-8a4f-0e2b1608957d_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/b513f5a2-9a30-4d68-8a4f-0e2b1608957d/20240920T225113/b513f5a2-9a30-4d68-8a4f-0e2b1608957d_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/83cb3810-c634-40c5-bf75-6fd0fe8c8c52/20240921T114905/83cb3810-c634-40c5-bf75-6fd0fe8c8c52_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/83cb3810-c634-40c5-bf75-6fd0fe8c8c52/20240921T114905/83cb3810-c634-40c5-bf75-6fd0fe8c8c52_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
-        #### [Rainy weekend ahead with storm chances both Saturday and Sunday](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+        #### [Last day of summer](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
     *  [![](https://media.tegna-media.com/assets/KARE/images/c6306684-4c3a-475e-87d3-405075266334/20240920T120937/c6306684-4c3a-475e-87d3-405075266334_16x9.jpg) ![](https://media.tegna-media.com/assets/KARE/images/c6306684-4c3a-475e-87d3-405075266334/20240920T120937/c6306684-4c3a-475e-87d3-405075266334_360x203.jpg)](https://www.wqad.com/article/weather/national-weather-service-tornado-st-louis-county/89-0ed781aa-9541-4b23-819b-a351e20c8af1)
         
@@ -86,9 +86,9 @@ Navigation
 
 Davenport, IA »
 
-63°
+84°
 
-![Clear](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
+![Sunny](/assets/shared-images/weather-icons/clear-day_210x210.png)
 
 Davenport, IA »](https://www.wqad.com/weather)
 
