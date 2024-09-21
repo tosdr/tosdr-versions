@@ -23,14 +23,16 @@ This site is affiliated with Freestar for the purposes of placing advertising on
 
 We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit [https://www.networkadvertising.org](https://www.networkadvertising.org/).
 
-11:42:07PM
+05:42:19AM
 
 The clock will update automatically if you turn on JavaScript in your browser.
 ------------------------------------------------------------------------------
 
-Friday, September 20, 2024
+Saturday, September 21, 2024
 
-Sun: ↑ 06:41AM ↓ 06:57PM (12h 17m) - [More info](https://time.is/North_Bergen#time_zone) - [Make North Bergen time default](https://time.is/h/4dd937) - [Add to favorite locations](https://time.is/)
+[Peace Day](https://peaceoneday.org/) / [World Alzheimer's Day](https://www.alzinfo.org/articles/world-alzheimers-day/)
+
+Sun: ↑ 06:42AM ↓ 06:56PM (12h 14m) - [More info](https://time.is/North_Bergen#time_zone) - [Make North Bergen time default](https://time.is/h/4dd937) - [Add to favorite locations](https://time.is/)
 
 ×
 
