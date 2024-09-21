@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/inspiratie/gastcolumns/ram-op-welke-zaken-richt-jij-je-energie/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/inspiratie/het-boek-bewustzijnsdynamiek-toont-onze-reis-en-bestemming/ "Feeling Lucky? »")
 
 Algemene voorwaarden WantToKnow aanbiedingen
 ============================================
