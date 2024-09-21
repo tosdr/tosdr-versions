@@ -205,28 +205,28 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [The Grown-up World of Richard Scarry](https://www.somethingawful.com/photoshop-phriday/grownup-world-richard/1/)
-* [We Have To Stop Letting Assholes Ruin Everything.](https://www.somethingawful.com/news/do-better/)
-* [L'aventure le L'ocean L'fantasmo, Le](https://www.somethingawful.com/awful-movie-database/laventure-le-locean/)
-* [Leave a Message in the Anonymous White Man Complaint Box](https://www.somethingawful.com/news/leave-message-anonymous/)
-* [Schrödinger's Gay](https://www.somethingawful.com/news/shrodingers-gay/)
+* [04-02-2007](https://www.somethingawful.com/forum-fridays/ff04-02-2007/1/)
+* [Game and Movie Hybrids 2 (Part 1 of 2)](https://www.somethingawful.com/photoshop-phriday/game-movie-hybrids-2/1/)
+* [Internet Discount Barn Spring Fire Sale!](https://www.somethingawful.com/news/internet-discount-barn3/)
+* [Who Wants To Be A Suphero? and Teens-4-Christ](https://www.somethingawful.com/weekend-web/superheroes-chrstian-teens/1/)
+* [Starring Roles for Minor Characters!](https://www.somethingawful.com/photoshop-phriday/minor-characters-star/1/)
 
 ### Popular Threads
 
-* ![](https://fi.somethingawful.com/forums/posticons/icons-08/whine.png) [Types of Walkers I Hate](http://forums.somethingawful.com/showthread.php?threadid=4070800 "Types of Walkers I Hate")
-* ![](https://fi.somethingawful.com/images/shitpost.gif) [New York Times Website issue](http://forums.somethingawful.com/showthread.php?threadid=4070873 "New York Times Website issue")
 * ![](https://fi.somethingawful.com/images/shitpost.gif) [What's the fucking deal with Taxidermising things](http://forums.somethingawful.com/showthread.php?threadid=4070863 "What's the fucking deal with Taxidermising things")
+* ![](https://fi.somethingawful.com/images/shitpost.gif) [New York Times Website issue](http://forums.somethingawful.com/showthread.php?threadid=4070873 "New York Times Website issue")
+* ![](https://fi.somethingawful.com/forums/posticons/icons-08/goonmeet.png) [Have there been any SA-famous goons?](http://forums.somethingawful.com/showthread.php?threadid=4070867 "Have there been any SA-famous goons?")
 * ![](https://fi.somethingawful.com/forums/posticons/icons-08/question.png) [Puppy power!](http://forums.somethingawful.com/showthread.php?threadid=4070869 "Puppy power!")
 * ![](https://fi.somethingawful.com/forums/posticons/icons-08/music.png) [You ever hear a song and love it except one part that fucking sucks](http://forums.somethingawful.com/showthread.php?threadid=4070864 "You ever hear a song and love it except one part that fucking sucks")
-* ![](https://fi.somethingawful.com/forums/posticons/icons-08/goonmeet.png) [Have there been any SA-famous goons?](http://forums.somethingawful.com/showthread.php?threadid=4070867 "Have there been any SA-famous goons?")
+* ![](https://fi.somethingawful.com/forums/posticons/icons-08/politics.png) [whats the least cool big city in the world](http://forums.somethingawful.com/showthread.php?threadid=4070877 "whats the least cool big city in the world")
 
 ### Random Articles
 
-* [Hey Sports Illustrated: Where's My Cover Story?](https://www.somethingawful.com/news/jason-collins-si/)
-* [Instruction for a Peace](https://www.somethingawful.com/news/war-surface-doomsday/1/)
-* [Big-Baby](https://www.somethingawful.com/awful-links/awful-link-1959/)
-* [The P-T-B Archival Recap of a New Era](https://www.somethingawful.com/awful-links/awful-link-2353/)
-* [Operation Save America!](https://www.somethingawful.com/awful-links/awful-link-1778/)
+* [Greasnin's Guide to Going Greek](https://www.somethingawful.com/news/greasnins-guide-going/)
+* [Phelps-Chartered](https://www.somethingawful.com/awful-links/awful-link-3862/)
+* [The Sloth: Nature's Lion](https://www.somethingawful.com/news/sloth-best-animal/)
+* [Frederick Oxbow Begs Respectfully](https://www.somethingawful.com/news/frederick-oxbow-begs/1/)
+* [I Hate You Page 113](https://www.somethingawful.com/cliff-yablonski/i-hate-you-113/)
 
 [Random!](https://www.somethingawful.com/random/)
 
