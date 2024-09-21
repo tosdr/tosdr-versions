@@ -186,7 +186,7 @@ Sign Up for Updates
     
 * CAPTCHA
     
-* Name
+* Email
     
     This field is for validation purposes and should be left unchanged.
     
