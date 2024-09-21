@@ -818,12 +818,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Verpackungs­ärger: Toblerone](https://www.test.de/Verpackungsaerger-Toblerone-6105751-0/ "Verpackungsärger - Toblerone")
-* [Einweggeschirr: Papp­teller oft mit Schad­stoffen belastet](https://www.test.de/Einweggeschirr-Pappteller-oft-mit-Schadstoffen-belastet-6123560-0/ "Einweggeschirr - Pappteller oft mit Schadstoffen belastet")
-* [Energie sparen: Die Stromsparbox ist nutzlos](https://www.test.de/test-warnt-Nutzlose-Stromsparbox-5956815-0/ "Energie sparen - Die Stromsparbox ist nutzlos")
-* [Fest­geld: Zweifelhafte Zins­angebote](https://www.test.de/Festgeld-Zweifelhafte-Zinsangebote-5964123-0/ "Festgeld - Zweifelhafte Zinsangebote")
-* [Lang­zeit­folgen von Covid-19: Riech­training wirkt bei Geruchs­verlust](https://www.test.de/Langzeitfolgen-von-Covid-19-Riechtraining-wirkt-bei-Geruchsverlust-6066247-0/ "Langzeitfolgen von Covid-19 - Riechtraining wirkt bei Geruchsverlust")
-* [Trade Republic Tages­geld Giro­konto: Top-Zinsen, aber schlechtere Bedingungen](https://www.test.de/Tagesgeld-Debitkarte-Girokonto-Trade-Republic-hohe-Zinsen-6084201-0/ "Trade Republic Tagesgeld Girokonto - Top-Zinsen, aber schlechtere Bedingungen")
+* [Starlink im Schnell­test: So gut klappt Internet via Satellit](https://www.test.de/Starlink-im-Schnelltest-So-gut-klappt-Internet-via-Satellit-6105629-0/ "Starlink im Schnelltest - So gut klappt Internet via Satellit")
+* [Docking­stationen im Test: Viele sind ein Gewinn fürs Home­office](https://www.test.de/USB-C-Dockingstationen-im-Test-5979272-0/ "Dockingstationen im Test - Viele sind ein Gewinn fürs Homeoffice")
+* [Fahr­rad-Fake-Shops: Vorsicht, diese Räder gibt es gar nicht!](https://www.test.de/Fahrrad-Fake-Shops-Vorsicht-diese-Raeder-gibt-es-gar-nicht-6115252-0/ "Fahrrad-Fake-Shops - Vorsicht, diese Räder gibt es gar nicht!")
+* [Kinder-Smartwatches im Test: Peilsender am Hand­gelenk](https://www.test.de/Kinder-Smartwatch-Test-6041356-0/ "Kinder-Smartwatches im Test - Peilsender am Handgelenk")
+* [Feste Tages­creme von Foamie im Test: Spart Müll – aber pflegt sie auch?](https://www.test.de/Feste-Tagescreme-mit-UV-Schutz-von-Foamie-im-Test-Spart-Muell-aber-pflegt-sie-auch-6067707-0/ "Feste Tagescreme von Foamie im Test - Spart Müll – aber pflegt sie auch?")
+* [Crowdfunding-Insolvenzen: Kein Grund zum Schwärmen](https://www.test.de/Crowdfunding-Worauf-es-bei-der-Schwarmfinanzierung-ankommt-6082986-0/ "Crowdfunding-Insolvenzen - Kein Grund zum Schwärmen")
 
 Fußbereich
 
@@ -3863,12 +3863,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Verpackungs­ärger: Toblerone](https://www.test.de/Verpackungsaerger-Toblerone-6105751-0/ "Verpackungsärger - Toblerone")
-* [Einweggeschirr: Papp­teller oft mit Schad­stoffen belastet](https://www.test.de/Einweggeschirr-Pappteller-oft-mit-Schadstoffen-belastet-6123560-0/ "Einweggeschirr - Pappteller oft mit Schadstoffen belastet")
-* [Energie sparen: Die Stromsparbox ist nutzlos](https://www.test.de/test-warnt-Nutzlose-Stromsparbox-5956815-0/ "Energie sparen - Die Stromsparbox ist nutzlos")
-* [Fest­geld: Zweifelhafte Zins­angebote](https://www.test.de/Festgeld-Zweifelhafte-Zinsangebote-5964123-0/ "Festgeld - Zweifelhafte Zinsangebote")
-* [Lang­zeit­folgen von Covid-19: Riech­training wirkt bei Geruchs­verlust](https://www.test.de/Langzeitfolgen-von-Covid-19-Riechtraining-wirkt-bei-Geruchsverlust-6066247-0/ "Langzeitfolgen von Covid-19 - Riechtraining wirkt bei Geruchsverlust")
-* [Trade Republic Tages­geld Giro­konto: Top-Zinsen, aber schlechtere Bedingungen](https://www.test.de/Tagesgeld-Debitkarte-Girokonto-Trade-Republic-hohe-Zinsen-6084201-0/ "Trade Republic Tagesgeld Girokonto - Top-Zinsen, aber schlechtere Bedingungen")
+* [Starlink im Schnell­test: So gut klappt Internet via Satellit](https://www.test.de/Starlink-im-Schnelltest-So-gut-klappt-Internet-via-Satellit-6105629-0/ "Starlink im Schnelltest - So gut klappt Internet via Satellit")
+* [Docking­stationen im Test: Viele sind ein Gewinn fürs Home­office](https://www.test.de/USB-C-Dockingstationen-im-Test-5979272-0/ "Dockingstationen im Test - Viele sind ein Gewinn fürs Homeoffice")
+* [Fahr­rad-Fake-Shops: Vorsicht, diese Räder gibt es gar nicht!](https://www.test.de/Fahrrad-Fake-Shops-Vorsicht-diese-Raeder-gibt-es-gar-nicht-6115252-0/ "Fahrrad-Fake-Shops - Vorsicht, diese Räder gibt es gar nicht!")
+* [Kinder-Smartwatches im Test: Peilsender am Hand­gelenk](https://www.test.de/Kinder-Smartwatch-Test-6041356-0/ "Kinder-Smartwatches im Test - Peilsender am Handgelenk")
+* [Feste Tages­creme von Foamie im Test: Spart Müll – aber pflegt sie auch?](https://www.test.de/Feste-Tagescreme-mit-UV-Schutz-von-Foamie-im-Test-Spart-Muell-aber-pflegt-sie-auch-6067707-0/ "Feste Tagescreme von Foamie im Test - Spart Müll – aber pflegt sie auch?")
+* [Crowdfunding-Insolvenzen: Kein Grund zum Schwärmen](https://www.test.de/Crowdfunding-Worauf-es-bei-der-Schwarmfinanzierung-ankommt-6082986-0/ "Crowdfunding-Insolvenzen - Kein Grund zum Schwärmen")
 
 Weitere spannende Themen
 
@@ -3883,12 +3883,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Verpackungs­ärger: Toblerone](https://www.test.de/Verpackungsaerger-Toblerone-6105751-0/ "Verpackungsärger - Toblerone")
-* [Einweggeschirr: Papp­teller oft mit Schad­stoffen belastet](https://www.test.de/Einweggeschirr-Pappteller-oft-mit-Schadstoffen-belastet-6123560-0/ "Einweggeschirr - Pappteller oft mit Schadstoffen belastet")
-* [Energie sparen: Die Stromsparbox ist nutzlos](https://www.test.de/test-warnt-Nutzlose-Stromsparbox-5956815-0/ "Energie sparen - Die Stromsparbox ist nutzlos")
-* [Fest­geld: Zweifelhafte Zins­angebote](https://www.test.de/Festgeld-Zweifelhafte-Zinsangebote-5964123-0/ "Festgeld - Zweifelhafte Zinsangebote")
-* [Lang­zeit­folgen von Covid-19: Riech­training wirkt bei Geruchs­verlust](https://www.test.de/Langzeitfolgen-von-Covid-19-Riechtraining-wirkt-bei-Geruchsverlust-6066247-0/ "Langzeitfolgen von Covid-19 - Riechtraining wirkt bei Geruchsverlust")
-* [Trade Republic Tages­geld Giro­konto: Top-Zinsen, aber schlechtere Bedingungen](https://www.test.de/Tagesgeld-Debitkarte-Girokonto-Trade-Republic-hohe-Zinsen-6084201-0/ "Trade Republic Tagesgeld Girokonto - Top-Zinsen, aber schlechtere Bedingungen")
+* [Starlink im Schnell­test: So gut klappt Internet via Satellit](https://www.test.de/Starlink-im-Schnelltest-So-gut-klappt-Internet-via-Satellit-6105629-0/ "Starlink im Schnelltest - So gut klappt Internet via Satellit")
+* [Docking­stationen im Test: Viele sind ein Gewinn fürs Home­office](https://www.test.de/USB-C-Dockingstationen-im-Test-5979272-0/ "Dockingstationen im Test - Viele sind ein Gewinn fürs Homeoffice")
+* [Fahr­rad-Fake-Shops: Vorsicht, diese Räder gibt es gar nicht!](https://www.test.de/Fahrrad-Fake-Shops-Vorsicht-diese-Raeder-gibt-es-gar-nicht-6115252-0/ "Fahrrad-Fake-Shops - Vorsicht, diese Räder gibt es gar nicht!")
+* [Kinder-Smartwatches im Test: Peilsender am Hand­gelenk](https://www.test.de/Kinder-Smartwatch-Test-6041356-0/ "Kinder-Smartwatches im Test - Peilsender am Handgelenk")
+* [Feste Tages­creme von Foamie im Test: Spart Müll – aber pflegt sie auch?](https://www.test.de/Feste-Tagescreme-mit-UV-Schutz-von-Foamie-im-Test-Spart-Muell-aber-pflegt-sie-auch-6067707-0/ "Feste Tagescreme von Foamie im Test - Spart Müll – aber pflegt sie auch?")
+* [Crowdfunding-Insolvenzen: Kein Grund zum Schwärmen](https://www.test.de/Crowdfunding-Worauf-es-bei-der-Schwarmfinanzierung-ankommt-6082986-0/ "Crowdfunding-Insolvenzen - Kein Grund zum Schwärmen")
 
 Neueste Tests
 
@@ -3901,12 +3901,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Verpackungs­ärger: Toblerone](https://www.test.de/Verpackungsaerger-Toblerone-6105751-0/ "Verpackungsärger - Toblerone")
-* [Einweggeschirr: Papp­teller oft mit Schad­stoffen belastet](https://www.test.de/Einweggeschirr-Pappteller-oft-mit-Schadstoffen-belastet-6123560-0/ "Einweggeschirr - Pappteller oft mit Schadstoffen belastet")
-* [Energie sparen: Die Stromsparbox ist nutzlos](https://www.test.de/test-warnt-Nutzlose-Stromsparbox-5956815-0/ "Energie sparen - Die Stromsparbox ist nutzlos")
-* [Fest­geld: Zweifelhafte Zins­angebote](https://www.test.de/Festgeld-Zweifelhafte-Zinsangebote-5964123-0/ "Festgeld - Zweifelhafte Zinsangebote")
-* [Lang­zeit­folgen von Covid-19: Riech­training wirkt bei Geruchs­verlust](https://www.test.de/Langzeitfolgen-von-Covid-19-Riechtraining-wirkt-bei-Geruchsverlust-6066247-0/ "Langzeitfolgen von Covid-19 - Riechtraining wirkt bei Geruchsverlust")
-* [Trade Republic Tages­geld Giro­konto: Top-Zinsen, aber schlechtere Bedingungen](https://www.test.de/Tagesgeld-Debitkarte-Girokonto-Trade-Republic-hohe-Zinsen-6084201-0/ "Trade Republic Tagesgeld Girokonto - Top-Zinsen, aber schlechtere Bedingungen")
+* [Starlink im Schnell­test: So gut klappt Internet via Satellit](https://www.test.de/Starlink-im-Schnelltest-So-gut-klappt-Internet-via-Satellit-6105629-0/ "Starlink im Schnelltest - So gut klappt Internet via Satellit")
+* [Docking­stationen im Test: Viele sind ein Gewinn fürs Home­office](https://www.test.de/USB-C-Dockingstationen-im-Test-5979272-0/ "Dockingstationen im Test - Viele sind ein Gewinn fürs Homeoffice")
+* [Fahr­rad-Fake-Shops: Vorsicht, diese Räder gibt es gar nicht!](https://www.test.de/Fahrrad-Fake-Shops-Vorsicht-diese-Raeder-gibt-es-gar-nicht-6115252-0/ "Fahrrad-Fake-Shops - Vorsicht, diese Räder gibt es gar nicht!")
+* [Kinder-Smartwatches im Test: Peilsender am Hand­gelenk](https://www.test.de/Kinder-Smartwatch-Test-6041356-0/ "Kinder-Smartwatches im Test - Peilsender am Handgelenk")
+* [Feste Tages­creme von Foamie im Test: Spart Müll – aber pflegt sie auch?](https://www.test.de/Feste-Tagescreme-mit-UV-Schutz-von-Foamie-im-Test-Spart-Muell-aber-pflegt-sie-auch-6067707-0/ "Feste Tagescreme von Foamie im Test - Spart Müll – aber pflegt sie auch?")
+* [Crowdfunding-Insolvenzen: Kein Grund zum Schwärmen](https://www.test.de/Crowdfunding-Worauf-es-bei-der-Schwarmfinanzierung-ankommt-6082986-0/ "Crowdfunding-Insolvenzen - Kein Grund zum Schwärmen")
 
 Service Stiftung Warentest
 
