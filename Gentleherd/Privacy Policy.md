@@ -646,4 +646,4 @@ Your personal data will be used to support your experience throughout this websi
 
  Register
 
-![facebook_pixel](https://www.facebook.com/tr?id=386724052628427&ev=PageView&noscript=1&eid=386724052628427a6a90e5c-ad70-4ca6-9f81-f4284ac87e14&cd%5Bpage_title%5D=Privacy+Policy&cd%5Bpost_type%5D=page&cd%5Bpost_id%5D=3&cd%5Bplugin%5D=PixelYourSite&cd%5Bevent_url%5D=gentleherd.com%2Fprivacy-policy%2F&cd%5Buser_role%5D=guest)
+![facebook_pixel](https://www.facebook.com/tr?id=386724052628427&ev=PageView&noscript=1&eid=386724052628427ce6fdade-b81f-42fe-835b-4e1be3b95f96&cd%5Bpage_title%5D=Privacy+Policy&cd%5Bpost_type%5D=page&cd%5Bpost_id%5D=3&cd%5Bplugin%5D=PixelYourSite&cd%5Bevent_url%5D=gentleherd.com%2Fprivacy-policy%2F&cd%5Buser_role%5D=guest)
