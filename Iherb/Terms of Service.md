@@ -14,7 +14,7 @@ Zur Erinnerung: Sie können Ihr bevorzugtes Land oder Ihre bevorzugte Sprache je
 
 [Kostenloser Versand ab 40,00 €](https://de.iherb.com/shipping)
 
-[iHerb-App | iHerb](https://de.iherb.com/info/app)
+[iHerb-App](https://de.iherb.com/info/app)
 
 Liefern an   Deutschland
 
