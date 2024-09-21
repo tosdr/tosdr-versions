@@ -31,6 +31,690 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
+Reforma constitucional y campaña
+================================
+
+Cuando se acercan las elecciones, todo tiene una inevitable valoración electoral.
+---------------------------------------------------------------------------------
+
+![Lolo Echeverría, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Lolo-Echeverria-1.jpg)
+
+Cuando se acercan las **elecciones**, todo tiene una inevitable **valoración electoral**. La propuesta de reformar la **Constitución** para levantar el veto a la instalación de **bases militares extranjeras** en nuestro **territorio** responde a una conveniencia para la lucha contra el **narcotráfico** y la **violencia**, pero también tiene una importante **utilidad electoral**.
+
+No se conoce de ningún interés concreto ni propuesta de instalar **bases militares extranjeras**, sin embargo, la **iniciativa** parece oportuna y **viable**.  Es posible su aprobación en la **Asamblea Nacional** por el equilibrio de **fuerzas** y también su **ratificación** en **referéndum** como respuesta a la **inseguridad**.
+
+Para los **intereses electorales** del presidente parece muy conveniente. Las **fuerzas políticas** que se opongan a la **reforma** corren el riesgo de parecer aliados del **narcotráfico**; pero, para el correísmo será difícil aceptar la eliminación de una **disposición constitucional** que defendían con tanto ardor en nombre de la **soberanía nacional**.
+
+La iniciativa del presidente Noboa arrincona al correísmo y propone un **debate** que será un importante **tema de campaña**; si todo marcha bien, la **consulta al pueblo** puede coincidir con las **elecciones presidenciales**. Correísmo y anticorreísmo siguen monopolizando la **campaña electoral**.
+
+Los **estrategas** del gobierno se mueven con mucha habilidad, aunque tienen todavía enemigos muy peligrosos por delante: los **apagones**, la **crisis económica** y el **desempleo**, la persistencia de la **inseguridad ciudadana**, la vicepresidente y los errores de los **funcionarios**.
+
+El **ministro de gobierno** se ha hecho cargo de los errores esta semana. Con prepotencia y poco respeto a la **libertad de expresión** interrumpió un programa de radio para calificar de mentiroso a uno de los invitados. Se burló de los que se creen calificados para hablar de **energía**, matizó diciendo que él tampoco está calificado, pero que llevaba a “su” ministro de energía. Dictaminó que el país no tiene una **crisis energética,** sino una **crisis** de **agua**.
+
+¡La Inteligencia Artificial ya puede razonar!
+=============================================
+
+OpenAI ha logrado avances importantes en IA, pero aún queda mucho por desarrollar, guiado por un enfoque responsable.
+---------------------------------------------------------------------------------------------------------------------
+
+![Marco E. Benalcázar, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Marco-E.-Benalcazar.jpg)
+
+En el vertiginoso avance de la **Inteligencia Artificial (IA)**, donde el razonamiento sigue siendo un importante desafío, [**Open AI**](https://openai.com/ "Enlace inteligencia artificial") ha vuelto a marcar un hito importante. El 12 de septiembre de 2024, coincidiendo con la celebración del Día del Programador, Open AI presentó su nueva serie de grandes modelos de lenguaje (LLMs por sus siglas en inglés): [ChatGPT o1-preview](https://openai.com/index/introducing-openai-o1-preview/) y [ChatGPT o1-mini](https://openai.com/index/openai-o1-mini-advancing-cost-efficient-reasoning/) (los **modelos o1**). Estos nuevos modelos fueron diseñados para simular cierta capacidad de **análisis y razonamiento** en la generación automática de texto. Open AI destacó en su lanzamiento que estos nuevos modelos pueden [“pensar antes de responder”](https://openai.com/index/introducing-openai-o1-preview/), una diferencia clave con respecto a sus predecesores como [ChatGPT 4o](https://openai.com/index/hello-gpt-4o/). En un análisis anterior titulado [“Lo que debes saber antes de usar ChatGPT](https://www.elcomercio.com/opinion/debes-saber-antes-usar-chat-gpt-marco-benalcazar-columnista.html)”, discutimos las debilidades y fortalezas de ChatGPT 4o, señalando que una de las principales limitaciones era su tendencia a proporcionar respuestas incorrectas en situaciones que demandaban razonamiento. Con los nuevos modelos, **OpenAI** busca abordar directamente esta limitación, ofreciendo una experiencia más cercana al **razonamiento humano**. En este artículo vamos a analizar estos nuevos modelos de IA.
+
+Para poner a prueba nuestra capacidad de análisis o **razonamiento** y también la de los nuevos **modelos o1** de Open AI, consideremos un problema de matemáticas y lenguaje que es sencillo de comprender, pero que demanda de cierta complejidad a la hora de su resolución: la **generación** de **palíndromos**. Un **palíndromo** se define como una palabra o frase que se lee igual de izquierda a derecha que de derecha a izquierda. Por ejemplo, **palíndromos** de una sola palabra son “ANILINA” y “RECONOCER”; **palíndromos** de 2 palabras son “AMO ROMA” y “OJO ROJO”. En estos dos últimos casos, para leer la misma secuencia de letras, debemos ignorar los espacios en blanco que separan las palabras. Finalmente, ejemplos de **palíndromos** de 3 palabras son “ANULA LA LUNA” y “ATEO POCO POETA”. Como nos podemos dar cuenta, verificar que una palabra o frase sea un **palíndromo** es un problema sencillo; sin embargo, su **generación** involucra **análisis** y razonamiento.
+
+Ahora te planteo el siguiente problema “**Crea un palíndromo de 6 palabras en español**”. Toma papel y lápiz y deja volar tu **imaginación**, y capacidad de **análisis** y **razonamiento**. Piénsalo bien y mide el tiempo que te demoras resolviendo este problema. Una vez que lo resuelvas, responde la siguiente pregunta ¿Cuán complicado te resultó encontrar una frase con sentido, de 6 palabras, que sea un **palíndromo**?
+
+Es momento de plantear el mismo problema a **ChatGPT 4o**, usando como _prompt_ la descripción del problema que definimos arriba entre comillas. El resultado que retorna es “ANITA LLEVA AVE ALLÁ LATINA”, en aproximadamente 1 segundo. La **respuesta** ha sido generada muy rápidamente; sin embargo, es incorrecta, pues agrupando las letras de esta frase de derecha a izquierda, la única palabra donde hay coincidencia es “ANITA”. Si le pides generar un nuevo **palíndromo**, lo más probable es que el resultado sea nuevamente incorrecto. Ahora intentemos lo mismo, pero con otro LLM, esta vez [**Claude**](https://claude.ai/login) de [Anthropic](https://www.anthropic.com/). El resultado generado es “AMA LA VIDA, ADIVINA LA AMA”, en aproximadamente 2 segundos. Nuevamente, este resultado, aunque generado rápidamente, es incorrecto. Finalmente, démosle la oportunidad a [**Gemini**](https://gemini.google.com/), el LLM de Google. La respuesta es “A LA SEÑAL, NADA SE ALÓ”, la cual fue generada en unos 5 segundos porque, aparte de la respuesta, también se generó una explicación. Desafortunadamente, el resultado es incorrecto. Este problema generalizado se debe a que todos estos LLMs generan sus respuestas, palabra por palabra, sin analizar si el texto producido cumple con las condiciones establecidas (en este caso de ser un palíndromo). Estos modelos tampoco “razonan” sus respuestas antes de retornarlas.
+
+Ahora le toca el turno a **ChatGPT o1-preview** (el modelo que simula cierta capacidad de análisis y razonamiento). Este algoritmo retorna la frase “[YO DONO ORO O NO DOY](https://chatgpt.com/share/66e85b1b-5a18-8001-990b-51e89b41c983)”, en 30 segundos. Esta vez hubo que esperar más tiempo para obtener una respuesta. Sin embargo, esta espera valió la pena porque el resultado es correcto. Te recomiendo comparar este resultado con el que obtuviste gracias a tu **capacidad intelectual**. Lo más probable es que tu tiempo sea mucho mayor que el que se demoró ChatGPT o1-preview. Ahora surge la pregunta ¿cómo ChatGPT o1-preview llegó a una respuesta correcta? Desafortunadamente, para aquellos que no formamos parte del equipo de Open AI, la maquinaria algorítmica y el procedimiento usado para la **implementación** de los nuevos **modelos o1** es confidencial. Sin embargo, sabemos que los nuevos modelos han sido desarrollados combinando aprendizaje autosupervisado, ajuste fino (_fine-tuning_) supervisado, aprendizaje por refuerzo, y planificación. Con esta combinación entre técnicas avanzadas de IA, mucha imaginación y creatividad por parte de los **ingenieros** y **científicos** de Open AI, gran capacidad de cómputo y enormes volúmenes de datos, hoy contamos con los primeros modelos de IA que pueden analizar y razonar, aunque todavía con una capacidad bastante limitada.
+
+Según [datos de Open AI](https://openai.com/index/learning-to-reason-with-llms/), el modelo **ChatGPT o1-preview** se especializa en la resolución de **problemas** complejos en ciencias, matemáticas y programación, integrando un amplio conocimiento del mundo y cierta capacidad de **análisis** y razonamiento. En particular, este **modelo** exhibe un mejor desempeño que expertos humanos en la resolución de preguntas de opción múltiple, de nivel de doctorado (Ph.D.), en biología, física, y química. Por su parte, el modelo **ChatGPT o1-mini** ofrece un procesamiento más rápido y económico, con un enfoque más especializado en la creación y depuración de **código**, lo cual es útil para el desarrollo de **programas computacionales**. Por ahora, si deseas acceder a la funcionalidad de estos nuevos modelos de Open AI, debes pagar una suscripción para usar **ChatGPT** en cualquiera de los siguientes planes: _plus_, _teams_, _enterprise_, _edu_, o la API de ChatGPT. Afortunadamente, [Open AI ha anunciado que eventualmente dará acceso, de forma gratuita, al modelo ChatGPT o1-mini](https://openai.com/index/introducing-openai-o1-preview/).
+
+Finalmente, aunque los avances realizados por Open AI para desarrollar los modelos o1 que simulan cierta capacidad de **análisis** y razonamiento son un paso muy importante, aún hay mucho camino por recorrer en el mundo de la IA. Estamos todavía lejos de que estas **herramientas** puedan realizar análisis y razonamientos profundos, interactuar de manera avanzada con nuestro entorno o plantear soluciones novedosas para una amplia gama de **problemas** fundamentales para la **humanidad**. El desafío de alcanzar una **inteligencia artificial general** (AGI por sus siglas en inglés) sigue siendo monumental. Lo fascinante es que apenas estamos al comienzo de esta **revolución tecnológica**, y el potencial de estas herramientas de IA es enorme. Sin embargo, también es crucial que los desarrolladores, reguladores y la sociedad en su conjunto guíen este progreso con responsabilidad, asegurando que la IA se convierta en una **herramienta** transformadora y segura para todos.
+
+Bolones rellenos de queso y chicharrón, una delicia ecuatoriana en cada mordida
+===============================================================================
+
+Haz que tus comidas sean inolvidables con estos bolones crujientes y llenos de sabor. ¡Comparte esta receta con tus amigos!
+---------------------------------------------------------------------------------------------------------------------------
+
+![El secreto de un buen bolón está en lograr el punto perfecto del plátano: frito y machacado con un toque de sal.](https://www.elcomercio.com/wp-content/uploads/2024/09/image-1-1.png)
+
+Los **bolones con queso y chicharrón** son una joya de la **gastronomía ecuatoriana** que combina **sabores** y **texturas** en un solo bocado. Esta deliciosa **receta** consiste en una masa de plátano verde rellena de chicharrón crujiente y queso fundido, creando una explosión de **sabor** en cada mordida. Perfectos para un desayuno contundente, un almuerzo sabroso o una merienda deliciosa, los **bolones** ofrecen una experiencia culinaria única y auténtica. En esta **receta**, te mostraremos cómo preparar estos **bolones** caseros de manera sencilla, para que puedas disfrutar de esta **tradición ecuatoriana** desde la comodidad de tu hogar. ¡Prepárate para sorprender a tu familia y amigos con este plato, que seguro se convertirá en su nuevo favorito!
+
+Ingredientes
+------------
+
+* 4 plátanos verdes grandes (no maduros)
+* 200 gramos de queso fresco o queso costeño (opcional: puedes usar chicharrón o bacon en lugar de queso)
+* 2 cucharadas de mantequilla o aceite (opcional: manteca de cerdo)
+* Sal al gusto
+* Aceite para freír
+
+* * *
+
+> Con su mezcla de texturas y sabores, el bolón de verde es una excelente muestra de la riqueza gastronómica de Ecuador
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/09/image-14-1024x683.png)
+
+Ya sea acompañado de una taza de café o un huevo frito, el bolón de verde es una delicia que destaca en la cocina ecuatoriana.
+
+Preparación de los bolones de verde
+-----------------------------------
+
+* **Pelar** los plátanos verdes y cotarlos en rodajas gruesas.
+* **Calentar** en una sartén grande, suficiente aceite y freír los plátanos hasta que estén dorados y cocidos (aproximadamente 8-10 minutos). Asegurarse que no queden crudos por dentro.
+* Una vez fritos, retirar del aceite y **colocar** sobre papel absorbente para eliminar el exceso de grasa.
+* En un mortero o con un machacador de papas, **aplastar** los plátanos fritos hasta formar una masa. Si ves que la masa está muy seca, puedes añadir un poco de mantequilla, aceite o agua caliente para darle una mejor textura.
+* **Sazonar** con sal al gusto mientras los machacas.
+* Si decides usar queso, desmenúzalo o córtalo en cubos pequeños.
+* **Incorporar** el queso o chicharrón a la masa de plátano. Mezclar bien y formar bolas (bolones) del tamaño de tu preferencia. Asegurarse que el relleno quede bien distribuido.
+* Luego, para dar la textura final y crujiente, pasar los bolones nuevamente por la sartén con un poco de aceite, dorándolos por fuera.
+* Servir los bolones de verde calientes. Se suelen acompañar con café, huevo frito o un poco de salsa picante.
+
+Variaciones de bolones de verde
+-------------------------------
+
+Las variaciones del bolón de verde son tan diversas como los gustos de quienes lo preparan. Aquí te presentamos algunas de las más populares:
+
+* **Bolón mixto**: Esta es una de las variaciones más populares. Combina lo mejor de ambos mundos: el queso derretido y el chicharrón crujiente, creando una explosión de sabores y texturas.
+* **Bolón de queso**: Esta es la versión clásica y más sencilla. El plátano verde machacado se mezcla con abundante queso fresco o costeño, que le aporta un sabor suave y ligeramente salado.
+* **Bolón de chicharrón**: En esta versión, el plátano se combina con chicharrón o cerdo frito crujiente. El contraste entre lo suave del plátano y lo crocante del chicharrón le da un sabor único y delicioso.
+* **Bolón de camarones**: Esta es una variación más gourmet y es muy común en la costa ecuatoriana. Los camarones salteados se mezclan con el plátano, dándole un toque marino que eleva el plato a otro nivel.
+* **Bolón vegetariano**: Para una opción sin carne, el bolón se puede preparar solo con queso o acompañarlo con otros ingredientes como aguacate, champiñones salteados, o incluso espinacas.
+
+Cada una de estas variaciones del bolón de verde mantiene la esencia del plato, pero le añade un toque especial que lo adapta a los diferentes paladares.
+
+¡Disfruta de esta delicia ecuatoriana!
+
+Cartas a Quito / 21 de septiembre de 2024
+=========================================
+
+Estas son las cartas a Quito de este sábado 21 de septiembre de 2024
+--------------------------------------------------------------------
+
+![Cartas a Quito. Foto: Archivo / EL COMERCIO](https://www.elcomercio.com/wp-content/uploads/2024/04/CARTAS-A-QUITO-1.jpg)
+
+Uso del silbato: Nada descabellado
+----------------------------------
+
+He visto con verdadera sorpresa la mofa que algunas personas, incluyendo la Asamblea Nacional, hicieron sobre la sugerencia del uso del silbato que hiciera un jefe policial.
+
+Considerando que, en un apagón general, difícilmente se pueda disponer de medios de alertar situaciones emergentes que deban ser accionados con energía eléctrica, una de las alternativas válidas es el uso de silbatos.
+
+Quienes se burlaron enfatizaron únicamente en que el silbato es un elemento básico, pero no propusieron la alternativa para alertar en una situación de peligro o emergencia: típico de los tontos.
+
+Se ha vuelto muy normal en la política ecuatoriana el descalificar o el burlarse de algunas propuestas, pero no brindar alternativas “inteligentes”.
+
+Cuando se critica una medida propuesta, si se es inteligente y colaborador, se debe proponer la alternativa válida. No hacerlo deriva en una crítica no constructiva: una reacción propia del dogmatismo y de la mediocridad.
+
+Considero que cualquier sugerencia que vaya en la dirección de la protección de la ciudadanía, y, que pueda ser implementada, al menor costo posible, es viable. Felicito al oficial de policía que la sugirió, yo, voy a comprar un silbato.
+
+José M. Jalil Haas
+
+Para las elecciones 2025 se aplica un ABC para la seguridad de los candidatos
+=============================================================================
+
+La seguridad de los candidatos para las elecciones 2025 se analizará, según los riesgos.
+----------------------------------------------------------------------------------------
+
+![Los candidatos seguirán estos requisitos para tener seguridad en las elecciones 2025.](https://www.elcomercio.com/wp-content/uploads/2024/09/proteccion-candidatos.jpg)
+
+La inscripción de **candidatos** para las **elecciones 2025** en Ecuador está en curso. El plazo se completará el 2 de octubre de este 2024[.](https://es.wikipedia.org/wiki/Ecuador)
+
+El calendario establecido por el [**Consejo Nacional Electoral (CNE)**](https://www.cne.gob.ec/) definió el 30 de diciembre del año en curso, se conocerá la lista definitiva.
+
+La campaña será del 5 de enero al 6 de febrero de 2025. Las **votaciones** generales se desarrollarán el 9 de febrero.
+
+### Más noticias
+
+* [Multas electorales ya se pueden pagar en línea, ¿y los cobros presenciales?](https://www.elcomercio.com/actualidad/politica/multas-electorales-pagar-linea-cobros-presenciales.html)
+* [Plazo para pagar multas electorales en el CNE termina](http://Plazo para pagar multas electorales en el CNE termina)
+* [La inscripción para elecciones 2025 empieza con incumplimientos](https://www.elcomercio.com/actualidad/politica/inscripcion-elecciones-2025-impedimentos-brechas.html "La inscripción para elecciones 2025 empieza con incumplimientos")
+* [CNE aprobó la convocatoria para las elecciones 2025](https://www.elcomercio.com/actualidad/politica/cne-aprobo-convocatoria-elecciones-2025.html "CNE aprobó la convocatoria para las elecciones 2025")
+
+> [#EcuadorDecide2025](https://twitter.com/hashtag/EcuadorDecide2025?src=hash&ref_src=twsrc%5Etfw) 🗳️  
+>   
+> Las organizaciones políticas calificadas para las [#Elecciones2025Ec](https://twitter.com/hashtag/Elecciones2025Ec?src=hash&ref_src=twsrc%5Etfw), podrán realizar la [#InscripciónCandidaturasEc](https://twitter.com/hashtag/Inscripci%C3%B3nCandidaturasEc?src=hash&ref_src=twsrc%5Etfw) únicamente de forma virtual. 💻✅  
+>   
+> Escanea el código QR 📲 y registra tu lista de candidaturas hasta las 18h00 del miércoles, 2 de octubre. ⤵️ [pic.twitter.com/OEhMBXIW5z](https://t.co/OEhMBXIW5z)
+> 
+> — cnegobec (@cnegobec) [September 18, 2024](https://twitter.com/cnegobec/status/1836406627508854809?ref_src=twsrc%5Etfw)
+
+Candidatos para las elecciones 2025 y la seguridad
+--------------------------------------------------
+
+Con el asesinato del excandidato presidencial **Fernando Villavicencio**, en agosto de 2023, se encendieron las alertas sobre los riesgos que enfrentan los postulantes. Sin embargo, no es el único político que perdió la vida en Ecuador.
+
+Solo entre el 2023 y julio de este 2024, 15 personas del gremio fueron asesinados en distintos puntos del país. En ese último mes, **José Miguel Mendoza**, excandidato a la Alcaldía de Portoviejo, fue víctima de sicariato.
+
+A esa lista roja se sumó quien fue alcaldesa de San Vicente, **Brigitte García**. Lo propio pasó con **Agustín Intriago**, que lideró el Municipio de Manta, corrió con el mismo destino, el 23 de julio de 2023.
+
+Policía analiza los riesgos
+---------------------------
+
+El comandante general de la Policía, **Víctor Hugo Zárate**, detalló que la institución está integrada por 47 450 servidores policiales. Además, 1800 se encuentran en formación.
+
+A septiembre de 2024, indicó el General, más de **1100 uniformados** están destinados al resguardo de servidores públicos. Todo empieza con un análisis de riesgo, tras recibir la solicitud de protección.
+
+Sobre la evaluación de riesgo para los candidatos rumbo a las elecciones 2025, **Zárate** dio cuenta de una coordinación con el **CNE**.
+
+El General adelantó que se requieren vehículos blindados, con los que no cuenta la **Policía Nacional**. Por eso, dijo en una entrevista en Teleamazonas, coordinarán con el **CNE**, para brindar el contingente y lo que ya ocurrió no se repita.
+
+La **Dirección de Protección** es la encargada de la gestión de dicha cuota policial para la protección de los candidatos.
+
+¿Cuántos candidatos pidieron protección en 2023?
+------------------------------------------------
+
+En las elecciones anticipadas 2023, en las que murió **Fernando Villavicencio**, el **CNE** reportó que 11 candidatos de binomios presidenciales que solicitaron resguardo. Hubo ocho duplas.
+
+En lo que se refiere a asambleístas, el pedido llegó de **41 aspirantes**. En esas votaciones se definieron 137 curules y en el 2025, serán 151. Además, serán cinco parlamentarios andinos.
+
+Del total de legisladores, **15 corresponderán a nacionales, 130 provinciales** y **seis** de las suscripciones especiales del **exterior**.
+
+> [#InscripciónCandidaturasEc](https://twitter.com/hashtag/Inscripci%C3%B3nCandidaturasEc?src=hash&ref_src=twsrc%5Etfw) 🇪🇨🗳️  
+>   
+> En este tutorial te explicamos el paso a paso de este proceso que es únicamente en línea. ⬇️📽️  
+>   
+> Las organizaciones políticas pueden efectuar sus solicitudes hasta las 18h00 del 2️⃣ de octubre. [#Elecciones2025Ec](https://twitter.com/hashtag/Elecciones2025Ec?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/SDa29XrVsE](https://t.co/SDa29XrVsE)
+> 
+> — cnegobec (@cnegobec) [September 17, 2024](https://twitter.com/cnegobec/status/1836045745712988584?ref_src=twsrc%5Etfw)
+
+Para los comicios 2025, se anunciaron **16 binomios presidenciales**. No obstante, el proceso aún está en curso para conocer los candidatos definitivos.
+
+Hasta las 15:50 de este miércoles, 18 de septiembre de 2024, ningún binomio había inscrito su candidatura en el **CNE**. Las postulaciones se realizan en línea, a través del **Sistema de Inscripción de Candidaturas**.
+
+Quienes sí se apuntó fue una lista provincial de asambleístas del **Movimiento Pueblo, Igualdad y Democracia**.
+
+Sin embargo, mientras no se cierren las inscripciones, a pesar de los procesos de **primarias** que culminaron en agosto de 2024, aún hay precandidatos que pueden desistir.
+
+El proceso para el resguardo
+----------------------------
+
+Una vez calificadas las inscripciones, tras la evaluación del cumplimiento de requisitos, los candidatos de las elecciones 2025 pueden solicitar seguridad policial. Es decir, una vez que cuenten con el **estatus de candidatos**.
+
+El análisis de riesgo lo realizan el **Ministerio del Interior y la Policía Nacional**, que tienen la competencia para brindar seguridad. Desde estas instancias se definen las operaciones.
+
+Desde el **CNE**, a su vez, detallaron que se integrará la denominada mesa de seguridad electoral, integrada por personal de la institución, policial, Ecu 911, ministerios de Salud, Educación, Transporte, entre otras instancias.
+
+La delegación coordinará respuestas ante posibles eventualidades durante el **proceso electoral**.
+
+Escuela de formación para cuidar a candidatos
+---------------------------------------------
+
+El pasado julio, a su vez, la **Policía** anunció que ya se preparan los operativos de seguridad para el cuidado de los candidatos en las elecciones 2025.
+
+Ya en ese mes, la institución aseguró que contará con un espacio destinado a la **Escuela de Formación de uniformados que protegen a funcionarios públicos**.
+
+Desde la entidad se apuntó que los policías que resguardan a los **funcionarios públicos** requieren una capacitación permanente.
+
+Definiciones de la convocatoria
+-------------------------------
+
+El periodo de funciones de las autoridades que resulten electas será: 
+
+* **Binomio presidencial:** desde el 24 de mayo de 2025 hasta el 23 de mayo de 2029. 
+* **Parlamento Andino:** del 19 de mayo de 2025 al 18 de mayo de 2029. 
+* **Asambleístas:** del 14 de mayo de 2025 al 13 de mayo de 2029. 
+
+Las **candidaturas** para presidente y sus respectivos **binomios** se consideran unipersonales. En cambio, para asambleístas se presentarán en listas completas con candidatos principales y sus respectivos suplentes.
+
+En el caso de los **parlamentarios andinos**, las candidaturas son pluripersonales y se registran en listas completas, por cada candidato principal se presentarán dos suplentes. 
+
+Desde el **CNE** remarcaron que los grupos se conformarán cumpliendo con los principios de **equidad, paridad, alternabilidad y secuencialidad**, entre mujeres y hombres, tanto para principales como para suplentes.
+
+36 ecuatorianos fueron deportados desde Panamá
+==============================================
+
+Este es el segundo vuelo de migrantes irregulares que envía el país centroamericano a Ecuador.
+----------------------------------------------------------------------------------------------
+
+![Estados Unidos y Panamá firmaron un convenio para deportar migrantes irregulares que vayan a Norteamérica](https://www.elcomercio.com/wp-content/uploads/2024/09/panama.jpg)
+
+El **Gobierno de Panamá** deportó a decenas de **ecuatorianos** que tenían como destino Norteamérica, este viernes 20 de septiembre de 2024.
+
+Este es el **segundo vuelo** que llega a Ecuador, financiado por los Estados Unidos en el marco de un acuerdo firmado con Panamá para reducir el flujo de personas que atraviesan la selva del **Darién**.
+
+### Más noticias
+
+* [Migrantes perciben un paso más ordenado en la frontera México-EEUU](https://www.elcomercio.com/actualidad/mundo/migrantes-perciben-un-paso-mas-ordenado-en-la-frontera-mexico-eeuu-por-medidas-de-la-cbp.html "Migrantes perciben un paso más ordenado en la frontera México-EEUU")
+* [Estados Unidos abre nueva oficina de inmigración en Quito](https://www.elcomercio.com/actualidad/politica/estados-unidos-nueva-oficina-inmigracion-quito.html "Estados Unidos abre nueva oficina de inmigración en Quito")
+* [La crisis migratoria separa a los rancheros en](https://www.elcomercio.com/actualidad/mundo/crisis-migratoria-separa-rancheros-arizona-trump-harris.html "La crisis migratoria separa a los rancheros en Arizona entre Trump y Harris") [A](https://www.elcomercio.com/actualidad/mundo/crisis-migratoria-separa-rancheros-arizona-trump-harris.html "La crisis migratoria separa a los rancheros en Arizona entre Trump y Harris")[rizona entre Trump y Harris](https://www.elcomercio.com/actualidad/mundo/crisis-migratoria-separa-rancheros-arizona-trump-harris.html "La crisis migratoria separa a los rancheros en Arizona entre Trump y Harris")
+
+El vuelo con **36 ciudadanos**, 33 hombres y 3 mujeres, partió de la ciudad de Panamá y aterrizó en **Manta**, en compañía de **seis custodios** del Servicio Nacional de Migración (SNM).
+
+Según detalló el servicio migratorio panameño, de este grupo de ecuatorianos, 35 fueron deportados y **uno expulsado**, tras confirmar que el individuo tenía antecedentes penales en Ecuador.
+
+Otros 30 migrantes ecuatorianos fueron deportados
+-------------------------------------------------
+
+El 29 de agosto de 2024, Panamá realizó el **primer vuelo** de deportación a Ecuador.
+
+En ese retorno humanitario, **30 migrantes irregulares** regresaron a su país.
+
+El grupo estaba conformado por 27 hombres y 3 mujeres.
+
+Con el nuevo anuncio de este viernes, Panamá ya suma **433 personas deportadas** en once vuelos, a partir de la firma del convenio.
+
+Flujo de migrantes por el Darién se redujo
+------------------------------------------
+
+Según datos de Migración de Panamá, el flujo de migrantes irregulares por la **selva del Darién** disminuyó en 100 000 personas.
+
+En lo que va de 2024, más de **244 200 migrantes** cruzaron este mortal paso; lo que refleja una disminución de 110 056 ciudadanos (31 %) en comparación con el mismo lapso del año pasado.
+
+Las autoridades estiman que en 2024 unos **320 000 migrantes** atravesarán esta selva, una reducción del **38 %** frente al récord histórico de 520 000 de 2023.
+
+Netflix lanza un avance especial del ‘Juego del Calamar 2’
+==========================================================
+
+'El Juego del Calamar 2', la serie más exitosa de Netflix, cuenta con un avance especial antes de su estreno a finales de este año.
+-----------------------------------------------------------------------------------------------------------------------------------
+
+![Imagen del avance especial de 'El Juego del Calamar 2'.](https://www.elcomercio.com/wp-content/uploads/2024/09/Diseno-sin-titulo-28.jpg)
+
+**Netflix** lanzó un **avance especial** del ‘**Juego del Calamar 2**‘, una serie surcoreana de suspenso y drama que trata sobre los mecanismos de supervivencia en medio de reglas y retos.
+
+En esta segunda temporada, un nuevo capítulo se abrirá cuando **Gi‑hun** vuelve con una misión personal, tras renunciar a su plan de irse a **Estados Unidos**.
+
+### Más noticias:
+
+* [Las 10 películas top de Netflix para el feriado del 10 de agosto](https://www.elcomercio.com/afull/las-10-peliculas-top-de-netflix-para-el-feriado-del-10-de-agosto.html "Las 10 películas top de Netflix para el feriado del 10 de agosto")
+* [‘Shogun’ ¿Es tan buena como dicen?](https://www.elcomercio.com/afull/shogun-serie-vestuario-violencia-idioma-elenco-trama.html "‘Shogun’ ¿Es tan buena como dicen?")
+
+El ´Juego del calamar’ se estrenó a nivel mundial el 17 de septiembre de 2021, con gran éxito de crítica y atención internacional.
+
+La serie gira en torno a un concurso secreto en el que 456 jugadores, con dificultades económicas, arriesgan sus vidas jugando a una serie de juegos infantiles mortales para tener la oportunidad de ganar alrededor de 35 millones de dólares.
+
+**Se convirtió en la serie más vista de Netflix y una de las más nominadas y galardonadas.**
+
+Recibió el Globo de Oro al mejor actor secundario para O Yeong-su y el Screen Actors Guild Award a la mejor interpretación masculina en una serie dramática y a la mejor interpretación femenina en una serie dramática para Lee Jung-jae y HoYeon Jung.
+
+Además, tuvo catorce nominaciones a los premios Primetime Emmy, entre otros.
+
+En junio de 2022, la serie fue renovada por una segunda temporada, cuya emisión está prevista para el 26 de diciembre de 2024.
+
+En julio de 2024 fue renovada a una tercera y última temporada a estrenarse en 2025.
+
+Por el éxito de la primera temporada, Netflix también desarrolló un programa de telerrealidad basado en la serie, llamado ‘El juego del calamar: El Desafío’.​
+
+‘El Juego del Calamar 2’ y el avance especial
+---------------------------------------------
+
+El avance especial de ‘El juego del Calamar 2’ nos traslada **tres años después del final de la primera temporada**.
+
+En esta **segunda temporada**, el ganador del juego, Seo Gi-hun toma la decisión de no ir a Estados Unidos.
+
+Esto, con el fin de conseguir su nuevo objetivo: usar el dinero del premio para desenmascarar a las personas que dirigen el juego.
+
+Netflix difundió el avance especial de la segunda temporada en la plataforma de **YouTube**.
+
+El Nacional ganó 13 veces en el Rodrigo Paz a Liga de Quito
+===========================================================
+
+El Nacional ganó por última vez en el estadio Rodrigo Paz a Liga de Quito en el campeonato nacional de 2017.
+------------------------------------------------------------------------------------------------------------
+
+![Cléber Chalá (i) y Néicer Reasco en el campeonato nacional de 2003.](https://www.elcomercio.com/wp-content/uploads/2024/09/nacho_victorias_1.jpg)
+
+Una nueva edición del ‘Clásico quiteño’ entre **Liga de Quito y El Nacional** se jugará este sábado 21 de septiembre de 2024, desde las 16:30, en el estadio Rodrigo Paz Delgado.
+
+El encuentro entre Liga de Quito y El Nacional corresponde a la **séptima fecha de la segunda etapa** de la Liga Pro. Ambas escuadras llegan con realidades distintas en la tabla de posiciones. 
+
+### Más noticias:
+
+* [Selección de Ecuador bajó los precios de sus entradas](https://www.elcomercio.com/deportes/futbol/seleccion-de-ecuador-bajo-los-precios-de-sus-entradas.html "Selección de Ecuador bajó los precios de sus entradas")
+* [¿Cómo le fue a los ecuatorianos en la Champions League?](https://www.elcomercio.com/deportes/champions-league-resultados-jugadores-ecuatorianos.html "¿Cómo le fue a los ecuatorianos en la Champions League?")
+* [Cristiano Ronaldo no se cansa de marcar goles con el Al Nassr](https://www.elcomercio.com/deportes/futbol/cristiano-ronaldo-no-se-cansa-de-marcar-goles-con-el-al-nassr.html "Cristiano Ronaldo no se cansa de marcar goles con el Al Nassr")
+
+**Liga es el líder con 15 puntos** y el principal candidato para ser el segundo finalista y disputarle el título a Independiente del Valle en las finales de diciembre; mientras que **El Nacional es noveno con 10** y sus opciones están en pelear por un cupo a torneos internacionales. 
+
+En la acumulada **Liga marcha en el segundo lugar con 45 puntos** y con la mirada puesta en clasificarse directamente a la fase de grupos de la Copa Libertadores 2025. 
+
+El **‘Nacho’ es quinto con 34 unidades** y es un candidato para obtener su clasificación a la Copa Sudamericana, torneo que jugó por última vez en el 2020 quedando eliminado en la fase preliminar ante Fénix de Uruguay. 
+
+Con ese panorama llegan estos tradicionales equipos de la capital ecuatoriana.
+
+Los triunfos de El Nacional en ‘Casa Blanca’ 
+---------------------------------------------
+
+En el Rodrigo Paz Delgado, **Liga de Quito recibió 54 veces a El Nacional:** 52 por campeonato nacional y dos por Copa Sudamericana.
+
+Los **universitarios ganaron 30 partidos, 13 (12 por torneos locales y uno por Sudamericana) los militares y 11 terminaron empatados**, dejando en evidencia la supremacía de los locales desde que inauguraron su propio escenario deportivo. 
+
+La primera victoria de los rojos antes los blancos fue el **9 de noviembre de 1997 por 1-2** en la fecha 21 de la segunda etapa del campeonato nacional. 
+
+Este encuentro es recordado porque los visitantes **cortaron un invicto de cerca de 8 meses del Rodrigo Paz Delgado** en torneos nacionales.
+
+**Oswaldo de la Cruz y Diego Herrera**, tras aprovechar una gran combinación entre de la Cruz y Cléber Chala, adelantaron 0-2 a la visita.
+
+Paúl Guevara, quien tiene el récord de ser el primer ecuatoriano en haber marcado un tanto en el Rodrigo Paz, descontó con un golazo para el definitivo 1-2. 
+
+La mayor **diferencia de goles para El Nacional fue de 0-3 (Diego Herrera, Jairon Zamora y Cléber Chalá)** en la fecha 15 de la primera etapa del campeonato de 1999; y otro 0-3 (Bryan de Jesús, Éder Fuertes y Leonel Nazareno (GEC) en la fecha 21 de la segunda etapa en 2017.
+
+Esa es la última victoria de los ‘Puros Criollos’ en Ponceano antes del camino del descenso a la Serie B y el posterior ascenso a la Liga Pro Serie A. 
+
+![Foto: Archivo histórico EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/09/nacho_victorias_2-1024x683.jpg)
+
+Foto: Archivo histórico EL COMERCIO.
+
+Las victorias de El Nacional en el Rodrigo Paz
+----------------------------------------------
+
+Campeonato ecuatoriano:
+-----------------------
+
+### 1997:
+
+Liga de Quito 1-2 El Nacional
+
+### 1999:
+
+Liga de Quito 0-3 El Nacional
+
+Liga de Quito 0-1 El Nacional
+
+### 2001:
+
+Liga de Quito 2-4 El Nacional
+
+### 2003:
+
+Liga de Quito 1-2 El Nacional
+
+### 2004:
+
+Liga de Quito 1-2 El Nacional
+
+### 2005:
+
+Liga de Quito 1-2 El Nacional
+
+Liga de Quito 1-3 El Nacional
+
+### 2006:
+
+Liga de Quito 1-2 El Nacional
+
+### 2013:
+
+Liga de Quito 0-1 El Nacional
+
+### 2016:
+
+Liga de Quito 1-2 El Nacional
+
+### 2017:
+
+Liga de Quito 0-3 El Nacional
+
+Copa Sudamericana
+-----------------
+
+### 2006:
+
+Liga de Quito 2-3 El Nacional
+
+No te pierdas – El Confesionario
+--------------------------------
+
+Vehículos en Ecuador tendrán nuevas placas, ¿desde cuándo se entregarán?
+========================================================================
+
+La Agencia Nacional de Tránsito explicó que el cambio de las placas metálicas se realizará para evitar su adulteración.
+-----------------------------------------------------------------------------------------------------------------------
+
+![Las placas son identificadores únicos de metal que se asignan a los vehículos para llevar un registro y control](https://www.elcomercio.com/wp-content/uploads/2024/09/placas-ant.jpg)
+
+La Agencia Nacional de Tránsito (**ANT**) informó que en Ecuador los vehículos utilizarán **nuevas placas** de identificación.
+
+Según detalló la entidad, el objetivo de esta medida es aumentar los **niveles de seguridad** en las láminas para evitar la **adulteración** de los identificativos.
+
+### Más noticias
+
+* [Radiografía de la movilidad en Quito, un problema vigente](https://www.elcomercio.com/actualidad/quito/radiografia-movilidad-quito-problema-vigente.html "Radiografía de la movilidad en Quito, un problema vigente")
+* [Quito siempre requiere planificación urbana integral](https://www.elcomercio.com/opinion/editorial/quito-siempre-requiere-planificacion-urbana-integral.html "Quito siempre requiere planificación urbana integral")
+* [Solución vial entre Quito y el valle de Los Chillos se inicia con proceso de licitación](https://www.elcomercio.com/actualidad/solucion-vial-quito-valle-de-los-chillos-licitacion.html "Solución vial entre Quito y el valle de Los Chillos se inicia con proceso de licitación")
+
+La entrega de las nuevas placas se realizará a partir de **2025**, una vez se agote el **stock** actual, tanto en la ANT, como en los GADs municipales del país.
+
+Sin embargo, la institución aclaró que el proceso de cambio de las especies no podrá excederse de los **dos años**.
+
+Mientras tanto, los conductores tienen derecho a seguir utilizando y solicitando los identificativos existentes con **normalidad**.
+
+¿Quiénes recibirán las nuevas placas?
+-------------------------------------
+
+Las nuevas placas se entregarán a los **vehículos nuevos** debidamente matriculados y a aquellos que aprueben la **revisión técnica vehicular**, en un centro autorizado por la ANT.
+
+El proceso de entrega de las láminas correrá a cargo de los **GAD municipales** y mancomunados de cada localidad.
+
+La adulteración de una placa vehicular es considerada como una contravención de tránsito de **cuarta clase**.
+
+Esta falta se sanciona con la reducción de **seis puntos** de la licencia de conducir y una multa correspondiente al 30% de un salario básico (**138 dólares**).
+
+Centro de acopio de matriculación ilegal fue encontrado
+-------------------------------------------------------
+
+El 17 de julio de 2024, la Policía Nacional encontró una bodega que servía como **centro de acopio clandestino** de especies de matrículas, láminas de impresión de placas, entre otros documentos.
+
+En los allanamientos realizados en Guayas y Manabí, los uniformados recuperaron más de 200 000 documentos que demostraban la evidencia de una **red de falsificación**, que operaba con trámites de revisión vehicular, matriculación y multas de tránsito.
+
+Entre las pruebas incautadas se halló: certificados de revisión vehicular, formularios técnicos, adhesivos holográficos, códigos de barras de seguridad, láminas de impresión industrial de especies y matrices metálicas de impresión.
+
+**31 sellos** que pertenecían a Gobiernos Autónomos Descentralizados (GAD) de **10 provincias**, también formaron parte de las evidencias.
+
+Las investigaciones policiales determinaron que por cada trámite se cobraba entre **50 a 150 dólares**, lo que reflejado en el total de los documentos incautados, daría un monto cercano a los 30 millones de dólares.  
+
+Zamora Jaguars es el segundo finalista de la Liga Básquet Pro
+=============================================================
+
+Zamora Jaguars se convirtió en finalista de la Liga Básquet Pro al derrotar a Liga de Quito. Su rival será Jorge Guzmán.
+------------------------------------------------------------------------------------------------------------------------
+
+![Álvaro Chervo es una de las figuras de Zamora Jaguars en la temporada 2024.](https://www.elcomercio.com/wp-content/uploads/2024/09/zamora_finalista_1.jpg)
+
+**Zamora Jaguars** se convirtió en el segundo equipo finalista de la Liga Básquet Pro de Ecuador 2024, tras derrotar a Liga de Quito por 83-75 para cerrar la serie con un marcador de 3-1.
+
+Los quintetos de Zamora Jaguars y Liga de Quito se enfrentaron la noche de este viernes 20 de septiembre en un repleto **Coliseo Mayor de Deportes de Zamora**, que vibró de principio a fin con este resultado.
+
+### Más deportes:
+
+* [El Nacional llega al partido contra Liga de Quito con problemas internos](https://www.elcomercio.com/deportes/futbol/el-nacional-llega-al-partido-contra-liga-de-quito-sin-entrenar.html "El Nacional llega al partido contra Liga de Quito con problemas internos")
+* [Leonardo Campana fue convocado a la Billboard Latin Music Week](https://www.elcomercio.com/deportes/futbol/leonardo-campana-fue-convocado-a-la-billboard-latin-music-week.html "Leonardo Campana fue convocado a la Billboard Latin Music Week")
+* [En Francia elogian debut de Willian Pacho en Champions League](https://www.elcomercio.com/deportes/futbol/francia-elogian-debut-de-willian-pacho-en-champions-league.html "En Francia elogian debut de Willian Pacho en Champions League")
+
+Los fanáticos zamoranos en **cuestión de horas agotaron las entradas para presenciar el cuarto** encuentro de esta llave. La alegría y el optimismo se palpaba a cada paso de esta ciudad que está volcada por completo a alentar a Zamora Jaguars.
+
+Los locales llegaron con la ligera ventaja al **haber ganado dos de los tres partidos** y con el impulso de definir todo en su casa.
+
+Liga de Quito arrancó con todo la serie y se impuso por **85-83 para adelantarse en el marcador por 1-0**, pero los amazónicos empataron 1-1 gracias al 90-94 del segundo encuentro, siempre jugando en el Coliso Julio César Hidalgo de la capital ecuatoriana.
+
+De locales los amazónicos **aseguraron el 2-1 con un contundente 85-69** que los acercó aún más a su objetivo de alcanzar las finales de la Liga Básquet Pro en el mismo año de su debut.
+
+El cuarto partido se resolvió por un marcador de 80-70. El primer cuarto fue para los locales por 21-18, el segundo por 21-19, el tercero por 17-19 para la visita; y el cuarto 24-19 para el definitivo 83-75.
+
+La final de la Liga Básquet Pro será íntegramente en el sur del país con **Jorge Guzmán de Loja**, campeón en 2022 y el favorito para llevarse el título; ante Zamora Jaguars, el retador que llega a esta instancia como la principal sorpresa.
+
+![Foto: Instagram jimmycalvaj.](https://www.elcomercio.com/wp-content/uploads/2024/09/zamora_finalista_2-1024x683.jpg)
+
+Foto: Instagram jimmycalvaj.
+
+La alegría de los finalistas
+----------------------------
+
+Una vez que se terminó el partido **los jugadores se abrazaron y festejaron el haber conseguido** el objetivo de clasificarse a esta final, un suceso histórico en la vida de esta provincia.
+
+Los **jugadores se mezclaron con los fanáticos** que abandonaron sus ubicaciones en las gradas y también quisieron ser parte de los festejos con los protagonistas.
+
+¡**Sí se pudo, sí se pudo, sí se pudo**! Fue el grito que acompañó a los hinchas locales una vez que el juego llegó a su fin.
+
+Las finales serán al mejor de siete partidos con los dos primeros en Loja, **el tercero y cuarto en Zamora,** el quinto y séptimo en Loja, y el sexto en Zamora.
+
+Cronograma de las finales
+-------------------------
+
+### Juego 1: Sábado 28/09
+
+20:00 Jorge Guzmán vs. Zamora Jaguars
+
+Coliseo Ciudad de Loja
+
+### Juego 2: Lunes 30/09
+
+20:00 Jorge Guzmán vs. Zamora Jaguars
+
+Coliseo Ciudad de Loja
+
+### Juego 3: Jueves 3/10
+
+20:00 Zamora Jaguars vs. Jorge Guzmán
+
+Coliseo Mayor de Deportes de Zamora
+
+### Juego 4: Sábado 5/10
+
+20:00 Zamora Jaguars vs. Jorge Guzmán
+
+Coliseo Mayor de Deportes de Zamora
+
+### Juego 5: Lunes 7/10
+
+20:00 Jorge Guzmán vs. Zamora Jaguars
+
+Coliseo Ciudad de Loja
+
+### Juego 6: Jueves 10/10
+
+20:00 Zamora Jaguars vs. Jorge Guzmán
+
+Coliseo Mayor de Deportes de Zamora
+
+### Juego 7: Sábado 12/10
+
+20:00 Jorge Guzmán vs. Zamora Jaguars
+
+Coliseo Ciudad de Loja
+
+No te pierdas – El Confesionario
+--------------------------------
+
+Caso Pamela Ati: Defensoría del Pueblo hizo exhortos a varias instituciones
+===========================================================================
+
+La Defensoría del Pueblo señaló que seguirá vigilante del desarrollo de caso Pamela Ati, para que no quede en la impunidad.
+---------------------------------------------------------------------------------------------------------------------------
+
+![En el caso Pamela Ati, la Defensoría del Pueblo hace varios pedidos para evitar impunidad.](https://www.elcomercio.com/wp-content/uploads/2024/07/ati-pamela.jpg)
+
+En el **caso Pamela Ati**, la **Defensoría del Pueblo** hizo **exhortos** a varias **instituciones** relacionadas con este proceso, en particular, y al tema de la violencia de género, en general.
+
+Este viernes 20 de septiembre de 2024, la Defensoría emitió un pronunciamiento que concluye en que seguirá vigilante del desarrollo del caso para que no quede en la **impunidad**.
+
+### Más noticias:
+
+* [Caso Pamela Ati: jueza tomó una decisión sobre la prisión preventiva de militares procesados](https://www.elcomercio.com/actualidad/seguridad/caso-pamela-ati-jueza-prision-preventiva-libertad-militares-procesados.html "Caso Pamela Ati: jueza tomó una decisión sobre la prisión preventiva de militares procesados")
+* [Caso Pamela Ati: Fuerzas Armadas se pronunciaron sobre las acciones realizadas](https://www.elcomercio.com/actualidad/seguridad/caso-pamela-ati-fuerzas-armadas-se-pronuncio-sobre-las-acciones-realizadas.html "Caso Pamela Ati: Fuerzas Armadas se pronunciaron sobre las acciones realizadas")
+
+La subteniente del Ejército, Pamela Ati, tenía 25 años cuando fue encontrada muerta en su habitación.
+
+Los hechos sucedieron dentro de la Brigada de Selva No. 19, en Napo, la madrugada del 29 de junio.
+
+De esa fecha a la actualidad, se ha emitido un informe de autopsia que señala violencia física y sexual contra la subteniente.
+
+Otro informe que generó controversia porque diría que la militar murió por asfixia.
+
+Además, la Fiscalía procesa a seis militares y los investiga por el delito de femicidio.
+
+Sin embargo, por decisión judicial, todos están libres, luego de que cuatro apelaran la prisión preventiva.
+
+La Asamblea también conformó una comisión especial para la investigación de este caso.
+
+El próximo 29 de septiembre se cumplen tres meses de la muerte de Ati.
+
+Caso Pamela Ati: los exhortos de la Defensoría del Pueblo a varias instituciones
+--------------------------------------------------------------------------------
+
+La Defensoría del Pueblo accionó la vigilancia del debido proceso en el caso Pamela Ati.
+
+Se encuentra alerta a las actuaciones que realizan las instituciones competentes “en la búsqueda de la verdad, justicia y reparación”.
+
+La Defensoría recordó que el Estado tiene el deber de proteger, respetar y garantizar los derechos.
+
+Al **Gobierno Nacional**, a contar con las garantías necesarias, a cumplir de manera urgente, diligente y permanente con acciones que indiscutiblemente deben observar un enfoque de derechos humanos y género, que garanticen la vida y la integridad personal.
+
+A la **Función Judicial y la Fiscalía General del Estado**, a investigar y juzgar, en un plazo razonable.
+
+Estas instituciones deben brindar seguridad jurídica, tutela judicial efectiva y con la debida diligencia.
+
+Además, emitir las alertas de las causales que permitan prevenir otras muertes al interior de recintos de la Fuerza Pública.
+
+Pide al **Ministerio de Defensa,** respetar y ser coherente con la sociedad en cuanto a la difusión de información, considerando la situación que vive la familia de Ati y a brindar las facilidades y la información necesaria.
+
+Al **Ministerio de la Mujer y Derechos Humanos,** a generar procesos sostenidos de política pública para la sensibilización y formación para los miembros de las fuerzas militares y policiales, en temas de derechos humanos; y, de manera inmediata, la atención integral y no revictimizante para los familiares de Ati.
+
+**Al Servicio Nacional de Medicina Legal y Ciencias Forenses** que cumpla con los protocolos y personal calificado en cuanto a las pericias e informes.
+
+La Defensoría exhorta al **Instituto de Seguridad Social de las Fuerzas Armadas** a proporcionar la atención necesaria a la familia y se otorguen todos los beneficios postmortem que por derecho les corresponde.
+
+Sobre la información difundida
+------------------------------
+
+A **los medios de comunicación públicos, privados, comunitarios, y alternativos,** a manejar con respeto, ética y desde un enfoque de derechos humanos la información; evitar la desinformación y rumores que entorpecen los procesos investigativos.
+
+Finalmente, el **Consejo de Comunicación,** a estar vigilante en torno a diferentes declaraciones que se den por parte de medios de comunicación y líderes de opinión que posean un discurso machista y reafirmen estereotipos basados en género en torno al caso.
+
+Libertad empató con Independiente del Valle y huele a descenso
+==============================================================
+
+Libertad no pasó del empate con Independiente del Valle en Loja y su situación en la tabla se complica.
+-------------------------------------------------------------------------------------------------------
+
+![Jeison Medina (i) y Eduardo Bores en la Liga Pro 2024 en el Reina del Cisne de Loja.](https://www.elcomercio.com/wp-content/uploads/2024/09/libertad_idv_1.jpg)
+
+**Libertad de Loja y el Independiente del Valle** animaron un entretenido y dinámico partido en lo que fue la apertura de la séptima fecha de la segunda etapa de la Liga Pro Ecuador.
+
+El partido entre Libertad e Independiente del Valle se jugó la noche de este **viernes 20 de septiembre de 2024 en el estadio Reina del Cisne**, con una aceptable presencia de público que llego a observar al campeón de la Copa Sudamericana en 2019 y 2022.
+
+### Más noticias:
+
+* [Cléber Chalá, la Copa América y una chilena a Chile en Barranquilla](https://www.elcomercio.com/deportes/copa-america/cleber-chala-chilena-chile-barranquilla.html "Cléber Chalá, la Copa América y una chilena a Chile en Barranquilla")
+* [La Bimbo Global Race llega a Quito con un fin benéfico y alimentario](https://www.elcomercio.com/deportes/carrera-bimbo-global-race-quito.html "La Bimbo Global Race llega a Quito con un fin benéfico y alimentario")
+* [Calendario de los ecuatorianos en el exterior con partidazos](https://www.elcomercio.com/deportes/futbol/partidos-ecuatorianos-exterior-europa-america.html "Calendario de los ecuatorianos en el exterior con partidazos")
+
+Independiente del Valle empezó dominando el encuentro y a los **16 minutos del primer tiempo se adelantó** en el marcador con un tanto de Junior Sornoza, uno de sus canteranos históricos que está en el club desde inicios de las década del 2010.
+
+La jugada se gestó por la zona derecha en una combinación entre Matías Fernández y Keny Arroyo.
+
+El chileno levantó un preciso **centro que fue aprovechado por Sornoza** que con golpe de cabeza apareció entre los defensas centrales para poner el 1-0.
+
+La alegría de la vista duró poco y a los **20 minutos Libertad colocó el 1-1 con un tanto de Nixon Molina**, que aprovechó un rebote que dejó Moisés Ramírez ante un cobro de tiro libre de José Caicedo.
+
+Ramírez al darse cuenta de su error intentó fingir una falta que no existió, pero el **VAR revisó la jugada para descartar un fuera de juego** que finalmente no existió y se convalidó el tanto para alegría de los fanáticos locales.
+
+A los 74 minutos, **Joaquín Pombo, defensa central argentino de Independiente del Valle**, fue expulsado por la intervención del VAR.
+
+En la novena fecha, IDV será local en Chillo-Jijón para recibir a Universidad Católica el sábado 29 de septiembre, desde las 16:30; **mientras que Libertad viajará a Guayaquil para medirse con Barcelona Sporting Club** en el estadio Monumental el domingo 29, desde las 17:30.
+
+Libertad cerca del descenso
+---------------------------
+
+Con este resultado, **Libertad se encuentra en la casilla 11 de la segunda etapa con 8 puntos** y un gol diferencia negativo de -4. En lo que va de la etapa ganó dos partidos, empató dos y perdió tres.
+
+En la tabla acumulada los **lojanos son últimos con 12 puntos** y un gol diferencia negativo de -21.
+
+Delfín es el primero que se salva con 17 y aun con su partido de la fecha por completar, por lo que la tarea para los del sur del país parece compleja a la hora de pensar en la salvación.
+
+Por su parte **Independiente se mantiene en la tercera casilla con 13 unidades** y un gol diferencia positivo de +4. Su campana registra cuatro victorias, un empate y dos derrotas.
+
+IDV llegó a los 48 en la acumulada y sigue como líder, por delante de Liga de Quito (45) y Barcelona SC (43).
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/09/Copia-de-MAQUETA-POSICIONES-BF-PERSONAJE-819x1024.jpg)
+
+No te pierdas – El Confesionario
+--------------------------------
+
 Agente de la AMT fue destituido por pedir sobornos
 ==================================================
 
@@ -62,16 +746,20 @@ En los videos difundidos en redes sociales se observa al supervisor de los agent
 
 A los pocos minutos, el fiscalizador fue retenido por la misma ciudadanía para evitar que huya y entregado a la **Policía Nacional**.
 
-Fiscalizador habría cometido el delito en su día de descanso
-------------------------------------------------------------
+Fiscalizador aduce que utilizaron IA en su contra
+-------------------------------------------------
 
-En las audiencias de la investigación, el funcionario aceptó **otro grave error**.
+En audiencias de la investigación, el funcionario aceptó **otro grave error**.
 
 El día que cometió el delito, el hombre habría estado de franco; por lo que utilizó el **uniforme** de la institución cuando no debía.
 
 Esta falta considerada como **muy grave** llevó a que la decisión del Ministerio de Trabajo contra el servidor metropolitano tuviera más peso.
 
-Finalmente, este jueves 19 de septiembre, la AMT dio a conocer que el hombre fue **separado** de la entidad.
+Según dio a conocer Washington Martínez, director de la ANT, el funcionario afirmó que el video en el que se lo ve solicitando el dinero no es él.
+
+El fiscalizador dijo que utilizaron **Inteligencia Artificial** para recrear las imágenes.
+
+Tras cumplir con el debido proceso, finalmente, este jueves 19 de septiembre, la AMT dio a conocer que el hombre fue **separado** de la entidad.
 
 > 📢 [#AMTInforma](https://twitter.com/hashtag/AMTInforma?src=hash&ref_src=twsrc%5Etfw) | Reafirmamos nuestro compromiso con la transparencia y la integridad.  
 > Un Fiscalizador fue destituido por actos de corrupción.  
@@ -232,7 +920,7 @@ En los play-off los albos derrotaron a Olmedo en los cuartos de final; Deportivo
 
 El Nacional en los cuartos de final derrotó a Aucas y en las **semifinales cayó ante Barcelona** en un recordado partido que se definió a favor de los guayaquileños en la parte final de juego.  
 
-El sábado 21 de septiembre de 2024, desde las 16:30, se enfrentarán nuevamente Liga de Quito y El Nacional en el Rodrigo Paz Delgado, por la octava fecha de la segunda etapa de la Liga Pro. 
+El sábado 21 de septiembre de 2024, desde las 16:30, se enfrentarán nuevamente Liga de Quito y El Nacional en el Rodrigo Paz Delgado, por la séptima fecha de la segunda etapa de la Liga Pro. 
 
 Alineación de Liga de Quito
 ---------------------------
@@ -498,639 +1186,3 @@ Foto: Archivo histórico EL COMERCIO.
 
 No te pierdas – El Confesionario
 --------------------------------
-
-¿Cómo se jugará la nueva Copa Intercontinental de la FIFA?
-==========================================================
-
-La Copa Interncontinental de la FIFA tiene definido su sistema tras la nueva modalidad que adquirirá el Mundial de Clubes.
---------------------------------------------------------------------------------------------------------------------------
-
-![Endrick celebra un gol con el Real Madrid en la UEFA Champions League antes de la Copa Intercontinental.](https://www.elcomercio.com/wp-content/uploads/2024/09/13a44b12f8ef4c8848e2280a30c883e173074ee5.jpg)
-
-El Real Madrid jugará la final de la **Copa Intercontinental de la FIFA 2024** como vigente campeón de la Liga de Campeones el próximo 18 de diciembre en Catar, coincidiendo con el segundo aniversario de la final del Mundial disputado en ese mismo escenario.
-
-El torneo anual de clubes, que comenzará el 22 de septiembre, constará de cinco partidos. El primero de ellos se disputará en **Emiratos Árabes Unidos** y el segundo en Egipto antes de trasladar la competición a Catar, país que albergará los tres restantes[.](https://es.wikipedia.org/wiki/Real_Madrid_Club_de_F%C3%BAtbol "https://es.wikipedia.org/wiki/Real_Madrid_Club_de_F%C3%BAtbol")
-
-### Más noticias:
-
-* [¿Cómo le fue a los ecuatorianos en la Champions League?](https://www.elcomercio.com/deportes/champions-league-resultados-jugadores-ecuatorianos.html "¿Cómo le fue a los ecuatorianos en la Champions League?")
-* [En Francia elogian debut de Willian Pacho en Champions League](https://www.elcomercio.com/deportes/futbol/francia-elogian-debut-de-willian-pacho-en-champions-league.html "En Francia elogian debut de Willian Pacho en Champions League")
-* [Atlético de Madrid empieza con pie derecho en la Champions](https://www.elcomercio.com/deportes/atletico-madrid-leipzig-uefa-champions-league.html "Atlético de Madrid empieza con pie derecho en la Champions")
-
-Aunque en Europa ya está definido el representante, aquello no ocurre en otros continentes. En el caso de América, la **Copa Libertadores** se mantiene en disputa y en los partidos de vuelta de los cuartos de final.
-
-Así se jugará la Copa Intercontinental de la FIFA
--------------------------------------------------
-
-En el partido 1, el Al Ain, ganador de la **Liga de Campeones de la AFC**, recibirá al Auckland City FC, vencedor de la **Liga de Campeones de la OFC**, y el vencedor se enfrentará en el partido 2 contra el Al-Ahly, ganador de la **CAF de África**.
-
-En el tercer partido de la competición, el campeón de la **CONMEBOL** de Sudamérica, cuya final se disputa el 30 de noviembre, día en el que se sabrá el representante, se verá las caras contra el Pachuca, clasificado como mejor club de la **CONCACAF** de Norteamérica.
-
-Posteriormente, los vencedores del partido 2 y del partido 3 se enfrentarán entre ellos y el ganador jugará la final ante el **Real Madrid**.
-
-¿Qué pasa con el Mundial de Clubes?
------------------------------------
-
-La nueva **Copa Intercontinental de la FIFA** sucede al antiguo Mundial de Clubes, sin embargo, el formato es el mismo. El Mundial de Clubes se mantiene en cuanto a su nombre, pero su modalidad cambia.
-
-La competencia arrancará en 2025 y contará con 32 equipos del mundo. Estarán presentes 12 equipos de la UEFA, seis de **Conmebol**; cuatro de **Concacaf**, **África**, **Asia** y uno de **Oceanía** y el país anfitrión.
-
-¿Proyectos de energía eléctrica de Ecuador son atractivos para las inversiones?
-===============================================================================
-
-Ecuador enfrenta una crisis energética con un déficit de 1 080 MW y cortes de luz programados. El Gobierno busca atraer inversión privada, para afrontar la crisis.
--------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-![El proyecto de generación eléctrica eólico Villonaco III está ubicado en Loja.](https://www.elcomercio.com/wp-content/uploads/2024/09/villonaco-3.jpg)
-
-Actualmente, **Ecuador** tiene un **déficit de energía** de **1 080 megavatios** (MW). Esto, junto a la sequía por la que atraviesa la región, obligado a programar **cortes de luz** en todo el país. Está previsto que desde el 23 al 26 de septiembre del 2024 se suspenda el servicio de energía por períodos de dos a cuatro horas durante las noches de esos cuatro días[.](https://es.wikipedia.org/wiki/Parque_e%C3%B3lico "https://es.wikipedia.org/wiki/Parque_e%C3%B3lico")
-
-### Más noticias
-
-* [Ecuador lanza nuevo proceso de licitación para contratar más energía](https://www.elcomercio.com/actualidad/negocios/ecuador-lanza-nuevo-proceso-de-licitacion-para-contratar-mas-energia.html "Ecuador lanza nuevo proceso de licitación para contratar más energía")
-* [Cortes de luz generan más costos y riesgos de seguridad en sector logístico de Ecuador](https://www.elcomercio.com/actualidad/negocios/cortes-de-luz-generan-mas-costos-y-riesgos-de-seguridad-en-sector-logistico-de-ecuador.html "Cortes de luz generan más costos y riesgos de seguridad en sector logístico de Ecuador")
-* [La solución para los cortes de luz del Ecuador es la geotermia, ¿de qué se trata?](https://www.elcomercio.com/actualidad/negocios/la-solucion-para-los-cortes-de-luz-del-ecuador-es-la-geotermia-de-que-se-trata.html "La solución para los cortes de luz del Ecuador es la geotermia, ¿de qué se trata?")
-
-Legislación para atraer inversiones
------------------------------------
-
-En medio de esta crisis, las autoridades del Gobierno de **Daniel Noboa** han reconocido que el país necesita de la **inversión privada** para solventar la falta de energía. E incluso presentó la **Ley Orgánica de Competitividad Energética**, que fue promulgada el 11 de enero de 2024.
-
-Esta normativa busca incrementar la oferta de generación eléctrica, optimizando los recursos públicos asociados a este sector e **incentivar la inversión privada**.
-
-Sin embargo, esta Ley aún no convence al sector privado. Para **Roberto Aspiazu**, presidente de la **Cámara** de **Energía del Ecuador**, la nueva normativa es una reforma a la **Ley de Servicio de Público de Energía Eléctrica** y no es suficiente para atraer inversiones del sector privado.
-
-Cambios en la normativa
------------------------
-
-Y aunque la ley tiene algunas **cosas positivas**, ya que permite que el sector privado invierta no solo en la generación de energía, como ya se contemplaba, sino también en la transmisión, distribución y comercialización eléctrica, no marca la diferencia, señaló Aspiazu.
-
-El tema relacionado con las **tarifas** es el principal inconveniente para atraer inversión privada. Aunque en la norma, por primera vez, se permite que las **tarifas eléctricas** incluyan no solo el costo de generación, sino también la amortización de las inversiones realizadas, aún mantiene restricciones que limitan la libre competencia en el sector eléctrico.
-
-Específicamente, esta Ley prohíbe acuerdos directos entre **generadores privados** y **consumidores** para pactar tarifas. Actualmente, el Estado regula estas tarifas y limita la eficiencia competitiva del mercado.
-
-Por su parte, para el viceministro de Electricidad, **Rafael Quintero**, la nueva Ley establece un marco normativo claro y seguro para incentivar la inversión privada en proyectos de energías renovables no convencionales.
-
-Desde su aprobación, se han emitido diversas regulaciones que otorgan seguridad jurídica a los inversionistas, facilitando la implementación de proyectos de distintas tecnologías y tamaños. Anteriormente, los procesos burocráticos y los plazos prolongados desincentivaban las inversiones, pero hoy en día los contratos con el Ministerio y distribuidoras ya están reglamentados, permitiendo a los privados avanzar de manera más ágil y con mayor certidumbre. Los inversionistas ahora cuentan con plazos manejables y trámites simplificados, aseguró.
-
-Inversiones privadas estancadas
--------------------------------
-
-El paquete de 800 megavatios de energía renovable no convencional incluye varios proyectos que fueron adjudicados desde diciembre de 2020. Pero hasta septiembre de 2024 ninguno de ellos ha comenzado su construcción. Se trata del proyecto de generación eléctrica: **Eólico Villonaco III**, en Loja, y **fotovoltaico El Aromo**, en Manabí. 
-
-Según el Plan Maestro de Electricidad de 2018, estos dos proyectos debían estar operando en 2022, debido a que son clave para el desarrollo energético del país. Sin embargo, los retrasos en su implementación se deben a problemas de financiamiento y dificultades con la legislación vigente.
-
-¿Qué está haciendo el Gobierno para solventar la crisis energética?
--------------------------------------------------------------------
-
-Para solventar la **crisis energética**, el **Gobierno** busca incorporar 1 361 MW lo antes posible, ente estos casos como el alquiler de dos **barcazas de generación flotante**, compra de unidades de generación en tierra, repotenciación de termoeléctricas, entre otras.
-
-La solución más pronta es el alquiler de embarcaciones de generación. El resto de soluciones, se prevé que estén listas en el primer trimestre del 2025.
-
-Lanzan película filmada con un iPhone 
-======================================
-
-Apple ha presentado ‘¡Suerte!’ filmado con un iPhone 15 Pro Max y disponible en YouTube.
-----------------------------------------------------------------------------------------
-
-![La película sigue el surrealista viaje de un músico mexicoamericano, protagonizado por Iván Cornejo. Foto: YouTube Apple México.](https://www.elcomercio.com/wp-content/uploads/2024/09/pelicula-Iphone.jpg)
-
-**Apple** ha lanzado **un cortometraje titulado** **‘¡Suerte!’**, dirigido por **Pasqual Gutiérrez y RJ Sánchez**, conocidos como **Cliqua**. Este innovador proyecto, **filmado con un iPhone 15 Pro Max**, cuenta con la actuación del destacado **cantautor Iván Cornejo**, quien ha ganado popularidad en Estados Unidos. 
-
-### Más noticias
-
-* [Seis películas con sorprendentes finales abiertos y su análisis](https://www.elcomercio.com/tendencias/cine/peliculas-cine-analisis-final-abierto.html "https://www.elcomercio.com/tendencias/cine/peliculas-cine-analisis-final-abierto.html") 
-* [Miley Cyrus ha sido acusada de presunto plagio](https://www.elcomercio.com/afull/miley-cyrus-plagio-bruno-mars.html "https://www.elcomercio.com/afull/miley-cyrus-plagio-bruno-mars.html")
-
-**La tecnología aliada del arte**  
------------------------------------
-
-**La historia, de 13 minutos de duración**, se estrenó en la **plataforma YouTube**, y muestra el compromiso de **Apple** con la innovación en la producción cinematográfica. Con su enfoque en la autenticidad y la conexión emocional, este trabajo promete ser un **parte aguas para nuevos formatos de creación de cine**. 
-
-La filmación con el **iPhone 15 Pro Max** subraya el **potencial de la tecnología en el arte**. Al combinar una narrativa conmovedora con un enfoque vanguardista. 
-
-**¿De qué manera se filmó la película?** 
------------------------------------------
-
-A decir de [GQ](https://www.gq.com.mx/articulo/suerte-pelicula-apple-de-que-trata-trailer-reparto-fecha-de-estreno-donde-ver "https://www.gq.com.mx/articulo/suerte-pelicula-apple-de-que-trata-trailer-reparto-fecha-de-estreno-donde-ver"), este cortometraje **permitió a los realizadores explorar su creatividad de formas innovadoras**. 
-
-Los directores, junto con el **director de fotografía Xiaolong Liu**, aprovecharon al máximo las capacidades del **iPhone 15 Pro Max**. Utilizaron el **Modo Cine, el zoom óptico de 5X y la tecnología de grabación en condiciones de poca luz**. Estas herramientas resultaron fundamentales para plasmar un guion que, por su complejidad, requería un enfoque técnico excepcional. 
-
-**El cortometraje destaca por su fantasía, buena música y elementos culturales mexicanos**. La película fue estrenada en Damián, donde personalidades como **Cristina Rodlo, Xolo Maridueña y Cristo Fernández** aplaudieron el filme. 
-
-**Sinopsis de ¡Suerte!** 
--------------------------
-
-De acuerdo con la revista [Hola!](https://www.hola.com/us-es/entretenimiento/20240712706690/apple-presenta-suerte-cortometraje-grabado-iphone/ "https://www.hola.com/us-es/entretenimiento/20240712706690/apple-presenta-suerte-cortometraje-grabado-iphone/"), **la trama sigue el viaje surrealista de un músico mexicoamericano** que regresa a sus raíces en busca de inspiración.  
-
-**Protagonizada por Iván Cornejo**, la nueva promesa del regional mexicano, el filme también cuenta con **María Zardoya** como “la sirena”, **Camilo Lara** como “el maestro”, **Edén Muñoz** como “la rana” y **Luis Felipe Tovar** como “el diablito”. 
-
-**La película utiliza un lenguaje visual y narrativo simple pero efectivo**, que sumerge al espectador en **un viaje fascinante a través de la lucha de un compositor** para superar su bloqueo y crisis creativa.  
-
-Para liberarse de su tormento, **el protagonista nos guía en un viaje emocional j**unto a algunos **personajes icónicos de la lotería mexicana**, un juego profundamente enraizado en la cultura del país.  
-
-A través de este universo paralelo, **“el músico” hallará la inspiración necesaria** para componer canciones que broten de su corazón, influenciado por su herencia cultural y las ricas tradiciones de su tierra natal. 
-
-**A continuación, la película** 
---------------------------------
-
-Otra película que también se la filmó con ayuda de un iPhone 15 Pro Max es **’28 years later’**. Con un **presupuesto estimado de 75 millones de dólares**, esta será la película más grande jamás filmada con teléfonos inteligentes.
-
-> [Ver esta publicación en Instagram](https://www.instagram.com/p/DAHVYdpSLyB/?utm_source=ig_embed&utm_campaign=loading)
-> 
-> [Una publicación compartida de Complex Pop (@complexpop)](https://www.instagram.com/p/DAHVYdpSLyB/?utm_source=ig_embed&utm_campaign=loading)
-
-Oso perezoso vivo, herido y colgado a un camión era trasladado por carretera de Ecuador
-=======================================================================================
-
-El Ministerio de Ambiente tomó acciones contra este hecho de maltrato animal a un oso perezoso colgado en un camión.
---------------------------------------------------------------------------------------------------------------------
-
-![Oso perezoso era trasladado vivo y colgado a un camión en carretera de Ecuador.](https://www.elcomercio.com/wp-content/uploads/2024/09/Diseno-sin-titulo-26.jpg)
-
-Un **oso perezoso** vivo, herido, amarrado y colgado a un **camión** era trasladado por una **carretera** de **Ecuador.**
-
-El **Ministerio de Ambiente** tomó acciones contra los implicados en este hecho de maltrato animal.
-
-### Más noticias:
-
-* [La venta de animales de compañía se castiga con multas severas en Quito](https://www.elcomercio.com/narices-frias/venta-animales-compania-sancion-quito.html "La venta de animales de compañía se castiga con multas severas en Quito")
-* [Delfines de la Amazonía de Ecuador están en la lista roja](https://www.elcomercio.com/actualidad/ecuador/delfines-amazonicos-ecuador-peligro-critico-extincion-amazonia-lista-roja.html "Delfines de la Amazonía de Ecuador están en la lista roja")
-
-Este hecho se difundió a través de videos en las redes sociales.
-
-Los internautas que publicaron los videos en redes sociales captaron las placas del camión y dieron la ubicación del mismo, en la **vía a Santo Domingo de los Tsáchilas**.
-
-Pronunciamiento del Ministerio de Ambiente sobre oso perezoso colgado a un camión en una carretera de Ecuador
--------------------------------------------------------------------------------------------------------------
-
-El Ministerio del Ambiente, Agua y Transición Ecológica, ha elaborado el respectivo informe técnico con la evidencia recabada.
-
-Esta institución tomó estas medidas por el video que circula en redes sociales, que visibiliza el maltrato de un oso perezoso.
-
-El Ministerio señaló que, en coordinación con otras instituciones, se identificó al dueño del camión y su posible ubicación.
-
-Se procederá con las investigaciones necesarias para determinar responsabilidades.
-
-“Con toda la información que se logre obtener, se presentará la denuncia y conforme al debido proceso, establecer las sanciones pertinentes”, agregó el comunicado.  
-
-“El Ministerio del Ambiente, Agua y Transición Ecológica, reafirma su compromiso con el bienestar de la fauna. Por ello, coordina las acciones necesarias para que este lamentable delito no quede impune”, concluyó.
-
-El Ministerio recordó que la ciudadanía puede denunciar todo maltrato animal a través del **ECU – 911** o el **1800 delito**.
-
-Una vez conocida una denuncia, se coordina acciones inmediatas con la **Unidad de Policía del Medio  
-Ambiente (UPMA).**
-
-Cristiano Ronaldo no se cansa de marcar goles con el Al Nassr
-=============================================================
-
-Cristiano Ronaldo se convirtió en primer jugador, de forma oficial, en alcanzar los 900 goles.
-----------------------------------------------------------------------------------------------
-
-![Cristiano Ronaldo celebrando su más reciente gol con el Al Nassr.](https://www.elcomercio.com/wp-content/uploads/2024/09/ENDRICK-PALMEIRAS-2024-09-20T164328.955.jpg)
-
-**Cristiano** **Ronaldo** anotó nuevamente con el Al Nassr en el inicio de la etapa de Stegano Pioli como nuevo director técnico. Fue el gol número, 902, del ‘Bicho’, que sirvió para la victoria (0-3), ante el Al Ettifaq, hasta ahora invicto, y que instala a su equipo en la parte alta de la Liga de Arabia Saudí.
-
-**Pioli** llegó días atrás en sustitución del portugués Luis Castro, destituido por los malos resultados. Y ganó en su debut el entrenador transalpino, que hace dos temporadas hizo campeón en la Serie A al Milan.
-
-### Más noticias
-
-* [Cristiano Ronaldo celebró récord goleador con agónico empate](https://www.elcomercio.com/deportes/futbol/cristiano-ronaldo-homenaje-goles-alnassr.html "Cristiano Ronaldo celebró récord goleador con agónico empate")
-* [Portugal lanzará una moneda en honor a Cristiano Ronaldo](https://www.elcomercio.com/afull/cristiano-ronaldo-moneda-portugal.html "Portugal lanzará una moneda en honor a Cristiano Ronaldo ")
-* [Cristiano Ronaldo marca un golazo de mil millones de seguidores](https://www.elcomercio.com/deportes/futbol/cristiano-ronaldo-record-millones-seguidores.html "Cristiano Ronaldo marca un golazo de mil millones de seguidores")
-
-Tres días en el cargo han servido a Pioli para devolver al **Al Nassr** a la victoria, la segunda de la temporada en cuatro partidos jugados.
-
-Cristiano Ronaldo y los otros goles
------------------------------------
-
-Los otros dos los saldó con empate el cuadro de Riad, que abrió el marcador pasada la media hora cuando Abdullah Madu arrolló dentro del área a Sultan Al Ghanam. El **penalti lo anotó Cristiano Ronaldo,** que abrió el camino del triunfo y que ya acumula 902 tantos en su carrera.
-
-> GOLAZO DE CRISTIANO RONALDO!!!! SIIUUUUUUUU [pic.twitter.com/7yC3UD9gKg](https://t.co/7yC3UD9gKg)
-> 
-> — MT2 (@madrid\_total2) [September 20, 2024](https://twitter.com/madrid_total2/status/1837198476926668899?ref_src=twsrc%5Etfw)
-
-El segundo lo hizo, ya en la segunda parte, Salem Al Najdi a pase del senegalés Sadio Mane, que asistió también en el tercero, firmado por el brasileño Anderson Talisca.
-
-El triunfo sitúa al Al Nassr cuatro en la clasificación a un punto de la terna de líderes, el Al Ittihad de **Karim** **Benzema** y el Al Hilal, aun con un partido menos, y el Al Ettifaq de Steven Gerrard, que había ganado todos sus partidos hasta la derrota frente al cuadro de Pioli.
-
-Otros resultados en Arabia Saudita
-----------------------------------
-
-Previamente, un gol y una asistencia de Gabri Veiga mantuvieron ante el Damac al Al Ahli, que en el tramo final, en el tiempo añadido, gracias al acierto del brasileño **Roberto Firmino** y del inglés Ivan tomey, redondeó el buen trabajo del equipo local, que se reencontró con el triunfo tres partidos después (4-2).
-
-El cuadro del alemán Matthias Jaissle perdió con el Al Fateh y empató contra el **Al** **Nassr**. Ahora ha vuelto a ganar para instalarse en la parte alta de la clasificación que lideran el Al Hilal y el Al Ittihad tras la tercera jornada.
-
-Abrió el marcador Veiga, que inauguró su cuenta anotadora del presente curso, tras llevar a la red un pase del inglés Ivan Toney, otro de los destacados (dos goles y una asistencia).
-
-En el tiempo añadido de la primera parte, Ayman Fallatah aprovechó un pase de Nicolae Stanciu para lograr el empate que deshizo tras el descanso **Toney**, a pase de Gabri Veiga. Pero el Damac volvió a empatar gracias a Frouk Chafai.
-
-Con el marcador igualado, el choque se agitó al final. En el añadido. En el minuto 104, Roberto **Firmino**, que saltó al campo en el 73 en lugar de Aiyad Al Johani, hizo el tercero de los locales. Y Toney, en el 108, redondeó el triunfo del cuaddro de Jaissle.
-
-Previamente, se disputó otro encuentro de la cuarta jornada entre el Al Khaleej y el Al Feibha que acabó sin goles. 
-
-Caso Metástasis, defensa de acusados señala vacíos en la investigación
-======================================================================
-
-Los acusados en el caso Metástasis exigen ser sobreseídos, argumentando falta de pruebas y pidiendo levantar medidas cautelares.
---------------------------------------------------------------------------------------------------------------------------------
-
-![Audiencia del caso Metástasis este 20 de septiembre de 2024.](https://www.elcomercio.com/wp-content/uploads/2024/09/met-cas.png)
-
-La mañana del viernes 20 de septiembre continuó la audiencia preparatoria de juicio del **caso Metástasis en la Corte Nacional de Justicia (CNJ)**. En esta fase, los abogados de los **37 procesados**, entre ellos exfuncionarios **judiciales y colaboradores**, argumentaron su defensa ante las **acusaciones de delincuencia organizada**.
-
-### Más noticias
-
-* [Wilman Terán niega vínculos con sobornos en el caso Metástasis](https://www.elcomercio.com/actualidad/seguridad/wilman-teran-niega-vinculos-con-sobornos-en-el-caso-metastasis.html "Wilman Terán niega vínculos con sobornos en el caso Metástasis")
-* [Caso Metástasis, defensa de vinculados objeta acusaciones de Fiscalía y Procuraduría](https://www.elcomercio.com/actualidad/seguridad/caso-metastasis-defensa-vinculados-objetan-acusaciones-fiscalia-procuraduria.html "Caso Metástasis, defensa de vinculados objeta acusaciones de Fiscalía y Procuraduría")
-* [Fiscalía expone cómo operaba Leandro Norero en el caso Metástasis](https://www.elcomercio.com/actualidad/seguridad/fiscalia-expone-como-operaba-leandro-norero-caso-metastasis.html "Fiscalía expone cómo operaba Leandro Norero en el caso Metástasis")
-
-Este proceso se vincula a una presunta **“organización criminal”** liderada por el fallecido narcotraficante **Leandro Norero**.
-
-Alegatos de la defensa sobre falta de pruebas y solicitud de sobreseimiento en el caso Metástasis
--------------------------------------------------------------------------------------------------
-
-Durante la audiencia, las defensas de los **acusados reiteraron que la Fiscalía no ha presentado suficientes pruebas** que justifiquen el juicio.
-
-En particular, los abogados de **Carlos Z.**, expresidente de la **Corte de Justicia de Manabí, y Yanina V.**, exfiscal del Guayas, sostienen que no existe evidencia que los vincule directamente con la estructura criminal mencionada. Solicitaron al juez que se emita un **auto de sobreseimiento** para levantar las **medidas cautelares**.
-
-> [#AHORA](https://twitter.com/hashtag/AHORA?src=hash&ref_src=twsrc%5Etfw) | [#CasoMetástasis](https://twitter.com/hashtag/CasoMet%C3%A1stasis?src=hash&ref_src=twsrc%5Etfw): se reinstala la audiencia preparatoria de juicio contra 37 procesados por su presunta participación en el delito de [#DelincuenciaOrganizada](https://twitter.com/hashtag/DelincuenciaOrganizada?src=hash&ref_src=twsrc%5Etfw). La fiscal general del Estado, Diana Salazar Méndez, asiste vía telemática. [pic.twitter.com/8MiQaK2Nh0](https://t.co/8MiQaK2Nh0)
-> 
-> — Fiscalía Ecuador (@FiscaliaEcuador) [September 20, 2024](https://twitter.com/FiscaliaEcuador/status/1837134507574485175?ref_src=twsrc%5Etfw)
-
-El abogado de Carlos Z. afirmó: “Mi defendido no ha cometido ningún acto que **pueda ser vinculado** a las acusaciones de la Fiscalía. No hay **pruebas que demuestren** que tuvo algún papel en la organización delictiva. Las **evidencias presentadas son inconsistentes** y no aportan a establecer ninguna conexión con los hechos”.
-
-Por su parte, la defensa de Yanina V. sostuvo: “La **Fiscalía** se ha limitado a presentar documentos que solo comprueban su **ejercicio profesional** como fiscal, pero en ningún momento se ha demostrado que ella participara en la **estructura criminal** que aquí se alega. Pedimos que se la desvincule de este proceso de manera inmediata”.
-
-Negación de los cargos
-----------------------
-
-Entre los señalados como líderes de la **“empresa criminal”, alias ‘Diablo’ y alias ‘Ruso’**, presentaron su defensa alegando que no existe **ningún elemento probatorio** que los vincule con la organización. Sus abogados cuestionaron la validez de los informes **periciales y testigos** presentados por la Fiscalía.
-
-“**No existe una sola prueba concreta** que vincule a mi cliente con los actos ilícitos que la Fiscalía intenta argumentar. Este proceso carece de base legal sólida. Es injusto seguir manteniendo a estas personas bajo **medidas cautelares sin pruebas**”, aseguró el abogado de alias ‘Diablo’.
-
-El defensor de alias ‘**Ruso’** expresó: “Las acusaciones se basan en interpretaciones sesgadas de conversaciones y transacciones bancarias que, en su mayoría, c**orresponden a actividades legales**. La Fiscalía no ha demostrado de **manera concluyente la implicación** de mi cliente en esta supuesta organización”.
-
-Cuestionamiento de los documentos presentados
----------------------------------------------
-
-El abogado defensor de la **exfiscal Yanina V.** destacó las inconsistencias en las pruebas presentadas. “El fiscal ha mencionado documentos del IESS que solo confirman el **empleo de mi defendida**, pero en ningún caso prueban su vinculación con actividades delictivas. No basta con mostrar documentos que no tienen relación con el caso. Se requiere probar el nexo directo entre la acusada y los delitos que se le imputan, lo cual no ha ocurrido”, afirmó.
-
-> 🔵[#SalaPenalCNJ](https://twitter.com/hashtag/SalaPenalCNJ?src=hash&ref_src=twsrc%5Etfw) | Audiencia evaluatoria y preparatoria de juicio en contra del ciudadano Wilman T. y otros por el presunto delito de delincuencia organizada.[#AudienciasCNJ](https://twitter.com/hashtag/AudienciasCNJ?src=hash&ref_src=twsrc%5Etfw)  
-> 💻 Sigue la audiencia aquí [https://t.co/xWbFwg0zCQ](https://t.co/xWbFwg0zCQ) [pic.twitter.com/wOEcas98ra](https://t.co/wOEcas98ra)
-> 
-> — Corte Nacional de Justicia (@CorteNacional) [September 20, 2024](https://twitter.com/CorteNacional/status/1837122039645360189?ref_src=twsrc%5Etfw)
-
-También señaló que la Fiscalía ha incluido **chats de supuestas conversaciones** que no pueden ser verificadas. “Se ha pretendido vincular a mi defendida con mensajes entre terceros, pero no hay ninguna evidencia que demuestre que estas **conversaciones son reales o que involucren a mi cliente**. El fiscal ha fallado en su deber de probar estas acusaciones de manera objetiva”, agregó.
-
-Continuación del proceso en el caso Metástasis
-----------------------------------------------
-
-El conjuez Manuel Cabrera, encargado del caso, indicó que tras la finalización de las intervenciones de las defensas, se abrirá un **periodo para la evaluación de posibles acuerdos probatorios** o exclusiones de pruebas.
-
-El juez mencionó que **se tomará el tiempo necesario para deliberar sobre las numerosas exposiciones** y el extenso expediente del caso, lo que podría extender el proceso varios días más.
-
-Se espera que, una vez concluyan la**s exposiciones de todas las partes**, se tome una decisión sobre el futuro de los acusados, que podría incluir el llamamiento a juicio o la exoneración de los mismos.
-
-¿Cómo le fue a los ecuatorianos en la Champions League?
-=======================================================
-
-La Champions League 2024-2025 es la que mayor cantidad de ecuatorianos tiene en la historia y la mayoría inicio con pie derecho.
---------------------------------------------------------------------------------------------------------------------------------
-
-![Piero Hincapié, uno de los ecuatorianos en la UEFA Champions League, celebra su triunfo con el Bayer Leverkusen.](https://www.elcomercio.com/wp-content/uploads/2024/09/Diseno-sin-titulo-2024-09-20T164652.308.jpg)
-
-El inicio de la UEFA Champions League trajo consigo los compromisos de cuatro futbolistas ecuatorianos que arribaron a la competición. **Willian Pacho, Piero Hincapié, Angelo Preciado y Joel Ordóñez** tuvieron acción y, a nivel general, dejaron un saldo positivo.
-
-La temporada 2024-2025 quedará como la primera en la historia en la que se cambió su modalidad inicial a un formato de liga y se eliminó la fase de grupos. Pese a ello, también se constituyó un hito para **Ecuador**, pues nunca antes habían coincidido tantos jugadores del país en dicho torneo.
-
-### Más noticias:
-
-* [¿Cómo será el nuevo formato de la UEFA Champions League?](https://www.elcomercio.com/deportes/uefa-champions-league-formato-partidos.html "¿Cómo será el nuevo formato de la UEFA Champions League?")
-* [En Francia elogian debut de Willian Pacho en Champions League](https://www.elcomercio.com/deportes/futbol/francia-elogian-debut-de-willian-pacho-en-champions-league.html "En Francia elogian debut de Willian Pacho en Champions League")
-* [Atlético de Madrid empieza con pie derecho en la Champions](https://www.elcomercio.com/deportes/atletico-madrid-leipzig-uefa-champions-league.html "Atlético de Madrid empieza con pie derecho en la Champions")
-
-Cada futbolista tricolor que se encuentra en el certamen representa a un equipo diferente. En función de ello, de los **cuatro compromisos** que se jugaron, tres resultaron en una victoria para los tricolores y tan solo uno fue derrotado.
-
-Todos los futbolistas del país que están dentro del torneo también son representantes en de la Selección de Ecuador. Asimismo, Willian **Pacho** representa al PSG, Piero **Hincapié** al Bayer Leverkusen, Angelo **Preciado** al Sparta Praga y Joel **Ordóñez** al Brujas.
-
-Angelo Preciado y un debut goleador en Champions League
--------------------------------------------------------
-
-El primero de los jugadores ecuatorianos en mostrarse en la UEFA Champions League fue **Angelo Preciado**. El lateral derecho tuvo una destacada actuación con el Sparta Praga y su equipo logró golear al **RB Salzburgo**.
-
-Para el choque, Preciado y su equipo recibieron a los austriacos en República Checa y no dejaron dudas de su poderío. **Kan Kairinen** puso el primer tanto y **Victor Olatunji y Qazim Laci** completaron el marcador de 3-0.
-
-El ecuatoriano saltó como titular en el compromiso y se mantuvo durante los 90 minutos. El triunfo dejó a su escuadra en la **sexta posición** de la tabla.
-
-Willian Pacho, figura en la defensa y una victoria con lo justo
----------------------------------------------------------------
-
-El partido de estreno para el **PSG y Willian Pacho** se llevó a cabo frente al Girona de España. Pacho, quien ha sido un refuerzo efectivo para el equipo francés, arrancó desde el inicio y fue un baluarte para que la escuadra sostenga su resultado.
-
-El equipo parisino recibió a los españoles en el Parque de los Príncipes y el compromiso se mantuvo igualado hasta el cierre. En una jugada en la que **Willian Pacho** dio una preasistencia, el balón terminó en el fondo de las redes.
-
-La victoria deja al **PSG** en la decimoquinta posición de la tabla.
-
-Piero Hincapié y el Leverkusen se consolidan en la Champions
-------------------------------------------------------------
-
-El **Bayer Leverkusen y Piero Hincapié** jugaron como visitantes ante el **Feyenoord** de Países Bajos. Al igual que sus compatriotas, el esmeraldeño fue titular y se mantuvo en la cancha durante todo el compromiso.
-
-El cotejo finalizó con una goleada de **4-0 favorable** al equipo ‘farmacéutico’. Hincapié estuvo sólido en la defensa y estuvo a punto de convertir un gol de no ser por un contacto previo que igual terminó con el balón en el fondo de las redes.
-
-El central es el mejor ubicado en función de los demás ecuatorianos en la tabla. Él y el **Bayer Leverkusen** se ubican en la tercera posición.
-
-Joel Ordóñez, el único que perdió en Champions
-----------------------------------------------
-
-**Joel Ordóñez** jugó la Champions con el Brujas de Bélgica. Este fue el único de los tricolores que se llevó un resultado adverso.
-
-El conjunto belga enfrentó en casa al **Borussia Dortmund**. A pesar de aguantar el empate y mostrarse firme, los minutos fueron lapidarios y dirimieron la derrota de 0-3.
-
-El resultado dejó a **Ordóñez** y a su escuadra en los últimos puestos. El **Brujas** ocupa la posición 31 de la competición.
-
-Gobierno ofrece enfrentar la crisis energética con la inclusión de 1 430 megavatios
-===================================================================================
-
-La compra de generación de energía contempla una inversión que supera los 1 150 millones de dólares.
-----------------------------------------------------------------------------------------------------
-
-![La barcaza Emre Bey genera más de 100 MW para el Ecuador](https://www.elcomercio.com/wp-content/uploads/2024/09/emre-bey.jpg)
-
-La **crisis hídrica** que se registra en Ecuador, en gran parte por la falta de lluvias, ha provocado que desde el Gobierno se apliquen una serie de medidas de **austeridad energética**.
-
-Entre ellas, cinco jornadas de **cortes de luz programados** a nivel nacional: el primero, el miércoles 18 de septiembre, y los siguientes entre el lunes 23 y jueves 26 de septiembre de 2024.
-
-### Más noticia
-
-* [Ciudades de Ecuador tuvieron cortes de luz el 20 de septiembre](https://www.elcomercio.com/actualidad/ecuador/cortes-luz-ciudades-ecuador-celec-falla-humana.html "Ciudades de Ecuador tuvieron cortes de luz el 20 de septiembre")
-* [¿Cuándo serán los próximos cortes de luz en Ecuador?](https://www.elcomercio.com/actualidad/negocios/cuando-seran-los-proximos-cortes-de-luz-en-ecuador.html "¿Cuándo serán los próximos cortes de luz en Ecuador?")
-* [Cortes de luz generan más costos y riesgos de seguridad en sector logístico de Ecuador](https://www.elcomercio.com/actualidad/negocios/cortes-de-luz-generan-mas-costos-y-riesgos-de-seguridad-en-sector-logistico-de-ecuador.html "Cortes de luz generan más costos y riesgos de seguridad en sector logístico de Ecuador")
-
-Para enfrentar lo que según las autoridades es el “estiaje más severo de los últimos **61 años**“, Daniel Noboa, junto a su equipo de ministros, aseguró que el Estado comprometerá alrededor de **1 430 W**.
-
-Según datos del Gobierno, el objetivo de estabilizar al país energéticamente a **mediano plazo** se lo realizará a través **nueve proyectos** incluidos en dos bloques de generación.
-
-Primer bloque de generación
----------------------------
-
-El primer bloque contempla la contratación de **341 megavatios** (MW), con una inversión de **350 millones de dólares**.
-
-El proceso incluyó el alquiler la **barcaza Emre Bey**, que le entrega al país más de **100 MW**.
-
-Además de la compra de generación permanente en tierra por **240 MW**, distribuidos en tres sectores:
-
-* Esmeraldas: 91 MW
-* Salitral (Guayas): 100 MW
-* Quevedo (Los Ríos): 50 MW
-
-Se espera que los proyectos estén habilitados para noviembre o diciembre de 2024.
-
-El Gobierno también considera como un logro la suma de **69 MW** al sistema eléctrico por “proyectos que estaban abandonados”.
-
-Estos megavatios hacen referencia a los 54,4 MW de la **Central Quevedo**, 8 MW de **Santa Elena** y 6,5 MW del Proyecto Eólico Minas de Huascacha, en **Azuay**.
-
-> BOLETÍN 371 | [#ElNuevoEcuador](https://twitter.com/hashtag/ElNuevoEcuador?src=hash&ref_src=twsrc%5Etfw) 🇪🇨  
->   
-> El presidente [@DanielNoboaOk](https://twitter.com/DanielNoboaOk?ref_src=twsrc%5Etfw) toma medidas contundentes para enfrentar el estiaje más severo de los últimos 61 años y asegurar la soberanía energética del Ecuador.  
->   
-> 📰➡️ [https://t.co/OyRmsAmECI](https://t.co/OyRmsAmECI) [pic.twitter.com/petlnZzLG6](https://t.co/petlnZzLG6)
-> 
-> — Comunicación Ecuador 🇪🇨 (@ComunicacionEc) [September 20, 2024](https://twitter.com/ComunicacionEc/status/1837210845320991140?ref_src=twsrc%5Etfw)
-
-Segundo bloque de generación
-----------------------------
-
-A los anteriores 410 MW mencionados, se suma una promesa de **1 020 MW**.
-
-Para la incorporación de estos megavatios se destinará una inversión que supera los **800 millones** de dólares.
-
-El monto incluye la compra de 520 MW de **generación en tierra** y el alquiler de 500 MW en **barcazas**.
-
-El alquiler de energía se distribuirá así:
-
-* **Las Esclusas** (Guayas): barcaza con 240 MW
-* **Guayaquil** o Durán (Guayas): barcaza con 120 MW
-* **Ecuagran** (Guayas): barcaza con 100 MW
-* **Termogas** de Machala (El Oro): 40 MW
-
-El proceso de contratación y el inicio de operaciones para estos cuatro proyectos está previsto a cumplirse hasta **diciembre** de este año.
-
-Otro de los ofrecimientos de la actual administración es “garantizar una **soberanía energética** que no dependa solamente de las hidroeléctricas”.
-
-Para ello, el Gobierno aseguró que se trabaja en la importación, almacenamiento, distribución y comercialización de **gas natural**.
-
-Se busca que esta alternativa sea una fuente combustible más limpia y eficiente para la generación térmica.
-
-Estados Unidos se pronunció sobre una posible presencia militar en Ecuador
-==========================================================================
-
-El pronunciamiento de Estados Unidos sobre su posible presencia militar en Ecuador se resaltó en un comunicado de la Embajada.
-------------------------------------------------------------------------------------------------------------------------------
-
-![La Embajada de Estados Unidos emitió un comunicado explicando su posición sobre una posible presencia militar en Ecuador.](https://www.elcomercio.com/wp-content/uploads/2024/09/Diseno-sin-titulo-27.jpg)
-
-**Estados Unidos (EE.UU.)** se pronunció sobre su posible **presencia militar** en **Ecuador**, el jueves 19 de septiembre de 2024.
-
-A través de un comunicado emitido por la Embajada de EE.UU. en Quito sobre la visita de una autoridad, ese país mostró su posición respecto a la **cooperación en seguridad** con Ecuador.
-
-### Más noticias:
-
-* [Daniel Noboa presentará proyecto para reformar la Constitución sobre bases militares extranjeras](https://www.elcomercio.com/actualidad/politica/daniel-noboa-proyecto-reformar-constitucion-bases-militares-extranjeras.html "Daniel Noboa presentará proyecto para reformar la Constitución sobre bases militares extranjeras")
-* [Propuesta de Daniel Noboa sobre bases militares extranjeras debe seguir varios pasos](https://www.elcomercio.com/actualidad/politica/propuesta-daniel-noboa-bases-militares-extranjeras.html "Propuesta de Daniel Noboa sobre bases militares extranjeras debe seguir varios pasos")
-* [Estados Unidos y Ecuador firmaron un convenio ¿En qué consiste?](https://www.elcomercio.com/actualidad/politica/estados-unidos-y-ecuador-firmaron-un-convenio-en-que-consiste.html "Estados Unidos y Ecuador firmaron un convenio ¿En qué consiste?")
-
-El pronunciamiento de Estados Unidos se da días después de que el presidente **Daniel Noboa** enviara una propuesta a la **Corte Constitucional.**
-
-Noboa plantea una reforma constitucional sobre bases militares extranjeras en el país.
-
-La última base militar extranjera en Ecuador fue la Base de Manta, liderada por el Gobierno de Estados Unidos.
-
-El pronunciamiento de Estados Unidos sobre una posible presencia militar en Ecuador
------------------------------------------------------------------------------------
-
-**Linda Fagan**, comandante de la Guardia Costera de EE.UU. visitó Quito para fortalecer la cooperación marítima.
-
-La Embajada de EE.UU. emitió un **comunicado** al respecto, en el que se pronunció sobre la posible presencia militar.
-
-Esto, a través de la firma de un compromiso para la entrega oficial de dos patrulleros de 33.5 metros.
-
-El comunicado señala que Estados Unidos se enorgullece de su apoyo para ampliar las capacidades de defensa y seguridad de Ecuador.
-
-El texto señala que estos acuerdos regulan las operaciones que realiza el personal militar estadounidense **“temporalmente”**.
-
-Estos parámetros operativos se aplican en Ecuador para realizar entrenamientos, desarrollar capacidades o entregar recursos. 
-
-Más adelante, Estados Unidos señala que no tiene planes de solicitar permiso a Ecuador para establecer **presencia militar permanente a Ecuador**.
-
-Aunque, sí amplían y profundizan la cooperación con el Ecuador a través de entrenamiento, equipos, infraestructura.
-
-Además, operaciones conjuntas, entre otras actividades, para enfrentar los desafíos de seguridad compartidos, señaló el comunicado de la Embajada.
-
-> La Almirante Linda L. Fagan, Comandante de la Guardia Costera de los 🇺🇸, visitó Quito para conocer de primera mano los desafíos y las oportunidades de las operaciones marítimas en el Ecuador. Durante sus reuniones con [@CancilleriaEc](https://twitter.com/CancilleriaEc?ref_src=twsrc%5Etfw), [@MinInteriorEc](https://twitter.com/MinInteriorEc?ref_src=twsrc%5Etfw), y [@DefensaEc](https://twitter.com/DefensaEc?ref_src=twsrc%5Etfw), la [@ComdtUSCG](https://twitter.com/ComdtUSCG?ref_src=twsrc%5Etfw)… [pic.twitter.com/IgjuLpbw3N](https://t.co/IgjuLpbw3N)
-> 
-> — US Embassy Ecuador (@USembassyEC) [September 19, 2024](https://twitter.com/USembassyEC/status/1836865629518708836?ref_src=twsrc%5Etfw)
-
-Selección de Ecuador bajó los precios de sus entradas
-=====================================================
-
-Atención, aficionados de la 'Tri', ahora los boletos costarán menos para ver a la selección
--------------------------------------------------------------------------------------------
-
-![Aficionado de la Selección de Ecuador durante el partido contra Perú en las eliminatorias sudamericanas.](https://www.elcomercio.com/wp-content/uploads/2024/09/ENDRICK-PALMEIRAS-2024-09-20T155321.034.jpg)
-
-La **Federación Ecuatoriana de Fútbol (**FEF) ha decidido reducir el precio de una de las localidades más importantes, tras la baja afluencia de público en el partido entre la **Selección de** **Ecuador** y Perú en el Estadio Rodrigo Paz Delgado.
-
-Este viernes 20 de septiembre, la **FEF** publicó toda la información sobre el proceso de compra de boletos para el encuentro entre la ‘Tri’ y la selección de Paraguay, que se jugará el 10 de octubre en Quito, a las 16:00.
-
-### Más noticias:
-
-* [Anderson Julio y Leonardo Campana, ¿opciones para la Selección de Ecuador?](https://www.elcomercio.com/deportes/futbol/anderosn-julio-leonardo-campana-seleccion.html "Anderson Julio y Leonardo Campana, ¿opciones para la Selección de Ecuador?")
-* [La Selección de Ecuador se mantiene 27 en el ranking FIFA](https://www.elcomercio.com/deportes/futbol/seleccion-ecuador-raking-fifa-septiembre.html "La Selección de Ecuador se mantiene 27 en el ranking FIFA")
-* [Ecuador vs. Paraguay tendrá terna de árbitros brasileños](https://www.elcomercio.com/deportes/futbol/ecuador-vs-paraguay-tendra-terna-de-arbitros-brasilenos.html "Ecuador vs. Paraguay tendrá terna de árbitros brasileños")
-
-Ecuador llega a este compromiso en la cuarta posición de la tabla de clasificación rumbo al Mundial 2026, con 11 puntos en ocho fechas. **Paraguay, dirigido por Gustavo Alfaro**, ocupa la séptima casilla con 9 puntos.
-
-Reducción en el precio de las entradas
---------------------------------------
-
-Mediante un comunicado oficial, la FEF anunció la reducción del precio de la localidad General, buscando motivar a los hinchas a apoyar a la **Selección de Ecuador.**
-
-“La General se reducirá en un 28%, **pasando de 35 a 25 dólares.** Esta decisión responde a nuestro compromiso con los hinchas más fieles, para hacer más accesible la experiencia de alentar a la ‘Tri'”, detalló la FEF.
-
-Cabe mencionar que estos precios no incluyen el 15 % correspondiente al IVA. Las demás localidades mantienen los mismos precios que en partidos anteriores.
-
-> 🎫 Venta de entradas | Ecuador vs. Paraguay  
->   
-> 📆 Lunes 23/9 a partir de las 12h00: exclusivo para socios FANFEF  
->   
-> 📆 Miércoles 25/9 a partir de las 14h00: venta a todo el público  
->   
-> 🏟️ Rodrigo Paz Delgado, 10/10 16h00  
->   
-> Más información: [https://t.co/LBHXOSSA6f](https://t.co/LBHXOSSA6f) [pic.twitter.com/BOlKjjAZVD](https://t.co/BOlKjjAZVD)
-> 
-> — FEF 🇪🇨 (@FEFecuador) [September 20, 2024](https://twitter.com/FEFecuador/status/1837218899965968816?ref_src=twsrc%5Etfw)
-
-Proceso de compra y precios de las entradas
--------------------------------------------
-
-Para los miembros del programa **‘Fan FEF’,** quienes pertenecen a la categoría Oro tendrán acceso al palco para los seis últimos partidos como locales. Los miembros de la categoría Plata se ubicarán en tribuna, mientras que los de la categoría Bronce tendrán prioridad en la compra de boletos y un descuento de hasta el 25%.
-
-Los **miembros Oro y Plata** podrán comprar sus entradas desde ya en la página web de la FEF, mientras que los de la categoría Bronce deberán esperar hasta el lunes 23 de septiembre, a partir de las 12:00. El público general podrá adquirir los boletos restantes desde el miércoles 25 de septiembre, a las 14:00.
-
-El límite máximo de compra por usuario es de ocho boletos.
-
-### Precios de las entradas
-
-**Palco Central Occidental/Oriental**
-
-* Precio regular: USD 150 + IVA
-* Categoría Bronce: USD 135 + IVA
-
-**Palco Occidental/Oriental Lateral**
-
-* Precio regular: USD 110 + IVA
-* Categoría Bronce: USD 99 + IVA
-
-**Tribuna Occidental/Oriental Central**
-
-* Precio regular: USD 90 + IVA
-* Categoría Bronce: USD 77 + IVA
-
-**Tribuna Occidental/Oriental Esquinas**
-
-* Precio regular: USD 60 + IVA
-* Categoría Bronce: USD 48 + IVA
-
-**General Norte/Sur, Baja y Alta**
-
-* Precio regular: USD 25 + IVA
-* Categoría Bronce: USD 19 + IVA
-
-Un pajasero de avión encontró un ratón vivo en su comida
-========================================================
-
-Este es el segundo incidente de viaje relacionado con roedores en una semana.
------------------------------------------------------------------------------
-
-![Un ratón sorprendió a los pasajeros de un vuelo.](https://www.elcomercio.com/wp-content/uploads/2024/09/raton-pexels.jpg)
-
-**Scandinavian Airlines** informó que uno de sus vuelos tuvo que realizar un **aterrizaje de emergencia** después de que un ratón se escapó de la comida a bordo de un pasajero, de acuerdo con el portal de la BBC.
-
-### Más noticias
-
-* [Una hipótesis puede explicar cómo se siniestró avión en Brasil que llevaba 62 personas](https://www.elcomercio.com/actualidad/mundo/una-hipotesis-puede-explicar-como-se-siniestro-avion-en-brasil-que-llevaba-62-personas.html "Una hipótesis puede explicar cómo se siniestró avión en Brasil que llevaba 62 personas")
-* [Aeropuerto Mariscal Sucre de Quito reprograma vuelos de salida y llegada](https://www.elcomercio.com/actualidad/ecuador/aeropuerto-mariscal-sucre-de-quito-reprograma-vuelos-de-salida-y-llegada.html "Aeropuerto Mariscal Sucre de Quito reprograma vuelos de salida y llegada")
-* [Incendios no afectan vuelos en Quito; el sábado habrá reprogramación](https://www.elcomercio.com/actualidad/quito/incendios-no-afectan-vuelos-en-quito-sabado-habra-reprogramacion.html "Incendios no afectan vuelos en Quito; el sábado habrá reprogramación")
-
-El avión viajaba desde Oslo, la capital de Noruega, a la ciudad española de Málaga y se vio obligado a realizar un aterrizaje de emergencia en Copenhague, Dinamarca, indica la BBC.
-
-Desvío del vuelo
-----------------
-
-El desvío se realizó de acuerdo con los **procedimientos de la compañía**, ya que el ratón representaba un **riesgo para la seguridad**, dijo el portavoz de la aerolínea, Oystein Schmidt, a la agencia de noticias AFP.
-
-Los pasajeros del vuelo fueron posteriormente, trasladados a Málaga en otro avión, según informó la BBC.
-
-“Lo creas o no. Una señora a mi lado aquí en SAS abrió la comida y saltó un ratón. Ahora dimos la vuelta y aterrizado en el Aeropuerto de Copenhague para cambios de vuelo”, escribió un pasajero, Jarle Borrestad, en su cuenta de Facebook.
-
-Segundo incidente de viaje
---------------------------
-
-Es el segundo incidente de viaje relacionado con **roedores en una semana**, relata la BBC.
-
-Ardillas en un tren de Inglaterra
----------------------------------
-
-Un servicio de tren en el sur de Inglaterra tuvo que ser cancelado a mitad del viaje después de que dos ardillas subieran a un vagón y una se negara a bajarse.
-
-Manu Chao regresa con ‘Viva Tu’ después de 17 años de silencio discográfico
-===========================================================================
-
-El disco tiene una inédita colaboración con Willie Nelson.
-----------------------------------------------------------
-
-![Manu Chao durante una presentación en agosto de 2024. Foto: Instagram @manuchaoofficial](https://www.elcomercio.com/wp-content/uploads/2024/09/manu-chao-viva-tu-El-comercio-1.jpg)
-
-El legendario músico **Manu Chao** vuelve a la escena musical con **‘Viva Tu**‘, su primer álbum de estudio tras 17 años de ausencia.
-
-El nuevo disco, lanzado el 20 de septiembre de 2024, marca un regreso triunfal en el que el **artista franco-español** retoma su sonido característico, sin perder su esencia rebelde y comprometida.
-
-### Más noticias
-
-* **[‘La lógica del escorpión’ grita que Charly sigue siendo Charly](https://www.elcomercio.com/videos/lalogicadelescorpion-charly-garcia-rompela.html "https://www.elcomercio.com/videos/lalogicadelescorpion-charly-garcia-rompela.html")**
-* **[Muere Juan Brujo, líder de la banda mexicana de metal Brujería](https://www.elcomercio.com/tendencias/cultura/juan-brujo-brujeria-obituario-metal.html "https://www.elcomercio.com/tendencias/cultura/juan-brujo-brujeria-obituario-metal.html")** 
-
-Tras el éxito de sus últimos trabajos a principios de los 2000, Chao vuelve con una producción que celebra la vida cotidiana y aborda temas sociales cruciales como la migración, la desigualdad y el medio ambiente.
-
-Desde los primeros acordes de Viva Tu, queda claro que Manu Chao no ha perdido su capacidad para mezclar géneros como el reggae, el ska y los ritmos latinos.
-
-El sencillo **Vecinos en el Mar** abre el disco con una energía festiva, pero es a través de letras cargadas de reflexión social que Chao muestra su compromiso con las causas que siempre han marcado su carrera.
-
-Cantando en español, francés, portugués e inglés, el artista ofrece un recorrido sonoro que refleja su multiculturalidad y su pasión por la justicia.
-
-**Un regreso fiel a su estilo**
--------------------------------
-
-![Portada del disco 'Viva Tu', de Manu Chao. ](https://www.elcomercio.com/wp-content/uploads/2024/09/manu-chao-viva-tu-El-comercio-1024x683.jpg)
-
-Portada del disco ‘Viva Tu’, de Manu Chao.
-
-‘Viva Tu’ destaca por su producción cuidadosa y el sonido inconfundible de la guitarra acústica de Manu Chao. Canciones como **Tantas Tierras y La Colilla** exploran tanto la resiliencia ante la adversidad como los pequeños detalles de la vida diaria, manteniendo una ligereza que contrasta con los mensajes profundos de las letras.
-
-La mezcla de instrumentos acústicos y electrónicos, junto con el uso de sintetizadores que evocan sonidos de juguetes, le dan al álbum un aire de frescura y originalidad que sigue siendo fiel a la identidad sonora del músico.
-
-El disco no solo es un reflejo de la continuidad en la carrera de Chao, sino también una muestra de su capacidad para adaptarse sin perder su esencia. La **colaboración sorpresa con Willie Nelson en Heaven’s Bad Day** es uno de los puntos altos del álbum, donde ambos artistas exploran los demonios internos que enfrentan en su día a día.
-
-> [Ver esta publicación en Instagram](https://www.instagram.com/reel/DAJb_TnoKAu/?utm_source=ig_embed&utm_campaign=loading)
-> 
-> [Una publicación compartida por Manu Chao (@manuchaoofficial)](https://www.instagram.com/reel/DAJb_TnoKAu/?utm_source=ig_embed&utm_campaign=loading)
-
-**Una celebración de la vida y la gente común**
------------------------------------------------
-
-A lo largo del disco, Manu Chao celebra a las personas que forman parte de la vida diaria: los vecinos, los trabajadores comunes y corrientes.
-
-Este homenaje es particularmente evidente en canciones como **Vecinos en el Mar y São Paulo Motoboy**, en las que el músico canta sobre la lucha diaria por sobrevivir y encontrar sentido en un mundo complejo. Escucha el disco **[aquí](https://open.spotify.com/intl-es/album/0de0VSMdg29Rwoe9MG4ck2?go=1&sp_cid=d10b1773953e9ec1d0b1b658fc8cbcdc&utm_source=embed_player_p&utm_medium=desktop&nd=1&dlsi=f152a24be89e4eaa)**.
