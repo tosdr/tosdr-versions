@@ -1,4 +1,6 @@
- [![Chatmeter Logo](https://sp-ao.shortpixel.ai/client/to_auto,q_lossless,ret_img,w_220,h_24/https://www.chatmeter.com/wp-content/uploads/2023/06/chatmeter-logo.png)](https://www.chatmeter.com/)[![Chatmeter Logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20220%2024'%3E%3C/svg%3E)
+[![Chatmeter Logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20220%2024'%3E%3C/svg%3E)
+
+![Chatmeter Logo](https://www.chatmeter.com/wp-content/uploads/2023/06/chatmeter-logo.png)](https://www.chatmeter.com/)[![Chatmeter Logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20220%2024'%3E%3C/svg%3E)
 
 ![Chatmeter Logo](https://www.chatmeter.com/wp-content/uploads/2023/06/chatmeter-logo-dark.png)](https://www.chatmeter.com/)
 
@@ -33,8 +35,12 @@
             * [Surveys](https://www.chatmeter.com/solutions/surveys/)
                 * Gain a 360° view of your customers’ wants, needs, and expectations with Chatmeter's survey solution.
                     
-    * * [![Chatmeter (2)](https://sp-ao.shortpixel.ai/client/to_auto,q_lossless,ret_img,w_624,h_400/https://www.chatmeter.com/wp-content/uploads/2023/08/Chatmeter-2.webp)](https://www.chatmeter.com/roi-of-brand-intelligence/)
-        * [![megamenu-2 (2)](https://sp-ao.shortpixel.ai/client/to_auto,q_lossless,ret_img,w_624,h_400/https://www.chatmeter.com/wp-content/uploads/2023/08/megamenu-2-2.webp)](https://chatmeter.navattic.com/krs0s5e)
+    * * [![Chatmeter (2)](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20624%20400'%3E%3C/svg%3E)
+            
+            ![Chatmeter (2)](https://www.chatmeter.com/wp-content/uploads/2023/08/Chatmeter-2.webp)](https://www.chatmeter.com/roi-of-brand-intelligence/)
+        * [![megamenu-2 (2)](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20624%20400'%3E%3C/svg%3E)
+            
+            ![megamenu-2 (2)](https://www.chatmeter.com/wp-content/uploads/2023/08/megamenu-2-2.webp)](https://chatmeter.navattic.com/krs0s5e)
 * [Industries](https://www.chatmeter.com/industries/)
     * [Restaurants](https://www.chatmeter.com/industries/restaurants/)
     * [Retail](https://www.chatmeter.com/industries/retail/)
@@ -62,7 +68,9 @@
                 * [Restaurants](https://www.chatmeter.com/resources/?topic=5)
                 * [Retail](https://www.chatmeter.com/resources/?topic=8)
             * [View All](https://www.chatmeter.com/resources/)
-    * * [![megamenu-3 (2)](https://sp-ao.shortpixel.ai/client/to_auto,q_lossless,ret_img,w_624,h_820/https://www.chatmeter.com/wp-content/uploads/2023/08/megamenu-3-2.webp)](https://www.chatmeter.com/resource/blog/how-ai-technology-is-changing-reputation-management/)
+    * * [![megamenu-3 (2)](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20624%20820'%3E%3C/svg%3E)
+            
+            ![megamenu-3 (2)](https://www.chatmeter.com/wp-content/uploads/2023/08/megamenu-3-2.webp)](https://www.chatmeter.com/resource/blog/how-ai-technology-is-changing-reputation-management/)
 * [About](https://www.chatmeter.com/about-us/)
     * [Leadership Team](https://www.chatmeter.com/about-us/leadership/)
     * [Our Values](https://www.chatmeter.com/about-us/#values)
@@ -72,7 +80,11 @@
     * [Newsroom](https://www.chatmeter.com/newsroom/)
 * [Pricing](https://www.chatmeter.com/pricing/)
 
- [![Chatmeter Logo](https://sp-ao.shortpixel.ai/client/to_auto,q_lossless,ret_img,w_160,h_18/https://www.chatmeter.com/wp-content/uploads/2023/06/chatmeter-logo.png) ![Chatmeter Logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20160%2018'%3E%3C/svg%3E)
+[![Chatmeter Logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20160%2018'%3E%3C/svg%3E)
+
+![Chatmeter Logo](https://www.chatmeter.com/wp-content/uploads/2023/06/chatmeter-logo.png)
+
+![Chatmeter Logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20160%2018'%3E%3C/svg%3E)
 
 ![Chatmeter Logo](https://www.chatmeter.com/wp-content/uploads/2023/06/chatmeter-logo-dark.png)](https://www.chatmeter.com/)
 
@@ -102,8 +114,12 @@
             * [Surveys](https://www.chatmeter.com/solutions/surveys/)
                 * Gain a 360° view of your customers’ wants, needs, and expectations with Chatmeter's survey solution.
                     
-    * * [![Chatmeter (2)](https://sp-ao.shortpixel.ai/client/to_auto,q_lossless,ret_img,w_624,h_400/https://www.chatmeter.com/wp-content/uploads/2023/08/Chatmeter-2.webp)](https://www.chatmeter.com/roi-of-brand-intelligence/)
-        * [![megamenu-2 (2)](https://sp-ao.shortpixel.ai/client/to_auto,q_lossless,ret_img,w_624,h_400/https://www.chatmeter.com/wp-content/uploads/2023/08/megamenu-2-2.webp)](https://chatmeter.navattic.com/krs0s5e)
+    * * [![Chatmeter (2)](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20624%20400'%3E%3C/svg%3E)
+            
+            ![Chatmeter (2)](https://www.chatmeter.com/wp-content/uploads/2023/08/Chatmeter-2.webp)](https://www.chatmeter.com/roi-of-brand-intelligence/)
+        * [![megamenu-2 (2)](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20624%20400'%3E%3C/svg%3E)
+            
+            ![megamenu-2 (2)](https://www.chatmeter.com/wp-content/uploads/2023/08/megamenu-2-2.webp)](https://chatmeter.navattic.com/krs0s5e)
 * [Industries](https://www.chatmeter.com/industries/)
     * [Restaurants](https://www.chatmeter.com/industries/restaurants/)
     * [Retail](https://www.chatmeter.com/industries/retail/)
@@ -131,7 +147,9 @@
                 * [Restaurants](https://www.chatmeter.com/resources/?topic=5)
                 * [Retail](https://www.chatmeter.com/resources/?topic=8)
             * [View All](https://www.chatmeter.com/resources/)
-    * * [![megamenu-3 (2)](https://sp-ao.shortpixel.ai/client/to_auto,q_lossless,ret_img,w_624,h_820/https://www.chatmeter.com/wp-content/uploads/2023/08/megamenu-3-2.webp)](https://www.chatmeter.com/resource/blog/how-ai-technology-is-changing-reputation-management/)
+    * * [![megamenu-3 (2)](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20624%20820'%3E%3C/svg%3E)
+            
+            ![megamenu-3 (2)](https://www.chatmeter.com/wp-content/uploads/2023/08/megamenu-3-2.webp)](https://www.chatmeter.com/resource/blog/how-ai-technology-is-changing-reputation-management/)
 * [About](https://www.chatmeter.com/about-us/)
     * [Leadership Team](https://www.chatmeter.com/about-us/leadership/)
     * [Our Values](https://www.chatmeter.com/about-us/#values)
@@ -263,7 +281,9 @@ Your privacy is important to us. If you have any questions, concerns, or complai
 
 Chatmeter will take any privacy complaint seriously and any complaint will be assessed by an appropriate person with the aim of resolving any issue in a timely and efficient manner.
 
-[![Chatmeter Logo](https://sp-ao.shortpixel.ai/client/to_auto,q_lossless,ret_img/https://www.chatmeter.com/wp-content/uploads/2023/06/chatmeter-logo.png)](https://www.chatmeter.com/)
+[![Chatmeter Logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+
+![Chatmeter Logo](https://www.chatmeter.com/wp-content/uploads/2023/06/chatmeter-logo.png)](https://www.chatmeter.com/)
 
 * [Contact Us](https://www.chatmeter.com/contact/)
 * [Sign Up for Content](https://www.chatmeter.com/content-sign-up/)
