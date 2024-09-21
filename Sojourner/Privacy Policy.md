@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-9e381a870797fb611eeb29d0c7ef6358
+4a638af3f08aaf57776207b78ca908fd
 
 [](# "Expand for more options")[](# "Search")
 
@@ -171,11 +171,11 @@ Sojourner may revise this policy as needed by updating this posting.
 
 ### Featured Product
 
-[![Rectangular coral floral box clasp](https://www.sojourner.biz/images/cache/SKU0492front.200.jpg)](https://www.sojourner.biz/clasps/glass/rectangular-coral-floral-box-clasp.html "Rectangular coral floral box clasp")
+[![Topaz Swarovski rivoli clasp](https://www.sojourner.biz/images/cache/SKU0506variations.200.jpg)](https://www.sojourner.biz/clasps/swarovski/topaz-swarovski-rivoli-clasp.html "Topaz Swarovski rivoli clasp")
 
-#### [Rectangular coral floral box clasp](https://www.sojourner.biz/clasps/glass/rectangular-coral-floral-box-clasp.html "Rectangular coral floral box clasp")
+#### [Topaz Swarovski rivoli clasp](https://www.sojourner.biz/clasps/swarovski/topaz-swarovski-rivoli-clasp.html "Topaz Swarovski rivoli clasp")
 
-$23.50
+$36.00
 
 ### Best Sellers
 
