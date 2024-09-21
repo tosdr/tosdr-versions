@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/inspiratie/meelezen/waarom-handjecontantje-org-en-wat-eraan-te-doen/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/inspiratie/de-versnellende-sytemen/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
