@@ -133,6 +133,6 @@ These Terms will be governed by and construed in accordance with the laws of the
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-It has been great having FoxyProxy for the past 3-4 years while I was out of the UK and I've recommended it to a bunch of people over that time.
+Thank you so, so, so much for this service!!! It was a godsend!!!! You saved me from having to suffer through NBC's horrid Olympics coverage. Thanks a million! You'll be hearing from me again in 2014 when its time for the Winter Olympics.
 
-Claudia Coory
+Kristin and Mike Platson
