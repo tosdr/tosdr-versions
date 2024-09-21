@@ -33,15 +33,15 @@
 
 editorial \_
 
-[![Automakers Join Forces Out of Desperation](https://s1.cdn.autoevolution.com/images/news/automakers-join-forces-out-of-desperation-240041-5.jpg "Automakers Join Forces Out of Desperation")
+[![Massachusetts Tried to Ban Kei Cars, Then the Community Clapped Back](https://s1.cdn.autoevolution.com/images/news/massachusetts-tried-to-ban-kei-cars-then-the-community-clapped-back-240090-5.jpg "Massachusetts Tried to Ban Kei Cars, Then the Community Clapped Back")
 
-#### Automakers Join Forces Out of Desperation](https://www.autoevolution.com/news/automakers-join-forces-out-of-desperation-240041.html "Automakers Join Forces Out of Desperation")
+#### Massachusetts Tried to Ban Kei Cars, Then the Community Clapped Back](https://www.autoevolution.com/news/massachusetts-tried-to-ban-kei-cars-then-the-community-clapped-back-240090.html "Massachusetts Tried to Ban Kei Cars, Then the Community Clapped Back")
 
 coverstory \_
 
-[![Airstream Will Make Only 30 Outland Edition Camper Vans With Never-Before-Seen Features](https://s1.cdn.autoevolution.com/images/news/airstream-will-make-only-30-outland-edition-19x-campervans-with-never-before-seen-features-240085-5.jpg "Airstream Will Make Only 30 Outland Edition Camper Vans With Never-Before-Seen Features")
+[![The StarLight Cube Is a Compact Travel Trailer With a Very Big Secret](https://s1.cdn.autoevolution.com/images/news/the-starlight-cube-is-a-compact-travel-trailer-with-a-very-big-secret-239898-5.jpg "The StarLight Cube Is a Compact Travel Trailer With a Very Big Secret")
 
-Airstream Will Make Only 30 Outland Edition Camper Vans With Never-Before-Seen Features](https://www.autoevolution.com/news/airstream-will-make-only-30-outland-edition-camper-vans-with-never-before-seen-features-240085.html)
+The StarLight Cube Is a Compact Travel Trailer With a Very Big Secret](https://www.autoevolution.com/news/the-starlight-cube-is-a-compact-travel-trailer-with-a-very-big-secret-239898.html)
 
 how-to \_
 
