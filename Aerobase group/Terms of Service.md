@@ -150,6 +150,11 @@ For further information regarding the applicable laws, regulations, and policies
 
 #### Defense News
 
+* [Boeing ousts defense chief Ted Colbert as firm seeks to right itself](https://www.defensenews.com/breaking-news/2024/09/21/boeing-ousts-defense-chief-ted-colbert-as-firm-seeks-to-right-itself/)  
+    09/20/24 09:29pm  
+    
+    Boeng on Friday announced Ted Colbert, the head of Boeing Defense, Space and Security, was exiting the company effective immediately. (Karim Sahib/AFP via Getty Images)
+    
 * [Recruits need real rifles at boot camp, top enlisted airman says](https://www.defensenews.com/air/2024/09/20/rifles-at-air-force-boot-camp-top-leader-calls-it-desired-end-state/)  
     09/20/24 08:00am  
     
@@ -164,11 +169,6 @@ For further information regarding the applicable laws, regulations, and policies
     09/19/24 02:01pm  
     
     The Air Force's information warfare enterprise is evaluating its technology needs, including advanced sensors and AI tools. (Senior Airman Nicholas Byers/U.S. Air Force)
-    
-* [Air Force to deploy Ospreys in weeks as post-crash groundings lift](https://www.defensenews.com/air/2024/09/19/air-force-to-deploy-ospreys-in-weeks-as-post-crash-groundings-lift/)  
-    09/19/24 11:46am  
-    
-    A crew chief marshals a CV-22B Osprey at Yokota Air Base, Japan, July 2, 2024. (A1C Samantha White/Air Force)
     
 
 Recent parts by keyword  
