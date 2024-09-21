@@ -205,26 +205,28 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [Druids! (Part 2 of 2)](https://www.somethingawful.com/photoshop-phriday/mystery-druids/1/)
-* [Age People!](https://www.somethingawful.com/photoshop-phriday/age-celebrities-penn/1/)
-* [Druids](https://www.somethingawful.com/movie-reviews/druids/1/)
-* [Jurassic World!](https://www.somethingawful.com/photoshop-phriday/jurassic-world/1/)
-* [Eunuch Archive](https://www.somethingawful.com/weekend-web/eunuch-archive/1/)
+* [The Grown-up World of Richard Scarry](https://www.somethingawful.com/photoshop-phriday/grownup-world-richard/1/)
+* [We Have To Stop Letting Assholes Ruin Everything.](https://www.somethingawful.com/news/do-better/)
+* [L'aventure le L'ocean L'fantasmo, Le](https://www.somethingawful.com/awful-movie-database/laventure-le-locean/)
+* [Leave a Message in the Anonymous White Man Complaint Box](https://www.somethingawful.com/news/leave-message-anonymous/)
+* [Schrödinger's Gay](https://www.somethingawful.com/news/shrodingers-gay/)
 
 ### Popular Threads
 
 * ![](https://fi.somethingawful.com/forums/posticons/icons-08/whine.png) [Types of Walkers I Hate](http://forums.somethingawful.com/showthread.php?threadid=4070800 "Types of Walkers I Hate")
-* ![](https://fi.somethingawful.com/forums/posticons/icons-08/drugs.png) [FREE CANDY](http://forums.somethingawful.com/showthread.php?threadid=4070796 "FREE CANDY")
-* ![](https://fi.somethingawful.com/forums/posticons/icons-08/music.png) [You ever hear a song and love it except one part that fucking sucks](http://forums.somethingawful.com/showthread.php?threadid=4070864 "You ever hear a song and love it except one part that fucking sucks")
+* ![](https://fi.somethingawful.com/images/shitpost.gif) [New York Times Website issue](http://forums.somethingawful.com/showthread.php?threadid=4070873 "New York Times Website issue")
 * ![](https://fi.somethingawful.com/images/shitpost.gif) [What's the fucking deal with Taxidermising things](http://forums.somethingawful.com/showthread.php?threadid=4070863 "What's the fucking deal with Taxidermising things")
+* ![](https://fi.somethingawful.com/forums/posticons/icons-08/question.png) [Puppy power!](http://forums.somethingawful.com/showthread.php?threadid=4070869 "Puppy power!")
+* ![](https://fi.somethingawful.com/forums/posticons/icons-08/music.png) [You ever hear a song and love it except one part that fucking sucks](http://forums.somethingawful.com/showthread.php?threadid=4070864 "You ever hear a song and love it except one part that fucking sucks")
+* ![](https://fi.somethingawful.com/forums/posticons/icons-08/goonmeet.png) [Have there been any SA-famous goons?](http://forums.somethingawful.com/showthread.php?threadid=4070867 "Have there been any SA-famous goons?")
 
 ### Random Articles
 
-* [Special Guest Idris Elba's (Not a Joke) Top 10 Games of 2017](https://www.somethingawful.com/video-game-article/elba-top-games/)
-* [The Way Of The Creepy Dude](https://www.somethingawful.com/news/creepy-dude-way/)
-* [Minimalist Restroom Signs!](https://www.somethingawful.com/photoshop-phriday/minimalist-restroom-signs/1/)
-* [International Censorship](https://www.somethingawful.com/video-game-article/america-international-censorship/)
-* [Louisiana is Invited to Drown in a Sea of Hot Tar](https://www.somethingawful.com/news/deepwater-nungesser-drown/)
+* [Hey Sports Illustrated: Where's My Cover Story?](https://www.somethingawful.com/news/jason-collins-si/)
+* [Instruction for a Peace](https://www.somethingawful.com/news/war-surface-doomsday/1/)
+* [Big-Baby](https://www.somethingawful.com/awful-links/awful-link-1959/)
+* [The P-T-B Archival Recap of a New Era](https://www.somethingawful.com/awful-links/awful-link-2353/)
+* [Operation Save America!](https://www.somethingawful.com/awful-links/awful-link-1778/)
 
 [Random!](https://www.somethingawful.com/random/)
 
