@@ -1,4 +1,4 @@
-![](https://pixelcounter.elmundo.es/pixelcontabilizacion/pixelcontabilizacion.gifctl?r=http%3A%2F%2Fwww%2Eelmundo%2Ees%2Fregistro%2Fprivacidad%2Ehtml&s=elmundo&d=Zu4hrQoAAVEAAABctaQ)
+![](https://pixelcounter.elmundo.es/pixelcontabilizacion/pixelcontabilizacion.gifctl?r=http%3A%2F%2Fwww%2Eelmundo%2Ees%2Fregistro%2Fprivacidad%2Ehtml&s=elmundo&d=Zu52gwoAAVEAAABcfis)
 
 Es noticia
 
@@ -6,7 +6,7 @@ Es noticia
 * [Audiencia ayer](https://www.elmundo.es/television/2024/09/20/66ed1526fdddff73038b4590.html)
 * [Hijo Nuria Roca](https://www.elmundo.es4/09/20/66ed45c5e4d4d8b6088b4597.html/loc/famosos/202)
 * [Antonio Banderas El Hormiguero](https://www.elmundo.es/television/momentvs/2024/09/20/66ed099b21efa0b44b8b4585.html)
-* [Guerra Ucrania](https://www.elmundo.es/internacional/2024/09/20/66ed013341c60100241dc59a-directo.html)
+* [Guerra Ucrania](https://www.elmundo.es/internacional/2024/09/21/66ee5bd43e373500257403e4-directo.html)
 * [Menores migrantes Canarias](https://www.elmundo.es/espana/2024/09/20/66ed2c77e9cf4a1c328b4588.html)
 * [Ramón Jordana](https://www.elmundo.es/loc/famosos/2024/09/19/66ec4a3fe85ecede6e8b4597.html)
 * [Felipe VI](https://www.elmundo.es/loc/famosos/2024/09/20/66ed4f5bfc6c83c7428b45a8.html)
