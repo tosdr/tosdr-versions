@@ -30,15 +30,14 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/e4c45d32-5566-4ea4-aa02-e3a80f3eacdb/20240917T010212/e4c45d32-5566-4ea4-aa02-e3a80f3eacdb_16x9.jpg) ![](https://media.king5.com/assets/KING/images/e4c45d32-5566-4ea4-aa02-e3a80f3eacdb/20240917T010212/e4c45d32-5566-4ea4-aa02-e3a80f3eacdb_360x203.jpg)](https://www.king5.com/article/tech/science/aerospace/boeing/boeing-speea-furlough-request-iam-751-strike/281-a902209d-5495-4845-9089-1e80c4a56182)
+    *  [![](https://media.king5.com/assets/KING/images/9308fa1d-c453-4219-8741-66fdb751152e/9308fa1d-c453-4219-8741-66fdb751152e_16x9.jpg) ![](https://media.king5.com/assets/KING/images/9308fa1d-c453-4219-8741-66fdb751152e/9308fa1d-c453-4219-8741-66fdb751152e_360x203.jpg)](https://www.king5.com/article/traffic/traffic-news/145th-street-closure-shoreline-seattle-extended/281-14c9f5a3-fd50-456d-802b-cce21fd5046b)
         
-        #### [Boeing angers another union by asking to include SPEEA employees in furloughs](https://www.king5.com/article/tech/science/aerospace/boeing/boeing-speea-furlough-request-iam-751-strike/281-a902209d-5495-4845-9089-1e80c4a56182)
+        #### [145th Street closure in Shoreline extended to 2025](https://www.king5.com/article/traffic/traffic-news/145th-street-closure-shoreline-seattle-extended/281-14c9f5a3-fd50-456d-802b-cce21fd5046b)
         
-    *  [![](https://media.king5.com/assets/KING/images/12357252-b70f-4885-ac88-19739ce22957/20240921T014617/12357252-b70f-4885-ac88-19739ce22957_16x9.jpg) ![](https://media.king5.com/assets/KING/images/12357252-b70f-4885-ac88-19739ce22957/20240921T014617/12357252-b70f-4885-ac88-19739ce22957_360x203.jpg)](https://www.king5.com/article/news/local/tacoma-rescue-mission-break-ground-new-tiny-home-village-spanaway/281-54bd0cdd-556e-4e0e-b2dc-519a1ed22145)
+    *  [![](https://media.king5.com/assets/KING/images/b3f63962-6058-4e8d-afc3-116790551e16/20240921T031649/b3f63962-6058-4e8d-afc3-116790551e16_16x9.jpg) ![](https://media.king5.com/assets/KING/images/b3f63962-6058-4e8d-afc3-116790551e16/20240921T031649/b3f63962-6058-4e8d-afc3-116790551e16_360x203.jpg)](https://www.king5.com/article/news/local/24-hours-inside-coffin-federal-way-theme-park-contest-wild-waves/281-6a3a7db8-9ac4-400f-9cb6-6f85f1eb4f17)
         
-        #### [Tacoma Rescue Mission to break ground on new tiny home village in Spanaway](https://www.king5.com/article/news/local/tacoma-rescue-mission-break-ground-new-tiny-home-village-spanaway/281-54bd0cdd-556e-4e0e-b2dc-519a1ed22145) [![](https://media.king5.com/assets/KING/images/12357252-b70f-4885-ac88-19739ce22957/20240921T014617/12357252-b70f-4885-ac88-19739ce22957_16x9.jpg) ![](https://media.king5.com/assets/KING/images/12357252-b70f-4885-ac88-19739ce22957/20240921T014617/12357252-b70f-4885-ac88-19739ce22957_360x203.jpg)](https://www.king5.com/article/news/local/tacoma-rescue-mission-break-ground-new-tiny-home-village-spanaway/281-54bd0cdd-556e-4e0e-b2dc-519a1ed22145)
+        #### [Federal Way theme park contest challenges 6 people to sit in coffins for 24 hours](https://www.king5.com/article/news/local/24-hours-inside-coffin-federal-way-theme-park-contest-wild-waves/281-6a3a7db8-9ac4-400f-9cb6-6f85f1eb4f17)
         
-        #### [Tacoma Rescue Mission will soon break ground on new tiny home village in Spanaway](https://www.king5.com/article/news/local/tacoma-rescue-mission-break-ground-new-tiny-home-village-spanaway/281-54bd0cdd-556e-4e0e-b2dc-519a1ed22145)
     
 * [Weather](https://www.king5.com/weather/)
     
@@ -57,7 +56,7 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/07a4b00d-1257-4279-8630-ee03b144811b/20240921T004352/07a4b00d-1257-4279-8630-ee03b144811b_16x9.jpg) ![](https://media.king5.com/assets/KING/images/07a4b00d-1257-4279-8630-ee03b144811b/20240921T004352/07a4b00d-1257-4279-8630-ee03b144811b_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
+    *  [![](https://media.king5.com/assets/KING/images/8c8f2f43-a9f2-4f9e-984e-25b2fffc2e21/20240921T055010/8c8f2f43-a9f2-4f9e-984e-25b2fffc2e21_16x9.jpg) ![](https://media.king5.com/assets/KING/images/8c8f2f43-a9f2-4f9e-984e-25b2fffc2e21/20240921T055010/8c8f2f43-a9f2-4f9e-984e-25b2fffc2e21_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
         #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
@@ -96,9 +95,9 @@ Navigation
 
 Seattle, WA »
 
-64°
+53°
 
-![Partly Cloudy](/assets/shared-images/weather-icons/partly-cloudy-day_210x210.png)
+![Clear](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
 
 Seattle, WA »](https://www.king5.com/weather)
 
