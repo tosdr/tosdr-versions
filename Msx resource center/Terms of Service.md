@@ -141,6 +141,7 @@ MSX Music player
 Latest reactions
 
 * [New website Repair-Bas](https://www.msx.org/news/en/new-server-repair-bas-youtube-channel-english-translation "New website Repair-Bas")
+* [Rambo MSX2 remake announced](https://www.msx.org/news/en/rambo-msx2-remake "Rambo MSX2 remake announced")
 * [BrewOtaku magazine](https://www.msx.org/news/media/en/brewotaku-magazine "BrewOtaku magazine")
 * [OCMINFO for MSX++ compatibles](https://www.msx.org/news/en/ocminfo-for-msx-compatibles "OCMINFO for MSX++ compatibles")
 * [Markus Vordermeier aka Hamlet passed away](https://www.msx.org/news/msx-related/en/markus-vordermeier-aka-hamlet-passed-away "Markus Vordermeier aka Hamlet passed away")
@@ -149,7 +150,6 @@ Latest reactions
 * [Fruit Mazes and Pallo](https://www.msx.org/news/en/pallo-a-new-game-for-your-msx2 "Fruit Mazes and Pallo")
 * [MSX Logo policy updated](https://www.msx.org/news/msx-revival/en/msx-logo-policy-updated "MSX Logo policy updated")
 * [MSX Fair Nijmegen 2025](https://www.msx.org/news/en/march-8-2025-20th-msx-fair-nijmegen "MSX Fair Nijmegen 2025")
-* [MSX UK fun day](https://www.msx.org/news/en/msx-uk-fun-day "MSX UK fun day")
 
 Latest forum posts
 
@@ -176,7 +176,7 @@ News headlines
 * [I-Logic](https://www.msx.org/news/software/en/i-logic "I-Logic")
 * [MSX and Networking book crowdfunding](https://www.msx.org/news/en/new-book-about-msx-and-networking-crowdfunding-campaign "MSX and Networking book crowdfunding")
 * [MSX UK fun day](https://www.msx.org/news/en/msx-uk-fun-day "MSX UK fun day")
-* [Hype OPL3](https://www.msx.org/news/en/hypeopl3 "Hype OPL3")
+* [Hype OPL3](https://www.msx.org/news/en/hypeopl "Hype OPL3")
 * [Fruit Mazes and Pallo](https://www.msx.org/news/en/pallo-a-new-game-for-your-msx2 "Fruit Mazes and Pallo")
 * [MSX Fair Nijmegen 2025](https://www.msx.org/news/en/march-8-2025-20th-msx-fair-nijmegen "MSX Fair Nijmegen 2025")
 * [Shockwave2 and Audiowave new batches](https://www.msx.org/news/en/opl4-shockwave-2-ready-delivery "Shockwave2 and Audiowave new batches")
