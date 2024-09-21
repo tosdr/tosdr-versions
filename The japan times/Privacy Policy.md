@@ -463,25 +463,25 @@ Revised June 1, 2022
 
 * Editors' Picks
 
-[South Korea couple beat same-sex barriers to parenthood](https://www.japantimes.co.jp/news/2023/08/06/asia-pacific/social-issues/south-korea-couple-pregnant/ "South Korea couple beat same-sex barriers to parenthood")
+[Apple's iPhone 16 released in Japan](https://www.japantimes.co.jp/business/2024/09/20/companies/iphone16-japan-stores/ "Apple's iPhone 16 released in Japan")
 
-  [![South Korean lesbian couple Kim Kyu-jin (left) and her wife, Kim Sae-yeon, pose with a "pregnant woman" badge during an interview in Seoul last month.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2023/08/06/244166.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "South Korean lesbian couple Kim Kyu-jin (left) and her wife, Kim Sae-yeon, pose with a "pregnant woman" badge during an interview in Seoul last month.")](https://www.japantimes.co.jp/news/2023/08/06/asia-pacific/social-issues/south-korea-couple-pregnant/ "South Korea couple beat same-sex barriers to parenthood")
+  [![A man holds a new iPhone 16 at an Apple store in Tokyo's Shibuya Ward on Friday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/20/422900.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "A man holds a new iPhone 16 at an Apple store in Tokyo's Shibuya Ward on Friday.")](https://www.japantimes.co.jp/business/2024/09/20/companies/iphone16-japan-stores/ "Apple's iPhone 16 released in Japan")
 
-[Japan unveils new overtourism countermeasures](https://www.japantimes.co.jp/news/2023/10/18/japan/society/overtourism-prevention-plan/ "Japan unveils new overtourism countermeasures")
+[China works to avoid rift with Japan over killing of schoolchild](https://www.japantimes.co.jp/news/2024/09/20/japan/japan-china-stabbing/ "China works to avoid rift with Japan over killing of schoolchild")
 
-  [![The majority of tourists in Japan tend to stay in Tokyo, Osaka or Kyoto, resulting in overcrowding in popular tourist spots and a strain on transportation systems.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2023/10/18/258248.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "The majority of tourists in Japan tend to stay in Tokyo, Osaka or Kyoto, resulting in overcrowding in popular tourist spots and a strain on transportation systems.")](https://www.japantimes.co.jp/news/2023/10/18/japan/society/overtourism-prevention-plan/ "Japan unveils new overtourism countermeasures")
+  [![The Japanese Embassy in Beijing on Thursday. The embassy and other organizations have urged swift and resolute actions to protect Japanese citizens in China.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/20/422895.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "The Japanese Embassy in Beijing on Thursday. The embassy and other organizations have urged swift and resolute actions to protect Japanese citizens in China.")](https://www.japantimes.co.jp/news/2024/09/20/japan/japan-china-stabbing/ "China works to avoid rift with Japan over killing of schoolchild")
 
-[Opportunities await the bold in the Year of the Wood Dragon](https://www.japantimes.co.jp/life/2024/01/02/lifestyle/year-of-the-dragon/ "Opportunities await the bold in the Year of the Wood Dragon")
+[Shohei Ohtani records baseball's first 50-50 season with huge night in Miami](https://www.japantimes.co.jp/sports/2024/09/20/baseball/mlb/ohtani-50-50-season/ "Shohei Ohtani records baseball's first 50-50 season with huge night in Miami")
 
-  [![2024 marks the Year of the Dragon in the Chinese zodiac, with the year predicted to be a good time for fresh starts.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/01/02/271400.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "2024 marks the Year of the Dragon in the Chinese zodiac, with the year predicted to be a good time for fresh starts.")](https://www.japantimes.co.jp/life/2024/01/02/lifestyle/year-of-the-dragon/ "Opportunities await the bold in the Year of the Wood Dragon")
+  [![Shohei Ohtani connects on his 50th home run of the season during the seventh inning against the Marlins in Miami on Thursday. Ohtani became the first player in MLB history to reach 50 home runs and 50 stolen bases in the same season.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/20/422799.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Shohei Ohtani connects on his 50th home run of the season during the seventh inning against the Marlins in Miami on Thursday. Ohtani became the first player in MLB history to reach 50 home runs and 50 stolen bases in the same season.")](https://www.japantimes.co.jp/sports/2024/09/20/baseball/mlb/ohtani-50-50-season/ "Shohei Ohtani records baseball's first 50-50 season with huge night in Miami")
 
-[Don’t worry about global population collapse](https://www.japantimes.co.jp/commentary/2023/10/11/world/global-population-collapse/ "Don’t worry about global population collapse")
+[The second act of the Koizumi theater](https://www.japantimes.co.jp/news/2024/09/20/japan/politics/koizumi-junichiro-shinjiro/ "The second act of the Koizumi theater")
 
-  [![Most projections show the world will hit peak humanity in the 21st century as people choose to have smaller families and women gain power over their own reproduction.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2023/10/11/255902.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Most projections show the world will hit peak humanity in the 21st century as people choose to have smaller families and women gain power over their own reproduction.")](https://www.japantimes.co.jp/commentary/2023/10/11/world/global-population-collapse/ "Don’t worry about global population collapse")
+  [![Former Environment Minister Shinjiro Koizumi, the 43-year-old son of former Prime Minister Junichiro Koizumi, announces his candidacy for the Liberal Democratic Party presidency in Tokyo on Sept. 6.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/20/422757.JPG?v=3.1&w=400&q=100&f=jpg&t=1.2 "Former Environment Minister Shinjiro Koizumi, the 43-year-old son of former Prime Minister Junichiro Koizumi, announces his candidacy for the Liberal Democratic Party presidency in Tokyo on Sept. 6.")](https://www.japantimes.co.jp/news/2024/09/20/japan/politics/koizumi-junichiro-shinjiro/ "The second act of the Koizumi theater")
 
-[Tokyo issues warning as rare but deadly STSS bacterial infections rise](https://www.japantimes.co.jp/news/2024/03/24/japan/science-health/tokyo-issues-warning-for-bacterial-infection-disease/ "Tokyo issues warning as rare but deadly STSS bacterial infections rise")
+[Nara urges respect for sacred deer after viral abuse video sparks outcry](https://www.japantimes.co.jp/news/2024/09/20/japan/society/nara-deer-kicked-video/ "Nara urges respect for sacred deer after viral abuse video sparks outcry")
 
-  [![A colorized scanning electron micrograph of group A streptococcus bacteria ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/03/24/287951.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "A colorized scanning electron micrograph of group A streptococcus bacteria ")](https://www.japantimes.co.jp/news/2024/03/24/japan/science-health/tokyo-issues-warning-for-bacterial-infection-disease/ "Tokyo issues warning as rare but deadly STSS bacterial infections rise")
+  [![A police officer explains with a loudspeaker the correct way of interacting with the deer on July 25 at Nara Park in the city of Nara.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/20/422848.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "A police officer explains with a loudspeaker the correct way of interacting with the deer on July 25 at Nara Park in the city of Nara.")](https://www.japantimes.co.jp/news/2024/09/20/japan/society/nara-deer-kicked-video/ "Nara urges respect for sacred deer after viral abuse video sparks outcry")
 
 [Shohei Ohtani records baseball's first 50-50 season with huge night in Miami](https://www.japantimes.co.jp/sports/2024/09/20/baseball/mlb/ohtani-50-50-season/ "Shohei Ohtani records baseball's first 50-50 season with huge night in Miami")
 
@@ -566,23 +566,15 @@ Latest News
 
 ['Unprecedented' rains in quake-hit Ishikawa leave at least one dead](https://www.japantimes.co.jp/news/2024/09/21/japan/ishikawa-heavy-rain-alert/ "'Unprecedented' rains in quake-hit Ishikawa leave at least one dead")
 
-4 hours ago
+10 hours ago
 
 [Russia and China start naval exercises in Sea of Japan, agencies report](https://www.japantimes.co.jp/news/2024/09/21/world/russia-china-naval-exercises/ "Russia and China start naval exercises in Sea of Japan, agencies report")
 
-6 hours ago
-
 [Koizumi ranks as top choice in polls among lawmakers in Japan’s LDP race](https://www.japantimes.co.jp/news/2024/09/21/japan/politics/koizumi-lawmaker-favorite/ "Koizumi ranks as top choice in polls among lawmakers in Japan’s LDP race")
-
-6 hours ago
 
 [Revolution or mirage? Controversy surrounds new Alzheimer's drugs](https://www.japantimes.co.jp/news/2024/09/21/world/science-health/alzheimers-drugs-controversy/ "Revolution or mirage? Controversy surrounds new Alzheimer's drugs")
 
-9 hours ago
-
 [JR East fails to disclose data tampering for seven years](https://www.japantimes.co.jp/business/2024/09/21/jr-east-data-tampering/ "JR East fails to disclose data tampering for seven years")
-
-9 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
