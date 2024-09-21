@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-50e7669b03382e4ca6ff648a1207a433
+d5fdce602f6545203f672745e157ba9d
 
 [](# "Expand for more options")[](# "Search")
 
@@ -142,11 +142,11 @@ Terms and Conditions
 
 ### Featured Product
 
-[![6 mm green heart beads](https://sojourner.biz/images/cache/glass/HRT032.200.jpg)](https://sojourner.biz/beads/glass/6-mm-green-heart-beads.html "6 mm green heart beads")
+[![EB18 bead](https://sojourner.biz/images/cache/EB18lbl.200.jpg)](https://sojourner.biz/beads/metal/eb18-bead.html "EB18 bead")
 
-#### [6 mm green heart beads](https://sojourner.biz/beads/glass/6-mm-green-heart-beads.html "6 mm green heart beads")
+#### [EB18 bead](https://sojourner.biz/beads/metal/eb18-bead.html "EB18 bead")
 
-$2.00
+$6.50
 
 ### Best Sellers
 
