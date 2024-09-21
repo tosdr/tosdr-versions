@@ -39,11 +39,12 @@
         
         [PSTN](https://segment.com/en-us/voice) [SIP Trunking](https://segment.com/en-us/sip-trunking) [SDK](https://segment.com/en-us/voice-sdk)
         
-    * [Twilio Verify logo
+    * Twilio Verify logo
         
         **Verify**
         
-        Globally-managed multichannel 2FA and passwordless authentication](https://segment.com/en-us/verify)
+        Globally-managed multichannel 2FA and passwordless authentication
+        
     
     * * *
     
@@ -390,11 +391,12 @@ Data is collected based on search terms. [Privacy Policy](https://segment.com/e
         
         [PSTN](https://segment.com/en-us/voice) [SIP Trunking](https://segment.com/en-us/sip-trunking) [SDK](https://segment.com/en-us/voice-sdk)
         
-    * [Twilio Verify logo
+    * Twilio Verify logo
         
         **Verify**
         
-        Globally-managed multichannel 2FA and passwordless authentication](https://segment.com/en-us/verify)
+        Globally-managed multichannel 2FA and passwordless authentication
+        
     
     * * *
     
