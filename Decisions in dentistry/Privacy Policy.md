@@ -182,6 +182,13 @@ This Privacy Statement was last revised on and is effective as of September 1, 2
 
 [### decisionsindentistry](https://www.instagram.com/decisionsindentistry/ "@decisionsindentistry")
 
+[A longitudinal study published in Scientific Repor ![A longitudinal study published in Scientific Reports reveals how targeted oral hygiene training can significantly improve dental health in visually impaired youth, matching the progress of their sighted peers. The findings emphasize the importance of tailored educational interventions in overcoming the unique challenges faced by this population. Link in bio.⁠
+⁠
+⁠
+---⁠
+⁠
+#dentistry #dentist #dental #smile #dentista #teeth #cosmeticdentistry #dentistryworld #dentalphotography #odonto #tooth #dentistrylife #orthodontics #dentalcare #dentalhygienist #dentalimplants #oralhealth #veneers #dentalstudent #dentalassistant #dentalclinic #dentistlife #dentalhygiene #teethwhitening #oralsurgery #dds #endodontics #continuingeducation #education](https://decisionsindentistry.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/DAJDsrLsnz0/) 
+
 [In this episode of The Art of Dental Finance and M ![In this episode of The Art of Dental Finance and Management, host Art Wiederman is joined by Dr. Martin Mendelson for a conversation about the transformative power of positivity, specifically in dental practices. Dr. Mendelson shares his personal journey from dentist to coach and the mindset shifts that allowed him to turn a devastating diagnosis into a fulfilling career. Dr. Mendelson introduces the concept of T.E.A.M. — how our Thoughts drive our Emotions, which drive our Actions, which Manifest our results. He also discusses the importance of curiosity and open communication in creating a positive workplace culture. Link in bio.⁠
 ⁠
 ⁠
@@ -225,13 +232,6 @@ Link in bio.⁠
 ⁠
 #dentistry #dentist #dental #smile #dentista #teeth #cosmeticdentistry #dentistryworld #dentalphotography #odonto #tooth #dentistrylife #orthodontics #dentalcare #dentalhygienist #dentalimplants #oralhealth #veneers #dentalstudent #dentalassistant #dentalclinic #dentistlife #dentalhygiene #teethwhitening #oralsurgery #dds #endodontics #continuingeducation #education](https://decisionsindentistry.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/C_8LundNI1U/) 
 
-[A new study from Umeå University reveals that ind ![A new study from Umeå University reveals that individuals with periodontitis have distinct protein profiles in their blood, which could serve as biomarkers for the disease. These findings provide potential pathways for the development of personalized treatments and preventive methods for periodontitis. Link in bio.⁠
-⁠
-⁠
----⁠
-⁠
-#dentistry #dentist #dental #smile #dentista #teeth #cosmeticdentistry #dentistryworld #dentalphotography #odonto #tooth #dentistrylife #orthodontics #dentalcare #dentalhygienist #dentalimplants #oralhealth #veneers #dentalstudent #dentalassistant #dentalclinic #dentistlife #dentalhygiene #teethwhitening #oralsurgery #dds #endodontics #continuingeducation #education](https://decisionsindentistry.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/C_5tzBkN3AR/) 
-
 [Load More](javascript:void(0);) [Follow on Instagram](https://www.instagram.com/decisionsindentistry/)
 
 E-Mail Newsletter
@@ -264,7 +264,7 @@ Consent\*
 
 Current Issue
 
-[![](https://decisionsindentistry.com/wp-content/uploads/2024/07/decisions-thumbnail.jpg)](https://decisionsindentistry.com/current-issue/?issue=june-july-2024)
+[![](https://decisionsindentistry.com/wp-content/uploads/2024/08/did-08-09-thumb.jpg)](https://decisionsindentistry.com/current-issue/?issue=aug-sep-2024)
 
 * [Home](https://decisionsindentistry.com/)
 * [Issue Archive](https://decisionsindentistry.com/issue-archive/)
