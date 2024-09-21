@@ -124,6 +124,6 @@ If you have questions about (or suggestions for!) this policy, please [contact u
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-Thanks you for your professional handling of the matter. Will certainly recommend and use you again.
+Amazing service!
 
-Ray Stevens
+Guy Cracknell
