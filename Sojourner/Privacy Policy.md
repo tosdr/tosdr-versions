@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-4a638af3f08aaf57776207b78ca908fd
+df04783780d6ddbc4f4aee3bb3821b98
 
 [](# "Expand for more options")[](# "Search")
 
@@ -171,11 +171,11 @@ Sojourner may revise this policy as needed by updating this posting.
 
 ### Featured Product
 
-[![Topaz Swarovski rivoli clasp](https://www.sojourner.biz/images/cache/SKU0506variations.200.jpg)](https://www.sojourner.biz/clasps/swarovski/topaz-swarovski-rivoli-clasp.html "Topaz Swarovski rivoli clasp")
+[![Sapphire blue and gold bicone beads](https://www.sojourner.biz/images/cache/glass/GL0133.200.jpg)](https://www.sojourner.biz/beads/glass/sapphire-blue-and-gold-bicone-beads.html "Sapphire blue and gold bicone beads")
 
-#### [Topaz Swarovski rivoli clasp](https://www.sojourner.biz/clasps/swarovski/topaz-swarovski-rivoli-clasp.html "Topaz Swarovski rivoli clasp")
+#### [Sapphire blue and gold bicone beads](https://www.sojourner.biz/beads/glass/sapphire-blue-and-gold-bicone-beads.html "Sapphire blue and gold bicone beads")
 
-$36.00
+$15.00
 
 ### Best Sellers
 
