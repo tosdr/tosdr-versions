@@ -263,7 +263,7 @@ Select State\*AlabamaAlaskaArizonaArkansasCaliforniaColoradoConnecticutDelawareD
 
 Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. They may contact me by email or telephone (including phone calls, text messages, autodialed / auto-selected or pre-recorded calls). I understand that message and data rates may apply and that consent to such contact is not required for use of these services. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), [Anti Fraud Policy](https://www.pintas.com/anti-fraud-policy/)[Anti Fraud Policy](https://www.pintas.com/anti-fraud-policy-pr/) and [online Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/), including its mandatory arbitration provision. I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
 
-Email
+Name
 
 This field is for validation purposes and should be left unchanged.
 
@@ -273,17 +273,17 @@ This field is for validation purposes and should be left unchanged.
 
 #### Frequently Asked Questions
 
-[![What is mesothelioma cancer caused by?](https://www.pintas.com/wp-content/uploads/2020/09/illinois-mesothelioma-lawyer.jpg "What Is Mesothelioma Cancer Caused By?")](https://www.pintas.com/practice-areas/lung-cancer/mesothelioma/what-causes-mesothelioma "What Is Mesothelioma Cancer Caused By?")
+[![Court appearance for church abuse claims?](https://www.pintas.com/wp-content/uploads/2023/04/sandra-dempsey-VVWPwtuhGI-unsplash-300x225.jpg "Court Appearance for Church Abuse Claims?")](https://www.pintas.com/lawsuit/mormon-church-sex-abuse/will-i-have-to-go-to-court-for-a-sex-abuse-claim-against-the-mormon-church/ "Court Appearance for Church Abuse Claims?")
 
-[#### What Is Mesothelioma Cancer Caused By?](https://www.pintas.com/practice-areas/lung-cancer/mesothelioma/what-causes-mesothelioma)
+[#### Court Appearance for Church Abuse Claims?](https://www.pintas.com/lawsuit/mormon-church-sex-abuse/will-i-have-to-go-to-court-for-a-sex-abuse-claim-against-the-mormon-church/)
 
-[![Tactics of emotionally abusive care staff](https://www.pintas.com/wp-content/uploads/2020/09/nursing-home-abuse-lawyer-what-are-some-tactics-that-emotionally-abusive-nursing-home-employees-use-scaled.jpg "Tactics of Emotionally Abusive Care Staff")](https://www.pintas.com/faq/what-are-some-tactics-that-emotionally-abusive-nursing-home-employees-use/ "Tactics of Emotionally Abusive Care Staff")
+[![What are the misconceptions about a nursing home?](https://www.pintas.com/wp-content/uploads/2020/09/nursing-home-abuse-lawyer-what-are-the-misconceptions-about-a-nursing-home-scaled.jpg "What Are the Misconceptions About a Nursing Home?")](https://www.pintas.com/faq/what-are-the-misconceptions-about-a-nursing-home/ "What Are the Misconceptions About a Nursing Home?")
 
-[#### Tactics of Emotionally Abusive Care Staff](https://www.pintas.com/faq/what-are-some-tactics-that-emotionally-abusive-nursing-home-employees-use/)
+[#### What Are the Misconceptions About a Nursing Home?](https://www.pintas.com/faq/what-are-the-misconceptions-about-a-nursing-home/)
 
-[![Best hospitals for lung cancer treatment](https://www.pintas.com/wp-content/uploads/2020/04/lung-cancer-best-hospitals-for-lung-cancer-treatment.jpg "Best Hospitals for Lung Cancer Treatment")](https://www.pintas.com/practice-areas/lung-cancer/best-hospitals-for-lung-cancer-treatment/ "Best Hospitals for Lung Cancer Treatment")
+[![Is lung cancer genetic or hereditary?](https://www.pintas.com/wp-content/uploads/2020/11/is-lung-cancer-genetic-or-hereditary.jpg "Is Lung Cancer Genetic or Hereditary?")](https://www.pintas.com/lung-cancer/is-lung-cancer-genetic-or-hereditary/ "Is Lung Cancer Genetic or Hereditary?")
 
-[#### Best Hospitals for Lung Cancer Treatment](https://www.pintas.com/practice-areas/lung-cancer/best-hospitals-for-lung-cancer-treatment/)
+[#### Is Lung Cancer Genetic or Hereditary?](https://www.pintas.com/lung-cancer/is-lung-cancer-genetic-or-hereditary/)
 
 ### Injured?  
 Tell Us What Happened.
@@ -306,7 +306,7 @@ message
 
 Yes. Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. They may contact me by email or telephone (including phone calls, text messages, autodialed / auto-selected or pre-recorded calls). I understand that message and data rates may apply and that consent to such contact is not required for use of these services. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/), [Anti Fraud Policy](https://www.pintas.com/anti-fraud-policy/) and [online Terms](https://www.pintas.com/website-terms-of-use/), including its mandatory arbitration provision.
 
-Phone
+Email
 
 This field is for validation purposes and should be left unchanged.
 
