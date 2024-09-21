@@ -299,13 +299,13 @@
 
 [Все новости](https://er.ru/activity/news)
 
-[![В регистр доноров костного мозга вступили еще 100 активистов «Молодой Гвардии Единой России»](https://cdn.er.ru/media/news/September2024/R82400pS10Foja917Suc-small.jpg)](https://er.ru/activity/news/v-registr-donorov-kostnogo-mozga-vstupili-eshe-100-aktivistov-molodoj-gvardii-edinoj-rossii)
+[![В регистр доноров костного мозга вступили ещё 100 активистов «Молодой Гвардии Единой России»](https://cdn.er.ru/media/news/September2024/R82400pS10Foja917Suc-small.jpg)](https://er.ru/activity/news/v-registr-donorov-kostnogo-mozga-vstupili-eshyo-100-aktivistov-molodoj-gvardii-edinoj-rossii)
 
-[В регистр доноров костного мозга вступили еще 100 активистов «Молодой Гвардии Единой России»](https://er.ru/activity/news/v-registr-donorov-kostnogo-mozga-vstupili-eshe-100-aktivistov-molodoj-gvardii-edinoj-rossii)
+[В регистр доноров костного мозга вступили ещё 100 активистов «Молодой Гвардии Единой России»](https://er.ru/activity/news/v-registr-donorov-kostnogo-mozga-vstupili-eshyo-100-aktivistov-molodoj-gvardii-edinoj-rossii)
 
-[#МГЕР](https://er.ru/activity/news?tags%5B0%5D=47) [#Демидов](https://er.ru/activity/news?tags%5B0%5D=8672) [#донорство](https://er.ru/activity/news?tags%5B0%5D=647) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#акция](https://er.ru/activity/news?tags%5B0%5D=238)
+[#МГЕР](https://er.ru/activity/news?tags%5B0%5D=47) [#Демидов](https://er.ru/activity/news?tags%5B0%5D=8672) [#донорство](https://er.ru/activity/news?tags%5B0%5D=647) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#акция](https://er.ru/activity/news?tags%5B0%5D=238) [#костныймозг](https://er.ru/activity/news?tags%5B0%5D=134226)
 
-Сегодня 15:43
+21.09.24
 
 [![При поддержке «Единой России» в Санкт-Петербурге высадили аллею в честь 50-летия с начала строительства Байкало-Амурской магистрали](https://cdn.er.ru/media/news/September2024/JPNwPXekngdrGHNiHIRE-small.jpg)](https://er.ru/activity/news/pri-podderzhke-edinoj-rossii-v-sankt-peterburge-vysadili-alleyu-v-chest-50-letiya-s-nachala-stroitelstva-bajkalo-amurskoj-magistrali)
 
