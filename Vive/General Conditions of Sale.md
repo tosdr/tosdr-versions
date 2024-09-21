@@ -37,7 +37,7 @@ Search
 
 [VIVE Accessories](https://www.vive.com/uk/accessory/)
 
-[VIVE Accessories](https://www.vive.com/uk/accessory/) [Ultimate Tracker New](https://www.vive.com/uk/accessory/vive-ultimate-tracker/) [Full Face Tracker New](https://www.vive.com/uk/accessory/vive-full-face-tracker/) [Deluxe pack](https://www.vive.com/uk/accessory/deluxe-pack-for-vive-xr-elite/) [Tracker (3.0)](https://www.vive.com/uk/accessory/tracker3/) [Base Station 2.0](https://www.vive.com/uk/accessory/base-station2/)
+[VIVE Accessories](https://www.vive.com/uk/accessory/) [Ultimate Tracker New](https://www.vive.com/uk/accessory/vive-ultimate-tracker/) [Full Face Tracker New](https://www.vive.com/uk/accessory/vive-full-face-tracker/) [Deluxe Pack](https://www.vive.com/uk/accessory/deluxe-pack-for-vive-xr-elite/) [Tracker (3.0)](https://www.vive.com/uk/accessory/tracker3/) [Base Station 2.0](https://www.vive.com/uk/accessory/base-station2/)
 
 [All products](https://www.vive.com/uk/product/)
 
