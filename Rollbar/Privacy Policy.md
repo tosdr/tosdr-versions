@@ -576,7 +576,7 @@ CONTACT
 
 Your personal information is controlled by Rollbar, Inc. Have questions or concerns about the Services or your privacy? Contact our Data Protection Officer at [\[email protected\]](http://google.com/). If they can’t answer your question, you have the right to contact your local data protection supervisory authority.
 
-Updated 9 months ago
+Updated 10 months ago
 
 * * *
 
