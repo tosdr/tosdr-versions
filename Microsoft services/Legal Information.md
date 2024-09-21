@@ -43,7 +43,9 @@ Skype
     * [New to Skype? Sign up](https://go.skype.com/signup?client_id=578134&redirect_uri=https%3A%2F%2Fweb.skype.com&source=scomnav)
     * [Sign out](https://go.skype.com/logout)
 
-     
+  
+
+      
 
 Skype Legal
 ===========
