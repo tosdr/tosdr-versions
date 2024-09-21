@@ -39,9 +39,9 @@ editorial \_
 
 coverstory \_
 
-[![The Newest Baluchon Tiny House Dazzles With Impeccable Style and Sumptuous Comfort](https://s1.cdn.autoevolution.com/images/news/the-newest-baluchon-tiny-house-dazzles-with-impeccable-style-and-sumptuous-comfort-240080-5.jpg "The Newest Baluchon Tiny House Dazzles With Impeccable Style and Sumptuous Comfort")
+[![Drag Race: +900-HP Audi RS E-Tron EV Gets Massacred by the All-New Audi ICE Superbike](https://s1.cdn.autoevolution.com/images/news/drag-race-900-hp-audi-rs-e-tron-ev-gets-massacred-by-the-all-new-audi-ice-superbike-240122-5.jpg "Drag Race: +900-HP Audi RS E-Tron EV Gets Massacred by the All-New Audi ICE Superbike")
 
-The Newest Baluchon Tiny House Dazzles With Impeccable Style and Sumptuous Comfort](https://www.autoevolution.com/news/the-newest-baluchon-tiny-house-dazzles-with-impeccable-style-and-sumptuous-comfort-240080.html)
+Drag Race: +900-HP Audi RS E-Tron EV Gets Massacred by the All-New Audi ICE Superbike](https://www.autoevolution.com/news/drag-race-900-hp-audi-rs-e-tron-ev-gets-massacred-by-the-all-new-audi-ice-superbike-240122.html)
 
 how-to \_
 
