@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-df04783780d6ddbc4f4aee3bb3821b98
+a63047f69c04dd5ff830ba3051aa27a0
 
 [](# "Expand for more options")[](# "Search")
 
@@ -171,11 +171,11 @@ Sojourner may revise this policy as needed by updating this posting.
 
 ### Featured Product
 
-[![Sapphire blue and gold bicone beads](https://www.sojourner.biz/images/cache/glass/GL0133.200.jpg)](https://www.sojourner.biz/beads/glass/sapphire-blue-and-gold-bicone-beads.html "Sapphire blue and gold bicone beads")
+[![12 mm by 12 mm midnight blue faceted disc beads](https://www.sojourner.biz/images/cache/glass/GL0184.200.jpg)](https://www.sojourner.biz/beads/glass/12-mm-by-12-mm-midnight-blue-faceted-disc-beads.html "12 mm by 12 mm midnight blue faceted disc beads")
 
-#### [Sapphire blue and gold bicone beads](https://www.sojourner.biz/beads/glass/sapphire-blue-and-gold-bicone-beads.html "Sapphire blue and gold bicone beads")
+#### [12 mm by 12 mm midnight blue faceted disc beads](https://www.sojourner.biz/beads/glass/12-mm-by-12-mm-midnight-blue-faceted-disc-beads.html "12 mm by 12 mm midnight blue faceted disc beads")
 
-$15.00
+$10.00
 
 ### Best Sellers
 
@@ -187,10 +187,10 @@ $15.00
     $16.00
 4. [Swarovski crystal AB clasp](https://www.sojourner.biz/clasps/swarovski/swarovski-crystal-ab-clasp.html "Swarovski crystal AB clasp")  
     $28.00
-5. [White pearl toggle clasp](https://www.sojourner.biz/clasps/toggles/white-pearl-toggle-clasp.html "White pearl toggle clasp")  
-    $28.00
-6. [Square pearl clasp](https://www.sojourner.biz/clasps/pearl/square-pearl-clasp.html "Square pearl clasp")  
+5. [Square pearl clasp](https://www.sojourner.biz/clasps/pearl/square-pearl-clasp.html "Square pearl clasp")  
     $16.00
+6. [White pearl toggle clasp](https://www.sojourner.biz/clasps/toggles/white-pearl-toggle-clasp.html "White pearl toggle clasp")  
+    $28.00
 7. [Neon blue Swarovski polka dot clasp](https://www.sojourner.biz/clasps/swarovski/neon-blue-swarovski-polka-dot-clasp.html "Neon blue Swarovski polka dot clasp")  
     $15.00
 8. [Red bar clasp](https://www.sojourner.biz/clasps/glass/red-bar-clasp.html "Red bar clasp")  
