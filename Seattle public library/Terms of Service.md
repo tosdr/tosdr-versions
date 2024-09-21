@@ -252,6 +252,7 @@ If you have a question or need help, [Ask Us](https://www.spl.org/using-the-libr
 Common Tasks
 ------------
 
+*  [![](/Seattle-Public-Library/images/icons/common-tasks/icons_115x115_1-18_view-calendar.png) View Event Calendar](https://www.spl.org/event-calendar "Event Calendar")
 *  [![](/Seattle-Public-Library/images/icons/common-tasks/icons_115x115_1-18_find-a-job.png) Find Library jobs](https://www.spl.org/about-us/library-careers "Library Careers")
 
 [Get aLibrary Card](https://www.spl.org/using-the-library/get-started/get-started-in-english/en-get-started-with-a-library-card/en-library-card-application "Library Card Application")
