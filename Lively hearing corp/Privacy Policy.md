@@ -6,11 +6,11 @@ The Enhance Select 500 has arrived! [Shop now](https://www.listenlively.com/prod
 
 The Enhance Select 500 has arrived! [Shop now](https://www.listenlively.com/product/enhanceselect500)
 
-Try risk-free for 100 days. [Shop now](https://www.listenlively.com/product)
+100-day risk-free trial, US-based support!
 
-Try Enhance Select hearing aids risk-free for 100 days. [Shop now](https://www.listenlively.com/product)
+100-day risk-free trial and US-based customer support!
 
-Try Enhance Select hearing aids risk-free for 100 days. [Shop now](https://www.listenlively.com/product)
+100-day risk-free trial and US-based customer support!
 
 [Jabra EnhanceTM](https://www.listenlively.com/)
 
