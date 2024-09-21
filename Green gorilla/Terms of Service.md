@@ -10,6 +10,8 @@
 
 ![Traffic Roots Audience Pixel](https://service.trafficroots.com/audience/85b2d05e3b)
 
+**ANNIVERSARY SALE: 30% OFF WITH CODE: ELEVEN**
+
 [FREE SHIPPING ON ORDERS OVER $75](https://ilovegreengorilla.com/shipping-and-returns/)
 
 [REFER A FRIEND – GIVE $20, GET $20](https://ilovegreengorilla.com/refer-a-friend/) 
