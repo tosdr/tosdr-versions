@@ -400,35 +400,35 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
- [![Fort Worth Police Officer William Martin arrested for off-duty shooting, released on bond shortly after](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/william-martin-OIS-scene.png?ve=1&tl=1)
+ [![Trump campaigns in North Carolina without key GOP ally Mark Robinson amid scandal](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/GettyImages-2166184886.jpg?ve=1&tl=1)
 
- ![Fort Worth Police Officer William Martin arrested for off-duty shooting, released on bond shortly after](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/592/333/william-martin-OIS-scene.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/william-martin-arrested-off-duty-shooting-fort-worth-police)
+ ![Trump campaigns in North Carolina without key GOP ally Mark Robinson amid scandal](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/592/333/GettyImages-2166184886.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/trump-campaigns-north-carolina-without-key-gop-ally-mark-robinson-amid-scandal)
 
-### [Fort Worth Police Officer William Martin arrested for off-duty shooting, released on bond shortly after](https://www.fox4news.com/news/william-martin-arrested-off-duty-shooting-fort-worth-police)
+### [Trump campaigns in North Carolina without key GOP ally Mark Robinson amid scandal](https://www.fox4news.com/news/trump-campaigns-north-carolina-without-key-gop-ally-mark-robinson-amid-scandal)
 
- [![More than 3,000 chemicals enter the body through food packaging, study finds](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/food-packaging-getty.jpg?ve=1&tl=1)
+ [![Dallas County investigators looking for hit-and-run driver](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/hit-and-run-truck.jpg?ve=1&tl=1)
 
- ![More than 3,000 chemicals enter the body through food packaging, study finds](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/592/333/food-packaging-getty.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/3000-chemicals-enter-body-through-food-packaging-study)
+ ![Dallas County investigators looking for hit-and-run driver](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/592/333/hit-and-run-truck.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/dallas-county-hit-and-run-i-20-highway-67)
 
-### [More than 3,000 chemicals enter the body through food packaging, study finds](https://www.fox4news.com/news/3000-chemicals-enter-body-through-food-packaging-study)
+### [Dallas County investigators looking for hit-and-run driver](https://www.fox4news.com/news/dallas-county-hit-and-run-i-20-highway-67)
 
- [![Georgia State Election Board approves new hand-counting ballot rule](https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2024/09/32/18/3b6fa473-GettyImages-2071909333.jpg?ve=1&tl=1)
+ [![David Graham, ‘Thunderbirds’ and ‘Peppa Pig’ voice actor, dead at 99](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/GettyImages-517555928-a.jpg?ve=1&tl=1)
 
- ![Georgia State Election Board approves new hand-counting ballot rule](https://images.foxtv.com/images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2024/09/32/18/592/333/3b6fa473-GettyImages-2071909333.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/georgia-state-election-board-last-minute-voting-rule-changes)
+ ![David Graham, ‘Thunderbirds’ and ‘Peppa Pig’ voice actor, dead at 99](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/592/333/GettyImages-517555928-a.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/david-graham-thunderbirds-peppa-pig-voice-actor-dead-99)
 
-### [Georgia State Election Board approves new hand-counting ballot rule](https://www.fox4news.com/news/georgia-state-election-board-last-minute-voting-rule-changes)
+### [David Graham, ‘Thunderbirds’ and ‘Peppa Pig’ voice actor, dead at 99](https://www.fox4news.com/news/david-graham-thunderbirds-peppa-pig-voice-actor-dead-99)
 
- [![4 Lewisville ISD students arrested for making school threats](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/P-ALEX-LEWISVILLE-SCHOOL-THREAT-5P_00.00.35.04.jpg?ve=1&tl=1)
+ [![Terrified passengers evacuate down emergency slides after vape explodes on plane](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/easyjet.jpg?ve=1&tl=1)
 
- ![4 Lewisville ISD students arrested for making school threats](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/592/333/P-ALEX-LEWISVILLE-SCHOOL-THREAT-5P_00.00.35.04.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/4-lewisville-isd-students-arrested-school-threats)
+ ![Terrified passengers evacuate down emergency slides after vape explodes on plane](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/592/333/easyjet.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/terrified-passengers-evacuate-down-emergency-slides-after-vape-explodes-plane)
 
-### [4 Lewisville ISD students arrested for making school threats](https://www.fox4news.com/news/4-lewisville-isd-students-arrested-school-threats)
+### [Terrified passengers evacuate down emergency slides after vape explodes on plane](https://www.fox4news.com/news/terrified-passengers-evacuate-down-emergency-slides-after-vape-explodes-plane)
 
- [![Fort Worth family mourns loved one 1 year later as accused drunk driver remains free on bond](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/517d3b6e-P-DIONNE-FW-CHISHOLM-TRAIL-PKWY-530P_00.00.26.12.jpg?ve=1&tl=1)
+ [![Dallas shooting: Victim shoots attacker in Far East Dallas](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/092124-Tres-Logos-LN-KDFWEME002_09_13_28_mpg_00.03.08.44.jpg?ve=1&tl=1)
 
- ![Fort Worth family mourns loved one 1 year later as accused drunk driver remains free on bond](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/592/333/517d3b6e-P-DIONNE-FW-CHISHOLM-TRAIL-PKWY-530P_00.00.26.12.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/aaron-roberts-dwi-hearing-sept-2024-brianna-lopez-chisholm-trail-wrong-way-crash)
+ ![Dallas shooting: Victim shoots attacker in Far East Dallas](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/592/333/092124-Tres-Logos-LN-KDFWEME002_09_13_28_mpg_00.03.08.44.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/far-east-dallas-shooting-tres-logos-lane)
 
-### [Fort Worth family mourns loved one 1 year later as accused drunk driver remains free on bond](https://www.fox4news.com/news/aaron-roberts-dwi-hearing-sept-2024-brianna-lopez-chisholm-trail-wrong-way-crash)
+### [Dallas shooting: Victim shoots attacker in Far East Dallas](https://www.fox4news.com/news/far-east-dallas-shooting-tres-logos-lane)
 
 ###### [News](https://www.fox4news.com/news)
 
