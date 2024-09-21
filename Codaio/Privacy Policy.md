@@ -273,13 +273,13 @@ Third parties, in our discretion, to: (i) satisfy any applicable law or regulati
 
 Additional Limits on Use of Your Google Information
 
-Our Service uses certain Google services, such as the Google Gmail API. You may connect your Gmail account using OAuth authentication, a secure mechanism to give Coda access to your Google account data without letting it know your password. Notwithstanding anything else in this Privacy Statement to the contrary, if you provide Coda access to your Google Gmail data, Coda’s use of that Google Gmail data will be subject to the following additional restrictions:
+Our Service uses certain Google services, such as the Google Workspace APIs. You may connect your Google account using OAuth authentication, a secure mechanism to give Coda access to your Google account data without letting it know your password. Notwithstanding anything else in this Privacy Statement to the contrary, if you provide Coda access to your Google account data, Coda’s use of that data will be subject to the following additional restrictions:
 
-The Services will only use access to read, write, modify, or control email messages, metadata, headers, and settings to provide a web email client that allows users to compose, send, read, and process emails.
+The Services will only use Google Gmail API to access to read, write, modify, or control email messages, metadata, headers, and settings to provide a web email client that allows users to compose, send, read, and process emails.
 
-The Services will not transfer this Gmail data to others unless doing so is necessary (i) to provide and improve the features of the Services we provide to you, (ii) to comply with applicable law, or (iii) as part of a merger, acquisition, or sale of assets.
+The Services will not transfer this data to others unless doing so is necessary (i) to provide and improve the features of the Services we provide to you, (ii) to comply with applicable law, or (iii) as part of a merger, acquisition, or sale of assets.
 
-We will not use or share this Gmail data for serving advertising, including retargeting, personalized, or interest-based advertising.
+We will not use or share this data for serving advertising, including retargeting, personalized, or interest-based advertising.
 
 We will not allow humans to read this data unless:
 
@@ -291,7 +291,9 @@ it is necessary to comply with applicable law, or
 
 the data has been aggregated and anonymized and is used only for our own internal operations purposes.
 
-Our Service's use of information received, and the Service's transfer of information to any other app, from Google APIs will adhere to
+The Services will not use this data to develop, improve or train generalized AI and/or ML models.
+
+Our Service's use of information received, and the Service's transfer of information to any other app, from Google Workspace APIs will adhere to
 
 [Google's Limited Use Requirements](https://developers.google.com/terms/api-services-user-data-policy#additional_requirements_for_specific_api_scopes)
 
@@ -640,7 +642,7 @@ Copyright © 2024 Coda. All rights reserved.[Privacy](https://coda.io/trust/priv
 Want to print your doc?  
 This is not the way.
 
-![](https://cdn.coda.io/assets/901f8c9abc65/img/import_google_docs.png)
+![](https://cdn.coda.io/assets/4eec58812ced/img/import_google_docs.png)
 
 Try clicking the ⋯ next to your doc name or using a keyboard shortcut (
 
