@@ -85,11 +85,11 @@ Top downloads
 
 Latest releases
 
+* [Train Sim Activity Pack](https://www.myabandonware.com/game/train-sim-activity-pack-rzt)
+* [Euro Loco](https://www.myabandonware.com/game/euro-loco-rzs)
 * [101 Kid's Brainy Games](https://www.myabandonware.com/game/101-kid-s-brainy-games-rzr)
 * [Invader's Revenge](https://www.myabandonware.com/game/invader-s-revenge-sfw)
 * [M.A.C.H. 3](https://www.myabandonware.com/game/m-a-c-h-3-sfv)
-* [Mace: The Dark Age](https://www.myabandonware.com/game/mace-the-dark-age-sfu)
-* [Lazer Command](https://www.myabandonware.com/game/lazer-command-sft)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [Facebook](https://www.facebook.com/myabandonware) or [X (Twitter)](https://x.com/myabandonware)
