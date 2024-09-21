@@ -34,11 +34,11 @@ Login Stay logged in
 
 Latest Forum Topics
 
-* [Formulate a foreign policy doctrine t… (102)](https://forum.nationstates.net/viewtopic.php?t=554840&f=25&view=unread#unread ""Formulate a foreign policy doctrine towards AN" (102 posts)")
-* [What impression does AN's banner give… (239)](https://forum.nationstates.net/viewtopic.php?t=553826&f=25&view=unread#unread ""What impression does AN's banner give you?" (239 posts)")
-* [The Collective Security League Assemb… (12,513)](https://forum.nationstates.net/viewtopic.php?t=548406&f=5&view=unread#unread ""The Collective Security League Assembly [IC]" (12,513 posts)")
-* [2023 Israel–Hamas War Thread mk3 (7,397)](https://forum.nationstates.net/viewtopic.php?t=549839&f=20&view=unread#unread ""2023 Israel–Hamas War Thread mk3" (7,397 posts)")
-* [Transformers: Electric Trepidation (7,852)](https://forum.nationstates.net/viewtopic.php?t=548040&f=20&view=unread#unread ""Transformers: Electric Trepidation" (7,852 posts)")
+* [American Politics: (Pumpkin)Spicy Sal… (7,561)](https://forum.nationstates.net/viewtopic.php?t=553897&f=20&view=unread#unread ""American Politics: (Pumpkin)Spicy Salaciousness in NC" (7,561 posts)")
+* [Why is Math Hated? (122)](https://forum.nationstates.net/viewtopic.php?t=555518&f=20&view=unread#unread ""Why is Math Hated?" (122 posts)")
+* [What triggers you about the AN? (7,859)](https://forum.nationstates.net/viewtopic.php?t=535499&f=25&view=unread#unread ""What triggers you about the AN?" (7,859 posts)")
+* [Compliment the Above Nation III (6,982)](https://forum.nationstates.net/viewtopic.php?t=513965&f=25&view=unread#unread ""Compliment the Above Nation III" (6,982 posts)")
+* [An Exploration Mission (Closed; Att'n… (2,631)](https://forum.nationstates.net/viewtopic.php?t=298914&f=5&view=unread#unread ""An Exploration Mission (Closed; Att'n Vallermoore)" (2,631 posts)")
 
 Advertisement
 
