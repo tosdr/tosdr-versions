@@ -1777,6 +1777,8 @@ What do top resumes look like? Check out these expertly-written samples:
 
 [Senior Finance Manager](https://cvcompiler.com/senior-finance-manager-resume-examples)
 
+[IT Support Analyst](https://cvcompiler.com/it-support-analyst-resume-examples)
+
 ![Upload resume illustration](uploads-pre-acq/img/upload-illustration.svg)
 
 ### Upload  
