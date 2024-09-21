@@ -1,4 +1,4 @@
-![](https://p.alocdn.com/c/mm7och2x/a/etarget/p.gif?label=journeyhlthlife)                       
+![](https://p.alocdn.com/c/mm7och2x/a/etarget/p.gif?label=journeyhlthlife)                  
 
 [Skip to content](#MainContent)
 
@@ -638,7 +638,7 @@ Sort Most RecentOldestMost HelpfulPhotos & VideosHighest RatingLowest RatingLeas
     
     Was this helpful?
     
-    Yes, this review was helpful 1 person voted yesNo, this review was not helpful 0 people voted no
+    Yes, this review was helpful 2 people voted yesNo, this review was not helpful 0 people voted no
     
 * **Thom H.**
     
@@ -690,7 +690,7 @@ Sort Most RecentOldestMost HelpfulPhotos & VideosHighest RatingLowest RatingLeas
     
     Was this helpful?
     
-    Yes, this review was helpful 3 people voted yesNo, this review was not helpful 0 people voted no
+    Yes, this review was helpful 4 people voted yesNo, this review was not helpful 0 people voted no
     
     **JH** 
     
@@ -737,7 +737,7 @@ Sort Most RecentOldestMost HelpfulPhotos & VideosHighest RatingLowest RatingLeas
     
     Was this helpful?
     
-    Yes, this review was helpful 17 people voted yesNo, this review was not helpful 16 people voted no
+    Yes, this review was helpful 18 people voted yesNo, this review was not helpful 16 people voted no
     
 * **Dale E. W.**
     
@@ -767,7 +767,7 @@ Sort Most RecentOldestMost HelpfulPhotos & VideosHighest RatingLowest RatingLeas
     
     Was this helpful?
     
-    Yes, this review was helpful 37 people voted yesNo, this review was not helpful 8 people voted no
+    Yes, this review was helpful 38 people voted yesNo, this review was not helpful 8 people voted no
     
     **JH** 
     
