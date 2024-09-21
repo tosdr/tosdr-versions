@@ -388,21 +388,21 @@ Courses from [1000+ universities](https://www.classcentral.com/universities)
 
 [The Report](https://www.classcentral.com/report/)
 
-[![](https://ccweb.imgix.net/https%3A%2F%2Fwww.classcentral.com%2Freport%2F2u-edx-bankruptcy%2F2u-bankruptcy-banner-triple-failure%2F?auto=format&ixlib=php-4.1.0&s=b93d534e7b15fcd8ebdf6e355aa7a6ef)](https://www.classcentral.com/report/2u-edx-bankruptcy/)
+[![](https://ccweb.imgix.net/https%3A%2F%2Fwww.classcentral.com%2Freport%2Fcalifornia-community-colleges-fall-2024%2Fcollection-california-community-college-online-courses%2F?auto=format&ixlib=php-4.1.0&s=9b5fc403d58ab554e2b91b1744715829)](https://www.classcentral.com/report/california-community-colleges-fall-2024/)
 
-#### [Harvard and MIT’s $800 Million Mistake: The Triple Failure of 2U, edX, and Axim Collaborative](https://www.classcentral.com/report/2u-edx-bankruptcy/)
+#### [3000+ Online Courses from California Community Colleges (Fall 2024)](https://www.classcentral.com/report/california-community-colleges-fall-2024/)
 
-The future of Coursera’s only credible alternative for universities rests in the hands of 2U’s creditors.
+Class Central experiments with cataloging online courses from California Community Colleges, offering diverse, affordable, and credit-worthy learning opportunities.
 
-[Dhawal Shah](https://www.classcentral.com/report/author/dhawal/) Aug 26, 2024
+[Dhawal Shah](https://www.classcentral.com/report/author/dhawal/) Sep 19, 2024
 
 ##### Latest
 
-1. [10 Best Free Artificial Intelligence Courses for 2024](https://www.classcentral.com/report/best-ai-courses/)
-2. [\[2024\] 250 Top Domestika Courses of All Time](https://www.classcentral.com/report/domestika-top-courses/)
-3. [\[2024\] 150+ Psychology Courses You Can Take for Free](https://www.classcentral.com/report/psychology-free-online-courses/)
-4. [Layoffs Hit Udemy: 20% Out as Some Jobs Move Overseas](https://www.classcentral.com/report/udemy-restructures-layoffs-offshoring/)
-5. [7 Best Online First Aid Courses and Sites for 2024](https://www.classcentral.com/report/best-first-aid-courses/)
+1. [8 Best Adobe Illustrator Courses for Beginners for 2024](https://www.classcentral.com/report/best-adobe-illustrator-beginner-courses/)
+2. [7 Best Adobe Animate Courses for 2024: Master 2D Animation](https://www.classcentral.com/report/best-adobe-animate-courses/)
+3. [7 Best Adobe Photoshop Courses for Beginners for 2024](https://www.classcentral.com/report/best-adobe-photoshop-beginner-courses/)
+4. [10 Best Free Artificial Intelligence Courses for 2024](https://www.classcentral.com/report/best-ai-courses/)
+5. [\[2024\] 250 Top Domestika Courses of All Time](https://www.classcentral.com/report/domestika-top-courses/)
 
 [Visit _The Report_](https://www.classcentral.com/report/)
 
@@ -413,38 +413,38 @@ The future of Coursera’s only credible alternative for universities rests in t
 Most common
 -----------
 
-1. python
+1. sql
     
-2. English
+2. harvard
     
-3. French
+3. web development
     
 
 Popular subjects
 ----------------
 
-1. [Project Management
+1. [Web Development
     
-    3,715 courses](https://www.classcentral.com/subject/project-management)
-2. [Digital Marketing
+    12,537 courses](https://www.classcentral.com/subject/web-development)
+2. [Communication Skills
+    
+    3,891 courses](https://www.classcentral.com/subject/communication-skills)
+3. [Digital Marketing
     
     5,788 courses](https://www.classcentral.com/subject/digital-marketing)
-3. [Data Analysis
-    
-    7,645 courses](https://www.classcentral.com/subject/data-analysis)
 
 Popular courses
 ---------------
 
-1. [Forensic Facial Reconstruction: Finding Mr. X
+1. [Mindshift: Break Through Obstacles to Learning and Discover Your Hidden Potential
     
-    The University of Sheffield](https://www.classcentral.com/course/forensic-facial-reconstruction-7641)
-2. [Project Management: The Basics for Success
+    McMaster University](https://www.classcentral.com/course/mindshift-8289)
+2. [Young People and Mental Health
     
-    University of California, Irvine](https://www.classcentral.com/course/basicprojmanage-2782)
-3. [Design Patterns
+    University of Cambridge](https://www.classcentral.com/course/young-people-mental-health-9491)
+3. [Machine Learning Foundations: A Case Study Approach
     
-    University of Alberta](https://www.classcentral.com/course/design-patterns-9215)
+    University of Washington](https://www.classcentral.com/course/ml-foundations-4352)
 
 ![](https://ccweb.imgix.net/https%3A%2F%2Fwww.classcentral.com%2Fimages%2Flists%2Flist-empty.png?auto=format&ixlib=php-4.1.0&w=100&s=d64b43c1b6dcf041e56fce6ac1794fcf)
 
