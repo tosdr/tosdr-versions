@@ -1,9 +1,16 @@
 For Families Visiting PBS KIDS:
 -------------------------------
 
-Last modified: December 6, 2018
+Last modified: September 19, 2024
 
 The following terms and conditions ("Terms of Use") govern the use by you of websites, applications, or online services that PBS KIDS operates ("Services"). These Terms of Use also apply to all materials, online communications and other content and information that is or becomes available via the Services or that you post to the Services. BY USING THE SERVICES, YOU AGREE TO ABIDE BY THESE TERMS OF USE AND ANY MODIFICATIONS THERETO.
+
+These Terms of Use do not apply to pbs.org or PBS ONLINE®, which are not directed to or intended for children under the age of 13.
+
+Parents' Responsibility
+-----------------------
+
+You may, where authorized or permitted by law, permit your children to use the Services, provided that you supervise such use. You are responsible for ensuring that you and your child are aware of, understand, and comply with these Terms of Use. You shall at all times be responsible and liable for all activities conducted and items obtained through your use or your child's use of the Services, including, without limitation, all content posted on the Services.
 
 Commercial Use Not Permitted
 ----------------------------
