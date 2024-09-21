@@ -91,9 +91,6 @@ To
 
   Plan Journey    
 
-* [##### Detour Routes CT, 1, 55 and 59 - Greerton Spring Fling
-    
-    Until 03:00 pm Today](https://www.baybus.co.nz/latest-updates/service-updates/detour-routes-ct-1-55-and-59-greerton-spring-fling/)
 * [##### Arataki Bus Hub Upgrade - Farm Street One Way & Temporary Bus Stops, Routes CT, 2, 5, 20, 21, 143A & 143B
     
     Now until Fri 15 Nov 10:00 pm](https://www.baybus.co.nz/latest-updates/service-updates/arataki-bus-hub-upgrade-farm-street-one-way-temporary-bus-stops-routes-ct-2-5-20-21-143a-143b/)
