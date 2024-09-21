@@ -66,7 +66,9 @@ Any e-mail addresses are not used or collected for any purpose other than notify
 
 ### Look at this!
 
-[![Dark Money Pushes Into State Elections](/assets/Images/teasers/small/DarkMoneyStates.JPG)](https://www.followthemoney.org/research/blog/darkness-on-the-edge-of-town-national-dark-money-targets-states)
+[![1%=51%](/assets/logos/151-2000-12.png)](http://www.followthemoney.org/assets/ANNUAL-REPORTS/NIMSP-Annual-Report-2013.pdf)
+
+Just 1% of donors gave 51% of the total.
 
   [See More Visualizations](https://www.followthemoney.org/look-at-this)
 
