@@ -322,11 +322,11 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 
 [Galerija umetnika](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")[](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/vlastimir-volcano-mikic/quick-time-desktop-theatar/belef.jpg?itok=MZeDXv0p)](http://seecult.org/galerija/galerija-umetnika/vlastimir-volcano-mikic/quick-time-desktop-theatar)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/margareta-jelic/slike/paitings/regata-97-akril-cca90x70.jpg?itok=jKQaENmB)](http://seecult.org/galerija/galerija-umetnika/margareta-jelic/slikepaitings)
 
 [Foto galerija](http://seecult.org/galerija/foto-galerija "Foto galerija")[](http://seecult.org/galerija/foto-galerija "Foto galerija")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/izlozbe-exhibitions/zbogom-andergraund-mikrob/price-iz-automata/remont-007.jpg?itok=EmHxVqXh)](http://seecult.org/galerija/foto-galerija/izlo%C5%BEbe-exhibitions/zbogom-andergraund-mikrob/pri%C4%8De-iz-automata)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/fr-knifer-13g.jpg?itok=EJpY7J1a)](http://seecult.org/galerija/foto-galerija/foto-arhiva)
 
 * [Najčitanije](#news_1)
 * [Najnovije](#news_2)
