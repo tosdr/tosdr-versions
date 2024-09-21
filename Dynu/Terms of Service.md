@@ -304,10 +304,10 @@ m. Headings. Headings used in this Agreement and the Additional Policies are sol
 n. Entire Agreement. This Agreement, together with the Additional Policies, constitute the complete and exclusive statement of all mutual understandings between You and Dynu Systems with respect to the subject matter hereof, superseding all prior or contemporaneous proposals, communications and understandings, oral or written.  
   
 
-#### Launch and scale compute workloads on KVM instances featuring hyperfast NVMe SSD storage and best price-to-performance ratio!
+### Designed for everyone, everywhere
 
   
-[Get Started](https://www.dynu.com/en-US/ControlPanel/AddVPS)  
+Our services are easy to use and meant to enhance convenience. It's made for folks of all skill levels, devices of all shapes, and projects of all sizes.  
   
 
 ### News
@@ -372,6 +372,6 @@ HELP
 
 ##### Copyright © 1997-2024 Dynu Systems, Inc. All rights reserved.
 
-Version 3.30.9011.33227
+Version 3.30.9030.265
 
 Loading...
