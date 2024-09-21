@@ -1,7 +1,7 @@
 Menu
 
-[Le Parisien : Actualités en direct et info en continu](https://www.leparisien.fr/)
-===================================================================================
+[![Les 80 ans du Parisien](https://assets.leparisien.fr/website/images/logo-80-ans.png)Les 80 ans du Parisien](https://www.leparisien.fr/80-ans-du-parisien/)
+=============================================================================================================================================================
 
 Journal
 
@@ -41,8 +41,6 @@ Ville, code postal...
 * [60 · Oise](https://www.leparisien.fr/oise-60/)
 
 [Toutes les actualités locales](https://www.leparisien.fr/info-paris-ile-de-france-oise/)
-
-Rechercher sur Le Parisien
 
 * [À la une](https://www.leparisien.fr/)
     
@@ -542,9 +540,9 @@ Profitez des avantages de l’offre numérique
 
 [Je m'abonne](#)
 
-![](/pf/resources/images/footer_img_abo_desktop.png?d=730)
+![](/pf/resources/images/footer_img_abo_desktop.png?d=731)
 
-![](/pf/resources/images/footer_img_abo_tablet.png?d=730)
+![](/pf/resources/images/footer_img_abo_tablet.png?d=731)
 
 [Centre Français d’Exploitation du Droit de Copie](http://www.cfcopies.com/contrat-autorisation2/)
 
