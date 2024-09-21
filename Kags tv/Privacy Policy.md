@@ -29,13 +29,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.kagstv.com/assets/KPNX/images/9371aa92-d765-4f2c-963e-a3b723eb9f4f/20240919T010623/9371aa92-d765-4f2c-963e-a3b723eb9f4f_16x9.jpg) ![](https://media.kagstv.com/assets/KPNX/images/9371aa92-d765-4f2c-963e-a3b723eb9f4f/20240919T010623/9371aa92-d765-4f2c-963e-a3b723eb9f4f_360x203.jpg)](https://www.kagstv.com/article/news/local/several-trump-supporters-seated-on-stage-during-tucson-rally-experience-eye-injuries/75-9a629b05-a0d3-414d-b4e8-ce7fa1296fb6)
+    *  [![](https://media.kagstv.com/assets/WFAA/images/e5247f29-5630-4fb0-ab0e-a4c5bc28806d/20240919T223714/e5247f29-5630-4fb0-ab0e-a4c5bc28806d_16x9.jpg) ![](https://media.kagstv.com/assets/WFAA/images/e5247f29-5630-4fb0-ab0e-a4c5bc28806d/20240919T223714/e5247f29-5630-4fb0-ab0e-a4c5bc28806d_360x203.jpg)](https://www.kagstv.com/article/news/local/trinity-bible-church-lead-pastor-removed-following-inappropriate-relationship-with-woman/287-a4350c54-ec7d-4f27-ae81-b7288f840adc)
         
-        #### [Several Trump supporters seated on stage during Tucson rally experience eye injuries](https://www.kagstv.com/article/news/local/several-trump-supporters-seated-on-stage-during-tucson-rally-experience-eye-injuries/75-9a629b05-a0d3-414d-b4e8-ce7fa1296fb6)
+        #### [Trinity Bible Church lead pastor removed following 'inappropriate relationship' with a woman](https://www.kagstv.com/article/news/local/trinity-bible-church-lead-pastor-removed-following-inappropriate-relationship-with-woman/287-a4350c54-ec7d-4f27-ae81-b7288f840adc)
         
-    *  [![](https://media.kagstv.com/assets/KCEN/images/b2cd26fc-e40a-45f5-a8e3-18a68c29dd97/20240920T135826/b2cd26fc-e40a-45f5-a8e3-18a68c29dd97_16x9.jpg) ![](https://media.kagstv.com/assets/KCEN/images/b2cd26fc-e40a-45f5-a8e3-18a68c29dd97/20240920T135826/b2cd26fc-e40a-45f5-a8e3-18a68c29dd97_360x203.jpg)](https://www.kagstv.com/article/news/crime/college-station-aggravated-sexual-assault-suspect-arrested-sept-19-2024/500-5bc45625-ed36-4194-a9a5-eea6abf6d4a8)
+    *  [![](https://media.kagstv.com/assets/CCT/images/feab45c8-c38a-443a-ac8e-a872d48b03af/20240612T221303/feab45c8-c38a-443a-ac8e-a872d48b03af_16x9.jpg) ![](https://media.kagstv.com/assets/CCT/images/feab45c8-c38a-443a-ac8e-a872d48b03af/20240612T221303/feab45c8-c38a-443a-ac8e-a872d48b03af_360x203.jpg)](https://www.kagstv.com/article/news/local/x-moves-headquarters-to-bastrop-texas-elon-musk-san-francisco-country/269-c20500ed-4d70-48cd-8051-0831f5323ab5)
         
-        #### [College Station Police arrest Aggravated Sexual Assault suspect](https://www.kagstv.com/article/news/crime/college-station-aggravated-sexual-assault-suspect-arrested-sept-19-2024/500-5bc45625-ed36-4194-a9a5-eea6abf6d4a8)
+        #### [X plans to move headquarters to Bastrop](https://www.kagstv.com/article/news/local/x-moves-headquarters-to-bastrop-texas-elon-musk-san-francisco-country/269-c20500ed-4d70-48cd-8051-0831f5323ab5)
         
     
 * [Weather](https://www.kagstv.com/weather/)
@@ -86,9 +86,9 @@ Navigation
 
 Bryan, TX »
 
-97°
+87°
 
-![Sunny](/assets/shared-images/weather-icons/clear-day_210x210.png)
+![Clear](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
 
 Bryan, TX »](https://www.kagstv.com/weather)
 
