@@ -113,9 +113,9 @@ Copyright 2024 © **R&J Tool Rental**
 
 ### Login
 
-Username or email address \* 
+Username or email address \*Required 
 
-Password \* 
+Password \*Required 
 
  Remember me  Log in
 
