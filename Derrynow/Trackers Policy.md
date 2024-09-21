@@ -56,7 +56,7 @@ Search
 
 [![Home](images/logos/21/logo_white.jpg?v=1696508508227 "Home")](https://www.derrynow.com/)
 
-20 Sept 2024
+21 Sept 2024
 
 * [Home
     
@@ -273,12 +273,26 @@ Most Popular
 [Derry man charged with selling counterfeit clothing fined](https://www.derrynow.com/news/local-news/1609893/derry-man-charged-with-selling-counterfeit-clothing-fined.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+[![County Derry man who operated illegal television streaming service for be sentenced next month](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "County Derry man who operated illegal television streaming service for be sentenced next month")](https://www.derrynow.com/news/local-news/1609966/county-derry-man-who-operated-illegal-television-streaming-service-for-be-sentenced-next-month.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[County Derry man who operated illegal television streaming service for be sentenced next month](https://www.derrynow.com/news/local-news/1609966/county-derry-man-who-operated-illegal-television-streaming-service-for-be-sentenced-next-month.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 [![Derry Death Notices - Friday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Friday")](https://www.derrynow.com/news/deaths/1609403/derry-death-notices-friday-20th-september-2024.html)
 
 [Deaths](https://www.derrynow.com/section/977/deaths)
 
 [Derry Death Notices - Friday, 20th September 2024](https://www.derrynow.com/news/deaths/1609403/derry-death-notices-friday-20th-september-2024.html)
 -----------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![PICTURES: See inside this superb Derry property for sale](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PICTURES: See inside this superb Derry property for sale")](https://www.derrynow.com/news/property/1609882/pictures-see-inside-this-superb-derry-property-for-sale.html)
+
+[Property](https://www.derrynow.com/section/1232/property)
+
+[PICTURES: See inside this superb Derry property for sale](https://www.derrynow.com/news/property/1609882/pictures-see-inside-this-superb-derry-property-for-sale.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Former Sinn Fein press officer charged with sex offences found unconscious and currently in hospital](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Former Sinn Fein press officer charged with sex offences found unconscious and currently in hospital")](https://www.derrynow.com/news/local-news/1609884/former-sinn-fein-press-officer-charged-with-sex-offences-found-unconscious-and-currently-in-hospital.html)
 
@@ -287,11 +301,13 @@ Most Popular
 [Former Sinn Fein press officer charged with sex offences found unconscious and currently in hospital](https://www.derrynow.com/news/local-news/1609884/former-sinn-fein-press-officer-charged-with-sex-offences-found-unconscious-and-currently-in-hospital.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![County Derry man who operated illegal television streaming service for be sentenced next month](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "County Derry man who operated illegal television streaming service for be sentenced next month")](https://www.derrynow.com/news/local-news/1609966/county-derry-man-who-operated-illegal-television-streaming-service-for-be-sentenced-next-month.html)
+[![Derry judge says possessing Pregablin with intent to supply should be deemed a Class A offence](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry judge says possessing Pregablin with intent to supply should be deemed a Class A offence")](https://www.derrynow.com/news/local-news/1609881/derry-judge-says-possessing-pregablin-with-intent-to-supply-should-be-deemed-a-class-a-offence.html)
+
+Derry Magistrate's Court
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[County Derry man who operated illegal television streaming service for be sentenced next month](https://www.derrynow.com/news/local-news/1609966/county-derry-man-who-operated-illegal-television-streaming-service-for-be-sentenced-next-month.html)
+[Derry judge says possessing Pregablin with intent to supply should be deemed a Class A offence](https://www.derrynow.com/news/local-news/1609881/derry-judge-says-possessing-pregablin-with-intent-to-supply-should-be-deemed-a-class-a-offence.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Former Derry manager Rory Gallagher 'fully intends' to return to inter-county management](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Former Derry manager Rory Gallagher 'fully intends' to return to inter-county management")](https://www.derrynow.com/news/gaa/1609864/former-derry-manager-rory-gallagher-fully-intends-to-return-to-inter-county-management.html)
@@ -310,30 +326,12 @@ The scene of a major search operation in the Burt area
 [Large search operation ongoing around Burt farm](https://www.derrynow.com/news/local-news/1609874/large-search-operation-ongoing-around-burt-farm.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Derry judge says possessing Pregablin with intent to supply should be deemed a Class A offence](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry judge says possessing Pregablin with intent to supply should be deemed a Class A offence")](https://www.derrynow.com/news/local-news/1609881/derry-judge-says-possessing-pregablin-with-intent-to-supply-should-be-deemed-a-class-a-offence.html)
-
-Derry Magistrate's Court
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Derry judge says possessing Pregablin with intent to supply should be deemed a Class A offence](https://www.derrynow.com/news/local-news/1609881/derry-judge-says-possessing-pregablin-with-intent-to-supply-should-be-deemed-a-class-a-offence.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 [![Man charged with a sexual assault in Altnagelvin Hospital pleads not guilty](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man charged with a sexual assault in Altnagelvin Hospital pleads not guilty")](https://www.derrynow.com/news/local-news/1609921/man-charged-with-a-sexual-assault-in-altnagelvin-hospital-pleads-not-guilty.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
 
 [Man charged with a sexual assault in Altnagelvin Hospital pleads not guilty](https://www.derrynow.com/news/local-news/1609921/man-charged-with-a-sexual-assault-in-altnagelvin-hospital-pleads-not-guilty.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Police in Derry charge 34-year-old man with possession of a Class B drug](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Police in Derry charge 34-year-old man with possession of a Class B drug")](https://www.derrynow.com/news/local-news/1609801/police-in-derry-charge-34-year-old-man-with-possession-of-a-class-b-drug.html)
-
-PSNI
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Police in Derry charge 34-year-old man with possession of a Class B drug](https://www.derrynow.com/news/local-news/1609801/police-in-derry-charge-34-year-old-man-with-possession-of-a-class-b-drug.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
@@ -517,7 +515,23 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
-[![Foyle Embankment](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Foyle Embankment")](https://www.derrynow.com/news/home/1610163/upcoming-road-closures-for-derry.html)
+[![Derry City](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry City")](https://www.derrynow.com/news/derry-sport/1610515/late-drama-at-the-brandywell-as-pat-hoban-rescues-derry-city-from-the-penalty-spot.html)
+
+Paul McMullan challenges for the ball. Pic by Sportsfile
+
+[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
+
+[Late drama at the Brandywell as Pat Hoban rescues Derry City from the penalty spot](https://www.derrynow.com/news/derry-sport/1610515/late-drama-at-the-brandywell-as-pat-hoban-rescues-derry-city-from-the-penalty-spot.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Durkan calls for support for Foyle Street Businesses impacted by road closure disruption](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Durkan calls for support for Foyle Street Businesses impacted by road closure disruption")](https://www.derrynow.com/news/derry-news/1610266/durkan-calls-for-support-for-foyle-street-businesses-impacted-by-road-closure-disruption.html)
+
+[Derry News](https://www.derrynow.com/section/999/derry-news)
+
+[Durkan calls for support for Foyle Street Businesses impacted by road closure disruption](https://www.derrynow.com/news/derry-news/1610266/durkan-calls-for-support-for-foyle-street-businesses-impacted-by-road-closure-disruption.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Foyle Embankment](https://www.derrynow.com/resizer/165/93/true/1591220408124.JPG--.JPG?1591220409000 "Foyle Embankment")](https://www.derrynow.com/news/home/1610163/upcoming-road-closures-for-derry.html)
 
 Foyle Embankment
 
@@ -526,7 +540,7 @@ Foyle Embankment
 [Upcoming Road Closures for Derry](https://www.derrynow.com/news/home/1610163/upcoming-road-closures-for-derry.html)
 --------------------------------------------------------------------------------------------------------------------
 
-[![Martinog Bradley, Kenny Beggs and Lawrence Watson](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Martinog Bradley, Kenny Beggs and Lawrence Watson")](https://www.derrynow.com/news/derry-sport/1609938/derry-men-to-represent-northern-ireland-in-subbuteo-world-cup-this-weekend.html)
+[![Martinog Bradley, Kenny Beggs and Lawrence Watson](https://www.derrynow.com/resizer/165/93/true/2024_09_20/Martinog_Bradley%2C_Kenny_Beggs_and_Lawrence_Watson-1726830203519.jpg--.jpg?1726830203715 "Martinog Bradley, Kenny Beggs and Lawrence Watson")](https://www.derrynow.com/news/derry-sport/1609938/derry-men-to-represent-northern-ireland-in-subbuteo-world-cup-this-weekend.html)
 
 Martinog Bradley, Kenny Beggs and Lawrence Watson
 
@@ -550,20 +564,6 @@ The public meeting on the future of rail usage in the north west will be this Sa
 
 [Public meeting to held in Derry over future of rail in North West](https://www.derrynow.com/news/local-news/1610150/public-meeting-to-held-in-derry-over-future-of-rail-in-north-west.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Man charged with a sexual assault in Altnagelvin Hospital pleads not guilty](https://www.derrynow.com/resizer/165/93/true/2017/07/14154134/husband-and-wife-charged-at-derry-magistrates-court-with-drugs-and-money-laundering-offences-following-organised-crime-investigation-by-the-psni.jpg--.jpg "Man charged with a sexual assault in Altnagelvin Hospital pleads not guilty")](https://www.derrynow.com/news/local-news/1609921/man-charged-with-a-sexual-assault-in-altnagelvin-hospital-pleads-not-guilty.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Man charged with a sexual assault in Altnagelvin Hospital pleads not guilty](https://www.derrynow.com/news/local-news/1609921/man-charged-with-a-sexual-assault-in-altnagelvin-hospital-pleads-not-guilty.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry man charged with selling counterfeit clothing fined](https://www.derrynow.com/resizer/165/93/true/1580370016067.JPG--.JPG?1580370017604 "Derry man charged with selling counterfeit clothing fined")](https://www.derrynow.com/news/local-news/1609893/derry-man-charged-with-selling-counterfeit-clothing-fined.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Derry man charged with selling counterfeit clothing fined](https://www.derrynow.com/news/local-news/1609893/derry-man-charged-with-selling-counterfeit-clothing-fined.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
