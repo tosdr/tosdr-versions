@@ -48,7 +48,7 @@ SEARCH
 
 [My Account](https://www.cricbuzz.com/premium-subscription/user/account-info "My Account") Sign Out
 
-[MATCHES](https://www.cricbuzz.com/cricket-match/live-scores)[IND vs BAN - Live](https://www.cricbuzz.com/live-cricket-scores/100220/ind-vs-ban-1st-test-bangladesh-tour-of-india-2024 "India v Bangladesh, 1st Test - Live")[GAW vs SNP - GAW Won](https://www.cricbuzz.com/live-cricket-scores/92874/gaw-vs-snp-21st-match-caribbean-premier-league-2024 "Guyana Amazon Warriors v St Kitts and Nevis Patriots, 21st Match - GAW Won")[INDA vs INDC - Live](https://www.cricbuzz.com/live-cricket-scores/104234/inda-vs-indc-6th-match-duleep-trophy-2024 "India A v India C, 6th Match - Live")[AFG vs RSA - AFG Won](https://www.cricbuzz.com/live-cricket-scores/103852/afg-vs-rsa-2nd-odi-afghanistan-v-south-africa-in-uae-2024 "Afghanistan v South Africa, 2nd ODI - AFG Won")[ENG vs AUS - Preview](https://www.cricbuzz.com/live-cricket-scores/76556/eng-vs-aus-2nd-odi-australia-tour-of-england-2024 "England v Australia, 2nd ODI - Preview")
+[MATCHES](https://www.cricbuzz.com/cricket-match/live-scores)[AUS vs ENG - Live](https://www.cricbuzz.com/live-cricket-scores/76556/aus-vs-eng-2nd-odi-australia-tour-of-england-2024 "Australia v England, 2nd ODI - Live")[IND vs BAN - Stumps](https://www.cricbuzz.com/live-cricket-scores/100220/ind-vs-ban-1st-test-bangladesh-tour-of-india-2024 "India v Bangladesh, 1st Test - Stumps")[SLK vs BR - Preview](https://www.cricbuzz.com/live-cricket-scores/92883/slk-vs-br-22nd-match-caribbean-premier-league-2024 "Saint Lucia Kings v Barbados Royals, 22nd Match - Preview")[INDCAP vs TYH - Live](https://www.cricbuzz.com/live-cricket-scores/107068/indcap-vs-tyh-2nd-match-legends-league-cricket-2024 "India Capitals v Toyam Hyderabad, 2nd Match - Live")[SL vs NZ - Stumps](https://www.cricbuzz.com/live-cricket-scores/105962/sl-vs-nz-1st-test-new-zealand-tour-of-sri-lanka-2024 "Sri Lanka v New Zealand, 1st Test - Stumps")
 
 AllLive NowToday
 
@@ -56,7 +56,7 @@ AllLive NowToday
     
     Bangladesh v India 2024
     
-    [India vs Bangladesh  LIVE](https://www.cricbuzz.com/live-cricket-scores/100220/ind-vs-ban-1st-test-bangladesh-v-india-2024 "India v Bangladesh, 1st Test - Live")
+    [India vs Bangladesh](https://www.cricbuzz.com/live-cricket-scores/100220/ind-vs-ban-1st-test-bangladesh-v-india-2024 "India v Bangladesh, 1st Test - Stumps")
     
     1st Test
     
@@ -66,7 +66,7 @@ AllLive NowToday
     
     1st ODI
     
-* [England vs Australia](https://www.cricbuzz.com/live-cricket-scores/76556/eng-vs-aus-2nd-odi-england-v-australia-2024 "England v Australia, 2nd ODI - Preview")
+* [Australia vs England  LIVE](https://www.cricbuzz.com/live-cricket-scores/76556/aus-vs-eng-2nd-odi-england-v-australia-2024 "Australia v England, 2nd ODI - Live")
     
     2nd ODI
     
@@ -82,7 +82,7 @@ AllLive NowToday
     
     2nd ODI
     
-* [Afghanistan vs South Africa](https://www.cricbuzz.com/live-cricket-scores/103861/afg-vs-rsa-3rd-odi-afghanistan-vs-south-africa-2024 "Afghanistan v South Africa, 3rd ODI - Upcoming")
+* [Afghanistan vs South Africa](https://www.cricbuzz.com/live-cricket-scores/103861/afg-vs-rsa-3rd-odi-afghanistan-vs-south-africa-2024 "Afghanistan v South Africa, 3rd ODI - Preview")
     
     3rd ODI
     
@@ -106,7 +106,7 @@ AllLive NowToday
     
 * ICC Mens AR T20WCQA
     
-    [Malawi vs Lesotho](https://www.cricbuzz.com/live-cricket-scores/106171/mwi-vs-lso-1st-match-icc-mens-ar-t20wcqa "Malawi v Lesotho, 1st Match - Upcoming")
+    [Malawi vs Lesotho](https://www.cricbuzz.com/live-cricket-scores/106171/mwi-vs-lso-1st-match-icc-mens-ar-t20wcqa "Malawi v Lesotho, 1st Match - MWI Won")
     
     1st Match
     
@@ -160,15 +160,15 @@ AllLive NowToday
     
 * T10 League
     
-    [Durban Wolves vs Joburg Bangla Tigers](https://www.cricbuzz.com/live-cricket-scores/106724/dw-vs-jbt-1st-match-t10-league "Durban Wolves v Joburg Bangla Tigers, 1st Match - Upcoming")
+    [Durban Wolves vs Joburg Bangla Tigers  LIVE](https://www.cricbuzz.com/live-cricket-scores/106724/dw-vs-jbt-1st-match-t10-league "Durban Wolves v Joburg Bangla Tigers, 1st Match - Live")
     
     1st Match
     
-* [Cape Town Samp Army vs Harare Bolts](https://www.cricbuzz.com/live-cricket-scores/106729/ctsa-vs-hb-2nd-match-t10-league "Cape Town Samp Army v Harare Bolts, 2nd Match - Upcoming")
+* [Cape Town Samp Army vs Harare Bolts](https://www.cricbuzz.com/live-cricket-scores/106729/ctsa-vs-hb-2nd-match-t10-league "Cape Town Samp Army v Harare Bolts, 2nd Match - Preview")
     
     2nd Match
     
-* [Bulawayo Brave Jaguars vs Nys Lagos](https://www.cricbuzz.com/live-cricket-scores/106732/blbj-vs-nysl-3rd-match-t10-league "Bulawayo Brave Jaguars v Nys Lagos, 3rd Match - Upcoming")
+* [Bulawayo Brave Jaguars vs Nys Lagos](https://www.cricbuzz.com/live-cricket-scores/106732/blbj-vs-nysl-3rd-match-t10-league "Bulawayo Brave Jaguars v Nys Lagos, 3rd Match - Preview")
     
     3rd Match
     
@@ -184,19 +184,23 @@ AllLive NowToday
     
     6th Match
     
+* [Harare Bolts vs Joburg Bangla Tigers](https://www.cricbuzz.com/live-cricket-scores/106761/hb-vs-jbt-7th-match-t10-league "Harare Bolts v Joburg Bangla Tigers, 7th Match - Upcoming")
+    
+    7th Match
+    
 * CSA T20 Knock Out Competition
     
-    [Mpumalanga Rhinos vs South Western Districts](https://www.cricbuzz.com/live-cricket-scores/105154/mpr-vs-swd-3rd-match-csa-t20-knock-out-competition "Mpumalanga Rhinos v South Western Districts, 3rd Match - Upcoming")
-    
-    3rd Match
-    
-* [Limpopo vs Tuskers](https://www.cricbuzz.com/live-cricket-scores/105148/limpo-vs-tusks-2nd-match-csa-t20-knock-out-competition "Limpopo v Tuskers, 2nd Match - Upcoming")
+    [Limpopo vs Tuskers](https://www.cricbuzz.com/live-cricket-scores/105148/limpo-vs-tusks-2nd-match-csa-t20-knock-out-competition "Limpopo v Tuskers, 2nd Match - Toss")
     
     2nd Match
     
-* [Northern Cape vs Eastern Storm](https://www.cricbuzz.com/live-cricket-scores/105146/ncape-vs-estorm-1st-match-csa-t20-knock-out-competition "Northern Cape v Eastern Storm, 1st Match - Upcoming")
+* [Eastern Storm vs Northern Cape  LIVE](https://www.cricbuzz.com/live-cricket-scores/105146/estorm-vs-ncape-1st-match-csa-t20-knock-out-competition "Eastern Storm v Northern Cape, 1st Match - Live")
     
     1st Match
+    
+* [Mpumalanga Rhinos vs South Western Districts](https://www.cricbuzz.com/live-cricket-scores/105154/mpr-vs-swd-3rd-match-csa-t20-knock-out-competition "Mpumalanga Rhinos v South Western Districts, 3rd Match - Delay")
+    
+    3rd Match
     
 * LLC 2024
     
@@ -204,7 +208,7 @@ AllLive NowToday
     
     1st Match
     
-* [India Capitals vs Toyam Hyderabad](https://www.cricbuzz.com/live-cricket-scores/107068/indcap-vs-tyh-2nd-match-llc-2024 "India Capitals v Toyam Hyderabad, 2nd Match - Preview")
+* [India Capitals vs Toyam Hyderabad  LIVE](https://www.cricbuzz.com/live-cricket-scores/107068/indcap-vs-tyh-2nd-match-llc-2024 "India Capitals v Toyam Hyderabad, 2nd Match - Live")
     
     2nd Match
     
@@ -216,7 +220,7 @@ AllLive NowToday
     
     Duleep Trophy
     
-    [India A vs India C  LIVE](https://www.cricbuzz.com/live-cricket-scores/104234/inda-vs-indc-6th-match-duleep-trophy "India A v India C, 6th Match - Live")
+    [India A vs India C](https://www.cricbuzz.com/live-cricket-scores/104234/inda-vs-indc-6th-match-duleep-trophy "India A v India C, 6th Match - Stumps")
     
     6th Match
     
@@ -248,7 +252,7 @@ AllLive NowToday
     
 * Australia Domestic One-Day Cup 2024-25
     
-    [New South Wales vs Western Australia](https://www.cricbuzz.com/live-cricket-scores/103105/nsw-vs-wa-1st-match-australia-domestic-one-day-cup-2024-25 "New South Wales v Western Australia, 1st Match - Upcoming")
+    [New South Wales vs Western Australia](https://www.cricbuzz.com/live-cricket-scores/103105/nsw-vs-wa-1st-match-australia-domestic-one-day-cup-2024-25 "New South Wales v Western Australia, 1st Match - Preview")
     
     1st Match
     
@@ -258,7 +262,7 @@ AllLive NowToday
     
 * Australia Under 19 tour of India
     
-    [Australia U19 vs India U19  LIVE](https://www.cricbuzz.com/live-cricket-scores/106428/ausu19-vs-indu19-1st-youth-odi-australia-under-19-tour-of-india "Australia U19 v India U19, 1st Youth ODI - Live")
+    [Australia U19 vs India U19](https://www.cricbuzz.com/live-cricket-scores/106428/ausu19-vs-indu19-1st-youth-odi-australia-under-19-tour-of-india "Australia U19 v India U19, 1st Youth ODI - INDU19 Won")
     
     1st Youth ODI
     
@@ -286,7 +290,7 @@ AllLive NowToday
     
 * ENG Domestic One-Day Cup
     
-    [Somerset vs Glamorgan](https://www.cricbuzz.com/live-cricket-scores/86485/som-vs-glam-final-eng-domestic-one-day-cup "Somerset v Glamorgan, Final - Upcoming")
+    [Somerset vs Glamorgan](https://www.cricbuzz.com/live-cricket-scores/86485/som-vs-glam-final-eng-domestic-one-day-cup "Somerset v Glamorgan, Final - Preview")
     
     Final
     
@@ -304,7 +308,7 @@ AllLive NowToday
     
     1st T20I
     
-* [Greece Women vs Spain Women](https://www.cricbuzz.com/live-cricket-scores/107225/grcw-vs-spw-2nd-t20i-spain-women-tour-of-greece-2024 "Greece Women v Spain Women, 2nd T20I - Upcoming")
+* [Greece Women vs Spain Women](https://www.cricbuzz.com/live-cricket-scores/107225/grcw-vs-spw-2nd-t20i-spain-women-tour-of-greece-2024 "Greece Women v Spain Women, 2nd T20I - Toss")
     
     2nd T20I
     
@@ -322,11 +326,7 @@ AllLive NowToday
     
 * Australia Women v New Zealand Women
     
-    [New Zealand Women vs Australia Women](https://www.cricbuzz.com/live-cricket-scores/91823/nzw-vs-ausw-1st-t20i-australia-women-v-new-zealand-women "New Zealand Women v Australia Women, 1st T20I - AUSW Won")
-    
-    1st T20I
-    
-* [Australia Women vs New Zealand Women](https://www.cricbuzz.com/live-cricket-scores/91832/ausw-vs-nzw-2nd-t20i-australia-women-v-new-zealand-women "Australia Women v New Zealand Women, 2nd T20I - Upcoming")
+    [Australia Women vs New Zealand Women](https://www.cricbuzz.com/live-cricket-scores/91832/ausw-vs-nzw-2nd-t20i-australia-women-v-new-zealand-women "Australia Women v New Zealand Women, 2nd T20I - Preview")
     
     2nd T20I
     
@@ -637,41 +637,41 @@ This Privacy Policy (the “**Privacy Policy**”) serves to inform you of our p
 
 #### LATEST NEWS
 
+  [](https://www.cricbuzz.com/cricket-news/131702/twin-tons-put-india-in-the-box-seat "Twin tons put India in the box seat")
+
+[Twin tons put India in the box seat](https://www.cricbuzz.com/cricket-news/131702/twin-tons-put-india-in-the-box-seat "Twin tons put India in the box seat")
+
+2h ago
+
+  [](https://www.cricbuzz.com/cricket-news/131701/pant-set-to-be-top-retention-choice-for-delhi-capitals "Pant set to be top retention choice for Delhi Capitals")
+
+[Pant set to be top retention choice for Delhi Capitals](https://www.cricbuzz.com/cricket-news/131701/pant-set-to-be-top-retention-choice-for-delhi-capitals "Pant set to be top retention choice for Delhi Capitals")
+
+3h ago
+
+  [](https://www.cricbuzz.com/cricket-news/131700/bangladesh-start-steadily-in-pursuit-of-515-after-pant-gill-tons "Bangladesh start steadily in pursuit of 515 after Pant, Gill tons")
+
+[Bangladesh start steadily in pursuit of 515 after Pant, Gill tons](https://www.cricbuzz.com/cricket-news/131700/bangladesh-start-steadily-in-pursuit-of-515-after-pant-gill-tons "Bangladesh start steadily in pursuit of 515 after Pant, Gill tons")
+
+4h ago
+
   [](https://www.cricbuzz.com/cricket-news/131699/gill-pant-fifties-extend-indias-dominance "Gill, Pant fifties extend India's dominance")
 
 [Gill, Pant fifties extend India's dominance](https://www.cricbuzz.com/cricket-news/131699/gill-pant-fifties-extend-indias-dominance "Gill, Pant fifties extend India's dominance")
 
-49m ago
+6h ago
 
   [](https://www.cricbuzz.com/cricket-news/131698/hetmyer-shepherd-and-bowlers-deliver-stunning-win-for-guyana "Hetmyer, Shepherd and bowlers deliver stunning win for Guyana")
 
 [Hetmyer, Shepherd and bowlers deliver stunning win for Guyana](https://www.cricbuzz.com/cricket-news/131698/hetmyer-shepherd-and-bowlers-deliver-stunning-win-for-guyana "Hetmyer, Shepherd and bowlers deliver stunning win for Guyana")
 
-2h ago
+8h ago
 
   [](https://www.cricbuzz.com/cricket-news/131697/afghanistan-ride-on-gurbaz-rashid-heroics-to-create-history "Afghanistan ride on Gurbaz, Rashid heroics to create history")
 
 [Afghanistan ride on Gurbaz, Rashid heroics to create history](https://www.cricbuzz.com/cricket-news/131697/afghanistan-ride-on-gurbaz-rashid-heroics-to-create-history "Afghanistan ride on Gurbaz, Rashid heroics to create history")
 
-5h ago
-
-  [](https://www.cricbuzz.com/cricket-news/131696/gurbaz-rashid-seal-afghanistans-most-telling-triumph "Gurbaz, Rashid seal Afghanistan's most telling triumph")
-
-[Gurbaz, Rashid seal Afghanistan's most telling triumph](https://www.cricbuzz.com/cricket-news/131696/gurbaz-rashid-seal-afghanistans-most-telling-triumph "Gurbaz, Rashid seal Afghanistan's most telling triumph")
-
-6h ago
-
-  [](https://www.cricbuzz.com/cricket-news/131695/ashwin-talks-up-compartmentalising-for-separate-sports-after-batting-gains "Ashwin talks up compartmentalising for 'separate sports' after batting exploits")
-
-[Ashwin talks up compartmentalising for 'separate sports' after batting exploits](https://www.cricbuzz.com/cricket-news/131695/ashwin-talks-up-compartmentalising-for-separate-sports-after-batting-gains "Ashwin talks up compartmentalising for 'separate sports' after batting exploits")
-
-15h ago
-
-  [](https://www.cricbuzz.com/cricket-news/131694/akash-deep-hits-his-spots-fits-right-in "Akash Deep hits his spots, fits right in")
-
-[Akash Deep hits his spots, fits right in](https://www.cricbuzz.com/cricket-news/131694/akash-deep-hits-his-spots-fits-right-in "Akash Deep hits his spots, fits right in")
-
-16h ago
+11h ago
 
 [More News](https://www.cricbuzz.com/cricket-news "Click to view more News")
 
