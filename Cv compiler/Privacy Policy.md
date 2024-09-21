@@ -1773,6 +1773,8 @@ What do top resumes look like? Check out these expertly-written samples:
 
 [Quality Control Manager](https://cvcompiler.com/quality-control-manager-resume-examples)
 
+[Full Stack Web Developer](https://cvcompiler.com/full-stack-web-developer-resume-examples)
+
 ![Upload resume illustration](uploads-pre-acq/img/upload-illustration.svg)
 
 ### Upload  
