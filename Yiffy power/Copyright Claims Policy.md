@@ -83,7 +83,7 @@ August 24, 2024
 
 [elena and elin (mythology) created by psychorodent](https://yiff-party.com/yiff/elena-and-elin-mythology-created-by-psychorodent/)
 
-0 468 1
+0 478 1
 
 August 24, 2024
 
@@ -91,15 +91,15 @@ August 24, 2024
 
 [created by rabbitbrush](https://yiff-party.com/yiff/created-by-rabbitbrush/)
 
-0 169 1
+0 182 1
 
 September 11, 2024
 
-[](https://yiff-party.com/yiff/jane-doe-zenless-zone-zero-and-etc-created-by-darzhii/)
+[](https://yiff-party.com/yiff/suki-lane-illumination-entertainment-and-etc-created-by-redvais/)
 
-[jane doe (zenless zone zero and etc) created by darzhii](https://yiff-party.com/yiff/jane-doe-zenless-zone-zero-and-etc-created-by-darzhii/)
+[suki lane (illumination entertainment and etc) created by redvais](https://yiff-party.com/yiff/suki-lane-illumination-entertainment-and-etc-created-by-redvais/)
 
-0 329 0
+0 210 0
 
 August 22, 2024
 
