@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-aa7ace1010ff5b3da541e3af0dcf785c
+50e7669b03382e4ca6ff648a1207a433
 
 [](# "Expand for more options")[](# "Search")
 
@@ -142,11 +142,11 @@ Terms and Conditions
 
 ### Featured Product
 
-[![Purple and black hand-loomed cotton blanket](https://sojourner.biz/images/cache/bohemian_chic/TX0005.200.webp)](https://sojourner.biz/bohemian-chic-decor/purple-and-black-hand-loomed-cotton-blanket.html "Purple and black hand-loomed cotton blanket")
+[![6 mm green heart beads](https://sojourner.biz/images/cache/glass/HRT032.200.jpg)](https://sojourner.biz/beads/glass/6-mm-green-heart-beads.html "6 mm green heart beads")
 
-#### [Purple and black hand-loomed cotton blanket](https://sojourner.biz/bohemian-chic-decor/purple-and-black-hand-loomed-cotton-blanket.html "Purple and black hand-loomed cotton blanket")
+#### [6 mm green heart beads](https://sojourner.biz/beads/glass/6-mm-green-heart-beads.html "6 mm green heart beads")
 
-$175.00
+$2.00
 
 ### Best Sellers
 
