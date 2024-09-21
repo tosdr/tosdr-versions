@@ -56,13 +56,13 @@ Featured stories
 
 [![ ](https://images.everydayhealth.com/react-component-images/image-src-placeholder-16x9288625876.png)
 
-![ ](https://images.everydayhealth.com/images/news/avoid-four-types-processed-foods-diabetes-risk-1440x810.jpg)
+![ ](https://images.everydayhealth.com/images/news/how-many-chemicals-enter-our-bodies-from-food-packaging-1440x810.jpg)
 
-Cutting Back on Certain Ultraprocessed Foods Can Slash Diabetes Risk](https://www.everydayhealth.com/diabetes/cutting-back-on-ultraprocessed-foods-can-slash-diabetes-risk/)[![ ](https://images.everydayhealth.com/react-component-images/image-src-placeholder-16x9288625876.png)
+New Study Finds More Than 3,600 Chemicals From Food Packaging in Humans](https://www.everydayhealth.com/public-health/new-study-finds-over-3-600-chemicals-from-food-packaging-in-humans/)[![ ](https://images.everydayhealth.com/react-component-images/image-src-placeholder-16x9288625876.png)
 
-![ ](https://images.everydayhealth.com/images/news/shorter-radiation-better-for-breast-cancer-patients-1440x810.jpg)
+![ ](https://images.everydayhealth.com/images/news/drinking-coffee-may-protect-heart-health-1440x810.jpg)
 
-Is There Any Way to Minimize Side Effects of Radiation for Breast Cancer?](https://www.everydayhealth.com/cancer/minimizing-side-effects-of-radiation-for-breast-cancer/) [![ ](https://images.everydayhealth.com/react-component-images/image-src-placeholder-16x9288625876.png)
+Coffee Tied to Lower Risk of Heart Disease and Diabetes](https://www.everydayhealth.com/heart-disease/coffee-tied-to-lower-risk-of-heart-disease-and-diabetes/)[![ ](https://images.everydayhealth.com/react-component-images/image-src-placeholder-16x9288625876.png)
 
 ![ ](https://images.everydayhealth.com/images/news/fda-approves-updated-covid-vaccines-fall-2024-1440x810.jpg)
 
