@@ -242,35 +242,35 @@ We have included on the pages of this website a robots meta tag with the “noai
 
 This privacy policy was created in party by using [Termly’s Privacy Policy Generator](https://termly.io/products/privacy-policy-generator/?ftseo).
 
-[![](https://cwbchicago.com/wp-content/uploads/2022/09/copa-18th-morgan-CPD-shooting-fram-326x245.jpg)](https://cwbchicago.com/2024/09/chicago-police-sergeant-acquitted-in-on-duty-shooting-sues-kim-foxx-and-others-for-wrongful-prosecution.html "Chicago police sergeant acquitted in on-duty shooting sues Kim Foxx and others for wrongful prosecution")
+[![](https://cwbchicago.com/wp-content/uploads/2024/09/Aileen-Terrazas-326x245.jpg)](https://cwbchicago.com/2024/09/woman-charged-with-robbery-after-her-mom-recognizes-her-in-chicago-police-bulletin.html "Woman charged with robbery after her mom recognizes her in Chicago police bulletin")
 
-Pilsen
+CTA
 
-### [Chicago police sergeant acquitted in on-duty shooting sues Kim Foxx and others for wrongful prosecution](https://cwbchicago.com/2024/09/chicago-police-sergeant-acquitted-in-on-duty-shooting-sues-kim-foxx-and-others-for-wrongful-prosecution.html "Chicago police sergeant acquitted in on-duty shooting sues Kim Foxx and others for wrongful prosecution")
+### [Woman charged with robbery after her mom recognizes her in Chicago police bulletin](https://cwbchicago.com/2024/09/woman-charged-with-robbery-after-her-mom-recognizes-her-in-chicago-police-bulletin.html "Woman charged with robbery after her mom recognizes her in Chicago police bulletin")
 
-[September 19, 2024 12:04 PM](https://cwbchicago.com/2024/09)
+[September 20, 2024 7:13 AM](https://cwbchicago.com/2024/09)
 
-A Chicago police sergeant has filed a federal lawsuit against the city, Cook County, and a handful of government employees, including State’s Attorney Kim Foxx, claiming that he was wrongfully prosecuted for an on-duty shooting.[](https://cwbchicago.com/2024/09/chicago-police-sergeant-acquitted-in-on-duty-shooting-sues-kim-foxx-and-others-for-wrongful-prosecution.html "Chicago police sergeant acquitted in on-duty shooting sues Kim Foxx and others for wrongful prosecution")
+Chicago police charged a woman with robbery after her mother identified her in CTA surveillance photos they released in a community alert last week.[](https://cwbchicago.com/2024/09/woman-charged-with-robbery-after-her-mom-recognizes-her-in-chicago-police-bulletin.html "Woman charged with robbery after her mom recognizes her in Chicago police bulletin")
 
-[![](https://cwbchicago.com/wp-content/uploads/2024/09/FBi-bank-rob-180-n-michigan-326x245.jpg)](https://cwbchicago.com/2024/09/fbi-offers-1k-reward-for-loop-bank-robber.html "FBI offers $1K reward for Loop bank robber")
+[![](https://cwbchicago.com/wp-content/uploads/2024/09/clock-326x245.jpg)](https://cwbchicago.com/2024/09/shotspotter-tips-cops-to-armed-home-invasion-where-2-girls-were-home-alone.html "ShotSpotter tips cops to armed home invasion where 2 girls were home alone")
 
-Loop
+Woodlawn
 
-### [FBI offers $1K reward for Loop bank robber](https://cwbchicago.com/2024/09/fbi-offers-1k-reward-for-loop-bank-robber.html "FBI offers $1K reward for Loop bank robber")
+### [ShotSpotter tips cops to armed home invasion where 2 girls were home alone](https://cwbchicago.com/2024/09/shotspotter-tips-cops-to-armed-home-invasion-where-2-girls-were-home-alone.html "ShotSpotter tips cops to armed home invasion where 2 girls were home alone")
 
-[September 19, 2024 10:57 AM](https://cwbchicago.com/2024/09)
+[September 20, 2024 6:01 AM](https://cwbchicago.com/2024/09)
 
-Need a quick $1,000? All you need to do is lead the FBI to this bank robber. The federal agency announced the modest reward Thursday morning.[](https://cwbchicago.com/2024/09/fbi-offers-1k-reward-for-loop-bank-robber.html "FBI offers $1K reward for Loop bank robber")
+A ShotSpotter alert was responsible for Chicago police arriving quickly at a home invasion in Woodlawn on Wednesday. Only two young girls were in the home at the time of the crime.[](https://cwbchicago.com/2024/09/shotspotter-tips-cops-to-armed-home-invasion-where-2-girls-were-home-alone.html "ShotSpotter tips cops to armed home invasion where 2 girls were home alone")
 
-[![](https://cwbchicago.com/wp-content/uploads/2024/09/arrested-edited-326x245.jpg)](https://cwbchicago.com/2024/09/boy-16-linked-to-robberies-of-rideshare-drivers-in-south-shore.html "Boy, 16, linked to robberies of rideshare drivers in South Shore")
+[![](https://cwbchicago.com/wp-content/uploads/2024/09/CPD-patch-2024-generic-edited-326x245.jpg)](https://cwbchicago.com/2024/09/another-jewelry-snatching-case-reported-in-the-loop-as-days-old-crime-pattern-grows.html "Another jewelry-snatching case reported in the Loop as days-old crime pattern grows")
 
-South Shore
+Lincoln Park
 
-### [Boy, 16, linked to robberies of rideshare drivers in South Shore](https://cwbchicago.com/2024/09/boy-16-linked-to-robberies-of-rideshare-drivers-in-south-shore.html "Boy, 16, linked to robberies of rideshare drivers in South Shore")
+### [Another jewelry-snatching case reported in the Loop as days-old crime pattern grows](https://cwbchicago.com/2024/09/another-jewelry-snatching-case-reported-in-the-loop-as-days-old-crime-pattern-grows.html "Another jewelry-snatching case reported in the Loop as days-old crime pattern grows")
 
-[September 19, 2024 10:42 AM](https://cwbchicago.com/2024/09)
+[September 19, 2024 7:05 PM](https://cwbchicago.com/2024/09)
 
-A 16-year-old boy is charged with robbing two rideshare drivers in the South Shore neighborhood last week, part of an ongoing crime pattern that involved at least 12 similar holdups, according to Chicago police.[](https://cwbchicago.com/2024/09/boy-16-linked-to-robberies-of-rideshare-drivers-in-south-shore.html "Boy, 16, linked to robberies of rideshare drivers in South Shore")
+Police are investigating yet another jewelry-snatching robbery, the latest in a string of similar crimes that CWBChicago first reported on Thursday morning.[](https://cwbchicago.com/2024/09/another-jewelry-snatching-case-reported-in-the-loop-as-days-old-crime-pattern-grows.html "Another jewelry-snatching case reported in the Loop as days-old crime pattern grows")
 
 Search
 
