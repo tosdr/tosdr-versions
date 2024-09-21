@@ -404,9 +404,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ ... when you see something that is not right, not fair, not just, say something, do something. Get in trouble, good trouble, necessary trouble”
+“ Being honest may not get you a lot of friends but it’ll always get you the right ones”
 
-[John Lewis](https://en.wikipedia.org/wiki/John_Lewis_(civil_rights_leader))
+[John Lennon](https://en.wikipedia.org/wiki/John_Lennon)
 
 [](https://www.adafruit.com/about)
 
