@@ -273,7 +273,7 @@ If you have any questions about this Agreement, please contact us by using our c
 Revised: February 11, 2024  
 Copyright © 2020-2024 escortfreelancers LLC. All Rights Reserved.
 
-#### FIND LOCAL CONTRACTORS
+#### DISCOVER AI APPS
 
 * * *
 
@@ -310,7 +310,7 @@ Copyright © 2020-2024 escortfreelancers LLC. All Rights Reserved.
     * Русский
     
 
-#### © contractor.bar
+#### © app.net
 
 * [Site Map](https://app.net/sitemap)
 * [GDPR](https://app.net/gdpr)
