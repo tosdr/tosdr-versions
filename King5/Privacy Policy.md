@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
+    *  [![](https://media.king5.com/assets/KING/images/d900470a-5c27-448d-aa7a-1bdd4ff23432/20240921T164646/d900470a-5c27-448d-aa7a-1bdd4ff23432_16x9.jpg) ![](https://media.king5.com/assets/KING/images/d900470a-5c27-448d-aa7a-1bdd4ff23432/20240921T164646/d900470a-5c27-448d-aa7a-1bdd4ff23432_360x203.jpg)](https://www.king5.com/article/news/local/pets-and-animals/paws-wild-night-gala-continue-washington-wildlife-rescue-pet-adoptions/281-e836e062-8445-4e12-9f22-d4b24f74e903)
+        
+        #### [PAWS gears up for 'Wild Night' gala to continue Washington wildlife rescue, pet adoptions](https://www.king5.com/article/news/local/pets-and-animals/paws-wild-night-gala-continue-washington-wildlife-rescue-pet-adoptions/281-e836e062-8445-4e12-9f22-d4b24f74e903)
+        
     *  [![](https://media.king5.com/assets/KING/images/9308fa1d-c453-4219-8741-66fdb751152e/9308fa1d-c453-4219-8741-66fdb751152e_16x9.jpg) ![](https://media.king5.com/assets/KING/images/9308fa1d-c453-4219-8741-66fdb751152e/9308fa1d-c453-4219-8741-66fdb751152e_360x203.jpg)](https://www.king5.com/article/traffic/traffic-news/145th-street-closure-shoreline-seattle-extended/281-14c9f5a3-fd50-456d-802b-cce21fd5046b)
         
         #### [145th Street closure in Shoreline extended to 2025](https://www.king5.com/article/traffic/traffic-news/145th-street-closure-shoreline-seattle-extended/281-14c9f5a3-fd50-456d-802b-cce21fd5046b)
-        
-    *  [![](https://media.king5.com/assets/KING/images/b3f63962-6058-4e8d-afc3-116790551e16/20240921T031649/b3f63962-6058-4e8d-afc3-116790551e16_16x9.jpg) ![](https://media.king5.com/assets/KING/images/b3f63962-6058-4e8d-afc3-116790551e16/20240921T031649/b3f63962-6058-4e8d-afc3-116790551e16_360x203.jpg)](https://www.king5.com/article/news/local/24-hours-inside-coffin-federal-way-theme-park-contest-wild-waves/281-6a3a7db8-9ac4-400f-9cb6-6f85f1eb4f17)
-        
-        #### [Federal Way theme park contest challenges 6 people to sit in coffins for 24 hours](https://www.king5.com/article/news/local/24-hours-inside-coffin-federal-way-theme-park-contest-wild-waves/281-6a3a7db8-9ac4-400f-9cb6-6f85f1eb4f17)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -56,7 +56,7 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/8c8f2f43-a9f2-4f9e-984e-25b2fffc2e21/20240921T055010/8c8f2f43-a9f2-4f9e-984e-25b2fffc2e21_16x9.jpg) ![](https://media.king5.com/assets/KING/images/8c8f2f43-a9f2-4f9e-984e-25b2fffc2e21/20240921T055010/8c8f2f43-a9f2-4f9e-984e-25b2fffc2e21_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
+    *  [![](https://media.king5.com/assets/KING/images/14126ce3-8e17-4562-817f-3d055be23bd0/20240921T154342/14126ce3-8e17-4562-817f-3d055be23bd0_16x9.jpg) ![](https://media.king5.com/assets/KING/images/14126ce3-8e17-4562-817f-3d055be23bd0/20240921T154342/14126ce3-8e17-4562-817f-3d055be23bd0_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
         #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
@@ -95,9 +95,9 @@ Navigation
 
 Seattle, WA »
 
-50°
+66°
 
-![Partly Cloudy](/assets/shared-images/weather-icons/partly-cloudy-day_210x210.png)
+![Sunny](/assets/shared-images/weather-icons/clear-day_210x210.png)
 
 Seattle, WA »](https://www.king5.com/weather)
 
