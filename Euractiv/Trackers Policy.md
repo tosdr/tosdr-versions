@@ -490,8 +490,8 @@ Languages: [Français](https://www.euractiv.fr/?post_type=page&p=364525)
 * 5[NATO chief: Each country to decide if Ukraine can use its long-range missiles on Russia](http://en.euractiv.eu/section/global-europe/news/nato-chief-each-country-to-decide-if-ukraine-can-use-its-long-range-missiles-on-russia/?utm_source=website&utm_campaign=popular)
 * 6[EU Commission rebuffs car industry calls to delay CO2 targets](http://en.euractiv.eu/section/electric-cars/news/eu-commission-rebuffs-car-industry-calls-to-delay-co2-targets/?utm_source=website&utm_campaign=popular)
 * 7[Von der Leyen unveils EU Commission top jobs, with some surprises](http://en.euractiv.eu/section/politics/news/von-der-leyen-unveils-eu-commission-top-jobs-with-some-surprises/?utm_source=website&utm_campaign=popular) 
-* 8[European competitiveness in the energy transition: Shell's views for the next EU cycle](http://en.euractiv.eu/section/energy-environment/opinion/european-competitiveness-in-the-energy-transition-shells-views-for-the-next-eu-cycle/?utm_source=website&utm_campaign=popular)
-* 9[EU, China trade chiefs agree to look at 'price undertakings' in key EV tariff saga twist](http://en.euractiv.eu/section/economy-jobs/news/eu-china-trade-chiefs-agree-to-look-at-price-undertakings-in-key-ev-tariff-saga-twist/?utm_source=website&utm_campaign=popular)
+* 8[EU, China trade chiefs agree to look at 'price undertakings' in key EV tariff saga twist](http://en.euractiv.eu/section/economy-jobs/news/eu-china-trade-chiefs-agree-to-look-at-price-undertakings-in-key-ev-tariff-saga-twist/?utm_source=website&utm_campaign=popular)
+* 9[Groundhog day for carmakers, but complaining has become absurd](http://en.euractiv.eu/section/electric-cars/opinion/groundhog-day-for-carmakers-but-complaining-has-become-absurd/?utm_source=website&utm_campaign=popular)
 * 10[Von der Leyen plans five more years of intense energy and climate rule-making](http://en.euractiv.eu/section/energy-environment/news/von-der-leyen-plans-five-more-years-of-intense-energy-and-climate-rule-making/?utm_source=website&utm_campaign=popular)
 
 ###### Advertisement
