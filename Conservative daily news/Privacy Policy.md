@@ -177,16 +177,16 @@ Recent Posts
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
 
+* [POTD: Joe Easter – Running & Gunning A KelTec RDB](https://www.thegunpage.com/potd-joe-easter-running-gunning-a-keltec-rdb/10610714)
+* [TFB Podcast Roundup 147: The September 20th Roundup](https://www.thegunpage.com/tfb-podcast-roundup-147-the-september-20th-roundup/10610715)
+* [Shooter’s Product Preview: SnapSafe Super Titan](https://www.thegunpage.com/shooters-product-preview-snapsafe-super-titan/10610711)
+* [Anti-Gunners Distort Evidence on Defensive Firearms Uses](https://www.thegunpage.com/anti-gunners-distort-evidence-on-defensive-firearms-uses/10610709)
 * [Henry Announces The 10-Shot .22 Golden Boy](https://www.thegunpage.com/henry-announces-the-10-shot-22-golden-boy/10610705)
 * [Michigan Man Free After Shooting Ruled Self-Defense](https://www.thegunpage.com/michigan-man-free-after-shooting-ruled-self-defense/10610704)
 * [Galco Miami Classic II Now Available For Colt King Cobra](https://www.thegunpage.com/galco-miami-classic-ii-now-available-for-colt-king-cobra/10610700)
 * [Another Year, Another Worthless Columbus, Ohio, Gun “Buyback”](https://www.thegunpage.com/another-year-another-worthless-columbus-ohio-gun-buyback/10610699)
 * [New: Cabot Guns High Voltage Pistols](https://www.thegunpage.com/new-cabot-guns-high-voltage-pistols/10610708)
 * [CrossBreed Announces The Chest Rig Nomad](https://www.thegunpage.com/crossbreed-announces-the-chest-rig-nomad/10610701)
-* [High Noon in America: Breitbart Article Compares Trump to the Western Anti-Hero](https://www.thegunpage.com/high-noon-in-america-breitbart-article-compares-trump-to-the-western-anti-hero/10610696)
-* [What Do The Different Range Commands Mean?](https://www.thegunpage.com/what-do-the-different-range-commands-mean/10610695)
-* [Evangelicals And Gun Owners Need To Vote](https://www.thegunpage.com/evangelicals-and-gun-owners-need-to-vote/10610692)
-* [What to Bring to Your First Competition](https://www.thegunpage.com/what-to-bring-to-your-first-competition/10610687)
 
 [![ Conservative Political Blogs](https://blog.feedspot.com/wp-content/uploads/2016/12/conservative_political_216px.png?x58297)](https://blog.feedspot.com/conservative_political_blogs/ "Conservative Political Blogs")
 
