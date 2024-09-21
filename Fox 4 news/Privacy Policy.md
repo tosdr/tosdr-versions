@@ -400,35 +400,35 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
- [![Denton chiropractor accused of sexually assaulting patients](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/Hector-Reyes-Mugshot.jpg?ve=1&tl=1)
+ [![More than 3,000 chemicals enter the body through food packaging, study finds](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/food-packaging-getty.jpg?ve=1&tl=1)
 
- ![Denton chiropractor accused of sexually assaulting patients](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/592/333/Hector-Reyes-Mugshot.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/denton-chiropractor-accused-sexually-assaulting-patients)
+ ![More than 3,000 chemicals enter the body through food packaging, study finds](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/592/333/food-packaging-getty.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/3000-chemicals-enter-body-through-food-packaging-study)
 
-### [Denton chiropractor accused of sexually assaulting patients](https://www.fox4news.com/news/denton-chiropractor-accused-sexually-assaulting-patients)
+### [More than 3,000 chemicals enter the body through food packaging, study finds](https://www.fox4news.com/news/3000-chemicals-enter-body-through-food-packaging-study)
 
- [![Dallas Symphony Orchestra hosts 60th anniversary Beatles experience](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2021/10/32/18/GettyImages-592194576.jpg?ve=1&tl=1)
+ [![Georgia State Election Board approves new hand-counting ballot rule](https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2024/09/32/18/3b6fa473-GettyImages-2071909333.jpg?ve=1&tl=1)
 
- ![Dallas Symphony Orchestra hosts 60th anniversary Beatles experience](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2021/10/32/18/592/333/GettyImages-592194576.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/dallas-symphony-orchestra-hosts-60th-anniversary-beatles-experience)
+ ![Georgia State Election Board approves new hand-counting ballot rule](https://images.foxtv.com/images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2024/09/32/18/592/333/3b6fa473-GettyImages-2071909333.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/georgia-state-election-board-last-minute-voting-rule-changes)
 
-### [Dallas Symphony Orchestra hosts 60th anniversary Beatles experience](https://www.fox4news.com/news/dallas-symphony-orchestra-hosts-60th-anniversary-beatles-experience)
+### [Georgia State Election Board approves new hand-counting ballot rule](https://www.fox4news.com/news/georgia-state-election-board-last-minute-voting-rule-changes)
 
- [![Springfield, Ohio church offers support to Haitian immigrants](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/Springfield-Ohio-mural.jpg?ve=1&tl=1)
+ [![Fort Worth police officer William Martin arrested in connection to off-duty shooting](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/william-martin-OIS-scene.png?ve=1&tl=1)
 
- ![Springfield, Ohio church offers support to Haitian immigrants](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/592/333/Springfield-Ohio-mural.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/springfield-church-support-haitian-immigrants)
+ ![Fort Worth police officer William Martin arrested in connection to off-duty shooting](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/592/333/william-martin-OIS-scene.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/william-martin-arrested-off-duty-shooting-fort-worth-police)
 
-### [‘He called us to welcome strangers:’ Springfield church offers support to Haitian immigrants](https://www.fox4news.com/news/springfield-church-support-haitian-immigrants)
+### [Fort Worth police officer William Martin arrested in connection to off-duty shooting](https://www.fox4news.com/news/william-martin-arrested-off-duty-shooting-fort-worth-police)
 
- [![Fort Worth Mayor Mattie Parker wears 'Life is Too Short to Live in Dallas' shirt](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/mattie-parker.jpg?ve=1&tl=1)
+ [![4 Lewisville ISD students arrested for making school threats](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/P-ALEX-LEWISVILLE-SCHOOL-THREAT-5P_00.00.35.04.jpg?ve=1&tl=1)
 
- ![Fort Worth Mayor Mattie Parker wears 'Life is Too Short to Live in Dallas' shirt](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/592/333/mattie-parker.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/fort-worth-mayor-parker-shirt-iron-skillet-dallas)
+ ![4 Lewisville ISD students arrested for making school threats](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/592/333/P-ALEX-LEWISVILLE-SCHOOL-THREAT-5P_00.00.35.04.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/4-lewisville-isd-students-arrested-school-threats)
 
-### [Fort Worth Mayor Mattie Parker wears 'Life is Too Short to Live in Dallas' shirt](https://www.fox4news.com/news/fort-worth-mayor-parker-shirt-iron-skillet-dallas)
+### [4 Lewisville ISD students arrested for making school threats](https://www.fox4news.com/news/4-lewisville-isd-students-arrested-school-threats)
 
- [![Mansfield man killed in shooting; suspect on the run](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2021/05/32/18/1d79ac79-7adf2996-POLICE-GENERIC.jpg?ve=1&tl=1)
+ [![Fort Worth family mourns loved one 1 year later as accused drunk driver remains free on bond](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/517d3b6e-P-DIONNE-FW-CHISHOLM-TRAIL-PKWY-530P_00.00.26.12.jpg?ve=1&tl=1)
 
- ![Mansfield man killed in shooting; suspect on the run](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2021/05/32/18/592/333/1d79ac79-7adf2996-POLICE-GENERIC.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/mansfield-shooting-one-dead)
+ ![Fort Worth family mourns loved one 1 year later as accused drunk driver remains free on bond](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/592/333/517d3b6e-P-DIONNE-FW-CHISHOLM-TRAIL-PKWY-530P_00.00.26.12.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/aaron-roberts-dwi-hearing-sept-2024-brianna-lopez-chisholm-trail-wrong-way-crash)
 
-### [Mansfield man killed in shooting; suspect on the run](https://www.fox4news.com/news/mansfield-shooting-one-dead)
+### [Fort Worth family mourns loved one 1 year later as accused drunk driver remains free on bond](https://www.fox4news.com/news/aaron-roberts-dwi-hearing-sept-2024-brianna-lopez-chisholm-trail-wrong-way-crash)
 
 ###### [News](https://www.fox4news.com/news)
 
