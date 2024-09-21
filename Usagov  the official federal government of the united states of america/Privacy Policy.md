@@ -26,7 +26,7 @@ Search   ![Search](/themes/custom/usagov/components/searchbar/images/search--dar
 
 * [About USAGov](https://www.usa.gov/about)
 * [Website policies and notices](#)
-    * [Privacy and security policies](https://www.usa.gov/privacy)
+    * [Privacy and security](https://www.usa.gov/privacy)
     * [Accessibility policy](https://www.usa.gov/accessibility)
     * [Linking policy](https://www.usa.gov/linking-policy)
     * [How to cite USA.gov](https://www.usa.gov/how-to-cite)
@@ -74,7 +74,7 @@ Search   ![Search](/themes/custom/usagov/components/searchbar/images/search--dar
     * [Products and programs](https://www.usa.gov/products-programs)
     * [Partner with USAGov](https://www.usa.gov/partner-with-usagov)
     * [Website policies and notices](https://www.usa.gov/website-policies-and-notices)
-        * [Privacy and security policies](https://www.usa.gov/privacy)
+        * [Privacy and security](https://www.usa.gov/privacy)
         * [Accessibility policy](https://www.usa.gov/accessibility)
         * [Linking policy](https://www.usa.gov/linking-policy)
         * [How to cite USA.gov](https://www.usa.gov/how-to-cite)
