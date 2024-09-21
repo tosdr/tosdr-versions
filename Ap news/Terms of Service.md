@@ -12,9 +12,9 @@ Menu
     
     TOP STORIES
     
-    * [Thousands of exploding devices in Lebanon trigger a nation that has been on edge for years](https://apnews.com/article/lebanon-pagers-hezbollahexplosion-israel-beirut-port-6c51ff6c743ba63154b95790357d31df)
-    * [Israel says its strike on Beirut killed a top Hezbollah military official as Lebanon reports 12 died](https://apnews.com/article/israel-hezbollah-rocket-attack-mideast-tensions-a6a95169a21b45dc86d86182e255fa7e)
-    * [Hezbollah leader vows retaliation against Israel for attacks on devices as both sides trade strikes](https://apnews.com/article/israel-lebanon-exploding-devices-hezbollah-mideast-ab2436cf5bae5e2fe2dddb293671a0ac)
+    * [Rare Israeli airstrike in Beirut kills Hezbollah commander and more than a dozen others](https://apnews.com/article/israel-hezbollah-rocket-attack-mideast-tensions-a6a95169a21b45dc86d86182e255fa7e)
+    * [Did Middle East device attack violate international law? Advocates want an investigation](https://apnews.com/article/lebanon-israel-hezbollah-geneva-conventions-1d0044e23cdb902036884e66e8fea086)
+    * [Another arms depot in northwestern Russia on fire after Ukrainian drone strike](https://apnews.com/article/russia-ukraine-war-fire-depot-drone-522c89e6ad0f1fb8db3a5787a1c17fc6)
     
     Newsletters
     
@@ -30,9 +30,9 @@ Menu
     
     TOP STORIES
     
-    * [Tiny Kentucky town is rocked as their sheriff is jailed in the killing of a prominent judge](https://apnews.com/article/kentucky-sheriff-judge-courthouse-shooting-d8df59f414023489527e9aef49f4c8cf)
-    * [AI may breathe new life into Three Mile Island to supply power to Microsoft's data centers](https://apnews.com/article/three-mile-island-nuclear-power-microsoft-8f47ba63a7aab8831a7805dfde0e2c39)
+    * [Footage shows NYPD officers firing at man with knife in subway shooting that wounded 4](https://apnews.com/article/nyc-subway-shooting-brooklyn-bodycam-video-nypd-14c10f5f5c5d9d9697dfe019b19e1bd1)
     * [Robinson won't appear at Trump's North Carolina rally after report on online posts, AP sources say](https://apnews.com/article/north-carolina-governor-mark-robinson-trump-kamala-harris-cooper-cnn-stein-c7ee5c23f554f3708619d6b68e208b94)
+    * [Tiny Kentucky town is rocked as their sheriff is jailed in the killing of a prominent judge](https://apnews.com/article/kentucky-sheriff-judge-courthouse-shooting-d8df59f414023489527e9aef49f4c8cf)
     
     Newsletters
     
@@ -52,9 +52,9 @@ Menu
     
     TOP STORIES
     
-    * [Voters split on whether Harris or Trump would do a better job on the economy: AP-NORC poll](https://apnews.com/article/harris-trump-economy-poll-inflation-dc80ac9e5d7da42900762910d5f0a283)
-    * [Harris looks for boost from Oprah as part of digital-first media strategy](https://apnews.com/article/oprah-harris-michigan-trump-4ccf9234d489a61b5dacbde32fe015ca)
-    * [Trump vows to be 'best friend' to Jewish Americans, as allegations of ally's antisemitism surface](https://apnews.com/article/harris-trump-oprah-winfrey-miriam-adelson-f9384395f54a0d071ab52bca80d3659e)
+    * ['She should be alive today' — Harris spotlights woman's death to blast abortion bans and Trump](https://apnews.com/article/harris-election-abortion-rights-georgia-amber-thurman-5ba5dabf0dc3c98de12389c34b47475d)
+    * [In-person voting begins for the US presidential contest, kicking off the sprint to Election Day](https://apnews.com/article/early-voting-presidential-election-trump-harris-7fb7a8ff28490f71cd15529321dfe765)
+    * [Controversial North Carolina candidate for governor rattles Republicans in critical swing state](https://apnews.com/article/mark-robinson-north-carolina-governor-trump-e5f7e3740c518883eefd16fd04f8533d)
     
     Newsletters
     
@@ -72,9 +72,9 @@ Menu
     
     TOP STORIES
     
-    * [Controversial North Carolina candidate for governor rattles Republicans in critical swing state](https://apnews.com/article/mark-robinson-north-carolina-governor-trump-e5f7e3740c518883eefd16fd04f8533d)
-    * [Secret Service report details communication failures preceding July assassination attempt on Trump](https://apnews.com/article/trump-secret-service-assassination-attempt-campaign-7dca5e30730287f46cceaa35437f0d47)
-    * [In-person voting begins for the US presidential contest, kicking off the sprint to Election Day](https://apnews.com/article/early-voting-presidential-election-trump-harris-7fb7a8ff28490f71cd15529321dfe765)
+    * [AI is helping shape the 2024 presidential race. But not in the way experts feared](https://apnews.com/article/artificial-intellgence-memes-trump-harris-deepfakes-256282c31fa9316c4059f09036c70fa9)
+    * [The US is more hands-off than usual in the Middle East. It fears making things worse](https://apnews.com/article/israel-hezbollah-gaza-united-states-middle-east-8d80f42131c5b5af88fffe9ca85fc725)
+    * [Biden is putting personal touch on Asia-Pacific diplomacy in his final months in office](https://apnews.com/article/biden-modi-india-quad-australia-japan-delaware-3ddfcea9b0e0027977f7d861f2d0cf12)
     
     Newsletters
     
@@ -92,8 +92,8 @@ Menu
     
     TOP STORIES
     
-    * [Ohtani keeps showing a flair for the dramatic during his historic 1st season with the Dodgers](https://apnews.com/article/shohei-ohtani-dodgers-history-54d98e25e093a2041eb566261ad59b93)
-    * [Japan celebrates as Ohtani becomes the first major leaguer to reach 50-50 milestone](https://apnews.com/article/japan-baseball-ohtani-fc70beed86971c0f72c7bd55f15dbc56)
+    * [Better than Babe Ruth? Ohtani's feats make the superstar a legend even among MLB peers](https://apnews.com/article/shohei-ohtani-dodgers-7c33fc6012183de863a3b844ac4967e9)
+    * [Phillies clinch 3rd straight playoff berth and close in on NL East title](https://apnews.com/article/phillies-clinch-playoffs-8850ba5682e23e00b28262c0e67819d2)
     * [Joel Embiid signs a 3-year, $193 million contract extension with the 76ers](https://apnews.com/article/joel-embiid-philadelphia-76ers-extension-b6e87d045eb34e62c5864495012f54a4)
     
     Newsletters
@@ -114,9 +114,9 @@ Menu
     
     TOP STORIES
     
+    * ['The West Wing' cast visits the White House for a 25th anniversary party](https://apnews.com/article/west-wing-anniversary-biden-white-house-7960e30d0e18c5fe2dc759400392fc6c)
     * [50 years after 'The Power Broker,' Robert Caro's dreams are still coming true](https://apnews.com/article/robert-caro-power-broker-50-years-684b96ffb147edb8c1a1935687d2f7c0)
     * [Why does 'The Babadook' still haunt? Its director, Jennifer Kent, has some answers](https://apnews.com/article/babadook-jennifer-kent-horror-interview-09d4b86437a8ce66370ab70c1623c92b)
-    * [Music Review: Katy Perry returns with the uninspired and forgettable '143'](https://apnews.com/article/katy-perry-143-music-review-419ff9b2b01354518084c30b3b9d4fab)
     
 * [Business](https://apnews.com/business)
     
@@ -127,7 +127,7 @@ Menu
     TOP STORIES
     
     * [Brazil drought punishes coffee farms and threatens to push prices even higher](https://apnews.com/article/brazil-climate-change-drought-coffee-harvest-a6516a4b314e6ba7c11513c08afb6996)
-    * [Stock market today: Wall Street hovers around records as FedEx slumps](https://apnews.com/article/stocks-markets-rates-fed-japan-acfb636ed8e0e341a1e93b1567ff0358)
+    * [Stock market today: Wall Street closes its record-setting week mixed as FedEx slumps and Nike jumps](https://apnews.com/article/stocks-markets-rates-fed-japan-acfb636ed8e0e341a1e93b1567ff0358)
     * [House backs measure to overturn Biden auto emissions rule that Republicans say would force EV sales](https://apnews.com/article/epa-tailpipe-emissions-electric-vehicles-republicans-1a1e4f817f21b593d8573a2bc8582474)
     
 * [Science](https://apnews.com/science)
@@ -157,12 +157,12 @@ Menu
     
     TOP STORIES
     
+    * [A lost cat's mysterious 2-month, 900-mile journey home to California](https://apnews.com/article/cat-travel-900-miles-wyoming-california-trips-50041165e4af0e119e2d715f8a64a015)
     * [Thailand's adorable pygmy hippo Moo Deng has the kind of face that launches a thousand memes](https://apnews.com/article/moo-deng-baby-hippo-thailand-zoo-27485f0cbc70071252be45d870d507aa)
     * [Police say a pair took an NYC subway train on a joyride and crashed it. They have arrested 1 teen](https://apnews.com/article/subway-joyride-crash-new-york-b61ed588ccef4e002a5d125b3cd75a50)
     * [A bewildered seal found itself in the mouth of a humpback whale](https://apnews.com/article/humpback-whale-gulps-seal-51cc65b5099f71a8d5b0d9469e2376fe)
     * [Grand prize winner removed 20 Burmese pythons from the wild in Florida challenge](https://apnews.com/article/florida-python-challenge-2024-burmese-snakes-winner-414c2fae8726fc31e4049124f0f50510)
     * [Purple place: Mets unveil the new Grimace seat at Citi Field](https://apnews.com/article/mets-grimace-seat-citi-field-7507393b90dadce40682024de63094d8)
-    * [An 8-year-old Ohio girl drove an SUV on a solo Target run](https://apnews.com/article/ohio-girl-drives-to-store-9ac769122b7b139ce21e5ca2490c65da)
     
 * [Be Well](https://apnews.com/hub/be-well)
     
@@ -219,12 +219,12 @@ Menu
     
     TOP STORIES
     
+    * [Western nations were desperate for Korean babies. Now many adoptees believe they were stolen](https://apnews.com/article/south-korean-adoptions-investigation-united-states-europe-67d6bb03fddede7dcca199c2e3cd486e)
     * [These South Koreans were adopted as babies. Now they're discovering their past was a lie](https://apnews.com/article/south-korea-international-adoption-fraud-investigation-e4e7d4b8823212e3b260517c5128cd66)
     * [New CIA workplace assault case emerges as spy agency shields extent of sexual misconduct in ranks](https://apnews.com/article/cia-sexual-misconduct-spy-agency-secret-harassment-b9ad870f695d6f4127205536fafa66d2)
     * [Elite prosecutor misused position by offering Justice Department card in DUI stop, watchdog finds](https://apnews.com/article/dui-federal-prosecutor-ethics-drunken-driving-narcotics-bb904b97fb01df1e9b39f64e7f0bcc80)
     * [Tennessee family's lawsuit says video long kept from them shows police force, not drugs, killed son](https://apnews.com/article/lethal-restraint-police-tennessee-austin-hunter-turner-ca8b91c2f3dc9584094c6fc835d49deb)
     * [DNA on weapons implicates ex-U.S. Green Beret in attempted Venezuelan coup, federal officials say](https://apnews.com/article/venezuela-maduro-coup-arms-smuggling-dna-da832a30eea2150d0366851935998bd7)
-    * [Prisoners fight against working in heat on former slave plantation, raising hope for change in South](https://apnews.com/article/prisons-labor-lawsuit-investigation-b41d72f87dc22e0a351a1a8f5345b9bc)
     
 * [Climate](https://apnews.com/climate-and-environment)
     
@@ -234,20 +234,20 @@ Menu
     
     TOP STORIES
     
+    * [Cascading disasters push residents of a Nepalese valley to the brink](https://apnews.com/article/climate-change-nepal-landslides-earthquakes-extreme-weather-rains-river-fb0ee690e6ec4a110af198865a5fe159)
     * [Hotter summers are making high school football a fatal game for some players](https://apnews.com/article/high-school-football-heat-deaths-climate-change-2455ba5852d83f548754e44240abf99b)
-    * [Youth activists protest to demand action on climate as big events open in NYC](https://apnews.com/article/climate-protests-change-united-nations-climate-week-3c944a1d05d5bb4415c6b811bddc48b9)
-    * [Brazil court drops a suspect in Amazon slayings of a British journalist and an Indigenous advocate](https://apnews.com/article/brazil-amazon-crime-dom-phillips-bruno-pereira-8d9a309c40a61d1a612fe9ef503e4e40)
+    * [In NYC and elsewhere, climate protesters say pace of change isn't fast enough](https://apnews.com/article/climate-protests-change-united-nations-climate-week-3c944a1d05d5bb4415c6b811bddc48b9)
     
 * [Health](https://apnews.com/health)
     
     TOP STORIES
     
+    * [High insulin prices spur a federal lawsuit against three pharmacy benefit managers](https://apnews.com/article/insulin-prices-pbm-lawsuit-ftc-8bd316ed4b5c613d521f70805f0be01d)
     * [US will let more people take methadone at home](https://apnews.com/article/methadone-opioids-addiction-treatment-6dc1634de4cdac06410149e6a1372e18)
     * [A new genetic analysis of animals in the Wuhan market in 2019 may help find COVID-19's origin](https://apnews.com/article/covid-origins-racoon-dog-lab-leak-05d573cfd019a20cb46d675af0c669dd)
     * [Two Georgia deaths are tied to abortion restrictions. Experts say abortion pills they took are safe](https://apnews.com/article/abortion-pills-georgia-mifepristone-misoprostol-kamala-harris-fd3c817f42ccc74b04d12450efb92f4a)
     * [Scientists show how pregnancy changes the brain in innumerable ways](https://apnews.com/article/pregnancy-brain-changes-mri-164b505abd05d3e5c9d93c0ef2953a80)
-    * [Menopause can bring on dental problems, but you can protect your mouth](https://apnews.com/article/menopause-dental-dry-mouth-estrogen-414c39e119f4d3f17e9be289c9dd6914)
-    * [The Navy's highest-ranking military officer is treated successfully for breast cancer](https://apnews.com/article/navy-chief-breast-cancer-admiral-05781b2867102f92aa1930c045f575fa)
+    * [An appeals court has revived a challenge to President Biden's Medicare drug price reduction program](https://apnews.com/article/biden-medicare-drug-price-negotiations-lawsuit-1d123e2cd89df1bbdf6e2b6c92ae1eec)
     
 * [Tech](https://apnews.com/technology)
     
@@ -257,9 +257,9 @@ Menu
     
     TOP STORIES
     
+    * [AI is helping shape the 2024 presidential race. But not in the way experts feared](https://apnews.com/article/artificial-intellgence-memes-trump-harris-deepfakes-256282c31fa9316c4059f09036c70fa9)
+    * [Google begins its defense in antitrust case alleging monopoly over advertising technology](https://apnews.com/article/google-antitrust-case-advertising-technology-64dc88ff8ede9db77f80b243ba3605a3)
     * [Apple begins testing AI software designed to bring a smarter Siri to the iPhone 16](https://apnews.com/article/apple-artificial-intelligence-iphone-16-siri-3bbf16e06e29f09320dcbefcf4ffc40b)
-    * [UN experts urge United Nations to lay foundations for global governance of artificial intelligence](https://apnews.com/article/un-artificial-intelligence-global-governance-risks-benefits-f755788da7d5905fcc2d44edf93c4bec)
-    * [At Google antitrust trial, documents say one thing. The tech giant's witnesses say different](https://apnews.com/article/google-antitrust-monopoly-ads-trial-f13bdceec0ed494973300b797f2f2990)
     
 * [Lifestyle](https://apnews.com/lifestyle)
     
@@ -269,9 +269,9 @@ Menu
     
     TOP STORIES
     
-    * [Gucci constructs looks of casual grandeur as Tod's focuses on Artisanal Intelligence](https://apnews.com/article/milan-fashion-week-tods-gucci-versace-sunnei-8f7b0508f1f815ee4b3dcfaed1e5a463)
-    * [A night with Peter Cat Recording Co., the New Delhi band that's found global appeal](https://apnews.com/article/peter-cat-recording-co-interview-84526593feefea3e69953b95ed5c0c3d)
-    * [Turkey wants to regulate Germany's beloved döner kebab street food](https://apnews.com/article/germany-turkey-doner-kebab-45c9582057c544935420e917c305f15a)
+    * [Oktoberfest is open. The world’s largest folk festival begins after ceremonial keg-tapping](https://apnews.com/article/germany-oktoberfest-munich-security-beer-festival-591439ede1d985b7176c6d57f79a1dc7)
+    * [The Midwest could offer fall’s most electric foliage but leaf peepers elsewhere won’t miss out](https://apnews.com/article/fall-foliage-leaf-peeping-autumn-df5b4726079d08156bc819179c0a8567)
+    * [Gucci touts 'casual grandeur,' Tod's focuses on Artisanal Intelligence and Versace plays it safe](https://apnews.com/article/milan-fashion-week-tods-gucci-versace-sunnei-8f7b0508f1f815ee4b3dcfaed1e5a463)
     
 * [Religion](https://apnews.com/religion)
     
@@ -293,12 +293,12 @@ Menu
     
     TOP STORIES
     
-    * [La reforma para pasar la Guardia Nacional a manos del Ejército avanza en el Congreso mexicano](https://apnews.com/world-news/general-news-224924522909b55b5729eaca0331c634)
-    * [Ataque de Israel contra Hezbollah en Beirut deja 8 muertos y decenas de heridos](https://apnews.com/world-news/general-news-743b277e32d09199f5f38949f49307f1)
-    * [Diez años sin respuestas en México. Los padres de los 43 desaparecidos de Ayotzinapa no se rinden](https://apnews.com/world-news/general-news-e7e00859ee3dc4dd12afd36c7e8f378b)
-    * [La noche de la desaparición de 43 estudiantes en el sur de México, en la voz de un superviviente](https://apnews.com/world-news/general-news-29eaf6828082b471997025bf995674cd)
-    * [AP Fotos: Las mejores fotos de la semana en América Latina](https://apnews.com/world-news/general-news-7801a02a6f4d9b28b964511fb7ecc752)
-    * [Informe del Servicio Secreto de EEUU detalla fallas que precedieron intento de asesinato de Trump](https://apnews.com/us-news/general-news-f1759d29d6abb4160dd814651dce9899)
+    * [Sube a 31 el número de muertos por ataque aéreo israelí en suburbio de Beirut](https://apnews.com/world-news/general-news-12f2c9ddfb9587ef1c34dfaa58929e65)
+    * [Rebeldes en región de Papúa en Indonesia liberan a piloto neozelandés cautivo durante 19 meses](https://apnews.com/world-news/general-news-8d4bef67902070331ae37ffac83ba57d)
+    * [Soldados israelíes arrojaron desde techos los cuerpos de 4 personas durante redada en Cisjordania](https://apnews.com/world-news/general-news-37912ffb045caa467a952b1b7b972800)
+    * [¿Detonación de bípers en Oriente Medio violó las leyes internacionales? Activistas piden investigar](https://apnews.com/world-news/general-news-5ab252509be65b5c80d6a41842b04a2f)
+    * [Finalizan las votaciones en Sri Lanka para elegir presidente y una salida a años de agitación](https://apnews.com/world-news/general-news-d5ba3c82b34214f3091bd2e62cf89248)
+    * [Juicio a docenas de hombres por violación subraya desafíos de víctimas de abuso sexual en Francia](https://apnews.com/world-news/general-news-495d2a4655cddd93b1be9e1c7e37e93c)
     
 * [AP Buyline Personal Finance](https://apnews.com/buyline-personal-finance/)
     
@@ -453,9 +453,9 @@ Submit Search
     
     TOP STORIES
     
-    * [Thousands of exploding devices in Lebanon trigger a nation that has been on edge for years](https://apnews.com/article/lebanon-pagers-hezbollahexplosion-israel-beirut-port-6c51ff6c743ba63154b95790357d31df)
-    * [Israel says its strike on Beirut killed a top Hezbollah military official as Lebanon reports 12 died](https://apnews.com/article/israel-hezbollah-rocket-attack-mideast-tensions-a6a95169a21b45dc86d86182e255fa7e)
-    * [Hezbollah leader vows retaliation against Israel for attacks on devices as both sides trade strikes](https://apnews.com/article/israel-lebanon-exploding-devices-hezbollah-mideast-ab2436cf5bae5e2fe2dddb293671a0ac)
+    * [Rare Israeli airstrike in Beirut kills Hezbollah commander and more than a dozen others](https://apnews.com/article/israel-hezbollah-rocket-attack-mideast-tensions-a6a95169a21b45dc86d86182e255fa7e)
+    * [Did Middle East device attack violate international law? Advocates want an investigation](https://apnews.com/article/lebanon-israel-hezbollah-geneva-conventions-1d0044e23cdb902036884e66e8fea086)
+    * [Another arms depot in northwestern Russia on fire after Ukrainian drone strike](https://apnews.com/article/russia-ukraine-war-fire-depot-drone-522c89e6ad0f1fb8db3a5787a1c17fc6)
     
     Newsletters
     
@@ -471,9 +471,9 @@ Submit Search
     
     TOP STORIES
     
-    * [Tiny Kentucky town is rocked as their sheriff is jailed in the killing of a prominent judge](https://apnews.com/article/kentucky-sheriff-judge-courthouse-shooting-d8df59f414023489527e9aef49f4c8cf)
-    * [AI may breathe new life into Three Mile Island to supply power to Microsoft's data centers](https://apnews.com/article/three-mile-island-nuclear-power-microsoft-8f47ba63a7aab8831a7805dfde0e2c39)
+    * [Footage shows NYPD officers firing at man with knife in subway shooting that wounded 4](https://apnews.com/article/nyc-subway-shooting-brooklyn-bodycam-video-nypd-14c10f5f5c5d9d9697dfe019b19e1bd1)
     * [Robinson won't appear at Trump's North Carolina rally after report on online posts, AP sources say](https://apnews.com/article/north-carolina-governor-mark-robinson-trump-kamala-harris-cooper-cnn-stein-c7ee5c23f554f3708619d6b68e208b94)
+    * [Tiny Kentucky town is rocked as their sheriff is jailed in the killing of a prominent judge](https://apnews.com/article/kentucky-sheriff-judge-courthouse-shooting-d8df59f414023489527e9aef49f4c8cf)
     
     Newsletters
     
@@ -498,9 +498,9 @@ Submit Search
     
     TOP STORIES
     
-    * [Voters split on whether Harris or Trump would do a better job on the economy: AP-NORC poll](https://apnews.com/article/harris-trump-economy-poll-inflation-dc80ac9e5d7da42900762910d5f0a283)
-    * [Harris looks for boost from Oprah as part of digital-first media strategy](https://apnews.com/article/oprah-harris-michigan-trump-4ccf9234d489a61b5dacbde32fe015ca)
-    * [Trump vows to be 'best friend' to Jewish Americans, as allegations of ally's antisemitism surface](https://apnews.com/article/harris-trump-oprah-winfrey-miriam-adelson-f9384395f54a0d071ab52bca80d3659e)
+    * ['She should be alive today' — Harris spotlights woman's death to blast abortion bans and Trump](https://apnews.com/article/harris-election-abortion-rights-georgia-amber-thurman-5ba5dabf0dc3c98de12389c34b47475d)
+    * [In-person voting begins for the US presidential contest, kicking off the sprint to Election Day](https://apnews.com/article/early-voting-presidential-election-trump-harris-7fb7a8ff28490f71cd15529321dfe765)
+    * [Controversial North Carolina candidate for governor rattles Republicans in critical swing state](https://apnews.com/article/mark-robinson-north-carolina-governor-trump-e5f7e3740c518883eefd16fd04f8533d)
     
     Newsletters
     
@@ -523,9 +523,9 @@ Submit Search
     
     TOP STORIES
     
-    * [Controversial North Carolina candidate for governor rattles Republicans in critical swing state](https://apnews.com/article/mark-robinson-north-carolina-governor-trump-e5f7e3740c518883eefd16fd04f8533d)
-    * [Secret Service report details communication failures preceding July assassination attempt on Trump](https://apnews.com/article/trump-secret-service-assassination-attempt-campaign-7dca5e30730287f46cceaa35437f0d47)
-    * [In-person voting begins for the US presidential contest, kicking off the sprint to Election Day](https://apnews.com/article/early-voting-presidential-election-trump-harris-7fb7a8ff28490f71cd15529321dfe765)
+    * [AI is helping shape the 2024 presidential race. But not in the way experts feared](https://apnews.com/article/artificial-intellgence-memes-trump-harris-deepfakes-256282c31fa9316c4059f09036c70fa9)
+    * [The US is more hands-off than usual in the Middle East. It fears making things worse](https://apnews.com/article/israel-hezbollah-gaza-united-states-middle-east-8d80f42131c5b5af88fffe9ca85fc725)
+    * [Biden is putting personal touch on Asia-Pacific diplomacy in his final months in office](https://apnews.com/article/biden-modi-india-quad-australia-japan-delaware-3ddfcea9b0e0027977f7d861f2d0cf12)
     
     Newsletters
     
@@ -553,8 +553,8 @@ Submit Search
     
     TOP STORIES
     
-    * [Ohtani keeps showing a flair for the dramatic during his historic 1st season with the Dodgers](https://apnews.com/article/shohei-ohtani-dodgers-history-54d98e25e093a2041eb566261ad59b93)
-    * [Japan celebrates as Ohtani becomes the first major leaguer to reach 50-50 milestone](https://apnews.com/article/japan-baseball-ohtani-fc70beed86971c0f72c7bd55f15dbc56)
+    * [Better than Babe Ruth? Ohtani's feats make the superstar a legend even among MLB peers](https://apnews.com/article/shohei-ohtani-dodgers-7c33fc6012183de863a3b844ac4967e9)
+    * [Phillies clinch 3rd straight playoff berth and close in on NL East title](https://apnews.com/article/phillies-clinch-playoffs-8850ba5682e23e00b28262c0e67819d2)
     * [Joel Embiid signs a 3-year, $193 million contract extension with the 76ers](https://apnews.com/article/joel-embiid-philadelphia-76ers-extension-b6e87d045eb34e62c5864495012f54a4)
     
     Newsletters
@@ -582,9 +582,9 @@ Submit Search
     
     TOP STORIES
     
+    * ['The West Wing' cast visits the White House for a 25th anniversary party](https://apnews.com/article/west-wing-anniversary-biden-white-house-7960e30d0e18c5fe2dc759400392fc6c)
     * [50 years after 'The Power Broker,' Robert Caro's dreams are still coming true](https://apnews.com/article/robert-caro-power-broker-50-years-684b96ffb147edb8c1a1935687d2f7c0)
     * [Why does 'The Babadook' still haunt? Its director, Jennifer Kent, has some answers](https://apnews.com/article/babadook-jennifer-kent-horror-interview-09d4b86437a8ce66370ab70c1623c92b)
-    * [Music Review: Katy Perry returns with the uninspired and forgettable '143'](https://apnews.com/article/katy-perry-143-music-review-419ff9b2b01354518084c30b3b9d4fab)
     
 * [Business](https://apnews.com/business)
     
@@ -599,7 +599,7 @@ Submit Search
     TOP STORIES
     
     * [Brazil drought punishes coffee farms and threatens to push prices even higher](https://apnews.com/article/brazil-climate-change-drought-coffee-harvest-a6516a4b314e6ba7c11513c08afb6996)
-    * [Stock market today: Wall Street hovers around records as FedEx slumps](https://apnews.com/article/stocks-markets-rates-fed-japan-acfb636ed8e0e341a1e93b1567ff0358)
+    * [Stock market today: Wall Street closes its record-setting week mixed as FedEx slumps and Nike jumps](https://apnews.com/article/stocks-markets-rates-fed-japan-acfb636ed8e0e341a1e93b1567ff0358)
     * [House backs measure to overturn Biden auto emissions rule that Republicans say would force EV sales](https://apnews.com/article/epa-tailpipe-emissions-electric-vehicles-republicans-1a1e4f817f21b593d8573a2bc8582474)
     
 * [Science](https://apnews.com/science)
@@ -635,12 +635,12 @@ Submit Search
     
     TOP STORIES
     
+    * [A lost cat's mysterious 2-month, 900-mile journey home to California](https://apnews.com/article/cat-travel-900-miles-wyoming-california-trips-50041165e4af0e119e2d715f8a64a015)
     * [Thailand's adorable pygmy hippo Moo Deng has the kind of face that launches a thousand memes](https://apnews.com/article/moo-deng-baby-hippo-thailand-zoo-27485f0cbc70071252be45d870d507aa)
     * [Police say a pair took an NYC subway train on a joyride and crashed it. They have arrested 1 teen](https://apnews.com/article/subway-joyride-crash-new-york-b61ed588ccef4e002a5d125b3cd75a50)
     * [A bewildered seal found itself in the mouth of a humpback whale](https://apnews.com/article/humpback-whale-gulps-seal-51cc65b5099f71a8d5b0d9469e2376fe)
     * [Grand prize winner removed 20 Burmese pythons from the wild in Florida challenge](https://apnews.com/article/florida-python-challenge-2024-burmese-snakes-winner-414c2fae8726fc31e4049124f0f50510)
     * [Purple place: Mets unveil the new Grimace seat at Citi Field](https://apnews.com/article/mets-grimace-seat-citi-field-7507393b90dadce40682024de63094d8)
-    * [An 8-year-old Ohio girl drove an SUV on a solo Target run](https://apnews.com/article/ohio-girl-drives-to-store-9ac769122b7b139ce21e5ca2490c65da)
     
 * [Be Well](https://apnews.com/hub/be-well)
     
@@ -700,12 +700,12 @@ Submit Search
     
     TOP STORIES
     
+    * [Western nations were desperate for Korean babies. Now many adoptees believe they were stolen](https://apnews.com/article/south-korean-adoptions-investigation-united-states-europe-67d6bb03fddede7dcca199c2e3cd486e)
     * [These South Koreans were adopted as babies. Now they're discovering their past was a lie](https://apnews.com/article/south-korea-international-adoption-fraud-investigation-e4e7d4b8823212e3b260517c5128cd66)
     * [New CIA workplace assault case emerges as spy agency shields extent of sexual misconduct in ranks](https://apnews.com/article/cia-sexual-misconduct-spy-agency-secret-harassment-b9ad870f695d6f4127205536fafa66d2)
     * [Elite prosecutor misused position by offering Justice Department card in DUI stop, watchdog finds](https://apnews.com/article/dui-federal-prosecutor-ethics-drunken-driving-narcotics-bb904b97fb01df1e9b39f64e7f0bcc80)
     * [Tennessee family's lawsuit says video long kept from them shows police force, not drugs, killed son](https://apnews.com/article/lethal-restraint-police-tennessee-austin-hunter-turner-ca8b91c2f3dc9584094c6fc835d49deb)
     * [DNA on weapons implicates ex-U.S. Green Beret in attempted Venezuelan coup, federal officials say](https://apnews.com/article/venezuela-maduro-coup-arms-smuggling-dna-da832a30eea2150d0366851935998bd7)
-    * [Prisoners fight against working in heat on former slave plantation, raising hope for change in South](https://apnews.com/article/prisons-labor-lawsuit-investigation-b41d72f87dc22e0a351a1a8f5345b9bc)
     
 * [Climate](https://apnews.com/climate-and-environment)
     
@@ -719,20 +719,20 @@ Submit Search
     
     TOP STORIES
     
+    * [Cascading disasters push residents of a Nepalese valley to the brink](https://apnews.com/article/climate-change-nepal-landslides-earthquakes-extreme-weather-rains-river-fb0ee690e6ec4a110af198865a5fe159)
     * [Hotter summers are making high school football a fatal game for some players](https://apnews.com/article/high-school-football-heat-deaths-climate-change-2455ba5852d83f548754e44240abf99b)
-    * [Youth activists protest to demand action on climate as big events open in NYC](https://apnews.com/article/climate-protests-change-united-nations-climate-week-3c944a1d05d5bb4415c6b811bddc48b9)
-    * [Brazil court drops a suspect in Amazon slayings of a British journalist and an Indigenous advocate](https://apnews.com/article/brazil-amazon-crime-dom-phillips-bruno-pereira-8d9a309c40a61d1a612fe9ef503e4e40)
+    * [In NYC and elsewhere, climate protesters say pace of change isn't fast enough](https://apnews.com/article/climate-protests-change-united-nations-climate-week-3c944a1d05d5bb4415c6b811bddc48b9)
     
 * [Health](https://apnews.com/health)
     
     TOP STORIES
     
+    * [High insulin prices spur a federal lawsuit against three pharmacy benefit managers](https://apnews.com/article/insulin-prices-pbm-lawsuit-ftc-8bd316ed4b5c613d521f70805f0be01d)
     * [US will let more people take methadone at home](https://apnews.com/article/methadone-opioids-addiction-treatment-6dc1634de4cdac06410149e6a1372e18)
     * [A new genetic analysis of animals in the Wuhan market in 2019 may help find COVID-19's origin](https://apnews.com/article/covid-origins-racoon-dog-lab-leak-05d573cfd019a20cb46d675af0c669dd)
     * [Two Georgia deaths are tied to abortion restrictions. Experts say abortion pills they took are safe](https://apnews.com/article/abortion-pills-georgia-mifepristone-misoprostol-kamala-harris-fd3c817f42ccc74b04d12450efb92f4a)
     * [Scientists show how pregnancy changes the brain in innumerable ways](https://apnews.com/article/pregnancy-brain-changes-mri-164b505abd05d3e5c9d93c0ef2953a80)
-    * [Menopause can bring on dental problems, but you can protect your mouth](https://apnews.com/article/menopause-dental-dry-mouth-estrogen-414c39e119f4d3f17e9be289c9dd6914)
-    * [The Navy's highest-ranking military officer is treated successfully for breast cancer](https://apnews.com/article/navy-chief-breast-cancer-admiral-05781b2867102f92aa1930c045f575fa)
+    * [An appeals court has revived a challenge to President Biden's Medicare drug price reduction program](https://apnews.com/article/biden-medicare-drug-price-negotiations-lawsuit-1d123e2cd89df1bbdf6e2b6c92ae1eec)
     
 * [Tech](https://apnews.com/technology)
     
@@ -745,9 +745,9 @@ Submit Search
     
     TOP STORIES
     
+    * [AI is helping shape the 2024 presidential race. But not in the way experts feared](https://apnews.com/article/artificial-intellgence-memes-trump-harris-deepfakes-256282c31fa9316c4059f09036c70fa9)
+    * [Google begins its defense in antitrust case alleging monopoly over advertising technology](https://apnews.com/article/google-antitrust-case-advertising-technology-64dc88ff8ede9db77f80b243ba3605a3)
     * [Apple begins testing AI software designed to bring a smarter Siri to the iPhone 16](https://apnews.com/article/apple-artificial-intelligence-iphone-16-siri-3bbf16e06e29f09320dcbefcf4ffc40b)
-    * [UN experts urge United Nations to lay foundations for global governance of artificial intelligence](https://apnews.com/article/un-artificial-intelligence-global-governance-risks-benefits-f755788da7d5905fcc2d44edf93c4bec)
-    * [At Google antitrust trial, documents say one thing. The tech giant's witnesses say different](https://apnews.com/article/google-antitrust-monopoly-ads-trial-f13bdceec0ed494973300b797f2f2990)
     
 * [Lifestyle](https://apnews.com/lifestyle)
     
@@ -765,9 +765,9 @@ Submit Search
     
     TOP STORIES
     
-    * [Gucci constructs looks of casual grandeur as Tod's focuses on Artisanal Intelligence](https://apnews.com/article/milan-fashion-week-tods-gucci-versace-sunnei-8f7b0508f1f815ee4b3dcfaed1e5a463)
-    * [A night with Peter Cat Recording Co., the New Delhi band that's found global appeal](https://apnews.com/article/peter-cat-recording-co-interview-84526593feefea3e69953b95ed5c0c3d)
-    * [Turkey wants to regulate Germany's beloved döner kebab street food](https://apnews.com/article/germany-turkey-doner-kebab-45c9582057c544935420e917c305f15a)
+    * [Oktoberfest is open. The world’s largest folk festival begins after ceremonial keg-tapping](https://apnews.com/article/germany-oktoberfest-munich-security-beer-festival-591439ede1d985b7176c6d57f79a1dc7)
+    * [The Midwest could offer fall’s most electric foliage but leaf peepers elsewhere won’t miss out](https://apnews.com/article/fall-foliage-leaf-peeping-autumn-df5b4726079d08156bc819179c0a8567)
+    * [Gucci touts 'casual grandeur,' Tod's focuses on Artisanal Intelligence and Versace plays it safe](https://apnews.com/article/milan-fashion-week-tods-gucci-versace-sunnei-8f7b0508f1f815ee4b3dcfaed1e5a463)
     
 * [Religion](https://apnews.com/religion)
     
@@ -789,12 +789,12 @@ Submit Search
     
     TOP STORIES
     
-    * [La reforma para pasar la Guardia Nacional a manos del Ejército avanza en el Congreso mexicano](https://apnews.com/world-news/general-news-224924522909b55b5729eaca0331c634)
-    * [Ataque de Israel contra Hezbollah en Beirut deja 8 muertos y decenas de heridos](https://apnews.com/world-news/general-news-743b277e32d09199f5f38949f49307f1)
-    * [Diez años sin respuestas en México. Los padres de los 43 desaparecidos de Ayotzinapa no se rinden](https://apnews.com/world-news/general-news-e7e00859ee3dc4dd12afd36c7e8f378b)
-    * [La noche de la desaparición de 43 estudiantes en el sur de México, en la voz de un superviviente](https://apnews.com/world-news/general-news-29eaf6828082b471997025bf995674cd)
-    * [AP Fotos: Las mejores fotos de la semana en América Latina](https://apnews.com/world-news/general-news-7801a02a6f4d9b28b964511fb7ecc752)
-    * [Informe del Servicio Secreto de EEUU detalla fallas que precedieron intento de asesinato de Trump](https://apnews.com/us-news/general-news-f1759d29d6abb4160dd814651dce9899)
+    * [Sube a 31 el número de muertos por ataque aéreo israelí en suburbio de Beirut](https://apnews.com/world-news/general-news-12f2c9ddfb9587ef1c34dfaa58929e65)
+    * [Rebeldes en región de Papúa en Indonesia liberan a piloto neozelandés cautivo durante 19 meses](https://apnews.com/world-news/general-news-8d4bef67902070331ae37ffac83ba57d)
+    * [Soldados israelíes arrojaron desde techos los cuerpos de 4 personas durante redada en Cisjordania](https://apnews.com/world-news/general-news-37912ffb045caa467a952b1b7b972800)
+    * [¿Detonación de bípers en Oriente Medio violó las leyes internacionales? Activistas piden investigar](https://apnews.com/world-news/general-news-5ab252509be65b5c80d6a41842b04a2f)
+    * [Finalizan las votaciones en Sri Lanka para elegir presidente y una salida a años de agitación](https://apnews.com/world-news/general-news-d5ba3c82b34214f3091bd2e62cf89248)
+    * [Juicio a docenas de hombres por violación subraya desafíos de víctimas de abuso sexual en Francia](https://apnews.com/world-news/general-news-495d2a4655cddd93b1be9e1c7e37e93c)
     
 * [AP Buyline Personal Finance](https://apnews.com/buyline-personal-finance/)
     
