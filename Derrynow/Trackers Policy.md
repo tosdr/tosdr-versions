@@ -259,65 +259,12 @@ Advertise with Us
 
 Most Popular
 
-[!['Fly high Danny boy' - Tributes paid as as teenager tragically dies days after car accident](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "'Fly high Danny boy' - Tributes paid as as teenager tragically dies days after car accident")](https://www.derrynow.com/news/national-news/1610227/fly-high-danny-boy-tributes-paid-as-as-teenager-tragically-dies-days-after-car-accident.html)
-
-[National News](https://www.derrynow.com/section/997/cookie-policy)
-
-['Fly high Danny boy' - Tributes paid as as teenager tragically dies days after car accident](https://www.derrynow.com/news/national-news/1610227/fly-high-danny-boy-tributes-paid-as-as-teenager-tragically-dies-days-after-car-accident.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry man charged with selling counterfeit clothing fined](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry man charged with selling counterfeit clothing fined")](https://www.derrynow.com/news/local-news/1609893/derry-man-charged-with-selling-counterfeit-clothing-fined.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Derry man charged with selling counterfeit clothing fined](https://www.derrynow.com/news/local-news/1609893/derry-man-charged-with-selling-counterfeit-clothing-fined.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![County Derry man who operated illegal television streaming service for be sentenced next month](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "County Derry man who operated illegal television streaming service for be sentenced next month")](https://www.derrynow.com/news/local-news/1609966/county-derry-man-who-operated-illegal-television-streaming-service-for-be-sentenced-next-month.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[County Derry man who operated illegal television streaming service for be sentenced next month](https://www.derrynow.com/news/local-news/1609966/county-derry-man-who-operated-illegal-television-streaming-service-for-be-sentenced-next-month.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![PICTURES: See inside this superb Derry property for sale](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PICTURES: See inside this superb Derry property for sale")](https://www.derrynow.com/news/property/1609882/pictures-see-inside-this-superb-derry-property-for-sale.html)
-
-[Property](https://www.derrynow.com/section/1232/property)
-
-[PICTURES: See inside this superb Derry property for sale](https://www.derrynow.com/news/property/1609882/pictures-see-inside-this-superb-derry-property-for-sale.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 [![Derry Death Notices -Saturday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices -Saturday")](https://www.derrynow.com/news/deaths/1610380/derry-death-notices-saturday-21st-september-2024.html)
 
 [Deaths](https://www.derrynow.com/section/977/deaths)
 
 [Derry Death Notices - Saturday, 21st September 2024](https://www.derrynow.com/news/deaths/1610380/derry-death-notices-saturday-21st-september-2024.html)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Man charged with a sexual assault in Altnagelvin Hospital pleads not guilty](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man charged with a sexual assault in Altnagelvin Hospital pleads not guilty")](https://www.derrynow.com/news/local-news/1609921/man-charged-with-a-sexual-assault-in-altnagelvin-hospital-pleads-not-guilty.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Man charged with a sexual assault in Altnagelvin Hospital pleads not guilty](https://www.derrynow.com/news/local-news/1609921/man-charged-with-a-sexual-assault-in-altnagelvin-hospital-pleads-not-guilty.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Foyle Embankment](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Foyle Embankment")](https://www.derrynow.com/news/home/1610163/upcoming-road-closures-for-derry.html)
-
-Foyle Embankment
-
-[Home](https://www.derrynow.com/)
-
-[Upcoming Road Closures for Derry](https://www.derrynow.com/news/home/1610163/upcoming-road-closures-for-derry.html)
---------------------------------------------------------------------------------------------------------------------
-
-[![Martinog Bradley, Kenny Beggs and Lawrence Watson](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Martinog Bradley, Kenny Beggs and Lawrence Watson")](https://www.derrynow.com/news/derry-sport/1609938/derry-men-to-represent-northern-ireland-in-subbuteo-world-cup-this-weekend.html)
-
-Martinog Bradley, Kenny Beggs and Lawrence Watson
-
-[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
-
-[Derry men to represent Northern Ireland in Subbuteo World Cup this weekend](https://www.derrynow.com/news/derry-sport/1609938/derry-men-to-represent-northern-ireland-in-subbuteo-world-cup-this-weekend.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Derry City](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry City")](https://www.derrynow.com/news/derry-sport/1610515/late-drama-at-the-brandywell-as-pat-hoban-rescues-derry-city-from-the-penalty-spot.html)
 
@@ -328,14 +275,54 @@ Paul McMullan challenges for the ball. Pic by Sportsfile
 [Late drama at the Brandywell as Pat Hoban rescues Derry City from the penalty spot](https://www.derrynow.com/news/derry-sport/1610515/late-drama-at-the-brandywell-as-pat-hoban-rescues-derry-city-from-the-penalty-spot.html)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![WATCH: Comedian Babatunde Aléshé explores Derry in new Channel 4 mini-series](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "WATCH: Comedian Babatunde Aléshé explores Derry in new Channel 4 mini-series")](https://www.derrynow.com/video/pictures---videos/1610353/watch-comedian-babatunde-aleshe-explores-derry-in-new-channel-4-mini-series.html)
+[![Durkan calls for support for Foyle Street Businesses impacted by road closure disruption](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Durkan calls for support for Foyle Street Businesses impacted by road closure disruption")](https://www.derrynow.com/news/derry-news/1610266/durkan-calls-for-support-for-foyle-street-businesses-impacted-by-road-closure-disruption.html)
 
-Comedian Babatunde Aléshé finds out more about the journey from grain to glass, during filming for a new Channel 4 mini-series called Where to Next?, at the Walled City Brewery.
+[Derry News](https://www.derrynow.com/section/999/derry-news)
 
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+[Durkan calls for support for Foyle Street Businesses impacted by road closure disruption](https://www.derrynow.com/news/derry-news/1610266/durkan-calls-for-support-for-foyle-street-businesses-impacted-by-road-closure-disruption.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[WATCH: Comedian Babatunde Aléshé explores Derry and the Walled City Brewery](https://www.derrynow.com/video/pictures---videos/1610353/watch-comedian-babatunde-aleshe-explores-derry-in-new-channel-4-mini-series.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[![Foyle Memory Walk to raise funds for Alzheimer's charity](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Foyle Memory Walk to raise funds for Alzheimer's charity")](https://www.derrynow.com/news/local-news/1609940/foyle-memory-walk-to-raise-funds-for-alzheimer-s-charity.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Foyle Memory Walk to raise funds for Alzheimer's charity](https://www.derrynow.com/news/local-news/1609940/foyle-memory-walk-to-raise-funds-for-alzheimer-s-charity.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Orangemen due to parade past nationalist Ardoyne despite residents’ objections](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Orangemen due to parade past nationalist Ardoyne despite residents’ objections")](https://www.derrynow.com/news/northern-ireland/1610566/orangemen-due-to-parade-past-nationalist-ardoyne-despite-residents-objections.html)
+
+[Northern Ireland](https://www.derrynow.com/section/997/cookie-policy)
+
+[Orangemen due to parade past nationalist Ardoyne despite residents’ objections](https://www.derrynow.com/news/northern-ireland/1610566/orangemen-due-to-parade-past-nationalist-ardoyne-despite-residents-objections.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Orangemen parade passes by Ardoyne without incident as residents stage protest](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Orangemen parade passes by Ardoyne without incident as residents stage protest")](https://www.derrynow.com/news/northern-ireland/1610659/orangemen-parade-passes-by-ardoyne-without-incident-as-residents-stage-protest.html)
+
+[Northern Ireland](https://www.derrynow.com/section/997/cookie-policy)
+
+[Orangemen parade passes by Ardoyne without incident as residents stage protest](https://www.derrynow.com/news/northern-ireland/1610659/orangemen-parade-passes-by-ardoyne-without-incident-as-residents-stage-protest.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![MacD on Music: Three Miles High](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "MacD on Music: Three Miles High")](https://www.derrynow.com/news/what-s-on/1610379/macd-on-music-three-miles-high.html)
+
+[What's On](https://www.derrynow.com/section/1058/what-s-on)
+
+[MacD on Music: Three Miles High](https://www.derrynow.com/news/what-s-on/1610379/macd-on-music-three-miles-high.html)
+----------------------------------------------------------------------------------------------------------------------
+
+[![Police investigate arson at commercial yard in Co Down](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Police investigate arson at commercial yard in Co Down")](https://www.derrynow.com/news/northern-ireland/1610684/police-investigate-arson-at-commercial-yard-in-co-down.html)
+
+[Northern Ireland](https://www.derrynow.com/section/997/cookie-policy)
+
+[Police investigate arson at commercial yard in Co Down](https://www.derrynow.com/news/northern-ireland/1610684/police-investigate-arson-at-commercial-yard-in-co-down.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Gavin Robinson hits out at Labour Government in speech to DUP conference](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Gavin Robinson hits out at Labour Government in speech to DUP conference")](https://www.derrynow.com/news/northern-ireland/1610737/gavin-robinson-hits-out-at-labour-government-in-speech-to-dup-conference.html)
+
+[Northern Ireland](https://www.derrynow.com/section/997/cookie-policy)
+
+[Gavin Robinson hits out at Labour Government in speech to DUP conference](https://www.derrynow.com/news/northern-ireland/1610737/gavin-robinson-hits-out-at-labour-government-in-speech-to-dup-conference.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
@@ -358,6 +345,13 @@ Comedian Babatunde Aléshé finds out more about the journey from grain to glass
 
 [WATCH: Comedian Babatunde Aléshé explores Derry and the Walled City Brewery](https://www.derrynow.com/video/pictures---videos/1610353/watch-comedian-babatunde-aleshe-explores-derry-in-new-channel-4-mini-series.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![PICTURES: Stunning detached Derry property ticks every box](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PICTURES: Stunning detached Derry property ticks every box")](https://www.derrynow.com/news/property/1607118/pictures-stunning-detached-derry-property-ticks-every-box.html)
+
+[Property](https://www.derrynow.com/section/1232/property)
+
+[PICTURES: Stunning detached Derry property ticks every box](https://www.derrynow.com/news/property/1607118/pictures-stunning-detached-derry-property-ticks-every-box.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![PICTURES: All smiles as the school year begins at St Brigid's Primary School](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PICTURES: All smiles as the school year begins at St Brigid's Primary School")](https://www.derrynow.com/news/pictures---videos/1609000/pictures-all-smiles-as-the-school-year-begins-at-st-brigid-s-primary-school.html)
 
@@ -410,13 +404,6 @@ IN PICTURES: Fantastic day for community in Derry with One World Festival
 [Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
 
 [IN PICTURES: Fantastic day for community in Derry with One World Festival](https://www.derrynow.com/story-telling/pictures---videos/1606239/in-pictures-fantastic-day-for-community-in-derry-with-one-world-festival.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![IN PICTURES: Martin McGuinness Peace Foundation Chieftain's Walk in Derry](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Martin McGuinness Peace Foundation Chieftain's Walk in Derry")](https://www.derrynow.com/story-telling/pictures---videos/1606244/in-pictures-martin-mcguinness-peace-foundation-chieftain-s-walk-in-derry.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[IN PICTURES: Martin McGuinness Peace Foundation Chieftain's Walk in Derry](https://www.derrynow.com/story-telling/pictures---videos/1606244/in-pictures-martin-mcguinness-peace-foundation-chieftain-s-walk-in-derry.html)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
@@ -519,6 +506,13 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
+[![MacD on Music: Three Miles High](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "MacD on Music: Three Miles High")](https://www.derrynow.com/news/what-s-on/1610379/macd-on-music-three-miles-high.html)
+
+[What's On](https://www.derrynow.com/section/1058/what-s-on)
+
+[MacD on Music: Three Miles High](https://www.derrynow.com/news/what-s-on/1610379/macd-on-music-three-miles-high.html)
+----------------------------------------------------------------------------------------------------------------------
+
 [![Foyle Memory Walk to raise funds for Alzheimer's charity](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Foyle Memory Walk to raise funds for Alzheimer's charity")](https://www.derrynow.com/news/local-news/1609940/foyle-memory-walk-to-raise-funds-for-alzheimer-s-charity.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
@@ -526,7 +520,7 @@ Advertise with Us
 [Foyle Memory Walk to raise funds for Alzheimer's charity](https://www.derrynow.com/news/local-news/1609940/foyle-memory-walk-to-raise-funds-for-alzheimer-s-charity.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Derry Death Notices -Saturday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices -Saturday")](https://www.derrynow.com/news/deaths/1610380/derry-death-notices-saturday-21st-september-2024.html)
+[![Derry Death Notices -Saturday](https://www.derrynow.com/resizer/165/93/true/2023_09_21/Derry_Deaths_%285%29-1695307343689.jpg--.jpg?1695307343746 "Derry Death Notices -Saturday")](https://www.derrynow.com/news/deaths/1610380/derry-death-notices-saturday-21st-september-2024.html)
 
 [Deaths](https://www.derrynow.com/section/977/deaths)
 
@@ -557,15 +551,6 @@ Foyle Embankment
 
 [Upcoming Road Closures for Derry](https://www.derrynow.com/news/home/1610163/upcoming-road-closures-for-derry.html)
 --------------------------------------------------------------------------------------------------------------------
-
-[![Martinog Bradley, Kenny Beggs and Lawrence Watson](https://www.derrynow.com/resizer/165/93/true/2024_09_20/Martinog_Bradley%2C_Kenny_Beggs_and_Lawrence_Watson-1726830203519.jpg--.jpg?1726830203715 "Martinog Bradley, Kenny Beggs and Lawrence Watson")](https://www.derrynow.com/news/derry-sport/1609938/derry-men-to-represent-northern-ireland-in-subbuteo-world-cup-this-weekend.html)
-
-Martinog Bradley, Kenny Beggs and Lawrence Watson
-
-[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
-
-[Derry men to represent Northern Ireland in Subbuteo World Cup this weekend](https://www.derrynow.com/news/derry-sport/1609938/derry-men-to-represent-northern-ireland-in-subbuteo-world-cup-this-weekend.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
