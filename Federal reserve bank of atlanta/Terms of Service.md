@@ -6,7 +6,7 @@
     
 * [Research & Data](https://www.atlantafed.org/research)
     
-    [About Us](https://www.atlantafed.org/research/economists) [Data & Tools](https://www.atlantafed.org/research/data-and-tools) [Economic Mobility & Resilience](https://www.atlantafed.org/economic-mobility-and-resilience) [Inflation Project](https://www.atlantafed.org/research/inflationproject) [Events](https://www.atlantafed.org/research/events) [Publications](https://www.atlantafed.org/research/publications) [Research Centers](https://www.atlantafed.org/research/centers) [Regional Economy](https://www.atlantafed.org/rein) [Surveys](https://www.atlantafed.org/research/surveys)
+    [About Us](https://www.atlantafed.org/research/economists) [Data & Tools](https://www.atlantafed.org/research/data-and-tools) [Economic Mobility & Resilience](https://www.atlantafed.org/economic-mobility-and-resilience) [Inflation Project](https://www.atlantafed.org/research/inflationproject) [Events](https://www.atlantafed.org/research/events) [Publications](https://www.atlantafed.org/research/publications) [Research Centers](https://www.atlantafed.org/community-development) [Regional Economy](https://www.atlantafed.org/rein) [Surveys](https://www.atlantafed.org/research/surveys)
     
 * [Economy Matters](https://www.atlantafed.org/economy-matters)
     
@@ -14,7 +14,7 @@
     
 * [Banking & Payments](https://www.atlantafed.org/banking-and-payments)
     
-    [Banking Supervision](https://www.atlantafed.org/banking-and-payments/banking-supervision) [Business Continuity](https://www.atlantafed.org/banking-and-payments/business-continuity) [Consumer Payments](https://www.atlantafed.org/banking-and-payments/consumer-payments) [Lending](https://www.atlantafed.org/banking-and-payments/lending) [Payments Inclusion](https://www.atlantafed.org/banking-and-payments/payments-inclusion) [Payments Forum](https://www.atlantafed.org/payments-forum) [Publications](https://www.atlantafed.org/banking-and-payments/publications) [Reporting](https://www.atlantafed.org/banking-and-payments/reporting)
+    [Banking Supervision](https://www.atlantafed.org/banking-and-payments/banking-supervision) [Business Continuity](https://www.atlantafed.org/economy-matters/banking-and-finance) [Consumer Payments](https://www.atlantafed.org/banking-and-payments/consumer-payments) [Lending](https://www.atlantafed.org/economy-matters/community-and-economic-development) [Payments Inclusion](https://www.atlantafed.org/banking-and-payments/payments-inclusion) [Payments Forum](https://www.atlantafed.org/payments-forum) [Publications](https://www.atlantafed.org/banking-and-payments/publications) [Reporting](https://www.atlantafed.org/banking-and-payments/reporting)
     
 * [News & Events](https://www.atlantafed.org/news)
     
@@ -26,7 +26,7 @@
     
 * [Community Development](https://www.atlantafed.org/community-development)
     
-    [About Us](https://www.atlantafed.org/community-development/about-us) [Data & Tools](https://www.atlantafed.org/community-development/data-and-tools) [Events](https://www.atlantafed.org/community-development/events) [Infographics](https://www.atlantafed.org/community-development/infographics) [Podcasts](https://www.atlantafed.org/community-development/podcasts) [Publications](https://www.atlantafed.org/community-development/publications) [Content by Subject](https://www.atlantafed.org/community-development/content-by-subject)
+    [About Us](https://www.atlantafed.org/community-development/about-us) [Data & Tools](https://www.atlantafed.org/community-development/data-and-tools) [Events](https://www.atlantafed.org/community-development/events) [Infographics](https://www.atlantafed.org/community-development/infographics) [Podcasts](https://www.atlantafed.org/news/speeches) [Publications](https://www.atlantafed.org/community-development/publications) [Content by Subject](https://www.atlantafed.org/community-development/content-by-subject)
     
 * [About the Fed](https://www.atlantafed.org/about)
     
@@ -44,8 +44,8 @@ Menutoggle menu
     * [Cqer GDPNow Inquiry](https://www.atlantafed.org/forms/cqer/gdpnow-inquiry)
     * [ED Infografias Espanol](https://www.atlantafed.org/forms/education/infografias-espanol)
     * [ED Infographics Order](https://www.atlantafed.org/forms/education/infographics-order)
-    * [Emar Request for Information](https://www.atlantafed.org/forms/economic-mobility-and-resilience/request-for-information)
-    * [Emar Share Your Story](https://www.atlantafed.org/forms/economic-mobility-and-resilience/share-your-story)
+    * [Emar Request for Information](https://www.atlantafed.org/about/atlantafed/diversity-and-inclusion)
+    * [Emar Share Your Story](https://www.atlantafed.org/about/atlantafed/transparency)
     * [News FMC Info Request](https://www.atlantafed.org/forms/news-events/fmc-info-request)
     * [News Micro Labor Workshop Request](https://www.atlantafed.org/forms/news-events/micro-labor-workshop-request)
     * [Research REIN Atlanta Request Information](https://www.atlantafed.org/forms/research/rein-atlanta-information-request)
@@ -193,7 +193,7 @@ Menutoggle menu
         * [Outreach](https://www.atlantafed.org/about/atlantafed/outreach)
         * [Procurement](https://www.atlantafed.org/about/atlantafed/procurement)
         * [Sustainability](https://www.atlantafed.org/about/atlantafed/sustainability)
-    * [Careers](https://www.atlantafed.org/about/careers)
+    * [Careers](https://www.atlantafed.org/community-development/content-by-subject)
         * [Search for Jobs ![offsite link](-/media/CF203F8E38CE4990A9ACF668D2BF25AE.ashx)](https://rb.wd5.myworkdayjobs.com/FRS?hiringCompany=7186c32a743f01bdfedfb3caaf012e0c) 
         * [Well-being](https://www.atlantafed.org/about/careers/benefits)
         * [Diversity](https://www.atlantafed.org/about/atlantafed/diversity-and-inclusion)
