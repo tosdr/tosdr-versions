@@ -39,9 +39,9 @@ editorial \_
 
 coverstory \_
 
-[![Drag Race: +900-HP Audi RS E-Tron EV Gets Massacred by the All-New Audi ICE Superbike](https://s1.cdn.autoevolution.com/images/news/drag-race-900-hp-audi-rs-e-tron-ev-gets-massacred-by-the-all-new-audi-ice-superbike-240122-5.jpg "Drag Race: +900-HP Audi RS E-Tron EV Gets Massacred by the All-New Audi ICE Superbike")
+[![Can We Interest You In Something Cooler to Chase Down the 2025 Ford Mustang GTD? ](https://s1.cdn.autoevolution.com/images/news/can-we-interest-you-in-something-cooler-to-chase-down-the-2025-ford-mustang-gtd-239955-5.jpg "Can We Interest You In Something Cooler to Chase Down the 2025 Ford Mustang GTD? ")
 
-Drag Race: +900-HP Audi RS E-Tron EV Gets Massacred by the All-New Audi ICE Superbike](https://www.autoevolution.com/news/drag-race-900-hp-audi-rs-e-tron-ev-gets-massacred-by-the-all-new-audi-ice-superbike-240122.html)
+Can We Interest You In Something Cooler to Chase Down the 2025 Ford Mustang GTD?](https://www.autoevolution.com/news/can-we-interest-you-in-something-cooler-to-chase-down-the-2025-ford-mustang-gtd-239955.html) 
 
 how-to \_
 
