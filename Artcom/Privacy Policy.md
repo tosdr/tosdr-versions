@@ -809,7 +809,7 @@ Art.com
 
 Indianapolis, IN 46268
 
-![Logo](/mobify/bundle/702/static/img/logo.svg)
+![Logo](/mobify/bundle/705/static/img/logo.svg)
 
 World's largest selection of art
 
