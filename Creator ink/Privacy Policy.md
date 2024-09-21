@@ -51,7 +51,11 @@ icon-X Close menu
         
     * [Collections](https://creatorink.com/collections)
         
-        * [FNAF Art Series CH.1 | The Awakening](https://creatorink.com/collections/fnaf-art-series)
+        * [Pelo | New Spooky Month](https://creatorink.com/collections/pelo)
+        * [FNAF | Into the Pit](https://creatorink.com/collections/fnaf-into-the-pit)
+        * [FNAF Art Series | Posters](https://creatorink.com/collections/fnaf-art-series)
+        * [Haminations | Gremlin Attack Halloween](https://creatorink.com/collections/haminations)
+        * [Inanimate Insanity | New Plush Drop](https://creatorink.com/collections/inanimate-insanity)
         * [Authorized Signature Jackets](https://creatorink.com/collections/authorized)
         * [Pre-Orders](https://creatorink.com/collections/pre-order-1)
         * [Available in Youth Sizes](https://creatorink.com/collections/available-in-kids-sizes)
@@ -61,7 +65,11 @@ icon-X Close menu
     
 * [Five Nights at Freddy's](https://creatorink.com/collections/five-nights-at-freddys)
     
+    * [Art Series CH. 1 | Posters](https://creatorink.com/collections/fnaf-art-series)
+        
     * [Art Series CH. 1 | FNAF The Awakening](https://creatorink.com/collections/fnaf-art-series)
+        
+    * [Into the Pit](https://creatorink.com/collections/fnaf-into-the-pit)
         
     * [VIP Secret Sale](https://creatorink.com/collections/ink-insiders-secret-sale)
         
@@ -156,7 +164,15 @@ icon-X Close menu
     
     [Collections](https://creatorink.com/collections)
     
-    [FNAF Art Series CH.1 | The Awakening](https://creatorink.com/collections/fnaf-art-series)
+    [Pelo | New Spooky Month](https://creatorink.com/collections/pelo)
+    
+    [FNAF | Into the Pit](https://creatorink.com/collections/fnaf-into-the-pit)
+    
+    [FNAF Art Series | Posters](https://creatorink.com/collections/fnaf-art-series)
+    
+    [Haminations | Gremlin Attack Halloween](https://creatorink.com/collections/haminations)
+    
+    [Inanimate Insanity | New Plush Drop](https://creatorink.com/collections/inanimate-insanity)
     
     [Authorized Signature Jackets](https://creatorink.com/collections/authorized)
     
@@ -170,7 +186,9 @@ icon-X Close menu
     
 * Five Nights at Freddy's
     
+    * [Art Series CH. 1 | Posters](https://creatorink.com/collections/fnaf-art-series)
     * [Art Series CH. 1 | FNAF The Awakening](https://creatorink.com/collections/fnaf-art-series)
+    * [Into the Pit](https://creatorink.com/collections/fnaf-into-the-pit)
     * [VIP Secret Sale](https://creatorink.com/collections/ink-insiders-secret-sale)
     * [All FNAF](https://creatorink.com/collections/five-nights-at-freddys)
     
