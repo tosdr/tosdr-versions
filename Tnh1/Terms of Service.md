@@ -18,95 +18,15 @@
 
 [Leia tudo sobre Maceió](https://www.tnh1.com.br/noticias/editoria/maceio/ "Ir para Maceió")
 
-   [![“Aberração” e “macaca”: candidata a vereadora denuncia ameaças de estupro e morte à PF](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/c/b/csm_candidata_vitima_que_sofreu_ataques_423205c66a.jpg)
-
-e-mail anônimo
-
-“Aberração” e “macaca”: candidata a vereadora denuncia ameaças de estupro e morte à PF](https://www.tnh1.com.br/noticia/nid/aberracao-e-macaca-candidata-a-vereadora-denuncia-ameacas-de-estupro-e-morte-a-pf/ "“Aberração” e “macaca”: candidata a vereadora denuncia ameaças de estupro e morte à PF")   [![Novo sistema de drenagem reforça ações de estabilização da Encosta do Mutange  ](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/6/e/csm_braskem_obra_34c29c2728.jpeg)
+   [![Saiba mais sobre cada um dos cinco finalistas](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/2/1/csm_CAPA_FINALISTAS_ae592f36b1.jpg)
 
 Maceió
 
-Novo sistema de drenagem reforça ações de estabilização da Encosta do Mutange](https://www.tnh1.com.br/noticia/nid/novo-sistema-de-drenagem-reforca-acoes-de-estabilizacao-da-encosta-do-mutange/ "Novo sistema de drenagem reforça ações de estabilização da Encosta do Mutange  ")   [![Fiscalização apreende mais de três toneladas de alimentos estragados no Cleto Marques Luz](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/5/9/csm_Fiscalizacao_apreende_mais_de_tres_toneladas_de_alimentos_estragados_no_Cleto_Marques_Luz_-_foto_Divulgacao_Vigilancia_Sanitaria_d432090cdb.jpeg)
-
-açougue e frigorífico
-
-Fiscalização apreende mais de três toneladas de alimentos estragados no Cleto Marques Luz](https://www.tnh1.com.br/noticia/nid/fiscalizacao-apreende-mais-de-tres-toneladas-de-alimentos-estragados-no-cleto-marques-luz/ "Fiscalização apreende mais de três toneladas de alimentos estragados no Cleto Marques Luz")   [![Empresa tem 15 dias para prestar explicações sobre morte de trabalhador na Ponte Divaldo Suruagy](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/8/3/csm_eraldo_ponte_d5803d3831.png)
-
-caiu da ponte
-
-Empresa tem 15 dias para prestar explicações sobre morte de trabalhador na Ponte Divaldo Suruagy](https://www.tnh1.com.br/noticia/nid/empresa-tem-15-dias-para-prestar-explicacoes-sobre-morte-de-trabalhador-na-ponte-divaldo-suruagy/ "Empresa tem 15 dias para prestar explicações sobre morte de trabalhador na Ponte Divaldo Suruagy")   [![Outlet da beleza 'Maceió Beauty Hair' vai agitar mercado em Alagoas](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/0/b/csm_MACEIO_BEAUTY_HAIR_b5689dca6a.jpeg)
-
-6 a 8 de Outubro
-
-Outlet da beleza 'Maceió Beauty Hair' vai agitar mercado em Alagoas](https://www.tnh1.com.br/noticia/nid/outlet-da-beleza-maceio-beauty-hair-vai-agitar-mercado-em-alagoas/ "Outlet da beleza 'Maceió Beauty Hair' vai agitar mercado em Alagoas")   [![Motociclistas recebem multas de quase R$ 6 mil após protesto na frente do DMTT ](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/3/3/csm_protesto_DMTT_d3049487e1.png)
-
-denúncia
-
-Motociclistas recebem multas de quase R$ 6 mil após protesto na frente do DMTT](https://www.tnh1.com.br/noticia/nid/motociclistas-recebem-multas-de-quase-r-6-mil-apos-protesto-na-frente-do-dmtt/ "Motociclistas recebem multas de quase R$ 6 mil após protesto na frente do DMTT ")
+Saiba mais sobre cada um dos cinco finalistas](https://www.tnh1.com.br/conteudo/noticia/nid/saiba-mais-sobre-cada-um-dos-cinco-finalistas/ "Saiba mais sobre cada um dos cinco finalistas")
 
 [Alagoas](https://www.tnh1.com.br/noticias/editoria/alagoas/ "Alagoas")
 
-Últimas de Alagoas
-
-[Leia tudo sobre Alagoas](https://www.tnh1.com.br/noticias/editoria/alagoas/ "Ir para Alagoas")
-
-   [![Fiscalização identifica novos desvios de água no município sertanejo de Monteirópolis](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/e/6/csm_fiscalizacao-identifica-novos-desvios-de-agua-no-municipio-sertanejo-de-monteiropolis_a35b178293.jpg)
-
-Alagoas
-
-Fiscalização identifica novos desvios de água no município sertanejo de Monteirópolis](https://www.tnh1.com.br/noticia/nid/fiscalizacao-identifica-novos-desvios-de-agua-no-municipio-sertanejo-de-monteiropolis/ "Fiscalização identifica novos desvios de água no município sertanejo de Monteirópolis")   [![Veterinários alagoanos serão homenageados em premiação nesta sexta-feira](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/0/a/csm_veterinarios_ac39f32153.png)
-
-Mês do Veterinário
-
-Veterinários alagoanos serão homenageados em premiação nesta sexta-feira](https://www.tnh1.com.br/noticia/nid/veterinarios-alagoanos-serao-homenageados-em-premiacao-nesta-sexta-feira/ "Veterinários alagoanos serão homenageados em premiação nesta sexta-feira")   [![Governo publica procedimentos para pagamento do rateio do Fundef em Alagoas; confira](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/1/f/csm_real_moedadinheiro_jfcrz_abr_1701220049_1_14b8d66d3b.jpg)
-
-mais de R$ 827 milhões
-
-Governo publica procedimentos para pagamento do rateio do Fundef em Alagoas; confira](https://www.tnh1.com.br/noticia/nid/governo-publica-procedimentos-para-pagamento-do-rateio-do-fundef-em-alagoas-confira/ "Governo publica procedimentos para pagamento do rateio do Fundef em Alagoas; confira")   [![Governo lança campanha para consolidar Alagoas como capital nacional do Réveillon; confira as festas](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/b/3/csm_campanha-reveillon-pedro-acioli_294c207a25.jpg)
-
-programação
-
-Governo lança campanha para consolidar Alagoas como capital nacional do Réveillon; confira as festas](https://www.tnh1.com.br/noticia/nid/governo-lanca-campanha-para-consolidar-alagoas-como-capital-nacional-do-reveillon-confira-as-festas/ "Governo lança campanha para consolidar Alagoas como capital nacional do Réveillon; confira as festas")   [![Estudos e soluções: reunião no MPF discute prevenção de enchentes, inundações e deslizamentos em AL](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/f/9/csm_reuniao_mpf_19-09-24_367b35768d.jpeg)
-
-minimizar impacto
-
-Estudos e soluções: reunião no MPF discute prevenção de enchentes, inundações e deslizamentos em AL](https://www.tnh1.com.br/noticia/nid/estudos-e-solucoes-reuniao-no-mpf-discute-prevencao-de-enchentes-inundacoes-e-deslizamentos-em-al/ "Estudos e soluções: reunião no MPF discute prevenção de enchentes, inundações e deslizamentos em AL")   [![Polícia Científica procura familiares de homem que vivia em situação de rua em Penedo](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/0/c/csm_policia-cientifica-procura-familiares-de-homem-que-vivia-em-situacao-de-rua-em-penedo_2c1a75ba69.jpeg)
-
-Alagoas
-
-Polícia Científica procura familiares de homem que vivia em situação de rua em Penedo](https://www.tnh1.com.br/noticia/nid/policia-cientifica-procura-familiares-de-homem-que-vivia-em-situacao-de-rua-em-penedo/ "Polícia Científica procura familiares de homem que vivia em situação de rua em Penedo")
-
 [Polícia](https://www.tnh1.com.br/noticias/editoria/policia/ "Polícia")
-
-Últimas de Polícia
-
-[Leia tudo sobre Polícia](https://www.tnh1.com.br/noticias/editoria/policia/ "Ir para Polícia")
-
-   [![Dupla é presa após flagrante de pedras de crack, revólveres e R$ 11,5 mil, no Sertão de Alagoas](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/5/4/csm_apreensao_santana_do_ipanema_-_foto_cortesia_0c5f99c331.jpeg)
-
-comparsas de crimes
-
-Dupla é presa após flagrante de pedras de crack, revólveres e R$ 11,5 mil, no Sertão de Alagoas](https://www.tnh1.com.br/noticia/nid/dupla-e-presa-apos-flagrante-de-pedras-de-crack-revolveres-e-r-115-mil-no-sertao-de-alagoas/ "Dupla é presa após flagrante de pedras de crack, revólveres e R$ 11,5 mil, no Sertão de Alagoas")   [![Acusado de matar vizinho por ciúmes em Pernambuco é preso após se esconder em Alagoas](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/3/f/csm_prisao_cha_preta_-_foto_ascom_pc_dcff7debf8.jpeg)
-
-Foragido
-
-Acusado de matar vizinho por ciúmes em Pernambuco é preso após se esconder em Alagoas](https://www.tnh1.com.br/noticia/nid/acusado-de-matar-vizinho-por-ciumes-em-pernambuco-e-preso-apos-se-esconder-em-alagoas/ "Acusado de matar vizinho por ciúmes em Pernambuco é preso após se esconder em Alagoas")   [![Dupla em moto rende frentistas e leva mais de R$ 600 em posto no interior de Alagoas](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/5/a/csm_Central_de_Policia_de_Arapiraca_fb9d405eee.jpg)
-
-Em Arapiraca
-
-Dupla em moto rende frentistas e leva mais de R$ 600 em posto no interior de Alagoas](https://www.tnh1.com.br/noticia/nid/dupla-em-moto-rende-frentistas-e-leva-mais-de-r-600-em-posto-no-interior-de-alagoas/ "Dupla em moto rende frentistas e leva mais de R$ 600 em posto no interior de Alagoas")   [![Assaltante golpeia vítima com machado, foge com celular dela, mas é alcançado por PMs](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/9/c/csm_csm_csm_Viatura_Policia_Militar_-_Foto_Cortesia_ao_TNH1__Bruno_Protasio_4e80112b48_630098ddc8_72b789d7a0.jpeg)
-
-Cruz das Almas
-
-Assaltante golpeia vítima com machado, foge com celular dela, mas é alcançado por PMs](https://www.tnh1.com.br/noticia/nid/assaltante-golpeia-vitima-com-machado-foge-com-celular-dela-mas-e-alcancado-por-pms/ "Assaltante golpeia vítima com machado, foge com celular dela, mas é alcançado por PMs")   [![Triplo homicídio: adolescentes foram executados com mais de 30 tiros em Rio Largo](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/2/d/csm_Triplo_homicidio_Rio_Largo_-_foto_Reproducao_d0a56ab22c.jpg)
-
-Tinham 16 e 17 anos
-
-Triplo homicídio: adolescentes foram executados com mais de 30 tiros em Rio Largo](https://www.tnh1.com.br/noticia/nid/triplo-homicidio-adolescentes-foram-executados-com-mais-de-30-tiros-em-rio-largo/ "Triplo homicídio: adolescentes foram executados com mais de 30 tiros em Rio Largo")   [![Novo episódio: "Territórios do Crime" mostra como traficantes usam dinheiro para promover festas e ostentação ](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/e/3/csm_Still_Territorios_do_crime_d7bdc35c5f.png)
-
-Alagoas
-
-Novo episódio: "Territórios do Crime" mostra como traficantes usam dinheiro para promover festas e ostentação](https://www.tnh1.com.br/noticia/nid/novo-episodio-territorios-do-crime-mostra-como-traficantes-usam-dinheiro-para-promover-festas-e-ostentacao/ "Novo episódio: "Territórios do Crime" mostra como traficantes usam dinheiro para promover festas e ostentação ")
 
 [Blogs](https://www.tnh1.com.br/blogs/ "Blogs")
 
@@ -115,16 +35,6 @@ Novo episódio: "Territórios do Crime" mostra como traficantes usam dinheiro pa
 [TV](https://www.tnh1.com.br/videos/ "TV ")
 
 [Pessoas&Negócios](https://www.tnh1.com.br/a-lideranca-que-voce-escolheu/noticias/editoria/pessoas-negocios/ "Pessoas&Negócios")
-
-Últimas de Pessoas&Negócios
-
-[Leia tudo sobre Pessoas&Negócios](https://www.tnh1.com.br/a-lideranca-que-voce-escolheu/noticias/editoria/pessoas-negocios/ "Ir para Pessoas&Negócios")
-
-   [![Uninassau Maceió recebe selo "OAB Indica" por excelência no ensino de Direito](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/d/0/csm_UNINASSAU_SELO_OAB___2__f9527de421.jpg)
-
-Pessoas & Negócios
-
-Uninassau Maceió recebe selo "OAB Indica" por excelência no ensino de Direito](https://www.tnh1.com.br/noticia/nid/uninassau-maceio-recebe-selo-oab-indica-por-excelencia-no-ensino-de-direito/ "Uninassau Maceió recebe selo "OAB Indica" por excelência no ensino de Direito")
 
 [Pajuçara.com](https://pajucara.tnh1.com.br/ "Pajuçara.com")
 
