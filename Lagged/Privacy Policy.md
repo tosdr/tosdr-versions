@@ -251,7 +251,7 @@ Games you might like
 
 [Suika Game: Watermelon](https://lagged.com/en/g/suika-game-watermelon) ![Suika Game: Watermelon Game](https://imgs2.dab3games.com/suika-game-watermelon-ft32.png) top rated
 
-[Poppy Playtime Chapter 2](https://lagged.com/en/g/poppy-playtime-chapter-2) ![Poppy Playtime Chapter 2 Game](https://imgs2.dab3games.com/poppy-playtime-ch2-ft.png)
+[Stretchy Snacks](https://lagged.com/en/g/stretchy-snacks) ![Stretchy Snacks Game](https://imgs2.dab3games.com/stretchy-snacks-big.png)
 
 [Lagged.com](https://lagged.com/ "Lagged.com")
 
