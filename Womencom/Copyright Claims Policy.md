@@ -41,32 +41,20 @@
 * [Newsletter](https://subscribe.women.com/newsletter "Newsletter")
 * [Advertise](https://static.com/advertise "Advertise")
 
-*  [![Secret Lives stars](https://www.women.com/img/gallery/the-secret-lives-of-mormon-wives-all-your-sex-questions-about-the-show-answered/intro-1726762119.jpg)](https://www.women.com/1668756/secret-lives-of-mormon-wives-sex-questions-answered/)
+*  [![Sydney Sweeney on the red carpet](https://www.women.com/img/gallery/sydney-sweeney-outfits-that-totally-missed-the-mark/intro-1726589829.jpg)](https://www.women.com/1666623/sydney-sweeney-outfits-totally-missed-the-mark/)
     
-    [Sex](https://www.women.com/category/sex-life/)
+    [Fashion](https://www.women.com/category/fashion/)
     
-    [Sex](https://www.women.com/category/sex-life/) By Emily Hutchinson
+    [Fashion](https://www.women.com/category/fashion/) By Emily Hutchinson
     
-    [The Secret Lives Of Mormon Wives: All Your Sex Questions About The Show, Answered](https://www.women.com/1668756/secret-lives-of-mormon-wives-sex-questions-answered/)
-    =======================================================================================================================================================================
+    [Sydney Sweeney Outfits That Totally Missed The Mark](https://www.women.com/1666623/sydney-sweeney-outfits-totally-missed-the-mark/)
+    ====================================================================================================================================
     
-    After dusting off from the drama and rebuilding bridges, these Mormon wives had audiences asking plenty of questions about their secret lives.
+    Sydney Sweeney has won over countless fans with her acting skills, but when it comes to fashion, let's just say it isn't her strong suit.
     
-    By Emily Hutchinson [Read More](https://www.women.com/1668756/secret-lives-of-mormon-wives-sex-questions-answered/)
+    By Emily Hutchinson [Read More](https://www.women.com/1666623/sydney-sweeney-outfits-totally-missed-the-mark/)
     
-* *  [![Sydney Sweeney on the red carpet](https://www.women.com/img/gallery/sydney-sweeney-outfits-that-totally-missed-the-mark/intro-1726589829.jpg)](https://www.women.com/1666623/sydney-sweeney-outfits-totally-missed-the-mark/)
-        
-        [Fashion](https://www.women.com/category/fashion/)
-        
-        [Fashion](https://www.women.com/category/fashion/) By Emily Hutchinson
-        
-        ### [Sydney Sweeney Outfits That Totally Missed The Mark](https://www.women.com/1666623/sydney-sweeney-outfits-totally-missed-the-mark/)
-        
-        Sydney Sweeney has won over countless fans with her acting skills, but when it comes to fashion, let's just say it isn't her strong suit.
-        
-        By Emily Hutchinson [Read More](https://www.women.com/1666623/sydney-sweeney-outfits-totally-missed-the-mark/)
-        
-    *  [![man and woman on boat](https://www.women.com/img/gallery/hypergamy-is-the-dating-trend-enhancing-connections-and-lives/intro-1726598106.jpg)](https://www.women.com/1666859/hypergamy-dating-trend-explained/)
+* *  [![man and woman on boat](https://www.women.com/img/gallery/hypergamy-is-the-dating-trend-enhancing-connections-and-lives/intro-1726598106.jpg)](https://www.women.com/1666859/hypergamy-dating-trend-explained/)
         
         [Exclusives](https://www.women.com/category/exclusives/)
         
@@ -77,6 +65,18 @@
         Hypergamy, or "dating up" isn't necessarily toxic. If done right, it can enhance your relationship and life, an expert tells Women.
         
         By Amanda Chatel [Read More](https://www.women.com/1666859/hypergamy-dating-trend-explained/)
+        
+    *  [![Secret Lives stars](https://www.women.com/img/gallery/the-secret-lives-of-mormon-wives-all-your-sex-questions-about-the-show-answered/intro-1726762119.jpg)](https://www.women.com/1668756/secret-lives-of-mormon-wives-sex-questions-answered/)
+        
+        [Sex](https://www.women.com/category/sex-life/)
+        
+        [Sex](https://www.women.com/category/sex-life/) By Emily Hutchinson
+        
+        ### [The Secret Lives Of Mormon Wives: All Your Sex Questions About The Show, Answered](https://www.women.com/1668756/secret-lives-of-mormon-wives-sex-questions-answered/)
+        
+        After dusting off from the drama and rebuilding bridges, these Mormon wives had audiences asking plenty of questions about their secret lives.
+        
+        By Emily Hutchinson [Read More](https://www.women.com/1668756/secret-lives-of-mormon-wives-sex-questions-answered/)
         
 
 More Stories
