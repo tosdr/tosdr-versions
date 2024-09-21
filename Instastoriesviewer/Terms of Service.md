@@ -169,7 +169,8 @@ If you have any questions about these Terms and Conditions, You can contact us:
 * [Remove profile](https://insta-stories-viewer.com/remove-profile/)
 
 * [Blog](https://insta-stories-viewer.com/blog/)
-* [Downloader](https://igsaved.com/)
+* [Instagram Video Downloader](https://anonsaver.com/)
+* [Instagram Story Viewer](https://iqsaved.com/)
 
 © 2020-2024 insta-stories-viewer.com
 
