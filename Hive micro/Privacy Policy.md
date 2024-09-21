@@ -10,6 +10,8 @@
 
 ![header_carat_desktop](data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTYiIGhlaWdodD0iMTYiIHZpZXdCb3g9IjAgMCAxNiAxNiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTQgNi41TDcuODU4NTggMTAuMzU4NkM3LjkzNjY4IDEwLjQzNjcgOC4wNjMzMiAxMC40MzY3IDguMTQxNDIgMTAuMzU4NkwxMiA2LjUiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2Utd2lkdGg9IjEuNSIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIi8+Cjwvc3ZnPgo=)](https://thehive.ai/privacy)
 
+[NVIDIA NIM](https://thehive.ai/nvidia-nim-integration)
+
 [Docs](https://docs.thehive.ai/)
 
 [Company
