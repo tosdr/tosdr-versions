@@ -1,6 +1,6 @@
 [Skip to content](#content)
 
-[![Prosper Logo link to Prosper homepage.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='186'%20height='30'%3E%3C/svg%3E)](https://www.prosper.com/)
+[![Prosper Logo link to Prosper homepage.](https://www.prosper.com/wp-content/uploads/2020/04/Logo.svg)](https://www.prosper.com/)
 
 * Logged (Mobile/Tablet)
     
@@ -205,7 +205,7 @@ We use cookies when you interact with Prosper websites to keep track of your per
 
 Usage Data & Site Activity.  Prosper also uses Local Storage, such as HTML5, to store content information and preferences. Various browsers may offer their own management tools for removing HTML5.
 
-Third Party Technologies. Prosper partners with third parties to manage our advertising services on other websites and evaluate overall Prosper website performance, and/or to collect certain information when you visit and interact with Prosper websites and services. These third party companies may use technologies, such as cookies, to recognize browsers and to gather information about your activities on Prosper websites and other sites in order to provide you advertising based upon your browsing activities and interests, or to help us track the success of our marketing efforts, your interactions with Prosper websites, and overall Prosper website performance. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out of certain advertising networks by clicking [here](https://preferences-mgr.truste.com/).  Please note that this does not opt you out of receiving all ads and you may still encounter generic ads.
+Third Party Technologies.  Prosper partners with third parties to manage our advertising services on other websites and evaluate overall Prosper website performance, and/or to collect certain information when you visit and interact with Prosper websites and services. These third party companies may use technologies, such as cookies, to recognize browsers and to gather information about your activities on Prosper websites and other sites in order to provide you advertising based upon your browsing activities and interests, or to help us track the success of our marketing efforts, your interactions with Prosper websites, and overall Prosper website performance. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out of certain advertising networks by clicking [here](https://preferences-mgr.truste.com/).  Please note that this does not opt you out of receiving all ads and you may still encounter generic ads.
 
 **_Do-Not-Track Signals_**
 
@@ -427,7 +427,7 @@ California residents have the following rights under the CCPA:
 3. **Right to Correct.** You can ask us to correct inaccurate personal information that we have about you. Once we receive and confirm your verifiable consumer request (see “How You Can Exercise Your Rights Under CCPA”), we will use commercially reasonable efforts to correct inaccurate personal information and direct our service providers or contractors to do the same.
 4. **Right to Opt-Out of Targeted Advertising**. You have the right to direct us to not “sell” or “share” your personal information (the “right to opt-out”).  We use technologies such as cookies, pixel tags, web beacons, and other similar technologies, that gather information on our website. That information is used for a variety of purposes, such as to understand how visitors interact with our websites, or to serve advertisements on our websites or on other websites. The use of technologies, such as cookies, constitutes a ‘share’ or ‘sale’ of personal information under the CCPA. You can stop the use of certain third-party tracking technologies that are not considered our service providers by managing your cookie consent preferences when visiting our websites or by clicking on “Do Not Sell/Share My Information” at the bottom of www.prosper.com. Note that due to technological limitations, if you visit our website from a different computer or device, or clear cookies on your browser that store your preferences, you will need to return to this screen to opt-out and/or rebroadcast the signal.
 5. **The Right to Limit the Use and Disclosure of Sensitive Personal Information.**  If we collect Sensitive Personal Information and use such information for reasons that are not aligned with the purposes for which we obtained it, then you have the right to limit the use and disclosure of such Sensitive Personal Information.  However, we can use this information as permitted by law, to follow the law, and to give you the best service.
-6. **The right to Non-Discrimination or Non-Retaliation,**which means we cannot discriminate or retaliate against you if you exercise your rights under the CCPA.
+6. **The right to Non-Discrimination or Non-Retaliation,** which means we cannot discriminate or retaliate against you if you exercise your rights under the CCPA.
 
 We may, however, offer you certain financial incentives permitted by the CCPA that can result in different prices, rates, or quality levels. Such financial incentives may include gift cards, credits, and other monetary offerings; additional details related to the material terms of these financial incentives will be provided to you at the time the incentive is presented to you. Any CCPA-permitted financial incentive we offer will reasonably relate to your personal information’s value and contain written terms that describe the program’s material aspects. Participation in a financial incentive program requires your prior opt in consent, which you may revoke at any time.
 
@@ -807,9 +807,9 @@ Cookie Settings
 
 [Facebook](https://www.facebook.com/prosperloans) [Twitter](https://twitter.com/prosperloans) [Linkedin](http://www.linkedin.com/company/prosper-marketplace) [Instagram](https://www.instagram.com/letsgoprosper/)
 
-![Equal Housing Lender](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='1'%20height='1'%3E%3C/svg%3E "Equal-Housing-Lender-1.svg")
+![Equal Housing Lender](https://www.prosper.com/wp-content/uploads/2023/01/Equal-Housing-Lender-1.svg?w=35 "Equal-Housing-Lender-1.svg")
 
-![Better Business Bureau](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='1'%20height='1'%3E%3C/svg%3E "Better-Business-Bureau-1.svg")
+![Better Business Bureau](https://www.prosper.com/wp-content/uploads/2023/01/Better-Business-Bureau-1.svg?w=93 "Better-Business-Bureau-1.svg")
 
 [Licensing and Disclosures](https://www.prosper.com/legal/heloc-licensing-disclosures)
 
