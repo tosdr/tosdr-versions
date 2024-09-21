@@ -244,14 +244,6 @@ MuggleNet Archive Select Month September 2024  (17) August 2024  (30) July 202
 
 ### September 2024
 
-#### Fri, Sep 20
-
-Harry receives his Nimbus 2000
-
-Recurs yearly
-
-1991
-
 #### Sun, Sep 22
 
 Tom Felton's birthday
@@ -288,15 +280,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-So many fans visit King’s Cross Station to take pictures of Platforms 9 and 10 that the station management erected a sign that says “Platform 9 3/4,” which, in the Harry Potter books, is invisible to Muggles but acts as a gateway for witches and wizards.
+Magic makes electronics go haywire, so Muggle devices don’t work at or near Hogwarts.
 
 ### Potter History
 
-July 21, 2007 – Harry Potter and the Deathly Hallows is released to the world.
+December 11, 2008 – The first stop for Harry Potter: The Exhibition is announced as Chicago, Illinois, opening on April 30, 2009.
 
 ### Potter Quote
 
-“Make way for the Heir of Slytherin, seriously evil wizard coming through. . . .”
+“Sir, I wondered what you know about . . . about Horcruxes?”
 
 [](#)
 
