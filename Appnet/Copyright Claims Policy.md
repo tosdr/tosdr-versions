@@ -137,7 +137,7 @@ C. Repeat Infringer Policy
 
 In accordance with the Digital Millennium Copyright Act (DMCA) and other applicable law, we will terminate access to our website or application by users who are repeat infringers. We may also at our sole discretion limit access to our application and/or website and/or terminate the memberships of any users who infringe any intellectual property rights of others, whether or not there is any repeat infringement.
 
-#### FIND LOCAL CONTRACTORS
+#### DISCOVER AI APPS
 
 * * *
 
@@ -174,7 +174,7 @@ In accordance with the Digital Millennium Copyright Act (DMCA) and other applica
     * Русский
     
 
-#### © contractor.bar
+#### © app.net
 
 * [Site Map](https://app.net/sitemap)
 * [GDPR](https://app.net/gdpr)
