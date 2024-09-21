@@ -66,9 +66,9 @@ Any e-mail addresses are not used or collected for any purpose other than notify
 
 ### Look at this!
 
-[![1%=51%](/assets/logos/151-2000-12.png)](http://www.followthemoney.org/assets/ANNUAL-REPORTS/NIMSP-Annual-Report-2013.pdf)
+[![incumbency](/assets/logos/SuccessRateContestedGeneral2005-2010.png)](http://www.followthemoney.org/research/institute-research/the-role-of-money-and-incumbency-in-2009-2010-state-elections)
 
-Just 1% of donors gave 51% of the total.
+The power of incumbency and money.
 
   [See More Visualizations](https://www.followthemoney.org/look-at-this)
 
