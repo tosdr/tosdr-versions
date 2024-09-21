@@ -2,14 +2,14 @@ Saturday, September 21 2024
 
 Breaking News
 
+* [Democrats Have Nothing To Campaign For — They Just Run Against Trump](https://www.conservativedailynews.com/2024/09/democrats-have-nothing-to-campaign-for-they-just-run-against-trump/)
+* [Black Undecided Swing-State Voter Panel Overwhelmingly Says ‘Economy Was Better Under Trump’](https://www.conservativedailynews.com/2024/09/black-undecided-swing-state-voter-panel-overwhelmingly-says-economy-was-better-under-trump/)
+* [Swing-State Voter Says Biden-Harris Economy, Border Crisis Have Pushed Him To Trump Camp](https://www.conservativedailynews.com/2024/09/swing-state-voter-says-biden-harris-economy-border-crisis-have-pushed-him-to-trump-camp/)
 * [Elon Musk Makes His Largest Known Political Donation Ever To Boost House Republicans](https://www.conservativedailynews.com/2024/09/elon-musk-makes-his-largest-known-political-donation-ever-to-boost-house-republicans/)
 * [Secret Service Pins Blame On Comms ‘Deficiencies’ For Its Failure To Prevent First Trump Assassination Attempt](https://www.conservativedailynews.com/2024/09/secret-service-pins-blame-on-comms-deficiencies-for-its-failure-to-prevent-first-trump-assassination-attempt/)
 * [CDC Launching ‘Agency-Wide Strategy’ On ‘Health Equity’ For LGBT, Minorities](https://www.conservativedailynews.com/2024/09/cdc-launching-agency-wide-strategy-on-health-equity-for-lgbt-minorities/)
 * [Ilhan Omar Says Thousands Of Haitian Migrants Overrunning Springfield Actually Revived Town](https://www.conservativedailynews.com/2024/09/ilhan-omar-says-thousands-of-haitian-migrants-overrunning-springfield-actually-revived-town/)
 * [Former Dem Fundraisers Call Harris’ Oprah Interview ‘Out Of Touch,’ ‘Patronizing’](https://www.conservativedailynews.com/2024/09/former-dem-fundraisers-call-harris-oprah-interview-out-of-touch-patronizing/)
-* [Trump Needs Catholic Voters To Win](https://www.conservativedailynews.com/2024/09/trump-needs-catholic-voters-to-win/)
-* [What Could Go Wrong? Dem Investor Bankrolling Development Of Mobile Voting App](https://www.conservativedailynews.com/2024/09/what-could-go-wrong-dem-investor-bankrolling-development-of-mobile-voting-app/)
-* [Trump And Harris Neck And Neck In Swing State That Could Sway The Election](https://www.conservativedailynews.com/2024/09/trump-and-harris-neck-and-neck-in-swing-state-that-could-sway-the-election/)
 
 * [Sidebar](#)
 * [Random Article](https://www.conservativedailynews.com/privacy-policy/?random-post=1 "Random Article")
@@ -126,6 +126,24 @@ Created using the Donation Thermometer plugin https://wordpress.org/plugins/dona
 
 Recent Posts
 
+* [![Kamala Harris Donald Trump 2024 election platforms](https://www.conservativedailynews.com/wp-content/uploads/2024/09/04-platforms-sm-1080-220x150.jpg)](https://www.conservativedailynews.com/2024/09/democrats-have-nothing-to-campaign-for-they-just-run-against-trump/)
+    
+    [Democrats Have Nothing To Campaign For — They Just Run Against Trump](https://www.conservativedailynews.com/2024/09/democrats-have-nothing-to-campaign-for-they-just-run-against-trump/)
+    
+    September 21, 2024
+    
+* [![Donald Trump success](https://www.conservativedailynews.com/wp-content/uploads/2017/01/Donald-Trump-2.jpg)](https://www.conservativedailynews.com/2024/09/black-undecided-swing-state-voter-panel-overwhelmingly-says-economy-was-better-under-trump/)
+    
+    [Black Undecided Swing-State Voter Panel Overwhelmingly Says ‘Economy Was Better Under Trump’](https://www.conservativedailynews.com/2024/09/black-undecided-swing-state-voter-panel-overwhelmingly-says-economy-was-better-under-trump/)
+    
+    September 21, 2024
+    
+* [![Kamala Harris sad](https://www.conservativedailynews.com/wp-content/uploads/2020/08/Kamala-Harris-5.jpg)](https://www.conservativedailynews.com/2024/09/swing-state-voter-says-biden-harris-economy-border-crisis-have-pushed-him-to-trump-camp/)
+    
+    [Swing-State Voter Says Biden-Harris Economy, Border Crisis Have Pushed Him To Trump Camp](https://www.conservativedailynews.com/2024/09/swing-state-voter-says-biden-harris-economy-border-crisis-have-pushed-him-to-trump-camp/)
+    
+    September 21, 2024
+    
 * [![Elon Musk](https://www.conservativedailynews.com/wp-content/uploads/2022/01/1280px-Elon_Musk_at_a_Press_Conference-220x150.jpg)](https://www.conservativedailynews.com/2024/09/elon-musk-makes-his-largest-known-political-donation-ever-to-boost-house-republicans/)
     
     [Elon Musk Makes His Largest Known Political Donation Ever To Boost House Republicans](https://www.conservativedailynews.com/2024/09/elon-musk-makes-his-largest-known-political-donation-ever-to-boost-house-republicans/)
@@ -156,27 +174,11 @@ Recent Posts
     
     September 20, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2021/10/church-220x150.jpg)](https://www.conservativedailynews.com/2024/09/trump-needs-catholic-voters-to-win/)
-    
-    [Trump Needs Catholic Voters To Win](https://www.conservativedailynews.com/2024/09/trump-needs-catholic-voters-to-win/)
-    
-    September 20, 2024
-    
-* [![Kamala Harris Donald Trump 2024 election platforms](https://www.conservativedailynews.com/wp-content/uploads/2024/09/04-platforms-sm-1080-220x150.jpg)](https://www.conservativedailynews.com/2024/09/priorities-5/)
-    
-    [Priorities](https://www.conservativedailynews.com/2024/09/priorities-5/)
-    
-    September 20, 2024
-    
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2020/12/caution-democrat-voter-fraud-ahead-corrupt-treasonous-democrats-hope-to-cheat-election-1-220x150.jpg)](https://www.conservativedailynews.com/2024/09/what-could-go-wrong-dem-investor-bankrolling-development-of-mobile-voting-app/)
-    
-    [What Could Go Wrong? Dem Investor Bankrolling Development Of Mobile Voting App](https://www.conservativedailynews.com/2024/09/what-could-go-wrong-dem-investor-bankrolling-development-of-mobile-voting-app/)
-    
-    September 20, 2024
-    
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
 
+* [Authorities Seize Over 350 Websites Importing Switches And Suppressors From China](https://www.thegunpage.com/authorities-seize-over-350-websites-importing-switches-and-suppressors-from-china/10610720)
+* [Classic SSUSA: Turnbull Manufacturing Restores An Old War Horse](https://www.thegunpage.com/classic-ssusa-turnbull-manufacturing-restores-an-old-war-horse/10610719)
 * [Serbian AKs, Part 6: Morana, an Ambitious AK Upgrade Program](https://www.thegunpage.com/serbian-aks-part-6-morana-an-ambitious-ak-upgrade-program/10610717)
 * [POTD: Joe Easter – Running & Gunning A KelTec RDB](https://www.thegunpage.com/potd-joe-easter-running-gunning-a-keltec-rdb/10610714)
 * [TFB Podcast Roundup 147: The September 20th Roundup](https://www.thegunpage.com/tfb-podcast-roundup-147-the-september-20th-roundup/10610715)
@@ -185,8 +187,6 @@ Recent Posts
 * [Henry Announces The 10-Shot .22 Golden Boy](https://www.thegunpage.com/henry-announces-the-10-shot-22-golden-boy/10610705)
 * [Michigan Man Free After Shooting Ruled Self-Defense](https://www.thegunpage.com/michigan-man-free-after-shooting-ruled-self-defense/10610704)
 * [Galco Miami Classic II Now Available For Colt King Cobra](https://www.thegunpage.com/galco-miami-classic-ii-now-available-for-colt-king-cobra/10610700)
-* [Another Year, Another Worthless Columbus, Ohio, Gun “Buyback”](https://www.thegunpage.com/another-year-another-worthless-columbus-ohio-gun-buyback/10610699)
-* [New: Cabot Guns High Voltage Pistols](https://www.thegunpage.com/new-cabot-guns-high-voltage-pistols/10610708)
 
 [![ Conservative Political Blogs](https://blog.feedspot.com/wp-content/uploads/2016/12/conservative_political_216px.png?x58297)](https://blog.feedspot.com/conservative_political_blogs/ "Conservative Political Blogs")
 
@@ -228,6 +228,7 @@ Contact Us
 
 Recent Comments
 
+* charles wilkins on [Priorities](https://www.conservativedailynews.com/2024/09/priorities-5/#comment-782234)
 * AlwaysVictoria on [Teamsters Don’t Support Trump, But Teamsters Do](https://www.conservativedailynews.com/2024/09/teamsters-dont-support-trump-but-teamsters-do/#comment-782210)
 * Spit-N-Seeds on [The Reasons Young Women Embrace the Left Do Not Reflect Well on Those Women](https://www.conservativedailynews.com/2024/09/the-reasons-young-women-embrace-the-left-do-not-reflect-well-on-those-women/#comment-782201)
 * Jim on [Caption This…](https://www.conservativedailynews.com/2024/09/caption-this/#comment-782189)
@@ -236,9 +237,6 @@ Recent Comments
 * KayCee on [The Reasons Young Women Embrace the Left Do Not Reflect Well on Those Women](https://www.conservativedailynews.com/2024/09/the-reasons-young-women-embrace-the-left-do-not-reflect-well-on-those-women/#comment-782172)
 * Jeff L. on [The Democrats, the Media and Would-be Trump Assassin Ryan Routh](https://www.conservativedailynews.com/2024/09/the-democrats-the-media-and-would-be-trump-assassin-ryan-routh/#comment-782171)
 * Gary D. Chambers on [We Are Different, and the Left Keeps Attacking Us For It](https://www.conservativedailynews.com/2024/09/we-are-different-and-the-left-keeps-attacking-us-for-it/#comment-782156)
-* charles wilkins on [Tip of the Iceberg](https://www.conservativedailynews.com/2024/09/tip-of-the-iceberg/#comment-782148)
-
- [](https://www.conservativedailynews.com/wp-statistics-honey-pot-page-for-tracking-2024-09-20-225416/)
 
 [Close](#)
 
