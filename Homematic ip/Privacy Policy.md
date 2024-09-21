@@ -323,6 +323,12 @@ Zahlreiche Produkthighlights im Herbst: Im Rahmen der IFA werden alle Neuheiten 
 
 [Sept.
 
+26-28
+
+Event](https://homematic-ip.com/de/event/homematic-ip-roadshow-smart-home-live-erleben-2024-09-26-bauhaus-hamburg-moorfleet)
+
+[Sept.
+
 19-21
 
 Event
