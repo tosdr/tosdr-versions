@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/inspiratie/de-versnellende-sytemen/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/gezondheid/italiaanse-populariteit-homeopathie/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
