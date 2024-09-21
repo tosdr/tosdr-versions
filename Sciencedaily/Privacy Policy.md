@@ -232,7 +232,7 @@ this week
 
 [Chronic Illness](https://www.sciencedaily.com/news/health_medicine/chronic_illness/)
 
-[Infectious Diseases](https://www.sciencedaily.com/news/health_medicine/infectious_diseases/)
+[Brain-Computer Interfaces](https://www.sciencedaily.com/news/mind_brain/brain-computer_interfaces/)
 
 [PHYSICAL & TECH](https://www.sciencedaily.com/news/top/technology/)
 
@@ -248,7 +248,7 @@ this week
 
 [Ecology](https://www.sciencedaily.com/news/earth_climate/ecology/)
 
-[Ice Ages](https://www.sciencedaily.com/news/earth_climate/ice_ages/)
+[Geography](https://www.sciencedaily.com/news/earth_climate/geography/)
 
   
 
