@@ -208,21 +208,21 @@ Turn Your Curiosity Into Discovery
 
 Latest Facts
 
-[![35 Facts About Texas Killing Fields ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%2279%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/society-and-social-sciences/35-facts-about-texas-killing-fields/)
+[![30 Facts About Barrerite ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22106%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/earth-and-life-science/earth-sciences/30-facts-about-barrerite/)
 
-Society & Social Sciences
+Earth Sciences
 
-20 Sep 2024
+21 Sep 2024
 
-[35 Facts About Texas Killing Fields](https://facts.net/society-and-social-sciences/35-facts-about-texas-killing-fields/)
+[30 Facts About Barrerite](https://facts.net/earth-and-life-science/earth-sciences/30-facts-about-barrerite/)
 
-[![35 Facts About Joshua Phillips ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%2285%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/history/people/35-facts-about-joshua-phillips/)
+[![30 Facts About St Louis Gate ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22100%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/world/landmarks/30-facts-about-st-louis-gate/)
 
-People
+Landmarks
 
-20 Sep 2024
+21 Sep 2024
 
-[35 Facts About Joshua Phillips](https://facts.net/history/people/35-facts-about-joshua-phillips/)
+[30 Facts About St Louis Gate](https://facts.net/world/landmarks/30-facts-about-st-louis-gate/)
 
 [Home](https://facts.net/) [Privacy Policy](https://facts.net/privacy-policy/)
 
@@ -484,5 +484,9 @@ If you have questions or comments about this policy, email us at **contact@facts
 * [🇪🇸 Hechos en Español](https://es.facts.net/)
 * [🇮🇹 Fatti in Italiano](https://it.facts.net/)
 * [🇧🇷 🇵🇹 Fatos em português](https://pt.facts.net/)
+* [🇩🇰 Fakta på dansk](https://dk.facts.net/)
+* [🇸🇪 Fakta på svenska](https://se.facts.net/)
+* [🇳🇴 Fakta på norsk](https://no.facts.net/)
+* [🇫🇮 Faktat suomeksi](https://fi.facts.net/)
 
 Follow us [Subscribe to our channel](https://www.youtube.com/channel/UCkEWgtngMrn9AcsRTmDgPIQ)
