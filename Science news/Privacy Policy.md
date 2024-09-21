@@ -91,13 +91,13 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [Climate change could double U.S. temperature-linked deaths by mid-century](https://www.sciencenews.org/article/climate-change-double-temperature-death)
             
-            By [Andrea Tamayo](https://www.sciencenews.org/author/andrea-tamayo "Posts by Andrea Tamayo")13 hours ago
+            By [Andrea Tamayo](https://www.sciencenews.org/author/andrea-tamayo "Posts by Andrea Tamayo")20 hours ago
             
         * [Microbes](https://www.sciencenews.org/topic/microbes)
             
             ### [Some bacteria in your mouth can divide into as many as 14 cells at once](https://www.sciencenews.org/article/bacteria-unique-mouth-division)
             
-            By [Saugat Bolakhe](https://www.sciencenews.org/author/saugat-bolakhe "Posts by Saugat Bolakhe")17 hours ago
+            By [Saugat Bolakhe](https://www.sciencenews.org/author/saugat-bolakhe "Posts by Saugat Bolakhe")September 20, 2024
             
         * [Health & Medicine](https://www.sciencenews.org/topic/health-medicine)
             
@@ -118,13 +118,13 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [Scientists have just turned giant panda skin cells into stem cells](https://www.sciencenews.org/article/giant-panda-skin-cells-turned-stem-cells)
             
-            By [Jason Bittel](https://www.sciencenews.org/author/jason-bittel "Posts by Jason Bittel")14 hours ago
+            By [Jason Bittel](https://www.sciencenews.org/author/jason-bittel "Posts by Jason Bittel")21 hours ago
             
         * [Microbes](https://www.sciencenews.org/topic/microbes)
             
             ### [Some bacteria in your mouth can divide into as many as 14 cells at once](https://www.sciencenews.org/article/bacteria-unique-mouth-division)
             
-            By [Saugat Bolakhe](https://www.sciencenews.org/author/saugat-bolakhe "Posts by Saugat Bolakhe")17 hours ago
+            By [Saugat Bolakhe](https://www.sciencenews.org/author/saugat-bolakhe "Posts by Saugat Bolakhe")September 20, 2024
             
         * [Animals](https://www.sciencenews.org/topic/animals)
             
@@ -142,7 +142,7 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [Climate change could double U.S. temperature-linked deaths by mid-century](https://www.sciencenews.org/article/climate-change-double-temperature-death)
             
-            By [Andrea Tamayo](https://www.sciencenews.org/author/andrea-tamayo "Posts by Andrea Tamayo")13 hours ago
+            By [Andrea Tamayo](https://www.sciencenews.org/author/andrea-tamayo "Posts by Andrea Tamayo")20 hours ago
             
         * [Climate](https://www.sciencenews.org/topic/climate)
             
@@ -165,7 +165,7 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [A neutrino mass mismatch could shake cosmology’s foundations](https://www.sciencenews.org/article/neutrino-mass-phenomenon-cosmology)
             
-            By [Emily Conover](https://www.sciencenews.org/author/emily-conover "Posts by Emily Conover")19 hours ago
+            By [Emily Conover](https://www.sciencenews.org/author/emily-conover "Posts by Emily Conover")September 20, 2024
             
         * [Particle Physics](https://www.sciencenews.org/topic/particle-physics)
             
@@ -188,7 +188,7 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [A neutrino mass mismatch could shake cosmology’s foundations](https://www.sciencenews.org/article/neutrino-mass-phenomenon-cosmology)
             
-            By [Emily Conover](https://www.sciencenews.org/author/emily-conover "Posts by Emily Conover")19 hours ago
+            By [Emily Conover](https://www.sciencenews.org/author/emily-conover "Posts by Emily Conover")September 20, 2024
             
         * [Space](https://www.sciencenews.org/topic/space)
             
