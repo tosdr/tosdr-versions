@@ -191,12 +191,6 @@ This site uses cookies – small text files that are placed on your machine to h
 
 ### Popular Articles
 
-[![Mike Williams, one half of the Peckham duo behind Flake Bake.](https://southwarknews.co.uk/wp-content/uploads/2024/09/IMG_4438-e1726140300690-120x86.jpg)](https://southwarknews.co.uk/area/peckham/jamaican-patties-made-by-peckham-duo-will-now-be-sold-permanently-in-aldi/)
-
-### [Jamaican patties made by Peckham duo will now be sold permanently in Aldi](https://southwarknews.co.uk/area/peckham/jamaican-patties-made-by-peckham-duo-will-now-be-sold-permanently-in-aldi/)
-
-[12th September 2024](https://southwarknews.co.uk/area/peckham/jamaican-patties-made-by-peckham-duo-will-now-be-sold-permanently-in-aldi/)
-
 [![JD Wetherspoon has applied for a license at 50 Tooley Street. Image: Google](https://southwarknews.co.uk/wp-content/uploads/2024/09/JD-Wetherspoon-has-applied-for-a-license-at-50-Tooley-Street.-Image-Google-120x86.png)](https://southwarknews.co.uk/area/borough/wetherspoons-to-open-pub-in-former-london-dungeon/)
 
 ### [Wetherspoons to open pub in former London Dungeon](https://southwarknews.co.uk/area/borough/wetherspoons-to-open-pub-in-former-london-dungeon/)
@@ -215,18 +209,24 @@ This site uses cookies – small text files that are placed on your machine to h
 
 [16th September 2024](https://southwarknews.co.uk/sport/football/millwall/millwall-boss-gives-verdict-after-replacement-striker-inches-away-from-first-lions-goal/)
 
-[![A photo of the ship sailing in New York ®Alejandro Mallado Erbez](https://southwarknews.co.uk/wp-content/uploads/2024/09/Foto-Galeon-Nueva-York-2013-120x86.jpg)](https://southwarknews.co.uk/news/spanish-17th-century-galleon-will-soon-arrive-in-london/)
-
-### [Spanish 17th-century galleon will soon arrive in London](https://southwarknews.co.uk/news/spanish-17th-century-galleon-will-soon-arrive-in-london/)
-
-[14th September 2024](https://southwarknews.co.uk/news/spanish-17th-century-galleon-will-soon-arrive-in-london/)
-
 [![Christine Rixon, 75, and Paul Rixon, 76, shown on Bromley High Street.
 Photo by  Joe Coughlan.](https://southwarknews.co.uk/wp-content/uploads/2024/09/Christine-and-Paul-Rixon-120x86.jpg)](https://southwarknews.co.uk/area/south-london/pensioners-in-south-london-disgusted-by-governments-cut-to-winter-fuel-payments/)
 
 ### [Pensioners in South London ‘disgusted’ by Government’s cut to Winter Fuel Payments](https://southwarknews.co.uk/area/south-london/pensioners-in-south-london-disgusted-by-governments-cut-to-winter-fuel-payments/)
 
 [15th September 2024](https://southwarknews.co.uk/area/south-london/pensioners-in-south-london-disgusted-by-governments-cut-to-winter-fuel-payments/)
+
+[![A photo of the ship sailing in New York ®Alejandro Mallado Erbez](https://southwarknews.co.uk/wp-content/uploads/2024/09/Foto-Galeon-Nueva-York-2013-120x86.jpg)](https://southwarknews.co.uk/news/spanish-17th-century-galleon-will-soon-arrive-in-london/)
+
+### [Spanish 17th-century galleon will soon arrive in London](https://southwarknews.co.uk/news/spanish-17th-century-galleon-will-soon-arrive-in-london/)
+
+[14th September 2024](https://southwarknews.co.uk/news/spanish-17th-century-galleon-will-soon-arrive-in-london/)
+
+[![Macaulay Langstaff for his new club against Portsmouth. Image: Millwall FC](https://southwarknews.co.uk/wp-content/uploads/2024/09/Langstaff-v-Portsmouth-120x86.jpeg)](https://southwarknews.co.uk/sport/football/millwall/millwall-striker-fully-confident-of-getting-off-the-mark-for-new-club/)
+
+### [Millwall striker ‘fully confident’ of getting off the mark for new club](https://southwarknews.co.uk/sport/football/millwall/millwall-striker-fully-confident-of-getting-off-the-mark-for-new-club/)
+
+[19th September 2024](https://southwarknews.co.uk/sport/football/millwall/millwall-striker-fully-confident-of-getting-off-the-mark-for-new-club/)
 
 ### Featured Articles
 
