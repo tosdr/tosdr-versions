@@ -31,6 +31,136 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
+Caso Metástasis, acusaciones y defensas chocan en audiencias
+============================================================
+
+Fiscalía pide juicio para 37 implicados en presunta red crimina y las defensas cuestionan pruebas en el caso Metástasis.
+------------------------------------------------------------------------------------------------------------------------
+
+![Audiencia del caso Metástasis en la Corte Nacional de Justicia.](https://www.elcomercio.com/wp-content/uploads/2024/09/metastasis.png)
+
+Esta semana, el caso Metástasis continúo su curso en la **Corte Nacional de Justicia (CNJ)**, donde la **Fiscalía General del Estado (FGE)** presentó varios avances.
+
+### Más noticias
+
+* [Caso Metástasis, defensa de acusados señala vacíos en la investigación](https://www.elcomercio.com/actualidad/seguridad/caso-metastasis-defensa-acusados-senalan-vacios-investigacion.html "Caso Metástasis, defensa de acusados señala vacíos en la investigación")
+* [Wilman Terán niega vínculos con sobornos en el caso Metástasis](https://www.elcomercio.com/actualidad/seguridad/wilman-teran-niega-vinculos-con-sobornos-en-el-caso-metastasis.html "Wilman Terán niega vínculos con sobornos en el caso Metástasis")
+* [Caso Metástasis, defensa de vinculados objeta acusaciones de Fiscalía y Procuraduría](https://www.elcomercio.com/actualidad/seguridad/caso-metastasis-defensa-vinculados-objetan-acusaciones-fiscalia-procuraduria.html "Caso Metástasis, defensa de vinculados objeta acusaciones de Fiscalía y Procuraduría")
+
+Este proceso, que involucra a **37 personas**, entre ellas **figuras públicas y exfuncionarios judiciales**, es investigado por presuntos delitos de delincuencia organizada.
+
+Pedido de la Fiscalía con llamamiento a juicio para los 37 procesados
+---------------------------------------------------------------------
+
+El fiscal general subrogante, **Wilson Toainga**, ha solicitado formalmente a la Corte Nacional de Justicia que los **37 procesados en el caso Metástasis sean llamados a juicio**. La Fiscalía fundamentó su solicitud en 340 elementos de convicción que fueron presentados durante la audiencia preparatoria de juicio.
+
+> [#InformativoSemanal](https://twitter.com/hashtag/InformativoSemanal?src=hash&ref_src=twsrc%5Etfw) | [#CasoMetástasis](https://twitter.com/hashtag/CasoMet%C3%A1stasis?src=hash&ref_src=twsrc%5Etfw): con base en 340 elementos de convicción, solicitamos que 37 procesados sean llamados a juicio por [#DelincuenciaOrganizada](https://twitter.com/hashtag/DelincuenciaOrganizada?src=hash&ref_src=twsrc%5Etfw). [pic.twitter.com/YbC3dv2nSS](https://t.co/YbC3dv2nSS)
+> 
+> — Fiscalía Ecuador (@FiscaliaEcuador) [September 20, 2024](https://twitter.com/FiscaliaEcuador/status/1837265486746374285?ref_src=twsrc%5Etfw)
+
+Entre los acusados figuran **Ronny Aleaga, exasambleísta correísta, y Wilman Terán, exjuez de la CNJ**.
+
+Toainga explicó que el caso se destapó tras la muerte del **narcotraficante Leandro Norero**, cuando la Fiscalía analizó los **dispositivos móviles del difunto**. Estos dispositivos revelaron una amplia red criminal compuesta por jueces, fiscales, policías y abogados que supuestamente operaban para garantizar impunidad y **protección a Norero y su círculo cercano**.
+
+Los líderes y colaboradores de la organización
+----------------------------------------------
+
+La Fiscalía ha identificado a cuatro personas como líderes de la supuesta organización criminal: **Fabián C., Cristian R., Xavier J. y Xavier N**. Estos individuos, según la FGE, estaban encargados de la dirección y planificación de la red, mientras que los otros **33 procesados cumplían funciones de vigilancia, soborno y manipulación judicial**.
+
+> Wilman Terán niega vínculos con sobornos en el caso Metástasis[https://t.co/bfqz0JtlM7](https://t.co/bfqz0JtlM7)
+> 
+> — El Comercio (@elcomerciocom) [September 19, 2024](https://twitter.com/elcomerciocom/status/1836860393425113351?ref_src=twsrc%5Etfw)
+
+En su intervención, Toainga detalló cómo esta **red facilitaba decisiones judiciales favorables para Norero y sus familiares**, permitiendo la recuperación de bienes incautados y la obtención de beneficios penitenciarios. Estas actividades habrían comenzado e**l 25 de mayo de 2022**, cuando Norero y su familia fueron detenidos.
+
+Inicio de las defensas y argumentos presentados
+-----------------------------------------------
+
+Con el pedido de la Fiscalía sobre la mesa, las defensas de los acusados **comenzaron a presentar sus argumentos**. El abogado Rómulo Argudo, quien defiende a **Fabián Gilmar C. B. (alias Yanke)**, uno de los supuestos líderes, fue el primero en intervenir. Argudo **negó las acusaciones**, afirmando que no hay evidencia de que su cliente haya utilizado aplicaciones de mensajería como Threema para comunicarse con Norero.
+
+Además, desestimó las **pruebas presentadas por la Fiscalía** como insuficientes y manipuladas.
+
+Otros abogados han seguido una línea similar, cuestionando la solidez de las pruebas presentadas por la Fiscalía. Entre ellos, **Agustín Quito**, defensor de Cristian Romero, indicó que las pruebas basadas en el uso del sistema de **mensajería Trimax son inconsistentes y no vinculan a su cliente con la organización**.
+
+Acusaciones contra Ronny Aleaga y Wilman Terán
+----------------------------------------------
+
+Dos figuras públicas clave en este caso son e**l exasambleísta Ronny Aleaga y el exjuez Wilman Terán. Aleaga**, conocido bajo el alias **‘El Ruso’**, ha sido acusado de colaborar con la organización criminal, particularmente en el encubrimiento de las a**ctividades de Norero**. Su defensa, representada por Jonathan Espín, ha solicitado el sobreseimiento, argumentando que la Fiscalía no ha probado su participación directa en los hechos.
+
+> En la [@CorteNacional](https://twitter.com/CorteNacional?ref_src=twsrc%5Etfw) continúa este viernes la audiencia preparatoria de juicio en el [#CasoMetástasis](https://twitter.com/hashtag/CasoMet%C3%A1stasis?src=hash&ref_src=twsrc%5Etfw) que investigó un delito de presunta delincuencia organizada. Los defensores siguen con el anuncio probatorio que presentarán en caso de un eventual juicio. Hay 37 procesados. [pic.twitter.com/0D9wdCGIPC](https://t.co/0D9wdCGIPC)
+> 
+> — Círculo de Periodistas Judiciales (@FundacionCPJ) [September 20, 2024](https://twitter.com/FundacionCPJ/status/1837141299373256753?ref_src=twsrc%5Etfw)
+
+Wilman Terán, según la Fiscalía, facilitó un habeas corpus que benefició al hermano de Norero. Terán ha negado las acusaciones, afirmando que no tuvo conocimiento de los acuerdos ilegales que habrían realizado terceros para asegurar la liberación de Israel Norero.
+
+Su **defensa asegura que la Fiscalía no cuenta con pruebas** suficientes que lo vinculen directamente con los delitos imputados.
+
+Falta de pruebas según las defensas
+-----------------------------------
+
+Una constante en las intervenciones de las defensas ha sido el **cuestionamiento a la validez de las pruebas presentadas por la Fiscalía**. Varios abogados argumentan que las pruebas documentales, como chats y transacciones bancarias, no son concluyentes y que la mayoría de los acusados están vinculados de manera indirecta.
+
+> 🔵[#SalaPenalCNJ](https://twitter.com/hashtag/SalaPenalCNJ?src=hash&ref_src=twsrc%5Etfw) | Audiencia evaluatoria y preparatoria de juicio en contra del ciudadano Wilman T. y otros por el presunto delito de delincuencia organizada.[#AudienciasCNJ](https://twitter.com/hashtag/AudienciasCNJ?src=hash&ref_src=twsrc%5Etfw)  
+> 💻 Sigue la audiencia aquí [https://t.co/xWbFwg0zCQ](https://t.co/xWbFwg0zCQ) [pic.twitter.com/wOEcas98ra](https://t.co/wOEcas98ra)
+> 
+> — Corte Nacional de Justicia (@CorteNacional) [September 20, 2024](https://twitter.com/CorteNacional/status/1837122039645360189?ref_src=twsrc%5Etfw)
+
+En particular, la defensa de **Yanina V., exfiscal del Guayas**, ha señalado que los documentos presentados no prueban su vinculación con la organización criminal, sino que corresponden a su trabajo profesional.
+
+Este **patrón de defensa, basado en la falta de pruebas concretas, se ha repetido en el caso de otros procesados**, quienes han solicitado el sobreseimiento y el levantamiento de las medidas cautelares.
+
+Continuación del proceso y posibles escenarios
+----------------------------------------------
+
+El proceso sigue en curso, y el **juez Manuel Cabrera** ha anunciado que, tras finalizar las intervenciones de las defensas, evaluará las **pruebas y los argumentos presentados**. Esto podría llevar varios días más debido a la complejidad del caso y el extenso expediente.
+
+Se espera que la decisión sobre si los **37 procesados serán llamados a juicio** se tome en las próximas semanas. Mientras tanto, las **defensas continúan argumentando la falta de pruebas** y solicitando el sobreseimiento para sus clientes.
+
+En este Batman Day, ¡el ‘Caballero Oscuro’ celebra 85 años! 
+============================================================
+
+Gotham City celebra una vez más al Caballero Oscuro. Este año, el Batman Day marca 85 años.
+-------------------------------------------------------------------------------------------
+
+![Batman, más que un personaje de ficción simboliza la lucha por la justicia. Foto: Pinterest. Foto: www.akibastation.es.](https://www.elcomercio.com/wp-content/uploads/2024/09/batman-day.jpg)
+
+El **Batman Day** es una celebración anual dedicada al superhéroe más oscuro y complejo de DC Comics.  
+
+Este año, el festejo adquiere un significado especial, ya que marca el **85 aniversario de la primera aparición de Batman** en Detective Comics #27, en marzo de 1939. **Creado por Bob Kane y Bill Finger**, el ‘Caballero Oscuro’ se ha convertido en un **símbolo cultural que trasciende generaciones**, a decir de [Tebeosfera](https://www.tebeosfera.com/promociones/batman_cumple_85_anos.html "https://www.tebeosfera.com/promociones/batman_cumple_85_anos.html"). 
+
+### Más noticias
+
+* [Batman recibirá estrella en el Paseo de la Fama de Hollywood](https://www.elcomercio.com/afull/batman-estrella-paseo-fama-hollywood.html "https://www.elcomercio.com/afull/batman-estrella-paseo-fama-hollywood.html") 
+* [Se acerca el cumpleaños de Batman](https://www.elcomercio.com/tendencias/cultura/batman-cumpleanos-85-batmanday.html "https://www.elcomercio.com/tendencias/cultura/batman-cumpleanos-85-batmanday.html")
+
+**¿Por qué celebramos a Batman?** 
+----------------------------------
+
+Más allá de ser un **personaje de cómics y películas**, Batman representa valores como la justicia, la perseverancia y la lucha contra la injusticia. Su historia personal, marcada por la tragedia de la pérdida de sus padres, lo ha convertido en un **héroe relatable y complejo**. Además, su universo, **Gotham City**, es un reflejo de las grandes ciudades y sus problemas sociales. 
+
+Según [Mvs Noticias](https://mvsnoticias.com/tendencias/viral/2024/9/19/batman-day-enterate-por-que-se-celebra-este-dia-otros-datos-curiosos-657364.html "https://mvsnoticias.com/tendencias/viral/2024/9/19/batman-day-enterate-por-que-se-celebra-este-dia-otros-datos-curiosos-657364.html"), **la primera celebración oficial del Batman Day** tuvo lugar el 23 de julio de 2014 durante la **Comic-Con Internacional en San Diego**, Estados Unidos, con el propósito de conmemorar el **75 aniversario del debut de Batman en los cómics**. A partir de ese momento, **DC Comics** decidió mover la celebración a un sábado de septiembre, que empezó el 26 de septiembre de 2015, lo que estableció **un evento anual sin una fecha específica** hasta que se definió como el tercer sábado de septiembre. 
+
+**85 años de historia** 
+------------------------
+
+Desde su **debut en 1939**, Batman ha evolucionado y se ha adaptado a los tiempos. **Ha protagonizado innumerables cómics**, series animadas, películas y videojuegos. A lo largo de los años, hemos visto diferentes interpretaciones del personaje, desde la versión clásica y noir de los años 40 hasta las más modernas y oscuras representaciones cinematográficas. 
+
+Entre las producciones más recientes del **universo del murciélago enmascarado** están la película **‘The Batman’ de 2022**, en la que es interpretado por el actor **Robert Pattinson**; el próximo estreno de **‘Joker 2’** el 5 de octubre, con **Lady Gaga y Joaquin Phoenix**; y la recién estrenada serie **‘El Pingüino’ con Colin Farrell**. 
+
+**¿Cómo celebrar el Batman Day?** 
+----------------------------------
+
+Existen numerosas formas de **celebrar el Batman Day**. Los fanáticos pueden asistir a eventos especiales organizados por tiendas de cómics, museos y librerías. También pueden disfrutar de **maratones de películas**, **leer cómics clásicos** o crear sus propios homenajes al ‘Caballero Oscuro’. 
+
+**El futuro de Batman** 
+------------------------
+
+**A pesar de sus 85 años**, Batman sigue siendo **un personaje relevante y actual**. Su historia continúa escribiéndose, y es probable que veamos nuevas y emocionantes aventuras en el futuro. 
+
+Se anunció hace poco que este legendario personaje **será el primer superhéroe en obtener una estrella en el Paseo de la Fama de Hollywood**. La ceremonia, que promete ser inolvidable para los seguidores del ‘Caballero Oscuro’ y los fanáticos de los cómics en general, se llevará a cabo el 26 de septiembre de 2024.
+
+El **Batman Day** es una oportunidad para celebrar a uno de los personajes más icónicos de la cultura popular. Su historia, su legado y su impacto en la sociedad son una prueba de su atemporalidad. **¡Feliz Batman Day!** 
+
 Reforma constitucional y campaña
 ================================
 
@@ -72,6 +202,31 @@ Ahora le toca el turno a **ChatGPT o1-preview** (el modelo que simula cierta cap
 Según [datos de Open AI](https://openai.com/index/learning-to-reason-with-llms/), el modelo **ChatGPT o1-preview** se especializa en la resolución de **problemas** complejos en ciencias, matemáticas y programación, integrando un amplio conocimiento del mundo y cierta capacidad de **análisis** y razonamiento. En particular, este **modelo** exhibe un mejor desempeño que expertos humanos en la resolución de preguntas de opción múltiple, de nivel de doctorado (Ph.D.), en biología, física, y química. Por su parte, el modelo **ChatGPT o1-mini** ofrece un procesamiento más rápido y económico, con un enfoque más especializado en la creación y depuración de **código**, lo cual es útil para el desarrollo de **programas computacionales**. Por ahora, si deseas acceder a la funcionalidad de estos nuevos modelos de Open AI, debes pagar una suscripción para usar **ChatGPT** en cualquiera de los siguientes planes: _plus_, _teams_, _enterprise_, _edu_, o la API de ChatGPT. Afortunadamente, [Open AI ha anunciado que eventualmente dará acceso, de forma gratuita, al modelo ChatGPT o1-mini](https://openai.com/index/introducing-openai-o1-preview/).
 
 Finalmente, aunque los avances realizados por Open AI para desarrollar los modelos o1 que simulan cierta capacidad de **análisis** y razonamiento son un paso muy importante, aún hay mucho camino por recorrer en el mundo de la IA. Estamos todavía lejos de que estas **herramientas** puedan realizar análisis y razonamientos profundos, interactuar de manera avanzada con nuestro entorno o plantear soluciones novedosas para una amplia gama de **problemas** fundamentales para la **humanidad**. El desafío de alcanzar una **inteligencia artificial general** (AGI por sus siglas en inglés) sigue siendo monumental. Lo fascinante es que apenas estamos al comienzo de esta **revolución tecnológica**, y el potencial de estas herramientas de IA es enorme. Sin embargo, también es crucial que los desarrolladores, reguladores y la sociedad en su conjunto guíen este progreso con responsabilidad, asegurando que la IA se convierta en una **herramienta** transformadora y segura para todos.
+
+Cartas a Quito / 21 de septiembre de 2024
+=========================================
+
+Estas son las cartas a Quito de este sábado 21 de septiembre de 2024
+--------------------------------------------------------------------
+
+![Cartas a Quito. Foto: Archivo / EL COMERCIO](https://www.elcomercio.com/wp-content/uploads/2024/04/CARTAS-A-QUITO-1.jpg)
+
+Uso del silbato: Nada descabellado
+----------------------------------
+
+He visto con verdadera sorpresa la mofa que algunas personas, incluyendo la Asamblea Nacional, hicieron sobre la sugerencia del uso del silbato que hiciera un jefe policial.
+
+Considerando que, en un apagón general, difícilmente se pueda disponer de medios de alertar situaciones emergentes que deban ser accionados con energía eléctrica, una de las alternativas válidas es el uso de silbatos.
+
+Quienes se burlaron enfatizaron únicamente en que el silbato es un elemento básico, pero no propusieron la alternativa para alertar en una situación de peligro o emergencia: típico de los tontos.
+
+Se ha vuelto muy normal en la política ecuatoriana el descalificar o el burlarse de algunas propuestas, pero no brindar alternativas “inteligentes”.
+
+Cuando se critica una medida propuesta, si se es inteligente y colaborador, se debe proponer la alternativa válida. No hacerlo deriva en una crítica no constructiva: una reacción propia del dogmatismo y de la mediocridad.
+
+Considero que cualquier sugerencia que vaya en la dirección de la protección de la ciudadanía, y, que pueda ser implementada, al menor costo posible, es viable. Felicito al oficial de policía que la sugirió, yo, voy a comprar un silbato.
+
+José M. Jalil Haas
 
 Bolones rellenos de queso y chicharrón, una delicia ecuatoriana en cada mordida
 ===============================================================================
@@ -127,31 +282,6 @@ Las variaciones del bolón de verde son tan diversas como los gustos de quienes 
 Cada una de estas variaciones del bolón de verde mantiene la esencia del plato, pero le añade un toque especial que lo adapta a los diferentes paladares.
 
 ¡Disfruta de esta delicia ecuatoriana!
-
-Cartas a Quito / 21 de septiembre de 2024
-=========================================
-
-Estas son las cartas a Quito de este sábado 21 de septiembre de 2024
---------------------------------------------------------------------
-
-![Cartas a Quito. Foto: Archivo / EL COMERCIO](https://www.elcomercio.com/wp-content/uploads/2024/04/CARTAS-A-QUITO-1.jpg)
-
-Uso del silbato: Nada descabellado
-----------------------------------
-
-He visto con verdadera sorpresa la mofa que algunas personas, incluyendo la Asamblea Nacional, hicieron sobre la sugerencia del uso del silbato que hiciera un jefe policial.
-
-Considerando que, en un apagón general, difícilmente se pueda disponer de medios de alertar situaciones emergentes que deban ser accionados con energía eléctrica, una de las alternativas válidas es el uso de silbatos.
-
-Quienes se burlaron enfatizaron únicamente en que el silbato es un elemento básico, pero no propusieron la alternativa para alertar en una situación de peligro o emergencia: típico de los tontos.
-
-Se ha vuelto muy normal en la política ecuatoriana el descalificar o el burlarse de algunas propuestas, pero no brindar alternativas “inteligentes”.
-
-Cuando se critica una medida propuesta, si se es inteligente y colaborador, se debe proponer la alternativa válida. No hacerlo deriva en una crítica no constructiva: una reacción propia del dogmatismo y de la mediocridad.
-
-Considero que cualquier sugerencia que vaya en la dirección de la protección de la ciudadanía, y, que pueda ser implementada, al menor costo posible, es viable. Felicito al oficial de policía que la sugirió, yo, voy a comprar un silbato.
-
-José M. Jalil Haas
 
 Para las elecciones 2025 se aplica un ABC para la seguridad de los candidatos
 =============================================================================
@@ -1086,103 +1216,3 @@ La cosecha de verano, que tradicionalmente abastece el mercado hasta noviembre, 
 Para controlar la situación, el Ministerio dice que realizan operativos para evitar la especulación y se mantienen conversaciones con productores para asegurar precios justos. El precio mínimo de sustentación por quintal de maíz amarillo duro es de **16,50 dólares**. Aunque los avicultores reportan que lo compran a **22 dólares** en el mercado.
 
 Para aumentar la producción y reducir la dependencia de importaciones, el MAG señala que entrega paquetes tecnológicos, da capacitación a agricultores y hace mejoras en la infraestructura de riego. Además, se busca fomentar inversiones en el cultivo mediante alianzas con el sector privado.
-
-Daniel Noboa hizo una propuesta sobre el financiamiento a organizaciones políticas
-==================================================================================
-
-Daniel Noboa envió la propuesta sobre el financiamiento a organizaciones políticas a la Corte Constitucional.
--------------------------------------------------------------------------------------------------------------
-
-![El presidente Daniel Noboa envió la propuesta sobre el financiamiento a organizaciones políticas a la Corte Constitucional.](https://www.elcomercio.com/wp-content/uploads/2024/09/Daniel-Noboa-campana.jpg)
-
-El presidente Daniel Noboa hizo una propuesta sobre el financiamiento de organizaciones políticas, este viernes 20 de septiembre de 2024.
-
-Se trata de una reforma a los artículos 110 y 115 de la Constitución.
-
-### Más noticias:
-
-* [El Gobierno de Daniel Noboa pidió al sector privado encender sus generadores de electricidad](https://www.elcomercio.com/actualidad/ecuador/gobierno-invito-sector-privado-prender-generadores-electricidad.html "El Gobierno de Daniel Noboa pidió al sector privado encender sus generadores de electricidad")
-* [Daniel Noboa reaccionó a ‘apagón’ en la Asamblea](https://www.elcomercio.com/actualidad/politica/daniel-noboa-reacciono-contra-legisladores-apagon-asamblea.html "Daniel Noboa reaccionó a ‘apagón’ en la Asamblea")
-* [Daniel Noboa confirmó su asistencia a la Asamblea General de la ONU](https://www.elcomercio.com/actualidad/politica/daniel-noboa-viaje-asamblea-onu.html "Daniel Noboa confirmó su asistencia a la Asamblea General de la ONU")
-
-Actualmente, las organizaciones políticas, movimientos y partidos son financiados por el Estado para su funcionamiento y para la difusión de su publicidad electoral.
-
-Daniel Noboa señaló que propone una reforma constitucional para que “el dinero de los ecuatorianos no vaya a quienes ven la candidatura política como un negocio”.
-
-La propuesta de Daniel Noboa sobre el financiamiento a organizaciones políticas
--------------------------------------------------------------------------------
-
-El presidente Daniel Noboa envió a la Corte Constitucional un proyecto de reforma parcial a la Constitución.
-
-El documento plantea reformar los artículos 110 y 115 de la Constitución, los cuales se refieren al financiamiento del Estado a las organizaciones políticas.
-
-Noboa sugiere que se retire al Estado la responsabilidad de financiar el funcionamiento de partidos y movimientos políticos.
-
-Además, que el Estado no sea responsable de financiar la difusión de la publicidad electoral de dichas organizaciones.
-
-“El Ejecutivo busca evitar el mal uso de los recursos públicos que son otorgados a los candidatos y que, históricamente, no han sido debidamente justificados y transparentados”, señaló la Presidencia.
-
-Estos fondos, “que antes eran destinados a quienes solo buscaban aprovecharse de esta asignación”, podrán ser otorgados a otras áreas como salud, educación, seguridad y otros, agregó.
-
-Trámite y tiempo de aplicación de la propuesta de Daniel Noboa sobre el financiamiento a organizaciones políticas
------------------------------------------------------------------------------------------------------------------
-
-La Presidencia señala que la propuesta precautela que- de forma equitativa e igualitaria- se propicie el debate entre los candidatos.
-
-El debate sería el espacio mediante el cual se dará paso a la presentación de cada uno de los planes de trabajo.
-
-El Ejecutivo aclara que esta reforma no afectaría las próximas elecciones de 2025.
-
-Daniel Noboa envió la propuesta a la Corte Constitucional con la solicitud de control previo del procedimiento de reforma parcial a la Constitución de la República.
-
-Esta entidad deberá pronunciarse, a través de un dictamen, respecto de la vía a través de la cual se debe tramitar esta reforma.
-
-Una vez cumplido ese paso, la iniciativa iría a conocimiento de la Asamblea Nacional.
-
-Antonio Valencia, el crack que dividió El Nacional y Liga de Quito
-==================================================================
-
-Antonio Valencia jugó en se formó y debutó en El Nacional y regresó para terminar su carrera en Liga de Quito.
---------------------------------------------------------------------------------------------------------------
-
-![Antonio Valencia en sus etapas como jugador de El Nacional y Liga de Quito.](https://www.elcomercio.com/wp-content/uploads/2024/09/valencia_nacho_liga_1.jpg)
-
-**Antonio Valencia** es uno de los mejores jugadores ecuatorianos del siglo XXI en clubes y en la Selección de Ecuador con la que jugó los mundiales de Alemania 2006 como una joven promesa, y Brasil 2014 consolidado como figura.
-
-La carrera de Antonio Valencia lo llevo a jugar en equipos de **Ecuador, España, Inglaterra y México** con un gran suceso y en los que fue una figura preponderante por la zona derecha de la cancha que hizo que sea apodado el ‘Tren amazónico’.
-
-### Más noticias:
-
-* [‘Vitamina’ Sánchez hará cambios en Liga de Quito ante El Nacional](https://www.elcomercio.com/deportes/liga-quito-cambios-vitamina-sanchez-el-nacional.html "‘Vitamina’ Sánchez hará cambios en Liga de Quito ante El Nacional")
-* [Segundo Portocarrero se paró sobre el balón y armó una pelea](https://www.elcomercio.com/deportes/futbol/segundo-potocarrero-universitario-peru-pelea.html "Segundo Portocarrero se paró sobre el balón y armó una pelea")
-* [Hernán Torres, exEmelec, deja Deportivo Cali por malos resultados](https://www.elcomercio.com/deportes/futbol/hernan-torres-exemelec-deja-deportivo-cali-por-malos-resultados.html "Hernán Torres, exEmelec, deja Deportivo Cali por malos resultados")
-
-El ´Toño´ se formó íntegramente en El Nacional al que llegó desde su natal Nueva Loja en el inicio de la década de los 2000 y **debutó a mediados de 2003 enfrentando a Barcelona Sporting Club** en el estadio Monumental de Guayaquil, de la mano de Dragan Miranovic.
-
-Se mantuvo vestido con los colores de los rojos hasta el primer semestre de 2005. **En ese año fue transferido al Villarreal de España** como la más prominente promesa del fútbol ecuatoriano.
-
-En el Villarreal no tuvo espacio en el primer equipo y fue cedido al **Recreativo de Huelva de la Segunda División de España**. Ahí empezó a destacar y llamó la atención del Wigan Athletic que lo contrató en el curso 2006/07.
-
-El **Manchester United sorprendió a Ecuador** al anunciar su contratación en la temporada 2009/10 y se mantuvo 10 temporadas en las que cosechó 10 títulos, incluidas dos Premier League y la UEFA Europa League, llegó a ser capitán y el mejor sudamericano de la historia de este club.
-
-Pese a sus promesas de regresar a El Nacional una vez que su aventura europea terminara, no lo cumplió y **se puso la camiseta de Liga de Quito**, uno de los rivales más fuertes de El Nacional, para el segundo semestre de 2019.
-
-Este hecho hizo que la hinchada de **Liga adopte a Valencia como uno de los suyos rápidamente**, y que los seguidores de El Nacional lo bajen del pedestal de ídolo y critiquen la decisión del veloz extremo derecho.
-
-Antonio Valencia y sus números como rojo y blanco
--------------------------------------------------
-
-El sábado 21 de septiembre de 2024 se **llevará a cabo una nueva edición del ‘Clásico quiteño’** entre Liga de Quito y El Nacional en el estadio Rodrigo Paz Delgado.
-
-El estadígrafo Aurelio Dávila detalló que **Antonio Valencia jugó con el ‘Nacho’** ante los blancos 12 partidos, ganó cinco, perdió cinco y empató dos. Le marcó un gol.
-
-Como jugador de **LDU jugó dos partidos antes su exequipo y ganó los dos juegos** y no pudo marcar goles, aunque es muy recordado el festejó que realizó frente a los hinchas militares en el Olímpico Atahualpa en el 2020.
-
-Actualmente, **Antonio Valencia es propietario y entrenador del AV25** que juega en la Segunda Categoría de Pichincha y que se clasificó para el Torneo de Ascenso Nacional, en busca de un cupo para la Liga Pro Serie B 2025.
-
-![Foto: Archivo histórico EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/09/valencia_nacho_liga_2-1024x683.jpg)
-
-Foto: Archivo histórico EL COMERCIO.
-
-No te pierdas – El Confesionario
---------------------------------
