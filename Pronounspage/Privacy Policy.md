@@ -91,46 +91,46 @@ Authors of the website:
 
 *  [![](/img/collective-logo.svg) The “Neutral Language Council” collective](https://en.pronouns.page/team)  
     We are a queer collective dedicated to assembling, researching, shaping and promoting gender neutral and nonbinary language. We also support actions towards equality and social justice.
-* Benjamin [@therealbenpai](https://en.pronouns.page/@therealbenpai)  
-    Moderation, Development, Community Programs, Support Services
 * Torryn June 🌟 [@torrynjune](https://en.pronouns.page/@torrynjune)  
     German (Deutsch), administration, moderation, terminology, language, support
-* Szymon Misiek [@szymon](https://en.pronouns.page/@szymon)  
-    language, sources
-* Kevin [@kevinn](https://en.pronouns.page/@kevinn)  
-    moderation, technical
-* lucjan [@kaslucji](https://en.pronouns.page/@kaslucji)  
-    moderation, terminology
-* Andrea Vos [@andrea](https://en.pronouns.page/@andrea)  
-    code, language, blog, project coordination, user support
-* Wren [@wrac4242](https://en.pronouns.page/@wrac4242)  
-    Moderation, Technical
-* Claudio Nicoli Pannacci [@kappanneo](https://en.pronouns.page/@kappanneo)  
-    English, Swedish, Italian (work in progress), Upcoming language versions
-* Jacob [@Fishmael](https://en.pronouns.page/@Fishmael)  
-    English, Russian, moderation
-* アンディ [@and.y](https://en.pronouns.page/@and.y)  
-    Moderation, Sources, Reports
-* Avery (They/Them) [@realAvery](https://en.pronouns.page/@realAvery)  
-    Moderation, Technical
-* Laker T. [@laker](https://en.pronouns.page/@laker)  
-    Moderation, Sources
-* faera ☆ [@celestialflowers](https://en.pronouns.page/@celestialflowers)  
-    moderation, english
-* tecc [@tecc](https://en.pronouns.page/@tecc)  
-    programming, sysadmin, nitpicking
-* Kory [@kory\_warning](https://en.pronouns.page/@kory_warning)  
-    translation, moderation, administration
-* Asher [@jerryv](https://en.pronouns.page/@jerryv)  
-    moderation
-* Paweł Dembowski [@ausir](https://en.pronouns.page/@ausir)  
-    language, sources
-* \- Juniper [@botanicalyhuman](https://en.pronouns.page/@botanicalyhuman)  
-    Moderation, Bans, Terminology
 * Diego M. [@GreenWithin](https://en.pronouns.page/@GreenWithin)  
     English, Spanish (Español), Design, Translation, Moderation
 * Thomas Vos [@T\_Vos](https://en.pronouns.page/@T_Vos)  
     Project manager, User support, social media, English, Polish
+* Benjamin [@therealbenpai](https://en.pronouns.page/@therealbenpai)  
+    Moderation, Development, Community Programs, Support Services
+* Kevin [@kevinn](https://en.pronouns.page/@kevinn)  
+    moderation, technical
+* faera ☆ [@celestialflowers](https://en.pronouns.page/@celestialflowers)  
+    moderation, english
+* Laker T. [@laker](https://en.pronouns.page/@laker)  
+    Moderation, Sources
+* Szymon Misiek [@szymon](https://en.pronouns.page/@szymon)  
+    language, sources
+* Asher [@jerryv](https://en.pronouns.page/@jerryv)  
+    moderation
+* Wren [@wrac4242](https://en.pronouns.page/@wrac4242)  
+    Moderation, Technical
+* Kory [@kory\_warning](https://en.pronouns.page/@kory_warning)  
+    translation, moderation, administration
+* Andrea Vos [@andrea](https://en.pronouns.page/@andrea)  
+    code, language, blog, project coordination, user support
+* lucjan [@kaslucji](https://en.pronouns.page/@kaslucji)  
+    moderation, terminology
+* \- Juniper [@botanicalyhuman](https://en.pronouns.page/@botanicalyhuman)  
+    Moderation, Bans, Terminology
+* Jacob [@Fishmael](https://en.pronouns.page/@Fishmael)  
+    English, Russian, moderation
+* Claudio Nicoli Pannacci [@kappanneo](https://en.pronouns.page/@kappanneo)  
+    English, Swedish, Italian (work in progress), Upcoming language versions
+* tecc [@tecc](https://en.pronouns.page/@tecc)  
+    programming, sysadmin, nitpicking
+* アンディ [@and.y](https://en.pronouns.page/@and.y)  
+    Moderation, Sources, Reports
+* Avery (They/Them) [@realAvery](https://en.pronouns.page/@realAvery)  
+    Moderation, Technical
+* Paweł Dembowski [@ausir](https://en.pronouns.page/@ausir)  
+    language, sources
 
 Contact & social media:
 
@@ -186,10 +186,10 @@ Stats:
 **all language versions** | [only this version](#)
 
 * Cards: **1M**
-* Unique visitors: **813.3k** / month
+* Unique visitors: **814.2k** / month
 * Page views: **3M** / month
-* Currently online: **26**
-* Registered users: **991k**
+* Currently online: **40**
+* Registered users: **991.1k**
 * [heartbeat](https://heartbeat.pronouns.page/)
 
 **We condemn war crimes.**  
