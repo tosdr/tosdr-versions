@@ -184,15 +184,15 @@ NHPBS inspires one million Granite Staters each month with engaging and trusted 
 
 ###### LATEST VIDEO
 
-* [**Luis Roberto Clemente Receives Hispanic Heritage Award on Father's Behalf** | Hispanic Heritage Awards](https://video.nhpbs.org/video/luis-roberto-clemente-receives-hispanic-heritage-award-on-fathers-behalf-dxhudu?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**September 19, 2024 - full episode** | PBS News Hour](https://video.nhpbs.org/video/september-19-2024-pbs-news-hour-full-episode-1726718446?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**Carmelo Anthony Receives the 2024 Sports Award** | Hispanic Heritage Awards](https://video.nhpbs.org/video/carmelo-anthony-receives-the-2024-sports-award-1eqwqg?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**Preview** | Citizen Nation](https://video.nhpbs.org/video/preview-tqazry?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**Preview of Silverback** | Nature](https://video.nhpbs.org/video/silverback-about?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**Radically Rural 2024** | The State We're In](https://video.nhpbs.org/video/radically-rural-2024-z9q8g8?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**TTC Extra: Will Kamala Harris Win?** | To The Contrary](https://video.nhpbs.org/video/ttc-extra-will-kamala-harris-win-6o9k7s?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**September 20, 2024 - full episode** | PBS News Hour](https://video.nhpbs.org/video/september-20-2024-pbs-news-hour-full-episode-1726804801?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**Bill O'Reilly** | Firing Line](https://video.nhpbs.org/video/bill-oreilly-wtkwfn?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**an election story** | DEADLOCK](https://video.nhpbs.org/video/an-election-story-biv4jx?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Season 11: Extended Trailer** | Finding Your Roots](https://video.nhpbs.org/video/season-11-extended-trailer?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**Inundation District Preview** | Local, USA](https://video.nhpbs.org/video/local-usa-inundation-district-preview?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**Acadia's Beehive** | Windows to the Wild](https://video.nhpbs.org/video/windows-to-the-wild-acadias-beehive?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**Ayana Elizabeth Johnson on the Climate Crisis: "We Don't Get to Give Up"** | Amanpour and Company](https://video.nhpbs.org/video/ayana-elizabeth-johnson-on-the-climate-crisis-we-dont-get-to-give-up-mjb7tk?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**First Look at : Earth's Extremes** | Weathered](https://video.nhpbs.org/video/first-look-at-weathered-earths-extremes-nto1mi?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**Lover of Men: The Untold History of Abraham Lincoln** | Flicks](https://video.nhpbs.org/video/lover-of-men-the-untold-history-of-abraham-lincoln-nojhgz?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**at the Met: Madama Butterfly Preview** | Great Performances](https://video.nhpbs.org/video/great-performances-at-the-met-madama-butterfly-preview-y8uuo5?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 
 **FCC Public File Info**: [WENH](https://publicfiles.fcc.gov/tv-profile/wenh-tv) | [WLED](https://publicfiles.fcc.gov/tv-profile/wled-tv) | [WEKW](https://publicfiles.fcc.gov/tv-profile/wekw-tv) | [EEO Public File Report](https://publicfiles.fcc.gov/tv-profile/wenh-tv/equal-employment-opportunity-records/additional-documents/eeo-public-file-reports/5d0f4964-7b9d-41c3-c658-a55a34730f8a/) | For assistance, please email [themailbox@nhpbs.org](mailto:themailbox@nhpbs.org)
 
