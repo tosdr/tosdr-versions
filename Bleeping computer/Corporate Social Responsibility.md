@@ -36,6 +36,9 @@
         
         Tor says it’s "still safe" amid reports of police deanonymizing users](https://www.bleepingcomputer.com/news/security/tor-says-its-still-safe-amid-reports-of-police-deanonymizing-users/)
     
+    * [![Global infostealer malware operation targets crypto users, gamers](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        Global infostealer malware operation targets crypto users, gamers](https://www.bleepingcomputer.com/news/security/global-infostealer-malware-operation-targets-crypto-users-gamers/)
     * [![This cybersecurity study bundle blends theory with hands-on training](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         This cybersecurity study bundle blends theory with hands-on training](https://www.bleepingcomputer.com/offer/deals/this-cybersecurity-study-bundle-blends-theory-with-hands-on-training/)
@@ -45,9 +48,6 @@
     * [![Windows Server 2025 previews security updates without restarts](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         Windows Server 2025 previews security updates without restarts](https://www.bleepingcomputer.com/news/microsoft/windows-server-2025-hotpatching-in-public-preview-installs-security-updates-without-restarts/)
-    * [![Disney ditching Slack after massive July data breach](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        Disney ditching Slack after massive July data breach](https://www.bleepingcomputer.com/news/security/disney-ditching-slack-after-massive-july-data-breach/)
     
 * [Tutorials](https://www.bleepingcomputer.com/tutorials/)
     
