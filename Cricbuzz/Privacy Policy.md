@@ -48,7 +48,7 @@ SEARCH
 
 [My Account](https://www.cricbuzz.com/premium-subscription/user/account-info "My Account") Sign Out
 
-[MATCHES](https://www.cricbuzz.com/cricket-match/live-scores)[AFG vs RSA - Complete](https://www.cricbuzz.com/live-cricket-scores/103852/afg-vs-rsa-2nd-odi-afghanistan-v-south-africa-in-uae-2024 "Afghanistan v South Africa, 2nd ODI - Complete")[IND vs BAN - Stumps](https://www.cricbuzz.com/live-cricket-scores/100220/ind-vs-ban-1st-test-bangladesh-tour-of-india-2024 "India v Bangladesh, 1st Test - Stumps")[SL vs NZ - Stumps](https://www.cricbuzz.com/live-cricket-scores/105962/sl-vs-nz-1st-test-new-zealand-tour-of-sri-lanka-2024 "Sri Lanka v New Zealand, 1st Test - Stumps")[GAW vs SNP - Preview](https://www.cricbuzz.com/live-cricket-scores/92874/gaw-vs-snp-21st-match-caribbean-premier-league-2024 "Guyana Amazon Warriors v St Kitts and Nevis Patriots, 21st Match - Preview")[KNSO vs MT - KNSO Won](https://www.cricbuzz.com/live-cricket-scores/107060/knso-vs-mt-1st-match-legends-league-cricket-2024 "Konark Suryas Odisha v Manipal Tigers, 1st Match - KNSO Won")
+[MATCHES](https://www.cricbuzz.com/cricket-match/live-scores)[GAW vs SNP - Live](https://www.cricbuzz.com/live-cricket-scores/92874/gaw-vs-snp-21st-match-caribbean-premier-league-2024 "Guyana Amazon Warriors v St Kitts and Nevis Patriots, 21st Match - Live")[IND vs BAN - Stumps](https://www.cricbuzz.com/live-cricket-scores/100220/ind-vs-ban-1st-test-bangladesh-tour-of-india-2024 "India v Bangladesh, 1st Test - Stumps")[AFG vs RSA - AFG Won](https://www.cricbuzz.com/live-cricket-scores/103852/afg-vs-rsa-2nd-odi-afghanistan-v-south-africa-in-uae-2024 "Afghanistan v South Africa, 2nd ODI - AFG Won")[ENG vs AUS - Preview](https://www.cricbuzz.com/live-cricket-scores/76556/eng-vs-aus-2nd-odi-australia-tour-of-england-2024 "England v Australia, 2nd ODI - Preview")[SL vs NZ - Stumps](https://www.cricbuzz.com/live-cricket-scores/105962/sl-vs-nz-1st-test-new-zealand-tour-of-sri-lanka-2024 "Sri Lanka v New Zealand, 1st Test - Stumps")
 
 AllLive NowToday
 
@@ -78,11 +78,7 @@ AllLive NowToday
     
 * Afghanistan vs South Africa, 2024
     
-    [South Africa vs Afghanistan](https://www.cricbuzz.com/live-cricket-scores/103843/rsa-vs-afg-1st-odi-afghanistan-vs-south-africa-2024 "South Africa v Afghanistan, 1st ODI - AFG Won")
-    
-    1st ODI
-    
-* [Afghanistan vs South Africa](https://www.cricbuzz.com/live-cricket-scores/103852/afg-vs-rsa-2nd-odi-afghanistan-vs-south-africa-2024 "Afghanistan v South Africa, 2nd ODI - Complete")
+    [Afghanistan vs South Africa](https://www.cricbuzz.com/live-cricket-scores/103852/afg-vs-rsa-2nd-odi-afghanistan-vs-south-africa-2024 "Afghanistan v South Africa, 2nd ODI - AFG Won")
     
     2nd ODI
     
@@ -92,15 +88,11 @@ AllLive NowToday
     
 * ICC CWC League Two 2023-27
     
-    [Nepal vs Oman](https://www.cricbuzz.com/live-cricket-scores/106964/nep-vs-oman-28th-match-icc-cwc-league-two-2023-27 "Nepal v Oman, 28th Match - OMAN Won")
-    
-    28th Match
-    
-* [Namibia vs United Arab Emirates](https://www.cricbuzz.com/live-cricket-scores/106969/nam-vs-uae-29th-match-icc-cwc-league-two-2023-27 "Namibia v United Arab Emirates, 29th Match - UAE Won")
+    [Namibia vs United Arab Emirates](https://www.cricbuzz.com/live-cricket-scores/106969/nam-vs-uae-29th-match-icc-cwc-league-two-2023-27 "Namibia v United Arab Emirates, 29th Match - UAE Won")
     
     29th Match
     
-* [Canada vs Oman](https://www.cricbuzz.com/live-cricket-scores/106972/can-vs-oman-30th-match-icc-cwc-league-two-2023-27 "Canada v Oman, 30th Match - Ings Break")
+* [Canada vs Oman](https://www.cricbuzz.com/live-cricket-scores/106972/can-vs-oman-30th-match-icc-cwc-league-two-2023-27 "Canada v Oman, 30th Match - CAN Won")
     
     30th Match
     
@@ -150,7 +142,7 @@ AllLive NowToday
     
     20th Match
     
-* [Guyana Amazon Warriors vs St Kitts and Nevis Patriots](https://www.cricbuzz.com/live-cricket-scores/92874/gaw-vs-snp-21st-match-cpl-2024 "Guyana Amazon Warriors v St Kitts and Nevis Patriots, 21st Match - Preview")
+* [Guyana Amazon Warriors vs St Kitts and Nevis Patriots  LIVE](https://www.cricbuzz.com/live-cricket-scores/92874/gaw-vs-snp-21st-match-cpl-2024 "Guyana Amazon Warriors v St Kitts and Nevis Patriots, 21st Match - Live")
     
     21st Match
     
@@ -165,6 +157,10 @@ AllLive NowToday
 * [Barbados Royals vs Saint Lucia Kings](https://www.cricbuzz.com/live-cricket-scores/92901/br-vs-slk-24th-match-cpl-2024 "Barbados Royals v Saint Lucia Kings, 24th Match - Upcoming")
     
     24th Match
+    
+* [Trinbago Knight Riders vs St Kitts and Nevis Patriots](https://www.cricbuzz.com/live-cricket-scores/92905/tkr-vs-snp-25th-match-cpl-2024 "Trinbago Knight Riders v St Kitts and Nevis Patriots, 25th Match - Upcoming")
+    
+    25th Match
     
 * T10 League
     
@@ -259,6 +255,10 @@ AllLive NowToday
     [New South Wales vs Western Australia](https://www.cricbuzz.com/live-cricket-scores/103105/nsw-vs-wa-1st-match-australia-domestic-one-day-cup-2024-25 "New South Wales v Western Australia, 1st Match - Upcoming")
     
     1st Match
+    
+* [Victoria vs Tasmania](https://www.cricbuzz.com/live-cricket-scores/103114/vic-vs-tas-2nd-match-australia-domestic-one-day-cup-2024-25 "Victoria v Tasmania, 2nd Match - Upcoming")
+    
+    2nd Match
     
 * Australia Under 19 tour of India
     
@@ -637,41 +637,41 @@ This Privacy Policy (the “**Privacy Policy**”) serves to inform you of our p
 
 #### LATEST NEWS
 
+  [](https://www.cricbuzz.com/cricket-news/131696/gurbaz-rashid-seal-afghanistans-most-telling-triumph "Gurbaz, Rashid seal Afghanistan's most telling triumph")
+
+[Gurbaz, Rashid seal Afghanistan's most telling triumph](https://www.cricbuzz.com/cricket-news/131696/gurbaz-rashid-seal-afghanistans-most-telling-triumph "Gurbaz, Rashid seal Afghanistan's most telling triumph")
+
+17m ago
+
   [](https://www.cricbuzz.com/cricket-news/131695/ashwin-talks-up-compartmentalising-for-separate-sports-after-batting-gains "Ashwin talks up compartmentalising for 'separate sports' after batting exploits")
 
 [Ashwin talks up compartmentalising for 'separate sports' after batting exploits](https://www.cricbuzz.com/cricket-news/131695/ashwin-talks-up-compartmentalising-for-separate-sports-after-batting-gains "Ashwin talks up compartmentalising for 'separate sports' after batting exploits")
 
-3h ago
+9h ago
 
   [](https://www.cricbuzz.com/cricket-news/131694/akash-deep-hits-his-spots-fits-right-in "Akash Deep hits his spots, fits right in")
 
 [Akash Deep hits his spots, fits right in](https://www.cricbuzz.com/cricket-news/131694/akash-deep-hits-his-spots-fits-right-in "Akash Deep hits his spots, fits right in")
 
-4h ago
+10h ago
 
   [](https://www.cricbuzz.com/cricket-news/131693/another-ton-for-easwaran-but-india-b-struggle "Another ton for Easwaran but India B struggle")
 
 [Another ton for Easwaran but India B struggle](https://www.cricbuzz.com/cricket-news/131693/another-ton-for-easwaran-but-india-b-struggle "Another ton for Easwaran but India B struggle")
 
-5h ago
+11h ago
 
   [](https://www.cricbuzz.com/cricket-news/131692/bangladeshs-undoing-shot-selection-angled-in-deliveries-and-missed-chances "Bangladesh's undoing: Shot selection, angled-in deliveries and missed chances")
 
 [Bangladesh's undoing: Shot selection, angled-in deliveries and missed chances](https://www.cricbuzz.com/cricket-news/131692/bangladeshs-undoing-shot-selection-angled-in-deliveries-and-missed-chances "Bangladesh's undoing: Shot selection, angled-in deliveries and missed chances")
 
-5h ago
+11h ago
 
   [](https://www.cricbuzz.com/cricket-news/131691/batters-put-sri-lanka-in-commanding-position-on-day-3 "Batters put Sri Lanka in commanding position on Day 3")
 
 [Batters put Sri Lanka in commanding position on Day 3](https://www.cricbuzz.com/cricket-news/131691/batters-put-sri-lanka-in-commanding-position-on-day-3 "Batters put Sri Lanka in commanding position on Day 3")
 
-6h ago
-
-  [](https://www.cricbuzz.com/cricket-news/131690/india-in-pole-position-after-17-wicket-day-in-chennai "India in pole position after 17-wicket day in Chennai")
-
-[India in pole position after 17-wicket day in Chennai](https://www.cricbuzz.com/cricket-news/131690/india-in-pole-position-after-17-wicket-day-in-chennai "India in pole position after 17-wicket day in Chennai")
-
-7h ago
+12h ago
 
 [More News](https://www.cricbuzz.com/cricket-news "Click to view more News")
 
