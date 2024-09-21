@@ -1,7 +1,5 @@
 error: no ad slot id exists: undefined
 
-[Breaking: Georgia Election Board passes election night hand-counting rule](https://www.ajc.com/politics/georgia-election-board-passes-hand-counting-requirement-on-election-night/234EQUP27VBL5CW2VS2HYQJCS4/)
-
 [![ajc logo](/pf/resources/logos/AJC/logo-full-redesign.svg?d=1692)![ajc logo](/pf/resources/logos/AJC/logo-short.svg?d=1692)](https://www.ajc.com/)
 
 Log In
