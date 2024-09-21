@@ -597,12 +597,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Cehatrol Technology eG: Wenig Einblick in die Zahlen](https://www.test.de/Cehatrol-Technology-eG-Wenig-Einblick-in-die-Zahlen-6051624-0/ "Cehatrol Technology eG - Wenig Einblick in die Zahlen")
-* [Bankenkrise: Bangen um die Banken – was jetzt wichtig ist](https://www.test.de/Bankenkrise-Banken-in-Schwierigkeiten-5980501-0/ "Bankenkrise - Bangen um die Banken – was jetzt wichtig ist")
-* [Alters­vorsorge: Finanz­aufsicht kritisiert Lebens­versicherer](https://www.test.de/Altersvorsorge-Finanzaufsicht-kritisiert-Lebensversicherer-6148845-0/ "Altersvorsorge - Finanzaufsicht kritisiert Lebensversicherer")
-* [Crowdfunding-Platt­form Berg­fürst: Chef zuerst, Crowd danach](https://www.test.de/Crowdfunding-Plattform-Bergfuerst-Chef-zuerst-Crowd-danach-6083104-0/ "Crowdfunding-Plattform Bergfürst - Chef zuerst, Crowd danach")
-* [test warnt: Daten­klau mit der Energiepauschale](https://www.test.de/test-warnt-Datenklau-mit-der-Energiepauschale-5930971-0/ "test warnt - Datenklau mit der Energiepauschale")
-* [Skipässe im Preis­vergleich: Auf die Piste, sparen, los!](https://www.test.de/Skipaesse-im-Preisvergleich-Auf-die-Piste-sparen-los-5942066-0/ "Skipässe im Preisvergleich - Auf die Piste, sparen, los!")
+* [Lang­zeit­analyse der Fünf-Punkte-Strategie: Europafonds besser als die Benchmark](https://www.test.de/Langzeitanalyse-der-Fuenf-Punkte-Strategie-Europafonds-besser-als-die-Benchmark-6004243-0/ "Langzeitanalyse der Fünf-Punkte-Strategie - Europafonds besser als die Benchmark")
+* [Fonds: Globale 1. Wahl-ETF aus unserem Dauer­test](https://www.test.de/Fonds-Globale-1-Wahl-ETF-aus-unserem-Dauertest-6144127-0/ "Fonds - Globale 1. Wahl-ETF aus unserem Dauertest")
+* [Ib-Ex Bank: Geschäfte ohne Erlaubnis](https://www.test.de/Ib-Ex-Bank-Geschaefte-ohne-Erlaubnis-6028212-0/ "Ib-Ex Bank - Geschäfte ohne Erlaubnis")
+* [Ringelröteln: Für Kinder meist harmlos, für Schwangere nicht](https://www.test.de/Ringelroeteln-Fuer-Kinder-meist-harmlos-fuer-Schwangere-nicht-6123237-0/ "Ringelröteln - Für Kinder meist harmlos, für Schwangere nicht")
+* [Strom­preis­erhöhung im Ferien­haus: Wider­spruch ist sinn­voll](https://www.test.de/Strompreiserhoehung-im-Ferienhaus-Widerspruch-ist-sinnvoll-5954040-0/ "Strompreiserhöhung im Ferienhaus - Widerspruch ist sinnvoll")
+* [Gemischte Säfte und Smoothies: Viel Apfel, viel Enttäuschung](https://www.test.de/Gemischte-Saefte-und-Smoothies-Viel-Apfel-viel-Enttaeuschung-6138284-0/ "Gemischte Säfte und Smoothies - Viel Apfel, viel Enttäuschung")
 
 Fußbereich
 
@@ -2737,12 +2737,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Cehatrol Technology eG: Wenig Einblick in die Zahlen](https://www.test.de/Cehatrol-Technology-eG-Wenig-Einblick-in-die-Zahlen-6051624-0/ "Cehatrol Technology eG - Wenig Einblick in die Zahlen")
-* [Bankenkrise: Bangen um die Banken – was jetzt wichtig ist](https://www.test.de/Bankenkrise-Banken-in-Schwierigkeiten-5980501-0/ "Bankenkrise - Bangen um die Banken – was jetzt wichtig ist")
-* [Alters­vorsorge: Finanz­aufsicht kritisiert Lebens­versicherer](https://www.test.de/Altersvorsorge-Finanzaufsicht-kritisiert-Lebensversicherer-6148845-0/ "Altersvorsorge - Finanzaufsicht kritisiert Lebensversicherer")
-* [Crowdfunding-Platt­form Berg­fürst: Chef zuerst, Crowd danach](https://www.test.de/Crowdfunding-Plattform-Bergfuerst-Chef-zuerst-Crowd-danach-6083104-0/ "Crowdfunding-Plattform Bergfürst - Chef zuerst, Crowd danach")
-* [test warnt: Daten­klau mit der Energiepauschale](https://www.test.de/test-warnt-Datenklau-mit-der-Energiepauschale-5930971-0/ "test warnt - Datenklau mit der Energiepauschale")
-* [Skipässe im Preis­vergleich: Auf die Piste, sparen, los!](https://www.test.de/Skipaesse-im-Preisvergleich-Auf-die-Piste-sparen-los-5942066-0/ "Skipässe im Preisvergleich - Auf die Piste, sparen, los!")
+* [Lang­zeit­analyse der Fünf-Punkte-Strategie: Europafonds besser als die Benchmark](https://www.test.de/Langzeitanalyse-der-Fuenf-Punkte-Strategie-Europafonds-besser-als-die-Benchmark-6004243-0/ "Langzeitanalyse der Fünf-Punkte-Strategie - Europafonds besser als die Benchmark")
+* [Fonds: Globale 1. Wahl-ETF aus unserem Dauer­test](https://www.test.de/Fonds-Globale-1-Wahl-ETF-aus-unserem-Dauertest-6144127-0/ "Fonds - Globale 1. Wahl-ETF aus unserem Dauertest")
+* [Ib-Ex Bank: Geschäfte ohne Erlaubnis](https://www.test.de/Ib-Ex-Bank-Geschaefte-ohne-Erlaubnis-6028212-0/ "Ib-Ex Bank - Geschäfte ohne Erlaubnis")
+* [Ringelröteln: Für Kinder meist harmlos, für Schwangere nicht](https://www.test.de/Ringelroeteln-Fuer-Kinder-meist-harmlos-fuer-Schwangere-nicht-6123237-0/ "Ringelröteln - Für Kinder meist harmlos, für Schwangere nicht")
+* [Strom­preis­erhöhung im Ferien­haus: Wider­spruch ist sinn­voll](https://www.test.de/Strompreiserhoehung-im-Ferienhaus-Widerspruch-ist-sinnvoll-5954040-0/ "Strompreiserhöhung im Ferienhaus - Widerspruch ist sinnvoll")
+* [Gemischte Säfte und Smoothies: Viel Apfel, viel Enttäuschung](https://www.test.de/Gemischte-Saefte-und-Smoothies-Viel-Apfel-viel-Enttaeuschung-6138284-0/ "Gemischte Säfte und Smoothies - Viel Apfel, viel Enttäuschung")
 
 Jetzt anmelden und 10% Rabatt auf die test.de-Flatrate im ersten Jahr erhalten!
 
@@ -2795,12 +2795,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Cehatrol Technology eG: Wenig Einblick in die Zahlen](https://www.test.de/Cehatrol-Technology-eG-Wenig-Einblick-in-die-Zahlen-6051624-0/ "Cehatrol Technology eG - Wenig Einblick in die Zahlen")
-* [Bankenkrise: Bangen um die Banken – was jetzt wichtig ist](https://www.test.de/Bankenkrise-Banken-in-Schwierigkeiten-5980501-0/ "Bankenkrise - Bangen um die Banken – was jetzt wichtig ist")
-* [Alters­vorsorge: Finanz­aufsicht kritisiert Lebens­versicherer](https://www.test.de/Altersvorsorge-Finanzaufsicht-kritisiert-Lebensversicherer-6148845-0/ "Altersvorsorge - Finanzaufsicht kritisiert Lebensversicherer")
-* [Crowdfunding-Platt­form Berg­fürst: Chef zuerst, Crowd danach](https://www.test.de/Crowdfunding-Plattform-Bergfuerst-Chef-zuerst-Crowd-danach-6083104-0/ "Crowdfunding-Plattform Bergfürst - Chef zuerst, Crowd danach")
-* [test warnt: Daten­klau mit der Energiepauschale](https://www.test.de/test-warnt-Datenklau-mit-der-Energiepauschale-5930971-0/ "test warnt - Datenklau mit der Energiepauschale")
-* [Skipässe im Preis­vergleich: Auf die Piste, sparen, los!](https://www.test.de/Skipaesse-im-Preisvergleich-Auf-die-Piste-sparen-los-5942066-0/ "Skipässe im Preisvergleich - Auf die Piste, sparen, los!")
+* [Lang­zeit­analyse der Fünf-Punkte-Strategie: Europafonds besser als die Benchmark](https://www.test.de/Langzeitanalyse-der-Fuenf-Punkte-Strategie-Europafonds-besser-als-die-Benchmark-6004243-0/ "Langzeitanalyse der Fünf-Punkte-Strategie - Europafonds besser als die Benchmark")
+* [Fonds: Globale 1. Wahl-ETF aus unserem Dauer­test](https://www.test.de/Fonds-Globale-1-Wahl-ETF-aus-unserem-Dauertest-6144127-0/ "Fonds - Globale 1. Wahl-ETF aus unserem Dauertest")
+* [Ib-Ex Bank: Geschäfte ohne Erlaubnis](https://www.test.de/Ib-Ex-Bank-Geschaefte-ohne-Erlaubnis-6028212-0/ "Ib-Ex Bank - Geschäfte ohne Erlaubnis")
+* [Ringelröteln: Für Kinder meist harmlos, für Schwangere nicht](https://www.test.de/Ringelroeteln-Fuer-Kinder-meist-harmlos-fuer-Schwangere-nicht-6123237-0/ "Ringelröteln - Für Kinder meist harmlos, für Schwangere nicht")
+* [Strom­preis­erhöhung im Ferien­haus: Wider­spruch ist sinn­voll](https://www.test.de/Strompreiserhoehung-im-Ferienhaus-Widerspruch-ist-sinnvoll-5954040-0/ "Strompreiserhöhung im Ferienhaus - Widerspruch ist sinnvoll")
+* [Gemischte Säfte und Smoothies: Viel Apfel, viel Enttäuschung](https://www.test.de/Gemischte-Saefte-und-Smoothies-Viel-Apfel-viel-Enttaeuschung-6138284-0/ "Gemischte Säfte und Smoothies - Viel Apfel, viel Enttäuschung")
 
 Neueste Tests
 
@@ -2813,12 +2813,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Cehatrol Technology eG: Wenig Einblick in die Zahlen](https://www.test.de/Cehatrol-Technology-eG-Wenig-Einblick-in-die-Zahlen-6051624-0/ "Cehatrol Technology eG - Wenig Einblick in die Zahlen")
-* [Bankenkrise: Bangen um die Banken – was jetzt wichtig ist](https://www.test.de/Bankenkrise-Banken-in-Schwierigkeiten-5980501-0/ "Bankenkrise - Bangen um die Banken – was jetzt wichtig ist")
-* [Alters­vorsorge: Finanz­aufsicht kritisiert Lebens­versicherer](https://www.test.de/Altersvorsorge-Finanzaufsicht-kritisiert-Lebensversicherer-6148845-0/ "Altersvorsorge - Finanzaufsicht kritisiert Lebensversicherer")
-* [Crowdfunding-Platt­form Berg­fürst: Chef zuerst, Crowd danach](https://www.test.de/Crowdfunding-Plattform-Bergfuerst-Chef-zuerst-Crowd-danach-6083104-0/ "Crowdfunding-Plattform Bergfürst - Chef zuerst, Crowd danach")
-* [test warnt: Daten­klau mit der Energiepauschale](https://www.test.de/test-warnt-Datenklau-mit-der-Energiepauschale-5930971-0/ "test warnt - Datenklau mit der Energiepauschale")
-* [Skipässe im Preis­vergleich: Auf die Piste, sparen, los!](https://www.test.de/Skipaesse-im-Preisvergleich-Auf-die-Piste-sparen-los-5942066-0/ "Skipässe im Preisvergleich - Auf die Piste, sparen, los!")
+* [Lang­zeit­analyse der Fünf-Punkte-Strategie: Europafonds besser als die Benchmark](https://www.test.de/Langzeitanalyse-der-Fuenf-Punkte-Strategie-Europafonds-besser-als-die-Benchmark-6004243-0/ "Langzeitanalyse der Fünf-Punkte-Strategie - Europafonds besser als die Benchmark")
+* [Fonds: Globale 1. Wahl-ETF aus unserem Dauer­test](https://www.test.de/Fonds-Globale-1-Wahl-ETF-aus-unserem-Dauertest-6144127-0/ "Fonds - Globale 1. Wahl-ETF aus unserem Dauertest")
+* [Ib-Ex Bank: Geschäfte ohne Erlaubnis](https://www.test.de/Ib-Ex-Bank-Geschaefte-ohne-Erlaubnis-6028212-0/ "Ib-Ex Bank - Geschäfte ohne Erlaubnis")
+* [Ringelröteln: Für Kinder meist harmlos, für Schwangere nicht](https://www.test.de/Ringelroeteln-Fuer-Kinder-meist-harmlos-fuer-Schwangere-nicht-6123237-0/ "Ringelröteln - Für Kinder meist harmlos, für Schwangere nicht")
+* [Strom­preis­erhöhung im Ferien­haus: Wider­spruch ist sinn­voll](https://www.test.de/Strompreiserhoehung-im-Ferienhaus-Widerspruch-ist-sinnvoll-5954040-0/ "Strompreiserhöhung im Ferienhaus - Widerspruch ist sinnvoll")
+* [Gemischte Säfte und Smoothies: Viel Apfel, viel Enttäuschung](https://www.test.de/Gemischte-Saefte-und-Smoothies-Viel-Apfel-viel-Enttaeuschung-6138284-0/ "Gemischte Säfte und Smoothies - Viel Apfel, viel Enttäuschung")
 
 Service Stiftung Warentest
 
