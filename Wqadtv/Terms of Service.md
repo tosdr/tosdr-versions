@@ -30,13 +30,14 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/aa77a2fe-7842-4432-b286-55e0fa96ab11/20240523T232213/aa77a2fe-7842-4432-b286-55e0fa96ab11_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/aa77a2fe-7842-4432-b286-55e0fa96ab11/20240523T232213/aa77a2fe-7842-4432-b286-55e0fa96ab11_360x203.jpg)](https://www.wqad.com/article/news/local/heres-whats-in-store-for-the-qc-marathon-this-weekend/526-88291e87-5820-41c8-9b26-610f673d700f)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/d9e1febb-a562-4815-bbbd-a0ae64cfafb6/20240921T024824/d9e1febb-a562-4815-bbbd-a0ae64cfafb6_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/d9e1febb-a562-4815-bbbd-a0ae64cfafb6/20240921T024824/d9e1febb-a562-4815-bbbd-a0ae64cfafb6_360x203.jpg)](https://www.wqad.com/article/money/davenport-health-center-expand-mental-health-substance-abuse-services-federal-funding/526-1e124b3a-8abe-4b07-bf8a-52fdb7901bfc)
         
-        #### [Here's what's in store for the QC Marathon this weekend](https://www.wqad.com/article/news/local/heres-whats-in-store-for-the-qc-marathon-this-weekend/526-88291e87-5820-41c8-9b26-610f673d700f)
+        #### [Davenport health center to expand mental health and substance abuse services with federal support](https://www.wqad.com/article/money/davenport-health-center-expand-mental-health-substance-abuse-services-federal-funding/526-1e124b3a-8abe-4b07-bf8a-52fdb7901bfc) [![](https://media.tegna-media.com/assets/WQAD/images/d9e1febb-a562-4815-bbbd-a0ae64cfafb6/20240921T024824/d9e1febb-a562-4815-bbbd-a0ae64cfafb6_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/d9e1febb-a562-4815-bbbd-a0ae64cfafb6/20240921T024824/d9e1febb-a562-4815-bbbd-a0ae64cfafb6_360x203.jpg)](https://www.wqad.com/article/money/davenport-health-center-expand-mental-health-substance-abuse-services-federal-funding/526-1e124b3a-8abe-4b07-bf8a-52fdb7901bfc)
         
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/f6a2858c-b7d5-4e52-be8b-2164c80f3032/20240919T213219/f6a2858c-b7d5-4e52-be8b-2164c80f3032_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/f6a2858c-b7d5-4e52-be8b-2164c80f3032/20240919T213219/f6a2858c-b7d5-4e52-be8b-2164c80f3032_360x203.jpg)](https://www.wqad.com/article/news/local/centennial-bridge-shutting-lights-off-migrating-birds/526-af6b0b46-2799-4c68-b8e0-78a1a54b9c42)
+        #### [Federal money helping Davenport health center expand mental health and substance abuse programs](https://www.wqad.com/article/money/davenport-health-center-expand-mental-health-substance-abuse-services-federal-funding/526-1e124b3a-8abe-4b07-bf8a-52fdb7901bfc)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/e10aacd8-5aaa-4e7f-a10b-a10ea420c15f/e10aacd8-5aaa-4e7f-a10b-a10ea420c15f_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/e10aacd8-5aaa-4e7f-a10b-a10ea420c15f/e10aacd8-5aaa-4e7f-a10b-a10ea420c15f_360x203.jpg)](https://www.wqad.com/article/news/local/family-evacuated-fire-wheatland/526-d776784e-9a02-45ad-ba95-38c43976a5e2)
         
-        #### [Centennial Bridge shuts its lights off for migrating birds](https://www.wqad.com/article/news/local/centennial-bridge-shutting-lights-off-migrating-birds/526-af6b0b46-2799-4c68-b8e0-78a1a54b9c42)
+        #### [Fire in Wheatland forces family to evacuate](https://www.wqad.com/article/news/local/family-evacuated-fire-wheatland/526-d776784e-9a02-45ad-ba95-38c43976a5e2)
         
     
 * [Weather](https://www.wqad.com/weather)
@@ -56,13 +57,13 @@ Navigation
     
     Latest Weather Stories
     
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/b513f5a2-9a30-4d68-8a4f-0e2b1608957d/20240920T225113/b513f5a2-9a30-4d68-8a4f-0e2b1608957d_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/b513f5a2-9a30-4d68-8a4f-0e2b1608957d/20240920T225113/b513f5a2-9a30-4d68-8a4f-0e2b1608957d_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+        
+        #### [Rainy weekend ahead with storm chances both Saturday and Sunday](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+        
     *  [![](https://media.tegna-media.com/assets/KARE/images/c6306684-4c3a-475e-87d3-405075266334/20240920T120937/c6306684-4c3a-475e-87d3-405075266334_16x9.jpg) ![](https://media.tegna-media.com/assets/KARE/images/c6306684-4c3a-475e-87d3-405075266334/20240920T120937/c6306684-4c3a-475e-87d3-405075266334_360x203.jpg)](https://www.wqad.com/article/weather/national-weather-service-tornado-st-louis-county/89-0ed781aa-9541-4b23-819b-a351e20c8af1)
         
         #### [NWS confirms tornado touched down in northern Minnesota](https://www.wqad.com/article/weather/national-weather-service-tornado-st-louis-county/89-0ed781aa-9541-4b23-819b-a351e20c8af1)
-        
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/1f3c163d-f76d-4941-b33a-41aa3f493833/20240920T121509/1f3c163d-f76d-4941-b33a-41aa3f493833_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/1f3c163d-f76d-4941-b33a-41aa3f493833/20240920T121509/1f3c163d-f76d-4941-b33a-41aa3f493833_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
-        
-        #### [More rainfall opportunities ahead this weekend](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
     
 * [Sports](https://www.wqad.com/sports)
@@ -86,9 +87,9 @@ Navigation
 
 Davenport, IA »
 
-89°
+68°
 
-![Sunny](/assets/shared-images/weather-icons/clear-day_210x210.png)
+![Clear](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
 
 Davenport, IA »](https://www.wqad.com/weather)
 
