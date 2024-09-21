@@ -76,6 +76,10 @@ Search
 
 Search
 
+#### Breaking News
+
+[Harris accepts CNN invitation to debate Trump -- despite ex-prez insisting they won't face off again](https://nypost.com/2024/09/21/us-news/harris-accepts-cnn-invitation-to-debate-trump-on-oct-23-despite-ex-prez-insisting-they-wont-face-off-again/)
+
 Terms Of Use
 ============
 
