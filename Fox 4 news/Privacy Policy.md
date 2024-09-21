@@ -400,6 +400,12 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
+ [![Fort Worth Police Officer William Martin arrested for off-duty shooting, released on bond shortly after](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/william-martin-OIS-scene.png?ve=1&tl=1)
+
+ ![Fort Worth Police Officer William Martin arrested for off-duty shooting, released on bond shortly after](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/592/333/william-martin-OIS-scene.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/william-martin-arrested-off-duty-shooting-fort-worth-police)
+
+### [Fort Worth Police Officer William Martin arrested for off-duty shooting, released on bond shortly after](https://www.fox4news.com/news/william-martin-arrested-off-duty-shooting-fort-worth-police)
+
  [![More than 3,000 chemicals enter the body through food packaging, study finds](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/food-packaging-getty.jpg?ve=1&tl=1)
 
  ![More than 3,000 chemicals enter the body through food packaging, study finds](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/592/333/food-packaging-getty.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/3000-chemicals-enter-body-through-food-packaging-study)
@@ -411,12 +417,6 @@ Please note that, in some instances, we may decline to honor your request where,
  ![Georgia State Election Board approves new hand-counting ballot rule](https://images.foxtv.com/images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2024/09/32/18/592/333/3b6fa473-GettyImages-2071909333.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/georgia-state-election-board-last-minute-voting-rule-changes)
 
 ### [Georgia State Election Board approves new hand-counting ballot rule](https://www.fox4news.com/news/georgia-state-election-board-last-minute-voting-rule-changes)
-
- [![Fort Worth police officer William Martin arrested in connection to off-duty shooting](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/william-martin-OIS-scene.png?ve=1&tl=1)
-
- ![Fort Worth police officer William Martin arrested in connection to off-duty shooting](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/592/333/william-martin-OIS-scene.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/william-martin-arrested-off-duty-shooting-fort-worth-police)
-
-### [Fort Worth police officer William Martin arrested in connection to off-duty shooting](https://www.fox4news.com/news/william-martin-arrested-off-duty-shooting-fort-worth-police)
 
  [![4 Lewisville ISD students arrested for making school threats](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/P-ALEX-LEWISVILLE-SCHOOL-THREAT-5P_00.00.35.04.jpg?ve=1&tl=1)
 
