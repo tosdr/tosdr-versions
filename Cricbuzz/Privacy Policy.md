@@ -48,7 +48,7 @@ SEARCH
 
 [My Account](https://www.cricbuzz.com/premium-subscription/user/account-info "My Account") Sign Out
 
-[MATCHES](https://www.cricbuzz.com/cricket-match/live-scores)[GAW vs SNP - Live](https://www.cricbuzz.com/live-cricket-scores/92874/gaw-vs-snp-21st-match-caribbean-premier-league-2024 "Guyana Amazon Warriors v St Kitts and Nevis Patriots, 21st Match - Live")[IND vs BAN - Stumps](https://www.cricbuzz.com/live-cricket-scores/100220/ind-vs-ban-1st-test-bangladesh-tour-of-india-2024 "India v Bangladesh, 1st Test - Stumps")[AFG vs RSA - AFG Won](https://www.cricbuzz.com/live-cricket-scores/103852/afg-vs-rsa-2nd-odi-afghanistan-v-south-africa-in-uae-2024 "Afghanistan v South Africa, 2nd ODI - AFG Won")[ENG vs AUS - Preview](https://www.cricbuzz.com/live-cricket-scores/76556/eng-vs-aus-2nd-odi-australia-tour-of-england-2024 "England v Australia, 2nd ODI - Preview")[SL vs NZ - Stumps](https://www.cricbuzz.com/live-cricket-scores/105962/sl-vs-nz-1st-test-new-zealand-tour-of-sri-lanka-2024 "Sri Lanka v New Zealand, 1st Test - Stumps")
+[MATCHES](https://www.cricbuzz.com/cricket-match/live-scores)[IND vs BAN - Live](https://www.cricbuzz.com/live-cricket-scores/100220/ind-vs-ban-1st-test-bangladesh-tour-of-india-2024 "India v Bangladesh, 1st Test - Live")[GAW vs SNP - GAW Won](https://www.cricbuzz.com/live-cricket-scores/92874/gaw-vs-snp-21st-match-caribbean-premier-league-2024 "Guyana Amazon Warriors v St Kitts and Nevis Patriots, 21st Match - GAW Won")[INDA vs INDC - Live](https://www.cricbuzz.com/live-cricket-scores/104234/inda-vs-indc-6th-match-duleep-trophy-2024 "India A v India C, 6th Match - Live")[AFG vs RSA - AFG Won](https://www.cricbuzz.com/live-cricket-scores/103852/afg-vs-rsa-2nd-odi-afghanistan-v-south-africa-in-uae-2024 "Afghanistan v South Africa, 2nd ODI - AFG Won")[ENG vs AUS - Preview](https://www.cricbuzz.com/live-cricket-scores/76556/eng-vs-aus-2nd-odi-australia-tour-of-england-2024 "England v Australia, 2nd ODI - Preview")
 
 AllLive NowToday
 
@@ -56,7 +56,7 @@ AllLive NowToday
     
     Bangladesh v India 2024
     
-    [India vs Bangladesh](https://www.cricbuzz.com/live-cricket-scores/100220/ind-vs-ban-1st-test-bangladesh-v-india-2024 "India v Bangladesh, 1st Test - Stumps")
+    [India vs Bangladesh  LIVE](https://www.cricbuzz.com/live-cricket-scores/100220/ind-vs-ban-1st-test-bangladesh-v-india-2024 "India v Bangladesh, 1st Test - Live")
     
     1st Test
     
@@ -134,15 +134,11 @@ AllLive NowToday
     
     CPL 2024
     
-    [Guyana Amazon Warriors vs Trinbago Knight Riders](https://www.cricbuzz.com/live-cricket-scores/92856/gaw-vs-tkr-19th-match-cpl-2024 "Guyana Amazon Warriors v Trinbago Knight Riders, 19th Match - TKR Won")
-    
-    19th Match
-    
-* [Trinbago Knight Riders vs Antigua and Barbuda Falcons](https://www.cricbuzz.com/live-cricket-scores/92865/tkr-vs-abf-20th-match-cpl-2024 "Trinbago Knight Riders v Antigua and Barbuda Falcons, 20th Match - ABF Won")
+    [Trinbago Knight Riders vs Antigua and Barbuda Falcons](https://www.cricbuzz.com/live-cricket-scores/92865/tkr-vs-abf-20th-match-cpl-2024 "Trinbago Knight Riders v Antigua and Barbuda Falcons, 20th Match - ABF Won")
     
     20th Match
     
-* [Guyana Amazon Warriors vs St Kitts and Nevis Patriots  LIVE](https://www.cricbuzz.com/live-cricket-scores/92874/gaw-vs-snp-21st-match-cpl-2024 "Guyana Amazon Warriors v St Kitts and Nevis Patriots, 21st Match - Live")
+* [Guyana Amazon Warriors vs St Kitts and Nevis Patriots](https://www.cricbuzz.com/live-cricket-scores/92874/gaw-vs-snp-21st-match-cpl-2024 "Guyana Amazon Warriors v St Kitts and Nevis Patriots, 21st Match - GAW Won")
     
     21st Match
     
@@ -150,7 +146,7 @@ AllLive NowToday
     
     22nd Match
     
-* [Guyana Amazon Warriors vs Antigua and Barbuda Falcons](https://www.cricbuzz.com/live-cricket-scores/92892/gaw-vs-abf-23rd-match-cpl-2024 "Guyana Amazon Warriors v Antigua and Barbuda Falcons, 23rd Match - Upcoming")
+* [Guyana Amazon Warriors vs Antigua and Barbuda Falcons](https://www.cricbuzz.com/live-cricket-scores/92892/gaw-vs-abf-23rd-match-cpl-2024 "Guyana Amazon Warriors v Antigua and Barbuda Falcons, 23rd Match - Preview")
     
     23rd Match
     
@@ -220,13 +216,13 @@ AllLive NowToday
     
     Duleep Trophy
     
-    [India D vs India B](https://www.cricbuzz.com/live-cricket-scores/104226/indd-vs-indb-5th-match-duleep-trophy "India D v India B, 5th Match - Stumps")
-    
-    5th Match
-    
-* [India A vs India C](https://www.cricbuzz.com/live-cricket-scores/104234/inda-vs-indc-6th-match-duleep-trophy "India A v India C, 6th Match - Stumps")
+    [India A vs India C  LIVE](https://www.cricbuzz.com/live-cricket-scores/104234/inda-vs-indc-6th-match-duleep-trophy "India A v India C, 6th Match - Live")
     
     6th Match
+    
+* [India D vs India B  LIVE](https://www.cricbuzz.com/live-cricket-scores/104226/indd-vs-indb-5th-match-duleep-trophy "India D v India B, 5th Match - Live")
+    
+    5th Match
     
 * County Division 1
     
@@ -262,17 +258,17 @@ AllLive NowToday
     
 * Australia Under 19 tour of India
     
-    [India U19 vs Australia U19](https://www.cricbuzz.com/live-cricket-scores/106428/indu19-vs-ausu19-1st-youth-odi-australia-under-19-tour-of-india "India U19 v Australia U19, 1st Youth ODI - Preview")
+    [Australia U19 vs India U19  LIVE](https://www.cricbuzz.com/live-cricket-scores/106428/ausu19-vs-indu19-1st-youth-odi-australia-under-19-tour-of-india "Australia U19 v India U19, 1st Youth ODI - Live")
     
     1st Youth ODI
     
+* [India U19 vs Australia U19](https://www.cricbuzz.com/live-cricket-scores/106436/indu19-vs-ausu19-2nd-youth-odi-australia-under-19-tour-of-india "India U19 v Australia U19, 2nd Youth ODI - Upcoming")
+    
+    2nd Youth ODI
+    
 * County Division 2
     
-    [Gloucestershire vs Sussex](https://www.cricbuzz.com/live-cricket-scores/85528/gloucs-vs-sus-51st-match-county-division-2 "Gloucestershire v Sussex, 51st Match - SUS Won")
-    
-    51st Match
-    
-* [Yorkshire vs Glamorgan](https://www.cricbuzz.com/live-cricket-scores/85524/yorks-vs-glam-50th-match-county-division-2 "Yorkshire v Glamorgan, 50th Match - YORKS Won")
+    [Yorkshire vs Glamorgan](https://www.cricbuzz.com/live-cricket-scores/85524/yorks-vs-glam-50th-match-county-division-2 "Yorkshire v Glamorgan, 50th Match - YORKS Won")
     
     50th Match
     
@@ -283,6 +279,10 @@ AllLive NowToday
 * [Leicestershire vs Northamptonshire](https://www.cricbuzz.com/live-cricket-scores/85535/leic-vs-nhnts-52nd-match-county-division-2 "Leicestershire v Northamptonshire, 52nd Match - NOR Won")
     
     52nd Match
+    
+* [Gloucestershire vs Sussex](https://www.cricbuzz.com/live-cricket-scores/85528/gloucs-vs-sus-51st-match-county-division-2 "Gloucestershire v Sussex, 51st Match - SUS Won")
+    
+    51st Match
     
 * ENG Domestic One-Day Cup
     
@@ -637,41 +637,41 @@ This Privacy Policy (the “**Privacy Policy**”) serves to inform you of our p
 
 #### LATEST NEWS
 
+  [](https://www.cricbuzz.com/cricket-news/131699/gill-pant-fifties-extend-indias-dominance "Gill, Pant fifties extend India's dominance")
+
+[Gill, Pant fifties extend India's dominance](https://www.cricbuzz.com/cricket-news/131699/gill-pant-fifties-extend-indias-dominance "Gill, Pant fifties extend India's dominance")
+
+49m ago
+
+  [](https://www.cricbuzz.com/cricket-news/131698/hetmyer-shepherd-and-bowlers-deliver-stunning-win-for-guyana "Hetmyer, Shepherd and bowlers deliver stunning win for Guyana")
+
+[Hetmyer, Shepherd and bowlers deliver stunning win for Guyana](https://www.cricbuzz.com/cricket-news/131698/hetmyer-shepherd-and-bowlers-deliver-stunning-win-for-guyana "Hetmyer, Shepherd and bowlers deliver stunning win for Guyana")
+
+2h ago
+
+  [](https://www.cricbuzz.com/cricket-news/131697/afghanistan-ride-on-gurbaz-rashid-heroics-to-create-history "Afghanistan ride on Gurbaz, Rashid heroics to create history")
+
+[Afghanistan ride on Gurbaz, Rashid heroics to create history](https://www.cricbuzz.com/cricket-news/131697/afghanistan-ride-on-gurbaz-rashid-heroics-to-create-history "Afghanistan ride on Gurbaz, Rashid heroics to create history")
+
+5h ago
+
   [](https://www.cricbuzz.com/cricket-news/131696/gurbaz-rashid-seal-afghanistans-most-telling-triumph "Gurbaz, Rashid seal Afghanistan's most telling triumph")
 
 [Gurbaz, Rashid seal Afghanistan's most telling triumph](https://www.cricbuzz.com/cricket-news/131696/gurbaz-rashid-seal-afghanistans-most-telling-triumph "Gurbaz, Rashid seal Afghanistan's most telling triumph")
 
-17m ago
+6h ago
 
   [](https://www.cricbuzz.com/cricket-news/131695/ashwin-talks-up-compartmentalising-for-separate-sports-after-batting-gains "Ashwin talks up compartmentalising for 'separate sports' after batting exploits")
 
 [Ashwin talks up compartmentalising for 'separate sports' after batting exploits](https://www.cricbuzz.com/cricket-news/131695/ashwin-talks-up-compartmentalising-for-separate-sports-after-batting-gains "Ashwin talks up compartmentalising for 'separate sports' after batting exploits")
 
-9h ago
+15h ago
 
   [](https://www.cricbuzz.com/cricket-news/131694/akash-deep-hits-his-spots-fits-right-in "Akash Deep hits his spots, fits right in")
 
 [Akash Deep hits his spots, fits right in](https://www.cricbuzz.com/cricket-news/131694/akash-deep-hits-his-spots-fits-right-in "Akash Deep hits his spots, fits right in")
 
-10h ago
-
-  [](https://www.cricbuzz.com/cricket-news/131693/another-ton-for-easwaran-but-india-b-struggle "Another ton for Easwaran but India B struggle")
-
-[Another ton for Easwaran but India B struggle](https://www.cricbuzz.com/cricket-news/131693/another-ton-for-easwaran-but-india-b-struggle "Another ton for Easwaran but India B struggle")
-
-11h ago
-
-  [](https://www.cricbuzz.com/cricket-news/131692/bangladeshs-undoing-shot-selection-angled-in-deliveries-and-missed-chances "Bangladesh's undoing: Shot selection, angled-in deliveries and missed chances")
-
-[Bangladesh's undoing: Shot selection, angled-in deliveries and missed chances](https://www.cricbuzz.com/cricket-news/131692/bangladeshs-undoing-shot-selection-angled-in-deliveries-and-missed-chances "Bangladesh's undoing: Shot selection, angled-in deliveries and missed chances")
-
-11h ago
-
-  [](https://www.cricbuzz.com/cricket-news/131691/batters-put-sri-lanka-in-commanding-position-on-day-3 "Batters put Sri Lanka in commanding position on Day 3")
-
-[Batters put Sri Lanka in commanding position on Day 3](https://www.cricbuzz.com/cricket-news/131691/batters-put-sri-lanka-in-commanding-position-on-day-3 "Batters put Sri Lanka in commanding position on Day 3")
-
-12h ago
+16h ago
 
 [More News](https://www.cricbuzz.com/cricket-news "Click to view more News")
 
