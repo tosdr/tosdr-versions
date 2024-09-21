@@ -146,13 +146,13 @@ REUTERS](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantim
 Sept. 11, 2001. Nearly 3,000 people died in the incident, including 24 Japanese nationals. 
 REUTERS")](https://www.japantimes.co.jp/commentary/2024/09/18/japan/911-impact-on-japan/ "The forgotten impact of 9/11 on Japan")
 
-[Third TSMC plant in Japan remains up in the air](https://www.japantimes.co.jp/business/2024/09/19/companies/taiwan-boost-japan-investments/ "Third TSMC plant in Japan remains up in the air ") 
+[Nara urges respect for sacred deer after viral abuse video sparks outcry](https://www.japantimes.co.jp/news/2024/09/20/japan/society/nara-deer-kicked-video/ "Nara urges respect for sacred deer after viral abuse video sparks outcry")
 
-  [![Taiwan Semiconductor Manufacturing Co.’s plant in Kikuyo, Kumamoto Prefecture. The chipmaker is building a second plant in the prefecture that is scheduled to commence production in 2027.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/19/422607.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Taiwan Semiconductor Manufacturing Co.’s plant in Kikuyo, Kumamoto Prefecture. The chipmaker is building a second plant in the prefecture that is scheduled to commence production in 2027.")](https://www.japantimes.co.jp/business/2024/09/19/companies/taiwan-boost-japan-investments/ "Third TSMC plant in Japan remains up in the air ")
+  [![A police officer explains with a loudspeaker the correct way of interacting with the deer on July 25 at Nara Park in the city of Nara.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/20/422848.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "A police officer explains with a loudspeaker the correct way of interacting with the deer on July 25 at Nara Park in the city of Nara.")](https://www.japantimes.co.jp/news/2024/09/20/japan/society/nara-deer-kicked-video/ "Nara urges respect for sacred deer after viral abuse video sparks outcry")
 
-[Hyogo assembly passes no-confidence motion against embattled governor](https://www.japantimes.co.jp/news/2024/09/19/japan/politics/hyogo-no-confidence-motion/ "Hyogo assembly passes no-confidence motion against embattled governor")
+[Bank of Japan leaves rates unchanged as Ueda signals pause](https://www.japantimes.co.jp/business/2024/09/20/economy/boj-maintains-policy-rate/ "Bank of Japan leaves rates unchanged as Ueda signals pause")
 
-  [![Hyogo Gov. Motohiko Saito speaks during a prefectural assembly session on Thursday in Kobe. A motion of no confidence against Saito, who is accused of workplace bullying, was submitted to the prefectural assembly on Thursday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/19/422717.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Hyogo Gov. Motohiko Saito speaks during a prefectural assembly session on Thursday in Kobe. A motion of no confidence against Saito, who is accused of workplace bullying, was submitted to the prefectural assembly on Thursday.")](https://www.japantimes.co.jp/news/2024/09/19/japan/politics/hyogo-no-confidence-motion/ "Hyogo assembly passes no-confidence motion against embattled governor")
+  [![The Bank of Japan headquarters in Tokyo. Analysts polled ahead of Friday were in agreement that the BOJ would choose not to make any rate adjustments.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/20/422850.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "The Bank of Japan headquarters in Tokyo. Analysts polled ahead of Friday were in agreement that the BOJ would choose not to make any rate adjustments.")](https://www.japantimes.co.jp/business/2024/09/20/economy/boj-maintains-policy-rate/ "Bank of Japan leaves rates unchanged as Ueda signals pause")
 
 Editors' Picks
 --------------
@@ -185,21 +185,19 @@ REUTERS](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantim
 Sept. 11, 2001. Nearly 3,000 people died in the incident, including 24 Japanese nationals. 
 REUTERS")](https://www.japantimes.co.jp/commentary/2024/09/18/japan/911-impact-on-japan/ "The forgotten impact of 9/11 on Japan")
 
+[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
+
+[Nara urges respect for sacred deer after viral abuse video sparks outcry](https://www.japantimes.co.jp/news/2024/09/20/japan/society/nara-deer-kicked-video/ "Nara urges respect for sacred deer after viral abuse video sparks outcry")
+
+  [![A police officer explains with a loudspeaker the correct way of interacting with the deer on July 25 at Nara Park in the city of Nara.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/20/422848.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "A police officer explains with a loudspeaker the correct way of interacting with the deer on July 25 at Nara Park in the city of Nara.")](https://www.japantimes.co.jp/news/2024/09/20/japan/society/nara-deer-kicked-video/ "Nara urges respect for sacred deer after viral abuse video sparks outcry")
+
 [BUSINESS](https://www.japantimes.co.jp/business/ "BUSINESS")
 
-[Third TSMC plant in Japan remains up in the air](https://www.japantimes.co.jp/business/2024/09/19/companies/taiwan-boost-japan-investments/ "Third TSMC plant in Japan remains up in the air ") 
+[Bank of Japan leaves rates unchanged as Ueda signals pause](https://www.japantimes.co.jp/business/2024/09/20/economy/boj-maintains-policy-rate/ "Bank of Japan leaves rates unchanged as Ueda signals pause")
 
 By [Kazuaki Nagata](https://www.japantimes.co.jp/author/142/kazuaki-nagata/ "Kazuaki Nagata")  
 
-  [![Taiwan Semiconductor Manufacturing Co.’s plant in Kikuyo, Kumamoto Prefecture. The chipmaker is building a second plant in the prefecture that is scheduled to commence production in 2027.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/19/422607.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Taiwan Semiconductor Manufacturing Co.’s plant in Kikuyo, Kumamoto Prefecture. The chipmaker is building a second plant in the prefecture that is scheduled to commence production in 2027.")](https://www.japantimes.co.jp/business/2024/09/19/companies/taiwan-boost-japan-investments/ "Third TSMC plant in Japan remains up in the air ")
-
-[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
-
-[Hyogo assembly passes no-confidence motion against embattled governor](https://www.japantimes.co.jp/news/2024/09/19/japan/politics/hyogo-no-confidence-motion/ "Hyogo assembly passes no-confidence motion against embattled governor")
-
-By [Francis Tang](https://www.japantimes.co.jp/author/5450/francis-tang/ "Francis Tang")  
-
-  [![Hyogo Gov. Motohiko Saito speaks during a prefectural assembly session on Thursday in Kobe. A motion of no confidence against Saito, who is accused of workplace bullying, was submitted to the prefectural assembly on Thursday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/19/422717.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Hyogo Gov. Motohiko Saito speaks during a prefectural assembly session on Thursday in Kobe. A motion of no confidence against Saito, who is accused of workplace bullying, was submitted to the prefectural assembly on Thursday.")](https://www.japantimes.co.jp/news/2024/09/19/japan/politics/hyogo-no-confidence-motion/ "Hyogo assembly passes no-confidence motion against embattled governor")
+  [![The Bank of Japan headquarters in Tokyo. Analysts polled ahead of Friday were in agreement that the BOJ would choose not to make any rate adjustments.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/20/422850.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "The Bank of Japan headquarters in Tokyo. Analysts polled ahead of Friday were in agreement that the BOJ would choose not to make any rate adjustments.")](https://www.japantimes.co.jp/business/2024/09/20/economy/boj-maintains-policy-rate/ "Bank of Japan leaves rates unchanged as Ueda signals pause")
 
 Podcast
 -------
@@ -262,17 +260,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
-[Japan agrees to stricter monitoring of Fukushima plant's treated water](https://www.japantimes.co.jp/news/2024/09/20/japan/japan-china-iaea-import/ "Japan agrees to stricter monitoring of Fukushima plant's treated water")
+[Highest-level rain alert issued for quake-hit Ishikawa area](https://www.japantimes.co.jp/news/2024/09/21/japan/ishikawa-heavy-rain-alert/ "Highest-level rain alert issued for quake-hit Ishikawa area")
 
-11 hours ago
+27 mins ago
 
-[CDP leader hopefuls must bridge internal and external differences](https://www.japantimes.co.jp/news/2024/09/20/japan/politics/cdp-election-preview/ "CDP leader hopefuls must bridge internal and external differences")
+[Prospects for a Gaza cease-fire dim even as U.S. maintains hopes](https://www.japantimes.co.jp/news/2024/09/21/world/politics/gaza-ceasefire-hopes-dim/ "Prospects for a Gaza cease-fire dim even as U.S. maintains hopes")
 
-[Tokyo Metro, Rigaku set stage for $3 billion Japan IPOs as listings gather pace](https://www.japantimes.co.jp/business/2024/09/20/companies/tokyo-metro-ipo-date/ "Tokyo Metro, Rigaku set stage for $3 billion Japan IPOs as listings gather pace")
+4 hours ago
 
-[Dementia advocates worry public attitudes preventing diagnosis](https://www.japantimes.co.jp/news/2024/09/20/japan/science-health/alzheimers-attitudes-survey/ "Dementia advocates worry public attitudes preventing diagnosis")
+[Hack of Hezbollah devices exposes dark corners of Asia supply chains](https://www.japantimes.co.jp/business/2024/09/21/hezbollah-hack-asia-supply-chains-analysis/ "Hack of Hezbollah devices exposes dark corners of Asia supply chains")
 
-[Court rejects petition against low-altitude Haneda routes](https://www.japantimes.co.jp/news/2024/09/20/japan/crime-legal/haneda-airport-ruling/ "Court rejects petition against low-altitude Haneda routes")
+4 hours ago
+
+[Microsoft AI needs so much power it's tapping site of U.S. nuclear meltdown](https://www.japantimes.co.jp/business/2024/09/21/tech/microsoft-ai-nuclear-power/ "Microsoft AI needs so much power it's tapping site of U.S. nuclear meltdown")
+
+4 hours ago
+
+[Top Hezbollah commander among 14 killed in Israeli strike on Beirut](https://www.japantimes.co.jp/news/2024/09/21/world/israel-hezbollah-commander-killed-beirut/ "Top Hezbollah commander among 14 killed in Israeli strike on Beirut")
+
+4 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
