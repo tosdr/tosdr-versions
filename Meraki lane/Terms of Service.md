@@ -41,6 +41,10 @@ Main Menu
     
     [Fashion](https://www.merakilane.com/category/fashion/)
     
+    [![How to Dress a Pear Body Shape | 7 Tips & Hacks | The pear body shape is characterized by hips that are wider than the shoulders and bust, a defined waist, and proportionally slim arms and shoulders. Women with this body type often struggle to find skirts, pants, and jeans that fit well and balance out their body. If you want to learn how to accentuate your best features so you can create outfits that compliment your frame, we have everything you need in this post -- fashions Dos and Don'ts!](https://www.merakilane.com/wp-content/uploads/2024/09/9.png)](https://www.merakilane.com/how-to-dress-a-pear-body-shape-7-tips-hacks/)
+    
+    ### [How to Dress a Pear Body Shape: 7 Tips & Hacks](https://www.merakilane.com/how-to-dress-a-pear-body-shape-7-tips-hacks/)
+    
     [![10 Stunning Fine Line Spine Tattoos for Women | Fine line spine tattoos are gorgeous, but if you're thinking of getting one, there are things to consider, including the time, pain level, and after-care. We outline all of the details in this post, and we've also curated our favorite fine line tattoo designs that are classic and feminine. From meaningful fine line quotes, to pretty flowers, to a combination of many tattoos into one, these tattoo designs for women will inspire your next ink!](https://www.merakilane.com/wp-content/uploads/2024/09/5-2.png)](https://www.merakilane.com/10-stunning-fine-line-spine-tattoos-for-women/)
     
     ### [10 Stunning Fine Line Spine Tattoos for Women](https://www.merakilane.com/10-stunning-fine-line-spine-tattoos-for-women/)
@@ -48,10 +52,6 @@ Main Menu
     [![How to Minimize Pores | 7 Tips and Products that Work! | Pore size is largely due to genetics, so you can’t actually shrink your pores, but there are natural ways to make them look smaller. Having a solid skincare routine and using the right products for your skin type to remove excess oil and impurities is key. From regular exfoliation and face masks, to selecting non pore-blogging moisturizers and makeup products, we have everything you need to reduce the look of your pores in this post!](https://www.merakilane.com/wp-content/uploads/2024/09/1-2.png)](https://www.merakilane.com/how-to-minimize-pores-7-tips-and-products-that-work/)
     
     ### [How to Minimize Pores: 7 Tips and Products that Work!](https://www.merakilane.com/how-to-minimize-pores-7-tips-and-products-that-work/)
-    
-    [![The Best Skincare Routine For Your 30s | 16 Tips & Products | Once you turn 30, your hormones change, your body stops producing as much collagen and elastin, and cell turnover slows down resulting in hormonal breakouts / adult acne, fine lines, hyperpigmentation, and even volume loss. The good news is that a few simple changes to your skincare routine and the products you use can make a huge difference. If you need some anti-aging tips for a beautiful glow up, click for our best skin tips!](https://www.merakilane.com/wp-content/uploads/2024/09/4-1.png)](https://www.merakilane.com/the-best-skincare-routine-for-your-30s-16-tips-products/)
-    
-    ### [The Best Skincare Routine For Your 30s: 16 Tips & Products](https://www.merakilane.com/the-best-skincare-routine-for-your-30s-16-tips-products/)
     
 * [Wellness](https://www.merakilane.com/category/wellness/)
     
@@ -117,6 +117,10 @@ Main Menu
     
     [Travel Guides](https://www.merakilane.com/category/family-travel-guides/)
     
+    [![32 Best Road Trip Snacks | Whether you're going on an adults only road trip or a family adventure in a car, camper van, or RV, one thing is for certain: you need to pack snacks! The trick is to find a balance of easy, tasty, and healthy ideas, and this post has it all! Click to learn how to pack a cooler so your car snacks don't spoil, and for our favorite snacks to put in your cooler. We've also included a long list of grab and go travel snacks that don't need to be refrigerated.](https://www.merakilane.com/wp-content/uploads/2024/09/3-3.png)](https://www.merakilane.com/32-best-road-trip-snacks-the-whole-family-will-enjoy/)
+    
+    ### [32 Best Road Trip Snacks the Whole Family Will Enjoy](https://www.merakilane.com/32-best-road-trip-snacks-the-whole-family-will-enjoy/)
+    
     [![30 Yarn Projects for All Ages and Stages | Yarn isn't just for knitting socks and crocheting blankets -- there are so many crafts you can make with leftover yarn. Whether you're trying to keep toddlers occupied at home, need art projects for kids in elementary school, or have an artsy tween or teen in need of after school boredom busters, we have you covered. From pom-pom creatures and no-sew projects, to chunky knit blankets and rainbow wall hangings, thee yarn projects won't disappoint!](https://www.merakilane.com/wp-content/uploads/2024/09/7-1.png)](https://www.merakilane.com/30-yarn-projects-for-all-ages-and-stages/)
     
     ### [30 Yarn Projects for All Ages and Stages](https://www.merakilane.com/30-yarn-projects-for-all-ages-and-stages/)
@@ -124,10 +128,6 @@ Main Menu
     [![13 Tips to Help Kids Who Are Afraid of the Dark | Many kids are scared of the dark. It's a common fear children outgrow, but it can become a persistent phobia that can be disruptive for the whole family.Thankfully, there are many effective strategies to help. By understanding the causes of their fears and identifying triggers, you can provide them with practical tips to deal with their thoughts and feelings and create a calming nighttime routine to help the whole family sleep through the night.](https://www.merakilane.com/wp-content/uploads/2024/09/3-2.png)](https://www.merakilane.com/13-tips-to-help-kids-who-are-afraid-of-the-dark/)
     
     ### [13 Tips to Help Kids Who Are Afraid of the Dark](https://www.merakilane.com/13-tips-to-help-kids-who-are-afraid-of-the-dark/)
-    
-    [![21 Tape Art Projects for All Ages | Masking tape, painters tape, duct tape (note: it's NOT "duck tape!"), washi tape, scotch tape, and any other type of adhesive tape doubles as a versatile crafting medium. From wall murals, to abstract canvas designs, to picture frames, to bracelets, to cellphone cases, to nail art, to no-sew purses and wallets, there are so many creative things you can make with a roll of tape. Click for our favorite ideas for toddlers, school-aged kids, tweens, and teens!](https://www.merakilane.com/wp-content/uploads/2024/09/7.png)](https://www.merakilane.com/21-tape-art-projects-for-all-ages-and-stages/)
-    
-    ### [21 Tape Art Projects for All Ages and Stages](https://www.merakilane.com/21-tape-art-projects-for-all-ages-and-stages/)
     
 * [Contact](https://www.merakilane.com/contact/)
 
@@ -233,22 +233,22 @@ Search  Search
 
 [follow us @merakilane](https://www.instagram.com/merakilane/)
 
+[this mindset >>> #powerfulwords #ceoofmylife #thi ![this mindset >>>
+#powerfulwords #ceoofmylife #thingsiwanttoremember #getoutofyourownway #countyourblessingsnotyourproblems #healingwords #gentlereminder #friendlyreminder #powerfulthoughts #remindertoself](https://www.merakilane.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/reel/DAJKJRfuZsr/) 
+
+[if this one doesn’t hit you in the feels… 🥹 ![if this one doesn’t hit you in the feels… 🥹
+#parentingquotes #parenting101 #momquotes #hardtruth #uncomfortabletruth #lifelessonslearned #lessonslearnedinlife #powerfulwords #powerfulthoughts #spilledthoughts #thingsiwanttoremember #friendlyreminder #thoughtsoftheday #quotesthattouchyourheart #quotesthatmakeyouthink](https://www.merakilane.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/reel/DAGf6OPuo9z/) 
+
+[regulators! ✌🏻 ‘it was a clear black night ![regulators! ✌🏻
+‘it was a clear black night,
+a clear white moon…’
+#womenover40 #perimenopause #menopause #40andfit #40andfabulous #relatablepost #relatablememe #relatablereel #funnymeme #funnyreel #funnyreelsvideo #imfunny #makemelaugh #momlife #momlifebelike #momhumor #funnymoms #trends](https://www.merakilane.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/reel/DAEW3XVSYt4/) 
+
 […and our best is enough. 🫶🏻 #momtruth #mo ![…and our best is enough. 🫶🏻
 #momtruth #momtruths #raisingdaughters #realmom #realmomlife #realmoms #simplereminders #lessonslearnedinlife #thingsiwanttoremember #thoughtsoftheday #powerfulwords #canadianmom #torontomom](https://www.merakilane.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/reel/DABVldwR3ON/) 
 
 [a little monday motivation for you ✌🏻 #lesso ![a little monday motivation for you ✌🏻
 #lessonslearnedinlife #lifelessonslearned #truths #thingsiwanttoremember #powerfulwords #powerfulthoughts #ceoofmylife #ownwhoyouare #getoutofyourownway #quotesilove #friendlyreminder #gentlereminder #thoughtsoftheday](https://www.merakilane.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/reel/C__d_bOvJFM/) 
-
-[i wish i’d learned number 3 sooner. ❤️ #pow ![i wish i’d learned number 3 sooner. ❤️
-#powerfulwords #powerfulthoughts #spilledthoughts #friendlyreminder #thingsiwanttoremember #thoughtsoftheday #wordstoremember #lifelessonslearned #lessonslearnedinlife #ownwhoyouare #ceoofmylife #gentlereminder](https://www.merakilane.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/reel/C_3A13euN2N/) 
-
-[hahahahaha help 🛍 #raisingdaughters #momtruth ![hahahahaha help 🛍
-#raisingdaughters #momtruth #momtruths #realmom #realmoms #trends #funnymom #funnymoms #momhumor #makemelaugh #imfunny #relatable #relatablehumor #relatablememe #relatablereel #relatablereels #torontomom #canadianmom](https://www.merakilane.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/reel/C_0fIJ8OO_X/) 
-
-[🫶🏻 🎥 @wildmediaco 📸 @thisismaxpower ![🫶🏻
-🎥 @wildmediaco
-📸 @thisismaxpower
-#womenover40 #40andfabulous #40andfit #unbothered #unapologetically #unapologetic #perimenopause #menopause #adulting101 #wordstoremember #lessonslearned #lessonslearnedinlife #lifelessonslearned #lifelessons101 #mindsetquotes](https://www.merakilane.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/reel/C_yCiu6uI6V/) 
 
 COPYRIGHT © 2022 MERAKI LANE INC. · [Site Credit](https://lennoxcreative.co/)
 
