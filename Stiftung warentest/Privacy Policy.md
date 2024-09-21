@@ -818,12 +818,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Teekannen im Test: Pannen bei den Kannen](https://www.test.de/Teekannen-im-Test-Pannen-bei-den-Kannen-5953366-0/ "Teekannen im Test - Pannen bei den Kannen")
-* [Das Fonds­rating von Finanztest: Mit vier neuen Anla­gestrategien zum Erfolg](https://www.test.de/Finanztest-Neue-Fondsbewertung-Neue-Anlagestrategien-6001191-0/ "Das Fondsrating von Finanztest - Mit vier neuen Anlagestrategien zum Erfolg")
-* [Herren-Unterhosen im Test: Große Marken enttäuschen](https://www.test.de/Herren-Unterhosen-im-Test-Grosse-Marken-enttaeuschen-5967320-0/ "Herren-Unterhosen im Test - Große Marken enttäuschen")
-* [Lebens­mittel­preise im Check: Große Preis­unterschiede, riesiges Spar­potential](https://www.test.de/Lebensmittelpreise-im-Check-Sparpotenzial-bis-zu-400-Prozent-6000916-0/ "Lebensmittelpreise im Check - Große Preisunterschiede, riesiges Sparpotential")
-* [Diver­sifikation bei der Geld­anlage: Streuung nutzt mehr als man denkt](https://www.test.de/Diversifikation-bei-der-Geldanlage-Streuung-nutzt-mehr-als-man-denkt-6123045-0/ "Diversifikation bei der Geldanlage - Streuung nutzt mehr als man denkt")
-* [Warn­liste: Unechte Vermögens­verwalter](https://www.test.de/Warnliste-Unechte-Vermoegensverwalter-5981755-0/ "Warnliste - Unechte Vermögensverwalter")
+* [Verpackungs­ärger: Toblerone](https://www.test.de/Verpackungsaerger-Toblerone-6105751-0/ "Verpackungsärger - Toblerone")
+* [Einweggeschirr: Papp­teller oft mit Schad­stoffen belastet](https://www.test.de/Einweggeschirr-Pappteller-oft-mit-Schadstoffen-belastet-6123560-0/ "Einweggeschirr - Pappteller oft mit Schadstoffen belastet")
+* [Energie sparen: Die Stromsparbox ist nutzlos](https://www.test.de/test-warnt-Nutzlose-Stromsparbox-5956815-0/ "Energie sparen - Die Stromsparbox ist nutzlos")
+* [Fest­geld: Zweifelhafte Zins­angebote](https://www.test.de/Festgeld-Zweifelhafte-Zinsangebote-5964123-0/ "Festgeld - Zweifelhafte Zinsangebote")
+* [Lang­zeit­folgen von Covid-19: Riech­training wirkt bei Geruchs­verlust](https://www.test.de/Langzeitfolgen-von-Covid-19-Riechtraining-wirkt-bei-Geruchsverlust-6066247-0/ "Langzeitfolgen von Covid-19 - Riechtraining wirkt bei Geruchsverlust")
+* [Trade Republic Tages­geld Giro­konto: Top-Zinsen, aber schlechtere Bedingungen](https://www.test.de/Tagesgeld-Debitkarte-Girokonto-Trade-Republic-hohe-Zinsen-6084201-0/ "Trade Republic Tagesgeld Girokonto - Top-Zinsen, aber schlechtere Bedingungen")
 
 Fußbereich
 
@@ -3863,12 +3863,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Teekannen im Test: Pannen bei den Kannen](https://www.test.de/Teekannen-im-Test-Pannen-bei-den-Kannen-5953366-0/ "Teekannen im Test - Pannen bei den Kannen")
-* [Das Fonds­rating von Finanztest: Mit vier neuen Anla­gestrategien zum Erfolg](https://www.test.de/Finanztest-Neue-Fondsbewertung-Neue-Anlagestrategien-6001191-0/ "Das Fondsrating von Finanztest - Mit vier neuen Anlagestrategien zum Erfolg")
-* [Herren-Unterhosen im Test: Große Marken enttäuschen](https://www.test.de/Herren-Unterhosen-im-Test-Grosse-Marken-enttaeuschen-5967320-0/ "Herren-Unterhosen im Test - Große Marken enttäuschen")
-* [Lebens­mittel­preise im Check: Große Preis­unterschiede, riesiges Spar­potential](https://www.test.de/Lebensmittelpreise-im-Check-Sparpotenzial-bis-zu-400-Prozent-6000916-0/ "Lebensmittelpreise im Check - Große Preisunterschiede, riesiges Sparpotential")
-* [Diver­sifikation bei der Geld­anlage: Streuung nutzt mehr als man denkt](https://www.test.de/Diversifikation-bei-der-Geldanlage-Streuung-nutzt-mehr-als-man-denkt-6123045-0/ "Diversifikation bei der Geldanlage - Streuung nutzt mehr als man denkt")
-* [Warn­liste: Unechte Vermögens­verwalter](https://www.test.de/Warnliste-Unechte-Vermoegensverwalter-5981755-0/ "Warnliste - Unechte Vermögensverwalter")
+* [Verpackungs­ärger: Toblerone](https://www.test.de/Verpackungsaerger-Toblerone-6105751-0/ "Verpackungsärger - Toblerone")
+* [Einweggeschirr: Papp­teller oft mit Schad­stoffen belastet](https://www.test.de/Einweggeschirr-Pappteller-oft-mit-Schadstoffen-belastet-6123560-0/ "Einweggeschirr - Pappteller oft mit Schadstoffen belastet")
+* [Energie sparen: Die Stromsparbox ist nutzlos](https://www.test.de/test-warnt-Nutzlose-Stromsparbox-5956815-0/ "Energie sparen - Die Stromsparbox ist nutzlos")
+* [Fest­geld: Zweifelhafte Zins­angebote](https://www.test.de/Festgeld-Zweifelhafte-Zinsangebote-5964123-0/ "Festgeld - Zweifelhafte Zinsangebote")
+* [Lang­zeit­folgen von Covid-19: Riech­training wirkt bei Geruchs­verlust](https://www.test.de/Langzeitfolgen-von-Covid-19-Riechtraining-wirkt-bei-Geruchsverlust-6066247-0/ "Langzeitfolgen von Covid-19 - Riechtraining wirkt bei Geruchsverlust")
+* [Trade Republic Tages­geld Giro­konto: Top-Zinsen, aber schlechtere Bedingungen](https://www.test.de/Tagesgeld-Debitkarte-Girokonto-Trade-Republic-hohe-Zinsen-6084201-0/ "Trade Republic Tagesgeld Girokonto - Top-Zinsen, aber schlechtere Bedingungen")
 
 Weitere spannende Themen
 
@@ -3883,12 +3883,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Teekannen im Test: Pannen bei den Kannen](https://www.test.de/Teekannen-im-Test-Pannen-bei-den-Kannen-5953366-0/ "Teekannen im Test - Pannen bei den Kannen")
-* [Das Fonds­rating von Finanztest: Mit vier neuen Anla­gestrategien zum Erfolg](https://www.test.de/Finanztest-Neue-Fondsbewertung-Neue-Anlagestrategien-6001191-0/ "Das Fondsrating von Finanztest - Mit vier neuen Anlagestrategien zum Erfolg")
-* [Herren-Unterhosen im Test: Große Marken enttäuschen](https://www.test.de/Herren-Unterhosen-im-Test-Grosse-Marken-enttaeuschen-5967320-0/ "Herren-Unterhosen im Test - Große Marken enttäuschen")
-* [Lebens­mittel­preise im Check: Große Preis­unterschiede, riesiges Spar­potential](https://www.test.de/Lebensmittelpreise-im-Check-Sparpotenzial-bis-zu-400-Prozent-6000916-0/ "Lebensmittelpreise im Check - Große Preisunterschiede, riesiges Sparpotential")
-* [Diver­sifikation bei der Geld­anlage: Streuung nutzt mehr als man denkt](https://www.test.de/Diversifikation-bei-der-Geldanlage-Streuung-nutzt-mehr-als-man-denkt-6123045-0/ "Diversifikation bei der Geldanlage - Streuung nutzt mehr als man denkt")
-* [Warn­liste: Unechte Vermögens­verwalter](https://www.test.de/Warnliste-Unechte-Vermoegensverwalter-5981755-0/ "Warnliste - Unechte Vermögensverwalter")
+* [Verpackungs­ärger: Toblerone](https://www.test.de/Verpackungsaerger-Toblerone-6105751-0/ "Verpackungsärger - Toblerone")
+* [Einweggeschirr: Papp­teller oft mit Schad­stoffen belastet](https://www.test.de/Einweggeschirr-Pappteller-oft-mit-Schadstoffen-belastet-6123560-0/ "Einweggeschirr - Pappteller oft mit Schadstoffen belastet")
+* [Energie sparen: Die Stromsparbox ist nutzlos](https://www.test.de/test-warnt-Nutzlose-Stromsparbox-5956815-0/ "Energie sparen - Die Stromsparbox ist nutzlos")
+* [Fest­geld: Zweifelhafte Zins­angebote](https://www.test.de/Festgeld-Zweifelhafte-Zinsangebote-5964123-0/ "Festgeld - Zweifelhafte Zinsangebote")
+* [Lang­zeit­folgen von Covid-19: Riech­training wirkt bei Geruchs­verlust](https://www.test.de/Langzeitfolgen-von-Covid-19-Riechtraining-wirkt-bei-Geruchsverlust-6066247-0/ "Langzeitfolgen von Covid-19 - Riechtraining wirkt bei Geruchsverlust")
+* [Trade Republic Tages­geld Giro­konto: Top-Zinsen, aber schlechtere Bedingungen](https://www.test.de/Tagesgeld-Debitkarte-Girokonto-Trade-Republic-hohe-Zinsen-6084201-0/ "Trade Republic Tagesgeld Girokonto - Top-Zinsen, aber schlechtere Bedingungen")
 
 Neueste Tests
 
@@ -3901,12 +3901,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Teekannen im Test: Pannen bei den Kannen](https://www.test.de/Teekannen-im-Test-Pannen-bei-den-Kannen-5953366-0/ "Teekannen im Test - Pannen bei den Kannen")
-* [Das Fonds­rating von Finanztest: Mit vier neuen Anla­gestrategien zum Erfolg](https://www.test.de/Finanztest-Neue-Fondsbewertung-Neue-Anlagestrategien-6001191-0/ "Das Fondsrating von Finanztest - Mit vier neuen Anlagestrategien zum Erfolg")
-* [Herren-Unterhosen im Test: Große Marken enttäuschen](https://www.test.de/Herren-Unterhosen-im-Test-Grosse-Marken-enttaeuschen-5967320-0/ "Herren-Unterhosen im Test - Große Marken enttäuschen")
-* [Lebens­mittel­preise im Check: Große Preis­unterschiede, riesiges Spar­potential](https://www.test.de/Lebensmittelpreise-im-Check-Sparpotenzial-bis-zu-400-Prozent-6000916-0/ "Lebensmittelpreise im Check - Große Preisunterschiede, riesiges Sparpotential")
-* [Diver­sifikation bei der Geld­anlage: Streuung nutzt mehr als man denkt](https://www.test.de/Diversifikation-bei-der-Geldanlage-Streuung-nutzt-mehr-als-man-denkt-6123045-0/ "Diversifikation bei der Geldanlage - Streuung nutzt mehr als man denkt")
-* [Warn­liste: Unechte Vermögens­verwalter](https://www.test.de/Warnliste-Unechte-Vermoegensverwalter-5981755-0/ "Warnliste - Unechte Vermögensverwalter")
+* [Verpackungs­ärger: Toblerone](https://www.test.de/Verpackungsaerger-Toblerone-6105751-0/ "Verpackungsärger - Toblerone")
+* [Einweggeschirr: Papp­teller oft mit Schad­stoffen belastet](https://www.test.de/Einweggeschirr-Pappteller-oft-mit-Schadstoffen-belastet-6123560-0/ "Einweggeschirr - Pappteller oft mit Schadstoffen belastet")
+* [Energie sparen: Die Stromsparbox ist nutzlos](https://www.test.de/test-warnt-Nutzlose-Stromsparbox-5956815-0/ "Energie sparen - Die Stromsparbox ist nutzlos")
+* [Fest­geld: Zweifelhafte Zins­angebote](https://www.test.de/Festgeld-Zweifelhafte-Zinsangebote-5964123-0/ "Festgeld - Zweifelhafte Zinsangebote")
+* [Lang­zeit­folgen von Covid-19: Riech­training wirkt bei Geruchs­verlust](https://www.test.de/Langzeitfolgen-von-Covid-19-Riechtraining-wirkt-bei-Geruchsverlust-6066247-0/ "Langzeitfolgen von Covid-19 - Riechtraining wirkt bei Geruchsverlust")
+* [Trade Republic Tages­geld Giro­konto: Top-Zinsen, aber schlechtere Bedingungen](https://www.test.de/Tagesgeld-Debitkarte-Girokonto-Trade-Republic-hohe-Zinsen-6084201-0/ "Trade Republic Tagesgeld Girokonto - Top-Zinsen, aber schlechtere Bedingungen")
 
 Service Stiftung Warentest
 
