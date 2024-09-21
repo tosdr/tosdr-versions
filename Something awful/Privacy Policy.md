@@ -205,28 +205,30 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [04-02-2007](https://www.somethingawful.com/forum-fridays/ff04-02-2007/1/)
-* [Game and Movie Hybrids 2 (Part 1 of 2)](https://www.somethingawful.com/photoshop-phriday/game-movie-hybrids-2/1/)
-* [Internet Discount Barn Spring Fire Sale!](https://www.somethingawful.com/news/internet-discount-barn3/)
-* [Who Wants To Be A Suphero? and Teens-4-Christ](https://www.somethingawful.com/weekend-web/superheroes-chrstian-teens/1/)
-* [Starring Roles for Minor Characters!](https://www.somethingawful.com/photoshop-phriday/minor-characters-star/1/)
+* [DEAR FURRIES: WE WERE WRONG](https://www.somethingawful.com/news/bolgy-wolgy/)
+* [Adult Themes In Children's Drawings, Part 1](https://www.somethingawful.com/comedy-goldmine/adult-themes-childrens/1/)
+* [DFK Forum and Rate My Melons](https://www.somethingawful.com/weekend-web/dprk-ratemymelons/1/)
+* [Celebrity Speakers Cut from the 2016 Republican National Convention](https://www.somethingawful.com/news/rnc-celebrity-guests/)
+* [Twisted Children's Books](https://www.somethingawful.com/comedy-goldmine/twisted-childrens-books/1/)
 
 ### Popular Threads
 
-* ![](https://fi.somethingawful.com/images/shitpost.gif) [What's the fucking deal with Taxidermising things](http://forums.somethingawful.com/showthread.php?threadid=4070863 "What's the fucking deal with Taxidermising things")
-* ![](https://fi.somethingawful.com/images/shitpost.gif) [New York Times Website issue](http://forums.somethingawful.com/showthread.php?threadid=4070873 "New York Times Website issue")
-* ![](https://fi.somethingawful.com/forums/posticons/icons-08/goonmeet.png) [Have there been any SA-famous goons?](http://forums.somethingawful.com/showthread.php?threadid=4070867 "Have there been any SA-famous goons?")
+* ![](https://fi.somethingawful.com/forums/posticons/byob-explosion.gif) [thing I never "got" about the movie Trains, Planes and Automobiles spoilers](http://forums.somethingawful.com/showthread.php?threadid=4070893 "thing I never "got" about the movie Trains, Planes and Automobiles spoilers")
 * ![](https://fi.somethingawful.com/forums/posticons/icons-08/question.png) [Puppy power!](http://forums.somethingawful.com/showthread.php?threadid=4070869 "Puppy power!")
-* ![](https://fi.somethingawful.com/forums/posticons/icons-08/music.png) [You ever hear a song and love it except one part that fucking sucks](http://forums.somethingawful.com/showthread.php?threadid=4070864 "You ever hear a song and love it except one part that fucking sucks")
 * ![](https://fi.somethingawful.com/forums/posticons/icons-08/politics.png) [whats the least cool big city in the world](http://forums.somethingawful.com/showthread.php?threadid=4070877 "whats the least cool big city in the world")
+* ![](https://fi.somethingawful.com/forums/posticons/icons-08/goonmeet.png) [Have there been any SA-famous goons?](http://forums.somethingawful.com/showthread.php?threadid=4070867 "Have there been any SA-famous goons?")
+* ![](https://fi.somethingawful.com/images/shitpost.gif) [New York Times Website issue](http://forums.somethingawful.com/showthread.php?threadid=4070873 "New York Times Website issue")
+* ![](https://fi.somethingawful.com/forums/posticons/icons-08/music.png) [You ever hear a song and love it except one part that fucking sucks](http://forums.somethingawful.com/showthread.php?threadid=4070864 "You ever hear a song and love it except one part that fucking sucks")
+* ![](https://fi.somethingawful.com/forums/posticons/samartd-organs.gif) [holy shit its so fuckin hard to find goatse](http://forums.somethingawful.com/showthread.php?threadid=4070909 "holy shit its so fuckin hard to find goatse")
+* ![](https://fi.somethingawful.com/images/shitpost.gif) [What's the fucking deal with Taxidermising things](http://forums.somethingawful.com/showthread.php?threadid=4070863 "What's the fucking deal with Taxidermising things")
 
 ### Random Articles
 
-* [Greasnin's Guide to Going Greek](https://www.somethingawful.com/news/greasnins-guide-going/)
-* [Phelps-Chartered](https://www.somethingawful.com/awful-links/awful-link-3862/)
-* [The Sloth: Nature's Lion](https://www.somethingawful.com/news/sloth-best-animal/)
-* [Frederick Oxbow Begs Respectfully](https://www.somethingawful.com/news/frederick-oxbow-begs/1/)
-* [I Hate You Page 113](https://www.somethingawful.com/cliff-yablonski/i-hate-you-113/)
+* [Welcome to Lisa's Webpage](https://www.somethingawful.com/awful-links/awful-link-865/)
+* [The Milk Puking Headquarters](https://www.somethingawful.com/awful-links/awful-link-718/)
+* [Interview: Mike Nelson](https://www.somethingawful.com/feature-articles/interview-mike-nelson/)
+* [Dostoevsky's Copyright Crime & Punishment](https://www.somethingawful.com/news/dostoevsky-ip-riaa/)
+* [The Top 17 Worst PC Games Ever (Again)!](https://www.somethingawful.com/news/worst-games-ever/1/)
 
 [Random!](https://www.somethingawful.com/random/)
 
