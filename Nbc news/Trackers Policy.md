@@ -63,7 +63,7 @@ Last Updated: September 18, 2024
 
 English
 
-[![Printer Friendly, PDF & Email](//cdn.printfriendly.com/buttons/printfriendly-pdf-button-nobg.png)](https://www.printfriendly.com/print?url=https://www.nbcuniversal.com/taxonomy/term/206?intake=Telemundo_31 "Printer Friendly, PDF & Email")
+[![Printer Friendly, PDF & Email](//cdn.printfriendly.com/buttons/printfriendly-pdf-button-nobg.png)](https://www.printfriendly.com/print?url=https://www.nbcuniversal.com/taxonomy/term/132?_gl=1%2A13d31au%2A_ga%2AMjAxNzQ5MTAyNS4xNzI2Njg0OTQ3%2A_ga_9L8SPCF27R%2AMTcyNjkyNzMwMy4yLjEuMTcyNjkyOTAxMi4yMy4wLjA. "Printer Friendly, PDF & Email")
 
 Cookie Notice
 =============
