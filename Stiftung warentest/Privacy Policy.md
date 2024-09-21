@@ -818,12 +818,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Einkaufst­rolleys im Test: Den Einkauf im Griff](https://www.test.de/Einkaufstrolleys-im-Test-Den-Einkauf-im-Griff-6107080-0/ "Einkaufstrolleys im Test - Den Einkauf im Griff")
-* [Dark Patterns: Sieben fiese Tricks: So werden Sie im Internet manipuliert](https://www.test.de/dark-patterns-manipulation-im-internet-6141853-0/ "Dark Patterns - Sieben fiese Tricks: So werden Sie im Internet manipuliert")
-* [Feste Tages­creme von Foamie im Test: Spart Müll – aber pflegt sie auch?](https://www.test.de/Feste-Tagescreme-mit-UV-Schutz-von-Foamie-im-Test-Spart-Muell-aber-pflegt-sie-auch-6067707-0/ "Feste Tagescreme von Foamie im Test - Spart Müll – aber pflegt sie auch?")
-* [Vermögens­aufbau: 5 Börsen­weisheiten im Check](https://www.test.de/Vermoegensaufbau-5-Boersenweisheiten-im-Check-5930197-0/ "Vermögensaufbau - 5 Börsenweisheiten im Check")
-* [Schmierfilm auf Kunststoffen: So werden klebrige Oberflächen wieder glatt](https://www.test.de/Schmierfilm-auf-Kunststoffen-So-werden-klebrige-Oberflaechen-wieder-glatt-5952486-0/ "Schmierfilm auf Kunststoffen - So werden klebrige Oberflächen wieder glatt")
-* [Fest­geld: Deutsche Handels­bank abge­wickelt](https://www.test.de/Festgeld-Deutsche-Handelsbank-abgewickelt-6088692-0/ "Festgeld - Deutsche Handelsbank abgewickelt")
+* [Teekannen im Test: Pannen bei den Kannen](https://www.test.de/Teekannen-im-Test-Pannen-bei-den-Kannen-5953366-0/ "Teekannen im Test - Pannen bei den Kannen")
+* [Das Fonds­rating von Finanztest: Mit vier neuen Anla­gestrategien zum Erfolg](https://www.test.de/Finanztest-Neue-Fondsbewertung-Neue-Anlagestrategien-6001191-0/ "Das Fondsrating von Finanztest - Mit vier neuen Anlagestrategien zum Erfolg")
+* [Herren-Unterhosen im Test: Große Marken enttäuschen](https://www.test.de/Herren-Unterhosen-im-Test-Grosse-Marken-enttaeuschen-5967320-0/ "Herren-Unterhosen im Test - Große Marken enttäuschen")
+* [Lebens­mittel­preise im Check: Große Preis­unterschiede, riesiges Spar­potential](https://www.test.de/Lebensmittelpreise-im-Check-Sparpotenzial-bis-zu-400-Prozent-6000916-0/ "Lebensmittelpreise im Check - Große Preisunterschiede, riesiges Sparpotential")
+* [Diver­sifikation bei der Geld­anlage: Streuung nutzt mehr als man denkt](https://www.test.de/Diversifikation-bei-der-Geldanlage-Streuung-nutzt-mehr-als-man-denkt-6123045-0/ "Diversifikation bei der Geldanlage - Streuung nutzt mehr als man denkt")
+* [Warn­liste: Unechte Vermögens­verwalter](https://www.test.de/Warnliste-Unechte-Vermoegensverwalter-5981755-0/ "Warnliste - Unechte Vermögensverwalter")
 
 Fußbereich
 
@@ -3863,12 +3863,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Einkaufst­rolleys im Test: Den Einkauf im Griff](https://www.test.de/Einkaufstrolleys-im-Test-Den-Einkauf-im-Griff-6107080-0/ "Einkaufstrolleys im Test - Den Einkauf im Griff")
-* [Dark Patterns: Sieben fiese Tricks: So werden Sie im Internet manipuliert](https://www.test.de/dark-patterns-manipulation-im-internet-6141853-0/ "Dark Patterns - Sieben fiese Tricks: So werden Sie im Internet manipuliert")
-* [Feste Tages­creme von Foamie im Test: Spart Müll – aber pflegt sie auch?](https://www.test.de/Feste-Tagescreme-mit-UV-Schutz-von-Foamie-im-Test-Spart-Muell-aber-pflegt-sie-auch-6067707-0/ "Feste Tagescreme von Foamie im Test - Spart Müll – aber pflegt sie auch?")
-* [Vermögens­aufbau: 5 Börsen­weisheiten im Check](https://www.test.de/Vermoegensaufbau-5-Boersenweisheiten-im-Check-5930197-0/ "Vermögensaufbau - 5 Börsenweisheiten im Check")
-* [Schmierfilm auf Kunststoffen: So werden klebrige Oberflächen wieder glatt](https://www.test.de/Schmierfilm-auf-Kunststoffen-So-werden-klebrige-Oberflaechen-wieder-glatt-5952486-0/ "Schmierfilm auf Kunststoffen - So werden klebrige Oberflächen wieder glatt")
-* [Fest­geld: Deutsche Handels­bank abge­wickelt](https://www.test.de/Festgeld-Deutsche-Handelsbank-abgewickelt-6088692-0/ "Festgeld - Deutsche Handelsbank abgewickelt")
+* [Teekannen im Test: Pannen bei den Kannen](https://www.test.de/Teekannen-im-Test-Pannen-bei-den-Kannen-5953366-0/ "Teekannen im Test - Pannen bei den Kannen")
+* [Das Fonds­rating von Finanztest: Mit vier neuen Anla­gestrategien zum Erfolg](https://www.test.de/Finanztest-Neue-Fondsbewertung-Neue-Anlagestrategien-6001191-0/ "Das Fondsrating von Finanztest - Mit vier neuen Anlagestrategien zum Erfolg")
+* [Herren-Unterhosen im Test: Große Marken enttäuschen](https://www.test.de/Herren-Unterhosen-im-Test-Grosse-Marken-enttaeuschen-5967320-0/ "Herren-Unterhosen im Test - Große Marken enttäuschen")
+* [Lebens­mittel­preise im Check: Große Preis­unterschiede, riesiges Spar­potential](https://www.test.de/Lebensmittelpreise-im-Check-Sparpotenzial-bis-zu-400-Prozent-6000916-0/ "Lebensmittelpreise im Check - Große Preisunterschiede, riesiges Sparpotential")
+* [Diver­sifikation bei der Geld­anlage: Streuung nutzt mehr als man denkt](https://www.test.de/Diversifikation-bei-der-Geldanlage-Streuung-nutzt-mehr-als-man-denkt-6123045-0/ "Diversifikation bei der Geldanlage - Streuung nutzt mehr als man denkt")
+* [Warn­liste: Unechte Vermögens­verwalter](https://www.test.de/Warnliste-Unechte-Vermoegensverwalter-5981755-0/ "Warnliste - Unechte Vermögensverwalter")
 
 Weitere spannende Themen
 
@@ -3883,12 +3883,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Einkaufst­rolleys im Test: Den Einkauf im Griff](https://www.test.de/Einkaufstrolleys-im-Test-Den-Einkauf-im-Griff-6107080-0/ "Einkaufstrolleys im Test - Den Einkauf im Griff")
-* [Dark Patterns: Sieben fiese Tricks: So werden Sie im Internet manipuliert](https://www.test.de/dark-patterns-manipulation-im-internet-6141853-0/ "Dark Patterns - Sieben fiese Tricks: So werden Sie im Internet manipuliert")
-* [Feste Tages­creme von Foamie im Test: Spart Müll – aber pflegt sie auch?](https://www.test.de/Feste-Tagescreme-mit-UV-Schutz-von-Foamie-im-Test-Spart-Muell-aber-pflegt-sie-auch-6067707-0/ "Feste Tagescreme von Foamie im Test - Spart Müll – aber pflegt sie auch?")
-* [Vermögens­aufbau: 5 Börsen­weisheiten im Check](https://www.test.de/Vermoegensaufbau-5-Boersenweisheiten-im-Check-5930197-0/ "Vermögensaufbau - 5 Börsenweisheiten im Check")
-* [Schmierfilm auf Kunststoffen: So werden klebrige Oberflächen wieder glatt](https://www.test.de/Schmierfilm-auf-Kunststoffen-So-werden-klebrige-Oberflaechen-wieder-glatt-5952486-0/ "Schmierfilm auf Kunststoffen - So werden klebrige Oberflächen wieder glatt")
-* [Fest­geld: Deutsche Handels­bank abge­wickelt](https://www.test.de/Festgeld-Deutsche-Handelsbank-abgewickelt-6088692-0/ "Festgeld - Deutsche Handelsbank abgewickelt")
+* [Teekannen im Test: Pannen bei den Kannen](https://www.test.de/Teekannen-im-Test-Pannen-bei-den-Kannen-5953366-0/ "Teekannen im Test - Pannen bei den Kannen")
+* [Das Fonds­rating von Finanztest: Mit vier neuen Anla­gestrategien zum Erfolg](https://www.test.de/Finanztest-Neue-Fondsbewertung-Neue-Anlagestrategien-6001191-0/ "Das Fondsrating von Finanztest - Mit vier neuen Anlagestrategien zum Erfolg")
+* [Herren-Unterhosen im Test: Große Marken enttäuschen](https://www.test.de/Herren-Unterhosen-im-Test-Grosse-Marken-enttaeuschen-5967320-0/ "Herren-Unterhosen im Test - Große Marken enttäuschen")
+* [Lebens­mittel­preise im Check: Große Preis­unterschiede, riesiges Spar­potential](https://www.test.de/Lebensmittelpreise-im-Check-Sparpotenzial-bis-zu-400-Prozent-6000916-0/ "Lebensmittelpreise im Check - Große Preisunterschiede, riesiges Sparpotential")
+* [Diver­sifikation bei der Geld­anlage: Streuung nutzt mehr als man denkt](https://www.test.de/Diversifikation-bei-der-Geldanlage-Streuung-nutzt-mehr-als-man-denkt-6123045-0/ "Diversifikation bei der Geldanlage - Streuung nutzt mehr als man denkt")
+* [Warn­liste: Unechte Vermögens­verwalter](https://www.test.de/Warnliste-Unechte-Vermoegensverwalter-5981755-0/ "Warnliste - Unechte Vermögensverwalter")
 
 Neueste Tests
 
@@ -3901,12 +3901,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Einkaufst­rolleys im Test: Den Einkauf im Griff](https://www.test.de/Einkaufstrolleys-im-Test-Den-Einkauf-im-Griff-6107080-0/ "Einkaufstrolleys im Test - Den Einkauf im Griff")
-* [Dark Patterns: Sieben fiese Tricks: So werden Sie im Internet manipuliert](https://www.test.de/dark-patterns-manipulation-im-internet-6141853-0/ "Dark Patterns - Sieben fiese Tricks: So werden Sie im Internet manipuliert")
-* [Feste Tages­creme von Foamie im Test: Spart Müll – aber pflegt sie auch?](https://www.test.de/Feste-Tagescreme-mit-UV-Schutz-von-Foamie-im-Test-Spart-Muell-aber-pflegt-sie-auch-6067707-0/ "Feste Tagescreme von Foamie im Test - Spart Müll – aber pflegt sie auch?")
-* [Vermögens­aufbau: 5 Börsen­weisheiten im Check](https://www.test.de/Vermoegensaufbau-5-Boersenweisheiten-im-Check-5930197-0/ "Vermögensaufbau - 5 Börsenweisheiten im Check")
-* [Schmierfilm auf Kunststoffen: So werden klebrige Oberflächen wieder glatt](https://www.test.de/Schmierfilm-auf-Kunststoffen-So-werden-klebrige-Oberflaechen-wieder-glatt-5952486-0/ "Schmierfilm auf Kunststoffen - So werden klebrige Oberflächen wieder glatt")
-* [Fest­geld: Deutsche Handels­bank abge­wickelt](https://www.test.de/Festgeld-Deutsche-Handelsbank-abgewickelt-6088692-0/ "Festgeld - Deutsche Handelsbank abgewickelt")
+* [Teekannen im Test: Pannen bei den Kannen](https://www.test.de/Teekannen-im-Test-Pannen-bei-den-Kannen-5953366-0/ "Teekannen im Test - Pannen bei den Kannen")
+* [Das Fonds­rating von Finanztest: Mit vier neuen Anla­gestrategien zum Erfolg](https://www.test.de/Finanztest-Neue-Fondsbewertung-Neue-Anlagestrategien-6001191-0/ "Das Fondsrating von Finanztest - Mit vier neuen Anlagestrategien zum Erfolg")
+* [Herren-Unterhosen im Test: Große Marken enttäuschen](https://www.test.de/Herren-Unterhosen-im-Test-Grosse-Marken-enttaeuschen-5967320-0/ "Herren-Unterhosen im Test - Große Marken enttäuschen")
+* [Lebens­mittel­preise im Check: Große Preis­unterschiede, riesiges Spar­potential](https://www.test.de/Lebensmittelpreise-im-Check-Sparpotenzial-bis-zu-400-Prozent-6000916-0/ "Lebensmittelpreise im Check - Große Preisunterschiede, riesiges Sparpotential")
+* [Diver­sifikation bei der Geld­anlage: Streuung nutzt mehr als man denkt](https://www.test.de/Diversifikation-bei-der-Geldanlage-Streuung-nutzt-mehr-als-man-denkt-6123045-0/ "Diversifikation bei der Geldanlage - Streuung nutzt mehr als man denkt")
+* [Warn­liste: Unechte Vermögens­verwalter](https://www.test.de/Warnliste-Unechte-Vermoegensverwalter-5981755-0/ "Warnliste - Unechte Vermögensverwalter")
 
 Service Stiftung Warentest
 
