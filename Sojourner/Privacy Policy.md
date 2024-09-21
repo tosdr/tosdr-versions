@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-4b582fbc5b1936fd79b5627bbd3cca6a
+9e381a870797fb611eeb29d0c7ef6358
 
 [](# "Expand for more options")[](# "Search")
 
@@ -171,11 +171,11 @@ Sojourner may revise this policy as needed by updating this posting.
 
 ### Featured Product
 
-[![EB24 bead](https://www.sojourner.biz/images/cache/EB24gr.200.jpg)](https://www.sojourner.biz/beads/metal/eb24-bead.html "EB24 bead")
+[![Rectangular coral floral box clasp](https://www.sojourner.biz/images/cache/SKU0492front.200.jpg)](https://www.sojourner.biz/clasps/glass/rectangular-coral-floral-box-clasp.html "Rectangular coral floral box clasp")
 
-#### [EB24 bead](https://www.sojourner.biz/beads/metal/eb24-bead.html "EB24 bead")
+#### [Rectangular coral floral box clasp](https://www.sojourner.biz/clasps/glass/rectangular-coral-floral-box-clasp.html "Rectangular coral floral box clasp")
 
-$3.45
+$23.50
 
 ### Best Sellers
 
