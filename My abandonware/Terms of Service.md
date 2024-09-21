@@ -85,11 +85,11 @@ Top downloads
 
 Latest releases
 
-* [Moto Frenzy](https://www.myabandonware.com/game/moto-frenzy-sfg)
-* [Monster Bash](https://www.myabandonware.com/game/monster-bash-sff)
-* [Midnight Run: Road Fighter 2](https://www.myabandonware.com/game/midnight-run-road-fighter-2-sfe)
-* [Midnight Landing](https://www.myabandonware.com/game/midnight-landing-sfd)
-* [Mini Golf](https://www.myabandonware.com/game/mini-golf-oa6)
+* [101 Kid's Brainy Games](https://www.myabandonware.com/game/101-kid-s-brainy-games-rzr)
+* [Invader's Revenge](https://www.myabandonware.com/game/invader-s-revenge-sfw)
+* [M.A.C.H. 3](https://www.myabandonware.com/game/m-a-c-h-3-sfv)
+* [Mace: The Dark Age](https://www.myabandonware.com/game/mace-the-dark-age-sfu)
+* [Lazer Command](https://www.myabandonware.com/game/lazer-command-sft)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [Facebook](https://www.facebook.com/myabandonware) or [X (Twitter)](https://x.com/myabandonware)
