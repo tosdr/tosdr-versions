@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/politiek/wef-schwab/kabinet-rutte-bevestiging-juridische-afspraken-met-wef/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/overige/het-is-nu-tijd/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
