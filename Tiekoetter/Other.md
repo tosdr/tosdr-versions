@@ -2,14 +2,14 @@ To add your instance below please open an issue on [the documentation repository
 
 | [name](https://invidious.tiekoetter.com/?sort_by=name) | [version](https://invidious.tiekoetter.com/?sort_by=version) | [type](https://invidious.tiekoetter.com/?sort_by=type) | [users](https://invidious.tiekoetter.com/?sort_by=users) | [signup](https://invidious.tiekoetter.com/?sort_by=signup) | [location](https://invidious.tiekoetter.com/?sort_by=location) | [healthUptime / Downtime displayed in percentage](https://invidious.tiekoetter.com/?sort_by=health) | [cors](https://invidious.tiekoetter.com/?sort_by=cors) | [api](https://invidious.tiekoetter.com/?sort_by=api) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| [inv.tux.pizza](https://inv.tux.pizza/) | 2024.09.20-a021b93 | https | 6584 | ✔   | 🇺🇸 US | [94.366](https://updown.io/kvzi) | ✔   | ✔   |
-| [invidious.nerdvpn.de](https://invidious.nerdvpn.de/) | 2024.09.13-4782a670 | https | 3624 | ✔   | 🇺🇦 UA | [96.549](https://updown.io/oo85) | ✔   | ✔   |
-| [invidious.jing.rocks](https://invidious.jing.rocks/) | 2024.09.20-578f425a | https | 3240 | ✔   | 🇯🇵 JP | [89.053](https://updown.io/cfds) | ✔   | ✔   |
-| [invidious.perennialte.ch](https://invidious.perennialte.ch/) | 2024.09.20-a021b93 | https | 2522 | ✔   | 🇦🇺 AU | [99.554](https://updown.io/8uie) | ✔   | ✔   |
-| [invidious.reallyaweso.me](https://invidious.reallyaweso.me/) | 2024.09.20-a021b93 | https | 2132 | ✔   | 🇦🇹 AT | [98.695](https://updown.io/nzff) | ✔   | ✔   |
-| [invidious.yourdevice.ch](https://invidious.yourdevice.ch/) | 2024.09.20-a021b93 | https | 523 | ✔   | 🇩🇪 DE | [88.446](https://updown.io/kq8n) | ✔   | ✔   |
+| [inv.tux.pizza](https://inv.tux.pizza/) | 2024.09.20-a021b93 | https | 6593 | ✔   | 🇺🇸 US | [94.366](https://updown.io/kvzi) | ✔   | ✔   |
+| [iv.ggtyler.dev](https://iv.ggtyler.dev/) | 2024.09.20-c77a62e7 | https | 4274 | ✔   | 🇺🇸 US | [92.276](https://updown.io/5dsh) | ✔   | ✔   |
+| [invidious.perennialte.ch](https://invidious.perennialte.ch/) | 2024.09.20-a021b93 | https | 2576 | ✔   | 🇦🇺 AU | [99.554](https://updown.io/8uie) | ✔   | ✔   |
+| [invidious.reallyaweso.me](https://invidious.reallyaweso.me/) | 2024.09.20-a021b93 | https | 2167 | ✔   | 🇦🇹 AT | [98.695](https://updown.io/nzff) | ✔   | ✔   |
+| [invidious.yourdevice.ch](https://invidious.yourdevice.ch/) | 2024.09.20-a021b93 | https | 581 | ✔   | 🇩🇪 DE | [88.446](https://updown.io/kq8n) | ✔   | ✔   |
 | [yewtu.be](https://yewtu.be/) | 2024.09.21-268c095 | https | 1   | ❌   | 🇩🇪 DE | [100.0](https://updown.io/0h16) | ❌   | ❌   |
-| [iv.ggtyler.dev](https://iv.ggtyler.dev/) | \-  | https | \-  | \-  | 🇺🇸 US | [92.276](https://updown.io/5dsh) | \-  | \-  |
+| [invidious.nerdvpn.de](https://invidious.nerdvpn.de/) | \-  | https | \-  | \-  | 🇺🇦 UA | [96.549](https://updown.io/oo85) | \-  | \-  |
+| [invidious.jing.rocks](https://invidious.jing.rocks/) | \-  | https | \-  | \-  | 🇯🇵 JP | [88.724](https://updown.io/cfds) | \-  | \-  |
 | [invidious.pr...irect.com](https://invidious.privacyredirect.com/) | 2024.09.20-a021b93 | https | 0   | ❌   | 🇫🇮 FI | [95.027](https://updown.io/xo2t) | ✔   | ✔   |
 | [zzlsbhhfvwg3...q.b32.i2p](http://zzlsbhhfvwg3oh36tcvx4r7n6jrw7zibvyvfxqlodcwn3mfrvzuq.b32.i2p/) | \-  | i2p | \-  | \-  | 🇨🇱 CL | [\-](https://updown.io/p/resvf) | \-  | \-  |
 | [inv.nadekonw...vyd.onion](http://inv.nadekonw7plitnjuawu6ytjsl7jlglk2t6pyq6eftptmiv3dvqndwvyd.onion/) | \-  | onion | \-  | \-  | 🇨🇱 CL | [\-](https://updown.io/p/resvf) | \-  | \-  |
