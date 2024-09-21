@@ -251,6 +251,20 @@ Legal
 
 [X (Twitter)](https://twitter.com/webcatalog_app "X (Twitter)") [Facebook](https://www.facebook.com/WebCatalogApp/ "Facebook") [Linkedin](https://www.linkedin.com/company/webcatalogapp/ "LinkedIn")[YouTube](https://www.youtube.com/@WebCatalogApp "YouTube")
 
+WebCatalog is part of the [WebCatalog](https://webcatalog.io/en/about/) family of products:
+
+[WebCatalog
+
+WebCatalog](https://webcatalog.io/en/)
+
+[Switchbar
+
+Switchbar](https://switchbar.com/)
+
+[Translatium
+
+Translatium](https://translatium.app/)
+
 © 2024 WebCatalog, Inc.
 
 We use cookies to provide and improve our websites. By using our sites, you consent to cookies.
