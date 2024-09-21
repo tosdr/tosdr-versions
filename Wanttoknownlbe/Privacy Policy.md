@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/gezondheid/kracht-van-de-stilte-transformeert-gezondheid/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/politiek/valse-vlag-operaties/george-floyd-vermoord-door-crisisacteur-ben-r-bailey/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
