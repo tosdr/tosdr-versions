@@ -347,11 +347,11 @@ Recently Played
 
 |     |
 | --- |
-| LosersPost Malone Ft Jelly Roll<br><br>5:41pm |
-| Lovin' On YouLuke Combs<br><br>5:37pm |
-| Man Made A BarMorgan Wallen Ft Eric Church<br><br>5:34pm |
-| A Bar Song (Tipsy)Shaboozey<br><br>5:25pm |
-| Miles On ItKane Brown Ft Marshmello<br><br>5:22pm |
+| Lies, Lies, LiesMorgan Wallen<br><br>10:22pm |
+| Need A FavorJelly Roll<br><br>10:18pm |
+| Memory I Don'T Mess WithLee Brice<br><br>10:15pm |
+| Wind Up Missing YouTucker Wetmore<br><br>10:13pm |
+| White HorseChris Stapleton<br><br>10:09pm |
 
 [View Full Playlist](https://www.987thebull.com/recently-played)
 
@@ -495,13 +495,13 @@ State
 Featured Brands
 ---------------
 
-[![Panhandle Sports Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/KVWE-Logo-RedBlack-Dk.png)](https://www.panhandlesportsstar.com/)
+[![99.7 DJX Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WDJX.png)](https://www.wdjx.com/)
 
-Sports • Midwest
+Top 40 • Eastern
 
-[![Bay Country Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/BayCountry-BothFrequencies-DK%20(2).png)](https://www.kbaycountry.com/)
+[![News-Talk 1480 WHBC Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WHBCAM.png)](https://www.whbc.com/)
 
-Country • Western
+News Talk • Eastern
 
 [![Live 95.5 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBFF.png)](https://www.live955.com/)
 
