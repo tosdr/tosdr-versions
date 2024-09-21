@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/nieuws/theo-van-gogh-herdenking-en-overdenking/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/gezondheid/kracht-van-de-stilte-transformeert-gezondheid/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
