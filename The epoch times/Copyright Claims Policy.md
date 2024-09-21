@@ -158,76 +158,76 @@ Please note that under Section 512(f) of the DMCA, any person who knowingly mate
 
 TOP NEWS
 
+* [10 Singers Advance to Finals in NTD Vocal Competition](https://www.theepochtimes.com/bright/10-singers-advance-to-finals-in-ntd-vocal-competition-5727768)
+    
+    3hr By [Catherine Yang](https://www.theepochtimes.com/author/catherine-yang), Epoch Times
+    
+    [![10 Singers Advance to Finals in NTD Vocal Competition](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![10 Singers Advance to Finals in NTD Vocal Competition](https://img.theepochtimes.com/assets/uploads/2024/09/20/id5727807-IMG_0338-205x123.jpg.webp)](https://www.theepochtimes.com/bright/10-singers-advance-to-finals-in-ntd-vocal-competition-5727768)
+* [Eight Democrats Join Republicans in House Resolution to Overturn Federal Electric Vehicle Rule](https://www.theepochtimes.com/us/house-passes-resolution-to-overturn-biden-admins-electric-vehicle-rule-5727720)
+    
+    4hr By [Samantha Flom](https://www.theepochtimes.com/author/samantha-flom)
+    
+    [![Eight Democrats Join Republicans in House Resolution to Overturn Federal Electric Vehicle Rule](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Eight Democrats Join Republicans in House Resolution to Overturn Federal Electric Vehicle Rule](https://img.theepochtimes.com/assets/uploads/2024/08/15/id5706406-GettyImages-2026355736-205x123.jpg.webp)](https://www.theepochtimes.com/us/house-passes-resolution-to-overturn-biden-admins-electric-vehicle-rule-5727720)
+* [Appeals Court Reinstates Arizona Law Enabling Cancellation of Voter Registrations](https://www.theepochtimes.com/us/appeals-court-reinstates-arizona-law-enabling-cancellation-of-voter-registrations-5727675)
+    
+    4hr By [Zachary Stieber](https://www.theepochtimes.com/author/zachary-stieber)
+    
+    [![Appeals Court Reinstates Arizona Law Enabling Cancellation of Voter Registrations](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Appeals Court Reinstates Arizona Law Enabling Cancellation of Voter Registrations](https://img.theepochtimes.com/assets/uploads/2024/07/02/id5678969-GettyImages-1440312402KO-205x123.jpg.webp)](https://www.theepochtimes.com/us/appeals-court-reinstates-arizona-law-enabling-cancellation-of-voter-registrations-5727675)
+* [FTC Complaint Alleges Insulin ‘Middlemen’ Artificially Inflated Prices](https://www.theepochtimes.com/us/ftc-complaint-alleges-insulin-middlemen-artificially-inflated-prices-5727736)
+    
+    4hr By [Sam Dorman](https://www.theepochtimes.com/author/sam-dorman)
+    
+    [![FTC Complaint Alleges Insulin ‘Middlemen’ Artificially Inflated Prices](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![FTC Complaint Alleges Insulin ‘Middlemen’ Artificially Inflated Prices](https://img.theepochtimes.com/assets/uploads/2023/05/23/id5285336-shutterstock_414203734-205x123.jpg.webp)](https://www.theepochtimes.com/us/ftc-complaint-alleges-insulin-middlemen-artificially-inflated-prices-5727736)
+* [SEC to Seek Sanctions Against Musk for Not Appearing for Testimony Over Twitter Acquisition](https://www.theepochtimes.com/business/sec-to-seek-sanctions-against-elon-musk-in-probe-over-twitter-takeover-5727786)
+    
+    4hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
+    
+    [![SEC to Seek Sanctions Against Musk for Not Appearing for Testimony Over Twitter Acquisition](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![SEC to Seek Sanctions Against Musk for Not Appearing for Testimony Over Twitter Acquisition](https://img.theepochtimes.com/assets/uploads/2024/09/01/id5716708-Elon-Musk-SB_1-205x123.jpg.webp)](https://www.theepochtimes.com/business/sec-to-seek-sanctions-against-elon-musk-in-probe-over-twitter-takeover-5727786)
+* [Los Angeles County Seeing ‘Unprecedented’ Number of Mosquito-Borne Disease Cases, Officials Warn](https://www.theepochtimes.com/health/los-angeles-county-seeing-unprecedented-number-of-mosquito-borne-disease-cases-officials-warn-5727665)
+    
+    5hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
+    
+    [![Los Angeles County Seeing ‘Unprecedented’ Number of Mosquito-Borne Disease Cases, Officials Warn](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Los Angeles County Seeing ‘Unprecedented’ Number of Mosquito-Borne Disease Cases, Officials Warn](https://img.theepochtimes.com/assets/uploads/2024/09/20/id5727793-Los-Angeles-city-viewKO-205x123.jpg.webp)](https://www.theepochtimes.com/health/los-angeles-county-seeing-unprecedented-number-of-mosquito-borne-disease-cases-officials-warn-5727665)
+* [Secret Service, Homeland Security Sued Over Records Related to Trump Assassination Attempt](https://www.theepochtimes.com/us/secret-service-homeland-security-sued-over-records-related-to-trump-assassination-attempt-5727419)
+    
+    6hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
+    
+    [![Secret Service, Homeland Security Sued Over Records Related to Trump Assassination Attempt](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Secret Service, Homeland Security Sued Over Records Related to Trump Assassination Attempt](https://img.theepochtimes.com/assets/uploads/2024/08/10/id5703477-Trump-rally-shooting-Enhanced-SR-OP-205x123.jpg.webp)](https://www.theepochtimes.com/us/secret-service-homeland-security-sued-over-records-related-to-trump-assassination-attempt-5727419)
+* [Deepfake Scams Targeting Financial and Accounting Data on the Rise, Survey Shows](https://www.theepochtimes.com/business/deepfake-scams-targeting-financial-and-accounting-data-on-the-rise-survey-shows-5727617)
+    
+    6hr By [Mark Gilman](https://www.theepochtimes.com/author/mark-gilman)
+    
+    [![Deepfake Scams Targeting Financial and Accounting Data on the Rise, Survey Shows](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Deepfake Scams Targeting Financial and Accounting Data on the Rise, Survey Shows](https://img.theepochtimes.com/assets/uploads/2024/09/20/id5727794-GettyImages-1258615093-1KO-205x123.jpg.webp)](https://www.theepochtimes.com/business/deepfake-scams-targeting-financial-and-accounting-data-on-the-rise-survey-shows-5727617)
 * [Mass Deportation of Illegal Immigrants Could Have Economic Consequences: Yellen](https://www.theepochtimes.com/us/mass-deportation-of-illegal-immigrants-could-have-economic-consequences-yellen-5726943)
     
-    1hr By [Andrew Moran](https://www.theepochtimes.com/author/andrew-moran)
+    7hr By [Andrew Moran](https://www.theepochtimes.com/author/andrew-moran)
     
     [![Mass Deportation of Illegal Immigrants Could Have Economic Consequences: Yellen](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Mass Deportation of Illegal Immigrants Could Have Economic Consequences: Yellen](https://img.theepochtimes.com/assets/uploads/2024/09/20/id5727753-GettyImages-2139245156.jpg-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/mass-deportation-of-illegal-immigrants-could-have-economic-consequences-yellen-5726943)
 * [Secret Service Agents to Be Disciplined Over July 13 Trump Shooting, Director Says](https://www.theepochtimes.com/us/secret-service-agents-to-be-disciplined-over-july-13-trump-shooting-director-says-5727589)
     
-    2hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
+    8hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
     
     [![Secret Service Agents to Be Disciplined Over July 13 Trump Shooting, Director Says](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Secret Service Agents to Be Disciplined Over July 13 Trump Shooting, Director Says](https://img.theepochtimes.com/assets/uploads/2024/09/20/id5727620-Secret-Service-GettyImages-2172425869-205x123.jpg.webp)](https://www.theepochtimes.com/us/secret-service-agents-to-be-disciplined-over-july-13-trump-shooting-director-says-5727589)
-* [Israel Says It Has Killed Top Hezbollah Commander in Beirut Strike](https://www.theepochtimes.com/world/israel-says-it-has-killed-top-hezbollah-commander-5727615)
-    
-    3hr By [Dan M. Berger](https://www.theepochtimes.com/author/dan-m-berger)
-    
-    [![Israel Says It Has Killed Top Hezbollah Commander in Beirut Strike](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Israel Says It Has Killed Top Hezbollah Commander in Beirut Strike](https://img.theepochtimes.com/assets/uploads/2024/09/20/id5727737-Israel-strike-GettyImages-2172375857-205x123.jpg.webp)](https://www.theepochtimes.com/world/israel-says-it-has-killed-top-hezbollah-commander-5727615)
-* [NTD’s 9th International Chinese Vocal Competition Kicks Off With Preliminary Round in NYC](https://www.theepochtimes.com/bright/ntds-9th-international-chinese-vocal-competition-kicks-off-with-preliminary-round-in-nyc-5727555)
-    
-    3hr By [Juliet Song](https://www.theepochtimes.com/author/juliet-song)
-    
-    [![NTD’s 9th International Chinese Vocal Competition Kicks Off With Preliminary Round in NYC](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![NTD’s 9th International Chinese Vocal Competition Kicks Off With Preliminary Round in NYC](https://img.theepochtimes.com/assets/uploads/2024/09/20/id5727557-preliminary-xuehui-JunwenZhang-205x123.jpeg.webp)](https://www.theepochtimes.com/bright/ntds-9th-international-chinese-vocal-competition-kicks-off-with-preliminary-round-in-nyc-5727555)
-* [Secret Service Admits Communication Failures in Trump Assassination Attempt](https://www.theepochtimes.com/us/secret-service-admits-communication-failures-in-trump-assassination-attempt-5727586)
-    
-    4hr By [Zachary Stieber](https://www.theepochtimes.com/author/zachary-stieber)
-    
-    [![Secret Service Admits Communication Failures in Trump Assassination Attempt](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Secret Service Admits Communication Failures in Trump Assassination Attempt](https://img.theepochtimes.com/assets/uploads/2024/09/20/id5727763-GettyImages-2172425680-2-1200x848.jpg-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/secret-service-admits-communication-failures-in-trump-assassination-attempt-5727586)
-* [Georgia Election Board Approves Rule Requiring Hand Count of Ballots](https://www.theepochtimes.com/us/georgia-election-board-approves-rule-requiring-hand-count-of-ballots-5727574)
-    
-    4hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
-    
-    [![Georgia Election Board Approves Rule Requiring Hand Count of Ballots](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Georgia Election Board Approves Rule Requiring Hand Count of Ballots](https://img.theepochtimes.com/assets/uploads/2024/09/20/id5727764-Georgia-Election-Board-AP24264510555935.jpg-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/georgia-election-board-approves-rule-requiring-hand-count-of-ballots-5727574)
-* [House Passes Bill to Boost Secret Service Protection for Presidential Candidates](https://www.theepochtimes.com/us/house-unanimously-passes-bill-to-boost-secret-service-protection-for-presidential-candidates-5727473)
-    
-    5hr By [Jackson Richman](https://www.theepochtimes.com/author/jackson-richman)
-    
-    [![House Passes Bill to Boost Secret Service Protection for Presidential Candidates](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![House Passes Bill to Boost Secret Service Protection for Presidential Candidates](https://img.theepochtimes.com/assets/uploads/2024/09/16/id5725322-09162024-DSC00799-US-Capitol-205x123.jpg.webp)](https://www.theepochtimes.com/us/house-unanimously-passes-bill-to-boost-secret-service-protection-for-presidential-candidates-5727473)
-* [Trump Proposes Temporary 10 Percent Cap on Credit Card Interest Rates](https://www.theepochtimes.com/us/trump-proposes-temporary-10-percent-cap-on-credit-card-interest-rates-5727448)
-    
-    5hr By [Andrew Moran](https://www.theepochtimes.com/author/andrew-moran)
-    
-    [![Trump Proposes Temporary 10 Percent Cap on Credit Card Interest Rates](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Trump Proposes Temporary 10 Percent Cap on Credit Card Interest Rates](https://img.theepochtimes.com/assets/uploads/2024/01/19/id5569401-GettyImages-1209301796-205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-proposes-temporary-10-percent-cap-on-credit-card-interest-rates-5727448)
-* [US Border Patrol Apprehends Record Number of Migrants Crossing From Canada](https://www.theepochtimes.com/world/us-border-patrol-apprehends-record-number-of-migrants-crossing-from-canada-5725644)
-    
-    5hr By [Jennifer Cowan](https://www.theepochtimes.com/author/jennifer-cowan)
-    
-    [![US Border Patrol Apprehends Record Number of Migrants Crossing From Canada](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![US Border Patrol Apprehends Record Number of Migrants Crossing From Canada](https://img.theepochtimes.com/assets/uploads/2023/03/30/id5160725-DSC08636-205x123.jpg.webp)](https://www.theepochtimes.com/world/us-border-patrol-apprehends-record-number-of-migrants-crossing-from-canada-5725644)
-* [Exploitative Marketers Taking Advantage of Taxpayers Facing Payment Difficulties: IRS](https://www.theepochtimes.com/us/exploitative-marketers-taking-advantage-of-taxpayers-facing-payment-difficulties-irs-5727342)
-    
-    5hr By [Naveen Athrappully](https://www.theepochtimes.com/author/naveen-athrappully)
-    
-    [![Exploitative Marketers Taking Advantage of Taxpayers Facing Payment Difficulties: IRS](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Exploitative Marketers Taking Advantage of Taxpayers Facing Payment Difficulties: IRS](https://img.theepochtimes.com/assets/uploads/2024/02/09/id5584270-IRS-buildingKO-205x123.jpg.webp)](https://www.theepochtimes.com/us/exploitative-marketers-taking-advantage-of-taxpayers-facing-payment-difficulties-irs-5727342)
 
 [![The Epoch Times](https://www.theepochtimes.com/assets/themes/eet/images/logo_eet.svg)](https://www.theepochtimes.com/)
 
