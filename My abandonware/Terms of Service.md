@@ -85,11 +85,11 @@ Top downloads
 
 Latest releases
 
+* [Guerrilla War](https://www.myabandonware.com/game/guerrilla-war-aw)
+* [Hammerin' Harry](https://www.myabandonware.com/game/hammerin-harry-9po)
+* [Gururin](https://www.myabandonware.com/game/gururin-jy4)
 * [Growl](https://www.myabandonware.com/game/growl-8b3)
 * [Hang-On](https://www.myabandonware.com/game/hang-on-7wz)
-* [Gyruss](https://www.myabandonware.com/game/gyruss-4vg)
-* [Night Stocker](https://www.myabandonware.com/game/night-stocker-sfc)
-* [NFL Blitz](https://www.myabandonware.com/game/nfl-blitz-sfb)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [Facebook](https://www.facebook.com/myabandonware) or [X (Twitter)](https://x.com/myabandonware)
