@@ -420,6 +420,7 @@
             * [ ]  [CSM Onboarding](https://handbook.gitlab.com/handbook/customer-success/csm/csm-onboarding/)
                 * [ ]  [Meeting Shadowing](https://handbook.gitlab.com/handbook/customer-success/csm/csm-onboarding/shadowing/)
             * [ ]  [CSM Paid Time Off](https://handbook.gitlab.com/handbook/customer-success/csm/pto/)
+            * [ ]  [CSM Quaterly Business Reviews (QBRs)](https://handbook.gitlab.com/handbook/customer-success/csm/qbr/)
             * [ ]  [CSM Responsibilities and Services](https://handbook.gitlab.com/handbook/customer-success/csm/services/)
                 * [ ]  [CSM Infrastructure Upgrade Coordination](https://handbook.gitlab.com/handbook/customer-success/csm/services/infrastructure-upgrade/)
             * [ ]  [CSM Rhythm of Business](https://handbook.gitlab.com/handbook/customer-success/csm/rhythm/)
