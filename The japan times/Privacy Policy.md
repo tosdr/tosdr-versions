@@ -20,7 +20,7 @@ privacy
 
  ![Search](/theme_japantimes/images/search_icon.svg)
 
-[September 21, 2024](https://www.japantimes.co.jp/archive/2024/09/21/ "archive page")
+[September 22, 2024](https://www.japantimes.co.jp/archive/2024/09/22/ "archive page")
 
  [![The Japan Times](/theme_japantimes/images/logo-white-2.png)](https://www.japantimes.co.jp/ "The Japan Times")
 
@@ -463,29 +463,25 @@ Revised June 1, 2022
 
 * Editors' Picks
 
-[Japanese school student stabbed in Shenzhen dies](https://www.japantimes.co.jp/news/2024/09/19/japan/crime-legal/japanese-school-boy-china-dead/ "Japanese school student stabbed in Shenzhen dies")
+[South Korea couple beat same-sex barriers to parenthood](https://www.japantimes.co.jp/news/2023/08/06/asia-pacific/social-issues/south-korea-couple-pregnant/ "South Korea couple beat same-sex barriers to parenthood")
 
-  [![The street where a 10-year-old boy is said to have been stabbed with a knife, on Thursday in Shenzhen in southern China.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/19/422720.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "The street where a 10-year-old boy is said to have been stabbed with a knife, on Thursday in Shenzhen in southern China.")](https://www.japantimes.co.jp/news/2024/09/19/japan/crime-legal/japanese-school-boy-china-dead/ "Japanese school student stabbed in Shenzhen dies")
+  [![South Korean lesbian couple Kim Kyu-jin (left) and her wife, Kim Sae-yeon, pose with a "pregnant woman" badge during an interview in Seoul last month.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2023/08/06/244166.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "South Korean lesbian couple Kim Kyu-jin (left) and her wife, Kim Sae-yeon, pose with a "pregnant woman" badge during an interview in Seoul last month.")](https://www.japantimes.co.jp/news/2023/08/06/asia-pacific/social-issues/south-korea-couple-pregnant/ "South Korea couple beat same-sex barriers to parenthood")
 
-[Shohei Ohtani records baseball's first 50-50 season with huge night in Miami](https://www.japantimes.co.jp/sports/2024/09/20/baseball/mlb/ohtani-50-50-season/ "Shohei Ohtani records baseball's first 50-50 season with huge night in Miami")
+[Japan unveils new overtourism countermeasures](https://www.japantimes.co.jp/news/2023/10/18/japan/society/overtourism-prevention-plan/ "Japan unveils new overtourism countermeasures")
 
-  [![Shohei Ohtani connects on his 50th home run of the season during the seventh inning against the Marlins in Miami on Thursday. Ohtani became the first player in MLB history to reach 50 home runs and 50 stolen bases in the same season.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/20/422799.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Shohei Ohtani connects on his 50th home run of the season during the seventh inning against the Marlins in Miami on Thursday. Ohtani became the first player in MLB history to reach 50 home runs and 50 stolen bases in the same season.")](https://www.japantimes.co.jp/sports/2024/09/20/baseball/mlb/ohtani-50-50-season/ "Shohei Ohtani records baseball's first 50-50 season with huge night in Miami")
+  [![The majority of tourists in Japan tend to stay in Tokyo, Osaka or Kyoto, resulting in overcrowding in popular tourist spots and a strain on transportation systems.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2023/10/18/258248.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "The majority of tourists in Japan tend to stay in Tokyo, Osaka or Kyoto, resulting in overcrowding in popular tourist spots and a strain on transportation systems.")](https://www.japantimes.co.jp/news/2023/10/18/japan/society/overtourism-prevention-plan/ "Japan unveils new overtourism countermeasures")
 
-[China works to avoid rift with Japan over killing of schoolchild](https://www.japantimes.co.jp/news/2024/09/20/japan/japan-china-stabbing/ "China works to avoid rift with Japan over killing of schoolchild")
+[Opportunities await the bold in the Year of the Wood Dragon](https://www.japantimes.co.jp/life/2024/01/02/lifestyle/year-of-the-dragon/ "Opportunities await the bold in the Year of the Wood Dragon")
 
-  [![The Japanese Embassy in Beijing on Thursday. The embassy and other organizations have urged swift and resolute actions to protect Japanese citizens in China.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/20/422895.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "The Japanese Embassy in Beijing on Thursday. The embassy and other organizations have urged swift and resolute actions to protect Japanese citizens in China.")](https://www.japantimes.co.jp/news/2024/09/20/japan/japan-china-stabbing/ "China works to avoid rift with Japan over killing of schoolchild")
+  [![2024 marks the Year of the Dragon in the Chinese zodiac, with the year predicted to be a good time for fresh starts.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/01/02/271400.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "2024 marks the Year of the Dragon in the Chinese zodiac, with the year predicted to be a good time for fresh starts.")](https://www.japantimes.co.jp/life/2024/01/02/lifestyle/year-of-the-dragon/ "Opportunities await the bold in the Year of the Wood Dragon")
 
-[The forgotten impact of 9/11 on Japan](https://www.japantimes.co.jp/commentary/2024/09/18/japan/911-impact-on-japan/ "The forgotten impact of 9/11 on Japan")
+[Don’t worry about global population collapse](https://www.japantimes.co.jp/commentary/2023/10/11/world/global-population-collapse/ "Don’t worry about global population collapse")
 
-  [![The World Trade Center's South Tower (left) and the North Tower burn after al-Qaida terrorists flew hijacked airliners into the buildings in New York City on
-Sept. 11, 2001. Nearly 3,000 people died in the incident, including 24 Japanese nationals. 
-REUTERS](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/18/422465.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "The World Trade Center's South Tower (left) and the North Tower burn after al-Qaida terrorists flew hijacked airliners into the buildings in New York City on
-Sept. 11, 2001. Nearly 3,000 people died in the incident, including 24 Japanese nationals. 
-REUTERS")](https://www.japantimes.co.jp/commentary/2024/09/18/japan/911-impact-on-japan/ "The forgotten impact of 9/11 on Japan")
+  [![Most projections show the world will hit peak humanity in the 21st century as people choose to have smaller families and women gain power over their own reproduction.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2023/10/11/255902.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Most projections show the world will hit peak humanity in the 21st century as people choose to have smaller families and women gain power over their own reproduction.")](https://www.japantimes.co.jp/commentary/2023/10/11/world/global-population-collapse/ "Don’t worry about global population collapse")
 
-[Nara urges respect for sacred deer after viral abuse video sparks outcry](https://www.japantimes.co.jp/news/2024/09/20/japan/society/nara-deer-kicked-video/ "Nara urges respect for sacred deer after viral abuse video sparks outcry")
+[Tokyo issues warning as rare but deadly STSS bacterial infections rise](https://www.japantimes.co.jp/news/2024/03/24/japan/science-health/tokyo-issues-warning-for-bacterial-infection-disease/ "Tokyo issues warning as rare but deadly STSS bacterial infections rise")
 
-  [![A police officer explains with a loudspeaker the correct way of interacting with the deer on July 25 at Nara Park in the city of Nara.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/20/422848.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "A police officer explains with a loudspeaker the correct way of interacting with the deer on July 25 at Nara Park in the city of Nara.")](https://www.japantimes.co.jp/news/2024/09/20/japan/society/nara-deer-kicked-video/ "Nara urges respect for sacred deer after viral abuse video sparks outcry")
+  [![A colorized scanning electron micrograph of group A streptococcus bacteria ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/03/24/287951.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "A colorized scanning electron micrograph of group A streptococcus bacteria ")](https://www.japantimes.co.jp/news/2024/03/24/japan/science-health/tokyo-issues-warning-for-bacterial-infection-disease/ "Tokyo issues warning as rare but deadly STSS bacterial infections rise")
 
 [Shohei Ohtani records baseball's first 50-50 season with huge night in Miami](https://www.japantimes.co.jp/sports/2024/09/20/baseball/mlb/ohtani-50-50-season/ "Shohei Ohtani records baseball's first 50-50 season with huge night in Miami")
 
@@ -502,6 +498,10 @@ REUTERS")](https://www.japantimes.co.jp/commentary/2024/09/18/japan/911-impact-o
 [‘The people I’d seen in kimono didn’t have as much melanin as I do’](https://www.japantimes.co.jp/community/2024/09/16/our-lives/kimono-instructor-license-black-women-japan/ "‘The people I’d seen in kimono didn’t have as much melanin as I do’")
 
   [![American Kara Harris is on the verge of attaining a high-level certification in the world of kimono — and may possibly be the first Black woman to do so.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/13/421162.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "American Kara Harris is on the verge of attaining a high-level certification in the world of kimono — and may possibly be the first Black woman to do so.")](https://www.japantimes.co.jp/community/2024/09/16/our-lives/kimono-instructor-license-black-women-japan/ "‘The people I’d seen in kimono didn’t have as much melanin as I do’")
+
+[France-Japan military pact expected by year-end, envoy to Tokyo says](https://www.japantimes.co.jp/news/2024/09/18/japan/politics/france-ambassador-japan-interview/ "France-Japan military pact expected by year-end, envoy to Tokyo says")
+
+  [![French Ambassador Philippe Setton says that, despite previous differences over whether Japan should host a NATO liaison office, Paris aims to deepen ties with Tokyo "in all security areas."](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/18/422435.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "French Ambassador Philippe Setton says that, despite previous differences over whether Japan should host a NATO liaison office, Paris aims to deepen ties with Tokyo "in all security areas."")](https://www.japantimes.co.jp/news/2024/09/18/japan/politics/france-ambassador-japan-interview/ "France-Japan military pact expected by year-end, envoy to Tokyo says")
 
 Podcast
 -------
@@ -522,9 +522,9 @@ By [Alex K.T. Martin](https://www.japantimes.co.jp/author/219/alex-kt-martin/ "A
 SUSTAINABLE JAPAN
 -----------------
 
-[SWCC keeps changing with keyword ‘new challenges’](https://sustainable.japantimes.com/unraveling/27?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=4 "SWCC keeps changing with keyword ‘new challenges’")
+[Sasakawa works for a sustainable blue economy](https://sustainable.japantimes.com/magazine/vol39/39-01?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "Sasakawa works for a sustainable blue economy")
 
-[![SWCC keeps changing with keyword ‘new challenges’](https://wp.japantimes.co.jp/wp-content/uploads/2024/08/img_unraveling_27_01-200x200.jpg)](https://sustainable.japantimes.com/unraveling/27?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=4 "SWCC keeps changing with keyword ‘new challenges’")
+[![Sasakawa works for a sustainable blue economy](https://wp.japantimes.co.jp/wp-content/uploads/2024/08/img_magazine_39_01_01-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol39/39-01?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "Sasakawa works for a sustainable blue economy")
 
 SPECIAL SUPPLEMENTS [![note](/theme_japantimes/images/icon_note.png)](javascript:; "Note")
 ------------------------------------------------------------------------------------------
@@ -564,25 +564,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
+['Unprecedented' rains in quake-hit Ishikawa leave at least one dead](https://www.japantimes.co.jp/news/2024/09/21/japan/ishikawa-heavy-rain-alert/ "'Unprecedented' rains in quake-hit Ishikawa leave at least one dead")
+
+4 hours ago
+
+[Russia and China start naval exercises in Sea of Japan, agencies report](https://www.japantimes.co.jp/news/2024/09/21/world/russia-china-naval-exercises/ "Russia and China start naval exercises in Sea of Japan, agencies report")
+
+6 hours ago
+
 [Koizumi ranks as top choice in polls among lawmakers in Japan’s LDP race](https://www.japantimes.co.jp/news/2024/09/21/japan/politics/koizumi-lawmaker-favorite/ "Koizumi ranks as top choice in polls among lawmakers in Japan’s LDP race")
 
-52 mins ago
+6 hours ago
 
 [Revolution or mirage? Controversy surrounds new Alzheimer's drugs](https://www.japantimes.co.jp/news/2024/09/21/world/science-health/alzheimers-drugs-controversy/ "Revolution or mirage? Controversy surrounds new Alzheimer's drugs")
 
-2 hours ago
+9 hours ago
 
 [JR East fails to disclose data tampering for seven years](https://www.japantimes.co.jp/business/2024/09/21/jr-east-data-tampering/ "JR East fails to disclose data tampering for seven years")
 
-3 hours ago
-
-[U.S. marine in Okinawa indicted for alleged sexual assault](https://www.japantimes.co.jp/news/2024/09/21/japan/crime-legal/us-marine-okinawa-indict/ "U.S. marine in Okinawa indicted for alleged sexual assault")
-
-3 hours ago
-
-[Kishida vows aid to uncertified Nagasaki atomic bomb survivors](https://www.japantimes.co.jp/news/2024/09/21/japan/kishida-nagasaki-vow/ "Kishida vows aid to uncertified Nagasaki atomic bomb survivors")
-
-4 hours ago
+9 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
