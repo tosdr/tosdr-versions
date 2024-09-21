@@ -46,15 +46,15 @@ Privacy Policy
 * [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     ![](https://karkhane.org/app/uploads/2024/07/El-95x65.jpg)](https://karkhane.org/5715/election1403/)[یک کرباس بورژوازی](https://karkhane.org/5715/election1403/)
-* [![تقدیرِ تاریخیِ آن دست‌های لطیفِ کارنکرده](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    ![تقدیرِ تاریخیِ آن دست‌های لطیفِ کارنکرده](https://karkhane.org/app/uploads/2020/12/taqdir-e-tarixi-e-an-dastha-e-karnakarde-95x65.jpg)](https://karkhane.org/2407/%d8%aa%d9%82%d8%af%db%8c%d8%b1-%d8%aa%d8%a7%d8%b1%db%8c%d8%ae%db%8c-%d8%a2%d9%86-%d8%af%d8%b3%d8%aa%d9%87%d8%a7%db%8c-%d9%84%d8%b7%db%8c%d9%81-%da%a9%d8%a7%d8%b1%d9%86%da%a9%d8%b1%d8%af%d9%87/)[تقدیرِ تاریخیِ آن دست‌های لطیفِ کارنکرده](https://karkhane.org/2407/%d8%aa%d9%82%d8%af%db%8c%d8%b1-%d8%aa%d8%a7%d8%b1%db%8c%d8%ae%db%8c-%d8%a2%d9%86-%d8%af%d8%b3%d8%aa%d9%87%d8%a7%db%8c-%d9%84%d8%b7%db%8c%d9%81-%da%a9%d8%a7%d8%b1%d9%86%da%a9%d8%b1%d8%af%d9%87/)
-* [![کارگران و شهرهای اقماری تهران؛ نگاهی مختصر به ریشه‌های برآمدن شهرهای اقماری تهران و شیوه‌ی زیست کارگران](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    ![کارگران و شهرهای اقماری تهران؛ نگاهی مختصر به ریشه‌های برآمدن شهرهای اقماری تهران و شیوه‌ی زیست کارگران](https://karkhane.org/app/uploads/2021/09/kargaran-o-shahrha-e-aqmari-e-tehran-95x65.jpg)](https://karkhane.org/3061/%da%a9%d8%a7%d8%b1%da%af%d8%b1%d8%a7%d9%86-%d9%88-%d8%b4%d9%87%d8%b1%d9%87%d8%a7%db%8c-%d8%a7%d9%82%d9%85%d8%a7%d8%b1%db%8c-%d8%aa%d9%87%d8%b1%d8%a7%d9%86%d8%9b-%d9%86%da%af%d8%a7%d9%87%db%8c-%d9%85/)[کارگران و شهرهای اقماری تهران؛ نگاهی مختصر به ریشه‌های برآمدنِ شهرهای اقماری تهران و شیوه‌ی زیست کارگران](https://karkhane.org/3061/%da%a9%d8%a7%d8%b1%da%af%d8%b1%d8%a7%d9%86-%d9%88-%d8%b4%d9%87%d8%b1%d9%87%d8%a7%db%8c-%d8%a7%d9%82%d9%85%d8%a7%d8%b1%db%8c-%d8%aa%d9%87%d8%b1%d8%a7%d9%86%d8%9b-%d9%86%da%af%d8%a7%d9%87%db%8c-%d9%85/)
 * [![به زبان ساده؛‌ «اتحاد» چیست؟ اتحاد طبقاتی یا اتحاد سراسری؟](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     ![به زبان ساده؛‌ «اتحاد» چیست؟ اتحاد طبقاتی یا اتحاد سراسری؟](https://karkhane.org/app/uploads/2021/11/be-zaban-e-saade-ettehad-chist-95x65.jpg)](https://karkhane.org/3222/%d8%a7%d8%aa%d8%ad%d8%a7%d8%af-%da%86%db%8c%d8%b3%d8%aa%d8%9f/)[«اتحاد» چیست؟ کارگران پاسخ می‌دهند](https://karkhane.org/3222/%d8%a7%d8%aa%d8%ad%d8%a7%d8%af-%da%86%db%8c%d8%b3%d8%aa%d8%9f/)
+* [![نمایش‌نامه «رستگاری در چاه پرونده»؛ و برای سه رفیق](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    ![نمایش‌نامه «رستگاری در چاه پرونده»؛ و برای سه رفیق](https://karkhane.org/app/uploads/2023/05/rastegari-dar-chah-e-parvande-95x65.jpg)](https://karkhane.org/4959/salvation-in-the-well-of-the-case/)[نمایش‌نامه «رستگاری در چاه پرونده»؛ و برای سه رفیق](https://karkhane.org/4959/salvation-in-the-well-of-the-case/)
+* [![کارگری‌نویسی: همبستگی و پیوستگی در راه مبارزه‌ی طبقاتی](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    ![کارگری‌نویسی: همبستگی و پیوستگی در راه مبارزه‌ی طبقاتی](https://karkhane.org/app/uploads/2021/02/1-95x65.jpg)](https://karkhane.org/2483/%da%a9%d8%a7%d8%b1%da%af%d8%b1%db%8c%d9%86%d9%88%db%8c%d8%b3%db%8c-%d9%87%d9%85%d8%a8%d8%b3%d8%aa%da%af%db%8c-%d9%88-%d9%be%db%8c%d9%88%d8%b3%d8%aa%da%af%db%8c-%d8%af%d8%b1-%d8%b1%d8%a7/)[کارگری‌نویسی: همبستگی و پیوستگی در راه مبارزه‌ی طبقاتی](https://karkhane.org/2483/%da%a9%d8%a7%d8%b1%da%af%d8%b1%db%8c%d9%86%d9%88%db%8c%d8%b3%db%8c-%d9%87%d9%85%d8%a8%d8%b3%d8%aa%da%af%db%8c-%d9%88-%d9%be%db%8c%d9%88%d8%b3%d8%aa%da%af%db%8c-%d8%af%d8%b1-%d8%b1%d8%a7/)
 
 * [Facebook](https://www.facebook.com/--107914377686249)
 * [YouTube](https://www.youtube.com/channel/UCnz481dcaM1p7c3oDR5Ot9A)
