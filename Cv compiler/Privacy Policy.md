@@ -1771,6 +1771,8 @@ What do top resumes look like? Check out these expertly-written samples:
 
 [Dental Office Administrator](https://cvcompiler.com/dental-office-administrator-resume-examples)
 
+[Quality Control Manager](https://cvcompiler.com/quality-control-manager-resume-examples)
+
 ![Upload resume illustration](uploads-pre-acq/img/upload-illustration.svg)
 
 ### Upload  
