@@ -74,11 +74,11 @@ MENUMENU
                 * [Activities to Improve Smooth Visual Pursuits](https://www.theottoolbox.com/activities-smooth-pursuits/)
                 * [What is Visual Scanning](https://www.theottoolbox.com/what-is-visual-scanning/)
                 * [Classroom Accommodations for Visual Impairments](https://www.theottoolbox.com/visual-impairment-accommodations/)
-        * * [![Oats and craft pom poms with text reading "apple pie sensory bin"](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        * * [![Fall sensory bin with oats sensory bin filler, plastic mini pumpkins, orange craft pom poms, cinnamon sticks, acrylic pumpkins, tongs. Child's hand picking up felt strips. Text reads: Pumpkin Sensory Bin](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
                 
-                ![Oats and craft pom poms with text reading "apple pie sensory bin"](https://www.theottoolbox.com/wp-content/uploads/2024/09/apple-pie-sensory-bin-with-tongs.png)](https://www.theottoolbox.com/apple-pie-sensory-bin/)
+                ![Fall sensory bin with oats sensory bin filler, plastic mini pumpkins, orange craft pom poms, cinnamon sticks, acrylic pumpkins, tongs. Child's hand picking up felt strips. Text reads: Pumpkin Sensory Bin](https://www.theottoolbox.com/wp-content/uploads/2024/09/pumpkin-sensory-bins.jpg)](https://www.theottoolbox.com/pumpkin-sensory-bin/)
                 
-                #### [Apple Pie Sensory Bin](https://www.theottoolbox.com/apple-pie-sensory-bin/)
+                #### [Pumpkin Sensory Bin](https://www.theottoolbox.com/pumpkin-sensory-bin/)
                 
 * [Free Resources](https://www.theottoolbox.com/category/free-resources/)
 * [The Shop](https://www.theottoolbox.com/shop/)
