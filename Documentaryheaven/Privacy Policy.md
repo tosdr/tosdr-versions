@@ -118,49 +118,49 @@ Advertisement
     Canada’s woke nightmare: A warning to the West
     
     Canada, under the leadership of Justin Trudeau, has positioned itself as a global advocate for progressive policies. In my latest documentary featured in The Telegraph, I embarked on a journey to the...](https://documentaryheaven.com/canadas-woke-nightmare-a-warning-to-the-west/ "Canada’s woke nightmare: A warning to the West")
+* [![WWII From Space](/wp-content/thumbnails/8361-100x70.jpeg?x53432)
+    
+    WWII From Space
+    
+    It is December 7th 1941 and WWII is entering its 27th month. Japanese troops storm Shanghai, German armies stand at the gates of Moscow causing 6 and a half million casualties, and Nazi Germany has ma...](https://documentaryheaven.com/wwii-from-space/ "WWII From Space")
 * [![The Beginning and the End of the Universe](/wp-content/thumbnails/16715-100x70.jpg?x53432)
     
     The Beginning and the End of the Universe
     
     Episode 1: The BeginingEmbarking on a cosmic journey, Professor Jim Al-Khalili transports us through the corridors of time to confront science's most profound inquiry: the genesis of the univers...](https://documentaryheaven.com/the-beginning-and-the-end-of-the-universe/ "The Beginning and the End of the Universe")
-* [![These Streets Are Watching](/wp-content/thumbnails/1269-100x70.jpg?x53432)
+* [![The War On Drugs: The Prison Industrial Complex](/wp-content/thumbnails/958-100x70.gif?x53432)
     
-    These Streets Are Watching
+    The War On Drugs: The Prison Industrial Complex
     
-    However, if nothing else, cop watch can and will and does inform citizens of their lefts as citizens. Informs citizens of what is proper police conduct and what is improper police conduct. Informs cit...](https://documentaryheaven.com/these-streets-are-watching/ "These Streets Are Watching")
-* [![The Forgotten Refugees](/wp-content/thumbnails/1718-100x70.jpg?x53432)
-    
-    The Forgotten Refugees
-    
-    Executive Producer: Ralph Avi Goldwasser Director: Michael GrynszpanRunning time: 49 minutesA film about the mass exodus of Jews from the Middle East and North Africa in the 20th centuryProdu...](https://documentaryheaven.com/the-forgotten-refugees/ "The Forgotten Refugees")
+    The war on drugs has been going on for more than three decades. Today, nearly 500,000 Americans are imprisoned on drug charges. In 1980 the number was 50,000. Last year $40 billion in taxpayer dollars...](https://documentaryheaven.com/the-war-on-drugs-the-prison-industrial-complex/ "The War On Drugs: The Prison Industrial Complex")
 
 ###### Throwback Documentaries
 
-* [![The Putin System](/wp-content/thumbnails/3823-100x70.jpg?x53432)
+* [![Disenfranchised in America](/wp-content/thumbnails/6599-100x70.jpg?x53432)
     
-    The Putin System
+    Disenfranchised in America
     
-    For three years, filmmakers Jean-Michel Carr and Jill Emery interviewed dozens of people to gain insight into the life and political motivations of Russia’s most powerful politician, Vladimir Putin. T](https://documentaryheaven.com/the-putin-system/ "The Putin System")
-* [![Meet The Burglars](/wp-content/thumbnails/7585-100x70.jpg?x53432)
+    New legislation across the US could have a huge impact on the country’s 2012 presidential elections. Largely Republican politicians have passed a range of new voting laws that groups fear could disen](https://documentaryheaven.com/disenfranchised-in-america/ "Disenfranchised in America")
+* [![9/11 The Firemens Story](/wp-content/thumbnails/6830-100x70.jpg?x53432)
     
-    Meet The Burglars
+    9/11 The Firemens Story
     
-    Victims of burglary and other crimes are increasingly being offered the opportunity to meet the criminals who offended against them, in a controversial scheme aimed at empowering victims and potential](https://documentaryheaven.com/meet-the-burglars/ "Meet The Burglars")
-* [![Mad But Glad](/wp-content/thumbnails/651-100x70.png?x53432)
+    9/11-The Firemen's Story explores how the brotherhood of New York's bravest was tested and strengthened in the smoke and flames of Sept. 11. An especially unfathomable day for the fire department, the](https://documentaryheaven.com/911-the-firemens-story/ "9/11 The Firemens Story")
+* [![Nazi Concentration Camps](/wp-content/thumbnails/7812-100x70.jpg?x53432)
     
-    Mad But Glad
+    Nazi Concentration Camps
     
-    Is there really such a thing as the mad genius? Can an illness be both a blessing and a curse? At seven years old, Nick van Bloss started shaking his head, grinding his teeth and making wild whooping](https://documentaryheaven.com/mad-but-glad/ "Mad But Glad")
-* [![The Union: The Business Behind Getting High](/wp-content/thumbnails/2309-100x70.png?x53432)
+    The Nazi Concentration Camps documentary was filmed in 1945 and entered as evidence at the Nuremberg Trials of Rudolf Hess, Hermann Göring, and 22 other Nazi officials in the aftermath of World War II](https://documentaryheaven.com/nazi-concentration-camps/ "Nazi Concentration Camps")
+* [![End: Civ Resist or Die](/wp-content/thumbnails/5823-100x70.jpg?x53432)
     
-    The Union: The Business Behind Getting High
+    End: Civ Resist or Die
     
-    Ever wonder what British Columbia’s most profitable industries are? Logging? Fishing? Tourism? Ever think to include marijuana? If you haven’t, think again. No longer a hobby for the stereotypical hip](https://documentaryheaven.com/the-union-the-business-behind-getting-high/ "The Union: The Business Behind Getting High")
-* [![TT3D Closer to the Edge](/wp-content/thumbnails/14611-100x70.jpg?x53432)
+    END: CIV examines our culture’s addiction to systematic violence and environmental exploitation, and probes the resulting epidemic of poisoned landscapes and shell-shocked nations. Based in part on E](https://documentaryheaven.com/end-civ-resist-or-die/ "End: Civ Resist or Die")
+* [![Who Killed America’s Biggest Gadget?](/wp-content/thumbnails/7099-100x70.jpg?x53432)
     
-    TT3D Closer to the Edge
+    Who Killed America’s Biggest Gadget?
     
-    The TT motorcycle race takes place on the Isle of Man every year and TT3D: Closer to the Edge is a film which follows some of the leading riders of the 2010 race, most notably Guy Martin and Ian Hutch](https://documentaryheaven.com/tt3d-closer-to-edge/ "TT3D Closer to the Edge")
+    The hunt for the Higgs boson, god particle or goddamn particle, the one that gives things mass, came closer to an end.Physicists at CERN’s Large Hadron Collider in Europe, the world’s largest part](https://documentaryheaven.com/who-killed-americas-biggest-gadget/ "Who Killed America’s Biggest Gadget?")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
