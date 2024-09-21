@@ -34,11 +34,11 @@ Login Stay logged in
 
 Latest Forum Topics
 
-* [What Music Are You Listening to? v18 (10,922)](https://forum.nationstates.net/viewtopic.php?t=534070&f=19&view=unread#unread ""What Music Are You Listening to? v18" (10,922 posts)")
-* [International Security Directorate (O… (528)](https://forum.nationstates.net/viewtopic.php?t=546790&f=5&view=unread#unread ""International Security Directorate (OOC/application)" (528 posts)")
-* [YN's soldier thoughts about fighting AN. (506)](https://forum.nationstates.net/viewtopic.php?t=548986&f=25&view=unread#unread ""YN's soldier thoughts about fighting AN." (506 posts)")
-* [A new generation (IC|Closed|Attn. Ara… (109)](https://forum.nationstates.net/viewtopic.php?t=554018&f=5&view=unread#unread ""A new generation (IC|Closed|Attn. Arakhkhar)" (109 posts)")
-* [Transformers: Electric Trepidation (7,902)](https://forum.nationstates.net/viewtopic.php?t=548040&f=20&view=unread#unread ""Transformers: Electric Trepidation" (7,902 posts)")
+* [Give AN A Nickname! (899)](https://forum.nationstates.net/viewtopic.php?t=553555&f=25&view=unread#unread ""Give AN A Nickname!" (899 posts)")
+* [Why Croatians hate Yugoslavia? (10)](https://forum.nationstates.net/viewtopic.php?t=555579&f=20&view=unread#unread ""Why Croatians hate Yugoslavia?" (10 posts)")
+* [Commend or Condemn AN II (672)](https://forum.nationstates.net/viewtopic.php?t=553545&f=25&view=unread#unread ""Commend or Condemn AN II" (672 posts)")
+* [Would you invite AU to your birthday… (128)](https://forum.nationstates.net/viewtopic.php?t=554799&f=25&view=unread#unread ""Would you invite AU to your birthday party!" (128 posts)")
+* [Solar Spring \[IC, App\] (9)](https://forum.nationstates.net/viewtopic.php?t=554743&f=5&view=unread#unread ""Solar Spring [IC, App]" (9 posts)")
 
 Advertisement
 
