@@ -1,3 +1,5 @@
+Earn 20% commission for every subscription taken with your affiliate link [Register](https://yiff-party.com/yiff-party-affiliation/)
+
 [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201000%20260'%3E%3C/svg%3E)
 
 ![](https://yiff-party.com/wp-content/uploads/2022/12/Yiff-Party-1.6.png)](https://yiff-party.com/)[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201000%20260'%3E%3C/svg%3E)
@@ -105,7 +107,7 @@ August 24, 2024
 
 [elena and elin (mythology) created by psychorodent](https://yiff-party.com/yiff/elena-and-elin-mythology-created-by-psychorodent/)
 
-0 478 1
+0 487 1
 
 August 24, 2024
 
@@ -113,15 +115,15 @@ August 24, 2024
 
 [created by rabbitbrush](https://yiff-party.com/yiff/created-by-rabbitbrush/)
 
-0 182 1
+0 193 1
 
 September 11, 2024
 
-[](https://yiff-party.com/yiff/suki-lane-illumination-entertainment-and-etc-created-by-redvais/)
+[](https://yiff-party.com/yiff/nintendo-and-etc-created-by-marchharedraws/)
 
-[suki lane (illumination entertainment and etc) created by redvais](https://yiff-party.com/yiff/suki-lane-illumination-entertainment-and-etc-created-by-redvais/)
+[nintendo and etc created by marchharedraws](https://yiff-party.com/yiff/nintendo-and-etc-created-by-marchharedraws/)
 
-0 210 0
+0 97 0
 
 August 22, 2024
 
