@@ -13,8 +13,8 @@ Menu
     TOP STORIES
     
     * [Thousands of exploding devices in Lebanon trigger a nation that has been on edge for years](https://apnews.com/article/lebanon-pagers-hezbollahexplosion-israel-beirut-port-6c51ff6c743ba63154b95790357d31df)
-    * [Israeli official says Israel targeted a senior Hezbollah military official in Beirut airstrike](https://apnews.com/article/israel-hezbollah-rocket-attack-mideast-tensions-a6a95169a21b45dc86d86182e255fa7e)
-    * [Woman whose firm was linked to the exploding pagers is under Hungarian protection, her mother says](https://apnews.com/article/hungarian-company-lebanon-5b1e0fef6b7c0e2a4c0c5b4655bbca61)
+    * [Israel says its strike on Beirut killed a top Hezbollah military official as Lebanon reports 12 died](https://apnews.com/article/israel-hezbollah-rocket-attack-mideast-tensions-a6a95169a21b45dc86d86182e255fa7e)
+    * [Hezbollah leader vows retaliation against Israel for attacks on devices as both sides trade strikes](https://apnews.com/article/israel-lebanon-exploding-devices-hezbollah-mideast-ab2436cf5bae5e2fe2dddb293671a0ac)
     
     Newsletters
     
@@ -30,9 +30,9 @@ Menu
     
     TOP STORIES
     
-    * [Kentucky sheriff charged in judge's death allegedly ignored deputy's abuse of woman in his chambers](https://apnews.com/article/kentucky-sheriff-judge-courthouse-shooting-d8df59f414023489527e9aef49f4c8cf)
-    * [A new life is proposed for Three Mile Island supplying power to Microsoft data centers](https://apnews.com/article/three-mile-island-nuclear-power-microsoft-8f47ba63a7aab8831a7805dfde0e2c39)
-    * [White officer who fatally shot Black man shouldn't have been in his backyard, judge rules in suit](https://apnews.com/article/exkansas-city-detective-wrongful-death-lawsuit-59a7e2b9fa8c512969608d52bd94fab3)
+    * [Tiny Kentucky town is rocked as their sheriff is jailed in the killing of a prominent judge](https://apnews.com/article/kentucky-sheriff-judge-courthouse-shooting-d8df59f414023489527e9aef49f4c8cf)
+    * [AI may breathe new life into Three Mile Island to supply power to Microsoft's data centers](https://apnews.com/article/three-mile-island-nuclear-power-microsoft-8f47ba63a7aab8831a7805dfde0e2c39)
+    * [Robinson won't appear at Trump's North Carolina rally after report on online posts, AP sources say](https://apnews.com/article/north-carolina-governor-mark-robinson-trump-kamala-harris-cooper-cnn-stein-c7ee5c23f554f3708619d6b68e208b94)
     
     Newsletters
     
@@ -72,9 +72,9 @@ Menu
     
     TOP STORIES
     
-    * [Supreme Court leaves Green Party presidential candidate Jill Stein off the ballot in Nevada](https://apnews.com/article/trump-election-nevada-supreme-court-president-153b22ae5f41fe66f578ce430e878624)
-    * [Harris focusing on personal stories as she campaigns on abortion rights](https://apnews.com/article/harris-election-abortion-rights-georgia-amber-thurman-5ba5dabf0dc3c98de12389c34b47475d)
-    * [Seeking to counter China, US awards $3 billion for EV battery production in 14 states](https://apnews.com/article/ev-batteries-lithium-biden-harris-china-3eaa57b34878a23dd55fe167eb8095f2)
+    * [Controversial North Carolina candidate for governor rattles Republicans in critical swing state](https://apnews.com/article/mark-robinson-north-carolina-governor-trump-e5f7e3740c518883eefd16fd04f8533d)
+    * [Secret Service report details communication failures preceding July assassination attempt on Trump](https://apnews.com/article/trump-secret-service-assassination-attempt-campaign-7dca5e30730287f46cceaa35437f0d47)
+    * [In-person voting begins for the US presidential contest, kicking off the sprint to Election Day](https://apnews.com/article/early-voting-presidential-election-trump-harris-7fb7a8ff28490f71cd15529321dfe765)
     
     Newsletters
     
@@ -93,7 +93,7 @@ Menu
     TOP STORIES
     
     * [Ohtani keeps showing a flair for the dramatic during his historic 1st season with the Dodgers](https://apnews.com/article/shohei-ohtani-dodgers-history-54d98e25e093a2041eb566261ad59b93)
-    * [Shohei Ohtani surpasses 50-50 milestone in spectacular fashion with a 3-homer, 2-steal game](https://apnews.com/article/dodgers-shohei-ohtani-f8141d695112175fc2b695a0e9e748d9)
+    * [Japan celebrates as Ohtani becomes the first major leaguer to reach 50-50 milestone](https://apnews.com/article/japan-baseball-ohtani-fc70beed86971c0f72c7bd55f15dbc56)
     * [Joel Embiid signs a 3-year, $193 million contract extension with the 76ers](https://apnews.com/article/joel-embiid-philadelphia-76ers-extension-b6e87d045eb34e62c5864495012f54a4)
     
     Newsletters
@@ -126,9 +126,9 @@ Menu
     
     TOP STORIES
     
-    * [Seeking to counter China, US awards $3 billion for EV battery production in 14 states](https://apnews.com/article/ev-batteries-lithium-biden-harris-china-3eaa57b34878a23dd55fe167eb8095f2)
-    * [At Google antitrust trial, documents say one thing. The tech giant's witnesses say different](https://apnews.com/article/google-antitrust-monopoly-ads-trial-f13bdceec0ed494973300b797f2f2990)
-    * [Nike names Elliott Hill as CEO, replacing John Donahoe](https://apnews.com/article/nike-new-ceo-elliott-hill-john-donahoe-6f439a3f5a62e9b2380aaf3e21c7e220)
+    * [Brazil drought punishes coffee farms and threatens to push prices even higher](https://apnews.com/article/brazil-climate-change-drought-coffee-harvest-a6516a4b314e6ba7c11513c08afb6996)
+    * [Stock market today: Wall Street hovers around records as FedEx slumps](https://apnews.com/article/stocks-markets-rates-fed-japan-acfb636ed8e0e341a1e93b1567ff0358)
+    * [House backs measure to overturn Biden auto emissions rule that Republicans say would force EV sales](https://apnews.com/article/epa-tailpipe-emissions-electric-vehicles-republicans-1a1e4f817f21b593d8573a2bc8582474)
     
 * [Science](https://apnews.com/science)
     
@@ -168,12 +168,12 @@ Menu
     
     TOP STORIES
     
+    * [Doing lunges while brushing your teeth, and other ways to stack healthy habits](https://apnews.com/article/wellness-fitness-habit-stacking-piggybacking-5c82051c4981a409f44ad3d443c5fb61)
     * [Menopause can bring on dental problems, but you can protect your mouth](https://apnews.com/article/menopause-dental-dry-mouth-estrogen-414c39e119f4d3f17e9be289c9dd6914)
     * [Take the lead in making leash time with your dog safer](https://apnews.com/article/dog-walking-injuries-health-leashes-316c71a8dff0ea553af8d3f6a170616d)
+    * [Young girls are using anti-aging products they see on social media. The harm is more than skin deep](https://apnews.com/article/influenced-skincare-routine-mental-health-f59bb09114ab93323e3a47197a1ad914)
+    * [Ultraprocessed foods are everywhere. How bad are they?](https://apnews.com/article/ultraprocessed-foods-healthy-diet-0501eb985016149541e6cc727e55dfea)
     * [Talking about death can be tricky. Here's how to start the conversation](https://apnews.com/article/death-loss-grief-palliative-care-137e76cc917f749cc06879e17c10b5fc)
-    * [Allergies can make you miserable. Here's how to track pollen levels near you](https://apnews.com/article/allergies-pollen-symptoms-tree-grass-spring-b2cf14d86549791a64d78eb1529a98ea)
-    * [Doing lunges while brushing your teeth, and other ways to stack healthy habits](https://apnews.com/article/wellness-fitness-habit-stacking-piggybacking-5c82051c4981a409f44ad3d443c5fb61)
-    * [How to pick a preschool without becoming overwhelmed](https://apnews.com/article/best-preschool-daycare-child-care-d990c5aae5e7b17d76a73c7dff470eb9)
     
 * [Newsletters](https://apnews.com/newsletters)
     
@@ -203,9 +203,9 @@ Menu
     
     TOP STORIES
     
-    * [Germany springs to life in vivid scenes of nature](https://apnews.com/article/germany-nature-photo-gallery-horses-birds-6caac51b077d98f338b23580b068ac10)
-    * [How Churchill embraces its title as polar bear capital of the world](https://apnews.com/article/canada-churchill-polar-bear-climate-photo-gallery-92a25e2df704da7a9e6003e66abab699)
+    * [It's been a decade since 43 students disappeared in Mexico. Their parents still fight for answers](https://apnews.com/article/mexico-missing-students-teachers-college-10th-anniversary-e2bf00122e95ac7e38e8391af47ec3e8)
     * [Sri Lanka's plantation workers live on the margins. But politicians still want their votes](https://apnews.com/article/sri-lanka-presidential-election-plantation-workers-b798368f9927a7955a68cab18699a436)
+    * [Germany springs to life in vivid scenes of nature](https://apnews.com/article/germany-nature-photo-gallery-horses-birds-6caac51b077d98f338b23580b068ac10)
     
     Newsletters
     
@@ -247,7 +247,7 @@ Menu
     * [Two Georgia deaths are tied to abortion restrictions. Experts say abortion pills they took are safe](https://apnews.com/article/abortion-pills-georgia-mifepristone-misoprostol-kamala-harris-fd3c817f42ccc74b04d12450efb92f4a)
     * [Scientists show how pregnancy changes the brain in innumerable ways](https://apnews.com/article/pregnancy-brain-changes-mri-164b505abd05d3e5c9d93c0ef2953a80)
     * [Menopause can bring on dental problems, but you can protect your mouth](https://apnews.com/article/menopause-dental-dry-mouth-estrogen-414c39e119f4d3f17e9be289c9dd6914)
-    * [A gold mining town in Congo has become an mpox hot spot as a new strain spreads](https://apnews.com/article/mpox-new-strain-outbreak-kamituga-eastern-congo-f9affb7a7d73c8c30daf296c51c920c7)
+    * [The Navy's highest-ranking military officer is treated successfully for breast cancer](https://apnews.com/article/navy-chief-breast-cancer-admiral-05781b2867102f92aa1930c045f575fa)
     
 * [Tech](https://apnews.com/technology)
     
@@ -269,9 +269,9 @@ Menu
     
     TOP STORIES
     
+    * [Gucci constructs looks of casual grandeur as Tod's focuses on Artisanal Intelligence](https://apnews.com/article/milan-fashion-week-tods-gucci-versace-sunnei-8f7b0508f1f815ee4b3dcfaed1e5a463)
     * [A night with Peter Cat Recording Co., the New Delhi band that's found global appeal](https://apnews.com/article/peter-cat-recording-co-interview-84526593feefea3e69953b95ed5c0c3d)
     * [Turkey wants to regulate Germany's beloved döner kebab street food](https://apnews.com/article/germany-turkey-doner-kebab-45c9582057c544935420e917c305f15a)
-    * [Through two games, Giants offensive line has shown some improvement](https://apnews.com/article/ny-giants-offensive-line-2e9896ca93e8ba254028fc2abda6e77a)
     
 * [Religion](https://apnews.com/religion)
     
@@ -294,11 +294,11 @@ Menu
     TOP STORIES
     
     * [La reforma para pasar la Guardia Nacional a manos del Ejército avanza en el Congreso mexicano](https://apnews.com/world-news/general-news-224924522909b55b5729eaca0331c634)
+    * [Ataque de Israel contra Hezbollah en Beirut deja 8 muertos y decenas de heridos](https://apnews.com/world-news/general-news-743b277e32d09199f5f38949f49307f1)
     * [Diez años sin respuestas en México. Los padres de los 43 desaparecidos de Ayotzinapa no se rinden](https://apnews.com/world-news/general-news-e7e00859ee3dc4dd12afd36c7e8f378b)
     * [La noche de la desaparición de 43 estudiantes en el sur de México, en la voz de un superviviente](https://apnews.com/world-news/general-news-29eaf6828082b471997025bf995674cd)
     * [AP Fotos: Las mejores fotos de la semana en América Latina](https://apnews.com/world-news/general-news-7801a02a6f4d9b28b964511fb7ecc752)
-    * [Israel ataca suburbio de Beirut luego de que Hezbollah azotó el norte de Israel con 140 cohetes](https://apnews.com/world-news/general-news-743b277e32d09199f5f38949f49307f1)
-    * [Alcalde de ciudad francesa se disculpa por comentarios que minimizan caso de violación en serie](https://apnews.com/world-news/general-news-758c63ee941c302ab08e89d5354cb1fc)
+    * [Informe del Servicio Secreto de EEUU detalla fallas que precedieron intento de asesinato de Trump](https://apnews.com/us-news/general-news-f1759d29d6abb4160dd814651dce9899)
     
 * [AP Buyline Personal Finance](https://apnews.com/buyline-personal-finance/)
     
@@ -454,8 +454,8 @@ Submit Search
     TOP STORIES
     
     * [Thousands of exploding devices in Lebanon trigger a nation that has been on edge for years](https://apnews.com/article/lebanon-pagers-hezbollahexplosion-israel-beirut-port-6c51ff6c743ba63154b95790357d31df)
-    * [Israeli official says Israel targeted a senior Hezbollah military official in Beirut airstrike](https://apnews.com/article/israel-hezbollah-rocket-attack-mideast-tensions-a6a95169a21b45dc86d86182e255fa7e)
-    * [Woman whose firm was linked to the exploding pagers is under Hungarian protection, her mother says](https://apnews.com/article/hungarian-company-lebanon-5b1e0fef6b7c0e2a4c0c5b4655bbca61)
+    * [Israel says its strike on Beirut killed a top Hezbollah military official as Lebanon reports 12 died](https://apnews.com/article/israel-hezbollah-rocket-attack-mideast-tensions-a6a95169a21b45dc86d86182e255fa7e)
+    * [Hezbollah leader vows retaliation against Israel for attacks on devices as both sides trade strikes](https://apnews.com/article/israel-lebanon-exploding-devices-hezbollah-mideast-ab2436cf5bae5e2fe2dddb293671a0ac)
     
     Newsletters
     
@@ -471,9 +471,9 @@ Submit Search
     
     TOP STORIES
     
-    * [Kentucky sheriff charged in judge's death allegedly ignored deputy's abuse of woman in his chambers](https://apnews.com/article/kentucky-sheriff-judge-courthouse-shooting-d8df59f414023489527e9aef49f4c8cf)
-    * [A new life is proposed for Three Mile Island supplying power to Microsoft data centers](https://apnews.com/article/three-mile-island-nuclear-power-microsoft-8f47ba63a7aab8831a7805dfde0e2c39)
-    * [White officer who fatally shot Black man shouldn't have been in his backyard, judge rules in suit](https://apnews.com/article/exkansas-city-detective-wrongful-death-lawsuit-59a7e2b9fa8c512969608d52bd94fab3)
+    * [Tiny Kentucky town is rocked as their sheriff is jailed in the killing of a prominent judge](https://apnews.com/article/kentucky-sheriff-judge-courthouse-shooting-d8df59f414023489527e9aef49f4c8cf)
+    * [AI may breathe new life into Three Mile Island to supply power to Microsoft's data centers](https://apnews.com/article/three-mile-island-nuclear-power-microsoft-8f47ba63a7aab8831a7805dfde0e2c39)
+    * [Robinson won't appear at Trump's North Carolina rally after report on online posts, AP sources say](https://apnews.com/article/north-carolina-governor-mark-robinson-trump-kamala-harris-cooper-cnn-stein-c7ee5c23f554f3708619d6b68e208b94)
     
     Newsletters
     
@@ -523,9 +523,9 @@ Submit Search
     
     TOP STORIES
     
-    * [Supreme Court leaves Green Party presidential candidate Jill Stein off the ballot in Nevada](https://apnews.com/article/trump-election-nevada-supreme-court-president-153b22ae5f41fe66f578ce430e878624)
-    * [Harris focusing on personal stories as she campaigns on abortion rights](https://apnews.com/article/harris-election-abortion-rights-georgia-amber-thurman-5ba5dabf0dc3c98de12389c34b47475d)
-    * [Seeking to counter China, US awards $3 billion for EV battery production in 14 states](https://apnews.com/article/ev-batteries-lithium-biden-harris-china-3eaa57b34878a23dd55fe167eb8095f2)
+    * [Controversial North Carolina candidate for governor rattles Republicans in critical swing state](https://apnews.com/article/mark-robinson-north-carolina-governor-trump-e5f7e3740c518883eefd16fd04f8533d)
+    * [Secret Service report details communication failures preceding July assassination attempt on Trump](https://apnews.com/article/trump-secret-service-assassination-attempt-campaign-7dca5e30730287f46cceaa35437f0d47)
+    * [In-person voting begins for the US presidential contest, kicking off the sprint to Election Day](https://apnews.com/article/early-voting-presidential-election-trump-harris-7fb7a8ff28490f71cd15529321dfe765)
     
     Newsletters
     
@@ -554,7 +554,7 @@ Submit Search
     TOP STORIES
     
     * [Ohtani keeps showing a flair for the dramatic during his historic 1st season with the Dodgers](https://apnews.com/article/shohei-ohtani-dodgers-history-54d98e25e093a2041eb566261ad59b93)
-    * [Shohei Ohtani surpasses 50-50 milestone in spectacular fashion with a 3-homer, 2-steal game](https://apnews.com/article/dodgers-shohei-ohtani-f8141d695112175fc2b695a0e9e748d9)
+    * [Japan celebrates as Ohtani becomes the first major leaguer to reach 50-50 milestone](https://apnews.com/article/japan-baseball-ohtani-fc70beed86971c0f72c7bd55f15dbc56)
     * [Joel Embiid signs a 3-year, $193 million contract extension with the 76ers](https://apnews.com/article/joel-embiid-philadelphia-76ers-extension-b6e87d045eb34e62c5864495012f54a4)
     
     Newsletters
@@ -598,9 +598,9 @@ Submit Search
     
     TOP STORIES
     
-    * [Seeking to counter China, US awards $3 billion for EV battery production in 14 states](https://apnews.com/article/ev-batteries-lithium-biden-harris-china-3eaa57b34878a23dd55fe167eb8095f2)
-    * [At Google antitrust trial, documents say one thing. The tech giant's witnesses say different](https://apnews.com/article/google-antitrust-monopoly-ads-trial-f13bdceec0ed494973300b797f2f2990)
-    * [Nike names Elliott Hill as CEO, replacing John Donahoe](https://apnews.com/article/nike-new-ceo-elliott-hill-john-donahoe-6f439a3f5a62e9b2380aaf3e21c7e220)
+    * [Brazil drought punishes coffee farms and threatens to push prices even higher](https://apnews.com/article/brazil-climate-change-drought-coffee-harvest-a6516a4b314e6ba7c11513c08afb6996)
+    * [Stock market today: Wall Street hovers around records as FedEx slumps](https://apnews.com/article/stocks-markets-rates-fed-japan-acfb636ed8e0e341a1e93b1567ff0358)
+    * [House backs measure to overturn Biden auto emissions rule that Republicans say would force EV sales](https://apnews.com/article/epa-tailpipe-emissions-electric-vehicles-republicans-1a1e4f817f21b593d8573a2bc8582474)
     
 * [Science](https://apnews.com/science)
     
@@ -646,12 +646,12 @@ Submit Search
     
     TOP STORIES
     
+    * [Doing lunges while brushing your teeth, and other ways to stack healthy habits](https://apnews.com/article/wellness-fitness-habit-stacking-piggybacking-5c82051c4981a409f44ad3d443c5fb61)
     * [Menopause can bring on dental problems, but you can protect your mouth](https://apnews.com/article/menopause-dental-dry-mouth-estrogen-414c39e119f4d3f17e9be289c9dd6914)
     * [Take the lead in making leash time with your dog safer](https://apnews.com/article/dog-walking-injuries-health-leashes-316c71a8dff0ea553af8d3f6a170616d)
+    * [Young girls are using anti-aging products they see on social media. The harm is more than skin deep](https://apnews.com/article/influenced-skincare-routine-mental-health-f59bb09114ab93323e3a47197a1ad914)
+    * [Ultraprocessed foods are everywhere. How bad are they?](https://apnews.com/article/ultraprocessed-foods-healthy-diet-0501eb985016149541e6cc727e55dfea)
     * [Talking about death can be tricky. Here's how to start the conversation](https://apnews.com/article/death-loss-grief-palliative-care-137e76cc917f749cc06879e17c10b5fc)
-    * [Allergies can make you miserable. Here's how to track pollen levels near you](https://apnews.com/article/allergies-pollen-symptoms-tree-grass-spring-b2cf14d86549791a64d78eb1529a98ea)
-    * [Doing lunges while brushing your teeth, and other ways to stack healthy habits](https://apnews.com/article/wellness-fitness-habit-stacking-piggybacking-5c82051c4981a409f44ad3d443c5fb61)
-    * [How to pick a preschool without becoming overwhelmed](https://apnews.com/article/best-preschool-daycare-child-care-d990c5aae5e7b17d76a73c7dff470eb9)
     
 * [Newsletters](https://apnews.com/newsletters)
     
@@ -684,9 +684,9 @@ Submit Search
     
     TOP STORIES
     
-    * [Germany springs to life in vivid scenes of nature](https://apnews.com/article/germany-nature-photo-gallery-horses-birds-6caac51b077d98f338b23580b068ac10)
-    * [How Churchill embraces its title as polar bear capital of the world](https://apnews.com/article/canada-churchill-polar-bear-climate-photo-gallery-92a25e2df704da7a9e6003e66abab699)
+    * [It's been a decade since 43 students disappeared in Mexico. Their parents still fight for answers](https://apnews.com/article/mexico-missing-students-teachers-college-10th-anniversary-e2bf00122e95ac7e38e8391af47ec3e8)
     * [Sri Lanka's plantation workers live on the margins. But politicians still want their votes](https://apnews.com/article/sri-lanka-presidential-election-plantation-workers-b798368f9927a7955a68cab18699a436)
+    * [Germany springs to life in vivid scenes of nature](https://apnews.com/article/germany-nature-photo-gallery-horses-birds-6caac51b077d98f338b23580b068ac10)
     
     Newsletters
     
@@ -732,7 +732,7 @@ Submit Search
     * [Two Georgia deaths are tied to abortion restrictions. Experts say abortion pills they took are safe](https://apnews.com/article/abortion-pills-georgia-mifepristone-misoprostol-kamala-harris-fd3c817f42ccc74b04d12450efb92f4a)
     * [Scientists show how pregnancy changes the brain in innumerable ways](https://apnews.com/article/pregnancy-brain-changes-mri-164b505abd05d3e5c9d93c0ef2953a80)
     * [Menopause can bring on dental problems, but you can protect your mouth](https://apnews.com/article/menopause-dental-dry-mouth-estrogen-414c39e119f4d3f17e9be289c9dd6914)
-    * [A gold mining town in Congo has become an mpox hot spot as a new strain spreads](https://apnews.com/article/mpox-new-strain-outbreak-kamituga-eastern-congo-f9affb7a7d73c8c30daf296c51c920c7)
+    * [The Navy's highest-ranking military officer is treated successfully for breast cancer](https://apnews.com/article/navy-chief-breast-cancer-admiral-05781b2867102f92aa1930c045f575fa)
     
 * [Tech](https://apnews.com/technology)
     
@@ -765,9 +765,9 @@ Submit Search
     
     TOP STORIES
     
+    * [Gucci constructs looks of casual grandeur as Tod's focuses on Artisanal Intelligence](https://apnews.com/article/milan-fashion-week-tods-gucci-versace-sunnei-8f7b0508f1f815ee4b3dcfaed1e5a463)
     * [A night with Peter Cat Recording Co., the New Delhi band that's found global appeal](https://apnews.com/article/peter-cat-recording-co-interview-84526593feefea3e69953b95ed5c0c3d)
     * [Turkey wants to regulate Germany's beloved döner kebab street food](https://apnews.com/article/germany-turkey-doner-kebab-45c9582057c544935420e917c305f15a)
-    * [Through two games, Giants offensive line has shown some improvement](https://apnews.com/article/ny-giants-offensive-line-2e9896ca93e8ba254028fc2abda6e77a)
     
 * [Religion](https://apnews.com/religion)
     
@@ -790,11 +790,11 @@ Submit Search
     TOP STORIES
     
     * [La reforma para pasar la Guardia Nacional a manos del Ejército avanza en el Congreso mexicano](https://apnews.com/world-news/general-news-224924522909b55b5729eaca0331c634)
+    * [Ataque de Israel contra Hezbollah en Beirut deja 8 muertos y decenas de heridos](https://apnews.com/world-news/general-news-743b277e32d09199f5f38949f49307f1)
     * [Diez años sin respuestas en México. Los padres de los 43 desaparecidos de Ayotzinapa no se rinden](https://apnews.com/world-news/general-news-e7e00859ee3dc4dd12afd36c7e8f378b)
     * [La noche de la desaparición de 43 estudiantes en el sur de México, en la voz de un superviviente](https://apnews.com/world-news/general-news-29eaf6828082b471997025bf995674cd)
     * [AP Fotos: Las mejores fotos de la semana en América Latina](https://apnews.com/world-news/general-news-7801a02a6f4d9b28b964511fb7ecc752)
-    * [Israel ataca suburbio de Beirut luego de que Hezbollah azotó el norte de Israel con 140 cohetes](https://apnews.com/world-news/general-news-743b277e32d09199f5f38949f49307f1)
-    * [Alcalde de ciudad francesa se disculpa por comentarios que minimizan caso de violación en serie](https://apnews.com/world-news/general-news-758c63ee941c302ab08e89d5354cb1fc)
+    * [Informe del Servicio Secreto de EEUU detalla fallas que precedieron intento de asesinato de Trump](https://apnews.com/us-news/general-news-f1759d29d6abb4160dd814651dce9899)
     
 * [AP Buyline Personal Finance](https://apnews.com/buyline-personal-finance/)
     
