@@ -66,9 +66,7 @@ Any e-mail addresses are not used or collected for any purpose other than notify
 
 ### Look at this!
 
-[![incumbency](/assets/logos/SuccessRateContestedGeneral2005-2010.png)](http://www.followthemoney.org/research/institute-research/the-role-of-money-and-incumbency-in-2009-2010-state-elections)
-
-The power of incumbency and money.
+[![Names in the News: Alpha Natural Resources](/assets/Images/teasers/full/ANR-Coal-by-Party.png)](http://www.followthemoney.org/research/institute-reports/names-in-the-news-alpha-natural-resources/)
 
   [See More Visualizations](https://www.followthemoney.org/look-at-this)
 
