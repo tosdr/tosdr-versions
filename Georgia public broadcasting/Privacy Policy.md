@@ -275,6 +275,27 @@ Don't Miss:
 
   [![GPB donate icon](/themes/custom/ga_forest/assets/images/icons/donate/donate--blue-bright.svg) ![GPB donate icon](/themes/custom/ga_forest/assets/images/icons/donate/donate--blue-sky.svg)Donate](https://www.gpb.org/give-now "Donate to Georgia Public Broadcasting")
 
+![](/themes/custom/ga_forest/assets/images/icons/alerts/alert-live.svg)
+
+WATCH LIVE | Mays At Creekside - Kickoff At 7:30 P.M.
+-----------------------------------------------------
+
+[WATCH!](https://www.gpb.org/sports/football/match/2024/09/20/mays-at-creekside)
+
+![](/themes/custom/ga_forest/assets/images/icons/alerts/alert-live-grey.svg)
+
+WATCH LIVE | GPB Web Game Of The Week: Blessed Trinity At Hebron Christian Academy - Kickoff At 7:30 P.M.
+---------------------------------------------------------------------------------------------------------
+
+[WATCH!](https://www.gpb.org/sports/football/match/2024/09/20/blessed-trinity-at-hebron-christian-academy)
+
+![](/themes/custom/ga_forest/assets/images/icons/alerts/alert-live-darkgreen.svg)
+
+WATCH | Frontline: South Korea's Adoption Reckoning On GPB Knowledge At 10 P.M.
+-------------------------------------------------------------------------------
+
+[WATCH!](https://www.gpb.org/television/knowledge/live)
+
 Messages
 --------
 
