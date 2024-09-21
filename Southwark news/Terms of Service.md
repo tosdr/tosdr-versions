@@ -197,6 +197,12 @@ Terms of Use
 
 ### Popular Articles
 
+[![The Great Boat Race is on September 21 (Thames Festival Trust)](https://southwarknews.co.uk/wp-content/uploads/2024/09/Image-22-07-2024-at-09.32-120x86.jpg)](https://southwarknews.co.uk/news/community/great-river-race-to-hit-the-thames-this-saturday-with-300-boats-to-compete/)
+
+### [Great River race to hit the Thames this Saturday with 300 boats to compete](https://southwarknews.co.uk/news/community/great-river-race-to-hit-the-thames-this-saturday-with-300-boats-to-compete/)
+
+[21st September 2024](https://southwarknews.co.uk/news/community/great-river-race-to-hit-the-thames-this-saturday-with-300-boats-to-compete/)
+
 [![JD Wetherspoon has applied for a license at 50 Tooley Street. Image: Google](https://southwarknews.co.uk/wp-content/uploads/2024/09/JD-Wetherspoon-has-applied-for-a-license-at-50-Tooley-Street.-Image-Google-120x86.png)](https://southwarknews.co.uk/area/borough/wetherspoons-to-open-pub-in-former-london-dungeon/)
 
 ### [Wetherspoons to open pub in former London Dungeon](https://southwarknews.co.uk/area/borough/wetherspoons-to-open-pub-in-former-london-dungeon/)
@@ -226,13 +232,6 @@ Terms of Use
 ### [Spanish 17th-century galleon will soon arrive in London](https://southwarknews.co.uk/news/spanish-17th-century-galleon-will-soon-arrive-in-london/)
 
 [14th September 2024](https://southwarknews.co.uk/news/spanish-17th-century-galleon-will-soon-arrive-in-london/)
-
-[![Christine Rixon, 75, and Paul Rixon, 76, shown on Bromley High Street.
-Photo by  Joe Coughlan.](https://southwarknews.co.uk/wp-content/uploads/2024/09/Christine-and-Paul-Rixon-120x86.jpg)](https://southwarknews.co.uk/area/south-london/pensioners-in-south-london-disgusted-by-governments-cut-to-winter-fuel-payments/)
-
-### [Pensioners in South London ‘disgusted’ by Government’s cut to Winter Fuel Payments](https://southwarknews.co.uk/area/south-london/pensioners-in-south-london-disgusted-by-governments-cut-to-winter-fuel-payments/)
-
-[15th September 2024](https://southwarknews.co.uk/area/south-london/pensioners-in-south-london-disgusted-by-governments-cut-to-winter-fuel-payments/)
 
 ### Featured Articles
 
