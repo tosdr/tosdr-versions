@@ -16,7 +16,9 @@ Try Enhance Select hearing aids risk-free for 100 days. [Shop now](https://www.l
 
 [Hearing aids](https://www.listenlively.com/product)[Remote care](https://www.listenlively.com/hearing-care)[Hearing resources](https://www.listenlively.com/hearing-aid-guide)
 
-[(800) 854-2772We're open! Call now](tel:8008542772)[](tel:8008542772 "Call us")
+Schedule call[(800) 854-2772](tel:8008542772)
+
+[](tel:8008542772 "Call us")
 
 [](https://www.listenlively.com/survey)
 
@@ -153,7 +155,7 @@ With our **Premium Package**, our Audiology Team works with you remotely to impr
     
     **Enhance Select 500**Our smallest, most advanced hearing aids. Excellent in the most complex listening situations like hearing multiple people at a loud party.$1,795 - $1,995  
     or as low as $58/mo per pair\*](https://www.listenlively.com/product/enhanceselect500)
-* [![](/cdn-cgi/image/width=640,quality=80,format=auto/_next/static/media/es300-home-bundle-test-variant.23ae3568.png)
+* [![](/cdn-cgi/image/width=640,quality=80,format=auto/_next/static/media/es300-home-bundle.e9cd8a33.png)
     
     **Enhance Select 300**Excellent in the most complex listening situations like hearing multiple people at a loud party.$1,495 - $1,695  
     or as low as $49/mo per pair\*](https://www.listenlively.com/product/enhanceselect300)
@@ -188,21 +190,6 @@ Next
 * Advanced acoustics
 
 [Shop now](https://www.listenlively.com/product/enhanceselect500)
-
-Get personalized care with our Premium Package
-----------------------------------------------
-
-### Programmed for you
-
-Hearing aids custom-programmed to your unique hearing needs based on your online test results or audiogram.
-
-### Care from your couch
-
-Video chat with a licensed hearing specialist about your hearing and hearing aids, as often as needed.
-
-### Adjustments made by experts
-
-If you're having an issue, our Audiology Team will tweak your hearing aids via the app, from anywhere.
 
 The reviews are in
 ------------------
