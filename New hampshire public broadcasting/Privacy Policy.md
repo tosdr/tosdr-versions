@@ -184,15 +184,15 @@ NHPBS inspires one million Granite Staters each month with engaging and trusted 
 
 ###### LATEST VIDEO
 
+* [**full episode, 9/20/24** | Washington Week with The Atlantic](https://video.nhpbs.org/video/washington-week-with-the-atlantic-full-episode-92024-oq2ehz?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Carmelo Anthony Receives the 2024 Sports Award** | Hispanic Heritage Awards](https://video.nhpbs.org/video/carmelo-anthony-receives-the-2024-sports-award-1eqwqg?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Preview** | Citizen Nation](https://video.nhpbs.org/video/preview-tqazry?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Preview of Silverback** | Nature](https://video.nhpbs.org/video/silverback-about?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Radically Rural 2024** | The State We're In](https://video.nhpbs.org/video/radically-rural-2024-z9q8g8?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**TTC Extra: Will Kamala Harris Win?** | To The Contrary](https://video.nhpbs.org/video/ttc-extra-will-kamala-harris-win-6o9k7s?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**U.N. Report Warns AI May Increase Global Tech Inequality** | Amanpour and Company](https://video.nhpbs.org/video/un-report-warns-ai-may-increase-global-tech-inequality-lnh4a6?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**September 20, 2024 - full episode** | PBS News Hour](https://video.nhpbs.org/video/september-20-2024-pbs-news-hour-full-episode-1726804801?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Bill O'Reilly** | Firing Line](https://video.nhpbs.org/video/bill-oreilly-wtkwfn?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**an election story** | DEADLOCK](https://video.nhpbs.org/video/an-election-story-biv4jx?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**Season 11: Extended Trailer** | Finding Your Roots](https://video.nhpbs.org/video/season-11-extended-trailer?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 
 **FCC Public File Info**: [WENH](https://publicfiles.fcc.gov/tv-profile/wenh-tv) | [WLED](https://publicfiles.fcc.gov/tv-profile/wled-tv) | [WEKW](https://publicfiles.fcc.gov/tv-profile/wekw-tv) | [EEO Public File Report](https://publicfiles.fcc.gov/tv-profile/wenh-tv/equal-employment-opportunity-records/additional-documents/eeo-public-file-reports/5d0f4964-7b9d-41c3-c658-a55a34730f8a/) | For assistance, please email [themailbox@nhpbs.org](mailto:themailbox@nhpbs.org)
 
