@@ -19,6 +19,10 @@
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![The Great Boat Race is on September 21 (Thames Festival Trust)](https://southwarknews.co.uk/wp-content/uploads/2024/09/Image-22-07-2024-at-09.32-360x180.jpg)](https://southwarknews.co.uk/news/community/great-river-race-to-hit-the-thames-this-saturday-with-300-boats-to-compete/)
+    
+    ### [Great River race to hit the Thames this Saturday with 300 boats to compete](https://southwarknews.co.uk/news/community/great-river-race-to-hit-the-thames-this-saturday-with-300-boats-to-compete/)
+    
     [![A still taken from footage of the incident. Image: Channel 4](https://southwarknews.co.uk/wp-content/uploads/2024/09/A-still-taken-from-footage-of-the-incident.-Image-Channel-4-360x180.png)](https://southwarknews.co.uk/area/around-south-east-london/policeman-who-pressed-taser-against-16-year-old-boys-neck-gets-final-warning/)
     
     ### [Policeman who ‘pressed Taser’ against 16-year-old boy’s neck gets ‘final warning’](https://southwarknews.co.uk/area/around-south-east-london/policeman-who-pressed-taser-against-16-year-old-boys-neck-gets-final-warning/)
@@ -50,10 +54,6 @@
     [![Neil Clayton, a solicitor, said he used the steps twice a week and was “used to it” but had heard of colleagues tumbling down. Credit: Herbie Russell](https://southwarknews.co.uk/wp-content/uploads/2024/09/IMG_2418-1-360x180.jpeg)](https://southwarknews.co.uk/area/borough/steps-by-london-bridge-with-bizarre-slanted-design-branded-worst-in-london/)
     
     ### [Steps by London Bridge with bizarre slanted design branded ‘worst in London’](https://southwarknews.co.uk/area/borough/steps-by-london-bridge-with-bizarre-slanted-design-branded-worst-in-london/)
-    
-    [![The 118 bus route. Credit: London Bus Routes (Creative Commons)](https://southwarknews.co.uk/wp-content/uploads/2024/09/The-118-Bus-Route.-Credit-London-Bus-Routes-Wiki-360x180.webp)](https://southwarknews.co.uk/area/south-london/118-bus-route-through-to-be-axed-under-tfl-plans/)
-    
-    ### [118 bus route to be axed under TfL plans](https://southwarknews.co.uk/area/south-london/118-bus-route-through-to-be-axed-under-tfl-plans/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [In depth history](https://southwarknews.co.uk/category/history/in-depth-history/)
@@ -99,6 +99,10 @@ View All Result
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![The Great Boat Race is on September 21 (Thames Festival Trust)](https://southwarknews.co.uk/wp-content/uploads/2024/09/Image-22-07-2024-at-09.32-360x180.jpg)](https://southwarknews.co.uk/news/community/great-river-race-to-hit-the-thames-this-saturday-with-300-boats-to-compete/)
+    
+    ### [Great River race to hit the Thames this Saturday with 300 boats to compete](https://southwarknews.co.uk/news/community/great-river-race-to-hit-the-thames-this-saturday-with-300-boats-to-compete/)
+    
     [![A still taken from footage of the incident. Image: Channel 4](https://southwarknews.co.uk/wp-content/uploads/2024/09/A-still-taken-from-footage-of-the-incident.-Image-Channel-4-360x180.png)](https://southwarknews.co.uk/area/around-south-east-london/policeman-who-pressed-taser-against-16-year-old-boys-neck-gets-final-warning/)
     
     ### [Policeman who ‘pressed Taser’ against 16-year-old boy’s neck gets ‘final warning’](https://southwarknews.co.uk/area/around-south-east-london/policeman-who-pressed-taser-against-16-year-old-boys-neck-gets-final-warning/)
@@ -130,10 +134,6 @@ View All Result
     [![Neil Clayton, a solicitor, said he used the steps twice a week and was “used to it” but had heard of colleagues tumbling down. Credit: Herbie Russell](https://southwarknews.co.uk/wp-content/uploads/2024/09/IMG_2418-1-360x180.jpeg)](https://southwarknews.co.uk/area/borough/steps-by-london-bridge-with-bizarre-slanted-design-branded-worst-in-london/)
     
     ### [Steps by London Bridge with bizarre slanted design branded ‘worst in London’](https://southwarknews.co.uk/area/borough/steps-by-london-bridge-with-bizarre-slanted-design-branded-worst-in-london/)
-    
-    [![The 118 bus route. Credit: London Bus Routes (Creative Commons)](https://southwarknews.co.uk/wp-content/uploads/2024/09/The-118-Bus-Route.-Credit-London-Bus-Routes-Wiki-360x180.webp)](https://southwarknews.co.uk/area/south-london/118-bus-route-through-to-be-axed-under-tfl-plans/)
-    
-    ### [118 bus route to be axed under TfL plans](https://southwarknews.co.uk/area/south-london/118-bus-route-through-to-be-axed-under-tfl-plans/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [In depth history](https://southwarknews.co.uk/category/history/in-depth-history/)
@@ -209,6 +209,12 @@ This site uses cookies – small text files that are placed on your machine to h
 
 [16th September 2024](https://southwarknews.co.uk/sport/football/millwall/millwall-boss-gives-verdict-after-replacement-striker-inches-away-from-first-lions-goal/)
 
+[![A photo of the ship sailing in New York ®Alejandro Mallado Erbez](https://southwarknews.co.uk/wp-content/uploads/2024/09/Foto-Galeon-Nueva-York-2013-120x86.jpg)](https://southwarknews.co.uk/news/spanish-17th-century-galleon-will-soon-arrive-in-london/)
+
+### [Spanish 17th-century galleon will soon arrive in London](https://southwarknews.co.uk/news/spanish-17th-century-galleon-will-soon-arrive-in-london/)
+
+[14th September 2024](https://southwarknews.co.uk/news/spanish-17th-century-galleon-will-soon-arrive-in-london/)
+
 [![Christine Rixon, 75, and Paul Rixon, 76, shown on Bromley High Street.
 Photo by  Joe Coughlan.](https://southwarknews.co.uk/wp-content/uploads/2024/09/Christine-and-Paul-Rixon-120x86.jpg)](https://southwarknews.co.uk/area/south-london/pensioners-in-south-london-disgusted-by-governments-cut-to-winter-fuel-payments/)
 
@@ -216,19 +222,19 @@ Photo by  Joe Coughlan.](https://southwarknews.co.uk/wp-content/uploads/2024/09/
 
 [15th September 2024](https://southwarknews.co.uk/area/south-london/pensioners-in-south-london-disgusted-by-governments-cut-to-winter-fuel-payments/)
 
-[![A photo of the ship sailing in New York ®Alejandro Mallado Erbez](https://southwarknews.co.uk/wp-content/uploads/2024/09/Foto-Galeon-Nueva-York-2013-120x86.jpg)](https://southwarknews.co.uk/news/spanish-17th-century-galleon-will-soon-arrive-in-london/)
+[![The Aylesbury estate in Southwark is due to be demolished and rebuilt. CREDIT: Robert Firth](https://southwarknews.co.uk/wp-content/uploads/2024/09/281443832_1271655566700908_3428153952989453541_n-120x86.jpg)](https://southwarknews.co.uk/area/walworth/social-housing-on-regenerated-ayslesbury-estate-more-expensive-than-normal-council-housing-report-claims/)
 
-### [Spanish 17th-century galleon will soon arrive in London](https://southwarknews.co.uk/news/spanish-17th-century-galleon-will-soon-arrive-in-london/)
+### [Social housing on regenerated Ayslesbury Estate ‘more expensive’ than normal council housing, report claims](https://southwarknews.co.uk/area/walworth/social-housing-on-regenerated-ayslesbury-estate-more-expensive-than-normal-council-housing-report-claims/)
 
-[14th September 2024](https://southwarknews.co.uk/news/spanish-17th-century-galleon-will-soon-arrive-in-london/)
-
-[![Macaulay Langstaff for his new club against Portsmouth. Image: Millwall FC](https://southwarknews.co.uk/wp-content/uploads/2024/09/Langstaff-v-Portsmouth-120x86.jpeg)](https://southwarknews.co.uk/sport/football/millwall/millwall-striker-fully-confident-of-getting-off-the-mark-for-new-club/)
-
-### [Millwall striker ‘fully confident’ of getting off the mark for new club](https://southwarknews.co.uk/sport/football/millwall/millwall-striker-fully-confident-of-getting-off-the-mark-for-new-club/)
-
-[19th September 2024](https://southwarknews.co.uk/sport/football/millwall/millwall-striker-fully-confident-of-getting-off-the-mark-for-new-club/)
+[19th September 2024](https://southwarknews.co.uk/area/walworth/social-housing-on-regenerated-ayslesbury-estate-more-expensive-than-normal-council-housing-report-claims/)
 
 ### Featured Articles
+
+[![The Great Boat Race is on September 21 (Thames Festival Trust)](https://southwarknews.co.uk/wp-content/uploads/2024/09/Image-22-07-2024-at-09.32-120x86.jpg)](https://southwarknews.co.uk/news/community/great-river-race-to-hit-the-thames-this-saturday-with-300-boats-to-compete/)
+
+### [Great River race to hit the Thames this Saturday with 300 boats to compete](https://southwarknews.co.uk/news/community/great-river-race-to-hit-the-thames-this-saturday-with-300-boats-to-compete/)
+
+[21st September 2024](https://southwarknews.co.uk/news/community/great-river-race-to-hit-the-thames-this-saturday-with-300-boats-to-compete/)
 
 [![](https://southwarknews.co.uk/wp-content/uploads/2024/09/Pict-1-120x86.jpg)](https://southwarknews.co.uk/news/community/essential-information-for-those-starting-secondary-school-next-year/)
 
@@ -259,13 +265,6 @@ Photo by  Joe Coughlan.](https://southwarknews.co.uk/wp-content/uploads/2024/09/
 ### [Social housing on regenerated Ayslesbury Estate ‘more expensive’ than normal council housing, report claims](https://southwarknews.co.uk/area/walworth/social-housing-on-regenerated-ayslesbury-estate-more-expensive-than-normal-council-housing-report-claims/)
 
 [19th September 2024](https://southwarknews.co.uk/area/walworth/social-housing-on-regenerated-ayslesbury-estate-more-expensive-than-normal-council-housing-report-claims/)
-
-[![The floor design is a faithful reproduction of the original flooring from Victorian times
-Credit: Harrison Galliven](https://southwarknews.co.uk/wp-content/uploads/2024/09/Crystal-Palace-Subway-flooring-120x86.jpg)](https://southwarknews.co.uk/area/crystal-palace/first-glimpse-at-crystal-palaces-160-year-old-subway-to-open-to-public-this-saturday-after-3-5-million-restoration/)
-
-### [First glimpse at Crystal Palace’s 160-year-old subway to open to public this Saturday after £3.5 million restoration](https://southwarknews.co.uk/area/crystal-palace/first-glimpse-at-crystal-palaces-160-year-old-subway-to-open-to-public-this-saturday-after-3-5-million-restoration/)
-
-[19th September 2024](https://southwarknews.co.uk/area/crystal-palace/first-glimpse-at-crystal-palaces-160-year-old-subway-to-open-to-public-this-saturday-after-3-5-million-restoration/)
 
 ### USEFUL PAGES
 
