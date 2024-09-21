@@ -359,6 +359,7 @@ Mobile Menu
             * [Grande Access Pass](https://www.cityofgp.com/parks-recreation/facilities-venues/eastlink-centre/grande-access-pass)
             * [Rates & Membership](https://www.cityofgp.com/parks-recreation/facilities-venues/eastlink-centre/rates-membership)
                 * [Corporate Memberships](https://www.cityofgp.com/parks-recreation/facilities-venues/eastlink-centre/rates-membership/corporate-memberships)
+                * [Elevate Your Membership Experience](https://www.cityofgp.com/parks-recreation/facilities-venues/eastlink-centre/rates-membership/elevate-your-membership)
             * [Rules & Safety](https://www.cityofgp.com/parks-recreation/facilities-venues/eastlink-centre/rules-safety)
             * [Schedules](https://www.cityofgp.com/parks-recreation/facilities-venues/eastlink-centre/schedules)
             * [Sponsors](https://www.cityofgp.com/parks-recreation/facilities-venues/eastlink-centre/sponsors)
