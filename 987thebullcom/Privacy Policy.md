@@ -347,11 +347,11 @@ Recently Played
 
 |     |
 | --- |
-| What IfsKane Brown Ft Lauren Alaina<br><br>4:58am |
-| Dust On The BottleDavid Lee Murphy<br><br>4:55am |
-| Baby Daddy'S WeekendElle King<br><br>4:52am |
-| I Had Some HelpPost Malone Ft Morgan Wallen<br><br>4:49am |
-| WranglersMiranda Lambert<br><br>4:46am |
+| Dirt Road AnthemJason Aldean<br><br>11:37am |
+| She Had Me At Heads CarolinaCole Swindell<br><br>11:34am |
+| Pink SkiesZach Bryan<br><br>11:31am |
+| You ProofMorgan Wallen<br><br>11:28am |
+| I Got A GuyPost Malone Ft Luke Combs<br><br>11:25am |
 
 [View Full Playlist](https://www.987thebull.com/recently-played)
 
@@ -495,9 +495,9 @@ State
 Featured Brands
 ---------------
 
-[![News-Talk 1480 WHBC Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WHBCAM.png)](https://www.whbc.com/)
+[![Bay Country Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/BayCountry-BothFrequencies-DK%20(2).png)](https://www.kbaycountry.com/)
 
-News Talk • Eastern
+Country • Western
 
 [![Panhandle Sports Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/KVWE-Logo-RedBlack-Dk.png)](https://www.panhandlesportsstar.com/)
 
@@ -507,9 +507,9 @@ Sports • Midwest
 
 Top 40 • Pacific NW
 
-[![98.5 The Bull Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KDES.png)](https://www.985thebull.com/)
+[![99.7 DJX Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WDJX.png)](https://www.wdjx.com/)
 
-Country • Western
+Top 40 • Eastern
 
 [](https://www.alphamediausa.com/)
 
