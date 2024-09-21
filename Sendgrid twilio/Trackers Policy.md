@@ -39,11 +39,12 @@
         
         [PSTN](https://www.twilio.com/en-us/voice) [SIP Trunking](https://www.twilio.com/en-us/sip-trunking) [SDK](https://www.twilio.com/en-us/voice-sdk)
         
-    * [Twilio Verify logo
+    * Twilio Verify logo
         
         **Verify**
         
-        Globally-managed multichannel 2FA and passwordless authentication](https://www.twilio.com/en-us/verify)
+        Globally-managed multichannel 2FA and passwordless authentication
+        
     
     * * *
     
@@ -390,11 +391,12 @@ Data is collected based on search terms. [Privacy Policy](https://www.twilio.co
         
         [PSTN](https://www.twilio.com/en-us/voice) [SIP Trunking](https://www.twilio.com/en-us/sip-trunking) [SDK](https://www.twilio.com/en-us/voice-sdk)
         
-    * [Twilio Verify logo
+    * Twilio Verify logo
         
         **Verify**
         
-        Globally-managed multichannel 2FA and passwordless authentication](https://www.twilio.com/en-us/verify)
+        Globally-managed multichannel 2FA and passwordless authentication
+        
     
     * * *
     
