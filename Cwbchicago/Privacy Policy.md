@@ -242,35 +242,35 @@ We have included on the pages of this website a robots meta tag with the “noai
 
 This privacy policy was created in party by using [Termly’s Privacy Policy Generator](https://termly.io/products/privacy-policy-generator/?ftseo).
 
-[![](https://cwbchicago.com/wp-content/uploads/2024/09/chain-snatch-map-326x245.jpg)](https://cwbchicago.com/2024/09/thieves-riding-bikes-and-scooters-are-snatching-peoples-jewelry-in-the-loop-along-the-lake.html "Thieves riding bikes and scooters are snatching people’s jewelry in the Loop, along the lake")
+[![](https://cwbchicago.com/wp-content/uploads/2022/09/copa-18th-morgan-CPD-shooting-fram-326x245.jpg)](https://cwbchicago.com/2024/09/chicago-police-sergeant-acquitted-in-on-duty-shooting-sues-kim-foxx-and-others-for-wrongful-prosecution.html "Chicago police sergeant acquitted in on-duty shooting sues Kim Foxx and others for wrongful prosecution")
 
-Lincoln Park
+Pilsen
 
-### [Thieves riding bikes and scooters are snatching people’s jewelry in the Loop, along the lake](https://cwbchicago.com/2024/09/thieves-riding-bikes-and-scooters-are-snatching-peoples-jewelry-in-the-loop-along-the-lake.html "Thieves riding bikes and scooters are snatching people’s jewelry in the Loop, along the lake")
+### [Chicago police sergeant acquitted in on-duty shooting sues Kim Foxx and others for wrongful prosecution](https://cwbchicago.com/2024/09/chicago-police-sergeant-acquitted-in-on-duty-shooting-sues-kim-foxx-and-others-for-wrongful-prosecution.html "Chicago police sergeant acquitted in on-duty shooting sues Kim Foxx and others for wrongful prosecution")
 
-[September 19, 2024 7:47 AM](https://cwbchicago.com/2024/09)
+[September 19, 2024 12:04 PM](https://cwbchicago.com/2024/09)
 
-Thieves riding bikes and scooters have been snatching jewelry and other valuables from people in the Loop, Streeterville, and along the lakefront this week, according to Chicago police reports reviewed by CWBChicago.[](https://cwbchicago.com/2024/09/thieves-riding-bikes-and-scooters-are-snatching-peoples-jewelry-in-the-loop-along-the-lake.html "Thieves riding bikes and scooters are snatching people’s jewelry in the Loop, along the lake")
+A Chicago police sergeant has filed a federal lawsuit against the city, Cook County, and a handful of government employees, including State’s Attorney Kim Foxx, claiming that he was wrongfully prosecuted for an on-duty shooting.[](https://cwbchicago.com/2024/09/chicago-police-sergeant-acquitted-in-on-duty-shooting-sues-kim-foxx-and-others-for-wrongful-prosecution.html "Chicago police sergeant acquitted in on-duty shooting sues Kim Foxx and others for wrongful prosecution")
 
-[![](https://cwbchicago.com/wp-content/uploads/2022/11/David-Buckner-rec-326x245.jpg)](https://cwbchicago.com/2024/09/registered-sex-offender-gets-4-years-for-molesting-women-downtaon-and-on-the-cta.html "Registered sex offender gets 4 years for molesting women downtown and on the CTA")
+[![](https://cwbchicago.com/wp-content/uploads/2024/09/FBi-bank-rob-180-n-michigan-326x245.jpg)](https://cwbchicago.com/2024/09/fbi-offers-1k-reward-for-loop-bank-robber.html "FBI offers $1K reward for Loop bank robber")
 
-CTA
+Loop
 
-### [Registered sex offender gets 4 years for molesting women downtown and on the CTA](https://cwbchicago.com/2024/09/registered-sex-offender-gets-4-years-for-molesting-women-downtaon-and-on-the-cta.html "Registered sex offender gets 4 years for molesting women downtown and on the CTA")
+### [FBI offers $1K reward for Loop bank robber](https://cwbchicago.com/2024/09/fbi-offers-1k-reward-for-loop-bank-robber.html "FBI offers $1K reward for Loop bank robber")
 
-[September 18, 2024 7:58 PM](https://cwbchicago.com/2024/09)
+[September 19, 2024 10:57 AM](https://cwbchicago.com/2024/09)
 
-A convicted sex offender who repeatedly molested women on the CTA and on downtown streets received a four-year prison sentence after pleading guilty to three felonies on Tuesday.[](https://cwbchicago.com/2024/09/registered-sex-offender-gets-4-years-for-molesting-women-downtaon-and-on-the-cta.html "Registered sex offender gets 4 years for molesting women downtown and on the CTA")
+Need a quick $1,000? All you need to do is lead the FBI to this bank robber. The federal agency announced the modest reward Thursday morning.[](https://cwbchicago.com/2024/09/fbi-offers-1k-reward-for-loop-bank-robber.html "FBI offers $1K reward for Loop bank robber")
 
-[![](https://cwbchicago.com/wp-content/uploads/2024/09/From-left-Michael-Bailey-Julio-Beltran-Escobar-and-Estevan-Maldonado.-Chicago-Police-Department-Cook-County-Sheriffs-Office--326x245.jpg)](https://cwbchicago.com/2024/09/shotspotter-led-to-3-gun-arrests-in-under-an-hour-monday-chicago-police-reports-say.html "ShotSpotter alerts led to 3 gun arrests in under an hour Monday, Chicago police reports say")
+[![](https://cwbchicago.com/wp-content/uploads/2024/09/arrested-edited-326x245.jpg)](https://cwbchicago.com/2024/09/boy-16-linked-to-robberies-of-rideshare-drivers-in-south-shore.html "Boy, 16, linked to robberies of rideshare drivers in South Shore")
 
-Citywide
+South Shore
 
-### [ShotSpotter alerts led to 3 gun arrests in under an hour Monday, Chicago police reports say](https://cwbchicago.com/2024/09/shotspotter-led-to-3-gun-arrests-in-under-an-hour-monday-chicago-police-reports-say.html "ShotSpotter alerts led to 3 gun arrests in under an hour Monday, Chicago police reports say")
+### [Boy, 16, linked to robberies of rideshare drivers in South Shore](https://cwbchicago.com/2024/09/boy-16-linked-to-robberies-of-rideshare-drivers-in-south-shore.html "Boy, 16, linked to robberies of rideshare drivers in South Shore")
 
-[September 18, 2024 7:13 PM](https://cwbchicago.com/2024/09)
+[September 19, 2024 10:42 AM](https://cwbchicago.com/2024/09)
 
-In under one hour on Monday, Chicago police officers responding to separate ShotSpotter alerts arrested three people for illegal firearm possession, including one man who allegedly had a machine gun.[](https://cwbchicago.com/2024/09/shotspotter-led-to-3-gun-arrests-in-under-an-hour-monday-chicago-police-reports-say.html "ShotSpotter alerts led to 3 gun arrests in under an hour Monday, Chicago police reports say")
+A 16-year-old boy is charged with robbing two rideshare drivers in the South Shore neighborhood last week, part of an ongoing crime pattern that involved at least 12 similar holdups, according to Chicago police.[](https://cwbchicago.com/2024/09/boy-16-linked-to-robberies-of-rideshare-drivers-in-south-shore.html "Boy, 16, linked to robberies of rideshare drivers in South Shore")
 
 Search
 
