@@ -91,7 +91,7 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [Climate change could double U.S. temperature-linked deaths by mid-century](https://www.sciencenews.org/article/climate-change-double-temperature-death)
             
-            By [Andrea Tamayo](https://www.sciencenews.org/author/andrea-tamayo "Posts by Andrea Tamayo")20 hours ago
+            By [Andrea Tamayo](https://www.sciencenews.org/author/andrea-tamayo "Posts by Andrea Tamayo")September 20, 2024
             
         * [Microbes](https://www.sciencenews.org/topic/microbes)
             
@@ -118,7 +118,7 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [Scientists have just turned giant panda skin cells into stem cells](https://www.sciencenews.org/article/giant-panda-skin-cells-turned-stem-cells)
             
-            By [Jason Bittel](https://www.sciencenews.org/author/jason-bittel "Posts by Jason Bittel")21 hours ago
+            By [Jason Bittel](https://www.sciencenews.org/author/jason-bittel "Posts by Jason Bittel")September 20, 2024
             
         * [Microbes](https://www.sciencenews.org/topic/microbes)
             
@@ -142,7 +142,7 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [Climate change could double U.S. temperature-linked deaths by mid-century](https://www.sciencenews.org/article/climate-change-double-temperature-death)
             
-            By [Andrea Tamayo](https://www.sciencenews.org/author/andrea-tamayo "Posts by Andrea Tamayo")20 hours ago
+            By [Andrea Tamayo](https://www.sciencenews.org/author/andrea-tamayo "Posts by Andrea Tamayo")September 20, 2024
             
         * [Climate](https://www.sciencenews.org/topic/climate)
             
