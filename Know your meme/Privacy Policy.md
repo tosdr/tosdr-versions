@@ -97,30 +97,30 @@ Welcome! [Login](https://knowyourmeme.com/login) or [signup](https://knowyourmem
 * [Meme Insider](https://memeinsider.com/)
 * [Newsletter](https://knowyourmeme.com/newsletter)
 
-* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/025/964/dax_flame.jpg "Where Are They Now? This Is What Internet Legend 'Dax Flame' Has Been Up To Since His Late 2000s YouTube VlogsTube")
+* [![Goomer Is Coomer's Gaming Addicted Cousin](https://i.kym-cdn.com/featured_items/icons/wide/000/025/980/goom.jpg "Happy Anniversary To The Goomer, Who Is Different From The Gooner And The Coomer")
     
-    Where Are They Now? This Is What Internet Legend 'Dax Flame' Has Been Up To Since His Late 2000s YouTube VlogsTube](https://knowyourmeme.com/editorials/guides/where-are-they-now-this-is-what-internet-legend-dax-flame-has-been-up-to-since-his-late-2000s-youtube-vlogstube)
+    Happy Anniversary To The Goomer, Who Is Different From The Gooner And The Coomer](https://knowyourmeme.com/memes/goomer)
     
-* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/025/963/Nike_Elite_Zipper_trend_explainer_cover.jpg "What Is The 'Nike Elite Zipper Trend' And Why Are People Stealing The Zippers? The Latest TikTok Trend Explained")
+* [![Office Themed 'Among Us' Style Game 'Dale & Dawson Station Supplies' Gets Big Popularity Boost Online](https://i.kym-cdn.com/featured_items/icons/wide/000/025/979/1.jpg "Office Themed 'Among Us' Style Game 'Dale & Dawson Station Supplies' Gets Big Popularity Boost Online")
     
-    What Is The 'Nike Elite Zipper Trend' And Why Are People Stealing The Zippers? The Latest TikTok Trend Explained](https://knowyourmeme.com/editorials/guides/what-is-the-nike-elite-zipper-trend-and-why-are-people-stealing-the-zippers-the-latest-tiktok-trend-explained)
+    Office Themed 'Among Us' Style Game 'Dale & Dawson Station Supplies' Gets Big Popularity Boost Online](https://knowyourmeme.com/memes/subcultures/dale-dawson-stationary-supplies)
     
-* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/025/962/20240919-olivianuzzirfkjrsplit.jpg "Journalist Implies RFK Jr. and Olivia Nuzzi's 70-31 Age Gap Is Problematic, Recalling The Halcyon Days Of Twitter Hot Takes")
+* [![More Than Decades Since The First 'Samuel Johnson Reading' Meme Was Posted And The Image Is Still A Popular Reaction Image](https://i.kym-cdn.com/featured_items/icons/wide/000/025/978/Samuel_read_meme_cover.jpg "More Than Decades Since The First 'Samuel Johnson Reading' Meme Was Posted And The Image Is Still A Popular Reaction Image")
     
-    Journalist Implies RFK Jr. and Olivia Nuzzi's 70-31 Age Gap Is Problematic, Recalling The Halcyon Days Of Twitter Hot Takes](https://knowyourmeme.com/news/journalist-implies-rfk-jr-and-olivia-nuzzis-70-31-age-gap-is-problematic-recalling-the-halcyon-days-of-twitter-hot-takes)
+    More Than Decades Since The First 'Samuel Johnson Reading' Meme Was Posted And The Image Is Still A Popular Reaction Image](https://knowyourmeme.com/memes/samuel-johnson-reading)
     
-* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/025/961/goatcover.jpg "What Does The 'Salt Water Goat Torture' Two-Sentence Horror Story Mean? The Viral Reddit Post Explained")
+* [![Adam Levine Appointed The Chief Body Appreciator After His Sexting DMs Leak](https://i.kym-cdn.com/featured_items/icons/wide/000/025/977/1b2.jpg "Two Years Ago, Adam Levine Put A Big, Absurd Foot In His Mouth")
     
-    What Does The 'Salt Water Goat Torture' Two-Sentence Horror Story Mean? The Viral Reddit Post Explained](https://knowyourmeme.com/editorials/guides/what-does-the-salt-water-goat-torture-two-sentence-horror-story-mean-the-viral-reddit-post-explained)
+    Two Years Ago, Adam Levine Put A Big, Absurd Foot In His Mouth](https://knowyourmeme.com/memes/that-body-of-yours-is-absurd)
     
-* [![His Smile Is Very Creepy Naima Charlie Kirk Jubilee Debate meme.](https://i.kym-cdn.com/featured_items/icons/wide/000/025/960/his_smile_is_very_creepy.jpg "Charlie Kirk's Smile Scared This College Student Who Said 'His Smile Is Very Creepy'")
+* [![SocialAI, A Social Network Entirely Populated By You And An Infinite Number Of Bots, Causes Discourse And Jokes On Human-populated Social Media](https://i.kym-cdn.com/featured_items/icons/wide/000/025/976/socialAI.jpeg "SocialAI, A Social Network Entirely Populated By You And An Infinite Number Of Bots, Causes Discourse And Jokes On Human-populated Social Media")
     
-    Charlie Kirk's Smile Scared This College Student Who Said 'His Smile Is Very Creepy'](https://knowyourmeme.com/memes/his-smile-is-very-creepy-girl)
+    SocialAI, A Social Network Entirely Populated By You And An Infinite Number Of Bots, Causes Discourse And Jokes On Human-populated Social Media](https://knowyourmeme.com/memes/sites/socialai)
     
 
 ##### Also Trending:
 
-[Woke Content Detector](https://knowyourmeme.com/memes/sites/woke-content-detector "Woke Content Detector") [Harambe the Gorilla](https://knowyourmeme.com/memes/harambe-the-gorilla "Harambe the Gorilla") [You Can't Be Punk and Also Be](https://knowyourmeme.com/memes/you-cant-be-punk-and-also-be-racist-sexist-homophobic-or-transphobic "You Can't Be Punk and Also Be") [2024 Fur Affinity Hack](https://knowyourmeme.com/memes/events/2024-fur-affinity-hack "2024 Fur Affinity Hack")
+[Woke Content Detector](https://knowyourmeme.com/memes/sites/woke-content-detector "Woke Content Detector") [You Can't Be Punk and Also Be](https://knowyourmeme.com/memes/you-cant-be-punk-and-also-be-racist-sexist-homophobic-or-transphobic "You Can't Be Punk and Also Be") [Nintendo vs. Palworld Lawsuit](https://knowyourmeme.com/memes/events/nintendo-vs-palworld-lawsuit "Nintendo vs. Palworld Lawsuit") [Pager and Radio Attacks on Hezbollah](https://knowyourmeme.com/memes/events/2024-pager-and-radio-attacks-on-hezbollah "Pager and Radio Attacks on Hezbollah") [Queen Elizabeth II's Death](https://knowyourmeme.com/memes/events/queen-elizabeth-iis-death "Queen Elizabeth II's Death") [Concord](https://knowyourmeme.com/memes/subcultures/concord "Concord") [2024 Fur Affinity Hack](https://knowyourmeme.com/memes/events/2024-fur-affinity-hack "2024 Fur Affinity Hack") [Twink Death](https://knowyourmeme.com/memes/twink-death "Twink Death")
 
 Privacy Policy
 ==============
@@ -316,7 +316,7 @@ Please be sure to include your information in any correspondence to us so that w
 **Legal Information:** [Know Your Meme ®](https://knowyourmeme.com/) is a trademark of [Literally Media Ltd.](https://literally.media/) By using this site, you are agreeing by the site's [terms of use](https://knowyourmeme.com/terms-of-service) and [privacy policy](https://knowyourmeme.com/privacy) and [DMCA policy](https://knowyourmeme.com/dmca).  
 © 2007-2024 [Literally Media Ltd.](https://literally.media/)
 
-### 'lo! You must login or signup first!
+### Yo Yo! You must login or signup first!
 
 |     |     |
 | --- | --- |
