@@ -158,76 +158,76 @@ Please note that under Section 512(f) of the DMCA, any person who knowingly mate
 
 TOP NEWS
 
+* [Everything to Know About How Long-Range Missiles Might Impact the Ukraine-Russia War](https://www.theepochtimes.com/world/everything-to-know-about-how-long-range-missiles-might-impact-the-ukraine-russia-war-5727489)
+    
+    NEW By [Adam Morrow](https://www.theepochtimes.com/author/adam-morrow)
+    
+    [![Everything to Know About How Long-Range Missiles Might Impact the Ukraine-Russia War](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Everything to Know About How Long-Range Missiles Might Impact the Ukraine-Russia War](https://img.theepochtimes.com/assets/uploads/2017/08/20/GettyImages-824113280-205x123.jpg.webp)](https://www.theepochtimes.com/world/everything-to-know-about-how-long-range-missiles-might-impact-the-ukraine-russia-war-5727489)
+* [Amid Growing Violence, More Churches Turn to Faith-Based Security Groups](https://www.theepochtimes.com/article/faith-based-security-groups-see-rise-in-armed-churches-as-violent-attacks-escalate-5726648)
+    
+    NEW By [Allan Stein](https://www.theepochtimes.com/author/allan-stein)
+    
+    [![Amid Growing Violence, More Churches Turn to Faith-Based Security Groups](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Amid Growing Violence, More Churches Turn to Faith-Based Security Groups](https://img.theepochtimes.com/assets/uploads/2024/09/20/id5727539-GettyImages-477864556-205x123.jpg.webp)](https://www.theepochtimes.com/article/faith-based-security-groups-see-rise-in-armed-churches-as-violent-attacks-escalate-5726648)
+* [What to Expect as Biden Hosts the Last Quad Summit of His Administration](https://www.theepochtimes.com/world/what-to-expect-as-biden-hosts-the-last-quad-summit-of-his-administration-5727380)
+    
+    NEW By [Ryan Morgan](https://www.theepochtimes.com/author/ryan-morgan)
+    
+    [![What to Expect as Biden Hosts the Last Quad Summit of His Administration](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![What to Expect as Biden Hosts the Last Quad Summit of His Administration](https://img.theepochtimes.com/assets/uploads/2022/07/10/biden-kishida-modi-albanese-205x123.jpeg.webp)](https://www.theepochtimes.com/world/what-to-expect-as-biden-hosts-the-last-quad-summit-of-his-administration-5727380)
+* [Germany Heads to the Polls: AfD Threatens Social Democrats Stronghold in Brandenburg](https://www.theepochtimes.com/world/germany-heads-to-the-polls-afd-threatens-social-democrats-stronghold-in-brandenburg-5727387)
+    
+    NEW By [Owen Evans](https://www.theepochtimes.com/author/owen-evans)
+    
+    [![Germany Heads to the Polls: AfD Threatens Social Democrats Stronghold in Brandenburg](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Germany Heads to the Polls: AfD Threatens Social Democrats Stronghold in Brandenburg](https://img.theepochtimes.com/assets/uploads/2024/09/02/id5716762-Bjoern-Hoecke-205x123.jpg.webp)](https://www.theepochtimes.com/world/germany-heads-to-the-polls-afd-threatens-social-democrats-stronghold-in-brandenburg-5727387)
+* [Transit Activists Split on NYC Congestion Pricing as Court Hearing Looms](https://www.theepochtimes.com/us/transit-activists-split-on-nyc-congestion-pricing-as-court-hearing-looms-5727729)
+    
+    NEW By [Michael Washburn](https://www.theepochtimes.com/author/michael-washburn)
+    
+    [![Transit Activists Split on NYC Congestion Pricing as Court Hearing Looms](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Transit Activists Split on NYC Congestion Pricing as Court Hearing Looms](https://img.theepochtimes.com/assets/uploads/2015/07/201210172nd+avenue+traffic-205x123.jpg.webp)](https://www.theepochtimes.com/us/transit-activists-split-on-nyc-congestion-pricing-as-court-hearing-looms-5727729)
+* [Arizona Supreme Court Allows 98,000 Without Confirmed Citizenship Documents to Vote](https://www.theepochtimes.com/us/arizona-supreme-court-allows-98000-without-confirmed-citizenship-documents-to-vote-5727896)
+    
+    2hr By [Caden Pearson](https://www.theepochtimes.com/author/caden-pearson)
+    
+    [![Arizona Supreme Court Allows 98,000 Without Confirmed Citizenship Documents to Vote](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Arizona Supreme Court Allows 98,000 Without Confirmed Citizenship Documents to Vote](https://img.theepochtimes.com/assets/uploads/2022/11/09/arizona-voting-midterms-205x123.jpeg.webp)](https://www.theepochtimes.com/us/arizona-supreme-court-allows-98000-without-confirmed-citizenship-documents-to-vote-5727896)
+* [Biden Turns Attention to Foreign Policy as Presidency Enters Final 4 Months](https://www.theepochtimes.com/us/biden-turns-attention-to-foreign-policy-as-presidency-enters-final-4-months-5727808)
+    
+    3hr By [Emel Akan](https://www.theepochtimes.com/author/emel-akan)
+    
+    [![Biden Turns Attention to Foreign Policy as Presidency Enters Final 4 Months](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Biden Turns Attention to Foreign Policy as Presidency Enters Final 4 Months](https://img.theepochtimes.com/assets/uploads/2024/09/16/id5724998-GettyImages-2172382595-Joe-Biden-OP-205x123.jpg.webp)](https://www.theepochtimes.com/us/biden-turns-attention-to-foreign-policy-as-presidency-enters-final-4-months-5727808)
 * [10 Singers Advance to Finals in NTD Vocal Competition](https://www.theepochtimes.com/bright/10-singers-advance-to-finals-in-ntd-vocal-competition-5727768)
     
-    3hr By [Catherine Yang](https://www.theepochtimes.com/author/catherine-yang), Epoch Times
+    9hr By [Catherine Yang](https://www.theepochtimes.com/author/catherine-yang), Epoch Times
     
     [![10 Singers Advance to Finals in NTD Vocal Competition](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![10 Singers Advance to Finals in NTD Vocal Competition](https://img.theepochtimes.com/assets/uploads/2024/09/20/id5727807-IMG_0338-205x123.jpg.webp)](https://www.theepochtimes.com/bright/10-singers-advance-to-finals-in-ntd-vocal-competition-5727768)
-* [Eight Democrats Join Republicans in House Resolution to Overturn Federal Electric Vehicle Rule](https://www.theepochtimes.com/us/house-passes-resolution-to-overturn-biden-admins-electric-vehicle-rule-5727720)
+* [8 Democrats Join Republicans in House Resolution to Overturn Federal Electric Vehicle Rule](https://www.theepochtimes.com/us/house-passes-resolution-to-overturn-biden-admins-electric-vehicle-rule-5727720)
     
-    4hr By [Samantha Flom](https://www.theepochtimes.com/author/samantha-flom)
+    10hr By [Samantha Flom](https://www.theepochtimes.com/author/samantha-flom)
     
-    [![Eight Democrats Join Republicans in House Resolution to Overturn Federal Electric Vehicle Rule](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![8 Democrats Join Republicans in House Resolution to Overturn Federal Electric Vehicle Rule](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Eight Democrats Join Republicans in House Resolution to Overturn Federal Electric Vehicle Rule](https://img.theepochtimes.com/assets/uploads/2024/08/15/id5706406-GettyImages-2026355736-205x123.jpg.webp)](https://www.theepochtimes.com/us/house-passes-resolution-to-overturn-biden-admins-electric-vehicle-rule-5727720)
+    ![8 Democrats Join Republicans in House Resolution to Overturn Federal Electric Vehicle Rule](https://img.theepochtimes.com/assets/uploads/2024/08/15/id5706406-GettyImages-2026355736-205x123.jpg.webp)](https://www.theepochtimes.com/us/house-passes-resolution-to-overturn-biden-admins-electric-vehicle-rule-5727720)
 * [Appeals Court Reinstates Arizona Law Enabling Cancellation of Voter Registrations](https://www.theepochtimes.com/us/appeals-court-reinstates-arizona-law-enabling-cancellation-of-voter-registrations-5727675)
     
-    4hr By [Zachary Stieber](https://www.theepochtimes.com/author/zachary-stieber)
+    10hr By [Zachary Stieber](https://www.theepochtimes.com/author/zachary-stieber)
     
     [![Appeals Court Reinstates Arizona Law Enabling Cancellation of Voter Registrations](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Appeals Court Reinstates Arizona Law Enabling Cancellation of Voter Registrations](https://img.theepochtimes.com/assets/uploads/2024/07/02/id5678969-GettyImages-1440312402KO-205x123.jpg.webp)](https://www.theepochtimes.com/us/appeals-court-reinstates-arizona-law-enabling-cancellation-of-voter-registrations-5727675)
-* [FTC Complaint Alleges Insulin ‘Middlemen’ Artificially Inflated Prices](https://www.theepochtimes.com/us/ftc-complaint-alleges-insulin-middlemen-artificially-inflated-prices-5727736)
-    
-    4hr By [Sam Dorman](https://www.theepochtimes.com/author/sam-dorman)
-    
-    [![FTC Complaint Alleges Insulin ‘Middlemen’ Artificially Inflated Prices](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![FTC Complaint Alleges Insulin ‘Middlemen’ Artificially Inflated Prices](https://img.theepochtimes.com/assets/uploads/2023/05/23/id5285336-shutterstock_414203734-205x123.jpg.webp)](https://www.theepochtimes.com/us/ftc-complaint-alleges-insulin-middlemen-artificially-inflated-prices-5727736)
-* [SEC to Seek Sanctions Against Musk for Not Appearing for Testimony Over Twitter Acquisition](https://www.theepochtimes.com/business/sec-to-seek-sanctions-against-elon-musk-in-probe-over-twitter-takeover-5727786)
-    
-    4hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
-    
-    [![SEC to Seek Sanctions Against Musk for Not Appearing for Testimony Over Twitter Acquisition](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![SEC to Seek Sanctions Against Musk for Not Appearing for Testimony Over Twitter Acquisition](https://img.theepochtimes.com/assets/uploads/2024/09/01/id5716708-Elon-Musk-SB_1-205x123.jpg.webp)](https://www.theepochtimes.com/business/sec-to-seek-sanctions-against-elon-musk-in-probe-over-twitter-takeover-5727786)
-* [Los Angeles County Seeing ‘Unprecedented’ Number of Mosquito-Borne Disease Cases, Officials Warn](https://www.theepochtimes.com/health/los-angeles-county-seeing-unprecedented-number-of-mosquito-borne-disease-cases-officials-warn-5727665)
-    
-    5hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
-    
-    [![Los Angeles County Seeing ‘Unprecedented’ Number of Mosquito-Borne Disease Cases, Officials Warn](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Los Angeles County Seeing ‘Unprecedented’ Number of Mosquito-Borne Disease Cases, Officials Warn](https://img.theepochtimes.com/assets/uploads/2024/09/20/id5727793-Los-Angeles-city-viewKO-205x123.jpg.webp)](https://www.theepochtimes.com/health/los-angeles-county-seeing-unprecedented-number-of-mosquito-borne-disease-cases-officials-warn-5727665)
-* [Secret Service, Homeland Security Sued Over Records Related to Trump Assassination Attempt](https://www.theepochtimes.com/us/secret-service-homeland-security-sued-over-records-related-to-trump-assassination-attempt-5727419)
-    
-    6hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
-    
-    [![Secret Service, Homeland Security Sued Over Records Related to Trump Assassination Attempt](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Secret Service, Homeland Security Sued Over Records Related to Trump Assassination Attempt](https://img.theepochtimes.com/assets/uploads/2024/08/10/id5703477-Trump-rally-shooting-Enhanced-SR-OP-205x123.jpg.webp)](https://www.theepochtimes.com/us/secret-service-homeland-security-sued-over-records-related-to-trump-assassination-attempt-5727419)
-* [Deepfake Scams Targeting Financial and Accounting Data on the Rise, Survey Shows](https://www.theepochtimes.com/business/deepfake-scams-targeting-financial-and-accounting-data-on-the-rise-survey-shows-5727617)
-    
-    6hr By [Mark Gilman](https://www.theepochtimes.com/author/mark-gilman)
-    
-    [![Deepfake Scams Targeting Financial and Accounting Data on the Rise, Survey Shows](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Deepfake Scams Targeting Financial and Accounting Data on the Rise, Survey Shows](https://img.theepochtimes.com/assets/uploads/2024/09/20/id5727794-GettyImages-1258615093-1KO-205x123.jpg.webp)](https://www.theepochtimes.com/business/deepfake-scams-targeting-financial-and-accounting-data-on-the-rise-survey-shows-5727617)
-* [Mass Deportation of Illegal Immigrants Could Have Economic Consequences: Yellen](https://www.theepochtimes.com/us/mass-deportation-of-illegal-immigrants-could-have-economic-consequences-yellen-5726943)
-    
-    7hr By [Andrew Moran](https://www.theepochtimes.com/author/andrew-moran)
-    
-    [![Mass Deportation of Illegal Immigrants Could Have Economic Consequences: Yellen](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Mass Deportation of Illegal Immigrants Could Have Economic Consequences: Yellen](https://img.theepochtimes.com/assets/uploads/2024/09/20/id5727753-GettyImages-2139245156.jpg-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/mass-deportation-of-illegal-immigrants-could-have-economic-consequences-yellen-5726943)
-* [Secret Service Agents to Be Disciplined Over July 13 Trump Shooting, Director Says](https://www.theepochtimes.com/us/secret-service-agents-to-be-disciplined-over-july-13-trump-shooting-director-says-5727589)
-    
-    8hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
-    
-    [![Secret Service Agents to Be Disciplined Over July 13 Trump Shooting, Director Says](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Secret Service Agents to Be Disciplined Over July 13 Trump Shooting, Director Says](https://img.theepochtimes.com/assets/uploads/2024/09/20/id5727620-Secret-Service-GettyImages-2172425869-205x123.jpg.webp)](https://www.theepochtimes.com/us/secret-service-agents-to-be-disciplined-over-july-13-trump-shooting-director-says-5727589)
 
 [![The Epoch Times](https://www.theepochtimes.com/assets/themes/eet/images/logo_eet.svg)](https://www.theepochtimes.com/)
 
