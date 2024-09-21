@@ -26,41 +26,41 @@ Search for:
 
 ### [TOP STORIES](https://www.commdiginews.com/category/top-stories/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-jay-varma-1200x630.jpg)](https://americanwirenews.com/nyc-covid-enforcer-admits-he-held-secret-drug-filled-sex-parties-while-city-rubes-were-locked-down-undercover-vid-shows/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-rtlaibcensure-1200-x-628-1200x630.jpg)](https://americanwirenews.com/leftists-cry-islamophobia-over-satirical-cartoon-depicting-rashida-tlaib-with-exploding-pager/)
 
-[Undercover: NYC Covid czar admits he had to ‘be sneaky’ about ‘deviant’ stuff he did while rest of city was locked down](https://americanwirenews.com/nyc-covid-enforcer-admits-he-held-secret-drug-filled-sex-parties-while-city-rubes-were-locked-down-undercover-vid-shows/)
+[Leftists cry ‘Islamophobia’ over satirical cartoon depicting Rashida Tlaib with exploding pager](https://americanwirenews.com/leftists-cry-islamophobia-over-satirical-cartoon-depicting-rashida-tlaib-with-exploding-pager/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-tucker-1200x630.png)](https://americanwirenews.com/tucker-goes-deep-on-trump-golf-course-gunman-and-his-dc-connections/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-kamala-campaign-backtracks-1200x630.jpg)](https://americanwirenews.com/harris-adviser-cleans-up-theyre-getting-shot-quip-with-lame-excuse/)
 
-[Tucker goes deep on Trump golf course gunman and his DC connections](https://americanwirenews.com/tucker-goes-deep-on-trump-golf-course-gunman-and-his-dc-connections/)
+[Harris adviser cleans up ‘they’re getting shot’ quip with LAME excuse](https://americanwirenews.com/harris-adviser-cleans-up-theyre-getting-shot-quip-with-lame-excuse/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2023/06/SG-Classroom-1-1200x630.jpg)](https://americanwirenews.com/chicago-teachers-say-theyre-being-pressured-to-pass-migrant-children-despite-failing-grades-huge-language-barrier/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-aocbigmouth-1200-x-628-1200x630.jpg)](https://americanwirenews.com/aoc-whines-that-office-covered-with-blood-splattered-signs-after-she-took-up-for-hezbollah/)
 
-[Chicago teachers say they’re being pressured to pass migrant children despite failing grades, huge language barrier](https://americanwirenews.com/chicago-teachers-say-theyre-being-pressured-to-pass-migrant-children-despite-failing-grades-huge-language-barrier/)
+[AOC whines that office covered with ‘blood-splattered’ signs after she took up for Hezbollah](https://americanwirenews.com/aoc-whines-that-office-covered-with-blood-splattered-signs-after-she-took-up-for-hezbollah/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-lawrence-jones-1200x630.png)](https://americanwirenews.com/energy-workers-in-pennsylvania-say-nobody-believes-kamala-will-not-ban-fracking/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-view-1200x630.jpg)](https://americanwirenews.com/ladies-of-the-view-clash-over-melania-trumps-nude-photos-republicans-do-it-plenty-right/)
 
-[Energy workers in Pennsylvania say ‘nobody believes’ Kamala will not ban fracking](https://americanwirenews.com/energy-workers-in-pennsylvania-say-nobody-believes-kamala-will-not-ban-fracking/)
+[Ladies of ‘The View’ clash over Melania Trump’s nude photos: ‘Republicans do it plenty, right?’](https://americanwirenews.com/ladies-of-the-view-clash-over-melania-trumps-nude-photos-republicans-do-it-plenty-right/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-kirk-1200x630.png)](https://americanwirenews.com/young-lefty-is-no-match-for-charlie-kirk-and-vivek-ramaswamy/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-jill-leading-cabinet-meeting-1200x630.jpg)](https://americanwirenews.com/we-need-a-real-leader-bidens-first-cabinet-meeting-in-nearly-a-year-almost-immediately-thrown-to-jill/)
 
-[Young lefty is NO MATCH for Charlie Kirk and Vivek Ramaswamy](https://americanwirenews.com/young-lefty-is-no-match-for-charlie-kirk-and-vivek-ramaswamy/)
+[‘We need a real leader’: Biden’s first Cabinet meeting in nearly a year almost immediately thrown to Jill](https://americanwirenews.com/we-need-a-real-leader-bidens-first-cabinet-meeting-in-nearly-a-year-almost-immediately-thrown-to-jill/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-jennifer-box-1200x630.jpg)](https://americanwirenews.com/broward-co-fla-sued-for-falsely-arresting-innocent-texas-mom-in-case-you-need-to-read-to-believe/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-hillary-clinton-1-1200x630.jpg)](https://americanwirenews.com/hillary-describes-melania-trump-as-looking-like-kid-on-the-outside-of-the-birthday-party-in-funeral-recollection/)
 
-[Broward Co., Fla. sued for falsely arresting innocent Texas mom in case you need to read to believe](https://americanwirenews.com/broward-co-fla-sued-for-falsely-arresting-innocent-texas-mom-in-case-you-need-to-read-to-believe/)
+[Hillary describes Melania Trump as looking like ‘kid on the outside of the birthday party’ in funeral recollection](https://americanwirenews.com/hillary-describes-melania-trump-as-looking-like-kid-on-the-outside-of-the-birthday-party-in-funeral-recollection/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-uniondale-story-1200x630.jpg)](https://americanwirenews.com/emotional-new-yorker-shares-amazing-personal-story-of-trump-family-generosity/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-stern-trump-1200x630.jpg)](https://americanwirenews.com/trump-responds-to-howard-sterns-hate-for-his-voters-he-doesnt-do-the-ratings-anymore/)
 
-[Emotional New Yorker shares ‘amazing’ personal story of Trump family generosity](https://americanwirenews.com/emotional-new-yorker-shares-amazing-personal-story-of-trump-family-generosity/)
+[Trump responds to Howard Stern’s hate for his voters: ‘He doesn’t do the ratings anymore’](https://americanwirenews.com/trump-responds-to-howard-sterns-hate-for-his-voters-he-doesnt-do-the-ratings-anymore/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-caterpillar-1200x630.jpg)](https://americanwirenews.com/major-american-manufacturer-backs-off-destructive-dei-policies-over-risk-of-being-exposed-report/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-chamberlain-tda-1200x630.jpg)](https://americanwirenews.com/aurora-police-now-denying-bloodthirsty-venezuelan-gang-taking-over-city-this-is-not-an-immigration-issue/)
 
-[Major American manufacturer backs off destructive DEI policies over risk of being exposed: report](https://americanwirenews.com/major-american-manufacturer-backs-off-destructive-dei-policies-over-risk-of-being-exposed-report/)
+[Aurora police now denying bloodthirsty Venezuelan gang taking over city: ‘This is not an immigration issue’](https://americanwirenews.com/aurora-police-now-denying-bloodthirsty-venezuelan-gang-taking-over-city-this-is-not-an-immigration-issue/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-trump-4-1200x630.jpg)
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-trump_harrisphilly-1200-x-628-1200x630.jpg)
 
-### Whistleblower comes forward with earthshattering claim about second attempt on Trump’s life](https://americanwirenews.com/whistleblower-comes-forward-with-earthshattering-claim-about-second-attempt-on-trumps-life/)
+### Key swing state approves rule to require hand-counting of ballots](https://americanwirenews.com/key-swing-state-approves-rule-to-require-hand-counting-of-ballots/)
 
 [THE WIRE...](https://americanwirenews.com/category/the-wire/)
 
@@ -78,9 +78,25 @@ Search for:
 
 ### [LATEST](https://www.commdiginews.com/category/latest/)
 
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-trumpongutfeld-1200-x-628-220x180.jpg)](https://americanwirenews.com/the-drudge-report-hits-rock-bottom-with-trump-nazi-salute-portrayal/)
+
+[The Drudge Report hits rock bottom with Trump Nazi salute portrayal](https://americanwirenews.com/the-drudge-report-hits-rock-bottom-with-trump-nazi-salute-portrayal/)
+
 [![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-razor-wire-220x180.jpg)](https://americanwirenews.com/dem-governor-not-happy-when-texas-installs-razor-wire-on-its-border-with-new-mexico/)
 
 [Dem governor NOT happy when Texas installs razor wire on its border — with New Mexico](https://americanwirenews.com/dem-governor-not-happy-when-texas-installs-razor-wire-on-its-border-with-new-mexico/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-jennifer-box-220x180.jpg)](https://americanwirenews.com/broward-co-fla-sued-for-falsely-arresting-innocent-texas-mom-in-case-you-need-to-read-to-believe/)
+
+[Broward Co., Fla. sued for falsely arresting innocent Texas mom in case you need to read to believe](https://americanwirenews.com/broward-co-fla-sued-for-falsely-arresting-innocent-texas-mom-in-case-you-need-to-read-to-believe/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-trump-4-220x180.jpg)](https://americanwirenews.com/whistleblower-comes-forward-with-earthshattering-claim-about-second-attempt-on-trumps-life/)
+
+[Whistleblower comes forward with earthshattering claim about second attempt on Trump’s life](https://americanwirenews.com/whistleblower-comes-forward-with-earthshattering-claim-about-second-attempt-on-trumps-life/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-caterpillar-220x180.jpg)](https://americanwirenews.com/major-american-manufacturer-backs-off-destructive-dei-policies-over-risk-of-being-exposed-report/)
+
+[Major American manufacturer backs off destructive DEI policies over risk of being exposed: report](https://americanwirenews.com/major-american-manufacturer-backs-off-destructive-dei-policies-over-risk-of-being-exposed-report/)
 
 [![](https://americanwirenews.com/wp-content/uploads/2022/10/RF-Getty-vote-220x180.jpg)](https://americanwirenews.com/how-many-other-states-need-to-do-this-oklahoma-purges-ineligible-names-from-voter-rolls-and-wow/)
 
@@ -91,6 +107,30 @@ Getty Images
 [![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-faulkner-220x180.jpg)](https://americanwirenews.com/faulkner-crushes-dems-inflation-claim-i-dont-want-you-to-get-confused-with-his-false-talking-points/)
 
 [Faulkner CRUSHES Dem’s inflation claim: ‘I don’t want you to get confused with his false talking points’](https://americanwirenews.com/faulkner-crushes-dems-inflation-claim-i-dont-want-you-to-get-confused-with-his-false-talking-points/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-kirk-220x180.png)](https://americanwirenews.com/young-lefty-is-no-match-for-charlie-kirk-and-vivek-ramaswamy/)
+
+[Young lefty is NO MATCH for Charlie Kirk and Vivek Ramaswamy](https://americanwirenews.com/young-lefty-is-no-match-for-charlie-kirk-and-vivek-ramaswamy/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-uniondale-story-220x180.jpg)](https://americanwirenews.com/emotional-new-yorker-shares-amazing-personal-story-of-trump-family-generosity/)
+
+[Emotional New Yorker shares ‘amazing’ personal story of Trump family generosity](https://americanwirenews.com/emotional-new-yorker-shares-amazing-personal-story-of-trump-family-generosity/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-tucker-220x180.png)](https://americanwirenews.com/tucker-goes-deep-on-trump-golf-course-gunman-and-his-dc-connections/)
+
+[Tucker goes deep on Trump golf course gunman and his DC connections](https://americanwirenews.com/tucker-goes-deep-on-trump-golf-course-gunman-and-his-dc-connections/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-jay-varma-220x180.jpg)](https://americanwirenews.com/nyc-covid-enforcer-admits-he-held-secret-drug-filled-sex-parties-while-city-rubes-were-locked-down-undercover-vid-shows/)
+
+[Undercover: NYC Covid czar admits he had to ‘be sneaky’ about ‘deviant’ stuff he did while rest of city was locked down](https://americanwirenews.com/nyc-covid-enforcer-admits-he-held-secret-drug-filled-sex-parties-while-city-rubes-were-locked-down-undercover-vid-shows/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2023/06/SG-Classroom-1-220x180.jpg)](https://americanwirenews.com/chicago-teachers-say-theyre-being-pressured-to-pass-migrant-children-despite-failing-grades-huge-language-barrier/)
+
+[Chicago teachers say they’re being pressured to pass migrant children despite failing grades, huge language barrier](https://americanwirenews.com/chicago-teachers-say-theyre-being-pressured-to-pass-migrant-children-despite-failing-grades-huge-language-barrier/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-lawrence-jones-220x180.png)](https://americanwirenews.com/energy-workers-in-pennsylvania-say-nobody-believes-kamala-will-not-ban-fracking/)
+
+[Energy workers in Pennsylvania say ‘nobody believes’ Kamala will not ban fracking](https://americanwirenews.com/energy-workers-in-pennsylvania-say-nobody-believes-kamala-will-not-ban-fracking/)
 
 [![](https://americanwirenews.com/wp-content/uploads/2023/12/SG-Chinese-Southern-Border-220x180.jpg)](https://americanwirenews.com/ex-border-patrol-chief-says-biden-admin-forbade-him-from-talking-about-migrants-with-terror-ties/)
 
@@ -137,46 +177,6 @@ RF Getty Lights Out
 [![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-newsom-musk-220x180.jpg)](https://americanwirenews.com/newsom-so-triggered-by-musk-sharing-meme-that-hes-not-ruling-out-legal-action/)
 
 [Newsom so triggered by Musk sharing meme that he’s not ruling out legal action](https://americanwirenews.com/newsom-so-triggered-by-musk-sharing-meme-that-hes-not-ruling-out-legal-action/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-kamala-harris-2-470x260_1200_x_628-220x180.jpg)](https://americanwirenews.com/fmr-nfl-head-coach-confronts-kamala-over-faith-supporting-abortions/)
-
-[Fmr. NFL head coach confronts Kamala over faith supporting abortions](https://americanwirenews.com/fmr-nfl-head-coach-confronts-kamala-over-faith-supporting-abortions/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/08/sg-trump-rally-220x180.jpg)](https://americanwirenews.com/matt-gaetz-says-there-are-multiple-assassination-teams-out-to-kill-trump/)
-
-[Matt Gaetz says there are multiple ‘assassination teams’ out to kill Trump](https://americanwirenews.com/matt-gaetz-says-there-are-multiple-assassination-teams-out-to-kill-trump/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-kamala-and-oprah-220x180.jpg)](https://americanwirenews.com/oprahs-face-while-kamala-spewed-her-most-epic-word-salad-is-priceless/)
-
-[Oprah’s face while Kamala spewed her most EPIC word salad is priceless](https://americanwirenews.com/oprahs-face-while-kamala-spewed-her-most-epic-word-salad-is-priceless/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-ksp-gi-judge-split-1200-x-628-220x180.jpg)](https://americanwirenews.com/kentucky-judge-shot-and-killed-by-sheriff-in-his-chambers/)
-
-[Kentucky judge shot and killed by sheriff in his chambers](https://americanwirenews.com/kentucky-judge-shot-and-killed-by-sheriff-in-his-chambers/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/06/sg-trump-swift-220x180.png)](https://americanwirenews.com/taylor-swifts-favorability-rating-is-lower-than-trumps-ny-times-reports/)
-
-[Taylor Swift’s favorability rating is lower than Trump’s, NY Times reports](https://americanwirenews.com/taylor-swifts-favorability-rating-is-lower-than-trumps-ny-times-reports/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-kamalafarmington-1200-x-628-220x180.jpg)](https://americanwirenews.com/kamala-now-pro-gun-tells-oprah-if-someone-breaks-into-her-house-theyre-getting-shot/)
-
-[Kamala now pro-gun, tells Oprah if someone breaks into her house, ‘they’re getting shot’](https://americanwirenews.com/kamala-now-pro-gun-tells-oprah-if-someone-breaks-into-her-house-theyre-getting-shot/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-danasean-1200-x-628-220x180.jpg)](https://americanwirenews.com/teamsters-boss-smacks-down-aocs-whining-after-union-snubs-kamala-dana-bash-not-happy/)
-
-[Teamsters boss smacks down AOC’s whining after union snubs Kamala, Dana Bash not happy](https://americanwirenews.com/teamsters-boss-smacks-down-aocs-whining-after-union-snubs-kamala-dana-bash-not-happy/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-varney-oleray-220x180.jpg)](https://americanwirenews.com/kevin-oleary-uneasy-about-inside-info-he-gets-from-kamala-advisers-im-not-happy/)
-
-[Kevin O’Leary uneasy about inside info he gets from Kamala advisers: ‘I’m not happy’](https://americanwirenews.com/kevin-oleary-uneasy-about-inside-info-he-gets-from-kamala-advisers-im-not-happy/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/rf-pexels-port-220x180.jpg)](https://americanwirenews.com/looming-port-strike-could-be-biggest-wild-card-in-presidential-election-and-hardly-anyones-talking-about-it/)
-
-[Looming port strike could be ‘biggest wild card’ in presidential election, and hardly anyone’s talking about it](https://americanwirenews.com/looming-port-strike-could-be-biggest-wild-card-in-presidential-election-and-hardly-anyones-talking-about-it/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-trump-union-220x180.jpg)](https://americanwirenews.com/steamfitters-for-trump-former-president-takes-sledgehammer-to-reliable-dem-voting-bloc/)
-
-[Steamfitters for Trump! Former president takes sledgehammer to reliable Dem voting bloc](https://americanwirenews.com/steamfitters-for-trump-former-president-takes-sledgehammer-to-reliable-dem-voting-bloc/)
 
 Start today! **Enjoy the REAL news** at your fingertips. You could be getting the best stories in your inbox twice a day.
 
