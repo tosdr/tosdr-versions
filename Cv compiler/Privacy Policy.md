@@ -1775,6 +1775,8 @@ What do top resumes look like? Check out these expertly-written samples:
 
 [Full Stack Web Developer](https://cvcompiler.com/full-stack-web-developer-resume-examples)
 
+[Senior Finance Manager](https://cvcompiler.com/senior-finance-manager-resume-examples)
+
 ![Upload resume illustration](uploads-pre-acq/img/upload-illustration.svg)
 
 ### Upload  
