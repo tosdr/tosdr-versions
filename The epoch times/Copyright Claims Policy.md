@@ -158,76 +158,76 @@ Please note that under Section 512(f) of the DMCA, any person who knowingly mate
 
 TOP NEWS
 
+* [US Navy Directed to Prepare for War With China by 2027](https://www.theepochtimes.com/china/us-navy-directed-to-prepare-for-war-with-china-by-2027-post-5727144)
+    
+    NEW By [Andrew Thornebrooke](https://www.theepochtimes.com/author/andrew-thornebrooke)
+    
+    [![US Navy Directed to Prepare for War With China by 2027](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![US Navy Directed to Prepare for War With China by 2027](https://img.theepochtimes.com/assets/uploads/2024/08/01/id5698243-US_Osprey_Crash_24201442113400-205x123.jpg.webp)](https://www.theepochtimes.com/china/us-navy-directed-to-prepare-for-war-with-china-by-2027-post-5727144)
+* [US Housing Payments Face Biggest Decline in 4 Years: Report](https://www.theepochtimes.com/real-estate/us-housing-payments-face-biggest-decline-in-4-years-report-5727926)
+    
+    NEW By [Naveen Athrappully](https://www.theepochtimes.com/author/naveen-athrappully)
+    
+    [![US Housing Payments Face Biggest Decline in 4 Years: Report](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![US Housing Payments Face Biggest Decline in 4 Years: Report](https://img.theepochtimes.com/assets/uploads/2023/11/23/id5534804-For-Rent-For-Sale-sign-205x123.jpg.webp)](https://www.theepochtimes.com/real-estate/us-housing-payments-face-biggest-decline-in-4-years-report-5727926)
+* [FTC Says Social Media Giants Are Engaged in Mass Data Collection, Surveillance](https://www.theepochtimes.com/tech/ftc-says-social-media-giants-are-engaged-in-mass-data-collection-surveillance-5727315)
+    
+    NEW By [Aldgra Fredly](https://www.theepochtimes.com/author/aldgra-fredly)
+    
+    [![FTC Says Social Media Giants Are Engaged in Mass Data Collection, Surveillance](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![FTC Says Social Media Giants Are Engaged in Mass Data Collection, Surveillance](https://img.theepochtimes.com/assets/uploads/2024/08/21/id5709898-featureimage-205x123.jpg.webp)](https://www.theepochtimes.com/tech/ftc-says-social-media-giants-are-engaged-in-mass-data-collection-surveillance-5727315)
+* [Democrats Widen Cash Advantage Over Republicans in August](https://www.theepochtimes.com/us/democrats-widen-cash-advantage-over-republicans-in-august-5727891)
+    
+    1hr By [Austin Alonzo](https://www.theepochtimes.com/author/austin-alonzo)
+    
+    [![Democrats Widen Cash Advantage Over Republicans in August](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Democrats Widen Cash Advantage Over Republicans in August](https://img.theepochtimes.com/assets/uploads/2024/09/21/id5727940-GettyImages-2167183530-OP-205x123.jpg.webp)](https://www.theepochtimes.com/us/democrats-widen-cash-advantage-over-republicans-in-august-5727891)
+* [An Unlikely Cure for a 9/11 Hero: How Forgiveness Improves Mental and Physical Health](https://www.theepochtimes.com/health/the-priest-who-lost-it-all-then-found-an-unlikely-cure-5719645)
+    
+    1hr By [Makai Allbert](https://www.theepochtimes.com/author/makai-allbert)
+    
+    [![An Unlikely Cure for a 9/11 Hero: How Forgiveness Improves Mental and Physical Health](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![An Unlikely Cure for a 9/11 Hero: How Forgiveness Improves Mental and Physical Health](https://img.theepochtimes.com/assets/uploads/2024/09/16/id5724966-Forgiveness-featured-image-205x123.gif)](https://www.theepochtimes.com/health/the-priest-who-lost-it-all-then-found-an-unlikely-cure-5719645)
+* [Dow Jones Closes at Fresh Record After Fed-Fueled Winning Week](https://www.theepochtimes.com/business/dow-jones-closes-at-fresh-record-after-fed-fueled-winning-week-5727831)
+    
+    3hr By [Andrew Moran](https://www.theepochtimes.com/author/andrew-moran)
+    
+    [![Dow Jones Closes at Fresh Record After Fed-Fueled Winning Week](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Dow Jones Closes at Fresh Record After Fed-Fueled Winning Week](https://img.theepochtimes.com/assets/uploads/2024/09/18/id5726417-Fed-chair_Sept-2024-205x123.jpg.webp)](https://www.theepochtimes.com/business/dow-jones-closes-at-fresh-record-after-fed-fueled-winning-week-5727831)
+* [LIVE 1 PM ET: NTD 9th International Chinese Vocal Competition Finals and Awards Ceremony](https://www.theepochtimes.com/epochtv/ntd-9th-international-chinese-vocal-competition-finals-5719869)
+    
+    4hr By [Epoch Video](https://www.theepochtimes.com/author/epoch-video)
+    
+    [![LIVE 1 PM ET: NTD 9th International Chinese Vocal Competition Finals and Awards Ceremony](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![LIVE 1 PM ET: NTD 9th International Chinese Vocal Competition Finals and Awards Ceremony](https://img.theepochtimes.com/assets/uploads/2024/09/13/id5723860-2024-NTD-Vocal-Competition-1920x1080-1-205x123.jpg.webp)](https://www.theepochtimes.com/epochtv/ntd-9th-international-chinese-vocal-competition-finals-5719869)
+* [Arizona Supreme Court Allows 98,000 Without Confirmed Citizenship Documents to Vote](https://www.theepochtimes.com/us/arizona-supreme-court-allows-98000-without-confirmed-citizenship-documents-to-vote-5727896)
+    
+    7hr By [Caden Pearson](https://www.theepochtimes.com/author/caden-pearson)
+    
+    [![Arizona Supreme Court Allows 98,000 Without Confirmed Citizenship Documents to Vote](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Arizona Supreme Court Allows 98,000 Without Confirmed Citizenship Documents to Vote](https://img.theepochtimes.com/assets/uploads/2022/11/09/arizona-voting-midterms-205x123.jpeg.webp)](https://www.theepochtimes.com/us/arizona-supreme-court-allows-98000-without-confirmed-citizenship-documents-to-vote-5727896)
 * [Everything to Know About How Long-Range Missiles Might Impact the Ukraine-Russia War](https://www.theepochtimes.com/world/everything-to-know-about-how-long-range-missiles-might-impact-the-ukraine-russia-war-5727489)
     
-    NEW By [Adam Morrow](https://www.theepochtimes.com/author/adam-morrow)
+    7hr By [Adam Morrow](https://www.theepochtimes.com/author/adam-morrow)
     
     [![Everything to Know About How Long-Range Missiles Might Impact the Ukraine-Russia War](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Everything to Know About How Long-Range Missiles Might Impact the Ukraine-Russia War](https://img.theepochtimes.com/assets/uploads/2017/08/20/GettyImages-824113280-205x123.jpg.webp)](https://www.theepochtimes.com/world/everything-to-know-about-how-long-range-missiles-might-impact-the-ukraine-russia-war-5727489)
 * [Amid Growing Violence, More Churches Turn to Faith-Based Security Groups](https://www.theepochtimes.com/article/faith-based-security-groups-see-rise-in-armed-churches-as-violent-attacks-escalate-5726648)
     
-    NEW By [Allan Stein](https://www.theepochtimes.com/author/allan-stein)
+    7hr By [Allan Stein](https://www.theepochtimes.com/author/allan-stein)
     
     [![Amid Growing Violence, More Churches Turn to Faith-Based Security Groups](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Amid Growing Violence, More Churches Turn to Faith-Based Security Groups](https://img.theepochtimes.com/assets/uploads/2024/09/20/id5727539-GettyImages-477864556-205x123.jpg.webp)](https://www.theepochtimes.com/article/faith-based-security-groups-see-rise-in-armed-churches-as-violent-attacks-escalate-5726648)
-* [What to Expect as Biden Hosts the Last Quad Summit of His Administration](https://www.theepochtimes.com/world/what-to-expect-as-biden-hosts-the-last-quad-summit-of-his-administration-5727380)
-    
-    NEW By [Ryan Morgan](https://www.theepochtimes.com/author/ryan-morgan)
-    
-    [![What to Expect as Biden Hosts the Last Quad Summit of His Administration](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![What to Expect as Biden Hosts the Last Quad Summit of His Administration](https://img.theepochtimes.com/assets/uploads/2022/07/10/biden-kishida-modi-albanese-205x123.jpeg.webp)](https://www.theepochtimes.com/world/what-to-expect-as-biden-hosts-the-last-quad-summit-of-his-administration-5727380)
-* [Germany Heads to the Polls: AfD Threatens Social Democrats Stronghold in Brandenburg](https://www.theepochtimes.com/world/germany-heads-to-the-polls-afd-threatens-social-democrats-stronghold-in-brandenburg-5727387)
-    
-    NEW By [Owen Evans](https://www.theepochtimes.com/author/owen-evans)
-    
-    [![Germany Heads to the Polls: AfD Threatens Social Democrats Stronghold in Brandenburg](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Germany Heads to the Polls: AfD Threatens Social Democrats Stronghold in Brandenburg](https://img.theepochtimes.com/assets/uploads/2024/09/02/id5716762-Bjoern-Hoecke-205x123.jpg.webp)](https://www.theepochtimes.com/world/germany-heads-to-the-polls-afd-threatens-social-democrats-stronghold-in-brandenburg-5727387)
-* [Transit Activists Split on NYC Congestion Pricing as Court Hearing Looms](https://www.theepochtimes.com/us/transit-activists-split-on-nyc-congestion-pricing-as-court-hearing-looms-5727729)
-    
-    NEW By [Michael Washburn](https://www.theepochtimes.com/author/michael-washburn)
-    
-    [![Transit Activists Split on NYC Congestion Pricing as Court Hearing Looms](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Transit Activists Split on NYC Congestion Pricing as Court Hearing Looms](https://img.theepochtimes.com/assets/uploads/2015/07/201210172nd+avenue+traffic-205x123.jpg.webp)](https://www.theepochtimes.com/us/transit-activists-split-on-nyc-congestion-pricing-as-court-hearing-looms-5727729)
-* [Arizona Supreme Court Allows 98,000 Without Confirmed Citizenship Documents to Vote](https://www.theepochtimes.com/us/arizona-supreme-court-allows-98000-without-confirmed-citizenship-documents-to-vote-5727896)
-    
-    2hr By [Caden Pearson](https://www.theepochtimes.com/author/caden-pearson)
-    
-    [![Arizona Supreme Court Allows 98,000 Without Confirmed Citizenship Documents to Vote](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Arizona Supreme Court Allows 98,000 Without Confirmed Citizenship Documents to Vote](https://img.theepochtimes.com/assets/uploads/2022/11/09/arizona-voting-midterms-205x123.jpeg.webp)](https://www.theepochtimes.com/us/arizona-supreme-court-allows-98000-without-confirmed-citizenship-documents-to-vote-5727896)
-* [Biden Turns Attention to Foreign Policy as Presidency Enters Final 4 Months](https://www.theepochtimes.com/us/biden-turns-attention-to-foreign-policy-as-presidency-enters-final-4-months-5727808)
-    
-    3hr By [Emel Akan](https://www.theepochtimes.com/author/emel-akan)
-    
-    [![Biden Turns Attention to Foreign Policy as Presidency Enters Final 4 Months](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Biden Turns Attention to Foreign Policy as Presidency Enters Final 4 Months](https://img.theepochtimes.com/assets/uploads/2024/09/16/id5724998-GettyImages-2172382595-Joe-Biden-OP-205x123.jpg.webp)](https://www.theepochtimes.com/us/biden-turns-attention-to-foreign-policy-as-presidency-enters-final-4-months-5727808)
-* [10 Singers Advance to Finals in NTD Vocal Competition](https://www.theepochtimes.com/bright/10-singers-advance-to-finals-in-ntd-vocal-competition-5727768)
-    
-    9hr By [Catherine Yang](https://www.theepochtimes.com/author/catherine-yang), Epoch Times
-    
-    [![10 Singers Advance to Finals in NTD Vocal Competition](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![10 Singers Advance to Finals in NTD Vocal Competition](https://img.theepochtimes.com/assets/uploads/2024/09/20/id5727807-IMG_0338-205x123.jpg.webp)](https://www.theepochtimes.com/bright/10-singers-advance-to-finals-in-ntd-vocal-competition-5727768)
-* [8 Democrats Join Republicans in House Resolution to Overturn Federal Electric Vehicle Rule](https://www.theepochtimes.com/us/house-passes-resolution-to-overturn-biden-admins-electric-vehicle-rule-5727720)
-    
-    10hr By [Samantha Flom](https://www.theepochtimes.com/author/samantha-flom)
-    
-    [![8 Democrats Join Republicans in House Resolution to Overturn Federal Electric Vehicle Rule](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![8 Democrats Join Republicans in House Resolution to Overturn Federal Electric Vehicle Rule](https://img.theepochtimes.com/assets/uploads/2024/08/15/id5706406-GettyImages-2026355736-205x123.jpg.webp)](https://www.theepochtimes.com/us/house-passes-resolution-to-overturn-biden-admins-electric-vehicle-rule-5727720)
-* [Appeals Court Reinstates Arizona Law Enabling Cancellation of Voter Registrations](https://www.theepochtimes.com/us/appeals-court-reinstates-arizona-law-enabling-cancellation-of-voter-registrations-5727675)
-    
-    10hr By [Zachary Stieber](https://www.theepochtimes.com/author/zachary-stieber)
-    
-    [![Appeals Court Reinstates Arizona Law Enabling Cancellation of Voter Registrations](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Appeals Court Reinstates Arizona Law Enabling Cancellation of Voter Registrations](https://img.theepochtimes.com/assets/uploads/2024/07/02/id5678969-GettyImages-1440312402KO-205x123.jpg.webp)](https://www.theepochtimes.com/us/appeals-court-reinstates-arizona-law-enabling-cancellation-of-voter-registrations-5727675)
 
 [![The Epoch Times](https://www.theepochtimes.com/assets/themes/eet/images/logo_eet.svg)](https://www.theepochtimes.com/)
 
