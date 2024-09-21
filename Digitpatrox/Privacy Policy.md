@@ -20,16 +20,16 @@ Saturday, September 21 2024
 
 Latest
 
-* [Closing the SMB security gap](https://digitpatrox.com/closing-the-smb-security-gap/)
-* [Sending One Email With ChatGPT is the Equivalent of Consuming One Bottle of Water](https://digitpatrox.com/sending-one-email-with-chatgpt-is-the-equivalent-of-consuming-one-bottle-of-water/)
-* [I tried the Asus ROG NUC 970 and it’s the mini gaming PC I’ve always wanted](https://digitpatrox.com/i-tried-the-asus-rog-nuc-970-and-its-the-mini-gaming-pc-ive-always-wanted/)
-* [OceanGate’s ill-fated Titan sub relied on a hand-typed Excel spreadsheet](https://digitpatrox.com/oceangates-ill-fated-titan-sub-relied-on-a-hand-typed-excel-spreadsheet/)
-* [Top 5 Topaz & Numby Teams in Honkai Star Rail (Ranked)](https://digitpatrox.com/top-5-topaz-numby-teams-in-honkai-star-rail-ranked/)
-* [UK to host AI Safety Summit in San Francisco](https://digitpatrox.com/uk-to-host-ai-safety-summit-in-san-francisco/)
-* [What’s behind the return-to-office demands?](https://digitpatrox.com/whats-behind-the-return-to-office-demands/)
-* [Fitbit Premium Members Can Access Free Peloton Classes](https://digitpatrox.com/fitbit-premium-members-can-access-free-peloton-classes/)
-* [How to create local account on Windows 11](https://digitpatrox.com/how-to-create-local-account-on-windows-11/)
-* [How to Choose a Nursing Pillow and Use It Safely](https://digitpatrox.com/how-to-choose-a-nursing-pillow-and-use-it-safely/)
+* [Best Composite Decking of 2024](https://digitpatrox.com/best-composite-decking-of-2024/)
+* [Offline Home Assistants Might Be the Most Important Smart Home Technology Yet](https://digitpatrox.com/offline-home-assistants-might-be-the-most-important-smart-home-technology-yet/)
+* [7 Best Expense Tracker Apps for 2024](https://digitpatrox.com/7-best-expense-tracker-apps-for-2024/)
+* [Wayfair’s fall sale is live — 15 deals I’d shop now on furniture, mattresses and more](https://digitpatrox.com/wayfairs-fall-sale-is-live-15-deals-id-shop-now-on-furniture-mattresses-and-more/)
+* [This little box provides on-demand power when off the grid](https://digitpatrox.com/this-little-box-provides-on-demand-power-when-off-the-grid/)
+* [How to Get Alocard in Anime Vanguards](https://digitpatrox.com/how-to-get-alocard-in-anime-vanguards/)
+* [Citrix introduces macOS access to any platform – Computerworld](https://digitpatrox.com/citrix-introduces-macos-access-to-any-platform-computerworld/)
+* [Wordle Answer for Today, September 21, 2024](https://digitpatrox.com/wordle-answer-for-today-september-21-2024/)
+* [8 Hybrids That Save You the Most on Gas—and Some That](https://digitpatrox.com/8-hybrids-that-save-you-the-most-on-gas-and-some-that/)
+* [Why I Choose to Be Selective About My Software Updates](https://digitpatrox.com/why-i-choose-to-be-selective-about-my-software-updates/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,35 +171,35 @@ Popular Posts
     August 21, 2024
     
 
-* [![](https://cdn.mos.cms.futurecdn.net/oNX7ZnXGWazBS7qdaywToe-1200-80.jpg)](https://digitpatrox.com/closing-the-smb-security-gap/)
+* [![](https://article.images.consumerreports.org/image/upload/t_article_tout/v1627333497/prod/content/dam/CRO-Images-2021/Home/07July/CR-Home-InlineHero-Best-and-Worst-Composite-Decking-From-Consumer-Reports-Tests-07-21)](https://digitpatrox.com/best-composite-decking-of-2024/)
     
-    [Closing the SMB security gap](https://digitpatrox.com/closing-the-smb-security-gap/)
+    [Best Composite Decking of 2024](https://digitpatrox.com/best-composite-decking-of-2024/)
     
-    4 mins ago
+    1 min ago
     
-* [![](https://assets.techrepublic.com/uploads/2024/09/tr_20240920-generative-ai-data-center-water-use.jpg)](https://digitpatrox.com/sending-one-email-with-chatgpt-is-the-equivalent-of-consuming-one-bottle-of-water/)
+* [![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/09/pixel-art-of-a-household-robot-cleaning-a-stylish-living-room.png)](https://digitpatrox.com/offline-home-assistants-might-be-the-most-important-smart-home-technology-yet/)
     
-    [Sending One Email With ChatGPT is the Equivalent of Consuming One Bottle of Water](https://digitpatrox.com/sending-one-email-with-chatgpt-is-the-equivalent-of-consuming-one-bottle-of-water/)
+    [Offline Home Assistants Might Be the Most Important Smart Home Technology Yet](https://digitpatrox.com/offline-home-assistants-might-be-the-most-important-smart-home-technology-yet/)
     
-    5 mins ago
+    2 mins ago
     
-* [![](https://cdn.mos.cms.futurecdn.net/LiXoYF7Ztjbkys5BtEauNU-1200-80.jpg)](https://digitpatrox.com/i-tried-the-asus-rog-nuc-970-and-its-the-mini-gaming-pc-ive-always-wanted/)
+* [![](https://assets.techrepublic.com/uploads/2024/05/AdobeStock_686985152.jpg)](https://digitpatrox.com/7-best-expense-tracker-apps-for-2024/)
     
-    [I tried the Asus ROG NUC 970 and it’s the mini gaming PC I’ve always wanted](https://digitpatrox.com/i-tried-the-asus-rog-nuc-970-and-its-the-mini-gaming-pc-ive-always-wanted/)
-    
-    23 mins ago
-    
-* [![](https://cdn.vox-cdn.com/thumbor/BpQe2sf3c02gV-6Zz4Jhkz-O8ss=/0x0:800x550/1200x628/filters:focal(365x296:366x297)/cdn.vox-cdn.com/uploads/chorus_asset/file/24740705/titan_side_view_bks.jpg)](https://digitpatrox.com/oceangates-ill-fated-titan-sub-relied-on-a-hand-typed-excel-spreadsheet/)
-    
-    [OceanGate’s ill-fated Titan sub relied on a hand-typed Excel spreadsheet](https://digitpatrox.com/oceangates-ill-fated-titan-sub-relied-on-a-hand-typed-excel-spreadsheet/)
+    [7 Best Expense Tracker Apps for 2024](https://digitpatrox.com/7-best-expense-tracker-apps-for-2024/)
     
     1 hour ago
     
-* [![](https://beebom.com/wp-content/uploads/2024/09/Topaz-Best-Teams-Honkai-Star-Rail.jpg)](https://digitpatrox.com/top-5-topaz-numby-teams-in-honkai-star-rail-ranked/)
+* [![](https://cdn.mos.cms.futurecdn.net/iBwwucahfkuQfYRqg5C943-1200-80.jpg)](https://digitpatrox.com/wayfairs-fall-sale-is-live-15-deals-id-shop-now-on-furniture-mattresses-and-more/)
     
-    [Top 5 Topaz & Numby Teams in Honkai Star Rail (Ranked)](https://digitpatrox.com/top-5-topaz-numby-teams-in-honkai-star-rail-ranked/)
+    [Wayfair’s fall sale is live — 15 deals I’d shop now on furniture, mattresses and more](https://digitpatrox.com/wayfairs-fall-sale-is-live-15-deals-id-shop-now-on-furniture-mattresses-and-more/)
     
     1 hour ago
+    
+* [![](https://cdn.vox-cdn.com/thumbor/_N7AUVEMDQMZJ9Im3CYCYibk-_s=/0x0:5712x4284/1200x628/filters:focal(2962x3028:2963x3029)/cdn.vox-cdn.com/uploads/chorus_asset/file/25629486/IMG_7052.jpeg)](https://digitpatrox.com/this-little-box-provides-on-demand-power-when-off-the-grid/)
+    
+    [This little box provides on-demand power when off the grid](https://digitpatrox.com/this-little-box-provides-on-demand-power-when-off-the-grid/)
+    
+    2 hours ago
     
 
 ![](https://digitpatrox.com/wp-content/uploads/2023/12/Digitpatrox-NEW-Logo-White.png)
@@ -208,51 +208,51 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [4 mins ago
+* [1 min ago
     
-    ### Closing the SMB security gap](https://digitpatrox.com/closing-the-smb-security-gap/)
-* [5 mins ago
+    ### Best Composite Decking of 2024](https://digitpatrox.com/best-composite-decking-of-2024/)
+* [2 mins ago
     
-    ### Sending One Email With ChatGPT is the Equivalent of Consuming One Bottle of Water](https://digitpatrox.com/sending-one-email-with-chatgpt-is-the-equivalent-of-consuming-one-bottle-of-water/)
-* [23 mins ago
+    ### Offline Home Assistants Might Be the Most Important Smart Home Technology Yet](https://digitpatrox.com/offline-home-assistants-might-be-the-most-important-smart-home-technology-yet/)
+* [1 hour ago
     
-    ### I tried the Asus ROG NUC 970 and it’s the mini gaming PC I’ve always wanted](https://digitpatrox.com/i-tried-the-asus-rog-nuc-970-and-its-the-mini-gaming-pc-ive-always-wanted/)
+    ### 7 Best Expense Tracker Apps for 2024](https://digitpatrox.com/7-best-expense-tracker-apps-for-2024/)
 
 Most Popular Topics
 
-* [3 weeks ago
-    
-    ### My Favorite Robot Vacuums Are on Sale for Labor Day](https://digitpatrox.com/my-favorite-robot-vacuums-are-on-sale-for-labor-day/)
-* [August 21, 2024
-    
-    ### Gemini in Gmail can now help polish up your drafts](https://digitpatrox.com/gemini-in-gmail-can-now-help-polish-up-your-drafts/)
 * [2 weeks ago
     
-    ### CMA clears Microsoft of anti-competitive behavior with Inflection AI ‘arrangements’](https://digitpatrox.com/cma-clears-microsoft-of-anti-competitive-behavior-with-inflection-ai-arrangements/)
+    ### Montenegro vs Wales live stream: How to watch Nations League 2024 game online](https://digitpatrox.com/montenegro-vs-wales-live-stream-how-to-watch-nations-league-2024-game-online/)
+* [1 week ago
+    
+    ### Is a Small Pro Phone Worth It?](https://digitpatrox.com/is-a-small-pro-phone-worth-it/)
+* [4 weeks ago
+    
+    ### NYT Connections today hints and answers — Sunday, August 25 (#441)](https://digitpatrox.com/nyt-connections-today-hints-and-answers-sunday-august-25-441/)
 
 Last Modified Topics
 
-* [3 hours ago
-    
-    ### What’s behind the return-to-office demands?](https://digitpatrox.com/whats-behind-the-return-to-office-demands/)
 * [4 hours ago
     
-    ### Fitbit Premium Members Can Access Free Peloton Classes](https://digitpatrox.com/fitbit-premium-members-can-access-free-peloton-classes/)
+    ### Citrix introduces macOS access to any platform – Computerworld](https://digitpatrox.com/citrix-introduces-macos-access-to-any-platform-computerworld/)
 * [4 hours ago
     
-    ### How to create local account on Windows 11](https://digitpatrox.com/how-to-create-local-account-on-windows-11/)
+    ### Wordle Answer for Today, September 21, 2024](https://digitpatrox.com/wordle-answer-for-today-september-21-2024/)
+* [5 hours ago
+    
+    ### 8 Hybrids That Save You the Most on Gas—and Some That](https://digitpatrox.com/8-hybrids-that-save-you-the-most-on-gas-and-some-that/)
 
 Most Viewed Topics
 
-* [August 13, 2024
-    
-    ### TikTok Is Pushing Old and False News as ”Breaking” Alerts](https://digitpatrox.com/tiktok-is-pushing-old-and-false-news-as-breaking-alerts/)
-* [August 12, 2024
-    
-    ### How to enable Do Not Track on your web browser for Windows](https://digitpatrox.com/how-to-enable-do-not-track-on-your-web-browser-for-windows/)
 * [3 weeks ago
     
     ### Getting Your iPhone Repaired Could Ban You From Snapchat](https://digitpatrox.com/getting-your-iphone-repaired-could-ban-you-from-snapchat/)
+* [August 13, 2024
+    
+    ### TikTok Is Pushing Old and False News as ”Breaking” Alerts](https://digitpatrox.com/tiktok-is-pushing-old-and-false-news-as-breaking-alerts/)
+* [August 13, 2024
+    
+    ### How to manage a road trip move](https://digitpatrox.com/how-to-manage-a-road-trip-move/)
 
 © Copyright 2018 - 2024, All Rights Reserved
 
