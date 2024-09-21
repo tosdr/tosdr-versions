@@ -1,14 +1,14 @@
-This website uses cookie files for the purpose of analyzing user activity levels, showing relevant ads and improving your experience. You can refuse to use cookies by declining; however this might affect how some site features work. By using this site, you agree to allow our third-party partners to utilize this technology in the manner and for the purposes described above.
-
-Accept Decline [Privacy Policy](https://jefawk.com/privacy-policy.html)
-
 [Spaghettorium](https://jefawk.com/index.html)Toggle navigation
 
 *  [![Play our games](assets/img/icons/console-1-128x73.webp) Games](https://jefawk.com/index.html)
-*  [![Gamedev resources - info for all game developers to step up their game :)](assets/img/icons/lightbulb-1-128x128.webp) Gamedev resources](https://jefawk.com/gamedev-resources/index.html) [![Our stickers and prints](assets/img/icons/printables-1-128x128.webp) Shop](https://www.etsy.com/shop/JeFawksSpaghettorium)
+*  [![Gamedev resources - info for all game developers to step up their game :)](assets/img/icons/lightbulb-1-128x128.webp) Gamedev resources](https://jefawk.com/gamedev-resources/index.html) [![Our stickers and prints](assets/img/icons/printables-1-128x128.webp) Shop](https://jefawksspaghettorium.etsy.com/)
 *  [![Our apps and smol programs](assets/img/icons/apps-1-128x128.webp) Apps](https://jefawk.com/apps/index.html)
 *  [![Website design portfolio](assets/img/icons/coding-1-128x128.webp) Websites](https://jefawk.com/website-portfolio/index.html)
 *  [![We write blogs about gamedev, how to fix issues, printers, stickers, and other things that we encounter and enjoy, or hate enough 😁](assets/img/icons/writing-1-128x128.webp) Blogs](https://jefawk.com/blogs/index.html)
+
+This website uses cookie files for the purpose of analyzing user activity levels, showing relevant ads and improving your experience. You can refuse to use cookies by declining; however this might affect how some site features work. By using this site, you agree to allow our third-party partners to utilize this technology in the manner and for the purposes described above.
+
+Accept Decline [Privacy Policy](https://jefawk.com/privacy-policy.html)
 
 Terms and Conditions
 ====================
@@ -599,7 +599,7 @@ Last edited on 2024.Sep.11
 
 ### Legal ⚖
 
-[💼 About The Company](https://jefawk.com/legal/about-the-company.html)[🚢 Shipping](https://jefawk.com/legal/shipping-policy.html)[🙅‍♀️ Cancellation, Returns, and Withdrawals Policy](https://jefawk.com/legal/cancellation-policy.html)[💢 EU Online Dispute Resolution](https://ec.europa.eu/consumers/odr/)[👁 GDPR, Privacy policy, Terms and conditions](https://jefawk.com/privacy-policy.html)[♻ Eco Policy and Recycling Information](https://jefawk.com/legal/eco-policy.html)[🧐 Disclaimers](https://jefawk.com/legal/disclaimers.html)
+[Policies](https://jefawk.com/legal/policies.html)
 
 ### Talk to us here 💬🗨
 
