@@ -356,6 +356,18 @@ Community News
 
 [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
+![](https://b108297.smushcdn.com/108297/wp-content/uploads/2023/03/Lunaclass-768x399.jpg?lossy=0&strip=1&webp=1)](https://www.starbase118.net/2024/the-nightmare-has-ended-uss-artemis-undergoes-extensive-repairs-after-harrowing-frontier-day-debacle/)
+
+### [The Nightmare Has Ended: USS Artemis Undergoes Extensive Repairs After Harrowing Frontier Day Debacle](https://www.starbase118.net/2024/the-nightmare-has-ended-uss-artemis-undergoes-extensive-repairs-after-harrowing-frontier-day-debacle/)
+
+Federation News Service September 21, 2024
+
+SOL SYSTEM – The USS Artemis-A (NCC-81287) remains on station near Earth as it undergoes extensive repairs in the wake of the Frontier Day disaster.
+
+[Read More »](https://www.starbase118.net/2024/the-nightmare-has-ended-uss-artemis-undergoes-extensive-repairs-after-harrowing-frontier-day-debacle/)
+
+[![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
 ![](https://b108297.smushcdn.com/108297/wp-content/uploads/2015/07/Sovereign_Asteroid_Field-768x432.jpg?lossy=0&strip=1&webp=1)](https://www.starbase118.net/2024/uss-gorkon-outsmarts-second-borg-cube-with-help-from-unexpected-allies/)
 
 ### [USS Gorkon outsmarts second Borg cube with help from unexpected allies](https://www.starbase118.net/2024/uss-gorkon-outsmarts-second-borg-cube-with-help-from-unexpected-allies/)
@@ -377,18 +389,6 @@ Lhandon Nilsen September 18, 2024
 Join us for another in a series of interviews with winners of awards from our 2024  Awards Ceremony. Our goal is to give you insight
 
 [Read More »](https://www.starbase118.net/2024/award-winner-kimberly-stapledon-uss-constitution-b-uss-chintoka-prestigious-service-medallion-engineering/)
-
-[![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-
-![](https://b108297.smushcdn.com/108297/wp-content/uploads/2024/06/Departing_DS33-768x409.png?lossy=0&strip=1&webp=1)](https://www.starbase118.net/2024/lattice-alliance-faces-overwhelming-odds/)
-
-### [Lattice Alliance faces overwhelming odds](https://www.starbase118.net/2024/lattice-alliance-faces-overwhelming-odds/)
-
-Federation News Service September 16, 2024
-
-ALPHA ISLES — Combat roiled around and within Deep Space 33, as the crews of the USS Khitomer and USS Ronin faced increasingly tall odds
-
-[Read More »](https://www.starbase118.net/2024/lattice-alliance-faces-overwhelming-odds/)
 
 Ready to get started?
 ---------------------
