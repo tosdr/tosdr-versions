@@ -3,6 +3,16 @@ Here are the [instructions on how to enable JavaScript in your web browser](http
 
 [Click to view our Accessibility Statement or contact us with accessibility-related questions](https://drop.com/accessibility)
 
+[Drop + EPOS H3X
+
+A high-quality gaming headset—now on sale.
+
+SAVE NOW
+
+_keyboard\_arrow\_right_](https://drop.com/buy/drop-epos-h3x-gaming-headset)
+
+Free Standard Shipping in the US on orders over $99
+
 Free Standard Shipping in the US on orders over $99
 
 [Drop](https://drop.com/)
