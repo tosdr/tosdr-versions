@@ -2,11 +2,11 @@
 
 SALE ENDS IN
 
-04HRS
+02HRS
 
-09MIN
+44MIN
 
-40SEC
+06SEC
 
 [![Aceable Logo](https://xgrit-ecom.imgix.net/ace/Aceable-Logo1.svg?v=1712674234&auto=compress,format)](https://www.aceable.com/)
 
@@ -75,7 +75,7 @@ My Account ![](https://xgrit-ecom.imgix.net/ace/Drop-Down.svg?v=1712674559)
 Privacy Policy
 ==============
 
-**Last Updated:** _August 20, 2024_
+**Last Updated:** _September 20__, 2024_
 
 This Privacy Notice describes how Aceable, Inc and its various brands, including Aceable(“**we**”, “**us**,” “**our**”) collects, uses and discloses information about individuals who use any of our websites (including [https://www.aceable.com/](https://www.aceable.com/)), applications, services, tools and features, or otherwise interact with us (collectively, the “**Services**”). For the purposes of this Privacy Notice, “**you**” and “**your**” means you as the user of the Services, whether you are a customer, website visitor, job applicant, representative of a company with whom we do business, or another individual whose information we have collected pursuant to this Privacy Notice. Please note that the Services are designed for users in the United States only and are not intended for users located outside the United States.
 
@@ -294,7 +294,7 @@ As a California resident, you may have the rights listed below in relation to pe
 * **Right to Opt out of Sale or Sharing.** You have a right to direct us not to sell or share your personal information. To exercise the right to opt out of selling or sharing, please click the “Do not sell or share my information” link at the bottom of any page on the website.
     
 
-You may exercise any of these rights by contacting us using the information provided below. We will not discriminate against you for exercising any of these rights. We may need to collect information from you to verify your identity, such as your email address, government issued ID or date of birth, before providing a substantive response to the request. You may designate, in writing or through a power of attorney document, an authorized agent to make requests on your behalf to exercise your rights. Before accepting such a request from an agent, we will require that the agent provide proof you have authorized them to act on your behalf, and we may need you to verify your identity directly with us.
+You may exercise any of these rights by filling out our Privacy Request Form [here](https://preferences.aceable.com/ "https://preferences.aceable.com/"). We will not discriminate against you for exercising any of these rights. We may need to collect information from you to verify your identity, such as your email address, government issued ID or date of birth, before providing a substantive response to the request. You may designate, in writing or through a power of attorney document, an authorized agent to make requests on your behalf to exercise your rights. Before accepting such a request from an agent, we will require that the agent provide proof you have authorized them to act on your behalf, and we may need you to verify your identity directly with us.
 
 In addition, California law permits residents to request certain details about how their “personal information” (as defined in California Civil Code Section 1798.83) is shared with third parties for their direct marketing purposes. We may from time to time elect to share certain personal information about you with third parties for those third parties’ direct marketing purposes. Residents may, under certain circumstances, obtain the categories of personal information shared and the names and addresses of all third parties that received personal information for their direct marketing purposes during the immediately prior calendar year. To make such a request, please contact us using the information listed below. Please note that we are only required to respond to one request per resident each year.
 
@@ -321,7 +321,7 @@ If you are a California resident, please see the section above, _California Resi
 
   
 
-You may exercise any of these rights by contacting us using the information provided below. We will not discriminate against you for exercising any of these rights. We may need to collect information from you to verify your identity, such as your email address, government issued ID or date of birth, before providing a substantive response to the request. Depending on your location, you may designate, in writing or through a power of attorney document, an authorized agent to make requests on your behalf to exercise your rights. Before accepting such a request from an agent, we will require that the agent provide proof you have authorized them to act on your behalf, and we may need you to verify your identity directly with us.
+You may exercise any of these rights by filling out our Privacy Request Form [here](https://preferences.aceable.com/ "https://preferences.aceable.com/"). We will not discriminate against you for exercising any of these rights. We may need to collect information from you to verify your identity, such as your email address, government issued ID or date of birth, before providing a substantive response to the request. Depending on your location, you may designate, in writing or through a power of attorney document, an authorized agent to make requests on your behalf to exercise your rights. Before accepting such a request from an agent, we will require that the agent provide proof you have authorized them to act on your behalf, and we may need you to verify your identity directly with us.
 
 In addition, you may have the right to appeal our decision regarding a request related to these rights by contacting us using the information provided below. When you submit a request or launch an appeal, we will limit our collection of your information to only what is necessary to securely fulfill your request or process your appeal. We will not require you or your authorized agent to pay a fee for the verification of your request or appeal.
 
