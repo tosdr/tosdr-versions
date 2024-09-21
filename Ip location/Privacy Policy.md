@@ -119,7 +119,7 @@ If you have any questions or concerns about this Privacy Policy, please contact 
 * [Ecommerce (66)](https://www.iplocation.net/blog/category/ecommerce)
 * [Intellectual Property (9)](https://www.iplocation.net/blog/category/intellectual-property)
 * [Productivity (13)](https://www.iplocation.net/blog/category/productivity)
-* [Cloud Services (79)](https://www.iplocation.net/blog/category/cloud-services)
+* [Cloud Services (80)](https://www.iplocation.net/blog/category/cloud-services)
 * [Computing (58)](https://www.iplocation.net/blog/category/computing)
 * [Crypto & Blockchain (30)](https://www.iplocation.net/blog/category/blockchain)
 * [Cybersecurity (249)](https://www.iplocation.net/blog/category/cybersecurity)
@@ -159,7 +159,7 @@ If you have any questions or concerns about this Privacy Policy, please contact 
 * [Information Technology (8)](https://www.iplocation.net/blog/category/information-technology)
 * [Travel (16)](https://www.iplocation.net/blog/category/travel)
 * [World Wide Web (151)](https://www.iplocation.net/blog/category/web)
-* [Search Engine Optimization (54)](https://www.iplocation.net/blog/category/seo)
+* [Search Engine Optimization (55)](https://www.iplocation.net/blog/category/seo)
 * [Web Hosting (22)](https://www.iplocation.net/blog/category/web-hosting)
 * [Web Design (11)](https://www.iplocation.net/blog/category/web-design)
 
