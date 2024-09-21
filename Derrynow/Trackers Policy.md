@@ -280,37 +280,19 @@ Most Popular
 [County Derry man who operated illegal television streaming service for be sentenced next month](https://www.derrynow.com/news/local-news/1609966/county-derry-man-who-operated-illegal-television-streaming-service-for-be-sentenced-next-month.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Former Sinn Fein press officer charged with sex offences found unconscious and currently in hospital](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Former Sinn Fein press officer charged with sex offences found unconscious and currently in hospital")](https://www.derrynow.com/news/local-news/1609884/former-sinn-fein-press-officer-charged-with-sex-offences-found-unconscious-and-currently-in-hospital.html)
+[![PICTURES: See inside this superb Derry property for sale](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PICTURES: See inside this superb Derry property for sale")](https://www.derrynow.com/news/property/1609882/pictures-see-inside-this-superb-derry-property-for-sale.html)
 
-[Local News](https://www.derrynow.com/section/975/news)
+[Property](https://www.derrynow.com/section/1232/property)
 
-[Former Sinn Fein press officer charged with sex offences found unconscious and currently in hospital](https://www.derrynow.com/news/local-news/1609884/former-sinn-fein-press-officer-charged-with-sex-offences-found-unconscious-and-currently-in-hospital.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[PICTURES: See inside this superb Derry property for sale](https://www.derrynow.com/news/property/1609882/pictures-see-inside-this-superb-derry-property-for-sale.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Derry judge says possessing Pregablin with intent to supply should be deemed a Class A offence](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry judge says possessing Pregablin with intent to supply should be deemed a Class A offence")](https://www.derrynow.com/news/local-news/1609881/derry-judge-says-possessing-pregablin-with-intent-to-supply-should-be-deemed-a-class-a-offence.html)
+[![Derry Death Notices -Saturday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices -Saturday")](https://www.derrynow.com/news/deaths/1610380/derry-death-notices-saturday-21st-september-2024.html)
 
-Derry Magistrate's Court
+[Deaths](https://www.derrynow.com/section/977/deaths)
 
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Derry judge says possessing Pregablin with intent to supply should be deemed a Class A offence](https://www.derrynow.com/news/local-news/1609881/derry-judge-says-possessing-pregablin-with-intent-to-supply-should-be-deemed-a-class-a-offence.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Former Derry manager Rory Gallagher 'fully intends' to return to inter-county management](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Former Derry manager Rory Gallagher 'fully intends' to return to inter-county management")](https://www.derrynow.com/news/gaa/1609864/former-derry-manager-rory-gallagher-fully-intends-to-return-to-inter-county-management.html)
-
-[GAA](https://www.derrynow.com/section/1060/gaa)
-
-[Former Derry manager Rory Gallagher 'fully intends' to return to inter-county management](https://www.derrynow.com/news/gaa/1609864/former-derry-manager-rory-gallagher-fully-intends-to-return-to-inter-county-management.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Large search operation ongoing around Burt farm](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Large search operation ongoing around Burt farm")](https://www.derrynow.com/news/local-news/1609874/large-search-operation-ongoing-around-burt-farm.html)
-
-The scene of a major search operation in the Burt area
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Large search operation ongoing around Burt farm](https://www.derrynow.com/news/local-news/1609874/large-search-operation-ongoing-around-burt-farm.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------
+[Derry Death Notices - Saturday, 21st September 2024](https://www.derrynow.com/news/deaths/1610380/derry-death-notices-saturday-21st-september-2024.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Man charged with a sexual assault in Altnagelvin Hospital pleads not guilty](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man charged with a sexual assault in Altnagelvin Hospital pleads not guilty")](https://www.derrynow.com/news/local-news/1609921/man-charged-with-a-sexual-assault-in-altnagelvin-hospital-pleads-not-guilty.html)
 
@@ -319,21 +301,41 @@ The scene of a major search operation in the Burt area
 [Man charged with a sexual assault in Altnagelvin Hospital pleads not guilty](https://www.derrynow.com/news/local-news/1609921/man-charged-with-a-sexual-assault-in-altnagelvin-hospital-pleads-not-guilty.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Community efforts to tackle anti-social behaviour in Derry praised](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Community efforts to tackle anti-social behaviour in Derry praised")](https://www.derrynow.com/news/local-news/1609809/community-efforts-to-tackle-anti-social-behaviour-in-derry-praised.html)
+[![Foyle Embankment](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Foyle Embankment")](https://www.derrynow.com/news/home/1610163/upcoming-road-closures-for-derry.html)
 
-Glenabbey
+Foyle Embankment
 
-[Local News](https://www.derrynow.com/section/975/news)
+[Home](https://www.derrynow.com/)
 
-[Community efforts to tackle anti-social behaviour in Derry praised](https://www.derrynow.com/news/local-news/1609809/community-efforts-to-tackle-anti-social-behaviour-in-derry-praised.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Upcoming Road Closures for Derry](https://www.derrynow.com/news/home/1610163/upcoming-road-closures-for-derry.html)
+--------------------------------------------------------------------------------------------------------------------
 
-[![PICTURES: See inside this superb Derry property for sale](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PICTURES: See inside this superb Derry property for sale")](https://www.derrynow.com/news/property/1609882/pictures-see-inside-this-superb-derry-property-for-sale.html)
+[![Martinog Bradley, Kenny Beggs and Lawrence Watson](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Martinog Bradley, Kenny Beggs and Lawrence Watson")](https://www.derrynow.com/news/derry-sport/1609938/derry-men-to-represent-northern-ireland-in-subbuteo-world-cup-this-weekend.html)
 
-[Property](https://www.derrynow.com/section/1232/property)
+Martinog Bradley, Kenny Beggs and Lawrence Watson
 
-[PICTURES: See inside this superb Derry property for sale](https://www.derrynow.com/news/property/1609882/pictures-see-inside-this-superb-derry-property-for-sale.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
+
+[Derry men to represent Northern Ireland in Subbuteo World Cup this weekend](https://www.derrynow.com/news/derry-sport/1609938/derry-men-to-represent-northern-ireland-in-subbuteo-world-cup-this-weekend.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Derry City](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry City")](https://www.derrynow.com/news/derry-sport/1610515/late-drama-at-the-brandywell-as-pat-hoban-rescues-derry-city-from-the-penalty-spot.html)
+
+Paul McMullan challenges for the ball. Pic by Sportsfile
+
+[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
+
+[Late drama at the Brandywell as Pat Hoban rescues Derry City from the penalty spot](https://www.derrynow.com/news/derry-sport/1610515/late-drama-at-the-brandywell-as-pat-hoban-rescues-derry-city-from-the-penalty-spot.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![WATCH: Comedian Babatunde Aléshé explores Derry in new Channel 4 mini-series](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "WATCH: Comedian Babatunde Aléshé explores Derry in new Channel 4 mini-series")](https://www.derrynow.com/video/pictures---videos/1610353/watch-comedian-babatunde-aleshe-explores-derry-in-new-channel-4-mini-series.html)
+
+Comedian Babatunde Aléshé finds out more about the journey from grain to glass, during filming for a new Channel 4 mini-series called Where to Next?, at the Walled City Brewery.
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[WATCH: Comedian Babatunde Aléshé explores Derry and the Walled City Brewery](https://www.derrynow.com/video/pictures---videos/1610353/watch-comedian-babatunde-aleshe-explores-derry-in-new-channel-4-mini-series.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
@@ -517,6 +519,13 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
+[![Foyle Memory Walk to raise funds for Alzheimer's charity](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Foyle Memory Walk to raise funds for Alzheimer's charity")](https://www.derrynow.com/news/local-news/1609940/foyle-memory-walk-to-raise-funds-for-alzheimer-s-charity.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Foyle Memory Walk to raise funds for Alzheimer's charity](https://www.derrynow.com/news/local-news/1609940/foyle-memory-walk-to-raise-funds-for-alzheimer-s-charity.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 [![Derry Death Notices -Saturday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices -Saturday")](https://www.derrynow.com/news/deaths/1610380/derry-death-notices-saturday-21st-september-2024.html)
 
 [Deaths](https://www.derrynow.com/section/977/deaths)
@@ -524,7 +533,7 @@ Advertise with Us
 [Derry Death Notices - Saturday, 21st September 2024](https://www.derrynow.com/news/deaths/1610380/derry-death-notices-saturday-21st-september-2024.html)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Derry City](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry City")](https://www.derrynow.com/news/derry-sport/1610515/late-drama-at-the-brandywell-as-pat-hoban-rescues-derry-city-from-the-penalty-spot.html)
+[![Derry City](https://www.derrynow.com/resizer/165/93/true/2024_09_20/2944007-1726865524612.jpg--.jpg?1726865526474 "Derry City")](https://www.derrynow.com/news/derry-sport/1610515/late-drama-at-the-brandywell-as-pat-hoban-rescues-derry-city-from-the-penalty-spot.html)
 
 Paul McMullan challenges for the ball. Pic by Sportsfile
 
@@ -557,13 +566,6 @@ Martinog Bradley, Kenny Beggs and Lawrence Watson
 
 [Derry men to represent Northern Ireland in Subbuteo World Cup this weekend](https://www.derrynow.com/news/derry-sport/1609938/derry-men-to-represent-northern-ireland-in-subbuteo-world-cup-this-weekend.html)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![County Derry man who operated illegal television streaming service for be sentenced next month](https://www.derrynow.com/resizer/165/93/true/2015/06/04211140/derrycourthouse2.jpg--.jpg "County Derry man who operated illegal television streaming service for be sentenced next month")](https://www.derrynow.com/news/local-news/1609966/county-derry-man-who-operated-illegal-television-streaming-service-for-be-sentenced-next-month.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[County Derry man who operated illegal television streaming service for be sentenced next month](https://www.derrynow.com/news/local-news/1609966/county-derry-man-who-operated-illegal-television-streaming-service-for-be-sentenced-next-month.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
