@@ -404,9 +404,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ If you want to build a ship, don't drum up people to collect wood and don't assign them tasks and work, but rather teach them to long for the endless immensity of the sea”
+“ It's only "work" if you'd rather be doing something else”
 
-[Antoine de Saint-Exupery](http://en.wikipedia.org/wiki/Antoine_de_Saint-Exup%C3%A9ry)
+[Dean Kamen](https://en.wikipedia.org/wiki/Dean_Kamen)
 
 [](https://www.adafruit.com/about)
 
