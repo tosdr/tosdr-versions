@@ -280,20 +280,6 @@ Most Popular
 [County Derry man who operated illegal television streaming service for be sentenced next month](https://www.derrynow.com/news/local-news/1609966/county-derry-man-who-operated-illegal-television-streaming-service-for-be-sentenced-next-month.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Derry Death Notices - Friday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Friday")](https://www.derrynow.com/news/deaths/1609403/derry-death-notices-friday-20th-september-2024.html)
-
-[Deaths](https://www.derrynow.com/section/977/deaths)
-
-[Derry Death Notices - Friday, 20th September 2024](https://www.derrynow.com/news/deaths/1609403/derry-death-notices-friday-20th-september-2024.html)
------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![PICTURES: See inside this superb Derry property for sale](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PICTURES: See inside this superb Derry property for sale")](https://www.derrynow.com/news/property/1609882/pictures-see-inside-this-superb-derry-property-for-sale.html)
-
-[Property](https://www.derrynow.com/section/1232/property)
-
-[PICTURES: See inside this superb Derry property for sale](https://www.derrynow.com/news/property/1609882/pictures-see-inside-this-superb-derry-property-for-sale.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 [![Former Sinn Fein press officer charged with sex offences found unconscious and currently in hospital](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Former Sinn Fein press officer charged with sex offences found unconscious and currently in hospital")](https://www.derrynow.com/news/local-news/1609884/former-sinn-fein-press-officer-charged-with-sex-offences-found-unconscious-and-currently-in-hospital.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
@@ -332,6 +318,22 @@ The scene of a major search operation in the Burt area
 
 [Man charged with a sexual assault in Altnagelvin Hospital pleads not guilty](https://www.derrynow.com/news/local-news/1609921/man-charged-with-a-sexual-assault-in-altnagelvin-hospital-pleads-not-guilty.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Community efforts to tackle anti-social behaviour in Derry praised](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Community efforts to tackle anti-social behaviour in Derry praised")](https://www.derrynow.com/news/local-news/1609809/community-efforts-to-tackle-anti-social-behaviour-in-derry-praised.html)
+
+Glenabbey
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Community efforts to tackle anti-social behaviour in Derry praised](https://www.derrynow.com/news/local-news/1609809/community-efforts-to-tackle-anti-social-behaviour-in-derry-praised.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![PICTURES: See inside this superb Derry property for sale](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PICTURES: See inside this superb Derry property for sale")](https://www.derrynow.com/news/property/1609882/pictures-see-inside-this-superb-derry-property-for-sale.html)
+
+[Property](https://www.derrynow.com/section/1232/property)
+
+[PICTURES: See inside this superb Derry property for sale](https://www.derrynow.com/news/property/1609882/pictures-see-inside-this-superb-derry-property-for-sale.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
@@ -515,6 +517,13 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
+[![Derry Death Notices -Saturday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices -Saturday")](https://www.derrynow.com/news/deaths/1610380/derry-death-notices-saturday-21st-september-2024.html)
+
+[Deaths](https://www.derrynow.com/section/977/deaths)
+
+[Derry Death Notices - Saturday, 21st September 2024](https://www.derrynow.com/news/deaths/1610380/derry-death-notices-saturday-21st-september-2024.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
 [![Derry City](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry City")](https://www.derrynow.com/news/derry-sport/1610515/late-drama-at-the-brandywell-as-pat-hoban-rescues-derry-city-from-the-penalty-spot.html)
 
 Paul McMullan challenges for the ball. Pic by Sportsfile
@@ -524,7 +533,7 @@ Paul McMullan challenges for the ball. Pic by Sportsfile
 [Late drama at the Brandywell as Pat Hoban rescues Derry City from the penalty spot](https://www.derrynow.com/news/derry-sport/1610515/late-drama-at-the-brandywell-as-pat-hoban-rescues-derry-city-from-the-penalty-spot.html)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Durkan calls for support for Foyle Street Businesses impacted by road closure disruption](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Durkan calls for support for Foyle Street Businesses impacted by road closure disruption")](https://www.derrynow.com/news/derry-news/1610266/durkan-calls-for-support-for-foyle-street-businesses-impacted-by-road-closure-disruption.html)
+[![Durkan calls for support for Foyle Street Businesses impacted by road closure disruption](https://www.derrynow.com/resizer/165/93/true/1591634133373.jpg--.jpg?1591634133000 "Durkan calls for support for Foyle Street Businesses impacted by road closure disruption")](https://www.derrynow.com/news/derry-news/1610266/durkan-calls-for-support-for-foyle-street-businesses-impacted-by-road-closure-disruption.html)
 
 [Derry News](https://www.derrynow.com/section/999/derry-news)
 
@@ -555,15 +564,6 @@ Martinog Bradley, Kenny Beggs and Lawrence Watson
 
 [County Derry man who operated illegal television streaming service for be sentenced next month](https://www.derrynow.com/news/local-news/1609966/county-derry-man-who-operated-illegal-television-streaming-service-for-be-sentenced-next-month.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Public meeting to held in Derry over future of rail in the North West](https://www.derrynow.com/resizer/165/93/true/2024_09_15/IDNM_16-9-24_Derry_train-1726391282140.jpg--.jpg?1726391282159 "Public meeting to held in Derry over future of rail in the North West")](https://www.derrynow.com/news/local-news/1610150/public-meeting-to-held-in-derry-over-future-of-rail-in-north-west.html)
-
-The public meeting on the future of rail usage in the north west will be this Saturday.
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Public meeting to held in Derry over future of rail in North West](https://www.derrynow.com/news/local-news/1610150/public-meeting-to-held-in-derry-over-future-of-rail-in-north-west.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
