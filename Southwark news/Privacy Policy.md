@@ -19,6 +19,27 @@
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![South London artist, Cee, by her mural in Elephant and Castle 
+    -Photos supplied](https://southwarknews.co.uk/wp-content/uploads/2024/09/Elepant-mural5-360x180.jpeg)](https://southwarknews.co.uk/area/elephant-and-castle/elephant-castles-new-mural-with-rich-latin-american-influence/)
+    
+    ### [Elephant & Castle’s new mural with rich Latin American influence](https://southwarknews.co.uk/area/elephant-and-castle/elephant-castles-new-mural-with-rich-latin-american-influence/)
+    
+    [![Monica Walker Old Operating Theatre](https://southwarknews.co.uk/wp-content/uploads/2024/09/Monica-Walker-Old-Operating-Theatre-360x180.jpg)](https://southwarknews.co.uk/area/camberwell/whats-on-in-se1-and-se16-this-autumn/)
+    
+    ### [What’s on in SE1 and SE16 this autumn?](https://southwarknews.co.uk/area/camberwell/whats-on-in-se1-and-se16-this-autumn/)
+    
+    [![](https://southwarknews.co.uk/wp-content/uploads/2022/06/Helen-Hayes-e1588768248748-360x180.jpeg)](https://southwarknews.co.uk/area/dulwich/helen-hayes-mp-elected-chair-of-commons-education-committee/)
+    
+    ### [Helen Hayes MP elected chair of Commons education committee](https://southwarknews.co.uk/area/dulwich/helen-hayes-mp-elected-chair-of-commons-education-committee/)
+    
+    [![Those behind the new Lower Road cycle lane met politicians and business owners on site in May](https://southwarknews.co.uk/wp-content/uploads/2024/09/image002-360x180.jpeg)](https://southwarknews.co.uk/area/rotherhithe/southwark-council-to-consider-putting-second-traffic-lane-on-lower-road-says-local-councillor/)
+    
+    ### [Southwark Council to consider putting second traffic lane on Lower Road, says local councillor](https://southwarknews.co.uk/area/rotherhithe/southwark-council-to-consider-putting-second-traffic-lane-on-lower-road-says-local-councillor/)
+    
+    [![Max Templer outside a building on the North Peckham estate, South London in July 2024. CREDIT: Robert Firth](https://southwarknews.co.uk/wp-content/uploads/2024/09/IMG_9851-360x180.jpg)](https://southwarknews.co.uk/area/southwark/southwark-council-denies-mishandling-complaints-from-leaseholders-lumped-with-2500-heating-bills/)
+    
+    ### [Southwark Council denies mishandling complaints from leaseholders lumped with £2,500 heating bills](https://southwarknews.co.uk/area/southwark/southwark-council-denies-mishandling-complaints-from-leaseholders-lumped-with-2500-heating-bills/)
+    
     [![The Great Boat Race is on September 21 (Thames Festival Trust)](https://southwarknews.co.uk/wp-content/uploads/2024/09/Image-22-07-2024-at-09.32-360x180.jpg)](https://southwarknews.co.uk/news/community/great-river-race-to-hit-the-thames-this-saturday-with-300-boats-to-compete/)
     
     ### [Great River race to hit the Thames this Saturday with 300 boats to compete](https://southwarknews.co.uk/news/community/great-river-race-to-hit-the-thames-this-saturday-with-300-boats-to-compete/)
@@ -34,26 +55,6 @@
     [![Tesco Southwark Superstore. Image: Google](https://southwarknews.co.uk/wp-content/uploads/2024/09/Tesco-Southwark-Superstore.-Image-Google-360x180.png)](https://southwarknews.co.uk/area/bermondsey/tesco-southwark-superstore-hosting-volunteer-fair/)
     
     ### [Tesco Southwark Superstore hosting volunteer fair](https://southwarknews.co.uk/area/bermondsey/tesco-southwark-superstore-hosting-volunteer-fair/)
-    
-    [![Peckham Hill Street, by Peckham Library. Image: Google Maps](https://southwarknews.co.uk/wp-content/uploads/2024/09/Peckham-Hill-Street-by-Peckham-Library.-Image-Google-Maps-360x180.png)](https://southwarknews.co.uk/area/peckham/girl-14-arrested-on-suspicion-of-grievous-bodily-harm-in-peckham/)
-    
-    ### [Girl, 14, arrested on suspicion of grievous bodily harm in Peckham](https://southwarknews.co.uk/area/peckham/girl-14-arrested-on-suspicion-of-grievous-bodily-harm-in-peckham/)
-    
-    [![Southwark Police are appealing for Richard's whereabouts. Image: Southark Police (X)](https://southwarknews.co.uk/wp-content/uploads/2024/09/Southwark-Police-are-appealing-for-Richards-whereabouts.-Image-Southark-Police-X-360x180.png)](https://southwarknews.co.uk/area/peckham/man-missing-from-peckham-for-a-week/)
-    
-    ### [Man missing from Peckham for a week](https://southwarknews.co.uk/area/peckham/man-missing-from-peckham-for-a-week/)
-    
-    [![A stock image of a pizza. Credit: Daria Yakovleva (Creative Commons)](https://southwarknews.co.uk/wp-content/uploads/2024/09/A-stock-image-of-a-pizza.-Credit-Daria-Yakovleva-Creative-Commons-360x180.png)](https://southwarknews.co.uk/area/southwark/which-southwark-restaurants-got-top-marks-in-the-latest-food-hygiene-inspections/)
-    
-    ### [Which Southwark restaurants got top marks in the latest food hygiene inspections?](https://southwarknews.co.uk/area/southwark/which-southwark-restaurants-got-top-marks-in-the-latest-food-hygiene-inspections/)
-    
-    [![Left to right: Cllr Mohamed Deen, Miatta Fahnbulleh MP, Neil Coyle MP and Cllr David Parton](https://southwarknews.co.uk/wp-content/uploads/2024/07/Left-to-right-Cllr-Mohamed-Deen-Miatta-Fahnbulleh-MP-Neil-Coyle-MP-and-Cllr-David-Parton-360x180.png)](https://southwarknews.co.uk/area/bermondsey/comment-egging-your-local-mp-isnt-clever-or-funny/)
-    
-    ### [Comment: Egging your local MP isn’t clever or funny](https://southwarknews.co.uk/area/bermondsey/comment-egging-your-local-mp-isnt-clever-or-funny/)
-    
-    [![Neil Clayton, a solicitor, said he used the steps twice a week and was “used to it” but had heard of colleagues tumbling down. Credit: Herbie Russell](https://southwarknews.co.uk/wp-content/uploads/2024/09/IMG_2418-1-360x180.jpeg)](https://southwarknews.co.uk/area/borough/steps-by-london-bridge-with-bizarre-slanted-design-branded-worst-in-london/)
-    
-    ### [Steps by London Bridge with bizarre slanted design branded ‘worst in London’](https://southwarknews.co.uk/area/borough/steps-by-london-bridge-with-bizarre-slanted-design-branded-worst-in-london/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [In depth history](https://southwarknews.co.uk/category/history/in-depth-history/)
@@ -99,6 +100,27 @@ View All Result
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![South London artist, Cee, by her mural in Elephant and Castle 
+    -Photos supplied](https://southwarknews.co.uk/wp-content/uploads/2024/09/Elepant-mural5-360x180.jpeg)](https://southwarknews.co.uk/area/elephant-and-castle/elephant-castles-new-mural-with-rich-latin-american-influence/)
+    
+    ### [Elephant & Castle’s new mural with rich Latin American influence](https://southwarknews.co.uk/area/elephant-and-castle/elephant-castles-new-mural-with-rich-latin-american-influence/)
+    
+    [![Monica Walker Old Operating Theatre](https://southwarknews.co.uk/wp-content/uploads/2024/09/Monica-Walker-Old-Operating-Theatre-360x180.jpg)](https://southwarknews.co.uk/area/camberwell/whats-on-in-se1-and-se16-this-autumn/)
+    
+    ### [What’s on in SE1 and SE16 this autumn?](https://southwarknews.co.uk/area/camberwell/whats-on-in-se1-and-se16-this-autumn/)
+    
+    [![](https://southwarknews.co.uk/wp-content/uploads/2022/06/Helen-Hayes-e1588768248748-360x180.jpeg)](https://southwarknews.co.uk/area/dulwich/helen-hayes-mp-elected-chair-of-commons-education-committee/)
+    
+    ### [Helen Hayes MP elected chair of Commons education committee](https://southwarknews.co.uk/area/dulwich/helen-hayes-mp-elected-chair-of-commons-education-committee/)
+    
+    [![Those behind the new Lower Road cycle lane met politicians and business owners on site in May](https://southwarknews.co.uk/wp-content/uploads/2024/09/image002-360x180.jpeg)](https://southwarknews.co.uk/area/rotherhithe/southwark-council-to-consider-putting-second-traffic-lane-on-lower-road-says-local-councillor/)
+    
+    ### [Southwark Council to consider putting second traffic lane on Lower Road, says local councillor](https://southwarknews.co.uk/area/rotherhithe/southwark-council-to-consider-putting-second-traffic-lane-on-lower-road-says-local-councillor/)
+    
+    [![Max Templer outside a building on the North Peckham estate, South London in July 2024. CREDIT: Robert Firth](https://southwarknews.co.uk/wp-content/uploads/2024/09/IMG_9851-360x180.jpg)](https://southwarknews.co.uk/area/southwark/southwark-council-denies-mishandling-complaints-from-leaseholders-lumped-with-2500-heating-bills/)
+    
+    ### [Southwark Council denies mishandling complaints from leaseholders lumped with £2,500 heating bills](https://southwarknews.co.uk/area/southwark/southwark-council-denies-mishandling-complaints-from-leaseholders-lumped-with-2500-heating-bills/)
+    
     [![The Great Boat Race is on September 21 (Thames Festival Trust)](https://southwarknews.co.uk/wp-content/uploads/2024/09/Image-22-07-2024-at-09.32-360x180.jpg)](https://southwarknews.co.uk/news/community/great-river-race-to-hit-the-thames-this-saturday-with-300-boats-to-compete/)
     
     ### [Great River race to hit the Thames this Saturday with 300 boats to compete](https://southwarknews.co.uk/news/community/great-river-race-to-hit-the-thames-this-saturday-with-300-boats-to-compete/)
@@ -114,26 +136,6 @@ View All Result
     [![Tesco Southwark Superstore. Image: Google](https://southwarknews.co.uk/wp-content/uploads/2024/09/Tesco-Southwark-Superstore.-Image-Google-360x180.png)](https://southwarknews.co.uk/area/bermondsey/tesco-southwark-superstore-hosting-volunteer-fair/)
     
     ### [Tesco Southwark Superstore hosting volunteer fair](https://southwarknews.co.uk/area/bermondsey/tesco-southwark-superstore-hosting-volunteer-fair/)
-    
-    [![Peckham Hill Street, by Peckham Library. Image: Google Maps](https://southwarknews.co.uk/wp-content/uploads/2024/09/Peckham-Hill-Street-by-Peckham-Library.-Image-Google-Maps-360x180.png)](https://southwarknews.co.uk/area/peckham/girl-14-arrested-on-suspicion-of-grievous-bodily-harm-in-peckham/)
-    
-    ### [Girl, 14, arrested on suspicion of grievous bodily harm in Peckham](https://southwarknews.co.uk/area/peckham/girl-14-arrested-on-suspicion-of-grievous-bodily-harm-in-peckham/)
-    
-    [![Southwark Police are appealing for Richard's whereabouts. Image: Southark Police (X)](https://southwarknews.co.uk/wp-content/uploads/2024/09/Southwark-Police-are-appealing-for-Richards-whereabouts.-Image-Southark-Police-X-360x180.png)](https://southwarknews.co.uk/area/peckham/man-missing-from-peckham-for-a-week/)
-    
-    ### [Man missing from Peckham for a week](https://southwarknews.co.uk/area/peckham/man-missing-from-peckham-for-a-week/)
-    
-    [![A stock image of a pizza. Credit: Daria Yakovleva (Creative Commons)](https://southwarknews.co.uk/wp-content/uploads/2024/09/A-stock-image-of-a-pizza.-Credit-Daria-Yakovleva-Creative-Commons-360x180.png)](https://southwarknews.co.uk/area/southwark/which-southwark-restaurants-got-top-marks-in-the-latest-food-hygiene-inspections/)
-    
-    ### [Which Southwark restaurants got top marks in the latest food hygiene inspections?](https://southwarknews.co.uk/area/southwark/which-southwark-restaurants-got-top-marks-in-the-latest-food-hygiene-inspections/)
-    
-    [![Left to right: Cllr Mohamed Deen, Miatta Fahnbulleh MP, Neil Coyle MP and Cllr David Parton](https://southwarknews.co.uk/wp-content/uploads/2024/07/Left-to-right-Cllr-Mohamed-Deen-Miatta-Fahnbulleh-MP-Neil-Coyle-MP-and-Cllr-David-Parton-360x180.png)](https://southwarknews.co.uk/area/bermondsey/comment-egging-your-local-mp-isnt-clever-or-funny/)
-    
-    ### [Comment: Egging your local MP isn’t clever or funny](https://southwarknews.co.uk/area/bermondsey/comment-egging-your-local-mp-isnt-clever-or-funny/)
-    
-    [![Neil Clayton, a solicitor, said he used the steps twice a week and was “used to it” but had heard of colleagues tumbling down. Credit: Herbie Russell](https://southwarknews.co.uk/wp-content/uploads/2024/09/IMG_2418-1-360x180.jpeg)](https://southwarknews.co.uk/area/borough/steps-by-london-bridge-with-bizarre-slanted-design-branded-worst-in-london/)
-    
-    ### [Steps by London Bridge with bizarre slanted design branded ‘worst in London’](https://southwarknews.co.uk/area/borough/steps-by-london-bridge-with-bizarre-slanted-design-branded-worst-in-london/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [In depth history](https://southwarknews.co.uk/category/history/in-depth-history/)
@@ -347,6 +349,12 @@ Website
 
 [18th September 2024](https://southwarknews.co.uk/sport/football/millwall/millwall-manager-discusses-call-back-option-for-on-loan-striker/)
 
+[![The Aylesbury estate in Southwark is due to be demolished and rebuilt. CREDIT: Robert Firth](https://southwarknews.co.uk/wp-content/uploads/2024/09/281443832_1271655566700908_3428153952989453541_n-120x86.jpg)](https://southwarknews.co.uk/area/walworth/social-housing-on-regenerated-ayslesbury-estate-more-expensive-than-normal-council-housing-report-claims/)
+
+### [Social housing on regenerated Ayslesbury Estate ‘more expensive’ than normal council housing, report claims](https://southwarknews.co.uk/area/walworth/social-housing-on-regenerated-ayslesbury-estate-more-expensive-than-normal-council-housing-report-claims/)
+
+[19th September 2024](https://southwarknews.co.uk/area/walworth/social-housing-on-regenerated-ayslesbury-estate-more-expensive-than-normal-council-housing-report-claims/)
+
 [![Injured Josh Coburn. Image: Millwall FC](https://southwarknews.co.uk/wp-content/uploads/2024/09/Coburn-injury-vs-Luton-120x86.jpeg)](https://southwarknews.co.uk/sport/football/millwall/millwall-boss-gives-verdict-after-replacement-striker-inches-away-from-first-lions-goal/)
 
 ### [Millwall boss gives verdict after replacement striker inches away from first Lions goal](https://southwarknews.co.uk/sport/football/millwall/millwall-boss-gives-verdict-after-replacement-striker-inches-away-from-first-lions-goal/)
@@ -366,13 +374,32 @@ Photo by  Joe Coughlan.](https://southwarknews.co.uk/wp-content/uploads/2024/09/
 
 [15th September 2024](https://southwarknews.co.uk/area/south-london/pensioners-in-south-london-disgusted-by-governments-cut-to-winter-fuel-payments/)
 
-[![The Aylesbury estate in Southwark is due to be demolished and rebuilt. CREDIT: Robert Firth](https://southwarknews.co.uk/wp-content/uploads/2024/09/281443832_1271655566700908_3428153952989453541_n-120x86.jpg)](https://southwarknews.co.uk/area/walworth/social-housing-on-regenerated-ayslesbury-estate-more-expensive-than-normal-council-housing-report-claims/)
-
-### [Social housing on regenerated Ayslesbury Estate ‘more expensive’ than normal council housing, report claims](https://southwarknews.co.uk/area/walworth/social-housing-on-regenerated-ayslesbury-estate-more-expensive-than-normal-council-housing-report-claims/)
-
-[19th September 2024](https://southwarknews.co.uk/area/walworth/social-housing-on-regenerated-ayslesbury-estate-more-expensive-than-normal-council-housing-report-claims/)
-
 ### Featured Articles
+
+[![South London artist, Cee, by her mural in Elephant and Castle 
+-Photos supplied](https://southwarknews.co.uk/wp-content/uploads/2024/09/Elepant-mural5-120x86.jpeg)](https://southwarknews.co.uk/area/elephant-and-castle/elephant-castles-new-mural-with-rich-latin-american-influence/)
+
+### [Elephant & Castle’s new mural with rich Latin American influence](https://southwarknews.co.uk/area/elephant-and-castle/elephant-castles-new-mural-with-rich-latin-american-influence/)
+
+[21st September 2024](https://southwarknews.co.uk/area/elephant-and-castle/elephant-castles-new-mural-with-rich-latin-american-influence/)
+
+[![Monica Walker Old Operating Theatre](https://southwarknews.co.uk/wp-content/uploads/2024/09/Monica-Walker-Old-Operating-Theatre-120x86.jpg)](https://southwarknews.co.uk/area/camberwell/whats-on-in-se1-and-se16-this-autumn/)
+
+### [What’s on in SE1 and SE16 this autumn?](https://southwarknews.co.uk/area/camberwell/whats-on-in-se1-and-se16-this-autumn/)
+
+[21st September 2024](https://southwarknews.co.uk/area/camberwell/whats-on-in-se1-and-se16-this-autumn/)
+
+[![Those behind the new Lower Road cycle lane met politicians and business owners on site in May](https://southwarknews.co.uk/wp-content/uploads/2024/09/image002-120x86.jpeg)](https://southwarknews.co.uk/area/rotherhithe/southwark-council-to-consider-putting-second-traffic-lane-on-lower-road-says-local-councillor/)
+
+### [Southwark Council to consider putting second traffic lane on Lower Road, says local councillor](https://southwarknews.co.uk/area/rotherhithe/southwark-council-to-consider-putting-second-traffic-lane-on-lower-road-says-local-councillor/)
+
+[21st September 2024](https://southwarknews.co.uk/area/rotherhithe/southwark-council-to-consider-putting-second-traffic-lane-on-lower-road-says-local-councillor/)
+
+[![Max Templer outside a building on the North Peckham estate, South London in July 2024. CREDIT: Robert Firth](https://southwarknews.co.uk/wp-content/uploads/2024/09/IMG_9851-120x86.jpg)](https://southwarknews.co.uk/area/southwark/southwark-council-denies-mishandling-complaints-from-leaseholders-lumped-with-2500-heating-bills/)
+
+### [Southwark Council denies mishandling complaints from leaseholders lumped with £2,500 heating bills](https://southwarknews.co.uk/area/southwark/southwark-council-denies-mishandling-complaints-from-leaseholders-lumped-with-2500-heating-bills/)
+
+[21st September 2024](https://southwarknews.co.uk/area/southwark/southwark-council-denies-mishandling-complaints-from-leaseholders-lumped-with-2500-heating-bills/)
 
 [![The Great Boat Race is on September 21 (Thames Festival Trust)](https://southwarknews.co.uk/wp-content/uploads/2024/09/Image-22-07-2024-at-09.32-120x86.jpg)](https://southwarknews.co.uk/news/community/great-river-race-to-hit-the-thames-this-saturday-with-300-boats-to-compete/)
 
@@ -385,30 +412,6 @@ Photo by  Joe Coughlan.](https://southwarknews.co.uk/wp-content/uploads/2024/09/
 ### [Essential information for those starting secondary school next year](https://southwarknews.co.uk/news/community/essential-information-for-those-starting-secondary-school-next-year/)
 
 [20th September 2024](https://southwarknews.co.uk/news/community/essential-information-for-those-starting-secondary-school-next-year/)
-
-[![Southwark Police are appealing for Richard's whereabouts. Image: Southark Police (X)](https://southwarknews.co.uk/wp-content/uploads/2024/09/Southwark-Police-are-appealing-for-Richards-whereabouts.-Image-Southark-Police-X-120x86.png)](https://southwarknews.co.uk/area/peckham/man-missing-from-peckham-for-a-week/)
-
-### [Man missing from Peckham for a week](https://southwarknews.co.uk/area/peckham/man-missing-from-peckham-for-a-week/)
-
-[20th September 2024](https://southwarknews.co.uk/area/peckham/man-missing-from-peckham-for-a-week/)
-
-[![A stock image of a pizza. Credit: Daria Yakovleva (Creative Commons)](https://southwarknews.co.uk/wp-content/uploads/2024/09/A-stock-image-of-a-pizza.-Credit-Daria-Yakovleva-Creative-Commons-120x86.png)](https://southwarknews.co.uk/area/southwark/which-southwark-restaurants-got-top-marks-in-the-latest-food-hygiene-inspections/)
-
-### [Which Southwark restaurants got top marks in the latest food hygiene inspections?](https://southwarknews.co.uk/area/southwark/which-southwark-restaurants-got-top-marks-in-the-latest-food-hygiene-inspections/)
-
-[20th September 2024](https://southwarknews.co.uk/area/southwark/which-southwark-restaurants-got-top-marks-in-the-latest-food-hygiene-inspections/)
-
-[![Neil Clayton, a solicitor, said he used the steps twice a week and was “used to it” but had heard of colleagues tumbling down. Credit: Herbie Russell](https://southwarknews.co.uk/wp-content/uploads/2024/09/IMG_2418-1-120x86.jpeg)](https://southwarknews.co.uk/area/borough/steps-by-london-bridge-with-bizarre-slanted-design-branded-worst-in-london/)
-
-### [Steps by London Bridge with bizarre slanted design branded ‘worst in London’](https://southwarknews.co.uk/area/borough/steps-by-london-bridge-with-bizarre-slanted-design-branded-worst-in-london/)
-
-[19th September 2024](https://southwarknews.co.uk/area/borough/steps-by-london-bridge-with-bizarre-slanted-design-branded-worst-in-london/)
-
-[![The Aylesbury estate in Southwark is due to be demolished and rebuilt. CREDIT: Robert Firth](https://southwarknews.co.uk/wp-content/uploads/2024/09/281443832_1271655566700908_3428153952989453541_n-120x86.jpg)](https://southwarknews.co.uk/area/walworth/social-housing-on-regenerated-ayslesbury-estate-more-expensive-than-normal-council-housing-report-claims/)
-
-### [Social housing on regenerated Ayslesbury Estate ‘more expensive’ than normal council housing, report claims](https://southwarknews.co.uk/area/walworth/social-housing-on-regenerated-ayslesbury-estate-more-expensive-than-normal-council-housing-report-claims/)
-
-[19th September 2024](https://southwarknews.co.uk/area/walworth/social-housing-on-regenerated-ayslesbury-estate-more-expensive-than-normal-council-housing-report-claims/)
 
 ### USEFUL PAGES
 
