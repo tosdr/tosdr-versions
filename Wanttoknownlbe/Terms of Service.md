@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/inspiratie/gastcolumns/2012-is-toch-eigenlijk-2009/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/hoofdartikelen/merk-jij-ook-invloed-van-de-hogere-resonanties/ "Feeling Lucky? »")
 
 Algemene voorwaarden WantToKnow aanbiedingen
 ============================================
