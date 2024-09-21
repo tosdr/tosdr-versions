@@ -18,31 +18,31 @@
 
 [Leia tudo sobre Maceió](https://www.tnh1.com.br/noticias/editoria/maceio/ "Ir para Maceió")
 
-   [![Veja a programação do último dia do Festival Massayó Gospel](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/e/b/csm_20-09-24_-_Massayo_Gospel_-_dia_2_-_Jaragua_-_FMAC_-_Foto_Alisson_Frazao-33_e388bc0369.jpg)
+   [![Conferência discute criação de política de proteção à comunidade LGBTQIA+](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/f/1/csm_conferencia_lgbt_4b91baddf2.jpeg)
 
 Maceió
 
-Veja a programação do último dia do Festival Massayó Gospel](https://www.tnh1.com.br/noticia/nid/veja-a-programacao-do-ultimo-dia-do-festival-massayo-gospel/ "Veja a programação do último dia do Festival Massayó Gospel")   [![“Aberração” e “macaca”: candidata a vereadora denuncia ameaças de estupro e morte à PF](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/c/b/csm_candidata_vitima_que_sofreu_ataques_423205c66a.jpg)
+Conferência discute criação de política de proteção à comunidade LGBTQIA+](https://www.tnh1.com.br/noticia/nid/conferencia-discute-criacao-de-politica-de-protecao-a-comunidade-lgbtqia/ "Conferência discute criação de política de proteção à comunidade LGBTQIA+")   [![Veja a programação do último dia do Festival Massayó Gospel](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/e/b/csm_20-09-24_-_Massayo_Gospel_-_dia_2_-_Jaragua_-_FMAC_-_Foto_Alisson_Frazao-33_e388bc0369.jpg)
+
+Maceió
+
+Veja a programação do último dia do Festival Massayó Gospel](https://www.tnh1.com.br/noticia/nid/veja-a-programacao-do-ultimo-dia-do-festival-massayo-gospel/ "Veja a programação do último dia do Festival Massayó Gospel")   [![“Aberração” e “macaca”: candidata a vereadora denuncia ameaças de estupro e morte à PF](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/c/b/csm_candidata_vitima_que_sofreu_ataques_423205c66a.jpg)
 
 e-mail anônimo
 
-“Aberração” e “macaca”: candidata a vereadora denuncia ameaças de estupro e morte à PF](https://www.tnh1.com.br/noticia/nid/aberracao-e-macaca-candidata-a-vereadora-denuncia-ameacas-de-estupro-e-morte-a-pf/ "“Aberração” e “macaca”: candidata a vereadora denuncia ameaças de estupro e morte à PF")   [![Novo sistema de drenagem reforça ações de estabilização da Encosta do Mutange  ](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/6/e/csm_braskem_obra_34c29c2728.jpeg)
+“Aberração” e “macaca”: candidata a vereadora denuncia ameaças de estupro e morte à PF](https://www.tnh1.com.br/noticia/nid/aberracao-e-macaca-candidata-a-vereadora-denuncia-ameacas-de-estupro-e-morte-a-pf/ "“Aberração” e “macaca”: candidata a vereadora denuncia ameaças de estupro e morte à PF")   [![Novo sistema de drenagem reforça ações de estabilização da Encosta do Mutange  ](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/6/e/csm_braskem_obra_34c29c2728.jpeg)
 
 Maceió
 
-Novo sistema de drenagem reforça ações de estabilização da Encosta do Mutange](https://www.tnh1.com.br/noticia/nid/novo-sistema-de-drenagem-reforca-acoes-de-estabilizacao-da-encosta-do-mutange/ "Novo sistema de drenagem reforça ações de estabilização da Encosta do Mutange  ")   [![Fiscalização apreende mais de três toneladas de alimentos estragados no Cleto Marques Luz](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/5/9/csm_Fiscalizacao_apreende_mais_de_tres_toneladas_de_alimentos_estragados_no_Cleto_Marques_Luz_-_foto_Divulgacao_Vigilancia_Sanitaria_d432090cdb.jpeg)
+Novo sistema de drenagem reforça ações de estabilização da Encosta do Mutange](https://www.tnh1.com.br/noticia/nid/novo-sistema-de-drenagem-reforca-acoes-de-estabilizacao-da-encosta-do-mutange/ "Novo sistema de drenagem reforça ações de estabilização da Encosta do Mutange  ")   [![Fiscalização apreende mais de três toneladas de alimentos estragados no Cleto Marques Luz](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/5/9/csm_Fiscalizacao_apreende_mais_de_tres_toneladas_de_alimentos_estragados_no_Cleto_Marques_Luz_-_foto_Divulgacao_Vigilancia_Sanitaria_d432090cdb.jpeg)
 
 açougue e frigorífico
 
-Fiscalização apreende mais de três toneladas de alimentos estragados no Cleto Marques Luz](https://www.tnh1.com.br/noticia/nid/fiscalizacao-apreende-mais-de-tres-toneladas-de-alimentos-estragados-no-cleto-marques-luz/ "Fiscalização apreende mais de três toneladas de alimentos estragados no Cleto Marques Luz")   [![Empresa tem 15 dias para prestar explicações sobre morte de trabalhador na Ponte Divaldo Suruagy](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/8/3/csm_eraldo_ponte_d5803d3831.png)
+Fiscalização apreende mais de três toneladas de alimentos estragados no Cleto Marques Luz](https://www.tnh1.com.br/noticia/nid/fiscalizacao-apreende-mais-de-tres-toneladas-de-alimentos-estragados-no-cleto-marques-luz/ "Fiscalização apreende mais de três toneladas de alimentos estragados no Cleto Marques Luz")   [![Empresa tem 15 dias para prestar explicações sobre morte de trabalhador na Ponte Divaldo Suruagy](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/8/3/csm_eraldo_ponte_d5803d3831.png)
 
 caiu da ponte
 
-Empresa tem 15 dias para prestar explicações sobre morte de trabalhador na Ponte Divaldo Suruagy](https://www.tnh1.com.br/noticia/nid/empresa-tem-15-dias-para-prestar-explicacoes-sobre-morte-de-trabalhador-na-ponte-divaldo-suruagy/ "Empresa tem 15 dias para prestar explicações sobre morte de trabalhador na Ponte Divaldo Suruagy")   [![Outlet da beleza 'Maceió Beauty Hair' vai agitar mercado em Alagoas](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/0/b/csm_MACEIO_BEAUTY_HAIR_b5689dca6a.jpeg)
-
-6 a 8 de Outubro
-
-Outlet da beleza 'Maceió Beauty Hair' vai agitar mercado em Alagoas](https://www.tnh1.com.br/noticia/nid/outlet-da-beleza-maceio-beauty-hair-vai-agitar-mercado-em-alagoas/ "Outlet da beleza 'Maceió Beauty Hair' vai agitar mercado em Alagoas")
+Empresa tem 15 dias para prestar explicações sobre morte de trabalhador na Ponte Divaldo Suruagy](https://www.tnh1.com.br/noticia/nid/empresa-tem-15-dias-para-prestar-explicacoes-sobre-morte-de-trabalhador-na-ponte-divaldo-suruagy/ "Empresa tem 15 dias para prestar explicações sobre morte de trabalhador na Ponte Divaldo Suruagy")
 
 [Alagoas](https://www.tnh1.com.br/noticias/editoria/alagoas/ "Alagoas")
 
@@ -82,31 +82,31 @@ Polícia Científica procura familiares de homem que vivia em situação de rua 
 
 [Leia tudo sobre Polícia](https://www.tnh1.com.br/noticias/editoria/policia/ "Ir para Polícia")
 
-   [![Jovem de 22 anos é preso após atirar contra policiais militares em Arapiraca](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/b/2/csm_Jovem_Preso_Disparos_b6fedd1c0f.jpg)
+   [![Mulher assassinada é queimada e tem corpo encontrado ainda em chamas por familiares ](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/f/5/csm_mulher_canapi_0f1a805140.jpeg)
+
+em inhapi
+
+Mulher assassinada é queimada e tem corpo encontrado ainda em chamas por familiares](https://www.tnh1.com.br/noticia/nid/mulher-assassinada-e-queimada-e-tem-corpo-encontrado-ainda-em-chamas-por-familiares/ "Mulher assassinada é queimada e tem corpo encontrado ainda em chamas por familiares ")   [![Mais de 25 mil pés de maconha são apreendidos no interior de Alagoas após denúncia anônima](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/c/c/csm_maconha_canapi_185f504b04.jpeg)
+
+geneticamente modificada
+
+Mais de 25 mil pés de maconha são apreendidos no interior de Alagoas após denúncia anônima](https://www.tnh1.com.br/noticia/nid/mais-de-25-mil-pes-de-maconha-sao-apreendidos-no-interior-de-alagoas-apos-denuncia-anonima/ "Mais de 25 mil pés de maconha são apreendidos no interior de Alagoas após denúncia anônima")   [![Jovem de 22 anos é preso após atirar contra policiais militares em Arapiraca](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/b/2/csm_Jovem_Preso_Disparos_b6fedd1c0f.jpg)
 
 Interior
 
-Jovem de 22 anos é preso após atirar contra policiais militares em Arapiraca](https://www.tnh1.com.br/noticia/nid/jovem-de-22-anos-e-preso-apos-atirar-contra-policiais-militares-em-arapiraca/ "Jovem de 22 anos é preso após atirar contra policiais militares em Arapiraca")   [![Mulher é presa após se recusar a baixar volume do som e ameaçar policiais](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/9/8/csm_programa-na-base-do-sossego-apreende-sete-equipamentos-sonoros-em-operacoes-na-capital_f28378b278.jpeg)
+Jovem de 22 anos é preso após atirar contra policiais militares em Arapiraca](https://www.tnh1.com.br/noticia/nid/jovem-de-22-anos-e-preso-apos-atirar-contra-policiais-militares-em-arapiraca/ "Jovem de 22 anos é preso após atirar contra policiais militares em Arapiraca")   [![Mulher é presa após se recusar a baixar volume do som e ameaçar policiais](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/9/8/csm_programa-na-base-do-sossego-apreende-sete-equipamentos-sonoros-em-operacoes-na-capital_f28378b278.jpeg)
 
 Jacintinho
 
-Mulher é presa após se recusar a baixar volume do som e ameaçar policiais](https://www.tnh1.com.br/noticia/nid/mulher-e-presa-apos-se-recusar-a-baixar-volume-do-som-e-ameacar-policiais/ "Mulher é presa após se recusar a baixar volume do som e ameaçar policiais")   [![Homem é preso após matar o próprio cão a pauladas e ameaçar policiais de morte, no Jacintinho](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/5/a/csm_viatura_forca_tarefa_arquivo_ecc0a38459.jpg)
+Mulher é presa após se recusar a baixar volume do som e ameaçar policiais](https://www.tnh1.com.br/noticia/nid/mulher-e-presa-apos-se-recusar-a-baixar-volume-do-som-e-ameacar-policiais/ "Mulher é presa após se recusar a baixar volume do som e ameaçar policiais")   [![Homem é preso após matar o próprio cão a pauladas e ameaçar policiais de morte, no Jacintinho](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/5/a/csm_viatura_forca_tarefa_arquivo_ecc0a38459.jpg)
 
 Polícia
 
-Homem é preso após matar o próprio cão a pauladas e ameaçar policiais de morte, no Jacintinho](https://www.tnh1.com.br/noticia/nid/homem-e-preso-apos-matar-o-proprio-cao-a-pauladas-e-ameacar-policiais-de-morte-no-jacintinho/ "Homem é preso após matar o próprio cão a pauladas e ameaçar policiais de morte, no Jacintinho")   [![Dupla é presa após flagrante de pedras de crack, revólveres e R$ 11,5 mil, no Sertão de Alagoas](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/5/4/csm_apreensao_santana_do_ipanema_-_foto_cortesia_0c5f99c331.jpeg)
+Homem é preso após matar o próprio cão a pauladas e ameaçar policiais de morte, no Jacintinho](https://www.tnh1.com.br/noticia/nid/homem-e-preso-apos-matar-o-proprio-cao-a-pauladas-e-ameacar-policiais-de-morte-no-jacintinho/ "Homem é preso após matar o próprio cão a pauladas e ameaçar policiais de morte, no Jacintinho")   [![Dupla é presa após flagrante de pedras de crack, revólveres e R$ 11,5 mil, no Sertão de Alagoas](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/5/4/csm_apreensao_santana_do_ipanema_-_foto_cortesia_0c5f99c331.jpeg)
 
 comparsas de crimes
 
-Dupla é presa após flagrante de pedras de crack, revólveres e R$ 11,5 mil, no Sertão de Alagoas](https://www.tnh1.com.br/noticia/nid/dupla-e-presa-apos-flagrante-de-pedras-de-crack-revolveres-e-r-115-mil-no-sertao-de-alagoas/ "Dupla é presa após flagrante de pedras de crack, revólveres e R$ 11,5 mil, no Sertão de Alagoas")   [![Acusado de matar vizinho por ciúmes em Pernambuco é preso após se esconder em Alagoas](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/3/f/csm_prisao_cha_preta_-_foto_ascom_pc_dcff7debf8.jpeg)
-
-Foragido
-
-Acusado de matar vizinho por ciúmes em Pernambuco é preso após se esconder em Alagoas](https://www.tnh1.com.br/noticia/nid/acusado-de-matar-vizinho-por-ciumes-em-pernambuco-e-preso-apos-se-esconder-em-alagoas/ "Acusado de matar vizinho por ciúmes em Pernambuco é preso após se esconder em Alagoas")   [![Dupla em moto rende frentistas e leva mais de R$ 600 em posto no interior de Alagoas](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/5/a/csm_Central_de_Policia_de_Arapiraca_fb9d405eee.jpg)
-
-Em Arapiraca
-
-Dupla em moto rende frentistas e leva mais de R$ 600 em posto no interior de Alagoas](https://www.tnh1.com.br/noticia/nid/dupla-em-moto-rende-frentistas-e-leva-mais-de-r-600-em-posto-no-interior-de-alagoas/ "Dupla em moto rende frentistas e leva mais de R$ 600 em posto no interior de Alagoas")
+Dupla é presa após flagrante de pedras de crack, revólveres e R$ 11,5 mil, no Sertão de Alagoas](https://www.tnh1.com.br/noticia/nid/dupla-e-presa-apos-flagrante-de-pedras-de-crack-revolveres-e-r-115-mil-no-sertao-de-alagoas/ "Dupla é presa após flagrante de pedras de crack, revólveres e R$ 11,5 mil, no Sertão de Alagoas")
 
 [Blogs](https://www.tnh1.com.br/blogs/ "Blogs")
 
@@ -222,49 +222,49 @@ Governo publica procedimentos para pagamento do rateio do Fundef em Alagoas; con
 
 Torcedores do CRB vão ao CT cobrar jogadores e diretoria: "Moleza da p..."
 
-Torcedores do CRB vão ao CT cobrar jogadores e diretoria: "Moleza da p..."](https://www.tnh1.com.br/noticia/nid/torcedores-do-crb-vao-ao-ct-cobrar-jogadores-e-diretoria-moleza-da-p/ "Torcedores do CRB vão ao CT cobrar jogadores e diretoria: "Moleza da p..."")[![Triplo homicídio: adolescentes foram executados com mais de 30 tiros em Rio Largo](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/2/d/csm_Triplo_homicidio_Rio_Largo_-_foto_Reproducao_cc6c5ca92d.jpg)
+Torcedores do CRB vão ao CT cobrar jogadores e diretoria: "Moleza da p..."](https://www.tnh1.com.br/noticia/nid/torcedores-do-crb-vao-ao-ct-cobrar-jogadores-e-diretoria-moleza-da-p/ "Torcedores do CRB vão ao CT cobrar jogadores e diretoria: "Moleza da p..."")[![Homem mata namorada com espada e invade loja para também matar a ex](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/a/e/csm_Homem_mata_namorada_com_espada_e_invade_loja_para_tambem_matar_a_ex_em_GO_-_foto_Reproducao_PCGO_8a86adc7b8.jpeg)
 
-Tinham 16 e 17 anos
+após discussão
 
-Tinham 16 e 17 anos
+após discussão
 
-Triplo homicídio: adolescentes foram executados com mais de 30 tiros em Rio Largo
+Homem mata namorada com espada e invade loja para também matar a ex
 
-Triplo homicídio: adolescentes foram executados com mais de 30 tiros em Rio Largo](https://www.tnh1.com.br/noticia/nid/triplo-homicidio-adolescentes-foram-executados-com-mais-de-30-tiros-em-rio-largo/ "Triplo homicídio: adolescentes foram executados com mais de 30 tiros em Rio Largo")
+Homem mata namorada com espada e invade loja para também matar a ex](https://www.tnh1.com.br/noticia/nid/homem-mata-namorada-com-espada-e-invade-loja-para-tambem-matar-a-ex/ "Homem mata namorada com espada e invade loja para também matar a ex")
 
-[![UFF se torna 1ª universidade federal do Rio a criar cotas para trans](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/e/5/csm_UFF_Rio-_UFF_afe57c70dd.jpg)
-
-Educação
-
-Educação
-
-UFF se torna 1ª universidade federal do Rio a criar cotas para trans
-
-UFF se torna 1ª universidade federal do Rio a criar cotas para trans](https://www.tnh1.com.br/noticia/nid/uff-se-torna-1a-universidade-federal-do-rio-a-criar-cotas-para-trans/ "UFF se torna 1ª universidade federal do Rio a criar cotas para trans")[![Acidente grave com BRT deixa mais de 60 feridos no Rio de Janeiro](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/0/5/csm_Acidente_BRT_Rio_9a0da66ade.jpg)
+[![Ônibus com time de futebol americano tomba e deixa 3 mortos no Rio de Janeiro](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/d/4/csm_mortos_time_21b4771e77.png)
 
 Brasil
 
 Brasil
 
-Acidente grave com BRT deixa mais de 60 feridos no Rio de Janeiro
+Ônibus com time de futebol americano tomba e deixa 3 mortos no Rio de Janeiro
 
-Acidente grave com BRT deixa mais de 60 feridos no Rio de Janeiro](https://www.tnh1.com.br/noticia/nid/acidente-grave-com-brt-deixa-mais-de-60-feridos-no-rio-de-janeiro/ "Acidente grave com BRT deixa mais de 60 feridos no Rio de Janeiro")[![Veja a programação do último dia do Festival Massayó Gospel](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/e/b/csm_20-09-24_-_Massayo_Gospel_-_dia_2_-_Jaragua_-_FMAC_-_Foto_Alisson_Frazao-33_bf17bf1b2e.jpg)
+Ônibus com time de futebol americano tomba e deixa 3 mortos no Rio de Janeiro](https://www.tnh1.com.br/noticia/nid/onibus-com-time-de-futebol-americano-tomba-e-deixa-3-mortos-no-rio-de-janeiro/ "Ônibus com time de futebol americano tomba e deixa 3 mortos no Rio de Janeiro")[![Mulher assassinada é queimada e tem corpo encontrado ainda em chamas por familiares ](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/f/5/csm_mulher_canapi_060297b5c6.jpeg)
 
-Maceió
+em inhapi
 
-Maceió
+em inhapi
 
-Veja a programação do último dia do Festival Massayó Gospel
+Mulher assassinada é queimada e tem corpo encontrado ainda em chamas por familiares
 
-Veja a programação do último dia do Festival Massayó Gospel](https://www.tnh1.com.br/noticia/nid/veja-a-programacao-do-ultimo-dia-do-festival-massayo-gospel/ "Veja a programação do último dia do Festival Massayó Gospel")[![Colisão entre carro e carreta deixa quatro mortos e três feridos na BR-312, em Delmiro Gouveia](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/c/9/csm_Acidente_carreta_e29220f661.jpg)
+Mulher assassinada é queimada e tem corpo encontrado ainda em chamas por familiares](https://www.tnh1.com.br/noticia/nid/mulher-assassinada-e-queimada-e-tem-corpo-encontrado-ainda-em-chamas-por-familiares/ "Mulher assassinada é queimada e tem corpo encontrado ainda em chamas por familiares ")[![Idosa morre em acidente com caminhão desgovernado no Distrito Federal](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/e/5/csm_acidente_caminhao_4127bf8dd4.png)
 
-Interior
+Brasil
 
-Interior
+Brasil
 
-Colisão entre carro e carreta deixa quatro mortos e três feridos na BR-312, em Delmiro Gouveia
+Idosa morre em acidente com caminhão desgovernado no Distrito Federal
 
-Colisão entre carro e carreta deixa quatro mortos e três feridos na BR-312, em Delmiro Gouveia](https://www.tnh1.com.br/noticia/nid/colisao-entre-carro-e-carreta-deixa-quatro-mortos-e-tres-feridos-na-br-312-em-delmiro-gouveia/ "Colisão entre carro e carreta deixa quatro mortos e três feridos na BR-312, em Delmiro Gouveia")
+Idosa morre em acidente com caminhão desgovernado no Distrito Federal](https://www.tnh1.com.br/noticia/nid/idosa-morre-em-acidente-com-caminhao-desgovernado-no-distrito-federal/ "Idosa morre em acidente com caminhão desgovernado no Distrito Federal")[![Fortaleza x Bahia: quem fez mais dinheiro com a negociação de atletas na década?](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/f/c/csm_unnamed_099967bf80.jpg)
+
+Futebol
+
+Futebol
+
+Fortaleza x Bahia: quem fez mais dinheiro com a negociação de atletas na década?
+
+Fortaleza x Bahia: quem fez mais dinheiro com a negociação de atletas na década?](https://www.tnh1.com.br/noticia/nid/fortaleza-x-bahia-quem-fez-mais-dinheiro-com-a-negociacao-de-atletas-na-decada/ "Fortaleza x Bahia: quem fez mais dinheiro com a negociação de atletas na década?")
 
 [](https://www.tnh1.com.br/ "TNH1 logo")
 
