@@ -1,5 +1,7 @@
 error: no ad slot id exists: undefined
 
+[Breaking: Mother of Apalachee shooting suspect indicted on elder abuse charges](https://www.ajc.com/news/atlanta-news/mother-of-apalachee-shooting-suspect-indicted-on-elder-abuse-charges/UQ66G57ROBHMNJJRTOYIWQ6QD4/)
+
 [![ajc logo](/pf/resources/logos/AJC/logo-full-redesign.svg?d=1692)![ajc logo](/pf/resources/logos/AJC/logo-short.svg?d=1692)](https://www.ajc.com/)
 
 Log In
