@@ -135,12 +135,12 @@ Just in
 
 * [The growth of Australia's flexible office in 2024](https://independentaustralia.net/article-display/the-growth-of-australias-flexible-office-in-2024,18626 "Permanent Link : The growth of Australia's flexible office in 2024")
 * [Donald Trump and the voters of America](https://independentaustralia.net/article-display/donald-trump-and-the-voters-of-america,18993 "Permanent Link : Donald Trump and the voters of America")
+* [Conservatives resort to bullying teenager over protest cosplay](https://independentaustralia.net/article-display/conservatives-resort-to-bullying-teenager-over-protest-cosplay,18996 "Permanent Link : Conservatives resort to bullying teenager over protest cosplay")
 * [The Bunnings rave, the unfaithful Dave and Ticketmaster misbehaves](https://independentaustralia.net/article-display/the-bunnings-rave-the-unfaithful-dave-and-ticketmaster-misbehaves,18995 "Permanent Link : The Bunnings rave, the unfaithful Dave and Ticketmaster misbehaves")
 * [CARTOONS: Trump wants running mate to date less — hate more](https://independentaustralia.net/article-display/cartoons-trump-wants-running-mate-to-date-less-hate-more,18978 "Permanent Link : CARTOONS: Trump wants running mate to date less — hate more")
 * [A more effective Australian electoral system is long overdue](https://independentaustralia.net/article-display/a-more-effective-australian-electoral-system-is-long-overdue,18994 "Permanent Link : A more effective Australian electoral system is long overdue")
 * [Despite two banning orders, Grubisa is relentless](https://independentaustralia.net/article-display/despite-two-banning-orders-grubisa-is-relentless,18989 "Permanent Link : Despite two banning orders, Grubisa is relentless")
 * [Under cloud of secrecy, U.S. weaponises Western Australia](https://independentaustralia.net/article-display/under-cloud-of-secrecy-us-weaponises-western-australia,18991 "Permanent Link : Under cloud of secrecy, U.S. weaponises Western Australia")
-* [EDITORIAL: Donald Trump and the voters of America](https://independentaustralia.net/article-display/editorial-donald-trump-and-the-voters-of-america,18992 "Permanent Link : EDITORIAL: Donald Trump and the voters of America")
 
 [![](https://independent-australia.myshopify.com/cdn/shop/files/2024MagCover1_aff90a98-8997-4ca5-8e59-d49c1b50ea32_large.jpg?v=1698989656)](https://independent-australia.myshopify.com/collections/magazines-and-newspapers/products/copy-of-2024-ia-print-magazine-subscriber-advance-order-discounted-price-1)
 
