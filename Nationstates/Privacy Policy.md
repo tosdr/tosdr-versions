@@ -34,11 +34,11 @@ Login Stay logged in
 
 Latest Forum Topics
 
-* [Give AN A Nickname! (899)](https://forum.nationstates.net/viewtopic.php?t=553555&f=25&view=unread#unread ""Give AN A Nickname!" (899 posts)")
-* [Why Croatians hate Yugoslavia? (10)](https://forum.nationstates.net/viewtopic.php?t=555579&f=20&view=unread#unread ""Why Croatians hate Yugoslavia?" (10 posts)")
-* [Commend or Condemn AN II (672)](https://forum.nationstates.net/viewtopic.php?t=553545&f=25&view=unread#unread ""Commend or Condemn AN II" (672 posts)")
-* [Would you invite AU to your birthday… (128)](https://forum.nationstates.net/viewtopic.php?t=554799&f=25&view=unread#unread ""Would you invite AU to your birthday party!" (128 posts)")
-* [Solar Spring \[IC, App\] (9)](https://forum.nationstates.net/viewtopic.php?t=554743&f=5&view=unread#unread ""Solar Spring [IC, App]" (9 posts)")
+* [What book are you reading? (10,219)](https://forum.nationstates.net/viewtopic.php?t=92530&f=19&view=unread#unread ""What book are you reading?" (10,219 posts)")
+* [MCU/Superhero Discussion Thread (8,382)](https://forum.nationstates.net/viewtopic.php?t=410049&f=19&view=unread#unread ""MCU/Superhero Discussion Thread" (8,382 posts)")
+* [i am doing an emerging region. (4)](https://forum.nationstates.net/viewtopic.php?t=555594&f=4&view=unread#unread ""i am doing an emerging region." (4 posts)")
+* [What MBTI do you think is AN (3)](https://forum.nationstates.net/viewtopic.php?t=555595&f=25&view=unread#unread ""What MBTI do you think is AN" (3 posts)")
+* [Can't join WA - I think? (3)](https://forum.nationstates.net/viewtopic.php?t=555516&f=15&view=unread#unread ""Can't join WA - I think?" (3 posts)")
 
 Advertisement
 
