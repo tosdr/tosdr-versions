@@ -14,19 +14,19 @@ Recommendations
 
 Audio
 
-* [![How To Read More in 2024](https://assets.penguinrandomhouse.com/wp-content/uploads/2024/02/26151938/ReadMore_1200x628_600x314-nav.jpg)
+* [![New Stories to Listen to](https://assets.penguinrandomhouse.com/wp-content/uploads/2024/08/28121215/PRH_New-Audio_site_1200x626_Sept2024.jpg)
     
-    How To Read More in 2024
+    New Stories to Listen to
     
-    Learn More >](https://www.penguinrandomhouse.com/articles/how-to-read-more/)
+    Learn More >](https://www.penguinrandomhouse.com/the-read-down/new-in-audio/)
 
 * * *
 
-* [![Books Bans Are on the Rise in America](https://assets.penguinrandomhouse.com/wp-content/uploads/2024/02/05171820/Let-Kids-Read_600x314-nav.jpg)
+* [![Books To Read if You Love <i>Gilmore Girls</i>](https://assets.penguinrandomhouse.com/wp-content/uploads/2024/08/22142347/PRH_Site_1200x628_Gilmore.jpg)
     
-    Books Bans Are on the Rise in America
+    Books To Read if You Love _Gilmore Girls_
     
-    Learn More >](https://www.penguinrandomhouse.com/banned-books/)
+    Read More >](https://www.penguinrandomhouse.com/the-read-down/books-like-gilmore-girls/)
 
 * * *
 
