@@ -43,8 +43,8 @@ Menu [![VORO MOTORS](//www.voromotors.com/cdn/shop/files/logo_white_410x.png?v=1
 * [Electric Bikes](https://www.voromotors.com/collections/electric-bikes)
     * [E Ride Pro](https://www.voromotors.com/collections/e-ride-electric-bikes)
         * [E Ride Pro-SS 19"(New!)](https://www.voromotors.com/products/e-ride-pro-ss-19)
-    * [Altis(Coming Soon!)](https://www.voromotors.com/collections/altis-ebikes)
-        * [Altis Sigma(Coming Soon!)](https://www.voromotors.com/products/altis-sigma-best-electric-dirt-bike-98v-35ah-e-dirt-bike)
+    * [Altis(New!)](https://www.voromotors.com/collections/altis-ebikes)
+        * [Altis Sigma(New!)](https://www.voromotors.com/products/altis-sigma-best-electric-dirt-bike-98v-35ah-e-dirt-bike)
 * [Accessories](https://www.voromotors.com/collections/electric-scooter-parts-and-accessories/accessories)
     * [EMOVE](https://www.voromotors.com/collections/emove-accessories-and-parts/accessories)
         * [Cruiser](https://www.voromotors.com/collections/electric-scooter-parts-and-accessories/emove-cruiser+accessories)
@@ -237,9 +237,9 @@ Continue Shopping
 
 * [E Ride Pro-SS 19"(New!)](https://www.voromotors.com/products/e-ride-pro-ss-19)
 
-* [Altis(Coming Soon!)](https://www.voromotors.com/collections/altis-ebikes)
+* [Altis(New!)](https://www.voromotors.com/collections/altis-ebikes)
 
-* [Altis Sigma(Coming Soon!)](https://www.voromotors.com/products/altis-sigma-best-electric-dirt-bike-98v-35ah-e-dirt-bike)
+* [Altis Sigma(New!)](https://www.voromotors.com/products/altis-sigma-best-electric-dirt-bike-98v-35ah-e-dirt-bike)
 
 * [EMOVE](https://www.voromotors.com/collections/emove-accessories-and-parts/accessories)
 
