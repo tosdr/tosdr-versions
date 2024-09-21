@@ -16,20 +16,20 @@
 * [Switch skin](# "Switch skin")
 * [Search for](#)
 
-Friday, September 20 2024
+Saturday, September 21 2024
 
 Latest
 
-* [Vendor Spotlight: Faddom](https://digitpatrox.com/vendor-spotlight-faddom/)
-* [Google says UK needs policy step change to embrace its AI potential](https://digitpatrox.com/google-says-uk-needs-policy-step-change-to-embrace-its-ai-potential/)
-* [Disney to ditch Slack after security breach, will move to Microsoft Teams – Computerworld](https://digitpatrox.com/disney-to-ditch-slack-after-security-breach-will-move-to-microsoft-teams-computerworld/)
-* [Red Flags to Look For When Buying a Used Car](https://digitpatrox.com/red-flags-to-look-for-when-buying-a-used-car/)
-* [Ransomware attack on cancer diagnostic lab compromises SSNs and medical info](https://digitpatrox.com/ransomware-attack-on-cancer-diagnostic-lab-compromises-ssns-and-medical-info/)
-* [Windows App doesn’t replace the Remote Desktop app for Windows PCs, only for Apple and Android users](https://digitpatrox.com/windows-app-doesnt-replace-the-remote-desktop-app-for-windows-pcs-only-for-apple-and-android-users/)
-* [Best Exterior Paints of 2024](https://digitpatrox.com/best-exterior-paints-of-2024/)
-* [8 Google Home Features You Need to Try](https://digitpatrox.com/8-google-home-features-you-need-to-try/)
-* [High wire acts, Microsoft Clippy, and DIY AI at Dreamforce 2024](https://digitpatrox.com/high-wire-acts-microsoft-clippy-and-diy-ai-at-dreamforce-2024/)
-* [5 Best Android Credit Card Readers (Recommended By Experts)](https://digitpatrox.com/5-best-android-credit-card-readers-recommended-by-experts/)
+* [Alexis Ohanian is premiering his women’s soccer show on X](https://digitpatrox.com/alexis-ohanian-is-premiering-his-womens-soccer-show-on-x/)
+* [Today’s Wordle Answer and Hints (September 21, 2024)](https://digitpatrox.com/todays-wordle-answer-and-hints-september-21-2024/)
+* [Amazon unveils AI chatbot for sellers](https://digitpatrox.com/amazon-unveils-ai-chatbot-for-sellers/)
+* [Google antitrust trial, two weeks in: What’s transpired so far](https://digitpatrox.com/google-antitrust-trial-two-weeks-in-whats-transpired-so-far/)
+* [The Best (and Worst) Types of Food to Cook for a Date](https://digitpatrox.com/the-best-and-worst-types-of-food-to-cook-for-a-date/)
+* [Windows 11 adds new feature to change Copilot key action (build 22635.4225)](https://digitpatrox.com/windows-11-adds-new-feature-to-change-copilot-key-action-build-22635-4225/)
+* [Are Tortillas Good for You?](https://digitpatrox.com/are-tortillas-good-for-you/)
+* [What Is an MVNO, and How Do They Save You Money on Cell Plans?](https://digitpatrox.com/what-is-an-mvno-and-how-do-they-save-you-money-on-cell-plans/)
+* [Who is Teresa Ribera, the incoming EU antitrust chief?](https://digitpatrox.com/who-is-teresa-ribera-the-incoming-eu-antitrust-chief/)
+* [8 Best Expense Management Software in 2024](https://digitpatrox.com/8-best-expense-management-software-in-2024/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,35 +171,35 @@ Popular Posts
     August 21, 2024
     
 
-* [![](https://cdn.comparitech.com/wp-content/uploads/2024/09/Faddom-Vendor-Spotlight.jpeg)](https://digitpatrox.com/vendor-spotlight-faddom/)
+* [![](https://cdn.vox-cdn.com/thumbor/7B8eJZYbXg4F_HkICJxQN9IS1JY=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/25535555/STK160_X_TWITTER__B.jpg)](https://digitpatrox.com/alexis-ohanian-is-premiering-his-womens-soccer-show-on-x/)
     
-    [Vendor Spotlight: Faddom](https://digitpatrox.com/vendor-spotlight-faddom/)
+    [Alexis Ohanian is premiering his women’s soccer show on X](https://digitpatrox.com/alexis-ohanian-is-premiering-his-womens-soccer-show-on-x/)
     
-    15 mins ago
+    20 mins ago
     
-* [![](https://cdn.mos.cms.futurecdn.net/sffQdfqLjSzZR2p5AfSNPG-1200-80.jpg)](https://digitpatrox.com/google-says-uk-needs-policy-step-change-to-embrace-its-ai-potential/)
+* [![](https://beebom.com/wp-content/uploads/2024/06/Todays-Wordle-Answer.jpg?w=1250&quality=75)](https://digitpatrox.com/todays-wordle-answer-and-hints-september-21-2024/)
     
-    [Google says UK needs policy step change to embrace its AI potential](https://digitpatrox.com/google-says-uk-needs-policy-step-change-to-embrace-its-ai-potential/)
+    [Today’s Wordle Answer and Hints (September 21, 2024)](https://digitpatrox.com/todays-wordle-answer-and-hints-september-21-2024/)
     
-    34 mins ago
+    22 mins ago
     
-* [![](https://www.computerworld.com/wp-content/uploads/2024/09/3535458-0-12994900-1726847270-shutterstock_editorial_1455626558.jpg?quality=50&strip=all&w=1024)](https://digitpatrox.com/disney-to-ditch-slack-after-security-breach-will-move-to-microsoft-teams-computerworld/)
+* [![](https://cdn.mos.cms.futurecdn.net/MAoMUdSEJWrSC4PmmoMQ7L-1200-80.jpg)](https://digitpatrox.com/amazon-unveils-ai-chatbot-for-sellers/)
     
-    [Disney to ditch Slack after security breach, will move to Microsoft Teams – Computerworld](https://digitpatrox.com/disney-to-ditch-slack-after-security-breach-will-move-to-microsoft-teams-computerworld/)
-    
-    57 mins ago
-    
-* [![](https://lifehacker.com/imagery/articles/01J87VYN1N2Q1BVC749JHF3W76/hero-image.fill.size_1200x675.jpg)](https://digitpatrox.com/red-flags-to-look-for-when-buying-a-used-car/)
-    
-    [Red Flags to Look For When Buying a Used Car](https://digitpatrox.com/red-flags-to-look-for-when-buying-a-used-car/)
-    
-    1 hour ago
-    
-* [![](https://cdn.comparitech.com/wp-content/uploads/2024/09/siparadigm-ransomware.jpg)](https://digitpatrox.com/ransomware-attack-on-cancer-diagnostic-lab-compromises-ssns-and-medical-info/)
-    
-    [Ransomware attack on cancer diagnostic lab compromises SSNs and medical info](https://digitpatrox.com/ransomware-attack-on-cancer-diagnostic-lab-compromises-ssns-and-medical-info/)
+    [Amazon unveils AI chatbot for sellers](https://digitpatrox.com/amazon-unveils-ai-chatbot-for-sellers/)
     
     2 hours ago
+    
+* [![](https://www.computerworld.com/wp-content/uploads/2024/09/3535604-0-44949800-1726865577-shutterstock_1875389428.jpg?quality=50&strip=all&w=1024)](https://digitpatrox.com/google-antitrust-trial-two-weeks-in-whats-transpired-so-far/)
+    
+    [Google antitrust trial, two weeks in: What’s transpired so far](https://digitpatrox.com/google-antitrust-trial-two-weeks-in-whats-transpired-so-far/)
+    
+    2 hours ago
+    
+* [![](https://lifehacker.com/imagery/articles/01J88G0AT44AZCTE15YVQ3YAXS/hero-image.fill.size_1200x675.jpg)](https://digitpatrox.com/the-best-and-worst-types-of-food-to-cook-for-a-date/)
+    
+    [The Best (and Worst) Types of Food to Cook for a Date](https://digitpatrox.com/the-best-and-worst-types-of-food-to-cook-for-a-date/)
+    
+    3 hours ago
     
 
 ![](https://digitpatrox.com/wp-content/uploads/2023/12/Digitpatrox-NEW-Logo-White.png)
@@ -208,48 +208,48 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [15 mins ago
+* [20 mins ago
     
-    ### Vendor Spotlight: Faddom](https://digitpatrox.com/vendor-spotlight-faddom/)
-* [34 mins ago
+    ### Alexis Ohanian is premiering his women’s soccer show on X](https://digitpatrox.com/alexis-ohanian-is-premiering-his-womens-soccer-show-on-x/)
+* [22 mins ago
     
-    ### Google says UK needs policy step change to embrace its AI potential](https://digitpatrox.com/google-says-uk-needs-policy-step-change-to-embrace-its-ai-potential/)
-* [57 mins ago
+    ### Today’s Wordle Answer and Hints (September 21, 2024)](https://digitpatrox.com/todays-wordle-answer-and-hints-september-21-2024/)
+* [2 hours ago
     
-    ### Disney to ditch Slack after security breach, will move to Microsoft Teams – Computerworld](https://digitpatrox.com/disney-to-ditch-slack-after-security-breach-will-move-to-microsoft-teams-computerworld/)
+    ### Amazon unveils AI chatbot for sellers](https://digitpatrox.com/amazon-unveils-ai-chatbot-for-sellers/)
 
 Most Popular Topics
 
-* [4 weeks ago
-    
-    ### Patelco notifies 726,000 customers of ransomware data breach](https://digitpatrox.com/patelco-notifies-726000-customers-of-ransomware-data-breach/)
-* [August 19, 2024
-    
-    ### The Navimow i110N robot lawn mower might just replace your landscapers](https://digitpatrox.com/the-navimow-i110n-robot-lawn-mower-might-just-replace-your-landscapers/)
 * [3 weeks ago
     
-    ### What is an adjustable smart bed and should you buy one in the Labor Day sales?](https://digitpatrox.com/what-is-an-adjustable-smart-bed-and-should-you-buy-one-in-the-labor-day-sales/)
+    ### Workers are using generative AI tools on the sly, and it needs to stop](https://digitpatrox.com/workers-are-using-generative-ai-tools-on-the-sly-and-it-needs-to-stop/)
+* [1 week ago
+    
+    ### Apple Must Pay Back €13 Billion in Unpaid Taxes to Ireland, E.U. Court Rules](https://digitpatrox.com/apple-must-pay-back-e13-billion-in-unpaid-taxes-to-ireland-e-u-court-rules/)
+* [3 weeks ago
+    
+    ### Wordle Answer for Today, August 28, 2024](https://digitpatrox.com/wordle-answer-for-today-august-28-2024/)
 
 Last Modified Topics
 
-* [2 hours ago
-    
-    ### Best Exterior Paints of 2024](https://digitpatrox.com/best-exterior-paints-of-2024/)
-* [2 hours ago
-    
-    ### 8 Google Home Features You Need to Try](https://digitpatrox.com/8-google-home-features-you-need-to-try/)
 * [3 hours ago
     
-    ### High wire acts, Microsoft Clippy, and DIY AI at Dreamforce 2024](https://digitpatrox.com/high-wire-acts-microsoft-clippy-and-diy-ai-at-dreamforce-2024/)
+    ### Are Tortillas Good for You?](https://digitpatrox.com/are-tortillas-good-for-you/)
+* [3 hours ago
+    
+    ### What Is an MVNO, and How Do They Save You Money on Cell Plans?](https://digitpatrox.com/what-is-an-mvno-and-how-do-they-save-you-money-on-cell-plans/)
+* [4 hours ago
+    
+    ### Who is Teresa Ribera, the incoming EU antitrust chief?](https://digitpatrox.com/who-is-teresa-ribera-the-incoming-eu-antitrust-chief/)
 
 Most Viewed Topics
 
-* [August 21, 2024
-    
-    ### Wordle Answer for Today, August 21, 2024](https://digitpatrox.com/wordle-answer-for-today-august-21-2024/)
 * [August 12, 2024
     
     ### How to enable Do Not Track on your web browser for Windows](https://digitpatrox.com/how-to-enable-do-not-track-on-your-web-browser-for-windows/)
+* [August 13, 2024
+    
+    ### Best New-Car Deals – Consumer Reports](https://digitpatrox.com/best-new-car-deals-consumer-reports/)
 * [3 weeks ago
     
     ### Getting Your iPhone Repaired Could Ban You From Snapchat](https://digitpatrox.com/getting-your-iphone-repaired-could-ban-you-from-snapchat/)
