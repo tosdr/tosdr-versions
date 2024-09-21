@@ -379,7 +379,7 @@ I wanted to take my Indian-bought and registered Royal Enfield Himalayan motorcy
 Posts navigation
 ----------------
 
-← Newer Posts1 [2](https://blog.karlrock.com/page/2/?fbclid=IwAR0GxjDupRXn2jfVdkTUh8dAoLGcXH5jk383PHSeUhHXmQslVQvNMkFCK0c) … [24](https://blog.karlrock.com/page/24/?fbclid=IwAR0GxjDupRXn2jfVdkTUh8dAoLGcXH5jk383PHSeUhHXmQslVQvNMkFCK0c) [Older Posts →](https://blog.karlrock.com/page/2/?fbclid=IwAR0GxjDupRXn2jfVdkTUh8dAoLGcXH5jk383PHSeUhHXmQslVQvNMkFCK0c)
+← Newer Posts1 [2](https://blog.karlrock.com/page/2/) … [24](https://blog.karlrock.com/page/24/) [Older Posts →](https://blog.karlrock.com/page/2/)
 
 * [India Survival Guide](https://blog.karlrock.com/india-survival-guide/)
 * [How to Learn Hindi Guide](https://blog.karlrock.com/how-to-learn-hindi-faster-than-i-did/)
@@ -406,21 +406,21 @@ Top
     
     [How to Book a Train Ticket in India (For Foreigners)](https://blog.karlrock.com/how-to-book-a-train-ticket-in-india-for-foreigners/ "How to Book a Train Ticket in India (For Foreigners)")
     
-* [![How to Travel to Kartarpur Sahib via Kartarpur Corridor (Full Guide)](https://i0.wp.com/blog.karlrock.com/wp-content/uploads/2019/11/Kartarpur-Darbar-Sahib-Main-Prayer-Hall.jpg?resize=40%2C40&ssl=1)](https://blog.karlrock.com/how-to-travel-to-kartarpur-sahib-via-kartarpur-corridor/ "How to Travel to Kartarpur Sahib via Kartarpur Corridor (Full Guide)")
-    
-    [How to Travel to Kartarpur Sahib via Kartarpur Corridor (Full Guide)](https://blog.karlrock.com/how-to-travel-to-kartarpur-sahib-via-kartarpur-corridor/ "How to Travel to Kartarpur Sahib via Kartarpur Corridor (Full Guide)")
-    
 * [![The Real Locations of Shantaram](https://i0.wp.com/blog.karlrock.com/wp-content/uploads/2022/10/Shantaram-TV-show-is-filmed-in-thailand-not-india.jpg?resize=40%2C40&ssl=1)](https://blog.karlrock.com/the-real-locations-of-shantaram/ "The Real Locations of Shantaram")
     
     [The Real Locations of Shantaram](https://blog.karlrock.com/the-real-locations-of-shantaram/ "The Real Locations of Shantaram")
     
-* [![Hindi Challenges 1: Pronunciation of Dental and Retroflex Letters](https://i0.wp.com/blog.karlrock.com/wp-content/uploads/2021/07/How-to-pronounce-Hindi-Retroflex-and-Dental-Letters-Infographic-by-Karl-Rock-White.png?resize=40%2C40&ssl=1)](https://blog.karlrock.com/hindi-challenges-1-pronunciation-of-dental-and-retroflex-letters/ "Hindi Challenges 1: Pronunciation of Dental and Retroflex Letters")
+* [![How to Travel to Kartarpur Sahib via Kartarpur Corridor (Full Guide)](https://i0.wp.com/blog.karlrock.com/wp-content/uploads/2019/11/Kartarpur-Darbar-Sahib-Main-Prayer-Hall.jpg?resize=40%2C40&ssl=1)](https://blog.karlrock.com/how-to-travel-to-kartarpur-sahib-via-kartarpur-corridor/ "How to Travel to Kartarpur Sahib via Kartarpur Corridor (Full Guide)")
     
-    [Hindi Challenges 1: Pronunciation of Dental and Retroflex Letters](https://blog.karlrock.com/hindi-challenges-1-pronunciation-of-dental-and-retroflex-letters/ "Hindi Challenges 1: Pronunciation of Dental and Retroflex Letters")
+    [How to Travel to Kartarpur Sahib via Kartarpur Corridor (Full Guide)](https://blog.karlrock.com/how-to-travel-to-kartarpur-sahib-via-kartarpur-corridor/ "How to Travel to Kartarpur Sahib via Kartarpur Corridor (Full Guide)")
     
 * [![Best Videos for Learning the Urdu Alphabet](https://i0.wp.com/blog.karlrock.com/wp-content/uploads/2021/05/20210531_143932-01_copy_1280x960.jpeg?resize=40%2C40&ssl=1)](https://blog.karlrock.com/best-videos-for-learning-the-urdu-alphabet/ "Best Videos for Learning the Urdu Alphabet")
     
     [Best Videos for Learning the Urdu Alphabet](https://blog.karlrock.com/best-videos-for-learning-the-urdu-alphabet/ "Best Videos for Learning the Urdu Alphabet")
+    
+* [![Hindi Challenges 1: Pronunciation of Dental and Retroflex Letters](https://i0.wp.com/blog.karlrock.com/wp-content/uploads/2021/07/How-to-pronounce-Hindi-Retroflex-and-Dental-Letters-Infographic-by-Karl-Rock-White.png?resize=40%2C40&ssl=1)](https://blog.karlrock.com/hindi-challenges-1-pronunciation-of-dental-and-retroflex-letters/ "Hindi Challenges 1: Pronunciation of Dental and Retroflex Letters")
+    
+    [Hindi Challenges 1: Pronunciation of Dental and Retroflex Letters](https://blog.karlrock.com/hindi-challenges-1-pronunciation-of-dental-and-retroflex-letters/ "Hindi Challenges 1: Pronunciation of Dental and Retroflex Letters")
     
 
 © 2024 [Karl Rock's Blog](https://blog.karlrock.com/)
