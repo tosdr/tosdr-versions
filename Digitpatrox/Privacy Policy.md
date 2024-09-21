@@ -20,16 +20,16 @@ Saturday, September 21 2024
 
 Latest
 
-* [Alexis Ohanian is premiering his women’s soccer show on X](https://digitpatrox.com/alexis-ohanian-is-premiering-his-womens-soccer-show-on-x/)
-* [Today’s Wordle Answer and Hints (September 21, 2024)](https://digitpatrox.com/todays-wordle-answer-and-hints-september-21-2024/)
-* [Amazon unveils AI chatbot for sellers](https://digitpatrox.com/amazon-unveils-ai-chatbot-for-sellers/)
-* [Google antitrust trial, two weeks in: What’s transpired so far](https://digitpatrox.com/google-antitrust-trial-two-weeks-in-whats-transpired-so-far/)
-* [The Best (and Worst) Types of Food to Cook for a Date](https://digitpatrox.com/the-best-and-worst-types-of-food-to-cook-for-a-date/)
-* [Windows 11 adds new feature to change Copilot key action (build 22635.4225)](https://digitpatrox.com/windows-11-adds-new-feature-to-change-copilot-key-action-build-22635-4225/)
-* [Are Tortillas Good for You?](https://digitpatrox.com/are-tortillas-good-for-you/)
-* [What Is an MVNO, and How Do They Save You Money on Cell Plans?](https://digitpatrox.com/what-is-an-mvno-and-how-do-they-save-you-money-on-cell-plans/)
-* [Who is Teresa Ribera, the incoming EU antitrust chief?](https://digitpatrox.com/who-is-teresa-ribera-the-incoming-eu-antitrust-chief/)
-* [8 Best Expense Management Software in 2024](https://digitpatrox.com/8-best-expense-management-software-in-2024/)
+* [Closing the SMB security gap](https://digitpatrox.com/closing-the-smb-security-gap/)
+* [Sending One Email With ChatGPT is the Equivalent of Consuming One Bottle of Water](https://digitpatrox.com/sending-one-email-with-chatgpt-is-the-equivalent-of-consuming-one-bottle-of-water/)
+* [I tried the Asus ROG NUC 970 and it’s the mini gaming PC I’ve always wanted](https://digitpatrox.com/i-tried-the-asus-rog-nuc-970-and-its-the-mini-gaming-pc-ive-always-wanted/)
+* [OceanGate’s ill-fated Titan sub relied on a hand-typed Excel spreadsheet](https://digitpatrox.com/oceangates-ill-fated-titan-sub-relied-on-a-hand-typed-excel-spreadsheet/)
+* [Top 5 Topaz & Numby Teams in Honkai Star Rail (Ranked)](https://digitpatrox.com/top-5-topaz-numby-teams-in-honkai-star-rail-ranked/)
+* [UK to host AI Safety Summit in San Francisco](https://digitpatrox.com/uk-to-host-ai-safety-summit-in-san-francisco/)
+* [What’s behind the return-to-office demands?](https://digitpatrox.com/whats-behind-the-return-to-office-demands/)
+* [Fitbit Premium Members Can Access Free Peloton Classes](https://digitpatrox.com/fitbit-premium-members-can-access-free-peloton-classes/)
+* [How to create local account on Windows 11](https://digitpatrox.com/how-to-create-local-account-on-windows-11/)
+* [How to Choose a Nursing Pillow and Use It Safely](https://digitpatrox.com/how-to-choose-a-nursing-pillow-and-use-it-safely/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,35 +171,35 @@ Popular Posts
     August 21, 2024
     
 
-* [![](https://cdn.vox-cdn.com/thumbor/7B8eJZYbXg4F_HkICJxQN9IS1JY=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/25535555/STK160_X_TWITTER__B.jpg)](https://digitpatrox.com/alexis-ohanian-is-premiering-his-womens-soccer-show-on-x/)
+* [![](https://cdn.mos.cms.futurecdn.net/oNX7ZnXGWazBS7qdaywToe-1200-80.jpg)](https://digitpatrox.com/closing-the-smb-security-gap/)
     
-    [Alexis Ohanian is premiering his women’s soccer show on X](https://digitpatrox.com/alexis-ohanian-is-premiering-his-womens-soccer-show-on-x/)
+    [Closing the SMB security gap](https://digitpatrox.com/closing-the-smb-security-gap/)
     
-    20 mins ago
+    4 mins ago
     
-* [![](https://beebom.com/wp-content/uploads/2024/06/Todays-Wordle-Answer.jpg?w=1250&quality=75)](https://digitpatrox.com/todays-wordle-answer-and-hints-september-21-2024/)
+* [![](https://assets.techrepublic.com/uploads/2024/09/tr_20240920-generative-ai-data-center-water-use.jpg)](https://digitpatrox.com/sending-one-email-with-chatgpt-is-the-equivalent-of-consuming-one-bottle-of-water/)
     
-    [Today’s Wordle Answer and Hints (September 21, 2024)](https://digitpatrox.com/todays-wordle-answer-and-hints-september-21-2024/)
+    [Sending One Email With ChatGPT is the Equivalent of Consuming One Bottle of Water](https://digitpatrox.com/sending-one-email-with-chatgpt-is-the-equivalent-of-consuming-one-bottle-of-water/)
     
-    22 mins ago
+    5 mins ago
     
-* [![](https://cdn.mos.cms.futurecdn.net/MAoMUdSEJWrSC4PmmoMQ7L-1200-80.jpg)](https://digitpatrox.com/amazon-unveils-ai-chatbot-for-sellers/)
+* [![](https://cdn.mos.cms.futurecdn.net/LiXoYF7Ztjbkys5BtEauNU-1200-80.jpg)](https://digitpatrox.com/i-tried-the-asus-rog-nuc-970-and-its-the-mini-gaming-pc-ive-always-wanted/)
     
-    [Amazon unveils AI chatbot for sellers](https://digitpatrox.com/amazon-unveils-ai-chatbot-for-sellers/)
+    [I tried the Asus ROG NUC 970 and it’s the mini gaming PC I’ve always wanted](https://digitpatrox.com/i-tried-the-asus-rog-nuc-970-and-its-the-mini-gaming-pc-ive-always-wanted/)
     
-    2 hours ago
+    23 mins ago
     
-* [![](https://www.computerworld.com/wp-content/uploads/2024/09/3535604-0-44949800-1726865577-shutterstock_1875389428.jpg?quality=50&strip=all&w=1024)](https://digitpatrox.com/google-antitrust-trial-two-weeks-in-whats-transpired-so-far/)
+* [![](https://cdn.vox-cdn.com/thumbor/BpQe2sf3c02gV-6Zz4Jhkz-O8ss=/0x0:800x550/1200x628/filters:focal(365x296:366x297)/cdn.vox-cdn.com/uploads/chorus_asset/file/24740705/titan_side_view_bks.jpg)](https://digitpatrox.com/oceangates-ill-fated-titan-sub-relied-on-a-hand-typed-excel-spreadsheet/)
     
-    [Google antitrust trial, two weeks in: What’s transpired so far](https://digitpatrox.com/google-antitrust-trial-two-weeks-in-whats-transpired-so-far/)
+    [OceanGate’s ill-fated Titan sub relied on a hand-typed Excel spreadsheet](https://digitpatrox.com/oceangates-ill-fated-titan-sub-relied-on-a-hand-typed-excel-spreadsheet/)
     
-    2 hours ago
+    1 hour ago
     
-* [![](https://lifehacker.com/imagery/articles/01J88G0AT44AZCTE15YVQ3YAXS/hero-image.fill.size_1200x675.jpg)](https://digitpatrox.com/the-best-and-worst-types-of-food-to-cook-for-a-date/)
+* [![](https://beebom.com/wp-content/uploads/2024/09/Topaz-Best-Teams-Honkai-Star-Rail.jpg)](https://digitpatrox.com/top-5-topaz-numby-teams-in-honkai-star-rail-ranked/)
     
-    [The Best (and Worst) Types of Food to Cook for a Date](https://digitpatrox.com/the-best-and-worst-types-of-food-to-cook-for-a-date/)
+    [Top 5 Topaz & Numby Teams in Honkai Star Rail (Ranked)](https://digitpatrox.com/top-5-topaz-numby-teams-in-honkai-star-rail-ranked/)
     
-    3 hours ago
+    1 hour ago
     
 
 ![](https://digitpatrox.com/wp-content/uploads/2023/12/Digitpatrox-NEW-Logo-White.png)
@@ -208,48 +208,48 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [20 mins ago
+* [4 mins ago
     
-    ### Alexis Ohanian is premiering his women’s soccer show on X](https://digitpatrox.com/alexis-ohanian-is-premiering-his-womens-soccer-show-on-x/)
-* [22 mins ago
+    ### Closing the SMB security gap](https://digitpatrox.com/closing-the-smb-security-gap/)
+* [5 mins ago
     
-    ### Today’s Wordle Answer and Hints (September 21, 2024)](https://digitpatrox.com/todays-wordle-answer-and-hints-september-21-2024/)
-* [2 hours ago
+    ### Sending One Email With ChatGPT is the Equivalent of Consuming One Bottle of Water](https://digitpatrox.com/sending-one-email-with-chatgpt-is-the-equivalent-of-consuming-one-bottle-of-water/)
+* [23 mins ago
     
-    ### Amazon unveils AI chatbot for sellers](https://digitpatrox.com/amazon-unveils-ai-chatbot-for-sellers/)
+    ### I tried the Asus ROG NUC 970 and it’s the mini gaming PC I’ve always wanted](https://digitpatrox.com/i-tried-the-asus-rog-nuc-970-and-its-the-mini-gaming-pc-ive-always-wanted/)
 
 Most Popular Topics
 
 * [3 weeks ago
     
-    ### Workers are using generative AI tools on the sly, and it needs to stop](https://digitpatrox.com/workers-are-using-generative-ai-tools-on-the-sly-and-it-needs-to-stop/)
-* [1 week ago
+    ### My Favorite Robot Vacuums Are on Sale for Labor Day](https://digitpatrox.com/my-favorite-robot-vacuums-are-on-sale-for-labor-day/)
+* [August 21, 2024
     
-    ### Apple Must Pay Back €13 Billion in Unpaid Taxes to Ireland, E.U. Court Rules](https://digitpatrox.com/apple-must-pay-back-e13-billion-in-unpaid-taxes-to-ireland-e-u-court-rules/)
-* [3 weeks ago
+    ### Gemini in Gmail can now help polish up your drafts](https://digitpatrox.com/gemini-in-gmail-can-now-help-polish-up-your-drafts/)
+* [2 weeks ago
     
-    ### Wordle Answer for Today, August 28, 2024](https://digitpatrox.com/wordle-answer-for-today-august-28-2024/)
+    ### CMA clears Microsoft of anti-competitive behavior with Inflection AI ‘arrangements’](https://digitpatrox.com/cma-clears-microsoft-of-anti-competitive-behavior-with-inflection-ai-arrangements/)
 
 Last Modified Topics
 
 * [3 hours ago
     
-    ### Are Tortillas Good for You?](https://digitpatrox.com/are-tortillas-good-for-you/)
-* [3 hours ago
-    
-    ### What Is an MVNO, and How Do They Save You Money on Cell Plans?](https://digitpatrox.com/what-is-an-mvno-and-how-do-they-save-you-money-on-cell-plans/)
+    ### What’s behind the return-to-office demands?](https://digitpatrox.com/whats-behind-the-return-to-office-demands/)
 * [4 hours ago
     
-    ### Who is Teresa Ribera, the incoming EU antitrust chief?](https://digitpatrox.com/who-is-teresa-ribera-the-incoming-eu-antitrust-chief/)
+    ### Fitbit Premium Members Can Access Free Peloton Classes](https://digitpatrox.com/fitbit-premium-members-can-access-free-peloton-classes/)
+* [4 hours ago
+    
+    ### How to create local account on Windows 11](https://digitpatrox.com/how-to-create-local-account-on-windows-11/)
 
 Most Viewed Topics
 
+* [August 13, 2024
+    
+    ### TikTok Is Pushing Old and False News as ”Breaking” Alerts](https://digitpatrox.com/tiktok-is-pushing-old-and-false-news-as-breaking-alerts/)
 * [August 12, 2024
     
     ### How to enable Do Not Track on your web browser for Windows](https://digitpatrox.com/how-to-enable-do-not-track-on-your-web-browser-for-windows/)
-* [August 13, 2024
-    
-    ### Best New-Car Deals – Consumer Reports](https://digitpatrox.com/best-new-car-deals-consumer-reports/)
 * [3 weeks ago
     
     ### Getting Your iPhone Repaired Could Ban You From Snapchat](https://digitpatrox.com/getting-your-iphone-repaired-could-ban-you-from-snapchat/)
