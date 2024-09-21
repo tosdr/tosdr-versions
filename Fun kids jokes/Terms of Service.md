@@ -204,17 +204,17 @@ We are committed to conducting our business in accordance with principles that e
 
 #### Recent Jokes
 
-[![Political Jokes for Kids & Adults](https://funkidsjokes.com/wp-content/uploads/2022/11/Political-Jokes-for-Kids-1-100x70.png "Political Jokes")](https://funkidsjokes.com/political-jokes/ "Political Jokes")
+[![apple riddles](https://funkidsjokes.com/wp-content/uploads/2024/09/apple-riddles-100x70.png "Apple Riddles")](https://funkidsjokes.com/apple-riddles/ "Apple Riddles")
 
-### [Political Jokes](https://funkidsjokes.com/political-jokes/ "Political Jokes")
+### [Apple Riddles](https://funkidsjokes.com/apple-riddles/ "Apple Riddles")
 
-[![Llama jokes, Riddles and Puns](https://funkidsjokes.com/wp-content/uploads/2022/11/Llama-jokes-100x70.png "Llama Jokes")](https://funkidsjokes.com/llama-jokes/ "Llama Jokes")
+[![apple pie jokes](https://funkidsjokes.com/wp-content/uploads/2024/09/apple-cider-puns-3-100x70.png "Apple Pie Jokes")](https://funkidsjokes.com/apple-pie-jokes/ "Apple Pie Jokes")
 
-### [Llama Jokes](https://funkidsjokes.com/llama-jokes/ "Llama Jokes")
+### [Apple Pie Jokes](https://funkidsjokes.com/apple-pie-jokes/ "Apple Pie Jokes")
 
-[![Chimpanzee Jokes, Riddles and Puns](https://funkidsjokes.com/wp-content/uploads/2022/11/Chimpanzee-Jokes-100x70.png "Chimpanzee Jokes")](https://funkidsjokes.com/chimpanzee-jokes/ "Chimpanzee Jokes")
+[![apple cider puns](https://funkidsjokes.com/wp-content/uploads/2024/09/apple-cider-puns-1-100x70.png "Apple Cider Puns")](https://funkidsjokes.com/apple-cider-puns/ "Apple Cider Puns")
 
-### [Chimpanzee Jokes](https://funkidsjokes.com/chimpanzee-jokes/ "Chimpanzee Jokes")
+### [Apple Cider Puns](https://funkidsjokes.com/apple-cider-puns/ "Apple Cider Puns")
 
   
   
