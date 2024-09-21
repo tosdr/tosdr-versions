@@ -51,15 +51,17 @@ Main navigation
             * [ITAM](https://www.flexera.com/products/flexera-one/it-asset-management)
             * [SaaS Management](https://www.flexera.com/products/flexera-one/saas-management)
             * [FinOps](https://www.flexera.com/products/flexera-one/finops)
+    * Column 2
         * [Snow Atlas](https://www.flexera.com/products/snow-atlas)
             * [Snow Spend Optimizer](https://www.flexera.com/products/snow-atlas/snow-spend-optimizer)
             * [Snow SaaS Management](https://www.flexera.com/products/snow-atlas/snow-saas-management)
-    * Column 2
+    * Column 3
         * Hide group
             * [Security](https://www.flexera.com/products/security)
             * [Application Readiness](https://www.flexera.com/products/adminstudio)
             * [All products](https://www.flexera.com/products)
             * [All Snow products](https://www.flexera.com/products/snow)
+            * [Integrations](https://www.flexera.com/products/integrations)
     
     ### Flexera 2024 State of the Cloud Report
     
