@@ -208,21 +208,21 @@ Turn Your Curiosity Into Discovery
 
 Latest Facts
 
-[![36 Facts About Integration With Other Tools ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%2284%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/tech-and-sciences/36-facts-about-integration-with-other-tools/)
+[![50 Facts About Actinium ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22100%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/science/chemistry/50-facts-about-actinium/)
 
-Tech & Sciences
+Chemistry
 
-20 Sep 2024
+21 Sep 2024
 
-[36 Facts About Integration With Other Tools](https://facts.net/tech-and-sciences/36-facts-about-integration-with-other-tools/)
+[50 Facts About Actinium](https://facts.net/science/chemistry/50-facts-about-actinium/)
 
-[![34 Facts About Halloween Murders ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%2299%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/events/34-facts-about-halloween-murders/)
+[![33 Facts About Engagement ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22100%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/general/33-facts-about-engagement/)
 
-Events
+General
 
-20 Sep 2024
+21 Sep 2024
 
-[34 Facts About Halloween Murders](https://facts.net/events/34-facts-about-halloween-murders/)
+[33 Facts About Engagement](https://facts.net/general/33-facts-about-engagement/)
 
 [Home](https://facts.net/) [Terms](https://facts.net/terms/)
 
@@ -372,5 +372,9 @@ The Terms constitute the entire agreement between you and Facts.net relating t
 * [🇪🇸 Hechos en Español](https://es.facts.net/)
 * [🇮🇹 Fatti in Italiano](https://it.facts.net/)
 * [🇧🇷 🇵🇹 Fatos em português](https://pt.facts.net/)
+* [🇩🇰 Fakta på dansk](https://dk.facts.net/)
+* [🇸🇪 Fakta på svenska](https://se.facts.net/)
+* [🇳🇴 Fakta på norsk](https://no.facts.net/)
+* [🇫🇮 Faktat suomeksi](https://fi.facts.net/)
 
 Follow us [Subscribe to our channel](https://www.youtube.com/channel/UCkEWgtngMrn9AcsRTmDgPIQ)
