@@ -477,7 +477,7 @@ FR
         
         Hotels.com
         
-        up to 5% Cash Back](https://www.rakuten.ca/ticket/campaign/14CategoryFeaturedStores/store/hotels-com?sourceName=nav-menu)
+        1% Cash Back](https://www.rakuten.ca/ticket/campaign/14CategoryFeaturedStores/store/hotels-com?sourceName=nav-menu)
         
     
     * [Featured Shops & Deals](https://www.rakuten.ca/deals "Featured Shops & Deals at Rakuten.ca")
@@ -492,7 +492,7 @@ FR
         
         Hotels.com
         
-        up to 5% Cash Back](https://www.rakuten.ca/ticket/campaign/14CategoryFeaturedStores/store/hotels-com?sourceName=nav-menu)
+        1% Cash Back](https://www.rakuten.ca/ticket/campaign/14CategoryFeaturedStores/store/hotels-com?sourceName=nav-menu)
         
     * [See All Stores](https://www.rakuten.ca/stores "See All Stores at Rakuten.ca")
 * [2X Cash Back](https://www.rakuten.ca/fall-is-back "Double Cash Back Promo Codes and Coupons at Rakuten.ca")
