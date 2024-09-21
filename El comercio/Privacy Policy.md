@@ -31,1018 +31,1106 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
-En Francia elogian debut de Willian Pacho en Champions League
-=============================================================
+Agente de la AMT fue destituido por pedir sobornos
+==================================================
 
-Willian Pacho tuvo una destacada actuación con el París Saint-Germain en su primer partido en la Champions League.
+El Ministerio de Trabajo tomó la decisión tras más de seis meses de cometido el delito.
+---------------------------------------------------------------------------------------
+
+![El fiscalizador fue capturado cometiendo el delito en flagrancia](https://www.elcomercio.com/wp-content/uploads/2024/09/transito-amt.jpg)
+
+La Agencia Metropolitana de Tránsito (**AMT**) destituyó a un **fiscalizador** de la institución, tras comprobarse que cometió un delito de **corrupción**.
+
+El funcionario aprovechó su cargo público para pedir **dinero a cambio** de no sancionar a un conductor.
+
+### Más noticias
+
+* [Mujer denuncia engaños afuera de centros de revisión vehicular; AMT responde](https://www.elcomercio.com/actualidad/quito/mujer-denuncia-enganos-centros-de-revision-vehicular-amt-responde.html "Mujer denuncia engaños afuera de centros de revisión vehicular; AMT responde")
+* [Radiografía de la movilidad en Quito, un problema vigente](https://www.elcomercio.com/actualidad/quito/radiografia-movilidad-quito-problema-vigente.html "Radiografía de la movilidad en Quito, un problema vigente")
+* [Aeropuerto de Quito reprograma vuelos del sábado 21 de septiembre de 2024](https://www.elcomercio.com/actualidad/quito/vuelos-aeropuerto-quito-reprogramados-mantenimiento-pista.html "Aeropuerto de Quito reprograma vuelos del sábado 21 de septiembre de 2024")
+
+El acto de **concusión** fue grabado por los afectados, el lunes 4 de marzo de 2024, en el parque de Conocoto, al suroriente de Quito.
+
+Sin embargo, tuvieron que pasar **más de seis meses** para que el Ministerio de Trabajo tomará una decisión, el miércoles 11 de septiembre.
+
+Agente pedía 250 dólares
+------------------------
+
+En los videos difundidos en redes sociales se observa al supervisor de los agentes de tránsito **negociar el monto** del soborno con un ciudadano.
+
+“A mí me conocen los compañeros aquí, ya para no hacer tanto drama, porque ya sabe como la gente es aquí (curiosa), ni para usted, ni para mí, deme los **250 dólares**“, mencionó ese día el funcionario identificado como **E. G.**.
+
+A los pocos minutos, el fiscalizador fue retenido por la misma ciudadanía para evitar que huya y entregado a la **Policía Nacional**.
+
+Fiscalizador habría cometido el delito en su día de descanso
+------------------------------------------------------------
+
+En las audiencias de la investigación, el funcionario aceptó **otro grave error**.
+
+El día que cometió el delito, el hombre habría estado de franco; por lo que utilizó el **uniforme** de la institución cuando no debía.
+
+Esta falta considerada como **muy grave** llevó a que la decisión del Ministerio de Trabajo contra el servidor metropolitano tuviera más peso.
+
+Finalmente, este jueves 19 de septiembre, la AMT dio a conocer que el hombre fue **separado** de la entidad.
+
+> 📢 [#AMTInforma](https://twitter.com/hashtag/AMTInforma?src=hash&ref_src=twsrc%5Etfw) | Reafirmamos nuestro compromiso con la transparencia y la integridad.  
+> Un Fiscalizador fue destituido por actos de corrupción.  
+> 💪 ¡Juntos construimos una ciudad honesta y confiable!  
+> 🔎 Más información aquí ⬇️  
+>   
+> ☀️ [#QuitoRenace](https://twitter.com/hashtag/QuitoRenace?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/1xqNXEgmau](https://t.co/1xqNXEgmau)
+> 
+> — AMTQuito (@AMT\_Quito) [September 19, 2024](https://twitter.com/AMT_Quito/status/1836832696137568735?ref_src=twsrc%5Etfw)
+
+Por el delito de concusión, E. G. podría enfrentar, además, un **juicio penal** que se sanciona con privación de la libertad entre tres a **cinco años**.
+
+Según detalló la Alcaldía de Quito, desde 2023, se han registrado **otros tres casos** de servidores municipales que fueron separados de la AMT por cometer actos de corrupción.
+
+15 años sin justicia para José Erazo, padre de hincha de El Nacional asesinado
+==============================================================================
+
+José Erazo, padre de David Erazo -hincha asesinado de El Nacional- rememora los hechos y su proceso tras 15 años.
+-----------------------------------------------------------------------------------------------------------------
+
+![José Erazo, padre de David Erazo -hincha de El Nacional asesinado- en las afueras de la sede del equipo en 2009.](https://www.elcomercio.com/wp-content/uploads/2024/09/1935553-scaled.jpg)
+
+“Y por el ‘Chino’ que te alienta desde el cielo”, se escucha en uno de los cánticos de la barra de El Nacional en sus compromisos. La frase hace referencia a **David Erazo**, hincha del ‘Bi-Tri’ que fue asesinado en 2009 en una gresca.
+
+De aquel suceso que ocurrió en el sector de La Ofelia, cerca del Estadio Rodrigo Paz Delgado, después de un partido entre **Liga de Quito y El Nacional**, han pasado 15 años. José Erazo, padre de la víctima, relata a EL COMERCIO que ya se ha resignado tras la pérdida y a un caso que, sostiene, **ya prescribió y no hubo responsables.**
+
+### Más noticias:
+
+* [Antonio Valencia, el crack que dividió El Nacional y Liga de Quito](https://www.elcomercio.com/deportes/futbol/antonio-valencia-nacional-liga-quito.html "Antonio Valencia, el crack que dividió El Nacional y Liga de Quito")
+
+La noche del **20 de junio del 2009**, el suceso conmocionó al fútbol ecuatoriano cuando el joven de tan solo 17 años recibió siete puñaladas. A vísperas del día del padre, el progenitor de Erazo se encontraba en su barrio, Cotocollao, y presenciaba un partido de ligas barriales cuando recibió la noticia.
+
+“Se mantenía alejado de cosas malas y era centrado. No consumía drogas ni bebía. Entró a la barra y yo tenía confianza. ‘Anda nomás tranquilo’, le dije y que mantenga su distancia. Le había enseñado a que sea como yo. Nunca me imaginé que eso iba a suceder y menos de la noche a la mañana. El mundo se derrumbó para mí”, manifiesta.
+
+Un episodio sin resolver para José Erazo y la afición de El Nacional
+--------------------------------------------------------------------
+
+Su hijo se crió a momentos junto a él y a momentos con su madre, pues estaban separados. Cuando se produjo la muerte de **David Erazo**, su padre sostiene que ambos se apoyaron entre sí y buscaron una solución para el caso. Sin embargo, aquel objetivo no se logró.
+
+El coronel **Néstor Landeta**, exdirigente de la escuadra criolla, le prestó su apoyo junto con la institución y lo ayudó con recursos . Asimismo, Erazo también pudo tomar contacto con abogados[.](https://es.wikipedia.org/wiki/Club_Deportivo_El_Nacional "https://es.wikipedia.org/wiki/Club_Deportivo_El_Nacional")
+
+A poco de darse el asesinato, la Policía presentó un presunto culpable del asesinato del **joven hincha de El Nacional**. Sin embargo, aquello no fue acertado. Un hincha de LDU, Elías B., fue detenido e involucrado como uno de los presuntos autores de la muerte de Erazo. Su **absolución** llegó una vez que se descubrieron **violaciones en su arresto** y en su **proceso judicial**. Luego, la justicia determinó que no se hallaron **indicios** que lo vincularan a lo suscitado.
+
+Con respecto a los últimos datos que tuvo de los sospechosos, **Erazo** relata que un miembro de la Policía Nacional que estaba pendiente del caso le manifestó que estos habían huido del país. A partir de ello, este no volvió a tener noticias sobre estos.
+
+José Erazo, entregado a la resignación
+--------------------------------------
+
+Una vez que prescribió la causa, en 2019, el padre del joven asesinado **no volvió a tomar ninguna acción** judicial. Señala que a partir de ese momento se resignó y se dedicó a aceptar los hechos.
+
+En caso de que existan nuevos indicios o sospechas para resolver lo que sucedió con su hijo, este menciona que **volvería a jugar una última carta**. Pese a ello, si eso no sucede, prefiere recordarlo como en vida fue y dedicarse al cuidado de sus demás descendientes.
+
+Este sábado 21 de septiembre del 2024, **El Nacional y Liga de Quito** volverán a verse las caras en un compromiso en el que el incidente de 2009 no ha sido el único. Erazo, también hincha del ‘Bi-Tri’, ya no es tan cercano al balompié, hace dos años que no va a un partido, pero la reminiscencia de su hijo sigue presente con, al menos, una mínima esperanza de justicia.
+
+Un mensaje a raíz del caso de David Erazo
+-----------------------------------------
+
+En función de los hechos que le tocó vivir, **José Erazo** señala que el fútbol no tiene por qué mancharse con ello. El deporte rey y lo que sus valores representan debe estar alejado y no debe pagar por actos de violencia y verse salpicado por ello.
+
+“**Mi recomendación sería que los padres tengan más cuidado de sus hijos… saber adónde van, si entran a alguna barra, estar pendientes.** Tal vez fue un descuido mío el no estarlo con mi hijo y eso siempre lo llevaré. No hay que descuidarlos”, agrega al repasar todo su trajín y los sucesos de 2009.
+
+Dragonas vs. Barcelona por el título de la Superliga Femenina, ¿cuándo juegan?
+==============================================================================
+
+Dragonas Independiente y Barcelona Sporting Club definen al campeón de la Superliga Femenina 2024 en Chillo-Jijón.
 ------------------------------------------------------------------------------------------------------------------
 
-![Wllian Pacho en su debut con el París Saint-Germain en la Uefa Champions League 24/25.](https://www.elcomercio.com/wp-content/uploads/2024/09/ENDRICK-PALMEIRAS-2024-09-20T132745.897.jpg)
+![Jugadoras de Barcelona SC Y Dragonas IDV en la final de ida de la Superliga Femenina 2024.](https://www.elcomercio.com/wp-content/uploads/2024/09/final_femenina_1.jpg)
 
-**Willian Pacho** debutó en la **Champions** **League** el miércoles 18 de septiembre, vistiendo la camiseta del París Saint-Germain en un duelo contra el Girona. El partido terminó 1-0 a favor de los parisinos.
+**Dragonas Independiente**, con la goleadora colombiana Karen Páez como una de sus figuras, quieren consumar su revancha ante Barcelona Sporting Club y proclamarse por primera vez campeonas de la Superliga Femenina de Ecuador.
 
-Aunque fue su primera vez disputando el torneo de clubes más importante del mundo, **Pacho tuvo una actuación sobresaliente**, lo que le valió elogios de la prensa francesa. Su desempeño lo consolida como una pieza clave en la defensa del equipo dirigido por Luis Enrique.
-
-### Más noticias:
-
-* [Bayer Leverkusen y Piero Hincapié golean en estreno de Champions](https://www.elcomercio.com/deportes/bayer-leverkusen-piero-hincapie-champions-feyenoord.html "Bayer Leverkusen y Piero Hincapié golean en estreno de Champions")
-* [Ángelo Preciado debutó con victoria en la Champions League](https://www.elcomercio.com/deportes/futbol/angelo-preciado-debuto-con-victoria-en-la-champions-league.html "Ángelo Preciado debutó con victoria en la Champions League")
-* [Joel Ordóñez y el Brujas caen goleados por Borussia Dortmund en Champions](https://www.elcomercio.com/deportes/brujas-champions-joel-ordonez-borussia.html "Joel Ordóñez y el Brujas caen goleados por Borussia Dortmund en Champions")
-
-El ecuatoriano ha tenido un **impacto inmediato en el PSG** desde su llegada, adueñándose rápidamente de la titularidad. Solo fue suplente en un compromiso, tras regresar de las eliminatorias sudamericanas. Ya ha sido titular en cuatro partidos, en los que ha tenido destacadas actuaciones.
-
-Francia elogia a Willian Pacho en la Champions League
------------------------------------------------------
-
-El reconocido medio francés _L’Équipe_ publicó sus tradicionales **calificaciones** sobre el partido de Champions entre el PSG y el Girona.
-
-En su análisis, **_L’Équipe_ destacó la actuación de Willian Pacho**, otorgándole una de las calificaciones más altas del partido con 7 puntos, junto con Marquinhos y Vitinha. Por otro lado, Bradley Barcola fue el peor valorado con 3 puntos.
-
-“Sin inspiración, Bradley Barcola no pesó en la defensa del Girona, **mientras que Pacho tranquilizó la zaga y ayudó al PSG a conseguir la victoria**“, escribió el medio francés.
-
-> Peu inspiré, Bradley Barcola n'a pas pesé sur la défense de Gérone, tandis que Pacho a rassuré derrière, aidant le PSG à repartir avec la victoire (1-0), ce mercredi en Ligue des champions [https://t.co/DCbIIU9q7f](https://t.co/DCbIIU9q7f) [#PSGGIR](https://twitter.com/hashtag/PSGGIR?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/GiWTjAcjJF](https://t.co/GiWTjAcjJF)
-> 
-> — L'ÉQUIPE (@lequipe) [September 18, 2024](https://twitter.com/lequipe/status/1836527763949269122?ref_src=twsrc%5Etfw)
-
-El central ecuatoriano demostró, una vez más, que es un jugador de clase mundial. En su debut en la **Champions**, Pacho disputó los 90 minutos y fue una verdadera muralla en defensa. El formado en Independiente del Valle logró cuatro despejes, una intercepción, una entrada, y ganó tres de cinco duelos.
-
-Además, contribuyó al equipo en la salida desde el fondo, acertando el 96 % de sus pases.
-
-¿Cuándo vuelve a jugar Willian Pacho?
--------------------------------------
-
-El próximo compromiso de **Willian** **Pacho** con la camiseta del PSG será el sábado 21 de septiembre, cuando visiten al Reims por la Ligue 1.
-
-El partido se disputará en el Stade Auguste-Delaune II y comenzará a las 14:00 (hora de Ecuador).
-
-Actualmente, el **PSG** es el líder en solitario de la Ligue 1 con puntaje perfecto, acumulando 12 puntos en cuatro fechas.
-
-Camión de bomberos atropella a una persona de la tercera edad
-=============================================================
-
-El Cuerpo de Bomberos Quito confirmó el hecho e informó cómo sucedió el atropello.
-----------------------------------------------------------------------------------
-
-![Imagen referencial. El camión acudía a una emergencia cuando ocurrió el atropello en Quito.](https://www.elcomercio.com/wp-content/uploads/2024/09/Atropello-camion-bomberos.jpg)
-
-Un camión de los **bomberos** atropelló a una persona de la tercera edad la tarde del jueves 19 de septiembre de 2024 en Quito[.](https://es.wikipedia.org/wiki/Accidente_de_tr%C3%A1nsito "https://es.wikipedia.org/wiki/Accidente_de_tr%C3%A1nsito")
-
-Más noticias
-------------
-
-* [Municipio de Quito lanza un visualizador de siniestros de tránsito](https://www.elcomercio.com/actualidad/quito/visualizador-siniestros-transito-municipio-quito.html "Municipio de Quito lanza un visualizador de siniestros de tránsito")
-* [Quito tendrá un visualizador de siniestros de tránsito](https://www.elcomercio.com/actualidad/quito/siniestros-transito-visualizador-amt-plataforma.html "Quito tendrá un visualizador de siniestros de tránsito")
-* [Postes de luz derribados en siniestros de tránsito aumentan en Quito](https://www.elcomercio.com/actualidad/negocios/postes-luz-derribados-siniestros-accidentes-incrementan-quito.html "Postes de luz derribados en siniestros de tránsito aumentan en Quito")
-
-El ECU 911 recibió una alerta de atropello en las calles El Inca y De las Gardenias a las 16:53 del 19 de septiembre.
-
-Atención por el atropello del camión de los bomberos
-----------------------------------------------------
-
-Desde la sala de operaciones del Centro Zonal 2-9 se coordinó con las unidades del **Cuerpo** de **Bomberos Quito**, la Agencia **Metropolitana** de **Tránsito** y la **Policía Nacional** para atender el incidente.
-
-Los agentes de la **Agencia Metropolitana** de **Tránsito** informaron que la vía permaneció cerrada mientras se atendía la emergencia.
-
-Según el reporte del ECU 911, la persona **atropellada falleció**.
-
-Declaraciones del Cuerpo de Bomberos de Quito
----------------------------------------------
-
-El **Cuerpo** de **Bomberos** de Quito explicó que el incidente ocurrió, mientras respondían a una emergencia por un **incendio forestal** en **Nayón**.
-
-Durante su desplazamiento, una persona de la tercera edad cruzó la calle, y uno de sus vehículos pesados no logró **frenar a tiempo**, impactándola.
-
-La institución expresó estar “profundamente consternada por esta **trágica situación**” y aseguró que están cumpliendo con los procesos correspondientes a sus **responsabilidades civiles**.
-
-También señalaron que están colaborando con las autoridades en el procedimiento legal.
-
-El Cuerpo de Bomberos de Quito pidió a los ciudadanos que faciliten el paso a los vehículos de emergencia, para evitar este tipo de tragedias.
-
-> Carro de [@BomberosQuito](https://twitter.com/BomberosQuito?ref_src=twsrc%5Etfw) arrolla una persona en El Inca norte de Quito. Hay que averiguar qué sucedió en el triste percance para establecer responsabilidades. [pic.twitter.com/jryKuKyg9a](https://t.co/jryKuKyg9a)
-> 
-> — Jonnathan Carrera (@jcarreraandrade) [September 20, 2024](https://twitter.com/jcarreraandrade/status/1837113354717888950?ref_src=twsrc%5Etfw)
-
-Municipio de Quito lanza un visualizador de siniestros de tránsito
-------------------------------------------------------------------
-
-El **Municipio** de **Quito** lanzó una nueva herramienta para visualizar **siniestros** de **tránsito**, llamada **Quito Data Vial**, este miércoles 18 de septiembre de 2024.
-
-Esta herramienta fue desarrollada en cooperación entre el **Municipio** de **Quito** y **Bloomberg Philanthropies**, y fue presentada en el Centro de Gestión de la **Movilidad** de **Quito**.
-
-¿Cómo es el nuevo visualizador de siniestros de tránsito de Quito?
-------------------------------------------------------------------
-
-El visualizador permitirá al **Municipio** tomar decisiones basadas en evidencia para **optimizar** el uso de los **recursos**. **Jimena Romero**, gerente regional de seguridad vial de **Bloomberg**, destacó que esta herramienta ayudará a ser más **eficientes** en la **gestión vial**.
-
-Además, Álex Pérez, secretario de **Movilidad**, explicó que la plataforma permitirá tomar decisiones de política pública con datos históricos y actualizados. Esto proporcionará una “radiografía” de la realidad vial en Quito, permitiendo ajustes como cambios en los ciclos semafóricos para mejorar la seguridad de los peatones.
-
-El visualizador ofrece cifras generales, perfiles de víctimas, horarios de siniestros de tránsito, mapas y comparaciones entre los años 2023 y 2024.
-
-Leonardo Campana fue convocado a la Billboard Latin Music Week
-==============================================================
-
-Leonardo Campana se convirtió recientemente en el goleador histórico del Inter Miami.
--------------------------------------------------------------------------------------
-
-![Leonardo Campana, jugador del Inter Miami, fue invitado a un evento de Billboard.](https://www.elcomercio.com/wp-content/uploads/2024/09/ENDRICK-PALMEIRAS-2024-09-20T130352.295.jpg)
-
-**Leonardo** **Campana** cambiará el fútbol por la música, pero solo por unos días. El delantero ecuatoriano ha sido invitado por la revista _**Billboard**_ para participar en la ‘Latin Music Week’ o ‘Semana de la Música Latina’.
-
-El anuncio lo realizó la propia revista a través de sus redes sociales, y Campana lo compartió con sus seguidores. Esta invitación llega justo después de que se convirtiera en el **máximo goleador en la historia del Inter Miami.**
-
-### Más noticias:
-
-* [Anderson Julio y Leonardo Campana, ¿opciones para la Selección de Ecuador?](https://www.elcomercio.com/deportes/futbol/anderosn-julio-leonardo-campana-seleccion.html "Anderson Julio y Leonardo Campana, ¿opciones para la Selección de Ecuador?")
-* [Leonardo Campana y sus 30 goles con el Inter Miami](https://www.elcomercio.com/deportes/leonardo-campana-y-sus-goles-con-el-inter-miami.html "Leonardo Campana y sus 30 goles con el Inter Miami")
-* [Leonardo Campana es el máximo goleador histórico del Inter Miami](https://www.elcomercio.com/deportes/futbol/leonardo-campana-goleador-historico-miami.html "Leonardo Campana es el máximo goleador histórico del Inter Miami")
-
-“El Inter Miami y el futbolista ecuatoriano Leonardo Campana se unirán a la Billboard Latin Week, que regresa a Miami del 14 al 18 de octubre”, publicó la revista.
-
-Leonardo Campana y otros invitados destacados
----------------------------------------------
-
-El nombre de **Leonardo Campana** aparece en una cartelera repleta de artistas mundialmente reconocidos, como Feid, **Peso Pluma**, Mon Laferte, Alejandro Sanz, J Balvin, y Gloria Estefan, entre otros.
-
-También estarán presentes influencers famosos como **Lele Pons**, Domelipa, Yeri Mua, y Kunno.
-
-Aunque la inclusión de Campana, un futbolista, es sorpresiva en un evento de música, no es el único jugador invitado. También está el defensor chileno **Igor Lichnovsky,** del Club América.
-
-> Inter Miami and Ecuadorian soccer player Leonardo Campana will be joining [#BillboardLatinWeek](https://twitter.com/hashtag/BillboardLatinWeek?src=hash&ref_src=twsrc%5Etfw)! returning to Miami from October 14-18, 2024! 🌴😎 Get your tickets here: [https://t.co/a0SaHgPqgx](https://t.co/a0SaHgPqgx) [pic.twitter.com/595OiQBQAl](https://t.co/595OiQBQAl)
-> 
-> — billboard (@billboard) [September 20, 2024](https://twitter.com/billboard/status/1836938113668591854?ref_src=twsrc%5Etfw)
-
-¿Qué es la Latin Music Week?
-----------------------------
-
-La ‘Latin Music Week’ es un evento que lleva 35 años celebrándose. Este año se llevará a cabo en **Miami** del 14 al 18 de octubre.
-
-Es una de las semanas más importantes para la música latina, donde ejecutivos de la industria, estrellas consagradas y artistas emergentes participarán en **charlas, talleres y presentaciones en vivo.**
-
-¿La Selección de Ecuador o los Billboard?
------------------------------------------
-
-A pesar de ser uno de los invitados destacados, Leonardo Campana aún no ha confirmado su participación en la Latin Music Week, ya que coincide con las **fechas de las eliminatorias sudamericanas**.
-
-Si el técnico de la selección ecuatoriana, **Sebastián Beccacece**, lo convoca, Campana priorizará su participación con la Tricolor sobre el evento musical.
-
-La **Selección de Ecuador** se enfrentará el 10 de octubre a Paraguay a las 16:30 en el Estadio Rodrigo Paz Delgado. Luego, el 15 de octubre, visitará a Uruguay en Montevideo, en el Estadio Centenario, por la décima fecha de las eliminatorias, en un partido que comenzará a las 18:30.
-
-Aeropuerto de Quito reprograma vuelos del sábado 21 de septiembre de 2024
-=========================================================================
-
-Quiport, empresa que gestiona el aeropuerto de Quito, publicó la lista de vuelos reprogramados.
------------------------------------------------------------------------------------------------
-
-![Imagen referencial. El aeropuerto de Quito realiza mantenimientos a la pista periódicamente.](https://www.elcomercio.com/wp-content/uploads/2024/09/Aeropuesto-de-Quito.jpg)
-
-El aeropuerto de Quito emitió una lista de los vuelos que fueron reprogramados este viernes 20 de septiembre de 2024[.](https://es.wikipedia.org/wiki/Aeropuerto "https://es.wikipedia.org/wiki/Aeropuerto")
-
-Más noticias
-------------
-
-* [Radiografía de la movilidad en Quito, un problema vigente](https://www.elcomercio.com/actualidad/quito/radiografia-movilidad-quito-problema-vigente.html "Radiografía de la movilidad en Quito, un problema vigente")
-* [Inicio de clases arranca con implementación de medidas de movilidad](https://www.elcomercio.com/actualidad/quito/inicio-de-clases-arranca-con-implementacion-de-medidas-de-movilidad.html "Inicio de clases arranca con implementación de medidas de movilidad")
-* [Regreso a clases pone a prueba a la movilidad en Quito](https://www.elcomercio.com/actualidad/quito/regreso-clases-pone-prueba-movilidad-quito.html "Regreso a clases pone a prueba a la movilidad en Quito")
-
-Los vuelos reprogramados son los que estaban agendados para el sábado 21 de septiembre de 2024.
-
-¿Por qué se reprograman los vuelos del aeropuerto de Quito?
------------------------------------------------------------
-
-El aeropuerto internacional de Quito informó que el sábado 21 de septiembre se realizarán trabajos preventivos de mantenimiento en la pista.
-
-Las operaciones aéreas se cerrarán a partir de las 02:00 hasta las 12:0. La terminal de pasajeros permanecerá abierta todo el tiempo.
-
-Vuelos internacionales reprogramados (llegada)
-----------------------------------------------
-
-| Aerolínea | Número de vuelo | Origen | Hora reprogramada |
-| --- | --- | --- | --- |
-| Avianca | AV7397 | Nueva York | 12:00 |
-| Avianca | AV8377 | Bogotá | 12:05 |
-| Copa | CM829 | Panamá | 12:10 |
-| Fedex | FX5502 | Buenos Aires | 12:18 |
-| Latam | LA4901 | Bogotá | 12:35 |
-| Latam | LA1424 | Lima | 18:55 |
-
-Vuelos internacionales reprogramados (salida)
----------------------------------------------
-
-| Aerolínea | Número de vuelo | Destino | Hora reprogramada |
-| --- | --- | --- | --- |
-| Copa | CM210 | Panamá | 01:00 |
-| Avianca | AV124 | Bogotá | 01:20 |
-| Copa | CM153 | Panamá | 01:35 |
-| Avianca | AV066 | Bogotá | 01:45 |
-| Avianca | AV456 | El Salvador | 01:45 |
-| Avianca | AV646 | Costa Rica | 13:25 |
-| Fedex | FX5502 | Miami | 13:48 |
-| Latam | LA4902 | Bogotá | 13:49 |
-
-Vuelos nacionales reprogramados (llegada)
------------------------------------------
-
-| Aerolínea | Número de vuelo | Origen | Hora reprogramada |
-| --- | --- | --- | --- |
-| Latam | LA1396 | El Coca | 14:13 |
-| Latam | LA1410 | Galápagos – Baltra | 14:33 |
-| Latam | LA1420 | Galápagos – San Cristóbal | 15:09 |
-| Avianca | AV1605 | Cuenca | 15:49 |
-| Latam | LA1412 | Galápagos – Baltra | 16:12 |
-| Latam | LA1352 | Guayaquil | 17:12 |
-| Latam | LA1392 | Manta | 18:04 |
-| Latam | LA1418 | Galápagos – San Cristóbal | 18:14 |
-| Avianca | AV1639 | Galápagos – Baltra | 18:15 |
-| Avianca | AV1687 | Galápagos – Baltra | 18:23 |
-| Latam | LA1402 | Cuenca | 19:26 |
-
-Vuelos nacionales reprogramados (salidas)
------------------------------------------
-
-| Aerolínea | Número de vuelo | Destino | Hora reprogramada |
-| --- | --- | --- | --- |
-| Latam | LA1413 | Galápagos – Baltra | 00:06 |
-| Latam | LA1419 | Galápagos – San Cristóbal | 00:41 |
-| Avianca | AV1638 | Galápagos – Baltra | 12:00 |
-| Avianca | AV1604 | Cuenca | 13:10 |
-| Avianca | AV1686 | Galápagos – Baltra | 13:18 |
-| Latam | LA1391 | Manta | 15:46 |
-| Latam | LA1357 | Guayaquil | 16:41 |
-| Latam | LA1401 | Cuenca | 17:02 |
-| Latam | LA1359 | Guayaquil | 18:39 |
-
-¿Por qué son necesarios los trabajos preventivos en la pista?
--------------------------------------------------------------
-
-Los trabajos **preventivos** de **mantenimiento** son esenciales para garantizar la **eficiencia** y **seguridad** de las **operaciones aéreas** en el aeropuerto de **Quito**, y así evitar cierres imprevistos por **trabajos correctivos**.
-
-John Pólit, hijo de Carlos Pólit, se declaró no culpable
-========================================================
-
-John Pólit se declaró no culpable de delitos relacionados con el lavado de activos, conspiración para lavar activos y realización de transacciones.
----------------------------------------------------------------------------------------------------------------------------------------------------
-
-![John Pólit, investigado en seis cargos en Estados Unidos.](https://www.elcomercio.com/wp-content/uploads/2024/09/polit-1.jpg)
-
-**John Pólit**, hijo del excontralor **Carlos Pólit**, compareció ante la **Corte del Distrito Sur de Florida, en EE.UU,** el 19 de septiembre de 2024.
-
-### Más noticias
-
-* [John Pólit, hijo del excontralor Carlos Pólit, fue arrestado en Estados Unidos](https://www.elcomercio.com/actualidad/politica/john-polit-arresto-estados-unidos.html "John Pólit, hijo del excontralor Carlos Pólit, fue arrestado en Estados Unidos")
-* [Carlos Pólit tiene nueva fecha para conocer su sentencia en Estados Unidos](https://www.elcomercio.com/actualidad/politica/carlos-polit-nueva-fecha-conocer-sentencia-estados-unidos.html "Carlos Pólit tiene nueva fecha para conocer su sentencia en Estados Unidos")
-* [John Pólit, hijo de Carlos Pólit, es procesado por la justicia de Estados Unidos](https://www.elcomercio.com/actualidad/politica/john-polit-hijo-carlos-estados-unidos.html "John Pólit, hijo de Carlos Pólit, es procesado por la justicia de Estados Unidos")
-
-En dicha audiencia, Pólit se declaró **“no culpable”** de los delitos relacionados con el **lavado de activos**, conspiración para lavar activos y la realización de transacciones con **bienes obtenidos ilícitamente**. Con esta declaración, el **proceso judicial seguirá su curso**, llevándolo a enfrentar un juicio en los próximos meses.
-
-Cargos y proceso judicial contra John Pólit
--------------------------------------------
-
-El proceso contra **John Pólit** incluye acusaciones similares a las que enfrentó su padre, quien fue juzgado y sentenciado en Estados Unidos por delitos de lavado de activos. En el juicio de [Carlos Pólit](https://es.wikipedia.org/wiki/Anexo:Contralores_Generales_de_Ecuador "https://es.wikipedia.org/wiki/Anexo:Contralores_Generales_de_Ecuador"), su hijo fue señalado por los fiscales como un **colaborador clave en las operaciones de lavado**, particularmente en la compra y venta de propiedades en el estado de Florida.
-
-> 🇺🇸 La justicia estadounidense vincula a los [#Pólit](https://twitter.com/hashtag/P%C3%B3lit?src=hash&ref_src=twsrc%5Etfw) en presuntos delitos de lavado de dinero: [https://t.co/kqNdi2SRUB](https://t.co/kqNdi2SRUB) [pic.twitter.com/JvVzryYDvB](https://t.co/JvVzryYDvB)
-> 
-> — El Comercio (@elcomerciocom) [September 11, 2024](https://twitter.com/elcomerciocom/status/1833997849278718392?ref_src=twsrc%5Etfw)
-
-La jueza Alicia O. Valle, encargada del caso, confirmó la apertura de la **fase de descubrimiento**, durante la cual las partes intercambiarán pruebas y documentos que podrían ser determinantes en el desarrollo del juicio.
-
-Antecedentes del caso
----------------------
-
-La detención de **John Pólit** tuvo lugar el 10 de septiembre, un día después de que la audiencia de sentencia de su padre fuera suspendida. Las autoridades explicaron que la fiscalía estaba avanzando en **nuevos cargos contra el hijo del exfuncionario**. De igual forma, se informó que se requerían medidas para garantizar la protección de los **bienes de la familia**.
-
-**Pólit Estévez** fue liberado horas más tarde tras pagar una fianza que ascendió a 14 millones de dólares. Esta fue respaldada por propiedades y garantes, junto con un depósito en efectivo de 100 000 dólares, pago que se concretó el 19 de septiembre.
-
-Próximos pasos y derechos procesales en la investigación a John Pólit
----------------------------------------------------------------------
-
-En el sistema judicial estadounidense, la **jueza Valle ordenó que la Fiscalía** proporcione a la defensa todas las pruebas que podrían beneficiar a **John Pólit**, tal como lo exige la jurisprudencia del país.
-
-Estas pruebas, conocidas como exculpatorias, podrían influir en la **decisión del jurado** o reducir una posible sentencia. Además, el descubrimiento incluirá testimonios de testigos y expertos, que serán fundamentales para el desarrollo del caso.
-
-Por otro lado, la sentencia de Carlos Pólit, quien fue declarado culpable por un jurado en abril de 2024, está programada para el 1 de octubre de este año. En este proceso también involucró el lavado de dinero de sobornos en Estados Unidos.
-
-Arranca en tres estados de EE.UU. la votación adelantada
-========================================================
-
-Los votantes, deseosos de ser los primeros en expresar su opinión, hicieron largas filas desde primera hora en los centros de votación.
----------------------------------------------------------------------------------------------------------------------------------------
-
-![Partidarios de la campaña del candidato presidencial republicano Donald J. Trump participan en la votación anticipada en persona, en el lugar de votación del Centro de Gobierno del Condado de Fairfax en Fairfax, Virginia, EE. UU., este 20 de septiembre de 2024.EFE/EPA/Shawn Thew](https://www.elcomercio.com/wp-content/uploads/2024/09/rss-efe38d9164379c80d82a85664790efd2eeeb8e9ce2fw-e1726855831324.jpg)
-
-La **votación anticipada** para las elecciones presidenciales del 5 de noviembre de 2024, en Estados Unidos arrancó este viernes 20 de septiembre de 2024, en **Minesota, Dakota del Sur y Virginia**, dando el pistoletazo de salida a la recta final en la carrera por la **Casa Blanca** entre la demócrata [Kamala Harris](https://www.elcomercio.com/actualidad/mundo/votantes-creen-kamala-harris-beneficia-respaldo-taylor-swift.html "https://www.elcomercio.com/actualidad/mundo/votantes-creen-kamala-harris-beneficia-respaldo-taylor-swift.html") y el republicano Donald Trump.
-
-### Más noticias
-
-* [George Clooney responde a Donald Trump sobre un tema político](https://www.elcomercio.com/actualidad/mundo/george-clooney-responde-trump-dejara-politica-tambien-hace.html "George Clooney responde a Donald Trump sobre un tema político")
-* [Estados Unidos se acerca a las elecciones en medio de intentos de asesinatos y hackeos](https://www.elcomercio.com/actualidad/mundo/estados-unidos-se-acerca-a-las-elecciones-en-medio-de-intentos-de-asesinatos-y-hackeos.html "Estados Unidos se acerca a las elecciones en medio de intentos de asesinatos y hackeos")
-* [Votantes creen que Kamala Harris se beneficia de respaldo de Taylor Swift](https://www.elcomercio.com/actualidad/mundo/votantes-creen-kamala-harris-beneficia-respaldo-taylor-swift.html "https://www.elcomercio.com/actualidad/mundo/votantes-creen-kamala-harris-beneficia-respaldo-taylor-swift.html")
-
-Los votantes, deseosos de ser los primeros en expresar su opinión, hicieron **largas filas desde primera hora** en los **centros de votación** de esos tres estados. A lo largo de octubre, los votantes de estados clave para las elecciones como Míchigan, Nevada y Arizona también tendrán la oportunidad de votar por adelantado.
-
-En la ciudad de Arlington (Virginia), a las afueras de Washington, destacados políticos demócratas como el senador Tim Kaine y el congresista Don Beyer se congregaron desde primera hora para animar a los votantes.
-
-Kaine, quien fuera candidato a la vicepresidencia junto a Hillary Clinton en 2016, describió estos comicios como “la elección más importante de su vida”.
-
-“**Esta batalla es entre quienes construyen y quienes destruyen**. Nos enfrentamos a la persona que más ha destruido en la historia de la política estadounidense: Donald Trump. Y la pregunta es si vamos a plantar cara a gente como él”, declaró Kaine.
-
-El ambiente electoral se podía palpar en la plaza donde tuvo lugar el evento, frente al centro de votación. El **partido demócrata local** había instalado carpas para informar a los transeúntes y había pancartas azules, el color de los demócratas, con lemas como “Virginia por Harris” y “Virginia vota temprano”.
-
-En Virginia, que las encuestas muestran a favor de Harris, los centros de votación anticipada permanecerán abiertos hasta el 2 de noviembre y los vecinos podrán ir en persona a depositar sus papeletas.
-
-Sin embargo, en Minesota y Dakota del Sur el sistema es diferente. Estos estados forman parte del grupo de 23 que permite a los votantes entregar sus **papeletas en persona** a un oficial del departamento de elecciones estatal, en lugar de enviarlas por correo, por lo que no llegan a depositarlas en una urna.
-
-En cualquier caso, estas opciones para votar por adelantado ganan popularidad en Estados Unidos debido a que las elecciones siempre se celebran el primer martes de noviembre, un día laborable en el que los estadounidenses siguen teniendo **obligaciones laborales y familiares**.
-
-Según datos oficiales, en las elecciones de 2020, de cada uno de los estados que hoy empezaron la votación por anticipado, el 40 % de los virginianos votó anticipadamente de forma presencial, mientras que en Minesota la cifra alcanzó el 57 % y en Dakota del Sur el 20 %.
-
-En todo Estados Unidos, durante los comicios de 2020, marcados por la pandemia, más del 69 % de los votos se emitieron por correo o mediante el depósito anticipado de las papeletas en la urna, según datos de un centro de datos del Instituto Tecnológico de Massachusetts.
-
-El inicio de esta votación por adelantado llega tras un **verano especialmente turbulento**, en el que el presidente Joe Biden anunció que ponía fin a su campaña y cedía el testigo a la vicepresidenta Kamala Harris, y en el que el expresidente y candidato republicano Donald Trump ha sufrido dos intentos de asesinato.
-
-Las encuestas actualmente predicen una **carrera especialmente reñida** entre Harris y Trump, y todo dependerá de los resultados en siete estados clave: Pensilvania, Míchigan, Wisconsin, Georgia, Carolina del Norte, Arizona y Nevada.
-
-El Nacional llega al partido contra Liga de Quito con problemas internos
-========================================================================
-
-El Nacional llega al partido contra Liga de Quito sin entrenar
---------------------------------------------------------------
-
-![El Nacional no entrenó previo a su partido con Liga de Quito por Liga Pro.](https://www.elcomercio.com/wp-content/uploads/2024/09/ENDRICK-PALMEIRAS-2024-09-20T122653.312.jpg)
-
-**El Nacional visitará a Liga de Quito** en la próxima fecha de la Liga Pro, en uno de los partidos más atractivos de la jornada y un clásico del fútbol ecuatoriano. Sin embargo, los jugadores del ‘Bi-Tri’ han tomado una **decisión tajante** ante los problemas que enfrenta la institución.
-
-El equipo militar **decidió no entrenar** este viernes 20 de septiembre, justo antes del encuentro contra la ‘U’ en el Estadio Rodrigo Paz Delgado. Además, los jugadores no concentrarán para el compromiso, y se presentarán directamente al estadio.
+El partido entre las **Dragonas Independiente y Barcelona SC** está programado para el sábado 21 de septiembre de 2024, desde las 11:00, en el estadio ubicado en el Complejo de Independiente en Chillo-Jijón.
 
 ### Más noticias:
 
 * [Liga de Quito vs. El Nacional, el partido principal de la Liga Pro](https://www.elcomercio.com/deportes/futbol/liga-de-quito-vs-el-nacional-el-partido-principal-de-la-liga-pro.html "Liga de Quito vs. El Nacional, el partido principal de la Liga Pro")
-* [¿Cuál es el historial de partidos entre Liga de Quito y El Nacional?](https://www.elcomercio.com/deportes/liga-quito-nacional-historial-liga-pro.html "¿Cuál es el historial de partidos entre Liga de Quito y El Nacional?")
-* [Presidente de El Nacional reclama manejo de la Selección de Ecuador](https://www.elcomercio.com/deportes/marco-pazos-el-nacional-seleccion-ecuador.html "Presidente de El Nacional reclama manejo de la Selección de Ecuador")
+* [¿Cuánto tardó Gonzalo Plata en marcar con sus nuevos equipos?](https://www.elcomercio.com/deportes/futbol/cuanto-tardo-gonzalo-plata-en-marcar-con-sus-nuevos-equipos.html "¿Cuánto tardó Gonzalo Plata en marcar con sus nuevos equipos?")
+* [Falleció Kevin Pozo, ciclista ecuatoriano atropellado](https://www.elcomercio.com/deportes/ciclismo/fallecio-kevin-pozo-ciclista-ecuatoriano-atropellado.html "Falleció Kevin Pozo, ciclista ecuatoriano atropellado")
 
-Esta **medida es una respuesta a los tres meses de atraso salarial** que enfrenta el equipo. Ante la falta de soluciones, los jugadores optaron por una forma de protesta más radical.
+Después de perder las dos últimas finales, la última con Barcelona, el equipo de **Dragonas puede conquistar en casa su primer título nacional** en el encuentro de vuelta de la final de la Superliga Femenina.
 
-El Nacional se enfrenta a Liga sin entrenar
--------------------------------------------
+El sábado 14 se **impusieron a domicilio por 0-1 al Barcelona en el partido de ida jugado** en el estadio Monumental de Guayaquil, que contó con una aceptable presencia de público en las localidades habilitadas.
 
-Aunque en la mañana del viernes el presidente de El Nacional**, Marco Pazos**, afirmó a la prensa que los jugadores estaban entrenando con normalidad, pese al atraso de sus salarios, esa versión fue desmentida por el capitán del equipo.
+Precisamente la colombiana **Karen Páez fue la autora del gol con el que las capitalinas** se llevaron un importante triunfo y resistieron los ataques de las locales, sobre todo en el primer tiempo cuando las locales las arrinconaron contra su arco.
 
-**“No entrenamos”, aclaró David Cabezas** en una entrevista en vivo con Jhoanna Calderón para el programa _De Una_, mientras se retiraba en su vehículo del complejo deportivo en Tumbaco.
+En el segundo tiempo las **Dragonas se defendieron con orden y pasaron un sobresalto** al minuto 83 con un penal pitado en su contra, pero que después fue rectificado por la intervención del VAR que desestimó la mano de una de sus defensas.
 
-La periodista también confirmó que los **jugadores no realizarán la concentración** habitual para este importante compromiso.
+![Foto: API.](https://www.elcomercio.com/wp-content/uploads/2024/09/final_femenina_2-1024x683.jpg)
 
-Después de un tiempo, Marcos Pazos, declaró en entrevista con Machdeportes que el equipo entrenará en la tarde.
+Foto: API.
 
-### **¿Cuándo se juega el Liga de Quito vs. El Nacional?**
-
-Liga de Quito recibirá a El Nacional en el **Estadio Rodrigo Paz** Delgado este sábado 21 de septiembre, por la séptima fecha de la segunda etapa de la Liga Pro, en lo que promete ser el partido más esperado de la jornada.
-
-El encuentro está programado para las 16:30, y el estadio c**ontará con presencia de hinchada local y visitante,** en busca de una fiesta deportiva pacífica.
-
-La **‘U’ llega como líder de la segunda etapa con 15 puntos** en seis fechas, mientras que el ‘Bi-Tri’ se ubica noveno con 10 unidades.
-
-Ecuador lanza nuevo proceso de licitación para contratar más energía
-====================================================================
-
-El Gobierno inició un proceso para incorporar otros 100 MW térmicos en San Juan de Manta, Manabí.
--------------------------------------------------------------------------------------------------
-
-![Los generadores termoeléctricos terrestres se ubicarán junto a la subestación San Juan de Manta, en Manabí. Foto: Cortesía](https://www.elcomercio.com/wp-content/uploads/2024/09/manta.jpg)
-
-El Gobierno de **Daniel Noboa** lanzó nueva **licitación** para contratar **100 megavatios** (MW) de potencia, en medio de la crisis energética del **Ecuador**. Según las bases del concurso, en una semana, es decir el 26 de septiembre de 2024, se seleccionará al proveedor.
-
-### Más noticias
-
-* [La solución para los cortes de luz del Ecuador es la geotermia, ¿de qué se trata?](https://www.elcomercio.com/actualidad/negocios/la-solucion-para-los-cortes-de-luz-del-ecuador-es-la-geotermia-de-que-se-trata.html "La solución para los cortes de luz del Ecuador es la geotermia, ¿de qué se trata?")
-* [Gobierno plantea que ciudadanía ahorre energía para evitar cortes de luz](https://www.elcomercio.com/actualidad/negocios/usuarios-ahorro-consumo-luz-ecuador-multa-planilla.html "Gobierno plantea que ciudadanía ahorre energía para evitar cortes de luz")
-* [Ecuador busca incorporar nueva barcaza de generación eléctrica para evitar cortes de luz](https://www.elcomercio.com/actualidad/negocios/ecuador-busca-incorporar-nueva-barcaza-de-generacion-electrica-para-evitar-cortes-de-luz.html "Ecuador busca incorporar nueva barcaza de generación eléctrica para evitar cortes de luz")
-
-El **Ministerio de Energía y Minas** y la Corporación Eléctrica del Ecuador (Celec) iniciaron el proceso el jueves 19 de septiembre de 2024. Este incluye la adquisición, instalación, comisionamiento y puesta en marcha de **generadores termoeléctricos** terrestres junto a la subestación **San Juan de Manta**, en **Manabí**. Con una potencia de 100 MW.
-
-Detalles del proceso de la licitación
--------------------------------------
-
-Celec publicó en el portal del **[Servicio de Contratación Pública (Sercop)](https://www.compraspublicas.gob.ec/ProcesoContratacion/compras/EMG/EmgRegistroDetalle.cpe?id=ksJnIsWETZtCiC290HZIn4lSIpfC-tSD3SDXotQRhJI, "https://www.compraspublicas.gob.ec/ProcesoContratacion/compras/EMG/EmgRegistroDetalle.cpe?id=ksJnIsWETZtCiC290HZIn4lSIpfC-tSD3SDXotQRhJI,")** el proceso. El mismo que se inicia con la recepción de propuestas para la **adquisición de estas nuevas instalaciones.** Los equipos funcionarán con combustible HFO4 y HFO6, que es de producción nacional.
-
-> 📰NOTICIA | Gobierno Nacional incluye más megavatios al sistema eléctrico: inicia proceso para incorporar 100 MW térmicos nuevos en San Juan de Manta.➡️ [https://t.co/DX0EjGmYTE](https://t.co/DX0EjGmYTE) [pic.twitter.com/XEsGiO1oRO](https://t.co/XEsGiO1oRO)
-> 
-> — Corporación Eléctrica del Ecuador🇪🇨 (@CELECEPOficial) [September 20, 2024](https://twitter.com/CELECEPOficial/status/1837162011567792265?ref_src=twsrc%5Etfw)
-
-Conforme con la publicación, las empresas interesadas tienen hasta el martes 24 de septiembre plazo para la **presentación de sus propuestas**. De inmediato, la Comisión Técnica realizará un análisis del plazo, precio y la adhesión a los criterios técnicos establecidos en los términos de referencia (TDR). Luego seleccionará la propuesta más conveniente para el país, el 26 de septiembre de 2024.
-
-Posteriormente, vendrá la recepción de formularios por parte del **proveedor seleccionado,** la emisión de documentos internos para la adjudicación y se procederá con la **adjudicación** a la propuesta que más le convenga al país.
-
-Proceso de emergencia en el país
+Dragonas y una esperada revancha
 --------------------------------
 
-La contratación se realizará a través de un **proceso de emergencia**. Para ello, la **Gerencia de Celec** declaró en emergencia a esta **empresa pública estratégica** y autorizó realizar las contrataciones que sean necesarias.
+A las Dragonas les basta con el empate para salir campeonas, mientras que Barcelona está obligado a sacar un triunfo.
 
-La adquisición de estas nuevas unidades de generación para la subestación **San Juan de Manta**, así como el alquiler de la **nueva generación flotante  por hasta 250 MW** y otros proyectos que se encuentran en la **fase preparatoria**, son parte de las acciones que desarrolla el Gobierno para **enfrentar la crisis energética**, que ha obligado a programar cortes de luz en todo el territorio nacional.
+El equipo de Guayaquil ya sabe lo que es ganar la Superliga Femenina. Lo hizo el año pasado al **golear por 0-3** tras haber empatado 0-0 en el encuentro de ida.
 
-A ex Miss República Dominicana le explotó una olla a presión en la cara
-=======================================================================
+En el duelo de entrenadores, el colombiano **Gustavo Pineda disputa su primera final en Ecuador** con las Dragonas, mientras que la ecuatoriana Wendy Villón, al mando del Barcelona, saldrá a por el quinto título de la Superliga Femenina, pues ganó dos con el Deportivo Cuenca, uno con El Nacional y el año pasado el primero con el Barcelona.
 
-Aflalo describió el momento de la explosión como extremadamente traumático.
----------------------------------------------------------------------------
+Las Dragonas dispondrán este sábado, además de Páez, con la argentina **Claudia Roldán, la brasileña Larissa Nunes** y la experimentada defensa paraguaya Verónica Riveros.
 
-![Debbie Aflalo se pronunció sobre sus quemaduras con una olla de presión.](https://www.elcomercio.com/wp-content/uploads/2024/09/miss-debbie-quemaduras.jpg)
+Por el lado de las barcelonistas, estarán figuras como la portera venezolana Maleike Pacheco, las defensas Karla Capurro, Lía Rodríguez, la volante Ericka Gracia y la **máxima goleadora de todas las ediciones del torneo**, la también ecuatoriana Madelen Riera. 
 
-A ex Miss República Dominicana le explotó una olla a presión en la cara. La mujer contó cómo avanza en la **recuperación de las heridas**.
-
-### Más noticias
-
-* [Escalofriante asesinato de modelo conmociona a Suiza](https://www.elcomercio.com/actualidad/mundo/escalofriante-asesinato-suiza-modelo.html "Escalofriante asesinato de modelo conmociona a Suiza")
-* [Certamen de Miss Universe Ecuador presenta a su primera concursante de 46 años](https://www.elcomercio.com/afull/miss-ecuador-candidatas-madres-divorciadas-inclusion.html "https://www.elcomercio.com/afull/miss-ecuador-candidatas-madres-divorciadas-inclusion.html")
-
-La exreina de belleza cuenta **cómo fueron sus heridas** y el avance de su recuperación, advierte sobre el uso de estas ollas.
-
-> [View this post on Instagram](https://www.instagram.com/reel/DACNH7IyL6i/?utm_source=ig_embed&utm_campaign=loading)
-> 
-> [A post shared by Debbie Aflalo (@debbieaflalo)](https://www.instagram.com/reel/DACNH7IyL6i/?utm_source=ig_embed&utm_campaign=loading)
-
-La ex reina Miss República Dominicana, **Debbie Aflalo,** compartió una experiencia personal para alertar al público sobre los peligros del uso de ollas de presión. En un video publicado en su cuenta oficial de instagram, Aflalo relató cómo **sufrió una explosión de este tipo de utensilio de cocina**, un incidente que la llevó a recibir atención médica urgente.
-
-En su relato, Aflalo describió el momento de la **explosión como extremadamente traumático:** “Fue un momento muy traumante. Y que gracias a las oraciones de mi madre, y que Dios la escucha, yo hoy estoy bien y lo estoy contando. Porque yo vi como el aro de silicón de esa olla salió volando al momento de la explosión”. **La olla, al parecer, falló durante el proceso de cocción**, provocando una liberación violenta de vapor y agua caliente.
-
-Aflalo destacó: “Toda el agua me cayó en la cara, en el pecho, en los brazos, y en el abdomen”.  
-Además, la ex reina detalló que **mientras recibía atención médica,** las enfermeras le comentaron que no es raro recibir pacientes con quemaduras causadas por ollas a presión.
-
-Esta información alarmó aún más a la exreina, quien aprovechó para advertir a sus seguidores sobre los riesgos que pueden surgir al **utilizar este tipo de utensilios** sin las precauciones adecuadas.
-
-A pesar de la gravedad del incidente, Debbie Aflalo aseguró que **se encuentra en recuperación.** Expresó gratitud por el apoyo recibido y destacó la importancia de compartir su experiencia para evitar que otras personas pasen por una situación similar. “Yo les **sugiero que mejor no las usen**, y que si las van a usar, tengan mucho cuidado”, enfatizó en el video publicado.
-
-A lo largo de su vida, Aflalo había utilizado ollas a presión sin incidentes, lo que le hacía pensar que era un método seguro para cocinar. Sin embargo, el impacto de la explosión la llevó a reconsiderar su uso futuro. En sus declaraciones, confesó que no volverá a utilizar este tipo de utensilios, pues ahora es consciente del peligro que representan.
-
-El incidente generó **gran preocupación entre sus seguidores** y abrió un debate sobre la seguridad de las ollas a presión, un electrodoméstico popular en muchas cocinas, pero con potenciales riesgos si no se utilizan correctamente. Aflalo, quien sigue activa en sus redes sociales, sigue publicando actualizaciones sobre su estado de salud y evolución.
-
-Por otro lado, el accidente de la exreina hizo que muchos se cuestionen la seguridad de los electrodomésticos y la importancia de **seguir todas las instrucciones de uso** para evitar tragedias similares. Aflalo también resaltó que, aunque había seguido las indicaciones, el incidente ocurrió de forma inesperada, recordando que siempre hay que extremar precauciones.
-
-A medida que avanza su recuperación, Debbie Aflalo hizo un llamado a la precaución, no solo con las ollas a presión, sino con cualquier aparato de cocina que pueda suponer un riesgo. Su experiencia sirve como advertencia para muchos de sus seguidores, quienes muestran su apoyo y preocupación por su bienestar.  
-  
-En la actualidad, Aflalo se encuentra fuera de peligro, aunque sigue en tratamiento para sanar las quemaduras.
-
-Falleció Kevin Pozo, ciclista ecuatoriano atropellado
-=====================================================
-
-Kevin Pozo, atropellado durante un entrenamiento, falleció este viernes.
-------------------------------------------------------------------------
-
-![Kevin Pozo, ciclista ecuatoriano, falleció este viernes 20 de septiembre luego de ser atropellado.](https://www.elcomercio.com/wp-content/uploads/2024/09/ENDRICK-PALMEIRAS-2024-09-20T114349.383.jpg)
-
-**Kevin** **Pozo**, ciclista del Team Jhonatan Narváez, **falleció** en la madrugada de este viernes 20 de septiembre en Quito, tras ser internado en la sala de cuidados intensivos del Hospital Eugenio Espejo el jueves 19 de septiembre.
-
-El **ciclista carchense** se encontraba entrenando en el sector de El Juncal, en la provincia de Imbabura, cuando lo atropelló una camioneta en la mañana del jueves 19 de septiembre.
-
-### Más noticias:
-
-* [Richard Carapaz se enfrenta a una feroz competencia en el Mundial de Ciclismo](https://www.elcomercio.com/deportes/ciclismo/richard-carapaz-enfrenta-feroz-competencia-mundial-de-ciclismo.html "Richard Carapaz se enfrenta a una feroz competencia en el Mundial de Ciclismo")
-* [Jhonatan Narváez es baja con Ecuador para el Mundial de Ciclismo](https://www.elcomercio.com/deportes/ciclismo/jhonatan-narvaez-baja-mundial-ciclismo.html "Jhonatan Narváez es baja con Ecuador para el Mundial de Ciclismo")
-* [Tadej Pogacar sumó un nuevo título previo al Mundial de Ciclismo](https://www.elcomercio.com/deportes/ciclismo/tadej-pogacar-sumo-nuevo-titulo-previo-mundial-de-ciclismo.html "Tadej Pogacar sumó un nuevo título previo al Mundial de Ciclismo")
-
-> Kevin Pozo, ciclista carchense, fue atropellado el día de hoy por una camioneta. Su estado es muy grave.  
->   
-> Lastimosamente el Ecuador es un país sin cultura vial. Solo esperamos que el estado de Kevin no se agrave y se recupere. [pic.twitter.com/yG8N45advO](https://t.co/yG8N45advO)
-> 
-> — Fabricio Tufiño Armas (@FabricioTufino) [September 19, 2024](https://twitter.com/FabricioTufino/status/1836775968536412382?ref_src=twsrc%5Etfw)
-
-Al ciclista de 24 años sé lo trasladó inicialmente a un hospital en Ibarra, pero por la gravedad de las lesiones causadas por el atropello, se lo llevaron **de urgencia a Quito**, al Hospital Eugenio Espejo, en la tarde.
-
-A pesar de haber ingresado a **terapia intensiva** por la noche, lamentablemente, Kevin Pozo falleció en la madrugada de este viernes 20 de septiembre.
-
-La **Federación Ecuatoriana de Ciclismo** emitió una nota de pesar tras lo ocurrido:
-
-_“Expresamos a sus familiares y amigos nuestro más sentido pésame y solidaridad. Paz en su tumba”_, escribió la institución.
-
-> Nota de pesar 🙏 [pic.twitter.com/MG0huLSi9z](https://t.co/MG0huLSi9z)
-> 
-> — Federación Ecuatoriana de Ciclismo (@FedeCiclismoEcu) [September 20, 2024](https://twitter.com/FedeCiclismoEcu/status/1837157401323098445?ref_src=twsrc%5Etfw)
-
-¿Qué ocurrió con Kevin Pozo?
-----------------------------
-
-Según reportes, el conductor de la **camioneta que atropelló al joven ciclista** estaba manejando en contravía al momento del accidente.
-
-La policía lo detuvo en el lugar y lo trasladó al cantón Bolívar para una audiencia preliminar, pero la jueza **determinó su liberación**.
-
-La información la publicó por el periodista de ciclismo Ernesto Almeida, quien siguió de cerca el caso a través de su cuenta en X (antes Twitter).
-
-Su carrera
-----------
-
-En su corta trayectoria en el ciclismo, Kevin Pozo ocupó el puesto 12 en el Campeonato Nacional de Ciclismo de 2021.
-
-En 2023, tuvo su primera experiencia internacional al participar en la **Coppa Messapica** en Italia, donde también finalizó en la 12ª posición.
-
-Además, en ese mismo año, Pozo ganó la etapa reina de la **Vuelta a Nariño** en Colombia, demostrando su talento y proyección en el deporte.
-
-Johan enfrenta una leucemia aguda y todos pueden ayudar en la lucha
-===================================================================
-
-Johan Cifuentes es un niño que padece una leucemia rara y requiere apoyo para su tratamiento.
----------------------------------------------------------------------------------------------
-
-![La comunidad puede aportar para el tratamiento de Johan Cifuentes Ríos.](https://www.elcomercio.com/wp-content/uploads/2024/09/nino-leucemia.jpg)
-
-**Johan Cifuentes Ríos** es un niño de 12 años. Su familia libra una cruzada para salvar la vida del pequeño, diagnosticado con **Leucemia linfoblástica aguda tipo T Early**[.](https://es.wikipedia.org/wiki/Leucemia_linfoide_aguda)
-
-La comunidad puede sumarse para completar los recursos necesarios para los procedimientos que requiere el **niñ**o.
-
-### Más noticias
-
-* [Leonardo Caiza falleció sin lograr la eutanasia en Ecuador](https://www.elcomercio.com/sociedad/leonardo-caiza-eutanasia-ecuador.html)
-* [¿Médicos pueden negarse a aplicar la eutanasia en Ecuador?](https://www.elcomercio.com/sociedad/leonardo-caiza-eutanasia-ecuador.html "Leonardo Caiza falleció sin lograr la eutanasia en Ecuador")
-* [Joven colombiano pide la eutanasia tras contraer bacteria y sufrir cáncer](https://www.elcomercio.com/actualidad/joven-colombia-eutanasia-bacteria-y-sufrir-cancer-salud.html "Joven colombiano pide la eutanasia tras contraer bacteria y sufrir cáncer")
-
-Johan y la leucemia que enfrenta
+No te pierdas – El Confesionario
 --------------------------------
 
-La leucemia linfoblástica aguda es un tipo de cáncer por el que la médula ósea produce demasiados linfocitos inmaduros (tipo de glóbulo blanco).
+Liga de Quito goleó a El Nacional en la despedida del ‘Toño’ Valencia
+=====================================================================
 
-Los tratamientos que necesita **Johan Cifuentes** son costosos. La familia ha realizado colectas y hace un llamado para que la ciudadanía se sume a esta causa.
+Liga de Quito y El Nacional tienen una larga historia y rivalidad deportiva que se manifiesta en el denominado 'Clásico quiteño'.
+---------------------------------------------------------------------------------------------------------------------------------
 
-Con la consigna “**Juntos somos más por Johitan**“, la lucha por la vida del niño se mantiene a diario. Como recapitula la familia, hasta el 22 de julio de 2024, el niño tuvo una vida feliz.
+![Jugadores de Liga de Quito celebran uno de los goles marcados a El Nacional en el 2005.](https://www.elcomercio.com/wp-content/uploads/2024/09/liga_golea_1.jpg)
 
-No obstante, al realizarse unos exámenes de sangre de rutina, los resultados médicos determinaron que  
-Johan tenía Leucemia con un 80% de células cancerígenas en su sangre.
+**Liga de Quito** tiene en el estadio Rodrigo Paz Delgado su mayor fortaleza en torneos nacionales y en internacionales, donde ha conseguido espectaculares victorias con marcadores abultados. 
 
-Sus parientes, incluso, han salido a espacios públicos para recolectar fondos para las necesidades propias del estado de **Johan**.
-
-Las **ampollas nelarabina** son los medicamentos que requieren con urgencia. Estas se encuentran en India, Estados Unidos y España.
-
-Hasta tanto, Johan recibe atención en Solca, donde cuenta con sesiones de quimioterapia. Él requiere un trasplante de **médula ósea**.
-
-El proceso y el tratamiento
----------------------------
-
-Al día 15 de la quimioterapia, los especialistas realizaron una punción lumbar y aspirado medular para el análisis del estado del menor.
-
-Los resultados, al 21 de agosto de 2024, determinaron que Johan tenía el 35% de blastos (**células cancerígenas**) en su medula espinal y el 79% presentes en el sistema sanguíneo.
-
-A los 48 días de quimioterapia, las células cancerígenas se mantienen y no llega a la remisión.
-
-La familia ha recibido el apoyo del **Instituto Ecuatoriano de Seguridad Social (IESS)** para las gestiones sobre la medicación que es vital para continuar con un trasplante de médula ósea. En el primer punto, se espera que llegue en los primeros de días de octubre.
-
-Sin embargo, el procedimiento integral es costoso y se realiza en el extranjero. Los rubros están entre los **300 000 y 500 000 dólares**.
-
-El pedido de la familia
------------------------
-
-Este 19 de septiembre de 2024, la familia de Johan realizó un plantón fuera de **Solca** para solicitar la derivación del caso al exterior.
-
-Según indicaron los familiares, la institución indicó que entregará el informe sobre la **derivación**. Aunque el panorama es complejo, no pierden la esperanza de salvar la vida del pequeño.
-
-¿Cómo ayudar?
--------------
-
-Las personas que quieran aportar pueden realizar sus donaciones a través de la cuenta de ahorros de Banco Pichincha **4101771600**, a nombre de **Gissela Ríos**, con la cédula de identidad 1714576459.
-
-Con la frase **“Dona y conviértete en héroe”**, el hogar de Johan espera llegar a las personas que puedan sumarse a salvar la vida del pequeño.
-
-Nueve fallecidos y 59 heridos por el ataque israelí a las afueras de Beirut
-===========================================================================
-
-El ataque causó la muerte de al menos nueve personas, mientras que hasta el momento 59 heridos fueron trasladados a hospitales.
--------------------------------------------------------------------------------------------------------------------------------
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/09/Bierut-libano-efe-1.jpg)
-
-El número de **fallecidos** por el **bombardeo israelí** contra un edificio en los suburbios sur de Beirut se eleva ya a nueve y el de **heridos asciende a 59,** informó el Ministerio de Salud Pública del Líbano.
-
-### Más noticias
-
-* [Benjamín Netanyahu se pronuncia tras explosiones en Líbano](https://www.elcomercio.com/actualidad/mundo/netanyahu-se-pronuncia-explosiones-libano.html "Benjamín Netanyahu se pronuncia tras explosiones en Líbano")
-* [Suben a 14 los fallecidos y a 450 los heridos por nuevas explosiones en el Líbano](https://www.elcomercio.com/actualidad/mundo/suben-los-fallecidos-450-heridos-nuevas-explosiones-libano.html "Suben a 14 los fallecidos y a 450 los heridos por nuevas explosiones en el Líbano")
-* [Al menos un fallecido y 100 heridos en nueva oleada de explosiones en Líbano](https://www.elcomercio.com/actualidad/mundo/menos-fallecido-100-heridos-nueva-oleada-explosiones-libano.html "Al menos un fallecido y 100 heridos en nueva oleada de explosiones en Líbano")
-
-El ataque causó la **muerte de al menos nueve personas**, mientras que hasta el momento 59 heridos fueron trasladados a **diferentes hospitales del país**, entre ellos ocho en “estado crítico”, según un comunicado emitido por el Centro de Operaciones de Emergencia del Ministerio.
-
-**Ambulancias de la Defensa Civil y la Cruz Roja libanesa** continúan trasladando heridos desde la zona, muchos de ellos ancianos, y los equipos de emergencias han pedido a la población que no abarrote el lugar para permitir su paso, según la Agencia Nacional de Noticias (ANN).
-
-Equipos de la Defensa Civil Libanesa están **buscando supervivientes** entre los escombros de dos edificios que se derrumbaron, indicó dicha organización en su cuenta de X.
-
-Fuentes de Defensa citadas por la prensa israelí aseguran que el **objetivo del ataque** era el alto comandante de **Hizbulá Ibrahim Aqil,** aunque este extremo aún no ha sido confirmado oficialmente por el Ejército del Estado judío ni por el grupo libanés.
-
-Este es el tercer bombardeo perpetrado por Israel contra el Dahye desde el inicio de su fuego cruzado con Hizbulá hace casi un año.
-
-Los dos anteriores mataron respectivamente al número dos de la oficina política en el movimiento islamista palestino Hamás, Saleh al Arouri, el pasado enero; y al máximo comandante militar de Hizbulá, Fuad Shukr, a finales del pasado julio.
-
-La acción de este viernes 20 de septiembre de 2024 se produce en medio de una **creciente tensión**, después de que esta semana dos olas de **explosiones simultáneas** en miles de aparatos de comunicación portados por integrantes de Hizbulá mataran a 37 personas e hirieran a casi 3 000 en el Líbano. 
-
-¿Cuánto tardó Gonzalo Plata en marcar con sus nuevos equipos?
-=============================================================
-
-Gonzalo Plata ahora milita en Flamengo, su quinto equipo como profesional.
---------------------------------------------------------------------------
-
-![Gonzalo Plata en un partido con Flamengo en 2024.](https://www.elcomercio.com/wp-content/uploads/2024/09/ENDRICK-PALMEIRAS-2024-09-20T105214.602.jpg)
-
-La travesía de **Gonzalo Plata en Flamengo** comenzó con buen pie, logrando dos titularidades en sus primeros dos partidos. Ya ha debutado tanto en el Campeonato Brasileño como en la **Copa Libertadores**, donde estuvo cerca de marcar.
-
-En sus primeras actuaciones, Plata ha dejado una impresión positiva. Su estilo de juego y la peligrosidad que genera por las bandas ya han sido bien recibidos en **Brasil**.
+El 6 de marzo de 1997 se abrieron por primera vez las **puertas del Rodrigo Paz Delgado** en un amistoso con victoria de 3-1 ante el Atlético Mineiro con goles de Mané Ferreira, Paúl Guevara y Patricio Hurtado. 
 
 ### Más noticias:
 
 * [‘Palazo’ de Gonzalo Plata y Flamengo con un pie afuera de Copa Libertadores](https://www.elcomercio.com/deportes/flamengo-penarol-gonzalo-plata-libertadores.html "‘Palazo’ de Gonzalo Plata y Flamengo con un pie afuera de Copa Libertadores")
-* [Gonzalo Plata brilla en Flamengo tras un debut auspicioso](https://www.elcomercio.com/deportes/futbol/gonzalo-plata-flamengo-debut-brasil-vasco.html "Gonzalo Plata brilla en Flamengo tras un debut auspicioso")
-* [¿Cuándo debuta Gonzalo Plata en Flamengo?](https://www.elcomercio.com/deportes/futbol/gonzalo-plata-debut-flamengo-brasil.html "¿Cuándo debuta Gonzalo Plata en Flamengo?")
+* [¿Cuál es el historial de partidos entre Liga de Quito y El Nacional?](https://www.elcomercio.com/deportes/liga-quito-nacional-historial-liga-pro.html "¿Cuál es el historial de partidos entre Liga de Quito y El Nacional?")
+* [Anderson Julio y Leonardo Campana, ¿opciones para la Selección de Ecuador?](https://www.elcomercio.com/deportes/futbol/anderosn-julio-leonardo-campana-seleccion.html "Anderson Julio y Leonardo Campana, ¿opciones para la Selección de Ecuador?")
 
-Aunque ha mostrado destellos de su talento, aún le falta concretar con un gol para sellar oficialmente su llegada a suelo carioca. En su último partido de **Libertadores**, durante la derrota 0-1 ante Peñarol, estrelló un remate en el poste, por lo que su primer gol parece estar cerca.
+Liga tiene registradas tres goleadas de 7-0 en su estadio. La primera fue el **29 de diciembre de 1998 en la final** ante Emelec con tantos de Ulises de la Cruz (3 goles), Eduardo Hurtado (2), Álex Escobar y un autogol de Pavel Caicedo.
 
-¿Cuánto tarda Gonzalo Plata en marcar?
---------------------------------------
+Otro de los estruendosos 7-0 fue el **19 de noviembre de 2009 en la semifinal de ida de la Copa Sudamericana**, que después ganó, ante River Plate de Uruguay. 
 
-A lo largo de su carrera, Gonzalo Plata no se ha destacado por anotar de inmediato, pero su impacto en el juego siempre es notorio.
+Claudio Bieler (3), Carlos Espínola, Miller Bolaños, Édison Méndez y Ulises de la Cruz fueron los goleadores aquella noche con la presencia de más de 30 000 espectadores que disfrutaron de esta paliza internacional. 
 
-En **Independiente del Valle**, donde debutó profesionalmente, Plata anotó su primer gol al noveno partido, ante Delfín, tras más de 500 minutos jugados en la Liga Pro 2018.
+Pero una de las goleadas que más han **disfrutado los hinchas albos fue el 7-0 ante El Nacional**, uno de sus clásicos rivales, que no presentó resistencia al vendaval blanco. 
 
-Luego, en su primera aventura en Europa con el **Sporting de Portugal**, Plata necesitó más de 200 minutos, distribuidos en nueve partidos, para marcar su primer gol, el cual llegó ante el Boavista en la temporada 19/20, en un partido donde también brindó una asistencia.
+![Foto: Archivo histórico EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/09/liga_golea_3-1024x683.jpg)
 
-En el **Real Valladolid**, cuando estaba en la segunda división española, Gonzalo tardó 310 minutos en anotar su primer gol. Convirtió ante el Real Sporting en su séptimo partido de la temporada 21/22.
+Foto: Archivo histórico EL COMERCIO.
 
-![El ecuatoriano marcó el tercer tanto del partido. Foto: Agencia EFE](https://www.elcomercio.com/wp-content/uploads/2023/05/gonzalo-plata-titular-figura-barcelona-ecuatoriano-marco-700x391.jpg)
+Goleada en el Día del Padre y despedida del ‘Toño’
+--------------------------------------------------
 
-Ya en la primera división de España, durante la siguiente temporada, **Plata** se demoró más de 2.100 minutos para anotar su primer gol, el cual llegó en un duelo ante el FC Barcelona después de 34 partidos.
+El 19 de junio de 2005 se jugó la fecha 16 del Torneo Apertura. **LDU recibió a El Nacional** en el Rodrigo Paz Delgado en medio de los festejos del Día del Padre. 
 
-En su paso por el **Al Sadd de Catar**, Plata se estrenó rápidamente, anotando su primer gol en apenas su segundo partido, con poco más de 140 minutos disputados, en un encuentro de la Qatar Stars League contra el Al-Ahli.
+El partido se resolvió con tres tantos en el primer tiempo y cuatro en el segundo con lo que se selló un nuevo **7-0 que ahondó más la rivalidad deportiva** entre ambas instituciones. 
 
-![Gonzalo Plata quedó campeón de la Liga de Qatar con el Al Sadd.](https://www.elcomercio.com/wp-content/uploads/2024/04/ENDRICK-PALMEIRAS-5-1024x683.jpg)
+Gabriel García (2), Ariel Graziani, Carlos Castro (autogol), Carlos Espínola, Franklin Salas y Luis Miguel Garcés fueron los autos de los siete tantos universitarios. 
 
-¿Cuándo vuelve a jugar Gonzalo Plata?
--------------------------------------
+Otra particularidad fue que **Antonio Valencia (16’), Erick de Jesús (32’) y Jorge Guagua (85’)** salieron expulsados. 
 
-El siguiente partido de Gonzalo Plata con Flamengo será el domingo 22 de septiembre, cuando el ‘Mengao’ visite a Gremio por el Campeonato Brasileño. El encuentro se jugará en la Arena do Gremio y está programado para las 16:30 (hora de Ecuador).
+Para el ‘Toño’ Valencia ese fue su último partido con la camiseta del rojo y nunca más volvió a vestirla. 
 
-Votantes creen que Kamala Harris se beneficia de respaldo de Taylor Swift
-=========================================================================
+Fue transferido al Villarreal, **luego paso por el Recreativo de Huelva**, Wigan Athletic, Manchester United, Liga de Quito y Querétaro. 
 
-Entrevistados respondieron que Taylor Swift beneficiará "fuertemente a la campaña" de la demócrata.
----------------------------------------------------------------------------------------------------
+El entrenador de los albos era el peruano Juan Carlos Oblitas, campeón en ese Torneo Apertura, **mientras que los rojos estaban dirigidos por Ever Hugo Almeida**, campeón del Torneo Clausura y del campeonato 2006.
 
-![Taylor Swift en una imagen de archivo.](https://www.elcomercio.com/wp-content/uploads/2024/09/Taylor-swift-efe.jpg)
+En el todos contra todos, **LDU fue primero en las tabla de posiciones con 41 puntos**, El Nacional segundo con 33 y Barcelona Sporting Club con 26.  
 
-Un 58 % de posibles votantes a escala nacional cree que el apoyo que le da el icono [Taylor Swift](https://www.elcomercio.com/tendencias/taylor-swift-kamala-harris-donald-trump-elecciones.html "https://www.elcomercio.com/tendencias/taylor-swift-kamala-harris-donald-trump-elecciones.html") a la vicepresidenta de EE.UU., [Kamala Harris](https://www.elcomercio.com/actualidad/mundo/jefa-campana-harris-advierte-retorica-de-trump.html "https://www.elcomercio.com/actualidad/mundo/jefa-campana-harris-advierte-retorica-de-trump.html"), beneficia a la candidata demócrata, según una encuesta divulgada este jueves por la Florida Atlantic Univesity (FAU).
+En los play-off los albos derrotaron a Olmedo en los cuartos de final; Deportivo Cuenca en las semifinales; y doblegaron a Barcelona SC en la final. 
+
+El Nacional en los cuartos de final derrotó a Aucas y en las **semifinales cayó ante Barcelona** en un recordado partido que se definió a favor de los guayaquileños en la parte final de juego.  
+
+El sábado 21 de septiembre de 2024, desde las 16:30, se enfrentarán nuevamente Liga de Quito y El Nacional en el Rodrigo Paz Delgado, por la octava fecha de la segunda etapa de la Liga Pro. 
+
+Alineación de Liga de Quito
+---------------------------
+
+Cristhian Mora; Néicer Reasco, Geovanny Espinoza, Carlos Espínola, Paúl Ambrosi; Édison Méndez (Álex Aguinaga), Alfonso Obregón, **Patricio Urrutia, Roberto Palacios; Gabriel García (Franklin Salas)** y Ariel Graziani (Luis Miguel Garcés).
+
+DT: Juan Carlos Oblitas.
+
+Alineación de El Nacional 
+--------------------------
+
+Johvani Ibarra; Omar de Jesús, Jorge Guagua, Carlos Castro, Erick de Jesús; Antonio Valencia, Segundo Castillo, **David Quiroz (Jimmy Bran), Christian Lara**; Christian Benítez (Pavel Caicedo) y Félix Borja (David Valencia).
+
+DT: Éver Hugo Almeida.
+
+![Foto: Archivo histórico EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/09/liga_golea_2-1024x683.jpg)
+
+Foto: Archivo histórico EL COMERCIO.
+
+No te pierdas – El Confesionario
+--------------------------------
+
+Gobierno suspende entrega de combustible a gasolineras cercanas a Aquiles Alvarez
+=================================================================================
+
+La ARCH notificó la suspensión al grupo Alva3, consorcio a cargo de las gasolineras Copedesa.
+---------------------------------------------------------------------------------------------
+
+![El alcalde de Guayaquil señaló, a través de sus abogados, que enfrenta una persecución política](https://www.elcomercio.com/wp-content/uploads/2024/09/a-alvarez-a.jpg)
+
+La Agencia de Regulación y Control de Hidrocarburos (**ARCH**) suspendió la **entrega de combustible** al grupo Alva3, consorcio a cargo de la empresa Copedesa, vinculada al alcalde de Guayaquil, **Aquiles Alvarez**, y su familia.
+
+Según detalló **José Luis Neira**, secretario general de Integridad Pública, a través de un video difundido en redes sociales este viernes 20 de septiembre de 2024, la medida se realizó tras detectarse un **presunto contrabando de combustible**.
 
 ### Más noticias
 
-* [Jefa de la campaña de Kamala Harris advierte sobre la retórica de Donald Trump](https://www.elcomercio.com/actualidad/mundo/jefa-campana-harris-advierte-retorica-de-trump.html "https://www.elcomercio.com/actualidad/mundo/jefa-campana-harris-advierte-retorica-de-trump.html") 
-* [Donald Trump dice que recibió una ‘llamada muy amable’ de Kamala Harris](https://www.elcomercio.com/actualidad/donald-trump-dice-recibio-una-llamada-amable-kamala-harris.html "https://www.elcomercio.com/actualidad/donald-trump-dice-recibio-una-llamada-amable-kamala-harris.html")
-* [Campaña de Kamala Harris lanza un anuncio en español para atraer a latinos](https://www.elcomercio.com/actualidad/mundo/campana-kamala-harris-lanza-anuncio-espanol-para-atraer-latinos.html "https://www.elcomercio.com/actualidad/mundo/campana-kamala-harris-lanza-anuncio-espanol-para-atraer-latinos.html")
+* [TCE admite una nueva denuncia contra Aquiles Alvarez](https://www.elcomercio.com/actualidad/politica/tce-admite-una-nueva-denuncia-contra-aquiles-alvarez.html "TCE admite una nueva denuncia contra Aquiles Alvarez")
+* [Agencia de control clausura gasolinera vinculada a la familia de Alcalde de Guayaquil](https://www.elcomercio.com/actualidad/negocios/agencia-de-control-clausura-gasolinera-vinculada-a-la-familia-de-alcalde-de-guayaquil.html "Agencia de control clausura gasolinera vinculada a la familia de Alcalde de Guayaquil")
+* [Aquiles Alvarez es denunciado ante el TCE por la asambleísta Lucía Jaramillo](https://www.elcomercio.com/actualidad/politica/aquiles-alvarez-denunciado-ante-tce-asambleista-lucia-jaramillo.html "Aquiles Alvarez es denunciado ante el TCE por la asambleísta Lucía Jaramillo")
 
-Apoyo de Taylor Swift a Kamala Harris
--------------------------------------
+Neira afirma que las irregularidades beneficiaron a los exaccionistas de **Copedesa** con más de **94 millones de dólares**, entre ellos, a “quien administra los fondos públicos (de Guayaquil)”, manifestó.
 
-A la pregunta ‘**¿En qué medida cree que este respaldo influirá en la elecciones entre Kamala Harris** y Donald Trump?’, un 25 % de los entrevistados respondió que beneficiará **“fuertemente a la campaña”** de la demócrata y un 33 % dice que le dará un “ligero impulso”.
+Este cálculo corresponde a los perjuicios que se habrían hecho al Estado durante los **últimos tres años** por la venta de más de 62,6 millones de galones de combustible:
 
-No obstante, un 32 % cree que el apoyo de la **cantante a Harris “no tendrá un impacto real”** en el resultado de las elecciones presidenciales.
+* **2021:** 13 588 415 millones de dólares
+* **2022:** 47 373 269 millones de dólares
+* **2023:** 33 103 176 millones de dólares
 
-Y solo el 10 % piensa que el **respaldo a Harris de la multipremiada artista,** la más escuchada en los últimos años a nivel internacional en plataformas como Spotify, dará algún beneficio a Trump, según una encuesta sobre las elecciones a nivel nacional realizada el 16 y 17 de septiembre.
+¿Cómo se realizó el presunto contrabando?
+-----------------------------------------
 
-“El valor clave del apoyo de Swift puede ser la **activación de los votantes** más jóvenes que de otra manera no habrían votado”, dijo Luzmarina García Ph.D., profesora adjunta de Ciencias Políticas de la FAU.
+El funcionario explicó que los exaccionistas de Copedesa se beneficiaron de los **subsidios** que da el estado al sector.
 
-Para García, el apoyo de celebridades a un candidato “puede aumentar la **participación y la visibilidad** de las elecciones, aunque no está claro si los apoyos persuaden a los votantes”.
+En palabras de Neira, “se habrían hecho millonarios de la noche a la mañana” al presuntamente desviar los combustibles de un **segmento** a otro, a través de las **ocho empresas** que forman parte del grupo Alva3.
 
-En la encuesta divulgada por la FAU, Harris aventaja en cinco puntos porcentuales en intención de voto a su rival republicano, el expresidente Donald Trump (2017-2021).
+Los subsidios se aplican para el sector automotriz, industrial o naviero; pero deben destinarse **exclusivamente** para ese segmento.
 
-Harris obtendría en estos momentos, de celebrarse unas **elecciones presidenciales, el 50 % frente al 45 %** del republicano, con un margen de error de +/- 3,4 puntos porcentuales, casi un empate técnico.
+Lo que se presume que hacían los exaccionistas, por ejemplo, es beneficiarse del subsidio recibido para autos y utilizarlo en la industria.
 
-En la encuesta a escala nacional anterior de FAU, publicada el 27 de agosto, los resultados fueron muy similares: **49 % para Harris y 45 % para Trump**, lo que podría significar que la carrera presidencial ha entrado en una fase estática.
+El Secretario afirmó que la ARCH y el Servicio de Rentas Internas (SRI) se encuentran cruzando información para “identificar y denunciar este mal comportamiento”.
 
-También pudiera ser que el repunte obtenido tras la **Convención Nacional Demócrata** (DNC, en inglés) y el efecto del debate presidencial entre Trump y Harris “han mantenido los avances” de los demócratas, señaló Kevin Wagner, politólogo de la FAU.
+El funcionario enfatizó que el caso denominado **Triple A** “no es una persecución política”.
 
-A pesar de que la encuesta se realizó el 16 y 17 de septiembre, tras el intento de asesinato frustrado de Trump en el campo de golf Trump International, cerca de West Palm Beach (Florida), Wagner dijo que los resultados del sondeo pueden no reflejar las opiniones de las personas sobre lo que sucedió.
+Neira lo argumentó en que “al momento que se cometió el delito, (Alvarez, sin mencionarlo) no estaba afiliado a ningún partido político”.
 
-Los hallazgos de FAU están en línea con **algunas encuestas nacionales** más recientes. El rastreador de encuestas nacionales del New York Times del jueves mostró que Harris tenía un promedio de 49 % frente al 47 % para Trump. 
+La notificación de la **suspensión** de entrega de combustible suma un nuevo golpe para Alva3, quien este jueves 19 de septiembre, vio clausurada una de las **gasolineras** de Copedesa.
 
-Ciudades de Ecuador tuvieron cortes de luz el 20 de septiembre
-==============================================================
+> El contrabando de combustible ha beneficiado a exaccionistas de COPEDESA S.A. con más de $94 millones en 3 años, causando un gran perjuicio al 🇪🇨. La ARCH suspendió la entrega de combustible a las comercializadoras y distribuidoras del Grupo ALVA3. ¡En [#ElNuevoEcuador](https://twitter.com/hashtag/ElNuevoEcuador?src=hash&ref_src=twsrc%5Etfw), no… [pic.twitter.com/IMm3WkbuSL](https://t.co/IMm3WkbuSL)
+> 
+> — José Julio Neira (@JoseJulioNeira) [September 20, 2024](https://twitter.com/JoseJulioNeira/status/1837222075880329531?ref_src=twsrc%5Etfw)
 
-Estos cortes de luz no estaban programados. La ciudadanía alertó sobre estos apagones en las redes sociales.
-------------------------------------------------------------------------------------------------------------
+Alcalde de Guayaquil reaccionó
+------------------------------
 
-![El Gobierno del Ecuador anunció más cortes de luz a escala nacional.](https://www.elcomercio.com/wp-content/uploads/2024/09/Cortes-de-luz-Ecuador.jpg)
+A las pocas horas del cierre de la gasolinera, el **alcalde de Guayaquil** difundió un mensaje a través de su red social X.
 
-Varias ciudades de **Ecuador** experimentaron **cortes** **de luz** durante la madrugada del viernes 20 de septiembre de 2024.
+Si bien, no hizo referencia directa al caso, su discurso se enfocó en la **fortaleza**.
+
+“Nosotros seguimos adelante, Guayaquil seguirá en marcha, siempre. Créanme que nada nos afecta, aunque quieran quebrarnos, más fuertes nos ponen”, señaló Alvarez
+
+Tras citar un pasaje bíblico, el burgomaestre enfatizó: “Ya esto es una lucha entre el bien y el mal; y ojo, siempre gana el bien. Voten bien”, dijo.
+
+> Nosotros seguimos adelante, Guayaquil seguirá en marcha, siempre!!  
+> Créanme que nada nos afecta, aunque quieran quebrarnos, más fuertes nos ponen.  
+>   
+> Nada para a Guayaquil! Estamos más fuertes que nunca 💪🏻💪🏻💪🏻  
+>   
+> Efesios 6:16-18:  
+> Pero sobre todo, tomen el escudo de la fe para…
+> 
+> — Aquiles Alvarez Henriques (@aquilesalvarez) [September 20, 2024](https://twitter.com/aquilesalvarez/status/1836950399510630549?ref_src=twsrc%5Etfw)
+
+Caso Triple A
+-------------
+
+Desde el 11 de julio, Aquiles Alvarez, dos hermanos y otras **ocho personas** naturales y jurídicas son investigados por un presunto contrabando.
+
+Ese día, **Franklin Erreyes**, director de la Agencia de Regulación y Control de Energía y Recursos Naturales No Renovables, presentó la denuncia ante la Fiscalía.
+
+Doce días después, esta entidad ejecutó allanamientos en Milagro y Guayaquil para recoger indicios en el caso.
+
+El mismo día del cierre de las gasolineras
+
+Fuelcorp
+--------
+
+Copedesa Gasgrupco S.A. es una firma que comercializa combustible y cuenta con una red de gasolineras que eran de propiedad de Aquiles Álvarez y sus hermanos.
+
+Esta empresa sería una de las **cuatro compañías** que habrían abastecido de combustible de forma ilegal a la empresa Fuelcorp S.A.
+
+La denuncia detalla que, el grupo de gasolineras Copedesa facturó a la empresa Fuelcorp S.A. más de dos millones de galones de diésel, a pesar de no estar autorizada como comercializadora.
+
+La crisis del maíz impacta en la producción de huevos, pollo y cerdos en Ecuador
+================================================================================
+
+Los avicultores piden que se autorice una importación de maíz urgente. El Gobierno evaluará en octubre.
+-------------------------------------------------------------------------------------------------------
+
+![Los productores de huevos están vendiendo sus gallinas para carne, ya que no consiguen maíz para alimentarlas, según Aprobal. Foto: Pixabay](https://www.elcomercio.com/wp-content/uploads/2024/09/Diseno-sin-titulo-35.jpg)
+
+Los productores de pollo, huevos y cerdos en Ecuador alertan de una grave crisis debido a la falta de maíz. Esta situación está provocando que el sector avicultor tome decisiones drásticas.
+
+“Los productores de huevos están vendiendo sus gallinas para carne, ya que no consiguen maíz para alimentarlas”, explica **Jorge Josse**, director ejecutivo de la **Asociación de Balanceadores** ([Aprobal](https://aprobal.com/ "https://aprobal.com/")).
 
 Más noticias
 ------------
 
-* [¿Cuándo serán los próximos cortes de luz en Ecuador?](https://www.elcomercio.com/actualidad/negocios/cuando-seran-los-proximos-cortes-de-luz-en-ecuador.html "¿Cuándo serán los próximos cortes de luz en Ecuador?")
-* [Cortes de luz generan más costos y riesgos de seguridad en sector logístico de Ecuador](https://www.elcomercio.com/actualidad/negocios/cortes-de-luz-generan-mas-costos-y-riesgos-de-seguridad-en-sector-logistico-de-ecuador.html "Cortes de luz generan más costos y riesgos de seguridad en sector logístico de Ecuador")
-* [Ministerio de Educación anuncia ajustes en horario de clases por cortes de luz](https://www.elcomercio.com/actualidad/ecuador/ministerio-de-educacion-anuncia-ajustes-horarios-clases-cortes-luz.html "Ministerio de Educación anuncia ajustes en horario de clases por cortes de luz")
+* [Sequía y manejo sostenible del agua en Ecuador](https://www.elcomercio.com/opinion/editorial/sequia-y-manejo-sostenible-del-agua-en-ecuador.html "Sequía y manejo sostenible del agua en Ecuador")
+* [Los impactos reales de la sequía aún estamos por descubrir](https://www.elcomercio.com/opinion/editorial/reales-impactos-sequia-estamos-descubrir.html "Los impactos reales de la sequía aún estamos por descubrir")
 
-Estos apagones no estaban programados y ocurrieron alrededor de la 01:00, con una duración aproximada de 45 minutos.
+Los productores de **pollos y cerdos** se encuentran en una posición similar. Dejaron de invertir en nuevos lotes de engorde, lo que afectará la producción futura.
 
-Celec informa sobre los cortes de luz no programados en Ecuador
----------------------------------------------------------------
+Las fábricas de **alimentos balanceados** también reducen su producción por la crisis en la que está el maíz. Este grano es esencial para la alimentación de estas industrias.
 
-Ciudades como Quito y Guayaquil se vieron afectadas por estos cortes. Según Fabián Calero Freire, gerente general de la Corporación Eléctrica del Ecuador (Celec), el evento ocurrió debido a una falla en el sistema.
+La demanda anual de maíz en Ecuador es de 1 560 000 toneladas, pero la cosecha de este año alcanzará solo un millón de toneladas, lo que resulta en un déficit de 560 mil toneladas. Estos son los cálculos que realizó Aprobal y que evidencian el problema que están afrontando.
 
-En una entrevista con Teleamazonas, Calero explicó: “Hubo una falla, pero asociada a un problema que está siendo identificado, un tema imprevisto. Probablemente, esto desconectó la línea Sopladora-Esclusas”.
+Para cubrir parcialmente esta falta, ha ingresado maíz de contrabando desde Perú y se han utilizado otros subproductos de la molinería.
 
-Próximos cortes de luz
-----------------------
+“Ha ingresado maíz de contrabando del Perú y se ha utilizado, hasta donde se ha podido, otros subproductos de la molinería”, enfatiza Josse.
 
-El presidente Daniel Noboa ha anunciado tres nuevas jornadas de cortes de luz. Aún no se ha especificado si estos apagones serán de ocho horas o si, nuevamente, serán focalizados por las empresas eléctricas.
+Hasta ahora han cubierto 250 mil toneladas del déficit, pero aún quedan por cubrir 300 mil toneladas hasta abril de 2025.
 
-Lo que está confirmado es que las suspensiones tendrán lugar el lunes 23, martes 24, miércoles 25 y jueves 26 de septiembre. Los cortes se realizarán entre las 22:00 y las 06:00, con el objetivo de minimizar el impacto en la vida cotidiana de los ecuatorianos, según informó el Gobierno.
+La producción de maíz de cuatro provincias en crisis
+----------------------------------------------------
 
-Por el momento, no se han programado cortes de luz a nivel nacional para este viernes 20, sábado 21 y domingo 22 de septiembre, excepto en casos de mantenimientos preventivos o correctivos urgentes.
+Las principales provincias productoras también enfrentan caídas significativas en su producción. Estas son las cifras que maneja el sector: **Manabí**, en condiciones favorables, produce hasta 450 mil toneladas, pero este año solo alcanzó 300 mil. En **Los Ríos**, la producción esperada era de 400 mil toneladas, pero se quedará en 330 mil. **Guayas y Loja** también reportan descensos en su producción.
 
-Otras medidas de austeridad
----------------------------
+Para este sector, la solución más urgente es autorizar la importación de al menos 300 mil toneladas de maíz. Este producto podría llegar gradualmente desde diciembre de 2024 hasta febrero de 2025, justo cuando ya no habrá cosecha nacional disponible. El 60% del maíz se destina a la producción avícola, lo que representa aproximadamente 936 mil toneladas anuales.
 
-El ministro Antonio Gonçalves confirmó que Ecuador ya está implementando el bombardeo de nubes para mitigar los efectos de la sequía en la generación hidroeléctrica.
+Una posible importación de maíz se evaluará en octubre
+------------------------------------------------------
 
-Además, el Gobierno ha adoptado otras medidas para ahorrar electricidad, como el teletrabajo en las instituciones públicas los días jueves 19 y viernes 20 de septiembre, con planes para repetir esta medida el jueves 26 y viernes 27 de septiembre.
+El **Ministerio de Agricultura y Ganadería (MAG)** evalúa la posibilidad de importar **maíz duro amarillo** en respuesta a la escasez actual. Esta decisión se basa en un análisis del balance entre oferta y demanda, que considera los rendimientos de la cosecha. Si se determina un déficit de producción local, se podrá autorizar la importación, aunque se priorizará el consumo del maíz nacional.
 
-El sistema educativo también se ajustará debido a los racionamientos eléctricos programados para la próxima semana. El Ministerio de Educación anunció que, desde el viernes 20 hasta el viernes 27 de septiembre, las escuelas y colegios modificarán sus horarios. La jornada matutina comenzará una hora más tarde de lo habitual, mientras que la jornada nocturna terminará a las 20:00. Los estudiantes de la jornada vespertina mantendrán sus horarios sin cambios.
+Esta previsto que la cartera de Estado presente el balance de la oferta y demanda en **octubre**. Con esto se podría definir la cantidad de importación necesaria, tomando como referencia el año anterior.
 
-Estados Unidos se acerca a las elecciones en medio de intentos de asesinatos y hackeos
-======================================================================================
+En diciembre del 2023 se autorizó la importación de **91 566** toneladas métricas de maíz amarillo duro, mientras que en el 2022 fue de **166 103** toneladas.
 
-Hackers iraníes mandaron a finales del pasado junio y principios de julio a la campaña demócrata correos electrónicos no solicitados con material robado.
----------------------------------------------------------------------------------------------------------------------------------------------------------
+Solo las empresas que absorbieron su producción en el año previo podrían acceder a las importaciones. En los últimos tres años, entre **25 a 29** empresas han importado maíz.
 
-![Donald Trump en una fotografía de archivo.](https://www.elcomercio.com/wp-content/uploads/2024/09/donald-trump-efe--2.jpg)
+La cosecha de verano, que tradicionalmente abastece el mercado hasta noviembre, ha sido impactada por condiciones climáticas adversas y sequías. De manera global, el ministro de Agricultura, informó que se han perdido **7 700 hectáreas**, por este problema.
 
-Las elecciones estadounidenses del 5 de noviembre de 2024, suman ya **dos intentos de asesinato** contra el candidato republicano [Donald Trump](https://www.elcomercio.com/actualidad/mundo/donald-trump-se-salva-de-un-segundo-atentado-en-su-contra.html "https://www.elcomercio.com/actualidad/mundo/donald-trump-se-salva-de-un-segundo-atentado-en-su-contra.html") y denuncias frecuentes de ciberataques iraníes. Acumulan un nivel de **violencia inédito**, que abre el interrogante sobre su impacto en las urnas.
+Para controlar la situación, el Ministerio dice que realizan operativos para evitar la especulación y se mantienen conversaciones con productores para asegurar precios justos. El precio mínimo de sustentación por quintal de maíz amarillo duro es de **16,50 dólares**. Aunque los avicultores reportan que lo compran a **22 dólares** en el mercado.
 
-### Más noticias
+Para aumentar la producción y reducir la dependencia de importaciones, el MAG señala que entrega paquetes tecnológicos, da capacitación a agricultores y hace mejoras en la infraestructura de riego. Además, se busca fomentar inversiones en el cultivo mediante alianzas con el sector privado.
 
-* [Campaña de Donald Trump confía en el apoyo de los latinos](https://www.elcomercio.com/actualidad/mundo/campana-donald-trump-confia-apoyo-latinos.html "https://www.elcomercio.com/actualidad/mundo/campana-donald-trump-confia-apoyo-latinos.html")
-* [Donald Trump dice que recibió una ‘llamada muy amable’ de Kamala Harris](https://www.elcomercio.com/actualidad/donald-trump-dice-recibio-una-llamada-amable-kamala-harris.html "https://www.elcomercio.com/actualidad/donald-trump-dice-recibio-una-llamada-amable-kamala-harris.html")
-* [Donald Trump se salva de un segundo atentado en su contra](https://www.elcomercio.com/actualidad/mundo/donald-trump-se-salva-de-un-segundo-atentado-en-su-contra.html "https://www.elcomercio.com/actualidad/mundo/donald-trump-se-salva-de-un-segundo-atentado-en-su-contra.html")
+Daniel Noboa hizo una propuesta sobre el financiamiento a organizaciones políticas
+==================================================================================
 
-En junio, en un mitin en Butler (Pensilvania), el exmandatario conservador fue **herido de bala en una oreja** y unos de sus simpatizantes murió. Esto mientras que en la segunda tentativa, el pasado domingo, el **sospechoso fue arrestado** antes de llegar a disparar el rifle AK-47 con el que lo vigilaba en las inmediaciones de su club de golf en Florida.
+Daniel Noboa envió la propuesta sobre el financiamiento a organizaciones políticas a la Corte Constitucional.
+-------------------------------------------------------------------------------------------------------------
 
-La campaña adquirió un nuevo giro en unos comicios ya de por sí históricos después de que Joe Biden renunciara el 21 de julio a la **reelección tras las crecientes dudas sobre su capacidad física** y mental y acabara tomando su relevo la vicepresidenta, Kamala Harris.
+![El presidente Daniel Noboa envió la propuesta sobre el financiamiento a organizaciones políticas a la Corte Constitucional.](https://www.elcomercio.com/wp-content/uploads/2024/09/Daniel-Noboa-campana.jpg)
 
-Estados Unidos ha llegado hasta ahí por su creciente nivel de polarización, afirma Thomas Hollihan, profesor de Comunicación en la Escuela de Periodismo Annenberg de la Universidad de California del Sur (USC).
+El presidente Daniel Noboa hizo una propuesta sobre el financiamiento de organizaciones políticas, este viernes 20 de septiembre de 2024.
 
-Donald Trump y sus discursos
-----------------------------
-
-Tanto la polarización como la presencia, en su opinión, de alguien como Trump, que “ha roto todas las normas del discurso civil en la manera en la que demoniza” a sus oponentes y a comunidades inmigrantes como la haitiana. A esta úlitma acusa falsamente de **comerse las mascotas de sus vecinos,** y en que se sigue resistiendo a aceptar los resultados de 2020.
-
-Los republicanos, no obstante, culpan de la situación que ha llevado a esta violencia política al bando contrario. Trump opinó esta semana en Fox News que la retórica de los líderes demócratas está causando que se dispare contra él, pese a que tanto Harris como Biden han criticado lo sucedido y respaldado que se aumente la seguridad en torno a su rival.
-
-“A falta de propuestas para los problemas que ellos mismos se han encargado de crear, lo único en lo que han apoyado su campaña **es en atacar a Trump**. No le están diciendo a la gente voten por nosotros, sino voten contra Trump o eliminen a Trump porque es un peligro para la democracia”, dice a EFE Jaime Florez, portavoz en la campaña conservadora.
-
-Esta semana la ONG IDEA Internacional había adelantado que la democracia estadounidense experimentó un “periodo de contracción” de 2017 a 2021, coincidiendo con el mandato de Trump, y que aunque ha experimentado mejoras baremos como el de la credibilidad en los comicios siguen más débiles que en 2015.
-
-El movimiento por los derechos civiles en EE.UU. en los sesenta y la guerra civil de mediados del siglo XIX reflejaron previamente una división intensa. Y en 1912 Theodore Roosevelt sufrió un intento de asesinato cuando postulaba para un tercer mandato que no consiguió, pero la **cultura mediática actual,** según el experto de la USC, ha magnificado el impacto de la brecha.
-
-Desde el equipo demócrata se hizo un llamamiento a la desescalada: “La **violencia política** de cualquier tipo es inaceptable. Debemos tener un **diálogo civil** y poder hablar de nuestras diferencias”, dijo esta semana Harris.
-
-Pero los ataques no son solo físicos. Hackers iraníes mandaron a finales del pasado junio y principios de julio a la campaña demócrata correos electrónicos no solicitados con material robado del equipo rival, según dijo el miércoles el FBI.
-
-No hay constancia de que los demócratas respondieran al recibir los mensajes, pero esos envíos se suman a la denuncia efectuada en agosto por las agencias de inteligencia de EE.UU., para quienes Irán y otros actores como **Rusia o China** aumentan sus actividades de **injerencia electoral** con la voluntad de moldear los resultados a su favor.
-
-De momento Harris se mantiene en cabeza en la media nacional de encuestas efectuada por la web FiveThirtyEight, 2,8 puntos por delante de Trump, hasta un porcentaje del 48,3 % en las intenciones de voto.
-
-Está por ver el impacto del actual clima político en la participación en noviembre. En 2020, cuando el duelo se disputó entre Biden y Trump, votó el 66,8 %, la cifra más elevada del siglo XXI en el país.
-
-Los republicanos están confiados: “Los **votantes se van a dar cuenta a tiempo de dos cosas importantes.** La primera, el contraste con lo que fue la Administración de Trump en materia de control de frontera, prosperidad económica y respeto internacional hacia Estados Unidos y la otra, ¿quiénes son realmente los que atentan contra la democracia?”, concluye Flórez.
-
-Liga de Quito vs. El Nacional, el partido principal de la Liga Pro
-==================================================================
-
-La Liga Pro retoma su acción con la séptima fecha, destacando un enfrentamiento de titanes.
--------------------------------------------------------------------------------------------
-
-![Lisandro Alzugaray en un partido con Liga de Quito en la Liga Pro 2024.](https://www.elcomercio.com/wp-content/uploads/2024/09/ENDRICK-PALMEIRAS-2024-09-20T092806.726.jpg)
-
-La séptima jornada de la **Liga Pro** arranca este viernes 20 de septiembre. Sin embargo, el duelo más esperado se jugará un día después, el sábado 21 de septiembre, cuando **Liga de Quito** reciba a El Nacional en el Estadio Rodrigo Paz Delgado.
-
-Es un partido crucial para los albos y su entrenador Pablo ‘Vitamina’ Sánchez, quienes buscarán reponerse tras la dolorosa goleada sufrida ante Imbabura (4-0) en la jornada anterior. A pesar del tropiezo, la ‘U’ **sigue liderando la segunda etapa** de la Liga Pro con 15 puntos en seis fechas.
+Se trata de una reforma a los artículos 110 y 115 de la Constitución.
 
 ### Más noticias:
 
-* [¿Cuál es el historial de partidos entre Liga de Quito y El Nacional?](https://www.elcomercio.com/deportes/liga-quito-nacional-historial-liga-pro.html "¿Cuál es el historial de partidos entre Liga de Quito y El Nacional?")
+* [El Gobierno de Daniel Noboa pidió al sector privado encender sus generadores de electricidad](https://www.elcomercio.com/actualidad/ecuador/gobierno-invito-sector-privado-prender-generadores-electricidad.html "El Gobierno de Daniel Noboa pidió al sector privado encender sus generadores de electricidad")
+* [Daniel Noboa reaccionó a ‘apagón’ en la Asamblea](https://www.elcomercio.com/actualidad/politica/daniel-noboa-reacciono-contra-legisladores-apagon-asamblea.html "Daniel Noboa reaccionó a ‘apagón’ en la Asamblea")
+* [Daniel Noboa confirmó su asistencia a la Asamblea General de la ONU](https://www.elcomercio.com/actualidad/politica/daniel-noboa-viaje-asamblea-onu.html "Daniel Noboa confirmó su asistencia a la Asamblea General de la ONU")
+
+Actualmente, las organizaciones políticas, movimientos y partidos son financiados por el Estado para su funcionamiento y para la difusión de su publicidad electoral.
+
+Daniel Noboa señaló que propone una reforma constitucional para que “el dinero de los ecuatorianos no vaya a quienes ven la candidatura política como un negocio”.
+
+La propuesta de Daniel Noboa sobre el financiamiento a organizaciones políticas
+-------------------------------------------------------------------------------
+
+El presidente Daniel Noboa envió a la Corte Constitucional un proyecto de reforma parcial a la Constitución.
+
+El documento plantea reformar los artículos 110 y 115 de la Constitución, los cuales se refieren al financiamiento del Estado a las organizaciones políticas.
+
+Noboa sugiere que se retire al Estado la responsabilidad de financiar el funcionamiento de partidos y movimientos políticos.
+
+Además, que el Estado no sea responsable de financiar la difusión de la publicidad electoral de dichas organizaciones.
+
+“El Ejecutivo busca evitar el mal uso de los recursos públicos que son otorgados a los candidatos y que, históricamente, no han sido debidamente justificados y transparentados”, señaló la Presidencia.
+
+Estos fondos, “que antes eran destinados a quienes solo buscaban aprovecharse de esta asignación”, podrán ser otorgados a otras áreas como salud, educación, seguridad y otros, agregó.
+
+Trámite y tiempo de aplicación de la propuesta de Daniel Noboa sobre el financiamiento a organizaciones políticas
+-----------------------------------------------------------------------------------------------------------------
+
+La Presidencia señala que la propuesta precautela que- de forma equitativa e igualitaria- se propicie el debate entre los candidatos.
+
+El debate sería el espacio mediante el cual se dará paso a la presentación de cada uno de los planes de trabajo.
+
+El Ejecutivo aclara que esta reforma no afectaría las próximas elecciones de 2025.
+
+Daniel Noboa envió la propuesta a la Corte Constitucional con la solicitud de control previo del procedimiento de reforma parcial a la Constitución de la República.
+
+Esta entidad deberá pronunciarse, a través de un dictamen, respecto de la vía a través de la cual se debe tramitar esta reforma.
+
+Una vez cumplido ese paso, la iniciativa iría a conocimiento de la Asamblea Nacional.
+
+Antonio Valencia, el crack que dividió El Nacional y Liga de Quito
+==================================================================
+
+Antonio Valencia jugó en se formó y debutó en El Nacional y regresó para terminar su carrera en Liga de Quito.
+--------------------------------------------------------------------------------------------------------------
+
+![Antonio Valencia en sus etapas como jugador de El Nacional y Liga de Quito.](https://www.elcomercio.com/wp-content/uploads/2024/09/valencia_nacho_liga_1.jpg)
+
+**Antonio Valencia** es uno de los mejores jugadores ecuatorianos del siglo XXI en clubes y en la Selección de Ecuador con la que jugó los mundiales de Alemania 2006 como una joven promesa, y Brasil 2014 consolidado como figura.
+
+La carrera de Antonio Valencia lo llevo a jugar en equipos de **Ecuador, España, Inglaterra y México** con un gran suceso y en los que fue una figura preponderante por la zona derecha de la cancha que hizo que sea apodado el ‘Tren amazónico’.
+
+### Más noticias:
+
 * [‘Vitamina’ Sánchez hará cambios en Liga de Quito ante El Nacional](https://www.elcomercio.com/deportes/liga-quito-cambios-vitamina-sanchez-el-nacional.html "‘Vitamina’ Sánchez hará cambios en Liga de Quito ante El Nacional")
-* [¿Cuándo juega Liga de Quito?](https://www.elcomercio.com/deportes/futbol/cuando-juega-liga-quito-nacional-ligapro.html "¿Cuándo juega Liga de Quito?")
+* [Segundo Portocarrero se paró sobre el balón y armó una pelea](https://www.elcomercio.com/deportes/futbol/segundo-potocarrero-universitario-peru-pelea.html "Segundo Portocarrero se paró sobre el balón y armó una pelea")
+* [Hernán Torres, exEmelec, deja Deportivo Cali por malos resultados](https://www.elcomercio.com/deportes/futbol/hernan-torres-exemelec-deja-deportivo-cali-por-malos-resultados.html "Hernán Torres, exEmelec, deja Deportivo Cali por malos resultados")
 
-Por su parte, **El Nacional,** aunque ha logrado victorias importantes, ha dejado algunas dudas a lo largo del torneo. Un triunfo ante Liga de Quito sería crucial para mejorar su posición y acercarse a los puestos de competiciones internacionales. El ‘Bi-Tri’ ocupa la novena posición con 10 puntos.
+El ´Toño´ se formó íntegramente en El Nacional al que llegó desde su natal Nueva Loja en el inicio de la década de los 2000 y **debutó a mediados de 2003 enfrentando a Barcelona Sporting Club** en el estadio Monumental de Guayaquil, de la mano de Dragan Miranovic.
 
-Partidos clave de la Liga Pro
------------------------------
+Se mantuvo vestido con los colores de los rojos hasta el primer semestre de 2005. **En ese año fue transferido al Villarreal de España** como la más prominente promesa del fútbol ecuatoriano.
 
-El **Orense**, segundo en la tabla con 13 unidades, visitará al Mushuc Runa (11 puntos) en un duelo crucial que definirá sus aspiraciones para los torneos internacionales de 2025.
+En el Villarreal no tuvo espacio en el primer equipo y fue cedido al **Recreativo de Huelva de la Segunda División de España**. Ahí empezó a destacar y llamó la atención del Wigan Athletic que lo contrató en el curso 2006/07.
 
-El argentino Agustín Herrera y el ecuatoriano **Miguel Parrales**, máximo goleador de la segunda fase con 7 tantos, liderarán el ataque de Orense.
+El **Manchester United sorprendió a Ecuador** al anunciar su contratación en la temporada 2009/10 y se mantuvo 10 temporadas en las que cosechó 10 títulos, incluidas dos Premier League y la UEFA Europa League, llegó a ser capitán y el mejor sudamericano de la historia de este club.
 
-**Independiente** **del** **Valle**, con 12 puntos, al igual que Barcelona SC, visitará al colista Libertad. Si el equipo del Valle, ganador de la primera etapa, triunfa también en la segunda, se coronará automáticamente campeón.
+Pese a sus promesas de regresar a El Nacional una vez que su aventura europea terminara, no lo cumplió y **se puso la camiseta de Liga de Quito**, uno de los rivales más fuertes de El Nacional, para el segundo semestre de 2019.
 
-Mientras tanto, **Barcelona SC**, dirigido por el argentino Ariel Holan, visitará a Deportivo Cuenca con el goleador uruguayo Octavio Rivero, quien ha anotado en todas las jornadas disputadas hasta ahora.
+Este hecho hizo que la hinchada de **Liga adopte a Valencia como uno de los suyos rápidamente**, y que los seguidores de El Nacional lo bajen del pedestal de ídolo y critiquen la decisión del veloz extremo derecho.
 
-Calendario de partidos
-----------------------
+Antonio Valencia y sus números como rojo y blanco
+-------------------------------------------------
 
-### Viernes 20 de septiembre
+El sábado 21 de septiembre de 2024 se **llevará a cabo una nueva edición del ‘Clásico quiteño’** entre Liga de Quito y El Nacional en el estadio Rodrigo Paz Delgado.
 
-**Libertad vs. Independiente del Valle  
-Estadio**: Reina del Cisne  
-**Hora**: 19:00
+El estadígrafo Aurelio Dávila detalló que **Antonio Valencia jugó con el ‘Nacho’** ante los blancos 12 partidos, ganó cinco, perdió cinco y empató dos. Le marcó un gol.
 
-### Sábado 21 de septiembre
+Como jugador de **LDU jugó dos partidos antes su exequipo y ganó los dos juegos** y no pudo marcar goles, aunque es muy recordado el festejó que realizó frente a los hinchas militares en el Olímpico Atahualpa en el 2020.
 
-**Cumbayá vs. Aucas  
-Estadio**: Olímpico Atahualpa  
-**Hora**: 14:00
+Actualmente, **Antonio Valencia es propietario y entrenador del AV25** que juega en la Segunda Categoría de Pichincha y que se clasificó para el Torneo de Ascenso Nacional, en busca de un cupo para la Liga Pro Serie B 2025.
 
-**Liga de Quito vs. El Nacional  
-Estadio**: Rodrigo Paz Delgado  
-**Hora**: 16:30
+![Foto: Archivo histórico EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/09/valencia_nacho_liga_2-1024x683.jpg)
 
-**Deportivo Cuenca vs. Barcelona SC  
-Estadio**: Alejandro Serrano Aguilar  
-**Hora**: 19:00
+Foto: Archivo histórico EL COMERCIO.
 
-### Domingo 22 de septiembre
+No te pierdas – El Confesionario
+--------------------------------
 
-**Macará vs. Imbabura  
-Estadio**: Bellavista  
-**Hora**: 13:00
+¿Cómo se jugará la nueva Copa Intercontinental de la FIFA?
+==========================================================
 
-**Mushuc Runa vs. Orense   
-Estadio**: La Cocha  
-**Hora**: 15:30
+La Copa Interncontinental de la FIFA tiene definido su sistema tras la nueva modalidad que adquirirá el Mundial de Clubes.
+--------------------------------------------------------------------------------------------------------------------------
 
-**Emelec vs. Técnico Universitario  
-Estadio**: George Capwell   
-**Hora**: 18:00
+![Endrick celebra un gol con el Real Madrid en la UEFA Champions League antes de la Copa Intercontinental.](https://www.elcomercio.com/wp-content/uploads/2024/09/13a44b12f8ef4c8848e2280a30c883e173074ee5.jpg)
 
-### Lunes 23 de septiembre
+El Real Madrid jugará la final de la **Copa Intercontinental de la FIFA 2024** como vigente campeón de la Liga de Campeones el próximo 18 de diciembre en Catar, coincidiendo con el segundo aniversario de la final del Mundial disputado en ese mismo escenario.
 
-**Universidad Católica vs. Delfín  
-Estadio**: Olímpico Atahualpa  
-**Hora**: 17:00
+El torneo anual de clubes, que comenzará el 22 de septiembre, constará de cinco partidos. El primero de ellos se disputará en **Emiratos Árabes Unidos** y el segundo en Egipto antes de trasladar la competición a Catar, país que albergará los tres restantes[.](https://es.wikipedia.org/wiki/Real_Madrid_Club_de_F%C3%BAtbol "https://es.wikipedia.org/wiki/Real_Madrid_Club_de_F%C3%BAtbol")
 
-El Gobierno de Daniel Noboa pidió al sector privado encender sus generadores de electricidad
-============================================================================================
+### Más noticias:
 
-El Gobierno Nacional tiene agendado cortes de luz a escala nacional por la crisis energética que atraviesa el Ecuador.
-----------------------------------------------------------------------------------------------------------------------
+* [¿Cómo le fue a los ecuatorianos en la Champions League?](https://www.elcomercio.com/deportes/champions-league-resultados-jugadores-ecuatorianos.html "¿Cómo le fue a los ecuatorianos en la Champions League?")
+* [En Francia elogian debut de Willian Pacho en Champions League](https://www.elcomercio.com/deportes/futbol/francia-elogian-debut-de-willian-pacho-en-champions-league.html "En Francia elogian debut de Willian Pacho en Champions League")
+* [Atlético de Madrid empieza con pie derecho en la Champions](https://www.elcomercio.com/deportes/atletico-madrid-leipzig-uefa-champions-league.html "Atlético de Madrid empieza con pie derecho en la Champions")
 
-![Imagen referencial. El Gobierno ofrece una compensación al sector público por usar sus generadores de electricidad.](https://www.elcomercio.com/wp-content/uploads/2024/09/Gobierno-generador-energia.jpg)
+Aunque en Europa ya está definido el representante, aquello no ocurre en otros continentes. En el caso de América, la **Copa Libertadores** se mantiene en disputa y en los partidos de vuelta de los cuartos de final.
 
-El **Gobierno de Daniel Noboa** pidió al sector privado a encender sus **generadores** de **electricidad** este viernes 20 de septiembre de 2024.
+Así se jugará la Copa Intercontinental de la FIFA
+-------------------------------------------------
 
-* [Claves para ahorrar electricidad en tiempo de crisis en Ecuador](https://www.elcomercio.com/actualidad/negocios/claves-para-ahorrar-electricidad-en-tiempo-de-crisis-en-ecuador.html "Claves para ahorrar electricidad en tiempo de crisis en Ecuador")
-* [Consumo de electricidad en Ecuador se dispara, ¿a qué se debe?](https://www.elcomercio.com/actualidad/negocios/ecuador-incremento-importacion-electricidad-2023-cortes-luz.html "Consumo de electricidad en Ecuador se dispara, ¿a qué se debe?")
+En el partido 1, el Al Ain, ganador de la **Liga de Campeones de la AFC**, recibirá al Auckland City FC, vencedor de la **Liga de Campeones de la OFC**, y el vencedor se enfrentará en el partido 2 contra el Al-Ahly, ganador de la **CAF de África**.
+
+En el tercer partido de la competición, el campeón de la **CONMEBOL** de Sudamérica, cuya final se disputa el 30 de noviembre, día en el que se sabrá el representante, se verá las caras contra el Pachuca, clasificado como mejor club de la **CONCACAF** de Norteamérica.
+
+Posteriormente, los vencedores del partido 2 y del partido 3 se enfrentarán entre ellos y el ganador jugará la final ante el **Real Madrid**.
+
+¿Qué pasa con el Mundial de Clubes?
+-----------------------------------
+
+La nueva **Copa Intercontinental de la FIFA** sucede al antiguo Mundial de Clubes, sin embargo, el formato es el mismo. El Mundial de Clubes se mantiene en cuanto a su nombre, pero su modalidad cambia.
+
+La competencia arrancará en 2025 y contará con 32 equipos del mundo. Estarán presentes 12 equipos de la UEFA, seis de **Conmebol**; cuatro de **Concacaf**, **África**, **Asia** y uno de **Oceanía** y el país anfitrión.
+
+¿Proyectos de energía eléctrica de Ecuador son atractivos para las inversiones?
+===============================================================================
+
+Ecuador enfrenta una crisis energética con un déficit de 1 080 MW y cortes de luz programados. El Gobierno busca atraer inversión privada, para afrontar la crisis.
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+![El proyecto de generación eléctrica eólico Villonaco III está ubicado en Loja.](https://www.elcomercio.com/wp-content/uploads/2024/09/villonaco-3.jpg)
+
+Actualmente, **Ecuador** tiene un **déficit de energía** de **1 080 megavatios** (MW). Esto, junto a la sequía por la que atraviesa la región, obligado a programar **cortes de luz** en todo el país. Está previsto que desde el 23 al 26 de septiembre del 2024 se suspenda el servicio de energía por períodos de dos a cuatro horas durante las noches de esos cuatro días[.](https://es.wikipedia.org/wiki/Parque_e%C3%B3lico "https://es.wikipedia.org/wiki/Parque_e%C3%B3lico")
+
+### Más noticias
+
+* [Ecuador lanza nuevo proceso de licitación para contratar más energía](https://www.elcomercio.com/actualidad/negocios/ecuador-lanza-nuevo-proceso-de-licitacion-para-contratar-mas-energia.html "Ecuador lanza nuevo proceso de licitación para contratar más energía")
+* [Cortes de luz generan más costos y riesgos de seguridad en sector logístico de Ecuador](https://www.elcomercio.com/actualidad/negocios/cortes-de-luz-generan-mas-costos-y-riesgos-de-seguridad-en-sector-logistico-de-ecuador.html "Cortes de luz generan más costos y riesgos de seguridad en sector logístico de Ecuador")
 * [La solución para los cortes de luz del Ecuador es la geotermia, ¿de qué se trata?](https://www.elcomercio.com/actualidad/negocios/la-solucion-para-los-cortes-de-luz-del-ecuador-es-la-geotermia-de-que-se-trata.html "La solución para los cortes de luz del Ecuador es la geotermia, ¿de qué se trata?")
 
-El Ministerio de Energía y Minas hizo esta solicitud el jueves 19 de septiembre a través de sus redes sociales.
+Legislación para atraer inversiones
+-----------------------------------
 
-Petición del Gobierno para que el sector privado encienda sus generadores
--------------------------------------------------------------------------
+En medio de esta crisis, las autoridades del Gobierno de **Daniel Noboa** han reconocido que el país necesita de la **inversión privada** para solventar la falta de energía. E incluso presentó la **Ley Orgánica de Competitividad Energética**, que fue promulgada el 11 de enero de 2024.
 
-En un comunicado publicado en redes sociales, el **Ministerio de Energía** destacó el aporte del sector privado y, por ello, extendió la invitación para que las empresas activen sus generadores este 20 de septiembre. Esta medida busca reducir la demanda en la red eléctrica nacional y contribuir al ahorro de energía.
+Esta normativa busca incrementar la oferta de generación eléctrica, optimizando los recursos públicos asociados a este sector e **incentivar la inversión privada**.
 
-El comunicado menciona que, según la regulación **Arconel** 003/24, el sector privado puede colaborar de forma **voluntaria** en la **generación eléctrica** durante periodos de déficit.
+Sin embargo, esta Ley aún no convence al sector privado. Para **Roberto Aspiazu**, presidente de la **Cámara** de **Energía del Ecuador**, la nueva normativa es una reforma a la **Ley de Servicio de Público de Energía Eléctrica** y no es suficiente para atraer inversiones del sector privado.
 
-Además, las empresas que participen en esta iniciativa recibirán una compensación en su factura, tomando en cuenta los costos de combustible y mantenimiento.
+Cambios en la normativa
+-----------------------
 
-El cronograma para este aporte, establecido por el Operador Nacional de Electricidad (**Cenace**), será de 09:00 a 18:00 el 20 de septiembre de 2024.
+Y aunque la ley tiene algunas **cosas positivas**, ya que permite que el sector privado invierta no solo en la generación de energía, como ya se contemplaba, sino también en la transmisión, distribución y comercialización eléctrica, no marca la diferencia, señaló Aspiazu.
 
-En días anteriores, los generadores privados lograron aportar cerca de 300 MW, sumándose a los esfuerzos para garantizar el suministro eléctrico en el país.
+El tema relacionado con las **tarifas** es el principal inconveniente para atraer inversión privada. Aunque en la norma, por primera vez, se permite que las **tarifas eléctricas** incluyan no solo el costo de generación, sino también la amortización de las inversiones realizadas, aún mantiene restricciones que limitan la libre competencia en el sector eléctrico.
 
-> 📍\[COMUNICADO OFICIAL\]  
->   
-> El Gobierno Nacional invita a las empresas a encender sus generadores este 20 de septiembre para el autoabastecimiento. Su colaboración es clave para ahorrar energía y reducir la demanda de la red nacional. [pic.twitter.com/bEpSCBSUWn](https://t.co/bEpSCBSUWn)
-> 
-> — Ministerio de Energía y Minas Ecuador🇪🇨 (@RecNaturalesEC) [September 20, 2024](https://twitter.com/RecNaturalesEC/status/1836964941066014983?ref_src=twsrc%5Etfw)
+Específicamente, esta Ley prohíbe acuerdos directos entre **generadores privados** y **consumidores** para pactar tarifas. Actualmente, el Estado regula estas tarifas y limita la eficiencia competitiva del mercado.
 
-Próximos cortes de luz
-----------------------
+Por su parte, para el viceministro de Electricidad, **Rafael Quintero**, la nueva Ley establece un marco normativo claro y seguro para incentivar la inversión privada en proyectos de energías renovables no convencionales.
 
-El presidente **Daniel Noboa** anunció tres nuevas jornadas de cortes de luz programadas para el lunes 23, martes 24, miércoles 25 y jueves 26 de septiembre. Aún no se ha especificado si estos cortes serán de ocho horas o si se realizarán de manera focalizada, como en ocasiones anteriores, a través de las **empresas** **eléctricas**.
+Desde su aprobación, se han emitido diversas regulaciones que otorgan seguridad jurídica a los inversionistas, facilitando la implementación de proyectos de distintas tecnologías y tamaños. Anteriormente, los procesos burocráticos y los plazos prolongados desincentivaban las inversiones, pero hoy en día los contratos con el Ministerio y distribuidoras ya están reglamentados, permitiendo a los privados avanzar de manera más ágil y con mayor certidumbre. Los inversionistas ahora cuentan con plazos manejables y trámites simplificados, aseguró.
 
-Los **cortes de luz** se realizarán entre las 22:00 y las 06:00, con el objetivo de minimizar el impacto en la vida diaria de los ecuatorianos.
+Inversiones privadas estancadas
+-------------------------------
 
-Por el momento, no hay **cortes de luz programados** para el viernes 20, sábado 21 y domingo 22 de septiembre, salvo por aquellos que sean necesarios para realizar mantenimientos preventivos o correctivos urgentes.
+El paquete de 800 megavatios de energía renovable no convencional incluye varios proyectos que fueron adjudicados desde diciembre de 2020. Pero hasta septiembre de 2024 ninguno de ellos ha comenzado su construcción. Se trata del proyecto de generación eléctrica: **Eólico Villonaco III**, en Loja, y **fotovoltaico El Aromo**, en Manabí. 
 
-Otras medidas de austeridad
----------------------------
+Según el Plan Maestro de Electricidad de 2018, estos dos proyectos debían estar operando en 2022, debido a que son clave para el desarrollo energético del país. Sin embargo, los retrasos en su implementación se deben a problemas de financiamiento y dificultades con la legislación vigente.
 
-El ministro **Antonio Gonçalves** confirmó que Ecuador ya ha iniciado el bombardeo de nubes como medida para mitigar los efectos de la sequía en la generación hidroeléctrica.
+¿Qué está haciendo el Gobierno para solventar la crisis energética?
+-------------------------------------------------------------------
 
-Además, el **Gobierno** ha implementado otras medidas de **ahorro energético**, como el teletrabajo en las instituciones públicas los días jueves 19 y viernes 20 de septiembre, y que se repetirá el jueves 26 y viernes 27 de septiembre.
+Para solventar la **crisis energética**, el **Gobierno** busca incorporar 1 361 MW lo antes posible, ente estos casos como el alquiler de dos **barcazas de generación flotante**, compra de unidades de generación en tierra, repotenciación de termoeléctricas, entre otras.
 
-El **sistema educativo** también ajustará sus horarios debido a los racionamientos eléctricos de la próxima semana. El Ministerio de Educación anunció que, desde el viernes 20 hasta el viernes 27 de septiembre, las escuelas y colegios modificarán sus horarios.
+La solución más pronta es el alquiler de embarcaciones de generación. El resto de soluciones, se prevé que estén listas en el primer trimestre del 2025.
 
-La **jornada matutina** comenzará una hora más tarde de lo **habitual**, mientras que la **jornada nocturna** finalizará a las 20:00. Los estudiantes de la jornada vespertina mantendrán sus horarios sin cambios.
+Lanzan película filmada con un iPhone 
+======================================
 
-La agenda para este 20, 21 y 22 de septiembre de 2024 en Quito 
-===============================================================
+Apple ha presentado ‘¡Suerte!’ filmado con un iPhone 15 Pro Max y disponible en YouTube.
+----------------------------------------------------------------------------------------
 
-A continuación, la vibrante agenda cultural de Quito para este fin de semana, con eventos destacados.
------------------------------------------------------------------------------------------------------
+![La película sigue el surrealista viaje de un músico mexicoamericano, protagonizado por Iván Cornejo. Foto: YouTube Apple México.](https://www.elcomercio.com/wp-content/uploads/2024/09/pelicula-Iphone.jpg)
 
-![La agenda cultural en Quito para este fin de semana incluye exposiciones, talleres y hasta cine. Foto: Cortesía Fundación Museos de la Ciudad.](https://www.elcomercio.com/wp-content/uploads/2024/09/agenda-cultural-1.jpg)
-
-La **agenda cultural en Quito** para el 20, 21 y 22 de septiembre de 2024 ofrece una variedad de actividades para todas las edades.  
+**Apple** ha lanzado **un cortometraje titulado** **‘¡Suerte!’**, dirigido por **Pasqual Gutiérrez y RJ Sánchez**, conocidos como **Cliqua**. Este innovador proyecto, **filmado con un iPhone 15 Pro Max**, cuenta con la actuación del destacado **cantautor Iván Cornejo**, quien ha ganado popularidad en Estados Unidos. 
 
 ### Más noticias
 
 * [Seis películas con sorprendentes finales abiertos y su análisis](https://www.elcomercio.com/tendencias/cine/peliculas-cine-analisis-final-abierto.html "https://www.elcomercio.com/tendencias/cine/peliculas-cine-analisis-final-abierto.html") 
-* [Muere Juan Brujo, líder de la banda mexicana de metal Brujería](https://elcomercio.com/tendencias/cultura/juan-brujo-brujeria-obituario-metal.html "https://elcomercio.com/tendencias/cultura/juan-brujo-brujeria-obituario-metal.html") 
+* [Miley Cyrus ha sido acusada de presunto plagio](https://www.elcomercio.com/afull/miley-cyrus-plagio-bruno-mars.html "https://www.elcomercio.com/afull/miley-cyrus-plagio-bruno-mars.html")
 
-El **Museo de la Ciudad** presenta un **taller para niños y adolescentes** sobre restauración, mientras que el **Museo del Agua** proyectará **películas y documentales**.  
+**La tecnología aliada del arte**  
+-----------------------------------
 
-El **Centro de Arte Contemporáneo** organiza un **taller sobre memoria y herencias** multiétnicas. Además, el **Museo Precolombiano Casa del Alabado** inaugurará Tiempo de Ají y Maní. Asimismo, habrá una **exposición acerca de la cultura japonesa** y un encuentro sobre **terapias alternativas**, que buscan el equilibrio personal. 
+**La historia, de 13 minutos de duración**, se estrenó en la **plataforma YouTube**, y muestra el compromiso de **Apple** con la innovación en la producción cinematográfica. Con su enfoque en la autenticidad y la conexión emocional, este trabajo promete ser un **parte aguas para nuevos formatos de creación de cine**. 
 
-**Un día como restaurador** 
-----------------------------
+La filmación con el **iPhone 15 Pro Max** subraya el **potencial de la tecnología en el arte**. Al combinar una narrativa conmovedora con un enfoque vanguardista. 
 
-El **Museo de la Ciudad** (García Moreno E1-47 y Rocafuerte) invita a niños y adolescentes de 8 a 12 años, junto a sus familias, a participar en una experiencia que les permitirá **explorar el mundo de la conservación y restauración en los espacios culturales**.  
+**¿De qué manera se filmó la película?** 
+-----------------------------------------
 
-A través de un **recorrido especial y un taller creativo**, los participantes descubrirán el **proceso de restauración de obras del Museo**, aprenderán sobre las técnicas utilizadas y los colores, y finalmente replicarán lo aprendido en una actividad lúdica con cartulina. La actividad se realizará el viernes 20 de septiembre de 2024, a las 10:00. 
+A decir de [GQ](https://www.gq.com.mx/articulo/suerte-pelicula-apple-de-que-trata-trailer-reparto-fecha-de-estreno-donde-ver "https://www.gq.com.mx/articulo/suerte-pelicula-apple-de-que-trata-trailer-reparto-fecha-de-estreno-donde-ver"), este cortometraje **permitió a los realizadores explorar su creatividad de formas innovadoras**. 
 
-**Yakucinema** 
----------------
+Los directores, junto con el **director de fotografía Xiaolong Liu**, aprovecharon al máximo las capacidades del **iPhone 15 Pro Max**. Utilizaron el **Modo Cine, el zoom óptico de 5X y la tecnología de grabación en condiciones de poca luz**. Estas herramientas resultaron fundamentales para plasmar un guion que, por su complejidad, requería un enfoque técnico excepcional. 
 
-Todos los **domingos del mes** se ofrece una cita en el **Museo del Agua** (El Placer Oe11-271), donde se pueden **disfrutar de diversas películas, documentales y cortometrajes**. Este fin de semana se presentarán dos propuestas imperdibles: ‘De regreso a mi identidad yumbo – Wawas para wawas 2024’, en colaboración con el **Núcleo Pichincha de la Casa de las Culturas**, y ‘Somos páramo: miradas compartidas’. Las funciones serán desde el 20 de septiembre de 2024, a las 11:30 y 14:30. 
+**El cortometraje destaca por su fantasía, buena música y elementos culturales mexicanos**. La película fue estrenada en Damián, donde personalidades como **Cristina Rodlo, Xolo Maridueña y Cristo Fernández** aplaudieron el filme. 
 
-**Terapias alternativas** 
---------------------------
-
-**Experiencia terapéutica con psilocibina** y los Niños Santos, enfocada en el Equilibrio entre lo femenino y lo masculino en mí. El evento se llevará a cabo en Quito el viernes 20 de septiembre a las 21:00, y en Ibarra el sábado 21 de septiembre a la misma hora. Para más información: 0991629227. 
-
-**Presentación de libro sobre la Cueva de los Tayos**
------------------------------------------------------
-
-En el auditorio del **Museo Nacional** (MuNa), ubicado en el edificio de la **Casa de la Cultura Ecuatoriana** (Av. 6 de Diciembre y Patria), se llevará a cabo la presentación del libro **‘La enigmática Cueva de los Tayos’**, a partir de las 17:00. El comunicador **Edmundo Marcelo Noguera**, quien visita la capital desde Macas, es el autor de esta obra. El libro aborda **50 años de expediciones en la selva Amazónica**, con un enfoque especial en la **Cueva de los Tayos**. Noguera ha recopilado sus experiencias y observaciones sobre las expediciones realizadas en la cueva, así como historias y leyendas que rodean este enigmático lugar.
-
-**Memoria, ancestras y orígenes** 
-----------------------------------
-
-El **Consejo Educativo del Centro de Arte Contemporáneo** (Montevideo y Luis Dávila) invita a participar en un **taller educativo** enfocado en la **reflexión sobre la memoria y la conexión con nuestras herencias multiétnicas**. A través de lenguajes artísticos como la fotografía y la narración, se **construirá un árbol genealógico colectivo** que permitirá vincularnos con nuestras memorias familiares. Este evento se llevará a cabo el sábado 21 de septiembre de 2024, de 11:00 a 14:00. 
-
-**Jambicuna Ñan: recorridos de sanación** 
-------------------------------------------
-
-Uno de los **proyectos ganadores de** **las Becas de Cocreación** invita a un recorrido por la **comunidad de la Toglla**, en el cerro Ilaló, con un taller inmersivo sobre su sabiduría e identidad. El evento se realizará el sábado 21 de septiembre de 2024, de 10h30 a 14h00, con acceso libre. El punto de encuentro será en el **Museo Interactivo de Ciencia**, Av. Maldonado y Sincholagua, a las 9:00, desde donde saldrá un bus con capacidad para 40 personas. 
-
-**Yaku a la Carta** 
---------------------
-
-Este mes de septiembre ofrece diversas oportunidades para redescubrir el **Museo del Agua**. Elija el recorrido que más le guste y **participe en una experiencia única que se aparta de la oferta habitual** del museo. En Raíces, historias y herencias, podrá explorar el **concepto de patrimonio** de forma interactiva. Además, en Plantas, aromas y flores de Yaku, descubrirá los espacios naturales del museo mediante un transformable interactivo que muestra la diversidad de plantas y aves presentes. Las actividades se llevarán a cabo el sábado 21 de septiembre de 2024, a las 11:30 y 14:30. 
-
-**Tiempo de ají y maní** 
+**Sinopsis de ¡Suerte!** 
 -------------------------
 
-El **Museo de Arte Precolombiano Casa del Alabado** (Cuenca N1-41) invita a la inauguración de Tiempo de Ají y Maní el sábado 21 de septiembre a las 11h00. El **ají, cultivado en Ecuador desde 3 000 a.C.** y utilizado como tributo por los Incas, y el maní, clave en la dieta de los pueblos originarios, destacan por su importancia en la **gastronomía ecuatoriana**. La exhibición incluye objetos que revelan su preparación y consumo en la historia. 
+De acuerdo con la revista [Hola!](https://www.hola.com/us-es/entretenimiento/20240712706690/apple-presenta-suerte-cortometraje-grabado-iphone/ "https://www.hola.com/us-es/entretenimiento/20240712706690/apple-presenta-suerte-cortometraje-grabado-iphone/"), **la trama sigue el viaje surrealista de un músico mexicoamericano** que regresa a sus raíces en busca de inspiración.  
 
-**Quito se llena de tradición y cultura japonesa** 
----------------------------------------------------
+**Protagonizada por Iván Cornejo**, la nueva promesa del regional mexicano, el filme también cuenta con **María Zardoya** como “la sirena”, **Camilo Lara** como “el maestro”, **Edén Muñoz** como “la rana” y **Luis Felipe Tovar** como “el diablito”. 
 
-**Durante septiembre**, el centro comercial **Paseo San Francisco** en Cumbayá, Quito, se convierte en un **epicentro de cultura japonesa** con exhibiciones de kimonos, bonsáis y demostraciones de artes marciales como kyudo y kendo.  
+**La película utiliza un lenguaje visual y narrativo simple pero efectivo**, que sumerge al espectador en **un viaje fascinante a través de la lucha de un compositor** para superar su bloqueo y crisis creativa.  
 
-Renombrados talleristas como **Juan Diego Fonseca, Nichole Fiorentino y Mariella Granja** ofrecerán actividades interactivas sobre estas tradiciones. El evento busca educar, fortalecer lazos comunitarios y celebrar la rica diversidad cultural, al brindar una experiencia inolvidable. 
+Para liberarse de su tormento, **el protagonista nos guía en un viaje emocional j**unto a algunos **personajes icónicos de la lotería mexicana**, un juego profundamente enraizado en la cultura del país.  
 
-Así funciona el Pico y placa este viernes 20 de septiembre en Quito
-===================================================================
+A través de este universo paralelo, **“el músico” hallará la inspiración necesaria** para componer canciones que broten de su corazón, influenciado por su herencia cultural y las ricas tradiciones de su tierra natal. 
 
-El Pico y placa es una medida de restricción vehicular que rige en Quito.
--------------------------------------------------------------------------
+**A continuación, la película** 
+--------------------------------
 
-![Los agentes de tránsito de Quito realizan el control a los autos que circulan por la ciudad.](https://www.elcomercio.com/wp-content/uploads/2024/07/transito-2.jpg)
+Otra película que también se la filmó con ayuda de un iPhone 15 Pro Max es **’28 years later’**. Con un **presupuesto estimado de 75 millones de dólares**, esta será la película más grande jamás filmada con teléfonos inteligentes.
 
-El **Pico y placa** es una restricción vehicular que rige en **Quito** como medida para **gestionar el tránsito** de la ciudad en las horas pico.
+> [Ver esta publicación en Instagram](https://www.instagram.com/p/DAHVYdpSLyB/?utm_source=ig_embed&utm_campaign=loading)
+> 
+> [Una publicación compartida de Complex Pop (@complexpop)](https://www.instagram.com/p/DAHVYdpSLyB/?utm_source=ig_embed&utm_campaign=loading)
 
-Esta **medida excluye** a los autos conducidos por **personas de la tercera edad** o personas con discapacidad.
+Oso perezoso vivo, herido y colgado a un camión era trasladado por carretera de Ecuador
+=======================================================================================
+
+El Ministerio de Ambiente tomó acciones contra este hecho de maltrato animal a un oso perezoso colgado en un camión.
+--------------------------------------------------------------------------------------------------------------------
+
+![Oso perezoso era trasladado vivo y colgado a un camión en carretera de Ecuador.](https://www.elcomercio.com/wp-content/uploads/2024/09/Diseno-sin-titulo-26.jpg)
+
+Un **oso perezoso** vivo, herido, amarrado y colgado a un **camión** era trasladado por una **carretera** de **Ecuador.**
+
+El **Ministerio de Ambiente** tomó acciones contra los implicados en este hecho de maltrato animal.
+
+### Más noticias:
+
+* [La venta de animales de compañía se castiga con multas severas en Quito](https://www.elcomercio.com/narices-frias/venta-animales-compania-sancion-quito.html "La venta de animales de compañía se castiga con multas severas en Quito")
+* [Delfines de la Amazonía de Ecuador están en la lista roja](https://www.elcomercio.com/actualidad/ecuador/delfines-amazonicos-ecuador-peligro-critico-extincion-amazonia-lista-roja.html "Delfines de la Amazonía de Ecuador están en la lista roja")
+
+Este hecho se difundió a través de videos en las redes sociales.
+
+Los internautas que publicaron los videos en redes sociales captaron las placas del camión y dieron la ubicación del mismo, en la **vía a Santo Domingo de los Tsáchilas**.
+
+Pronunciamiento del Ministerio de Ambiente sobre oso perezoso colgado a un camión en una carretera de Ecuador
+-------------------------------------------------------------------------------------------------------------
+
+El Ministerio del Ambiente, Agua y Transición Ecológica, ha elaborado el respectivo informe técnico con la evidencia recabada.
+
+Esta institución tomó estas medidas por el video que circula en redes sociales, que visibiliza el maltrato de un oso perezoso.
+
+El Ministerio señaló que, en coordinación con otras instituciones, se identificó al dueño del camión y su posible ubicación.
+
+Se procederá con las investigaciones necesarias para determinar responsabilidades.
+
+“Con toda la información que se logre obtener, se presentará la denuncia y conforme al debido proceso, establecer las sanciones pertinentes”, agregó el comunicado.  
+
+“El Ministerio del Ambiente, Agua y Transición Ecológica, reafirma su compromiso con el bienestar de la fauna. Por ello, coordina las acciones necesarias para que este lamentable delito no quede impune”, concluyó.
+
+El Ministerio recordó que la ciudadanía puede denunciar todo maltrato animal a través del **ECU – 911** o el **1800 delito**.
+
+Una vez conocida una denuncia, se coordina acciones inmediatas con la **Unidad de Policía del Medio  
+Ambiente (UPMA).**
+
+Cristiano Ronaldo no se cansa de marcar goles con el Al Nassr
+=============================================================
+
+Cristiano Ronaldo se convirtió en primer jugador, de forma oficial, en alcanzar los 900 goles.
+----------------------------------------------------------------------------------------------
+
+![Cristiano Ronaldo celebrando su más reciente gol con el Al Nassr.](https://www.elcomercio.com/wp-content/uploads/2024/09/ENDRICK-PALMEIRAS-2024-09-20T164328.955.jpg)
+
+**Cristiano** **Ronaldo** anotó nuevamente con el Al Nassr en el inicio de la etapa de Stegano Pioli como nuevo director técnico. Fue el gol número, 902, del ‘Bicho’, que sirvió para la victoria (0-3), ante el Al Ettifaq, hasta ahora invicto, y que instala a su equipo en la parte alta de la Liga de Arabia Saudí.
+
+**Pioli** llegó días atrás en sustitución del portugués Luis Castro, destituido por los malos resultados. Y ganó en su debut el entrenador transalpino, que hace dos temporadas hizo campeón en la Serie A al Milan.
 
 ### Más noticias
 
-* [Inicio de clases arranca con implementación de medidas de movilidad](https://www.elcomercio.com/actualidad/quito/inicio-de-clases-arranca-con-implementacion-de-medidas-de-movilidad.html "Inicio de clases arranca con implementación de medidas de movilidad")
-* [Municipio de Quito lanza un visualizador de siniestros de tránsito](https://www.elcomercio.com/actualidad/quito/visualizador-siniestros-transito-municipio-quito.html "Municipio de Quito lanza un visualizador de siniestros de tránsito")
+* [Cristiano Ronaldo celebró récord goleador con agónico empate](https://www.elcomercio.com/deportes/futbol/cristiano-ronaldo-homenaje-goles-alnassr.html "Cristiano Ronaldo celebró récord goleador con agónico empate")
+* [Portugal lanzará una moneda en honor a Cristiano Ronaldo](https://www.elcomercio.com/afull/cristiano-ronaldo-moneda-portugal.html "Portugal lanzará una moneda en honor a Cristiano Ronaldo ")
+* [Cristiano Ronaldo marca un golazo de mil millones de seguidores](https://www.elcomercio.com/deportes/futbol/cristiano-ronaldo-record-millones-seguidores.html "Cristiano Ronaldo marca un golazo de mil millones de seguidores")
 
-De acuerdo con el **cronograma**, este viernes no pueden circular las placas terminadas en **9 y 0**.
+Tres días en el cargo han servido a Pioli para devolver al **Al Nassr** a la victoria, la segunda de la temporada en cuatro partidos jugados.
 
-Horarios de Pico y placa
-------------------------
+Cristiano Ronaldo y los otros goles
+-----------------------------------
 
-Esta medida se aplica en dos horarios de **lunes a viernes**. Los feriados, sábados y domingo no aplica la restricción.
+Los otros dos los saldó con empate el cuadro de Riad, que abrió el marcador pasada la media hora cuando Abdullah Madu arrolló dentro del área a Sultan Al Ghanam. El **penalti lo anotó Cristiano Ronaldo,** que abrió el camino del triunfo y que ya acumula 902 tantos en su carrera.
 
-Estos son los horarios de aplicación:
+> GOLAZO DE CRISTIANO RONALDO!!!! SIIUUUUUUUU [pic.twitter.com/7yC3UD9gKg](https://t.co/7yC3UD9gKg)
+> 
+> — MT2 (@madrid\_total2) [September 20, 2024](https://twitter.com/madrid_total2/status/1837198476926668899?ref_src=twsrc%5Etfw)
 
-* En la **mañana**: de 06:00 a 09:30
-* En la **tarde**: de 16:00 a 20:00
+El segundo lo hizo, ya en la segunda parte, Salem Al Najdi a pase del senegalés Sadio Mane, que asistió también en el tercero, firmado por el brasileño Anderson Talisca.
 
-El **Pico y placa** es una medida que ha sido implementada en **diversas ciudades** alrededor del mundo como respuesta a los desafíos de la **urbanización** y el aumento del tránsito vehicular.
+El triunfo sitúa al Al Nassr cuatro en la clasificación a un punto de la terna de líderes, el Al Ittihad de **Karim** **Benzema** y el Al Hilal, aun con un partido menos, y el Al Ettifaq de Steven Gerrard, que había ganado todos sus partidos hasta la derrota frente al cuadro de Pioli.
 
-Multas por infringir el Pico y placa
-------------------------------------
+Otros resultados en Arabia Saudita
+----------------------------------
 
-La multa por incumplir el **Pico y placa** es del **15% del Salario Básico Unificado, es decir 69 dólares** la primera vez; la segunda vez será el 25%, es decir, **115 dólares**.
+Previamente, un gol y una asistencia de Gabri Veiga mantuvieron ante el Damac al Al Ahli, que en el tramo final, en el tiempo añadido, gracias al acierto del brasileño **Roberto Firmino** y del inglés Ivan tomey, redondeó el buen trabajo del equipo local, que se reencontró con el triunfo tres partidos después (4-2).
 
-Si incumples por tercera vez, la multa asciende al 50% de un salario básico, es decir, **230 dólares**.
+El cuadro del alemán Matthias Jaissle perdió con el Al Fateh y empató contra el **Al** **Nassr**. Ahora ha vuelto a ganar para instalarse en la parte alta de la clasificación que lideran el Al Hilal y el Al Ittihad tras la tercera jornada.
 
-Recuerda retirar tu auto de las plazas de parqueo
--------------------------------------------------
+Abrió el marcador Veiga, que inauguró su cuenta anotadora del presente curso, tras llevar a la red un pase del inglés Ivan Toney, otro de los destacados (dos goles y una asistencia).
 
-Está vigente la resolución que dispone el proceso de **chatarrización** de los vehículos ingresados en los Centros de Retención Vehicular (CRV) por **más de tres años**, que no hayan sido retirados por sus propietarios.
+En el tiempo añadido de la primera parte, Ayman Fallatah aprovechó un pase de Nicolae Stanciu para lograr el empate que deshizo tras el descanso **Toney**, a pase de Gabri Veiga. Pero el Damac volvió a empatar gracias a Frouk Chafai.
 
-Con estos vehículos se emite una **declaratoria de abandono** y luego se procede a la chatarrización.
+Con el marcador igualado, el choque se agitó al final. En el añadido. En el minuto 104, Roberto **Firmino**, que saltó al campo en el 73 en lugar de Aiyad Al Johani, hizo el tercero de los locales. Y Toney, en el 108, redondeó el triunfo del cuaddro de Jaissle.
 
-Por esta razón, la Agencia de Tránsito llama a los **legítimos propietarios** a realizar el proceso de [liberación](https://es.wikipedia.org/wiki/Quito) vehicular.
+Previamente, se disputó otro encuentro de la cuarta jornada entre el Al Khaleej y el Al Feibha que acabó sin goles. 
+
+Caso Metástasis, defensa de acusados señala vacíos en la investigación
+======================================================================
+
+Los acusados en el caso Metástasis exigen ser sobreseídos, argumentando falta de pruebas y pidiendo levantar medidas cautelares.
+--------------------------------------------------------------------------------------------------------------------------------
+
+![Audiencia del caso Metástasis este 20 de septiembre de 2024.](https://www.elcomercio.com/wp-content/uploads/2024/09/met-cas.png)
+
+La mañana del viernes 20 de septiembre continuó la audiencia preparatoria de juicio del **caso Metástasis en la Corte Nacional de Justicia (CNJ)**. En esta fase, los abogados de los **37 procesados**, entre ellos exfuncionarios **judiciales y colaboradores**, argumentaron su defensa ante las **acusaciones de delincuencia organizada**.
+
+### Más noticias
+
+* [Wilman Terán niega vínculos con sobornos en el caso Metástasis](https://www.elcomercio.com/actualidad/seguridad/wilman-teran-niega-vinculos-con-sobornos-en-el-caso-metastasis.html "Wilman Terán niega vínculos con sobornos en el caso Metástasis")
+* [Caso Metástasis, defensa de vinculados objeta acusaciones de Fiscalía y Procuraduría](https://www.elcomercio.com/actualidad/seguridad/caso-metastasis-defensa-vinculados-objetan-acusaciones-fiscalia-procuraduria.html "Caso Metástasis, defensa de vinculados objeta acusaciones de Fiscalía y Procuraduría")
+* [Fiscalía expone cómo operaba Leandro Norero en el caso Metástasis](https://www.elcomercio.com/actualidad/seguridad/fiscalia-expone-como-operaba-leandro-norero-caso-metastasis.html "Fiscalía expone cómo operaba Leandro Norero en el caso Metástasis")
+
+Este proceso se vincula a una presunta **“organización criminal”** liderada por el fallecido narcotraficante **Leandro Norero**.
+
+Alegatos de la defensa sobre falta de pruebas y solicitud de sobreseimiento en el caso Metástasis
+-------------------------------------------------------------------------------------------------
+
+Durante la audiencia, las defensas de los **acusados reiteraron que la Fiscalía no ha presentado suficientes pruebas** que justifiquen el juicio.
+
+En particular, los abogados de **Carlos Z.**, expresidente de la **Corte de Justicia de Manabí, y Yanina V.**, exfiscal del Guayas, sostienen que no existe evidencia que los vincule directamente con la estructura criminal mencionada. Solicitaron al juez que se emita un **auto de sobreseimiento** para levantar las **medidas cautelares**.
+
+> [#AHORA](https://twitter.com/hashtag/AHORA?src=hash&ref_src=twsrc%5Etfw) | [#CasoMetástasis](https://twitter.com/hashtag/CasoMet%C3%A1stasis?src=hash&ref_src=twsrc%5Etfw): se reinstala la audiencia preparatoria de juicio contra 37 procesados por su presunta participación en el delito de [#DelincuenciaOrganizada](https://twitter.com/hashtag/DelincuenciaOrganizada?src=hash&ref_src=twsrc%5Etfw). La fiscal general del Estado, Diana Salazar Méndez, asiste vía telemática. [pic.twitter.com/8MiQaK2Nh0](https://t.co/8MiQaK2Nh0)
+> 
+> — Fiscalía Ecuador (@FiscaliaEcuador) [September 20, 2024](https://twitter.com/FiscaliaEcuador/status/1837134507574485175?ref_src=twsrc%5Etfw)
+
+El abogado de Carlos Z. afirmó: “Mi defendido no ha cometido ningún acto que **pueda ser vinculado** a las acusaciones de la Fiscalía. No hay **pruebas que demuestren** que tuvo algún papel en la organización delictiva. Las **evidencias presentadas son inconsistentes** y no aportan a establecer ninguna conexión con los hechos”.
+
+Por su parte, la defensa de Yanina V. sostuvo: “La **Fiscalía** se ha limitado a presentar documentos que solo comprueban su **ejercicio profesional** como fiscal, pero en ningún momento se ha demostrado que ella participara en la **estructura criminal** que aquí se alega. Pedimos que se la desvincule de este proceso de manera inmediata”.
+
+Negación de los cargos
+----------------------
+
+Entre los señalados como líderes de la **“empresa criminal”, alias ‘Diablo’ y alias ‘Ruso’**, presentaron su defensa alegando que no existe **ningún elemento probatorio** que los vincule con la organización. Sus abogados cuestionaron la validez de los informes **periciales y testigos** presentados por la Fiscalía.
+
+“**No existe una sola prueba concreta** que vincule a mi cliente con los actos ilícitos que la Fiscalía intenta argumentar. Este proceso carece de base legal sólida. Es injusto seguir manteniendo a estas personas bajo **medidas cautelares sin pruebas**”, aseguró el abogado de alias ‘Diablo’.
+
+El defensor de alias ‘**Ruso’** expresó: “Las acusaciones se basan en interpretaciones sesgadas de conversaciones y transacciones bancarias que, en su mayoría, c**orresponden a actividades legales**. La Fiscalía no ha demostrado de **manera concluyente la implicación** de mi cliente en esta supuesta organización”.
+
+Cuestionamiento de los documentos presentados
+---------------------------------------------
+
+El abogado defensor de la **exfiscal Yanina V.** destacó las inconsistencias en las pruebas presentadas. “El fiscal ha mencionado documentos del IESS que solo confirman el **empleo de mi defendida**, pero en ningún caso prueban su vinculación con actividades delictivas. No basta con mostrar documentos que no tienen relación con el caso. Se requiere probar el nexo directo entre la acusada y los delitos que se le imputan, lo cual no ha ocurrido”, afirmó.
+
+> 🔵[#SalaPenalCNJ](https://twitter.com/hashtag/SalaPenalCNJ?src=hash&ref_src=twsrc%5Etfw) | Audiencia evaluatoria y preparatoria de juicio en contra del ciudadano Wilman T. y otros por el presunto delito de delincuencia organizada.[#AudienciasCNJ](https://twitter.com/hashtag/AudienciasCNJ?src=hash&ref_src=twsrc%5Etfw)  
+> 💻 Sigue la audiencia aquí [https://t.co/xWbFwg0zCQ](https://t.co/xWbFwg0zCQ) [pic.twitter.com/wOEcas98ra](https://t.co/wOEcas98ra)
+> 
+> — Corte Nacional de Justicia (@CorteNacional) [September 20, 2024](https://twitter.com/CorteNacional/status/1837122039645360189?ref_src=twsrc%5Etfw)
+
+También señaló que la Fiscalía ha incluido **chats de supuestas conversaciones** que no pueden ser verificadas. “Se ha pretendido vincular a mi defendida con mensajes entre terceros, pero no hay ninguna evidencia que demuestre que estas **conversaciones son reales o que involucren a mi cliente**. El fiscal ha fallado en su deber de probar estas acusaciones de manera objetiva”, agregó.
+
+Continuación del proceso en el caso Metástasis
+----------------------------------------------
+
+El conjuez Manuel Cabrera, encargado del caso, indicó que tras la finalización de las intervenciones de las defensas, se abrirá un **periodo para la evaluación de posibles acuerdos probatorios** o exclusiones de pruebas.
+
+El juez mencionó que **se tomará el tiempo necesario para deliberar sobre las numerosas exposiciones** y el extenso expediente del caso, lo que podría extender el proceso varios días más.
+
+Se espera que, una vez concluyan la**s exposiciones de todas las partes**, se tome una decisión sobre el futuro de los acusados, que podría incluir el llamamiento a juicio o la exoneración de los mismos.
+
+¿Cómo le fue a los ecuatorianos en la Champions League?
+=======================================================
+
+La Champions League 2024-2025 es la que mayor cantidad de ecuatorianos tiene en la historia y la mayoría inicio con pie derecho.
+--------------------------------------------------------------------------------------------------------------------------------
+
+![Piero Hincapié, uno de los ecuatorianos en la UEFA Champions League, celebra su triunfo con el Bayer Leverkusen.](https://www.elcomercio.com/wp-content/uploads/2024/09/Diseno-sin-titulo-2024-09-20T164652.308.jpg)
+
+El inicio de la UEFA Champions League trajo consigo los compromisos de cuatro futbolistas ecuatorianos que arribaron a la competición. **Willian Pacho, Piero Hincapié, Angelo Preciado y Joel Ordóñez** tuvieron acción y, a nivel general, dejaron un saldo positivo.
+
+La temporada 2024-2025 quedará como la primera en la historia en la que se cambió su modalidad inicial a un formato de liga y se eliminó la fase de grupos. Pese a ello, también se constituyó un hito para **Ecuador**, pues nunca antes habían coincidido tantos jugadores del país en dicho torneo.
+
+### Más noticias:
+
+* [¿Cómo será el nuevo formato de la UEFA Champions League?](https://www.elcomercio.com/deportes/uefa-champions-league-formato-partidos.html "¿Cómo será el nuevo formato de la UEFA Champions League?")
+* [En Francia elogian debut de Willian Pacho en Champions League](https://www.elcomercio.com/deportes/futbol/francia-elogian-debut-de-willian-pacho-en-champions-league.html "En Francia elogian debut de Willian Pacho en Champions League")
+* [Atlético de Madrid empieza con pie derecho en la Champions](https://www.elcomercio.com/deportes/atletico-madrid-leipzig-uefa-champions-league.html "Atlético de Madrid empieza con pie derecho en la Champions")
+
+Cada futbolista tricolor que se encuentra en el certamen representa a un equipo diferente. En función de ello, de los **cuatro compromisos** que se jugaron, tres resultaron en una victoria para los tricolores y tan solo uno fue derrotado.
+
+Todos los futbolistas del país que están dentro del torneo también son representantes en de la Selección de Ecuador. Asimismo, Willian **Pacho** representa al PSG, Piero **Hincapié** al Bayer Leverkusen, Angelo **Preciado** al Sparta Praga y Joel **Ordóñez** al Brujas.
+
+Angelo Preciado y un debut goleador en Champions League
+-------------------------------------------------------
+
+El primero de los jugadores ecuatorianos en mostrarse en la UEFA Champions League fue **Angelo Preciado**. El lateral derecho tuvo una destacada actuación con el Sparta Praga y su equipo logró golear al **RB Salzburgo**.
+
+Para el choque, Preciado y su equipo recibieron a los austriacos en República Checa y no dejaron dudas de su poderío. **Kan Kairinen** puso el primer tanto y **Victor Olatunji y Qazim Laci** completaron el marcador de 3-0.
+
+El ecuatoriano saltó como titular en el compromiso y se mantuvo durante los 90 minutos. El triunfo dejó a su escuadra en la **sexta posición** de la tabla.
+
+Willian Pacho, figura en la defensa y una victoria con lo justo
+---------------------------------------------------------------
+
+El partido de estreno para el **PSG y Willian Pacho** se llevó a cabo frente al Girona de España. Pacho, quien ha sido un refuerzo efectivo para el equipo francés, arrancó desde el inicio y fue un baluarte para que la escuadra sostenga su resultado.
+
+El equipo parisino recibió a los españoles en el Parque de los Príncipes y el compromiso se mantuvo igualado hasta el cierre. En una jugada en la que **Willian Pacho** dio una preasistencia, el balón terminó en el fondo de las redes.
+
+La victoria deja al **PSG** en la decimoquinta posición de la tabla.
+
+Piero Hincapié y el Leverkusen se consolidan en la Champions
+------------------------------------------------------------
+
+El **Bayer Leverkusen y Piero Hincapié** jugaron como visitantes ante el **Feyenoord** de Países Bajos. Al igual que sus compatriotas, el esmeraldeño fue titular y se mantuvo en la cancha durante todo el compromiso.
+
+El cotejo finalizó con una goleada de **4-0 favorable** al equipo ‘farmacéutico’. Hincapié estuvo sólido en la defensa y estuvo a punto de convertir un gol de no ser por un contacto previo que igual terminó con el balón en el fondo de las redes.
+
+El central es el mejor ubicado en función de los demás ecuatorianos en la tabla. Él y el **Bayer Leverkusen** se ubican en la tercera posición.
+
+Joel Ordóñez, el único que perdió en Champions
+----------------------------------------------
+
+**Joel Ordóñez** jugó la Champions con el Brujas de Bélgica. Este fue el único de los tricolores que se llevó un resultado adverso.
+
+El conjunto belga enfrentó en casa al **Borussia Dortmund**. A pesar de aguantar el empate y mostrarse firme, los minutos fueron lapidarios y dirimieron la derrota de 0-3.
+
+El resultado dejó a **Ordóñez** y a su escuadra en los últimos puestos. El **Brujas** ocupa la posición 31 de la competición.
+
+Gobierno ofrece enfrentar la crisis energética con la inclusión de 1 430 megavatios
+===================================================================================
+
+La compra de generación de energía contempla una inversión que supera los 1 150 millones de dólares.
+----------------------------------------------------------------------------------------------------
+
+![La barcaza Emre Bey genera más de 100 MW para el Ecuador](https://www.elcomercio.com/wp-content/uploads/2024/09/emre-bey.jpg)
+
+La **crisis hídrica** que se registra en Ecuador, en gran parte por la falta de lluvias, ha provocado que desde el Gobierno se apliquen una serie de medidas de **austeridad energética**.
+
+Entre ellas, cinco jornadas de **cortes de luz programados** a nivel nacional: el primero, el miércoles 18 de septiembre, y los siguientes entre el lunes 23 y jueves 26 de septiembre de 2024.
+
+### Más noticia
+
+* [Ciudades de Ecuador tuvieron cortes de luz el 20 de septiembre](https://www.elcomercio.com/actualidad/ecuador/cortes-luz-ciudades-ecuador-celec-falla-humana.html "Ciudades de Ecuador tuvieron cortes de luz el 20 de septiembre")
+* [¿Cuándo serán los próximos cortes de luz en Ecuador?](https://www.elcomercio.com/actualidad/negocios/cuando-seran-los-proximos-cortes-de-luz-en-ecuador.html "¿Cuándo serán los próximos cortes de luz en Ecuador?")
+* [Cortes de luz generan más costos y riesgos de seguridad en sector logístico de Ecuador](https://www.elcomercio.com/actualidad/negocios/cortes-de-luz-generan-mas-costos-y-riesgos-de-seguridad-en-sector-logistico-de-ecuador.html "Cortes de luz generan más costos y riesgos de seguridad en sector logístico de Ecuador")
+
+Para enfrentar lo que según las autoridades es el “estiaje más severo de los últimos **61 años**“, Daniel Noboa, junto a su equipo de ministros, aseguró que el Estado comprometerá alrededor de **1 430 W**.
+
+Según datos del Gobierno, el objetivo de estabilizar al país energéticamente a **mediano plazo** se lo realizará a través **nueve proyectos** incluidos en dos bloques de generación.
+
+Primer bloque de generación
+---------------------------
+
+El primer bloque contempla la contratación de **341 megavatios** (MW), con una inversión de **350 millones de dólares**.
+
+El proceso incluyó el alquiler la **barcaza Emre Bey**, que le entrega al país más de **100 MW**.
+
+Además de la compra de generación permanente en tierra por **240 MW**, distribuidos en tres sectores:
+
+* Esmeraldas: 91 MW
+* Salitral (Guayas): 100 MW
+* Quevedo (Los Ríos): 50 MW
+
+Se espera que los proyectos estén habilitados para noviembre o diciembre de 2024.
+
+El Gobierno también considera como un logro la suma de **69 MW** al sistema eléctrico por “proyectos que estaban abandonados”.
+
+Estos megavatios hacen referencia a los 54,4 MW de la **Central Quevedo**, 8 MW de **Santa Elena** y 6,5 MW del Proyecto Eólico Minas de Huascacha, en **Azuay**.
+
+> BOLETÍN 371 | [#ElNuevoEcuador](https://twitter.com/hashtag/ElNuevoEcuador?src=hash&ref_src=twsrc%5Etfw) 🇪🇨  
+>   
+> El presidente [@DanielNoboaOk](https://twitter.com/DanielNoboaOk?ref_src=twsrc%5Etfw) toma medidas contundentes para enfrentar el estiaje más severo de los últimos 61 años y asegurar la soberanía energética del Ecuador.  
+>   
+> 📰➡️ [https://t.co/OyRmsAmECI](https://t.co/OyRmsAmECI) [pic.twitter.com/petlnZzLG6](https://t.co/petlnZzLG6)
+> 
+> — Comunicación Ecuador 🇪🇨 (@ComunicacionEc) [September 20, 2024](https://twitter.com/ComunicacionEc/status/1837210845320991140?ref_src=twsrc%5Etfw)
+
+Segundo bloque de generación
+----------------------------
+
+A los anteriores 410 MW mencionados, se suma una promesa de **1 020 MW**.
+
+Para la incorporación de estos megavatios se destinará una inversión que supera los **800 millones** de dólares.
+
+El monto incluye la compra de 520 MW de **generación en tierra** y el alquiler de 500 MW en **barcazas**.
+
+El alquiler de energía se distribuirá así:
+
+* **Las Esclusas** (Guayas): barcaza con 240 MW
+* **Guayaquil** o Durán (Guayas): barcaza con 120 MW
+* **Ecuagran** (Guayas): barcaza con 100 MW
+* **Termogas** de Machala (El Oro): 40 MW
+
+El proceso de contratación y el inicio de operaciones para estos cuatro proyectos está previsto a cumplirse hasta **diciembre** de este año.
+
+Otro de los ofrecimientos de la actual administración es “garantizar una **soberanía energética** que no dependa solamente de las hidroeléctricas”.
+
+Para ello, el Gobierno aseguró que se trabaja en la importación, almacenamiento, distribución y comercialización de **gas natural**.
+
+Se busca que esta alternativa sea una fuente combustible más limpia y eficiente para la generación térmica.
+
+Estados Unidos se pronunció sobre una posible presencia militar en Ecuador
+==========================================================================
+
+El pronunciamiento de Estados Unidos sobre su posible presencia militar en Ecuador se resaltó en un comunicado de la Embajada.
+------------------------------------------------------------------------------------------------------------------------------
+
+![La Embajada de Estados Unidos emitió un comunicado explicando su posición sobre una posible presencia militar en Ecuador.](https://www.elcomercio.com/wp-content/uploads/2024/09/Diseno-sin-titulo-27.jpg)
+
+**Estados Unidos (EE.UU.)** se pronunció sobre su posible **presencia militar** en **Ecuador**, el jueves 19 de septiembre de 2024.
+
+A través de un comunicado emitido por la Embajada de EE.UU. en Quito sobre la visita de una autoridad, ese país mostró su posición respecto a la **cooperación en seguridad** con Ecuador.
+
+### Más noticias:
+
+* [Daniel Noboa presentará proyecto para reformar la Constitución sobre bases militares extranjeras](https://www.elcomercio.com/actualidad/politica/daniel-noboa-proyecto-reformar-constitucion-bases-militares-extranjeras.html "Daniel Noboa presentará proyecto para reformar la Constitución sobre bases militares extranjeras")
+* [Propuesta de Daniel Noboa sobre bases militares extranjeras debe seguir varios pasos](https://www.elcomercio.com/actualidad/politica/propuesta-daniel-noboa-bases-militares-extranjeras.html "Propuesta de Daniel Noboa sobre bases militares extranjeras debe seguir varios pasos")
+* [Estados Unidos y Ecuador firmaron un convenio ¿En qué consiste?](https://www.elcomercio.com/actualidad/politica/estados-unidos-y-ecuador-firmaron-un-convenio-en-que-consiste.html "Estados Unidos y Ecuador firmaron un convenio ¿En qué consiste?")
+
+El pronunciamiento de Estados Unidos se da días después de que el presidente **Daniel Noboa** enviara una propuesta a la **Corte Constitucional.**
+
+Noboa plantea una reforma constitucional sobre bases militares extranjeras en el país.
+
+La última base militar extranjera en Ecuador fue la Base de Manta, liderada por el Gobierno de Estados Unidos.
+
+El pronunciamiento de Estados Unidos sobre una posible presencia militar en Ecuador
+-----------------------------------------------------------------------------------
+
+**Linda Fagan**, comandante de la Guardia Costera de EE.UU. visitó Quito para fortalecer la cooperación marítima.
+
+La Embajada de EE.UU. emitió un **comunicado** al respecto, en el que se pronunció sobre la posible presencia militar.
+
+Esto, a través de la firma de un compromiso para la entrega oficial de dos patrulleros de 33.5 metros.
+
+El comunicado señala que Estados Unidos se enorgullece de su apoyo para ampliar las capacidades de defensa y seguridad de Ecuador.
+
+El texto señala que estos acuerdos regulan las operaciones que realiza el personal militar estadounidense **“temporalmente”**.
+
+Estos parámetros operativos se aplican en Ecuador para realizar entrenamientos, desarrollar capacidades o entregar recursos. 
+
+Más adelante, Estados Unidos señala que no tiene planes de solicitar permiso a Ecuador para establecer **presencia militar permanente a Ecuador**.
+
+Aunque, sí amplían y profundizan la cooperación con el Ecuador a través de entrenamiento, equipos, infraestructura.
+
+Además, operaciones conjuntas, entre otras actividades, para enfrentar los desafíos de seguridad compartidos, señaló el comunicado de la Embajada.
+
+> La Almirante Linda L. Fagan, Comandante de la Guardia Costera de los 🇺🇸, visitó Quito para conocer de primera mano los desafíos y las oportunidades de las operaciones marítimas en el Ecuador. Durante sus reuniones con [@CancilleriaEc](https://twitter.com/CancilleriaEc?ref_src=twsrc%5Etfw), [@MinInteriorEc](https://twitter.com/MinInteriorEc?ref_src=twsrc%5Etfw), y [@DefensaEc](https://twitter.com/DefensaEc?ref_src=twsrc%5Etfw), la [@ComdtUSCG](https://twitter.com/ComdtUSCG?ref_src=twsrc%5Etfw)… [pic.twitter.com/IgjuLpbw3N](https://t.co/IgjuLpbw3N)
+> 
+> — US Embassy Ecuador (@USembassyEC) [September 19, 2024](https://twitter.com/USembassyEC/status/1836865629518708836?ref_src=twsrc%5Etfw)
+
+Selección de Ecuador bajó los precios de sus entradas
+=====================================================
+
+Atención, aficionados de la 'Tri', ahora los boletos costarán menos para ver a la selección
+-------------------------------------------------------------------------------------------
+
+![Aficionado de la Selección de Ecuador durante el partido contra Perú en las eliminatorias sudamericanas.](https://www.elcomercio.com/wp-content/uploads/2024/09/ENDRICK-PALMEIRAS-2024-09-20T155321.034.jpg)
+
+La **Federación Ecuatoriana de Fútbol (**FEF) ha decidido reducir el precio de una de las localidades más importantes, tras la baja afluencia de público en el partido entre la **Selección de** **Ecuador** y Perú en el Estadio Rodrigo Paz Delgado.
+
+Este viernes 20 de septiembre, la **FEF** publicó toda la información sobre el proceso de compra de boletos para el encuentro entre la ‘Tri’ y la selección de Paraguay, que se jugará el 10 de octubre en Quito, a las 16:00.
+
+### Más noticias:
+
+* [Anderson Julio y Leonardo Campana, ¿opciones para la Selección de Ecuador?](https://www.elcomercio.com/deportes/futbol/anderosn-julio-leonardo-campana-seleccion.html "Anderson Julio y Leonardo Campana, ¿opciones para la Selección de Ecuador?")
+* [La Selección de Ecuador se mantiene 27 en el ranking FIFA](https://www.elcomercio.com/deportes/futbol/seleccion-ecuador-raking-fifa-septiembre.html "La Selección de Ecuador se mantiene 27 en el ranking FIFA")
+* [Ecuador vs. Paraguay tendrá terna de árbitros brasileños](https://www.elcomercio.com/deportes/futbol/ecuador-vs-paraguay-tendra-terna-de-arbitros-brasilenos.html "Ecuador vs. Paraguay tendrá terna de árbitros brasileños")
+
+Ecuador llega a este compromiso en la cuarta posición de la tabla de clasificación rumbo al Mundial 2026, con 11 puntos en ocho fechas. **Paraguay, dirigido por Gustavo Alfaro**, ocupa la séptima casilla con 9 puntos.
+
+Reducción en el precio de las entradas
+--------------------------------------
+
+Mediante un comunicado oficial, la FEF anunció la reducción del precio de la localidad General, buscando motivar a los hinchas a apoyar a la **Selección de Ecuador.**
+
+“La General se reducirá en un 28%, **pasando de 35 a 25 dólares.** Esta decisión responde a nuestro compromiso con los hinchas más fieles, para hacer más accesible la experiencia de alentar a la ‘Tri'”, detalló la FEF.
+
+Cabe mencionar que estos precios no incluyen el 15 % correspondiente al IVA. Las demás localidades mantienen los mismos precios que en partidos anteriores.
+
+> 🎫 Venta de entradas | Ecuador vs. Paraguay  
+>   
+> 📆 Lunes 23/9 a partir de las 12h00: exclusivo para socios FANFEF  
+>   
+> 📆 Miércoles 25/9 a partir de las 14h00: venta a todo el público  
+>   
+> 🏟️ Rodrigo Paz Delgado, 10/10 16h00  
+>   
+> Más información: [https://t.co/LBHXOSSA6f](https://t.co/LBHXOSSA6f) [pic.twitter.com/BOlKjjAZVD](https://t.co/BOlKjjAZVD)
+> 
+> — FEF 🇪🇨 (@FEFecuador) [September 20, 2024](https://twitter.com/FEFecuador/status/1837218899965968816?ref_src=twsrc%5Etfw)
+
+Proceso de compra y precios de las entradas
+-------------------------------------------
+
+Para los miembros del programa **‘Fan FEF’,** quienes pertenecen a la categoría Oro tendrán acceso al palco para los seis últimos partidos como locales. Los miembros de la categoría Plata se ubicarán en tribuna, mientras que los de la categoría Bronce tendrán prioridad en la compra de boletos y un descuento de hasta el 25%.
+
+Los **miembros Oro y Plata** podrán comprar sus entradas desde ya en la página web de la FEF, mientras que los de la categoría Bronce deberán esperar hasta el lunes 23 de septiembre, a partir de las 12:00. El público general podrá adquirir los boletos restantes desde el miércoles 25 de septiembre, a las 14:00.
+
+El límite máximo de compra por usuario es de ocho boletos.
+
+### Precios de las entradas
+
+**Palco Central Occidental/Oriental**
+
+* Precio regular: USD 150 + IVA
+* Categoría Bronce: USD 135 + IVA
+
+**Palco Occidental/Oriental Lateral**
+
+* Precio regular: USD 110 + IVA
+* Categoría Bronce: USD 99 + IVA
+
+**Tribuna Occidental/Oriental Central**
+
+* Precio regular: USD 90 + IVA
+* Categoría Bronce: USD 77 + IVA
+
+**Tribuna Occidental/Oriental Esquinas**
+
+* Precio regular: USD 60 + IVA
+* Categoría Bronce: USD 48 + IVA
+
+**General Norte/Sur, Baja y Alta**
+
+* Precio regular: USD 25 + IVA
+* Categoría Bronce: USD 19 + IVA
+
+Un pajasero de avión encontró un ratón vivo en su comida
+========================================================
+
+Este es el segundo incidente de viaje relacionado con roedores en una semana.
+-----------------------------------------------------------------------------
+
+![Un ratón sorprendió a los pasajeros de un vuelo.](https://www.elcomercio.com/wp-content/uploads/2024/09/raton-pexels.jpg)
+
+**Scandinavian Airlines** informó que uno de sus vuelos tuvo que realizar un **aterrizaje de emergencia** después de que un ratón se escapó de la comida a bordo de un pasajero, de acuerdo con el portal de la BBC.
+
+### Más noticias
+
+* [Una hipótesis puede explicar cómo se siniestró avión en Brasil que llevaba 62 personas](https://www.elcomercio.com/actualidad/mundo/una-hipotesis-puede-explicar-como-se-siniestro-avion-en-brasil-que-llevaba-62-personas.html "Una hipótesis puede explicar cómo se siniestró avión en Brasil que llevaba 62 personas")
+* [Aeropuerto Mariscal Sucre de Quito reprograma vuelos de salida y llegada](https://www.elcomercio.com/actualidad/ecuador/aeropuerto-mariscal-sucre-de-quito-reprograma-vuelos-de-salida-y-llegada.html "Aeropuerto Mariscal Sucre de Quito reprograma vuelos de salida y llegada")
+* [Incendios no afectan vuelos en Quito; el sábado habrá reprogramación](https://www.elcomercio.com/actualidad/quito/incendios-no-afectan-vuelos-en-quito-sabado-habra-reprogramacion.html "Incendios no afectan vuelos en Quito; el sábado habrá reprogramación")
+
+El avión viajaba desde Oslo, la capital de Noruega, a la ciudad española de Málaga y se vio obligado a realizar un aterrizaje de emergencia en Copenhague, Dinamarca, indica la BBC.
+
+Desvío del vuelo
+----------------
+
+El desvío se realizó de acuerdo con los **procedimientos de la compañía**, ya que el ratón representaba un **riesgo para la seguridad**, dijo el portavoz de la aerolínea, Oystein Schmidt, a la agencia de noticias AFP.
+
+Los pasajeros del vuelo fueron posteriormente, trasladados a Málaga en otro avión, según informó la BBC.
+
+“Lo creas o no. Una señora a mi lado aquí en SAS abrió la comida y saltó un ratón. Ahora dimos la vuelta y aterrizado en el Aeropuerto de Copenhague para cambios de vuelo”, escribió un pasajero, Jarle Borrestad, en su cuenta de Facebook.
+
+Segundo incidente de viaje
+--------------------------
+
+Es el segundo incidente de viaje relacionado con **roedores en una semana**, relata la BBC.
+
+Ardillas en un tren de Inglaterra
+---------------------------------
+
+Un servicio de tren en el sur de Inglaterra tuvo que ser cancelado a mitad del viaje después de que dos ardillas subieran a un vagón y una se negara a bajarse.
+
+Manu Chao regresa con ‘Viva Tu’ después de 17 años de silencio discográfico
+===========================================================================
+
+El disco tiene una inédita colaboración con Willie Nelson.
+----------------------------------------------------------
+
+![Manu Chao durante una presentación en agosto de 2024. Foto: Instagram @manuchaoofficial](https://www.elcomercio.com/wp-content/uploads/2024/09/manu-chao-viva-tu-El-comercio-1.jpg)
+
+El legendario músico **Manu Chao** vuelve a la escena musical con **‘Viva Tu**‘, su primer álbum de estudio tras 17 años de ausencia.
+
+El nuevo disco, lanzado el 20 de septiembre de 2024, marca un regreso triunfal en el que el **artista franco-español** retoma su sonido característico, sin perder su esencia rebelde y comprometida.
+
+### Más noticias
+
+* **[‘La lógica del escorpión’ grita que Charly sigue siendo Charly](https://www.elcomercio.com/videos/lalogicadelescorpion-charly-garcia-rompela.html "https://www.elcomercio.com/videos/lalogicadelescorpion-charly-garcia-rompela.html")**
+* **[Muere Juan Brujo, líder de la banda mexicana de metal Brujería](https://www.elcomercio.com/tendencias/cultura/juan-brujo-brujeria-obituario-metal.html "https://www.elcomercio.com/tendencias/cultura/juan-brujo-brujeria-obituario-metal.html")** 
+
+Tras el éxito de sus últimos trabajos a principios de los 2000, Chao vuelve con una producción que celebra la vida cotidiana y aborda temas sociales cruciales como la migración, la desigualdad y el medio ambiente.
+
+Desde los primeros acordes de Viva Tu, queda claro que Manu Chao no ha perdido su capacidad para mezclar géneros como el reggae, el ska y los ritmos latinos.
+
+El sencillo **Vecinos en el Mar** abre el disco con una energía festiva, pero es a través de letras cargadas de reflexión social que Chao muestra su compromiso con las causas que siempre han marcado su carrera.
+
+Cantando en español, francés, portugués e inglés, el artista ofrece un recorrido sonoro que refleja su multiculturalidad y su pasión por la justicia.
+
+**Un regreso fiel a su estilo**
+-------------------------------
+
+![Portada del disco 'Viva Tu', de Manu Chao. ](https://www.elcomercio.com/wp-content/uploads/2024/09/manu-chao-viva-tu-El-comercio-1024x683.jpg)
+
+Portada del disco ‘Viva Tu’, de Manu Chao.
+
+‘Viva Tu’ destaca por su producción cuidadosa y el sonido inconfundible de la guitarra acústica de Manu Chao. Canciones como **Tantas Tierras y La Colilla** exploran tanto la resiliencia ante la adversidad como los pequeños detalles de la vida diaria, manteniendo una ligereza que contrasta con los mensajes profundos de las letras.
+
+La mezcla de instrumentos acústicos y electrónicos, junto con el uso de sintetizadores que evocan sonidos de juguetes, le dan al álbum un aire de frescura y originalidad que sigue siendo fiel a la identidad sonora del músico.
+
+El disco no solo es un reflejo de la continuidad en la carrera de Chao, sino también una muestra de su capacidad para adaptarse sin perder su esencia. La **colaboración sorpresa con Willie Nelson en Heaven’s Bad Day** es uno de los puntos altos del álbum, donde ambos artistas exploran los demonios internos que enfrentan en su día a día.
+
+> [Ver esta publicación en Instagram](https://www.instagram.com/reel/DAJb_TnoKAu/?utm_source=ig_embed&utm_campaign=loading)
+> 
+> [Una publicación compartida por Manu Chao (@manuchaoofficial)](https://www.instagram.com/reel/DAJb_TnoKAu/?utm_source=ig_embed&utm_campaign=loading)
+
+**Una celebración de la vida y la gente común**
+-----------------------------------------------
+
+A lo largo del disco, Manu Chao celebra a las personas que forman parte de la vida diaria: los vecinos, los trabajadores comunes y corrientes.
+
+Este homenaje es particularmente evidente en canciones como **Vecinos en el Mar y São Paulo Motoboy**, en las que el músico canta sobre la lucha diaria por sobrevivir y encontrar sentido en un mundo complejo. Escucha el disco **[aquí](https://open.spotify.com/intl-es/album/0de0VSMdg29Rwoe9MG4ck2?go=1&sp_cid=d10b1773953e9ec1d0b1b658fc8cbcdc&utm_source=embed_player_p&utm_medium=desktop&nd=1&dlsi=f152a24be89e4eaa)**.
