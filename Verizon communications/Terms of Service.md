@@ -63,6 +63,7 @@ Shop
         * [Apple iPhone 16](https://www.verizon.com/smartphones/apple-iphone-16/)
         * [Samsung Galaxy S24 Ultra](https://www.verizon.com/smartphones/samsung-galaxy-s24-ultra/)
         * [Google Pixel 9 Pro](https://www.verizon.com/smartphones/google-pixel-9-pro/)
+    * [Upgrade your device](https://www.verizon.com/sales/nextgen/mdnselection.html?mtnFlow=M&fromGnav=true)
     * [Bring your own device](https://www.verizon.com/bring-your-own-device/)
     * [Unlocked phones](https://www.verizon.com/smartphones/?condition=unlocked)
     * [Other phones](https://www.verizon.com/featured/shop-phones-devices/)
@@ -277,9 +278,11 @@ Close
 
 [Personal](https://www.verizon.com/) [Business](https://www.verizon.com/business/)
 
-iPhone 16 Pro. Get it on us. [Pre-order](https://www.verizon.com/smartphones/apple-iphone-16-pro/) Or get up to $540 when you [bring your own phone](https://www.verizon.com/bring-your-own-device/).  |  [Details](javascript:void(0);)
+iPhone 15 Plus. Get it on us with a new line on any myPlan + free next day shipping. No trade req'd. Online only. [Buy now](https://www.verizon.com/smartphones/apple-iphone-15-plus/)  |  [Details](javascript:void(0);)
 
-Details: Bring your own device: Receive up to $540 promo credit ($360 on postpaid Unlimited Plus or $540 on Unlimited Ultimate) when you add a new smartphone line with your own 4G/5G smartphone. Promo credit applied over 36 months; promo credits end if eligibility requirements are no longer met. Offer may not be combined with other offers. Limited time offer.
+Details: $829.99 (128 GB only) purchase w/ new smartphone line on Unlimited Ultimate, postpaid Unlimited Plus or Unlimited Welcome plan (min. $65/mo w/Auto Pay (+taxes/fees) for 36 mos) req'd. Less $829.99 promo credit applied over 36 mos.; promo credit ends if eligibility req’s are no longer met; 0% APR. Offer may not be combined with other offers.  
+  
+Free next-day shipping on any qualifying smartphone available till 6PM ET for orders placed Mon—Fri (excluding holidays). Subject to inventory availability for destinations within the contiguous U.S. only. Add'l terms and conditions may apply. (Excludes prepaid.)
 
 end of navigation menu
 
