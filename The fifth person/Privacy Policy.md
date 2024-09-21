@@ -218,19 +218,19 @@ Quick Guides
     
 * [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
-    ![](https://fifthperson.com/wp-content/uploads/2019/09/amazon.jpg)](https://fifthperson.com/amazon-q2-2024-earnings-call/)
-    
-    [Amazon Q2 2024 earnings call: Strong performance across all segments](https://fifthperson.com/amazon-q2-2024-earnings-call/)
-    
-    4 weeks ago
-    
-* [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
     ![](https://fifthperson.com/wp-content/uploads/2024/09/nvidia-220x150.jpg)](https://fifthperson.com/nvidia-q2-2025-earnings-call/)
     
     [Nvidia Q2 2025 earnings call: AI and data centers continue to push growth](https://fifthperson.com/nvidia-q2-2025-earnings-call/)
     
     2 weeks ago
+    
+* [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    ![](https://fifthperson.com/wp-content/uploads/2020/09/gloves-220x150.jpg)](https://fifthperson.com/2024-hartalega-agm/)
+    
+    [10 things I learned from the 2024 Hartalega AGM](https://fifthperson.com/2024-hartalega-agm/)
+    
+    1 week ago
     
 * [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
