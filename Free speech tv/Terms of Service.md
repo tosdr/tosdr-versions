@@ -153,14 +153,16 @@ These terms and conditions are governed by and construed in accordance with the 
 * [Privacy](https://freespeech.org/privacy/)
 * [Contact](https://freespeech.org/contact-us/)
 
-Double Your Impact
+[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20173%20173'%3E%3C/svg%3E)
 
-**Today Only  
-$10,000 DOUBLE Match  
-[Donate Now!](https://freespeech.org/donate-all/?utm_source=email9.19.popup)**
+![](https://freespeech.org/wp-content/uploads/2023/06/Untitled-design-e1726875899236-150x150.png)](https://freespeech.org/store/?utm_source=popup.tote)
+
+**Claim Your Free Tote  
+And Help Amplify Independent Coverage of the 2024 Election  
+[Donate Now!](https://freespeech.org/store/?utm_source=popup.tote)**
 
 [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20532%2080'%3E%3C/svg%3E)
 
-![](https://freespeech.org/wp-content/uploads/2023/06/With-FSTV-5-1024x154.jpg)](https://freespeech.org/donate-all/)
+![](https://freespeech.org/wp-content/uploads/2023/06/With-FSTV-5-1024x154.jpg)](https://freespeech.org/store/?utm_source=popup.tote)
 
 ×
