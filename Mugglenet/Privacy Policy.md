@@ -280,15 +280,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-During filming, Ollivander’s wand shop had over 17,000 individually labeled wand boxes inside.
+Nicholas Flamel was a real person who made it his life’s work to try to create a Philosopher’s Stone after learning about alchemy.
 
 ### Potter History
 
-December 5, 2009 – The first trailer for Harry Potter and the Deathly Hallows – Part 1 is released online.
+April 4, 2005 – Amazon guaranteed delivery of Half-Blood Prince to be on your doorstep on July 16.
 
 ### Potter Quote
 
-“If you went out and got a bit of snogging done yourself, you wouldn’t mind so much that everyone else does it!”
+“I wonder how you expect to gain an idea of my usual teaching methods if you continue to interrupt me? You see, I do not generally permit people to talk when I am talking.”
 
 [](#)
 
