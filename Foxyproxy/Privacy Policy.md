@@ -124,6 +124,6 @@ If you have questions about (or suggestions for!) this policy, please [contact u
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-I must say that I am impressed by the FoxyProxy support. Having done similar work in the past I know how difficult it is to provide timely and effective IT support.
+I was very satisfied with your service. Reason I stopped the subscription is that a football season was over. I'll return to your service for the next football season. Thank you for your giving me a nice proxy server.
 
-Norbert Fortelny
+Shigeo Yoshinari
