@@ -49,7 +49,6 @@ By using BestFreeStreaming.org, you agree to abide by these terms. If you disagr
 
 BFS uses Cloudflare [Web Analytics](https://www.cloudflare.com/web-analytics/) to track which pages are accessed. This information is anonymized. Cloudflare Web Analytics does not use cookies to collect usage metrics and they don't "fingerprint" individuals via their IP address.
 
-* [Home](https://www.bestfreestreaming.org/)
 * [Contact](https://www.bestfreestreaming.org/contact.html)
 * [Submit website](https://www.bestfreestreaming.org/submit.html)
 * [Terms of use](https://www.bestfreestreaming.org/terms.html)
@@ -58,6 +57,6 @@ BFS uses Cloudflare [Web Analytics](https://www.cloudflare.com/web-analytics/) t
 * [Tv shows](https://www.bestfreestreaming.org/best-free-streaming/tv-shows.html)
 * [Anime](https://www.bestfreestreaming.org/best-free-streaming/anime.html)
 
-[bestfreestreaming.org](#top)
+bestfreestreaming.org
 
 Disclaimer: BestFreeStreaming.org is a blog; it does not host video files or operate as a streaming service. BFS provides links to third-party sites for informational purposes. Users are urged to read and understand our [terms](https://www.bestfreestreaming.org/terms.html) before accessing external content.
