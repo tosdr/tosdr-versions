@@ -107,7 +107,7 @@ August 24, 2024
 
 [elena and elin (mythology) created by psychorodent](https://yiff-party.com/yiff/elena-and-elin-mythology-created-by-psychorodent/)
 
-0 487 1
+0 497 1
 
 August 24, 2024
 
@@ -115,15 +115,15 @@ August 24, 2024
 
 [created by rabbitbrush](https://yiff-party.com/yiff/created-by-rabbitbrush/)
 
-0 193 1
+0 207 1
 
 September 11, 2024
 
-[](https://yiff-party.com/yiff/nintendo-and-etc-created-by-marchharedraws/)
+[](https://yiff-party.com/yiff/matador-directed-by-avaru/)
 
-[nintendo and etc created by marchharedraws](https://yiff-party.com/yiff/nintendo-and-etc-created-by-marchharedraws/)
+[matador directed by avaru](https://yiff-party.com/yiff/matador-directed-by-avaru/)
 
-0 97 0
+0 100 0
 
 August 22, 2024
 
