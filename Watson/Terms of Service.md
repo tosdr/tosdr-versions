@@ -1,4 +1,4 @@
-[![watson](https://www.watson.ch/fr/_watsui/static/img/logos/logo_watson_navi_ch.png)](https://www.watson.ch/fr/)[![dégagé](https://www.watson.ch/fr/_watsui/static/img/weather/w-90.svg)11°](https://www.watson.ch/fr/o/meteo)
+[![watson](https://www.watson.ch/fr/_watsui/static/img/logos/logo_watson_navi_ch.png)](https://www.watson.ch/fr/)[![brouillard](https://www.watson.ch/fr/_watsui/static/img/weather/w-56.svg)9°](https://www.watson.ch/fr/o/meteo)
 
 [DE](https://www.watson.ch/) | [FR](https://www.watson.ch/fr/)
 
@@ -55,26 +55,26 @@
 
 Thèmes du moment
 
-* [Conseil fédéral](https://www.watson.ch/fr/conseil-federal/)
-* [Politique](https://www.watson.ch/fr/politique/)
-* [républicain](https://www.watson.ch/fr/republicain/)
-* [Séries](https://www.watson.ch/fr/series/)
-* [Donald Trump](https://www.watson.ch/fr/donald-trump/)
+* [Animaux](https://www.watson.ch/fr/animaux/)
 * [Santé](https://www.watson.ch/fr/sante/)
 * [Etats-Unis](https://www.watson.ch/fr/etats-unis/)
+* [Justice](https://www.watson.ch/fr/justice/)
+* [France](https://www.watson.ch/fr/france/)
 * [Israël](https://www.watson.ch/fr/israel/)
+* [Russie](https://www.watson.ch/fr/russie/)
 * [Armée](https://www.watson.ch/fr/armee/)
 * [Elon Musk](https://www.watson.ch/fr/elon-musk/)
+* [Argent](https://www.watson.ch/fr/argent/)
 * [route](https://www.watson.ch/fr/route/)
 * [hezbollah](https://www.watson.ch/fr/hezbollah/)
-* [Animaux](https://www.watson.ch/fr/animaux/)
 * [Terrorisme](https://www.watson.ch/fr/terrorisme/)
+* [Donald Trump](https://www.watson.ch/fr/donald-trump/)
 * [présidentielle américaine](https://www.watson.ch/fr/presidentielle-americaine/)
-* [France](https://www.watson.ch/fr/france/)
+* [Séries](https://www.watson.ch/fr/series/)
+* [républicain](https://www.watson.ch/fr/republicain/)
 * [Liban](https://www.watson.ch/fr/liban/)
-* [Russie](https://www.watson.ch/fr/russie/)
-* [Argent](https://www.watson.ch/fr/argent/)
-* [Justice](https://www.watson.ch/fr/justice/)
+* [Conseil fédéral](https://www.watson.ch/fr/conseil-federal/)
+* [Politique](https://www.watson.ch/fr/politique/)
 * [Tous les thèmes](https://www.watson.ch/fr/u/tag_list)
 
 * [Obtenir l'application](https://www.watson.ch/fr/u/app)
