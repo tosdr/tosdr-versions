@@ -1,4 +1,4 @@
-            
+      
 
 ![](https://www.facebook.com/tr?id=990838791019188&ev=PageView&noscript=1)
 
@@ -12,7 +12,17 @@
 * [My Account](https://www.autism-products.com/my-account)
 * [Cart](https://www.autism-products.com/cart)
 
-    [![Autism Products Logo](https://www.autism-products.com/wp-content/uploads/Autism-Products_logo-newtag_color-500px.png)  ![Autism Products Logo](https://www.autism-products.com/wp-content/uploads/Autism-Products_logo-newtag_color-500px.png)  ![Autism Products Logo](https://www.autism-products.com/wp-content/uploads/Autism-Products_logo-newtag_color-500px.png)](https://www.autism-products.com/)
+[![Autism Products Logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20500%2089'%3E%3C/svg%3E)
+
+![Autism Products Logo](https://www.autism-products.com/wp-content/uploads/Autism-Products_logo-newtag_color-500px.png)
+
+![Autism Products Logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20500%2089'%3E%3C/svg%3E)
+
+![Autism Products Logo](https://www.autism-products.com/wp-content/uploads/Autism-Products_logo-newtag_color-500px.png)
+
+![Autism Products Logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20500%2089'%3E%3C/svg%3E)
+
+![Autism Products Logo](https://www.autism-products.com/wp-content/uploads/Autism-Products_logo-newtag_color-500px.png)](https://www.autism-products.com/)
 
 Search for: 
 
@@ -302,6 +312,6 @@ Web: [Autism-Products.com](https://www.autism-products.com/)
 
 ![fbpx](https://www.facebook.com/tr?id=990838791019188&ev=PageView&noscript=1)
 
-                                                                                                    
+                                                                                                      
 
 [Go to Top](#)
