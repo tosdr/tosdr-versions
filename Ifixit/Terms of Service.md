@@ -230,11 +230,11 @@ _Looking for our **Data Security and Store Sales Policies**, including informati
 
 **View Statistics:**
 
-Past 24 Hours: 17
+Past 24 Hours: 15
 
-Past 7 Days: 122
+Past 7 Days: 113
 
-Past 30 Days: 486
+Past 30 Days: 473
 
 All Time: 59,939
 
