@@ -413,11 +413,11 @@ Class Central experiments with cataloging online courses from California Communi
 Most common
 -----------
 
-1. sql
+1. excel
     
-2. harvard
+2. finance
     
-3. web development
+3. French
     
 
 Popular subjects
@@ -426,9 +426,9 @@ Popular subjects
 1. [Web Development
     
     12,537 courses](https://www.classcentral.com/subject/web-development)
-2. [Communication Skills
+2. [Data Analysis
     
-    3,891 courses](https://www.classcentral.com/subject/communication-skills)
+    7,645 courses](https://www.classcentral.com/subject/data-analysis)
 3. [Digital Marketing
     
     5,788 courses](https://www.classcentral.com/subject/digital-marketing)
@@ -436,15 +436,15 @@ Popular subjects
 Popular courses
 ---------------
 
-1. [Mindshift: Break Through Obstacles to Learning and Discover Your Hidden Potential
+1. [Understanding Multiple Sclerosis (MS)
     
-    McMaster University](https://www.classcentral.com/course/mindshift-8289)
-2. [Young People and Mental Health
+    University of Tasmania](https://www.classcentral.com/course/independent-understanding-multiple-sclerosis-ms-13338)
+2. [Machine Learning for Musicians and Artists
     
-    University of Cambridge](https://www.classcentral.com/course/young-people-mental-health-9491)
-3. [Machine Learning Foundations: A Case Study Approach
+    Goldsmiths University of London](https://www.classcentral.com/course/kadenze-machine-learning-for-musicians-and-artists-3768)
+3. [Introduction to Genetics and Evolution
     
-    University of Washington](https://www.classcentral.com/course/ml-foundations-4352)
+    Duke University](https://www.classcentral.com/course/geneticsevolution-381)
 
 ![](https://ccweb.imgix.net/https%3A%2F%2Fwww.classcentral.com%2Fimages%2Flists%2Flist-empty.png?auto=format&ixlib=php-4.1.0&w=100&s=d64b43c1b6dcf041e56fce6ac1794fcf)
 
