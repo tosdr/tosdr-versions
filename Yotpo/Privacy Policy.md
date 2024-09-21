@@ -1,4 +1,4 @@
-[![Yotpo logo](data:image/svg+xml;nitro-empty-id=OTI4OjEzMQ==-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTEzIDMyIiB3aWR0aD0iMTEzIiBoZWlnaHQ9IjMyIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==)](https://www.yotpo.com/ "Yotpo")
+[![Yotpo logo](https://www.yotpo.com/wp-content/themes/yotpo/images/general/yotpo-logo-v3.svg)](https://www.yotpo.com/ "Yotpo")
 
 * [Platform](#)
     * * [The Platform](#)
@@ -24,7 +24,7 @@
         * [Email
             
             Drive more engagement with personalized, eye-catching emails.](https://www.yotpo.com/platform/email-marketing/)
-    * * [![Get a demo](data:image/gif;nitro-empty-id=MTExMjoxNTE=-1;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAAAICTAEAOw==)
+    * * [![Get a demo](https://www.yotpo.com/wp-content/uploads/2024/02/RAD-1.svg)
             
             Ready to see how it  
             all works?
@@ -39,9 +39,7 @@
             
             Meet the team that ensures you get the most out of Yotpo.](https://www.yotpo.com/customer-success/)
     * * [Winning with Yotpo](#)
-        *  [![Featured case study](data:image/svg+xml;nitro-empty-id=MTE5NjoxODI=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNDkyIDE0OCIgd2lkdGg9IjQ5MiIgaGVpZ2h0PSIxNDgiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)
-            
-            ![dime](data:image/gif;nitro-empty-id=MTE5ODoxNzE=-1;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAAAICTAEAOw==) DIME Beauty Sees Retention Skyrocket With Yotpo](https://www.yotpo.com/case-studies/dime-beauty-case-study/)
+        *  [DIME Beauty Sees Retention Skyrocket With Yotpo](https://www.yotpo.com/case-studies/dime-beauty-case-study/)
 * [Enterprise](https://www.yotpo.com/enterprise/)
 * [Pricing](https://www.yotpo.com/pricing/)
 * [Resources](#)
@@ -51,7 +49,7 @@
             Learn how to drive retention rates through the roof.](https://www.yotpo.com/resources/)
         * [Is Typing
             
-            Email & SMS inspiration. By marketers, for marketers.](https://www.yotpo.com/is-typing/)
+            Email & SMS inspiration. By marketers, for marketers.](https://www.yotpo.com/is-typing/)
         * [Yotpo Blog
             
             Get the latest news and insights from the team at Yotpo.](https://www.yotpo.com/blog/)
@@ -71,17 +69,17 @@
         * [Become a Partner](https://www.yotpo.com/partners/)
         * [Careers](https://www.yotpo.com/careers/)
     * * [Highlights](#)
-        * [![2024 Black Friday Calendar](data:image/gif;nitro-empty-id=MTM4MzoxNjg=-1;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAAAICTAEAOw==)
+        * [![2024 Black Friday Calendar](https://www.yotpo.com/wp-content/uploads/2024/08/Menu-1.svg)
             
             2024 Black Friday Calendar
             
             Everything you need to do for Black Friday, and when.](https://www.yotpo.com/ecommerce-marketing-calendar/)
-        * [![Amazing Women in eCommerce](data:image/gif;nitro-empty-id=MTM5NjoxNzE=-1;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAAAICTAEAOw==)
+        * [![Amazing Women in eCommerce](https://www.yotpo.com/wp-content/uploads/2023/05/AWIE@1x-1.svg)
             
             Amazing Women in eCommerce
             
             Highlighting the amazing women pushing our industry forward.](https://womeninecomm.yotpo.com/?utm_source=YotpoWeb&utm_medium=web-menu)
-        * [![Yotpo RX](data:image/gif;nitro-empty-id=MTQwOToxNTA=-1;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAAAICTAEAOw==)
+        * [![Yotpo RX](https://www.yotpo.com/wp-content/uploads/2023/08/Menu-1.svg)
             
             Yotpo RX
             
@@ -343,9 +341,9 @@ Support
 * [API Changelog](https://www.yotpo.com/api-changelog/)
 * [Yotpo Status](https://status.yotpo.com/)
 
- [![Yotpo logo](data:image/svg+xml;nitro-empty-id=MTczMToxMzA=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTg0IDUxIiB3aWR0aD0iMTg0IiBoZWlnaHQ9IjUxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==)](https://www.yotpo.com/ "Yotpo")Be the marketer you can be
+ [![Yotpo logo](https://www.yotpo.com/wp-content/themes/yotpo/images/general/yotpo-logo-black.svg)](https://www.yotpo.com/ "Yotpo")Be the marketer you can be
 
- [![Facebook](data:image/svg+xml;nitro-empty-id=MTczODoxNDc=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjUgMjUiIHdpZHRoPSIyNSIgaGVpZ2h0PSIyNSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=)](https://www.facebook.com/yotpo)[![Linkedin](data:image/svg+xml;nitro-empty-id=MTc0MToxNDY=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjUgMjUiIHdpZHRoPSIyNSIgaGVpZ2h0PSIyNSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=)](https://www.linkedin.com/company/yotpo)[![Twitter](data:image/svg+xml;nitro-empty-id=MTc0NDoxMzk=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjUgMjUiIHdpZHRoPSIyNSIgaGVpZ2h0PSIyNSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=)](https://www.twitter.com/yotpo)[![Instagram](data:image/svg+xml;nitro-empty-id=MTc0NzoxNDk=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjUgMjUiIHdpZHRoPSIyNSIgaGVpZ2h0PSIyNSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=)](https://www.instagram.com/yotpo/)
+ [](https://www.facebook.com/yotpo)[](https://www.linkedin.com/company/yotpo)[](https://www.twitter.com/yotpo)[](https://www.instagram.com/yotpo/)
 
 ###### Sign up for
 
@@ -353,7 +351,7 @@ Sign up for weekly email & SMS inspiration by marketers, for marketers.
 
 [Terms of Service](https://www.yotpo.com/terms-of-service/) [Privacy Policy](https://www.yotpo.com/privacy-policy/) [Security](https://www.yotpo.com/security/) [Website Terms of Use](https://www.yotpo.com/terms-of-use/) [Cookie Settings](javascript:void(0)) [Accessibility](javascript:void(0))
 
- [![Facebook](data:image/svg+xml;nitro-empty-id=MTg2MDoxMzk=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjUgMjUiIHdpZHRoPSIyNSIgaGVpZ2h0PSIyNSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=)](https://www.facebook.com/yotpo)[![Linkedin](data:image/svg+xml;nitro-empty-id=MTg2MzoxMzg=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjUgMjUiIHdpZHRoPSIyNSIgaGVpZ2h0PSIyNSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=)](https://www.linkedin.com/company/yotpo)[![Twitter](data:image/svg+xml;nitro-empty-id=MTg2NjoxMzE=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjUgMjUiIHdpZHRoPSIyNSIgaGVpZ2h0PSIyNSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=)](https://www.twitter.com/yotpo)[![Instagram](data:image/svg+xml;nitro-empty-id=MTg2OToxNDE=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjUgMjUiIHdpZHRoPSIyNSIgaGVpZ2h0PSIyNSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=)](https://www.instagram.com/yotpo/)
+ [](https://www.facebook.com/yotpo)[](https://www.linkedin.com/company/yotpo)[](https://www.twitter.com/yotpo)[](https://www.instagram.com/yotpo/)
 
 [](https://www.yotpo.com/)
 
@@ -387,12 +385,6 @@ and they'll reach out in no time!
 
 [See all customer stories](https://www.yotpo.com/case-studies/)
 
-![Yotpo customers logos](data:image/svg+xml;nitro-empty-id=MjY4MjozNDk=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNTEyIDc2OSIgd2lkdGg9IjUxMiIgaGVpZ2h0PSI3NjkiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)![Yotpo customers logos](data:image/svg+xml;nitro-empty-id=MjY4Mjo2OTU=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNzMwIDkwMyIgd2lkdGg9IjczMCIgaGVpZ2h0PSI5MDMiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)![Yotpo customers logos](data:image/svg+xml;nitro-empty-id=MjY4MjoxMDMx-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTAzMyAxMTg4IiB3aWR0aD0iMTAzMyIgaGVpZ2h0PSIxMTg4IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==)
-
-![Laura Doonin, Commercial Director recommendation on yotpo](data:image/svg+xml;nitro-empty-id=MjY4NDozNTc=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNTU3IDUwMiIgd2lkdGg9IjU1NyIgaGVpZ2h0PSI1MDIiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)
-
 “Yotpo is a fundamental part of our recommended tech stack.”
 
-![Shopify plus logo](data:image/gif;nitro-empty-id=MjY4NjoxMTg=-1;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAAAICTAEAOw==) Laura Doonin, Commercial Director
-
-![Yotpo customers logos](data:image/svg+xml;nitro-empty-id=MjY5MTozNjQ=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNTEyIDc2OSIgd2lkdGg9IjUxMiIgaGVpZ2h0PSI3NjkiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)![Yotpo customers logos](data:image/svg+xml;nitro-empty-id=MjY5MTo3MjU=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNzMxIDkwMCIgd2lkdGg9IjczMSIgaGVpZ2h0PSI5MDAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)![Yotpo customers logos](data:image/svg+xml;nitro-empty-id=MjY5MToxMDc2-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgOTI4IDEwODAiIHdpZHRoPSI5MjgiIGhlaWdodD0iMTA4MCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=)
+![Shopify plus logo](https://www.yotpo.com/wp-content/themes/yotpo/images/rad/v-2/shopifyplus.svg) Laura Doonin, Commercial Director
