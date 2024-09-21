@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/gezondheid/italiaanse-populariteit-homeopathie/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/politiek/wef-schwab/kabinet-rutte-bevestiging-juridische-afspraken-met-wef/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
