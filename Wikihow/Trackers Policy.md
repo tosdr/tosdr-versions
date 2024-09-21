@@ -138,23 +138,22 @@ Save settings
 
 ### Featured Articles
 
+[![Come Up with a Nickname](https://www.wikihow.com/images/thumb/4/44/Come-Up-with-a-Nickname-Step-22.jpg/-crop-126-120-126px-Come-Up-with-a-Nickname-Step-22.jpg)
+
+3 Cool Methods for Inventing a Nickname](https://www.wikihow.com/Come-Up-with-a-Nickname)
+
+[![Live A Happy Life](https://www.wikihow.com/images/thumb/b/b2/Live-A-Happy-Life-Step-20.jpg/-crop-126-120-126px-Live-A-Happy-Life-Step-20.jpg)
+
+20 Tips for Living a Happier Life Based on Scientific Research](https://www.wikihow.com/Live-A-Happy-Life)
+
+[![Overcome Laziness](https://www.wikihow.com/images/thumb/e/ef/Overcome-Laziness-Step-26-Version-5.jpg/-crop-126-120-126px-Overcome-Laziness-Step-26-Version-5.jpg)
+
+How to  
+Stop Being Lazy and Unmotivated So You Can Achieve Your Goals](https://www.wikihow.com/Overcome-Laziness)
+
 [![Gyatt Meaning](https://www.wikihow.com/images/thumb/6/69/Gyatt-Meaning-Step-11.jpg/-crop-126-120-126px-Gyatt-Meaning-Step-11.jpg)
 
 What Does “GYATT” Mean? Plus, When & How to Use It](https://www.wikihow.com/Gyatt-Meaning)
-
-[![Order at Starbucks](https://www.wikihow.com/images/thumb/d/db/Order-at-Starbucks-Step-16-Version-2.jpg/-crop-126-120-126px-Order-at-Starbucks-Step-16-Version-2.jpg)
-
-How to  
-Order at Starbucks](https://www.wikihow.com/Order-at-Starbucks)
-
-[![Anger Issues Test](https://www.wikihow.com/images/thumb/b/b4/Anger_issues_quiz_image.png/-crop-126-120-126px-Anger_issues_quiz_image.png)
-
-Anger Issues Test](https://www.wikihow.com/Anger-Issues-Test)
-
-[![Take a Mirror Selfie](https://www.wikihow.com/images/thumb/0/0b/Take-a-Mirror-Selfie-Step-15.jpg/-crop-126-120-126px-Take-a-Mirror-Selfie-Step-15.jpg)
-
-How to  
-Frame and Pose for a Mirror Selfie](https://www.wikihow.com/Take-a-Mirror-Selfie)
 
   
 
@@ -197,4 +196,4 @@ Follow Us
 
 ![](https://sb.scorecardresearch.com/p?c1=2&c2=8003466&cv=3.9.1&cj=1)
 
-145
+130
