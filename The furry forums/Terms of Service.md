@@ -22,7 +22,7 @@ All forum announcements and updates are posted [here](https://www.thefurryforum.
   
   
 
-[![WingedZephyr](adverts/zeph.gif "WingedZephyr")](http://www.furaffinity.net/user/wingedzephyr)
+[![Juliet](adverts/juliet.png "Juliet")](https://www.furaffinity.net/user/julietthewhitewitch)
 
   
 
