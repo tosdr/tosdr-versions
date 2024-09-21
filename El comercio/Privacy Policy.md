@@ -31,6 +31,611 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
+Bus de transporte atropelló a dos personas en el sur de Quito
+=============================================================
+
+El siniestro de tránsito tuvo un resultado fatal: un adulto mayor falleció, mientras que un menor de edad resulto herido.
+-------------------------------------------------------------------------------------------------------------------------
+
+![El atropellamiento se registró en el sector de Santa Anita, en el sur de la ciudad](https://www.elcomercio.com/wp-content/uploads/2024/09/bus-atropello.jpg)
+
+Un bus de transporte público atropelló a **dos ciudadanos** en el sur de Quito, la mañana de este sábado 21 de setiembre de 2024.
+
+El hecho se reportó pasadas las 11:00, en el sector de **Santa Anita**, en las avenidas Antonio José de Sucre y El Canelo, frente al Centro Comercial Atahualpa.
+
+### Más noticias
+
+* [Una masacre se registró en una peluquería de Quito](https://www.elcomercio.com/actualidad/seguridad/masacre-peluqueria-quito-inseguridad-policia-nacional.html "Una masacre se registró en una peluquería de Quito")
+* [Aeropuerto de Quito suspende sus operaciones y vuelos](https://www.elcomercio.com/actualidad/quito/aeropuerto-quito-suspende-operaciones-vuelos-simulacro-pista-mantenimiento.html "Aeropuerto de Quito suspende sus operaciones y vuelos")
+* [Quito siempre requiere planificación urbana integral](https://www.elcomercio.com/opinion/editorial/quito-siempre-requiere-planificacion-urbana-integral.html "Quito siempre requiere planificación urbana integral")
+
+Adulto mayor falleció
+---------------------
+
+Según informó el Ministerio de Salud Pública (**MSP**), producto del siniestro de tránsito una persona de la tercera **falleció**; mientras que un menor de edad resultó **herido**.
+
+El atropellamiento ocurrió cuando un bus del Corredor Sur Occidental que cubría la **ruta R18**, Plaza Artigas-Buenaventura, impactó a los ciudadanos en el carril exclusivo.
+
+Al lugar se trasladaron personal del MSP, Agencia Metropolitana de Tránsito (**AMT**) y una unidad del Servicio de Investigación de Accidentes de Tránsito (SIAT) de la **Policía Nacional**.
+
+Además de **dos ambulancias** y una grúa pesada.
+
+La AMT informó que, debido a la emergencia reportada, el **carril exclusivo** fue cerrado temporalmente en sentido sur-norte.
+
+Agentes de tránsito coordinan la movilidad en el lugar, mientras el cuerpo de la víctima es retirado y la unidad removida.
+
+Mediante una alerta que ingresa al ECU911 Quito a las 11h07, en la Av.Antonio José De Sucre-El Canelo S12 Frente al Centro Comercial Atahualpa, se reporta un accidente de tránsito, existen 2 personas atropelladas, por un bus de transporte público. Siendo las 11:43 MSP informa que una persona de la tercera edad se encuentra fallecida, y 1 menor de edad se encuentra herido AMT informa que se registra cierre del carril exclusivo del corredor Sur Occidental sentido Sur-Norte Recursos: AMT 1 Motocicleta, 1 prueba de alcohotest, 1 grúa pesada MSP 1Ambulancia PPNN 1 unidad de SIAT, 1 ambulancia de DML
+
+Dragonas IDV golea a Barcelona y es campeón de la Superliga Femenina
+====================================================================
+
+Dragonas IDV se impuso, con Nayeli Bolaños como figura y una goleada, ante Barcelona SC en la final de la Superliga Femenina.
+-----------------------------------------------------------------------------------------------------------------------------
+
+![Karen Páez y Nayeli Bolaños, jugadoras de Dragonas IDV, celebran su triunfo ante Barcelona SC en la final de la Superliga Femenina.](https://www.elcomercio.com/wp-content/uploads/2024/09/20240921128049-fbl-final-femenina-dragonas-idv-barcelona-scaled.jpg)
+
+La final de vuelta de la **Superliga Femenina** tuvo un solo equipo en la cancha y Dragonas IDV se hizo con el título en la temporada 2024. El plantel negriazul revalidó su corona y se hizo con el primer campeonato de su historia en la competencia.
+
+El compromiso de ida ya dejó un favorito y virtual campeón del torneo femenino debido al marcador y al contexto en el que se dio. **Dragonas IDV** había ganado en el Monumental de Guayaquil por 0-1 en el primer cotejo y restaba que defina en Pichincha[.](https://es.wikipedia.org/wiki/Independiente_del_Valle_Femenino)
+
+### Más noticias:
+
+* [Libertad empató con Independiente del Valle y huele a descenso](https://www.elcomercio.com/deportes/futbol/libertad-independiente-valle-tabla-posiciones.html "Libertad empató con Independiente del Valle y huele a descenso")
+* [Dragonas vs. Barcelona por el título de la Superliga Femenina, ¿cuándo juegan?](https://www.elcomercio.com/deportes/futbol/dragonas-independiente-barcelona-superliga-final.html "Dragonas vs. Barcelona por el título de la Superliga Femenina, ¿cuándo juegan?")
+* [Barcelona y Dragonas repiten la final de la Superliga Femenina](https://www.elcomercio.com/deportes/futbol/barcelona-dragonas-final-superliga-femenina.html "Barcelona y Dragonas repiten la final de la Superliga Femenina")
+
+La escuadra de **Sangolquí** tenía la chance levantar el trofeo frente a su gente y el cotejo previo le daba calma e impulso, pues no tuvo inconvenientes en el litoral y, además de la ventaja deportiva por aquel choque, tendría más factores a favor. **Barcelona** se aferraba a la esperanza de dar vuelta a la serie o, por lo menos, estirar el cotejo a la definición en alargues o penales.
+
+Las **negriazules** llegaban, a su vez, invictas durante todo el torneo, pero había un fantasma con respecto a finales previas. El conjunto rayado ya había disputado una **serie de finales**, en total dos, pero no habían logrado ser campeonas.
+
+‘Hat-trick’ de Nayeli Bolaños y Dragonas IDV se hacen con la Superliga
+----------------------------------------------------------------------
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/09/20240921128044-fbl-final-femenina-dragonas-idv-barcelona-1024x683.jpg)
+
+Dragonas mostró un juego superior desde el inicio y llegó con facilidad al área de Barcelona SC. El plantel de **Wendy Villón** no conseguía la manera de contener a sus rivales y tampoco podía tener opciones de generar ataques.
+
+A los 24 minutos del silbatazo inicial, **Nayeli Bolaños** apareció y, al encontrarse en un mano a mano con la golear rival, picó el balón y puso el 1-0 de sombrerito. Tan solo debieron pasar cinco minutos para que la delantera reaparezca y consiga su segundo tanto y el de su equipo.
+
+La situación se complicaba para las **toreras** y las dueñas de casa no pararon. Un vendaval irrefrenable de goles se ciñó sobre el cuadro guayaquileño y a los 35′ cayó el tercero, también de **Bolaños**. Dragonas y su delantera no dejaban dudas de sus capacidades y superioridad.
+
+Karen Páez cerró la goleada de Dragonas IDV sobre Barcelona SC en la Superliga Femenina
+---------------------------------------------------------------------------------------
+
+El 3-0 en el compromiso y el 4-0 en el global dejaba a **Dragonas IDV** a milímitros del campeonato. Barcelona SC tenía 45 minutos para marcar cinco goles o, por lo menos, cuatro para alargar el evento.
+
+La reacción torera no apareció y un nuevo gol cayó en contra del la escuadra canaria. Dragonas IDV controlaba el partido y, a los 78′, la colombiana **Karen Páez** fue quien puso el último tanto del compromiso.
+
+El logro une a Dragonas a otras cuatro campeonas de la Superliga Femenina. El equipo hará compañía con un título a **Barcelona, El Nacional y Ñañas**. A los clubes mencionados les supera el Deportivo Cuenca con dos preseas.
+
+John Yeboah asiste y el Venezia obtiene su primer triunfo
+=========================================================
+
+John Yeboah ha tenido un efecto inmediato tras su arribo a la Serie A de Italia y brindó una asistencia en su segundo partido.
+------------------------------------------------------------------------------------------------------------------------------
+
+![John Yeboah en un partido del Venezia, equipo con el que brindó una asistencia, en la Serie A de Italia.](https://www.elcomercio.com/wp-content/uploads/2024/09/Diseno-sin-titulo-32-1.jpg)
+
+El efecto de **John Yeboah** tras su arribo al Venezia de la Serie A de Italia ha sido inmediato y, en su segundo partido, ya creó una jugada de gol y su equipo obtuvo la primera victoria de la temporada. El ecuatoriano ingresó desde el banco y su desempeño sirvió para sentenciar el partido.
+
+Después de una buena **Copa América** con la Selección de Ecuador, el volante lateral llamó la atención del equipo italiano, el cual realizó esfuerzo por incorporarlo. Con la **temporada 2024-2025** ya iniciada, el plantel consiguió cerrar el fichaje del tricolor, quien militaba en el fútbol polaco.
+
+### Más noticias:
+
+* [¿Cómo llega Liga de Quito ante El Nacional en Liga Pro?](https://www.elcomercio.com/deportes/como-va-liga-quito-nacional.html "¿Cómo llega Liga de Quito ante El Nacional en Liga Pro?")
+* [Asistencia de lujo de Moisés Caicedo y victoria del Chelsea](https://www.elcomercio.com/deportes/moises-caicedo-asistencia-chelsea-west-ham.html "Asistencia de lujo de Moisés Caicedo y victoria del Chelsea")
+* [El Nacional ganó 13 veces en el Rodrigo Paz a Liga de Quito](https://www.elcomercio.com/deportes/futbol/el-nacional-triunfo-rodrigo-paz-delgado.html "El Nacional ganó 13 veces en el Rodrigo Paz a Liga de Quito")
+
+Luego de las eliminatorias rumbo al **Mundial 2026**, donde estuvo con la Tri, Yeboah se unió a las actividades del **Venezia**. Pese a que llegó como uno de los refuerzos estelares y se le otorgó el dorsal número 10, el futbolista aún no ha sido incluido entre los inicialistas, sin embargo, tras su desempeño y el periodo de adaptación, este luce con potencial para se uno de los jugadores fijos en el once titular.
+
+Su debut se llevó a cabo frente al **AC Milan**, donde este no pudo revertir la situación adversa de su escuadra y esta cayó por 4-0. En el segundo partido, la situación fue distinta y tras su ingreso se selló el 2-0.
+
+La asistencia y el triunfo de John Yeboah en el Venezia
+-------------------------------------------------------
+
+> ¡CON ASISTENCIA ECUATORIANA!  
+>   
+> 🇪🇨 John Yeboah y su primera asistencia en el fútbol italiano, con una gran acción individual y el centro para el gol de Pohjanpalo.  
+>   
+> ▶️ Más 🇮🇹 [#SerieA](https://twitter.com/hashtag/SerieA?src=hash&ref_src=twsrc%5Etfw) en [#DisneyPlus](https://twitter.com/hashtag/DisneyPlus?src=hash&ref_src=twsrc%5Etfw). [pic.twitter.com/cpEVHGL24M](https://t.co/cpEVHGL24M)
+> 
+> — ESPN Ecuador (@ESPNEcuador) [September 21, 2024](https://twitter.com/ESPNEcuador/status/1837505651049746717?ref_src=twsrc%5Etfw)
+
+En la quinta fecha de la **Serie A de Italia**, el Venezia enfrentaba como local al Genoa. Los venecianos partían con el objetivo de mejorar sus resultados previos, pues solo sumaban un punto después de tres derrotas y un empate[.](https://es.wikipedia.org/wiki/Venezia_Football_Club)
+
+El cotejo lució parejo y, en el segundo tiempo, el conjunto local consiguió marcar las diferencias. Aunque no hubo una s**uperioridad marcada** sobre el cuadro genovés, sí contaron las individualidades y el saber aprovechar ocasiones puntuales.
+
+A los 63′, Gianluca Busio consiguió marcar el primer tanto. Cuatro minutos después se produjo el ingreso de **Yeboah**, quien en el cierre del compromiso puso la asistencia para que **Joel Pohjanpalo** cierre la victoria.
+
+Corrían los 85′ cuando **John Yeboah** recibió la pelota en el flanco derecho. Decidió encarar hacia adentro y, con gambeta y la pierna zurda, confundió y dejó atrás a dos rivales para pisar el área. Con su extremidad diestra, este envió un centro medido y en diagonal para que el delantero finlandés empuje la pelota.
+
+¿Cómo marcha y qué le espera al Venezia?
+----------------------------------------
+
+El triunfo catapulta al Venezia hacia la decimocuarta posición de la **Serie A** de Italia. Con cuatro puntos, la escuadra consigue salir de la zona de descenso y alejarse de ella.
+
+El siguiente partido del equipo de **John Yeboah** será como visitante ante la Roma. Las escuadras se medirán el domingo 29 de septiembre del 2024.
+
+Worlds 2024 de League of Legends iniciará con los Play-In
+=========================================================
+
+Los equipos más poderosos de League of Legends se enfrentan en Worlds 2024, con la final programada para el 2 de noviembre en el O2 Arena.
+------------------------------------------------------------------------------------------------------------------------------------------
+
+![Faker y T1 jugando la final de Worlds de 2023 en Corea.](https://www.elcomercio.com/wp-content/uploads/2024/09/faker.png)
+
+El **campeonato mundial de League of Legends** (**Worlds 2024**) está programado para comenzar el **25 de septiembre de 2024 y culminará con la gran final el 2 de noviembre**.
+
+### Más noticias
+
+* [Gamers de Ecuador que debes conocer si te gustan los videojuegos](https://www.elcomercio.com/afull/gamers-ecuador-videojuegos.html "Gamers de Ecuador que debes conocer si te gustan los videojuegos")
+* [Nikita, la elegida para proteger a la hija del Presidente de Free Fire](https://www.elcomercio.com/afull/nikita-guardaespaldas-hija-presidente-free-fire.html "Nikita, la elegida para proteger a la hija del Presidente de Free Fire")
+* [¡Feliz Día Mundial del Videojuego y Día Nacional del Gamer!](https://www.elcomercio.com/afull/dia-mundial-videojuego-dia-nacional-gamer-efemeride.html "¡Feliz Día Mundial del Videojuego y Día Nacional del Gamer! ")
+
+Este torneo es uno de los eventos de esports más esperados del año, donde los mejores equipos de todo el mundo competirán por el **prestigioso título** y el codiciado trofeo, la **Copa del Invocador**.
+
+Primeras fases de Worlds 2024
+-----------------------------
+
+El campeonato se desarrollará en **varias fases**. La primera etapa, conocida como **Play-In**, se llevará a cabo del **25 al 29 de septiembre en Berlín, Alemania**. En esta etapa, equipos de regiones emergentes como **América Latina, Japón y Vietnam** lucharán por cuatro lugares en la siguiente fase.
+
+Luego, del 3 al 13 de octubre, los equipos preclasificados y los que avanzaron del **Play-In** competirán en el **sistema suizo en Berlín**, donde se definirá quiénes avanzarán a los enfrentamientos de eliminación directa.
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/09/worlds-2024-1-1024x683.png)
+
+La vista del stage en la final de League of Legends del año 2023 en Seúl, Corea. Foto: Flickr LoL Esports
+
+La etapa de eliminación, que incluye los cuartos de final y las semifinales, se celebrará del 17 al 27 de octubre en el **Adidas Arena de París, Francia**. Finalmente, la **gran final se jugará el 2 de noviembre** en el O2 Arena de Londres, uno de los recintos más importantes del **Reino Unido**, que ha sido sede de grandes **eventos deportivos y conciertos de renombre**.
+
+Premios en los Worlds 2024
+--------------------------
+
+Este año, **20 equipos participarán en el torne**o. El ganador se llevará una parte del premio total de **2 225 000 de dólares, con 450 000 dólares reservados para el campeó**n. Equipos destacados como **Gen.G**, **G2 Esports y Bilibili Gaming** se perfilan como grandes contendientes para alzarse con la victoria, luego de un impresionante rendimiento en sus respectivas **ligas regionales**.
+
+Además, uno de los momentos más esperados por los fanáticos será la presentación del himno oficial de Worlds 2024, que se estrenará el **24 de septiembre**. Los himnos de League of Legends suelen contar con la participación de **artistas de renombre, añadiendo emoción y espectáculo al evento**.
+
+Los partidos serán **transmitidos en vivo** a través de diversas plataformas, lo que permitirá a millones de espectadores en todo el mundo seguir cada enfrentamiento desde el inicio hasta la gran final​. Uno de los canales más importantes que retransmitirá es de [Ibai Llanos](https://es.wikipedia.org/wiki/Ibai_Llanos "https://es.wikipedia.org/wiki/Ibai_Llanos"), uno de los streamers más famosos del mundo que se hizo conocido gracias al mundo del **League of Legends**.
+
+¿Qué equipos participarán?
+--------------------------
+
+### Equipos clasificados para el Play-In:
+
+Estos equipos competirán en la fase inicial del torneo, luchando por un lugar en la siguiente etapa:
+
+1. **Fukuoka SoftBank HAWKS Gaming** (LJL – Japón)
+2. **GAM Esports** (VCS – Vietnam)
+3. **Viking Esports** (LLA – Latinoamérica)
+4. **paiN Gaming** (CBLOL – Brasil)
+5. **Movistar R7** (LLA – Latinoamérica)
+6. **MAD Lions KOI** (LEC – Europa)
+7. **100 Thieves** (LCS – Norteamérica)
+8. **PSG Talon** (PCS – Taiwán/Hong Kong/Sudeste Asiático)
+
+> Introducing LoL Esports Global Power Rankings powered by [@awscloud](https://twitter.com/awscloud?ref_src=twsrc%5Etfw)! [#Worlds2024](https://twitter.com/hashtag/Worlds2024?src=hash&ref_src=twsrc%5Etfw)  
+>   
+> All the info: [https://t.co/jUnYJus0en](https://t.co/jUnYJus0en) [pic.twitter.com/d9OwjnU8q1](https://t.co/d9OwjnU8q1)
+> 
+> — LoL Esports (@lolesports) [September 19, 2024](https://twitter.com/lolesports/status/1836817569954607138?ref_src=twsrc%5Etfw)
+
+### Equipos clasificados para la fase suiza:
+
+Estos equipos ya tienen un lugar asegurado en la fase suiza debido a su desempeño en las ligas principales:
+
+1. **LNG Esports** (LPL – China)
+2. **Weibo Gaming** (LPL – China)
+3. **G2 Esports** (LEC – Europa)
+4. **Fnatic** (LEC – Europa)
+5. **FlyQuest** (LCS – Norteamérica)
+6. **Team Liquid** (LCS – Norteamérica)
+7. **Hanwha Life Esports** (LCK – Corea)
+8. **Gen.G** (LCK – Corea)
+9. **Bilibili Gaming** (LPL – China)
+10. **Top Esports** (LPL – China)
+11. **T1** (LCK – Corea)
+12. **Dplus KIA** (LCK – Corea)
+
+Horarios en Ecuador para ver los partidos de League of Legends
+--------------------------------------------------------------
+
+### **Play-In**
+
+* Fecha: 25-29 de septiembre.
+* Lugar: Riot Games Arena, Berlín, Alemania.
+* **Hora en Ecuador:** 07:00
+
+### **Formato suizo**
+
+* Fechas: 3-7 de octubre y 10-13 de octubre.
+* Lugar: Riot Games Arena, Berlín, Alemania.
+* **Hora en Ecuador:** 07:00
+
+### **Cuartos de Final/Semifinales:**
+
+* Fechas: 17-20 de octubre y 26-27 de octubre.
+* Lugar: Adidas Arena, París, Francia.
+* **Hora en Ecuador:** 07:00.
+* El domingo 27 de octubre será a las 08:00.
+
+### **Finales:**
+
+* Fecha: 2 de noviembre.
+* Lugar: The O2, Londres, Reino Unido.
+* **Hora en Ecuador:** 09:00 (La ceremonia iniciará a las 07:00).
+
+Estos parques de Quito están en mantenimiento
+=============================================
+
+Varios parques de Quito están en proceso de rehabilitación. Algunos trabajos terminan en septiembre de 2024.
+------------------------------------------------------------------------------------------------------------
+
+![La laguna del parque de La Alameda fue vaciada por la Epmmop.](https://www.elcomercio.com/wp-content/uploads/2024/09/Parques-en-Quito.jpg)
+
+La Empresa Pública Metropolitana de Movilidad y Obras Públicas (**Epmmop**) realiza el mantenimiento de varios **parques** en **Quito**.
+
+Más noticias
+------------
+
+* [Aeropuerto de Quito reprograma vuelos del sábado 21 de septiembre de 2024](https://www.elcomercio.com/actualidad/quito/vuelos-aeropuerto-quito-reprogramados-mantenimiento-pista.html "Aeropuerto de Quito reprograma vuelos del sábado 21 de septiembre de 2024")
+* [Quito siempre requiere planificación urbana integral](https://www.elcomercio.com/opinion/editorial/quito-siempre-requiere-planificacion-urbana-integral.html "Quito siempre requiere planificación urbana integral")
+* [Radiografía de la movilidad en Quito, un problema vigente](https://www.elcomercio.com/actualidad/quito/radiografia-movilidad-quito-problema-vigente.html "Radiografía de la movilidad en Quito, un problema vigente")
+
+Estos trabajos buscan mantener en buen estado los espacios públicos destinados a la ciudadanía. A continuación, se detallan los parques y las obras que el personal de la **Epmmop** ejecutan en cada uno.
+
+Parque La Alameda
+-----------------
+
+En este icónico parque del centro norte de **Quito**, el personal efectúa la rehabilitación de la laguna, las **camineras** y la siembra de nuevos **árboles**.
+
+La inversión en este espacio es de 135 000 dólares. Los trabajos concluirán la primera semana de noviembre de 2024.
+
+Parque Carlos Méndez
+--------------------
+
+Este espacio está en el norte de **Quito**, el personal realiza mejoras en los juegos infantiles, pintura de muros y canchas deportivas, además de la construcción de mobiliario urbano, jardinería e instalación de iluminación ornamental.
+
+Su inversión asciende a 24 000 dólares y se espera que los trabajos terminen entre la segunda y tercera semana de octubre de 2024.
+
+Parque Alexander Wandemberg
+---------------------------
+
+En este **parque** del norte de **Quito**, se llevan a cabo la **rehabilitación** de **camineras**, el arreglo de juegos infantiles, la pintura de muros y canchas deportivas, y la construcción de mobiliario urbano.
+
+La intervención cuesta 40 000 dólares, y los trabajos finalizarán entre la segunda y tercera semana de octubre de 2024.
+
+Parque Mastodontes
+------------------
+
+Este **parque**, también ubicado en el norte de **Quito**, está siendo rehabilitado con trabajos en camineras, juegos infantiles, pintura de muros y canchas deportivas, además de mejoras en el mobiliario urbano, jardinería e iluminación ornamental.
+
+La inversión es de 596 000 dólares, y los trabajos concluirán en septiembre de 2024.
+
+Parque Pacarillacta
+-------------------
+
+En el sur de Quito, el personal de la **Epmmop** realiza la rehabilitación de camineras, juegos infantiles, pintura de muros y canchas deportivas, además de construir **mobiliario urbano**, jardines e iluminación ornamental.
+
+La inversión es de 35 000 dólares, y los trabajos finalizarán en septiembre de 2024.
+
+Parque Concha Acústica
+----------------------
+
+Ubicado en el sur de Quito, este parque está siendo intervenido con trabajos en camineras, juegos infantiles, pintura de muros y canchas deportivas.
+
+La inversión es de 30 000 dólares, y se prevé que los trabajos finalicen en septiembre de 2024.
+
+Construcción del Bulevar de la Av. De los Shyris
+------------------------------------------------
+
+En el parque **La Carolina**, en el norte de Quito, se está regenerando el espacio urbano con la instalación de iluminación arquitectónica y ornamental, además de trabajos en arborización y jardinería. La inversión en este proyecto es de 950 000 dólares.
+
+Parque El Porvenir
+------------------
+
+En este parque del norte de **Quito**, el **Municipio** rehabilita camineras, juegos infantiles y pinta muros y canchas deportivas.
+
+La inversión es de 30 000 dólares, y los trabajos finalizarán entre la segunda y tercera semana de octubre de 2024.
+
+Parque Bellavista Alta
+----------------------
+
+En este parque del norte de **Quito**, el personal de la **Epmmop** realiza trabajos en camineras, juegos infantiles, pintura de muros y **canchas** **deportivas**, además de mejoras en el mobiliario urbano, jardinería e iluminación ornamental.
+
+La inversión es de 28 000 dólares, y se espera que los trabajos terminen entre la segunda y tercera semana de octubre de 2024.
+
+> [Ver esta publicación en Instagram](https://www.instagram.com/reel/C-8z_wkqW3P/?utm_source=ig_embed&utm_campaign=loading)
+> 
+> [Una publicación compartida de El Comercio de Ecuador (@elcomerciocom)](https://www.instagram.com/reel/C-8z_wkqW3P/?utm_source=ig_embed&utm_campaign=loading)
+
+Ecuador se suma al día del regalo de flores amarillas
+=====================================================
+
+Las flores amarillas se regalan cada 21 de septiembre. Ecuador es parte de esta tendencia de la primavera en el hemisferio sur.
+-------------------------------------------------------------------------------------------------------------------------------
+
+![Regalar flores amarillas en septiembre, en Ecuador, se populariza desde hace algunos años.](https://www.elcomercio.com/wp-content/uploads/2024/09/flores-amarillas.jpg)
+
+Las **flores amarillas** son las protagonistas del mes de **septiembre** desde hace algunos años. La curiosa y colorida tradición de regalar flores de esta totalidad coincide con el **inicio de la primavera** en el hemisferio sur, el 21 de septiembre de cada año[.](https://es.wikipedia.org/wiki/Ecuador "https://es.wikipedia.org/wiki/Ecuador")
+
+### Más noticias
+
+* [¿Por qué se regalan flores amarillas en septiembre?](https://www.elcomercio.com/tendencias/curiosidades/flores-amarillas-septiembre-regalos-amigos-amor.html "¿Por qué se regalan flores amarillas en septiembre?")
+* [Exportaciones de oro sufren un fuerte cambio en su desempeño](https://www.elcomercio.com/actualidad/negocios/exportaciones-oro-ecuador-controles-mineria-ilegal.html "Exportaciones de oro sufren un fuerte cambio en su desempeño")
+* [El cacao sustentó el crecimiento de las exportaciones ecuatorianas](https://www.elcomercio.com/actualidad/negocios/el-cacao-sustento-el-crecimiento-de-las-exportaciones-ecuatorianas.html "El cacao sustentó el crecimiento de las exportaciones ecuatorianas")
+
+**Ecuador** es el tercer proveedor mundial de flores en general, luego de **Países Bajos y Colombia**. Durante julio, agosto y septiembre de cada año, Ecuador se suma a la tendencia y la **producción y venta de flores** se concentra en las amarillas.
+
+Las compañías de Ecuador que se dedican **a venta de flores** saben que en este mercado prima la moda. “La demanda de flores en esta temporada se centra en _sunflowers_ o girasoles, solidago, astromelias amarillas, rosas amarillas”, señaló **Pablo Viteri**, gerente de la floricultora **Pacific Bouquets**.
+
+La tendencia de regalar **flores amarillas** en septiembre se viralizó en 2022. Un año más tarde, en 2023, se evidenció un importante crecimiento en ventas en junio, julio, agosto y septiembre, con un incremento de entre el 6 al 8% en exportaciones, las cifras coinciden con la popularidad de esta tradición.
+
+Este 2024 se esperan también cifras positivas- Según datos de la Federación Ecuatoriana de Exportadores (Fedexpor), la venta de flores naturales alcanzó 603 millones de dólares entre enero y julio de este año. La cifra representa un incremento del 2%, en comparación con el mismo período del año pasado. Las cifras de agosto y septiembre se conocerán en octubre y noviembre, respectivamente.
+
+Producción de flores en Ecuador
+-------------------------------
+
+El sector florícola es la quinta actividad en la producción agrícola del Ecuador. Hay más de 900 exportadores de flores y el 80% de estas empresas exportan menos de un millón de dólares anualmente, , según datos de **Expoflores**.
+
+La especie de flor que domina la producción del Ecuador son las **rosas**. A esta le siguen las **flores de verano**, como los **girasoles**, luego están las **gypsophila**, los **claveles**, las **flores preservadas**, las **alstroemerias**, crisantemos y lirios.
+
+Los cinco principales países de destino de las flores ecuatorianas son; Estados Unidos, Kasajistán, Canadá, Chile y Países Bajos.
+
+Una masacre se registró en una peluquería de Quito
+==================================================
+
+Una masacre se registró en una peluquería del norte de Quito. La Policía Nacional investiga por qué se produjo el hecho violento.
+---------------------------------------------------------------------------------------------------------------------------------
+
+![La Policía realiza las investigaciones de un hecho violento sucedido en el norte de Quito.](https://www.elcomercio.com/wp-content/uploads/2024/09/masacre.jpg)
+
+Una masacre se registró en una peluquería, ubicada en el **sector de Pisulí,** en el **norte de Quito, informó la Policía Nacional.**
+
+### Más noticias
+
+* [América Latina está en un ‘momento crítico’ por la inseguridad, afirma consultor internacional](https://www.elcomercio.com/actualidad/mundo/latinoamerica-esta-en-un-momento-critico-por-la-inseguridad-afirma-experto.html "América Latina está en un ‘momento crítico’ por la inseguridad, afirma consultor internacional")
+* [Ponce Enríquez tiene espejos en otros puntos de Ecuador, ¿cuáles son los riesgos?](https://www.elcomercio.com/actualidad/seguridad/ponce-enriquez-tiene-espejos-otros-puntos-ecuador-riesgos.html "Ponce Enríquez tiene espejos en otros puntos de Ecuador, ¿cuáles son los riesgos?")
+* [Lo que se sabe de la masacre de Solanda, en Quito](https://www.elcomercio.com/actualidad/seguridad/lo-que-se-sabe-de-la-masacre-de-solanda-en-quito.html "Lo que se sabe de la masacre de Solanda, en Quito")
+
+La **Policía Nacional** informó que el hecho delictivo se presentó la noche d**el 20 de septiembre de 2024.**
+
+Las unidades policiales especializadas aún realizan las investigaciones para esclarecer los hechos y localizar a los responsables de la **masacre en la peluquería.**
+
+Según los datos preliminares, **varios individuos armados** ingresaron al establecimiento y **dispararon.**
+
+Tras el ataque, **murieron cinco personas y otra quedó herida.** Esta última fue llevada a una casa de salud para que fuera atendida inmediatamente.
+
+Por información de la Policía se conoce que dos de los fallecidos registran antecedentes penales por robo, secuestro extorsivo, asesinato, tenencia y porte de armas[.](https://es.wikipedia.org/wiki/Polic%C3%ADa_Nacional_del_Ecuador "https://es.wikipedia.org/wiki/Polic%C3%ADa_Nacional_del_Ecuador")
+
+Hasta el momento, se desconocen las causas sobre por qué las cinco personas fueron asesinadas por los sicarios. Tampoco se sabe si se trata de un ajuste de cuentas.
+
+Un hecho violento ocurrió en el norte de Quito
+----------------------------------------------
+
+El **8 de julio de 2024**, los sicarios llegaron a una barbería en el **sector de La Roldós, en el norte de Quito.** Las personas no identificadas atacaron con armas de fuego a quienes se encontraban en el establecimiento.
+
+Los sicarios causaron una tragedia en el lugar. **Dos menores de edad y una persona adulta murieron de inmediato.** Todas ellas estaban dentro de una barbería de La Roldós, cuando los sicarios hicieron el ataque. Una cuarta persona (adulta) resultó herida, quien se recupera en una casa de salud.
+
+“Esta persona (herida) solo manifestó que entraron con violencia y que logró escapar”, contó **Mauricio Pinto, jefe de la coordinación operativa del Distrito Policial La Delicia.**
+
+Pinto contó que los agresores llegaron en dos motos, dos en cada una. Tras arribar al sitio, parquearon las motos en una esquina y dos de los ocupantes ingresaron a la barbería en La Roldós, donde se dio el ataque de los sicarios.
+
+Todavía se desconoce el móvil del delito, pero los moradores manejan dos hipótesis. “No sabemos exactamente. Manejan diferentes hipótesis en el lugar. Unos hablaban de posible tráfico de estupefacientes y otros, de posibles deudas”, contó Pinto, en una rueda de prensa.
+
+Añadió que las investigaciones se han complicado, porque en la barbería no hallaron cámaras de vigilancia; solo había una, pero estaba desconectada.
+
+En el sitio, Criminalística identificó a los fallecidos: eran ecuatorianos y no registraban antecedentes penales.
+
+Centroamérica debe aprovechar tecnología para adaptarse a crisis climática
+==========================================================================
+
+Sequías prolongadas y lluvias más intensas son algunos de los efectos de la crisis climática en Centroamérica.
+--------------------------------------------------------------------------------------------------------------
+
+![Para adaptarse al cambio climático los agricultores deben empezar a utilizar tecnología de manera integrada.](https://www.elcomercio.com/wp-content/uploads/2024/09/agricultura-planta.jpg)
+
+**Centroamérica** necesita aprovechar todas las **tecnologías disponibles** y establecer planes que permitan la adaptación y la resiliencia para reducir los efectos de la **crisis climática** y no poner en peligro la producción de alimentos. Sobre esto alertaron este viernes 20 de septiembre de 2024, expertos reunidos en un foro en Honduras.
+
+### Más noticias
+
+* [América Latina está en un ‘momento crítico’ por la inseguridad, afirma consultor internacional](https://www.elcomercio.com/actualidad/mundo/latinoamerica-esta-en-un-momento-critico-por-la-inseguridad-afirma-experto.html "América Latina está en un ‘momento crítico’ por la inseguridad, afirma consultor internacional")
+* [Este es la ciudad más visitada por turistas en América Latina](https://www.elcomercio.com/actualidad/mundo/ciudades-visitadas-turistas-america-latina-cancun-punta-cana-bogota.html "Este es la ciudad más visitada por turistas en América Latina")
+* [Jefa de la campaña de Kamala Harris advierte sobre la retórica de Donald Trump](https://www.elcomercio.com/actualidad/mundo/jefa-campana-harris-advierte-retorica-de-trump.html "Jefa de la campaña de Kamala Harris advierte sobre la retórica de Donald Trump ")
+
+**Sequías prolongadas y lluvias** más intensas son algunos de los efectos de la crisis climática en Centroamérica. La región que necesita “urgentemente” **soluciones para frenar este fenómeno** que avanza cada vez con mayor rapidez e intensidad, dijo Alejandro Hernández, investigador y director de Biotecnología de CropLife Latin America en Costa Rica.
+
+Hernández indicó que si los **países logran “mejorar el ecosistema agrícola”,** podrán conseguir cultivos “más resilientes, es decir, que toleran mejor la sequía o las inundaciones”.
+
+A su juicio, las nuevas tecnologías están logrando **esa resiliencia en menor tiempo,** permitiendo a los agricultores acceder a “semillas y cultivos que pueden tolerar mejor” los efectos del cambio climático.
+
+Grandes olas de migración
+-------------------------
+
+El corredor seco de Centroamérica enfrenta **“grandes períodos de sequía o exceso de agua**“, lo cual afecta “enormemente” la producción agrícola, enfatizó el experto costarricense.
+
+Según estimaciones oficiales, en la región centroamericana se pierde hasta un 20 % de la productividad agrícola por la sequía o las inundaciones, lo cual, según Hernández, causa “grandes olas de migración”.
+
+Para adaptarse al cambio climático los agricultores deben empezar a utilizar **tecnología** de manera **integrada y desarrollar estrategias agrícolas** como renovar los cultivos, incorporar materia orgánica y mejorar el suelo, añadió.
+
+Recordó también que los **ministros de Agricultura de los países del G20** se comprometieron la semana anterior a garantizar la seguridad alimentaria global mediante la adopción de prácticas de producción agropecuaria sostenibles en sus países.
+
+El experto aseguró que **“no hay una única manera de hacer las cosas”,** por lo que los países deben buscar la forma más adecuada, integrando los diferentes elementos de la agricultura (convencional, ecológica, biológica y tecnológica) para enfrentar el impacto de la crisis climática y “no entrar en problemas de seguridad alimentaria”.
+
+También es necesario desarrollar tecnologías que contribuyan a **resolver los problemas de seguridad** alimentaria y la crisis climática que enfrenta la región, con el objetivo de producir “más con menos” recursos hídricos y cultivar plantas más resistentes a las condiciones climáticas adversas.
+
+Más conciencia y variedades resistentes
+---------------------------------------
+
+El presidente del Colegio de Profesionales en Ciencias Agrícolas de Honduras**, Luis Berrios,** dijo que la **humanidad “no tiene conciencia”** sobre los efectos del cambio climático y que debe cuidar los recursos naturales.
+
+“Necesitamos ponerle los ojos al cambio climático, de lo contrario, cada día que pasa, el mundo va a seguir teniendo más y más problemas con la vida de los seres humanos, las plantas y los animales”, enfatizó.
+
+Berrios indicó que es necesario crear soluciones, como añadir más variedades de semillas, para “producir en mayor cantidad y mejor calidad los alimentos” que la humanidad requiere.
+
+“Tenemos que empezar a **conocer las alternativas, como las variedades de maíz, frijol y otros cultivos**, en qué climas pueden desarrollarse, cuánta agua necesitan y si en realidad tenemos las condiciones necesarias para poder producir, porque si nosotros no tenemos una infraestructura adecuada, no vamos a poder producir”, explicó.
+
+Berrios insistió en que la región debe apostar por **“variedades resistentes”** a los efectos de la crisis climática, e instó a la población a tener “conciencia” sobre la protección de las plantas, el agua y el suelo.
+
+ El principal desafío, según el experto hondureño, es **producir alimentos con semillas “más resistentes”** a la sequía y las plagas, de buena calidad y a bajo costo, así como mejorar las condiciones de los productores en los países de la región. 
+
+¿Cómo llega Liga de Quito ante El Nacional en Liga Pro?
+=======================================================
+
+Liga de Quito enfrentará a El Nacional como puntero, pero después de una dura goleada propinada por el Imbabura.
+----------------------------------------------------------------------------------------------------------------
+
+![Alex Arce de Liga de Quito (izq.) disputa un balón con Kevin Peralta de El Nacional (der.) en la primera etapa de la Liga Pro.](https://www.elcomercio.com/wp-content/uploads/2024/09/20240406100725-fbl-liga-pro-ecuabet-nacional-liga-scaled.jpg)
+
+**Liga de Quito**, que dirige el técnico argentino **Pablo ‘Vitamina’ Sánchez**, busca frente a **El Nacional**, en la séptima fecha de la Liga Pro, resarcirse de la primera derrota sufrida en la segunda etapa del torneo ecuatoriano, tras haber caído goleado en la pasada jornada por 4-0 ante el Imbabura.
+
+Pese a la sorpresiva derrota frente al modesto **Imbabura**, Liga de Quito llega a esta fecha como **líder de la clasificación**, con 15 puntos.
+
+### Más noticias:
+
+* [El Nacional ganó 13 veces en el Rodrigo Paz a Liga de Quito](https://www.elcomercio.com/deportes/futbol/el-nacional-triunfo-rodrigo-paz-delgado.html "El Nacional ganó 13 veces en el Rodrigo Paz a Liga de Quito")
+* [Liga de Quito goleó a El Nacional en la despedida del ‘Toño’ Valencia](https://www.elcomercio.com/deportes/futbol/liga-quito-el-nacional-tono-valencia.html "Liga de Quito goleó a El Nacional en la despedida del ‘Toño’ Valencia")
+* [Antonio Valencia, el crack que dividió El Nacional y Liga de Quito](https://www.elcomercio.com/deportes/futbol/antonio-valencia-nacional-liga-quito.html "Antonio Valencia, el crack que dividió El Nacional y Liga de Quito")
+
+Bajo la dirección técnica de ‘**Vitamina’ Sánchez**, el ‘Rey de Copas’ de Ecuador cumplía una campaña perfecta hasta antes de sufrir na dolorosa derrota ante el modesto Imbabura, que pugna por mantenerse en la primera división de Ecuador.
+
+En el partido de la primera fase contra **El Nacional**, Liga ganó por 1-2 con goles de Ezequiel Piovi y del paraguayo **Álex Arce**, el máximo goleador de la Liga Pro con 18 anotaciones.
+
+Entretanto, El Nacional sabe que, de ganarle a Liga, **seguirá con posibilidades** para pescar algún billete para los torneos internacionales, pues en la tabla de posiciones acumulada (que suma las puntuaciones de la primera y segunda etapa de la Liga Pro) está quinto, con 34 puntos.
+
+Orense espera el tropezón de Liga de Quito
+------------------------------------------
+
+Por su parte, el **Orense**, segundo en la tabla de posiciones de la segunda fase con 13 unidades, visitará al **Mushuc Runa**, que tiene 11, en un crucial duelo para mantener las posibilidades de torneos internacionales para ambos en el 2025.
+
+El argentino **Agustín Herrera** y el ecuatoriano **Miguel Parrales**, máximo goleador de la segunda fase con 7 tantos, volverán a comandar el ataque del Orense.
+
+El **Mushuc Runa** tendrá a los atacantes uruguayos Mathías Acuña, Mauricio Alonso y Joaquín Verges, dirigidos por su compatriota nacionalizado paraguayo Ever Hugo Almeida.
+
+Independiente del Valle abrió la fecha
+--------------------------------------
+
+El **Independiente del Valle**, que al igual que Barcelona estaba con 12 puntos en la clasificación de la segunda fase, visitó al colista Libertad y sumó 13.
+
+El cuadro del Valle, que tiene en el banquillo al técnico argentino **Javier Gandolfi**, ya fue el ganador de la primera fase de la Liga Pro, por lo que de ganar también la segunda etapa se proclamaría automáticamente como campeón nacional.
+
+Para el Libertad, el resultado de cada partido es de vida o muerte en su afán por salvar la categoría. Su técnico, **Juan Carlos León**, consiguió sorprender y logró el empate, aunque no sale de la zona de descenso.
+
+Barcelona confía en su proceso en la Liga Pro
+---------------------------------------------
+
+Mientras, el Barcelona, cuyo entrenador argentino **Ariel Holan**, visitará a Deportivo Cuenca. Además de la promoción de los juveniles, Barcelona echará mano del ariete uruguayo Octavio Rivero que, en seis fechas ha anotado igual número de goles.
+
+El cuadro cuencano necesita alejarse de los últimos puestos de la tabla acumulada de las dos fases, y en ataque contará con los delanteros argentinos **Pablo Magnín, Lucas Mancinelli y Raúl Becerra**.
+
+Partidos de la séptima fecha
+----------------------------
+
+– **Viernes 20 de septiembre**: Libertad (1) – Independiente del Valle (1). Partido terminado.
+
+– **Sábado 21 de septiembre**: Cumbayá-Aucas, Liga de Quito-El Nacional y Deportivo Cuenca-Barcelona.
+
+– **Domingo 22 de septiembre**: Macará-Imbabura; Mushuc Runa-Orense y Emelec-Técnico Universitario.
+
+– **Lunes 23 de septiembre**: Universidad Católica-Delfín.
+
+Aeropuerto de Quito suspende sus operaciones y vuelos
+=====================================================
+
+En el aeropuerto de Quito se ejecutan dos actividades importantes, por lo que afecta a las operaciones y vuelos.
+----------------------------------------------------------------------------------------------------------------
+
+![En el aeropuerto de Quito Mariscal Sucre se desarrollan dos actividades para mejorar las operaciones.](https://www.elcomercio.com/wp-content/uploads/2024/09/aeropuerto.jpg)
+
+El **aeropuerto de Quito Mariscal Sucre** tiene cerradas sus operaciones y vuelos este sábado 21 de septiembre de 2024.
+
+### Más noticias
+
+* [Aeropuerto de Quito reprograma vuelos del sábado 21 de septiembre de 2024](https://www.elcomercio.com/actualidad/quito/vuelos-aeropuerto-quito-reprogramados-mantenimiento-pista.html "Aeropuerto de Quito reprograma vuelos del sábado 21 de septiembre de 2024")
+* [Incendios no afectan vuelos en Quito; el sábado habrá reprogramación](https://www.elcomercio.com/actualidad/quito/incendios-no-afectan-vuelos-en-quito-sabado-habra-reprogramacion.html "Incendios no afectan vuelos en Quito; el sábado habrá reprogramación")
+
+En la terminal aeroportuaria se realizan dos actividades importantes para el correcto funcionamiento de sus actividades.
+
+En este momento, las autoridades desarrollan tr**abajos preventivos de mantenimiento en la pista.**
+
+Las operaciones aéreas se cerraron, por esa razón. Sin embargo, la terminal de pasajeros permanecerá abierta todo el tiempo.
+
+La segunda actividad se trata sobre el desarrollo de un **simulacro programado**. A través de la cuenta de X del aeropuerto se informa que los ejercicios de prevención se realizan en cumplimiento con el plan de emergencia del #AeropuertoUIO.
+
+> ATENCIÓN:  
+> En cumplimiento con el plan de emergencia del [#AeropuertoUIO](https://twitter.com/hashtag/AeropuertoUIO?src=hash&ref_src=twsrc%5Etfw), hoy, a partir de las 09:00, se llevará a cabo un simulacro programado. Recordamos que nuestras operaciones están suspendidas hasta las 12:00 por trabajos de mantenimiento en pista. [#simulacroUIO2024](https://twitter.com/hashtag/simulacroUIO2024?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/ASTscxW5pU](https://t.co/ASTscxW5pU)
+> 
+> — Aeropuerto Internacional de Quito (@AeropuertoUIO) [September 21, 2024](https://twitter.com/AeropuertoUIO/status/1837489084412912098?ref_src=twsrc%5Etfw)
+
+El horario de cierre del aeropuerto de Quito
+--------------------------------------------
+
+El aeropuerto internacional de Quito informó que el sábado 21 de septiembre se realizarán trabajos preventivos de mantenimiento en la pista.
+
+Mientras tanto, **desde las 09:00** se desarrolla un simulacro programado. Adicionalmente, las operaciones están s**uspendidas hasta las 12:00 por trabajos** de **mantenimiento en pista[.](https://es.wikipedia.org/wiki/Aeropuerto_Internacional_Mariscal_Sucre "https://es.wikipedia.org/wiki/Aeropuerto_Internacional_Mariscal_Sucre")**
+
+Los trabajos preventivos de mantenimiento son esenciales para garantizar la eficiencia y seguridad de las operaciones aéreas **en el aeropuerto de Quito**. De esa manera, se evitarán los cierres imprevistos por trabajos correctivos.
+
+Los cierres programados del aeropuerto de Quito
+-----------------------------------------------
+
+De acuerdo con la información publicada el 18 de marzo de 2024, las operaciones aéreas en el aeropuerto de Quito tenían previsto cerrarse dos veces en septiembre.
+
+La primera fue el sábado 14 y el siguiente es de este sábado 21 de septiembre, igualmente de 02:00 a 12:00.
+
+Quiport resalta que los trabajos de mantenimiento son necesarios para garantizar la eficiencia y la seguridad en las operaciones aéreas en el aeropuerto de Quito.
+
+De ese modo se evitan cierres imprevistos de emergencia en el aeropuerto de Quito.
+
+Los cierres de aeródromo se coordinaron oportunamente y autorizados con la Dirección General de Aviación Civil (DGAC).
+
+Asistencia de lujo de Moisés Caicedo y victoria del Chelsea
+===========================================================
+
+Moisés Caicedo dio una espectacular asistencia para abrir el marcador con el Chelsea ante el West Ham y goleó.
+--------------------------------------------------------------------------------------------------------------
+
+![Moisés Caicedo disputa un balón con el Chelsea ante el West Ham en la Premier League.](https://www.elcomercio.com/wp-content/uploads/2024/09/Diseno-sin-titulo-31-2.jpg)
+
+El **Chelsea** empieza a encontrar su fútbol y verse cada vez más compacto tras la llegada del DT Enzo Maresca. En la quinta fecha de la Premier y con presencia de **Moisés Caicedo**, la escuadra goleó y el ecuatoriano dio una notable asistencia.
+
+La escuadra londinense consiguió **sumar 10 puntos** y su segunda victoria consecutiva en la liga inglesa. Aquello, transitoriamente, la dejó en la segunda posición, aunque depende de otros resultados para determinar su puesto definitivo.
+
+### Más noticias:
+
+* [Moisés Caicedo cumple los seis requisitos para ser capitán del Chelsea](https://www.elcomercio.com/deportes/moises-caicedo-cumple-seis-requisitos-para-ser-capitan-chelsea.html "Moisés Caicedo cumple los seis requisitos para ser capitán del Chelsea")
+* [El Chelsea de Moisés Caicedo sufrió para ganar al Bournemouth](https://www.elcomercio.com/deportes/futbol/chelsea-moises-caicedo-bournemouth-premier-league.html "El Chelsea de Moisés Caicedo sufrió para ganar al Bournemouth")
+* [Moisés Caicedo se enfoca en el Chelsea para enfrentar al Bournemouth](https://www.elcomercio.com/deportes/futbol/moises-caicedo-enfoca-chelsea-para-enfrentar-al-bournemouth.html "Moisés Caicedo se enfoca en el Chelsea para enfrentar al Bournemouth")
+
+La victorias del Chelsea se dio ante el **West Ham United** por un marcador de 0-3 en el Estadio Olímpico de Londres. Desde los primeros minutos apareció **Nico Jackson**, quien marcó un doblete, y Cole Palmer completó los nombres del marcador.
+
+Pese a los buenos resultados previos y a que solo ha sido derrotado por el **Manchester City** en la primera fecha, el plantel ‘blue’ aún no ha logrado convencer. En la pasada temporada, con **Mauricio Pochettino** como DT, el desempeño estuvo marcado por la irregularidad[.](https://es.wikipedia.org/wiki/Chelsea_Football_Club)
+
+Moisés Caicedo y una asistencia para ampliar el marcador del Chelsea
+--------------------------------------------------------------------
+
+> ¡PASE DE MOI, GOL DE NICO!  
+> Paciencia y toque de Chelsea, que la armó bien en el mediocampo. 🇪🇨 Moisés Caicedo asistió a Nico Jackson, que definió para el 2-0 ante West Ham.  
+>   
+> ▶️ Más 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [#PremierLeague](https://twitter.com/hashtag/PremierLeague?src=hash&ref_src=twsrc%5Etfw) en [#DisneyPlus](https://twitter.com/hashtag/DisneyPlus?src=hash&ref_src=twsrc%5Etfw). [pic.twitter.com/5FyKm2jAgO](https://t.co/5FyKm2jAgO)
+> 
+> — ESPN Ecuador (@ESPNEcuador) [September 21, 2024](https://twitter.com/ESPNEcuador/status/1837460512197497139?ref_src=twsrc%5Etfw)
+
+Como se ha vuelto costumbre en el Chelsea, **Moisés Caicedo** arrancó como titular en el equipo. El tricolor estuvo presente junto a Enzo Fernández en un espacio de contención en el medio campo de su elenco.
+
+El primer gol de Jackson llegó a los **cuatro minutos** de juego después de que Nico Jackson ingresara por el costado izquierdo. El ariete **nigeriano** definió por el palo del arquero y la pelota pasó entre las piernas de este para ingresar al arco.
+
+A los 17 minutos, **Caicedo** tuvo una opción para ir hacia el ataque y generar una chance. El jugador se tuvo confianza y su maniobra terminó en gol gracias a que **asistió a Jackson.**
+
+El ecuatoriano recibió el balón, levantó la cabeza y vio que el delantero corría al espacio a espaldas de sus defensor. **El oriundo de Santo Domingo** filtró un pase entre líneas que encontró solo a su compañero y que este tiró a colocar. Bastaron cuatro minutos para que llegue el tanto de los ‘blues’.
+
+Una goleada que no paró
+-----------------------
+
+Después de su habilitación, Moisés Caicedo continúo con la generación de **transiciones hacia el ataque** y la búsqueda de ampliar el marcador. Asimismo, dio una mano en labores de **contención** para evitar la penetración del West Ham.
+
+La primera mitad del compromiso terminó con un 0-2, pero ni bien se reanudó el cotejo, el Chelsea volvió a anotar. **Cole Palmer** selló la goleada a los 47.
+
+El siguiente partido de la escuadra azul será ante el **Barrow** por la EFL Cup. En la Premier League, el próximo rival es el **Brighton**.
+
 Caso Metástasis, acusaciones y defensas chocan en audiencias
 ============================================================
 
@@ -161,48 +766,6 @@ Se anunció hace poco que este legendario personaje **será el primer superhér
 
 El **Batman Day** es una oportunidad para celebrar a uno de los personajes más icónicos de la cultura popular. Su historia, su legado y su impacto en la sociedad son una prueba de su atemporalidad. **¡Feliz Batman Day!** 
 
-Reforma constitucional y campaña
-================================
-
-Cuando se acercan las elecciones, todo tiene una inevitable valoración electoral.
----------------------------------------------------------------------------------
-
-![Lolo Echeverría, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Lolo-Echeverria-1.jpg)
-
-Cuando se acercan las **elecciones**, todo tiene una inevitable **valoración electoral**. La propuesta de reformar la **Constitución** para levantar el veto a la instalación de **bases militares extranjeras** en nuestro **territorio** responde a una conveniencia para la lucha contra el **narcotráfico** y la **violencia**, pero también tiene una importante **utilidad electoral**.
-
-No se conoce de ningún interés concreto ni propuesta de instalar **bases militares extranjeras**, sin embargo, la **iniciativa** parece oportuna y **viable**.  Es posible su aprobación en la **Asamblea Nacional** por el equilibrio de **fuerzas** y también su **ratificación** en **referéndum** como respuesta a la **inseguridad**.
-
-Para los **intereses electorales** del presidente parece muy conveniente. Las **fuerzas políticas** que se opongan a la **reforma** corren el riesgo de parecer aliados del **narcotráfico**; pero, para el correísmo será difícil aceptar la eliminación de una **disposición constitucional** que defendían con tanto ardor en nombre de la **soberanía nacional**.
-
-La iniciativa del presidente Noboa arrincona al correísmo y propone un **debate** que será un importante **tema de campaña**; si todo marcha bien, la **consulta al pueblo** puede coincidir con las **elecciones presidenciales**. Correísmo y anticorreísmo siguen monopolizando la **campaña electoral**.
-
-Los **estrategas** del gobierno se mueven con mucha habilidad, aunque tienen todavía enemigos muy peligrosos por delante: los **apagones**, la **crisis económica** y el **desempleo**, la persistencia de la **inseguridad ciudadana**, la vicepresidente y los errores de los **funcionarios**.
-
-El **ministro de gobierno** se ha hecho cargo de los errores esta semana. Con prepotencia y poco respeto a la **libertad de expresión** interrumpió un programa de radio para calificar de mentiroso a uno de los invitados. Se burló de los que se creen calificados para hablar de **energía**, matizó diciendo que él tampoco está calificado, pero que llevaba a “su” ministro de energía. Dictaminó que el país no tiene una **crisis energética,** sino una **crisis** de **agua**.
-
-¡La Inteligencia Artificial ya puede razonar!
-=============================================
-
-OpenAI ha logrado avances importantes en IA, pero aún queda mucho por desarrollar, guiado por un enfoque responsable.
----------------------------------------------------------------------------------------------------------------------
-
-![Marco E. Benalcázar, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Marco-E.-Benalcazar.jpg)
-
-En el vertiginoso avance de la **Inteligencia Artificial (IA)**, donde el razonamiento sigue siendo un importante desafío, [**Open AI**](https://openai.com/ "Enlace inteligencia artificial") ha vuelto a marcar un hito importante. El 12 de septiembre de 2024, coincidiendo con la celebración del Día del Programador, Open AI presentó su nueva serie de grandes modelos de lenguaje (LLMs por sus siglas en inglés): [ChatGPT o1-preview](https://openai.com/index/introducing-openai-o1-preview/) y [ChatGPT o1-mini](https://openai.com/index/openai-o1-mini-advancing-cost-efficient-reasoning/) (los **modelos o1**). Estos nuevos modelos fueron diseñados para simular cierta capacidad de **análisis y razonamiento** en la generación automática de texto. Open AI destacó en su lanzamiento que estos nuevos modelos pueden [“pensar antes de responder”](https://openai.com/index/introducing-openai-o1-preview/), una diferencia clave con respecto a sus predecesores como [ChatGPT 4o](https://openai.com/index/hello-gpt-4o/). En un análisis anterior titulado [“Lo que debes saber antes de usar ChatGPT](https://www.elcomercio.com/opinion/debes-saber-antes-usar-chat-gpt-marco-benalcazar-columnista.html)”, discutimos las debilidades y fortalezas de ChatGPT 4o, señalando que una de las principales limitaciones era su tendencia a proporcionar respuestas incorrectas en situaciones que demandaban razonamiento. Con los nuevos modelos, **OpenAI** busca abordar directamente esta limitación, ofreciendo una experiencia más cercana al **razonamiento humano**. En este artículo vamos a analizar estos nuevos modelos de IA.
-
-Para poner a prueba nuestra capacidad de análisis o **razonamiento** y también la de los nuevos **modelos o1** de Open AI, consideremos un problema de matemáticas y lenguaje que es sencillo de comprender, pero que demanda de cierta complejidad a la hora de su resolución: la **generación** de **palíndromos**. Un **palíndromo** se define como una palabra o frase que se lee igual de izquierda a derecha que de derecha a izquierda. Por ejemplo, **palíndromos** de una sola palabra son “ANILINA” y “RECONOCER”; **palíndromos** de 2 palabras son “AMO ROMA” y “OJO ROJO”. En estos dos últimos casos, para leer la misma secuencia de letras, debemos ignorar los espacios en blanco que separan las palabras. Finalmente, ejemplos de **palíndromos** de 3 palabras son “ANULA LA LUNA” y “ATEO POCO POETA”. Como nos podemos dar cuenta, verificar que una palabra o frase sea un **palíndromo** es un problema sencillo; sin embargo, su **generación** involucra **análisis** y razonamiento.
-
-Ahora te planteo el siguiente problema “**Crea un palíndromo de 6 palabras en español**”. Toma papel y lápiz y deja volar tu **imaginación**, y capacidad de **análisis** y **razonamiento**. Piénsalo bien y mide el tiempo que te demoras resolviendo este problema. Una vez que lo resuelvas, responde la siguiente pregunta ¿Cuán complicado te resultó encontrar una frase con sentido, de 6 palabras, que sea un **palíndromo**?
-
-Es momento de plantear el mismo problema a **ChatGPT 4o**, usando como _prompt_ la descripción del problema que definimos arriba entre comillas. El resultado que retorna es “ANITA LLEVA AVE ALLÁ LATINA”, en aproximadamente 1 segundo. La **respuesta** ha sido generada muy rápidamente; sin embargo, es incorrecta, pues agrupando las letras de esta frase de derecha a izquierda, la única palabra donde hay coincidencia es “ANITA”. Si le pides generar un nuevo **palíndromo**, lo más probable es que el resultado sea nuevamente incorrecto. Ahora intentemos lo mismo, pero con otro LLM, esta vez [**Claude**](https://claude.ai/login) de [Anthropic](https://www.anthropic.com/). El resultado generado es “AMA LA VIDA, ADIVINA LA AMA”, en aproximadamente 2 segundos. Nuevamente, este resultado, aunque generado rápidamente, es incorrecto. Finalmente, démosle la oportunidad a [**Gemini**](https://gemini.google.com/), el LLM de Google. La respuesta es “A LA SEÑAL, NADA SE ALÓ”, la cual fue generada en unos 5 segundos porque, aparte de la respuesta, también se generó una explicación. Desafortunadamente, el resultado es incorrecto. Este problema generalizado se debe a que todos estos LLMs generan sus respuestas, palabra por palabra, sin analizar si el texto producido cumple con las condiciones establecidas (en este caso de ser un palíndromo). Estos modelos tampoco “razonan” sus respuestas antes de retornarlas.
-
-Ahora le toca el turno a **ChatGPT o1-preview** (el modelo que simula cierta capacidad de análisis y razonamiento). Este algoritmo retorna la frase “[YO DONO ORO O NO DOY](https://chatgpt.com/share/66e85b1b-5a18-8001-990b-51e89b41c983)”, en 30 segundos. Esta vez hubo que esperar más tiempo para obtener una respuesta. Sin embargo, esta espera valió la pena porque el resultado es correcto. Te recomiendo comparar este resultado con el que obtuviste gracias a tu **capacidad intelectual**. Lo más probable es que tu tiempo sea mucho mayor que el que se demoró ChatGPT o1-preview. Ahora surge la pregunta ¿cómo ChatGPT o1-preview llegó a una respuesta correcta? Desafortunadamente, para aquellos que no formamos parte del equipo de Open AI, la maquinaria algorítmica y el procedimiento usado para la **implementación** de los nuevos **modelos o1** es confidencial. Sin embargo, sabemos que los nuevos modelos han sido desarrollados combinando aprendizaje autosupervisado, ajuste fino (_fine-tuning_) supervisado, aprendizaje por refuerzo, y planificación. Con esta combinación entre técnicas avanzadas de IA, mucha imaginación y creatividad por parte de los **ingenieros** y **científicos** de Open AI, gran capacidad de cómputo y enormes volúmenes de datos, hoy contamos con los primeros modelos de IA que pueden analizar y razonar, aunque todavía con una capacidad bastante limitada.
-
-Según [datos de Open AI](https://openai.com/index/learning-to-reason-with-llms/), el modelo **ChatGPT o1-preview** se especializa en la resolución de **problemas** complejos en ciencias, matemáticas y programación, integrando un amplio conocimiento del mundo y cierta capacidad de **análisis** y razonamiento. En particular, este **modelo** exhibe un mejor desempeño que expertos humanos en la resolución de preguntas de opción múltiple, de nivel de doctorado (Ph.D.), en biología, física, y química. Por su parte, el modelo **ChatGPT o1-mini** ofrece un procesamiento más rápido y económico, con un enfoque más especializado en la creación y depuración de **código**, lo cual es útil para el desarrollo de **programas computacionales**. Por ahora, si deseas acceder a la funcionalidad de estos nuevos modelos de Open AI, debes pagar una suscripción para usar **ChatGPT** en cualquiera de los siguientes planes: _plus_, _teams_, _enterprise_, _edu_, o la API de ChatGPT. Afortunadamente, [Open AI ha anunciado que eventualmente dará acceso, de forma gratuita, al modelo ChatGPT o1-mini](https://openai.com/index/introducing-openai-o1-preview/).
-
-Finalmente, aunque los avances realizados por Open AI para desarrollar los modelos o1 que simulan cierta capacidad de **análisis** y razonamiento son un paso muy importante, aún hay mucho camino por recorrer en el mundo de la IA. Estamos todavía lejos de que estas **herramientas** puedan realizar análisis y razonamientos profundos, interactuar de manera avanzada con nuestro entorno o plantear soluciones novedosas para una amplia gama de **problemas** fundamentales para la **humanidad**. El desafío de alcanzar una **inteligencia artificial general** (AGI por sus siglas en inglés) sigue siendo monumental. Lo fascinante es que apenas estamos al comienzo de esta **revolución tecnológica**, y el potencial de estas herramientas de IA es enorme. Sin embargo, también es crucial que los desarrolladores, reguladores y la sociedad en su conjunto guíen este progreso con responsabilidad, asegurando que la IA se convierta en una **herramienta** transformadora y segura para todos.
-
 Cartas a Quito / 21 de septiembre de 2024
 =========================================
 
@@ -282,6 +845,48 @@ Las variaciones del bolón de verde son tan diversas como los gustos de quienes 
 Cada una de estas variaciones del bolón de verde mantiene la esencia del plato, pero le añade un toque especial que lo adapta a los diferentes paladares.
 
 ¡Disfruta de esta delicia ecuatoriana!
+
+¡La Inteligencia Artificial ya puede razonar!
+=============================================
+
+OpenAI ha logrado avances importantes en IA, pero aún queda mucho por desarrollar, guiado por un enfoque responsable.
+---------------------------------------------------------------------------------------------------------------------
+
+![Marco E. Benalcázar, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Marco-E.-Benalcazar.jpg)
+
+En el vertiginoso avance de la **Inteligencia Artificial (IA)**, donde el razonamiento sigue siendo un importante desafío, [**Open AI**](https://openai.com/ "Enlace inteligencia artificial") ha vuelto a marcar un hito importante. El 12 de septiembre de 2024, coincidiendo con la celebración del Día del Programador, Open AI presentó su nueva serie de grandes modelos de lenguaje (LLMs por sus siglas en inglés): [ChatGPT o1-preview](https://openai.com/index/introducing-openai-o1-preview/) y [ChatGPT o1-mini](https://openai.com/index/openai-o1-mini-advancing-cost-efficient-reasoning/) (los **modelos o1**). Estos nuevos modelos fueron diseñados para simular cierta capacidad de **análisis y razonamiento** en la generación automática de texto. Open AI destacó en su lanzamiento que estos nuevos modelos pueden [“pensar antes de responder”](https://openai.com/index/introducing-openai-o1-preview/), una diferencia clave con respecto a sus predecesores como [ChatGPT 4o](https://openai.com/index/hello-gpt-4o/). En un análisis anterior titulado [“Lo que debes saber antes de usar ChatGPT](https://www.elcomercio.com/opinion/debes-saber-antes-usar-chat-gpt-marco-benalcazar-columnista.html)”, discutimos las debilidades y fortalezas de ChatGPT 4o, señalando que una de las principales limitaciones era su tendencia a proporcionar respuestas incorrectas en situaciones que demandaban razonamiento. Con los nuevos modelos, **OpenAI** busca abordar directamente esta limitación, ofreciendo una experiencia más cercana al **razonamiento humano**. En este artículo vamos a analizar estos nuevos modelos de IA.
+
+Para poner a prueba nuestra capacidad de análisis o **razonamiento** y también la de los nuevos **modelos o1** de Open AI, consideremos un problema de matemáticas y lenguaje que es sencillo de comprender, pero que demanda de cierta complejidad a la hora de su resolución: la **generación** de **palíndromos**. Un **palíndromo** se define como una palabra o frase que se lee igual de izquierda a derecha que de derecha a izquierda. Por ejemplo, **palíndromos** de una sola palabra son “ANILINA” y “RECONOCER”; **palíndromos** de 2 palabras son “AMO ROMA” y “OJO ROJO”. En estos dos últimos casos, para leer la misma secuencia de letras, debemos ignorar los espacios en blanco que separan las palabras. Finalmente, ejemplos de **palíndromos** de 3 palabras son “ANULA LA LUNA” y “ATEO POCO POETA”. Como nos podemos dar cuenta, verificar que una palabra o frase sea un **palíndromo** es un problema sencillo; sin embargo, su **generación** involucra **análisis** y razonamiento.
+
+Ahora te planteo el siguiente problema “**Crea un palíndromo de 6 palabras en español**”. Toma papel y lápiz y deja volar tu **imaginación**, y capacidad de **análisis** y **razonamiento**. Piénsalo bien y mide el tiempo que te demoras resolviendo este problema. Una vez que lo resuelvas, responde la siguiente pregunta ¿Cuán complicado te resultó encontrar una frase con sentido, de 6 palabras, que sea un **palíndromo**?
+
+Es momento de plantear el mismo problema a **ChatGPT 4o**, usando como _prompt_ la descripción del problema que definimos arriba entre comillas. El resultado que retorna es “ANITA LLEVA AVE ALLÁ LATINA”, en aproximadamente 1 segundo. La **respuesta** ha sido generada muy rápidamente; sin embargo, es incorrecta, pues agrupando las letras de esta frase de derecha a izquierda, la única palabra donde hay coincidencia es “ANITA”. Si le pides generar un nuevo **palíndromo**, lo más probable es que el resultado sea nuevamente incorrecto. Ahora intentemos lo mismo, pero con otro LLM, esta vez [**Claude**](https://claude.ai/login) de [Anthropic](https://www.anthropic.com/). El resultado generado es “AMA LA VIDA, ADIVINA LA AMA”, en aproximadamente 2 segundos. Nuevamente, este resultado, aunque generado rápidamente, es incorrecto. Finalmente, démosle la oportunidad a [**Gemini**](https://gemini.google.com/), el LLM de Google. La respuesta es “A LA SEÑAL, NADA SE ALÓ”, la cual fue generada en unos 5 segundos porque, aparte de la respuesta, también se generó una explicación. Desafortunadamente, el resultado es incorrecto. Este problema generalizado se debe a que todos estos LLMs generan sus respuestas, palabra por palabra, sin analizar si el texto producido cumple con las condiciones establecidas (en este caso de ser un palíndromo). Estos modelos tampoco “razonan” sus respuestas antes de retornarlas.
+
+Ahora le toca el turno a **ChatGPT o1-preview** (el modelo que simula cierta capacidad de análisis y razonamiento). Este algoritmo retorna la frase “[YO DONO ORO O NO DOY](https://chatgpt.com/share/66e85b1b-5a18-8001-990b-51e89b41c983)”, en 30 segundos. Esta vez hubo que esperar más tiempo para obtener una respuesta. Sin embargo, esta espera valió la pena porque el resultado es correcto. Te recomiendo comparar este resultado con el que obtuviste gracias a tu **capacidad intelectual**. Lo más probable es que tu tiempo sea mucho mayor que el que se demoró ChatGPT o1-preview. Ahora surge la pregunta ¿cómo ChatGPT o1-preview llegó a una respuesta correcta? Desafortunadamente, para aquellos que no formamos parte del equipo de Open AI, la maquinaria algorítmica y el procedimiento usado para la **implementación** de los nuevos **modelos o1** es confidencial. Sin embargo, sabemos que los nuevos modelos han sido desarrollados combinando aprendizaje autosupervisado, ajuste fino (_fine-tuning_) supervisado, aprendizaje por refuerzo, y planificación. Con esta combinación entre técnicas avanzadas de IA, mucha imaginación y creatividad por parte de los **ingenieros** y **científicos** de Open AI, gran capacidad de cómputo y enormes volúmenes de datos, hoy contamos con los primeros modelos de IA que pueden analizar y razonar, aunque todavía con una capacidad bastante limitada.
+
+Según [datos de Open AI](https://openai.com/index/learning-to-reason-with-llms/), el modelo **ChatGPT o1-preview** se especializa en la resolución de **problemas** complejos en ciencias, matemáticas y programación, integrando un amplio conocimiento del mundo y cierta capacidad de **análisis** y razonamiento. En particular, este **modelo** exhibe un mejor desempeño que expertos humanos en la resolución de preguntas de opción múltiple, de nivel de doctorado (Ph.D.), en biología, física, y química. Por su parte, el modelo **ChatGPT o1-mini** ofrece un procesamiento más rápido y económico, con un enfoque más especializado en la creación y depuración de **código**, lo cual es útil para el desarrollo de **programas computacionales**. Por ahora, si deseas acceder a la funcionalidad de estos nuevos modelos de Open AI, debes pagar una suscripción para usar **ChatGPT** en cualquiera de los siguientes planes: _plus_, _teams_, _enterprise_, _edu_, o la API de ChatGPT. Afortunadamente, [Open AI ha anunciado que eventualmente dará acceso, de forma gratuita, al modelo ChatGPT o1-mini](https://openai.com/index/introducing-openai-o1-preview/).
+
+Finalmente, aunque los avances realizados por Open AI para desarrollar los modelos o1 que simulan cierta capacidad de **análisis** y razonamiento son un paso muy importante, aún hay mucho camino por recorrer en el mundo de la IA. Estamos todavía lejos de que estas **herramientas** puedan realizar análisis y razonamientos profundos, interactuar de manera avanzada con nuestro entorno o plantear soluciones novedosas para una amplia gama de **problemas** fundamentales para la **humanidad**. El desafío de alcanzar una **inteligencia artificial general** (AGI por sus siglas en inglés) sigue siendo monumental. Lo fascinante es que apenas estamos al comienzo de esta **revolución tecnológica**, y el potencial de estas herramientas de IA es enorme. Sin embargo, también es crucial que los desarrolladores, reguladores y la sociedad en su conjunto guíen este progreso con responsabilidad, asegurando que la IA se convierta en una **herramienta** transformadora y segura para todos.
+
+Reforma constitucional y campaña
+================================
+
+Cuando se acercan las elecciones, todo tiene una inevitable valoración electoral.
+---------------------------------------------------------------------------------
+
+![Lolo Echeverría, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Lolo-Echeverria-1.jpg)
+
+Cuando se acercan las **elecciones**, todo tiene una inevitable **valoración electoral**. La propuesta de reformar la **Constitución** para levantar el veto a la instalación de **bases militares extranjeras** en nuestro **territorio** responde a una conveniencia para la lucha contra el **narcotráfico** y la **violencia**, pero también tiene una importante **utilidad electoral**.
+
+No se conoce de ningún interés concreto ni propuesta de instalar **bases militares extranjeras**, sin embargo, la **iniciativa** parece oportuna y **viable**.  Es posible su aprobación en la **Asamblea Nacional** por el equilibrio de **fuerzas** y también su **ratificación** en **referéndum** como respuesta a la **inseguridad**.
+
+Para los **intereses electorales** del presidente parece muy conveniente. Las **fuerzas políticas** que se opongan a la **reforma** corren el riesgo de parecer aliados del **narcotráfico**; pero, para el correísmo será difícil aceptar la eliminación de una **disposición constitucional** que defendían con tanto ardor en nombre de la **soberanía nacional**.
+
+La iniciativa del presidente Noboa arrincona al correísmo y propone un **debate** que será un importante **tema de campaña**; si todo marcha bien, la **consulta al pueblo** puede coincidir con las **elecciones presidenciales**. Correísmo y anticorreísmo siguen monopolizando la **campaña electoral**.
+
+Los **estrategas** del gobierno se mueven con mucha habilidad, aunque tienen todavía enemigos muy peligrosos por delante: los **apagones**, la **crisis económica** y el **desempleo**, la persistencia de la **inseguridad ciudadana**, la vicepresidente y los errores de los **funcionarios**.
+
+El **ministro de gobierno** se ha hecho cargo de los errores esta semana. Con prepotencia y poco respeto a la **libertad de expresión** interrumpió un programa de radio para calificar de mentiroso a uno de los invitados. Se burló de los que se creen calificados para hablar de **energía**, matizó diciendo que él tampoco está calificado, pero que llevaba a “su” ministro de energía. Dictaminó que el país no tiene una **crisis energética,** sino una **crisis** de **agua**.
 
 Para las elecciones 2025 se aplica un ABC para la seguridad de los candidatos
 =============================================================================
@@ -479,740 +1084,3 @@ En esta **segunda temporada**, el ganador del juego, Seo Gi-hun toma la decisió
 Esto, con el fin de conseguir su nuevo objetivo: usar el dinero del premio para desenmascarar a las personas que dirigen el juego.
 
 Netflix difundió el avance especial de la segunda temporada en la plataforma de **YouTube**.
-
-El Nacional ganó 13 veces en el Rodrigo Paz a Liga de Quito
-===========================================================
-
-El Nacional ganó por última vez en el estadio Rodrigo Paz a Liga de Quito en el campeonato nacional de 2017.
-------------------------------------------------------------------------------------------------------------
-
-![Cléber Chalá (i) y Néicer Reasco en el campeonato nacional de 2003.](https://www.elcomercio.com/wp-content/uploads/2024/09/nacho_victorias_1.jpg)
-
-Una nueva edición del ‘Clásico quiteño’ entre **Liga de Quito y El Nacional** se jugará este sábado 21 de septiembre de 2024, desde las 16:30, en el estadio Rodrigo Paz Delgado.
-
-El encuentro entre Liga de Quito y El Nacional corresponde a la **séptima fecha de la segunda etapa** de la Liga Pro. Ambas escuadras llegan con realidades distintas en la tabla de posiciones. 
-
-### Más noticias:
-
-* [Selección de Ecuador bajó los precios de sus entradas](https://www.elcomercio.com/deportes/futbol/seleccion-de-ecuador-bajo-los-precios-de-sus-entradas.html "Selección de Ecuador bajó los precios de sus entradas")
-* [¿Cómo le fue a los ecuatorianos en la Champions League?](https://www.elcomercio.com/deportes/champions-league-resultados-jugadores-ecuatorianos.html "¿Cómo le fue a los ecuatorianos en la Champions League?")
-* [Cristiano Ronaldo no se cansa de marcar goles con el Al Nassr](https://www.elcomercio.com/deportes/futbol/cristiano-ronaldo-no-se-cansa-de-marcar-goles-con-el-al-nassr.html "Cristiano Ronaldo no se cansa de marcar goles con el Al Nassr")
-
-**Liga es el líder con 15 puntos** y el principal candidato para ser el segundo finalista y disputarle el título a Independiente del Valle en las finales de diciembre; mientras que **El Nacional es noveno con 10** y sus opciones están en pelear por un cupo a torneos internacionales. 
-
-En la acumulada **Liga marcha en el segundo lugar con 45 puntos** y con la mirada puesta en clasificarse directamente a la fase de grupos de la Copa Libertadores 2025. 
-
-El **‘Nacho’ es quinto con 34 unidades** y es un candidato para obtener su clasificación a la Copa Sudamericana, torneo que jugó por última vez en el 2020 quedando eliminado en la fase preliminar ante Fénix de Uruguay. 
-
-Con ese panorama llegan estos tradicionales equipos de la capital ecuatoriana.
-
-Los triunfos de El Nacional en ‘Casa Blanca’ 
----------------------------------------------
-
-En el Rodrigo Paz Delgado, **Liga de Quito recibió 54 veces a El Nacional:** 52 por campeonato nacional y dos por Copa Sudamericana.
-
-Los **universitarios ganaron 30 partidos, 13 (12 por torneos locales y uno por Sudamericana) los militares y 11 terminaron empatados**, dejando en evidencia la supremacía de los locales desde que inauguraron su propio escenario deportivo. 
-
-La primera victoria de los rojos antes los blancos fue el **9 de noviembre de 1997 por 1-2** en la fecha 21 de la segunda etapa del campeonato nacional. 
-
-Este encuentro es recordado porque los visitantes **cortaron un invicto de cerca de 8 meses del Rodrigo Paz Delgado** en torneos nacionales.
-
-**Oswaldo de la Cruz y Diego Herrera**, tras aprovechar una gran combinación entre de la Cruz y Cléber Chala, adelantaron 0-2 a la visita.
-
-Paúl Guevara, quien tiene el récord de ser el primer ecuatoriano en haber marcado un tanto en el Rodrigo Paz, descontó con un golazo para el definitivo 1-2. 
-
-La mayor **diferencia de goles para El Nacional fue de 0-3 (Diego Herrera, Jairon Zamora y Cléber Chalá)** en la fecha 15 de la primera etapa del campeonato de 1999; y otro 0-3 (Bryan de Jesús, Éder Fuertes y Leonel Nazareno (GEC) en la fecha 21 de la segunda etapa en 2017.
-
-Esa es la última victoria de los ‘Puros Criollos’ en Ponceano antes del camino del descenso a la Serie B y el posterior ascenso a la Liga Pro Serie A. 
-
-![Foto: Archivo histórico EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/09/nacho_victorias_2-1024x683.jpg)
-
-Foto: Archivo histórico EL COMERCIO.
-
-Las victorias de El Nacional en el Rodrigo Paz
-----------------------------------------------
-
-Campeonato ecuatoriano:
------------------------
-
-### 1997:
-
-Liga de Quito 1-2 El Nacional
-
-### 1999:
-
-Liga de Quito 0-3 El Nacional
-
-Liga de Quito 0-1 El Nacional
-
-### 2001:
-
-Liga de Quito 2-4 El Nacional
-
-### 2003:
-
-Liga de Quito 1-2 El Nacional
-
-### 2004:
-
-Liga de Quito 1-2 El Nacional
-
-### 2005:
-
-Liga de Quito 1-2 El Nacional
-
-Liga de Quito 1-3 El Nacional
-
-### 2006:
-
-Liga de Quito 1-2 El Nacional
-
-### 2013:
-
-Liga de Quito 0-1 El Nacional
-
-### 2016:
-
-Liga de Quito 1-2 El Nacional
-
-### 2017:
-
-Liga de Quito 0-3 El Nacional
-
-Copa Sudamericana
------------------
-
-### 2006:
-
-Liga de Quito 2-3 El Nacional
-
-No te pierdas – El Confesionario
---------------------------------
-
-Vehículos en Ecuador tendrán nuevas placas, ¿desde cuándo se entregarán?
-========================================================================
-
-La Agencia Nacional de Tránsito explicó que el cambio de las placas metálicas se realizará para evitar su adulteración.
------------------------------------------------------------------------------------------------------------------------
-
-![Las placas son identificadores únicos de metal que se asignan a los vehículos para llevar un registro y control](https://www.elcomercio.com/wp-content/uploads/2024/09/placas-ant.jpg)
-
-La Agencia Nacional de Tránsito (**ANT**) informó que en Ecuador los vehículos utilizarán **nuevas placas** de identificación.
-
-Según detalló la entidad, el objetivo de esta medida es aumentar los **niveles de seguridad** en las láminas para evitar la **adulteración** de los identificativos.
-
-### Más noticias
-
-* [Radiografía de la movilidad en Quito, un problema vigente](https://www.elcomercio.com/actualidad/quito/radiografia-movilidad-quito-problema-vigente.html "Radiografía de la movilidad en Quito, un problema vigente")
-* [Quito siempre requiere planificación urbana integral](https://www.elcomercio.com/opinion/editorial/quito-siempre-requiere-planificacion-urbana-integral.html "Quito siempre requiere planificación urbana integral")
-* [Solución vial entre Quito y el valle de Los Chillos se inicia con proceso de licitación](https://www.elcomercio.com/actualidad/solucion-vial-quito-valle-de-los-chillos-licitacion.html "Solución vial entre Quito y el valle de Los Chillos se inicia con proceso de licitación")
-
-La entrega de las nuevas placas se realizará a partir de **2025**, una vez se agote el **stock** actual, tanto en la ANT, como en los GADs municipales del país.
-
-Sin embargo, la institución aclaró que el proceso de cambio de las especies no podrá excederse de los **dos años**.
-
-Mientras tanto, los conductores tienen derecho a seguir utilizando y solicitando los identificativos existentes con **normalidad**.
-
-¿Quiénes recibirán las nuevas placas?
--------------------------------------
-
-Las nuevas placas se entregarán a los **vehículos nuevos** debidamente matriculados y a aquellos que aprueben la **revisión técnica vehicular**, en un centro autorizado por la ANT.
-
-El proceso de entrega de las láminas correrá a cargo de los **GAD municipales** y mancomunados de cada localidad.
-
-La adulteración de una placa vehicular es considerada como una contravención de tránsito de **cuarta clase**.
-
-Esta falta se sanciona con la reducción de **seis puntos** de la licencia de conducir y una multa correspondiente al 30% de un salario básico (**138 dólares**).
-
-Centro de acopio de matriculación ilegal fue encontrado
--------------------------------------------------------
-
-El 17 de julio de 2024, la Policía Nacional encontró una bodega que servía como **centro de acopio clandestino** de especies de matrículas, láminas de impresión de placas, entre otros documentos.
-
-En los allanamientos realizados en Guayas y Manabí, los uniformados recuperaron más de 200 000 documentos que demostraban la evidencia de una **red de falsificación**, que operaba con trámites de revisión vehicular, matriculación y multas de tránsito.
-
-Entre las pruebas incautadas se halló: certificados de revisión vehicular, formularios técnicos, adhesivos holográficos, códigos de barras de seguridad, láminas de impresión industrial de especies y matrices metálicas de impresión.
-
-**31 sellos** que pertenecían a Gobiernos Autónomos Descentralizados (GAD) de **10 provincias**, también formaron parte de las evidencias.
-
-Las investigaciones policiales determinaron que por cada trámite se cobraba entre **50 a 150 dólares**, lo que reflejado en el total de los documentos incautados, daría un monto cercano a los 30 millones de dólares.  
-
-Zamora Jaguars es el segundo finalista de la Liga Básquet Pro
-=============================================================
-
-Zamora Jaguars se convirtió en finalista de la Liga Básquet Pro al derrotar a Liga de Quito. Su rival será Jorge Guzmán.
-------------------------------------------------------------------------------------------------------------------------
-
-![Álvaro Chervo es una de las figuras de Zamora Jaguars en la temporada 2024.](https://www.elcomercio.com/wp-content/uploads/2024/09/zamora_finalista_1.jpg)
-
-**Zamora Jaguars** se convirtió en el segundo equipo finalista de la Liga Básquet Pro de Ecuador 2024, tras derrotar a Liga de Quito por 83-75 para cerrar la serie con un marcador de 3-1.
-
-Los quintetos de Zamora Jaguars y Liga de Quito se enfrentaron la noche de este viernes 20 de septiembre en un repleto **Coliseo Mayor de Deportes de Zamora**, que vibró de principio a fin con este resultado.
-
-### Más deportes:
-
-* [El Nacional llega al partido contra Liga de Quito con problemas internos](https://www.elcomercio.com/deportes/futbol/el-nacional-llega-al-partido-contra-liga-de-quito-sin-entrenar.html "El Nacional llega al partido contra Liga de Quito con problemas internos")
-* [Leonardo Campana fue convocado a la Billboard Latin Music Week](https://www.elcomercio.com/deportes/futbol/leonardo-campana-fue-convocado-a-la-billboard-latin-music-week.html "Leonardo Campana fue convocado a la Billboard Latin Music Week")
-* [En Francia elogian debut de Willian Pacho en Champions League](https://www.elcomercio.com/deportes/futbol/francia-elogian-debut-de-willian-pacho-en-champions-league.html "En Francia elogian debut de Willian Pacho en Champions League")
-
-Los fanáticos zamoranos en **cuestión de horas agotaron las entradas para presenciar el cuarto** encuentro de esta llave. La alegría y el optimismo se palpaba a cada paso de esta ciudad que está volcada por completo a alentar a Zamora Jaguars.
-
-Los locales llegaron con la ligera ventaja al **haber ganado dos de los tres partidos** y con el impulso de definir todo en su casa.
-
-Liga de Quito arrancó con todo la serie y se impuso por **85-83 para adelantarse en el marcador por 1-0**, pero los amazónicos empataron 1-1 gracias al 90-94 del segundo encuentro, siempre jugando en el Coliso Julio César Hidalgo de la capital ecuatoriana.
-
-De locales los amazónicos **aseguraron el 2-1 con un contundente 85-69** que los acercó aún más a su objetivo de alcanzar las finales de la Liga Básquet Pro en el mismo año de su debut.
-
-El cuarto partido se resolvió por un marcador de 80-70. El primer cuarto fue para los locales por 21-18, el segundo por 21-19, el tercero por 17-19 para la visita; y el cuarto 24-19 para el definitivo 83-75.
-
-La final de la Liga Básquet Pro será íntegramente en el sur del país con **Jorge Guzmán de Loja**, campeón en 2022 y el favorito para llevarse el título; ante Zamora Jaguars, el retador que llega a esta instancia como la principal sorpresa.
-
-![Foto: Instagram jimmycalvaj.](https://www.elcomercio.com/wp-content/uploads/2024/09/zamora_finalista_2-1024x683.jpg)
-
-Foto: Instagram jimmycalvaj.
-
-La alegría de los finalistas
-----------------------------
-
-Una vez que se terminó el partido **los jugadores se abrazaron y festejaron el haber conseguido** el objetivo de clasificarse a esta final, un suceso histórico en la vida de esta provincia.
-
-Los **jugadores se mezclaron con los fanáticos** que abandonaron sus ubicaciones en las gradas y también quisieron ser parte de los festejos con los protagonistas.
-
-¡**Sí se pudo, sí se pudo, sí se pudo**! Fue el grito que acompañó a los hinchas locales una vez que el juego llegó a su fin.
-
-Las finales serán al mejor de siete partidos con los dos primeros en Loja, **el tercero y cuarto en Zamora,** el quinto y séptimo en Loja, y el sexto en Zamora.
-
-Cronograma de las finales
--------------------------
-
-### Juego 1: Sábado 28/09
-
-20:00 Jorge Guzmán vs. Zamora Jaguars
-
-Coliseo Ciudad de Loja
-
-### Juego 2: Lunes 30/09
-
-20:00 Jorge Guzmán vs. Zamora Jaguars
-
-Coliseo Ciudad de Loja
-
-### Juego 3: Jueves 3/10
-
-20:00 Zamora Jaguars vs. Jorge Guzmán
-
-Coliseo Mayor de Deportes de Zamora
-
-### Juego 4: Sábado 5/10
-
-20:00 Zamora Jaguars vs. Jorge Guzmán
-
-Coliseo Mayor de Deportes de Zamora
-
-### Juego 5: Lunes 7/10
-
-20:00 Jorge Guzmán vs. Zamora Jaguars
-
-Coliseo Ciudad de Loja
-
-### Juego 6: Jueves 10/10
-
-20:00 Zamora Jaguars vs. Jorge Guzmán
-
-Coliseo Mayor de Deportes de Zamora
-
-### Juego 7: Sábado 12/10
-
-20:00 Jorge Guzmán vs. Zamora Jaguars
-
-Coliseo Ciudad de Loja
-
-No te pierdas – El Confesionario
---------------------------------
-
-Caso Pamela Ati: Defensoría del Pueblo hizo exhortos a varias instituciones
-===========================================================================
-
-La Defensoría del Pueblo señaló que seguirá vigilante del desarrollo de caso Pamela Ati, para que no quede en la impunidad.
----------------------------------------------------------------------------------------------------------------------------
-
-![En el caso Pamela Ati, la Defensoría del Pueblo hace varios pedidos para evitar impunidad.](https://www.elcomercio.com/wp-content/uploads/2024/07/ati-pamela.jpg)
-
-En el **caso Pamela Ati**, la **Defensoría del Pueblo** hizo **exhortos** a varias **instituciones** relacionadas con este proceso, en particular, y al tema de la violencia de género, en general.
-
-Este viernes 20 de septiembre de 2024, la Defensoría emitió un pronunciamiento que concluye en que seguirá vigilante del desarrollo del caso para que no quede en la **impunidad**.
-
-### Más noticias:
-
-* [Caso Pamela Ati: jueza tomó una decisión sobre la prisión preventiva de militares procesados](https://www.elcomercio.com/actualidad/seguridad/caso-pamela-ati-jueza-prision-preventiva-libertad-militares-procesados.html "Caso Pamela Ati: jueza tomó una decisión sobre la prisión preventiva de militares procesados")
-* [Caso Pamela Ati: Fuerzas Armadas se pronunciaron sobre las acciones realizadas](https://www.elcomercio.com/actualidad/seguridad/caso-pamela-ati-fuerzas-armadas-se-pronuncio-sobre-las-acciones-realizadas.html "Caso Pamela Ati: Fuerzas Armadas se pronunciaron sobre las acciones realizadas")
-
-La subteniente del Ejército, Pamela Ati, tenía 25 años cuando fue encontrada muerta en su habitación.
-
-Los hechos sucedieron dentro de la Brigada de Selva No. 19, en Napo, la madrugada del 29 de junio.
-
-De esa fecha a la actualidad, se ha emitido un informe de autopsia que señala violencia física y sexual contra la subteniente.
-
-Otro informe que generó controversia porque diría que la militar murió por asfixia.
-
-Además, la Fiscalía procesa a seis militares y los investiga por el delito de femicidio.
-
-Sin embargo, por decisión judicial, todos están libres, luego de que cuatro apelaran la prisión preventiva.
-
-La Asamblea también conformó una comisión especial para la investigación de este caso.
-
-El próximo 29 de septiembre se cumplen tres meses de la muerte de Ati.
-
-Caso Pamela Ati: los exhortos de la Defensoría del Pueblo a varias instituciones
---------------------------------------------------------------------------------
-
-La Defensoría del Pueblo accionó la vigilancia del debido proceso en el caso Pamela Ati.
-
-Se encuentra alerta a las actuaciones que realizan las instituciones competentes “en la búsqueda de la verdad, justicia y reparación”.
-
-La Defensoría recordó que el Estado tiene el deber de proteger, respetar y garantizar los derechos.
-
-Al **Gobierno Nacional**, a contar con las garantías necesarias, a cumplir de manera urgente, diligente y permanente con acciones que indiscutiblemente deben observar un enfoque de derechos humanos y género, que garanticen la vida y la integridad personal.
-
-A la **Función Judicial y la Fiscalía General del Estado**, a investigar y juzgar, en un plazo razonable.
-
-Estas instituciones deben brindar seguridad jurídica, tutela judicial efectiva y con la debida diligencia.
-
-Además, emitir las alertas de las causales que permitan prevenir otras muertes al interior de recintos de la Fuerza Pública.
-
-Pide al **Ministerio de Defensa,** respetar y ser coherente con la sociedad en cuanto a la difusión de información, considerando la situación que vive la familia de Ati y a brindar las facilidades y la información necesaria.
-
-Al **Ministerio de la Mujer y Derechos Humanos,** a generar procesos sostenidos de política pública para la sensibilización y formación para los miembros de las fuerzas militares y policiales, en temas de derechos humanos; y, de manera inmediata, la atención integral y no revictimizante para los familiares de Ati.
-
-**Al Servicio Nacional de Medicina Legal y Ciencias Forenses** que cumpla con los protocolos y personal calificado en cuanto a las pericias e informes.
-
-La Defensoría exhorta al **Instituto de Seguridad Social de las Fuerzas Armadas** a proporcionar la atención necesaria a la familia y se otorguen todos los beneficios postmortem que por derecho les corresponde.
-
-Sobre la información difundida
-------------------------------
-
-A **los medios de comunicación públicos, privados, comunitarios, y alternativos,** a manejar con respeto, ética y desde un enfoque de derechos humanos la información; evitar la desinformación y rumores que entorpecen los procesos investigativos.
-
-Finalmente, el **Consejo de Comunicación,** a estar vigilante en torno a diferentes declaraciones que se den por parte de medios de comunicación y líderes de opinión que posean un discurso machista y reafirmen estereotipos basados en género en torno al caso.
-
-Libertad empató con Independiente del Valle y huele a descenso
-==============================================================
-
-Libertad no pasó del empate con Independiente del Valle en Loja y su situación en la tabla se complica.
--------------------------------------------------------------------------------------------------------
-
-![Jeison Medina (i) y Eduardo Bores en la Liga Pro 2024 en el Reina del Cisne de Loja.](https://www.elcomercio.com/wp-content/uploads/2024/09/libertad_idv_1.jpg)
-
-**Libertad de Loja y el Independiente del Valle** animaron un entretenido y dinámico partido en lo que fue la apertura de la séptima fecha de la segunda etapa de la Liga Pro Ecuador.
-
-El partido entre Libertad e Independiente del Valle se jugó la noche de este **viernes 20 de septiembre de 2024 en el estadio Reina del Cisne**, con una aceptable presencia de público que llego a observar al campeón de la Copa Sudamericana en 2019 y 2022.
-
-### Más noticias:
-
-* [Cléber Chalá, la Copa América y una chilena a Chile en Barranquilla](https://www.elcomercio.com/deportes/copa-america/cleber-chala-chilena-chile-barranquilla.html "Cléber Chalá, la Copa América y una chilena a Chile en Barranquilla")
-* [La Bimbo Global Race llega a Quito con un fin benéfico y alimentario](https://www.elcomercio.com/deportes/carrera-bimbo-global-race-quito.html "La Bimbo Global Race llega a Quito con un fin benéfico y alimentario")
-* [Calendario de los ecuatorianos en el exterior con partidazos](https://www.elcomercio.com/deportes/futbol/partidos-ecuatorianos-exterior-europa-america.html "Calendario de los ecuatorianos en el exterior con partidazos")
-
-Independiente del Valle empezó dominando el encuentro y a los **16 minutos del primer tiempo se adelantó** en el marcador con un tanto de Junior Sornoza, uno de sus canteranos históricos que está en el club desde inicios de las década del 2010.
-
-La jugada se gestó por la zona derecha en una combinación entre Matías Fernández y Keny Arroyo.
-
-El chileno levantó un preciso **centro que fue aprovechado por Sornoza** que con golpe de cabeza apareció entre los defensas centrales para poner el 1-0.
-
-La alegría de la vista duró poco y a los **20 minutos Libertad colocó el 1-1 con un tanto de Nixon Molina**, que aprovechó un rebote que dejó Moisés Ramírez ante un cobro de tiro libre de José Caicedo.
-
-Ramírez al darse cuenta de su error intentó fingir una falta que no existió, pero el **VAR revisó la jugada para descartar un fuera de juego** que finalmente no existió y se convalidó el tanto para alegría de los fanáticos locales.
-
-A los 74 minutos, **Joaquín Pombo, defensa central argentino de Independiente del Valle**, fue expulsado por la intervención del VAR.
-
-En la novena fecha, IDV será local en Chillo-Jijón para recibir a Universidad Católica el sábado 29 de septiembre, desde las 16:30; **mientras que Libertad viajará a Guayaquil para medirse con Barcelona Sporting Club** en el estadio Monumental el domingo 29, desde las 17:30.
-
-Libertad cerca del descenso
----------------------------
-
-Con este resultado, **Libertad se encuentra en la casilla 11 de la segunda etapa con 8 puntos** y un gol diferencia negativo de -4. En lo que va de la etapa ganó dos partidos, empató dos y perdió tres.
-
-En la tabla acumulada los **lojanos son últimos con 12 puntos** y un gol diferencia negativo de -21.
-
-Delfín es el primero que se salva con 17 y aun con su partido de la fecha por completar, por lo que la tarea para los del sur del país parece compleja a la hora de pensar en la salvación.
-
-Por su parte **Independiente se mantiene en la tercera casilla con 13 unidades** y un gol diferencia positivo de +4. Su campana registra cuatro victorias, un empate y dos derrotas.
-
-IDV llegó a los 48 en la acumulada y sigue como líder, por delante de Liga de Quito (45) y Barcelona SC (43).
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/09/Copia-de-MAQUETA-POSICIONES-BF-PERSONAJE-819x1024.jpg)
-
-No te pierdas – El Confesionario
---------------------------------
-
-Agente de la AMT fue destituido por pedir sobornos
-==================================================
-
-El Ministerio de Trabajo tomó la decisión tras más de seis meses de cometido el delito.
----------------------------------------------------------------------------------------
-
-![El fiscalizador fue capturado cometiendo el delito en flagrancia](https://www.elcomercio.com/wp-content/uploads/2024/09/transito-amt.jpg)
-
-La Agencia Metropolitana de Tránsito (**AMT**) destituyó a un **fiscalizador** de la institución, tras comprobarse que cometió un delito de **corrupción**.
-
-El funcionario aprovechó su cargo público para pedir **dinero a cambio** de no sancionar a un conductor.
-
-### Más noticias
-
-* [Mujer denuncia engaños afuera de centros de revisión vehicular; AMT responde](https://www.elcomercio.com/actualidad/quito/mujer-denuncia-enganos-centros-de-revision-vehicular-amt-responde.html "Mujer denuncia engaños afuera de centros de revisión vehicular; AMT responde")
-* [Radiografía de la movilidad en Quito, un problema vigente](https://www.elcomercio.com/actualidad/quito/radiografia-movilidad-quito-problema-vigente.html "Radiografía de la movilidad en Quito, un problema vigente")
-* [Aeropuerto de Quito reprograma vuelos del sábado 21 de septiembre de 2024](https://www.elcomercio.com/actualidad/quito/vuelos-aeropuerto-quito-reprogramados-mantenimiento-pista.html "Aeropuerto de Quito reprograma vuelos del sábado 21 de septiembre de 2024")
-
-El acto de **concusión** fue grabado por los afectados, el lunes 4 de marzo de 2024, en el parque de Conocoto, al suroriente de Quito.
-
-Sin embargo, tuvieron que pasar **más de seis meses** para que el Ministerio de Trabajo tomará una decisión, el miércoles 11 de septiembre.
-
-Agente pedía 250 dólares
-------------------------
-
-En los videos difundidos en redes sociales se observa al supervisor de los agentes de tránsito **negociar el monto** del soborno con un ciudadano.
-
-“A mí me conocen los compañeros aquí, ya para no hacer tanto drama, porque ya sabe como la gente es aquí (curiosa), ni para usted, ni para mí, deme los **250 dólares**“, mencionó ese día el funcionario identificado como **E. G.**.
-
-A los pocos minutos, el fiscalizador fue retenido por la misma ciudadanía para evitar que huya y entregado a la **Policía Nacional**.
-
-Fiscalizador aduce que utilizaron IA en su contra
--------------------------------------------------
-
-En audiencias de la investigación, el funcionario aceptó **otro grave error**.
-
-El día que cometió el delito, el hombre habría estado de franco; por lo que utilizó el **uniforme** de la institución cuando no debía.
-
-Esta falta considerada como **muy grave** llevó a que la decisión del Ministerio de Trabajo contra el servidor metropolitano tuviera más peso.
-
-Según dio a conocer Washington Martínez, director de la ANT, el funcionario afirmó que el video en el que se lo ve solicitando el dinero no es él.
-
-El fiscalizador dijo que utilizaron **Inteligencia Artificial** para recrear las imágenes.
-
-Tras cumplir con el debido proceso, finalmente, este jueves 19 de septiembre, la AMT dio a conocer que el hombre fue **separado** de la entidad.
-
-> 📢 [#AMTInforma](https://twitter.com/hashtag/AMTInforma?src=hash&ref_src=twsrc%5Etfw) | Reafirmamos nuestro compromiso con la transparencia y la integridad.  
-> Un Fiscalizador fue destituido por actos de corrupción.  
-> 💪 ¡Juntos construimos una ciudad honesta y confiable!  
-> 🔎 Más información aquí ⬇️  
->   
-> ☀️ [#QuitoRenace](https://twitter.com/hashtag/QuitoRenace?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/1xqNXEgmau](https://t.co/1xqNXEgmau)
-> 
-> — AMTQuito (@AMT\_Quito) [September 19, 2024](https://twitter.com/AMT_Quito/status/1836832696137568735?ref_src=twsrc%5Etfw)
-
-Por el delito de concusión, E. G. podría enfrentar, además, un **juicio penal** que se sanciona con privación de la libertad entre tres a **cinco años**.
-
-Según detalló la Alcaldía de Quito, desde 2023, se han registrado **otros tres casos** de servidores municipales que fueron separados de la AMT por cometer actos de corrupción.
-
-15 años sin justicia para José Erazo, padre de hincha de El Nacional asesinado
-==============================================================================
-
-José Erazo, padre de David Erazo -hincha asesinado de El Nacional- rememora los hechos y su proceso tras 15 años.
------------------------------------------------------------------------------------------------------------------
-
-![José Erazo, padre de David Erazo -hincha de El Nacional asesinado- en las afueras de la sede del equipo en 2009.](https://www.elcomercio.com/wp-content/uploads/2024/09/1935553-scaled.jpg)
-
-“Y por el ‘Chino’ que te alienta desde el cielo”, se escucha en uno de los cánticos de la barra de El Nacional en sus compromisos. La frase hace referencia a **David Erazo**, hincha del ‘Bi-Tri’ que fue asesinado en 2009 en una gresca.
-
-De aquel suceso que ocurrió en el sector de La Ofelia, cerca del Estadio Rodrigo Paz Delgado, después de un partido entre **Liga de Quito y El Nacional**, han pasado 15 años. José Erazo, padre de la víctima, relata a EL COMERCIO que ya se ha resignado tras la pérdida y a un caso que, sostiene, **ya prescribió y no hubo responsables.**
-
-### Más noticias:
-
-* [Antonio Valencia, el crack que dividió El Nacional y Liga de Quito](https://www.elcomercio.com/deportes/futbol/antonio-valencia-nacional-liga-quito.html "Antonio Valencia, el crack que dividió El Nacional y Liga de Quito")
-
-La noche del **20 de junio del 2009**, el suceso conmocionó al fútbol ecuatoriano cuando el joven de tan solo 17 años recibió siete puñaladas. A vísperas del día del padre, el progenitor de Erazo se encontraba en su barrio, Cotocollao, y presenciaba un partido de ligas barriales cuando recibió la noticia.
-
-“Se mantenía alejado de cosas malas y era centrado. No consumía drogas ni bebía. Entró a la barra y yo tenía confianza. ‘Anda nomás tranquilo’, le dije y que mantenga su distancia. Le había enseñado a que sea como yo. Nunca me imaginé que eso iba a suceder y menos de la noche a la mañana. El mundo se derrumbó para mí”, manifiesta.
-
-Un episodio sin resolver para José Erazo y la afición de El Nacional
---------------------------------------------------------------------
-
-Su hijo se crió a momentos junto a él y a momentos con su madre, pues estaban separados. Cuando se produjo la muerte de **David Erazo**, su padre sostiene que ambos se apoyaron entre sí y buscaron una solución para el caso. Sin embargo, aquel objetivo no se logró.
-
-El coronel **Néstor Landeta**, exdirigente de la escuadra criolla, le prestó su apoyo junto con la institución y lo ayudó con recursos . Asimismo, Erazo también pudo tomar contacto con abogados[.](https://es.wikipedia.org/wiki/Club_Deportivo_El_Nacional "https://es.wikipedia.org/wiki/Club_Deportivo_El_Nacional")
-
-A poco de darse el asesinato, la Policía presentó un presunto culpable del asesinato del **joven hincha de El Nacional**. Sin embargo, aquello no fue acertado. Un hincha de LDU, Elías B., fue detenido e involucrado como uno de los presuntos autores de la muerte de Erazo. Su **absolución** llegó una vez que se descubrieron **violaciones en su arresto** y en su **proceso judicial**. Luego, la justicia determinó que no se hallaron **indicios** que lo vincularan a lo suscitado.
-
-Con respecto a los últimos datos que tuvo de los sospechosos, **Erazo** relata que un miembro de la Policía Nacional que estaba pendiente del caso le manifestó que estos habían huido del país. A partir de ello, este no volvió a tener noticias sobre estos.
-
-José Erazo, entregado a la resignación
---------------------------------------
-
-Una vez que prescribió la causa, en 2019, el padre del joven asesinado **no volvió a tomar ninguna acción** judicial. Señala que a partir de ese momento se resignó y se dedicó a aceptar los hechos.
-
-En caso de que existan nuevos indicios o sospechas para resolver lo que sucedió con su hijo, este menciona que **volvería a jugar una última carta**. Pese a ello, si eso no sucede, prefiere recordarlo como en vida fue y dedicarse al cuidado de sus demás descendientes.
-
-Este sábado 21 de septiembre del 2024, **El Nacional y Liga de Quito** volverán a verse las caras en un compromiso en el que el incidente de 2009 no ha sido el único. Erazo, también hincha del ‘Bi-Tri’, ya no es tan cercano al balompié, hace dos años que no va a un partido, pero la reminiscencia de su hijo sigue presente con, al menos, una mínima esperanza de justicia.
-
-Un mensaje a raíz del caso de David Erazo
------------------------------------------
-
-En función de los hechos que le tocó vivir, **José Erazo** señala que el fútbol no tiene por qué mancharse con ello. El deporte rey y lo que sus valores representan debe estar alejado y no debe pagar por actos de violencia y verse salpicado por ello.
-
-“**Mi recomendación sería que los padres tengan más cuidado de sus hijos… saber adónde van, si entran a alguna barra, estar pendientes.** Tal vez fue un descuido mío el no estarlo con mi hijo y eso siempre lo llevaré. No hay que descuidarlos”, agrega al repasar todo su trajín y los sucesos de 2009.
-
-Dragonas vs. Barcelona por el título de la Superliga Femenina, ¿cuándo juegan?
-==============================================================================
-
-Dragonas Independiente y Barcelona Sporting Club definen al campeón de la Superliga Femenina 2024 en Chillo-Jijón.
-------------------------------------------------------------------------------------------------------------------
-
-![Jugadoras de Barcelona SC Y Dragonas IDV en la final de ida de la Superliga Femenina 2024.](https://www.elcomercio.com/wp-content/uploads/2024/09/final_femenina_1.jpg)
-
-**Dragonas Independiente**, con la goleadora colombiana Karen Páez como una de sus figuras, quieren consumar su revancha ante Barcelona Sporting Club y proclamarse por primera vez campeonas de la Superliga Femenina de Ecuador.
-
-El partido entre las **Dragonas Independiente y Barcelona SC** está programado para el sábado 21 de septiembre de 2024, desde las 11:00, en el estadio ubicado en el Complejo de Independiente en Chillo-Jijón.
-
-### Más noticias:
-
-* [Liga de Quito vs. El Nacional, el partido principal de la Liga Pro](https://www.elcomercio.com/deportes/futbol/liga-de-quito-vs-el-nacional-el-partido-principal-de-la-liga-pro.html "Liga de Quito vs. El Nacional, el partido principal de la Liga Pro")
-* [¿Cuánto tardó Gonzalo Plata en marcar con sus nuevos equipos?](https://www.elcomercio.com/deportes/futbol/cuanto-tardo-gonzalo-plata-en-marcar-con-sus-nuevos-equipos.html "¿Cuánto tardó Gonzalo Plata en marcar con sus nuevos equipos?")
-* [Falleció Kevin Pozo, ciclista ecuatoriano atropellado](https://www.elcomercio.com/deportes/ciclismo/fallecio-kevin-pozo-ciclista-ecuatoriano-atropellado.html "Falleció Kevin Pozo, ciclista ecuatoriano atropellado")
-
-Después de perder las dos últimas finales, la última con Barcelona, el equipo de **Dragonas puede conquistar en casa su primer título nacional** en el encuentro de vuelta de la final de la Superliga Femenina.
-
-El sábado 14 se **impusieron a domicilio por 0-1 al Barcelona en el partido de ida jugado** en el estadio Monumental de Guayaquil, que contó con una aceptable presencia de público en las localidades habilitadas.
-
-Precisamente la colombiana **Karen Páez fue la autora del gol con el que las capitalinas** se llevaron un importante triunfo y resistieron los ataques de las locales, sobre todo en el primer tiempo cuando las locales las arrinconaron contra su arco.
-
-En el segundo tiempo las **Dragonas se defendieron con orden y pasaron un sobresalto** al minuto 83 con un penal pitado en su contra, pero que después fue rectificado por la intervención del VAR que desestimó la mano de una de sus defensas.
-
-![Foto: API.](https://www.elcomercio.com/wp-content/uploads/2024/09/final_femenina_2-1024x683.jpg)
-
-Foto: API.
-
-Dragonas y una esperada revancha
---------------------------------
-
-A las Dragonas les basta con el empate para salir campeonas, mientras que Barcelona está obligado a sacar un triunfo.
-
-El equipo de Guayaquil ya sabe lo que es ganar la Superliga Femenina. Lo hizo el año pasado al **golear por 0-3** tras haber empatado 0-0 en el encuentro de ida.
-
-En el duelo de entrenadores, el colombiano **Gustavo Pineda disputa su primera final en Ecuador** con las Dragonas, mientras que la ecuatoriana Wendy Villón, al mando del Barcelona, saldrá a por el quinto título de la Superliga Femenina, pues ganó dos con el Deportivo Cuenca, uno con El Nacional y el año pasado el primero con el Barcelona.
-
-Las Dragonas dispondrán este sábado, además de Páez, con la argentina **Claudia Roldán, la brasileña Larissa Nunes** y la experimentada defensa paraguaya Verónica Riveros.
-
-Por el lado de las barcelonistas, estarán figuras como la portera venezolana Maleike Pacheco, las defensas Karla Capurro, Lía Rodríguez, la volante Ericka Gracia y la **máxima goleadora de todas las ediciones del torneo**, la también ecuatoriana Madelen Riera. 
-
-No te pierdas – El Confesionario
---------------------------------
-
-Liga de Quito goleó a El Nacional en la despedida del ‘Toño’ Valencia
-=====================================================================
-
-Liga de Quito y El Nacional tienen una larga historia y rivalidad deportiva que se manifiesta en el denominado 'Clásico quiteño'.
----------------------------------------------------------------------------------------------------------------------------------
-
-![Jugadores de Liga de Quito celebran uno de los goles marcados a El Nacional en el 2005.](https://www.elcomercio.com/wp-content/uploads/2024/09/liga_golea_1.jpg)
-
-**Liga de Quito** tiene en el estadio Rodrigo Paz Delgado su mayor fortaleza en torneos nacionales y en internacionales, donde ha conseguido espectaculares victorias con marcadores abultados. 
-
-El 6 de marzo de 1997 se abrieron por primera vez las **puertas del Rodrigo Paz Delgado** en un amistoso con victoria de 3-1 ante el Atlético Mineiro con goles de Mané Ferreira, Paúl Guevara y Patricio Hurtado. 
-
-### Más noticias:
-
-* [‘Palazo’ de Gonzalo Plata y Flamengo con un pie afuera de Copa Libertadores](https://www.elcomercio.com/deportes/flamengo-penarol-gonzalo-plata-libertadores.html "‘Palazo’ de Gonzalo Plata y Flamengo con un pie afuera de Copa Libertadores")
-* [¿Cuál es el historial de partidos entre Liga de Quito y El Nacional?](https://www.elcomercio.com/deportes/liga-quito-nacional-historial-liga-pro.html "¿Cuál es el historial de partidos entre Liga de Quito y El Nacional?")
-* [Anderson Julio y Leonardo Campana, ¿opciones para la Selección de Ecuador?](https://www.elcomercio.com/deportes/futbol/anderosn-julio-leonardo-campana-seleccion.html "Anderson Julio y Leonardo Campana, ¿opciones para la Selección de Ecuador?")
-
-Liga tiene registradas tres goleadas de 7-0 en su estadio. La primera fue el **29 de diciembre de 1998 en la final** ante Emelec con tantos de Ulises de la Cruz (3 goles), Eduardo Hurtado (2), Álex Escobar y un autogol de Pavel Caicedo.
-
-Otro de los estruendosos 7-0 fue el **19 de noviembre de 2009 en la semifinal de ida de la Copa Sudamericana**, que después ganó, ante River Plate de Uruguay. 
-
-Claudio Bieler (3), Carlos Espínola, Miller Bolaños, Édison Méndez y Ulises de la Cruz fueron los goleadores aquella noche con la presencia de más de 30 000 espectadores que disfrutaron de esta paliza internacional. 
-
-Pero una de las goleadas que más han **disfrutado los hinchas albos fue el 7-0 ante El Nacional**, uno de sus clásicos rivales, que no presentó resistencia al vendaval blanco. 
-
-![Foto: Archivo histórico EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/09/liga_golea_3-1024x683.jpg)
-
-Foto: Archivo histórico EL COMERCIO.
-
-Goleada en el Día del Padre y despedida del ‘Toño’
---------------------------------------------------
-
-El 19 de junio de 2005 se jugó la fecha 16 del Torneo Apertura. **LDU recibió a El Nacional** en el Rodrigo Paz Delgado en medio de los festejos del Día del Padre. 
-
-El partido se resolvió con tres tantos en el primer tiempo y cuatro en el segundo con lo que se selló un nuevo **7-0 que ahondó más la rivalidad deportiva** entre ambas instituciones. 
-
-Gabriel García (2), Ariel Graziani, Carlos Castro (autogol), Carlos Espínola, Franklin Salas y Luis Miguel Garcés fueron los autos de los siete tantos universitarios. 
-
-Otra particularidad fue que **Antonio Valencia (16’), Erick de Jesús (32’) y Jorge Guagua (85’)** salieron expulsados. 
-
-Para el ‘Toño’ Valencia ese fue su último partido con la camiseta del rojo y nunca más volvió a vestirla. 
-
-Fue transferido al Villarreal, **luego paso por el Recreativo de Huelva**, Wigan Athletic, Manchester United, Liga de Quito y Querétaro. 
-
-El entrenador de los albos era el peruano Juan Carlos Oblitas, campeón en ese Torneo Apertura, **mientras que los rojos estaban dirigidos por Ever Hugo Almeida**, campeón del Torneo Clausura y del campeonato 2006.
-
-En el todos contra todos, **LDU fue primero en las tabla de posiciones con 41 puntos**, El Nacional segundo con 33 y Barcelona Sporting Club con 26.  
-
-En los play-off los albos derrotaron a Olmedo en los cuartos de final; Deportivo Cuenca en las semifinales; y doblegaron a Barcelona SC en la final. 
-
-El Nacional en los cuartos de final derrotó a Aucas y en las **semifinales cayó ante Barcelona** en un recordado partido que se definió a favor de los guayaquileños en la parte final de juego.  
-
-El sábado 21 de septiembre de 2024, desde las 16:30, se enfrentarán nuevamente Liga de Quito y El Nacional en el Rodrigo Paz Delgado, por la séptima fecha de la segunda etapa de la Liga Pro. 
-
-Alineación de Liga de Quito
----------------------------
-
-Cristhian Mora; Néicer Reasco, Geovanny Espinoza, Carlos Espínola, Paúl Ambrosi; Édison Méndez (Álex Aguinaga), Alfonso Obregón, **Patricio Urrutia, Roberto Palacios; Gabriel García (Franklin Salas)** y Ariel Graziani (Luis Miguel Garcés).
-
-DT: Juan Carlos Oblitas.
-
-Alineación de El Nacional 
---------------------------
-
-Johvani Ibarra; Omar de Jesús, Jorge Guagua, Carlos Castro, Erick de Jesús; Antonio Valencia, Segundo Castillo, **David Quiroz (Jimmy Bran), Christian Lara**; Christian Benítez (Pavel Caicedo) y Félix Borja (David Valencia).
-
-DT: Éver Hugo Almeida.
-
-![Foto: Archivo histórico EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/09/liga_golea_2-1024x683.jpg)
-
-Foto: Archivo histórico EL COMERCIO.
-
-No te pierdas – El Confesionario
---------------------------------
-
-Gobierno suspende entrega de combustible a gasolineras cercanas a Aquiles Alvarez
-=================================================================================
-
-La ARCH notificó la suspensión al grupo Alva3, consorcio a cargo de las gasolineras Copedesa.
----------------------------------------------------------------------------------------------
-
-![El alcalde de Guayaquil señaló, a través de sus abogados, que enfrenta una persecución política](https://www.elcomercio.com/wp-content/uploads/2024/09/a-alvarez-a.jpg)
-
-La Agencia de Regulación y Control de Hidrocarburos (**ARCH**) suspendió la **entrega de combustible** al grupo Alva3, consorcio a cargo de la empresa Copedesa, vinculada al alcalde de Guayaquil, **Aquiles Alvarez**, y su familia.
-
-Según detalló **José Luis Neira**, secretario general de Integridad Pública, a través de un video difundido en redes sociales este viernes 20 de septiembre de 2024, la medida se realizó tras detectarse un **presunto contrabando de combustible**.
-
-### Más noticias
-
-* [TCE admite una nueva denuncia contra Aquiles Alvarez](https://www.elcomercio.com/actualidad/politica/tce-admite-una-nueva-denuncia-contra-aquiles-alvarez.html "TCE admite una nueva denuncia contra Aquiles Alvarez")
-* [Agencia de control clausura gasolinera vinculada a la familia de Alcalde de Guayaquil](https://www.elcomercio.com/actualidad/negocios/agencia-de-control-clausura-gasolinera-vinculada-a-la-familia-de-alcalde-de-guayaquil.html "Agencia de control clausura gasolinera vinculada a la familia de Alcalde de Guayaquil")
-* [Aquiles Alvarez es denunciado ante el TCE por la asambleísta Lucía Jaramillo](https://www.elcomercio.com/actualidad/politica/aquiles-alvarez-denunciado-ante-tce-asambleista-lucia-jaramillo.html "Aquiles Alvarez es denunciado ante el TCE por la asambleísta Lucía Jaramillo")
-
-Neira afirma que las irregularidades beneficiaron a los exaccionistas de **Copedesa** con más de **94 millones de dólares**, entre ellos, a “quien administra los fondos públicos (de Guayaquil)”, manifestó.
-
-Este cálculo corresponde a los perjuicios que se habrían hecho al Estado durante los **últimos tres años** por la venta de más de 62,6 millones de galones de combustible:
-
-* **2021:** 13 588 415 millones de dólares
-* **2022:** 47 373 269 millones de dólares
-* **2023:** 33 103 176 millones de dólares
-
-¿Cómo se realizó el presunto contrabando?
------------------------------------------
-
-El funcionario explicó que los exaccionistas de Copedesa se beneficiaron de los **subsidios** que da el estado al sector.
-
-En palabras de Neira, “se habrían hecho millonarios de la noche a la mañana” al presuntamente desviar los combustibles de un **segmento** a otro, a través de las **ocho empresas** que forman parte del grupo Alva3.
-
-Los subsidios se aplican para el sector automotriz, industrial o naviero; pero deben destinarse **exclusivamente** para ese segmento.
-
-Lo que se presume que hacían los exaccionistas, por ejemplo, es beneficiarse del subsidio recibido para autos y utilizarlo en la industria.
-
-El Secretario afirmó que la ARCH y el Servicio de Rentas Internas (SRI) se encuentran cruzando información para “identificar y denunciar este mal comportamiento”.
-
-El funcionario enfatizó que el caso denominado **Triple A** “no es una persecución política”.
-
-Neira lo argumentó en que “al momento que se cometió el delito, (Alvarez, sin mencionarlo) no estaba afiliado a ningún partido político”.
-
-La notificación de la **suspensión** de entrega de combustible suma un nuevo golpe para Alva3, quien este jueves 19 de septiembre, vio clausurada una de las **gasolineras** de Copedesa.
-
-> El contrabando de combustible ha beneficiado a exaccionistas de COPEDESA S.A. con más de $94 millones en 3 años, causando un gran perjuicio al 🇪🇨. La ARCH suspendió la entrega de combustible a las comercializadoras y distribuidoras del Grupo ALVA3. ¡En [#ElNuevoEcuador](https://twitter.com/hashtag/ElNuevoEcuador?src=hash&ref_src=twsrc%5Etfw), no… [pic.twitter.com/IMm3WkbuSL](https://t.co/IMm3WkbuSL)
-> 
-> — José Julio Neira (@JoseJulioNeira) [September 20, 2024](https://twitter.com/JoseJulioNeira/status/1837222075880329531?ref_src=twsrc%5Etfw)
-
-Alcalde de Guayaquil reaccionó
-------------------------------
-
-A las pocas horas del cierre de la gasolinera, el **alcalde de Guayaquil** difundió un mensaje a través de su red social X.
-
-Si bien, no hizo referencia directa al caso, su discurso se enfocó en la **fortaleza**.
-
-“Nosotros seguimos adelante, Guayaquil seguirá en marcha, siempre. Créanme que nada nos afecta, aunque quieran quebrarnos, más fuertes nos ponen”, señaló Alvarez
-
-Tras citar un pasaje bíblico, el burgomaestre enfatizó: “Ya esto es una lucha entre el bien y el mal; y ojo, siempre gana el bien. Voten bien”, dijo.
-
-> Nosotros seguimos adelante, Guayaquil seguirá en marcha, siempre!!  
-> Créanme que nada nos afecta, aunque quieran quebrarnos, más fuertes nos ponen.  
->   
-> Nada para a Guayaquil! Estamos más fuertes que nunca 💪🏻💪🏻💪🏻  
->   
-> Efesios 6:16-18:  
-> Pero sobre todo, tomen el escudo de la fe para…
-> 
-> — Aquiles Alvarez Henriques (@aquilesalvarez) [September 20, 2024](https://twitter.com/aquilesalvarez/status/1836950399510630549?ref_src=twsrc%5Etfw)
-
-Caso Triple A
--------------
-
-Desde el 11 de julio, Aquiles Alvarez, dos hermanos y otras **ocho personas** naturales y jurídicas son investigados por un presunto contrabando.
-
-Ese día, **Franklin Erreyes**, director de la Agencia de Regulación y Control de Energía y Recursos Naturales No Renovables, presentó la denuncia ante la Fiscalía.
-
-Doce días después, esta entidad ejecutó allanamientos en Milagro y Guayaquil para recoger indicios en el caso.
-
-El mismo día del cierre de las gasolineras
-
-Fuelcorp
---------
-
-Copedesa Gasgrupco S.A. es una firma que comercializa combustible y cuenta con una red de gasolineras que eran de propiedad de Aquiles Álvarez y sus hermanos.
-
-Esta empresa sería una de las **cuatro compañías** que habrían abastecido de combustible de forma ilegal a la empresa Fuelcorp S.A.
-
-La denuncia detalla que, el grupo de gasolineras Copedesa facturó a la empresa Fuelcorp S.A. más de dos millones de galones de diésel, a pesar de no estar autorizada como comercializadora.
-
-La crisis del maíz impacta en la producción de huevos, pollo y cerdos en Ecuador
-================================================================================
-
-Los avicultores piden que se autorice una importación de maíz urgente. El Gobierno evaluará en octubre.
--------------------------------------------------------------------------------------------------------
-
-![Los productores de huevos están vendiendo sus gallinas para carne, ya que no consiguen maíz para alimentarlas, según Aprobal. Foto: Pixabay](https://www.elcomercio.com/wp-content/uploads/2024/09/Diseno-sin-titulo-35.jpg)
-
-Los productores de pollo, huevos y cerdos en Ecuador alertan de una grave crisis debido a la falta de maíz. Esta situación está provocando que el sector avicultor tome decisiones drásticas.
-
-“Los productores de huevos están vendiendo sus gallinas para carne, ya que no consiguen maíz para alimentarlas”, explica **Jorge Josse**, director ejecutivo de la **Asociación de Balanceadores** ([Aprobal](https://aprobal.com/ "https://aprobal.com/")).
-
-Más noticias
-------------
-
-* [Sequía y manejo sostenible del agua en Ecuador](https://www.elcomercio.com/opinion/editorial/sequia-y-manejo-sostenible-del-agua-en-ecuador.html "Sequía y manejo sostenible del agua en Ecuador")
-* [Los impactos reales de la sequía aún estamos por descubrir](https://www.elcomercio.com/opinion/editorial/reales-impactos-sequia-estamos-descubrir.html "Los impactos reales de la sequía aún estamos por descubrir")
-
-Los productores de **pollos y cerdos** se encuentran en una posición similar. Dejaron de invertir en nuevos lotes de engorde, lo que afectará la producción futura.
-
-Las fábricas de **alimentos balanceados** también reducen su producción por la crisis en la que está el maíz. Este grano es esencial para la alimentación de estas industrias.
-
-La demanda anual de maíz en Ecuador es de 1 560 000 toneladas, pero la cosecha de este año alcanzará solo un millón de toneladas, lo que resulta en un déficit de 560 mil toneladas. Estos son los cálculos que realizó Aprobal y que evidencian el problema que están afrontando.
-
-Para cubrir parcialmente esta falta, ha ingresado maíz de contrabando desde Perú y se han utilizado otros subproductos de la molinería.
-
-“Ha ingresado maíz de contrabando del Perú y se ha utilizado, hasta donde se ha podido, otros subproductos de la molinería”, enfatiza Josse.
-
-Hasta ahora han cubierto 250 mil toneladas del déficit, pero aún quedan por cubrir 300 mil toneladas hasta abril de 2025.
-
-La producción de maíz de cuatro provincias en crisis
-----------------------------------------------------
-
-Las principales provincias productoras también enfrentan caídas significativas en su producción. Estas son las cifras que maneja el sector: **Manabí**, en condiciones favorables, produce hasta 450 mil toneladas, pero este año solo alcanzó 300 mil. En **Los Ríos**, la producción esperada era de 400 mil toneladas, pero se quedará en 330 mil. **Guayas y Loja** también reportan descensos en su producción.
-
-Para este sector, la solución más urgente es autorizar la importación de al menos 300 mil toneladas de maíz. Este producto podría llegar gradualmente desde diciembre de 2024 hasta febrero de 2025, justo cuando ya no habrá cosecha nacional disponible. El 60% del maíz se destina a la producción avícola, lo que representa aproximadamente 936 mil toneladas anuales.
-
-Una posible importación de maíz se evaluará en octubre
-------------------------------------------------------
-
-El **Ministerio de Agricultura y Ganadería (MAG)** evalúa la posibilidad de importar **maíz duro amarillo** en respuesta a la escasez actual. Esta decisión se basa en un análisis del balance entre oferta y demanda, que considera los rendimientos de la cosecha. Si se determina un déficit de producción local, se podrá autorizar la importación, aunque se priorizará el consumo del maíz nacional.
-
-Esta previsto que la cartera de Estado presente el balance de la oferta y demanda en **octubre**. Con esto se podría definir la cantidad de importación necesaria, tomando como referencia el año anterior.
-
-En diciembre del 2023 se autorizó la importación de **91 566** toneladas métricas de maíz amarillo duro, mientras que en el 2022 fue de **166 103** toneladas.
-
-Solo las empresas que absorbieron su producción en el año previo podrían acceder a las importaciones. En los últimos tres años, entre **25 a 29** empresas han importado maíz.
-
-La cosecha de verano, que tradicionalmente abastece el mercado hasta noviembre, ha sido impactada por condiciones climáticas adversas y sequías. De manera global, el ministro de Agricultura, informó que se han perdido **7 700 hectáreas**, por este problema.
-
-Para controlar la situación, el Ministerio dice que realizan operativos para evitar la especulación y se mantienen conversaciones con productores para asegurar precios justos. El precio mínimo de sustentación por quintal de maíz amarillo duro es de **16,50 dólares**. Aunque los avicultores reportan que lo compran a **22 dólares** en el mercado.
-
-Para aumentar la producción y reducir la dependencia de importaciones, el MAG señala que entrega paquetes tecnológicos, da capacitación a agricultores y hace mejoras en la infraestructura de riego. Además, se busca fomentar inversiones en el cultivo mediante alianzas con el sector privado.
