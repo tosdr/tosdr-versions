@@ -228,11 +228,15 @@ It's Not News, It's Fark
 
 [Report](https://www.fark.com/farkback/)
 
+[![](https://img.fark.net/images/2024/site/Fark25.png)](https://www.eventbrite.com/e/fark25-the-25th-anniversary-fark-party-tickets-1001498367577?aff=oddtdtcreator)
+
 If you like these links, you'll love
 
 ![TotalFark](https://img.fark.net/images/2017/site/totalfark_logo_2017.png)
 
-The next best thing to UltraFark
+Total access  
+Total knowledge  
+Total Fark
 
 [learn more](https://www.fark.com/farq/about/#What_is_TotalFark) | [sign up](https://www.fark.com/totalfarksignup)
 
@@ -332,16 +336,16 @@ Also on Fark
 
 |     |     |
 | --- | --- |
-| [Main](https://www.fark.com/) | [The Island of Misfit Tanks?](https://www.fark.com/goto/13400782) ( [msn.com](https://www.fark.com/goto/13400782) ) » [(13 comments)](https://www.fark.com/comments/13400782/The-Island-of-Misfit-Tanks) |
-| [Discussion](https://www.fark.com/discussion/) | [Tonight on Smackdown: Andrade takes a shot at L.A. Knight's U.S. title, Giovanni get a redo with Apollo, Bayley & Naomi face Nia & Tiffany. What happened when Cody & Roman met at Georgia Tech? Tune in at 8 PM ET on USA to find out](https://www.fark.com/goto/13400706) ( [wwe.com](https://www.fark.com/goto/13400706) ) » [(34 comments)](https://www.fark.com/comments/13400706/Tonight-on-Smackdown-Andrade-takes-a-shot-at-LA-Knights-US-title-Giovanni-get-a-redo-with-Apollo-Bayley-Naomi-face-Nia-Tiffany-What-happened-when-Cody-Roman-met-at-Georgia-Tech-Tune-in-at-8-PM-ET-on-USA-to-find-out) |
-| [Sports](https://www.fark.com/sports/) | [So, how many libraries are already set to ban this one? D'awww tag juuuussst barely miises out here. D'awww](https://www.fark.com/goto/13401040) ( [yahoo.com](https://www.fark.com/goto/13401040) ) » [(3 comments)](https://www.fark.com/comments/13401040/So-how-many-libraries-are-already-set-to-ban-this-one-Dawww-tag-juuuussst-barely-miises-out-here-Dawww) |
-| [Business](https://www.fark.com/business/) | [Twitch's new depreciating strike program already sounds worthless, but at least now you can watch people game the system](https://www.fark.com/goto/13401030) ( [theverge.com](https://www.fark.com/goto/13401030) ) » [(3 comments)](https://www.fark.com/comments/13401030/Twitchs-new-depreciating-strike-program-already-sounds-worthless-but-at-least-now-you-can-watch-people-game-system) |
-| [STEM](https://www.fark.com/stem/) | [Whalesong goes country](https://www.fark.com/goto/13401016) ( [livescience.com](https://www.fark.com/goto/13401016) ) » [(4 comments)](https://www.fark.com/comments/13401016/Whalesong-goes-country) |
-| [Entertainment](https://www.fark.com/entertainment/) | [Suge's advice to Puffy in jail: "Do not do your time going by Brother Love. Brother Love is not a good code name"](https://www.fark.com/goto/13400918) ( [yahoo.com](https://www.fark.com/goto/13400918) ) » [(6 comments)](https://www.fark.com/comments/13400918/Suges-advice-to-Puffy-in-jail-Do-not-do-your-time-going-by-Brother-Love-Brother-Love-is-not-a-good-code-name) |
-| [Fandom](https://www.fark.com/fandom/) | [You'd think with this many complaints, automotive repair clinic "Another Shop" would be out of business by now. In related news, "Another Shop" is code for "I farked this up myself and I'm too proud to admit it"](https://www.fark.com/goto/13400992) ( [youtube.com](https://www.fark.com/goto/13400992) ) » [(0 comments)](https://www.fark.com/comments/13400992/Youd-think-with-this-many-complaints-automotive-repair-clinic-Another-Shop-would-be-out-of-business-by-now-In-related-news-Another-Shop-is-code-for-I-farked-this-up-myself-Im-too-proud-to-admit-it) |
-| [D'awww](https://www.fark.com/dawww/) | [What a unit](https://www.fark.com/goto/13400794) ( [mashable.com](https://www.fark.com/goto/13400794) ) » [(12 comments)](https://www.fark.com/comments/13400794/What-a-unit) |
-| [Food](https://www.fark.com/food/) | [How to cook marshmallows with a bubble](https://www.fark.com/goto/13400996) ( [youtube.com](https://www.fark.com/goto/13400996) ) » [(3 comments)](https://www.fark.com/comments/13400996/How-to-cook-marshmallows-with-a-bubble) |
-| [Politics](https://www.fark.com/politics/) | [Aliens are real and I'm gonna slap a tariff on them](https://www.fark.com/goto/13400888) ( [yahoo.com](https://www.fark.com/goto/13400888) ) » [(24 comments)](https://www.fark.com/comments/13400888/Aliens-are-real-Im-gonna-slap-a-tariff-on-them) |
+| [Main](https://www.fark.com/) | [5th grade teacher in Michigan eats lunch with his students in cafeteria every day. No word on how it allows any pudding before they eat their meat](https://www.fark.com/goto/13401148) ( [fox5atlanta.com](https://www.fark.com/goto/13401148) ) » [(10 comments)](https://www.fark.com/comments/13401148/-5th-grade-teacher-in-Michigan-eats-lunch-with-his-students-in-cafeteria-every-day-No-word-on-how-it-allows-any-pudding-before-they-eat-their-meat) |
+| [Discussion](https://www.fark.com/discussion/) | [There is a new vending machine in town, and it is not some poor shlep that encountered Truck-kun and is enjoying his new bizarre isekai life. My Little Pony: Tell Your Tale - Attack of the Vending Machine, where automat is making a comeback](https://www.fark.com/goto/13401176) ( [equestriadaily.com](https://www.fark.com/goto/13401176) ) » [(3 comments)](https://www.fark.com/comments/13401176/There-is-a-new-vending-machine-in-town-it-is-not-some-poor-shlep-that-encountered-Truck-kun-is-enjoying-his-new-bizarre-isekai-life-My-Little-Pony-Tell-Your-Tale-Attack-of-Vending-Machine-where-automat-is-making-a-comeback) |
+| [Sports](https://www.fark.com/sports/) | [Football rivalry leads to bomb threat at Iowa university, mass shooting threat in Norway, federal charges. Sorry, correction, that's "Fantasy football rivalry"](https://www.fark.com/goto/13400922) ( [6abc.com](https://www.fark.com/goto/13400922) ) » [(1 comment)](https://www.fark.com/comments/13400922/Football-rivalry-leads-to-bomb-threat-at-Iowa-university-mass-shooting-threat-in-Norway-federal-charges-Sorry-correction-thats-Fantasy-football-rivalry) |
+| [Business](https://www.fark.com/business/) | [Who do you trust? And why are they all Japanese?](https://www.fark.com/goto/13401156) ( [visualcapitalist.com](https://www.fark.com/goto/13401156) ) » [(2 comments)](https://www.fark.com/comments/13401156/Who-do-you-trust-And-why-are-they-all-Japanese) |
+| [STEM](https://www.fark.com/stem/) | [Much like residents of blue states, residents of the deep blue sea support availability of IVF](https://www.fark.com/goto/13400854) ( [theguardian.com](https://www.fark.com/goto/13400854) ) » [(0 comments)](https://www.fark.com/comments/13400854/Much-like-residents-of-blue-states-residents-of-deep-blue-sea-support-availability-of-IVF) |
+| [Entertainment](https://www.fark.com/entertainment/) | [More Weird/Dad Rock](https://www.fark.com/goto/13401192) ( [youtube.com](https://www.fark.com/goto/13401192) ) » [(3 comments)](https://www.fark.com/comments/13401192/More-WeirdDad-Rock) |
+| [Fandom](https://www.fark.com/fandom/) | [The real problem with the Cadillac CT4: it's expensive, has a tiny interior, and you have to be young enough to drop/cover/roll to get inside](https://www.fark.com/goto/13401190) ( [thedrive.com](https://www.fark.com/goto/13401190) ) » [(4 comments)](https://www.fark.com/comments/13401190/The-real-problem-with-Cadillac-CT4-its-expensive-has-a-tiny-interior-you-have-to-be-young-enough-to-dropcoverroll-to-get-inside) |
+| [D'awww](https://www.fark.com/dawww/) | [If you want to be my best friend, there are rules. Even if you're only 2 years old](https://www.fark.com/goto/13401116) ( [today.com](https://www.fark.com/goto/13401116) ) » [(0 comments)](https://www.fark.com/comments/13401116/If-you-want-to-be-my-best-friend-there-are-rules-Even-if-youre-only-2-years-old) |
+| [Food](https://www.fark.com/food/) | [BORGs are soooooo yesterday, Galaxy Vibes Celsius is today](https://www.fark.com/goto/13401012) ( [bonappetit.com](https://www.fark.com/goto/13401012) ) » [(1 comment)](https://www.fark.com/comments/13401012/BORGs-are-soooooo-yesterday-Galaxy-Vibes-Celsius-is-today) |
+| [Politics](https://www.fark.com/politics/) | [Pride goeth before destruction, a haughty spirit before Project 2025](https://www.fark.com/goto/13400984) ( [uk.news.yahoo.com](https://www.fark.com/goto/13400984) ) » [(4 comments)](https://www.fark.com/comments/13400984/Pride-goeth-before-destruction-a-haughty-spirit-before-Project-2025) |
 
 * Fark :: [Main](https://www.fark.com/) | [Discussion](https://www.fark.com/discussion/) | [Sports](https://www.fark.com/sports/) | [Business](https://www.fark.com/business/) | [STEM](https://www.fark.com/stem/) | [Entertainment](https://www.fark.com/entertainment/) | [Fandom](https://www.fark.com/fandom/) | [D'awww](https://www.fark.com/dawww/) | [Food](https://www.fark.com/food/) | [Politics](https://www.fark.com/politics/)
 * Total Fark :: [TotalFark](https://total.fark.com/) | [TF Live](https://total.fark.com/live/) | [TF Advice](https://total.fark.com/advice/) | [TF Discussion](https://total.fark.com/tfdiscussion/) | [Commented](https://total.fark.com/commented/) | [Top Voted](https://total.fark.com/linkvote/) | [Greenlit](https://total.fark.com/greenlit/)
@@ -351,7 +355,7 @@ Also on Fark
 
 [Submit a Link »](https://www.fark.com/submit/)
 
-Copyright © 1999 - 2024 Fark, Inc | Last updated: Sep 20 2024 20:43:50  
+Copyright © 1999 - 2024 Fark, Inc | Last updated: Sep 21 2024 02:42:08  
 [Contact Us via Farkback](https://www.fark.com/farkback)  |  [Report a bug/error msg](https://www.fark.com/farkback/error)  |  [Terms of service/legal/privacy policy](https://www.fark.com/farq/legal)  |  [Do Not Sell or Share My Personal Information](javascript:void(0))  
 ![](https://www.fark.com/ll)
 
