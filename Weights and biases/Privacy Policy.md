@@ -66,15 +66,15 @@
     
     * [Autonomous Vehicles](https://wandb.ai/site/solutions/autonomous-vehicles/)
     * [Communications](https://wandb.ai/site/solutions/communications-media-entertainment/)
-    * [Financial Services](https://wandb.ai/site/solutions/financial-services/)
-    * [Healthcare and Life Sciences](https://wandb.ai/site/solutions/healthcare-life-sciences/)
+    * [Financial Services](https://wandb.ai/site/solutions/finance)
+    * [Healthcare and Life Sciences](https://wandb.ai/site/solutions/healthcare-and-life-sciences/)
     * [Public Sector](https://wandb.ai/site/solutions/public-sector/)
     * [Scientific Research](https://wandb.ai/site/solutions/scientific-research/)
     
     * [Autonomous Vehicles](https://wandb.ai/site/solutions/autonomous-vehicles/)
     * [Communications](https://wandb.ai/site/solutions/communications-media-entertainment/)
-    * [Financial Services](https://wandb.ai/site/solutions/financial-services/)
-    * [Healthcare and Life Sciences](https://wandb.ai/site/solutions/healthcare-life-sciences/)
+    * [Financial Services](https://wandb.ai/site/solutions/finance)
+    * [Healthcare and Life Sciences](https://wandb.ai/site/solutions/healthcare-and-life-sciences/)
     * [Public Sector](https://wandb.ai/site/solutions/public-sector/)
     * [Scientific Research](https://wandb.ai/site/solutions/scientific-research/)
     
