@@ -133,6 +133,6 @@ These Terms will be governed by and construed in accordance with the laws of the
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-I've been very happy using Foxy Proxy. I recommended it to a few friends and I intend to renew this week. Thank you for making my netflix dreams come true!
+I thank you for your refreshing honesty, which does you credit, and for your excellent support. I have used your company for many years, and will continue to do so.
 
-Brad W. Rudover
+Peter Herbert
