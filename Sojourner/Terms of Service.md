@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-5b0e2262bb3232cb2c2f8656a7e167f6
+a4f0c7dbdacaf557944285f6404b78a0
 
 [](# "Expand for more options")[](# "Search")
 
@@ -142,11 +142,11 @@ Terms and Conditions
 
 ### Featured Product
 
-[![Vintage square intaglio pendant](https://sojourner.biz/images/cache/C0008variations.200.jpg)](https://sojourner.biz/components/vintage-square-intaglio-pendant.html "Vintage square intaglio pendant")
+[![Jet Swarovski clasp](https://sojourner.biz/images/cache/SKU0087front.200.jpg)](https://sojourner.biz/clasps/swarovski/jet-swarovski-clasp.html "Jet Swarovski clasp")
 
-#### [Vintage square intaglio pendant](https://sojourner.biz/components/vintage-square-intaglio-pendant.html "Vintage square intaglio pendant")
+#### [Jet Swarovski clasp](https://sojourner.biz/clasps/swarovski/jet-swarovski-clasp.html "Jet Swarovski clasp")
 
-$22.00
+$27.00
 
 ### Best Sellers
 
