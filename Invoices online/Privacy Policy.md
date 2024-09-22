@@ -118,63 +118,57 @@ This policy is effective as of 29 June 2021.
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Impossible to run our businesses without IO
-> -------------------------------------------
+> Saving time, saving money
+> -------------------------
 > 
-> IO is an integral part of our day to day business. It allows me complete control and overview functionality, while still enabling franchise owners to run their various franchises without interruption.  
->   
-> At Storietyd.co.za - a bookclub for Afrikaans children, with thousands of members - all our billing is automated, automated invoices, automated debit orders, automated payment allocation, and so forth. Administration would be an absolute nightmare without IO.  
->   
-> We are suppliers of bulk educational products to schools, our reps in the field use IO for quotes, invoicing and managing debtors, directly from their smartphones / tablets.  
->   
-> We are extremely satisfied with Invoices Online, and would certainly recommend that you try it out.
+> Thanks to Invoices Online, administration of our client accounts went from an absolute nightmare, to an exciting and pleasurable couple of hours every Friday.  The system just makes everything so quick and easy.
 
-Kobus Venter
+Cornel Erasmus - TELA Loss Adjusters & Assessors
 
-![valued client Depot Diesel (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6813&file=logo_300_100&type=&fe=6c01a02bdf3950ff6b5d0afaedd286e8df38ce2e1d9859d6cc3dbec14af08911&c=135134035)  
-Depot Diesel (Pty) Ltd
+![valued client Cooper Logistics (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=1974&file=logo_300_100&type=&fe=c9395da3384f4327451be40b606b4c8bb02d61eb403a443dd99bd0e86b852e12&c=149945853)  
+Cooper Logistics (Pty) Ltd
 
-![valued client MONSTER SECURITY SERVICES (THABAZIMBI/NORTHAM)](https://www.invoicesonline.co.za/scripts/image.php?bid=5626&file=logo_300_100&type=&fe=6c01a02bdf3950ff6b5d0afaedd286e8df38ce2e1d9859d6cc3dbec14af08911&c=153938754)  
-MONSTER SECURITY SERVICES (THABAZIMBI/NORTHAM)
+![valued client Firstweb Hosting & Design](https://www.invoicesonline.co.za/scripts/image.php?bid=578&file=logo_300_100&type=&fe=c9395da3384f4327451be40b606b4c8bb02d61eb403a443dd99bd0e86b852e12&c=97129632)  
+Firstweb Hosting & Design
 
-![valued client Website Café (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=4081&file=logo_300_100&type=&fe=6c01a02bdf3950ff6b5d0afaedd286e8df38ce2e1d9859d6cc3dbec14af08911&c=56265521)  
-Website Café (PTY) LTD
+![valued client Network Grey (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7333&file=logo_300_100&type=&fe=c9395da3384f4327451be40b606b4c8bb02d61eb403a443dd99bd0e86b852e12&c=52664937)  
+Network Grey (Pty) Ltd
 
-![valued client Quad Biking Cape Town](https://www.invoicesonline.co.za/scripts/image.php?bid=7985&file=logo_300_100&type=&fe=6c01a02bdf3950ff6b5d0afaedd286e8df38ce2e1d9859d6cc3dbec14af08911&c=163572716)  
-Quad Biking Cape Town
-
-![valued client Forgotten Goods (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8623&file=logo_300_100&type=&fe=6c01a02bdf3950ff6b5d0afaedd286e8df38ce2e1d9859d6cc3dbec14af08911&c=153652514)  
-Forgotten Goods (Pty) Ltd
-
-![valued client Little Nutty Professors](https://www.invoicesonline.co.za/scripts/image.php?bid=4826&file=logo_300_100&type=&fe=6c01a02bdf3950ff6b5d0afaedd286e8df38ce2e1d9859d6cc3dbec14af08911&c=149388343)  
-Little Nutty Professors
-
-![valued client LEO DEVELOPMENT GROUP](https://www.invoicesonline.co.za/scripts/image.php?bid=7896&file=logo_300_100&type=&fe=6c01a02bdf3950ff6b5d0afaedd286e8df38ce2e1d9859d6cc3dbec14af08911&c=74822376)  
-LEO DEVELOPMENT GROUP
-
-![valued client OrgChart Hosting Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=658&file=logo_300_100&type=&fe=6c01a02bdf3950ff6b5d0afaedd286e8df38ce2e1d9859d6cc3dbec14af08911&c=28866244)  
-OrgChart Hosting Pty Ltd
-
-![valued client Chiron Medical Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=6720&file=logo_300_100&type=&fe=6c01a02bdf3950ff6b5d0afaedd286e8df38ce2e1d9859d6cc3dbec14af08911&c=166970557)  
+![valued client Chiron Medical Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=6720&file=logo_300_100&type=&fe=c9395da3384f4327451be40b606b4c8bb02d61eb403a443dd99bd0e86b852e12&c=36761572)  
 Chiron Medical Solutions
 
-![valued client Imvubu General Trading](https://www.invoicesonline.co.za/scripts/image.php?bid=299&file=logo_300_100&type=&fe=6c01a02bdf3950ff6b5d0afaedd286e8df38ce2e1d9859d6cc3dbec14af08911&c=89131427)  
-Imvubu General Trading
+![valued client Salt & Pepper Guest Accommodation (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=8332&file=logo_300_100&type=&fe=c9395da3384f4327451be40b606b4c8bb02d61eb403a443dd99bd0e86b852e12&c=65500939)  
+Salt & Pepper Guest Accommodation (Pty) Ltd.
 
-![valued client Sportspro Management (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8223&file=logo_300_100&type=&fe=6c01a02bdf3950ff6b5d0afaedd286e8df38ce2e1d9859d6cc3dbec14af08911&c=149559756)  
-Sportspro Management (Pty) Ltd
+![valued client UMVIKELI PRIVATE SECURITY](https://www.invoicesonline.co.za/scripts/image.php?bid=7357&file=logo_300_100&type=&fe=c9395da3384f4327451be40b606b4c8bb02d61eb403a443dd99bd0e86b852e12&c=138414236)  
+UMVIKELI PRIVATE SECURITY
 
-![valued client Prosper Park](https://www.invoicesonline.co.za/scripts/image.php?bid=8286&file=logo_300_100&type=&fe=6c01a02bdf3950ff6b5d0afaedd286e8df38ce2e1d9859d6cc3dbec14af08911&c=161795349)  
-Prosper Park
+![valued client Lion Software Develepment](https://www.invoicesonline.co.za/scripts/image.php?bid=7097&file=logo_300_100&type=&fe=c9395da3384f4327451be40b606b4c8bb02d61eb403a443dd99bd0e86b852e12&c=209955557)  
+Lion Software Develepment
 
-![valued client MONSTER SECURITY SERVICES](https://www.invoicesonline.co.za/scripts/image.php?bid=5438&file=logo_300_100&type=&fe=6c01a02bdf3950ff6b5d0afaedd286e8df38ce2e1d9859d6cc3dbec14af08911&c=36117591)  
-MONSTER SECURITY SERVICES
+![valued client All Trucking Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=6370&file=logo_300_100&type=&fe=c9395da3384f4327451be40b606b4c8bb02d61eb403a443dd99bd0e86b852e12&c=97534672)  
+All Trucking Solutions
 
-![valued client PROGRAPHIX PTY LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8509&file=logo_300_100&type=&fe=6c01a02bdf3950ff6b5d0afaedd286e8df38ce2e1d9859d6cc3dbec14af08911&c=8713256)  
-PROGRAPHIX PTY LTD
+![valued client Tiny Cuddles Photography](https://www.invoicesonline.co.za/scripts/image.php?bid=5167&file=logo_300_100&type=&fe=c9395da3384f4327451be40b606b4c8bb02d61eb403a443dd99bd0e86b852e12&c=54935994)  
+Tiny Cuddles Photography
 
-![valued client Kara Medical (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=3913&file=logo_300_100&type=&fe=6c01a02bdf3950ff6b5d0afaedd286e8df38ce2e1d9859d6cc3dbec14af08911&c=195325253)  
-Kara Medical (Pty) Ltd
+![valued client Redlum Group (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8254&file=logo_300_100&type=&fe=c9395da3384f4327451be40b606b4c8bb02d61eb403a443dd99bd0e86b852e12&c=33732636)  
+Redlum Group (Pty) Ltd
+
+![valued client SR Travel Services](https://www.invoicesonline.co.za/scripts/image.php?bid=7537&file=logo_300_100&type=&fe=c9395da3384f4327451be40b606b4c8bb02d61eb403a443dd99bd0e86b852e12&c=145952025)  
+SR Travel Services
+
+![valued client PHESA TECHNOLOGY(PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2461&file=logo_300_100&type=&fe=c9395da3384f4327451be40b606b4c8bb02d61eb403a443dd99bd0e86b852e12&c=101125839)  
+PHESA TECHNOLOGY(PTY) LTD
+
+![valued client De light Investments(Pty)Ltd trading as Serene Memorials](https://www.invoicesonline.co.za/scripts/image.php?bid=6723&file=logo_300_100&type=&fe=c9395da3384f4327451be40b606b4c8bb02d61eb403a443dd99bd0e86b852e12&c=14329174)  
+De light Investments(Pty)Ltd trading as Serene Memorials
+
+![valued client Safe-Train Consulting (PTY) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5066&file=logo_300_100&type=&fe=c9395da3384f4327451be40b606b4c8bb02d61eb403a443dd99bd0e86b852e12&c=148570438)  
+Safe-Train Consulting (PTY) Ltd
+
+![valued client FRAMED BY ANTON (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=2146&file=logo_300_100&type=&fe=c9395da3384f4327451be40b606b4c8bb02d61eb403a443dd99bd0e86b852e12&c=12628995)  
+FRAMED BY ANTON (Pty) Ltd.
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
