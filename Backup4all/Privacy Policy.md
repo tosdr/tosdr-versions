@@ -301,15 +301,15 @@ We develop software that matters since 1999. These are our products: Backup4all/
 * [Forum](https://forum.backup4all.com/)
 * [Blog](https://blog.backup4all.com/)
 
-* [How to back up data files from Dunkel using B ...](https://www.backup4all.com/how-to-back-up-data-files-from-dunkel-using-backup4all-kb.html)  
+* [Backup videos with Backup4all](https://www.backup4all.com/backup-videos-with-backup4all-kb.html)  
     
-* [How to keep multiple Mirror backup versions i ...](https://www.backup4all.com/how-to-keep-multiple-mirror-backup-versions-in-destination-kb.html)  
+* [How to back up files from Cloudflare R2 using ...](https://www.backup4all.com/how-to-back-up-files-from-cloudflare-r2-using-backup4all-kb.html)  
     
-* [How to override the application folders](https://www.backup4all.com/how-to-override-the-application-folders-kb.html)  
+* [Using Backup4all - FAQ 5](https://www.backup4all.com/using-backup4all-faq-5-kb.html)  
     
-* [Backup to SFTP](https://www.backup4all.com/backup-to-sftp-kb.html)  
+* [How to back up data files from Hitachi using ...](https://www.backup4all.com/how-to-back-up-data-files-from-hitachi-using-backup4all-kb.html)  
     
-* [Backup software](https://www.backup4all.com/backup-software-kb.html)  
+* [How to configure Backup4all Monitor](https://www.backup4all.com/how-to-configure-backup4all-monitor-kb.html)  
     
 
 Choose language:
