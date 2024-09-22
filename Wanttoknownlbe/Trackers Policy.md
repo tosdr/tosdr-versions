@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/overige/het-is-nu-tijd/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/overige/wakker-geworden-in-2009/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
