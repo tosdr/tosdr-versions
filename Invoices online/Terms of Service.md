@@ -197,56 +197,57 @@ Note: If at any time you should have any concern regarding security, privacy or 
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Fast, Accurate & Easy to Use
-> ----------------------------
+> One of the best decisions I've made for my business
+> ---------------------------------------------------
 > 
-> Small Business Management System or SBMS, now rebranded as Invoices Online is an online invoicing system developed by the same guys that developed our site, we use it and honestly recommend it to all people who have dynamic sites, or want an online invoicing solution.  The invoicing application is fast, accurate, easy to use, and it really enhances the online experience of our clients.
+> I've been searching for a reliable, easy-to-use, online invoicing system for my small business. After investigating various options, I came across InvoicesOnline and was pleasantly surprised to learn that it is a South African product. I decided to give it a try which turned out to be one of the best decisions I made for my business! It is user-friendly, reliable and saves me tons of time, time that I can now focus on growing my business. Their technical support is always just a phonecall or email away and I have piece of mind knowing that my accounting docs are safe and available when I need them.
 
-Jannie Schutte - myFinance-Online.co.za
+Anri van der Linde
 
-![valued client MONSTER SECURITY SERVICES](https://www.invoicesonline.co.za/scripts/image.php?bid=5438&file=logo_300_100&type=&fe=61c7bcf0a49fa6b622ff975bce523742c216e7be41d6d790a62590b9e8ae9145&c=58941622)  
-MONSTER SECURITY SERVICES
+![valued client MR Compressors& Industrial Supplies](https://www.invoicesonline.co.za/scripts/image.php?bid=7893&file=logo_300_100&type=&fe=506b5ce8bc4bf980b534769591c043845073bfd0472988a54d2f3dc7847491de&c=209555841)  
+MR Compressors& Industrial Supplies
 
-![valued client INVOICES/JOBCARDS ONLINE](https://www.invoicesonline.co.za/scripts/image.php?bid=6974&file=logo_300_100&type=&fe=61c7bcf0a49fa6b622ff975bce523742c216e7be41d6d790a62590b9e8ae9145&c=198930236)  
+![valued client Firstweb Hosting & Design](https://www.invoicesonline.co.za/scripts/image.php?bid=578&file=logo_300_100&type=&fe=506b5ce8bc4bf980b534769591c043845073bfd0472988a54d2f3dc7847491de&c=178450734)  
+Firstweb Hosting & Design
+
+![valued client Quad Biking Cape Town](https://www.invoicesonline.co.za/scripts/image.php?bid=7985&file=logo_300_100&type=&fe=506b5ce8bc4bf980b534769591c043845073bfd0472988a54d2f3dc7847491de&c=180588566)  
+Quad Biking Cape Town
+
+![valued client MONSTER SECURITY SERVICES (THABAZIMBI/NORTHAM)](https://www.invoicesonline.co.za/scripts/image.php?bid=5626&file=logo_300_100&type=&fe=506b5ce8bc4bf980b534769591c043845073bfd0472988a54d2f3dc7847491de&c=157980342)  
+MONSTER SECURITY SERVICES (THABAZIMBI/NORTHAM)
+
+![valued client MONSTER CONNECT (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=6772&file=logo_300_100&type=&fe=506b5ce8bc4bf980b534769591c043845073bfd0472988a54d2f3dc7847491de&c=161399979)  
+MONSTER CONNECT (PTY) LTD
+
+![valued client Sportspro Management (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8223&file=logo_300_100&type=&fe=506b5ce8bc4bf980b534769591c043845073bfd0472988a54d2f3dc7847491de&c=117868926)  
+Sportspro Management (Pty) Ltd
+
+![valued client Electro-Heat](https://www.invoicesonline.co.za/scripts/image.php?bid=8547&file=logo_300_100&type=&fe=506b5ce8bc4bf980b534769591c043845073bfd0472988a54d2f3dc7847491de&c=156236411)  
+Electro-Heat
+
+![valued client UMVIKELI PRIVATE SECURITY](https://www.invoicesonline.co.za/scripts/image.php?bid=7357&file=logo_300_100&type=&fe=506b5ce8bc4bf980b534769591c043845073bfd0472988a54d2f3dc7847491de&c=158913876)  
+UMVIKELI PRIVATE SECURITY
+
+![valued client Kainos  (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6111&file=logo_300_100&type=&fe=506b5ce8bc4bf980b534769591c043845073bfd0472988a54d2f3dc7847491de&c=106343993)  
+Kainos (Pty) Ltd
+
+![valued client BEE SURE CONSULTING (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8110&file=logo_300_100&type=&fe=506b5ce8bc4bf980b534769591c043845073bfd0472988a54d2f3dc7847491de&c=212704377)  
+BEE SURE CONSULTING (PTY) LTD
+
+![valued client Multi CNC Solutions CC](https://www.invoicesonline.co.za/scripts/image.php?bid=4422&file=logo_300_100&type=&fe=506b5ce8bc4bf980b534769591c043845073bfd0472988a54d2f3dc7847491de&c=11101572)  
+Multi CNC Solutions CC
+
+![valued client FRAMED BY ANTON (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=2146&file=logo_300_100&type=&fe=506b5ce8bc4bf980b534769591c043845073bfd0472988a54d2f3dc7847491de&c=8870390)  
+FRAMED BY ANTON (Pty) Ltd.
+
+![valued client Sonic Electrical Services PTY Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6803&file=logo_300_100&type=&fe=506b5ce8bc4bf980b534769591c043845073bfd0472988a54d2f3dc7847491de&c=172017765)  
+Sonic Electrical Services PTY Ltd
+
+![valued client LEONARD](https://www.invoicesonline.co.za/scripts/image.php?bid=4785&file=logo_300_100&type=&fe=506b5ce8bc4bf980b534769591c043845073bfd0472988a54d2f3dc7847491de&c=6555859)  
+LEONARD
+
+![valued client INVOICES/JOBCARDS ONLINE](https://www.invoicesonline.co.za/scripts/image.php?bid=6974&file=logo_300_100&type=&fe=506b5ce8bc4bf980b534769591c043845073bfd0472988a54d2f3dc7847491de&c=116372304)  
 INVOICES/JOBCARDS ONLINE
-
-![valued client Glass and Allied Industries](https://www.invoicesonline.co.za/scripts/image.php?bid=1634&file=logo_300_100&type=&fe=61c7bcf0a49fa6b622ff975bce523742c216e7be41d6d790a62590b9e8ae9145&c=102836089)  
-Glass and Allied Industries
-
-![valued client     ](https://www.invoicesonline.co.za/scripts/image.php?bid=8650&file=logo_300_100&type=&fe=61c7bcf0a49fa6b622ff975bce523742c216e7be41d6d790a62590b9e8ae9145&c=54398927)  
-
-![valued client All Trucking Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=6370&file=logo_300_100&type=&fe=61c7bcf0a49fa6b622ff975bce523742c216e7be41d6d790a62590b9e8ae9145&c=89780659)  
-All Trucking Solutions
-
-![valued client AMS Ambu Medical Supplies ](https://www.invoicesonline.co.za/scripts/image.php?bid=4689&file=logo_300_100&type=&fe=61c7bcf0a49fa6b622ff975bce523742c216e7be41d6d790a62590b9e8ae9145&c=91223046)  
-AMS Ambu Medical Supplies
-
-![valued client Myfinance-Online](https://www.invoicesonline.co.za/scripts/image.php?bid=7&file=logo_300_100&type=&fe=61c7bcf0a49fa6b622ff975bce523742c216e7be41d6d790a62590b9e8ae9145&c=103711844)  
-Myfinance-Online
-
-![valued client Adele Jordaan T/A Joyful Noise Music Room](https://www.invoicesonline.co.za/scripts/image.php?bid=7958&file=logo_300_100&type=&fe=61c7bcf0a49fa6b622ff975bce523742c216e7be41d6d790a62590b9e8ae9145&c=203397244)  
-Adele Jordaan T/A Joyful Noise Music Room
-
-![valued client Laurinda Pretorius Spraak en Drama Ateljee](https://www.invoicesonline.co.za/scripts/image.php?bid=7561&file=logo_300_100&type=&fe=61c7bcf0a49fa6b622ff975bce523742c216e7be41d6d790a62590b9e8ae9145&c=64561433)  
-Laurinda Pretorius Spraak en Drama Ateljee
-
-![valued client Desygn](https://www.invoicesonline.co.za/scripts/image.php?bid=7855&file=logo_300_100&type=&fe=61c7bcf0a49fa6b622ff975bce523742c216e7be41d6d790a62590b9e8ae9145&c=114267233)  
-Desygn
-
-![valued client National Elite Security Services (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=6096&file=logo_300_100&type=&fe=61c7bcf0a49fa6b622ff975bce523742c216e7be41d6d790a62590b9e8ae9145&c=126164042)  
-National Elite Security Services (PTY) LTD
-
-![valued client TechnoDezi PTY(LTD)](https://www.invoicesonline.co.za/scripts/image.php?bid=2471&file=logo_300_100&type=&fe=61c7bcf0a49fa6b622ff975bce523742c216e7be41d6d790a62590b9e8ae9145&c=169913189)  
-TechnoDezi PTY(LTD)
-
-![valued client Bchange Online CC](https://www.invoicesonline.co.za/scripts/image.php?bid=8330&file=logo_300_100&type=&fe=61c7bcf0a49fa6b622ff975bce523742c216e7be41d6d790a62590b9e8ae9145&c=208579491)  
-Bchange Online CC
-
-![valued client LEO DEVELOPMENT GROUP](https://www.invoicesonline.co.za/scripts/image.php?bid=7896&file=logo_300_100&type=&fe=61c7bcf0a49fa6b622ff975bce523742c216e7be41d6d790a62590b9e8ae9145&c=183955725)  
-LEO DEVELOPMENT GROUP
-
-![valued client WIP Digital Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=1603&file=logo_300_100&type=&fe=61c7bcf0a49fa6b622ff975bce523742c216e7be41d6d790a62590b9e8ae9145&c=64145163)  
-WIP Digital Solutions
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
