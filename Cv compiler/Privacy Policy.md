@@ -1785,6 +1785,8 @@ What do top resumes look like? Check out these expertly-written samples:
 
 [Creative Project Manager](https://cvcompiler.com/creative-project-manager-resume-examples)
 
+[Entry-Level Supply Chain Manager](https://cvcompiler.com/entry-level-supply-chain-manager-resume-examples)
+
 ![Upload resume illustration](uploads-pre-acq/img/upload-illustration.svg)
 
 ### Upload  
