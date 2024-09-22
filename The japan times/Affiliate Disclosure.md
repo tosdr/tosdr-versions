@@ -130,6 +130,10 @@ If you would like to quote more than 20 percent of an article, please contact us
 
 * Editors' Picks
 
+[U.S. leans on shipbuilding prowess of allies to compete with China](https://www.japantimes.co.jp/news/2024/09/21/asia-pacific/us-shipbuilding-allies/ "U.S. leans on shipbuilding prowess of allies to compete with China")
+
+  [![Warships and fighter jets of the Chinese People's Liberation Army Navy take part in a military display in the South China Sea in April 2018.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/21/423021.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Warships and fighter jets of the Chinese People's Liberation Army Navy take part in a military display in the South China Sea in April 2018.")](https://www.japantimes.co.jp/news/2024/09/21/asia-pacific/us-shipbuilding-allies/ "U.S. leans on shipbuilding prowess of allies to compete with China")
+
 [Apple's iPhone 16 released in Japan](https://www.japantimes.co.jp/business/2024/09/20/companies/iphone16-japan-stores/ "Apple's iPhone 16 released in Japan")
 
   [![A man holds a new iPhone 16 at an Apple store in Tokyo's Shibuya Ward on Friday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/20/422900.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "A man holds a new iPhone 16 at an Apple store in Tokyo's Shibuya Ward on Friday.")](https://www.japantimes.co.jp/business/2024/09/20/companies/iphone16-japan-stores/ "Apple's iPhone 16 released in Japan")
@@ -146,12 +150,14 @@ If you would like to quote more than 20 percent of an article, please contact us
 
   [![Shohei Ohtani connects on his 50th home run of the season during the seventh inning against the Marlins in Miami on Thursday. Ohtani became the first player in MLB history to reach 50 home runs and 50 stolen bases in the same season.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/20/422799.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Shohei Ohtani connects on his 50th home run of the season during the seventh inning against the Marlins in Miami on Thursday. Ohtani became the first player in MLB history to reach 50 home runs and 50 stolen bases in the same season.")](https://www.japantimes.co.jp/sports/2024/09/20/baseball/mlb/ohtani-50-50-season/ "Shohei Ohtani records baseball's first 50-50 season with huge night in Miami")
 
-[The second act of the Koizumi theater](https://www.japantimes.co.jp/news/2024/09/20/japan/politics/koizumi-junichiro-shinjiro/ "The second act of the Koizumi theater")
-
-  [![Former Environment Minister Shinjiro Koizumi, the 43-year-old son of former Prime Minister Junichiro Koizumi, announces his candidacy for the Liberal Democratic Party presidency in Tokyo on Sept. 6.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/20/422757.JPG?v=3.1&w=400&q=100&f=jpg&t=1.2 "Former Environment Minister Shinjiro Koizumi, the 43-year-old son of former Prime Minister Junichiro Koizumi, announces his candidacy for the Liberal Democratic Party presidency in Tokyo on Sept. 6.")](https://www.japantimes.co.jp/news/2024/09/20/japan/politics/koizumi-junichiro-shinjiro/ "The second act of the Koizumi theater")
-
 Editors' Picks
 --------------
+
+[ASIA PACIFIC](https://www.japantimes.co.jp/news/asia-pacific/ "ASIA PACIFIC")
+
+[U.S. leans on shipbuilding prowess of allies to compete with China](https://www.japantimes.co.jp/news/2024/09/21/asia-pacific/us-shipbuilding-allies/ "U.S. leans on shipbuilding prowess of allies to compete with China")
+
+  [![Warships and fighter jets of the Chinese People's Liberation Army Navy take part in a military display in the South China Sea in April 2018.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/21/423021.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Warships and fighter jets of the Chinese People's Liberation Army Navy take part in a military display in the South China Sea in April 2018.")](https://www.japantimes.co.jp/news/2024/09/21/asia-pacific/us-shipbuilding-allies/ "U.S. leans on shipbuilding prowess of allies to compete with China")
 
 [BUSINESS](https://www.japantimes.co.jp/business/ "BUSINESS")
 
@@ -182,14 +188,6 @@ By [Tyler Kepner](https://www.japantimes.co.jp/author/4311/tyler-kepner/ "Tyler 
 By [Jason Coskrey](https://www.japantimes.co.jp/author/181/jason-coskrey/ "Jason Coskrey")  
 
   [![Shohei Ohtani connects on his 50th home run of the season during the seventh inning against the Marlins in Miami on Thursday. Ohtani became the first player in MLB history to reach 50 home runs and 50 stolen bases in the same season.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/20/422799.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Shohei Ohtani connects on his 50th home run of the season during the seventh inning against the Marlins in Miami on Thursday. Ohtani became the first player in MLB history to reach 50 home runs and 50 stolen bases in the same season.")](https://www.japantimes.co.jp/sports/2024/09/20/baseball/mlb/ohtani-50-50-season/ "Shohei Ohtani records baseball's first 50-50 season with huge night in Miami")
-
-[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
-
-[The second act of the Koizumi theater](https://www.japantimes.co.jp/news/2024/09/20/japan/politics/koizumi-junichiro-shinjiro/ "The second act of the Koizumi theater")
-
-By [Eric Johnston](https://www.japantimes.co.jp/author/174/eric-johnston/ "Eric Johnston")  
-
-  [![Former Environment Minister Shinjiro Koizumi, the 43-year-old son of former Prime Minister Junichiro Koizumi, announces his candidacy for the Liberal Democratic Party presidency in Tokyo on Sept. 6.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/20/422757.JPG?v=3.1&w=400&q=100&f=jpg&t=1.2 "Former Environment Minister Shinjiro Koizumi, the 43-year-old son of former Prime Minister Junichiro Koizumi, announces his candidacy for the Liberal Democratic Party presidency in Tokyo on Sept. 6.")](https://www.japantimes.co.jp/news/2024/09/20/japan/politics/koizumi-junichiro-shinjiro/ "The second act of the Koizumi theater")
 
 Podcast
 -------
@@ -252,25 +250,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
-[One dead and 10 missing after 'unprecedented' rains in quake-hit Ishikawa](https://www.japantimes.co.jp/news/2024/09/22/japan/ishikawa-rain-second-day/ "One dead and 10 missing after 'unprecedented' rains in quake-hit Ishikawa")
+[Genchari moped users lament imminent farewell](https://www.japantimes.co.jp/news/2024/09/22/japan/society/genchari-moped-goodbye/ "Genchari moped users lament imminent farewell")
 
-1 hours ago
+4 hours ago
 
-[Israel’s risky new posture against Hezbollah stops short of war](https://www.japantimes.co.jp/news/2024/09/22/world/israel-new-posture-hezbollah/ "Israel’s risky new posture against Hezbollah stops short of war")
+[Biden and Kishida affirm strong ties ahead of leadership transition in both nations](https://www.japantimes.co.jp/news/2024/09/22/japan/politics/kishida-biden-summit/ "Biden and Kishida affirm strong ties ahead of leadership transition in both nations")
 
-3 hours ago
+4 hours ago
 
-[France's Macron appoints new government in shift to right](https://www.japantimes.co.jp/news/2024/09/22/world/politics/france-new-cabinet/ "France's Macron appoints new government in shift to right")
+['Quad' cements ties with coast guard patrols amid China concerns](https://www.japantimes.co.jp/news/2024/09/22/asia-pacific/politics/quad-summit-biden-kishida-china/ "'Quad' cements ties with coast guard patrols amid China concerns")
 
-3 hours ago
+5 hours ago
 
-[Biden administration to prepare ban on Chinese car software](https://www.japantimes.co.jp/business/2024/09/22/us-china-car-software/ "Biden administration to prepare ban on Chinese car software")
+[One dead and 11 missing after 'unprecedented' rains in quake-hit Ishikawa](https://www.japantimes.co.jp/news/2024/09/22/japan/ishikawa-rain-second-day/ "One dead and 11 missing after 'unprecedented' rains in quake-hit Ishikawa")
 
-3 hours ago
+7 hours ago
 
-[Israeli jets pound Lebanon after deadly Beirut strike](https://www.japantimes.co.jp/news/2024/09/22/world/israel-jets-pound-lebanon/ "Israeli jets pound Lebanon after deadly Beirut strike")
+[Zelenskyy to press U.S. on long-range missile strikes inside Russia](https://www.japantimes.co.jp/news/2024/09/22/world/politics/zelenskyy-us-long-range-strikes/ "Zelenskyy to press U.S. on long-range missile strikes inside Russia")
 
-3 hours ago
+8 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
