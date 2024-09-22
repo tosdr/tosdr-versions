@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-7b6c8d5e85ed0dce07f136110eeb9318
+7cf5fdf6e242eeaddf97862c35636bcb
 
 [](# "Expand for more options")[](# "Search")
 
@@ -142,11 +142,11 @@ Terms and Conditions
 
 ### Featured Product
 
-[![Rectangular brown pearl bracelet clasp](https://sojourner.biz/images/cache/SKU0474front.200.jpg)](https://sojourner.biz/clasps/pearl/rectangular-brown-pearl-bracelet-clasp.html "Rectangular brown pearl bracelet clasp")
+[![Small ametrine flat ovals](https://sojourner.biz/images/cache/amethyst/YST020.200.jpg)](https://sojourner.biz/beads/stone-a-l/amethyst/small-ametrine-flat-ovals.html "Small ametrine flat ovals")
 
-#### [Rectangular brown pearl bracelet clasp](https://sojourner.biz/clasps/pearl/rectangular-brown-pearl-bracelet-clasp.html "Rectangular brown pearl bracelet clasp")
+#### [Small ametrine flat ovals](https://sojourner.biz/beads/stone-a-l/amethyst/small-ametrine-flat-ovals.html "Small ametrine flat ovals")
 
-$36.00
+$12.00
 
 ### Best Sellers
 
