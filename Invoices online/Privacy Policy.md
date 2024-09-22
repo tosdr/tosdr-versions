@@ -118,57 +118,61 @@ This policy is effective as of 29 June 2021.
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Fast, Accurate & Easy to Use
-> ----------------------------
+> Support even on Sundays!
+> ------------------------
 > 
-> Small Business Management System or SBMS, now rebranded as Invoices Online is an online invoicing system developed by the same guys that developed our site, we use it and honestly recommend it to all people who have dynamic sites, or want an online invoicing solution.  The invoicing application is fast, accurate, easy to use, and it really enhances the online experience of our clients.
+> Thanks Adriaan...
+> 
+> You guys even work on Sundays?
+> 
+> I’m impressed!!
 
-Jannie Schutte - myFinance-Online.co.za
+Johan Botha - Brand Xplosion
 
-![valued client Skinz Printing & Branding ](https://www.invoicesonline.co.za/scripts/image.php?bid=6232&file=logo_300_100&type=&fe=506b5ce8bc4bf980b534769591c043845073bfd0472988a54d2f3dc7847491de&c=90067733)  
-Skinz Printing & Branding
+![valued client Adele Jordaan T/A Joyful Noise Music Room](https://www.invoicesonline.co.za/scripts/image.php?bid=7958&file=logo_300_100&type=&fe=0d60cf5e3caac7724732920d14435a7be1eac15e642a3986239d98bff424ba4d&c=138747793)  
+Adele Jordaan T/A Joyful Noise Music Room
 
-![valued client Durbanville Classifieds (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8122&file=logo_300_100&type=&fe=506b5ce8bc4bf980b534769591c043845073bfd0472988a54d2f3dc7847491de&c=14085710)  
-Durbanville Classifieds (Pty) Ltd
+![valued client GF CASTELYN Trading as ELECTROPRINT ARMATURE REWINDERS](https://www.invoicesonline.co.za/scripts/image.php?bid=3194&file=logo_300_100&type=&fe=0d60cf5e3caac7724732920d14435a7be1eac15e642a3986239d98bff424ba4d&c=191887195)  
+GF CASTELYN Trading as ELECTROPRINT ARMATURE REWINDERS
 
-![valued client Calonet ](https://www.invoicesonline.co.za/scripts/image.php?bid=3324&file=logo_300_100&type=&fe=506b5ce8bc4bf980b534769591c043845073bfd0472988a54d2f3dc7847491de&c=162905955)  
-Calonet
+![valued client Nogana Events and Decor](https://www.invoicesonline.co.za/scripts/image.php?bid=3755&file=logo_300_100&type=&fe=0d60cf5e3caac7724732920d14435a7be1eac15e642a3986239d98bff424ba4d&c=141048509)  
+Nogana Events and Decor
 
-![valued client Oak Tree Immigration](https://www.invoicesonline.co.za/scripts/image.php?bid=6695&file=logo_300_100&type=&fe=506b5ce8bc4bf980b534769591c043845073bfd0472988a54d2f3dc7847491de&c=185601702)  
-Oak Tree Immigration
+![valued client Sonic Electrical Services PTY Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6803&file=logo_300_100&type=&fe=0d60cf5e3caac7724732920d14435a7be1eac15e642a3986239d98bff424ba4d&c=212851301)  
+Sonic Electrical Services PTY Ltd
 
-![valued client Stories4Kids (Pty) Ltd t/a Storietyd](https://www.invoicesonline.co.za/scripts/image.php?bid=2162&file=logo_300_100&type=&fe=506b5ce8bc4bf980b534769591c043845073bfd0472988a54d2f3dc7847491de&c=81020363)  
-Stories4Kids (Pty) Ltd t/a Storietyd
+![valued client Environment Friendly Toilets (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=2934&file=logo_300_100&type=&fe=0d60cf5e3caac7724732920d14435a7be1eac15e642a3986239d98bff424ba4d&c=110884107)  
+Environment Friendly Toilets (Pty) Ltd
 
-![valued client NWET Pty LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=5929&file=logo_300_100&type=&fe=506b5ce8bc4bf980b534769591c043845073bfd0472988a54d2f3dc7847491de&c=98776426)  
-NWET Pty LTD
+![valued client NIMAWELL  ](https://www.invoicesonline.co.za/scripts/image.php?bid=6419&file=logo_300_100&type=&fe=0d60cf5e3caac7724732920d14435a7be1eac15e642a3986239d98bff424ba4d&c=103343631)  
+NIMAWELL
 
-![valued client Itroniq (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8072&file=logo_300_100&type=&fe=506b5ce8bc4bf980b534769591c043845073bfd0472988a54d2f3dc7847491de&c=50848788)  
-Itroniq (Pty) Ltd
+![valued client Know Informatics](https://www.invoicesonline.co.za/scripts/image.php?bid=6598&file=logo_300_100&type=&fe=0d60cf5e3caac7724732920d14435a7be1eac15e642a3986239d98bff424ba4d&c=151265434)  
+Know Informatics
 
-![valued client Konsortium Operations ( Roamfree Meats )](https://www.invoicesonline.co.za/scripts/image.php?bid=2819&file=logo_300_100&type=&fe=506b5ce8bc4bf980b534769591c043845073bfd0472988a54d2f3dc7847491de&c=186139851)  
-Konsortium Operations ( Roamfree Meats )
+![valued client Baby Toddles Infant Care](https://www.invoicesonline.co.za/scripts/image.php?bid=343&file=logo_300_100&type=&fe=0d60cf5e3caac7724732920d14435a7be1eac15e642a3986239d98bff424ba4d&c=166015594)  
+Baby Toddles Infant Care
 
-![valued client RADIO TYGERBERG 104FM NPC](https://www.invoicesonline.co.za/scripts/image.php?bid=8595&file=logo_300_100&type=&fe=506b5ce8bc4bf980b534769591c043845073bfd0472988a54d2f3dc7847491de&c=187145788)  
-RADIO TYGERBERG 104FM NPC
+![valued client Mountain Lion Properties](https://www.invoicesonline.co.za/scripts/image.php?bid=4949&file=logo_300_100&type=&fe=0d60cf5e3caac7724732920d14435a7be1eac15e642a3986239d98bff424ba4d&c=52029487)  
+Mountain Lion Properties
 
-![valued client kidoscabbie](https://www.invoicesonline.co.za/scripts/image.php?bid=4488&file=logo_300_100&type=&fe=506b5ce8bc4bf980b534769591c043845073bfd0472988a54d2f3dc7847491de&c=157942567)  
-kidoscabbie
+![valued client AquariumSmiths](https://www.invoicesonline.co.za/scripts/image.php?bid=7183&file=logo_300_100&type=&fe=0d60cf5e3caac7724732920d14435a7be1eac15e642a3986239d98bff424ba4d&c=45793964)  
+AquariumSmiths
 
-![valued client OrgChart Hosting Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=658&file=logo_300_100&type=&fe=506b5ce8bc4bf980b534769591c043845073bfd0472988a54d2f3dc7847491de&c=163930559)  
-OrgChart Hosting Pty Ltd
+![valued client Karino Merinos ( PTY ) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2349&file=logo_300_100&type=&fe=0d60cf5e3caac7724732920d14435a7be1eac15e642a3986239d98bff424ba4d&c=112368181)  
+Karino Merinos ( PTY ) LTD
 
-![valued client Imhoff Equestrian Centre](https://www.invoicesonline.co.za/scripts/image.php?bid=7987&file=logo_300_100&type=&fe=506b5ce8bc4bf980b534769591c043845073bfd0472988a54d2f3dc7847491de&c=96387868)  
-Imhoff Equestrian Centre
+![valued client Bloem Rugby Academy PTY (Ltd)](https://www.invoicesonline.co.za/scripts/image.php?bid=6451&file=logo_300_100&type=&fe=0d60cf5e3caac7724732920d14435a7be1eac15e642a3986239d98bff424ba4d&c=77353043)  
+Bloem Rugby Academy PTY (Ltd)
 
-![valued client VerdanTech Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5389&file=logo_300_100&type=&fe=506b5ce8bc4bf980b534769591c043845073bfd0472988a54d2f3dc7847491de&c=59640136)  
-VerdanTech Pty Ltd
+![valued client Tiny Cuddles Photography](https://www.invoicesonline.co.za/scripts/image.php?bid=5167&file=logo_300_100&type=&fe=0d60cf5e3caac7724732920d14435a7be1eac15e642a3986239d98bff424ba4d&c=42789072)  
+Tiny Cuddles Photography
 
-![valued client webb it services](https://www.invoicesonline.co.za/scripts/image.php?bid=7007&file=logo_300_100&type=&fe=506b5ce8bc4bf980b534769591c043845073bfd0472988a54d2f3dc7847491de&c=157061288)  
-webb it services
+![valued client United Paintball Federation](https://www.invoicesonline.co.za/scripts/image.php?bid=7016&file=logo_300_100&type=&fe=0d60cf5e3caac7724732920d14435a7be1eac15e642a3986239d98bff424ba4d&c=51784093)  
+United Paintball Federation
 
-![valued client ARCHITEK PTY LTD ](https://www.invoicesonline.co.za/scripts/image.php?bid=8208&file=logo_300_100&type=&fe=506b5ce8bc4bf980b534769591c043845073bfd0472988a54d2f3dc7847491de&c=169007253)  
-ARCHITEK PTY LTD
+![valued client Lion Software Develepment](https://www.invoicesonline.co.za/scripts/image.php?bid=7097&file=logo_300_100&type=&fe=0d60cf5e3caac7724732920d14435a7be1eac15e642a3986239d98bff424ba4d&c=16070241)  
+Lion Software Develepment
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
