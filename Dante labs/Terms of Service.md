@@ -1,4 +1,4 @@
-         [Skip to content](#main-content)
+          [Skip to content](#main-content)
 
 * [](https://www.facebook.com/DanteLabs/ "Facebook")
 * [](https://twitter.com/dantelabs?lang=en "X")
