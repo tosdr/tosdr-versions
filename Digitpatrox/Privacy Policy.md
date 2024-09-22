@@ -20,16 +20,16 @@ Sunday, September 22 2024
 
 Latest
 
-* [AI could be taken over by a few multinationals, warns UN](https://digitpatrox.com/ai-could-be-taken-over-by-a-few-multinationals-warns-un/)
-* [Everything I Expect to See at Meta Connect 2024](https://digitpatrox.com/everything-i-expect-to-see-at-meta-connect-2024/)
-* [What Is a Reasonable Life Span for a Modern Car?](https://digitpatrox.com/what-is-a-reasonable-life-span-for-a-modern-car/)
-* [10 Times Software Companies Tried to Make Hardware and Failed (and Vice Versa)](https://digitpatrox.com/10-times-software-companies-tried-to-make-hardware-and-failed-and-vice-versa/)
-* [How to Future-Proof a VoIP Phone System](https://digitpatrox.com/how-to-future-proof-a-voip-phone-system/)
-* [Huge Skechers summer clearance event — 7 sneaker deals I’d buy now from $44](https://digitpatrox.com/huge-skechers-summer-clearance-event-7-sneaker-deals-id-buy-now-from-44/)
-* [Jony Ive confirms he’s working on a new device with OpenAI](https://digitpatrox.com/jony-ive-confirms-hes-working-on-a-new-device-with-openai/)
-* [Today’s Wordle Answer and Hints (September 22, 2024)](https://digitpatrox.com/todays-wordle-answer-and-hints-september-22-2024/)
-* [The evolution of Apple’s iPhone – Computerworld](https://digitpatrox.com/the-evolution-of-apples-iphone-computerworld/)
-* [iOS 18 Makes It Much Easier to Use Smart Devices With Apple Home](https://digitpatrox.com/ios-18-makes-it-much-easier-to-use-smart-devices-with-apple-home/)
+* [X is capitulating to Brazil’s Supreme Court](https://digitpatrox.com/x-is-capitulating-to-brazils-supreme-court/)
+* [5 Best Deadlock Heroes for Beginners, Ranked](https://digitpatrox.com/5-best-deadlock-heroes-for-beginners-ranked/)
+* [With genAI models, size matters (and smaller may be better) – Computerworld](https://digitpatrox.com/with-genai-models-size-matters-and-smaller-may-be-better-computerworld/)
+* [Wordle Answer for Today, September 22, 2024](https://digitpatrox.com/wordle-answer-for-today-september-22-2024/)
+* [Ford Maverick Recalled Because Backup Camera Display Can Freeze](https://digitpatrox.com/ford-maverick-recalled-because-backup-camera-display-can-freeze/)
+* [10 Mistakes to Avoid When Setting Up a Wi-Fi Network](https://digitpatrox.com/10-mistakes-to-avoid-when-setting-up-a-wi-fi-network/)
+* [5 Compelling Reasons Not To Manage Your Own VoIP Server](https://digitpatrox.com/5-compelling-reasons-not-to-manage-your-own-voip-server/)
+* [How to watch Ravens vs Cowboys live streams online](https://digitpatrox.com/how-to-watch-ravens-vs-cowboys-live-streams-online/)
+* [The Verge’s favorite home office keepsakes](https://digitpatrox.com/the-verges-favorite-home-office-keepsakes/)
+* [NYT Strands Today: Hints, Answers & Spangram for September 22](https://digitpatrox.com/nyt-strands-today-hints-answers-spangram-for-september-22/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,35 +171,35 @@ Popular Posts
     August 21, 2024
     
 
-* [![](https://www.cio.com/wp-content/uploads/2024/09/3531501-0-86887300-1726767055-shutterstock_2345949869.jpg?quality=50&strip=all&w=1024)](https://digitpatrox.com/ai-could-be-taken-over-by-a-few-multinationals-warns-un/)
+* [![](https://cdn.vox-cdn.com/thumbor/tkZOWBgxGJ_oKgyJuN3d35oN7Pg=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/25535554/STK160_X_TWITTER__A.jpg)](https://digitpatrox.com/x-is-capitulating-to-brazils-supreme-court/)
     
-    [AI could be taken over by a few multinationals, warns UN](https://digitpatrox.com/ai-could-be-taken-over-by-a-few-multinationals-warns-un/)
+    [X is capitulating to Brazil’s Supreme Court](https://digitpatrox.com/x-is-capitulating-to-brazils-supreme-court/)
     
-    3 mins ago
+    20 mins ago
     
-* [![](https://lifehacker.com/imagery/articles/01J880YSMZB6HK004K1V8TFEWH/hero-image.fill.size_1200x675.jpg)](https://digitpatrox.com/everything-i-expect-to-see-at-meta-connect-2024/)
+* [![](https://beebom.com/wp-content/uploads/2024/09/Best-heroes-for-new-players-cover-Deadlock.jpg?w=1250&quality=75)](https://digitpatrox.com/5-best-deadlock-heroes-for-beginners-ranked/)
     
-    [Everything I Expect to See at Meta Connect 2024](https://digitpatrox.com/everything-i-expect-to-see-at-meta-connect-2024/)
+    [5 Best Deadlock Heroes for Beginners, Ranked](https://digitpatrox.com/5-best-deadlock-heroes-for-beginners-ranked/)
     
-    28 mins ago
+    22 mins ago
     
-* [![](https://article.images.consumerreports.org/image/upload/t_article_tout/v1692114807/prod/content/dam/CRO-Images-2023/08August/Cars/CR-Cars-Inlinehero-lifetime-of-a-modern-car-0823)](https://digitpatrox.com/what-is-a-reasonable-life-span-for-a-modern-car/)
+* [![](https://www.computerworld.com/wp-content/uploads/2024/09/3529501-0-52911300-1726740225-shutterstock_2442932719.jpg?quality=50&strip=all&w=1024)](https://digitpatrox.com/with-genai-models-size-matters-and-smaller-may-be-better-computerworld/)
     
-    [What Is a Reasonable Life Span for a Modern Car?](https://digitpatrox.com/what-is-a-reasonable-life-span-for-a-modern-car/)
-    
-    1 hour ago
-    
-* [![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/a-phone-on-a-surface-featuring-windows-phone-os.jpg)](https://digitpatrox.com/10-times-software-companies-tried-to-make-hardware-and-failed-and-vice-versa/)
-    
-    [10 Times Software Companies Tried to Make Hardware and Failed (and Vice Versa)](https://digitpatrox.com/10-times-software-companies-tried-to-make-hardware-and-failed-and-vice-versa/)
-    
-    1 hour ago
-    
-* [![](https://assets.techrepublic.com/uploads/2013/07/tr11023-voip-small-business.jpeg)](https://digitpatrox.com/how-to-future-proof-a-voip-phone-system/)
-    
-    [How to Future-Proof a VoIP Phone System](https://digitpatrox.com/how-to-future-proof-a-voip-phone-system/)
+    [With genAI models, size matters (and smaller may be better) – Computerworld](https://digitpatrox.com/with-genai-models-size-matters-and-smaller-may-be-better-computerworld/)
     
     2 hours ago
+    
+* [![](https://lifehacker.com/imagery/articles/01J7V8RCATF33ED6PRJ4ZGEM1C/hero-image.fill.size_1200x675.jpg)](https://digitpatrox.com/wordle-answer-for-today-september-22-2024/)
+    
+    [Wordle Answer for Today, September 22, 2024](https://digitpatrox.com/wordle-answer-for-today-september-22-2024/)
+    
+    3 hours ago
+    
+* [![](https://article.images.consumerreports.org/image/upload/t_article_tout/v1726834004/prod/content/dam/CRO-Images-2024/Cars/CR-Cars-InlineHero-2024-Ford-Maverick-boat-launch-9-24)](https://digitpatrox.com/ford-maverick-recalled-because-backup-camera-display-can-freeze/)
+    
+    [Ford Maverick Recalled Because Backup Camera Display Can Freeze](https://digitpatrox.com/ford-maverick-recalled-because-backup-camera-display-can-freeze/)
+    
+    3 hours ago
     
 
 ![](https://digitpatrox.com/wp-content/uploads/2023/12/Digitpatrox-NEW-Logo-White.png)
@@ -208,51 +208,51 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [3 mins ago
+* [20 mins ago
     
-    ### AI could be taken over by a few multinationals, warns UN](https://digitpatrox.com/ai-could-be-taken-over-by-a-few-multinationals-warns-un/)
-* [28 mins ago
+    ### X is capitulating to Brazil’s Supreme Court](https://digitpatrox.com/x-is-capitulating-to-brazils-supreme-court/)
+* [22 mins ago
     
-    ### Everything I Expect to See at Meta Connect 2024](https://digitpatrox.com/everything-i-expect-to-see-at-meta-connect-2024/)
-* [1 hour ago
+    ### 5 Best Deadlock Heroes for Beginners, Ranked](https://digitpatrox.com/5-best-deadlock-heroes-for-beginners-ranked/)
+* [2 hours ago
     
-    ### What Is a Reasonable Life Span for a Modern Car?](https://digitpatrox.com/what-is-a-reasonable-life-span-for-a-modern-car/)
+    ### With genAI models, size matters (and smaller may be better) – Computerworld](https://digitpatrox.com/with-genai-models-size-matters-and-smaller-may-be-better-computerworld/)
 
 Most Popular Topics
 
-* [August 22, 2024
+* [4 weeks ago
     
-    ### OnePlus Buds Pro 3 Review: Nothing Comes Close](https://digitpatrox.com/oneplus-buds-pro-3-review-nothing-comes-close/)
-* [2 weeks ago
-    
-    ### Startup accuses Nvidia and Microsoft of infringing on patents and forming a cartel](https://digitpatrox.com/startup-accuses-nvidia-and-microsoft-of-infringing-on-patents-and-forming-a-cartel/)
+    ### My Favorite Amazon Deal of the Day: Sonos Era 100](https://digitpatrox.com/my-favorite-amazon-deal-of-the-day-sonos-era-100/)
 * [August 20, 2024
     
-    ### Hacker locks Unicoin staff out of Google accounts for 4 days](https://digitpatrox.com/hacker-locks-unicoin-staff-out-of-google-accounts-for-4-days/)
+    ### Hackers are flocking to a new SMS spam tool – ‘Xeon Sender’ exploits cloud APIs and exposed credentials to supercharge phishing campaigns](https://digitpatrox.com/hackers-are-flocking-to-a-new-sms-spam-tool-xeon-sender-exploits-cloud-apis-and-exposed-credentials-to-supercharge-phishing-campaigns/)
+* [2 weeks ago
+    
+    ### Here’s How I Work Online Efficiently Without a PC](https://digitpatrox.com/heres-how-i-work-online-efficiently-without-a-pc/)
 
 Last Modified Topics
 
-* [3 hours ago
+* [4 hours ago
     
-    ### Jony Ive confirms he’s working on a new device with OpenAI](https://digitpatrox.com/jony-ive-confirms-hes-working-on-a-new-device-with-openai/)
-* [3 hours ago
+    ### 5 Compelling Reasons Not To Manage Your Own VoIP Server](https://digitpatrox.com/5-compelling-reasons-not-to-manage-your-own-voip-server/)
+* [4 hours ago
     
-    ### Today’s Wordle Answer and Hints (September 22, 2024)](https://digitpatrox.com/todays-wordle-answer-and-hints-september-22-2024/)
+    ### How to watch Ravens vs Cowboys live streams online](https://digitpatrox.com/how-to-watch-ravens-vs-cowboys-live-streams-online/)
 * [5 hours ago
     
-    ### The evolution of Apple’s iPhone – Computerworld](https://digitpatrox.com/the-evolution-of-apples-iphone-computerworld/)
+    ### The Verge’s favorite home office keepsakes](https://digitpatrox.com/the-verges-favorite-home-office-keepsakes/)
 
 Most Viewed Topics
 
+* [August 12, 2024
+    
+    ### Texas Board of Physical Therapy Examiners breached, SSNs and other info compromised](https://digitpatrox.com/texas-board-of-physical-therapy-examiners-breached-ssns-and-other-info-compromised/)
 * [August 13, 2024
     
-    ### How to manage a road trip move](https://digitpatrox.com/how-to-manage-a-road-trip-move/)
-* [August 21, 2024
+    ### TikTok Is Pushing Old and False News as ”Breaking” Alerts](https://digitpatrox.com/tiktok-is-pushing-old-and-false-news-as-breaking-alerts/)
+* [August 13, 2024
     
-    ### Wordle Answer for Today, August 21, 2024](https://digitpatrox.com/wordle-answer-for-today-august-21-2024/)
-* [August 11, 2024
-    
-    ### US citizen charged with aiding North Korean hackers moonlighting as tech workers](https://digitpatrox.com/us-citizen-charged-with-aiding-north-korean-hackers-moonlighting-as-tech-workers/)
+    ### Best New-Car Deals – Consumer Reports](https://digitpatrox.com/best-new-car-deals-consumer-reports/)
 
 © Copyright 2018 - 2024, All Rights Reserved
 
