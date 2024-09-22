@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-92cf0adb2e70867091f79a2e6f37ea08
+4363bdda0674927aef72f34185c7ada3
 
 [](# "Expand for more options")[](# "Search")
 
@@ -171,11 +171,11 @@ Sojourner may revise this policy as needed by updating this posting.
 
 ### Featured Product
 
-[![8 mm pink-copper oval shaped pearls](https://www.sojourner.biz/images/cache/pearls/PE0003.200.jpg)](https://www.sojourner.biz/beads/pearls/8-mm-pink-copper-oval-shaped-pearls.html "8 mm pink-copper oval shaped pearls")
+[![Sterling silver starfish pendant](https://www.sojourner.biz/images/cache/C0010.200.jpg)](https://www.sojourner.biz/components/sterling-silver-starfish-pendant.html "Sterling silver starfish pendant")
 
-#### [8 mm pink-copper oval shaped pearls](https://www.sojourner.biz/beads/pearls/8-mm-pink-copper-oval-shaped-pearls.html "8 mm pink-copper oval shaped pearls")
+#### [Sterling silver starfish pendant](https://www.sojourner.biz/components/sterling-silver-starfish-pendant.html "Sterling silver starfish pendant")
 
-$11.00
+$175.00
 
 ### Best Sellers
 
