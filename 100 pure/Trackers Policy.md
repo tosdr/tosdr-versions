@@ -392,7 +392,7 @@ or 4 interest-free payments of **$0.00** with ![Klarna Logo](https://www.100perc
 
  
 
-[FREE GIFT! 3pc HAND BUTTERCREAMS WITH ALL ORDERS $29+ USE CODE: HANDTRIO](https://www.100percentpure.com/products/hand-buttercream-trio-1?variant=41760877805646 "FREE GIFT! 3pc HAND BUTTERCREAMS WITH ALL ORDERS $29+ USE CODE: HANDTRIO")
+[LAST DAY! FREE GIFT! 3pc HAND BUTTERCREAMS WITH ALL ORDERS $29+ USE CODE: HANDTRIO](https://www.100percentpure.com/products/hand-buttercream-trio-1?variant=41760877805646 "FREE GIFT! 3pc HAND BUTTERCREAMS WITH ALL ORDERS $29+ USE CODE: HANDTRIO")
 
 icon-account icon-account icon-arrow-right icon-arrow-down icon-arrow-next icon-arrow-prev icon-slideshow-next icon-slideshow-previous icon-comment icon-heart icon-cart icon-bag icon-close icon-glasses icon-menu icon-minus icon-play icon-plus social-seach social-facebook social-fancy social-instagram social-pinterest social-rss social-twitter
 
