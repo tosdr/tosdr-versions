@@ -208,21 +208,21 @@ Turn Your Curiosity Into Discovery
 
 Latest Facts
 
-[![30 Facts About Barrerite ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22106%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/earth-and-life-science/earth-sciences/30-facts-about-barrerite/)
+[![38 Facts About The Middle Ages ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%2292%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/history/38-facts-about-the-middle-ages/)
+
+History
+
+22 Sep 2024
+
+[38 Facts About The Middle Ages](https://facts.net/history/38-facts-about-the-middle-ages/)
+
+[![30 Facts About Zanazziite ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22100%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/earth-and-life-science/earth-sciences/30-facts-about-zanazziite/)
 
 Earth Sciences
 
-21 Sep 2024
+22 Sep 2024
 
-[30 Facts About Barrerite](https://facts.net/earth-and-life-science/earth-sciences/30-facts-about-barrerite/)
-
-[![30 Facts About St Louis Gate ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22100%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/world/landmarks/30-facts-about-st-louis-gate/)
-
-Landmarks
-
-21 Sep 2024
-
-[30 Facts About St Louis Gate](https://facts.net/world/landmarks/30-facts-about-st-louis-gate/)
+[30 Facts About Zanazziite](https://facts.net/earth-and-life-science/earth-sciences/30-facts-about-zanazziite/)
 
 [Home](https://facts.net/) [Privacy Policy](https://facts.net/privacy-policy/)
 
