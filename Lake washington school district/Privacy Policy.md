@@ -205,7 +205,6 @@ mobile-main-nav
     * [Transportation](https://www.lwsd.org/services/transportation)
     
 * [November 2024 Levy](https://www.lwsd.org/2024-levy)
-* [November 2024 Levy clone](https://www.lwsd.org/2024-levy-clone)
 
 mobile-header-portals-nav
 -------------------------
@@ -582,7 +581,6 @@ nav-main
     * [Transportation](https://www.lwsd.org/services/transportation)
     
 * [November 2024 Levy](https://www.lwsd.org/2024-levy)
-* [November 2024 Levy clone](https://www.lwsd.org/2024-levy-clone)
 
 horizontal-nav
 --------------
