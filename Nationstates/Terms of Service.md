@@ -34,11 +34,11 @@ Login Stay logged in
 
 Latest Forum Topics
 
-* [Why is Math Hated? (172)](https://forum.nationstates.net/viewtopic.php?t=555518&f=20&view=unread#unread ""Why is Math Hated?" (172 posts)")
-* [Ukrainian War VII: Everything has a p… (5,425)](https://forum.nationstates.net/viewtopic.php?t=551126&f=20&view=unread#unread ""Ukrainian War VII: Everything has a price" (5,425 posts)")
-* [Based on the flag, what language(s) d… (11,438)](https://forum.nationstates.net/viewtopic.php?t=474154&f=25&view=unread#unread ""Based on the flag, what language(s) does the AN speak?" (11,438 posts)")
-* [What would you be most proud of if yo… (19)](https://forum.nationstates.net/viewtopic.php?t=555578&f=25&view=unread#unread ""What would you be most proud of if you lived in AN?" (19 posts)")
-* [Rate AN's leader attractiveness (28)](https://forum.nationstates.net/viewtopic.php?t=555212&f=25&view=unread#unread ""Rate AN's leader attractiveness" (28 posts)")
+* [What triggers you about the AN? (7,943)](https://forum.nationstates.net/viewtopic.php?t=535499&f=25&view=unread#unread ""What triggers you about the AN?" (7,943 posts)")
+* [Hot or Cold: BN/BU Edition (1,147)](https://forum.nationstates.net/viewtopic.php?t=553202&f=25&view=unread#unread ""Hot or Cold: BN/BU Edition" (1,147 posts)")
+* [Geography Game II (10,144)](https://forum.nationstates.net/viewtopic.php?t=529733&f=25&view=unread#unread ""Geography Game II" (10,144 posts)")
+* [Janpian International Exports \[MT-PMT… (401)](https://forum.nationstates.net/viewtopic.php?t=513037&f=6&view=unread#unread ""Janpian International Exports [MT-PMT | OPEN]" (401 posts)")
+* [Grand Theft Horse: Sequel Moon - Come… (54)](https://forum.nationstates.net/viewtopic.php?t=554828&f=31&view=unread#unread ""Grand Theft Horse: Sequel Moon - Comedy (IC / Open)" (54 posts)")
 
 Advertisement
 
