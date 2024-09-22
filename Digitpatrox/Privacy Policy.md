@@ -20,16 +20,16 @@ Sunday, September 22 2024
 
 Latest
 
+* [Will a smart bed with TV built-in ruin your sleep?](https://digitpatrox.com/will-a-smart-bed-with-tv-built-in-ruin-your-sleep/)
+* [SocialAI is a social network where everyone but you is a bot](https://digitpatrox.com/socialai-is-a-social-network-where-everyone-but-you-is-a-bot/)
+* [NYT Connections Today: Hints and Answers for September 22, 2024](https://digitpatrox.com/nyt-connections-today-hints-and-answers-for-september-22-2024/)
+* [The Five Factors That Determine Your Credit Score](https://digitpatrox.com/the-five-factors-that-determine-your-credit-score/)
+* [Apple iPhone 16 Lineup Review](https://digitpatrox.com/apple-iphone-16-lineup-review/)
+* [Today’s NYT Connections Hints and Answer for September 22 (#469)](https://digitpatrox.com/todays-nyt-connections-hints-and-answer-for-september-22-469/)
+* [Buying a smart speaker? Here’s how to choose between Alexa, Google or Siri as your assistant](https://digitpatrox.com/buying-a-smart-speaker-heres-how-to-choose-between-alexa-google-or-siri-as-your-assistant/)
 * [X is capitulating to Brazil’s Supreme Court](https://digitpatrox.com/x-is-capitulating-to-brazils-supreme-court/)
 * [5 Best Deadlock Heroes for Beginners, Ranked](https://digitpatrox.com/5-best-deadlock-heroes-for-beginners-ranked/)
 * [With genAI models, size matters (and smaller may be better) – Computerworld](https://digitpatrox.com/with-genai-models-size-matters-and-smaller-may-be-better-computerworld/)
-* [Wordle Answer for Today, September 22, 2024](https://digitpatrox.com/wordle-answer-for-today-september-22-2024/)
-* [Ford Maverick Recalled Because Backup Camera Display Can Freeze](https://digitpatrox.com/ford-maverick-recalled-because-backup-camera-display-can-freeze/)
-* [10 Mistakes to Avoid When Setting Up a Wi-Fi Network](https://digitpatrox.com/10-mistakes-to-avoid-when-setting-up-a-wi-fi-network/)
-* [5 Compelling Reasons Not To Manage Your Own VoIP Server](https://digitpatrox.com/5-compelling-reasons-not-to-manage-your-own-voip-server/)
-* [How to watch Ravens vs Cowboys live streams online](https://digitpatrox.com/how-to-watch-ravens-vs-cowboys-live-streams-online/)
-* [The Verge’s favorite home office keepsakes](https://digitpatrox.com/the-verges-favorite-home-office-keepsakes/)
-* [NYT Strands Today: Hints, Answers & Spangram for September 22](https://digitpatrox.com/nyt-strands-today-hints-answers-spangram-for-september-22/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,35 +171,35 @@ Popular Posts
     August 21, 2024
     
 
-* [![](https://cdn.vox-cdn.com/thumbor/tkZOWBgxGJ_oKgyJuN3d35oN7Pg=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/25535554/STK160_X_TWITTER__A.jpg)](https://digitpatrox.com/x-is-capitulating-to-brazils-supreme-court/)
+* [![](https://cdn.mos.cms.futurecdn.net/ZkRBeNCU866NDAu2iApeTe-1200-80.jpg)](https://digitpatrox.com/will-a-smart-bed-with-tv-built-in-ruin-your-sleep/)
     
-    [X is capitulating to Brazil’s Supreme Court](https://digitpatrox.com/x-is-capitulating-to-brazils-supreme-court/)
+    [Will a smart bed with TV built-in ruin your sleep?](https://digitpatrox.com/will-a-smart-bed-with-tv-built-in-ruin-your-sleep/)
     
-    20 mins ago
+    14 mins ago
     
-* [![](https://beebom.com/wp-content/uploads/2024/09/Best-heroes-for-new-players-cover-Deadlock.jpg?w=1250&quality=75)](https://digitpatrox.com/5-best-deadlock-heroes-for-beginners-ranked/)
+* [![](https://cdn.vox-cdn.com/thumbor/9aOnN-EiPcx8uSOaPOuYLAUbmcA=/0x0:2226x1485/1200x628/filters:focal(1113x743:1114x744)/cdn.vox-cdn.com/uploads/chorus_asset/file/25631503/installer_53.png)](https://digitpatrox.com/socialai-is-a-social-network-where-everyone-but-you-is-a-bot/)
     
-    [5 Best Deadlock Heroes for Beginners, Ranked](https://digitpatrox.com/5-best-deadlock-heroes-for-beginners-ranked/)
+    [SocialAI is a social network where everyone but you is a bot](https://digitpatrox.com/socialai-is-a-social-network-where-everyone-but-you-is-a-bot/)
     
-    22 mins ago
+    1 hour ago
     
-* [![](https://www.computerworld.com/wp-content/uploads/2024/09/3529501-0-52911300-1726740225-shutterstock_2442932719.jpg?quality=50&strip=all&w=1024)](https://digitpatrox.com/with-genai-models-size-matters-and-smaller-may-be-better-computerworld/)
+* [![](https://beebom.com/wp-content/uploads/2024/07/NYT-Connections-Today-Featured.jpg?w=1250&quality=75)](https://digitpatrox.com/nyt-connections-today-hints-and-answers-for-september-22-2024/)
     
-    [With genAI models, size matters (and smaller may be better) – Computerworld](https://digitpatrox.com/with-genai-models-size-matters-and-smaller-may-be-better-computerworld/)
+    [NYT Connections Today: Hints and Answers for September 22, 2024](https://digitpatrox.com/nyt-connections-today-hints-and-answers-for-september-22-2024/)
     
-    2 hours ago
+    1 hour ago
     
-* [![](https://lifehacker.com/imagery/articles/01J7V8RCATF33ED6PRJ4ZGEM1C/hero-image.fill.size_1200x675.jpg)](https://digitpatrox.com/wordle-answer-for-today-september-22-2024/)
+* [![](https://lifehacker.com/imagery/articles/01HF2H953KWG950ZVNEBDQ5WWT/hero-image.fill.size_1200x675.png)](https://digitpatrox.com/the-five-factors-that-determine-your-credit-score/)
     
-    [Wordle Answer for Today, September 22, 2024](https://digitpatrox.com/wordle-answer-for-today-september-22-2024/)
-    
-    3 hours ago
-    
-* [![](https://article.images.consumerreports.org/image/upload/t_article_tout/v1726834004/prod/content/dam/CRO-Images-2024/Cars/CR-Cars-InlineHero-2024-Ford-Maverick-boat-launch-9-24)](https://digitpatrox.com/ford-maverick-recalled-because-backup-camera-display-can-freeze/)
-    
-    [Ford Maverick Recalled Because Backup Camera Display Can Freeze](https://digitpatrox.com/ford-maverick-recalled-because-backup-camera-display-can-freeze/)
+    [The Five Factors That Determine Your Credit Score](https://digitpatrox.com/the-five-factors-that-determine-your-credit-score/)
     
     3 hours ago
+    
+* [![](https://article.images.consumerreports.org/image/upload/t_article_tout/v1726845512/prod/content/dam/CRO-Images-2024/Electronics/CR-Electronics-InlineHero-iPhone-First-look-Review-0924)](https://digitpatrox.com/apple-iphone-16-lineup-review/)
+    
+    [Apple iPhone 16 Lineup Review](https://digitpatrox.com/apple-iphone-16-lineup-review/)
+    
+    4 hours ago
     
 
 ![](https://digitpatrox.com/wp-content/uploads/2023/12/Digitpatrox-NEW-Logo-White.png)
@@ -208,51 +208,51 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [20 mins ago
+* [14 mins ago
     
-    ### X is capitulating to Brazil’s Supreme Court](https://digitpatrox.com/x-is-capitulating-to-brazils-supreme-court/)
-* [22 mins ago
+    ### Will a smart bed with TV built-in ruin your sleep?](https://digitpatrox.com/will-a-smart-bed-with-tv-built-in-ruin-your-sleep/)
+* [1 hour ago
     
-    ### 5 Best Deadlock Heroes for Beginners, Ranked](https://digitpatrox.com/5-best-deadlock-heroes-for-beginners-ranked/)
-* [2 hours ago
+    ### SocialAI is a social network where everyone but you is a bot](https://digitpatrox.com/socialai-is-a-social-network-where-everyone-but-you-is-a-bot/)
+* [1 hour ago
     
-    ### With genAI models, size matters (and smaller may be better) – Computerworld](https://digitpatrox.com/with-genai-models-size-matters-and-smaller-may-be-better-computerworld/)
+    ### NYT Connections Today: Hints and Answers for September 22, 2024](https://digitpatrox.com/nyt-connections-today-hints-and-answers-for-september-22-2024/)
 
 Most Popular Topics
 
 * [4 weeks ago
     
-    ### My Favorite Amazon Deal of the Day: Sonos Era 100](https://digitpatrox.com/my-favorite-amazon-deal-of-the-day-sonos-era-100/)
-* [August 20, 2024
+    ### Connecticut special needs school hacked; student SSNs, finance, and medical info compromised](https://digitpatrox.com/connecticut-special-needs-school-hacked-student-ssns-finance-and-medical-info-compromised/)
+* [3 weeks ago
     
-    ### Hackers are flocking to a new SMS spam tool – ‘Xeon Sender’ exploits cloud APIs and exposed credentials to supercharge phishing campaigns](https://digitpatrox.com/hackers-are-flocking-to-a-new-sms-spam-tool-xeon-sender-exploits-cloud-apis-and-exposed-credentials-to-supercharge-phishing-campaigns/)
-* [2 weeks ago
+    ### Wordle Answer for Today, September 4, 2024](https://digitpatrox.com/wordle-answer-for-today-september-4-2024/)
+* [3 weeks ago
     
-    ### Here’s How I Work Online Efficiently Without a PC](https://digitpatrox.com/heres-how-i-work-online-efficiently-without-a-pc/)
+    ### Wipro expands Dell Technologies partnership, integrates AI Factory within enterprise platform](https://digitpatrox.com/wipro-expands-dell-technologies-partnership-integrates-ai-factory-within-enterprise-platform/)
 
 Last Modified Topics
 
-* [4 hours ago
-    
-    ### 5 Compelling Reasons Not To Manage Your Own VoIP Server](https://digitpatrox.com/5-compelling-reasons-not-to-manage-your-own-voip-server/)
-* [4 hours ago
-    
-    ### How to watch Ravens vs Cowboys live streams online](https://digitpatrox.com/how-to-watch-ravens-vs-cowboys-live-streams-online/)
 * [5 hours ago
     
-    ### The Verge’s favorite home office keepsakes](https://digitpatrox.com/the-verges-favorite-home-office-keepsakes/)
+    ### Buying a smart speaker? Here’s how to choose between Alexa, Google or Siri as your assistant](https://digitpatrox.com/buying-a-smart-speaker-heres-how-to-choose-between-alexa-google-or-siri-as-your-assistant/)
+* [6 hours ago
+    
+    ### X is capitulating to Brazil’s Supreme Court](https://digitpatrox.com/x-is-capitulating-to-brazils-supreme-court/)
+* [6 hours ago
+    
+    ### 5 Best Deadlock Heroes for Beginners, Ranked](https://digitpatrox.com/5-best-deadlock-heroes-for-beginners-ranked/)
 
 Most Viewed Topics
 
+* [4 weeks ago
+    
+    ### Getting Your iPhone Repaired Could Ban You From Snapchat](https://digitpatrox.com/getting-your-iphone-repaired-could-ban-you-from-snapchat/)
 * [August 12, 2024
     
     ### Texas Board of Physical Therapy Examiners breached, SSNs and other info compromised](https://digitpatrox.com/texas-board-of-physical-therapy-examiners-breached-ssns-and-other-info-compromised/)
 * [August 13, 2024
     
     ### TikTok Is Pushing Old and False News as ”Breaking” Alerts](https://digitpatrox.com/tiktok-is-pushing-old-and-false-news-as-breaking-alerts/)
-* [August 13, 2024
-    
-    ### Best New-Car Deals – Consumer Reports](https://digitpatrox.com/best-new-car-deals-consumer-reports/)
 
 © Copyright 2018 - 2024, All Rights Reserved
 
