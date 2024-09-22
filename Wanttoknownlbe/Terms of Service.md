@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/overige/vragen-over-haarp-in-de-europese-commissie/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/nieuws/gigantische-asteroide-op-weg-naar-aarde/ "Feeling Lucky? »")
 
 Algemene voorwaarden WantToKnow aanbiedingen
 ============================================
