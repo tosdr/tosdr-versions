@@ -1,4 +1,4 @@
-![](https://pixelcounter.marca.com/pixelcontabilizacion/pixelcontabilizacion.gifctl?r=http%3A%2F%2Fwww%2Emarca%2Ecom%2Fcorporativo%2Fterminos%2Dcondiciones%2Duso%2Ehtml&s=marca&d=Zu@BdgoAAvUAAABhb-o)
+![](https://pixelcounter.marca.com/pixelcontabilizacion/pixelcontabilizacion.gifctl?r=http%3A%2F%2Fwww%2Emarca%2Ecom%2Fcorporativo%2Fterminos%2Dcondiciones%2Duso%2Ehtml&s=marca&d=Zu-V-AoAAvUAAABhanc)
 
 * Es noticia:
 * [Madrid - Espanyol](https://www.marca.com/futbol/laliga-ea-sports/r-madrid-espanyol/2024/09/21/01_0101_20240921_186_177-directo.html)
