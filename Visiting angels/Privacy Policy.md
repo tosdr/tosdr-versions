@@ -260,15 +260,15 @@ Or write to us at: 937 Haverford Road Suite 200, Bryn Mawr PA 19010
 
  related  categories
 
-[Home Care Services for the Elderly](https://www.visitingangels.com/knowledge-center/selecting-care/home-care-services-for-the-elderly/518)
+[Is it Time for Your Loved Ones to Leave Their Homes?](https://www.visitingangels.com/knowledge-center/care-options/is-it-time-for-your-loved-ones-to-leave-their-homes/6)
 
-[Preparing for Mid-Stage & Late-Stage Alzheimer’s Care](https://www.visitingangels.com/knowledge-center/preparing-loved-ones/preparing-for-mid-stage-late-stage-alzheimers-care/454)
+[What Skills Matter Most for Personal Care?](https://www.visitingangels.com/knowledge-center/care-options/what-skills-matter-most-for-personal-care/467)
 
-[9 Ways to Reduce Seniors’ Discomfort with Personal Care Services](https://www.visitingangels.com/knowledge-center/care-options/9-ways-to-reduce-seniors-discomfort-with-personal-care-services/424)
+[Taking the Keys Away from Dad](https://www.visitingangels.com/knowledge-center/preparing-loved-ones/taking-the-keys-away-from-dad/435)
 
-[Activities That Stimulate Your Aging Senior’s Brain](https://www.visitingangels.com/knowledge-center/senior-health-and-well-being/activities-that-stimulate-your-aging-seniors-brain/381)
+[Things Change: What to Do When Your Senior Loved One Stops Doing Things They Love](https://www.visitingangels.com/knowledge-center/senior-health-and-well-being/things-change-what-to-do-when-your-senior-loved-one-stops-doing-things-they-love/371)
 
-[Part 2: Expert Advice When Caring for a Loved One with Alzheimer’s](https://www.visitingangels.com/knowledge-center/senior-health-and-well-being/part-2-expert-advice-when-caring-for-a-loved-one-with-alzheimers/368)
+[Is it Too Early to Start In-Home Senior Care?](https://www.visitingangels.com/knowledge-center/why-in-home-care/is-it-too-early-to-start-in-home-senior-care/289)
 
 * [Care Options](https://www.visitingangels.com/knowledge-center/care-options)
 * [Selecting Care](https://www.visitingangels.com/knowledge-center/selecting-care)
