@@ -263,7 +263,7 @@ Select State\*AlabamaAlaskaArizonaArkansasCaliforniaColoradoConnecticutDelawareD
 
 Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. They may contact me by email or telephone (including phone calls, text messages, autodialed / auto-selected or pre-recorded calls). I understand that message and data rates may apply and that consent to such contact is not required for use of these services. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), [Anti Fraud Policy](https://www.pintas.com/anti-fraud-policy/)[Anti Fraud Policy](https://www.pintas.com/anti-fraud-policy-pr/) and [online Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/), including its mandatory arbitration provision. I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
 
-Email
+Comments
 
 This field is for validation purposes and should be left unchanged.
 
@@ -273,17 +273,17 @@ This field is for validation purposes and should be left unchanged.
 
 #### Frequently Asked Questions
 
-[![Is lung cancer genetic or hereditary?](https://www.pintas.com/wp-content/uploads/2020/11/is-lung-cancer-genetic-or-hereditary.jpg "Is Lung Cancer Genetic or Hereditary?")](https://www.pintas.com/lung-cancer/is-lung-cancer-genetic-or-hereditary/ "Is Lung Cancer Genetic or Hereditary?")
+[![Is there a blood test for mesothelioma?](https://www.pintas.com/wp-content/uploads/2020/05/lung-cancer-is-there-a-blood-test-for-mesothelioma.jpg "Is There a Blood Test for Mesothelioma?")](https://www.pintas.com/lung-cancer/is-there-a-blood-test-for-mesothelioma/ "Is There a Blood Test for Mesothelioma?")
 
-[#### Is Lung Cancer Genetic or Hereditary?](https://www.pintas.com/lung-cancer/is-lung-cancer-genetic-or-hereditary/)
+[#### Is There a Blood Test for Mesothelioma?](https://www.pintas.com/lung-cancer/is-there-a-blood-test-for-mesothelioma/)
 
-[![Is mesothelioma the same aa small cell lung cancer?](https://www.pintas.com/wp-content/uploads/2020/02/lung-cancer-is-mesothelioma-the-same-as-small-cell-lung-cancer.jpg "Is Mesothelioma the Same Aa Small Cell Lung Cancer?")](https://www.pintas.com/lung-cancer/is-mesothelioma-the-same-as-small-cell-lung-cancer/ "Is Mesothelioma the Same Aa Small Cell Lung Cancer?")
+[![Does gold bond powder contain asbestos?](https://www.pintas.com/wp-content/uploads/2020/07/talcum-powder-does-gold-bond-powder-contain-asbestos-scaled.jpg "Does Gold Bond Powder Contain Asbestos?")](https://www.pintas.com/talcum-powder/does-gold-bond-powder-contain-asbestos/ "Does Gold Bond Powder Contain Asbestos?")
 
-[#### Is Mesothelioma the Same Aa Small Cell Lung Cancer?](https://www.pintas.com/lung-cancer/is-mesothelioma-the-same-as-small-cell-lung-cancer/)
+[#### Does Gold Bond Powder Contain Asbestos?](https://www.pintas.com/talcum-powder/does-gold-bond-powder-contain-asbestos/)
 
-[![What are some signs that death is near?](https://www.pintas.com/wp-content/uploads/2020/11/what-are-some-signs-that-death-is-near.jpg "What Are Some Signs that Death Is Near?")](https://www.pintas.com/lung-cancer/what-are-some-signs-that-death-is-near/ "What Are Some Signs that Death Is Near?")
+[![Is roundup safe for home use?](https://www.pintas.com/wp-content/uploads/2020/07/lung-cancer-is-roundup-safe-for-home-use.jpg "Is Roundup Safe for Home Use?")](https://www.pintas.com/lawsuit/roundup-weed-killer/is-roundup-safe-for-home-use/ "Is Roundup Safe for Home Use?")
 
-[#### What Are Some Signs that Death Is Near?](https://www.pintas.com/lung-cancer/what-are-some-signs-that-death-is-near/)
+[#### Is Roundup Safe for Home Use?](https://www.pintas.com/lawsuit/roundup-weed-killer/is-roundup-safe-for-home-use/)
 
 ### Injured?  
 Tell Us What Happened.
@@ -306,7 +306,7 @@ message
 
 Yes. Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. They may contact me by email or telephone (including phone calls, text messages, autodialed / auto-selected or pre-recorded calls). I understand that message and data rates may apply and that consent to such contact is not required for use of these services. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/), [Anti Fraud Policy](https://www.pintas.com/anti-fraud-policy/) and [online Terms](https://www.pintas.com/website-terms-of-use/), including its mandatory arbitration provision.
 
-Comments
+Email
 
 This field is for validation purposes and should be left unchanged.
 
