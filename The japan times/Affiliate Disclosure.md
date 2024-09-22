@@ -250,23 +250,23 @@ Latest News
 
 [Koizumi enjoys most support among lawmakers in LDP race: Jiji survey](https://www.japantimes.co.jp/news/2024/09/22/japan/politics/koizumi-enjoys-most-ldp-support/ "Koizumi enjoys most support among lawmakers in LDP race: Jiji survey")
 
-4 hours ago
+10 hours ago
 
 [Kim Jong Un offers tepid praise to China as he cozies up to Russia](https://www.japantimes.co.jp/news/2024/09/22/asia-pacific/kim-jong-un-china-praise/ "Kim Jong Un offers tepid praise to China as he cozies up to Russia")
 
-4 hours ago
+10 hours ago
 
 [As sun sets on Biden's term, some inmates pin their hopes on clemency](https://www.japantimes.co.jp/news/2024/09/22/world/politics/biden-inmates-clemency/ "As sun sets on Biden's term, some inmates pin their hopes on clemency")
 
-4 hours ago
+10 hours ago
 
-[Israel forces raid Al Jazeera TV in West Bank, order 45-day closure](https://www.japantimes.co.jp/news/2024/09/22/world/politics/israel-forces-raid-al-jazeera/ "Israel forces raid Al Jazeera TV in West Bank, order 45-day closure")
+[Israel forces raid Al Jazeera TV in West Bank and order 45-day closure](https://www.japantimes.co.jp/news/2024/09/22/world/politics/israel-forces-raid-al-jazeera/ "Israel forces raid Al Jazeera TV in West Bank and order 45-day closure")
 
-5 hours ago
+11 hours ago
 
 [Australia backs easing of China's ban on Japan fishery products](https://www.japantimes.co.jp/news/2024/09/22/japan/australia-china-japan-fishery-products/ "Australia backs easing of China's ban on Japan fishery products")
 
-5 hours ago
+11 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
