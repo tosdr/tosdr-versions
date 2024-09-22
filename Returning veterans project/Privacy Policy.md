@@ -187,10 +187,11 @@ Newsletter Signup
 
 ![Red Star Icon](https://cdn.returningveterans.org/images/site/star_red.png)[### Wall of Honor
 
-![Unsung Heroes](https://cdn.returningveterans.org/images/honor/flag_generic_wall_of_honor.jpg)  
+![Clark Spurrier](https://cdn.returningveterans.org/images/honor/Clark_Spurrier_Beast_Squad_1980.jpg)  
 
-**In Honor of Unsung Heroes**  
-Submitted by Kyl Foreman](https://returningveterans.org/wall-of-honor/ "Visit the Wall of Honor")
+**In Honor of Clark Spurrier**  
+United States Army  
+Submitted by Anonymous](https://returningveterans.org/wall-of-honor/ "Visit the Wall of Honor")
 
 Returning Veterans Project
 
@@ -235,5 +236,5 @@ _The appearance of U.S. Department of Defense (DoD) visual information does not 
 * [Site by NetRaising](https://netraising.com/ "NetRaising | a web consultancy")
 
 https://returningveterans.org/about/privacy-statement/  
-Printed 9/21/24 - 2:12:03  
+Printed 9/21/24 - 8:13:35  
 © 2024 Returning Veterans Project
