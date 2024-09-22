@@ -107,63 +107,67 @@ Russia is waging a disgraceful war on Ukraine.     Stand With Ukraine!
 
 Site activity
 
-[![haesolaaa](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1485617-1610806803.jpg)](https://lyricstranslate.com/en/translator/haesolaaa "haesolaaa")
+[![M Naomi](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1287215-1667435387.jpg)](https://lyricstranslate.com/en/translator/m-naomi "M Naomi")
 
 New translation
 
-[NCT WISH - 3분까진 필요 없어 (3 Minutes) (3bunkkajin pil-yo eobs-eo)](https://lyricstranslate.com/en/nct-wish-3bunkkajin-pil-yo-eobs-eo-russian)
+[Alain Delon - Comme au cinéma](https://lyricstranslate.com/en/alain-delon-comme-au-cinema-japanese)
 
-English → Russian
+French → Japanese
 
-[![David Ephraim](https://lyricstranslate.com/files/styles/micro/public/avatar-default-u.png)](https://lyricstranslate.com/en/translator/david-ephraim "David Ephraim")
-
-New comment
-
-No human is ever obsolete if he does what his true...  [more](https://lyricstranslate.com/en/comment/1165912#comment-1165912)
-
-[![Enoo](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1145429-1427889571.jpg)](https://lyricstranslate.com/en/translator/enoo "Enoo")
-
-New translation
-
-[Behzad Leito - فردا (Farda)](https://lyricstranslate.com/en/behzad-leito-farda-transliteration)
-
-English → Transliteration
-
-[![NightSky88](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1626941-1726606915.png)](https://lyricstranslate.com/en/translator/nightsky88 "NightSky88")
-
-New comment
-
-As am I.  [more](https://lyricstranslate.com/en/comment/1165911#comment-1165911)
-
-[![NightSky88](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1626941-1726606915.png)](https://lyricstranslate.com/en/translator/nightsky88 "NightSky88")
-
-New comment
-
-It might be.  [more](https://lyricstranslate.com/en/comment/1165910#comment-1165910)
-
-[![altermetax](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1360194-1684108359.png)](https://lyricstranslate.com/en/translator/altermetax "altermetax")
-
-New translation
-
-[Rauhbein - Rauhbein](https://lyricstranslate.com/en/rauhbein-rauhbein-italian)
-
-German → Italian
-
-[![Kaan Işık](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1598795-1725635280.jpg)](https://lyricstranslate.com/en/translator/kaan-i%C5%9F%C4%B1k "Kaan Işık")
+[![SLOR](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1456124-1713023678.jpg)](https://lyricstranslate.com/en/translator/slor "SLOR")
 
 New song
 
-[Grönwalls - Ge mig en kyss](https://lyricstranslate.com/en/gronwalls-ge-mig-en-kyss-lyrics)
+[Karry Wang - Champion My Way](https://lyricstranslate.com/en/karry-wang-champion-my-way-lyrics)
 
-Swedish
+Chinese
 
-[![Kronajtos](https://lyricstranslate.com/files/styles/micro/public/avatar-default-u.png)](https://lyricstranslate.com/en/translator/kronajtos "Kronajtos")
+[![SiHo_92](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1367737-1664576535.jpg)](https://lyricstranslate.com/en/translator/siho92 "SiHo_92")
+
+New comment
+
+Link: https://lyricstranslate.com/en/...  [more](https://lyricstranslate.com/en/comment/1166473#comment-1166473)
+
+[![jadethirwallstan](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1562426-1723830877.jpg)](https://lyricstranslate.com/en/translator/jadethirwallstan "jadethirwallstan")
 
 New translation
 
-[Nebo nad golovoy - Искра свободы (Iskra svobody)](https://lyricstranslate.com/en/nebo-nad-golovoy-iskra-svobody-polish)
+[Lady Gaga - Venus](https://lyricstranslate.com/en/lady-gaga-venus-romanian)
 
-Russian → Polish
+English → Romanian
+
+[![David Ephraim](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1557768-1726838583.jpg)](https://lyricstranslate.com/en/translator/david-ephraim "David Ephraim")
+
+New request
+
+[Shlomit Aharon - תגיד לי](https://lyricstranslate.com/en/request/%D7%AA%D7%92%D7%99%D7%93-%D7%9C%D7%99)
+
+Hebrew → English
+
+[![David Ephraim](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1557768-1726838583.jpg)](https://lyricstranslate.com/en/translator/david-ephraim "David Ephraim")
+
+New request
+
+[Nechama Hendel - שלושה בנים (Shlosha Banim)](https://lyricstranslate.com/en/request/%D7%A9%D7%9C%D7%95%D7%A9%D7%94-%D7%91%D7%A0%D7%99%D7%9D)
+
+Hebrew → English
+
+[![David Ephraim](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1557768-1726838583.jpg)](https://lyricstranslate.com/en/translator/david-ephraim "David Ephraim")
+
+New request
+
+[Nechama Hendel - שושנה (Shoshana)](https://lyricstranslate.com/en/request/%D7%A9%D7%95%D7%A9%D7%A0%D7%94)
+
+Hebrew → English
+
+[![David Ephraim](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1557768-1726838583.jpg)](https://lyricstranslate.com/en/translator/david-ephraim "David Ephraim")
+
+New request
+
+[Nechama Hendel - הנך יפה (Hinach Yaffa)](https://lyricstranslate.com/en/request/%D7%94%D7%A0%D7%9A-%D7%99%D7%A4%D7%94)
+
+Hebrew → English
 
 [LyricsTranslate.com](https://lyricstranslate.com/) – the world's largest repository of lyrics translations
 
