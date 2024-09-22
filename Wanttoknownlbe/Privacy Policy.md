@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/gezondheid/steeds-meer-boeren-mijden-gmo-om/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/politiek/oorlog/oorlog-tegen-drugs-blijkt-compleet-bedrog/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
