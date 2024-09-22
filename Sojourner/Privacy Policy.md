@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-a63047f69c04dd5ff830ba3051aa27a0
+2ae9e2600b43d66bbd6a11813961ed36
 
 [](# "Expand for more options")[](# "Search")
 
@@ -171,11 +171,11 @@ Sojourner may revise this policy as needed by updating this posting.
 
 ### Featured Product
 
-[![12 mm by 12 mm midnight blue faceted disc beads](https://www.sojourner.biz/images/cache/glass/GL0184.200.jpg)](https://www.sojourner.biz/beads/glass/12-mm-by-12-mm-midnight-blue-faceted-disc-beads.html "12 mm by 12 mm midnight blue faceted disc beads")
+[![14 mm by 10 mm vintage German glass irregular oval beads](https://www.sojourner.biz/images/cache/glass/GL0175.200.jpg)](https://www.sojourner.biz/beads/glass/14-mm-by-10-mm-vintage-german-glass-irregular-oval-beads.html "14 mm by 10 mm vintage German glass irregular oval beads")
 
-#### [12 mm by 12 mm midnight blue faceted disc beads](https://www.sojourner.biz/beads/glass/12-mm-by-12-mm-midnight-blue-faceted-disc-beads.html "12 mm by 12 mm midnight blue faceted disc beads")
+#### [14 mm by 10 mm vintage German glass irregular oval beads](https://www.sojourner.biz/beads/glass/14-mm-by-10-mm-vintage-german-glass-irregular-oval-beads.html "14 mm by 10 mm vintage German glass irregular oval beads")
 
-$10.00
+$13.00
 
 ### Best Sellers
 
