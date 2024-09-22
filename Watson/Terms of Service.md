@@ -1,4 +1,4 @@
-[![watson](https://www.watson.ch/fr/_watsui/static/img/logos/logo_watson_navi_ch.png)](https://www.watson.ch/fr/)[![ciel clair](https://www.watson.ch/fr/_watsui/static/img/weather/w-1.svg)12°](https://www.watson.ch/fr/o/meteo)
+[![watson](https://www.watson.ch/fr/_watsui/static/img/logos/logo_watson_navi_ch.png)](https://www.watson.ch/fr/)[![brouillard](https://www.watson.ch/fr/_watsui/static/img/weather/w-56.svg)8°](https://www.watson.ch/fr/o/meteo)
 
 [DE](https://www.watson.ch/) | [FR](https://www.watson.ch/fr/)
 
@@ -55,25 +55,25 @@
 
 Thèmes du moment
 
-* [Etats-Unis](https://www.watson.ch/fr/etats-unis/)
-* [Russie](https://www.watson.ch/fr/russie/)
-* [ukraine](https://www.watson.ch/fr/ukraine/)
-* [Vaud](https://www.watson.ch/fr/vaud/)
-* [Valais](https://www.watson.ch/fr/valais/)
-* [Intempéries](https://www.watson.ch/fr/intemperies/)
-* [France](https://www.watson.ch/fr/france/)
-* [Kamala Harris](https://www.watson.ch/fr/kamala-harris/)
-* [Mauvaise foi](https://www.watson.ch/fr/mauvaise-foi/)
-* [Enfants](https://www.watson.ch/fr/enfants/)
 * [Animaux](https://www.watson.ch/fr/animaux/)
 * [Police](https://www.watson.ch/fr/police/)
-* [Chiens](https://www.watson.ch/fr/chiens/)
 * [Chats](https://www.watson.ch/fr/chats/)
 * [Berne](https://www.watson.ch/fr/berne/)
 * [Hongrie](https://www.watson.ch/fr/hongrie/)
+* [Guerre contre l'Ukraine](https://www.watson.ch/fr/guerre-contre-l-ukraine/)
 * [démocrate](https://www.watson.ch/fr/democrate/)
 * [présidentielle américaine](https://www.watson.ch/fr/presidentielle-americaine/)
-* [Guerre contre l'Ukraine](https://www.watson.ch/fr/guerre-contre-l-ukraine/)
+* [Vaud](https://www.watson.ch/fr/vaud/)
+* [Chiens](https://www.watson.ch/fr/chiens/)
+* [Valais](https://www.watson.ch/fr/valais/)
+* [Intempéries](https://www.watson.ch/fr/intemperies/)
+* [France](https://www.watson.ch/fr/france/)
+* [Mauvaise foi](https://www.watson.ch/fr/mauvaise-foi/)
+* [Enfants](https://www.watson.ch/fr/enfants/)
+* [Kamala Harris](https://www.watson.ch/fr/kamala-harris/)
+* [Etats-Unis](https://www.watson.ch/fr/etats-unis/)
+* [Russie](https://www.watson.ch/fr/russie/)
+* [ukraine](https://www.watson.ch/fr/ukraine/)
 * [Politique](https://www.watson.ch/fr/politique/)
 * [Tous les thèmes](https://www.watson.ch/fr/u/tag_list)
 
