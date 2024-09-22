@@ -263,7 +263,7 @@ Select State\*AlabamaAlaskaArizonaArkansasCaliforniaColoradoConnecticutDelawareD
 
 Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. They may contact me by email or telephone (including phone calls, text messages, autodialed / auto-selected or pre-recorded calls). I understand that message and data rates may apply and that consent to such contact is not required for use of these services. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), [Anti Fraud Policy](https://www.pintas.com/anti-fraud-policy/)[Anti Fraud Policy](https://www.pintas.com/anti-fraud-policy-pr/) and [online Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/), including its mandatory arbitration provision. I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
 
-Comments
+Phone
 
 This field is for validation purposes and should be left unchanged.
 
@@ -273,17 +273,17 @@ This field is for validation purposes and should be left unchanged.
 
 #### Frequently Asked Questions
 
-[![Is there a blood test for mesothelioma?](https://www.pintas.com/wp-content/uploads/2020/05/lung-cancer-is-there-a-blood-test-for-mesothelioma.jpg "Is There a Blood Test for Mesothelioma?")](https://www.pintas.com/lung-cancer/is-there-a-blood-test-for-mesothelioma/ "Is There a Blood Test for Mesothelioma?")
+[![What is asbestosis disease?](https://www.pintas.com/wp-content/uploads/2020/07/lung-cancer-what-is-asbestosis-disease-scaled.jpg "What Is Asbestosis Disease?")](https://www.pintas.com/practice-areas/lung-cancer/asbestosis "What Is Asbestosis Disease?")
 
-[#### Is There a Blood Test for Mesothelioma?](https://www.pintas.com/lung-cancer/is-there-a-blood-test-for-mesothelioma/)
+[#### What Is Asbestosis Disease?](https://www.pintas.com/practice-areas/lung-cancer/asbestosis)
 
-[![Does gold bond powder contain asbestos?](https://www.pintas.com/wp-content/uploads/2020/07/talcum-powder-does-gold-bond-powder-contain-asbestos-scaled.jpg "Does Gold Bond Powder Contain Asbestos?")](https://www.pintas.com/talcum-powder/does-gold-bond-powder-contain-asbestos/ "Does Gold Bond Powder Contain Asbestos?")
+[![Mormon sexual abuse: why are some in the church protecting sex abuse offenders?](https://www.pintas.com/wp-content/uploads/2023/04/general-mormon-2-300x201.jpg "Mormon Sexual Abuse: Why Are Some in the Church Protecting Sex Abuse Offenders?")](https://www.pintas.com/lawsuit/mormon-church-sex-abuse/why-is-the-mormon-church-protecting-sexual-abuse-offenders/ "Mormon Sexual Abuse: Why Are Some in the Church Protecting Sex Abuse Offenders?")
 
-[#### Does Gold Bond Powder Contain Asbestos?](https://www.pintas.com/talcum-powder/does-gold-bond-powder-contain-asbestos/)
+[#### Mormon Sexual Abuse: Why Are Some in the Church Protecting Sex Abuse Offenders?](https://www.pintas.com/lawsuit/mormon-church-sex-abuse/why-is-the-mormon-church-protecting-sexual-abuse-offenders/)
 
-[![Is roundup safe for home use?](https://www.pintas.com/wp-content/uploads/2020/07/lung-cancer-is-roundup-safe-for-home-use.jpg "Is Roundup Safe for Home Use?")](https://www.pintas.com/lawsuit/roundup-weed-killer/is-roundup-safe-for-home-use/ "Is Roundup Safe for Home Use?")
+[![How many people die from lung cancer every year?](https://www.pintas.com/wp-content/uploads/2020/05/lung-cancer-how-many-people-die-from-lung-cancer-every-year.jpg "How Many People Die From Lung Cancer Every Year?")](https://www.pintas.com/practice-areas/lung-cancer/average-deaths-from-lung-cancer-each-year "How Many People Die From Lung Cancer Every Year?")
 
-[#### Is Roundup Safe for Home Use?](https://www.pintas.com/lawsuit/roundup-weed-killer/is-roundup-safe-for-home-use/)
+[#### How Many People Die From Lung Cancer Every Year?](https://www.pintas.com/practice-areas/lung-cancer/average-deaths-from-lung-cancer-each-year)
 
 ### Injured?  
 Tell Us What Happened.
@@ -306,7 +306,7 @@ message
 
 Yes. Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. They may contact me by email or telephone (including phone calls, text messages, autodialed / auto-selected or pre-recorded calls). I understand that message and data rates may apply and that consent to such contact is not required for use of these services. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/), [Anti Fraud Policy](https://www.pintas.com/anti-fraud-policy/) and [online Terms](https://www.pintas.com/website-terms-of-use/), including its mandatory arbitration provision.
 
-Email
+Phone
 
 This field is for validation purposes and should be left unchanged.
 
