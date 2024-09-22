@@ -259,12 +259,12 @@ Advertise with Us
 
 Most Popular
 
-[![Derry Death Notices -Saturday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices -Saturday")](https://www.derrynow.com/news/deaths/1610380/derry-death-notices-saturday-21st-september-2024.html)
+[![Derry Death Notices - Sunday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Sunday")](https://www.derrynow.com/news/deaths/1610381/derry-death-notices-sunday-22nd-september-2024.html)
 
 [Deaths](https://www.derrynow.com/section/977/deaths)
 
-[Derry Death Notices - Saturday, 21st September 2024](https://www.derrynow.com/news/deaths/1610380/derry-death-notices-saturday-21st-september-2024.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------
+[Derry Death Notices - Sunday, 22nd September 2024](https://www.derrynow.com/news/deaths/1610381/derry-death-notices-sunday-22nd-september-2024.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Foyle Memory Walk to raise funds for Alzheimer's charity](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Foyle Memory Walk to raise funds for Alzheimer's charity")](https://www.derrynow.com/news/local-news/1609940/foyle-memory-walk-to-raise-funds-for-alzheimer-s-charity.html)
 
@@ -272,13 +272,6 @@ Most Popular
 
 [Foyle Memory Walk to raise funds for Alzheimer's charity](https://www.derrynow.com/news/local-news/1609940/foyle-memory-walk-to-raise-funds-for-alzheimer-s-charity.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Orangemen due to parade past nationalist Ardoyne despite residents’ objections](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Orangemen due to parade past nationalist Ardoyne despite residents’ objections")](https://www.derrynow.com/news/northern-ireland/1610566/orangemen-due-to-parade-past-nationalist-ardoyne-despite-residents-objections.html)
-
-[Northern Ireland](https://www.derrynow.com/section/997/cookie-policy)
-
-[Orangemen due to parade past nationalist Ardoyne despite residents’ objections](https://www.derrynow.com/news/northern-ireland/1610566/orangemen-due-to-parade-past-nationalist-ardoyne-despite-residents-objections.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Orangemen parade passes by Ardoyne without incident as residents stage protest](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Orangemen parade passes by Ardoyne without incident as residents stage protest")](https://www.derrynow.com/news/northern-ireland/1610659/orangemen-parade-passes-by-ardoyne-without-incident-as-residents-stage-protest.html)
 
@@ -490,6 +483,13 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
+[![Derry Death Notices - Sunday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Sunday")](https://www.derrynow.com/news/deaths/1610381/derry-death-notices-sunday-22nd-september-2024.html)
+
+[Deaths](https://www.derrynow.com/section/977/deaths)
+
+[Derry Death Notices - Sunday, 22nd September 2024](https://www.derrynow.com/news/deaths/1610381/derry-death-notices-sunday-22nd-september-2024.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
 [![MacD on Music: Three Miles High](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "MacD on Music: Three Miles High")](https://www.derrynow.com/news/what-s-on/1610379/macd-on-music-three-miles-high.html)
 
 [What's On](https://www.derrynow.com/section/1058/what-s-on)
@@ -497,7 +497,7 @@ Advertise with Us
 [MacD on Music: Three Miles High](https://www.derrynow.com/news/what-s-on/1610379/macd-on-music-three-miles-high.html)
 ----------------------------------------------------------------------------------------------------------------------
 
-[![Foyle Memory Walk to raise funds for Alzheimer's charity](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Foyle Memory Walk to raise funds for Alzheimer's charity")](https://www.derrynow.com/news/local-news/1609940/foyle-memory-walk-to-raise-funds-for-alzheimer-s-charity.html)
+[![Foyle Memory Walk to raise funds for Alzheimer's charity](https://www.derrynow.com/resizer/165/93/true/2023_09_15/memory_walk-1694771959550.jpg--.jpg?1694771959628 "Foyle Memory Walk to raise funds for Alzheimer's charity")](https://www.derrynow.com/news/local-news/1609940/foyle-memory-walk-to-raise-funds-for-alzheimer-s-charity.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
 
@@ -526,15 +526,6 @@ Paul McMullan challenges for the ball. Pic by Sportsfile
 
 [Durkan calls for support for Foyle Street Businesses impacted by road closure disruption](https://www.derrynow.com/news/derry-news/1610266/durkan-calls-for-support-for-foyle-street-businesses-impacted-by-road-closure-disruption.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Foyle Embankment](https://www.derrynow.com/resizer/165/93/true/1591220408124.JPG--.JPG?1591220409000 "Foyle Embankment")](https://www.derrynow.com/news/home/1610163/upcoming-road-closures-for-derry.html)
-
-Foyle Embankment
-
-[Home](https://www.derrynow.com/)
-
-[Upcoming Road Closures for Derry](https://www.derrynow.com/news/home/1610163/upcoming-road-closures-for-derry.html)
---------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
