@@ -82,6 +82,46 @@ Getty Images
 
 ### [LATEST](https://www.commdiginews.com/category/latest/)
 
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-oprah-special-220x180.jpg)](https://americanwirenews.com/woman-featured-in-oprah-town-hall-drops-epic-video-explaining-she-does-not-support-kamala/)
+
+[Woman featured in Oprah town hall drops EPIC video explaining she does NOT support Kamala](https://americanwirenews.com/woman-featured-in-oprah-town-hall-drops-epic-video-explaining-she-does-not-support-kamala/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/admin-ajax-1-220x180.jpg)](https://americanwirenews.com/how-democrats-win-tight-elections-gop-lawmaker-in-michigan-exposes-dubious-election-ploy/)
+
+[‘How Democrats win tight elections’: GOP lawmaker in Michigan exposes dubious election ploy](https://americanwirenews.com/how-democrats-win-tight-elections-gop-lawmaker-in-michigan-exposes-dubious-election-ploy/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-trump-billmaher-split-1200-x-628-220x180.jpg)](https://americanwirenews.com/trump-hammers-sloppy-and-tired-bill-maher-over-obsession-with-him/)
+
+[Trump hammers ‘sloppy and tired’ Bill Maher over obsession with him](https://americanwirenews.com/trump-hammers-sloppy-and-tired-bill-maher-over-obsession-with-him/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-fetterman-220x180.png)](https://americanwirenews.com/cornered-on-fracking-fetterman-blurts-out-theyre-eating-dogs-theyre-eating-cats/)
+
+[Cornered on fracking, Fetterman blurts out: ‘They’re eating dogs! They’re eating cats!’](https://americanwirenews.com/cornered-on-fracking-fetterman-blurts-out-theyre-eating-dogs-theyre-eating-cats/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-jackson-harris-220x180.jpg)](https://americanwirenews.com/shes-not-black-janet-jackson-sends-left-into-frenzy-after-questioning-kamalas-race/)
+
+[‘She’s not black’: Janet Jackson sends left into frenzy after questioning Kamala’s race](https://americanwirenews.com/shes-not-black-janet-jackson-sends-left-into-frenzy-after-questioning-kamalas-race/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-walzfourmore-1200-x-628-220x180.jpg)](https://americanwirenews.com/tim-walz-accidentally-serves-up-new-trump-ad-on-silver-platter/)
+
+[Tim Walz accidentally serves up new Trump ad on silver platter](https://americanwirenews.com/tim-walz-accidentally-serves-up-new-trump-ad-on-silver-platter/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-biden-220x180.jpg)](https://americanwirenews.com/whos-next-biden-gets-confused-barks-at-his-staff-during-presser-with-group-of-world-leaders/)
+
+[‘Who’s next!?’ Biden gets confused, barks at his staff during presser with group of world leaders](https://americanwirenews.com/whos-next-biden-gets-confused-barks-at-his-staff-during-presser-with-group-of-world-leaders/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-trump-nsilver-split-1200-x-628-220x180.jpg)](https://americanwirenews.com/dem-polling-guru-advises-folks-to-make-contingency-plans-for-trumps-return/)
+
+[Dem polling guru advises folks to make ‘contingency plans’ for Trump’s return](https://americanwirenews.com/dem-polling-guru-advises-folks-to-make-contingency-plans-for-trumps-return/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-macklemore-220x180.png)](https://americanwirenews.com/so-many-americans-hate-america-concertgoers-in-seattle-roar-when-rapper-says-fck-america/)
+
+[‘So many Americans hate America’: Concertgoers in Seattle roar when rapper says, ‘F\*ck America!’](https://americanwirenews.com/so-many-americans-hate-america-concertgoers-in-seattle-roar-when-rapper-says-fck-america/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-carlson-ritchie-220x180.jpg)](https://americanwirenews.com/kid-rock-gives-tucker-a-hilarious-behind-the-scenes-account-of-trumps-down-to-earth-character/)
+
+[Kid Rock gives Tucker a hilarious behind the scenes account of Trump’s ‘down-to-earth’ character](https://americanwirenews.com/kid-rock-gives-tucker-a-hilarious-behind-the-scenes-account-of-trumps-down-to-earth-character/)
+
 [![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-view-220x180.jpg)](https://americanwirenews.com/ladies-of-the-view-clash-over-melania-trumps-nude-photos-republicans-do-it-plenty-right/)
 
 [Ladies of ‘The View’ clash over Melania Trump’s nude photos: ‘Republicans do it plenty, right?’](https://americanwirenews.com/ladies-of-the-view-clash-over-melania-trumps-nude-photos-republicans-do-it-plenty-right/)
@@ -137,48 +177,6 @@ Getty Images
 [![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-caterpillar-220x180.jpg)](https://americanwirenews.com/major-american-manufacturer-backs-off-destructive-dei-policies-over-risk-of-being-exposed-report/)
 
 [Major American manufacturer backs off destructive DEI policies over risk of being exposed: report](https://americanwirenews.com/major-american-manufacturer-backs-off-destructive-dei-policies-over-risk-of-being-exposed-report/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2022/10/RF-Getty-vote-220x180.jpg)](https://americanwirenews.com/how-many-other-states-need-to-do-this-oklahoma-purges-ineligible-names-from-voter-rolls-and-wow/)
-
-[‘How many other states need to do this?’ Oklahoma purges ineligible names from voter rolls… and, WOW](https://americanwirenews.com/how-many-other-states-need-to-do-this-oklahoma-purges-ineligible-names-from-voter-rolls-and-wow/)
-
-Getty Images
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-faulkner-220x180.jpg)](https://americanwirenews.com/faulkner-crushes-dems-inflation-claim-i-dont-want-you-to-get-confused-with-his-false-talking-points/)
-
-[Faulkner CRUSHES Dem’s inflation claim: ‘I don’t want you to get confused with his false talking points’](https://americanwirenews.com/faulkner-crushes-dems-inflation-claim-i-dont-want-you-to-get-confused-with-his-false-talking-points/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-kirk-220x180.png)](https://americanwirenews.com/young-lefty-is-no-match-for-charlie-kirk-and-vivek-ramaswamy/)
-
-[Young lefty is NO MATCH for Charlie Kirk and Vivek Ramaswamy](https://americanwirenews.com/young-lefty-is-no-match-for-charlie-kirk-and-vivek-ramaswamy/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-uniondale-story-220x180.jpg)](https://americanwirenews.com/emotional-new-yorker-shares-amazing-personal-story-of-trump-family-generosity/)
-
-[Emotional New Yorker shares ‘amazing’ personal story of Trump family generosity](https://americanwirenews.com/emotional-new-yorker-shares-amazing-personal-story-of-trump-family-generosity/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-tucker-220x180.png)](https://americanwirenews.com/tucker-goes-deep-on-trump-golf-course-gunman-and-his-dc-connections/)
-
-[Tucker goes deep on Trump golf course gunman and his DC connections](https://americanwirenews.com/tucker-goes-deep-on-trump-golf-course-gunman-and-his-dc-connections/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-jay-varma-220x180.jpg)](https://americanwirenews.com/nyc-covid-enforcer-admits-he-held-secret-drug-filled-sex-parties-while-city-rubes-were-locked-down-undercover-vid-shows/)
-
-[Undercover: NYC Covid czar admits he had to ‘be sneaky’ about ‘deviant’ stuff he did while rest of city was locked down](https://americanwirenews.com/nyc-covid-enforcer-admits-he-held-secret-drug-filled-sex-parties-while-city-rubes-were-locked-down-undercover-vid-shows/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2023/06/SG-Classroom-1-220x180.jpg)](https://americanwirenews.com/chicago-teachers-say-theyre-being-pressured-to-pass-migrant-children-despite-failing-grades-huge-language-barrier/)
-
-[Chicago teachers say they’re being pressured to pass migrant children despite failing grades, huge language barrier](https://americanwirenews.com/chicago-teachers-say-theyre-being-pressured-to-pass-migrant-children-despite-failing-grades-huge-language-barrier/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-lawrence-jones-220x180.png)](https://americanwirenews.com/energy-workers-in-pennsylvania-say-nobody-believes-kamala-will-not-ban-fracking/)
-
-[Energy workers in Pennsylvania say ‘nobody believes’ Kamala will not ban fracking](https://americanwirenews.com/energy-workers-in-pennsylvania-say-nobody-believes-kamala-will-not-ban-fracking/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2023/12/SG-Chinese-Southern-Border-220x180.jpg)](https://americanwirenews.com/ex-border-patrol-chief-says-biden-admin-forbade-him-from-talking-about-migrants-with-terror-ties/)
-
-[Ex-Border Patrol chief says Biden admin forbade him from talking about migrants with terror ties](https://americanwirenews.com/ex-border-patrol-chief-says-biden-admin-forbade-him-from-talking-about-migrants-with-terror-ties/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-black-panelists-220x180.jpg)](https://americanwirenews.com/economy-just-worked-better-black-swing-state-voters-give-trump-the-clear-edge-over-weak-harris/)
-
-[‘Economy just worked better’: Black swing state voters give Trump the clear edge over ‘weak’ Harris](https://americanwirenews.com/economy-just-worked-better-black-swing-state-voters-give-trump-the-clear-edge-over-weak-harris/)
 
 Start today! **Enjoy the REAL news** at your fingertips. You could be getting the best stories in your inbox twice a day.
 
