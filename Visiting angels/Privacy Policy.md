@@ -260,15 +260,15 @@ Or write to us at: 937 Haverford Road Suite 200, Bryn Mawr PA 19010
 
  related  categories
 
-[How a Home Care Agency Can Help Prevent Falls](https://www.visitingangels.com/knowledge-center/senior-health-and-well-being/how-a-home-care-agency-can-help-prevent-falls/483)
-
-[Activities That Stimulate Your Aging Senior’s Brain](https://www.visitingangels.com/knowledge-center/senior-health-and-well-being/activities-that-stimulate-your-aging-seniors-brain/381)
-
-[Things Change: What to Do When Your Senior Loved One Stops Doing Things They Love](https://www.visitingangels.com/knowledge-center/senior-health-and-well-being/things-change-what-to-do-when-your-senior-loved-one-stops-doing-things-they-love/371)
+[Wake Up Call: What I Saw at My Friend's Mom's Funeral](https://www.visitingangels.com/knowledge-center/preparing-loved-ones/wake-up-call-what-i-saw-at-my-friends-moms-funeral/350)
 
 [How a Professional Caregiver Can Help Manage Your Senior's Medications](https://www.visitingangels.com/knowledge-center/senior-health-and-well-being/how-a-professional-caregiver-can-help-manage-your-seniors-medications/346)
 
-[Why Your Dad Can’t Take Care of Mom Alone](https://www.visitingangels.com/knowledge-center/care-options/why-your-dad-cant-take-care-of-mom-alone/320)
+[Uprooting an Aging Loved One: What to Know](https://www.visitingangels.com/knowledge-center/selecting-care/uprooting-an-aging-loved-one-what-to-know/337)
+
+[Is it Too Early to Start In-Home Senior Care?](https://www.visitingangels.com/knowledge-center/why-in-home-care/is-it-too-early-to-start-in-home-senior-care/289)
+
+[Memory Care Study Links Colorful Vegetables to Healthier Minds](https://www.visitingangels.com/knowledge-center/senior-health-and-well-being/memory-care-study-links-colorful-vegetables-to-healthier-minds/114)
 
 * [Care Options](https://www.visitingangels.com/knowledge-center/care-options)
 * [Selecting Care](https://www.visitingangels.com/knowledge-center/selecting-care)
