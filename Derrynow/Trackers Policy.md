@@ -56,7 +56,7 @@ Search
 
 [![Home](images/logos/21/logo_white.jpg?v=1696508508227 "Home")](https://www.derrynow.com/)
 
-21 Sept 2024
+22 Sept 2024
 
 * [Home
     
@@ -266,22 +266,6 @@ Most Popular
 [Derry Death Notices - Saturday, 21st September 2024](https://www.derrynow.com/news/deaths/1610380/derry-death-notices-saturday-21st-september-2024.html)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Derry City](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry City")](https://www.derrynow.com/news/derry-sport/1610515/late-drama-at-the-brandywell-as-pat-hoban-rescues-derry-city-from-the-penalty-spot.html)
-
-Paul McMullan challenges for the ball. Pic by Sportsfile
-
-[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
-
-[Late drama at the Brandywell as Pat Hoban rescues Derry City from the penalty spot](https://www.derrynow.com/news/derry-sport/1610515/late-drama-at-the-brandywell-as-pat-hoban-rescues-derry-city-from-the-penalty-spot.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Durkan calls for support for Foyle Street Businesses impacted by road closure disruption](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Durkan calls for support for Foyle Street Businesses impacted by road closure disruption")](https://www.derrynow.com/news/derry-news/1610266/durkan-calls-for-support-for-foyle-street-businesses-impacted-by-road-closure-disruption.html)
-
-[Derry News](https://www.derrynow.com/section/999/derry-news)
-
-[Durkan calls for support for Foyle Street Businesses impacted by road closure disruption](https://www.derrynow.com/news/derry-news/1610266/durkan-calls-for-support-for-foyle-street-businesses-impacted-by-road-closure-disruption.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 [![Foyle Memory Walk to raise funds for Alzheimer's charity](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Foyle Memory Walk to raise funds for Alzheimer's charity")](https://www.derrynow.com/news/local-news/1609940/foyle-memory-walk-to-raise-funds-for-alzheimer-s-charity.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
@@ -303,6 +287,13 @@ Paul McMullan challenges for the ball. Pic by Sportsfile
 [Orangemen parade passes by Ardoyne without incident as residents stage protest](https://www.derrynow.com/news/northern-ireland/1610659/orangemen-parade-passes-by-ardoyne-without-incident-as-residents-stage-protest.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+[![Gavin Robinson hits out at Labour Government in speech to DUP conference](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Gavin Robinson hits out at Labour Government in speech to DUP conference")](https://www.derrynow.com/news/northern-ireland/1610737/gavin-robinson-hits-out-at-labour-government-in-speech-to-dup-conference.html)
+
+[Northern Ireland](https://www.derrynow.com/section/997/cookie-policy)
+
+[Gavin Robinson hits out at Labour Government in speech to DUP conference](https://www.derrynow.com/news/northern-ireland/1610737/gavin-robinson-hits-out-at-labour-government-in-speech-to-dup-conference.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 [![MacD on Music: Three Miles High](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "MacD on Music: Three Miles High")](https://www.derrynow.com/news/what-s-on/1610379/macd-on-music-three-miles-high.html)
 
 [What's On](https://www.derrynow.com/section/1058/what-s-on)
@@ -316,13 +307,6 @@ Paul McMullan challenges for the ball. Pic by Sportsfile
 
 [Police investigate arson at commercial yard in Co Down](https://www.derrynow.com/news/northern-ireland/1610684/police-investigate-arson-at-commercial-yard-in-co-down.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Gavin Robinson hits out at Labour Government in speech to DUP conference](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Gavin Robinson hits out at Labour Government in speech to DUP conference")](https://www.derrynow.com/news/northern-ireland/1610737/gavin-robinson-hits-out-at-labour-government-in-speech-to-dup-conference.html)
-
-[Northern Ireland](https://www.derrynow.com/section/997/cookie-policy)
-
-[Gavin Robinson hits out at Labour Government in speech to DUP conference](https://www.derrynow.com/news/northern-ireland/1610737/gavin-robinson-hits-out-at-labour-government-in-speech-to-dup-conference.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
