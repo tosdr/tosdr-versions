@@ -818,12 +818,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Leserfall: Wenn Paypal ein Kunden­konto einfriert](https://www.test.de/Leserfall-Wenn-Paypal-ein-Kundenkonto-einfriert-5955274-0/ "Leserfall - Wenn Paypal ein Kundenkonto einfriert")
-* [Donuts im Test: Wo es die besten Donuts gibt](https://www.test.de/donuts-im-test-5952659-0/ "Donuts im Test - Wo es die besten Donuts gibt")
-* [110 Kinder-Cerealien im Nähr­wert-Check: Zucker­alarm zum Frühstück](https://www.test.de/110-Kinder-Cerealien-im-Naehrwert-Check-Zuckeralarm-zum-Fruehstueck-6001101-0/ "110 Kinder-Cerealien im Nährwert-Check - Zuckeralarm zum Frühstück")
-* [Neue Betrugs­masche: Angeblich Geld vom Anwalt](https://www.test.de/Neue-Betrugsmasche-Angeblich-Geld-vom-Anwalt-6045004-0/ "Neue Betrugsmasche - Angeblich Geld vom Anwalt")
-* [Privat­insolvenz: Schufa verkürzt Speicher­frist](https://www.test.de/Privatinsolvenz-Schufa-verkuerzt-Speicherfrist-5987125-0/ "Privatinsolvenz - Schufa verkürzt Speicherfrist")
-* [Daten­handel: Portal Finanzen.de verliert vor Gericht](https://www.test.de/Datenhandel-Portal-Finanzende-verliert-vor-Gericht-6010877-0/ "Datenhandel - Portal Finanzen.de verliert vor Gericht")
+* [Cookies: Banner-Blocker einer Verbraucherzentrale](https://www.test.de/Cookies-Banner-Blocker-einer-Verbraucherzentrale-5936842-0/ "Cookies - Banner-Blocker einer Verbraucherzentrale")
+* [Riskante Geld­anlagen: Widerruf kann lange möglich sein](https://www.test.de/Riskante-Geldanlagen-Widerruf-kann-lange-moeglich-sein-6126435-0/ "Riskante Geldanlagen - Widerruf kann lange möglich sein")
+* [TV-Einrichtungs­service im Test: Anschluss gesucht](https://www.test.de/TV-Einrichtungsservice-im-Test-Anschluss-gesucht-6030987-0/ "TV-Einrichtungsservice im Test - Anschluss gesucht")
+* [Drucker: Aus für HP-Laser mit Online-Zwang](https://www.test.de/Drucker-Aus-fuer-HP-Laser-mit-Online-Zwang-6136003-0/ "Drucker - Aus für HP-Laser mit Online-Zwang")
+* [Falscher Online-Broker: Vorsicht vor pridefx.org](https://www.test.de/Falscher-Online-Broker-Vorsicht-vor-pridefxorg-6088390-0/ "Falscher Online-Broker - Vorsicht vor pridefx.org")
+* [Internet-Geschwindig­keit: Geld zurück mit amtlicher Mess-App](https://www.test.de/Internet-Geschwindigkeit-Geld-zurueck-mit-amtlicher-Mess-App-6027422-0/ "Internet-Geschwindigkeit - Geld zurück mit amtlicher Mess-App")
 
 Fußbereich
 
@@ -3863,12 +3863,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Leserfall: Wenn Paypal ein Kunden­konto einfriert](https://www.test.de/Leserfall-Wenn-Paypal-ein-Kundenkonto-einfriert-5955274-0/ "Leserfall - Wenn Paypal ein Kundenkonto einfriert")
-* [Donuts im Test: Wo es die besten Donuts gibt](https://www.test.de/donuts-im-test-5952659-0/ "Donuts im Test - Wo es die besten Donuts gibt")
-* [110 Kinder-Cerealien im Nähr­wert-Check: Zucker­alarm zum Frühstück](https://www.test.de/110-Kinder-Cerealien-im-Naehrwert-Check-Zuckeralarm-zum-Fruehstueck-6001101-0/ "110 Kinder-Cerealien im Nährwert-Check - Zuckeralarm zum Frühstück")
-* [Neue Betrugs­masche: Angeblich Geld vom Anwalt](https://www.test.de/Neue-Betrugsmasche-Angeblich-Geld-vom-Anwalt-6045004-0/ "Neue Betrugsmasche - Angeblich Geld vom Anwalt")
-* [Privat­insolvenz: Schufa verkürzt Speicher­frist](https://www.test.de/Privatinsolvenz-Schufa-verkuerzt-Speicherfrist-5987125-0/ "Privatinsolvenz - Schufa verkürzt Speicherfrist")
-* [Daten­handel: Portal Finanzen.de verliert vor Gericht](https://www.test.de/Datenhandel-Portal-Finanzende-verliert-vor-Gericht-6010877-0/ "Datenhandel - Portal Finanzen.de verliert vor Gericht")
+* [Cookies: Banner-Blocker einer Verbraucherzentrale](https://www.test.de/Cookies-Banner-Blocker-einer-Verbraucherzentrale-5936842-0/ "Cookies - Banner-Blocker einer Verbraucherzentrale")
+* [Riskante Geld­anlagen: Widerruf kann lange möglich sein](https://www.test.de/Riskante-Geldanlagen-Widerruf-kann-lange-moeglich-sein-6126435-0/ "Riskante Geldanlagen - Widerruf kann lange möglich sein")
+* [TV-Einrichtungs­service im Test: Anschluss gesucht](https://www.test.de/TV-Einrichtungsservice-im-Test-Anschluss-gesucht-6030987-0/ "TV-Einrichtungsservice im Test - Anschluss gesucht")
+* [Drucker: Aus für HP-Laser mit Online-Zwang](https://www.test.de/Drucker-Aus-fuer-HP-Laser-mit-Online-Zwang-6136003-0/ "Drucker - Aus für HP-Laser mit Online-Zwang")
+* [Falscher Online-Broker: Vorsicht vor pridefx.org](https://www.test.de/Falscher-Online-Broker-Vorsicht-vor-pridefxorg-6088390-0/ "Falscher Online-Broker - Vorsicht vor pridefx.org")
+* [Internet-Geschwindig­keit: Geld zurück mit amtlicher Mess-App](https://www.test.de/Internet-Geschwindigkeit-Geld-zurueck-mit-amtlicher-Mess-App-6027422-0/ "Internet-Geschwindigkeit - Geld zurück mit amtlicher Mess-App")
 
 Weitere spannende Themen
 
@@ -3883,12 +3883,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Leserfall: Wenn Paypal ein Kunden­konto einfriert](https://www.test.de/Leserfall-Wenn-Paypal-ein-Kundenkonto-einfriert-5955274-0/ "Leserfall - Wenn Paypal ein Kundenkonto einfriert")
-* [Donuts im Test: Wo es die besten Donuts gibt](https://www.test.de/donuts-im-test-5952659-0/ "Donuts im Test - Wo es die besten Donuts gibt")
-* [110 Kinder-Cerealien im Nähr­wert-Check: Zucker­alarm zum Frühstück](https://www.test.de/110-Kinder-Cerealien-im-Naehrwert-Check-Zuckeralarm-zum-Fruehstueck-6001101-0/ "110 Kinder-Cerealien im Nährwert-Check - Zuckeralarm zum Frühstück")
-* [Neue Betrugs­masche: Angeblich Geld vom Anwalt](https://www.test.de/Neue-Betrugsmasche-Angeblich-Geld-vom-Anwalt-6045004-0/ "Neue Betrugsmasche - Angeblich Geld vom Anwalt")
-* [Privat­insolvenz: Schufa verkürzt Speicher­frist](https://www.test.de/Privatinsolvenz-Schufa-verkuerzt-Speicherfrist-5987125-0/ "Privatinsolvenz - Schufa verkürzt Speicherfrist")
-* [Daten­handel: Portal Finanzen.de verliert vor Gericht](https://www.test.de/Datenhandel-Portal-Finanzende-verliert-vor-Gericht-6010877-0/ "Datenhandel - Portal Finanzen.de verliert vor Gericht")
+* [Cookies: Banner-Blocker einer Verbraucherzentrale](https://www.test.de/Cookies-Banner-Blocker-einer-Verbraucherzentrale-5936842-0/ "Cookies - Banner-Blocker einer Verbraucherzentrale")
+* [Riskante Geld­anlagen: Widerruf kann lange möglich sein](https://www.test.de/Riskante-Geldanlagen-Widerruf-kann-lange-moeglich-sein-6126435-0/ "Riskante Geldanlagen - Widerruf kann lange möglich sein")
+* [TV-Einrichtungs­service im Test: Anschluss gesucht](https://www.test.de/TV-Einrichtungsservice-im-Test-Anschluss-gesucht-6030987-0/ "TV-Einrichtungsservice im Test - Anschluss gesucht")
+* [Drucker: Aus für HP-Laser mit Online-Zwang](https://www.test.de/Drucker-Aus-fuer-HP-Laser-mit-Online-Zwang-6136003-0/ "Drucker - Aus für HP-Laser mit Online-Zwang")
+* [Falscher Online-Broker: Vorsicht vor pridefx.org](https://www.test.de/Falscher-Online-Broker-Vorsicht-vor-pridefxorg-6088390-0/ "Falscher Online-Broker - Vorsicht vor pridefx.org")
+* [Internet-Geschwindig­keit: Geld zurück mit amtlicher Mess-App](https://www.test.de/Internet-Geschwindigkeit-Geld-zurueck-mit-amtlicher-Mess-App-6027422-0/ "Internet-Geschwindigkeit - Geld zurück mit amtlicher Mess-App")
 
 Neueste Tests
 
@@ -3901,12 +3901,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Leserfall: Wenn Paypal ein Kunden­konto einfriert](https://www.test.de/Leserfall-Wenn-Paypal-ein-Kundenkonto-einfriert-5955274-0/ "Leserfall - Wenn Paypal ein Kundenkonto einfriert")
-* [Donuts im Test: Wo es die besten Donuts gibt](https://www.test.de/donuts-im-test-5952659-0/ "Donuts im Test - Wo es die besten Donuts gibt")
-* [110 Kinder-Cerealien im Nähr­wert-Check: Zucker­alarm zum Frühstück](https://www.test.de/110-Kinder-Cerealien-im-Naehrwert-Check-Zuckeralarm-zum-Fruehstueck-6001101-0/ "110 Kinder-Cerealien im Nährwert-Check - Zuckeralarm zum Frühstück")
-* [Neue Betrugs­masche: Angeblich Geld vom Anwalt](https://www.test.de/Neue-Betrugsmasche-Angeblich-Geld-vom-Anwalt-6045004-0/ "Neue Betrugsmasche - Angeblich Geld vom Anwalt")
-* [Privat­insolvenz: Schufa verkürzt Speicher­frist](https://www.test.de/Privatinsolvenz-Schufa-verkuerzt-Speicherfrist-5987125-0/ "Privatinsolvenz - Schufa verkürzt Speicherfrist")
-* [Daten­handel: Portal Finanzen.de verliert vor Gericht](https://www.test.de/Datenhandel-Portal-Finanzende-verliert-vor-Gericht-6010877-0/ "Datenhandel - Portal Finanzen.de verliert vor Gericht")
+* [Cookies: Banner-Blocker einer Verbraucherzentrale](https://www.test.de/Cookies-Banner-Blocker-einer-Verbraucherzentrale-5936842-0/ "Cookies - Banner-Blocker einer Verbraucherzentrale")
+* [Riskante Geld­anlagen: Widerruf kann lange möglich sein](https://www.test.de/Riskante-Geldanlagen-Widerruf-kann-lange-moeglich-sein-6126435-0/ "Riskante Geldanlagen - Widerruf kann lange möglich sein")
+* [TV-Einrichtungs­service im Test: Anschluss gesucht](https://www.test.de/TV-Einrichtungsservice-im-Test-Anschluss-gesucht-6030987-0/ "TV-Einrichtungsservice im Test - Anschluss gesucht")
+* [Drucker: Aus für HP-Laser mit Online-Zwang](https://www.test.de/Drucker-Aus-fuer-HP-Laser-mit-Online-Zwang-6136003-0/ "Drucker - Aus für HP-Laser mit Online-Zwang")
+* [Falscher Online-Broker: Vorsicht vor pridefx.org](https://www.test.de/Falscher-Online-Broker-Vorsicht-vor-pridefxorg-6088390-0/ "Falscher Online-Broker - Vorsicht vor pridefx.org")
+* [Internet-Geschwindig­keit: Geld zurück mit amtlicher Mess-App](https://www.test.de/Internet-Geschwindigkeit-Geld-zurueck-mit-amtlicher-Mess-App-6027422-0/ "Internet-Geschwindigkeit - Geld zurück mit amtlicher Mess-App")
 
 Service Stiftung Warentest
 
