@@ -7,7 +7,7 @@
 | --- | --- |
 |     | [Рецепты](https://www.russianfood.com/recipes/) [Статьи](https://www.russianfood.com/reading/clauses/) [Наша Кухня](https://www.russianfood.com/blogs/) [Супер Поиск](https://www.russianfood.com/search/) [Рассылки](https://www.russianfood.com/subscribe/) |
 
-[![](//img1.russianfood.com/images/recipes/recipe_add_btn_4.gif)](https://www.russianfood.com/recipes/recipeadd.php)
+[![](//img1.russianfood.com/images/recipes/recipe_add_btn_6.gif)](https://www.russianfood.com/recipes/recipeadd.php)
 
 [Добавить  
 рецепт](https://www.russianfood.com/recipes/recipeadd.php)
@@ -145,10 +145,6 @@
 |     |     |
 | [Картинки с выставок](https://www.russianfood.com/themes/?theme_id=18) | 4,98 |
 | Репортажи с выставок производителей продуктов питания. Рассказы о продукции известных и еще неизвестных брендов |     |
-
-Сейчас читают
-
-* [Чечевица "На счастье!"](https://www.russianfood.com/recipes/recipe.php?rid=125656)
 
 |     |
 | --- |
@@ -337,7 +333,7 @@
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [Sve4kaSV](https://www.russianfood.com/blogs/?id=217903) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174378#comments) | 19.09.24 |     |
+|     | [Sve4kaSV](https://www.russianfood.com/blogs/?id=217903) | _![](/images/blank.gif)_1 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174378#comments) | 19.09.24 |     |
 
 |     |     |
 | --- | --- |
@@ -450,10 +446,10 @@
 
 Новые рецепты:
 
-|     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- |
-| [![](//img1.russianfood.com/dycontent/images_upl/740/alt1_739890.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=173459) | [![](//img1.russianfood.com/dycontent/images_upl/740/alt1_739896.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174378) | [![](//img1.russianfood.com/dycontent/images_upl/740/alt1_739378.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174200) | [![](//img1.russianfood.com/dycontent/images_upl/740/alt1_739353.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174136) | [![](//img1.russianfood.com/dycontent/images_upl/740/alt1_739860.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174367) | [![](//img1.russianfood.com/dycontent/images_upl/738/alt1_737034.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=173525) |
-| [Томатный суп с курицей, фасолью и шпинатом](https://www.russianfood.com/recipes/recipe.php?rid=173459) | [Рыба в сметанно-грибном соусе, в микроволновке](https://www.russianfood.com/recipes/recipe.php?rid=174378) | [Суп со стручковой фасолью, сельдереем и беконом](https://www.russianfood.com/recipes/recipe.php?rid=174200) | [Сырный суп с кабачками, помидорами и кукурузой](https://www.russianfood.com/recipes/recipe.php?rid=174136) | [Тыква, запечённая с картошкой, перцем и грибами](https://www.russianfood.com/recipes/recipe.php?rid=174367) | [Сырный суп с клецками из кабачка](https://www.russianfood.com/recipes/recipe.php?rid=173525) |
+|     |     |     |
+| --- | --- | --- |
+| [![](//img1.russianfood.com/dycontent/images_upl/740/alt1_739890.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=173459) | [![](//img1.russianfood.com/dycontent/images_upl/740/alt1_739353.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174136) | [![](//img1.russianfood.com/dycontent/images_upl/740/alt1_739378.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174200) |
+| [Томатный суп с курицей, фасолью и шпинатом](https://www.russianfood.com/recipes/recipe.php?rid=173459) | [Сырный суп с кабачками, помидорами и кукурузой](https://www.russianfood.com/recipes/recipe.php?rid=174136) | [Суп со стручковой фасолью, сельдереем и беконом](https://www.russianfood.com/recipes/recipe.php?rid=174200) |
 
 |     |     |     |
 | --- | --- | --- |
@@ -470,4 +466,4 @@
 
 Этот сайт использует файлы cookie, чтобы предоставить вам наилучший сервис. Оставаясь на сайте, вы соглашаетесь с [политикой сайта по обработке персональных данных](https://www.russianfood.com/blogs/?post_id=13800).СОГЛАСЕН
 
-(97)
+(109)
