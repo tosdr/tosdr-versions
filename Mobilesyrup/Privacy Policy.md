@@ -16,6 +16,18 @@
 
 * [SyrupArcade](https://mobilesyrup.com/categories/gaming/)
     
+    [](https://mobilesyrup.com/2024/09/22/gamesir-g8-plus-foldable/)
+    
+    Sep 22, 2024 | 11:03 AM EDT
+    
+    ### [The GameSir G8 Plus is great to use with my Pixel 9 Pro Fold](https://mobilesyrup.com/2024/09/22/gamesir-g8-plus-foldable/)
+    
+    [](https://mobilesyrup.com/2024/09/20/netflix-games-civilization-vi-street-fighter-iv/)
+    
+    Sep 20, 2024 | 4:37 PM EDT
+    
+    ### [Netflix Games adds Civilization VI, Street Fighter IV and more](https://mobilesyrup.com/2024/09/20/netflix-games-civilization-vi-street-fighter-iv/)
+    
     [](https://mobilesyrup.com/2024/09/19/nintendo-the-pokemon-company-palworld-developer-pocketpair-lawsuit/)
     
     Sep 19, 2024 | 4:08 PM EDT
@@ -40,19 +52,19 @@
     
     ### [Nintendo Switch 2 alleged leak shows 8-inch screen and magnetic Joy-Cons](https://mobilesyrup.com/2024/09/18/nintendo-switch-2-alleged-leak/)
     
-    [](https://mobilesyrup.com/2024/09/17/xbox-game-pass-console-cloud-pc-new-games-september-2024-wave-2/)
-    
-    Sep 17, 2024 | 7:06 PM EDT
-    
-    ### [New on Xbox Game Pass on console, cloud and PC in September 2024 \[Wave 2\]](https://mobilesyrup.com/2024/09/17/xbox-game-pass-console-cloud-pc-new-games-september-2024-wave-2/)
-    
-    [](https://mobilesyrup.com/2024/09/17/amazon-ea-margot-robbie-the-sims-movie/)
-    
-    Sep 17, 2024 | 4:31 PM EDT
-    
-    ### [Amazon teams up with Margot Robbie on movie based on EA’s The Sims games](https://mobilesyrup.com/2024/09/17/amazon-ea-margot-robbie-the-sims-movie/)
-    
     * [Gaming](https://mobilesyrup.com/categories/gaming/)
+        
+        [](https://mobilesyrup.com/2024/09/22/gamesir-g8-plus-foldable/)
+        
+        Sep 22, 2024 | 11:03 AM EDT
+        
+        ### [The GameSir G8 Plus is great to use with my Pixel 9 Pro Fold](https://mobilesyrup.com/2024/09/22/gamesir-g8-plus-foldable/)
+        
+        [](https://mobilesyrup.com/2024/09/20/netflix-games-civilization-vi-street-fighter-iv/)
+        
+        Sep 20, 2024 | 4:37 PM EDT
+        
+        ### [Netflix Games adds Civilization VI, Street Fighter IV and more](https://mobilesyrup.com/2024/09/20/netflix-games-civilization-vi-street-fighter-iv/)
         
         [](https://mobilesyrup.com/2024/09/19/nintendo-the-pokemon-company-palworld-developer-pocketpair-lawsuit/)
         
@@ -78,56 +90,44 @@
         
         ### [Nintendo Switch 2 alleged leak shows 8-inch screen and magnetic Joy-Cons](https://mobilesyrup.com/2024/09/18/nintendo-switch-2-alleged-leak/)
         
-        [](https://mobilesyrup.com/2024/09/17/xbox-game-pass-console-cloud-pc-new-games-september-2024-wave-2/)
-        
-        Sep 17, 2024 | 7:06 PM EDT
-        
-        ### [New on Xbox Game Pass on console, cloud and PC in September 2024 \[Wave 2\]](https://mobilesyrup.com/2024/09/17/xbox-game-pass-console-cloud-pc-new-games-september-2024-wave-2/)
-        
-        [](https://mobilesyrup.com/2024/09/17/amazon-ea-margot-robbie-the-sims-movie/)
-        
-        Sep 17, 2024 | 4:31 PM EDT
-        
-        ### [Amazon teams up with Margot Robbie on movie based on EA’s The Sims games](https://mobilesyrup.com/2024/09/17/amazon-ea-margot-robbie-the-sims-movie/)
-        
     
 * [News](https://mobilesyrup.com/categories/news/)
     
-    [](https://mobilesyrup.com/2024/09/19/iphone-16-vs-15-battery-life-comparison/)
+    [](https://mobilesyrup.com/2024/09/20/netflix-games-civilization-vi-street-fighter-iv/)
     
-    Sep 19, 2024 | 4:48 PM EDT
+    Sep 20, 2024 | 4:37 PM EDT
     
-    ### [Here’s how the iPhone 16 series battery holds up compared to iPhone 15](https://mobilesyrup.com/2024/09/19/iphone-16-vs-15-battery-life-comparison/)
+    ### [Netflix Games adds Civilization VI, Street Fighter IV and more](https://mobilesyrup.com/2024/09/20/netflix-games-civilization-vi-street-fighter-iv/)
     
-    [](https://mobilesyrup.com/2024/09/19/mrbeast-amazon-sued-contestants-beast-games-series/)
+    [](https://mobilesyrup.com/2024/09/20/huawei-tri-folding-global-markets-q1/)
     
-    Sep 19, 2024 | 4:33 PM EDT
+    Sep 20, 2024 | 3:34 PM EDT
     
-    ### [MrBeast and Amazon sued by contestants over Beast Games series](https://mobilesyrup.com/2024/09/19/mrbeast-amazon-sued-contestants-beast-games-series/)
+    ### [Huawei’s tri-folding phone launches in global markets in Q1 2025: report](https://mobilesyrup.com/2024/09/20/huawei-tri-folding-global-markets-q1/)
     
-    [](https://mobilesyrup.com/2024/09/19/nintendo-the-pokemon-company-palworld-developer-pocketpair-lawsuit/)
+    [](https://mobilesyrup.com/2024/09/20/google-pixel-buds-assistant-read-notifications-removal/)
     
-    Sep 19, 2024 | 4:08 PM EDT
+    Sep 20, 2024 | 2:34 PM EDT
     
-    ### [Nintendo and The Pokémon Company have finally sued Palworld developer Pocketpair](https://mobilesyrup.com/2024/09/19/nintendo-the-pokemon-company-palworld-developer-pocketpair-lawsuit/)
+    ### [Google scraps Pixel Buds’ shortcut to make Assistant read notifications](https://mobilesyrup.com/2024/09/20/google-pixel-buds-assistant-read-notifications-removal/)
     
-    [](https://mobilesyrup.com/2024/09/19/android-15-rolling-out-october-15/)
+    [](https://mobilesyrup.com/2024/09/20/netflix-arcane-november-final-season-staggered-release/)
     
-    Sep 19, 2024 | 3:44 PM EDT
+    Sep 20, 2024 | 1:33 PM EDT
     
-    ### [Another rumour points to Android 15 rolling out on October 15](https://mobilesyrup.com/2024/09/19/android-15-rolling-out-october-15/)
+    ### [Arcane’s final season gets staggered release on Netflix in November](https://mobilesyrup.com/2024/09/20/netflix-arcane-november-final-season-staggered-release/)
     
-    [](https://mobilesyrup.com/2024/09/19/playstation-30th-anniversary-collection-ps5-hardware/)
+    [](https://mobilesyrup.com/2024/09/20/ios-18-1-public-beta-now-available-apple-intelligence/)
     
-    Sep 19, 2024 | 1:51 PM EDT
+    Sep 20, 2024 | 12:34 PM EDT
     
-    ### [PlayStation reveals special 30th Anniversary Collection of PS5 hardware](https://mobilesyrup.com/2024/09/19/playstation-30th-anniversary-collection-ps5-hardware/)
+    ### [iOS 18.1 public beta now available with some Apple Intelligence features](https://mobilesyrup.com/2024/09/20/ios-18-1-public-beta-now-available-apple-intelligence/)
     
-    [](https://mobilesyrup.com/2024/09/19/psa-watch-out-for-phishing-scam-texts-rogers/)
+    [](https://mobilesyrup.com/2024/09/20/28-years-later-shot-on-iphone-15-pro-report/)
     
-    Sep 19, 2024 | 12:53 PM EDT
+    Sep 20, 2024 | 11:36 AM EDT
     
-    ### [PSA: Watch out for 2FA phishing texts pretending to be from Rogers](https://mobilesyrup.com/2024/09/19/psa-watch-out-for-phishing-scam-texts-rogers/)
+    ### [28 Years Later will be the biggest movie ever shot on iPhone: report](https://mobilesyrup.com/2024/09/20/28-years-later-shot-on-iphone-15-pro-report/)
     
     * [Carriers](https://mobilesyrup.com/categories/news/news-carriers/)
         
@@ -169,6 +169,18 @@
         
     * [Smartphones](https://mobilesyrup.com/categories/news/news-smartphones/)
         
+        [](https://mobilesyrup.com/2024/09/20/huawei-tri-folding-global-markets-q1/)
+        
+        Sep 20, 2024 | 3:34 PM EDT
+        
+        ### [Huawei’s tri-folding phone launches in global markets in Q1 2025: report](https://mobilesyrup.com/2024/09/20/huawei-tri-folding-global-markets-q1/)
+        
+        [](https://mobilesyrup.com/2024/09/20/28-years-later-shot-on-iphone-15-pro-report/)
+        
+        Sep 20, 2024 | 11:36 AM EDT
+        
+        ### [28 Years Later will be the biggest movie ever shot on iPhone: report](https://mobilesyrup.com/2024/09/20/28-years-later-shot-on-iphone-15-pro-report/)
+        
         [](https://mobilesyrup.com/2024/09/19/iphone-16-vs-15-battery-life-comparison/)
         
         Sep 19, 2024 | 4:48 PM EDT
@@ -192,18 +204,6 @@
         Sep 17, 2024 | 1:16 PM EDT
         
         ### [Google Pixel 10 codenames have already surfaced online](https://mobilesyrup.com/2024/09/17/pixel-10-codenames/)
-        
-        [](https://mobilesyrup.com/2024/09/13/pre-orders-live-iphone-16-and-16-pro-series-canada/)
-        
-        Sep 13, 2024 | 12:05 PM EDT
-        
-        ### [Pre-orders are live for the iPhone 16 and 16 Pro series](https://mobilesyrup.com/2024/09/13/pre-orders-live-iphone-16-and-16-pro-series-canada/)
-        
-        [](https://mobilesyrup.com/2024/09/12/genmoji-december-canada-ios18/)
-        
-        Sep 12, 2024 | 1:42 PM EDT
-        
-        ### [Genmoji expected to launch in Canada in December alongside iOS 18.2](https://mobilesyrup.com/2024/09/12/genmoji-december-canada-ios18/)
         
     * [Tablets & Computers](https://mobilesyrup.com/categories/news/news-tablets/)
         
@@ -245,6 +245,12 @@
         
     * [Apps & Software](https://mobilesyrup.com/categories/news/news-apps-software/)
         
+        [](https://mobilesyrup.com/2024/09/20/ios-18-1-public-beta-now-available-apple-intelligence/)
+        
+        Sep 20, 2024 | 12:34 PM EDT
+        
+        ### [iOS 18.1 public beta now available with some Apple Intelligence features](https://mobilesyrup.com/2024/09/20/ios-18-1-public-beta-now-available-apple-intelligence/)
+        
         [](https://mobilesyrup.com/2024/09/18/telus-smartenergy-subscription-save-energy-bills/)
         
         Sep 18, 2024 | 4:40 PM EDT
@@ -274,12 +280,6 @@
         Sep 12, 2024 | 4:42 PM EDT
         
         ### [Google experimenting with using app icons for notifications in Android 15](https://mobilesyrup.com/2024/09/12/google-experiment-app-icon-notifications-android-15/)
-        
-        [](https://mobilesyrup.com/2024/09/10/seneca-onecard-apple-wallet/)
-        
-        Sep 10, 2024 | 4:03 PM EDT
-        
-        ### [Seneca students can now add their OneCard to Apple Wallet](https://mobilesyrup.com/2024/09/10/seneca-onecard-apple-wallet/)
         
     * [Smart Home](https://mobilesyrup.com/categories/news/news-smart-home/)
         
@@ -321,6 +321,12 @@
         
     * [Automotive](https://mobilesyrup.com/categories/news/news-automotive/)
         
+        [](https://mobilesyrup.com/2024/09/20/solid-state-battery-prototype-increased-energy-density/)
+        
+        Sep 20, 2024 | 10:19 AM EDT
+        
+        ### [Prototype solid-state battery ups energy density almost 25 percent compared to lithium-ion](https://mobilesyrup.com/2024/09/20/solid-state-battery-prototype-increased-energy-density/)
+        
         [](https://mobilesyrup.com/2024/09/06/upcoming-android-auto-update-play-music-local-storage-radio/)
         
         Sep 6, 2024 | 4:03 PM EDT
@@ -351,13 +357,13 @@
         
         ### [Ford no longer making EVs in Oakville, transitions to trucks instead](https://mobilesyrup.com/2024/07/18/ford-ev-oakville-factory-trucks/)
         
-        [](https://mobilesyrup.com/2024/07/16/reduced-auto-theft-canada-first-half-2024-report/)
-        
-        Jul 16, 2024 | 6:02 PM EDT
-        
-        ### [Auto theft dropped 17 percent in Canada in the first half of 2024](https://mobilesyrup.com/2024/07/16/reduced-auto-theft-canada-first-half-2024-report/)
-        
     * [Accessories](https://mobilesyrup.com/categories/news/news-accessories/)
+        
+        [](https://mobilesyrup.com/2024/09/20/google-pixel-buds-assistant-read-notifications-removal/)
+        
+        Sep 20, 2024 | 2:34 PM EDT
+        
+        ### [Google scraps Pixel Buds’ shortcut to make Assistant read notifications](https://mobilesyrup.com/2024/09/20/google-pixel-buds-assistant-read-notifications-removal/)
         
         [](https://mobilesyrup.com/2024/09/13/psa-41mm-pixel-watch-bands-wont-work-with-the-45mm-pixel-watch-3/)
         
@@ -389,13 +395,13 @@
         
         ### [It sure sounds like Fitbit is done making smartwatches](https://mobilesyrup.com/2024/08/20/fitbit-done-making-smartwatches/)
         
-        [](https://mobilesyrup.com/2024/08/14/google-45w-charger-pixel-phones/)
-        
-        Aug 14, 2024 | 5:02 PM EDT
-        
-        ### [Google has a new 45W charger, but Pixel phones can’t fully use it](https://mobilesyrup.com/2024/08/14/google-45w-charger-pixel-phones/)
-        
     * [Streaming](https://mobilesyrup.com/categories/news/news-streaming/)
+        
+        [](https://mobilesyrup.com/2024/09/20/netflix-arcane-november-final-season-staggered-release/)
+        
+        Sep 20, 2024 | 1:33 PM EDT
+        
+        ### [Arcane’s final season gets staggered release on Netflix in November](https://mobilesyrup.com/2024/09/20/netflix-arcane-november-final-season-staggered-release/)
         
         [](https://mobilesyrup.com/2024/09/19/mrbeast-amazon-sued-contestants-beast-games-series/)
         
@@ -427,13 +433,13 @@
         
         ### [MrBeast is now filming his new Amazon reality series in Toronto](https://mobilesyrup.com/2024/08/27/mr-beast-new-amazon-reality-series-toronto/)
         
-        [](https://mobilesyrup.com/2024/08/26/prime-video-canada-new-content-september-2024/)
-        
-        Aug 26, 2024 | 9:42 AM EDT
-        
-        ### [New on Prime Video Canada: September 2024](https://mobilesyrup.com/2024/08/26/prime-video-canada-new-content-september-2024/)
-        
     * [AI](https://mobilesyrup.com/categories/news/news-ai/)
+        
+        [](https://mobilesyrup.com/2024/09/20/ios-18-1-public-beta-now-available-apple-intelligence/)
+        
+        Sep 20, 2024 | 12:34 PM EDT
+        
+        ### [iOS 18.1 public beta now available with some Apple Intelligence features](https://mobilesyrup.com/2024/09/20/ios-18-1-public-beta-now-available-apple-intelligence/)
         
         [](https://mobilesyrup.com/2024/09/18/meta-ray-ban-next-decade/)
         
@@ -464,12 +470,6 @@
         Aug 29, 2024 | 2:32 PM EDT
         
         ### [Testing Apple Intelligence in Canada gets easier with iOS 18.1 Developer Beta 3](https://mobilesyrup.com/2024/08/29/testing-apple-intelligence-in-canada-gets-easier-with-ios-18-1-developer-beta-3/)
-        
-        [](https://mobilesyrup.com/2024/08/29/gemini-imagen-3-now-rolling-out/)
-        
-        Aug 29, 2024 | 12:29 PM EDT
-        
-        ### [Google Gemini’s Imagen 3 and Gems are now rolling out](https://mobilesyrup.com/2024/08/29/gemini-imagen-3-now-rolling-out/)
         
     * [Deals](https://mobilesyrup.com/categories/deals/)
         
@@ -512,6 +512,12 @@
     
 * [Reviews](https://mobilesyrup.com/categories/reviews/)
     
+    [](https://mobilesyrup.com/2024/09/22/gamesir-g8-plus-foldable/)
+    
+    Sep 22, 2024 | 11:03 AM EDT
+    
+    ### [The GameSir G8 Plus is great to use with my Pixel 9 Pro Fold](https://mobilesyrup.com/2024/09/22/gamesir-g8-plus-foldable/)
+    
     [](https://mobilesyrup.com/2024/09/19/iphone-16-series-review-a-camera-built-to-give-you-control/)
     
     Sep 19, 2024 | 1:16 PM EDT
@@ -541,12 +547,6 @@
     Sep 11, 2024 | 7:30 PM EDT
     
     ### [iPhone 16 and 16 Pro hands-on: Camera Control for everyone](https://mobilesyrup.com/2024/09/11/iphone-16-and-16-pro-hands-on-test-camera-control/)
-    
-    [](https://mobilesyrup.com/2024/09/10/hands-on-with-the-airpods-4-and-the-airpods-pro-hearing-aid-feature/)
-    
-    Sep 10, 2024 | 10:54 PM EDT
-    
-    ### [Hands-on with the AirPods 4 and the AirPods Pro hearing aid feature](https://mobilesyrup.com/2024/09/10/hands-on-with-the-airpods-4-and-the-airpods-pro-hearing-aid-feature/)
     
     * [Smartphones](https://mobilesyrup.com/categories/reviews/reviews-smartphones/)
         
@@ -740,6 +740,12 @@
         
     * [Gaming](https://mobilesyrup.com/categories/reviews/reviews-gaming/)
         
+        [](https://mobilesyrup.com/2024/09/22/gamesir-g8-plus-foldable/)
+        
+        Sep 22, 2024 | 11:03 AM EDT
+        
+        ### [The GameSir G8 Plus is great to use with my Pixel 9 Pro Fold](https://mobilesyrup.com/2024/09/22/gamesir-g8-plus-foldable/)
+        
         [](https://mobilesyrup.com/2024/09/05/astro-bot-ps5-review/)
         
         Sep 5, 2024 | 8:00 AM EDT
@@ -769,12 +775,6 @@
         Jul 20, 2024 | 2:31 PM EDT
         
         ### [Capcom’s Kunitsu-Gami is one of the freshest new games in a while](https://mobilesyrup.com/2024/07/20/capcom-kunitsu-gami-path-of-the-goddess-review/)
-        
-        [](https://mobilesyrup.com/2024/06/25/luigis-mansion-2-hd-nintendo-switch-review/)
-        
-        Jun 25, 2024 | 9:00 AM EDT
-        
-        ### [Luigi’s Mansion 2 HD is a ghoulishly good time](https://mobilesyrup.com/2024/06/25/luigis-mansion-2-hd-nintendo-switch-review/)
         
     * [Apps & Software](https://mobilesyrup.com/categories/reviews/reviews-apps-software/)
         
@@ -1008,6 +1008,18 @@
     
 * [Resources](https://mobilesyrup.com/categories/resources/)
     
+    [](https://mobilesyrup.com/2024/09/21/where-to-stream-beasties-transformers-transformers-the-movie-in-canada/)
+    
+    Sep 21, 2024 | 2:27 PM EDT
+    
+    ### [Where to stream animated Transformers titles after Transformers One](https://mobilesyrup.com/2024/09/21/where-to-stream-beasties-transformers-transformers-the-movie-in-canada/)
+    
+    [](https://mobilesyrup.com/2024/09/21/telecom-news-roundup-rogers-bell-mlse-sasktel-crtc/)
+    
+    Sep 21, 2024 | 10:57 AM EDT
+    
+    ### [Telecom news roundup: Rogers buys Bell’s MLSE stake, SaskTel takes on CRTC \[Sept. 14-20\]](https://mobilesyrup.com/2024/09/21/telecom-news-roundup-rogers-bell-mlse-sasktel-crtc/)
+    
     [](https://mobilesyrup.com/2024/09/18/new-on-crunchyroll-fall-2024/)
     
     Sep 18, 2024 | 5:42 PM EDT
@@ -1032,19 +1044,13 @@
     
     ### [How to watch the September 2024 Emmy Awards in Canada](https://mobilesyrup.com/2024/09/14/how-to-watch-september-2024-emmy-awards-in-canada/)
     
-    [](https://mobilesyrup.com/2024/09/14/telecom-news-roundup-fido-virgin-koodo-raise-prices/)
-    
-    Sep 14, 2024 | 11:02 AM EDT
-    
-    ### [Telecom news roundup: Fido, Virgin, Koodo raise prices \[Sept. 6-13\]](https://mobilesyrup.com/2024/09/14/telecom-news-roundup-fido-virgin-koodo-raise-prices/)
-    
-    [](https://mobilesyrup.com/2024/09/13/canadian-carrier-iphone-16-pricing-bell-telus-rogers-freedom/)
-    
-    Sep 13, 2024 | 10:37 AM EDT
-    
-    ### [Here’s how much the iPhone 16 series costs at Canadian carriers](https://mobilesyrup.com/2024/09/13/canadian-carrier-iphone-16-pricing-bell-telus-rogers-freedom/)
-    
     * [General](https://mobilesyrup.com/categories/resources/general-resources/)
+        
+        [](https://mobilesyrup.com/2024/09/21/telecom-news-roundup-rogers-bell-mlse-sasktel-crtc/)
+        
+        Sep 21, 2024 | 10:57 AM EDT
+        
+        ### [Telecom news roundup: Rogers buys Bell’s MLSE stake, SaskTel takes on CRTC \[Sept. 14-20\]](https://mobilesyrup.com/2024/09/21/telecom-news-roundup-rogers-bell-mlse-sasktel-crtc/)
         
         [](https://mobilesyrup.com/2024/09/14/telecom-news-roundup-fido-virgin-koodo-raise-prices/)
         
@@ -1076,13 +1082,13 @@
         
         ### [Here are the big video game and streaming attractions at Fan Expo Canada 2024](https://mobilesyrup.com/2024/08/20/fan-expo-canada-2024-video-game-streaming-programming-highlights/)
         
-        [](https://mobilesyrup.com/2024/08/17/teleocm-news-roundup-bell-telus-fibre-access-rogers/)
-        
-        Aug 17, 2024 | 10:58 AM EDT
-        
-        ### [Telecom news roundup: Bell, Telus must provide fibre access \[Aug 10-16\]](https://mobilesyrup.com/2024/08/17/teleocm-news-roundup-bell-telus-fibre-access-rogers/)
-        
     * [Streaming](https://mobilesyrup.com/categories/resources/resources-streaming/)
+        
+        [](https://mobilesyrup.com/2024/09/21/where-to-stream-beasties-transformers-transformers-the-movie-in-canada/)
+        
+        Sep 21, 2024 | 2:27 PM EDT
+        
+        ### [Where to stream animated Transformers titles after Transformers One](https://mobilesyrup.com/2024/09/21/where-to-stream-beasties-transformers-transformers-the-movie-in-canada/)
         
         [](https://mobilesyrup.com/2024/09/18/new-on-crunchyroll-fall-2024/)
         
@@ -1113,12 +1119,6 @@
         Sep 12, 2024 | 3:01 AM EDT
         
         ### [Disney+ brings back $1.99/month for 3 months promo in Canada](https://mobilesyrup.com/2024/09/12/disney-plus-canada-september-introductory-offer/)
-        
-        [](https://mobilesyrup.com/2024/09/09/streaming-in-canada-crave-disney-plus-netflix-paramount-plus-prime-video-the-fall-guy-ryan-gosling/)
-        
-        Sep 9, 2024 | 7:06 PM EDT
-        
-        ### [Streaming in Canada on Crave, Disney+, Netflix, Paramount+ and Prime Video \[Sept. 9-15\]](https://mobilesyrup.com/2024/09/09/streaming-in-canada-crave-disney-plus-netflix-paramount-plus-prime-video-the-fall-guy-ryan-gosling/)
         
     * [How-to's](https://mobilesyrup.com/categories/resources/resources-how-tos/)
         
@@ -1354,6 +1354,12 @@
     
 * [Streaming](https://mobilesyrup.com/categories/streaming/)
     
+    [](https://mobilesyrup.com/2024/09/20/netflix-arcane-november-final-season-staggered-release/)
+    
+    Sep 20, 2024 | 1:33 PM EDT
+    
+    ### [Arcane’s final season gets staggered release on Netflix in November](https://mobilesyrup.com/2024/09/20/netflix-arcane-november-final-season-staggered-release/)
+    
     [](https://mobilesyrup.com/2024/09/19/mrbeast-amazon-sued-contestants-beast-games-series/)
     
     Sep 19, 2024 | 4:33 PM EDT
@@ -1384,13 +1390,13 @@
     
     ### [New on Paramount+ Canada: September 2024](https://mobilesyrup.com/2024/08/28/paramount-plus-canada-new-content-september-2024/)
     
-    [](https://mobilesyrup.com/2024/08/27/mr-beast-new-amazon-reality-series-toronto/)
-    
-    Aug 27, 2024 | 2:27 PM EDT
-    
-    ### [MrBeast is now filming his new Amazon reality series in Toronto](https://mobilesyrup.com/2024/08/27/mr-beast-new-amazon-reality-series-toronto/)
-    
     * [Streaming](https://mobilesyrup.com/categories/streaming/)
+        
+        [](https://mobilesyrup.com/2024/09/20/netflix-arcane-november-final-season-staggered-release/)
+        
+        Sep 20, 2024 | 1:33 PM EDT
+        
+        ### [Arcane’s final season gets staggered release on Netflix in November](https://mobilesyrup.com/2024/09/20/netflix-arcane-november-final-season-staggered-release/)
         
         [](https://mobilesyrup.com/2024/09/19/mrbeast-amazon-sued-contestants-beast-games-series/)
         
@@ -1421,12 +1427,6 @@
         Aug 28, 2024 | 12:22 PM EDT
         
         ### [New on Paramount+ Canada: September 2024](https://mobilesyrup.com/2024/08/28/paramount-plus-canada-new-content-september-2024/)
-        
-        [](https://mobilesyrup.com/2024/08/27/mr-beast-new-amazon-reality-series-toronto/)
-        
-        Aug 27, 2024 | 2:27 PM EDT
-        
-        ### [MrBeast is now filming his new Amazon reality series in Toronto](https://mobilesyrup.com/2024/08/27/mr-beast-new-amazon-reality-series-toronto/)
         
     
 * [Videos](https://mobilesyrup.com/videos/)
