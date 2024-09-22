@@ -310,7 +310,7 @@ No obstante, si el usuario rechaza o borra las cookies de navegación/técnicas,
 
 La UAH podrá modificar su Política de Cookies en función de las necesidades legislativas, criterios jurisprudenciales. Prácticas del sector o intereses de la institución. Cualquier cambio se pondrá en conocimiento de los miembros de la comunidad universitaria a través del presente sitio web, por lo que se recomienda su visita periódica.
 
-   23/11/2022
+   Wed Nov 23 09:22:58 CET 2022
 
 [![Logotipo de la Universidad de Alcalá](/export/sites/uah/.galleries/imagenes-estructura/logopie.png "Logotipo de la Universidad de Alcalá")](https://uah.es/)
 
