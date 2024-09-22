@@ -1,3 +1,9 @@
+[×](#)
+
+### Exciting News!
+
+On October 21, 2024, BankNorth will be launching a redesigned website. In addition to a new look, our domain will be moving to banknorth.bank for a more secure banking experience.
+
 * [About Us](https://www.ibanknorth.com/about/)
 * [Banking](https://www.ibanknorth.com/banking/)
 * [Loans](https://www.ibanknorth.com/lending/)
