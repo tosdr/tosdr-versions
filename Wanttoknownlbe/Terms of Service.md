@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/nieuws/gigantische-asteroide-op-weg-naar-aarde/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/nieuws/de-weerstand-tegen-de-cbdc-wordt-zichtbaar/ "Feeling Lucky? »")
 
 Algemene voorwaarden WantToKnow aanbiedingen
 ============================================
