@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/overige/stralend-komen-ze-straks-uit-afghanistan-thuis/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/overige/vragen-over-haarp-in-de-europese-commissie/ "Feeling Lucky? »")
 
 Algemene voorwaarden WantToKnow aanbiedingen
 ============================================
