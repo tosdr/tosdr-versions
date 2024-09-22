@@ -413,38 +413,38 @@ Class Central experiments with cataloging online courses from California Communi
 Most common
 -----------
 
-1. hacking
+1. c
     
-2. psychology
+2. sql
     
-3. html
+3. finance
     
 
 Popular subjects
 ----------------
 
-1. [Web Development
-    
-    12,537 courses](https://www.classcentral.com/subject/web-development)
-2. [Data Analysis
+1. [Data Analysis
     
     7,645 courses](https://www.classcentral.com/subject/data-analysis)
-3. [Digital Marketing
+2. [Project Management
     
-    5,788 courses](https://www.classcentral.com/subject/digital-marketing)
+    3,715 courses](https://www.classcentral.com/subject/project-management)
+3. [Python
+    
+    8,521 courses](https://www.classcentral.com/subject/python)
 
 Popular courses
 ---------------
 
-1. [Understanding Multiple Sclerosis (MS)
+1. [Ingeniería de aeropuertos: diseño del lado aire según OACI (ICAO)
     
-    University of Tasmania](https://www.classcentral.com/course/independent-understanding-multiple-sclerosis-ms-13338)
-2. [Machine Learning for Musicians and Artists
+    Universitat Politècnica de València](https://www.classcentral.com/course/aerospace-engineering-universitat-politecnica-de--17181)
+2. [Design Patterns
     
-    Goldsmiths University of London](https://www.classcentral.com/course/kadenze-machine-learning-for-musicians-and-artists-3768)
-3. [Introduction to Genetics and Evolution
+    University of Alberta](https://www.classcentral.com/course/design-patterns-9215)
+3. [Bitcoin and Cryptocurrency Technologies
     
-    Duke University](https://www.classcentral.com/course/geneticsevolution-381)
+    Princeton University](https://www.classcentral.com/course/bitcointech-3655)
 
 ![](https://ccweb.imgix.net/https%3A%2F%2Fwww.classcentral.com%2Fimages%2Flists%2Flist-empty.png?auto=format&ixlib=php-4.1.0&w=100&s=d64b43c1b6dcf041e56fce6ac1794fcf)
 
