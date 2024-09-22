@@ -101,81 +101,67 @@ If you have any questions about our privacy policy, please [contact us](mailto:w
 
 Return to our [subscription form](https://www.icr.org/subscriptions).
 
-More God Caused Wisdom
+More Creation Science Update
 
-[![](https://dummyimage.com/328x116/DDD/000&text=Back to Genesis+Article)](https://www.icr.org/article/scientific-irrationality)
+[![](/i/Main%20Stage%20-%201400x1050/SpiderSilk_1400x1050.jpg)](https://www.icr.org/article/Spider-Silk-For-Nerve-Repairs)
 
-[Scientific Irrationality](https://www.icr.org/article/scientific-irrationality/)
+[Spider Silk Properties Ideal for Nerve Repairs](https://www.icr.org/article/Spider-Silk-For-Nerve-Repairs/)
 
-Evolutionary scientists like to picture themselves to the public as paragons of rational thought—cool, detached, careful observers and analyzers...
+Big doesn’t always mean strong. Most of the time, strength comes from what something is made of. The proteins forming spider silk make that silk...
 
-BY: [HENRY M. MORRIS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=23)
+BY: [STAFF WRITER](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=27)
 
-[![](https://dummyimage.com/328x116/DDD/000&text=Back to Genesis+Article)](https://www.icr.org/article/mathematical-impossibility-evolution)
+[![](/i/Main%20Stage%20-%201400x1050/TriloFoss_1400x1050.jpg)](https://www.icr.org/article/trilobite-demise)
 
-[The Mathematical Impossibility Of Evolution](https://www.icr.org/article/mathematical-impossibility-evolution/)
+[Trilobite Demise](https://www.icr.org/article/trilobite-demise/)
 
-ICR began publishing its popular free newsletter Acts & Facts in June 1972, over 31 years ago. The first two issues were 6-page, single-column, fold-over...
-
-BY: [HENRY M. MORRIS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=23)
-
-[![](/i/articles/dop/DOP_Logo_328_116.jpg)](https://www.icr.org/article/glory-thanks)
-
-[Glory And Thanks](https://www.icr.org/article/glory-thanks/)
-
-“Because that, when they knew God, they glorified Him not as God, neither were thankful” (Romans 1:21). There were at least two distinct...
-
-BY: [NORMAN P. SPOTTS, D.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=38)
-
-More Nature Reveals God's Wisdom
-
-[![](/i/Main%20Stage%20-%201400x1050/Bacterial_Proteins_Quantum_Mechanics_1400x1050.jpg)](https://www.icr.org/article/Bacterial-Proteins-Use-Quantum-Mechanics)
-
-[Bacterial Proteins Use Quantum Mechanics](https://www.icr.org/article/Bacterial-Proteins-Use-Quantum-Mechanics/)
-
-Researchers have found a dimmer switch inside a protein. It tunes the protein’s configuration to take advantage of quantum mechanics during photosynthesis....
-
-BY: [BRIAN THOMAS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=201)
-
-[![](/i/wide/sophisticated_sensor_wide.jpg)](https://www.icr.org/article/amazon-go-creatures-depend-sophisticated)
-
-[Amazon Go, Creatures Depend on Sophisticated Sensors](https://www.icr.org/article/amazon-go-creatures-depend-sophisticated/)
-
-What does the recently unveiled Amazon Go store have to do with several new studies detailing how flies find water or how tiny roundworms can "taste...
-
-BY: [RANDY J. GULIUZZA, P.E., M.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=203)
-
-[![](/i/Main%20Stage%20-%201400x1050/Honeybee_Design_1400x1050.jpg)](https://www.icr.org/article/honeybee-design-saves-energy)
-
-[Honeybee Design Saves Energy](https://www.icr.org/article/honeybee-design-saves-energy/)
-
-Biomimicry is the making of systems or materials that are modeled after flora or fauna found in God’s creation (e.g. the artificial fabric Velcro...
+One of the more amazing animals of God’s creation was the trilobite. This strange-looking creature was an ocean bottom-dwelling animal that remains...
 
 BY: [FRANK SHERWIN, D.SC. (HON.)](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=32)
 
-More Impact
+[![](/i/Main%20Stage%20-%201400x1050/beetle-eating-leaf-1400x1050)](https://www.icr.org/article/CET-model-in-plants-is-clearly-seen)
 
-[![](/i/articles/af/Main%20Stage%20-%201400x1050/nuclear_fission_unreliable.jpg)](https://www.icr.org/article/nuclear-fission-dating-methods-are-unreliable)
+[CET Model in Plants Is Clearly Seen](https://www.icr.org/article/CET-model-in-plants-is-clearly-seen/)
 
-[Nuclear Fission Dating Methods Are Unreliable](https://www.icr.org/article/nuclear-fission-dating-methods-are-unreliable/)
+Plant scientists have known for decades that plants aren’t just static entities. The half-million or more species of plants in the world display...
 
-Have you ever pulled apart a large mass of taffy and watched it break into two approximately equal masses? This is an illustration of what happens in...
+BY: [FRANK SHERWIN, D.SC. (HON.)](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=32)
 
-BY: [VERNON R. CUPPS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=222)
+Shop Related Products
 
-[Testing Old-Earth Climate Claims, Part 1](https://www.icr.org/article/testing-old-earth-climate-claims-part/)
+[![](https://cdn.shoplightspeed.com/shops/601440/files/13216497/file.jpg)
 
-In a scientific controversy, how do laypeople evaluate the merits of each side’s arguments when those arguments involve technical details? Unfortunately,...
+Scientific Evidences for Creation - Download](https://store.icr.org/mr-frank-sherwin-scientific-evidences-for-11389225.html)
 
-BY: [JAKE HEBERT, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=218)
+$4.99
 
-[![](/i/articles/af/af1712_square4_248_test_old_earth_climate2.jpg)](https://www.icr.org/article/10339)
+$9.99
 
-[Testing Old-Earth Climate Claims, Part 2](https://www.icr.org/article/10339/)
+[![](https://cdn.shoplightspeed.com/shops/601440/files/8285455/file.jpg)
 
-There is strong geological evidence for a single Ice Age, which creation scientists attribute to the aftereffects of the Genesis Flood.1...
+The Mighty, Wonderful Oceans](https://store.icr.org/the-mighty-wonderful-oceans.html)
 
-BY: [JAKE HEBERT, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=218)
+$7.99
+
+$9.99
+
+[![](https://cdn.shoplightspeed.com/shops/601440/files/3050408/file.jpg)
+
+The New Ocean Book](https://store.icr.org/mr-frank-sherwin-the-new-ocean-book.html)
+
+$16.99
+
+[![](https://cdn.shoplightspeed.com/shops/601440/files/9373127/file.jpg)
+
+Scientific Evidences for Creation](https://store.icr.org/mr-frank-sherwin-scientific-evidences-for-creation.html)
+
+$7.99
+
+$9.99
+
+[](https://store.icr.org/.html)
+
+$
 
 [![Institute for Creation Research](/i/icr-logo-final-h-rev3-100.png)](https://www.icr.org/)[![ICR Discovery Center for Science and Earth History](/i/DC_Logo_Footer_2.png)](http://discoverycenter.icr.org/)
 
