@@ -418,9 +418,9 @@ Top
     
     [Best Videos for Learning the Urdu Alphabet](https://blog.karlrock.com/best-videos-for-learning-the-urdu-alphabet/ "Best Videos for Learning the Urdu Alphabet")
     
-* [![Hindi Challenges 1: Pronunciation of Dental and Retroflex Letters](https://i0.wp.com/blog.karlrock.com/wp-content/uploads/2021/07/How-to-pronounce-Hindi-Retroflex-and-Dental-Letters-Infographic-by-Karl-Rock-White.png?resize=40%2C40&ssl=1)](https://blog.karlrock.com/hindi-challenges-1-pronunciation-of-dental-and-retroflex-letters/ "Hindi Challenges 1: Pronunciation of Dental and Retroflex Letters")
+* [![How To Get Off India’s Blacklist](https://i0.wp.com/blog.karlrock.com/wp-content/uploads/2021/07/Why-I-Havent-Seen-My-Wife-in-269-Days-Blacklist.jpg?resize=40%2C40&ssl=1)](https://blog.karlrock.com/how-to-get-off-indias-blacklist/ "How To Get Off India’s Blacklist")
     
-    [Hindi Challenges 1: Pronunciation of Dental and Retroflex Letters](https://blog.karlrock.com/hindi-challenges-1-pronunciation-of-dental-and-retroflex-letters/ "Hindi Challenges 1: Pronunciation of Dental and Retroflex Letters")
+    [How To Get Off India’s Blacklist](https://blog.karlrock.com/how-to-get-off-indias-blacklist/ "How To Get Off India’s Blacklist")
     
 
 © 2024 [Karl Rock's Blog](https://blog.karlrock.com/)
