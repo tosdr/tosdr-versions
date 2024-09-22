@@ -1,8 +1,9 @@
-![](https://pixelcounter.elmundo.es/pixelcontabilizacion/pixelcontabilizacion.gifctl?r=http%3A%2F%2Fwww%2Eelmundo%2Ees%2Fregistro%2Favisolegal%2Ehtml&s=elmundo&d=Zu-I6AoAAVEAAABc2uo)
+![](https://pixelcounter.elmundo.es/pixelcontabilizacion/pixelcontabilizacion.gifctl?r=http%3A%2F%2Fwww%2Eelmundo%2Ees%2Fregistro%2Favisolegal%2Ehtml&s=elmundo&d=ZvAeHAoAAVEAAABcDYg)
 
 Es noticia
 
 * [Hizbulá](https://www.elmundo.es/internacional/2024/09/20/66ed0da2e9cf4aec2e8b4585.html)
+* [GP Singapur F1](https://www.elmundo.es/deportes/formula-1/2024/09/22/05_0501_20240922_18_1-directo.html)
 * [Audiencia ayer](https://www.elmundo.es/television/2024/09/20/66ed1526fdddff73038b4590.html)
 * [Cate Blanchett](https://www.elmundo.es/album/yodona/moda/2024/09/20/66edb1d4e4d4d8350d8b45b0.html)
 * [Guerra Ucrania](https://www.elmundo.es/internacional/2024/09/22/66efb32a3e3735002574923b-directo.html)
@@ -16,7 +17,6 @@ Es noticia
 * [Laver Cup](https://www.elmundo.es/como/2024/09/19/66ebe096fdddfff1878b45b6.html)
 * [Fiestas Merce](https://www.elmundo.es/cataluna/2024/09/19/66ebcff5fc6c832e5d8b457c.html)
 * [MotoGP](https://www.elmundo.es/como/2024/09/20/66ed490fe85ece291e8b4589.html)
-* [GP Singapur F1](https://www.elmundo.es/como/2024/09/20/66ed366521efa0fc1d8b45b6.html)
 * [Invitados De Viernes](https://www.elmundo.es/television/2024/09/20/66ec68a8fc6c83d4628b4595.html)
 * [Calendario Lunar 2024](https://www.elmundo.es/como/2024/09/16/66e808acfc6c838c038b4588.html)
 * [Zara](https://www.elmundo.es/yodona/moda/2024/09/20/66ed37d7fdddfff37f8b4582.html)
