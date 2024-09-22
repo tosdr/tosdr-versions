@@ -31,6 +31,851 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
+Venezuela será un ‘gran foco de atención’ en la Asamblea General de la ONU, según Machado
+=========================================================================================
+
+La opositora venezolana María Corina Machado afirmó que la crisis poselectoral de Venezuela será un "gran foco" de atención durante la próxima Asamblea General de la ONU en Nueva York.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+![María Corina Machado en una fotografía de archivo.](https://www.elcomercio.com/wp-content/uploads/2024/09/maria-corina-machado-fiscalia-efe-1.jpg)
+
+La líder opositora de Venezuela **María Corina Machado** aseguró este sábado 21 de septiembre de 2024 que la crisis poselectoral de su país será un “gran foco” de atención en el marco de la Asamblea General de la Organización de Naciones Unidas (ONU). La cita se celebrará la próxima semana en Nueva York.
+
+### Más noticias
+
+* [Fiscalía de Venezuela tramita solicitud de una orden de captura contra Javier Milei](https://www.elcomercio.com/actualidad/mundo/fiscalia-venezuela-tramita-solicitud-orden-captura-contra-javier-milei.html "Fiscalía de Venezuela tramita solicitud de una orden de captura contra Javier Milei")
+* [Daniel Noboa se reunirá con Javier Milei en Nueva York](https://www.elcomercio.com/actualidad/politica/daniel-noboa-se-reunira-con-javier-milei-en-nueva-york.html "Daniel Noboa se reunirá con Javier Milei en Nueva York")
+* [Benjamín Netanyahu se pronuncia tras explosiones en Líbano](https://www.elcomercio.com/actualidad/mundo/netanyahu-se-pronuncia-explosiones-libano.html "Benjamín Netanyahu se pronuncia tras explosiones en Líbano")
+
+“Todos los líderes del mundo se reunirán allí. Y **Venezuela** será el gran foco de atracción, de atención y de apoyo”, dijo la exdiputada, que lidera la denuncia de **fraude en las elecciones del 28 de julio**. En las mismas, **Nicolás Maduro** fue proclamado presidente reelecto, lo que ha sido cuestionado dentro y fuera del país.
+
+La líder antichavista adelantó que “todos los días” de la última semana de septiembre de 2024 habrá actividades relacionadas con el reclamo de la principal coalición opositora. Esta se denomina Plataforma Unitaria Democrática (PUD). Machado asegura que su abanderado, **Edmundo González Urrutia,** ganó las presidenciales. “Esto lo vamos a lograr, esto es hasta el final”, insistió.
+
+Países reconocen como presidente de Venezuela a González Urrutia
+----------------------------------------------------------------
+
+María Corina Machado consideró que los apoyos expresados en la última semana hacia González Urrutia son muy importantes. Ya que, el **Parlamento Europeo y por las Cámaras de varios países** **latinoamericanos** lo reconocieron como presidente electo a González Urrutia.
+
+Asimismo, recordó que en los últimos días sostuvo “conversaciones muy importantes y reuniones muy productivas”. Todas fueron de forma virtual y se realizaron con líderes de la región y con el secretario de Estado de los Estados Unidos, **Antony Blinken**.
+
+“Todos alineados, todos dispuestos a acompañarnos hasta lograr hacer valer la soberanía popular (…), la próxima será una semana importantísima”, resaltó.
+
+Hasta ahora, Washington organiza el único evento sobre **Venezuela** de nivel ministerial. Este se celebrará el próximo jueves 26 de septiembre, encabezado por Blinken, según confirmaron a EFE fuentes diplomáticas estadounidenses. Esto después de que fracasara otro evnto que tenía previsto organizar **Chile**.
+
+La semana de **Alto Nivel de la ONU** es la gran cita de la diplomacia mundial. Y es una ocasión única para tratar los conflictos más candentes del mundo. Por lo que se espera en Nueva York a los dirigentes de **Israel**, **Palestina, Líbano, Irán**, así como al presidente de **Ucrania o al de Sudán**, entre los 133 líderes que asistirán. 
+
+Leonardo Campana vuelve a anotar con Inter de Miami y acrecenta su récord
+=========================================================================
+
+Leonardo Campana volvió a marcar con el Inter de Miami ante el New York City y aumenta sus números de goleador histórico.
+-------------------------------------------------------------------------------------------------------------------------
+
+![Leonardo Campana celebra su último gol con el Inter de Miami en la MLS.](https://www.elcomercio.com/wp-content/uploads/2024/09/Snapinsta.app_460941054_549858667704411_3547945898546360193_n_1080-1.jpg)
+
+El Inter Miami de **Lionel Messi y Leonardo Campana** empató este sábado por 1-1 ante el New York City FC tras encajar un gol en el minuto 95 de James Sands cuando ya acariciaba el triunfo.
+
+Un cabezazo tras un córner en el último suspiro le dio el empate al N**ew York City** después que el ecuatoriano Leonardo Campana hubiera adelantado en el 75 al Inter Miami.
+
+### Mas noticias:
+
+* [Leonardo Campana fue convocado a la Billboard Latin Music Week](https://www.elcomercio.com/deportes/futbol/leonardo-campana-fue-convocado-a-la-billboard-latin-music-week.html "Leonardo Campana fue convocado a la Billboard Latin Music Week")
+* [Anderson Julio y Leonardo Campana, ¿opciones para la Selección de Ecuador?](https://www.elcomercio.com/deportes/futbol/anderosn-julio-leonardo-campana-seleccion.html "Anderson Julio y Leonardo Campana, ¿opciones para la Selección de Ecuador?")
+* [Leonardo Campana y sus 30 goles con el Inter Miami](https://www.elcomercio.com/deportes/leonardo-campana-y-sus-goles-con-el-inter-miami.html "Leonardo Campana y sus 30 goles con el Inter Miami")
+
+Con muchísimos seguidores de Messi y un gran ambiente en las gradas del Yankee Stadium, el equipo que dirige **Gerardo Martino** firmó un flojo y discreto partido pero se mantiene líder del Este con 64 puntos y como favorito destacado para conquistar el **MLS Supporters’ Shield** (el título para el mejor equipo de la MLS en la temporada regular).
+
+El equipo de Florida aterrizó en la Gran Manzana con todas sus estrellas salvo **Sergio Busquets y Diego Gómez**. Junto a Messi fueron también titulares Luis Suárez y Jordi Alba.
+
+Con tres derrotas y cinco empates en sus anteriores ocho partidos en la MLS, incluyendo un doloroso 1-5 frente al **Philadelphia Union** el pasado miércoles, el **New York City** arrancó con ganas de enderezar el rumbo.
+
+El Inter de Miami de Leonardo Campana tuvo dificultades para meterse en el partido
+----------------------------------------------------------------------------------
+
+El uruguayo **Santi Rodríguez** se mostró muy picante desde el inicio, primero con un tiro cruzado y después con una peligrosa falta directa que acabó estrellándose en el palo.
+
+Al **Inter Miami** le costó entrar en el partido. Quitando una falta de Messi que acarició la escuadra, el conjunto de rosa tardó en asentarse en el verde y echó en falta a Busquets en la sala de máquinas.
+
+No obstante, hacia el ecuador de la primera parte empezaron a aparecer las estrellas: Messi buscó y casi encontró un gol olímpico y Suárez no estrenó el marcador porque su tiro, que se iba a la red, fue interceptado sin querer por su compañero **Robert Taylor**.
+
+Pero en general los dos equipos se mostraron seguros y concentrados en defensa -sobre todo el New York City con ayudas constantes para anular a **Messi**– y el encuentro se fue al descanso sin tantos.
+
+Leonardo **Campana golpea, Sands responde**
+-------------------------------------------
+
+> Messi –> Alba –> Campana[@InterMiamiCF](https://twitter.com/InterMiamiCF?ref_src=twsrc%5Etfw) take the lead with 15 minutes remaining. [pic.twitter.com/1icY7I3bIh](https://t.co/1icY7I3bIh)
+> 
+> — Major League Soccer (@MLS) [September 21, 2024](https://twitter.com/MLS/status/1837579453746016722?ref_src=twsrc%5Etfw)
+
+**Keaton Parks**, uno de los más destacados del New York City en la primera mitad, tuvo una ocasión de oro en la reanudación tras un grave error de Ian Fray pero el corpulento centrocampista no estuvo habilidoso de cara a la portería.
+
+También lo intentó el costarricense **Alonso Martínez** desde fuera del área y el combinado local replicó en la segunda parte el mismo inicio intenso de la primera.
+
+En cambio, el Inter Miami salió dormido, sin electricidad en ataque –**Messi y Suárez** continuaban poco precisos- y con cada vez más huecos atrás.
+
+Parecía el momento del **New York City**, pero seguía con el punto de mira desviado y Hannes Wolf desaprovechó otra ocasión en el minuto 61.
+
+Al otro lado, el **Inter Miami** empezó a desquiciarse. Cuatro amarillas en cinco minutos sacó a los visitantes el árbitro, que, sin problema para desenfundar las tarjetas, además de amonestar a Suárez y Alba expulsó también a un asistente de Martino por protestar.
+
+El partido parecía destinado a acabar en tablas pero una conexión aislada y perfecta entre Messi y Jordi Alba en la banda izquierda dejó en bandeja el gol a **Leonardo Campana** en el 75.
+
+Un empate de último minuto para el New York City
+------------------------------------------------
+
+El New York City acusó el golpe y siguió errando oportunidad tras oportunidad como una muy clara de **Rodríguez** en el 87.
+
+Pero cuando el **Inter Miami** ya parecía tener los tres puntos en el bolsillo, Sands se elevó con un fantástico testarazo para rescatar un empate a última hora para el New York City.
+
+Alineaciones de Inter de Miami y New York City
+----------------------------------------------
+
+**New York City**: Matt Freese; Tayvon Gray (Mitja Ilenic, m. 81); Thiago Martins, Strahinja Tanasijevic, Kevin O’Toole (Christian McFarlane, m.88); James Sands, Keaton Parks (Andrés Perea, m.81); Hannes Wolf (Julián Fernández, m. 88), Maxi Moralez, Santi Rodríguez; Alonso Martínez (Monsef Makrar, m.81).
+
+**Entrenador**: Nick Cushing
+
+**Inter Miami**: Drake Callender; Ian Fray, Tomás Avilés, Noah Allen (Sergii Kryvstov, m.94), Jordi Alba; Julian Gressel (Benjamin Cremaschi, m. 81), Federico Redondo, Yannick Bright, Robert Taylor (Leonardo Campana, m. 72); Luis Suárez y Lionel Messi.
+
+**Entrenador**: Gerardo Martino.
+
+Daniel Noboa se reunirá con Javier Milei en Nueva York
+======================================================
+
+El presidente de Ecuador, Daniel Noboa, se reunirá con su homólogo argentino, Javier Milei, durante la 79° Asamblea General de la ONU en Nueva York, como parte de su decimocuarto viaje oficial.
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+![Daniel Noboa y Javier Milei conversarán en Nueva York. Foto: EFE](https://www.elcomercio.com/wp-content/uploads/2024/06/daniel-noboa-milei.png)
+
+El presidente del Ecuador, **Daniel Noboa**, se reunirá con su par argentino, **Javier Milei,** en Nueva York, durante la 79° Asamblea General de las Naciones Unidas (ONU).
+
+### Más noticias
+
+* [Daniel Noboa hizo una propuesta sobre el financiamiento a organizaciones políticas](https://www.elcomercio.com/actualidad/politica/daniel-noboa-propuesta-financiamiento-organizaciones-politicas.html "Daniel Noboa hizo una propuesta sobre el financiamiento a organizaciones políticas")
+* [El Gobierno de Daniel Noboa pidió al sector privado encender sus generadores de electricidad](https://www.elcomercio.com/actualidad/ecuador/gobierno-invito-sector-privado-prender-generadores-electricidad.html "El Gobierno de Daniel Noboa pidió al sector privado encender sus generadores de electricidad")
+* [Daniel Noboa confirmó su asistencia a la Asamblea General de la ONU](https://www.elcomercio.com/actualidad/politica/daniel-noboa-viaje-asamblea-onu.html "Daniel Noboa confirmó su asistencia a la Asamblea General de la ONU")
+
+El presidente ecuatoriano inició su decimocuarto viaje oficial como jefe de Estado de Ecuador, el 20 de septiembre de 2024. Su gira por Estados Unidos culminará el 27 de septiembre, e incluye la visita a Nueva York, a Boston y New Haven.
+
+Agenda de Javier Milei
+----------------------
+
+Por su parte, Milei viajó este sábado 21 de septiembre de 2024 a Nueva York. Transcendió que el mandatario argentino mantendrá una serie de reuniones. Estas incluyen una con el empresario **Elon Musk,** otra con **Daniel Noboa** y con la presidenta de la Comisión Europea, Ursula von der Leyen.
+
+Milei llega Nueva York este sábado por la noche. Su primera actividad será una reunión con periodistas del **New York Times** el domingo, según informó en conferencia de prensa el portavoz presidencial, **Manuel Adorni**.
+
+El lunes, el mandatario argentino abrirá su agenda con una disertación ante inversores en la **Bolsa de Valores de Nueva York**. Allí también participará en la ceremonia del **toque de campana** que indica el inicio de la jornada bursátil.
+
+Ese mismo día, el libertario se reunirá con el empresario **Elon Musk**, director ejecutivo de Tesla y dueño de la red social X, con quien tiene una buena relación y ya se ha reunido en dos oportunidades.
+
+Milei cerrará la jornada del lunes con un encuentro con representantes del Consejo de Relaciones Exteriores de Estados Unidos, en un evento donde también ofrecerá una disertación breve.
+
+Según informaron medios locales, el mandatario viajará acompañado por el ministro de Economía, **Luis Caputo**; la ministra de Seguridad, **Patricia Bullrich**; la secretaria General de la Presidencia, **Karina Milei;** y la canciller, **Diana Mondino**.
+
+Discurso de Milei en la ONU
+---------------------------
+
+La presentación del político argentino ante la 79° Asamblea General de Naciones Unidas está prevista para el martes a las 15:30 hora de Nueva York.
+
+Por el momento, su oficina no ha brindado información sobre el discurso del mandatario ultraliberal. Pero la prensa local ha anticipado que se espera una presentación similar a la que dio en enero en el Foro de Davos, en la que impulsó su agenda libertaria y alertó sobre los “peligros” que acechan al mundo occidental.
+
+Además, se espera que reitere su defensa a Israel y sus críticas a China y a lo que suele describir como “socialismo empobrecedor”.
+
+El presidente emprenderá su regreso el martes por la noche, y su llegada a **Argentina** está prevista para el miércoles 25 de septiembre a las 07:00 hora local.
+
+La ciencia detrás del equinoccio y lo que se debe tener en cuenta 
+==================================================================
+
+El equinoccio de septiembre influye en el clima y la naturaleza alrededor del mundo.
+------------------------------------------------------------------------------------
+
+![El equinoccio señala el comienzo del otoño en el hemisferio norte y la llegada de la primavera en el sur. Foto: Freepik.](https://www.elcomercio.com/wp-content/uploads/2024/09/equinoccio-septiembre.jpg)
+
+El **equinoccio de septiembre** marca un momento clave en el año, cuando **el día y la noche tienen la misma duración en todo el planeta**. Este fenómeno ocurre debido a la **inclinación de la Tierra**, que está alineada con la órbita solar. En el hemisferio norte, señala el **inicio del otoño**, mientras que, en el sur, representa la **llegada de la primavera**. 
+
+### Más noticias
+
+* [La agenda para este 20, 21 y 22 de septiembre de 2024 en Quito](https://www.elcomercio.com/tendencias/cultura/agenda-cultural-quito-septiembre.html "https://www.elcomercio.com/tendencias/cultura/agenda-cultural-quito-septiembre.html") 
+* [Seis películas con sorprendentes finales abiertos y su análisis](https://www.elcomercio.com/tendencias/cine/peliculas-cine-analisis-final-abierto.html "https://www.elcomercio.com/tendencias/cine/peliculas-cine-analisis-final-abierto.html") 
+
+**Equinoccio de septiembre: ¿Por qué el día y la noche son iguales?** 
+----------------------------------------------------------------------
+
+![El equinoccio marca el momento en que el día y la noche tienen casi la misma duración en todo el planeta. Foto: Observatorio Astronómico de Quito. ](https://www.elcomercio.com/wp-content/uploads/2024/09/equinoccio-septiembre-1-1024x683.jpg)
+
+El equinoccio marca el momento en que el día y la noche tienen casi la misma duración en todo el planeta. Foto: Observatorio Astronómico de Quito.
+
+El **equinoccio** tiene una particularidad: durante este evento, **el día y la noche tienen casi la misma duración en todo el planeta**. Según el [Observatorio Astronómico de Quito](https://oaq.epn.edu.ec/index.php/publicaciones/noticias-y-eventos/noticias-2024/651-boletin-de-prensa-equinoccio-de-septiembre-2024-un-momento-de-equilibrio-en-la-tierra "https://oaq.epn.edu.ec/index.php/publicaciones/noticias-y-eventos/noticias-2024/651-boletin-de-prensa-equinoccio-de-septiembre-2024-un-momento-de-equilibrio-en-la-tierra"), el término “equinoccio” proviene del latín aequinoctium, que significa “noche igual”. 
+
+Este **equilibrio de luz** se debe a la inclinación del eje de la Tierra, que está inclinada 23,5 grados en relación con su órbita alrededor del Sol. **Durante los equinoccios, tanto en marzo como en septiembre, el ecuador terrestre se alinea con la trayectoria solar**, conocida como eclíptica. Esto provoca que la luz solar se distribuya de manera uniforme, haciendo que **el día y la noche duren aproximadamente 12 horas**. 
+
+La **inclinación axial de la Tierra** es la responsable de que las estaciones varíen durante el año, pero durante el equinoccio, ese efecto desaparece temporalmente. **Este fenómeno ocurre solo dos veces al año** y es clave para comprender **el movimiento de la Tierra alrededor del Sol**. 
+
+**El inicio del cambio estacional en ambos hemisferios** 
+---------------------------------------------------------
+
+El **equinoccio de septiembre** es un momento clave en el calendario, ya que **marca la transición entre estaciones en todo el mundo**. Siguiendo con el Observatorio Astronómico de Quito, **en el hemisferio norte este fenómeno indica el final del verano y el inicio del otoño.** Durante este periodo, las temperaturas empiezan a descender y las hojas cambian de color. 
+
+**En el hemisferio sur, el equinoccio de septiembre representa el final del invierno y la llegada de la primavera**. Es una época de renacimiento, donde la naturaleza comienza a florecer y el clima se vuelve más cálido.  
+
+**Los polos experimentan cambios más extremos**. En el **Polo Norte**, el equinoccio marca el fin de seis meses de luz continua y el inicio de seis meses de oscuridad. Mientras que, en el **Polo Sur**, ocurre lo contrario: comienza una etapa de seis meses de luz polar, tras un largo periodo de noche. **Estos cambios drásticos afectan no solo al clima, sino también a la vida silvestre en estas regiones extremas**. 
+
+**¿Cuándo ocurrirá y cuánto durará la estación?** 
+--------------------------------------------------
+
+De acuerdo con [Infobae](https://www.infobae.com/america/ciencia-america/2024/09/18/cuando-es-el-equinoccio-de-primavera-que-da-inicio-oficial-a-la-estacion-en-el-hemisferio-sur/ "https://www.infobae.com/america/ciencia-america/2024/09/18/cuando-es-el-equinoccio-de-primavera-que-da-inicio-oficial-a-la-estacion-en-el-hemisferio-sur/"), **el equinoccio de primavera en el hemisferio sur en 2024 ocurrirá el domingo 22 de septiembre**. Según el Servicio de Hidrografía Naval, este fenómeno tendrá lugar a las 09:44 horas (hora de Argentina). A partir de ese momento, **las horas de luz solar comenzarán a aumentar**, las temperaturas serán más cálidas y los días se alargarán progresivamente hasta el solsticio de verano. 
+
+**La primavera durará aproximadamente tres meses**, extendiéndose hasta el 21 de diciembre, cuando comenzará el verano con el solsticio. 
+
+**En Ecuador, el equinoccio de septiembre también se producirá el domingo 22 de septiembre, pero a las 07:43 horas** (hora de Ecuador continental). Este evento marcará **el inicio del otoño en el hemisferio norte y el comienzo de la primavera en el hemisferio sur**. 
+
+**Equinoccio y solsticio: ¿Cuál es la diferencia y qué los distingue?** 
+------------------------------------------------------------------------
+
+**Los equinoccios y solsticios son fenómenos astronómicos** clave que marcan el cambio de estaciones. A decir de Infobae, **la principal diferencia entre ambos radica en la distribución de la luz solar.** Durante los equinoccios, que ocurren en marzo y septiembre, el Sol se encuentra directamente sobre el ecuador. Esto provoca que el día y la noche tengan casi la misma duración en todo el planeta. 
+
+Por otro lado, l**os solsticios se producen en junio y diciembre**. En este caso, la inclinación de la Tierra genera que uno de los hemisferios reciba la mayor cantidad de luz solar del año, lo que da lugar al **solsticio de verano**. Mientras tanto, en el otro hemisferio se experimenta el día más corto del año, conocido como **solsticio de invierno**. 
+
+La diferencia entre estos eventos se debe a la **inclinación axial de la Tierra**, que es de 23,5 grados. Esta inclinación es la **responsable de las variaciones en la cantidad de luz solar que recibe cada hemisferio**, lo que define el inicio de las estaciones. 
+
+Se declara alerta roja en 19 provincias de Ecuador por sequía
+=============================================================
+
+Se declara la alerta roja en 19 provincias de Ecuador debido a la sequía, incendios forestales y afectaciones a la agricultura, agua y producción hidroeléctrica.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+![Los bomberos laboraron el 5 de septiembre de 2024 en tres incendios forestales registrados en Cancán, Shiña y Quingeo. Cortesía: Bomberos de Cuenca](https://www.elcomercio.com/wp-content/uploads/2024/09/incendio-Cuenca-.jpg)
+
+La Secretaría Nacional de Riesgos declaró en “**alerta roja**” a 19 de las 24 provincias del **Ecuador**. La medida se tomó para **precautelar la integridad de la población**, las infraestructuras y medios de vida, en medio de la peor sequía de los últimos 61 años que afronta el país.
+
+Más noticias
+------------
+
+* [COE declara alerta roja en 15 provincias por emergencia hídrica](https://www.elcomercio.com/actualidad/ecuador/coe-declara-alerta-roja-sequia.html "COE declara alerta roja en 15 provincias por emergencia hídrica")
+* [Sequía convoca de emergencia a las autoridades de Ecuador en Cuenca](https://www.elcomercio.com/actualidad/negocios/sequia-convoca-emergencia-autoridades-de-ecuador-coe-cuenca.html "Sequía convoca de emergencia a las autoridades de Ecuador en Cuenca")
+* [Sequía afecta a hidroeléctricas y obliga a cortes de luz, ¿qué se espera?](https://www.elcomercio.com/actualidad/ecuador/sequia-afecta-hidroelectricas-cortes-luz.html "Sequía afecta a hidroeléctricas y obliga a cortes de luz, ¿qué se espera?")
+
+Mediante la **Resolución Nro. SNGR-306-2024** se declaró en emergencia a las provincias de: Azuay, Bolívar, Cañar, Carchi, Cotopaxi, El Oro, Imbabura, Loja, Manabí, Morona Santiago, Napo, Orellana, Pastaza, Pichincha, Santa Elena, Sucumbíos, Tungurahua, Galápagos y Zamora Chinchipe.
+
+La escasez de lluvias ha provocado “**eventos de déficit hídrico, incendios forestales, sequías y afectaciones a la agricultura, al sistema de producción hidroeléctrico, disponibilidad de agua y seguridad y soberanía alimentaria”, señala** el documento.
+
+Emergencia por la sequía
+------------------------
+
+Este sábado 21 de septiembre de 2024, el Comité de Operaciones de Emergencia (COE) de Ecuador convocó a una reunión urgente de su pleno para evaluar el impacto de la sequía.
+
+La sesión del COE, integrado por altas autoridades del Estado y de las instituciones de respuesta ante emergencias, se celebra la noche de este sábado 21 de septiembre en Cuenca con el objetivo de “tomar decisiones inmediatas para salvaguardar los recursos hídricos” del país, señaló la presidencia en un comunicado.
+
+Asimismo, desde el 19 de septiembre, el COE dispuso activar mesas técnicas de discusión especializada y ha pedido a los gobiernos locales que garanticen el suministro de agua potable a la población bajo criterios de calidad establecidos.
+
+Asimismo, dispuso que el Ministerio de Economía y Finanzas dé prioridad a la entrega de recursos para atender la emergencia.
+
+Además, la **Secretaría de Riesgos** informó que en los últimos 27 días se han registrado 23 453 hectáreas afectadas por los incendios forestales en 21 de las 24 provincias del país.
+
+Desde el 23 de agosto al 18 de septiembre se han registrado 1 337 incendios forestales, lo que representa 284 más que en el mismo periodo del año pasado
+
+Sequía convoca de emergencia a las autoridades de Ecuador en Cuenca
+===================================================================
+
+El COE de Ecuador convocó una reunión urgente para abordar la sequía que afecta a varias provincias del país, siendo la más grave en 61 años.
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+![Vista posterior de la presa de Mazar, ubicada en los límites de Azuay y Cañar. Tomada el 17 de agosto de 2024 cuando la cota estuvo en 2147 metros sobre el nivel del mar. Foto. API.](https://www.elcomercio.com/wp-content/uploads/2024/08/Mazar-Ecuador-.jpg)
+
+El Comité de Operaciones de Emergencia (COE) Nacional convocó este sábado 21 de septiembre de 2024 a una reunión urgente. El objetivo es evaluar el impacto de la sequía que afecta a varias provincias del país, informó la Secretaría General de Comunicación de la Presidencia[.](https://es.wikipedia.org/wiki/Ecuador "https://es.wikipedia.org/wiki/Ecuador")
+
+Más noticias
+------------
+
+* [Sequía afecta a hidroeléctricas y obliga a cortes de luz, ¿qué se espera?](https://www.elcomercio.com/actualidad/ecuador/sequia-afecta-hidroelectricas-cortes-luz.html "Sequía afecta a hidroeléctricas y obliga a cortes de luz, ¿qué se espera?")
+* [La solución para los cortes de luz del Ecuador es la geotermia, ¿de qué se trata?](https://www.elcomercio.com/actualidad/negocios/la-solucion-para-los-cortes-de-luz-del-ecuador-es-la-geotermia-de-que-se-trata.html "La solución para los cortes de luz del Ecuador es la geotermia, ¿de qué se trata?")
+* [El embalse de Mazar se acerca a su nivel crítico, ¿habrá cortes de luz?](https://www.elcomercio.com/actualidad/negocios/embalse-mazar-nivel-critico-cortes-de-luz-ecuador.html "El embalse de Mazar se acerca a su nivel crítico, ¿habrá cortes de luz?")
+
+La sesión del COE, integrado por **autoridades del Estado** y de las instituciones de respuesta ante **emergencias**, se celebra la noche de este sábado en Cuenca. Las mismas que tomarán decisiones inmediatas para salvaguardar los recursos hídricos del país.
+
+La Secretaría de Comunicación aseguró que el país afronta actualmente la más grande sequía desde hace 61 años, que ya son “71 días de sequía hidrológica”. Además, recalcó que en el último mes se han registrado más de **1 330 incendios forestale**s en todo el país.
+
+> A la ciudadanía: [pic.twitter.com/qTmGoucXgZ](https://t.co/qTmGoucXgZ)
+> 
+> — Presidencia Ecuador 🇪🇨 (@Presidencia\_Ec) [September 21, 2024](https://twitter.com/Presidencia_Ec/status/1837605648294466013?ref_src=twsrc%5Etfw)
+
+Ante la “compleja situación hídrica”, la Presidencia afirmó que las provincias que pudieran tener una mayor afectación por el fenómeno climático son las andinas de **Azuay, Cañar y Cotopaxi; así como las amazónicas de Zamora Chinchipe y Morona Santiago.**
+
+Alerta roja por sequía
+----------------------
+
+El pasado jueves, el **COE nacion**al declaró en “alerta roja” a 14 de 24 provincias del país. Esto debido a la sequía y la proliferación de incendios forestales.
+
+Las provincias en emergencia son: **Carchi, Cotopaxi, Loja, Pichincha**, **Cañar, Imbabura, Azuay, Bolívar**, **Zamora Chinchipe, Napo, Orellana**, **El Oro, Santa Elena y Manabí.**
+
+Por su parte, Gestión de Riesgos informó ese mismo día que entre el 23 de agosto y el 18 de septiembre se registraron 1 337 incendios forestales. Esto afectó a 23 453 hectáreas afectadas en 21 de las 24 provincias del país.
+
+El déficit de lluvias generó, además, una crisis en el **sector energético**. Principalmente, debido a la bajada de los caudales que alimentan a las principales **centrales hidroeléctricas**.
+
+El **Ecuador** registra una **reducción en la generación de electricidad**, por lo que el Gobierno anunció la aplicación de periodos de cortes de luz escala nacional.
+
+El Ejecutivo dispuso cortes de luz de entre dos y seis horas entre el miércoles y jueves 18 y 19 de septiembre. Además, anunció nuevos apagones entre el 23 y 26 de septiembre.
+
+Sin embargo, en un documento suscrito por la estatal **Corporación Eléctrica de Ecuador** (Celec), que se filtró este sábado 21 de septiembre, se advirtió de un posible inicio inminente de los racionamientos eléctricos.
+
+El viernes 20 de septiembre, el Gobierno solicitó sector privado activar sus generadores de electricidad para aplacar la crisis. El aporte de ese sector podría alcanzar una potencia estimada de 300 megavatios.
+
+Más de dos tercios de la matriz eléctrica de Ecuador corresponden a las fuentes hidroeléctricas, sobre todo de las centrales **Coca Codo Sinclair**, la más grande con 1 500 megavatios de potencia. Así como, el complejo hidroeléctrico del río Paute, que genera unos 1 000 megavatios y que es una de las más golpeadas por la sequía. 
+
+Aucas rompió una extraordinaria racha en Liga Pro
+=================================================
+
+Aucas ganó a Cumbayá con una goleada en la Liga Pro y obtuvo su primera victoria en la segunda etapa del campeonato.
+--------------------------------------------------------------------------------------------------------------------
+
+![Jean Carlos Blanco celebra uno de los goles en el triunfo de Aucas ante Cumbayá en la Liga Pro.](https://www.elcomercio.com/wp-content/uploads/2024/09/20240921128321-fbl-ligapro-ecuabet-cumbaya-aucas-scaled.jpg)
+
+Después de **once fechas** de su último triunfo y cuatro técnicos distintos, **Aucas** consiguió volver al triunfo en la Liga Pro. El equipo oriental venció con una goleada de 3-0 al **Cumbayá** y abandonó la última casilla de la segunda etapa del torneo.
+
+El ‘Ídolo del pueblo’ parece encontrar un signo de reacción a su **crisis deportiva** después con su último triunfo y toma aire en función de sus aspiraciones. La victoria de Aucas llegó como un bálsamo después de una mala racha que estuvo rodeada por una serie de rombolescos momentos y decisiones.
+
+### Más noticias:
+
+* [Aucas se hunde en una crisis de resultados y críticas](https://www.elcomercio.com/deportes/futbol/aucas-crisis-liga-pro-tabla.html "Aucas se hunde en una crisis de resultados y críticas")
+* [(En Vivo) Liga de Quito recibe a El Nacional en un clásico de la Liga Pro](https://www.elcomercio.com/blogs/partido-en-vivo-liga-quito-nacional-liga-pro.html "(En Vivo) Liga de Quito recibe a El Nacional en un clásico de la Liga Pro")
+* [Dragonas IDV golea a Barcelona y es campeón de la Superliga Femenina](https://www.elcomercio.com/deportes/final-dragonas-barcelona-superliga-campeonas.html "Dragonas IDV golea a Barcelona y es campeón de la Superliga Femenina")
+
+Entre la primera y la segunda etapa, **Aucas** había mostrado dos rostros distintos, pues pasó de pelear por ganar la primera ronda a ser un equipo que no podía dar pelea. Tras la salida de Gerardo Espinoza, **Jorge Alfonso** tomó el equipo y fue sustituido tras su debut y su sucesor, **Sebastián Blásquez**, duró cuatro partidos.
+
+Aunque enfrentó a un club que pelea por mantener la categoría, su desempeño fue totalmente distinto al de partidos anteriores y consecuencia de una mejoría con su nuevo DT. Gabriel Pereyra tomó el equipo y perdió en su primer choque ante **Mushuc Runa**, sin embargo, el desempeño invitó a creer que los de Chillogallo se pudieron llevar algo más[.](https://es.wikipedia.org/wiki/Sociedad_Deportiva_Aucas)
+
+Aucas encontró el gol y el triunfo frente a Cumbayá
+---------------------------------------------------
+
+Una de las afecciones de **Aucas** antes del partido frente a **Cumbayá** no había sido únicamente la escasez de triunfos, sino la falta de gol. En las seis fechas previas, el conjunto aurigrana solo había conseguido marcar un tanto, aquel había sido en la jornada anterior.
+
+En el choque, los del **valle quiteño** llegaban con un panorama similar, pues tampoco había conseguido victorias en la segunda etapa. Asimismo, la cantidad de fechas -once- era la misma que la de los orientales con respecto a su último triunfo.
+
+Cuando saltaron a la cancha, el plantel de Pereyra tuvo una idea más seria con respecto a su propuesta y aquello se tradujo en goles. El plantel de **Chillogallo** no solo se mostró certero en lo que buscaba, sino que sus rivales presentaron un **desentendimiento** permanente.
+
+A los 11 minutos de juego cayó el primer tanto, el defensa **John Jairo Ontaneda** apareció para marcar. El gol permitió controlar el partido y, aunque parecía que la ventaja sería mínima, la goleada llegó en el complemento.
+
+Los tantos retornaron a la delantera orietal
+--------------------------------------------
+
+Dentro del segundo tiempo, a los 54′ cayó el segundo tanto de Aucas de la mano de Jean Carlo Blanco. El delantero colombiano fue el llamado a sustituir a su compatriota **Jeison Medina** después de que este abandonase el elenco para unirse a **Independiente del Valle**.
+
+Para sellar la victoria estuvo **Piero Guzmán**. El joven canterano tuvo su chance a los 87 minutos y firmó la goleada.
+
+El triunfo permite a **Aucas** continuar en pelea por ingresar a torneos internacionales y en la segunda etapa lo pone en la decimotercera posición. En el caso de **Cumbayá**, este permanece en la zona de descenso en la tabla acumulada y último en la vigente ronda.
+
+‘Miniluna’ acompañará a la Tierra durante dos meses, ¿desde cuándo se verá?
+===========================================================================
+
+El asteroide 2024 PT5 será capturado temporalmente por la gravedad de la Tierra, orbitándola como una "mini luna" por dos meses.
+--------------------------------------------------------------------------------------------------------------------------------
+
+![El asteroide 2024 PT5, de 10 metros de diámetro, orbitará por dos meses junto a la Luna Tradicional. Foto: Redes sociales](https://www.elcomercio.com/wp-content/uploads/2024/09/mini-luna.jpg)
+
+La Tierra tendrá **dos lunas por dos meses**. Un **pequeño asteroide**, conocido como **2024 PT5**, se convertirá en una ‘**miniluna**‘ que acompañará a la Luna tradicional por 56 días. Aunque no es la primera vez que ocurre un fenómeno de este tipo, es una oportunidad única para los aficionados a la astronomía, ya que un evento similar no se repetirá hasta 2051[.](https://es.wikipedia.org/wiki/Sat%C3%A9lite_asteroidal "https://es.wikipedia.org/wiki/Sat%C3%A9lite_asteroidal")
+
+### Más noticias
+
+* [La Superluna de Cosecha iluminó el cielo de Ecuador](https://www.elcomercio.com/uncategorized/superluna-cosecha-cielo-ecuador.html "La Superluna de Cosecha iluminó el cielo de Ecuador")
+* [Último eclipse lunar de 2024 visto desde Ecuador](https://www.elcomercio.com/tendencias/ciencia/eclipse-lunar-superluna-cosecha-astronomia.html "Último eclipse lunar de 2024 fue visto desde Ecuador")
+* [La Súper](https://www.elcomercio.com/actualidad/ecuador/ecuador-super-luna-azul.html "La Súper Luna Azul deslumbra a los ecuatorianos") [Luna Azul deslum](https://www.elcomercio.com/actualidad/ecuador/ecuador-super-luna-azul.html "La Súper Luna Azul deslumbra a los ecuatorianos")[bra a los ecuatorianos](https://www.elcomercio.com/actualidad/ecuador/ecuador-super-luna-azul.html "La Súper Luna Azul deslumbra a los ecuatorianos")
+
+El **asteroide 2024 PT5**, de 10 metros de diámetro, fue detectado el pasado 7 de agosto por el Sistema de Última Alerta de Impacto Terrestre de Asteroides, en Sudáfrica.
+
+Según los expertos, la gravedad terrestre atrapó este pequeño cuerpo celeste. Esto le permitirá orbitar temporalmente nuestro planeta, formando lo que algunos llaman una ‘**miniluna**‘.
+
+Según los astrónomos **Carlos de la Fuente Marcos y Raúl de la Fuente Marcos**, de la Universidad Complutense de Madrid, el asteroide comenzará su órbita alrededor de la Tierra el 29 de septiembre y permanecerá con nosotros hasta el 25 de noviembre. Durante esos 56,6 días, la Tierra podrá presumir de tener dos lunas, según detalla, el País de España.
+
+¿Se lo podrá ver a simple vista la ‘miniluna’?
+----------------------------------------------
+
+A pesar de lo emocionante que resulta la idea de tener dos lunas. El a**steroide 2024 PT5** no será visible a simple vista. Su magnitud absoluta, de 27,6, es demasiado tenue para ser vista. Loa telescopios de aficionados tampoco lo pueden observador. Sin embargo, su presencia será un hecho científico relevante, ya que, aunque no se la pueda ver, sabremos que está ahí, orbitando alrededor de la Tierra, señaló DW.com.
+
+Los investigadores sugieren que el asteroide podría ser miembro de la familia Arjuna, un grupo de objetos cercanos a la Tierra con órbitas similares a la de nuestro planeta. Estos asteroides deben su nombre a Arjuna, un príncipe de la antigua India y protagonista de la epopeya hindú Mahābhārata.
+
+No es la primera ‘miniluna’ que orbita la Tierra
+------------------------------------------------
+
+Sin embargo, este fenómeno no es nuevo. En 2006, el **asteroide 2006 RH120**, de 5 metros, permaneció durante un año en la órbita de la Tierra. Más recientemente, otro asteroide permaneció hasta mayo de 2020. Según los cálculos, el 2024 PT5 regresará brevemente en enero de 2025 y hará otra visita en 2055.
+
+Liga de Quito igualó con El Nacional en un clásico de la Liga Pro
+=================================================================
+
+Liga de Quito recibe a El Nacional por la séptima fecha de la segunda etapa de la Liga Pro en el Estadio Rodrigo Paz Delgado.
+-----------------------------------------------------------------------------------------------------------------------------
+
+![Marcos Olmedo de El Nacional (izq.) disputa un balón con Ezequiel Piovi de Liga de Quito (der.).](https://www.elcomercio.com/wp-content/uploads/2024/09/20240921128393-fbl-ligapro-liga-nacional-scaled.jpg)
+
+**Liga de Quito y El Nacional** disputaron un nuevo enfrentamiento en la Liga Pro, programado para este sábado 21 de septiembre de 2024, a las 16:30. Este clásico llegó en un momento crucial para ambos equipos, que presentaban situaciones dispares.
+
+Los albos, dirigidos por **Pablo ‘Vitamina’ Sánchez**, llegaron como líderes de la tabla. El cuadro criollo ocupaba la novena posición y se enfrenta a la ausencia de su entrenador **Marcelo Zuleta**, quien fue sancionado con cuatro partidos por un insulto al árbitro en el encuentro anterior[.](https://es.wikipedia.org/wiki/Club_Deportivo_El_Nacional)
+
+### Más noticias:
+
+* [Hora y alineaciones para Liga de Quito vs. El Nacional](https://www.elcomercio.com/deportes/alineaciones-hora-liga-quito-el-nacional.html "Hora y alineaciones para Liga de Quito vs. El Nacional")
+* [¿Cómo llega Liga de Quito ante El Nacional en Liga Pro?](https://www.elcomercio.com/deportes/como-va-liga-quito-nacional.html "¿Cómo llega Liga de Quito ante El Nacional en Liga Pro?")
+* [El Nacional ganó 13 veces en el Rodrigo Paz a Liga de Quito](https://www.elcomercio.com/deportes/futbol/el-nacional-triunfo-rodrigo-paz-delgado.html "El Nacional ganó 13 veces en el Rodrigo Paz a Liga de Quito")
+
+Ambos equipos arribaron con resultados diferentes en su último partido: **Liga de Quito** sufrió una goleada ante **Imbabura**, mientras que **El Nacional** logró una victoria en casa contra Cumbayá. Este choque se llevó a cabo en el Estadio Rodrigo Paz Delgado, donde ambas escuadras presentaron casi a todos sus jugadores disponibles.
+
+Liga de Quito contó con el regreso de **Ricardo Adé,** quien superó una lesión, a diferencia de Jhojan Julio, quien se perdió el partido. El Nacional tuvo a la mayoría de sus figuras, a excepción de **Moisés Corozo y Daniel Patiño**, quienes tienen algunas molestias.
+
+Este encuentro marcó el inicio de una serie de partidos entre estos rivales, lo que añadió aún más emoción a la competencia. Ambos equipos buscarán demostrar su valía en este clásico, con la esperanza de sumar puntos cruciales en la segunda etapa de la **Liga Pro**.
+
+Liga de Quito estrenó uniforme y El Nacional el marcador
+--------------------------------------------------------
+
+Para el cotejo, los albos iniciaron un nuevo uniforme conmemorativo. Una blusa blanca con franjas rojas en vertical los acompañó durante el partido como un homenaje al club universitario, el cual **Liga de Quit**o considera como **predecesor de su equipo**.
+
+En función de la nueva indumentaria de Liga de Quito, **El Nacional** debió jugar con su uniforme alterno: camiseta negra y pantaloneta roja. En el banquillo rojo, **Carlos Girardejo** reemplazó a Zuleta y siguió sus instrucciones a distancia.
+
+La escuadra de **‘Vitamina’ Sánchez** pisó fuerte desde el inicio y arrinconó a sus rivales, que optaron por las contras. A los 15 minutos, Liga de Quito tuvo una acción de peligro mayúsculo tras un cabezazo de Ricardo Adé, sin embargo, el arquero **David Cabezas** le ganó el duelo.
+
+El ‘Bi-Tri’ se puso primero por encima del marcador gracias a una veloz transición. El Nacional buscó llegar y, cuando **Alejandro Cabeza** buscaba llegar a una pelota, Adé lo tomó dentro del área y aquello derivó en un penal.
+
+**Gabriel Cortez** tomó la responsabilidad del penal y venció al guardameta Alexander Domínguez. Un toque esquinado y de borde interno hacia el palo derecho del portero firmó la ventaja de 1-0 para El Nacional.
+
+Parecía que los puros criollos se iban con la victoria hacia el segundo tiempo, sin embargo, el plantel no supo cómo sostenerse. A los 45 minutos y a punto de que termine la primera mitad, **Gabriel Villamil** apareció para que el marcador vuelva a estar igualado.
+
+David Cabezas fue la figura y el empate se mantuvo
+--------------------------------------------------
+
+En la segunda mitad del compromiso, **Liga de Quito** obtuvo una postura mucho más ofensiva, sin embargo, no consiguió el triunfo. La resistencia de El Nacional se impuso y el arquero **David Cabezas** se erigió como la figura.
+
+El equipo azucena buscó a **Álex Arce** y generó oportunidades desde los costados, pero no consiguió vulnerar el arco criollo. Cabezas salió victorioso entre remates con destino de gol y duelos mano a mano con rivales.
+
+El ‘Bi-Tri’ no consiguió presentar mayores ataques y optó por llevarse el punto. Pese a ello, en uno de sus pasos a la ofensiva consiguió una falta de **Richard Mina**, quien ya tenía tarjeta amarilla y fue expulsado.
+
+Con el punto, **Liga de Quito** mantiene el liderato de la segunda etapa y **El Nacional** sube hasta la sexta posición. Ambos puestos no son definitivos y estará condicionados por los demás duelos.
+
+Alineaciones de Liga de Quito y El Nacional
+-------------------------------------------
+
+**Liga de Quito**: Alexander Domínguez (arquero); José Quintero, Ricardo Adé, Richard Mina, Leonel Quiñónez (defensas); Gabriel Villamil, Ezequiel Piovi, Bryan Ramírez, Luis Estupiñán y Fernando Cornejo (volantes); Álex Arce (delantero).
+
+**El Nacional**: David Cabezas (arquero); Kevin Peralta, Rommel Cabezas, José Ignacio Flor, Mario Pineida (defensas); Marcos Olmedo, Charles Vélez, Jonathan Borja, Jorge Ordóñez y Gabriel Cortez (volantes); Alejandro Cabeza (delantero).
+
+Leopardo considerado extinto hace 50 años fue avistado en Turquía
+=================================================================
+
+El gran felino fue visto con una cámara térmica mientras paseaba entre rocas y arbustos, en Anatolia.
+-----------------------------------------------------------------------------------------------------
+
+![El Panthera pardus tulliana es una subespecie de leopardo originario de Asia Menor.](https://www.elcomercio.com/wp-content/uploads/2024/09/leopardo.jpg)
+
+Las autoridades de **Turquía** confirmaron el avistamiento de un **leopardo** en la región del mar Egeo, en el oeste de Anatolia, donde este felino se creía extinto desde hace décadas.
+
+Así lo informó este sábado 21 de septiembre de 2024, la televisión pública **TRT**.
+
+### Más noticias
+
+* [Los peligros ocultos de la obesidad en los animales de compañía](https://www.elcomercio.com/narices-frias/peligros-ocultos-obesidad-animales-compania.html "Los peligros ocultos de la obesidad en los animales de compañía")
+* [Crea ‘outfits’ salvajes con prendas de ‘animal print’](https://www.elcomercio.com/afull/crea-outfits-salvajes-con-prendas-de-animal-print.html "Crea ‘outfits’ salvajes con prendas de ‘animal print’")
+* [Las razones por las que la gente adopta a un animal de compañía](https://www.elcomercio.com/narices-frias/razones-gente-adopcion-animal-compania.html "Las razones por las que la gente adopta a un animal de compañía")
+
+El canal difundió un vídeo de un minuto de duración en el que se ve, en parte en imágenes de cámara térmica, un **gran felino** pasear entre rocas y arbustos.
+
+Las imágenes se tomaron en el marco de un proyecto de **rastreo de leopardos**, que realizó la Dirección de Parques Nacionales de Turquía y la Universidad de Isparta.
+
+Leopardo estaba desaparecido desde 1975
+---------------------------------------
+
+El leopardo de Anatolia se creía desaparecido desde **1975** y se achacaban a errores o confusiones con el lince. Hubo testimonios de avistamientos ocasionales.
+
+En 2013, un pastor mató en defensa propia un leopardo en la provincia de **Diyarbakir**, en el sureste de Turquía.
+
+El caso concluyó que el animal pudo haber llegado desde **Irán**, donde la especie está presente y tiene muchas amenazas.
+
+En 2019, el Ministerio de Agricultura y Bosques documentó la presencia de leopardos en otras regiones de **Anatolia**.
+
+Sin embargo, el vídeo que se difundió hoy es la **primera confirmación** de que el felino sobrevivió también en Turquía occidental.
+
+Por precaución, las autoridades no divulgaron la zona en la que fue tomado el vídeo.
+
+Solo se conoce que el animal fue visto “en el interior de la Región del Egeo”, que abarca **ocho provincias**[.](https://es.wikipedia.org/wiki/Panthera_pardus_tulliana "https://es.wikipedia.org/wiki/Panthera_pardus_tulliana")
+
+La ley prevé una pena de entre dos y **cinco años de cárcel**, así como 30 millones de liras (casi un millón de dólares) de multa por infligir daño a un animal en peligro de extinción. Esa lista la encabeza el leopardo anatolio.
+
+Muere uno de los 33 mineros rescatados en 2010 en mina de Chile
+===============================================================
+
+Mario Gómez, uno de los 33 mineros rescatados tras quedar atrapado en la mina San José en 2010, falleció a los 74 años.
+-----------------------------------------------------------------------------------------------------------------------
+
+![Mario Gómez tenía 63 años cuando ocurrió el derrumbe, fue el noveno de los mineros en ser rescatado. Foto: Archivo](https://www.elcomercio.com/wp-content/uploads/2024/09/chile.jpg)
+
+El chileno **Mario Gómez**, el mayor de los 33 mineros que quedaron atrapados durante más de 60 días en la mina San José en 2010 (norte de **Chile**), falleció este sábado 21 de septiembre de 2024, a los 74 años. La causa de su muerte no se conoce, pero sufría de **silicosis** y dependía de oxígeno.
+
+### Más noticias
+
+* [Médica personal de José Mujica habló de su estado de salud](https://www.elcomercio.com/actualidad/mundo/medico-jose-mujica-salud.html "Médica personal de José Mujica habló de su estado de salud")
+* [Fiscalía de Venezuela tramita solicitud de una orden de captura contra Javier Milei](https://www.elcomercio.com/actualidad/mundo/fiscalia-venezuela-tramita-solicitud-orden-captura-contra-javier-milei.html "Fiscalía de Venezuela tramita solicitud de una orden de captura contra Javier Milei")
+* [Avión oficial venezolano aterriza de emergencia en la ciudad colombiana de Cúcuta](https://www.elcomercio.com/actualidad/mundo/avion-oficial-venezolano-aterriza-emergencia-ciudad-colombiana-cucuta.html "Avión oficial venezolano aterriza de emergencia en la ciudad colombiana de Cúcuta")
+
+La funeraria **La Candelaria de Copiapó,** ubicada en la región de **Atacama**, en el norte de **Chile**, informó de la muerte en sus redes sociales, sin detallar las causas de la misma. “Entregamos nuestras más sinceras condolencias a sus familiares y amigos”, dijo la compañía.
+
+Gómez, que tenía 63 años cuando ocurrió el derrumbe en la **mina San José**. Él fue el noveno de los mineros rescatados de las entrañas de la tierra en un **rescate milagroso y faraónico**. El hecho despertó el orgullo de todo un país y fue seguido en internet por más de mil millones de personas.
+
+El derrumbe en el viejo yacimiento de **oro y cobre del norte de Chile** se produjo el 5 de agosto de 2010. Los 33 mineros fueron sacados sanos y salvos, uno a uno, el 13 de octubre de ese mismo año.
+
+Los mineros se convirtieron en héroes nacionales por su resiliencia y su trabajo en equipo y viajaron por todo el mundo contando su hazaña.
+
+Sin embargo, la gran mayoría no pudieron volver a trabajar en la minería y sobreviven gracias a una pequeña pensión estatal vitalicia.
+
+Gómez sufría **silicosis tras años trabajando bajo suelo** y en 2017 se convirtió en **oxígeno-dependiente.**
+
+El accidente, del que la **empresa San Esteban** salió impune, marcó un punto de inflexión en los **estándares de seguridad** de la poderosa **minería de Chile**, el primer productor mundial de cobre.
+
+Médica personal de José Mujica habló de su estado de salud
+==========================================================
+
+La doctora a cargo del expresidente de Uruguay dio detalles de su condición médica tras los rumores de un posible fallecimiento.
+--------------------------------------------------------------------------------------------------------------------------------
+
+![José Mujica fue presidente de Uruguay entre 2010 y 2015](https://www.elcomercio.com/wp-content/uploads/2024/09/mujica-efe.jpg)
+
+El expresidente de Uruguay, **José ‘Pepe’ Mujica**, continúa recuperándose de su salud en su domicilio.
+
+Así lo confirmó este sábado 21 de septiembre de 2024, su doctora personal **Raquel Pannone**, quien aseguró que la situación del exgobernante es **positiva**.
+
+### Más noticias
+
+* [Fiscalía de Venezuela tramita solicitud de una orden de captura contra Javier Milei](https://www.elcomercio.com/actualidad/mundo/fiscalia-venezuela-tramita-solicitud-orden-captura-contra-javier-milei.html "Fiscalía de Venezuela tramita solicitud de una orden de captura contra Javier Milei")
+* [Gobierno de Venezuela rechaza el respaldo de Estados Unidos a González y a Machado](https://www.elcomercio.com/actualidad/mundo/gobierno-venezuela-rechaza-respaldo-estados-unidos-gonzalez-urrutia-machado.html "Gobierno de Venezuela rechaza el respaldo de Estados Unidos a González y a Machado")
+* [Edmundo González dice que firmó un documento bajo ‘coacción’ y que por tanto es nulo](https://www.elcomercio.com/actualidad/mundo/edmundo-gonzalez-firmo-documento-bajo-coaccion-tanto-nulo.html "Edmundo González dice que firmó un documento bajo ‘coacción’ y que por tanto es nulo")
+
+El comunicado de la médica llegó luego de que varios usuarios en redes sociales especularan sobre el posible **fallecimiento** de Mujica.
+
+El 13 de septiembre, el exmandatario de 89 años abandonó el **hospital** en el que se encontraba internado y donde se le hizo una gastrostomía que dio buen resultado.
+
+Mujica, presidente de Uruguay en el período **2010-2015**, fue intervenido seis días antes. Se le colocó una **sonda de alimentación** que va directamente al estómago.
+
+“Se le está administrando un preparado que está especialmente formulado para cubrir sus necesidades nutricionales. Lo ha tolerado muy bien, le ha permitido mejorar su estado general”, detalló Pannone.
+
+“Mujica continuará alimentándose de esa forma durante el tiempo que **fuera necesario**, para asegurarse un buen aporte alimenticio, mientras la lesión que tienen en el esófago retrocede”, añadió la profesional.
+
+Mujica se recupera en su domicilio
+----------------------------------
+
+El día de su salida de la casa de salud, Pannone también confirmó que el expresidente continuará recuperándose en su domicilio y que se esperará que lentamente pudiera retomar su **movilidad**.
+
+Días antes de la intervención, Mujica había sido internado para ser **rehidratado** tras el poco aporte líquido que estaba recibiendo.
+
+Pannone indicó que las dificultades para alimentarse del exmandatario eran a causa de una fibrosis en el esófago.
+
+Este problema es consecuencia del tratamiento de radioterapia que recibió en dicha zona por un **tumor maligno** del que fue tratado. 
+
+Hora y alineaciones para Liga de Quito vs. El Nacional
+======================================================
+
+El Nacional y Liga de Quito tienen listas a sus escuadras para el enfrentamiento de la séptima fecha de la Liga Pro.
+--------------------------------------------------------------------------------------------------------------------
+
+![Tomson Minda de El Nacional (izq.) encara a Facundo Rodríguez de Liga en la primera etapa de la Liga Pro.](https://www.elcomercio.com/wp-content/uploads/2024/09/20240406100770-fbl-liga-pro-ecuabet-nacional-liga-scaled.jpg)
+
+**Liga de Quito y El Nacional** están listos para medirse en un nuevo enfrentamiento por la Liga Pro. Las escuadras jugarán durante este sábado 21 de septiembre del 2024 a las 16:30 y los entrenadores tienen listos a los equipos que pondrán en la cancha.
+
+Con presentes distintos, albos y criollos, así como sus entrenadores, arriban al clásico entre sí en la séptima fecha de la segunda etapa. El conjunto universitario saltará a la cancha como puntero y con su DT **Pablo ‘Vitamina’ Sánchez** en cancha. El ‘Rojo’ lo hará en la novena posición y sin su estratega **Marcelo Zuleta**, quien recibió una suspensión de cuatro partidos después de insultar al árbitro en el compromiso previo[.](https://es.wikipedia.org/wiki/Club_Deportivo_El_Nacional)
+
+### Más noticias:
+
+* [¿Cómo llega Liga de Quito ante El Nacional en Liga Pro?](https://www.elcomercio.com/deportes/como-va-liga-quito-nacional.html "¿Cómo llega Liga de Quito ante El Nacional en Liga Pro?")
+* [El Nacional ganó 13 veces en el Rodrigo Paz a Liga de Quito](https://www.elcomercio.com/deportes/futbol/el-nacional-triunfo-rodrigo-paz-delgado.html "El Nacional ganó 13 veces en el Rodrigo Paz a Liga de Quito")
+* [15 años sin justicia para José Erazo, padre de hincha de El Nacional asesinado](https://www.elcomercio.com/deportes/jose-erazo-david-erazo-el-nacional-hincha.html "15 años sin justicia para José Erazo, padre de hincha de El Nacional asesinado")
+
+Durante su último compromiso, ambos clubes también tuvieron resultados opuestos: **Liga de Quito** cayó por goleada ante Imbabura de visitante, mientras que El Nacional se impuso por 2-1 ante el **Cumbayá** en casa.
+
+El choque entre las dos escuadras se llevará a cabo en el Estadio Rodrigo Paz Delgado de la ‘U’ y ambas cuentan casi con todas sus figuras. En el cuadro universitario regresa Ricardo Adé y se mantiene como baja Jhojan Julio por lesión; en la escuadra criolla están todos disponibles, salvo por **Moisés Corozo y Daniel Patiño**, quienes presentan molestias.
+
+Alineaciones de Liga de Quito y El Nacional
+-------------------------------------------
+
+**Liga de Quito**: Alexander Domínguez (arquero); José Quintero, Ricardo Adé, Richard Mina, Leonel Quiñónez (defensas); Gabriel Villamil, Ezequiel Piovi, Bryan Ramírez, Luis Estupiñán y Fernando Cornejo (volantes); Álex Arce (delantero).
+
+**El Nacional**: David Cabezas (arquero); Kevin Peralta, Rommel Cabezas, José Ignacio Flor, Mario Pineida (defensas); Marcos Olmedo, Charles Vélez, Jonathan Borja, Jorge Ordóñez y Gabriel Cortez (volantes); Alejandro Cabeza (delantero).
+
+El Nacional y Liga tiene dos partidos seguidos
+----------------------------------------------
+
+El choque entre **Liga de Quito y El Nacional** en la Liga Pro inaugurará una seguidilla de compromisos entre los dos equipos. Después de su choque en el torneo nacional, los equipos volverán a medirse en la Copa Ecuador.
+
+El cotejo copero será el **25 de septiembre del 2024**. Allí, las dos escuadras se medirán en la fase de cuartos de final.
+
+Más de 60 barrios de Quito tendrán cortes de agua este fin de semana
+====================================================================
+
+La Epmaps implementó un cronograma de suspensiones para este sábado 21 y domingo 22 de septiembre.
+--------------------------------------------------------------------------------------------------
+
+![En algunos puntos de la ciudad el abastecimiento de agua se realiza con tanqueros](https://www.elcomercio.com/wp-content/uploads/2024/09/quito-cortes-a.jpg)
+
+Varios barrios de **Quito** verán tendrán **cortes de agua** potable este fin de semana, debido al **déficit hídrico** que enfrenta la ciudad y el país.
+
+Ante esta problemática, la Empresa Metropolitana de Agua Potable y Saneamiento de Quito (**Epmaps**) implementó un **cronograma** de suspensiones, con el objetivo de distribuir de una forma más equitativa el agua en la capital.
+
+### Más noticias
+
+* [¿Por qué se registran ligeras lluvias en Quito?](https://www.elcomercio.com/actualidad/quito/por-que-se-registran-ligeras-lluvias-en-quito.html "¿Por qué se registran ligeras lluvias en Quito?")
+* [Aeropuerto de Quito suspende sus operaciones y vuelos](https://www.elcomercio.com/actualidad/quito/aeropuerto-quito-suspende-operaciones-vuelos-simulacro-pista-mantenimiento.html "Aeropuerto de Quito suspende sus operaciones y vuelos")
+* [¿Cuándo serán los próximos cortes de luz en Ecuador?](https://www.elcomercio.com/actualidad/negocios/cuando-seran-los-proximos-cortes-de-luz-en-ecuador.html "¿Cuándo serán los próximos cortes de luz en Ecuador?")
+
+La suspensión afectará a los sectores que son abastecidos por la Planta de Tratamiento de Agua Potable de **Puengasí**, en el centro y sur de Quito.
+
+Barrios con cortes de agua programados
+--------------------------------------
+
+### Tanques: Alpahuasi Alto, Guápulo, Itchimbía Medio, Argelia Alto
+
+Estos barrios no tendrán servicio de agua potable entre el **sábado 21**, a partir de las **19:00**, hasta las **07:00** del **domingo 22** de septiembre.
+
+* González Suárez
+* Guápulo
+* Itchimbía
+* La Merced
+* San Roque
+* La Tola
+* San Marcos
+* La Loma
+* González Suárez (Centro Histórico)
+* San Sebastián
+* El Sena
+* México
+* Los Andes
+* Dos Puentes
+* Santa Ana
+* Villaflora
+* La Recoleta
+* El Camal
+* El Recreo
+* Molinos
+* Luluncoto
+
+> 💧 [#ConsumoResponsable](https://twitter.com/hashtag/ConsumoResponsable?src=hash&ref_src=twsrc%5Etfw) | Llevamos más de 40 días sin lluvias consecutivas, por eso utiliza el agua únicamente para la alimentación, higiene e hidratación. Evita lavar el vehículo, la aceras y el patio.  
+>   
+> Con el apoyo de todos los vecinos y vecinos, [#QuitoRenace](https://twitter.com/hashtag/QuitoRenace?src=hash&ref_src=twsrc%5Etfw)[@MunicipioQuito](https://twitter.com/MunicipioQuito?ref_src=twsrc%5Etfw)… [pic.twitter.com/lEkmKU6iTr](https://t.co/lEkmKU6iTr)
+> 
+> — Epmaps – Agua de Quito (@aguadequito) [September 19, 2024](https://twitter.com/aguadequito/status/1836836100565811592?ref_src=twsrc%5Etfw)
+
+### Tanque San Bartolo
+
+Los cortes de agua en estos lugares se realizarán el **domingo 22**, a partir de las 07:00 y finalizarán a las 19:00.
+
+* Germán Ávila
+* San Agustín
+* Los Andes
+* Chimbacalle
+* México
+* Pío XII
+* El Camal
+* Doscientas Casas
+* San Bartolo
+* Eplicachima
+* Argelia Intermedia
+* El Recreo
+* Clemencia
+* Ferroviaria Baja
+* Clemente Ballén
+* Teniente Hugo Ortíz
+* El Calzado
+* 1 de Mayo
+* Barrionuevo
+* Los Arrayanes
+* Atahualpa
+* La Magdalena
+
+### Tanques: Chachas Alto, San Isidro Bajo y Alto, Edén del Valle, Puengasí Alto
+
+La suspensión en estos sectores comenzará el **domingo 22** a las **19:00** y se extenderá hasta el **lunes 23** de septiembre, a las **07:00**.
+
+* Miravalle
+* Edén del Valle
+* San Francisco
+* Puengasí Bajo
+* Las Mallas
+* Lupero
+* Chachas Alto
+* Monjas a Donoso
+* San José de Monjas
+* Forestal Alto
+* San Patricio
+* Santa Faz de Conocoto
+* Puertas al Sol
+* Obrero Independiente 1, 2 y 3
+* Valle del Sur
+* Autopista General Rumiñahui (hasta puente 3)
+* 28 de Noviembre
+* Lomas de Puengasí
+* 1 de Mayo
+* Monjas
+* Simón Bolívar
+* Madrigal
+* Mariano Hinojosa
+
+> 💧 [#ConsumoResponsable](https://twitter.com/hashtag/ConsumoResponsable?src=hash&ref_src=twsrc%5Etfw) | Estamos pasando por una temporada extremadamente seca sin lluvias y todos debemos ayudar a reducir el consumo de agua en cada actividad.  
+>   
+> Con tu apoyo, [#QuitoRenace](https://twitter.com/hashtag/QuitoRenace?src=hash&ref_src=twsrc%5Etfw)[@MunicipioQuito](https://twitter.com/MunicipioQuito?ref_src=twsrc%5Etfw) [@ambientequito](https://twitter.com/ambientequito?ref_src=twsrc%5Etfw) [pic.twitter.com/UDEDezy2iC](https://t.co/UDEDezy2iC)
+> 
+> — Epmaps – Agua de Quito (@aguadequito) [September 19, 2024](https://twitter.com/aguadequito/status/1836751038436565026?ref_src=twsrc%5Etfw)
+
+Otros cortes programados
+------------------------
+
+Además de este cronograma, otros barrios de Quito se verán afectados con la suspensión del servicio de **agua potable**.
+
+En sectores como Alangasí, La Merced, Calacalí, Pomasqui y San Antonio, la distribución tendrá distintos días y horarios.
+
+Para consultar la **programación** de suspensiones de septiembre en estas zonas visita la [página oficial](https://www.aguaquito.gob.ec/calendarios-de-abastecimiento-septiembre-2024/ "https://www.aguaquito.gob.ec/calendarios-de-abastecimiento-septiembre-2024/") de la Epmaps.
+
+¿Qué nos enseñan la ciencia y las películas sobre el alzhéimer? 
+================================================================
+
+En el Día Mundial del Alzheimer, reflexionamos sobre esta enfermedad a través del cine.
+---------------------------------------------------------------------------------------
+
+![Las demencias, como el Alzheimer, presentan síntomas que afectan la memoria y las funciones cognitivas. Foto: Freepik.](https://www.elcomercio.com/wp-content/uploads/2024/09/dia-alzheimer.jpg)
+
+El 21 de septiembre se conmemora el **Día Mundial del Alzheimer**, proclamado por la **Organización Mundial de la Salud** (OMS) y auspiciado por **Alzheimer’s Disease International** (ADI).  
+
+### Más noticias
+
+* [Seis películas con sorprendentes finales abiertos y su análisis](https://www.elcomercio.com/tendencias/cine/peliculas-cine-analisis-final-abierto.html "https://www.elcomercio.com/tendencias/cine/peliculas-cine-analisis-final-abierto.html") 
+* [Muere Juan Brujo, líder de la banda mexicana de metal Brujería](https://www.elcomercio.com/tendencias/cultura/juan-brujo-brujeria-obituario-metal.html "https://www.elcomercio.com/tendencias/cultura/juan-brujo-brujeria-obituario-metal.html") 
+
+Desde 1994, a decir de [Día Mundial De](https://www.diainternacionalde.com/ficha/dia-mundial-alzheimer "https://www.diainternacionalde.com/ficha/dia-mundial-alzheimer"), **esta fecha busca crear conciencia sobre la enfermedad** y su impacto en millones de personas.  
+
+En 2012, la ADI extendió la conmemoración a todo septiembre, designándolo como el **Mes Mundial del Alzheimer**. El objetivo es **informar sobre los síntomas y la importancia del diagnóstico temprano**, para mejorar así la calidad de vida de los pacientes y sus cuidadores.  
+
+**Alzhéimer y demencias: síntomas y diagnóstico temprano** 
+-----------------------------------------------------------
+
+Las **demencias**, incluida la **enfermedad de Alzheimer**, se caracterizan por una **pérdida progresiva de las funciones cognitivas** que interfiere con las actividades diarias. Según Luisa Rivera, neuropsicóloga clínica, **el alzhéimer puede tener un componente hereditario**, pero también existen **demencias secundarias a lesiones vasculares o enfermedades como el Parkinson**.  
+
+Los síntomas de alarma incluyen la **pérdida de memoria reciente, dificultad para resolver problemas, cambios en el lenguaje y desorientación en tiempo y espacio**. En etapas avanzadas, **las personas pueden perderse en lugares familiares o no recordar cómo regresar a casa**. Cambios en el comportamiento, como apatía, ansiedad y dificultad para realizar tareas cotidianas, también son comunes. 
+
+Rivera subraya que **el alzhéimer es la forma más común de demencia**, aunque el término “demencia senil” es incorrecto. **Es importante recordar que estos síntomas pueden confundirse con el envejecimiento normal**. Si se observan cambios persistentes en la memoria o el comportamiento, **se recomienda una evaluación médica y neuropsicológica para un diagnóstico temprano y un tratamiento adecuado**, además de descartar otras condiciones médicas que podrían estar detrás de los síntomas. 
+
+**El alzhéimer en el cine** 
+----------------------------
+
+El alzhéimer es **una condición que debe ser considerada y entendida**. Para ello, el cine ha utilizado historias y dramas que **permiten acercarse de una manera distinta a esta enfermedad** y comprender que es una realidad importante. Gracias a la página [La Mente es Maravillosa](https://lamenteesmaravillosa.com/las-5-mejores-peliculas-sobre-el-alzheimer/ "https://lamenteesmaravillosa.com/las-5-mejores-peliculas-sobre-el-alzheimer/"), hemos elaborado una lista con las mejores cintas sobre el alzhéimer. 
+
+### **‘Lejos de ella’ (2007)** 
+
+Basada en un **relato de Alice Munro**, la película sigue a **Fiona (Julie Christie)**, quien muestra **signos de alzhéimer** desde el principio. **Nominada al Oscar**, Christie interpreta a una mujer que ingresa a un centro de cuidado, a pesar de la oposición de su esposo, Grant. Tras un mes separados, **Grant descubre que Fiona ha formado una amistad cercana con otro hombre**, lo que lo lleva a replantear su papel en su felicidad. 
+
+### **‘Iris’ (2001)** 
+
+Protagonizada por **Judi Dench, Jim Broadbent y Kate Winslet**, Iris narra la vida de la **novelista británica Iris Murdoch y su esposo**. La película retrata el doloroso proceso de **pérdida de comunicación debido al alzhéimer**, al mostrar cómo una mujer vibrante se convierte en una sombra de sí misma. Con honestidad, invita a reflexionar sobre los deseos y sueños de quienes enfrentan esta enfermedad. 
+
+### **‘Nader y Simin: una separación’ (2011)** 
+
+Una **obra maestra del cine** que aborda temas como la familia, la religión y la justicia, con el Alzheimer como motor de la trama. En medio de su divorcio, **Nader y Simin deben tomar decisiones sobre su hija y el padre de Nader**, quien sufre de Alzheimer. **La película destaca los valores familiares y la dignidad**, al presentar la delicadeza con la que el hijo apoya a su padre. 
+
+### **‘Poesía’ (2010)** 
+
+La vida de **Mija (Yun Jeong-Hee)**, una abuela que trabaja como cuidadora, da un giro inesperado tras **presenciar un suicidio**. A pesar del alzhéimer, **se sumerge en la poesía y debe confrontar una dolorosa verdad sobre su nieto**, lo que la lleva a una profunda transformación interior. 
+
+### **‘Amour’ (2012)** 
+
+**La película más emotiva de Michael Haneke**, ganó múltiples premios, incluida la Palma de Oro y el **Oscar a Mejor Película Extranjera**. La historia sigue a George y Anne, una pareja de 80 años, cuyos lazos se ponen a prueba tras **un derrame cerebral debilitante que afecta a Anne**. A pesar de su propio desgaste por la vejez, **Georges se dedica a cuidar de su esposa**, desafiando las duras realidades de la vida y reafirmando su amor. 
+
+**‘Diario de una pasión’ (2004)**
+---------------------------------
+
+En un **asilo de ancianos**, un hombre (**James Garner**) narra a una mujer (**Gena Rowlands**) una historia de amor que ha escrito en su antiguo cuaderno. Se trata de la historia de **Noah Calhoun** (Ryan Gosling) y **Allie Hamilton** (Rachel McAdams), dos adolescentes de Carolina del Norte que, a pesar de sus distintos entornos sociales, **se enamoraron intensamente y vivieron un verano inolvidable** antes de ser separados, primero por sus padres y luego por la guerra.
+
+‘**Siempre Alice’ (2014)**
+--------------------------
+
+**Alice Howland (Julianne Moore)** se siente satisfecha con la vida que ha logrado construir con tanto esfuerzo. A los 50 años, es profesora de psicología cognitiva en Harvard y una reconocida lingüista internacional, con un esposo exitoso y tres hijos adultos. Sin embargo, **cuando comienza a experimentar confusión, un devastador diagnóstico transforma su vida** y su relación con su familia y el mundo para siempre. Con sensibilidad y sutileza, **la autora explora las emociones de quienes sufren de alzhéimer** y de sus seres queridos.
+
+¿Por qué se registran ligeras lluvias en Quito?
+===============================================
+
+Cristina Valdivieso, especialista del Inamhi, brindó detalles del clima y lo que se espera para estos días.
+-----------------------------------------------------------------------------------------------------------
+
+![Quito registró cielos nublados con claros, este sábado 21 de septiembre](https://www.elcomercio.com/wp-content/uploads/2024/09/lluvias-claros-quito.jpg)
+
+Emoción. Sorpresa. Ilusión por las primeras gotas de lluvia. Se las escuchó en las ventanas. Estas sensaciones se sintieron este sábado 21 de septiembre de 2024. ¿Por qué se registraron ligeras lluvias en Quito?
+
+### Más noticias
+
+* [Escasez de lluvias afecta el suministro de agua en Quito](https://www.elcomercio.com/actualidad/quito/escasez-lluvias-afecta-suministro-agua-quito.html "Escasez de lluvias afecta el suministro de agua en Quito")
+* [Cortes de luz generan más costos y riesgos de seguridad en sector logístico de Ecuador](https://www.elcomercio.com/actualidad/negocios/cortes-de-luz-generan-mas-costos-y-riesgos-de-seguridad-en-sector-logistico-de-ecuador.html "Cortes de luz generan más costos y riesgos de seguridad en sector logístico de Ecuador")
+* [COE declara alerta roja en 15 provincias por emergencia hídrica](https://www.elcomercio.com/actualidad/ecuador/coe-declara-alerta-roja-sequia.html "COE declara alerta roja en 15 provincias por emergencia hídrica")
+
+Luego de **43 días sin lluvias**, Quito y sus alrededores registraron **ligeras precipitaciones** este sábado 21 de septiembre de 2024.
+
+Las **lloviznas** fueron reportadas en el norte, centro y sur de la ciudad; como también en el valle de Los Chillos.
+
+Las pequeñas gotas cayeron pasado el mediodía de este sábado, sin embargo, las precipitaciones no superaron los **10 minutos**.
+
+Inamhi explicó el porqué de las lluvias en Quito
+------------------------------------------------
+
+**Cristina Valdivieso**, analista de pronósticos del Instituto Nacional de Meteorología e Hidrología (Inamhi) explicó a **EL COMERCIO** que se contemplaba la probabilidad de que existieran **lluvias aisladas** en la región Interandina.
+
+Sin embargo, las lloviznas en Quito estaban previstas especialmente para el **sur de la ciudad**.
+
+“Estas lluvias no son generales, sino sectorizadas, se estaba considerando que lloviera ligeramente, pero más en el **sur de Pichincha**“, mencionó Valdivieso.
+
+¿Por qué se registran lluvias en Quito? La técnica comentó que esto se debe a la influencia de las precipitaciones que se registran en la **Amazonía**.
+
+“La lluvia de la región amazónica acarrea **humedad** hasta la región Interandina, lo que provoca cielos nublados y lloviznas aisladas”, detalló.
+
+Condiciones del clima para estos días
+-------------------------------------
+
+La analista considera que las condiciones climáticas en Quito continuarán en los próximos días de **forma similar** a las registradas este sábado.
+
+Se esperan **cielos nublados con claros**, es decir, nubosidades grises pero con espacios de cielo azul.
+
+El Inamhi también prevé más lluvias aisladas, principalmente, en zonas **montañosas** de la ciudad.
+
+¿Cuándo comenzarán las lluvias?
+-------------------------------
+
+La especialista explicó que el clima en Ecuador es propio a los días de transición entre el **verano** a **invierno**.
+
+“La configuración atmosférica, de a poco, se vuelve propicia para lluvias en la Sierra y la Amazonía; es probable que a finales del mes, entre el **27 y 29 de septiembre**, se generalicen”, manifestó Cristina Valdivieso.
+
+Durante estos días se pronostica que las lloviznas aumenten hasta equilibrarse entre mañanas soleadas y **tardes con lluvias**, en octubre.
+
+Justamente, **Bolívar Erazo**, director ejecutivo del Inamhi, afirmó que para ese mes se espera la reactivación paulatina de las lluvias.
+
+“Si las lluvias son leves, pero continuas, esa cantidad de agua permitiría recargar las fuentes de abastecimiento”, dijo durante una entrevista con Teleamazonas.
+
+> [#PronosticoPichinchaEC](https://twitter.com/hashtag/PronosticoPichinchaEC?src=hash&ref_src=twsrc%5Etfw) l Sábado, 21 de septiembre: Cielo nublado con claros a parcial nublado. Radiación [#UV](https://twitter.com/hashtag/UV?src=hash&ref_src=twsrc%5Etfw) entre alta y muy alta al medio día🧢☀️ [pic.twitter.com/yZAgCSl25H](https://t.co/yZAgCSl25H)
+> 
+> — INAMHI Ecuador 🇪🇨 (@inamhi\_ec) [September 21, 2024](https://twitter.com/inamhi_ec/status/1837482455734861847?ref_src=twsrc%5Etfw)
+
+COE declaró alerta roja en 15 provincias
+----------------------------------------
+
+El Comité de Operaciones de Emergencia Nacional (**COE**) declaró la alerta roja en **15 provincias**, por el déficit hídrico que enfrenta Ecuador.
+
+En el anunció de este jueves 19 de septiembre; **Inés Manzano**, quien preside el Comité, también detalló que el organismo sesionará de forma permanente los próximos días.
+
+En estas mesas técnicas, los grupos de trabajo buscarán mecanismos y **acciones inmediatas** en favor de solventar la emergencia en el país.
+
+### Provincias con alerta roja
+
+Luego de realizar un análisis técnico, estas son las provincias con declaratoria de **alerta roja**:
+
+* Carchi
+* Pichincha
+* Loja
+* Cañar
+* Azuay
+* Bolívar
+* Zamora Chinchipe
+* Imbabura
+* Napo
+* El Oro
+* Santa Elena
+* Cotopaxi
+* Manabí
+* Galápagos
+* Orellana
+
 Bus de transporte atropelló a dos personas en el sur de Quito
 =============================================================
 
@@ -262,825 +1107,3 @@ Horarios en Ecuador para ver los partidos de League of Legends
 * Fecha: 2 de noviembre.
 * Lugar: The O2, Londres, Reino Unido.
 * **Hora en Ecuador:** 09:00 (La ceremonia iniciará a las 07:00).
-
-Estos parques de Quito están en mantenimiento
-=============================================
-
-Varios parques de Quito están en proceso de rehabilitación. Algunos trabajos terminan en septiembre de 2024.
-------------------------------------------------------------------------------------------------------------
-
-![La laguna del parque de La Alameda fue vaciada por la Epmmop.](https://www.elcomercio.com/wp-content/uploads/2024/09/Parques-en-Quito.jpg)
-
-La Empresa Pública Metropolitana de Movilidad y Obras Públicas (**Epmmop**) realiza el mantenimiento de varios **parques** en **Quito**.
-
-Más noticias
-------------
-
-* [Aeropuerto de Quito reprograma vuelos del sábado 21 de septiembre de 2024](https://www.elcomercio.com/actualidad/quito/vuelos-aeropuerto-quito-reprogramados-mantenimiento-pista.html "Aeropuerto de Quito reprograma vuelos del sábado 21 de septiembre de 2024")
-* [Quito siempre requiere planificación urbana integral](https://www.elcomercio.com/opinion/editorial/quito-siempre-requiere-planificacion-urbana-integral.html "Quito siempre requiere planificación urbana integral")
-* [Radiografía de la movilidad en Quito, un problema vigente](https://www.elcomercio.com/actualidad/quito/radiografia-movilidad-quito-problema-vigente.html "Radiografía de la movilidad en Quito, un problema vigente")
-
-Estos trabajos buscan mantener en buen estado los espacios públicos destinados a la ciudadanía. A continuación, se detallan los parques y las obras que el personal de la **Epmmop** ejecutan en cada uno.
-
-Parque La Alameda
------------------
-
-En este icónico parque del centro norte de **Quito**, el personal efectúa la rehabilitación de la laguna, las **camineras** y la siembra de nuevos **árboles**.
-
-La inversión en este espacio es de 135 000 dólares. Los trabajos concluirán la primera semana de noviembre de 2024.
-
-Parque Carlos Méndez
---------------------
-
-Este espacio está en el norte de **Quito**, el personal realiza mejoras en los juegos infantiles, pintura de muros y canchas deportivas, además de la construcción de mobiliario urbano, jardinería e instalación de iluminación ornamental.
-
-Su inversión asciende a 24 000 dólares y se espera que los trabajos terminen entre la segunda y tercera semana de octubre de 2024.
-
-Parque Alexander Wandemberg
----------------------------
-
-En este **parque** del norte de **Quito**, se llevan a cabo la **rehabilitación** de **camineras**, el arreglo de juegos infantiles, la pintura de muros y canchas deportivas, y la construcción de mobiliario urbano.
-
-La intervención cuesta 40 000 dólares, y los trabajos finalizarán entre la segunda y tercera semana de octubre de 2024.
-
-Parque Mastodontes
-------------------
-
-Este **parque**, también ubicado en el norte de **Quito**, está siendo rehabilitado con trabajos en camineras, juegos infantiles, pintura de muros y canchas deportivas, además de mejoras en el mobiliario urbano, jardinería e iluminación ornamental.
-
-La inversión es de 596 000 dólares, y los trabajos concluirán en septiembre de 2024.
-
-Parque Pacarillacta
--------------------
-
-En el sur de Quito, el personal de la **Epmmop** realiza la rehabilitación de camineras, juegos infantiles, pintura de muros y canchas deportivas, además de construir **mobiliario urbano**, jardines e iluminación ornamental.
-
-La inversión es de 35 000 dólares, y los trabajos finalizarán en septiembre de 2024.
-
-Parque Concha Acústica
-----------------------
-
-Ubicado en el sur de Quito, este parque está siendo intervenido con trabajos en camineras, juegos infantiles, pintura de muros y canchas deportivas.
-
-La inversión es de 30 000 dólares, y se prevé que los trabajos finalicen en septiembre de 2024.
-
-Construcción del Bulevar de la Av. De los Shyris
-------------------------------------------------
-
-En el parque **La Carolina**, en el norte de Quito, se está regenerando el espacio urbano con la instalación de iluminación arquitectónica y ornamental, además de trabajos en arborización y jardinería. La inversión en este proyecto es de 950 000 dólares.
-
-Parque El Porvenir
-------------------
-
-En este parque del norte de **Quito**, el **Municipio** rehabilita camineras, juegos infantiles y pinta muros y canchas deportivas.
-
-La inversión es de 30 000 dólares, y los trabajos finalizarán entre la segunda y tercera semana de octubre de 2024.
-
-Parque Bellavista Alta
-----------------------
-
-En este parque del norte de **Quito**, el personal de la **Epmmop** realiza trabajos en camineras, juegos infantiles, pintura de muros y **canchas** **deportivas**, además de mejoras en el mobiliario urbano, jardinería e iluminación ornamental.
-
-La inversión es de 28 000 dólares, y se espera que los trabajos terminen entre la segunda y tercera semana de octubre de 2024.
-
-> [Ver esta publicación en Instagram](https://www.instagram.com/reel/C-8z_wkqW3P/?utm_source=ig_embed&utm_campaign=loading)
-> 
-> [Una publicación compartida de El Comercio de Ecuador (@elcomerciocom)](https://www.instagram.com/reel/C-8z_wkqW3P/?utm_source=ig_embed&utm_campaign=loading)
-
-Ecuador se suma al día del regalo de flores amarillas
-=====================================================
-
-Las flores amarillas se regalan cada 21 de septiembre. Ecuador es parte de esta tendencia de la primavera en el hemisferio sur.
--------------------------------------------------------------------------------------------------------------------------------
-
-![Regalar flores amarillas en septiembre, en Ecuador, se populariza desde hace algunos años.](https://www.elcomercio.com/wp-content/uploads/2024/09/flores-amarillas.jpg)
-
-Las **flores amarillas** son las protagonistas del mes de **septiembre** desde hace algunos años. La curiosa y colorida tradición de regalar flores de esta totalidad coincide con el **inicio de la primavera** en el hemisferio sur, el 21 de septiembre de cada año[.](https://es.wikipedia.org/wiki/Ecuador "https://es.wikipedia.org/wiki/Ecuador")
-
-### Más noticias
-
-* [¿Por qué se regalan flores amarillas en septiembre?](https://www.elcomercio.com/tendencias/curiosidades/flores-amarillas-septiembre-regalos-amigos-amor.html "¿Por qué se regalan flores amarillas en septiembre?")
-* [Exportaciones de oro sufren un fuerte cambio en su desempeño](https://www.elcomercio.com/actualidad/negocios/exportaciones-oro-ecuador-controles-mineria-ilegal.html "Exportaciones de oro sufren un fuerte cambio en su desempeño")
-* [El cacao sustentó el crecimiento de las exportaciones ecuatorianas](https://www.elcomercio.com/actualidad/negocios/el-cacao-sustento-el-crecimiento-de-las-exportaciones-ecuatorianas.html "El cacao sustentó el crecimiento de las exportaciones ecuatorianas")
-
-**Ecuador** es el tercer proveedor mundial de flores en general, luego de **Países Bajos y Colombia**. Durante julio, agosto y septiembre de cada año, Ecuador se suma a la tendencia y la **producción y venta de flores** se concentra en las amarillas.
-
-Las compañías de Ecuador que se dedican **a venta de flores** saben que en este mercado prima la moda. “La demanda de flores en esta temporada se centra en _sunflowers_ o girasoles, solidago, astromelias amarillas, rosas amarillas”, señaló **Pablo Viteri**, gerente de la floricultora **Pacific Bouquets**.
-
-La tendencia de regalar **flores amarillas** en septiembre se viralizó en 2022. Un año más tarde, en 2023, se evidenció un importante crecimiento en ventas en junio, julio, agosto y septiembre, con un incremento de entre el 6 al 8% en exportaciones, las cifras coinciden con la popularidad de esta tradición.
-
-Este 2024 se esperan también cifras positivas- Según datos de la Federación Ecuatoriana de Exportadores (Fedexpor), la venta de flores naturales alcanzó 603 millones de dólares entre enero y julio de este año. La cifra representa un incremento del 2%, en comparación con el mismo período del año pasado. Las cifras de agosto y septiembre se conocerán en octubre y noviembre, respectivamente.
-
-Producción de flores en Ecuador
--------------------------------
-
-El sector florícola es la quinta actividad en la producción agrícola del Ecuador. Hay más de 900 exportadores de flores y el 80% de estas empresas exportan menos de un millón de dólares anualmente, , según datos de **Expoflores**.
-
-La especie de flor que domina la producción del Ecuador son las **rosas**. A esta le siguen las **flores de verano**, como los **girasoles**, luego están las **gypsophila**, los **claveles**, las **flores preservadas**, las **alstroemerias**, crisantemos y lirios.
-
-Los cinco principales países de destino de las flores ecuatorianas son; Estados Unidos, Kasajistán, Canadá, Chile y Países Bajos.
-
-Una masacre se registró en una peluquería de Quito
-==================================================
-
-Una masacre se registró en una peluquería del norte de Quito. La Policía Nacional investiga por qué se produjo el hecho violento.
----------------------------------------------------------------------------------------------------------------------------------
-
-![La Policía realiza las investigaciones de un hecho violento sucedido en el norte de Quito.](https://www.elcomercio.com/wp-content/uploads/2024/09/masacre.jpg)
-
-Una masacre se registró en una peluquería, ubicada en el **sector de Pisulí,** en el **norte de Quito, informó la Policía Nacional.**
-
-### Más noticias
-
-* [América Latina está en un ‘momento crítico’ por la inseguridad, afirma consultor internacional](https://www.elcomercio.com/actualidad/mundo/latinoamerica-esta-en-un-momento-critico-por-la-inseguridad-afirma-experto.html "América Latina está en un ‘momento crítico’ por la inseguridad, afirma consultor internacional")
-* [Ponce Enríquez tiene espejos en otros puntos de Ecuador, ¿cuáles son los riesgos?](https://www.elcomercio.com/actualidad/seguridad/ponce-enriquez-tiene-espejos-otros-puntos-ecuador-riesgos.html "Ponce Enríquez tiene espejos en otros puntos de Ecuador, ¿cuáles son los riesgos?")
-* [Lo que se sabe de la masacre de Solanda, en Quito](https://www.elcomercio.com/actualidad/seguridad/lo-que-se-sabe-de-la-masacre-de-solanda-en-quito.html "Lo que se sabe de la masacre de Solanda, en Quito")
-
-La **Policía Nacional** informó que el hecho delictivo se presentó la noche d**el 20 de septiembre de 2024.**
-
-Las unidades policiales especializadas aún realizan las investigaciones para esclarecer los hechos y localizar a los responsables de la **masacre en la peluquería.**
-
-Según los datos preliminares, **varios individuos armados** ingresaron al establecimiento y **dispararon.**
-
-Tras el ataque, **murieron cinco personas y otra quedó herida.** Esta última fue llevada a una casa de salud para que fuera atendida inmediatamente.
-
-Por información de la Policía se conoce que dos de los fallecidos registran antecedentes penales por robo, secuestro extorsivo, asesinato, tenencia y porte de armas[.](https://es.wikipedia.org/wiki/Polic%C3%ADa_Nacional_del_Ecuador "https://es.wikipedia.org/wiki/Polic%C3%ADa_Nacional_del_Ecuador")
-
-Hasta el momento, se desconocen las causas sobre por qué las cinco personas fueron asesinadas por los sicarios. Tampoco se sabe si se trata de un ajuste de cuentas.
-
-Un hecho violento ocurrió en el norte de Quito
-----------------------------------------------
-
-El **8 de julio de 2024**, los sicarios llegaron a una barbería en el **sector de La Roldós, en el norte de Quito.** Las personas no identificadas atacaron con armas de fuego a quienes se encontraban en el establecimiento.
-
-Los sicarios causaron una tragedia en el lugar. **Dos menores de edad y una persona adulta murieron de inmediato.** Todas ellas estaban dentro de una barbería de La Roldós, cuando los sicarios hicieron el ataque. Una cuarta persona (adulta) resultó herida, quien se recupera en una casa de salud.
-
-“Esta persona (herida) solo manifestó que entraron con violencia y que logró escapar”, contó **Mauricio Pinto, jefe de la coordinación operativa del Distrito Policial La Delicia.**
-
-Pinto contó que los agresores llegaron en dos motos, dos en cada una. Tras arribar al sitio, parquearon las motos en una esquina y dos de los ocupantes ingresaron a la barbería en La Roldós, donde se dio el ataque de los sicarios.
-
-Todavía se desconoce el móvil del delito, pero los moradores manejan dos hipótesis. “No sabemos exactamente. Manejan diferentes hipótesis en el lugar. Unos hablaban de posible tráfico de estupefacientes y otros, de posibles deudas”, contó Pinto, en una rueda de prensa.
-
-Añadió que las investigaciones se han complicado, porque en la barbería no hallaron cámaras de vigilancia; solo había una, pero estaba desconectada.
-
-En el sitio, Criminalística identificó a los fallecidos: eran ecuatorianos y no registraban antecedentes penales.
-
-Centroamérica debe aprovechar tecnología para adaptarse a crisis climática
-==========================================================================
-
-Sequías prolongadas y lluvias más intensas son algunos de los efectos de la crisis climática en Centroamérica.
---------------------------------------------------------------------------------------------------------------
-
-![Para adaptarse al cambio climático los agricultores deben empezar a utilizar tecnología de manera integrada.](https://www.elcomercio.com/wp-content/uploads/2024/09/agricultura-planta.jpg)
-
-**Centroamérica** necesita aprovechar todas las **tecnologías disponibles** y establecer planes que permitan la adaptación y la resiliencia para reducir los efectos de la **crisis climática** y no poner en peligro la producción de alimentos. Sobre esto alertaron este viernes 20 de septiembre de 2024, expertos reunidos en un foro en Honduras.
-
-### Más noticias
-
-* [América Latina está en un ‘momento crítico’ por la inseguridad, afirma consultor internacional](https://www.elcomercio.com/actualidad/mundo/latinoamerica-esta-en-un-momento-critico-por-la-inseguridad-afirma-experto.html "América Latina está en un ‘momento crítico’ por la inseguridad, afirma consultor internacional")
-* [Este es la ciudad más visitada por turistas en América Latina](https://www.elcomercio.com/actualidad/mundo/ciudades-visitadas-turistas-america-latina-cancun-punta-cana-bogota.html "Este es la ciudad más visitada por turistas en América Latina")
-* [Jefa de la campaña de Kamala Harris advierte sobre la retórica de Donald Trump](https://www.elcomercio.com/actualidad/mundo/jefa-campana-harris-advierte-retorica-de-trump.html "Jefa de la campaña de Kamala Harris advierte sobre la retórica de Donald Trump ")
-
-**Sequías prolongadas y lluvias** más intensas son algunos de los efectos de la crisis climática en Centroamérica. La región que necesita “urgentemente” **soluciones para frenar este fenómeno** que avanza cada vez con mayor rapidez e intensidad, dijo Alejandro Hernández, investigador y director de Biotecnología de CropLife Latin America en Costa Rica.
-
-Hernández indicó que si los **países logran “mejorar el ecosistema agrícola”,** podrán conseguir cultivos “más resilientes, es decir, que toleran mejor la sequía o las inundaciones”.
-
-A su juicio, las nuevas tecnologías están logrando **esa resiliencia en menor tiempo,** permitiendo a los agricultores acceder a “semillas y cultivos que pueden tolerar mejor” los efectos del cambio climático.
-
-Grandes olas de migración
--------------------------
-
-El corredor seco de Centroamérica enfrenta **“grandes períodos de sequía o exceso de agua**“, lo cual afecta “enormemente” la producción agrícola, enfatizó el experto costarricense.
-
-Según estimaciones oficiales, en la región centroamericana se pierde hasta un 20 % de la productividad agrícola por la sequía o las inundaciones, lo cual, según Hernández, causa “grandes olas de migración”.
-
-Para adaptarse al cambio climático los agricultores deben empezar a utilizar **tecnología** de manera **integrada y desarrollar estrategias agrícolas** como renovar los cultivos, incorporar materia orgánica y mejorar el suelo, añadió.
-
-Recordó también que los **ministros de Agricultura de los países del G20** se comprometieron la semana anterior a garantizar la seguridad alimentaria global mediante la adopción de prácticas de producción agropecuaria sostenibles en sus países.
-
-El experto aseguró que **“no hay una única manera de hacer las cosas”,** por lo que los países deben buscar la forma más adecuada, integrando los diferentes elementos de la agricultura (convencional, ecológica, biológica y tecnológica) para enfrentar el impacto de la crisis climática y “no entrar en problemas de seguridad alimentaria”.
-
-También es necesario desarrollar tecnologías que contribuyan a **resolver los problemas de seguridad** alimentaria y la crisis climática que enfrenta la región, con el objetivo de producir “más con menos” recursos hídricos y cultivar plantas más resistentes a las condiciones climáticas adversas.
-
-Más conciencia y variedades resistentes
----------------------------------------
-
-El presidente del Colegio de Profesionales en Ciencias Agrícolas de Honduras**, Luis Berrios,** dijo que la **humanidad “no tiene conciencia”** sobre los efectos del cambio climático y que debe cuidar los recursos naturales.
-
-“Necesitamos ponerle los ojos al cambio climático, de lo contrario, cada día que pasa, el mundo va a seguir teniendo más y más problemas con la vida de los seres humanos, las plantas y los animales”, enfatizó.
-
-Berrios indicó que es necesario crear soluciones, como añadir más variedades de semillas, para “producir en mayor cantidad y mejor calidad los alimentos” que la humanidad requiere.
-
-“Tenemos que empezar a **conocer las alternativas, como las variedades de maíz, frijol y otros cultivos**, en qué climas pueden desarrollarse, cuánta agua necesitan y si en realidad tenemos las condiciones necesarias para poder producir, porque si nosotros no tenemos una infraestructura adecuada, no vamos a poder producir”, explicó.
-
-Berrios insistió en que la región debe apostar por **“variedades resistentes”** a los efectos de la crisis climática, e instó a la población a tener “conciencia” sobre la protección de las plantas, el agua y el suelo.
-
- El principal desafío, según el experto hondureño, es **producir alimentos con semillas “más resistentes”** a la sequía y las plagas, de buena calidad y a bajo costo, así como mejorar las condiciones de los productores en los países de la región. 
-
-¿Cómo llega Liga de Quito ante El Nacional en Liga Pro?
-=======================================================
-
-Liga de Quito enfrentará a El Nacional como puntero, pero después de una dura goleada propinada por el Imbabura.
-----------------------------------------------------------------------------------------------------------------
-
-![Alex Arce de Liga de Quito (izq.) disputa un balón con Kevin Peralta de El Nacional (der.) en la primera etapa de la Liga Pro.](https://www.elcomercio.com/wp-content/uploads/2024/09/20240406100725-fbl-liga-pro-ecuabet-nacional-liga-scaled.jpg)
-
-**Liga de Quito**, que dirige el técnico argentino **Pablo ‘Vitamina’ Sánchez**, busca frente a **El Nacional**, en la séptima fecha de la Liga Pro, resarcirse de la primera derrota sufrida en la segunda etapa del torneo ecuatoriano, tras haber caído goleado en la pasada jornada por 4-0 ante el Imbabura.
-
-Pese a la sorpresiva derrota frente al modesto **Imbabura**, Liga de Quito llega a esta fecha como **líder de la clasificación**, con 15 puntos.
-
-### Más noticias:
-
-* [El Nacional ganó 13 veces en el Rodrigo Paz a Liga de Quito](https://www.elcomercio.com/deportes/futbol/el-nacional-triunfo-rodrigo-paz-delgado.html "El Nacional ganó 13 veces en el Rodrigo Paz a Liga de Quito")
-* [Liga de Quito goleó a El Nacional en la despedida del ‘Toño’ Valencia](https://www.elcomercio.com/deportes/futbol/liga-quito-el-nacional-tono-valencia.html "Liga de Quito goleó a El Nacional en la despedida del ‘Toño’ Valencia")
-* [Antonio Valencia, el crack que dividió El Nacional y Liga de Quito](https://www.elcomercio.com/deportes/futbol/antonio-valencia-nacional-liga-quito.html "Antonio Valencia, el crack que dividió El Nacional y Liga de Quito")
-
-Bajo la dirección técnica de ‘**Vitamina’ Sánchez**, el ‘Rey de Copas’ de Ecuador cumplía una campaña perfecta hasta antes de sufrir na dolorosa derrota ante el modesto Imbabura, que pugna por mantenerse en la primera división de Ecuador.
-
-En el partido de la primera fase contra **El Nacional**, Liga ganó por 1-2 con goles de Ezequiel Piovi y del paraguayo **Álex Arce**, el máximo goleador de la Liga Pro con 18 anotaciones.
-
-Entretanto, El Nacional sabe que, de ganarle a Liga, **seguirá con posibilidades** para pescar algún billete para los torneos internacionales, pues en la tabla de posiciones acumulada (que suma las puntuaciones de la primera y segunda etapa de la Liga Pro) está quinto, con 34 puntos.
-
-Orense espera el tropezón de Liga de Quito
-------------------------------------------
-
-Por su parte, el **Orense**, segundo en la tabla de posiciones de la segunda fase con 13 unidades, visitará al **Mushuc Runa**, que tiene 11, en un crucial duelo para mantener las posibilidades de torneos internacionales para ambos en el 2025.
-
-El argentino **Agustín Herrera** y el ecuatoriano **Miguel Parrales**, máximo goleador de la segunda fase con 7 tantos, volverán a comandar el ataque del Orense.
-
-El **Mushuc Runa** tendrá a los atacantes uruguayos Mathías Acuña, Mauricio Alonso y Joaquín Verges, dirigidos por su compatriota nacionalizado paraguayo Ever Hugo Almeida.
-
-Independiente del Valle abrió la fecha
---------------------------------------
-
-El **Independiente del Valle**, que al igual que Barcelona estaba con 12 puntos en la clasificación de la segunda fase, visitó al colista Libertad y sumó 13.
-
-El cuadro del Valle, que tiene en el banquillo al técnico argentino **Javier Gandolfi**, ya fue el ganador de la primera fase de la Liga Pro, por lo que de ganar también la segunda etapa se proclamaría automáticamente como campeón nacional.
-
-Para el Libertad, el resultado de cada partido es de vida o muerte en su afán por salvar la categoría. Su técnico, **Juan Carlos León**, consiguió sorprender y logró el empate, aunque no sale de la zona de descenso.
-
-Barcelona confía en su proceso en la Liga Pro
----------------------------------------------
-
-Mientras, el Barcelona, cuyo entrenador argentino **Ariel Holan**, visitará a Deportivo Cuenca. Además de la promoción de los juveniles, Barcelona echará mano del ariete uruguayo Octavio Rivero que, en seis fechas ha anotado igual número de goles.
-
-El cuadro cuencano necesita alejarse de los últimos puestos de la tabla acumulada de las dos fases, y en ataque contará con los delanteros argentinos **Pablo Magnín, Lucas Mancinelli y Raúl Becerra**.
-
-Partidos de la séptima fecha
-----------------------------
-
-– **Viernes 20 de septiembre**: Libertad (1) – Independiente del Valle (1). Partido terminado.
-
-– **Sábado 21 de septiembre**: Cumbayá-Aucas, Liga de Quito-El Nacional y Deportivo Cuenca-Barcelona.
-
-– **Domingo 22 de septiembre**: Macará-Imbabura; Mushuc Runa-Orense y Emelec-Técnico Universitario.
-
-– **Lunes 23 de septiembre**: Universidad Católica-Delfín.
-
-Aeropuerto de Quito suspende sus operaciones y vuelos
-=====================================================
-
-En el aeropuerto de Quito se ejecutan dos actividades importantes, por lo que afecta a las operaciones y vuelos.
-----------------------------------------------------------------------------------------------------------------
-
-![En el aeropuerto de Quito Mariscal Sucre se desarrollan dos actividades para mejorar las operaciones.](https://www.elcomercio.com/wp-content/uploads/2024/09/aeropuerto.jpg)
-
-El **aeropuerto de Quito Mariscal Sucre** tiene cerradas sus operaciones y vuelos este sábado 21 de septiembre de 2024.
-
-### Más noticias
-
-* [Aeropuerto de Quito reprograma vuelos del sábado 21 de septiembre de 2024](https://www.elcomercio.com/actualidad/quito/vuelos-aeropuerto-quito-reprogramados-mantenimiento-pista.html "Aeropuerto de Quito reprograma vuelos del sábado 21 de septiembre de 2024")
-* [Incendios no afectan vuelos en Quito; el sábado habrá reprogramación](https://www.elcomercio.com/actualidad/quito/incendios-no-afectan-vuelos-en-quito-sabado-habra-reprogramacion.html "Incendios no afectan vuelos en Quito; el sábado habrá reprogramación")
-
-En la terminal aeroportuaria se realizan dos actividades importantes para el correcto funcionamiento de sus actividades.
-
-En este momento, las autoridades desarrollan tr**abajos preventivos de mantenimiento en la pista.**
-
-Las operaciones aéreas se cerraron, por esa razón. Sin embargo, la terminal de pasajeros permanecerá abierta todo el tiempo.
-
-La segunda actividad se trata sobre el desarrollo de un **simulacro programado**. A través de la cuenta de X del aeropuerto se informa que los ejercicios de prevención se realizan en cumplimiento con el plan de emergencia del #AeropuertoUIO.
-
-> ATENCIÓN:  
-> En cumplimiento con el plan de emergencia del [#AeropuertoUIO](https://twitter.com/hashtag/AeropuertoUIO?src=hash&ref_src=twsrc%5Etfw), hoy, a partir de las 09:00, se llevará a cabo un simulacro programado. Recordamos que nuestras operaciones están suspendidas hasta las 12:00 por trabajos de mantenimiento en pista. [#simulacroUIO2024](https://twitter.com/hashtag/simulacroUIO2024?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/ASTscxW5pU](https://t.co/ASTscxW5pU)
-> 
-> — Aeropuerto Internacional de Quito (@AeropuertoUIO) [September 21, 2024](https://twitter.com/AeropuertoUIO/status/1837489084412912098?ref_src=twsrc%5Etfw)
-
-El horario de cierre del aeropuerto de Quito
---------------------------------------------
-
-El aeropuerto internacional de Quito informó que el sábado 21 de septiembre se realizarán trabajos preventivos de mantenimiento en la pista.
-
-Mientras tanto, **desde las 09:00** se desarrolla un simulacro programado. Adicionalmente, las operaciones están s**uspendidas hasta las 12:00 por trabajos** de **mantenimiento en pista[.](https://es.wikipedia.org/wiki/Aeropuerto_Internacional_Mariscal_Sucre "https://es.wikipedia.org/wiki/Aeropuerto_Internacional_Mariscal_Sucre")**
-
-Los trabajos preventivos de mantenimiento son esenciales para garantizar la eficiencia y seguridad de las operaciones aéreas **en el aeropuerto de Quito**. De esa manera, se evitarán los cierres imprevistos por trabajos correctivos.
-
-Los cierres programados del aeropuerto de Quito
------------------------------------------------
-
-De acuerdo con la información publicada el 18 de marzo de 2024, las operaciones aéreas en el aeropuerto de Quito tenían previsto cerrarse dos veces en septiembre.
-
-La primera fue el sábado 14 y el siguiente es de este sábado 21 de septiembre, igualmente de 02:00 a 12:00.
-
-Quiport resalta que los trabajos de mantenimiento son necesarios para garantizar la eficiencia y la seguridad en las operaciones aéreas en el aeropuerto de Quito.
-
-De ese modo se evitan cierres imprevistos de emergencia en el aeropuerto de Quito.
-
-Los cierres de aeródromo se coordinaron oportunamente y autorizados con la Dirección General de Aviación Civil (DGAC).
-
-Asistencia de lujo de Moisés Caicedo y victoria del Chelsea
-===========================================================
-
-Moisés Caicedo dio una espectacular asistencia para abrir el marcador con el Chelsea ante el West Ham y goleó.
---------------------------------------------------------------------------------------------------------------
-
-![Moisés Caicedo disputa un balón con el Chelsea ante el West Ham en la Premier League.](https://www.elcomercio.com/wp-content/uploads/2024/09/Diseno-sin-titulo-31-2.jpg)
-
-El **Chelsea** empieza a encontrar su fútbol y verse cada vez más compacto tras la llegada del DT Enzo Maresca. En la quinta fecha de la Premier y con presencia de **Moisés Caicedo**, la escuadra goleó y el ecuatoriano dio una notable asistencia.
-
-La escuadra londinense consiguió **sumar 10 puntos** y su segunda victoria consecutiva en la liga inglesa. Aquello, transitoriamente, la dejó en la segunda posición, aunque depende de otros resultados para determinar su puesto definitivo.
-
-### Más noticias:
-
-* [Moisés Caicedo cumple los seis requisitos para ser capitán del Chelsea](https://www.elcomercio.com/deportes/moises-caicedo-cumple-seis-requisitos-para-ser-capitan-chelsea.html "Moisés Caicedo cumple los seis requisitos para ser capitán del Chelsea")
-* [El Chelsea de Moisés Caicedo sufrió para ganar al Bournemouth](https://www.elcomercio.com/deportes/futbol/chelsea-moises-caicedo-bournemouth-premier-league.html "El Chelsea de Moisés Caicedo sufrió para ganar al Bournemouth")
-* [Moisés Caicedo se enfoca en el Chelsea para enfrentar al Bournemouth](https://www.elcomercio.com/deportes/futbol/moises-caicedo-enfoca-chelsea-para-enfrentar-al-bournemouth.html "Moisés Caicedo se enfoca en el Chelsea para enfrentar al Bournemouth")
-
-La victorias del Chelsea se dio ante el **West Ham United** por un marcador de 0-3 en el Estadio Olímpico de Londres. Desde los primeros minutos apareció **Nico Jackson**, quien marcó un doblete, y Cole Palmer completó los nombres del marcador.
-
-Pese a los buenos resultados previos y a que solo ha sido derrotado por el **Manchester City** en la primera fecha, el plantel ‘blue’ aún no ha logrado convencer. En la pasada temporada, con **Mauricio Pochettino** como DT, el desempeño estuvo marcado por la irregularidad[.](https://es.wikipedia.org/wiki/Chelsea_Football_Club)
-
-Moisés Caicedo y una asistencia para ampliar el marcador del Chelsea
---------------------------------------------------------------------
-
-> ¡PASE DE MOI, GOL DE NICO!  
-> Paciencia y toque de Chelsea, que la armó bien en el mediocampo. 🇪🇨 Moisés Caicedo asistió a Nico Jackson, que definió para el 2-0 ante West Ham.  
->   
-> ▶️ Más 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [#PremierLeague](https://twitter.com/hashtag/PremierLeague?src=hash&ref_src=twsrc%5Etfw) en [#DisneyPlus](https://twitter.com/hashtag/DisneyPlus?src=hash&ref_src=twsrc%5Etfw). [pic.twitter.com/5FyKm2jAgO](https://t.co/5FyKm2jAgO)
-> 
-> — ESPN Ecuador (@ESPNEcuador) [September 21, 2024](https://twitter.com/ESPNEcuador/status/1837460512197497139?ref_src=twsrc%5Etfw)
-
-Como se ha vuelto costumbre en el Chelsea, **Moisés Caicedo** arrancó como titular en el equipo. El tricolor estuvo presente junto a Enzo Fernández en un espacio de contención en el medio campo de su elenco.
-
-El primer gol de Jackson llegó a los **cuatro minutos** de juego después de que Nico Jackson ingresara por el costado izquierdo. El ariete **nigeriano** definió por el palo del arquero y la pelota pasó entre las piernas de este para ingresar al arco.
-
-A los 17 minutos, **Caicedo** tuvo una opción para ir hacia el ataque y generar una chance. El jugador se tuvo confianza y su maniobra terminó en gol gracias a que **asistió a Jackson.**
-
-El ecuatoriano recibió el balón, levantó la cabeza y vio que el delantero corría al espacio a espaldas de sus defensor. **El oriundo de Santo Domingo** filtró un pase entre líneas que encontró solo a su compañero y que este tiró a colocar. Bastaron cuatro minutos para que llegue el tanto de los ‘blues’.
-
-Una goleada que no paró
------------------------
-
-Después de su habilitación, Moisés Caicedo continúo con la generación de **transiciones hacia el ataque** y la búsqueda de ampliar el marcador. Asimismo, dio una mano en labores de **contención** para evitar la penetración del West Ham.
-
-La primera mitad del compromiso terminó con un 0-2, pero ni bien se reanudó el cotejo, el Chelsea volvió a anotar. **Cole Palmer** selló la goleada a los 47.
-
-El siguiente partido de la escuadra azul será ante el **Barrow** por la EFL Cup. En la Premier League, el próximo rival es el **Brighton**.
-
-Caso Metástasis, acusaciones y defensas chocan en audiencias
-============================================================
-
-Fiscalía pide juicio para 37 implicados en presunta red crimina y las defensas cuestionan pruebas en el caso Metástasis.
-------------------------------------------------------------------------------------------------------------------------
-
-![Audiencia del caso Metástasis en la Corte Nacional de Justicia.](https://www.elcomercio.com/wp-content/uploads/2024/09/metastasis.png)
-
-Esta semana, el caso Metástasis continúo su curso en la **Corte Nacional de Justicia (CNJ)**, donde la **Fiscalía General del Estado (FGE)** presentó varios avances.
-
-### Más noticias
-
-* [Caso Metástasis, defensa de acusados señala vacíos en la investigación](https://www.elcomercio.com/actualidad/seguridad/caso-metastasis-defensa-acusados-senalan-vacios-investigacion.html "Caso Metástasis, defensa de acusados señala vacíos en la investigación")
-* [Wilman Terán niega vínculos con sobornos en el caso Metástasis](https://www.elcomercio.com/actualidad/seguridad/wilman-teran-niega-vinculos-con-sobornos-en-el-caso-metastasis.html "Wilman Terán niega vínculos con sobornos en el caso Metástasis")
-* [Caso Metástasis, defensa de vinculados objeta acusaciones de Fiscalía y Procuraduría](https://www.elcomercio.com/actualidad/seguridad/caso-metastasis-defensa-vinculados-objetan-acusaciones-fiscalia-procuraduria.html "Caso Metástasis, defensa de vinculados objeta acusaciones de Fiscalía y Procuraduría")
-
-Este proceso, que involucra a **37 personas**, entre ellas **figuras públicas y exfuncionarios judiciales**, es investigado por presuntos delitos de delincuencia organizada.
-
-Pedido de la Fiscalía con llamamiento a juicio para los 37 procesados
----------------------------------------------------------------------
-
-El fiscal general subrogante, **Wilson Toainga**, ha solicitado formalmente a la Corte Nacional de Justicia que los **37 procesados en el caso Metástasis sean llamados a juicio**. La Fiscalía fundamentó su solicitud en 340 elementos de convicción que fueron presentados durante la audiencia preparatoria de juicio.
-
-> [#InformativoSemanal](https://twitter.com/hashtag/InformativoSemanal?src=hash&ref_src=twsrc%5Etfw) | [#CasoMetástasis](https://twitter.com/hashtag/CasoMet%C3%A1stasis?src=hash&ref_src=twsrc%5Etfw): con base en 340 elementos de convicción, solicitamos que 37 procesados sean llamados a juicio por [#DelincuenciaOrganizada](https://twitter.com/hashtag/DelincuenciaOrganizada?src=hash&ref_src=twsrc%5Etfw). [pic.twitter.com/YbC3dv2nSS](https://t.co/YbC3dv2nSS)
-> 
-> — Fiscalía Ecuador (@FiscaliaEcuador) [September 20, 2024](https://twitter.com/FiscaliaEcuador/status/1837265486746374285?ref_src=twsrc%5Etfw)
-
-Entre los acusados figuran **Ronny Aleaga, exasambleísta correísta, y Wilman Terán, exjuez de la CNJ**.
-
-Toainga explicó que el caso se destapó tras la muerte del **narcotraficante Leandro Norero**, cuando la Fiscalía analizó los **dispositivos móviles del difunto**. Estos dispositivos revelaron una amplia red criminal compuesta por jueces, fiscales, policías y abogados que supuestamente operaban para garantizar impunidad y **protección a Norero y su círculo cercano**.
-
-Los líderes y colaboradores de la organización
-----------------------------------------------
-
-La Fiscalía ha identificado a cuatro personas como líderes de la supuesta organización criminal: **Fabián C., Cristian R., Xavier J. y Xavier N**. Estos individuos, según la FGE, estaban encargados de la dirección y planificación de la red, mientras que los otros **33 procesados cumplían funciones de vigilancia, soborno y manipulación judicial**.
-
-> Wilman Terán niega vínculos con sobornos en el caso Metástasis[https://t.co/bfqz0JtlM7](https://t.co/bfqz0JtlM7)
-> 
-> — El Comercio (@elcomerciocom) [September 19, 2024](https://twitter.com/elcomerciocom/status/1836860393425113351?ref_src=twsrc%5Etfw)
-
-En su intervención, Toainga detalló cómo esta **red facilitaba decisiones judiciales favorables para Norero y sus familiares**, permitiendo la recuperación de bienes incautados y la obtención de beneficios penitenciarios. Estas actividades habrían comenzado e**l 25 de mayo de 2022**, cuando Norero y su familia fueron detenidos.
-
-Inicio de las defensas y argumentos presentados
------------------------------------------------
-
-Con el pedido de la Fiscalía sobre la mesa, las defensas de los acusados **comenzaron a presentar sus argumentos**. El abogado Rómulo Argudo, quien defiende a **Fabián Gilmar C. B. (alias Yanke)**, uno de los supuestos líderes, fue el primero en intervenir. Argudo **negó las acusaciones**, afirmando que no hay evidencia de que su cliente haya utilizado aplicaciones de mensajería como Threema para comunicarse con Norero.
-
-Además, desestimó las **pruebas presentadas por la Fiscalía** como insuficientes y manipuladas.
-
-Otros abogados han seguido una línea similar, cuestionando la solidez de las pruebas presentadas por la Fiscalía. Entre ellos, **Agustín Quito**, defensor de Cristian Romero, indicó que las pruebas basadas en el uso del sistema de **mensajería Trimax son inconsistentes y no vinculan a su cliente con la organización**.
-
-Acusaciones contra Ronny Aleaga y Wilman Terán
-----------------------------------------------
-
-Dos figuras públicas clave en este caso son e**l exasambleísta Ronny Aleaga y el exjuez Wilman Terán. Aleaga**, conocido bajo el alias **‘El Ruso’**, ha sido acusado de colaborar con la organización criminal, particularmente en el encubrimiento de las a**ctividades de Norero**. Su defensa, representada por Jonathan Espín, ha solicitado el sobreseimiento, argumentando que la Fiscalía no ha probado su participación directa en los hechos.
-
-> En la [@CorteNacional](https://twitter.com/CorteNacional?ref_src=twsrc%5Etfw) continúa este viernes la audiencia preparatoria de juicio en el [#CasoMetástasis](https://twitter.com/hashtag/CasoMet%C3%A1stasis?src=hash&ref_src=twsrc%5Etfw) que investigó un delito de presunta delincuencia organizada. Los defensores siguen con el anuncio probatorio que presentarán en caso de un eventual juicio. Hay 37 procesados. [pic.twitter.com/0D9wdCGIPC](https://t.co/0D9wdCGIPC)
-> 
-> — Círculo de Periodistas Judiciales (@FundacionCPJ) [September 20, 2024](https://twitter.com/FundacionCPJ/status/1837141299373256753?ref_src=twsrc%5Etfw)
-
-Wilman Terán, según la Fiscalía, facilitó un habeas corpus que benefició al hermano de Norero. Terán ha negado las acusaciones, afirmando que no tuvo conocimiento de los acuerdos ilegales que habrían realizado terceros para asegurar la liberación de Israel Norero.
-
-Su **defensa asegura que la Fiscalía no cuenta con pruebas** suficientes que lo vinculen directamente con los delitos imputados.
-
-Falta de pruebas según las defensas
------------------------------------
-
-Una constante en las intervenciones de las defensas ha sido el **cuestionamiento a la validez de las pruebas presentadas por la Fiscalía**. Varios abogados argumentan que las pruebas documentales, como chats y transacciones bancarias, no son concluyentes y que la mayoría de los acusados están vinculados de manera indirecta.
-
-> 🔵[#SalaPenalCNJ](https://twitter.com/hashtag/SalaPenalCNJ?src=hash&ref_src=twsrc%5Etfw) | Audiencia evaluatoria y preparatoria de juicio en contra del ciudadano Wilman T. y otros por el presunto delito de delincuencia organizada.[#AudienciasCNJ](https://twitter.com/hashtag/AudienciasCNJ?src=hash&ref_src=twsrc%5Etfw)  
-> 💻 Sigue la audiencia aquí [https://t.co/xWbFwg0zCQ](https://t.co/xWbFwg0zCQ) [pic.twitter.com/wOEcas98ra](https://t.co/wOEcas98ra)
-> 
-> — Corte Nacional de Justicia (@CorteNacional) [September 20, 2024](https://twitter.com/CorteNacional/status/1837122039645360189?ref_src=twsrc%5Etfw)
-
-En particular, la defensa de **Yanina V., exfiscal del Guayas**, ha señalado que los documentos presentados no prueban su vinculación con la organización criminal, sino que corresponden a su trabajo profesional.
-
-Este **patrón de defensa, basado en la falta de pruebas concretas, se ha repetido en el caso de otros procesados**, quienes han solicitado el sobreseimiento y el levantamiento de las medidas cautelares.
-
-Continuación del proceso y posibles escenarios
-----------------------------------------------
-
-El proceso sigue en curso, y el **juez Manuel Cabrera** ha anunciado que, tras finalizar las intervenciones de las defensas, evaluará las **pruebas y los argumentos presentados**. Esto podría llevar varios días más debido a la complejidad del caso y el extenso expediente.
-
-Se espera que la decisión sobre si los **37 procesados serán llamados a juicio** se tome en las próximas semanas. Mientras tanto, las **defensas continúan argumentando la falta de pruebas** y solicitando el sobreseimiento para sus clientes.
-
-En este Batman Day, ¡el ‘Caballero Oscuro’ celebra 85 años! 
-============================================================
-
-Gotham City celebra una vez más al Caballero Oscuro. Este año, el Batman Day marca 85 años.
--------------------------------------------------------------------------------------------
-
-![Batman, más que un personaje de ficción simboliza la lucha por la justicia. Foto: Pinterest. Foto: www.akibastation.es.](https://www.elcomercio.com/wp-content/uploads/2024/09/batman-day.jpg)
-
-El **Batman Day** es una celebración anual dedicada al superhéroe más oscuro y complejo de DC Comics.  
-
-Este año, el festejo adquiere un significado especial, ya que marca el **85 aniversario de la primera aparición de Batman** en Detective Comics #27, en marzo de 1939. **Creado por Bob Kane y Bill Finger**, el ‘Caballero Oscuro’ se ha convertido en un **símbolo cultural que trasciende generaciones**, a decir de [Tebeosfera](https://www.tebeosfera.com/promociones/batman_cumple_85_anos.html "https://www.tebeosfera.com/promociones/batman_cumple_85_anos.html"). 
-
-### Más noticias
-
-* [Batman recibirá estrella en el Paseo de la Fama de Hollywood](https://www.elcomercio.com/afull/batman-estrella-paseo-fama-hollywood.html "https://www.elcomercio.com/afull/batman-estrella-paseo-fama-hollywood.html") 
-* [Se acerca el cumpleaños de Batman](https://www.elcomercio.com/tendencias/cultura/batman-cumpleanos-85-batmanday.html "https://www.elcomercio.com/tendencias/cultura/batman-cumpleanos-85-batmanday.html")
-
-**¿Por qué celebramos a Batman?** 
-----------------------------------
-
-Más allá de ser un **personaje de cómics y películas**, Batman representa valores como la justicia, la perseverancia y la lucha contra la injusticia. Su historia personal, marcada por la tragedia de la pérdida de sus padres, lo ha convertido en un **héroe relatable y complejo**. Además, su universo, **Gotham City**, es un reflejo de las grandes ciudades y sus problemas sociales. 
-
-Según [Mvs Noticias](https://mvsnoticias.com/tendencias/viral/2024/9/19/batman-day-enterate-por-que-se-celebra-este-dia-otros-datos-curiosos-657364.html "https://mvsnoticias.com/tendencias/viral/2024/9/19/batman-day-enterate-por-que-se-celebra-este-dia-otros-datos-curiosos-657364.html"), **la primera celebración oficial del Batman Day** tuvo lugar el 23 de julio de 2014 durante la **Comic-Con Internacional en San Diego**, Estados Unidos, con el propósito de conmemorar el **75 aniversario del debut de Batman en los cómics**. A partir de ese momento, **DC Comics** decidió mover la celebración a un sábado de septiembre, que empezó el 26 de septiembre de 2015, lo que estableció **un evento anual sin una fecha específica** hasta que se definió como el tercer sábado de septiembre. 
-
-**85 años de historia** 
-------------------------
-
-Desde su **debut en 1939**, Batman ha evolucionado y se ha adaptado a los tiempos. **Ha protagonizado innumerables cómics**, series animadas, películas y videojuegos. A lo largo de los años, hemos visto diferentes interpretaciones del personaje, desde la versión clásica y noir de los años 40 hasta las más modernas y oscuras representaciones cinematográficas. 
-
-Entre las producciones más recientes del **universo del murciélago enmascarado** están la película **‘The Batman’ de 2022**, en la que es interpretado por el actor **Robert Pattinson**; el próximo estreno de **‘Joker 2’** el 5 de octubre, con **Lady Gaga y Joaquin Phoenix**; y la recién estrenada serie **‘El Pingüino’ con Colin Farrell**. 
-
-**¿Cómo celebrar el Batman Day?** 
-----------------------------------
-
-Existen numerosas formas de **celebrar el Batman Day**. Los fanáticos pueden asistir a eventos especiales organizados por tiendas de cómics, museos y librerías. También pueden disfrutar de **maratones de películas**, **leer cómics clásicos** o crear sus propios homenajes al ‘Caballero Oscuro’. 
-
-**El futuro de Batman** 
-------------------------
-
-**A pesar de sus 85 años**, Batman sigue siendo **un personaje relevante y actual**. Su historia continúa escribiéndose, y es probable que veamos nuevas y emocionantes aventuras en el futuro. 
-
-Se anunció hace poco que este legendario personaje **será el primer superhéroe en obtener una estrella en el Paseo de la Fama de Hollywood**. La ceremonia, que promete ser inolvidable para los seguidores del ‘Caballero Oscuro’ y los fanáticos de los cómics en general, se llevará a cabo el 26 de septiembre de 2024.
-
-El **Batman Day** es una oportunidad para celebrar a uno de los personajes más icónicos de la cultura popular. Su historia, su legado y su impacto en la sociedad son una prueba de su atemporalidad. **¡Feliz Batman Day!** 
-
-Cartas a Quito / 21 de septiembre de 2024
-=========================================
-
-Estas son las cartas a Quito de este sábado 21 de septiembre de 2024
---------------------------------------------------------------------
-
-![Cartas a Quito. Foto: Archivo / EL COMERCIO](https://www.elcomercio.com/wp-content/uploads/2024/04/CARTAS-A-QUITO-1.jpg)
-
-Uso del silbato: Nada descabellado
-----------------------------------
-
-He visto con verdadera sorpresa la mofa que algunas personas, incluyendo la Asamblea Nacional, hicieron sobre la sugerencia del uso del silbato que hiciera un jefe policial.
-
-Considerando que, en un apagón general, difícilmente se pueda disponer de medios de alertar situaciones emergentes que deban ser accionados con energía eléctrica, una de las alternativas válidas es el uso de silbatos.
-
-Quienes se burlaron enfatizaron únicamente en que el silbato es un elemento básico, pero no propusieron la alternativa para alertar en una situación de peligro o emergencia: típico de los tontos.
-
-Se ha vuelto muy normal en la política ecuatoriana el descalificar o el burlarse de algunas propuestas, pero no brindar alternativas “inteligentes”.
-
-Cuando se critica una medida propuesta, si se es inteligente y colaborador, se debe proponer la alternativa válida. No hacerlo deriva en una crítica no constructiva: una reacción propia del dogmatismo y de la mediocridad.
-
-Considero que cualquier sugerencia que vaya en la dirección de la protección de la ciudadanía, y, que pueda ser implementada, al menor costo posible, es viable. Felicito al oficial de policía que la sugirió, yo, voy a comprar un silbato.
-
-José M. Jalil Haas
-
-Bolones rellenos de queso y chicharrón, una delicia ecuatoriana en cada mordida
-===============================================================================
-
-Haz que tus comidas sean inolvidables con estos bolones crujientes y llenos de sabor. ¡Comparte esta receta con tus amigos!
----------------------------------------------------------------------------------------------------------------------------
-
-![El secreto de un buen bolón está en lograr el punto perfecto del plátano: frito y machacado con un toque de sal.](https://www.elcomercio.com/wp-content/uploads/2024/09/image-1-1.png)
-
-Los **bolones con queso y chicharrón** son una joya de la **gastronomía ecuatoriana** que combina **sabores** y **texturas** en un solo bocado. Esta deliciosa **receta** consiste en una masa de plátano verde rellena de chicharrón crujiente y queso fundido, creando una explosión de **sabor** en cada mordida. Perfectos para un desayuno contundente, un almuerzo sabroso o una merienda deliciosa, los **bolones** ofrecen una experiencia culinaria única y auténtica. En esta **receta**, te mostraremos cómo preparar estos **bolones** caseros de manera sencilla, para que puedas disfrutar de esta **tradición ecuatoriana** desde la comodidad de tu hogar. ¡Prepárate para sorprender a tu familia y amigos con este plato, que seguro se convertirá en su nuevo favorito!
-
-Ingredientes
-------------
-
-* 4 plátanos verdes grandes (no maduros)
-* 200 gramos de queso fresco o queso costeño (opcional: puedes usar chicharrón o bacon en lugar de queso)
-* 2 cucharadas de mantequilla o aceite (opcional: manteca de cerdo)
-* Sal al gusto
-* Aceite para freír
-
-* * *
-
-> Con su mezcla de texturas y sabores, el bolón de verde es una excelente muestra de la riqueza gastronómica de Ecuador
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/09/image-14-1024x683.png)
-
-Ya sea acompañado de una taza de café o un huevo frito, el bolón de verde es una delicia que destaca en la cocina ecuatoriana.
-
-Preparación de los bolones de verde
------------------------------------
-
-* **Pelar** los plátanos verdes y cotarlos en rodajas gruesas.
-* **Calentar** en una sartén grande, suficiente aceite y freír los plátanos hasta que estén dorados y cocidos (aproximadamente 8-10 minutos). Asegurarse que no queden crudos por dentro.
-* Una vez fritos, retirar del aceite y **colocar** sobre papel absorbente para eliminar el exceso de grasa.
-* En un mortero o con un machacador de papas, **aplastar** los plátanos fritos hasta formar una masa. Si ves que la masa está muy seca, puedes añadir un poco de mantequilla, aceite o agua caliente para darle una mejor textura.
-* **Sazonar** con sal al gusto mientras los machacas.
-* Si decides usar queso, desmenúzalo o córtalo en cubos pequeños.
-* **Incorporar** el queso o chicharrón a la masa de plátano. Mezclar bien y formar bolas (bolones) del tamaño de tu preferencia. Asegurarse que el relleno quede bien distribuido.
-* Luego, para dar la textura final y crujiente, pasar los bolones nuevamente por la sartén con un poco de aceite, dorándolos por fuera.
-* Servir los bolones de verde calientes. Se suelen acompañar con café, huevo frito o un poco de salsa picante.
-
-Variaciones de bolones de verde
--------------------------------
-
-Las variaciones del bolón de verde son tan diversas como los gustos de quienes lo preparan. Aquí te presentamos algunas de las más populares:
-
-* **Bolón mixto**: Esta es una de las variaciones más populares. Combina lo mejor de ambos mundos: el queso derretido y el chicharrón crujiente, creando una explosión de sabores y texturas.
-* **Bolón de queso**: Esta es la versión clásica y más sencilla. El plátano verde machacado se mezcla con abundante queso fresco o costeño, que le aporta un sabor suave y ligeramente salado.
-* **Bolón de chicharrón**: En esta versión, el plátano se combina con chicharrón o cerdo frito crujiente. El contraste entre lo suave del plátano y lo crocante del chicharrón le da un sabor único y delicioso.
-* **Bolón de camarones**: Esta es una variación más gourmet y es muy común en la costa ecuatoriana. Los camarones salteados se mezclan con el plátano, dándole un toque marino que eleva el plato a otro nivel.
-* **Bolón vegetariano**: Para una opción sin carne, el bolón se puede preparar solo con queso o acompañarlo con otros ingredientes como aguacate, champiñones salteados, o incluso espinacas.
-
-Cada una de estas variaciones del bolón de verde mantiene la esencia del plato, pero le añade un toque especial que lo adapta a los diferentes paladares.
-
-¡Disfruta de esta delicia ecuatoriana!
-
-¡La Inteligencia Artificial ya puede razonar!
-=============================================
-
-OpenAI ha logrado avances importantes en IA, pero aún queda mucho por desarrollar, guiado por un enfoque responsable.
----------------------------------------------------------------------------------------------------------------------
-
-![Marco E. Benalcázar, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Marco-E.-Benalcazar.jpg)
-
-En el vertiginoso avance de la **Inteligencia Artificial (IA)**, donde el razonamiento sigue siendo un importante desafío, [**Open AI**](https://openai.com/ "Enlace inteligencia artificial") ha vuelto a marcar un hito importante. El 12 de septiembre de 2024, coincidiendo con la celebración del Día del Programador, Open AI presentó su nueva serie de grandes modelos de lenguaje (LLMs por sus siglas en inglés): [ChatGPT o1-preview](https://openai.com/index/introducing-openai-o1-preview/) y [ChatGPT o1-mini](https://openai.com/index/openai-o1-mini-advancing-cost-efficient-reasoning/) (los **modelos o1**). Estos nuevos modelos fueron diseñados para simular cierta capacidad de **análisis y razonamiento** en la generación automática de texto. Open AI destacó en su lanzamiento que estos nuevos modelos pueden [“pensar antes de responder”](https://openai.com/index/introducing-openai-o1-preview/), una diferencia clave con respecto a sus predecesores como [ChatGPT 4o](https://openai.com/index/hello-gpt-4o/). En un análisis anterior titulado [“Lo que debes saber antes de usar ChatGPT](https://www.elcomercio.com/opinion/debes-saber-antes-usar-chat-gpt-marco-benalcazar-columnista.html)”, discutimos las debilidades y fortalezas de ChatGPT 4o, señalando que una de las principales limitaciones era su tendencia a proporcionar respuestas incorrectas en situaciones que demandaban razonamiento. Con los nuevos modelos, **OpenAI** busca abordar directamente esta limitación, ofreciendo una experiencia más cercana al **razonamiento humano**. En este artículo vamos a analizar estos nuevos modelos de IA.
-
-Para poner a prueba nuestra capacidad de análisis o **razonamiento** y también la de los nuevos **modelos o1** de Open AI, consideremos un problema de matemáticas y lenguaje que es sencillo de comprender, pero que demanda de cierta complejidad a la hora de su resolución: la **generación** de **palíndromos**. Un **palíndromo** se define como una palabra o frase que se lee igual de izquierda a derecha que de derecha a izquierda. Por ejemplo, **palíndromos** de una sola palabra son “ANILINA” y “RECONOCER”; **palíndromos** de 2 palabras son “AMO ROMA” y “OJO ROJO”. En estos dos últimos casos, para leer la misma secuencia de letras, debemos ignorar los espacios en blanco que separan las palabras. Finalmente, ejemplos de **palíndromos** de 3 palabras son “ANULA LA LUNA” y “ATEO POCO POETA”. Como nos podemos dar cuenta, verificar que una palabra o frase sea un **palíndromo** es un problema sencillo; sin embargo, su **generación** involucra **análisis** y razonamiento.
-
-Ahora te planteo el siguiente problema “**Crea un palíndromo de 6 palabras en español**”. Toma papel y lápiz y deja volar tu **imaginación**, y capacidad de **análisis** y **razonamiento**. Piénsalo bien y mide el tiempo que te demoras resolviendo este problema. Una vez que lo resuelvas, responde la siguiente pregunta ¿Cuán complicado te resultó encontrar una frase con sentido, de 6 palabras, que sea un **palíndromo**?
-
-Es momento de plantear el mismo problema a **ChatGPT 4o**, usando como _prompt_ la descripción del problema que definimos arriba entre comillas. El resultado que retorna es “ANITA LLEVA AVE ALLÁ LATINA”, en aproximadamente 1 segundo. La **respuesta** ha sido generada muy rápidamente; sin embargo, es incorrecta, pues agrupando las letras de esta frase de derecha a izquierda, la única palabra donde hay coincidencia es “ANITA”. Si le pides generar un nuevo **palíndromo**, lo más probable es que el resultado sea nuevamente incorrecto. Ahora intentemos lo mismo, pero con otro LLM, esta vez [**Claude**](https://claude.ai/login) de [Anthropic](https://www.anthropic.com/). El resultado generado es “AMA LA VIDA, ADIVINA LA AMA”, en aproximadamente 2 segundos. Nuevamente, este resultado, aunque generado rápidamente, es incorrecto. Finalmente, démosle la oportunidad a [**Gemini**](https://gemini.google.com/), el LLM de Google. La respuesta es “A LA SEÑAL, NADA SE ALÓ”, la cual fue generada en unos 5 segundos porque, aparte de la respuesta, también se generó una explicación. Desafortunadamente, el resultado es incorrecto. Este problema generalizado se debe a que todos estos LLMs generan sus respuestas, palabra por palabra, sin analizar si el texto producido cumple con las condiciones establecidas (en este caso de ser un palíndromo). Estos modelos tampoco “razonan” sus respuestas antes de retornarlas.
-
-Ahora le toca el turno a **ChatGPT o1-preview** (el modelo que simula cierta capacidad de análisis y razonamiento). Este algoritmo retorna la frase “[YO DONO ORO O NO DOY](https://chatgpt.com/share/66e85b1b-5a18-8001-990b-51e89b41c983)”, en 30 segundos. Esta vez hubo que esperar más tiempo para obtener una respuesta. Sin embargo, esta espera valió la pena porque el resultado es correcto. Te recomiendo comparar este resultado con el que obtuviste gracias a tu **capacidad intelectual**. Lo más probable es que tu tiempo sea mucho mayor que el que se demoró ChatGPT o1-preview. Ahora surge la pregunta ¿cómo ChatGPT o1-preview llegó a una respuesta correcta? Desafortunadamente, para aquellos que no formamos parte del equipo de Open AI, la maquinaria algorítmica y el procedimiento usado para la **implementación** de los nuevos **modelos o1** es confidencial. Sin embargo, sabemos que los nuevos modelos han sido desarrollados combinando aprendizaje autosupervisado, ajuste fino (_fine-tuning_) supervisado, aprendizaje por refuerzo, y planificación. Con esta combinación entre técnicas avanzadas de IA, mucha imaginación y creatividad por parte de los **ingenieros** y **científicos** de Open AI, gran capacidad de cómputo y enormes volúmenes de datos, hoy contamos con los primeros modelos de IA que pueden analizar y razonar, aunque todavía con una capacidad bastante limitada.
-
-Según [datos de Open AI](https://openai.com/index/learning-to-reason-with-llms/), el modelo **ChatGPT o1-preview** se especializa en la resolución de **problemas** complejos en ciencias, matemáticas y programación, integrando un amplio conocimiento del mundo y cierta capacidad de **análisis** y razonamiento. En particular, este **modelo** exhibe un mejor desempeño que expertos humanos en la resolución de preguntas de opción múltiple, de nivel de doctorado (Ph.D.), en biología, física, y química. Por su parte, el modelo **ChatGPT o1-mini** ofrece un procesamiento más rápido y económico, con un enfoque más especializado en la creación y depuración de **código**, lo cual es útil para el desarrollo de **programas computacionales**. Por ahora, si deseas acceder a la funcionalidad de estos nuevos modelos de Open AI, debes pagar una suscripción para usar **ChatGPT** en cualquiera de los siguientes planes: _plus_, _teams_, _enterprise_, _edu_, o la API de ChatGPT. Afortunadamente, [Open AI ha anunciado que eventualmente dará acceso, de forma gratuita, al modelo ChatGPT o1-mini](https://openai.com/index/introducing-openai-o1-preview/).
-
-Finalmente, aunque los avances realizados por Open AI para desarrollar los modelos o1 que simulan cierta capacidad de **análisis** y razonamiento son un paso muy importante, aún hay mucho camino por recorrer en el mundo de la IA. Estamos todavía lejos de que estas **herramientas** puedan realizar análisis y razonamientos profundos, interactuar de manera avanzada con nuestro entorno o plantear soluciones novedosas para una amplia gama de **problemas** fundamentales para la **humanidad**. El desafío de alcanzar una **inteligencia artificial general** (AGI por sus siglas en inglés) sigue siendo monumental. Lo fascinante es que apenas estamos al comienzo de esta **revolución tecnológica**, y el potencial de estas herramientas de IA es enorme. Sin embargo, también es crucial que los desarrolladores, reguladores y la sociedad en su conjunto guíen este progreso con responsabilidad, asegurando que la IA se convierta en una **herramienta** transformadora y segura para todos.
-
-Reforma constitucional y campaña
-================================
-
-Cuando se acercan las elecciones, todo tiene una inevitable valoración electoral.
----------------------------------------------------------------------------------
-
-![Lolo Echeverría, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Lolo-Echeverria-1.jpg)
-
-Cuando se acercan las **elecciones**, todo tiene una inevitable **valoración electoral**. La propuesta de reformar la **Constitución** para levantar el veto a la instalación de **bases militares extranjeras** en nuestro **territorio** responde a una conveniencia para la lucha contra el **narcotráfico** y la **violencia**, pero también tiene una importante **utilidad electoral**.
-
-No se conoce de ningún interés concreto ni propuesta de instalar **bases militares extranjeras**, sin embargo, la **iniciativa** parece oportuna y **viable**.  Es posible su aprobación en la **Asamblea Nacional** por el equilibrio de **fuerzas** y también su **ratificación** en **referéndum** como respuesta a la **inseguridad**.
-
-Para los **intereses electorales** del presidente parece muy conveniente. Las **fuerzas políticas** que se opongan a la **reforma** corren el riesgo de parecer aliados del **narcotráfico**; pero, para el correísmo será difícil aceptar la eliminación de una **disposición constitucional** que defendían con tanto ardor en nombre de la **soberanía nacional**.
-
-La iniciativa del presidente Noboa arrincona al correísmo y propone un **debate** que será un importante **tema de campaña**; si todo marcha bien, la **consulta al pueblo** puede coincidir con las **elecciones presidenciales**. Correísmo y anticorreísmo siguen monopolizando la **campaña electoral**.
-
-Los **estrategas** del gobierno se mueven con mucha habilidad, aunque tienen todavía enemigos muy peligrosos por delante: los **apagones**, la **crisis económica** y el **desempleo**, la persistencia de la **inseguridad ciudadana**, la vicepresidente y los errores de los **funcionarios**.
-
-El **ministro de gobierno** se ha hecho cargo de los errores esta semana. Con prepotencia y poco respeto a la **libertad de expresión** interrumpió un programa de radio para calificar de mentiroso a uno de los invitados. Se burló de los que se creen calificados para hablar de **energía**, matizó diciendo que él tampoco está calificado, pero que llevaba a “su” ministro de energía. Dictaminó que el país no tiene una **crisis energética,** sino una **crisis** de **agua**.
-
-Para las elecciones 2025 se aplica un ABC para la seguridad de los candidatos
-=============================================================================
-
-La seguridad de los candidatos para las elecciones 2025 se analizará, según los riesgos.
-----------------------------------------------------------------------------------------
-
-![Los candidatos seguirán estos requisitos para tener seguridad en las elecciones 2025.](https://www.elcomercio.com/wp-content/uploads/2024/09/proteccion-candidatos.jpg)
-
-La inscripción de **candidatos** para las **elecciones 2025** en Ecuador está en curso. El plazo se completará el 2 de octubre de este 2024[.](https://es.wikipedia.org/wiki/Ecuador)
-
-El calendario establecido por el [**Consejo Nacional Electoral (CNE)**](https://www.cne.gob.ec/) definió el 30 de diciembre del año en curso, se conocerá la lista definitiva.
-
-La campaña será del 5 de enero al 6 de febrero de 2025. Las **votaciones** generales se desarrollarán el 9 de febrero.
-
-### Más noticias
-
-* [Multas electorales ya se pueden pagar en línea, ¿y los cobros presenciales?](https://www.elcomercio.com/actualidad/politica/multas-electorales-pagar-linea-cobros-presenciales.html)
-* [Plazo para pagar multas electorales en el CNE termina](http://Plazo para pagar multas electorales en el CNE termina)
-* [La inscripción para elecciones 2025 empieza con incumplimientos](https://www.elcomercio.com/actualidad/politica/inscripcion-elecciones-2025-impedimentos-brechas.html "La inscripción para elecciones 2025 empieza con incumplimientos")
-* [CNE aprobó la convocatoria para las elecciones 2025](https://www.elcomercio.com/actualidad/politica/cne-aprobo-convocatoria-elecciones-2025.html "CNE aprobó la convocatoria para las elecciones 2025")
-
-> [#EcuadorDecide2025](https://twitter.com/hashtag/EcuadorDecide2025?src=hash&ref_src=twsrc%5Etfw) 🗳️  
->   
-> Las organizaciones políticas calificadas para las [#Elecciones2025Ec](https://twitter.com/hashtag/Elecciones2025Ec?src=hash&ref_src=twsrc%5Etfw), podrán realizar la [#InscripciónCandidaturasEc](https://twitter.com/hashtag/Inscripci%C3%B3nCandidaturasEc?src=hash&ref_src=twsrc%5Etfw) únicamente de forma virtual. 💻✅  
->   
-> Escanea el código QR 📲 y registra tu lista de candidaturas hasta las 18h00 del miércoles, 2 de octubre. ⤵️ [pic.twitter.com/OEhMBXIW5z](https://t.co/OEhMBXIW5z)
-> 
-> — cnegobec (@cnegobec) [September 18, 2024](https://twitter.com/cnegobec/status/1836406627508854809?ref_src=twsrc%5Etfw)
-
-Candidatos para las elecciones 2025 y la seguridad
---------------------------------------------------
-
-Con el asesinato del excandidato presidencial **Fernando Villavicencio**, en agosto de 2023, se encendieron las alertas sobre los riesgos que enfrentan los postulantes. Sin embargo, no es el único político que perdió la vida en Ecuador.
-
-Solo entre el 2023 y julio de este 2024, 15 personas del gremio fueron asesinados en distintos puntos del país. En ese último mes, **José Miguel Mendoza**, excandidato a la Alcaldía de Portoviejo, fue víctima de sicariato.
-
-A esa lista roja se sumó quien fue alcaldesa de San Vicente, **Brigitte García**. Lo propio pasó con **Agustín Intriago**, que lideró el Municipio de Manta, corrió con el mismo destino, el 23 de julio de 2023.
-
-Policía analiza los riesgos
----------------------------
-
-El comandante general de la Policía, **Víctor Hugo Zárate**, detalló que la institución está integrada por 47 450 servidores policiales. Además, 1800 se encuentran en formación.
-
-A septiembre de 2024, indicó el General, más de **1100 uniformados** están destinados al resguardo de servidores públicos. Todo empieza con un análisis de riesgo, tras recibir la solicitud de protección.
-
-Sobre la evaluación de riesgo para los candidatos rumbo a las elecciones 2025, **Zárate** dio cuenta de una coordinación con el **CNE**.
-
-El General adelantó que se requieren vehículos blindados, con los que no cuenta la **Policía Nacional**. Por eso, dijo en una entrevista en Teleamazonas, coordinarán con el **CNE**, para brindar el contingente y lo que ya ocurrió no se repita.
-
-La **Dirección de Protección** es la encargada de la gestión de dicha cuota policial para la protección de los candidatos.
-
-¿Cuántos candidatos pidieron protección en 2023?
-------------------------------------------------
-
-En las elecciones anticipadas 2023, en las que murió **Fernando Villavicencio**, el **CNE** reportó que 11 candidatos de binomios presidenciales que solicitaron resguardo. Hubo ocho duplas.
-
-En lo que se refiere a asambleístas, el pedido llegó de **41 aspirantes**. En esas votaciones se definieron 137 curules y en el 2025, serán 151. Además, serán cinco parlamentarios andinos.
-
-Del total de legisladores, **15 corresponderán a nacionales, 130 provinciales** y **seis** de las suscripciones especiales del **exterior**.
-
-> [#InscripciónCandidaturasEc](https://twitter.com/hashtag/Inscripci%C3%B3nCandidaturasEc?src=hash&ref_src=twsrc%5Etfw) 🇪🇨🗳️  
->   
-> En este tutorial te explicamos el paso a paso de este proceso que es únicamente en línea. ⬇️📽️  
->   
-> Las organizaciones políticas pueden efectuar sus solicitudes hasta las 18h00 del 2️⃣ de octubre. [#Elecciones2025Ec](https://twitter.com/hashtag/Elecciones2025Ec?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/SDa29XrVsE](https://t.co/SDa29XrVsE)
-> 
-> — cnegobec (@cnegobec) [September 17, 2024](https://twitter.com/cnegobec/status/1836045745712988584?ref_src=twsrc%5Etfw)
-
-Para los comicios 2025, se anunciaron **16 binomios presidenciales**. No obstante, el proceso aún está en curso para conocer los candidatos definitivos.
-
-Hasta las 15:50 de este miércoles, 18 de septiembre de 2024, ningún binomio había inscrito su candidatura en el **CNE**. Las postulaciones se realizan en línea, a través del **Sistema de Inscripción de Candidaturas**.
-
-Quienes sí se apuntó fue una lista provincial de asambleístas del **Movimiento Pueblo, Igualdad y Democracia**.
-
-Sin embargo, mientras no se cierren las inscripciones, a pesar de los procesos de **primarias** que culminaron en agosto de 2024, aún hay precandidatos que pueden desistir.
-
-El proceso para el resguardo
-----------------------------
-
-Una vez calificadas las inscripciones, tras la evaluación del cumplimiento de requisitos, los candidatos de las elecciones 2025 pueden solicitar seguridad policial. Es decir, una vez que cuenten con el **estatus de candidatos**.
-
-El análisis de riesgo lo realizan el **Ministerio del Interior y la Policía Nacional**, que tienen la competencia para brindar seguridad. Desde estas instancias se definen las operaciones.
-
-Desde el **CNE**, a su vez, detallaron que se integrará la denominada mesa de seguridad electoral, integrada por personal de la institución, policial, Ecu 911, ministerios de Salud, Educación, Transporte, entre otras instancias.
-
-La delegación coordinará respuestas ante posibles eventualidades durante el **proceso electoral**.
-
-Escuela de formación para cuidar a candidatos
----------------------------------------------
-
-El pasado julio, a su vez, la **Policía** anunció que ya se preparan los operativos de seguridad para el cuidado de los candidatos en las elecciones 2025.
-
-Ya en ese mes, la institución aseguró que contará con un espacio destinado a la **Escuela de Formación de uniformados que protegen a funcionarios públicos**.
-
-Desde la entidad se apuntó que los policías que resguardan a los **funcionarios públicos** requieren una capacitación permanente.
-
-Definiciones de la convocatoria
--------------------------------
-
-El periodo de funciones de las autoridades que resulten electas será: 
-
-* **Binomio presidencial:** desde el 24 de mayo de 2025 hasta el 23 de mayo de 2029. 
-* **Parlamento Andino:** del 19 de mayo de 2025 al 18 de mayo de 2029. 
-* **Asambleístas:** del 14 de mayo de 2025 al 13 de mayo de 2029. 
-
-Las **candidaturas** para presidente y sus respectivos **binomios** se consideran unipersonales. En cambio, para asambleístas se presentarán en listas completas con candidatos principales y sus respectivos suplentes.
-
-En el caso de los **parlamentarios andinos**, las candidaturas son pluripersonales y se registran en listas completas, por cada candidato principal se presentarán dos suplentes. 
-
-Desde el **CNE** remarcaron que los grupos se conformarán cumpliendo con los principios de **equidad, paridad, alternabilidad y secuencialidad**, entre mujeres y hombres, tanto para principales como para suplentes.
-
-36 ecuatorianos fueron deportados desde Panamá
-==============================================
-
-Este es el segundo vuelo de migrantes irregulares que envía el país centroamericano a Ecuador.
-----------------------------------------------------------------------------------------------
-
-![Estados Unidos y Panamá firmaron un convenio para deportar migrantes irregulares que vayan a Norteamérica](https://www.elcomercio.com/wp-content/uploads/2024/09/panama.jpg)
-
-El **Gobierno de Panamá** deportó a decenas de **ecuatorianos** que tenían como destino Norteamérica, este viernes 20 de septiembre de 2024.
-
-Este es el **segundo vuelo** que llega a Ecuador, financiado por los Estados Unidos en el marco de un acuerdo firmado con Panamá para reducir el flujo de personas que atraviesan la selva del **Darién**.
-
-### Más noticias
-
-* [Migrantes perciben un paso más ordenado en la frontera México-EEUU](https://www.elcomercio.com/actualidad/mundo/migrantes-perciben-un-paso-mas-ordenado-en-la-frontera-mexico-eeuu-por-medidas-de-la-cbp.html "Migrantes perciben un paso más ordenado en la frontera México-EEUU")
-* [Estados Unidos abre nueva oficina de inmigración en Quito](https://www.elcomercio.com/actualidad/politica/estados-unidos-nueva-oficina-inmigracion-quito.html "Estados Unidos abre nueva oficina de inmigración en Quito")
-* [La crisis migratoria separa a los rancheros en](https://www.elcomercio.com/actualidad/mundo/crisis-migratoria-separa-rancheros-arizona-trump-harris.html "La crisis migratoria separa a los rancheros en Arizona entre Trump y Harris") [A](https://www.elcomercio.com/actualidad/mundo/crisis-migratoria-separa-rancheros-arizona-trump-harris.html "La crisis migratoria separa a los rancheros en Arizona entre Trump y Harris")[rizona entre Trump y Harris](https://www.elcomercio.com/actualidad/mundo/crisis-migratoria-separa-rancheros-arizona-trump-harris.html "La crisis migratoria separa a los rancheros en Arizona entre Trump y Harris")
-
-El vuelo con **36 ciudadanos**, 33 hombres y 3 mujeres, partió de la ciudad de Panamá y aterrizó en **Manta**, en compañía de **seis custodios** del Servicio Nacional de Migración (SNM).
-
-Según detalló el servicio migratorio panameño, de este grupo de ecuatorianos, 35 fueron deportados y **uno expulsado**, tras confirmar que el individuo tenía antecedentes penales en Ecuador.
-
-Otros 30 migrantes ecuatorianos fueron deportados
--------------------------------------------------
-
-El 29 de agosto de 2024, Panamá realizó el **primer vuelo** de deportación a Ecuador.
-
-En ese retorno humanitario, **30 migrantes irregulares** regresaron a su país.
-
-El grupo estaba conformado por 27 hombres y 3 mujeres.
-
-Con el nuevo anuncio de este viernes, Panamá ya suma **433 personas deportadas** en once vuelos, a partir de la firma del convenio.
-
-Flujo de migrantes por el Darién se redujo
-------------------------------------------
-
-Según datos de Migración de Panamá, el flujo de migrantes irregulares por la **selva del Darién** disminuyó en 100 000 personas.
-
-En lo que va de 2024, más de **244 200 migrantes** cruzaron este mortal paso; lo que refleja una disminución de 110 056 ciudadanos (31 %) en comparación con el mismo lapso del año pasado.
-
-Las autoridades estiman que en 2024 unos **320 000 migrantes** atravesarán esta selva, una reducción del **38 %** frente al récord histórico de 520 000 de 2023.
-
-Netflix lanza un avance especial del ‘Juego del Calamar 2’
-==========================================================
-
-'El Juego del Calamar 2', la serie más exitosa de Netflix, cuenta con un avance especial antes de su estreno a finales de este año.
------------------------------------------------------------------------------------------------------------------------------------
-
-![Imagen del avance especial de 'El Juego del Calamar 2'.](https://www.elcomercio.com/wp-content/uploads/2024/09/Diseno-sin-titulo-28.jpg)
-
-**Netflix** lanzó un **avance especial** del ‘**Juego del Calamar 2**‘, una serie surcoreana de suspenso y drama que trata sobre los mecanismos de supervivencia en medio de reglas y retos.
-
-En esta segunda temporada, un nuevo capítulo se abrirá cuando **Gi‑hun** vuelve con una misión personal, tras renunciar a su plan de irse a **Estados Unidos**.
-
-### Más noticias:
-
-* [Las 10 películas top de Netflix para el feriado del 10 de agosto](https://www.elcomercio.com/afull/las-10-peliculas-top-de-netflix-para-el-feriado-del-10-de-agosto.html "Las 10 películas top de Netflix para el feriado del 10 de agosto")
-* [‘Shogun’ ¿Es tan buena como dicen?](https://www.elcomercio.com/afull/shogun-serie-vestuario-violencia-idioma-elenco-trama.html "‘Shogun’ ¿Es tan buena como dicen?")
-
-El ´Juego del calamar’ se estrenó a nivel mundial el 17 de septiembre de 2021, con gran éxito de crítica y atención internacional.
-
-La serie gira en torno a un concurso secreto en el que 456 jugadores, con dificultades económicas, arriesgan sus vidas jugando a una serie de juegos infantiles mortales para tener la oportunidad de ganar alrededor de 35 millones de dólares.
-
-**Se convirtió en la serie más vista de Netflix y una de las más nominadas y galardonadas.**
-
-Recibió el Globo de Oro al mejor actor secundario para O Yeong-su y el Screen Actors Guild Award a la mejor interpretación masculina en una serie dramática y a la mejor interpretación femenina en una serie dramática para Lee Jung-jae y HoYeon Jung.
-
-Además, tuvo catorce nominaciones a los premios Primetime Emmy, entre otros.
-
-En junio de 2022, la serie fue renovada por una segunda temporada, cuya emisión está prevista para el 26 de diciembre de 2024.
-
-En julio de 2024 fue renovada a una tercera y última temporada a estrenarse en 2025.
-
-Por el éxito de la primera temporada, Netflix también desarrolló un programa de telerrealidad basado en la serie, llamado ‘El juego del calamar: El Desafío’.​
-
-‘El Juego del Calamar 2’ y el avance especial
----------------------------------------------
-
-El avance especial de ‘El juego del Calamar 2’ nos traslada **tres años después del final de la primera temporada**.
-
-En esta **segunda temporada**, el ganador del juego, Seo Gi-hun toma la decisión de no ir a Estados Unidos.
-
-Esto, con el fin de conseguir su nuevo objetivo: usar el dinero del premio para desenmascarar a las personas que dirigen el juego.
-
-Netflix difundió el avance especial de la segunda temporada en la plataforma de **YouTube**.
