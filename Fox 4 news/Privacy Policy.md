@@ -400,6 +400,24 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
+ [![Report details the lesser known link between alcohol and cancer risk](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/GettyImages-467650191.jpg?ve=1&tl=1)
+
+ ![Report details the lesser known link between alcohol and cancer risk](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/592/333/GettyImages-467650191.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/cancer-deaths-decline-alcohol-risk-factor)
+
+### [Report details the lesser known link between alcohol and cancer risk](https://www.fox4news.com/news/cancer-deaths-decline-alcohol-risk-factor)
+
+ [![SMU gets 4 TDs from Smith and three more with offense watching, beats TCU 66-42 after Dykes ejected](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/GettyImages-2173622105.jpg?ve=1&tl=1)
+
+ ![SMU gets 4 TDs from Smith and three more with offense watching, beats TCU 66-42 after Dykes ejected](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/592/333/GettyImages-2173622105.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/sports/smu-gets-4-tds-from-smith-three-more-offense-watching-beats-tcu-66-42-after-dykes-ejected)
+
+### [SMU gets 4 TDs from Smith and three more with offense watching, beats TCU 66-42 after Dykes ejected](https://www.fox4news.com/sports/smu-gets-4-tds-from-smith-three-more-offense-watching-beats-tcu-66-42-after-dykes-ejected)
+
+ [![Cards Against Humanity sues Elon Musk’s SpaceX over alleged trespassing in Texas](https://images.foxtv.com/static.fox7austin.com/www.fox7austin.com/content/uploads/2024/09/32/18/Untitled.jpeg?ve=1&tl=1)
+
+ ![Cards Against Humanity sues Elon Musk’s SpaceX over alleged trespassing in Texas](https://images.foxtv.com/images.foxtv.com/static.fox7austin.com/www.fox7austin.com/content/uploads/2024/09/32/18/592/333/Untitled.jpeg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/cards-against-humanity-lawsuit-elon-musk-spacex-texas)
+
+### [Cards Against Humanity sues Elon Musk’s SpaceX over alleged trespassing in Texas](https://www.fox4news.com/news/cards-against-humanity-lawsuit-elon-musk-spacex-texas)
+
  [![Fort Worth police officer's attorneys claim 2016 incident is to blame for recent arrest](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/william-martin.jpg?ve=1&tl=1)
 
  ![Fort Worth police officer's attorneys claim 2016 incident is to blame for recent arrest](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/592/333/william-martin.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/fort-worth-police-officers-attorneys-claim-2016-incident-is-blame-recent-arrest)
@@ -411,24 +429,6 @@ Please note that, in some instances, we may decline to honor your request where,
  ![Richardson police release video of chase, shooting involving Kaufman County murder suspect](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/592/333/Richardson-chase-video_KDFW28b3_146_mxf_00.00.44.24-1.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/richardson-police-chase-dallas-shooting-donald-ingram)
 
 ### [Richardson police release video of chase, shooting involving Kaufman County murder suspect](https://www.fox4news.com/news/richardson-police-chase-dallas-shooting-donald-ingram)
-
- [![Colorado police and community rally to rescue missing teen from storm drain](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/tupac-2.jpg?ve=1&tl=1)
-
- ![Colorado police and community rally to rescue missing teen from storm drain](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/592/333/tupac-2.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/colorado-teen-rescue-storm-drain-community-police)
-
-### [Colorado police and community rally to rescue missing teen from storm drain](https://www.fox4news.com/news/colorado-teen-rescue-storm-drain-community-police)
-
- [![Mansfield shooting: Suspect charged with murder of 17-year-old](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/Elijah-Hatton-mug.png?ve=1&tl=1)
-
- ![Mansfield shooting: Suspect charged with murder of 17-year-old](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/592/333/Elijah-Hatton-mug.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/mansfield-shooting-elijah-hatton-cutting-horse-drive)
-
-### [Mansfield shooting: Suspect charged with murder of 17-year-old](https://www.fox4news.com/news/mansfield-shooting-elijah-hatton-cutting-horse-drive)
-
- [![Hollywood Hills mansion covered in graffiti, taken over by squatters](https://images.foxtv.com/static.foxla.com/www.foxla.com/content/uploads/2024/09/32/18/Hollywood-Hills-Squatter-Graffiti.jpg?ve=1&tl=1)
-
- ![Hollywood Hills mansion covered in graffiti, taken over by squatters](https://images.foxtv.com/images.foxtv.com/static.foxla.com/www.foxla.com/content/uploads/2024/09/32/18/592/333/Hollywood-Hills-Squatter-Graffiti.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/hollywood-hills-graffiti-mansion-squatters)
-
-### [Hollywood Hills mansion covered in graffiti, taken over by squatters](https://www.fox4news.com/news/hollywood-hills-graffiti-mansion-squatters)
 
 ###### [News](https://www.fox4news.com/news)
 
