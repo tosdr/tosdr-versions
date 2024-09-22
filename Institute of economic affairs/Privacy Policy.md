@@ -61,9 +61,7 @@ IEA Info
 * [Epicenter](https://iea.org.uk/international/)
 * [Contact Us](https://iea.org.uk/contact-us/)
 
-[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
-
-![](/wp-content/uploads/2022/03/iea-logo.png)](https://iea.org.uk/)
+[![](/wp-content/uploads/2022/03/iea-logo.png)](https://iea.org.uk/)
 
 Privacy Policy.
 ---------------
