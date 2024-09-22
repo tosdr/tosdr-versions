@@ -118,61 +118,57 @@ This policy is effective as of 29 June 2021.
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Support even on Sundays!
-> ------------------------
+> Fast, Accurate & Easy to Use
+> ----------------------------
 > 
-> Thanks Adriaan...
-> 
-> You guys even work on Sundays?
-> 
-> I’m impressed!!
+> Small Business Management System or SBMS, now rebranded as Invoices Online is an online invoicing system developed by the same guys that developed our site, we use it and honestly recommend it to all people who have dynamic sites, or want an online invoicing solution.  The invoicing application is fast, accurate, easy to use, and it really enhances the online experience of our clients.
 
-Johan Botha - Brand Xplosion
+Jannie Schutte - myFinance-Online.co.za
 
-![valued client IAS Logistics (Pty) Ltd T/A MULTITRANSIT ](https://www.invoicesonline.co.za/scripts/image.php?bid=7064&file=logo_300_100&type=&fe=fdccd85bc2db0043727f1d34a7f27324c23b0b5d87c5a96b4a2b07053a4a046d&c=190730918)  
-IAS Logistics (Pty) Ltd T/A MULTITRANSIT
-
-![valued client Skinz Printing & Branding ](https://www.invoicesonline.co.za/scripts/image.php?bid=6232&file=logo_300_100&type=&fe=fdccd85bc2db0043727f1d34a7f27324c23b0b5d87c5a96b4a2b07053a4a046d&c=184513296)  
+![valued client Skinz Printing & Branding ](https://www.invoicesonline.co.za/scripts/image.php?bid=6232&file=logo_300_100&type=&fe=506b5ce8bc4bf980b534769591c043845073bfd0472988a54d2f3dc7847491de&c=90067733)  
 Skinz Printing & Branding
 
-![valued client J.M. HUMAN RESOURCES](https://www.invoicesonline.co.za/scripts/image.php?bid=4626&file=logo_300_100&type=&fe=fdccd85bc2db0043727f1d34a7f27324c23b0b5d87c5a96b4a2b07053a4a046d&c=22858685)  
-J.M. HUMAN RESOURCES
+![valued client Durbanville Classifieds (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8122&file=logo_300_100&type=&fe=506b5ce8bc4bf980b534769591c043845073bfd0472988a54d2f3dc7847491de&c=14085710)  
+Durbanville Classifieds (Pty) Ltd
 
-![valued client LEO DEVELOPMENT GROUP](https://www.invoicesonline.co.za/scripts/image.php?bid=7896&file=logo_300_100&type=&fe=fdccd85bc2db0043727f1d34a7f27324c23b0b5d87c5a96b4a2b07053a4a046d&c=200056328)  
-LEO DEVELOPMENT GROUP
+![valued client Calonet ](https://www.invoicesonline.co.za/scripts/image.php?bid=3324&file=logo_300_100&type=&fe=506b5ce8bc4bf980b534769591c043845073bfd0472988a54d2f3dc7847491de&c=162905955)  
+Calonet
 
-![valued client SLOANE STAR MEAT MARKET](https://www.invoicesonline.co.za/scripts/image.php?bid=1748&file=logo_300_100&type=&fe=fdccd85bc2db0043727f1d34a7f27324c23b0b5d87c5a96b4a2b07053a4a046d&c=172608641)  
-SLOANE STAR MEAT MARKET
-
-![valued client Printo](https://www.invoicesonline.co.za/scripts/image.php?bid=7618&file=logo_300_100&type=&fe=fdccd85bc2db0043727f1d34a7f27324c23b0b5d87c5a96b4a2b07053a4a046d&c=155468259)  
-Printo
-
-![valued client Website Café (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=4081&file=logo_300_100&type=&fe=fdccd85bc2db0043727f1d34a7f27324c23b0b5d87c5a96b4a2b07053a4a046d&c=6626028)  
-Website Café (PTY) LTD
-
-![valued client MONSTER SECURITY SERVICES](https://www.invoicesonline.co.za/scripts/image.php?bid=5438&file=logo_300_100&type=&fe=fdccd85bc2db0043727f1d34a7f27324c23b0b5d87c5a96b4a2b07053a4a046d&c=213268397)  
-MONSTER SECURITY SERVICES
-
-![valued client Wiselink Broadband Vryheid](https://www.invoicesonline.co.za/scripts/image.php?bid=6023&file=logo_300_100&type=&fe=fdccd85bc2db0043727f1d34a7f27324c23b0b5d87c5a96b4a2b07053a4a046d&c=35388219)  
-Wiselink Broadband Vryheid
-
-![valued client NILBET (PTY) LTD - Once Off's](https://www.invoicesonline.co.za/scripts/image.php?bid=7439&file=logo_300_100&type=&fe=fdccd85bc2db0043727f1d34a7f27324c23b0b5d87c5a96b4a2b07053a4a046d&c=185126114)  
-NILBET (PTY) LTD - Once Off's
-
-![valued client Oak Tree Immigration](https://www.invoicesonline.co.za/scripts/image.php?bid=6695&file=logo_300_100&type=&fe=fdccd85bc2db0043727f1d34a7f27324c23b0b5d87c5a96b4a2b07053a4a046d&c=66588263)  
+![valued client Oak Tree Immigration](https://www.invoicesonline.co.za/scripts/image.php?bid=6695&file=logo_300_100&type=&fe=506b5ce8bc4bf980b534769591c043845073bfd0472988a54d2f3dc7847491de&c=185601702)  
 Oak Tree Immigration
 
-![valued client Laurinda Pretorius Spraak en Drama Ateljee](https://www.invoicesonline.co.za/scripts/image.php?bid=7561&file=logo_300_100&type=&fe=fdccd85bc2db0043727f1d34a7f27324c23b0b5d87c5a96b4a2b07053a4a046d&c=78129765)  
-Laurinda Pretorius Spraak en Drama Ateljee
+![valued client Stories4Kids (Pty) Ltd t/a Storietyd](https://www.invoicesonline.co.za/scripts/image.php?bid=2162&file=logo_300_100&type=&fe=506b5ce8bc4bf980b534769591c043845073bfd0472988a54d2f3dc7847491de&c=81020363)  
+Stories4Kids (Pty) Ltd t/a Storietyd
 
-![valued client Oukraal Merino's](https://www.invoicesonline.co.za/scripts/image.php?bid=3971&file=logo_300_100&type=&fe=fdccd85bc2db0043727f1d34a7f27324c23b0b5d87c5a96b4a2b07053a4a046d&c=30384950)  
-Oukraal Merino's
+![valued client NWET Pty LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=5929&file=logo_300_100&type=&fe=506b5ce8bc4bf980b534769591c043845073bfd0472988a54d2f3dc7847491de&c=98776426)  
+NWET Pty LTD
 
-![valued client OrgChart Hosting Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=658&file=logo_300_100&type=&fe=fdccd85bc2db0043727f1d34a7f27324c23b0b5d87c5a96b4a2b07053a4a046d&c=160717278)  
+![valued client Itroniq (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8072&file=logo_300_100&type=&fe=506b5ce8bc4bf980b534769591c043845073bfd0472988a54d2f3dc7847491de&c=50848788)  
+Itroniq (Pty) Ltd
+
+![valued client Konsortium Operations ( Roamfree Meats )](https://www.invoicesonline.co.za/scripts/image.php?bid=2819&file=logo_300_100&type=&fe=506b5ce8bc4bf980b534769591c043845073bfd0472988a54d2f3dc7847491de&c=186139851)  
+Konsortium Operations ( Roamfree Meats )
+
+![valued client RADIO TYGERBERG 104FM NPC](https://www.invoicesonline.co.za/scripts/image.php?bid=8595&file=logo_300_100&type=&fe=506b5ce8bc4bf980b534769591c043845073bfd0472988a54d2f3dc7847491de&c=187145788)  
+RADIO TYGERBERG 104FM NPC
+
+![valued client kidoscabbie](https://www.invoicesonline.co.za/scripts/image.php?bid=4488&file=logo_300_100&type=&fe=506b5ce8bc4bf980b534769591c043845073bfd0472988a54d2f3dc7847491de&c=157942567)  
+kidoscabbie
+
+![valued client OrgChart Hosting Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=658&file=logo_300_100&type=&fe=506b5ce8bc4bf980b534769591c043845073bfd0472988a54d2f3dc7847491de&c=163930559)  
 OrgChart Hosting Pty Ltd
 
-![valued client FJW Security Cc](https://www.invoicesonline.co.za/scripts/image.php?bid=1343&file=logo_300_100&type=&fe=fdccd85bc2db0043727f1d34a7f27324c23b0b5d87c5a96b4a2b07053a4a046d&c=150422701)  
-FJW Security Cc
+![valued client Imhoff Equestrian Centre](https://www.invoicesonline.co.za/scripts/image.php?bid=7987&file=logo_300_100&type=&fe=506b5ce8bc4bf980b534769591c043845073bfd0472988a54d2f3dc7847491de&c=96387868)  
+Imhoff Equestrian Centre
+
+![valued client VerdanTech Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5389&file=logo_300_100&type=&fe=506b5ce8bc4bf980b534769591c043845073bfd0472988a54d2f3dc7847491de&c=59640136)  
+VerdanTech Pty Ltd
+
+![valued client webb it services](https://www.invoicesonline.co.za/scripts/image.php?bid=7007&file=logo_300_100&type=&fe=506b5ce8bc4bf980b534769591c043845073bfd0472988a54d2f3dc7847491de&c=157061288)  
+webb it services
+
+![valued client ARCHITEK PTY LTD ](https://www.invoicesonline.co.za/scripts/image.php?bid=8208&file=logo_300_100&type=&fe=506b5ce8bc4bf980b534769591c043845073bfd0472988a54d2f3dc7847491de&c=169007253)  
+ARCHITEK PTY LTD
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
