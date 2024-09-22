@@ -31,6 +31,468 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
+Represa Mazar cambia de estado con las primeras lluvias en el Austro
+====================================================================
+
+La represa Mazar es monitoreada permanentemente por las autoridades, debido a su importancia de generación de electricidad.
+---------------------------------------------------------------------------------------------------------------------------
+
+![La represa Mazar está en su nivel crítico, debido a la extensa sequía en el país.](https://www.elcomercio.com/wp-content/uploads/2024/09/mazar-represa.jpg)
+
+La represa Mazar, en el Austro, aumenta su flujo de agua en 20 centímetros, luego de que cayeran las primeras lluvias la noche del sábado 21 de septiembre de 2024.
+
+### Más noticias
+
+* [Cortes de luz de este domingo son sectorizados y en franjas horarias](https://www.elcomercio.com/actualidad/ecuador/cortes-luz-domingo-sectorizado-franjas.html "Cortes de luz de este domingo son sectorizados y en franjas horarias")
+* [Cortes de luz en 12 provincias en Ecuador, hoy; este es el cronograma](https://www.elcomercio.com/actualidad/negocios/12-provincias-tendran-cortes-de-luz-domingo-22-de-septiembre-del-2024.html "Cortes de luz en 12 provincias en Ecuador, hoy; este es el cronograma")
+* [Se declara alerta roja en 19 provincias de Ecuador por sequía](https://www.elcomercio.com/actualidad/ecuador/alerta-roja-19-provincias-ecuador-sequia-emergencia.html "Se declara alerta roja en 19 provincias de Ecuador por sequía")
+
+**Byron Benalcázar, subsecretario de Generación y Transmisión de Energía Eléctrica**, aseguró que las recientes lluvias en Cuenca, provincia de Azuay, permitieron un incremento de 20 centímetros en el embalse Mazar.
+
+De acuerdo con el funcionario, este embalse es la principal reserva energética que tiene el país. Asegura que es de gran importancia para la producción de energía eléctrica.
+
+Según Benalcázar, el incremento del agua por las lluvias en la represa Mazar se debe a que no se la utiliza actualmente, ya que no tiene capacidad para generar electricidad.
+
+Mientras tanto, la **hidroeléctrica Coca Codo Sinclair** aporta con una gran cantidad de agua y electricidad, debido a las lluvias que se presentan en su área.
+
+La situación de la represa Mazar
+--------------------------------
+
+El embalse de la represa Mazar llegó a una cota de 2 116,4, debido a la falta de lluvias. Por esa, situación, en la reunión **del Comité de Operaciones de Emergencia (COE)** del sábado 21 de septiembre se decidió interrumpir el servicio de electricidad. Sin embargo, este domingo ascendió el nivel del agua y la cota es de 2 116,6.
+
+Esta cota no es suficiente para generar electricidad, porque requiere de un mayor caudal para garantizar sus operaciones.
+
+De acuerdo con el funcionario, si el agua se reduce en seis metros, se perdería el control del **embalse Mazar**. La cota mínima es de 2 098 metros, pero se pierde el control en 2 110.
+
+Benalcázar indicó que este domingo se reunirá el COE para informar sobre la situación hidrológica nacional y emitir disposiciones.
+
+Este domingo, 22 de septiembre, la ministra de Ambiente, Agua y Transición Ecológica (Maate) recorrió el embalse Mazar, junto a otros funcionarios[.](https://es.wikipedia.org/wiki/Represa_de_Paute "https://es.wikipedia.org/wiki/Represa_de_Paute")
+
+Los funcionarios realizaron un recorrido técnico para verificar el nivel del embalse y recopilar información que contribuya a las acciones frente a la crisis hídrica[.](https://es.wikipedia.org/wiki/Represa_de_Paute "https://es.wikipedia.org/wiki/Represa_de_Paute")
+
+> En el marco de las acciones impulsadas por el COE-N, la ministra [@inesmanzano](https://twitter.com/inesmanzano?ref_src=twsrc%5Etfw) visita la represa Mazar.  
+> Junto a otras autoridades, realizan un recorrido técnico para verificar el nivel del embalse y recopilar información que contribuya a las acciones frente a la crisis hídrica. [pic.twitter.com/bhta8fgdS2](https://t.co/bhta8fgdS2)
+> 
+> — Min. de Ambiente, Agua y Transición Ecológica 🇪🇨 (@Ambiente\_Ec) [September 22, 2024](https://twitter.com/Ambiente_Ec/status/1837885313936429304?ref_src=twsrc%5Etfw)
+
+Los cortes de luz en 12 provincias de Ecuador
+---------------------------------------------
+
+El Gobierno Nacional anunció una nueva jornada de cortes de luz para este domingo 22 de septiembre de 2024; la medida aplica para 12 provincias del Ecuador.
+
+En el Austro, la represa Mazar no puede ser utilizada, por causa de la falta de lluvias y, por ende, su caudal está casi seco.
+
+La suspensión del servicio eléctrico fue adoptado, tras una reunión que mantuvo el COE la tarde y noche del sábado 21 de septiembre de 2024.
+
+Las provincias con cortes de luz son las siguientes, según la decisión de las autoridades:
+
+**Azuay  
+Bolívar  
+Cañar  
+Carchi  
+Cotopaxi  
+Imbabura  
+Morona Santiago  
+Napo  
+Orellana  
+Pastaza  
+Sucumbíos  
+Zamora Chinchipe**
+
+De acuerdo con la información difundida por la **Secretaría de Comunicación de Presidencia**, la suspensión del servicio eléctrico se realizará de 08:00 a 17:00.
+
+> [Ver esta publicación en Instagram](https://www.instagram.com/reel/DAOnuIHsJmw/?utm_source=ig_embed&utm_campaign=loading)
+> 
+> [Una publicación compartida de El Comercio de Ecuador (@elcomerciocom)](https://www.instagram.com/reel/DAOnuIHsJmw/?utm_source=ig_embed&utm_campaign=loading)
+
+Lo que se sabe de cortes de luz de la última semana de septiembre de 2024
+=========================================================================
+
+El Gobierno solicitó al sector privado activar sus generadores eléctricos propios para evitar los cortes de luz.
+----------------------------------------------------------------------------------------------------------------
+
+![Militares realizan controles en las calles de Quito tras el inicio de apagones por crisis energética este miércoles 18 de septiembre de 2024, en Quito. Foto: EFE](https://www.elcomercio.com/wp-content/uploads/2024/09/cortes-luz.jpg)
+
+El Gobierno de **Daniel Noboa** anunció una serie de **cortes de luz** programados del lunes 23 hasta el jueves 26 de septiembre de 2024. La medida busca a hacer frente a la **crisis energética** que atraviesa el **Ecuador** y que impiden atender la **demanda de energía interna**[.](https://es.wikipedia.org/wiki/Ecuador "https://es.wikipedia.org/wiki/Ecuador")
+
+### Más noticias
+
+* [¿Proyectos de energía eléctrica de Ecuador son atractivos para las inversiones?](https://www.elcomercio.com/actualidad/negocios/proyectos-energia-ecuador-atraen-inversiones-privadas.html "¿Proyectos de energía eléctrica de Ecuador son atractivos para las inversiones?")
+* [Ecuador lanza nuevo proceso de licitación para contratar más energía](https://www.elcomercio.com/actualidad/negocios/ecuador-lanza-nuevo-proceso-de-licitacion-para-contratar-mas-energia.html "Ecuador lanza nuevo proceso de licitación para contratar más energía")
+* [¿Cuándo serán los próximos cortes de luz en Ecuador?](https://www.elcomercio.com/actualidad/negocios/cuando-seran-los-proximos-cortes-de-luz-en-ecuador.html "¿Cuándo serán los próximos cortes de luz en Ecuador?")
+
+Días y horas de los cortes de luz
+---------------------------------
+
+* **Los cortes de luz serán durante las noches**. A diferencia de racionamientos de electricidad en meses pasados, la suspensión del servicio eléctrico se realizará durante las noches, entre las 22:00 hasta las 06:00 del día siguiente. Según el Gobierno, esto supone una menor afectación económica.
+* **Periodo de 2 y 4 horas de suspensión**. Los cortes de luz serán en períodos de 2 a 4 horas por sectores, durante la franja del horario de suspensión nocturna.
+* **El horario de los cortes.** El cronograma de los apagones será publicado por cada una de las empresas eléctricas distribuidoras a través de sus páginas web y redes sociales. Hay nueve empresas que distribuyen electricidad en el Ecuador. Hasta las 18:00 de este viernes 20 de septiembre de 2024, aún no han sido publicados los horarios de los cortes de energía.
+
+Gobierno pide a empresas privadas prender sus generadores
+---------------------------------------------------------
+
+Asimismo, el **Gobierno** solicitó este viernes al sector privado que activen sus generadores de electricidad. En un comunicado, el **Ministerio de Energía** señaló que el **autoabastecimiento** de las **empresas** “ayudará a ahorrar energía y a reducir la demanda de la red nacional”.
+
+Además, recordó que la normativa de la Agencia de Regulación y Control de Energía y Recursos Naturales no Renovables (**Arconel**) permite al sector privado “aportar a la **generación eléctrica**, de manera **voluntaria**, en períodos de déficit”, a cambio de recibir una compensación en la factura que tome en cuenta los costos de combustible y mantenimiento.
+
+El Operador Nacional de Electricidad (**Cenace**) ha establecido para este viernes un cronograma para el aporte privado en el periodo de 09:00 a 18:00 hora local.
+
+Según el Ministerio, en días anteriores los generadores privados alcanzaron cerca de **300 megavatios** que se **sumaron** a los esfuerzos para garantizar el suministro en todo el país.
+
+Cuba recibió 1,6 millones de turistas, hasta agosto de 2024
+===========================================================
+
+Cuba recibió 2,4 millones de visitantes internacionales en 2023 y 1,6 millones en 2022, de acuerdo con datos oficiales.
+-----------------------------------------------------------------------------------------------------------------------
+
+![Fotografía de archivo de turistas en Cuba. EFE/ Ernesto Mastrascusa](https://www.elcomercio.com/wp-content/uploads/2024/09/rss-efe17a70fcfcd8909f2200e215d938839886c769849w-e1726874767949.jpg)
+
+[Cuba](https://www.elcomercio.com/actualidad/politica/proceso-deportacion-alondra-santiago-cancilleria.html "https://www.elcomercio.com/actualidad/politica/proceso-deportacion-alondra-santiago-cancilleria.html") recibió entre **enero y agosto un total de 1 608 078 viajeros internacionales**, un 3,5 % menos que en el mismo período del año anterior, con una notable caída de países tradicionalmente emisores de turistas a la isla como España, aunque con una subida pronunciada de visitantes rusos.
+
+Más noticias
+------------
+
+* [A 60 años de la doctrina de la seguridad nacional](https://www.elcomercio.com/opinion/60-anos-doctrina-seguridad-nacional-jua-pablo-lira-columnista.html "A 60 años de la doctrina de la seguridad nacional")
+* [¿Cómo procedería la deportación de Alondra Santiago?](https://www.elcomercio.com/actualidad/politica/proceso-deportacion-alondra-santiago-cancilleria.html "https://www.elcomercio.com/actualidad/politica/proceso-deportacion-alondra-santiago-cancilleria.html")
+
+En agosto llegaron al país 144 981 visitantes del exterior, una cifra en línea con la de 2022 pero inferior a la del año pasado, informó este viernes la Oficina Nacional de Estadística e Información (ONEI),
+
+En el conjunto del año, el primer mercado emisor es -como es tradicional- Canadá, con 665.871 personas, seguido por Rusia (132 935), Estados Unidos (104 352), España (45 566), Alemania (43 460) y México (42.870).
+
+Casi todos los mercados emisores registraron caída interanuales en el período enero-agosto, un registro que contrasta con el alza de los visitantes rusos (24,8 %) -donde se evidencian los acuerdos bilaterales para promover el turismo-**, mexicanos (6,7 %) y argentinos (4,9 %).**
+
+También han caído un 15,7 % las visitas de cubanos residentes en el exterior.
+
+Las cifras mensuales de llegadas internacionales iniciaron el año en cifras similares a las del ejercicio pasado, pero con el paso de los meses han ido cediendo terreno en la comparativa.
+
+Con este acumulado se aleja la posibilidad de que Cuba logre alcanzar en 2024 los 2,7 millones de visitantes -cifra r**educida del objetivo original de 3,2 millones-** que se propuso el Gobierno con el objetivo de reflotar el turismo, un sector económico clave.
+
+Para lograr la meta, la isla debe registrar un promedio mensual de **casi 273 000 turistas**, una cantidad que solo superó en marzo, dentro de la temporada alta.
+
+Cuba se encuentra en una grave crisis económica desde hace cuatro años y el turismo es fundamental para los planes del Gobierno, por su aporte al producto interno bruto (PIB) y por la entrada de divisas que supone (tradicionalmente solo por detrás de los servicios profesionales y las remesas).
+
+Cuba recibió 2,4 millones de visitantes internacionales en 2023 y 1,6 millones en 2022, de acuerdo con datos oficiales. Estas cifras quedan lejos de las de 2019 (4,2 millones) y 2018 (4,6), los dos años previos a la covid-19.
+
+En la actualidad, la situación del turismo en la isla contrasta con la de destinos similares de la región del Caribe, como **Punta Cana (República Dominicana) y Cancún (México),** que están registrando máximos históricos de visitantes luego de la pandemia.
+
+Choque en el túnel de San Juan congestionó el tránsito vehicular, en Quito
+==========================================================================
+
+Un vehículo se impactó contra uno de los muros del túnel; una persona resultó herida.
+-------------------------------------------------------------------------------------
+
+![Paramédicos de los Bomberos de Quito atendieron a la persona afectada](https://www.elcomercio.com/wp-content/uploads/2024/09/bomberos-tunel.jpg)
+
+Un **siniestro de tránsito** se registró en el sector de **Miraflores**, en el centro norte de Quito, la mañana de este domingo 22 de septiembre de 2024.
+
+Un vehículo rojo que se movilizaba por las avenidas **Mariscal Sucre y Universitaria**, en sentido norte-sur, se impactó contra el muro izquierdo del ingreso al túnel de **San Juan**.
+
+### Más noticias
+
+* [¿Por qué se registran ligeras lluvias en Quito?](https://www.elcomercio.com/actualidad/quito/por-que-se-registran-ligeras-lluvias-en-quito.html "¿Por qué se registran ligeras lluvias en Quito?")
+* [Bus de transporte atropelló a dos personas en el sur de Quito](https://www.elcomercio.com/actualidad/quito/bus-atropello-personas-sur-quito.html "Bus de transporte atropelló a dos personas en el sur de Quito")
+* [Una masacre se registró en una peluquería de Quito](https://www.elcomercio.com/actualidad/seguridad/masacre-peluqueria-quito-inseguridad-policia-nacional.html "Una masacre se registró en una peluquería de Quito")
+
+Producto del fuerte golpe, el automóvil **quedó volcado** sobre el carril derecho de la vía.
+
+El ECU 911 reportó la emergencia a las **07:54**.
+
+El Cuerpo de **Bomberos de Quito** confirmó que una persona resultó herida en el siniestro.
+
+La persona afectada recibió atención prehospitalaria por parte de los uniformados.
+
+En imágenes difundidas en redes sociales se observa al carro volteado hacia su lado derecho, con el **parabrisas destrozado** y la carrocería hundida.
+
+Los vidrios de las ventanas quedaron esparcidos sobre la calzada.
+
+> Quito, accidente de tránsito en la entrada del túnel de Miraflores [#SomosWeNewsEc](https://twitter.com/hashtag/SomosWeNewsEc?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/LxzdS5yIN2](https://t.co/LxzdS5yIN2)
+> 
+> — We News (@wenewsec) [September 22, 2024](https://twitter.com/wenewsec/status/1837853050419229036?ref_src=twsrc%5Etfw)
+
+El choque provocó que el tránsito vehicular en el sector se **congestionara** tras el cierre vial necesario que realizó la Agencia Metropolitana de Tránsito (**AMT**).
+
+Pasadas las 13:00 se confirmó que la el **carril** ya se encuentra **habilitado** a la circulación vehicular.
+
+Las autoridades de tránsito trasladaron el automotor hacia el patio de retención vehicular del parque **Bicentenario**, en el norte de Quito.
+
+> 💥🚙 [#Ahora](https://twitter.com/hashtag/Ahora?src=hash&ref_src=twsrc%5Etfw) | Se registra un siniestro de tránsito en la Av. Mariscal Sucre, al interior del túnel de San Juan, sentido norte – sur.  
+>   
+> 🚑 Al momento, brindamos atención prehospitalaria a una persona que resultó herida.  
+>   
+> 👉🏼 Por favor, si vas a conducir, hazlo con responsabilidad.… [pic.twitter.com/qniJUR6NiF](https://t.co/qniJUR6NiF)
+> 
+> — Bomberos Quito (@BomberosQuito) [September 22, 2024](https://twitter.com/BomberosQuito/status/1837848161278103639?ref_src=twsrc%5Etfw)
+
+Operativo preventivo de velocidad
+---------------------------------
+
+Este sábado 21 de septiembre, la AMT realizó un **operativo preventivo** de reducción de velocidad en las avenidas Velasco Ibarra y Pichincha, en el sector de **El Trébol**.
+
+Entre las **07:00 y 08:00** que duró el control, **23 conductores** fueron captados infringiendo el límite de velocidad permitido.
+
+12 ciudadanos se mantuvieron en el rango moderado, mientras que otros 11 lo **superaron**.
+
+Los operativos preventivos no acarrean sanciones, sino que tienen como objetivo **concientizar** a la ciudadanía de los peligros de manejar a exceso de velocidad.
+
+### Límites de velocidad
+
+En el caso de los **vehículos livianos**, motocicletas y similares, en el sector urbano el límite máximo establecido es de **50 km/h**.
+
+Si el conductor excede la velocidad dentro de un rango moderado, que va de **50 a 60 km/h** será sancionado con multa equivalente al 30% de un salario básico unificado. Esto representa 138 dólares.
+
+De alcanzar o superar los **61 km/h**, a esto se le suma una sanción privativa de libertad de tres días.
+
+Adicionalmente, se tendrá que pagar una multa de un salario básico unificado y se aplica la reducción 10 puntos en su licencia de conducir (Art. 386, inciso 1, literal 3).
+
+En el **sector perimetral**, los límites de velocidad son de **90 km/h**; el rango moderado se extiende a 120 km/h.
+
+El límite máximo en rectas de carreteras es de **100 km/h** y el rango moderado es 135 km/h.
+
+> 💙 [#CadaVidaCuenta](https://twitter.com/hashtag/CadaVidaCuenta?src=hash&ref_src=twsrc%5Etfw)|  
+>   
+> 🚨 Este sábado [#21Sep](https://twitter.com/hashtag/21Sep?src=hash&ref_src=twsrc%5Etfw) se realizó el dispositivo preventivo de reducción de velocidad en la av. Velasco Ibarra, se registraron 23 conductores que infringieron el límite de velocidad.  
+>   
+> 🫶🏽 ¡Nuestro objetivo es salvar vidas!  
+>   
+> ☀️ [#QuitoRenace](https://twitter.com/hashtag/QuitoRenace?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/OIv80v5HJL](https://t.co/OIv80v5HJL)
+> 
+> — AMTQuito (@AMT\_Quito) [September 21, 2024](https://twitter.com/AMT_Quito/status/1837499834158182441?ref_src=twsrc%5Etfw)
+
+Brighton, con Pervis Estupiñán de titular, no pudo con el Nottingham Forest
+===========================================================================
+
+El equipo inglés continúa invicto, sumando dos victorias y tres empates en la Premier League.
+---------------------------------------------------------------------------------------------
+
+![El ecuatoriano fue sustituido al minuto 82](https://www.elcomercio.com/wp-content/uploads/2024/09/pervis.jpg)
+
+El **Brighton** & Hove Albion del ecuatoriano **Pervis Estupiñán** no pudo de local contra el Nottingham Forest, en la quinta fecha de la Premier League, de Inglaterra.
+
+El partido se realizó en el **Falmer Stadium**, este domingo 22 de septiembre de 2024.
+
+### Más noticias
+
+* [Bayer Leverkusen y otro triunfo dramático; Piero Hincapié marcó](https://www.elcomercio.com/deportes/futbol/bayer-leverkusen-gol-piero-hincapie.html "Bayer Leverkusen y otro triunfo dramático; Piero Hincapié marcó")
+* [Liga de Quito igualó con El Nacional en un clásico de la Liga Pro](https://www.elcomercio.com/deportes/partido-en-vivo-liga-quito-nacional-liga-pro.html "Liga de Quito igualó con El Nacional en un clásico de la Liga Pro")
+* [Deportivo Cuenca derrotó a Barcelona SC al marcarle en menos de un minuto](https://www.elcomercio.com/deportes/deportivo-cuenca-barcelona-liga-pro-gol-minuto.html "Deportivo Cuenca derrotó a Barcelona SC al marcarle en menos de un minuto")
+
+Ambos equipos no conocen la **derrota** y están asentados en la mitad alta de la tabla. El cuadro del alemán Fabian Hurzeler acumula una racha de **tres empates** seguidos.
+
+El Brighton pudo haberse llevado el encuentro al haber tenido la ventaja la mayor parte del tiempo, después de remontar el tanto inicial del Nottingham Forest, en el **minuto 12**, de penalti.
+
+El gol lo convirtió **Chris Wood** luego de una falta dentro del área cometida por el camerunés Carlos Baleba sobre Elliot Aderson.
+
+Antes del descanso el equipo local dio la vuelta con un cabezazo de Jack Hinshelwood a pase de Jan Paul Van Hecke.
+
+Tres minutos más tarde, en el 45′, **Danny Welbeck** disparó el balón para colocar el 2 a 1.
+
+> HT: What an end to that first 45! 🔥  
+>   
+> \[2-1\] 📲 [#BHAFC](https://twitter.com/hashtag/BHAFC?src=hash&ref_src=twsrc%5Etfw) // [#BHANFO](https://twitter.com/hashtag/BHANFO?src=hash&ref_src=twsrc%5Etfw) 🔵⚪️ [pic.twitter.com/6OUJalxauz](https://t.co/6OUJalxauz)
+> 
+> — Brighton & Hove Albion (@OfficialBHAFC) [September 22, 2024](https://twitter.com/OfficialBHAFC/status/1837852439589826596?ref_src=twsrc%5Etfw)
+
+Segundo tiempo
+--------------
+
+La ventaja del Brighton duró hasta el minuto 70. El ingresó del paraguayo **Ramón Sosa**, que sustituyó a Ellitt Anderson en el Nottingham dio resultados.
+
+Silva envió el balón a su compañero y el sudamericano, a puerta vacía, batió a Bart Verbruggen y estableció la igualada.
+
+El Nottingham se quedó en **inferioridad numérica** por doble amarilla de Morgan Gibbs con 10 minutos por jugar.
+
+Finalmente, el resultado se mantuvo en el **2 a 2**.
+
+El ecuatoriano Pervis Estupiñán volvió a ser **titular**; sin embargo, fue remplazado al minuto 82′ por Evan Ferguson.
+
+> FT: We have to settle for a point at home. 🤝  
+>   
+> \[2-2\] 📲 [#BHAFC](https://twitter.com/hashtag/BHAFC?src=hash&ref_src=twsrc%5Etfw) // [#BHANFO](https://twitter.com/hashtag/BHANFO?src=hash&ref_src=twsrc%5Etfw) 🔵⚪️ [pic.twitter.com/Mo917svdRP](https://t.co/Mo917svdRP)
+> 
+> — Brighton & Hove Albion (@OfficialBHAFC) [September 22, 2024](https://twitter.com/OfficialBHAFC/status/1837868748134383969?ref_src=twsrc%5Etfw)
+
+¿Ecuador puede crecer económicamente y reducir la pobreza con políticas climáticas?
+===================================================================================
+
+Ecuador necesita invertir el 3,5% de su PIB anual para mitigar y adaptarse al cambio climático, según estudio del Banco Mundial.
+--------------------------------------------------------------------------------------------------------------------------------
+
+![El recinto Las Canas, en Lomas de Sargentillo (Guayas) sufre por falta de agua. Foto: Archivo / EL COMERCIO](https://www.elcomercio.com/wp-content/uploads/2024/09/sequia-cambio-climatico.jpg)
+
+Un sólido programa de **políticas climáticas** le permitiría a Ecuador impulsar el crecimiento económico y reducir la pobreza. Esto señala el [Informe sobre Clima y Desarrollo](https://hdl.handle.net/10986/42126) (CCDR, por sus siglas en inglés) que el **Banco Mundial** presentó este jueves 19 de septiembre de 2024, en **Quito**.
+
+### Más noticias
+
+* [Guayas cuenta con financiamiento del Banco Mundial para adecentar vías rurales](https://www.elcomercio.com/actualidad/guayas-ya-tiene-financiamiento-para-adecentar-vias-rurales.html "Guayas cuenta con financiamiento del Banco Mundial para adecentar vías rurales")
+* [Las ventas del Ecuador tienen un preocupante desempeño en la economía, vea las cifras](https://www.elcomercio.com/actualidad/negocios/las-ventas-del-ecuador-tienen-un-preocupante-desempeno-en-la-economia-vea-las-cifras.html "Las ventas del Ecuador tienen un preocupante desempeño en la economía, vea las cifras")
+* [Ecuador está entre los países que menos inversión extranjera recibe en la región](https://www.elcomercio.com/actualidad/negocios/ecuador-esta-entre-los-paises-que-menos-inversion-extranjera-recibe-en-la-region.html "Ecuador está entre los países que menos inversión extranjera recibe en la región")
+
+El informe resalta que enfrentar el cambio climático no está peleado con el **progreso económico** de países, como Ecuador, sino que ambos pueden avanzar juntos. Las **inversiones públicas** bien planificadas, junto con el apoyo del sector privado, ayudarán a Ecuador a lograr un crecimiento económico sostenible.
+
+Inversiones clave para enfrentar el cambio climático
+----------------------------------------------------
+
+**Issam Abousleiman**, director del Banco Mundial para Bolivia, Chile, Ecuador y Perú, señaló que para enfrentar con éxito los desafíos del cambio climático, es necesario combinar políticas en diferentes áreas.
+
+En este desafío están las instituciones, la economía y los sectores clave del país, para asegurar que el desarrollo y la acción climática vayan de la mano. Estas medidas ayudarían al país a ser más resistente ante el cambio climático y a reducir sus emisiones de carbono. Pero se deben tomar acciones rápidas.
+
+Entre 2025 y 2050, Ecuador debe invertir alrededor de 3 700 millones de dólares anuales, para mitigar los efectos del cambio climático. Esto representa el 3,5 % del PIB. Las inversiones se deben concentrar en **transporte, energía y agricultura.**
+
+Si se ejecutan bien, estas inversiones protegerán al país de los impactos físicos del cambio climático y podrían equilibrar los costos. Además, las reformas en estos sectores atraerán inversiones y fortalecerán la economía, agrega el estudio.
+
+Impulso a las inversiones y el sector privado
+---------------------------------------------
+
+Las reformas estructurales, como el reciente avance en las asociaciones público-privadas (APP), ayudarán a atraer inversiones necesarias para infraestructura clave en la adaptación al cambio climático. También es fundamental desarrollar mercados de capitales locales y mecanismos de financiamiento verde, que permitirán financiar proyectos climáticos a largo plazo.
+
+**Manuel Reyes Retana**, director regional de la Corporación Financiera Internacional (IFC), destacó que mejorar la capacidad de las instituciones y el marco público es esencial para fomentar la inversión privada. El sector privado puede jugar un rol importante en diversificar la economía y hacerla más resiliente ante los cambios climáticos.
+
+Riesgos de no actuar y el potencial de los recursos naturales
+-------------------------------------------------------------
+
+El informe advierte que, sin acciones concretas, el impacto de los eventos climáticos extremos afectará gravemente a la economía ecuatoriana, reduciendo el PIB per cápita hasta en 4 puntos porcentuales. Sin embargo, Ecuador cuenta con recursos naturales que ofrecen una ventaja única. La **minería responsabl**e y la **agricultura** sin deforestación pueden impulsar la economía del país, mejorar su productividad y aumentar su capacidad de resistencia frente a los desafíos climáticos.
+
+Energías renovables y alternativas económicas
+---------------------------------------------
+
+Además, el informe recalca la necesidad de atraer más **inversión privada en energías renovables**. La combinación de **hidroeléctricas** bien diseñadas con **energía solar y eólica** permitirá diversificar la matriz eléctrica, garantizando la seguridad energética y reduciendo las emisiones de carbono.
+
+Ecuador también debe manejar con cuidado su**s recursos petroleros**, invirtiendo en diversificación y preparándose para los riesgos de la transición energética. Sectores como el turismo también presentan oportunidades de crecimiento si se planifican adecuadamente. Descarga el [informe completo](https://hdl.handle.net/10986/42126)
+
+Bayer Leverkusen y otro triunfo dramático; Piero Hincapié marcó
+===============================================================
+
+El ecuatoriano ingresó al segundo tiempo; a los dos minutos marcó un gol de cabeza.
+-----------------------------------------------------------------------------------
+
+![El ecuatoriano marcó el 3 a 3 de cabeza](https://www.elcomercio.com/wp-content/uploads/2024/09/piero-bayer.jpg)
+
+En un partido dramático, el **Bayer Leverkusen** del ecuatoriano **Piero Hincapié** ganó nuevamente con un gol a los últimos minutos del partido.
+
+Con el partido aparentemente perdido y a la **heroica**, el equipo rojo sacó otro partido adelante, esta vez frente al **Wolfsburgo**.
+
+### Más noticias
+
+* [Liga de Quito igualó con El Nacional en un clásico de la Liga Pro](https://www.elcomercio.com/deportes/partido-en-vivo-liga-quito-nacional-liga-pro.html "Liga de Quito igualó con El Nacional en un clásico de la Liga Pro")
+* [Deportivo Cuenca derrotó a Barcelona SC al marcarle en menos de un minuto](https://www.elcomercio.com/deportes/deportivo-cuenca-barcelona-liga-pro-gol-minuto.html "Deportivo Cuenca derrotó a Barcelona SC al marcarle en menos de un minuto")
+* [Aucas rompió una extraordinaria racha en Liga Pro](https://www.elcomercio.com/deportes/aucas-cumbaya-racha-victoria-liga-pro.html "Aucas rompió una extraordinaria racha en Liga Pro")
+
+El Leverkusen de Xabi Alonso sumó **tres puntos** gracias a aparición ‘milagrosa’, del nigeriano Victor Boniface. Piero también marcó.
+
+Pero en un inicio todo inició mal para el campeón, que a los cinco minutos se encontró con el marcador en contra por un gol en propia puerta de **Nordi Mukiele**.
+
+Después fueron los mejores momentos del Bayer, que empató al cuarto de hora con un tiro raso de Florian Wirtz desde la frontal después de un pase desde la derecha del suizo Granit Xhaka.
+
+Ambos pudieron marcar después, **Patrick Schik** para los locales y Mohamed Amoura unos minutos después para los de Ralph Hasenhuttl.
+
+Pero fue Jonathan Tah, a la media hora, el que, de cabeza, tras un córner botado por Alex Grimaldo, puso por delante al Leverkusen (**2 a 1**).
+
+El tramo final antes del descanso fue una locura y salió beneficiado del enredo el Wolfsburgo, que empató en otro balón parado.
+
+En el añadido, antes del intermedio, con un zapatazo desde fuera del área del sueco **Mattias Svanberg** tras recibir la pelota de Cedric Zesiger, se marcó el 3 a 2.
+
+Piero Hincapié marcó
+--------------------
+
+El equipo de **Xabi Alonso** reaccionó en el segundo tiempo.
+
+La entrada del ecuatoriano Piero Hincapié a los **46′** fue clave. A los dos minutos de ingresado, a los 48′, el defensor empató el cotejo con pelota parada.
+
+> El ecuatoriano Piero Hincapié 🇪🇨 aparece para estampar el 3-3 de Bayer Leverkusen ante Wolfsburgo. Primer gol del defensor en la actual Bundesliga.[pic.twitter.com/uZ8ppQIUbQ](https://t.co/uZ8ppQIUbQ)
+> 
+> — VarskySports (@VarskySports) [September 22, 2024](https://twitter.com/VarskySports/status/1837867944853782781?ref_src=twsrc%5Etfw)
+
+En otro córner cobrado por Aleix García, el ecuatoriano **se elevó** y estableció 3 a 3.
+
+Minutos finales
+---------------
+
+Después, la épica, el milagro, lo impensable. El Wolfsburg se quedó con **10 jugadores** en el 90, la expulsión de Yannick Gerhardt cambió el partido en los últimos minutos.
+
+El gol llegó después. En un balón al área de Wirtz y varios rechaces hacia ningún lado. Hasta que le cayó a Boniface, que metió el pie y el balón a la portería para dejar la victoria al lado del campeón que obró un nuevo ‘milagro’.
+
+El gol de la victoria se marcó a los **90+3**, ante el delirio de los más de 25 000 espectadores que asistieron al Bay Arena del Leverkusen. _Con información de EFE_.
+
+> 𝐅𝐞𝐥𝐢𝐜𝐢𝐝𝐚𝐝 ☺️  
+>   
+> ⏱️ [#B04WOB](https://twitter.com/hashtag/B04WOB?src=hash&ref_src=twsrc%5Etfw) 4-3 | [#SomosBayer04](https://twitter.com/hashtag/SomosBayer04?src=hash&ref_src=twsrc%5Etfw)🖤❤️ [pic.twitter.com/liK4aldKFd](https://t.co/liK4aldKFd)
+> 
+> — Bayer 04 Leverkusen (@bayer04\_es) [September 22, 2024](https://twitter.com/bayer04_es/status/1837889152873886203?ref_src=twsrc%5Etfw)
+
+Cortes de luz de este domingo son sectorizados y en franjas horarias
+====================================================================
+
+En algunas provincias como en Azuay, las suspensiones tendrán una duración de tres horas
+----------------------------------------------------------------------------------------
+
+![Ecuador enfrenta 72 días sin lluvias considerables](https://www.elcomercio.com/wp-content/uploads/2024/09/luz-cortes-azuay.jpg)
+
+El Gobierno Nacional anunció una nueva jornada de **cortes de luz** para este domingo 22 de septiembre de 2024; la medida aplica para **12 provincias** del Ecuador.
+
+La suspensión del servicio eléctrico fue tomada tras una reunión que mantuvo el Comité de Operaciones de Emergencia Nacional (**COE**).
+
+### Más noticias
+
+* [Cortes de luz en 12 provincias en Ecuador, hoy; este es el cronograma](https://www.elcomercio.com/actualidad/negocios/12-provincias-tendran-cortes-de-luz-domingo-22-de-septiembre-del-2024.html "Cortes de luz en 12 provincias en Ecuador, hoy; este es el cronograma")
+* [Más de 60 barrios de Quito tendrán cortes de agua este fin de semana](https://www.elcomercio.com/actualidad/quito/barrios-cortes-agua-quito-septiembre.html "Más de 60 barrios de Quito tendrán cortes de agua este fin de semana")
+* [¿Cuándo serán los próximos cortes de luz en Ecuador?](https://www.elcomercio.com/actualidad/negocios/cuando-seran-los-proximos-cortes-de-luz-en-ecuador.html "¿Cuándo serán los próximos cortes de luz en Ecuador?")
+
+Las **provincias** con cortes de luz son: Azuay, Bolívar, Cañar, Carchi, Cotopaxi, Imbabura, Morona Santiago, Napo, Orellana, Pastaza, Sucumbíos y Zamora Chinchipe.
+
+De acuerdo con la información difundida por la Secretaría de Comunicación de Presidencia, la suspensión del servicio eléctrico se realizará de **08:00 a 17:00**.
+
+Sin embargo, como ocurrió en la primera jornada de suspensiones del miércoles 18 de septiembre, los cortes de luz serán **sectorizados** de acuerdo a un cronograma.
+
+Esto significa que la ciudadanía no se verá afectada durante las **nueve horas** anunciadas, sino en franjas horarias asignadas por cada empresa eléctrica.
+
+Problemas en el anuncio de los cronogramas
+------------------------------------------
+
+El anuncio de los nuevos cortes realizado la noche de este sábado 21 de septiembre dificultó la **socialización oportuna** del cronograma de los cortes de luz en todas de empresas eléctricas involucradas.
+
+Las 12 provincias con interrupciones del servicio eléctrico están a cargo de **seis entidades**:
+
+* **Emelnorte**: Carchi e Imbabura
+* **Elepcosa**: Cotopaxi
+* **CNEL**: Bolívar y Sucumbíos
+* Regional Centro Norte (**Eeasa**): Ambato, Napo y Pastaza
+* Regional **Centrosur**: Azuay, Cañar y Morona Santiago
+* Regional del Sur (**Eerssa**): Zamora Chinchipe
+
+De estas empresas eléctricas, **Centrosur** fue la única que socializó los cronogramas de cortes para Azuay, Cañar y Morona Santiago.
+
+Sin embargo, lo hizo con dificultades técnicas en su página web.
+
+En el resto de provincias, la programación **no fue compartida** a través de los portales digitales ni redes sociales.
+
+Lluvias se registraron en Cuenca
+--------------------------------
+
+En **Azuay**, los cortes de luz se realizaron desde las 00:00 de este domingo hasta las 00:00 del lunes 23 de septiembre.
+
+La jornada de suspensiones en esta provincia, así como en Cañar y Morona Santiago, comprenden franjas horarias de **tres horas**, por ejemplo, de 12:00 a 15:00 o de 18:00 a 21:00.
+
+En Cuenca, en particular, se reportan 72 días con **sequía hidrológica**, no obstante, la madrugada de este domingo se registraron **lloviznas** que mejoraron ligeramente el caudal de los ríos, informó la empresa de agua Etapa.
+
+Hasta las 08:00, el **río Tomebamba** alcanzó un caudal de 1,70 metros cúbicos por segundo (bajo); mientras que el **Machángara** 1,39 metros cúbicos por segundo (bajo).
+
+Los ríos **Yanuncay y Tarqui** reportan un estiaje de 1,17 y 0,51 metros cúbicos por segundo.
+
+> Atención 🚨 | ETAPA EP informa que el río Tomebamba incrementó su [#caudal](https://twitter.com/hashtag/caudal?src=hash&ref_src=twsrc%5Etfw) y pasa a estado bajo, después de la llovizna de la noche de ayer y madrugada de hoy.[https://t.co/oWgrXWDlq0](https://t.co/oWgrXWDlq0)[#UnaManoPorElAgua](https://twitter.com/hashtag/UnaManoPorElAgua?src=hash&ref_src=twsrc%5Etfw)🤜🏼💦 [@maveronicapolo](https://twitter.com/maveronicapolo?ref_src=twsrc%5Etfw) [@czamoramatute](https://twitter.com/czamoramatute?ref_src=twsrc%5Etfw) [@MunicipioCuenca](https://twitter.com/MunicipioCuenca?ref_src=twsrc%5Etfw) [pic.twitter.com/CDttOp7oD2](https://t.co/CDttOp7oD2)
+> 
+> — ETAPA EP (@ETAPAOficial) [September 22, 2024](https://twitter.com/ETAPAOficial/status/1837847578978767345?ref_src=twsrc%5Etfw)
+
+Medidas ante la crisis hídrica
+------------------------------
+
+Según el Gobierno, Ecuador enfrenta una crisis sin precedentes que acumula 72 días consecutivos sin precipitaciones significativas. La situación ha desencadenado más de **1 330 incendios forestales** en el último mes.
+
+Según el Gobierno, el COE Nacional implementó estas medidas inmediatas para salvaguardar los limitados recursos hídricos. Una de las principales acciones incluye la suspensión programada del servicio eléctrico entre el **lunes 23** y **jueves 26** de septiembre.
+
+Además, se puso en marcha el **bombardeo de nubes** para provocar lluvias y la instalación de barcazas de generación eléctrica flotante.
+
+Estas acciones, según las autoridades, generarán resultados inmediatos y mitigarían los efectos de esta crisis.
+
 ¿Por qué es importante sumarse al Día Mundial sin Auto? 
 ========================================================
 
@@ -71,6 +533,32 @@ Opinión de un especialista
 
 Para Andrés Castillo, decano de la facultad de Ciencias Técnicas de la UIDE, el Día sin Auto **busca concientizar sobre la protección del medio ambiente** y fomentar el uso de transportes sostenibles, como caminar, andar en bicicleta o usar scooters, para reducir la huella de carbono. **Este día promueve un entorno libre de tráfico y contaminación**, destacando la importancia de la **responsabilidad compartida en la protección del planeta.** A pesar del crecimiento de la tecnología en movilidad, **es crucial reconocer el impacto negativo del sector automotriz en el medio ambiente** y aprovechar esta fecha para reflexionar sobre nuestro compromiso con un futuro más sostenible.
 
+La culpa es de San Pedro
+========================
+
+El tema de fondo del déficit eléctrico es estructural y por ende sería de mediano y/o  largo plazo su solución.
+---------------------------------------------------------------------------------------------------------------
+
+![Gerardo Villacreces Carbo, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Gerardo-Villacreces-Carbo.jpg)
+
+_“…yo creo que estamos afrontando una **crisis de agua**, no una **crisis energética**… es la sequía más grande en 61 años…”_ palabras del **ministro** de **Gobierno** – Arturo Félix Wong, en una reciente entrevista…
+
+En realidad, la **sequía** sin duda contribuye al **déficit energético**, con mayor motivo si el esperado Niño nunca llegó, consecuentemente no se pudo reservar agua; pero, depender exclusivamente de las **lluvias** para que el país tenga **energía eléctrica**, es muy grave; tan grave, como la infortunada dependencia al **petróleo**, valga la digresión.  Es decir, hemos delegado ingenua y torpemente a la madre naturaleza nuestra **supervivencia**, sin cortar irresponsablemente el cordón umbilical con la cómoda y peligrosa dependencia.
+
+Cabe preguntarnos, ¿cómo obtienen **energía eléctrica**, aquellos países o lugares, en los que existe alto riesgo de **sequía**, como Sudáfrica, Siria, Bolivia, Australia, Jordania, entre otros, en los que llueve poco?
+
+Resulta apresurado, culpar de los **apagones** al actual gobierno (pero sí es su responsabilidad afrontarlo), ya que este es un problema que ha venido arrastrándose y atravesando el **Ecuador** por años, en las cuales, en determinados gobiernos, la **corrupción**, **irresponsabilidad** y falta de **previsión**, han generado un amargo cóctel, que ahora el país en la penumbra debe sorbo a sorbo tomar a la luz de una vela; situación agravada por la creciente demanda **eléctrica** vs la limitada oferta.
+
+Según fuentes periodísticas, el **ministro** de **Energía** y **Minas** ha indicado al país que, el gobierno ha invertido en generación eléctrica, cinco veces más, que otros gobiernos en los últimos siete años. Adicionalmente, ha manifestado que, está en proceso la adquisición de una cantidad significativa de MW; que la barcaza turca (Emre Bey) de **generación eléctrica** estaría generando 100 MV, y que en octubre se incorporaría otra; y, para diciembre, se espera que la **central hidroeléctrica** Toachi – Pilatón aporte con 200 MW, entre otras acciones. Esperemos que esto ocurra, ya que el **perjuicio económico** al país en su conjunto es enorme, a más de la afectación a la **sociedad** por la latente **inseguridad**; y, fuera por supuesto, del alto costo que implica la adquisición de **energía** de **emergencia**.
+
+No está por demás reflexionar en el sentido de que, existen en el **mundo**, varias **alternativas** como fuente de **energía eléctrica**, como la **eólica**, la **eólica marina**, la **geotérmica** y la **solar fotovoltaica**, principalmente. Un caso interesante es el de la India, que aproximadamente el 75% de su producción de **energía eléctrica**, se generaría mediante **centrales térmicas** de carbón.
+
+Para el caso **ecuatoriano**, adicionalmente a las **acciones** mencionadas por el ministro, debe sumarse el necesario sentido de austeridad en el consumo, tanto del **sector privado** (debemos arrimar el hombro) y, sobre todo del público ¿cuántas **dependencias** y edificios del Estado trabajan de día con las luces prendidas e, incluso, permanecen encendidos en las noches y madrugadas? Adicionalmente, el estímulo y desarrollo de **fuentes** alternativas de **energía**, tanto publicas como privadas, con una ley que realmente facilite aquello, así como el impulso de **alianzas** público-privadas (en las que el proponente no pueda ser echado a un lado), se vuelve indispensable.  Otra modalidad práctica y válida, es el **bombardeo** de **nubes** focalizado, actividad que no es nueva en el **país**,  ya que  en los 70s, se utilizó bajo el **liderazgo** y **responsabilidad** del  Alberto Villacreces G. (mi abuelo), quien lo desarrolló y  realizó  – con la **tecnología** de la época – internándose en avioneta en las **nubes** para depositar en ellas **hielo** seco, aserrín, etc., obteniendo **éxito** en muchos casos y, contribuyendo así, con el desarrollo de Manabí y de manera particular  con el **sector agrícola**.
+
+En realidad, el tema de fondo del **déficit eléctrico** es **estructural** y por ende sería de mediano y/o  largo plazo su solución, problema que se originaría  en el **monopolio** estatal en la **generación**, **transmisión** y distribución de **energía eléctrica**, cuando esto debería ser delegado, por lo menos parcialmente, al **sector privado**, o si no, ¿preguntémonos por qué sí funcionan las **telecomunicaciones** en el país? La respuesta es clara, porque las mismas, en parte, están en manos del **sector privado**. Adicionalmente, no sería menos cierto que, el **sistema** como tal también presenta un serio **problema económico**, ya que, según entendidos, el valor del **kilovatio** hora se lo entregaría subsidiado, es decir, el valor de **generación** y/o compra por parte del **Estado** sería  mayor al precio de venta al **consumidor**, consecuentemente cortar inteligentemente y de manera focalizada ese desfase, mediante el sinceramiento de los **precios** tendría mucho sentido, a efectos de utilizar dichos **recursos** para reparar y/o ampliar los **sistemas** de **generación**, **transmisión** y **distribución**, sin perjuicio del desarrollo de  otras modalidades.
+
+En buena hora, al momento de terminar de escribir esta columna, estaría lloviendo en el sur del país, esperemos suba la cota de **Mazar** que estaría casi al límite en 2.120 msnv; sin embargo, suponer y depender de la divinidad para que no haya **oscuridad** es una barbaridad que raya en la irresponsabilidad, un grave error; y, en ese orden de **ideas**, y aunque sea también un error enfocarse en los culpables y no en las soluciones, está claro en realidad que, la culpa no es de **San Pedro** – con todo respeto – señor **ministro** de **Gobierno**.
+
 Cartas a Quito / 22 de septiembre de 2024
 =========================================
 
@@ -108,32 +596,6 @@ Además, la Educación Socioemocional ayuda a prevenir problemas como el estrés
 La inserción curricular de la Educación Socioemocional es, sin duda, un gran avance en Ecuador. Con ella, estamos sembrando las bases de una generación más empática, resiliente y preparada para enfrentar los desafíos del futuro.
 
 Roberto Camana-Fiallos
-
-La culpa es de San Pedro
-========================
-
-El tema de fondo del déficit eléctrico es estructural y por ende sería de mediano y/o  largo plazo su solución.
----------------------------------------------------------------------------------------------------------------
-
-![Gerardo Villacreces Carbo, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Gerardo-Villacreces-Carbo.jpg)
-
-_“…yo creo que estamos afrontando una **crisis de agua**, no una **crisis energética**… es la sequía más grande en 61 años…”_ palabras del **ministro** de **Gobierno** – Arturo Félix Wong, en una reciente entrevista…
-
-En realidad, la **sequía** sin duda contribuye al **déficit energético**, con mayor motivo si el esperado Niño nunca llegó, consecuentemente no se pudo reservar agua; pero, depender exclusivamente de las **lluvias** para que el país tenga **energía eléctrica**, es muy grave; tan grave, como la infortunada dependencia al **petróleo**, valga la digresión.  Es decir, hemos delegado ingenua y torpemente a la madre naturaleza nuestra **supervivencia**, sin cortar irresponsablemente el cordón umbilical con la cómoda y peligrosa dependencia.
-
-Cabe preguntarnos, ¿cómo obtienen **energía eléctrica**, aquellos países o lugares, en los que existe alto riesgo de **sequía**, como Sudáfrica, Siria, Bolivia, Australia, Jordania, entre otros, en los que llueve poco?
-
-Resulta apresurado, culpar de los **apagones** al actual gobierno (pero sí es su responsabilidad afrontarlo), ya que este es un problema que ha venido arrastrándose y atravesando el **Ecuador** por años, en las cuales, en determinados gobiernos, la **corrupción**, **irresponsabilidad** y falta de **previsión**, han generado un amargo cóctel, que ahora el país en la penumbra debe sorbo a sorbo tomar a la luz de una vela; situación agravada por la creciente demanda **eléctrica** vs la limitada oferta.
-
-Según fuentes periodísticas, el **ministro** de **Energía** y **Minas** ha indicado al país que, el gobierno ha invertido en generación eléctrica, cinco veces más, que otros gobiernos en los últimos siete años. Adicionalmente, ha manifestado que, está en proceso la adquisición de una cantidad significativa de MW; que la barcaza turca (Emre Bey) de **generación eléctrica** estaría generando 100 MV, y que en octubre se incorporaría otra; y, para diciembre, se espera que la **central hidroeléctrica** Toachi – Pilatón aporte con 200 MW, entre otras acciones. Esperemos que esto ocurra, ya que el **perjuicio económico** al país en su conjunto es enorme, a más de la afectación a la **sociedad** por la latente **inseguridad**; y, fuera por supuesto, del alto costo que implica la adquisición de **energía** de **emergencia**.
-
-No está por demás reflexionar en el sentido de que, existen en el **mundo**, varias **alternativas** como fuente de **energía eléctrica**, como la **eólica**, la **eólica marina**, la **geotérmica** y la **solar fotovoltaica**, principalmente. Un caso interesante es el de la India, que aproximadamente el 75% de su producción de **energía eléctrica**, se generaría mediante **centrales térmicas** de carbón.
-
-Para el caso **ecuatoriano**, adicionalmente a las **acciones** mencionadas por el ministro, debe sumarse el necesario sentido de austeridad en el consumo, tanto del **sector privado** (debemos arrimar el hombro) y, sobre todo del público ¿cuántas **dependencias** y edificios del Estado trabajan de día con las luces prendidas e, incluso, permanecen encendidos en las noches y madrugadas? Adicionalmente, el estímulo y desarrollo de **fuentes** alternativas de **energía**, tanto publicas como privadas, con una ley que realmente facilite aquello, así como el impulso de **alianzas** público-privadas (en las que el proponente no pueda ser echado a un lado), se vuelve indispensable.  Otra modalidad práctica y válida, es el **bombardeo** de **nubes** focalizado, actividad que no es nueva en el **país**,  ya que  en los 70s, se utilizó bajo el **liderazgo** y **responsabilidad** del  Alberto Villacreces G. (mi abuelo), quien lo desarrolló y  realizó  – con la **tecnología** de la época – internándose en avioneta en las **nubes** para depositar en ellas **hielo** seco, aserrín, etc., obteniendo **éxito** en muchos casos y, contribuyendo así, con el desarrollo de Manabí y de manera particular  con el **sector agrícola**.
-
-En realidad, el tema de fondo del **déficit eléctrico** es **estructural** y por ende sería de mediano y/o  largo plazo su solución, problema que se originaría  en el **monopolio** estatal en la **generación**, **transmisión** y distribución de **energía eléctrica**, cuando esto debería ser delegado, por lo menos parcialmente, al **sector privado**, o si no, ¿preguntémonos por qué sí funcionan las **telecomunicaciones** en el país? La respuesta es clara, porque las mismas, en parte, están en manos del **sector privado**. Adicionalmente, no sería menos cierto que, el **sistema** como tal también presenta un serio **problema económico**, ya que, según entendidos, el valor del **kilovatio** hora se lo entregaría subsidiado, es decir, el valor de **generación** y/o compra por parte del **Estado** sería  mayor al precio de venta al **consumidor**, consecuentemente cortar inteligentemente y de manera focalizada ese desfase, mediante el sinceramiento de los **precios** tendría mucho sentido, a efectos de utilizar dichos **recursos** para reparar y/o ampliar los **sistemas** de **generación**, **transmisión** y **distribución**, sin perjuicio del desarrollo de  otras modalidades.
-
-En buena hora, al momento de terminar de escribir esta columna, estaría lloviendo en el sur del país, esperemos suba la cota de **Mazar** que estaría casi al límite en 2.120 msnv; sin embargo, suponer y depender de la divinidad para que no haya **oscuridad** es una barbaridad que raya en la irresponsabilidad, un grave error; y, en ese orden de **ideas**, y aunque sea también un error enfocarse en los culpables y no en las soluciones, está claro en realidad que, la culpa no es de **San Pedro** – con todo respeto – señor **ministro** de **Gobierno**.
 
 Turismo heroico
 ===============
@@ -344,7 +806,7 @@ La suspensión del servicio eléctrico es parte de las estrategias para afrontar
 Cortes de luz en Ecuador
 ------------------------
 
-Tras una sesión del **Comité de Operaciones de Emergencia (COE) Nacional**, las autoridades informaron que el domingo 22 de septiembre habrá cortes de luz en Ecuador de 08:00 a 17:00 en 12 provincias.
+Tras una sesión del **Comité de Operaciones de Emergencia (COE) Nacional**, las autoridades informaron que el domingo 22 de septiembre habrá cortes de luz en Ecuador. El horario es de 08:00 a 17:00 en 12 provincias.
 
 Estas son las provincias en las que se darán los cortes de luz: Azuay, Bolívar, Cañar, Carchi, Cotopaxi, Imbabura, Morona Santiago, Napo, Orellana, Pastaza, Sucumbíos y Zamora Chinchipe. Así lo informó la Presidencia de la República, en un comunicado.
 
@@ -608,346 +1070,3 @@ Por el momento, su oficina no ha brindado información sobre el discurso del man
 Además, se espera que reitere su defensa a Israel y sus críticas a China y a lo que suele describir como “socialismo empobrecedor”.
 
 El presidente emprenderá su regreso el martes por la noche, y su llegada a **Argentina** está prevista para el miércoles 25 de septiembre a las 07:00 hora local.
-
-La ciencia detrás del equinoccio y lo que se debe tener en cuenta 
-==================================================================
-
-El equinoccio de septiembre influye en el clima y la naturaleza alrededor del mundo.
-------------------------------------------------------------------------------------
-
-![El equinoccio señala el comienzo del otoño en el hemisferio norte y la llegada de la primavera en el sur. Foto: Freepik.](https://www.elcomercio.com/wp-content/uploads/2024/09/equinoccio-septiembre.jpg)
-
-El **equinoccio de septiembre** marca un momento clave en el año, cuando **el día y la noche tienen la misma duración en todo el planeta**. Este fenómeno ocurre debido a la **inclinación de la Tierra**, que está alineada con la órbita solar. En el hemisferio norte, señala el **inicio del otoño**, mientras que, en el sur, representa la **llegada de la primavera**. 
-
-### Más noticias
-
-* [La agenda para este 20, 21 y 22 de septiembre de 2024 en Quito](https://www.elcomercio.com/tendencias/cultura/agenda-cultural-quito-septiembre.html "https://www.elcomercio.com/tendencias/cultura/agenda-cultural-quito-septiembre.html") 
-* [Seis películas con sorprendentes finales abiertos y su análisis](https://www.elcomercio.com/tendencias/cine/peliculas-cine-analisis-final-abierto.html "https://www.elcomercio.com/tendencias/cine/peliculas-cine-analisis-final-abierto.html") 
-
-**Equinoccio de septiembre: ¿Por qué el día y la noche son iguales?** 
-----------------------------------------------------------------------
-
-![El equinoccio marca el momento en que el día y la noche tienen casi la misma duración en todo el planeta. Foto: Observatorio Astronómico de Quito. ](https://www.elcomercio.com/wp-content/uploads/2024/09/equinoccio-septiembre-1-1024x683.jpg)
-
-El equinoccio marca el momento en que el día y la noche tienen casi la misma duración en todo el planeta. Foto: Observatorio Astronómico de Quito.
-
-El **equinoccio** tiene una particularidad: durante este evento, **el día y la noche tienen casi la misma duración en todo el planeta**. Según el [Observatorio Astronómico de Quito](https://oaq.epn.edu.ec/index.php/publicaciones/noticias-y-eventos/noticias-2024/651-boletin-de-prensa-equinoccio-de-septiembre-2024-un-momento-de-equilibrio-en-la-tierra "https://oaq.epn.edu.ec/index.php/publicaciones/noticias-y-eventos/noticias-2024/651-boletin-de-prensa-equinoccio-de-septiembre-2024-un-momento-de-equilibrio-en-la-tierra"), el término “equinoccio” proviene del latín aequinoctium, que significa “noche igual”. 
-
-Este **equilibrio de luz** se debe a la inclinación del eje de la Tierra, que está inclinada 23,5 grados en relación con su órbita alrededor del Sol. **Durante los equinoccios, tanto en marzo como en septiembre, el ecuador terrestre se alinea con la trayectoria solar**, conocida como eclíptica. Esto provoca que la luz solar se distribuya de manera uniforme, haciendo que **el día y la noche duren aproximadamente 12 horas**. 
-
-La **inclinación axial de la Tierra** es la responsable de que las estaciones varíen durante el año, pero durante el equinoccio, ese efecto desaparece temporalmente. **Este fenómeno ocurre solo dos veces al año** y es clave para comprender **el movimiento de la Tierra alrededor del Sol**. 
-
-**El inicio del cambio estacional en ambos hemisferios** 
----------------------------------------------------------
-
-El **equinoccio de septiembre** es un momento clave en el calendario, ya que **marca la transición entre estaciones en todo el mundo**. Siguiendo con el Observatorio Astronómico de Quito, **en el hemisferio norte este fenómeno indica el final del verano y el inicio del otoño.** Durante este periodo, las temperaturas empiezan a descender y las hojas cambian de color. 
-
-**En el hemisferio sur, el equinoccio de septiembre representa el final del invierno y la llegada de la primavera**. Es una época de renacimiento, donde la naturaleza comienza a florecer y el clima se vuelve más cálido.  
-
-**Los polos experimentan cambios más extremos**. En el **Polo Norte**, el equinoccio marca el fin de seis meses de luz continua y el inicio de seis meses de oscuridad. Mientras que, en el **Polo Sur**, ocurre lo contrario: comienza una etapa de seis meses de luz polar, tras un largo periodo de noche. **Estos cambios drásticos afectan no solo al clima, sino también a la vida silvestre en estas regiones extremas**. 
-
-**¿Cuándo ocurrirá y cuánto durará la estación?** 
---------------------------------------------------
-
-De acuerdo con [Infobae](https://www.infobae.com/america/ciencia-america/2024/09/18/cuando-es-el-equinoccio-de-primavera-que-da-inicio-oficial-a-la-estacion-en-el-hemisferio-sur/ "https://www.infobae.com/america/ciencia-america/2024/09/18/cuando-es-el-equinoccio-de-primavera-que-da-inicio-oficial-a-la-estacion-en-el-hemisferio-sur/"), **el equinoccio de primavera en el hemisferio sur en 2024 ocurrirá el domingo 22 de septiembre**. Según el Servicio de Hidrografía Naval, este fenómeno tendrá lugar a las 09:44 horas (hora de Argentina). A partir de ese momento, **las horas de luz solar comenzarán a aumentar**, las temperaturas serán más cálidas y los días se alargarán progresivamente hasta el solsticio de verano. 
-
-**La primavera durará aproximadamente tres meses**, extendiéndose hasta el 21 de diciembre, cuando comenzará el verano con el solsticio. 
-
-**En Ecuador, el equinoccio de septiembre también se producirá el domingo 22 de septiembre, pero a las 07:43 horas** (hora de Ecuador continental). Este evento marcará **el inicio del otoño en el hemisferio norte y el comienzo de la primavera en el hemisferio sur**. 
-
-**Equinoccio y solsticio: ¿Cuál es la diferencia y qué los distingue?** 
-------------------------------------------------------------------------
-
-**Los equinoccios y solsticios son fenómenos astronómicos** clave que marcan el cambio de estaciones. A decir de Infobae, **la principal diferencia entre ambos radica en la distribución de la luz solar.** Durante los equinoccios, que ocurren en marzo y septiembre, el Sol se encuentra directamente sobre el ecuador. Esto provoca que el día y la noche tengan casi la misma duración en todo el planeta. 
-
-Por otro lado, l**os solsticios se producen en junio y diciembre**. En este caso, la inclinación de la Tierra genera que uno de los hemisferios reciba la mayor cantidad de luz solar del año, lo que da lugar al **solsticio de verano**. Mientras tanto, en el otro hemisferio se experimenta el día más corto del año, conocido como **solsticio de invierno**. 
-
-La diferencia entre estos eventos se debe a la **inclinación axial de la Tierra**, que es de 23,5 grados. Esta inclinación es la **responsable de las variaciones en la cantidad de luz solar que recibe cada hemisferio**, lo que define el inicio de las estaciones. 
-
-Se declara alerta roja en 19 provincias de Ecuador por sequía
-=============================================================
-
-Se declara la alerta roja en 19 provincias de Ecuador debido a la sequía, incendios forestales y afectaciones a la agricultura, agua y producción hidroeléctrica.
------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-![Los bomberos laboraron el 5 de septiembre de 2024 en tres incendios forestales registrados en Cancán, Shiña y Quingeo. Cortesía: Bomberos de Cuenca](https://www.elcomercio.com/wp-content/uploads/2024/09/incendio-Cuenca-.jpg)
-
-La Secretaría Nacional de Riesgos declaró en “**alerta roja**” a 19 de las 24 provincias del **Ecuador**. La medida se tomó para **precautelar la integridad de la población**, las infraestructuras y medios de vida, en medio de la peor sequía de los últimos 61 años que afronta el país.
-
-Más noticias
-------------
-
-* [COE declara alerta roja en 15 provincias por emergencia hídrica](https://www.elcomercio.com/actualidad/ecuador/coe-declara-alerta-roja-sequia.html "COE declara alerta roja en 15 provincias por emergencia hídrica")
-* [Sequía convoca de emergencia a las autoridades de Ecuador en Cuenca](https://www.elcomercio.com/actualidad/negocios/sequia-convoca-emergencia-autoridades-de-ecuador-coe-cuenca.html "Sequía convoca de emergencia a las autoridades de Ecuador en Cuenca")
-* [Sequía afecta a hidroeléctricas y obliga a cortes de luz, ¿qué se espera?](https://www.elcomercio.com/actualidad/ecuador/sequia-afecta-hidroelectricas-cortes-luz.html "Sequía afecta a hidroeléctricas y obliga a cortes de luz, ¿qué se espera?")
-
-Mediante la **Resolución Nro. SNGR-306-2024** se declaró en emergencia a las provincias de: Azuay, Bolívar, Cañar, Carchi, Cotopaxi, El Oro, Imbabura, Loja, Manabí, Morona Santiago, Napo, Orellana, Pastaza, Pichincha, Santa Elena, Sucumbíos, Tungurahua, Galápagos y Zamora Chinchipe.
-
-La escasez de lluvias ha provocado “**eventos de déficit hídrico, incendios forestales, sequías y afectaciones a la agricultura, al sistema de producción hidroeléctrico, disponibilidad de agua y seguridad y soberanía alimentaria”, señala** el documento.
-
-Emergencia por la sequía
-------------------------
-
-Este sábado 21 de septiembre de 2024, el Comité de Operaciones de Emergencia (COE) de Ecuador convocó a una reunión urgente de su pleno para evaluar el impacto de la sequía.
-
-La sesión del COE, integrado por altas autoridades del Estado y de las instituciones de respuesta ante emergencias, se celebra la noche de este sábado 21 de septiembre en Cuenca con el objetivo de “tomar decisiones inmediatas para salvaguardar los recursos hídricos” del país, señaló la presidencia en un comunicado.
-
-Asimismo, desde el 19 de septiembre, el COE dispuso activar mesas técnicas de discusión especializada y ha pedido a los gobiernos locales que garanticen el suministro de agua potable a la población bajo criterios de calidad establecidos.
-
-Asimismo, dispuso que el Ministerio de Economía y Finanzas dé prioridad a la entrega de recursos para atender la emergencia.
-
-Además, la **Secretaría de Riesgos** informó que en los últimos 27 días se han registrado 23 453 hectáreas afectadas por los incendios forestales en 21 de las 24 provincias del país.
-
-Desde el 23 de agosto al 18 de septiembre se han registrado 1 337 incendios forestales, lo que representa 284 más que en el mismo periodo del año pasado
-
-Sequía convoca de emergencia a las autoridades de Ecuador en Cuenca
-===================================================================
-
-El COE de Ecuador convocó una reunión urgente para abordar la sequía que afecta a varias provincias del país, siendo la más grave en 61 años.
----------------------------------------------------------------------------------------------------------------------------------------------
-
-![Vista posterior de la presa de Mazar, ubicada en los límites de Azuay y Cañar. Tomada el 17 de agosto de 2024 cuando la cota estuvo en 2147 metros sobre el nivel del mar. Foto. API.](https://www.elcomercio.com/wp-content/uploads/2024/08/Mazar-Ecuador-.jpg)
-
-El Comité de Operaciones de Emergencia (COE) Nacional convocó este sábado 21 de septiembre de 2024 a una reunión urgente. El objetivo es evaluar el impacto de la sequía que afecta a varias provincias del país, informó la Secretaría General de Comunicación de la Presidencia[.](https://es.wikipedia.org/wiki/Ecuador "https://es.wikipedia.org/wiki/Ecuador")
-
-Más noticias
-------------
-
-* [Sequía afecta a hidroeléctricas y obliga a cortes de luz, ¿qué se espera?](https://www.elcomercio.com/actualidad/ecuador/sequia-afecta-hidroelectricas-cortes-luz.html "Sequía afecta a hidroeléctricas y obliga a cortes de luz, ¿qué se espera?")
-* [La solución para los cortes de luz del Ecuador es la geotermia, ¿de qué se trata?](https://www.elcomercio.com/actualidad/negocios/la-solucion-para-los-cortes-de-luz-del-ecuador-es-la-geotermia-de-que-se-trata.html "La solución para los cortes de luz del Ecuador es la geotermia, ¿de qué se trata?")
-* [El embalse de Mazar se acerca a su nivel crítico, ¿habrá cortes de luz?](https://www.elcomercio.com/actualidad/negocios/embalse-mazar-nivel-critico-cortes-de-luz-ecuador.html "El embalse de Mazar se acerca a su nivel crítico, ¿habrá cortes de luz?")
-
-La sesión del COE, integrado por **autoridades del Estado** y de las instituciones de respuesta ante **emergencias**, se celebra la noche de este sábado en Cuenca. Las mismas que tomarán decisiones inmediatas para salvaguardar los recursos hídricos del país.
-
-La Secretaría de Comunicación aseguró que el país afronta actualmente la más grande sequía desde hace 61 años, que ya son “71 días de sequía hidrológica”. Además, recalcó que en el último mes se han registrado más de **1 330 incendios forestale**s en todo el país.
-
-> A la ciudadanía: [pic.twitter.com/qTmGoucXgZ](https://t.co/qTmGoucXgZ)
-> 
-> — Presidencia Ecuador 🇪🇨 (@Presidencia\_Ec) [September 21, 2024](https://twitter.com/Presidencia_Ec/status/1837605648294466013?ref_src=twsrc%5Etfw)
-
-Ante la “compleja situación hídrica”, la Presidencia afirmó que las provincias que pudieran tener una mayor afectación por el fenómeno climático son las andinas de **Azuay, Cañar y Cotopaxi; así como las amazónicas de Zamora Chinchipe y Morona Santiago.**
-
-Alerta roja por sequía
-----------------------
-
-El pasado jueves, el **COE nacion**al declaró en “alerta roja” a 14 de 24 provincias del país. Esto debido a la sequía y la proliferación de incendios forestales.
-
-Las provincias en emergencia son: **Carchi, Cotopaxi, Loja, Pichincha**, **Cañar, Imbabura, Azuay, Bolívar**, **Zamora Chinchipe, Napo, Orellana**, **El Oro, Santa Elena y Manabí.**
-
-Por su parte, Gestión de Riesgos informó ese mismo día que entre el 23 de agosto y el 18 de septiembre se registraron 1 337 incendios forestales. Esto afectó a 23 453 hectáreas afectadas en 21 de las 24 provincias del país.
-
-El déficit de lluvias generó, además, una crisis en el **sector energético**. Principalmente, debido a la bajada de los caudales que alimentan a las principales **centrales hidroeléctricas**.
-
-El **Ecuador** registra una **reducción en la generación de electricidad**, por lo que el Gobierno anunció la aplicación de periodos de cortes de luz escala nacional.
-
-El Ejecutivo dispuso cortes de luz de entre dos y seis horas entre el miércoles y jueves 18 y 19 de septiembre. Además, anunció nuevos apagones entre el 23 y 26 de septiembre.
-
-Sin embargo, en un documento suscrito por la estatal **Corporación Eléctrica de Ecuador** (Celec), que se filtró este sábado 21 de septiembre, se advirtió de un posible inicio inminente de los racionamientos eléctricos.
-
-El viernes 20 de septiembre, el Gobierno solicitó sector privado activar sus generadores de electricidad para aplacar la crisis. El aporte de ese sector podría alcanzar una potencia estimada de 300 megavatios.
-
-Más de dos tercios de la matriz eléctrica de Ecuador corresponden a las fuentes hidroeléctricas, sobre todo de las centrales **Coca Codo Sinclair**, la más grande con 1 500 megavatios de potencia. Así como, el complejo hidroeléctrico del río Paute, que genera unos 1 000 megavatios y que es una de las más golpeadas por la sequía. 
-
-Aucas rompió una extraordinaria racha en Liga Pro
-=================================================
-
-Aucas ganó a Cumbayá con una goleada en la Liga Pro y obtuvo su primera victoria en la segunda etapa del campeonato.
---------------------------------------------------------------------------------------------------------------------
-
-![Jean Carlos Blanco celebra uno de los goles en el triunfo de Aucas ante Cumbayá en la Liga Pro.](https://www.elcomercio.com/wp-content/uploads/2024/09/20240921128321-fbl-ligapro-ecuabet-cumbaya-aucas-scaled.jpg)
-
-Después de **once fechas** de su último triunfo y cuatro técnicos distintos, **Aucas** consiguió volver al triunfo en la Liga Pro. El equipo oriental venció con una goleada de 3-0 al **Cumbayá** y abandonó la última casilla de la segunda etapa del torneo.
-
-El ‘Ídolo del pueblo’ parece encontrar un signo de reacción a su **crisis deportiva** después con su último triunfo y toma aire en función de sus aspiraciones. La victoria de Aucas llegó como un bálsamo después de una mala racha que estuvo rodeada por una serie de rombolescos momentos y decisiones.
-
-### Más noticias:
-
-* [Aucas se hunde en una crisis de resultados y críticas](https://www.elcomercio.com/deportes/futbol/aucas-crisis-liga-pro-tabla.html "Aucas se hunde en una crisis de resultados y críticas")
-* [(En Vivo) Liga de Quito recibe a El Nacional en un clásico de la Liga Pro](https://www.elcomercio.com/blogs/partido-en-vivo-liga-quito-nacional-liga-pro.html "(En Vivo) Liga de Quito recibe a El Nacional en un clásico de la Liga Pro")
-* [Dragonas IDV golea a Barcelona y es campeón de la Superliga Femenina](https://www.elcomercio.com/deportes/final-dragonas-barcelona-superliga-campeonas.html "Dragonas IDV golea a Barcelona y es campeón de la Superliga Femenina")
-
-Entre la primera y la segunda etapa, **Aucas** había mostrado dos rostros distintos, pues pasó de pelear por ganar la primera ronda a ser un equipo que no podía dar pelea. Tras la salida de Gerardo Espinoza, **Jorge Alfonso** tomó el equipo y fue sustituido tras su debut y su sucesor, **Sebastián Blásquez**, duró cuatro partidos.
-
-Aunque enfrentó a un club que pelea por mantener la categoría, su desempeño fue totalmente distinto al de partidos anteriores y consecuencia de una mejoría con su nuevo DT. Gabriel Pereyra tomó el equipo y perdió en su primer choque ante **Mushuc Runa**, sin embargo, el desempeño invitó a creer que los de Chillogallo se pudieron llevar algo más[.](https://es.wikipedia.org/wiki/Sociedad_Deportiva_Aucas)
-
-Aucas encontró el gol y el triunfo frente a Cumbayá
----------------------------------------------------
-
-Una de las afecciones de **Aucas** antes del partido frente a **Cumbayá** no había sido únicamente la escasez de triunfos, sino la falta de gol. En las seis fechas previas, el conjunto aurigrana solo había conseguido marcar un tanto, aquel había sido en la jornada anterior.
-
-En el choque, los del **valle quiteño** llegaban con un panorama similar, pues tampoco había conseguido victorias en la segunda etapa. Asimismo, la cantidad de fechas -once- era la misma que la de los orientales con respecto a su último triunfo.
-
-Cuando saltaron a la cancha, el plantel de Pereyra tuvo una idea más seria con respecto a su propuesta y aquello se tradujo en goles. El plantel de **Chillogallo** no solo se mostró certero en lo que buscaba, sino que sus rivales presentaron un **desentendimiento** permanente.
-
-A los 11 minutos de juego cayó el primer tanto, el defensa **John Jairo Ontaneda** apareció para marcar. El gol permitió controlar el partido y, aunque parecía que la ventaja sería mínima, la goleada llegó en el complemento.
-
-Los tantos retornaron a la delantera orietal
---------------------------------------------
-
-Dentro del segundo tiempo, a los 54′ cayó el segundo tanto de Aucas de la mano de Jean Carlo Blanco. El delantero colombiano fue el llamado a sustituir a su compatriota **Jeison Medina** después de que este abandonase el elenco para unirse a **Independiente del Valle**.
-
-Para sellar la victoria estuvo **Piero Guzmán**. El joven canterano tuvo su chance a los 87 minutos y firmó la goleada.
-
-El triunfo permite a **Aucas** continuar en pelea por ingresar a torneos internacionales y en la segunda etapa lo pone en la decimotercera posición. En el caso de **Cumbayá**, este permanece en la zona de descenso en la tabla acumulada y último en la vigente ronda.
-
-‘Miniluna’ acompañará a la Tierra durante dos meses, ¿desde cuándo se verá?
-===========================================================================
-
-El asteroide 2024 PT5 será capturado temporalmente por la gravedad de la Tierra, orbitándola como una "mini luna" por dos meses.
---------------------------------------------------------------------------------------------------------------------------------
-
-![El asteroide 2024 PT5, de 10 metros de diámetro, orbitará por dos meses junto a la Luna Tradicional. Foto: Redes sociales](https://www.elcomercio.com/wp-content/uploads/2024/09/mini-luna.jpg)
-
-La Tierra tendrá **dos lunas por dos meses**. Un **pequeño asteroide**, conocido como **2024 PT5**, se convertirá en una ‘**miniluna**‘ que acompañará a la Luna tradicional por 56 días. Aunque no es la primera vez que ocurre un fenómeno de este tipo, es una oportunidad única para los aficionados a la astronomía, ya que un evento similar no se repetirá hasta 2051[.](https://es.wikipedia.org/wiki/Sat%C3%A9lite_asteroidal "https://es.wikipedia.org/wiki/Sat%C3%A9lite_asteroidal")
-
-### Más noticias
-
-* [La Superluna de Cosecha iluminó el cielo de Ecuador](https://www.elcomercio.com/uncategorized/superluna-cosecha-cielo-ecuador.html "La Superluna de Cosecha iluminó el cielo de Ecuador")
-* [Último eclipse lunar de 2024 visto desde Ecuador](https://www.elcomercio.com/tendencias/ciencia/eclipse-lunar-superluna-cosecha-astronomia.html "Último eclipse lunar de 2024 fue visto desde Ecuador")
-* [La Súper](https://www.elcomercio.com/actualidad/ecuador/ecuador-super-luna-azul.html "La Súper Luna Azul deslumbra a los ecuatorianos") [Luna Azul deslum](https://www.elcomercio.com/actualidad/ecuador/ecuador-super-luna-azul.html "La Súper Luna Azul deslumbra a los ecuatorianos")[bra a los ecuatorianos](https://www.elcomercio.com/actualidad/ecuador/ecuador-super-luna-azul.html "La Súper Luna Azul deslumbra a los ecuatorianos")
-
-El **asteroide 2024 PT5**, de 10 metros de diámetro, fue detectado el pasado 7 de agosto por el Sistema de Última Alerta de Impacto Terrestre de Asteroides, en Sudáfrica.
-
-Según los expertos, la gravedad terrestre atrapó este pequeño cuerpo celeste. Esto le permitirá orbitar temporalmente nuestro planeta, formando lo que algunos llaman una ‘**miniluna**‘.
-
-Según los astrónomos **Carlos de la Fuente Marcos y Raúl de la Fuente Marcos**, de la Universidad Complutense de Madrid, el asteroide comenzará su órbita alrededor de la Tierra el 29 de septiembre y permanecerá con nosotros hasta el 25 de noviembre. Durante esos 56,6 días, la Tierra podrá presumir de tener dos lunas, según detalla, el País de España.
-
-¿Se lo podrá ver a simple vista la ‘miniluna’?
-----------------------------------------------
-
-A pesar de lo emocionante que resulta la idea de tener dos lunas. El a**steroide 2024 PT5** no será visible a simple vista. Su magnitud absoluta, de 27,6, es demasiado tenue para ser vista. Loa telescopios de aficionados tampoco lo pueden observador. Sin embargo, su presencia será un hecho científico relevante, ya que, aunque no se la pueda ver, sabremos que está ahí, orbitando alrededor de la Tierra, señaló DW.com.
-
-Los investigadores sugieren que el asteroide podría ser miembro de la familia Arjuna, un grupo de objetos cercanos a la Tierra con órbitas similares a la de nuestro planeta. Estos asteroides deben su nombre a Arjuna, un príncipe de la antigua India y protagonista de la epopeya hindú Mahābhārata.
-
-No es la primera ‘miniluna’ que orbita la Tierra
-------------------------------------------------
-
-Sin embargo, este fenómeno no es nuevo. En 2006, el **asteroide 2006 RH120**, de 5 metros, permaneció durante un año en la órbita de la Tierra. Más recientemente, otro asteroide permaneció hasta mayo de 2020. Según los cálculos, el 2024 PT5 regresará brevemente en enero de 2025 y hará otra visita en 2055.
-
-Liga de Quito igualó con El Nacional en un clásico de la Liga Pro
-=================================================================
-
-Liga de Quito recibe a El Nacional por la séptima fecha de la segunda etapa de la Liga Pro en el Estadio Rodrigo Paz Delgado.
------------------------------------------------------------------------------------------------------------------------------
-
-![Marcos Olmedo de El Nacional (izq.) disputa un balón con Ezequiel Piovi de Liga de Quito (der.).](https://www.elcomercio.com/wp-content/uploads/2024/09/20240921128393-fbl-ligapro-liga-nacional-scaled.jpg)
-
-**Liga de Quito y El Nacional** disputaron un nuevo enfrentamiento en la Liga Pro, programado para este sábado 21 de septiembre de 2024, a las 16:30. Este clásico llegó en un momento crucial para ambos equipos, que presentaban situaciones dispares.
-
-Los albos, dirigidos por **Pablo ‘Vitamina’ Sánchez**, llegaron como líderes de la tabla. El cuadro criollo ocupaba la novena posición y se enfrenta a la ausencia de su entrenador **Marcelo Zuleta**, quien fue sancionado con cuatro partidos por un insulto al árbitro en el encuentro anterior[.](https://es.wikipedia.org/wiki/Club_Deportivo_El_Nacional)
-
-### Más noticias:
-
-* [Hora y alineaciones para Liga de Quito vs. El Nacional](https://www.elcomercio.com/deportes/alineaciones-hora-liga-quito-el-nacional.html "Hora y alineaciones para Liga de Quito vs. El Nacional")
-* [¿Cómo llega Liga de Quito ante El Nacional en Liga Pro?](https://www.elcomercio.com/deportes/como-va-liga-quito-nacional.html "¿Cómo llega Liga de Quito ante El Nacional en Liga Pro?")
-* [El Nacional ganó 13 veces en el Rodrigo Paz a Liga de Quito](https://www.elcomercio.com/deportes/futbol/el-nacional-triunfo-rodrigo-paz-delgado.html "El Nacional ganó 13 veces en el Rodrigo Paz a Liga de Quito")
-
-Ambos equipos arribaron con resultados diferentes en su último partido: **Liga de Quito** sufrió una goleada ante **Imbabura**, mientras que **El Nacional** logró una victoria en casa contra Cumbayá. Este choque se llevó a cabo en el Estadio Rodrigo Paz Delgado, donde ambas escuadras presentaron casi a todos sus jugadores disponibles.
-
-Liga de Quito contó con el regreso de **Ricardo Adé,** quien superó una lesión, a diferencia de Jhojan Julio, quien se perdió el partido. El Nacional tuvo a la mayoría de sus figuras, a excepción de **Moisés Corozo y Daniel Patiño**, quienes tienen algunas molestias.
-
-Este encuentro marcó el inicio de una serie de partidos entre estos rivales, lo que añadió aún más emoción a la competencia. Ambos equipos buscarán demostrar su valía en este clásico, con la esperanza de sumar puntos cruciales en la segunda etapa de la **Liga Pro**.
-
-Liga de Quito estrenó uniforme y El Nacional el marcador
---------------------------------------------------------
-
-Para el cotejo, los albos iniciaron un nuevo uniforme conmemorativo. Una blusa blanca con franjas rojas en vertical los acompañó durante el partido como un homenaje al club universitario, el cual **Liga de Quit**o considera como **predecesor de su equipo**.
-
-En función de la nueva indumentaria de Liga de Quito, **El Nacional** debió jugar con su uniforme alterno: camiseta negra y pantaloneta roja. En el banquillo rojo, **Carlos Girardejo** reemplazó a Zuleta y siguió sus instrucciones a distancia.
-
-La escuadra de **‘Vitamina’ Sánchez** pisó fuerte desde el inicio y arrinconó a sus rivales, que optaron por las contras. A los 15 minutos, Liga de Quito tuvo una acción de peligro mayúsculo tras un cabezazo de Ricardo Adé, sin embargo, el arquero **David Cabezas** le ganó el duelo.
-
-El ‘Bi-Tri’ se puso primero por encima del marcador gracias a una veloz transición. El Nacional buscó llegar y, cuando **Alejandro Cabeza** buscaba llegar a una pelota, Adé lo tomó dentro del área y aquello derivó en un penal.
-
-**Gabriel Cortez** tomó la responsabilidad del penal y venció al guardameta Alexander Domínguez. Un toque esquinado y de borde interno hacia el palo derecho del portero firmó la ventaja de 1-0 para El Nacional.
-
-Parecía que los puros criollos se iban con la victoria hacia el segundo tiempo, sin embargo, el plantel no supo cómo sostenerse. A los 45 minutos y a punto de que termine la primera mitad, **Gabriel Villamil** apareció para que el marcador vuelva a estar igualado.
-
-David Cabezas fue la figura y el empate se mantuvo
---------------------------------------------------
-
-En la segunda mitad del compromiso, **Liga de Quito** obtuvo una postura mucho más ofensiva, sin embargo, no consiguió el triunfo. La resistencia de El Nacional se impuso y el arquero **David Cabezas** se erigió como la figura.
-
-El equipo azucena buscó a **Álex Arce** y generó oportunidades desde los costados, pero no consiguió vulnerar el arco criollo. Cabezas salió victorioso entre remates con destino de gol y duelos mano a mano con rivales.
-
-El ‘Bi-Tri’ no consiguió presentar mayores ataques y optó por llevarse el punto. Pese a ello, en uno de sus pasos a la ofensiva consiguió una falta de **Richard Mina**, quien ya tenía tarjeta amarilla y fue expulsado.
-
-Con el punto, **Liga de Quito** mantiene el liderato de la segunda etapa y **El Nacional** sube hasta la sexta posición. Ambos puestos no son definitivos y estará condicionados por los demás duelos.
-
-Alineaciones de Liga de Quito y El Nacional
--------------------------------------------
-
-**Liga de Quito**: Alexander Domínguez (arquero); José Quintero, Ricardo Adé, Richard Mina, Leonel Quiñónez (defensas); Gabriel Villamil, Ezequiel Piovi, Bryan Ramírez, Luis Estupiñán y Fernando Cornejo (volantes); Álex Arce (delantero).
-
-**El Nacional**: David Cabezas (arquero); Kevin Peralta, Rommel Cabezas, José Ignacio Flor, Mario Pineida (defensas); Marcos Olmedo, Charles Vélez, Jonathan Borja, Jorge Ordóñez y Gabriel Cortez (volantes); Alejandro Cabeza (delantero).
-
-Leopardo considerado extinto hace 50 años fue avistado en Turquía
-=================================================================
-
-El gran felino fue visto con una cámara térmica mientras paseaba entre rocas y arbustos, en Anatolia.
------------------------------------------------------------------------------------------------------
-
-![El Panthera pardus tulliana es una subespecie de leopardo originario de Asia Menor.](https://www.elcomercio.com/wp-content/uploads/2024/09/leopardo.jpg)
-
-Las autoridades de **Turquía** confirmaron el avistamiento de un **leopardo** en la región del mar Egeo, en el oeste de Anatolia, donde este felino se creía extinto desde hace décadas.
-
-Así lo informó este sábado 21 de septiembre de 2024, la televisión pública **TRT**.
-
-### Más noticias
-
-* [Los peligros ocultos de la obesidad en los animales de compañía](https://www.elcomercio.com/narices-frias/peligros-ocultos-obesidad-animales-compania.html "Los peligros ocultos de la obesidad en los animales de compañía")
-* [Crea ‘outfits’ salvajes con prendas de ‘animal print’](https://www.elcomercio.com/afull/crea-outfits-salvajes-con-prendas-de-animal-print.html "Crea ‘outfits’ salvajes con prendas de ‘animal print’")
-* [Las razones por las que la gente adopta a un animal de compañía](https://www.elcomercio.com/narices-frias/razones-gente-adopcion-animal-compania.html "Las razones por las que la gente adopta a un animal de compañía")
-
-El canal difundió un vídeo de un minuto de duración en el que se ve, en parte en imágenes de cámara térmica, un **gran felino** pasear entre rocas y arbustos.
-
-Las imágenes se tomaron en el marco de un proyecto de **rastreo de leopardos**, que realizó la Dirección de Parques Nacionales de Turquía y la Universidad de Isparta.
-
-Leopardo estaba desaparecido desde 1975
----------------------------------------
-
-El leopardo de Anatolia se creía desaparecido desde **1975** y se achacaban a errores o confusiones con el lince. Hubo testimonios de avistamientos ocasionales.
-
-En 2013, un pastor mató en defensa propia un leopardo en la provincia de **Diyarbakir**, en el sureste de Turquía.
-
-El caso concluyó que el animal pudo haber llegado desde **Irán**, donde la especie está presente y tiene muchas amenazas.
-
-En 2019, el Ministerio de Agricultura y Bosques documentó la presencia de leopardos en otras regiones de **Anatolia**.
-
-Sin embargo, el vídeo que se difundió hoy es la **primera confirmación** de que el felino sobrevivió también en Turquía occidental.
-
-Por precaución, las autoridades no divulgaron la zona en la que fue tomado el vídeo.
-
-Solo se conoce que el animal fue visto “en el interior de la Región del Egeo”, que abarca **ocho provincias**[.](https://es.wikipedia.org/wiki/Panthera_pardus_tulliana "https://es.wikipedia.org/wiki/Panthera_pardus_tulliana")
-
-La ley prevé una pena de entre dos y **cinco años de cárcel**, así como 30 millones de liras (casi un millón de dólares) de multa por infligir daño a un animal en peligro de extinción. Esa lista la encabeza el leopardo anatolio.
-
-Muere uno de los 33 mineros rescatados en 2010 en mina de Chile
-===============================================================
-
-Mario Gómez, uno de los 33 mineros rescatados tras quedar atrapado en la mina San José en 2010, falleció a los 74 años.
------------------------------------------------------------------------------------------------------------------------
-
-![Mario Gómez tenía 63 años cuando ocurrió el derrumbe, fue el noveno de los mineros en ser rescatado. Foto: Archivo](https://www.elcomercio.com/wp-content/uploads/2024/09/chile.jpg)
-
-El chileno **Mario Gómez**, el mayor de los 33 mineros que quedaron atrapados durante más de 60 días en la mina San José en 2010 (norte de **Chile**), falleció este sábado 21 de septiembre de 2024, a los 74 años. La causa de su muerte no se conoce, pero sufría de **silicosis** y dependía de oxígeno.
-
-### Más noticias
-
-* [Médica personal de José Mujica habló de su estado de salud](https://www.elcomercio.com/actualidad/mundo/medico-jose-mujica-salud.html "Médica personal de José Mujica habló de su estado de salud")
-* [Fiscalía de Venezuela tramita solicitud de una orden de captura contra Javier Milei](https://www.elcomercio.com/actualidad/mundo/fiscalia-venezuela-tramita-solicitud-orden-captura-contra-javier-milei.html "Fiscalía de Venezuela tramita solicitud de una orden de captura contra Javier Milei")
-* [Avión oficial venezolano aterriza de emergencia en la ciudad colombiana de Cúcuta](https://www.elcomercio.com/actualidad/mundo/avion-oficial-venezolano-aterriza-emergencia-ciudad-colombiana-cucuta.html "Avión oficial venezolano aterriza de emergencia en la ciudad colombiana de Cúcuta")
-
-La funeraria **La Candelaria de Copiapó,** ubicada en la región de **Atacama**, en el norte de **Chile**, informó de la muerte en sus redes sociales, sin detallar las causas de la misma. “Entregamos nuestras más sinceras condolencias a sus familiares y amigos”, dijo la compañía.
-
-Gómez, que tenía 63 años cuando ocurrió el derrumbe en la **mina San José**. Él fue el noveno de los mineros rescatados de las entrañas de la tierra en un **rescate milagroso y faraónico**. El hecho despertó el orgullo de todo un país y fue seguido en internet por más de mil millones de personas.
-
-El derrumbe en el viejo yacimiento de **oro y cobre del norte de Chile** se produjo el 5 de agosto de 2010. Los 33 mineros fueron sacados sanos y salvos, uno a uno, el 13 de octubre de ese mismo año.
-
-Los mineros se convirtieron en héroes nacionales por su resiliencia y su trabajo en equipo y viajaron por todo el mundo contando su hazaña.
-
-Sin embargo, la gran mayoría no pudieron volver a trabajar en la minería y sobreviven gracias a una pequeña pensión estatal vitalicia.
-
-Gómez sufría **silicosis tras años trabajando bajo suelo** y en 2017 se convirtió en **oxígeno-dependiente.**
-
-El accidente, del que la **empresa San Esteban** salió impune, marcó un punto de inflexión en los **estándares de seguridad** de la poderosa **minería de Chile**, el primer productor mundial de cobre.
