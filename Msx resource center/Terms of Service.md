@@ -153,19 +153,19 @@ Latest reactions
 
 Latest forum posts
 
+* [Tecnobytes Slot Expander II + Carnivore2 HELP!!!!](https://www.msx.org/forum/msx-talk/hardware/tecnobytes-slot-expander-ii-carnivore2-help "Tecnobytes Slot Expander II + Carnivore2 HELP!!!!")
 * [VATT - VRAM Access Timing Tester](https://www.msx.org/forum/msx-talk/development/vatt-vram-access-timing-tester?page=17 "VATT - VRAM Access Timing Tester")
+* [MSXBAS2ROM and BASIC variables spacings](https://www.msx.org/forum/msx-talk/general-discussion/msxbas2rom-and-basic-variables-spacings "MSXBAS2ROM and BASIC variables spacings")
+* [SymbOS C Compiler (v1.0 released)](https://www.msx.org/forum/msx-talk/development/symbos-c-compiler-v10-released "SymbOS C Compiler (v1.0 released)")
+* [WonderTANG! Who wants to juice up your MSX?](https://www.msx.org/forum/msx-talk/hardware/wondertang-who-wants-to-juice-up-your-msx?page=52 "WonderTANG! Who wants to juice up your MSX?")
 * [MSX disk directly to MegaFlashrom folder](https://www.msx.org/forum/msx-talk/development/msx-disk-directly-to-megaflashrom-folder "MSX disk directly to MegaFlashrom folder")
 * [MSX & AI](https://www.msx.org/forum/msx-talk/development/msx-ai?page=4 "MSX & AI")
 * [Gradius / Nemesis with SCC and smoothscroll without arcade graphics?](https://www.msx.org/forum/msx-talk/software/gradius-nemesis-with-scc-and-smoothscroll-without-arcade-graphics?page=1 "Gradius / Nemesis with SCC and smoothscroll without arcade graphics?")
 * [Franky SSMS.COM patches: Where are they ?](https://www.msx.org/forum/msx-talk/general-discussion/franky-ssmscom-patches-where-are-they?page=2 "Franky SSMS.COM patches: Where are they ?")
-* [MSXBAS2ROM and BASIC variables spacings](https://www.msx.org/forum/msx-talk/general-discussion/msxbas2rom-and-basic-variables-spacings "MSXBAS2ROM and BASIC variables spacings")
 * [Performance Profiler - A first attempt](https://www.msx.org/forum/msx-talk/openmsx/performance-profiler-first-attempt?page=10 "Performance Profiler - A first attempt")
-* [WonderTANG! Who wants to juice up your MSX?](https://www.msx.org/forum/msx-talk/hardware/wondertang-who-wants-to-juice-up-your-msx?page=52 "WonderTANG! Who wants to juice up your MSX?")
 * [SX-E FPGA MSX](https://www.msx.org/forum/msx-talk/hardware/sx-e-fpga-msx?page=2 "SX-E FPGA MSX")
 * [Full English translation of Illusion City for MSX Turbo-R](https://www.msx.org/forum/msx-talk/software/full-english-translation-of-illusion-city-for-msx-turbo-r?page=14 "Full English translation of Illusion City for MSX Turbo-R")
 * [Anbernic console for msx](https://www.msx.org/forum/msx-talk/hardware/anbernic-console-for-msx?page=1 "Anbernic console for msx")
-* [Carnivore2 : First impressions and bugs...](https://www.msx.org/forum/msx-talk/hardware/carnivore2-first-impressions-and-bugs?page=54 "Carnivore2 : First impressions and bugs...")
-* [Konami SCC cart (E)Eprom substitution](https://www.msx.org/forum/msx-talk/hardware/konami-scc-cart-eeprom-substitution "Konami SCC cart (E)Eprom substitution")
 
 [](https://www.msx.org/forum/)[More forum topics](https://www.msx.org/forum/)
 
