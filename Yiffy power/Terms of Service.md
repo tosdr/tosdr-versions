@@ -1,12 +1,12 @@
 Earn 20% commission for every subscription taken with your affiliate link [Register](https://yiff-party.com/yiff-party-affiliation/)
 
-[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201000%20260'%3E%3C/svg%3E)
+[![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAA+gAAAEEAQAAAACTwSOZAAAAAnRSTlMAAHaTzTgAAAA2SURBVHja7cEBAQAAAIIg/69uSEABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAwK8Bf/gAAd5Jwp8AAAAASUVORK5CYII=)
 
-![](https://yiff-party.com/wp-content/uploads/2022/12/Yiff-Party-1.6.png)](https://yiff-party.com/)[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201000%20260'%3E%3C/svg%3E)
+![](https://yiff-party.com/wp-content/uploads/2022/12/Yiff-Party-1.6.png)](https://yiff-party.com/)[![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAA+gAAAEEAQAAAACTwSOZAAAAAnRSTlMAAHaTzTgAAAA2SURBVHja7cEBAQAAAIIg/69uSEABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAwK8Bf/gAAd5Jwp8AAAAASUVORK5CYII=)
 
-![](https://yiff-party.com/wp-content/uploads/2022/12/Yiff-Party-1.6.png)](https://yiff-party.com/)[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201000%20260'%3E%3C/svg%3E)
+![](https://yiff-party.com/wp-content/uploads/2022/12/Yiff-Party-1.6.png)](https://yiff-party.com/)[![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAA+gAAAEEAQAAAACTwSOZAAAAAnRSTlMAAHaTzTgAAAA2SURBVHja7cEBAQAAAIIg/69uSEABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAwK8Bf/gAAd5Jwp8AAAAASUVORK5CYII=)
 
-![](https://yiff-party.com/wp-content/uploads/2022/12/Yiff-Party-1.6.png)](https://yiff-party.com/)[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201000%20260'%3E%3C/svg%3E)
+![](https://yiff-party.com/wp-content/uploads/2022/12/Yiff-Party-1.6.png)](https://yiff-party.com/)[![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAA+gAAAEEAQAAAACTwSOZAAAAAnRSTlMAAHaTzTgAAAA2SURBVHja7cEBAQAAAIIg/69uSEABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAwK8Bf/gAAd5Jwp8AAAAASUVORK5CYII=)
 
 ![](https://yiff-party.com/wp-content/uploads/2022/12/Yiff-Party-1.6.png)](https://yiff-party.com/)
 
@@ -107,7 +107,7 @@ August 24, 2024
 
 [elena and elin (mythology) created by psychorodent](https://yiff-party.com/yiff/elena-and-elin-mythology-created-by-psychorodent/)
 
-0 513 1
+0 519 1
 
 August 24, 2024
 
@@ -115,15 +115,15 @@ August 24, 2024
 
 [created by rabbitbrush](https://yiff-party.com/yiff/created-by-rabbitbrush/)
 
-0 224 1
+0 238 1
 
 September 11, 2024
 
-[](https://yiff-party.com/yiff-ai-premium/diane-foxington-and-mr-wolf-directed-by-master-beaster50/)
+[](https://yiff-party.com/yiff/juno-beastars-created-by-taurika/)
 
-[diane foxington and mr. wolf directed by master beaster50](https://yiff-party.com/yiff-ai-premium/diane-foxington-and-mr-wolf-directed-by-master-beaster50/)
+[juno (beastars) created by taurika](https://yiff-party.com/yiff/juno-beastars-created-by-taurika/)
 
-0 69 0
+0 92 0
 
 August 23, 2024
 
