@@ -1,7 +1,7 @@
 Menu
 
-[![Les 80 ans du Parisien](https://assets.leparisien.fr/website/images/logo-80-ans.png)Les 80 ans du Parisien](https://www.leparisien.fr/80-ans-du-parisien/)
-=============================================================================================================================================================
+[![Les 80 ans du Parisien](https://assets.leparisien.fr/website/images/logo-80-ans.png)Les 80 ans du Parisien](https://www.leparisien.fr/)
+==========================================================================================================================================
 
 Journal
 
@@ -540,9 +540,9 @@ Profitez des avantages de l’offre numérique
 
 [Je m'abonne](#)
 
-![](/pf/resources/images/footer_img_abo_desktop.png?d=731)
+![](/pf/resources/images/footer_img_abo_desktop.png?d=732)
 
-![](/pf/resources/images/footer_img_abo_tablet.png?d=731)
+![](/pf/resources/images/footer_img_abo_tablet.png?d=732)
 
 [Centre Français d’Exploitation du Droit de Copie](http://www.cfcopies.com/contrat-autorisation2/)
 
