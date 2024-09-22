@@ -39,9 +39,9 @@ editorial \_
 
 coverstory \_
 
-[![Trailer-Inspired Tiny House Features an Adorable Built-in Porch](https://s1.cdn.autoevolution.com/images/news/trailer-inspired-tiny-house-features-an-adorable-built-in-porch-240143-5.jpg "Trailer-Inspired Tiny House Features an Adorable Built-in Porch")
+[![Google Maps Now a Waze Killer on Android Auto? Not So Fast](https://s1.cdn.autoevolution.com/images/news/google-maps-now-a-waze-killer-on-android-auto-not-so-fast-240149-5.jpg "Google Maps Now a Waze Killer on Android Auto? Not So Fast")
 
-Trailer-Inspired Tiny House Features an Adorable Built-in Porch](https://www.autoevolution.com/news/trailer-inspired-tiny-house-features-an-adorable-built-in-porch-240143.html)
+Google Maps Now a Waze Killer on Android Auto? Not So Fast](https://www.autoevolution.com/news/google-maps-now-a-waze-killer-on-android-auto-not-so-fast-240149.html)
 
 how-to \_
 
