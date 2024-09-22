@@ -404,9 +404,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ I don’t care that they stole my idea — I care that they don’t have any of their own”
+“ Every kid starts out as a natural-born scientist, and then we beat it out of them. A few trickle through the system with their wonder and enthusiasm for science intact”
 
-[Nikola Tesla](https://en.wikipedia.org/wiki/Nikola_Tesla)
+[Carl Sagan](http://en.wikipedia.org/wiki/Carl_Sagan)
 
 [](https://www.adafruit.com/about)
 
