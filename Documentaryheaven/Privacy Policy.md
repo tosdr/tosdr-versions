@@ -136,31 +136,31 @@ Advertisement
 
 ###### Throwback Documentaries
 
-* [![Chiraq](/wp-content/thumbnails/8576-100x70.png?x53432)
+* [![Patent for a Pig](/wp-content/thumbnails/415-100x70.png?x53432)
     
-    Chiraq
+    Patent for a Pig
     
-    This is an eight part documentary by Vice's music devision, Noisey. They venture to Englewood which is one of the sketchiest areas in Chicago city and hook up with Chief Keef, a famous rapper in the H](https://documentaryheaven.com/chiraq/ "Chiraq")
-* [![Thatcher: Ireland And The Iron Lady](/wp-content/thumbnails/11858-100x70.jpg?x53432)
+    The American biotechnology firm, Monsanto, has applied for a patent for pig breeding in 160 countries. The patent is for specific parts of the genetic material of pigs which Monsanto's genetic researc](https://documentaryheaven.com/patent-for-a-pig/ "Patent for a Pig")
+* [![Dogs Decoded](/wp-content/thumbnails/6542-100x70.png?x53432)
     
-    Thatcher: Ireland And The Iron Lady
+    Dogs Decoded
     
-    During 11 years in power Margaret Thatcher polarised and inspired in equal measure, not only in Britain but also around the world. She helped end the Cold War and was victorious in the Falklands,](https://documentaryheaven.com/thatcher-ireland-iron-lady/ "Thatcher: Ireland And The Iron Lady")
-* [![PT 5/6 Evidence of Revision: The RFK Assassination Continued, MK ULTRA and the Jonestown Massacre](/wp-content/thumbnails/2985-100x70.jpg?x53432)
+    Broadcast (2010) “Dogs Decoded” reveals the science behind the remarkable bond between humans and their dogs and investigates new discoveries in genetics that are illuminating the origin of dogs—with](https://documentaryheaven.com/dogs-decoded/ "Dogs Decoded")
+* [![Africa Addio (Farewell Africa)](/wp-content/thumbnails/2327-100x70.jpg?x53432)
     
-    PT 5/6 Evidence of Revision: The RFK Assassination Continued, MK ULTRA and the Jonestown Massacre
+    Africa Addio (Farewell Africa)
     
-    Evidence of Revision is a 6-DVD, 8 hour long documentary series whose purpose is to present the publicly unavailable and even suppressed historical audio, video, and film recordings largely unseen by](https://documentaryheaven.com/pt-56-evidence-of-revision-the-rfk-assassination-continued-mk-ultra-and-the-jonestown-massacre/ "PT 5/6 Evidence of Revision: The RFK Assassination Continued, MK ULTRA and the Jonestown Massacre")
-* [![Rihanna: Road To Talk That Talk](/wp-content/thumbnails/7669-100x70.jpg?x53432)
+    Africa Addio is an Italian documentary film made in 1966 about the end of the colonial era in Africa. The film was released under the names “Africa Blood and Guts” in the USA (which was only half of t](https://documentaryheaven.com/africa-addio-farewell-africa/ "Africa Addio (Farewell Africa)")
+* [![The Mystery of Chaco Canyon](/wp-content/thumbnails/5819-100x70.jpg?x53432)
     
-    Rihanna: Road To Talk That Talk
+    The Mystery of Chaco Canyon
     
-    Rihanna takes us back back stage as she begins the journey into her latest album ‘Talk That Talk’. The video also takes us back stage on the last day of the LOUD Tour. Whilst visiting her native count](https://documentaryheaven.com/rihanna-road-to-talk-that-talk/ "Rihanna: Road To Talk That Talk")
-* [![The Alaska Pipeline](/wp-content/thumbnails/4914-100x70.jpg?x53432)
+    The Mystery of Chaco Canyon examines the deep enigmas presented by the massive prehistoric remains found in Chaco Canyon in northwestern New Mexico. It is the summation of 20 years of research. The fi](https://documentaryheaven.com/the-mystery-of-chaco-canyon/ "The Mystery of Chaco Canyon")
+* [![UFOs: The Secret Evidence](/wp-content/thumbnails/968-100x70.jpg?x53432)
     
-    The Alaska Pipeline
+    UFOs: The Secret Evidence
     
-    When Atlantic Richfield prospectors struck oil at Prudhoe Bay early in 1968, they stumbled upon the largest oil field ever discovered in North America. Getting that oil out of Alaska would take nine y](https://documentaryheaven.com/the-alaska-pipeline/ "The Alaska Pipeline")
+    A handful of foo fighter sightings could be dismissed as pilot error, but there were hundreds, if not thousands. Could they really just be the hallucinations of tired or terrified men? “Call me Einste](https://documentaryheaven.com/ufos-the-secret-evidence/ "UFOs: The Secret Evidence")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
