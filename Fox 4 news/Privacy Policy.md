@@ -400,35 +400,35 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
- [![Trump campaigns in North Carolina without key GOP ally Mark Robinson amid scandal](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/GettyImages-2166184886.jpg?ve=1&tl=1)
+ [![Fort Worth police officer's attorneys claim 2016 incident is to blame for recent arrest](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/william-martin.jpg?ve=1&tl=1)
 
- ![Trump campaigns in North Carolina without key GOP ally Mark Robinson amid scandal](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/592/333/GettyImages-2166184886.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/trump-campaigns-north-carolina-without-key-gop-ally-mark-robinson-amid-scandal)
+ ![Fort Worth police officer's attorneys claim 2016 incident is to blame for recent arrest](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/592/333/william-martin.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/fort-worth-police-officers-attorneys-claim-2016-incident-is-blame-recent-arrest)
 
-### [Trump campaigns in North Carolina without key GOP ally Mark Robinson amid scandal](https://www.fox4news.com/news/trump-campaigns-north-carolina-without-key-gop-ally-mark-robinson-amid-scandal)
+### [Fort Worth police officer's attorneys claim 2016 incident is to blame for recent arrest](https://www.fox4news.com/news/fort-worth-police-officers-attorneys-claim-2016-incident-is-blame-recent-arrest)
 
- [![Dallas County investigators looking for hit-and-run driver](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/hit-and-run-truck.jpg?ve=1&tl=1)
+ [![Richardson police release video of chase, shooting involving Kaufman County murder suspect](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/Richardson-chase-video_KDFW28b3_146_mxf_00.00.44.24-1.jpg?ve=1&tl=1)
 
- ![Dallas County investigators looking for hit-and-run driver](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/592/333/hit-and-run-truck.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/dallas-county-hit-and-run-i-20-highway-67)
+ ![Richardson police release video of chase, shooting involving Kaufman County murder suspect](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/592/333/Richardson-chase-video_KDFW28b3_146_mxf_00.00.44.24-1.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/richardson-police-chase-dallas-shooting-donald-ingram)
 
-### [Dallas County investigators looking for hit-and-run driver](https://www.fox4news.com/news/dallas-county-hit-and-run-i-20-highway-67)
+### [Richardson police release video of chase, shooting involving Kaufman County murder suspect](https://www.fox4news.com/news/richardson-police-chase-dallas-shooting-donald-ingram)
 
- [![David Graham, ‘Thunderbirds’ and ‘Peppa Pig’ voice actor, dead at 99](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/GettyImages-517555928-a.jpg?ve=1&tl=1)
+ [![Colorado police and community rally to rescue missing teen from storm drain](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/tupac-2.jpg?ve=1&tl=1)
 
- ![David Graham, ‘Thunderbirds’ and ‘Peppa Pig’ voice actor, dead at 99](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/592/333/GettyImages-517555928-a.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/david-graham-thunderbirds-peppa-pig-voice-actor-dead-99)
+ ![Colorado police and community rally to rescue missing teen from storm drain](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/592/333/tupac-2.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/colorado-teen-rescue-storm-drain-community-police)
 
-### [David Graham, ‘Thunderbirds’ and ‘Peppa Pig’ voice actor, dead at 99](https://www.fox4news.com/news/david-graham-thunderbirds-peppa-pig-voice-actor-dead-99)
+### [Colorado police and community rally to rescue missing teen from storm drain](https://www.fox4news.com/news/colorado-teen-rescue-storm-drain-community-police)
 
- [![Terrified passengers evacuate down emergency slides after vape explodes on plane](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/easyjet.jpg?ve=1&tl=1)
+ [![Mansfield shooting: Suspect charged with murder of 17-year-old](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/Elijah-Hatton-mug.png?ve=1&tl=1)
 
- ![Terrified passengers evacuate down emergency slides after vape explodes on plane](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/592/333/easyjet.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/terrified-passengers-evacuate-down-emergency-slides-after-vape-explodes-plane)
+ ![Mansfield shooting: Suspect charged with murder of 17-year-old](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/592/333/Elijah-Hatton-mug.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/mansfield-shooting-elijah-hatton-cutting-horse-drive)
 
-### [Terrified passengers evacuate down emergency slides after vape explodes on plane](https://www.fox4news.com/news/terrified-passengers-evacuate-down-emergency-slides-after-vape-explodes-plane)
+### [Mansfield shooting: Suspect charged with murder of 17-year-old](https://www.fox4news.com/news/mansfield-shooting-elijah-hatton-cutting-horse-drive)
 
- [![Dallas shooting: Victim shoots attacker in Far East Dallas](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/092124-Tres-Logos-LN-KDFWEME002_09_13_28_mpg_00.03.08.44.jpg?ve=1&tl=1)
+ [![Hollywood Hills mansion covered in graffiti, taken over by squatters](https://images.foxtv.com/static.foxla.com/www.foxla.com/content/uploads/2024/09/32/18/Hollywood-Hills-Squatter-Graffiti.jpg?ve=1&tl=1)
 
- ![Dallas shooting: Victim shoots attacker in Far East Dallas](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/592/333/092124-Tres-Logos-LN-KDFWEME002_09_13_28_mpg_00.03.08.44.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/far-east-dallas-shooting-tres-logos-lane)
+ ![Hollywood Hills mansion covered in graffiti, taken over by squatters](https://images.foxtv.com/images.foxtv.com/static.foxla.com/www.foxla.com/content/uploads/2024/09/32/18/592/333/Hollywood-Hills-Squatter-Graffiti.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/hollywood-hills-graffiti-mansion-squatters)
 
-### [Dallas shooting: Victim shoots attacker in Far East Dallas](https://www.fox4news.com/news/far-east-dallas-shooting-tres-logos-lane)
+### [Hollywood Hills mansion covered in graffiti, taken over by squatters](https://www.fox4news.com/news/hollywood-hills-graffiti-mansion-squatters)
 
 ###### [News](https://www.fox4news.com/news)
 
