@@ -61,7 +61,7 @@
 Terms of Service
 ================
 
-Effective date: 01/01/2021 — Last updated: 09/18/2024
+Effective date: 01/01/2021 — Last updated: 09/22/2024
 
 #### **1. Introduction**
 
@@ -229,7 +229,7 @@ Additionally, you agree not to:
 
 Optery uses third-party vendors and service providers to facilitate our Service (“**Service Providers**”). You acknowledge and agree that Optery may use and provide your PII to the following third-party vendors and service providers to monitor, analyze, support, service, report on, secure, market, monetize, improve, and/or provide our Service. Any such third-party vendors and service providers will only be given access to your PII and personal data as is reasonably necessary to monitor, analyze, support, service, report on, secure, market, monetize, improve, and/or provide our Service.
 
-Removals Reports that utilize OpenAI are optional, and you can learn more about [how Optery utilizes AI for generating Removals Reports and how to opt out using Report Preferences](https://help.optery.com/en/article/how-does-optery-utilize-ai-for-generating-removals-reports-and-how-to-opt-out-using-report-preferences-1yxq75z/) on the Optery Help Desk [here](https://help.optery.com/en/article/how-does-optery-utilize-ai-for-generating-removals-reports-and-how-to-opt-out-using-report-preferences-1yxq75z/).
+Removals Reports that utilize OpenAI are optional and must be “opted into” by the customer. You can learn more about [how Optery utilizes AI for generating Removals Reports and how to opt in using Report Preferences](https://help.optery.com/en/article/how-does-ai-processing-work-for-generating-removals-reports-and-how-to-opt-in-1yxq75z/) on the Optery Help Desk [here](https://help.optery.com/en/article/how-does-ai-processing-work-for-generating-removals-reports-and-how-to-opt-in-1yxq75z/).
 
 |     |     |     |     |
 | --- | --- | --- | --- |
@@ -245,7 +245,7 @@ Removals Reports that utilize OpenAI are optional, and you can learn more about 
 | Linkedin | Marketing | USA | [https://www.linkedin.com/legal/privacy-policy](https://www.linkedin.com/legal/privacy-policy) |
 | Mailgun | Customer Analytics | USA | [https://www.mailgun.com/legal/privacy-policy/](https://www.mailgun.com/legal/privacy-policy/) |
 | Meta | Marketing | USA | [https://www.facebook.com/help/109378269482053/](https://www.facebook.com/help/109378269482053/) |
-| OpenAI | Optery Removals Reports | USA | [https://openai.com/security-and-privacy/](https://openai.com/security-and-privacy/)<br><br>and how to opt out of Optery Removals Reports:<br><br>[https://help.optery.com/en/article/how-does-optery-utilize-ai-for-generating-removals-reports-and-how-to-opt-out-using-report-preferences-1yxq75z/](https://help.optery.com/en/article/how-does-optery-utilize-ai-for-generating-removals-reports-and-how-to-opt-out-using-report-preferences-1yxq75z/) |
+| OpenAI | Optery Removals Reports | USA | [https://openai.com/security-and-privacy/](https://openai.com/security-and-privacy/)<br><br>and how to opt in Optery Removals Reports:<br><br>[https://help.optery.com/en/article/how-does-ai-processing-work-for-generating-removals-reports-and-how-to-opt-in-1yxq75z/](https://help.optery.com/en/article/how-does-ai-processing-work-for-generating-removals-reports-and-how-to-opt-in-1yxq75z/) |
 | Profitwell | Revenue Management | USA | [https://security.paddle.com/](https://security.paddle.com/) |
 | Reddit | Marketing | USA | [https://www.reddit.com/policies/privacy-policy](https://www.reddit.com/policies/privacy-policy) |
 | Slack | Internal Communications, Customer Support | USA | [https://slack.com/trust/privacy/privacy-policy](https://slack.com/trust/privacy/privacy-policy) |
