@@ -597,12 +597,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Muttermale selbst entfernen: Ärzte warnen vor Selbst­behand­lung](https://www.test.de/Muttermale-selbst-entfernen-Aerzte-warnen-vor-Selbstbehandlung-6066465-0/ "Muttermale selbst entfernen - Ärzte warnen vor Selbstbehandlung")
-* [Steuer­änderungen 2024: Bundes­rat stimmt für Wachstums­chancengesetz](https://www.test.de/Steueraenderungen-2024-beschlossen-6076655-0/ "Steueränderungen 2024 - Bundesrat stimmt für Wachstumschancengesetz")
-* [Barrierefrei reisen: Urlaub ohne Hinder­nisse](https://www.test.de/Barrierefrei-reisen-Urlaub-ohne-Hindernisse-6024514-0/ "Barrierefrei reisen - Urlaub ohne Hindernisse")
-* [Dividenden von Welt-Aktienfonds: So viel schütten die besten Welt-Fonds aus](https://www.test.de/Dividenden-von-Welt-Aktienfonds-So-viel-schuetten-die-besten-Welt-Fonds-aus-6017222-0/ "Dividenden von Welt-Aktienfonds - So viel schütten die besten Welt-Fonds aus")
-* [Digi­taler Euro: Gefälschte E-Mail mit KfW-Angebot](https://www.test.de/Digitaler-Euro-Gefaelschte-E-Mail-mit-KfW-Angebot-6119446-0/ "Digitaler Euro - Gefälschte E-Mail mit KfW-Angebot")
-* [Energie sparen: Die Stromsparbox ist nutzlos](https://www.test.de/test-warnt-Nutzlose-Stromsparbox-5956815-0/ "Energie sparen - Die Stromsparbox ist nutzlos")
+* [Home­page-Baukästen im Test: Einfach zur eigenen Webseite](https://www.test.de/Hompage-Baukasten-Vergleich-6084895-0/ "Homepage-Baukästen im Test - Einfach zur eigenen Webseite")
+* [Vermögens­aufbau: 5 Börsen­weisheiten im Check](https://www.test.de/Vermoegensaufbau-5-Boersenweisheiten-im-Check-5930197-0/ "Vermögensaufbau - 5 Börsenweisheiten im Check")
+* [Überge­wicht bei Kindern: Kampf den Corona-Pfunden](https://www.test.de/Uebergewicht-bei-Kindern-Kampf-den-Corona-Pfunden-5979072-0/ "Übergewicht bei Kindern - Kampf den Corona-Pfunden")
+* [Hoch­druck­reiniger im Test: Wer ist der beste Moos-Hammer?](https://www.test.de/Hochdruckreiniger-im-Test-Wer-ist-der-beste-Moos-Hammer-6140878-0/ "Hochdruckreiniger im Test - Wer ist der beste Moos-Hammer?")
+* [iBonds-ETF von iShares: Das taugen die Anleihen-ETF mit Fälligkeits­datum](https://www.test.de/iBonds-ETF-von-iShares-Die-ersten-Anleihe-ETF-mit-Faelligkeitsdatum-6041413-0/ "iBonds-ETF von iShares - Das taugen die Anleihen-ETF mit Fälligkeitsdatum")
+* [Riester-Bank­sparpläne: Sparkasse lässt Kunden im Stich](https://www.test.de/Riester-Banksparplaene-Sparkasse-laesst-Kunden-im-Stich-5943759-0/ "Riester-Banksparpläne - Sparkasse lässt Kunden im Stich")
 
 Fußbereich
 
@@ -2737,12 +2737,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Muttermale selbst entfernen: Ärzte warnen vor Selbst­behand­lung](https://www.test.de/Muttermale-selbst-entfernen-Aerzte-warnen-vor-Selbstbehandlung-6066465-0/ "Muttermale selbst entfernen - Ärzte warnen vor Selbstbehandlung")
-* [Steuer­änderungen 2024: Bundes­rat stimmt für Wachstums­chancengesetz](https://www.test.de/Steueraenderungen-2024-beschlossen-6076655-0/ "Steueränderungen 2024 - Bundesrat stimmt für Wachstumschancengesetz")
-* [Barrierefrei reisen: Urlaub ohne Hinder­nisse](https://www.test.de/Barrierefrei-reisen-Urlaub-ohne-Hindernisse-6024514-0/ "Barrierefrei reisen - Urlaub ohne Hindernisse")
-* [Dividenden von Welt-Aktienfonds: So viel schütten die besten Welt-Fonds aus](https://www.test.de/Dividenden-von-Welt-Aktienfonds-So-viel-schuetten-die-besten-Welt-Fonds-aus-6017222-0/ "Dividenden von Welt-Aktienfonds - So viel schütten die besten Welt-Fonds aus")
-* [Digi­taler Euro: Gefälschte E-Mail mit KfW-Angebot](https://www.test.de/Digitaler-Euro-Gefaelschte-E-Mail-mit-KfW-Angebot-6119446-0/ "Digitaler Euro - Gefälschte E-Mail mit KfW-Angebot")
-* [Energie sparen: Die Stromsparbox ist nutzlos](https://www.test.de/test-warnt-Nutzlose-Stromsparbox-5956815-0/ "Energie sparen - Die Stromsparbox ist nutzlos")
+* [Home­page-Baukästen im Test: Einfach zur eigenen Webseite](https://www.test.de/Hompage-Baukasten-Vergleich-6084895-0/ "Homepage-Baukästen im Test - Einfach zur eigenen Webseite")
+* [Vermögens­aufbau: 5 Börsen­weisheiten im Check](https://www.test.de/Vermoegensaufbau-5-Boersenweisheiten-im-Check-5930197-0/ "Vermögensaufbau - 5 Börsenweisheiten im Check")
+* [Überge­wicht bei Kindern: Kampf den Corona-Pfunden](https://www.test.de/Uebergewicht-bei-Kindern-Kampf-den-Corona-Pfunden-5979072-0/ "Übergewicht bei Kindern - Kampf den Corona-Pfunden")
+* [Hoch­druck­reiniger im Test: Wer ist der beste Moos-Hammer?](https://www.test.de/Hochdruckreiniger-im-Test-Wer-ist-der-beste-Moos-Hammer-6140878-0/ "Hochdruckreiniger im Test - Wer ist der beste Moos-Hammer?")
+* [iBonds-ETF von iShares: Das taugen die Anleihen-ETF mit Fälligkeits­datum](https://www.test.de/iBonds-ETF-von-iShares-Die-ersten-Anleihe-ETF-mit-Faelligkeitsdatum-6041413-0/ "iBonds-ETF von iShares - Das taugen die Anleihen-ETF mit Fälligkeitsdatum")
+* [Riester-Bank­sparpläne: Sparkasse lässt Kunden im Stich](https://www.test.de/Riester-Banksparplaene-Sparkasse-laesst-Kunden-im-Stich-5943759-0/ "Riester-Banksparpläne - Sparkasse lässt Kunden im Stich")
 
 Jetzt anmelden und 10% Rabatt auf die test.de-Flatrate im ersten Jahr erhalten!
 
@@ -2795,12 +2795,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Muttermale selbst entfernen: Ärzte warnen vor Selbst­behand­lung](https://www.test.de/Muttermale-selbst-entfernen-Aerzte-warnen-vor-Selbstbehandlung-6066465-0/ "Muttermale selbst entfernen - Ärzte warnen vor Selbstbehandlung")
-* [Steuer­änderungen 2024: Bundes­rat stimmt für Wachstums­chancengesetz](https://www.test.de/Steueraenderungen-2024-beschlossen-6076655-0/ "Steueränderungen 2024 - Bundesrat stimmt für Wachstumschancengesetz")
-* [Barrierefrei reisen: Urlaub ohne Hinder­nisse](https://www.test.de/Barrierefrei-reisen-Urlaub-ohne-Hindernisse-6024514-0/ "Barrierefrei reisen - Urlaub ohne Hindernisse")
-* [Dividenden von Welt-Aktienfonds: So viel schütten die besten Welt-Fonds aus](https://www.test.de/Dividenden-von-Welt-Aktienfonds-So-viel-schuetten-die-besten-Welt-Fonds-aus-6017222-0/ "Dividenden von Welt-Aktienfonds - So viel schütten die besten Welt-Fonds aus")
-* [Digi­taler Euro: Gefälschte E-Mail mit KfW-Angebot](https://www.test.de/Digitaler-Euro-Gefaelschte-E-Mail-mit-KfW-Angebot-6119446-0/ "Digitaler Euro - Gefälschte E-Mail mit KfW-Angebot")
-* [Energie sparen: Die Stromsparbox ist nutzlos](https://www.test.de/test-warnt-Nutzlose-Stromsparbox-5956815-0/ "Energie sparen - Die Stromsparbox ist nutzlos")
+* [Home­page-Baukästen im Test: Einfach zur eigenen Webseite](https://www.test.de/Hompage-Baukasten-Vergleich-6084895-0/ "Homepage-Baukästen im Test - Einfach zur eigenen Webseite")
+* [Vermögens­aufbau: 5 Börsen­weisheiten im Check](https://www.test.de/Vermoegensaufbau-5-Boersenweisheiten-im-Check-5930197-0/ "Vermögensaufbau - 5 Börsenweisheiten im Check")
+* [Überge­wicht bei Kindern: Kampf den Corona-Pfunden](https://www.test.de/Uebergewicht-bei-Kindern-Kampf-den-Corona-Pfunden-5979072-0/ "Übergewicht bei Kindern - Kampf den Corona-Pfunden")
+* [Hoch­druck­reiniger im Test: Wer ist der beste Moos-Hammer?](https://www.test.de/Hochdruckreiniger-im-Test-Wer-ist-der-beste-Moos-Hammer-6140878-0/ "Hochdruckreiniger im Test - Wer ist der beste Moos-Hammer?")
+* [iBonds-ETF von iShares: Das taugen die Anleihen-ETF mit Fälligkeits­datum](https://www.test.de/iBonds-ETF-von-iShares-Die-ersten-Anleihe-ETF-mit-Faelligkeitsdatum-6041413-0/ "iBonds-ETF von iShares - Das taugen die Anleihen-ETF mit Fälligkeitsdatum")
+* [Riester-Bank­sparpläne: Sparkasse lässt Kunden im Stich](https://www.test.de/Riester-Banksparplaene-Sparkasse-laesst-Kunden-im-Stich-5943759-0/ "Riester-Banksparpläne - Sparkasse lässt Kunden im Stich")
 
 Neueste Tests
 
@@ -2813,12 +2813,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Muttermale selbst entfernen: Ärzte warnen vor Selbst­behand­lung](https://www.test.de/Muttermale-selbst-entfernen-Aerzte-warnen-vor-Selbstbehandlung-6066465-0/ "Muttermale selbst entfernen - Ärzte warnen vor Selbstbehandlung")
-* [Steuer­änderungen 2024: Bundes­rat stimmt für Wachstums­chancengesetz](https://www.test.de/Steueraenderungen-2024-beschlossen-6076655-0/ "Steueränderungen 2024 - Bundesrat stimmt für Wachstumschancengesetz")
-* [Barrierefrei reisen: Urlaub ohne Hinder­nisse](https://www.test.de/Barrierefrei-reisen-Urlaub-ohne-Hindernisse-6024514-0/ "Barrierefrei reisen - Urlaub ohne Hindernisse")
-* [Dividenden von Welt-Aktienfonds: So viel schütten die besten Welt-Fonds aus](https://www.test.de/Dividenden-von-Welt-Aktienfonds-So-viel-schuetten-die-besten-Welt-Fonds-aus-6017222-0/ "Dividenden von Welt-Aktienfonds - So viel schütten die besten Welt-Fonds aus")
-* [Digi­taler Euro: Gefälschte E-Mail mit KfW-Angebot](https://www.test.de/Digitaler-Euro-Gefaelschte-E-Mail-mit-KfW-Angebot-6119446-0/ "Digitaler Euro - Gefälschte E-Mail mit KfW-Angebot")
-* [Energie sparen: Die Stromsparbox ist nutzlos](https://www.test.de/test-warnt-Nutzlose-Stromsparbox-5956815-0/ "Energie sparen - Die Stromsparbox ist nutzlos")
+* [Home­page-Baukästen im Test: Einfach zur eigenen Webseite](https://www.test.de/Hompage-Baukasten-Vergleich-6084895-0/ "Homepage-Baukästen im Test - Einfach zur eigenen Webseite")
+* [Vermögens­aufbau: 5 Börsen­weisheiten im Check](https://www.test.de/Vermoegensaufbau-5-Boersenweisheiten-im-Check-5930197-0/ "Vermögensaufbau - 5 Börsenweisheiten im Check")
+* [Überge­wicht bei Kindern: Kampf den Corona-Pfunden](https://www.test.de/Uebergewicht-bei-Kindern-Kampf-den-Corona-Pfunden-5979072-0/ "Übergewicht bei Kindern - Kampf den Corona-Pfunden")
+* [Hoch­druck­reiniger im Test: Wer ist der beste Moos-Hammer?](https://www.test.de/Hochdruckreiniger-im-Test-Wer-ist-der-beste-Moos-Hammer-6140878-0/ "Hochdruckreiniger im Test - Wer ist der beste Moos-Hammer?")
+* [iBonds-ETF von iShares: Das taugen die Anleihen-ETF mit Fälligkeits­datum](https://www.test.de/iBonds-ETF-von-iShares-Die-ersten-Anleihe-ETF-mit-Faelligkeitsdatum-6041413-0/ "iBonds-ETF von iShares - Das taugen die Anleihen-ETF mit Fälligkeitsdatum")
+* [Riester-Bank­sparpläne: Sparkasse lässt Kunden im Stich](https://www.test.de/Riester-Banksparplaene-Sparkasse-laesst-Kunden-im-Stich-5943759-0/ "Riester-Banksparpläne - Sparkasse lässt Kunden im Stich")
 
 Service Stiftung Warentest
 
