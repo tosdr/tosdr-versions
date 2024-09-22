@@ -26,31 +26,31 @@ Search for:
 
 ### [TOP STORIES](https://www.commdiginews.com/category/top-stories/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-vance-carlson-1200x630.jpg)](https://americanwirenews.com/tucker-asks-j-d-vance-if-a-trump-victory-would-be-accepted-thats-what-worries-me/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-kamala-phony-1200x630.png)](https://americanwirenews.com/kamala-harris-to-skip-traditional-al-smith-dinner-in-rare-snub-by-major-candidate/)
 
-[Tucker asks J.D. Vance if a Trump victory would be accepted: ‘That’s what worries me’](https://americanwirenews.com/tucker-asks-j-d-vance-if-a-trump-victory-would-be-accepted-thats-what-worries-me/)
+[Kamala Harris to skip traditional Al Smith Dinner in rare snub by major candidate](https://americanwirenews.com/kamala-harris-to-skip-traditional-al-smith-dinner-in-rare-snub-by-major-candidate/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-cnnpanel2-1200-x-628-1200x630.jpg)](https://americanwirenews.com/cnn-panel-goes-off-the-rails-when-jennings-points-out-dems-are-top-source-of-anti-semitism/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-irs-kamala-split-1200-x-628-1200x630.jpg)](https://americanwirenews.com/irs-union-joins-with-putin-dick-cheney-in-endorsing-kamala-for-president/)
 
-[CNN panel goes off the rails when Jennings points out Dems are top source of anti-Semitism](https://americanwirenews.com/cnn-panel-goes-off-the-rails-when-jennings-points-out-dems-are-top-source-of-anti-semitism/)
+[IRS union joins with Putin, Dick Cheney in endorsing Kamala for president](https://americanwirenews.com/irs-union-joins-with-putin-dick-cheney-in-endorsing-kamala-for-president/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/rf-pexels-star-of-david-1200x630.jpg)](https://americanwirenews.com/attack-on-michigan-teen-investigated-as-hate-crime-after-suspects-allegedly-asked-if-he-was-jewish/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-lizideasfest-1200-x-628-1200x630.jpg)](https://americanwirenews.com/malicious-actor-liz-cheney-says-new-conservative-party-may-be-in-the-offing/)
 
-[Attack on Michigan teen investigated as hate crime after suspects allegedly asked if he was Jewish](https://americanwirenews.com/attack-on-michigan-teen-investigated-as-hate-crime-after-suspects-allegedly-asked-if-he-was-jewish/)
+[Malicious actor Liz Cheney says new ‘conservative’ party may be in the offing](https://americanwirenews.com/malicious-actor-liz-cheney-says-new-conservative-party-may-be-in-the-offing/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/rf-sg-hubbart-placement-1200x630.jpg)](https://americanwirenews.com/pillowcase-rapist-who-admitted-to-over-100-assaults-set-to-be-released-in-blue-state/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-trump-5-1200x630.jpg)](https://americanwirenews.com/didnt-know-what-the-hell-to-do-trump-says-oprah-was-embarrassed-for-kamala-harris/)
 
-Image via Los Angeles County Sheriff's Department
+[‘Didn’t know what the hell to do!’ Trump says Oprah was ‘embarrassed’ for Kamala Harris](https://americanwirenews.com/didnt-know-what-the-hell-to-do-trump-says-oprah-was-embarrassed-for-kamala-harris/)
 
-[‘Pillowcase rapist’ who admitted to over 100 assaults set to be released in blue state](https://americanwirenews.com/pillowcase-rapist-who-admitted-to-over-100-assaults-set-to-be-released-in-blue-state/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/getty-trumps-1200x630.jpg)](https://americanwirenews.com/trump-worried-about-his-familys-safety-after-failed-attempts-to-take-him-out-faults-dem-rhetoric/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/gw-criminal-alien-being-removed-1200x630.jpg)](https://americanwirenews.com/recent-study-finds-mass-deportations-would-actually-help-us-deficit/)
+(Photo by Leon Neal/Getty Images)
 
-[Recent study finds mass deportations would actually help US deficit](https://americanwirenews.com/recent-study-finds-mass-deportations-would-actually-help-us-deficit/)
+[Trump worried about his family’s safety after failed attempts to take him out – faults Dem rhetoric](https://americanwirenews.com/trump-worried-about-his-familys-safety-after-failed-attempts-to-take-him-out-faults-dem-rhetoric/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-michael-eric-dyson-sg-nancy-mace-1200x630.jpg)](https://americanwirenews.com/mace-exposes-professors-flirtatious-messages-following-heated-cnn-panel-gets-accused-of-white-womens-tears/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-musk-harris-split-1200-x-628-1200x630.jpg)](https://americanwirenews.com/elon-musk-nation-will-be-far-worse-than-california-if-machine-behind-the-kamala-puppet-wins-election/)
 
-[Mace exposes professors’ flirtatious messages following heated CNN panel, gets accused of ‘white women’s tears’](https://americanwirenews.com/mace-exposes-professors-flirtatious-messages-following-heated-cnn-panel-gets-accused-of-white-womens-tears/)
+[Elon Musk: Nation ‘will be far worse than California’ if ‘machine behind the Kamala puppet wins election’](https://americanwirenews.com/elon-musk-nation-will-be-far-worse-than-california-if-machine-behind-the-kamala-puppet-wins-election/)
 
 [![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-rfk-nuzzi-lizza-1200x630.jpg)](https://americanwirenews.com/nuzzis-ex-fiance-will-no-longer-cover-rfk-jr-for-politico-over-personal-relationship-rumors/)
 
@@ -62,9 +62,9 @@ Getty Images
 
 [Russia’s population crisis so dire, people are encouraged to get frisky at work](https://americanwirenews.com/russias-population-crisis-so-dire-people-are-encouraged-to-get-frisky-at-work/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-harris-adviser-1200x630.jpg)
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-trump-harris-1-1200x630.jpg)
 
-### Harris adviser reveals the reason VP hasn’t been sitting for more interviews: ‘Always ready with excuses’](https://americanwirenews.com/harris-adviser-reveals-the-reason-vp-hasnt-been-sitting-for-more-interviews-always-ready-with-excuses/)
+### Trump rejects second Kamala debate on CNN: ‘She’s had her chance to do it with Fox’](https://americanwirenews.com/trump-rejects-second-kamala-debate-on-cnn-shes-had-her-chance-to-do-it-with-fox/)
 
 [THE WIRE...](https://americanwirenews.com/category/the-wire/)
 
