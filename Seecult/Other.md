@@ -322,11 +322,11 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 
 [Galerija umetnika](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")[](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/galerija-talenata/godisnja-izlozba-studenata-flu-beograd-2009/2010/tijana-petrovic-raguz.jpg?itok=r_RjUj4Q)](http://seecult.org/galerija/galerija-umetnika/galerija-talenata/godisnja-izlozba-studenata-flu-beograd-20092010)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/manik/museum-beginners/05museum-fantasme.jpg?itok=2-tGS2-n)](http://seecult.org/galerija/galerija-umetnika/manik/museum-beginners)
 
 [Foto galerija](http://seecult.org/galerija/foto-galerija "Foto galerija")[](http://seecult.org/galerija/foto-galerija "Foto galerija")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/crncevic.jpg?itok=t4CBWQ-S)](http://seecult.org/galerija/foto-galerija/foto-arhiva)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/26-skopje-jazz-festival/huan-carmona3.jpg?itok=yKavHv-1)](http://seecult.org/galerija/foto-galerija/foto-arhiva/26-skopje-jazz-festival)
 
 * [Najčitanije](#news_1)
 * [Najnovije](#news_2)
