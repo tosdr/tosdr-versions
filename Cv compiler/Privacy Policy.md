@@ -1783,6 +1783,8 @@ What do top resumes look like? Check out these expertly-written samples:
 
 [Entry-Level Medical Device Sales](https://cvcompiler.com/entry-level-medical-device-sales-resume-examples)
 
+[Creative Project Manager](https://cvcompiler.com/creative-project-manager-resume-examples)
+
 ![Upload resume illustration](uploads-pre-acq/img/upload-illustration.svg)
 
 ### Upload  
