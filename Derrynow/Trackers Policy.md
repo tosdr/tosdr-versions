@@ -266,19 +266,37 @@ Most Popular
 [Derry Death Notices - Sunday, 22nd September 2024](https://www.derrynow.com/news/deaths/1610381/derry-death-notices-sunday-22nd-september-2024.html)
 -----------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Foyle Memory Walk to raise funds for Alzheimer's charity](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Foyle Memory Walk to raise funds for Alzheimer's charity")](https://www.derrynow.com/news/local-news/1609940/foyle-memory-walk-to-raise-funds-for-alzheimer-s-charity.html)
+[![Banagher](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Banagher")](https://www.derrynow.com/news/derry-sport/1611171/late-ciaran-lynch-goal-gives-banagher-the-win-over-drumsurn.html)
+
+Banagher picked up a late victory over Drumsurn. Pic by Sideline Photography
+
+[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
+
+[Late Ciaran Lynch goal gives Banagher the win over Drumsurn](https://www.derrynow.com/news/derry-sport/1611171/late-ciaran-lynch-goal-gives-banagher-the-win-over-drumsurn.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Institute](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Institute")](https://www.derrynow.com/news/derry-sport/1611150/biggest-win-in-a-year-institute-hammer-newington-at-the-brandywell.html)
+
+Padraig Lynch and Michael Harris were both on the score sheet for Institute Pic by Tom Heaney, nwpresspics
+
+[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
+
+[Biggest win in a year! Institute hammer Newington at the Brandywell](https://www.derrynow.com/news/derry-sport/1611150/biggest-win-in-a-year-institute-hammer-newington-at-the-brandywell.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[!['Connecting Communities – Linking BT47' project in Derry celebrates financial boost](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "'Connecting Communities – Linking BT47' project in Derry celebrates financial boost")](https://www.derrynow.com/news/local-news/1610262/connecting-communities-linking-bt47-project-in-derry-celebrates-financial-boost.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[Foyle Memory Walk to raise funds for Alzheimer's charity](https://www.derrynow.com/news/local-news/1609940/foyle-memory-walk-to-raise-funds-for-alzheimer-s-charity.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Orangemen parade passes by Ardoyne without incident as residents stage protest](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Orangemen parade passes by Ardoyne without incident as residents stage protest")](https://www.derrynow.com/news/northern-ireland/1610659/orangemen-parade-passes-by-ardoyne-without-incident-as-residents-stage-protest.html)
-
-[Northern Ireland](https://www.derrynow.com/section/997/cookie-policy)
-
-[Orangemen parade passes by Ardoyne without incident as residents stage protest](https://www.derrynow.com/news/northern-ireland/1610659/orangemen-parade-passes-by-ardoyne-without-incident-as-residents-stage-protest.html)
+['Connecting Communities – Linking BT47' project in Derry celebrates financial boost](https://www.derrynow.com/news/local-news/1610262/connecting-communities-linking-bt47-project-in-derry-celebrates-financial-boost.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Loughs Agency’s Education Team making waves this summer](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Loughs Agency’s Education Team making waves this summer")](https://www.derrynow.com/news/local-news/1609339/loughs-agencys-education-team-making-waves-in-foyle-this-summer.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Loughs Agency’s Education Team making waves in Foyle this summer](https://www.derrynow.com/news/local-news/1609339/loughs-agencys-education-team-making-waves-in-foyle-this-summer.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Gavin Robinson hits out at Labour Government in speech to DUP conference](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Gavin Robinson hits out at Labour Government in speech to DUP conference")](https://www.derrynow.com/news/northern-ireland/1610737/gavin-robinson-hits-out-at-labour-government-in-speech-to-dup-conference.html)
 
@@ -287,25 +305,38 @@ Most Popular
 [Gavin Robinson hits out at Labour Government in speech to DUP conference](https://www.derrynow.com/news/northern-ireland/1610737/gavin-robinson-hits-out-at-labour-government-in-speech-to-dup-conference.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![MacD on Music: Three Miles High](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "MacD on Music: Three Miles High")](https://www.derrynow.com/news/what-s-on/1610379/macd-on-music-three-miles-high.html)
+[![Maynooth Community Church is officially opened](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Maynooth Community Church is officially opened")](https://www.derrynow.com/news/local-news/1611213/historic-day-as-maynooth-community-church-is-officially-opened.html)
 
-[What's On](https://www.derrynow.com/section/1058/what-s-on)
+Members of the congregation of Maynooth Community Church, one of Presbyterian Church in Ireland’s 500-plus congregations, and guests
 
-[MacD on Music: Three Miles High](https://www.derrynow.com/news/what-s-on/1610379/macd-on-music-three-miles-high.html)
-----------------------------------------------------------------------------------------------------------------------
+[Local News](https://www.derrynow.com/section/975/news)
 
-[![Police investigate arson at commercial yard in Co Down](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Police investigate arson at commercial yard in Co Down")](https://www.derrynow.com/news/northern-ireland/1610684/police-investigate-arson-at-commercial-yard-in-co-down.html)
+[Historic day as Maynooth Community Church is officially opened](https://www.derrynow.com/news/local-news/1611213/historic-day-as-maynooth-community-church-is-officially-opened.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[Northern Ireland](https://www.derrynow.com/section/997/cookie-policy)
+[![Derry City](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry City")](https://www.derrynow.com/news/pictures---videos/1611174/in-pictures-derry-city-fans-enjoy-night-of-late-drama-at-the-brandywell.html)
 
-[Police investigate arson at commercial yard in Co Down](https://www.derrynow.com/news/northern-ireland/1610684/police-investigate-arson-at-commercial-yard-in-co-down.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Derry City fans at the Brandywell. Pics by nwpresspics
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[IN PICTURES: Derry City fans enjoy night of late drama at the Brandywell](https://www.derrynow.com/news/pictures---videos/1611174/in-pictures-derry-city-fans-enjoy-night-of-late-drama-at-the-brandywell.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
 Advertise with Us
 
 Multimedia
+
+[![Derry City](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry City")](https://www.derrynow.com/news/pictures---videos/1611174/in-pictures-derry-city-fans-enjoy-night-of-late-drama-at-the-brandywell.html)
+
+Derry City fans at the Brandywell. Pics by nwpresspics
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[IN PICTURES: Derry City fans enjoy night of late drama at the Brandywell](https://www.derrynow.com/news/pictures---videos/1611174/in-pictures-derry-city-fans-enjoy-night-of-late-drama-at-the-brandywell.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![PICTURES: See inside this superb Derry property for sale](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PICTURES: See inside this superb Derry property for sale")](https://www.derrynow.com/news/property/1609882/pictures-see-inside-this-superb-derry-property-for-sale.html)
 
@@ -373,15 +404,6 @@ IN PICTURES: Great day out at Quirky Corner Sustainable Fashion Fest
 
 [IN PICTURES: Great day out at Quirky Corner Sustainable Fashion Fest](https://www.derrynow.com/story-telling/pictures---videos/1606217/in-pictures-great-day-out-at-quirky-corner-sustainable-fashion-fest.html)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![IN PICTURES: Fantastic day for community in Derry with One World Festival](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Fantastic day for community in Derry with One World Festival")](https://www.derrynow.com/story-telling/pictures---videos/1606239/in-pictures-fantastic-day-for-community-in-derry-with-one-world-festival.html)
-
-IN PICTURES: Fantastic day for community in Derry with One World Festival
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[IN PICTURES: Fantastic day for community in Derry with One World Festival](https://www.derrynow.com/story-telling/pictures---videos/1606239/in-pictures-fantastic-day-for-community-in-derry-with-one-world-festival.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
@@ -483,49 +505,53 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
-[![Derry Death Notices - Sunday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Sunday")](https://www.derrynow.com/news/deaths/1610381/derry-death-notices-sunday-22nd-september-2024.html)
+[![Maynooth Community Church is officially opened](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Maynooth Community Church is officially opened")](https://www.derrynow.com/news/local-news/1611213/historic-day-as-maynooth-community-church-is-officially-opened.html)
+
+Members of the congregation of Maynooth Community Church, one of Presbyterian Church in Ireland’s 500-plus congregations, and guests
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Historic day as Maynooth Community Church is officially opened](https://www.derrynow.com/news/local-news/1611213/historic-day-as-maynooth-community-church-is-officially-opened.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[!['Connecting Communities – Linking BT47' project in Derry celebrates financial boost](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "'Connecting Communities – Linking BT47' project in Derry celebrates financial boost")](https://www.derrynow.com/news/local-news/1610262/connecting-communities-linking-bt47-project-in-derry-celebrates-financial-boost.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+['Connecting Communities – Linking BT47' project in Derry celebrates financial boost](https://www.derrynow.com/news/local-news/1610262/connecting-communities-linking-bt47-project-in-derry-celebrates-financial-boost.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Banagher](https://www.derrynow.com/resizer/165/93/true/2024_09_22/Banagher_V_DrumsurnB_V_D_0771_copy-1726995345039.jpg--.jpg?1726995346997 "Banagher")](https://www.derrynow.com/news/derry-sport/1611171/late-ciaran-lynch-goal-gives-banagher-the-win-over-drumsurn.html)
+
+Banagher picked up a late victory over Drumsurn. Pic by Sideline Photography
+
+[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
+
+[Late Ciaran Lynch goal gives Banagher the win over Drumsurn](https://www.derrynow.com/news/derry-sport/1611171/late-ciaran-lynch-goal-gives-banagher-the-win-over-drumsurn.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Institute](https://www.derrynow.com/resizer/165/93/true/2024_09_22/Institute_v_Newington_8-1726993618441.jpg--.jpg?1726993618910 "Institute")](https://www.derrynow.com/news/derry-sport/1611150/biggest-win-in-a-year-institute-hammer-newington-at-the-brandywell.html)
+
+Padraig Lynch and Michael Harris were both on the score sheet for Institute Pic by Tom Heaney, nwpresspics
+
+[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
+
+[Biggest win in a year! Institute hammer Newington at the Brandywell](https://www.derrynow.com/news/derry-sport/1611150/biggest-win-in-a-year-institute-hammer-newington-at-the-brandywell.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Loughs Agency’s Education Team making waves this summer](https://www.derrynow.com/resizer/165/93/true/2024_09_19/image003-1726759354498.jpg--.jpg?1726759354999 "Loughs Agency’s Education Team making waves this summer")](https://www.derrynow.com/news/local-news/1609339/loughs-agencys-education-team-making-waves-in-foyle-this-summer.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Loughs Agency’s Education Team making waves in Foyle this summer](https://www.derrynow.com/news/local-news/1609339/loughs-agencys-education-team-making-waves-in-foyle-this-summer.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Derry Death Notices - Sunday](https://www.derrynow.com/resizer/165/93/true/2023_09_21/Derry_Deaths_%2811%29-1695307374487.jpg--.jpg?1695307374613 "Derry Death Notices - Sunday")](https://www.derrynow.com/news/deaths/1610381/derry-death-notices-sunday-22nd-september-2024.html)
 
 [Deaths](https://www.derrynow.com/section/977/deaths)
 
 [Derry Death Notices - Sunday, 22nd September 2024](https://www.derrynow.com/news/deaths/1610381/derry-death-notices-sunday-22nd-september-2024.html)
 -----------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![MacD on Music: Three Miles High](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "MacD on Music: Three Miles High")](https://www.derrynow.com/news/what-s-on/1610379/macd-on-music-three-miles-high.html)
-
-[What's On](https://www.derrynow.com/section/1058/what-s-on)
-
-[MacD on Music: Three Miles High](https://www.derrynow.com/news/what-s-on/1610379/macd-on-music-three-miles-high.html)
-----------------------------------------------------------------------------------------------------------------------
-
-[![Foyle Memory Walk to raise funds for Alzheimer's charity](https://www.derrynow.com/resizer/165/93/true/2023_09_15/memory_walk-1694771959550.jpg--.jpg?1694771959628 "Foyle Memory Walk to raise funds for Alzheimer's charity")](https://www.derrynow.com/news/local-news/1609940/foyle-memory-walk-to-raise-funds-for-alzheimer-s-charity.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Foyle Memory Walk to raise funds for Alzheimer's charity](https://www.derrynow.com/news/local-news/1609940/foyle-memory-walk-to-raise-funds-for-alzheimer-s-charity.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry Death Notices -Saturday](https://www.derrynow.com/resizer/165/93/true/2023_09_21/Derry_Deaths_%285%29-1695307343689.jpg--.jpg?1695307343746 "Derry Death Notices -Saturday")](https://www.derrynow.com/news/deaths/1610380/derry-death-notices-saturday-21st-september-2024.html)
-
-[Deaths](https://www.derrynow.com/section/977/deaths)
-
-[Derry Death Notices - Saturday, 21st September 2024](https://www.derrynow.com/news/deaths/1610380/derry-death-notices-saturday-21st-september-2024.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry City](https://www.derrynow.com/resizer/165/93/true/2024_09_20/2944007-1726865524612.jpg--.jpg?1726865526474 "Derry City")](https://www.derrynow.com/news/derry-sport/1610515/late-drama-at-the-brandywell-as-pat-hoban-rescues-derry-city-from-the-penalty-spot.html)
-
-Paul McMullan challenges for the ball. Pic by Sportsfile
-
-[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
-
-[Late drama at the Brandywell as Pat Hoban rescues Derry City from the penalty spot](https://www.derrynow.com/news/derry-sport/1610515/late-drama-at-the-brandywell-as-pat-hoban-rescues-derry-city-from-the-penalty-spot.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Durkan calls for support for Foyle Street Businesses impacted by road closure disruption](https://www.derrynow.com/resizer/165/93/true/1591634133373.jpg--.jpg?1591634133000 "Durkan calls for support for Foyle Street Businesses impacted by road closure disruption")](https://www.derrynow.com/news/derry-news/1610266/durkan-calls-for-support-for-foyle-street-businesses-impacted-by-road-closure-disruption.html)
-
-[Derry News](https://www.derrynow.com/section/999/derry-news)
-
-[Durkan calls for support for Foyle Street Businesses impacted by road closure disruption](https://www.derrynow.com/news/derry-news/1610266/durkan-calls-for-support-for-foyle-street-businesses-impacted-by-road-closure-disruption.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
