@@ -2,17 +2,11 @@
 
 [](https://buypiezano.com/Home)
 
-The Authentic Countertop Pizza Oven With Real Ceramic Stone!
-============================================================
+Make Gourmet Crispy Delicious
 
-[order now!](https://buypiezano.com/checkout/8e35bf/step1?m=342005135824340106)
+Pizza in Just 6 Minutes!
 
-[](https://buypiezano.com/Home)
-
-The Authentic Countertop Pizza Oven With Real Ceramic Stone!
-============================================================
-
-[order now!](https://buypiezano.com/checkout/8e35bf/step1?m=342005135824340106)
+[order now!](https://buypiezano.com/checkout/8e35bf/step1?m=342001216846017382)
 
 Privacy Policy
 
