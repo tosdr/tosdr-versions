@@ -400,35 +400,35 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
- [![Dallas Cowboys-Baltimore Ravens: How to watch, stream, things to look for in Week 3](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/GettyImages-2172417392.jpg?ve=1&tl=1)
+ [![Sanders connects with Wester on Hail Mary in regulation, Colorado beats Baylor 38-31 in overtime](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/GettyImages-2173619945.jpg?ve=1&tl=1)
 
- ![Dallas Cowboys-Baltimore Ravens: How to watch, stream, things to look for in Week 3](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/592/333/GettyImages-2172417392.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/sports/dallas-cowboys-baltimore-ravens-how-to-watch-stream-predictions)
+ ![Sanders connects with Wester on Hail Mary in regulation, Colorado beats Baylor 38-31 in overtime](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/592/333/GettyImages-2173619945.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/sports/sanders-connects-wester-hail-mary-regulation-colorado-beats-baylor-38-31-overtime)
 
-### [Dallas Cowboys-Baltimore Ravens: How to watch, stream, things to look for in Week 3](https://www.fox4news.com/sports/dallas-cowboys-baltimore-ravens-how-to-watch-stream-predictions)
+### [Sanders connects with Wester on Hail Mary in regulation, Colorado beats Baylor 38-31 in overtime](https://www.fox4news.com/sports/sanders-connects-wester-hail-mary-regulation-colorado-beats-baylor-38-31-overtime)
 
- [![Birmingham mass shooting: 4 dead, 18 injured in entertainment district crossfire](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/alabamashooting.jpg?ve=1&tl=1)
+ [![Josh Heupel wins in return to Oklahoma as No. 6 Tennessee tops the Sooners 25-15](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/GettyImages-2172820040.jpg?ve=1&tl=1)
 
- ![Birmingham mass shooting: 4 dead, 18 injured in entertainment district crossfire](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/592/333/alabamashooting.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/birmingham-alabama-shooting)
+ ![Josh Heupel wins in return to Oklahoma as No. 6 Tennessee tops the Sooners 25-15](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/592/333/GettyImages-2172820040.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/sports/josh-heupel-wins-return-oklahoma-no-6-tennessee-tops-sooners-25-15)
 
-### [Birmingham mass shooting: 4 dead, 18 injured in entertainment district crossfire](https://www.fox4news.com/news/birmingham-alabama-shooting)
+### [Josh Heupel wins in return to Oklahoma as No. 6 Tennessee tops the Sooners 25-15](https://www.fox4news.com/sports/josh-heupel-wins-return-oklahoma-no-6-tennessee-tops-sooners-25-15)
 
- [![1st day of fall 2024: What is the autumnal equinox and when is it?](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/GettyImages-2170927749.jpg?ve=1&tl=1)
+ [![McGill, Morris lead North Texas to 44-17 trouncing over Wyoming](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/GettyImages-2172831113.jpg?ve=1&tl=1)
 
- ![1st day of fall 2024: What is the autumnal equinox and when is it?](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/592/333/GettyImages-2170927749.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/1st-day-fall-2024-what-is-autumnal-equinox-when-is-it)
+ ![McGill, Morris lead North Texas to 44-17 trouncing over Wyoming](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/592/333/GettyImages-2172831113.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/sports/mcgill-morris-lead-north-texas-44-17-trouncing-over-wyoming)
 
-### [1st day of fall 2024: What is the autumnal equinox and when is it?](https://www.fox4news.com/news/1st-day-fall-2024-what-is-autumnal-equinox-when-is-it)
+### [McGill, Morris lead North Texas to 44-17 trouncing over Wyoming](https://www.fox4news.com/sports/mcgill-morris-lead-north-texas-44-17-trouncing-over-wyoming)
 
- [![Report details the lesser known link between alcohol and cancer risk](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/GettyImages-467650191.jpg?ve=1&tl=1)
+ [![Reed throws two TD passes to help No. 25 Texas A&M outlast Bowling Green 26-20](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/GettyImages-2173636174.jpg?ve=1&tl=1)
 
- ![Report details the lesser known link between alcohol and cancer risk](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/592/333/GettyImages-467650191.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/cancer-deaths-decline-alcohol-risk-factor)
+ ![Reed throws two TD passes to help No. 25 Texas A&M outlast Bowling Green 26-20](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/592/333/GettyImages-2173636174.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/sports/reed-throws-two-td-passes-help-no-25-texas-am-outlast-bowling-green-26-20)
 
-### [Report details the lesser known link between alcohol and cancer risk](https://www.fox4news.com/news/cancer-deaths-decline-alcohol-risk-factor)
+### [Reed throws two TD passes to help No. 25 Texas A&M outlast Bowling Green 26-20](https://www.fox4news.com/sports/reed-throws-two-td-passes-help-no-25-texas-am-outlast-bowling-green-26-20)
 
- [![SMU gets 4 TDs from Smith and three more with offense watching, beats TCU 66-42 after Dykes ejected](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/GettyImages-2173622105.jpg?ve=1&tl=1)
+ [![No. 1 Texas keeps rolling behind Manning and Blue and routs ULM 51-3 in last game before SEC play](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/GettyImages-2173638642.jpg?ve=1&tl=1)
 
- ![SMU gets 4 TDs from Smith and three more with offense watching, beats TCU 66-42 after Dykes ejected](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/592/333/GettyImages-2173622105.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/sports/smu-gets-4-tds-from-smith-three-more-offense-watching-beats-tcu-66-42-after-dykes-ejected)
+ ![No. 1 Texas keeps rolling behind Manning and Blue and routs ULM 51-3 in last game before SEC play](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/592/333/GettyImages-2173638642.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/sports/no-1-texas-keeps-rolling-behind-manning-blue-routs-ulm-51-3-last-game-before-sec-play)
 
-### [SMU gets 4 TDs from Smith and three more with offense watching, beats TCU 66-42 after Dykes ejected](https://www.fox4news.com/sports/smu-gets-4-tds-from-smith-three-more-offense-watching-beats-tcu-66-42-after-dykes-ejected)
+### [No. 1 Texas keeps rolling behind Manning and Blue and routs ULM 51-3 in last game before SEC play](https://www.fox4news.com/sports/no-1-texas-keeps-rolling-behind-manning-blue-routs-ulm-51-3-last-game-before-sec-play)
 
 ###### [News](https://www.fox4news.com/news)
 
