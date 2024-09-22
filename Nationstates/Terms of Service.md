@@ -34,11 +34,11 @@ Login Stay logged in
 
 Latest Forum Topics
 
-* [What book are you reading? (10,219)](https://forum.nationstates.net/viewtopic.php?t=92530&f=19&view=unread#unread ""What book are you reading?" (10,219 posts)")
-* [MCU/Superhero Discussion Thread (8,382)](https://forum.nationstates.net/viewtopic.php?t=410049&f=19&view=unread#unread ""MCU/Superhero Discussion Thread" (8,382 posts)")
-* [i am doing an emerging region. (4)](https://forum.nationstates.net/viewtopic.php?t=555594&f=4&view=unread#unread ""i am doing an emerging region." (4 posts)")
-* [What MBTI do you think is AN (3)](https://forum.nationstates.net/viewtopic.php?t=555595&f=25&view=unread#unread ""What MBTI do you think is AN" (3 posts)")
-* [Can't join WA - I think? (3)](https://forum.nationstates.net/viewtopic.php?t=555516&f=15&view=unread#unread ""Can't join WA - I think?" (3 posts)")
+* [Why is Math Hated? (172)](https://forum.nationstates.net/viewtopic.php?t=555518&f=20&view=unread#unread ""Why is Math Hated?" (172 posts)")
+* [Ukrainian War VII: Everything has a p… (5,425)](https://forum.nationstates.net/viewtopic.php?t=551126&f=20&view=unread#unread ""Ukrainian War VII: Everything has a price" (5,425 posts)")
+* [Based on the flag, what language(s) d… (11,438)](https://forum.nationstates.net/viewtopic.php?t=474154&f=25&view=unread#unread ""Based on the flag, what language(s) does the AN speak?" (11,438 posts)")
+* [What would you be most proud of if yo… (19)](https://forum.nationstates.net/viewtopic.php?t=555578&f=25&view=unread#unread ""What would you be most proud of if you lived in AN?" (19 posts)")
+* [Rate AN's leader attractiveness (28)](https://forum.nationstates.net/viewtopic.php?t=555212&f=25&view=unread#unread ""Rate AN's leader attractiveness" (28 posts)")
 
 Advertisement
 
