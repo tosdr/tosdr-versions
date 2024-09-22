@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-82a018473bc05c4a676066be41d7b7cb
+92cf0adb2e70867091f79a2e6f37ea08
 
 [](# "Expand for more options")[](# "Search")
 
@@ -171,11 +171,11 @@ Sojourner may revise this policy as needed by updating this posting.
 
 ### Featured Product
 
-[![8 mm blue and pink crystal beads](https://www.sojourner.biz/images/cache/glass/GL0074.200.jpg)](https://www.sojourner.biz/beads/glass/8-mm-blue-and-pink-crystal-beads.html "8 mm blue and pink crystal beads")
+[![8 mm pink-copper oval shaped pearls](https://www.sojourner.biz/images/cache/pearls/PE0003.200.jpg)](https://www.sojourner.biz/beads/pearls/8-mm-pink-copper-oval-shaped-pearls.html "8 mm pink-copper oval shaped pearls")
 
-#### [8 mm blue and pink crystal beads](https://www.sojourner.biz/beads/glass/8-mm-blue-and-pink-crystal-beads.html "8 mm blue and pink crystal beads")
+#### [8 mm pink-copper oval shaped pearls](https://www.sojourner.biz/beads/pearls/8-mm-pink-copper-oval-shaped-pearls.html "8 mm pink-copper oval shaped pearls")
 
-$10.00
+$11.00
 
 ### Best Sellers
 
