@@ -138,6 +138,10 @@ If you would like to quote more than 20 percent of an article, please contact us
 
   [![The Japanese Embassy in Beijing on Thursday. The embassy and other organizations have urged swift and resolute actions to protect Japanese citizens in China.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/20/422895.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "The Japanese Embassy in Beijing on Thursday. The embassy and other organizations have urged swift and resolute actions to protect Japanese citizens in China.")](https://www.japantimes.co.jp/news/2024/09/20/japan/japan-china-stabbing/ "China works to avoid rift with Japan over killing of schoolchild")
 
+[Others who had 50 steals or 50 homers admire Ohtani's feat](https://www.japantimes.co.jp/sports/2024/09/21/baseball/mlb/player-admiration-ohtani/ "Others who had 50 steals or 50 homers admire Ohtani's feat")
+
+  [![Before Shohei Ohtani created the 50-50 club on Thursday, just two players in MLB history had hit 50 homers and stolen 50 bases in a season, but not in the same one.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/20/422955.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Before Shohei Ohtani created the 50-50 club on Thursday, just two players in MLB history had hit 50 homers and stolen 50 bases in a season, but not in the same one.")](https://www.japantimes.co.jp/sports/2024/09/21/baseball/mlb/player-admiration-ohtani/ "Others who had 50 steals or 50 homers admire Ohtani's feat")
+
 [Shohei Ohtani records baseball's first 50-50 season with huge night in Miami](https://www.japantimes.co.jp/sports/2024/09/20/baseball/mlb/ohtani-50-50-season/ "Shohei Ohtani records baseball's first 50-50 season with huge night in Miami")
 
   [![Shohei Ohtani connects on his 50th home run of the season during the seventh inning against the Marlins in Miami on Thursday. Ohtani became the first player in MLB history to reach 50 home runs and 50 stolen bases in the same season.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/20/422799.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Shohei Ohtani connects on his 50th home run of the season during the seventh inning against the Marlins in Miami on Thursday. Ohtani became the first player in MLB history to reach 50 home runs and 50 stolen bases in the same season.")](https://www.japantimes.co.jp/sports/2024/09/20/baseball/mlb/ohtani-50-50-season/ "Shohei Ohtani records baseball's first 50-50 season with huge night in Miami")
@@ -145,10 +149,6 @@ If you would like to quote more than 20 percent of an article, please contact us
 [The second act of the Koizumi theater](https://www.japantimes.co.jp/news/2024/09/20/japan/politics/koizumi-junichiro-shinjiro/ "The second act of the Koizumi theater")
 
   [![Former Environment Minister Shinjiro Koizumi, the 43-year-old son of former Prime Minister Junichiro Koizumi, announces his candidacy for the Liberal Democratic Party presidency in Tokyo on Sept. 6.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/20/422757.JPG?v=3.1&w=400&q=100&f=jpg&t=1.2 "Former Environment Minister Shinjiro Koizumi, the 43-year-old son of former Prime Minister Junichiro Koizumi, announces his candidacy for the Liberal Democratic Party presidency in Tokyo on Sept. 6.")](https://www.japantimes.co.jp/news/2024/09/20/japan/politics/koizumi-junichiro-shinjiro/ "The second act of the Koizumi theater")
-
-[Nara urges respect for sacred deer after viral abuse video sparks outcry](https://www.japantimes.co.jp/news/2024/09/20/japan/society/nara-deer-kicked-video/ "Nara urges respect for sacred deer after viral abuse video sparks outcry")
-
-  [![A police officer explains with a loudspeaker the correct way of interacting with the deer on July 25 at Nara Park in the city of Nara.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/20/422848.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "A police officer explains with a loudspeaker the correct way of interacting with the deer on July 25 at Nara Park in the city of Nara.")](https://www.japantimes.co.jp/news/2024/09/20/japan/society/nara-deer-kicked-video/ "Nara urges respect for sacred deer after viral abuse video sparks outcry")
 
 Editors' Picks
 --------------
@@ -169,6 +169,14 @@ By [Francis Tang](https://www.japantimes.co.jp/author/5450/francis-tang/ "Franci
 
 [BASEBALL](https://www.japantimes.co.jp/sports/baseball/ "BASEBALL")
 
+[Others who had 50 steals or 50 homers admire Ohtani's feat](https://www.japantimes.co.jp/sports/2024/09/21/baseball/mlb/player-admiration-ohtani/ "Others who had 50 steals or 50 homers admire Ohtani's feat")
+
+By [Tyler Kepner](https://www.japantimes.co.jp/author/4311/tyler-kepner/ "Tyler Kepner")  
+
+  [![Before Shohei Ohtani created the 50-50 club on Thursday, just two players in MLB history had hit 50 homers and stolen 50 bases in a season, but not in the same one.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/20/422955.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Before Shohei Ohtani created the 50-50 club on Thursday, just two players in MLB history had hit 50 homers and stolen 50 bases in a season, but not in the same one.")](https://www.japantimes.co.jp/sports/2024/09/21/baseball/mlb/player-admiration-ohtani/ "Others who had 50 steals or 50 homers admire Ohtani's feat")
+
+[BASEBALL](https://www.japantimes.co.jp/sports/baseball/ "BASEBALL")
+
 [Shohei Ohtani records baseball's first 50-50 season with huge night in Miami](https://www.japantimes.co.jp/sports/2024/09/20/baseball/mlb/ohtani-50-50-season/ "Shohei Ohtani records baseball's first 50-50 season with huge night in Miami")
 
 By [Jason Coskrey](https://www.japantimes.co.jp/author/181/jason-coskrey/ "Jason Coskrey")  
@@ -183,12 +191,6 @@ By [Eric Johnston](https://www.japantimes.co.jp/author/174/eric-johnston/ "Eric 
 
   [![Former Environment Minister Shinjiro Koizumi, the 43-year-old son of former Prime Minister Junichiro Koizumi, announces his candidacy for the Liberal Democratic Party presidency in Tokyo on Sept. 6.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/20/422757.JPG?v=3.1&w=400&q=100&f=jpg&t=1.2 "Former Environment Minister Shinjiro Koizumi, the 43-year-old son of former Prime Minister Junichiro Koizumi, announces his candidacy for the Liberal Democratic Party presidency in Tokyo on Sept. 6.")](https://www.japantimes.co.jp/news/2024/09/20/japan/politics/koizumi-junichiro-shinjiro/ "The second act of the Koizumi theater")
 
-[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
-
-[Nara urges respect for sacred deer after viral abuse video sparks outcry](https://www.japantimes.co.jp/news/2024/09/20/japan/society/nara-deer-kicked-video/ "Nara urges respect for sacred deer after viral abuse video sparks outcry")
-
-  [![A police officer explains with a loudspeaker the correct way of interacting with the deer on July 25 at Nara Park in the city of Nara.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/20/422848.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "A police officer explains with a loudspeaker the correct way of interacting with the deer on July 25 at Nara Park in the city of Nara.")](https://www.japantimes.co.jp/news/2024/09/20/japan/society/nara-deer-kicked-video/ "Nara urges respect for sacred deer after viral abuse video sparks outcry")
-
 Podcast
 -------
 
@@ -199,18 +201,18 @@ Podcast
 Longform
 --------
 
-  [![A store clerk tries to cool things down in front of their shop by spraying a hose. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/08/26/416766.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "A store clerk tries to cool things down in front of their shop by spraying a hose. ")](https://www.japantimes.co.jp/business/2024/08/26/economy/climate-change-consumption-japanese-shoppers/ "Is extreme weather changing the way Japan shops?")
+  [![A woman passes an "akichi" (vacant lot) in Bunkyo Ward, Tokyo. The capital is littered with such small lots in part because of Japan's aging and shrinking population.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/22/422295.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "A woman passes an "akichi" (vacant lot) in Bunkyo Ward, Tokyo. The capital is littered with such small lots in part because of Japan's aging and shrinking population.")](https://www.japantimes.co.jp/news/2024/09/21/japan/society/empty-vacant-lots-japan-akichi/ "Dealing with rising land vacancies as Japan shrinks")
 
-[Is extreme weather changing the way Japan shops?](https://www.japantimes.co.jp/business/2024/08/26/economy/climate-change-consumption-japanese-shoppers/ "Is extreme weather changing the way Japan shops?")
+[Dealing with rising land vacancies as Japan shrinks](https://www.japantimes.co.jp/news/2024/09/21/japan/society/empty-vacant-lots-japan-akichi/ "Dealing with rising land vacancies as Japan shrinks")
 
 By [Alex K.T. Martin](https://www.japantimes.co.jp/author/219/alex-kt-martin/ "Alex K.T. Martin")  
 
 SUSTAINABLE JAPAN
 -----------------
 
-[Sasakawa works for a sustainable blue economy](https://sustainable.japantimes.com/magazine/vol39/39-01?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "Sasakawa works for a sustainable blue economy")
+[mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world](https://sustainable.japantimes.com/magazine/vol39/39-06?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=3 "mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world")
 
-[![Sasakawa works for a sustainable blue economy](https://wp.japantimes.co.jp/wp-content/uploads/2024/08/img_magazine_39_01_01-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol39/39-01?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "Sasakawa works for a sustainable blue economy")
+[![mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world](https://wp.japantimes.co.jp/wp-content/uploads/2024/08/img_magazine_39_06_01-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol39/39-06?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=3 "mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world")
 
 SPECIAL SUPPLEMENTS [![note](/theme_japantimes/images/icon_note.png)](javascript:; "Note")
 ------------------------------------------------------------------------------------------
@@ -250,17 +252,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
-['Unprecedented' rains in quake-hit Ishikawa leave at least one dead](https://www.japantimes.co.jp/news/2024/09/21/japan/ishikawa-heavy-rain-alert/ "'Unprecedented' rains in quake-hit Ishikawa leave at least one dead")
+[One dead and 10 missing after 'unprecedented' rains in quake-hit Ishikawa](https://www.japantimes.co.jp/news/2024/09/22/japan/ishikawa-rain-second-day/ "One dead and 10 missing after 'unprecedented' rains in quake-hit Ishikawa")
 
-10 hours ago
+1 hours ago
 
-[Russia and China start naval exercises in Sea of Japan, agencies report](https://www.japantimes.co.jp/news/2024/09/21/world/russia-china-naval-exercises/ "Russia and China start naval exercises in Sea of Japan, agencies report")
+[Israel’s risky new posture against Hezbollah stops short of war](https://www.japantimes.co.jp/news/2024/09/22/world/israel-new-posture-hezbollah/ "Israel’s risky new posture against Hezbollah stops short of war")
 
-[Koizumi ranks as top choice in polls among lawmakers in Japan’s LDP race](https://www.japantimes.co.jp/news/2024/09/21/japan/politics/koizumi-lawmaker-favorite/ "Koizumi ranks as top choice in polls among lawmakers in Japan’s LDP race")
+3 hours ago
 
-[Revolution or mirage? Controversy surrounds new Alzheimer's drugs](https://www.japantimes.co.jp/news/2024/09/21/world/science-health/alzheimers-drugs-controversy/ "Revolution or mirage? Controversy surrounds new Alzheimer's drugs")
+[France's Macron appoints new government in shift to right](https://www.japantimes.co.jp/news/2024/09/22/world/politics/france-new-cabinet/ "France's Macron appoints new government in shift to right")
 
-[JR East fails to disclose data tampering for seven years](https://www.japantimes.co.jp/business/2024/09/21/jr-east-data-tampering/ "JR East fails to disclose data tampering for seven years")
+3 hours ago
+
+[Biden administration to prepare ban on Chinese car software](https://www.japantimes.co.jp/business/2024/09/22/us-china-car-software/ "Biden administration to prepare ban on Chinese car software")
+
+3 hours ago
+
+[Israeli jets pound Lebanon after deadly Beirut strike](https://www.japantimes.co.jp/news/2024/09/22/world/israel-jets-pound-lebanon/ "Israeli jets pound Lebanon after deadly Beirut strike")
+
+3 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
