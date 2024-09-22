@@ -742,6 +742,8 @@ If you do not own a Netflix account, we may not be able to respond to certain re
 
 **Last Updated:** April 17, 2024
 
+Select your preferred language: Select a language English Español
+
 * [Terms of Use](https://help.netflix.com/en/legal/termsofuse)
 * [Privacy](https://help.netflix.com/en/legal/privacy)
 * [Do Not Sell or Share My Personal Information](https://netflix.com/dnsspi)
