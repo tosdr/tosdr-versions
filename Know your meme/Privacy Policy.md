@@ -97,30 +97,30 @@ Welcome! [Login](https://knowyourmeme.com/login) or [signup](https://knowyourmem
 * [Meme Insider](https://memeinsider.com/)
 * [Newsletter](https://knowyourmeme.com/newsletter)
 
-* [![Goomer Is Coomer's Gaming Addicted Cousin](https://i.kym-cdn.com/featured_items/icons/wide/000/025/980/goom.jpg "Happy Anniversary To The Goomer, Who Is Different From The Gooner And The Coomer")
+* [![Nickelback's "Photograph" Parodies Rise Again](https://i.kym-cdn.com/featured_items/icons/wide/000/025/997/oGiqX.jpg "19 Years Ago, Nickelback Made Us Look At Their Photograph For The First Time")
     
-    Happy Anniversary To The Goomer, Who Is Different From The Gooner And The Coomer](https://knowyourmeme.com/memes/goomer)
+    19 Years Ago, Nickelback Made Us Look At Their Photograph For The First Time](https://knowyourmeme.com/memes/nickelbacks-photograph)
     
-* [![Office Themed 'Among Us' Style Game 'Dale & Dawson Station Supplies' Gets Big Popularity Boost Online](https://i.kym-cdn.com/featured_items/icons/wide/000/025/979/1.jpg "Office Themed 'Among Us' Style Game 'Dale & Dawson Station Supplies' Gets Big Popularity Boost Online")
+* [![Inspirational Footballer's Speech Leads to Long-running Reaction Image](https://i.kym-cdn.com/featured_items/icons/wide/000/025/996/t3qkhrohrh321.jpg "One Decade Ago, The Classic 'They Had Us In the First Half' Interview Was Uploaded To YouTube")
     
-    Office Themed 'Among Us' Style Game 'Dale & Dawson Station Supplies' Gets Big Popularity Boost Online](https://knowyourmeme.com/memes/subcultures/dale-dawson-stationary-supplies)
+    One Decade Ago, The Classic 'They Had Us In the First Half' Interview Was Uploaded To YouTube](https://knowyourmeme.com/memes/they-had-us-in-the-first-half)
     
-* [![More Than Decades Since The First 'Samuel Johnson Reading' Meme Was Posted And The Image Is Still A Popular Reaction Image](https://i.kym-cdn.com/featured_items/icons/wide/000/025/978/Samuel_read_meme_cover.jpg "More Than Decades Since The First 'Samuel Johnson Reading' Meme Was Posted And The Image Is Still A Popular Reaction Image")
+* [![Deez Nuts](https://i.kym-cdn.com/featured_items/icons/wide/000/025/995/Deez_Nuts_Meme_banner.jpg "Happy Anniversary To Deez Nuts")
     
-    More Than Decades Since The First 'Samuel Johnson Reading' Meme Was Posted And The Image Is Still A Popular Reaction Image](https://knowyourmeme.com/memes/samuel-johnson-reading)
+    Happy Anniversary To Deez Nuts](https://knowyourmeme.com/memes/deez-nuts)
     
-* [![Adam Levine Appointed The Chief Body Appreciator After His Sexting DMs Leak](https://i.kym-cdn.com/featured_items/icons/wide/000/025/977/1b2.jpg "Two Years Ago, Adam Levine Put A Big, Absurd Foot In His Mouth")
+* [!['Professional Racist' Vs. 'Graphic Designer' Edits Become Video Meme On TikTok And YouTube](https://i.kym-cdn.com/featured_items/icons/wide/000/025/994/professional_racist.jpg "'Professional Racist' Vs. 'Graphic Designer' Edits Become Video Meme On TikTok And YouTube")
     
-    Two Years Ago, Adam Levine Put A Big, Absurd Foot In His Mouth](https://knowyourmeme.com/memes/that-body-of-yours-is-absurd)
+    'Professional Racist' Vs. 'Graphic Designer' Edits Become Video Meme On TikTok And YouTube](https://knowyourmeme.com/memes/professional-racist-vs-graphic-designer)
     
-* [![SocialAI, A Social Network Entirely Populated By You And An Infinite Number Of Bots, Causes Discourse And Jokes On Human-populated Social Media](https://i.kym-cdn.com/featured_items/icons/wide/000/025/976/socialAI.jpeg "SocialAI, A Social Network Entirely Populated By You And An Infinite Number Of Bots, Causes Discourse And Jokes On Human-populated Social Media")
+* [!['DJ Peaches': AI Image Of Princess Peach Playing In A Zombie Techno Rave Becomes Viral Meme On Instagram and Twitter](https://i.kym-cdn.com/featured_items/icons/wide/000/025/993/DJ_PEACHES_cover.jpg "'DJ Peaches': AI Image Of Princess Peach Playing In A Zombie Techno Rave Becomes Viral Meme On Instagram and Twitter")
     
-    SocialAI, A Social Network Entirely Populated By You And An Infinite Number Of Bots, Causes Discourse And Jokes On Human-populated Social Media](https://knowyourmeme.com/memes/sites/socialai)
+    'DJ Peaches': AI Image Of Princess Peach Playing In A Zombie Techno Rave Becomes Viral Meme On Instagram and Twitter](https://knowyourmeme.com/memes/dj-peaches-princess-peach-techno-rave)
     
 
 ##### Also Trending:
 
-[Goomer](https://knowyourmeme.com/memes/goomer "Goomer")
+[Derp](https://knowyourmeme.com/memes/derp)
 
 Privacy Policy
 ==============
@@ -316,7 +316,7 @@ Please be sure to include your information in any correspondence to us so that w
 **Legal Information:** [Know Your Meme ®](https://knowyourmeme.com/) is a trademark of [Literally Media Ltd.](https://literally.media/) By using this site, you are agreeing by the site's [terms of use](https://knowyourmeme.com/terms-of-service) and [privacy policy](https://knowyourmeme.com/privacy) and [DMCA policy](https://knowyourmeme.com/dmca).  
 © 2007-2024 [Literally Media Ltd.](https://literally.media/)
 
-### Yo! You must login or signup first!
+### Namaste! You must login or signup first!
 
 |     |     |
 | --- | --- |
