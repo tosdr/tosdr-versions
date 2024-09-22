@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/d9e1febb-a562-4815-bbbd-a0ae64cfafb6/20240921T024824/d9e1febb-a562-4815-bbbd-a0ae64cfafb6_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/d9e1febb-a562-4815-bbbd-a0ae64cfafb6/20240921T024824/d9e1febb-a562-4815-bbbd-a0ae64cfafb6_360x203.jpg)](https://www.wqad.com/article/money/davenport-health-center-expand-mental-health-substance-abuse-services-federal-funding/526-1e124b3a-8abe-4b07-bf8a-52fdb7901bfc)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/e00971f5-0805-4316-a52a-2b03401cffa7/20240921T231720/e00971f5-0805-4316-a52a-2b03401cffa7_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/e00971f5-0805-4316-a52a-2b03401cffa7/20240921T231720/e00971f5-0805-4316-a52a-2b03401cffa7_360x203.jpg)](https://www.wqad.com/article/news/local/davenport-shooting-murder-skybridge-mason-payne-terrones-joslin/526-3db0f106-c805-4621-a5aa-82ed28742e19)
         
-        #### [Davenport health center to expand mental health and substance abuse services with federal support](https://www.wqad.com/article/money/davenport-health-center-expand-mental-health-substance-abuse-services-federal-funding/526-1e124b3a-8abe-4b07-bf8a-52fdb7901bfc)
+        #### [Silvis teenager charged with first-degree murder in fatal August shooting near Davenport Skybridge](https://www.wqad.com/article/news/local/davenport-shooting-murder-skybridge-mason-payne-terrones-joslin/526-3db0f106-c805-4621-a5aa-82ed28742e19)
         
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/e10aacd8-5aaa-4e7f-a10b-a10ea420c15f/e10aacd8-5aaa-4e7f-a10b-a10ea420c15f_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/e10aacd8-5aaa-4e7f-a10b-a10ea420c15f/e10aacd8-5aaa-4e7f-a10b-a10ea420c15f_360x203.jpg)](https://www.wqad.com/article/news/local/family-evacuated-fire-wheatland/526-d776784e-9a02-45ad-ba95-38c43976a5e2)
+    *  [![](https://media.tegna-media.com/assets/WNEP/images/e27bece4-94c2-4e4c-a4d7-27ef33a54ed7/e27bece4-94c2-4e4c-a4d7-27ef33a54ed7_16x9.jpg) ![](https://media.tegna-media.com/assets/WNEP/images/e27bece4-94c2-4e4c-a4d7-27ef33a54ed7/e27bece4-94c2-4e4c-a4d7-27ef33a54ed7_360x203.jpg)](https://www.wqad.com/article/news/local/1-dead-in-rock-island-county-crash/526-448f1cb7-0533-42cf-aaf8-958d1207cce8)
         
-        #### [Fire in Wheatland forces family to evacuate](https://www.wqad.com/article/news/local/family-evacuated-fire-wheatland/526-d776784e-9a02-45ad-ba95-38c43976a5e2)
+        #### [1 dead in Rock Island County crash](https://www.wqad.com/article/news/local/1-dead-in-rock-island-county-crash/526-448f1cb7-0533-42cf-aaf8-958d1207cce8)
         
     
 * [Weather](https://www.wqad.com/weather)
@@ -56,13 +56,13 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/83cb3810-c634-40c5-bf75-6fd0fe8c8c52/20240921T114905/83cb3810-c634-40c5-bf75-6fd0fe8c8c52_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/83cb3810-c634-40c5-bf75-6fd0fe8c8c52/20240921T114905/83cb3810-c634-40c5-bf75-6fd0fe8c8c52_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/b6686e22-2693-4ccf-9bce-b87bf818e536/20240921T233924/b6686e22-2693-4ccf-9bce-b87bf818e536_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/b6686e22-2693-4ccf-9bce-b87bf818e536/20240921T233924/b6686e22-2693-4ccf-9bce-b87bf818e536_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
-        #### [Last day of summer](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+        #### [Cool and rainy for the first day of fall](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
-    *  [![](https://media.tegna-media.com/assets/KARE/images/c6306684-4c3a-475e-87d3-405075266334/20240920T120937/c6306684-4c3a-475e-87d3-405075266334_16x9.jpg) ![](https://media.tegna-media.com/assets/KARE/images/c6306684-4c3a-475e-87d3-405075266334/20240920T120937/c6306684-4c3a-475e-87d3-405075266334_360x203.jpg)](https://www.wqad.com/article/weather/national-weather-service-tornado-st-louis-county/89-0ed781aa-9541-4b23-819b-a351e20c8af1)
+    *  [![](https://media.tegna-media.com/assets/WTIC/images/c1adf01e-1db8-439b-bdc3-891934f4d383/c1adf01e-1db8-439b-bdc3-891934f4d383_16x9.jpg) ![](https://media.tegna-media.com/assets/WTIC/images/c1adf01e-1db8-439b-bdc3-891934f4d383/c1adf01e-1db8-439b-bdc3-891934f4d383_360x203.jpg)](https://www.wqad.com/article/news/nation-world/first-day-of-fall/507-06766aa7-07fd-473a-bcd6-575afd16614a)
         
-        #### [NWS confirms tornado touched down in northern Minnesota](https://www.wqad.com/article/weather/national-weather-service-tornado-st-louis-county/89-0ed781aa-9541-4b23-819b-a351e20c8af1)
+        #### [When is the first day of fall?](https://www.wqad.com/article/news/nation-world/first-day-of-fall/507-06766aa7-07fd-473a-bcd6-575afd16614a)
         
     
 * [Sports](https://www.wqad.com/sports)
@@ -86,9 +86,9 @@ Navigation
 
 Davenport, IA »
 
-84°
+73°
 
-![Sunny](/assets/shared-images/weather-icons/clear-day_210x210.png)
+![Fair](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
 
 Davenport, IA »](https://www.wqad.com/weather)
 
