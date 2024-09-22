@@ -259,6 +259,15 @@ Advertise with Us
 
 Most Popular
 
+[![Derry City](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry City")](https://www.derrynow.com/news/pictures---videos/1611174/in-pictures-derry-city-fans-enjoy-night-of-late-drama-at-the-brandywell.html)
+
+Derry City fans at the Brandywell. Pics by nwpresspics
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[IN PICTURES: Derry City fans enjoy night of late drama at the Brandywell](https://www.derrynow.com/news/pictures---videos/1611174/in-pictures-derry-city-fans-enjoy-night-of-late-drama-at-the-brandywell.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 [![Derry Death Notices - Sunday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Sunday")](https://www.derrynow.com/news/deaths/1610381/derry-death-notices-sunday-22nd-september-2024.html)
 
 [Deaths](https://www.derrynow.com/section/977/deaths)
@@ -284,26 +293,30 @@ Padraig Lynch and Michael Harris were both on the score sheet for Institute Pic 
 [Biggest win in a year! Institute hammer Newington at the Brandywell](https://www.derrynow.com/news/derry-sport/1611150/biggest-win-in-a-year-institute-hammer-newington-at-the-brandywell.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+[![Steelstown Brian Ogs](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Steelstown Brian Ogs")](https://www.derrynow.com/news/derry-sport/1611388/steelstown-hopes-ended-by-defeat-at-lavey.html)
+
+Gerard Walsh breaks away from Dual player Fintan Bradley. Pic by Colm Heron.
+
+[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
+
+[Steelstown hopes ended by defeat at Lavey](https://www.derrynow.com/news/derry-sport/1611388/steelstown-hopes-ended-by-defeat-at-lavey.html)
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Derry City](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry City")](https://www.derrynow.com/news/derry-sport/1611339/ruaidhri-higgins-patrick-mceleney-is-the-most-honest-professional-i-ve-ever-worked-with.html)
+
+Patrick McEleney celebrates Derry City's equaliser against Shamrock Rovers. Pic by Ramsey Cardy/ Sportsfile
+
+[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
+
+[Ruaidhri Higgins - 'Patrick McEleney is the most honest professional I've ever worked with'](https://www.derrynow.com/news/derry-sport/1611339/ruaidhri-higgins-patrick-mceleney-is-the-most-honest-professional-i-ve-ever-worked-with.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 [!['Connecting Communities – Linking BT47' project in Derry celebrates financial boost](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "'Connecting Communities – Linking BT47' project in Derry celebrates financial boost")](https://www.derrynow.com/news/local-news/1610262/connecting-communities-linking-bt47-project-in-derry-celebrates-financial-boost.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
 
 ['Connecting Communities – Linking BT47' project in Derry celebrates financial boost](https://www.derrynow.com/news/local-news/1610262/connecting-communities-linking-bt47-project-in-derry-celebrates-financial-boost.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Loughs Agency’s Education Team making waves this summer](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Loughs Agency’s Education Team making waves this summer")](https://www.derrynow.com/news/local-news/1609339/loughs-agencys-education-team-making-waves-in-foyle-this-summer.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Loughs Agency’s Education Team making waves in Foyle this summer](https://www.derrynow.com/news/local-news/1609339/loughs-agencys-education-team-making-waves-in-foyle-this-summer.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Gavin Robinson hits out at Labour Government in speech to DUP conference](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Gavin Robinson hits out at Labour Government in speech to DUP conference")](https://www.derrynow.com/news/northern-ireland/1610737/gavin-robinson-hits-out-at-labour-government-in-speech-to-dup-conference.html)
-
-[Northern Ireland](https://www.derrynow.com/section/997/cookie-policy)
-
-[Gavin Robinson hits out at Labour Government in speech to DUP conference](https://www.derrynow.com/news/northern-ireland/1610737/gavin-robinson-hits-out-at-labour-government-in-speech-to-dup-conference.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Maynooth Community Church is officially opened](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Maynooth Community Church is officially opened")](https://www.derrynow.com/news/local-news/1611213/historic-day-as-maynooth-community-church-is-officially-opened.html)
 
@@ -314,14 +327,19 @@ Members of the congregation of Maynooth Community Church, one of Presbyterian Ch
 [Historic day as Maynooth Community Church is officially opened](https://www.derrynow.com/news/local-news/1611213/historic-day-as-maynooth-community-church-is-officially-opened.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Derry City](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry City")](https://www.derrynow.com/news/pictures---videos/1611174/in-pictures-derry-city-fans-enjoy-night-of-late-drama-at-the-brandywell.html)
+[![Loughs Agency’s Education Team making waves this summer](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Loughs Agency’s Education Team making waves this summer")](https://www.derrynow.com/news/local-news/1609339/loughs-agencys-education-team-making-waves-in-foyle-this-summer.html)
 
-Derry City fans at the Brandywell. Pics by nwpresspics
+[Local News](https://www.derrynow.com/section/975/news)
 
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+[Loughs Agency’s Education Team making waves in Foyle this summer](https://www.derrynow.com/news/local-news/1609339/loughs-agencys-education-team-making-waves-in-foyle-this-summer.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[IN PICTURES: Derry City fans enjoy night of late drama at the Brandywell](https://www.derrynow.com/news/pictures---videos/1611174/in-pictures-derry-city-fans-enjoy-night-of-late-drama-at-the-brandywell.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[![People ‘dragged into migration narratives’ if concerns ignored – Little-Pengelly](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "People ‘dragged into migration narratives’ if concerns ignored – Little-Pengelly")](https://www.derrynow.com/news/northern-ireland/1611332/people-dragged-into-migration-narratives-if-concerns-ignored-little-pengelly.html)
+
+[Northern Ireland](https://www.derrynow.com/section/997/cookie-policy)
+
+[People ‘dragged into migration narratives’ if concerns ignored – Little-Pengelly](https://www.derrynow.com/news/northern-ireland/1611332/people-dragged-into-migration-narratives-if-concerns-ignored-little-pengelly.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
@@ -505,7 +523,25 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
-[![Maynooth Community Church is officially opened](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Maynooth Community Church is officially opened")](https://www.derrynow.com/news/local-news/1611213/historic-day-as-maynooth-community-church-is-officially-opened.html)
+[![Steelstown Brian Ogs](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Steelstown Brian Ogs")](https://www.derrynow.com/news/derry-sport/1611388/steelstown-hopes-ended-by-defeat-at-lavey.html)
+
+Gerard Walsh breaks away from Dual player Fintan Bradley. Pic by Colm Heron.
+
+[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
+
+[Steelstown hopes ended by defeat at Lavey](https://www.derrynow.com/news/derry-sport/1611388/steelstown-hopes-ended-by-defeat-at-lavey.html)
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Derry City](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry City")](https://www.derrynow.com/news/derry-sport/1611339/ruaidhri-higgins-patrick-mceleney-is-the-most-honest-professional-i-ve-ever-worked-with.html)
+
+Patrick McEleney celebrates Derry City's equaliser against Shamrock Rovers. Pic by Ramsey Cardy/ Sportsfile
+
+[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
+
+[Ruaidhri Higgins - 'Patrick McEleney is the most honest professional I've ever worked with'](https://www.derrynow.com/news/derry-sport/1611339/ruaidhri-higgins-patrick-mceleney-is-the-most-honest-professional-i-ve-ever-worked-with.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Maynooth Community Church is officially opened](https://www.derrynow.com/resizer/165/93/true/2024_09_21/MCC_Opening_%284%29_congregation_and_guests-1726931588436.jpg--.jpg?1726931591954 "Maynooth Community Church is officially opened")](https://www.derrynow.com/news/local-news/1611213/historic-day-as-maynooth-community-church-is-officially-opened.html)
 
 Members of the congregation of Maynooth Community Church, one of Presbyterian Church in Ireland’s 500-plus congregations, and guests
 
@@ -514,7 +550,7 @@ Members of the congregation of Maynooth Community Church, one of Presbyterian Ch
 [Historic day as Maynooth Community Church is officially opened](https://www.derrynow.com/news/local-news/1611213/historic-day-as-maynooth-community-church-is-officially-opened.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[!['Connecting Communities – Linking BT47' project in Derry celebrates financial boost](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "'Connecting Communities – Linking BT47' project in Derry celebrates financial boost")](https://www.derrynow.com/news/local-news/1610262/connecting-communities-linking-bt47-project-in-derry-celebrates-financial-boost.html)
+[!['Connecting Communities – Linking BT47' project in Derry celebrates financial boost](https://www.derrynow.com/resizer/165/93/true/2024_09_20/Lincoln_Courts1-1726845006555.jpg--.jpg?1726845006668 "'Connecting Communities – Linking BT47' project in Derry celebrates financial boost")](https://www.derrynow.com/news/local-news/1610262/connecting-communities-linking-bt47-project-in-derry-celebrates-financial-boost.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
 
@@ -538,20 +574,6 @@ Padraig Lynch and Michael Harris were both on the score sheet for Institute Pic 
 
 [Biggest win in a year! Institute hammer Newington at the Brandywell](https://www.derrynow.com/news/derry-sport/1611150/biggest-win-in-a-year-institute-hammer-newington-at-the-brandywell.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Loughs Agency’s Education Team making waves this summer](https://www.derrynow.com/resizer/165/93/true/2024_09_19/image003-1726759354498.jpg--.jpg?1726759354999 "Loughs Agency’s Education Team making waves this summer")](https://www.derrynow.com/news/local-news/1609339/loughs-agencys-education-team-making-waves-in-foyle-this-summer.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Loughs Agency’s Education Team making waves in Foyle this summer](https://www.derrynow.com/news/local-news/1609339/loughs-agencys-education-team-making-waves-in-foyle-this-summer.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry Death Notices - Sunday](https://www.derrynow.com/resizer/165/93/true/2023_09_21/Derry_Deaths_%2811%29-1695307374487.jpg--.jpg?1695307374613 "Derry Death Notices - Sunday")](https://www.derrynow.com/news/deaths/1610381/derry-death-notices-sunday-22nd-september-2024.html)
-
-[Deaths](https://www.derrynow.com/section/977/deaths)
-
-[Derry Death Notices - Sunday, 22nd September 2024](https://www.derrynow.com/news/deaths/1610381/derry-death-notices-sunday-22nd-september-2024.html)
------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
