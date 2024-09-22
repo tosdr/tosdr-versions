@@ -14,21 +14,21 @@ Open Account
 * [Investments](https://www.truist.com/open-account/investments)
 * [Wealth](https://www.truist.com/open-account/wealth)
 
-Sign in
+Sign in to Truist online banking and other accounts.
 
 Loading
 
-User ID 
+User ID
 
-* Enter User ID
+Enter User ID
 
  Save user ID
 
 [Forgot user ID? click here to reset your User ID.](https://dias.bank.truist.com/selfserv/forgotuserid)
 
-Password 
+Password
 
-* Enter Password
+Enter Password
 
 [Reset password click here to reset](https://dias.bank.truist.com/selfserv/forgotpwd)
 
@@ -261,7 +261,7 @@ Sign in
     * [Small Business](https://www.truist.com/open-account/small-business)
     * [Investments](https://www.truist.com/open-account/investments)
     * [Wealth](https://www.truist.com/open-account/wealth)
-* Sign in
+* Sign in to Truist online banking and other accounts.
     
 
     
