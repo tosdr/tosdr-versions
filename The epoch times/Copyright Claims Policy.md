@@ -158,76 +158,76 @@ Please note that under Section 512(f) of the DMCA, any person who knowingly mate
 
 TOP NEWS
 
-* [Iran-Backed Forces in Iraq Claim Missile, Drone Attacks on Israel](https://www.theepochtimes.com/world/hezbollah-israel-exchange-fire-amid-fear-of-widening-conflict-5728144)
+* [How a President Can Use Regulatory Levers to Slow Fracking](https://www.theepochtimes.com/us/how-a-president-can-use-regulatory-levers-to-slow-fracking-5726606)
     
-    4hr By [Melanie Sun](https://www.theepochtimes.com/author/melanie-sun)
+    2hr By [John Haughey](https://www.theepochtimes.com/author/john-haughey)
     
-    [![Iran-Backed Forces in Iraq Claim Missile, Drone Attacks on Israel](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![How a President Can Use Regulatory Levers to Slow Fracking](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Iran-Backed Forces in Iraq Claim Missile, Drone Attacks on Israel](https://img.theepochtimes.com/assets/uploads/2024/08/30/id5715888-GettyImages-2167483461-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/world/hezbollah-israel-exchange-fire-amid-fear-of-widening-conflict-5728144)
+    ![How a President Can Use Regulatory Levers to Slow Fracking](https://img.theepochtimes.com/assets/uploads/2024/09/22/id5728321-GettyImages-143087510-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/how-a-president-can-use-regulatory-levers-to-slow-fracking-5726606)
+* [Israel Has No Connection to Mass Pager Attack in Lebanon, President Says](https://www.theepochtimes.com/world/israel-has-no-connection-to-mass-pager-attack-in-lebanon-president-says-5728219)
+    
+    4hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
+    
+    [![Israel Has No Connection to Mass Pager Attack in Lebanon, President Says](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Israel Has No Connection to Mass Pager Attack in Lebanon, President Says](https://img.theepochtimes.com/assets/uploads/2024/09/18/id5726468-GettyImages-2171996113-OP-205x123.jpg.webp)](https://www.theepochtimes.com/world/israel-has-no-connection-to-mass-pager-attack-in-lebanon-president-says-5728219)
+* [Interim NYPD Commissioner Confirms Federal Agents Searched His Homes](https://www.theepochtimes.com/us/interim-nypd-commissioner-confirms-federal-agents-searched-his-homes-5728211)
+    
+    5hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
+    
+    [![Interim NYPD Commissioner Confirms Federal Agents Searched His Homes](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Interim NYPD Commissioner Confirms Federal Agents Searched His Homes](https://img.theepochtimes.com/assets/uploads/2024/09/id5728203-1.download-205x123.jpg.webp)](https://www.theepochtimes.com/us/interim-nypd-commissioner-confirms-federal-agents-searched-his-homes-5728211)
+* [Hezbollah, Israel Exchange Fire as Concerns Grow Over Widening Conflict](https://www.theepochtimes.com/world/hezbollah-israel-exchange-fire-as-concerns-grow-over-widening-conflict-5728144)
+    
+    10hr By [Melanie Sun](https://www.theepochtimes.com/author/melanie-sun)
+    
+    [![Hezbollah, Israel Exchange Fire as Concerns Grow Over Widening Conflict](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Hezbollah, Israel Exchange Fire as Concerns Grow Over Widening Conflict](https://img.theepochtimes.com/assets/uploads/2024/09/22/id5728155-ISRAEL-PALESTINIANS-LEBANON.jpg-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/world/hezbollah-israel-exchange-fire-as-concerns-grow-over-widening-conflict-5728144)
 * [Your Guide to Voting in the 2024 Election](https://www.theepochtimes.com/us/your-guide-to-voting-in-the-2024-election-5725815)
     
-    5hr By [Samantha Flom](https://www.theepochtimes.com/author/samantha-flom)
+    11hr By [Samantha Flom](https://www.theepochtimes.com/author/samantha-flom)
     
     [![Your Guide to Voting in the 2024 Election](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Your Guide to Voting in the 2024 Election](https://img.theepochtimes.com/assets/uploads/2024/09/21/id5728069-Voting-guide-2-205x123.jpg.webp)](https://www.theepochtimes.com/us/your-guide-to-voting-in-the-2024-election-5725815)
 * [Cervical Cancer: The 8th Most Prevalent Cancer—Here Are 8 Common Signs](https://www.theepochtimes.com/health/cervical-cancer-symptoms-causes-treatments-and-natural-approaches-5725129)
     
-    6hr By [Mercura Wang](https://www.theepochtimes.com/author/mercura-wang)
+    12hr By [Mercura Wang](https://www.theepochtimes.com/author/mercura-wang)
     
     [![Cervical Cancer: The 8th Most Prevalent Cancer—Here Are 8 Common Signs](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Cervical Cancer: The 8th Most Prevalent Cancer—Here Are 8 Common Signs](https://img.theepochtimes.com/assets/uploads/2024/09/20/id5727745-Cervical-cancer-205x123.jpg.webp)](https://www.theepochtimes.com/health/cervical-cancer-symptoms-causes-treatments-and-natural-approaches-5725129)
 * [An Overview of Significant Events on Road to Election and Beyond](https://www.theepochtimes.com/article/significant-events-on-road-to-election-and-beyond-5728016)
     
-    7hr By [Stacy Robinson](https://www.theepochtimes.com/author/stacy-robinson)
+    13hr By [Stacy Robinson](https://www.theepochtimes.com/author/stacy-robinson)
     
     [![An Overview of Significant Events on Road to Election and Beyond](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![An Overview of Significant Events on Road to Election and Beyond](https://img.theepochtimes.com/assets/uploads/2024/09/21/id5728079-map-to-election-205x123.jpg.webp)](https://www.theepochtimes.com/article/significant-events-on-road-to-election-and-beyond-5728016)
 * [Quad Leaders Unveil Maritime Security, Supply Chain Initiatives at Delaware Summit](https://www.theepochtimes.com/world/quad-leaders-unveil-maritime-security-supply-chain-initiatives-at-delaware-summit-5727933)
     
-    13hr By [Ryan Morgan](https://www.theepochtimes.com/author/ryan-morgan)
+    20hr By [Ryan Morgan](https://www.theepochtimes.com/author/ryan-morgan)
     
     [![Quad Leaders Unveil Maritime Security, Supply Chain Initiatives at Delaware Summit](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Quad Leaders Unveil Maritime Security, Supply Chain Initiatives at Delaware Summit](https://img.theepochtimes.com/assets/uploads/2024/09/21/id5728029-GettyImages-2172751017-OP-205x123.jpg.webp)](https://www.theepochtimes.com/world/quad-leaders-unveil-maritime-security-supply-chain-initiatives-at-delaware-summit-5727933)
 * [Americans Urged to Leave Lebanon as Israel, Hezbollah Trade Fire](https://www.theepochtimes.com/us/americans-urged-to-leave-lebanon-as-israel-hezbollah-trade-fire-5728046)
     
-    15hr By [Bill Pan](https://www.theepochtimes.com/author/gq-pan)
+    21hr By [Bill Pan](https://www.theepochtimes.com/author/gq-pan)
     
     [![Americans Urged to Leave Lebanon as Israel, Hezbollah Trade Fire](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Americans Urged to Leave Lebanon as Israel, Hezbollah Trade Fire](https://img.theepochtimes.com/assets/uploads/2024/09/22/id5728149-beirut-airport.jpg-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/americans-urged-to-leave-lebanon-as-israel-hezbollah-trade-fire-5728046)
 * [Day in Photos: The Largest Beerfest, Overcrowded Prisons, and Unsuccessful Plans](https://www.theepochtimes.com/article/day-in-photos-the-largest-beerfest-overcrowded-prisons-and-unsuccessful-plans-5727950)
     
-    18hr By [Epoch Times Staff](https://www.theepochtimes.com/author/epoch-times-staff)
+    1d By [Epoch Times Staff](https://www.theepochtimes.com/author/epoch-times-staff)
     
     [![Day in Photos: The Largest Beerfest, Overcrowded Prisons, and Unsuccessful Plans](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Day in Photos: The Largest Beerfest, Overcrowded Prisons, and Unsuccessful Plans](https://img.theepochtimes.com/assets/uploads/2024/09/21/id5728015-GettyImages-2172558016-OP-205x123.jpg.webp)](https://www.theepochtimes.com/article/day-in-photos-the-largest-beerfest-overcrowded-prisons-and-unsuccessful-plans-5727950)
-* [Appeals Court Revives Lawsuits Challenging Michigan Law on Sexual Orientation, Gender Identity](https://www.theepochtimes.com/us/appeals-court-revives-lawsuits-challenging-michigan-law-on-sexual-orientation-gender-identity-5727981)
-    
-    19hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
-    
-    [![Appeals Court Revives Lawsuits Challenging Michigan Law on Sexual Orientation, Gender Identity](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Appeals Court Revives Lawsuits Challenging Michigan Law on Sexual Orientation, Gender Identity](https://img.theepochtimes.com/assets/uploads/2024/09/22/id5728151-Michigan-City_JF_08282024.jpg-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/appeals-court-revives-lawsuits-challenging-michigan-law-on-sexual-orientation-gender-identity-5727981)
-* [Two Gold Winners Awarded at NTD 9th International Chinese Vocal Competition](https://www.theepochtimes.com/bright/two-gold-winners-awarded-at-9th-ntd-vocal-competition-5727810)
-    
-    20hr By [Catherine Yang](https://www.theepochtimes.com/author/catherine-yang), Epoch Times
-    
-    [![Two Gold Winners Awarded at NTD 9th International Chinese Vocal Competition](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Two Gold Winners Awarded at NTD 9th International Chinese Vocal Competition](https://img.theepochtimes.com/assets/uploads/2024/09/22/id5728098-NTD-Vocal-Competition-Awards-Ceremony-205x123.jpg.webp)](https://www.theepochtimes.com/bright/two-gold-winners-awarded-at-9th-ntd-vocal-competition-5727810)
-* [Zelenskyy Says Ukraine ‘Victory Plan’ Includes Deep Strikes Into Russia With Western Missiles](https://www.theepochtimes.com/world/zelenskyy-says-ukraine-victory-plan-includes-deep-strikes-into-russia-with-western-missiles-5727949)
-    
-    22hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
-    
-    [![Zelenskyy Says Ukraine ‘Victory Plan’ Includes Deep Strikes Into Russia With Western Missiles](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Zelenskyy Says Ukraine ‘Victory Plan’ Includes Deep Strikes Into Russia With Western Missiles](https://img.theepochtimes.com/assets/uploads/2024/09/03/id5717443-07102024-DSC08356-Zelenskyy-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/world/zelenskyy-says-ukraine-victory-plan-includes-deep-strikes-into-russia-with-western-missiles-5727949)
 
 [![The Epoch Times](https://www.theepochtimes.com/assets/themes/eet/images/logo_eet.svg)](https://www.theepochtimes.com/)
 
