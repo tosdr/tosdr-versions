@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/nieuws/stop-hpv-vaccinatie-nu/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/gezondheid/steeds-meer-boeren-mijden-gmo-om/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
