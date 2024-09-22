@@ -205,30 +205,27 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [3rd Edition Dungeons & Dragons: Fiend Folio](https://www.somethingawful.com/dungeons-and-dragons/fiend-folio-3e/1/)
-* [The Lowest Rung On the Hollywood Ladder, Part 3](https://www.somethingawful.com/comedy-goldmine/lowest-rung-on-3/1/)
-* [Adding Violence To Nonviolent Video Games](https://www.somethingawful.com/comedy-goldmine/adding-violence-nonviolent/1/)
-* [Under the Sea With Udo Kier](https://www.somethingawful.com/news/under-sea-with/)
-* [Advanced Dungeons & Dragons: 1st Edition Fiend Folio (part 1)](https://www.somethingawful.com/dungeons-and-dragons/fiend-folio-1/1/)
+* [Halloween SWAT 2](https://www.somethingawful.com/fashion-swat/halloween-swat-2/1/)
+* [Adventurehog (and Friends!)](https://www.somethingawful.com/photoshop-phriday/phriday-hedgehog/)
+* [Argue with Everyone](https://www.somethingawful.com/weekend-web/argue-with-everyone/1/)
+* [Harry Potter Books We'd Like to See](https://www.somethingawful.com/comedy-goldmine/harry-potter-books/1/)
+* [AD&D 2nd Edition Al-Qadim Monstrous Compendium Appendix (1992)](https://www.somethingawful.com/dungeons-and-dragons/al-qadim-monsters/1/)
 
 ### Popular Threads
 
-* ![](https://fi.somethingawful.com/forums/posticons/byob-explosion.gif) [thing I never "got" about the movie Trains, Planes and Automobiles spoilers](http://forums.somethingawful.com/showthread.php?threadid=4070893 "thing I never "got" about the movie Trains, Planes and Automobiles spoilers")
-* ![](https://fi.somethingawful.com/images/shitpost.gif) [New York Times Website issue](http://forums.somethingawful.com/showthread.php?threadid=4070873 "New York Times Website issue")
-* ![](https://fi.somethingawful.com/forums/posticons/icons-08/question.png) [Puppy power!](http://forums.somethingawful.com/showthread.php?threadid=4070869 "Puppy power!")
-* ![](https://fi.somethingawful.com/forums/posticons/icons-08/goonmeet.png) [Have there been any SA-famous goons?](http://forums.somethingawful.com/showthread.php?threadid=4070867 "Have there been any SA-famous goons?")
-* ![](https://fi.somethingawful.com/forums/posticons/icons-08/photos.png) [We need to do this again (draw a goon)](http://forums.somethingawful.com/showthread.php?threadid=4070898 "We need to do this again (draw a goon)")
+* ![](https://fi.somethingawful.com/forums/posticons/samartd-organs.gif) [holy shit its so fuckin hard to find goatse](http://forums.somethingawful.com/showthread.php?threadid=4070909 "holy shit its so fuckin hard to find goatse")
 * ![](https://fi.somethingawful.com/forums/posticons/icons-08/politics.png) [whats the least cool big city in the world](http://forums.somethingawful.com/showthread.php?threadid=4070877 "whats the least cool big city in the world")
+* ![](https://fi.somethingawful.com/forums/posticons/icons-08/photos.png) [We need to do this again (draw a goon)](http://forums.somethingawful.com/showthread.php?threadid=4070898 "We need to do this again (draw a goon)")
 * ![](https://fi.somethingawful.com/forums/posticons/icons-08/sex.png) [I'm watching the movie Quest For Fire](http://forums.somethingawful.com/showthread.php?threadid=4070926 "I'm watching the movie Quest For Fire")
-* ![](https://fi.somethingawful.com/forums/posticons/icons-08/music.png) [You ever hear a song and love it except one part that fucking sucks](http://forums.somethingawful.com/showthread.php?threadid=4070864 "You ever hear a song and love it except one part that fucking sucks")
+* ![](https://fi.somethingawful.com/forums/posticons/byob-explosion.gif) [thing I never "got" about the movie Trains, Planes and Automobiles spoilers](http://forums.somethingawful.com/showthread.php?threadid=4070893 "thing I never "got" about the movie Trains, Planes and Automobiles spoilers")
 
 ### Random Articles
 
-* [Game Legacies](https://www.somethingawful.com/awful-links/awful-link-3838/)
-* [Safety Report: How Safe is Your Safety?](https://www.somethingawful.com/news/safety-report-how/)
-* [Kevin Emitseilu Ikhumetse's Home page](https://www.somethingawful.com/awful-links/awful-link-1269/)
-* [Album Review: Dark Side of the Bith](https://www.somethingawful.com/news/figrin-modal-nodes/)
-* [Question about whales for you clowns](https://www.somethingawful.com/feature-articles/whale-poll/)
+* [Fun with Your Openbook! (Part Two of Two)](https://www.somethingawful.com/comedy-goldmine/openbook-facebook-profiles/1/)
+* [A Horrors of Porn Call to Action](https://www.somethingawful.com/horrors-of-porn/super-hornio-rescue/)
+* [Baseless Speculation: John Travolta](https://www.somethingawful.com/news/john-travolta-controversy/)
+* [Inappropriate Holiday Cards](https://www.somethingawful.com/comedy-goldmine/inappropriate-holiday-cards/1/)
+* [TODD AND BRISTOL BOTH GET TV SHOWS??? COME ON!!!!](https://www.somethingawful.com/levi-johnston/stars-earn-stripes/)
 
 [Random!](https://www.somethingawful.com/random/)
 
