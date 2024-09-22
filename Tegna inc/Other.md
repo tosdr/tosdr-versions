@@ -17,7 +17,7 @@
 * [Investors](https://investors.tegna.com/)
 * [Press](https://www.tegna.com/press/)
 * [Advertise >>](https://www.tegna.com/advertise/)
-    * [Attribution](https://www.tegna.com/advertise/solutions/attribution/)
+    * [Attribution](https://www.tegna.com/advertise/solutions/attribution-data/)
     * [Broadcast](https://www.tegna.com/advertise/solutions/broadcast/)
     * [Custom Solutions](https://www.tegna.com/advertise/solutions/custom-solutions/)
     * [Digital](https://www.tegna.com/advertise/solutions/digital/)
@@ -49,7 +49,7 @@
 * [Press](https://www.tegna.com/press/)
 * Advertise >>
     * [Advertise](https://www.tegna.com/advertise/)
-    * [Attribution](https://www.tegna.com/advertise/solutions/attribution/)
+    * [Attribution](https://www.tegna.com/advertise/solutions/attribution-data/)
     * [Broadcast](https://www.tegna.com/advertise/solutions/broadcast/)
     * [Custom Solutions](https://www.tegna.com/advertise/solutions/custom-solutions/)
     * [Digital](https://www.tegna.com/advertise/solutions/digital/)
