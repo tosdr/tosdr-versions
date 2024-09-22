@@ -258,25 +258,25 @@ New York, NY 10001
 Top of Today
 ------------
 
-1. [![Inset: Todd A. Morgan (Heritage Life Story Funeral Homes). Background: Terreionna Paschal in court (WKYC).](https://am23.mediaite.com/lc/cnt/uploads/2024/09/ohiomurder-1-432x243.jpg)](https://lawandcrime.com/crime/died-for-nothing-woman-learns-fate-after-admitting-to-killing-professor-and-father-of-2-she-met-on-app/)
+1. [![Inset: Robert Brians. Background: Brians' car after he intentionally drove it off of a cliff with his twin daughters inside (KSDN).](https://am22.mediaite.com/lc/cnt/uploads/2024/08/aldsifj-432x243.jpg)](https://lawandcrime.com/crime/the-girls-are-going-to-heaven-and-im-going-to-hell-to-wait-for-you-dad-learns-fate-for-kidnapping-twins-intentionally-driving-pickup-off-cliff-into-ocean/)
+    
+    ### ['The girls are going to Heaven and I'm going to Hell to wait for you': Dad learns fate for kidnapping twins, intentionally driving pickup off cliff into ocean](https://lawandcrime.com/crime/the-girls-are-going-to-heaven-and-im-going-to-hell-to-wait-for-you-dad-learns-fate-for-kidnapping-twins-intentionally-driving-pickup-off-cliff-into-ocean/)
+    
+2. [![Donald Trump, on the left; Tankya Chutkan, on the right](https://am24.mediaite.com/lc/cnt/uploads/2024/08/Trump-Chutkan-432x243.jpg)](https://lawandcrime.com/high-profile/trump-demands-jan-6-judge-promptly-throw-out-jack-smiths-revised-indictment-for-stubborn-reliance-on-mike-pence-seeks-discovery-on-government-operatives/)
+    
+    ### [Trump demands Jan. 6 judge 'promptly' throw out Jack Smith's revised indictment for 'stubborn reliance' on Mike Pence, seeks discovery on government 'operatives'](https://lawandcrime.com/high-profile/trump-demands-jan-6-judge-promptly-throw-out-jack-smiths-revised-indictment-for-stubborn-reliance-on-mike-pence-seeks-discovery-on-government-operatives/)
+    
+3. [![Fani Willis, on the left; Judge Rachel Krause, in the center, Ashleigh Merchant, on the right.](https://am22.mediaite.com/lc/cnt/uploads/2024/09/Willis-Krause-Merchant-432x243.jpg)](https://lawandcrime.com/high-profile/im-tired-of-listening-hearing-related-to-trump-rico-case-goes-off-the-rails-as-judge-says-i-can-read-and-upbraids-both-witness-and-attorney/)
+    
+    ### ['I'm tired of listening': Hearing related to Trump RICO case goes off the rails as judge says 'I can read' and upbraids both witness and attorney](https://lawandcrime.com/high-profile/im-tired-of-listening-hearing-related-to-trump-rico-case-goes-off-the-rails-as-judge-says-i-can-read-and-upbraids-both-witness-and-attorney/)
+    
+4. [![Inset: Todd A. Morgan (Heritage Life Story Funeral Homes). Background: Terreionna Paschal in court (WKYC).](https://am23.mediaite.com/lc/cnt/uploads/2024/09/ohiomurder-1-432x243.jpg)](https://lawandcrime.com/crime/died-for-nothing-woman-learns-fate-after-admitting-to-killing-professor-and-father-of-2-she-met-on-app/)
     
     ### ['Died for nothing': Woman learns fate after admitting to killing professor and father of 2 she met on app](https://lawandcrime.com/crime/died-for-nothing-woman-learns-fate-after-admitting-to-killing-professor-and-father-of-2-she-met-on-app/)
     
-2. [![Rudy Giuliani NYC apartment](https://am21.mediaite.com/lc/cnt/uploads/2024/06/AP23235450331097-432x243.jpg)](https://lawandcrime.com/high-profile/forensic-financial-firm-insists-rudy-giuliani-is-on-another-bad-faith-crusade-to-avoid-paying-bankruptcy-related-tab/)
-    
-    ### ['Specialized' forensic financial advisor insists Rudy Giuliani 'got an incredible deal' and is on 'another baseless and bad faith crusade' to avoid paying up](https://lawandcrime.com/high-profile/forensic-financial-firm-insists-rudy-giuliani-is-on-another-bad-faith-crusade-to-avoid-paying-bankruptcy-related-tab/)
-    
-3. [![Peyton Stewart, Deslyn Williams, Asha Weir, Niamh Rolston, Fraser Michael Bohm](https://am23.mediaite.com/lc/cnt/uploads/2023/10/Pepperdine-432x243.jpg)](https://lawandcrime.com/lawsuit/parents-of-sorority-sisters-and-college-seniors-killed-while-walking-along-dead-mans-curve-by-alleged-speeding-bmw-driver-are-now-suing-california/)
-    
-    ### [Parents of sorority sisters and college seniors killed while walking along 'Dead Man's Curve' by alleged speeding BMW driver are now suing California](https://lawandcrime.com/lawsuit/parents-of-sorority-sisters-and-college-seniors-killed-while-walking-along-dead-mans-curve-by-alleged-speeding-bmw-driver-are-now-suing-california/)
-    
-4. [![Background: In this image taken from video released by the National Transportation and Safety Board, the cargo ship Dali is stuck under part of the structure of the Francis Scott Key Bridge after the ship hit the bridge, Tuesday, March 26, 2024, in Baltimore (NTSB via AP). Inset top: Cargo chain turnbuckle, welded to angle iron, and wedged between the number 1 step-down transformer and steel beam (DOJ court filing). Inset bottom: Cracked steel bracked with weld repair at the number 1 step-down transformer (DOJ court filing).](https://am22.mediaite.com/lc/cnt/uploads/2024/09/Dali-Francis-Scott-Key-bridge-432x243.jpg)](https://lawandcrime.com/lawsuit/cargo-ship-that-knocked-down-francis-scott-key-bridge-was-jury-rigged-with-makeshift-attempts-to-cover-dangerous-conditions-lawsuit/)
+5. [![Background: In this image taken from video released by the National Transportation and Safety Board, the cargo ship Dali is stuck under part of the structure of the Francis Scott Key Bridge after the ship hit the bridge, Tuesday, March 26, 2024, in Baltimore (NTSB via AP). Inset top: Cargo chain turnbuckle, welded to angle iron, and wedged between the number 1 step-down transformer and steel beam (DOJ court filing). Inset bottom: Cracked steel bracked with weld repair at the number 1 step-down transformer (DOJ court filing).](https://am22.mediaite.com/lc/cnt/uploads/2024/09/Dali-Francis-Scott-Key-bridge-432x243.jpg)](https://lawandcrime.com/lawsuit/cargo-ship-that-knocked-down-francis-scott-key-bridge-was-jury-rigged-with-makeshift-attempts-to-cover-dangerous-conditions-lawsuit/)
     
     ### [Cargo ship that knocked down Francis Scott Key Bridge was ‘jury-rigged’ with ‘makeshift’ attempts to cover dangerous conditions: Lawsuit](https://lawandcrime.com/lawsuit/cargo-ship-that-knocked-down-francis-scott-key-bridge-was-jury-rigged-with-makeshift-attempts-to-cover-dangerous-conditions-lawsuit/)
-    
-5. [![Fani Willis, on the left; Judge Rachel Krause, in the center, Ashleigh Merchant, on the right.](https://am22.mediaite.com/lc/cnt/uploads/2024/09/Willis-Krause-Merchant-432x243.jpg)](https://lawandcrime.com/high-profile/im-tired-of-listening-hearing-related-to-trump-rico-case-goes-off-the-rails-as-judge-says-i-can-read-and-upbraids-both-witness-and-attorney/)
-    
-    ### ['I'm tired of listening': Hearing related to Trump RICO case goes off the rails as judge says 'I can read' and upbraids both witness and attorney](https://lawandcrime.com/high-profile/im-tired-of-listening-hearing-related-to-trump-rico-case-goes-off-the-rails-as-judge-says-i-can-read-and-upbraids-both-witness-and-attorney/)
     
 
 [](http://eepurl.com/c89Jdb)
