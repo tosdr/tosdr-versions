@@ -36,6 +36,9 @@
         
         Tor says it’s "still safe" amid reports of police deanonymizing users](https://www.bleepingcomputer.com/news/security/tor-says-its-still-safe-amid-reports-of-police-deanonymizing-users/)
     
+    * [![New Google Chrome feature will translate complex pages in real time](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        New Google Chrome feature will translate complex pages in real time](https://www.bleepingcomputer.com/news/google/new-google-chrome-feature-will-translate-complex-pages-in-real-time/)
     * [![Get started in ethical hacking with this $45 online course bundle](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         Get started in ethical hacking with this $45 online course bundle](https://www.bleepingcomputer.com/offer/deals/get-started-in-ethical-hacking-with-this-45-online-course-bundle/)
@@ -45,9 +48,6 @@
     * [![This cybersecurity study bundle blends theory with hands-on training](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         This cybersecurity study bundle blends theory with hands-on training](https://www.bleepingcomputer.com/offer/deals/this-cybersecurity-study-bundle-blends-theory-with-hands-on-training/)
-    * [![Microsoft ends development of Windows Server Update Services (WSUS)](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        Microsoft ends development of Windows Server Update Services (WSUS)](https://www.bleepingcomputer.com/news/microsoft/microsoft-officially-deprecates-windows-server-update-services-wsus/)
     
 * [Tutorials](https://www.bleepingcomputer.com/tutorials/)
     
