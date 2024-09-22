@@ -113,7 +113,7 @@ triangle borderless
     
     * [Deals](https://www.lorex.com/pages/promotions)
     * [Deals of the Day](https://www.lorex.com/pages/promotions#dotd)
-    * [Big Savings on Security](https://www.lorex.com/pages/promotions)
+    * [Fall Frenzy Sale](https://www.lorex.com/pages/promotions)
     * [Lorex Clearance Outlet](https://www.lorex.com/pages/outlet)
     * [Not-for-profit Support Program](https://www.lorex.com/pages/nonprofit)
     * [Lorex Upgrade Program](https://www.lorex.com/pages/upgrade)
@@ -544,7 +544,7 @@ Your cart is empty
     
     [Deals of the Day](https://www.lorex.com/pages/promotions#dotd)
     
-    [Big Savings on Security](https://www.lorex.com/pages/promotions)
+    [Fall Frenzy Sale](https://www.lorex.com/pages/promotions)
     
     [Lorex Clearance Outlet](https://www.lorex.com/pages/outlet)
     
