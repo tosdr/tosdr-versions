@@ -133,6 +133,6 @@ These Terms will be governed by and construed in accordance with the laws of the
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-I think you do a great job - very responsive time-wise, always clear explanations, willing to answer follow on questions, and so far a 100% success rate!
+The proxy is working very well. I can also view British Netflix which was not the case previously.
 
-Mark Evans
+Paul Kerr
