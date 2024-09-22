@@ -31,6 +31,46 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
+¿Por qué es importante sumarse al Día Mundial sin Auto? 
+========================================================
+
+El Día Mundial Sin Auto promueve la movilidad sostenible y destaca los beneficios de reducir el uso del automóvil.
+------------------------------------------------------------------------------------------------------------------
+
+![El uso excesivo del automóvil aumenta la contaminación, afecta la salud y economía de las personas. Foto: Freepik.](https://www.elcomercio.com/wp-content/uploads/2024/09/dia-mundial-sin-auto.jpg)
+
+El **22 de septiembre** se celebra el **Día Mundial sin Auto**, una iniciativa que **promueve la conciencia ecológica y el uso de medios de transporte más sostenibles**.  
+
+### Más noticias
+
+* [La agenda para este 20, 21 y 22 de septiembre de 2024 en Quito](https://www.elcomercio.com/tendencias/cultura/agenda-cultural-quito-septiembre.html "https://www.elcomercio.com/tendencias/cultura/agenda-cultural-quito-septiembre.html") 
+* [Seis películas con sorprendentes finales abiertos y su análisis](https://www.elcomercio.com/tendencias/cine/peliculas-cine-analisis-final-abierto.html "https://www.elcomercio.com/tendencias/cine/peliculas-cine-analisis-final-abierto.html") 
+
+Según la página [Día Mundial De](https://www.diainternacionalde.com/ficha/dia-mundia-sin-coche "https://www.diainternacionalde.com/ficha/dia-mundia-sin-coche")**, esta fecha se originó en** **1973**, durante la crisis del petróleo, cuando los países árabes de la **OPEP** suspendieron la venta de crudo a las naciones que apoyaron a Israel en la **guerra de Yom Kipur**. Ante la escasez de combustible, **surgieron alternativas como el racionamiento de gasolina y la promoción de transporte más eficiente**. 
+
+En **1994**, ciudades como **Reikiavik (Islandia)** y **La Rochelle (Francia)** celebraron el primer **Día sin Coche**. Para el año 2000, la **Comisión Europea** oficializó el **22 de septiembre** como el **Día Mundial sin Auto**, y se extendió las actividades a una semana completa, conocida como la **Semana Europea de la Movilidad**, con el fin de **reducir el impacto ambiental del transporte motorizado**. 
+
+**¿Por qué evitar el uso del coche en trayectos cortos?** 
+----------------------------------------------------------
+
+El **tráfico rodado** es una de las principales **fuentes de contaminación** en las ciudades. A decir de la web [Endesa](https://www.endesa.com/es/blog/blog-de-endesa/luz/dia-mundial-sin-coche-2022-cuando-como-celebrarlo "https://www.endesa.com/es/blog/blog-de-endesa/luz/dia-mundial-sin-coche-2022-cuando-como-celebrarlo"), el uso del automóvil, incluso en **trayectos cortos**, incrementa el **caos vehicular**, la huella de carbono y la **contaminación acústica**.  
+
+**Los automóviles emiten gases nocivos** como monóxido y dióxido de carbono, lo que afecta gravemente la calidad del aire. Según la **Organización Mundial de la Salud**, el **91% de la población mundial** respira aire que supera los límites recomendados de contaminación, lo que **acelera el envejecimiento pulmonar y aumenta las enfermedades respiratorias**. 
+
+Además, el **uso excesivo del auto** impacta la economía familiar debido a los **costos de gasolina, seguros, mantenimiento e impuestos**. También afecta la calidad de vida de los peatones, especialmente niños y personas mayores, al **reducir los espacios públicos y la movilidad**. Los conductores también ven afectada su salud, ya que, al depender del coche, **no cumplen con la recomendación de** **6 000 pasos diarios**, que equivalen a un paseo mínimo de 30 minutos. 
+
+**Lecciones del Día Mundial sin Auto: movilidad y sostenibilidad** 
+-------------------------------------------------------------------
+
+El **Día Mundial sin Auto** invita a reflexionar sobre los **impactos de la movilidad convenciona**l. Según [Infobae](https://www.infobae.com/autos/2022/09/22/dia-mundial-sin-auto-cuales-son-las-ventajas-y-los-compromisos-ineludibles/ "https://www.infobae.com/autos/2022/09/22/dia-mundial-sin-auto-cuales-son-las-ventajas-y-los-compromisos-ineludibles/"), la llegada de la **movilidad sustentable** y los **autos eléctricos** ha revelado datos sorprendentes. Aunque algunos vehículos ya incluyen piezas recicladas, la mayoría de sus componentes, como acero, plásticos y vidrios, **provienen de procesos industriales que generan contaminación**. Sin embargo, el uso de energías renovables en fábricas ha permitido **reducir este impacto ambiental**. 
+
+Siguiendo con la fuente, el **transporte de una persona en un automóvil** que pesa más de **1 500 kg** resulta desproporcionado frente a su peso promedio de **80 kg**, lo que genera una gran huella de carbono. El **uso de bicicletas o transporte público** no solo reduce emisiones, sino que también **mejora la salud y economía**. Para que la movilidad sea verdaderamente sostenible, se necesita compromiso, como respetar normas de tránsito y cuidar la infraestructura del transporte público. 
+
+Opinión de un especialista
+--------------------------
+
+Para Andrés Castillo, decano de la facultad de Ciencias Técnicas de la UIDE, el Día sin Auto **busca concientizar sobre la protección del medio ambiente** y fomentar el uso de transportes sostenibles, como caminar, andar en bicicleta o usar scooters, para reducir la huella de carbono. **Este día promueve un entorno libre de tráfico y contaminación**, destacando la importancia de la **responsabilidad compartida en la protección del planeta.** A pesar del crecimiento de la tecnología en movilidad, **es crucial reconocer el impacto negativo del sector automotriz en el medio ambiente** y aprovechar esta fecha para reflexionar sobre nuestro compromiso con un futuro más sostenible.
+
 Cartas a Quito / 22 de septiembre de 2024
 =========================================
 
@@ -283,15 +323,17 @@ La mayor traba que tiene el **organismo** es que sus decisiones no son vinculant
 
 Játiva apunta que los desacuerdos y la **integración fallida**, así como la salida de Venezuela, no han permitido que se concreten los objetivos.
 
-¡Es un hecho! 12 provincias de Ecuador tendrán cortes de luz
-============================================================
+Cortes de luz en 12 provincias en Ecuador, hoy; este es el cronograma
+=====================================================================
 
 Ecuador enfrenta la peor sequía en seis décadas. El Gobierno decidió los cortes de luz y la activación de planes para generar lluvias.
 --------------------------------------------------------------------------------------------------------------------------------------
 
 ![Gobierno anuncia apagones para afrontar crisis energética en el Ecuador. Foto: EFE](https://www.elcomercio.com/wp-content/uploads/2024/09/3f19f67fd568713092b946494cec1845144cb394.jpg)
 
-El Gobierno de **Daniel Noboa** informó los horarios de los **cortes de luz** para este domingo 22 de septiembre del 2024. La suspensión del servicio eléctrico es parte de las estrategias para afrontar las **crisis energética** que vive el país a causa de la peor **sequía** de las seis últimas décadas y un déficit de 1 080 MW, que tiene el Ecuador[.](https://es.wikipedia.org/wiki/Ecuador "https://es.wikipedia.org/wiki/Ecuador")
+El Gobierno de **Daniel Noboa** informó los horarios de los **cortes de luz** para este domingo 22 de septiembre del 2024.
+
+La suspensión del servicio eléctrico es parte de las estrategias para afrontar las **crisis energética** que vive el país a causa de la peor **sequía** de las seis últimas décadas y un déficit de 1 080 MW, que tiene el Ecuador[.](https://es.wikipedia.org/wiki/Ecuador "https://es.wikipedia.org/wiki/Ecuador")
 
 ### Más noticias
 
@@ -299,13 +341,21 @@ El Gobierno de **Daniel Noboa** informó los horarios de los **cortes de luz** p
 * [¿Cuándo serán los próximos cortes de luz en Ecuador?](https://www.elcomercio.com/actualidad/negocios/cuando-seran-los-proximos-cortes-de-luz-en-ecuador.html "¿Cuándo serán los próximos cortes de luz en Ecuador?")
 * [Sequía convoca de emergencia a las autoridades de Ecuador en Cuenca](https://www.elcomercio.com/actualidad/negocios/sequia-convoca-emergencia-autoridades-de-ecuador-coe-cuenca.html "Sequía convoca de emergencia a las autoridades de Ecuador en Cuenca")
 
-Tras una sesión del **Comité de Operaciones de Emergencia (COE) Nacional**, las autoridades informaron que el domingo 22 de septiembre se suspenderá el servicio de luz de 08:00 a 17:00 en 12 provincias de Ecuador. Estas son: Azuay, Bolívar, Cañar, Carchi, Cotopaxi, Imbabura, Morona Santiago, Napo, Orellana, Pastaza, Sucumbíos y Zamora Chinchipe. Así lo informó la Presidencia de la República, en un comunicado.
+Cortes de luz en Ecuador
+------------------------
+
+Tras una sesión del **Comité de Operaciones de Emergencia (COE) Nacional**, las autoridades informaron que el domingo 22 de septiembre habrá cortes de luz en Ecuador de 08:00 a 17:00 en 12 provincias.
+
+Estas son las provincias en las que se darán los cortes de luz: Azuay, Bolívar, Cañar, Carchi, Cotopaxi, Imbabura, Morona Santiago, Napo, Orellana, Pastaza, Sucumbíos y Zamora Chinchipe. Así lo informó la Presidencia de la República, en un comunicado.
 
 Además, agregó que, el Ecuador enfrenta una crisis sin precedentes debido a la sequía más grave registrada en los últimos 61 años. Y que acumula 71 días consecutivos sin **precipitaciones significativas**. La situación ha desencadenado más de 1 330 incendios forestales en el último mes.
 
 > A la ciudadanía: [pic.twitter.com/AF70C5mUfo](https://t.co/AF70C5mUfo)
 > 
 > — Presidencia Ecuador 🇪🇨 (@Presidencia\_Ec) [September 22, 2024](https://twitter.com/Presidencia_Ec/status/1837686926083555591?ref_src=twsrc%5Etfw)
+
+Medidas
+-------
 
 Según el Gobierno, el COE Nacional implementó estas medidas inmediatas para **salvaguardar los limitados recursos hídricos**. Una de las principales acciones incluye la suspensión programada del servicio eléctrico en 12 provincias este domingo, 22 de septiembre.
 
@@ -901,42 +951,3 @@ Sin embargo, la gran mayoría no pudieron volver a trabajar en la minería y sob
 Gómez sufría **silicosis tras años trabajando bajo suelo** y en 2017 se convirtió en **oxígeno-dependiente.**
 
 El accidente, del que la **empresa San Esteban** salió impune, marcó un punto de inflexión en los **estándares de seguridad** de la poderosa **minería de Chile**, el primer productor mundial de cobre.
-
-Médica personal de José Mujica habló de su estado de salud
-==========================================================
-
-La doctora a cargo del expresidente de Uruguay dio detalles de su condición médica tras los rumores de un posible fallecimiento.
---------------------------------------------------------------------------------------------------------------------------------
-
-![José Mujica fue presidente de Uruguay entre 2010 y 2015](https://www.elcomercio.com/wp-content/uploads/2024/09/mujica-efe.jpg)
-
-El expresidente de Uruguay, **José ‘Pepe’ Mujica**, continúa recuperándose de su salud en su domicilio.
-
-Así lo confirmó este sábado 21 de septiembre de 2024, su doctora personal **Raquel Pannone**, quien aseguró que la situación del exgobernante es **positiva**.
-
-### Más noticias
-
-* [Fiscalía de Venezuela tramita solicitud de una orden de captura contra Javier Milei](https://www.elcomercio.com/actualidad/mundo/fiscalia-venezuela-tramita-solicitud-orden-captura-contra-javier-milei.html "Fiscalía de Venezuela tramita solicitud de una orden de captura contra Javier Milei")
-* [Gobierno de Venezuela rechaza el respaldo de Estados Unidos a González y a Machado](https://www.elcomercio.com/actualidad/mundo/gobierno-venezuela-rechaza-respaldo-estados-unidos-gonzalez-urrutia-machado.html "Gobierno de Venezuela rechaza el respaldo de Estados Unidos a González y a Machado")
-* [Edmundo González dice que firmó un documento bajo ‘coacción’ y que por tanto es nulo](https://www.elcomercio.com/actualidad/mundo/edmundo-gonzalez-firmo-documento-bajo-coaccion-tanto-nulo.html "Edmundo González dice que firmó un documento bajo ‘coacción’ y que por tanto es nulo")
-
-El comunicado de la médica llegó luego de que varios usuarios en redes sociales especularan sobre el posible **fallecimiento** de Mujica.
-
-El 13 de septiembre, el exmandatario de 89 años abandonó el **hospital** en el que se encontraba internado y donde se le hizo una gastrostomía que dio buen resultado.
-
-Mujica, presidente de Uruguay en el período **2010-2015**, fue intervenido seis días antes. Se le colocó una **sonda de alimentación** que va directamente al estómago.
-
-“Se le está administrando un preparado que está especialmente formulado para cubrir sus necesidades nutricionales. Lo ha tolerado muy bien, le ha permitido mejorar su estado general”, detalló Pannone.
-
-“Mujica continuará alimentándose de esa forma durante el tiempo que **fuera necesario**, para asegurarse un buen aporte alimenticio, mientras la lesión que tienen en el esófago retrocede”, añadió la profesional.
-
-Mujica se recupera en su domicilio
-----------------------------------
-
-El día de su salida de la casa de salud, Pannone también confirmó que el expresidente continuará recuperándose en su domicilio y que se esperará que lentamente pudiera retomar su **movilidad**.
-
-Días antes de la intervención, Mujica había sido internado para ser **rehidratado** tras el poco aporte líquido que estaba recibiendo.
-
-Pannone indicó que las dificultades para alimentarse del exmandatario eran a causa de una fibrosis en el esófago.
-
-Este problema es consecuencia del tratamiento de radioterapia que recibió en dicha zona por un **tumor maligno** del que fue tratado.
