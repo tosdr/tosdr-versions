@@ -1,7 +1,7 @@
 ![](pan1.gif)  
   
   
-131,358 members - 451,677,050 ads shown  
+131,359 members - 451,679,970 ads shown  
   
 GET "LAYERED" ADVERTISING FROM 1 CLICK!  
   
@@ -44,7 +44,7 @@ CREATE ACCOUNT
 WHAT IS LAYERED ADVERTISING?  
 This uses just ONE step to explode multiple ads out all at once, including: your email ad and post a banner ad all with just one click. No credits to assign, no hassles, so this is a serious time saver!  
   
-You just pick your email ad and send it out to other members. These members ARE your target audience as they ARE interested in the same thing as you are. They join programs, need advertising for them and tools. YOUR ADS WILL BE SENT UP TO 131,358 MEMBERS!  
+You just pick your email ad and send it out to other members. These members ARE your target audience as they ARE interested in the same thing as you are. They join programs, need advertising for them and tools. YOUR ADS WILL BE SENT UP TO 131,359 MEMBERS!  
   
   
 
@@ -55,13 +55,13 @@ Sometimes spelled Pangaea, was a single land mass 300 million years ago. All of 
 
 paid member banners
 
-[![](https://boomerangblaster.com/ban34.gif)](https://boomerangblaster.com/romanjeff)
+[![](https://tanfanumhits.com/getimg.php?id=18)](https://tanfanumhits.com/?rid=103)
 
 [![](https://1goldmine.com/ban5.gif)](https://1goldmine.com/sabdev)
 
-[![](https://topdogsrotator.com/a125.gif)](https://topdogsrotator.com/ancients)
+[![](https://boomerangblaster.com/ban44.gif)](https://boomerangblaster.com/sabdev)
 
-[![](https://boomerangblaster.com/ban99.gif)](https://boomerangblaster.com/romanjeff)
+[![](https://boomerangblaster.com/banner23.gif)](https://boomerangblaster.com/purplegerbil)
 
 ![](26yrs0.gif)
 
