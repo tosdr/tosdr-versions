@@ -240,6 +240,10 @@ Menu [![logo](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lo
 * [Manly Know-How](https://www.artofmanliness.com/skills/manly-know-how/)
 * [Outdoor/Survival](https://www.artofmanliness.com/skills/outdoor-survival/)
 
+[![](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/skills/how-to/how-to-handle-3-common-pistol-misfires/)
+
+[How to Handle 3 Common Pistol Misfires](https://www.artofmanliness.com/skills/how-to/how-to-handle-3-common-pistol-misfires/)
+
 [![A person in a red shirt and blue pants rides a horse and swings a lasso, showcasing advanced rope techniques in a desert landscape.](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/skills/how-to/how-to-tie-a-lasso/)
 
 [How to Tie a Lasso](https://www.artofmanliness.com/skills/how-to/how-to-tie-a-lasso/)
@@ -251,10 +255,6 @@ Menu [![logo](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lo
 [![Illustration of a neatly stacked pile of cut logs arranged in a crisscross pattern, showing the ends of the logs with visible rings—perfect to build a summer fire.](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/skills/how-to/how-to-build-a-summer-fire/)
 
 [Skill of the Week: Build a Summer Fire](https://www.artofmanliness.com/skills/how-to/how-to-build-a-summer-fire/)
-
-[![Man doing laundry, reaching inside a washing machine for clothes.](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/skills/how-to/podcast-990-the-dudes-guide-to-laundry-how-to-save-time-money-and-your-wardrobe/)
-
-[Podcast #990: The Dude’s Guide to Laundry: How to Save Time, Money, and Your Wardrobe](https://www.artofmanliness.com/skills/how-to/podcast-990-the-dudes-guide-to-laundry-how-to-save-time-money-and-your-wardrobe/)
 
 [![A person, depicted in a comic style, is performing the French Drop Coin Trick for two children. The kids appear interested and are looking intently at the coin as they watch Cool Uncle Tricks in action.](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/skills/manly-know-how/cool-uncle-tricks-how-to-perform-the-french-drop-coin-trick/)
 
