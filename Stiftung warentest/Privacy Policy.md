@@ -818,12 +818,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Bitcoin Apex: Bericht über Peter Maffay gefälscht](https://www.test.de/Bitcoin-Apex-Bericht-ueber-Peter-Maffay-gefaelscht-6111514-0/ "Bitcoin Apex - Bericht über Peter Maffay gefälscht")
-* [Aufsicht warnt: Vorsicht vor Kaizentech­limited.com](https://www.test.de/Aufsicht-warnt-Vorsicht-bei-Kaizentechlimitedcom-6045723-0/ "Aufsicht warnt - Vorsicht vor Kaizentechlimited.com")
-* [Yogamatten im Test: Auf die Matte, fertig, los!](https://www.test.de/Gymnastikmatten-und-Yogamatten-Test-5954938-0/ "Yogamatten im Test - Auf die Matte, fertig, los!")
-* [Streuung bei der Geld­anlage: Sind Einzel­aktien besser als ETF?](https://www.test.de/Streuung-bei-der-Geldanlage-Sind-Einzelaktien-besser-als-ETF-6116220-0/ "Streuung bei der Geldanlage - Sind Einzelaktien besser als ETF?")
-* [Hilferuf per Satellit: iPhones funken jetzt ins Welt­all](https://www.test.de/Neue-iPhone-Funktion-Hilferuf-per-Satellit-5952479-0/ "Hilferuf per Satellit - iPhones funken jetzt ins Weltall")
-* [Über­gangs­pflege: Wann Patienten länger im Kranken­haus bleiben dürfen](https://www.test.de/Uebergangspflege-6078178-0/ "Übergangspflege - Wann Patienten länger im Krankenhaus bleiben dürfen")
+* [Dubiose Onlinebroker: Eternity Business Ltd. fehlt Zulassung](https://www.test.de/Dubiose-Onlinebroker-Eternity-Business-Ltd-fehlt-Zulassung-6031051-0/ "Dubiose Onlinebroker - Eternity Business Ltd. fehlt Zulassung")
+* [Tages­geld: Welche Neobanken gute Zinsen bieten](https://www.test.de/Tagesgeld-Welche-Neobanken-gute-Zinsen-bieten-6124300-0/ "Tagesgeld - Welche Neobanken gute Zinsen bieten")
+* [Kurz­sichtig­keit bei Kindern behandeln: Teure Therapien genau abwägen](https://www.test.de/Kurzsichtigkeit-bei-Kindern-behandeln-Teure-Therapien-genau-abwaegen-6139358-0/ "Kurzsichtigkeit bei Kindern behandeln - Teure Therapien genau abwägen")
+* [Tages­geld: Welche Neobanken gute Zinsen bieten](https://www.test.de/Tagesgeld-Welche-Neobanken-gute-Zinsen-bieten-6124300-0/ "Tagesgeld - Welche Neobanken gute Zinsen bieten")
+* [Einlagen bei Inkontinenz: Vier diskrete Helfer bei Blasen­schwäche](https://www.test.de/Einlagen-bei-Inkontinenz-Vier-diskrete-Helfer-bei-Blasenschwaeche-5973800-0/ "Einlagen bei Inkontinenz - Vier diskrete Helfer bei Blasenschwäche")
+* [Krypto-Währung: Aufsicht baut Bitcoin-Auto­maten ab](https://www.test.de/Krypto-Waehrung-Aufsicht-baut-Bitcoin-Automaten-ab-6150587-0/ "Krypto-Währung - Aufsicht baut Bitcoin-Automaten ab")
 
 Fußbereich
 
@@ -3863,12 +3863,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Bitcoin Apex: Bericht über Peter Maffay gefälscht](https://www.test.de/Bitcoin-Apex-Bericht-ueber-Peter-Maffay-gefaelscht-6111514-0/ "Bitcoin Apex - Bericht über Peter Maffay gefälscht")
-* [Aufsicht warnt: Vorsicht vor Kaizentech­limited.com](https://www.test.de/Aufsicht-warnt-Vorsicht-bei-Kaizentechlimitedcom-6045723-0/ "Aufsicht warnt - Vorsicht vor Kaizentechlimited.com")
-* [Yogamatten im Test: Auf die Matte, fertig, los!](https://www.test.de/Gymnastikmatten-und-Yogamatten-Test-5954938-0/ "Yogamatten im Test - Auf die Matte, fertig, los!")
-* [Streuung bei der Geld­anlage: Sind Einzel­aktien besser als ETF?](https://www.test.de/Streuung-bei-der-Geldanlage-Sind-Einzelaktien-besser-als-ETF-6116220-0/ "Streuung bei der Geldanlage - Sind Einzelaktien besser als ETF?")
-* [Hilferuf per Satellit: iPhones funken jetzt ins Welt­all](https://www.test.de/Neue-iPhone-Funktion-Hilferuf-per-Satellit-5952479-0/ "Hilferuf per Satellit - iPhones funken jetzt ins Weltall")
-* [Über­gangs­pflege: Wann Patienten länger im Kranken­haus bleiben dürfen](https://www.test.de/Uebergangspflege-6078178-0/ "Übergangspflege - Wann Patienten länger im Krankenhaus bleiben dürfen")
+* [Dubiose Onlinebroker: Eternity Business Ltd. fehlt Zulassung](https://www.test.de/Dubiose-Onlinebroker-Eternity-Business-Ltd-fehlt-Zulassung-6031051-0/ "Dubiose Onlinebroker - Eternity Business Ltd. fehlt Zulassung")
+* [Tages­geld: Welche Neobanken gute Zinsen bieten](https://www.test.de/Tagesgeld-Welche-Neobanken-gute-Zinsen-bieten-6124300-0/ "Tagesgeld - Welche Neobanken gute Zinsen bieten")
+* [Kurz­sichtig­keit bei Kindern behandeln: Teure Therapien genau abwägen](https://www.test.de/Kurzsichtigkeit-bei-Kindern-behandeln-Teure-Therapien-genau-abwaegen-6139358-0/ "Kurzsichtigkeit bei Kindern behandeln - Teure Therapien genau abwägen")
+* [Tages­geld: Welche Neobanken gute Zinsen bieten](https://www.test.de/Tagesgeld-Welche-Neobanken-gute-Zinsen-bieten-6124300-0/ "Tagesgeld - Welche Neobanken gute Zinsen bieten")
+* [Einlagen bei Inkontinenz: Vier diskrete Helfer bei Blasen­schwäche](https://www.test.de/Einlagen-bei-Inkontinenz-Vier-diskrete-Helfer-bei-Blasenschwaeche-5973800-0/ "Einlagen bei Inkontinenz - Vier diskrete Helfer bei Blasenschwäche")
+* [Krypto-Währung: Aufsicht baut Bitcoin-Auto­maten ab](https://www.test.de/Krypto-Waehrung-Aufsicht-baut-Bitcoin-Automaten-ab-6150587-0/ "Krypto-Währung - Aufsicht baut Bitcoin-Automaten ab")
 
 Weitere spannende Themen
 
@@ -3883,12 +3883,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Bitcoin Apex: Bericht über Peter Maffay gefälscht](https://www.test.de/Bitcoin-Apex-Bericht-ueber-Peter-Maffay-gefaelscht-6111514-0/ "Bitcoin Apex - Bericht über Peter Maffay gefälscht")
-* [Aufsicht warnt: Vorsicht vor Kaizentech­limited.com](https://www.test.de/Aufsicht-warnt-Vorsicht-bei-Kaizentechlimitedcom-6045723-0/ "Aufsicht warnt - Vorsicht vor Kaizentechlimited.com")
-* [Yogamatten im Test: Auf die Matte, fertig, los!](https://www.test.de/Gymnastikmatten-und-Yogamatten-Test-5954938-0/ "Yogamatten im Test - Auf die Matte, fertig, los!")
-* [Streuung bei der Geld­anlage: Sind Einzel­aktien besser als ETF?](https://www.test.de/Streuung-bei-der-Geldanlage-Sind-Einzelaktien-besser-als-ETF-6116220-0/ "Streuung bei der Geldanlage - Sind Einzelaktien besser als ETF?")
-* [Hilferuf per Satellit: iPhones funken jetzt ins Welt­all](https://www.test.de/Neue-iPhone-Funktion-Hilferuf-per-Satellit-5952479-0/ "Hilferuf per Satellit - iPhones funken jetzt ins Weltall")
-* [Über­gangs­pflege: Wann Patienten länger im Kranken­haus bleiben dürfen](https://www.test.de/Uebergangspflege-6078178-0/ "Übergangspflege - Wann Patienten länger im Krankenhaus bleiben dürfen")
+* [Dubiose Onlinebroker: Eternity Business Ltd. fehlt Zulassung](https://www.test.de/Dubiose-Onlinebroker-Eternity-Business-Ltd-fehlt-Zulassung-6031051-0/ "Dubiose Onlinebroker - Eternity Business Ltd. fehlt Zulassung")
+* [Tages­geld: Welche Neobanken gute Zinsen bieten](https://www.test.de/Tagesgeld-Welche-Neobanken-gute-Zinsen-bieten-6124300-0/ "Tagesgeld - Welche Neobanken gute Zinsen bieten")
+* [Kurz­sichtig­keit bei Kindern behandeln: Teure Therapien genau abwägen](https://www.test.de/Kurzsichtigkeit-bei-Kindern-behandeln-Teure-Therapien-genau-abwaegen-6139358-0/ "Kurzsichtigkeit bei Kindern behandeln - Teure Therapien genau abwägen")
+* [Tages­geld: Welche Neobanken gute Zinsen bieten](https://www.test.de/Tagesgeld-Welche-Neobanken-gute-Zinsen-bieten-6124300-0/ "Tagesgeld - Welche Neobanken gute Zinsen bieten")
+* [Einlagen bei Inkontinenz: Vier diskrete Helfer bei Blasen­schwäche](https://www.test.de/Einlagen-bei-Inkontinenz-Vier-diskrete-Helfer-bei-Blasenschwaeche-5973800-0/ "Einlagen bei Inkontinenz - Vier diskrete Helfer bei Blasenschwäche")
+* [Krypto-Währung: Aufsicht baut Bitcoin-Auto­maten ab](https://www.test.de/Krypto-Waehrung-Aufsicht-baut-Bitcoin-Automaten-ab-6150587-0/ "Krypto-Währung - Aufsicht baut Bitcoin-Automaten ab")
 
 Neueste Tests
 
@@ -3901,12 +3901,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Bitcoin Apex: Bericht über Peter Maffay gefälscht](https://www.test.de/Bitcoin-Apex-Bericht-ueber-Peter-Maffay-gefaelscht-6111514-0/ "Bitcoin Apex - Bericht über Peter Maffay gefälscht")
-* [Aufsicht warnt: Vorsicht vor Kaizentech­limited.com](https://www.test.de/Aufsicht-warnt-Vorsicht-bei-Kaizentechlimitedcom-6045723-0/ "Aufsicht warnt - Vorsicht vor Kaizentechlimited.com")
-* [Yogamatten im Test: Auf die Matte, fertig, los!](https://www.test.de/Gymnastikmatten-und-Yogamatten-Test-5954938-0/ "Yogamatten im Test - Auf die Matte, fertig, los!")
-* [Streuung bei der Geld­anlage: Sind Einzel­aktien besser als ETF?](https://www.test.de/Streuung-bei-der-Geldanlage-Sind-Einzelaktien-besser-als-ETF-6116220-0/ "Streuung bei der Geldanlage - Sind Einzelaktien besser als ETF?")
-* [Hilferuf per Satellit: iPhones funken jetzt ins Welt­all](https://www.test.de/Neue-iPhone-Funktion-Hilferuf-per-Satellit-5952479-0/ "Hilferuf per Satellit - iPhones funken jetzt ins Weltall")
-* [Über­gangs­pflege: Wann Patienten länger im Kranken­haus bleiben dürfen](https://www.test.de/Uebergangspflege-6078178-0/ "Übergangspflege - Wann Patienten länger im Krankenhaus bleiben dürfen")
+* [Dubiose Onlinebroker: Eternity Business Ltd. fehlt Zulassung](https://www.test.de/Dubiose-Onlinebroker-Eternity-Business-Ltd-fehlt-Zulassung-6031051-0/ "Dubiose Onlinebroker - Eternity Business Ltd. fehlt Zulassung")
+* [Tages­geld: Welche Neobanken gute Zinsen bieten](https://www.test.de/Tagesgeld-Welche-Neobanken-gute-Zinsen-bieten-6124300-0/ "Tagesgeld - Welche Neobanken gute Zinsen bieten")
+* [Kurz­sichtig­keit bei Kindern behandeln: Teure Therapien genau abwägen](https://www.test.de/Kurzsichtigkeit-bei-Kindern-behandeln-Teure-Therapien-genau-abwaegen-6139358-0/ "Kurzsichtigkeit bei Kindern behandeln - Teure Therapien genau abwägen")
+* [Tages­geld: Welche Neobanken gute Zinsen bieten](https://www.test.de/Tagesgeld-Welche-Neobanken-gute-Zinsen-bieten-6124300-0/ "Tagesgeld - Welche Neobanken gute Zinsen bieten")
+* [Einlagen bei Inkontinenz: Vier diskrete Helfer bei Blasen­schwäche](https://www.test.de/Einlagen-bei-Inkontinenz-Vier-diskrete-Helfer-bei-Blasenschwaeche-5973800-0/ "Einlagen bei Inkontinenz - Vier diskrete Helfer bei Blasenschwäche")
+* [Krypto-Währung: Aufsicht baut Bitcoin-Auto­maten ab](https://www.test.de/Krypto-Waehrung-Aufsicht-baut-Bitcoin-Automaten-ab-6150587-0/ "Krypto-Währung - Aufsicht baut Bitcoin-Automaten ab")
 
 Service Stiftung Warentest
 
