@@ -1,4 +1,4 @@
-[![watson](https://www.watson.ch/fr/_watsui/static/img/logos/logo_watson_navi_ch.png)](https://www.watson.ch/fr/)[![en partie ensoleillé](https://www.watson.ch/fr/_watsui/static/img/weather/w-3.svg)20°](https://www.watson.ch/fr/o/meteo)
+[![watson](https://www.watson.ch/fr/_watsui/static/img/logos/logo_watson_navi_ch.png)](https://www.watson.ch/fr/)[![averses éparses](https://www.watson.ch/fr/_watsui/static/img/weather/w-7.svg)14°](https://www.watson.ch/fr/o/meteo)
 
 [DE](https://www.watson.ch/) | [FR](https://www.watson.ch/fr/)
 
@@ -56,21 +56,21 @@
 Thèmes du moment
 
 * [votations 2024](https://www.watson.ch/fr/votations-2024/)
+* [Berne](https://www.watson.ch/fr/berne/)
+* [Moutier](https://www.watson.ch/fr/moutier/)
 * [retraite](https://www.watson.ch/fr/retraite/)
 * [Nature](https://www.watson.ch/fr/nature/)
 * [Politique](https://www.watson.ch/fr/politique/)
 * [Genève](https://www.watson.ch/fr/geneve/)
-* [Remco Evenepoel](https://www.watson.ch/fr/remco-evenepoel/)
-* [Football](https://www.watson.ch/fr/football/)
-* [Guerre contre l'Ukraine](https://www.watson.ch/fr/guerre-contre-l-ukraine/)
 * [Iran](https://www.watson.ch/fr/iran/)
-* [Vaud](https://www.watson.ch/fr/vaud/)
-* [Police](https://www.watson.ch/fr/police/)
+* [Guerre contre l'Ukraine](https://www.watson.ch/fr/guerre-contre-l-ukraine/)
+* [Football](https://www.watson.ch/fr/football/)
 * [Mode](https://www.watson.ch/fr/mode/)
+* [Jura](https://www.watson.ch/fr/jura/)
+* [Commentaire](https://www.watson.ch/fr/commentaire/)
 * [Votation](https://www.watson.ch/fr/votation/)
 * [En direct](https://www.watson.ch/fr/en-direct/)
 * [Argent](https://www.watson.ch/fr/argent/)
-* [Enfants](https://www.watson.ch/fr/enfants/)
 * [France](https://www.watson.ch/fr/france/)
 * [Etats-Unis](https://www.watson.ch/fr/etats-unis/)
 * [Russie](https://www.watson.ch/fr/russie/)
