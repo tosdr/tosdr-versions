@@ -78,7 +78,7 @@ Search
 
 #### Breaking News
 
-[Kamala Harris to skip traditional Al Smith dinner, first time presidential candidate has ducked charity event since 1984](https://nypost.com/2024/09/21/us-news/kamala-harris-to-skip-traditional-al-smith-dinner-first-time-presidential-candidate-has-ducked-charity-event-since-1984/)
+[4 dead, more than 20 wounded in Birmingham late night shooting, Alabama police say](https://nypost.com/2024/09/22/us-news/alabama-shooting-leaves-4-killed-at-least-21-injured-in-birmingham/)
 
 Privacy Notice Highlights
 =========================
