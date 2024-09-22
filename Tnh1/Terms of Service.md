@@ -50,31 +50,31 @@ Empresa tem 15 dias para prestar explicações sobre morte de trabalhador na Pon
 
 [Leia tudo sobre Alagoas](https://www.tnh1.com.br/noticias/editoria/alagoas/ "Ir para Alagoas")
 
-   [![Fiscalização identifica novos desvios de água no município sertanejo de Monteirópolis](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/e/6/csm_fiscalizacao-identifica-novos-desvios-de-agua-no-municipio-sertanejo-de-monteiropolis_a35b178293.jpg)
+   [![Confira os ganhadores do Alagoas dá Sorte deste domingo, 22 de setembro](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/6/2/csm_ALAGOAS_DA_SORTE_15ed4607ed.jpg)
+
+Sortudos!
+
+Confira os ganhadores do Alagoas dá Sorte deste domingo, 22 de setembro](https://www.tnh1.com.br/noticia/nid/confira-os-ganhadores-do-alagoas-da-sorte-deste-domingo-22-de-setembro/ "Confira os ganhadores do Alagoas dá Sorte deste domingo, 22 de setembro")   [![Fiscalização identifica novos desvios de água no município sertanejo de Monteirópolis](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/e/6/csm_fiscalizacao-identifica-novos-desvios-de-agua-no-municipio-sertanejo-de-monteiropolis_a35b178293.jpg)
 
 Alagoas
 
-Fiscalização identifica novos desvios de água no município sertanejo de Monteirópolis](https://www.tnh1.com.br/noticia/nid/fiscalizacao-identifica-novos-desvios-de-agua-no-municipio-sertanejo-de-monteiropolis/ "Fiscalização identifica novos desvios de água no município sertanejo de Monteirópolis")   [![Veterinários alagoanos serão homenageados em premiação nesta sexta-feira](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/0/a/csm_veterinarios_ac39f32153.png)
+Fiscalização identifica novos desvios de água no município sertanejo de Monteirópolis](https://www.tnh1.com.br/noticia/nid/fiscalizacao-identifica-novos-desvios-de-agua-no-municipio-sertanejo-de-monteiropolis/ "Fiscalização identifica novos desvios de água no município sertanejo de Monteirópolis")   [![Veterinários alagoanos serão homenageados em premiação nesta sexta-feira](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/0/a/csm_veterinarios_ac39f32153.png)
 
 Mês do Veterinário
 
-Veterinários alagoanos serão homenageados em premiação nesta sexta-feira](https://www.tnh1.com.br/noticia/nid/veterinarios-alagoanos-serao-homenageados-em-premiacao-nesta-sexta-feira/ "Veterinários alagoanos serão homenageados em premiação nesta sexta-feira")   [![Governo publica procedimentos para pagamento do rateio do Fundef em Alagoas; confira](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/1/f/csm_real_moedadinheiro_jfcrz_abr_1701220049_1_14b8d66d3b.jpg)
+Veterinários alagoanos serão homenageados em premiação nesta sexta-feira](https://www.tnh1.com.br/noticia/nid/veterinarios-alagoanos-serao-homenageados-em-premiacao-nesta-sexta-feira/ "Veterinários alagoanos serão homenageados em premiação nesta sexta-feira")   [![Governo publica procedimentos para pagamento do rateio do Fundef em Alagoas; confira](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/1/f/csm_real_moedadinheiro_jfcrz_abr_1701220049_1_14b8d66d3b.jpg)
 
 mais de R$ 827 milhões
 
-Governo publica procedimentos para pagamento do rateio do Fundef em Alagoas; confira](https://www.tnh1.com.br/noticia/nid/governo-publica-procedimentos-para-pagamento-do-rateio-do-fundef-em-alagoas-confira/ "Governo publica procedimentos para pagamento do rateio do Fundef em Alagoas; confira")   [![Governo lança campanha para consolidar Alagoas como capital nacional do Réveillon; confira as festas](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/b/3/csm_campanha-reveillon-pedro-acioli_294c207a25.jpg)
+Governo publica procedimentos para pagamento do rateio do Fundef em Alagoas; confira](https://www.tnh1.com.br/noticia/nid/governo-publica-procedimentos-para-pagamento-do-rateio-do-fundef-em-alagoas-confira/ "Governo publica procedimentos para pagamento do rateio do Fundef em Alagoas; confira")   [![Governo lança campanha para consolidar Alagoas como capital nacional do Réveillon; confira as festas](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/b/3/csm_campanha-reveillon-pedro-acioli_294c207a25.jpg)
 
 programação
 
-Governo lança campanha para consolidar Alagoas como capital nacional do Réveillon; confira as festas](https://www.tnh1.com.br/noticia/nid/governo-lanca-campanha-para-consolidar-alagoas-como-capital-nacional-do-reveillon-confira-as-festas/ "Governo lança campanha para consolidar Alagoas como capital nacional do Réveillon; confira as festas")   [![Estudos e soluções: reunião no MPF discute prevenção de enchentes, inundações e deslizamentos em AL](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/f/9/csm_reuniao_mpf_19-09-24_367b35768d.jpeg)
+Governo lança campanha para consolidar Alagoas como capital nacional do Réveillon; confira as festas](https://www.tnh1.com.br/noticia/nid/governo-lanca-campanha-para-consolidar-alagoas-como-capital-nacional-do-reveillon-confira-as-festas/ "Governo lança campanha para consolidar Alagoas como capital nacional do Réveillon; confira as festas")   [![Estudos e soluções: reunião no MPF discute prevenção de enchentes, inundações e deslizamentos em AL](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/f/9/csm_reuniao_mpf_19-09-24_367b35768d.jpeg)
 
 minimizar impacto
 
-Estudos e soluções: reunião no MPF discute prevenção de enchentes, inundações e deslizamentos em AL](https://www.tnh1.com.br/noticia/nid/estudos-e-solucoes-reuniao-no-mpf-discute-prevencao-de-enchentes-inundacoes-e-deslizamentos-em-al/ "Estudos e soluções: reunião no MPF discute prevenção de enchentes, inundações e deslizamentos em AL")   [![Polícia Científica procura familiares de homem que vivia em situação de rua em Penedo](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/0/c/csm_policia-cientifica-procura-familiares-de-homem-que-vivia-em-situacao-de-rua-em-penedo_2c1a75ba69.jpeg)
-
-Alagoas
-
-Polícia Científica procura familiares de homem que vivia em situação de rua em Penedo](https://www.tnh1.com.br/noticia/nid/policia-cientifica-procura-familiares-de-homem-que-vivia-em-situacao-de-rua-em-penedo/ "Polícia Científica procura familiares de homem que vivia em situação de rua em Penedo")
+Estudos e soluções: reunião no MPF discute prevenção de enchentes, inundações e deslizamentos em AL](https://www.tnh1.com.br/noticia/nid/estudos-e-solucoes-reuniao-no-mpf-discute-prevencao-de-enchentes-inundacoes-e-deslizamentos-em-al/ "Estudos e soluções: reunião no MPF discute prevenção de enchentes, inundações e deslizamentos em AL")
 
 [Polícia](https://www.tnh1.com.br/noticias/editoria/policia/ "Polícia")
 
@@ -82,31 +82,31 @@ Polícia Científica procura familiares de homem que vivia em situação de rua 
 
 [Leia tudo sobre Polícia](https://www.tnh1.com.br/noticias/editoria/policia/ "Ir para Polícia")
 
-   [![Mulher assassinada é queimada e tem corpo encontrado ainda em chamas por familiares ](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/f/5/csm_mulher_canapi_0f1a805140.jpeg)
+   [![Quatro corpos são encontrados no intervalo de uma hora e meia, em Rio Largo](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/9/2/csm_IML_Maceio_-_foto_Policia_Cientifica_2_539ce66547.jpeg)
+
+Três em fazenda
+
+Quatro corpos são encontrados no intervalo de uma hora e meia, em Rio Largo](https://www.tnh1.com.br/noticia/nid/quatro-corpos-sao-encontrados-no-intervalo-de-uma-hora-e-meia-em-rio-largo/ "Quatro corpos são encontrados no intervalo de uma hora e meia, em Rio Largo")   [![Homem denunciado por agredir mulher é preso com quase 150 pacotes de cocaína, em Maragogi](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/6/9/csm_apreensao_maragogi_-_foto_cortesia_c8ca9ee969.jpeg)
+
+Apreensão de drogas
+
+Homem denunciado por agredir mulher é preso com quase 150 pacotes de cocaína, em Maragogi](https://www.tnh1.com.br/noticia/nid/homem-denunciado-por-agredir-mulher-e-preso-com-quase-150-pacotes-de-cocaina-em-maragogi/ "Homem denunciado por agredir mulher é preso com quase 150 pacotes de cocaína, em Maragogi")   [![Cervejaria é interditada por irregularidades após operação policial no Feitosa](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/6/8/csm_operacao_feitosa_-_foto_reproducao_5e82bc93d9.jpg)
+
+Foi denunciada
+
+Cervejaria é interditada por irregularidades após operação policial no Feitosa](https://www.tnh1.com.br/noticia/nid/cervejaria-e-interditada-por-irregularidades-apos-operacao-policial-no-feitosa/ "Cervejaria é interditada por irregularidades após operação policial no Feitosa")   [![Marido de mulher que teve o corpo encontrado em chamas é preso e confessa crime no Sertão de Alagoas](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/7/4/csm_prisao_feminicida_inhapi_-_foto_reproducao_video_4547273e35.png)
+
+Inhapi
+
+Marido de mulher que teve o corpo encontrado em chamas é preso e confessa crime no Sertão de Alagoas](https://www.tnh1.com.br/noticia/nid/marido-de-mulher-que-teve-o-corpo-encontrado-em-chamas-e-preso-e-confessa-crime-no-sertao-de-alagoas/ "Marido de mulher que teve o corpo encontrado em chamas é preso e confessa crime no Sertão de Alagoas")   [![Mulher assassinada é queimada e tem corpo encontrado ainda em chamas por familiares ](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/f/5/csm_mulher_canapi_0f1a805140.jpeg)
 
 em inhapi
 
-Mulher assassinada é queimada e tem corpo encontrado ainda em chamas por familiares](https://www.tnh1.com.br/noticia/nid/mulher-assassinada-e-queimada-e-tem-corpo-encontrado-ainda-em-chamas-por-familiares/ "Mulher assassinada é queimada e tem corpo encontrado ainda em chamas por familiares ")   [![Mais de 25 mil pés de maconha são apreendidos no interior de Alagoas após denúncia anônima](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/c/c/csm_maconha_canapi_185f504b04.jpeg)
+Mulher assassinada é queimada e tem corpo encontrado ainda em chamas por familiares](https://www.tnh1.com.br/noticia/nid/mulher-assassinada-e-queimada-e-tem-corpo-encontrado-ainda-em-chamas-por-familiares/ "Mulher assassinada é queimada e tem corpo encontrado ainda em chamas por familiares ")   [![Mais de 25 mil pés de maconha são apreendidos no interior de Alagoas após denúncia anônima](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/c/c/csm_maconha_canapi_185f504b04.jpeg)
 
 geneticamente modificada
 
-Mais de 25 mil pés de maconha são apreendidos no interior de Alagoas após denúncia anônima](https://www.tnh1.com.br/noticia/nid/mais-de-25-mil-pes-de-maconha-sao-apreendidos-no-interior-de-alagoas-apos-denuncia-anonima/ "Mais de 25 mil pés de maconha são apreendidos no interior de Alagoas após denúncia anônima")   [![Jovem de 22 anos é preso após atirar contra policiais militares em Arapiraca](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/b/2/csm_Jovem_Preso_Disparos_b6fedd1c0f.jpg)
-
-Interior
-
-Jovem de 22 anos é preso após atirar contra policiais militares em Arapiraca](https://www.tnh1.com.br/noticia/nid/jovem-de-22-anos-e-preso-apos-atirar-contra-policiais-militares-em-arapiraca/ "Jovem de 22 anos é preso após atirar contra policiais militares em Arapiraca")   [![Mulher é presa após se recusar a baixar volume do som e ameaçar policiais](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/9/8/csm_programa-na-base-do-sossego-apreende-sete-equipamentos-sonoros-em-operacoes-na-capital_f28378b278.jpeg)
-
-Jacintinho
-
-Mulher é presa após se recusar a baixar volume do som e ameaçar policiais](https://www.tnh1.com.br/noticia/nid/mulher-e-presa-apos-se-recusar-a-baixar-volume-do-som-e-ameacar-policiais/ "Mulher é presa após se recusar a baixar volume do som e ameaçar policiais")   [![Homem é preso após matar o próprio cão a pauladas e ameaçar policiais de morte, no Jacintinho](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/5/a/csm_viatura_forca_tarefa_arquivo_ecc0a38459.jpg)
-
-Polícia
-
-Homem é preso após matar o próprio cão a pauladas e ameaçar policiais de morte, no Jacintinho](https://www.tnh1.com.br/noticia/nid/homem-e-preso-apos-matar-o-proprio-cao-a-pauladas-e-ameacar-policiais-de-morte-no-jacintinho/ "Homem é preso após matar o próprio cão a pauladas e ameaçar policiais de morte, no Jacintinho")   [![Dupla é presa após flagrante de pedras de crack, revólveres e R$ 11,5 mil, no Sertão de Alagoas](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/5/4/csm_apreensao_santana_do_ipanema_-_foto_cortesia_0c5f99c331.jpeg)
-
-comparsas de crimes
-
-Dupla é presa após flagrante de pedras de crack, revólveres e R$ 11,5 mil, no Sertão de Alagoas](https://www.tnh1.com.br/noticia/nid/dupla-e-presa-apos-flagrante-de-pedras-de-crack-revolveres-e-r-115-mil-no-sertao-de-alagoas/ "Dupla é presa após flagrante de pedras de crack, revólveres e R$ 11,5 mil, no Sertão de Alagoas")
+Mais de 25 mil pés de maconha são apreendidos no interior de Alagoas após denúncia anônima](https://www.tnh1.com.br/noticia/nid/mais-de-25-mil-pes-de-maconha-sao-apreendidos-no-interior-de-alagoas-apos-denuncia-anonima/ "Mais de 25 mil pés de maconha são apreendidos no interior de Alagoas após denúncia anônima")
 
 [Blogs](https://www.tnh1.com.br/blogs/ "Blogs")
 
@@ -206,15 +206,7 @@ em inhapi
 
 Mulher assassinada é queimada e tem corpo encontrado ainda em chamas por familiares
 
-Mulher assassinada é queimada e tem corpo encontrado ainda em chamas por familiares](https://www.tnh1.com.br/noticia/nid/mulher-assassinada-e-queimada-e-tem-corpo-encontrado-ainda-em-chamas-por-familiares/ "Mulher assassinada é queimada e tem corpo encontrado ainda em chamas por familiares ")[![Colisão entre carro e carreta deixa quatro mortos e três feridos na BR-312, em Delmiro Gouveia](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/c/9/csm_Acidente_carreta_e29220f661.jpg)
-
-Interior
-
-Interior
-
-Colisão entre carro e carreta deixa quatro mortos e três feridos na BR-312, em Delmiro Gouveia
-
-Colisão entre carro e carreta deixa quatro mortos e três feridos na BR-312, em Delmiro Gouveia](https://www.tnh1.com.br/noticia/nid/colisao-entre-carro-e-carreta-deixa-quatro-mortos-e-tres-feridos-na-br-312-em-delmiro-gouveia/ "Colisão entre carro e carreta deixa quatro mortos e três feridos na BR-312, em Delmiro Gouveia")[![Veja pontuação necessária para CRB atingir 'número ideal' e tentar fugir do rebaixamento](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/1/a/csm_CRB_x_Ponte_Preta_foto_Francisco_Cedrim_a951fa8363.jpg)
+Mulher assassinada é queimada e tem corpo encontrado ainda em chamas por familiares](https://www.tnh1.com.br/noticia/nid/mulher-assassinada-e-queimada-e-tem-corpo-encontrado-ainda-em-chamas-por-familiares/ "Mulher assassinada é queimada e tem corpo encontrado ainda em chamas por familiares ")[![Veja pontuação necessária para CRB atingir 'número ideal' e tentar fugir do rebaixamento](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/1/a/csm_CRB_x_Ponte_Preta_foto_Francisco_Cedrim_a951fa8363.jpg)
 
 CALCULADORA NA MÃO
 
@@ -222,7 +214,15 @@ CALCULADORA NA MÃO
 
 Veja pontuação necessária para CRB atingir 'número ideal' e tentar fugir do rebaixamento
 
-Veja pontuação necessária para CRB atingir 'número ideal' e tentar fugir do rebaixamento](https://www.tnh1.com.br/noticia/nid/veja-pontuacao-necessaria-para-crb-atingir-numero-ideal-e-tentar-fugir-do-rebaixamento/ "Veja pontuação necessária para CRB atingir 'número ideal' e tentar fugir do rebaixamento")[![Mais de 25 mil pés de maconha são apreendidos no interior de Alagoas após denúncia anônima](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/c/c/csm_maconha_canapi_77da53e569.jpeg)
+Veja pontuação necessária para CRB atingir 'número ideal' e tentar fugir do rebaixamento](https://www.tnh1.com.br/noticia/nid/veja-pontuacao-necessaria-para-crb-atingir-numero-ideal-e-tentar-fugir-do-rebaixamento/ "Veja pontuação necessária para CRB atingir 'número ideal' e tentar fugir do rebaixamento")[![Colisão entre carro e carreta deixa quatro mortos e três feridos na BR-312, em Delmiro Gouveia](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/c/9/csm_Acidente_carreta_e29220f661.jpg)
+
+Interior
+
+Interior
+
+Colisão entre carro e carreta deixa quatro mortos e três feridos na BR-312, em Delmiro Gouveia
+
+Colisão entre carro e carreta deixa quatro mortos e três feridos na BR-312, em Delmiro Gouveia](https://www.tnh1.com.br/noticia/nid/colisao-entre-carro-e-carreta-deixa-quatro-mortos-e-tres-feridos-na-br-312-em-delmiro-gouveia/ "Colisão entre carro e carreta deixa quatro mortos e três feridos na BR-312, em Delmiro Gouveia")[![Mais de 25 mil pés de maconha são apreendidos no interior de Alagoas após denúncia anônima](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/c/c/csm_maconha_canapi_77da53e569.jpeg)
 
 geneticamente modificada
 
@@ -232,39 +232,39 @@ Mais de 25 mil pés de maconha são apreendidos no interior de Alagoas após den
 
 Mais de 25 mil pés de maconha são apreendidos no interior de Alagoas após denúncia anônima](https://www.tnh1.com.br/noticia/nid/mais-de-25-mil-pes-de-maconha-sao-apreendidos-no-interior-de-alagoas-apos-denuncia-anonima/ "Mais de 25 mil pés de maconha são apreendidos no interior de Alagoas após denúncia anônima")
 
-[![Maior fiscalização provoca queda de 84% na extração de ouro](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/d/0/csm_ouro_freepik_37aaf5cc30.png)
+[![Giselle Bernardo: o que se sabe sobre o assassinato da cantora no Ceará](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/e/2/csm_giselle_cantora_morta_ceara_-_foto_reproducao_d3f811b03f.jpg)
 
-Brasil
+A tiros
 
-Brasil
+A tiros
 
-Maior fiscalização provoca queda de 84% na extração de ouro
+Giselle Bernardo: o que se sabe sobre o assassinato da cantora no Ceará
 
-Maior fiscalização provoca queda de 84% na extração de ouro](https://www.tnh1.com.br/noticia/nid/maior-fiscalizacao-provoca-queda-de-84-na-extracao-de-ouro/ "Maior fiscalização provoca queda de 84% na extração de ouro")[![Corinthians e São Paulo decidem Brasileiro feminino da Série A1](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/e/2/csm_brasileiro_feminino_285ee3d544.png)
+Giselle Bernardo: o que se sabe sobre o assassinato da cantora no Ceará](https://www.tnh1.com.br/noticia/nid/giselle-bernardo-o-que-se-sabe-sobre-o-assassinato-da-cantora-no-ceara/ "Giselle Bernardo: o que se sabe sobre o assassinato da cantora no Ceará")[![Como “Mickey paraguaio” venceu a Disney na justiça e se tornou um sucesso nacional](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/0/a/csm_mickey_reproducao_a2b9b91492.jpg)
 
-neste domingo
+Você conhecia?
 
-neste domingo
+Você conhecia?
 
-Corinthians e São Paulo decidem Brasileiro feminino da Série A1
+Como “Mickey paraguaio” venceu a Disney na justiça e se tornou um sucesso nacional
 
-Corinthians e São Paulo decidem Brasileiro feminino da Série A1](https://www.tnh1.com.br/noticia/nid/corinthians-e-sao-paulo-decidem-brasileiro-feminino-da-serie-a1/ "Corinthians e São Paulo decidem Brasileiro feminino da Série A1")[![Alzheimer: conscientização e avanços científicos no combate à doença neurodegenerativa](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/6/a/csm_Alzheimer_freepik_b68854b6f7.png)
+Como “Mickey paraguaio” venceu a Disney na justiça e se tornou um sucesso nacional](https://www.tnh1.com.br/noticia/nid/como-mickey-paraguaio-venceu-a-disney-na-justica-e-se-tornou-um-sucesso-nacional/ "Como “Mickey paraguaio” venceu a Disney na justiça e se tornou um sucesso nacional")[![CRB: veja como foi a entrevista de Hélio dos Anjos antes do embarque da equipe para SP](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/1/8/csm_helio_dos_anjos_-_foto_reproducao_video_crb_0150164de0.png)
 
-Dia Mundial
+Jogo decisivo
 
-Dia Mundial
+Jogo decisivo
 
-Alzheimer: conscientização e avanços científicos no combate à doença neurodegenerativa
+CRB: veja como foi a entrevista de Hélio dos Anjos antes do embarque da equipe para SP
 
-Alzheimer: conscientização e avanços científicos no combate à doença neurodegenerativa](https://www.tnh1.com.br/noticia/nid/alzheimer-conscientizacao-e-avancos-cientificos-no-combate-a-doenca-neurodegenerativa/ "Alzheimer: conscientização e avanços científicos no combate à doença neurodegenerativa")[![Presidente Lula viaja para participar da 79ª Assembleia da ONU, em Nova York](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/b/6/csm_lula_presidente_7220d8553c.png)
+CRB: veja como foi a entrevista de Hélio dos Anjos antes do embarque da equipe para SP](https://www.tnh1.com.br/noticia/nid/crb-veja-como-foi-a-entrevista-de-helio-dos-anjos-antes-do-embarque-da-equipe-para-sp/ "CRB: veja como foi a entrevista de Hélio dos Anjos antes do embarque da equipe para SP")[![Explosão em mina de carvão no Irã mata mais de 30 pessoas](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/b/0/csm_explosao_ira_-_foto_reproducao_b671a0c27b.png)
 
-Política
+16 feridos
 
-Política
+16 feridos
 
-Presidente Lula viaja para participar da 79ª Assembleia da ONU, em Nova York
+Explosão em mina de carvão no Irã mata mais de 30 pessoas
 
-Presidente Lula viaja para participar da 79ª Assembleia da ONU, em Nova York](https://www.tnh1.com.br/noticia/nid/presidente-lula-viaja-para-participar-da-79a-assembleia-da-onu-em-nova-york/ "Presidente Lula viaja para participar da 79ª Assembleia da ONU, em Nova York")
+Explosão em mina de carvão no Irã mata mais de 30 pessoas](https://www.tnh1.com.br/noticia/nid/explosao-em-mina-de-carvao-no-ira-mata-mais-de-30-pessoas/ "Explosão em mina de carvão no Irã mata mais de 30 pessoas")
 
 [](https://www.tnh1.com.br/ "TNH1 logo")
 
