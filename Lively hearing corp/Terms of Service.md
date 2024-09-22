@@ -1,10 +1,10 @@
 You need to enable JavaScript to run Jabra Enhance.
 
-The Enhance Select 500 has arrived! [Shop now](https://www.listenlively.com/product/enhanceselect500)
+Save $200 on the Enhance Select 500! [Shop](https://www.listenlively.com/product)
 
-The Enhance Select 500 has arrived! [Shop now](https://www.listenlively.com/product/enhanceselect500)
+Save $200 on the Enhance Select 500! [Shop now](https://www.listenlively.com/product)
 
-The Enhance Select 500 has arrived! [Shop now](https://www.listenlively.com/product/enhanceselect500)
+Save $200 on the Enhance Select 500! [Shop now](https://www.listenlively.com/product)
 
 100-day risk-free trial, US-based support!
 
@@ -16,24 +16,40 @@ The Enhance Select 500 has arrived! [Shop now](https://www.listenlively.com/prod
 
 [Hearing aids](https://www.listenlively.com/product)[Remote care](https://www.listenlively.com/hearing-care)[Hearing resources](https://www.listenlively.com/hearing-aid-guide)
 
-Schedule call[(800) 854-2772](tel:8008542772)
-
-[](tel:8008542772 "Call us")
+[(800) 854-2772We're open! Call now](tel:8008542772)[](tel:8008542772 "Call us")
 
 [](https://www.listenlively.com/survey)
 
-![NCOA](/_next/static/media/ncoa-adviser-logo.d5975983.svg)
-
 Previous
 
-![](/cdn-cgi/image/width=1920,quality=80,format=auto/_next/static/media/es500-hiw-poster.46b3f9b9.jpg)Play video
+![Sale Banner Foreground Image](https://cdn.jabraenhance.com/cdn-cgi/image/width=3840,quality=80,format=auto/web/sales/fall-24-sale-foreground-desktop.png)
 
-New
+$200 Off
+========
 
-It’s your hearing. Let’s make the most of it.
----------------------------------------------
+this fall!
+==========
 
-The Select 500 has the **clearest** sound we offer in the **smallest** hearing aid we make.
+Take $200 off the Select 500 —
+
+while you can!
+
+$200 Off this fall!
+-------------------
+
+Take $200 off the Select 500 —
+
+while you can!
+
+$200 Off
+========
+
+this fall!
+==========
+
+Take $200 off the Select 500 —
+
+while you can!
 
 [Shop now](https://www.listenlively.com/product)
 
@@ -44,18 +60,18 @@ With our advanced hearing aids and recommended expert care, you'll be hearing be
 
 [Start your 100-day trial](https://www.listenlively.com/survey)[Shop for hearing aids ›](https://www.listenlively.com/product)
 
-![](/cdn-cgi/image/width=1920,quality=80,format=auto/_next/static/media/default-desktop.dae76a02.jpg)[Our clearest  
-sound, our most discreet design](https://www.listenlively.com/product)[Our clearest  
-sound, our most discreet design _Shop Now_](https://www.listenlively.com/product)[Our clearest  
-sound, our most discreet design _Shop the Select 500_](https://www.listenlively.com/product)
+![](/cdn-cgi/image/width=1920,quality=80,format=auto/_next/static/media/default-desktop.dae76a02.jpg)[##### Save $200!
 
-“Best Hearing Aids of 2024 Editor's Pick”
+**Shop now**](https://www.listenlively.com/product)[##### Save $200!
 
-![NCOA](/_next/static/media/ncoa-adviser-logo.d5975983.svg)
+**Shop now**](https://www.listenlively.com/product)[Save $200!
+----------
+
+**Shop now**](https://www.listenlively.com/product)
+
+“Best if you're new to hearing aids”
 
 Next
-
-![NCOA](/_next/static/media/ncoa-adviser-logo.d5975983.svg)
 
 What you get with Jabra Enhance Select
 --------------------------------------
@@ -161,7 +177,7 @@ With our **Premium Package**, our Audiology Team works with you remotely to impr
     
     **Enhance Select 500**Our smallest, most advanced hearing aids. Excellent in the most complex listening situations like hearing multiple people at a loud party.$1,795 - $1,995  
     or as low as $58/mo per pair\*](https://www.listenlively.com/product/enhanceselect500)
-* [![](/cdn-cgi/image/width=640,quality=80,format=auto/_next/static/media/es300-home-bundle.e9cd8a33.png)
+* [![](/cdn-cgi/image/width=640,quality=80,format=auto/_next/static/media/es300-home-bundle-test-variant.23ae3568.png)
     
     **Enhance Select 300**Excellent in the most complex listening situations like hearing multiple people at a loud party.$1,495 - $1,695  
     or as low as $49/mo per pair\*](https://www.listenlively.com/product/enhanceselect300)
