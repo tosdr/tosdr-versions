@@ -242,35 +242,35 @@ We have included on the pages of this website a robots meta tag with the “noai
 
 This privacy policy was created in party by using [Termly’s Privacy Policy Generator](https://termly.io/products/privacy-policy-generator/?ftseo).
 
-[![](https://cwbchicago.com/wp-content/uploads/2024/09/Aileen-Terrazas-326x245.jpg)](https://cwbchicago.com/2024/09/woman-charged-with-robbery-after-her-mom-recognizes-her-in-chicago-police-bulletin.html "Woman charged with robbery after her mom recognizes her in Chicago police bulletin")
+[![](https://cwbchicago.com/wp-content/uploads/2024/09/From-left-Jose-Amaya-Boliva-Nathan-Hicks-Johnson-Ricardo-Rodriguez-and-Cortez-Wright.-Chicago-Police-Department-326x245.jpg)](https://cwbchicago.com/2024/09/2-parolees-and-a-migrant-among-the-latest-charged-with-gun-violations-after-cops-respond-to-shotspotter-alerts.html "2 parolees and a migrant among the latest charged with gun violations after cops respond to ShotSpotter alerts")
 
-CTA
+Citywide
 
-### [Woman charged with robbery after her mom recognizes her in Chicago police bulletin](https://cwbchicago.com/2024/09/woman-charged-with-robbery-after-her-mom-recognizes-her-in-chicago-police-bulletin.html "Woman charged with robbery after her mom recognizes her in Chicago police bulletin")
+### [2 parolees and a migrant among the latest charged with gun violations after cops respond to ShotSpotter alerts](https://cwbchicago.com/2024/09/2-parolees-and-a-migrant-among-the-latest-charged-with-gun-violations-after-cops-respond-to-shotspotter-alerts.html "2 parolees and a migrant among the latest charged with gun violations after cops respond to ShotSpotter alerts")
 
-[September 20, 2024 7:13 AM](https://cwbchicago.com/2024/09)
+[September 20, 2024 1:12 PM](https://cwbchicago.com/2024/09)
 
-Chicago police charged a woman with robbery after her mother identified her in CTA surveillance photos they released in a community alert last week.[](https://cwbchicago.com/2024/09/woman-charged-with-robbery-after-her-mom-recognizes-her-in-chicago-police-bulletin.html "Woman charged with robbery after her mom recognizes her in Chicago police bulletin")
+Two parolees and a migrant are among the latest people to face felony gun charges thanks to the city’s ShotSpotter gunfire detection system. In the past week, ShotSpotter has led to the arrest of at least seven people for illegal gun possession.[](https://cwbchicago.com/2024/09/2-parolees-and-a-migrant-among-the-latest-charged-with-gun-violations-after-cops-respond-to-shotspotter-alerts.html "2 parolees and a migrant among the latest charged with gun violations after cops respond to ShotSpotter alerts")
 
-[![](https://cwbchicago.com/wp-content/uploads/2024/09/clock-326x245.jpg)](https://cwbchicago.com/2024/09/shotspotter-tips-cops-to-armed-home-invasion-where-2-girls-were-home-alone.html "ShotSpotter tips cops to armed home invasion where 2 girls were home alone")
+[![](https://cwbchicago.com/wp-content/uploads/2024/09/300-east-randolph-chicago-sv-edited-326x245.jpg)](https://cwbchicago.com/2024/09/boy-believed-to-be-14-arrested-after-man-is-beaten-carjacked-near-millennium-park.html "Boy, 14, charged beating and carjacking man near Millennium Park")
 
-Woodlawn
+Loop
 
-### [ShotSpotter tips cops to armed home invasion where 2 girls were home alone](https://cwbchicago.com/2024/09/shotspotter-tips-cops-to-armed-home-invasion-where-2-girls-were-home-alone.html "ShotSpotter tips cops to armed home invasion where 2 girls were home alone")
+### [Boy, 14, charged beating and carjacking man near Millennium Park](https://cwbchicago.com/2024/09/boy-believed-to-be-14-arrested-after-man-is-beaten-carjacked-near-millennium-park.html "Boy, 14, charged beating and carjacking man near Millennium Park")
 
-[September 20, 2024 6:01 AM](https://cwbchicago.com/2024/09)
+[September 20, 2024 8:49 AM](https://cwbchicago.com/2024/09)
 
-A ShotSpotter alert was responsible for Chicago police arriving quickly at a home invasion in Woodlawn on Wednesday. Only two young girls were in the home at the time of the crime.[](https://cwbchicago.com/2024/09/shotspotter-tips-cops-to-armed-home-invasion-where-2-girls-were-home-alone.html "ShotSpotter tips cops to armed home invasion where 2 girls were home alone")
+A male who claimed to be a 14 year old is expected to be charged with beating and carjacking a man near Millennium Park overnight, according to preliminary information from a law enforcement source.[](https://cwbchicago.com/2024/09/boy-believed-to-be-14-arrested-after-man-is-beaten-carjacked-near-millennium-park.html "Boy, 14, charged beating and carjacking man near Millennium Park")
 
-[![](https://cwbchicago.com/wp-content/uploads/2024/09/CPD-patch-2024-generic-edited-326x245.jpg)](https://cwbchicago.com/2024/09/another-jewelry-snatching-case-reported-in-the-loop-as-days-old-crime-pattern-grows.html "Another jewelry-snatching case reported in the Loop as days-old crime pattern grows")
+[![](https://cwbchicago.com/wp-content/uploads/2024/09/Guns-seized-326x245.jpg)](https://cwbchicago.com/2024/09/update-62-arrests-confirmed-during-mexican-independence-day-festivities-across-chicago-19-for-gun-possession.html "Update: 62 arrests confirmed during Mexican Independence Day festivities across Chicago, 19 for gun possession")
 
-Lincoln Park
+Citywide
 
-### [Another jewelry-snatching case reported in the Loop as days-old crime pattern grows](https://cwbchicago.com/2024/09/another-jewelry-snatching-case-reported-in-the-loop-as-days-old-crime-pattern-grows.html "Another jewelry-snatching case reported in the Loop as days-old crime pattern grows")
+### [Update: 62 arrests confirmed during Mexican Independence Day festivities across Chicago, 19 for gun possession](https://cwbchicago.com/2024/09/update-62-arrests-confirmed-during-mexican-independence-day-festivities-across-chicago-19-for-gun-possession.html "Update: 62 arrests confirmed during Mexican Independence Day festivities across Chicago, 19 for gun possession")
 
-[September 19, 2024 7:05 PM](https://cwbchicago.com/2024/09)
+[September 20, 2024 8:25 AM](https://cwbchicago.com/2024/09)
 
-Police are investigating yet another jewelry-snatching robbery, the latest in a string of similar crimes that CWBChicago first reported on Thursday morning.[](https://cwbchicago.com/2024/09/another-jewelry-snatching-case-reported-in-the-loop-as-days-old-crime-pattern-grows.html "Another jewelry-snatching case reported in the Loop as days-old crime pattern grows")
+CWBChicago has now confirmed 62 arrests made in connection with last weekend’s citywide celebration of Mexican Independence Day, including 19 arrests for illegal gun possession.[](https://cwbchicago.com/2024/09/update-62-arrests-confirmed-during-mexican-independence-day-festivities-across-chicago-19-for-gun-possession.html "Update: 62 arrests confirmed during Mexican Independence Day festivities across Chicago, 19 for gun possession")
 
 Search
 
@@ -313,6 +313,7 @@ Thank you.
 * [Back of the Yards](https://cwbchicago.com/category/back-of-the-yards)
 * [Boystown](https://cwbchicago.com/category/lakeview/boystown)
 * [Bridgeport](https://cwbchicago.com/category/armour-square/bridgeport)
+* [Brighton Park](https://cwbchicago.com/category/brighton-park)
 * [Bronzeville](https://cwbchicago.com/category/bronzeville)
 * [Bucktown](https://cwbchicago.com/category/bucktown)
 * [Calumet Heights](https://cwbchicago.com/category/calumet-heights)
@@ -364,6 +365,7 @@ Thank you.
 * [Suburbs](https://cwbchicago.com/category/suburbs)
 * [Ukrainian Village](https://cwbchicago.com/category/west-town/ukrainian-village)
 * [Uptown](https://cwbchicago.com/category/uptown)
+* [Washington Heights](https://cwbchicago.com/category/washington-heights)
 * [Washington Park](https://cwbchicago.com/category/washington-park)
 * [West Elsdon](https://cwbchicago.com/category/west-elsdon)
 * [West Garfield Park](https://cwbchicago.com/category/west-garfield-park)
