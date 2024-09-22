@@ -7,7 +7,7 @@
 | --- | --- |
 |     | [Рецепты](https://www.russianfood.com/recipes/) [Статьи](https://www.russianfood.com/reading/clauses/) [Наша Кухня](https://www.russianfood.com/blogs/) [Супер Поиск](https://www.russianfood.com/search/) [Рассылки](https://www.russianfood.com/subscribe/) |
 
-[![](//img1.russianfood.com/images/recipes/recipe_add_btn_5.gif)](https://www.russianfood.com/recipes/recipeadd.php)
+[![](//img1.russianfood.com/images/recipes/recipe_add_btn_4.gif)](https://www.russianfood.com/recipes/recipeadd.php)
 
 [Добавить  
 рецепт](https://www.russianfood.com/recipes/recipeadd.php)
@@ -150,7 +150,6 @@
 
 * [Лодочки из картофеля с двумя видами сыра](https://www.russianfood.com/recipes/recipe.php?rid=173342)
 * [Булочки с грушами](https://www.russianfood.com/recipes/recipe.php?rid=174336)
-* [Имбирное печенье с кардамоном](https://www.russianfood.com/recipes/recipe.php?rid=133818)
 
 |     |
 | --- |
@@ -172,6 +171,48 @@
 исключить ингредиенты (все): 
 
 Найти рецепты Другие варианты поиска Свернуть
+
+|     |     |
+| --- | --- |
+| Для прессы<br><br>[Ароматный паштет и блюда посытнее. ФАСОЛЬ по-необычному (18)](https://www.russianfood.com/reading/?post_id=22629) |     |
+
+[![](//img1.russianfood.com/dycontent/images_upl/480/sm_479015.jpg)](https://www.russianfood.com/reading/?post_id=22629)
+
+Паштет из фасоли с орехами и гранатовым соком. Запеканка с фаршем и стручковой фасолью. Фасоль с ветчиной в томатном соусе. Стручковая фасоль, тушенная с помидорами.
+
+[Читать дальше...](https://www.russianfood.com/reading/?post_id=22629)  
+
+|     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- |
+|     | [Обычное по-необычному](https://www.russianfood.com/blogs/?id=325689) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22629#comments) | 22.09.24 |     |
+
+|     |     |
+| --- | --- |
+| Для прессы<br><br>[Калейдоскоп осенних вкусов. Время САЛАТОВ (143)](https://www.russianfood.com/reading/?post_id=22628) |     |
+
+[![](//img1.russianfood.com/dycontent/images_upl/710/sm_709704.jpg)](https://www.russianfood.com/reading/?post_id=22628)
+
+Салат "Чафан" с курицей. Салат с креветками, грибами и фетой. Салат с фасолью, овощами и сухариками. Винегрет с чечевицей и горошком. Салат с морской капустой и овощами.
+
+[Читать дальше...](https://www.russianfood.com/reading/?post_id=22628)  
+
+|     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- |
+|     | [Лучшие рецепты ВОВРЕМЯ](https://www.russianfood.com/blogs/?id=394496) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22628#comments) | 22.09.24 |     |
+
+|     |     |
+| --- | --- |
+| Для прессы<br><br>[Время наслаждаться. Лучшие СЛАДОСТИ №24-38](https://www.russianfood.com/reading/?post_id=22627) |     |
+
+[![](//img1.russianfood.com/dycontent/images_upl/738/sm_737170.jpg)](https://www.russianfood.com/reading/?post_id=22627)
+
+Песочное печенье "Косички". Лимонный кекс с глазурью. Тыквенно-банановое печенье "Детское". Суфле из тыквы. Шоколадно-тыквенное суфле с пряностями и ганашем. Яблоки, запечённые с черносливом и имбирём. Джем из слив на зиму.
+
+[Читать дальше...](https://www.russianfood.com/reading/?post_id=22627)  
+
+|     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- |
+|     | [Лучшие сладости](https://www.russianfood.com/blogs/?id=327533) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22627#comments) | 22.09.24 |     |
 
 |     |     |
 | --- | --- |
@@ -341,48 +382,6 @@
 | --- | --- | --- | --- | --- | --- | --- |
 |     | [Sve4kaSV](https://www.russianfood.com/blogs/?id=217903) | _![](/images/blank.gif)_1 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174378#comments) | 19.09.24 |     |
 
-|     |     |
-| --- | --- |
-| Рецепты<br><br>[Помидоры, запечённые с чесноком](https://www.russianfood.com/recipes/recipe.php?rid=174387) |     |
-
-[![Фото к рецепту: Помидоры, запечённые с чесноком](//img1.russianfood.com/dycontent/images_upl/740/sm_739868.jpg "Фото к рецепту: Помидоры, запечённые с чесноком")](https://www.russianfood.com/recipes/recipe.php?rid=174387)
-
-Простая, но изысканная закуска с потрясающим вкусом и ароматом. Сочные запечённые помидоры, пикантный чеснок и пряные травы создают идеальное сочетание. Такая яркая и оригинальная закуска подойдёт и к праздничному столу.
-
-[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=174387)  
-
-|     |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- |
-|     | [Yuliya-s](https://www.russianfood.com/blogs/?id=314972) | _![](/images/blank.gif)_2 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174387#comments) | 19.09.24 |     |
-
-|     |     |
-| --- | --- |
-| Рецепты<br><br>[Маринованная закуска из баклажанов с овощами](https://www.russianfood.com/recipes/recipe.php?rid=174374) |     |
-
-[![Фото к рецепту: Маринованная закуска из баклажанов с овощами](//img1.russianfood.com/dycontent/images_upl/740/sm_739586.jpg "Фото к рецепту: Маринованная закуска из баклажанов с овощами")](https://www.russianfood.com/recipes/recipe.php?rid=174374)
-
-Простой рецепт вкусной маринованной закуски из баклажанов и к празднику, и на каждый день. Овощи предварительно немного обжариваются, а потом доводятся специями, зеленью и уксусом до желаемого вкуса. Вкусный салат-закуска с неимоверным ароматом готов.
-
-[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=174374)  
-
-|     |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- |
-|     | [Sve4kaSV](https://www.russianfood.com/blogs/?id=217903) | _![](/images/blank.gif)_18 _![](/images/blank.gif)_0 |     | [3](https://www.russianfood.com/recipes/recipe.php?rid=174374#comments) | 19.09.24 |     |
-
-|     |     |
-| --- | --- |
-| Рецепты<br><br>[Тушеная капуста с грибами](https://www.russianfood.com/recipes/recipe.php?rid=174375) |     |
-
-[![Фото к рецепту: Тушеная капуста с грибами](//img1.russianfood.com/dycontent/images_upl/740/sm_739799.jpg "Фото к рецепту: Тушеная капуста с грибами")](https://www.russianfood.com/recipes/recipe.php?rid=174375)
-
-Тушеная капуста идеально сочетается с жареными грибами. Несмотря на то, что в рецепте нет мяса, блюдо получается сытным и питательным. Такую капусту с грибами можно готовить в пост, так как в составе только растительные компоненты.
-
-[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=174375)  
-
-|     |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- |
-|     | [Sve4kaSV](https://www.russianfood.com/blogs/?id=217903) | _![](/images/blank.gif)_3 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174375#comments) | 19.09.24 |     |
-
 |     |
 | --- |
 | ← Предыдущая \| [Следующая →](https://www.russianfood.com/?page=2) |
@@ -471,5 +470,3 @@
 [![Рейтинг@Mail.ru](//top-fwz1.mail.ru/counter?id=1447532;t=452;l=1)](http://top.mail.ru/jump?from=1447532)       
 
 Этот сайт использует файлы cookie, чтобы предоставить вам наилучший сервис. Оставаясь на сайте, вы соглашаетесь с [политикой сайта по обработке персональных данных](https://www.russianfood.com/blogs/?post_id=13800).СОГЛАСЕН
-
-(117)
