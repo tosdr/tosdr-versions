@@ -208,21 +208,21 @@ Turn Your Curiosity Into Discovery
 
 Latest Facts
 
-[![50 Facts About Actinium ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22100%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/science/chemistry/50-facts-about-actinium/)
+[![35 Facts About Devils Island ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%2284%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/history/historical-events/35-facts-about-devils-island/)
 
-Chemistry
+Historical Events
 
-21 Sep 2024
+22 Sep 2024
 
-[50 Facts About Actinium](https://facts.net/science/chemistry/50-facts-about-actinium/)
+[35 Facts About Devils Island](https://facts.net/history/historical-events/35-facts-about-devils-island/)
 
-[![33 Facts About Engagement ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22100%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/general/33-facts-about-engagement/)
+[![35 Facts About Alain Lamare ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%2285%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/history/people/35-facts-about-alain-lamare/)
 
-General
+People
 
-21 Sep 2024
+22 Sep 2024
 
-[33 Facts About Engagement](https://facts.net/general/33-facts-about-engagement/)
+[35 Facts About Alain Lamare](https://facts.net/history/people/35-facts-about-alain-lamare/)
 
 [Home](https://facts.net/) [Terms](https://facts.net/terms/)
 
