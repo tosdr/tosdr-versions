@@ -347,11 +347,11 @@ Recently Played
 
 |     |
 | --- |
-| She Had Me At Heads CarolinaCole Swindell<br><br>5:38pm |
-| Think I'M In Love With YouChris Stapleton<br><br>5:35pm |
-| Knee DeepZac Brown Band Ft. Jimmy Buffet<br><br>5:31pm |
-| Ain'T No Love In OklahomaLuke Combs<br><br>5:28pm |
-| Thinkin 'Bout MeMorgan Wallen<br><br>5:25pm |
+| Famous FriendsChris Young And Kane Brown<br><br>6:58pm |
+| Forever To MeCole Swindell<br><br>6:55pm |
+| Blown AwayCarrie Underwood<br><br>6:51pm |
+| Pour Me A DrinkPost Malone Ft Blake Shelton<br><br>6:48pm |
+| White HorseChris Stapleton<br><br>6:40pm |
 
 [View Full Playlist](https://www.987thebull.com/recently-played)
 
@@ -499,17 +499,17 @@ Featured Brands
 
 Spanish • Western
 
-[![98.5 The Bull Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KDES.png)](https://www.985thebull.com/)
+[![Panhandle Sports Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/KVWE-Logo-RedBlack-Dk.png)](https://www.panhandlesportsstar.com/)
 
-Country • Western
+Sports • Midwest
 
-[![News-Talk 1480 WHBC Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WHBCAM.png)](https://www.whbc.com/)
+[![99.7 DJX Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WDJX.png)](https://www.wdjx.com/)
 
-News Talk • Eastern
+Top 40 • Eastern
 
-[![Bay Country Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/BayCountry-BothFrequencies-DK%20(2).png)](https://www.kbaycountry.com/)
+[![Live 95.5 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBFF.png)](https://www.live955.com/)
 
-Country • Western
+Top 40 • Pacific NW
 
 [](https://www.alphamediausa.com/)
 
