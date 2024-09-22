@@ -172,7 +172,7 @@ Very Positive (55) \- 87% of the 55 user reviews in the last 30 days are positiv
 
 All Reviews:
 
-Very Positive (18,108) \- 86% of the 18,108 user reviews for this game are positive.    
+Very Positive (18,107) \- 86% of the 18,107 user reviews for this game are positive.    
 
 Release Date:
 
@@ -198,7 +198,7 @@ Reviews
 
 All Reviews:
 
-Very Positive (86% of 18,108) All Time
+Very Positive (86% of 18,107) All Time
 
 Recent Reviews:
 
@@ -449,7 +449,7 @@ System Requirements
 What Curators Say
 -----------------
 
-99 Curators have reviewed this product. Click [here](https://store.steampowered.com/curators/curatorsreviewing/?appid=962730&snr=1_5_9__top-curators) to see them.
+105 Curators have reviewed this product. Click [here](https://store.steampowered.com/curators/curatorsreviewing/?appid=962730&snr=1_5_9__top-curators) to see them.
 
 Customer reviews for Skater XL - The Ultimate Skateboarding Game
 ----------------------------------------------------------------
@@ -458,7 +458,7 @@ Customer reviews for Skater XL - The Ultimate Skateboarding Game
 
 Overall Reviews:
 
-Very Positive (18,108 reviews) ![](https://store.akamai.steamstatic.com/public/shared/images/ico/icon_questionmark.png)
+Very Positive (18,107 reviews) ![](https://store.akamai.steamstatic.com/public/shared/images/ico/icon_questionmark.png)
 
 Recent Reviews:
 
@@ -466,19 +466,19 @@ Very Positive (55 reviews) ![](https://store.akamai.steamstatic.com/public/share
 
 Review Type
 
- All (19,238)  
- Positive (16,553)  
+ All (19,237)  
+ Positive (16,552)  
  Negative (2,685)
 
 Purchase Type
 
- All (19,238)  
- Steam Purchasers (18,108) ![](https://store.akamai.steamstatic.com/public/shared/images/ico/icon_questionmark_dark.png)   
+ All (19,237)  
+ Steam Purchasers (18,107) ![](https://store.akamai.steamstatic.com/public/shared/images/ico/icon_questionmark_dark.png)   
  Other (1,130) ![](https://store.akamai.steamstatic.com/public/shared/images/ico/icon_questionmark_dark.png) 
 
 Language
 
- All Languages (19,238)  
+ All Languages (19,237)  
  Your Languages (13,304) ![](https://store.akamai.steamstatic.com/public/shared/images/ico/icon_questionmark_dark.png)   
 
 [Customize](https://store.steampowered.com//account/languagepreferences)
