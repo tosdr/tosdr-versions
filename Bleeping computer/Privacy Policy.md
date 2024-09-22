@@ -442,12 +442,12 @@ Popular Stories
 * [![Windows](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     Microsoft ends development of Windows Server Update Services (WSUS)](https://www.bleepingcomputer.com/news/microsoft/microsoft-officially-deprecates-windows-server-update-services-wsus/)
-* [![FTC](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+* [![Disney](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
-    FTC exposes massive surveillance of kids, teens by social media giants](https://www.bleepingcomputer.com/news/technology/ftc-exposes-massive-surveillance-of-kids-teens-by-social-media-giants/)
-* [![Ivanti](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    Disney ditching Slack after massive July data breach](https://www.bleepingcomputer.com/news/security/disney-ditching-slack-after-massive-july-data-breach/)
+* [![Apple Finder Mac macOS](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
-    Ivanti warns of another critical CSA flaw exploited in attacks](https://www.bleepingcomputer.com/news/security/ivanti-warns-of-another-critical-csa-flaw-exploited-in-attacks/)
+    macOS Sequoia change breaks networking for VPN, antivirus software](https://www.bleepingcomputer.com/news/apple/macos-sequoia-change-breaks-networking-for-vpn-antivirus-software/)
 
 ##### Follow us:
 
