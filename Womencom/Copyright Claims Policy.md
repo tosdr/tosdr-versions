@@ -41,30 +41,30 @@
 * [Newsletter](https://subscribe.women.com/newsletter "Newsletter")
 * [Advertise](https://static.com/advertise "Advertise")
 
-*  [![Sydney Sweeney on the red carpet](https://www.women.com/img/gallery/sydney-sweeney-outfits-that-totally-missed-the-mark/intro-1726589829.jpg)](https://www.women.com/1666623/sydney-sweeney-outfits-totally-missed-the-mark/)
+*  [![Gwen Stefani on stage](https://www.women.com/img/gallery/the-libra-celebrities-who-perfectly-embody-their-zodiac-sign/intro-1726692736.jpg)](https://www.women.com/1668174/libra-celebrities-perfectly-embody-zodiac-sign/)
     
-    [Fashion](https://www.women.com/category/fashion/)
+    [Living](https://www.women.com/category/living/)
     
-    [Fashion](https://www.women.com/category/fashion/) By Emily Hutchinson
+    [Living](https://www.women.com/category/living/) By Emily Hutchinson
     
-    [Sydney Sweeney Outfits That Totally Missed The Mark](https://www.women.com/1666623/sydney-sweeney-outfits-totally-missed-the-mark/)
-    ====================================================================================================================================
+    [The Libra Celebrities Who Perfectly Embody Their Zodiac Sign](https://www.women.com/1668174/libra-celebrities-perfectly-embody-zodiac-sign/)
+    =============================================================================================================================================
     
-    Sydney Sweeney has won over countless fans with her acting skills, but when it comes to fashion, let's just say it isn't her strong suit.
+    There are a handful of celebrities who show us what it means to be a Libra, perfectly embodying this diplomatic, romantic, and idealistic zodiac sign.
     
-    By Emily Hutchinson [Read More](https://www.women.com/1666623/sydney-sweeney-outfits-totally-missed-the-mark/)
+    By Emily Hutchinson [Read More](https://www.women.com/1668174/libra-celebrities-perfectly-embody-zodiac-sign/)
     
-* *  [![man and woman on boat](https://www.women.com/img/gallery/hypergamy-is-the-dating-trend-enhancing-connections-and-lives/intro-1726598106.jpg)](https://www.women.com/1666859/hypergamy-dating-trend-explained/)
+* *  [![](https://www.women.com/img/gallery/the-pros-and-cons-to-soft-swinging-because-its-on-everyones-lips/intro-1726848271.jpg)](https://www.women.com/1669700/pros-cons-soft-swinging/)
         
         [Exclusives](https://www.women.com/category/exclusives/)
         
-        [Exclusives](https://www.women.com/category/exclusives/) By Amanda Chatel
+        [Exclusives](https://www.women.com/category/exclusives/) By Emily Hutchinson
         
-        ### [Hypergamy Is The Dating Trend Enhancing Connections - And Lives](https://www.women.com/1666859/hypergamy-dating-trend-explained/)
+        ### [The Pros And Cons To 'Soft Swinging' (Because It's On Everyone's Lips)](https://www.women.com/1669700/pros-cons-soft-swinging/)
         
-        Hypergamy, or "dating up" isn't necessarily toxic. If done right, it can enhance your relationship and life, an expert tells Women.
+        "The Secret Lives of Mormon Wives" has made many curious about "soft swinging." Experts explained the pros and cons of engaging in non-monogamous sex.
         
-        By Amanda Chatel [Read More](https://www.women.com/1666859/hypergamy-dating-trend-explained/)
+        By Emily Hutchinson [Read More](https://www.women.com/1669700/pros-cons-soft-swinging/)
         
     *  [![Secret Lives stars](https://www.women.com/img/gallery/the-secret-lives-of-mormon-wives-all-your-sex-questions-about-the-show-answered/intro-1726762119.jpg)](https://www.women.com/1668756/secret-lives-of-mormon-wives-sex-questions-answered/)
         
@@ -82,29 +82,29 @@
 More Stories
 ------------
 
-*  [![Two women embracing](https://www.women.com/img/gallery/the-pros-and-cons-to-soft-swinging-because-its-on-everyones-lips/intro-1726848271.jpg)](https://www.women.com/1669700/pros-cons-soft-swinging/)
+*  [![Sydney Sweeney on the red carpet](https://www.women.com/img/gallery/sydney-sweeney-outfits-that-totally-missed-the-mark/intro-1726589829.jpg)](https://www.women.com/1666623/sydney-sweeney-outfits-totally-missed-the-mark/)
+    
+    [Fashion](https://www.women.com/category/fashion/)
+    
+    [Fashion](https://www.women.com/category/fashion/) By Emily Hutchinson
+    
+    ### [Sydney Sweeney Outfits That Totally Missed The Mark](https://www.women.com/1666623/sydney-sweeney-outfits-totally-missed-the-mark/)
+    
+    Sydney Sweeney has won over countless fans with her acting skills, but when it comes to fashion, let's just say it isn't her strong suit.
+    
+    By Emily Hutchinson [Read More](https://www.women.com/1666623/sydney-sweeney-outfits-totally-missed-the-mark/)
+    
+*  [![man and woman on boat](https://www.women.com/img/gallery/hypergamy-is-the-dating-trend-enhancing-connections-and-lives/intro-1726598106.jpg)](https://www.women.com/1666859/hypergamy-dating-trend-explained/)
     
     [Exclusives](https://www.women.com/category/exclusives/)
     
-    [Exclusives](https://www.women.com/category/exclusives/) By Emily Hutchinson
+    [Exclusives](https://www.women.com/category/exclusives/) By Amanda Chatel
     
-    ### [The Pros And Cons To 'Soft Swinging' (Because It's On Everyone's Lips)](https://www.women.com/1669700/pros-cons-soft-swinging/)
+    ### [Hypergamy Is The Dating Trend Enhancing Connections - And Lives](https://www.women.com/1666859/hypergamy-dating-trend-explained/)
     
-    "The Secret Lives of Mormon Wives" has made many curious about "soft swinging." Experts explained the pros and cons of engaging in non-monogamous sex.
+    Hypergamy, or "dating up" isn't necessarily toxic. If done right, it can enhance your relationship and life, an expert tells Women.
     
-    By Emily Hutchinson [Read More](https://www.women.com/1669700/pros-cons-soft-swinging/)
-    
-*  [![Gwen Stefani on stage](https://www.women.com/img/gallery/the-libra-celebrities-who-perfectly-embody-their-zodiac-sign/intro-1726692736.jpg)](https://www.women.com/1668174/libra-celebrities-perfectly-embody-zodiac-sign/)
-    
-    [Living](https://www.women.com/category/living/)
-    
-    [Living](https://www.women.com/category/living/) By Emily Hutchinson
-    
-    ### [The Libra Celebrities Who Perfectly Embody Their Zodiac Sign](https://www.women.com/1668174/libra-celebrities-perfectly-embody-zodiac-sign/)
-    
-    There are a handful of celebrities who show us what it means to be a Libra, perfectly embodying this diplomatic, romantic, and idealistic zodiac sign.
-    
-    By Emily Hutchinson [Read More](https://www.women.com/1668174/libra-celebrities-perfectly-embody-zodiac-sign/)
+    By Amanda Chatel [Read More](https://www.women.com/1666859/hypergamy-dating-trend-explained/)
     
 *  [![Princess Diana bixie cut](https://www.women.com/img/gallery/princess-dianas-90s-bixie-is-the-sophisticated-short-hairstyle-of-our-dreams/intro-1726603909.jpg)](https://www.women.com/1667019/princess-diana-90s-bixie-sophisticated-short-hair-style/)
     
