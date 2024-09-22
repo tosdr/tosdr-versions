@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-2ae9e2600b43d66bbd6a11813961ed36
+82a018473bc05c4a676066be41d7b7cb
 
 [](# "Expand for more options")[](# "Search")
 
@@ -171,11 +171,11 @@ Sojourner may revise this policy as needed by updating this posting.
 
 ### Featured Product
 
-[![14 mm by 10 mm vintage German glass irregular oval beads](https://www.sojourner.biz/images/cache/glass/GL0175.200.jpg)](https://www.sojourner.biz/beads/glass/14-mm-by-10-mm-vintage-german-glass-irregular-oval-beads.html "14 mm by 10 mm vintage German glass irregular oval beads")
+[![8 mm blue and pink crystal beads](https://www.sojourner.biz/images/cache/glass/GL0074.200.jpg)](https://www.sojourner.biz/beads/glass/8-mm-blue-and-pink-crystal-beads.html "8 mm blue and pink crystal beads")
 
-#### [14 mm by 10 mm vintage German glass irregular oval beads](https://www.sojourner.biz/beads/glass/14-mm-by-10-mm-vintage-german-glass-irregular-oval-beads.html "14 mm by 10 mm vintage German glass irregular oval beads")
+#### [8 mm blue and pink crystal beads](https://www.sojourner.biz/beads/glass/8-mm-blue-and-pink-crystal-beads.html "8 mm blue and pink crystal beads")
 
-$13.00
+$10.00
 
 ### Best Sellers
 
