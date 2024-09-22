@@ -85,7 +85,7 @@ August 24, 2024
 
 [elena and elin (mythology) created by psychorodent](https://yiff-party.com/yiff/elena-and-elin-mythology-created-by-psychorodent/)
 
-0 506 1
+0 513 1
 
 August 24, 2024
 
@@ -93,15 +93,15 @@ August 24, 2024
 
 [created by rabbitbrush](https://yiff-party.com/yiff/created-by-rabbitbrush/)
 
-0 215 1
+0 225 1
 
 September 11, 2024
 
-[](https://yiff-party.com/yiff/magnus-nintendo-and-etc-created-by-rareplushy/)
+[](https://yiff-party.com/yiff-ai-premium/diane-foxington-and-mr-wolf-directed-by-master-beaster50/)
 
-[magnus (nintendo and etc) created by rareplushy](https://yiff-party.com/yiff/magnus-nintendo-and-etc-created-by-rareplushy/)
+[diane foxington and mr. wolf directed by master beaster50](https://yiff-party.com/yiff-ai-premium/diane-foxington-and-mr-wolf-directed-by-master-beaster50/)
 
-0 78 0
+0 69 0
 
 August 23, 2024
 
