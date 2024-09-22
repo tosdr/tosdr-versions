@@ -137,8 +137,8 @@ MSX Music player
 
 Latest reactions
 
-* [OCMINFO for MSX++ compatibles](https://www.msx.org/news/en/ocminfo-for-msx-compatibles "OCMINFO for MSX++ compatibles")
 * [I-Logic](https://www.msx.org/news/software/en/i-logic "I-Logic")
+* [OCMINFO for MSX++ compatibles](https://www.msx.org/news/en/ocminfo-for-msx-compatibles "OCMINFO for MSX++ compatibles")
 * [csMSX - MSX/2 Emulator & C# Source Code](https://www.msx.org/downloads/csmsx-vbnet-msx-msx2-emulator-source-code "csMSX - MSX/2 Emulator & C# Source Code")
 * [BrewOtaku magazine](https://www.msx.org/news/media/en/brewotaku-magazine "BrewOtaku magazine")
 * [New website Repair-Bas](https://www.msx.org/news/en/new-server-repair-bas-youtube-channel-english-translation "New website Repair-Bas")
@@ -150,19 +150,19 @@ Latest reactions
 
 Latest forum posts
 
+* [Vertilyzer - the set of adapters for computers with front or side slots](https://www.msx.org/forum/msx-talk/hardware/vertilyzer-the-set-of-adapters-for-computers-with-front-or-side-slots "Vertilyzer - the set of adapters for computers with front or side slots")
+* [Performance Profiler - A first attempt](https://www.msx.org/forum/msx-talk/openmsx/performance-profiler-first-attempt?page=10 "Performance Profiler - A first attempt")
+* [ArcadeR Joystick and MSX](https://www.msx.org/forum/msx-talk/hardware/arcader-joystick-and-msx "ArcadeR Joystick and MSX")
+* [Carnivore2+ announcements](https://www.msx.org/forum/msx-talk/hardware/carnivore2-announcements-0?page=2 "Carnivore2+ announcements")
 * [Is my new Carnivore2 faulty?](https://www.msx.org/forum/msx-talk/hardware/is-my-new-carnivore2-faulty "Is my new Carnivore2 faulty?")
+* [WonderTANG! Who wants to juice up your MSX?](https://www.msx.org/forum/msx-talk/hardware/wondertang-who-wants-to-juice-up-your-msx?page=52 "WonderTANG! Who wants to juice up your MSX?")
+* [MSXBAS2ROM and BASIC variables spacings](https://www.msx.org/forum/msx-talk/general-discussion/msxbas2rom-and-basic-variables-spacings "MSXBAS2ROM and BASIC variables spacings")
 * [Tecnobytes Slot Expander II + Carnivore2 HELP!!!!](https://www.msx.org/forum/msx-talk/hardware/tecnobytes-slot-expander-ii-carnivore2-help "Tecnobytes Slot Expander II + Carnivore2 HELP!!!!")
 * [VATT - VRAM Access Timing Tester](https://www.msx.org/forum/msx-talk/development/vatt-vram-access-timing-tester?page=17 "VATT - VRAM Access Timing Tester")
-* [MSXBAS2ROM and BASIC variables spacings](https://www.msx.org/forum/msx-talk/general-discussion/msxbas2rom-and-basic-variables-spacings "MSXBAS2ROM and BASIC variables spacings")
 * [SymbOS C Compiler (v1.0 released)](https://www.msx.org/forum/msx-talk/development/symbos-c-compiler-v10-released "SymbOS C Compiler (v1.0 released)")
-* [WonderTANG! Who wants to juice up your MSX?](https://www.msx.org/forum/msx-talk/hardware/wondertang-who-wants-to-juice-up-your-msx?page=52 "WonderTANG! Who wants to juice up your MSX?")
 * [MSX disk directly to MegaFlashrom folder](https://www.msx.org/forum/msx-talk/development/msx-disk-directly-to-megaflashrom-folder "MSX disk directly to MegaFlashrom folder")
 * [MSX & AI](https://www.msx.org/forum/msx-talk/development/msx-ai?page=4 "MSX & AI")
 * [Gradius / Nemesis with SCC and smoothscroll without arcade graphics?](https://www.msx.org/forum/msx-talk/software/gradius-nemesis-with-scc-and-smoothscroll-without-arcade-graphics?page=1 "Gradius / Nemesis with SCC and smoothscroll without arcade graphics?")
-* [Franky SSMS.COM patches: Where are they ?](https://www.msx.org/forum/msx-talk/general-discussion/franky-ssmscom-patches-where-are-they?page=2 "Franky SSMS.COM patches: Where are they ?")
-* [Performance Profiler - A first attempt](https://www.msx.org/forum/msx-talk/openmsx/performance-profiler-first-attempt?page=10 "Performance Profiler - A first attempt")
-* [SX-E FPGA MSX](https://www.msx.org/forum/msx-talk/hardware/sx-e-fpga-msx?page=2 "SX-E FPGA MSX")
-* [Full English translation of Illusion City for MSX Turbo-R](https://www.msx.org/forum/msx-talk/software/full-english-translation-of-illusion-city-for-msx-turbo-r?page=14 "Full English translation of Illusion City for MSX Turbo-R")
 
 [](https://www.msx.org/forum/)[More forum topics](https://www.msx.org/forum/)
 
