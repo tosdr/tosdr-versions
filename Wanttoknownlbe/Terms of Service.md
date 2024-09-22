@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/gezondheid/europees-parlement-onderzoekt-medisch-schandaal-de-pandemie-who-en-de-vaccinatiepolitiek/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/overige/stralend-komen-ze-straks-uit-afghanistan-thuis/ "Feeling Lucky? »")
 
 Algemene voorwaarden WantToKnow aanbiedingen
 ============================================
