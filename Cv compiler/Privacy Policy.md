@@ -1779,6 +1779,8 @@ What do top resumes look like? Check out these expertly-written samples:
 
 [IT Support Analyst](https://cvcompiler.com/it-support-analyst-resume-examples)
 
+[Material Handler](https://cvcompiler.com/material-handler-resume-examples)
+
 ![Upload resume illustration](uploads-pre-acq/img/upload-illustration.svg)
 
 ### Upload  
