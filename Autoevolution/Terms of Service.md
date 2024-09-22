@@ -39,9 +39,9 @@ editorial \_
 
 coverstory \_
 
-[![The 2025 Go-Pod Micro-Tourer Is Ready for World Expansion, Still Awesomely Compact](https://s1.cdn.autoevolution.com/images/news/the-2025-go-pod-micro-tourer-is-ready-for-world-expansion-still-awesomely-compact-239970-5.jpg "The 2025 Go-Pod Micro-Tourer Is Ready for World Expansion, Still Awesomely Compact")
+[![Trailer-Inspired Tiny House Features an Adorable Built-in Porch](https://s1.cdn.autoevolution.com/images/news/trailer-inspired-tiny-house-features-an-adorable-built-in-porch-240143-5.jpg "Trailer-Inspired Tiny House Features an Adorable Built-in Porch")
 
-The 2025 Go-Pod Micro-Tourer Is Ready for World Expansion, Still Awesomely Compact](https://www.autoevolution.com/news/the-2025-go-pod-micro-tourer-is-ready-for-world-expansion-still-awesomely-compact-239970.html)
+Trailer-Inspired Tiny House Features an Adorable Built-in Porch](https://www.autoevolution.com/news/trailer-inspired-tiny-house-features-an-adorable-built-in-porch-240143.html)
 
 how-to \_
 
