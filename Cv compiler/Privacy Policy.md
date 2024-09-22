@@ -1781,6 +1781,8 @@ What do top resumes look like? Check out these expertly-written samples:
 
 [Material Handler](https://cvcompiler.com/material-handler-resume-examples)
 
+[Entry-Level Medical Device Sales](https://cvcompiler.com/entry-level-medical-device-sales-resume-examples)
+
 ![Upload resume illustration](uploads-pre-acq/img/upload-illustration.svg)
 
 ### Upload  
