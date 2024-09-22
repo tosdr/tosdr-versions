@@ -198,23 +198,7 @@ O Portal TNH1 não entra em contato com os ganhadores de qualquer promoção atr
 * [ÚLTIMAS](#ultimas "Ultimas")
 * [VÍDEOS](#videos "Videos")
 
-[![Agora é oficial! CRB anuncia Hélio dos Anjos como novo técnico para o restante da Série B](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/f/f/csm_helio_dos_anjos_divulgacao_crb_3d009a5344.png)
-
-Luta contra o Z4
-
-Luta contra o Z4
-
-Agora é oficial! CRB anuncia Hélio dos Anjos como novo técnico para o restante da Série B
-
-Agora é oficial! CRB anuncia Hélio dos Anjos como novo técnico para o restante da Série B](https://www.tnh1.com.br/noticia/nid/agora-e-oficial-crb-anuncia-helio-dos-anjos-como-novo-tecnico-para-o-restante-da-serie-b/ "Agora é oficial! CRB anuncia Hélio dos Anjos como novo técnico para o restante da Série B")[![Governo publica procedimentos para pagamento do rateio do Fundef em Alagoas; confira](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/1/f/csm_real_moedadinheiro_jfcrz_abr_1701220049_1_b51dd6e180.jpg)
-
-mais de R$ 827 milhões
-
-mais de R$ 827 milhões
-
-Governo publica procedimentos para pagamento do rateio do Fundef em Alagoas; confira
-
-Governo publica procedimentos para pagamento do rateio do Fundef em Alagoas; confira](https://www.tnh1.com.br/noticia/nid/governo-publica-procedimentos-para-pagamento-do-rateio-do-fundef-em-alagoas-confira/ "Governo publica procedimentos para pagamento do rateio do Fundef em Alagoas; confira")[![Torcedores do CRB vão ao CT cobrar jogadores e diretoria: "Moleza da p..."](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/9/3/csm_Protesto_torcida_CRB_-_CT_Ninho_do_Galo_-_foto_Reproducao_Instagram_c54b687e3f.jpg)
+[![Torcedores do CRB vão ao CT cobrar jogadores e diretoria: "Moleza da p..."](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/9/3/csm_Protesto_torcida_CRB_-_CT_Ninho_do_Galo_-_foto_Reproducao_Instagram_c54b687e3f.jpg)
 
 14 jogos sem vencer
 
@@ -222,7 +206,23 @@ Governo publica procedimentos para pagamento do rateio do Fundef em Alagoas; con
 
 Torcedores do CRB vão ao CT cobrar jogadores e diretoria: "Moleza da p..."
 
-Torcedores do CRB vão ao CT cobrar jogadores e diretoria: "Moleza da p..."](https://www.tnh1.com.br/noticia/nid/torcedores-do-crb-vao-ao-ct-cobrar-jogadores-e-diretoria-moleza-da-p/ "Torcedores do CRB vão ao CT cobrar jogadores e diretoria: "Moleza da p..."")[![Homem mata namorada com espada e invade loja para também matar a ex](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/a/e/csm_Homem_mata_namorada_com_espada_e_invade_loja_para_tambem_matar_a_ex_em_GO_-_foto_Reproducao_PCGO_8a86adc7b8.jpeg)
+Torcedores do CRB vão ao CT cobrar jogadores e diretoria: "Moleza da p..."](https://www.tnh1.com.br/noticia/nid/torcedores-do-crb-vao-ao-ct-cobrar-jogadores-e-diretoria-moleza-da-p/ "Torcedores do CRB vão ao CT cobrar jogadores e diretoria: "Moleza da p..."")[![Mulher assassinada é queimada e tem corpo encontrado ainda em chamas por familiares ](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/f/5/csm_mulher_canapi_060297b5c6.jpeg)
+
+em inhapi
+
+em inhapi
+
+Mulher assassinada é queimada e tem corpo encontrado ainda em chamas por familiares
+
+Mulher assassinada é queimada e tem corpo encontrado ainda em chamas por familiares](https://www.tnh1.com.br/noticia/nid/mulher-assassinada-e-queimada-e-tem-corpo-encontrado-ainda-em-chamas-por-familiares/ "Mulher assassinada é queimada e tem corpo encontrado ainda em chamas por familiares ")[![Colisão entre carro e carreta deixa quatro mortos e três feridos na BR-312, em Delmiro Gouveia](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/c/9/csm_Acidente_carreta_e29220f661.jpg)
+
+Interior
+
+Interior
+
+Colisão entre carro e carreta deixa quatro mortos e três feridos na BR-312, em Delmiro Gouveia
+
+Colisão entre carro e carreta deixa quatro mortos e três feridos na BR-312, em Delmiro Gouveia](https://www.tnh1.com.br/noticia/nid/colisao-entre-carro-e-carreta-deixa-quatro-mortos-e-tres-feridos-na-br-312-em-delmiro-gouveia/ "Colisão entre carro e carreta deixa quatro mortos e três feridos na BR-312, em Delmiro Gouveia")[![Homem mata namorada com espada e invade loja para também matar a ex](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/a/e/csm_Homem_mata_namorada_com_espada_e_invade_loja_para_tambem_matar_a_ex_em_GO_-_foto_Reproducao_PCGO_8a86adc7b8.jpeg)
 
 após discussão
 
@@ -232,39 +232,39 @@ Homem mata namorada com espada e invade loja para também matar a ex
 
 Homem mata namorada com espada e invade loja para também matar a ex](https://www.tnh1.com.br/noticia/nid/homem-mata-namorada-com-espada-e-invade-loja-para-tambem-matar-a-ex/ "Homem mata namorada com espada e invade loja para também matar a ex")
 
-[![Ônibus com time de futebol americano tomba e deixa 3 mortos no Rio de Janeiro](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/d/4/csm_mortos_time_21b4771e77.png)
+[![Maior fiscalização provoca queda de 84% na extração de ouro](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/d/0/csm_ouro_freepik_37aaf5cc30.png)
 
 Brasil
 
 Brasil
 
-Ônibus com time de futebol americano tomba e deixa 3 mortos no Rio de Janeiro
+Maior fiscalização provoca queda de 84% na extração de ouro
 
-Ônibus com time de futebol americano tomba e deixa 3 mortos no Rio de Janeiro](https://www.tnh1.com.br/noticia/nid/onibus-com-time-de-futebol-americano-tomba-e-deixa-3-mortos-no-rio-de-janeiro/ "Ônibus com time de futebol americano tomba e deixa 3 mortos no Rio de Janeiro")[![Mulher assassinada é queimada e tem corpo encontrado ainda em chamas por familiares ](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/f/5/csm_mulher_canapi_060297b5c6.jpeg)
+Maior fiscalização provoca queda de 84% na extração de ouro](https://www.tnh1.com.br/noticia/nid/maior-fiscalizacao-provoca-queda-de-84-na-extracao-de-ouro/ "Maior fiscalização provoca queda de 84% na extração de ouro")[![Corinthians e São Paulo decidem Brasileiro feminino da Série A1](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/e/2/csm_brasileiro_feminino_285ee3d544.png)
 
-em inhapi
+neste domingo
 
-em inhapi
+neste domingo
 
-Mulher assassinada é queimada e tem corpo encontrado ainda em chamas por familiares
+Corinthians e São Paulo decidem Brasileiro feminino da Série A1
 
-Mulher assassinada é queimada e tem corpo encontrado ainda em chamas por familiares](https://www.tnh1.com.br/noticia/nid/mulher-assassinada-e-queimada-e-tem-corpo-encontrado-ainda-em-chamas-por-familiares/ "Mulher assassinada é queimada e tem corpo encontrado ainda em chamas por familiares ")[![Idosa morre em acidente com caminhão desgovernado no Distrito Federal](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/e/5/csm_acidente_caminhao_4127bf8dd4.png)
+Corinthians e São Paulo decidem Brasileiro feminino da Série A1](https://www.tnh1.com.br/noticia/nid/corinthians-e-sao-paulo-decidem-brasileiro-feminino-da-serie-a1/ "Corinthians e São Paulo decidem Brasileiro feminino da Série A1")[![Alzheimer: conscientização e avanços científicos no combate à doença neurodegenerativa](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/6/a/csm_Alzheimer_freepik_b68854b6f7.png)
 
-Brasil
+Dia Mundial
 
-Brasil
+Dia Mundial
 
-Idosa morre em acidente com caminhão desgovernado no Distrito Federal
+Alzheimer: conscientização e avanços científicos no combate à doença neurodegenerativa
 
-Idosa morre em acidente com caminhão desgovernado no Distrito Federal](https://www.tnh1.com.br/noticia/nid/idosa-morre-em-acidente-com-caminhao-desgovernado-no-distrito-federal/ "Idosa morre em acidente com caminhão desgovernado no Distrito Federal")[![Fortaleza x Bahia: quem fez mais dinheiro com a negociação de atletas na década?](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/f/c/csm_unnamed_099967bf80.jpg)
+Alzheimer: conscientização e avanços científicos no combate à doença neurodegenerativa](https://www.tnh1.com.br/noticia/nid/alzheimer-conscientizacao-e-avancos-cientificos-no-combate-a-doenca-neurodegenerativa/ "Alzheimer: conscientização e avanços científicos no combate à doença neurodegenerativa")[![Presidente Lula viaja para participar da 79ª Assembleia da ONU, em Nova York](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/b/6/csm_lula_presidente_7220d8553c.png)
 
-Futebol
+Política
 
-Futebol
+Política
 
-Fortaleza x Bahia: quem fez mais dinheiro com a negociação de atletas na década?
+Presidente Lula viaja para participar da 79ª Assembleia da ONU, em Nova York
 
-Fortaleza x Bahia: quem fez mais dinheiro com a negociação de atletas na década?](https://www.tnh1.com.br/noticia/nid/fortaleza-x-bahia-quem-fez-mais-dinheiro-com-a-negociacao-de-atletas-na-decada/ "Fortaleza x Bahia: quem fez mais dinheiro com a negociação de atletas na década?")
+Presidente Lula viaja para participar da 79ª Assembleia da ONU, em Nova York](https://www.tnh1.com.br/noticia/nid/presidente-lula-viaja-para-participar-da-79a-assembleia-da-onu-em-nova-york/ "Presidente Lula viaja para participar da 79ª Assembleia da ONU, em Nova York")
 
 [](https://www.tnh1.com.br/ "TNH1 logo")
 
