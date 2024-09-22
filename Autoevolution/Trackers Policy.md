@@ -39,9 +39,9 @@ editorial \_
 
 coverstory \_
 
-[![Google Maps Now a Waze Killer on Android Auto? Not So Fast](https://s1.cdn.autoevolution.com/images/news/google-maps-now-a-waze-killer-on-android-auto-not-so-fast-240149-5.jpg "Google Maps Now a Waze Killer on Android Auto? Not So Fast")
+[![Orbea's Diem Lineup Is Here To Herald a New Age for Cycling, but Are They the First?](https://s1.cdn.autoevolution.com/images/news/orbea-s-diem-lineup-is-here-to-herald-a-new-age-for-cycling-but-are-they-the-first-240150-5.jpg "Orbea's Diem Lineup Is Here To Herald a New Age for Cycling, but Are They the First?")
 
-Google Maps Now a Waze Killer on Android Auto? Not So Fast](https://www.autoevolution.com/news/google-maps-now-a-waze-killer-on-android-auto-not-so-fast-240149.html)
+Orbea's Diem Lineup Is Here To Herald a New Age for Cycling, but Are They the First?](https://www.autoevolution.com/news/orbea-s-diem-lineup-is-here-to-herald-a-new-age-for-cycling-but-are-they-the-first-240150.html)
 
 how-to \_
 
