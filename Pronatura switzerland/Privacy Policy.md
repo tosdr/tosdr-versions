@@ -124,8 +124,7 @@ Pronatura Main
 
 * [Biodiversité](https://www.pronatura.ch/fr/biodiversite)
     
-    * [3 raisons de voter OUI](https://www.pronatura.ch/fr/2024/trois-raisons-de-voter-oui-linitiative-biodiversite)
-    * [3 façons d’agir](https://www.pronatura.ch/fr/biodiversite/sauver-les-milieux-naturels)
+    * [Agir pour la nature](https://www.pronatura.ch/fr/agir-pour-la-nature)
     * [Questions et réponses](https://www.pronatura.ch/fr/la-biodiversite-en-suisse-questions-et-reponses)
     * [Découvrir les milieux naturels](https://www.pronatura.ch/fr/biotopes)
     
