@@ -100,7 +100,7 @@ En
     * [Bug Bounty](https://redshieldvpn.com/en/help/description/bb)
     * [Warrant Canary](https://redshieldvpn.com/en/help/description/warrant_canary)
     * [Terms of Service](https://redshieldvpn.com/en/help/description/tos)
-    * [Refund Policy - Red Shield VPN subscription and Gift Codes.](https://redshieldvpn.com/en/help/description/rp)
+    * [Refund Policy](https://redshieldvpn.com/en/help/description/rp)
     * [Privacy Policy](https://redshieldvpn.com/en/help/description/pp)
     * [Auto-renewal Terms](https://redshieldvpn.com/en/help/description/art)
     
@@ -113,10 +113,13 @@ En
     * [Kill Switch](https://redshieldvpn.com/en/help/features/killswitch)
     
 
-Refund Policy - Red Shield VPN subscription and Gift Codes.
------------------------------------------------------------
+Refund Policy
+-------------
 
-**Updated September 20, 2024**  
+Red Shield VPN subscription and Gift Codes.
+-------------------------------------------
+
+**Updated September 22, 2024**  
 
 1. Refunds are not guaranteed, even if all conditions listed in this document are met.  
     Refund requests may be rejected without any explanation.  
@@ -134,7 +137,7 @@ Refund Policy - Red Shield VPN subscription and Gift Codes.
 6. If you want to create a refund request, you must meet all the conditions:  
       
     6.1. The reason for the refund is the inability to connect to the service using Red Shield VPN apps and browser extensions.  
-    Refunds will not be issued for any other reasons, including connection issues or inability to connect when using other devices or software.  
+    Refunds will not be provided for any other reasons, including connection issues or inability to connect when using other devices or software.  
       
     6.2. The reason for the inability to connect is a problem with the Red Shield VPN software.  
     If such a reason for the inability to connect is your ISP or another ISP in the chain, government restrictions, other software (including antiviruses, firewalls, etc) on your device and any other third parties and software, a refund is not possible.  
