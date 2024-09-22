@@ -10,7 +10,7 @@
     * [RPG (4)](https://an1.com/games/rpg/)
     * [Shooter (6)](https://an1.com/games/shooter/)
     * [Casual (291)](https://an1.com/games/casual/)
-    * [Strategy (276)](https://an1.com/games/strategy/)
+    * [Strategy (277)](https://an1.com/games/strategy/)
     * [Sport (197)](https://an1.com/games/sport/)
     * [Simulations (454)](https://an1.com/games/simulations/)
     * [Race (315)](https://an1.com/games/race/)
