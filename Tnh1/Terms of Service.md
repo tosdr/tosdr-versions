@@ -198,15 +198,7 @@ O Portal TNH1 não entra em contato com os ganhadores de qualquer promoção atr
 * [ÚLTIMAS](#ultimas "Ultimas")
 * [VÍDEOS](#videos "Videos")
 
-[![Torcedores do CRB vão ao CT cobrar jogadores e diretoria: "Moleza da p..."](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/9/3/csm_Protesto_torcida_CRB_-_CT_Ninho_do_Galo_-_foto_Reproducao_Instagram_c54b687e3f.jpg)
-
-14 jogos sem vencer
-
-14 jogos sem vencer
-
-Torcedores do CRB vão ao CT cobrar jogadores e diretoria: "Moleza da p..."
-
-Torcedores do CRB vão ao CT cobrar jogadores e diretoria: "Moleza da p..."](https://www.tnh1.com.br/noticia/nid/torcedores-do-crb-vao-ao-ct-cobrar-jogadores-e-diretoria-moleza-da-p/ "Torcedores do CRB vão ao CT cobrar jogadores e diretoria: "Moleza da p..."")[![Mulher assassinada é queimada e tem corpo encontrado ainda em chamas por familiares ](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/f/5/csm_mulher_canapi_060297b5c6.jpeg)
+[![Mulher assassinada é queimada e tem corpo encontrado ainda em chamas por familiares ](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/f/5/csm_mulher_canapi_060297b5c6.jpeg)
 
 em inhapi
 
@@ -214,7 +206,7 @@ em inhapi
 
 Mulher assassinada é queimada e tem corpo encontrado ainda em chamas por familiares
 
-Mulher assassinada é queimada e tem corpo encontrado ainda em chamas por familiares](https://www.tnh1.com.br/noticia/nid/mulher-assassinada-e-queimada-e-tem-corpo-encontrado-ainda-em-chamas-por-familiares/ "Mulher assassinada é queimada e tem corpo encontrado ainda em chamas por familiares ")[![Colisão entre carro e carreta deixa quatro mortos e três feridos na BR-312, em Delmiro Gouveia](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/c/9/csm_Acidente_carreta_e29220f661.jpg)
+Mulher assassinada é queimada e tem corpo encontrado ainda em chamas por familiares](https://www.tnh1.com.br/noticia/nid/mulher-assassinada-e-queimada-e-tem-corpo-encontrado-ainda-em-chamas-por-familiares/ "Mulher assassinada é queimada e tem corpo encontrado ainda em chamas por familiares ")[![Colisão entre carro e carreta deixa quatro mortos e três feridos na BR-312, em Delmiro Gouveia](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/c/9/csm_Acidente_carreta_e29220f661.jpg)
 
 Interior
 
@@ -222,15 +214,23 @@ Interior
 
 Colisão entre carro e carreta deixa quatro mortos e três feridos na BR-312, em Delmiro Gouveia
 
-Colisão entre carro e carreta deixa quatro mortos e três feridos na BR-312, em Delmiro Gouveia](https://www.tnh1.com.br/noticia/nid/colisao-entre-carro-e-carreta-deixa-quatro-mortos-e-tres-feridos-na-br-312-em-delmiro-gouveia/ "Colisão entre carro e carreta deixa quatro mortos e três feridos na BR-312, em Delmiro Gouveia")[![Homem mata namorada com espada e invade loja para também matar a ex](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/a/e/csm_Homem_mata_namorada_com_espada_e_invade_loja_para_tambem_matar_a_ex_em_GO_-_foto_Reproducao_PCGO_8a86adc7b8.jpeg)
+Colisão entre carro e carreta deixa quatro mortos e três feridos na BR-312, em Delmiro Gouveia](https://www.tnh1.com.br/noticia/nid/colisao-entre-carro-e-carreta-deixa-quatro-mortos-e-tres-feridos-na-br-312-em-delmiro-gouveia/ "Colisão entre carro e carreta deixa quatro mortos e três feridos na BR-312, em Delmiro Gouveia")[![Veja pontuação necessária para CRB atingir 'número ideal' e tentar fugir do rebaixamento](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/1/a/csm_CRB_x_Ponte_Preta_foto_Francisco_Cedrim_a951fa8363.jpg)
 
-após discussão
+CALCULADORA NA MÃO
 
-após discussão
+CALCULADORA NA MÃO
 
-Homem mata namorada com espada e invade loja para também matar a ex
+Veja pontuação necessária para CRB atingir 'número ideal' e tentar fugir do rebaixamento
 
-Homem mata namorada com espada e invade loja para também matar a ex](https://www.tnh1.com.br/noticia/nid/homem-mata-namorada-com-espada-e-invade-loja-para-tambem-matar-a-ex/ "Homem mata namorada com espada e invade loja para também matar a ex")
+Veja pontuação necessária para CRB atingir 'número ideal' e tentar fugir do rebaixamento](https://www.tnh1.com.br/noticia/nid/veja-pontuacao-necessaria-para-crb-atingir-numero-ideal-e-tentar-fugir-do-rebaixamento/ "Veja pontuação necessária para CRB atingir 'número ideal' e tentar fugir do rebaixamento")[![Mais de 25 mil pés de maconha são apreendidos no interior de Alagoas após denúncia anônima](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/c/c/csm_maconha_canapi_77da53e569.jpeg)
+
+geneticamente modificada
+
+geneticamente modificada
+
+Mais de 25 mil pés de maconha são apreendidos no interior de Alagoas após denúncia anônima
+
+Mais de 25 mil pés de maconha são apreendidos no interior de Alagoas após denúncia anônima](https://www.tnh1.com.br/noticia/nid/mais-de-25-mil-pes-de-maconha-sao-apreendidos-no-interior-de-alagoas-apos-denuncia-anonima/ "Mais de 25 mil pés de maconha são apreendidos no interior de Alagoas após denúncia anônima")
 
 [![Maior fiscalização provoca queda de 84% na extração de ouro](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/d/0/csm_ouro_freepik_37aaf5cc30.png)
 
