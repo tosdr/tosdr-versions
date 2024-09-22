@@ -20,7 +20,7 @@ privacy
 
  ![Search](/theme_japantimes/images/search_icon.svg)
 
-[September 22, 2024](https://www.japantimes.co.jp/archive/2024/09/22/ "archive page")
+[September 23, 2024](https://www.japantimes.co.jp/archive/2024/09/23/ "archive page")
 
  [![The Japan Times](/theme_japantimes/images/logo-white-2.png)](https://www.japantimes.co.jp/ "The Japan Times")
 
@@ -463,25 +463,29 @@ Revised June 1, 2022
 
 * Editors' Picks
 
+['Unprecedented' rains in quake-hit Ishikawa leave at least one dead](https://www.japantimes.co.jp/news/2024/09/21/japan/ishikawa-heavy-rain-alert/ "'Unprecedented' rains in quake-hit Ishikawa leave at least one dead")
+
+  [![A car is seen in a crevice that opened up in a road amid heavy rains in Suzu, Ishikawa Prefecture, on Saturday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/21/423040.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "A car is seen in a crevice that opened up in a road amid heavy rains in Suzu, Ishikawa Prefecture, on Saturday.")](https://www.japantimes.co.jp/news/2024/09/21/japan/ishikawa-heavy-rain-alert/ "'Unprecedented' rains in quake-hit Ishikawa leave at least one dead")
+
+[Argentina stuns South Africa in 29-28 win to keep title hopes alive](https://www.japantimes.co.jp/sports/2024/09/22/more-sports/argentina-stuns-south-africa/ "Argentina stuns South Africa in 29-28 win to keep title hopes alive")
+
+  [![Argentina's Joel Sclavi (left), Ignacio Calles (center) and Thomas Gallo celebrate after Los Pumas defeated the Springboks on Saturday. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/22/423093.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Argentina's Joel Sclavi (left), Ignacio Calles (center) and Thomas Gallo celebrate after Los Pumas defeated the Springboks on Saturday. ")](https://www.japantimes.co.jp/sports/2024/09/22/more-sports/argentina-stuns-south-africa/ "Argentina stuns South Africa in 29-28 win to keep title hopes alive")
+
+[U.S. marine in Okinawa indicted for alleged sexual assault](https://www.japantimes.co.jp/news/2024/09/21/japan/crime-legal/us-marine-okinawa-indict/ "U.S. marine in Okinawa indicted for alleged sexual assault")
+
+  [![A U.S. Marine aircraft at Futenma Air Station in Okinawa](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/21/423025.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "A U.S. Marine aircraft at Futenma Air Station in Okinawa")](https://www.japantimes.co.jp/news/2024/09/21/japan/crime-legal/us-marine-okinawa-indict/ "U.S. marine in Okinawa indicted for alleged sexual assault")
+
+[Koizumi ranks as top choice in polls among lawmakers in Japan’s LDP race](https://www.japantimes.co.jp/news/2024/09/21/japan/politics/koizumi-lawmaker-favorite/ "Koizumi ranks as top choice in polls among lawmakers in Japan’s LDP race")
+
+  [![Shinjiro Koizumi, a former environment minister, during a news conference at the Liberal Democratic Party headquarters in Tokyo earlier this month. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/21/423033.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Shinjiro Koizumi, a former environment minister, during a news conference at the Liberal Democratic Party headquarters in Tokyo earlier this month. ")](https://www.japantimes.co.jp/news/2024/09/21/japan/politics/koizumi-lawmaker-favorite/ "Koizumi ranks as top choice in polls among lawmakers in Japan’s LDP race")
+
 [U.S. leans on shipbuilding prowess of allies to compete with China](https://www.japantimes.co.jp/news/2024/09/21/asia-pacific/us-shipbuilding-allies/ "U.S. leans on shipbuilding prowess of allies to compete with China")
 
   [![Warships and fighter jets of the Chinese People's Liberation Army Navy take part in a military display in the South China Sea in April 2018.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/21/423021.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Warships and fighter jets of the Chinese People's Liberation Army Navy take part in a military display in the South China Sea in April 2018.")](https://www.japantimes.co.jp/news/2024/09/21/asia-pacific/us-shipbuilding-allies/ "U.S. leans on shipbuilding prowess of allies to compete with China")
 
-[Apple's iPhone 16 released in Japan](https://www.japantimes.co.jp/business/2024/09/20/companies/iphone16-japan-stores/ "Apple's iPhone 16 released in Japan")
+[Jimgu: A farm-driven restaurant of outstanding local variety](https://www.japantimes.co.jp/life/2024/09/22/food-drink/jimgu-enowa-farm-yufuin-oita/ "Jimgu: A farm-driven restaurant of outstanding local variety")
 
-  [![A man holds a new iPhone 16 at an Apple store in Tokyo's Shibuya Ward on Friday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/20/422900.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "A man holds a new iPhone 16 at an Apple store in Tokyo's Shibuya Ward on Friday.")](https://www.japantimes.co.jp/business/2024/09/20/companies/iphone16-japan-stores/ "Apple's iPhone 16 released in Japan")
-
-[China works to avoid rift with Japan over killing of schoolchild](https://www.japantimes.co.jp/news/2024/09/20/japan/japan-china-stabbing/ "China works to avoid rift with Japan over killing of schoolchild")
-
-  [![The Japanese Embassy in Beijing on Thursday. The embassy and other organizations have urged swift and resolute actions to protect Japanese citizens in China.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/20/422895.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "The Japanese Embassy in Beijing on Thursday. The embassy and other organizations have urged swift and resolute actions to protect Japanese citizens in China.")](https://www.japantimes.co.jp/news/2024/09/20/japan/japan-china-stabbing/ "China works to avoid rift with Japan over killing of schoolchild")
-
-[Others who had 50 steals or 50 homers admire Ohtani's feat](https://www.japantimes.co.jp/sports/2024/09/21/baseball/mlb/player-admiration-ohtani/ "Others who had 50 steals or 50 homers admire Ohtani's feat")
-
-  [![Before Shohei Ohtani created the 50-50 club on Thursday, just two players in MLB history had hit 50 homers and stolen 50 bases in a season, but not in the same one.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/20/422955.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Before Shohei Ohtani created the 50-50 club on Thursday, just two players in MLB history had hit 50 homers and stolen 50 bases in a season, but not in the same one.")](https://www.japantimes.co.jp/sports/2024/09/21/baseball/mlb/player-admiration-ohtani/ "Others who had 50 steals or 50 homers admire Ohtani's feat")
-
-[Shohei Ohtani records baseball's first 50-50 season with huge night in Miami](https://www.japantimes.co.jp/sports/2024/09/20/baseball/mlb/ohtani-50-50-season/ "Shohei Ohtani records baseball's first 50-50 season with huge night in Miami")
-
-  [![Shohei Ohtani connects on his 50th home run of the season during the seventh inning against the Marlins in Miami on Thursday. Ohtani became the first player in MLB history to reach 50 home runs and 50 stolen bases in the same season.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/20/422799.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Shohei Ohtani connects on his 50th home run of the season during the seventh inning against the Marlins in Miami on Thursday. Ohtani became the first player in MLB history to reach 50 home runs and 50 stolen bases in the same season.")](https://www.japantimes.co.jp/sports/2024/09/20/baseball/mlb/ohtani-50-50-season/ "Shohei Ohtani records baseball's first 50-50 season with huge night in Miami")
+  [![Through trial and error, Tashi Gyamtso and his team meticulously selected a variety of herbs and vegetables best suited to Yufuin’s unique altitude, climate and soil conditions — and which now form the backbone of Jimgu's menu.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/22/421530.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Through trial and error, Tashi Gyamtso and his team meticulously selected a variety of herbs and vegetables best suited to Yufuin’s unique altitude, climate and soil conditions — and which now form the backbone of Jimgu's menu.")](https://www.japantimes.co.jp/life/2024/09/22/food-drink/jimgu-enowa-farm-yufuin-oita/ "Jimgu: A farm-driven restaurant of outstanding local variety")
 
 [For Toyota and its rivals, WEC becomes important arena amid major industry shift](https://www.japantimes.co.jp/sports/2024/09/20/more-sports/world-endurance-racing-momentum/ "For Toyota and its rivals, WEC becomes important arena amid major industry shift")
 
@@ -498,10 +502,6 @@ Revised June 1, 2022
 [Yuriyan Retriever is Japan's biggest heel — and proud of it](https://www.japantimes.co.jp/culture/2024/09/20/tv-streaming/yuriyan-retriever-dump-matsumoto/ "Yuriyan Retriever is Japan's biggest heel — and proud of it")
 
   [![Comedian Yuriyan Retriever takes on the role of Japan’s most hated heel, Kaoru “Dump” Matsumoto, in “The Queen of Villains.”](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/20/422369.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Comedian Yuriyan Retriever takes on the role of Japan’s most hated heel, Kaoru “Dump” Matsumoto, in “The Queen of Villains.”")](https://www.japantimes.co.jp/culture/2024/09/20/tv-streaming/yuriyan-retriever-dump-matsumoto/ "Yuriyan Retriever is Japan's biggest heel — and proud of it")
-
-[‘The people I’d seen in kimono didn’t have as much melanin as I do’](https://www.japantimes.co.jp/community/2024/09/16/our-lives/kimono-instructor-license-black-women-japan/ "‘The people I’d seen in kimono didn’t have as much melanin as I do’")
-
-  [![American Kara Harris is on the verge of attaining a high-level certification in the world of kimono — and may possibly be the first Black woman to do so.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/13/421162.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "American Kara Harris is on the verge of attaining a high-level certification in the world of kimono — and may possibly be the first Black woman to do so.")](https://www.japantimes.co.jp/community/2024/09/16/our-lives/kimono-instructor-license-black-women-japan/ "‘The people I’d seen in kimono didn’t have as much melanin as I do’")
 
 Podcast
 -------
@@ -522,9 +522,9 @@ By [Alex K.T. Martin](https://www.japantimes.co.jp/author/219/alex-kt-martin/ "A
 SUSTAINABLE JAPAN
 -----------------
 
-[Azabudai Hills, Tokyo’s green new downtown ‘village’](https://sustainable.japantimes.com/unraveling/26?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=2 "Azabudai Hills, Tokyo’s green new downtown ‘village’")
+[SWCC keeps changing with keyword ‘new challenges’](https://sustainable.japantimes.com/unraveling/27?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=4 "SWCC keeps changing with keyword ‘new challenges’")
 
-[![Azabudai Hills, Tokyo’s green new downtown ‘village’](https://wp.japantimes.co.jp/wp-content/uploads/2024/07/img_unraveling_26_01-200x200.jpg)](https://sustainable.japantimes.com/unraveling/26?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=2 "Azabudai Hills, Tokyo’s green new downtown ‘village’")
+[![SWCC keeps changing with keyword ‘new challenges’](https://wp.japantimes.co.jp/wp-content/uploads/2024/08/img_unraveling_27_01-200x200.jpg)](https://sustainable.japantimes.com/unraveling/27?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=4 "SWCC keeps changing with keyword ‘new challenges’")
 
 SPECIAL SUPPLEMENTS [![note](/theme_japantimes/images/icon_note.png)](javascript:; "Note")
 ------------------------------------------------------------------------------------------
@@ -564,25 +564,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
-[Genchari moped users lament imminent farewell](https://www.japantimes.co.jp/news/2024/09/22/japan/society/genchari-moped-goodbye/ "Genchari moped users lament imminent farewell")
+[Koizumi enjoys most support among lawmakers in LDP race: Jiji survey](https://www.japantimes.co.jp/news/2024/09/22/japan/politics/koizumi-enjoys-most-ldp-support/ "Koizumi enjoys most support among lawmakers in LDP race: Jiji survey")
+
+3 hours ago
+
+[Kim Jong Un offers tepid praise to China as he cozies up to Russia](https://www.japantimes.co.jp/news/2024/09/22/asia-pacific/kim-jong-un-china-praise/ "Kim Jong Un offers tepid praise to China as he cozies up to Russia")
 
 4 hours ago
 
-[Biden and Kishida affirm strong ties ahead of leadership transition in both nations](https://www.japantimes.co.jp/news/2024/09/22/japan/politics/kishida-biden-summit/ "Biden and Kishida affirm strong ties ahead of leadership transition in both nations")
+[As sun sets on Biden's term, some inmates pin their hopes on clemency](https://www.japantimes.co.jp/news/2024/09/22/world/politics/biden-inmates-clemency/ "As sun sets on Biden's term, some inmates pin their hopes on clemency")
 
 4 hours ago
 
-['Quad' cements ties with coast guard patrols amid China concerns](https://www.japantimes.co.jp/news/2024/09/22/asia-pacific/politics/quad-summit-biden-kishida-china/ "'Quad' cements ties with coast guard patrols amid China concerns")
+[Israel forces raid Al Jazeera TV in West Bank, order 45-day closure](https://www.japantimes.co.jp/news/2024/09/22/world/politics/israel-forces-raid-al-jazeera/ "Israel forces raid Al Jazeera TV in West Bank, order 45-day closure")
 
 5 hours ago
 
-[One dead and 11 missing after 'unprecedented' rains in quake-hit Ishikawa](https://www.japantimes.co.jp/news/2024/09/22/japan/ishikawa-rain-second-day/ "One dead and 11 missing after 'unprecedented' rains in quake-hit Ishikawa")
+[Australia backs easing of China's ban on Japan fishery products](https://www.japantimes.co.jp/news/2024/09/22/japan/australia-china-japan-fishery-products/ "Australia backs easing of China's ban on Japan fishery products")
 
-7 hours ago
-
-[Zelenskyy to press U.S. on long-range missile strikes inside Russia](https://www.japantimes.co.jp/news/2024/09/22/world/politics/zelenskyy-us-long-range-strikes/ "Zelenskyy to press U.S. on long-range missile strikes inside Russia")
-
-8 hours ago
+5 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
