@@ -101,6 +101,82 @@ If you have any questions about our privacy policy, please [contact us](mailto:w
 
 Return to our [subscription form](https://www.icr.org/subscriptions).
 
+More God Caused Wisdom
+
+[![](https://dummyimage.com/328x116/DDD/000&text=Back to Genesis+Article)](https://www.icr.org/article/scientific-irrationality)
+
+[Scientific Irrationality](https://www.icr.org/article/scientific-irrationality/)
+
+Evolutionary scientists like to picture themselves to the public as paragons of rational thought—cool, detached, careful observers and analyzers...
+
+BY: [HENRY M. MORRIS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=23)
+
+[![](https://dummyimage.com/328x116/DDD/000&text=Back to Genesis+Article)](https://www.icr.org/article/mathematical-impossibility-evolution)
+
+[The Mathematical Impossibility Of Evolution](https://www.icr.org/article/mathematical-impossibility-evolution/)
+
+ICR began publishing its popular free newsletter Acts & Facts in June 1972, over 31 years ago. The first two issues were 6-page, single-column, fold-over...
+
+BY: [HENRY M. MORRIS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=23)
+
+[![](/i/articles/dop/DOP_Logo_328_116.jpg)](https://www.icr.org/article/glory-thanks)
+
+[Glory And Thanks](https://www.icr.org/article/glory-thanks/)
+
+“Because that, when they knew God, they glorified Him not as God, neither were thankful” (Romans 1:21). There were at least two distinct...
+
+BY: [NORMAN P. SPOTTS, D.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=38)
+
+More Nature Reveals God's Wisdom
+
+[![](/i/Main%20Stage%20-%201400x1050/Bacterial_Proteins_Quantum_Mechanics_1400x1050.jpg)](https://www.icr.org/article/Bacterial-Proteins-Use-Quantum-Mechanics)
+
+[Bacterial Proteins Use Quantum Mechanics](https://www.icr.org/article/Bacterial-Proteins-Use-Quantum-Mechanics/)
+
+Researchers have found a dimmer switch inside a protein. It tunes the protein’s configuration to take advantage of quantum mechanics during photosynthesis....
+
+BY: [BRIAN THOMAS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=201)
+
+[![](/i/wide/sophisticated_sensor_wide.jpg)](https://www.icr.org/article/amazon-go-creatures-depend-sophisticated)
+
+[Amazon Go, Creatures Depend on Sophisticated Sensors](https://www.icr.org/article/amazon-go-creatures-depend-sophisticated/)
+
+What does the recently unveiled Amazon Go store have to do with several new studies detailing how flies find water or how tiny roundworms can "taste...
+
+BY: [RANDY J. GULIUZZA, P.E., M.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=203)
+
+[![](/i/Main%20Stage%20-%201400x1050/Honeybee_Design_1400x1050.jpg)](https://www.icr.org/article/honeybee-design-saves-energy)
+
+[Honeybee Design Saves Energy](https://www.icr.org/article/honeybee-design-saves-energy/)
+
+Biomimicry is the making of systems or materials that are modeled after flora or fauna found in God’s creation (e.g. the artificial fabric Velcro...
+
+BY: [FRANK SHERWIN, D.SC. (HON.)](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=32)
+
+More Impact
+
+[![](/i/articles/af/Main%20Stage%20-%201400x1050/nuclear_fission_unreliable.jpg)](https://www.icr.org/article/nuclear-fission-dating-methods-are-unreliable)
+
+[Nuclear Fission Dating Methods Are Unreliable](https://www.icr.org/article/nuclear-fission-dating-methods-are-unreliable/)
+
+Have you ever pulled apart a large mass of taffy and watched it break into two approximately equal masses? This is an illustration of what happens in...
+
+BY: [VERNON R. CUPPS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=222)
+
+[Testing Old-Earth Climate Claims, Part 1](https://www.icr.org/article/testing-old-earth-climate-claims-part/)
+
+In a scientific controversy, how do laypeople evaluate the merits of each side’s arguments when those arguments involve technical details? Unfortunately,...
+
+BY: [JAKE HEBERT, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=218)
+
+[![](/i/articles/af/af1712_square4_248_test_old_earth_climate2.jpg)](https://www.icr.org/article/10339)
+
+[Testing Old-Earth Climate Claims, Part 2](https://www.icr.org/article/10339/)
+
+There is strong geological evidence for a single Ice Age, which creation scientists attribute to the aftereffects of the Genesis Flood.1...
+
+BY: [JAKE HEBERT, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=218)
+
 [![Institute for Creation Research](/i/icr-logo-final-h-rev3-100.png)](https://www.icr.org/)[![ICR Discovery Center for Science and Earth History](/i/DC_Logo_Footer_2.png)](http://discoverycenter.icr.org/)
 
 [About  Us](https://www.icr.org/discover)[News](https://www.icr.org/news)[Publications](https://www.icr.org/icr-magazines)[Media](https://www.icr.org/video)[Events](https://www.icr.org/events)[Give](https://www.icr.org/donate)[Store](https://store.icr.org/)[Education](http://www.icr.edu/)
