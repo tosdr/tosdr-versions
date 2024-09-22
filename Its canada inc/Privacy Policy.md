@@ -275,7 +275,7 @@ Privacy Officer, privacy@its-can.com
 
 Send
 
-[![ITS Canada Logo](https://3js7c5.p3cdn1.secureserver.net/wp-content/uploads/2023/03/LOGO-TRANSPARENCY-02.png)](https://its-can.com/)
+[![ITS Canada Logo](https://3js7c5.p3cdn1.secureserver.net/wp-content/uploads/2023/03/LOGO-TRANSPARENCY-02.png?time=1726880547)](https://its-can.com/)
 
 [Schedule Consultation](#form)
 
