@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/overige/nederlandse-grondrechten-overruled-door-who/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/hoofdartikelen/wat-poetst-nasa-weg-in-de-zeeman-krater/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
