@@ -1,10 +1,10 @@
 You need to enable JavaScript to run Jabra Enhance.
 
-The Enhance Select 500 has arrived! [Shop now](https://www.listenlively.com/product/enhanceselect500)
+Save $200 on the Enhance Select 500! [Shop](https://www.listenlively.com/product)
 
-The Enhance Select 500 has arrived! [Shop now](https://www.listenlively.com/product/enhanceselect500)
+Save $200 on the Enhance Select 500! [Shop now](https://www.listenlively.com/product)
 
-The Enhance Select 500 has arrived! [Shop now](https://www.listenlively.com/product/enhanceselect500)
+Save $200 on the Enhance Select 500! [Shop now](https://www.listenlively.com/product)
 
 100-day risk-free trial, US-based support!
 
@@ -16,22 +16,40 @@ The Enhance Select 500 has arrived! [Shop now](https://www.listenlively.com/prod
 
 [Hearing aids](https://www.listenlively.com/product)[Remote care](https://www.listenlively.com/hearing-care)[Hearing resources](https://www.listenlively.com/hearing-aid-guide)
 
-Schedule call[(800) 854-2772](tel:8008542772)
-
-[](tel:8008542772 "Call us")
+[(800) 854-2772We're open! Call now](tel:8008542772)[](tel:8008542772 "Call us")
 
 [](https://www.listenlively.com/survey)
 
 Previous
 
-![](/cdn-cgi/image/width=1920,quality=80,format=auto/_next/static/media/es500-hiw-poster.46b3f9b9.jpg)Play video
+![Sale Banner Foreground Image](https://cdn.jabraenhance.com/cdn-cgi/image/width=3840,quality=80,format=auto/web/sales/fall-24-sale-foreground-desktop.png)
 
-New
+$200 Off
+========
 
-It’s your hearing. Let’s make the most of it.
----------------------------------------------
+this fall!
+==========
 
-The Select 500 has the **clearest** sound we offer in the **smallest** hearing aid we make.
+Take $200 off the Select 500 —
+
+while you can!
+
+$200 Off this fall!
+-------------------
+
+Take $200 off the Select 500 —
+
+while you can!
+
+$200 Off
+========
+
+this fall!
+==========
+
+Take $200 off the Select 500 —
+
+while you can!
 
 [Shop now](https://www.listenlively.com/product)
 
@@ -42,10 +60,14 @@ With our advanced hearing aids and recommended expert care, you'll be hearing be
 
 [Start your 100-day trial](https://www.listenlively.com/survey)[Shop for hearing aids ›](https://www.listenlively.com/product)
 
-![](/cdn-cgi/image/width=1920,quality=80,format=auto/_next/static/media/default-desktop.dae76a02.jpg)[Our clearest  
-sound, our most discreet design](https://www.listenlively.com/product)[Our clearest  
-sound, our most discreet design _Shop Now_](https://www.listenlively.com/product)[Our clearest  
-sound, our most discreet design _Shop the Select 500_](https://www.listenlively.com/product)
+![](/cdn-cgi/image/width=1920,quality=80,format=auto/_next/static/media/default-desktop.dae76a02.jpg)[##### Save $200!
+
+**Shop now**](https://www.listenlively.com/product)[##### Save $200!
+
+**Shop now**](https://www.listenlively.com/product)[Save $200!
+----------
+
+**Shop now**](https://www.listenlively.com/product)
 
 “Best if you're new to hearing aids”
 
@@ -190,6 +212,21 @@ Next
 * Advanced acoustics
 
 [Shop now](https://www.listenlively.com/product/enhanceselect500)
+
+Get personalized care with our Premium Package
+----------------------------------------------
+
+### Programmed for you
+
+Hearing aids custom-programmed to your unique hearing needs based on your online test results or audiogram.
+
+### Care from your couch
+
+Video chat with a licensed hearing specialist about your hearing and hearing aids, as often as needed.
+
+### Adjustments made by experts
+
+If you're having an issue, our Audiology Team will tweak your hearing aids via the app, from anywhere.
 
 The reviews are in
 ------------------
