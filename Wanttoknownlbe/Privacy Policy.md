@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/inspiratie/arend-zeevat/doe-niets-en-laat-niets-ongedaan/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/nieuws/stop-hpv-vaccinatie-nu/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
