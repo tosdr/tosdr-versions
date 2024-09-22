@@ -44,37 +44,37 @@ If you are interested in turning on your browser’s privacy and Do Not Track se
 
 [Public Pastes](https://pastebin.com/archive)
 
-* [New free giftcards 0-day exploit](https://pastebin.com/b9Z1NptM)
+* [This method is now public](https://pastebin.com/dddkHTEU)
     
-    Python | 3 sec ago | 0.31 KB
+    JavaScript | 1 sec ago | 0.20 KB
     
-* [⭐Free Giftcards Method ⭐September 2024](https://pastebin.com/GuPdpTNV)
+* [New free giftcards 0-day exploit](https://pastebin.com/T8yjYccP)
     
-    Python | 5 sec ago | 0.31 KB
+    Python | 1 sec ago | 0.32 KB
     
-* [⭐ Free giftcards private guide](https://pastebin.com/ujM2330W)
+* [❤️ MAKE $500 IN 15 MINUTES ❤](https://pastebin.com/bzBUfA01)
     
-    Python | 8 sec ago | 0.30 KB
+    JavaScript | 1 sec ago | 0.17 KB
     
-* [⭐Free Giftcards Method ⭐September 2024](https://pastebin.com/dcVh12R2)
+* [New 0-day exploit (online marketplace)](https://pastebin.com/FuMh0ykr)
     
-    Python | 14 sec ago | 0.31 KB
+    JavaScript | 3 sec ago | 0.13 KB
     
-* [⭐ Free giftcards private guide](https://pastebin.com/nN59t6gR)
+* [This method is now public](https://pastebin.com/4Vi8q7py)
     
-    Python | 56 sec ago | 0.31 KB
+    JavaScript | 3 sec ago | 0.20 KB
     
-* [😍 FREE GIFTCARDS method latest ☀️](https://pastebin.com/CZhRuZkV)
+* [⭐Free Giftcards Method ⭐September 2024](https://pastebin.com/U6r8B474)
     
-    Python | 59 sec ago | 0.30 KB
+    Python | 4 sec ago | 0.32 KB
     
-* [New free giftcards 0-day exploit](https://pastebin.com/DDuCpEQc)
+* [⭐Free Giftcards Method⭐September 2024](https://pastebin.com/4ERdYM8u)
     
-    Python | 1 min ago | 0.30 KB
+    JavaScript | 6 sec ago | 0.17 KB
     
-* [⭐Free Giftcards Method ⭐September 2024](https://pastebin.com/2dJqTyWL)
+* [New 0-day exploit (online marketplace)](https://pastebin.com/0CR9eD8W)
     
-    Python | 1 min ago | 0.29 KB
+    JavaScript | 6 sec ago | 0.13 KB
     
 
 [](https://pastebin.com/tools#chrome "Google Chrome Extension")[](https://pastebin.com/tools#firefox "Firefox Extension")[](https://pastebin.com/tools#iphone "iPhone/iPad Application")[](https://pastebin.com/tools#windows "Windows Desktop Application")[](https://pastebin.com/tools#android "Android Application")[](https://pastebin.com/tools#macos "MacOS X Widget")[](https://pastebin.com/tools#opera "Opera Extension")[](https://pastebin.com/tools#pastebincl "Linux Application")
