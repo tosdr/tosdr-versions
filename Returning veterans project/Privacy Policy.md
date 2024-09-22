@@ -187,10 +187,10 @@ Newsletter Signup
 
 ![Red Star Icon](https://cdn.returningveterans.org/images/site/star_red.png)[### Wall of Honor
 
-![Jim Swenson](https://cdn.returningveterans.org/images/honor/8_Jim_Swenson_AR.png)  
+![Chuck Phister](https://cdn.returningveterans.org/images/honor/25_Chuck_Phister_N.jpg)  
 
-**In Honor of Jim Swenson**  
-United States Army  
+**In Honor of Chuck Phister**  
+United States Navy  
 Submitted by Messiah Lutheran Church, Vancouver Wa](https://returningveterans.org/wall-of-honor/ "Visit the Wall of Honor")
 
 Returning Veterans Project
@@ -236,5 +236,5 @@ _The appearance of U.S. Department of Defense (DoD) visual information does not 
 * [Site by NetRaising](https://netraising.com/ "NetRaising | a web consultancy")
 
 https://returningveterans.org/about/privacy-statement/  
-Printed 9/22/24 - 2:13:43  
+Printed 9/22/24 - 8:28:28  
 © 2024 Returning Veterans Project
