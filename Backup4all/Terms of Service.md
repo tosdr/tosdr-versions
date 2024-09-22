@@ -139,15 +139,15 @@ We develop software that matters since 1999. These are our products: Backup4all/
 * [Forum](https://forum.backup4all.com/)
 * [Blog](https://blog.backup4all.com/)
 
-* [How to backup your data to Google Drive](https://www.backup4all.com/how-to-backup-your-data-to-google-drive-kb.html)  
-    
 * [How to restore a backup from Cloudflare R2 us ...](https://www.backup4all.com/how-to-restore-a-backup-from-cloudflare-r2-using-backup4all-kb.html)  
     
-* [How to back up to multiple destinations](https://www.backup4all.com/how-to-back-up-to-multiple-destinations-kb.html)  
+* [How to backup your data to Aruba Cloud](https://www.backup4all.com/how-to-backup-your-data-to-aruba-cloud-kb.html)  
     
-* [How to back up data files from Scality using ...](https://www.backup4all.com/how-to-back-up-data-files-from-scality-using-backup4all-kb.html)  
+* [How to backup your data to Zettagrid](https://www.backup4all.com/how-to-backup-your-data-to-zettagrid-kb.html)  
     
-* [How to backup your data to Eucalyptus/Walrus](https://www.backup4all.com/how-to-backup-your-data-to-eucalyptus-walrus-kb.html)  
+* [How to back up data files from Revera using B ...](https://www.backup4all.com/how-to-back-up-data-files-from-revera-using-backup4all-kb.html)  
+    
+* [Using the Backup4all sidebar gadget](https://www.backup4all.com/using-the-backup4all-sidebar-gadget-kb.html)  
     
 
 Choose language:
