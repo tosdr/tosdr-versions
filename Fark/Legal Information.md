@@ -230,11 +230,11 @@ It's Not News, It's Fark
 
 [![](https://img.fark.net/images/2024/site/Fark25.png)](https://www.eventbrite.com/e/fark25-the-25th-anniversary-fark-party-tickets-1001498367577?aff=oddtdtcreator)
 
-If you like these links, you'll love
+Can't get enough Fark in your life? Try
 
 ![TotalFark](https://img.fark.net/images/2017/site/totalfark_logo_2017.png)
 
-More Fark for your buck
+More threads. More community. More Farking.
 
 [learn more](https://www.fark.com/farq/about/#What_is_TotalFark) | [sign up](https://www.fark.com/totalfarksignup)
 
@@ -334,16 +334,16 @@ Also on Fark
 
 |     |     |
 | --- | --- |
-| [Main](https://www.fark.com/) | [Cold brew coffees, desserts, sauces, whipped cream, and GETTING HIGH](https://www.fark.com/goto/13401452) ( [cnn.com](https://www.fark.com/goto/13401452) ) » [(11 comments)](https://www.fark.com/comments/13401452/Cold-brew-coffees-desserts-sauces-whipped-cream-GETTING-HIGH) |
-| [Discussion](https://www.fark.com/discussion/) | [The Pirates and Reds get things started for Saturday baseball at 1:10 PM ET, and the action goes all day ending with the Rockies and Dodgers at 9:10 PM. How will your team do as the fall equinox approaches?](https://www.fark.com/goto/13401270) ( [espn.com](https://www.fark.com/goto/13401270) ) » [(6 comments)](https://www.fark.com/comments/13401270/The-Pirates-Reds-get-things-started-for-Saturday-baseball-at-110-PM-ET-the-action-goes-all-day-ending-with-Rockies-Dodgers-at-910-PM-How-will-your-team-do-as-fall-equinox-approaches) |
-| [Sports](https://www.fark.com/sports/) | [Ohtani creates the 52/52 club as he sets a record for most games in a season hitting both a home run and stealing a base](https://www.fark.com/goto/13401530) ( [espn.com](https://www.fark.com/goto/13401530) ) » [(3 comments)](https://www.fark.com/comments/13401530/Ohtani-creates-5252-club-as-he-sets-a-record-for-most-games-in-a-season-hitting-both-a-home-run-stealing-a-base) |
-| [Business](https://www.fark.com/business/) | [Some day, decades from now, people are to wonder why there are so many 99 unit buildings in NYC](https://www.fark.com/goto/13401456) ( [therealdeal.com](https://www.fark.com/goto/13401456) ) » [(2 comments)](https://www.fark.com/comments/13401456/Some-day-decades-from-now-people-are-to-wonder-why-there-are-so-many-99-unit-buildings-in-NYC) |
-| [STEM](https://www.fark.com/stem/) | [Scientists in India have genetically engineered bacteria capable of performing mathematical operations. What could possibly go wrong?](https://www.fark.com/goto/13401434) ( [businessinsider.in](https://www.fark.com/goto/13401434) ) » [(10 comments)](https://www.fark.com/comments/13401434/Scientists-in-India-have-genetically-engineered-bacteria-capable-of-performing-mathematical-operations-What-could-possibly-go-wrong) |
-| [Entertainment](https://www.fark.com/entertainment/) | [The voice of the Daleks has been EX-TER-MI-NATED](https://www.fark.com/goto/13401442) ( [deadline.com](https://www.fark.com/goto/13401442) ) » [(5 comments)](https://www.fark.com/comments/13401442/The-voice-of-Daleks-has-been-EX-TER-MI-NATED) |
-| [Fandom](https://www.fark.com/fandom/) | [Wacky Races: one of the best of the endless progression of AI fake movie trailers. This one is actually pretty cool](https://www.fark.com/goto/13401414) ( [youtube.com](https://www.fark.com/goto/13401414) ) » [(31 comments)](https://www.fark.com/comments/13401414/Wacky-Races-one-of-best-of-endless-progression-of-AI-fake-movie-trailers-This-one-is-actually-pretty-cool) |
-| [D'awww](https://www.fark.com/dawww/) | [Ungrateful owl freed after getting trapped in soccer net. Superb](https://www.fark.com/goto/13401410) ( [dailyrecord.com](https://www.fark.com/goto/13401410) ) » [(1 comment)](https://www.fark.com/comments/13401410/Ungrateful-owl-freed-after-getting-trapped-in-soccer-net-Superb) |
-| [Food](https://www.fark.com/food/) | [McDonald's Canada is still down with the wrap, unveils three new breakfast varieties to complement the breakfast burrito](https://www.fark.com/goto/13401320) ( [brandeating.com](https://www.fark.com/goto/13401320) ) » [(10 comments)](https://www.fark.com/comments/13401320/McDonalds-Canada-is-still-down-with-wrap-unveils-three-new-breakfast-varieties-to-complement-breakfast-burrito) |
-| [Politics](https://www.fark.com/politics/) | [PBA is concerned that NY State Troopers may be hesitant to pepper spray an entire family and then preform a PIT maneuver at high speed, against department guidelines just because one little kid died](https://www.fark.com/goto/13401458) ( [lawandcrime.com](https://www.fark.com/goto/13401458) ) » [(12 comments)](https://www.fark.com/comments/13401458/PBA-is-concerned-that-NY-State-Troopers-may-be-hesitant-to-pepper-spray-an-entire-family-then-preform-a-PIT-maneuver-at-high-speed-against-department-guidelines-just-because-one-little-kid-died) |
+| [Main](https://www.fark.com/) | [Photoshop this new look in fashion](https://www.fark.com/goto/13401004) ( [usatoday.com](https://www.fark.com/goto/13401004) ) » [(10 comments)](https://www.fark.com/comments/13401004/Photoshop-this-new-look-in-fashion) |
+| [Discussion](https://www.fark.com/discussion/) | [Best chili crisp?](https://www.fark.com/goto/13401864) ( [en.wikipedia.org](https://www.fark.com/goto/13401864) ) » [(5 comments)](https://www.fark.com/comments/13401864/Best-chili-crisp) |
+| [Sports](https://www.fark.com/sports/) | [Your stadium is now property of Antifa. Rare politics/sports crossover](https://www.fark.com/goto/13401658) ( [dailymail.co.uk](https://www.fark.com/goto/13401658) ) » [(3 comments)](https://www.fark.com/comments/13401658/Your-stadium-is-now-property-of-Antifa-Rare-politicssports-crossover) |
+| [Business](https://www.fark.com/business/) | [Swiss, Swedes, Hungarians and Czechs all plan interest rate cuts so that Trump can complain about election interference](https://www.fark.com/goto/13401862) ( [finance.yahoo.com](https://www.fark.com/goto/13401862) ) » [(2 comments)](https://www.fark.com/comments/13401862/Swiss-Swedes-Hungarians-Czechs-all-plan-interest-rate-cuts-so-that-Trump-can-complain-about-election-interference) |
+| [STEM](https://www.fark.com/stem/) | [Doesn't matter, had sex](https://www.fark.com/goto/13401696) ( [livescience.com](https://www.fark.com/goto/13401696) ) » [(8 comments)](https://www.fark.com/comments/13401696/Doesnt-matter-had-sex) |
+| [Entertainment](https://www.fark.com/entertainment/) | [Diddy laid it all out in a Conan interview 22 years ago. Conan: "That just sounds disgusting"](https://www.fark.com/goto/13401850) ( [dailymail.co.uk](https://www.fark.com/goto/13401850) ) » [(8 comments)](https://www.fark.com/comments/13401850/Diddy-laid-it-all-out-in-a-Conan-interview-22-years-ago-Conan-That-just-sounds-disgusting) |
+| [Fandom](https://www.fark.com/fandom/) | [Finally, a new Rayman game is announced](https://www.fark.com/goto/13401738) ( [ign.com](https://www.fark.com/goto/13401738) ) » [(1 comment)](https://www.fark.com/comments/13401738/Finally-a-new-Rayman-game-is-announced) |
+| [D'awww](https://www.fark.com/dawww/) | [(In Schwarzenegger voice). Dis' is a Cyberdog](https://www.fark.com/goto/13401728) ( [youtube.com](https://www.fark.com/goto/13401728) ) » [(2 comments)](https://www.fark.com/comments/13401728/In-Schwarzenegger-voice-Dis-is-a-Cyberdog) |
+| [Food](https://www.fark.com/food/) | [Best chili crisp?](https://www.fark.com/goto/13401864) ( [en.wikipedia.org](https://www.fark.com/goto/13401864) ) » [(5 comments)](https://www.fark.com/comments/13401864/Best-chili-crisp) |
+| [Politics](https://www.fark.com/politics/) | [Guess which Presidential candidate was absent from Montana's absentee voting system](https://www.fark.com/goto/13401832) ( [dailyinterlake.com](https://www.fark.com/goto/13401832) ) » [(25 comments)](https://www.fark.com/comments/13401832/Guess-which-Presidential-candidate-was-absent-from-Montanas-absentee-voting-system) |
 
 * Fark :: [Main](https://www.fark.com/) | [Discussion](https://www.fark.com/discussion/) | [Sports](https://www.fark.com/sports/) | [Business](https://www.fark.com/business/) | [STEM](https://www.fark.com/stem/) | [Entertainment](https://www.fark.com/entertainment/) | [Fandom](https://www.fark.com/fandom/) | [D'awww](https://www.fark.com/dawww/) | [Food](https://www.fark.com/food/) | [Politics](https://www.fark.com/politics/)
 * Total Fark :: [TotalFark](https://total.fark.com/) | [TF Live](https://total.fark.com/live/) | [TF Advice](https://total.fark.com/advice/) | [TF Discussion](https://total.fark.com/tfdiscussion/) | [Commented](https://total.fark.com/commented/) | [Top Voted](https://total.fark.com/linkvote/) | [Greenlit](https://total.fark.com/greenlit/)
@@ -353,7 +353,7 @@ Also on Fark
 
 [Submit a Link »](https://www.fark.com/submit/)
 
-Copyright © 1999 - 2024 Fark, Inc | Last updated: Sep 21 2024 14:43:01  
+Copyright © 1999 - 2024 Fark, Inc | Last updated: Sep 21 2024 20:43:24  
 [Contact Us via Farkback](https://www.fark.com/farkback)  |  [Report a bug/error msg](https://www.fark.com/farkback/error)  |  [Terms of service/legal/privacy policy](https://www.fark.com/farq/legal)  |  [Do Not Sell or Share My Personal Information](javascript:void(0))  
 ![](https://www.fark.com/ll)
 
