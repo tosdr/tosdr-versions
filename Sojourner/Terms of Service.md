@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-7cf5fdf6e242eeaddf97862c35636bcb
+7a896e35842620566176999d665dce25
 
 [](# "Expand for more options")[](# "Search")
 
@@ -142,11 +142,11 @@ Terms and Conditions
 
 ### Featured Product
 
-[![Small ametrine flat ovals](https://sojourner.biz/images/cache/amethyst/YST020.200.jpg)](https://sojourner.biz/beads/stone-a-l/amethyst/small-ametrine-flat-ovals.html "Small ametrine flat ovals")
+[![20 mm by 10 mm Czech glass teardrops](https://sojourner.biz/images/cache/glass/GL0308ten.200.jpg)](https://sojourner.biz/beads/glass/20-mm-by-10-mm-czech-glass-teardrops.html "20 mm by 10 mm Czech glass teardrops")
 
-#### [Small ametrine flat ovals](https://sojourner.biz/beads/stone-a-l/amethyst/small-ametrine-flat-ovals.html "Small ametrine flat ovals")
+#### [20 mm by 10 mm Czech glass teardrops](https://sojourner.biz/beads/glass/20-mm-by-10-mm-czech-glass-teardrops.html "20 mm by 10 mm Czech glass teardrops")
 
-$12.00
+$5.00
 
 ### Best Sellers
 
