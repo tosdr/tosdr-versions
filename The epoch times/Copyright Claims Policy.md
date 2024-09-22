@@ -158,76 +158,76 @@ Please note that under Section 512(f) of the DMCA, any person who knowingly mate
 
 TOP NEWS
 
+* [Significant Events on Road to Election and Beyond](https://www.theepochtimes.com/article/significant-events-on-road-to-election-and-beyond-5728016)
+    
+    NEW By [Stacy Robinson](https://www.theepochtimes.com/author/stacy-robinson)
+    
+    [![Significant Events on Road to Election and Beyond](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Significant Events on Road to Election and Beyond](https://img.theepochtimes.com/assets/uploads/2024/09/21/id5728079-map-to-election-205x123.jpg.webp)](https://www.theepochtimes.com/article/significant-events-on-road-to-election-and-beyond-5728016)
 * [Quad Leaders Unveil Maritime Security, Supply Chain Initiatives at Delaware Summit](https://www.theepochtimes.com/world/quad-leaders-unveil-maritime-security-supply-chain-initiatives-at-delaware-summit-5727933)
     
-    1hr By [Ryan Morgan](https://www.theepochtimes.com/author/ryan-morgan)
+    7hr By [Ryan Morgan](https://www.theepochtimes.com/author/ryan-morgan)
     
     [![Quad Leaders Unveil Maritime Security, Supply Chain Initiatives at Delaware Summit](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Quad Leaders Unveil Maritime Security, Supply Chain Initiatives at Delaware Summit](https://img.theepochtimes.com/assets/uploads/2024/09/21/id5728029-GettyImages-2172751017-OP-205x123.jpg.webp)](https://www.theepochtimes.com/world/quad-leaders-unveil-maritime-security-supply-chain-initiatives-at-delaware-summit-5727933)
 * [Americans Urged to Leave Lebanon as Israel, Hezbollah Trade Fire](https://www.theepochtimes.com/us/americans-urged-to-leave-lebanon-as-israel-hezbollah-trade-fire-5728046)
     
-    3hr By [Bill Pan](https://www.theepochtimes.com/author/gq-pan)
+    9hr By [Bill Pan](https://www.theepochtimes.com/author/gq-pan)
     
     [![Americans Urged to Leave Lebanon as Israel, Hezbollah Trade Fire](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Americans Urged to Leave Lebanon as Israel, Hezbollah Trade Fire](https://img.theepochtimes.com/assets/uploads/2024/07/29/id5696121-beirut-airport-205x123.jpg.webp)](https://www.theepochtimes.com/us/americans-urged-to-leave-lebanon-as-israel-hezbollah-trade-fire-5728046)
 * [Appeals Court Revives Lawsuits Challenging Michigan Law on Sexual Orientation, Gender Identity](https://www.theepochtimes.com/us/appeals-court-revives-lawsuits-challenging-michigan-law-on-sexual-orientation-gender-identity-5727981)
     
-    6hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
+    12hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
     
     [![Appeals Court Revives Lawsuits Challenging Michigan Law on Sexual Orientation, Gender Identity](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Appeals Court Revives Lawsuits Challenging Michigan Law on Sexual Orientation, Gender Identity](https://img.theepochtimes.com/assets/uploads/2024/08/29/id5714980-Michigan-City_JF_08282024-205x123.jpg.webp)](https://www.theepochtimes.com/us/appeals-court-revives-lawsuits-challenging-michigan-law-on-sexual-orientation-gender-identity-5727981)
 * [Two Gold Winners Awarded at NTD 9th International Chinese Vocal Competition](https://www.theepochtimes.com/bright/two-gold-winners-awarded-at-9th-ntd-vocal-competition-5727810)
     
-    8hr By [Catherine Yang](https://www.theepochtimes.com/author/catherine-yang), Epoch Times
+    14hr By [Catherine Yang](https://www.theepochtimes.com/author/catherine-yang), Epoch Times
     
     [![Two Gold Winners Awarded at NTD 9th International Chinese Vocal Competition](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Two Gold Winners Awarded at NTD 9th International Chinese Vocal Competition](https://img.theepochtimes.com/assets/uploads/2024/09/21/id5728002-LDB8723-205x123.jpg.webp)](https://www.theepochtimes.com/bright/two-gold-winners-awarded-at-9th-ntd-vocal-competition-5727810)
 * [Zelenskyy Says Ukraine ‘Victory Plan’ Includes Deep Strikes Into Russia With Western Missiles](https://www.theepochtimes.com/world/zelenskyy-says-ukraine-victory-plan-includes-deep-strikes-into-russia-with-western-missiles-5727949)
     
-    9hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
+    15hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
     
     [![Zelenskyy Says Ukraine ‘Victory Plan’ Includes Deep Strikes Into Russia With Western Missiles](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Zelenskyy Says Ukraine ‘Victory Plan’ Includes Deep Strikes Into Russia With Western Missiles](https://img.theepochtimes.com/assets/uploads/2024/09/03/id5717443-07102024-DSC08356-Zelenskyy-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/world/zelenskyy-says-ukraine-victory-plan-includes-deep-strikes-into-russia-with-western-missiles-5727949)
 * [Trump Declines Second Debate on CNN After Harris Agrees, Says It’s Too Late](https://www.theepochtimes.com/us/harris-accepts-invitation-from-cnn-for-second-debate-against-trump-5727971)
     
-    10hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
+    16hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
     
     [![Trump Declines Second Debate on CNN After Harris Agrees, Says It’s Too Late](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Trump Declines Second Debate on CNN After Harris Agrees, Says It’s Too Late](https://img.theepochtimes.com/assets/uploads/2024/08/08/id5702453-HarrisTrump-Enhanced-SR-OP-205x123.jpg.webp)](https://www.theepochtimes.com/us/harris-accepts-invitation-from-cnn-for-second-debate-against-trump-5727971)
 * [NTD 9th International Chinese Vocal Competition Finals and Awards Ceremony](https://www.theepochtimes.com/epochtv/ntd-9th-international-chinese-vocal-competition-finals-5719869)
     
-    11hr By [Epoch Video](https://www.theepochtimes.com/author/epoch-video)
+    17hr By [Epoch Video](https://www.theepochtimes.com/author/epoch-video)
     
     [![NTD 9th International Chinese Vocal Competition Finals and Awards Ceremony](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![NTD 9th International Chinese Vocal Competition Finals and Awards Ceremony](https://img.theepochtimes.com/assets/uploads/2024/09/13/id5723860-2024-NTD-Vocal-Competition-1920x1080-1-205x123.jpg.webp)](https://www.theepochtimes.com/epochtv/ntd-9th-international-chinese-vocal-competition-finals-5719869)
 * [US Soldier Who Crossed Into North Korea Will Return Home After Entering Guilty Plea](https://www.theepochtimes.com/us/us-soldier-who-crossed-into-north-korea-will-return-home-after-entering-guilty-plea-5727921)
     
-    11hr By [Aldgra Fredly](https://www.theepochtimes.com/author/aldgra-fredly)
+    17hr By [Aldgra Fredly](https://www.theepochtimes.com/author/aldgra-fredly)
     
     [![US Soldier Who Crossed Into North Korea Will Return Home After Entering Guilty Plea](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![US Soldier Who Crossed Into North Korea Will Return Home After Entering Guilty Plea](https://img.theepochtimes.com/assets/uploads/2024/08/27/id5713645-AP24239764509250-205x123.jpg.webp)](https://www.theepochtimes.com/us/us-soldier-who-crossed-into-north-korea-will-return-home-after-entering-guilty-plea-5727921)
 * [Blackstone Agrees to Sell Motel 6 to India-Based Hotel Company for $525 Million](https://www.theepochtimes.com/business/blackstone-agrees-to-sell-motel-6-to-india-based-hotel-company-for-525-million-5727862)
     
-    11hr By [Aldgra Fredly](https://www.theepochtimes.com/author/aldgra-fredly)
+    17hr By [Aldgra Fredly](https://www.theepochtimes.com/author/aldgra-fredly)
     
     [![Blackstone Agrees to Sell Motel 6 to India-Based Hotel Company for $525 Million](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Blackstone Agrees to Sell Motel 6 to India-Based Hotel Company for $525 Million](https://img.theepochtimes.com/assets/uploads/2024/09/21/id5727984-2019-04-05T013645Z_2_LYNXNPEF3325X_RTROPTP_4_BLACKSTONE-MOTEL6-IMMIGRATION-SETTLEMENT-OP-205x123.jpg.webp)](https://www.theepochtimes.com/business/blackstone-agrees-to-sell-motel-6-to-india-based-hotel-company-for-525-million-5727862)
-* [US Navy Directed to Prepare for War With China by 2027](https://www.theepochtimes.com/china/us-navy-directed-to-prepare-for-war-with-china-by-2027-post-5727144)
-    
-    12hr By [Andrew Thornebrooke](https://www.theepochtimes.com/author/andrew-thornebrooke)
-    
-    [![US Navy Directed to Prepare for War With China by 2027](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![US Navy Directed to Prepare for War With China by 2027](https://img.theepochtimes.com/assets/uploads/2024/09/21/id5727982-US_Osprey_Crash_24201442113400-OP-205x123.jpg.webp)](https://www.theepochtimes.com/china/us-navy-directed-to-prepare-for-war-with-china-by-2027-post-5727144)
 
 [![The Epoch Times](https://www.theepochtimes.com/assets/themes/eet/images/logo_eet.svg)](https://www.theepochtimes.com/)
 
