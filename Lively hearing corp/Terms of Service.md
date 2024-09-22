@@ -20,6 +20,8 @@ Save $200 on the Enhance Select 500! [Shop now](https://www.listenlively.com/pro
 
 [](https://www.listenlively.com/survey)
 
+![NCOA](/_next/static/media/ncoa-adviser-logo.d5975983.svg)
+
 Previous
 
 ![Sale Banner Foreground Image](https://cdn.jabraenhance.com/cdn-cgi/image/width=3840,quality=80,format=auto/web/sales/fall-24-sale-foreground-desktop.png)
@@ -69,9 +71,13 @@ With our advanced hearing aids and recommended expert care, you'll be hearing be
 
 **Shop now**](https://www.listenlively.com/product)
 
-“Best if you're new to hearing aids”
+“Best Hearing Aids of 2024 Editor's Pick”
+
+![NCOA](/_next/static/media/ncoa-adviser-logo.d5975983.svg)
 
 Next
+
+![NCOA](/_next/static/media/ncoa-adviser-logo.d5975983.svg)
 
 What you get with Jabra Enhance Select
 --------------------------------------
@@ -212,21 +218,6 @@ Next
 * Advanced acoustics
 
 [Shop now](https://www.listenlively.com/product/enhanceselect500)
-
-Get personalized care with our Premium Package
-----------------------------------------------
-
-### Programmed for you
-
-Hearing aids custom-programmed to your unique hearing needs based on your online test results or audiogram.
-
-### Care from your couch
-
-Video chat with a licensed hearing specialist about your hearing and hearing aids, as often as needed.
-
-### Adjustments made by experts
-
-If you're having an issue, our Audiology Team will tweak your hearing aids via the app, from anywhere.
 
 The reviews are in
 ------------------
