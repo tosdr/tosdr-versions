@@ -31,15 +31,388 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
-Venezuela será un ‘gran foco de atención’ en la Asamblea General de la ONU, según Machado
-=========================================================================================
+Cartas a Quito / 22 de septiembre de 2024
+=========================================
 
-La opositora venezolana María Corina Machado afirmó que la crisis poselectoral de Venezuela será un "gran foco" de atención durante la próxima Asamblea General de la ONU en Nueva York.
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Estas son las cartas a Quito de este domingo 22 de septiembre de 2024
+---------------------------------------------------------------------
+
+![Cartas a Quito. Foto: Archivo / EL COMERCIO](https://www.elcomercio.com/wp-content/uploads/2024/04/CARTAS-A-QUITO-1.jpg)
+
+Entre el deporte y la política
+------------------------------
+
+Si bien es cierto, los ecuatorianos somos muy noveleros,  los triunfos obtenidos tanto en el futbol como en las otras disciplinas deportivas, al tiempo que nos llenan de orgullo, nos distraen, aletargan y obnubilan al punto que pasamos por alto todos los entuertos de nuestra abominable política que, desde luego, son muy bien aprovechados por sus mágicos y honrados  protagonistas de  “manos limpias” y “corazones ardientes”.
+
+Los miles y millones de dólares desaparecen como por encanto y sus millonarios  propietarios, día a día, se suman a la lista de  víctimas y “perseguidos políticos” y, en algunos casos,  buscan asilo  donde se convierten en protegidos por gente que comulga con sus ideas y pertenece a  sus mismos bandos políticos. Otros se pavonean orondos y descomplicados por el Ecuador y el mundo;  los jueces, por diversas razones,  se ven imposibilitados de hacer justicia y la esperanza de recuperar nuestros dineros se convierten en una verdadera utopía;  mientras los ecuatorianos, tranquilos y distraídos, disfrutamos de los placeres que nos proporciona el fútbol, gritando y aplaudiendo eufóricos los goles de nuestros equipos, en vez de gritar a mansalva y a una sola voz:  ¡DEVUELVAN LO ROBADO!
+
+Bien reza el slogan: Para el pueblo pan y circo y así los mantendremos contentos y distraídos.
+
+¡Increíble!…  ¿Verdad?
+
+Fabiola Carrera A.
+
+Educación socioemocional
+------------------------
+
+La educación no solo se trata de aprender números o historia; también implica conocerse a uno mismo y entender nuestras emociones. En Ecuador, la Educación Socioemocional está tomando protagonismo, buscando formar estudiantes que puedan gestionar sus emociones y relacionarse mejor con los demás.
+
+Incorporar este enfoque en el currículo permite que los estudiantes desarrollen habilidades esenciales como la empatía, la comunicación asertiva y la resiliencia. No basta con ser buenos en matemáticas o lengua y literatura, también es crucial saber cómo enfrentar los desafíos emocionales de la vida diaria.
+
+El Ministerio de Educación de Ecuador ha reconocido la importancia de este tipo de educación, integrándola en las escuelas para formar individuos más equilibrados y con una mayor capacidad de adaptación. Aprender a controlar las emociones no solo beneficia a los estudiantes, sino también a la convivencia escolar.
+
+Por ejemplo, enseñar a un estudiante a reconocer su enojo o tristeza y gestionarlo de manera saludable reduce el acoso escolar y promueve un ambiente de respeto y colaboración. Es un paso clave para crear una sociedad más justa y solidaria.
+
+Además, la Educación Socioemocional ayuda a prevenir problemas como el estrés o la ansiedad, que afectan el bienestar de los estudiantes. Al desarrollar la autoconciencia, los jóvenes pueden enfrentar los retos con más seguridad y serenidad. Como docentes, nuestra labor es acompañar a los estudiantes en este proceso de crecimiento emocional. Debemos enseñarles no solo conocimientos académicos, sino también cómo ser mejores personas. El impacto de esta enseñanza perdurará mucho más allá de las aulas.
+
+La inserción curricular de la Educación Socioemocional es, sin duda, un gran avance en Ecuador. Con ella, estamos sembrando las bases de una generación más empática, resiliente y preparada para enfrentar los desafíos del futuro.
+
+Roberto Camana-Fiallos
+
+La culpa es de San Pedro
+========================
+
+El tema de fondo del déficit eléctrico es estructural y por ende sería de mediano y/o  largo plazo su solución.
+---------------------------------------------------------------------------------------------------------------
+
+![Gerardo Villacreces Carbo, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Gerardo-Villacreces-Carbo.jpg)
+
+_“…yo creo que estamos afrontando una **crisis de agua**, no una **crisis energética**… es la sequía más grande en 61 años…”_ palabras del **ministro** de **Gobierno** – Arturo Félix Wong, en una reciente entrevista…
+
+En realidad, la **sequía** sin duda contribuye al **déficit energético**, con mayor motivo si el esperado Niño nunca llegó, consecuentemente no se pudo reservar agua; pero, depender exclusivamente de las **lluvias** para que el país tenga **energía eléctrica**, es muy grave; tan grave, como la infortunada dependencia al **petróleo**, valga la digresión.  Es decir, hemos delegado ingenua y torpemente a la madre naturaleza nuestra **supervivencia**, sin cortar irresponsablemente el cordón umbilical con la cómoda y peligrosa dependencia.
+
+Cabe preguntarnos, ¿cómo obtienen **energía eléctrica**, aquellos países o lugares, en los que existe alto riesgo de **sequía**, como Sudáfrica, Siria, Bolivia, Australia, Jordania, entre otros, en los que llueve poco?
+
+Resulta apresurado, culpar de los **apagones** al actual gobierno (pero sí es su responsabilidad afrontarlo), ya que este es un problema que ha venido arrastrándose y atravesando el **Ecuador** por años, en las cuales, en determinados gobiernos, la **corrupción**, **irresponsabilidad** y falta de **previsión**, han generado un amargo cóctel, que ahora el país en la penumbra debe sorbo a sorbo tomar a la luz de una vela; situación agravada por la creciente demanda **eléctrica** vs la limitada oferta.
+
+Según fuentes periodísticas, el **ministro** de **Energía** y **Minas** ha indicado al país que, el gobierno ha invertido en generación eléctrica, cinco veces más, que otros gobiernos en los últimos siete años. Adicionalmente, ha manifestado que, está en proceso la adquisición de una cantidad significativa de MW; que la barcaza turca (Emre Bey) de **generación eléctrica** estaría generando 100 MV, y que en octubre se incorporaría otra; y, para diciembre, se espera que la **central hidroeléctrica** Toachi – Pilatón aporte con 200 MW, entre otras acciones. Esperemos que esto ocurra, ya que el **perjuicio económico** al país en su conjunto es enorme, a más de la afectación a la **sociedad** por la latente **inseguridad**; y, fuera por supuesto, del alto costo que implica la adquisición de **energía** de **emergencia**.
+
+No está por demás reflexionar en el sentido de que, existen en el **mundo**, varias **alternativas** como fuente de **energía eléctrica**, como la **eólica**, la **eólica marina**, la **geotérmica** y la **solar fotovoltaica**, principalmente. Un caso interesante es el de la India, que aproximadamente el 75% de su producción de **energía eléctrica**, se generaría mediante **centrales térmicas** de carbón.
+
+Para el caso **ecuatoriano**, adicionalmente a las **acciones** mencionadas por el ministro, debe sumarse el necesario sentido de austeridad en el consumo, tanto del **sector privado** (debemos arrimar el hombro) y, sobre todo del público ¿cuántas **dependencias** y edificios del Estado trabajan de día con las luces prendidas e, incluso, permanecen encendidos en las noches y madrugadas? Adicionalmente, el estímulo y desarrollo de **fuentes** alternativas de **energía**, tanto publicas como privadas, con una ley que realmente facilite aquello, así como el impulso de **alianzas** público-privadas (en las que el proponente no pueda ser echado a un lado), se vuelve indispensable.  Otra modalidad práctica y válida, es el **bombardeo** de **nubes** focalizado, actividad que no es nueva en el **país**,  ya que  en los 70s, se utilizó bajo el **liderazgo** y **responsabilidad** del  Alberto Villacreces G. (mi abuelo), quien lo desarrolló y  realizó  – con la **tecnología** de la época – internándose en avioneta en las **nubes** para depositar en ellas **hielo** seco, aserrín, etc., obteniendo **éxito** en muchos casos y, contribuyendo así, con el desarrollo de Manabí y de manera particular  con el **sector agrícola**.
+
+En realidad, el tema de fondo del **déficit eléctrico** es **estructural** y por ende sería de mediano y/o  largo plazo su solución, problema que se originaría  en el **monopolio** estatal en la **generación**, **transmisión** y distribución de **energía eléctrica**, cuando esto debería ser delegado, por lo menos parcialmente, al **sector privado**, o si no, ¿preguntémonos por qué sí funcionan las **telecomunicaciones** en el país? La respuesta es clara, porque las mismas, en parte, están en manos del **sector privado**. Adicionalmente, no sería menos cierto que, el **sistema** como tal también presenta un serio **problema económico**, ya que, según entendidos, el valor del **kilovatio** hora se lo entregaría subsidiado, es decir, el valor de **generación** y/o compra por parte del **Estado** sería  mayor al precio de venta al **consumidor**, consecuentemente cortar inteligentemente y de manera focalizada ese desfase, mediante el sinceramiento de los **precios** tendría mucho sentido, a efectos de utilizar dichos **recursos** para reparar y/o ampliar los **sistemas** de **generación**, **transmisión** y **distribución**, sin perjuicio del desarrollo de  otras modalidades.
+
+En buena hora, al momento de terminar de escribir esta columna, estaría lloviendo en el sur del país, esperemos suba la cota de **Mazar** que estaría casi al límite en 2.120 msnv; sin embargo, suponer y depender de la divinidad para que no haya **oscuridad** es una barbaridad que raya en la irresponsabilidad, un grave error; y, en ese orden de **ideas**, y aunque sea también un error enfocarse en los culpables y no en las soluciones, está claro en realidad que, la culpa no es de **San Pedro** – con todo respeto – señor **ministro** de **Gobierno**.
+
+Turismo heroico
+===============
+
+Los seguidores de estos líderes, tanto en la ficción como en la realidad, justifican sus errores, incluso cuando afectan gravemente al país, como en la guerra interna que atraviesa Ecuador.
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+![Guido Calderón, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Guido-Calderon-1.jpg)
+
+El camino del **héroe** es un concepto que funciona muy bien en **películas** donde el protagonista es un don nadie que, empujado por los **hechos**, en su mayoría violentos, va asumiendo su rol protagónico y se convierte en un héroe, normalmente respaldado por **profecías sagradas** que indican, cuáles serán las señales que harán saber a la oprimida **población**, quién y cómo es el elegido.
+
+En la última versión de “**Dune**” la **atracción** de la **historia** están en que el supuesto **héroe**, se niega a asumir ese rol y acusa a la **secta religiosa** de su madre, el haber diseminado con siglos de anticipación, la **leyenda** del supuesto elegido, entre el populacho pobre e ignorante. Esa **escena** me recuerda cuando hace décadas en mi **universidad,** contaban **gestas gloriosas** del socialismo en **China** y en Cuba y de lo maravilloso que será en **Ecuador**, cuando está **mágica ideología** que elimina las desigualdades y privilegios, llegué a gobernar el Ecuador, como en efecto pasó y ahora estamos en una **guerra interna**.
+
+En la **película,** finalmente el protagonista asume su liderazgo, pero a diferencia de otras historias donde el **héroe** lucha por la paz y la convivencia, este convoca a una **guerra santa** y manda a asesinar a todos quienes no están de acuerdo con su **mandato** sin importarle que se destruyan **civilizaciones** enteras. Lo que también me recuerda a los miles de personas que fueron perseguidas por la santa inquisición del **socialismo** del siglo XXI y las **semillas de guerra** que esparcieron en todo el **territorio**.
+
+En la **película**, obviamente sus seguidores toman a bien todos los despropósitos del **héroe** y no aceptan nada de quienes duden de su **profética personalidad**. Muy parecido a los **revolucionarios** que no admiten que su mesiánico **líder**, haya cometido error alguno y toleran **mensajes públicos** de barcos de guerra bloqueando el **Golfo** de **Guayaquil** o de bombas e **incendios** en edificios y hoteles, sin importar que eso signifique una **demolición** del **turismo** de Ecuador que motivó a emitir comunicados sobre la supuesta “seguridad” de nuestra planta hotelera.
+
+La siguiente parte de “**Dune**” está en **filmación** y como es de prever, la **violencia** viene a gran escala y el héroe se convertirá en un **personaje** más oscuro y sin **remordimientos**. Algún parecido con algún **político** exiliado, es mera coincidencia. Claro que, de volver su secta al poder, las **consecuencia**s para el Ecuador serán **catastróficas** y el único lenguaje que prevalecerá será el de las armas, que ya hay demasiadas en manos de **criminales** que han encontrado los **mecanismos** para filtrarse en el **sector público** a través del financiamiento de los **partidos** y **movimientos políticos**; o coimando a **funcionarios** que pagan por los puestos donde circulan **contratos**, se evaden **fiscalizaciones** o los contralores desvanecen glosas por miles de millones.
+
+Netflix tiene un destello en su catálogo: ‘Rebel Ridge’
+=======================================================
+
+'Rebel Ridge' explora la lucha del individuo contra el sistema, con un guion técnico y un enfoque en la corrupción y el racismo en la policía.
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+![La película 'Rebel Ridge' es protagonizada por Aaron Pierre.](https://www.elcomercio.com/wp-content/uploads/2024/09/Rebel-Ridge-pelicula-Netflix.jpg)
+
+‘**Rebel Ridge’** es otro destello de esperanza en el [catálogo de **Netflix**](https://www.netflix.com/us-es/title/81157729). La película es dirigida por **Jeremy Saulnier**, quien en 2015 empezó a ganar atención con ‘[Green Room](https://www.imdb.com/title/tt4062536/)‘.
+
+‘**Rebel Ridge’ y ‘Cómplices del engaño’** se presentan como la alternativa, frente a la nueva tendencia del gigante del _streaming_, que sigue optando por películas con presupuestos gigantescos que parecen más comerciales para la marca de la celebridad del momento.
+
+La historia de ‘Rebel Ridge’
+----------------------------
+
+**‘Rebel Ridge’** cuenta la historia de un antiguo marine, a quien injustamente le quitan una bolsa con dinero que planeaba usar para pagar la fianza de su primo. Esto lo lleva a enfrentarse con la corrupción de un pueblo pequeño, específicamente con las autoridades policiales.
+
+Saulnier toma inspiración en [‘**Rambo: Primera Sangre’**](https://es.wikipedia.org/wiki/First_Blood)**.** Aaron Pierre es Terry Richmond, protagonista y héroe de acción que, a diferencia de **Rambo**, elige no liquidar a sus adversarios. Precisamente, debido a dicha postura, Saulnier puede elevar la tensión durante las escenas de acción.
+
+Aaron Pierre es el dueño de la mirada más profunda de este año. El actor inglés aprovecha al máximo el material, su presencia es imponente y va acompañada de un carisma que le permite brillar en momentos cómicos.
+
+Un filme que prioriza el diálogo
+--------------------------------
+
+Durante el primer acto de la película, Pierre se muestra estoico y distante. El actor evoca a aquellos protagonistas de wésterns que llegan a un pueblo y lo salvan, inclusive cuando no quieren verse involucrados. Según progresa la historia, Pierre revela más a su personaje y exuda un carácter imponente con una postura calculadora.
+
+Ahora, **‘Rebel Ridge’** tiene sus problemas. Los más obvios son un resultado de las tendencias del cine digital, como la falta de luz en las escenas más oscuras, en ocasiones, al dejar el fotograma completamente oscuro.
+
+Su problema más evidente es, curiosamente, también su mayor fortaleza. Su guion prioriza un diálogo técnico que constantemente menciona **aspectos legales**, a veces de manera minuciosa. Por un lado, esto ayuda a la metanarrativa y al mensaje final del filme; por el otro, en ocasiones, el diálogo es tan técnico que sus personajes dejan de sentirse como personas reales.
+
+Saulnier, sin embargo, consigue hacer un comentario sobre el **abuso de poder**. En particular, pone en pantalla muchos de los aspectos que evidencian el problema sistemático del racismo en la policía.
+
+Sus villanos no son caricaturas, son agentes del orden que explotan las fallas del sistema por beneficio personal. Disfrazan sus acciones con pequeños aportes a la misma comunidad a la que están oprimiendo.
+
+Acertadamente, Saulnier evita el típico final del cine de acción. Después de todo, **‘Rebel Ridge’** no es una fantasía de poder en la que el héroe mata a los malos y triunfa; sino que nos presenta una reflexión sobre la lucha del individuo contra el sistema y lo interminable de esta.
+
+### Más noticias:
+
+* [‘La Sustancia’ y el retorno del horror corporal](https://www.elcomercio.com/tendencias/cine/la-sustancia-y-el-retorno-del-horror-corporal.html)
+* [‘Tipos de gentileza’ tiene tres historias distintas y un mismo elenco](https://www.elcomercio.com/afull/cine-y-series/tipos-gentileza-cines-critica.html)
+* [Seis películas con sorprendentes finales abiertos y su análisis](https://www.elcomercio.com/tendencias/cine/peliculas-cine-analisis-final-abierto.html)
+
+‘Rebel Ridge’
+-------------
+
+**Director:** [Jeremy Saulnier](https://en.wikipedia.org/wiki/Coralie_Fargeat)
+
+**Reparto:** [Aaron Pierre](https://es.wikipedia.org/wiki/Aaron_Pierre), [Don Johnson](https://es.wikipedia.org/wiki/Don_Johnson), [AnnaSophia Robb](https://es.wikipedia.org/wiki/AnnaSophia_Robb)…
+
+**Año:** 2024
+
+**Plataforma:** Netflix
+
+**Calificación:** Muy buena
+
+Ecuador debe elegir parlamentarios andinos, ¿cuál es su rol y sus trabas?
+=========================================================================
+
+Los candidatos a parlamentarios andinos estarán en las papeletas para las elecciones 2025.
+------------------------------------------------------------------------------------------
+
+![En febrero de 2025, los ecuatorianos volverán a las urnas.](https://www.elcomercio.com/wp-content/uploads/2024/09/parlamentarios.jpg)
+
+Ecuador camina a las **elecciones 2025**. A la definición de los titulares del Ejecutivo y el Legislativo, se suma la de **parlamentarios andinos**[.](https://es.wikipedia.org/wiki/Ecuador)
+
+Al igual que las autoridades del país, los cinco representantes en el **Parlamento Andino** tienen funciones definidas. La inscripción de los candidatos empezó el 13 de septiembre y se extenderá hasta las 18:00 del miércoles 2 de octubre de 2024.
+
+### Más noticias
+
+* [Inscripción de candidatos a elecciones 2025 es en línea, ¿por qué van al CNE?](https://www.elcomercio.com/actualidad/politica/inscripcion-candidatos-elecciones-2025-en-linea-cne.html)
+* [La inscripción para elecciones 2025 empieza con incumplimientos](https://www.elcomercio.com/actualidad/politica/inscripcion-elecciones-2025-impedimentos-brechas.html "La inscripción para elecciones 2025 empieza con incumplimientos")
+* [CNE aprobó la convocatoria para las elecciones 2025](https://www.elcomercio.com/actualidad/politica/cne-aprobo-convocatoria-elecciones-2025.html "CNE aprobó la convocatoria para las elecciones 2025")
+* [¿Cuándo estarán en firme las candidaturas para las elecciones de 2025?](https://www.elcomercio.com/actualidad/politica/cuando-estaran-en-firme-las-candidaturas-para-elecciones-2025.html "¿Cuándo estarán en firme las candidaturas para las elecciones de 2025?")
+
+> [#MesDeLaDemocracia](https://twitter.com/hashtag/MesDeLaDemocracia?src=hash&ref_src=twsrc%5Etfw) 🗳️  
+>   
+> En el marco de la conmemoración del [#DíaInternacionalDeLaDemocracia](https://twitter.com/hashtag/D%C3%ADaInternacionalDeLaDemocracia?src=hash&ref_src=twsrc%5Etfw), destacamos los esfuerzos de la Función Electoral por garantizar el derecho de participación de las personas con discapacidad y adultos mayores, a través de mecanismos de acceso al voto.⤵️ [pic.twitter.com/jsDIKHdT52](https://t.co/jsDIKHdT52)
+> 
+> — cnegobec (@cnegobec) [September 20, 2024](https://twitter.com/cnegobec/status/1837234142578115070?ref_src=twsrc%5Etfw)
+
+Parlamentarios andinos y las elecciones 2025
+--------------------------------------------
+
+El proceso de inscripciones avanza de forma lenta. Hasta el cierre de este reportaje, el **[Consejo Nacional Electoral (CNE)](https://www.cne.gob.ec/)** indicó que solo se inscribieron dos listas.
+
+Esas fueron los postulantes para asambleístas provinciales de Orellana, de la **Alianza de la Renovación** (listas 6-4-16) y de Sucumbíos por el **Movimiento Pueblo, Igualdad y Democracia** (PID).
+
+Es decir, aún no se registraron binomios presidenciales, aspirantes asambleístas nacionales ni **parlamentarios andinos**.
+
+Las inscripciones se realizan de forma virtual, a través de a través del sistema informático del **CNE**, cuyo acceso es exclusivo para las organizaciones políticas habilitadas para las **elecciones 2025**.
+
+> ATENCIÓN 🔴  
+>   
+> La [#InscripcíónCandidaturasEc](https://twitter.com/hashtag/Inscripc%C3%AD%C3%B3nCandidaturasEc?src=hash&ref_src=twsrc%5Etfw) es un proceso que las organizaciones políticas deben cumplir únicamente en línea 💻 a través del sistema habilitado por el [#CNE](https://twitter.com/hashtag/CNE?src=hash&ref_src=twsrc%5Etfw).  
+>   
+> ➡️ Consulta la normativa y cronograma de las [#Elecciones2025Ec](https://twitter.com/hashtag/Elecciones2025Ec?src=hash&ref_src=twsrc%5Etfw) 🇪🇨🗳️ ingresando a: [https://t.co/7jydYZoM65](https://t.co/7jydYZoM65) [pic.twitter.com/bOQU1zElUq](https://t.co/bOQU1zElUq)
+> 
+> — cnegobec (@cnegobec) [September 19, 2024](https://twitter.com/cnegobec/status/1836779645334659452?ref_src=twsrc%5Etfw)
+
+Detalles sobre la postulación para el Parlamento Andino
+-------------------------------------------------------
+
+En el caso de los parlamentarios andinos, las candidaturas son pluripersonales y se presentarán en listas completas; por cada candidato principal se registrarán dos suplentes. Así se define en la convocatoria a elecciones 2025, lanzada por el **CNE**.
+
+Las personas ganadoras ejercerán el cargo desde el **19 de mayo de 2025** hasta el 18 de mayo de 2029.
+
+Los representantes de Ecuador posesionados para el período 2021-2025 fueron **Verónica Arias Fernández, Cristina Reyes Hidalgo, Mirian Cisneros, Paúl Desamblac Cañadas y Virgilio Hernández Enríquez**.
+
+En el caso del gasto electoral, el monto establecido es la cantidad que resulte de multiplicar 0,10 centavos por el número de electores a escala nacional, que corresponde a 13 736 314; es decir, **137 363,14 dólares**.
+
+Condiciones para las candidaturas
+---------------------------------
+
+Los aspirantes a **parlamentarios andinos** deben tener una edad mínima de **18 años**, al igual que para asambleístas.
+
+Para la **Presidencia y la Vicepresidencia**, en cambio, deben haber cumplido 35 años. Todos los aspirantes deben estar en goce de los derechos políticos.
+
+Impedimentos para las postulaciones
+-----------------------------------
+
+Quienes corran por el **Parlamento Andino**, como representantes de Ecuador, deben cumplir con requisitos para inscribir las candidaturas, además de la edad.
+
+No obstante, también deben tomar en cuenta las prohibiciones, como no tener contratos con el **Estado**, como personas naturales o como representantes o apoderados de personas jurídicas.
+
+Eso siempre que el proceso se haya celebrado para la ejecución de obra pública, prestación de servicio o explotación de **recursos naturales**.
+
+Delitos en la mira
+------------------
+
+Estarán fuera las personas que han recibido **sentencia condenatoria ejecutoriada** por delitos de peculado, enriquecimiento ilícito, concusión, cohecho, tráfico de influencias, oferta de realizar tráfico de influencias y testaferrismo.
+
+Se incluyen el **lavado de activos**, asociación ilícita y delincuencia organizada relacionados con actos de corrupción… Tampoco los deudores de pensiones alimenticias.
+
+A su vez, no podrán inscribirse jueces de la función judicial, del Tribunal Contencioso Electoral y los miembros de la Corte Constitucional y del **CNE**.
+
+Eso a menos que hayan renunciado a sus funciones seis meses antes de la fecha señalada para la **elección**.
+
+Están fuera, además, quienes sean **servidores públicos** de libre nombramiento y remoción, así como de período fijo. Esto, salvo que hayan desistido del puesto hasta un día antes a la fecha de inscripción.
+
+El Parlamento Andino y sus ejes
+-------------------------------
+
+El 25 de octubre de 1979, se suscribió el **Tratado Constitutivo del Parlamento Andino**. Este se instituyó como el órgano deliberante y representante de los pueblos andinos.
+
+La agrupación es el único órgano de la integración que deviene del **voto popular**. Los representantes se definen en cada país.
+
+La principal función de los integrantes es armonizar las leyes de la región, así como garantizar la participación ciudadana y fortalecer la integración andina y **latinoamericana**.
+
+El Parlamento Andino está integrado por los representantes de **Bolivia, Chile, Colombia, Ecuador y Perú.**
+
+* **Promocionar** las relaciones para la integración de la subregión.
+* **Promover** la cooperación entre países andinos.
+* **Proponer** proyectos y normas de interés común en la Comunidad Andina.
+
+Organización de la delegación
+-----------------------------
+
+El organismo, como ocurre en la Asamblea, cuenta con comisiones permanentes y especiales. En el primer grupo, por ejemplo, está la delegación de **Política Exterior, Relaciones Internacionales y Diplomacia Parlamentaria**.
+
+Se suma la Comisión de Educación, Cultura, Ciencia, Tecnologías de la Información y la Comunicación, así como Desarrollo Sustentable y Sostenible. **Mujer y género** es otra de las agrupaciones.
+
+¿El rol se cumple?
+------------------
+
+**Pablo Játiva**, catedrático de Derecho, resalta que los parlamentarios andinos tienen la responsabilidad de generar resoluciones y recomendaciones para los países integrantes de la **Comunidad Andina**.
+
+La mayor traba que tiene el **organismo** es que sus decisiones no son vinculantes y, por ende, no son de cumplimiento obligatorio. Esto le quita peso político. “Los parlamentarios andinos vienen a tener un rol de representación simbólica de los estados”.
+
+Játiva apunta que los desacuerdos y la **integración fallida**, así como la salida de Venezuela, no han permitido que se concreten los objetivos.
+
+¡Es un hecho! 12 provincias de Ecuador tendrán cortes de luz
+============================================================
+
+Ecuador enfrenta la peor sequía en seis décadas. El Gobierno decidió los cortes de luz y la activación de planes para generar lluvias.
+--------------------------------------------------------------------------------------------------------------------------------------
+
+![Gobierno anuncia apagones para afrontar crisis energética en el Ecuador. Foto: EFE](https://www.elcomercio.com/wp-content/uploads/2024/09/3f19f67fd568713092b946494cec1845144cb394.jpg)
+
+El Gobierno de **Daniel Noboa** informó los horarios de los **cortes de luz** para este domingo 22 de septiembre del 2024. La suspensión del servicio eléctrico es parte de las estrategias para afrontar las **crisis energética** que vive el país a causa de la peor **sequía** de las seis últimas décadas y un déficit de 1 080 MW, que tiene el Ecuador[.](https://es.wikipedia.org/wiki/Ecuador "https://es.wikipedia.org/wiki/Ecuador")
+
+### Más noticias
+
+* [Ciudades de Ecuador tuvieron cortes de luz el 20 de septiembre](https://www.elcomercio.com/actualidad/ecuador/cortes-luz-ciudades-ecuador-celec-falla-humana.html "Ciudades de Ecuador tuvieron cortes de luz el 20 de septiembre")
+* [¿Cuándo serán los próximos cortes de luz en Ecuador?](https://www.elcomercio.com/actualidad/negocios/cuando-seran-los-proximos-cortes-de-luz-en-ecuador.html "¿Cuándo serán los próximos cortes de luz en Ecuador?")
+* [Sequía convoca de emergencia a las autoridades de Ecuador en Cuenca](https://www.elcomercio.com/actualidad/negocios/sequia-convoca-emergencia-autoridades-de-ecuador-coe-cuenca.html "Sequía convoca de emergencia a las autoridades de Ecuador en Cuenca")
+
+Tras una sesión del **Comité de Operaciones de Emergencia (COE) Nacional**, las autoridades informaron que el domingo 22 de septiembre se suspenderá el servicio de luz de 08:00 a 17:00 en 12 provincias de Ecuador. Estas son: Azuay, Bolívar, Cañar, Carchi, Cotopaxi, Imbabura, Morona Santiago, Napo, Orellana, Pastaza, Sucumbíos y Zamora Chinchipe. Así lo informó la Presidencia de la República, en un comunicado.
+
+Además, agregó que, el Ecuador enfrenta una crisis sin precedentes debido a la sequía más grave registrada en los últimos 61 años. Y que acumula 71 días consecutivos sin **precipitaciones significativas**. La situación ha desencadenado más de 1 330 incendios forestales en el último mes.
+
+> A la ciudadanía: [pic.twitter.com/AF70C5mUfo](https://t.co/AF70C5mUfo)
+> 
+> — Presidencia Ecuador 🇪🇨 (@Presidencia\_Ec) [September 22, 2024](https://twitter.com/Presidencia_Ec/status/1837686926083555591?ref_src=twsrc%5Etfw)
+
+Según el Gobierno, el COE Nacional implementó estas medidas inmediatas para **salvaguardar los limitados recursos hídricos**. Una de las principales acciones incluye la suspensión programada del servicio eléctrico en 12 provincias este domingo, 22 de septiembre.
+
+El Gobierno Nacional también puso en marcha soluciones adicionales como el **bombardeo de nubes** para **provocar lluvias** y la **instalación de barcazas** de generación eléctrica flotante. Estas acciones, según las autoridades, generarán resultados inmediatos y mitigarían los efectos de esta crisis.
+
+Este domingo 22 de septiembre, al mediodía, después de evaluar la **situación hídrica de la región,** el país y cada provincia, se anunciarán las medidas complementarias que sean necesarias, agregó la Presidencia de la República.
+
+Gritos tras disparos en un centro comercial de Quito
+====================================================
+
+La Policía investiga el suceso, que ocurrió la noche de este sábado 21 de septiembre en el norte de Quito.
+----------------------------------------------------------------------------------------------------------
+
+![Una ambulancia atendió a una persona, que resultó herida con un disparo.](https://www.elcomercio.com/wp-content/uploads/2024/09/quincentro.jpg)
+
+La zona de un c**entro comercial del norte de Quito** estuvo convulsionada la noche de este **sábado 21 de septiembre de 2024.**
+
+### Más noticias
+
+* [Una masacre se registró en una peluquería de Quito](https://www.elcomercio.com/actualidad/seguridad/masacre-peluqueria-quito-inseguridad-policia-nacional.html "Una masacre se registró en una peluquería de Quito")
+* [Conductor fue víctima de una nueva modalidad de robo en Quito](https://www.elcomercio.com/actualidad/conductor-victima-robo-modalidad-quito.html "Conductor fue víctima de una nueva modalidad de robo en Quito")
+* [Banda dedicada al robo de casas fue desarticulada en Quito](https://www.elcomercio.com/actualidad/seguridad/banda-robo-casas-quito-policia.html "Banda dedicada al robo de casas fue desarticulada en Quito")
+
+A través de las redes sociales se conoció que una **persona fue atacada por los delincuentes** un poco más de las 19:00 de este sábado.
+
+Los hombres no identificados dispararon contra un ciudadano, quien presuntamente había sacado **dinero del cajero automático de un banco.**
+
+Se presume que el **cajero automático** está dentro del centro comercial.
+
+> si, el saco dinero, no se si lograron robarle porque él tenía bien abrazada su maleta
+> 
+> — paz (@pazgarzonnn) [September 22, 2024](https://twitter.com/pazgarzonnn/status/1837665961391825167?ref_src=twsrc%5Etfw)
+
+“**La gente salía despavorida del lugar. Gritaba, no sabía qué hacer**“, se lee en algunas cuentas de las redes sociales.
+
+En una de esas cuentas se escribió que fueron **“minutos de terror. La gente corría, se escucharon disparos. Nadie entendía bien qué pasaba”.**
+
+La Policía Nacional aún investiga qué pasó en el centro comercial
+-----------------------------------------------------------------
+
+Comunicación de la Policía Nacional informó que se solicitó información a las unidades operativas e investigativas.
+
+Mientras que el Cuerpo de Bomberos detalló que se recibió una alerta de emergencia por código plata de persona herida por arma de fuego. En los alrededores del centro comercial se escucharon las sirenas de los Bomberos de Quito.
+
+> No se exactamente estaba en el tercer piso y solo nos dijeron que se cerraba el centro comercial cuando salimos vimos a las ambulancias por el español
+> 
+> — Belen (@Ma\_Belen\_12) [September 22, 2024](https://twitter.com/Ma_Belen_12/status/1837666997208826349?ref_src=twsrc%5Etfw)
+
+En una de las cuentas de redes sociales se indica que la “**persona sacó el dinero, pero se desconoce si lograron robarle, porque el ciudadano tenía bien abrazada su maleta”.**
+
+A su vez, en otra cuenta de la red social X se indica que la **“persona, un joven, se lo veía estable hasta cuando lo subieron a la ambulancia”**. Según esa información, le **dieron un disparo**[.](https://es.wikipedia.org/wiki/Quito "https://es.wikipedia.org/wiki/Quito")
+
+El relato sobre este hecho solo se sabe de lo que se escribe en las redes sociales. Una tuitera comenta que quisieron meterlo a un carro y supone que había más personas dentro del auto.
+
+> …minutos de terror en el quicentro. La gente corría, se escucharon disparos. Nadie entendía bien qué pasaba. Sábado de noche en uio. 🥺
+> 
+> — María José Calderón (@mariajosec) [September 22, 2024](https://twitter.com/mariajosec/status/1837645558053269823?ref_src=twsrc%5Etfw)
+
+Deportivo Cuenca derrotó a Barcelona SC al marcarle en menos de un minuto
+=========================================================================
+
+Barcelona SC cayó ante el Deportivo Cuenca tras recibir un gol a menos de un minuto de que se iniciase el partido.
+------------------------------------------------------------------------------------------------------------------
+
+![Jugadores del Deportivo Cuenca celebran su triunfo ante Barcelona SC en la Liga Pro.](https://www.elcomercio.com/wp-content/uploads/2024/09/20240921128423-fbl-ligapro-d-cuenca-barcelona-scaled.jpg)
+
+**Deportivo Cuenca** urgía un triunfo para alejarse de la zona de descenso, pero al frente tenía **Barcelona SC**, que persigue la segunda etapa y el llegar al partido que defina el título. A la final, la balanza se inclinó hacia las aspiraciones del cuadro morlaco que dio la sorpresa.
+
+A tan solo dos puntos de la penúltima casilla de la tabla acumulada, el equipo del austro recibió a los toreros como locales en el **Estadio Alejandro Serrano Aguilar**. Los guayaquileños, a su vez, sabían que **Liga de Quito**, líder del campeonato, empató con El Nacional y sumó 17 puntos en la segunda etapa, por lo que un triunfo los pondría al acecho con 15 unidades.
+
+### Más noticias:
+
+* [Liga de Quito igualó con El Nacional en un clásico de la Liga Pro](https://www.elcomercio.com/deportes/partido-en-vivo-liga-quito-nacional-liga-pro.html "Liga de Quito igualó con El Nacional en un clásico de la Liga Pro")
+* [Aucas rompió una extraordinaria racha en Liga Pro](https://www.elcomercio.com/deportes/aucas-cumbaya-racha-victoria-liga-pro.html "Aucas rompió una extraordinaria racha en Liga Pro")
+* [Leonardo Campana vuelve a anotar con Inter de Miami y acrecenta su récord](https://www.elcomercio.com/deportes/gol-leonardo-campana-inter-miami-new-york.html "Leonardo Campana vuelve a anotar con Inter de Miami y acrecenta su récord")
+
+Para el choque, el ‘Ídolo’ y su **DT Ariel Holan** arribaron con una victoria en su último cotejo en casa ante Macará por 2-1. El Cuenca del DT Norberto Araujo contaba con un empate previo ante el Delfín, sin embargo, no ganaba en casa hace casi cuatro meses, desde mayo del 2024.
+
+El **‘Expreso Austral’** saltó a la cancha con intenciones ofensivas e hizo un partido redondo de principio a fin. Se puso en una pronta ventaja y, aunque no volvió a anotar, estuvo más cerca de aumentar su marcador que de **sufrir el empate** de los toreros.
+
+Deportivo Cuenca agarró desprevenido a Barcelona SC
+---------------------------------------------------
+
+El gol que marcó la diferencia entre **Deportivo Cuenca y Barcelona SC** llegó de manera fugaz. Ni siquiera se cumplió un minuto de que se inicie el partido para que el conjunto morlaco encuentre el triunfo frente a los de Holan.
+
+Los toreros sacaron del medio, pero los locales recuperaron el balón. Lucas Mancinelli avanzó por la banda derecha y jugó con **Danny Luna**. Luna se asoció con Morocho, este devolvió la pelota de taco y el primero mandó la pelota al fondo de la red.
+
+El ‘Ídolo’ no consiguió reaccionar y el Cuenca se le vino encima. **Vilington Branda y Pablo Magnin** estuvieron a punto de encontrar el 2-0, pero el VAR anuló sus dos anotaciones debido a posiciones adelantadas.
+
+Hamilton Piedra aguantó en el Cuenca
+------------------------------------
+
+Uno de los valores altos de **Deportivo Cuenca** fue el arquero Hamilton Piedra. Aunque Barcelona no se recuperó ni pudo dominar, sí fabricó acciones excepcionales que fueron contenidas por el golero de los morlacos.
+
+**Octavio Rivero y Janner Corozo** llegaron, pero no pudieron vulnerar el arco. Ni siquiera el ingreso de Allen Obando representó una mayor modificación en la situación.
+
+A raíz de su derrota, en la segunda etapa, **Barcelona SC** se ubica en la cuarta posición con 12 unidades, sin embargo, aquello puede variar en función de otros resultados. El Cuenca encontró su primera victoria en la vigente ronda y está en la decimotercera casilla de ella.
+
+Venezuela será ‘gran foco de atención’ en la Asamblea de la ONU, según Machado
+==============================================================================
+
+La opositora, María Corina Machado, afirmó que la crisis poselectoral de Venezuela será un tema de debate en la Asamblea de la ONU.
+-----------------------------------------------------------------------------------------------------------------------------------
 
 ![María Corina Machado en una fotografía de archivo.](https://www.elcomercio.com/wp-content/uploads/2024/09/maria-corina-machado-fiscalia-efe-1.jpg)
 
-La líder opositora de Venezuela **María Corina Machado** aseguró este sábado 21 de septiembre de 2024 que la crisis poselectoral de su país será un “gran foco” de atención en el marco de la Asamblea General de la Organización de Naciones Unidas (ONU). La cita se celebrará la próxima semana en Nueva York.
+La líder opositora de Venezuela, **María Corina Machado**, aseguró este sábado 21 de septiembre de 2024 que la crisis poselectoral de su país será un “gran foco” de atención en el marco de la Asamblea General de la Organización de Naciones Unidas (ONU). La cita se celebrará la próxima semana en Nueva York.
 
 ### Más noticias
 
@@ -47,22 +420,28 @@ La líder opositora de Venezuela **María Corina Machado** aseguró este sábado
 * [Daniel Noboa se reunirá con Javier Milei en Nueva York](https://www.elcomercio.com/actualidad/politica/daniel-noboa-se-reunira-con-javier-milei-en-nueva-york.html "Daniel Noboa se reunirá con Javier Milei en Nueva York")
 * [Benjamín Netanyahu se pronuncia tras explosiones en Líbano](https://www.elcomercio.com/actualidad/mundo/netanyahu-se-pronuncia-explosiones-libano.html "Benjamín Netanyahu se pronuncia tras explosiones en Líbano")
 
-“Todos los líderes del mundo se reunirán allí. Y **Venezuela** será el gran foco de atracción, de atención y de apoyo”, dijo la exdiputada, que lidera la denuncia de **fraude en las elecciones del 28 de julio**. En las mismas, **Nicolás Maduro** fue proclamado presidente reelecto, lo que ha sido cuestionado dentro y fuera del país.
+“Todos los líderes del mundo se reunirán allí. Y **Venezuela** será el gran foco de atracción, de atención y de apoyo” en la ONU, dijo la exdiputada, que lidera la denuncia de **fraude en las elecciones del 28 de julio**. En las mismas, **Nicolás Maduro** fue proclamado presidente reelecto, lo que ha sido cuestionado dentro y fuera del país.
 
-La líder antichavista adelantó que “todos los días” de la última semana de septiembre de 2024 habrá actividades relacionadas con el reclamo de la principal coalición opositora. Esta se denomina Plataforma Unitaria Democrática (PUD). Machado asegura que su abanderado, **Edmundo González Urrutia,** ganó las presidenciales. “Esto lo vamos a lograr, esto es hasta el final”, insistió.
+La líder antichavista adelantó que “todos los días” de la última semana de septiembre de 2024 habrá actividades relacionadas con el reclamo de la principal coalición opositora.
 
-Países reconocen como presidente de Venezuela a González Urrutia
-----------------------------------------------------------------
+Esta se denomina Plataforma Unitaria Democrática (PUD). Machado asegura que su abanderado, **Edmundo González Urrutia,** ganó las presidenciales. “Esto lo vamos a lograr, esto es hasta el final”, insistió.
 
-María Corina Machado consideró que los apoyos expresados en la última semana hacia González Urrutia son muy importantes. Ya que, el **Parlamento Europeo y por las Cámaras de varios países** **latinoamericanos** lo reconocieron como presidente electo a González Urrutia.
+Países reconocen como presidente de Venezuela a González
+--------------------------------------------------------
 
-Asimismo, recordó que en los últimos días sostuvo “conversaciones muy importantes y reuniones muy productivas”. Todas fueron de forma virtual y se realizaron con líderes de la región y con el secretario de Estado de los Estados Unidos, **Antony Blinken**.
+María Corina Machado consideró que los apoyos expresados en la última semana hacia Venezuela y González Urrutia son muy importantes, sobre todo en la ONU. Ya que, el **Parlamento Europeo y por las Cámaras de varios países** **latinoamericanos** lo reconocieron como presidente electo a González Urrutia[.](https://es.wikipedia.org/wiki/Organizaci%C3%B3n_de_las_Naciones_Unidas "https://es.wikipedia.org/wiki/Organizaci%C3%B3n_de_las_Naciones_Unidas")
+
+Asimismo, recordó que en los últimos días sostuvo “conversaciones muy relevantes y reuniones muy productivas”. Todas fueron de forma virtual y se realizaron con líderes de la región y con el secretario de Estado de los Estados Unidos, **Antony Blinken**.
 
 “Todos alineados, todos dispuestos a acompañarnos hasta lograr hacer valer la soberanía popular (…), la próxima será una semana importantísima”, resaltó.
 
-Hasta ahora, Washington organiza el único evento sobre **Venezuela** de nivel ministerial. Este se celebrará el próximo jueves 26 de septiembre, encabezado por Blinken, según confirmaron a EFE fuentes diplomáticas estadounidenses. Esto después de que fracasara otro evnto que tenía previsto organizar **Chile**.
+Hasta ahora, Washington organiza el único evento sobre **Venezuela** de nivel ministerial, a propósito de la reunión de la ONU.
 
-La semana de **Alto Nivel de la ONU** es la gran cita de la diplomacia mundial. Y es una ocasión única para tratar los conflictos más candentes del mundo. Por lo que se espera en Nueva York a los dirigentes de **Israel**, **Palestina, Líbano, Irán**, así como al presidente de **Ucrania o al de Sudán**, entre los 133 líderes que asistirán. 
+Este se celebrará el próximo jueves 26 de septiembre, encabezado por Blinken, según confirmaron a EFE fuentes diplomáticas estadounidenses. Esto después de que fracasara otro evento que tenía previsto organizar **Chile**.
+
+La semana de **Alto Nivel de la ONU** es la gran cita de la diplomacia mundial. Y es una ocasión única para tratar los conflictos más candentes del mundo.
+
+Por lo que se espera en Nueva York a los dirigentes de **Israel**, **Palestina, Líbano, Irán**, así como al presidente de **Ucrania o al de Sudán**, entre los 133 líderes que asistirán. 
 
 Leonardo Campana vuelve a anotar con Inter de Miami y acrecenta su récord
 =========================================================================
@@ -560,550 +939,4 @@ Días antes de la intervención, Mujica había sido internado para ser **rehidra
 
 Pannone indicó que las dificultades para alimentarse del exmandatario eran a causa de una fibrosis en el esófago.
 
-Este problema es consecuencia del tratamiento de radioterapia que recibió en dicha zona por un **tumor maligno** del que fue tratado. 
-
-Hora y alineaciones para Liga de Quito vs. El Nacional
-======================================================
-
-El Nacional y Liga de Quito tienen listas a sus escuadras para el enfrentamiento de la séptima fecha de la Liga Pro.
---------------------------------------------------------------------------------------------------------------------
-
-![Tomson Minda de El Nacional (izq.) encara a Facundo Rodríguez de Liga en la primera etapa de la Liga Pro.](https://www.elcomercio.com/wp-content/uploads/2024/09/20240406100770-fbl-liga-pro-ecuabet-nacional-liga-scaled.jpg)
-
-**Liga de Quito y El Nacional** están listos para medirse en un nuevo enfrentamiento por la Liga Pro. Las escuadras jugarán durante este sábado 21 de septiembre del 2024 a las 16:30 y los entrenadores tienen listos a los equipos que pondrán en la cancha.
-
-Con presentes distintos, albos y criollos, así como sus entrenadores, arriban al clásico entre sí en la séptima fecha de la segunda etapa. El conjunto universitario saltará a la cancha como puntero y con su DT **Pablo ‘Vitamina’ Sánchez** en cancha. El ‘Rojo’ lo hará en la novena posición y sin su estratega **Marcelo Zuleta**, quien recibió una suspensión de cuatro partidos después de insultar al árbitro en el compromiso previo[.](https://es.wikipedia.org/wiki/Club_Deportivo_El_Nacional)
-
-### Más noticias:
-
-* [¿Cómo llega Liga de Quito ante El Nacional en Liga Pro?](https://www.elcomercio.com/deportes/como-va-liga-quito-nacional.html "¿Cómo llega Liga de Quito ante El Nacional en Liga Pro?")
-* [El Nacional ganó 13 veces en el Rodrigo Paz a Liga de Quito](https://www.elcomercio.com/deportes/futbol/el-nacional-triunfo-rodrigo-paz-delgado.html "El Nacional ganó 13 veces en el Rodrigo Paz a Liga de Quito")
-* [15 años sin justicia para José Erazo, padre de hincha de El Nacional asesinado](https://www.elcomercio.com/deportes/jose-erazo-david-erazo-el-nacional-hincha.html "15 años sin justicia para José Erazo, padre de hincha de El Nacional asesinado")
-
-Durante su último compromiso, ambos clubes también tuvieron resultados opuestos: **Liga de Quito** cayó por goleada ante Imbabura de visitante, mientras que El Nacional se impuso por 2-1 ante el **Cumbayá** en casa.
-
-El choque entre las dos escuadras se llevará a cabo en el Estadio Rodrigo Paz Delgado de la ‘U’ y ambas cuentan casi con todas sus figuras. En el cuadro universitario regresa Ricardo Adé y se mantiene como baja Jhojan Julio por lesión; en la escuadra criolla están todos disponibles, salvo por **Moisés Corozo y Daniel Patiño**, quienes presentan molestias.
-
-Alineaciones de Liga de Quito y El Nacional
--------------------------------------------
-
-**Liga de Quito**: Alexander Domínguez (arquero); José Quintero, Ricardo Adé, Richard Mina, Leonel Quiñónez (defensas); Gabriel Villamil, Ezequiel Piovi, Bryan Ramírez, Luis Estupiñán y Fernando Cornejo (volantes); Álex Arce (delantero).
-
-**El Nacional**: David Cabezas (arquero); Kevin Peralta, Rommel Cabezas, José Ignacio Flor, Mario Pineida (defensas); Marcos Olmedo, Charles Vélez, Jonathan Borja, Jorge Ordóñez y Gabriel Cortez (volantes); Alejandro Cabeza (delantero).
-
-El Nacional y Liga tiene dos partidos seguidos
-----------------------------------------------
-
-El choque entre **Liga de Quito y El Nacional** en la Liga Pro inaugurará una seguidilla de compromisos entre los dos equipos. Después de su choque en el torneo nacional, los equipos volverán a medirse en la Copa Ecuador.
-
-El cotejo copero será el **25 de septiembre del 2024**. Allí, las dos escuadras se medirán en la fase de cuartos de final.
-
-Más de 60 barrios de Quito tendrán cortes de agua este fin de semana
-====================================================================
-
-La Epmaps implementó un cronograma de suspensiones para este sábado 21 y domingo 22 de septiembre.
---------------------------------------------------------------------------------------------------
-
-![En algunos puntos de la ciudad el abastecimiento de agua se realiza con tanqueros](https://www.elcomercio.com/wp-content/uploads/2024/09/quito-cortes-a.jpg)
-
-Varios barrios de **Quito** verán tendrán **cortes de agua** potable este fin de semana, debido al **déficit hídrico** que enfrenta la ciudad y el país.
-
-Ante esta problemática, la Empresa Metropolitana de Agua Potable y Saneamiento de Quito (**Epmaps**) implementó un **cronograma** de suspensiones, con el objetivo de distribuir de una forma más equitativa el agua en la capital.
-
-### Más noticias
-
-* [¿Por qué se registran ligeras lluvias en Quito?](https://www.elcomercio.com/actualidad/quito/por-que-se-registran-ligeras-lluvias-en-quito.html "¿Por qué se registran ligeras lluvias en Quito?")
-* [Aeropuerto de Quito suspende sus operaciones y vuelos](https://www.elcomercio.com/actualidad/quito/aeropuerto-quito-suspende-operaciones-vuelos-simulacro-pista-mantenimiento.html "Aeropuerto de Quito suspende sus operaciones y vuelos")
-* [¿Cuándo serán los próximos cortes de luz en Ecuador?](https://www.elcomercio.com/actualidad/negocios/cuando-seran-los-proximos-cortes-de-luz-en-ecuador.html "¿Cuándo serán los próximos cortes de luz en Ecuador?")
-
-La suspensión afectará a los sectores que son abastecidos por la Planta de Tratamiento de Agua Potable de **Puengasí**, en el centro y sur de Quito.
-
-Barrios con cortes de agua programados
---------------------------------------
-
-### Tanques: Alpahuasi Alto, Guápulo, Itchimbía Medio, Argelia Alto
-
-Estos barrios no tendrán servicio de agua potable entre el **sábado 21**, a partir de las **19:00**, hasta las **07:00** del **domingo 22** de septiembre.
-
-* González Suárez
-* Guápulo
-* Itchimbía
-* La Merced
-* San Roque
-* La Tola
-* San Marcos
-* La Loma
-* González Suárez (Centro Histórico)
-* San Sebastián
-* El Sena
-* México
-* Los Andes
-* Dos Puentes
-* Santa Ana
-* Villaflora
-* La Recoleta
-* El Camal
-* El Recreo
-* Molinos
-* Luluncoto
-
-> 💧 [#ConsumoResponsable](https://twitter.com/hashtag/ConsumoResponsable?src=hash&ref_src=twsrc%5Etfw) | Llevamos más de 40 días sin lluvias consecutivas, por eso utiliza el agua únicamente para la alimentación, higiene e hidratación. Evita lavar el vehículo, la aceras y el patio.  
->   
-> Con el apoyo de todos los vecinos y vecinos, [#QuitoRenace](https://twitter.com/hashtag/QuitoRenace?src=hash&ref_src=twsrc%5Etfw)[@MunicipioQuito](https://twitter.com/MunicipioQuito?ref_src=twsrc%5Etfw)… [pic.twitter.com/lEkmKU6iTr](https://t.co/lEkmKU6iTr)
-> 
-> — Epmaps – Agua de Quito (@aguadequito) [September 19, 2024](https://twitter.com/aguadequito/status/1836836100565811592?ref_src=twsrc%5Etfw)
-
-### Tanque San Bartolo
-
-Los cortes de agua en estos lugares se realizarán el **domingo 22**, a partir de las 07:00 y finalizarán a las 19:00.
-
-* Germán Ávila
-* San Agustín
-* Los Andes
-* Chimbacalle
-* México
-* Pío XII
-* El Camal
-* Doscientas Casas
-* San Bartolo
-* Eplicachima
-* Argelia Intermedia
-* El Recreo
-* Clemencia
-* Ferroviaria Baja
-* Clemente Ballén
-* Teniente Hugo Ortíz
-* El Calzado
-* 1 de Mayo
-* Barrionuevo
-* Los Arrayanes
-* Atahualpa
-* La Magdalena
-
-### Tanques: Chachas Alto, San Isidro Bajo y Alto, Edén del Valle, Puengasí Alto
-
-La suspensión en estos sectores comenzará el **domingo 22** a las **19:00** y se extenderá hasta el **lunes 23** de septiembre, a las **07:00**.
-
-* Miravalle
-* Edén del Valle
-* San Francisco
-* Puengasí Bajo
-* Las Mallas
-* Lupero
-* Chachas Alto
-* Monjas a Donoso
-* San José de Monjas
-* Forestal Alto
-* San Patricio
-* Santa Faz de Conocoto
-* Puertas al Sol
-* Obrero Independiente 1, 2 y 3
-* Valle del Sur
-* Autopista General Rumiñahui (hasta puente 3)
-* 28 de Noviembre
-* Lomas de Puengasí
-* 1 de Mayo
-* Monjas
-* Simón Bolívar
-* Madrigal
-* Mariano Hinojosa
-
-> 💧 [#ConsumoResponsable](https://twitter.com/hashtag/ConsumoResponsable?src=hash&ref_src=twsrc%5Etfw) | Estamos pasando por una temporada extremadamente seca sin lluvias y todos debemos ayudar a reducir el consumo de agua en cada actividad.  
->   
-> Con tu apoyo, [#QuitoRenace](https://twitter.com/hashtag/QuitoRenace?src=hash&ref_src=twsrc%5Etfw)[@MunicipioQuito](https://twitter.com/MunicipioQuito?ref_src=twsrc%5Etfw) [@ambientequito](https://twitter.com/ambientequito?ref_src=twsrc%5Etfw) [pic.twitter.com/UDEDezy2iC](https://t.co/UDEDezy2iC)
-> 
-> — Epmaps – Agua de Quito (@aguadequito) [September 19, 2024](https://twitter.com/aguadequito/status/1836751038436565026?ref_src=twsrc%5Etfw)
-
-Otros cortes programados
-------------------------
-
-Además de este cronograma, otros barrios de Quito se verán afectados con la suspensión del servicio de **agua potable**.
-
-En sectores como Alangasí, La Merced, Calacalí, Pomasqui y San Antonio, la distribución tendrá distintos días y horarios.
-
-Para consultar la **programación** de suspensiones de septiembre en estas zonas visita la [página oficial](https://www.aguaquito.gob.ec/calendarios-de-abastecimiento-septiembre-2024/ "https://www.aguaquito.gob.ec/calendarios-de-abastecimiento-septiembre-2024/") de la Epmaps.
-
-¿Qué nos enseñan la ciencia y las películas sobre el alzhéimer? 
-================================================================
-
-En el Día Mundial del Alzheimer, reflexionamos sobre esta enfermedad a través del cine.
----------------------------------------------------------------------------------------
-
-![Las demencias, como el Alzheimer, presentan síntomas que afectan la memoria y las funciones cognitivas. Foto: Freepik.](https://www.elcomercio.com/wp-content/uploads/2024/09/dia-alzheimer.jpg)
-
-El 21 de septiembre se conmemora el **Día Mundial del Alzheimer**, proclamado por la **Organización Mundial de la Salud** (OMS) y auspiciado por **Alzheimer’s Disease International** (ADI).  
-
-### Más noticias
-
-* [Seis películas con sorprendentes finales abiertos y su análisis](https://www.elcomercio.com/tendencias/cine/peliculas-cine-analisis-final-abierto.html "https://www.elcomercio.com/tendencias/cine/peliculas-cine-analisis-final-abierto.html") 
-* [Muere Juan Brujo, líder de la banda mexicana de metal Brujería](https://www.elcomercio.com/tendencias/cultura/juan-brujo-brujeria-obituario-metal.html "https://www.elcomercio.com/tendencias/cultura/juan-brujo-brujeria-obituario-metal.html") 
-
-Desde 1994, a decir de [Día Mundial De](https://www.diainternacionalde.com/ficha/dia-mundial-alzheimer "https://www.diainternacionalde.com/ficha/dia-mundial-alzheimer"), **esta fecha busca crear conciencia sobre la enfermedad** y su impacto en millones de personas.  
-
-En 2012, la ADI extendió la conmemoración a todo septiembre, designándolo como el **Mes Mundial del Alzheimer**. El objetivo es **informar sobre los síntomas y la importancia del diagnóstico temprano**, para mejorar así la calidad de vida de los pacientes y sus cuidadores.  
-
-**Alzhéimer y demencias: síntomas y diagnóstico temprano** 
------------------------------------------------------------
-
-Las **demencias**, incluida la **enfermedad de Alzheimer**, se caracterizan por una **pérdida progresiva de las funciones cognitivas** que interfiere con las actividades diarias. Según Luisa Rivera, neuropsicóloga clínica, **el alzhéimer puede tener un componente hereditario**, pero también existen **demencias secundarias a lesiones vasculares o enfermedades como el Parkinson**.  
-
-Los síntomas de alarma incluyen la **pérdida de memoria reciente, dificultad para resolver problemas, cambios en el lenguaje y desorientación en tiempo y espacio**. En etapas avanzadas, **las personas pueden perderse en lugares familiares o no recordar cómo regresar a casa**. Cambios en el comportamiento, como apatía, ansiedad y dificultad para realizar tareas cotidianas, también son comunes. 
-
-Rivera subraya que **el alzhéimer es la forma más común de demencia**, aunque el término “demencia senil” es incorrecto. **Es importante recordar que estos síntomas pueden confundirse con el envejecimiento normal**. Si se observan cambios persistentes en la memoria o el comportamiento, **se recomienda una evaluación médica y neuropsicológica para un diagnóstico temprano y un tratamiento adecuado**, además de descartar otras condiciones médicas que podrían estar detrás de los síntomas. 
-
-**El alzhéimer en el cine** 
-----------------------------
-
-El alzhéimer es **una condición que debe ser considerada y entendida**. Para ello, el cine ha utilizado historias y dramas que **permiten acercarse de una manera distinta a esta enfermedad** y comprender que es una realidad importante. Gracias a la página [La Mente es Maravillosa](https://lamenteesmaravillosa.com/las-5-mejores-peliculas-sobre-el-alzheimer/ "https://lamenteesmaravillosa.com/las-5-mejores-peliculas-sobre-el-alzheimer/"), hemos elaborado una lista con las mejores cintas sobre el alzhéimer. 
-
-### **‘Lejos de ella’ (2007)** 
-
-Basada en un **relato de Alice Munro**, la película sigue a **Fiona (Julie Christie)**, quien muestra **signos de alzhéimer** desde el principio. **Nominada al Oscar**, Christie interpreta a una mujer que ingresa a un centro de cuidado, a pesar de la oposición de su esposo, Grant. Tras un mes separados, **Grant descubre que Fiona ha formado una amistad cercana con otro hombre**, lo que lo lleva a replantear su papel en su felicidad. 
-
-### **‘Iris’ (2001)** 
-
-Protagonizada por **Judi Dench, Jim Broadbent y Kate Winslet**, Iris narra la vida de la **novelista británica Iris Murdoch y su esposo**. La película retrata el doloroso proceso de **pérdida de comunicación debido al alzhéimer**, al mostrar cómo una mujer vibrante se convierte en una sombra de sí misma. Con honestidad, invita a reflexionar sobre los deseos y sueños de quienes enfrentan esta enfermedad. 
-
-### **‘Nader y Simin: una separación’ (2011)** 
-
-Una **obra maestra del cine** que aborda temas como la familia, la religión y la justicia, con el Alzheimer como motor de la trama. En medio de su divorcio, **Nader y Simin deben tomar decisiones sobre su hija y el padre de Nader**, quien sufre de Alzheimer. **La película destaca los valores familiares y la dignidad**, al presentar la delicadeza con la que el hijo apoya a su padre. 
-
-### **‘Poesía’ (2010)** 
-
-La vida de **Mija (Yun Jeong-Hee)**, una abuela que trabaja como cuidadora, da un giro inesperado tras **presenciar un suicidio**. A pesar del alzhéimer, **se sumerge en la poesía y debe confrontar una dolorosa verdad sobre su nieto**, lo que la lleva a una profunda transformación interior. 
-
-### **‘Amour’ (2012)** 
-
-**La película más emotiva de Michael Haneke**, ganó múltiples premios, incluida la Palma de Oro y el **Oscar a Mejor Película Extranjera**. La historia sigue a George y Anne, una pareja de 80 años, cuyos lazos se ponen a prueba tras **un derrame cerebral debilitante que afecta a Anne**. A pesar de su propio desgaste por la vejez, **Georges se dedica a cuidar de su esposa**, desafiando las duras realidades de la vida y reafirmando su amor. 
-
-**‘Diario de una pasión’ (2004)**
----------------------------------
-
-En un **asilo de ancianos**, un hombre (**James Garner**) narra a una mujer (**Gena Rowlands**) una historia de amor que ha escrito en su antiguo cuaderno. Se trata de la historia de **Noah Calhoun** (Ryan Gosling) y **Allie Hamilton** (Rachel McAdams), dos adolescentes de Carolina del Norte que, a pesar de sus distintos entornos sociales, **se enamoraron intensamente y vivieron un verano inolvidable** antes de ser separados, primero por sus padres y luego por la guerra.
-
-‘**Siempre Alice’ (2014)**
---------------------------
-
-**Alice Howland (Julianne Moore)** se siente satisfecha con la vida que ha logrado construir con tanto esfuerzo. A los 50 años, es profesora de psicología cognitiva en Harvard y una reconocida lingüista internacional, con un esposo exitoso y tres hijos adultos. Sin embargo, **cuando comienza a experimentar confusión, un devastador diagnóstico transforma su vida** y su relación con su familia y el mundo para siempre. Con sensibilidad y sutileza, **la autora explora las emociones de quienes sufren de alzhéimer** y de sus seres queridos.
-
-¿Por qué se registran ligeras lluvias en Quito?
-===============================================
-
-Cristina Valdivieso, especialista del Inamhi, brindó detalles del clima y lo que se espera para estos días.
------------------------------------------------------------------------------------------------------------
-
-![Quito registró cielos nublados con claros, este sábado 21 de septiembre](https://www.elcomercio.com/wp-content/uploads/2024/09/lluvias-claros-quito.jpg)
-
-Emoción. Sorpresa. Ilusión por las primeras gotas de lluvia. Se las escuchó en las ventanas. Estas sensaciones se sintieron este sábado 21 de septiembre de 2024. ¿Por qué se registraron ligeras lluvias en Quito?
-
-### Más noticias
-
-* [Escasez de lluvias afecta el suministro de agua en Quito](https://www.elcomercio.com/actualidad/quito/escasez-lluvias-afecta-suministro-agua-quito.html "Escasez de lluvias afecta el suministro de agua en Quito")
-* [Cortes de luz generan más costos y riesgos de seguridad en sector logístico de Ecuador](https://www.elcomercio.com/actualidad/negocios/cortes-de-luz-generan-mas-costos-y-riesgos-de-seguridad-en-sector-logistico-de-ecuador.html "Cortes de luz generan más costos y riesgos de seguridad en sector logístico de Ecuador")
-* [COE declara alerta roja en 15 provincias por emergencia hídrica](https://www.elcomercio.com/actualidad/ecuador/coe-declara-alerta-roja-sequia.html "COE declara alerta roja en 15 provincias por emergencia hídrica")
-
-Luego de **43 días sin lluvias**, Quito y sus alrededores registraron **ligeras precipitaciones** este sábado 21 de septiembre de 2024.
-
-Las **lloviznas** fueron reportadas en el norte, centro y sur de la ciudad; como también en el valle de Los Chillos.
-
-Las pequeñas gotas cayeron pasado el mediodía de este sábado, sin embargo, las precipitaciones no superaron los **10 minutos**.
-
-Inamhi explicó el porqué de las lluvias en Quito
-------------------------------------------------
-
-**Cristina Valdivieso**, analista de pronósticos del Instituto Nacional de Meteorología e Hidrología (Inamhi) explicó a **EL COMERCIO** que se contemplaba la probabilidad de que existieran **lluvias aisladas** en la región Interandina.
-
-Sin embargo, las lloviznas en Quito estaban previstas especialmente para el **sur de la ciudad**.
-
-“Estas lluvias no son generales, sino sectorizadas, se estaba considerando que lloviera ligeramente, pero más en el **sur de Pichincha**“, mencionó Valdivieso.
-
-¿Por qué se registran lluvias en Quito? La técnica comentó que esto se debe a la influencia de las precipitaciones que se registran en la **Amazonía**.
-
-“La lluvia de la región amazónica acarrea **humedad** hasta la región Interandina, lo que provoca cielos nublados y lloviznas aisladas”, detalló.
-
-Condiciones del clima para estos días
--------------------------------------
-
-La analista considera que las condiciones climáticas en Quito continuarán en los próximos días de **forma similar** a las registradas este sábado.
-
-Se esperan **cielos nublados con claros**, es decir, nubosidades grises pero con espacios de cielo azul.
-
-El Inamhi también prevé más lluvias aisladas, principalmente, en zonas **montañosas** de la ciudad.
-
-¿Cuándo comenzarán las lluvias?
--------------------------------
-
-La especialista explicó que el clima en Ecuador es propio a los días de transición entre el **verano** a **invierno**.
-
-“La configuración atmosférica, de a poco, se vuelve propicia para lluvias en la Sierra y la Amazonía; es probable que a finales del mes, entre el **27 y 29 de septiembre**, se generalicen”, manifestó Cristina Valdivieso.
-
-Durante estos días se pronostica que las lloviznas aumenten hasta equilibrarse entre mañanas soleadas y **tardes con lluvias**, en octubre.
-
-Justamente, **Bolívar Erazo**, director ejecutivo del Inamhi, afirmó que para ese mes se espera la reactivación paulatina de las lluvias.
-
-“Si las lluvias son leves, pero continuas, esa cantidad de agua permitiría recargar las fuentes de abastecimiento”, dijo durante una entrevista con Teleamazonas.
-
-> [#PronosticoPichinchaEC](https://twitter.com/hashtag/PronosticoPichinchaEC?src=hash&ref_src=twsrc%5Etfw) l Sábado, 21 de septiembre: Cielo nublado con claros a parcial nublado. Radiación [#UV](https://twitter.com/hashtag/UV?src=hash&ref_src=twsrc%5Etfw) entre alta y muy alta al medio día🧢☀️ [pic.twitter.com/yZAgCSl25H](https://t.co/yZAgCSl25H)
-> 
-> — INAMHI Ecuador 🇪🇨 (@inamhi\_ec) [September 21, 2024](https://twitter.com/inamhi_ec/status/1837482455734861847?ref_src=twsrc%5Etfw)
-
-COE declaró alerta roja en 15 provincias
-----------------------------------------
-
-El Comité de Operaciones de Emergencia Nacional (**COE**) declaró la alerta roja en **15 provincias**, por el déficit hídrico que enfrenta Ecuador.
-
-En el anunció de este jueves 19 de septiembre; **Inés Manzano**, quien preside el Comité, también detalló que el organismo sesionará de forma permanente los próximos días.
-
-En estas mesas técnicas, los grupos de trabajo buscarán mecanismos y **acciones inmediatas** en favor de solventar la emergencia en el país.
-
-### Provincias con alerta roja
-
-Luego de realizar un análisis técnico, estas son las provincias con declaratoria de **alerta roja**:
-
-* Carchi
-* Pichincha
-* Loja
-* Cañar
-* Azuay
-* Bolívar
-* Zamora Chinchipe
-* Imbabura
-* Napo
-* El Oro
-* Santa Elena
-* Cotopaxi
-* Manabí
-* Galápagos
-* Orellana
-
-Bus de transporte atropelló a dos personas en el sur de Quito
-=============================================================
-
-El siniestro de tránsito tuvo un resultado fatal: un adulto mayor falleció, mientras que un menor de edad resulto herido.
--------------------------------------------------------------------------------------------------------------------------
-
-![El atropellamiento se registró en el sector de Santa Anita, en el sur de la ciudad](https://www.elcomercio.com/wp-content/uploads/2024/09/bus-atropello.jpg)
-
-Un bus de transporte público atropelló a **dos ciudadanos** en el sur de Quito, la mañana de este sábado 21 de setiembre de 2024.
-
-El hecho se reportó pasadas las 11:00, en el sector de **Santa Anita**, en las avenidas Antonio José de Sucre y El Canelo, frente al Centro Comercial Atahualpa.
-
-### Más noticias
-
-* [Una masacre se registró en una peluquería de Quito](https://www.elcomercio.com/actualidad/seguridad/masacre-peluqueria-quito-inseguridad-policia-nacional.html "Una masacre se registró en una peluquería de Quito")
-* [Aeropuerto de Quito suspende sus operaciones y vuelos](https://www.elcomercio.com/actualidad/quito/aeropuerto-quito-suspende-operaciones-vuelos-simulacro-pista-mantenimiento.html "Aeropuerto de Quito suspende sus operaciones y vuelos")
-* [Quito siempre requiere planificación urbana integral](https://www.elcomercio.com/opinion/editorial/quito-siempre-requiere-planificacion-urbana-integral.html "Quito siempre requiere planificación urbana integral")
-
-Adulto mayor falleció
----------------------
-
-Según informó el Ministerio de Salud Pública (**MSP**), producto del siniestro de tránsito una persona de la tercera **falleció**; mientras que un menor de edad resultó **herido**.
-
-El atropellamiento ocurrió cuando un bus del Corredor Sur Occidental que cubría la **ruta R18**, Plaza Artigas-Buenaventura, impactó a los ciudadanos en el carril exclusivo.
-
-Al lugar se trasladaron personal del MSP, Agencia Metropolitana de Tránsito (**AMT**) y una unidad del Servicio de Investigación de Accidentes de Tránsito (SIAT) de la **Policía Nacional**.
-
-Además de **dos ambulancias** y una grúa pesada.
-
-La AMT informó que, debido a la emergencia reportada, el **carril exclusivo** fue cerrado temporalmente en sentido sur-norte.
-
-Agentes de tránsito coordinan la movilidad en el lugar, mientras el cuerpo de la víctima es retirado y la unidad removida.
-
-Mediante una alerta que ingresa al ECU911 Quito a las 11h07, en la Av.Antonio José De Sucre-El Canelo S12 Frente al Centro Comercial Atahualpa, se reporta un accidente de tránsito, existen 2 personas atropelladas, por un bus de transporte público. Siendo las 11:43 MSP informa que una persona de la tercera edad se encuentra fallecida, y 1 menor de edad se encuentra herido AMT informa que se registra cierre del carril exclusivo del corredor Sur Occidental sentido Sur-Norte Recursos: AMT 1 Motocicleta, 1 prueba de alcohotest, 1 grúa pesada MSP 1Ambulancia PPNN 1 unidad de SIAT, 1 ambulancia de DML
-
-Dragonas IDV golea a Barcelona y es campeón de la Superliga Femenina
-====================================================================
-
-Dragonas IDV se impuso, con Nayeli Bolaños como figura y una goleada, ante Barcelona SC en la final de la Superliga Femenina.
------------------------------------------------------------------------------------------------------------------------------
-
-![Karen Páez y Nayeli Bolaños, jugadoras de Dragonas IDV, celebran su triunfo ante Barcelona SC en la final de la Superliga Femenina.](https://www.elcomercio.com/wp-content/uploads/2024/09/20240921128049-fbl-final-femenina-dragonas-idv-barcelona-scaled.jpg)
-
-La final de vuelta de la **Superliga Femenina** tuvo un solo equipo en la cancha y Dragonas IDV se hizo con el título en la temporada 2024. El plantel negriazul revalidó su corona y se hizo con el primer campeonato de su historia en la competencia.
-
-El compromiso de ida ya dejó un favorito y virtual campeón del torneo femenino debido al marcador y al contexto en el que se dio. **Dragonas IDV** había ganado en el Monumental de Guayaquil por 0-1 en el primer cotejo y restaba que defina en Pichincha[.](https://es.wikipedia.org/wiki/Independiente_del_Valle_Femenino)
-
-### Más noticias:
-
-* [Libertad empató con Independiente del Valle y huele a descenso](https://www.elcomercio.com/deportes/futbol/libertad-independiente-valle-tabla-posiciones.html "Libertad empató con Independiente del Valle y huele a descenso")
-* [Dragonas vs. Barcelona por el título de la Superliga Femenina, ¿cuándo juegan?](https://www.elcomercio.com/deportes/futbol/dragonas-independiente-barcelona-superliga-final.html "Dragonas vs. Barcelona por el título de la Superliga Femenina, ¿cuándo juegan?")
-* [Barcelona y Dragonas repiten la final de la Superliga Femenina](https://www.elcomercio.com/deportes/futbol/barcelona-dragonas-final-superliga-femenina.html "Barcelona y Dragonas repiten la final de la Superliga Femenina")
-
-La escuadra de **Sangolquí** tenía la chance levantar el trofeo frente a su gente y el cotejo previo le daba calma e impulso, pues no tuvo inconvenientes en el litoral y, además de la ventaja deportiva por aquel choque, tendría más factores a favor. **Barcelona** se aferraba a la esperanza de dar vuelta a la serie o, por lo menos, estirar el cotejo a la definición en alargues o penales.
-
-Las **negriazules** llegaban, a su vez, invictas durante todo el torneo, pero había un fantasma con respecto a finales previas. El conjunto rayado ya había disputado una **serie de finales**, en total dos, pero no habían logrado ser campeonas.
-
-‘Hat-trick’ de Nayeli Bolaños y Dragonas IDV se hacen con la Superliga
-----------------------------------------------------------------------
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/09/20240921128044-fbl-final-femenina-dragonas-idv-barcelona-1024x683.jpg)
-
-Dragonas mostró un juego superior desde el inicio y llegó con facilidad al área de Barcelona SC. El plantel de **Wendy Villón** no conseguía la manera de contener a sus rivales y tampoco podía tener opciones de generar ataques.
-
-A los 24 minutos del silbatazo inicial, **Nayeli Bolaños** apareció y, al encontrarse en un mano a mano con la golear rival, picó el balón y puso el 1-0 de sombrerito. Tan solo debieron pasar cinco minutos para que la delantera reaparezca y consiga su segundo tanto y el de su equipo.
-
-La situación se complicaba para las **toreras** y las dueñas de casa no pararon. Un vendaval irrefrenable de goles se ciñó sobre el cuadro guayaquileño y a los 35′ cayó el tercero, también de **Bolaños**. Dragonas y su delantera no dejaban dudas de sus capacidades y superioridad.
-
-Karen Páez cerró la goleada de Dragonas IDV sobre Barcelona SC en la Superliga Femenina
----------------------------------------------------------------------------------------
-
-El 3-0 en el compromiso y el 4-0 en el global dejaba a **Dragonas IDV** a milímitros del campeonato. Barcelona SC tenía 45 minutos para marcar cinco goles o, por lo menos, cuatro para alargar el evento.
-
-La reacción torera no apareció y un nuevo gol cayó en contra del la escuadra canaria. Dragonas IDV controlaba el partido y, a los 78′, la colombiana **Karen Páez** fue quien puso el último tanto del compromiso.
-
-El logro une a Dragonas a otras cuatro campeonas de la Superliga Femenina. El equipo hará compañía con un título a **Barcelona, El Nacional y Ñañas**. A los clubes mencionados les supera el Deportivo Cuenca con dos preseas.
-
-John Yeboah asiste y el Venezia obtiene su primer triunfo
-=========================================================
-
-John Yeboah ha tenido un efecto inmediato tras su arribo a la Serie A de Italia y brindó una asistencia en su segundo partido.
-------------------------------------------------------------------------------------------------------------------------------
-
-![John Yeboah en un partido del Venezia, equipo con el que brindó una asistencia, en la Serie A de Italia.](https://www.elcomercio.com/wp-content/uploads/2024/09/Diseno-sin-titulo-32-1.jpg)
-
-El efecto de **John Yeboah** tras su arribo al Venezia de la Serie A de Italia ha sido inmediato y, en su segundo partido, ya creó una jugada de gol y su equipo obtuvo la primera victoria de la temporada. El ecuatoriano ingresó desde el banco y su desempeño sirvió para sentenciar el partido.
-
-Después de una buena **Copa América** con la Selección de Ecuador, el volante lateral llamó la atención del equipo italiano, el cual realizó esfuerzo por incorporarlo. Con la **temporada 2024-2025** ya iniciada, el plantel consiguió cerrar el fichaje del tricolor, quien militaba en el fútbol polaco.
-
-### Más noticias:
-
-* [¿Cómo llega Liga de Quito ante El Nacional en Liga Pro?](https://www.elcomercio.com/deportes/como-va-liga-quito-nacional.html "¿Cómo llega Liga de Quito ante El Nacional en Liga Pro?")
-* [Asistencia de lujo de Moisés Caicedo y victoria del Chelsea](https://www.elcomercio.com/deportes/moises-caicedo-asistencia-chelsea-west-ham.html "Asistencia de lujo de Moisés Caicedo y victoria del Chelsea")
-* [El Nacional ganó 13 veces en el Rodrigo Paz a Liga de Quito](https://www.elcomercio.com/deportes/futbol/el-nacional-triunfo-rodrigo-paz-delgado.html "El Nacional ganó 13 veces en el Rodrigo Paz a Liga de Quito")
-
-Luego de las eliminatorias rumbo al **Mundial 2026**, donde estuvo con la Tri, Yeboah se unió a las actividades del **Venezia**. Pese a que llegó como uno de los refuerzos estelares y se le otorgó el dorsal número 10, el futbolista aún no ha sido incluido entre los inicialistas, sin embargo, tras su desempeño y el periodo de adaptación, este luce con potencial para se uno de los jugadores fijos en el once titular.
-
-Su debut se llevó a cabo frente al **AC Milan**, donde este no pudo revertir la situación adversa de su escuadra y esta cayó por 4-0. En el segundo partido, la situación fue distinta y tras su ingreso se selló el 2-0.
-
-La asistencia y el triunfo de John Yeboah en el Venezia
--------------------------------------------------------
-
-> ¡CON ASISTENCIA ECUATORIANA!  
->   
-> 🇪🇨 John Yeboah y su primera asistencia en el fútbol italiano, con una gran acción individual y el centro para el gol de Pohjanpalo.  
->   
-> ▶️ Más 🇮🇹 [#SerieA](https://twitter.com/hashtag/SerieA?src=hash&ref_src=twsrc%5Etfw) en [#DisneyPlus](https://twitter.com/hashtag/DisneyPlus?src=hash&ref_src=twsrc%5Etfw). [pic.twitter.com/cpEVHGL24M](https://t.co/cpEVHGL24M)
-> 
-> — ESPN Ecuador (@ESPNEcuador) [September 21, 2024](https://twitter.com/ESPNEcuador/status/1837505651049746717?ref_src=twsrc%5Etfw)
-
-En la quinta fecha de la **Serie A de Italia**, el Venezia enfrentaba como local al Genoa. Los venecianos partían con el objetivo de mejorar sus resultados previos, pues solo sumaban un punto después de tres derrotas y un empate[.](https://es.wikipedia.org/wiki/Venezia_Football_Club)
-
-El cotejo lució parejo y, en el segundo tiempo, el conjunto local consiguió marcar las diferencias. Aunque no hubo una s**uperioridad marcada** sobre el cuadro genovés, sí contaron las individualidades y el saber aprovechar ocasiones puntuales.
-
-A los 63′, Gianluca Busio consiguió marcar el primer tanto. Cuatro minutos después se produjo el ingreso de **Yeboah**, quien en el cierre del compromiso puso la asistencia para que **Joel Pohjanpalo** cierre la victoria.
-
-Corrían los 85′ cuando **John Yeboah** recibió la pelota en el flanco derecho. Decidió encarar hacia adentro y, con gambeta y la pierna zurda, confundió y dejó atrás a dos rivales para pisar el área. Con su extremidad diestra, este envió un centro medido y en diagonal para que el delantero finlandés empuje la pelota.
-
-¿Cómo marcha y qué le espera al Venezia?
-----------------------------------------
-
-El triunfo catapulta al Venezia hacia la decimocuarta posición de la **Serie A** de Italia. Con cuatro puntos, la escuadra consigue salir de la zona de descenso y alejarse de ella.
-
-El siguiente partido del equipo de **John Yeboah** será como visitante ante la Roma. Las escuadras se medirán el domingo 29 de septiembre del 2024.
-
-Worlds 2024 de League of Legends iniciará con los Play-In
-=========================================================
-
-Los equipos más poderosos de League of Legends se enfrentan en Worlds 2024, con la final programada para el 2 de noviembre en el O2 Arena.
-------------------------------------------------------------------------------------------------------------------------------------------
-
-![Faker y T1 jugando la final de Worlds de 2023 en Corea.](https://www.elcomercio.com/wp-content/uploads/2024/09/faker.png)
-
-El **campeonato mundial de League of Legends** (**Worlds 2024**) está programado para comenzar el **25 de septiembre de 2024 y culminará con la gran final el 2 de noviembre**.
-
-### Más noticias
-
-* [Gamers de Ecuador que debes conocer si te gustan los videojuegos](https://www.elcomercio.com/afull/gamers-ecuador-videojuegos.html "Gamers de Ecuador que debes conocer si te gustan los videojuegos")
-* [Nikita, la elegida para proteger a la hija del Presidente de Free Fire](https://www.elcomercio.com/afull/nikita-guardaespaldas-hija-presidente-free-fire.html "Nikita, la elegida para proteger a la hija del Presidente de Free Fire")
-* [¡Feliz Día Mundial del Videojuego y Día Nacional del Gamer!](https://www.elcomercio.com/afull/dia-mundial-videojuego-dia-nacional-gamer-efemeride.html "¡Feliz Día Mundial del Videojuego y Día Nacional del Gamer! ")
-
-Este torneo es uno de los eventos de esports más esperados del año, donde los mejores equipos de todo el mundo competirán por el **prestigioso título** y el codiciado trofeo, la **Copa del Invocador**.
-
-Primeras fases de Worlds 2024
------------------------------
-
-El campeonato se desarrollará en **varias fases**. La primera etapa, conocida como **Play-In**, se llevará a cabo del **25 al 29 de septiembre en Berlín, Alemania**. En esta etapa, equipos de regiones emergentes como **América Latina, Japón y Vietnam** lucharán por cuatro lugares en la siguiente fase.
-
-Luego, del 3 al 13 de octubre, los equipos preclasificados y los que avanzaron del **Play-In** competirán en el **sistema suizo en Berlín**, donde se definirá quiénes avanzarán a los enfrentamientos de eliminación directa.
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/09/worlds-2024-1-1024x683.png)
-
-La vista del stage en la final de League of Legends del año 2023 en Seúl, Corea. Foto: Flickr LoL Esports
-
-La etapa de eliminación, que incluye los cuartos de final y las semifinales, se celebrará del 17 al 27 de octubre en el **Adidas Arena de París, Francia**. Finalmente, la **gran final se jugará el 2 de noviembre** en el O2 Arena de Londres, uno de los recintos más importantes del **Reino Unido**, que ha sido sede de grandes **eventos deportivos y conciertos de renombre**.
-
-Premios en los Worlds 2024
---------------------------
-
-Este año, **20 equipos participarán en el torne**o. El ganador se llevará una parte del premio total de **2 225 000 de dólares, con 450 000 dólares reservados para el campeó**n. Equipos destacados como **Gen.G**, **G2 Esports y Bilibili Gaming** se perfilan como grandes contendientes para alzarse con la victoria, luego de un impresionante rendimiento en sus respectivas **ligas regionales**.
-
-Además, uno de los momentos más esperados por los fanáticos será la presentación del himno oficial de Worlds 2024, que se estrenará el **24 de septiembre**. Los himnos de League of Legends suelen contar con la participación de **artistas de renombre, añadiendo emoción y espectáculo al evento**.
-
-Los partidos serán **transmitidos en vivo** a través de diversas plataformas, lo que permitirá a millones de espectadores en todo el mundo seguir cada enfrentamiento desde el inicio hasta la gran final​. Uno de los canales más importantes que retransmitirá es de [Ibai Llanos](https://es.wikipedia.org/wiki/Ibai_Llanos "https://es.wikipedia.org/wiki/Ibai_Llanos"), uno de los streamers más famosos del mundo que se hizo conocido gracias al mundo del **League of Legends**.
-
-¿Qué equipos participarán?
---------------------------
-
-### Equipos clasificados para el Play-In:
-
-Estos equipos competirán en la fase inicial del torneo, luchando por un lugar en la siguiente etapa:
-
-1. **Fukuoka SoftBank HAWKS Gaming** (LJL – Japón)
-2. **GAM Esports** (VCS – Vietnam)
-3. **Viking Esports** (LLA – Latinoamérica)
-4. **paiN Gaming** (CBLOL – Brasil)
-5. **Movistar R7** (LLA – Latinoamérica)
-6. **MAD Lions KOI** (LEC – Europa)
-7. **100 Thieves** (LCS – Norteamérica)
-8. **PSG Talon** (PCS – Taiwán/Hong Kong/Sudeste Asiático)
-
-> Introducing LoL Esports Global Power Rankings powered by [@awscloud](https://twitter.com/awscloud?ref_src=twsrc%5Etfw)! [#Worlds2024](https://twitter.com/hashtag/Worlds2024?src=hash&ref_src=twsrc%5Etfw)  
->   
-> All the info: [https://t.co/jUnYJus0en](https://t.co/jUnYJus0en) [pic.twitter.com/d9OwjnU8q1](https://t.co/d9OwjnU8q1)
-> 
-> — LoL Esports (@lolesports) [September 19, 2024](https://twitter.com/lolesports/status/1836817569954607138?ref_src=twsrc%5Etfw)
-
-### Equipos clasificados para la fase suiza:
-
-Estos equipos ya tienen un lugar asegurado en la fase suiza debido a su desempeño en las ligas principales:
-
-1. **LNG Esports** (LPL – China)
-2. **Weibo Gaming** (LPL – China)
-3. **G2 Esports** (LEC – Europa)
-4. **Fnatic** (LEC – Europa)
-5. **FlyQuest** (LCS – Norteamérica)
-6. **Team Liquid** (LCS – Norteamérica)
-7. **Hanwha Life Esports** (LCK – Corea)
-8. **Gen.G** (LCK – Corea)
-9. **Bilibili Gaming** (LPL – China)
-10. **Top Esports** (LPL – China)
-11. **T1** (LCK – Corea)
-12. **Dplus KIA** (LCK – Corea)
-
-Horarios en Ecuador para ver los partidos de League of Legends
---------------------------------------------------------------
-
-### **Play-In**
-
-* Fecha: 25-29 de septiembre.
-* Lugar: Riot Games Arena, Berlín, Alemania.
-* **Hora en Ecuador:** 07:00
-
-### **Formato suizo**
-
-* Fechas: 3-7 de octubre y 10-13 de octubre.
-* Lugar: Riot Games Arena, Berlín, Alemania.
-* **Hora en Ecuador:** 07:00
-
-### **Cuartos de Final/Semifinales:**
-
-* Fechas: 17-20 de octubre y 26-27 de octubre.
-* Lugar: Adidas Arena, París, Francia.
-* **Hora en Ecuador:** 07:00.
-* El domingo 27 de octubre será a las 08:00.
-
-### **Finales:**
-
-* Fecha: 2 de noviembre.
-* Lugar: The O2, Londres, Reino Unido.
-* **Hora en Ecuador:** 09:00 (La ceremonia iniciará a las 07:00).
+Este problema es consecuencia del tratamiento de radioterapia que recibió en dicha zona por un **tumor maligno** del que fue tratado.
