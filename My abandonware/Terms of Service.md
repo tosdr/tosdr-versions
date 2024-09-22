@@ -85,11 +85,11 @@ Top downloads
 
 Latest releases
 
-* [Jurassic Park](https://www.myabandonware.com/game/jurassic-park-sg4)
-* [Magical Spot](https://www.myabandonware.com/game/magical-spot-sg3)
-* [Judge Dredd](https://www.myabandonware.com/game/judge-dredd-sg2)
-* [Magical Night Dreams: Cotton 2](https://www.myabandonware.com/game/magical-night-dreams-cotton-2-nfx)
-* [Magical Night Dreams: Cotton Boomerang](https://www.myabandonware.com/game/magical-night-dreams-cotton-boomerang-n8d)
+* [West Somerset Railway](https://www.myabandonware.com/game/west-somerset-railway-s02)
+* [Hyper Bishi Bashi Champ](https://www.myabandonware.com/game/hyper-bishi-bashi-champ-sgd)
+* [Indian Battle](https://www.myabandonware.com/game/indian-battle-sgc)
+* [Killer Instinct 2](https://www.myabandonware.com/game/killer-instinct-2-sgb)
+* [Imola Grand Prix](https://www.myabandonware.com/game/imola-grand-prix-sga)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [Facebook](https://www.facebook.com/myabandonware) or [X (Twitter)](https://x.com/myabandonware)
