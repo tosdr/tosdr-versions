@@ -48,7 +48,7 @@ SEARCH
 
 [My Account](https://www.cricbuzz.com/premium-subscription/user/account-info "My Account") Sign Out
 
-[MATCHES](https://www.cricbuzz.com/cricket-match/live-scores)[IND vs BAN - Stumps](https://www.cricbuzz.com/live-cricket-scores/100220/ind-vs-ban-1st-test-bangladesh-tour-of-india-2024 "India v Bangladesh, 1st Test - Stumps")[GAW vs ABF - Preview](https://www.cricbuzz.com/live-cricket-scores/92892/gaw-vs-abf-23rd-match-caribbean-premier-league-2024 "Guyana Amazon Warriors v Antigua and Barbuda Falcons, 23rd Match - Preview")[SL vs NZ - Stumps](https://www.cricbuzz.com/live-cricket-scores/105962/sl-vs-nz-1st-test-new-zealand-tour-of-sri-lanka-2024 "Sri Lanka v New Zealand, 1st Test - Stumps")[AFG vs RSA - Preview](https://www.cricbuzz.com/live-cricket-scores/103861/afg-vs-rsa-3rd-odi-afghanistan-v-south-africa-in-uae-2024 "Afghanistan v South Africa, 3rd ODI - Preview")[AUS vs ENG - AUS Won](https://www.cricbuzz.com/live-cricket-scores/76556/aus-vs-eng-2nd-odi-australia-tour-of-england-2024 "Australia v England, 2nd ODI - AUS Won")
+[MATCHES](https://www.cricbuzz.com/cricket-match/live-scores)[GAW vs ABF - Live](https://www.cricbuzz.com/live-cricket-scores/92892/gaw-vs-abf-23rd-match-caribbean-premier-league-2024 "Guyana Amazon Warriors v Antigua and Barbuda Falcons, 23rd Match - Live")[IND vs BAN - Stumps](https://www.cricbuzz.com/live-cricket-scores/100220/ind-vs-ban-1st-test-bangladesh-tour-of-india-2024 "India v Bangladesh, 1st Test - Stumps")[SL vs NZ - Stumps](https://www.cricbuzz.com/live-cricket-scores/105962/sl-vs-nz-1st-test-new-zealand-tour-of-sri-lanka-2024 "Sri Lanka v New Zealand, 1st Test - Stumps")[AFG vs RSA - Preview](https://www.cricbuzz.com/live-cricket-scores/103861/afg-vs-rsa-3rd-odi-afghanistan-v-south-africa-in-uae-2024 "Afghanistan v South Africa, 3rd ODI - Preview")[BR vs SLK - Preview](https://www.cricbuzz.com/live-cricket-scores/92901/br-vs-slk-24th-match-caribbean-premier-league-2024 "Barbados Royals v Saint Lucia Kings, 24th Match - Preview")
 
 AllLive NowToday
 
@@ -62,11 +62,7 @@ AllLive NowToday
     
 * England v Australia, 2024
     
-    [England vs Australia](https://www.cricbuzz.com/live-cricket-scores/76549/eng-vs-aus-1st-odi-england-v-australia-2024 "England v Australia, 1st ODI - AUS Won")
-    
-    1st ODI
-    
-* [Australia vs England](https://www.cricbuzz.com/live-cricket-scores/76556/aus-vs-eng-2nd-odi-england-v-australia-2024 "Australia v England, 2nd ODI - AUS Won")
+    [Australia vs England](https://www.cricbuzz.com/live-cricket-scores/76556/aus-vs-eng-2nd-odi-england-v-australia-2024 "Australia v England, 2nd ODI - AUS Won")
     
     2nd ODI
     
@@ -118,13 +114,13 @@ AllLive NowToday
     
     2nd Match
     
-* [Cameroon vs Mali](https://www.cricbuzz.com/live-cricket-scores/106187/cam-vs-mali-4th-match-icc-mens-ar-t20wcqa "Cameroon v Mali, 4th Match - Upcoming")
-    
-    4th Match
-    
 * [Ghana vs Malawi](https://www.cricbuzz.com/live-cricket-scores/106195/gh-vs-mwi-5th-match-icc-mens-ar-t20wcqa "Ghana v Malawi, 5th Match - Upcoming")
     
     5th Match
+    
+* [Cameroon vs Mali](https://www.cricbuzz.com/live-cricket-scores/106187/cam-vs-mali-4th-match-icc-mens-ar-t20wcqa "Cameroon v Mali, 4th Match - Upcoming")
+    
+    4th Match
     
 * [Lesotho vs Tanzania](https://www.cricbuzz.com/live-cricket-scores/106203/lso-vs-tan-6th-match-icc-mens-ar-t20wcqa "Lesotho v Tanzania, 6th Match - Upcoming")
     
@@ -146,7 +142,7 @@ AllLive NowToday
     
     22nd Match
     
-* [Guyana Amazon Warriors vs Antigua and Barbuda Falcons](https://www.cricbuzz.com/live-cricket-scores/92892/gaw-vs-abf-23rd-match-cpl-2024 "Guyana Amazon Warriors v Antigua and Barbuda Falcons, 23rd Match - Preview")
+* [Guyana Amazon Warriors vs Antigua and Barbuda Falcons  LIVE](https://www.cricbuzz.com/live-cricket-scores/92892/gaw-vs-abf-23rd-match-cpl-2024 "Guyana Amazon Warriors v Antigua and Barbuda Falcons, 23rd Match - Live")
     
     23rd Match
     
@@ -154,7 +150,7 @@ AllLive NowToday
     
     24th Match
     
-* [Trinbago Knight Riders vs St Kitts and Nevis Patriots](https://www.cricbuzz.com/live-cricket-scores/92905/tkr-vs-snp-25th-match-cpl-2024 "Trinbago Knight Riders v St Kitts and Nevis Patriots, 25th Match - Upcoming")
+* [Trinbago Knight Riders vs St Kitts and Nevis Patriots](https://www.cricbuzz.com/live-cricket-scores/92905/tkr-vs-snp-25th-match-cpl-2024 "Trinbago Knight Riders v St Kitts and Nevis Patriots, 25th Match - Preview")
     
     25th Match
     
@@ -168,7 +164,7 @@ AllLive NowToday
     
     2nd Match
     
-* [Bulawayo Brave Jaguars vs Nys Lagos](https://www.cricbuzz.com/live-cricket-scores/106732/blbj-vs-nysl-3rd-match-zim-afro-t10-2024 "Bulawayo Brave Jaguars v Nys Lagos, 3rd Match - Complete")
+* [Bulawayo Brave Jaguars vs Nys Lagos](https://www.cricbuzz.com/live-cricket-scores/106732/blbj-vs-nysl-3rd-match-zim-afro-t10-2024 "Bulawayo Brave Jaguars v Nys Lagos, 3rd Match - NYSL Won")
     
     3rd Match
     
@@ -264,13 +260,17 @@ AllLive NowToday
     
 * Australia Domestic One-Day Cup 2024-25
     
-    [New South Wales vs Western Australia](https://www.cricbuzz.com/live-cricket-scores/103105/nsw-vs-wa-1st-match-australia-domestic-one-day-cup-2024-25 "New South Wales v Western Australia, 1st Match - Preview")
+    [New South Wales vs Western Australia  LIVE](https://www.cricbuzz.com/live-cricket-scores/103105/nsw-vs-wa-1st-match-australia-domestic-one-day-cup-2024-25 "New South Wales v Western Australia, 1st Match - Live")
     
     1st Match
     
 * [Victoria vs Tasmania](https://www.cricbuzz.com/live-cricket-scores/103114/vic-vs-tas-2nd-match-australia-domestic-one-day-cup-2024-25 "Victoria v Tasmania, 2nd Match - Upcoming")
     
     2nd Match
+    
+* [Western Australia vs South Australia](https://www.cricbuzz.com/live-cricket-scores/103123/wa-vs-saus-3rd-match-australia-domestic-one-day-cup-2024-25 "Western Australia v South Australia, 3rd Match - Upcoming")
+    
+    3rd Match
     
 * Australia Under 19 tour of India
     
@@ -653,37 +653,37 @@ This Privacy Policy (the “**Privacy Policy**”) serves to inform you of our p
 
 [Roston Chase, Alzarri Joseph decimate Barbados Royals](https://www.cricbuzz.com/cricket-news/131709/roston-chase-alzarri-joseph-decimate-barbados-royals "Roston Chase, Alzarri Joseph decimate Barbados Royals")
 
-1h ago
+7h ago
 
   [](https://www.cricbuzz.com/cricket-news/131708/carey-bowlers-power-australia-to-2-0-lead "Carey, bowlers power Australia to 2-0 lead")
 
 [Carey, bowlers power Australia to 2-0 lead](https://www.cricbuzz.com/cricket-news/131708/carey-bowlers-power-australia-to-2-0-lead "Carey, bowlers power Australia to 2-0 lead")
 
-1h ago
+7h ago
 
   [](https://www.cricbuzz.com/cricket-news/131707/gill-pant-glide-and-gallop-on-an-unforgiving-day-of-runs "Gill, Pant glide and gallop on an unforgiving day of runs")
 
 [Gill, Pant glide and gallop on an unforgiving day of runs](https://www.cricbuzz.com/cricket-news/131707/gill-pant-glide-and-gallop-on-an-unforgiving-day-of-runs "Gill, Pant glide and gallop on an unforgiving day of runs")
 
-2h ago
+8h ago
 
   [](https://www.cricbuzz.com/cricket-news/131706/combined-bowling-effort-helps-england-restrict-australia-to-270 "Combined bowling effort helps England restrict Australia to 270")
 
 [Combined bowling effort helps England restrict Australia to 270](https://www.cricbuzz.com/cricket-news/131706/combined-bowling-effort-helps-england-restrict-australia-to-270 "Combined bowling effort helps England restrict Australia to 270")
 
-5h ago
+11h ago
 
   [](https://www.cricbuzz.com/cricket-news/131705/hemp-urges-bangladesh-batters-to-cash-in-after-starts "Hemp urges Bangladesh batters to 'cash in' after starts")
 
 [Hemp urges Bangladesh batters to 'cash in' after starts](https://www.cricbuzz.com/cricket-news/131705/hemp-urges-bangladesh-batters-to-cash-in-after-starts "Hemp urges Bangladesh batters to 'cash in' after starts")
 
-5h ago
+11h ago
 
   [](https://www.cricbuzz.com/cricket-news/131704/ricky-bhui-nears-another-ton-as-india-d-take-lead-past-300 "Ricky Bhui, Shreyas Iyer push India D's lead past 300")
 
 [Ricky Bhui, Shreyas Iyer push India D's lead past 300](https://www.cricbuzz.com/cricket-news/131704/ricky-bhui-nears-another-ton-as-india-d-take-lead-past-300 "Ricky Bhui, Shreyas Iyer push India D's lead past 300")
 
-6h ago
+12h ago
 
 [More News](https://www.cricbuzz.com/cricket-news "Click to view more News")
 
