@@ -2,14 +2,14 @@ Sunday, September 22 2024
 
 Breaking News
 
+* [Steve Kornacki Describes Massive ‘Gender Gap’ Between Trump, Harris In New Poll](https://www.conservativedailynews.com/2024/09/steve-kornacki-describes-massive-gender-gap-between-trump-harris-in-new-poll/)
+* [Biden Stumbles Towards World War III](https://www.conservativedailynews.com/2024/09/biden-stumbles-towards-world-war-iii/)
+* [We Are Being “Punked” By Kamala And Crew](https://www.conservativedailynews.com/2024/09/we-are-being-punked-by-kamala-and-crew/)
+* [John Fetterman Admits Trump Has ‘Special’ Bond With Key Swing-State Voters](https://www.conservativedailynews.com/2024/09/john-fetterman-admits-trump-has-special-bond-with-key-swing-state-voters/)
+* [Gender Ideology Is The New ‘Parental Alienation’](https://www.conservativedailynews.com/2024/09/gender-ideology-is-the-new-parental-alienation/)
 * [Defense Secretary’s Last-Minute Decision To Toss 9/11 Plea Deal Likely To Be Rejected By Judge](https://www.conservativedailynews.com/2024/09/defense-secretarys-last-minute-decision-to-toss-9-11-plea-deal-likely-to-be-rejected-by-judge/)
 * [Battleground Voters Don’t Trust Harris — She Seems Phony](https://www.conservativedailynews.com/2024/09/battleground-voters-dont-trust-harris-she-seems-phony/)
 * [Chris Cuomo Fact-Checks AOC Over Israeli Pager Attack](https://www.conservativedailynews.com/2024/09/chris-cuomo-fact-checks-aoc-over-israeli-pager-attack/)
-* [Europe’s EV Market Collapse Provides A Lesson For UAW Leadership](https://www.conservativedailynews.com/2024/09/europes-ev-market-collapse-provides-a-lesson-for-uaw-leadership/)
-* [Democrats Have Nothing To Campaign For — They Just Run Against Trump](https://www.conservativedailynews.com/2024/09/democrats-have-nothing-to-campaign-for-they-just-run-against-trump/)
-* [Black Undecided Swing-State Voter Panel Overwhelmingly Says ‘Economy Was Better Under Trump’](https://www.conservativedailynews.com/2024/09/black-undecided-swing-state-voter-panel-overwhelmingly-says-economy-was-better-under-trump/)
-* [Swing-State Voter Says Biden-Harris Economy, Border Crisis Have Pushed Him To Trump Camp](https://www.conservativedailynews.com/2024/09/swing-state-voter-says-biden-harris-economy-border-crisis-have-pushed-him-to-trump-camp/)
-* [Elon Musk Makes His Largest Known Political Donation Ever To Boost House Republicans](https://www.conservativedailynews.com/2024/09/elon-musk-makes-his-largest-known-political-donation-ever-to-boost-house-republicans/)
 
 * [Sidebar](#)
 * [Random Article](https://www.conservativedailynews.com/privacy-policy/?random-post=1 "Random Article")
@@ -126,57 +126,59 @@ Created using the Donation Thermometer plugin https://wordpress.org/plugins/dona
 
 Recent Posts
 
+* [![Kamala Harris price controls bread line](https://www.conservativedailynews.com/wp-content/uploads/2024/09/gv092224dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/09/bad-ideas/)
+    
+    [Bad Ideas](https://www.conservativedailynews.com/2024/09/bad-ideas/)
+    
+    September 22, 2024
+    
+* [![Kamala Harris 2024 election](https://www.conservativedailynews.com/wp-content/uploads/2024/07/stg072624dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/09/steve-kornacki-describes-massive-gender-gap-between-trump-harris-in-new-poll/)
+    
+    [Steve Kornacki Describes Massive ‘Gender Gap’ Between Trump, Harris In New Poll](https://www.conservativedailynews.com/2024/09/steve-kornacki-describes-massive-gender-gap-between-trump-harris-in-new-poll/)
+    
+    September 22, 2024
+    
+* [![Joe Biden defense israel iran weak war](https://www.conservativedailynews.com/wp-content/uploads/2024/04/stg041524dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/09/biden-stumbles-towards-world-war-iii/)
+    
+    [Biden Stumbles Towards World War III](https://www.conservativedailynews.com/2024/09/biden-stumbles-towards-world-war-iii/)
+    
+    September 22, 2024
+    
+* [![Joe Biden Kamala Harris](https://www.conservativedailynews.com/wp-content/uploads/2023/09/mrz090823dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/09/we-are-being-punked-by-kamala-and-crew/)
+    
+    [We Are Being “Punked” By Kamala And Crew](https://www.conservativedailynews.com/2024/09/we-are-being-punked-by-kamala-and-crew/)
+    
+    September 22, 2024
+    
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/09/John-Fetterman-on-Trump-Pennsylvania-220x150.jpg)](https://www.conservativedailynews.com/2024/09/john-fetterman-admits-trump-has-special-bond-with-key-swing-state-voters/)
+    
+    [John Fetterman Admits Trump Has ‘Special’ Bond With Key Swing-State Voters](https://www.conservativedailynews.com/2024/09/john-fetterman-admits-trump-has-special-bond-with-key-swing-state-voters/)
+    
+    September 22, 2024
+    
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2023/04/02-kidsgender-an-1080.jpg)](https://www.conservativedailynews.com/2024/09/gender-ideology-is-the-new-parental-alienation/)
+    
+    [Gender Ideology Is The New ‘Parental Alienation’](https://www.conservativedailynews.com/2024/09/gender-ideology-is-the-new-parental-alienation/)
+    
+    September 22, 2024
+    
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/09/04-hezcom-ci-1080-220x150.jpg)](https://www.conservativedailynews.com/2024/09/hezbollah-leaders-killed-in-israeli-air-strike-on-beirut/)
+    
+    [Hezbollah Leaders Killed In Israeli Air Strike On Beirut](https://www.conservativedailynews.com/2024/09/hezbollah-leaders-killed-in-israeli-air-strike-on-beirut/)
+    
+    September 22, 2024
+    
 * [![](https://www.conservativedailynews.com/wp-content/uploads/2020/12/Lloyd-Austin-220x150.jpg)](https://www.conservativedailynews.com/2024/09/defense-secretarys-last-minute-decision-to-toss-9-11-plea-deal-likely-to-be-rejected-by-judge/)
     
     [Defense Secretary’s Last-Minute Decision To Toss 9/11 Plea Deal Likely To Be Rejected By Judge](https://www.conservativedailynews.com/2024/09/defense-secretarys-last-minute-decision-to-toss-9-11-plea-deal-likely-to-be-rejected-by-judge/)
     
     September 22, 2024
     
-* [![Kamala Harris is fake 2024 election](https://www.conservativedailynews.com/wp-content/uploads/2024/08/stg080224dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/09/battleground-voters-dont-trust-harris-she-seems-phony/)
-    
-    [Battleground Voters Don’t Trust Harris — She Seems Phony](https://www.conservativedailynews.com/2024/09/battleground-voters-dont-trust-harris-she-seems-phony/)
-    
-    September 22, 2024
-    
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/09/04-kit-gloves-an-1080a-220x150.jpg)](https://www.conservativedailynews.com/2024/09/in-loving-arms/)
-    
-    [In Loving Arms](https://www.conservativedailynews.com/2024/09/in-loving-arms/)
-    
-    September 22, 2024
-    
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2019/06/Alexandra-Ocasio-Cortez-19.jpg)](https://www.conservativedailynews.com/2024/09/chris-cuomo-fact-checks-aoc-over-israeli-pager-attack/)
-    
-    [Chris Cuomo Fact-Checks AOC Over Israeli Pager Attack](https://www.conservativedailynews.com/2024/09/chris-cuomo-fact-checks-aoc-over-israeli-pager-attack/)
-    
-    September 22, 2024
-    
-* [![Kamala Harris word salad incoherent](https://www.conservativedailynews.com/wp-content/uploads/2024/09/stg092224dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/09/zero-clarity/)
-    
-    [Zero Clarity](https://www.conservativedailynews.com/2024/09/zero-clarity/)
-    
-    September 22, 2024
-    
-* [![Hezbollah pagers Israel](https://www.conservativedailynews.com/wp-content/uploads/2024/09/mrz092224dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/09/karma-is-calling/)
-    
-    [Karma is Calling](https://www.conservativedailynews.com/2024/09/karma-is-calling/)
-    
-    September 22, 2024
-    
-* [![Joe Biden electric vehicles union](https://www.conservativedailynews.com/wp-content/uploads/2023/09/image-4-220x150.png)](https://www.conservativedailynews.com/2024/09/europes-ev-market-collapse-provides-a-lesson-for-uaw-leadership/)
-    
-    [Europe’s EV Market Collapse Provides A Lesson For UAW Leadership](https://www.conservativedailynews.com/2024/09/europes-ev-market-collapse-provides-a-lesson-for-uaw-leadership/)
-    
-    September 21, 2024
-    
-* [![Kamala Harris Donald Trump 2024 election platforms](https://www.conservativedailynews.com/wp-content/uploads/2024/09/04-platforms-sm-1080-220x150.jpg)](https://www.conservativedailynews.com/2024/09/democrats-have-nothing-to-campaign-for-they-just-run-against-trump/)
-    
-    [Democrats Have Nothing To Campaign For — They Just Run Against Trump](https://www.conservativedailynews.com/2024/09/democrats-have-nothing-to-campaign-for-they-just-run-against-trump/)
-    
-    September 21, 2024
-    
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
 
+* [VIDEO: What Are Your’s and Your Children’s Rights Should Their Schools Ask About Guns](https://www.thegunpage.com/video-what-are-yours-and-your-childrens-rights-should-their-schools-ask-about-guns/10610736)
+* [Bad Science, Faulty Studies Continue Attacks on Hunting, Lead Ammo](https://www.thegunpage.com/bad-science-faulty-studies-continue-attacks-on-hunting-lead-ammo/10610732)
 * [Silencer Saturday #347: The Silencer Central Banish 46-V2](https://www.thegunpage.com/silencer-saturday-347-the-silencer-central-banish-46-v2/10610730)
 * [Paris Olympics: U.S. Skeet Triumph](https://www.thegunpage.com/paris-olympics-u-s-skeet-triumph/10610729)
 * [Stoeger Presents “The Opener” a New Short Film on One Duck Hunting Tradition](https://www.thegunpage.com/stoeger-presents-the-opener-a-new-short-film-on-one-duck-hunting-tradition/10610725)
@@ -185,8 +187,6 @@ Recent Posts
 * [Serbian AKs, Part 6: Morana, an Ambitious AK Upgrade Program](https://www.thegunpage.com/serbian-aks-part-6-morana-an-ambitious-ak-upgrade-program/10610717)
 * [POTD: Joe Easter – Running & Gunning A KelTec RDB](https://www.thegunpage.com/potd-joe-easter-running-gunning-a-keltec-rdb/10610714)
 * [TFB Podcast Roundup 147: The September 20th Roundup](https://www.thegunpage.com/tfb-podcast-roundup-147-the-september-20th-roundup/10610715)
-* [Shooter’s Product Preview: SnapSafe Super Titan](https://www.thegunpage.com/shooters-product-preview-snapsafe-super-titan/10610711)
-* [Anti-Gunners Distort Evidence on Defensive Firearms Uses](https://www.thegunpage.com/anti-gunners-distort-evidence-on-defensive-firearms-uses/10610709)
 
 [![ Conservative Political Blogs](https://blog.feedspot.com/wp-content/uploads/2016/12/conservative_political_216px.png?x58297)](https://blog.feedspot.com/conservative_political_blogs/ "Conservative Political Blogs")
 
@@ -228,6 +228,7 @@ Contact Us
 
 Recent Comments
 
+* Dr. Ramon Argila deTorres y Sandoval on [Zero Clarity](https://www.conservativedailynews.com/2024/09/zero-clarity/#comment-782260)
 * Adonis on [Chris Cuomo Fact-Checks AOC Over Israeli Pager Attack](https://www.conservativedailynews.com/2024/09/chris-cuomo-fact-checks-aoc-over-israeli-pager-attack/#comment-782256)
 * charles wilkins on [Zero Clarity](https://www.conservativedailynews.com/2024/09/zero-clarity/#comment-782254)
 * charles wilkins on [Priorities](https://www.conservativedailynews.com/2024/09/priorities-5/#comment-782234)
@@ -236,7 +237,6 @@ Recent Comments
 * Jim on [Caption This…](https://www.conservativedailynews.com/2024/09/caption-this/#comment-782189)
 * charles wilkins on [Dangerous Rhetoric](https://www.conservativedailynews.com/2024/09/dangerous-rhetoric/#comment-782180)
 * KayCee on [Dazed and Confused](https://www.conservativedailynews.com/2024/09/dazed-and-confused-3/#comment-782173)
-* KayCee on [The Reasons Young Women Embrace the Left Do Not Reflect Well on Those Women](https://www.conservativedailynews.com/2024/09/the-reasons-young-women-embrace-the-left-do-not-reflect-well-on-those-women/#comment-782172)
 
 [Close](#)
 
