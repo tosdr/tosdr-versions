@@ -34,11 +34,11 @@ The Autumn Promptathon is Coming
 
 [](javascript:ShowNextAnnouncement(false,'next'))
 
+[](https://amzn.to/2BA10no)
+
+[](https://drawabox.com/rec/uncomfortable/whattodraw)
+
 [](https://amzn.to/3KZMtFM)
-
-[](https://amzn.to/4cdoFKu)
-
-[](https://amzn.to/4cDKBhz)
 
 [](https://drawabox.com/rec/zapata/shading)
 
