@@ -19,6 +19,18 @@
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![An example of the pod-style bedrooms CoDE Hostels equips its venues with. Image: Southwark Planning Documents](https://southwarknews.co.uk/wp-content/uploads/2024/09/An-example-of-the-pod-style-bedrooms-CoDE-Hostels-equips-its-venues-with.-Image-Southwark-Planning-Documents-360x180.jpg)](https://southwarknews.co.uk/area/walworth/new-walworth-hotel-could-house-570-asian-style-pod-bedrooms/)
+    
+    ### [New Walworth hotel could house 570 ‘Asian style’ pod bedrooms](https://southwarknews.co.uk/area/walworth/new-walworth-hotel-could-house-570-asian-style-pod-bedrooms/)
+    
+    [![Trademark version](https://southwarknews.co.uk/wp-content/uploads/2024/09/trademark-version-360x180.jpg)](https://southwarknews.co.uk/area/bermondsey/bermondseys-long-forgotten-ginger-beer/)
+    
+    ### [Bermondsey’s long-forgotten ginger beer](https://southwarknews.co.uk/area/bermondsey/bermondseys-long-forgotten-ginger-beer/)
+    
+    [![A young person riding a bike wearing black clothing and a bandana](https://southwarknews.co.uk/wp-content/uploads/2024/09/A-young-person-riding-a-bike-wearing-black-clothing-and-a-bandana-360x180.jpg)](https://southwarknews.co.uk/area/southwark/exclusive-next-to-zero-chance-phone-snatchers-will-be-jailed-shocking-analysis-shows/)
+    
+    ### [Exclusive: Next to zero chance phone snatchers will be jailed, shocking analysis shows](https://southwarknews.co.uk/area/southwark/exclusive-next-to-zero-chance-phone-snatchers-will-be-jailed-shocking-analysis-shows/)
+    
     [![Joe Aspinall aged 85](https://southwarknews.co.uk/wp-content/uploads/2024/09/DSC_0616-360x180.jpg)](https://southwarknews.co.uk/area/bermondsey/the-record-breaking-85-year-old-bermondsey-runner/)
     
     ### [The record-breaking 85-year-old Bermondsey runner](https://southwarknews.co.uk/area/bermondsey/the-record-breaking-85-year-old-bermondsey-runner/)
@@ -43,18 +55,6 @@
     [![Those behind the new Lower Road cycle lane met politicians and business owners on site in May](https://southwarknews.co.uk/wp-content/uploads/2024/09/image002-360x180.jpeg)](https://southwarknews.co.uk/area/rotherhithe/southwark-council-to-consider-putting-second-traffic-lane-on-lower-road-says-local-councillor/)
     
     ### [Southwark Council to consider putting second traffic lane on Lower Road, says local councillor](https://southwarknews.co.uk/area/rotherhithe/southwark-council-to-consider-putting-second-traffic-lane-on-lower-road-says-local-councillor/)
-    
-    [![Max Templer outside a building on the North Peckham estate, South London in July 2024. CREDIT: Robert Firth](https://southwarknews.co.uk/wp-content/uploads/2024/09/IMG_9851-360x180.jpg)](https://southwarknews.co.uk/area/southwark/southwark-council-denies-mishandling-complaints-from-leaseholders-lumped-with-2500-heating-bills/)
-    
-    ### [Southwark Council denies mishandling complaints from leaseholders lumped with £2,500 heating bills](https://southwarknews.co.uk/area/southwark/southwark-council-denies-mishandling-complaints-from-leaseholders-lumped-with-2500-heating-bills/)
-    
-    [![The Great Boat Race is on September 21 (Thames Festival Trust)](https://southwarknews.co.uk/wp-content/uploads/2024/09/Image-22-07-2024-at-09.32-360x180.jpg)](https://southwarknews.co.uk/news/community/great-river-race-to-hit-the-thames-this-saturday-with-300-boats-to-compete/)
-    
-    ### [Great River race to hit the Thames this Saturday with 300 boats to compete](https://southwarknews.co.uk/news/community/great-river-race-to-hit-the-thames-this-saturday-with-300-boats-to-compete/)
-    
-    [![A still taken from footage of the incident. Image: Channel 4](https://southwarknews.co.uk/wp-content/uploads/2024/09/A-still-taken-from-footage-of-the-incident.-Image-Channel-4-360x180.png)](https://southwarknews.co.uk/area/around-south-east-london/policeman-who-pressed-taser-against-16-year-old-boys-neck-gets-final-warning/)
-    
-    ### [Policeman who ‘pressed Taser’ against 16-year-old boy’s neck gets ‘final warning’](https://southwarknews.co.uk/area/around-south-east-london/policeman-who-pressed-taser-against-16-year-old-boys-neck-gets-final-warning/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [In depth history](https://southwarknews.co.uk/category/history/in-depth-history/)
@@ -100,6 +100,18 @@ View All Result
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![An example of the pod-style bedrooms CoDE Hostels equips its venues with. Image: Southwark Planning Documents](https://southwarknews.co.uk/wp-content/uploads/2024/09/An-example-of-the-pod-style-bedrooms-CoDE-Hostels-equips-its-venues-with.-Image-Southwark-Planning-Documents-360x180.jpg)](https://southwarknews.co.uk/area/walworth/new-walworth-hotel-could-house-570-asian-style-pod-bedrooms/)
+    
+    ### [New Walworth hotel could house 570 ‘Asian style’ pod bedrooms](https://southwarknews.co.uk/area/walworth/new-walworth-hotel-could-house-570-asian-style-pod-bedrooms/)
+    
+    [![Trademark version](https://southwarknews.co.uk/wp-content/uploads/2024/09/trademark-version-360x180.jpg)](https://southwarknews.co.uk/area/bermondsey/bermondseys-long-forgotten-ginger-beer/)
+    
+    ### [Bermondsey’s long-forgotten ginger beer](https://southwarknews.co.uk/area/bermondsey/bermondseys-long-forgotten-ginger-beer/)
+    
+    [![A young person riding a bike wearing black clothing and a bandana](https://southwarknews.co.uk/wp-content/uploads/2024/09/A-young-person-riding-a-bike-wearing-black-clothing-and-a-bandana-360x180.jpg)](https://southwarknews.co.uk/area/southwark/exclusive-next-to-zero-chance-phone-snatchers-will-be-jailed-shocking-analysis-shows/)
+    
+    ### [Exclusive: Next to zero chance phone snatchers will be jailed, shocking analysis shows](https://southwarknews.co.uk/area/southwark/exclusive-next-to-zero-chance-phone-snatchers-will-be-jailed-shocking-analysis-shows/)
+    
     [![Joe Aspinall aged 85](https://southwarknews.co.uk/wp-content/uploads/2024/09/DSC_0616-360x180.jpg)](https://southwarknews.co.uk/area/bermondsey/the-record-breaking-85-year-old-bermondsey-runner/)
     
     ### [The record-breaking 85-year-old Bermondsey runner](https://southwarknews.co.uk/area/bermondsey/the-record-breaking-85-year-old-bermondsey-runner/)
@@ -124,18 +136,6 @@ View All Result
     [![Those behind the new Lower Road cycle lane met politicians and business owners on site in May](https://southwarknews.co.uk/wp-content/uploads/2024/09/image002-360x180.jpeg)](https://southwarknews.co.uk/area/rotherhithe/southwark-council-to-consider-putting-second-traffic-lane-on-lower-road-says-local-councillor/)
     
     ### [Southwark Council to consider putting second traffic lane on Lower Road, says local councillor](https://southwarknews.co.uk/area/rotherhithe/southwark-council-to-consider-putting-second-traffic-lane-on-lower-road-says-local-councillor/)
-    
-    [![Max Templer outside a building on the North Peckham estate, South London in July 2024. CREDIT: Robert Firth](https://southwarknews.co.uk/wp-content/uploads/2024/09/IMG_9851-360x180.jpg)](https://southwarknews.co.uk/area/southwark/southwark-council-denies-mishandling-complaints-from-leaseholders-lumped-with-2500-heating-bills/)
-    
-    ### [Southwark Council denies mishandling complaints from leaseholders lumped with £2,500 heating bills](https://southwarknews.co.uk/area/southwark/southwark-council-denies-mishandling-complaints-from-leaseholders-lumped-with-2500-heating-bills/)
-    
-    [![The Great Boat Race is on September 21 (Thames Festival Trust)](https://southwarknews.co.uk/wp-content/uploads/2024/09/Image-22-07-2024-at-09.32-360x180.jpg)](https://southwarknews.co.uk/news/community/great-river-race-to-hit-the-thames-this-saturday-with-300-boats-to-compete/)
-    
-    ### [Great River race to hit the Thames this Saturday with 300 boats to compete](https://southwarknews.co.uk/news/community/great-river-race-to-hit-the-thames-this-saturday-with-300-boats-to-compete/)
-    
-    [![A still taken from footage of the incident. Image: Channel 4](https://southwarknews.co.uk/wp-content/uploads/2024/09/A-still-taken-from-footage-of-the-incident.-Image-Channel-4-360x180.png)](https://southwarknews.co.uk/area/around-south-east-london/policeman-who-pressed-taser-against-16-year-old-boys-neck-gets-final-warning/)
-    
-    ### [Policeman who ‘pressed Taser’ against 16-year-old boy’s neck gets ‘final warning’](https://southwarknews.co.uk/area/around-south-east-london/policeman-who-pressed-taser-against-16-year-old-boys-neck-gets-final-warning/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [In depth history](https://southwarknews.co.uk/category/history/in-depth-history/)
@@ -221,19 +221,37 @@ Terms of Use
 
 [19th September 2024](https://southwarknews.co.uk/area/walworth/social-housing-on-regenerated-ayslesbury-estate-more-expensive-than-normal-council-housing-report-claims/)
 
-[![Injured Josh Coburn. Image: Millwall FC](https://southwarknews.co.uk/wp-content/uploads/2024/09/Coburn-injury-vs-Luton-120x86.jpeg)](https://southwarknews.co.uk/sport/football/millwall/millwall-boss-gives-verdict-after-replacement-striker-inches-away-from-first-lions-goal/)
-
-### [Millwall boss gives verdict after replacement striker inches away from first Lions goal](https://southwarknews.co.uk/sport/football/millwall/millwall-boss-gives-verdict-after-replacement-striker-inches-away-from-first-lions-goal/)
-
-[16th September 2024](https://southwarknews.co.uk/sport/football/millwall/millwall-boss-gives-verdict-after-replacement-striker-inches-away-from-first-lions-goal/)
-
 [![Scanlon against Luton. Image: Millwall FC](https://southwarknews.co.uk/wp-content/uploads/2024/09/Scanlon-Luton-1-120x86.jpeg)](https://southwarknews.co.uk/sport/football/millwall/harris-confirms-millwall-loan-signing-injury-with-player-returning-to-parent-club/)
 
 ### [Harris confirms Millwall loan signing injury with player returning to parent club](https://southwarknews.co.uk/sport/football/millwall/harris-confirms-millwall-loan-signing-injury-with-player-returning-to-parent-club/)
 
 [21st September 2024](https://southwarknews.co.uk/sport/football/millwall/harris-confirms-millwall-loan-signing-injury-with-player-returning-to-parent-club/)
 
+[![Injured Josh Coburn. Image: Millwall FC](https://southwarknews.co.uk/wp-content/uploads/2024/09/Coburn-injury-vs-Luton-120x86.jpeg)](https://southwarknews.co.uk/sport/football/millwall/millwall-boss-gives-verdict-after-replacement-striker-inches-away-from-first-lions-goal/)
+
+### [Millwall boss gives verdict after replacement striker inches away from first Lions goal](https://southwarknews.co.uk/sport/football/millwall/millwall-boss-gives-verdict-after-replacement-striker-inches-away-from-first-lions-goal/)
+
+[16th September 2024](https://southwarknews.co.uk/sport/football/millwall/millwall-boss-gives-verdict-after-replacement-striker-inches-away-from-first-lions-goal/)
+
 ### Featured Articles
+
+[![An example of the pod-style bedrooms CoDE Hostels equips its venues with. Image: Southwark Planning Documents](https://southwarknews.co.uk/wp-content/uploads/2024/09/An-example-of-the-pod-style-bedrooms-CoDE-Hostels-equips-its-venues-with.-Image-Southwark-Planning-Documents-120x86.jpg)](https://southwarknews.co.uk/area/walworth/new-walworth-hotel-could-house-570-asian-style-pod-bedrooms/)
+
+### [New Walworth hotel could house 570 ‘Asian style’ pod bedrooms](https://southwarknews.co.uk/area/walworth/new-walworth-hotel-could-house-570-asian-style-pod-bedrooms/)
+
+[22nd September 2024](https://southwarknews.co.uk/area/walworth/new-walworth-hotel-could-house-570-asian-style-pod-bedrooms/)
+
+[![Trademark version](https://southwarknews.co.uk/wp-content/uploads/2024/09/trademark-version-120x86.jpg)](https://southwarknews.co.uk/area/bermondsey/bermondseys-long-forgotten-ginger-beer/)
+
+### [Bermondsey’s long-forgotten ginger beer](https://southwarknews.co.uk/area/bermondsey/bermondseys-long-forgotten-ginger-beer/)
+
+[22nd September 2024](https://southwarknews.co.uk/area/bermondsey/bermondseys-long-forgotten-ginger-beer/)
+
+[![A young person riding a bike wearing black clothing and a bandana](https://southwarknews.co.uk/wp-content/uploads/2024/09/A-young-person-riding-a-bike-wearing-black-clothing-and-a-bandana-120x86.jpg)](https://southwarknews.co.uk/area/southwark/exclusive-next-to-zero-chance-phone-snatchers-will-be-jailed-shocking-analysis-shows/)
+
+### [Exclusive: Next to zero chance phone snatchers will be jailed, shocking analysis shows](https://southwarknews.co.uk/area/southwark/exclusive-next-to-zero-chance-phone-snatchers-will-be-jailed-shocking-analysis-shows/)
+
+[22nd September 2024](https://southwarknews.co.uk/area/southwark/exclusive-next-to-zero-chance-phone-snatchers-will-be-jailed-shocking-analysis-shows/)
 
 [![Joe Aspinall aged 85](https://southwarknews.co.uk/wp-content/uploads/2024/09/DSC_0616-120x86.jpg)](https://southwarknews.co.uk/area/bermondsey/the-record-breaking-85-year-old-bermondsey-runner/)
 
@@ -253,24 +271,6 @@ Terms of Use
 ### [Elephant & Castle’s new mural with rich Latin American influence](https://southwarknews.co.uk/area/elephant-and-castle/elephant-castles-new-mural-with-rich-latin-american-influence/)
 
 [21st September 2024](https://southwarknews.co.uk/area/elephant-and-castle/elephant-castles-new-mural-with-rich-latin-american-influence/)
-
-[![Monica Walker Old Operating Theatre](https://southwarknews.co.uk/wp-content/uploads/2024/09/Monica-Walker-Old-Operating-Theatre-120x86.jpg)](https://southwarknews.co.uk/area/camberwell/whats-on-in-se1-and-se16-this-autumn/)
-
-### [What’s on in SE1 and SE16 this autumn?](https://southwarknews.co.uk/area/camberwell/whats-on-in-se1-and-se16-this-autumn/)
-
-[21st September 2024](https://southwarknews.co.uk/area/camberwell/whats-on-in-se1-and-se16-this-autumn/)
-
-[![Those behind the new Lower Road cycle lane met politicians and business owners on site in May](https://southwarknews.co.uk/wp-content/uploads/2024/09/image002-120x86.jpeg)](https://southwarknews.co.uk/area/rotherhithe/southwark-council-to-consider-putting-second-traffic-lane-on-lower-road-says-local-councillor/)
-
-### [Southwark Council to consider putting second traffic lane on Lower Road, says local councillor](https://southwarknews.co.uk/area/rotherhithe/southwark-council-to-consider-putting-second-traffic-lane-on-lower-road-says-local-councillor/)
-
-[21st September 2024](https://southwarknews.co.uk/area/rotherhithe/southwark-council-to-consider-putting-second-traffic-lane-on-lower-road-says-local-councillor/)
-
-[![Max Templer outside a building on the North Peckham estate, South London in July 2024. CREDIT: Robert Firth](https://southwarknews.co.uk/wp-content/uploads/2024/09/IMG_9851-120x86.jpg)](https://southwarknews.co.uk/area/southwark/southwark-council-denies-mishandling-complaints-from-leaseholders-lumped-with-2500-heating-bills/)
-
-### [Southwark Council denies mishandling complaints from leaseholders lumped with £2,500 heating bills](https://southwarknews.co.uk/area/southwark/southwark-council-denies-mishandling-complaints-from-leaseholders-lumped-with-2500-heating-bills/)
-
-[21st September 2024](https://southwarknews.co.uk/area/southwark/southwark-council-denies-mishandling-complaints-from-leaseholders-lumped-with-2500-heating-bills/)
 
 ### USEFUL PAGES
 
