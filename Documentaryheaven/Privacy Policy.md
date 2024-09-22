@@ -128,39 +128,39 @@ Advertisement
     The Beginning and the End of the Universe
     
     Episode 1: The BeginingEmbarking on a cosmic journey, Professor Jim Al-Khalili transports us through the corridors of time to confront science's most profound inquiry: the genesis of the univers...](https://documentaryheaven.com/the-beginning-and-the-end-of-the-universe/ "The Beginning and the End of the Universe")
-* [![The War On Drugs: The Prison Industrial Complex](/wp-content/thumbnails/958-100x70.gif?x53432)
+* [![EP 4/6 The Private Life of Plants](/wp-content/thumbnails/2493-100x70.jpg?x53432)
     
-    The War On Drugs: The Prison Industrial Complex
+    EP 4/6 The Private Life of Plants
     
-    The war on drugs has been going on for more than three decades. Today, nearly 500,000 Americans are imprisoned on drug charges. In 1980 the number was 50,000. Last year $40 billion in taxpayer dollars...](https://documentaryheaven.com/the-war-on-drugs-the-prison-industrial-complex/ "The War On Drugs: The Prison Industrial Complex")
+    Broadcast 26 January 1995, this episode examines how plants either share environments harmoniously or compete for dominance within them. Attenborough highlights the 1987 hurricane and the devastation ...](https://documentaryheaven.com/the-private-life-of-plants-4/ "EP 4/6 The Private Life of Plants")
 
 ###### Throwback Documentaries
 
-* [![David Icke: Conspiracy of the Lizard Illuminati](/wp-content/thumbnails/6770-100x70.jpg?x53432)
+* [![Beyond Me](/wp-content/thumbnails/6921-100x70.jpeg?x53432)
     
-    David Icke: Conspiracy of the Lizard Illuminati
+    Beyond Me
     
-    Conspiracy theorist David Icke takes us to a local satanic execution site and discusses the plot of the secret lizard illuminati.We traveled to the Isle of Wight to meet the most iconic conspiracy](https://documentaryheaven.com/david-icke-conspiracy-of-the-lizard-illuminati/ "David Icke: Conspiracy of the Lizard Illuminati")
-* [![Daft Punk: Random Access Memories (Behind The Scenes)](/wp-content/thumbnails/7111-100x70.png?x53432)
+    From the author: This is a documentary I’ve produced that is about consciousness, evolution and instincts.Sor far, I’m receiving one of two different reactions to this film. There’s not a lot of mid](https://documentaryheaven.com/beyond-me/ "Beyond Me")
+* [![Daredevils: The Human Spider Returns](/wp-content/thumbnails/5875-100x70.jpg?x53432)
     
-    Daft Punk: Random Access Memories (Behind The Scenes)
+    Daredevils: The Human Spider Returns
     
-    After 8 years Daft Punk is back with a new album and the the song “Get Lucky” with vocals from Pharrell Williams has burned up the Internet since its release. A look at the collaborators behind Random](https://documentaryheaven.com/daft-punk-random-access-memories/ "Daft Punk: Random Access Memories (Behind The Scenes)")
-* [![Walking Heavy: Britain’s Most Notorious Reformed Criminal](/wp-content/thumbnails/11465-100x70.jpg?x53432)
+    Alain Robert is known to the world as The Human Spider and is arguably the most daring climber the world has ever seen. This film follows Alain over two years, bringing his story up to date with new,](https://documentaryheaven.com/daredevils-the-human-spider-returns/ "Daredevils: The Human Spider Returns")
+* [![History of Video Games](/wp-content/thumbnails/4091-100x70.jpg?x53432)
     
-    Walking Heavy: Britain’s Most Notorious Reformed Criminal
+    History of Video Games
     
-    Jason Coghlan was once considered to be the most dangerous man in Britain and this is the story of how he managed to turn his life around. Coghlan spent 16 years behind bars, whilst locked up he took](https://documentaryheaven.com/walking-heavy-britains-most-notorious-reformed-criminal/ "Walking Heavy: Britain’s Most Notorious Reformed Criminal")
-* [![Money Talks: Profits Before Patient Safety](/wp-content/thumbnails/1706-100x70.jpg?x53432)
+    The origin of video games lies in early cathode ray tube-based missile defense systems in the late 1940s. These programs were later adapted into other simple games during the 1950s. By the late 1950s](https://documentaryheaven.com/history-of-video-games/ "History of Video Games")
+* [![Race To The Bottom: Ireland](/wp-content/thumbnails/7053-100x70.jpg?x53432)
     
-    Money Talks: Profits Before Patient Safety
+    Race To The Bottom: Ireland
     
-    Money Talks exposes the questionable tactics that big drug companies use to make record profits by playing with the safety of our family's health care. Using misleading advertising, attractive "drug r](https://documentaryheaven.com/money-talks-profits-before-patient-safety/ "Money Talks: Profits Before Patient Safety")
-* [![Slacker Uprising](/wp-content/thumbnails/2425-100x70.jpg?x53432)
+    This film delves into Irish horsemeat scandal, revealing a systematic criminal harvest of thousands of horses, which netted millions and stretches well beyond Ireland’s borders.When Ireland’s Food](https://documentaryheaven.com/race-to-the-bottom-ireland/ "Race To The Bottom: Ireland")
+* [![Catastrophe: The Day The Sun Went Out](/wp-content/thumbnails/16660-100x70.jpg?x53432)
     
-    Slacker Uprising
+    Catastrophe: The Day The Sun Went Out
     
-    Slacker Uprising’ takes place in the wake of Fahrenheit 9/11, during the run-up to the 2004 election, as I traveled for 42 days across America, visiting 62 cities in a failed attempt to remove George](https://documentaryheaven.com/slacker-uprising/ "Slacker Uprising")
+    Just under 1500 years ago something terrifying happened to the world's climate something nobody could understand the sun began to go dark and rain the color of blood poured from the skies. Clouds of](https://documentaryheaven.com/catastrophe-day-sun-went-out/ "Catastrophe: The Day The Sun Went Out")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
