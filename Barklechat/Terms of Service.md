@@ -3,4 +3,4 @@ TOS | Barkle!
 JavaScriptを有効にしてください  
 Please turn on your JavaScript
 
-![](/static-assets/splash.png?1726988178424)
+![](/static-assets/splash.png?1727009875085)
