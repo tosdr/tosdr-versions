@@ -68,7 +68,7 @@ ADD TO TOTE
 
 ### [Multi-Vitamin + Antioxidants Potent PM Serum](https://www.100percentpure.com/products/multi-vitamin-antioxidants-potent-pm-serums)
 
-92 reviews (92)
+94 reviews (94)
 
 $72.00
 
@@ -82,7 +82,7 @@ ADD TO TOTE
 
 ### [Maracuja Mascara](https://www.100percentpure.com/products/maracuja-mascara)
 
-2385 reviews (2385)
+2386 reviews (2386)
 
 $28.00 $28.00
 
@@ -230,7 +230,7 @@ ADD TO TOTE
 
 ### [Multi-Vitamin + Antioxidants PM Facial Oil](https://www.100percentpure.com/products/multi-vitamin-antioxidants-pm-facial-oil)
 
-220 reviews (220)
+221 reviews (221)
 
 $58.00
 
