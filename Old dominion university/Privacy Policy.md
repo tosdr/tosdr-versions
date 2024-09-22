@@ -1,11 +1,9 @@
-\[ [skip to content](#content) \]
+[Skip to main content](#main-content)
 
-Phone menu jump toggle 
+ [![Old Dominion University](/themes/custom/odu/images/odu-logo.svg) ![Old Dominion University Crown](/themes/custom/odu/images/odu-crown.svg)](https://ww1.odu.edu/)
 
- [![Old Dominion University](/etc/designs/odu/images/odu-logo-drupal.svg) ![Old Dominion University Crown](/etc/designs/odu/images/odu-crown-drupal.svg)](https://www.odu.edu/)
-
-* [Apply](https://www.odu.edu/apply)
-* [Visit](https://www.odu.edu/visit)
+* [Apply](https://ww1.odu.edu/apply)
+* [Visit](https://ww1.odu.edu/about/visitors/campus-tours)
 * [Give](https://give.odu.edu/)
 * [myODU](https://my.odu.edu/)
 
@@ -13,95 +11,91 @@ Phone menu jump toggle
 * Search
 * Close
 
-[More Information about this image](#image-description)
+![](/sites/default/files/images/headerimage.img.2160_66.jpg)
 
-Lion fountain with blue skies on Kaufman Mall.
+Breadcrumb
+----------
 
-* [![Home](/etc/designs/odu/images/odu-crown-breadcrumb-home.png)](https://www.odu.edu/)
-* [Internet Privacy Statement](https://www.odu.edu/privacy)
+1. [Home](https://ww1.odu.edu/)
+2. Internet Privacy Statement
 
 Internet Privacy Statement
 ==========================
 
 We reserve the right to amend our Internet Privacy Policy and Internet Privacy Policy Statement at any time without notice.
 
-Governing laws
---------------
+**Governing laws**
 
 ODU protects records in accordance with our obligations as defined by applicable Virginia statutes, including, but not limited to, the Virginia Privacy Protection Act of 1976, the Virginia Freedom of Information Act, and by any applicable U.S. federal laws.
 
-Links to other websites
------------------------
+**Links to other websites**
 
 The website may contain links to other public or private websites, whose privacy practices we do not control. ODU does not take responsibility for the privacy practices of those websites or their content practices. You should check each website in order to understand its privacy policy
 
-Information we collect
-----------------------
+### Information we collect
 
-### Routing information
+**Routing information**
 
 The Internet domain and Internet address of the computer you are using.
 
-### Essential technical information
+**Essential technical information**
 
 Identification of the page or service you are requesting, type of browser and operating system and the time and date of access.
 
-### Nonessential technical information
+**Nonessential technical information**
 
 The Internet address of the website from which you linked directly to our website.
 
-### Optional information
+**Optional information**
 
 When you send email, we collect your name, email address and the content of your email. When you complete online forms, we collect the data you choose to submit and confirm.
 
-How information is collected and used
--------------------------------------
+### How information is collected and used
 
 In general, users may visit the Old Dominion University website without being asked to share personal information. There are times, however, when personal information must be collected. There is no legal requirement for you to provide any information at our website. You should also be aware that it may be not be possible to complete business transactions using this Web site without this personal information. As an example, ODU may require your e-mail address in order to communicate with you. In providing information to ODU through this Web site, you are agreeing to make such information available to the University so that it can meet its educational and business objectives.
 
-The following clarifies how the University may use personal information
------------------------------------------------------------------------
+### The following clarifies how the University may use personal information
 
-### Fulfilling a request
+**Fulfilling a request**
 
 When requesting information or services from the University, the information you provide will be used in order to satisfy that request. Information may be shared with a third-party to provide indirect support in fulfilling your request.
 
-### Account & log on information
+**Account & log on information**
 
 When you use certain university websites, log on and account information may be collected and used by the website to authenticate your identity so that you may receive a variety of information resources and services. The website does not maintain copies of this account and log on information; it is ephemeral, meaning that is only used to validate your identity so that you can obtain the information or services you requested.
 
-### Usage information
+**Usage information**
 
 ODU routinely analyzes usage patterns on the website in order to better provide services to Internet users, primarily students, faculty and staff of the University. As an example, we routinely collect Web pages access information, domain names where web pages are accessed, time of day, and the version of the browser used. This information is used to provide a better Web browsing experience for people who use of Web servers the University maintains.
 
-### Use of "cookies"
+**Use of "cookies"**
 
 This Web server makes use of "cookies." A cookie is a small piece of information (or data) that the Web server may send in your Internet browser, which is usually stored on your computer. Cookies are designed to improve your Web browsing experience and to make the website more useful. However, you may choose to disable cookies from your Internet browser. This may affect website functionality for you.
 
-Digital Millennium Copyright Act (DMCA)
----------------------------------------
+### Digital Millennium Copyright Act (DMCA)
 
-Refer to the [DMCA Notices](http://facultystaff/computing/policies/dmca) Page for more information.
+Refer to the [DMCA Notices](http://facultystaff/computing/policies/dmca) Page for more information.
 
-Pop up advertisement disclaimer
--------------------------------
+### Pop up advertisement disclaimer
 
-The Pop-Up advertisements you may be seeing on Old Dominion University's Home page are not coming from the Old Dominion University website.  
-  
-The advertisements are not generated by Old Dominion University and the University has not contracted with anyone for such advertisement services.  
-  
-Some Internet sites are programmed to create Pop-up windows when you exit them. When you visit the Old Dominion University website after surfing these websites, you may experience Pop-up windows on the screen.  
-  
-Also, some free ware programs that you may have installed on your system may cause these Pop-up windows. . These programs (for example: Music and File sharing) support themselves by agreeing to install advertising packages with their product. For more information see this article by wired.com  
-  
-If you are experiencing this problem, you can help us track it by sending email to [webadmin@odu.edu](mailto:webadmin@odu.edu)
+The Pop-Up advertisements you may be seeing on Old Dominion University's Home page are not coming from the Old Dominion University website.
 
-[![Old Dominion University Logo](/etc/designs/odu/images/odu-logo-drupal.svg)](https://www.odu.edu/)
+The advertisements are not generated by Old Dominion University and the University has not contracted with anyone for such advertisement services.
+
+Some Internet sites are programmed to create Pop-up windows when you exit them. When you visit the Old Dominion University website after surfing these websites, you may experience Pop-up windows on the screen.
+
+Also, some free ware programs that you may have installed on your system may cause these Pop-up windows. . These programs (for example: Music and File sharing) support themselves by agreeing to install advertising packages with their product. For more information see this article by wired.com
+
+If you are experiencing this problem, you can help us track it by sending email to [webadmin@odu.edu](mailto:webadmin@odu.edu)
+
+ 
+
+[![Old Dominion University Logo](/sites/default/files/svg/odu-logo.svg)](https://ww1.odu.edu/)
 
 [5115 Hampton Blvd  
-Norfolk,VA 23529](https://www.google.com/)
+Norfolk, VA 23529](https://www.google.com/maps/place/Old+Dominion+University/@36.8853052,-76.3080633,17z/data=!3m1!4b1!4m5!3m4!1s0x89ba99ad24ba3945:0xcd2bdc432c4e4bac!8m2!3d36.8853052!4d-76.3058746)
 
-[Contact](https://www.odu.edu/about/contact)
+[Contact](https://ww1.odu.edu/about/contact)
 
 [Facebook](https://www.facebook.com/Old.Dominion.University/)
 
@@ -116,504 +110,260 @@ Norfolk,VA 23529](https://www.google.com/)
 Resources
 ---------
 
-* [Employment](https://www.odu.edu/employment)
-* [Directories](https://www.odu.edu/directory)
-* [University Libraries](https://www.odu.edu/library)
-* [Alumni](https://www.odu.edu/alumni)
-
-* [Employment](https://www.odu.edu/employment)
-* [University Libraries](https://www.odu.edu/library)
-
-* [Directories](https://www.odu.edu/directory)
-* [Alumni](https://www.odu.edu/alumni)
+* [Employment](https://ww1.odu.edu/employment)
+* [Directories](https://ww1.odu.edu/directory)
+* [University Libraries](https://ww1.odu.edu/library)
+* [Alumni](https://ww1.odu.edu/alumni)
 
 Legal
 -----
 
-* [Privacy](https://www.odu.edu/privacy)
-* [Accessibility](https://www.odu.edu/educationalaccessibility)
-* [Consumer Information](https://www.odu.edu/about/compliance/transparency)
-* [Health and Safety](https://www.odu.edu/life/health-safety)
-* [Emergency](https://www.odu.edu/emergency)
-
-* [Privacy](https://www.odu.edu/privacy)
-* [Consumer Information](https://www.odu.edu/about/compliance/transparency)
-* [Emergency](https://www.odu.edu/emergency)
-
-* [Accessibility](https://www.odu.edu/educationalaccessibility)
-* [Health and Safety](https://www.odu.edu/life/health-safety)
+* [Legal & Compliance](https://ww1.odu.edu/legal-compliance)
+* [Privacy](https://ww1.odu.edu/privacy)
+* [Accessibility](https://ww1.odu.edu/accessibility)
+* [Health & Safety](https://ww1.odu.edu/life/health-safety)
+* [Emergency Management](https://ww1.odu.edu/emergency)
 
 Visit
 -----
 
-* [Visit ODU](https://www.odu.edu/about/visitors)
-* [Maps and Directions](https://www.odu.edu/about/visitors/campus-map)
-* [Transportation & Parking](https://www.odu.edu/parkingservices)
+* [Visit ODU](https://ww1.odu.edu/about/visitors)
+* [Transportation & Parking](https://ww1.odu.edu/transportation-parking-services)
+* [Campus Map](https://ww1.odu.edu/map)
 
-* [Visit ODU](https://www.odu.edu/about/visitors)
+Copyright © Old Dominion University • Updated 2023
 
-* [Maps and Directions](https://www.odu.edu/about/visitors/campus-map)
-* [Transportation & Parking](https://www.odu.edu/parkingservices)
+Mega Menu
+---------
 
-Site Navigation
-===============
-
-* [Academics](https://www.odu.edu/academics)
+* [Apply](https://ww1.odu.edu/apply)
     
-* [Admission & Aid](https://www.odu.edu/admissions-aid)
-    
-* [Life at ODU](https://www.odu.edu/life)
-    
-* [Research](https://www.odu.edu/research-0)
-    
-* [Community](https://www.odu.edu/partnerships/community)
-    
-* [About ODU](https://www.odu.edu/about)
-    
-* [Arts & Culture](https://www.odu.edu/life/culture)
-    
-* [Athletics](http://www.odusports.com/)
-    
-
-   
-
-Quicklinks
-
-* [A-Z Index](https://www.odu.edu/a-to-z-index)
-* [Directories](https://odu.edu/directory)
-* [University Libraries](https://www.odu.edu/library)
-* [Bookstore](https://www.bkstr.com/olddominionstore/home)
-* [Academic Calendar](https://www.odu.edu/academics/calendar)
-* [Campus Map](https://www.odu.edu/about/visitors/campus-map)
-* [University Calendar](https://www.odu.edu/events)
-
-Current Students
-
-* [Student Resources](https://www.odu.edu/students)
-* [Student Email](https://ww1.odu.edu/academics/student-computing/student-email)
-* [Canvas](https://canvas.odu.edu/)
-* [Add, Drop & Withdraw](https://www.odu.edu/sites/default/files/documents/add-drop-withdraw-form.pdf)
-* [Dining](https://olddominion.campusdish.com/)
-* [Monarch Groups](https://odu.campusgroups.com/login_only?redirect=https%3a%2f%2fodu.campusgroups.com%2fgroups)
-* [Tuition & Aid](https://www.odu.edu/tuition-aid)
-* [Parking & Transportation](https://www.odu.edu/parkingservices)
-
-Faculty & Staff
-
-* [Faculty & Staff Resources](https://www.odu.edu/facultystaff)
-* [Faculty/Staff Email](https://www.odu.edu/ts/software-services/facultyemail)
-* [Leo Online](https://leoonline.odu.edu/plsqlweb/twbkwbis.P_GenMenu?name=homepage)
-* [Academic Advisors](https://www.odu.edu/success/academic/advising/advisors)
-* [Human Resources](https://odu.edu/hr)
-* [Technology Services](https://odu.edu/its)
-* [Center for Faculty Development](https://www.odu.edu/facultydevelopment)
-* [Center for Learning & Teaching](https://clt.odu.edu/)
-
-ACADEMIC PROGRAMS
-
-* [All Programs](https://odu.edu/academics/programs)
-* [Undergraduate Programs](https://www.odu.edu/academics/programs?field_degree_type_target_id%5B0%5D=2682)
-* [Graduate Programs](https://www.odu.edu/academics/programs?field_degree_type_target_id%5B0%5D=2683&field_degree_type_target_id%5B1%5D=2684)
-* [Continued Learning](https://www.odu.edu/cepd)
-* [ODUGlobal](https://online.odu.edu/)
-* [Study Abroad](https://odu.edu/academics/international-learning-opportunities/study-abroad)
-* [Summer Studies](https://www.odu.edu/academics/summer)
-* [Pre-College Programs](https://www.odu.edu/partnerships/community/programs/upwardbound)
-
-COLLEGES & SCHOOLS
-
-* [College of Arts & Letter](https://www.odu.edu/al)
-* [Strome College of Business](https://www.odu.edu/business)
-* [Darden College of Education](https://www.odu.edu/eps/directory)
-* [Batten College of Engineering & Technology](https://www.odu.edu/eng)
-* [College of Health Sciences](https://www.odu.edu/hs)
-* [College of Sciences](https://www.odu.edu/sci)
-* [Honors College](https://www.odu.edu/honors)
-* [School of Cyber Security](https://www.odu.edu/cyber)
-* [Graduate School](https://www.odu.edu/graduateschool)
-* [School of Continuing Education](https://www.odu.edu/cepd)
-
-ACADEMIC RESOURCES
-
-* [Academic Calendars](https://www.odu.edu/academics/calendar)
-* [University Libraries](https://www.odu.edu/library)
-* [Academic Advising](https://www.odu.edu/success/academic/advising)
-* [Tutoring](https://www.odu.edu/success/academic/tutoring)
-* [Writing Center](https://www.odu.edu/al/centers/writing-center)
-* [Academic Success](https://www.odu.edu/success)
-* [University Catalogs](https://catalog.odu.edu/)
-* [Higher Education Regional Centers](https://www.odu.edu/regionalcenters)
-
-FUTURE STUDENTS
-
-* [Prospective Students](https://www.odu.edu/prospective)
-* [Undergraduate Admissions](https://odu.edu/admission/undergraduate)
-* [Graduate Admissions](https://www.odu.edu/admission/graduate)
-* [International Admissions](https://www.odu.edu/admission/international)
-* [ODUGlobal](https://online.odu.edu/)
-* [Military & Veterans](https://www.odu.edu/military)
-
-ADMITTED STUDENTS
-
-* [Undergraduate](https://www.odu.edu/admission/admitted/undergraduate)
-* [Graduate](https://www.odu.edu/admission/admitted/graduate)
-* [International](https://www.odu.edu/admission/admitted/international)
-* [English Proficiency](https://www.odu.edu/admission/proficiency#done1612907281342=&tab34=0)
-* [Returning Student](https://www.odu.edu/admission/returning-student)
-
-COST & AID
-
-* [Tuition & Fees](https://www.odu.edu/tuition-aid/tuition)
-* [Financial Aid](https://www.odu.edu/finaidoffice)
-* [Scholarships](https://www.odu.edu/finaidoffice/types/scholarships)
-* [Housing](https://www.odu.edu/housing)
-* [Meal Plans](https://olddominion.campusdish.com/MealPlans)
-* [Parking Permits](https://www.odu.edu/parkingservices/parking)
-* [Cost Estimator](https://itsapps.odu.edu/calculator/)
-* [GI Bill Benefits](https://www.odu.edu/tuition-aid/tuition/military)
-
-GETTING INVOLVED
-
-* [Clubs & Organizations](https://www.odu.edu/set/studentorgs)
-* [Office of Intercultural Relations](https://www.odu.edu/oir)
-* [Recreation & Wellness](https://www.odu.edu/recwell)
-* [Student Engagement & Traditions](https://www.odu.edu/set)
-* [Leadership & Learning](https://www.odu.edu/leadership-learning)
-* [Off-Campus University Life](https://www.odu.edu/housing/application-information/continuing-students)
-* [Service & Civic Engagement](https://www.odu.edu/leadership-learning/service)
-
-UNIVERSITY SERVICES
-
-* [University Village Bookstore](https://www.bkstr.com/olddominionstore/home)
-* [Housing](https://www.odu.edu/housing)
-* [Dining](https://olddominion.campusdish.com/)
-* [Transportation & Parking](https://www.odu.edu/parkingservices)
-* [Health & Safety](https://www.odu.edu/life/health-safety)
-
-STUDENT SERVICES
-
-* [Educational Accessibility](https://www.odu.edu/accessibility)
-* [Student Success Center](https://www.odu.edu/success/center)
-* [Career Development Services](https://www.odu.edu/cds)
-* [International Student Resources](https://www.odu.edu/international)
-* [Student Outreach & Support](https://www.odu.edu/life/dean-students/student-outreach)
-* [Counseling](https://www.odu.edu/counselingservices)
-* [Women & Gender Equity Center](https://www.odu.edu/life/support/wgec)
-* [LGBTQIA+ Initiatives](https://www.odu.edu/oir/lgbt)
-* [Military Connection Center](https://www.odu.edu/military-connection)
-
-RESEARCH
-
-* [Research Centers](https://www.odu.edu/impact/centers)
-* [ODU Research Foundation](https://researchfoundation.odu.edu/)
-* [Office of Research](https://www.odu.edu/research)
-* [Research Initiatives](https://www.odu.edu/impact/initiatives)
-* [Grants & Funding](https://www.odu.edu/facultystaff/research/development)
-* [Student Research](https://www.odu.edu/honors/research)
-
-INITIATIVES & OUTREACH
-
-* [Cybersecurity](https://odu.edu/cyber)
-* [Global & Public Health](https://www.odu.edu/hs/centers/globalhealth)
-* [Center for Social Mobility](https://www.odu.edu/sees/social-mobility)
-* [Economic Forecasting](https://ceapodu.com/)
-* [Maritime, Ports & Logistics](https://www.odu.edu/business/center/port)
-* [Modeling & Simulating](https://vmasc.org/)
-* [Spaceflight & Autonomous Systems](https://visaatodu.org/)
-* [Bioelectrics & Biomedical](https://www.odu.edu/bioelectrics)
-* [Coastal Adaptation & Resilience](https://oduadaptationandresilience.org/)
-
-INNOVATION & ENTREPRENEURSHIP
-
-* [Strome Entrepreneurial Center](https://odu.edu/univ-impact/entrepreneurship/strome)
-
-PROGRAMS & PARTNERSHIPS
-
-* [Visitors Guide](https://www.odu.edu/about/visitors)
-* [Sports & Recreation](https://www.odu.edu/life/sports-recreation)
-* [Community Partnerships](https://www.odu.edu/partnerships/community)
-* [Pre-College & Summer Programs](https://www.odu.edu/asis/trio)
-* [Vendors](https://www.odu.edu/vendors)
-
-ALUMNI
-
-* [Alumni Association](https://www.odu.edu/alumni)
-* [Lion's Den](https://www.odualumni.org/s/1672/bp20/interior.aspx?sid=1672&gid=2&pgid=386)
-* [Alumni Directory](https://www.odualumni.org/s/1672/bp20/interior.aspx?sid=1672&gid=2&pgid=401)
-* [Homecoming](https://www.odu.edu/set/spirit/homecoming)
-* [Donate](https://secure.acceptiva.com/?cst=1c0e01)
-
-MILITARY & VETERANS
-
-* [Army ROTC](https://www.odu.edu/armyrotc)
-* [Navy ROTC](https://www.odu.edu/nrotc)
-* [Veterans Services](https://www.odu.edu/military/veterans-services)
-* [Military Partnerships](https://www.odu.edu/partnerships/military)
-
-OUR STORY
-
-* [Accreditation](https://www.odu.edu/about/accreditation)
-* [Facts & Figures](https://www.odu.edu/set/fsl/facts-figures)
-* [Coastal Virginia](https://www.odu.edu/about/visitors/coastal-virginia)
-* [History & Archives](https://www.odu.edu/about/historyandarchives)
-* [Employment](https://www.odu.edu/employment)
-* [Contact the University](https://www.odu.edu/about/contact)
-* [Diversity at ODU](https://www.odu.edu/life/diversity)
-
-LEADERSHIP
-
-* [Office of the President](https://odu.edu/about/president)
-* [Administration & Organization](https://www.odu.edu/about/orgchart)
-* [Strategic Planning & Initiatives](https://www.odu.edu/about/planning)
-
-NEWS & EVENTS
-
-* [News at ODU](https://www.odu.edu/news)
-* [Media Center/Media Kit](https://www.odu.edu/media)
-* [University Calendars & Events](https://www.odu.edu/events)
-* [Monarch Magazine](https://www.odu.edu/about/odu-publications/monarch-magazine)
-
-ARTS & CULTURE
-
-* [Arts @ ODU](https://www.odu.edu/life/culture/arts)
-* [Gordon Art Galleries](https://www.odu.edu/life/culture/arts/galleries)
-* [Diehn Concert Series](https://www.odu.edu/life/culture/arts/diehn)
-* [Literary Festival](https://www.odu.edu/life/culture/arts/litfest)
-* [Barry Art Museum](https://barryartmuseum.odu.edu/)
-
-Site Navigation
-===============
-
-   
-
-* [Apply](https://www.odu.edu/apply)
-    
-* [Visit](https://www.odu.edu/visit)
+* [Visit](https://ww1.odu.edu/about/visitors/campus-tours)
     
 * [Give](https://give.odu.edu/)
     
 * [myODU](https://my.odu.edu/)
     
-* [Academics](https://www.odu.edu/academics)
+* [Academics](https://ww1.odu.edu/academics)
     
-    [ACADEMIC PROGRAMS](#)
+    **Academic Programs**
     
-    * [All Programs](https://odu.edu/academics/programs)
+    * [All Programs](https://ww1.odu.edu/academics/programs)
     * [Undergraduate Programs](https://www.odu.edu/academics/programs?field_degree_type_target_id%5B0%5D=2682)
     * [Graduate Programs](https://www.odu.edu/academics/programs?field_degree_type_target_id%5B0%5D=2683&field_degree_type_target_id%5B1%5D=2684)
-    * [Continued Learning](https://www.odu.edu/cepd)
+    * [Continued Learning](https://online.odu.edu/continuing-education)
     * [ODUGlobal](https://online.odu.edu/)
-    * [Study Abroad](https://odu.edu/academics/international-learning-opportunities/study-abroad)
-    * [Summer Studies](https://www.odu.edu/academics/summer)
-    * [Pre-College Programs](https://www.odu.edu/partnerships/community/programs/upwardbound)
+    * [Study Abroad](https://ww1.odu.edu/studyabroad)
+    * [Summer Studies](https://online.odu.edu/summer-studies)
     
-    [COLLEGES & SCHOOLS](#)
+    **Colleges & Schools**
     
-    * [College of Arts & Letter](https://www.odu.edu/al)
+    * [All Colleges & Schools](https://ww1.odu.edu/colleges)
+    * [College of Arts & Letters](https://www.odu.edu/al)
     * [Strome College of Business](https://www.odu.edu/business)
-    * [Darden College of Education](https://www.odu.edu/eps/directory)
-    * [Batten College of Engineering & Technology](https://www.odu.edu/eng)
-    * [College of Health Sciences](https://www.odu.edu/hs)
-    * [College of Sciences](https://www.odu.edu/sci)
-    * [Honors College](https://www.odu.edu/honors)
-    * [School of Cyber Security](https://www.odu.edu/cyber)
-    * [Graduate School](https://www.odu.edu/graduateschool)
-    * [School of Continuing Education](https://www.odu.edu/cepd)
+    * [Darden College of Education and Professional Studies](https://ww1.odu.edu/education)
+    * [Batten College of Engineering & Technology](https://ww1.odu.edu/engineering)
+    * [College of Sciences](https://ww1.odu.edu/sci)
+    * [Ellmer College of Health Sciences](https://www.odu.edu/hs)
+    * [Ellmer School of Nursing](https://ww1.odu.edu/nursing)
+    * [Eastern Virginia Medical School](https://www.evms.edu/education/school_of_medicine/)
+    * [EVMS School of Health Professions](https://www.evms.edu/education/school_of_health_professions/)
+    * [Graduate School](https://ww1.odu.edu/graduateschool)
+    * [Honors College](https://ww1.odu.edu/honors)
+    * [Interdisciplinary Schools](https://ww1.odu.edu/interdisciplinary-schools)
+    * [Continuing Education](https://ww1.odu.edu/node/279211)
     
-    [ACADEMIC RESOURCES](#)
+    **Academic Resources**
     
-    * [Academic Calendars](https://www.odu.edu/academics/calendar)
+    * [Academic Calendars](https://ww1.odu.edu/academics/calendar)
     * [University Libraries](https://www.odu.edu/library)
-    * [Academic Advising](https://www.odu.edu/success/academic/advising)
-    * [Tutoring](https://www.odu.edu/success/academic/tutoring)
+    * [Academic Advising](https://ww1.odu.edu/advising)
+    * [Tutoring](https://ww1.odu.edu/tutoring)
     * [Writing Center](https://www.odu.edu/al/centers/writing-center)
-    * [Academic Success](https://www.odu.edu/success)
+    * [Academic Success](https://ww1.odu.edu/success)
     * [University Catalogs](https://catalog.odu.edu/)
     * [Higher Education Regional Centers](https://www.odu.edu/regionalcenters)
     
-* [Admission & Aid](https://www.odu.edu/admissions-aid)
+* [Admission & Aid](https://ww1.odu.edu/admissions-aid)
     
-    [FUTURE STUDENTS](#)
+    **Future Students**
     
-    * [Prospective Students](https://www.odu.edu/prospective)
-    * [Undergraduate Admissions](https://odu.edu/admission/undergraduate)
-    * [Graduate Admissions](https://www.odu.edu/admission/graduate)
-    * [International Admissions](https://www.odu.edu/admission/international)
+    * [Undergraduate Admissions](https://ww1.odu.edu/admission/undergraduate)
+    * [Graduate Admissions](https://ww1.odu.edu/admission/graduate)
+    * [International Admissions](https://ww1.odu.edu/admission/international)
     * [ODUGlobal](https://online.odu.edu/)
     * [Military & Veterans](https://www.odu.edu/military)
     
-    [ADMITTED STUDENTS](#)
+    **Admitted Students**
     
-    * [Undergraduate](https://www.odu.edu/admission/admitted/undergraduate)
-    * [Graduate](https://www.odu.edu/admission/admitted/graduate)
-    * [International](https://www.odu.edu/admission/admitted/international)
-    * [English Proficiency](https://www.odu.edu/admission/proficiency#done1612907281342=&tab34=0)
-    * [Returning Student](https://www.odu.edu/admission/returning-student)
+    * [Undergraduate](https://ww1.odu.edu/admission/admitted/undergraduate)
+    * [Graduate](https://ww1.odu.edu/admission/admitted/graduate)
+    * [International](https://ww1.odu.edu/admission/admitted/international)
+    * [English Proficiency](https://ww1.odu.edu/admission/proficiency)
+    * [Returning Students](https://ww1.odu.edu/admission/returning-student)
     
-    [COST & AID](#)
+    **Cost & Aid**
     
-    * [Tuition & Fees](https://www.odu.edu/tuition-aid/tuition)
-    * [Financial Aid](https://www.odu.edu/finaidoffice)
-    * [Scholarships](https://www.odu.edu/finaidoffice/types/scholarships)
-    * [Housing](https://www.odu.edu/housing)
+    * [Tuition & Fees](https://ww1.odu.edu/tuition)
+    * [Financial Aid](https://ww1.odu.edu/finaidoffice)
+    * [Scholarships](https://ww1.odu.edu/finaidoffice/types/scholarships)
+    * [Housing](https://ww1.odu.edu/housing)
     * [Meal Plans](https://olddominion.campusdish.com/MealPlans)
     * [Parking Permits](https://www.odu.edu/parkingservices/parking)
     * [Cost Estimator](https://itsapps.odu.edu/calculator/)
-    * [GI Bill Benefits](https://www.odu.edu/tuition-aid/tuition/military)
+    * [GI Bill Benefits](https://ww1.odu.edu/tuition/military)
     
-* [Life at ODU](https://www.odu.edu/life)
+* [Life at ODU](https://ww1.odu.edu/life)
     
-    [GETTING INVOLVED](#)
+    **Getting Involved**
     
-    * [Clubs & Organizations](https://www.odu.edu/set/studentorgs)
-    * [Office of Intercultural Relations](https://www.odu.edu/oir)
-    * [Recreation & Wellness](https://www.odu.edu/recwell)
-    * [Student Engagement & Traditions](https://www.odu.edu/set)
-    * [Leadership & Learning](https://www.odu.edu/leadership-learning)
-    * [Off-Campus University Life](https://www.odu.edu/housing/application-information/continuing-students)
-    * [Service & Civic Engagement](https://www.odu.edu/leadership-learning/service)
+    * [Clubs & Organizations](https://ww1.odu.edu/student-engagement-traditions/student-orgs)
+    * [Office of Intercultural Relations](https://ww1.odu.edu/intercultural-relations)
+    * [Recreation & Wellness](https://ww1.odu.edu/recreation-wellness)
+    * [Student Engagement & Traditions](https://ww1.odu.edu/student-engagement-traditions)
+    * [Leadership & Learning](https://ww1.odu.edu/node/279146)
+    * [Off-Campus University Life](https://ww1.odu.edu/housing/application-information/continuing-students)
+    * [Service & Civic Engagement](https://ww1.odu.edu/career-leadership/service-learning)
     
-    [UNIVERSITY SERVICES](#)
+    **University Services**
     
     * [University Village Bookstore](https://www.bkstr.com/olddominionstore/home)
-    * [Housing](https://www.odu.edu/housing)
+    * [Housing](https://ww1.odu.edu/housing)
     * [Dining](https://olddominion.campusdish.com/)
     * [Transportation & Parking](https://www.odu.edu/parkingservices)
     * [Health & Safety](https://www.odu.edu/life/health-safety)
     
-    [STUDENT SERVICES](#)
+    **Student Services**
     
-    * [Educational Accessibility](https://www.odu.edu/accessibility)
-    * [Student Success Center](https://www.odu.edu/success/center)
-    * [Career Development Services](https://www.odu.edu/cds)
-    * [International Student Resources](https://www.odu.edu/international)
-    * [Student Outreach & Support](https://www.odu.edu/life/dean-students/student-outreach)
-    * [Counseling](https://www.odu.edu/counselingservices)
-    * [Women & Gender Equity Center](https://www.odu.edu/life/support/wgec)
-    * [LGBTQIA+ Initiatives](https://www.odu.edu/oir/lgbt)
-    * [Military Connection Center](https://www.odu.edu/military-connection)
+    * [Educational Accessibility](https://ww1.odu.edu/accessibility)
+    * [Student Success Center](https://ww1.odu.edu/success/center)
+    * [Career Development Services](https://ww1.odu.edu/node/279066)
+    * [International Student Resources](https://ww1.odu.edu/international)
+    * [Student Outreach & Support](https://ww1.odu.edu/life/dean-students/student-outreach)
+    * [Counseling](https://ww1.odu.edu/counseling-services)
+    * [Women's & Gender Equity Center](https://ww1.odu.edu/wgec)
+    * [LGBTQIA+ Initiatives](https://ww1.odu.edu/wgec/lgbt)
+    * [Military Connection Center](https://ww1.odu.edu/military-connection)
     
-* [Research](https://www.odu.edu/research-0)
+* [Research](https://ww1.odu.edu/research)
     
-    [RESEARCH](#)
+    **Research**
     
-    * [Research Centers](https://www.odu.edu/impact/centers)
-    * [ODU Research Foundation](https://researchfoundation.odu.edu/)
-    * [Office of Research](https://www.odu.edu/research)
-    * [Research Initiatives](https://www.odu.edu/impact/initiatives)
-    * [Grants & Funding](https://www.odu.edu/facultystaff/research/development)
+    * [Division of Research & Economic Development](https://ww1.odu.edu/research)
+    * [Research Centers](https://ww1.odu.edu/research/research-centers)
+    * [Research Compliance](https://ww1.odu.edu/research/compliance)
+    * [Grants & Funding](https://ww1.odu.edu/research/development)
     * [Student Research](https://www.odu.edu/honors/research)
+    * [ODU Research Foundation](https://researchfoundation.odu.edu/)
     
-    [INITIATIVES & OUTREACH](#)
+    **Initiatives & Outreach**
     
-    * [Cybersecurity](https://odu.edu/cyber)
-    * [Global & Public Health](https://www.odu.edu/hs/centers/globalhealth)
-    * [Center for Social Mobility](https://www.odu.edu/sees/social-mobility)
+    * [Cybersecurity](https://ww1.odu.edu/cyber)
+    * [Global & Public Health](https://ww1.odu.edu/health-sciences/centers/global-health)
     * [Economic Forecasting](https://ceapodu.com/)
-    * [Maritime, Ports & Logistics](https://www.odu.edu/business/center/port)
-    * [Modeling & Simulating](https://vmasc.org/)
+    * [Maritime, Ports & Logistics](https://ww1.odu.edu/maritime)
+    * [Modeling & Simulation](https://vmasc.org/)
     * [Spaceflight & Autonomous Systems](https://visaatodu.org/)
-    * [Bioelectrics & Biomedical](https://www.odu.edu/bioelectrics)
     * [Coastal Adaptation & Resilience](https://oduadaptationandresilience.org/)
     
-    [INNOVATION & ENTREPRENEURSHIP](#)
+    **Innovation & Entrepreneurship**
     
-    * [Strome Entrepreneurial Center](https://odu.edu/univ-impact/entrepreneurship/strome)
+    * [Strome Entrepreneurial Center](https://www.odu.edu/univ-impact/entrepreneurship/strome)
     
-* [Community](https://www.odu.edu/partnerships/community)
+* [Community](https://ww1.odu.edu/partnerships/community)
     
-    [PROGRAMS & PARTNERSHIPS](#)
+    **Programs & Partnerships**
     
-    * [Visitors Guide](https://www.odu.edu/about/visitors)
-    * [Sports & Recreation](https://www.odu.edu/life/sports-recreation)
-    * [Community Partnerships](https://www.odu.edu/partnerships/community)
-    * [Pre-College & Summer Programs](https://www.odu.edu/asis/trio)
-    * [Vendors](https://www.odu.edu/vendors)
+    * [Visitor's Guide](https://ww1.odu.edu/about/visitors)
+    * [Sports & Recreation](https://ww1.odu.edu/life/sports-recreation)
+    * [Pre-College & Summer Programs](https://ww1.odu.edu/ails/trio-programs)
+    * [Vendors](https://ww1.odu.edu/procurement/vendors)
     
-    [ALUMNI](#)
+    **Alumni**
     
-    * [Alumni Association](https://www.odu.edu/alumni)
+    * [Alumni Association](https://ww1.odu.edu/alumni)
     * [Lion's Den](https://www.odualumni.org/s/1672/bp20/interior.aspx?sid=1672&gid=2&pgid=386)
-    * [Alumni Directory](https://www.odualumni.org/s/1672/bp20/interior.aspx?sid=1672&gid=2&pgid=401)
-    * [Homecoming](https://www.odu.edu/set/spirit/homecoming)
+    * [Homecoming](https://ww1.odu.edu/homecoming-week)
     * [Donate](https://secure.acceptiva.com/?cst=1c0e01)
     
-    [MILITARY & VETERANS](#)
+    **Military & Veterans**
     
     * [Army ROTC](https://www.odu.edu/armyrotc)
     * [Navy ROTC](https://www.odu.edu/nrotc)
     * [Veterans Services](https://www.odu.edu/military/veterans-services)
     * [Military Partnerships](https://www.odu.edu/partnerships/military)
     
-* [About ODU](https://www.odu.edu/about)
+* [About ODU](https://ww1.odu.edu/about)
     
-    [OUR STORY](#)
+    **Our Story**
     
-    * [Accreditation](https://www.odu.edu/about/accreditation)
-    * [Facts & Figures](https://www.odu.edu/set/fsl/facts-figures)
-    * [Coastal Virginia](https://www.odu.edu/about/visitors/coastal-virginia)
-    * [History & Archives](https://www.odu.edu/about/historyandarchives)
+    * [Accreditation](https://ww1.odu.edu/about/accreditation)
+    * [Facts & Figures](https://ww1.odu.edu/about/facts-and-figures)
+    * [History & Archives](https://ww1.odu.edu/about/historyandarchives)
     * [Employment](https://www.odu.edu/employment)
-    * [Contact the University](https://www.odu.edu/about/contact)
-    * [Diversity at ODU](https://www.odu.edu/life/diversity)
+    * [Contact the University](https://ww1.odu.edu/about/contact)
     
-    [LEADERSHIP](#)
+    **Leadership**
     
-    * [Office of the President](https://odu.edu/about/president)
-    * [Administration & Organization](https://www.odu.edu/about/orgchart)
-    * [Strategic Planning & Initiatives](https://www.odu.edu/about/planning)
+    * [Office of the President](https://ww1.odu.edu/president)
+    * [Administration & Organization](https://ww1.odu.edu/about/orgchart)
+    * [Strategic Planning & Initiatives](https://ww1.odu.edu/strategicplan)
     
-    [NEWS & EVENTS](#)
+    **News & Events**
     
-    * [News at ODU](https://www.odu.edu/news)
-    * [Media Center/Media Kit](https://www.odu.edu/media)
-    * [University Calendars & Events](https://www.odu.edu/events)
-    * [Monarch Magazine](https://www.odu.edu/about/odu-publications/monarch-magazine)
+    * [News Center](https://ww1.odu.edu/news)
+    * [University Calendar](https://ww1.odu.edu/events)
+    * [Monarch Magazine](https://ww1.odu.edu/monarch-magazine)
     
-* [Arts & Culture](https://www.odu.edu/life/culture)
+* [Arts & Culture](https://ww1.odu.edu/life/culture/arts)
     
-    [ARTS & CULTURE](#)
+    **Arts & Culture**
     
-    * [Arts @ ODU](https://www.odu.edu/life/culture/arts)
-    * [Gordon Art Galleries](https://www.odu.edu/life/culture/arts/galleries)
-    * [Diehn Concert Series](https://www.odu.edu/life/culture/arts/diehn)
-    * [Literary Festival](https://www.odu.edu/life/culture/arts/litfest)
+    * [Arts @ ODU](https://ww1.odu.edu/life/culture/arts)
+    * [Gordon Art Galleries](https://ww1.odu.edu/life/culture/arts/galleries)
+    * [Diehn Concert Series](https://ww1.odu.edu/life/culture/arts/diehn)
+    * [Literary Festival](https://ww1.odu.edu/life/culture/arts/litfest)
     * [Barry Art Museum](https://barryartmuseum.odu.edu/)
     
-* [Athletics](http://www.odusports.com/)
+* [Athletics](https://odusports.com/ "Athletics")
     
-
-* Quicklinks
+* Default / Quicklinks
     
-    * [A-Z Index](https://www.odu.edu/a-to-z-index)
+       
+    
+    **Quick Links**
+    
     * [Directories](https://odu.edu/directory)
-    * [University Libraries](https://www.odu.edu/library)
+    * [University Libraries](https://ww1.odu.edu/library)
     * [Bookstore](https://www.bkstr.com/olddominionstore/home)
-    * [Academic Calendar](https://www.odu.edu/academics/calendar)
-    * [Campus Map](https://www.odu.edu/about/visitors/campus-map)
-    * [University Calendar](https://www.odu.edu/events)
-* Current Students
+    * [Academic Calendar](https://ww1.odu.edu/academics/calendar)
+    * [Campus Map](https://ww1.odu.edu/map)
+    * [University Calendar](https://ww1.odu.edu/events-center)
     
-    * [Student Resources](https://www.odu.edu/students)
-    * [Student Email](https://ww1.odu.edu/academics/student-computing/student-email)
-    * [Canvas](https://canvas.odu.edu/)
-    * [Add, Drop & Withdraw](https://www.odu.edu/sites/default/files/documents/add-drop-withdraw-form.pdf)
+    **Current Students**
+    
+    * [Student Resources](https://ww1.odu.edu/students)
+    * [Student Email](https://ww1.odu.edu/information-technology-services/email/student)
+    * [Canvas](https://ww1.odu.edu/information-technology-services/canvas)
+    * [Add, Drop, Withdraw](https://ww1.odu.edu/sites/default/files/documents/add-drop-withdraw-form.pdf)
     * [Dining](https://olddominion.campusdish.com/)
     * [Monarch Groups](https://odu.campusgroups.com/login_only?redirect=https%3a%2f%2fodu.campusgroups.com%2fgroups)
-    * [Tuition & Aid](https://www.odu.edu/tuition-aid)
-    * [Parking & Transportation](https://www.odu.edu/parkingservices)
-* Faculty & Staff
+    * [Tuition & Aid](https://ww1.odu.edu/tuition-aid)
+    * [Parking & Transportation](https://ww1.odu.edu/transportation-parking-services)
     
-    * [Faculty & Staff Resources](https://www.odu.edu/facultystaff)
-    * [Faculty/Staff Email](https://www.odu.edu/ts/software-services/facultyemail)
-    * [Leo Online](https://leoonline.odu.edu/plsqlweb/twbkwbis.P_GenMenu?name=homepage)
-    * [Academic Advisors](https://www.odu.edu/success/academic/advising/advisors)
-    * [Human Resources](https://odu.edu/hr)
-    * [Technology Services](https://odu.edu/its)
-    * [Center for Faculty Development](https://www.odu.edu/facultydevelopment)
+    **Faculty & Staff**
+    
+    * [Faculty & Staff Resources](https://ww1.odu.edu/facultystaff)
+    * [Faculty/Staff Email](https://ww1.odu.edu/information-technology-services/email/faculty-staff)
+    * [LEO Online](https://leoonline.odu.edu/plsqlweb/twbkwbis.P_GenMenu?name=homepage)
+    * [Academic Advisors](https://ww1.odu.edu/advising/find-your-advisor)
+    * [Human Resources](https://ww1.odu.edu/human-resources)
+    * [Technology Services](https://ww1.odu.edu/information-technology-services)
+    * [Center for Faculty Development](https://ww1.odu.edu/facultydevelopment)
     * [Center for Learning & Teaching](https://clt.odu.edu/)
+    
 
-[Experience Guaranteed](https://ww1.odu.edu/success/experience)
+[Experience Guaranteed](https://ww1.odu.edu/internship)
 
 Enhance your college career by gaining relevant experience with the skills and knowledge needed for your future career. Discover our experiential learning opportunities.
 
@@ -624,17 +374,3 @@ Picture yourself in the classroom, speak with professors in your major, and meet
 [Upcoming Events](https://www.odu.edu/events)
 
 From sports games to concerts and lectures, join the ODU community at a variety of campus events.
-
-* [About ODU](https://www.odu.edu/about)
-* [Academics](https://www.odu.edu/academics)
-* [University Life](https://www.odu.edu/life)
-* [Admission & Aid](https://www.odu.edu/admission)
-* [Research & Impact](https://www.odu.edu/research)
-* [Athletics](http://www.odusports.com/)
-
-* [A to Z](https://www.odu.edu/a-to-z)
-* [Directories](https://www.odu.edu/directory)
-* [Libraries](https://www.odu.edu/library)
-* [Calendars](https://www.odu.edu/calendar)
-
-Search ODU  Search
