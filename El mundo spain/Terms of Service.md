@@ -1,13 +1,13 @@
-![](https://pixelcounter.elmundo.es/pixelcontabilizacion/pixelcontabilizacion.gifctl?r=http%3A%2F%2Fwww%2Eelmundo%2Ees%2Fregistro%2Favisolegal%2Ehtml&s=elmundo&d=ZvAeHAoAAVEAAABcDYg)
+![](https://pixelcounter.elmundo.es/pixelcontabilizacion/pixelcontabilizacion.gifctl?r=http%3A%2F%2Fwww%2Eelmundo%2Ees%2Fregistro%2Favisolegal%2Ehtml&s=elmundo&d=ZvBzRwoAAVEAAABcp0M)
 
 Es noticia
 
 * [Hizbulá](https://www.elmundo.es/internacional/2024/09/20/66ed0da2e9cf4aec2e8b4585.html)
 * [GP Singapur F1](https://www.elmundo.es/deportes/formula-1/2024/09/22/05_0501_20240922_18_1-directo.html)
+* [Villarreal - Barcelona](https://www.elmundo.es/deportes/futbol/laliga-ea-sports/villarreal-barcelona/2024/09/22/01_0101_20240922_449_178-directo.html)
 * [Audiencia ayer](https://www.elmundo.es/television/2024/09/20/66ed1526fdddff73038b4590.html)
 * [Cate Blanchett](https://www.elmundo.es/album/yodona/moda/2024/09/20/66edb1d4e4d4d8350d8b45b0.html)
 * [Guerra Ucrania](https://www.elmundo.es/internacional/2024/09/22/66efb32a3e3735002574923b-directo.html)
-* [R. Madrid - Espanyol](https://www.elmundo.es/deportes/futbol/laliga-ea-sports/r-madrid-espanyol/2024/09/21/01_0101_20240921_186_177-directo.html)
 * [Ramón Jordana](https://www.elmundo.es/loc/famosos/2024/09/19/66ec4a3fe85ecede6e8b4597.html)
 * [Felipe VI](https://www.elmundo.es/loc/famosos/2024/09/20/66ed4f5bfc6c83c7428b45a8.html)
 * [Alcalde Bienvenida](https://www.elmundo.es/espana/extremadura/2024/09/20/66ed5abd21efa0c7228b4595.html)
