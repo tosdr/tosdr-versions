@@ -58,7 +58,7 @@ Last updated: 12/18/2021
 
 [Back to Main page](https://www.uni-accounting.com/)
 
-![ITLogoBig](https://static.wixstatic.com/media/e20e22_d5440cbce1ff4f70a12491632197c569~mv2.png/v1/fill/w_165,h_66,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/ITLogoBig.png)
+![ITLogoBig](https://static.wixstatic.com/media/e20e22_d5440cbce1ff4f70a12491632197c569~mv2.png/v1/fill/w_164,h_66,al_c,q_85,usm_0.66_1.00_0.01,blur_3,enc_auto/ITLogoBig.png)
 
 ITExpress Ltd.
 
@@ -80,6 +80,6 @@ CH-2540 Grenchen
 
 © Copyright 2024 ITExpress Ltd.
 
-![Plain light blue sky without clouds.jpg](https://static.wixstatic.com/media/e20e22_98d98ca8f53d4b58b575b7180f128c5e~mv2.jpg/v1/fill/w_147,h_110,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/e20e22_98d98ca8f53d4b58b575b7180f128c5e~mv2.jpg)
+![Plain light blue sky without clouds.jpg](https://static.wixstatic.com/media/e20e22_98d98ca8f53d4b58b575b7180f128c5e~mv2.jpg/v1/fill/w_95,h_71,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/e20e22_98d98ca8f53d4b58b575b7180f128c5e~mv2.jpg)
 
 bottom of page
