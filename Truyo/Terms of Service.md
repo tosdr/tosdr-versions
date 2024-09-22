@@ -178,7 +178,7 @@ Tel: 480-240-5240
 
 [![truyo brand logo](/wp-content/uploads/2024/09/truyo_logo.svg)](https://truyo.com/)
 
-[![intraedge brand logo](/wp-content/uploads/2024/09/IntraEdge_Logo_RGB_v1-1-1.svg)](https://intraedge.com/)
+[![intraedge brand logo](/wp-content/uploads/2024/09/IntraEdge_Logo_RGB_v1-1-1-1.png)](https://intraedge.com/)
 
 Platform
 
