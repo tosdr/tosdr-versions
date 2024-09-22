@@ -269,13 +269,13 @@ article 1 week ago](https://www.nasa.gov/missions/station/nasas-spacex-crew-9-to
 
 ### NASA Data Helps Protect US Embassy Staff from Polluted Air
 
-article 1 day ago](https://science.nasa.gov/earth/nasa-data-helps-protect-us-embassy-staff-from-polluted-air/)[![NASA astronaut and Expedition 71 Flight Engineer Tracy C. Dyson smiles for a portrait in the vestibule between the Kibo laboratory module and the Harmony module aboard the International Space Station.](https://www.nasa.gov/wp-content/uploads/2024/08/iss071e547724.jpg?w=1024)
+article 2 days ago](https://science.nasa.gov/earth/nasa-data-helps-protect-us-embassy-staff-from-polluted-air/)[![NASA astronaut and Expedition 71 Flight Engineer Tracy C. Dyson smiles for a portrait in the vestibule between the Kibo laboratory module and the Harmony module aboard the International Space Station.](https://www.nasa.gov/wp-content/uploads/2024/08/iss071e547724.jpg?w=1024)
 
 4 min read
 
 ### NASA Astronaut Tracy C. Dyson’s Scientific Mission aboard Space Station
 
-article 3 days ago](https://www.nasa.gov/missions/station/iss-research/nasa-astronaut-tracy-c-dyson-scientific-mission-aboard-space-station/)[![Two astronauts float inside a densely packed laboratory module on the International Space Station, surrounded by a complex array of scientific equipment, cables, and instruments.](https://www.nasa.gov/wp-content/uploads/2024/09/iss043e099306orig.jpg?w=1024)
+article 4 days ago](https://www.nasa.gov/missions/station/iss-research/nasa-astronaut-tracy-c-dyson-scientific-mission-aboard-space-station/)[![Two astronauts float inside a densely packed laboratory module on the International Space Station, surrounded by a complex array of scientific equipment, cables, and instruments.](https://www.nasa.gov/wp-content/uploads/2024/09/iss043e099306orig.jpg?w=1024)
 
 3 min read
 
@@ -291,19 +291,19 @@ article 5 days ago](https://www.nasa.gov/centers-and-facilities/johnson/station-
 
 ### NASA Data Helps Protect US Embassy Staff from Polluted Air
 
-article 1 day ago](https://science.nasa.gov/earth/nasa-data-helps-protect-us-embassy-staff-from-polluted-air/)[![Screen capture of the My NASA Data homepage. Graphic has a blue background with an image of the Earth and rows across half of the picture representing water, sea ice, forests, clouds, and lava. Words at the top list the content categories.](https://www.nasa.gov/wp-content/uploads/2024/09/1-my-nasa-data-homepage.png?w=1024)
+article 2 days ago](https://science.nasa.gov/earth/nasa-data-helps-protect-us-embassy-staff-from-polluted-air/)[![Screen capture of the My NASA Data homepage. Graphic has a blue background with an image of the Earth and rows across half of the picture representing water, sea ice, forests, clouds, and lava. Words at the top list the content categories.](https://www.nasa.gov/wp-content/uploads/2024/09/1-my-nasa-data-homepage.png?w=1024)
 
 4 min read
 
 ### Going Back-to-School with NASA Data
 
-article 5 days ago](https://www.nasa.gov/earth/going-back-to-school-with-nasa-data/)[![Amendment 48: A.5 Carbon Cycle Science Final Text and Due Dates.](https://science.nasa.gov/wp-content/uploads/2023/06/co2-gmao-202102-lrg.jpg)
+article 6 days ago](https://www.nasa.gov/earth/going-back-to-school-with-nasa-data/)[![Amendment 48: A.5 Carbon Cycle Science Final Text and Due Dates.](https://science.nasa.gov/wp-content/uploads/2023/06/co2-gmao-202102-lrg.jpg)
 
 2 min read
 
 ### Amendment 48: A.5 Carbon Cycle Science Final Text and Due Dates.
 
-article 5 days ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-48-a-5-carbon-cycle-science-final-text-and-due-dates/)
+article 6 days ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-48-a-5-carbon-cycle-science-final-text-and-due-dates/)
 
 ### Highlights
 
@@ -313,13 +313,13 @@ article 5 days ago](https://science.nasa.gov/researchers/solicitations/roses-202
 
 ### NASA Develops Process to Create Very Accurate Eclipse Maps
 
-article 2 days ago](https://science.nasa.gov/solar-system/skywatching/eclipses/solar-eclipses/nasa-develops-process-to-create-very-accurate-eclipse-maps/)[![Artist’s concept depicts NASA’s Europa Clipper spacecraft in orbit around Jupiter](https://www.nasa.gov/wp-content/uploads/2024/08/e3-pia26068-europa-clipper-spacecraft-stylized-illustration.jpg?w=1024)
+article 3 days ago](https://science.nasa.gov/solar-system/skywatching/eclipses/solar-eclipses/nasa-develops-process-to-create-very-accurate-eclipse-maps/)[![Artist’s concept depicts NASA’s Europa Clipper spacecraft in orbit around Jupiter](https://www.nasa.gov/wp-content/uploads/2024/08/e3-pia26068-europa-clipper-spacecraft-stylized-illustration.jpg?w=1024)
 
 6 min read
 
 ### 8 Things to Know About NASA’s Mission to an Ocean Moon of Jupiter
 
-article 4 days ago](https://www.nasa.gov/missions/europa-clipper/8-things-to-know-about-nasas-mission-to-an-ocean-moon-of-jupiter/)[![Solar Storms and Flares](https://science.nasa.gov/wp-content/uploads/2024/06/x-flare-may-8-2024-131-171-red-crop2.jpg)
+article 5 days ago](https://www.nasa.gov/missions/europa-clipper/8-things-to-know-about-nasas-mission-to-an-ocean-moon-of-jupiter/)[![Solar Storms and Flares](https://science.nasa.gov/wp-content/uploads/2024/06/x-flare-may-8-2024-131-171-red-crop2.jpg)
 
 2 min read
 
@@ -335,7 +335,7 @@ article 1 week ago](https://science.nasa.gov/sun/solar-storms-and-flares/)
 
 ### Hubble Lights the Way with New Multiwavelength Galaxy View
 
-article 1 day ago](https://science.nasa.gov/missions/hubble/hubble-lights-the-way-with-new-multiwavelength-galaxy-view/)[![Burst Chaser](https://science.nasa.gov/wp-content/uploads/2024/09/logo.png)
+article 2 days ago](https://science.nasa.gov/missions/hubble/hubble-lights-the-way-with-new-multiwavelength-galaxy-view/)[![Burst Chaser](https://science.nasa.gov/wp-content/uploads/2024/09/logo.png)
 
 1 min read
 
@@ -347,7 +347,7 @@ article 2 days ago](https://science.nasa.gov/citizen-science/burst-chaser/)[![NA
 
 ### NASA’s Webb Provides Another Look Into Galactic Collisions
 
-article 3 days ago](https://science.nasa.gov/missions/webb/nasas-webb-provides-another-look-into-galactic-collisions/)
+article 4 days ago](https://science.nasa.gov/missions/webb/nasas-webb-provides-another-look-into-galactic-collisions/)
 
 ### Highlights
 
@@ -363,7 +363,7 @@ article 1 day ago](https://science.nasa.gov/researchers/solicitations/roses-2024
 
 ### Hubble Lights the Way with New Multiwavelength Galaxy View
 
-article 1 day ago](https://science.nasa.gov/missions/hubble/hubble-lights-the-way-with-new-multiwavelength-galaxy-view/)[![Burst Chaser](https://science.nasa.gov/wp-content/uploads/2024/09/logo.png)
+article 2 days ago](https://science.nasa.gov/missions/hubble/hubble-lights-the-way-with-new-multiwavelength-galaxy-view/)[![Burst Chaser](https://science.nasa.gov/wp-content/uploads/2024/09/logo.png)
 
 1 min read
 
@@ -373,25 +373,25 @@ article 2 days ago](https://science.nasa.gov/citizen-science/burst-chaser/)
 
 ### Highlights
 
-[![Pilot A. Scott Crossfield has ignited all eight of the X-15’s engines to begin the powered flight.](https://www.nasa.gov/wp-content/uploads/2024/09/x-15-first-powered-flight-14-under-power-naa.jpeg?w=541)
+[![A graphic showing various airplanes over a sun-drenched New York City skyline. with the words "Research Opportunities" overlaid on top.](https://www.nasa.gov/wp-content/uploads/2024/06/aero-research-opp-072024.jpg?w=1024)
+
+7 min read
+
+### ARMD Solicitations
+
+article 1 day ago](https://www.nasa.gov/aeronautics/armd-solicitations/)[![Pilot A. Scott Crossfield has ignited all eight of the X-15’s engines to begin the powered flight.](https://www.nasa.gov/wp-content/uploads/2024/09/x-15-first-powered-flight-14-under-power-naa.jpeg?w=541)
 
 8 min read
 
 ### 65 Years Ago: First Powered Flight of the X-15 Hypersonic Rocket Plane 
 
-article 4 days ago](https://www.nasa.gov/history/65-years-ago-first-powered-flight-of-the-x-15-hypersonic-rocket-plane/)[![Graphic shows a possible future General Electric jet engine with exposed fan blades in front of a cut-away-interior view of its core mechanisms -- all part of NASA's HyTEC research project.](https://www.nasa.gov/wp-content/uploads/2024/05/hytec-illustration.png?w=1024)
+article 5 days ago](https://www.nasa.gov/history/65-years-ago-first-powered-flight-of-the-x-15-hypersonic-rocket-plane/)[![Graphic shows a possible future General Electric jet engine with exposed fan blades in front of a cut-away-interior view of its core mechanisms -- all part of NASA's HyTEC research project.](https://www.nasa.gov/wp-content/uploads/2024/05/hytec-illustration.png?w=1024)
 
 3 min read
 
 ### NASA, GE Aerospace Advancing Hybrid-Electric Airliners with HyTEC
 
-article 4 days ago](https://www.nasa.gov/aeronautics/nasa-ge-hybrid-electric-research-092024/)[![An up-close view of ice that covers propeller blades inside the Icing Research Tunnel.](https://www.nasa.gov/wp-content/uploads/2024/08/grc-2023-c-02525.jpg?w=1024)
-
-5 min read
-
-### NASA Tunnel Generates Decades of Icy Aircraft Safety Data
-
-article 2 weeks ago](https://www.nasa.gov/centers-and-facilities/glenn/nasa-tunnel-generates-decades-of-icy-aircraft-safety-data/)
+article 5 days ago](https://www.nasa.gov/aeronautics/nasa-ge-hybrid-electric-research-092024/)
 
 ### Highlights
 
@@ -401,13 +401,13 @@ article 2 weeks ago](https://www.nasa.gov/centers-and-facilities/glenn/nasa-tunn
 
 ### A.55 Decadal Survey Incubation Program: Science and Technology Date Change for Preproposal Telecon
 
-article 2 days ago](https://science.nasa.gov/researchers/solicitations/roses-2024/a-55-decadal-survey-incubation-program-science-and-technology-date-change-for-preproposal-telecon/)[![](https://www.nasa.gov/wp-content/uploads/2024/09/image-819d21.jpeg?w=1024)
+article 3 days ago](https://science.nasa.gov/researchers/solicitations/roses-2024/a-55-decadal-survey-incubation-program-science-and-technology-date-change-for-preproposal-telecon/)[![](https://www.nasa.gov/wp-content/uploads/2024/09/image-819d21.jpeg?w=1024)
 
 5 min read
 
 ### Reinventing the Clock: NASA’s New Tech for Space Timekeeping
 
-article 3 days ago](https://www.nasa.gov/technology/goddard-tech/reinventing-the-clock-nasas-new-tech-for-space-timekeeping/)[![An Apollo astronaut preparing to climb the ladder into the lunar module's ascent stage, his spacesuit is covered in lunar dust.](https://images-assets.nasa.gov/image/as17-134-20481/as17-134-20481~large.jpg?w=1920&h=1920&fit=clip&crop=faces%2Cfocalpoint)
+article 4 days ago](https://www.nasa.gov/technology/goddard-tech/reinventing-the-clock-nasas-new-tech-for-space-timekeeping/)[![An Apollo astronaut preparing to climb the ladder into the lunar module's ascent stage, his spacesuit is covered in lunar dust.](https://images-assets.nasa.gov/image/as17-134-20481/as17-134-20481~large.jpg?w=1920&h=1920&fit=clip&crop=faces%2Cfocalpoint)
 
 3 min read
 
