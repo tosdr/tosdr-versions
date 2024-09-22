@@ -124,6 +124,6 @@ If you have questions about (or suggestions for!) this policy, please [contact u
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-Thanks again for the amazing support and I really appreciate the help in resolving this issue so quickly. I will be sure to inform my bosses about the great customer support provided.
+Great support as usual. You guys are doing a first class job.
 
-Jack Morrow
+Frederic Delaroche
