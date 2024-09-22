@@ -234,7 +234,7 @@ If you like these links, you'll love
 
 ![TotalFark](https://img.fark.net/images/2017/site/totalfark_logo_2017.png)
 
-All the submissions, none of the calories.
+Come on, it's $10 a month, just do it.
 
 [learn more](https://www.fark.com/farq/about/#What_is_TotalFark) | [sign up](https://www.fark.com/totalfarksignup)
 
@@ -334,16 +334,16 @@ Also on Fark
 
 |     |     |
 | --- | --- |
-| [Main](https://www.fark.com/) | [You have won second prize in a moose contest. Collect $12000 fine](https://www.fark.com/goto/13401988) ( [northernontario.ctvnews.ca](https://www.fark.com/goto/13401988) ) » [(0 comments)](https://www.fark.com/comments/13401988/You-have-won-second-prize-in-a-moose-contest-Collect-$12000-fine) |
-| [Discussion](https://www.fark.com/discussion/) | [Kids nowadays: 'Driving stick'? What's that?](https://www.fark.com/goto/13401912) ( [thestar.com](https://www.fark.com/goto/13401912) ) » [(12 comments)](https://www.fark.com/comments/13401912/Kids-nowadays-Driving-stick-Whats-that) |
-| [Sports](https://www.fark.com/sports/) | [In a shocking upset, James Madison beats North Carolina 70-50. Okay, it was in football, so not that shocking, but still](https://www.fark.com/goto/13402076) ( [sports.yahoo.com](https://www.fark.com/goto/13402076) ) » [(2 comments)](https://www.fark.com/comments/13402076/In-a-shocking-upset-James-Madison-beats-North-Carolina-70-50-Okay-it-was-in-football-so-not-that-shocking-but-still) |
-| [Business](https://www.fark.com/business/) | [Motel Sikhs?](https://www.fark.com/goto/13401890) ( [detroitnews.com](https://www.fark.com/goto/13401890) ) » [(2 comments)](https://www.fark.com/comments/13401890/Motel-Sikhs) |
-| [STEM](https://www.fark.com/stem/) | [What if the sun could be turned into the world's most powerful deep-space telescope? And what if there was beer on the sun?](https://www.fark.com/goto/13401980) ( [space.com](https://www.fark.com/goto/13401980) ) » [(2 comments)](https://www.fark.com/comments/13401980/What-if-sun-could-be-turned-into-worlds-most-powerful-deep-space-telescope-And-what-if-there-was-beer-on-sun) |
-| [Entertainment](https://www.fark.com/entertainment/) | [Tekashi 6ix9ine sued for revenge 69ing](https://www.fark.com/goto/13401690) ( [nme.com](https://www.fark.com/goto/13401690) ) » [(9 comments)](https://www.fark.com/comments/13401690/Tekashi-6ix9ine-sued-for-revenge-69ing) |
-| [Fandom](https://www.fark.com/fandom/) | [Finally, a new Rayman game is announced](https://www.fark.com/goto/13401738) ( [ign.com](https://www.fark.com/goto/13401738) ) » [(6 comments)](https://www.fark.com/comments/13401738/Finally-a-new-Rayman-game-is-announced) |
-| [D'awww](https://www.fark.com/dawww/) | [(In Schwarzenegger voice). Dis' is a Cyberdog](https://www.fark.com/goto/13401728) ( [youtube.com](https://www.fark.com/goto/13401728) ) » [(5 comments)](https://www.fark.com/comments/13401728/In-Schwarzenegger-voice-Dis-is-a-Cyberdog) |
-| [Food](https://www.fark.com/food/) | [Best chili crisp?](https://www.fark.com/goto/13401864) ( [en.wikipedia.org](https://www.fark.com/goto/13401864) ) » [(40 comments)](https://www.fark.com/comments/13401864/Best-chili-crisp) |
-| [Politics](https://www.fark.com/politics/) | [Gym Jordan still wants to wrestle his way into House GOP leadership](https://www.fark.com/goto/13401744) ( [politico.com](https://www.fark.com/goto/13401744) ) » [(9 comments)](https://www.fark.com/comments/13401744/Gym-Jordan-still-wants-to-wrestle-his-way-into-House-GOP-leadership) |
+| [Main](https://www.fark.com/) | [Photoshop this soil prep](https://www.fark.com/goto/13401034) ( [live.staticflickr.com](https://www.fark.com/goto/13401034) ) » [(7 comments)](https://www.fark.com/comments/13401034/Photoshop-this-soil-prep) |
+| [Discussion](https://www.fark.com/discussion/) | [CSB Sunday Morning: That time you won a prize](https://www.fark.com/goto/13402008) ( [fark.com](https://www.fark.com/goto/13402008) ) » [(20 comments)](https://www.fark.com/comments/13402008/CSB-Sunday-Morning-That-time-you-won-a-prize) |
+| [Sports](https://www.fark.com/sports/) | [Sunday Premier League double header @9:00 am ET The Tricky Trees to Brighton doth come (pace Shakespeare), winner goes into the top four. @11:30 a title race six pointer: Citeh hosting the Arsenal. Citeh are unbeaten in 47 matches at home. On USA](https://www.fark.com/goto/13402104) ( [premierleague.com](https://www.fark.com/goto/13402104) ) » [(8 comments)](https://www.fark.com/comments/13402104/Sunday-Premier-League-double-header-900-am-ET-The-Tricky-Trees-to-Brighton-doth-come-pace-Shakespeare-winner-goes-into-top-four-1130-a-title-race-six-pointer-Citeh-hosting-Arsenal-Citeh-are-unbeaten-in-47-matches-at-home-On-USA) |
+| [Business](https://www.fark.com/business/) | [Want to trade your cubicle for a soundproof office with a window? Okay, you can have that - but yes, there are a couple catches](https://www.fark.com/goto/13402080) ( [grandforksherald.com](https://www.fark.com/goto/13402080) ) » [(16 comments)](https://www.fark.com/comments/13402080/Want-to-trade-your-cubicle-for-a-soundproof-office-with-a-window-Okay-you-can-have-that-but-yes-there-are-a-couple-catches) |
+| [STEM](https://www.fark.com/stem/) | [Headline:"It's a miracle". Article: It's biology](https://www.fark.com/goto/13402144) ( [people.com](https://www.fark.com/goto/13402144) ) » [(9 comments)](https://www.fark.com/comments/13402144/HeadlineIts-a-miracle-Article-Its-biology) |
+| [Entertainment](https://www.fark.com/entertainment/) | [The one where they discuss reviving Friends, starring the characters' many children](https://www.fark.com/goto/13402166) ( [metro.co.uk](https://www.fark.com/goto/13402166) ) » [(2 comments)](https://www.fark.com/comments/13402166/The-one-where-they-discuss-reviving-Friends-starring-characters-many-children) |
+| [Fandom](https://www.fark.com/fandom/) | [Newly announced Pirate Yakuza game was leaked months ago on 4chan, but everyone thought it was too silly to be real](https://www.fark.com/goto/13402094) ( [gamesradar.com](https://www.fark.com/goto/13402094) ) » [(3 comments)](https://www.fark.com/comments/13402094/Newly-announced-Pirate-Yakuza-game-was-leaked-months-ago-on-4chan-but-everyone-thought-it-was-too-silly-to-be-real) |
+| [D'awww](https://www.fark.com/dawww/) | [I don't mind most marine mammals](https://www.fark.com/goto/13401900) ( [bc.ctvnews.ca](https://www.fark.com/goto/13401900) ) » [(3 comments)](https://www.fark.com/comments/13401900/I-dont-mind-most-marine-mammals) |
+| [Food](https://www.fark.com/food/) | [Headline of the Month August 2024 voting for Food](https://www.fark.com/goto/13399696) ( [fark.com](https://www.fark.com/goto/13399696) ) » [(30 comments)](https://www.fark.com/comments/13399696/Headline-of-Month-August-2024-voting-for-Food) |
+| [Politics](https://www.fark.com/politics/) | [In an alternate universe mainstream reporters interview TFG like he deserves](https://www.fark.com/goto/13402152) ( [gocomics.com](https://www.fark.com/goto/13402152) ) » [(13 comments)](https://www.fark.com/comments/13402152/In-an-alternate-universe-mainstream-reporters-interview-TFG-like-he-deserves) |
 
 * Fark :: [Main](https://www.fark.com/) | [Discussion](https://www.fark.com/discussion/) | [Sports](https://www.fark.com/sports/) | [Business](https://www.fark.com/business/) | [STEM](https://www.fark.com/stem/) | [Entertainment](https://www.fark.com/entertainment/) | [Fandom](https://www.fark.com/fandom/) | [D'awww](https://www.fark.com/dawww/) | [Food](https://www.fark.com/food/) | [Politics](https://www.fark.com/politics/)
 * Total Fark :: [TotalFark](https://total.fark.com/) | [TF Live](https://total.fark.com/live/) | [TF Advice](https://total.fark.com/advice/) | [TF Discussion](https://total.fark.com/tfdiscussion/) | [Commented](https://total.fark.com/commented/) | [Top Voted](https://total.fark.com/linkvote/) | [Greenlit](https://total.fark.com/greenlit/)
@@ -353,7 +353,7 @@ Also on Fark
 
 [Submit a Link »](https://www.fark.com/submit/)
 
-Copyright © 1999 - 2024 Fark, Inc | Last updated: Sep 22 2024 02:43:40  
+Copyright © 1999 - 2024 Fark, Inc | Last updated: Sep 22 2024 09:42:12  
 [Contact Us via Farkback](https://www.fark.com/farkback)  |  [Report a bug/error msg](https://www.fark.com/farkback/error)  |  [Terms of service/legal/privacy policy](https://www.fark.com/farq/legal)  |  [Do Not Sell or Share My Personal Information](javascript:void(0))  
 ![](https://www.fark.com/ll)
 
