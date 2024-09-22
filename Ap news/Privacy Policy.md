@@ -12,9 +12,9 @@ Menu
     
     TOP STORIES
     
-    * [Hezbollah targets base near Haifa after Israeli strike in Beirut killed 37, including top commander](https://apnews.com/article/israel-hezbollah-rocket-attack-mideast-tensions-0584727974096d98d1b5b132dfd1d218)
+    * [Hezbollah hits back with more than 100 rockets across a wider and deeper area of Israel](https://apnews.com/article/israel-lebanon-hezbollah-news-09-22-2024-fb1aa8ae061885ba86855f7fe9ec5be7)
     * [Israel raids and shuts down Al Jazeera's bureau in Ramallah in the West Bank](https://apnews.com/article/israel-palestinians-al-jazeera-gaza-war-hamas-4abdb2969e39e7ad99dfbf9caa7bb32c)
-    * [Zelenskyy hopes for quick US action as more arms depots are hit in Russia](https://apnews.com/article/russia-ukraine-war-fire-depot-drone-522c89e6ad0f1fb8db3a5787a1c17fc6)
+    * [German chancellor's Social Democrats seek to hold off far right in Brandenburg state election](https://apnews.com/article/germany-state-election-brandenburg-810a84f9c74c6f86aa6b52c2aff57f9b)
     
     Newsletters
     
@@ -92,7 +92,7 @@ Menu
     
     TOP STORIES
     
-    * [AP Top 25 Takeaways: USC and Michigan play instant Big Ten classic, realizing dream of realignment](https://apnews.com/article/ap-top-25-takeaways-ccbd0247cb6e194ebf4f082827bbc8d1)
+    * [AP Top 25 Takeaways: Who is better off? Lincoln Riley's new (USC) and old (OU) teams hoping for more](https://apnews.com/article/ap-top-25-takeaways-ccbd0247cb6e194ebf4f082827bbc8d1)
     * [North Carolina coach Mack Brown says 'embarrasing' 70-50 loss to James Madison is his fault](https://apnews.com/article/james-madison-north-carolina-score-a50321c5de1951bfe9259609871ccd09)
     * [Mullings' 2nd TD with 37 seconds left lifts No. 18 Michigan to 27-24 win over No. 11 USC](https://apnews.com/article/usc-michigan-score-2e3d6e4d62522309f4096beeea103424)
     
@@ -126,9 +126,9 @@ Menu
     
     TOP STORIES
     
+    * [Birds, bees and ballots: Swiss voters to decide on plan to bolster country's fragile biodiversity](https://apnews.com/article/biodiversity-switzerland-referendum-ba1053ddf906c191bef116f3dc379097)
+    * [An explosion at a coal mine in eastern Iran kills at least 33 workers](https://apnews.com/article/iran-coal-mine-deaths-tabas-f118b458f3350d7d655116c36ec261b4)
     * [More shelter beds and a crackdown on tents means fewer homeless encampments in San Francisco](https://apnews.com/article/san-francisco-homeless-encampments-c5dad968b8fafaab83b51433a204c9ea)
-    * [Trial in daytime ambush of rapper Young Dolph 3 years ago to begin in Memphis](https://apnews.com/article/young-dolph-rapper-shooting-memphis-trial-14e3cf33a24f1106401a2ef835f0008f)
-    * [Brazil drought punishes coffee farms and threatens to push prices even higher](https://apnews.com/article/brazil-climate-change-drought-coffee-harvest-a6516a4b314e6ba7c11513c08afb6996)
     
 * [Science](https://apnews.com/science)
     
@@ -269,9 +269,9 @@ Menu
     
     TOP STORIES
     
-    * [Thousands of beer lovers descend on Munich for Oktoberfest](https://apnews.com/article/oktoberfest-germany-beer-festival-91704214a7d0bf8fc5daaf82dc5e4ce1)
+    * [Beer and merriment flow at the 189th Oktoberfest in Munich](https://apnews.com/article/germany-oktoberfest-munich-security-beer-festival-8cfd0a79d679fc6370a01af2942a4e5f)
+    * [See Oktoberfest's best photos as thousands of beer lovers descend on Munich](https://apnews.com/article/oktoberfest-germany-beer-festival-91704214a7d0bf8fc5daaf82dc5e4ce1)
     * [Madonna makes veiled entrance to Dolce&Gabbana for show celebrating her 1990s heyday](https://apnews.com/article/madonna-dolce-gabbana-milan-fashion-week-0bdaa338eacd9e0cbbe26918e34d50c9)
-    * [Oktoberfest is open. The world’s largest folk festival begins after ceremonial keg-tapping](https://apnews.com/article/germany-oktoberfest-munich-security-beer-festival-591439ede1d985b7176c6d57f79a1dc7)
     
 * [Religion](https://apnews.com/religion)
     
@@ -293,12 +293,12 @@ Menu
     
     TOP STORIES
     
-    * [Alto dirigente de Hezbollah entre los 37 muertos por ataque israelí en Beirut](https://apnews.com/world-news/general-news-12f2c9ddfb9587ef1c34dfaa58929e65)
+    * [Hezbollah contraataca con más de 100 cohetes sobre una zona más amplia de Israel](https://apnews.com/world-news/general-news-a622e065ce6bb0bb049cf77ca05dc3fd)
+    * [Israel allana y cierra la oficina de Al Jazeera en Ramala, Cisjordania](https://apnews.com/world-news/general-news-606a902022db871f67b3936c53e38b68)
     * [Ataque israelí contra escuela de Gaza deja por lo menos 22 muertos, dice Ministerio de Salud](https://apnews.com/world-news/general-news-47789b03dd3ca045f73befdb1e309cf5)
-    * [Zelenskyy espera pronta acción de EEUU mientras Ucrania ataca más depósitos de armas en Rusia](https://apnews.com/world-news/general-news-2bb5556f2e4374ba0b0273c0e6131928)
-    * [Francia anuncia nuevo gobierno de centroderecha, más de dos meses después de elecciones](https://apnews.com/world-news/general-news-5efb345f89e6d553e86614fa7d261abb)
-    * [Presidente de Kenia visita Haití en medio de dudas de los esfuerzos para luchar contra pandillas](https://apnews.com/world-news/general-news-e66551ac97c6023d715cd4393f9c3d67)
-    * [Israel allana y cierra oficina de Al Jazeera en Ramala, Cisjordania](https://apnews.com/world-news/general-news-606a902022db871f67b3936c53e38b68)
+    * [Más de 20 heridos tras ataques rusos contra bloques de apartamentos en Járkiv, Ucrania](https://apnews.com/world-news/general-news-906ad2f3edea7e56ff272c25dbd6e767)
+    * [Suben a 32 los muertos tras explosión de metano en una mina iraní de carbón, según televisora](https://apnews.com/world-news/general-news-569fd7b922309d2acc99bf53523a1e57)
+    * [Un legislador marxista lidera el conteo en las presidenciales de Sri Lanka](https://apnews.com/world-news/general-news-9ff7fe01ada32b198c7fab15dad0ddee)
     
 * [AP Buyline Personal Finance](https://apnews.com/buyline-personal-finance/)
     
@@ -453,9 +453,9 @@ Submit Search
     
     TOP STORIES
     
-    * [Hezbollah targets base near Haifa after Israeli strike in Beirut killed 37, including top commander](https://apnews.com/article/israel-hezbollah-rocket-attack-mideast-tensions-0584727974096d98d1b5b132dfd1d218)
+    * [Hezbollah hits back with more than 100 rockets across a wider and deeper area of Israel](https://apnews.com/article/israel-lebanon-hezbollah-news-09-22-2024-fb1aa8ae061885ba86855f7fe9ec5be7)
     * [Israel raids and shuts down Al Jazeera's bureau in Ramallah in the West Bank](https://apnews.com/article/israel-palestinians-al-jazeera-gaza-war-hamas-4abdb2969e39e7ad99dfbf9caa7bb32c)
-    * [Zelenskyy hopes for quick US action as more arms depots are hit in Russia](https://apnews.com/article/russia-ukraine-war-fire-depot-drone-522c89e6ad0f1fb8db3a5787a1c17fc6)
+    * [German chancellor's Social Democrats seek to hold off far right in Brandenburg state election](https://apnews.com/article/germany-state-election-brandenburg-810a84f9c74c6f86aa6b52c2aff57f9b)
     
     Newsletters
     
@@ -553,7 +553,7 @@ Submit Search
     
     TOP STORIES
     
-    * [AP Top 25 Takeaways: USC and Michigan play instant Big Ten classic, realizing dream of realignment](https://apnews.com/article/ap-top-25-takeaways-ccbd0247cb6e194ebf4f082827bbc8d1)
+    * [AP Top 25 Takeaways: Who is better off? Lincoln Riley's new (USC) and old (OU) teams hoping for more](https://apnews.com/article/ap-top-25-takeaways-ccbd0247cb6e194ebf4f082827bbc8d1)
     * [North Carolina coach Mack Brown says 'embarrasing' 70-50 loss to James Madison is his fault](https://apnews.com/article/james-madison-north-carolina-score-a50321c5de1951bfe9259609871ccd09)
     * [Mullings' 2nd TD with 37 seconds left lifts No. 18 Michigan to 27-24 win over No. 11 USC](https://apnews.com/article/usc-michigan-score-2e3d6e4d62522309f4096beeea103424)
     
@@ -598,9 +598,9 @@ Submit Search
     
     TOP STORIES
     
+    * [Birds, bees and ballots: Swiss voters to decide on plan to bolster country's fragile biodiversity](https://apnews.com/article/biodiversity-switzerland-referendum-ba1053ddf906c191bef116f3dc379097)
+    * [An explosion at a coal mine in eastern Iran kills at least 33 workers](https://apnews.com/article/iran-coal-mine-deaths-tabas-f118b458f3350d7d655116c36ec261b4)
     * [More shelter beds and a crackdown on tents means fewer homeless encampments in San Francisco](https://apnews.com/article/san-francisco-homeless-encampments-c5dad968b8fafaab83b51433a204c9ea)
-    * [Trial in daytime ambush of rapper Young Dolph 3 years ago to begin in Memphis](https://apnews.com/article/young-dolph-rapper-shooting-memphis-trial-14e3cf33a24f1106401a2ef835f0008f)
-    * [Brazil drought punishes coffee farms and threatens to push prices even higher](https://apnews.com/article/brazil-climate-change-drought-coffee-harvest-a6516a4b314e6ba7c11513c08afb6996)
     
 * [Science](https://apnews.com/science)
     
@@ -765,9 +765,9 @@ Submit Search
     
     TOP STORIES
     
-    * [Thousands of beer lovers descend on Munich for Oktoberfest](https://apnews.com/article/oktoberfest-germany-beer-festival-91704214a7d0bf8fc5daaf82dc5e4ce1)
+    * [Beer and merriment flow at the 189th Oktoberfest in Munich](https://apnews.com/article/germany-oktoberfest-munich-security-beer-festival-8cfd0a79d679fc6370a01af2942a4e5f)
+    * [See Oktoberfest's best photos as thousands of beer lovers descend on Munich](https://apnews.com/article/oktoberfest-germany-beer-festival-91704214a7d0bf8fc5daaf82dc5e4ce1)
     * [Madonna makes veiled entrance to Dolce&Gabbana for show celebrating her 1990s heyday](https://apnews.com/article/madonna-dolce-gabbana-milan-fashion-week-0bdaa338eacd9e0cbbe26918e34d50c9)
-    * [Oktoberfest is open. The world’s largest folk festival begins after ceremonial keg-tapping](https://apnews.com/article/germany-oktoberfest-munich-security-beer-festival-591439ede1d985b7176c6d57f79a1dc7)
     
 * [Religion](https://apnews.com/religion)
     
@@ -789,12 +789,12 @@ Submit Search
     
     TOP STORIES
     
-    * [Alto dirigente de Hezbollah entre los 37 muertos por ataque israelí en Beirut](https://apnews.com/world-news/general-news-12f2c9ddfb9587ef1c34dfaa58929e65)
+    * [Hezbollah contraataca con más de 100 cohetes sobre una zona más amplia de Israel](https://apnews.com/world-news/general-news-a622e065ce6bb0bb049cf77ca05dc3fd)
+    * [Israel allana y cierra la oficina de Al Jazeera en Ramala, Cisjordania](https://apnews.com/world-news/general-news-606a902022db871f67b3936c53e38b68)
     * [Ataque israelí contra escuela de Gaza deja por lo menos 22 muertos, dice Ministerio de Salud](https://apnews.com/world-news/general-news-47789b03dd3ca045f73befdb1e309cf5)
-    * [Zelenskyy espera pronta acción de EEUU mientras Ucrania ataca más depósitos de armas en Rusia](https://apnews.com/world-news/general-news-2bb5556f2e4374ba0b0273c0e6131928)
-    * [Francia anuncia nuevo gobierno de centroderecha, más de dos meses después de elecciones](https://apnews.com/world-news/general-news-5efb345f89e6d553e86614fa7d261abb)
-    * [Presidente de Kenia visita Haití en medio de dudas de los esfuerzos para luchar contra pandillas](https://apnews.com/world-news/general-news-e66551ac97c6023d715cd4393f9c3d67)
-    * [Israel allana y cierra oficina de Al Jazeera en Ramala, Cisjordania](https://apnews.com/world-news/general-news-606a902022db871f67b3936c53e38b68)
+    * [Más de 20 heridos tras ataques rusos contra bloques de apartamentos en Járkiv, Ucrania](https://apnews.com/world-news/general-news-906ad2f3edea7e56ff272c25dbd6e767)
+    * [Suben a 32 los muertos tras explosión de metano en una mina iraní de carbón, según televisora](https://apnews.com/world-news/general-news-569fd7b922309d2acc99bf53523a1e57)
+    * [Un legislador marxista lidera el conteo en las presidenciales de Sri Lanka](https://apnews.com/world-news/general-news-9ff7fe01ada32b198c7fab15dad0ddee)
     
 * [AP Buyline Personal Finance](https://apnews.com/buyline-personal-finance/)
     
