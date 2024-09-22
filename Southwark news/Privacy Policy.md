@@ -367,11 +367,11 @@ Website
 
 [16th September 2024](https://southwarknews.co.uk/sport/football/millwall/millwall-boss-gives-verdict-after-replacement-striker-inches-away-from-first-lions-goal/)
 
-[![A photo of the ship sailing in New York ®Alejandro Mallado Erbez](https://southwarknews.co.uk/wp-content/uploads/2024/09/Foto-Galeon-Nueva-York-2013-120x86.jpg)](https://southwarknews.co.uk/news/spanish-17th-century-galleon-will-soon-arrive-in-london/)
+[![Macaulay Langstaff for his new club against Portsmouth. Image: Millwall FC](https://southwarknews.co.uk/wp-content/uploads/2024/09/Langstaff-v-Portsmouth-120x86.jpeg)](https://southwarknews.co.uk/sport/football/millwall/millwall-striker-fully-confident-of-getting-off-the-mark-for-new-club/)
 
-### [Spanish 17th-century galleon will soon arrive in London](https://southwarknews.co.uk/news/spanish-17th-century-galleon-will-soon-arrive-in-london/)
+### [Millwall striker ‘fully confident’ of getting off the mark for new club](https://southwarknews.co.uk/sport/football/millwall/millwall-striker-fully-confident-of-getting-off-the-mark-for-new-club/)
 
-[14th September 2024](https://southwarknews.co.uk/news/spanish-17th-century-galleon-will-soon-arrive-in-london/)
+[19th September 2024](https://southwarknews.co.uk/sport/football/millwall/millwall-striker-fully-confident-of-getting-off-the-mark-for-new-club/)
 
 ### Featured Articles
 
