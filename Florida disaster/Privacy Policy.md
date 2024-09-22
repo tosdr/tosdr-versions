@@ -213,9 +213,11 @@ Dial 711 (TDD/TTY)        
 
 ### Weather Outlook
 
-**Saturday, September 21, 2024**
+**Sunday, September 22, 2024**
 
-**...High Pressure To Promote Relatively Dry and Warm Conditions and Mostly Clear Skies Statewide****...Isolated to Widely Scattered Shower and Thunderstorms With the Sea Breezes Along the Peninsula and Keys; Near-Zero Rain Chances Elsewhere...Isolated Strong to Severe Thunderstorms and Isolated Instances of Flooding Cannot Be Ruled Out...Wind Gusts Upwards of 10-20 MPH Today; Locally Stronger Gusts Upwards of 15-25 MPH Along Northeast Florida...Coastal Flood Advisories and Statements Remain In Effect Along the St. Johns Basin, East and South Florida Coastlines, and Keys for Minor to Moderate Coastal Flooding...High Risk For Rip Currents Along Northeast Coast; Moderate Risk East Coast and Florida Panhandle...River Flood Warnings Remain In Effect For the St. Johns River at Astor and Cypress Creek at SR-54...Patchy to Locally Dense Fog Possible Overnight and Early Sunday Morning...NHC is Monitoring Several Atlantic Disturbances; Remnants of Gordon and Invest 96L (10%) No Direct Threat At This Time; Northwestern Caribbean Sea and Gulf of Mexico (60%) No Direct Threat Within 5 Days But Will Continue to Monitor; Eastern and Central Subtropical Atlantic (30%) No Direct Threat Next 7-10 Days At Least...**
+**Happy First Day of Astronomical Fall!**
+
+**...High Pressure To Bring Mostly Sunny and Dry Conditions Across North Florida...Shower and Thunderstorm Activity to Be Concentrated Along Sea Breeze This Afternoon and Evening; Drier Conditions to Create More Isolated Activity...Locally Strong to Severe Thunderstorms Cannot Be Ruled Out Along Sea Breeze; Frequent Lightning, Gusty Winds, and Heavy Downpours...Heat Index Values In Middle to Upper 90s and Low 100s Statewide; Heat Advisories Not Anticipated...Calm and Clear Conditions to Allow for Patchy to Locally Dense Fog Overnight and Early Monday Morning Across Big Bend, Suwannee Valley and Northeast Florida...Moderate Risk for Rip Currents for Numerous Panhandle and East Coast Beaches...Minor Coastal Flooding Near and During Times of High Tide Along St. Johns River, East Coast, South Florida and Keys; Coastal Flood Advisories and Coastal Flood Statements Remain in Effect...Invest 96L Over Central Subtropical Atlantic Has Not Become Better Organized (20%); Broad Area of Low Pressure Over Western Caribbean Sea Producing Disorganized Showers and Thunderstroms (70%); Tropcial Wave Moving Westward Over Eastern and Central Tropical Atlantic During Next Several Days (40%)...**
 
 [More Details](https://www.floridadisaster.org/weather/)
 
