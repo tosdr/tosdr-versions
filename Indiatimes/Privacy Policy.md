@@ -339,7 +339,7 @@ Powered by
 
 Get the NEWS that fits your groove.
 
-[![whatshot](https://im.indiatimes.in/content/2023/Oct/mobile-img-min_65282685ade72.jpeg?w=32&h=6&cc=1&webp=1&q=75 "whatshot")](https://www.whatshot.in/)
+[![whatshot](https://im.indiatimes.in/content/2023/Oct/big-test-min_6528266ce9a76.jpeg?w=32&h=6&cc=1&webp=1&q=75 "whatshot")](https://www.whatshot.in/)
 
 [About Us](https://timesinternet.in/)•[Contact Us](https://www.indiatimes.com/contactus) •  
 [Terms & Conditions](https://www.indiatimes.com/termsandcondition) •  
