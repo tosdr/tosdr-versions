@@ -82,6 +82,30 @@
 More Stories
 ------------
 
+*  [![glace cryotherapy](https://www.women.com/img/gallery/heres-what-went-down-with-glac-cryotherapy-after-shark-tank/intro-1726783810.jpg)](https://www.women.com/1669284/what-went-down-with-glace-cryotherapy-after-shark-tank/)
+    
+    [Living](https://www.women.com/category/living/)
+    
+    [Living](https://www.women.com/category/living/) By Amanda Chatel
+    
+    ### [Here's What Went Down With GLACÉ Cryotherapy After Shark Tank](https://www.women.com/1669284/what-went-down-with-glace-cryotherapy-after-shark-tank/)
+    
+    The Scarlett siblings' cold therapy business Glace promised to revolutionize the exercise space. But unfortunately, the hype around the movement didn't last.
+    
+    By Amanda Chatel [Read More](https://www.women.com/1669284/what-went-down-with-glace-cryotherapy-after-shark-tank/)
+    
+*  [![Sabrina Carpenter on stage](https://www.women.com/img/gallery/sabrina-carpenter-outfits-that-prove-why-shes-the-new-it-girl/intro-1726692701.jpg)](https://www.women.com/1668167/sabrina-carpenter-outfits-prove-why-new-it-girl/)
+    
+    [Fashion](https://www.women.com/category/fashion/)
+    
+    [Fashion](https://www.women.com/category/fashion/) By Emily Hutchinson
+    
+    ### [Sabrina Carpenter Outfits That Prove Why She's The New It Girl](https://www.women.com/1668167/sabrina-carpenter-outfits-prove-why-new-it-girl/)
+    
+    There's no nonsense when it comes to Sabrina Carpenter's fashion sense. Here are the best looks that prove the singer is a Taste-maker when it comes to trends.
+    
+    By Emily Hutchinson [Read More](https://www.women.com/1668167/sabrina-carpenter-outfits-prove-why-new-it-girl/)
+    
 *  [![Sydney Sweeney on the red carpet](https://www.women.com/img/gallery/sydney-sweeney-outfits-that-totally-missed-the-mark/intro-1726589829.jpg)](https://www.women.com/1666623/sydney-sweeney-outfits-totally-missed-the-mark/)
     
     [Fashion](https://www.women.com/category/fashion/)
@@ -381,30 +405,6 @@ More Stories
     Whether you're a first time mom or on baby number three, motherhood comes with challenges. Thankfully, MomCozy is here to help every step of the way.
     
     By Savanna Swain-Wilson [Read More](https://www.women.com/1659435/momcozy-ultimate-motherhood-community/)
-    
-*  [![Princess Diana at event](https://www.women.com/img/gallery/the-royal-fashion-rules-princess-diana-never-followed/intro-1725571493.jpg)](https://www.women.com/1658470/royal-fashion-rules-princess-diana-didnt-follow/)
-    
-    [Fashion](https://www.women.com/category/fashion/)
-    
-    [Fashion](https://www.women.com/category/fashion/) By Bernadette Roe
-    
-    ### [The Royal Fashion Rules Princess Diana Never Followed](https://www.women.com/1658470/royal-fashion-rules-princess-diana-didnt-follow/)
-    
-    Princess Diana had a whole arsenal of royal rule breaking outfits, but it's her regal attitude that allowed her to make her own rules.
-    
-    By Bernadette Roe [Read More](https://www.women.com/1658470/royal-fashion-rules-princess-diana-didnt-follow/)
-    
-*  [![Looking at her phone](https://www.women.com/img/gallery/how-to-start-sexting-like-a-pro-even-if-it-feels-awkward/intro-1725569513.jpg)](https://www.women.com/1658423/how-to-sext-awkward-sex/)
-    
-    [Sex](https://www.women.com/category/sex-life/)
-    
-    [Sex](https://www.women.com/category/sex-life/) By Amanda Chatel
-    
-    ### [How To Start Sexting Like A Pro (Even If It Feels Awkward)](https://www.women.com/1658423/how-to-sext-awkward-sex/)
-    
-    Even if your brain is rife with dirty kinks and desires you want to explore, trying to find the words and typing them out is a whole other story.
-    
-    By Amanda Chatel [Read More](https://www.women.com/1658423/how-to-sext-awkward-sex/)
     
 
 Back
