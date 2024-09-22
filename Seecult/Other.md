@@ -322,11 +322,11 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 
 [Galerija umetnika](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")[](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/zoran-popovic-escapism/zoran-popovic-fotografije/photos/jasna-tijardovic-art-institute-chicago.jpg?itok=E4DKa6IX)](http://seecult.org/galerija/galerija-umetnika/zoran-popovic-escapism/zoran-popovic-fotografije-photos)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/milovan-destil-markovic/homeless-project/belgrade.?itok=vmT9HGjj)](http://seecult.org/galerija/galerija-umetnika/milovan-destil-markovic/homeless-project)
 
 [Foto galerija](http://seecult.org/galerija/foto-galerija "Foto galerija")[](http://seecult.org/galerija/foto-galerija "Foto galerija")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/sff-001.jpg?itok=L6KhggjX)](http://seecult.org/galerija/foto-galerija/foto-arhiva)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/festivali-koncerti-predstave-akcije/koncerti/dan-bubnjara/dscf5149.jpg?itok=jLW3-_cy)](http://seecult.org/galerija/foto-galerija/festivali-koncerti-predstave-akcije/koncerti/dan-bubnjara)
 
 * [Najčitanije](#news_1)
 * [Najnovije](#news_2)
