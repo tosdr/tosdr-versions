@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/17bbbf9c-bc3d-41c3-ab06-d6088cf7c218/20240922T051336/17bbbf9c-bc3d-41c3-ab06-d6088cf7c218_16x9.jpg) ![](https://media.king5.com/assets/KING/images/17bbbf9c-bc3d-41c3-ab06-d6088cf7c218/20240922T051336/17bbbf9c-bc3d-41c3-ab06-d6088cf7c218_360x203.jpg)](https://www.king5.com/article/news/crime/police-investigating-10-recent-robberies-south-seattle/281-5c394dee-326e-464a-9410-35964462f83f)
+    *  [![](https://media.king5.com/assets/KING/images/a181af51-2fff-4840-b7e7-3ff8ec84a8f4/20240505T184202/a181af51-2fff-4840-b7e7-3ff8ec84a8f4_16x9.jpg) ![](https://media.king5.com/assets/KING/images/a181af51-2fff-4840-b7e7-3ff8ec84a8f4/20240505T184202/a181af51-2fff-4840-b7e7-3ff8ec84a8f4_360x203.jpg)](https://www.king5.com/article/news/local/en-espanol/cinco-cosas-registrarse-para-votar-la-gala-del-centro-de-la-raza-y-festival-de-las-catrinas-seattle/281-c9c744aa-0e3e-423e-9697-918a73328865)
         
-        #### [Police say several groups responsible for over 10 recent robberies in South Seattle](https://www.king5.com/article/news/crime/police-investigating-10-recent-robberies-south-seattle/281-5c394dee-326e-464a-9410-35964462f83f)
+        #### [Cinco Cosas: Registrarse para votar, La Gala del Centro de la Raza y Festival de Las Catrinas Seattle](https://www.king5.com/article/news/local/en-espanol/cinco-cosas-registrarse-para-votar-la-gala-del-centro-de-la-raza-y-festival-de-las-catrinas-seattle/281-c9c744aa-0e3e-423e-9697-918a73328865)
         
-    *  [![](https://media.king5.com/assets/KING/images/cf6461d8-b587-4b6f-87ec-e0efb8ad6692/20240921T211557/cf6461d8-b587-4b6f-87ec-e0efb8ad6692_16x9.jpg) ![](https://media.king5.com/assets/KING/images/cf6461d8-b587-4b6f-87ec-e0efb8ad6692/20240921T211557/cf6461d8-b587-4b6f-87ec-e0efb8ad6692_360x203.jpg)](https://www.king5.com/article/news/local/former-wa-governor-dan-evans-dies-at-98/281-d8cd3816-47cf-4069-8d29-b16eb3fb5e9b)
+    *  [![](https://media.king5.com/assets/KING/images/f35d8280-02d3-48b4-8b1e-72172762aecc/20240922T162652/f35d8280-02d3-48b4-8b1e-72172762aecc_16x9.jpg) ![](https://media.king5.com/assets/KING/images/f35d8280-02d3-48b4-8b1e-72172762aecc/20240922T162652/f35d8280-02d3-48b4-8b1e-72172762aecc_360x203.jpg)](https://www.king5.com/article/entertainment/events/el-centro-de-la-raza-gala-to-celebrate-community-raise-funds-for-continued-services/281-20705db3-cef1-43d6-96bf-282b9129f9a4)
         
-        #### [Former Washington governor Dan Evans dies at 98](https://www.king5.com/article/news/local/former-wa-governor-dan-evans-dies-at-98/281-d8cd3816-47cf-4069-8d29-b16eb3fb5e9b)
+        #### [El Centro de la Raza gala to celebrate community, raise funds for continued services](https://www.king5.com/article/entertainment/events/el-centro-de-la-raza-gala-to-celebrate-community-raise-funds-for-continued-services/281-20705db3-cef1-43d6-96bf-282b9129f9a4)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -56,7 +56,7 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/b22f3bd0-008e-4d9b-b243-c15242782bba/20240922T033301/b22f3bd0-008e-4d9b-b243-c15242782bba_16x9.jpg) ![](https://media.king5.com/assets/KING/images/b22f3bd0-008e-4d9b-b243-c15242782bba/20240922T033301/b22f3bd0-008e-4d9b-b243-c15242782bba_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
+    *  [![](https://media.king5.com/assets/KING/images/a6cfcbdb-8b5c-4d7d-ac27-70b49a6163f7/20240922T151949/a6cfcbdb-8b5c-4d7d-ac27-70b49a6163f7_16x9.jpg) ![](https://media.king5.com/assets/KING/images/a6cfcbdb-8b5c-4d7d-ac27-70b49a6163f7/20240922T151949/a6cfcbdb-8b5c-4d7d-ac27-70b49a6163f7_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
         #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
@@ -95,9 +95,9 @@ Navigation
 
 Seattle, WA »
 
-53°
+66°
 
-![Sunny](/assets/shared-images/weather-icons/clear-day_210x210.png)
+![Partly Cloudy](/assets/shared-images/weather-icons/partly-cloudy-day_210x210.png)
 
 Seattle, WA »](https://www.king5.com/weather)
 
