@@ -122,8 +122,7 @@ Pronatura Main
 
 * [Biodiversitätskrise](https://www.pronatura.ch/de/biodiversitaet)
     
-    * [3 Gründe für ein JA](https://www.pronatura.ch/de/2024/drei-gruende-fuer-ein-ja-zur-biodiversitaetsinitiative)
-    * [3 Wege aktiv zu werden](https://www.pronatura.ch/de/biodiversitaet/lebensraum-retten)
+    * [Aktiv werden für die Natur](https://www.pronatura.ch/de/aktiv-werden-fuer-die-natur)
     * [Fragen und Antworten](https://www.pronatura.ch/de/biodiversitaet-der-schweiz-fragen-und-antworten)
     * [Lebensräume kennenlernen](https://www.pronatura.ch/de/lebensraeume)
     
