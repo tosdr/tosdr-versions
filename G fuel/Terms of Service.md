@@ -404,7 +404,7 @@ Rated 4.4 out of 5 stars
 
 Rated 4.7 out of 5 stars
 
-110 Reviews
+111 Reviews
 
 4.5
 
