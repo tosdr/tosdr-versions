@@ -66,7 +66,7 @@ Any e-mail addresses are not used or collected for any purpose other than notify
 
 ### Look at this!
 
-[![Names in the News: Alpha Natural Resources](/assets/Images/teasers/full/ANR-Coal-by-Party.png)](http://www.followthemoney.org/research/institute-reports/names-in-the-news-alpha-natural-resources/)
+[![Dark Money Pushes Into State Elections](/assets/Images/teasers/small/DarkMoneyStates.JPG)](https://www.followthemoney.org/research/blog/darkness-on-the-edge-of-town-national-dark-money-targets-states)
 
   [See More Visualizations](https://www.followthemoney.org/look-at-this)
 
