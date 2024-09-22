@@ -78,7 +78,7 @@ Search
 
 #### Breaking News
 
-[Harris accepts CNN invitation to debate Trump -- despite ex-prez insisting they won't face off again](https://nypost.com/2024/09/21/us-news/harris-accepts-cnn-invitation-to-debate-trump-on-oct-23-despite-ex-prez-insisting-they-wont-face-off-again/)
+[Kamala Harris to skip traditional Al Smith dinner, first time presidential candidate has ducked charity event since 1984](https://nypost.com/2024/09/21/us-news/kamala-harris-to-skip-traditional-al-smith-dinner-first-time-presidential-candidate-has-ducked-charity-event-since-1984/)
 
 Privacy Notice Highlights
 =========================
