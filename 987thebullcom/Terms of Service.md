@@ -210,11 +210,11 @@ Recently Played
 
 |     |
 | --- |
-| I Go BackKenny Chesney<br><br>4:54am |
-| Save MeJelly Roll Ft Lainey Wilson<br><br>4:50am |
-| Cowboy SongsGeorge Birge<br><br>4:47am |
-| Dirt CheapCody Johnson<br><br>4:43am |
-| Damn Good Day To LeaveRiley Green<br><br>4:39am |
+| SpringsteenEric Church<br><br>11:40am |
+| Cowboys Cry TooKelsea Ballerini Ft Noah Kahan<br><br>11:36am |
+| What Was I Thinkin'Dierks Bentley<br><br>11:32am |
+| LosersPost Malone Ft Jelly Roll<br><br>11:29am |
+| Back Then Right NowTyler Hubbard<br><br>11:26am |
 
 [View Full Playlist](https://www.987thebull.com/recently-played)
 
@@ -362,13 +362,13 @@ Featured Brands
 
 Sports • Midwest
 
-[![98.5 The Bull Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KDES.png)](https://www.985thebull.com/)
-
-Country • Western
-
 [![Latino 106.3 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBMG.png)](https://www.latinosaltlake.com/)
 
 Spanish • Western
+
+[![98.5 The Bull Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KDES.png)](https://www.985thebull.com/)
+
+Country • Western
 
 [![Live 95.5 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBFF.png)](https://www.live955.com/)
 
