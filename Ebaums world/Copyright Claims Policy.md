@@ -199,13 +199,13 @@ Advertisement
 
 * ### eBaum's Picks
     
-    [![Guy playing a guitar](https://cdn.ebaumsworld.com/img/blank.gif)](https://www.ebaumsworld.com/videos/heavy-metal-without-distortion-is-basically-surf-music-from-hell/85155941/) [Heavy Metal Without Distortion Is Basically Surf Rock From Hell](https://www.ebaumsworld.com/videos/heavy-metal-without-distortion-is-basically-surf-music-from-hell/85155941/)
+    [![Insane Childhood Stories As Told By Twitter Users](https://cdn.ebaumsworld.com/img/blank.gif)](https://trending.ebaumsworld.com/pictures/insane-childhood-stories-as-told-by-twitter-users/87497005/) [19 Insane Childhood Stories As Told By Twitter Users](https://trending.ebaumsworld.com/pictures/insane-childhood-stories-as-told-by-twitter-users/87497005/)
     
-    [![](https://cdn.ebaumsworld.com/img/blank.gif)](https://www.ebaumsworld.com/videos/guy-rips-a-massive-fart-after-finding-out-hes-being-charged-with-possession-of-a-firearm/87424149/) [Guy Rips a Massive Fart After Finding Out He Was Being Charged With Possession of a Firearm](https://www.ebaumsworld.com/videos/guy-rips-a-massive-fart-after-finding-out-hes-being-charged-with-possession-of-a-firearm/87424149/)
+    [![](https://cdn.ebaumsworld.com/img/blank.gif)](https://trending.ebaumsworld.com/pictures/24-tasteless-and-terrible-tattoos-inked-with-regret/87510467/) [24 Tasteless and Terrible Tattoos Inked With Regret](https://trending.ebaumsworld.com/pictures/24-tasteless-and-terrible-tattoos-inked-with-regret/87510467/)
     
-    [![behind the scene pic pf NPR's tiny desk](https://cdn.ebaumsworld.com/img/blank.gif)](https://trending.ebaumsworld.com/pictures/18-things-seen-from-a-different-perspective/87496175/) [18 Fascinating Photos That Offer a Unique Perspective](https://trending.ebaumsworld.com/pictures/18-things-seen-from-a-different-perspective/87496175/)
+    [![24 People Share the Worst Case of Living in Denial They've Ever Seen](https://cdn.ebaumsworld.com/img/blank.gif)](https://trending.ebaumsworld.com/pictures/25-people-share-the-worst-case-of-living-in-denial-theyve-ever-seen/87496387/) [24 Embarrassing Cases of People Living in Denial](https://trending.ebaumsworld.com/pictures/25-people-share-the-worst-case-of-living-in-denial-theyve-ever-seen/87496387/)
     
-    [![Screenshot proof of NFL rigging during a Cleveland Browns and Washington Rednecks NFL football game](https://cdn.ebaumsworld.com/img/blank.gif)](https://www.ebaumsworld.com/videos/did-this-man-find-proof-the-nfl-is-rigged/85155857/) [Did This Man Find Proof The NFL is Rigged?](https://www.ebaumsworld.com/videos/did-this-man-find-proof-the-nfl-is-rigged/85155857/)
+    [![Climber Forgets to Attach His Rope, Pays the Price](https://cdn.ebaumsworld.com/img/blank.gif)](https://www.ebaumsworld.com/articles/climber-forgets-to-attach-his-rope-pays-the-price/87504587/) [Climber Forgets to Attach His Rope, Pays the Price](https://www.ebaumsworld.com/articles/climber-forgets-to-attach-his-rope-pays-the-price/87504587/)
     
 
 * Advertisement
