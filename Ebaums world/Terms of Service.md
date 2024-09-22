@@ -257,13 +257,13 @@ Advertisement
 
 * ### eBaum's Picks
     
-    [![photo caption - About to come home after spending the last 3yrs in the desert. Please no jokes about my $40k truck or my 3 divorces. sdrawkcaBuoYkcuF points 28 days ago 232 & 45 More Why would I make a joke about your wife or your truck? I've enjoyed ridi](https://cdn.ebaumsworld.com/img/blank.gif)](https://www.ebaumsworld.com/pictures/26-internet-roasts-that-scorched-people/86452010/) [26 Internet Roasts That Didn't Hold Back](https://www.ebaumsworld.com/pictures/26-internet-roasts-that-scorched-people/86452010/)
+    [![fat dude on waterslide](https://cdn.ebaumsworld.com/img/blank.gif)](https://www.ebaumsworld.com/videos/fat-guy-gets-huge-air-on-water-slide/85148225/) [Overweight Guy Wows Everyone With Huge Air On Water Slide](https://www.ebaumsworld.com/videos/fat-guy-gets-huge-air-on-water-slide/85148225/)
     
-    [![Hilarious Pic to Sum Up Each State - Redneck in Alabama | Funny pic of a redneck living in a trailer in Alabama](https://cdn.ebaumsworld.com/img/blank.gif)](https://www.ebaumsworld.com/pictures/50-funny-photos-that-perfectly-sums-up-each-of-the-american-states/85216290/) [50 Funny Photos that Perfectly Sums Up Each of the American States](https://www.ebaumsworld.com/pictures/50-funny-photos-that-perfectly-sums-up-each-of-the-american-states/85216290/)
+    [![I have some good news and bad news](https://cdn.ebaumsworld.com/img/blank.gif)](https://trending.ebaumsworld.com/pictures/monday-morning-randomness-36-magnificent-randoms-to-kick-off-your-week/87498153/) [Monday Morning Randomness: 36 Magnificent Randoms to Kick Off Your Week](https://trending.ebaumsworld.com/pictures/monday-morning-randomness-36-magnificent-randoms-to-kick-off-your-week/87498153/)
     
-    [![people get called out - you can only choose one, which door do you choose - time travel so i can go back to when i didn't follow this shitty account - im unvaccinated my super powers  include spreading a disease i dont have - do they make these in adult s](https://cdn.ebaumsworld.com/img/blank.gif)](https://www.ebaumsworld.com/pictures/25-people-being-called-out-online/86420660/) [25 Foolish People Being Savagely Called Out Online](https://www.ebaumsworld.com/pictures/25-people-being-called-out-online/86420660/)
+    [![arnold schwarzenegger sitting down and standing up before getting drop kicked](https://cdn.ebaumsworld.com/img/blank.gif)](https://www.ebaumsworld.com/videos/arnold-schwarzenegger-gets-attacked-in-south-africa/85964632/) [Remember When that Douchebag Drop Kicked Arnold Schwarzenegger At Event in South Africa](https://www.ebaumsworld.com/videos/arnold-schwarzenegger-gets-attacked-in-south-africa/85964632/)
     
-    [![kangaroo punching to save dog](https://cdn.ebaumsworld.com/img/blank.gif)](https://www.ebaumsworld.com/videos/crazy-dude-fights-a-kangaroo-to-save-his-dog/85207341/) [Daring Dude Punches a Kangaroo to Save His Dog](https://www.ebaumsworld.com/videos/crazy-dude-fights-a-kangaroo-to-save-his-dog/85207341/)
+    [![Climber Forgets to Attach His Rope, Pays the Price](https://cdn.ebaumsworld.com/img/blank.gif)](https://www.ebaumsworld.com/articles/climber-forgets-to-attach-his-rope-pays-the-price/87504587/) [Climber Forgets to Attach His Rope, Pays the Price](https://www.ebaumsworld.com/articles/climber-forgets-to-attach-his-rope-pays-the-price/87504587/)
     
 
 * Advertisement
