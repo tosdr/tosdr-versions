@@ -1,7 +1,8 @@
-Saturday, September 21 2024
+Sunday, September 22 2024
 
 Breaking News
 
+* [Europe’s EV Market Collapse Provides A Lesson For UAW Leadership](https://www.conservativedailynews.com/2024/09/europes-ev-market-collapse-provides-a-lesson-for-uaw-leadership/)
 * [Democrats Have Nothing To Campaign For — They Just Run Against Trump](https://www.conservativedailynews.com/2024/09/democrats-have-nothing-to-campaign-for-they-just-run-against-trump/)
 * [Black Undecided Swing-State Voter Panel Overwhelmingly Says ‘Economy Was Better Under Trump’](https://www.conservativedailynews.com/2024/09/black-undecided-swing-state-voter-panel-overwhelmingly-says-economy-was-better-under-trump/)
 * [Swing-State Voter Says Biden-Harris Economy, Border Crisis Have Pushed Him To Trump Camp](https://www.conservativedailynews.com/2024/09/swing-state-voter-says-biden-harris-economy-border-crisis-have-pushed-him-to-trump-camp/)
@@ -9,7 +10,6 @@ Breaking News
 * [Secret Service Pins Blame On Comms ‘Deficiencies’ For Its Failure To Prevent First Trump Assassination Attempt](https://www.conservativedailynews.com/2024/09/secret-service-pins-blame-on-comms-deficiencies-for-its-failure-to-prevent-first-trump-assassination-attempt/)
 * [CDC Launching ‘Agency-Wide Strategy’ On ‘Health Equity’ For LGBT, Minorities](https://www.conservativedailynews.com/2024/09/cdc-launching-agency-wide-strategy-on-health-equity-for-lgbt-minorities/)
 * [Ilhan Omar Says Thousands Of Haitian Migrants Overrunning Springfield Actually Revived Town](https://www.conservativedailynews.com/2024/09/ilhan-omar-says-thousands-of-haitian-migrants-overrunning-springfield-actually-revived-town/)
-* [Former Dem Fundraisers Call Harris’ Oprah Interview ‘Out Of Touch,’ ‘Patronizing’](https://www.conservativedailynews.com/2024/09/former-dem-fundraisers-call-harris-oprah-interview-out-of-touch-patronizing/)
 
 * [Sidebar](#)
 * [Random Article](https://www.conservativedailynews.com/privacy-policy/?random-post=1 "Random Article")
@@ -111,21 +111,27 @@ Your donations help us purchase content, pay for servers, and reduce advertising
 
 Created using the Donation Thermometer plugin https://wordpress.org/plugins/donation-thermometer/.47%
 
+* [![Elon Musk](https://www.conservativedailynews.com/wp-content/uploads/2022/01/1280px-Elon_Musk_at_a_Press_Conference-220x150.jpg)](https://www.conservativedailynews.com/2024/09/elon-musk-makes-his-largest-known-political-donation-ever-to-boost-house-republicans/)
+    
+    [Elon Musk Makes His Largest Known Political Donation Ever To Boost House Republicans](https://www.conservativedailynews.com/2024/09/elon-musk-makes-his-largest-known-political-donation-ever-to-boost-house-republicans/)
+    
+    September 21, 2024
+    
 * [![](https://www.conservativedailynews.com/wp-content/uploads/2023/07/01-by-half-sm-1080-220x150.jpg)](https://www.conservativedailynews.com/2024/09/14-republicans-join-forces-with-dems-to-torpedo-mike-johnsons-revived-spending-bill/)
     
     [14 Republicans Join Forces With Dems To Torpedo Mike Johnson’s Revived Spending Bill](https://www.conservativedailynews.com/2024/09/14-republicans-join-forces-with-dems-to-torpedo-mike-johnsons-revived-spending-bill/)
     
     September 19, 2024
     
-* [![Kamala Harris 2024 election](https://www.conservativedailynews.com/wp-content/uploads/2024/07/stg072624dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/09/cbs-news-dem-ties-exposed-ahead-of-network-hosting-vance-walz-debate/)
-    
-    [CBS News’ Dem Ties Exposed Ahead Of Network Hosting Vance-Walz Debate](https://www.conservativedailynews.com/2024/09/cbs-news-dem-ties-exposed-ahead-of-network-hosting-vance-walz-debate/)
-    
-    September 18, 2024
-    
 
 Recent Posts
 
+* [![Joe Biden electric vehicles union](https://www.conservativedailynews.com/wp-content/uploads/2023/09/image-4-220x150.png)](https://www.conservativedailynews.com/2024/09/europes-ev-market-collapse-provides-a-lesson-for-uaw-leadership/)
+    
+    [Europe’s EV Market Collapse Provides A Lesson For UAW Leadership](https://www.conservativedailynews.com/2024/09/europes-ev-market-collapse-provides-a-lesson-for-uaw-leadership/)
+    
+    September 21, 2024
+    
 * [![Kamala Harris Donald Trump 2024 election platforms](https://www.conservativedailynews.com/wp-content/uploads/2024/09/04-platforms-sm-1080-220x150.jpg)](https://www.conservativedailynews.com/2024/09/democrats-have-nothing-to-campaign-for-they-just-run-against-trump/)
     
     [Democrats Have Nothing To Campaign For — They Just Run Against Trump](https://www.conservativedailynews.com/2024/09/democrats-have-nothing-to-campaign-for-they-just-run-against-trump/)
@@ -165,12 +171,6 @@ Recent Posts
 * [![](https://www.conservativedailynews.com/wp-content/uploads/2019/02/ctyp_Ilhan-Omar-smiling.jpg)](https://www.conservativedailynews.com/2024/09/ilhan-omar-says-thousands-of-haitian-migrants-overrunning-springfield-actually-revived-town/)
     
     [Ilhan Omar Says Thousands Of Haitian Migrants Overrunning Springfield Actually Revived Town](https://www.conservativedailynews.com/2024/09/ilhan-omar-says-thousands-of-haitian-migrants-overrunning-springfield-actually-revived-town/)
-    
-    September 20, 2024
-    
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2020/10/Jesus-facepalm-220x150.jpg)](https://www.conservativedailynews.com/2024/09/former-dem-fundraisers-call-harris-oprah-interview-out-of-touch-patronizing/)
-    
-    [Former Dem Fundraisers Call Harris’ Oprah Interview ‘Out Of Touch,’ ‘Patronizing’](https://www.conservativedailynews.com/2024/09/former-dem-fundraisers-call-harris-oprah-interview-out-of-touch-patronizing/)
     
     September 20, 2024
     
