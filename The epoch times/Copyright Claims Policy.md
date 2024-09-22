@@ -158,76 +158,76 @@ Please note that under Section 512(f) of the DMCA, any person who knowingly mate
 
 TOP NEWS
 
+* [Quad Leaders Unveil Maritime Security, Supply Chain Initiatives at Delaware Summit](https://www.theepochtimes.com/world/quad-leaders-unveil-maritime-security-supply-chain-initiatives-at-delaware-summit-5727933)
+    
+    1hr By [Ryan Morgan](https://www.theepochtimes.com/author/ryan-morgan)
+    
+    [![Quad Leaders Unveil Maritime Security, Supply Chain Initiatives at Delaware Summit](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Quad Leaders Unveil Maritime Security, Supply Chain Initiatives at Delaware Summit](https://img.theepochtimes.com/assets/uploads/2024/09/21/id5728029-GettyImages-2172751017-OP-205x123.jpg.webp)](https://www.theepochtimes.com/world/quad-leaders-unveil-maritime-security-supply-chain-initiatives-at-delaware-summit-5727933)
+* [Americans Urged to Leave Lebanon as Israel, Hezbollah Trade Fire](https://www.theepochtimes.com/us/americans-urged-to-leave-lebanon-as-israel-hezbollah-trade-fire-5728046)
+    
+    3hr By [Bill Pan](https://www.theepochtimes.com/author/gq-pan)
+    
+    [![Americans Urged to Leave Lebanon as Israel, Hezbollah Trade Fire](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Americans Urged to Leave Lebanon as Israel, Hezbollah Trade Fire](https://img.theepochtimes.com/assets/uploads/2024/07/29/id5696121-beirut-airport-205x123.jpg.webp)](https://www.theepochtimes.com/us/americans-urged-to-leave-lebanon-as-israel-hezbollah-trade-fire-5728046)
+* [Appeals Court Revives Lawsuits Challenging Michigan Law on Sexual Orientation, Gender Identity](https://www.theepochtimes.com/us/appeals-court-revives-lawsuits-challenging-michigan-law-on-sexual-orientation-gender-identity-5727981)
+    
+    6hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
+    
+    [![Appeals Court Revives Lawsuits Challenging Michigan Law on Sexual Orientation, Gender Identity](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Appeals Court Revives Lawsuits Challenging Michigan Law on Sexual Orientation, Gender Identity](https://img.theepochtimes.com/assets/uploads/2024/08/29/id5714980-Michigan-City_JF_08282024-205x123.jpg.webp)](https://www.theepochtimes.com/us/appeals-court-revives-lawsuits-challenging-michigan-law-on-sexual-orientation-gender-identity-5727981)
 * [Two Gold Winners Awarded at NTD 9th International Chinese Vocal Competition](https://www.theepochtimes.com/bright/two-gold-winners-awarded-at-9th-ntd-vocal-competition-5727810)
     
-    2hr By [Catherine Yang](https://www.theepochtimes.com/author/catherine-yang), Epoch Times
+    8hr By [Catherine Yang](https://www.theepochtimes.com/author/catherine-yang), Epoch Times
     
     [![Two Gold Winners Awarded at NTD 9th International Chinese Vocal Competition](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Two Gold Winners Awarded at NTD 9th International Chinese Vocal Competition](https://img.theepochtimes.com/assets/uploads/2024/09/21/id5728002-LDB8723-205x123.jpg.webp)](https://www.theepochtimes.com/bright/two-gold-winners-awarded-at-9th-ntd-vocal-competition-5727810)
 * [Zelenskyy Says Ukraine ‘Victory Plan’ Includes Deep Strikes Into Russia With Western Missiles](https://www.theepochtimes.com/world/zelenskyy-says-ukraine-victory-plan-includes-deep-strikes-into-russia-with-western-missiles-5727949)
     
-    3hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
+    9hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
     
     [![Zelenskyy Says Ukraine ‘Victory Plan’ Includes Deep Strikes Into Russia With Western Missiles](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Zelenskyy Says Ukraine ‘Victory Plan’ Includes Deep Strikes Into Russia With Western Missiles](https://img.theepochtimes.com/assets/uploads/2024/09/03/id5717443-07102024-DSC08356-Zelenskyy-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/world/zelenskyy-says-ukraine-victory-plan-includes-deep-strikes-into-russia-with-western-missiles-5727949)
-* [Harris Accepts, Trump Declines Second Debate on CNN](https://www.theepochtimes.com/us/harris-accepts-invitation-from-cnn-for-second-debate-against-trump-5727971)
+* [Trump Declines Second Debate on CNN After Harris Agrees, Says It’s Too Late](https://www.theepochtimes.com/us/harris-accepts-invitation-from-cnn-for-second-debate-against-trump-5727971)
     
-    4hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
+    10hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
     
-    [![Harris Accepts, Trump Declines Second Debate on CNN](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Trump Declines Second Debate on CNN After Harris Agrees, Says It’s Too Late](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Harris Accepts, Trump Declines Second Debate on CNN](https://img.theepochtimes.com/assets/uploads/2024/09/18/id5726109-Trump-Harris-v2-205x123.jpg.webp)](https://www.theepochtimes.com/us/harris-accepts-invitation-from-cnn-for-second-debate-against-trump-5727971)
+    ![Trump Declines Second Debate on CNN After Harris Agrees, Says It’s Too Late](https://img.theepochtimes.com/assets/uploads/2024/08/08/id5702453-HarrisTrump-Enhanced-SR-OP-205x123.jpg.webp)](https://www.theepochtimes.com/us/harris-accepts-invitation-from-cnn-for-second-debate-against-trump-5727971)
 * [NTD 9th International Chinese Vocal Competition Finals and Awards Ceremony](https://www.theepochtimes.com/epochtv/ntd-9th-international-chinese-vocal-competition-finals-5719869)
     
-    5hr By [Epoch Video](https://www.theepochtimes.com/author/epoch-video)
+    11hr By [Epoch Video](https://www.theepochtimes.com/author/epoch-video)
     
     [![NTD 9th International Chinese Vocal Competition Finals and Awards Ceremony](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![NTD 9th International Chinese Vocal Competition Finals and Awards Ceremony](https://img.theepochtimes.com/assets/uploads/2024/09/13/id5723860-2024-NTD-Vocal-Competition-1920x1080-1-205x123.jpg.webp)](https://www.theepochtimes.com/epochtv/ntd-9th-international-chinese-vocal-competition-finals-5719869)
+* [US Soldier Who Crossed Into North Korea Will Return Home After Entering Guilty Plea](https://www.theepochtimes.com/us/us-soldier-who-crossed-into-north-korea-will-return-home-after-entering-guilty-plea-5727921)
+    
+    11hr By [Aldgra Fredly](https://www.theepochtimes.com/author/aldgra-fredly)
+    
+    [![US Soldier Who Crossed Into North Korea Will Return Home After Entering Guilty Plea](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![US Soldier Who Crossed Into North Korea Will Return Home After Entering Guilty Plea](https://img.theepochtimes.com/assets/uploads/2024/08/27/id5713645-AP24239764509250-205x123.jpg.webp)](https://www.theepochtimes.com/us/us-soldier-who-crossed-into-north-korea-will-return-home-after-entering-guilty-plea-5727921)
+* [Blackstone Agrees to Sell Motel 6 to India-Based Hotel Company for $525 Million](https://www.theepochtimes.com/business/blackstone-agrees-to-sell-motel-6-to-india-based-hotel-company-for-525-million-5727862)
+    
+    11hr By [Aldgra Fredly](https://www.theepochtimes.com/author/aldgra-fredly)
+    
+    [![Blackstone Agrees to Sell Motel 6 to India-Based Hotel Company for $525 Million](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Blackstone Agrees to Sell Motel 6 to India-Based Hotel Company for $525 Million](https://img.theepochtimes.com/assets/uploads/2024/09/21/id5727984-2019-04-05T013645Z_2_LYNXNPEF3325X_RTROPTP_4_BLACKSTONE-MOTEL6-IMMIGRATION-SETTLEMENT-OP-205x123.jpg.webp)](https://www.theepochtimes.com/business/blackstone-agrees-to-sell-motel-6-to-india-based-hotel-company-for-525-million-5727862)
 * [US Navy Directed to Prepare for War With China by 2027](https://www.theepochtimes.com/china/us-navy-directed-to-prepare-for-war-with-china-by-2027-post-5727144)
     
-    6hr By [Andrew Thornebrooke](https://www.theepochtimes.com/author/andrew-thornebrooke)
+    12hr By [Andrew Thornebrooke](https://www.theepochtimes.com/author/andrew-thornebrooke)
     
     [![US Navy Directed to Prepare for War With China by 2027](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![US Navy Directed to Prepare for War With China by 2027](https://img.theepochtimes.com/assets/uploads/2024/09/21/id5727982-US_Osprey_Crash_24201442113400-OP-205x123.jpg.webp)](https://www.theepochtimes.com/china/us-navy-directed-to-prepare-for-war-with-china-by-2027-post-5727144)
-* [US Housing Payments Face Biggest Decline in 4 Years: Report](https://www.theepochtimes.com/real-estate/us-housing-payments-face-biggest-decline-in-4-years-report-5727926)
-    
-    6hr By [Naveen Athrappully](https://www.theepochtimes.com/author/naveen-athrappully)
-    
-    [![US Housing Payments Face Biggest Decline in 4 Years: Report](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![US Housing Payments Face Biggest Decline in 4 Years: Report](https://img.theepochtimes.com/assets/uploads/2023/11/23/id5534804-For-Rent-For-Sale-sign-205x123.jpg.webp)](https://www.theepochtimes.com/real-estate/us-housing-payments-face-biggest-decline-in-4-years-report-5727926)
-* [FTC Says Social Media Giants Are Engaged in Mass Data Collection, Surveillance](https://www.theepochtimes.com/tech/ftc-says-social-media-giants-are-engaged-in-mass-data-collection-surveillance-5727315)
-    
-    7hr By [Aldgra Fredly](https://www.theepochtimes.com/author/aldgra-fredly)
-    
-    [![FTC Says Social Media Giants Are Engaged in Mass Data Collection, Surveillance](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![FTC Says Social Media Giants Are Engaged in Mass Data Collection, Surveillance](https://img.theepochtimes.com/assets/uploads/2024/08/21/id5709898-featureimage-205x123.jpg.webp)](https://www.theepochtimes.com/tech/ftc-says-social-media-giants-are-engaged-in-mass-data-collection-surveillance-5727315)
-* [An Unlikely Cure for a 9/11 Hero: How Forgiveness Improves Mental and Physical Health](https://www.theepochtimes.com/health/the-priest-who-lost-it-all-then-found-an-unlikely-cure-5719645)
-    
-    7hr By [Makai Allbert](https://www.theepochtimes.com/author/makai-allbert)
-    
-    [![An Unlikely Cure for a 9/11 Hero: How Forgiveness Improves Mental and Physical Health](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![An Unlikely Cure for a 9/11 Hero: How Forgiveness Improves Mental and Physical Health](https://img.theepochtimes.com/assets/uploads/2024/09/16/id5724966-Forgiveness-featured-image-205x123.gif)](https://www.theepochtimes.com/health/the-priest-who-lost-it-all-then-found-an-unlikely-cure-5719645)
-* [Dow Jones Closes at Fresh Record After Fed-Fueled Winning Week](https://www.theepochtimes.com/business/dow-jones-closes-at-fresh-record-after-fed-fueled-winning-week-5727831)
-    
-    9hr By [Andrew Moran](https://www.theepochtimes.com/author/andrew-moran)
-    
-    [![Dow Jones Closes at Fresh Record After Fed-Fueled Winning Week](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Dow Jones Closes at Fresh Record After Fed-Fueled Winning Week](https://img.theepochtimes.com/assets/uploads/2024/09/18/id5726417-Fed-chair_Sept-2024-205x123.jpg.webp)](https://www.theepochtimes.com/business/dow-jones-closes-at-fresh-record-after-fed-fueled-winning-week-5727831)
-* [Arizona Supreme Court Allows 98,000 Without Confirmed Citizenship Documents to Vote](https://www.theepochtimes.com/us/arizona-supreme-court-allows-98000-without-confirmed-citizenship-documents-to-vote-5727896)
-    
-    13hr By [Caden Pearson](https://www.theepochtimes.com/author/caden-pearson)
-    
-    [![Arizona Supreme Court Allows 98,000 Without Confirmed Citizenship Documents to Vote](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Arizona Supreme Court Allows 98,000 Without Confirmed Citizenship Documents to Vote](https://img.theepochtimes.com/assets/uploads/2022/11/09/arizona-voting-midterms-205x123.jpeg.webp)](https://www.theepochtimes.com/us/arizona-supreme-court-allows-98000-without-confirmed-citizenship-documents-to-vote-5727896)
 
 [![The Epoch Times](https://www.theepochtimes.com/assets/themes/eet/images/logo_eet.svg)](https://www.theepochtimes.com/)
 
