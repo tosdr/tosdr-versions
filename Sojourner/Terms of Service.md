@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-a4f0c7dbdacaf557944285f6404b78a0
+7b6c8d5e85ed0dce07f136110eeb9318
 
 [](# "Expand for more options")[](# "Search")
 
@@ -142,11 +142,11 @@ Terms and Conditions
 
 ### Featured Product
 
-[![Jet Swarovski clasp](https://sojourner.biz/images/cache/SKU0087front.200.jpg)](https://sojourner.biz/clasps/swarovski/jet-swarovski-clasp.html "Jet Swarovski clasp")
+[![Rectangular brown pearl bracelet clasp](https://sojourner.biz/images/cache/SKU0474front.200.jpg)](https://sojourner.biz/clasps/pearl/rectangular-brown-pearl-bracelet-clasp.html "Rectangular brown pearl bracelet clasp")
 
-#### [Jet Swarovski clasp](https://sojourner.biz/clasps/swarovski/jet-swarovski-clasp.html "Jet Swarovski clasp")
+#### [Rectangular brown pearl bracelet clasp](https://sojourner.biz/clasps/pearl/rectangular-brown-pearl-bracelet-clasp.html "Rectangular brown pearl bracelet clasp")
 
-$27.00
+$36.00
 
 ### Best Sellers
 
