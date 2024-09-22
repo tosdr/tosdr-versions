@@ -245,9 +245,9 @@ Kirkland, WA 98033
 
 #### LATEST POSTS
 
+* [Public School Daily Recess For Mental And Physical Health](https://washingtonautismalliance.org/public-school-daily-recess-for-mental-and-physical-health/ "Public School Daily Recess For Mental And Physical Health")
 * [Autism CARES Act of 2024: A Step Forward for Profound Autism Recognition](https://washingtonautismalliance.org/autism-cares-act-of-2024-a-step-forward-for-profound-autism-recognition/ "Autism CARES Act of 2024: A Step Forward for Profound Autism Recognition")
 * [National Relaxation Day: A Vital Reminder for Parents of Kids with Disabilities](https://washingtonautismalliance.org/national-relaxation-day-a-vital-reminder-for-parents-of-kids-with-disabilities/ "National Relaxation Day: A Vital Reminder for Parents of Kids with Disabilities")
-* [National Relaxation Day - Helping an autistic individual find relaxation](https://washingtonautismalliance.org/national-relaxation-day-helping-an-autistic-individual-find-relaxation/ "National Relaxation Day - Helping an autistic individual find relaxation")
 
 #### QUICK LINKS
 
