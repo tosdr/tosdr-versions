@@ -230,11 +230,11 @@ It's Not News, It's Fark
 
 [![](https://img.fark.net/images/2024/site/Fark25.png)](https://www.eventbrite.com/e/fark25-the-25th-anniversary-fark-party-tickets-1001498367577?aff=oddtdtcreator)
 
-Can't get enough Fark in your life? Try
+If you like these links, you'll love
 
 ![TotalFark](https://img.fark.net/images/2017/site/totalfark_logo_2017.png)
 
-More threads. More community. More Farking.
+All the submissions, none of the calories.
 
 [learn more](https://www.fark.com/farq/about/#What_is_TotalFark) | [sign up](https://www.fark.com/totalfarksignup)
 
@@ -334,16 +334,16 @@ Also on Fark
 
 |     |     |
 | --- | --- |
-| [Main](https://www.fark.com/) | [Photoshop this new look in fashion](https://www.fark.com/goto/13401004) ( [usatoday.com](https://www.fark.com/goto/13401004) ) » [(10 comments)](https://www.fark.com/comments/13401004/Photoshop-this-new-look-in-fashion) |
-| [Discussion](https://www.fark.com/discussion/) | [Best chili crisp?](https://www.fark.com/goto/13401864) ( [en.wikipedia.org](https://www.fark.com/goto/13401864) ) » [(5 comments)](https://www.fark.com/comments/13401864/Best-chili-crisp) |
-| [Sports](https://www.fark.com/sports/) | [Your stadium is now property of Antifa. Rare politics/sports crossover](https://www.fark.com/goto/13401658) ( [dailymail.co.uk](https://www.fark.com/goto/13401658) ) » [(3 comments)](https://www.fark.com/comments/13401658/Your-stadium-is-now-property-of-Antifa-Rare-politicssports-crossover) |
-| [Business](https://www.fark.com/business/) | [Swiss, Swedes, Hungarians and Czechs all plan interest rate cuts so that Trump can complain about election interference](https://www.fark.com/goto/13401862) ( [finance.yahoo.com](https://www.fark.com/goto/13401862) ) » [(2 comments)](https://www.fark.com/comments/13401862/Swiss-Swedes-Hungarians-Czechs-all-plan-interest-rate-cuts-so-that-Trump-can-complain-about-election-interference) |
-| [STEM](https://www.fark.com/stem/) | [Doesn't matter, had sex](https://www.fark.com/goto/13401696) ( [livescience.com](https://www.fark.com/goto/13401696) ) » [(8 comments)](https://www.fark.com/comments/13401696/Doesnt-matter-had-sex) |
-| [Entertainment](https://www.fark.com/entertainment/) | [Diddy laid it all out in a Conan interview 22 years ago. Conan: "That just sounds disgusting"](https://www.fark.com/goto/13401850) ( [dailymail.co.uk](https://www.fark.com/goto/13401850) ) » [(8 comments)](https://www.fark.com/comments/13401850/Diddy-laid-it-all-out-in-a-Conan-interview-22-years-ago-Conan-That-just-sounds-disgusting) |
-| [Fandom](https://www.fark.com/fandom/) | [Finally, a new Rayman game is announced](https://www.fark.com/goto/13401738) ( [ign.com](https://www.fark.com/goto/13401738) ) » [(1 comment)](https://www.fark.com/comments/13401738/Finally-a-new-Rayman-game-is-announced) |
-| [D'awww](https://www.fark.com/dawww/) | [(In Schwarzenegger voice). Dis' is a Cyberdog](https://www.fark.com/goto/13401728) ( [youtube.com](https://www.fark.com/goto/13401728) ) » [(2 comments)](https://www.fark.com/comments/13401728/In-Schwarzenegger-voice-Dis-is-a-Cyberdog) |
-| [Food](https://www.fark.com/food/) | [Best chili crisp?](https://www.fark.com/goto/13401864) ( [en.wikipedia.org](https://www.fark.com/goto/13401864) ) » [(5 comments)](https://www.fark.com/comments/13401864/Best-chili-crisp) |
-| [Politics](https://www.fark.com/politics/) | [Guess which Presidential candidate was absent from Montana's absentee voting system](https://www.fark.com/goto/13401832) ( [dailyinterlake.com](https://www.fark.com/goto/13401832) ) » [(25 comments)](https://www.fark.com/comments/13401832/Guess-which-Presidential-candidate-was-absent-from-Montanas-absentee-voting-system) |
+| [Main](https://www.fark.com/) | [You have won second prize in a moose contest. Collect $12000 fine](https://www.fark.com/goto/13401988) ( [northernontario.ctvnews.ca](https://www.fark.com/goto/13401988) ) » [(0 comments)](https://www.fark.com/comments/13401988/You-have-won-second-prize-in-a-moose-contest-Collect-$12000-fine) |
+| [Discussion](https://www.fark.com/discussion/) | [Kids nowadays: 'Driving stick'? What's that?](https://www.fark.com/goto/13401912) ( [thestar.com](https://www.fark.com/goto/13401912) ) » [(12 comments)](https://www.fark.com/comments/13401912/Kids-nowadays-Driving-stick-Whats-that) |
+| [Sports](https://www.fark.com/sports/) | [In a shocking upset, James Madison beats North Carolina 70-50. Okay, it was in football, so not that shocking, but still](https://www.fark.com/goto/13402076) ( [sports.yahoo.com](https://www.fark.com/goto/13402076) ) » [(2 comments)](https://www.fark.com/comments/13402076/In-a-shocking-upset-James-Madison-beats-North-Carolina-70-50-Okay-it-was-in-football-so-not-that-shocking-but-still) |
+| [Business](https://www.fark.com/business/) | [Motel Sikhs?](https://www.fark.com/goto/13401890) ( [detroitnews.com](https://www.fark.com/goto/13401890) ) » [(2 comments)](https://www.fark.com/comments/13401890/Motel-Sikhs) |
+| [STEM](https://www.fark.com/stem/) | [What if the sun could be turned into the world's most powerful deep-space telescope? And what if there was beer on the sun?](https://www.fark.com/goto/13401980) ( [space.com](https://www.fark.com/goto/13401980) ) » [(2 comments)](https://www.fark.com/comments/13401980/What-if-sun-could-be-turned-into-worlds-most-powerful-deep-space-telescope-And-what-if-there-was-beer-on-sun) |
+| [Entertainment](https://www.fark.com/entertainment/) | [Tekashi 6ix9ine sued for revenge 69ing](https://www.fark.com/goto/13401690) ( [nme.com](https://www.fark.com/goto/13401690) ) » [(9 comments)](https://www.fark.com/comments/13401690/Tekashi-6ix9ine-sued-for-revenge-69ing) |
+| [Fandom](https://www.fark.com/fandom/) | [Finally, a new Rayman game is announced](https://www.fark.com/goto/13401738) ( [ign.com](https://www.fark.com/goto/13401738) ) » [(6 comments)](https://www.fark.com/comments/13401738/Finally-a-new-Rayman-game-is-announced) |
+| [D'awww](https://www.fark.com/dawww/) | [(In Schwarzenegger voice). Dis' is a Cyberdog](https://www.fark.com/goto/13401728) ( [youtube.com](https://www.fark.com/goto/13401728) ) » [(5 comments)](https://www.fark.com/comments/13401728/In-Schwarzenegger-voice-Dis-is-a-Cyberdog) |
+| [Food](https://www.fark.com/food/) | [Best chili crisp?](https://www.fark.com/goto/13401864) ( [en.wikipedia.org](https://www.fark.com/goto/13401864) ) » [(40 comments)](https://www.fark.com/comments/13401864/Best-chili-crisp) |
+| [Politics](https://www.fark.com/politics/) | [Gym Jordan still wants to wrestle his way into House GOP leadership](https://www.fark.com/goto/13401744) ( [politico.com](https://www.fark.com/goto/13401744) ) » [(9 comments)](https://www.fark.com/comments/13401744/Gym-Jordan-still-wants-to-wrestle-his-way-into-House-GOP-leadership) |
 
 * Fark :: [Main](https://www.fark.com/) | [Discussion](https://www.fark.com/discussion/) | [Sports](https://www.fark.com/sports/) | [Business](https://www.fark.com/business/) | [STEM](https://www.fark.com/stem/) | [Entertainment](https://www.fark.com/entertainment/) | [Fandom](https://www.fark.com/fandom/) | [D'awww](https://www.fark.com/dawww/) | [Food](https://www.fark.com/food/) | [Politics](https://www.fark.com/politics/)
 * Total Fark :: [TotalFark](https://total.fark.com/) | [TF Live](https://total.fark.com/live/) | [TF Advice](https://total.fark.com/advice/) | [TF Discussion](https://total.fark.com/tfdiscussion/) | [Commented](https://total.fark.com/commented/) | [Top Voted](https://total.fark.com/linkvote/) | [Greenlit](https://total.fark.com/greenlit/)
@@ -353,7 +353,7 @@ Also on Fark
 
 [Submit a Link »](https://www.fark.com/submit/)
 
-Copyright © 1999 - 2024 Fark, Inc | Last updated: Sep 21 2024 20:43:24  
+Copyright © 1999 - 2024 Fark, Inc | Last updated: Sep 22 2024 02:43:40  
 [Contact Us via Farkback](https://www.fark.com/farkback)  |  [Report a bug/error msg](https://www.fark.com/farkback/error)  |  [Terms of service/legal/privacy policy](https://www.fark.com/farq/legal)  |  [Do Not Sell or Share My Personal Information](javascript:void(0))  
 ![](https://www.fark.com/ll)
 
