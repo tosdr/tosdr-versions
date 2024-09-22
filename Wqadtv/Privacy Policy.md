@@ -56,9 +56,9 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/b6686e22-2693-4ccf-9bce-b87bf818e536/20240921T233924/b6686e22-2693-4ccf-9bce-b87bf818e536_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/b6686e22-2693-4ccf-9bce-b87bf818e536/20240921T233924/b6686e22-2693-4ccf-9bce-b87bf818e536_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/3f943a72-dcf6-4ef1-ae5c-db508ce7bdf8/20240922T120739/3f943a72-dcf6-4ef1-ae5c-db508ce7bdf8_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/3f943a72-dcf6-4ef1-ae5c-db508ce7bdf8/20240922T120739/3f943a72-dcf6-4ef1-ae5c-db508ce7bdf8_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
-        #### [Cool and rainy for the first day of fall](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+        #### [Rainy start to fall](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
     *  [![](https://media.tegna-media.com/assets/WTIC/images/c1adf01e-1db8-439b-bdc3-891934f4d383/c1adf01e-1db8-439b-bdc3-891934f4d383_16x9.jpg) ![](https://media.tegna-media.com/assets/WTIC/images/c1adf01e-1db8-439b-bdc3-891934f4d383/c1adf01e-1db8-439b-bdc3-891934f4d383_360x203.jpg)](https://www.wqad.com/article/news/nation-world/first-day-of-fall/507-06766aa7-07fd-473a-bcd6-575afd16614a)
         
@@ -86,9 +86,9 @@ Navigation
 
 Davenport, IA »
 
-69°
+66°
 
-![Rain](/assets/shared-images/weather-icons/rain-day_210x210.png)
+![Cloudy](/assets/shared-images/weather-icons/cloudy-day_210x210.png)
 
 Davenport, IA »](https://www.wqad.com/weather)
 
