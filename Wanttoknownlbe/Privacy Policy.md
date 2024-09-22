@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/politiek/oorlog/oorlog-tegen-drugs-blijkt-compleet-bedrog/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/politiek/9-11/elma-drayer-dom-blondje-en-complotdenker/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
