@@ -205,27 +205,26 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [Ganguro Madness](https://www.somethingawful.com/fashion-swat/ganguro-madness/1/)
-* [Awful Weddings](https://www.somethingawful.com/comedy-goldmine/awful-weddings/1/)
-* [ZooTube365](https://www.somethingawful.com/weekend-web/zootube365/1/)
-* [The Top 17 Worst FPS Games](https://www.somethingawful.com/most-awful/worst-fps-games/1/)
-* [Your Bandicoot Sucks III](https://www.somethingawful.com/news/bandicoot-sucks-3/1/)
+* [Awful Propaganda Part 1](https://www.somethingawful.com/photoshop-phriday/awful-propaganda-1/)
+* [I Hate You Page 01](https://www.somethingawful.com/cliff-yablonski/i-hate-you-01/)
+* [What's up with Peyton Manning's Forehead?](https://www.somethingawful.com/photoshop-phriday/peyton-manning-forehead/1/)
+* [Herein Lies the Promise of J. F. Swanton](https://www.somethingawful.com/news/fur-trapper-promise/)
+* [It is I Who Planted, Within the Mind of Elon Musk, the Imbecilic Idea to Shoot a Car Into Space pt.3](https://www.somethingawful.com/news/sorry-for-musk3/)
 
 ### Popular Threads
 
 * ![](https://fi.somethingawful.com/forums/posticons/LF-2wqxulw.gif) [idiotic stuff we did as kids](http://forums.somethingawful.com/showthread.php?threadid=4070934 "idiotic stuff we did as kids")
 * ![](https://fi.somethingawful.com/forums/posticons/icons-08/sex.png) [I'm watching the movie Quest For Fire](http://forums.somethingawful.com/showthread.php?threadid=4070926 "I'm watching the movie Quest For Fire")
-* ![](https://fi.somethingawful.com/forums/posticons/icons-08/photos.png) [We need to do this again (draw a goon)](http://forums.somethingawful.com/showthread.php?threadid=4070898 "We need to do this again (draw a goon)")
-* ![](https://fi.somethingawful.com/forums/posticons/byob-explosion.gif) [thing I never "got" about the movie Trains, Planes and Automobiles spoilers](http://forums.somethingawful.com/showthread.php?threadid=4070893 "thing I never "got" about the movie Trains, Planes and Automobiles spoilers")
-* ![](https://fi.somethingawful.com/forums/posticons/samartd-organs.gif) [holy shit its so fuckin hard to find goatse](http://forums.somethingawful.com/showthread.php?threadid=4070909 "holy shit its so fuckin hard to find goatse")
+* ![](https://fi.somethingawful.com/forums/posticons/lf-arecountry.gif) [Clout chaser totals car, cuts off ankle monitor, is currently on the lam](http://forums.somethingawful.com/showthread.php?threadid=4070949 "Clout chaser totals car, cuts off ankle monitor, is currently on the lam")
+* ![](https://fi.somethingawful.com/images/shitpost.gif) [the kingdom of stuffed animals](http://forums.somethingawful.com/showthread.php?threadid=4070964 "the kingdom of stuffed animals")
 
 ### Random Articles
 
-* [Donkey Kong 64 turned my sister onto Communism](https://www.somethingawful.com/comedy-goldmine/donkey-kong-communism/)
-* [The Piranha Club](https://www.somethingawful.com/awful-links/awful-link-774/)
-* [Subj: IT IS POSSIBLE THAT I AM INVINCIBLE](https://www.somethingawful.com/news/roamin-dad-5/)
-* [Proud American Magazine Asks: How Do You Feel About Immigration Reform?](https://www.somethingawful.com/news/arizona-immigrant-reform/)
-* [21st Century Digital Power Chatting eSeminar](https://www.somethingawful.com/news/21st-century-digital/)
+* [Helen's Tips of the Week!](https://www.somethingawful.com/helen-gunther/helens-tips-week/)
+* [Rise of the Female Submariner](https://www.somethingawful.com/news/first-female-submarine/)
+* [Female Slaves' Revenge](https://www.somethingawful.com/movie-reviews/female-slaves-revenge/1/)
+* [State Og Update: 03.01.03](https://www.somethingawful.com/state-og/state-og-update-13/)
+* [October 22, 2013](https://www.somethingawful.com/twitter-tuesday/tt10-22-13/)
 
 [Random!](https://www.somethingawful.com/random/)
 
