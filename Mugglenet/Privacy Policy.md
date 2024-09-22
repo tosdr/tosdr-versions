@@ -288,15 +288,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-Minerva McGonagall played Quidditch while attending Hogwarts. In her seventh year, she received a concussion and several broken ribs during the Quidditch Cup against Slytherin.
+The first review of Harry Potter and the Philosopher’s Stone was given by Alice Newton, the daughter of the founder of Bloomsbury, at age 8: “The excitement in this book made me feel warm inside. I think it is possibly one of the best books an 8/9 year old could read.”
 
 ### Potter History
 
-July 21, 2011 – Harry Potter becomes the highest-grossing film franchise of all time.
+August 2, 2007 – Scholastic announces Harry Potter and the Deathly Hallows sold 11.5 million copies in just 10 days.
 
 ### Potter Quote
 
-“She stopped you killing me. And I’ve seen the real you, I saw you last year. You’re a wreck. You’re barely alive. That’s where all your power got you. You’re in hiding. You’re ugly, you’re foul —”
+“What happened down in the dungeons between you and Professor Quirrell is a complete secret, so, naturally, the whole school knows.”
 
 [](#)
 
