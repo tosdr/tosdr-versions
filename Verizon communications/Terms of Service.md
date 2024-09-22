@@ -278,10 +278,9 @@ Close
 
 [Personal](https://www.verizon.com/) [Business](https://www.verizon.com/business/)
 
-iPhone 15 Plus. Get it on us with a new line on any myPlan + free next day shipping. No trade req'd. Online only. [Buy now](https://www.verizon.com/smartphones/apple-iphone-15-plus/)  |  [Details](javascript:void(0);)
+iPhone 15 Pro Max on us with new line. No trade req’d. Plus, free next day shipping for all new lines. Online Only. Limited time only. [Buy now](https://www.verizon.com/smartphones/apple-iphone-15-pro-max/)  |  [Details](javascript:void(0);)
 
-Details: $829.99 (128 GB only) purchase w/ new smartphone line on Unlimited Ultimate, postpaid Unlimited Plus or Unlimited Welcome plan (min. $65/mo w/Auto Pay (+taxes/fees) for 36 mos) req'd. Less $829.99 promo credit applied over 36 mos.; promo credit ends if eligibility req’s are no longer met; 0% APR. Offer may not be combined with other offers.  
-  
+Details: $1,099.99 (256 GB only) device payment or full retail purchase w/ new smartphone line on Unlimited Ultimate or postpaid Unlimited Plus plan (min. $80/mo w/Auto Pay (+taxes/fees) for 36 mos) req'd. Less $1,099.99 promo credit applied over 36 mos.; promo credit ends if eligibility req’s are no longer met; 0% APR. Offer may not be combined with other offers.  
 Free next-day shipping on any qualifying smartphone available till 6PM ET for orders placed Mon—Fri (excluding holidays). Subject to inventory availability for destinations within the contiguous U.S. only. Add'l terms and conditions may apply. (Excludes prepaid.)
 
 end of navigation menu
