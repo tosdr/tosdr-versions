@@ -41,11 +41,11 @@ account
     * [Deals](https://faithgateway.com/collections/biblegateway-special-deals?utm_source=bg&utm_medium=referral&utm_campaign=nav_deals)
     * [More](https://faithgateway.com/?utm_source=bg&utm_medium=referral&utm_campaign=nav_more)
 
-[BibleGateway+ is on sale now! 50+ premium resources ($3,100+ in value!).](https://www.biblegateway.com/plus/?utm_source=bg&promo=study15&utm_medium=alert_mobile&utm_campaign=bgplus_alert_onsale)
+[Be **encouraged** daily by Max Lucado.](https://www.biblegateway.com/landing/encouragingword/?utm_source=bg&utm_medium=alert_mobile&utm_campaign=alert_lucado20240716)
 
 close
 
-[Send yourself back to school! Study the Bible with access to 50+ premium resources in BibleGateway+ for as low as $3.54 per month!](https://www.biblegateway.com/plus/?utm_source=bg&promo=study15&utm_medium=alert&utm_campaign=bgplus_alert_bgplus_fy25_backtobiblestudy_schoolaslowas)
+[Send yourself back to school! Study the Bible with access to 50+ premium resources in BibleGateway+ with over $3,100 in valuable resources!](https://www.biblegateway.com/plus/?utm_source=bg&promo=study15&utm_medium=alert&utm_campaign=bgplus_alert_bgplus_fy25_backtobiblestudy_schoolvalue3100)
 
 close
 
