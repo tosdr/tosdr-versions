@@ -32,11 +32,11 @@
         *  [![Kanye West Concert Tickets - 2024 Tour Dates.](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Kanye West](https://www.songkick.com/artists/552177-kanye-west)
         *  [![Ed Sheeran Concert Tickets - 2024 Tour Dates.](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Ed Sheeran](https://www.songkick.com/artists/2083334-ed-sheeran)
         
+        *  [![Midland Concert Tickets - 2024 Tour Dates.](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Midland](https://www.songkick.com/artists/10351433-midland)
+        *  [![KATSEYE Concert Tickets - 2024 Tour Dates.](//assets.sk-static.com/images/default_images/thumb/default-artist.png) KATSEYE](https://www.songkick.com/artists/10350173-katseye)
+        *  [![Los Farmerz Concert Tickets - 2024 Tour Dates.](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Los Farmerz](https://www.songkick.com/artists/10350115-los-farmerz)
         *  [![dublon Concert Tickets - 2024 Tour Dates.](//assets.sk-static.com/images/default_images/thumb/default-artist.png) dublon](https://www.songkick.com/artists/10349544-dublon)
         *  [![Oasis Concert Tickets - 2024 Tour Dates.](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Oasis](https://www.songkick.com/artists/548892-oasis)
-        *  [![Scarlet House Concert Tickets - 2024 Tour Dates.](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Scarlet House](https://www.songkick.com/artists/10349081-scarlet-house)
-        *  [![VALORANT Concert Tickets - 2024 Tour Dates.](//assets.sk-static.com/images/default_images/thumb/default-artist.png) VALORANT](https://www.songkick.com/artists/10347901-valorant)
-        *  [![ASTRØ Concert Tickets - 2024 Tour Dates.](//assets.sk-static.com/images/default_images/thumb/default-artist.png) ASTRØ](https://www.songkick.com/artists/10348173-astro)
         
         Get your tour dates seen by one billion fans: [Sign up as an artist](https://tourbox.songkick.com/?utm_medium=referral&utm_source=songkick.com&utm_campaign=visitor)
         
