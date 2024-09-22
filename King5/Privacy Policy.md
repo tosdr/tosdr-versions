@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
+    *  [![](https://media.king5.com/assets/KING/images/17bbbf9c-bc3d-41c3-ab06-d6088cf7c218/20240922T051336/17bbbf9c-bc3d-41c3-ab06-d6088cf7c218_16x9.jpg) ![](https://media.king5.com/assets/KING/images/17bbbf9c-bc3d-41c3-ab06-d6088cf7c218/20240922T051336/17bbbf9c-bc3d-41c3-ab06-d6088cf7c218_360x203.jpg)](https://www.king5.com/article/news/crime/police-investigating-10-recent-robberies-south-seattle/281-5c394dee-326e-464a-9410-35964462f83f)
+        
+        #### [Police say several groups responsible for over 10 recent robberies in South Seattle](https://www.king5.com/article/news/crime/police-investigating-10-recent-robberies-south-seattle/281-5c394dee-326e-464a-9410-35964462f83f)
+        
     *  [![](https://media.king5.com/assets/KING/images/cf6461d8-b587-4b6f-87ec-e0efb8ad6692/20240921T211557/cf6461d8-b587-4b6f-87ec-e0efb8ad6692_16x9.jpg) ![](https://media.king5.com/assets/KING/images/cf6461d8-b587-4b6f-87ec-e0efb8ad6692/20240921T211557/cf6461d8-b587-4b6f-87ec-e0efb8ad6692_360x203.jpg)](https://www.king5.com/article/news/local/former-wa-governor-dan-evans-dies-at-98/281-d8cd3816-47cf-4069-8d29-b16eb3fb5e9b)
         
         #### [Former Washington governor Dan Evans dies at 98](https://www.king5.com/article/news/local/former-wa-governor-dan-evans-dies-at-98/281-d8cd3816-47cf-4069-8d29-b16eb3fb5e9b)
-        
-    *  [![](https://media.king5.com/assets/KING/images/d900470a-5c27-448d-aa7a-1bdd4ff23432/20240921T164646/d900470a-5c27-448d-aa7a-1bdd4ff23432_16x9.jpg) ![](https://media.king5.com/assets/KING/images/d900470a-5c27-448d-aa7a-1bdd4ff23432/20240921T164646/d900470a-5c27-448d-aa7a-1bdd4ff23432_360x203.jpg)](https://www.king5.com/article/news/local/pets-and-animals/paws-wild-night-gala-continue-washington-wildlife-rescue-pet-adoptions/281-e836e062-8445-4e12-9f22-d4b24f74e903)
-        
-        #### [PAWS gears up for 'Wild Night' gala to continue Washington wildlife rescue, pet adoptions](https://www.king5.com/article/news/local/pets-and-animals/paws-wild-night-gala-continue-washington-wildlife-rescue-pet-adoptions/281-e836e062-8445-4e12-9f22-d4b24f74e903)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -56,13 +56,13 @@ Navigation
     
     Latest Weather Stories
     
+    *  [![](https://media.king5.com/assets/KING/images/b22f3bd0-008e-4d9b-b243-c15242782bba/20240922T033301/b22f3bd0-008e-4d9b-b243-c15242782bba_16x9.jpg) ![](https://media.king5.com/assets/KING/images/b22f3bd0-008e-4d9b-b243-c15242782bba/20240922T033301/b22f3bd0-008e-4d9b-b243-c15242782bba_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
+        
+        #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
+        
     *  [![](https://media.king5.com/assets/WTIC/images/c1adf01e-1db8-439b-bdc3-891934f4d383/c1adf01e-1db8-439b-bdc3-891934f4d383_16x9.jpg) ![](https://media.king5.com/assets/WTIC/images/c1adf01e-1db8-439b-bdc3-891934f4d383/c1adf01e-1db8-439b-bdc3-891934f4d383_360x203.jpg)](https://www.king5.com/article/news/nation-world/first-day-of-fall/507-06766aa7-07fd-473a-bcd6-575afd16614a)
         
         #### [When is the first day of fall?](https://www.king5.com/article/news/nation-world/first-day-of-fall/507-06766aa7-07fd-473a-bcd6-575afd16614a)
-        
-    *  [![](https://media.king5.com/assets/KING/images/14126ce3-8e17-4562-817f-3d055be23bd0/20240921T154342/14126ce3-8e17-4562-817f-3d055be23bd0_16x9.jpg) ![](https://media.king5.com/assets/KING/images/14126ce3-8e17-4562-817f-3d055be23bd0/20240921T154342/14126ce3-8e17-4562-817f-3d055be23bd0_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
-        
-        #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
     
 * [Sports](https://www.king5.com/sports)
@@ -95,7 +95,7 @@ Navigation
 
 Seattle, WA »
 
-66°
+56°
 
 ![Clear](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
 
