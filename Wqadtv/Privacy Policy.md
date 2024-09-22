@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/e00971f5-0805-4316-a52a-2b03401cffa7/20240921T231720/e00971f5-0805-4316-a52a-2b03401cffa7_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/e00971f5-0805-4316-a52a-2b03401cffa7/20240921T231720/e00971f5-0805-4316-a52a-2b03401cffa7_360x203.jpg)](https://www.wqad.com/article/news/local/davenport-shooting-murder-skybridge-mason-payne-terrones-joslin/526-3db0f106-c805-4621-a5aa-82ed28742e19)
+    *  [![](https://media.tegna-media.com/assets/WOI/images/e2be2795-52b0-4283-8947-48bdc8c49d25/20240922T024833/e2be2795-52b0-4283-8947-48bdc8c49d25_16x9.jpg) ![](https://media.tegna-media.com/assets/WOI/images/e2be2795-52b0-4283-8947-48bdc8c49d25/20240922T024833/e2be2795-52b0-4283-8947-48bdc8c49d25_360x203.jpg)](https://www.wqad.com/article/news/local/guinness-world-record-breaker-fastest-motorized-wheelbarrow-mitchellville-saylorville-resident-wouned-warrior-project-fundraiser/524-09dd68d2-418a-4875-b3e0-08abf3fefe4d)
         
-        #### [Silvis teenager charged with first-degree murder in fatal August shooting near Davenport Skybridge](https://www.wqad.com/article/news/local/davenport-shooting-murder-skybridge-mason-payne-terrones-joslin/526-3db0f106-c805-4621-a5aa-82ed28742e19)
+        #### [Iowa man beats Guinness World Record for fastest motorized wheelbarrow](https://www.wqad.com/article/news/local/guinness-world-record-breaker-fastest-motorized-wheelbarrow-mitchellville-saylorville-resident-wouned-warrior-project-fundraiser/524-09dd68d2-418a-4875-b3e0-08abf3fefe4d)
         
     *  [![](https://media.tegna-media.com/assets/WNEP/images/e27bece4-94c2-4e4c-a4d7-27ef33a54ed7/e27bece4-94c2-4e4c-a4d7-27ef33a54ed7_16x9.jpg) ![](https://media.tegna-media.com/assets/WNEP/images/e27bece4-94c2-4e4c-a4d7-27ef33a54ed7/e27bece4-94c2-4e4c-a4d7-27ef33a54ed7_360x203.jpg)](https://www.wqad.com/article/news/local/1-dead-in-rock-island-county-crash/526-448f1cb7-0533-42cf-aaf8-958d1207cce8)
         
-        #### [1 dead in Rock Island County crash](https://www.wqad.com/article/news/local/1-dead-in-rock-island-county-crash/526-448f1cb7-0533-42cf-aaf8-958d1207cce8)
+        #### [Victim identified in fatal rural Rock Island County crash](https://www.wqad.com/article/news/local/1-dead-in-rock-island-county-crash/526-448f1cb7-0533-42cf-aaf8-958d1207cce8)
         
     
 * [Weather](https://www.wqad.com/weather)
@@ -86,9 +86,9 @@ Navigation
 
 Davenport, IA »
 
-66°
+67°
 
-![Cloudy](/assets/shared-images/weather-icons/cloudy-day_210x210.png)
+![Mostly Cloudy](/assets/shared-images/weather-icons/mostly-cloudy-day_210x210.png)
 
 Davenport, IA »](https://www.wqad.com/weather)
 
