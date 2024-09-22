@@ -270,6 +270,14 @@ Quirinus Quirrell's birthday
 
 Recurs yearly
 
+#### Sat, Sep 28
+
+Michael Gambon's Death 2023
+
+Recurs yearly
+
+At the age of 82 from pneumonia..
+
 MuggleNet podcasts are sponsored in part by [Secretlab](https://secretlab.co/harrypotter?rfsn=8013987.9df8fbc&utm_source=refersion&utm_medium=affiliate&utm_campaign=8013987.9df8fbc&utm_source=refersion&utm_medium=affiliate&utm_campaign=8013987.9df8fbc).
 
 ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
@@ -280,15 +288,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-Fred and George Weasley were born on April Fools’ Day.
+The curse of the Defense Against the Dark Arts position was inspired by the Spinal Tap drummers dying in bizarre circumstances.
 
 ### Potter History
 
-May 20, 2006 – The Harry Potter audiobooks enter the Audio Publishers Association Hall of Fame.
+May 29, 2007 – Warner Bros. announces that Harry Potter and the Order of the Phoenix will be released two days earlier (July 11) than originally scheduled.
 
 ### Potter Quote
 
-“Honestly, if you were any slower, you’d be going backward.”
+“Hello, Harry Potter. My name is Tom Riddle. How did you come by my diary?”
 
 [](#)
 
