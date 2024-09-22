@@ -1,3 +1,7 @@
+🎉 Exciting Updates!
+
+[See What's New](https://quran.com/product-updates)
+
 [](https://quran.com/ "Quran.com")
 
 [](https://quran.com/ "Quran.com")
@@ -11,7 +15,7 @@ Settings
 Privacy Policy
 ==============
 
-The Quran.Foundation (which includes Quran.com) is a 501(c)(3) non-profit organization that strives to empower every human being to benefit from the Quran. Quran.Foundation values and respects the privacy of all of our users.
+Quran Foundation, Inc. (which includes Quran.com) is a 501(c)(3) non-profit organization that strives to empower every human being to benefit from the Quran. Quran Foundation, Inc. values and respects the privacy of all of our users.
 
 Information Collection
 ----------------------
@@ -150,7 +154,7 @@ Al Kahf
 
 Al Muzzammil
 
-[Sitemap](https://quran.com/sitemap.xml)[Privacy](https://quran.com/privacy)
+[Sitemap](https://quran.com/sitemap.xml)[Privacy](https://quran.com/privacy)[Terms and Conditions](https://quran.com/terms-and-conditions)
 
 © 2024 [Quran.com](https://quran.com/). All Rights Reserved
 
