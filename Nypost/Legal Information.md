@@ -76,10 +76,6 @@ Search
 
 Search
 
-#### Breaking News
-
-[4 dead, more than 20 wounded in Birmingham late night shooting, Alabama police say](https://nypost.com/2024/09/22/us-news/alabama-shooting-leaves-4-killed-at-least-21-injured-in-birmingham/)
-
 Privacy Notice Highlights
 =========================
 
