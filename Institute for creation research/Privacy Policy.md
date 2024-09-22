@@ -101,67 +101,31 @@ If you have any questions about our privacy policy, please [contact us](mailto:w
 
 Return to our [subscription form](https://www.icr.org/subscriptions).
 
-More Creation Science Update
+More Impact
 
-[![](/i/Main%20Stage%20-%201400x1050/SpiderSilk_1400x1050.jpg)](https://www.icr.org/article/Spider-Silk-For-Nerve-Repairs)
+[![](/i/articles/af/Main%20Stage%20-%201400x1050/imposs_of_ev_beginnings_main.jpg)](https://www.icr.org/article/impossibility-lifes-evolutionary-beginnings)
 
-[Spider Silk Properties Ideal for Nerve Repairs](https://www.icr.org/article/Spider-Silk-For-Nerve-Repairs/)
+[The Impossibility of Life's Evolutionary Beginnings](https://www.icr.org/article/impossibility-lifes-evolutionary-beginnings/)
 
-Big doesn’t always mean strong. Most of the time, strength comes from what something is made of. The proteins forming spider silk make that silk...
+The hypothetical naturalistic origin of life and its most basic biomolecules from non-living matter is called abiogenesis. This paradigm lies at the...
 
-BY: [STAFF WRITER](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=27)
+BY: [JEFFREY P. TOMKINS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=207)
 
-[![](/i/Main%20Stage%20-%201400x1050/TriloFoss_1400x1050.jpg)](https://www.icr.org/article/trilobite-demise)
+[![](/i/articles/af/Main%20Stage%20-%201400x1050/continuing_troubles_bigbang.jpg)](https://www.icr.org/article/continuing-troubles-for-the-big-bang-model)
 
-[Trilobite Demise](https://www.icr.org/article/trilobite-demise/)
+[Continuing Troubles for the Big Bang Model](https://www.icr.org/article/continuing-troubles-for-the-big-bang-model/)
 
-One of the more amazing animals of God’s creation was the trilobite. This strange-looking creature was an ocean bottom-dwelling animal that remains...
+Cosmology is the study of the origin and structure of the universe, and the Big Bang is the dominant secular cosmological model. Some Christians say...
 
-BY: [FRANK SHERWIN, D.SC. (HON.)](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=32)
+BY: [JAKE HEBERT, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=218)
 
-[![](/i/Main%20Stage%20-%201400x1050/beetle-eating-leaf-1400x1050)](https://www.icr.org/article/CET-model-in-plants-is-clearly-seen)
+[![](/i/articles/af/Main%20Stage%20-%201400x1050/MSH_living_lab_40.jpg)](https://www.icr.org/article/mount-st-helens-living-laboratory-40-years)
 
-[CET Model in Plants Is Clearly Seen](https://www.icr.org/article/CET-model-in-plants-is-clearly-seen/)
+[Mount St. Helens, Living Laboratory for 40 Years](https://www.icr.org/article/mount-st-helens-living-laboratory-40-years/)
 
-Plant scientists have known for decades that plants aren’t just static entities. The half-million or more species of plants in the world display...
+Tim Clarey, Ph.D., and Frank Sherwin, M.A. Nothing put a damper on uniformitarianism like the Mount St. Helens eruption on May 18, 1980. That explosion...
 
-BY: [FRANK SHERWIN, D.SC. (HON.)](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=32)
-
-Shop Related Products
-
-[![](https://cdn.shoplightspeed.com/shops/601440/files/13216497/file.jpg)
-
-Scientific Evidences for Creation - Download](https://store.icr.org/mr-frank-sherwin-scientific-evidences-for-11389225.html)
-
-$4.99
-
-$9.99
-
-[![](https://cdn.shoplightspeed.com/shops/601440/files/8285455/file.jpg)
-
-The Mighty, Wonderful Oceans](https://store.icr.org/the-mighty-wonderful-oceans.html)
-
-$7.99
-
-$9.99
-
-[![](https://cdn.shoplightspeed.com/shops/601440/files/3050408/file.jpg)
-
-The New Ocean Book](https://store.icr.org/mr-frank-sherwin-the-new-ocean-book.html)
-
-$16.99
-
-[![](https://cdn.shoplightspeed.com/shops/601440/files/9373127/file.jpg)
-
-Scientific Evidences for Creation](https://store.icr.org/mr-frank-sherwin-scientific-evidences-for-creation.html)
-
-$7.99
-
-$9.99
-
-[](https://store.icr.org/.html)
-
-$
+BY:  [VARIOUS AUTHORS](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=35)
 
 [![Institute for Creation Research](/i/icr-logo-final-h-rev3-100.png)](https://www.icr.org/)[![ICR Discovery Center for Science and Earth History](/i/DC_Logo_Footer_2.png)](http://discoverycenter.icr.org/)
 
