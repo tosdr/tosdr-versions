@@ -821,10 +821,10 @@ If you have any questions about this Privacy Policy, please contact us:
 * 4[Von der Leyen to propose solution on EU anti-deforestation rules, according to EPP agriculture chief](http://en.euractiv.eu/section/agriculture-food/news/propose-solution-of-eu-anti-deforestation-rules/?utm_source=website&utm_campaign=popular)
 * 5[EU, China trade chiefs agree to look at 'price undertakings' in key EV tariff saga twist](http://en.euractiv.eu/section/economy-jobs/news/eu-china-trade-chiefs-agree-to-look-at-price-undertakings-in-key-ev-tariff-saga-twist/?utm_source=website&utm_campaign=popular)
 * 6[Groundhog day for carmakers, but complaining has become absurd](http://en.euractiv.eu/section/electric-cars/opinion/groundhog-day-for-carmakers-but-complaining-has-become-absurd/?utm_source=website&utm_campaign=popular)
-* 7[Von der Leyen plans five more years of intense energy and climate rule-making](http://en.euractiv.eu/section/energy-environment/news/von-der-leyen-plans-five-more-years-of-intense-energy-and-climate-rule-making/?utm_source=website&utm_campaign=popular)
-* 8[Fake Kamala hit-and-run story is the work of Russian propaganda group, Microsoft says](http://en.euractiv.eu/section/global-europe/news/fake-kamala-hit-and-run-story-is-the-work-of-russian-propaganda-group-microsoft-says/?utm_source=website&utm_campaign=popular)
-* 9[France or Finland – whose industrial policy should prevail in Europe?](http://en.euractiv.eu/section/economy-jobs/news/france-or-finland-whose-industrial-policy-should-prevail-in-europe/?utm_source=website&utm_campaign=popular)
-* 10[US says Blinken briefed on Ukraine plan to push Russia end the war](http://en.euractiv.eu/section/europe-s-east/news/us-says-blinken-briefed-on-ukraine-plan-to-push-russia-end-the-war/?utm_source=website&utm_campaign=popular)
+* 7[Fake Kamala hit-and-run story is the work of Russian propaganda group, Microsoft says](http://en.euractiv.eu/section/global-europe/news/fake-kamala-hit-and-run-story-is-the-work-of-russian-propaganda-group-microsoft-says/?utm_source=website&utm_campaign=popular)
+* 8[France or Finland – whose industrial policy should prevail in Europe?](http://en.euractiv.eu/section/economy-jobs/news/france-or-finland-whose-industrial-policy-should-prevail-in-europe/?utm_source=website&utm_campaign=popular)
+* 9[US says Blinken briefed on Ukraine plan to push Russia end the war](http://en.euractiv.eu/section/europe-s-east/news/us-says-blinken-briefed-on-ukraine-plan-to-push-russia-end-the-war/?utm_source=website&utm_campaign=popular)
+* 10[Europe’s electrifiers say their time has come](http://en.euractiv.eu/section/energy-environment/news/europes-electrifiers-say-their-time-has-come/?utm_source=website&utm_campaign=popular)
 
 ###### Advertisement
 
