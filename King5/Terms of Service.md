@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
+    *  [![](https://media.king5.com/assets/KING/images/cf6461d8-b587-4b6f-87ec-e0efb8ad6692/20240921T211557/cf6461d8-b587-4b6f-87ec-e0efb8ad6692_16x9.jpg) ![](https://media.king5.com/assets/KING/images/cf6461d8-b587-4b6f-87ec-e0efb8ad6692/20240921T211557/cf6461d8-b587-4b6f-87ec-e0efb8ad6692_360x203.jpg)](https://www.king5.com/article/news/local/former-wa-governor-dan-evans-dies-at-98/281-d8cd3816-47cf-4069-8d29-b16eb3fb5e9b)
+        
+        #### [Former Washington governor Dan Evans dies at 98](https://www.king5.com/article/news/local/former-wa-governor-dan-evans-dies-at-98/281-d8cd3816-47cf-4069-8d29-b16eb3fb5e9b)
+        
     *  [![](https://media.king5.com/assets/KING/images/d900470a-5c27-448d-aa7a-1bdd4ff23432/20240921T164646/d900470a-5c27-448d-aa7a-1bdd4ff23432_16x9.jpg) ![](https://media.king5.com/assets/KING/images/d900470a-5c27-448d-aa7a-1bdd4ff23432/20240921T164646/d900470a-5c27-448d-aa7a-1bdd4ff23432_360x203.jpg)](https://www.king5.com/article/news/local/pets-and-animals/paws-wild-night-gala-continue-washington-wildlife-rescue-pet-adoptions/281-e836e062-8445-4e12-9f22-d4b24f74e903)
         
         #### [PAWS gears up for 'Wild Night' gala to continue Washington wildlife rescue, pet adoptions](https://www.king5.com/article/news/local/pets-and-animals/paws-wild-night-gala-continue-washington-wildlife-rescue-pet-adoptions/281-e836e062-8445-4e12-9f22-d4b24f74e903)
-        
-    *  [![](https://media.king5.com/assets/KING/images/9308fa1d-c453-4219-8741-66fdb751152e/9308fa1d-c453-4219-8741-66fdb751152e_16x9.jpg) ![](https://media.king5.com/assets/KING/images/9308fa1d-c453-4219-8741-66fdb751152e/9308fa1d-c453-4219-8741-66fdb751152e_360x203.jpg)](https://www.king5.com/article/traffic/traffic-news/145th-street-closure-shoreline-seattle-extended/281-14c9f5a3-fd50-456d-802b-cce21fd5046b)
-        
-        #### [145th Street closure in Shoreline extended to 2025](https://www.king5.com/article/traffic/traffic-news/145th-street-closure-shoreline-seattle-extended/281-14c9f5a3-fd50-456d-802b-cce21fd5046b)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -56,13 +56,13 @@ Navigation
     
     Latest Weather Stories
     
+    *  [![](https://media.king5.com/assets/WTIC/images/c1adf01e-1db8-439b-bdc3-891934f4d383/c1adf01e-1db8-439b-bdc3-891934f4d383_16x9.jpg) ![](https://media.king5.com/assets/WTIC/images/c1adf01e-1db8-439b-bdc3-891934f4d383/c1adf01e-1db8-439b-bdc3-891934f4d383_360x203.jpg)](https://www.king5.com/article/news/nation-world/first-day-of-fall/507-06766aa7-07fd-473a-bcd6-575afd16614a)
+        
+        #### [When is the first day of fall?](https://www.king5.com/article/news/nation-world/first-day-of-fall/507-06766aa7-07fd-473a-bcd6-575afd16614a)
+        
     *  [![](https://media.king5.com/assets/KING/images/14126ce3-8e17-4562-817f-3d055be23bd0/20240921T154342/14126ce3-8e17-4562-817f-3d055be23bd0_16x9.jpg) ![](https://media.king5.com/assets/KING/images/14126ce3-8e17-4562-817f-3d055be23bd0/20240921T154342/14126ce3-8e17-4562-817f-3d055be23bd0_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
         #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
-        
-    *  [![](https://media.king5.com/assets/KING/images/eabc8405-06ba-422e-a512-20fd4e6b4e3c/20240921T005425/eabc8405-06ba-422e-a512-20fd4e6b4e3c_16x9.jpg) ![](https://media.king5.com/assets/KING/images/eabc8405-06ba-422e-a512-20fd4e6b4e3c/20240921T005425/eabc8405-06ba-422e-a512-20fd4e6b4e3c_360x203.jpg)](https://www.king5.com/article/weather/la-nina-winter-expected-western-washington/281-7810baca-d903-4514-8c7f-4d2d7d9e5a3b)
-        
-        #### [A La Niña winter is expected, what does that mean?](https://www.king5.com/article/weather/la-nina-winter-expected-western-washington/281-7810baca-d903-4514-8c7f-4d2d7d9e5a3b)
         
     
 * [Sports](https://www.king5.com/sports)
@@ -97,7 +97,7 @@ Seattle, WA »
 
 66°
 
-![Sunny](/assets/shared-images/weather-icons/clear-day_210x210.png)
+![Clear](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
 
 Seattle, WA »](https://www.king5.com/weather)
 
