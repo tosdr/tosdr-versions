@@ -140,12 +140,12 @@ MSX Music player
 
 Latest reactions
 
+* [OCMINFO for MSX++ compatibles](https://www.msx.org/news/en/ocminfo-for-msx-compatibles "OCMINFO for MSX++ compatibles")
 * [I-Logic](https://www.msx.org/news/software/en/i-logic "I-Logic")
 * [csMSX - MSX/2 Emulator & C# Source Code](https://www.msx.org/downloads/csmsx-vbnet-msx-msx2-emulator-source-code "csMSX - MSX/2 Emulator & C# Source Code")
 * [BrewOtaku magazine](https://www.msx.org/news/media/en/brewotaku-magazine "BrewOtaku magazine")
 * [New website Repair-Bas](https://www.msx.org/news/en/new-server-repair-bas-youtube-channel-english-translation "New website Repair-Bas")
 * [Rambo MSX2 remake announced](https://www.msx.org/news/en/rambo-msx2-remake "Rambo MSX2 remake announced")
-* [OCMINFO for MSX++ compatibles](https://www.msx.org/news/en/ocminfo-for-msx-compatibles "OCMINFO for MSX++ compatibles")
 * [Markus Vordermeier aka Hamlet passed away](https://www.msx.org/news/msx-related/en/markus-vordermeier-aka-hamlet-passed-away "Markus Vordermeier aka Hamlet passed away")
 * [MSX and Networking book crowdfunding](https://www.msx.org/news/en/new-book-about-msx-and-networking-crowdfunding-campaign "MSX and Networking book crowdfunding")
 * [Fruit Mazes and Pallo](https://www.msx.org/news/en/pallo-a-new-game-for-your-msx2 "Fruit Mazes and Pallo")
@@ -153,6 +153,7 @@ Latest reactions
 
 Latest forum posts
 
+* [Is my new Carnivore2 faulty?](https://www.msx.org/forum/msx-talk/hardware/is-my-new-carnivore2-faulty "Is my new Carnivore2 faulty?")
 * [Tecnobytes Slot Expander II + Carnivore2 HELP!!!!](https://www.msx.org/forum/msx-talk/hardware/tecnobytes-slot-expander-ii-carnivore2-help "Tecnobytes Slot Expander II + Carnivore2 HELP!!!!")
 * [VATT - VRAM Access Timing Tester](https://www.msx.org/forum/msx-talk/development/vatt-vram-access-timing-tester?page=17 "VATT - VRAM Access Timing Tester")
 * [MSXBAS2ROM and BASIC variables spacings](https://www.msx.org/forum/msx-talk/general-discussion/msxbas2rom-and-basic-variables-spacings "MSXBAS2ROM and BASIC variables spacings")
@@ -165,7 +166,6 @@ Latest forum posts
 * [Performance Profiler - A first attempt](https://www.msx.org/forum/msx-talk/openmsx/performance-profiler-first-attempt?page=10 "Performance Profiler - A first attempt")
 * [SX-E FPGA MSX](https://www.msx.org/forum/msx-talk/hardware/sx-e-fpga-msx?page=2 "SX-E FPGA MSX")
 * [Full English translation of Illusion City for MSX Turbo-R](https://www.msx.org/forum/msx-talk/software/full-english-translation-of-illusion-city-for-msx-turbo-r?page=14 "Full English translation of Illusion City for MSX Turbo-R")
-* [Anbernic console for msx](https://www.msx.org/forum/msx-talk/hardware/anbernic-console-for-msx?page=1 "Anbernic console for msx")
 
 [](https://www.msx.org/forum/)[More forum topics](https://www.msx.org/forum/)
 
