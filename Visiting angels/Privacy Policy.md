@@ -260,15 +260,15 @@ Or write to us at: 937 Haverford Road Suite 200, Bryn Mawr PA 19010
 
  related  categories
 
-[Is it Time for Your Loved Ones to Leave Their Homes?](https://www.visitingangels.com/knowledge-center/care-options/is-it-time-for-your-loved-ones-to-leave-their-homes/6)
+[Does Your Mom Need Companion Care?](https://www.visitingangels.com/knowledge-center/care-options/does-your-mom-need-companion-care/425)
+
+[Is it Dementia or Just Memory Loss?](https://www.visitingangels.com/knowledge-center/senior-health-and-well-being/is-it-dementia-or-just-memory-loss/71)
+
+[Five Benefits of Full-Time Home Care](https://www.visitingangels.com/knowledge-center/family-caregiver-support/five-benefits-of-full-time-home-care/488)
 
 [What Skills Matter Most for Personal Care?](https://www.visitingangels.com/knowledge-center/care-options/what-skills-matter-most-for-personal-care/467)
 
-[Taking the Keys Away from Dad](https://www.visitingangels.com/knowledge-center/preparing-loved-ones/taking-the-keys-away-from-dad/435)
-
-[Things Change: What to Do When Your Senior Loved One Stops Doing Things They Love](https://www.visitingangels.com/knowledge-center/senior-health-and-well-being/things-change-what-to-do-when-your-senior-loved-one-stops-doing-things-they-love/371)
-
-[Is it Too Early to Start In-Home Senior Care?](https://www.visitingangels.com/knowledge-center/why-in-home-care/is-it-too-early-to-start-in-home-senior-care/289)
+[Uprooting an Aging Loved One: What to Know](https://www.visitingangels.com/knowledge-center/selecting-care/uprooting-an-aging-loved-one-what-to-know/337)
 
 * [Care Options](https://www.visitingangels.com/knowledge-center/care-options)
 * [Selecting Care](https://www.visitingangels.com/knowledge-center/selecting-care)
