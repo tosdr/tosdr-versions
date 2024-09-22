@@ -159,17 +159,17 @@
     
     9 月 7, 2024 6
     
-* [![YasoCut - 极简，只做一件事：为当前窗口截图[Windows] 7](https://www.appinn.com/wp-content/uploads/2024/08/Appinn-feature-images-2024-08-27T164807.146-115x115.jpg "YasoCut - 极简，只做一件事：为当前窗口截图[Windows] 7")](https://www.appinn.com/yasocut/ "YasoCut – 极简，只做一件事：为当前窗口截图[Windows]")
-    
-    [YasoCut – 极简，只做一件事：为当前窗口截图\[Windows\]](https://www.appinn.com/yasocut/ "YasoCut – 极简，只做一件事：为当前窗口截图[Windows]")
-    
-    8 月 27, 2024 4
-    
-* [![LM Studio - 有电脑就能用，傻瓜、一站式部署本地大语言模型｜然后，像 ChatGPT 那样提问 8](https://www.appinn.com/wp-content/uploads/2024/08/Appinn-feature-images-2024-08-25T221457.341-115x115.jpg "LM Studio - 有电脑就能用，傻瓜、一站式部署本地大语言模型｜然后，像 ChatGPT 那样提问 8")](https://www.appinn.com/lm-studio/ "LM Studio – 有电脑就能用，傻瓜、一站式部署本地大语言模型｜然后，像 ChatGPT 那样提问")
+* [![LM Studio - 有电脑就能用，傻瓜、一站式部署本地大语言模型｜然后，像 ChatGPT 那样提问 7](https://www.appinn.com/wp-content/uploads/2024/08/Appinn-feature-images-2024-08-25T221457.341-115x115.jpg "LM Studio - 有电脑就能用，傻瓜、一站式部署本地大语言模型｜然后，像 ChatGPT 那样提问 7")](https://www.appinn.com/lm-studio/ "LM Studio – 有电脑就能用，傻瓜、一站式部署本地大语言模型｜然后，像 ChatGPT 那样提问")
     
     [LM Studio – 有电脑就能用，傻瓜、一站式部署本地大语言模型｜然后，像 ChatGPT 那样提问](https://www.appinn.com/lm-studio/ "LM Studio – 有电脑就能用，傻瓜、一站式部署本地大语言模型｜然后，像 ChatGPT 那样提问")
     
     8 月 25, 2024 4
+    
+* [![YasoCut - 极简，只做一件事：为当前窗口截图[Windows] 8](https://www.appinn.com/wp-content/uploads/2024/08/Appinn-feature-images-2024-08-27T164807.146-115x115.jpg "YasoCut - 极简，只做一件事：为当前窗口截图[Windows] 8")](https://www.appinn.com/yasocut/ "YasoCut – 极简，只做一件事：为当前窗口截图[Windows]")
+    
+    [YasoCut – 极简，只做一件事：为当前窗口截图\[Windows\]](https://www.appinn.com/yasocut/ "YasoCut – 极简，只做一件事：为当前窗口截图[Windows]")
+    
+    8 月 27, 2024 4
     
 * [![Notepad4 - 只有 1.14MB，轻量级文本编辑器｜Notepad2-mod 继任者[Windows] 9](https://www.appinn.com/wp-content/uploads/2024/09/Appinn-feature-images-2024-09-17T163756.718-115x115.jpg "Notepad4 - 只有 1.14MB，轻量级文本编辑器｜Notepad2-mod 继任者[Windows] 9")](https://www.appinn.com/notepad4/ "Notepad4 – 只有 1.14MB，轻量级文本编辑器｜Notepad2-mod 继任者[Windows]")
     
@@ -177,11 +177,11 @@
     
     9 月 17, 2024 2
     
-* [![在 Docker 中安装 Firefox 浏览器｜网页版 Firefox 10](https://www.appinn.com/wp-content/uploads/2024/08/Appinn-feature-images-2024-08-22T212431.953-115x115.jpg "在 Docker 中安装 Firefox 浏览器｜网页版 Firefox 10")](https://www.appinn.com/docker-firefox/ "在 Docker 中安装 Firefox 浏览器｜网页版 Firefox")
+* [![SimpleMindMap - 开源、功能完整的思维导图工具[跨平台/Web] 10](https://www.appinn.com/wp-content/uploads/2024/09/Appinn-feature-images-2024-09-11T144631.481-115x115.jpg "SimpleMindMap - 开源、功能完整的思维导图工具[跨平台/Web] 10")](https://www.appinn.com/simplemindmap/ "SimpleMindMap – 开源、功能完整的思维导图工具[跨平台/Web]")
     
-    [在 Docker 中安装 Firefox 浏览器｜网页版 Firefox](https://www.appinn.com/docker-firefox/ "在 Docker 中安装 Firefox 浏览器｜网页版 Firefox")
+    [SimpleMindMap – 开源、功能完整的思维导图工具\[跨平台/Web\]](https://www.appinn.com/simplemindmap/ "SimpleMindMap – 开源、功能完整的思维导图工具[跨平台/Web]")
     
-    8 月 22, 2024 1
+    9 月 11, 2024 1
     
 
 ### 分类
