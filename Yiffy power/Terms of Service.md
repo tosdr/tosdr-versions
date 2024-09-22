@@ -107,7 +107,7 @@ August 24, 2024
 
 [elena and elin (mythology) created by psychorodent](https://yiff-party.com/yiff/elena-and-elin-mythology-created-by-psychorodent/)
 
-0 519 1
+0 528 1
 
 August 24, 2024
 
@@ -115,15 +115,15 @@ August 24, 2024
 
 [created by rabbitbrush](https://yiff-party.com/yiff/created-by-rabbitbrush/)
 
-0 238 1
+0 249 1
 
 September 11, 2024
 
-[](https://yiff-party.com/yiff/juno-beastars-created-by-taurika/)
+[](https://yiff-party.com/yiff/directed-by-alcholoicidiot/)
 
-[juno (beastars) created by taurika](https://yiff-party.com/yiff/juno-beastars-created-by-taurika/)
+[directed by alcholoicidiot](https://yiff-party.com/yiff/directed-by-alcholoicidiot/)
 
-0 92 0
+0 123 0
 
 August 23, 2024
 
