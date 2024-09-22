@@ -463,6 +463,10 @@ Revised June 1, 2022
 
 * Editors' Picks
 
+[U.S. leans on shipbuilding prowess of allies to compete with China](https://www.japantimes.co.jp/news/2024/09/21/asia-pacific/us-shipbuilding-allies/ "U.S. leans on shipbuilding prowess of allies to compete with China")
+
+  [![Warships and fighter jets of the Chinese People's Liberation Army Navy take part in a military display in the South China Sea in April 2018.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/21/423021.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Warships and fighter jets of the Chinese People's Liberation Army Navy take part in a military display in the South China Sea in April 2018.")](https://www.japantimes.co.jp/news/2024/09/21/asia-pacific/us-shipbuilding-allies/ "U.S. leans on shipbuilding prowess of allies to compete with China")
+
 [Apple's iPhone 16 released in Japan](https://www.japantimes.co.jp/business/2024/09/20/companies/iphone16-japan-stores/ "Apple's iPhone 16 released in Japan")
 
   [![A man holds a new iPhone 16 at an Apple store in Tokyo's Shibuya Ward on Friday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/20/422900.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "A man holds a new iPhone 16 at an Apple store in Tokyo's Shibuya Ward on Friday.")](https://www.japantimes.co.jp/business/2024/09/20/companies/iphone16-japan-stores/ "Apple's iPhone 16 released in Japan")
@@ -479,9 +483,13 @@ Revised June 1, 2022
 
   [![Shohei Ohtani connects on his 50th home run of the season during the seventh inning against the Marlins in Miami on Thursday. Ohtani became the first player in MLB history to reach 50 home runs and 50 stolen bases in the same season.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/20/422799.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Shohei Ohtani connects on his 50th home run of the season during the seventh inning against the Marlins in Miami on Thursday. Ohtani became the first player in MLB history to reach 50 home runs and 50 stolen bases in the same season.")](https://www.japantimes.co.jp/sports/2024/09/20/baseball/mlb/ohtani-50-50-season/ "Shohei Ohtani records baseball's first 50-50 season with huge night in Miami")
 
-[The second act of the Koizumi theater](https://www.japantimes.co.jp/news/2024/09/20/japan/politics/koizumi-junichiro-shinjiro/ "The second act of the Koizumi theater")
+[For Toyota and its rivals, WEC becomes important arena amid major industry shift](https://www.japantimes.co.jp/sports/2024/09/20/more-sports/world-endurance-racing-momentum/ "For Toyota and its rivals, WEC becomes important arena amid major industry shift")
 
-  [![Former Environment Minister Shinjiro Koizumi, the 43-year-old son of former Prime Minister Junichiro Koizumi, announces his candidacy for the Liberal Democratic Party presidency in Tokyo on Sept. 6.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/20/422757.JPG?v=3.1&w=400&q=100&f=jpg&t=1.2 "Former Environment Minister Shinjiro Koizumi, the 43-year-old son of former Prime Minister Junichiro Koizumi, announces his candidacy for the Liberal Democratic Party presidency in Tokyo on Sept. 6.")](https://www.japantimes.co.jp/news/2024/09/20/japan/politics/koizumi-junichiro-shinjiro/ "The second act of the Koizumi theater")
+  [![Toyota Gazoo Racing fans cheer on the team at the start of the 6 Hours of Fuji race on Sunday at Fuji Speedway in Oyama, Shizuoka Prefecture.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/20/422901.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Toyota Gazoo Racing fans cheer on the team at the start of the 6 Hours of Fuji race on Sunday at Fuji Speedway in Oyama, Shizuoka Prefecture.")](https://www.japantimes.co.jp/sports/2024/09/20/more-sports/world-endurance-racing-momentum/ "For Toyota and its rivals, WEC becomes important arena amid major industry shift")
+
+[Marina Tsukada lets local lives shape her work](https://www.japantimes.co.jp/culture/2024/09/20/film/marina-tsukada-nagano-prefecture/ "Marina Tsukada lets local lives shape her work")
+
+  [![Marina Tsukada got the idea for her anthology “Mitsuki, Sekai” from her acquaintance with the two young lead actors, whom she first met at a video workshop she conducted in Nagano Prefecture. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/20/422676.jpeg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Marina Tsukada got the idea for her anthology “Mitsuki, Sekai” from her acquaintance with the two young lead actors, whom she first met at a video workshop she conducted in Nagano Prefecture. ")](https://www.japantimes.co.jp/culture/2024/09/20/film/marina-tsukada-nagano-prefecture/ "Marina Tsukada lets local lives shape her work")
 
 [Shohei Ohtani records baseball's first 50-50 season with huge night in Miami](https://www.japantimes.co.jp/sports/2024/09/20/baseball/mlb/ohtani-50-50-season/ "Shohei Ohtani records baseball's first 50-50 season with huge night in Miami")
 
@@ -491,17 +499,9 @@ Revised June 1, 2022
 
   [![Comedian Yuriyan Retriever takes on the role of Japan’s most hated heel, Kaoru “Dump” Matsumoto, in “The Queen of Villains.”](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/20/422369.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Comedian Yuriyan Retriever takes on the role of Japan’s most hated heel, Kaoru “Dump” Matsumoto, in “The Queen of Villains.”")](https://www.japantimes.co.jp/culture/2024/09/20/tv-streaming/yuriyan-retriever-dump-matsumoto/ "Yuriyan Retriever is Japan's biggest heel — and proud of it")
 
-[Top skaters and riders set to wow Japan crowd at X Games Chiba](https://www.japantimes.co.jp/sports/2024/09/19/more-sports/x-games-chiba-preview/ "Top skaters and riders set to wow Japan crowd at X Games Chiba")
-
-  [![Coco Yoshizawa competes in the women's street skateboarding final, which she went on to win, at the Paris Olympics on July 28.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/19/422715.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Coco Yoshizawa competes in the women's street skateboarding final, which she went on to win, at the Paris Olympics on July 28.")](https://www.japantimes.co.jp/sports/2024/09/19/more-sports/x-games-chiba-preview/ "Top skaters and riders set to wow Japan crowd at X Games Chiba")
-
 [‘The people I’d seen in kimono didn’t have as much melanin as I do’](https://www.japantimes.co.jp/community/2024/09/16/our-lives/kimono-instructor-license-black-women-japan/ "‘The people I’d seen in kimono didn’t have as much melanin as I do’")
 
   [![American Kara Harris is on the verge of attaining a high-level certification in the world of kimono — and may possibly be the first Black woman to do so.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/13/421162.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "American Kara Harris is on the verge of attaining a high-level certification in the world of kimono — and may possibly be the first Black woman to do so.")](https://www.japantimes.co.jp/community/2024/09/16/our-lives/kimono-instructor-license-black-women-japan/ "‘The people I’d seen in kimono didn’t have as much melanin as I do’")
-
-[France-Japan military pact expected by year-end, envoy to Tokyo says](https://www.japantimes.co.jp/news/2024/09/18/japan/politics/france-ambassador-japan-interview/ "France-Japan military pact expected by year-end, envoy to Tokyo says")
-
-  [![French Ambassador Philippe Setton says that, despite previous differences over whether Japan should host a NATO liaison office, Paris aims to deepen ties with Tokyo "in all security areas."](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/18/422435.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "French Ambassador Philippe Setton says that, despite previous differences over whether Japan should host a NATO liaison office, Paris aims to deepen ties with Tokyo "in all security areas."")](https://www.japantimes.co.jp/news/2024/09/18/japan/politics/france-ambassador-japan-interview/ "France-Japan military pact expected by year-end, envoy to Tokyo says")
 
 Podcast
 -------
@@ -522,9 +522,9 @@ By [Alex K.T. Martin](https://www.japantimes.co.jp/author/219/alex-kt-martin/ "A
 SUSTAINABLE JAPAN
 -----------------
 
-[Sasakawa works for a sustainable blue economy](https://sustainable.japantimes.com/magazine/vol39/39-01?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "Sasakawa works for a sustainable blue economy")
+[Azabudai Hills, Tokyo’s green new downtown ‘village’](https://sustainable.japantimes.com/unraveling/26?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=2 "Azabudai Hills, Tokyo’s green new downtown ‘village’")
 
-[![Sasakawa works for a sustainable blue economy](https://wp.japantimes.co.jp/wp-content/uploads/2024/08/img_magazine_39_01_01-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol39/39-01?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "Sasakawa works for a sustainable blue economy")
+[![Azabudai Hills, Tokyo’s green new downtown ‘village’](https://wp.japantimes.co.jp/wp-content/uploads/2024/07/img_unraveling_26_01-200x200.jpg)](https://sustainable.japantimes.com/unraveling/26?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=2 "Azabudai Hills, Tokyo’s green new downtown ‘village’")
 
 SPECIAL SUPPLEMENTS [![note](/theme_japantimes/images/icon_note.png)](javascript:; "Note")
 ------------------------------------------------------------------------------------------
@@ -564,25 +564,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
-[One dead and 10 missing after 'unprecedented' rains in quake-hit Ishikawa](https://www.japantimes.co.jp/news/2024/09/22/japan/ishikawa-rain-second-day/ "One dead and 10 missing after 'unprecedented' rains in quake-hit Ishikawa")
+[Genchari moped users lament imminent farewell](https://www.japantimes.co.jp/news/2024/09/22/japan/society/genchari-moped-goodbye/ "Genchari moped users lament imminent farewell")
 
-1 hours ago
+4 hours ago
 
-[Israel’s risky new posture against Hezbollah stops short of war](https://www.japantimes.co.jp/news/2024/09/22/world/israel-new-posture-hezbollah/ "Israel’s risky new posture against Hezbollah stops short of war")
+[Biden and Kishida affirm strong ties ahead of leadership transition in both nations](https://www.japantimes.co.jp/news/2024/09/22/japan/politics/kishida-biden-summit/ "Biden and Kishida affirm strong ties ahead of leadership transition in both nations")
 
-3 hours ago
+4 hours ago
 
-[France's Macron appoints new government in shift to right](https://www.japantimes.co.jp/news/2024/09/22/world/politics/france-new-cabinet/ "France's Macron appoints new government in shift to right")
+['Quad' cements ties with coast guard patrols amid China concerns](https://www.japantimes.co.jp/news/2024/09/22/asia-pacific/politics/quad-summit-biden-kishida-china/ "'Quad' cements ties with coast guard patrols amid China concerns")
 
-3 hours ago
+5 hours ago
 
-[Biden administration to prepare ban on Chinese car software](https://www.japantimes.co.jp/business/2024/09/22/us-china-car-software/ "Biden administration to prepare ban on Chinese car software")
+[One dead and 11 missing after 'unprecedented' rains in quake-hit Ishikawa](https://www.japantimes.co.jp/news/2024/09/22/japan/ishikawa-rain-second-day/ "One dead and 11 missing after 'unprecedented' rains in quake-hit Ishikawa")
 
-3 hours ago
+7 hours ago
 
-[Israeli jets pound Lebanon after deadly Beirut strike](https://www.japantimes.co.jp/news/2024/09/22/world/israel-jets-pound-lebanon/ "Israeli jets pound Lebanon after deadly Beirut strike")
+[Zelenskyy to press U.S. on long-range missile strikes inside Russia](https://www.japantimes.co.jp/news/2024/09/22/world/politics/zelenskyy-us-long-range-strikes/ "Zelenskyy to press U.S. on long-range missile strikes inside Russia")
 
-3 hours ago
+8 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
