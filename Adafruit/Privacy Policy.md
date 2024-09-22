@@ -404,9 +404,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ There’s nothing like watching the sunrise to the beats of the Robot Heart”
+“ I don’t care that they stole my idea — I care that they don’t have any of their own”
 
-[Andrew "bunnie" Huang](http://en.wikipedia.org/wiki/Andrew_Huang)
+[Nikola Tesla](https://en.wikipedia.org/wiki/Nikola_Tesla)
 
 [](https://www.adafruit.com/about)
 
