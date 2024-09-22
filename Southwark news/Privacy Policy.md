@@ -19,6 +19,14 @@
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![Joe Aspinall aged 85](https://southwarknews.co.uk/wp-content/uploads/2024/09/DSC_0616-360x180.jpg)](https://southwarknews.co.uk/area/bermondsey/the-record-breaking-85-year-old-bermondsey-runner/)
+    
+    ### [The record-breaking 85-year-old Bermondsey runner](https://southwarknews.co.uk/area/bermondsey/the-record-breaking-85-year-old-bermondsey-runner/)
+    
+    [![She was forced to sleep under this urine-smelling stairwell. Credit: Isabel Ramirez](https://southwarknews.co.uk/wp-content/uploads/2024/09/image-2-747x560-1-360x180.jpeg)](https://southwarknews.co.uk/area/rotherhithe/comment-disabled-tenant-sleeping-under-filthy-stairwell-fails-human-decency/)
+    
+    ### [Comment: Disabled tenant sleeping under filthy stairwell fails human decency](https://southwarknews.co.uk/area/rotherhithe/comment-disabled-tenant-sleeping-under-filthy-stairwell-fails-human-decency/)
+    
     [![South London artist, Cee, by her mural in Elephant and Castle 
     -Photos supplied](https://southwarknews.co.uk/wp-content/uploads/2024/09/Elepant-mural5-360x180.jpeg)](https://southwarknews.co.uk/area/elephant-and-castle/elephant-castles-new-mural-with-rich-latin-american-influence/)
     
@@ -47,14 +55,6 @@
     [![A still taken from footage of the incident. Image: Channel 4](https://southwarknews.co.uk/wp-content/uploads/2024/09/A-still-taken-from-footage-of-the-incident.-Image-Channel-4-360x180.png)](https://southwarknews.co.uk/area/around-south-east-london/policeman-who-pressed-taser-against-16-year-old-boys-neck-gets-final-warning/)
     
     ### [Policeman who ‘pressed Taser’ against 16-year-old boy’s neck gets ‘final warning’](https://southwarknews.co.uk/area/around-south-east-london/policeman-who-pressed-taser-against-16-year-old-boys-neck-gets-final-warning/)
-    
-    [![](https://southwarknews.co.uk/wp-content/uploads/2024/09/Pict-1-360x180.jpg)](https://southwarknews.co.uk/news/community/essential-information-for-those-starting-secondary-school-next-year/)
-    
-    ### [Essential information for those starting secondary school next year](https://southwarknews.co.uk/news/community/essential-information-for-those-starting-secondary-school-next-year/)
-    
-    [![Tesco Southwark Superstore. Image: Google](https://southwarknews.co.uk/wp-content/uploads/2024/09/Tesco-Southwark-Superstore.-Image-Google-360x180.png)](https://southwarknews.co.uk/area/bermondsey/tesco-southwark-superstore-hosting-volunteer-fair/)
-    
-    ### [Tesco Southwark Superstore hosting volunteer fair](https://southwarknews.co.uk/area/bermondsey/tesco-southwark-superstore-hosting-volunteer-fair/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [In depth history](https://southwarknews.co.uk/category/history/in-depth-history/)
@@ -100,6 +100,14 @@ View All Result
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![Joe Aspinall aged 85](https://southwarknews.co.uk/wp-content/uploads/2024/09/DSC_0616-360x180.jpg)](https://southwarknews.co.uk/area/bermondsey/the-record-breaking-85-year-old-bermondsey-runner/)
+    
+    ### [The record-breaking 85-year-old Bermondsey runner](https://southwarknews.co.uk/area/bermondsey/the-record-breaking-85-year-old-bermondsey-runner/)
+    
+    [![She was forced to sleep under this urine-smelling stairwell. Credit: Isabel Ramirez](https://southwarknews.co.uk/wp-content/uploads/2024/09/image-2-747x560-1-360x180.jpeg)](https://southwarknews.co.uk/area/rotherhithe/comment-disabled-tenant-sleeping-under-filthy-stairwell-fails-human-decency/)
+    
+    ### [Comment: Disabled tenant sleeping under filthy stairwell fails human decency](https://southwarknews.co.uk/area/rotherhithe/comment-disabled-tenant-sleeping-under-filthy-stairwell-fails-human-decency/)
+    
     [![South London artist, Cee, by her mural in Elephant and Castle 
     -Photos supplied](https://southwarknews.co.uk/wp-content/uploads/2024/09/Elepant-mural5-360x180.jpeg)](https://southwarknews.co.uk/area/elephant-and-castle/elephant-castles-new-mural-with-rich-latin-american-influence/)
     
@@ -128,14 +136,6 @@ View All Result
     [![A still taken from footage of the incident. Image: Channel 4](https://southwarknews.co.uk/wp-content/uploads/2024/09/A-still-taken-from-footage-of-the-incident.-Image-Channel-4-360x180.png)](https://southwarknews.co.uk/area/around-south-east-london/policeman-who-pressed-taser-against-16-year-old-boys-neck-gets-final-warning/)
     
     ### [Policeman who ‘pressed Taser’ against 16-year-old boy’s neck gets ‘final warning’](https://southwarknews.co.uk/area/around-south-east-london/policeman-who-pressed-taser-against-16-year-old-boys-neck-gets-final-warning/)
-    
-    [![](https://southwarknews.co.uk/wp-content/uploads/2024/09/Pict-1-360x180.jpg)](https://southwarknews.co.uk/news/community/essential-information-for-those-starting-secondary-school-next-year/)
-    
-    ### [Essential information for those starting secondary school next year](https://southwarknews.co.uk/news/community/essential-information-for-those-starting-secondary-school-next-year/)
-    
-    [![Tesco Southwark Superstore. Image: Google](https://southwarknews.co.uk/wp-content/uploads/2024/09/Tesco-Southwark-Superstore.-Image-Google-360x180.png)](https://southwarknews.co.uk/area/bermondsey/tesco-southwark-superstore-hosting-volunteer-fair/)
-    
-    ### [Tesco Southwark Superstore hosting volunteer fair](https://southwarknews.co.uk/area/bermondsey/tesco-southwark-superstore-hosting-volunteer-fair/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [In depth history](https://southwarknews.co.uk/category/history/in-depth-history/)
@@ -367,13 +367,25 @@ Website
 
 [16th September 2024](https://southwarknews.co.uk/sport/football/millwall/millwall-boss-gives-verdict-after-replacement-striker-inches-away-from-first-lions-goal/)
 
-[![Macaulay Langstaff for his new club against Portsmouth. Image: Millwall FC](https://southwarknews.co.uk/wp-content/uploads/2024/09/Langstaff-v-Portsmouth-120x86.jpeg)](https://southwarknews.co.uk/sport/football/millwall/millwall-striker-fully-confident-of-getting-off-the-mark-for-new-club/)
+[![Scanlon against Luton. Image: Millwall FC](https://southwarknews.co.uk/wp-content/uploads/2024/09/Scanlon-Luton-1-120x86.jpeg)](https://southwarknews.co.uk/sport/football/millwall/harris-confirms-millwall-loan-signing-injury-with-player-returning-to-parent-club/)
 
-### [Millwall striker ‘fully confident’ of getting off the mark for new club](https://southwarknews.co.uk/sport/football/millwall/millwall-striker-fully-confident-of-getting-off-the-mark-for-new-club/)
+### [Harris confirms Millwall loan signing injury with player returning to parent club](https://southwarknews.co.uk/sport/football/millwall/harris-confirms-millwall-loan-signing-injury-with-player-returning-to-parent-club/)
 
-[19th September 2024](https://southwarknews.co.uk/sport/football/millwall/millwall-striker-fully-confident-of-getting-off-the-mark-for-new-club/)
+[21st September 2024](https://southwarknews.co.uk/sport/football/millwall/harris-confirms-millwall-loan-signing-injury-with-player-returning-to-parent-club/)
 
 ### Featured Articles
+
+[![Joe Aspinall aged 85](https://southwarknews.co.uk/wp-content/uploads/2024/09/DSC_0616-120x86.jpg)](https://southwarknews.co.uk/area/bermondsey/the-record-breaking-85-year-old-bermondsey-runner/)
+
+### [The record-breaking 85-year-old Bermondsey runner](https://southwarknews.co.uk/area/bermondsey/the-record-breaking-85-year-old-bermondsey-runner/)
+
+[22nd September 2024](https://southwarknews.co.uk/area/bermondsey/the-record-breaking-85-year-old-bermondsey-runner/)
+
+[![Jackie Power](https://southwarknews.co.uk/wp-content/uploads/2022/01/MG_4571-copy-e1606322639364.jpg)](https://southwarknews.co.uk/area/london/everything-in-the-garden-is-coming-slowly-to-a-halt-as-the-light-levels-dwindle/)
+
+### [Everything in the garden is coming slowly to a halt as the light levels dwindle](https://southwarknews.co.uk/area/london/everything-in-the-garden-is-coming-slowly-to-a-halt-as-the-light-levels-dwindle/)
+
+[22nd September 2024](https://southwarknews.co.uk/area/london/everything-in-the-garden-is-coming-slowly-to-a-halt-as-the-light-levels-dwindle/)
 
 [![South London artist, Cee, by her mural in Elephant and Castle 
 -Photos supplied](https://southwarknews.co.uk/wp-content/uploads/2024/09/Elepant-mural5-120x86.jpeg)](https://southwarknews.co.uk/area/elephant-and-castle/elephant-castles-new-mural-with-rich-latin-american-influence/)
@@ -399,18 +411,6 @@ Website
 ### [Southwark Council denies mishandling complaints from leaseholders lumped with £2,500 heating bills](https://southwarknews.co.uk/area/southwark/southwark-council-denies-mishandling-complaints-from-leaseholders-lumped-with-2500-heating-bills/)
 
 [21st September 2024](https://southwarknews.co.uk/area/southwark/southwark-council-denies-mishandling-complaints-from-leaseholders-lumped-with-2500-heating-bills/)
-
-[![The Great Boat Race is on September 21 (Thames Festival Trust)](https://southwarknews.co.uk/wp-content/uploads/2024/09/Image-22-07-2024-at-09.32-120x86.jpg)](https://southwarknews.co.uk/news/community/great-river-race-to-hit-the-thames-this-saturday-with-300-boats-to-compete/)
-
-### [Great River race to hit the Thames this Saturday with 300 boats to compete](https://southwarknews.co.uk/news/community/great-river-race-to-hit-the-thames-this-saturday-with-300-boats-to-compete/)
-
-[21st September 2024](https://southwarknews.co.uk/news/community/great-river-race-to-hit-the-thames-this-saturday-with-300-boats-to-compete/)
-
-[![](https://southwarknews.co.uk/wp-content/uploads/2024/09/Pict-1-120x86.jpg)](https://southwarknews.co.uk/news/community/essential-information-for-those-starting-secondary-school-next-year/)
-
-### [Essential information for those starting secondary school next year](https://southwarknews.co.uk/news/community/essential-information-for-those-starting-secondary-school-next-year/)
-
-[20th September 2024](https://southwarknews.co.uk/news/community/essential-information-for-those-starting-secondary-school-next-year/)
 
 ### USEFUL PAGES
 
