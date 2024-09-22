@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/hoofdartikelen/wat-poetst-nasa-weg-in-de-zeeman-krater/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/gezondheid/corona-kwestie/mega-corona-flater-hugo-de-jonge-hcq-werkt-wel/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
