@@ -66,7 +66,9 @@ Any e-mail addresses are not used or collected for any purpose other than notify
 
 ### Look at this!
 
-[![Direct Contributions from the Koch Network to State and Federal Candidates, by Party Affiliation, 2010-2016](/assets/Images/teasers/small/Koch-by-party.JPG)](https://www.followthemoney.org/research/blog/a-koch-fueled-blue-wave-not-likely)
+[![DualAdvantage](/assets/logos/DuelAdvantage.png)](http://www.followthemoney.org/research/institute-research/the-role-of-money-and-incumbency-in-2007-2008-state-elections)
+
+Check out the power of a dual advantage.
 
   [See More Visualizations](https://www.followthemoney.org/look-at-this)
 
