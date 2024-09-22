@@ -124,6 +124,6 @@ If you have questions about (or suggestions for!) this policy, please [contact u
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-I intend on using your services again. I was pleased and had a good experience with FoxyProxy.
+Thanks again for the amazing support and I really appreciate the help in resolving this issue so quickly. I will be sure to inform my bosses about the great customer support provided.
 
-Dana Bush
+Jack Morrow
