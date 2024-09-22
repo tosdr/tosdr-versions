@@ -341,4 +341,4 @@ Important Information
 
 By using this site, you agree to our [Terms of Use](https://forums.poscon.net/terms/), [Privacy Policy](https://forums.poscon.net/privacy/), and [Guidelines](https://forums.poscon.net/guidelines/).
 
-  [I accept](https://forums.poscon.net/index.php?app=core&module=system&controller=terms&do=dismiss&ref=aHR0cHM6Ly9mb3J1bXMucG9zY29uLm5ldC9wcml2YWN5Lw==&csrfKey=53c4c401b66bcf4e0c6e17c7a1256a35)
+  [I accept](https://forums.poscon.net/index.php?app=core&module=system&controller=terms&do=dismiss&ref=aHR0cHM6Ly9mb3J1bXMucG9zY29uLm5ldC9wcml2YWN5Lw==&csrfKey=840d868e7b3af3ec30988f726860cc02)
