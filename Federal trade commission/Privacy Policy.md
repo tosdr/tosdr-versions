@@ -226,7 +226,7 @@ Main Menu Mega
     
     [Press Release](https://www.ftc.gov/news-events/news/press-releases)
     
-    ### [FTC Sues Prescription Drug Middlemen for Artificially Inflating Insulin Drug Prices](https://www.ftc.gov/news-events/news/press-releases/2024/09/ftc-sues-prescription-drug-middlemen-artificially-inflating-insulin-drug-prices)
+    ### [FTC Presents Criminal Liaison Unit Award to USPIS Postal Inspector Kathy Broderick](https://www.ftc.gov/news-events/news/press-releases/2024/09/ftc-presents-criminal-liaison-unit-award-uspis-postal-inspector-kathy-broderick)
     
     September 20, 2024
     
