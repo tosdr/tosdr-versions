@@ -36,6 +36,9 @@
         
         Tor says it’s "still safe" amid reports of police deanonymizing users](https://www.bleepingcomputer.com/news/security/tor-says-its-still-safe-amid-reports-of-police-deanonymizing-users/)
     
+    * [![Get started in ethical hacking with this $45 online course bundle](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        Get started in ethical hacking with this $45 online course bundle](https://www.bleepingcomputer.com/offer/deals/get-started-in-ethical-hacking-with-this-45-online-course-bundle/)
     * [![Global infostealer malware operation targets crypto users, gamers](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         Global infostealer malware operation targets crypto users, gamers](https://www.bleepingcomputer.com/news/security/global-infostealer-malware-operation-targets-crypto-users-gamers/)
@@ -45,9 +48,6 @@
     * [![Microsoft ends development of Windows Server Update Services (WSUS)](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         Microsoft ends development of Windows Server Update Services (WSUS)](https://www.bleepingcomputer.com/news/microsoft/microsoft-officially-deprecates-windows-server-update-services-wsus/)
-    * [![Windows Server 2025 previews security updates without restarts](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        Windows Server 2025 previews security updates without restarts](https://www.bleepingcomputer.com/news/microsoft/windows-server-2025-hotpatching-in-public-preview-installs-security-updates-without-restarts/)
     
 * [Tutorials](https://www.bleepingcomputer.com/tutorials/)
     
