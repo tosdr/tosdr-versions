@@ -1,16 +1,16 @@
 Type keyword here 
 
-* [INTEL.gov](https://www.intelligence.gov/)
-* [Information](https://www.intelligence.gov/information)
+* [INTEL.gov](https://www.intel.gov/)
+* [Information](https://www.intel.gov/information)
 
 * Website Policies
 
 [](https://twitter.com/inteldotgov)[](https://twitter.com/inteldotgov)
 
-* [INTEL.gov](https://www.intelligence.gov/)
+* [INTEL.gov](https://www.intel.gov/)
 
-* [Home](https://www.intelligence.gov/)
-    -------------------------------------
+* [Home](https://www.intel.gov/)
+    ------------------------------
     
 * [Mission](https://www.intelligence.gov/mission)
     -----------------------------------------------
