@@ -242,6 +242,26 @@ We have included on the pages of this website a robots meta tag with the “noai
 
 This privacy policy was created in party by using [Termly’s Privacy Policy Generator](https://termly.io/products/privacy-policy-generator/?ftseo).
 
+[![](https://cwbchicago.com/wp-content/uploads/2024/09/Jose-Rios-326x245.jpg)](https://cwbchicago.com/2024/09/suburban-man-picked-random-driver-to-carjack-under-a-chicago-police-surveillance-camera-officials-say.html "Suburban man picked random driver to carjack under a Chicago police surveillance camera, officials say")
+
+Chicago Lawn
+
+### [Suburban man picked random driver to carjack under a Chicago police surveillance camera, officials say](https://cwbchicago.com/2024/09/suburban-man-picked-random-driver-to-carjack-under-a-chicago-police-surveillance-camera-officials-say.html "Suburban man picked random driver to carjack under a Chicago police surveillance camera, officials say")
+
+[September 20, 2024 7:06 PM](https://cwbchicago.com/2024/09)
+
+Officials say a Bolingbrook man and an unknown accomplice followed and carjacked a random driver in Chicago Lawn earlier this year.[](https://cwbchicago.com/2024/09/suburban-man-picked-random-driver-to-carjack-under-a-chicago-police-surveillance-camera-officials-say.html "Suburban man picked random driver to carjack under a Chicago police surveillance camera, officials say")
+
+[![](https://cwbchicago.com/wp-content/uploads/2023/09/Leonard-Spears-326x245.jpg)](https://cwbchicago.com/2024/09/3rd-man-pleads-guilty-to-46000-prada-store-heist.html "3rd man pleads guilty to $46,000 Prada store heist")
+
+Magnificent Mile
+
+### [3rd man pleads guilty to $46,000 Prada store heist](https://cwbchicago.com/2024/09/3rd-man-pleads-guilty-to-46000-prada-store-heist.html "3rd man pleads guilty to $46,000 Prada store heist")
+
+[September 20, 2024 6:14 PM](https://cwbchicago.com/2024/09)
+
+A third man has pleaded guilty to participating in a bold daytime robbery at the Prada store in downtown Chicago in January 2022.[](https://cwbchicago.com/2024/09/3rd-man-pleads-guilty-to-46000-prada-store-heist.html "3rd man pleads guilty to $46,000 Prada store heist")
+
 [![](https://cwbchicago.com/wp-content/uploads/2024/09/From-left-Jose-Amaya-Boliva-Nathan-Hicks-Johnson-Ricardo-Rodriguez-and-Cortez-Wright.-Chicago-Police-Department-326x245.jpg)](https://cwbchicago.com/2024/09/2-parolees-and-a-migrant-among-the-latest-charged-with-gun-violations-after-cops-respond-to-shotspotter-alerts.html "2 parolees and a migrant among the latest charged with gun violations after cops respond to ShotSpotter alerts")
 
 Citywide
@@ -251,26 +271,6 @@ Citywide
 [September 20, 2024 1:12 PM](https://cwbchicago.com/2024/09)
 
 Two parolees and a migrant are among the latest people to face felony gun charges thanks to the city’s ShotSpotter gunfire detection system. In the past week, ShotSpotter has led to the arrest of at least seven people for illegal gun possession.[](https://cwbchicago.com/2024/09/2-parolees-and-a-migrant-among-the-latest-charged-with-gun-violations-after-cops-respond-to-shotspotter-alerts.html "2 parolees and a migrant among the latest charged with gun violations after cops respond to ShotSpotter alerts")
-
-[![](https://cwbchicago.com/wp-content/uploads/2024/09/300-east-randolph-chicago-sv-edited-326x245.jpg)](https://cwbchicago.com/2024/09/boy-believed-to-be-14-arrested-after-man-is-beaten-carjacked-near-millennium-park.html "Boy, 14, charged beating and carjacking man near Millennium Park")
-
-Loop
-
-### [Boy, 14, charged beating and carjacking man near Millennium Park](https://cwbchicago.com/2024/09/boy-believed-to-be-14-arrested-after-man-is-beaten-carjacked-near-millennium-park.html "Boy, 14, charged beating and carjacking man near Millennium Park")
-
-[September 20, 2024 8:49 AM](https://cwbchicago.com/2024/09)
-
-A male who claimed to be a 14 year old is expected to be charged with beating and carjacking a man near Millennium Park overnight, according to preliminary information from a law enforcement source.[](https://cwbchicago.com/2024/09/boy-believed-to-be-14-arrested-after-man-is-beaten-carjacked-near-millennium-park.html "Boy, 14, charged beating and carjacking man near Millennium Park")
-
-[![](https://cwbchicago.com/wp-content/uploads/2024/09/Guns-seized-326x245.jpg)](https://cwbchicago.com/2024/09/update-62-arrests-confirmed-during-mexican-independence-day-festivities-across-chicago-19-for-gun-possession.html "Update: 62 arrests confirmed during Mexican Independence Day festivities across Chicago, 19 for gun possession")
-
-Citywide
-
-### [Update: 62 arrests confirmed during Mexican Independence Day festivities across Chicago, 19 for gun possession](https://cwbchicago.com/2024/09/update-62-arrests-confirmed-during-mexican-independence-day-festivities-across-chicago-19-for-gun-possession.html "Update: 62 arrests confirmed during Mexican Independence Day festivities across Chicago, 19 for gun possession")
-
-[September 20, 2024 8:25 AM](https://cwbchicago.com/2024/09)
-
-CWBChicago has now confirmed 62 arrests made in connection with last weekend’s citywide celebration of Mexican Independence Day, including 19 arrests for illegal gun possession.[](https://cwbchicago.com/2024/09/update-62-arrests-confirmed-during-mexican-independence-day-festivities-across-chicago-19-for-gun-possession.html "Update: 62 arrests confirmed during Mexican Independence Day festivities across Chicago, 19 for gun possession")
 
 Search
 
