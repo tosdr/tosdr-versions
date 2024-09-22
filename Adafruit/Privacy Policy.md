@@ -404,9 +404,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ Achieving a goal provides immediate satisfaction; the process of achieving a goal is a lasting pleasure”
+“ There’s nothing like watching the sunrise to the beats of the Robot Heart”
 
-[Evelyn Berezin](https://computerhistory.org/profile/evelyn-berezin/)
+[Andrew "bunnie" Huang](http://en.wikipedia.org/wiki/Andrew_Huang)
 
 [](https://www.adafruit.com/about)
 
