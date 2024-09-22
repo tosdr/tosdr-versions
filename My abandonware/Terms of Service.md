@@ -85,20 +85,20 @@ Top downloads
 
 Latest releases
 
-* [TGV: Train Sim Pack](https://www.myabandonware.com/game/tgv-train-sim-pack-rzw)
-* [Microsoft Train Simulator: Paint Shed](https://www.myabandonware.com/game/microsoft-train-simulator-paint-shed-rzu)
-* [Train Sim Activity Pack](https://www.myabandonware.com/game/train-sim-activity-pack-rzt)
-* [Euro Loco](https://www.myabandonware.com/game/euro-loco-rzs)
-* [101 Kid's Brainy Games](https://www.myabandonware.com/game/101-kid-s-brainy-games-rzr)
+* [Jurassic Park](https://www.myabandonware.com/game/jurassic-park-sg4)
+* [Magical Spot](https://www.myabandonware.com/game/magical-spot-sg3)
+* [Judge Dredd](https://www.myabandonware.com/game/judge-dredd-sg2)
+* [Magical Night Dreams: Cotton 2](https://www.myabandonware.com/game/magical-night-dreams-cotton-2-nfx)
+* [Magical Night Dreams: Cotton Boomerang](https://www.myabandonware.com/game/magical-night-dreams-cotton-boomerang-n8d)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [Facebook](https://www.facebook.com/myabandonware) or [X (Twitter)](https://x.com/myabandonware)
 
 Screenshots needed
 
-* [4 Top Games](https://www.myabandonware.com/game/4-top-games-knr)
-* [The Perfect General: Greatest Battles of the 20th Century](https://www.myabandonware.com/game/the-perfect-general-greatest-battles-of-the-20th-century-3dv)
-* [Holiday Racer](https://www.myabandonware.com/game/holiday-racer-ckg)
+* [Madeline: Classroom Companion - 1st & 2nd Grade Reading](https://www.myabandonware.com/game/madeline-classroom-companion-1st-2nd-grade-reading-ksu)
+* [Disney's The Emperor's New Groove: Groove Center](https://www.myabandonware.com/game/disney-s-the-emperor-s-new-groove-groove-center-3j2)
+* [A Stellar Trek](https://www.myabandonware.com/game/a-stellar-trek-nxa)
 
 Read our [screenshot tutorial](https://www.myabandonware.com/screenshots/)
 
