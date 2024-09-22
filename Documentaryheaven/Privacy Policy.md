@@ -128,39 +128,39 @@ Advertisement
     The Beginning and the End of the Universe
     
     Episode 1: The BeginingEmbarking on a cosmic journey, Professor Jim Al-Khalili transports us through the corridors of time to confront science's most profound inquiry: the genesis of the univers...](https://documentaryheaven.com/the-beginning-and-the-end-of-the-universe/ "The Beginning and the End of the Universe")
-* [![The War On Drugs: The Prison Industrial Complex](/wp-content/thumbnails/958-100x70.gif?x53432)
+* [![EP 4/6 The Private Life of Plants](/wp-content/thumbnails/2493-100x70.jpg?x53432)
     
-    The War On Drugs: The Prison Industrial Complex
+    EP 4/6 The Private Life of Plants
     
-    The war on drugs has been going on for more than three decades. Today, nearly 500,000 Americans are imprisoned on drug charges. In 1980 the number was 50,000. Last year $40 billion in taxpayer dollars...](https://documentaryheaven.com/the-war-on-drugs-the-prison-industrial-complex/ "The War On Drugs: The Prison Industrial Complex")
+    Broadcast 26 January 1995, this episode examines how plants either share environments harmoniously or compete for dominance within them. Attenborough highlights the 1987 hurricane and the devastation ...](https://documentaryheaven.com/the-private-life-of-plants-4/ "EP 4/6 The Private Life of Plants")
 
 ###### Throwback Documentaries
 
-* [![Kill at Will? America on Trial](/wp-content/thumbnails/7170-100x70.jpg?x53432)
+* [![Chiraq](/wp-content/thumbnails/8576-100x70.png?x53432)
     
-    Kill at Will? America on Trial
+    Chiraq
     
-    Ahead of America’s costliest ever elections, this documentary investigates how powerful lobby groups helped create laws blamed for some of the most controversial killings in recent US history.The](https://documentaryheaven.com/kill-at-will-america-on-trial/ "Kill at Will? America on Trial")
-* [![The Notorious B.I.G.: Bigger Than Life](/wp-content/thumbnails/6337-100x70.jpg?x53432)
+    This is an eight part documentary by Vice's music devision, Noisey. They venture to Englewood which is one of the sketchiest areas in Chicago city and hook up with Chief Keef, a famous rapper in the H](https://documentaryheaven.com/chiraq/ "Chiraq")
+* [![Thatcher: Ireland And The Iron Lady](/wp-content/thumbnails/11858-100x70.jpg?x53432)
     
-    The Notorious B.I.G.: Bigger Than Life
+    Thatcher: Ireland And The Iron Lady
     
-    The Notorious B.I.G. is no doubt on every Hip-Hop fan’s short list of the greatest rappers of all time. Most importantly, B.I.G. was respected and revered by his peers in the game.Everyone from Jay](https://documentaryheaven.com/the-notorious-b-i-g-bigger-than-life/ "The Notorious B.I.G.: Bigger Than Life")
-* [![The KKK vs. the Crips vs. Memphis City Council](/wp-content/thumbnails/7202-100x70.png?x53432)
+    During 11 years in power Margaret Thatcher polarised and inspired in equal measure, not only in Britain but also around the world. She helped end the Cold War and was victorious in the Falklands,](https://documentaryheaven.com/thatcher-ireland-iron-lady/ "Thatcher: Ireland And The Iron Lady")
+* [![PT 5/6 Evidence of Revision: The RFK Assassination Continued, MK ULTRA and the Jonestown Massacre](/wp-content/thumbnails/2985-100x70.jpg?x53432)
     
-    The KKK vs. the Crips vs. Memphis City Council
+    PT 5/6 Evidence of Revision: The RFK Assassination Continued, MK ULTRA and the Jonestown Massacre
     
-    In Memphis’s Forrest Park, there’s a statue of Nathan Bedford Forrest, one of the most infamous and powerful racists in American history. Lately it’s been at the center of the city’s often shaky race](https://documentaryheaven.com/the-kkk-vs-the-crips-vs-memphis-city-council/ "The KKK vs. the Crips vs. Memphis City Council")
-* [![Pirate Radio](/wp-content/thumbnails/6392-100x70.jpg?x53432)
+    Evidence of Revision is a 6-DVD, 8 hour long documentary series whose purpose is to present the publicly unavailable and even suppressed historical audio, video, and film recordings largely unseen by](https://documentaryheaven.com/pt-56-evidence-of-revision-the-rfk-assassination-continued-mk-ultra-and-the-jonestown-massacre/ "PT 5/6 Evidence of Revision: The RFK Assassination Continued, MK ULTRA and the Jonestown Massacre")
+* [![Rihanna: Road To Talk That Talk](/wp-content/thumbnails/7669-100x70.jpg?x53432)
     
-    Pirate Radio
+    Rihanna: Road To Talk That Talk
     
-    This is a short 16 minute documentary from Vice exploring London’s original and current illegal underground radio scenes.](https://documentaryheaven.com/pirate-radio/ "Pirate Radio")
-* [![Oceans](/wp-content/thumbnails/2711-100x70.jpg?x53432)
+    Rihanna takes us back back stage as she begins the journey into her latest album ‘Talk That Talk’. The video also takes us back stage on the last day of the LOUD Tour. Whilst visiting her native count](https://documentaryheaven.com/rihanna-road-to-talk-that-talk/ "Rihanna: Road To Talk That Talk")
+* [![The Alaska Pipeline](/wp-content/thumbnails/4914-100x70.jpg?x53432)
     
-    Oceans
+    The Alaska Pipeline
     
-    What lies below the frozen Arctic ice-sheets? Or in the black holes under the Caribbean Sea? The oceans are Earth’s single most important feature. They shape our climate, our culture, our future. Yet](https://documentaryheaven.com/oceans/ "Oceans")
+    When Atlantic Richfield prospectors struck oil at Prudhoe Bay early in 1968, they stumbled upon the largest oil field ever discovered in North America. Getting that oil out of Alaska would take nine y](https://documentaryheaven.com/the-alaska-pipeline/ "The Alaska Pipeline")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
