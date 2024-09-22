@@ -288,9 +288,9 @@ Footer Menu
         * [Snow Atlas](https://www.flexera.com/products/snow-atlas)
         * [Security](https://www.flexera.com/products/security)
         * [Application Readiness](https://www.flexera.com/products/adminstudio)
-        * [Integrations](https://www.flexera.com/products/integrations)
         * [All products](https://www.flexera.com/products)
         * [All Snow products](https://www.flexera.com/products/snow)
+        * [Integrations](https://www.flexera.com/products/integrations)
 * Column
     * Company
         * [About](https://www.flexera.com/about-us)
