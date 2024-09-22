@@ -118,61 +118,63 @@ This policy is effective as of 29 June 2021.
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Support even on Sundays!
-> ------------------------
+> Impossible to run our businesses without IO
+> -------------------------------------------
 > 
-> Thanks Adriaan...
-> 
-> You guys even work on Sundays?
-> 
-> I’m impressed!!
+> IO is an integral part of our day to day business. It allows me complete control and overview functionality, while still enabling franchise owners to run their various franchises without interruption.  
+>   
+> At Storietyd.co.za - a bookclub for Afrikaans children, with thousands of members - all our billing is automated, automated invoices, automated debit orders, automated payment allocation, and so forth. Administration would be an absolute nightmare without IO.  
+>   
+> We are suppliers of bulk educational products to schools, our reps in the field use IO for quotes, invoicing and managing debtors, directly from their smartphones / tablets.  
+>   
+> We are extremely satisfied with Invoices Online, and would certainly recommend that you try it out.
 
-Johan Botha - Brand Xplosion
+Kobus Venter
 
-![valued client Adele Jordaan T/A Joyful Noise Music Room](https://www.invoicesonline.co.za/scripts/image.php?bid=7958&file=logo_300_100&type=&fe=0d60cf5e3caac7724732920d14435a7be1eac15e642a3986239d98bff424ba4d&c=138747793)  
-Adele Jordaan T/A Joyful Noise Music Room
+![valued client Depot Diesel (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6813&file=logo_300_100&type=&fe=6c01a02bdf3950ff6b5d0afaedd286e8df38ce2e1d9859d6cc3dbec14af08911&c=135134035)  
+Depot Diesel (Pty) Ltd
 
-![valued client GF CASTELYN Trading as ELECTROPRINT ARMATURE REWINDERS](https://www.invoicesonline.co.za/scripts/image.php?bid=3194&file=logo_300_100&type=&fe=0d60cf5e3caac7724732920d14435a7be1eac15e642a3986239d98bff424ba4d&c=191887195)  
-GF CASTELYN Trading as ELECTROPRINT ARMATURE REWINDERS
+![valued client MONSTER SECURITY SERVICES (THABAZIMBI/NORTHAM)](https://www.invoicesonline.co.za/scripts/image.php?bid=5626&file=logo_300_100&type=&fe=6c01a02bdf3950ff6b5d0afaedd286e8df38ce2e1d9859d6cc3dbec14af08911&c=153938754)  
+MONSTER SECURITY SERVICES (THABAZIMBI/NORTHAM)
 
-![valued client Nogana Events and Decor](https://www.invoicesonline.co.za/scripts/image.php?bid=3755&file=logo_300_100&type=&fe=0d60cf5e3caac7724732920d14435a7be1eac15e642a3986239d98bff424ba4d&c=141048509)  
-Nogana Events and Decor
+![valued client Website Café (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=4081&file=logo_300_100&type=&fe=6c01a02bdf3950ff6b5d0afaedd286e8df38ce2e1d9859d6cc3dbec14af08911&c=56265521)  
+Website Café (PTY) LTD
 
-![valued client Sonic Electrical Services PTY Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6803&file=logo_300_100&type=&fe=0d60cf5e3caac7724732920d14435a7be1eac15e642a3986239d98bff424ba4d&c=212851301)  
-Sonic Electrical Services PTY Ltd
+![valued client Quad Biking Cape Town](https://www.invoicesonline.co.za/scripts/image.php?bid=7985&file=logo_300_100&type=&fe=6c01a02bdf3950ff6b5d0afaedd286e8df38ce2e1d9859d6cc3dbec14af08911&c=163572716)  
+Quad Biking Cape Town
 
-![valued client Environment Friendly Toilets (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=2934&file=logo_300_100&type=&fe=0d60cf5e3caac7724732920d14435a7be1eac15e642a3986239d98bff424ba4d&c=110884107)  
-Environment Friendly Toilets (Pty) Ltd
+![valued client Forgotten Goods (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8623&file=logo_300_100&type=&fe=6c01a02bdf3950ff6b5d0afaedd286e8df38ce2e1d9859d6cc3dbec14af08911&c=153652514)  
+Forgotten Goods (Pty) Ltd
 
-![valued client NIMAWELL  ](https://www.invoicesonline.co.za/scripts/image.php?bid=6419&file=logo_300_100&type=&fe=0d60cf5e3caac7724732920d14435a7be1eac15e642a3986239d98bff424ba4d&c=103343631)  
-NIMAWELL
+![valued client Little Nutty Professors](https://www.invoicesonline.co.za/scripts/image.php?bid=4826&file=logo_300_100&type=&fe=6c01a02bdf3950ff6b5d0afaedd286e8df38ce2e1d9859d6cc3dbec14af08911&c=149388343)  
+Little Nutty Professors
 
-![valued client Know Informatics](https://www.invoicesonline.co.za/scripts/image.php?bid=6598&file=logo_300_100&type=&fe=0d60cf5e3caac7724732920d14435a7be1eac15e642a3986239d98bff424ba4d&c=151265434)  
-Know Informatics
+![valued client LEO DEVELOPMENT GROUP](https://www.invoicesonline.co.za/scripts/image.php?bid=7896&file=logo_300_100&type=&fe=6c01a02bdf3950ff6b5d0afaedd286e8df38ce2e1d9859d6cc3dbec14af08911&c=74822376)  
+LEO DEVELOPMENT GROUP
 
-![valued client Baby Toddles Infant Care](https://www.invoicesonline.co.za/scripts/image.php?bid=343&file=logo_300_100&type=&fe=0d60cf5e3caac7724732920d14435a7be1eac15e642a3986239d98bff424ba4d&c=166015594)  
-Baby Toddles Infant Care
+![valued client OrgChart Hosting Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=658&file=logo_300_100&type=&fe=6c01a02bdf3950ff6b5d0afaedd286e8df38ce2e1d9859d6cc3dbec14af08911&c=28866244)  
+OrgChart Hosting Pty Ltd
 
-![valued client Mountain Lion Properties](https://www.invoicesonline.co.za/scripts/image.php?bid=4949&file=logo_300_100&type=&fe=0d60cf5e3caac7724732920d14435a7be1eac15e642a3986239d98bff424ba4d&c=52029487)  
-Mountain Lion Properties
+![valued client Chiron Medical Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=6720&file=logo_300_100&type=&fe=6c01a02bdf3950ff6b5d0afaedd286e8df38ce2e1d9859d6cc3dbec14af08911&c=166970557)  
+Chiron Medical Solutions
 
-![valued client AquariumSmiths](https://www.invoicesonline.co.za/scripts/image.php?bid=7183&file=logo_300_100&type=&fe=0d60cf5e3caac7724732920d14435a7be1eac15e642a3986239d98bff424ba4d&c=45793964)  
-AquariumSmiths
+![valued client Imvubu General Trading](https://www.invoicesonline.co.za/scripts/image.php?bid=299&file=logo_300_100&type=&fe=6c01a02bdf3950ff6b5d0afaedd286e8df38ce2e1d9859d6cc3dbec14af08911&c=89131427)  
+Imvubu General Trading
 
-![valued client Karino Merinos ( PTY ) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2349&file=logo_300_100&type=&fe=0d60cf5e3caac7724732920d14435a7be1eac15e642a3986239d98bff424ba4d&c=112368181)  
-Karino Merinos ( PTY ) LTD
+![valued client Sportspro Management (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8223&file=logo_300_100&type=&fe=6c01a02bdf3950ff6b5d0afaedd286e8df38ce2e1d9859d6cc3dbec14af08911&c=149559756)  
+Sportspro Management (Pty) Ltd
 
-![valued client Bloem Rugby Academy PTY (Ltd)](https://www.invoicesonline.co.za/scripts/image.php?bid=6451&file=logo_300_100&type=&fe=0d60cf5e3caac7724732920d14435a7be1eac15e642a3986239d98bff424ba4d&c=77353043)  
-Bloem Rugby Academy PTY (Ltd)
+![valued client Prosper Park](https://www.invoicesonline.co.za/scripts/image.php?bid=8286&file=logo_300_100&type=&fe=6c01a02bdf3950ff6b5d0afaedd286e8df38ce2e1d9859d6cc3dbec14af08911&c=161795349)  
+Prosper Park
 
-![valued client Tiny Cuddles Photography](https://www.invoicesonline.co.za/scripts/image.php?bid=5167&file=logo_300_100&type=&fe=0d60cf5e3caac7724732920d14435a7be1eac15e642a3986239d98bff424ba4d&c=42789072)  
-Tiny Cuddles Photography
+![valued client MONSTER SECURITY SERVICES](https://www.invoicesonline.co.za/scripts/image.php?bid=5438&file=logo_300_100&type=&fe=6c01a02bdf3950ff6b5d0afaedd286e8df38ce2e1d9859d6cc3dbec14af08911&c=36117591)  
+MONSTER SECURITY SERVICES
 
-![valued client United Paintball Federation](https://www.invoicesonline.co.za/scripts/image.php?bid=7016&file=logo_300_100&type=&fe=0d60cf5e3caac7724732920d14435a7be1eac15e642a3986239d98bff424ba4d&c=51784093)  
-United Paintball Federation
+![valued client PROGRAPHIX PTY LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8509&file=logo_300_100&type=&fe=6c01a02bdf3950ff6b5d0afaedd286e8df38ce2e1d9859d6cc3dbec14af08911&c=8713256)  
+PROGRAPHIX PTY LTD
 
-![valued client Lion Software Develepment](https://www.invoicesonline.co.za/scripts/image.php?bid=7097&file=logo_300_100&type=&fe=0d60cf5e3caac7724732920d14435a7be1eac15e642a3986239d98bff424ba4d&c=16070241)  
-Lion Software Develepment
+![valued client Kara Medical (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=3913&file=logo_300_100&type=&fe=6c01a02bdf3950ff6b5d0afaedd286e8df38ce2e1d9859d6cc3dbec14af08911&c=195325253)  
+Kara Medical (Pty) Ltd
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
