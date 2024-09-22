@@ -400,6 +400,24 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
+ [![Dallas Cowboys-Baltimore Ravens: How to watch, stream, things to look for in Week 3](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/GettyImages-2172417392.jpg?ve=1&tl=1)
+
+ ![Dallas Cowboys-Baltimore Ravens: How to watch, stream, things to look for in Week 3](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/592/333/GettyImages-2172417392.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/sports/dallas-cowboys-baltimore-ravens-how-to-watch-stream-predictions)
+
+### [Dallas Cowboys-Baltimore Ravens: How to watch, stream, things to look for in Week 3](https://www.fox4news.com/sports/dallas-cowboys-baltimore-ravens-how-to-watch-stream-predictions)
+
+ [![Birmingham mass shooting: 4 dead, 18 injured in entertainment district crossfire](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/alabamashooting.jpg?ve=1&tl=1)
+
+ ![Birmingham mass shooting: 4 dead, 18 injured in entertainment district crossfire](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/592/333/alabamashooting.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/birmingham-alabama-shooting)
+
+### [Birmingham mass shooting: 4 dead, 18 injured in entertainment district crossfire](https://www.fox4news.com/news/birmingham-alabama-shooting)
+
+ [![1st day of fall 2024: What is the autumnal equinox and when is it?](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/GettyImages-2170927749.jpg?ve=1&tl=1)
+
+ ![1st day of fall 2024: What is the autumnal equinox and when is it?](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/592/333/GettyImages-2170927749.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/1st-day-fall-2024-what-is-autumnal-equinox-when-is-it)
+
+### [1st day of fall 2024: What is the autumnal equinox and when is it?](https://www.fox4news.com/news/1st-day-fall-2024-what-is-autumnal-equinox-when-is-it)
+
  [![Report details the lesser known link between alcohol and cancer risk](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/GettyImages-467650191.jpg?ve=1&tl=1)
 
  ![Report details the lesser known link between alcohol and cancer risk](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/592/333/GettyImages-467650191.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/cancer-deaths-decline-alcohol-risk-factor)
@@ -411,24 +429,6 @@ Please note that, in some instances, we may decline to honor your request where,
  ![SMU gets 4 TDs from Smith and three more with offense watching, beats TCU 66-42 after Dykes ejected](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/592/333/GettyImages-2173622105.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/sports/smu-gets-4-tds-from-smith-three-more-offense-watching-beats-tcu-66-42-after-dykes-ejected)
 
 ### [SMU gets 4 TDs from Smith and three more with offense watching, beats TCU 66-42 after Dykes ejected](https://www.fox4news.com/sports/smu-gets-4-tds-from-smith-three-more-offense-watching-beats-tcu-66-42-after-dykes-ejected)
-
- [![Cards Against Humanity sues Elon Musk’s SpaceX over alleged trespassing in Texas](https://images.foxtv.com/static.fox7austin.com/www.fox7austin.com/content/uploads/2024/09/32/18/Untitled.jpeg?ve=1&tl=1)
-
- ![Cards Against Humanity sues Elon Musk’s SpaceX over alleged trespassing in Texas](https://images.foxtv.com/images.foxtv.com/static.fox7austin.com/www.fox7austin.com/content/uploads/2024/09/32/18/592/333/Untitled.jpeg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/cards-against-humanity-lawsuit-elon-musk-spacex-texas)
-
-### [Cards Against Humanity sues Elon Musk’s SpaceX over alleged trespassing in Texas](https://www.fox4news.com/news/cards-against-humanity-lawsuit-elon-musk-spacex-texas)
-
- [![Fort Worth police officer's attorneys claim 2016 incident is to blame for recent arrest](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/william-martin.jpg?ve=1&tl=1)
-
- ![Fort Worth police officer's attorneys claim 2016 incident is to blame for recent arrest](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/592/333/william-martin.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/fort-worth-police-officers-attorneys-claim-2016-incident-is-blame-recent-arrest)
-
-### [Fort Worth police officer's attorneys claim 2016 incident is to blame for recent arrest](https://www.fox4news.com/news/fort-worth-police-officers-attorneys-claim-2016-incident-is-blame-recent-arrest)
-
- [![Richardson police release video of chase, shooting involving Kaufman County murder suspect](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/Richardson-chase-video_KDFW28b3_146_mxf_00.00.44.24-1.jpg?ve=1&tl=1)
-
- ![Richardson police release video of chase, shooting involving Kaufman County murder suspect](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/592/333/Richardson-chase-video_KDFW28b3_146_mxf_00.00.44.24-1.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/richardson-police-chase-dallas-shooting-donald-ingram)
-
-### [Richardson police release video of chase, shooting involving Kaufman County murder suspect](https://www.fox4news.com/news/richardson-police-chase-dallas-shooting-donald-ingram)
 
 ###### [News](https://www.fox4news.com/news)
 
