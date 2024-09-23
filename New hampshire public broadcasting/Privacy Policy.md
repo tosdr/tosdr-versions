@@ -184,9 +184,9 @@ NHPBS inspires one million Granite Staters each month with engaging and trusted 
 
 ###### LATEST VIDEO
 
-* [**Johnson scrambles to avoid shutdown weeks before election** | Washington Week with The Atlantic](https://video.nhpbs.org/video/johnson-scrambles-to-avoid-shutdown-weeks-before-election-jvoikq?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**September 22, 2024 - PBS News Weekend full episode** | PBS News Hour](https://video.nhpbs.org/video/september-22-2024-pbs-news-weekend-full-episode-1727033191?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**Why Republicans are still facing a candidate quality problem** | Washington Week with The Atlantic](https://video.nhpbs.org/video/why-republicans-are-still-facing-a-candidate-quality-problem-dknciz?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**2024 BMW 530i & 2024 Porsche 718 Cayman GT4 RS Manthey** | MotorWeek](https://video.nhpbs.org/video/2024-bmw-530i-2024-porsche-718-cayman-gt4-rs-manthey-3vgrhy?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**September 21, 2024 - PBS News Weekend full episode** | PBS News Hour](https://video.nhpbs.org/video/september-21-2024-pbs-news-weekend-full-episode-1726933059?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Carmelo Anthony Receives the 2024 Sports Award** | Hispanic Heritage Awards](https://video.nhpbs.org/video/carmelo-anthony-receives-the-2024-sports-award-1eqwqg?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Preview** | Citizen Nation](https://video.nhpbs.org/video/preview-tqazry?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Preview of Silverback** | Nature](https://video.nhpbs.org/video/silverback-about?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
