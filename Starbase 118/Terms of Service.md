@@ -354,6 +354,14 @@ Read More
 Community News
 --------------
 
+### [Frontier Day Aftermath: Assimilated Grapple with Recovery Amid Rebuilding Efforts](https://www.starbase118.net/2024/frontier-day-aftermath-assimilated-grapple-with-recovery-amid-rebuilding-efforts/)
+
+Federation News Service September 23, 2024
+
+ALPHA QUADRANT – Although the Borg-Changeling plot has been decisively thwarted, those formerly assimilated struggle to recover as they work to rebuild Sol Station and
+
+[Read More »](https://www.starbase118.net/2024/frontier-day-aftermath-assimilated-grapple-with-recovery-amid-rebuilding-efforts/)
+
 [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
 ![](https://b108297.smushcdn.com/108297/wp-content/uploads/2023/03/Lunaclass-768x399.jpg?lossy=0&strip=1&webp=1)](https://www.starbase118.net/2024/the-nightmare-has-ended-uss-artemis-undergoes-extensive-repairs-after-harrowing-frontier-day-debacle/)
@@ -377,18 +385,6 @@ Federation News Service September 19, 2024
 BETA-15187 Dust Cloud — Trapped in a radically altered timeline where the Borg reign supreme and Starfleet has been erased from existence, the crew of
 
 [Read More »](https://www.starbase118.net/2024/uss-gorkon-outsmarts-second-borg-cube-with-help-from-unexpected-allies/)
-
-[![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-
-![](https://b108297.smushcdn.com/108297/wp-content/uploads/2022/02/Burnham_Awarded-768x384.jpeg?lossy=0&strip=1&webp=1)](https://www.starbase118.net/2024/award-winner-kimberly-stapledon-uss-constitution-b-uss-chintoka-prestigious-service-medallion-engineering/)
-
-### [Award winner – Kimberly Stapledon, USS Constitution-B/USS Chin’toka – Prestigious Service Medallion – Engineering](https://www.starbase118.net/2024/award-winner-kimberly-stapledon-uss-constitution-b-uss-chintoka-prestigious-service-medallion-engineering/)
-
-Lhandon Nilsen September 18, 2024
-
-Join us for another in a series of interviews with winners of awards from our 2024  Awards Ceremony. Our goal is to give you insight
-
-[Read More »](https://www.starbase118.net/2024/award-winner-kimberly-stapledon-uss-constitution-b-uss-chintoka-prestigious-service-medallion-engineering/)
 
 Ready to get started?
 ---------------------
