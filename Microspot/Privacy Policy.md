@@ -64,7 +64,7 @@ Vous avez désactivé JavaScript dans votre navigateur. Veuillez activer JavaScr
 Recherche de succursale
 -----------------------
 
-![Direction de la succursale](/medien/id/marketing/filialleiter/6143.jpg)
+![Direction de la succursale](/medien/id/marketing/filialleiter/1280.jpg)
 
 Nous vous conseillons volontiers.
 
@@ -140,23 +140,23 @@ Bébé & Famille](https://www.microspot.ch/fr/cms/tout-pour-la-famille-bebe)
 Testé pour vous
 ---------------
 
-[![80x80_I24_Icons_013_Blog25.png](/medias/80x80-I24-Icons-013-Blog25.png?context=bWFzdGVyfGNtc3w1MDIxfGltYWdlL3BuZ3xhR0pqTDJnd1ppODRNSGc0TUY5Sk1qUmZTV052Ym5OZk1ERXpYMEpzYjJjeU5URXVjRzVuVTNSaFoyVmtiM0IwYVcxcGVtVmtMemd3ZURnd1gwa3lORjlKWTI5dWMxOHdNVE5mUW14dlp6STFNUzV3Ym1kVGRHRm5aV1J2Y0hScGJXbDZaV1F8YmE5MzZhYzEwNjZlOTdhZWY3ZmVhZWE3OTIyYjFlYmJlNGI0ODhmNDU4YTk5MzhlNzYwMTM3N2U1MDNmNzBkOQ)
-
-SAMSUNG
-
-Galaxy Z Flip6](https://www.microspot.ch/fr/cms/blog/conseils/samsung-galaxy-z-flip6)
-
-[![80x80_I24_Icons_013_Blog16.png](/medias/80x80-I24-Icons-013-Blog16.png?context=bWFzdGVyfGNtc3w2MTYzfGltYWdlL3BuZ3xhRFpqTDJnelpDODRNSGc0TUY5Sk1qUmZTV052Ym5OZk1ERXpYMEpzYjJjeE5pNXdibWRUZEdGblpXUnZjSFJwYldsNlpXUXZPREI0T0RCZlNUSTBYMGxqYjI1elh6QXhNMTlDYkc5bk1UWXVjRzVuVTNSaFoyVmtiM0IwYVcxcGVtVmt8NWZkYWNjMmUzYzc0NmI1ZDFmOTljNTU5M2M3Njk5YThiNzZlY2ZlNTU3MzIzZTVlODEwYTJjYzE0MmM4NWIzYg)
-
-NINJA
-
-Multi Cooker Foodi](https://www.microspot.ch/fr/cms/blog/conseils/ninja-multicuiseur-foodi)
-
 [![80x80_I24_SoMe_Blog_Garmin_Edge.jpg](/medias/80x80-I24-SoMe-Blog-Garmin-Edge.jpg?context=bWFzdGVyfGNtc3wzNzc0fGltYWdlL2pwZWd8YUdVM0wyZzRNUzg0TUhnNE1GOUpNalJmVTI5TlpWOUNiRzluWDBkaGNtMXBibDlGWkdkbExtcHdaMU4wWVdkbFpHOXdkR2x0YVhwbFpDODRNSGc0TUY5Sk1qUmZVMjlOWlY5Q2JHOW5YMGRoY20xcGJsOUZaR2RsTG1wd1oxTjBZV2RsWkc5d2RHbHRhWHBsWkF8MDI0NjY4NGViNzZjNzNkOWU0MThkMDk5YjkyNGE1Y2VkNGRiY2ViMTczYzZiNWE1ODNiODkyNDc0MGUwOTI4Yw)
 
 GARMIN
 
 Edge 540](https://www.microspot.ch/fr/cms/blog/conseils/garmin-edge-540)
+
+[![80x80_I24_Icons_013_Blog10.png](/medias/80x80-I24-Icons-013-Blog10.png?context=bWFzdGVyfGNtc3w1ODc1fGltYWdlL3BuZ3xhREk1TDJnNVpTODRNSGc0TUY5Sk1qUmZTV052Ym5OZk1ERXpYMEpzYjJjeE1DNXdibWRUZEdGblpXUnZjSFJwYldsNlpXUXZPREI0T0RCZlNUSTBYMGxqYjI1elh6QXhNMTlDYkc5bk1UQXVjRzVuVTNSaFoyVmtiM0IwYVcxcGVtVmt8NWU2YmEwZGFkM2EzMzRjZDI2MzYzOTg4YzM5NGU1ZGQxNTgzZWY0MGIyMGRiZjUzODM2YmRjMDJjZWMzZTkwMw)
+
+INTERTRONIC
+
+Sèche-cheveux hispeed](https://www.microspot.ch/fr/cms/blog/conseils/intertronic-hispeed)
+
+[![80x80_I24_Icons_013_Blog8.png](/medias/80x80-I24-Icons-013-Blog8.png?context=bWFzdGVyfGNtc3w0NTM0fGltYWdlL3BuZ3xhR1U1TDJnNU1pODRNSGc0TUY5Sk1qUmZTV052Ym5OZk1ERXpYMEpzYjJjNExuQnVaMU4wWVdkbFpHOXdkR2x0YVhwbFpDODRNSGc0TUY5Sk1qUmZTV052Ym5OZk1ERXpYMEpzYjJjNExuQnVaMU4wWVdkbFpHOXdkR2x0YVhwbFpBfDJmMWVmMzYxN2VjNWY5OWNiYWI2NDgwZDlkNjNlYzRiNmU2MTkyNWZkN2Y5OWFhZTBkYzA2NWU1NTI2OTNhOWQ)
+
+EMPORIA
+
+ME6](https://www.microspot.ch/fr/cms/blog/conseils/emporia-me6)
 
 ![](/_next/image?url=https%3A%2F%2Fwww.interdiscount.ch%2Fmedias%2F915x515-I24-SoMe-Blog-Samsung-Watch-Ultra.jpg%3Fcontext%3DbWFzdGVyfGNtc3w0NDcyNnxpbWFnZS9qcGVnfGFHUXhMMmhqT0M4NU1UVjROVEUxWDBreU5GOVRiMDFsWDBKc2IyZGZVMkZ0YzNWdVoxOVhZWFJqYUY5VmJIUnlZUzVxY0dkVGRHRm5aV1J2Y0hScGJXbDZaV1F2T1RFMWVEVXhOVjlKTWpSZlUyOU5aVjlDYkc5blgxTmhiWE4xYm1kZlYyRjBZMmhmVld4MGNtRXVhbkJuVTNSaFoyVmtiM0IwYVcxcGVtVmt8YWMzMjEwZDhhNzM4NDJlN2IzYWRhNGQ0NmY0N2UyNzE1NjgzMmQxNjVjM2EzODEyN2E1YjJkODQ4ZDI5ZmE2OQ&w=2360&q=75)
 
@@ -209,17 +209,17 @@ Inscrivez-vous à notre newsletter et soyez parmi les premiers à être informé
 Achetez comme vous aimez
 ------------------------
 
-[Frais de port gratuits pour livraison
+[Retrait gratuit
 
-à domicile dès CHF 49.-](https://helpcenter.interdiscount.ch/s/?c__cun=Delivery_Collection&c__cl=Lieferung%20%26%20Abholung&language=fr)
+dans tous les magasins](https://helpcenter.interdiscount.ch/s/?c__cun=Delivery_Collection&c__cl=Lieferung%20%26%20Abholung&language=fr)
 
 [Commandé aujourd'hui avant 20h
 
 livré le lendemain](https://helpcenter.interdiscount.ch/s/?c__cun=Delivery_Collection&c__cl=Lieferung%20%26%20Abholung&language=fr)
 
-[Retrait gratuit
+[Garantie Plus
 
-dans tous les magasins](https://helpcenter.interdiscount.ch/s/?c__cun=Delivery_Collection&c__cl=Lieferung%20%26%20Abholung&language=fr)
+prolongation de 24 mois de la garantie du fabricant](https://www.microspot.ch/fr/cms/service/garantie-plus)
 
 interdiscount.ch
 
