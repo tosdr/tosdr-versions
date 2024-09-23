@@ -516,7 +516,7 @@ We have carefully designed and overviewed our cookie usage in order to make sure
 Sharing your personal data
 --------------------------
 
-![](/images//BrainTree-logo.svg)
+![](/images/BrainTree-logo.svg)
 
 During a payment process, we might pass your billing information such as credit card details, IP, and email to a service called BrainTree that will then use this for secure payment processing on our behalf.
 
@@ -524,31 +524,31 @@ During a payment process, we might pass your billing information such as credit 
 
 Savio will receive your account information (such as Email, Name, and Company Name) this will only be shared when you submit a feature request, ensuring a more tailored and efficient service.
 
-![](/images//Coinify-logo.svg)
+![](/images/Coinify-logo.svg)
 
 During a payment process, we might pass your billing information such as IP and email address to a service called Coinify that will then use this for secure payment processing on our behalf.
 
-![](/images//dsiqus-logo-v2.svg)
+![](/images/dsiqus-logo-v2.svg)
 
 When posting a comment on our blog or knowledge base, your provided information is shared with a service called Disqus that we use to provide users the ability to leave comments under our articles.
 
-![](/images//MaxMind-logo.svg)
+![](/images/MaxMind-logo.svg)
 
 During signup, we might share your current IP, browser user agent, browser language, and email address provided during signup to a third party service MaxMind that we use to detect and prevent credit card fraud.
 
-![](/images//Salesforce-logo.svg)
+![](/images/Salesforce-logo.svg)
 
 Salesforce will receive billing, consumption, and service usage details. No zone configuration or end customer data will be shared, but communications with bunny.net may be processed by Salesforce.
 
-![](/images//SendGrid-logo.svg)
+![](/images/SendGrid-logo.svg)
 
 After signing up for an account, we might share your name and email address with a service called SendGrid that we use to process and send email notifications related to your bunny.net account.
 
-![](/images//Tableau-logo.svg)
+![](/images/Tableau-logo.svg)
 
 Tableau will receive your personal, billing and account consumption details such as zone count, usage, or other metrics to help us improve the service, but no zone configuration or end customer data will be shared.
 
-![](/images//ZenDesk-logo.svg)
+![](/images/ZenDesk-logo.svg)
 
 When interacting with our support team or using the website support widget, information such as your email address and name might be passed to a service called ZenDesk that we use for managing our support.
 
