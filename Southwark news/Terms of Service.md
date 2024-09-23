@@ -19,6 +19,10 @@
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![Helen Hayes, Labour MP for Dulwich and West Norwood](https://southwarknews.co.uk/wp-content/uploads/2024/06/Helen-Hayes-for-web-360x180.jpeg)](https://southwarknews.co.uk/news/politics/our-government-will-end-bidding-war-for-private-renters-writes-mp-helen-hayes/)
+    
+    ### [‘Our government will end bidding war for private renters’ writes MP Helen Hayes](https://southwarknews.co.uk/news/politics/our-government-will-end-bidding-war-for-private-renters-writes-mp-helen-hayes/)
+    
     [![An example of the pod-style bedrooms CoDE Hostels equips its venues with. Image: Southwark Planning Documents](https://southwarknews.co.uk/wp-content/uploads/2024/09/An-example-of-the-pod-style-bedrooms-CoDE-Hostels-equips-its-venues-with.-Image-Southwark-Planning-Documents-360x180.jpg)](https://southwarknews.co.uk/area/walworth/new-walworth-hotel-could-house-570-asian-style-pod-bedrooms/)
     
     ### [New Walworth hotel could house 570 ‘Asian style’ pod bedrooms](https://southwarknews.co.uk/area/walworth/new-walworth-hotel-could-house-570-asian-style-pod-bedrooms/)
@@ -51,10 +55,6 @@
     [![](https://southwarknews.co.uk/wp-content/uploads/2022/06/Helen-Hayes-e1588768248748-360x180.jpeg)](https://southwarknews.co.uk/area/dulwich/helen-hayes-mp-elected-chair-of-commons-education-committee/)
     
     ### [Helen Hayes MP elected chair of Commons education committee](https://southwarknews.co.uk/area/dulwich/helen-hayes-mp-elected-chair-of-commons-education-committee/)
-    
-    [![Those behind the new Lower Road cycle lane met politicians and business owners on site in May](https://southwarknews.co.uk/wp-content/uploads/2024/09/image002-360x180.jpeg)](https://southwarknews.co.uk/area/rotherhithe/southwark-council-to-consider-putting-second-traffic-lane-on-lower-road-says-local-councillor/)
-    
-    ### [Southwark Council to consider putting second traffic lane on Lower Road, says local councillor](https://southwarknews.co.uk/area/rotherhithe/southwark-council-to-consider-putting-second-traffic-lane-on-lower-road-says-local-councillor/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [In depth history](https://southwarknews.co.uk/category/history/in-depth-history/)
@@ -100,6 +100,10 @@ View All Result
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![Helen Hayes, Labour MP for Dulwich and West Norwood](https://southwarknews.co.uk/wp-content/uploads/2024/06/Helen-Hayes-for-web-360x180.jpeg)](https://southwarknews.co.uk/news/politics/our-government-will-end-bidding-war-for-private-renters-writes-mp-helen-hayes/)
+    
+    ### [‘Our government will end bidding war for private renters’ writes MP Helen Hayes](https://southwarknews.co.uk/news/politics/our-government-will-end-bidding-war-for-private-renters-writes-mp-helen-hayes/)
+    
     [![An example of the pod-style bedrooms CoDE Hostels equips its venues with. Image: Southwark Planning Documents](https://southwarknews.co.uk/wp-content/uploads/2024/09/An-example-of-the-pod-style-bedrooms-CoDE-Hostels-equips-its-venues-with.-Image-Southwark-Planning-Documents-360x180.jpg)](https://southwarknews.co.uk/area/walworth/new-walworth-hotel-could-house-570-asian-style-pod-bedrooms/)
     
     ### [New Walworth hotel could house 570 ‘Asian style’ pod bedrooms](https://southwarknews.co.uk/area/walworth/new-walworth-hotel-could-house-570-asian-style-pod-bedrooms/)
@@ -132,10 +136,6 @@ View All Result
     [![](https://southwarknews.co.uk/wp-content/uploads/2022/06/Helen-Hayes-e1588768248748-360x180.jpeg)](https://southwarknews.co.uk/area/dulwich/helen-hayes-mp-elected-chair-of-commons-education-committee/)
     
     ### [Helen Hayes MP elected chair of Commons education committee](https://southwarknews.co.uk/area/dulwich/helen-hayes-mp-elected-chair-of-commons-education-committee/)
-    
-    [![Those behind the new Lower Road cycle lane met politicians and business owners on site in May](https://southwarknews.co.uk/wp-content/uploads/2024/09/image002-360x180.jpeg)](https://southwarknews.co.uk/area/rotherhithe/southwark-council-to-consider-putting-second-traffic-lane-on-lower-road-says-local-councillor/)
-    
-    ### [Southwark Council to consider putting second traffic lane on Lower Road, says local councillor](https://southwarknews.co.uk/area/rotherhithe/southwark-council-to-consider-putting-second-traffic-lane-on-lower-road-says-local-councillor/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [In depth history](https://southwarknews.co.uk/category/history/in-depth-history/)
@@ -203,17 +203,17 @@ Terms of Use
 
 [21st September 2024](https://southwarknews.co.uk/news/community/great-river-race-to-hit-the-thames-this-saturday-with-300-boats-to-compete/)
 
-[![JD Wetherspoon has applied for a license at 50 Tooley Street. Image: Google](https://southwarknews.co.uk/wp-content/uploads/2024/09/JD-Wetherspoon-has-applied-for-a-license-at-50-Tooley-Street.-Image-Google-120x86.png)](https://southwarknews.co.uk/area/borough/wetherspoons-to-open-pub-in-former-london-dungeon/)
-
-### [Wetherspoons to open pub in former London Dungeon](https://southwarknews.co.uk/area/borough/wetherspoons-to-open-pub-in-former-london-dungeon/)
-
-[17th September 2024](https://southwarknews.co.uk/area/borough/wetherspoons-to-open-pub-in-former-london-dungeon/)
-
 [![Scanlon against Luton. Image: Millwall FC](https://southwarknews.co.uk/wp-content/uploads/2024/09/Scanlon-Luton-1-120x86.jpeg)](https://southwarknews.co.uk/sport/football/millwall/harris-confirms-millwall-loan-signing-injury-with-player-returning-to-parent-club/)
 
 ### [Harris confirms Millwall loan signing injury with player returning to parent club](https://southwarknews.co.uk/sport/football/millwall/harris-confirms-millwall-loan-signing-injury-with-player-returning-to-parent-club/)
 
 [21st September 2024](https://southwarknews.co.uk/sport/football/millwall/harris-confirms-millwall-loan-signing-injury-with-player-returning-to-parent-club/)
+
+[![JD Wetherspoon has applied for a license at 50 Tooley Street. Image: Google](https://southwarknews.co.uk/wp-content/uploads/2024/09/JD-Wetherspoon-has-applied-for-a-license-at-50-Tooley-Street.-Image-Google-120x86.png)](https://southwarknews.co.uk/area/borough/wetherspoons-to-open-pub-in-former-london-dungeon/)
+
+### [Wetherspoons to open pub in former London Dungeon](https://southwarknews.co.uk/area/borough/wetherspoons-to-open-pub-in-former-london-dungeon/)
+
+[17th September 2024](https://southwarknews.co.uk/area/borough/wetherspoons-to-open-pub-in-former-london-dungeon/)
 
 [![](https://southwarknews.co.uk/wp-content/uploads/2024/09/Leahy-120x86.jpeg)](https://southwarknews.co.uk/sport/football/millwall/millwall-manager-discusses-call-back-option-for-on-loan-striker/)
 
@@ -227,11 +227,11 @@ Terms of Use
 
 [19th September 2024](https://southwarknews.co.uk/area/walworth/social-housing-on-regenerated-ayslesbury-estate-more-expensive-than-normal-council-housing-report-claims/)
 
-[![The Rising SE1 founders Simon Burke and Piers Greenlees.](https://southwarknews.co.uk/wp-content/uploads/2024/04/Founder-Simon-Burke-and-Piers-Greenlees-120x86.jpeg)](https://southwarknews.co.uk/area/bermondsey/londons-first-lgbtq-cinema-is-set-to-open-in-a-bermondsey/)
+[![Max Templer outside a building on the North Peckham estate, South London in July 2024. CREDIT: Robert Firth](https://southwarknews.co.uk/wp-content/uploads/2024/09/IMG_9851-120x86.jpg)](https://southwarknews.co.uk/area/southwark/southwark-council-denies-mishandling-complaints-from-leaseholders-lumped-with-2500-heating-bills/)
 
-### [London’s first LGBTQ+ cinema is set to open in a Bermondsey](https://southwarknews.co.uk/area/bermondsey/londons-first-lgbtq-cinema-is-set-to-open-in-a-bermondsey/)
+### [Southwark Council denies mishandling complaints from leaseholders lumped with £2,500 heating bills](https://southwarknews.co.uk/area/southwark/southwark-council-denies-mishandling-complaints-from-leaseholders-lumped-with-2500-heating-bills/)
 
-[17th September 2024](https://southwarknews.co.uk/area/bermondsey/londons-first-lgbtq-cinema-is-set-to-open-in-a-bermondsey/)
+[21st September 2024](https://southwarknews.co.uk/area/southwark/southwark-council-denies-mishandling-complaints-from-leaseholders-lumped-with-2500-heating-bills/)
 
 ### Featured Articles
 
