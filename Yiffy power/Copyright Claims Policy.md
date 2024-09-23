@@ -85,7 +85,7 @@ August 24, 2024
 
 [elena and elin (mythology) created by psychorodent](https://yiff-party.com/yiff/elena-and-elin-mythology-created-by-psychorodent/)
 
-0 546 1
+0 553 1
 
 August 24, 2024
 
@@ -93,15 +93,15 @@ August 24, 2024
 
 [created by rabbitbrush](https://yiff-party.com/yiff/created-by-rabbitbrush/)
 
-0 277 1
+0 285 1
 
 September 11, 2024
 
-[](https://yiff-party.com/yiff/mazrogal-and-vaela-mythology-created-by-chivaran/)
+[](https://yiff-party.com/yiff/garrus-directed-by-purrfectlyai/)
 
-[mazrogal and vaela (mythology) created by chivaran](https://yiff-party.com/yiff/mazrogal-and-vaela-mythology-created-by-chivaran/)
+[garrus directed by purrfectlyai](https://yiff-party.com/yiff/garrus-directed-by-purrfectlyai/)
 
-0 85 0
+0 71 0
 
 August 24, 2024
 
