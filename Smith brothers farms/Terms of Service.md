@@ -190,7 +190,7 @@ Hi
     * BACK
     * [All Products](https://www.smithbrothersfarms.com/all-products)
         
-    * [New! (68)](https://www.smithbrothersfarms.com/featured-products)
+    * [New! (70)](https://www.smithbrothersfarms.com/featured-products)
         
     * [On Sale (20)](https://www.smithbrothersfarms.com/on-special)
         
@@ -236,7 +236,7 @@ Hi
         * [Eggs (7)](https://www.smithbrothersfarms.com/eggs)
             
         
-    * [Cheese (49)](https://www.smithbrothersfarms.com/cheese)
+    * [Cheese (50)](https://www.smithbrothersfarms.com/cheese)
         
         * BACK
         * [Block Cheese (4)](https://www.smithbrothersfarms.com/blocks)
@@ -245,7 +245,7 @@ Hi
             
         * [Shreds & Crumbles (11)](https://www.smithbrothersfarms.com/shreds-crumbles)
             
-        * [Cream Cheese (8)](https://www.smithbrothersfarms.com/cream-cheese)
+        * [Cream Cheese (9)](https://www.smithbrothersfarms.com/cream-cheese)
             
         * [Artisan Cheese (9)](https://www.smithbrothersfarms.com/other-cheese)
             
@@ -268,14 +268,14 @@ Hi
         * [Prepared Produce (6)](https://www.smithbrothersfarms.com/prepped)
             
         
-    * [Bakery (61)](https://www.smithbrothersfarms.com/bakery)
+    * [Bakery (62)](https://www.smithbrothersfarms.com/bakery)
         
         * BACK
         * [Bread & Buns (23)](https://www.smithbrothersfarms.com/bread)
             
         * [Tortillas & Pizza Crust (3)](https://www.smithbrothersfarms.com/tortillas-and-pizza)
             
-        * [Bagels (10)](https://www.smithbrothersfarms.com/bagels)
+        * [Bagels (11)](https://www.smithbrothersfarms.com/bagels)
             
         * [Breakfast Treats (16)](https://www.smithbrothersfarms.com/breakfast-treats)
             
