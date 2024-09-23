@@ -134,21 +134,21 @@ If you would like to quote more than 20 percent of an article, please contact us
 
   [![A car is seen in a crevice that opened up in a road amid heavy rains in Suzu, Ishikawa Prefecture, on Saturday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/21/423040.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "A car is seen in a crevice that opened up in a road amid heavy rains in Suzu, Ishikawa Prefecture, on Saturday.")](https://www.japantimes.co.jp/news/2024/09/21/japan/ishikawa-heavy-rain-alert/ "'Unprecedented' rains in quake-hit Ishikawa leave at least one dead")
 
+[Dealing with rising land vacancies as Japan shrinks](https://www.japantimes.co.jp/news/2024/09/21/japan/society/empty-vacant-lots-japan-akichi/ "Dealing with rising land vacancies as Japan shrinks")
+
+  [![A woman passes an "akichi" (vacant lot) in Bunkyo Ward, Tokyo. The capital is littered with such small lots in part because of Japan's aging and shrinking population.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/22/422295.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "A woman passes an "akichi" (vacant lot) in Bunkyo Ward, Tokyo. The capital is littered with such small lots in part because of Japan's aging and shrinking population.")](https://www.japantimes.co.jp/news/2024/09/21/japan/society/empty-vacant-lots-japan-akichi/ "Dealing with rising land vacancies as Japan shrinks")
+
+[Six dead and six more missing after 'unprecedented' rains in quake-hit Ishikawa](https://www.japantimes.co.jp/news/2024/09/22/japan/ishikawa-rain-second-day/ "Six dead and six more missing after 'unprecedented' rains in quake-hit Ishikawa")
+
+  [![A stranded car is seen on a mud-covered road following heavy rain in the city of Wajima, Ishikawa Prefecture, on Sunday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/22/423154.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "A stranded car is seen on a mud-covered road following heavy rain in the city of Wajima, Ishikawa Prefecture, on Sunday.")](https://www.japantimes.co.jp/news/2024/09/22/japan/ishikawa-rain-second-day/ "Six dead and six more missing after 'unprecedented' rains in quake-hit Ishikawa")
+
+['Quad' cements ties with coast guard patrols amid China concerns](https://www.japantimes.co.jp/news/2024/09/22/asia-pacific/politics/quad-summit-biden-kishida-china/ "'Quad' cements ties with coast guard patrols amid China concerns")
+
+  [![A China Coast Guard ship (left) collides with the Philippine Coast Guard ship BRP Teresa Magbanua near the Sabina Shoal, in disputed waters of the South China Sea, on Aug. 31.  ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/22/423095.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "A China Coast Guard ship (left) collides with the Philippine Coast Guard ship BRP Teresa Magbanua near the Sabina Shoal, in disputed waters of the South China Sea, on Aug. 31.  ")](https://www.japantimes.co.jp/news/2024/09/22/asia-pacific/politics/quad-summit-biden-kishida-china/ "'Quad' cements ties with coast guard patrols amid China concerns")
+
 [Argentina stuns South Africa in 29-28 win to keep title hopes alive](https://www.japantimes.co.jp/sports/2024/09/22/more-sports/argentina-stuns-south-africa/ "Argentina stuns South Africa in 29-28 win to keep title hopes alive")
 
   [![Argentina's Joel Sclavi (left), Ignacio Calles (center) and Thomas Gallo celebrate after Los Pumas defeated the Springboks on Saturday. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/22/423093.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Argentina's Joel Sclavi (left), Ignacio Calles (center) and Thomas Gallo celebrate after Los Pumas defeated the Springboks on Saturday. ")](https://www.japantimes.co.jp/sports/2024/09/22/more-sports/argentina-stuns-south-africa/ "Argentina stuns South Africa in 29-28 win to keep title hopes alive")
-
-[U.S. marine in Okinawa indicted for alleged sexual assault](https://www.japantimes.co.jp/news/2024/09/21/japan/crime-legal/us-marine-okinawa-indict/ "U.S. marine in Okinawa indicted for alleged sexual assault")
-
-  [![A U.S. Marine aircraft at Futenma Air Station in Okinawa](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/21/423025.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "A U.S. Marine aircraft at Futenma Air Station in Okinawa")](https://www.japantimes.co.jp/news/2024/09/21/japan/crime-legal/us-marine-okinawa-indict/ "U.S. marine in Okinawa indicted for alleged sexual assault")
-
-[Koizumi ranks as top choice in polls among lawmakers in Japan’s LDP race](https://www.japantimes.co.jp/news/2024/09/21/japan/politics/koizumi-lawmaker-favorite/ "Koizumi ranks as top choice in polls among lawmakers in Japan’s LDP race")
-
-  [![Shinjiro Koizumi, a former environment minister, during a news conference at the Liberal Democratic Party headquarters in Tokyo earlier this month. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/21/423033.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Shinjiro Koizumi, a former environment minister, during a news conference at the Liberal Democratic Party headquarters in Tokyo earlier this month. ")](https://www.japantimes.co.jp/news/2024/09/21/japan/politics/koizumi-lawmaker-favorite/ "Koizumi ranks as top choice in polls among lawmakers in Japan’s LDP race")
-
-[U.S. leans on shipbuilding prowess of allies to compete with China](https://www.japantimes.co.jp/news/2024/09/21/asia-pacific/us-shipbuilding-allies/ "U.S. leans on shipbuilding prowess of allies to compete with China")
-
-  [![Warships and fighter jets of the Chinese People's Liberation Army Navy take part in a military display in the South China Sea in April 2018.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/21/423021.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Warships and fighter jets of the Chinese People's Liberation Army Navy take part in a military display in the South China Sea in April 2018.")](https://www.japantimes.co.jp/news/2024/09/21/asia-pacific/us-shipbuilding-allies/ "U.S. leans on shipbuilding prowess of allies to compete with China")
 
 Editors' Picks
 --------------
@@ -161,31 +161,35 @@ By [Jesse Johnson](https://www.japantimes.co.jp/author/141/jesse-johnson/ "Jesse
 
   [![A car is seen in a crevice that opened up in a road amid heavy rains in Suzu, Ishikawa Prefecture, on Saturday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/21/423040.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "A car is seen in a crevice that opened up in a road amid heavy rains in Suzu, Ishikawa Prefecture, on Saturday.")](https://www.japantimes.co.jp/news/2024/09/21/japan/ishikawa-heavy-rain-alert/ "'Unprecedented' rains in quake-hit Ishikawa leave at least one dead")
 
+[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
+
+[Dealing with rising land vacancies as Japan shrinks](https://www.japantimes.co.jp/news/2024/09/21/japan/society/empty-vacant-lots-japan-akichi/ "Dealing with rising land vacancies as Japan shrinks")
+
+By [Alex K.T. Martin](https://www.japantimes.co.jp/author/219/alex-kt-martin/ "Alex K.T. Martin")  
+
+  [![A woman passes an "akichi" (vacant lot) in Bunkyo Ward, Tokyo. The capital is littered with such small lots in part because of Japan's aging and shrinking population.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/22/422295.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "A woman passes an "akichi" (vacant lot) in Bunkyo Ward, Tokyo. The capital is littered with such small lots in part because of Japan's aging and shrinking population.")](https://www.japantimes.co.jp/news/2024/09/21/japan/society/empty-vacant-lots-japan-akichi/ "Dealing with rising land vacancies as Japan shrinks")
+
+[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
+
+[Six dead and six more missing after 'unprecedented' rains in quake-hit Ishikawa](https://www.japantimes.co.jp/news/2024/09/22/japan/ishikawa-rain-second-day/ "Six dead and six more missing after 'unprecedented' rains in quake-hit Ishikawa")
+
+By [Kathleen Benoza](https://www.japantimes.co.jp/author/4167/kathleen-benoza/ "Kathleen Benoza") and [Jesse Johnson](https://www.japantimes.co.jp/author/141/jesse-johnson/ "Jesse Johnson")  
+
+  [![A stranded car is seen on a mud-covered road following heavy rain in the city of Wajima, Ishikawa Prefecture, on Sunday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/22/423154.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "A stranded car is seen on a mud-covered road following heavy rain in the city of Wajima, Ishikawa Prefecture, on Sunday.")](https://www.japantimes.co.jp/news/2024/09/22/japan/ishikawa-rain-second-day/ "Six dead and six more missing after 'unprecedented' rains in quake-hit Ishikawa")
+
+[ASIA PACIFIC](https://www.japantimes.co.jp/news/asia-pacific/ "ASIA PACIFIC")
+
+['Quad' cements ties with coast guard patrols amid China concerns](https://www.japantimes.co.jp/news/2024/09/22/asia-pacific/politics/quad-summit-biden-kishida-china/ "'Quad' cements ties with coast guard patrols amid China concerns")
+
+By [Gabriel Dominguez](https://www.japantimes.co.jp/author/3151/gabriel-dominguez/ "Gabriel Dominguez") and [Jesse Johnson](https://www.japantimes.co.jp/author/141/jesse-johnson/ "Jesse Johnson")  
+
+  [![A China Coast Guard ship (left) collides with the Philippine Coast Guard ship BRP Teresa Magbanua near the Sabina Shoal, in disputed waters of the South China Sea, on Aug. 31.  ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/22/423095.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "A China Coast Guard ship (left) collides with the Philippine Coast Guard ship BRP Teresa Magbanua near the Sabina Shoal, in disputed waters of the South China Sea, on Aug. 31.  ")](https://www.japantimes.co.jp/news/2024/09/22/asia-pacific/politics/quad-summit-biden-kishida-china/ "'Quad' cements ties with coast guard patrols amid China concerns")
+
 [MORE SPORTS](https://www.japantimes.co.jp/sports/more-sports/ "MORE SPORTS")
 
 [Argentina stuns South Africa in 29-28 win to keep title hopes alive](https://www.japantimes.co.jp/sports/2024/09/22/more-sports/argentina-stuns-south-africa/ "Argentina stuns South Africa in 29-28 win to keep title hopes alive")
 
   [![Argentina's Joel Sclavi (left), Ignacio Calles (center) and Thomas Gallo celebrate after Los Pumas defeated the Springboks on Saturday. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/22/423093.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Argentina's Joel Sclavi (left), Ignacio Calles (center) and Thomas Gallo celebrate after Los Pumas defeated the Springboks on Saturday. ")](https://www.japantimes.co.jp/sports/2024/09/22/more-sports/argentina-stuns-south-africa/ "Argentina stuns South Africa in 29-28 win to keep title hopes alive")
-
-[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
-
-[U.S. marine in Okinawa indicted for alleged sexual assault](https://www.japantimes.co.jp/news/2024/09/21/japan/crime-legal/us-marine-okinawa-indict/ "U.S. marine in Okinawa indicted for alleged sexual assault")
-
-  [![A U.S. Marine aircraft at Futenma Air Station in Okinawa](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/21/423025.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "A U.S. Marine aircraft at Futenma Air Station in Okinawa")](https://www.japantimes.co.jp/news/2024/09/21/japan/crime-legal/us-marine-okinawa-indict/ "U.S. marine in Okinawa indicted for alleged sexual assault")
-
-[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
-
-[Koizumi ranks as top choice in polls among lawmakers in Japan’s LDP race](https://www.japantimes.co.jp/news/2024/09/21/japan/politics/koizumi-lawmaker-favorite/ "Koizumi ranks as top choice in polls among lawmakers in Japan’s LDP race")
-
-By [Erica Yokoyama](https://www.japantimes.co.jp/author/1058/erica-yokoyama/ "Erica Yokoyama")  
-
-  [![Shinjiro Koizumi, a former environment minister, during a news conference at the Liberal Democratic Party headquarters in Tokyo earlier this month. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/21/423033.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Shinjiro Koizumi, a former environment minister, during a news conference at the Liberal Democratic Party headquarters in Tokyo earlier this month. ")](https://www.japantimes.co.jp/news/2024/09/21/japan/politics/koizumi-lawmaker-favorite/ "Koizumi ranks as top choice in polls among lawmakers in Japan’s LDP race")
-
-[ASIA PACIFIC](https://www.japantimes.co.jp/news/asia-pacific/ "ASIA PACIFIC")
-
-[U.S. leans on shipbuilding prowess of allies to compete with China](https://www.japantimes.co.jp/news/2024/09/21/asia-pacific/us-shipbuilding-allies/ "U.S. leans on shipbuilding prowess of allies to compete with China")
-
-  [![Warships and fighter jets of the Chinese People's Liberation Army Navy take part in a military display in the South China Sea in April 2018.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/21/423021.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Warships and fighter jets of the Chinese People's Liberation Army Navy take part in a military display in the South China Sea in April 2018.")](https://www.japantimes.co.jp/news/2024/09/21/asia-pacific/us-shipbuilding-allies/ "U.S. leans on shipbuilding prowess of allies to compete with China")
 
 Podcast
 -------
@@ -206,9 +210,9 @@ By [Alex K.T. Martin](https://www.japantimes.co.jp/author/219/alex-kt-martin/ "A
 SUSTAINABLE JAPAN
 -----------------
 
-[SWCC keeps changing with keyword ‘new challenges’](https://sustainable.japantimes.com/unraveling/27?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=4 "SWCC keeps changing with keyword ‘new challenges’")
+[Sasakawa works for a sustainable blue economy](https://sustainable.japantimes.com/magazine/vol39/39-01?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "Sasakawa works for a sustainable blue economy")
 
-[![SWCC keeps changing with keyword ‘new challenges’](https://wp.japantimes.co.jp/wp-content/uploads/2024/08/img_unraveling_27_01-200x200.jpg)](https://sustainable.japantimes.com/unraveling/27?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=4 "SWCC keeps changing with keyword ‘new challenges’")
+[![Sasakawa works for a sustainable blue economy](https://wp.japantimes.co.jp/wp-content/uploads/2024/08/img_magazine_39_01_01-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol39/39-01?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "Sasakawa works for a sustainable blue economy")
 
 SPECIAL SUPPLEMENTS [![note](/theme_japantimes/images/icon_note.png)](javascript:; "Note")
 ------------------------------------------------------------------------------------------
@@ -248,25 +252,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
-[Koizumi enjoys most support among lawmakers in LDP race: Jiji survey](https://www.japantimes.co.jp/news/2024/09/22/japan/politics/koizumi-enjoys-most-ldp-support/ "Koizumi enjoys most support among lawmakers in LDP race: Jiji survey")
+[A Mercedes-Benz fire could cloud South Korea’s EV shift, or give it a boost](https://www.japantimes.co.jp/business/2024/09/23/companies/mercedes-benz-fire-korea-ev/ "A Mercedes-Benz fire could cloud South Korea’s EV shift, or give it a boost")
 
-10 hours ago
+21 mins ago
 
-[Kim Jong Un offers tepid praise to China as he cozies up to Russia](https://www.japantimes.co.jp/news/2024/09/22/asia-pacific/kim-jong-un-china-praise/ "Kim Jong Un offers tepid praise to China as he cozies up to Russia")
+[Four Japanese banks participate in digital currency project](https://www.japantimes.co.jp/business/2024/09/23/japanese-banks-digital-currency-project/ "Four Japanese banks participate in digital currency project")
 
-10 hours ago
+25 mins ago
 
-[As sun sets on Biden's term, some inmates pin their hopes on clemency](https://www.japantimes.co.jp/news/2024/09/22/world/politics/biden-inmates-clemency/ "As sun sets on Biden's term, some inmates pin their hopes on clemency")
+[Big three money managers cut support for climate proposals](https://www.japantimes.co.jp/business/2024/09/23/markets/money-managers-climate-proposals/ "Big three money managers cut support for climate proposals")
 
-10 hours ago
+48 mins ago
 
-[Israel forces raid Al Jazeera TV in West Bank and order 45-day closure](https://www.japantimes.co.jp/news/2024/09/22/world/politics/israel-forces-raid-al-jazeera/ "Israel forces raid Al Jazeera TV in West Bank and order 45-day closure")
+[Sri Lanka leftist wins election after vowing to rejig IMF deal](https://www.japantimes.co.jp/news/2024/09/23/asia-pacific/politics/sri-lanka-leftist-imf/ "Sri Lanka leftist wins election after vowing to rejig IMF deal")
 
-11 hours ago
+50 mins ago
 
-[Australia backs easing of China's ban on Japan fishery products](https://www.japantimes.co.jp/news/2024/09/22/japan/australia-china-japan-fishery-products/ "Australia backs easing of China's ban on Japan fishery products")
+[Apollo to offer multibillion-dollar investment in Intel](https://www.japantimes.co.jp/business/2024/09/23/tech/apollo-multibillion-investment-intel/ "Apollo to offer multibillion-dollar investment in Intel")
 
-11 hours ago
+52 mins ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
