@@ -209,7 +209,7 @@ Small Business Survey](https://www.hurdlr.com/embedded-accounting-smb-vertical-s
 
 Blog](https://www.hurdlr.com/blog)
 
-[Pricing](https://www.hurdlr.com/pricing)[Login](https://web.hurdlr.com/login?utm_source=hurdlr&utm_medium=site&utm_campaign=desktop&utm_content=login)
+[Login](https://web.hurdlr.com/login?utm_source=hurdlr&utm_medium=site&utm_campaign=desktop&utm_content=login)
 
 ![](https://cdn.prod.website-files.com/59a6e87e38c73b0001ee52f6/59a6ec66145d0f0001042344_hurdlr-logo.svg)
 
@@ -233,7 +233,7 @@ Resources
 
 Company
 
-[Careers](https://www.linkedin.com/company/hurdlr)[Pricing](https://www.hurdlr.com/pricing)
+[Careers](https://www.linkedin.com/company/hurdlr)
 
 [EULA](https://www.hurdlr.com/eula)[Privacy Policy](https://www.hurdlr.com/privacy)[Terms](https://www.hurdlr.com/terms)
 
@@ -259,7 +259,7 @@ Resources
 
 Company
 
-[Careers](https://www.linkedin.com/company/hurdlr)[Pricing](https://www.hurdlr.com/pricing)
+[Careers](https://www.linkedin.com/company/hurdlr)
 
 [EULA](https://www.hurdlr.com/eula)[Privacy Policy](https://www.hurdlr.com/privacy)[Terms](https://www.hurdlr.com/terms)
 
