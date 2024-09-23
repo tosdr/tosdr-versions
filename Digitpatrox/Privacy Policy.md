@@ -20,16 +20,16 @@ Monday, September 23 2024
 
 Latest
 
-* [Wordle Answer for Today, September 23, 2024](https://digitpatrox.com/wordle-answer-for-today-september-23-2024/)
-* [Best Built-In Refrigerators of 2024](https://digitpatrox.com/best-built-in-refrigerators-of-2024/)
-* [Passkeys on Android Make Your Life Easier—Here’s How to Use Them](https://digitpatrox.com/passkeys-on-android-make-your-life-easier-heres-how-to-use-them/)
-* [NYT Strands today — hints, spangram and answers for game #204 (Monday, September 23 2024)](https://digitpatrox.com/nyt-strands-today-hints-spangram-and-answers-for-game-204-monday-september-23-2024/)
-* [Steven Johnson on Google, NotebookLM, and AI research](https://digitpatrox.com/steven-johnson-on-google-notebooklm-and-ai-research/)
-* [NYT Strands Today: Hints, Answers & Spangram for September 23](https://digitpatrox.com/nyt-strands-today-hints-answers-spangram-for-september-23/)
-* [UK firms are dangerously overconfident about paying ransoms to cyber criminals](https://digitpatrox.com/uk-firms-are-dangerously-overconfident-about-paying-ransoms-to-cyber-criminals/)
-* [This Is How I Juice a Lemon Without a Fancy Juicer](https://digitpatrox.com/this-is-how-i-juice-a-lemon-without-a-fancy-juicer/)
-* [Safest New Cars of 2024, According to the IIHS](https://digitpatrox.com/safest-new-cars-of-2024-according-to-the-iihs/)
-* [3 Reasons I’m Waiting for the Galaxy S25 Ultra](https://digitpatrox.com/3-reasons-im-waiting-for-the-galaxy-s25-ultra/)
+* [What’s this new mystery Nintendo device?](https://digitpatrox.com/whats-this-new-mystery-nintendo-device/)
+* [Waiting for Apple Intelligence in iOS 18? Here’s the Timeline for Upcoming AI Features](https://digitpatrox.com/waiting-for-apple-intelligence-in-ios-18-heres-the-timeline-for-upcoming-ai-features/)
+* [Oracle wants to power a new gigawatt data center with three small nuclear reactors – and it’s not the only big hyperscaler eyeing nuclear to meet surging AI energy demands](https://digitpatrox.com/oracle-wants-to-power-a-new-gigawatt-data-center-with-three-small-nuclear-reactors-and-its-not-the-only-big-hyperscaler-eyeing-nuclear-to-meet-surging-ai-energy-demands/)
+* [Enterprise file sync and sharing services – Computerworld](https://digitpatrox.com/enterprise-file-sync-and-sharing-services-computerworld/)
+* [How to Customize iOS 18’s Revamped Photos App](https://digitpatrox.com/how-to-customize-ios-18s-revamped-photos-app/)
+* [8 Best Gas Ranges of 2024, Tested by Our Experts](https://digitpatrox.com/8-best-gas-ranges-of-2024-tested-by-our-experts/)
+* [The First Windows-Android Hybrid Laptop](https://digitpatrox.com/the-first-windows-android-hybrid-laptop/)
+* [LinkedIn backtracks on controversial AI training rules after user backlash](https://digitpatrox.com/linkedin-backtracks-on-controversial-ai-training-rules-after-user-backlash/)
+* [Shark Cordless PowerDetect Clean & Empty Vacuum System review](https://digitpatrox.com/shark-cordless-powerdetect-clean-empty-vacuum-system-review/)
+* [Meta has a major opportunity to win the AI hardware race](https://digitpatrox.com/meta-has-a-major-opportunity-to-win-the-ai-hardware-race/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,35 +171,35 @@ Popular Posts
     August 21, 2024
     
 
-* [![](https://lifehacker.com/imagery/articles/01J7V8YVBGVDF5ZK32SB5Y813S/hero-image.fill.size_1200x675.jpg)](https://digitpatrox.com/wordle-answer-for-today-september-23-2024/)
+* [![](https://cdn.vox-cdn.com/thumbor/8JWRw_HOuKfVhERv2SqVFVojZjE=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/25590106/STK054_NINTENDO_D.jpg)](https://digitpatrox.com/whats-this-new-mystery-nintendo-device/)
     
-    [Wordle Answer for Today, September 23, 2024](https://digitpatrox.com/wordle-answer-for-today-september-23-2024/)
+    [What’s this new mystery Nintendo device?](https://digitpatrox.com/whats-this-new-mystery-nintendo-device/)
     
-    34 mins ago
+    17 mins ago
     
-* [![](https://article.images.consumerreports.org/image/upload/t_article_tout/v1675976127/prod/content/dam/CRO-Images-2023/02February/Appliances/CR-Appliances-InlineHero-Best-Built-In-Refrigerators-0223)](https://digitpatrox.com/best-built-in-refrigerators-of-2024/)
+* [![](https://beebom.com/wp-content/uploads/2024/09/Apple-Intelligence-release-Date.jpg)](https://digitpatrox.com/waiting-for-apple-intelligence-in-ios-18-heres-the-timeline-for-upcoming-ai-features/)
     
-    [Best Built-In Refrigerators of 2024](https://digitpatrox.com/best-built-in-refrigerators-of-2024/)
+    [Waiting for Apple Intelligence in iOS 18? Here’s the Timeline for Upcoming AI Features](https://digitpatrox.com/waiting-for-apple-intelligence-in-ios-18-heres-the-timeline-for-upcoming-ai-features/)
     
-    1 hour ago
+    19 mins ago
     
-* [![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/09/illustration-of-a-phone-with-the-android-mascot-surrounded-by-some-passkey-related-icons.jpg)](https://digitpatrox.com/passkeys-on-android-make-your-life-easier-heres-how-to-use-them/)
+* [![](https://cdn.mos.cms.futurecdn.net/dM6faDaZzWS5LfnjPma8h8-1200-80.jpg)](https://digitpatrox.com/oracle-wants-to-power-a-new-gigawatt-data-center-with-three-small-nuclear-reactors-and-its-not-the-only-big-hyperscaler-eyeing-nuclear-to-meet-surging-ai-energy-demands/)
     
-    [Passkeys on Android Make Your Life Easier—Here’s How to Use Them](https://digitpatrox.com/passkeys-on-android-make-your-life-easier-heres-how-to-use-them/)
-    
-    1 hour ago
-    
-* [![](https://cdn.mos.cms.futurecdn.net/TPjnbnuxSnR2Hxho3tzVYJ-1200-80.jpg)](https://digitpatrox.com/nyt-strands-today-hints-spangram-and-answers-for-game-204-monday-september-23-2024/)
-    
-    [NYT Strands today — hints, spangram and answers for game #204 (Monday, September 23 2024)](https://digitpatrox.com/nyt-strands-today-hints-spangram-and-answers-for-game-204-monday-september-23-2024/)
+    [Oracle wants to power a new gigawatt data center with three small nuclear reactors – and it’s not the only big hyperscaler eyeing nuclear to meet surging AI energy demands](https://digitpatrox.com/oracle-wants-to-power-a-new-gigawatt-data-center-with-three-small-nuclear-reactors-and-its-not-the-only-big-hyperscaler-eyeing-nuclear-to-meet-surging-ai-energy-demands/)
     
     2 hours ago
     
-* [![](https://cdn.vox-cdn.com/thumbor/eSCO-AaLea5ygQqlkK427ZfsFvA=/0x0:3000x2000/1200x628/filters:focal(1500x1000:1501x1001)/cdn.vox-cdn.com/uploads/chorus_asset/file/25631812/The_Vergecast_chatbot_Site__1_.jpg)](https://digitpatrox.com/steven-johnson-on-google-notebooklm-and-ai-research/)
+* [![](https://www.computerworld.com/wp-content/uploads/2024/09/3520801-0-48435300-1727085764-file-sync-sharing-by-tsingha25-via-shutterstock.jpg?quality=50&strip=all&w=1024)](https://digitpatrox.com/enterprise-file-sync-and-sharing-services-computerworld/)
     
-    [Steven Johnson on Google, NotebookLM, and AI research](https://digitpatrox.com/steven-johnson-on-google-notebooklm-and-ai-research/)
+    [Enterprise file sync and sharing services – Computerworld](https://digitpatrox.com/enterprise-file-sync-and-sharing-services-computerworld/)
     
-    3 hours ago
+    2 hours ago
+    
+* [![](https://lifehacker.com/imagery/articles/01J87G3C7EWCMZ6753W6ZD3M3Q/hero-image.fill.size_1200x675.jpg)](https://digitpatrox.com/how-to-customize-ios-18s-revamped-photos-app/)
+    
+    [How to Customize iOS 18’s Revamped Photos App](https://digitpatrox.com/how-to-customize-ios-18s-revamped-photos-app/)
+    
+    2 hours ago
     
 
 ![](https://digitpatrox.com/wp-content/uploads/2023/12/Digitpatrox-NEW-Logo-White.png)
@@ -208,51 +208,51 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [34 mins ago
+* [17 mins ago
     
-    ### Wordle Answer for Today, September 23, 2024](https://digitpatrox.com/wordle-answer-for-today-september-23-2024/)
-* [1 hour ago
+    ### What’s this new mystery Nintendo device?](https://digitpatrox.com/whats-this-new-mystery-nintendo-device/)
+* [19 mins ago
     
-    ### Best Built-In Refrigerators of 2024](https://digitpatrox.com/best-built-in-refrigerators-of-2024/)
-* [1 hour ago
+    ### Waiting for Apple Intelligence in iOS 18? Here’s the Timeline for Upcoming AI Features](https://digitpatrox.com/waiting-for-apple-intelligence-in-ios-18-heres-the-timeline-for-upcoming-ai-features/)
+* [2 hours ago
     
-    ### Passkeys on Android Make Your Life Easier—Here’s How to Use Them](https://digitpatrox.com/passkeys-on-android-make-your-life-easier-heres-how-to-use-them/)
+    ### Oracle wants to power a new gigawatt data center with three small nuclear reactors – and it’s not the only big hyperscaler eyeing nuclear to meet surging AI energy demands](https://digitpatrox.com/oracle-wants-to-power-a-new-gigawatt-data-center-with-three-small-nuclear-reactors-and-its-not-the-only-big-hyperscaler-eyeing-nuclear-to-meet-surging-ai-energy-demands/)
 
 Most Popular Topics
 
+* [August 19, 2024
+    
+    ### It’s Time to Order Compost and Mulch](https://digitpatrox.com/its-time-to-order-compost-and-mulch/)
 * [3 weeks ago
     
-    ### Get comfy while you work — Amazon Labor Day sale offers big discounts on our favorite office chairs](https://digitpatrox.com/get-comfy-while-you-work-amazon-labor-day-sale-offers-big-discounts-on-our-favorite-office-chairs/)
-* [August 14, 2024
+    ### Researchers find SQL injection to bypass airport TSA security checks](https://digitpatrox.com/researchers-find-sql-injection-to-bypass-airport-tsa-security-checks/)
+* [3 weeks ago
     
-    ### Convenience has a cost, privacy has iPhone – Computerworld](https://digitpatrox.com/convenience-has-a-cost-privacy-has-iphone-computerworld/)
-* [6 days ago
-    
-    ### Amazon CEO wants workers back in the office five days a week – Computerworld](https://digitpatrox.com/amazon-ceo-wants-workers-back-in-the-office-five-days-a-week-computerworld/)
+    ### Admins of MFA bypass service plead guilty to fraud](https://digitpatrox.com/admins-of-mfa-bypass-service-plead-guilty-to-fraud/)
 
 Last Modified Topics
 
-* [5 hours ago
+* [3 hours ago
     
-    ### UK firms are dangerously overconfident about paying ransoms to cyber criminals](https://digitpatrox.com/uk-firms-are-dangerously-overconfident-about-paying-ransoms-to-cyber-criminals/)
-* [6 hours ago
+    ### The First Windows-Android Hybrid Laptop](https://digitpatrox.com/the-first-windows-android-hybrid-laptop/)
+* [4 hours ago
     
-    ### This Is How I Juice a Lemon Without a Fancy Juicer](https://digitpatrox.com/this-is-how-i-juice-a-lemon-without-a-fancy-juicer/)
-* [6 hours ago
+    ### LinkedIn backtracks on controversial AI training rules after user backlash](https://digitpatrox.com/linkedin-backtracks-on-controversial-ai-training-rules-after-user-backlash/)
+* [4 hours ago
     
-    ### Safest New Cars of 2024, According to the IIHS](https://digitpatrox.com/safest-new-cars-of-2024-according-to-the-iihs/)
+    ### Shark Cordless PowerDetect Clean & Empty Vacuum System review](https://digitpatrox.com/shark-cordless-powerdetect-clean-empty-vacuum-system-review/)
 
 Most Viewed Topics
 
 * [August 21, 2024
     
     ### Wordle Answer for Today, August 21, 2024](https://digitpatrox.com/wordle-answer-for-today-august-21-2024/)
-* [August 11, 2024
-    
-    ### US citizen charged with aiding North Korean hackers moonlighting as tech workers](https://digitpatrox.com/us-citizen-charged-with-aiding-north-korean-hackers-moonlighting-as-tech-workers/)
 * [4 weeks ago
     
     ### Getting Your iPhone Repaired Could Ban You From Snapchat](https://digitpatrox.com/getting-your-iphone-repaired-could-ban-you-from-snapchat/)
+* [August 13, 2024
+    
+    ### How to manage a road trip move](https://digitpatrox.com/how-to-manage-a-road-trip-move/)
 
 © Copyright 2018 - 2024, All Rights Reserved
 
