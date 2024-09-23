@@ -38,7 +38,7 @@ Menu
     * Back
         
     * [Offer Sales](https://mls.om/pages/offers)
-    * [Month Start Sale](https://mls.om/collections/month-start-offers)
+    * [Month Start Sale](https://mls.om/collections/month-end-offers)
     * [MLS Lamb Fire Sale](https://mls.om/collections/lamb-fire-sale)
     * [Incredible Deals](https://mls.om/collections/incredible-deals)
     
