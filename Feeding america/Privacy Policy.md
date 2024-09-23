@@ -97,7 +97,6 @@ Sidebar
         * [Entertainment Council](https://www.feedingamerica.org/partners/entertainment-council "Entertainment Council")
         * [Current Promotions](https://www.feedingamerica.org/partners/current-promotions "Current Promotions")
         * [Disaster Partners](https://www.feedingamerica.org/partners/disaster-relief-partners "Disaster Partners")
-        * [COVID-19 Response Partners](https://www.feedingamerica.org/partners/covid-19-response-partners "COVID-19 Response Partners")
     * [Leadership](https://www.feedingamerica.org/about-us/leadership "Our Leadership")
     * [History](https://www.feedingamerica.org/about-us/our-history "Our History")
     * [Annual Report](https://www.feedingamerica.org/about-us/financials "Annual Report")
