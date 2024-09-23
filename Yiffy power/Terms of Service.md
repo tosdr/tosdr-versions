@@ -107,7 +107,7 @@ August 24, 2024
 
 [elena and elin (mythology) created by psychorodent](https://yiff-party.com/yiff/elena-and-elin-mythology-created-by-psychorodent/)
 
-0 536 1
+0 546 1
 
 August 24, 2024
 
@@ -115,15 +115,15 @@ August 24, 2024
 
 [created by rabbitbrush](https://yiff-party.com/yiff/created-by-rabbitbrush/)
 
-0 266 1
+0 277 1
 
 September 11, 2024
 
-[](https://yiff-party.com/yiff/raine-winters-and-sara-created-by-manika-nika/)
+[](https://yiff-party.com/yiff/mazrogal-and-vaela-mythology-created-by-chivaran/)
 
-[raine winters and sara created by manika nika](https://yiff-party.com/yiff/raine-winters-and-sara-created-by-manika-nika/)
+[mazrogal and vaela (mythology) created by chivaran](https://yiff-party.com/yiff/mazrogal-and-vaela-mythology-created-by-chivaran/)
 
-0 87 0
+0 85 0
 
 August 24, 2024
 
