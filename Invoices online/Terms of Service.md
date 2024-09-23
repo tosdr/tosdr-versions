@@ -197,63 +197,57 @@ Note: If at any time you should have any concern regarding security, privacy or 
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Impossible to run our businesses without IO
-> -------------------------------------------
+> Saving time, saving money
+> -------------------------
 > 
-> IO is an integral part of our day to day business. It allows me complete control and overview functionality, while still enabling franchise owners to run their various franchises without interruption.  
->   
-> At Storietyd.co.za - a bookclub for Afrikaans children, with thousands of members - all our billing is automated, automated invoices, automated debit orders, automated payment allocation, and so forth. Administration would be an absolute nightmare without IO.  
->   
-> We are suppliers of bulk educational products to schools, our reps in the field use IO for quotes, invoicing and managing debtors, directly from their smartphones / tablets.  
->   
-> We are extremely satisfied with Invoices Online, and would certainly recommend that you try it out.
+> Thanks to Invoices Online, administration of our client accounts went from an absolute nightmare, to an exciting and pleasurable couple of hours every Friday.  The system just makes everything so quick and easy.
 
-Kobus Venter
+Cornel Erasmus - TELA Loss Adjusters & Assessors
 
-![valued client Bloem Rugby Academy PTY (Ltd)](https://www.invoicesonline.co.za/scripts/image.php?bid=6451&file=logo_300_100&type=&fe=54a014fb3b3f2098dd64a0b07b5d7ee78c03837baf415a111ebf2247ab81588c&c=208220758)  
-Bloem Rugby Academy PTY (Ltd)
+![valued client AMS Ambu Medical Supplies ](https://www.invoicesonline.co.za/scripts/image.php?bid=4689&file=logo_300_100&type=&fe=2671cb31901b2088d296b3b74d2dd46de04924645452b90894e710e52121394b&c=67316229)  
+AMS Ambu Medical Supplies
 
-![valued client Wiselink Broadband Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=4072&file=logo_300_100&type=&fe=54a014fb3b3f2098dd64a0b07b5d7ee78c03837baf415a111ebf2247ab81588c&c=9828621)  
-Wiselink Broadband Pty Ltd
+![valued client Westside Car Audio CC](https://www.invoicesonline.co.za/scripts/image.php?bid=7028&file=logo_300_100&type=&fe=2671cb31901b2088d296b3b74d2dd46de04924645452b90894e710e52121394b&c=204626938)  
+Westside Car Audio CC
 
-![valued client SAUL ATHOL ACRES RENTAL](https://www.invoicesonline.co.za/scripts/image.php?bid=8430&file=logo_300_100&type=&fe=54a014fb3b3f2098dd64a0b07b5d7ee78c03837baf415a111ebf2247ab81588c&c=98147820)  
-SAUL ATHOL ACRES RENTAL
+![valued client Desygn](https://www.invoicesonline.co.za/scripts/image.php?bid=7855&file=logo_300_100&type=&fe=2671cb31901b2088d296b3b74d2dd46de04924645452b90894e710e52121394b&c=118634420)  
+Desygn
 
-![valued client Cooper Power South Africa (Pty) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2012&file=logo_300_100&type=&fe=54a014fb3b3f2098dd64a0b07b5d7ee78c03837baf415a111ebf2247ab81588c&c=48359391)  
-Cooper Power South Africa (Pty) LTD
+![valued client IAS Logistics (Pty) Ltd T/A MULTITRANSIT ](https://www.invoicesonline.co.za/scripts/image.php?bid=7064&file=logo_300_100&type=&fe=2671cb31901b2088d296b3b74d2dd46de04924645452b90894e710e52121394b&c=212581384)  
+IAS Logistics (Pty) Ltd T/A MULTITRANSIT
 
-![valued client OptaServ](https://www.invoicesonline.co.za/scripts/image.php?bid=7689&file=logo_300_100&type=&fe=54a014fb3b3f2098dd64a0b07b5d7ee78c03837baf415a111ebf2247ab81588c&c=149390586)  
-OptaServ
+![valued client Prosper Park](https://www.invoicesonline.co.za/scripts/image.php?bid=8286&file=logo_300_100&type=&fe=2671cb31901b2088d296b3b74d2dd46de04924645452b90894e710e52121394b&c=208078323)  
+Prosper Park
 
-![valued client Tagline Brands](https://www.invoicesonline.co.za/scripts/image.php?bid=6177&file=logo_300_100&type=&fe=54a014fb3b3f2098dd64a0b07b5d7ee78c03837baf415a111ebf2247ab81588c&c=53857707)  
-Tagline Brands
-
-![valued client Blue Sky Solar Services](https://www.invoicesonline.co.za/scripts/image.php?bid=7332&file=logo_300_100&type=&fe=54a014fb3b3f2098dd64a0b07b5d7ee78c03837baf415a111ebf2247ab81588c&c=18465416)  
-Blue Sky Solar Services
-
-![valued client Tracknetics](https://www.invoicesonline.co.za/scripts/image.php?bid=8211&file=logo_300_100&type=&fe=54a014fb3b3f2098dd64a0b07b5d7ee78c03837baf415a111ebf2247ab81588c&c=22875657)  
-Tracknetics
-
-![valued client Gemini-IT Group](https://www.invoicesonline.co.za/scripts/image.php?bid=8156&file=logo_300_100&type=&fe=54a014fb3b3f2098dd64a0b07b5d7ee78c03837baf415a111ebf2247ab81588c&c=108366417)  
-Gemini-IT Group
-
-![valued client Mtunzini Group ](https://www.invoicesonline.co.za/scripts/image.php?bid=5721&file=logo_300_100&type=&fe=54a014fb3b3f2098dd64a0b07b5d7ee78c03837baf415a111ebf2247ab81588c&c=118397745)  
-Mtunzini Group
-
-![valued client Kaylas Creations](https://www.invoicesonline.co.za/scripts/image.php?bid=7957&file=logo_300_100&type=&fe=54a014fb3b3f2098dd64a0b07b5d7ee78c03837baf415a111ebf2247ab81588c&c=50716798)  
-Kaylas Creations
-
-![valued client Roamfree Boerdery (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2350&file=logo_300_100&type=&fe=54a014fb3b3f2098dd64a0b07b5d7ee78c03837baf415a111ebf2247ab81588c&c=197672896)  
-Roamfree Boerdery (PTY) LTD
-
-![valued client Quad Biking Cape Town](https://www.invoicesonline.co.za/scripts/image.php?bid=7985&file=logo_300_100&type=&fe=54a014fb3b3f2098dd64a0b07b5d7ee78c03837baf415a111ebf2247ab81588c&c=61365818)  
-Quad Biking Cape Town
-
-![valued client INDUSTRIAL DRUM SERVICES (PTY)LTD ](https://www.invoicesonline.co.za/scripts/image.php?bid=7576&file=logo_300_100&type=&fe=54a014fb3b3f2098dd64a0b07b5d7ee78c03837baf415a111ebf2247ab81588c&c=205609125)  
-INDUSTRIAL DRUM SERVICES (PTY)LTD
-
-![valued client AquariumSmiths](https://www.invoicesonline.co.za/scripts/image.php?bid=7183&file=logo_300_100&type=&fe=54a014fb3b3f2098dd64a0b07b5d7ee78c03837baf415a111ebf2247ab81588c&c=6726106)  
+![valued client AquariumSmiths](https://www.invoicesonline.co.za/scripts/image.php?bid=7183&file=logo_300_100&type=&fe=2671cb31901b2088d296b3b74d2dd46de04924645452b90894e710e52121394b&c=192327901)  
 AquariumSmiths
+
+![valued client Cape Adventure Zone](https://www.invoicesonline.co.za/scripts/image.php?bid=2185&file=logo_300_100&type=&fe=2671cb31901b2088d296b3b74d2dd46de04924645452b90894e710e52121394b&c=41017371)  
+Cape Adventure Zone
+
+![valued client United Paintball Federation](https://www.invoicesonline.co.za/scripts/image.php?bid=7016&file=logo_300_100&type=&fe=2671cb31901b2088d296b3b74d2dd46de04924645452b90894e710e52121394b&c=88999870)  
+United Paintball Federation
+
+![valued client All Trucking Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=6370&file=logo_300_100&type=&fe=2671cb31901b2088d296b3b74d2dd46de04924645452b90894e710e52121394b&c=135459666)  
+All Trucking Solutions
+
+![valued client WIP Digital Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=1603&file=logo_300_100&type=&fe=2671cb31901b2088d296b3b74d2dd46de04924645452b90894e710e52121394b&c=113434785)  
+WIP Digital Solutions
+
+![valued client McKaynine Mobility](https://www.invoicesonline.co.za/scripts/image.php?bid=8229&file=logo_300_100&type=&fe=2671cb31901b2088d296b3b74d2dd46de04924645452b90894e710e52121394b&c=58225306)  
+McKaynine Mobility
+
+![valued client Konsortium Operations ( Roamfree Meats )](https://www.invoicesonline.co.za/scripts/image.php?bid=2819&file=logo_300_100&type=&fe=2671cb31901b2088d296b3b74d2dd46de04924645452b90894e710e52121394b&c=46470567)  
+Konsortium Operations ( Roamfree Meats )
+
+![valued client Creative Characters](https://www.invoicesonline.co.za/scripts/image.php?bid=6877&file=logo_300_100&type=&fe=2671cb31901b2088d296b3b74d2dd46de04924645452b90894e710e52121394b&c=4449479)  
+Creative Characters
+
+![valued client Vplay Letsheng Mall](https://www.invoicesonline.co.za/scripts/image.php?bid=8358&file=logo_300_100&type=&fe=2671cb31901b2088d296b3b74d2dd46de04924645452b90894e710e52121394b&c=17536207)  
+Vplay Letsheng Mall
+
+![valued client Super Sound Man (PTY) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7403&file=logo_300_100&type=&fe=2671cb31901b2088d296b3b74d2dd46de04924645452b90894e710e52121394b&c=23549788)  
+Super Sound Man (PTY) Ltd
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
