@@ -132,106 +132,118 @@ Política de privacidade
 
 [](https://whatsapp.com/channel/0029VaA51oy9hXF2RfactE03 "WhatsApp Clube do Hardware")
 
+* ### Popular agora
+    
+    * [![JRicardo1995](https://www.clubedohardware.com.br/uploads/members/monthly_2021_07/Dino.thumb.png.74ec7c61e6d01067921fca462cb20775.png)](https://www.clubedohardware.com.br/profile/1108806-jricardo1995/ "Ir ao perfil de JRicardo1995")
+        
+        11
+        
+        [Dicas para fazer meu PC rodar RDR2 e GOW Ragnarok a Full HD Ultra 60fps](https://www.clubedohardware.com.br/forums/topic/1698092-dicas-para-fazer-meu-pc-rodar-rdr2-e-gow-ragnarok-a-full-hd-ultra-60fps/ "Visualizar tópico")
+        
+        Por [JRicardo1995](https://www.clubedohardware.com.br/profile/1108806-jricardo1995/ "Ir ao perfil de JRicardo1995")  
+        1 hora atrás
+        
+    
 * ### Últimos tópicos
     
-    * [![JoãoVitorS](https://www.clubedohardware.com.br/uploads/members/monthly_2023_11/Screenshot_20230728-074258_Instagram.thumb.jpg.7121c60f2ae698e28fdf9a08d285e267.jpg)](https://www.clubedohardware.com.br/profile/1233826-jo%C3%A3ovitors/ "Ir ao perfil de JoãoVitorS")
+    * [![José S.](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/imported-photo-1249244.thumb.jpeg.22bebe01ffb9c25b5adec651ac3b9afb.jpeg)](https://www.clubedohardware.com.br/profile/1249244-jos%C3%A9-s/ "Ir ao perfil de José S.")
         
-        0
+        3
         
-        [Ryzen 5 5500 em uma b450m stell legend](https://www.clubedohardware.com.br/forums/topic/1698073-ryzen-5-5500-em-uma-b450m-stell-legend/?do=getNewComment "Ryzen 5 5500 em uma b450m stell legend")
+        [Gabinete ao lado do monitor pode atrapalhar refrigeração?](https://www.clubedohardware.com.br/forums/topic/1698093-gabinete-ao-lado-do-monitor-pode-atrapalhar-refrigera%C3%A7%C3%A3o/?do=getNewComment "Gabinete ao lado do monitor pode atrapalhar refrigeração?")
         
-        [Placas-mãe](https://www.clubedohardware.com.br/forums/forum/28-placas-m%C3%A3e/ "Placas-mãe")  
-        Por [JoãoVitorS](https://www.clubedohardware.com.br/profile/1233826-jo%C3%A3ovitors/ "Ir ao perfil de JoãoVitorS")  
-        agora
+        [Refrigeração e superaquecimento](https://www.clubedohardware.com.br/forums/forum/155-refrigera%C3%A7%C3%A3o-e-superaquecimento/ "Refrigeração e superaquecimento")  
+        Por [José S.](https://www.clubedohardware.com.br/profile/1249244-jos%C3%A9-s/ "Ir ao perfil de José S.")  
+        48 minutos atrás
         
-    * [![Ileusis LUNA ARAUJO E SILV](https://www.clubedohardware.com.br/uploads/members/monthly_2017_01/13568815_10208739081648743_6544660884182922536_o.thumb.jpg.85ec286c77263af2a13a55da6ca08d8c.jpg)](https://www.clubedohardware.com.br/profile/864460-ileusis-luna-araujo-e-silv/ "Ir ao perfil de Ileusis LUNA ARAUJO E SILV")
+    * [![JRicardo1995](https://www.clubedohardware.com.br/uploads/members/monthly_2021_07/Dino.thumb.png.74ec7c61e6d01067921fca462cb20775.png)](https://www.clubedohardware.com.br/profile/1108806-jricardo1995/ "Ir ao perfil de JRicardo1995")
         
-        0
+        11
         
-        Excel [Excel - Indice + corresp ou procv + proch](https://www.clubedohardware.com.br/forums/topic/1698071-excel-indice-corresp-ou-procv-proch/?do=getNewComment "Excel - Indice + corresp ou procv + proch")
-        
-        [Microsoft Office e similares](https://www.clubedohardware.com.br/forums/forum/39-microsoft-office-e-similares/ "Microsoft Office e similares")  
-        Por [Ileusis LUNA ARAUJO E SILV](https://www.clubedohardware.com.br/profile/864460-ileusis-luna-araujo-e-silv/ "Ir ao perfil de Ileusis LUNA ARAUJO E SILV")  
-        2 minutos atrás
-        
-    * [![Flávio Dreyer](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%2362c49d%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EFD%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1152783-fl%C3%A1vio-dreyer/ "Ir ao perfil de Flávio Dreyer")
-        
-        1
-        
-        [Dual Channel ou 4 pentes memória RAM na B450M Steel Legend](https://www.clubedohardware.com.br/forums/topic/1698070-dual-channel-ou-4-pentes-mem%C3%B3ria-ram-na-b450m-steel-legend/?do=getNewComment "Dual Channel ou 4 pentes memória RAM na B450M Steel Legend")
-        
-        [Memórias (RAM)](https://www.clubedohardware.com.br/forums/forum/29-mem%C3%B3rias-ram/ "Memórias (RAM)")  
-        Por [Flávio Dreyer](https://www.clubedohardware.com.br/profile/1152783-fl%C3%A1vio-dreyer/ "Ir ao perfil de Flávio Dreyer")  
-        12 minutos atrás
-        
-    * [![Gabriel U](https://www.clubedohardware.com.br/uploads/members/monthly_2024_07/Perfil.thumb.jpg.993bd3e064a08deadceb0ce9d80fee0d.jpg)](https://www.clubedohardware.com.br/profile/1248187-gabriel-u/ "Ir ao perfil de Gabriel U")
-        
-        0
-        
-        [Por que o CHKDSK não é executado?](https://www.clubedohardware.com.br/forums/topic/1698069-por-que-o-chkdsk-n%C3%A3o-%C3%A9-executado/?do=getNewComment "Por que o CHKDSK não é executado?")
-        
-        [Windows 10](https://www.clubedohardware.com.br/forums/forum/249-windows-10/ "Windows 10")  
-        Por [Gabriel U](https://www.clubedohardware.com.br/profile/1248187-gabriel-u/ "Ir ao perfil de Gabriel U")  
-        54 minutos atrás
-        
-    * [![Paulo Agostinho](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23c4ac62%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EPA%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1038213-paulo-agostinho/ "Ir ao perfil de Paulo Agostinho")
-        
-        0
-        
-        Outro [Alternar saida entre nivel "0" e nível "1" com o mesmo botão](https://www.clubedohardware.com.br/forums/topic/1698067-alternar-saida-entre-nivel-0-e-n%C3%ADvel-1-com-o-mesmo-bot%C3%A3o/?do=getNewComment "Alternar saida entre nivel "0" e nível "1" com o mesmo botão")
-        
-        [Programação - iniciantes](https://www.clubedohardware.com.br/forums/forum/181-programa%C3%A7%C3%A3o-iniciantes/ "Programação - iniciantes")  
-        Por [Paulo Agostinho](https://www.clubedohardware.com.br/profile/1038213-paulo-agostinho/ "Ir ao perfil de Paulo Agostinho")  
-        1 hora atrás
-        
-    * [![RTRibas](https://www.clubedohardware.com.br/uploads/members/profile/photo-341120.gif)](https://www.clubedohardware.com.br/profile/341120-rtribas/ "Ir ao perfil de RTRibas")
-        
-        2
-        
-        [Recomendação de configuração para substituir peças - até R$ 1500,00](https://www.clubedohardware.com.br/forums/topic/1698066-recomenda%C3%A7%C3%A3o-de-configura%C3%A7%C3%A3o-para-substituir-pe%C3%A7as-at%C3%A9-r-150000/?do=getNewComment "Recomendação de configuração para substituir peças - até R$ 1500,00")
+        [Dicas para fazer meu PC rodar RDR2 e GOW Ragnarok a Full HD Ultra 60fps](https://www.clubedohardware.com.br/forums/topic/1698092-dicas-para-fazer-meu-pc-rodar-rdr2-e-gow-ragnarok-a-full-hd-ultra-60fps/?do=getNewComment "Dicas para fazer meu PC rodar RDR2 e GOW Ragnarok a Full HD Ultra 60fps")
         
         [Montagem e upgrade de computadores de mesa](https://www.clubedohardware.com.br/forums/forum/93-montagem-e-upgrade-de-computadores-de-mesa/ "Montagem e upgrade de computadores de mesa")  
-        Por [RTRibas](https://www.clubedohardware.com.br/profile/341120-rtribas/ "Ir ao perfil de RTRibas")  
+        Por [JRicardo1995](https://www.clubedohardware.com.br/profile/1108806-jricardo1995/ "Ir ao perfil de JRicardo1995")  
         1 hora atrás
         
-    * [![Marcos A77](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23c4626c%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EMA%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1251573-marcos-a77/ "Ir ao perfil de Marcos A77")
+    * [![Magnalium](https://www.clubedohardware.com.br/uploads/members/monthly_2024_09/imported-photo-1253299.thumb.png.75154555bf501885d2fdde7699e18b7c.png)](https://www.clubedohardware.com.br/profile/1253299-magnalium/ "Ir ao perfil de Magnalium")
         
-        1
+        3
         
-        [Dispositivo USB 2.0 em porta USB 3.0 causa algum problema?](https://www.clubedohardware.com.br/forums/topic/1698062-dispositivo-usb-20-em-porta-usb-30-causa-algum-problema/?do=getNewComment "Dispositivo USB 2.0 em porta USB 3.0 causa algum problema?")
-        
-        [Outros problemas de hardware](https://www.clubedohardware.com.br/forums/forum/125-outros-problemas-de-hardware/ "Outros problemas de hardware")  
-        Por [Marcos A77](https://www.clubedohardware.com.br/profile/1251573-marcos-a77/ "Ir ao perfil de Marcos A77")  
-        1 hora atrás
-        
-    * [![JuniorGonçalves10](https://www.clubedohardware.com.br/uploads/members/monthly_2023_06/f1c90901d645b7d1b74c7d43b3dbd66e.thumb.jpg.bb725dcf056431a09ef671a52780c8ac.jpg)](https://www.clubedohardware.com.br/profile/936863-juniorgon%C3%A7alves10/ "Ir ao perfil de JuniorGonçalves10")
-        
-        1
-        
-        [Existe algum modelo de memória RAM DDR4 que chega mais facilmente nos 4.000 MHz?](https://www.clubedohardware.com.br/forums/topic/1698059-existe-algum-modelo-de-mem%C3%B3ria-ram-ddr4-que-chega-mais-facilmente-nos-4000-mhz/?do=getNewComment "Existe algum modelo de memória RAM DDR4 que chega mais facilmente nos 4.000 MHz?")
-        
-        [Memórias (RAM)](https://www.clubedohardware.com.br/forums/forum/29-mem%C3%B3rias-ram/ "Memórias (RAM)")  
-        Por [JuniorGonçalves10](https://www.clubedohardware.com.br/profile/936863-juniorgon%C3%A7alves10/ "Ir ao perfil de JuniorGonçalves10")  
-        2 horas atrás
-        
-    * [![Kinghappy972](https://www.clubedohardware.com.br/uploads/members/monthly_2024_09/imported-photo-1221262.thumb.png.3a9c326fa315ae1c0b6f7984095cc3fa.png)](https://www.clubedohardware.com.br/profile/1221262-kinghappy972/ "Ir ao perfil de Kinghappy972")
-        
-        1
-        
-        [Placa de Vídeo para o Ryzen 5 4600g](https://www.clubedohardware.com.br/forums/topic/1698058-placa-de-v%C3%ADdeo-para-o-ryzen-5-4600g/?do=getNewComment "Placa de Vídeo para o Ryzen 5 4600g")
+        [Como ver o tempo de uso de uma placa de vídeo ?](https://www.clubedohardware.com.br/forums/topic/1698091-como-ver-o-tempo-de-uso-de-uma-placa-de-v%C3%ADdeo/?do=getNewComment "Como ver o tempo de uso de uma placa de vídeo ?")
         
         [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
-        Por [Kinghappy972](https://www.clubedohardware.com.br/profile/1221262-kinghappy972/ "Ir ao perfil de Kinghappy972")  
-        3 horas atrás
+        Por [Magnalium](https://www.clubedohardware.com.br/profile/1253299-magnalium/ "Ir ao perfil de Magnalium")  
+        1 hora atrás
         
-    * [![Amanda05](https://www.clubedohardware.com.br/uploads/members/monthly_2024_09/imported-photo-1253501.thumb.png.4f0efc80bf793497fb991faac4f7a8f9.png)](https://www.clubedohardware.com.br/profile/1253501-amanda05/ "Ir ao perfil de Amanda05")
+    * [![SickAndTired](https://www.clubedohardware.com.br/uploads/members/monthly_2024_09/imported-photo-1189696.thumb.png.7727378c92f4d5f72f58a12a4d487b35.png)](https://www.clubedohardware.com.br/profile/1189696-sickandtired/ "Ir ao perfil de SickAndTired")
         
-        10
+        3
         
-        [Monitor reiniciando em jogos](https://www.clubedohardware.com.br/forums/topic/1698057-monitor-reiniciando-em-jogos/?do=getNewComment "Monitor reiniciando em jogos")
+        [Dois monitores, apenas um reinicia sozinho](https://www.clubedohardware.com.br/forums/topic/1698089-dois-monitores-apenas-um-reinicia-sozinho/?do=getNewComment "Dois monitores, apenas um reinicia sozinho")
         
         [Monitores de vídeo](https://www.clubedohardware.com.br/forums/forum/37-monitores-de-v%C3%ADdeo/ "Monitores de vídeo")  
-        Por [Amanda05](https://www.clubedohardware.com.br/profile/1253501-amanda05/ "Ir ao perfil de Amanda05")  
+        Por [SickAndTired](https://www.clubedohardware.com.br/profile/1189696-sickandtired/ "Ir ao perfil de SickAndTired")  
+        1 hora atrás
+        
+    * [![Lucas0120](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23c4c462%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EL%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1089298-lucas0120/ "Ir ao perfil de Lucas0120")
+        
+        3
+        
+        [Teclado Machenike K500-B61 ou KBM! GAMING TG600?](https://www.clubedohardware.com.br/forums/topic/1698088-teclado-machenike-k500-b61-ou-kbm-gaming-tg600/?do=getNewComment "Teclado Machenike K500-B61 ou KBM! GAMING TG600?")
+        
+        [Teclados, mouses e controles para jogos](https://www.clubedohardware.com.br/forums/forum/62-teclados-mouses-e-controles-para-jogos/ "Teclados, mouses e controles para jogos")  
+        Por [Lucas0120](https://www.clubedohardware.com.br/profile/1089298-lucas0120/ "Ir ao perfil de Lucas0120")  
+        2 horas atrás
+        
+    * [![Calebe A Melo](https://www.clubedohardware.com.br/uploads/members/monthly_2024_09/imported-photo-1253096.thumb.png.979a3027b03df364fd4a2d114823b4c8.png)](https://www.clubedohardware.com.br/profile/1253096-calebe-a-melo/ "Ir ao perfil de Calebe A Melo")
+        
+        3
+        
+        [Monitores custo-benefício até R$ 1.000,00](https://www.clubedohardware.com.br/forums/topic/1698087-monitores-custo-benef%C3%ADcio-at%C3%A9-r-100000/?do=getNewComment "Monitores custo-benefício até R$ 1.000,00")
+        
+        [Monitores de vídeo](https://www.clubedohardware.com.br/forums/forum/37-monitores-de-v%C3%ADdeo/ "Monitores de vídeo")  
+        Por [Calebe A Melo](https://www.clubedohardware.com.br/profile/1253096-calebe-a-melo/ "Ir ao perfil de Calebe A Melo")  
+        2 horas atrás
+        
+    * [![GabrielleC](https://www.clubedohardware.com.br/uploads/members/monthly_2020_12/34199868_607531202943895_3878025477360713728_n.thumb.jpg.ff7092bf169db46cbbf3b22d981166a1.jpg)](https://www.clubedohardware.com.br/profile/788432-gabriellec/ "Ir ao perfil de GabrielleC")
+        
+        3
+        
+        [Upgrade de Ryzen 3 2200G p/ Ryzen 5 8500G + peças remanescentes p/ novo PC basic](https://www.clubedohardware.com.br/forums/topic/1698086-upgrade-de-ryzen-3-2200g-p-ryzen-5-8500g-pe%C3%A7as-remanescentes-p-novo-pc-basic/?do=getNewComment "Upgrade de Ryzen 3 2200G p/ Ryzen 5 8500G + peças remanescentes p/ novo PC basic")
+        
+        [Montagem e upgrade de computadores de mesa](https://www.clubedohardware.com.br/forums/forum/93-montagem-e-upgrade-de-computadores-de-mesa/ "Montagem e upgrade de computadores de mesa")  
+        Por [GabrielleC](https://www.clubedohardware.com.br/profile/788432-gabriellec/ "Ir ao perfil de GabrielleC")  
+        2 horas atrás
+        
+    * [![M0E](https://www.clubedohardware.com.br/uploads/members/monthly_2024_09/75a7801776d1e4d548f1bd5a46654eee.thumb.webp.c898f5cfca511b37b4ec889fcba6a8ec.webp)](https://www.clubedohardware.com.br/profile/1253512-m0e/ "Ir ao perfil de M0E")
+        
+        12
+        
+        [Fonte que suporte o Ryzen 5 3600 e Radeon RX 6600](https://www.clubedohardware.com.br/forums/topic/1698085-fonte-que-suporte-o-ryzen-5-3600-e-radeon-rx-6600/?do=getNewComment "Fonte que suporte o Ryzen 5 3600 e Radeon RX 6600")
+        
+        [Fontes e energia](https://www.clubedohardware.com.br/forums/forum/153-fontes-e-energia/ "Fontes e energia")  
+        Por [M0E](https://www.clubedohardware.com.br/profile/1253512-m0e/ "Ir ao perfil de M0E")  
+        2 horas atrás
+        
+    * [![Wesley2314](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23c47d62%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EW%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1138888-wesley2314/ "Ir ao perfil de Wesley2314")
+        
+        3
+        
+        [Tampa do slot PCI tampando placa de vídeo](https://www.clubedohardware.com.br/forums/topic/1698084-tampa-do-slot-pci-tampando-placa-de-v%C3%ADdeo/?do=getNewComment "Tampa do slot PCI tampando placa de vídeo")
+        
+        [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
+        Por [Wesley2314](https://www.clubedohardware.com.br/profile/1138888-wesley2314/ "Ir ao perfil de Wesley2314")  
+        2 horas atrás
+        
+    * [![LightsDark](https://www.clubedohardware.com.br/uploads/members/monthly_2019_04/4.thumb.jpg.cc84d88fcf2bb043ccda779d24a8557a.jpg)](https://www.clubedohardware.com.br/profile/1038029-lightsdark/ "Ir ao perfil de LightsDark")
+        
+        1
+        
+        [Qual processador usar junto com a RX 570 4GB?](https://www.clubedohardware.com.br/forums/topic/1698083-qual-processador-usar-junto-com-a-rx-570-4gb/?do=getNewComment "Qual processador usar junto com a RX 570 4GB?")
+        
+        [Processadores](https://www.clubedohardware.com.br/forums/forum/43-processadores/ "Processadores")  
+        Por [LightsDark](https://www.clubedohardware.com.br/profile/1038029-lightsdark/ "Ir ao perfil de LightsDark")  
         3 horas atrás
         
     
