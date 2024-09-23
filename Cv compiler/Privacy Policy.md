@@ -1793,6 +1793,8 @@ What do top resumes look like? Check out these expertly-written samples:
 
 [Media Producer](https://cvcompiler.com/media-producer-resume-examples)
 
+[Entry-Level System Administrator](https://cvcompiler.com/entry-level-system-administrator-resume-examples)
+
 ![Upload resume illustration](uploads-pre-acq/img/upload-illustration.svg)
 
 ### Upload  
