@@ -158,11 +158,11 @@ Regions
 
 Recent Stories
 
+[### Sri Lanka elects Marxist lawmaker as president after years of economic turmoil](https://www.csmonitor.com/World/Asia-South-Central/2024/0922/Sri-Lanka-elects-Marxist-lawmaker-as-president-after-years-of-economic-turmoil "Sri Lanka elects Marxist lawmaker as president after years of economic turmoil")
+
 [### Israeli strike on Beirut apartment kills a Hezbollah leader wanted by the US](https://www.csmonitor.com/World/Middle-East/2024/0921/Israeli-strike-on-Beirut-apartment-kills-a-Hezbollah-leader-wanted-by-the-US "Israeli strike on Beirut apartment kills a Hezbollah leader wanted by the US")
 
 [### Hezbollah and Israel exchange hundreds of missiles in worst conflict since 2006 war](https://www.csmonitor.com/World/Middle-East/2024/0920/Israel-Beirut-Hezbollah-strikes-explosions "Hezbollah and Israel exchange hundreds of missiles in worst conflict since 2006 war")
-
-[### What a Tunisian exodus says about the future of global migration](https://www.csmonitor.com/World/Middle-East/2024/0920/climate-migration-inequality-Tunisia "What a Tunisian exodus says about the future of global migration")
 
 * * *
 
