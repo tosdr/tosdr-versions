@@ -225,6 +225,7 @@ Company
 * [Careers 🚀](https://careers.doodle.com/jobs)
 * [TX Ventures](https://ventures.tx.group/)
 * [Ads on Doodle](https://doodle.com/en/contact-ads/)
+* [Sitemap](https://doodle.com/en/sitemap/1/)
 
 Product
 
