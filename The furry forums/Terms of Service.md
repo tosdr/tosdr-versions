@@ -17,12 +17,12 @@ Login with username, password and session length
 News:
 -----
 
-Join our chat room on [Discord](https://www.thefurryforum.com/forums/index.php?topic=38553.0)! We'd love to chat with you!
+Other smiley sets available - you change the species by going to **Profile > Look and Layout > Smiley Set**!
 
   
   
 
-[![Juliet](adverts/juliet.png "Juliet")](https://www.furaffinity.net/user/julietthewhitewitch)
+[![Your ad here](adverts/tff_ad_blank.jpg "Your ad here")](https://www.thefurryforum.com/forums/index.php?topic=18442.0)
 
   
 
