@@ -283,7 +283,7 @@ Reviewed on
 
 __________ 5/5
 
-[![](https://3js7c5.p3cdn1.secureserver.net/wp-content/uploads/2023/03/clutch-logo.svg)](https://clutch.co/profile/its-canada#summary)
+[![](https://3js7c5.p3cdn1.secureserver.net/wp-content/uploads/2023/03/clutch-logo.svg?time=1726880547)](https://clutch.co/profile/its-canada#summary)
 
 [Reviews](https://clutch.co/profile/its-canada#summary)
 
