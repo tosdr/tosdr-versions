@@ -238,11 +238,11 @@ Some of our posts may contain affiliate links to partner brands. We earn a small
 
 [Yes, please](https://theinspirationgrid.com/)
 
-![](https://inspgr.id/app/uploads/2019/08/product-ayaneo-am01@2x.jpg)
+![](https://inspgr.id/app/uploads/2019/08/product-ayaneo-slide@2x.jpg)
 
-[](http://ayaneo.com/partner/1pnydw34/8586265166069)
+[](http://ayaneo.com/partner/1pnydw34/8677760041205)
 
-### AYANEO Retro Mini PC AM02 – AMD Ryzen™ 7 7840HS
+### AYANEO Slide Windows Gaming Handheld With Built-in Keyboard
 
 [Gimme](https://theinspirationgrid.com/)
 
@@ -291,6 +291,18 @@ Latest
 inspiration
 -----------
 
+![](https://inspgr.id/app/uploads/2024/09/art-alejandro-monge-feature.jpg)
+
+[](https://theinspirationgrid.com/incredible-sculptural-portraits-by-alejandro-monge/)
+
+### Incredible Sculptural Portraits by Alejandro Monge
+
+![](https://inspgr.id/app/uploads/2024/09/illustration-jovana-randjelovic-feature.jpg)
+
+[](https://theinspirationgrid.com/pop-culture-inspired-portraits-by-jovana-randjelovic/)
+
+### Pop Culture-Inspired Portraits by Jovana Randjelovic
+
 ![](https://inspgr.id/app/uploads/2024/09/art-mohsen-yeganeh-feature.jpg)
 
 [](https://theinspirationgrid.com/upcycled-animal-sculptures-by-mohsen-heydari-yeganeh/)
@@ -327,18 +339,6 @@ inspiration
 
 ### Editorial Illustrations by Birgit Palma & Daniel Triendl
 
-![](https://inspgr.id/app/uploads/2024/09/art-kwangho-shin-feature.jpg)
-
-[](https://theinspirationgrid.com/expressive-portrait-paintings-by-kwangho-shin/)
-
-### Expressive Portrait Paintings by KwangHo Shin
-
-![](https://inspgr.id/app/uploads/2024/09/photography-darius-voncel-feature.jpg)
-
-[](https://theinspirationgrid.com/beauty-photography-by-darius-voncel/)
-
-### Beauty Photography by Darius Voncel
-
 Awesome products for creatives
 ------------------------------
 
@@ -352,11 +352,11 @@ Awesome products for creatives
 
 [Yes, please](https://theinspirationgrid.com/)
 
-![](https://inspgr.id/app/uploads/2019/08/product-ayaneo-am01@2x.jpg)
+![](https://inspgr.id/app/uploads/2019/08/product-ayaneo-slide@2x.jpg)
 
-[](http://ayaneo.com/partner/1pnydw34/8586265166069)
+[](http://ayaneo.com/partner/1pnydw34/8677760041205)
 
-### AYANEO Retro Mini PC AM02 – AMD Ryzen™ 7 7840HS
+### AYANEO Slide Windows Gaming Handheld With Built-in Keyboard
 
 [Gimme](https://theinspirationgrid.com/)
 
