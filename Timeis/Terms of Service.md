@@ -23,16 +23,14 @@ This site is affiliated with Freestar for the purposes of placing advertising on
 
 We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit [https://www.networkadvertising.org](https://www.networkadvertising.org/).
 
-06:18:23PM
+12:08:33AM
 
 The clock will update automatically if you turn on JavaScript in your browser.
 ------------------------------------------------------------------------------
 
-Sunday, September 22, 2024
+Monday, September 23, 2024
 
-[Equinox](https://en.wikipedia.org/wiki/Equinox) / [World Carfree Day](https://www.unep.org/news-and-stories/story/world-car-free-day-22-september-great-opportunity-reduce-air-pollution) / [World Rhino Day](https://www.worldrhinoday.org/)
-
-Sun: ↑ 06:43AM ↓ 06:54PM (12h 11m) - [More info](https://time.is/North_Bergen#time_zone) - [Make North Bergen time default](https://time.is/h/4dd937) - [Add to favorite locations](https://time.is/)
+Sun: ↑ 06:44AM ↓ 06:52PM (12h 8m) - [More info](https://time.is/North_Bergen#time_zone) - [Make North Bergen time default](https://time.is/h/4dd937) - [Add to favorite locations](https://time.is/)
 
 ×
 
