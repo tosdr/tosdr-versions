@@ -158,76 +158,76 @@ Please note that under Section 512(f) of the DMCA, any person who knowingly mate
 
 TOP NEWS
 
+* [Europe’s Leading Battery Producer Cuts 20 Percent of Staff Amid Sluggish EV Demand](https://www.theepochtimes.com/world/europes-leading-battery-producer-cuts-20-percent-of-staff-amid-sluggish-ev-demand-5728641)
+    
+    2hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
+    
+    [![Europe’s Leading Battery Producer Cuts 20 Percent of Staff Amid Sluggish EV Demand](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Europe’s Leading Battery Producer Cuts 20 Percent of Staff Amid Sluggish EV Demand](https://img.theepochtimes.com/assets/uploads/2024/09/23/id5728805-GettyImages-2105321682-LS-205x123.webp)](https://www.theepochtimes.com/world/europes-leading-battery-producer-cuts-20-percent-of-staff-amid-sluggish-ev-demand-5728641)
+* [US Sending More Troops to Middle East as Tensions Rise](https://www.theepochtimes.com/world/us-sending-more-troops-to-middle-east-as-tensions-rise-5728012)
+    
+    3hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
+    
+    [![US Sending More Troops to Middle East as Tensions Rise](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![US Sending More Troops to Middle East as Tensions Rise](https://img.theepochtimes.com/assets/uploads/2024/09/23/id5728808-Maj-SB-copy-2-205x123.jpg.webp)](https://www.theepochtimes.com/world/us-sending-more-troops-to-middle-east-as-tensions-rise-5728012)
+* [US Plans to Bring Attempted Assassination Charge Against Ryan Routh](https://www.theepochtimes.com/us/federal-judge-orders-trump-assassination-suspect-ryan-routh-held-without-bail-5728665)
+    
+    3hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips) and [T.J. Muscaro](https://www.theepochtimes.com/author/t-j-muscaro)
+    
+    [![US Plans to Bring Attempted Assassination Charge Against Ryan Routh](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![US Plans to Bring Attempted Assassination Charge Against Ryan Routh](https://img.theepochtimes.com/assets/uploads/2024/09/23/id5728819-GettyImages-ryan-routh-courthouse-2173241349-SB-205x123.jpg.webp)](https://www.theepochtimes.com/us/federal-judge-orders-trump-assassination-suspect-ryan-routh-held-without-bail-5728665)
+* [New Details Emerge on Suspect in 2nd Trump Assassination Attempt: What We Know](https://www.theepochtimes.com/us/new-details-emerge-on-suspect-in-2nd-trump-assassination-attempt-what-we-know-5728499)
+    
+    3hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
+    
+    [![New Details Emerge on Suspect in 2nd Trump Assassination Attempt: What We Know](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![New Details Emerge on Suspect in 2nd Trump Assassination Attempt: What We Know](https://img.theepochtimes.com/assets/uploads/2024/09/16/id5725002-pspspspdasdada8ds8ad8ads8-OP-205x123.jpg.webp)](https://www.theepochtimes.com/us/new-details-emerge-on-suspect-in-2nd-trump-assassination-attempt-what-we-know-5728499)
+* [CDC Reports Whooping Cough on the Rise in US: Here’s What to Know](https://www.theepochtimes.com/us/cdc-reports-whooping-cough-on-the-rise-in-us-heres-what-to-know-5728592)
+    
+    5hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
+    
+    [![CDC Reports Whooping Cough on the Rise in US: Here’s What to Know](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![CDC Reports Whooping Cough on the Rise in US: Here’s What to Know](https://img.theepochtimes.com/assets/uploads/2024/09/15/id5724641-spspspasduasdpaudsasdu-205x123.jpg.webp)](https://www.theepochtimes.com/us/cdc-reports-whooping-cough-on-the-rise-in-us-heres-what-to-know-5728592)
+* [US Proposes Ban on Chinese Vehicle Software, Hardware](https://www.theepochtimes.com/china/us-to-ban-chinese-software-hardware-in-vehicles-5728536)
+    
+    5hr By [Catherine Yang](https://www.theepochtimes.com/author/catherine-yang), Epoch Times
+    
+    [![US Proposes Ban on Chinese Vehicle Software, Hardware](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![US Proposes Ban on Chinese Vehicle Software, Hardware](https://img.theepochtimes.com/assets/uploads/2024/09/23/id5728652-GettyImages-1246288931-LS-205x123.jpg.webp)](https://www.theepochtimes.com/china/us-to-ban-chinese-software-hardware-in-vehicles-5728536)
+* [Germany’s Ruling SPD Fends Off AfD in Close State Election](https://www.theepochtimes.com/world/germanys-ruling-spd-fends-off-afd-in-close-state-election-5727546)
+    
+    6hr By [Owen Evans](https://www.theepochtimes.com/author/owen-evans)
+    
+    [![Germany’s Ruling SPD Fends Off AfD in Close State Election](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Germany’s Ruling SPD Fends Off AfD in Close State Election](https://img.theepochtimes.com/assets/uploads/2024/09/15/id5724521-German-Chancellor-Olaf-Scholz.jpg-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/world/germanys-ruling-spd-fends-off-afd-in-close-state-election-5727546)
+* [99 College Campuses Closed Over the Past Year—Is Yours Next?](https://www.theepochtimes.com/article/99-colleges-campuses-closed-over-the-past-year-is-yours-next-5727452)
+    
+    6hr By [Aaron Gifford](https://www.theepochtimes.com/author/aaron-gifford)
+    
+    [![99 College Campuses Closed Over the Past Year—Is Yours Next?](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![99 College Campuses Closed Over the Past Year—Is Yours Next?](https://img.theepochtimes.com/assets/uploads/2024/09/23/id5728588-lead_outside-205x123.jpg.webp)](https://www.theepochtimes.com/article/99-colleges-campuses-closed-over-the-past-year-is-yours-next-5727452)
 * [French Lawyer Says Telegram CEO Durov Could Wait 10 Years for Trial](https://www.theepochtimes.com/world/french-lawyer-says-telegram-ceo-durov-could-wait-10-years-for-trial-5726762)
     
-    NEW By [Chris Summers](https://www.theepochtimes.com/author/chris-summers)
+    6hr By [Chris Summers](https://www.theepochtimes.com/author/chris-summers)
     
     [![French Lawyer Says Telegram CEO Durov Could Wait 10 Years for Trial](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![French Lawyer Says Telegram CEO Durov Could Wait 10 Years for Trial](https://img.theepochtimes.com/assets/uploads/2024/09/06/id5719608-Pavel-Durov-AP24241517286465.jpg-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/world/french-lawyer-says-telegram-ceo-durov-could-wait-10-years-for-trial-5726762)
 * [France Forms Center-Right Government as Macron Blocks Left-Wing Leadership](https://www.theepochtimes.com/world/france-forms-center-right-government-as-macron-blocks-left-wing-leadership-5728370)
     
-    1hr By [Aldgra Fredly](https://www.theepochtimes.com/author/aldgra-fredly)
+    7hr By [Aldgra Fredly](https://www.theepochtimes.com/author/aldgra-fredly)
     
     [![France Forms Center-Right Government as Macron Blocks Left-Wing Leadership](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![France Forms Center-Right Government as Macron Blocks Left-Wing Leadership](https://img.theepochtimes.com/assets/uploads/2024/08/26/id5713224-Macron-GettyImages-2159723350-SB-205x123.jpg.webp)](https://www.theepochtimes.com/world/france-forms-center-right-government-as-macron-blocks-left-wing-leadership-5728370)
-* [In North Carolina, Trump Vows to Push Congress to Ban Sanctuary Cities](https://www.theepochtimes.com/us/in-north-carolina-trump-vows-to-push-congress-to-ban-sanctuary-cities-5728014)
-    
-    1hr By [Arjun Singh](https://www.theepochtimes.com/author/arjun-singh)
-    
-    [![In North Carolina, Trump Vows to Push Congress to Ban Sanctuary Cities](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![In North Carolina, Trump Vows to Push Congress to Ban Sanctuary Cities](https://img.theepochtimes.com/assets/uploads/2024/09/21/id5728065-09212024-DSC00200-Trump-205x123.jpg.webp)](https://www.theepochtimes.com/us/in-north-carolina-trump-vows-to-push-congress-to-ban-sanctuary-cities-5728014)
-* [Trump Suspect Ryan Routh Left Note: ‘This Was an Assassination Attempt’](https://www.theepochtimes.com/us/trump-suspect-ryan-routh-allegedly-left-note-this-was-an-assassination-attempt-5728525)
-    
-    2hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
-    
-    [![Trump Suspect Ryan Routh Left Note: ‘This Was an Assassination Attempt’](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Trump Suspect Ryan Routh Left Note: ‘This Was an Assassination Attempt’](https://img.theepochtimes.com/assets/uploads/2024/09/16/id5725255-Ryan-Wesley-Routh-in-Ukraine-2022KO-205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-suspect-ryan-routh-allegedly-left-note-this-was-an-assassination-attempt-5728525)
-* [Lebanon Says Almost 200 Dead as Israel Strikes Hundreds of Hezbollah Targets](https://www.theepochtimes.com/world/israel-tells-lebenese-citizens-to-flee-homes-used-to-store-hezbollah-weapons-5728452)
-    
-    5hr By [Guy Birchall](https://www.theepochtimes.com/author/guy-birchall)
-    
-    [![Lebanon Says Almost 200 Dead as Israel Strikes Hundreds of Hezbollah Targets](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Lebanon Says Almost 200 Dead as Israel Strikes Hundreds of Hezbollah Targets](https://img.theepochtimes.com/assets/uploads/2024/09/23/id5728502-GettyImages-2172592335-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/world/israel-tells-lebenese-citizens-to-flee-homes-used-to-store-hezbollah-weapons-5728452)
-* [Marxist Dissayanake Sworn in as Sri Lankan President After Election Victory](https://www.theepochtimes.com/world/marxist-dissayanake-sworn-in-as-sri-lankan-president-after-election-victory-5728454)
-    
-    6hr By [Chris Summers](https://www.theepochtimes.com/author/chris-summers)
-    
-    [![Marxist Dissayanake Sworn in as Sri Lankan President After Election Victory](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Marxist Dissayanake Sworn in as Sri Lankan President After Election Victory](https://img.theepochtimes.com/assets/uploads/2024/09/23/id5728523-APTOPIX_Sri_Lanka_Election_24266635748587-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/world/marxist-dissayanake-sworn-in-as-sri-lankan-president-after-election-victory-5728454)
-* [California Should Reconsider Plan to Release Billions of Gallons of Water Into the Ocean: Expert](https://www.theepochtimes.com/us/california-should-reconsider-plan-to-release-billions-of-gallons-of-water-into-the-ocean-expert-5727741)
-    
-    7hr By [Sophie Li](https://www.theepochtimes.com/author/sophie-li)
-    
-    [![California Should Reconsider Plan to Release Billions of Gallons of Water Into the Ocean: Expert](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![California Should Reconsider Plan to Release Billions of Gallons of Water Into the Ocean: Expert](https://img.theepochtimes.com/assets/uploads/2024/09/23/id5728524-GettyImages-1232098462-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/california-should-reconsider-plan-to-release-billions-of-gallons-of-water-into-the-ocean-expert-5727741)
-* [Lufthansa Considers Canceling Frankfurt-Beijing Route Due to Unequal Competition](https://www.theepochtimes.com/china/lufthansa-considers-canceling-frankfurt-beijing-route-due-to-unequal-competition-5728213)
-    
-    7hr By [Alex Wu](https://www.theepochtimes.com/author/alex-wu)
-    
-    [![Lufthansa Considers Canceling Frankfurt-Beijing Route Due to Unequal Competition](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Lufthansa Considers Canceling Frankfurt-Beijing Route Due to Unequal Competition](https://img.theepochtimes.com/assets/uploads/2020/03/02/CHINA-HEALTH-AIRLINES-205x123.jpg.webp)](https://www.theepochtimes.com/china/lufthansa-considers-canceling-frankfurt-beijing-route-due-to-unequal-competition-5728213)
-* [Biden Tells Quad Leaders at Summit China Is ‘Testing Us’](https://www.theepochtimes.com/world/biden-tells-quad-leaders-at-summit-china-is-testing-us-5728170)
-    
-    17hr By [Frank Fang](https://www.theepochtimes.com/author/frank-fang), Epoch Times
-    
-    [![Biden Tells Quad Leaders at Summit China Is ‘Testing Us’](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Biden Tells Quad Leaders at Summit China Is ‘Testing Us’](https://img.theepochtimes.com/assets/uploads/2024/09/22/id5728349-GettyImages-2172751088KO-205x123.jpg.webp)](https://www.theepochtimes.com/world/biden-tells-quad-leaders-at-summit-china-is-testing-us-5728170)
-* [Day in Photos: Israel-Hezbollah Conflict, German Elections, Hunting Season](https://www.theepochtimes.com/article/day-in-photos-israel-hezbollah-conflict-german-elections-hunting-season-5728234)
-    
-    17hr By [Epoch Times Staff](https://www.theepochtimes.com/author/epoch-times-staff)
-    
-    [![Day in Photos: Israel-Hezbollah Conflict, German Elections, Hunting Season](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Day in Photos: Israel-Hezbollah Conflict, German Elections, Hunting Season](https://img.theepochtimes.com/assets/uploads/2024/09/22/id5728258-GettyImages-2172867778-sb-205x123.jpg.webp)](https://www.theepochtimes.com/article/day-in-photos-israel-hezbollah-conflict-german-elections-hunting-season-5728234)
 
 [![The Epoch Times](https://www.theepochtimes.com/assets/themes/eet/images/logo_eet.svg)](https://www.theepochtimes.com/)
 
