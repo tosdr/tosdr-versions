@@ -88,7 +88,7 @@ Jun **14**
 * [Jun 14, 2024](https://papermc.io/threads/1-21.1221/)
 * [PaperMC](https://papermc.io/home/authors/papermc.44/)
 
-* 8,064
+* 8,075
 * 2
 
 ### The 1.21 Update​
@@ -204,7 +204,7 @@ May **28**
 * [May 28, 2024](https://papermc.io/threads/paper-velocity-1-20-6.1152/)
 * [PaperMC](https://papermc.io/home/authors/papermc.44/)
 
-* 7,717
+* 7,721
 * 6
 
 ### The 1.20.5/6 Update​
@@ -302,7 +302,7 @@ Mar **26**
 * [Mar 26, 2024](https://papermc.io/threads/announcing-the-end-of-life-of-waterfall.1088/)
 * [PaperMC](https://papermc.io/home/authors/papermc.44/)
 
-* 16,585
+* 16,588
 * 10
 
 Announcing the end of life of Waterfall​
@@ -340,7 +340,7 @@ Mar **22**
 * [Mar 22, 2024](https://papermc.io/threads/important-dev-psa-future-removal-of-cb-package-relocation.1106/)
 * [PaperMC](https://papermc.io/home/authors/papermc.44/)
 
-* 13,875
+* 13,878
 * 12
 
 ### Future removal of CB package relocation + moving away from obfuscation at runtime​
@@ -438,7 +438,7 @@ Dec **31**
 * [Dec 31, 2023](https://papermc.io/threads/new-years-post.1009/)
 * [PaperMC](https://papermc.io/home/authors/papermc.44/)
 
-* 22,500
+* 22,515
 * 6
 
 Happy New Year from PaperMC!​
@@ -582,7 +582,7 @@ Dec **25**
 * [Dec 25, 2023](https://papermc.io/threads/paper-velocity-1-20-4.998/)
 * [PaperMC](https://papermc.io/home/authors/papermc.44/)
 
-* 8,149
+* 8,151
 * 1
 
 ### The 1.20.4 Update​
@@ -761,7 +761,7 @@ Jun **11**
 * [Jun 11, 2023](https://papermc.io/threads/paper-velocity-1-20-1.783/)
 * [PaperMC](https://papermc.io/home/authors/papermc.44/)
 
-* 13,191
+* 13,194
 * 9
 
 ### The 1.20(.1) Update​
@@ -882,7 +882,7 @@ Mar **15**
 * [Mar 15, 2023](https://papermc.io/threads/paper-velocity-1-19-4.680/)
 * [PaperMC](https://papermc.io/home/authors/papermc.44/)
 
-* 8,028
+* 8,031
 * 3
 
 ### The 1.19.4 Update​
@@ -954,7 +954,7 @@ Dec **11**
 * [Dec 11, 2022](https://papermc.io/threads/paper-velocity-1-19-3.592/)
 * [PaperMC](https://papermc.io/home/authors/papermc.44/)
 
-* 13,490
+* 13,492
 * 1
 
 ### The 1.19.3 Update​
@@ -1002,7 +1002,7 @@ Sep **29**
 * [Sep 29, 2022](https://papermc.io/threads/malware-announcement.529/)
 * [PaperMC](https://papermc.io/home/authors/papermc.44/)
 
-* 34,799
+* 34,800
 * 22
 
 We've seen a lot of reports of a new malware going around Minecraft servers. It seems to be spread by compromised Spigot plugin-author accounts, and is somewhat difficult to detect. We do know that the following exception is caused by it:  
@@ -1094,7 +1094,7 @@ Jun **12**
 * [Jun 12, 2022](https://papermc.io/threads/paper-1-19.344/)
 * [PaperMC](https://papermc.io/home/authors/papermc.44/)
 
-* 36,993
+* 36,994
 * 18
 
 ### The 1.19 Update​
@@ -1217,7 +1217,7 @@ Jan **04**
 * [Jan 4, 2022](https://papermc.io/threads/paper-1-18-and-more.6/)
 * [PaperMC](https://papermc.io/home/authors/papermc.44/)
 
-* 23,818
+* 23,820
 * 17
 
 ### The 1.18 update​
@@ -1295,7 +1295,7 @@ Dec **14**
 * [Dec 14, 2021](https://papermc.io/threads/welcome-to-papermc.1/)
 * [kashike](https://papermc.io/home/authors/kashike.1/)
 
-* 8,627
+* 8,628
 * 2
 
 [![kashike](https://secure.gravatar.com/avatar/c50766d24721f3cdd0ff9e8ead43134b?s=48)](https://papermc.io/members/kashike.1/)
@@ -1316,9 +1316,9 @@ Overall, PaperMC is a community that's excited about Minecraft software and maki
 
 ### [Members online](https://papermc.io/online/)
 
-No members online now.
+* [mvzraw](https://papermc.io/members/mvzraw.11242/)
 
-Total: 22 (members: 0, guests: 22)
+Total: 21 (members: 1, guests: 20)
 
 ### [Latest posts](https://papermc.io/whats-new/posts/?skip=1)
 
@@ -1329,7 +1329,7 @@ Total: 22 (members: 0, guests: 22)
 Question [PaperMC setup process like Vanilla](https://papermc.io/threads/papermc-setup-process-like-vanilla.1353/)
 
 * [RubixxCube](https://papermc.io/members/rubixxcube.11217/)
-* [Yesterday at 2:05 PM](https://papermc.io/threads/papermc-setup-process-like-vanilla.1353/)
+* [Saturday at 2:05 PM](https://papermc.io/threads/papermc-setup-process-like-vanilla.1353/)
 * [Help](https://papermc.io/forums/paper-help/)
 
 Replies
@@ -1338,9 +1338,9 @@ Replies
 
 Views
 
-48
+54
 
-[Help](https://papermc.io/forums/paper-help/) [Yesterday at 2:18 PM](https://papermc.io/threads/papermc-setup-process-like-vanilla.1353/latest)
+[Help](https://papermc.io/forums/paper-help/) [Saturday at 2:18 PM](https://papermc.io/threads/papermc-setup-process-like-vanilla.1353/latest)
 
 [RubixxCube](https://papermc.io/members/rubixxcube.11217/)
 
@@ -1353,7 +1353,7 @@ Views
 Question [Cannot resolve symbol 'ItemGroupEvents'](https://papermc.io/threads/cannot-resolve-symbol-itemgroupevents.1351/)
 
 * [xiaoliuprogramer](https://papermc.io/members/xiaoliuprogramer.11210/)
-* [Yesterday at 7:53 AM](https://papermc.io/threads/cannot-resolve-symbol-itemgroupevents.1351/)
+* [Saturday at 7:53 AM](https://papermc.io/threads/cannot-resolve-symbol-itemgroupevents.1351/)
 * [Help](https://papermc.io/forums/paper-help/)
 
 Replies
@@ -1362,9 +1362,9 @@ Replies
 
 Views
 
-53
+56
 
-[Help](https://papermc.io/forums/paper-help/) [Yesterday at 12:41 PM](https://papermc.io/threads/cannot-resolve-symbol-itemgroupevents.1351/latest)
+[Help](https://papermc.io/forums/paper-help/) [Saturday at 12:41 PM](https://papermc.io/threads/cannot-resolve-symbol-itemgroupevents.1351/latest)
 
 [xiaoliuprogramer](https://papermc.io/members/xiaoliuprogramer.11210/)
 
@@ -1377,7 +1377,7 @@ Views
 Question [Connection to Server suddenly failed](https://papermc.io/threads/connection-to-server-suddenly-failed.1352/)
 
 * [BrOJa](https://papermc.io/members/broja.11215/)
-* [Yesterday at 11:48 AM](https://papermc.io/threads/connection-to-server-suddenly-failed.1352/)
+* [Saturday at 11:48 AM](https://papermc.io/threads/connection-to-server-suddenly-failed.1352/)
 * [Help](https://papermc.io/forums/paper-help/)
 
 Replies
@@ -1386,9 +1386,9 @@ Replies
 
 Views
 
-44
+46
 
-[Help](https://papermc.io/forums/paper-help/) [Yesterday at 11:48 AM](https://papermc.io/threads/connection-to-server-suddenly-failed.1352/latest)
+[Help](https://papermc.io/forums/paper-help/) [Saturday at 11:48 AM](https://papermc.io/threads/connection-to-server-suddenly-failed.1352/latest)
 
 [BrOJa](https://papermc.io/members/broja.11215/)
 
@@ -1411,7 +1411,7 @@ Replies
 
 Views
 
-72
+73
 
 [Help](https://papermc.io/forums/paper-help/) [Friday at 6:15 PM](https://papermc.io/threads/error-in-papermc-after-it-was-shutdown-midway-turning-on.1350/latest)
 
@@ -1426,7 +1426,7 @@ Views
 Question [Server switch sign](https://papermc.io/threads/server-switch-sign.1348/)
 
 * [VoidableMoon](https://papermc.io/members/voidablemoon.5610/)
-* [Monday at 4:48 PM](https://papermc.io/threads/server-switch-sign.1348/)
+* [Sep 16, 2024](https://papermc.io/threads/server-switch-sign.1348/)
 * [Help](https://papermc.io/forums/velocity-help/)
 
 Replies
@@ -1437,7 +1437,7 @@ Views
 
 86
 
-[Help](https://papermc.io/forums/velocity-help/) [Monday at 4:48 PM](https://papermc.io/threads/server-switch-sign.1348/latest)
+[Help](https://papermc.io/forums/velocity-help/) [Sep 16, 2024](https://papermc.io/threads/server-switch-sign.1348/latest)
 
 [VoidableMoon](https://papermc.io/members/voidablemoon.5610/)
 
@@ -1459,7 +1459,7 @@ Replies
 
 Views
 
-146
+150
 
 [Help](https://papermc.io/forums/velocity-help/) [Sep 15, 2024](https://papermc.io/threads/getting-error-java-lang-illegalstateexception-backend-server-is-online-mode-no-matter-what-i-do.1342/latest)
 
@@ -1481,7 +1481,7 @@ Replies
 
 Views
 
-134
+135
 
 [Plugin Development](https://papermc.io/forums/paper-plugin-development/) [Sep 14, 2024](https://papermc.io/threads/making-an-entity-lie-down.1341/latest)
 
@@ -1505,7 +1505,7 @@ Replies
 
 Views
 
-122
+124
 
 [Help](https://papermc.io/forums/velocity-help/) [Sep 12, 2024](https://papermc.io/threads/stuck-on-joining-world.1340/latest)
 
@@ -1527,7 +1527,7 @@ Replies
 
 Views
 
-182
+186
 
 [Discussion](https://papermc.io/forums/paper-discussion/) [Sep 11, 2024](https://papermc.io/threads/talk-about-why-update-folia-to-1-21-is-not-yet.1339/latest)
 
@@ -1549,7 +1549,7 @@ Replies
 
 Views
 
-141
+142
 
 [Plugin Development](https://papermc.io/forums/paper-plugin-development/) [Sep 11, 2024](https://papermc.io/threads/change-nickname-for-all-in-server.1338/latest)
 
