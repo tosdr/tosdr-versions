@@ -263,7 +263,7 @@ Select State\*AlabamaAlaskaArizonaArkansasCaliforniaColoradoConnecticutDelawareD
 
 Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. They may contact me by email or telephone (including phone calls, text messages, autodialed / auto-selected or pre-recorded calls). I understand that message and data rates may apply and that consent to such contact is not required for use of these services. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), [Anti Fraud Policy](https://www.pintas.com/anti-fraud-policy/)[Anti Fraud Policy](https://www.pintas.com/anti-fraud-policy-pr/) and [online Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/), including its mandatory arbitration provision. I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
 
-Email
+Phone
 
 This field is for validation purposes and should be left unchanged.
 
@@ -273,17 +273,17 @@ This field is for validation purposes and should be left unchanged.
 
 #### Frequently Asked Questions
 
-[![What are the rights of assisted living residents?](https://www.pintas.com/wp-content/uploads/2021/03/happy-elderly-patient-sitting-with-happy-nurse-300x200.jpg "What are the Rights of Assisted Living Residents?")](https://www.pintas.com/faq/what-are-the-rights-of-assisted-living-residents/ "What are the Rights of Assisted Living Residents?")
+[![Can i file a sex abuse claim against the mormon church anonymously?](https://www.pintas.com/wp-content/uploads/2023/04/general-mormon-2-300x201.jpg "Can I File a Sex Abuse Claim Against the Mormon Church Anonymously?")](https://www.pintas.com/lawsuit/mormon-church-sex-abuse/can-i-file-a-sexual-abuse-claim-against-the-mormon-church-anonymously/ "Can I File a Sex Abuse Claim Against the Mormon Church Anonymously?")
 
-[#### What are the Rights of Assisted Living Residents?](https://www.pintas.com/faq/what-are-the-rights-of-assisted-living-residents/)
+[#### Can I File a Sex Abuse Claim Against the Mormon Church Anonymously?](https://www.pintas.com/lawsuit/mormon-church-sex-abuse/can-i-file-a-sexual-abuse-claim-against-the-mormon-church-anonymously/)
 
-[![What are the signs of elder abuse in seniors with dementia?](https://www.pintas.com/wp-content/uploads/2021/01/practice-areas-personal-injury-assisted-living-accident-lawyer-what-are-the-signs-of-elder-abuse-in-seniors-with-dementia.jpg "What Are the Signs of Elder Abuse in Seniors with Dementia?")](https://www.pintas.com/faq/what-are-the-signs-of-elder-abuse-in-seniors-with-dementia/ "What Are the Signs of Elder Abuse in Seniors with Dementia?")
+[![What is the cancer causing ingredient in johnson & johnson?](https://www.pintas.com/wp-content/uploads/2020/07/talcum-powder-what-is-the-cancer-causing-ingredient-in-johnson-and-johnson-scaled.jpg "What Is the Cancer Causing Ingredient in Johnson & Johnson?")](https://www.pintas.com/lawsuit/johnson-and-johnson-talcum-powder/cancer-causing-ingredient-in-talcum-powder "What Is the Cancer Causing Ingredient in Johnson & Johnson?")
 
-[#### What Are the Signs of Elder Abuse in Seniors with Dementia?](https://www.pintas.com/faq/what-are-the-signs-of-elder-abuse-in-seniors-with-dementia/)
+[#### What Is the Cancer Causing Ingredient in Johnson & Johnson?](https://www.pintas.com/lawsuit/johnson-and-johnson-talcum-powder/cancer-causing-ingredient-in-talcum-powder)
 
-[![What is the treatment for bedsores?](https://www.pintas.com/wp-content/uploads/2020/09/nursing-home-abuse-lawyer-what-is-the-treatment-for-bedsores-scaled.jpg "What Is the Treatment for Bedsores?")](https://www.pintas.com/faq/what-is-the-treatment-for-bedsores/ "What Is the Treatment for Bedsores?")
+[![Can you sue for ovarian cancer caused by talcum powder?](https://www.pintas.com/wp-content/uploads/2020/07/johnson-and-johnson-talcum-powder-lawsuit-lawyer-can-you-sue-for-ovarian-cancer-caused-by-talcum-powder-scaled.jpg "Can You Sue for Ovarian Cancer Caused By Talcum Powder?")](https://www.pintas.com/johnson-and-johnson-talcum-powder-lawsuit-lawyer/can-you-sue-for-ovarian-cancer-caused-by-talcum-powder/ "Can You Sue for Ovarian Cancer Caused By Talcum Powder?")
 
-[#### What Is the Treatment for Bedsores?](https://www.pintas.com/faq/what-is-the-treatment-for-bedsores/)
+[#### Can You Sue for Ovarian Cancer Caused By Talcum Powder?](https://www.pintas.com/johnson-and-johnson-talcum-powder-lawsuit-lawyer/can-you-sue-for-ovarian-cancer-caused-by-talcum-powder/)
 
 ### Injured?  
 Tell Us What Happened.
@@ -306,7 +306,7 @@ message
 
 Yes. Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. They may contact me by email or telephone (including phone calls, text messages, autodialed / auto-selected or pre-recorded calls). I understand that message and data rates may apply and that consent to such contact is not required for use of these services. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/), [Anti Fraud Policy](https://www.pintas.com/anti-fraud-policy/) and [online Terms](https://www.pintas.com/website-terms-of-use/), including its mandatory arbitration provision.
 
-Phone
+Name
 
 This field is for validation purposes and should be left unchanged.
 
