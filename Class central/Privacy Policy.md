@@ -413,38 +413,38 @@ Class Central experiments with cataloging online courses from California Communi
 Most common
 -----------
 
-1. machine learning
+1. psychology
     
-2. French
+2. javascript
     
-3. flutter
+3. finance
     
 
 Popular subjects
 ----------------
 
-1. [Artificial Intelligence
+1. [Computer Science
     
-    9,301 courses](https://www.classcentral.com/subject/ai)
+    31,681 courses](https://www.classcentral.com/subject/cs)
 2. [Communication Skills
     
     3,891 courses](https://www.classcentral.com/subject/communication-skills)
-3. [Digital Marketing
+3. [Software Development
     
-    5,788 courses](https://www.classcentral.com/subject/digital-marketing)
+    7,961 courses](https://www.classcentral.com/subject/software-development)
 
 Popular courses
 ---------------
 
-1. [Introduction to HTML5
+1. [Divide and Conquer, Sorting and Searching, and Randomized Algorithms
     
-    University of Michigan](https://www.classcentral.com/course/introhtml-4307)
-2. [Modelli di insegnamento nella ricerca educativa
+    Stanford University](https://www.classcentral.com/course/algorithms-divide-conquer-374)
+2. [Inglés básico: conversacional y networking
     
-    University of Naples Federico II](https://www.classcentral.com/course/education-universita-degli-studi-di-napoli-federi-11405)
-3. [Mindshift: Break Through Obstacles to Learning and Discover Your Hidden Potential
+    Universidad Anáhuac](https://www.classcentral.com/course/english-universidades-anahuac-ingles-basico-conve-19170)
+3. [Nutrition, Exercise and Sports
     
-    McMaster University](https://www.classcentral.com/course/mindshift-8289)
+    Wageningen University](https://www.classcentral.com/course/nutrition-wageningen-university-research-nutritio-14381)
 
 ![](https://ccweb.imgix.net/https%3A%2F%2Fwww.classcentral.com%2Fimages%2Flists%2Flist-empty.png?auto=format&ixlib=php-4.1.0&w=100&s=d64b43c1b6dcf041e56fce6ac1794fcf)
 
