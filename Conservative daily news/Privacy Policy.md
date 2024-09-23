@@ -2,14 +2,14 @@ Sunday, September 22 2024
 
 Breaking News
 
+* [Democrats Want ‘Climate Literacy’ In Schools As Actual Literacy Slips](https://www.conservativedailynews.com/2024/09/democrats-want-climate-literacy-in-schools-as-actual-literacy-slips/)
+* [Does Anybody Want To Win This Thing?](https://www.conservativedailynews.com/2024/09/does-anybody-want-to-win-this-thing/)
 * [Steve Kornacki Describes Massive ‘Gender Gap’ Between Trump, Harris In New Poll](https://www.conservativedailynews.com/2024/09/steve-kornacki-describes-massive-gender-gap-between-trump-harris-in-new-poll/)
 * [Biden Stumbles Towards World War III](https://www.conservativedailynews.com/2024/09/biden-stumbles-towards-world-war-iii/)
 * [We Are Being “Punked” By Kamala And Crew](https://www.conservativedailynews.com/2024/09/we-are-being-punked-by-kamala-and-crew/)
 * [John Fetterman Admits Trump Has ‘Special’ Bond With Key Swing-State Voters](https://www.conservativedailynews.com/2024/09/john-fetterman-admits-trump-has-special-bond-with-key-swing-state-voters/)
 * [Gender Ideology Is The New ‘Parental Alienation’](https://www.conservativedailynews.com/2024/09/gender-ideology-is-the-new-parental-alienation/)
 * [Defense Secretary’s Last-Minute Decision To Toss 9/11 Plea Deal Likely To Be Rejected By Judge](https://www.conservativedailynews.com/2024/09/defense-secretarys-last-minute-decision-to-toss-9-11-plea-deal-likely-to-be-rejected-by-judge/)
-* [Battleground Voters Don’t Trust Harris — She Seems Phony](https://www.conservativedailynews.com/2024/09/battleground-voters-dont-trust-harris-she-seems-phony/)
-* [Chris Cuomo Fact-Checks AOC Over Israeli Pager Attack](https://www.conservativedailynews.com/2024/09/chris-cuomo-fact-checks-aoc-over-israeli-pager-attack/)
 
 * [Sidebar](#)
 * [Random Article](https://www.conservativedailynews.com/privacy-policy/?random-post=1 "Random Article")
@@ -126,6 +126,18 @@ Created using the Donation Thermometer plugin https://wordpress.org/plugins/dona
 
 Recent Posts
 
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2019/01/Classroom.jpg)](https://www.conservativedailynews.com/2024/09/democrats-want-climate-literacy-in-schools-as-actual-literacy-slips/)
+    
+    [Democrats Want ‘Climate Literacy’ In Schools As Actual Literacy Slips](https://www.conservativedailynews.com/2024/09/democrats-want-climate-literacy-in-schools-as-actual-literacy-slips/)
+    
+    September 22, 2024
+    
+* [![Kamala Harris Donald Trump 2024 election platforms](https://www.conservativedailynews.com/wp-content/uploads/2024/09/04-platforms-sm-1080-220x150.jpg)](https://www.conservativedailynews.com/2024/09/does-anybody-want-to-win-this-thing/)
+    
+    [Does Anybody Want To Win This Thing?](https://www.conservativedailynews.com/2024/09/does-anybody-want-to-win-this-thing/)
+    
+    September 22, 2024
+    
 * [![Kamala Harris price controls bread line](https://www.conservativedailynews.com/wp-content/uploads/2024/09/gv092224dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/09/bad-ideas/)
     
     [Bad Ideas](https://www.conservativedailynews.com/2024/09/bad-ideas/)
@@ -159,18 +171,6 @@ Recent Posts
 * [![](https://www.conservativedailynews.com/wp-content/uploads/2023/04/02-kidsgender-an-1080.jpg)](https://www.conservativedailynews.com/2024/09/gender-ideology-is-the-new-parental-alienation/)
     
     [Gender Ideology Is The New ‘Parental Alienation’](https://www.conservativedailynews.com/2024/09/gender-ideology-is-the-new-parental-alienation/)
-    
-    September 22, 2024
-    
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/09/04-hezcom-ci-1080-220x150.jpg)](https://www.conservativedailynews.com/2024/09/hezbollah-leaders-killed-in-israeli-air-strike-on-beirut/)
-    
-    [Hezbollah Leaders Killed In Israeli Air Strike On Beirut](https://www.conservativedailynews.com/2024/09/hezbollah-leaders-killed-in-israeli-air-strike-on-beirut/)
-    
-    September 22, 2024
-    
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2020/12/Lloyd-Austin-220x150.jpg)](https://www.conservativedailynews.com/2024/09/defense-secretarys-last-minute-decision-to-toss-9-11-plea-deal-likely-to-be-rejected-by-judge/)
-    
-    [Defense Secretary’s Last-Minute Decision To Toss 9/11 Plea Deal Likely To Be Rejected By Judge](https://www.conservativedailynews.com/2024/09/defense-secretarys-last-minute-decision-to-toss-9-11-plea-deal-likely-to-be-rejected-by-judge/)
     
     September 22, 2024
     
