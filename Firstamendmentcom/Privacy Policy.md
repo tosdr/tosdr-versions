@@ -292,15 +292,19 @@ Lawyers and free speech advocates. IP, gaming, adult, and First Amendment law.
 
 ![WaltersLawGroup](https://pbs.twimg.com/profile_images/1639690830/40482_141262409241305_114671631900383_269027_5869480_n_normal.jpg)](https://twitter.com/WaltersLawGroup/ "@WaltersLawGroup")
 
-[![walterslawgroup](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2048%2048'%3E%3C/svg%3E)
+[Retweet on Twitter](https://twitter.com/intent/user?screen_name=WaltersLawGroup) [Walters Law Group Retweeted](https://twitter.com/walterslawgroup)
 
-![walterslawgroup](https://pbs.twimg.com/profile_images/1639690830/40482_141262409241305_114671631900383_269027_5869480_n_normal.jpg)](https://twitter.com/walterslawgroup)[Walters Law Group](https://twitter.com/walterslawgroup) [@walterslawgroup](https://twitter.com/walterslawgroup) ·
+[![woodhullfreedom](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2048%2048'%3E%3C/svg%3E)
 
-[11 Sep](https://twitter.com/walterslawgroup/status/1833685760824021136)
+![woodhullfreedom](https://pbs.twimg.com/profile_images/1760027487927476224/TzyNxg6s_normal.jpg)](https://twitter.com/woodhullfreedom)[Woodhull Freedom Foundation](https://twitter.com/woodhullfreedom) [@woodhullfreedom](https://twitter.com/woodhullfreedom) ·
 
-LAWSUIT: Arizona mom sues city after arrest for criticizing government lawyer’s pay
+[17 Sep](https://twitter.com/woodhullfreedom/status/1836140670689460479)
 
-[Reply on Twitter 1833685760824021136](https://twitter.com/intent/tweet?in_reply_to=1833685760824021136&related=walterslawgroup) [Retweet on Twitter 1833685760824021136](https://twitter.com/intent/retweet?tweet_id=1833685760824021136&related=walterslawgroup) [Like on Twitter 1833685760824021136 1](https://twitter.com/intent/like?tweet_id=1833685760824021136&related=walterslawgroup) [Twitter 1833685760824021136](https://twitter.com/walterslawgroup/status/1833685760824021136)
+Sexual freedom in the digital age represents a complex interplay of liberation and censorship, deeply influenced by technological advancements and cultural shifts. Let's talk about it!  
+  
+Join us on 9/27: https://www.eventbrite.com/e/sexual-freedom-in-the-digital-age-tickets-1003039697737
+
+[Reply on Twitter 1836140670689460479](https://twitter.com/intent/tweet?in_reply_to=1836140670689460479&related=woodhullfreedom) [Retweet on Twitter 1836140670689460479 2](https://twitter.com/intent/retweet?tweet_id=1836140670689460479&related=woodhullfreedom) [Like on Twitter 1836140670689460479 6](https://twitter.com/intent/like?tweet_id=1836140670689460479&related=woodhullfreedom) [Twitter 1836140670689460479](https://twitter.com/woodhullfreedom/status/1836140670689460479)
 
 [Load More](javascript:void(0);)
 
