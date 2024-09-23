@@ -8,8 +8,6 @@
 
    
 
-**Important reminder:** The 2024-25 V Cert Non-Examined Assessment (NEA) brief for our Level 1/2 Technical Award qualifications will be released on 1 October 2024. [Find out more](https://www.ncfe.org.uk/customer-and-learner-support/service-messages/ "Service messages").
-
  [![NCFE](/_res/dist/img/logos/VerticalLogo.svg?v=1141) ![NCFE](/_res/dist/img/logos/LogoN.svg?v=1141)](https://www.ncfe.org.uk/)
 
 * [Qualifications](https://www.ncfe.org.uk/qualifications/)
