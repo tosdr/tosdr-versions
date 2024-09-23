@@ -128,39 +128,39 @@ Advertisement
     The Beginning and the End of the Universe
     
     Episode 1: The BeginingEmbarking on a cosmic journey, Professor Jim Al-Khalili transports us through the corridors of time to confront science's most profound inquiry: the genesis of the univers...](https://documentaryheaven.com/the-beginning-and-the-end-of-the-universe/ "The Beginning and the End of the Universe")
-* [![EP 4/6 The Private Life of Plants](/wp-content/thumbnails/2493-100x70.jpg?x53432)
+* [![National Security Alert](/wp-content/thumbnails/933-100x70.jpg?x53432)
     
-    EP 4/6 The Private Life of Plants
+    National Security Alert
     
-    Broadcast 26 January 1995, this episode examines how plants either share environments harmoniously or compete for dominance within them. Attenborough highlights the 1987 hurricane and the devastation ...](https://documentaryheaven.com/the-private-life-of-plants-4/ "EP 4/6 The Private Life of Plants")
+    In 2006 Citizen Investigation Team launched an independent investigation into the act of terrorism which took place at the Pentagon on September 11, 2001. This exhaustive three-year inquest involved ...](https://documentaryheaven.com/national-security-alert/ "National Security Alert")
 
 ###### Throwback Documentaries
 
-* [![Beyond Me](/wp-content/thumbnails/6921-100x70.jpeg?x53432)
+* [![Peace, Propaganda & The Promised Land](/wp-content/thumbnails/8800-100x70.png?x53432)
     
-    Beyond Me
+    Peace, Propaganda & The Promised Land
     
-    From the author: This is a documentary I’ve produced that is about consciousness, evolution and instincts.Sor far, I’m receiving one of two different reactions to this film. There’s not a lot of mid](https://documentaryheaven.com/beyond-me/ "Beyond Me")
-* [![Daredevils: The Human Spider Returns](/wp-content/thumbnails/5875-100x70.jpg?x53432)
+    Peace, Propaganda & the Promised Land is a 2004 documentary by Sut Jhally and Bathsheba Ratzkoff which—according to the film's official website—"provides a striking compar](https://documentaryheaven.com/peace-propaganda-promised-land/ "Peace, Propaganda & The Promised Land")
+* [![Exit Through the Gift Shop](/wp-content/thumbnails/5100-100x70.jpg?x53432)
     
-    Daredevils: The Human Spider Returns
+    Exit Through the Gift Shop
     
-    Alain Robert is known to the world as The Human Spider and is arguably the most daring climber the world has ever seen. This film follows Alain over two years, bringing his story up to date with new,](https://documentaryheaven.com/daredevils-the-human-spider-returns/ "Daredevils: The Human Spider Returns")
-* [![History of Video Games](/wp-content/thumbnails/4091-100x70.jpg?x53432)
+    Exit Through the Gift Shop: The story of how an eccentric French shop keeper and amateur film maker attempted to locate and befriend Banksy, only to have the artist turn the camera back on its owner w](https://documentaryheaven.com/exit-through-the-gift-shop/ "Exit Through the Gift Shop")
+* [![American Meth](/wp-content/thumbnails/5601-100x70.jpg?x53432)
     
-    History of Video Games
+    American Meth
     
-    The origin of video games lies in early cathode ray tube-based missile defense systems in the late 1940s. These programs were later adapted into other simple games during the 1950s. By the late 1950s](https://documentaryheaven.com/history-of-video-games/ "History of Video Games")
-* [![Race To The Bottom: Ireland](/wp-content/thumbnails/7053-100x70.jpg?x53432)
+    American Meth is a cross-country journey that focuses on several facets of the methamphetamine epidemic. From the oil fields of Wyoming and New Mexico to the homeless in Portland and the teens of Mont](https://documentaryheaven.com/american-meth/ "American Meth")
+* [![Strangeways](/wp-content/thumbnails/5900-100x70.jpg?x53432)
     
-    Race To The Bottom: Ireland
+    Strangeways
     
-    This film delves into Irish horsemeat scandal, revealing a systematic criminal harvest of thousands of horses, which netted millions and stretches well beyond Ireland’s borders.When Ireland’s Food](https://documentaryheaven.com/race-to-the-bottom-ireland/ "Race To The Bottom: Ireland")
-* [![Catastrophe: The Day The Sun Went Out](/wp-content/thumbnails/16660-100x70.jpg?x53432)
+    The shocking series gains access into Strangeways, a maximum security prison in Manchester with a history as rough as the inmates it houses. Three fascinating episodes unearth the idiosyncrasies and c](https://documentaryheaven.com/strangeways/ "Strangeways")
+* [![Gaddafi: The Endgame (State of Denial)](/wp-content/thumbnails/8289-100x70.jpg?x53432)
     
-    Catastrophe: The Day The Sun Went Out
+    Gaddafi: The Endgame (State of Denial)
     
-    Just under 1500 years ago something terrifying happened to the world's climate something nobody could understand the sun began to go dark and rain the color of blood poured from the skies. Clouds of](https://documentaryheaven.com/catastrophe-day-sun-went-out/ "Catastrophe: The Day The Sun Went Out")
+    It's the end of a dictatorship, the symbols of a dynasty lie smashed and this is whats left after 42 years of Gaddafi's quixotic rule. A new revolution is overthrowing the old at a price. In 1969 he o](https://documentaryheaven.com/gaddafi-endgame-state-denial/ "Gaddafi: The Endgame (State of Denial)")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
