@@ -66,7 +66,9 @@ Solutions
 
 [Team Meetings](https://tactiq.io/solutions/team-meetings)
 
-[Customer Meetings](https://tactiq.io/solutions/customer-meetings)
+[Customer Meetings](https://tactiq.io/use-cases/customer-meetings)
+
+[Customer Meetings](https://tactiq.io/use-cases/customer-meetings)
 
 [Planning meetings](https://tactiq.io/use-cases/planning-meetings)
 
