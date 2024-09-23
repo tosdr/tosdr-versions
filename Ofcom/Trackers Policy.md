@@ -186,18 +186,18 @@ These cookies make our websites work as they should. They do things like:
 
 We use necessary cookies on the following domains:
 
-* Ofcom: [https://www.ofcom.org.uk](https://www.ofcom.org.uk/)[](https://www.ofcom.org.uk/)
-* Workday: [Please see separate workday cookies policy](https://about-ofcom/website/cookies-policy/workday-cookies-policy)
-* Small Screen: Big Debate: [https://www.smallscreenbigdebate.co.uk](https://www.smallscreenbigdebate.co.uk/)
-* The Office of the Telecommunications Adjudicator: [http://www.offta.org.uk](http://www.offta.org.uk/)
-* The Office of the Adjudicator – Broadcast Transmission Services: [http://ota-bts.org.uk/](http://ota-bts.org.uk/)\*
-* The Office of the Adjudicator – Contracts Rights Renewal (CRR): [http://www.adjudicator-crr.org.uk/](http://www.adjudicator-crr.org.uk/)\*
-* Ofcom mobile and broadband checker: [https://checker.ofcom.org.uk](https://checker.ofcom.org.uk/)\*
-* Ofcom online licensing services: [https://ofcom.force.com/licensingcomlogin](https://ofcom.force.com/licensingcomlogin)\*
+* Ofcom: [https://www.ofcom.org.uk](https://www.ofcom.org.uk/ "Ofcom's website")[](https://www.ofcom.org.uk/)
+* Workday: [Please see separate workday cookies policy](https://about-ofcom/website/cookies-policy/workday-cookies-policy "Workday Cookies Policy")
+* Small Screen: Big Debate: [https://www.smallscreenbigdebate.co.uk](https://www.smallscreenbigdebate.co.uk/ "https://www.smallscreenbigdebate.co.uk")
+* The Office of the Telecommunications Adjudicator: [http://www.offta.org.uk](http://www.offta.org.uk/ "http://www.offta.org.uk")
+* The Office of the Adjudicator – Broadcast Transmission Services: [http://ota-bts.org.uk/](http://ota-bts.org.uk/ "http://ota-bts.org.uk/")\*
+* The Office of the Adjudicator – Contracts Rights Renewal (CRR): [http://www.adjudicator-crr.org.uk/](http://www.adjudicator-crr.org.uk/ "http://www.adjudicator-crr.org.uk/")\*
+* Ofcom mobile and broadband checker: [https://checker.ofcom.org.uk](https://checker.ofcom.org.uk/ "https://checker.ofcom.org.uk")\*
+* Ofcom online licensing services: [https://ofcom.force.com/licensingcomlogin](https://ofcom.force.com/licensingcomlogin "https://ofcom.force.com/licensingcomlogin")\*
 * OPIR, SPECTRAsc, Payments, and Business radio management portal: secure.ofcom.org.uk\*
-* Number management system: [https://ofcom.force.com/NMS\_LoginPage](https://ofcom.force.com/NMS_LoginPage)\*
+* Number management system: [https://ofcom.force.com/NMS\_LoginPage](https://ofcom.force.com/NMS_LoginPage "https://ofcom.force.com/NMS_LoginPage")\*
 * PMSE: [https://pmse.ofcom.org.uk/Pmse/Ecom/LoginPage.aspx](https://pmse.ofcom.org.uk/Pmse/Ecom/LoginPage.aspx)\*
-* Various legacy subsites beginning https://static.ofcom.org.uk/\*
+* Various legacy subsites beginning [https://static.ofcom.org.uk/](https://static.ofcom.org.uk/ "https://static.ofcom.org.uk/")\*
 
 You can restrict or block these cookies through your browser settings, but this may impact your experience of our websites.
 
@@ -292,7 +292,7 @@ How to control and delete cookies
 
 You can update your cookies preferences for Ofcom.org.uk by clicking the cog icon in the bottom left corner of the screen.
 
-You can block or remove cookies set by our other websites – see the full list of domains under ‘Necessary cookies’ above – through your browser settings. This guide tells you [how to manage cookies on a range of browsers](https://www.allaboutcookies.org/manage-cookies/stop-cookies-installed.html).
+You can block or remove cookies set by our other websites – see the full list of domains under ‘Necessary cookies’ above – through your browser settings. This guide tells you [how to manage cookies on a range of browsers](https://www.allaboutcookies.org/manage-cookies/stop-cookies-installed.html "www.allaboutcookies.org").
 
 Related content
 ---------------
