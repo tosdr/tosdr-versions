@@ -20,7 +20,7 @@
     * [Download](https://wire.com/en/app-download)
     * [Support](https://support.wire.com/)
     * [Blog](https://wire.com/blog)
-    * [Github](https://github.com/wireapp/)
+    * [GitHub](https://github.com/wireapp/)
     
 * [Plans & Pricing](https://wire.com/en/pricing)
     
