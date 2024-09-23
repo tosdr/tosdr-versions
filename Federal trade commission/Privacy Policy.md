@@ -226,7 +226,7 @@ Main Menu Mega
     
     [Press Release](https://www.ftc.gov/news-events/news/press-releases)
     
-    ### [FTC Sues Prescription Drug Middlemen for Artificially Inflating Insulin Drug Prices](https://www.ftc.gov/news-events/news/press-releases/2024/09/ftc-sues-prescription-drug-middlemen-artificially-inflating-insulin-drug-prices)
+    ### [FTC Presents Criminal Liaison Unit Award to USPIS Postal Inspector Kathy Broderick](https://www.ftc.gov/news-events/news/press-releases/2024/09/ftc-presents-criminal-liaison-unit-award-uspis-postal-inspector-kathy-broderick)
     
     September 20, 2024
     
@@ -235,11 +235,11 @@ Main Menu Mega
     Upcoming Event
     --------------
     
-    Oct18
+    Sep25
     
-    ### [Second Federal Trade Commission Conference on Marketing and Public Policy](https://www.ftc.gov/news-events/events/2024/10/second-federal-trade-commission-conference-marketing-public-policy)
+    ### [2024 International Consumer Protection and Enforcement Network (ICPEN) Fall Conference](https://www.ftc.gov/news-events/events/2024/09/2024-international-consumer-protection-enforcement-network-icpen-fall-conference)
     
-    Friday, October 18, 2024 | 8:00AM - 6:00PM
+    Wednesday, September 25, 2024 | 9:00AM - Friday, September 27, 2024 | 5:00PM
     
     [View more Events](https://www.ftc.gov/news-events/events)
     
