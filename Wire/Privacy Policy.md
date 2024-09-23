@@ -89,11 +89,11 @@ Information ->](https://wire.com/en/license-information)
 * [Government](https://wire.com/en/government)
 * [Contact Sales](https://wire.com/en/contact-sales)
 
-### Usecases
+### Use Cases
 
 * [Compliance](https://wire.com/en/compliance)
 * [Emergency Collaboration](https://wire.com/en/emergency-communication)
-* [Restricted Environments](https://wire-com.sandbox.hs-sites-eu1.com/en/restricted-environments)
+* [Restricted Environments](https://wire.com/en/restricted-environments)
 * [Integrations](https://wire.com/en/integrations)
 * [Non-Profit Organizations](https://wire.com/en/non-profit-organizations)
 
@@ -102,7 +102,7 @@ Information ->](https://wire.com/en/license-information)
 * [Download](https://wire.com/en/app-download)
 * [Support](https://support.wire.com/)
 * [Blog](https://wire.com/blog)
-* [Github](https://github.com/wireapp/)
+* [GitHub](https://github.com/wireapp/)
 * [Vulnerability Reporting](https://wire.com/en/vulnerability-reporting)
 
 ### Company
