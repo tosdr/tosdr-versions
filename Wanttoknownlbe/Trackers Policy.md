@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/universum/moongate/hoofdstuk-3-4van-moongate-scheve-calculaties/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/universum/ufo/ufo-sightings-top-20-van-2012/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
