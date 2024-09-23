@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/inspiratie/meelezen/de-2-kanten-van-een-munt/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/overige/over-de-kracht-van-bewustzijn-het-placebo-effect-het-geheugen-van-water-digitale-biologie-en-elektromagnetische-homeopathie-de-toekomst-van-genezing/ "Feeling Lucky? »")
 
 Algemene voorwaarden WantToKnow aanbiedingen
 ============================================
