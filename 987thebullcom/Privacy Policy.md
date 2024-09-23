@@ -347,11 +347,11 @@ Recently Played
 
 |     |
 | --- |
-| I Had Some HelpPost Malone Ft Morgan Wallen<br><br>5:37pm |
-| Where The Wild Things AreLuke Combs<br><br>5:33pm |
-| Country HouseSam Hunt<br><br>5:30pm |
-| Somethin Bout A TruckKip Moore<br><br>5:27pm |
-| Try That In A Small TownJason Aldean<br><br>5:24pm |
+| Gunpowder And LeadMiranda Lambert<br><br>11:38pm |
+| Lies, Lies, LiesMorgan Wallen<br><br>11:35pm |
+| Hometown HomeLocash<br><br>11:31pm |
+| Where The Wild Things AreLuke Combs<br><br>11:28pm |
+| Whiskey On YouNate Smith<br><br>11:25pm |
 
 [View Full Playlist](https://www.987thebull.com/recently-played)
 
@@ -495,21 +495,21 @@ State
 Featured Brands
 ---------------
 
+[![98.5 The Bull Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KDES.png)](https://www.985thebull.com/)
+
+Country • Western
+
+[![News-Talk 1480 WHBC Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WHBCAM.png)](https://www.whbc.com/)
+
+News Talk • Eastern
+
 [![Panhandle Sports Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/KVWE-Logo-RedBlack-Dk.png)](https://www.panhandlesportsstar.com/)
 
 Sports • Midwest
 
-[![99.7 DJX Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WDJX.png)](https://www.wdjx.com/)
+[![Latino 106.3 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBMG.png)](https://www.latinosaltlake.com/)
 
-Top 40 • Eastern
-
-[![Live 95.5 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBFF.png)](https://www.live955.com/)
-
-Top 40 • Pacific NW
-
-[![98.5 The Bull Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KDES.png)](https://www.985thebull.com/)
-
-Country • Western
+Spanish • Western
 
 [](https://www.alphamediausa.com/)
 
