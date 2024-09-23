@@ -208,21 +208,21 @@ Turn Your Curiosity Into Discovery
 
 Latest Facts
 
-[![35 Facts About Devils Island ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%2284%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/history/historical-events/35-facts-about-devils-island/)
+[![35 Facts About Frankenstein Castle ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%2284%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/world/landmarks/35-facts-about-frankenstein-castle/)
 
-Historical Events
+Landmarks
 
-22 Sep 2024
+23 Sep 2024
 
-[35 Facts About Devils Island](https://facts.net/history/historical-events/35-facts-about-devils-island/)
+[35 Facts About Frankenstein Castle](https://facts.net/world/landmarks/35-facts-about-frankenstein-castle/)
 
-[![35 Facts About Alain Lamare ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%2285%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/history/people/35-facts-about-alain-lamare/)
+[![40 Facts About Medellin Cartel ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%2284%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/society-and-social-sciences/40-facts-about-medellin-cartel/)
 
-People
+Society & Social Sciences
 
-22 Sep 2024
+23 Sep 2024
 
-[35 Facts About Alain Lamare](https://facts.net/history/people/35-facts-about-alain-lamare/)
+[40 Facts About Medellin Cartel](https://facts.net/society-and-social-sciences/40-facts-about-medellin-cartel/)
 
 [Home](https://facts.net/) [Terms](https://facts.net/terms/)
 
