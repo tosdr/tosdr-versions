@@ -111,7 +111,7 @@ email: copyright@reason.com
 * [Browse Topics](https://reason.com/all-tags/)
 * [Events](https://reason.org/events)
 * [Staff](https://reason.com/staff/)
-* [Jobs](https://reason.com/jobs/)
+* [Jobs](https://reason.org/jobs/)
 * [Donate](https://reason.com/donate/)
 * [Advertise](https://reason.com/advertise/)
 * [Subscribe](https://reason.com/subscribe/)
