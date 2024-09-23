@@ -210,11 +210,11 @@ Recently Played
 
 |     |
 | --- |
-| Gunpowder And LeadMiranda Lambert<br><br>11:38pm |
-| Lies, Lies, LiesMorgan Wallen<br><br>11:35pm |
-| Hometown HomeLocash<br><br>11:31pm |
-| Where The Wild Things AreLuke Combs<br><br>11:28pm |
-| Whiskey On YouNate Smith<br><br>11:25pm |
+| Dirt Road AnthemJason Aldean<br><br>4:58am |
+| Going, Going, GoneLuke Combs<br><br>4:55am |
+| ParkTyler Hubbard<br><br>4:52am |
+| CowgirlsMorgan Wallen Ft Ernest<br><br>4:49am |
+| Good On YouPriscilla Block<br><br>4:46am |
 
 [View Full Playlist](https://www.987thebull.com/recently-played)
 
@@ -358,21 +358,21 @@ State
 Featured Brands
 ---------------
 
-[![Latino 106.3 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBMG.png)](https://www.latinosaltlake.com/)
-
-Spanish • Western
-
 [![Live 95.5 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBFF.png)](https://www.live955.com/)
 
 Top 40 • Pacific NW
 
-[![Panhandle Sports Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/KVWE-Logo-RedBlack-Dk.png)](https://www.panhandlesportsstar.com/)
+[![News-Talk 1480 WHBC Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WHBCAM.png)](https://www.whbc.com/)
 
-Sports • Midwest
+News Talk • Eastern
 
 [![Bay Country Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/BayCountry-BothFrequencies-DK%20(2).png)](https://www.kbaycountry.com/)
 
 Country • Western
+
+[![99.7 DJX Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WDJX.png)](https://www.wdjx.com/)
+
+Top 40 • Eastern
 
 [](https://www.alphamediausa.com/)
 
