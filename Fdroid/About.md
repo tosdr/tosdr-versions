@@ -180,34 +180,34 @@ F-Droid is powered by your donations!
 
 ### Last Updated
 
-[![](https://f-droid.org/repo/org.y20k.escapepod/en-US/icon_xK1u54mnPFLYtmXZHy_WpIrcn0GKWco0XxicFSjDu0U=.png)
+[![](https://f-droid.org/repo/v4lpt.vpt.f036.esw/en-US/icon_YMJSZ1Le9dWBiEIxhwttD8JDPD0Sh1--c-bp2ga9P3M=.png)
 
-#### Escapepod - Podcast Player
+#### Valentin's PowerTools #036 - Ease The Waiting
 
-Escapepod is a simple and lightweight app for listening to podcasts.](https://f-droid.org/en/packages/org.y20k.escapepod/)[![](https://f-droid.org/repo/org.woheller69.omweather/en-US/icon_E3rAVMKaoXV3S6EdjZbr8Ah3yVuGV4teI7GOx4SRxl4=.png)
+A mix between a calendar and a clock that makes you wait faster.](https://f-droid.org/en/packages/v4lpt.vpt.f036.esw/)[![](https://f-droid.org/repo/ua.syt0r.kanji.fdroid/en-US/icon_WOSc49VcLgMELOmUR06ULIlzfKwH2sOslgW-JZ7UgoI=.png)
 
-#### Cirrus
+#### Kanji Dojo
 
-Weather and rain radar for any location - worldwide](https://f-droid.org/en/packages/org.woheller69.omweather/)[![](https://f-droid.org/repo/org.piepmeyer.gauguin/en-US/icon_Pp0IthYj4RE6O_3BQcd_ApZWV8iNei9l_LspIKJIoak=.png)
+Learn & practice writing Japanese characters](https://f-droid.org/en/packages/ua.syt0r.kanji.fdroid/)[![](https://f-droid.org/repo/player.phonograph.plus/en-US/icon_ncl9cm4Mr4U0edpzvu_8H--zCPmHTHhroPKmj3ABwA4=.png)
 
-#### Gauguin
+#### Phonograph Plus
 
-A Sudoku-like logic game](https://f-droid.org/en/packages/org.piepmeyer.gauguin/)
+A revived classic material designed local music player for Android](https://f-droid.org/en/packages/player.phonograph.plus/)
 
 ### Latest Apps
 
-[![](https://f-droid.org/repo/straw.berry/en-US/icon_zrfbqJ9UARHCFDHM6GIEgV1WbZv5auvg3F6k-WSTUjo=.png)
+[![](https://f-droid.org/repo/fr.ryder.benoit.jmdictdroid/en-US/icon_1NPHZxKxMWOUdqhObCX9U7eCXPT-qQHbVmmxsfPj8C8=.png)
+
+#### JMdict droid
+
+A Japanese to English dictionary, based on JMdict.](https://f-droid.org/en/packages/fr.ryder.benoit.jmdictdroid/)[![](https://f-droid.org/repo/de.ferreum.pto/en-US/icon_yXEkyRqPqN9_IWqx43-2oGoomiHW4d_pgkvsCFi3seo=.png)
+
+#### PTO - Plaintext Organizer
+
+Stay organized with one plaintext file per day.](https://f-droid.org/en/packages/de.ferreum.pto/)[![](https://f-droid.org/repo/straw.berry/en-US/icon_zrfbqJ9UARHCFDHM6GIEgV1WbZv5auvg3F6k-WSTUjo=.png)
 
 #### 🍓🍓🍓
 
-Strawberry is strawberry, strawberry 🍓🍓🍓](https://f-droid.org/en/packages/straw.berry/)[![](https://f-droid.org/repo/rocks.poopjournal.fucksgiven/en-US/icon_YCIwKb3mPGmMcdm6gDvkfFC7wyL6Wn7oxvJZTWmUtWA=.png)
+Strawberry is strawberry, strawberry 🍓🍓🍓](https://f-droid.org/en/packages/straw.berry/)
 
-#### Fucks Given
-
-﻿Self-love is the greatest middle finger of all time.](https://f-droid.org/en/packages/rocks.poopjournal.fucksgiven/)[![](https://f-droid.org/repo/de.codecivil.habsgleich/en-US/icon_tPCrCxhX2LrMHWxdJs0IAU-IdE4EINHG7WJr_u0ka28=.png)
-
-#### HabsGleich
-
-HabsGleich is a mini diary with a mind test included.](https://f-droid.org/en/packages/de.codecivil.habsgleich/)
-
-© 2010-2024 F-Droid Contributors (F-Droid 2024-09-19, fdroid-website [2.267](https://gitlab.com/fdroid/fdroid-website/tree/0706e61086)) [Status](https://fdroidstatus.org/) | [Edit on GitLab](https://gitlab.com/fdroid/fdroid-website/edit/master/)
+© 2010-2024 F-Droid Contributors (F-Droid 2024-09-23, fdroid-website [2.267](https://gitlab.com/fdroid/fdroid-website/tree/0706e61086)) [Status](https://fdroidstatus.org/) | [Edit on GitLab](https://gitlab.com/fdroid/fdroid-website/edit/master/)
