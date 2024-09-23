@@ -1,18 +1,14 @@
 [](https://fibery.io/)
 
-Use cases
+Solutions
 
-[Feedback  
-managementCentralize feedback in one place, link it to features with the help of AI, and close the feedback loop once the feature goes live.](https://fibery.io/feedback-management)
+[ProductCreate an uninterrupted flow from finding out what your customers need to shipping it.](https://fibery.io/product-management)
 
-[Facts-based  
-prioritizationAggregate customers feedback from many sources, link feedback to features, make smart decisions about priorities, and invent new ideas together](https://fibery.io/prioritization)
+[Digital agencyCollaborate with clients, manage internal projects, and connect work to a built-in CRM for easy reporting.](https://fibery.io/digital-agency)
 
-[Feature specs  
-creationMix work and knowledge. Brainstorm ideas on a whiteboard, write beautiful specs inside features, and create solutions with customers' requests in mind.](https://fibery.io/ideation)
+[Software developmentRun sprints the way you like it, develop a helpful wiki, and figure out allocations.](https://fibery.io/software-development)
 
-[Roadmapping  
-solutionTurn chaotic data into an actionable roadmap. Ensure that your product development efforts are always in sync with customer needs.](https://fibery.io/roadmapping)
+[Startup solutionInvent, build, and grow your startup without jumping around SaaS tools you barely use.](https://fibery.io/startups)
 
 Platform
 
@@ -42,15 +38,15 @@ Resources
 
 •••
 
-Use cases
+Solutions
 
-[Feedback management](https://fibery.io/feedback-management "Feedback management solution")
+[Product](https://fibery.io/product-management "Product")
 
-[Prioritization](https://fibery.io/prioritization "Prioritization solution")
+[Digital agency](https://fibery.io/digital-agency "Digital agency")
 
-[Feature specs creation](https://fibery.io/ideation "Feature specs creation")
+[Software development](https://fibery.io/software-development "Software development")
 
-[Roadmapping](https://fibery.io/roadmapping "Roadmapping solution")
+[Startup solution](https://fibery.io/startups "Startup solution")
 
 Platform
 
@@ -508,15 +504,15 @@ Rated 4.8 on [G2](https://www.g2.com/products/fibery/reviews) and [Capterra](h
 
 [![SOC 2 Compliance](/img/policies/soc2.png)](https://fibery.io/security)[![GDPR](/img/policies/gdpr.png)](https://fibery.io/security)
 
-Use cases
+Solutions
 
-[Feedback management](https://fibery.io/feedback-management "Feedback management solution")
+[Product](https://fibery.io/product-management "Product")
 
-[Prioritization](https://fibery.io/prioritization "Prioritization solution")
+[Digital agency](https://fibery.io/digital-agency "Digital agency")
 
-[Feature specs creation](https://fibery.io/ideation "Feature specs creation")
+[Software development](https://fibery.io/software-development "Software development")
 
-[Roadmapping](https://fibery.io/roadmapping "Roadmapping solution")
+[Startup solution](https://fibery.io/startups "Startup solution")
 
 Platform
 
