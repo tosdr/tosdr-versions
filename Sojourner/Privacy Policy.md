@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-4363bdda0674927aef72f34185c7ada3
+e25aa224aa5b3a08a0599c78840d08ed
 
 [](# "Expand for more options")[](# "Search")
 
@@ -103,13 +103,13 @@ Please enter a search keyword
     * [Metal](https://www.sojourner.biz/beads/metal.html "Metal")
     * [Bone](https://www.sojourner.biz/beads/bone.html "Bone")
     * [Large Hole](https://www.sojourner.biz/beads/large-hole.html "Large Hole")
+    * [Components](https://www.sojourner.biz/components.html "Components")
     * [Tools](https://www.sojourner.biz/beads/tools.html "Tools")
 * [Clothing](https://www.sojourner.biz/clothing.html "Clothing")
 * [Tabletop](https://www.sojourner.biz/tabletop.html "Tabletop")
 * [Bohemian Chic](https://www.sojourner.biz/bohemian-chic.html "Bohemian Chic")
 * [Soaps and Scents](https://www.sojourner.biz/soaps-and-scents.html "Soaps and Scents")
 * [Musical Instruments](https://www.sojourner.biz/musical-instruments.html "Musical Instruments")
-* [Components](https://www.sojourner.biz/components.html "Components")
 * [Gift Cards](https://www.sojourner.biz/gift-certificates.html "Gift Cards")
 
 Back
@@ -171,26 +171,26 @@ Sojourner may revise this policy as needed by updating this posting.
 
 ### Featured Product
 
-[![Sterling silver starfish pendant](https://www.sojourner.biz/images/cache/C0010.200.jpg)](https://www.sojourner.biz/components/sterling-silver-starfish-pendant.html "Sterling silver starfish pendant")
+[![Black with blue shadows rectangular oval beads](https://www.sojourner.biz/images/cache/glass/GL0120.200.jpg)](https://www.sojourner.biz/beads/glass/black-with-blue-shadows-rectangular-oval-beads.html "Black with blue shadows rectangular oval beads")
 
-#### [Sterling silver starfish pendant](https://www.sojourner.biz/components/sterling-silver-starfish-pendant.html "Sterling silver starfish pendant")
+#### [Black with blue shadows rectangular oval beads](https://www.sojourner.biz/beads/glass/black-with-blue-shadows-rectangular-oval-beads.html "Black with blue shadows rectangular oval beads")
 
-$175.00
+$15.00
 
 ### Best Sellers
 
 1. [Vintage Italian chevron beads](https://www.sojourner.biz/beads/glass/vintage-italian-chevron-beads.html "Vintage Italian chevron beads")  
     $6.00
-2. [Tiny crystal clasp](https://www.sojourner.biz/clasps/swarovski/tiny-crystal-clasp.html "Tiny crystal clasp")  
-    $15.00
-3. [Snowstorm clasp](https://www.sojourner.biz/clasps/glass/snowstorm-clasp.html "Snowstorm clasp")  
+2. [Snowstorm clasp](https://www.sojourner.biz/clasps/glass/snowstorm-clasp.html "Snowstorm clasp")  
     $16.00
+3. [Tiny crystal clasp](https://www.sojourner.biz/clasps/swarovski/tiny-crystal-clasp.html "Tiny crystal clasp")  
+    $15.00
 4. [Swarovski crystal AB clasp](https://www.sojourner.biz/clasps/swarovski/swarovski-crystal-ab-clasp.html "Swarovski crystal AB clasp")  
     $28.00
-5. [Square pearl clasp](https://www.sojourner.biz/clasps/pearl/square-pearl-clasp.html "Square pearl clasp")  
-    $16.00
-6. [White pearl toggle clasp](https://www.sojourner.biz/clasps/toggles/white-pearl-toggle-clasp.html "White pearl toggle clasp")  
+5. [White pearl toggle clasp](https://www.sojourner.biz/clasps/toggles/white-pearl-toggle-clasp.html "White pearl toggle clasp")  
     $28.00
+6. [Square pearl clasp](https://www.sojourner.biz/clasps/pearl/square-pearl-clasp.html "Square pearl clasp")  
+    $16.00
 7. [Neon blue Swarovski polka dot clasp](https://www.sojourner.biz/clasps/swarovski/neon-blue-swarovski-polka-dot-clasp.html "Neon blue Swarovski polka dot clasp")  
     $15.00
 8. [Red bar clasp](https://www.sojourner.biz/clasps/glass/red-bar-clasp.html "Red bar clasp")  
