@@ -206,23 +206,23 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 ### What's Hot
 
 * [SEA OF DOGS](https://www.somethingawful.com/news/sea-dog-classifieds/)
-* [Blue Stripe: The Life and Times of a Decontamination Protocol Engineer](https://www.somethingawful.com/news/blue-stripe-decon/1/)
-* [The Saddest Foods](https://www.somethingawful.com/comedy-goldmine/saddest-food-goons/1/)
-* [DickFlash.com](https://www.somethingawful.com/weekend-web/flashing-forum/1/)
-* [A World Without Music](https://www.somethingawful.com/music-article/world-without-music/)
+* [Something Awesome's 10 Hottest Celebrity Racks](https://www.somethingawful.com/feature-articles/stupid-sexy-list/1/)
+* [Phake Games 4](https://www.somethingawful.com/photoshop-phriday/phake-games-4/1/)
+* [Two weeks with a Canker Sore: A Journal](https://www.somethingawful.com/news/canker-sore/1/)
+* [Why Didn't You Invest in Eastern Poland?](https://www.somethingawful.com/photoshop-phriday/invest-eastern-poland/1/)
 
 ### Popular Threads
 
-* ![](https://fi.somethingawful.com/forums/posticons/fyad-mystery.gif) [Are there people hiding in your house? Phrogging Megathread](http://forums.somethingawful.com/showthread.php?threadid=4070984 "Are there people hiding in your house? Phrogging Megathread")
 * ![](https://fi.somethingawful.com/forums/posticons/lan-midwest.gif) [Have any goons ever been on a cruise?](http://forums.somethingawful.com/showthread.php?threadid=4071003 "Have any goons ever been on a cruise?")
+* ![](https://fi.somethingawful.com/forums/posticons/fyad-mystery.gif) [Are there people hiding in your house? Phrogging Megathread](http://forums.somethingawful.com/showthread.php?threadid=4070984 "Are there people hiding in your house? Phrogging Megathread")
 
 ### Random Articles
 
-* [Awful Weddings](https://www.somethingawful.com/comedy-goldmine/awful-weddings/1/)
-* [Hearts N' Minds: A Tribute to Iraq War Music](https://www.somethingawful.com/news/iraq-war-albums/1/)
-* [Sponsored Links](https://www.somethingawful.com/news/sponsored-links-jaw/)
-* [Euphemisms: "Eating"](https://www.somethingawful.com/news/euphemisms-eating-stupid/)
-* [The Kid From Brooklyn](https://www.somethingawful.com/awful-links/awful-link-3955/)
+* [The Call of Contestlhu: Hard Ticket to Baghdad](https://www.somethingawful.com/dungeons-and-dragons/hard-ticket-cthulhu/)
+* [Charlie Bucket and the Chocolate Factory](https://www.somethingawful.com/news/charlie-bucket-chocolate/)
+* [Staff Picks: The Best Gaming Laptops](https://www.somethingawful.com/video-game-article/gaming-laptop-picks/)
+* [The Site of the Mighty SUNGOD](https://www.somethingawful.com/awful-links/awful-link-857/)
+* [Marylen's Costumes](https://www.somethingawful.com/awful-links/awful-link-1786/)
 
 [Random!](https://www.somethingawful.com/random/)
 
