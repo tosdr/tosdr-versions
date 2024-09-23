@@ -136,31 +136,31 @@ Advertisement
 
 ###### Throwback Documentaries
 
-* [![Peace, Propaganda & The Promised Land](/wp-content/thumbnails/8800-100x70.png?x53432)
+* [![JFK: The Lost Bullet](/wp-content/thumbnails/7019-100x70.jpg?x53432)
     
-    Peace, Propaganda & The Promised Land
+    JFK: The Lost Bullet
     
-    Peace, Propaganda & the Promised Land is a 2004 documentary by Sut Jhally and Bathsheba Ratzkoff which—according to the film's official website—"provides a striking compar](https://documentaryheaven.com/peace-propaganda-promised-land/ "Peace, Propaganda & The Promised Land")
-* [![Exit Through the Gift Shop](/wp-content/thumbnails/5100-100x70.jpg?x53432)
+    It’s been called the most important pieces of film evidence of all time. Locked away in the vaults of the National Archives, the original Zapruder film that captured the vital 11 seconds of President](https://documentaryheaven.com/jfk-the-lost-bullet/ "JFK: The Lost Bullet")
+* [![Out of Shadows](/wp-content/thumbnails/16083-100x70.jpg?x53432)
     
-    Exit Through the Gift Shop
+    Out of Shadows
     
-    Exit Through the Gift Shop: The story of how an eccentric French shop keeper and amateur film maker attempted to locate and befriend Banksy, only to have the artist turn the camera back on its owner w](https://documentaryheaven.com/exit-through-the-gift-shop/ "Exit Through the Gift Shop")
-* [![American Meth](/wp-content/thumbnails/5601-100x70.jpg?x53432)
+    Out of Shadows is a film that attempts to lift the mask on how the mainstream media and Hollywood try to manipulate and control the masses by spreading propaganda via their platform. Released on YouT](https://documentaryheaven.com/out-of-shadows/ "Out of Shadows")
+* [![Murder in the Amazon](/wp-content/thumbnails/6616-100x70.jpg?x53432)
     
-    American Meth
+    Murder in the Amazon
     
-    American Meth is a cross-country journey that focuses on several facets of the methamphetamine epidemic. From the oil fields of Wyoming and New Mexico to the homeless in Portland and the teens of Mont](https://documentaryheaven.com/american-meth/ "American Meth")
-* [![Strangeways](/wp-content/thumbnails/5900-100x70.jpg?x53432)
+    In May 2011, married environmental activists Zé Cláudio Ribeiro and Maria do Espirito Santo were shot to death outside their house in the Amazonian state of Para.A month later VICE traveled to Zé](https://documentaryheaven.com/murder-in-the-amazon/ "Murder in the Amazon")
+* [![Culture in Decline: Economics 101](/wp-content/thumbnails/6754-100x70.jpg?x53432)
     
-    Strangeways
+    Culture in Decline: Economics 101
     
-    The shocking series gains access into Strangeways, a maximum security prison in Manchester with a history as rough as the inmates it houses. Three fascinating episodes unearth the idiosyncrasies and c](https://documentaryheaven.com/strangeways/ "Strangeways")
-* [![Gaddafi: The Endgame (State of Denial)](/wp-content/thumbnails/8289-100x70.jpg?x53432)
+    The topic of this show entitled Economics 101 deals with the subject of Economic Calculation, Market Rationale and its effects, along with considerations of the Scientific Principles of Sustainability](https://documentaryheaven.com/culture-in-decline-economics-101/ "Culture in Decline: Economics 101")
+* [![That Doesn’t Look Like Me](/wp-content/thumbnails/5135-100x70.jpg?x53432)
     
-    Gaddafi: The Endgame (State of Denial)
+    That Doesn’t Look Like Me
     
-    It's the end of a dictatorship, the symbols of a dynasty lie smashed and this is whats left after 42 years of Gaddafi's quixotic rule. A new revolution is overthrowing the old at a price. In 1969 he o](https://documentaryheaven.com/gaddafi-endgame-state-denial/ "Gaddafi: The Endgame (State of Denial)")
+    A short documentary written and directed by Jeffrey Vincent Parise. One December afternoon a group of artists walk into a local nursing home and paint portraits it's residents. During which the film](https://documentaryheaven.com/that-doesnt-look-like-me/ "That Doesn’t Look Like Me")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
