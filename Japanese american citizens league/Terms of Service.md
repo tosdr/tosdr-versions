@@ -62,8 +62,6 @@
 
 [Masaoka Fellowship](https://jacl.org/mike-masaoka-congressional-fellowship)
 
-[Next Gen Speakers Program](https://jacl.org/next-gen-speakers-group)
-
 [DC Fellowships](https://jacl.org/dc-fellowships)
 
 [Membership](https://jacl.org/membership)
@@ -193,8 +191,6 @@ Open Menu Close Menu
 [The League of Dreams - Documentary of the JACL](https://jacl.org/the-league-of-dreams)
 
 [Masaoka Fellowship](https://jacl.org/mike-masaoka-congressional-fellowship)
-
-[Next Gen Speakers Program](https://jacl.org/next-gen-speakers-group)
 
 [DC Fellowships](https://jacl.org/dc-fellowships)
 
@@ -331,8 +327,6 @@ Open Menu Close Menu
 [The League of Dreams - Documentary of the JACL](https://jacl.org/the-league-of-dreams)
 
 [Masaoka Fellowship](https://jacl.org/mike-masaoka-congressional-fellowship)
-
-[Next Gen Speakers Program](https://jacl.org/next-gen-speakers-group)
 
 [DC Fellowships](https://jacl.org/dc-fellowships)
 
