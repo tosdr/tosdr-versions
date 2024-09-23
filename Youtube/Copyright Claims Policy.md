@@ -71,10 +71,6 @@ Next
 * [Copyright claim basics](https://support.google.com/youtube/topic/9282678?hl=en&ref_topic=2676339)
 * [Copyright strike basics](https://support.google.com/youtube/answer/2814000)
 
-Notification
-
-Our teams are currently experiencing high support volumes. Please expect longer than usual wait times for responses to questions from email, chat, and @TeamYouTube on Twitter
-
 Copyright strike basics
 =======================
 
@@ -201,7 +197,7 @@ Google apps
 
 Main menu
 
-4358565650287607617
+6142458911284657645
 
 true
 
