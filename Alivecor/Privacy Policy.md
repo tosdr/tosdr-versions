@@ -1,4 +1,4 @@
-[SALE: Save $20 on KardiaMobile 6L this AFib Awareness Month | Code: 6LAFIB20 | Shop Now](https://store.kardia.com/products/kardiamobile6l)
+[SALE: Save $20 this World Heart Day | Code: 6LAFIB20 | Shop Now](https://store.kardia.com/products/kardiamobile6l)
 
 [](https://kardia.com/)
 
