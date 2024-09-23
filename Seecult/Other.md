@@ -245,18 +245,6 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
     
     [http://www.institutfrancais.rs](http://www.institutfrancais.rs/)
     
-    [10:00 Tisja Kljaković Braić, ZG](javascript:void(0);)
-    
-    **24.04.2024 | 10:00**
-    
-    Etnografski muzej, Trg Mažuranića 14, Zagreb
-    
-    **Noć knjige**
-    
-    Slikarica i ilustratorica, Frakturina autorica [**TISJA KLJAKOVIĆ BRAIĆ**](http://r.newsletter.fraktura.hr/mk/cl/f/sh/1t6Af4OiGsEcDi0dCBfIm4HmZZQgXF/cQxysp2pQfmn) (autorica hit-knjiga [U malu je uša đava](http://r.newsletter.fraktura.hr/mk/cl/f/sh/1t6Af4OiGsF4YQD3aXlDwKLbxOPQFJ/Q2UFJ_E6Og0L), [Oni](http://r.newsletter.fraktura.hr/mk/cl/f/sh/1t6Af4OiGsFWt8PTytr96aPRLDO9xN/teYlepLsQ9Gx) i [Oni 2](http://r.newsletter.fraktura.hr/mk/cl/f/sh/1t6Af4OiGsFzDqbuNFx4GqTGj2MtfR/jMucumYOGnCP), [Pita moja mama imate li jedno jaje](http://r.newsletter.fraktura.hr/mk/cl/f/sh/1t6Af4OiGsGRYYoKlc2zR6X66rLdNV/bze1SUwCX1tb)): **ONI** - izložba (23.4.-22.9.2024.)
-    
-    [https://fraktura.hr](https://fraktura.hr/)
-    
     [11:00 Mila Gvardiol, BG](javascript:void(0);)
     
     **11.05.2024 | 11:00**
@@ -319,14 +307,26 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
     
     [https://www.mg-lj.si/si/razstave/3931/ozvezdja-mnogoterih-zelja-ob-vzhodnem-obzo...](https://www.mg-lj.si/si/razstave/3931/ozvezdja-mnogoterih-zelja-ob-vzhodnem-obzorju)
     
+    [10:00 Zdravko Pečar, BG](javascript:void(0);)
+    
+    **26.05.2024 | 10:00**
+    
+    Muzej afričke umetnosti, Andre Nikolića 14, Beograd
+    
+    **ZDRAVKO PEČAR: (AUTO)PORTRETI** - izložba (25.5.-29.9.2024.)
+    
+    Urednici kataloga i kustosi izložbe: dr Nemanja Radonjić, Emilia Epštajn, Ana Knežević
+    
+    [http://www.mau.rs/sr](http://www.mau.rs/sr)
+    
 
 [Galerija umetnika](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")[](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/milovan-destil-markovic/homeless-project/belgrade.?itok=vmT9HGjj)](http://seecult.org/galerija/galerija-umetnika/milovan-destil-markovic/homeless-project)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/zoran-popovic-escapism/zoran-popovic-fotografije/photos/nesa-paripovic-foto-zoran-popovic-2012_0.jpg?itok=-O4T9mhT)](http://seecult.org/galerija/galerija-umetnika/zoran-popovic-escapism/zoran-popovic-fotografije-photos)
 
 [Foto galerija](http://seecult.org/galerija/foto-galerija "Foto galerija")[](http://seecult.org/galerija/foto-galerija "Foto galerija")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/festivali-koncerti-predstave-akcije/koncerti/dan-bubnjara/dscf5149.jpg?itok=jLW3-_cy)](http://seecult.org/galerija/foto-galerija/festivali-koncerti-predstave-akcije/koncerti/dan-bubnjara)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/roling-stons-usce-14707/mapa-usca.jpg?itok=QdySajtU)](http://seecult.org/galerija/foto-galerija/foto-arhiva/roling-stons-usce-14707)
 
 * [Najčitanije](#news_1)
 * [Najnovije](#news_2)
@@ -342,16 +342,16 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 * [Preminula Jasna Tijardović Popović](http://seecult.org/vest/preminula-jasna-tijardovic-popovic)
 * [Najuži izbor za NIN-ovu nagradu za 2022.](http://seecult.org/vest/najuzi-izbor-za-nin-ovu-nagradu-za-2022)
 
+* [Sofija](http://seecult.org/vest/sofija)
 * [Nagrada Milan Mladenović bendu Nemeček](http://seecult.org/vest/nagrada-milan-mladenovic-bendu-nemecek)
 * [Otvoren 32. Memorijal Nadežde Petrović - Memorijal Sonja S, dodeljene nagrade](http://seecult.org/vest/otvoren-32-memorijal-nadezde-petrovic-memorijal-sonja-s-dodeljene-nagrade)
+* [Digitalizovano Krunisanje kralja Petra I](http://seecult.org/vest/digitalizovano-krunisanje-kralja-petra-i)
 * [Retrospektiva povodom veka od rođenja Picelja](http://seecult.org/vest/retrospektiva-povodom-veka-od-rodenja-picelja)
 * [60\. Oktobarski salon – Šta ostaje?](http://seecult.org/vest/60-oktobarski-salon-sta-ostaje)
 * [Preminula Radmila Živković](http://seecult.org/vest/preminula-radmila-zivkovic)
 * [Serđo i Pjetro Kastelito gosti Italijansko-srpskog festivala](http://seecult.org/vest/serdo-i-pjetro-kastelito-gosti-italijansko-srpskog-festivala)
 * [Ekološki aktivizam za kraj 7 veličanstvenih](http://seecult.org/vest/ekoloski-aktivizam-za-kraj-7-velicanstvenih)
 * [Berlinsko izdanje Import/Export - Tanja Ostojić, Ivana Ranisavljević...](http://seecult.org/vest/berlinsko-izdanje-importexport-tanja-ostojic-ivana-ranisavljevic)
-* [Inkluzijada u Zvezdarskoj šumi](http://seecult.org/vest/inkluzijada-u-zvezdarskoj-sumi)
-* [Milo Rau otvara 58. Bitef](http://seecult.org/vest/milo-rau-otvara-58-bitef)
 
 * [Konkursi](#tab1_1)
 
