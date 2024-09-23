@@ -205,24 +205,24 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [Make Video Game Characters Real! (Part 2 of 2)](https://www.somethingawful.com/photoshop-phriday/real-video-games2/1/)
-* [Paul Luftenegger (Thanks, karl fungus!)](https://www.somethingawful.com/awful-links/paul-luftenegger-music/)
 * [SEA OF DOGS](https://www.somethingawful.com/news/sea-dog-classifieds/)
-* [Detroit's 17th Precinct (Thanks, CroatianAlzheimers!)](https://www.somethingawful.com/awful-links/detroit-17th-precinct/)
-* [A Taste of Patriarchy (Thanks, dire!)](https://www.somethingawful.com/awful-links/taste-patriarchy-blog/)
+* [Blue Stripe: The Life and Times of a Decontamination Protocol Engineer](https://www.somethingawful.com/news/blue-stripe-decon/1/)
+* [The Saddest Foods](https://www.somethingawful.com/comedy-goldmine/saddest-food-goons/1/)
+* [DickFlash.com](https://www.somethingawful.com/weekend-web/flashing-forum/1/)
+* [A World Without Music](https://www.somethingawful.com/music-article/world-without-music/)
 
 ### Popular Threads
 
-* ![](https://fi.somethingawful.com/forums/posticons/LF-2wqxulw.gif) [idiotic stuff we did as kids](http://forums.somethingawful.com/showthread.php?threadid=4070934 "idiotic stuff we did as kids")
 * ![](https://fi.somethingawful.com/forums/posticons/fyad-mystery.gif) [Are there people hiding in your house? Phrogging Megathread](http://forums.somethingawful.com/showthread.php?threadid=4070984 "Are there people hiding in your house? Phrogging Megathread")
+* ![](https://fi.somethingawful.com/forums/posticons/lan-midwest.gif) [Have any goons ever been on a cruise?](http://forums.somethingawful.com/showthread.php?threadid=4071003 "Have any goons ever been on a cruise?")
 
 ### Random Articles
 
-* [CyberFrontiers](https://www.somethingawful.com/news/cyberfrontiers-virtual-reality/)
-* [Our Site Will Be Pivoting to the Strange Object](https://www.somethingawful.com/news/strange-object-pivot/)
-* [Hatfields and McCoys](https://www.somethingawful.com/game-reviews/hatfields-and-mccoys/1/)
-* [Insane Diet Fads](https://www.somethingawful.com/photoshop-phriday/insane-diet-fads/1/)
-* [E.T. 28 Years Later](https://www.somethingawful.com/news/homeless-et/1/)
+* [Awful Weddings](https://www.somethingawful.com/comedy-goldmine/awful-weddings/1/)
+* [Hearts N' Minds: A Tribute to Iraq War Music](https://www.somethingawful.com/news/iraq-war-albums/1/)
+* [Sponsored Links](https://www.somethingawful.com/news/sponsored-links-jaw/)
+* [Euphemisms: "Eating"](https://www.somethingawful.com/news/euphemisms-eating-stupid/)
+* [The Kid From Brooklyn](https://www.somethingawful.com/awful-links/awful-link-3955/)
 
 [Random!](https://www.somethingawful.com/random/)
 
