@@ -134,9 +134,9 @@ Join the **I_A_** newsletter for regular updates on our latest news stories.
 Just in
 
 * [The growth of Australia's flexible office in 2024](https://independentaustralia.net/article-display/the-growth-of-australias-flexible-office-in-2024,18626 "Permanent Link : The growth of Australia's flexible office in 2024")
-* [Donald Trump and the voters of America](https://independentaustralia.net/article-display/donald-trump-and-the-voters-of-america,18993 "Permanent Link : Donald Trump and the voters of America")
-* [Israel-Gaza one year on: Rethinking security to stem rise in conflict](https://independentaustralia.net/article-display/israel-gaza-one-year-on-rethinking-security-to-stem-rise-in-conflict,19001 "Permanent Link : Israel-Gaza one year on: Rethinking security to stem rise in conflict")
 * [U.S. assaults surge as Trump’s hate escalates](https://independentaustralia.net/article-display/us-assaults-surge-as-trumps-hate-escalates,19000 "Permanent Link : U.S. assaults surge as Trump’s hate escalates")
+* [Why offshore student visa grants in 2025 must rise to hit student caps](https://independentaustralia.net/article-display/why-offshore-student-visa-grants-in-2025-must-rise-to-hit-student-caps,19002 "Permanent Link : Why offshore student visa grants in 2025 must rise to hit student caps")
+* [Israel-Gaza one year on: Rethinking security to stem rise in conflict](https://independentaustralia.net/article-display/israel-gaza-one-year-on-rethinking-security-to-stem-rise-in-conflict,19001 "Permanent Link : Israel-Gaza one year on: Rethinking security to stem rise in conflict")
 * [POEM: Dragon Dreaming](https://independentaustralia.net/article-display/poem-dragon-dreaming,18999 "Permanent Link : POEM: Dragon Dreaming")
 * [Trump voodoo versus Walz vision](https://independentaustralia.net/article-display/trump-voodoo-versus-walz-vision,18998 "Permanent Link : Trump voodoo versus Walz vision")
 * [Major theatrics in Melbourne!](https://independentaustralia.net/article-display/major-theatrics-in-melbourne,18911 "Permanent Link : Major theatrics in Melbourne!")
