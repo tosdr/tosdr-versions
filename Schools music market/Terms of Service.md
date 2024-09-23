@@ -26,7 +26,7 @@ Menu
 
 [](https://schoolsmusicmarket.com/wishlist/)
 
- [](https://schoolsmusicmarket.com/product/lets-learn-about-folk-music/)
+ [](https://schoolsmusicmarket.com/product/glad-rejoices-we-sing-tonight/)
 
 [HOME](https://schoolsmusicmarket.com/seller-dashboard)
 
@@ -282,7 +282,7 @@ Results
 
 See all results
 
- [](https://schoolsmusicmarket.com/product/back-to-school-a-level-bundle/)
+ [](https://schoolsmusicmarket.com/product/easy-boomwhacker-music-stand-by-me/)
 
 ###### Browse By Year/Grade
 
