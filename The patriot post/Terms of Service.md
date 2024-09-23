@@ -203,14 +203,14 @@ All users and subscribers of Web site agree to abide by and comply with these "S
 
 ### Top Opinion
 
+*      [The Washington Stand The Democrats’ IVF Misinformation Campaign](https://patriotpost.us/opinion/110431-the-democrats-ivf-misinformation-campaign-2024-09-23)
+*      [Guest Commentary Thou Shalt Not Covet](https://patriotpost.us/opinion/110281-thou-shalt-not-covet-2024-09-23)
 *      [Matthew Continetti Biden’s Long Shadow](https://patriotpost.us/opinion/110429-bidens-long-shadow-2024-09-21)
 *      [Allen West The Delusional and Dangerous Hypocrisy](https://patriotpost.us/opinion/110358-the-delusional-and-dangerous-hypocrisy-2024-09-21)
 *      [The Washington Stand Fact-Checking PolitiFact, the Media, and Democrats on Born-Alive Infants](https://patriotpost.us/opinion/110430-fact-checking-politifact-the-media-and-democrats-on-born-alive-infants-2024-09-21)
 *      [Hans von Spakovsky Did Elite Colleges Lie to the Supreme Court or Are They Breaking the Law Today?](https://patriotpost.us/opinion/110418-did-elite-colleges-lie-to-the-supreme-court-or-are-they-breaking-the-law-today-2024-09-20)
 *      [David Harsanyi On Abortion, Kamala Harris Is the Extremist](https://patriotpost.us/opinion/110416-on-abortion-kamala-harris-is-the-extremist-2024-09-20)
 *      [Josh Hammer Why Are the Nutjobs Trying to Kill Political Opponents All Left-Wingers?](https://patriotpost.us/opinion/110414-why-are-the-nutjobs-trying-to-kill-political-opponents-all-left-wingers-2024-09-20)
-*      [Erick Erickson Progressives Lied. A Woman Died. Republicans Were Blamed.](https://patriotpost.us/opinion/110413-progressives-lied-a-woman-died-republicans-were-blamed-2024-09-20)
-*      [Tim Graham Kamala Harris Had Minority Journalists at ‘Hello’](https://patriotpost.us/opinion/110408-kamala-harris-had-minority-journalists-at-hello-2024-09-20)
 
 * [More Opinion >](https://patriotpost.us/opinion)
 
@@ -224,7 +224,7 @@ All users and subscribers of Web site agree to abide by and comply with these "S
 
 [END OF WATCH](https://patriotpost.us/end-of-watch)
 
-No MSM Churn No Clickbait Junk No Advertising
+[The Web's First and Foremost Conservative News Digest](https://patriotpost.us/alexander/2810)
 
 ### The Foundation
 
