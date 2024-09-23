@@ -22,7 +22,7 @@ Copy Link
 
 Log In
 
-[_Facebook_ Continue with Facebook](javascript:void(0);)
+[_Facebook_ Continue with Facebook](javascript:void(0);) [Continue with Apple](javascript:void(0);)
 
 Please use a standard web browser (like Safari, Chrome, Firefox, Edge) to log in with Google or Facebook. Social logins don’t work in some apps.
 
