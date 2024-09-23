@@ -242,6 +242,16 @@ We have included on the pages of this website a robots meta tag with the “noai
 
 This privacy policy was created in party by using [Termly’s Privacy Policy Generator](https://termly.io/products/privacy-policy-generator/?ftseo).
 
+[![](https://cwbchicago.com/wp-content/uploads/2024/09/P24-4-031-chicago-construction-rob-pattern-b-326x245.jpg)](https://cwbchicago.com/2024/09/armed-robbery-team-is-targeting-construction-crews-police-warn.html "Armed robbery team is targeting construction crews, police warn")
+
+Citywide
+
+### [Armed robbery team is targeting construction crews, police warn](https://cwbchicago.com/2024/09/armed-robbery-team-is-targeting-construction-crews-police-warn.html "Armed robbery team is targeting construction crews, police warn")
+
+[September 21, 2024 3:41 AM](https://cwbchicago.com/2024/09)
+
+Chicago police are warning construction crews about an armed robbery team that is targeting workers on job sites in Lawndale.[](https://cwbchicago.com/2024/09/armed-robbery-team-is-targeting-construction-crews-police-warn.html "Armed robbery team is targeting construction crews, police warn")
+
 [![](https://cwbchicago.com/wp-content/uploads/2024/09/180-n-michigan-bank-robber-FBI-326x245.jpg)](https://cwbchicago.com/2024/09/oops-he-did-it-again-fbi-says-robber-held-up-downtown-bank-twice-in-3-days.html "Oops! He did it again. FBI says robber held up downtown bank twice in 3 days")
 
 Citywide
@@ -261,16 +271,6 @@ Chicago Lawn
 [September 20, 2024 7:06 PM](https://cwbchicago.com/2024/09)
 
 Officials say a Bolingbrook man and an unknown accomplice followed and carjacked a random driver in Chicago Lawn earlier this year.[](https://cwbchicago.com/2024/09/suburban-man-picked-random-driver-to-carjack-under-a-chicago-police-surveillance-camera-officials-say.html "Suburban man picked random driver to carjack under a Chicago police surveillance camera, officials say")
-
-[![](https://cwbchicago.com/wp-content/uploads/2023/09/Leonard-Spears-326x245.jpg)](https://cwbchicago.com/2024/09/3rd-man-pleads-guilty-to-46000-prada-store-heist.html "3rd man pleads guilty to $46,000 Prada store heist")
-
-Magnificent Mile
-
-### [3rd man pleads guilty to $46,000 Prada store heist](https://cwbchicago.com/2024/09/3rd-man-pleads-guilty-to-46000-prada-store-heist.html "3rd man pleads guilty to $46,000 Prada store heist")
-
-[September 20, 2024 6:14 PM](https://cwbchicago.com/2024/09)
-
-A third man has pleaded guilty to participating in a bold daytime robbery at the Prada store in downtown Chicago in January 2022.[](https://cwbchicago.com/2024/09/3rd-man-pleads-guilty-to-46000-prada-store-heist.html "3rd man pleads guilty to $46,000 Prada store heist")
 
 Search
 
