@@ -41,6 +41,7 @@
         * [Scientific Collaboration in Europe](https://www.sanofi.com/en/our-science/scientific-collaboration/europe)
         * [Scientific Collaboration in China](https://www.sanofi.com/en/our-science/scientific-collaboration/china)
     * [Digital](https://www.sanofi.com/en/our-science/digital)
+    * [Manufacturing and Supply](https://www.sanofi.com/en/our-science/manufacturing-and-supply)
 * Your Health
     * [Your Health](https://www.sanofi.com/en/your-health)
     * Vaccines
