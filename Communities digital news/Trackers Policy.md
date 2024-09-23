@@ -26,59 +26,69 @@ Search for:
 
 ### [TOP STORIES](https://www.commdiginews.com/category/top-stories/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-fetterman-1200x630.png)](https://americanwirenews.com/cornered-on-fracking-fetterman-blurts-out-theyre-eating-dogs-theyre-eating-cats/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-christieabcnews1-1200-x-628-1200x630.jpg)](https://americanwirenews.com/chris-christie-predicts-trump-will-cave-accept-cnn-debate-with-harris/)
 
-[Cornered on fracking, Fetterman blurts out: ‘They’re eating dogs! They’re eating cats!’](https://americanwirenews.com/cornered-on-fracking-fetterman-blurts-out-theyre-eating-dogs-theyre-eating-cats/)
+[Chris Christie predicts Trump will cave, accept CNN debate with Harris](https://americanwirenews.com/chris-christie-predicts-trump-will-cave-accept-cnn-debate-with-harris/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-walzfourmore-1200-x-628-1200x630.jpg)](https://americanwirenews.com/tim-walz-accidentally-serves-up-new-trump-ad-on-silver-platter/)
+[![](https://americanwirenews.com/wp-content/uploads/2023/10/SG-Secret-Service-1200x630.jpg)](https://americanwirenews.com/secret-service-reduced-gun-training-after-covid-agents-accidental-shooting-throws-up-flags/)
 
-[Tim Walz accidentally serves up new Trump ad on silver platter](https://americanwirenews.com/tim-walz-accidentally-serves-up-new-trump-ad-on-silver-platter/)
+[Secret Service reduced gun training after Covid; agent’s accidental shooting throws up flags](https://americanwirenews.com/secret-service-reduced-gun-training-after-covid-agents-accidental-shooting-throws-up-flags/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-biden-1200x630.jpg)](https://americanwirenews.com/whos-next-biden-gets-confused-barks-at-his-staff-during-presser-with-group-of-world-leaders/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-trump-ghalib-1200x630.jpg)](https://americanwirenews.com/mayor-of-muslim-majority-michigan-city-endorses-trump/)
 
-[‘Who’s next!?’ Biden gets confused, barks at his staff during presser with group of world leaders](https://americanwirenews.com/whos-next-biden-gets-confused-barks-at-his-staff-during-presser-with-group-of-world-leaders/)
+[Mayor of Muslim-majority Michigan city endorses Trump](https://americanwirenews.com/mayor-of-muslim-majority-michigan-city-endorses-trump/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-trump-5-1200x630.jpg)](https://americanwirenews.com/didnt-know-what-the-hell-to-do-trump-says-oprah-was-embarrassed-for-kamala-harris/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-fvap-1200x630.jpg)](https://americanwirenews.com/politico-predicts-overseas-ballots-will-figure-heavily-in-who-wins-the-election/)
 
-[‘Didn’t know what the hell to do!’ Trump says Oprah was ‘embarrassed’ for Kamala Harris](https://americanwirenews.com/didnt-know-what-the-hell-to-do-trump-says-oprah-was-embarrassed-for-kamala-harris/)
+[Politico predicts overseas ballots will figure heavily in who wins the election](https://americanwirenews.com/politico-predicts-overseas-ballots-will-figure-heavily-in-who-wins-the-election/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/getty-trumps-1200x630.jpg)](https://americanwirenews.com/trump-worried-about-his-familys-safety-after-failed-attempts-to-take-him-out-faults-dem-rhetoric/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-trump-rally-1200x630.jpg)](https://americanwirenews.com/trump-says-no-to-2028-run-if-he-doesnt-win-the-election/)
 
-(Photo by Leon Neal/Getty Images)
+[Trump says no to 2028 run if he doesn’t win the election](https://americanwirenews.com/trump-says-no-to-2028-run-if-he-doesnt-win-the-election/)
 
-[Trump worried about his family’s safety after failed attempts to take him out – faults Dem rhetoric](https://americanwirenews.com/trump-worried-about-his-familys-safety-after-failed-attempts-to-take-him-out-faults-dem-rhetoric/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-cbspanetta-1200-x-628-1200x630.jpg)](https://americanwirenews.com/former-obama-cia-director-panetta-says-israels-exploding-pager-operation-is-terrorism/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-musk-harris-split-1200-x-628-1200x630.jpg)](https://americanwirenews.com/elon-musk-nation-will-be-far-worse-than-california-if-machine-behind-the-kamala-puppet-wins-election/)
+[Former Obama CIA director Panetta says Israel’s exploding pager operation is ‘terrorism’](https://americanwirenews.com/former-obama-cia-director-panetta-says-israels-exploding-pager-operation-is-terrorism/)
 
-[Elon Musk: Nation ‘will be far worse than California’ if ‘machine behind the Kamala puppet wins election’](https://americanwirenews.com/elon-musk-nation-will-be-far-worse-than-california-if-machine-behind-the-kamala-puppet-wins-election/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-bartiromo-comer-1200x630.jpg)](https://americanwirenews.com/top-house-republican-isnt-convinced-that-kamala-owns-a-gun/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-carlson-ritchie-1200x630.jpg)](https://americanwirenews.com/kid-rock-gives-tucker-a-hilarious-behind-the-scenes-account-of-trumps-down-to-earth-character/)
+[Top House Republican isn’t convinced that Kamala owns a gun](https://americanwirenews.com/top-house-republican-isnt-convinced-that-kamala-owns-a-gun/)
 
-[Kid Rock gives Tucker a hilarious behind the scenes account of Trump’s ‘down-to-earth’ character](https://americanwirenews.com/kid-rock-gives-tucker-a-hilarious-behind-the-scenes-account-of-trumps-down-to-earth-character/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-nycuomo-1200-x-628-1200x630.jpg)](https://americanwirenews.com/ex-ny-gov-andrew-cuomo-slams-progressive-movement-at-brooklyn-church/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-macklemore-1200x630.png)](https://americanwirenews.com/so-many-americans-hate-america-concertgoers-in-seattle-roar-when-rapper-says-fck-america/)
+[Ex-NY Gov. Andrew Cuomo slams progressive movement at Brooklyn church](https://americanwirenews.com/ex-ny-gov-andrew-cuomo-slams-progressive-movement-at-brooklyn-church/)
 
-[‘So many Americans hate America’: Concertgoers in Seattle roar when rapper says, ‘F\*ck America!’](https://americanwirenews.com/so-many-americans-hate-america-concertgoers-in-seattle-roar-when-rapper-says-fck-america/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-musk-aoc-split-1200-x-628-1200x630.jpg)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-oprah-special-1200x630.jpg)
-
-### Woman featured in Oprah town hall drops EPIC video explaining she does NOT support Kamala](https://americanwirenews.com/woman-featured-in-oprah-town-hall-drops-epic-video-explaining-she-does-not-support-kamala/)
+### AOC boasts she’s leading Dem censorship effort: ‘They’re coming for X’](https://americanwirenews.com/aoc-boasts-shes-leading-dem-censorship-effort-theyre-coming-for-x/)
 
 [THE WIRE...](https://americanwirenews.com/category/the-wire/)
 
-### [‘Pillowcase rapist’ who admitted to over 100 assaults set to be released in blue state](https://americanwirenews.com/pillowcase-rapist-who-admitted-to-over-100-assaults-set-to-be-released-in-blue-state/)
-
-### [Harris adviser reveals the reason VP hasn’t been sitting for more interviews: ‘Always ready with excuses’](https://americanwirenews.com/harris-adviser-reveals-the-reason-vp-hasnt-been-sitting-for-more-interviews-always-ready-with-excuses/)
-
-### [CNN panel goes off the rails when Jennings points out Dems are top source of anti-Semitism](https://americanwirenews.com/cnn-panel-goes-off-the-rails-when-jennings-points-out-dems-are-top-source-of-anti-semitism/)
-
-### [Mace exposes professors’ flirtatious messages following heated CNN panel, gets accused of ‘white women’s tears’](https://americanwirenews.com/mace-exposes-professors-flirtatious-messages-following-heated-cnn-panel-gets-accused-of-white-womens-tears/)
-
 ### [Nuzzi’s ex-fiancé will no longer cover RFK Jr. for politico over ‘personal relationship’ rumors](https://americanwirenews.com/nuzzis-ex-fiance-will-no-longer-cover-rfk-jr-for-politico-over-personal-relationship-rumors/)
 
-### [Jill Biden to host White House bash for 25th anniversary of ‘The West Wing’](https://americanwirenews.com/jill-biden-to-host-white-house-bash-for-25th-anniversary-of-the-west-wing/)
+### [Ladies of ‘The View’ clash over Melania Trump’s nude photos: ‘Republicans do it plenty, right?’](https://americanwirenews.com/ladies-of-the-view-clash-over-melania-trumps-nude-photos-republicans-do-it-plenty-right/)
+
+### [Leftists cry ‘Islamophobia’ over satirical cartoon depicting Rashida Tlaib with exploding pager](https://americanwirenews.com/leftists-cry-islamophobia-over-satirical-cartoon-depicting-rashida-tlaib-with-exploding-pager/)
+
+### [Harris adviser cleans up ‘they’re getting shot’ quip with LAME excuse](https://americanwirenews.com/harris-adviser-cleans-up-theyre-getting-shot-quip-with-lame-excuse/)
+
+### [The Drudge Report hits rock bottom with Trump Nazi salute portrayal](https://americanwirenews.com/the-drudge-report-hits-rock-bottom-with-trump-nazi-salute-portrayal/)
+
+### [Aurora police now denying bloodthirsty Venezuelan gang taking over city: ‘This is not an immigration issue’](https://americanwirenews.com/aurora-police-now-denying-bloodthirsty-venezuelan-gang-taking-over-city-this-is-not-an-immigration-issue/)
 
 ### [LATEST](https://www.commdiginews.com/category/latest/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-harris-3-220x180.jpg)](https://americanwirenews.com/heres-why-kamala-harris-playing-woman-of-the-people-taking-on-corporations-is-all-an-act/)
+
+[Here’s why Kamala Harris playing woman of the people taking on corporations is all an act](https://americanwirenews.com/heres-why-kamala-harris-playing-woman-of-the-people-taking-on-corporations-is-all-an-act/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/01/SG-My-Pillow-Mike-Lindell-220x180.jpeg)](https://americanwirenews.com/mypillow-ceo-mike-lindell-accused-of-sinister-hidden-meaning-in-new-product-pricing/)
+
+[MyPillow CEO Mike Lindell accused of sinister ‘hidden meaning’ in new product pricing](https://americanwirenews.com/mypillow-ceo-mike-lindell-accused-of-sinister-hidden-meaning-in-new-product-pricing/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-oprah-special-220x180.jpg)](https://americanwirenews.com/woman-featured-in-oprah-town-hall-drops-epic-video-explaining-she-does-not-support-kamala/)
+
+[Woman featured in Oprah town hall drops EPIC video explaining she does NOT support Kamala](https://americanwirenews.com/woman-featured-in-oprah-town-hall-drops-epic-video-explaining-she-does-not-support-kamala/)
 
 [![](https://americanwirenews.com/wp-content/uploads/2024/09/admin-ajax-1-220x180.jpg)](https://americanwirenews.com/how-democrats-win-tight-elections-gop-lawmaker-in-michigan-exposes-dubious-election-ploy/)
 
@@ -88,13 +98,47 @@ Search for:
 
 [Trump hammers ‘sloppy and tired’ Bill Maher over obsession with him](https://americanwirenews.com/trump-hammers-sloppy-and-tired-bill-maher-over-obsession-with-him/)
 
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-fetterman-220x180.png)](https://americanwirenews.com/cornered-on-fracking-fetterman-blurts-out-theyre-eating-dogs-theyre-eating-cats/)
+
+[Cornered on fracking, Fetterman blurts out: ‘They’re eating dogs! They’re eating cats!’](https://americanwirenews.com/cornered-on-fracking-fetterman-blurts-out-theyre-eating-dogs-theyre-eating-cats/)
+
 [![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-jackson-harris-220x180.jpg)](https://americanwirenews.com/shes-not-black-janet-jackson-sends-left-into-frenzy-after-questioning-kamalas-race/)
 
 [‘She’s not black’: Janet Jackson sends left into frenzy after questioning Kamala’s race](https://americanwirenews.com/shes-not-black-janet-jackson-sends-left-into-frenzy-after-questioning-kamalas-race/)
 
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-walzfourmore-1200-x-628-220x180.jpg)](https://americanwirenews.com/tim-walz-accidentally-serves-up-new-trump-ad-on-silver-platter/)
+
+[Tim Walz accidentally serves up new Trump ad on silver platter](https://americanwirenews.com/tim-walz-accidentally-serves-up-new-trump-ad-on-silver-platter/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-biden-220x180.jpg)](https://americanwirenews.com/whos-next-biden-gets-confused-barks-at-his-staff-during-presser-with-group-of-world-leaders/)
+
+[‘Who’s next!?’ Biden gets confused, barks at his staff during presser with group of world leaders](https://americanwirenews.com/whos-next-biden-gets-confused-barks-at-his-staff-during-presser-with-group-of-world-leaders/)
+
 [![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-trump-nsilver-split-1200-x-628-220x180.jpg)](https://americanwirenews.com/dem-polling-guru-advises-folks-to-make-contingency-plans-for-trumps-return/)
 
 [Dem polling guru advises folks to make ‘contingency plans’ for Trump’s return](https://americanwirenews.com/dem-polling-guru-advises-folks-to-make-contingency-plans-for-trumps-return/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-macklemore-220x180.png)](https://americanwirenews.com/so-many-americans-hate-america-concertgoers-in-seattle-roar-when-rapper-says-fck-america/)
+
+[‘So many Americans hate America’: Concertgoers in Seattle roar when rapper says, ‘F\*ck America!’](https://americanwirenews.com/so-many-americans-hate-america-concertgoers-in-seattle-roar-when-rapper-says-fck-america/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-carlson-ritchie-220x180.jpg)](https://americanwirenews.com/kid-rock-gives-tucker-a-hilarious-behind-the-scenes-account-of-trumps-down-to-earth-character/)
+
+[Kid Rock gives Tucker a hilarious behind the scenes account of Trump’s ‘down-to-earth’ character](https://americanwirenews.com/kid-rock-gives-tucker-a-hilarious-behind-the-scenes-account-of-trumps-down-to-earth-character/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-musk-harris-split-1200-x-628-220x180.jpg)](https://americanwirenews.com/elon-musk-nation-will-be-far-worse-than-california-if-machine-behind-the-kamala-puppet-wins-election/)
+
+[Elon Musk: Nation ‘will be far worse than California’ if ‘machine behind the Kamala puppet wins election’](https://americanwirenews.com/elon-musk-nation-will-be-far-worse-than-california-if-machine-behind-the-kamala-puppet-wins-election/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/getty-trumps-220x180.jpg)](https://americanwirenews.com/trump-worried-about-his-familys-safety-after-failed-attempts-to-take-him-out-faults-dem-rhetoric/)
+
+[Trump worried about his family’s safety after failed attempts to take him out – faults Dem rhetoric](https://americanwirenews.com/trump-worried-about-his-familys-safety-after-failed-attempts-to-take-him-out-faults-dem-rhetoric/)
+
+(Photo by Leon Neal/Getty Images)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-trump-5-220x180.jpg)](https://americanwirenews.com/didnt-know-what-the-hell-to-do-trump-says-oprah-was-embarrassed-for-kamala-harris/)
+
+[‘Didn’t know what the hell to do!’ Trump says Oprah was ‘embarrassed’ for Kamala Harris](https://americanwirenews.com/didnt-know-what-the-hell-to-do-trump-says-oprah-was-embarrassed-for-kamala-harris/)
 
 [![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-lizideasfest-1200-x-628-220x180.jpg)](https://americanwirenews.com/malicious-actor-liz-cheney-says-new-conservative-party-may-be-in-the-offing/)
 
@@ -118,67 +162,23 @@ Getty Images
 
 [Attack on Michigan teen investigated as hate crime after suspects allegedly asked if he was Jewish](https://americanwirenews.com/attack-on-michigan-teen-investigated-as-hate-crime-after-suspects-allegedly-asked-if-he-was-jewish/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-view-220x180.jpg)](https://americanwirenews.com/ladies-of-the-view-clash-over-melania-trumps-nude-photos-republicans-do-it-plenty-right/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/rf-sg-hubbart-placement-220x180.jpg)](https://americanwirenews.com/pillowcase-rapist-who-admitted-to-over-100-assaults-set-to-be-released-in-blue-state/)
 
-[Ladies of ‘The View’ clash over Melania Trump’s nude photos: ‘Republicans do it plenty, right?’](https://americanwirenews.com/ladies-of-the-view-clash-over-melania-trumps-nude-photos-republicans-do-it-plenty-right/)
+[‘Pillowcase rapist’ who admitted to over 100 assaults set to be released in blue state](https://americanwirenews.com/pillowcase-rapist-who-admitted-to-over-100-assaults-set-to-be-released-in-blue-state/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-rtlaibcensure-1200-x-628-220x180.jpg)](https://americanwirenews.com/leftists-cry-islamophobia-over-satirical-cartoon-depicting-rashida-tlaib-with-exploding-pager/)
+Image via Los Angeles County Sheriff's Department
 
-[Leftists cry ‘Islamophobia’ over satirical cartoon depicting Rashida Tlaib with exploding pager](https://americanwirenews.com/leftists-cry-islamophobia-over-satirical-cartoon-depicting-rashida-tlaib-with-exploding-pager/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-harris-adviser-220x180.jpg)](https://americanwirenews.com/harris-adviser-reveals-the-reason-vp-hasnt-been-sitting-for-more-interviews-always-ready-with-excuses/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-kamala-campaign-backtracks-220x180.jpg)](https://americanwirenews.com/harris-adviser-cleans-up-theyre-getting-shot-quip-with-lame-excuse/)
+[Harris adviser reveals the reason VP hasn’t been sitting for more interviews: ‘Always ready with excuses’](https://americanwirenews.com/harris-adviser-reveals-the-reason-vp-hasnt-been-sitting-for-more-interviews-always-ready-with-excuses/)
 
-[Harris adviser cleans up ‘they’re getting shot’ quip with LAME excuse](https://americanwirenews.com/harris-adviser-cleans-up-theyre-getting-shot-quip-with-lame-excuse/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-cnnpanel2-1200-x-628-220x180.jpg)](https://americanwirenews.com/cnn-panel-goes-off-the-rails-when-jennings-points-out-dems-are-top-source-of-anti-semitism/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-trumpongutfeld-1200-x-628-220x180.jpg)](https://americanwirenews.com/the-drudge-report-hits-rock-bottom-with-trump-nazi-salute-portrayal/)
+[CNN panel goes off the rails when Jennings points out Dems are top source of anti-Semitism](https://americanwirenews.com/cnn-panel-goes-off-the-rails-when-jennings-points-out-dems-are-top-source-of-anti-semitism/)
 
-[The Drudge Report hits rock bottom with Trump Nazi salute portrayal](https://americanwirenews.com/the-drudge-report-hits-rock-bottom-with-trump-nazi-salute-portrayal/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-michael-eric-dyson-sg-nancy-mace-220x180.jpg)](https://americanwirenews.com/mace-exposes-professors-flirtatious-messages-following-heated-cnn-panel-gets-accused-of-white-womens-tears/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-chamberlain-tda-220x180.jpg)](https://americanwirenews.com/aurora-police-now-denying-bloodthirsty-venezuelan-gang-taking-over-city-this-is-not-an-immigration-issue/)
-
-[Aurora police now denying bloodthirsty Venezuelan gang taking over city: ‘This is not an immigration issue’](https://americanwirenews.com/aurora-police-now-denying-bloodthirsty-venezuelan-gang-taking-over-city-this-is-not-an-immigration-issue/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-hillary-clinton-1-220x180.jpg)](https://americanwirenews.com/hillary-describes-melania-trump-as-looking-like-kid-on-the-outside-of-the-birthday-party-in-funeral-recollection/)
-
-[Hillary describes Melania Trump as looking like ‘kid on the outside of the birthday party’ in funeral recollection](https://americanwirenews.com/hillary-describes-melania-trump-as-looking-like-kid-on-the-outside-of-the-birthday-party-in-funeral-recollection/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-trump_harrisphilly-1200-x-628-220x180.jpg)](https://americanwirenews.com/key-swing-state-approves-rule-to-require-hand-counting-of-ballots/)
-
-[Key swing state approves rule to require hand-counting of ballots](https://americanwirenews.com/key-swing-state-approves-rule-to-require-hand-counting-of-ballots/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-stern-trump-220x180.jpg)](https://americanwirenews.com/trump-responds-to-howard-sterns-hate-for-his-voters-he-doesnt-do-the-ratings-anymore/)
-
-[Trump responds to Howard Stern’s hate for his voters: ‘He doesn’t do the ratings anymore’](https://americanwirenews.com/trump-responds-to-howard-sterns-hate-for-his-voters-he-doesnt-do-the-ratings-anymore/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-jill-leading-cabinet-meeting-220x180.jpg)](https://americanwirenews.com/we-need-a-real-leader-bidens-first-cabinet-meeting-in-nearly-a-year-almost-immediately-thrown-to-jill/)
-
-[‘We need a real leader’: Biden’s first Cabinet meeting in nearly a year almost immediately thrown to Jill](https://americanwirenews.com/we-need-a-real-leader-bidens-first-cabinet-meeting-in-nearly-a-year-almost-immediately-thrown-to-jill/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-aocbigmouth-1200-x-628-220x180.jpg)](https://americanwirenews.com/aoc-whines-that-office-covered-with-blood-splattered-signs-after-she-took-up-for-hezbollah/)
-
-[AOC whines that office covered with ‘blood-splattered’ signs after she took up for Hezbollah](https://americanwirenews.com/aoc-whines-that-office-covered-with-blood-splattered-signs-after-she-took-up-for-hezbollah/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-razor-wire-220x180.jpg)](https://americanwirenews.com/dem-governor-not-happy-when-texas-installs-razor-wire-on-its-border-with-new-mexico/)
-
-[Dem governor NOT happy when Texas installs razor wire on its border — with New Mexico](https://americanwirenews.com/dem-governor-not-happy-when-texas-installs-razor-wire-on-its-border-with-new-mexico/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-jennifer-box-220x180.jpg)](https://americanwirenews.com/broward-co-fla-sued-for-falsely-arresting-innocent-texas-mom-in-case-you-need-to-read-to-believe/)
-
-[Broward Co., Fla. sued for falsely arresting innocent Texas mom in case you need to read to believe](https://americanwirenews.com/broward-co-fla-sued-for-falsely-arresting-innocent-texas-mom-in-case-you-need-to-read-to-believe/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-trump-4-220x180.jpg)](https://americanwirenews.com/whistleblower-comes-forward-with-earthshattering-claim-about-second-attempt-on-trumps-life/)
-
-[Whistleblower comes forward with earthshattering claim about second attempt on Trump’s life](https://americanwirenews.com/whistleblower-comes-forward-with-earthshattering-claim-about-second-attempt-on-trumps-life/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-caterpillar-220x180.jpg)](https://americanwirenews.com/major-american-manufacturer-backs-off-destructive-dei-policies-over-risk-of-being-exposed-report/)
-
-[Major American manufacturer backs off destructive DEI policies over risk of being exposed: report](https://americanwirenews.com/major-american-manufacturer-backs-off-destructive-dei-policies-over-risk-of-being-exposed-report/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2022/10/RF-Getty-vote-220x180.jpg)](https://americanwirenews.com/how-many-other-states-need-to-do-this-oklahoma-purges-ineligible-names-from-voter-rolls-and-wow/)
-
-[‘How many other states need to do this?’ Oklahoma purges ineligible names from voter rolls… and, WOW](https://americanwirenews.com/how-many-other-states-need-to-do-this-oklahoma-purges-ineligible-names-from-voter-rolls-and-wow/)
-
-Getty Images
+[Mace exposes professors’ flirtatious messages following heated CNN panel, gets accused of ‘white women’s tears’](https://americanwirenews.com/mace-exposes-professors-flirtatious-messages-following-heated-cnn-panel-gets-accused-of-white-womens-tears/)
 
 Start today! **Enjoy the REAL news** at your fingertips. You could be getting the best stories in your inbox twice a day.
 
@@ -240,9 +240,17 @@ Start today! **Enjoy the REAL news** at your fingertips. You could be getting th
 
 ### [BUSINESS](https://www.commdiginews.com/category/featured-business/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-college-students-gen-z-class-1200x630.jpg)](https://americanwirenews.com/survey-companies-dont-want-to-hire-gen-z-say-theyre-not-prepared-for-the-workplace/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-caterpillar-1200x630.jpg)](https://americanwirenews.com/major-american-manufacturer-backs-off-destructive-dei-policies-over-risk-of-being-exposed-report/)
 
-[Survey: Companies don’t want to hire Gen Z, say they’re not prepared for the workplace](https://americanwirenews.com/survey-companies-dont-want-to-hire-gen-z-say-theyre-not-prepared-for-the-workplace/)
+[Major American manufacturer backs off destructive DEI policies over risk of being exposed: report](https://americanwirenews.com/major-american-manufacturer-backs-off-destructive-dei-policies-over-risk-of-being-exposed-report/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-caterpillar-220x180.jpg)](https://americanwirenews.com/major-american-manufacturer-backs-off-destructive-dei-policies-over-risk-of-being-exposed-report/)
+
+[Major American manufacturer backs off destructive DEI policies over risk of being exposed: report](https://americanwirenews.com/major-american-manufacturer-backs-off-destructive-dei-policies-over-risk-of-being-exposed-report/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-panty-dropper-ad-220x180.jpg)](https://americanwirenews.com/president-of-wild-willies-beard-oil-defends-panty-dropper-ad-after-outrage-our-humors-not-for-everyone/)
+
+[President of Wild Willie’s beard oil defends ‘panty dropper’ ad after outrage: ‘Our humor’s not for everyone’](https://americanwirenews.com/president-of-wild-willies-beard-oil-defends-panty-dropper-ad-after-outrage-our-humors-not-for-everyone/)
 
 [![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-college-students-gen-z-class-220x180.jpg)](https://americanwirenews.com/survey-companies-dont-want-to-hire-gen-z-say-theyre-not-prepared-for-the-workplace/)
 
@@ -255,14 +263,6 @@ Start today! **Enjoy the REAL news** at your fingertips. You could be getting th
 [![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-hrc-220x180.jpg)](https://americanwirenews.com/american-corporations-abandoning-woke-cei-scores-over-center-right-backlash/)
 
 [American corporations abandoning ‘woke’ CEI scores over center-right backlash](https://americanwirenews.com/american-corporations-abandoning-woke-cei-scores-over-center-right-backlash/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-nyt-1200-x-628-220x180.jpg)](https://americanwirenews.com/new-york-times-workers-threaten-election-day-strike-if-their-bizarre-demands-arent-met/)
-
-[New York Times workers threaten Election Day strike if their bizarre demands aren’t met](https://americanwirenews.com/new-york-times-workers-threaten-election-day-strike-if-their-bizarre-demands-arent-met/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2023/09/SG-Barron-Trump-Donald-Trump-Melania-Trump-220x180.jpg)](https://americanwirenews.com/don-jr-laughs-over-little-brother-barrons-move-on-joint-business-call-damned-teenagers/)
-
-[Don Jr. laughs over little brother Barron’s move on joint business call: ‘Damned teenagers!’](https://americanwirenews.com/don-jr-laughs-over-little-brother-barrons-move-on-joint-business-call-damned-teenagers/)
 
 ### [POLITICS](https://www.commdiginews.com/category/featured-politics/)
 
@@ -278,17 +278,17 @@ Start today! **Enjoy the REAL news** at your fingertips. You could be getting th
 
 [Trump rejects second Kamala debate on CNN: ‘She’s had her chance to do it with Fox’](https://americanwirenews.com/trump-rejects-second-kamala-debate-on-cnn-shes-had-her-chance-to-do-it-with-fox/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-trump-supporter-eye-irritation-220x180.jpg)](https://americanwirenews.com/supporters-sitting-behind-trump-at-rally-experience-mysterious-medical-condition/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-hillary-clinton-1-220x180.jpg)](https://americanwirenews.com/hillary-describes-melania-trump-as-looking-like-kid-on-the-outside-of-the-birthday-party-in-funeral-recollection/)
 
-[Supporters sitting behind Trump at rally experience mysterious medical condition](https://americanwirenews.com/supporters-sitting-behind-trump-at-rally-experience-mysterious-medical-condition/)
+[Hillary describes Melania Trump as looking like ‘kid on the outside of the birthday party’ in funeral recollection](https://americanwirenews.com/hillary-describes-melania-trump-as-looking-like-kid-on-the-outside-of-the-birthday-party-in-funeral-recollection/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-carlson-kennedy-jr-220x180.jpg)](https://americanwirenews.com/rfk-jr-says-hes-helping-trump-pick-leaders-of-fda-nih-cdc/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-trump_harrisphilly-1200-x-628-220x180.jpg)](https://americanwirenews.com/key-swing-state-approves-rule-to-require-hand-counting-of-ballots/)
 
-[RFK Jr. says he’s helping Trump pick leaders of FDA, NIH, CDC](https://americanwirenews.com/rfk-jr-says-hes-helping-trump-pick-leaders-of-fda-nih-cdc/)
+[Key swing state approves rule to require hand-counting of ballots](https://americanwirenews.com/key-swing-state-approves-rule-to-require-hand-counting-of-ballots/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-dncaoc1-1200-x-628-220x180.jpg)](https://americanwirenews.com/aoc-explodes-over-pager-operation-against-hezbollah-terrorists/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-stern-trump-220x180.jpg)](https://americanwirenews.com/trump-responds-to-howard-sterns-hate-for-his-voters-he-doesnt-do-the-ratings-anymore/)
 
-[AOC explodes over pager operation against Hezbollah terrorists](https://americanwirenews.com/aoc-explodes-over-pager-operation-against-hezbollah-terrorists/)
+[Trump responds to Howard Stern’s hate for his voters: ‘He doesn’t do the ratings anymore’](https://americanwirenews.com/trump-responds-to-howard-sterns-hate-for-his-voters-he-doesnt-do-the-ratings-anymore/)
 
 ### [HUMOR](https://www.commdiginews.com/category/featured-humor/)
 
@@ -326,22 +326,20 @@ Start today! **Enjoy the REAL news** at your fingertips. You could be getting th
 
 [IRS union joins with Putin, Dick Cheney in endorsing Kamala for president](https://americanwirenews.com/irs-union-joins-with-putin-dick-cheney-in-endorsing-kamala-for-president/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/getty-baruch-protest-220x180.jpg)](https://americanwirenews.com/cunys-baruch-college-slammed-for-trying-to-block-jewish-festival-its-appalling-its-insane/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-jennifer-box-220x180.jpg)](https://americanwirenews.com/broward-co-fla-sued-for-falsely-arresting-innocent-texas-mom-in-case-you-need-to-read-to-believe/)
 
-[CUNY’s Baruch College slammed for trying to block Jewish festival: ‘It’s appalling. It’s insane’
+[Broward Co., Fla. sued for falsely arresting innocent Texas mom in case you need to read to believe](https://americanwirenews.com/broward-co-fla-sued-for-falsely-arresting-innocent-texas-mom-in-case-you-need-to-read-to-believe/)
 
-(Photo by Michael M. Santiago/Getty Images)](https://americanwirenews.com/cunys-baruch-college-slammed-for-trying-to-block-jewish-festival-its-appalling-its-insane/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/rf-pexels-passport-220x180.jpg)](https://americanwirenews.com/how-you-renew-your-passport-is-changing-heres-what-to-know/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-musk-220x180.jpg)](https://americanwirenews.com/elon-musk-recounts-snl-appearance-rejection-of-his-skit-idea-to-pull-baby-rooster-from-his-pants/)
+[How you renew your passport is changing. Here’s what to know…](https://americanwirenews.com/how-you-renew-your-passport-is-changing-heres-what-to-know/)
 
-[Elon Musk recounts SNL appearance, rejection of his skit idea to pull ‘baby rooster’ from his pants](https://americanwirenews.com/elon-musk-recounts-snl-appearance-rejection-of-his-skit-idea-to-pull-baby-rooster-from-his-pants/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-diddy-gi-epstein-split-1200-x-628-220x180.jpg)](https://americanwirenews.com/epsteined-trends-as-diddy-is-put-on-suicide-watch/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-rickford-220x180.jpg)](https://americanwirenews.com/professor-who-said-hamas-oct-7-attack-made-him-feel-exhilarated-resumes-teaching-at-cornell/)
+[‘Epsteined’ trends as Diddy is put on suicide watch](https://americanwirenews.com/epsteined-trends-as-diddy-is-put-on-suicide-watch/)
 
-[Professor who said Hamas Oct 7 attack made him feel ‘exhilarated’ resumes teaching at Cornell](https://americanwirenews.com/professor-who-said-hamas-oct-7-attack-made-him-feel-exhilarated-resumes-teaching-at-cornell/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-ksp-gi-judge-split-1200-x-628-220x180.jpg)](https://americanwirenews.com/kentucky-judge-shot-and-killed-by-sheriff-in-his-chambers/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-favre-olbermann-220x180.png)](https://americanwirenews.com/keith-olbermann-sacked-after-picking-fight-with-nfl-legend-brett-favre/)
-
-[Keith Olbermann sacked after picking fight with NFL legend Brett Favre](https://americanwirenews.com/keith-olbermann-sacked-after-picking-fight-with-nfl-legend-brett-favre/)
+[Kentucky judge shot and killed by sheriff in his chambers](https://americanwirenews.com/kentucky-judge-shot-and-killed-by-sheriff-in-his-chambers/)
 
 © 2024. All Rights Reserved. American Wire News
