@@ -392,7 +392,6 @@ The Web Site is maintained by Ducks Unlimited, Inc., One Waterfowl Way, Memphis,
     
     * [![Apple-Podcasts.png](/files/live/sites/ducksorg/files/logos/social-media/Apple-Podcasts.png)](https://podcasts.apple.com/us/podcast/ducks-unlimited-podcast/id1483983112 "Listen on Apple Podcasts")
     * [![Spotify.png](/files/live/sites/ducksorg/files/logos/social-media/Spotify.png)](https://open.spotify.com/show/0YgJh4E6Zdae1zYVifFgPa "Listen on Spotify")
-    * [![Google-Podcasts.png](/files/live/sites/ducksorg/files/logos/social-media/Google-Podcasts.png)](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy50cmFuc2lzdG9yLmZtL2R1Y2tzLXVubGltaXRlZC1wb2RjYXN0?hl=en "Listen on Google Podcasts")
     * [![YouTube.png](/files/live/sites/ducksorg/files/logos/social-media/YouTube.png)](https://www.youtube.com/channel/UCCynl0EGfexjkayx02tBgiw "Listen on YouTube")
     
     [More About the DU Podcast](https://www.ducks.org/media/du-podcast "More About the DU Podcast")
