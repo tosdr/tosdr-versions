@@ -54,7 +54,19 @@
     
     By Emily Hutchinson [Read More](https://www.women.com/1668174/libra-celebrities-perfectly-embody-zodiac-sign/)
     
-* *  [![Sabrina Carpenter on stage](https://www.women.com/img/gallery/the-shangri-la-is-the-sabrina-carpenter-inspired-cut-taking-hair-trends-by-storm/intro-1727103089.jpg)](https://www.women.com/1670893/shangri-la-sabrina-carpenter-inspired-hair-trend/)
+* *  [![Women in bed](https://www.women.com/img/gallery/shallowing-may-be-the-perfect-sex-act-for-maximum-pleasure/intro-1726696831.jpg)](https://www.women.com/1668231/shallowing-perfect-sex-act-maximum-pleasure/)
+        
+        [Sex](https://www.women.com/category/sex-life/)
+        
+        [Sex](https://www.women.com/category/sex-life/) By Amanda Chatel
+        
+        ### [Shallowing May Be The Perfect Sex Act For Maximum Pleasure](https://www.women.com/1668231/shallowing-perfect-sex-act-maximum-pleasure/)
+        
+        If you're looking to try something sexual you haven't done before or you're just not too keen on penetration, then shallowing might be for you.
+        
+        By Amanda Chatel [Read More](https://www.women.com/1668231/shallowing-perfect-sex-act-maximum-pleasure/)
+        
+    *  [![Sabrina Carpenter on stage](https://www.women.com/img/gallery/the-shangri-la-is-the-sabrina-carpenter-inspired-cut-taking-hair-trends-by-storm/intro-1727103089.jpg)](https://www.women.com/1670893/shangri-la-sabrina-carpenter-inspired-hair-trend/)
         
         [Exclusives](https://www.women.com/category/exclusives/)
         
@@ -66,33 +78,21 @@
         
         By Amanda Chatel [Read More](https://www.women.com/1670893/shangri-la-sabrina-carpenter-inspired-hair-trend/)
         
-    *  [![glace cryotherapy](https://www.women.com/img/gallery/heres-what-went-down-with-glac-cryotherapy-after-shark-tank/intro-1726783810.jpg)](https://www.women.com/1669284/what-went-down-with-glace-cryotherapy-after-shark-tank/)
-        
-        [Living](https://www.women.com/category/living/)
-        
-        [Living](https://www.women.com/category/living/) By Amanda Chatel
-        
-        ### [Here's What Went Down With GLACÉ Cryotherapy After Shark Tank](https://www.women.com/1669284/what-went-down-with-glace-cryotherapy-after-shark-tank/)
-        
-        The Scarlett siblings' cold therapy business Glace promised to revolutionize the exercise space. But unfortunately, the hype around the movement didn't last.
-        
-        By Amanda Chatel [Read More](https://www.women.com/1669284/what-went-down-with-glace-cryotherapy-after-shark-tank/)
-        
 
 More Stories
 ------------
 
-*  [![Women in bed](https://www.women.com/img/gallery/shallowing-may-be-the-perfect-sex-act-for-maximum-pleasure/intro-1726696831.jpg)](https://www.women.com/1668231/shallowing-perfect-sex-act-maximum-pleasure/)
+*  [![glace cryotherapy](https://www.women.com/img/gallery/heres-what-went-down-with-glac-cryotherapy-after-shark-tank/intro-1726783810.jpg)](https://www.women.com/1669284/what-went-down-with-glace-cryotherapy-after-shark-tank/)
     
-    [Sex](https://www.women.com/category/sex-life/)
+    [Living](https://www.women.com/category/living/)
     
-    [Sex](https://www.women.com/category/sex-life/) By Amanda Chatel
+    [Living](https://www.women.com/category/living/) By Amanda Chatel
     
-    ### [Shallowing May Be The Perfect Sex Act For Maximum Pleasure](https://www.women.com/1668231/shallowing-perfect-sex-act-maximum-pleasure/)
+    ### [Here's What Went Down With GLACÉ Cryotherapy After Shark Tank](https://www.women.com/1669284/what-went-down-with-glace-cryotherapy-after-shark-tank/)
     
-    If you're looking to try something sexual you haven't done before or you're just not too keen on penetration, then shallowing might be for you.
+    The Scarlett siblings' cold therapy business Glace promised to revolutionize the exercise space. But unfortunately, the hype around the movement didn't last.
     
-    By Amanda Chatel [Read More](https://www.women.com/1668231/shallowing-perfect-sex-act-maximum-pleasure/)
+    By Amanda Chatel [Read More](https://www.women.com/1669284/what-went-down-with-glace-cryotherapy-after-shark-tank/)
     
 *  [![Sabrina Carpenter on stage](https://www.women.com/img/gallery/sabrina-carpenter-outfits-that-prove-why-shes-the-new-it-girl/intro-1726692701.jpg)](https://www.women.com/1668167/sabrina-carpenter-outfits-prove-why-new-it-girl/)
     
@@ -102,7 +102,7 @@ More Stories
     
     ### [Sabrina Carpenter Outfits That Prove Why She's The New It Girl](https://www.women.com/1668167/sabrina-carpenter-outfits-prove-why-new-it-girl/)
     
-    There's no nonsense when it comes to Sabrina Carpenter's fashion sense. Here are the best looks that prove the singer is a Taste-maker when it comes to trends.
+    From pioneering the coquette aesthetic to honoring the pop queens of decades past, Sabrina Carpenter is a certified fashion "Taste"-maker.
     
     By Emily Hutchinson [Read More](https://www.women.com/1668167/sabrina-carpenter-outfits-prove-why-new-it-girl/)
     
@@ -417,6 +417,6 @@ Back
 
 More From Static Media
 
-[Chowhound](https://www.chowhound.com/)[Cuteness](https://www.cuteness.com/)[Explore](https://www.explore.com/)[Foodie](https://www.foodie.com/)[Food Republic](https://www.foodrepublic.com/)[Glam](https://www.glam.com/)[Grunge](https://www.grunge.com/)[Health Digest](https://www.healthdigest.com/)[House Digest](https://www.housedigest.com/)[Hunker](https://www.hunker.com/)[Islands](https://www.islands.com/)[Looper](https://www.looper.com/)[Mashed](https://www.mashed.com/)[Money Digest](https://www.moneydigest.com/)[Nicki Swift](https://www.nickiswift.com/)[Outdoor Guide](https://www.outdoorguide.com/)[SlashFilm](https://www.slashfilm.com/)[SlashGear](https://www.slashgear.com/)[SVG](https://www.svg.com/)[Tasting Table](https://www.tastingtable.com/)[The Daily Meal](https://www.thedailymeal.com/)[The List](https://www.thelist.com/)[The Takeout](https://www.thetakeout.com/)[Wrestling Inc.](https://www.wrestlinginc.com/)
+[Chowhound](https://www.chowhound.com/)[Cuteness](https://www.cuteness.com/)[Explore](https://www.explore.com/)[Foodie](https://www.foodie.com/)[Food Republic](https://www.foodrepublic.com/)[Garden Guides](https://www.gardenguides.com/)[Glam](https://www.glam.com/)[Grunge](https://www.grunge.com/)[Health Digest](https://www.healthdigest.com/)[House Digest](https://www.housedigest.com/)[Hunker](https://www.hunker.com/)[Islands](https://www.islands.com/)[Looper](https://www.looper.com/)[Mashed](https://www.mashed.com/)[Money Digest](https://www.moneydigest.com/)[Nicki Swift](https://www.nickiswift.com/)[Outdoor Guide](https://www.outdoorguide.com/)[Sciencing](https://www.sciencing.com/)[SlashFilm](https://www.slashfilm.com/)[SlashGear](https://www.slashgear.com/)[SVG](https://www.svg.com/)[Tasting Table](https://www.tastingtable.com/)[The Daily Meal](https://www.thedailymeal.com/)[The List](https://www.thelist.com/)[The Takeout](https://www.thetakeout.com/)[Wrestling Inc.](https://www.wrestlinginc.com/)
 
 ![Women](https://www.women.com/img/Women-com-Icon-Pink-RGB-V2.svg)
