@@ -1,4 +1,4 @@
- [![Pixelfed logo](/img/pixelfed-icon-color.svg) Pixelfed Uno Italia - Foto in Creative Commons](https://pixelfed.uno/ "Logo")
+ [![Pixelfed logo](/img/pixelfed-icon-color.svg) Pixelfed Uno Italia - Foto Social](https://pixelfed.uno/ "Logo")
 
 * [Login](https://pixelfed.uno/login "Login")
 
