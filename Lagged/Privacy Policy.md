@@ -207,15 +207,15 @@ Lagged allows other websites to embed certain games, but to embed any of our gam
 Popular game categories
 -----------------------
 
-*  [![Animal Games](https://imgs2.dab3games.com/cat-ecapage-game-ft.png) Animal Games405 games](https://lagged.com/en/animal "Animal Games")
-*  [![Arcade Games](https://imgs2.dab3games.com/magic-piano-tiles-ft17.png) Arcade Games1,597 games](https://lagged.com/en/arcade "Arcade Games")
-*  [![Car Games](https://imgs2.dab3games.com/reckless-driver-game.png) Car Games397 games](https://lagged.com/en/car "Car Games")
+*  [![Animal Games](https://imgs2.dab3games.com/cat-ecapage-game-ft.png) Animal Games409 games](https://lagged.com/en/animal "Animal Games")
+*  [![Arcade Games](https://imgs2.dab3games.com/magic-piano-tiles-ft17.png) Arcade Games1,606 games](https://lagged.com/en/arcade "Arcade Games")
+*  [![Car Games](https://imgs2.dab3games.com/reckless-driver-game.png) Car Games401 games](https://lagged.com/en/car "Car Games")
 *  [![Football Games](https://imgs2.dab3games.com/volley-master-2024-ft525.png) Football Games64 games](https://lagged.com/en/football "Football Games")
-*  [![Funny Games](https://imgs2.dab3games.com/blob-opera-game.png) Funny Games781 games](https://lagged.com/en/funny "Funny Games")
-*  [![Girl Games](https://imgs2.dab3games.com/bikiniforlove-ft50.png) Girl Games755 games](https://lagged.com/en/girl "Girl Games")
-*  [![Puzzle Games](https://imgs2.dab3games.com/draw-this-2-game-ft.png) Puzzle Games2,280 games](https://lagged.com/en/puzzle "Puzzle Games")
+*  [![Funny Games](https://imgs2.dab3games.com/blob-opera-game.png) Funny Games787 games](https://lagged.com/en/funny "Funny Games")
+*  [![Girl Games](https://imgs2.dab3games.com/bikiniforlove-ft50.png) Girl Games764 games](https://lagged.com/en/girl "Girl Games")
+*  [![Puzzle Games](https://imgs2.dab3games.com/draw-this-2-game-ft.png) Puzzle Games2,296 games](https://lagged.com/en/puzzle "Puzzle Games")
 *  [![Solitaire Games](https://imgs2.dab3games.com/klondike-solitair-game969.png) Solitaire Games58 games](https://lagged.com/en/solitaire "Solitaire Games")
-*  [![Two Player Games](https://imgs2.dab3games.com/backrooms-escape-1-1038.png) Two Player Games311 games](https://lagged.com/en/two-player "Two Player Games")
+*  [![Two Player Games](https://imgs2.dab3games.com/backrooms-escape-1-1038.png) Two Player Games313 games](https://lagged.com/en/two-player "Two Player Games")
 *  [![Weird Games](https://imgs2.dab3games.com/screamers-2263.png) Weird Games61 games](https://lagged.com/en/weird "Weird Games")
 
 Games you might like
@@ -225,11 +225,11 @@ Games you might like
 
 [Blob Opera](https://lagged.com/en/g/blob-opera) ![Blob Opera Game](https://imgs2.dab3games.com/blob-opera-game-ft2.png) top rated
 
-[Lemon Opera](https://lagged.com/en/g/lemon-opera) ![Lemon Opera Game](https://imgs2.dab3games.com/lemon-opera-ft.png)
-
 [Going Balls](https://lagged.com/en/g/going-balls19) ![Going Balls Game](https://imgs2.dab3games.com/going-ballz-game.png)
 
 [Bikini for Love](https://lagged.com/en/g/bikini-for-love) ![Bikini for Love Game](https://imgs2.dab3games.com/bikiniforlove-ft50.png)
+
+[Lemon Opera](https://lagged.com/en/g/lemon-opera) ![Lemon Opera Game](https://imgs2.dab3games.com/lemon-opera-ft.png)
 
 [Draw This 2](https://lagged.com/en/g/drawthis2) ![Draw This 2 Game](https://imgs2.dab3games.com/draw-this-2-game-ft.png)
 
@@ -247,11 +247,11 @@ Games you might like
 
 [Minecraft Online](https://lagged.com/en/g/minecraft-online) ![Minecraft Online Game](https://imgs2.dab3games.com/minecraft-game-online-ft.png)
 
-[Thief Puzzle](https://lagged.com/en/g/thief-puzzle) ![Thief Puzzle Game](https://imgs2.dab3games.com/thief-puzzle-game-online-big.png) top rated
-
 [Dino Dash](https://lagged.com/en/g/dino-dash) ![Dino Dash Game](https://imgs2.dab3games.com/dino-dash-game-ft37.png)
 
 [Counter Craft 2 Zombies](https://lagged.com/en/g/counter-craft-2-zombies) ![Counter Craft 2 Zombies Game](https://imgs2.dab3games.com/counter-craft-2-zombies-game.png)
+
+[Thief Puzzle](https://lagged.com/en/g/thief-puzzle) ![Thief Puzzle Game](https://imgs2.dab3games.com/thief-puzzle-game-online-big.png) top rated
 
 [Lagged.com](https://lagged.com/ "Lagged.com")
 
