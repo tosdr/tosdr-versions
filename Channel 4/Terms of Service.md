@@ -76,13 +76,11 @@
         * [Help! We Bought A Village](https://www.channel4.com/4viewers/take-part/bought-a-village)
         * [Kirstie and Phil's Love It or List It](https://www.channel4.com/4viewers/take-part/kirstie-and-phils-love-it-or-list-it)
         * [Location, Location, Location](https://www.channel4.com/4viewers/takepart/location)
-        * [Love Triangle](https://www.channel4.com/4viewers/take-part/love-triangle)
         * [Married at First Sight UK](https://www.channel4.com/4viewers/takepart/married-at-first-sight)
         * [Millionaire Hoarders](https://www.channel4.com/4viewers/take-part/millionaire-hoarders)
         * [Naked Attraction](https://www.channel4.com/4viewers/take-part/naked-attraction)
         * [A New Life in the Sun](https://www.channel4.com/4viewers/take-part/new-life-sun)
         * [Open House: The Great Sex Experiment](https://www.channel4.com/4viewers/take-part/open-house)
-        * [The Piano](https://www.channel4.com/4viewers/take-part/the-piano)
         * [A Place in the Sun](https://www.channel4.com/4viewers/take-part/apits)
         * [Stacey Solomon's Renovation Rescue](https://www.channel4.com/4viewers/take-part/renovation-rescue)
         
