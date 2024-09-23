@@ -120,7 +120,7 @@ Welcome! [Login](https://knowyourmeme.com/login) or [signup](https://knowyourmem
 
 ##### Also Trending:
 
-[DEI Chin](https://knowyourmeme.com/memes/dei-chin "DEI Chin") [Lera Abova "Nico Robin" Casting Controversy](https://knowyourmeme.com/memes/events/lera-abova-nico-robin-casting-controversy "Lera Abova "Nico Robin" Casting Controversy") [Ironmouse YouTube Channel Shutdown](https://knowyourmeme.com/memes/events/ironmouse-youtube-channel-shutdown "Ironmouse YouTube Channel Shutdown") [Cigar Cougar / Cursed Panther Smoking](https://knowyourmeme.com/memes/cigar-cougar-cursed-panther-smoking "Cigar Cougar / Cursed Panther Smoking")
+[DEI Chin](https://knowyourmeme.com/memes/dei-chin "DEI Chin") [Second Life](https://knowyourmeme.com/memes/subcultures/second-life "Second Life") [Steve Jobs' Death](https://knowyourmeme.com/memes/events/steve-jobs-death "Steve Jobs' Death") [Lera Abova "Nico Robin" Casting Controversy](https://knowyourmeme.com/memes/events/lera-abova-nico-robin-casting-controversy "Lera Abova "Nico Robin" Casting Controversy") [Death of Kim Jong-Il](https://knowyourmeme.com/memes/events/death-of-kim-jong-il "Death of Kim Jong-Il") [Osama Bin Laden's Death](https://knowyourmeme.com/memes/events/osama-bin-ladens-death "Osama Bin Laden's Death") [Queen Elizabeth II's Death](https://knowyourmeme.com/memes/events/queen-elizabeth-iis-death "Queen Elizabeth II's Death") [Thug Life](https://knowyourmeme.com/memes/thug-life "Thug Life") [Tomodachi Life](https://knowyourmeme.com/memes/subcultures/tomodachi-life "Tomodachi Life")
 
 Terms of Service and Use
 ========================
@@ -261,7 +261,7 @@ If you have any questions or concerns about these Terms of Service or the Websit
 **Legal Information:** [Know Your Meme ®](https://knowyourmeme.com/) is a trademark of [Literally Media Ltd.](https://literally.media/) By using this site, you are agreeing by the site's [terms of use](https://knowyourmeme.com/terms-of-service) and [privacy policy](https://knowyourmeme.com/privacy) and [DMCA policy](https://knowyourmeme.com/dmca).  
 © 2007-2024 [Literally Media Ltd.](https://literally.media/)
 
-### Namaste! You must login or signup first!
+### Hello! You must login or signup first!
 
 |     |     |
 | --- | --- |
