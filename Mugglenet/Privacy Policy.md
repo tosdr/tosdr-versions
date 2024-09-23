@@ -244,14 +244,6 @@ MuggleNet Archive Select Month September 2024  (18) August 2024  (30) July 202
 
 ### September 2024
 
-#### Sun, Sep 22
-
-Tom Felton's birthday
-
-Recurs yearly
-
-Draco Malfoy
-
 #### Wed, Sep 25
 
 Colleen Atwood's Birthday
@@ -288,15 +280,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-The most Ordinary Wizarding Levels a witch or wizard can receive is 12.
+The giant squid is a peaceful creature. It can be seen coming up to the surface to be tickled or fed toast; it has even been known to rescue students who have fallen in.
 
 ### Potter History
 
-February 19, 2006 – Rupert Grint attends the BAFTAs to represent the cast and crew of the Harry Potter and the Goblet of Fire film, which was nominated for three awards.
+January 18, 2004 – Harry Potter and the Goblet of Fire is predicted to be the most expensive film ever made.
 
 ### Potter Quote
 
-“Tina, you brought men home.”
+“When we come face-to-face with one down a dark alley, we’re going to be having a look to see if its solid, aren’t we, we’re not going to be asking, ‘Excuse me, are you the imprint of a departed soul?’”
 
 [](#)
 
