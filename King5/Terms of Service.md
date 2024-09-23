@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/bdacc9c0-d119-429d-b4ce-15ed9e7b8cb0/20240923T131740/bdacc9c0-d119-429d-b4ce-15ed9e7b8cb0_16x9.jpg) ![](https://media.king5.com/assets/KING/images/bdacc9c0-d119-429d-b4ce-15ed9e7b8cb0/20240923T131740/bdacc9c0-d119-429d-b4ce-15ed9e7b8cb0_360x203.jpg)](https://www.king5.com/article/news/crime/deadly-shooting-graham/281-e7f23e0c-483f-4835-8036-9b0c26ff4fcd)
+    *  [![](https://media.king5.com/assets/KING/images/f6b27d34-7bf5-4344-9167-ebdc3674c228/20240914T005453/f6b27d34-7bf5-4344-9167-ebdc3674c228_16x9.jpg) ![](https://media.king5.com/assets/KING/images/f6b27d34-7bf5-4344-9167-ebdc3674c228/20240914T005453/f6b27d34-7bf5-4344-9167-ebdc3674c228_360x203.jpg)](https://www.king5.com/article/tech/science/aerospace/boeing/boeing-final-contract-offer-machinists-strike/281-b18924b5-96b5-4413-ad2c-64cca58b557c)
         
-        #### [Man killed, another injured after shooting stemming from motorcycle dispute in Graham](https://www.king5.com/article/news/crime/deadly-shooting-graham/281-e7f23e0c-483f-4835-8036-9b0c26ff4fcd)
+        #### [Boeing presents its 'best and final offer' in attempt to end machinists strike](https://www.king5.com/article/tech/science/aerospace/boeing/boeing-final-contract-offer-machinists-strike/281-b18924b5-96b5-4413-ad2c-64cca58b557c)
         
-    *  [![](https://media.king5.com/assets/KING/images/e1b3ea88-ed41-4d91-af28-3840664a263a/20240923T125939/e1b3ea88-ed41-4d91-af28-3840664a263a_16x9.jpg) ![](https://media.king5.com/assets/KING/images/e1b3ea88-ed41-4d91-af28-3840664a263a/20240923T125939/e1b3ea88-ed41-4d91-af28-3840664a263a_360x203.jpg)](https://www.king5.com/article/news/local/seattle/seattle-attorney-powerlifting-competition/281-d037a799-582a-40ef-95e1-4f71919ea976)
+    *  [![](https://media.king5.com/assets/KING/images/a5b84aaf-5baa-45ac-938d-48b9eafe4c6c/20240923T182257/a5b84aaf-5baa-45ac-938d-48b9eafe4c6c_16x9.jpg) ![](https://media.king5.com/assets/KING/images/a5b84aaf-5baa-45ac-938d-48b9eafe4c6c/20240923T182257/a5b84aaf-5baa-45ac-938d-48b9eafe4c6c_360x203.jpg)](https://www.king5.com/article/weather/summer-weather-western-washington-70-degrees/281-ef128b9f-f4f8-4c2c-84ac-0b219e6dae76)
         
-        #### [At almost 70, this Seattle attorney is competing at an international powerlifting competition](https://www.king5.com/article/news/local/seattle/seattle-attorney-powerlifting-competition/281-d037a799-582a-40ef-95e1-4f71919ea976)
+        #### [Summer weather in western Washington winds down this week](https://www.king5.com/article/weather/summer-weather-western-washington-70-degrees/281-ef128b9f-f4f8-4c2c-84ac-0b219e6dae76)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -56,13 +56,13 @@ Navigation
     
     Latest Weather Stories
     
+    *  [![](https://media.king5.com/assets/KING/images/a5b84aaf-5baa-45ac-938d-48b9eafe4c6c/20240923T182257/a5b84aaf-5baa-45ac-938d-48b9eafe4c6c_16x9.jpg) ![](https://media.king5.com/assets/KING/images/a5b84aaf-5baa-45ac-938d-48b9eafe4c6c/20240923T182257/a5b84aaf-5baa-45ac-938d-48b9eafe4c6c_360x203.jpg)](https://www.king5.com/article/weather/summer-weather-western-washington-70-degrees/281-ef128b9f-f4f8-4c2c-84ac-0b219e6dae76)
+        
+        #### [Summer weather in western Washington winds down this week](https://www.king5.com/article/weather/summer-weather-western-washington-70-degrees/281-ef128b9f-f4f8-4c2c-84ac-0b219e6dae76)
+        
     *  [![](https://media.king5.com/assets/KING/images/24b4175e-2627-4ead-a13b-1f33ee9a34cd/20240923T120419/24b4175e-2627-4ead-a13b-1f33ee9a34cd_16x9.jpg) ![](https://media.king5.com/assets/KING/images/24b4175e-2627-4ead-a13b-1f33ee9a34cd/20240923T120419/24b4175e-2627-4ead-a13b-1f33ee9a34cd_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
         #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
-        
-    *  [![](https://media.king5.com/assets/WTIC/images/c1adf01e-1db8-439b-bdc3-891934f4d383/c1adf01e-1db8-439b-bdc3-891934f4d383_16x9.jpg) ![](https://media.king5.com/assets/WTIC/images/c1adf01e-1db8-439b-bdc3-891934f4d383/c1adf01e-1db8-439b-bdc3-891934f4d383_360x203.jpg)](https://www.king5.com/article/news/nation-world/first-day-of-fall/507-06766aa7-07fd-473a-bcd6-575afd16614a)
-        
-        #### [When is the first day of fall?](https://www.king5.com/article/news/nation-world/first-day-of-fall/507-06766aa7-07fd-473a-bcd6-575afd16614a)
         
     
 * [Sports](https://www.king5.com/sports)
@@ -95,9 +95,9 @@ Navigation
 
 Seattle, WA »
 
-62°
+71°
 
-![Fog](/assets/shared-images/weather-icons/fog-day_210x210.png)
+![Cloudy](/assets/shared-images/weather-icons/cloudy-day_210x210.png)
 
 Seattle, WA »](https://www.king5.com/weather)
 
