@@ -15,6 +15,11 @@
     
     [See All](https://www.coolthings.com/gadgets/)
     
+    [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/dji-osmo-action-5-pro-13-5-stops-dynamic-range-4k-120fps-960fps-slomo/)
+    
+    [DJI Osmo Action 5 Pro Boasts Superb Low-Light Performance with 13.5 Stops of Dynamic Range](https://www.coolthings.com/dji-osmo-action-5-pro-13-5-stops-dynamic-range-4k-120fps-960fps-slomo/)
+    -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+    
     [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/the-best-wireless-lapel-mics-to-give-your-videos-clear-consistent-audio/)
     
     [The Best Wireless Lapel Mics to Give Your Videos Clear, Consistent Audio](https://www.coolthings.com/the-best-wireless-lapel-mics-to-give-your-videos-clear-consistent-audio/)
@@ -24,11 +29,6 @@
     
     [Charge Your Portable Power Station All Day and Night with the Aurea Shine 2.0 Portable Wind Turbine](https://www.coolthings.com/aurea-shine-2-0-portable-wind-turbine-50w-charger/)
     ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-    
-    [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/backup-by-biolite-home-battery-power-simpler-installation/)
-    
-    [Backup by BioLite Offers a Simpler Way to Add Backup Battery Power to Your Home](https://www.coolthings.com/backup-by-biolite-home-battery-power-simpler-installation/)
-    ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
     
 * [GIFTS](http://www.coolthings.com/gifts/)
     
@@ -43,6 +43,11 @@
     
     [See All](https://www.coolthings.com/gear/)
     
+    [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/chirp-rpm-mini-rolling-percussive-massager-one-handed-kettlebell-form-factor/)
+    
+    [Chirp RPM Mini Turns the Massage Gun Into a One-Handed Foam Roller](https://www.coolthings.com/chirp-rpm-mini-rolling-percussive-massager-one-handed-kettlebell-form-factor/)
+    ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+    
     [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/aurea-shine-2-0-portable-wind-turbine-50w-charger/)
     
     [Charge Your Portable Power Station All Day and Night with the Aurea Shine 2.0 Portable Wind Turbine](https://www.coolthings.com/aurea-shine-2-0-portable-wind-turbine-50w-charger/)
@@ -52,11 +57,6 @@
     
     [The Best Steam Deck Cases to Protect Your Gaming Handheld](https://www.coolthings.com/the-best-steam-deck-cases-to-protect-your-gaming-handheld/)
     --------------------------------------------------------------------------------------------------------------------------------------------------
-    
-    [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/bang-olufsen-beoplay-h100-wireless-anc-headphones-put-luxury-and-longevity/)
-    
-    [Bang & Olufsen Beoplay H100 ANC Headphones Put Luxury and Longevity at the Forefront](https://www.coolthings.com/bang-olufsen-beoplay-h100-wireless-anc-headphones-put-luxury-and-longevity/)
-    ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
     
     * [OUTDOOR GEAR](http://www.coolthings.com/tag/outdoor-gear/)
     * [CAMPING GEAR](http://www.coolthings.com/tag/camping-gear/)
