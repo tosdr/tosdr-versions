@@ -15,23 +15,29 @@ EN
 
 [Get started](https://www.tradingview.com/pricing/?source=header_go_pro_button&feature=start_free_trial)
 
-Terms of Use, Policies and Disclaimers
-======================================
+Terms of Use, Policies, and Disclaimers
+=======================================
 
 Your affirmative act of using our website located at [www.tradingview.com](https://www.tradingview.com/) (and all associated sites linked to it) or services ("TradingView") signifies that you agree to the following terms and conditions of use ("Terms of Use"). If you do not agree, do not use TradingView. TradingView is the property of TradingView Inc. ("us", "we" or "our").
 
 1\. Changes to the terms of use
--------------------------------
+
+
+-----------------------------------
 
 We may change these Terms of Use at any time. If you continue to use TradingView after we post changes to these Terms of Use, you are signifying your acceptance of the new terms. You will always have access to our Terms of Use and will be able to check it at any time. By reloading this page, you will have the most up-to-date version available to TradingView users.
 
 2\. Changes to TradingView
---------------------------
+
+
+------------------------------
 
 We may discontinue or change any service or feature on TradingView at any time without notice. We do not guarantee backward compatibility of our services and Application Programming Interface (API) in this case.
 
-3\. Ownership of information; License to use TradingView; redistribution of data; non-display usage
----------------------------------------------------------------------------------------------------
+3\. Ownership of information; license to use TradingView; redistribution of data; non-display usage
+
+
+-------------------------------------------------------------------------------------------------------
 
 Unless otherwise noted, all rights, titles, and interests in TradingView, and all information made available through TradingView or our services, in all languages, formats, and media throughout the world, including, but not limited to, all copyrights and trademarks therein, are the exclusive property of TradingView, our affiliates or our Data Providers, as defined in section 6 (disclaimer regarding content) below.
 
@@ -45,16 +51,18 @@ Notwithstanding the foregoing, it is expressly forbidden not only direct non-dis
 2. Facilitates, enables, or encourages TradingView users or any other parties to engage in activities that would constitute a breach of this policy, including but not limited to automated order generation, price referencing, order verification, smart order routing, or the use of TradingView data in operations control, risk management programs, or any machine-driven processes excluding direct, human-readable display.
 3. Claims compatibility with, or advertises the use of, TradingView's features (such as webhooks) for purposes that are explicitly prohibited by TradingView's terms, thereby indirectly contributing to violations of TradingView's usage restrictions.
 
-This policy applies equally to all entities, irrespective of whether they are direct users of TradingView's services or third-party service providers. The provision of features by TradingView, such as webhooks, is intended solely for permissible uses within the scope of display and personal or internal business purposes, as originally defined. Any interpretation, adaptation, or exploitation of these features that contravenes the spirit or letter of this policy is strictly forbidden. Any attempt by a third-party provider to claim non-usage of TradingView’s services as a defense for facilitating prohibited uses of TradingView’s data is hereby declared null and void. The obligations and restrictions contained in this policy apply equally to TradingView’s direct users and to any third-party entities that provide services or products that interact with, or make use of, TradingView’s data, irrespective of their direct engagement with the TradingView platform.
+This policy applies equally to all entities, irrespective of whether they are direct users of TradingView's services or third-party service providers. The provision of features by TradingView, such as webhooks, is intended solely for permissible uses within the scope of display and personal or internal business purposes, as originally defined. Any interpretation, adaptation, or exploitation of these features that contravenes the spirit or letter of this policy is strictly forbidden. Any attempt by a third-party provider to claim non-usage of TradingView's services as a defense for facilitating prohibited uses of TradingView's data is hereby declared null and void. The obligations and restrictions contained in this policy apply equally to TradingView's direct users and to any third-party entities that provide services or products that interact with, or make use of, TradingView's data, irrespective of their direct engagement with the TradingView platform.
 
 Except as otherwise expressly permitted, our agreements with Data Providers strictly forbid the sublicensing, assigning, transferring, selling, loaning, or any distribution of TradingView content, including market data, for any form of compensation. In addition, you shall not, without the prior expressed written consent of TradingView and the relevant Data Providers, make copies of any of the software or documentation that may be provided, electronically or otherwise, including, but not limited to, translating, decompiling, disassembling or creating derivative works.
 
-Except as otherwise expressly permitted by additional agreement, we do not permit commercial usage of any of our services or APIs. We make no warranty and assume no obligation or liability for third party services or software. Please see section 21 (third party software) below for further information.
+Except as otherwise expressly permitted by additional agreement, we do not permit commercial usage of any of our services or APIs. We make no warranty and assume no obligation or liability for third party services or software. Please see section 21 (third-party software) below for further information.
 
 TradingView reserves the right to take any and all necessary actions, including legal measures, to ensure compliance with these terms, protect its intellectual property, and maintain the integrity of its services. This encompasses conducting audits or investigations into suspected violations, as well as initiating legal proceedings against any parties — whether users or third-party providers — found to be in breach of these terms. Consequences of such breaches include, but are not limited to, the blocking of the user or visitor, termination of their account, and potential legal penalties. TradingView may terminate access to its services, seek injunctive relief, and demand damages to safeguard its contractual rights and the interests of its data providers and user community. These actions underscore TradingView's commitment to enforcing its policy and preserving the platform's trusted environment.
 
 4\. Attribution
----------------
+
+
+-------------------
 
 TradingView grants all users of tradingview.com, and all other available versions of the site, to use snapshots of TradingView charts in analysis, press releases, books, articles, blog posts and other publications. In addition, TradingView grants the use of all previously mentioned materials in education sessions, the display of TradingView charts during video broadcasts, which includes overviews, news, analytics and otherwise use or promote TradingView charts or any products from the TradingView website on the condition that TradingView attribution is clearly visible at all times when such charts and products are used.
 
@@ -64,47 +72,59 @@ Use of TradingView charts during video or other promotions where TradingView att
 
 You can use the "Snapshot" button in the top toolbar of the chart to instantly create a picture file of your current chart. TradingView will automatically take a snapshot with all required attributions and provide a link where you can view your chart, download it or share it. The use of any TradingView products outside the TradingView website, without a proper attribution of TradingView, is not allowed. This extends to any tools (such as widgets) obtained on the TradingView website and utilized on the outside resources, where attribution should remain as was originally designed and intended. Users who disobey this attribution rule herein may be banned permanently, and other legal actions may be taken to ensure compliance. This includes, but is not limited to, cease-and-desist warnings, court orders, injunctions, fines, damages relief, and so on.
 
-5\. Third party sites and advertisers
--------------------------------------
+5\. Third-party sites and advertisers
 
-TradingView may include links to third party websites. Some of these sites may contain materials that are objectionable, unlawful, or inaccurate. You agree that TradingView shall not be held liable for any trading activities or other activities that occur on any website you access through links on TradingView. We provide these links as a convenience, and do not endorse the content or services offered by these other sites. Any dealings that you have with advertisers found on TradingView are between you and the advertiser and you acknowledge and agree that we are not liable for any loss or claim you may have against an advertiser.
+
+-----------------------------------------
+
+TradingView may include links to third-party websites. Some of these sites may contain materials that are objectionable, unlawful, or inaccurate. You agree that TradingView shall not be held liable for any trading activities or other activities that occur on any website you access through links on TradingView. We provide these links as a convenience, and do not endorse the content or services offered by these other sites. Any dealings that you have with advertisers found on TradingView are between you and the advertiser and you acknowledge and agree that we are not liable for any loss or claim you may have against an advertiser.
 
 Unauthorized soliciting on TradingView is strictly prohibited and may result in penalties, including, but not limited to, temporary or permanent bans of the account found in violation, and any appropriate and available legal action for monetary and other damages.
 
 6\. Disclaimer of warranties
-----------------------------
 
-Tradingview website and services and all information, content, materials and products included on or otherwise made available to you through this website and services are provided by Tradingview on an "as is" and "as available" basis. Tradingview makes no representations or warranties of any kind, express or implied, including but not limited to that any of the information available through our services or on Tradingview is accurate, reliable, current, complete or appropriate for your needs. Tradingview does not guarantee, represent, or warrant that your use of the service will be uninterrupted or error-free, and you agree that from time to time Tradingview may remove the service for indefinite periods of time, or cancel the service in accordance with the terms of this terms of use. Tradingview does not represent or guarantee that the service will be free from loss, corruption, attack, viruses, interference, hacking, or other security intrusion, and Tradingview disclaims any liability relating thereto. Any material downloaded or otherwise obtained through the use of the service is accessed at your own discretion and risk, and you will be solely responsible for any damage or loss that results from the download or use of any such material.
+
+--------------------------------
+
+TRADINGVIEW WEBSITE AND SERVICES AND ALL INFORMATION, CONTENT, MATERIALS AND PRODUCTS INCLUDED ON OR OTHERWISE MADE AVAILABLE TO YOU THROUGH THIS WEBSITE AND SERVICES ARE PROVIDED BY TRADINGVIEW ON AN "AS IS" AND "AS AVAILABLE" BASIS. TRADINGVIEW MAKES NO REPRESENTATIONS OR WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THAT ANY OF THE INFORMATION AVAILABLE THROUGH OUR SERVICES OR ON TRADINGVIEW IS ACCURATE, RELIABLE, CURRENT, COMPLETE OR APPROPRIATE FOR YOUR NEEDS. TRADINGVIEW DOES NOT GUARANTEE, REPRESENT, OR WARRANT THAT YOUR USE OF THE SERVICE WILL BE UNINTERRUPTED OR ERROR-FREE, AND YOU AGREE THAT FROM TIME TO TIME TRADINGVIEW MAY REMOVE THE SERVICE FOR INDEFINITE PERIODS OF TIME, OR CANCEL THE SERVICE IN ACCORDANCE WITH THE TERMS OF THIS TERMS OF USE. TRADINGVIEW DOES NOT REPRESENT OR GUARANTEE THAT THE SERVICE WILL BE FREE FROM LOSS, CORRUPTION, ATTACK, VIRUSES, INTERFERENCE, HACKING, OR OTHER SECURITY INTRUSION, AND TRADINGVIEW DISCLAIMS ANY LIABILITY RELATING THERETO. ANY MATERIAL DOWNLOADED OR OTHERWISE OBTAINED THROUGH THE USE OF THE SERVICE IS ACCESSED AT YOUR OWN DISCRETION AND RISK, AND YOU WILL BE SOLELY RESPONSIBLE FOR ANY DAMAGE OR LOSS THAT RESULTS FROM THE DOWNLOAD OR USE OF ANY SUCH MATERIAL.
 
 Various information available through our services or on TradingView may be specially obtained by TradingView from professional businesses or organizations, such as exchanges, news providers, market data providers and other content providers (including established financial exchanges such as the New York Stock Exchange, NASDAQ and Chicago Mercantile Exchange), who are believed to be sources of reliable information (collectively, the "Data Providers"). Nevertheless, due to various factors — including the inherent possibility of human and mechanical error — the accuracy, completeness, timeliness, results obtained from use, and correct sequencing of information available through our services and website are not and cannot be guaranteed by TradingView. Similarly, we make no warranty and assume no obligation or liability for scripts, indicators, ideas, and other third-party content. Your use of any third-party scripts, indicators, ideas and other content is at your sole risk.
 
 7\. Disclaimer regarding investment decisions and trading
----------------------------------------------------------
+
+
+-------------------------------------------------------------
 
 Decisions to buy, sell, hold or trade in securities, commodities and other investments involve risk and are best made based on the advice of qualified financial professionals. Any trading in securities or other investments involves a risk of substantial losses. The practice of "Day Trading" involves particularly high risks and can cause you to lose substantial sums of money. Before undertaking any trading program, you should consult a qualified financial professional. Please consider carefully whether such trading is suitable for you in light of your financial condition and ability to bear financial risks. Under no circumstances shall we be liable for any loss or damage you or anyone else incurs as a result of any trading or investment activity that you or anyone else engages in based on any information or material you receive through TradingView or our services.
 
 8\. Disclaimer regarding hypothetical performance results
----------------------------------------------------------
+
+
+-------------------------------------------------------------
 
 Hypothetical performance results have many inherent limitations, some of which are mentioned below. No representation is being made that any account will or is likely to achieve profits or losses similar to those shown. In fact, there are frequently sharp differences between hypothetical performance results and actual results subsequently achieved by any particular trading program.
 
 One of the limitations of hypothetical performance results is that they are generally prepared with the benefit of hindsight. In addition, hypothetical trading does not involve financial risk and no hypothetical trading record can completely account for the impact of financial risk in actual trading. For example the ability to withstand losses or to adhere to a particular trading program in spite of the trading losses are material points, which can also adversely affect trading results. There are numerous other factors related to the market in general or to the implementation of any specific trading program which cannot be fully accounted for in the preparation of hypothetical performance results and all of which can adversely affect actual trading results.
 
 9\. Registered users
---------------------
+
+
+------------------------
 
 Certain services, such as saving charts, publishing them or the ability to comment on published charts, are available only to registered users of the TradingView website and require you to sign in with a username and password to use them. If you register as a user (a "Subscriber") of any of the features of TradingView, during the registration process you may be prompted to click "Register Now", "Submit" or a similar button; your clicking on such button will further confirm your agreement to be legally bound by these Terms of Use.
 
 In consideration of your use of the TradingView website, you represent that you are of legal age to form a binding contract and are not a person barred from receiving TradingView services under the laws of the United States or other applicable jurisdiction. You also agree to: (a) provide true, accurate, current and complete information about yourself as prompted by the TradingView's registration form (the "Registration Data") and (b) maintain and promptly update the Registration Data to keep it true, accurate, current and complete. If you provide any information that is untrue, inaccurate, not current or incomplete, or TradingView has reasonable grounds to suspect that such information is untrue, inaccurate, not current or incomplete, TradingView has the right to suspend or terminate your account and refuse any and all current or future use of the TradingView services (or any portion thereof).
 
-You represent and warrant that you have all intellectual property rights, including all necessary patent, trademark, trade secret, copyright or other proprietary rights, in and to your content. If you use third-party materials, you represent and warrant that you have the right to distribute third-party material in the content. You agree that you will not submit material that is copyrighted, protected by trade secret or otherwise subject to third party proprietary rights, including patent, privacy and publicity rights, unless you are the owner of such rights or have permission from their rightful owner to submit the material.
+You represent and warrant that you have all intellectual property rights, including all necessary patent, trademark, trade secret, copyright or other proprietary rights, in and to your content. If you use third-party materials, you represent and warrant that you have the right to distribute third-party material in the content. You agree that you will not submit material that is copyrighted, protected by trade secret or otherwise subject to third-party proprietary rights, including patent, privacy and publicity rights, unless you are the owner of such rights or have permission from their rightful owner to submit the material.
 
 We may remove your content without notice if we reasonably believe that you're in violation of our Terms of Use.
 
-10\. Non-Professional subscriber status
----------------------------------------
+10\. Non-professional subscriber status
 
-As a vendor of official real-time market data from exchanges (e.g. Nasdaq) for end users, we are required to identify the status of any Subscriber. If you are ordering a subscription for market data on TradingView as the 'Non-Professional', you confirm the following:
+
+-------------------------------------------
+
+As a vendor of official real-time market data from exchanges (e.g. Nasdaq) for end users, we are required to identify the status of any Subscriber. If you are ordering a subscription for market data on TradingView as the 'Non-professional', you confirm the following:
 
 1. You use market data solely for personal use, not for your business or any other entity.
 2. You are not registered or qualified with the Securities Exchange Commission (SEC) or the Commodities Futures Trading Commission (CFTC).
@@ -116,12 +136,13 @@ As a vendor of official real-time market data from exchanges (e.g. Nasdaq) for e
 8. You do not conduct trading for the benefit of a corporation, partnership, or other entity.
 9. You have not entered into any agreement to share the profit of your trading activities or receive compensation for your trading activities.
 10. You are not receiving office space, and equipment or other benefits in exchange for your trading or work as a financial consultant to any person, firm or business entity.
-    
 
 Should we, or our exchange partners, determine — based on the information provided and / or companies websites, email address and domain, LinkedIn, regulatory or company registries, payment method — that you actually meet the criteria for a 'Professional' status at any point during or after subscribing to TradingView or to market data from exchanges, you will be liable for the difference between the 'Non-Professional' and 'Professional' subscription rates for both TradingView subscription and relevant market data. This applies retroactively from the date you initiated your subscription. Furthermore, we reserve the right to automatically invoice you for this difference and charge the associated amount to your on-file payment method.
 
-11\. Derived Data
------------------
+11\. Derived data
+
+
+---------------------
 
 Our proprietary derivation consumes raw market data and executes a 2-factor derivation process to produce the displayed price, later consumed by the price engine. Derived market data is sourced and supplied from various sources and can therefore be blended.
 
@@ -130,81 +151,118 @@ The derivation process involves changing the raw price by a factor determined by
 At no point is raw data accessible by any client, nor can said data be reverse-engineered in any manner. All markets are passed through the same derivation engine.
 
 12\. Access and security
-------------------------
+
+
+----------------------------
 
 You accept responsibility for the confidentiality and use of any username and email address that use to register for your access to and use of our services. You are responsible for maintaining the confidentiality of your password and account and are fully responsible for all activities that occur under your password or account. TradingView cannot and will not be liable for any loss or damage from your failure to comply with this security obligation. You agree to (a) immediately notify TradingView of any unauthorized use of your password or account or any other breach of security, and (b) ensure that you exit from your account at the end of each session. TradingView cannot and will not be liable for any loss or damage arising from your failure to comply.
 
 13\. Payment and cancellation of service
-----------------------------------------
+
+
+--------------------------------------------
 
 1. By ordering any subscription on [www.tradingview.com](https://www.tradingview.com/) (including a free trial period), you confirm that you have read and accepted our Terms of Use and you authorize TradingView to automatically charge your bank card, PayPal account or other supported payment method according to the billing period manually selected by you.
-2. The service is billed in advance monthly or annually. Users can try selected paid plans for 30 days free of charge. If the trial is not cancelled before its expiration date, it automatically converts to a monthly or annual paid plan depending on user’s choice.
+    
+2. The service is billed in advance monthly or annually. Users can try selected paid plans for 30 days free of charge. If the trial is not cancelled before its expiration date, it automatically converts to a monthly or annual paid plan depending on user's choice.
 3. All billing is recurring, which means you will continue to get billed until you cancel your subscription. You are solely responsible for properly cancelling your TradingView subscription. An email request or support ticket asking for your subscription to be cancelled is not considered cancellation. You may cancel your subscription anytime by visiting the billing section of your [Profile Settings](#) page.
+    
 4. If you cancel the service before your current paid-up period ends, your subscription will remain active until the next due date. After the due date, if no payment is received, your subscription will be stopped. If auto-renewal fails for an annual plan, you will automatically be switched to a monthly plan.
 5. Refunds are available for annual payments only if requested within 14 calendar days after the payment was made. To request a refund, you need to [contact our support team](#). There are no refunds for upgrades to a more expensive plan, monthly plans or market data, even if the subscription is cancelled on the same day as the payment has gone through. There are no refunds for any purchases paid using crypto. Please note that users who filed a chargeback/dispute request or a claim are not eligible for a refund.
+    
 6. Our [moderators](https://www.tradingview.com/moderators/) are official TradingView representatives, with the authority to warn or ban users (including those with a paid subscription) when they do not abide by the [House Rules](https://www.tradingview.com/house-rules/). We do not offer refunds in case you are banned from publishing content and interacting with others because your paid subscription and all of its data and/or features are still available during any such ban.
+    
 7. Essential, Plus and Premium subscriptions automatically include market data that is available without additional per-user fees only. You can see which markets are available for free and which need to be purchased separately on the [Market data page](https://www.tradingview.com/data-coverage/). Upon cancellation, the trial and associated services will stop immediately, except for any separately purchased data packages.
-8. TradingView, Inc. is registered for tax purposes in Australia, Canada, Colombia, EU states, Japan, India, Indonesia, Iceland, Liechtenstein, Malaysia, Mexico, New Zealand, Norway, Saudi Arabia, Singapore, South Africa, South Korea, Switzerland, Taiwan, Tanzania, Thailand, Turkey, United Arab Emirates, United Kingdom, Vietnam, certain US states and cities.
-9. TradingView, Inc. may use local subsidiaries or other entities to collect payments in certain geographies. However, all payments will be processed and managed by TradingView, Inc., and the service will be provided by TradingView, Inc., regardless of which entity collects the payment.
+    
+8. Essential, Plus and Premium subscriptions automatically include market data that is available without additional per-user fees only. You can see which markets are available for free and which need to be purchased separately on the Market data page. Upon cancellation, the trial and associated services will stop immediately, except for any separately purchased data packages.
+9. TradingView, Inc. is registered for tax purposes in Australia, Canada, Colombia, EU states, Japan, India, Indonesia, Iceland, Liechtenstein, Malaysia, Mexico, New Zealand, Norway, Saudi Arabia, Singapore, South Africa, South Korea, Switzerland, Taiwan, Tanzania, Thailand, Turkey, United Arab Emirates, United Kingdom, Vietnam, certain US states and cities.
+10. TradingView, Inc. may use local subsidiaries or other entities to collect payments in certain geographies. However, all payments will be processed and managed by TradingView, Inc., and the service will be provided by TradingView, Inc., regardless of which entity collects the payment.
+11. Суб-домен [ru.tradingview.com](https://www.tradingview.com/) находится под управлением компании TradingView UK Ltd.
 
 14\. Apple App Store subscriptions
-----------------------------------
 
-1. Payments will be charged to the user's Apple ID Account at confirmation of purchase in compliance with Apple's [privacy policy](https://www.apple.com/legal/privacy/data/en/app-store/). We recommend that you familiarize yourself with the terms of payment and Apple in-app subscriptions. If a purchase is made from our iOS app, the refund is only possible in compliance with the [App Store policy](https://support.apple.com/en-us/HT204084).
-2. TradingView offers a trial period. It is only possible to use the trial period once. Subscription payment begins after the end of your free trial period.
-3. All subscription types are renewed automatically. You can cancel the renewal option in the App Store within at least 24 hours before the end of your free trial period or the current payment date. The cancellation comes into effect at the end of the current billing period. At the same time, you retain access to the subscription from the cancellation moment until the end of the current billing period.
-4. Accounts may be charged for renewal up to 24 hours before the end of the current period.
-5. Rates offered in mobile stores and on the web-based platform might differ. Mobile stores offer subscriptions based on two billing cycles: annual and monthly.
+
+--------------------------------------
+
+Payments will be charged to the user's Apple ID Account at confirmation of purchase in compliance with Apple's privacy policy. We recommend that you familiarize yourself with the terms of payment and Apple in-app subscriptions. If a purchase is made from our iOS app, the refund is only possible in compliance with the App Store policy.
+
+TradingView offers a trial period. It is only possible to use the trial period once. Subscription payment begins after the end of your free trial period.
+
+All subscription types are renewed automatically. You can cancel the renewal option in the App Store within at least 24 hours before the end of your free trial period or the current payment date. The cancellation comes into effect at the end of the current billing period. At the same time, you retain access to the subscription from the cancellation moment until the end of the current billing period.
+
+Accounts may be charged for renewal up to 24 hours before the end of the current period.
+
+Rates offered in mobile stores and on the web-based platform might differ. Mobile stores offer subscriptions based on two billing cycles: annual and monthly.
 
 15\. Android app subscriptions
-------------------------------
 
-1. Financial transactions for subscriptions made in our Android app processed by a third-party service (Google Play) in compliance with their [terms of use](https://play.google.com/about/play-terms/index.html), [privacy policy](https://policies.google.com/privacy) and any applicable payment terms, in particular the [response on Google Play refunds](https://support.google.com/googleplay/answer/2479637). TradingView is not responsible for the actions or omissions of any third-party payment processor. We recommend that you familiarize yourself with the terms of payment and Google Play in-app subscriptions. If a purchase is made from our Android app, the refund is only possible in compliance with Google Play policy.
-2. TradingView offers a trial period. It is only possible to use the trial period once. Subscription payment begins after the end of your free trial period.
-3. All subscription types are renewed automatically. You can cancel the renewal option in Google Play within at least 24 hours before the end of your free trial period or the current payment date. The cancellation comes into effect at the end of the current billing period. At the same time, you retain access to the subscription from the cancellation moment until the end of the current billing period.
-4. The payment is made according to the payment method that is linked to the user's account in Google Play. The subscription is made according to Google Play Account choice, which does not necessarily conform with the Google Account used to log in to the application.
-5. Rates offered in mobile stores and on the web-based platform might differ. Mobile stores offer subscriptions based on two billing cycles: annual and monthly.
+
+----------------------------------
+
+Financial transactions for subscriptions made in our Android app processed by a third-party service (Google Play) in compliance with their [terms of use](https://play.google.com/about/play-terms/index.html), [privacy policy](https://policies.google.com/privacy) and any applicable payment terms, in particular the [response on Google Play refunds](https://support.google.com/googleplay/answer/2479637). TradingView is not responsible for the actions or omissions of any third-party payment processor. We recommend that you familiarize yourself with the terms of payment and Google Play in-app subscriptions. If a purchase is made from our Android app, the refund is only possible in compliance with Google Play policy.
+
+TradingView offers a trial period. It is only possible to use the trial period once. Subscription payment begins after the end of your free trial period.
+
+All subscription types are renewed automatically. You can cancel the renewal option in Google Play within at least 24 hours before the end of your free trial period or the current payment date. The cancellation comes into effect at the end of the current billing period. At the same time, you retain access to the subscription from the cancellation moment until the end of the current billing period.
+
+The payment is made according to the payment method that is linked to the user's account in Google Play. The subscription is made according to Google Play Account choice, which does not necessarily conform with the Google Account used to log in to the application.
+
+Rates offered in mobile stores and on the web-based platform might differ. Mobile stores offer subscriptions based on two billing cycles: annual and monthly.
 
 16\. Feedback to TradingView
-----------------------------
+
+
+--------------------------------
 
 By submitting ideas, content, suggestions, documents, and/or proposals ("Contributions") to TradingView through our contact or [feedback](https://www.reddit.com/r/TradingView/) webpages, you acknowledge and agree that: (a) your Contributions do not contain confidential or proprietary information; (b) TradingView is not under any obligation of confidentiality, expressed or implied, with respect to the Contributions; (c) TradingView shall be entitled to use or disclose (or choose not to use or disclose) such Contributions for any purpose, in any way, in any media worldwide; (d) TradingView may have something similar to the Contributions already under consideration or in development; (e) your Contributions automatically become the property of TradingView, without any obligation of TradingView to you; and (f) you are not entitled to any compensation or reimbursement of any kind from TradingView under any circumstances.
 
 17\. Indemnification
---------------------
+
+
+------------------------
 
 You agree to indemnify and hold TradingView and our subsidiaries, affiliates, officers, agents, employees, partners and licensors harmless from any claim or demand, including reasonable attorneys' fees, made by any third party due to or arising out of content you submit, post, transmit, modify or otherwise make available through the TradingView services; your use of the TradingView service; your connection to the TradingView services; your violation of the Terms of Use; your violation of any rights of another; or any action taken by TradingView, acting reasonably, as part of its investigation of a suspected violation of this Terms of Use or as a result of its finding or decision that a violation of this Terms of Use has occurred. This obligation shall survive the termination or expiration of your use of the service.
 
 If you have a dispute with one or more users of TradingView, you agree to release TradingView from any and all claims, demands and damages (actual and consequential) of every kind and nature, known and unknown, arising out of or in any way connected with such disputes.
 
 18\. Termination
-----------------
 
-Upon your request, your account can be deleted from TradingView. You may delete your account at any time by visiting your [Profile Settings](#) page. If you requested your account be deleted, we will delete the personal data associated with your account, however certain personal data will be retained if it has been integrated into data that is integral to our systems and site, including data in communications you have sent via our site. This data is necessarily retained for the integrity of the data on the site and our legitimate business purposes, including auditing, security and other legitimate interests (please refer to our [Privacy Policy](https://www.tradingview.com/privacy-policy/) for more information). Your published Contributions will remain on the site in our discretion. Once a Contribution has been published, it becomes part of the communal trading knowledge and should stay that way. This policy prevents users from keeping only their best ideas public, thus keeping everyone honest and maintaining public confidence in the reputation and integrity of the site.
+
+--------------------
+
+Upon your request, your account can be deleted from TradingView. You may delete your account at any time by visiting your Profile Settings page. If you requested your account be deleted, we will delete the personal data associated with your account, however certain personal data will be retained if it has been integrated into data that is integral to our systems and site, including data in communications you have sent via our site. This data is necessarily retained for the integrity of the data on the site and our legitimate business purposes, including auditing, security and other legitimate interests (please refer to our Privacy Policy for more information). Your published Contributions will remain on the site in our discretion. Once a Contribution has been published, it becomes part of the communal trading knowledge and should stay that way. This policy prevents users from keeping only their best ideas public, thus keeping everyone honest and maintaining public confidence in the reputation and integrity of the site.
 
 You agree that TradingView may, without prior notice, immediately terminate, limit your access to or suspend your TradingView account, any associated email address, and access to the TradingView services. Cause for such termination, limitation of access or suspension shall include, but not be limited to, (a) breaches or violations of the Terms of Use or other incorporated agreements or guidelines, (b)requests by law enforcement or other government agencies, (c) discontinuance or material modification to the TradingView services (or any part thereof), (d) unexpected technical or security issues or problems, (e) extended periods of inactivity, (f) and/or engagement by you in fraudulent or illegal activities. Further, you agree that all terminations, limitations of access and suspensions for cause shall be made in TradingView's sole discretion and that TradingView shall not be liable to you or any third party for any termination of your account, any associated email address, or access to the TradingView services.
 
 19\. Emails
------------
+
+
+---------------
 
 By creating an account with TradingView, you agree that TradingView can use your email address to send you marketing materials, service-related notices, important information messages, special offers, etc. You can unsubscribe from this by clicking on the link provided in the emails.
 
 20\. House rules
-----------------
+
+
+--------------------
 
 By creating and using an account on TradingView you confirm you have read and agree to follow our [House Rules](https://www.tradingview.com/house-rules/).
 
-21\. Third Party Software
--------------------------
+21\. Third-party software
 
-Our software, website and/or services may include software components supplied by third parties which are utilized by permission of the respective licensors and/or copyright holders on the terms provided by such parties ("Third Party Software"). TradingView expressly disclaims any warranty or other assurance to you regarding Third Party Software. Please note that your use of the Third Party Software will be governed by the terms and conditions of use and privacy policies of the Third Party Software providers and not by these Terms of Use or our [Privacy Policy](https://www.tradingview.com/privacy-policy/).
+
+-----------------------------
+
+Our software, website and/or services may include software components supplied by third parties which are utilized by permission of the respective licensors and/or copyright holders on the terms provided by such parties ("Third-party software"). TradingView expressly disclaims any warranty or other assurance to you regarding third-party software. Please note that your use of the third-Party software will be governed by the terms and conditions of use and privacy policies of the third-party software providers and not by these Terms of Use or our [Privacy Policy](https://www.tradingview.com/privacy-policy/).
 
 22\. Scripts
-------------
 
-You represent and warrant that you have all intellectual property rights, including all necessary patent, trademark, trade secret, copyright or other proprietary rights, in and to your script. If you use third-party materials, you represent and warrant that you have the right to distribute third-party material in the script. You agree that you will not submit material that is copyrighted, protected by trade secret or otherwise subject to third party proprietary rights, including patent, privacy and publicity rights, unless you are the owner of such rights or have permission from their rightful owner to submit the material.
 
-You are solely responsible for any script that you create. TradingView is not in any way responsible for the use or misuse of your script by any user. TradingView is not in any way responsible for the use or misuse of any user’s script by you.
+----------------
+
+You represent and warrant that you have all intellectual property rights, including all necessary patent, trademark, trade secret, copyright or other proprietary rights, in and to your script. If you use third-party materials, you represent and warrant that you have the right to distribute third-party material in the script. You agree that you will not submit material that is copyrighted, protected by trade secret or otherwise subject to third-party proprietary rights, including patent, privacy and publicity rights, unless you are the owner of such rights or have permission from their rightful owner to submit the material.
+
+You are solely responsible for any script that you create. TradingView is not in any way responsible for the use or misuse of your script by any user. TradingView is not in any way responsible for the use or misuse of any user's script by you.
 
 By using the publish script feature, you grant us a world-wide, irrevocable, perpetual, royalty-free license to:
 
@@ -214,10 +272,12 @@ By using the publish script feature, you grant us a world-wide, irrevocable, per
 
 We may remove your script without notice if we reasonably believe that you are in violation of these Terms of Use.
 
-You can publish the script under any license. If you do not include the license in the comment section of a script, you agree that your script is licensed under the [Mozilla Public License 2.0.](https://www.mozilla.org/en-US/MPL/2.0/)
+You can publish the script under any license. If you do not include the license in the comment section of a script, you agree that your script is licensed under the [Mozilla Public License 2.0](https://www.mozilla.org/en-US/MPL/2.0/).
 
-23\. Publications - No Recommendation or Advice Status
-------------------------------------------------------
+23\. Publications — no recommendation or advice status
+
+
+----------------------------------------------------------
 
 The information and publications are not meant to be, and do not constitute, financial, investment, trading, or other types of advice or recommendations supplied or endorsed by TradingView.
 
@@ -227,20 +287,16 @@ The authors and TradingView are not liable for any losses incurred as a result o
 
 The contents of these publications should not be interpreted as an express or implicit promise, guarantee, or indication by TradingView that customers will profit or that losses in connection with them can or will be limited if they rely on the information provided.
 
-24\. TradingView coins Referral Program Rules
----------------------------------------------
+24\. TradingView coins referral program rules
 
-1. Who is eligible to be a referrer?
+
+-------------------------------------------------
+
+1. Who is eligible to be a referrer? Any TradingView account holder can become a referrer.
     
-    Any TradingView account holder can become a referrer.
+2. Who is eligible to become a referee? Your friends or social media followers may be eligible to be referees. To receive coin rewards for referring someone who orders a paid plan on TradingView, your referee must be a new TradingView user and can't have more than one account. In addition, your referee must create an account via your shared link and make a purchase on the website. Note that the bonus can only be given for purchases made on the website, not in the apps.
     
-2. Who is eligible to become a referee?
-    
-    Your friends or social media followers may be eligible to be referees. To receive coin rewards for referring someone who orders a paid plan on TradingView, your referee must be a new TradingView user and can't have more than one account. In addition, your referee must create an account via your shared link and make a purchase on the website. Note that the bonus can only be given for purchases made on the website, not in the apps.
-    
-3. How can I use my referral link?
-    
-    TradingView wants you to share your referral link and earn TradingView coins, but you agree that you will not:
+3. How can I use my referral link? TradingView wants you to share your referral link and earn TradingView coins, but you agree that you will not:
     
     * Try to get referees by spamming, bulk emailing, or sending large numbers of unsolicited emails. The only people you should be emailing are people you know personally;
     * Use, display, or manipulate TradingView intellectual property (such as TradingView logos, trademarks, and copyright-protected works) in any way, except as to identify yourself as a TradingView user or a TradingView referrer;
@@ -249,39 +305,33 @@ The contents of these publications should not be interpreted as an express or im
     * Use automated systems or bots through any channel to distribute, post, or otherwise share your referral link;
     * Use scripts or programmed or automatic dialers to send invites or otherwise share your referral link;
     * Make misleading claims about TradingView, use offensive/abusive content, create fake websites/webpages/social media profiles/apps, misrepresent your connection to TradingView, or otherwise make any false or misleading statements to get a referee to use your link, or use your referral link in any manner that violates the law or TradingView House Rules.
-4. How do I earn TradingView coins?
-    
-    Referrers get rewarded with TradingView coins for inviting new users that purchase subscriptions. As long as you and your referee follow these Rules, as well as TradingView's posted policies, you should receive your TradingView coins after your referee uses your link to sign up with TradingView and makes their first payment within three months of creating their account. As a result, referrers receive TradingView coins in the amount of $15 for their purchase of any subscription. To receive TradingView coins for referring someone who orders a paid plan on TradingView, your referee must be a new TradingView user. Remember, you will only receive this bonus for purchases made on the website and not through the apps.
+4. How do I earn TradingView coins? Referrers get rewarded with TradingView coins for inviting new users that purchase subscriptions. As long as you and your referee follow these Rules, as well as TradingView's posted policies, you should receive your TradingView coins after your referee uses your link to sign up with TradingView and makes their first payment within three months of creating their account. As a result, referrers receive TradingView coins in the amount of $15 for their purchase of any subscription. To receive TradingView coins for referring someone who orders a paid plan on TradingView, your referee must be a new TradingView user. Remember, you will only receive this bonus for purchases made on the website and not through the apps.
     
     The requirements for receiving, and the amounts of TradingView coins are subject to change at TradingView's sole discretion. Referral rewards in the form of TradingView coins are not transferable, have no cash value, and may expire. TradingView may cancel a reward at any time at its sole discretion.
     
     In case your referee files a chargeback or claims a refund for their paid subscription, the reward that you and your referee both received from TradingView will be canceled.
     
-5. Can I earn coins by sharing the link via mobile app?
+5. Can I earn coins by sharing the link via mobile app? Yes, you can earn coins but there's a few conditions you'll need to meet. You can share the link via the app, but your referee needs to sign up via your link and purchase a subscription on the website only to get coins. This bonus is not available for app purchases.
     
-    Yes, you can earn coins but there's a few conditions you'll need to meet. You can share the link via the app, but your referee needs to sign up via your link and purchase a subscription on the website only to get coins. This bonus is not available for app purchases.
+6. How do I spend TradingView coins? You are able to spend TradingView coins by purchasing a new subscription or extending an existing one. Please note that TradingView coins can't be used to pay for exchange market data and coins can't be used for purchases in the apps.
     
-6. How do I spend TradingView coins?
-    
-    You are able to spend TradingView coins by purchasing a new subscription or extending an existing one. Please note that TradingView coins can't be used to pay for exchange market data and coins can't be used for purchases in the apps.
-    
-7. Termination and changes
-    
-    TradingView reserves the right to change, end, or pause, in whole or in part, any referral program, as well as any referrer's or referee's ability to participate in any referral program or receive TradingView coins at any time for any reason, including suspected fraud (including by either the referrer and/or referee), abuse, or any violation of these Rules.
+7. Termination and changes. TradingView reserves the right to change, end, or pause, in whole or in part, any referral program, as well as any referrer's or referee's ability to participate in any referral program or receive TradingView coins at any time for any reason, including suspected fraud (including by either the referrer and/or referee), abuse, or any violation of these Rules.
     
 
 25\. Limitation of liability
-----------------------------
 
-You expressly understand and agree that Tradingview and its affiliates, subsidiaries, officers, directors, employees, agents, partners and licensors shall not be liable to you for any direct, indirect, incidental, special, consequential or exemplary damages, including, but not limited to, damages for loss of profits, goodwill, use, data, cost of procurement of substitute goods or services, or other intangible losses (even if Tradingview has been advised of the possibility of such damages), resulting from:
 
-* The use or inability to use the service or the software or systems that make the services available;
-* Any changes made to the service, price or any temporary or permanent cessation of the service or any part thereof;
-* The use, disclosure, or display of your user-generated content;
-* The unauthorized access to or alteration of your transmissions or data;
-* The deletion of, corruption of, or failure to store and/or send or receive your transmissions or data on or through the service;
-* Statements or conduct of any third party on the service;
-* And any other matter relating to the service.
+--------------------------------
+
+YOU EXPRESSLY UNDERSTAND AND AGREE THAT TRADINGVIEW AND ITS AFFILIATES, SUBSIDIARIES, OFFICERS, DIRECTORS, EMPLOYEES, AGENTS, PARTNERS AND LICENSORS SHALL NOT BE LIABLE TO YOU FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL OR EXEMPLARY DAMAGES, INCLUDING, BUT NOT LIMITED TO, DAMAGES FOR LOSS OF PROFITS, GOODWILL, USE, DATA, COST OF PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES, OR OTHER INTANGIBLE LOSSES (EVEN IF TRADINGVIEW HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES), RESULTING FROM:
+
+* THE USE OR INABILITY TO USE THE SERVICE OR THE SOFTWARE OR SYSTEMS THAT MAKE THE SERVICES AVAILABLE;
+* ANY CHANGES MADE TO THE SERVICE, PRICE OR ANY TEMPORARY OR PERMANENT CESSATION OF THE SERVICE OR ANY PART THEREOF;
+* THE USE, DISCLOSURE, OR DISPLAY OF YOUR USER-GENERATED CONTENT;
+* THE UNAUTHORIZED ACCESS TO OR ALTERATION OF YOUR TRANSMISSIONS OR DATA;
+* THE DELETION OF, CORRUPTION OF, OR FAILURE TO STORE AND/OR SEND OR RECEIVE YOUR TRANSMISSIONS OR DATA ON OR THROUGH THE SERVICE;
+* STATEMENTS OR CONDUCT OF ANY THIRD PARTY ON THE SERVICE;
+* AND ANY OTHER MATTER RELATING TO THE SERVICE.
 
 TradingView may update these Rules at any time.
 
