@@ -309,6 +309,12 @@ Menü
 * [Partner](https://homematic-ip.com/de/partner)
 * [Karriere](https://karriere.eq-3.de/karriere.html)
 
+ [![](/sites/default/files/styles/thumbnail/public/images/website_grafik_kundenumfrage_vivika.jpg.webp?itok=u6jG2RY8)
+
+Umfrage
+
+Feedback geben und gewinnen! Füllen Sie die Umfrage aus und sichern Sie sich tolle Preise.](https://homematic-ip.com/de/umfrage)
+
  [![](/sites/default/files/styles/thumbnail/public/images/neuheiten-press_teaser_roadshow24.jpg.webp?itok=c0X-P-pF)
 
 News
