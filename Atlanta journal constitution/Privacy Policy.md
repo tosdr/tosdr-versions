@@ -1,3 +1,5 @@
+[Breaking: 1 dead, 1 injured in shootout inside SW Atlanta grocery store](https://www.ajc.com/news/crime/1-dead-another-injured-in-shooting-at-sw-atlanta-grocery-store/6CWDUUIIHNDQDI4A6PSXJOD4YY/)
+
 [![ajc logo](/pf/resources/logos/AJC/logo-full-redesign.svg?d=1692)![ajc logo](/pf/resources/logos/AJC/logo-short.svg?d=1692)](https://www.ajc.com/)
 
 Log In
@@ -14,7 +16,6 @@ Log In
 [Frequently Asked Questions
 --------------------------](https://www.ajc.com/frequently-asked-questions)
 
-* [A.M. ATL Newsletter](https://www.ajc.com/news/am-atl-apalachee-begins-the-long-road-back/S226AMLO6VHVDERHF7T4HNDZXE/)
 * [Georgia School Shooting](https://www.ajc.com/news/georgia-school-shooting/)
 * [UATL](https://www.ajc.com/uatl/)
 * [Politically Georgia](https://www.ajc.com/politics/politics-blog/)
