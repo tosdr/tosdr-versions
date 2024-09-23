@@ -1789,6 +1789,8 @@ What do top resumes look like? Check out these expertly-written samples:
 
 [Junior DevOps Engineer](https://cvcompiler.com/junior-devops-engineer-resume-examples)
 
+[GCP Data Engineer](https://cvcompiler.com/gcp-data-engineer-resume-examples)
+
 ![Upload resume illustration](uploads-pre-acq/img/upload-illustration.svg)
 
 ### Upload  
