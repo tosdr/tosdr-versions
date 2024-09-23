@@ -214,10 +214,10 @@ Homepage](https://atos.net/en)
         * [Media Resources](https://atos.net/en/newsroom/media-resources)
         * [Media Contacts](https://atos.net/en/newsroom#contacts)
         
-        20 September 2024
+        23 September 2024
         
-        Atos achieves landmark IT delivery for the Olympic and Paralympic Games Paris 2024: the most digital and secure in history
-        --------------------------------------------------------------------------------------------------------------------------
+        Eviden develops cloud-based cellar management solution for Selartag® to enable data efficiencies in wine inventory
+        ------------------------------------------------------------------------------------------------------------------
         
     * [Awards](https://atos.net/en/newsroom/awards)˅
         
