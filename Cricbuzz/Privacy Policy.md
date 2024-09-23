@@ -48,7 +48,7 @@ SEARCH
 
 [My Account](https://www.cricbuzz.com/premium-subscription/user/account-info "My Account") Sign Out
 
-[MATCHES](https://www.cricbuzz.com/cricket-match/live-scores)[SL vs NZ - SL Won](https://www.cricbuzz.com/live-cricket-scores/105962/sl-vs-nz-1st-test-new-zealand-tour-of-sri-lanka-2024 "Sri Lanka v New Zealand, 1st Test - SL Won")[SNP vs TKR - TKR Won](https://www.cricbuzz.com/live-cricket-scores/92905/snp-vs-tkr-25th-match-caribbean-premier-league-2024 "St Kitts and Nevis Patriots v Trinbago Knight Riders, 25th Match - TKR Won")[IND vs BAN - IND Won](https://www.cricbuzz.com/live-cricket-scores/100220/ind-vs-ban-1st-test-bangladesh-tour-of-india-2024 "India v Bangladesh, 1st Test - IND Won")[AFG vs RSA - RSA Won](https://www.cricbuzz.com/live-cricket-scores/103861/afg-vs-rsa-3rd-odi-afghanistan-v-south-africa-in-uae-2024 "Afghanistan v South Africa, 3rd ODI - RSA Won")[SLK vs BR - SLK Won](https://www.cricbuzz.com/live-cricket-scores/92901/slk-vs-br-24th-match-caribbean-premier-league-2024 "Saint Lucia Kings v Barbados Royals, 24th Match - SLK Won")
+[MATCHES](https://www.cricbuzz.com/cricket-match/live-scores)[SL vs NZ - SL Won](https://www.cricbuzz.com/live-cricket-scores/105962/sl-vs-nz-1st-test-new-zealand-tour-of-sri-lanka-2024 "Sri Lanka v New Zealand, 1st Test - SL Won")[GLAM vs SOM - Complete](https://www.cricbuzz.com/live-cricket-scores/107571/glam-vs-som-final-reserve-day-england-domestic-one-day-cup-2024 "Glamorgan v Somerset, Final (Reserve day) - Complete")[JBT vs HB - Live](https://www.cricbuzz.com/live-cricket-scores/106761/jbt-vs-hb-7th-match-zim-afro-t10-2024 "Joburg Bangla Tigers v Harare Bolts, 7th Match - Live")[SNSS vs GUGS - Toss](https://www.cricbuzz.com/live-cricket-scores/107081/snss-vs-gugs-4th-match-legends-league-cricket-2024 "Southern Super Stars v Gujarat Greats, 4th Match - Toss")[SNP vs TKR - TKR Won](https://www.cricbuzz.com/live-cricket-scores/92905/snp-vs-tkr-25th-match-caribbean-premier-league-2024 "St Kitts and Nevis Patriots v Trinbago Knight Riders, 25th Match - TKR Won")
 
 AllLive NowToday
 
@@ -66,7 +66,7 @@ AllLive NowToday
     
     2nd ODI
     
-* [England vs Australia](https://www.cricbuzz.com/live-cricket-scores/76563/eng-vs-aus-3rd-odi-england-v-australia-2024 "England v Australia, 3rd ODI - Upcoming")
+* [England vs Australia](https://www.cricbuzz.com/live-cricket-scores/76563/eng-vs-aus-3rd-odi-england-v-australia-2024 "England v Australia, 3rd ODI - Preview")
     
     3rd ODI
     
@@ -92,7 +92,7 @@ AllLive NowToday
     
     32nd Match
     
-* [United Arab Emirates vs United States](https://www.cricbuzz.com/live-cricket-scores/106988/uae-vs-usa-33rd-match-icc-cwc-league-two-2023-27 "United Arab Emirates v United States, 33rd Match - Upcoming")
+* [United Arab Emirates vs United States](https://www.cricbuzz.com/live-cricket-scores/106988/uae-vs-usa-33rd-match-icc-cwc-league-two-2023-27 "United Arab Emirates v United States, 33rd Match - Preview")
     
     33rd Match
     
@@ -102,17 +102,13 @@ AllLive NowToday
     
 * ICC Mens AR T20WCQA
     
-    [Malawi vs Lesotho](https://www.cricbuzz.com/live-cricket-scores/106171/mwi-vs-lso-1st-match-icc-mens-ar-t20wcqa "Malawi v Lesotho, 1st Match - MWI Won")
+    [Mali vs Tanzania](https://www.cricbuzz.com/live-cricket-scores/106179/mali-vs-tan-3rd-match-icc-mens-ar-t20wcqa "Mali v Tanzania, 3rd Match - TAN Won")
     
-    1st Match
+    3rd Match
     
 * [Cameroon vs Ghana](https://www.cricbuzz.com/live-cricket-scores/106177/cam-vs-gh-2nd-match-icc-mens-ar-t20wcqa "Cameroon v Ghana, 2nd Match - GH Won")
     
     2nd Match
-    
-* [Mali vs Tanzania](https://www.cricbuzz.com/live-cricket-scores/106179/mali-vs-tan-3rd-match-icc-mens-ar-t20wcqa "Mali v Tanzania, 3rd Match - TAN Won")
-    
-    3rd Match
     
 * [Malawi vs Ghana](https://www.cricbuzz.com/live-cricket-scores/106195/mwi-vs-gh-5th-match-icc-mens-ar-t20wcqa "Malawi v Ghana, 5th Match - MWI Won")
     
@@ -130,17 +126,25 @@ AllLive NowToday
     
     7th Match
     
-* [Mali vs Malawi](https://www.cricbuzz.com/live-cricket-scores/106227/mali-vs-mwi-9th-match-icc-mens-ar-t20wcqa "Mali v Malawi, 9th Match - Upcoming")
-    
-    9th Match
-    
 * [Tanzania vs Cameroon](https://www.cricbuzz.com/live-cricket-scores/106219/tan-vs-cam-8th-match-icc-mens-ar-t20wcqa "Tanzania v Cameroon, 8th Match - Upcoming")
     
     8th Match
     
+* [Mali vs Malawi](https://www.cricbuzz.com/live-cricket-scores/106227/mali-vs-mwi-9th-match-icc-mens-ar-t20wcqa "Mali v Malawi, 9th Match - Upcoming")
+    
+    9th Match
+    
 * [Ghana vs Tanzania](https://www.cricbuzz.com/live-cricket-scores/106233/gh-vs-tan-10th-match-icc-mens-ar-t20wcqa "Ghana v Tanzania, 10th Match - Upcoming")
     
     10th Match
+    
+* [Malawi vs Cameroon](https://www.cricbuzz.com/live-cricket-scores/106241/mwi-vs-cam-12th-match-icc-mens-ar-t20wcqa "Malawi v Cameroon, 12th Match - Upcoming")
+    
+    12th Match
+    
+* [Mali vs Lesotho](https://www.cricbuzz.com/live-cricket-scores/106235/mali-vs-lso-11th-match-icc-mens-ar-t20wcqa "Mali v Lesotho, 11th Match - Upcoming")
+    
+    11th Match
     
 * T20 LEAGUE
     
@@ -192,7 +196,7 @@ AllLive NowToday
     
     6th Match
     
-* [Harare Bolts vs Joburg Bangla Tigers](https://www.cricbuzz.com/live-cricket-scores/106761/hb-vs-jbt-7th-match-zim-afro-t10-2024 "Harare Bolts v Joburg Bangla Tigers, 7th Match - Preview")
+* [Joburg Bangla Tigers vs Harare Bolts  LIVE](https://www.cricbuzz.com/live-cricket-scores/106761/jbt-vs-hb-7th-match-zim-afro-t10-2024 "Joburg Bangla Tigers v Harare Bolts, 7th Match - Live")
     
     7th Match
     
@@ -252,7 +256,7 @@ AllLive NowToday
     
     3rd Match
     
-* [Southern Super Stars vs Gujarat Greats](https://www.cricbuzz.com/live-cricket-scores/107081/snss-vs-gugs-4th-match-llc-2024 "Southern Super Stars v Gujarat Greats, 4th Match - Preview")
+* [Southern Super Stars vs Gujarat Greats](https://www.cricbuzz.com/live-cricket-scores/107081/snss-vs-gugs-4th-match-llc-2024 "Southern Super Stars v Gujarat Greats, 4th Match - Toss")
     
     4th Match
     
@@ -278,11 +282,7 @@ AllLive NowToday
     
 * Australia Under 19 tour of India
     
-    [Australia U19 vs India U19](https://www.cricbuzz.com/live-cricket-scores/106428/ausu19-vs-indu19-1st-youth-odi-australia-under-19-tour-of-india "Australia U19 v India U19, 1st Youth ODI - INDU19 Won")
-    
-    1st Youth ODI
-    
-* [Australia U19 vs India U19](https://www.cricbuzz.com/live-cricket-scores/106436/ausu19-vs-indu19-2nd-youth-odi-australia-under-19-tour-of-india "Australia U19 v India U19, 2nd Youth ODI - Ings Break")
+    [Australia U19 vs India U19](https://www.cricbuzz.com/live-cricket-scores/106436/ausu19-vs-indu19-2nd-youth-odi-australia-under-19-tour-of-india "Australia U19 v India U19, 2nd Youth ODI - INDU19 Won")
     
     2nd Youth ODI
     
@@ -302,7 +302,7 @@ AllLive NowToday
     
     Final
     
-* [Somerset vs Glamorgan](https://www.cricbuzz.com/live-cricket-scores/107571/som-vs-glam-final-reserve-day-eng-domestic-one-day-cup "Somerset v Glamorgan, Final (Reserve day) - Preview")
+* [Glamorgan vs Somerset](https://www.cricbuzz.com/live-cricket-scores/107571/glam-vs-som-final-reserve-day-eng-domestic-one-day-cup "Glamorgan v Somerset, Final (Reserve day) - Complete")
     
     Final (Reserve day)
     
@@ -310,11 +310,7 @@ AllLive NowToday
     
     Spain Women tour of Greece 2024
     
-    [Spain Women vs Greece Women](https://www.cricbuzz.com/live-cricket-scores/107225/spw-vs-grcw-2nd-t20i-spain-women-tour-of-greece-2024 "Spain Women v Greece Women, 2nd T20I - SPW Won")
-    
-    2nd T20I
-    
-* [Greece Women vs Spain Women](https://www.cricbuzz.com/live-cricket-scores/107227/grcw-vs-spw-3rd-t20i-spain-women-tour-of-greece-2024 "Greece Women v Spain Women, 3rd T20I - SPW Won")
+    [Greece Women vs Spain Women](https://www.cricbuzz.com/live-cricket-scores/107227/grcw-vs-spw-3rd-t20i-spain-women-tour-of-greece-2024 "Greece Women v Spain Women, 3rd T20I - SPW Won")
     
     3rd T20I
     
@@ -332,7 +328,7 @@ AllLive NowToday
     
     2nd T20I
     
-* [Australia Women vs New Zealand Women](https://www.cricbuzz.com/live-cricket-scores/91841/ausw-vs-nzw-3rd-t20i-australia-women-v-new-zealand-women "Australia Women v New Zealand Women, 3rd T20I - Upcoming")
+* [Australia Women vs New Zealand Women](https://www.cricbuzz.com/live-cricket-scores/91841/ausw-vs-nzw-3rd-t20i-australia-women-v-new-zealand-women "Australia Women v New Zealand Women, 3rd T20I - Preview")
     
     3rd T20I
     
@@ -643,39 +639,39 @@ This Privacy Policy (the “**Privacy Policy**”) serves to inform you of our p
 
 #### LATEST NEWS
 
+  [](https://www.cricbuzz.com/cricket-news/131727/shakib-al-hasan-under-oberservation-to-decide-kanpur-test-availability "Shakib Al Hasan under oberservation to decide Kanpur Test availability")
+
+[Shakib Al Hasan under oberservation to decide Kanpur Test availability](https://www.cricbuzz.com/cricket-news/131727/shakib-al-hasan-under-oberservation-to-decide-kanpur-test-availability "Shakib Al Hasan under oberservation to decide Kanpur Test availability")
+
+2h ago
+
+  [](https://www.cricbuzz.com/cricket-news/131726/shreyas-shardul-to-play-for-mumbai-in-irani-cup-ajinkya-rahane-to-lead "Shreyas, Shardul to play for Mumbai in Irani Cup; Rahane to lead")
+
+[Shreyas, Shardul to play for Mumbai in Irani Cup; Rahane to lead](https://www.cricbuzz.com/cricket-news/131726/shreyas-shardul-to-play-for-mumbai-in-irani-cup-ajinkya-rahane-to-lead "Shreyas, Shardul to play for Mumbai in Irani Cup; Rahane to lead")
+
+3h ago
+
   [](https://www.cricbuzz.com/cricket-news/131725/prabath-jayasuriya-spins-sri-lanka-to-1-0-lead "Prabath Jayasuriya spins Sri Lanka to 1-0 lead")
 
 [Prabath Jayasuriya spins Sri Lanka to 1-0 lead](https://www.cricbuzz.com/cricket-news/131725/prabath-jayasuriya-spins-sri-lanka-to-1-0-lead "Prabath Jayasuriya spins Sri Lanka to 1-0 lead")
 
-1h ago
+7h ago
 
   [](https://www.cricbuzz.com/cricket-news/131724/pooran-powers-tkr-to-record-run-chase "Pooran powers TKR to record run chase")
 
 [Pooran powers TKR to record run chase](https://www.cricbuzz.com/cricket-news/131724/pooran-powers-tkr-to-record-run-chase "Pooran powers TKR to record run chase")
 
-3h ago
+9h ago
+
+  [](https://www.cricbuzz.com/cricket-news/131723/sujith-gowda-turning-over-a-new-leaf "Sujith Gowda: Turning over a new leaf")
+
+[Sujith Gowda: Turning over a new leaf](https://www.cricbuzz.com/cricket-news/131723/sujith-gowda-turning-over-a-new-leaf "Sujith Gowda: Turning over a new leaf")
+
+11h ago
 
   [](https://www.cricbuzz.com/cricket-news/131722/bowlers-markram-give-south-africa-consolation-win "Bowlers, Markram give South Africa consolation win")
 
 [Bowlers, Markram give South Africa consolation win](https://www.cricbuzz.com/cricket-news/131722/bowlers-markram-give-south-africa-consolation-win "Bowlers, Markram give South Africa consolation win")
-
-12h ago
-
-  [](https://www.cricbuzz.com/cricket-news/131721/all-round-saint-lucia-kings-brush-aside-barbados-royals-again "All-round St. Lucia Kings do the double over Barbados Royals")
-
-[All-round St. Lucia Kings do the double over Barbados Royals](https://www.cricbuzz.com/cricket-news/131721/all-round-saint-lucia-kings-brush-aside-barbados-royals-again "All-round St. Lucia Kings do the double over Barbados Royals")
-
-13h ago
-
-  [](https://www.cricbuzz.com/cricket-news/131720/najmul-breaks-the-drought-with-crucial-knock-in-chennai "Najmul breaks the drought with crucial knock in Chennai")
-
-[Najmul breaks the drought with crucial knock in Chennai](https://www.cricbuzz.com/cricket-news/131720/najmul-breaks-the-drought-with-crucial-knock-in-chennai "Najmul breaks the drought with crucial knock in Chennai")
-
-15h ago
-
-  [](https://www.cricbuzz.com/cricket-news/131719/prasidh-krishna-tanush-kotian-lead-india-a-to-duleep-trophy-title "Prasidh Krishna, Tanush Kotian lead India A to Duleep Trophy title")
-
-[Prasidh Krishna, Tanush Kotian lead India A to Duleep Trophy title](https://www.cricbuzz.com/cricket-news/131719/prasidh-krishna-tanush-kotian-lead-india-a-to-duleep-trophy-title "Prasidh Krishna, Tanush Kotian lead India A to Duleep Trophy title")
 
 18h ago
 
