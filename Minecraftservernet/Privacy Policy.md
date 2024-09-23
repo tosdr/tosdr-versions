@@ -29,15 +29,17 @@ Version All 1.21.1 1.21 1.20.6 1.20.5 1.20.4 1.20.3 1.20.2 1.20.1 1.20 1.19.4 1.
 
 Active Servers
 
-[![HardcoreAnarchy](plugins/MineCraft/icons/25x25xHardcoreAnarchy_1723313227.png.pagespeed.ic.BxBvHn1f9s.png)
+[![SUSMinecraft](plugins/MineCraft/icons/SUSMinecraft_1726916983.png.pagespeed.ce.4K26pX4nDP.png)
 
-Hardcore Anarchy](https://minecraft-server.net/details/HardcoreAnarchy/ "Hardcore Anarchy")[![kchscraft](plugins/MineCraft/icons/25x25xkchscraft_1658311151.png.pagespeed.ic.fnqNIplg0a.png)
+feather64](https://minecraft-server.net/details/SUSMinecraft/ "feather64")[![mcprison](plugins/MineCraft/icons/25x25xmcprison_1722027662.png.pagespeed.ic.0wYsTOy-Nc.png)
 
-KCHS Craft](https://minecraft-server.net/details/kchscraft/ "KCHS Craft") [MineCrafty - UBuild!](https://minecraft-server.net/details/Xerius/ "MineCrafty - UBuild!")[![SUSMinecraft](plugins/MineCraft/icons/SUSMinecraft_1726916983.png.pagespeed.ce.4K26pX4nDP.png)
+STAFF NEEDED - PURPLE PRISON](https://minecraft-server.net/details/mcprison/ "STAFF NEEDED - PURPLE PRISON")[![TrekCraft](plugins/MineCraft/icons/25x25xTrekCraft_1691578684.png.pagespeed.ic.kw9HXByTco.jpg)
 
-feather64](https://minecraft-server.net/details/SUSMinecraft/ "feather64")[![Crackex_Network](plugins/MineCraft/icons/25x25xCrackex_Network_1719945700.png.pagespeed.ic.5lGRZnbn0U.jpg)
+TrekCraft: Towny](https://minecraft-server.net/details/TrekCraft/ "TrekCraft: Towny")[![Crackex_Network](plugins/MineCraft/icons/25x25xCrackex_Network_1719945700.png.pagespeed.ic.5lGRZnbn0U.jpg)
 
-BEST SURVIVAL • CrackexNet](https://minecraft-server.net/details/Crackex_Network/ "BEST SURVIVAL • CrackexNet ")
+BEST SURVIVAL • CrackexNet](https://minecraft-server.net/details/Crackex_Network/ "BEST SURVIVAL • CrackexNet ")[![TheosisMC](plugins/MineCraft/icons/25x25xTheosisMC_1723365735.png.pagespeed.ic.rP37hCYpnu.png)
+
+TheosisMC • Hardcore Survival • 1.21.1](https://minecraft-server.net/details/TheosisMC/ "TheosisMC • Hardcore Survival • 1.21.1")
 
 1. [Minecraft Servers](https://minecraft-server.net/)
 2. Privacy Policy
@@ -140,4 +142,4 @@ Set
 * [Statistics](https://minecraft-server.net/overall-stats/ "Statistics")
 * [Contact](https://minecraft-server.net/contact/ "Contact")
 
-© Minecraft-Server.net 2024. All rights reserved. 'Minecraft' is a property of [Mojang](https://www.mojang.com/). You can buy [Minecraft here](https://www.minecraft.net/). 7 queries, time: 0.0604 - Created by [Debaucus](https://debauc.us/)
+© Minecraft-Server.net 2024. All rights reserved. 'Minecraft' is a property of [Mojang](https://www.mojang.com/). You can buy [Minecraft here](https://www.minecraft.net/). 7 queries, time: 0.06067 - Created by [Debaucus](https://debauc.us/)
