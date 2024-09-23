@@ -203,11 +203,11 @@ Quick Guides
     
 * [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
-    ![](https://fifthperson.com/wp-content/uploads/2023/02/coca-cola-220x150.jpg)](https://fifthperson.com/3-companies-own-us-soft-drink-market/)
+    ![](https://fifthperson.com/wp-content/uploads/2024/09/us-dollar-220x150.jpg)](https://fifthperson.com/put-options-income-waiting-right-stock-price/)
     
-    [These 3 companies own the U.S. soft drink market](https://fifthperson.com/3-companies-own-us-soft-drink-market/)
+    [Put options explained: How to earn income while waiting for the right stock price](https://fifthperson.com/put-options-income-waiting-right-stock-price/)
     
-    February 3, 2023
+    19 hours ago
     
 
 * [![Photo of Steve Davies](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
