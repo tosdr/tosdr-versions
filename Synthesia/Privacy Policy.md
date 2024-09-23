@@ -323,6 +323,8 @@ Join over 1M+ users today and start making AI videos with 230+ avatars in 140+ l
 
 [de](https://www.synthesia.io/de/legal/privacy-policy)
 
+[es](https://www.synthesia.io/es/legal/privacy-policy)
+
 [en
 
 English](https://www.synthesia.io/legal/privacy-policy)
@@ -334,6 +336,10 @@ Français](https://www.synthesia.io/fr/legal/privacy-policy)
 [de
 
 Deutsch](https://www.synthesia.io/de/legal/privacy-policy)
+
+[es
+
+Español](https://www.synthesia.io/es/legal/privacy-policy)
 
 Synthesia is the #1 AI Video Communications Platform. Our [AI Video Generator](https://www.synthesia.io/?r=0) enables everyone to create professional videos without mics, cameras, actors or studios.  
   
