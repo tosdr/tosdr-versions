@@ -2,14 +2,14 @@ Monday, September 23 2024
 
 Breaking News
 
+* [Medal of Honor Monday: Navy Chief Petty Officer Fred McGuire](https://www.conservativedailynews.com/2024/09/medal-of-honor-monday-navy-chief-petty-officer-fred-mcguire/)
+* [Here’s How A Venezuelan Gang Was Able To Infiltrate The US And Wreak Havoc In Major Cities](https://www.conservativedailynews.com/2024/09/heres-how-a-venezuelan-gang-was-able-to-infiltrate-the-us-and-wreak-havoc-in-major-cities/)
+* [Mike Johnson Unveils New Spending Bill With Bolstered Secret Service Funding](https://www.conservativedailynews.com/2024/09/mike-johnson-unveils-new-spending-bill-with-bolstered-secret-service-funding/)
+* [Automakers Hit Reverse On Idealistic Electric Vehicle Targets Despite Billions In Biden-Harris Subsidies](https://www.conservativedailynews.com/2024/09/automakers-hit-reverse-on-idealistic-electric-vehicle-targets-despite-billions-in-biden-harris-subsidies/)
+* [President Joe Biden’s Schedule for Monday, September 23, 2024](https://www.conservativedailynews.com/2024/09/president-joe-bidens-schedule-for-monday-september-23-2024/)
 * [ABC Political Director Warns ‘Kamala Harris Has Issues’ With Hispanic Voters](https://www.conservativedailynews.com/2024/09/abc-political-director-warns-kamala-harris-has-issues-with-hispanic-voters/)
 * [Democrats Want ‘Climate Literacy’ In Schools As Actual Literacy Slips](https://www.conservativedailynews.com/2024/09/democrats-want-climate-literacy-in-schools-as-actual-literacy-slips/)
 * [Does Anybody Want To Win This Thing?](https://www.conservativedailynews.com/2024/09/does-anybody-want-to-win-this-thing/)
-* [Steve Kornacki Describes Massive ‘Gender Gap’ Between Trump, Harris In New Poll](https://www.conservativedailynews.com/2024/09/steve-kornacki-describes-massive-gender-gap-between-trump-harris-in-new-poll/)
-* [Biden Stumbles Towards World War III](https://www.conservativedailynews.com/2024/09/biden-stumbles-towards-world-war-iii/)
-* [We Are Being “Punked” By Kamala And Crew](https://www.conservativedailynews.com/2024/09/we-are-being-punked-by-kamala-and-crew/)
-* [John Fetterman Admits Trump Has ‘Special’ Bond With Key Swing-State Voters](https://www.conservativedailynews.com/2024/09/john-fetterman-admits-trump-has-special-bond-with-key-swing-state-voters/)
-* [Gender Ideology Is The New ‘Parental Alienation’](https://www.conservativedailynews.com/2024/09/gender-ideology-is-the-new-parental-alienation/)
 
 * [Sidebar](#)
 * [Random Article](https://www.conservativedailynews.com/privacy-policy/?random-post=1 "Random Article")
@@ -111,68 +111,68 @@ Your donations help us purchase content, pay for servers, and reduce advertising
 
 Created using the Donation Thermometer plugin https://wordpress.org/plugins/donation-thermometer/.47%
 
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2023/08/gv081723dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/09/automakers-hit-reverse-on-idealistic-electric-vehicle-targets-despite-billions-in-biden-harris-subsidies/)
+    
+    [Automakers Hit Reverse On Idealistic Electric Vehicle Targets Despite Billions In Biden-Harris Subsidies](https://www.conservativedailynews.com/2024/09/automakers-hit-reverse-on-idealistic-electric-vehicle-targets-despite-billions-in-biden-harris-subsidies/)
+    
+    September 23, 2024
+    
 * [![Elon Musk](https://www.conservativedailynews.com/wp-content/uploads/2022/01/1280px-Elon_Musk_at_a_Press_Conference-220x150.jpg)](https://www.conservativedailynews.com/2024/09/elon-musk-makes-his-largest-known-political-donation-ever-to-boost-house-republicans/)
     
     [Elon Musk Makes His Largest Known Political Donation Ever To Boost House Republicans](https://www.conservativedailynews.com/2024/09/elon-musk-makes-his-largest-known-political-donation-ever-to-boost-house-republicans/)
     
     September 21, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2023/07/01-by-half-sm-1080-220x150.jpg)](https://www.conservativedailynews.com/2024/09/14-republicans-join-forces-with-dems-to-torpedo-mike-johnsons-revived-spending-bill/)
-    
-    [14 Republicans Join Forces With Dems To Torpedo Mike Johnson’s Revived Spending Bill](https://www.conservativedailynews.com/2024/09/14-republicans-join-forces-with-dems-to-torpedo-mike-johnsons-revived-spending-bill/)
-    
-    September 19, 2024
-    
 
 Recent Posts
 
-* [![Kamala Harris sad](https://www.conservativedailynews.com/wp-content/uploads/2020/08/Kamala-Harris-5.jpg)](https://www.conservativedailynews.com/2024/09/abc-political-director-warns-kamala-harris-has-issues-with-hispanic-voters/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/09/240910-O-D0439-083Z-220x150.jpg)](https://www.conservativedailynews.com/2024/09/medal-of-honor-monday-navy-chief-petty-officer-fred-mcguire/)
     
-    [ABC Political Director Warns ‘Kamala Harris Has Issues’ With Hispanic Voters](https://www.conservativedailynews.com/2024/09/abc-political-director-warns-kamala-harris-has-issues-with-hispanic-voters/)
+    [Medal of Honor Monday: Navy Chief Petty Officer Fred McGuire](https://www.conservativedailynews.com/2024/09/medal-of-honor-monday-navy-chief-petty-officer-fred-mcguire/)
     
-    September 22, 2024
+    September 23, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2019/01/Classroom.jpg)](https://www.conservativedailynews.com/2024/09/democrats-want-climate-literacy-in-schools-as-actual-literacy-slips/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/09/05-out-houses-ci-1080a-220x150.jpg)](https://www.conservativedailynews.com/2024/09/full-house-2/)
     
-    [Democrats Want ‘Climate Literacy’ In Schools As Actual Literacy Slips](https://www.conservativedailynews.com/2024/09/democrats-want-climate-literacy-in-schools-as-actual-literacy-slips/)
+    [Full House](https://www.conservativedailynews.com/2024/09/full-house-2/)
     
-    September 22, 2024
+    September 23, 2024
     
-* [![Kamala Harris Donald Trump 2024 election platforms](https://www.conservativedailynews.com/wp-content/uploads/2024/09/04-platforms-sm-1080-220x150.jpg)](https://www.conservativedailynews.com/2024/09/does-anybody-want-to-win-this-thing/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2021/10/Illegal-immigrants-rushing-the-border-1-220x150.png)](https://www.conservativedailynews.com/2024/09/heres-how-a-venezuelan-gang-was-able-to-infiltrate-the-us-and-wreak-havoc-in-major-cities/)
     
-    [Does Anybody Want To Win This Thing?](https://www.conservativedailynews.com/2024/09/does-anybody-want-to-win-this-thing/)
+    [Here’s How A Venezuelan Gang Was Able To Infiltrate The US And Wreak Havoc In Major Cities](https://www.conservativedailynews.com/2024/09/heres-how-a-venezuelan-gang-was-able-to-infiltrate-the-us-and-wreak-havoc-in-major-cities/)
     
-    September 22, 2024
+    September 23, 2024
     
-* [![Kamala Harris price controls bread line](https://www.conservativedailynews.com/wp-content/uploads/2024/09/gv092224dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/09/bad-ideas/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2019/02/Capitol-hill.jpg)](https://www.conservativedailynews.com/2024/09/mike-johnson-unveils-new-spending-bill-with-bolstered-secret-service-funding/)
     
-    [Bad Ideas](https://www.conservativedailynews.com/2024/09/bad-ideas/)
+    [Mike Johnson Unveils New Spending Bill With Bolstered Secret Service Funding](https://www.conservativedailynews.com/2024/09/mike-johnson-unveils-new-spending-bill-with-bolstered-secret-service-funding/)
     
-    September 22, 2024
+    September 23, 2024
     
-* [![Kamala Harris 2024 election](https://www.conservativedailynews.com/wp-content/uploads/2024/07/stg072624dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/09/steve-kornacki-describes-massive-gender-gap-between-trump-harris-in-new-poll/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2023/08/gv081723dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/09/automakers-hit-reverse-on-idealistic-electric-vehicle-targets-despite-billions-in-biden-harris-subsidies/)
     
-    [Steve Kornacki Describes Massive ‘Gender Gap’ Between Trump, Harris In New Poll](https://www.conservativedailynews.com/2024/09/steve-kornacki-describes-massive-gender-gap-between-trump-harris-in-new-poll/)
+    [Automakers Hit Reverse On Idealistic Electric Vehicle Targets Despite Billions In Biden-Harris Subsidies](https://www.conservativedailynews.com/2024/09/automakers-hit-reverse-on-idealistic-electric-vehicle-targets-despite-billions-in-biden-harris-subsidies/)
     
-    September 22, 2024
+    September 23, 2024
     
-* [![Joe Biden defense israel iran weak war](https://www.conservativedailynews.com/wp-content/uploads/2024/04/stg041524dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/09/biden-stumbles-towards-world-war-iii/)
+* [![Secret Service Feckless](https://www.conservativedailynews.com/wp-content/uploads/2024/09/stg092324dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/09/feckless/)
     
-    [Biden Stumbles Towards World War III](https://www.conservativedailynews.com/2024/09/biden-stumbles-towards-world-war-iii/)
+    [Feckless](https://www.conservativedailynews.com/2024/09/feckless/)
     
-    September 22, 2024
+    September 23, 2024
     
-* [![Joe Biden Kamala Harris](https://www.conservativedailynews.com/wp-content/uploads/2023/09/mrz090823dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/09/we-are-being-punked-by-kamala-and-crew/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2021/02/Joe-Biden-Air-Force-One-220x150.png)](https://www.conservativedailynews.com/2024/09/president-joe-bidens-schedule-for-monday-september-23-2024/)
     
-    [We Are Being “Punked” By Kamala And Crew](https://www.conservativedailynews.com/2024/09/we-are-being-punked-by-kamala-and-crew/)
+    [President Joe Biden’s Schedule for Monday, September 23, 2024](https://www.conservativedailynews.com/2024/09/president-joe-bidens-schedule-for-monday-september-23-2024/)
     
-    September 22, 2024
+    September 23, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/09/John-Fetterman-on-Trump-Pennsylvania-220x150.jpg)](https://www.conservativedailynews.com/2024/09/john-fetterman-admits-trump-has-special-bond-with-key-swing-state-voters/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2021/12/groceries-220x150.png)](https://www.conservativedailynews.com/2024/09/how-to-build-a-reasonable-grocery-stockpile-without-losing-your-mind/)
     
-    [John Fetterman Admits Trump Has ‘Special’ Bond With Key Swing-State Voters](https://www.conservativedailynews.com/2024/09/john-fetterman-admits-trump-has-special-bond-with-key-swing-state-voters/)
+    [How to Build a Reasonable Grocery Stockpile Without Losing Your Mind](https://www.conservativedailynews.com/2024/09/how-to-build-a-reasonable-grocery-stockpile-without-losing-your-mind/)
     
-    September 22, 2024
+    September 23, 2024
     
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
@@ -228,6 +228,7 @@ Contact Us
 
 Recent Comments
 
+* charles wilkins on [Bad Ideas](https://www.conservativedailynews.com/2024/09/bad-ideas/#comment-782269)
 * Dr. Ramon Argila deTorres y Sandoval on [Zero Clarity](https://www.conservativedailynews.com/2024/09/zero-clarity/#comment-782260)
 * Adonis on [Chris Cuomo Fact-Checks AOC Over Israeli Pager Attack](https://www.conservativedailynews.com/2024/09/chris-cuomo-fact-checks-aoc-over-israeli-pager-attack/#comment-782256)
 * charles wilkins on [Zero Clarity](https://www.conservativedailynews.com/2024/09/zero-clarity/#comment-782254)
@@ -236,7 +237,6 @@ Recent Comments
 * Spit-N-Seeds on [The Reasons Young Women Embrace the Left Do Not Reflect Well on Those Women](https://www.conservativedailynews.com/2024/09/the-reasons-young-women-embrace-the-left-do-not-reflect-well-on-those-women/#comment-782201)
 * Jim on [Caption This…](https://www.conservativedailynews.com/2024/09/caption-this/#comment-782189)
 * charles wilkins on [Dangerous Rhetoric](https://www.conservativedailynews.com/2024/09/dangerous-rhetoric/#comment-782180)
-* KayCee on [Dazed and Confused](https://www.conservativedailynews.com/2024/09/dazed-and-confused-3/#comment-782173)
 
 [Close](#)
 
