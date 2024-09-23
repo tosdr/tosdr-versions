@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/boeken/over-een-broodje-corona/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/universum/moongate/hoofdstuk-3-4van-moongate-scheve-calculaties/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
