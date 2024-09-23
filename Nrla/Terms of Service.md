@@ -505,12 +505,12 @@ For queries or comments about NRLA Membership and our services, please contact u
 | 1.1 | New section on unacceptable behaviour added. Minor addition and reposition of how to contact us section. | 17.04.2023 |
 | 1.2 | Changes to Who We Are section to include addition of Safe2 and change of registered address | 02.04.2024 |
 
-[Membership Terms
-----------------
+[NRLA Membership Terms
+---------------------
 
 Last updated: 02/04/2024 at 14:42 - 265.22 KB
 
-Download](https://www.nrla.org.uk/download?document=1020 "Membership Terms")
+Download](https://www.nrla.org.uk/download?document=1020 "NRLA Membership Terms")
 
 * [About us](https://www.nrla.org.uk/about-us)
 * [Who we are](https://www.nrla.org.uk/about-us/who-we-are)
