@@ -18,7 +18,19 @@
 
 [Leia tudo sobre Maceió](https://www.tnh1.com.br/noticias/editoria/maceio/ "Ir para Maceió")
 
-   [![Conferência discute criação de política de proteção à comunidade LGBTQIA+](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/f/1/csm_conferencia_lgbt_4b91baddf2.jpeg)
+   [![Polícia investiga homem suspeito de matar cão a pauladas em Maceió ](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/d/b/csm_6oDP_f2b0635ec5.png)
+
+Polícia
+
+Polícia investiga homem suspeito de matar cão a pauladas em Maceió](https://www.tnh1.com.br/noticia/nid/policia-investiga-homem-suspeito-de-matar-cao-a-pauladas-em-maceio/ "Polícia investiga homem suspeito de matar cão a pauladas em Maceió ")   [![Homem é preso suspeito de espancar a mãe idosa, no Jardim Petrópolis](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/d/f/csm_central-de-flagrantes-foto-pc_e5fbf5d58e.jpeg)
+
+73 anos
+
+Homem é preso suspeito de espancar a mãe idosa, no Jardim Petrópolis](https://www.tnh1.com.br/noticia/nid/homem-e-preso-suspeito-de-espancar-a-mae-idosa-no-jardim-petropolis/ "Homem é preso suspeito de espancar a mãe idosa, no Jardim Petrópolis")   [![Vídeo: homem tenta arrombar trailer e é preso por tentativa de furto, na Jatiúca](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/0/e/csm_suspeito-arrombar-trailer-jatiuca-2_64a9157e93.jpg)
+
+Assista
+
+Vídeo: homem tenta arrombar trailer e é preso por tentativa de furto, na Jatiúca](https://www.tnh1.com.br/noticia/nid/video-homem-tenta-arrombar-trailer-e-e-preso-por-tentativa-de-furto-na-jatiuca/ "Vídeo: homem tenta arrombar trailer e é preso por tentativa de furto, na Jatiúca")   [![Conferência discute criação de política de proteção à comunidade LGBTQIA+](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/f/1/csm_conferencia_lgbt_4b91baddf2.jpeg)
 
 Maceió
 
@@ -30,19 +42,7 @@ Veja a programação do último dia do Festival Massayó Gospel](https://www.tnh
 
 e-mail anônimo
 
-“Aberração” e “macaca”: candidata a vereadora denuncia ameaças de estupro e morte à PF](https://www.tnh1.com.br/noticia/nid/aberracao-e-macaca-candidata-a-vereadora-denuncia-ameacas-de-estupro-e-morte-a-pf/ "“Aberração” e “macaca”: candidata a vereadora denuncia ameaças de estupro e morte à PF")   [![Novo sistema de drenagem reforça ações de estabilização da Encosta do Mutange  ](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/6/e/csm_braskem_obra_34c29c2728.jpeg)
-
-Maceió
-
-Novo sistema de drenagem reforça ações de estabilização da Encosta do Mutange](https://www.tnh1.com.br/noticia/nid/novo-sistema-de-drenagem-reforca-acoes-de-estabilizacao-da-encosta-do-mutange/ "Novo sistema de drenagem reforça ações de estabilização da Encosta do Mutange  ")   [![Fiscalização apreende mais de três toneladas de alimentos estragados no Cleto Marques Luz](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/5/9/csm_Fiscalizacao_apreende_mais_de_tres_toneladas_de_alimentos_estragados_no_Cleto_Marques_Luz_-_foto_Divulgacao_Vigilancia_Sanitaria_d432090cdb.jpeg)
-
-açougue e frigorífico
-
-Fiscalização apreende mais de três toneladas de alimentos estragados no Cleto Marques Luz](https://www.tnh1.com.br/noticia/nid/fiscalizacao-apreende-mais-de-tres-toneladas-de-alimentos-estragados-no-cleto-marques-luz/ "Fiscalização apreende mais de três toneladas de alimentos estragados no Cleto Marques Luz")   [![Empresa tem 15 dias para prestar explicações sobre morte de trabalhador na Ponte Divaldo Suruagy](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/8/3/csm_eraldo_ponte_d5803d3831.png)
-
-caiu da ponte
-
-Empresa tem 15 dias para prestar explicações sobre morte de trabalhador na Ponte Divaldo Suruagy](https://www.tnh1.com.br/noticia/nid/empresa-tem-15-dias-para-prestar-explicacoes-sobre-morte-de-trabalhador-na-ponte-divaldo-suruagy/ "Empresa tem 15 dias para prestar explicações sobre morte de trabalhador na Ponte Divaldo Suruagy")
+“Aberração” e “macaca”: candidata a vereadora denuncia ameaças de estupro e morte à PF](https://www.tnh1.com.br/noticia/nid/aberracao-e-macaca-candidata-a-vereadora-denuncia-ameacas-de-estupro-e-morte-a-pf/ "“Aberração” e “macaca”: candidata a vereadora denuncia ameaças de estupro e morte à PF")
 
 [Alagoas](https://www.tnh1.com.br/noticias/editoria/alagoas/ "Alagoas")
 
@@ -50,7 +50,19 @@ Empresa tem 15 dias para prestar explicações sobre morte de trabalhador na Pon
 
 [Leia tudo sobre Alagoas](https://www.tnh1.com.br/noticias/editoria/alagoas/ "Ir para Alagoas")
 
-   [![Confira os ganhadores do Alagoas dá Sorte deste domingo, 22 de setembro](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/6/2/csm_ALAGOAS_DA_SORTE_15ed4607ed.jpg)
+   [![Sesau investiga morte possivelmente causada pela febre oropouche, em Alagoas](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/a/c/csm_sesau-segue-monitorando-casos-de-febre-do-oropouche-em-alagoas_6b2907aac8.jpg)
+
+sob suspeita
+
+Sesau investiga morte possivelmente causada pela febre oropouche, em Alagoas](https://www.tnh1.com.br/noticia/nid/sesau-investiga-morte-possivelmente-causada-pela-febre-oropouche-em-alagoas/ "Sesau investiga morte possivelmente causada pela febre oropouche, em Alagoas")   [![Governador Paulo Dantas anuncia datas para pagamento do Fundef](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/f/1/csm_real_moeda_dinheiro_Agencia_Brasil_df556bc249.jpg)
+
+Neste mês
+
+Governador Paulo Dantas anuncia datas para pagamento do Fundef](https://www.tnh1.com.br/noticia/nid/governador-paulo-dantas-anuncia-datas-para-pagamento-do-fundef/ "Governador Paulo Dantas anuncia datas para pagamento do Fundef")   [![Chuva inesperada: como fica a previsão do tempo para Alagoas nesta segunda-feira?](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/d/a/csm_previsao_tempo_caio_tnh1_5fc32a5487.jpeg)
+
+confira
+
+Chuva inesperada: como fica a previsão do tempo para Alagoas nesta segunda-feira?](https://www.tnh1.com.br/noticia/nid/chuva-inesperada-como-fica-a-previsao-do-tempo-para-alagoas-nesta-segunda-feira/ "Chuva inesperada: como fica a previsão do tempo para Alagoas nesta segunda-feira?")   [![Confira os ganhadores do Alagoas dá Sorte deste domingo, 22 de setembro](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/6/2/csm_ALAGOAS_DA_SORTE_15ed4607ed.jpg)
 
 Sortudos!
 
@@ -62,19 +74,7 @@ Fiscalização identifica novos desvios de água no município sertanejo de Mont
 
 Mês do Veterinário
 
-Veterinários alagoanos serão homenageados em premiação nesta sexta-feira](https://www.tnh1.com.br/noticia/nid/veterinarios-alagoanos-serao-homenageados-em-premiacao-nesta-sexta-feira/ "Veterinários alagoanos serão homenageados em premiação nesta sexta-feira")   [![Governo publica procedimentos para pagamento do rateio do Fundef em Alagoas; confira](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/1/f/csm_real_moedadinheiro_jfcrz_abr_1701220049_1_14b8d66d3b.jpg)
-
-mais de R$ 827 milhões
-
-Governo publica procedimentos para pagamento do rateio do Fundef em Alagoas; confira](https://www.tnh1.com.br/noticia/nid/governo-publica-procedimentos-para-pagamento-do-rateio-do-fundef-em-alagoas-confira/ "Governo publica procedimentos para pagamento do rateio do Fundef em Alagoas; confira")   [![Governo lança campanha para consolidar Alagoas como capital nacional do Réveillon; confira as festas](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/b/3/csm_campanha-reveillon-pedro-acioli_294c207a25.jpg)
-
-programação
-
-Governo lança campanha para consolidar Alagoas como capital nacional do Réveillon; confira as festas](https://www.tnh1.com.br/noticia/nid/governo-lanca-campanha-para-consolidar-alagoas-como-capital-nacional-do-reveillon-confira-as-festas/ "Governo lança campanha para consolidar Alagoas como capital nacional do Réveillon; confira as festas")   [![Estudos e soluções: reunião no MPF discute prevenção de enchentes, inundações e deslizamentos em AL](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/f/9/csm_reuniao_mpf_19-09-24_367b35768d.jpeg)
-
-minimizar impacto
-
-Estudos e soluções: reunião no MPF discute prevenção de enchentes, inundações e deslizamentos em AL](https://www.tnh1.com.br/noticia/nid/estudos-e-solucoes-reuniao-no-mpf-discute-prevencao-de-enchentes-inundacoes-e-deslizamentos-em-al/ "Estudos e soluções: reunião no MPF discute prevenção de enchentes, inundações e deslizamentos em AL")
+Veterinários alagoanos serão homenageados em premiação nesta sexta-feira](https://www.tnh1.com.br/noticia/nid/veterinarios-alagoanos-serao-homenageados-em-premiacao-nesta-sexta-feira/ "Veterinários alagoanos serão homenageados em premiação nesta sexta-feira")
 
 [Polícia](https://www.tnh1.com.br/noticias/editoria/policia/ "Polícia")
 
@@ -82,31 +82,31 @@ Estudos e soluções: reunião no MPF discute prevenção de enchentes, inundaç
 
 [Leia tudo sobre Polícia](https://www.tnh1.com.br/noticias/editoria/policia/ "Ir para Polícia")
 
-   [![PM apreende 22 armas de fogo e 3,4 quilos de drogas na última semana em Alagoas](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/3/b/csm_pm-apreende-22-armas-de-fogo-e-34-quilos-de-drogas-em-uma-semana-em-alagoas_672b746056.jpeg)
+   [![Polícia investiga homem suspeito de matar cão a pauladas em Maceió ](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/d/b/csm_6oDP_f2b0635ec5.png)
 
-Balanço
+Polícia
 
-PM apreende 22 armas de fogo e 3,4 quilos de drogas na última semana em Alagoas](https://www.tnh1.com.br/noticia/nid/pm-apreende-22-armas-de-fogo-e-34-quilos-de-drogas-na-ultima-semana-em-alagoas/ "PM apreende 22 armas de fogo e 3,4 quilos de drogas na última semana em Alagoas")   [![Quatro corpos são encontrados no intervalo de uma hora e meia, em Rio Largo](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/9/2/csm_IML_Maceio_-_foto_Policia_Cientifica_2_539ce66547.jpeg)
+Polícia investiga homem suspeito de matar cão a pauladas em Maceió](https://www.tnh1.com.br/noticia/nid/policia-investiga-homem-suspeito-de-matar-cao-a-pauladas-em-maceio/ "Polícia investiga homem suspeito de matar cão a pauladas em Maceió ")   [![Mais de 15 kg de drogas e espingarda são apreendidos em mata no município de Rio Largo](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/4/3/csm_apreensao_drogas_rio_largo_ascom_pm_8b47a9ef1d.jpg)
 
-Três em fazenda
+Ninguém foi preso
 
-Quatro corpos são encontrados no intervalo de uma hora e meia, em Rio Largo](https://www.tnh1.com.br/noticia/nid/quatro-corpos-sao-encontrados-no-intervalo-de-uma-hora-e-meia-em-rio-largo/ "Quatro corpos são encontrados no intervalo de uma hora e meia, em Rio Largo")   [![Homem denunciado por agredir mulher é preso com quase 150 pacotes de cocaína, em Maragogi](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/6/9/csm_apreensao_maragogi_-_foto_cortesia_c8ca9ee969.jpeg)
+Mais de 15 kg de drogas e espingarda são apreendidos em mata no município de Rio Largo](https://www.tnh1.com.br/noticia/nid/mais-de-15-kg-de-drogas-e-espingarda-sao-apreendidos-em-mata-no-municipio-de-rio-largo/ "Mais de 15 kg de drogas e espingarda são apreendidos em mata no município de Rio Largo")   [![Tiros durante comício deixam um morto e dois feridos no interior de Alagoas ](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/8/4/csm_Roiberto_comicio_ecff4e3f3d.png)
 
-Apreensão de drogas
+Joaquim Gomes
 
-Homem denunciado por agredir mulher é preso com quase 150 pacotes de cocaína, em Maragogi](https://www.tnh1.com.br/noticia/nid/homem-denunciado-por-agredir-mulher-e-preso-com-quase-150-pacotes-de-cocaina-em-maragogi/ "Homem denunciado por agredir mulher é preso com quase 150 pacotes de cocaína, em Maragogi")   [![Cervejaria é interditada por irregularidades após operação policial no Feitosa](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/6/8/csm_operacao_feitosa_-_foto_reproducao_5e82bc93d9.jpg)
+Tiros durante comício deixam um morto e dois feridos no interior de Alagoas](https://www.tnh1.com.br/noticia/nid/tiros-durante-comicio-deixam-um-morto-e-dois-feridos-no-interior-de-alagoas/ "Tiros durante comício deixam um morto e dois feridos no interior de Alagoas ")   [![Vídeo: falso cliente entra em açaiteria, se serve e anuncia roubo na hora de pagar](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/3/4/csm_roubo_acaiteria_-_foto_reproducao_video_f329335b8f.jpg)
 
-Foi denunciada
+em arapiraca
 
-Cervejaria é interditada por irregularidades após operação policial no Feitosa](https://www.tnh1.com.br/noticia/nid/cervejaria-e-interditada-por-irregularidades-apos-operacao-policial-no-feitosa/ "Cervejaria é interditada por irregularidades após operação policial no Feitosa")   [![Marido de mulher que teve o corpo encontrado em chamas é preso e confessa crime no Sertão de Alagoas](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/7/4/csm_prisao_feminicida_inhapi_-_foto_reproducao_video_4547273e35.png)
+Vídeo: falso cliente entra em açaiteria, se serve e anuncia roubo na hora de pagar](https://www.tnh1.com.br/noticia/nid/video-falso-cliente-entra-em-acaiteria-se-serve-e-anuncia-roubo-na-hora-de-pagar/ "Vídeo: falso cliente entra em açaiteria, se serve e anuncia roubo na hora de pagar")   [![Jovem é estuprada três vezes após aceitar carona, no interior de Alagoas](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/b/d/csm_estupro_freepik_3188e0883e.png)
 
-Inhapi
+Em Craíbas
 
-Marido de mulher que teve o corpo encontrado em chamas é preso e confessa crime no Sertão de Alagoas](https://www.tnh1.com.br/noticia/nid/marido-de-mulher-que-teve-o-corpo-encontrado-em-chamas-e-preso-e-confessa-crime-no-sertao-de-alagoas/ "Marido de mulher que teve o corpo encontrado em chamas é preso e confessa crime no Sertão de Alagoas")   [![Mulher assassinada é queimada e tem corpo encontrado ainda em chamas por familiares ](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/f/5/csm_mulher_canapi_0f1a805140.jpeg)
+Jovem é estuprada três vezes após aceitar carona, no interior de Alagoas](https://www.tnh1.com.br/noticia/nid/jovem-e-estuprada-tres-vezes-apos-aceitar-carona-no-interior-de-alagoas/ "Jovem é estuprada três vezes após aceitar carona, no interior de Alagoas")   [![Preso por atear fogo em corpo de mulher planejou crime após desconfiar de traição, diz polícia](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/9/4/csm_damiana_souza_mulher_morta_-_foto_reproducao_arquivo_pessoal_40ffc4cf83.jpg)
 
-em inhapi
+No Sertão de AL
 
-Mulher assassinada é queimada e tem corpo encontrado ainda em chamas por familiares](https://www.tnh1.com.br/noticia/nid/mulher-assassinada-e-queimada-e-tem-corpo-encontrado-ainda-em-chamas-por-familiares/ "Mulher assassinada é queimada e tem corpo encontrado ainda em chamas por familiares ")
+Preso por atear fogo em corpo de mulher planejou crime após desconfiar de traição, diz polícia](https://www.tnh1.com.br/noticia/nid/preso-por-atear-fogo-em-corpo-de-mulher-planejou-crime-apos-desconfiar-de-traicao-diz-policia/ "Preso por atear fogo em corpo de mulher planejou crime após desconfiar de traição, diz polícia")
 
 [Blogs](https://www.tnh1.com.br/blogs/ "Blogs")
 
@@ -198,23 +198,7 @@ O Portal TNH1 não entra em contato com os ganhadores de qualquer promoção atr
 * [ÚLTIMAS](#ultimas "Ultimas")
 * [VÍDEOS](#videos "Videos")
 
-[![Marido de mulher que teve o corpo encontrado em chamas é preso e confessa crime no Sertão de Alagoas](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/7/4/csm_prisao_feminicida_inhapi_-_foto_reproducao_video_806b7b44c6.png)
-
-Inhapi
-
-Inhapi
-
-Marido de mulher que teve o corpo encontrado em chamas é preso e confessa crime no Sertão de Alagoas
-
-Marido de mulher que teve o corpo encontrado em chamas é preso e confessa crime no Sertão de Alagoas](https://www.tnh1.com.br/noticia/nid/marido-de-mulher-que-teve-o-corpo-encontrado-em-chamas-e-preso-e-confessa-crime-no-sertao-de-alagoas/ "Marido de mulher que teve o corpo encontrado em chamas é preso e confessa crime no Sertão de Alagoas")[![Cervejaria é interditada por irregularidades após operação policial no Feitosa](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/6/8/csm_operacao_feitosa_-_foto_reproducao_44eb02d688.jpg)
-
-Foi denunciada
-
-Foi denunciada
-
-Cervejaria é interditada por irregularidades após operação policial no Feitosa
-
-Cervejaria é interditada por irregularidades após operação policial no Feitosa](https://www.tnh1.com.br/noticia/nid/cervejaria-e-interditada-por-irregularidades-apos-operacao-policial-no-feitosa/ "Cervejaria é interditada por irregularidades após operação policial no Feitosa")[![Giselle Bernardo: o que se sabe sobre o assassinato da cantora no Ceará](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/e/2/csm_giselle_cantora_morta_ceara_-_foto_reproducao_d3f811b03f.jpg)
+[![Giselle Bernardo: o que se sabe sobre o assassinato da cantora no Ceará](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/e/2/csm_giselle_cantora_morta_ceara_-_foto_reproducao_d3f811b03f.jpg)
 
 A tiros
 
@@ -222,7 +206,23 @@ A tiros
 
 Giselle Bernardo: o que se sabe sobre o assassinato da cantora no Ceará
 
-Giselle Bernardo: o que se sabe sobre o assassinato da cantora no Ceará](https://www.tnh1.com.br/noticia/nid/giselle-bernardo-o-que-se-sabe-sobre-o-assassinato-da-cantora-no-ceara/ "Giselle Bernardo: o que se sabe sobre o assassinato da cantora no Ceará")[![Gravidez, romances e 'traição': o que ficou de fora do doc das Paquitas](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/c/f/csm_paquitas_reproducao_instagram_e0b90e8601.jpg)
+Giselle Bernardo: o que se sabe sobre o assassinato da cantora no Ceará](https://www.tnh1.com.br/noticia/nid/giselle-bernardo-o-que-se-sabe-sobre-o-assassinato-da-cantora-no-ceara/ "Giselle Bernardo: o que se sabe sobre o assassinato da cantora no Ceará")[![Marido de mulher que teve o corpo encontrado em chamas é preso e confessa crime no Sertão de Alagoas](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/7/4/csm_prisao_feminicida_inhapi_-_foto_reproducao_video_806b7b44c6.png)
+
+Inhapi
+
+Inhapi
+
+Marido de mulher que teve o corpo encontrado em chamas é preso e confessa crime no Sertão de Alagoas
+
+Marido de mulher que teve o corpo encontrado em chamas é preso e confessa crime no Sertão de Alagoas](https://www.tnh1.com.br/noticia/nid/marido-de-mulher-que-teve-o-corpo-encontrado-em-chamas-e-preso-e-confessa-crime-no-sertao-de-alagoas/ "Marido de mulher que teve o corpo encontrado em chamas é preso e confessa crime no Sertão de Alagoas")[![Cervejaria é interditada por irregularidades após operação policial no Feitosa](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/6/8/csm_operacao_feitosa_-_foto_reproducao_44eb02d688.jpg)
+
+Foi denunciada
+
+Foi denunciada
+
+Cervejaria é interditada por irregularidades após operação policial no Feitosa
+
+Cervejaria é interditada por irregularidades após operação policial no Feitosa](https://www.tnh1.com.br/noticia/nid/cervejaria-e-interditada-por-irregularidades-apos-operacao-policial-no-feitosa/ "Cervejaria é interditada por irregularidades após operação policial no Feitosa")[![Gravidez, romances e 'traição': o que ficou de fora do doc das Paquitas](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/c/f/csm_paquitas_reproducao_instagram_e0b90e8601.jpg)
 
 Polêmicas
 
@@ -232,39 +232,39 @@ Gravidez, romances e 'traição': o que ficou de fora do doc das Paquitas
 
 Gravidez, romances e 'traição': o que ficou de fora do doc das Paquitas](https://www.tnh1.com.br/noticia/nid/gravidez-romances-e-traicao-o-que-ficou-de-fora-do-doc-das-paquitas/ "Gravidez, romances e 'traição': o que ficou de fora do doc das Paquitas")
 
-[![Mais de 1 mil vagas de emprego são ofertadas em cinco municípios de AL a partir desta segunda (23)](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/c/e/csm_Carteira_Trabalho_678afd39ea.jpg)
+[![Terra Cercada: novo livro do poeta José Minervino Neto está em pré-venda pela Urutau](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/4/a/csm_livro_52d8e257af.jpeg)
 
-Confira quais
+Agenda Cultural
 
-Confira quais
+Agenda Cultural
 
-Mais de 1 mil vagas de emprego são ofertadas em cinco municípios de AL a partir desta segunda (23)
+Terra Cercada: novo livro do poeta José Minervino Neto está em pré-venda pela Urutau
 
-Mais de 1 mil vagas de emprego são ofertadas em cinco municípios de AL a partir desta segunda (23)](https://www.tnh1.com.br/noticia/nid/mais-de-1-mil-vagas-de-emprego-sao-ofertadas-em-cinco-municipios-de-al-a-partir-desta-segunda-23/ "Mais de 1 mil vagas de emprego são ofertadas em cinco municípios de AL a partir desta segunda (23)")[![PM apreende 22 armas de fogo e 3,4 quilos de drogas na última semana em Alagoas](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/3/b/csm_pm-apreende-22-armas-de-fogo-e-34-quilos-de-drogas-em-uma-semana-em-alagoas_9a3ab2deb2.jpeg)
+Terra Cercada: novo livro do poeta José Minervino Neto está em pré-venda pela Urutau](https://www.tnh1.com.br/noticia/nid/terra-cercada-novo-livro-do-poeta-jose-minervino-neto-esta-em-pre-venda-pela-urutau-1/ "Terra Cercada: novo livro do poeta José Minervino Neto está em pré-venda pela Urutau")[![Polícia investiga homem suspeito de matar cão a pauladas em Maceió ](https://tnh1-cdn1.cworks.cloud/fileadmin/user_upload/tnh1/2024/09/23/6oDP.png)
 
-Balanço
+Polícia
 
-Balanço
+Polícia
 
-PM apreende 22 armas de fogo e 3,4 quilos de drogas na última semana em Alagoas
+Polícia investiga homem suspeito de matar cão a pauladas em Maceió
 
-PM apreende 22 armas de fogo e 3,4 quilos de drogas na última semana em Alagoas](https://www.tnh1.com.br/noticia/nid/pm-apreende-22-armas-de-fogo-e-34-quilos-de-drogas-na-ultima-semana-em-alagoas/ "PM apreende 22 armas de fogo e 3,4 quilos de drogas na última semana em Alagoas")[![Sesau promove ação educativa sobre doação de órgãos e cuidados com o coração](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/b/3/csm_sesau-promove-acao-educativa-sobre-doacao-de-orgaos-e-cuidados-com-o-coracao_dd1e2fb291.jpeg)
+Polícia investiga homem suspeito de matar cão a pauladas em Maceió](https://www.tnh1.com.br/noticia/nid/policia-investiga-homem-suspeito-de-matar-cao-a-pauladas-em-maceio/ "Polícia investiga homem suspeito de matar cão a pauladas em Maceió ")[![Estresse, tristeza e raiva: estudo aponta o que trabalhadores brasileiros estão sentindo ](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/3/c/csm_ESTRESSE_FREEPIK_7ed29a63c5.jpg)
 
-Na orla de Maceió
+como você está?
 
-Na orla de Maceió
+como você está?
 
-Sesau promove ação educativa sobre doação de órgãos e cuidados com o coração
+Estresse, tristeza e raiva: estudo aponta o que trabalhadores brasileiros estão sentindo
 
-Sesau promove ação educativa sobre doação de órgãos e cuidados com o coração](https://www.tnh1.com.br/noticia/nid/sesau-promove-acao-educativa-sobre-doacao-de-orgaos-e-cuidados-com-o-coracao/ "Sesau promove ação educativa sobre doação de órgãos e cuidados com o coração")[![Após novo ouro, Rebeca Andrade revela que pensou em encerrar a carreira após Paris](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/1/6/csm_rebeca_campea_Alexandre_Loureiro-COB_8e14fcea6a.jpg)
+Estresse, tristeza e raiva: estudo aponta o que trabalhadores brasileiros estão sentindo](https://www.tnh1.com.br/noticia/nid/estresse-tristeza-e-raiva-estudo-aponta-o-que-trabalhadores-brasileiros-estao-sentindo/ "Estresse, tristeza e raiva: estudo aponta o que trabalhadores brasileiros estão sentindo ")[![Sesau investiga morte possivelmente causada pela febre oropouche, em Alagoas](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/a/c/csm_sesau-segue-monitorando-casos-de-febre-do-oropouche-em-alagoas_40194acdd6.jpg)
 
-Campeã brasileira
+sob suspeita
 
-Campeã brasileira
+sob suspeita
 
-Após novo ouro, Rebeca Andrade revela que pensou em encerrar a carreira após Paris
+Sesau investiga morte possivelmente causada pela febre oropouche, em Alagoas
 
-Após novo ouro, Rebeca Andrade revela que pensou em encerrar a carreira após Paris](https://www.tnh1.com.br/noticia/nid/apos-novo-ouro-rebeca-andrade-revela-que-pensou-em-encerrar-a-carreira-apos-paris/ "Após novo ouro, Rebeca Andrade revela que pensou em encerrar a carreira após Paris")
+Sesau investiga morte possivelmente causada pela febre oropouche, em Alagoas](https://www.tnh1.com.br/noticia/nid/sesau-investiga-morte-possivelmente-causada-pela-febre-oropouche-em-alagoas/ "Sesau investiga morte possivelmente causada pela febre oropouche, em Alagoas")
 
 [](https://www.tnh1.com.br/ "TNH1 logo")
 
