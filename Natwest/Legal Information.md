@@ -415,6 +415,7 @@ NatWest Group
             5. [Check your Credit Score](https://personal.natwest.com/banking-with-natwest/natwest-app/features/know-my-credit-score.html)
             6. [Overdraft calculator](https://personal.natwest.com/current-accounts/overdrafts/olb/overdraft-calculator.html)
             7. [Banking My Way](https://personal.natwest.com/accessibility/banking-my-way.html)
+            8. [Compare options to borrow money](https://personal.natwest.com/borrowing-needs/borrowing-needs-tool.html)
         
     * [Life Moments](https://personal.natwest.com/life-moments.html)
         
