@@ -30,6 +30,8 @@
 
 [Polly for Google Meet](https://www.polly.ai/polly-for-google-meet)
 
+[Polly for Google Slides](https://www.polly.ai/google-slides)
+
 [Polly for Enterprise](https://www.polly.ai/enterprise)
 
 [Solutions](javascript:;)
@@ -139,6 +141,8 @@
 [Polly for Zoom Apps](https://www.polly.ai/polly-for-zoom-apps)
 
 [Polly for Google Meet](https://www.polly.ai/polly-for-google-meet)
+
+[Polly for Google Slides](https://www.polly.ai/google-slides)
 
 [Polly for Enterprise](https://www.polly.ai/enterprise)
 
