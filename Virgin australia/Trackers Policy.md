@@ -84,7 +84,7 @@ disabled Mode
     * [Our fleet](https://www.virginaustralia.com/au/en/travel-info/flying-with-us/our-fleet/)
     * [Travel agents](https://www.virginaustralia.com/au/en/travel-info/flying-with-us/agency-hub/)
     * [Cargo services](https://www.virginaustralia.com/au/en/travel-info/flying-with-us/cargo/)
-    * [Airline partners](https://www.virginaustralia.com/au/en/travel-info/flying-with-us/airline-partnerrs/)
+    * [Airline partners](https://www.virginaustralia.com/au/en/travel-info/flying-with-us/airline-partners/)
     
     Specific travel
     
