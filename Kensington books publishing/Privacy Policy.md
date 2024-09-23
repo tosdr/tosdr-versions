@@ -14,11 +14,19 @@ Recommendations
 
 Audio
 
-* [![Books To Read if You Love <i>Gilmore Girls</i>](https://assets.penguinrandomhouse.com/wp-content/uploads/2024/08/22142347/PRH_Site_1200x628_Gilmore.jpg)
+* [![Browse All Our Lists, Essays, and Interviews](https://assets.penguinrandomhouse.com/wp-content/uploads/2024/02/05171902/content-archive-Homepage_600x314-nav.jpg)
     
-    Books To Read if You Love _Gilmore Girls_
+    Browse All Our Lists, Essays, and Interviews
     
-    Read More >](https://www.penguinrandomhouse.com/the-read-down/books-like-gilmore-girls/)
+    See What We’re Reading >](https://www.penguinrandomhouse.com/content-archive/)
+
+* * *
+
+* [![Join Our Authors for Upcoming Events](https://assets.penguinrandomhouse.com/wp-content/uploads/2024/02/05171722/Author-Events-Module_600x314-nav.jpg)
+    
+    Join Our Authors for Upcoming Events
+    
+    Learn More >](https://www.penguinrandomhouse.com/authors/events/)
 
 * * *
 
@@ -27,14 +35,6 @@ Audio
     Audiobooks for Kids
     
     Learn More >](https://www.penguinrandomhouse.com/the-read-down/audiobooks-for-kids/)
-
-* * *
-
-* [![New Releases](https://assets.penguinrandomhouse.com/wp-content/uploads/2022/08/19184809/PRH_Site_1200x628_SEPT2024.jpg)
-    
-    New Releases
-    
-    Learn More >](https://www.penguinrandomhouse.com/the-read-down/new-book-releases-september/)
 
 * <
     
