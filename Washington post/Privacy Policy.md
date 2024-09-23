@@ -215,7 +215,7 @@ California residents can opt out of such targeted advertising as set forth here:
 
 **Retention.** We keep your information to fulfill the purposes described above, unless a longer retention is required or permitted by law. Our retention is based upon the amount, nature and sensitivity of the information, the potential risk of harm from unauthorized use or disclosure of the information, the purposes for which we process the information, applicable legal requirements, and our legitimate interests. The purposes for which we process information may dictate different retention periods for the same types of information. For example, we retain your email address as an authentication credential (where applicable) as long as you have an account with us and an additional period of time after that for our legitimate interests and for our fraud and legal compliance purposes. If you opt out of email marketing, we maintain your email on our suppression list for an extended time to honor your opt out. We may delete or de-identify your information sooner if we receive a verifiable deletion request, subject to exemptions under applicable law.
 
-We received the following requests to know and requests to delete from California consumers and other individuals from January 1, 2022 to December 31, 2022:
+We received the following requests to know and requests to delete from California consumers and other individuals from January 1, 2023 to December 31, 2023:
 
 |     |     | Average number of days  <br>to complete |
 | --- | --- | --- |
@@ -226,7 +226,7 @@ We received the following requests to know and requests to delete from Californi
 | Completed | 2515 | 29.5 |
 | Incomplete (due to lack of verification or confirmation of request) | 4525 | N/A |
 
-We received approximately the following number of requests to opt out from California consumers from January 1, 2022 to December 31, 2022:
+We received approximately the following number of requests to opt out from California consumers from January 1, 2023 to December 31, 2023:
 
 |     |     | Average number  <br>of days to complete |
 | --- | --- | --- |
