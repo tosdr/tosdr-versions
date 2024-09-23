@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-0c2003ba455d5c3d576493a03fabe485
+82a2e41dbd7253eb8b287157cca67838
 
 [](# "Expand for more options")[](# "Search")
 
@@ -142,11 +142,11 @@ Terms and Conditions
 
 ### Featured Product
 
-[![Blue flower bracelet clasp](https://sojourner.biz/images/cache/SKU0189-2front.200.jpg)](https://sojourner.biz/clasps/bracelet-clasps/blue-flower-bracelet-clasp.html "Blue flower bracelet clasp")
+[![Simple White Pearls necklace](https://sojourner.biz/images/cache/jewelry/N0100.200.jpg)](https://sojourner.biz/jewelry/necklaces/simple-white-pearls-necklace.html "Simple White Pearls necklace")
 
-#### [Blue flower bracelet clasp](https://sojourner.biz/clasps/bracelet-clasps/blue-flower-bracelet-clasp.html "Blue flower bracelet clasp")
+#### [Simple White Pearls necklace](https://sojourner.biz/jewelry/necklaces/simple-white-pearls-necklace.html "Simple White Pearls necklace")
 
-$38.00
+$135.00
 
 ### Best Sellers
 
