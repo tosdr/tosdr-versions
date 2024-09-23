@@ -423,6 +423,8 @@ Join over 1M+ users today and start making AI videos with 230+ avatars in 140+ l
 
 [de](https://www.synthesia.io/de/legal/customer-terms-of-service)
 
+[es](https://www.synthesia.io/es/legal/customer-terms-of-service)
+
 [en
 
 English](https://www.synthesia.io/legal/customer-terms-of-service)
@@ -434,6 +436,10 @@ Français](https://www.synthesia.io/fr/legal/customer-terms-of-service)
 [de
 
 Deutsch](https://www.synthesia.io/de/legal/customer-terms-of-service)
+
+[es
+
+Español](https://www.synthesia.io/es/legal/customer-terms-of-service)
 
 Synthesia is the #1 AI Video Communications Platform. Our [AI Video Generator](https://www.synthesia.io/?r=0) enables everyone to create professional videos without mics, cameras, actors or studios.  
   
