@@ -39,9 +39,9 @@ editorial \_
 
 coverstory \_
 
-[![Deluxe, All-Inclusive Box Truck Camper Features a Dark, Norwegian Church-Inspired Design](https://s1.cdn.autoevolution.com/images/news/deluxe-all-inclusive-box-truck-camper-features-a-dark-norwegian-church-inspired-design-240124-5.jpg "Deluxe, All-Inclusive Box Truck Camper Features a Dark, Norwegian Church-Inspired Design")
+[![Couple’s Vacation Home on Wheels Is Incredibly Stylish and Luminous](https://s1.cdn.autoevolution.com/images/news/couples-vacation-home-on-wheels-is-incredibly-stylish-and-luminous-240173-5.jpg "Couple’s Vacation Home on Wheels Is Incredibly Stylish and Luminous")
 
-Deluxe, All-Inclusive Box Truck Camper Features a Dark, Norwegian Church-Inspired Design](https://www.autoevolution.com/news/deluxe-all-inclusive-box-truck-camper-features-a-dark-norwegian-church-inspired-design-240124.html)
+Couple’s Vacation Home on Wheels Is Incredibly Stylish and Luminous](https://www.autoevolution.com/news/couples-vacation-home-on-wheels-is-incredibly-stylish-and-luminous-240173.html)
 
 how-to \_
 
