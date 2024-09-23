@@ -259,14 +259,12 @@ Advertise with Us
 
 Most Popular
 
-[![Derry City](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry City")](https://www.derrynow.com/news/pictures---videos/1611174/in-pictures-derry-city-fans-enjoy-night-of-late-drama-at-the-brandywell.html)
+[![Derry Death Notices - Monday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Monday")](https://www.derrynow.com/news/deaths/1610382/derry-death-notices-monday-23rd-september-2024.html)
 
-Derry City fans at the Brandywell. Pics by nwpresspics
+[Deaths](https://www.derrynow.com/section/977/deaths)
 
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[IN PICTURES: Derry City fans enjoy night of late drama at the Brandywell](https://www.derrynow.com/news/pictures---videos/1611174/in-pictures-derry-city-fans-enjoy-night-of-late-drama-at-the-brandywell.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Derry Death Notices - Monday, 23rd September 2024](https://www.derrynow.com/news/deaths/1610382/derry-death-notices-monday-23rd-september-2024.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Derry City](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry City")](https://www.derrynow.com/news/derry-sport/1611339/ruaidhri-higgins-patrick-mceleney-is-the-most-honest-professional-i-ve-ever-worked-with.html)
 
@@ -277,14 +275,21 @@ Patrick McEleney celebrates Derry City's equaliser against Shamrock Rovers. Pic 
 [Ruaidhri Higgins - 'Patrick McEleney is the most honest professional I've ever worked with'](https://www.derrynow.com/news/derry-sport/1611339/ruaidhri-higgins-patrick-mceleney-is-the-most-honest-professional-i-ve-ever-worked-with.html)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Banagher](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Banagher")](https://www.derrynow.com/news/derry-sport/1611171/late-ciaran-lynch-goal-gives-banagher-the-win-over-drumsurn.html)
+[![14-year-old youth appears at Derry Magistrates Court following breach of bail](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "14-year-old youth appears at Derry Magistrates Court following breach of bail")](https://www.derrynow.com/news/local-news/1611732/14-year-old-youth-appears-at-derry-magistrates-court-following-breach-of-bail.html)
 
-Banagher picked up a late victory over Drumsurn. Pic by Sideline Photography
+Derry Magistrate's Court
 
-[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
+[Local News](https://www.derrynow.com/section/975/news)
 
-[Late Ciaran Lynch goal gives Banagher the win over Drumsurn](https://www.derrynow.com/news/derry-sport/1611171/late-ciaran-lynch-goal-gives-banagher-the-win-over-drumsurn.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[14-year-old youth appears at Derry Magistrates Court following breach of bail](https://www.derrynow.com/news/local-news/1611732/14-year-old-youth-appears-at-derry-magistrates-court-following-breach-of-bail.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Former Sinn Fein press officer pleas guilty to 14 sex offences at Derry Crown Court](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Former Sinn Fein press officer pleas guilty to 14 sex offences at Derry Crown Court")](https://www.derrynow.com/news/local-news/1611776/former-sinn-fein-press-officer-pleas-guilty-to-14-sex-offences-at-derry-crown-court.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Former Sinn Fein press officer pleas guilty to 14 sex offences at Derry Crown Court](https://www.derrynow.com/news/local-news/1611776/former-sinn-fein-press-officer-pleas-guilty-to-14-sex-offences-at-derry-crown-court.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Steelstown Brian Ogs](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Steelstown Brian Ogs")](https://www.derrynow.com/news/derry-sport/1611388/steelstown-hopes-ended-by-defeat-at-lavey.html)
 
@@ -295,37 +300,19 @@ Gerard Walsh breaks away from Dual player Fintan Bradley. Pic by Colm Heron.
 [Steelstown hopes ended by defeat at Lavey](https://www.derrynow.com/news/derry-sport/1611388/steelstown-hopes-ended-by-defeat-at-lavey.html)
 ---------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Derry Death Notices - Monday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Monday")](https://www.derrynow.com/news/deaths/1610382/derry-death-notices-monday-23rd-september-2024.html)
-
-[Deaths](https://www.derrynow.com/section/977/deaths)
-
-[Derry Death Notices - Monday, 23rd September 2024](https://www.derrynow.com/news/deaths/1610382/derry-death-notices-monday-23rd-september-2024.html)
------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[!['Connecting Communities – Linking BT47' project in Derry celebrates financial boost](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "'Connecting Communities – Linking BT47' project in Derry celebrates financial boost")](https://www.derrynow.com/news/local-news/1610262/connecting-communities-linking-bt47-project-in-derry-celebrates-financial-boost.html)
+[![Woman (39) became aggressive and assaulted two nurses and a consultant at Altnagelvin Hospital](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Woman (39) became aggressive and assaulted two nurses and a consultant at Altnagelvin Hospital")](https://www.derrynow.com/news/local-news/1611820/woman-39-became-aggressive-and-assaulted-two-nurses-and-a-consultant-at-altnagelvin-hospital.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-['Connecting Communities – Linking BT47' project in Derry celebrates financial boost](https://www.derrynow.com/news/local-news/1610262/connecting-communities-linking-bt47-project-in-derry-celebrates-financial-boost.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Woman (39) became aggressive and assaulted two nurses and a consultant at Altnagelvin Hospital](https://www.derrynow.com/news/local-news/1611820/woman-39-became-aggressive-and-assaulted-two-nurses-and-a-consultant-at-altnagelvin-hospital.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Institute](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Institute")](https://www.derrynow.com/news/derry-sport/1611150/biggest-win-in-a-year-institute-hammer-newington-at-the-brandywell.html)
+[![Your child could be on The Late Late Toy Show as RTÉ looking for applicants for a new twist...](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Your child could be on The Late Late Toy Show as RTÉ looking for applicants for a new twist...")](https://www.derrynow.com/news/arts---entertainment/1611661/your-child-could-be-on-the-late-late-toy-show-as-rte-looking-for-applicants-for-a-new-twist.html)
 
-Padraig Lynch and Michael Harris were both on the score sheet for Institute Pic by Tom Heaney, nwpresspics
+[Arts & Entertainment](https://www.derrynow.com/section/997/cookie-policy)
 
-[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
-
-[Biggest win in a year! Institute hammer Newington at the Brandywell](https://www.derrynow.com/news/derry-sport/1611150/biggest-win-in-a-year-institute-hammer-newington-at-the-brandywell.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Maynooth Community Church is officially opened](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Maynooth Community Church is officially opened")](https://www.derrynow.com/news/local-news/1611213/historic-day-as-maynooth-community-church-is-officially-opened.html)
-
-Members of the congregation of Maynooth Community Church, one of Presbyterian Church in Ireland’s 500-plus congregations, and guests
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Historic day as Maynooth Community Church is officially opened](https://www.derrynow.com/news/local-news/1611213/historic-day-as-maynooth-community-church-is-officially-opened.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Your child could be on The Late Late Toy Show as RTÉ looking for applicants for a new twist...](https://www.derrynow.com/news/arts---entertainment/1611661/your-child-could-be-on-the-late-late-toy-show-as-rte-looking-for-applicants-for-a-new-twist.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Sinn Fein chief McDonald urges Starmer to ‘walk final length of Irish journey’](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Sinn Fein chief McDonald urges Starmer to ‘walk final length of Irish journey’")](https://www.derrynow.com/news/northern-ireland/1611495/sinn-fein-chief-mcdonald-urges-starmer-to-walk-final-length-of-irish-journey.html)
 
@@ -334,18 +321,34 @@ Members of the congregation of Maynooth Community Church, one of Presbyterian Ch
 [Sinn Fein chief McDonald urges Starmer to ‘walk final length of Irish journey’](https://www.derrynow.com/news/northern-ireland/1611495/sinn-fein-chief-mcdonald-urges-starmer-to-walk-final-length-of-irish-journey.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Loughs Agency’s Education Team making waves this summer](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Loughs Agency’s Education Team making waves this summer")](https://www.derrynow.com/news/local-news/1609339/loughs-agencys-education-team-making-waves-in-foyle-this-summer.html)
+[![Derry Senior Football Championship: Quarterfinal opponents confirmed](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Senior Football Championship: Quarterfinal opponents confirmed")](https://www.derrynow.com/news/gaa/1611865/derry-senior-football-championship-quarterfinal-opponents-confirmed.html)
 
-[Local News](https://www.derrynow.com/section/975/news)
+(Pic: Mary K Burke)
 
-[Loughs Agency’s Education Team making waves in Foyle this summer](https://www.derrynow.com/news/local-news/1609339/loughs-agencys-education-team-making-waves-in-foyle-this-summer.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[GAA](https://www.derrynow.com/section/1060/gaa)
+
+[Derry Senior Football Championship: Quarterfinal opponents confirmed](https://www.derrynow.com/news/gaa/1611865/derry-senior-football-championship-quarterfinal-opponents-confirmed.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Derry Junior Football Championship: Semi final spots secured](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Junior Football Championship: Semi final spots secured")](https://www.derrynow.com/news/derry-sport/1611739/derry-junior-football-championship-semi-final-spots-secured.html)
+
+[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
+
+[Derry Junior Football Championship: Semi final spots secured](https://www.derrynow.com/news/derry-sport/1611739/derry-junior-football-championship-semi-final-spots-secured.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
 Advertise with Us
 
 Multimedia
+
+[![PICTURES: 'ONE STOP DEMENTIA SHOP' AT FOYLESIDE](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PICTURES: 'ONE STOP DEMENTIA SHOP' AT FOYLESIDE")](https://www.derrynow.com/news/home/1603092/pictures-one-stop-dementia-shop-at-foyleside.html)
+
+[Home](https://www.derrynow.com/)
+
+[PICTURES: 'ONE STOP DEMENTIA SHOP' AT FOYLESIDE](https://www.derrynow.com/news/home/1603092/pictures-one-stop-dementia-shop-at-foyleside.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Derry City](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry City")](https://www.derrynow.com/news/pictures---videos/1611174/in-pictures-derry-city-fans-enjoy-night-of-late-drama-at-the-brandywell.html)
 
@@ -413,15 +416,6 @@ Comedian Babatunde Aléshé finds out more about the journey from grain to glass
 
 [IN PICTURES: Annual Roaring Meg Custom Bike Show a huge success](https://www.derrynow.com/story-telling/pictures---videos/1606243/in-pictures-annual-roaring-meg-custom-bike-show-a-huge-success.html)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![IN PICTURES: Great day out at Quirky Corner Sustainable Fashion Fest](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Great day out at Quirky Corner Sustainable Fashion Fest")](https://www.derrynow.com/story-telling/pictures---videos/1606217/in-pictures-great-day-out-at-quirky-corner-sustainable-fashion-fest.html)
-
-IN PICTURES: Great day out at Quirky Corner Sustainable Fashion Fest
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[IN PICTURES: Great day out at Quirky Corner Sustainable Fashion Fest](https://www.derrynow.com/story-telling/pictures---videos/1606217/in-pictures-great-day-out-at-quirky-corner-sustainable-fashion-fest.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
@@ -523,55 +517,51 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
-[![Derry Death Notices - Monday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Monday")](https://www.derrynow.com/news/deaths/1610382/derry-death-notices-monday-23rd-september-2024.html)
-
-[Deaths](https://www.derrynow.com/section/977/deaths)
-
-[Derry Death Notices - Monday, 23rd September 2024](https://www.derrynow.com/news/deaths/1610382/derry-death-notices-monday-23rd-september-2024.html)
------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Steelstown Brian Ogs](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Steelstown Brian Ogs")](https://www.derrynow.com/news/derry-sport/1611388/steelstown-hopes-ended-by-defeat-at-lavey.html)
-
-Gerard Walsh breaks away from Dual player Fintan Bradley. Pic by Colm Heron.
-
-[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
-
-[Steelstown hopes ended by defeat at Lavey](https://www.derrynow.com/news/derry-sport/1611388/steelstown-hopes-ended-by-defeat-at-lavey.html)
----------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry City](https://www.derrynow.com/resizer/165/93/true/2024_09_22/2944147-1727018094764.jpg--.jpg?1727018096138 "Derry City")](https://www.derrynow.com/news/derry-sport/1611339/ruaidhri-higgins-patrick-mceleney-is-the-most-honest-professional-i-ve-ever-worked-with.html)
-
-Patrick McEleney celebrates Derry City's equaliser against Shamrock Rovers. Pic by Ramsey Cardy/ Sportsfile
-
-[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
-
-[Ruaidhri Higgins - 'Patrick McEleney is the most honest professional I've ever worked with'](https://www.derrynow.com/news/derry-sport/1611339/ruaidhri-higgins-patrick-mceleney-is-the-most-honest-professional-i-ve-ever-worked-with.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Maynooth Community Church is officially opened](https://www.derrynow.com/resizer/165/93/true/2024_09_21/MCC_Opening_%284%29_congregation_and_guests-1726931588436.jpg--.jpg?1726931591954 "Maynooth Community Church is officially opened")](https://www.derrynow.com/news/local-news/1611213/historic-day-as-maynooth-community-church-is-officially-opened.html)
-
-Members of the congregation of Maynooth Community Church, one of Presbyterian Church in Ireland’s 500-plus congregations, and guests
+[![Ministers and MLAs urge restoration of funding for city and growth deals](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Ministers and MLAs urge restoration of funding for city and growth deals")](https://www.derrynow.com/news/local-news/1612010/ministers-and-mlas-urge-restoration-of-funding-for-city-and-growth-deals.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[Historic day as Maynooth Community Church is officially opened](https://www.derrynow.com/news/local-news/1611213/historic-day-as-maynooth-community-church-is-officially-opened.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Ministers and MLAs urge restoration of funding for city and growth deals](https://www.derrynow.com/news/local-news/1612010/ministers-and-mlas-urge-restoration-of-funding-for-city-and-growth-deals.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[!['Connecting Communities – Linking BT47' project in Derry celebrates financial boost](https://www.derrynow.com/resizer/165/93/true/2024_09_20/Lincoln_Courts1-1726845006555.jpg--.jpg?1726845006668 "'Connecting Communities – Linking BT47' project in Derry celebrates financial boost")](https://www.derrynow.com/news/local-news/1610262/connecting-communities-linking-bt47-project-in-derry-celebrates-financial-boost.html)
+[![Woman (39) became aggressive and assaulted two nurses and a consultant at Altnagelvin Hospital](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Woman (39) became aggressive and assaulted two nurses and a consultant at Altnagelvin Hospital")](https://www.derrynow.com/news/local-news/1611820/woman-39-became-aggressive-and-assaulted-two-nurses-and-a-consultant-at-altnagelvin-hospital.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-['Connecting Communities – Linking BT47' project in Derry celebrates financial boost](https://www.derrynow.com/news/local-news/1610262/connecting-communities-linking-bt47-project-in-derry-celebrates-financial-boost.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Woman (39) became aggressive and assaulted two nurses and a consultant at Altnagelvin Hospital](https://www.derrynow.com/news/local-news/1611820/woman-39-became-aggressive-and-assaulted-two-nurses-and-a-consultant-at-altnagelvin-hospital.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Banagher](https://www.derrynow.com/resizer/165/93/true/2024_09_22/Banagher_V_DrumsurnB_V_D_0771_copy-1726995345039.jpg--.jpg?1726995346997 "Banagher")](https://www.derrynow.com/news/derry-sport/1611171/late-ciaran-lynch-goal-gives-banagher-the-win-over-drumsurn.html)
+[![Derry Senior Football Championship: Quarterfinal opponents confirmed](https://www.derrynow.com/resizer/165/93/true/1623027682902.JPG--.JPG?1623027682000 "Derry Senior Football Championship: Quarterfinal opponents confirmed")](https://www.derrynow.com/news/gaa/1611865/derry-senior-football-championship-quarterfinal-opponents-confirmed.html)
 
-Banagher picked up a late victory over Drumsurn. Pic by Sideline Photography
+(Pic: Mary K Burke)
 
-[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
+[GAA](https://www.derrynow.com/section/1060/gaa)
 
-[Late Ciaran Lynch goal gives Banagher the win over Drumsurn](https://www.derrynow.com/news/derry-sport/1611171/late-ciaran-lynch-goal-gives-banagher-the-win-over-drumsurn.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Derry Senior Football Championship: Quarterfinal opponents confirmed](https://www.derrynow.com/news/gaa/1611865/derry-senior-football-championship-quarterfinal-opponents-confirmed.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Sinn Fein chief McDonald urges Starmer to ‘walk final length of Irish journey’](https://www.derrynow.com/resizer/165/93/true/pa/2024_09_22/1727037303169_0.jpg--.jpg?1727037303276 "Sinn Fein chief McDonald urges Starmer to ‘walk final length of Irish journey’")](https://www.derrynow.com/news/local-news/1611788/sinn-fein-chief-mcdonald-urges-starmer-to-walk-final-length-of-irish-journey.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Sinn Fein chief McDonald urges Starmer to ‘walk final length of Irish journey’](https://www.derrynow.com/news/local-news/1611788/sinn-fein-chief-mcdonald-urges-starmer-to-walk-final-length-of-irish-journey.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Derry Intermediate Championship: Quarterfinal opponents confirmed](https://www.derrynow.com/resizer/165/93/true/1623836695208.jpg--.jpg?1623836695000 "Derry Intermediate Championship: Quarterfinal opponents confirmed")](https://www.derrynow.com/news/gaa/1611805/derry-intermediate-championship-quarterfinal-opponents-confirmed.html)
+
+Paddy O'Kane (Pic: Tom Heaney/NW Press Pics)
+
+[GAA](https://www.derrynow.com/section/1060/gaa)
+
+[Derry Intermediate Championship: Quarterfinal opponents confirmed](https://www.derrynow.com/news/gaa/1611805/derry-intermediate-championship-quarterfinal-opponents-confirmed.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Former Sinn Fein press officer pleas guilty to 14 sex offences at Derry Crown Court](https://www.derrynow.com/resizer/165/93/true/2023_08_04/Michael_McMonagle-1691147368533.jpg--.jpg?1691147368558 "Former Sinn Fein press officer pleas guilty to 14 sex offences at Derry Crown Court")](https://www.derrynow.com/news/local-news/1611776/former-sinn-fein-press-officer-pleas-guilty-to-14-sex-offences-at-derry-crown-court.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Former Sinn Fein press officer pleas guilty to 14 sex offences at Derry Crown Court](https://www.derrynow.com/news/local-news/1611776/former-sinn-fein-press-officer-pleas-guilty-to-14-sex-offences-at-derry-crown-court.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
