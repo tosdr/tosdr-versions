@@ -242,6 +242,16 @@ We have included on the pages of this website a robots meta tag with the “noai
 
 This privacy policy was created in party by using [Termly’s Privacy Policy Generator](https://termly.io/products/privacy-policy-generator/?ftseo).
 
+[![](https://cwbchicago.com/wp-content/uploads/2024/09/180-n-michigan-bank-robber-FBI-326x245.jpg)](https://cwbchicago.com/2024/09/oops-he-did-it-again-fbi-says-robber-held-up-downtown-bank-twice-in-3-days.html "Oops! He did it again. FBI says robber held up downtown bank twice in 3 days")
+
+Citywide
+
+### [Oops! He did it again. FBI says robber held up downtown bank twice in 3 days](https://cwbchicago.com/2024/09/oops-he-did-it-again-fbi-says-robber-held-up-downtown-bank-twice-in-3-days.html "Oops! He did it again. FBI says robber held up downtown bank twice in 3 days")
+
+[September 21, 2024 2:37 AM](https://cwbchicago.com/2024/09)
+
+The FBI says the man who robbed a bank near Millennium Park on Monday returned and robbed the same bank again on Thursday, just hours after the agency published a $1,000 reward for his arrest.[](https://cwbchicago.com/2024/09/oops-he-did-it-again-fbi-says-robber-held-up-downtown-bank-twice-in-3-days.html "Oops! He did it again. FBI says robber held up downtown bank twice in 3 days")
+
 [![](https://cwbchicago.com/wp-content/uploads/2024/09/Jose-Rios-326x245.jpg)](https://cwbchicago.com/2024/09/suburban-man-picked-random-driver-to-carjack-under-a-chicago-police-surveillance-camera-officials-say.html "Suburban man picked random driver to carjack under a Chicago police surveillance camera, officials say")
 
 Chicago Lawn
@@ -261,16 +271,6 @@ Magnificent Mile
 [September 20, 2024 6:14 PM](https://cwbchicago.com/2024/09)
 
 A third man has pleaded guilty to participating in a bold daytime robbery at the Prada store in downtown Chicago in January 2022.[](https://cwbchicago.com/2024/09/3rd-man-pleads-guilty-to-46000-prada-store-heist.html "3rd man pleads guilty to $46,000 Prada store heist")
-
-[![](https://cwbchicago.com/wp-content/uploads/2024/09/From-left-Jose-Amaya-Boliva-Nathan-Hicks-Johnson-Ricardo-Rodriguez-and-Cortez-Wright.-Chicago-Police-Department-326x245.jpg)](https://cwbchicago.com/2024/09/2-parolees-and-a-migrant-among-the-latest-charged-with-gun-violations-after-cops-respond-to-shotspotter-alerts.html "2 parolees and a migrant among the latest charged with gun violations after cops respond to ShotSpotter alerts")
-
-Citywide
-
-### [2 parolees and a migrant among the latest charged with gun violations after cops respond to ShotSpotter alerts](https://cwbchicago.com/2024/09/2-parolees-and-a-migrant-among-the-latest-charged-with-gun-violations-after-cops-respond-to-shotspotter-alerts.html "2 parolees and a migrant among the latest charged with gun violations after cops respond to ShotSpotter alerts")
-
-[September 20, 2024 1:12 PM](https://cwbchicago.com/2024/09)
-
-Two parolees and a migrant are among the latest people to face felony gun charges thanks to the city’s ShotSpotter gunfire detection system. In the past week, ShotSpotter has led to the arrest of at least seven people for illegal gun possession.[](https://cwbchicago.com/2024/09/2-parolees-and-a-migrant-among-the-latest-charged-with-gun-violations-after-cops-respond-to-shotspotter-alerts.html "2 parolees and a migrant among the latest charged with gun violations after cops respond to ShotSpotter alerts")
 
 Search
 
