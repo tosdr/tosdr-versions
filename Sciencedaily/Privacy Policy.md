@@ -208,6 +208,8 @@ this hour
 
 * * *
 
+* [Rapid Loss of Antarctic Ice After 2100 Likely](https://www.sciencedaily.com/releases/2024/09/240912142344.htm)
+* [New Rules? Redefining 'Sustainable Fishing'](https://www.sciencedaily.com/releases/2024/09/240923110742.htm)
 * [Origins of Horseback Riding](https://www.sciencedaily.com/releases/2024/09/240920165153.htm)
 * [Food Fussiness Is a Largely Genetic Trait](https://www.sciencedaily.com/releases/2024/09/240919193539.htm)
 * [Complex Dance of Our Beliefs](https://www.sciencedaily.com/releases/2024/09/240919174839.htm)
@@ -216,8 +218,6 @@ this hour
 * [Lava from Hotspots from Worldwide Reservoir](https://www.sciencedaily.com/releases/2024/09/240919115023.htm)
 * [Slap Fighting: Risk to Neurological Health](https://www.sciencedaily.com/releases/2024/09/240918125032.htm)
 * [Palaeolithic Cyprus: Dwarf Hippos and Elephants](https://www.sciencedaily.com/releases/2024/09/240917195402.htm)
-* [Volcanoes and Interior Heat On Jupiter Moon](https://www.sciencedaily.com/releases/2024/09/240919174819.htm)
-* [Catastrophic River Shifts Predicted](https://www.sciencedaily.com/releases/2024/09/240919174816.htm)
 
 Trending Topics
 ---------------
@@ -228,17 +228,17 @@ this week
 
 [HEALTH](https://www.sciencedaily.com/news/top/health/)
 
-[Healthy Aging](https://www.sciencedaily.com/news/health_medicine/healthy_aging/)
-
 [Depression](https://www.sciencedaily.com/news/mind_brain/depression/)
 
-[Cosmetic Surgery](https://www.sciencedaily.com/news/health_medicine/cosmetic_surgery/)
+[Human Biology](https://www.sciencedaily.com/news/health_medicine/human_biology/)
+
+[Mental Health Research](https://www.sciencedaily.com/news/health_medicine/mental_health/)
 
 [PHYSICAL & TECH](https://www.sciencedaily.com/news/top/technology/)
 
 [Medical Technology](https://www.sciencedaily.com/news/matter_energy/medical_technology/)
 
-[Mathematical Modeling](https://www.sciencedaily.com/news/computers_math/mathematical_modeling/)
+[Black Holes](https://www.sciencedaily.com/news/space_time/black_holes/)
 
 [Graphene](https://www.sciencedaily.com/news/matter_energy/graphene/)
 
@@ -248,7 +248,7 @@ this week
 
 [New Species](https://www.sciencedaily.com/news/plants_animals/new_species/)
 
-[Trees](https://www.sciencedaily.com/news/plants_animals/trees/)
+[Wild Animals](https://www.sciencedaily.com/news/plants_animals/wild_animals/)
 
   
 
