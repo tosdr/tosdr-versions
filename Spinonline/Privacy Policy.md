@@ -154,7 +154,7 @@ Att flytta är något som många människor kommer hinna med att göra ett par g
 
 I samband med att en flyttar finns det dock många saker som måste göras och det är inte helt enkelt att veta exakt hur en ska lösa det. Det kan bland annat handla om att en tar kontakt med en mäklare som ser till att ens bostad blir såld till ett bra pris. 
 
-Det kan också vara att se till att bostaden en lämnar efter sig är i gott skick för nästa person som flyttar in. Genom att göra ett ordentligt [flyttstäd i jönköping](https://www.tidsbrist.se/tj%C3%A4nster/flyttst%C3%A4dning-12056663) så löser en det. Vill en inte göra det på egen hand finns det många olika företag som erbjuder tjänster inom just det här. 
+Det kan också vara att se till att bostaden en lämnar efter sig är i gott skick för nästa person som flyttar in. Genom att göra ett ordentligt [flyttstäd i jönköping](https://www.tidsbrist.se/flyttstadning/) så löser en det. Vill en inte göra det på egen hand finns det många olika företag som erbjuder tjänster inom just det här. 
 
 * * *
 
