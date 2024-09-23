@@ -12,29 +12,31 @@ Menu
 
 41 tools](https://namegenerator.com/fiction)[Business Branding
 
-8 tools](https://namegenerator.com/business)[Place Names
+8 tools](https://namegenerator.com/business)[Media Names & Titles
 
-9 tools](https://namegenerator.com/place)[Media Names & Titles
+4 tools](https://namegenerator.com/media)[Place Names
 
-4 tools](https://namegenerator.com/media)[Animal Names
+9 tools](https://namegenerator.com/place)[Animal Names
 
 11 tools](https://namegenerator.com/animal)
 
 Popular tools
 
-[Full Names](https://namegenerator.com/people/full)[Ship Names](https://namegenerator.com/people/ship)[First Names](https://namegenerator.com/people/first)[City Names
+[Full Names](https://namegenerator.com/people/full)[Ship Names](https://namegenerator.com/people/ship)[First Names](https://namegenerator.com/people/first)[Usernames
 
-AI](https://namegenerator.com/place/city)[Usernames
+AI](https://namegenerator.com/people/username)[City Names
 
-AI](https://namegenerator.com/people/username)[Last Names](https://namegenerator.com/people/last)[Brand Names
+AI](https://namegenerator.com/place/city)[Last Names](https://namegenerator.com/people/last)[Brand Names
 
-AI](https://namegenerator.com/business/brand)[Clan Names
+AI](https://namegenerator.com/business/brand)[God Names
 
-AI](https://namegenerator.com/people/clan)[God Names
+AI](https://namegenerator.com/fiction/god)[Clan Names
 
-AI](https://namegenerator.com/fiction/god)[Demon Names
+AI](https://namegenerator.com/people/clan)[Generative Names](https://namegenerator.com/people/generative)[Demon Names
 
-AI](https://namegenerator.com/fiction/demon)[Generative Names](https://namegenerator.com/people/generative)[Baby Names](https://namegenerator.com/people/baby)
+AI](https://namegenerator.com/fiction/demon)[Company Names
+
+AI](https://namegenerator.com/business/company)
 
 Terms and Privacy Policy
 ========================
