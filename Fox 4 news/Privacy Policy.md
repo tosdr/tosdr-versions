@@ -400,6 +400,18 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
+ [![Arlington senior living home fire sends 3 to hospital](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/V-ARLINGTON-PLAZA-SKY-ACTIVE-LIVING-FIRE-9P_00.00.00.00.jpg?ve=1&tl=1)
+
+ ![Arlington senior living home fire sends 3 to hospital](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/592/333/V-ARLINGTON-PLAZA-SKY-ACTIVE-LIVING-FIRE-9P_00.00.00.00.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/arlington-senior-living-home-fire-sends-3-hospital)
+
+### [Arlington senior living home fire sends 3 to hospital](https://www.fox4news.com/news/arlington-senior-living-home-fire-sends-3-hospital)
+
+ [![Marcus Semien’s RBI single gives the Rangers a 6-5 walk-off win over the Mariners](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/GettyImages-2173794469.jpg?ve=1&tl=1)
+
+ ![Marcus Semien’s RBI single gives the Rangers a 6-5 walk-off win over the Mariners](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/592/333/GettyImages-2173794469.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/sports/marcus-semiens-rbi-single-gives-rangers-6-5-walk-off-win-over-mariners)
+
+### [Marcus Semien’s RBI single gives the Rangers a 6-5 walk-off win over the Mariners](https://www.fox4news.com/sports/marcus-semiens-rbi-single-gives-rangers-6-5-walk-off-win-over-mariners)
+
  [![Fort Worth church reopens doors 4 months after devastating fire](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/092224-AB-YUMA-ST-CHURCH-FIRE-REUNION-PKG-JB_KDFW2_00.00.03.30.jpg?ve=1&tl=1)
 
  ![Fort Worth church reopens doors 4 months after devastating fire](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/592/333/092224-AB-YUMA-ST-CHURCH-FIRE-REUNION-PKG-JB_KDFW2_00.00.03.30.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/fort-worth-church-reopens-true-love-sanctuary)
@@ -417,18 +429,6 @@ Please note that, in some instances, we may decline to honor your request where,
  ![18-year-old charged with intoxication manslaughter after deadly Mesquite crash](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/592/333/jose-rodriguez-intox-manslaughter.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/jose-martinez-town-east-boulevard-motley-drive-mesquite)
 
 ### [18-year-old charged with intoxication manslaughter after deadly Mesquite crash](https://www.fox4news.com/news/jose-martinez-town-east-boulevard-motley-drive-mesquite)
-
- [![Henry rushes for 151 yards, 2 TDs as Ravens hang on to beat Cowboys 28-25](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/GettyImages-2173801426.jpg?ve=1&tl=1)
-
- ![Henry rushes for 151 yards, 2 TDs as Ravens hang on to beat Cowboys 28-25](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/592/333/GettyImages-2173801426.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/sports/dallas-cowboys-baltimore-ravens-week-3)
-
-### [Henry rushes for 151 yards, 2 TDs as Ravens hang on to beat Cowboys 28-25](https://www.fox4news.com/sports/dallas-cowboys-baltimore-ravens-week-3)
-
- [![Olivia Munn praises 'real-life angel' surrogate who carried newborn daughter: 'Dreams come true'](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/GettyImages-2158393471-scaled.jpg?ve=1&tl=1)
-
- ![Olivia Munn praises 'real-life angel' surrogate who carried newborn daughter: 'Dreams come true'](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/592/333/GettyImages-2158393471-scaled.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/olivia-munn-john-mulaney-baby-surrogate)
-
-### [Olivia Munn praises 'real-life angel' surrogate who carried newborn daughter: 'Dreams come true'](https://www.fox4news.com/news/olivia-munn-john-mulaney-baby-surrogate)
 
 ###### [News](https://www.fox4news.com/news)
 
