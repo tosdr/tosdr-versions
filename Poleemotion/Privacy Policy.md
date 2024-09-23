@@ -84,7 +84,7 @@ Pour découvrir l'école et t'aider à choisir la ou les disciplines qui te fero
 À ne pas manquer en ce moment!
 ------------------------------
 
-[![image Souplesse](/storage/highlights/61227/highlight.webp?v=284826)
+[![image Souplesse](/storage/highlights/61227/highlight.webp?v=447035)
 
 ##### Souplesse
 
@@ -92,7 +92,7 @@ mar. 24 septembre 2024 - **18:00** à Yverdon salle 2 - Studio48
 
 La souplesse permet de rendre un geste plus esthétique, d’améliorer la coordination et d’augmenter la force ainsi que...](https://app.pole-emotion.ch/cours/61227)[](https://app.pole-emotion.ch/evjf)
 
-[![image pour Pensez aux Enterrements Vie de Jeunes Filles](/storage/highlights/newsflash/highlight.webp?v=286657)](https://app.pole-emotion.ch/evjf)
+[![image pour Pensez aux Enterrements Vie de Jeunes Filles](/storage/highlights/newsflash/highlight.webp?v=449499)](https://app.pole-emotion.ch/evjf)
 
 [##### Pensez aux Enterrements Vie de Jeunes Filles](https://app.pole-emotion.ch/evjf)
 
