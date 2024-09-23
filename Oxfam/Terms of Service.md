@@ -147,6 +147,7 @@ Email
 
 * [Bangladesh Rohingya refugee crisis](https://www.oxfam.org/en/what-we-do/emergencies/bangladesh-rohingya-refugee-crisis)
 * [Climate and food crisis in East Africa](https://www.oxfam.org/en/what-we-do/emergencies/climate-and-food-crisis-east-and-central-africa)
+* [Crisis in Gaza](https://www.oxfam.org/en/what-we-do/emergencies/gaza-crisis-appeal)
 * [Crisis in Syria](https://www.oxfam.org/en/what-we-do/emergencies/crisis-syria)
 * [Crisis in Yemen](https://www.oxfam.org/en/what-we-do/emergencies/crisis-yemen)
 * [Hunger crisis in South Sudan](https://www.oxfam.org/en/what-we-do/emergencies/hunger-crisis-south-sudan)
