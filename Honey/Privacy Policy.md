@@ -2,10 +2,7 @@
 
 [](https://www.joinhoney.com/)
 
-* Shop
-    
 * [Droplist](https://www.joinhoney.com/features/droplist)
-* [Rewards](https://www.joinhoney.com/features/paypalrewards)
 * [Earn Gift Cards](https://www.joinhoney.com/invite)
 
 JoinLog in
@@ -37,7 +34,7 @@ How to contact us
 PayPal Honey Privacy Statement
 ------------------------------
 
-### Last updated May 21, 2024
+### Last updated September 23, 2024
 
 Introducing the Privacy Statement
 
@@ -63,7 +60,7 @@ We may collect your payment information when you purchase gift cards or other pr
   
 _Commercial Information._  
   
-We collect information about your purchases on retail sites when using PayPal Honey.  
+We collect information about your purchases on retail sites when using PayPal Honey as well as shopping activity and goods or services considered on our merchants, partners, sites or businesses that our users transact with for the purpose of obtaining goods or services (“Partners and Merchants”).  
   
 _Internet or Network Activity._  
   
@@ -96,7 +93,7 @@ As you use our Services, we might also collect data, such as:
 
 _Inference Data._  
   
-We may infer information about you such as your preferences and shopping behavior, based on your interactions with our Services.  
+We may infer information about you such as your preferences and shopping behavior, based on your interactions with our Services or with our Partners and Merchants.  
   
 _Sensitive Personal Data._  
   
@@ -121,7 +118,7 @@ In addition to the uses described above, we also collect your information for a 
 * To provide our Services: such as to setup your account, to create an inventory of functioning coupons, deals, pricing and availability of retail items, to track price changes, update our product catalog, commission collection, create Droplists, and managing Rewards.
 * To manage and improve our Services: to make sure our products our working correctly, conduct internal analytics.
 * To manage fraud and risk.
-* To personalize your shopping experience when you use the Service or you use the PayPal or Venmo services: to provide you with a more tailored, relevant experience or show sponsored product offers that may interest you, see a personalized recommendation feed.
+* To personalize your shopping experiences, including when you use the Service or you use the PayPal or Venmo services: to provide you with a more tailored, relevant experience or show sponsored product offers that may interest you, see a personalized recommendation feed.
 * Associate information about you: If you use Venmo or PayPal, we may associate information about your transactions and experiences using those Services to personalize content and offers and improve your use of the PayPal Honey services.
 * To market our Services, including when we associate information about you.
 * To communicate with you.
@@ -134,22 +131,22 @@ We do not sell personal information to third parties for money or share your per
   
 In addition, we may disclose your personal information with your consent or in ways you'd expect (as we explain here).  
   
-We may disclose information:
+We may disclose information with the following categories of third parties:
 
 * With our service providers (businesses that work for and with us) for the purpose of running PayPal Honey and fulfilling our commitments to you. These include businesses that perform services on our behalf, including to help us maintain our products, manage coupons codes and offers, to provide support for legal, banking, security protection, payment processing, our own marketing, and customer service. Please know that when we disclose information with our service providers, it's for the purposes outlined in this Privacy Statement and not for their independent use. The personal information we disclose may include your identification information, your shopping and usage data, internet or network activity, commercial information, inferences, and sensitive personal information.
 * With PayPal Companies, to manage Rewards and personalize your use of the Services and your use of the PayPal or Venmo services. The personal information we disclose may include your identification information, your shopping and usage data, and commercial information.
+* With your consent, to Partners and Merchants that you and we interact with, to help ourselves and our Partners and Merchants personalize services when you shop with PayPal so you can have a better and more relevant experience. Personal Information we disclose includes, for example, products, brands, sizes, preferences and styles we think you’ll like.
+    * If you decide that you prefer to no longer participate in sharing for the personalized PayPal offers, you may change your preferences in your account settings. If you opt-out, we will continue to disclose your personal information necessary to complete transactions you initiate, but will not disclose personal information to Partners and Merchant for personalized experiences when you pay with PayPal.
 * With authorities, as required by law, or to comply with or respond to a valid government request; or when we believe in good faith that it's necessary to protect our rights, protect your safety or the safety of others, or investigate fraud. The personal information we disclose may include your identification information, your shopping and usage data, internet or network activity, commercial information and sensitive personal information.
 * With a buyer or successor if PayPal, Inc. is involved in a merger, acquisition, or similar corporate transaction. If that happens, you will be notified via email and/or a prominent notice on the Website of any change in ownership, as well as any choices you will have as a result. The personal information we disclose may include your identification information, your shopping and usage data.
 
 How we protect your data
 
-At Honey, every employee is responsible for respecting and protecting the personal information to which the employee has access. Our privacy officer oversees our privacy practices and our efforts to follow all privacy laws that apply, and to manage and reduce privacy risk. To ensure the protection of your personal information, we maintain policies and practices that govern our privacy and personal information handling practices, including defining roles and responsibilities for handling your information from the moment we gather it until it is destroyed, regular employee privacy and security training, responding to privacy complaints or inquiries, and investigating potential incidents.  
-  
 The security of your information is important to us. We have a team dedicated to protecting your information and have put in place physical, electronic, and procedural safeguards.  
   
 These measures include limiting access, using encryption, testing for vulnerabilities, advanced malware detection, employing pseudonymization and anonymization techniques, and more.  
   
-Though we hate to say it, despite our efforts, we can't guarantee that user information will not be accessed, viewed, disclosed, altered, or destroyed as a result of a breach of any of our safeguards. You provide us with information at your own risk.
+Despite our efforts, we can't guarantee that user information will not be accessed, viewed, disclosed, altered, or destroyed as a result of a breach of any of our safeguards. You provide us with information at your own risk.
 
 How long we store your personal information
 
@@ -200,7 +197,7 @@ If you are a California resident, you have a right to receive this Notice of Fin
   
 Our rewards program, sometimes referred to as Honey Gold or PayPal Rewards, is offered with PayPal (together, “Rewards”) and provides you with the ability to earn points on eligible purchases, eligible PayPal transactions, or completing other actions, such as referring a friend.  
   
-The Rewards can be earned through our Website, the PayPal Honey app, or through checkout and can be redeemed for gift cards, PayPal transaction discounts or cash back with a valid PayPal account. You can earn Rewards on purchases from eligible merchants, eligible PayPal transactions or other activity. The Rewards are subject to these [PayPal Rewards Program Agreement](https://www.paypal.com/us/legalhub/pp-rewards-program-tnc). Additional terms and exclusions may apply and are presented at the time the Reward is offered or saved.  
+The Rewards can be earned through our Website, the PayPal Honey app, or through checkout and can be redeemed for gift cards, PayPal transaction discounts or cash back with a valid PayPal balance account. You can earn Rewards on purchases from eligible merchants, eligible PayPal transactions or other activity. The Rewards are subject to these [PayPal Rewards Program Agreement](https://www.paypal.com/us/legalhub/pp-rewards-program-tnc). Additional terms and exclusions may apply and are presented at the time the Reward is offered or saved.  
   
 To manage Rewards the following Personal information is collected:
 
