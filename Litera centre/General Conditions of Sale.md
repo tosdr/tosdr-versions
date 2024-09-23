@@ -301,15 +301,15 @@ We bring you a world-class international (both Indian and expat) team of highly 
 ### Have Questions ?
 
 * [011-43632823](tel:011-43632823)
-* [+919871160718](tel:+919871160718)
+* [+918505898888](tel:+919871160718)
 * [info@literacentre.com](mailto:info@literacentre.com?subject=feedback)
-* [New Delhi, India](https://www.google.com/maps/place/Litera+Centre/@28.5672715,77.2469296,18.75z/data=!4m5!3m4!1s0x390ce3e7e2d2d0d3:0xec391d428c4e8eba!8m2!3d28.5672827!4d77.246982?shorturl=1)
+* [Noida, UP India](https://www.google.com/maps/place/Litera+Centre/@28.5672715,77.2469296,18.75z/data=!4m5!3m4!1s0x390ce3e7e2d2d0d3:0xec391d428c4e8eba!8m2!3d28.5672827!4d77.246982?shorturl=1)
 
 [![](https://www.literacentre.com/wp-content/uploads/2022/07/Litera-Centre-Google-News.webp)](https://news.google.com/publications/CAAqBwgKMLy7zQsw7NbkAw)
 
 [Facebook](https://www.facebook.com/literacentre/) [Youtube](https://www.youtube.com/@literacentre) [Instagram](https://www.instagram.com/literacentre/) [Linkedin](https://www.linkedin.com/company/litera-centre) [Pinterest](https://in.pinterest.com/literacentre/) [Twitter](https://twitter.com/literacentre) [](https://www.threads.net/@literacentre)[](https://mastodon.social/@literacentre)[Newspaper](https://news.google.com/publications/CAAqBwgKMLy7zQsw7NbkAw)
 
-Copyright 2024. All rights reserved with **[Litera Centre](https://www.literacentre.com/)**, part of Orbis Education powered by Orbis Future Learning Pvt. Ltd.
+Copyright 2024. All rights reserved with [Litera Centre](https://cvngp04.na1.hs-sales-engage.com/Ctc/5B+23284/cvngp04/Jks2-6qcW69sMD-6lZ3pXVzxkp11m6Yw_N6BplH7J3Dk-W7px5zJ9dDWLGN54sv0Jwj7sSW1S72Gw4vNFQrN6x1L1tr49FNW5lHh572-QCPpW80xrfv1hqjVHW27y0_p3d1bBgW3PRCpR5hHHhYW18_tTp6nmRKlW8109fz6TYJy1W5TXccx17Zq1ZW71NW964PbVKHW3J4PYv6v76swW6NLGmd8trcbkW2sLxQb6--jnhW3lff9Z86fV8nW6c7JSd4c-KsbW2-1Rt710fQfNf1r383K04), part of Socratic Education powered by Socratic Education Pvt. Ltd.
 
 [![Call Litera Centre Team](https://res.cloudinary.com/litlr/image/upload/v1706678311/litera/lit-call_qzlq6i.png)](tel:+919871160718)
 
