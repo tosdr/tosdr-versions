@@ -48,7 +48,7 @@ SEARCH
 
 [My Account](https://www.cricbuzz.com/premium-subscription/user/account-info "My Account") Sign Out
 
-[MATCHES](https://www.cricbuzz.com/cricket-match/live-scores)[AFG vs RSA - RSA Won](https://www.cricbuzz.com/live-cricket-scores/103861/afg-vs-rsa-3rd-odi-afghanistan-v-south-africa-in-uae-2024 "Afghanistan v South Africa, 3rd ODI - RSA Won")[SLK vs BR - SLK Won](https://www.cricbuzz.com/live-cricket-scores/92901/slk-vs-br-24th-match-caribbean-premier-league-2024 "Saint Lucia Kings v Barbados Royals, 24th Match - SLK Won")[IND vs BAN - IND Won](https://www.cricbuzz.com/live-cricket-scores/100220/ind-vs-ban-1st-test-bangladesh-tour-of-india-2024 "India v Bangladesh, 1st Test - IND Won")[SL vs NZ - Stumps](https://www.cricbuzz.com/live-cricket-scores/105962/sl-vs-nz-1st-test-new-zealand-tour-of-sri-lanka-2024 "Sri Lanka v New Zealand, 1st Test - Stumps")[TKR vs SNP - Preview](https://www.cricbuzz.com/live-cricket-scores/92905/tkr-vs-snp-25th-match-caribbean-premier-league-2024 "Trinbago Knight Riders v St Kitts and Nevis Patriots, 25th Match - Preview")
+[MATCHES](https://www.cricbuzz.com/cricket-match/live-scores)[SNP vs TKR - Live](https://www.cricbuzz.com/live-cricket-scores/92905/snp-vs-tkr-25th-match-caribbean-premier-league-2024 "St Kitts and Nevis Patriots v Trinbago Knight Riders, 25th Match - Live")[AFG vs RSA - RSA Won](https://www.cricbuzz.com/live-cricket-scores/103861/afg-vs-rsa-3rd-odi-afghanistan-v-south-africa-in-uae-2024 "Afghanistan v South Africa, 3rd ODI - RSA Won")[SLK vs BR - SLK Won](https://www.cricbuzz.com/live-cricket-scores/92901/slk-vs-br-24th-match-caribbean-premier-league-2024 "Saint Lucia Kings v Barbados Royals, 24th Match - SLK Won")[IND vs BAN - IND Won](https://www.cricbuzz.com/live-cricket-scores/100220/ind-vs-ban-1st-test-bangladesh-tour-of-india-2024 "India v Bangladesh, 1st Test - IND Won")[SL vs NZ - Stumps](https://www.cricbuzz.com/live-cricket-scores/105962/sl-vs-nz-1st-test-new-zealand-tour-of-sri-lanka-2024 "Sri Lanka v New Zealand, 1st Test - Stumps")
 
 AllLive NowToday
 
@@ -78,25 +78,17 @@ AllLive NowToday
     
 * Afghanistan vs South Africa, 2024
     
-    [Afghanistan vs South Africa](https://www.cricbuzz.com/live-cricket-scores/103852/afg-vs-rsa-2nd-odi-afghanistan-vs-south-africa-2024 "Afghanistan v South Africa, 2nd ODI - AFG Won")
-    
-    2nd ODI
-    
-* [Afghanistan vs South Africa](https://www.cricbuzz.com/live-cricket-scores/103861/afg-vs-rsa-3rd-odi-afghanistan-vs-south-africa-2024 "Afghanistan v South Africa, 3rd ODI - RSA Won")
+    [Afghanistan vs South Africa](https://www.cricbuzz.com/live-cricket-scores/103861/afg-vs-rsa-3rd-odi-afghanistan-vs-south-africa-2024 "Afghanistan v South Africa, 3rd ODI - RSA Won")
     
     3rd ODI
     
 * ICC CWC League Two 2023-27
     
-    [Canada vs Oman](https://www.cricbuzz.com/live-cricket-scores/106972/can-vs-oman-30th-match-icc-cwc-league-two-2023-27 "Canada v Oman, 30th Match - CAN Won")
-    
-    30th Match
-    
-* [Namibia vs United States](https://www.cricbuzz.com/live-cricket-scores/106977/nam-vs-usa-31st-match-icc-cwc-league-two-2023-27 "Namibia v United States, 31st Match - USA Won")
+    [Namibia vs United States](https://www.cricbuzz.com/live-cricket-scores/106977/nam-vs-usa-31st-match-icc-cwc-league-two-2023-27 "Namibia v United States, 31st Match - USA Won")
     
     31st Match
     
-* [Nepal vs Canada  LIVE](https://www.cricbuzz.com/live-cricket-scores/106985/nep-vs-can-32nd-match-icc-cwc-league-two-2023-27 "Nepal v Canada, 32nd Match - Live")
+* [Nepal vs Canada](https://www.cricbuzz.com/live-cricket-scores/106985/nep-vs-can-32nd-match-icc-cwc-league-two-2023-27 "Nepal v Canada, 32nd Match - CAN Won")
     
     32nd Match
     
@@ -166,7 +158,7 @@ AllLive NowToday
     
     24th Match
     
-* [Trinbago Knight Riders vs St Kitts and Nevis Patriots](https://www.cricbuzz.com/live-cricket-scores/92905/tkr-vs-snp-25th-match-cpl-2024 "Trinbago Knight Riders v St Kitts and Nevis Patriots, 25th Match - Preview")
+* [St Kitts and Nevis Patriots vs Trinbago Knight Riders  LIVE](https://www.cricbuzz.com/live-cricket-scores/92905/snp-vs-tkr-25th-match-cpl-2024 "St Kitts and Nevis Patriots v Trinbago Knight Riders, 25th Match - Live")
     
     25th Match
     
@@ -272,13 +264,17 @@ AllLive NowToday
     
     1st Match
     
-* [Victoria vs Tasmania](https://www.cricbuzz.com/live-cricket-scores/103114/vic-vs-tas-2nd-match-australia-domestic-one-day-cup-2024-25 "Victoria v Tasmania, 2nd Match - Preview")
+* [Tasmania vs Victoria  LIVE](https://www.cricbuzz.com/live-cricket-scores/103114/tas-vs-vic-2nd-match-australia-domestic-one-day-cup-2024-25 "Tasmania v Victoria, 2nd Match - Live")
     
     2nd Match
     
 * [Western Australia vs South Australia](https://www.cricbuzz.com/live-cricket-scores/103123/wa-vs-saus-3rd-match-australia-domestic-one-day-cup-2024-25 "Western Australia v South Australia, 3rd Match - Upcoming")
     
     3rd Match
+    
+* [Tasmania vs Queensland](https://www.cricbuzz.com/live-cricket-scores/103132/tas-vs-ql-4th-match-australia-domestic-one-day-cup-2024-25 "Tasmania v Queensland, 4th Match - Upcoming")
+    
+    4th Match
     
 * Australia Under 19 tour of India
     
@@ -651,37 +647,37 @@ This Privacy Policy (the “**Privacy Policy**”) serves to inform you of our p
 
 [Bowlers, Markram give South Africa consolation win](https://www.cricbuzz.com/cricket-news/131722/bowlers-markram-give-south-africa-consolation-win "Bowlers, Markram give South Africa consolation win")
 
-41m ago
+6h ago
 
   [](https://www.cricbuzz.com/cricket-news/131721/all-round-saint-lucia-kings-brush-aside-barbados-royals-again "All-round St. Lucia Kings do the double over Barbados Royals")
 
 [All-round St. Lucia Kings do the double over Barbados Royals](https://www.cricbuzz.com/cricket-news/131721/all-round-saint-lucia-kings-brush-aside-barbados-royals-again "All-round St. Lucia Kings do the double over Barbados Royals")
 
-1h ago
+7h ago
 
   [](https://www.cricbuzz.com/cricket-news/131720/najmul-breaks-the-drought-with-crucial-knock-in-chennai "Najmul breaks the drought with crucial knock in Chennai")
 
 [Najmul breaks the drought with crucial knock in Chennai](https://www.cricbuzz.com/cricket-news/131720/najmul-breaks-the-drought-with-crucial-knock-in-chennai "Najmul breaks the drought with crucial knock in Chennai")
 
-3h ago
+9h ago
 
   [](https://www.cricbuzz.com/cricket-news/131719/prasidh-krishna-tanush-kotian-lead-india-a-to-duleep-trophy-title "Prasidh Krishna, Tanush Kotian lead India A to Duleep Trophy title")
 
 [Prasidh Krishna, Tanush Kotian lead India A to Duleep Trophy title](https://www.cricbuzz.com/cricket-news/131719/prasidh-krishna-tanush-kotian-lead-india-a-to-duleep-trophy-title "Prasidh Krishna, Tanush Kotian lead India A to Duleep Trophy title")
 
-6h ago
+12h ago
 
   [](https://www.cricbuzz.com/cricket-news/131718/sl-on-the-brink-of-series-lead-despite-ravindras-heroics "SL on the brink of series lead despite Ravindra's heroics")
 
 [SL on the brink of series lead despite Ravindra's heroics](https://www.cricbuzz.com/cricket-news/131718/sl-on-the-brink-of-series-lead-despite-ravindras-heroics "SL on the brink of series lead despite Ravindra's heroics")
 
-6h ago
+12h ago
 
   [](https://www.cricbuzz.com/cricket-news/131717/no-matter-the-conditions-we-want-to-build-the-team-around-strong-bowling-rohit-sharma "No matter the conditions, we want to build the team around strong bowling: Rohit Sharma")
 
 [No matter the conditions, we want to build the team around strong bowling: Rohit Sharma](https://www.cricbuzz.com/cricket-news/131717/no-matter-the-conditions-we-want-to-build-the-team-around-strong-bowling-rohit-sharma "No matter the conditions, we want to build the team around strong bowling: Rohit Sharma")
 
-8h ago
+14h ago
 
 [More News](https://www.cricbuzz.com/cricket-news "Click to view more News")
 
