@@ -212,7 +212,7 @@ YOU ACKNOWLEDGE THAT THE BETA SERVICES MAY NOT HAVE BEEN FULLY TESTED, MAY NOT B
 * **Developer Name and Address.  
     ‍**Any questions, complaints or claims with respect to the Mac App should be directed to:  
     Descript  
-    385 Grove St, San Francisco, CA 94102   
+    375 Alabama St. Suite 300, San Francisco, CA 94110 US  
     [support@descript.com](mailto:support@descript.com)  
     
 * **Third-Party Terms of Agreement.** You agree to comply with any applicable third-party terms when using the Descript Service.  
