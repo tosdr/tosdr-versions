@@ -39,9 +39,9 @@ editorial \_
 
 coverstory \_
 
-[![Couple’s Vacation Home on Wheels Is Incredibly Stylish and Luminous](https://s1.cdn.autoevolution.com/images/news/couples-vacation-home-on-wheels-is-incredibly-stylish-and-luminous-240173-5.jpg "Couple’s Vacation Home on Wheels Is Incredibly Stylish and Luminous")
+[![Fitch Phoenix: The Corvette-Like, Corvair-Based Porsche 911 Rival That Never Was](https://s1.cdn.autoevolution.com/images/news/fitch-phoenix-the-corvette-like-corvair-based-porsche-911-rival-that-never-was-240204-5.jpg "Fitch Phoenix: The Corvette-Like, Corvair-Based Porsche 911 Rival That Never Was")
 
-Couple’s Vacation Home on Wheels Is Incredibly Stylish and Luminous](https://www.autoevolution.com/news/couples-vacation-home-on-wheels-is-incredibly-stylish-and-luminous-240173.html)
+Fitch Phoenix: The Corvette-Like, Corvair-Based Porsche 911 Rival That Never Was](https://www.autoevolution.com/news/fitch-phoenix-the-corvette-like-corvair-based-porsche-911-rival-that-never-was-240204.html)
 
 how-to \_
 
