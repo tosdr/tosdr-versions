@@ -23,8 +23,8 @@ Popular Games
 
 Latest game news
 
+* [What’s New in Tales of Graces f Remastered?](https://en.bandainamcoent.eu/tales-of/news/whats-new-tales-of-graces-f-remastered)
 * [SWORD ART ONLINE Fractured Daydream show more gameplay in its system trailer](https://en.bandainamcoent.eu/sword-art-online/news/sword-art-online-fractured-daydream-show-more-gameplay-its-system-trailer)
-* [SWORD ART ONLINE: Fractured Daydream - Producer & Director Message](https://en.bandainamcoent.eu/sword-art-online/news/sword-art-online-fractured-daydream-producer-director-message)
 
    ![](/themes/custom/bne_main/images/newsletter/banner-newsletter.jpg?1648764000)
 
