@@ -25,7 +25,7 @@
     * SOLUTIONS
     * [Managed Threat Complete
         
-        RISK-AWARE MDR](https://www.rapid7.com/services/managed-detection-and-response-mdr/)
+        MANAGED XDR](https://www.rapid7.com/services/managed-detection-and-response-mdr/)
     * [Surface Command
         
         ATTACK SURFACE MANAGEMENT](https://www.rapid7.com/products/command/attack-surface-management-asm/)
@@ -71,17 +71,17 @@
     
 * [Services](https://www.rapid7.com/services/)
     
-    * MDR
+    * MXDR
         
         Managed Threat Complete
         
-        Risk-aware MDR with Unlimited Incident Response
+        24x7 MXDR to secure your extended ecosystem
         
         [Request Demo](https://www.rapid7.com/services/managed-detection-and-response-mdr/demo/)
         
     
     * DETECTION & RESPONSE
-    * [Managed Detection and Response
+    * [Managed XDR
         
         MANAGED THREAT COMPLETE](https://www.rapid7.com/services/managed-detection-and-response-mdr/)
     * [Incident Response Services
@@ -234,7 +234,7 @@
     * SOLUTIONS
     * [Managed Threat Complete
         
-        RISK-AWARE MDR](https://www.rapid7.com/services/managed-detection-and-response-mdr/)
+        MANAGED XDR](https://www.rapid7.com/services/managed-detection-and-response-mdr/)
     * [Surface Command
         
         ATTACK SURFACE MANAGEMENT](https://www.rapid7.com/products/command/attack-surface-management-asm/)
@@ -280,17 +280,17 @@
     
 * [Services](https://www.rapid7.com/services/)
     
-    * MDR
+    * MXDR
         
         Managed Threat Complete
         
-        Risk-aware MDR with Unlimited Incident Response
+        24x7 MXDR to secure your extended ecosystem
         
         [Request Demo](https://www.rapid7.com/services/managed-detection-and-response-mdr/demo/)
         
     
     * DETECTION & RESPONSE
-    * [Managed Detection and Response
+    * [Managed XDR
         
         MANAGED THREAT COMPLETE](https://www.rapid7.com/services/managed-detection-and-response-mdr/)
     * [Incident Response Services
