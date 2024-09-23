@@ -84,7 +84,7 @@ Playbooks
 
 Ecommerce hub
 
-[Flows ROI Calculator](https://www.tidio.com/calculators/flows/)
+[Flows ROI Calculator](https://www.tidio.com/calculators/tidio-roi/)
 
 [Sales Tactics for Ecommerce Growth](https://www.tidio.com/blog/ecommerce-growth-strategy/)
 
@@ -188,7 +188,7 @@ Playbooks
 
 Ecommerce hub
 
-[Flows ROI Calculator](https://www.tidio.com/calculators/flows/)
+[Flows ROI Calculator](https://www.tidio.com/calculators/tidio-roi/)
 
 [Sales Tactics for Ecommerce Growth](https://www.tidio.com/blog/ecommerce-growth-strategy/)
 
@@ -342,7 +342,7 @@ Resources
 
 [Podcasts](https://www.tidio.com/resources/podcasts/)
 
-[Flows ROI Calculator](https://www.tidio.com/calculators/flows/)
+[ROI Calculator](https://www.tidio.com/calculators/tidio-roi/)
 
 [Tidio Academy](https://academy.tidio.com/)
 
@@ -508,7 +508,7 @@ Resources
 
 [Podcasts](https://www.tidio.com/resources/podcasts/)
 
-[Flows ROI Calculator](https://www.tidio.com/calculators/flows/)
+[ROI Calculator](https://www.tidio.com/calculators/tidio-roi/)
 
 [Tidio Academy](https://academy.tidio.com/)
 
