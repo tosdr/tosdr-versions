@@ -270,7 +270,7 @@ Free standard shipping on any $35 purchase
             
         * [Black-Owned & Founded](https://www.ulta.com/featured/blackownedbrands?category=skin-care)
             
-        * [Skinfatuation](https://www.ulta.com/discover/skin-care-trends)
+        * [Skinfatuation](https://www.ulta.com/discover/skin/trending-skincare)
             
         
         [![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=)](https://www.ulta.com/p/blurring-moisturizing-filter-primer-pimprod2024916?sku=2580280)
@@ -1029,7 +1029,7 @@ Free standard shipping on any $35 purchase
             
         * [### Makeup Obsession](https://www.ulta.com/discover/makeup/best-lip-products-guide)
             
-        * [### Skinfatuation](https://www.ulta.com/discover/skin/dermatologist-recommended-skin-care-products)
+        * [### Skinfatuation](https://www.ulta.com/discover/skin/trending-skincare)
             
         * [### Fragrance Finder](https://www.ulta.com/discover/fragrance-finder)
             
