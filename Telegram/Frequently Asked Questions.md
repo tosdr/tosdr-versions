@@ -273,15 +273,15 @@ Users whose publications were taken down in connection with the TCO Regulation c
 
 #### [](#q-a-bot-or-channel-is-infringing-on-my-copyright-what-do-i-do)Q: A bot or channel is infringing on my copyright. What do I do?
 
-All Telegram chats and group chats are private amongst their participants. We do not process any requests related to them. But **sticker sets**, **channels**, and **bots** on Telegram are _publicly available_.
+**Private groups and chats** on Telegram are private amongst their participants. We do not process any requests related to them. However, Telegram also supports **sticker sets**, **bots**, **channels** and **groups** that are _publicly available_.
 
-If you see a bot, channel, or sticker set that is infringing on your copyright, kindly submit a complaint to [dmca@telegram.org](mailto:dmca@telegram.org). Please note that such requests should only be submitted by the copyright owner or an agent authorized to act on the owner’s behalf.
+If you see a bot, channel, sticker set, or other content that is a part of Telegram’s public platform and is infringing on your copyright, kindly submit a complaint to [dmca@telegram.org](mailto:dmca@telegram.org). Please note that such requests should only be submitted by the copyright owner or an agent authorized to act on the owner’s behalf.
 
-#### [](#q-wait-0-o-do-you-process-take-down-requests-from-third-parties)Q: Wait! 0\_o Do you process take-down requests from third parties?
+#### [](#q-do-you-process-take-down-requests-from-third-parties)Q: Do you process take-down requests from third parties?
 
-Our mission is to provide a secure means of communication that works everywhere on the planet. To do this in the places where it is most needed (and to continue distributing Telegram through the App Store and Google Play), we have to process legitimate requests to take down illegal **public** content (e.g., sticker sets, bots, and channels) within the app. For example, we can take down sticker sets that violate intellectual property rights or porn bots.
+Our mission is to provide a secure means of communication that works everywhere on the planet. To do this in the places where it is most needed (and to continue distributing Telegram through the App Store and Google Play), we have to process legitimate requests to take down illegal **public** content (e.g., sticker sets, bots, groups and channels) within the app. For example, we can take down sticker sets that violate intellectual property rights or porn bots.
 
-User-uploaded stickers sets, channels, and bots by third-party developers are not part of the core Telegram UI. Whenever we receive a complaint at [abuse@telegram.org](mailto:abuse@telegram.org) or [dmca@telegram.org](mailto:dmca@telegram.org) regarding the legality of public content, we perform the necessary legal checks and take it down when deemed appropriate.
+Public content on Telegram, such as user-uploaded stickers sets, channels, and bots by third-party developers are not part of the core Telegram UI. Whenever we receive a report regarding potentially illegal public content, we perform the necessary legal checks and take it down when deemed appropriate.
 
 Please note that this does **not** apply to local restrictions on freedom of speech. For example, if criticizing the government is illegal in some country, Telegram won't be a part of such politically motivated censorship. This goes against our founders' [principles](https://mashable.com/2015/05/18/russias-mark-zuckerberg-pavel-durov/). While we do block terrorist (e.g. ISIS-related) bots and channels, we will not block anybody who peacefully expresses alternative opinions.
 
@@ -297,7 +297,9 @@ To protect the data that is not covered by end-to-end encryption, Telegram uses 
 
 Thanks to this structure, we can ensure that no single government or block of like-minded countries can intrude on people's privacy and freedom of expression. Telegram can be forced to give up data only if an issue is grave and universal enough to pass the scrutiny of several different legal systems around the world.
 
-To this day, we have disclosed 0 bytes of user data to third parties, including governments.
+To this day, we have disclosed 0 bytes of user messages to third parties, including governments.
+
+> For more information on how your data is protected, please see the [Telegram Privacy Policy](https://telegram.org/privacy) and [this post](https://t.me/durov/344) by the Telegram CEO.
 
 ### [](#telegram-basics)Telegram Basics
 
