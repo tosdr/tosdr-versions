@@ -56,7 +56,7 @@ Search
 
 [![Home](images/logos/21/logo_white.jpg?v=1696508508227 "Home")](https://www.derrynow.com/)
 
-22 Sept 2024
+23 Sept 2024
 
 * [Home
     
@@ -327,19 +327,19 @@ Members of the congregation of Maynooth Community Church, one of Presbyterian Ch
 [Historic day as Maynooth Community Church is officially opened](https://www.derrynow.com/news/local-news/1611213/historic-day-as-maynooth-community-church-is-officially-opened.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+[![Sinn Fein chief McDonald urges Starmer to ‘walk final length of Irish journey’](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Sinn Fein chief McDonald urges Starmer to ‘walk final length of Irish journey’")](https://www.derrynow.com/news/northern-ireland/1611495/sinn-fein-chief-mcdonald-urges-starmer-to-walk-final-length-of-irish-journey.html)
+
+[Northern Ireland](https://www.derrynow.com/section/997/cookie-policy)
+
+[Sinn Fein chief McDonald urges Starmer to ‘walk final length of Irish journey’](https://www.derrynow.com/news/northern-ireland/1611495/sinn-fein-chief-mcdonald-urges-starmer-to-walk-final-length-of-irish-journey.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 [![Loughs Agency’s Education Team making waves this summer](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Loughs Agency’s Education Team making waves this summer")](https://www.derrynow.com/news/local-news/1609339/loughs-agencys-education-team-making-waves-in-foyle-this-summer.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
 
 [Loughs Agency’s Education Team making waves in Foyle this summer](https://www.derrynow.com/news/local-news/1609339/loughs-agencys-education-team-making-waves-in-foyle-this-summer.html)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![People ‘dragged into migration narratives’ if concerns ignored – Little-Pengelly](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "People ‘dragged into migration narratives’ if concerns ignored – Little-Pengelly")](https://www.derrynow.com/news/northern-ireland/1611332/people-dragged-into-migration-narratives-if-concerns-ignored-little-pengelly.html)
-
-[Northern Ireland](https://www.derrynow.com/section/997/cookie-policy)
-
-[People ‘dragged into migration narratives’ if concerns ignored – Little-Pengelly](https://www.derrynow.com/news/northern-ireland/1611332/people-dragged-into-migration-narratives-if-concerns-ignored-little-pengelly.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
