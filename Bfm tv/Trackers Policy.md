@@ -397,15 +397,15 @@ _La liste ci-dessus n’est pas une liste exhaustive car elle ne comprend pas le
 Les plus lus
 ------------
 
-1. [![Le nouveau premier ministre Michel Barnier à Matignon pour la passation de pouvoir, le 5 septembre 2024 à Paris](https://images.bfmtv.com/Am3r7uOA2R6nfb62-fw5A7H6jDo=/0x39:768x471/300x0/images/Le-nouveau-premier-ministre-Michel-Barnier-a-Matignon-pour-la-passation-de-pouvoir-le-5-septembre-2024-a-Paris-1931886.webp)
+1. [![Le public faisant la queue pour assister au procès des viols de Mazan au tribunal judiciaire d'Avignon.](https://images.bfmtv.com/1povgkStEeK7cJosTFTHW_KB8w8=/0x106:2048x1258/300x0/images/proces-viols-mazan-pelicot-1940930.webp)
     
-    ![Le nouveau premier ministre Michel Barnier à Matignon pour la passation de pouvoir, le 5 septembre 2024 à Paris](https://images.bfmtv.com/Am3r7uOA2R6nfb62-fw5A7H6jDo=/0x39:768x471/300x0/images/Le-nouveau-premier-ministre-Michel-Barnier-a-Matignon-pour-la-passation-de-pouvoir-le-5-septembre-2024-a-Paris-1931886.webp)
+    ![Le public faisant la queue pour assister au procès des viols de Mazan au tribunal judiciaire d'Avignon.](https://images.bfmtv.com/1povgkStEeK7cJosTFTHW_KB8w8=/0x106:2048x1258/300x0/images/proces-viols-mazan-pelicot-1940930.webp)
     
-    ### Nouveau gouvernement: Michel Barnier déjà sous la menace d'une motion de censure](https://www.bfmtv.com/politique/gouvernement/nouveau-gouvernement-michel-barnier-deja-sous-la-menace-d-une-motion-de-censure_AV-202409210438.html "Nouveau gouvernement: Michel Barnier déjà sous la menace d'une motion de censure")
-2. [### Paris: une enquête ouverte après la découverte d'un corps enterré dans le bois de Boulogne](https://www.bfmtv.com/paris/paris-une-enquete-ouverte-apres-la-decouverte-d-un-corps-enterre-dans-le-bois-de-boulogne_AN-202409210419.html "Paris: une enquête ouverte après la découverte d'un corps enterré dans le bois de Boulogne")
-3. [### Janet Jackson affirme que Kamala Harris "n'est pas noire"](https://www.bfmtv.com/people/janet-jackson-affirme-que-kamala-harris-n-est-pas-noire_AN-202409220146.html "Janet Jackson affirme que Kamala Harris "n'est pas noire"")
-4. [### Impôts: le nouveau ministre de l'Économie n'exclut pas des "prélèvements exceptionnels et ciblés"](https://www.bfmtv.com/immobilier/fiscalite/impots-le-nouveau-ministre-de-l-economie-n-exclut-pas-des-prelevements-exceptionnels-et-cibles_AN-202409210398.html "Impôts: le nouveau ministre de l'Économie n'exclut pas des "prélèvements exceptionnels et ciblés"")
-5. [### "Kaizen": le film d'Inoxtag avait-il le droit d'être diffusé au cinéma?](https://www.bfmtv.com/tech/youtube/kaizen-le-film-d-inoxtag-avait-il-le-droit-d-etre-diffuse-au-cinema_AV-202409210282.html ""Kaizen": le film d'Inoxtag avait-il le droit d'être diffusé au cinéma?")
+    ### "Ce n'est pas un violeur": au procès Pelicot, ces femmes viennent soutenir leur mari accusé](https://www.bfmtv.com/police-justice/ce-n-est-pas-un-violeur-au-proces-pelicot-ces-femmes-viennent-soutenir-leur-mari-accuse_GN-202409230148.html ""Ce n'est pas un violeur": au procès Pelicot, ces femmes viennent soutenir leur mari accusé")
+2. [### LIGNE ROUGE. Gisèle Pelicot face à ses bourreaux au procès des viols de Mazan](https://www.bfmtv.com/police-justice/ligne-rouge-gisele-pelicot-la-combattante-au-proces-des-viols-de-mazan_AN-202409230229.html "LIGNE ROUGE. Gisèle Pelicot face à ses bourreaux au procès des viols de Mazan")
+3. [### Ce que l'on sait sur la mort de Philippine, 19 ans, dont le corps a été retrouvé dans le bois de Boulogne](https://www.bfmtv.com/paris/ce-que-l-on-sait-sur-la-mort-de-philippine-19-ans-dont-le-corps-a-ete-retrouve-dans-le-bois-de-boulogne_AV-202409230038.html "Ce que l'on sait sur la mort de Philippine, 19 ans, dont le corps a été retrouvé dans le bois de Boulogne")
+4. [### Le rachat du Doliprane au centre d'un bras de fer franco-américain](https://www.bfmtv.com/economie/entreprises/industries/le-rachat-du-doliprane-au-centre-d-un-bras-de-fer-franco-americain_AN-202409230048.html "Le rachat du Doliprane au centre d'un bras de fer franco-américain")
+5. [### Kendji Girac: cinq mois après sa blessure par balle, le chanteur annonce son retour sur scène](https://www.bfmtv.com/people/musique/kendji-girac-cinq-mois-apres-sa-blessure-par-balle-le-chanteur-annonce-son-retour-sur-scene_AN-202409220383.html "Kendji Girac: cinq mois après sa blessure par balle, le chanteur annonce son retour sur scène")
 
 ![BFMTV](/assets/v6/images/BFMTV.848c19e09c92f3ced2163a1a0399be11.svg "BFMTV")
 
