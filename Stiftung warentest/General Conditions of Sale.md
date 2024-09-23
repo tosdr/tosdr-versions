@@ -597,12 +597,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Primus-capital.net: Abzo­cker springen auf den KI-Hype auf](https://www.test.de/Primus-capitalnet-Abzocker-springen-auf-den-KI-Hype-auf-6144149-0/ "Primus-capital.net - Abzocker springen auf den KI-Hype auf")
-* [Verpackungs­ärger: Caffè Crema von Tchibo](https://www.test.de/verpackungsaerger-caffe-crema-von-tchibo-6066168-0/ "Verpackungsärger - Caffè Crema von Tchibo")
-* [Pantoffel-Portfolio ergänzen: Anlegen mit Kick – zehn Beimischungen im Test](https://www.test.de/Pantoffel-Portfolio-ergaenzen-Anlegen-mit-Kick-zehn-Beimischungen-im-Test-6111636-0/ "Pantoffel-Portfolio ergänzen - Anlegen mit Kick – zehn Beimischungen im Test")
-* [Haus­notruf: Hilfe auf Knopf­druck](https://www.test.de/Hausnotruf-Hilfe-auf-Knopfdruck-6150134-0/ "Hausnotruf - Hilfe auf Knopfdruck")
-* [Schnell­test Sprach­verstärker Oskar: Sprache beim Fernsehen besser verstehen](https://www.test.de/Schnelltest-Sprachverstaerker-Oskar-Sprache-beim-Fernsehen-besser-verstehen-5992192-0/ "Schnelltest Sprachverstärker Oskar - Sprache beim Fernsehen besser verstehen")
-* [Dienst­reisen: Wie Sie Ihre Reise­kosten von der Steuer absetzen](https://www.test.de/reisekosten-steuer-6109917-0/ "Dienstreisen - Wie Sie Ihre Reisekosten von der Steuer absetzen")
+* [Fonds: Globale 1. Wahl-ETF aus unserem Dauer­test](https://www.test.de/Fonds-Globale-1-Wahl-ETF-aus-unserem-Dauertest-6133627-0/ "Fonds - Globale 1. Wahl-ETF aus unserem Dauertest")
+* [Cartoons von Tom](https://www.test.de/Cartoon-von-Tom-6088149-0/ "Cartoons von Tom")
+* [Mit Over­night-ETF am Geldmarkt anlegen: Tages­geld für Fort­geschrittene](https://www.test.de/Mit-Overnight-ETF-am-Geldmarkt-anlegen-Tagesgeld-fuer-Fortgeschrittene-6070550-0/ "Mit Overnight-ETF am Geldmarkt anlegen - Tagesgeld für Fortgeschrittene")
+* [Dividenden von Welt-Aktienfonds: So viel schütten die besten Welt-Fonds aus](https://www.test.de/Dividenden-von-Welt-Aktienfonds-So-viel-schuetten-die-besten-Welt-Fonds-aus-6017222-0/ "Dividenden von Welt-Aktienfonds - So viel schütten die besten Welt-Fonds aus")
+* [Digitalkameras im Test: Richtig gute Bilder machen – mit System!](https://www.test.de/Digitalkameras-im-Test-1538975-0/ "Digitalkameras im Test - Richtig gute Bilder machen – mit System!")
+* [test warnt: Daten­klau mit der Energiepauschale](https://www.test.de/test-warnt-Datenklau-mit-der-Energiepauschale-5930971-0/ "test warnt - Datenklau mit der Energiepauschale")
 
 Fußbereich
 
@@ -2737,12 +2737,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Primus-capital.net: Abzo­cker springen auf den KI-Hype auf](https://www.test.de/Primus-capitalnet-Abzocker-springen-auf-den-KI-Hype-auf-6144149-0/ "Primus-capital.net - Abzocker springen auf den KI-Hype auf")
-* [Verpackungs­ärger: Caffè Crema von Tchibo](https://www.test.de/verpackungsaerger-caffe-crema-von-tchibo-6066168-0/ "Verpackungsärger - Caffè Crema von Tchibo")
-* [Pantoffel-Portfolio ergänzen: Anlegen mit Kick – zehn Beimischungen im Test](https://www.test.de/Pantoffel-Portfolio-ergaenzen-Anlegen-mit-Kick-zehn-Beimischungen-im-Test-6111636-0/ "Pantoffel-Portfolio ergänzen - Anlegen mit Kick – zehn Beimischungen im Test")
-* [Haus­notruf: Hilfe auf Knopf­druck](https://www.test.de/Hausnotruf-Hilfe-auf-Knopfdruck-6150134-0/ "Hausnotruf - Hilfe auf Knopfdruck")
-* [Schnell­test Sprach­verstärker Oskar: Sprache beim Fernsehen besser verstehen](https://www.test.de/Schnelltest-Sprachverstaerker-Oskar-Sprache-beim-Fernsehen-besser-verstehen-5992192-0/ "Schnelltest Sprachverstärker Oskar - Sprache beim Fernsehen besser verstehen")
-* [Dienst­reisen: Wie Sie Ihre Reise­kosten von der Steuer absetzen](https://www.test.de/reisekosten-steuer-6109917-0/ "Dienstreisen - Wie Sie Ihre Reisekosten von der Steuer absetzen")
+* [Fonds: Globale 1. Wahl-ETF aus unserem Dauer­test](https://www.test.de/Fonds-Globale-1-Wahl-ETF-aus-unserem-Dauertest-6133627-0/ "Fonds - Globale 1. Wahl-ETF aus unserem Dauertest")
+* [Cartoons von Tom](https://www.test.de/Cartoon-von-Tom-6088149-0/ "Cartoons von Tom")
+* [Mit Over­night-ETF am Geldmarkt anlegen: Tages­geld für Fort­geschrittene](https://www.test.de/Mit-Overnight-ETF-am-Geldmarkt-anlegen-Tagesgeld-fuer-Fortgeschrittene-6070550-0/ "Mit Overnight-ETF am Geldmarkt anlegen - Tagesgeld für Fortgeschrittene")
+* [Dividenden von Welt-Aktienfonds: So viel schütten die besten Welt-Fonds aus](https://www.test.de/Dividenden-von-Welt-Aktienfonds-So-viel-schuetten-die-besten-Welt-Fonds-aus-6017222-0/ "Dividenden von Welt-Aktienfonds - So viel schütten die besten Welt-Fonds aus")
+* [Digitalkameras im Test: Richtig gute Bilder machen – mit System!](https://www.test.de/Digitalkameras-im-Test-1538975-0/ "Digitalkameras im Test - Richtig gute Bilder machen – mit System!")
+* [test warnt: Daten­klau mit der Energiepauschale](https://www.test.de/test-warnt-Datenklau-mit-der-Energiepauschale-5930971-0/ "test warnt - Datenklau mit der Energiepauschale")
 
 Jetzt anmelden und 10% Rabatt auf die test.de-Flatrate im ersten Jahr erhalten!
 
@@ -2795,12 +2795,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Primus-capital.net: Abzo­cker springen auf den KI-Hype auf](https://www.test.de/Primus-capitalnet-Abzocker-springen-auf-den-KI-Hype-auf-6144149-0/ "Primus-capital.net - Abzocker springen auf den KI-Hype auf")
-* [Verpackungs­ärger: Caffè Crema von Tchibo](https://www.test.de/verpackungsaerger-caffe-crema-von-tchibo-6066168-0/ "Verpackungsärger - Caffè Crema von Tchibo")
-* [Pantoffel-Portfolio ergänzen: Anlegen mit Kick – zehn Beimischungen im Test](https://www.test.de/Pantoffel-Portfolio-ergaenzen-Anlegen-mit-Kick-zehn-Beimischungen-im-Test-6111636-0/ "Pantoffel-Portfolio ergänzen - Anlegen mit Kick – zehn Beimischungen im Test")
-* [Haus­notruf: Hilfe auf Knopf­druck](https://www.test.de/Hausnotruf-Hilfe-auf-Knopfdruck-6150134-0/ "Hausnotruf - Hilfe auf Knopfdruck")
-* [Schnell­test Sprach­verstärker Oskar: Sprache beim Fernsehen besser verstehen](https://www.test.de/Schnelltest-Sprachverstaerker-Oskar-Sprache-beim-Fernsehen-besser-verstehen-5992192-0/ "Schnelltest Sprachverstärker Oskar - Sprache beim Fernsehen besser verstehen")
-* [Dienst­reisen: Wie Sie Ihre Reise­kosten von der Steuer absetzen](https://www.test.de/reisekosten-steuer-6109917-0/ "Dienstreisen - Wie Sie Ihre Reisekosten von der Steuer absetzen")
+* [Fonds: Globale 1. Wahl-ETF aus unserem Dauer­test](https://www.test.de/Fonds-Globale-1-Wahl-ETF-aus-unserem-Dauertest-6133627-0/ "Fonds - Globale 1. Wahl-ETF aus unserem Dauertest")
+* [Cartoons von Tom](https://www.test.de/Cartoon-von-Tom-6088149-0/ "Cartoons von Tom")
+* [Mit Over­night-ETF am Geldmarkt anlegen: Tages­geld für Fort­geschrittene](https://www.test.de/Mit-Overnight-ETF-am-Geldmarkt-anlegen-Tagesgeld-fuer-Fortgeschrittene-6070550-0/ "Mit Overnight-ETF am Geldmarkt anlegen - Tagesgeld für Fortgeschrittene")
+* [Dividenden von Welt-Aktienfonds: So viel schütten die besten Welt-Fonds aus](https://www.test.de/Dividenden-von-Welt-Aktienfonds-So-viel-schuetten-die-besten-Welt-Fonds-aus-6017222-0/ "Dividenden von Welt-Aktienfonds - So viel schütten die besten Welt-Fonds aus")
+* [Digitalkameras im Test: Richtig gute Bilder machen – mit System!](https://www.test.de/Digitalkameras-im-Test-1538975-0/ "Digitalkameras im Test - Richtig gute Bilder machen – mit System!")
+* [test warnt: Daten­klau mit der Energiepauschale](https://www.test.de/test-warnt-Datenklau-mit-der-Energiepauschale-5930971-0/ "test warnt - Datenklau mit der Energiepauschale")
 
 Neueste Tests
 
@@ -2813,12 +2813,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Primus-capital.net: Abzo­cker springen auf den KI-Hype auf](https://www.test.de/Primus-capitalnet-Abzocker-springen-auf-den-KI-Hype-auf-6144149-0/ "Primus-capital.net - Abzocker springen auf den KI-Hype auf")
-* [Verpackungs­ärger: Caffè Crema von Tchibo](https://www.test.de/verpackungsaerger-caffe-crema-von-tchibo-6066168-0/ "Verpackungsärger - Caffè Crema von Tchibo")
-* [Pantoffel-Portfolio ergänzen: Anlegen mit Kick – zehn Beimischungen im Test](https://www.test.de/Pantoffel-Portfolio-ergaenzen-Anlegen-mit-Kick-zehn-Beimischungen-im-Test-6111636-0/ "Pantoffel-Portfolio ergänzen - Anlegen mit Kick – zehn Beimischungen im Test")
-* [Haus­notruf: Hilfe auf Knopf­druck](https://www.test.de/Hausnotruf-Hilfe-auf-Knopfdruck-6150134-0/ "Hausnotruf - Hilfe auf Knopfdruck")
-* [Schnell­test Sprach­verstärker Oskar: Sprache beim Fernsehen besser verstehen](https://www.test.de/Schnelltest-Sprachverstaerker-Oskar-Sprache-beim-Fernsehen-besser-verstehen-5992192-0/ "Schnelltest Sprachverstärker Oskar - Sprache beim Fernsehen besser verstehen")
-* [Dienst­reisen: Wie Sie Ihre Reise­kosten von der Steuer absetzen](https://www.test.de/reisekosten-steuer-6109917-0/ "Dienstreisen - Wie Sie Ihre Reisekosten von der Steuer absetzen")
+* [Fonds: Globale 1. Wahl-ETF aus unserem Dauer­test](https://www.test.de/Fonds-Globale-1-Wahl-ETF-aus-unserem-Dauertest-6133627-0/ "Fonds - Globale 1. Wahl-ETF aus unserem Dauertest")
+* [Cartoons von Tom](https://www.test.de/Cartoon-von-Tom-6088149-0/ "Cartoons von Tom")
+* [Mit Over­night-ETF am Geldmarkt anlegen: Tages­geld für Fort­geschrittene](https://www.test.de/Mit-Overnight-ETF-am-Geldmarkt-anlegen-Tagesgeld-fuer-Fortgeschrittene-6070550-0/ "Mit Overnight-ETF am Geldmarkt anlegen - Tagesgeld für Fortgeschrittene")
+* [Dividenden von Welt-Aktienfonds: So viel schütten die besten Welt-Fonds aus](https://www.test.de/Dividenden-von-Welt-Aktienfonds-So-viel-schuetten-die-besten-Welt-Fonds-aus-6017222-0/ "Dividenden von Welt-Aktienfonds - So viel schütten die besten Welt-Fonds aus")
+* [Digitalkameras im Test: Richtig gute Bilder machen – mit System!](https://www.test.de/Digitalkameras-im-Test-1538975-0/ "Digitalkameras im Test - Richtig gute Bilder machen – mit System!")
+* [test warnt: Daten­klau mit der Energiepauschale](https://www.test.de/test-warnt-Datenklau-mit-der-Energiepauschale-5930971-0/ "test warnt - Datenklau mit der Energiepauschale")
 
 Service Stiftung Warentest
 
