@@ -467,21 +467,21 @@ Revised June 1, 2022
 
   [![A car is seen in a crevice that opened up in a road amid heavy rains in Suzu, Ishikawa Prefecture, on Saturday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/21/423040.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "A car is seen in a crevice that opened up in a road amid heavy rains in Suzu, Ishikawa Prefecture, on Saturday.")](https://www.japantimes.co.jp/news/2024/09/21/japan/ishikawa-heavy-rain-alert/ "'Unprecedented' rains in quake-hit Ishikawa leave at least one dead")
 
+[Dealing with rising land vacancies as Japan shrinks](https://www.japantimes.co.jp/news/2024/09/21/japan/society/empty-vacant-lots-japan-akichi/ "Dealing with rising land vacancies as Japan shrinks")
+
+  [![A woman passes an "akichi" (vacant lot) in Bunkyo Ward, Tokyo. The capital is littered with such small lots in part because of Japan's aging and shrinking population.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/22/422295.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "A woman passes an "akichi" (vacant lot) in Bunkyo Ward, Tokyo. The capital is littered with such small lots in part because of Japan's aging and shrinking population.")](https://www.japantimes.co.jp/news/2024/09/21/japan/society/empty-vacant-lots-japan-akichi/ "Dealing with rising land vacancies as Japan shrinks")
+
+[Six dead and six more missing after 'unprecedented' rains in quake-hit Ishikawa](https://www.japantimes.co.jp/news/2024/09/22/japan/ishikawa-rain-second-day/ "Six dead and six more missing after 'unprecedented' rains in quake-hit Ishikawa")
+
+  [![A stranded car is seen on a mud-covered road following heavy rain in the city of Wajima, Ishikawa Prefecture, on Sunday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/22/423154.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "A stranded car is seen on a mud-covered road following heavy rain in the city of Wajima, Ishikawa Prefecture, on Sunday.")](https://www.japantimes.co.jp/news/2024/09/22/japan/ishikawa-rain-second-day/ "Six dead and six more missing after 'unprecedented' rains in quake-hit Ishikawa")
+
+['Quad' cements ties with coast guard patrols amid China concerns](https://www.japantimes.co.jp/news/2024/09/22/asia-pacific/politics/quad-summit-biden-kishida-china/ "'Quad' cements ties with coast guard patrols amid China concerns")
+
+  [![A China Coast Guard ship (left) collides with the Philippine Coast Guard ship BRP Teresa Magbanua near the Sabina Shoal, in disputed waters of the South China Sea, on Aug. 31.  ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/22/423095.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "A China Coast Guard ship (left) collides with the Philippine Coast Guard ship BRP Teresa Magbanua near the Sabina Shoal, in disputed waters of the South China Sea, on Aug. 31.  ")](https://www.japantimes.co.jp/news/2024/09/22/asia-pacific/politics/quad-summit-biden-kishida-china/ "'Quad' cements ties with coast guard patrols amid China concerns")
+
 [Argentina stuns South Africa in 29-28 win to keep title hopes alive](https://www.japantimes.co.jp/sports/2024/09/22/more-sports/argentina-stuns-south-africa/ "Argentina stuns South Africa in 29-28 win to keep title hopes alive")
 
   [![Argentina's Joel Sclavi (left), Ignacio Calles (center) and Thomas Gallo celebrate after Los Pumas defeated the Springboks on Saturday. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/22/423093.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Argentina's Joel Sclavi (left), Ignacio Calles (center) and Thomas Gallo celebrate after Los Pumas defeated the Springboks on Saturday. ")](https://www.japantimes.co.jp/sports/2024/09/22/more-sports/argentina-stuns-south-africa/ "Argentina stuns South Africa in 29-28 win to keep title hopes alive")
-
-[U.S. marine in Okinawa indicted for alleged sexual assault](https://www.japantimes.co.jp/news/2024/09/21/japan/crime-legal/us-marine-okinawa-indict/ "U.S. marine in Okinawa indicted for alleged sexual assault")
-
-  [![A U.S. Marine aircraft at Futenma Air Station in Okinawa](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/21/423025.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "A U.S. Marine aircraft at Futenma Air Station in Okinawa")](https://www.japantimes.co.jp/news/2024/09/21/japan/crime-legal/us-marine-okinawa-indict/ "U.S. marine in Okinawa indicted for alleged sexual assault")
-
-[Koizumi ranks as top choice in polls among lawmakers in Japan’s LDP race](https://www.japantimes.co.jp/news/2024/09/21/japan/politics/koizumi-lawmaker-favorite/ "Koizumi ranks as top choice in polls among lawmakers in Japan’s LDP race")
-
-  [![Shinjiro Koizumi, a former environment minister, during a news conference at the Liberal Democratic Party headquarters in Tokyo earlier this month. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/21/423033.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Shinjiro Koizumi, a former environment minister, during a news conference at the Liberal Democratic Party headquarters in Tokyo earlier this month. ")](https://www.japantimes.co.jp/news/2024/09/21/japan/politics/koizumi-lawmaker-favorite/ "Koizumi ranks as top choice in polls among lawmakers in Japan’s LDP race")
-
-[U.S. leans on shipbuilding prowess of allies to compete with China](https://www.japantimes.co.jp/news/2024/09/21/asia-pacific/us-shipbuilding-allies/ "U.S. leans on shipbuilding prowess of allies to compete with China")
-
-  [![Warships and fighter jets of the Chinese People's Liberation Army Navy take part in a military display in the South China Sea in April 2018.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/21/423021.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Warships and fighter jets of the Chinese People's Liberation Army Navy take part in a military display in the South China Sea in April 2018.")](https://www.japantimes.co.jp/news/2024/09/21/asia-pacific/us-shipbuilding-allies/ "U.S. leans on shipbuilding prowess of allies to compete with China")
 
 [Jimgu: A farm-driven restaurant of outstanding local variety](https://www.japantimes.co.jp/life/2024/09/22/food-drink/jimgu-enowa-farm-yufuin-oita/ "Jimgu: A farm-driven restaurant of outstanding local variety")
 
@@ -499,9 +499,9 @@ Revised June 1, 2022
 
   [![Shohei Ohtani connects on his 50th home run of the season during the seventh inning against the Marlins in Miami on Thursday. Ohtani became the first player in MLB history to reach 50 home runs and 50 stolen bases in the same season.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/20/422799.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Shohei Ohtani connects on his 50th home run of the season during the seventh inning against the Marlins in Miami on Thursday. Ohtani became the first player in MLB history to reach 50 home runs and 50 stolen bases in the same season.")](https://www.japantimes.co.jp/sports/2024/09/20/baseball/mlb/ohtani-50-50-season/ "Shohei Ohtani records baseball's first 50-50 season with huge night in Miami")
 
-[Yuriyan Retriever is Japan's biggest heel — and proud of it](https://www.japantimes.co.jp/culture/2024/09/20/tv-streaming/yuriyan-retriever-dump-matsumoto/ "Yuriyan Retriever is Japan's biggest heel — and proud of it")
+[How China’s dominance of solar and batteries is impacting Japan’s energy transition](https://www.japantimes.co.jp/environment/2024/09/16/energy/china-supply-chain-energy-transition/ "How China’s dominance of solar and batteries is impacting Japan’s energy transition")
 
-  [![Comedian Yuriyan Retriever takes on the role of Japan’s most hated heel, Kaoru “Dump” Matsumoto, in “The Queen of Villains.”](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/20/422369.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Comedian Yuriyan Retriever takes on the role of Japan’s most hated heel, Kaoru “Dump” Matsumoto, in “The Queen of Villains.”")](https://www.japantimes.co.jp/culture/2024/09/20/tv-streaming/yuriyan-retriever-dump-matsumoto/ "Yuriyan Retriever is Japan's biggest heel — and proud of it")
+  [![Solar panels and wind turbines at a power plant in Hami in China's Xinjiang region. The U.S. and other countries have described China’s actions against Uyghurs in the Xinjiang region, a key cog in the cleantech supply chain, as a genocidal campaign aimed at erasing an entire culture.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/16/421263.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Solar panels and wind turbines at a power plant in Hami in China's Xinjiang region. The U.S. and other countries have described China’s actions against Uyghurs in the Xinjiang region, a key cog in the cleantech supply chain, as a genocidal campaign aimed at erasing an entire culture.")](https://www.japantimes.co.jp/environment/2024/09/16/energy/china-supply-chain-energy-transition/ "How China’s dominance of solar and batteries is impacting Japan’s energy transition")
 
 Podcast
 -------
@@ -522,9 +522,9 @@ By [Alex K.T. Martin](https://www.japantimes.co.jp/author/219/alex-kt-martin/ "A
 SUSTAINABLE JAPAN
 -----------------
 
-[mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world](https://sustainable.japantimes.com/magazine/vol39/39-06?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=3 "mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world")
+[Azabudai Hills, Tokyo’s green new downtown ‘village’](https://sustainable.japantimes.com/unraveling/26?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=2 "Azabudai Hills, Tokyo’s green new downtown ‘village’")
 
-[![mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world](https://wp.japantimes.co.jp/wp-content/uploads/2024/08/img_magazine_39_06_01-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol39/39-06?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=3 "mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world")
+[![Azabudai Hills, Tokyo’s green new downtown ‘village’](https://wp.japantimes.co.jp/wp-content/uploads/2024/07/img_unraveling_26_01-200x200.jpg)](https://sustainable.japantimes.com/unraveling/26?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=2 "Azabudai Hills, Tokyo’s green new downtown ‘village’")
 
 SPECIAL SUPPLEMENTS [![note](/theme_japantimes/images/icon_note.png)](javascript:; "Note")
 ------------------------------------------------------------------------------------------
@@ -564,25 +564,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
-[Koizumi enjoys most support among lawmakers in LDP race: Jiji survey](https://www.japantimes.co.jp/news/2024/09/22/japan/politics/koizumi-enjoys-most-ldp-support/ "Koizumi enjoys most support among lawmakers in LDP race: Jiji survey")
+[A Mercedes-Benz fire could cloud South Korea’s EV shift, or give it a boost](https://www.japantimes.co.jp/business/2024/09/23/companies/mercedes-benz-fire-korea-ev/ "A Mercedes-Benz fire could cloud South Korea’s EV shift, or give it a boost")
 
-10 hours ago
+21 mins ago
 
-[Kim Jong Un offers tepid praise to China as he cozies up to Russia](https://www.japantimes.co.jp/news/2024/09/22/asia-pacific/kim-jong-un-china-praise/ "Kim Jong Un offers tepid praise to China as he cozies up to Russia")
+[Four Japanese banks participate in digital currency project](https://www.japantimes.co.jp/business/2024/09/23/japanese-banks-digital-currency-project/ "Four Japanese banks participate in digital currency project")
 
-10 hours ago
+25 mins ago
 
-[As sun sets on Biden's term, some inmates pin their hopes on clemency](https://www.japantimes.co.jp/news/2024/09/22/world/politics/biden-inmates-clemency/ "As sun sets on Biden's term, some inmates pin their hopes on clemency")
+[Big three money managers cut support for climate proposals](https://www.japantimes.co.jp/business/2024/09/23/markets/money-managers-climate-proposals/ "Big three money managers cut support for climate proposals")
 
-10 hours ago
+48 mins ago
 
-[Israel forces raid Al Jazeera TV in West Bank and order 45-day closure](https://www.japantimes.co.jp/news/2024/09/22/world/politics/israel-forces-raid-al-jazeera/ "Israel forces raid Al Jazeera TV in West Bank and order 45-day closure")
+[Sri Lanka leftist wins election after vowing to rejig IMF deal](https://www.japantimes.co.jp/news/2024/09/23/asia-pacific/politics/sri-lanka-leftist-imf/ "Sri Lanka leftist wins election after vowing to rejig IMF deal")
 
-11 hours ago
+50 mins ago
 
-[Australia backs easing of China's ban on Japan fishery products](https://www.japantimes.co.jp/news/2024/09/22/japan/australia-china-japan-fishery-products/ "Australia backs easing of China's ban on Japan fishery products")
+[Apollo to offer multibillion-dollar investment in Intel](https://www.japantimes.co.jp/business/2024/09/23/tech/apollo-multibillion-investment-intel/ "Apollo to offer multibillion-dollar investment in Intel")
 
-11 hours ago
+52 mins ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
