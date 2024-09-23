@@ -211,7 +211,7 @@ Frontdoor
 3400 Players Club Parkway, Suite 300  
 Memphis, TN 38125
 
-_(Last updated_ **_\[●\]_**_, 2024)_
+_(Last updated_ _September__, 2024)_
 
 * * *
 
