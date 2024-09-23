@@ -187,11 +187,11 @@ Newsletter Signup
 
 ![Red Star Icon](https://cdn.returningveterans.org/images/site/star_red.png)[### Wall of Honor
 
-![U.S. Army Transportation Corps Aviation Association (TCAA)](https://cdn.returningveterans.org/images/honor/CCF01272010_00000.jpg)  
+![Butch Ross](https://cdn.returningveterans.org/images/honor/flag_generic_wall_of_honor.jpg)  
 
-**In Honor of U.S. Army Transportation Corps Aviation Association (TCAA)**  
+**In Honor of Butch Ross**  
 United States Army  
-Submitted by Ted Cimral](https://returningveterans.org/wall-of-honor/ "Visit the Wall of Honor")
+Submitted by Buffy Rider](https://returningveterans.org/wall-of-honor/ "Visit the Wall of Honor")
 
 Returning Veterans Project
 
@@ -236,5 +236,5 @@ _The appearance of U.S. Department of Defense (DoD) visual information does not 
 * [Site by NetRaising](https://netraising.com/ "NetRaising | a web consultancy")
 
 https://returningveterans.org/about/privacy-statement/  
-Printed 9/23/24 - 2:26:15  
+Printed 9/23/24 - 8:27:21  
 © 2024 Returning Veterans Project
