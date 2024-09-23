@@ -68,21 +68,7 @@ Open Source](https://www.21analytics.ch/resources/#tools)
 
 [Travel Rule Regulations](https://www.21analytics.ch/travel-rule-regulations/)
 
-[Blog](https://www.21analytics.ch/blog/)
-
-ConsultingArrow Link
-
-[Travel Rule Icon
-
-Integrating TRP](https://www.21analytics.ch/travel-rule-consulting/)[Business Icon
-
-Business Consulting](https://www.21analytics.ch/business-consulting/)[Gear Icon
-
-Rust Software Engineering](https://www.21analytics.ch/rust-consulting/)[External Link
-
-Smart Contract Audits](https://audit.boutique/)
-
-[Company](https://www.21analytics.ch/company/)
+[Blog](https://www.21analytics.ch/blog/)[Company](https://www.21analytics.ch/company/)
 
 Request a Demo
 
