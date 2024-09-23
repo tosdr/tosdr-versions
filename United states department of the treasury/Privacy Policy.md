@@ -572,6 +572,10 @@ MENU MENU
     [Remarks and Statements](https://home.treasury.gov/news/press-releases/statements-remarks)
     ------------------------------------------------------------------------------------------
     
+    September 23, 2024
+    
+    [Statement by Secretary of the Treasury Janet L. Yellen on 30th Anniversary of Community Development Financial Institution Fund](https://home.treasury.gov/news/press-releases/jy2599)
+    
     September 20, 2024
     
     [Statement by Secretary of the Treasury Janet L. Yellen on Commodity Futures Trading Commission’s (CFTC) Final Guidance on Voluntary Carbon Markets](https://home.treasury.gov/news/press-releases/jy2596)
@@ -579,10 +583,6 @@ MENU MENU
     September 19, 2024
     
     [Remarks by Secretary of the Treasury Janet L. Yellen at the Community Development Advisory Board Meeting Celebrating the CDFI Fund’s 30th Anniversary](https://home.treasury.gov/news/press-releases/jy2592)
-    
-    September 17, 2024
-    
-    [Remarks by Under Secretary of Domestic Finance Nellie Liang at the Future of Financial Markets: Innovation and Uncertainty, Georgetown Psaros Center for Financial Markets and Policy](https://home.treasury.gov/news/press-releases/jy2584)
     
     [View All Remarks and Statements](https://home.treasury.gov/news/press-releases/statements-remarks "View all Remarks and Statements")
     
