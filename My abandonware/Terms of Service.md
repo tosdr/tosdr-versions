@@ -85,11 +85,11 @@ Top downloads
 
 Latest releases
 
-* [Killer Comet](https://www.myabandonware.com/game/killer-comet-sgn)
-* [Long Beach](https://www.myabandonware.com/game/long-beach-sgm)
-* [Logic Pro Adventure](https://www.myabandonware.com/game/logic-pro-adventure-sgl)
-* [LiberoGrande](https://www.myabandonware.com/game/liberogrande-sgk)
-* [Liberator](https://www.myabandonware.com/game/liberator-sgj)
+* [Galaxian](https://www.myabandonware.com/game/galaxian-v)
+* [Great Swordsman](https://www.myabandonware.com/game/great-swordsman-sgw)
+* [Grand Champion](https://www.myabandonware.com/game/grand-champion-sgv)
+* [Head On](https://www.myabandonware.com/game/head-on-sgu)
+* [Golden Axe: The Duel](https://www.myabandonware.com/game/golden-axe-the-duel-nbq)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [Facebook](https://www.facebook.com/myabandonware) or [X (Twitter)](https://x.com/myabandonware)
