@@ -405,11 +405,11 @@ Help
 
 © 2024 bunq
 
-Cookie Settings
-
 [Privacy Policy](https://www.bunq.com/assets/media/legal/en/documents/privacy)
 
 [Terms & Conditions](https://www.bunq.com/assets/media/legal/en/documents/terms-conditions)
+
+Cookie Settings
 
 [![Download on Apple App Store](https://framerusercontent.com/images/mJUUJsz9CT3sNecEPf6XCeMlxw.svg)](https://app.adjust.com/dqvbt6?engagement_type=fallback_click&fallback=https%3A%2F%2Fweb.bunq.com%2Fsignup&redirect_macos=https%3A%2F%2Fweb.bunq.com%2Fsignup%3Ftracker_token%3Ddqvbt6)[![Get on Google Play store](https://framerusercontent.com/images/ReS3fnAa1p7oUGDH2GLu3qHy1g.svg)](https://app.adjust.com/dqvbt6?engagement_type=fallback_click&fallback=https%3A%2F%2Fweb.bunq.com%2Fsignup&redirect_macos=https%3A%2F%2Fweb.bunq.com%2Fsignup%3Ftracker_token%3Ddqvbt6)
 
@@ -483,11 +483,11 @@ Help
 
 © 2024 bunq
 
-Cookie Settings
-
 [Privacy Policy](https://www.bunq.com/assets/media/legal/en/documents/privacy)
 
 [Terms & Conditions](https://www.bunq.com/assets/media/legal/en/documents/terms-conditions)
+
+Cookie Settings
 
 [![Download on Apple App Store](https://framerusercontent.com/images/mJUUJsz9CT3sNecEPf6XCeMlxw.svg)](https://app.adjust.com/dqvbt6?engagement_type=fallback_click&fallback=https%3A%2F%2Fweb.bunq.com%2Fsignup&redirect_macos=https%3A%2F%2Fweb.bunq.com%2Fsignup%3Ftracker_token%3Ddqvbt6)[![Get on Google Play store](https://framerusercontent.com/images/ReS3fnAa1p7oUGDH2GLu3qHy1g.svg)](https://app.adjust.com/dqvbt6?engagement_type=fallback_click&fallback=https%3A%2F%2Fweb.bunq.com%2Fsignup&redirect_macos=https%3A%2F%2Fweb.bunq.com%2Fsignup%3Ftracker_token%3Ddqvbt6)
 
@@ -561,10 +561,10 @@ Help
 
 © 2024 bunq
 
-Cookie Settings
-
 [Privacy Policy](https://www.bunq.com/assets/media/legal/en/documents/privacy)
 
 [Terms & Conditions](https://www.bunq.com/assets/media/legal/en/documents/terms-conditions)
+
+Cookie Settings
 
 [![Download on Apple App Store](https://framerusercontent.com/images/mJUUJsz9CT3sNecEPf6XCeMlxw.svg)](https://app.adjust.com/dqvbt6?engagement_type=fallback_click&fallback=https%3A%2F%2Fweb.bunq.com%2Fsignup&redirect_macos=https%3A%2F%2Fweb.bunq.com%2Fsignup%3Ftracker_token%3Ddqvbt6)[![Get on Google Play store](https://framerusercontent.com/images/ReS3fnAa1p7oUGDH2GLu3qHy1g.svg)](https://app.adjust.com/dqvbt6?engagement_type=fallback_click&fallback=https%3A%2F%2Fweb.bunq.com%2Fsignup&redirect_macos=https%3A%2F%2Fweb.bunq.com%2Fsignup%3Ftracker_token%3Ddqvbt6)
